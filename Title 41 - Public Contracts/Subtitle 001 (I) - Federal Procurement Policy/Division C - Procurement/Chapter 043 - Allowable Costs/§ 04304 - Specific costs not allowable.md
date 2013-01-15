@@ -4,7 +4,7 @@
 
 Specific Costs.—The following costs are not allowable under a covered contract:
 
-&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities, and any costs directly associated with those costs (such as tickets to shows or sports events,meals, lodging, rentals, transportation, and gratuities).
 
 &emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
@@ -108,7 +108,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘employee’ includes officers and directors of a contractor.
 
-&emsp;“(2) The term ‘covered contract’ has the meaning given such term in section 2324(<i>l</i>) of title 10, United States Code (as amended by section 2101(c) \[2101(d)\]), and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
+&emsp;“(2) The term ‘covered contract’ has the meaning given such term in section 2324(l) of title 10, United States Code (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
 
 “(c)
 

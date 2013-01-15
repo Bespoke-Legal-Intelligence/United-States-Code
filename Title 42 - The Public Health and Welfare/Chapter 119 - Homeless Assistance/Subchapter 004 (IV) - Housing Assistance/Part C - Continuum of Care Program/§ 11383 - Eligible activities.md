@@ -14,7 +14,7 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 
 &emsp;(5) Payment of operating costs for housing units assisted under this part or for the preservation of housing that will serve homeless individuals and families and for which another form of assistance is expiring or otherwise no longer available.
 
-&emsp;(6) Supportive services for individuals and families who are currently homeless, who have been homeless in the prior six months but are currently residing in permanent housing, or who were previously homeless and are currently residing in permanent supportive housing.
+&emsp;(6) Supportive services for individuals and families who are currently homeless, who have been homeless in the prior six months but arecurrently residing in permanent housing, or who were previously homeless and are currently residing in permanent supportive housing.
 
 &emsp;(7) Provision of rehousing services, including housing search, mediation or outreach to property owners, credit repair, providing security or utility deposits, rental assistance for a final month at a location, assistance with moving costs, or other activities that—
 
@@ -26,7 +26,7 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 
 &emsp;(9) Operation of, participation in, and ensuring consistent participation by project sponsors in, a community-wide homeless management information system.
 
-&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
+&emsp;(10) In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title, for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
 
 &emsp;(11) In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title, payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
 
@@ -74,7 +74,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 &emsp;&emsp;(C) project-based rental assistance or operating cost assistance from any Federal program or an equivalent State or local program is no longer made available and the project is meeting applicable performance standards, provided that the portion of the project that had benefitted from such assistance continues to meet the tenant income and rent restrictions for low-income units under section 42(g) of title 26; or
 
-&emsp;&emsp;(D) there are no individuals and families in the geographic area who are homeless, in which case the project may serve individuals and families at risk of homelessness.
+&emsp;&emsp;(D) there are no individuals and families in the geographic area who are homeless, inwhich case the project may serve individuals and families at risk of homelessness.
 
 #### (e) Staff training
 
@@ -103,4 +103,8 @@ Another prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 1
 #### Effective Date
 
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+
+#### Definition
+
+For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

@@ -28,7 +28,7 @@ The Government Accountability Office, the Government Printing Office, and the Li
 
 #### (7) Construction
 
-&emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General AccountingOffice Personnel Act of 1980 and regulations promulgated pursuant to that Act.
+&emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
 (Pub. L. 101–336, title V, §510, formerly §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; renumbered §510, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
 

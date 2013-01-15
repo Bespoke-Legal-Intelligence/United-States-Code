@@ -6,7 +6,7 @@ There is established within the Department of Justice, under the general authori
 
 #### (b) Director of Institute; appointment by President; authority; restrictions
 
-The Institute shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in justice research. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall have final authority over all grants, cooperative agreements, and contracts awarded by the Institute. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Institute makes any contract or other arrangement under this chapter.
+The Institute shall be headed by a Director appointed by the President. The Director shall have had experience in justice research. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall have final authority over all grants, cooperative agreements, and contracts awarded by the Institute. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Institute makes any contract or other arrangement under this chapter.
 
 #### (c) Duties and functions
 
@@ -62,13 +62,15 @@ To insure that all criminal and civil justice research is carried out in a coord
 
 &emsp;(5) exercise the powers and functions set out in subchapter VIII of this chapter.
 
-(Pub. L. 90–351, title I, §202, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, §330001(h)(1), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 107–296, title II, §237, Nov. 25, 2002, 116 Stat. 2162.)
+(Pub. L. 90–351, title I, §202, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, §330001(h)(1), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 107–296, title II, §237, Nov. 25, 2002, 116 Stat. 2162; Pub. L. 112–166, §2(h)(3), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### Prior Provisions
 
 A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 <b>2002</b>—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
 
@@ -91,6 +93,10 @@ Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par
 Subsec. (c)(9). Pub. L. 98–473, §604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 
 Subsec. (c)(10), (11). Pub. L. 98–473, §604(b)(2)(F), redesignated pars. (10) and (11) as (8) and (9), respectively.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2002 Amendment
 

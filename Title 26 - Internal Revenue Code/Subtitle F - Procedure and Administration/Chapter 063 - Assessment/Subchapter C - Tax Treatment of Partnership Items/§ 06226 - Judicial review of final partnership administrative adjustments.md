@@ -86,13 +86,13 @@ A court with which a petition is filed in accordance with this section shall hav
 
 #### (g) Determination of court reviewable
 
-Any determination by a court under this section shall have the force and effect of a decisionof the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
+Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
 
 #### (h) Effect of decision dismissing action
 
 If an action brought under this section is dismissed (other than under paragraph (4) of subsection (b)), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership administrative adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 653; amended Pub. L. 97–448, title III, §306(c)(1)(A), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1238(b)(1), 1239(b), 1240(a), Aug. 5, 1997, 111 Stat. 1026–1028.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 653; amended Pub. L. 97–448, title III, §306(c)(1)(A), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106Stat. 4516; Pub. L. 105–34, title XII, §§1238(b)(1), 1239(b), 1240(a), Aug. 5, 1997, 111 Stat. 1026–1028.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Amendment by section 1238(b)(1) of Pub. L. 105–34 applicable to partnership ta
 
 Amendment by section 1239(b) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6225 of this title.
 
-Section 1240(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to petitions filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1240(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section \[amending this section\] shall apply to petitions filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1992 Amendment
 

@@ -10,7 +10,7 @@
 
 (3) Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when an annual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
 
-(Pub. L. 97–258, §§1, 2(<i>l</i>)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, §1(27), Jan. 12, 1983, 96 Stat. 2478.)
+(Pub. L. 97–258, §§1, 2(l)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, §1(27), Jan. 12, 1983, 96 Stat. 2478.)
 
 Historical and Revision Notes<br>1982
 
@@ -66,7 +66,7 @@ This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperati
 
 <b>1983</b>—Subsec. (c)(3). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,” which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (c)(3). Pub. L. 97–258, §2(<i>l</i>)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–258, §2(l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 
 #### Effective Date of 1983 Amendment
 
@@ -74,5 +74,5 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 #### Effective Date of 1982 Amendment
 
-Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by such section is effective Jan. 1, 1982.
+Pub. L. 97–258, §2(l), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by such section is effective Jan. 1, 1982.
 

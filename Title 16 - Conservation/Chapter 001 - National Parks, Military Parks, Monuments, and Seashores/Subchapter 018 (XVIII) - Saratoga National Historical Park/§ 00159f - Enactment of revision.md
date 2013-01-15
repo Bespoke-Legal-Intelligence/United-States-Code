@@ -10,5 +10,5 @@ This Act, referred to in text, is Pub. L. 97–460, Jan. 12, 1983, 96 Stat. 2520
 
 #### Authorization of Appropriations
 
-Section 4 of Pub. L. 97–460 provided that: “There are hereby authorized to be appropriated after October 1, 1983, such sums as may be necessary, but not to exceed $1,000,000 for the acquisition of lands and interests therein, to carry out the purposes of this Act \[enacting sections 159f and 159g of this title and amending section 159d of this title\].”
+Pub. L. 97–460, §4, Jan. 12, 1983, 96 Stat. 2522, provided that: “There are hereby authorized to be appropriated after October 1, 1983, such sums as may be necessary, but not to exceed $1,000,000 for the acquisition of lands and interests therein, to carry out the purposes of this Act \[enacting sections 159f and 159g of this title and amending section 159d of this title\].”
 

@@ -46,7 +46,7 @@ For purposes of this subpart—
 
 #### (b) Commercial aviation
 
-For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261.
+For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
 #### (c) Certain uses defined as removal
 
@@ -82,9 +82,11 @@ If any person uses taxable fuel (other than in the production of taxable fuels o
 
 &emsp;&emsp;For additional assessable penalty for the refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), see section 6717.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, §902(b)(3), title X, §1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, §6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, §301(c)(8), title VIII, §§853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, §11123(b), Aug. 10, 2005, 119 Stat. 1952.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 105–34, title IX, §902(b)(3), title X, §1032(a), (e)(4), Aug. 5, 1997, 111 Stat. 873, 933, 935; Pub. L. 105–206, title VI, §6010(h)(1), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title III, §301(c)(8), title VIII, §§853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, 118 Stat. 1461, 1611, 1617, 1618, 1623; Pub. L. 109–59, title XI, §11123(b), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1103(b), Feb. 14, 2012, 126 Stat. 151.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–95 inserted at end “Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.”
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “subsection (h) or (i) of section 4261” for “section 4261(h)”.
 
@@ -112,13 +114,17 @@ Subsec. (b). Pub. L. 105–34, §1032(e)(4), substituted “taxable fuels” for
 
 “(1) For provisions to relieve farmers from excise tax in the case of gasoline used on the farm for farming purposes, see section 6420.
 
-“(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
+“(2) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline used for certainnonhighway purposes, used by local transit systems, or sold for certain exempt purposes, see section 6421.
 
 “(3) For provisions to relieve purchasers of gasoline from excise tax in the case of gasoline not used for taxable purposes, see section 6427.”
 
 <b>1986</b>—Pub. L. 99–514 amended section generally. Prior to amendment, section 4083 “Exemption of sales to producer”, read as follows: “Under regulations prescribed by the Secretary the tax imposed by section 4081 shall not apply in the case of sales of gasoline to a producer of gasoline.”
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title XI, §1103(d)(2), Feb. 14, 2012, 126 Stat. 151, provided that: The amendment made by subsection (b) \[amending this section\] shall apply to uses of aircraft after March 31, 2012.”
 
 #### Effective Date of 2005 Amendment
 

@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 101–649, §407(c)(15), (d)(12)(C), substituted “applica
 
 Subsecs. (c) to (e). Pub. L. 101–649, §407(d)(12)(F), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related to time to file, substitute filing place, and investigation into reasons for substitute filing place, respectively.
 
-Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filedwith, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien's place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
+Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted “An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General.” for “Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filed with, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien's place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.”, and substituted “an application” for “a petition” in last sentence.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–116 struck out “and duly verified by two witnesses,” after “able to write,”.
 
@@ -60,7 +60,7 @@ Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignate
 
 Amendment by section 305(d), (e) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
-Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §305(m), Dec. 12, 1991, 105 Stat. 1750, provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1981 Amendment
 

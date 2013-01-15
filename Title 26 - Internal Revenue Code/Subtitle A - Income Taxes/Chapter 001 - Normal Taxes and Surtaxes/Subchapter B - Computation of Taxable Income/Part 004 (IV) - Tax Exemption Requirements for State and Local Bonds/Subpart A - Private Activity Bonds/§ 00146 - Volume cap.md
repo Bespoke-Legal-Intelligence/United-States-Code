@@ -288,7 +288,7 @@ For purposes of this section, determinations of the population of any State (or 
 
 > &emsp;if the issuer establishes that the State's share of the private business use (as defined by section 141(b)(6)) of the facility will equal or exceed the State's share of the volume cap allocated with respect to bonds issued to finance the facility.
 
-#### (<i>l</i>) Issuer of qualified scholarship funding bonds
+#### (l) Issuer of qualified scholarship funding bonds
 
 In the case of a qualified scholarship funding bond, such bond shall be treated for purposes of this section as issued by a State or local issuing authority (whichever is appropriate).
 
@@ -316,10 +316,6 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
 <b>2008</b>—Subsec. (d)(5). Pub. L. 110–289, §3021(a)(1), added par. (5).
@@ -332,7 +328,7 @@ Subsec. (i)(6). Pub. L. 110–289, §3007(a), added par. (6).
 
 <b>2004</b>—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
 
-<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16, §§422(c), 901, temporarily substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16 substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”
 
 <b>2000</b>—Subsec. (d)(1), (2). Pub. L. 106–554 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) provided for State ceilings based on the per capita limits and aggregate limits set out in an included table.
 
@@ -388,11 +384,9 @@ Amendment by Pub. L. 109–59 applicable to bonds issued after Aug. 10, 2005, se
 
 Amendment by Pub. L. 108–357 applicable to bonds issued after Dec. 31, 2004, see section 701(e) of Pub. L. 108–357, set out as a note under section 142 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -404,7 +398,7 @@ Pub. L. 105–277, div. J, title II, §2021(b), Oct. 21, 1998, 112 Stat. 2681–
 
 #### Effective Date of 1993 Amendment
 
-Section 13121(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13121(b), Aug. 10, 1993, 107 Stat. 432, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1993.”
 
 #### Effective Date of 1992 Amendment
 

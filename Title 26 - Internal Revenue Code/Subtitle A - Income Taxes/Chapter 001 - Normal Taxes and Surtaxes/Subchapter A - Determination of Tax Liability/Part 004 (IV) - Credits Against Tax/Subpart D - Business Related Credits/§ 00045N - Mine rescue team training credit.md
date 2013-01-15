@@ -26,15 +26,21 @@ For purposes of this section, the term “wages” has the meaning given to such
 
 #### (e) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2011.
+This section shall not apply to taxable years beginning after December 31, 2013.
 
-(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957; amended Pub. L. 110–343, div. C, title III, §310, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §735(a), Dec. 17, 2010, 124 Stat. 3318.)
+(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957; amended Pub. L. 110–343, div. C, title III, §310, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §735(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §307(a), Jan. 2, 2013, 126 Stat. 2329.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §307(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

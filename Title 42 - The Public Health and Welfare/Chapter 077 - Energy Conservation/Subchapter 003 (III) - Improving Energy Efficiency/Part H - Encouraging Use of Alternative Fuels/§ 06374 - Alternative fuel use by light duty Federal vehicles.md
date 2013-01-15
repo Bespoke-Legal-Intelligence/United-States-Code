@@ -2,7 +2,7 @@
 
 #### (a) Department of Energy program
 
-(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with thecooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
+(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with the cooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
 
 (2) In any determination of whether the acquisition of a vehicle is practicable under paragraph (1), the initial cost of such vehicle to the United States shall not be considered as a factor unless the initial cost of such vehicle exceeds the initial cost of a comparable gasoline or diesel fueled vehicle by at least 5 percent.
 
@@ -44,7 +44,7 @@
 
 (B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired.
 
-(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
+(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price tocharge, without compromising studies of the use of such vehicles authorized under this part.
 
 (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442;amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
 
 #### References in Text
 
@@ -174,11 +174,11 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination Date
 
-Section 4(b) of Pub. L. 100–494, which provided that this section and the amendments made by this section (enacting this part) were to cease to be effective after Sept. 30, 1997, was repealed by Pub. L. 102–486, title III, §302(b), Oct. 24, 1992, 106 Stat. 2871.
+Pub. L. 100–494, §4(b), Oct. 14, 1988, 102 Stat. 2448, which provided that this section and the amendments made by this section (enacting this part) were to cease to be effective after Sept. 30, 1997, was repealed by Pub. L. 102–486, title III, §302(b), Oct. 24, 1992, 106 Stat. 2871.
 
 #### Findings
 
-Section 2 of Pub. L. 100–494 provided that: “The Congress finds and declares that—
+Pub. L. 100–494, §2, Oct. 14, 1988, 102 Stat. 2441, provided that: “The Congress finds and declares that—
 
 &emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of the national economy, the well-being of our citizens, and the maintenance of national security;
 
@@ -186,7 +186,7 @@ Section 2 of Pub. L. 100–494 provided that: “The Congress finds and declares
 
 &emsp;“(3) transportation uses account for more than 60 percent of the oil consumption of the Nation;
 
-&emsp;“(4) the Nation's security, economic, and environmental interests require that the Federal Government should assist clean-burning, nonpetroleum transportation fuels to reach a threshold level of commercial application and consumer acceptability at which they can successfully compete with petroleum-based fuels;
+&emsp;“(4) the Nation's security, economic, and environmental interests require that the Federal Government should assist clean-burning, nonpetroleum transportation fuels to reach a threshold level ofcommercial application and consumer acceptability at which they can successfully compete with petroleum-based fuels;
 
 &emsp;“(5) methanol, ethanol, and natural gas are proven transportation fuels that burn more cleanly and efficiently than gasoline and diesel fuel;
 
@@ -200,7 +200,7 @@ Section 2 of Pub. L. 100–494 provided that: “The Congress finds and declares
 
 #### Purpose
 
-Section 3 of Pub. L. 100–494 provided that: “The purpose of this Act \[see Short Title of 1988 Amendment note set out under section 6201 of this title\] is to encourage—
+Pub. L. 100–494, §3, Oct. 14, 1988, 102 Stat. 2442, provided that: “The purpose of this Act \[see Short Title of 1988 Amendment note set out under section 6201 of this title\] is to encourage—
 
 &emsp;“(1) the development and widespread use of methanol, ethanol, and natural gas as transportation fuels by consumers; and
 
@@ -208,7 +208,7 @@ Section 3 of Pub. L. 100–494 provided that: “The purpose of this Act \[see S
 
 #### Use of Nonstandard Fuels
 
-Section 5 of Pub. L. 100–494 provided that: “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f)).”
+Pub. L. 100–494, §5, Oct. 14, 1988, 102 Stat. 2448, provided that: “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f)).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

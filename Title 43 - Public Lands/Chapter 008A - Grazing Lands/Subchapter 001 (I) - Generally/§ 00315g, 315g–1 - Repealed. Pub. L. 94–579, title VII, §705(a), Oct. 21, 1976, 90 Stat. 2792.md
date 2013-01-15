@@ -6,7 +6,7 @@ Section 315g–1, Pub. L. 87–524, July 9, 1962, 76 Stat. 140, authorized lands
 
 #### Effective Date of Repeal
 
-Section 705(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

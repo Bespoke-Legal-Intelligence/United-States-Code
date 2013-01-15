@@ -24,7 +24,7 @@
 
 #### (b) Librarian of Congress
 
-The Librarian of Congress shall have charge of all work (other than work under subsection (a)of this section) at the Library of Congress buildings and grounds.
+The Librarian of Congress shall have charge of all work (other than work under subsection (a) of this section) at the Library of Congress buildings and grounds.
 
 #### (c) Transfer of funds
 
@@ -46,7 +46,7 @@ Pub. L. 108–7, div. H, title I, §1208(b), Feb. 20, 2003, 117 Stat. 376, provi
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L.101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
 
 #### Acquisition of Real Property for Library of Congress
 
@@ -96,7 +96,7 @@ Special Rule for Inclusion of Property Within Library Buildings and Grounds.—T
 
 Pub. L. 103–110, §122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
-“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transferof funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
+“(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
 
 “(b) The Architect of the Capitol shall, upon completion of the survey performed pursuant to subsection (c) and the transfer effected pursuant to subsection (a), utilize the transferred property to provide facilities to accommodate the varied long-term storage and service needs of the Library of Congress and other Legislative Branch agencies.
 
@@ -114,9 +114,9 @@ Pub. L. 102–451, §4, Oct. 23, 1992, 106 Stat. 2253, provided that: “No even
 
 #### Special Facilities Center; Acquisition
 
-Section 205 of Pub. L. 101–520, as amended by Pub. L. 102–451, §§1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
+Pub. L. 101–520, title II, §205, Nov. 5, 1990, 104 Stat. 2272, as amended by Pub. L. 102–451, §§1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
 
-“(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
+“(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbiaon August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
 
 “(b) \[Amended section 141 of this title.\]
 
@@ -166,7 +166,7 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
-Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document,record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
+Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
 Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, §3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
 
@@ -180,7 +180,7 @@ Pub. L. 91–214, §2, Mar. 16, 1970, 84 Stat. 69, provided that: “Nothing con
 
 Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, §1, Mar. 16, 1970, 84 Stat. 69; Pub. L. 94–219, Feb. 27, 1976, 90 Stat. 194; Pub. L. 95–548, Oct. 30, 1978, 92 Stat. 2064, provided: “That (a) the Architect of the Capitol under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, after consultation with a committee designated by the American Institute of Architects, is authorized and directed to construct (including, but not limited to, the preparation of all necessary designs, plans, and specifications) in square 732 in the District of Columbia a third Library of Congress fireproof building, which shall be known as the Library of Congress James Madison Memorial Building. The design of such building shall include a Madison Memorial Hall and shall be in keeping with the prevailing architecture of the Federal buildings on Capitol Hill. The Madison Memorial Hall shall be developed in consultation with the James Madison Memorial Commission.
 
-“(b) In carrying out his authority under this joint resolution, the Architect of the Capitol, under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, is authorized (1) to provide for such equipment, such connections with the Capitol Power Plant and other utilities, such access facilities over or under public streets, such changes in the present Library of Congress buildings, such changes in or additions to the present tunnels, and such other appurtenant facilities, as may be necessary, and (2) to do such landscaping as may be necessary by reason of the construction authorized by this joint resolution.
+“(b) In carrying out his authority under this joint resolution, the Architect of the Capitol, under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, is authorized (1) to provide for such equipment, such connections with the Capitol Power Plant and other utilities, such access facilities over or under public streets, such changes in the present Library of Congress buildings, such changes in or additions to the present tunnels, and such other appurtenant facilities, as may be necessary, and (2) todo such landscaping as may be necessary by reason of the construction authorized by this joint resolution.
 
 “
 

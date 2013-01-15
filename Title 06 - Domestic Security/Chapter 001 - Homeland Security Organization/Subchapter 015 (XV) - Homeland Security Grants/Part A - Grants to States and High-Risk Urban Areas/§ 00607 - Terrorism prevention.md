@@ -30,7 +30,7 @@
 
 #### (3) Participation of underrepresented communities in fusion centers
 
-&emsp;The Administrator shall ensure that grant funds described in paragraph (1) are used tosupport the participation, as appropriate, of law enforcement and other emergency response providers from rural and other underrepresented communities at risk from acts of terrorism in fusion centers.
+&emsp;The Administrator shall ensure that grant funds described in paragraph (1) are used to support the participation, as appropriate, of law enforcement and other emergency response providers from rural and other underrepresented communities at risk from acts of terrorism in fusion centers.
 
 #### (b) Office for State and Local Law Enforcement
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(E) coordinate with the Science and Technology Directorate, the Federal Emergency Management Agency, the Department of Justice, the National Institute of Justice, law enforcement organizations, and other appropriate entities to support the development, promulgation, and updating, as necessary, of national voluntary consensus standards for training and personal protective equipment to be used in a tactical environment by law enforcement officers; and
 
-&emsp;&emsp;(F) conduct, jointly with the Administrator, a study to determine the efficacy and feasibility of establishing specialized law enforcement deployment teams to assist State, local, and tribal governments in responding to natural disasters, acts of terrorism, or other man-made disasters and report on the results of that study to the appropriate committees of Congress.
+&emsp;&emsp;(F) conduct, jointly with the Administrator, a study to determine the efficacy andfeasibility of establishing specialized law enforcement deployment teams to assist State, local, and tribal governments in responding to natural disasters, acts of terrorism, or other man-made disasters and report on the results of that study to the appropriate committees of Congress.
 
 #### (5) Rule of construction
 

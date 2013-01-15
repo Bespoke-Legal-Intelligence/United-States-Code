@@ -102,7 +102,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(A) The proprietor of a bonded warehouse established for the storage and manipulation of international travel merchandise shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. The warehouse proprietor's bond shall also secure the manipulation of international travel merchandise in a staging area.
 
-&emsp;(B) A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody of international travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
+&emsp;(B) A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody ofinternational travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
 
 &emsp;(C) A transfer of liability from the warehouse proprietor to the international carrier occurs when the bonded warehouse proprietor assigns custody of international travel merchandise to the carrier.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 
 #### Effective Date of 1988 Amendment
 
-Section 1908(c) of Pub. L. 100–418 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date that is 15 days after the date of enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title I, §1908(c), Aug. 23, 1988, 102 Stat. 1317, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date that is 15 days after the date of enactment of this Act \[Aug. 23, 1988\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -158,7 +158,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Duty-Free Sales Enterprises; Findings
 
-Section 1908(a) of Pub. L. 100–418 provided that: “The Congress finds that—
+Pub. L. 100–418, title I, §1908(a), Aug. 23, 1988, 102 Stat. 1315, provided that: “The Congress finds that—
 
 &emsp;“(1) duty-free sales enterprises play a significant role in attracting international passengers to the United States and thereby their operations favorably affect our balance of payments;
 

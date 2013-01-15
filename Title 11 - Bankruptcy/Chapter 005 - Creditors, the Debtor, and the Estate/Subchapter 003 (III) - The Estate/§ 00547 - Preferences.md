@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, rawmaterials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) “new value” means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) on or within 90 days before the date of the filing of the petition; or
 
-&emsp;&emsp;(B) between ninety days and one year before the date of the filing of the petition, ifsuch creditor at the time of such transfer was an insider; and
+&emsp;&emsp;(B) between ninety days and one year before the date of the filing of the petition, if such creditor at the time of such transfer was an insider; and
 
 &emsp;(5) that enables such creditor to receive more than such creditor would receive if—
 
@@ -86,7 +86,7 @@
 
 (e)(1) For the purposes of this section—
 
-&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of real property, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
+&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of realproperty, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
 
 &emsp;(B) a transfer of a fixture or property other than real property is perfected when a creditor on a simple contract cannot acquire a judicial lien that is superior to the interest of the transferee.
 
@@ -142,7 +142,7 @@ This section is a substantial modification of present law. It modernizes the pre
 
 Subsection (a) contains three definitions. Inventory, new value, and receivable are defined in their ordinary senses, but are defined to avoid any confusion or uncertainty surrounding the terms.
 
-Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by the debtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
+Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by thedebtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
 
 Finally, the transfer must enable the creditor to whom or for whose benefit it was made to receive a greater percentage of his claim than he would receive under the distributive provisions of the bankruptcy code. Specifically, the creditor must receive more than he would if the case were a liquidation case, if the transfer had not been made, and if the creditor received payment of the debt to the extent provided by the provisions of the code.
 
@@ -152,7 +152,7 @@ The trustee may avoid a transfer of a lien under this section even if the lien h
 
 Subsection (b)(2) of this section in effect exempts from the preference rules payments by the debtor of tax liabilities, regardless of their priority status.
 
-Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any oneof the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
+Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any one of the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
 
 The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
@@ -264,7 +264,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (c)(9), dollar amount “5,475” was adjusted to “5,850”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (c)(9), dollar amount “5,850” was adjusted to “6,225”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (c)(9), dollar amount “5,475” was adjusted to “5,850”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (c)(9), dollar amount “5,000” was adjusted to “5,475”.
 

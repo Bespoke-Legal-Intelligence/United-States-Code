@@ -34,7 +34,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 &emsp;&emsp;(C) the excess (if any) of the maximum amount allowable as a deduction under section 219 for the taxable year over the amount contributed (determined without regard to section 219(f)(6)) to the accounts or for the annuities (including the amount contributed to a Roth IRA) for the taxable year.
 
-> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amountnot contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
+> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amount not contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
 
 #### (c) Section 403(b) contracts
 
@@ -112,7 +112,7 @@ For purposes of this section, in the case of contributions to a Roth IRA (within
 
 For purposes of this section, in the case of health savings accounts (within the meaning of section 223(d)), the term “excess contributions” means the sum of—
 
-&emsp;(1) the aggregate amount contributed for the taxable year to the accounts (other than a rollover contribution described in section 220(f)(5) or 223(f)(5)) which is neither excludable from gross income under section 106(d)nor allowable as a deduction under section 223 for such year, and
+&emsp;(1) the aggregate amount contributed for the taxable year to the accounts (other than a rollover contribution described in section 220(f)(5) or 223(f)(5)) which is neither excludable from gross income under section 106(d) nor allowable as a deduction under section 223 for such year, and
 
 &emsp;(2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—
 
@@ -127,10 +127,6 @@ For purposes of this section, in the case of health savings accounts (within the
 > For purposes of this subsection, any contribution which is distributed out of the health savings account in a distribution to which section 223(f)(3) applies shall be treated as an amount not contributed.
 
 (Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(e), Dec. 8, 2003, 117 Stat. 2478; Pub. L. 108–311, title IV, §408(a)(22), Oct. 4, 2004, 118 Stat. 1192.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -150,9 +146,9 @@ Pub. L. 107–16, §402(a)(4)(A), which directed the substitution of “qualifie
 
 Subsec. (e)(1). Pub. L. 107–22, §1(b)(2)(B), substituted “Coverdell education savings” for “education individual retirement” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 107–16, §§401(a)(2), (g)(2)(D), 901, temporarily substituted “$2,000” for “$500” and inserted “and” at end. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (e)(1)(A). Pub. L. 107–16, §401(a)(2), (g)(2)(D), substituted “$2,000” for “$500” and inserted “and” at end.
 
-Subsec. (e)(1)(B), (C). Pub. L. 107–16, §§401(g)(2)(D), 901, temporarily redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualified State tuition program for the benefit of such beneficiary, any amount contributed to such accounts for such taxable year; and”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (e)(1)(B), (C). Pub. L. 107–16, §401(g)(2)(D), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualified State tuition program for the benefit of such beneficiary, anyamount contributed to such accounts for such taxable year; and”.
 
 Subsec. (e)(2)(A). Pub. L. 107–22, §1(b)(2)(B), substituted “Coverdell education savings” for “education individual retirement”.
 
@@ -202,9 +198,9 @@ Subsec. (d). Pub. L. 104–191, §301(e)(4), added subsec. (d).
 
 <b>1992</b>—Subsec. (b)(1)(A). Pub. L. 102–318, which directed the substitution of “sections 402(c)” for “sections 402(a)(5), 402(a)(7)”, was executed by substituting “sections 402(c)” for “section 402(a)(5), 402(a)(7)”. See 1996 Amendment note above.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(o)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(o)(2)(B)” in last sentence.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1102(b)(1), inserted at end “For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 (after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B).”
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1102(b)(1), inserted at end “For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 (after application of section 408(o)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(o)(2)(B).”
 
 Pub. L. 99–514, §1848(f), in introductory provisions, substituted “or individual retirement annuities” for “, individual retirement annuities, or bonds”, in par. (1)(A), substituted “(other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), or 408(d)(3)), over” for “or bonds (other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), 405(d)(3), or 408(d)(3)), over”, and in par. (2)(A), struck out “or bonds” after “for the annuities”.
 
@@ -250,17 +246,15 @@ Subsec. (c). Pub. L. 94–455, §1904(a)(22)(B), substituted “subsection (a)(2
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
-#### Effective and Termination Dates of 2001 Amendments
+#### Effective Date of 2001 Amendments
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
 Amendment by section 401(a)(2), (g)(2)(D) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
 
-Amendment by section 402(a)(4)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31,2001, see section 402(h) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 72 of this title.
+Amendment by section 402(a)(4)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
-Amendment by section 641(e)(11) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 402 of this title.
-
-Amendment by section 401(a)(2), (g)(2)(D) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 641(e)(11) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -314,11 +308,11 @@ Amendment by section 156(c)(3), (5) of Pub. L. 95–600 applicable to distributi
 
 Amendment by section 157(b)(3) of Pub. L. 95–600 applicable to determination of deductions for taxable years beginning after Dec. 31, 1975, see section 157(b)(4)(A) of Pub. L. 95–600, set out as a note under section 219 of this title.
 
-Section 157(j)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions made for taxable years beginning after December 31, 1977.”
+Pub. L. 95–600, title I, §157(j)(2), Nov. 6, 1978, 92 Stat. 2809, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions made for taxable years beginning after December 31, 1977.”
 
-Section 701(aa)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in section 1501 of the Tax Reform Act of 1976 \[section 1501 of Pub. L. 94–455\] at the time of the enactment of such Act \[Oct. 4, 1976\].”
+Pub. L. 95–600, title VII, §701(aa)(2), Nov. 6, 1978, 92 Stat. 2921, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in section 1501 of the Tax Reform Act of 1976 \[section 1501 of Pub. L. 94–455\] at the time of the enactment of such Act \[Oct. 4, 1976\].”
 
-Section 703(j)(13) of Pub. L. 95–600 provided that: “Notwithstanding section 1904(d) of the Tax Reform Act of 1976 \[Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title\], the amendment made by section 1904(a)(22)(A) of such Act \[amending this section\] shall take effect on the date of the enactment of such Act \[Oct. 4, 1976\].”
+Pub. L. 95–600, title VII, §703(j)(13), Nov. 6, 1978, 92 Stat. 2942, provided that: “Notwithstanding section 1904(d) of the Tax Reform Act of 1976 \[Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title\], the amendment made by section 1904(a)(22)(A) of such Act \[amending this section\] shall take effect on the date of the enactment of such Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -328,7 +322,7 @@ Amendment by section 1904(a)(22) of Pub. L. 94–455 effective on first day of f
 
 #### Effective Date
 
-Section 2002(i)(2) of Pub. L. 93–406 provided that: “The amendments made by subsections (d) through (h) except subsection (g)(5) and (6) \[enacting this section and sections 4974 and 6693 of this title and amending sections 37, 46, 50, 56, 72, 801, 805, 901, 3401, and 6047 of this title\] shall take effect on January 1, 1975.”
+Pub. L. 93–406, title II, §2002(i)(2), Sept. 2, 1974, 88 Stat. 971, provided that: “The amendments made by subsections (d) through (h) except subsection (g)(5) and (6) \[enacting this section and sections 4974 and 6693 of this title and amending sections 37, 46, 50, 56, 72, 801, 805, 901, 3401, and 6047 of this title\] shall take effect on January 1, 1975.”
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -336,5 +330,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

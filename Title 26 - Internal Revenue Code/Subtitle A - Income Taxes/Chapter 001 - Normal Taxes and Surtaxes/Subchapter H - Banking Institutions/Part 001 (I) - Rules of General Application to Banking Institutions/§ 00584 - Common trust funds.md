@@ -112,21 +112,17 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (4) Common trust fund must meet diversification rules
 
-&emsp;This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the preceding sentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
+&emsp;This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the precedingsentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
 
 #### (i) Taxable year of common trust fund
 
 For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273;Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, §302(e)(7), May 28, 2003, 117 Stat. 764.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, §302(e)(7), May 28, 2003, 117 Stat. 764.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–27, §§302(e)(7), 303, temporarily inserted concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (c). Pub. L. 108–27 inserted concluding provisions.
 
 <b>1999</b>—Subsec. (h)(3)(A). Pub. L. 106–36, §3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
 
@@ -176,11 +172,9 @@ Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 <b>1962</b>—Subsec. (a)(2). Pub. L. 87–722 inserted “or the Comptroller of the Currency” after “the Board of Governors of the Federal Reserve System”.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -188,11 +182,11 @@ Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see s
 
 #### Effective Date of 1996 Amendment
 
-Section 1805(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers after December 31, 1995.”
+Pub. L. 104–188, title I, §1805(b), Aug. 20, 1996, 110 Stat. 1895, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1008(e)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1986’. For purposes of section 806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
+Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1986’. For purposes of section 806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
 
 &emsp;“(i) a participant in a common trust fund shall be treated in the same manner as a partner, and
 
@@ -200,7 +194,7 @@ Section 1008(e)(5)(B) of Pub. L. 100–647 provided that: “The amendment made 
 
 #### Effective Date of 1986 Amendment
 
-Section 612(b)(2)(B) of Pub. L. 99–514 provided that: “If the amendments made by section 1001 of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title\] cease to apply \[see Effective Date of 1984 Amendment note below\], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out ‘6 months’ each place it appears and inserting in lieu thereof ‘1 year’.”
+Pub. L. 99–514, title VI, §612(b)(2)(B), Oct. 22, 1986, 100 Stat. 2250, provided that: “If the amendments made by section 1001 of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title\] cease to apply \[see Effective Date of 1984 Amendmentnote below\], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out ‘6 months’ each place it appears and inserting in lieu thereof ‘1 year’.”
 
 Amendment by section 612(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
@@ -224,17 +218,17 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
-Section 2131(f)(6) of Pub. L. 94–455 provided that: “The amendments made by subsections (d) and (e) \[amending this section and section 683 of this title\] shall take effect on April 8, 1976, in taxable years ending on or after such date.”
+Pub. L. 94–455, title XXI, §2131(f)(6), Oct. 4, 1976, 90 Stat. 1925, provided that: “The amendments made by subsections (d) and (e) \[amending this section and section 683 of this title\] shall take effect on April 8, 1976, in taxable years ending on or after such date.”
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-Section 2 of Pub. L. 94–414 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–414, §2, Sept. 17, 1976, 90 Stat. 1273, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1964 Amendment
 

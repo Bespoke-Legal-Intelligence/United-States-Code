@@ -11,6 +11,7 @@
 - [&sect; 08334 - Deductions, contributions, and deposits](%C2%A7%2008334%20-%20Deductions%2C%20contributions%2C%20and%20deposits.md)
 - [&sect; 08335 - Mandatory separation](%C2%A7%2008335%20-%20Mandatory%20separation.md)
 - [&sect; 08336 - Immediate retirement](%C2%A7%2008336%20-%20Immediate%20retirement.md)
+- [&sect; 08336a - Phased retirement](%C2%A7%2008336a%20-%20Phased%20retirement.md)
 - [&sect; 08337 - Disability retirement](%C2%A7%2008337%20-%20Disability%20retirement.md)
 - [&sect; 08338 - Deferred retirement](%C2%A7%2008338%20-%20Deferred%20retirement.md)
 - [&sect; 08339 - Computation of annuity](%C2%A7%2008339%20-%20Computation%20of%20annuity.md)

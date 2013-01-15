@@ -12,5 +12,5 @@ Any transfer pursuant to subsection (a) of this section shall be subject to all 
 
 #### Short Title
 
-Section 551 of Pub. L. 103–236 provided that: “This part \[part B (§§551–556) of title V of Pub. L. 103–236, enacting this chapter\] may be cited as the ‘Spoils of War Act of 1994’.”
+Pub. L. 103–236, title V, §551, Apr. 30, 1994, 108 Stat. 482, provided that: “This part \[part B (§§551–556) of title V of Pub. L. 103–236, enacting this chapter\] may be cited as the ‘Spoils of War Act of 1994’.”
 

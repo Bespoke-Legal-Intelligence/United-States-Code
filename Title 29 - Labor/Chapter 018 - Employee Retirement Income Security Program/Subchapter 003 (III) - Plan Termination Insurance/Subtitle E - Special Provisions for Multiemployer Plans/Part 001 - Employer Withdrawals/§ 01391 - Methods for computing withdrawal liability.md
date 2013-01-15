@@ -190,7 +190,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (E)
 
-Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method described in subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980.
+Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to provide that the withdrawal liability method describedin subsection (b) shall be applied by substituting the plan year which is specified in the amendment and for which the plan has no unfunded vested benefits for the plan year ending before September 26, 1980.
 
 #### (d) Method of calculating allocable share of employer of unfunded vested benefits set forth in subsection (c)(3) of this section; applicability of certain statutory provisions
 
@@ -200,7 +200,7 @@ Fresh start option.—Notwithstanding paragraph (1), a plan may be amended to pr
 
 #### (e) Reduction of liability of withdrawn employer in case of transfer of liabilities to another plan incident to withdrawal or partial withdrawal of employer
 
-In the case of a transfer of liabilities to another plan incident to an employer's withdrawalor partial withdrawal, the withdrawn employer's liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
+In the case of a transfer of liabilities to another plan incident to an employer's withdrawal or partial withdrawal, the withdrawn employer's liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
 
 #### (f) Computations applicable in case of withdrawal following merger of multiemployer plans
 

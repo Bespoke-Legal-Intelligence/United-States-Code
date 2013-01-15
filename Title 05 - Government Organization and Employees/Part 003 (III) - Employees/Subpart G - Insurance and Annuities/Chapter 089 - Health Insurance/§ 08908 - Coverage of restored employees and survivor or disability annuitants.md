@@ -54,7 +54,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–342 provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[July 6, 1976\], whichever date is later. Such amendments shall apply with respect to individuals whose survivor annuities are restored before, on, or after such date.”
+Pub. L. 94–342, §2, July 6, 1976, 90 Stat. 808, provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[July 6, 1976\], whichever date is later. Such amendments shall apply with respect to individuals whose survivor annuities are restored before, on, or after such date.”
 
 #### Insurance Coverage for Restored Disability Annuitants
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) The Director of the Centers for Disease Control and Prevention.
 
-&emsp;&emsp;&emsp;&emsp;(II) The Director of the National Institutes of Health and the directors of such national research institutes and national centers (which may include the National Institute of Environmental Health Sciences) as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;&emsp;(II) The Director of the National Institutes of Health and the directors of such national research institutes and national centers (which may include the NationalInstitute of Environmental Health Sciences) as the Secretary determines appropriate.
 
 &emsp;&emsp;&emsp;&emsp;(III) One representative from the National Cancer Institute Board of Scientific Advisors, appointed by the Director of the National Cancer Institute.
 

@@ -2,7 +2,7 @@
 
 #### (a) Method of registration
 
-Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
+Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or politicalsubdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
 
 #### (b) Registration fee
 
@@ -36,93 +36,28 @@ Any security may be registered with the Commission under the terms and condition
 
 &nbsp;
 
-<b>Target fee</b>
-
-<b>Fiscal year:</b>
-
-<b>collection amount</b>
-
-&nbsp;2002
-
-$377,000,000
-
-&nbsp;2003
-
-$435,000,000
-
-&nbsp;2004
-
-$467,000,000
-
-&nbsp;2005
-
-$570,000,000
-
-&nbsp;2006
-
-$689,000,000
-
-&nbsp;2007
-
-$214,000,000
-
-&nbsp;2008
-
-$234,000,000
-
-&nbsp;2009
-
-$284,000,000
-
-&nbsp;2010
-
-$334,000,000
-
-&nbsp;2011
-
-$394,000,000
-
-&nbsp;2012
-
-$425,000,000
-
-&nbsp;2013
-
-$455,000,000
-
-&nbsp;2014
-
-$485,000,000
-
-&nbsp;2015
-
-$515,000,000
-
-&nbsp;2016
-
-$550,000,000
-
-&nbsp;2017
-
-$585,000,000
-
-&nbsp;2018
-
-$620,000,000
-
-&nbsp;2019
-
-$660,000,000
-
-&nbsp;2020
-
-$705,000,000
-
-&nbsp;2021 and each fiscal year thereafter
-
-An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Fiscal year:</b> | <b>Target fee collection amount</b> |
+| :--- | ---: |
+| &nbsp;2002 | $377,000,000 |
+| &nbsp;2003 | $435,000,000 |
+| &nbsp;2004 | $467,000,000 |
+| &nbsp;2005 | $570,000,000 |
+| &nbsp;2006 | $689,000,000 |
+| &nbsp;2007 | $214,000,000 |
+| &nbsp;2008 | $234,000,000 |
+| &nbsp;2009 | $284,000,000 |
+| &nbsp;2010 | $334,000,000 |
+| &nbsp;2011 | $394,000,000 |
+| &nbsp;2012 | $425,000,000 |
+| &nbsp;2013 | $455,000,000 |
+| &nbsp;2014 | $485,000,000 |
+| &nbsp;2015 | $515,000,000 |
+| &nbsp;2016 | $550,000,000 |
+| &nbsp;2017 | $585,000,000 |
+| &nbsp;2018 | $620,000,000 |
+| &nbsp;2019 | $660,000,000 |
+| &nbsp;2020 | $705,000,000 |
+| &nbsp;2021 and each fiscal year thereafter | An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation. |
 
 #### (B) Baseline estimate of the aggregate maximum offering prices
 
@@ -136,13 +71,25 @@ The filing with the Commission of a registration statement, or of an amendment t
 
 The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise, shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
 
-(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951.)
+#### (e) Emerging growth companies
+
+#### (1) In general
+
+&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission notlater than 21 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto.
+
+#### (2) Confidentiality
+
+&emsp;Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
+
+(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312.)
 
 #### References in Text
 
 Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, “sections 13(e) and 14(g)” and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–106 added subsec. (e).
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–203, §991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
 
@@ -154,7 +101,7 @@ Subsec. (b)(4). Pub. L. 111–203, §991(b)(1)(J), added par. (4). Former par. (
 
 Subsec. (b)(5). Pub. L. 111–203, §991(b)(1)(K), substituted “August 31” for “April 30”.
 
-Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
+Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
 
 <b>2002</b>—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
 

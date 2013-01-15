@@ -24,5 +24,5 @@ For purposes of this chapter—
 
 #### Effective Date
 
-Section 3 of Pub. L. 102–559 provided that: “This Act \[enacting this chapter and provisions set out as a note under section 1 of this title\] shall take effect on January 1, 1993.”
+Pub. L. 102–559, §3, Oct. 28, 1992, 106 Stat. 4229, provided that: “This Act \[enacting this chapter and provisions set out as a note under section 1 of this title\] shall take effect on January 1, 1993.”
 

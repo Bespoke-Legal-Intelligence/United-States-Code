@@ -28,7 +28,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–35 designated existing provisions as par. (1) and added par. (2).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–375 struck out provisions which authorized the Secretary to make or contract to make housing allowance payments, authorized sums to be appropriated as necessary, including sums for contract payments and administrative costs, and limited the aggregate amount of contracts for making housing allowance payments.
+<b>1976</b>—Subsec. (b). Pub. L. 94–375 struck out provisions which authorized the Secretary to make or contract to make housing allowance payments, authorized sums to be appropriated as necessary, including sums for contract payments and administrative costs, and limitedthe aggregate amount of contracts for making housing allowance payments.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–383 substituted provisions authorizing the Secretary to undertake programs on an experimental basis of housing allowance payments to assist families in meeting rental or homeownership expenses, for provisions authorizing the Secretary in carrying out activities under section 1701z–1 of this title to undertake programs on an experimental basis of housing allowances to assist families of low income to obtain rental housing of their choice in existing units.
 
@@ -46,5 +46,5 @@ Subsec. (g). Pub. L. 93–383 struck out subsec. (g) which prohibited payments a
 
 #### Effective Date of 1983 Amendment
 
-Section 6(b) of Pub. L. 98–35 provided that: “The amendments made by this section \[amending this section\] shall become effective on October 1, 1983.”
+Pub. L. 98–35, §6(b), May 26, 1983, 97 Stat. 199, provided that: “The amendments made by this section \[amending this section\] shall become effective on October 1, 1983.”
 

@@ -12,7 +12,7 @@ Act Mar. 3, 1911 conferred the power of the circuit courts upon the district cou
 
 Act Sept. 18, 1922, ch. 321, accepted the provisions of the Act of the Legislature of the State of Arkansas, approved Feb. 2, 1921, ceding to the United States exclusive jurisdiction over block 82, aforesaid, and extended to block 82 the provisions of this section and sections 373 and 374 of this title.
 
-Provision of section 1 of act Apr. 20, 1904, reciting the acceptance of the provisions of the Act of the Arkansas Legislature ceding to the United States exclusive jurisdiction over the territory described in section 1 aforesaid was omitted for purposes of codification.
+Provision of section 1 of act Apr. 20, 1904, reciting the acceptance of the provisions of the Act of the ArkansasLegislature ceding to the United States exclusive jurisdiction over the territory described in section 1 aforesaid was omitted for purposes of codification.
 
 The line of the reservation was changed, and the tract of land thereby excluded was ceded to the city of Hot Springs, to be used for street purposes only, by act May 23, 1906, ch. 2552, 34 Stat. 198.
 
@@ -24,7 +24,7 @@ The three provisions last mentioned were omitted from the Code as executed.
 
 #### Amendments
 
-<b>1948</b>—Act June 25, 1948, struck out provision at end of section based on section 2 of act Apr. 20, 1904, whichread “and the above-described portion of said park shall constitute a part of the Western United States judicial district of Arkansas, and the district court for said district shall have jurisdiction of all offenses committed within said boundaries”. See section 83 of Title 28, Judiciary and Judicial Procedure, section 3231 of Title 18, Crimes and Criminal Procedure, and rule 18 of the Federal Rules of Criminal Procedure, Title 18, Appendix.
+<b>1948</b>—Act June 25, 1948, struck out provision at end of section based on section 2 of act Apr. 20, 1904, which read “and the above-described portion of said park shall constitute a part of the Western United States judicial district of Arkansas, and the district court for said district shall have jurisdiction of all offenses committed within said boundaries”. See section 83 of Title 28, Judiciary and Judicial Procedure, section 3231 of Title 18, Crimes and Criminal Procedure, and rule 18 of the Federal Rules of Criminal Procedure, Title 18, Appendix.
 
 <b>1946</b>—Act June 24, 1946, transferred the park from the jurisdiction of the Eastern United States Judicial District of Arkansas to the Western United States Judicial District of Arkansas.
 

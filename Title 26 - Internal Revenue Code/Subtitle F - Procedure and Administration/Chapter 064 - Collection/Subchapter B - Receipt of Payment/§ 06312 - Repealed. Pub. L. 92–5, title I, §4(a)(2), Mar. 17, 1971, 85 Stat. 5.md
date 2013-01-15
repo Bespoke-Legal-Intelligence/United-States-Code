@@ -4,7 +4,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 777, permitted the Secretary to r
 
 #### Effective Date of Repeal
 
-Section 4(a) of Pub. L. 92–5 provided that the repeal of this section is effective with respect to obligations issued after Mar. 3, 1971.
+Pub. L. 92–5, title I, §4(a), Mar. 17, 1971, 85 Stat. 5, provided that the repeal of this section is effective with respect to obligations issued after Mar. 3, 1971.
 
 #### Repeals
 

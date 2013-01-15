@@ -14,7 +14,7 @@ The Secretary shall encourage cooperative activities between the States with res
 
 (2) The Secretary may, at the request of the appropriate State or local authority, extend temporary (not in excess of six months) assistance to States or localities in meeting health emergencies of such a nature as to warrant Federal assistance. The Secretary may require such reimbursement of the United States for assistance provided under this paragraph as he may determine to be reasonable under the circumstances. Any reimbursement so paid shall be credited to the applicable appropriation for the Service for the year in which such reimbursement is received.
 
-(July 1, 1944, ch. 373, title III, §311, 58 Stat. 693; Pub. L. 89–749, §5, Nov. 3, 1966, 80 Stat. 1190; Pub. L. 90–174, §4, Dec. 5, 1967, 81 Stat. 536; Pub. L. 91–515, title II, §282, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 94–317, title II, §202(b), (c), June 23, 1976, 90 Stat. 703; Pub. L. 97–35, title IX, §902(c), Aug. 13, 1981, 95 Stat. 559; Pub. L. 97–414, §8(d), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 99–117, §11(a), Oct. 7, 1985, 99 Stat. 494.)
+(July 1, 1944, ch. 373, title III, §311, 58 Stat. 693; Pub. L. 89–749, §5, Nov. 3, 1966, 80 Stat. 1190; Pub. L. 90–174, §4, Dec. 5, 1967, 81 Stat. 536; Pub. L. 91–515, title II, §282, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 94–317, title II, §202(b), (c), June 23, 1976,90 Stat. 703; Pub. L. 97–35, title IX, §902(c), Aug. 13, 1981, 95 Stat. 559; Pub. L. 97–414, §8(d), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 99–117, §11(a), Oct. 7, 1985, 99 Stat. 494.)
 
 #### Amendments
 
@@ -38,13 +38,13 @@ Subsec. (c). Pub. L. 94–317, §202(b), made changes in phraseology and restruc
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 
 #### Effective Date of 1966 Amendment
 
-Section 5(a) of Pub. L. 89–749 provided that subsec. (b) of this section is effective July 1, 1966.
+Pub. L. 89–749, §5(a), Nov. 3, 1966, 80 Stat. 1190, provided that subsec. (b) of this section is effective July 1, 1966.
 
-Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of this section, permitting the Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
+Pub. L. 89–749, §5(b), Nov. 3, 1966, 80 Stat. 1190, provided that the amendment of subsec. (b) of this section, permitting the Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
 
 #### Food Allergens in the Food Code
 

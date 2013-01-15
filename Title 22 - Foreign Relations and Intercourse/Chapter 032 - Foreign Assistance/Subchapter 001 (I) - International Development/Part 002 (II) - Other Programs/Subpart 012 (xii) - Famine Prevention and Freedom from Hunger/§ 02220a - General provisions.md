@@ -22,11 +22,11 @@ The Congress so declares because it finds—
 
 &emsp;(H) that there is a need to responsibly manage the world's agricultural and natural resources for sustained productivity, health and resilience to climate variability; and
 
-&emsp;(I) that universities and public and private partners of universities need a dependable source of funding in order to increase the impact of their own investments and those of their State governments and constituencies,in order to continue and expand their efforts to advance agricultural development in cooperating countries, to translate development into economic growth and trade for the United States and cooperating countries, and to prepare future teachers, researchers, extension specialists, entrepreneurs, managers, and decisionmakers for the world economy.
+&emsp;(I) that universities and public and private partners of universities need a dependable source of funding in order to increase the impact of their own investments and those of their State governments and constituencies, in order to continue and expand their efforts to advance agricultural development in cooperating countries, to translate development into economic growth and trade for the United States and cooperating countries, and to prepare future teachers, researchers, extension specialists, entrepreneurs, managers, and decisionmakers for the world economy.
 
 #### (b) Congressional declaration for collation of components to increase world food production
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
+Accordingly, the Congress declares that, in order to prevent famine and establish freedomfrom hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
 &emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
@@ -124,7 +124,7 @@ Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted “each of the program
 
 Subsec. (c)(2). Pub. L. 106–373, §2(c)(2)(A), inserted “and public and private partners of universities” after “for the universities”.
 
-Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their jointand respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
+Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
 
 Subsec. (c)(4), (5). Pub. L. 106–373, §2(c)(2)(B), (4), added pars. (4) and (5).
 
@@ -204,7 +204,7 @@ Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized
 
 #### Settlement of Debt Owed the United States
 
-Section 321 of Pub. L. 94–161 provided that: “No debt owed to the United States by any foreign country with respect to the payment of any loan made under any program funded under this Act \[see Short Title of 1975 Amendment note set out under section 2151 of this title\] may be settled in an amount less than the full amount of such debt unless the Congress by concurrent resolution approves of such settlement.”
+Pub. L. 94–161, title III, §321, Dec. 20, 1975, 89 Stat. 868, provided that: “No debt owed to the United States by any foreign country with respect to the payment of any loan made under any program funded under this Act \[see Short Title of 1975 Amendment note set out under section 2151 of this title\] may be settled in an amount less than the full amount of such debt unless the Congress by concurrent resolution approves of such settlement.”
 
 #### Cooperation With Other Countries in Alleviating World Food Shortage; Emergency and Humanitarian Requirements
 
@@ -224,5 +224,5 @@ Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, as amended by Pub. L. 110�
 
 &emsp;“(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Food for Peace Act (Public Law 480) \[7 U.S.C. 1691 et seq.\]; and
 
-&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Food for Peace Act (Public Law 480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
+&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentenceof section 401 of the Food for Peace Act (Public Law 480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
 

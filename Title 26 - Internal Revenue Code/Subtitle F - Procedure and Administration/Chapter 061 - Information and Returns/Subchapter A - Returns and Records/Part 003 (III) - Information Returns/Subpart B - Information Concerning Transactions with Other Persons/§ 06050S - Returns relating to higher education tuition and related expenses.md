@@ -72,10 +72,6 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–131, §1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
@@ -98,7 +94,7 @@ Subsec. (b)(2)(B). Pub. L. 107–131, §1(b)(4), amended subpar. (B) generally. 
 
 &emsp;“(iv) aggregate amount of interest received for the calendar year from such individual, and”.
 
-Pub. L. 107–131, §1(b)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the name, address, and TIN of any individual certified by the individual described in subparagraph (A) as the taxpayer who will claim the individual as a dependent for purposes of the deduction allowable under section 151 for any taxable year ending with or within the calendar year, and”.
+Pub. L. 107–131, §1(b)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the name, address, and TIN of any individual certified by the individual described in subparagraph (A) as the taxpayer who will claim the individual as adependent for purposes of the deduction allowable under section 151 for any taxable year ending with or within the calendar year, and”.
 
 Subsec. (b)(2)(C), (D). Pub. L. 107–131, §1(b)(3), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
@@ -106,7 +102,7 @@ Subsec. (d). Pub. L. 107–131, §1(c)(1), struck out “or (B)” after “subp
 
 Subsec. (d)(2). Pub. L. 107–131, §1(c)(2), substituted “subparagraph (B)” for “subparagraph (C)”.
 
-<b>2001</b>—Subsec. (e). Pub. L. 107–16, §§412(a)(2), 901, temporarily substituted “section 221(d)(1)” for “section 221(e)(1)”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (e). Pub. L. 107–16 substituted “section 221(d)(1)” for “section 221(e)(1)”.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §6004(a)(2), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person—
 
@@ -142,15 +138,13 @@ Subsec. (e). Pub. L. 105–34, §202(c)(3), inserted at end “, and except as 
 
 Pub. L. 107–131, §2, Jan. 16, 2002, 115 Stat. 2411, provided that: “The amendments made by section 1 \[amending this section\] shall apply to expenses paid or assessed after December 31, 2002 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 107–16, set out as a note under section 221 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: “The amendments made bythis section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998.”
+Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: “The amendments made by this section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998.”
 
 Amendment by section 6004(a)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

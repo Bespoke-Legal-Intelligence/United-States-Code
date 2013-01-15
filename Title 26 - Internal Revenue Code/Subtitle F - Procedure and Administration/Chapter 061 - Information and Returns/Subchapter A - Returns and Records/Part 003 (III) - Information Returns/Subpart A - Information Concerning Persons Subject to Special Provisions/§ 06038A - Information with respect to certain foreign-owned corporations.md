@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation beingsuch an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transaction from the related party (or transferred by such corporation in such transaction to the related party),
 
-> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from suchinformation as the Secretary may obtain through testimony or otherwise.
+> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
 
 #### (4) Judicial proceedings
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(<i>l</i>), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Amendment by section 1702(c)(5) of Pub. L. 104–188 effective, except as otherw
 
 #### Effective Date of 1990 Amendment
 
-Section 11315(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[enacting section 6038C of this title and amending this section\] shall apply to—
+Pub. L. 101–508, title XI, §11315(c), Nov. 5, 1990, 104 Stat. 1388–457, provided that: “The amendments made by this section \[enacting section 6038C of this title and amending this section\] shall apply to—
 
 &emsp;“(1) any requirement to furnish information under section 6038C(a) of the Internal Revenue Code of 1986 (as added by this section) if the time for furnishing such information under such section is after the date of the enactment of this Act \[Nov. 5, 1990\],
 
@@ -198,11 +198,11 @@ Section 11315(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1989 Amendment
 
-Section 7403(e) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after July 10, 1989.”
+Pub. L. 101–239, title VII, §7403(e), Dec. 19, 1989, 103 Stat. 2361, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after July 10, 1989.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1245(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6038 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1245(c), Oct. 22, 1986, 100 Stat. 2581, provided that: “The amendments made by this section \[amending this section and section 6038 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -214,11 +214,11 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Section 339(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title III, §339(c), Sept. 3, 1982, 96 Stat. 633, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Applicability of 1989 Amendment
 
-Section 11314 of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11314, Nov. 5, 1990, 104 Stat. 1388–455, provided that:
 
 “(a)
 

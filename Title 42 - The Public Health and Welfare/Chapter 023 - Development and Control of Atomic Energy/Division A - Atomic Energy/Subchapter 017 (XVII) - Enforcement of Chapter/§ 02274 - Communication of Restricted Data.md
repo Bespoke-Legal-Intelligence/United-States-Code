@@ -20,7 +20,7 @@ Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted “$500,000” for “$10,0
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that theamendment made by that section is effective as of Oct. 5, 1999.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that the amendment made by that section is effective as of Oct. 5, 1999.
 
 #### Effective Date of 1969 Amendment
 

@@ -22,7 +22,7 @@
 | [52\.](%C2%A7%2000052%20-%20Vice%20admirals%20and%20admiral%2C%20continuity%20of%20grade.md) | Vice admirals and admiral, continuity of grade. |
 | [53\.](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md) | Office of the Coast Guard Reserve; Director. |
 | [54\.](%C2%A7%2000054%20-%20Chief%20of%20Staff%20to%20President%20appointment.md) | Chief of Staff to President: appointment. |
-| [55\.](%C2%A7%2000055%20-%20District%20Ombudsmen.md) | District Ombudsmen. |
+| \[55. | Repealed.\] |
 | [56\.](%C2%A7%2000056%20-%20Chief%20Acquisition%20Officer.md) | Chief Acquisition Officer. |
 | [57\.](%C2%A7%2000057%20-%20Prevention%20and%20response%20workforces.md) | Prevention and response workforces. |
 | [58\.](%C2%A7%2000058%20-%20Centers%20of%20expertise%20for%20Coast%20Guard%20prevention%20and%20response.md) | Centers of expertise for Coast Guard prevention and response. |
@@ -31,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §216(a), Dec. 20, 2012, 126 Stat. 1555, struck out item 55 “District Ombudsmen”.
 
 <b>2010</b>—Pub. L. 111–281, title II, §§204(b), 214(b), title IV, §401(b), title V, §§511(f)(3), 521(b), Oct. 15, 2010, 124 Stat. 2911, 2916, 2930, 2953, 2956, added items 55 to 59, substituted “Number and distribution of commissioned officers on active duty promotion list” for “Number and distribution of commissioned officers” in item 42, “Vice Commandant; appointment” for “Vice Commandant; assignment” in item 47, “Vice admirals” for “Area commanders” in item 50, and “Vice admirals and admiral, continuity of grade” for “Vice admirals, continuity of grade” in item 52, and struck out item 50a “Chief of Staff”.
 
@@ -70,7 +72,7 @@
 - [&sect; 00052 - Vice admirals and admiral, continuity of grade](%C2%A7%2000052%20-%20Vice%20admirals%20and%20admiral%2C%20continuity%20of%20grade.md)
 - [&sect; 00053 - Office of the Coast Guard Reserve; Director](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md)
 - [&sect; 00054 - Chief of Staff to President appointment](%C2%A7%2000054%20-%20Chief%20of%20Staff%20to%20President%20appointment.md)
-- [&sect; 00055 - District Ombudsmen](%C2%A7%2000055%20-%20District%20Ombudsmen.md)
+- [&sect; 00055 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(a), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000055%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28a%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
 - [&sect; 00056 - Chief Acquisition Officer](%C2%A7%2000056%20-%20Chief%20Acquisition%20Officer.md)
 - [&sect; 00057 - Prevention and response workforces](%C2%A7%2000057%20-%20Prevention%20and%20response%20workforces.md)
 - [&sect; 00058 - Centers of expertise for Coast Guard prevention and response](%C2%A7%2000058%20-%20Centers%20of%20expertise%20for%20Coast%20Guard%20prevention%20and%20response.md)

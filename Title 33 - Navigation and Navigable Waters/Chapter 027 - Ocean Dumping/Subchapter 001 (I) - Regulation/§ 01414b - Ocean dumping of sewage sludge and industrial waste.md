@@ -48,9 +48,9 @@
 
 #### (4) Waiver of fees
 
-&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portionof fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
 
-&emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
+&emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whomsuch fees are waived under subparagraph (A) if the Administrator determines that—
 
 &emsp;&emsp;(i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2) of this section; and
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> of this section which describe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) <sup>1</sup> of thissection which describe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
@@ -330,7 +330,7 @@
 
 #### (1) In general
 
-&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
+&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that oceandumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
 &emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532,which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 

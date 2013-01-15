@@ -18,7 +18,7 @@ In order to encourage adequate family-size farms the Secretary may make loans un
 
 (4) For purposes of this subsection, the terms “elderly,” “handicapped person,” “low income,” and “weatherization materials” shall have the same meanings given such terms in paragraphs (3), (5), (7), and (9), respectively, of section 412 of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6862\].
 
-(July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Pub. L. 87–723, §4(c)(3), Sept. 28, 1962, 76 Stat. 672; Pub. L. 89–754, title VIII, §803, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §803(a), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §504, Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–619, title II, §232(a), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–153, title V, §510, Dec. 21, 1979, 93 Stat. 1137; Pub. L. 98–181, title V, §504, Nov. 30, 1983, 97 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(32), (f)(24)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–569, title VII, §702, Dec. 27, 2000, 114 Stat. 3013.)
+(July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Pub. L. 87–723, §4(c)(3), Sept. 28, 1962, 76 Stat. 672; Pub. L. 89–754, title VIII, §803, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §803(a), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §504, Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–619, title II, §232(a), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–153, title V, §510, Dec. 21, 1979, 93 Stat. 1137; Pub. L. 98–181, title I \[title V, §504\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(32), (f)(24)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–569, title VII, §702, Dec. 27, 2000, 114 Stat. 3013.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(32)\], substituted “pursuan
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(32)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(24)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(32)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(24)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Community Services Administration
 

@@ -20,5 +20,5 @@ The purposes of this chapter are to—
 
 #### Short Title
 
-Section 1 of Pub. L. 101–445 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Nutrition Monitoring and Related Research Act of 1990’.”
+Pub. L. 101–445, §1, Oct. 22, 1990, 104 Stat. 1034, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Nutrition Monitoring and Related Research Act of 1990’.”
 

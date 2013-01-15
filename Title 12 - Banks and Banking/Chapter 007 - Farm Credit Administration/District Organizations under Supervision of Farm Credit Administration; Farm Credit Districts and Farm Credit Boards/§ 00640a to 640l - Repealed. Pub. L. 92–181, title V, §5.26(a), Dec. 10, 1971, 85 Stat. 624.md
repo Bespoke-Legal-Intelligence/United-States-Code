@@ -22,5 +22,5 @@ Section 640j, act Aug. 19, 1937, ch. 704, §5(j), 50 Stat. 706, provided for com
 
 Section 640k, act Aug. 19, 1937, ch. 704, §5(k), 50 Stat. 706, declared sections 640a to 640j of this title as not affecting laws making agricultural credit laws applicable to territories and possessions.
 
-Section 640<i>l</i>, acts Aug. 19, 1937, ch. 704, §6, 50 Stat. 706; July 26, 1956, ch. 741, title I, §106(b), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title II, §201, 73 Stat. 387; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 649, set out status of farm credit banks and employees. See section 2221 et seq. of this title.
+Section 640l, acts Aug. 19, 1937, ch. 704, §6, 50 Stat. 706; July 26, 1956, ch. 741, title I, §106(b), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title II, §201, 73 Stat. 387; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 649, set out status of farm credit banks and employees. See section 2221 et seq. of this title.
 

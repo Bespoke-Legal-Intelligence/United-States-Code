@@ -12,7 +12,7 @@ During the period prior to the approval of the continuation of an order pursuant
 
 #### (b) Funding escrow account
 
-Subject to subsection (f) of this section, the Board shall place in such account, from assessments collected under section 2906 of this title during the period referred to in subsection (a) of this section, an amount equal to the product obtained by multiplying—
+Subject to subsection (f) of this section, the Board shall place in such account, from assessments collected under section 2906 of this title during the period referred to in subsection (a) ofthis section, an amount equal to the product obtained by multiplying—
 
 &emsp;(1) the total amount of assessments collected under section 2906 of this title during such period; by
 

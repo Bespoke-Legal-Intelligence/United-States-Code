@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 <b>1994</b>—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.”
 
-<b>1984</b>—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
+<b>1984</b>—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which relatedto delegation of authority by heads of procuring activities of agencies of certain functions.
 
 Pub. L. 98–525 designated existing provisions as subsec. (a) and added subsec. (b).
 

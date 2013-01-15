@@ -12,7 +12,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 amended section generally. Prior to amendment, section provided that receipts and disbursements of Federal Old-Age and Survivors Insurance Trust Fund, Federal Disability Insurance Trust Fund, and Federal Hospital Insurance Trust Fund and taxes imposed under sections 1401, 3101, and 3111 of title 26 were not to be included in totals of budget of United States Government, that no law enacted after Dec. 12, 1985, except certain appropriations Act provisions, could provide for payments from general fund of the Treasury to any such Trust Fund or from any such Trust Fund to general fund, and that disbursements of Federal Supplementary Medical Insurance Trust Fundwere to be treated as a separate major functional category in budget of the Government.
+<b>1997</b>—Pub. L. 105–33 amended section generally. Prior to amendment, section provided that receipts and disbursements of Federal Old-Age and Survivors Insurance Trust Fund, Federal Disability Insurance Trust Fund, and Federal Hospital Insurance Trust Fund and taxes imposed under sections 1401, 3101, and 3111 of title 26 were not to be included in totals of budget of United States Government, that no law enacted after Dec. 12, 1985, except certain appropriations Act provisions, could provide for payments from general fund of the Treasury to any such Trust Fund or from any such Trust Fund to general fund, and that disbursements of Federal Supplementary Medical Insurance Trust Fund were to be treated as a separate major functional category in budget of the Government.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–177, §261(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -26,13 +26,13 @@ Subsec. (c). Pub. L. 99–177, §261(a)(1)(F), temporarily added subsec. (c). Se
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 261(a)(2) of Pub. L. 99–177 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1985, and ending before October 1, 1992.”
+Pub. L. 99–177, title II, §261(a)(2), Dec. 12, 1985, 99 Stat. 1094, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1985, and ending before October 1, 1992.”
 
 #### Effective Date of 1983 Amendment
 
-Section 346(b) of Pub. L. 98–21 provided that the amendment made by that section is effective for fiscal years beginning on or after Oct. 1, 1992.
+Pub. L. 98–21, title III, §346(b), Apr. 20, 1983, 97 Stat. 138, provided that the amendment made by that section is effective for fiscal years beginning on or after Oct. 1, 1992.
 
 #### Effective and Termination Dates
 
-Section 346(a)(2) of Pub. L. 98–21 provided that: “The amendment made by paragraph (1) \[enacting this section\] shall apply with respect to fiscal years beginning on or after October 1, 1984, and ending on or before September 30, 1992, except that such amendment shall apply with respect to the fiscal year beginning on October 1, 1983, to the extent it relates to the congressional budget.”
+Pub. L. 98–21, title III, §346(a)(2), Apr. 20, 1983, 97 Stat. 138, provided that: “The amendment made by paragraph (1) \[enacting this section\] shall apply with respect to fiscal years beginning on or after October 1, 1984, and ending on or before September 30, 1992, except that such amendment shall apply with respect to the fiscal year beginning on October 1, 1983, to the extent it relates to the congressional budget.”
 

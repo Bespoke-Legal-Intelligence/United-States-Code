@@ -34,7 +34,7 @@ The Administrator may study and develop emergency preparedness measures designed
 
 &emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instruction of emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
 
-&emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordancewith subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
+&emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordance with subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
 
 &emsp;(C) provide instructors and training aids as necessary.
 
@@ -82,7 +82,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 #### (j) Financial contributions
 
-(1) The Administrator may make financial contributions, on the basis of programs or projects approved by the Administrator, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovating of materials and facilities. Such contributions shall be made on such terms or conditions as the Administrator shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
+(1) The Administrator may make financial contributions, on the basis of programs orprojects approved by the Administrator, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovating of materials and facilities. Such contributions shall be made on such terms or conditions as the Administrator shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
 
 (2) The Administrator may make financial contributions, on the basis of programs or projects approved by the Administrator, to the States and local authorities for animal emergency preparedness purposes, including the procurement, construction, leasing, or renovating of emergency shelter facilities and materials that will accommodate people with pets and service animals.
 
@@ -90,7 +90,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (4) The amounts authorized to be contributed by the Administrator to each State for organizational equipment shall be equally matched by such State from any source it determines is consistent with its laws.
 
-(5) Financial contributions to the States for shelters and other protective facilities shall bedetermined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
+(5) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
 
 (6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph (4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
 
@@ -114,7 +114,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(9), is Reorg
 
 #### Codification
 
-In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes (40 U.S.C. 255)” and, in subsec. (j)(9), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes (40U.S.C. 255)” and, in subsec. (j)(9), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (k), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

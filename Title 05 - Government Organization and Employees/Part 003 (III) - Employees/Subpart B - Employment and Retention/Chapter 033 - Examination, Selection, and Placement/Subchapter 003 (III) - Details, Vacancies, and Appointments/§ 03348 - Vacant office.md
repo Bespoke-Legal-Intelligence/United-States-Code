@@ -44,7 +44,7 @@
 
 #### Prior Provisions
 
-A prior section 3348, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426; Pub. L. 100–398, §7(b), Aug. 17, 1988, 102 Stat. 988, provided for time limitations relating to details, prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998. See section 3346 of this title.
+A prior section 3348, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426; Pub. L. 100–398, §7(b), Aug. 17, 1988, 102 Stat. 988, provided for time limitations relating to details,prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998. See section 3346 of this title.
 
 #### Amendments
 

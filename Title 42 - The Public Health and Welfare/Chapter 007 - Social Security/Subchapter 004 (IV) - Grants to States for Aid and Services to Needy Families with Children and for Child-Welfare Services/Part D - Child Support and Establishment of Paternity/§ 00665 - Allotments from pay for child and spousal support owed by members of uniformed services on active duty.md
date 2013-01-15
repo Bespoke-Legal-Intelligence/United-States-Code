@@ -16,7 +16,7 @@ For purposes of this section the term “authorized person” with respect to an
 
 #### (c) Regulations
 
-The Secretary of Defense, in the case of the Army, Navy, Air Force, and Marine Corps, and the Secretary concerned (as defined in section 101(5) of title 37) in the case of each of the other uniformed services, shall each issue regulations applicable to allotments to be made under this section, designating the officials to whom notice of failure to make support payments, or notice to discontinue or adjust an allotment, should be given, prescribing the form and content of the notice and specifying any other rules necessary for such Secretary to implement this section.
+The Secretary of Defense, in the case of the Army, Navy, Air Force, and Marine Corps, and the Secretary concerned (as defined in section 101(5) of title 37) in the case of each of the other uniformed services, shall each issue regulations applicable to allotments to be made under thissection, designating the officials to whom notice of failure to make support payments, or notice to discontinue or adjust an allotment, should be given, prescribing the form and content of the notice and specifying any other rules necessary for such Secretary to implement this section.
 
 (Aug. 14, 1935, ch. 531, title IV, §465, as added Pub. L. 97–248, title I, §172(a), Sept. 3, 1982, 96 Stat. 401; amended Pub. L. 109–241, title II, §218(b)(2), July 11, 2006, 120 Stat. 526.)
 
@@ -30,7 +30,7 @@ Section 801(11) of title 10, referred to in subsec. (a)(2), was repealed by Pub.
 
 #### Effective Date
 
-Section 172(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §172(b), Sept. 3, 1982, 96 Stat. 403, provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on October 1, 1982.”
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) the standards or review process imposed by the State as a condition of approval of the license imposes any material requirements, procedures, or standards (other than solvency requirements) to such organizations that are not generally applicable to other entities engaged in a substantially similar business, or
 
-&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer any product or plan other than a Medicare+�Choice plan.
+&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer any product or plan other than a Medicare+Choice plan.
 
 #### (D) Denial of application based on application of solvency requirements
 

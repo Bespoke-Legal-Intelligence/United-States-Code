@@ -12,7 +12,7 @@ The Secretary may accept and retain donations of funds, property, or services fr
 
 #### (c) Interpretive center
 
-The Secretary is authorized to construct, operate, and maintain an interpretive center in the historical park on lands identified by the Secretary pursuant to section 410bbb–1(b)(1) of this title. Programs at the center shall include, but need not be limited to, live jazz interpretive and educational programs, and shall provide visitors with information about jazz-related programs, performances, and opportunities.
+The Secretary is authorized to construct, operate, and maintain an interpretive center in the historical park on lands identified by theSecretary pursuant to section 410bbb–1(b)(1) of this title. Programs at the center shall include, but need not be limited to, live jazz interpretive and educational programs, and shall provide visitors with information about jazz-related programs, performances, and opportunities.
 
 #### (d) Jazz heritage districts
 

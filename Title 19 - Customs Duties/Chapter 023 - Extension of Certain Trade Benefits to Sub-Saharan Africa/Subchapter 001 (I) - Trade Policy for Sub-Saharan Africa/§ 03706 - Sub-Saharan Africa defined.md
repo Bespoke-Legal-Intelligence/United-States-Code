@@ -26,7 +26,7 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 
 &emsp;Republic of the Congo (Congo).
 
-&emsp;Republic of Co�AE3te d'Ivoire (Co�AE3te d'Ivoire).
+&emsp;Republic of Côte d'Ivoire (Côte d'Ivoire).
 
 &emsp;Republic of Djibouti (Djibouti).
 
@@ -72,7 +72,7 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 
 &emsp;Republic of Rwanda (Rwanda).
 
-&emsp;Democratic Republic of Sao Tome�AE1 and Principe (Sao Tome�AE1 and Principe).
+&emsp;Democratic Republic of Sao Tomé and Principe (Sao Tomé and Principe).
 
 &emsp;Republic of Senegal (Senegal).
 
@@ -83,6 +83,8 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 &emsp;Somalia.
 
 &emsp;Republic of South Africa (South Africa).
+
+&emsp;Republic of South Sudan (South Sudan).
 
 &emsp;Republic of Sudan (Sudan).
 
@@ -98,5 +100,9 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 
 &emsp;Republic of Zimbabwe (Zimbabwe).
 
-(Pub. L. 106–200, title I, §107, May 18, 2000, 114 Stat. 256.)
+(Pub. L. 106–200, title I, §107, May 18, 2000, 114 Stat. 256; Pub. L. 112–163, §1(b), Aug. 10, 2012, 126 Stat. 1274.)
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–163 inserted item relating to the Republic of South Sudan.
 

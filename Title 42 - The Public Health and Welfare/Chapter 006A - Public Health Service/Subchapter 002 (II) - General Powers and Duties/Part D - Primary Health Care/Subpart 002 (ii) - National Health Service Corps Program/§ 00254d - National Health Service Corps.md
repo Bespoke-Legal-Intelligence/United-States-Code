@@ -28,9 +28,9 @@
 
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which trainallied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
-(2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
+(2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners,and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
 #### (c) Travel and moving expenses; persons entitled; reimbursement; limitation
 
@@ -62,7 +62,7 @@ Corps members assigned under section 254f of this title to provide health servic
 
 #### (f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program
 
-Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with <sup>2</sup> Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to <sup>3</sup> would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
+Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with <sup>2</sup> Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to <sup>3</sup> would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
 
 #### (g) Conversion from Corps member to commissioned officer; retirement credits
 
@@ -96,9 +96,9 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;&emsp;(i) double the period of obligated service that would otherwise be required; or
 
-&emsp;&emsp;(ii) in the case of contracts entered into under section 254<i>l</i>–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of the amount that would otherwise be payable for full-time service; and
+&emsp;&emsp;(ii) in the case of contracts entered into under section 254l–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of the amount that would otherwise be payable for full-time service; and
 
-&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing half-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing half-time service but fails to begin or complete the period of obligated service, the method stated in 254o(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
 
 (3) In evaluating waivers issued under paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
 
@@ -108,9 +108,9 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(1) The term “Department” means the Department of Health and Human Services.
 
-&emsp;(2) The term “Loan Repayment Program” means the National Health Service Corps Loan Repayment Program established under section 254<i>l</i>–1 of this title.
+&emsp;(2) The term “Loan Repayment Program” means the National Health Service Corps Loan Repayment Program established under section 254l–1 of this title.
 
-&emsp;(3) The term “Scholarship Program” means the National Health Service Corps Scholarship Program established under section 254<i>l</i> of this title.
+&emsp;(3) The term “Scholarship Program” means the National Health Service Corps Scholarship Program established under section 254l of this title.
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
@@ -122,7 +122,7 @@ For the purposes of this subpart and subpart III:
 
 #### References in Text
 
-Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
+Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiencysyndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (i)(2)(D), (E). Pub. L. 111–148, §10501(n)(1)(B)(iii), amended subpar
 
 “(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
 
-“(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and”.
+“(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254l–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and”.
 
 Subsec. (i)(2)(F). Pub. L. 111–148, §10501(n)(1)(B)(ii), substituted “half-time service” for “less than full-time service”.
 
@@ -144,7 +144,7 @@ Subsec. (i)(3). Pub. L. 111–148, §10501(n)(1)(C), substituted “In evaluatin
 
 Subsec. (j)(5), (6). Pub. L. 111–148, §10501(n)(2), added pars. (5) and (6).
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–417 inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–417 inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
 
 <b>2002</b>—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
@@ -202,11 +202,11 @@ Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to membe
 
 Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
-Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254<i>l</i>” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254l” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
 
 #### Effective Date of 1990 Amendment
 
-Section 501 of Pub. L. 101–597 provided that: “This Act and the amendments made by this Act \[enacting sections 254f–1, 254<i>o</i>–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254<i>l</i> to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395<i>l</i>, 1395u, 1395x, 3505d, and 9840 of this title, and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254<i>l</i>–1, and 254<i>o</i> of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
+Pub. L. 101–597, title V, §501, Nov. 16, 1990, 104 Stat. 3036, provided that: “This Act and the amendments made by this Act \[enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

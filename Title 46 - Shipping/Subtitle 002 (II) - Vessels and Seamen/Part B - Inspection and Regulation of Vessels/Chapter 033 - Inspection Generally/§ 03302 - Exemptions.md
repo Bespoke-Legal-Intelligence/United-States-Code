@@ -16,7 +16,7 @@
 
 &emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 
-(3)(A) A fishing vessel or fish processing vessel is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska if—
+(3)(A) A fishing vessel or fish processing vessel is exempt from section 3301(1), (6), and (7) of thistitle when transporting cargo (including fisheries-related cargo) to or from a place in Alaska if—
 
 &emsp;(i) that place does not receive weekly common carrier service by water from a place in the United States;
 
@@ -82,7 +82,7 @@
 
 &emsp;(B) is in a condition that does not present an immediate threat to the safety of life or the environment; and
 
-&emsp;(C) was operating in the waters off Alaska as of June 1, 1976, or the vessel is a replacement for a vessel that was operating in the waters off Alaska as of June 1, 1976, if the vessel being replaced is no longer in service.
+&emsp;(C) was operating in the waters off Alaska as of June 1, 1976, or the vessel is a replacement for a vessel that was operating in the watersoff Alaska as of June 1, 1976, if the vessel being replaced is no longer in service.
 
 (2) Except in a situation declared to be an emergency by the Secretary, a vessel operating under a permit may not transport cargo to or from a place if the cargo could be transported by another commercial vessel that is reasonably available and that does not require exemptions to operate legally or if the cargo could be readily transported by overland routes.
 
@@ -104,7 +104,7 @@
 
 (k) Only the boiler, engine, and other operating machinery of a steam vessel that is a recreational vessel of not more than 65 feet overall in length are subject to inspection under section 3301(9) of this title.
 
-(<i>l</i>)(1) The Secretary may issue a permit exempting the following vessels from the requirements of this part for passenger vessels so long as the vessels are owned by nonprofit organizations and operated as nonprofit memorials to merchant mariners:
+(l)(1) The Secretary may issue a permit exempting the following vessels from the requirements of this part for passenger vessels so long as the vessels are owned by nonprofit organizations and operated as nonprofit memorials to merchant mariners:
 
 &emsp;(A) The steamship John W. Brown (United States official number 242209), owned by Project Liberty Ship Baltimore, Incorporated, located in Baltimore, Maryland.
 
@@ -128,7 +128,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711,title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
 
 Historical and Revision Notes
 
@@ -150,7 +150,7 @@ Historical and Revision Notes
 
 46:442
 
-Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
+Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also haveto be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
 
@@ -162,11 +162,11 @@ Subsec. (c)(3)(B), (4)(A). Pub. L. 109–241, §311(b), substituted “or less t
 
 Subsec. (j)(2)(B). Pub. L. 109–304, §15(11)(B), substituted “chapter 515 of this title” for “section 1304 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295c)”.
 
-Subsec. (<i>l</i>)(1)(C). Pub. L. 109–304, §15(11)(C), substituted “Inc.” for “Inc..”.
+Subsec. (l)(1)(C). Pub. L. 109–304, §15(11)(C), substituted “Inc.” for “Inc..”.
 
-<b>2002</b>—Subsec. (<i>l</i>)(1)(D) to (F). Pub. L. 107–295 added subpars. (D) to (F).
+<b>2002</b>—Subsec. (l)(1)(D) to (F). Pub. L. 107–295 added subpars. (D) to (F).
 
-<b>1999</b>—Subsec. (<i>l</i>)(1)(C). Pub. L. 106–65 substituted “owned by the National Liberty Ship Memorial, Inc.” for “owned by the United States Maritime Administration”.
+<b>1999</b>—Subsec. (l)(1)(C). Pub. L. 106–65 substituted “owned by the National Liberty Ship Memorial, Inc.” for “owned by the United States Maritime Administration”.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324, §1110(1), substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
 
@@ -198,7 +198,7 @@ Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 
 
 Subsec. (j)(2)(B). Pub. L. 101–595, §603(2), substituted “(46 App. U.S.C. 1295c)” for “(46 App. U.S.C. 1295(c))”.
 
-Subsec. (<i>l</i>). Pub. L. 101–595, §303(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–595, §303(a), added subsec. (l).
 
 <b>1986</b>—Subsec. (i)(5). Pub. L. 99–307, §1(3), substituted “charterer” for “charter”.
 
@@ -222,7 +222,7 @@ Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission
 

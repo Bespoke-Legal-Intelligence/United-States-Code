@@ -16,7 +16,7 @@ The Secretary shall designate one position under this section as responsible for
 
 #### (1) Temporary appointment to grade designated for position
 
-&emsp;An officer assigned to a position under this section while so serving has the grade designated for that position, if appointed to that grade by the President, by and with the advice and consent of the Senate.
+&emsp;An officer assigned to a position under this section while so serving has the grade designated for that position, if appointed to that grade by the President.
 
 #### (2) Reversion to permanent grade
 
@@ -50,11 +50,19 @@ An appointment of an officer under this section—
 
 &emsp;(2) creates a vacancy on the active list.
 
-(Pub. L. 107–372, title II, §228, Dec. 19, 2002, 116 Stat. 3086.)
+(Pub. L. 107–372, title II, §228, Dec. 19, 2002, 116 Stat. 3086; Pub. L. 112–166, §2(gg)(2), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853u of this title prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Appointment of Commissioned Officers
 

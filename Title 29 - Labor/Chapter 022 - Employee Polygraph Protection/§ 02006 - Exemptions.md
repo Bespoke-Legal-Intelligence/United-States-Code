@@ -28,7 +28,7 @@ This chapter shall not apply with respect to the United States Government, any S
 
 &emsp;&emsp;(v) any individual assigned to a space where sensitive cryptologic information is produced, processed, or stored for any such agency; or
 
-&emsp;&emsp;(B) any expert, or consultant (or employee of such expert or consultant) under contract with any Federal Government department, agency, or program whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 (or a successor Executive order).
+&emsp;&emsp;(B) any expert, or consultant (or employee of such expert or consultant) under contractwith any Federal Government department, agency, or program whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 (or a successor Executive order).
 
 #### (c) FBI contractors exemption
 

@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) there is a need to ensure that services, supports, and other assistance are provided in a culturally competent manner, that ensures that individuals from racial and ethnic minority backgrounds are fully included in all activities provided under this subchapter;
 
-&emsp;(9) family members, friends, and members of the community can play an important role inenhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
+&emsp;(9) family members, friends, and members of the community can play an important role in enhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
 
 &emsp;(10) current research indicates that 88 percent of individuals with developmental disabilities live with their families or in their own households;
 
@@ -32,7 +32,7 @@ Congress finds that—
 
 &emsp;(14) as increasing numbers of individuals with developmental disabilities are living, learning, working, and participating in all aspects of community life, there is an increasing need for a well trained workforce that is able to provide the services, supports, and other forms of direct assistance required to enable the individuals to carry out those activities;
 
-&emsp;(15) there needs to be greater effort to recruit individuals from minority backgrounds into professions serving individuals with developmental disabilities and their families;
+&emsp;(15) there needs to be greater effort to recruit individuals from minority backgroundsinto professions serving individuals with developmental disabilities and their families;
 
 &emsp;(16) the goals of the Nation properly include a goal of providing individuals with developmental disabilities with the information, skills, opportunities, and support to—
 
@@ -94,7 +94,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(2) individuals with developmental disabilities and their families have competencies, capabilities, and personal goals that should be recognized, supported, and encouraged, and any assistance to such individuals should be provided in an individualized manner, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of such individuals;
 
-&emsp;(3) individuals with developmental disabilities and their families are the primary decisionmakers regarding the services and supports such individuals and their families receive, including regarding choosing where the individuals live from available options, and play decisionmaking roles in policies and programs that affect the lives of such individuals and their families;
+&emsp;(3) individuals with developmental disabilities and their families are the primary decisionmakers regarding the services and supports such individuals and their families receive, including regarding choosing where theindividuals live from available options, and play decisionmaking roles in policies and programs that affect the lives of such individuals and their families;
 
 &emsp;(4) services, supports, and other assistance should be provided in a manner that demonstrates respect for individual dignity, personal preferences, and cultural differences;
 
@@ -308,7 +308,7 @@ Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and age
 
 (a) designate, when requested by the Secretary of Health and Human Services, an officer or employee of such department or agency to serve as a liaison with the Committee; and
 
-(b) furnish such information and assistance to the Committee, to the extent permitted by law, as the Secretary of Health and Human Services may request to assist the Committee in performing its functions under this order.
+(b) furnish such information and assistance to the Committee, to the extent permitted by law, as the Secretary of Health and Human Services may request toassist the Committee in performing its functions under this order.
 
 Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services shall provide the Committee with necessary staff support, administrative services and facilities, and funding, to the extent permitted by law.
 

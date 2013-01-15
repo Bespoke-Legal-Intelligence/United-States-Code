@@ -50,7 +50,7 @@ Conduct of investigations.—In conducting investigations of potential violation
 
 Final reports of investigations.—In order to ensure that final reports of investigations are thorough and accurate, the Inspector General shall—
 
-&emsp;&emsp;(i) make every reasonable effort to ensure that any person named in a final report ofinvestigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person's actions;
+&emsp;&emsp;(i) make every reasonable effort to ensure that any person named in a final report of investigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person's actions;
 
 &emsp;&emsp;(ii) include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
 
@@ -88,7 +88,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
-(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews orother formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 

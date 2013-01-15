@@ -74,19 +74,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (2) Programs covered
 
-&emsp;The programs described in this paragraph are the following international programs within the Global Threat Reduction Initiative:
-
-&emsp;&emsp;(A) The International Radiological Threat Reduction program.
-
-&emsp;&emsp;(B) The Emerging Threats and Gap Materials program.
-
-&emsp;&emsp;(C) The Reduced Enrichment for Research and Test Reactors program.
-
-&emsp;&emsp;(D) The Russian Research Reactor Fuel Return program.
-
-&emsp;&emsp;(E) The Global Research Reactor Security program.
-
-&emsp;&emsp;(F) The Kazakhstan Spent Fuel program.
+&emsp;The programs described in this paragraph are any programs within the Office of Defense Nuclear Nonproliferation of the National Nuclear Security Administration.
 
 #### (3) Retention and use of amounts
 
@@ -112,13 +100,13 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (7) Expiration
 
-&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2013.
+&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2018.
 
 #### (g) Definitions
 
 In this section:
 
-&emsp;(1) The term “fissile materials” means plutonium, highly-enriched uranium, or other material capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
+&emsp;(1) The term “fissile materials” means plutonium, highly-enriched uranium, or othermaterial capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
 
 &emsp;(2) The term “radiological materials” includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
 
@@ -130,13 +118,17 @@ In this section:
 
 &emsp;(6) The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
-(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504.)
+(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173.)
 
 #### Codification
 
 Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §3118(a), amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
+
+Subsec. (f)(7). Pub. L. 112–239, §3118(b), substituted “December 31, 2018” for “December 31, 2013”.
 
 <b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
 

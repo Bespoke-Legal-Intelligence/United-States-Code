@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–510 effective Oct. 19, 1984, see section 562(c) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released formedical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
+Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
 
 #### Effective Date
 
@@ -134,7 +134,7 @@ Section effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set o
 
 #### Delayed Application of Exclusion; Additional Wages Considered Benefit
 
-Section 408(b) of Pub. L. 97–306 provided that:
+Pub. L. 97–306, title IV, §408(b), Oct. 14, 1982, 96 Stat. 1446, provided that:
 
 “(1) Subsection (d) of section 3103A \[now 5303A\] of title 38, United States Code, as added by subsection (a)(2), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 14, 1982\].
 
@@ -142,11 +142,11 @@ Section 408(b) of Pub. L. 97–306 provided that:
 
 #### Scope of Exclusion
 
-Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\] of title 38, United States Code, as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
+Pub. L. 97–306, title IV, §408(d), Oct. 14, 1982, 96 Stat. 1446, provided that: “Section 3103A \[now 5303A\] of title 38, United States Code, as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
 
 #### Applicability
 
-Section 604(b) of Pub. L. 97–66 provided that: “Section 5303A \[formerly 3103A\] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 17, 1981\]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
+Pub. L. 97–66, title VI, §604(b), Oct. 17, 1981, 95 Stat. 1036, provided that: “Section 5303A \[formerly 3103A\] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 17, 1981\]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

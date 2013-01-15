@@ -10,7 +10,7 @@ In general.—The Administrator of the Federal Aviation Administration may arran
 
 &emsp;(2)
 
-Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routeswould promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 (b)
 
@@ -64,7 +64,7 @@ In general.—The Administrator is authorized, at the request of a State, subdiv
 
 &emsp;(2)
 
-Fees.—The Administrator shall assess a fee for any special service provided under paragraph (1). A fee shall be not more than the actual or estimated full cost of the service. A fee may be reduced or waived for research organizations, educational organizations, or non-profit organizations, when the Administrator determines that reduction or waiver of the fee is in the best interest of the Government by furthering public safety.
+Fees.—The Administrator shall assess a fee for any special service provided under paragraph (1). A fee shall be not more than theactual or estimated full cost of the service. A fee may be reduced or waived for research organizations, educational organizations, or non-profit organizations, when the Administrator determines that reduction or waiver of the fee is in the best interest of the Government by furthering public safety.
 
 (g)
 
@@ -164,7 +164,7 @@ Sections 1 through 9 of the Act entitled “An Act to define the functions and d
 
 Publication.—(1) The Administrator of the Federal Aviation Administration may arrange for the publication of aeronautical maps and charts necessary for the safe and efficient movement of aircraft in air navigation, using the facilities and assistance of departments, agencies, and instrumentalities of the United States Government as far as practicable.
 
-“(2) In carrying out paragraph (1) of this subsection, the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+“(2) In carrying out paragraph (1) of this subsection, the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to andfrom an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 “(b)
 
@@ -204,7 +204,7 @@ Continued Effectiveness of Directives.—All orders, determinations, rules, regu
 
 &emsp;“(2) are in effect on the date of transfer,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revokedin accordance with law by the President of the United States, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President of the United States, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
 
 “(b)
 

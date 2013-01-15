@@ -12,5 +12,5 @@ Whoever, in the course of collecting or aiding in the collection of private debt
 
 #### Effective Date
 
-Section 2 of Pub. L. 86–291 provided that: “The provisions of this section \[enacting this section\] shall become effective sixty days from the enactment thereof \[Sept. 21, 1959\].”
+Pub. L. 86–291, §2, Sept. 21, 1959, 73 Stat. 570, provided that: “The provisions of this section \[enacting this section\] shall become effective sixty days from the enactment thereof \[Sept. 21, 1959\].”
 

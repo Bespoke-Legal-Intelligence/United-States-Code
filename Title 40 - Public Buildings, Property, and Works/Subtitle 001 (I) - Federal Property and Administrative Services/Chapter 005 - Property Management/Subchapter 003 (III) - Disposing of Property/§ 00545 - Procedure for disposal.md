@@ -112,7 +112,7 @@ Listing in report.—A report of the Administrator under section 126 of this tit
 
 Applicability of Other Law.—Section 6101(b)–(d) of title 41 does not apply to a disposal or contract for disposal made under this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087; Pub. L. 111–350, §5(<i>l</i>)(10), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1087; Pub. L. 111–350, §5(l)(10), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

@@ -60,7 +60,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 <b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which theveteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -118,7 +118,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Section 3 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988, provided that:
 
 “(a)
 
@@ -200,7 +200,7 @@ Liability Insurance.—(1) The Secretary may provide liability insurance for the
 
 #### Results of Examinations and Treatment of Veterans for Disabilities Related to Exposure to Certain Herbicides or to Service in Vietnam
 
-Section 6 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–4, §6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 “(a)
 
@@ -242,7 +242,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 #### Tissue Archiving System
 
-Section 7 of Pub. L. 102–4 provided that:
+Pub. L. 102–4, §7, Feb. 6, 1991, 105 Stat. 16, provided that:
 
 “(a)
 
@@ -262,7 +262,7 @@ Limitations on Acceptance of Samples.—The Secretary may prescribe such limitat
 
 “(e)
 
-Funding.—The authority of the Secretary to carry out this section is effective in any fiscal year only to the extent or in the amount specifically provided in statutory language in appropriations Acts.
+Funding.—The authority of the Secretary to carry out this section is effective in any fiscal yearonly to the extent or in the amount specifically provided in statutory language in appropriations Acts.
 
 “(f)
 
@@ -276,7 +276,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 #### Scientific Research Feasibility Studies Program
 
-Section 8 of Pub. L. 102–4 provided that:
+Pub. L. 102–4, §8, Feb. 6, 1991, 105 Stat. 17, provided that:
 
 “(a)
 
@@ -324,7 +324,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 #### Blood Testing of Certain Vietnam-Era Veterans
 
-Section 9 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–4, §9, Feb. 6, 1991, 105 Stat. 18, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 “(a)
 
@@ -408,7 +408,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 “(d)
 
-OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved undersubsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
+OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved under subsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
 
 “(2)(A) The Director shall submit to the appropriate committees of the Congress, at each of the times specified in subparagraph (B), a report on the Director's monitoring of the conduct of the study pursuant to paragraph (1).
 

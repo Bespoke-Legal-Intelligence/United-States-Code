@@ -62,7 +62,7 @@ The Secretary, after using a peer review process, shall approve a plan submitted
 
 #### (A) Amendments
 
-&emsp;&emsp;If the State educational agency or specially qualified agency amends the plan, theagency shall submit such amendment to the Secretary.
+&emsp;&emsp;If the State educational agency or specially qualified agency amends the plan, the agency shall submit such amendment to the Secretary.
 
 #### (B) Approval
 

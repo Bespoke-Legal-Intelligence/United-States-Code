@@ -1,6 +1,4 @@
 
-19 U.S.C.<br>United States Code, 2011 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 19—CUSTOMS DUTIES
 
 | Chap. |  | Sec. |

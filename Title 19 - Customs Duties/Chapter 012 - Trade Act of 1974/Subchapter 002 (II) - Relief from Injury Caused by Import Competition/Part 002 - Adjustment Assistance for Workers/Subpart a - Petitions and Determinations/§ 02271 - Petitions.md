@@ -220,7 +220,7 @@ Certification of firms not certified before date of enactment.—
 
 &emsp;&emsp;“(A)
 
-Criteria if a determination has not been made.—If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
+Criteria if a determination has not been made.—If, as of the date of the enactment of thisAct \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[19 U.S.C. 2341\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
 
 &emsp;&emsp;“(B)
 

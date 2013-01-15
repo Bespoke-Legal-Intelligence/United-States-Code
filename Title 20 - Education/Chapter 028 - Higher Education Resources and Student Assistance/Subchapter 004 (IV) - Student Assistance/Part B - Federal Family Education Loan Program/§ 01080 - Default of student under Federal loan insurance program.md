@@ -20,7 +20,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### (1) In general
 
-&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
+&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and anaverage cohort default rate for all institutions of higher education within each State.
 
 #### (2) Regulations
 

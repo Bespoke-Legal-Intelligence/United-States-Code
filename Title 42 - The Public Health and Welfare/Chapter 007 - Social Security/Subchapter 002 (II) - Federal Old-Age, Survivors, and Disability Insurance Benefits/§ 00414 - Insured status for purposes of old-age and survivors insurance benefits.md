@@ -32,7 +32,7 @@ For purposes of subsections (a) and (b) of this section, the criterion specified
 
 &emsp;&emsp;(C) the business engaged in or service as a crewman performed is within the scope of the terms of such individual's admission to the United States.
 
-(Aug. 14, 1935, ch. 531, title II, §214, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 505; amended July 18, 1952, ch. 945, §3(b), 66 Stat. 770; Sept. 1, 1954, ch. 1206, title I, §§106(b), 108(a), 68 Stat. 1079, 1083; Aug. 1, 1956, ch. 836, title I, §108, 70 Stat. 830; Pub. L. 85–840, title II, §205(<i>l</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 86–778, title II, §204(a), Sept. 13, 1960, 74 Stat. 948; Pub. L. 87–64, title I, §103(a), June 30, 1961, 75 Stat. 137; Pub. L. 92–603, title I, §104(a), Oct. 30, 1972, 86 Stat. 1340; Pub. L. 108–203, title II, §211(a), Mar. 2, 2004, 118 Stat. 518.)
+(Aug. 14, 1935, ch. 531, title II, §214, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 505; amended July 18, 1952, ch. 945, §3(b), 66 Stat. 770; Sept. 1, 1954, ch. 1206, title I, §§106(b), 108(a), 68 Stat. 1079, 1083; Aug. 1, 1956, ch. 836, title I, §108, 70 Stat. 830; Pub. L. 85–840, title II, §205(l), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 86–778, title II, §204(a), Sept. 13, 1960, 74 Stat. 948; Pub. L. 87–64, title I, §103(a), June 30, 1961, 75 Stat. 137; Pub. L. 92–603, title I, §104(a), Oct. 30, 1972, 86 Stat. 1340;Pub. L. 108–203, title II, §211(a), Mar. 2, 2004, 118 Stat. 518.)
 
 #### Codification
 
@@ -72,7 +72,7 @@ Pub. L. 108–203, title II, §211(c), Mar. 2, 2004, 118 Stat. 518, provided tha
 
 #### Effective Date of 1972 Amendment
 
-Section 104(j) of Pub. L. 92–603 provided that:
+Pub. L. 92–603, title I, §104(j), Oct. 30, 1972, 86 Stat. 1341, provided that:
 
 “(1) The amendments made by this section \[amending this section and sections 415, 416, 423, and 427 of this title and provisions set out as a note under section 415 of this title\] (except the amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act) shall apply only in the case of a man who attains (or would attain) age 62 after December 1974. The amendment made by subsection (i), and the amendment made by subsection (g) to section 209(i) of the Social Security Act \[section 409(i) of this title and section 3121(a)(9) of Title 26, Internal Revenue Code\], shall apply only with respect to payments after 1974.
 
@@ -84,7 +84,7 @@ Section 104(j) of Pub. L. 92–603 provided that:
 
 #### Effective Date of 1961 Amendment
 
-Section 103(b) of Pub. L. 87–64 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
+Pub. L. 87–64, title I, §103(b), June 30, 1961, 75 Stat. 137, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
 
 &emsp;“(1) in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning on or after the effective date of this title \[see note set out under section 402 of this title\], based on applications filed in or after March 1961,
 
@@ -94,11 +94,11 @@ Section 103(b) of Pub. L. 87–64 provided that: “The amendment made by subsec
 
 #### Effective Date of 1960 Amendment
 
-Section 204(d)(1) of Pub. L. 86–778 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and provisions set out as a note under section 415 of this title\] shall be applicable (A) in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month, (B) in the case of lump-sum death payments under such title with respect to deaths occurring after such month, and (C) in the case of an application for a disability determination with respect to a period of disability (as defined in section 216(i) of the Social Security Act \[section 416(i) of this title\]) filed after such month.”
+Pub. L. 86–778, title II, §204(d)(1), Sept. 13, 1960, 74 Stat. 948, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and provisions set out as a note under section 415 of this title\] shall be applicable (A) in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month, (B) in the case of lump-sum death payments under such title with respect to deaths occurring after such month, and (C) in the case of an application for a disability determination with respect to a period of disability (as defined insection 216(i) of the Social Security Act \[section 416(i) of this title\]) filed after such month.”
 
 #### Effective Date of 1958 Amendment
 
-Amendment by section 205(<i>l</i>) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
+Amendment by section 205(l) of Pub. L. 85–840 applicable with respect to monthly benefits under this subchapter for months after August 1958, but only if an application for such benefits is filed on or after Aug. 28, 1958, see section 207(a) of Pub. L. 85–840, set out as a note under section 416 of this title.
 
 #### Effective Date of 1954 Amendment
 
@@ -158,5 +158,5 @@ Pub. L. 98–21, title I, §102(e), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 #### Determination of Entitlement to Monthly Benefits for Sept. 1960 and Prior Months and Individual's Closing Date Prior to 1960
 
-Section 204(d)(2) of Pub. L. 86–778 provided that the provisions of subsec. (a) of this section in effect prior to Sept. 13, 1960, and the provisions of section 109 of act Sept. 1, 1954, ch. 1206, 68 Stat. 1084, set out as a note under section 415 of this title, as in effect prior to such date were to apply for purposes of determining entitlement to monthly benefits under this subchapter for Sept. 1960 and prior months with respect to wages and self-employment income of an individual and for purposes of determining an individual's closing date prior to 1960 under section 415(b)(3)(B) of this title.
+Pub. L. 86–778, title II, §204(d)(2), Sept. 13, 1960, 74 Stat. 948, provided that the provisions of subsec. (a) of this section in effect prior to Sept. 13, 1960, and the provisions of section 109 of act Sept. 1, 1954, ch. 1206, 68 Stat. 1084, set out as a note under section 415 of this title, as in effect prior to such date were to apply for purposes of determining entitlement to monthly benefits under this subchapter for Sept. 1960 and prior months with respect to wages and self-employment income of an individual and for purposes of determining an individual's closing date prior to 1960 under section 415(b)(3)(B) of this title.
 

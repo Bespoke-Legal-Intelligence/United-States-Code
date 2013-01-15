@@ -26,5 +26,5 @@ For purposes of this chapter—
 
 #### References in Text
 
-The Telecommunications Act of 1996, referred to in par. (2), is Pub. L. 104–104, Feb. 8, 1996, 110 Stat. 56. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and Tables.
+The Telecommunications Act of 1996, referred to in par. (2), is Pub. L. 104–104, Feb. 8, 1996, 110 Stat. 56. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications, and Tables.
 

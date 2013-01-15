@@ -30,7 +30,7 @@ Aircraft Maintenance Safety Programs.—The Administrator shall establish—
 
 &emsp;&emsp;(B) to enhance participation of those inspectors and engineers in those inspections; and
 
-&emsp;(3) a program to ensure that air carriers demonstrate to the Administrator their commitment and technical competence to ensure the airworthiness of aircraft that the carriers operate.
+&emsp;(3) a program to ensure that air carriers demonstrate to the Administrator their commitment and technical competence to ensurethe airworthiness of aircraft that the carriers operate.
 
 (d)
 
@@ -80,7 +80,7 @@ Oct. 28, 1991, Pub. L. 102–143, §404, 105 Stat. 952.
 
 In subsections (a) and (c), before clause (1), the words “Not later than 180 days after the date of the enactment of this title” are omitted as obsolete.
 
-In subsection (a), before clause (1), the text of section 405 of the Department of Transportation and Related Agencies Appropriations Act, 1992 (Public Law 102–143, 105 Stat. 952) is omitted as surplus because the complete name of the Administrator of the Federal Aviation Administration is used the first time the term appears in a section. The word “regulations” is substituted for “rule” because the terms are synonymous.In clauses (2)–(4), the words “required by the rule” are omitted as surplus. In clause (2), the words “structure, skin, and other” are omitted as surplus. In clause (3), the words “inspection, maintenance, and other” are omitted as surplus.
+In subsection (a), before clause (1), the text of section 405 of the Department of Transportation and Related Agencies Appropriations Act, 1992 (Public Law 102–143, 105 Stat. 952) is omitted as surplus because the complete name of the Administrator of the Federal Aviation Administration is used the first time the term appears in a section. The word “regulations” is substituted for “rule” because the terms are synonymous. In clauses (2)–(4), the words “required by the rule” are omitted as surplus. In clause (2), the words “structure, skin, and other” are omitted as surplus. In clause (3), the words “inspection, maintenance, and other” are omitted as surplus.
 
 In subsection (c)(1), the word “Administrator” is substituted for “Federal Aviation Administration” for consistency in the revised title.
 

@@ -124,7 +124,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (ii) Indian tribe
 
-&emsp;&emsp;&emsp;The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;&emsp;&emsp;The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community which is recognizedas eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (iii) Net proceeds
 
@@ -174,7 +174,7 @@ For purposes of this section, the term “essential governmental function” sha
 
 &emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue are used to finance—
 
-&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined insection 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
+&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
 
 &emsp;&emsp;&emsp;(ii) any facility located outside the Indian reservation (as defined in section 168(j)(6)).
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1301(j)(7), amended par. (2) generally. Prio
 
 &emsp;“(A) An industrial development bond (as defined in section 103(b)(2)).
 
-&emsp;“(B) An obligation described in section 103(<i>l</i>)(1)(A) (relating to scholarship bonds).
+&emsp;“(B) An obligation described in section 103(l)(1)(A) (relating to scholarship bonds).
 
 &emsp;“(C) A mortgage subsidy bond (as defined in paragraph (1) of section 103A(b) without regard to paragraph (2) thereof).”
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 
 
 #### Effective Date of 1987 Amendment
 
-Section 10632(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after October 13, 1987.”
+Pub. L. 100–203, title X, §10632(c), Dec. 22, 1987, 101 Stat. 1330–457, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after October 13, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -250,7 +250,7 @@ Amendment by section 1878(i) of Pub. L. 99–514 effective, except as otherwise 
 
 Amendment by section 474(r)(41) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 1065(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, §1065(c), July 18, 1984, 98 Stat. 1048, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date of 1983 Amendment
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date
 
-Section 204 of title II of Pub. L. 97–473, as amended by Pub. L. 98–369, div. A, title X, §1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this title \[enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title\]—
+Pub. L. 97–473, title II, §204, Jan. 14, 1983, 96 Stat. 2611, as amended by Pub. L. 98–369, div. A, title X, §1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this title \[enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title\]—
 
 &emsp;“(1) insofar as they relate to chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 1 et seq.\] (other than section 103 thereof), shall apply to taxable years beginning after December 31, 1982,
 

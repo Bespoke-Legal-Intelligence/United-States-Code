@@ -8,7 +8,7 @@
 
 &emsp;(B) the percentage then in effect under section 3101(a) of the Internal Revenue Code of 1986 (relating to rate of tax for old-age, survivors, and disability insurance).
 
-(3) The applicable percentage under this paragraph for civilian service shall be as follows:
+(3)(A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees shall be as follows:
 
 &nbsp;
 
@@ -35,15 +35,26 @@
 | &nbsp; | 7\.5 | After December 31, 2000. |
 | Customs and border protection officer | 7\.5 | After June 29, 2008. |
 
+(B) The applicable percentage under this paragraph for civilian service by revised annuity employees shall be as follows:
+
+|  |  |  |
+| :--- | :---: | ---: |
+| Employee | 9\.3 | After December 31, 2012. |
+| Congressional employee | 9\.3 | After December 31, 2012. |
+| Member | 9\.3 | After December 31, 2012. |
+| Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller | 9\.8 | After December 31, 2012. |
+| Nuclear materials courier | 9\.8 | After December 31, 2012. |
+| Customs and border protection officer | 9\.8 | After December 31, 2012. |
+
 (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
 (c) The amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee, Member, or survivor also shall be credited to the Fund.
 
 (d)(1) Under such regulations as the Office may prescribe, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
-(2) Deposit may not be required for days of unused sick leave credited under paragraph (1) or (2) of section 8415(<i>l</i>).
+(2) Deposit may not be required for days of unused sick leave credited under paragraph (1) or (2) of section 8415(m).
 
-(e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives,as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
+(e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
 
 (B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
 
@@ -67,7 +78,7 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
-(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
+(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1)of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -91,11 +102,11 @@
 
 (i)(1) Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which such employee or Member may be allowed credit under this chapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
 
-(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3)of section 8334(e) and regulations prescribed by the Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
+(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199.)
 
 #### References in Text
 
@@ -109,11 +120,15 @@ The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 2
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–96, §5001(b), designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 112–96, §5001(c)(2)(A), substituted “section 8415(m)” for “section 8415(l)”.
+
 <b>2009</b>—Pub. L. 111–84, §1904(b)(3)(A), amended section catchline generally, inserting “; deposits” after “service”.
 
 Subsec. (c). Pub. L. 111–84, §1904(b)(2), inserted at end “Deposits made by an employee, Member, or survivor also shall be credited to the Fund.”
 
-Subsec. (d)(2). Pub. L. 111–84, §1901(b), substituted “paragraph (1) or (2) of section 8415(<i>l</i>)” for “section 8415(k)”.
+Subsec. (d)(2). Pub. L. 111–84, §1901(b), substituted “paragraph (1) or (2) of section 8415(l)” for “section 8415(k)”.
 
 Subsec. (i). Pub. L. 111–84, §1904(a), added subsec. (i).
 
@@ -203,7 +218,7 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 #### Effective Date of 2000 Amendments
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Policeafter Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of this title.
 
@@ -229,7 +244,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respec
 
 Pub. L. 105–261, div. C, title XXXI, §3154(i)(2), Oct. 17, 1998, 112 Stat. 2256, provided that: “Contributions under subsections (a) and (b) of section 8423 of title 5, United States Code, shall not be reduced as a result of that portion of the amendment made by paragraph (1) \[amending this section\] requiring employee deductions at a rate in excess of 7.5 percent for the period beginning on January 1, 1999, and ending on December 31, 2002.”
 
-Section 7001(b)(2) of Pub. L. 105–33 provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) \[amending this section\] of this subsection.”
+Pub. L. 105–33, title VII, §7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) \[amending this section\] of this subsection.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

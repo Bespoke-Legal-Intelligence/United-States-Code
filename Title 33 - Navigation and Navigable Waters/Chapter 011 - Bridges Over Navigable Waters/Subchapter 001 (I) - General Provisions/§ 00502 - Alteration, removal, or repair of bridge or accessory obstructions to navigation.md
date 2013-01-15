@@ -46,5 +46,5 @@ Amendment by act June 25, 1948 effective Sept. 1, 1948, see section 38 of act Ju
 
 #### Limitation on Application
 
-Section as not applicable to bridges constructed under sections 491 to 498 of this title, see section 494 of this title.
+Section as not applicable to bridges constructed under sections 491 to 494 and 495 to 498 of this title, see section 494 of this title.
 

@@ -12,5 +12,5 @@ As used in subsection (a) of this section, the term “investments in human capi
 
 #### Report to Congress
 
-Section 202(b) of Pub. L. 101–240 provided that: “The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\] for fiscal year 1991 a report on the efforts undertaken by the United States Executive Director of the Inter-American Development Bank, and the progress to date, in achieving the objectives of section 34 of the Inter-American Development Bank Act \[22 U.S.C. 283z–6\].”
+Pub. L. 101–240, title II, §202(b), Dec. 19, 1989, 103 Stat. 2498, provided that: “The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the report required by section 1701 of the International Financial Institutions Act \[22 U.S.C. 262r\] for fiscal year 1991 a report on the efforts undertaken by the United States Executive Director of the Inter-American Development Bank, and the progress to date, in achieving the objectives of section 34 of the Inter-American Development Bank Act \[22 U.S.C. 283z–6\].”
 

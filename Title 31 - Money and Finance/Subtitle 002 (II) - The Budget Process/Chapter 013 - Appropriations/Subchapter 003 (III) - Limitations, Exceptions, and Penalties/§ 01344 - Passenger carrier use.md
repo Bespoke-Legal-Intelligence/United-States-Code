@@ -10,7 +10,7 @@
 
 > is transportation for an official purpose, when approved in writing by the head of the Federal agency.
 
-(3) For purposes of paragraph (1), the transportation of an individual between such individual's place of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
+(3) For purposes of paragraph (1), the transportation of an individual between such individual'splace of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
 
 (b) A passenger carrier may be used to transport between residence and place of employment the following officers and employees of Federal agencies:
 
@@ -40,7 +40,7 @@
 
 > Except as provided in paragraph (2) of subsection (d), any authorization made pursuant to clause (9) of this subsection to permit the use of a passenger carrier to transport an officer or employee between residence and place of employment shall be effective for not more than 15 calendar days.
 
-(c) A passenger carrier may be used to transport between residence and place of employment any person for whom protection is specifically authorized pursuant to section 3056(a) of title 18 or for whom transportation is authorized pursuant to section 28 of the State Department BasicAuthorities Act of 1956, section 2637 of title 10, or section 8(a)(1) of the Central Intelligence Agency Act of 1949.
+(c) A passenger carrier may be used to transport between residence and place of employment any person for whom protection is specifically authorized pursuant to section 3056(a) of title 18 or for whom transportation is authorized pursuant to section 28 of the State Department Basic Authorities Act of 1956, section 2637 of title 10, or section 8(a)(1) of the Central Intelligence Agency Act of 1949.
 
 (d)(1) Any determination made under subsection (b)(9) of this section shall be in writing and shall include the name and title of the officer or employee affected, the reason for such determination, and the duration of the authorization for such officer or employee to use a passenger carrier for transportation between residence and place of employment.
 
@@ -52,7 +52,7 @@
 
 (e)(1) Not later than March 15, 1987, the Administrator of General Services, after consultation with the Comptroller General, the Director of the Office of Management and Budget, and the Director of the Administrative Office of the United States Courts, shall promulgate regulations governing the heads of all Federal agencies in making the determinations authorized by subsections (a)(2)(A), (b)(9), and (d)(2) of this section. Such regulations shall specify that the comfort and convenience of an officer or employee is not sufficient justification for authorizations of transportation under this section.
 
-(2) In promulgating regulations under paragraph (1) of this subsection, the Administrator of General Services shall provide criteria defining the term “field work” for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
+(2) In promulgating regulations under paragraph (1) of this subsection, the Administratorof General Services shall provide criteria defining the term “field work” for purposes of subsection (a)(2)(A) of this section. Such criteria shall ensure that transportation between an employee's residence and the location of the field work will be authorized only to the extent that such transportation will substantially increase the efficiency and economy of the Government.
 
 (f) Each Federal agency shall maintain logs or other records necessary to establish the official purpose for Government transportation provided between an individual's residence and such individual's place of employment pursuant to this section.
 
@@ -78,7 +78,7 @@
 
 (h) As used in this section—
 
-&emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship,or other similar means of transportation that is owned or leased by the United States Government; and
+&emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
 
 &emsp;(2) the term “Federal agency” means—
 
@@ -130,7 +130,7 @@ July 16, 1914, ch. 141, §5(c)(2)(1st, last sentences), 38 Stat. 508; restated A
 
 31:638a(c)(2)(last sentence).
 
-In subsection (a), before clause (1), the words “officers and employees of the Government” are substituted for “officers and employees” for clarity. In clause (2), the words “performing field work requiring transportation” are substituted for “engaged in field work the character of whose duties makes such transportation necessary” to eliminate unnecessary words. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency with the source provisions restated in the section and section 1341.
+In subsection (a), before clause (1), the words “officers and employees of the Government” are substituted for “officers and employees” for clarity. In clause (2), the words “performing field work requiring transportation” are substituted for “engaged in field work thecharacter of whose duties makes such transportation necessary” to eliminate unnecessary words. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency with the source provisions restated in the section and section 1341.
 
 In subsection (b)(2), the words “section 101 of title 5” are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
@@ -210,7 +210,7 @@ Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870, provide
 
 #### Effective Date of 1994 Amendment
 
-Section 4(f)(2) of Pub. L. 103–272 provided that the amendment made by that section is effective Dec. 22, 1987.
+Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363, provided that the amendment made by that section is effective Dec. 22, 1987.
 
 #### Transfer of Functions
 

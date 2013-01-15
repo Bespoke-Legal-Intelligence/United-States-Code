@@ -18,7 +18,7 @@ Congress finds the following:
 
 &emsp;(8) In 1975, the Northern Michigan Ottawa Association petitioned under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”), to form a government on behalf of the Bands. Again in spite of the Bands’ eligibility, the Bureau of Indian Affairs failed to act on their request.
 
-&emsp;(9) The United States Government, the government of the State of Michigan, and local governments have had continuous dealings with the recognized political leaders of the Bands from 1836 to the present.
+&emsp;(9) The United States Government, the government of the State of Michigan, and localgovernments have had continuous dealings with the recognized political leaders of the Bands from 1836 to the present.
 
 (Pub. L. 103–324, §2, Sept. 21, 1994, 108 Stat. 2156.)
 
@@ -28,5 +28,5 @@ The Indian Reorganization Act, referred to in pars. (5) and (8), is act June 18,
 
 #### Short Title
 
-Section 1 of Pub. L. 103–324 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act’.”
+Pub. L. 103–324, §1, Sept. 21, 1994, 108 Stat. 2156, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians Act’.”
 

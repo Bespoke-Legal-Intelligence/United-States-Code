@@ -60,7 +60,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (6) Implementation
 
-&emsp;The Attorney General shall establish procedures to implement this subsection, including procedures for effectively applying this subsection to discretionary grant programs.
+&emsp;The Attorney General shall establish procedures to implement this subsection, includingprocedures for effectively applying this subsection to discretionary grant programs.
 
 #### (7) Effective date
 

@@ -68,7 +68,7 @@ Procedures for Testing.—In establishing the programs required under subsection
 
 &emsp;(3) require that all laboratories involved in the controlled substances testing of any individual under this section shall have the capability and facility, at such laboratory, of performing screening and confirmation tests;
 
-&emsp;(4) provide that all tests which indicate the use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance by any individual shall be confirmed by a scientifically recognized method of testing capable of providing quantitative data regarding alcohol or a controlled substance;
+&emsp;(4) provide that all tests which indicate the use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance by any individual shall be confirmed bya scientifically recognized method of testing capable of providing quantitative data regarding alcohol or a controlled substance;
 
 &emsp;(5) provide that each specimen sample be subdivided, secured, and labelled in the presence of the tested individual and that a portion thereof be retained in a secure manner to prevent the possibility of tampering, so that in the event the individual's confirmation test results are positive the individual has an opportunity to have the retained portion assayed by a confirmation test done independently at a second certified laboratory if the individual requests the independent test within 3 days after being advised of the results of the initial confirmation test;
 
@@ -130,7 +130,7 @@ Pub. L. 102–195, §21(c)–(h), Dec. 9, 1991, 105 Stat. 1616.
 
 In subsection (b)(2), the words “within 18 months after the date of enactment of this Act” are omitted as obsolete.
 
-In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date “December 9, 1991” is substitutedfor “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
+In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date “December 9, 1991” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
 
 #### Findings
 

@@ -34,7 +34,7 @@
 
 (c)(1) The Committee shall elect one of its members as the Chairman and one of its members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
 
-(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary's designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary's designated representative shallact as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (d)(1) The Secretary shall, whenever practicable, consult with the Committee before taking any significant action relating to Great Lakes pilotage.
 

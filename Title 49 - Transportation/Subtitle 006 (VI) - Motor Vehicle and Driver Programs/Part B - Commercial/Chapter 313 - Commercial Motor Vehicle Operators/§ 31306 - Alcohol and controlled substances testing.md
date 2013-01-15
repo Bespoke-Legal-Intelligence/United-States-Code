@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section and section 31306a, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -40,7 +40,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
-&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartialmethods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
 (d)
 
@@ -74,7 +74,7 @@ Other Regulations Allowed.—This section does not prevent the Secretary of Tran
 
 Application of Penalties.—This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017; Pub. L. 104–59, title III, §342(c), Nov. 28, 1995, 109 Stat. 609.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017; Pub. L. 104–59, title III, §342(c), Nov. 28, 1995, 109 Stat. 609; Pub. L. 112–141, div. C, title II, §32402(a)(1), July 6, 2012, 126 Stat. 795.)
 
 Historical and Revision Notes
 
@@ -150,7 +150,13 @@ In subsection (g), the words “rule” and “ordinance” are omitted as being
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 inserted “and section 31306a” after “this section”.
+
 <b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Drug Test Results Study
 

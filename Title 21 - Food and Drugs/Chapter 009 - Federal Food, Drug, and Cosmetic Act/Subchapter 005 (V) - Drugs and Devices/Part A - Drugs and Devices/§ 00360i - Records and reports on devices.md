@@ -18,7 +18,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;&emsp;&emsp;&emsp;(III) a type of device which the Secretary has, by notice published in the Federal Register or letter to the person who is the manufacturer or importer of the device, indicated should be subject to such part 803 in order to protect the public health;
 
-&emsp;&emsp;&emsp;(ii) shall, if the device is not subject to clause (i), be submitted in accordance withcriteria established by the Secretary for reports made pursuant to this clause, which criteria shall require the reports to be in summary form and made on a quarterly basis; or
+&emsp;&emsp;&emsp;(ii) shall, if the device is not subject to clause (i), be submitted in accordance with criteria established by the Secretary for reports made pursuant to this clause, which criteria shall require the reports to be in summary form and made on a quarterly basis; or
 
 &emsp;&emsp;&emsp;(iii) shall, if the device is imported into the United States and for which part 803 of title 21, Code of Federal Regulations (or successor regulations) requires an importer to submit a report to the manufacturer, be submitted by the importer to the manufacturer in accordance with part 803 of title 21, Code of Federal Regulations (or successor regulations) <sup>1</sup>
 
@@ -150,7 +150,7 @@ Subsection (a) of this section shall not apply to—
 
 #### (f) Unique device identification system
 
-The Secretary shall promulgate regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number.
+Not later than December 31, 2012, the Secretary shall issue proposed regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number. The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.
 
 #### (g) Reports of removals and corrections
 
@@ -166,9 +166,41 @@ The Secretary shall promulgate regulations establishing a unique device identifi
 
 (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854.)
+#### (h) Inclusion of devices in the postmarket risk identification and analysis system
+
+#### (1) In general
+
+#### (A) Application to devices
+
+&emsp;&emsp;The Secretary shall amend the procedures established and maintained under clauses (i), (ii), (iii), and (v) of section 355(k)(3)(C) of this title in order to expand the postmarket risk identification and analysis system established under such section to include and apply to devices.
+
+#### (B) Exception
+
+&emsp;&emsp;Subclause (II) of clause (i) of section 355(k)(3)(C) of this title shall not apply to devices.
+
+#### (C) Clarification
+
+&emsp;&emsp;With respect to devices, the private sector health-related electronic data provided under section 355(k)(3)(C)(i)(III)(bb) of this title may include medical device utilization data, health insurance claims data, and procedure and device registries.
+
+#### (2) Data
+
+&emsp;In expanding the system as described in paragraph (1)(A), the Secretary shall use relevant data with respect to devices cleared under section 360(k) of this title or approved under section 360e of this title, including claims data, patient survey data, and any other data deemed appropriate by the Secretary.
+
+#### (3) Stakeholder input
+
+&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outside stakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
+
+#### (4) Voluntary surveys
+
+&emsp;Chapter 35 of title 44 shall not apply to the collection of voluntary information from health care providers, such as voluntary surveys or questionnaires, initiated by the Secretary for purposes of postmarket risk identification, mitigation, and analysis for devices.
+
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–144, §614, substituted “Not later than December 31, 2012, the Secretary shall issue proposed” for “The Secretary shall promulgate” and inserted at end “The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.”
+
+Subsec. (h). Pub. L. 112–144, §615, added subsec. (h).
 
 <b>2007</b>—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted “were to recur, which report under this subparagraph—” for “were to recur;” and added cls. (i) to (iii).
 
@@ -234,15 +266,15 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Effective Date of 1997 Amendment
 
-Section 211 of Pub. L. 105–115 provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
+Pub. L. 105–115, title II, §211, Nov. 21, 1997, 111 Stat. 2345, provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
 
 Amendment by section 213(a), (c) of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 2(b) of Pub. L. 102–300 provided that: “The amendments made by subsection (a) \[amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below\] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 360i(e)\] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 \[Pub. L. 101–629, set out as a note below\] shall revert to its proposed status as of such date.”
+Pub. L. 102–300, §2(b), June 16, 1992, 106 Stat. 238, provided that: “The amendments made by subsection (a) \[amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below\] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(e)\] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 \[Pub. L. 101–629, set out as a note below\] shall revert to its proposed status as of such date.”
 
-Section 5(b) of Pub. L. 102–300 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect—
+Pub. L. 102–300, §5(b), June 16, 1992, 106 Stat. 240, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect—
 
 &emsp;“(1) 1 year after the date of the enactment of this Act \[June 16, 1992\]; or
 
@@ -252,7 +284,7 @@ Section 5(b) of Pub. L. 102–300 provided that: “The amendments made by subse
 
 #### Effective Date of 1990 Amendment
 
-Section 2(c) of Pub. L. 101–629 provided that: “Section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
+Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: “Section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
 
 &emsp;“(1) upon the effective date of regulations promulgated under subsection (b) \[set out below\], or
 
@@ -260,17 +292,17 @@ Section 2(c) of Pub. L. 101–629 provided that: “Section 519(b) of the Federa
 
 > whichever occurs first.”
 
-Section 3(a)(2) of Pub. L. 101–629 provided that: “Section 519(a)(6) \[21 U.S.C. 360i(a)(6)\], as added by the amendment made by paragraph (1), shall take effect upon the effective date of final regulations under subsection (c) \[set out below\].”
+Pub. L. 101–629, §3(a)(2), Nov. 28, 1990, 104 Stat. 4514, provided that: “Section 519(a)(6) \[21 U.S.C. 360i(a)(6)\], as added by the amendment made by paragraph (1), shall take effect upon the effective date of final regulations under subsection (c) \[set out below\].”
 
-Section 3(b)(3) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(1), June 16, 1992, 106 Stat. 238, provided that: “Section 519(e) \[21 U.S.C. 360i(e)\], as added by the amendment made by paragraph (1), shall take effect upon the expiration of 9 months after the issuance of final regulations under subsection (c) \[set out below\].”
+Pub. L. 101–629, §3(b)(3), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(1), June 16, 1992, 106 Stat. 238, provided that: “Section 519(e) \[21 U.S.C. 360i(e)\], as added by the amendment made by paragraph (1), shall take effect upon the expiration of 9 months after the issuance of final regulations under subsection (c) \[set out below\].”
 
 \[For effective date of amendment by Pub. L. 102–300, see section 2(b) of Pub. L. 102–300, set out above as an Effective Date of 1992 Amendment note.\]
 
 #### Regulations
 
-Section 2(b) of Pub. L. 101–629 provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
+Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
 
-Section 3(c) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
+Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 
 “(1)(A) Not later than 9 months after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Health and Human Services shall issue proposed regulations—
 
@@ -298,15 +330,15 @@ Section 3(c) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(2), (
 
 #### Information Concerning Reporting Requirements for Device User Facilities
 
-Section 2(d) of Pub. L. 101–629 directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C. 360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
+Pub. L. 101–629, §2(d), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C. 360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
 
 #### Study of Reporting Requirements; Compliance by Device User Facilities; Actions by Manufacturers; Cost Effectiveness; Recommendations
 
-Section 2(e) of Pub. L. 101–629 directed Comptroller General of the United States, not more than 36 months after Nov. 28, 1990, to conduct a study of compliance by device user facilities with the requirements of 21 U.S.C. 360i(b), actions taken by manufacturers of devices in response to reports made to them, cost effectiveness of such requirements and their implementation, and any recommendations for improvements to such requirements, with Comptroller General to complete the study and submit a report on the study not later than 45 months from Nov. 28, 1990, to appropriate committees of Congress.
+Pub. L. 101–629, §2(e), Nov. 28, 1990, 104 Stat. 4513, directed Comptroller General of the United States, not more than 36 months after Nov. 28, 1990, to conduct a study of compliance by device user facilities with the requirements of 21 U.S.C. 360i(b), actions taken by manufacturers of devices in response to reports made to them, cost effectiveness of such requirements and their implementation, and any recommendations for improvements to such requirements, with Comptroller General to complete the study and submit a report on the study not later than 45 months from Nov. 28, 1990, to appropriate committees of Congress.
 
 #### Report to Congress on Reporting Requirements for Device User Facilities
 
-Section 2(f) of Pub. L. 101–629 directed Secretary of Health and Human Services, not later than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
+Pub. L. 101–629, §2(f), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, notlater than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

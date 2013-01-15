@@ -56,7 +56,7 @@ Pub. L. 104–106, div. A, title IX, §908, Feb. 10, 1996, 110 Stat. 406, provid
 
 “(a)
 
-Redesignation.—The agency in the Department of Defense known as the Advanced Research Projects Agency shall after the date of the enactment of this Act \[Feb. 10, 1996\] be designated as the Defense Advanced Research Projects Agency.
+Redesignation.—The agency in the Department of Defense known as the Advanced Research ProjectsAgency shall after the date of the enactment of this Act \[Feb. 10, 1996\] be designated as the Defense Advanced Research Projects Agency.
 
 “(b)
 
@@ -64,7 +64,7 @@ References.—Any reference in any law, regulation, document, record, or other p
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
+Pub. L. 99–433, §1(a), Oct. 1, 1986, 100 Stat. 992, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
 
 #### Transfer of Functions
 
@@ -144,7 +144,7 @@ Construction.—Nothing in this provision shall be construed as preventing the S
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
-Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
+Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the UnitedStates to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
 
 #### Commission To Assess United States National Security Space Management and Organization
 
@@ -210,7 +210,7 @@ White House Communications Agency.—For purposes of this section, the term ‘W
 
 #### Military Force Structure Review
 
-Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
+Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not laterthan Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
 #### Commission on Roles and Missions of Armed Forces
 
@@ -228,7 +228,7 @@ Termination of Report Requirements.—Unless otherwise provided by a law enacted
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-“(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit thatreport is unnecessary or incompatible with the efficient management of the Department of Defense.
+“(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
 “(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
@@ -254,7 +254,7 @@ Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, res
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 
-Section 3 of Pub. L. 99–433 provided that: “In enacting this Act \[see Short Title of 1986 Amendment note above\], it is the intent of Congress, consistent with the congressional declaration of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401)—
+Pub. L. 99–433, §3, Oct. 1, 1986, 100 Stat. 993, provided that: “In enacting this Act \[see Short Title of 1986 Amendment note above\], it is the intent of Congress, consistent with the congressional declaration of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401)—
 
 &emsp;“(1) to reorganize the Department of Defense and strengthen civilian authority in the Department;
 
@@ -274,11 +274,11 @@ Section 3 of Pub. L. 99–433 provided that: “In enacting this Act \[see Short
 
 #### Reduction of Reporting Requirements
 
-Section 602 of Pub. L. 99–433, as amended by Pub. L. 100–180, div. A, title XIII, §1314(a)(4), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title II, §243, Nov. 29, 1989, 103 Stat. 1402; Pub. L. 101–510, div. A, title XIII, §1324, Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Defense to compile a list of all provisions of law in effect on or after Oct. 1, 1986, and before Feb. 1, 1987, which require President or any official or employee of Department of Defense to submit a report, notification, or study to Congress or any committee of Congress and to submit this list not later than six months after Oct. 1, 1986, with any recommendation or draft of legislation to implement any changes in law recommended by the Secretary.
+Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by Pub. L. 100–180, div. A, title XIII, §1314(a)(4), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title II, §243, Nov. 29, 1989, 103 Stat. 1402; Pub. L. 101–510, div. A, title XIII, §1324, Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Defense to compile a list of all provisions of law in effect on or after Oct. 1, 1986, and before Feb. 1, 1987, which require President or any official or employee of Department of Defense to submit a report, notification, or study to Congress or any committee of Congress and to submit this list not later than six months after Oct. 1, 1986, with any recommendation or draft of legislation to implement any changes in law recommended by the Secretary.
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Section 604 of Pub. L. 99–433 directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representativesa draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

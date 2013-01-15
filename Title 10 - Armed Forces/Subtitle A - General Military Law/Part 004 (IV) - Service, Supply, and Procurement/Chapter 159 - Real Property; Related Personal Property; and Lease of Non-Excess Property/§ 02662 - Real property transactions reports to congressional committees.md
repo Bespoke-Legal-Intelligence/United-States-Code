@@ -18,7 +18,9 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 &emsp;(G) Any transaction or contract action that results in, or includes, the acquisition or use by, or the lease or license to, the United States of real property, if the estimated annual rental or cost for the use of the real property is more than $750,000.
 
-(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+&emsp;(H) Any transaction or contract action for the provision and operation of energy production facilities on real property under the jurisdiction of the Secretary of a military department, as authorized by section 2922a(a)(2) of this title, if the term of the transaction or contract exceeds 20 years.
+
+(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project,the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
 (3) The authority of the Secretary concerned to enter into a transaction described in paragraph (1) commences only after—
 
@@ -74,7 +76,7 @@ Statements of Compliance in Transaction Instruments.—A statement in an instrum
 
 (e)
 
-Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committeeon Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 (f)
 
@@ -102,7 +104,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 Secretary Concerned Defined.—In this section, the term “Secretary concerned” includes, with respect to Defense Agencies, the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, §2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, §2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, §2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462; Pub. L. 112–81, div. B, title XXVIII, §2812, Dec. 31, 2011, 125 Stat. 1686.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, §2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, §2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, §2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462; Pub. L. 112–81, div. B, title XXVIII, §2812, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 112–239, div. B, title XXVIII, §2821, Jan. 2, 2013, 126 Stat. 2152.)
 
 Historical and Revision Notes
 
@@ -136,7 +138,7 @@ In subsection (a)(4), the words “or another military department” are substit
 
 In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish \* \* \* reports”.
 
-In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, theTerritory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
+In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
 In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
@@ -147,6 +149,8 @@ The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(H). Pub. L. 112–239 added subpar. (H).
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
 

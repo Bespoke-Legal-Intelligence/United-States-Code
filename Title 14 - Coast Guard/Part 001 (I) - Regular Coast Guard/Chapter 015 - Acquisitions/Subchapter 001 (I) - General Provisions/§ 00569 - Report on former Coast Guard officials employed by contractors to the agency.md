@@ -2,7 +2,7 @@
 
 (a)
 
-Report Required.—Not later than December 31, 2011, and annually thereafter, the Comptroller General of the United States shall submit a report to the appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period. The report shall assess the extent to which former Coast Guard officials were provided compensation by Coast Guard contractors in the preceding calendar year.
+Report Required.—Not later than December 31, 2011, the Comptroller General of the United States shall submit a report to the appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period. The report shall assess the extent to which former Coast Guard officials were provided compensation by Coast Guard contractors in the preceding calendar year.
 
 (b)
 
@@ -26,15 +26,15 @@ Coast guard contractor.—The term “Coast Guard contractor” includes any per
 
 &emsp;(2)
 
-Coast guard official.—The term “Coast Guard official” includes former officers of theCoast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
+Coast guard official.—The term “Coast Guard official” includes former officers of the Coast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2940.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2940; amended Pub. L. 112–213, title II, §217(8), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Prior Provisions
 
-Prior sections 569 and 570 were repealed by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+A prior section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial by civil authorities for offenses against United States, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
-Section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial by civil authorities for offenses against United States.
+#### Amendments
 
-Section 570, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to designation of any Federal prison for execution of sentence.
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out “and annually thereafter,” after “December 31, 2011,”.
 

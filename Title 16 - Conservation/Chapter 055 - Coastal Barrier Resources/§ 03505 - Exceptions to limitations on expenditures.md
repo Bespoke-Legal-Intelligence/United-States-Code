@@ -20,7 +20,7 @@ Notwithstanding section 3504 of this title, the appropriate Federal officer, aft
 
 &emsp;&emsp;(B) Establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-&emsp;&emsp;(C) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;&emsp;(C) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 &emsp;&emsp;(D) Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -66,7 +66,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(6)(C), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(6)(C), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
@@ -82,11 +82,11 @@ The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is titl
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Expansion of Highways in Michigan
 
-Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
+Pub. L. 100–707, title II, §204(d), Nov. 23, 1988, 102 Stat. 4715, exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

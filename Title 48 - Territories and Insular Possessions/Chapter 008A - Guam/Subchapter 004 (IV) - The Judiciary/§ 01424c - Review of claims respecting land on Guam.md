@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-Notwithstanding any law or court decision to the contrary, the District Court of Guam is hereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963, and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
+Notwithstanding any law or court decision to the contrary, the District Court of Guam is hereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963,and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
 
 #### (b) Acquisitions effected through condemnation proceedings
 
@@ -48,5 +48,5 @@ Pub. L. 100–647, title VI, §6140, Nov. 10, 1988, 102 Stat. 3724, provided tha
 
 #### Commencement of Civil Actions Before April 1, 1982
 
-Section 301(b) of Pub. L. 96–205 provided that: “Any civil action under section 204 of the Omnibus Territories Act of 1977 (91 Stat. 1162) \[this section\] shall bebarred unless it is commenced not later than April 1, 1982.”
+Pub. L. 96–205, title III, §301(b), Mar. 12, 1980, 94 Stat. 87, provided that: “Any civil action under section 204 of the Omnibus Territories Act of 1977 (91 Stat. 1162) \[this section\] shall be barred unless it is commenced not later than April 1, 1982.”
 

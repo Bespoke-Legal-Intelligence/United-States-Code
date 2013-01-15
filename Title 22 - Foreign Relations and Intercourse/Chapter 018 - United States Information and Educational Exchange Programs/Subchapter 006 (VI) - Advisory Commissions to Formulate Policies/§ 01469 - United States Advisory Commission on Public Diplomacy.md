@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy.
+(1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy (referred to in this section as the “Commission”).
 
 (2) The Commission shall consist of seven members appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor, business, and professional backgrounds. Not more than four members shall be from any one political party.
 
@@ -22,21 +22,93 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 #### (c) Duties and responsibilities
 
-(1) The Commission shall formulate and recommend to the Director of the United States Information Agency, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency.
+The Commission shall appraise United States Government activities intended to understand, inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as “public diplomacy activities”.
 
-(2) The Commission shall submit to the Congress, the President, the Secretary of State, and the Director of the United States Information Agency annual reports on programs and activities carried out by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations.
+#### (d) Reports
 
-(3) The Commission may also submit such other reports to the Congress as it considers appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency.
+#### (1) Comprehensive annual report
 
-(4) The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director of the United States Information Agency have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+#### (A) In general
 
-#### (d) Limitation on authority
+&emsp;&emsp;Not less frequently than annually, the Commission shall submit a comprehensivereport on public diplomacy and international broadcasting activities to Congress, the President, and the Secretary of State. This report shall include—
 
-The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.
+&emsp;&emsp;&emsp;(i) a detailed list of all public diplomacy activities funded by the United States Government;
 
-(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.)
+&emsp;&emsp;&emsp;(ii) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the purpose, means, and geographic scope of each activity;
+
+&emsp;&emsp;&emsp;&emsp;(II) when each activity was started;
+
+&emsp;&emsp;&emsp;&emsp;(III) the amount of Federal funding expended on each activity;
+
+&emsp;&emsp;&emsp;&emsp;(IV) any significant outside sources of funding; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the Federal department or agency to which the activity belongs;
+
+&emsp;&emsp;&emsp;(iii) the international broadcasting activities under the direction of the Broadcasting Board of Governors;
+
+&emsp;&emsp;&emsp;(iv) an assessment of potentially duplicative public diplomacy and international broadcasting activities; and
+
+&emsp;&emsp;&emsp;(v) for any activities determined to be ineffective or results not demonstrated under subparagraph (B), recommendations on existing effective or moderately effective public diplomacy activities that could be augmented to carry out the objectives of the ineffective activities.
+
+#### (B) Effectiveness assessment
+
+&emsp;&emsp;In evaluating the public diplomacy and international broadcasting activities described in subparagraph (A), the Commission shall conduct an assessment that considers the public diplomacy target impact, the achieved impact, and the cost of public diplomacy activities and international broadcasting. The assessment shall include, if practicable, an appropriate metric such as “cost-per-audience” or “cost-per-student” for each activity. Upon the completion of the assessment, the Commission shall assign a rating of—
+
+&emsp;&emsp;&emsp;(i) “effective” for activities that—
+
+&emsp;&emsp;&emsp;&emsp;(I) set appropriate goals and achieve all or most of the desired results;
+
+&emsp;&emsp;&emsp;&emsp;(II) are well-managed; and
+
+&emsp;&emsp;&emsp;&emsp;(III) are cost efficient;
+
+&emsp;&emsp;&emsp;(ii) “moderately effective” for activities that—
+
+&emsp;&emsp;&emsp;&emsp;(I) set appropriate goals and achieve some desired results;
+
+&emsp;&emsp;&emsp;&emsp;(II) are generally well-managed; and
+
+&emsp;&emsp;&emsp;&emsp;(III) need to improve their cost efficiency, including reducing overhead;
+
+&emsp;&emsp;&emsp;(iii) “ineffective” for activities that—
+
+&emsp;&emsp;&emsp;&emsp;(I) lack appropriate goals or fail to achieve stated goals or desired results;
+
+&emsp;&emsp;&emsp;&emsp;(II) are not well-managed; or
+
+&emsp;&emsp;&emsp;&emsp;(III) are not cost efficient, such as through insufficient use of available resources to achieve stated goals or desired results, or have excessive overhead; and
+
+&emsp;&emsp;&emsp;(iv) “results not demonstrated” for activities that—
+
+&emsp;&emsp;&emsp;&emsp;(I) do not have acceptable performance public diplomacy metrics for measuring results; or
+
+&emsp;&emsp;&emsp;&emsp;(II) are unable or failed to collect data to determine if they are effective.
+
+#### (2) Other reports
+
+#### (A) In general
+
+&emsp;&emsp;The Commission shall submit other reports, including working papers, to Congress, the President, and the Secretary of State at least semi-annually on other activities and policies related to United States public diplomacy.
+
+#### (B) Availability
+
+&emsp;&emsp;The Commission shall make the reports submitted pursuant to subparagraph (A) publicly available on the website of the Commission to develop a better understanding of, and support for, public diplomacy activities.
+
+#### (3) Access to information
+
+&emsp;The Secretary of State shall ensure that the Commission has access to all appropriate information to carry out its duties and responsibilities under this subsection.
+
+(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790; Pub. L. 112–239, div. A, title XII, §1280(a)–(c), Jan. 2, 2013, 126 Stat. 2032.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1280(a), inserted “(referred to in this section as the ‘Commission’)” before period at end.
+
+Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
+
+Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.”
 
 <b>2001</b>—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
@@ -46,7 +118,7 @@ Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended 
 
 <b>1998</b>—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
-<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
+<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment ofmembers, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
 <b>1987</b>—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
 

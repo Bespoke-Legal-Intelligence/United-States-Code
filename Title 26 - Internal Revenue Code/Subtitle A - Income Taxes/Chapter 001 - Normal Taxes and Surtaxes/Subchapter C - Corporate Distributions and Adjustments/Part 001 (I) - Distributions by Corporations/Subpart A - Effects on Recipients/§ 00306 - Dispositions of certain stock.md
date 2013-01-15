@@ -128,7 +128,7 @@ For purposes of subsection (c)—
 
 #### (f) Source of gain
 
-The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
+The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under thepreceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
 
 #### (g) Change in terms and conditions of stock
 
@@ -140,23 +140,19 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 &emsp;(3) subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (<i>l</i>)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (l)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1)(D). Pub. L. 108–27, §§302(e)(3), 303, temporarily added subpar. (D). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(1)(D). Pub. L. 108–27 added subpar. (D).
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §712(i)(2), substituted “interest, etc.” for “interest” in heading.
 
-Subsec. (c)(3). Pub. L. 98–369, §712(<i>l</i>)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
+Subsec. (c)(3). Pub. L. 98–369, §712(l)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
 
-Subsec. (c)(4). Pub. L. 98–369, §712(<i>l</i>)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
+Subsec. (c)(4). Pub. L. 98–369, §712(l)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
 
 <b>1982</b>—Subsec. (b)(1)(B). Pub. L. 97–248, §222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
 
@@ -178,11 +174,9 @@ Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -194,15 +188,15 @@ Amendment by section 222(e)(1)(A), (2) of Pub. L. 97–248 applicable to distrib
 
 Amendment by section 226(b) of Pub. L. 97–248 applicable to transfers occurring after Aug. 31, 1982, except for certain transfers pursuant to an application to form a BHC filed with the Federal Reserve Board before Aug. 16, 1982, see section 226(c) of Pub. L. 97–248, set out as a note under section 304 of this title.
 
-Section 227(c)(1) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to stock received after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to stock received after August 31, 1982, in taxable years ending after such date.”
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had notbeen enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 702(a)(3) of Pub. L. 95–600 provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299.
+Pub. L. 95–600, title VII, §702(a)(3), Nov. 6, 1978, 92 Stat. 2925, provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299.
 
 #### Effective Date of 1976 Amendment
 

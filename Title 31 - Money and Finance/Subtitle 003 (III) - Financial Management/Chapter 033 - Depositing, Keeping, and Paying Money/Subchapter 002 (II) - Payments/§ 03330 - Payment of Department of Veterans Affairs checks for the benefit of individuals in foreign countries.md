@@ -32,7 +32,7 @@
 
 (2) Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(<i>l</i>)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(l)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
 
 Historical and Revision Notes
 
@@ -74,13 +74,13 @@ In subsection (d)(2), the words “and unpaid” are omitted as surplus.
 
 <b>1994</b>—Subsec. (d)(1)(B). Pub. L. 103–272 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-<b>1991</b>—Pub. L. 102–54, §13(<i>l</i>)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
+<b>1991</b>—Pub. L. 102–54, §13(l)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 102–54, §13(<i>l</i>)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (a)(1)(B). Pub. L. 102–54, §13(l)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (a)(2), (3). Pub. L. 102–54, §13(<i>l</i>)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+Subsec. (a)(2), (3). Pub. L. 102–54, §13(l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-Subsecs. (b), (c). Pub. L. 102–54, §13(<i>l</i>)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
+Subsecs. (b), (c). Pub. L. 102–54, §13(l)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 
-Subsec. (d)(1)(A). Pub. L. 102–54, §13(<i>l</i>)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
+Subsec. (d)(1)(A). Pub. L. 102–54, §13(l)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
 

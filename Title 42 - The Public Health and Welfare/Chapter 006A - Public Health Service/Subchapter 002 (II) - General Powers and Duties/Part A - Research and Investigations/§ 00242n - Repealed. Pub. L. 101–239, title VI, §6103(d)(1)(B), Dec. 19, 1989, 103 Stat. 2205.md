@@ -4,9 +4,9 @@ Section, act July 1, 1944, ch. 373, title III, §309, as added Nov. 9, 1978, Pub
 
 #### Termination of Council on Health Care Technology
 
-Section 6103(d)(1)(B) of Pub. L. 101–239 provided in part that the council on health care technology established under this section is terminated.
+Pub. L. 101–239, title VI, §6103(d)(1)(B), Dec. 19, 1989, 103 Stat. 2205, provided in part that the council on health care technology established under this section is terminated.
 
 #### Transitional and Savings Provisions for Pub. L. 101–239
 
-For provision transferring personnel of Department of Health and Human Services employed on Dec. 19, 1989, in connection with functions vested in Administrator for Health Care Policy and Research pursuant to amendments made by section 6103 of Pub. L. 101–239, and assets, liabilities, etc., of Department arising from or employed, held, used, or available on that date, or to be made available after that date, in connection with those functions, to Administrator for appropriate allocation, and for provisions for continued effectiveness of actions, orders, rules, official documents, etc., of Department that have been issued, made, granted, or allowed to become effective in performance of those functions, and that were effective on Dec. 19, 1989, see section 6103(f) of Pub. L. 101–239, set out as a note under section 299 of this title.
+For provision transferring personnel of Department of Health and Human Services employed on Dec. 19, 1989, in connection with functions vested in Administrator for Health Care Policy and Research pursuant toamendments made by section 6103 of Pub. L. 101–239, and assets, liabilities, etc., of Department arising from or employed, held, used, or available on that date, or to be made available after that date, in connection with those functions, to Administrator for appropriate allocation, and for provisions for continued effectiveness of actions, orders, rules, official documents, etc., of Department that have been issued, made, granted, or allowed to become effective in performance of those functions, and that were effective on Dec. 19, 1989, see section 6103(f) of Pub. L. 101–239, set out as a note under section 299 of this title.
 

@@ -24,13 +24,13 @@
 
 #### (C) Avoidance of conflict of interest of contractors
 
-&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation undersubchapter II of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
+&emsp;&emsp;Freight agents employed by the Secretary or the Commodity Credit Corporation under subchapter II of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
 
 #### (2) Reasonable fees and commissions
 
 #### (A) Fees
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity Credit Corporation may enter into an agreement with the importer or importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment of fees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity Credit Corporation may enter into an agreement with the importer or importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment offees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
 
 #### (B) Prohibition on commissions
 
@@ -90,7 +90,7 @@
 
 #### (d) Timing of shipments
 
-In determining the timing of the shipment of agricultural commodities to be provided underthis chapter, the Secretary or the Administrator, as appropriate, shall consider—
+In determining the timing of the shipment of agricultural commodities to be provided under this chapter, the Secretary or the Administrator, as appropriate, shall consider—
 
 &emsp;(1) the time of harvest of any competing commodities in the recipient country; and
 
@@ -126,7 +126,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;&emsp;&emsp;(I) section 1431(b) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Food for Progress Act of 1985 (7 U.S.C. 1736<i>o</i>);
+&emsp;&emsp;&emsp;&emsp;(II) the Food for Progress Act of 1985 (7 U.S.C. 1736o);
 
 &emsp;&emsp;&emsp;(iv) an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
 
@@ -158,7 +158,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 #### References in Text
 
-The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736<i>o</i> of this title.
+The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Codification
 

@@ -8,7 +8,7 @@
 | [7252\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007252%20-%20Jurisdiction%3B%20finality%20of%20decisions.md) | Jurisdiction; finality of decisions. |
 | [7253\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007253%20-%20Composition.md) | Composition. |
 | [7254\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007254%20-%20Organization.md) | Organization. |
-| [7255\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007255%20-%20Offices.md) | Offices. |
+| [7255\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007255%20-%20Offices%2C%20duty%20stations%2C%20and%20residences.md) | Offices, duty stations, and residences. |
 | [7256\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007256%20-%20Times%20and%20places%20of%20sessions.md) | Times and places of sessions. |
 | [7257\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007257%20-%20Recall%20of%20retired%20judges.md) | Recall of retired judges. |
 
@@ -66,6 +66,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–260, title III, §302(a)(2), Jan. 10, 2013, 126 Stat. 2425, which directed amendment of the table of sections for chapter 72 by adding item 7255 and striking out former item 7255 “Offices”, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2008</b>—Pub. L. 110–389, title VI, §604(b), Oct. 10, 2008, 122 Stat. 4179, added item 7288.
 

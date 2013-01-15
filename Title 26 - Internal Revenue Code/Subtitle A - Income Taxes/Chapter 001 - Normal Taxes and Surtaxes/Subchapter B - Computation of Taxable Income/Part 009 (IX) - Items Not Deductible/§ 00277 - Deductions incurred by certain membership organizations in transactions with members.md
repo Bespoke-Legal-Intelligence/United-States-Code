@@ -22,7 +22,7 @@ Subsection (a) shall not apply to any organization—
 
 The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, asamended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
@@ -32,7 +32,7 @@ The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922
 
 #### Effective Date of 1986 Amendment
 
-Section 1604(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVI, §1604(b), Oct. 22, 1986, 100 Stat. 2769, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1976 Amendment
 

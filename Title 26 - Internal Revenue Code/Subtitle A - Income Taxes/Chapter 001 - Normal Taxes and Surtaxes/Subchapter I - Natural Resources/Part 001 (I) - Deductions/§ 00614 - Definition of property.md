@@ -36,7 +36,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 #### (B) Limitation
 
-&emsp;&emsp;Subparagraph (A) shall apply to a voluntary agreement only if all the operatingmineral interests covered by such agreement—
+&emsp;&emsp;Subparagraph (A) shall apply to a voluntary agreement only if all the operating mineral interests covered by such agreement—
 
 &emsp;&emsp;&emsp;(i) are in the same deposit, or are in 2 or more deposits the joint development or production of which is logical from the standpoint of geology, convenience, economy, or conservation, and
 
@@ -152,19 +152,19 @@ Amendment by Pub. L. 95–618 effective Oct. 1, 1978, and applicable to taxable 
 
 #### Effective Date of 1976 Amendment
 
-Section 1901(a)(87)(A)(ii) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) \[amending this section\] shall apply with respect to elections to form aggregations of operating mineral interests made under section 614(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XIX, §1901(a)(87)(A)(ii), Oct. 4, 1976, 90 Stat. 1779, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) \[amending this section\] shall apply with respect to elections to form aggregations of operating mineral interests made under section 614(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1976.”
 
 #### Effective Date of 1964 Amendment
 
-Section 226(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §226(d), Feb. 26, 1964, 78 Stat. 97, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1958 Amendment
 
-Section 37(e) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (c) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 85–866, title I, §37(e), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendments made by subsections (a) and (c) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Allocation of Basis in Certain Cases
 
-Section 226(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]—
+Pub. L. 88–272, title II, §226(c), Feb. 26, 1964, 78 Stat. 96, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]—
 
 &emsp;“(1)
 

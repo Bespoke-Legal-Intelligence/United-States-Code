@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) whose participation is essential to the success of the partnership;
 
-&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development andimplementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
+&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
 &emsp;&emsp;(F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
 

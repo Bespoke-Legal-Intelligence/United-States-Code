@@ -68,11 +68,11 @@ For purposes of this section—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the casemay be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business withrespect to which the taxpayer has made the election.
+&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
 
 #### (3) Period to which election applies
 
@@ -132,7 +132,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### Effective Date
 
-Section 372(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979.”
+Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Repurchase”.</i>
 

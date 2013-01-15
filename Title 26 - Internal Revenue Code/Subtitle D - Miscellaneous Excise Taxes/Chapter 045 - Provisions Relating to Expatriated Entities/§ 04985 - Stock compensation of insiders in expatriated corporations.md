@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (1) Disqualified individual
 
-&emsp;The term “disqualified individual” means, with respect to a corporation, any individual who, at any time during the 12-month period beginning on the date which is 6 months before the expatriation date—
+&emsp;The term “disqualified individual” means, with respect to a corporation, any individualwho, at any time during the 12-month period beginning on the date which is 6 months before the expatriation date—
 
 &emsp;&emsp;(A) is subject to the requirements of section 16(a) of the Securities Exchange Act of 1934 with respect to such corporation or any member of the expanded affiliated group which includes such corporation, or
 
@@ -140,7 +140,7 @@ Section 4992, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Sta
 
 Section 4993, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 239; amended Pub. L. 97–448, title II, §201(e), Jan. 12, 1983, 96 Stat. 2392, related to incremental tertiary oil.
 
-Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
+Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI,§§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
 
 Section 4995, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 244; amended Pub. L. 97–34, title VI, §601(b)(3), Aug. 13, 1981, 95 Stat. 337; Pub. L. 97–448, title II, §201(g), Jan. 12, 1983, 96 Stat. 2393, related to withholding and depository requirements bearing on the windfall profit tax.
 

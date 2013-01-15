@@ -4,13 +4,17 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 &emsp;(a) the development, use, and control of atomic energy shall be directed so as to make the maximum contribution to the general welfare, subject at all times to the paramount objective of making the maximum contribution to the common defense and security; and
 
-&emsp;(b) the development, use, and control of atomic energy shall be directed so as to promote world peace, improve the general welfare, increase the standard of living, andstrengthen free competition in private enterprise.
+&emsp;(b) the development, use, and control of atomic energy shall be directed so as to promote world peace, improve the general welfare, increase the standard of living, and strengthen free competition in private enterprise.
 
 (Aug. 1, 1946, ch. 724, title I, §1, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: “This subtitle \[subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the ‘American Medical Isotopes Production Act of 2012’.”
 
 #### Short Title of 2005 Amendment
 
@@ -38,11 +42,11 @@ Pub. L. 85–846, §1, Aug. 28, 1958, 72 Stat. 1084, provided: “That this Act 
 
 #### Short Title
 
-Section 291 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under section 2221 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
+Act Aug. 1, 1946, ch. 724, title I, §291, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under section 2221 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
 
 #### Separability
 
-Section 281 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “If any provision of this Act \[enacting this chapter\] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Act Aug. 1, 1946, ch. 724, title I, §281, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “If any provision of this Act \[enacting this chapter\] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Transfer of Functions
 

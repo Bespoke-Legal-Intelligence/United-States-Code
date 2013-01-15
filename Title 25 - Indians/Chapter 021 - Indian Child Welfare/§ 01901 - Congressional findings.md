@@ -16,7 +16,7 @@ Recognizing the special relationship between the United States and the Indian tr
 
 #### Short Title
 
-Section 1 of Pub. L. 95–608 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Child Welfare Act of 1978’.”
+Pub. L. 95–608, §1, Nov. 8, 1987, 92 Stat. 3069, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Child Welfare Act of 1978’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

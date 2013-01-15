@@ -16,7 +16,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Multihazard Preparedness and Mitigation
 
-Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1086, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: “That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator of FEMA is authorized to provide assistance from funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Administrator of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants”.
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1086, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4,2006, 120 Stat. 1410, provided in part: “That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator of FEMA is authorized to provide assistance from funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Administrator of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants”.
 
 #### Multihazard Research, Planning, and Mitigation; Functions, Etc., of Federal Emergency Management Agency
 
@@ -82,7 +82,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions to the President
 
-(a) There are hereby transferred to the President of the United States all functions vested by law (including reorganization plan) in the following: The Office of Defense Mobilization, the Director of the Office of Defense Mobilization, the Federal Civil Defense Administration, and the Federal Civil Defense Administrator.
+(a) There are hereby transferred to the President of the United States all functions vested by law (includingreorganization plan) in the following: The Office of Defense Mobilization, the Director of the Office of Defense Mobilization, the Federal Civil Defense Administration, and the Federal Civil Defense Administrator.
 
 (b) The President may from time to time delegate any of the functions transferred to him by subsection (a) of this section to any officer, agency, or employee of the executive branch of the Government, and may authorized such officer, agency, or employee to redelegate any of such functions delegated to him.
 
@@ -112,7 +112,7 @@ The offices of Federal Civil Defense Administrator and Deputy Administrator prov
 
 (b) Records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of any agency (including the Office of Emergency Preparedness), relating to functions vested in or delegated or assigned to the Office of Defense Mobilization or the Federal Civil Defense Administration immediately prior to the taking effect of the provisions of this reorganization plan, may be transferred from time to time to any other agency of the Government by the Director of the Bureau of the Budget under authority of this subsection for use, subject to the provisions of the Reorganization Act of 1949, as amended, in connection with any of the said functions authorized at time of transfer under this subsection to be performed by the transferee agency.
 
-(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall determine tobe necessary in connection with the provisions of subsections (a) and (b) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
+(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall determine to be necessary in connection with the provisions of subsections (a) and (b) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
 
 #### Sec. 8. Interim Provisions
 
@@ -136,7 +136,7 @@ The principal effects of the organization plan are—
 
 First, it transfers to the President the functions vested by law in the Federal Civil Defense Administration and those so vested in the Office of Defense Mobilization. The result is to establish a single pattern with respect to the vesting of defense mobilization and civil defense functions. At the present time disparity exists in that civil defense functions are vested in the President only to a limited degree while a major part of the functions administered by the Office of Defense Mobilization are vested by law in the President and delegated by him to that Office. Under the plan, the broad program responsibilities for coordinating and conducting the interrelated defense mobilization and civil defense functions will be vested in the President for appropriate delegation as the rapidly changing character of the nonmilitary preparedness program warrants.
 
-Second, the reorganization plan consolidates the Office of Defense Mobilization and the Federal Civil Defense Administration to form a new Office of Defense and Civilian Mobilization in the Executive Office of the President. I have concluded that, in many instances, the interests and activities of the Office of Defense Mobilization and the Federal Civil Defense Administration overlap to such a degree that it is not possible to work out a satisfactory division of those activities and interests between the two agencies. I have also concluded that a single civilian mobilization agency of appropriate stature and authority is needed and that such an agency will ensue from the consolidation and from the granting of suitable authority to that agency for directing and coordinating the preparedness activities of the Federal departments and agencies and for providing unified guidance and assistance to the State and local governments.
+Second, the reorganization plan consolidates the Office of Defense Mobilization and the Federal Civil Defense Administration to form a new Office of Defense and Civilian Mobilization in the Executive Office of the President. I have concluded that, in many instances, the interests and activities of the Office of Defense Mobilization and the Federal Civil Defense Administration overlap to such a degree that it is not possible to work out a satisfactory division of those activities and interests between the two agencies. I have also concluded that a single civilian mobilization agency of appropriate stature and authority is needed and that such an agency will ensue from the consolidation and from thegranting of suitable authority to that agency for directing and coordinating the preparedness activities of the Federal departments and agencies and for providing unified guidance and assistance to the State and local governments.
 
 Third, the reorganization plan transfers the membership of the Director of the Office of Defense Mobilization on the National Security Council to the Director of the Office of Defense and Civilian Mobilization and also transfers the Civil Defense Advisory Council to the Office of Defense and Civilian Mobilization.
 
@@ -276,7 +276,7 @@ Ex. Ord. No. 10186, Dec. 1, 1950, 15 F.R. 8557, established the Federal Civil De
 
 #### Executive Order No. 10222
 
-Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, set out as a note under section 2153 of Title 50, Appendix, War and National Defense.
+Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense.
 
 #### Executive Order No. 10346
 
@@ -380,7 +380,7 @@ Ex. Ord. No. 11094, Feb. 26, 1963, 28 F.R. 1855, which related to assignment of 
 
 #### Executive Order No. 11095
 
-Ex. Ord. No. 11095, Feb. 26, 1963, 28 F.R. 1859, which related to assignment of emergency preparedness functions to Board of Directors of Tennessee Valley Authority, Railroad Retirement Board, Administrator of National Aeronautics and Space Administration, Federal Power Commission, and Director of National Science Foundation, was revoked by Ex. Ord. No. 11490, Oct. 28, 1969, 34 F.R. 17567, see below.
+Ex. Ord. No. 11095, Feb. 26, 1963, 28 F.R. 1859, which related to assignment of emergency preparedness functions to Board of Directors of Tennessee Valley Authority, Railroad Retirement Board, Administrator of National Aeronautics and Space Administration, Federal Power Commission, and Director of National ScienceFoundation, was revoked by Ex. Ord. No. 11490, Oct. 28, 1969, 34 F.R. 17567, see below.
 
 #### Executive Order No. 11426
 
@@ -442,7 +442,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 2–2. <i>Implementation.</i>
 
-2–201. In executing the functions under this Order, the Secretary of Homeland Security shall develop policies which provide that all civil defense and civil emergency functions, resources, and systems of Executive agencies are:
+2–201. In executing the functions under this Order, the Secretary of Homeland Security shall develop policieswhich provide that all civil defense and civil emergency functions, resources, and systems of Executive agencies are:
 
 (a) founded on the use of existing organizations, resources, and systems to the maximum extent practicable;
 
@@ -480,7 +480,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
 
-(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App.2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[5 U.S.C. 3376 note\].
+(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) \[5 U.S.C. 3376 note\].
 
 4–104. The Secretary of Homeland Security is authorized to redelegate, in accord with the provisions of Section 1(b) of Reorganization Plan No. 1 of 1958 (50 U.S.C. App. 2271 note) \[now set out above\], any of the functions delegated by Sections 4–101, 4–102, and 4–103 of this Order.
 
@@ -502,7 +502,7 @@ Section \[sic\] 4–203. The functions vested in the President by the Robert T. 
 
 4–205. Effective July 30, 1979, the functions vested in the President by Section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), are hereby delegated to the Secretary of Homeland Security.
 
-4–206. Effective July 30, 1979, the functions vested in the President by Section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 485(f)) \[now 40 U.S.C. 574(d)\], are hereby delegated to the Secretary of Homeland Security.
+4–206. Effective July 30, 1979, the functions vested in the President by Section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended (40U.S.C. 485(f)) \[now 40 U.S.C. 574(d)\], are hereby delegated to the Secretary of Homeland Security.
 
 4–207. The functions vested in the President by Section 502 of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2302), are delegated to the Secretary of Homeland Security.
 
@@ -544,7 +544,7 @@ Section \[sic\] 4–203. The functions vested in the President by the Robert T. 
 
 5–203. Section 3(d) of Executive Order No. 10582, as amended \[41 U.S.C. 8303 note\], which relates to determinations under the Buy American Act is amended by deleting “Director of the Office of Emergency Planning” and substituting therefor “Director of the Federal Emergency Management Agency”.
 
-5–204. Paragraph 21 of Executive Order No. 10789, as amended \[50 U.S.C. 1431 note\], is further amended byadding “The Federal Emergency Management Agency” after “Government Printing Office”.
+5–204. Paragraph 21 of Executive Order No. 10789, as amended \[50 U.S.C. 1431 note\], is further amended by adding “The Federal Emergency Management Agency” after “Government Printing Office”.
 
 5–205. Executive Order No. 11179, as amended, concerning the National Defense Executive Reserve \[50 U.S.C. App. 2153 note\], is further amended by deleting “Director of the Office of Emergency Planning” in Section 2 and substituting therefor “Director of the Federal Emergency Management Agency”.
 
@@ -588,207 +588,13 @@ This Order is effective July 15, 1979.
 
 \[Ex. Ord. No. 13286, §52, which directed amendment of Ex. Ord. No. 12148, set out above, by substituting “the Secretary of Homeland Security” for “the Director of the Federal Emergency Management Agency” wherever appearing, was executed by substituting “Secretary of Homeland Security” for “Director of the Federal Emergency Management Agency” wherever appearing, including after “The” in section 2–101, and for “Director” in sections 2–102 to 2–105, 2–201, 2–206, and 2–302.\]
 
-#### Ex. Ord. No. 12472. Assignment of National Security and Emergency Preparedness Telecommunications Functions
+#### Executive Order No. 12472
 
-Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, as amended by Ex. Ord. No. 13286, §46, Feb. 28, 2003, 68 F.R. 10627; Ex. Ord. No. 13407, §5(a), June 26, 2006, 71 F.R. 36976, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Communications Act of 1934, as amended (47 U.S.C. 151), the National Security Act of 1947, as amended, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061), the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251), the Disaster Relief Act of 1974 (42 U.S.C. 5121), Section 5 of Reorganization Plan No. 1 of 1977 (3 C.F.R. 197, 1978 Comp.) \[5 U.S.C. App.\], and Section 203 of Reorganization Plan No. 3 of 1978 (3 C.F.R. 389, 1978 Comp.) \[5 U.S.C. App.\], and in order to provide for the consolidation of assignment and responsibility for improved execution of national security and emergency preparedness telecommunications functions, it is hereby ordered as follows:
-
-Section 1. <i>The National Communications System</i>. (a) There is hereby established the National Communications System (NCS). The NCS shall consist of the telecommunications assets of the entities represented on the NCS Committee of Principals and an administrative structure consisting of the Executive Agent, the NCS Committee of Principals and the Manager. The NCS Committee of Principals shall consist of representatives from those Federal departments, agencies or entities, designated by the President, which lease or own telecommunications facilities or services of significance to national security or emergency preparedness, and, to the extent permitted by law, other Executive entities which bear policy, regulatory or enforcement responsibilities of importance to national security or emergency preparedness telecommunications capabilities.
-
-(b) The mission of the NCS shall be to assist the President, the National Security Council, the Homeland Security Council, the Director of the Office of Science and Technology Policy and the Director of the Office of Management and Budget in:
-
-(1) the exercise of the telecommunications functions and responsibilities set forth in Section 2 of this Order; and
-
-(2) the coordination of the planning for and provision of national security and emergency preparedness communications for the Federal government under all circumstances, including crisis or emergency, attack, recovery and reconstitution.
-
-(c) The NCS shall seek to ensure that a national telecommunications infrastructure is developed which:
-
-(1) Is responsive to the national security and emergency preparedness needs of the President and the Federal departments, agencies and other entities, including telecommunications in support of national security leadership and continuity of government;
-
-(2) Is capable of satisfying priority telecommunications requirements under all circumstances through use of commercial, government and privately owned telecommunications resources;
-
-(3) Incorporates the necessary combination of hardness, redundancy, mobility, connectivity, interoperability, restorability and security to obtain, to the maximum extent practicable, the survivability of national security and emergency preparedness telecommunications in all circumstances, including conditions of crisis or emergency; and
-
-(4) Is consistent, to the maximum extent practicable, with other national telecommunications policies.
-
-(d) To assist in accomplishing its mission, the NCS shall:
-
-(1) serve as a focal point for joint industry-government national security and emergency preparedness telecommunications planning; and
-
-(2) establish a joint industry-government National Coordinating Center which is capable of assisting in the initiation, coordination, restoration and reconstitution of national security or emergency preparedness telecommunications services or facilities under all conditions of crisis or emergency.
-
-(e) The Secretary of Homeland Security is designated as the Executive Agent for the NCS. The Executive Agent shall:
-
-(1) Designate the Manager of the NCS;
-
-(2) Ensure that the NCS conducts unified planning and operations, in order to coordinate the development and maintenance of an effective and responsive capability for meeting the domestic and international national security and emergency preparedness telecommunications needs of the Federal government;
-
-(3) Ensure that the activities of the NCS are conducted in conjunction with the emergency management activities of the Department of Homeland Security;
-
-(4) Recommend, in consultation with the NCS Committee of Principals, to the National Security Council, the Homeland Security Council, the Director of the Office of Science and Technology Policy, or the Director of the Office of Management and Budget, as appropriate:
-
-a. The assignment of implementation or other responsibilities to NCS member entities;
-
-b. New initiatives to assist in the exercise of the functions specified in Section 2; and
-
-c. Changes in the composition or structure of the NCS;
-
-(5) Oversee the activities of and provide personnel and administrative support to the Manager of the NCS;
-
-(6) Provide staff support and technical assistance to the National Security Telecommunications Advisory Committee established by Executive Order No. 12382, as amended \[47 U.S.C. 901 note\]; and
-
-(7) Perform such other duties as are from time to time assigned by the President or his authorized designee.
-
-(f) The NCS Committee of Principals shall:
-
-(1) Serve as the forum in which each member of the Committee may review, evaluate, and present views, information and recommendations concerning ongoing or prospective national security or emergency preparedness telecommunications programs or activities of the NCS and the entities represented on the Committee;
-
-(2) Serve as the forum in which each member of the Committee shall report on and explain ongoing or prospective telecommunications plans and programs developed or designed to achieve national security or emergency preparedness telecommunications objectives;
-
-(3) Provide comments or recommendations, as appropriate, to the National Security Council, the Homeland Security Council, the Director of the Office of Science and Technology Policy, the Director of the Office of Management and Budget, the Executive Agent, or the Manager of the NCS, regarding ongoing or prospective activities of the NCS; and
-
-(4) Perform such other duties as are from time to time assigned by the President or his authorized designee.
-
-(g) The Manager of the NCS shall:
-
-(1) Develop for consideration by the NCS Committee of Principals and the Executive Agent:
-
-a. A recommended evolutionary telecommunications architecture designed to meet current and future Federal government national security and emergency preparedness telecommunications requirements;
-
-b. Plans and procedures for the management, allocation and use, including the establishment of priorities or preferences, of Federally owned or leased telecommunications assets under all conditions of crisis or emergency;
-
-c. Plans, procedures and standards for minimizing or removing technical impediments to the interoperability of government-owned and/or commercially-provided telecommunications systems;
-
-d. Test and exercise programs and procedures for the evaluation of the capability of the Nation's telecommunications resources to meet national security or emergency preparedness telecommunications requirements; and
-
-e. Alternative mechanisms for funding, through the budget review process, national security or emergency preparedness telecommunications initiatives which benefit multiple Federal departments, agencies, or entities. Those mechanisms recommended by the NCS Committee of Principals and the Executive Agent shall be submitted to the Director of the Office of Management and Budget.
-
-(2) Implement and administer any approved plans or programs as assigned, including any system of priorities and preferences for the provision of communications service, in consultation with the NCS Committee of Principals and the Federal Communications Commission, to the extent practicable or otherwise required by law or regulation;
-
-(3) Chair the NCS Committee of Principals and provide staff support and technical assistance thereto;
-
-(4) Serve as a focal point for joint industry-government planning, including the dissemination of technical information, concerning the national security or emergency preparedness telecommunications requirements of the Federal government;
-
-(5) Conduct technical studies or analyses, and examine research and development programs, for the purpose of identifying, for consideration by the NCS Committee of Principals and the Executive Agent, improved approaches which may assist Federal entities in fulfilling national security or emergency preparedness telecommunications objectives;
-
-(6) Pursuant to the Federal Standardization Program of the General Services Administration, and in consultation with other appropriate entities of the Federal government including the NCS Committee of Principals, manage the Federal Telecommunications Standards Program, ensuring wherever feasible that existing or evolving industry, national, and international standards are used as the basis for Federal telecommunications standards; and
-
-(7) Provide such reports and perform such other duties as are from time to time assigned by the President or his authorized designee, the Executive Agent, or the NCS Committee of Principals. Any such assignments of responsibility to, or reports made by, the Manager shall be transmitted through the Executive Agent.
-
-Sec. 2. <i>Executive Office Responsibilities</i>. (a) <i>Wartime Emergency Functions</i>. (1) The National Security Council shall provide policy direction for the exercise of the war power functions of the President under Section 606 of the Communications Act of 1934, as amended (47 U.S.C. 606), should the President issue implementing instructions in accordance with the National Emergencies Act (50 U.S.C. 1601).
-
-(2) The Director of the Office of Science and Technology Policy shall direct the exercise of the war power functions of the President under Section 606(a), (c)–(e), of the Communications Act of 1934, as amended (47U.S.C. 606), should the President issue implementing instructions in accordance with the National Emergencies Act (50 U.S.C. 1601).
-
-(b) <i>Non-Wartime Emergency Functions</i>. (1) The National Security Council, in consultation with the Homeland Security Council, shall:
-
-a. Advise and assist the President in coordinating the development of policy, plans, programs and standards within the Federal government for the identification, allocation, and use of the Nation's telecommunications resources by the Federal government, and by State and local governments, private industry and volunteer organizations upon request, to the extent practicable and otherwise consistent with law, during those crises or emergencies in which the exercise of the President's war power functions is not required or permitted by law; and
-
-b. Provide policy direction for the exercise of the President's non-wartime emergency telecommunications functions, should the President so instruct.
-
-(2) The Director of the Office of Science and Technology Policy shall provide information, advice, guidance and assistance, as appropriate, to the President and to those Federal departments and agencies with responsibilities for the provision, management, or allocation of telecommunications resources, during those crises or emergencies in which the exercise of the President's war power functions is not required or permitted by law;
-
-(3) The Director of the Office of Science and Technology Policy shall establish a Joint Telecommunications Resources Board (JTRB) to assist him in the exercise of the functions specified in this subsection. The Director of the Office of Science and Technology Policy shall serve as chairman of the JTRB; select those Federal departments, agencies, or entities which shall be members of the JTRB; and specify the functions it shall perform.
-
-(c) <i>Planning and Oversight Responsibilities</i>. (1) The National Security Council shall advise and assist the President in:
-
-a. Coordinating the development of policy, plans, programs and standards for the mobilization and use of the Nation's commercial, government, and privately owned telecommunications resources, in order to meet national security or emergency preparedness requirements;
-
-b. Providing policy oversight and direction of the activities of the NCS; and
-
-c. Providing policy oversight and guidance for the execution of the responsibilities assigned to the Federal departments and agencies by this Order.
-
-(2) The Director of the Office of Science and Technology Policy shall make recommendations to the President with respect to the test, exercise and evaluation of the capability of existing and planned communications systems, networks or facilities to meet national security or emergency preparedness requirements and report the results of any such tests or evaluations and any recommended remedial actions to the President and to the National Security Council;
-
-(3) The Director of the Office of Science and Technology Policy or his designee shall advise and assist the President in the administration of a system of radio spectrum priorities for those spectrum dependent telecommunications resources of the Federal government which support national security or emergency preparedness functions. The Director also shall certify or approve priorities for radio spectrum use by the Federal government, including the resolution of any conflicts in or among priorities, under all conditions of crisis or emergency; and
-
-(4) The National Security Council, the Homeland Security Council, the Director of the Office of Science and Technology Policy and the Director of the Office of Management and Budget shall, in consultation with the Executive Agent for the NCS and the NCS Committee of Principals, determine what constitutes national security and emergency preparedness telecommunications requirements.
-
-(d) <i>Consultation with Federal Departments and Agencies</i>. In performing the functions assigned under this Order, the National Security Council, the Homeland Security Council, and the Director of the Office of Science and Technology Policy, in consultation with each other, shall:
-
-(1) Consult, as appropriate, with the Director of the Office of Management and Budget; the Secretary of Homeland Security with respect to the emergency management responsibilities assigned pursuant to Executive Order No. 12148, as amended \[set out above\]; the Secretary of Commerce, with respect to responsibilities assigned pursuant to Executive Order No. 12046 \[47 U.S.C. 305 note\]; the Secretary of Defense, with respect to communications security responsibilities assigned pursuant to Executive Order No. 12333 \[50 U.S.C. 401 note\]; and the Chairman of the Federal Communications Commission or his authorized designee; and
-
-(2) Establish arrangements for consultation among all interested Federal departments, agencies or entities to ensure that the national security and emergency preparedness communications needs of all Federal government entities are identified; that mechanisms to address such needs are incorporated into pertinent plans and procedures; and that such needs are met in a manner consistent, to the maximum extent practicable, with other national telecommunications policies.
-
-(e) <i>Budgetary Guidelines</i>. The Director of the Office of Management and Budget, in consultation with the National Security Council, the Homeland Security Council, and the NCS, will prescribe general guidelines and procedures for reviewing the financing of the NCS within the budgetary process and for preparation of budget estimates by participating agencies. These guidelines and procedures may provide for mechanisms for funding, through the budget review process, national security and emergency preparedness telecommunications initiatives which benefit multiple Federal departments, agencies, or entities.
-
-Sec. 3. <i>Assignment of Responsibilities to Other Departments and Agencies</i>. In order to support and enhance the capability to satisfy the national security and emergency preparedness telecommunications needs of the Federal government, State and local governments, private industry and volunteer organizations, under all circumstances including those of crisis or emergency, the Federal departments and agencies shall perform the following functions:
-
-(a) <i>Department of Commerce</i>. The Secretary of Commerce shall, for all conditions of crisis or emergency: (1) Develop plans and procedures concerning radio spectrum assignments, priorities and allocations for use by Federal departments, agencies and entities; and
-
-(2) Develop, maintain and publish policy, plans, and procedures for the control and allocation of frequency assignments, including the authority to amend, modify or revoke such assignments, in those parts of the electromagnetic spectrum assigned to the Federal government.
-
-(b) <i>Department of Homeland Security</i>. The Secretary of Homeland Security shall:
-
-(1) Plan for and provide, operate and maintain telecommunications services and facilities, as part of its National Emergency Management System, adequate to support its assigned emergency management responsibilities;
-
-(2) Advise and assist State and local governments and volunteer organizations, upon request and to the extent consistent with law, in developing plans and procedures for identifying and satisfying their national security or emergency preparedness telecommunications requirements;
-
-(3) Ensure, to the maximum extent practicable, that national security and emergency preparedness telecommunications planning by State and local governments and volunteer organizations is mutually supportive and consistent with the planning of the Federal government; and
-
-(4) Develop, upon request and to the extent consistent with law and in consonance with regulations promulgated by and agreements with the Federal Communications Commission, plans and capabilities for, and provide policy and management oversight of, the Emergency Alert System, and advise and assist private radio licensees of the Commission in developing emergency communications plans, procedures and capabilities.
-
-(c) <i>Department of State</i>. The Secretary of State, in accordance with assigned responsibilities within the Diplomatic Telecommunications System, shall plan for and provide, operate and maintain rapid, reliable and secure telecommunications services to those Federal entities represented at United States diplomatic missions and consular offices overseas. This responsibility shall include the provision and operation of domestic telecommunications in support of assigned national security or emergency preparedness responsibilities.
-
-(d) <i>Department of Defense</i>. In addition to the other responsibilities assigned by this Order, the Secretary of Defense shall:
-
-(1) Plan for and provide, operate and maintain telecommunications services and facilities adequate to support the National Command Authorities and to execute the responsibilities assigned by Executive Order No. 12333 \[50 U.S.C. 401 note\]; and
-
-(2) Ensure that the Director of the National Security Agency provides the technical support necessary to develop and maintain plans adequate to provide for the security and protection of national security and emergency preparedness telecommunications.
-
-(3) Nothing in this order shall be construed to impair or otherwise affect the authority of the Secretary of Defense with respect to the Department of Defense, including the chain of command for the armed forces of the United States under section 162(b) of title 10, United States Code, and the authority of the Secretary of Defense with respect to the Department of Defense under section 113(b) of that title.
-
-(e) <i>Department of Justice</i>. The Attorney General shall, as necessary, review for legal sufficiency, including consistency with the antitrust laws, all policies, plans or procedures developed pursuant to responsibilities assigned by this Order.
-
-(f) <i>Central Intelligence Agency</i>. The Director of Central Intelligence shall plan for and provide, operate, and maintain telecommunications services adequate to support its assigned responsibilities, including the dissemination of intelligence within the Federal government.
-
-(g) <i>General Services Administration</i>. Except as otherwise assigned by this Order, the Administrator of General Services, consistent with policy guidance provided by the Director of the Office of Management and Budget, shall ensure that Federally owned or managed domestic communications facilities and services meet the national security and emergency preparedness requirements of the Federal civilian departments, agencies and entities.
-
-(h) <i>Federal Communications Commission</i>. The Federal Communications Commission shall, consistent with Section 4(c) of this Order:
-
-(1) Review the policies, plans and procedures of all entities licensed or regulated by the Commission that are developed to provide national security or emergency preparedness communications services, in order to ensure that such policies, plans and procedures are consistent with the public interest, convenience and necessity;
-
-(2) Perform such functions as required by law with respect to all entities licensed or regulated by the Commission, including (but not limited to) the extension, discontinuance or reduction of common carrier facilities or services; the control of common carrier rates, charges, practices and classifications; the construction, authorization, activation, deactivation or closing of radio stations, services and facilities; the assignment of radio frequencies to Commission licensees; the investigation of violations of pertinent law and regulation; and the initiation of appropriate enforcement actions;
-
-(3) Develop policy, plans and procedures adequate to execute the responsibilities assigned in this Order under all conditions or crisis or emergency; and
-
-(4) Consult as appropriate with the Executive Agent for the NCS and the NCS Committee of Principals to ensure continued coordination of their respective national security and emergency preparedness activities.
-
-(i) All Federal departments and agencies, to the extent consistent with law (including those authorities and responsibilities set forth in Section 4(c) of this Order), shall:
-
-(1) Determine their national security and emergency preparedness telecommunications requirements, and provide information regarding such requirements to the Manager of the NCS;
-
-(2) Prepare policies, plans and procedures concerning telecommunications facilities, services or equipment under their management or operational control to maximize their capability of responding to the national security or emergency preparedness needs of the Federal government;
-
-(3) Provide, after consultation with the Director of the Office of Management and Budget, resources to support their respective requirements for national security and emergency preparedness telecommunications; and provide personnel and staff support to the Manager of the NCS as required by the President;
-
-(4) Make information available to, and consult with, the Manager of the NCS regarding agency telecommunications activities in support of national security or emergency preparedness;
-
-(5) Consult, consistent with the provisions of Executive Order No. 12046, as amended \[47 U.S.C. 305 note\], and in conjunction with the Manager of the NCS, with the Federal Communications Commission regarding execution of responsibilities assigned by this Order;
-
-(6) Submit reports annually, or as otherwise requested, to the Manager of the NCS, regarding agency national security or emergency preparedness telecommunications activities; and
-
-(7) Cooperate with and assist the Executive Agent for the NCS, the NCS Committee of Principals, the Manager of the NCS, and other departments and agencies in the execution of the functions set forth in this Order, furnishing them such information, support and assistance as may be required.
-
-(j) Each Federal department or agency shall execute the responsibilities assigned by this Order in conjunction with the emergency management activities of the Department of Homeland Security, and in regular consultation with the Executive Agent for the NCS and the NCS Committee of Principals to ensure continued coordination of NCS and individual agency telecommunications activities.
-
-Sec. 4. <i>General Provisions</i>. (a) All Executive departments and agencies may issue such rules and regulations as may be necessary to carry out the functions assigned under this Order.
-
-(b) In order to reflect the assignments of responsibility provided by this Order,
-
-(1) Sections 2–414, 4–102, 4–103, 4–202, 4–302, 5–3, and 6–101 of Executive Order No. 12046, as amended \[47 U.S.C. 305\], are revoked;
-
-(2) The Presidential Memorandum of August 21, 1963, as amended, entitled “Establishment of the National Communications System”, is hereby superseded; and
-
-(3) Section 2–411 of Executive Order No. 12046, as amended \[47 U.S.C. 305\], is further amended by deleting the period and inserting “, except as otherwise provided by Executive Order No.” and inserting the number assigned to this Order.
-
-(c) Nothing in this Order shall be deemed to affect the authorities or responsibilities of the Director of the Office of Management and Budget, or any Office or official thereof; or reassign any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended; or under any other law; or any function vested by law in the Federal Communications Commission.
-
-Sec. 5. This Order shall be effective upon publication in the Federal Register.
+Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, as amended by Ex. Ord. No. 13286, §46, Feb. 28, 2003, 68 F.R. 10627; Ex. Ord. No. 13407, §5(a), June 26, 2006, 71 F.R. 36976, which related to assignment of national security and emergency preparedness telecommunications functions, was revoked by Ex. Ord. No. 13618, §7(b), July 6, 2012, 77 F.R. 40783, set out below.
 
 #### Ex. Ord. No. 12656. Assignment of Emergency Preparedness Responsibilities
 
-Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, as amended by Ex. Ord. No. 13074, Feb. 9, 1998, 63 F.R. 7277; Ex. Ord. No. 13228, §9, Oct. 8, 2001, 66 F.R. 51816; Ex. Ord. No. 13286, §42, Feb. 28, 2003, 68 F.R. 10626, provided:
+Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, as amended by Ex. Ord. No. 13074, Feb. 9, 1998, 63 F.R. 7277; Ex. Ord. No. 13228, §9, Oct. 8, 2001, 66 F.R. 51816; Ex. Ord. No. 13286, §42, Feb. 28, 2003, 68 F.R. 10626; Ex. Ord. No. 13603, §803(a), Mar. 16, 2012, 77 F.R. 16660, provided:
 
 WHEREAS our national security is dependent upon our ability to assure continuity of government, at every level, in any national security emergency situation that might confront the Nation; and
 
@@ -822,7 +628,7 @@ Sec. 103. <i>Scope.</i>
 
 (c) This Order does not require the provision of information concerning, or evaluation of, military policies, plans, programs, or states of military readiness.
 
-(d) This Order does not apply to national security emergency preparedness telecommunications functions and responsibilities that are otherwise assigned by Executive Order 12472 \[set out above\].
+(d) This Order does not apply to national security emergency preparedness telecommunications functions and responsibilities that are otherwise assigned by Executive Order 12472 \[formerly set out above\].
 
 Sec. 104. <i>Management of National Security Emergency Preparedness.</i>
 
@@ -842,7 +648,7 @@ Sec. 105. <i>Interagency Coordination.</i>
 
 (a) All appropriate Cabinet members and agency heads shall be consulted regarding national security emergency preparedness programs and policy issues. Each department and agency shall support interagency coordination to improve preparedness and response to a national security emergency and shall develop and maintain decentralized capabilities wherever feasible and appropriate.
 
-(b) Each Federal department and agency shall work within the framework established by, and cooperate with those organizations assigned responsibility in, Executive Order No. 12472 \[set out above\], to ensure adequate national security emergency preparedness telecommunications in support of the functions and activities addressed by this Order.
+(b) Each Federal department and agency shall work within the framework established by, and cooperate with those organizations assigned responsibility in, Executive Order No. 12472 \[formerly set out above\], to ensure adequate national security emergency preparedness telecommunications in support of the functions and activities addressed by this Order.
 
 #### PART 2—General Provisions
 
@@ -904,7 +710,7 @@ Sec. 204. <i>Protection of Essential Resources and Facilities</i>. The head of e
 
 (3) Maintain a capability to assess promptly the effect of attack and other disruptions during national security emergencies.
 
-Sec. 205. <i>Federal Benefit, Insurance, and Loan Programs</i>. The head of each Federal department and agency that administers a loan, insurance, or benefit program that relies upon the Federal Government payment system shall coordinate with the Secretary of the Treasury in developing plans for the continuation or restoration, to the extent feasible, of such programs in national security emergencies.
+Sec. 205. <i>Federal Benefit, Insurance, and Loan Programs</i>. The head of each Federal department and agencythat administers a loan, insurance, or benefit program that relies upon the Federal Government payment system shall coordinate with the Secretary of the Treasury in developing plans for the continuation or restoration, to the extent feasible, of such programs in national security emergencies.
 
 Sec. 206. <i>Research</i>. The Director of the Office of Science and Technology Policy and the heads of Federal departments and agencies having significant research and development programs shall advise the National Security Council and the Homeland Security Council of scientific and technological developments that should be considered in national security emergency preparedness planning.
 
@@ -954,9 +760,7 @@ Sec. 401. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (2) In cooperation with the Secretary of Defense and other departments and agencies, identify those industrial products and facilities that are essential to mobilization readiness, national defense, or post-attack survival and recovery;
 
-(3) In cooperation with the Secretary of Defense and other Federal departments and agencies, analyze potential effects of national security emergencies on actual production capability, taking into account the entire production complex, including shortages of resources, and develop preparedness measures to strengthen capabilities for production increases in national security emergencies;
-
-(4) In cooperation with the Secretary of Defense, perform industry analyses to assess capabilities of the commercial industrial base to support the national defense, and develop policy alternatives to improve the international competitiveness of specific domestic industries and their abilities to meet defense program needs;
+\[(3), (4) Revoked by Ex. Ord. No. 13603, §803(a), Mar. 16, 2012, 77 F.R. 16660.\]
 
 (5) In cooperation with the Secretary of the Treasury, develop plans for providing emergency assistance to the private sector through direct or participation loans for the financing of production facilities and equipment;
 
@@ -1060,7 +864,7 @@ Sec. 602. <i>Support Responsibilities</i>. The Secretary of Education shall:
 
 (1) Develop plans to support the Secretary of Labor in providing education and training to overcome shortages of critical skills;
 
-(2) Support the Secretary of Health and Human Services in the development of human services educational and training materials, including self-help programmaterials for use by human service organizations and professional schools.
+(2) Support the Secretary of Health and Human Services in the development of human services educational and training materials, including self-help program materials for use by human service organizations and professional schools.
 
 #### PART 7—Department of Energy
 
@@ -1138,7 +942,7 @@ Sec. 901. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (b) Providing for radiation protection by encouraging voluntary construction of shelters and voluntary use of cost-efficient design and construction techniques to maximize population protection;
 
-(2) Develop plans, in cooperation with the heads of other Federal departments and agencies and State andlocal governments, to restore community facilities, including electrical power, potable water, and sewage disposal facilities, damaged in national security emergencies.
+(2) Develop plans, in cooperation with the heads of other Federal departments and agencies and State and local governments, to restore community facilities, including electrical power, potable water, and sewage disposal facilities, damaged in national security emergencies.
 
 #### PART 10—Department of the Interior
 
@@ -1230,7 +1034,7 @@ Sec. 1301. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (e) Provision of foreign assistance, including continuous supervision and general direction of authorized economic and military assistance programs;
 
-(f) Protection or evacuation of United States citizens and nationals abroad and safeguarding their propertyabroad, in consultation with the Secretaries of Defense and Health and Human Services;
+(f) Protection or evacuation of United States citizens and nationals abroad and safeguarding their property abroad, in consultation with the Secretaries of Defense and Health and Human Services;
 
 (g) Protection of international organizations and foreign diplomatic, consular, and other official personnel and property, or other assets, in the United States, in coordination with the Attorney General and the Secretary of the Treasury;
 
@@ -1306,7 +1110,7 @@ Sec. 1501. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (6) Develop plans to protect the President, the Vice President, other officers in the order of presidential succession, and other persons designated by the President;
 
-(7) Develop plans for restoration of the economy following an attack; for the development of emergency monetary, credit, and Federal benefit payment programs of those Federal departments and agencies that have responsibilities dependent on the policies or capabilities of the Department of the Treasury; and for theimplementation of national policy on sharing war losses;
+(7) Develop plans for restoration of the economy following an attack; for the development of emergency monetary, credit, and Federal benefit payment programs of those Federal departments and agencies that have responsibilities dependent on the policies or capabilities of the Department of the Treasury; and for the implementation of national policy on sharing war losses;
 
 (8) Develop plans for initiating tax changes, waiving regulations, and, in conjunction with the Secretary of Commerce or other guaranteeing agency, granting or guaranteeing loans for the expansion of industrial capacity, the development of technological processes, or the production or acquisition of essential materials;
 
@@ -1896,13 +1700,13 @@ Sec. 3. <i>Duties of Heads of Departments and Agencies.</i>
 
 (iii) the Federal Communications Commission shall, as provided by law, adopt rules to ensure that communications systems have the capacity to transmit alerts and warnings to the public as part of the public alert and warning system; and
 
-(iv) the heads of agencies with capabilities for public alert and warning shall comply with guidance issued by the Secretary of Homeland Security under subsection 2(c) of this order, and shall develop and maintain such capabilities in a manner consistent and interoperable with the public alert and warning system.
+(iv) the heads of agencies with capabilities for public alert and warning shall comply with guidance issued by the Secretary of Homeland Security under subsection2(c) of this order, and shall develop and maintain such capabilities in a manner consistent and interoperable with the public alert and warning system.
 
 Sec. 4. <i>Reports on Implementation</i>. Not later than 90 days after the date of this order, the Secretary of Homeland Security shall submit to the President, through the Assistant to the President for Homeland Security and Counterterrorism, a plan for the implementation of this order, and shall thereafter submit reports from time to time, and not less often than once each year, on such implementation, together with any recommendations the Secretary finds appropriate.
 
 Sec. 5. <i>Amendment, Revocation, and Transition.</i>
 
-(a) \[Amended Ex. Ord. No. 12472, set out as a note above.\]
+(a) \[Amended Ex. Ord. No. 12472, formerly set out above.\]
 
 (b) Not later than 120 days after the date of this order, the Secretary of Homeland Security, after consultation with the Assistant to the President for Homeland Security and Counterterrorism, shall issue guidance under section 2(c) of this order that shall address the subject matter of the presidential memorandum of September 15, 1995, for the Director, Federal Emergency Management Agency, on Presidential Communications with the General Public During Periods of National Emergency, and upon issuance of such guidance such memorandum is revoked.
 
@@ -1919,4 +1723,130 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented in a mann
 (c) This order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13618. Assignment of National Security and Emergency Preparedness Communications Functions
+
+Ex. Ord. No. 13618, July 6, 2012, 77 F.R. 40779, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal Government must have the ability to communicate at all times and under all circumstances to carry out its most critical and time sensitive missions. Survivable, resilient, enduring, and effective communications, both domestic and international, are essential to enable the executive branch to communicate within itself and with: the legislative and judicial branches; State, local, territorial, and tribal governments; private sector entities; and the public, allies, and other nations. Such communications must be possible under all circumstances to ensure national security, effectively manage emergencies, and improve national resilience. The views of all levels of government, the private and nonprofit sectors, and the public must inform the development of national security and emergency preparedness (NS/EP) communications policies, programs, and capabilities.
+
+Sec. 2. <i>Executive Office Responsibilities</i>.
+
+Sec. 2.1. Policy coordination, guidance, dispute resolution, and periodic in-progress reviews for the functions described and assigned herein shall be provided through the interagency process established in Presidential Policy Directive-1 of February 13, 2009 (Organization of the National Security Council System) (PPD–1).
+
+Sec. 2.2. The Director of the Office of Science and Technology Policy (OSTP) shall: (a) issue an annual memorandum to the NS/EP Communications Executive Committee (established in section 3 of this order) highlighting national priorities for Executive Committee analyses, studies, research, and development regarding NS/EP communications;
+
+(b) advise the President on the prioritization of radio spectrum and wired communications that support NS/EP functions; and
+
+(c) have access to all appropriate information related to the test, exercise, evaluation, and readiness of the capabilities of all existing and planned NS/EP communications systems, networks, and facilities to meet all executive branch NS/EP requirements.
+
+Sec. 2.3. The Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP shall make recommendations to the President, informed by the interagency policy process established in PPD–1, with respect to the exercise of authorities assigned to the President under section 706 of the Communications Act of 1934, as amended (47 U.S.C. 606). The Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP shall also jointly monitor the exercise of these authorities, in the event of any delegation, through the process established in PPD–1 or as the President otherwise may direct.
+
+Sec. 3. <i>The NS/EP Communications Executive Committee</i>.
+
+Sec. 3.1. There is established an NS/EP Communications Executive Committee (Executive Committee) to serve as a forum to address NS/EP communications matters.
+
+Sec. 3.2. The Executive Committee shall be composed of Assistant Secretary-level or equivalent representatives designated by the heads of the Departments of State, Defense, Justice, Commerce, and Homeland Security, the Office of the Director of National Intelligence (DNI), the General Services Administration, and the Federal Communications Commission, as well as such additional agencies as the Executive Committee may designate. The designees of the Secretary of Homeland Security and the Secretary of Defense shall serve as Co-Chairs of the Executive Committee.
+
+Sec. 3.3. The responsibilities of the Executive Committee shall be to: (a) advise and make policy recommendations to the President, through the PPD–1 process, on enhancing the survivability, resilience, and future architecture of NS/EP communications, including what should constitute NS/EP communications requirements;
+
+(b) develop a long-term strategic vision for NS/EP communications and propose funding requirements and plans to the President and the Director of the Office of Management and Budget (OMB), through the PPD–1 process, for NS/EP communications initiatives that benefit multiple agencies or other Federal entities;
+
+(c) coordinate the planning for, and provision of, NS/EP communications for the Federal Government under all hazards;
+
+(d) promote the incorporation of the optimal combination of hardness, redundancy, mobility, connectivity, interoperability, restorability, and security to obtain, to the maximum extent practicable, the survivability of NS/EP communications under all circumstances;
+
+(e) recommend to the President, through the PPD–1 process, the regimes to test, exercise, and evaluate the capabilities of existing and planned communications systems, networks, or facilities to meet all executive branch NS/EP communications requirements, including any recommended remedial actions;
+
+(f) provide quarterly updates to the Assistant to the President for Homeland Security and Counterterrorism and the Director of OSTP, through the Co-Chairs, on the status of Executive Committee activities and develop an annual NS/EP communications strategic agenda utilizing the PPD–1 process;
+
+(g) enable industry input with respect to the responsibilities established in this section; and
+
+(h) develop, approve, and maintain a charter for the Executive Committee.
+
+Sec. 4. <i>Executive Committee Joint Program Office</i>.
+
+Sec. 4.1. The Secretary of Homeland Security shall establish an Executive Committee Joint Program Office (JPO) to provide full-time, expert, and administrative support for the Executive Committee's performance of its responsibilities under section 3.3 of this order. Staff of the JPO shall include detailees, as needed and appropriate, from agencies represented on the Executive Committee. The Department of Homeland Security shall provide resources to support the JPO. The JPO shall be responsive to the guidance of the Executive Committee.
+
+Sec. 4.2. The responsibilities of the JPO shall include: coordination of programs that support NS/EP missions, priorities, goals, and policy; and, when directed by the Executive Committee, the convening of governmental and nongovernmental groups (consistent with the Federal Advisory Committees \[sic\] Act, as amended (5 U.S.C. App.)), coordination of activities, and development of policies for senior official review and approval.
+
+Sec. 5. <i>Specific Department and Agency Responsibilities</i>.
+
+Sec. 5.1. The Secretary of Defense shall: (a) oversee the development, testing, implementation, and sustainment of NS/EP communications that are directly responsive to the national security needs of the President, Vice President, and senior national leadership, including: communications with or among the President, Vice President, White House staff, heads of state and government, and Nuclear Command and Control leadership; Continuity of Government communications; and communications among the executive, judicial, and legislative branches to support Enduring Constitutional Government;
+
+(b) incorporate, integrate, and ensure interoperability and the optimal combination of hardness, redundancy, mobility, connectivity, interoperability, restorability, and security to obtain, to the maximum extent practicable, the survivability of NS/EP communications defined in section 5.1(a) of this order under all circumstances, including conditions of crisis or emergency;
+
+(c) provide to the Executive Committee the technical support necessary to develop and maintain plans adequate to provide for the security and protection of NS/EP communications; and
+
+(d) provide, operate, and maintain communication services and facilities adequate to execute responsibilities consistent with Executive Order 12333 of December 4, 1981, as amended.
+
+Sec. 5.2. The Secretary of Homeland Security shall: (a) oversee the development, testing, implementation, and sustainment of NS/EP communications, including: communications that support Continuity of Government; Federal, State, local, territorial, and tribal emergency preparedness and response communications; non-military executive branch communications systems; critical infrastructure protection networks; and non-military communications networks, particularly with respect to prioritization and restoration;
+
+(b) incorporate, integrate, and ensure interoperability and the necessary combination of hardness, redundancy, mobility, connectivity, interoperability, restorability, and security to obtain, to the maximum extent practicable, the survivability of NS/EP communications defined in section 5.2(a) of this order under all circumstances, including conditions of crisis or emergency;
+
+(c) provide to the Executive Committee the technical support necessary to develop and maintain plans adequate to provide for the security and protection of NS/EP communications;
+
+(d) receive, integrate, and disseminate NS/EP communications information to the Federal Government and State, local, territorial, and tribal governments, as appropriate, to establish situational awareness, priority setting recommendations, and a common operating picture for NS/EP communications information;
+
+(e) satisfy priority communications requirements through the use of commercial, Government, and privately owned communications resources, when appropriate;
+
+(f) maintain a joint industry-Government center that is capable of assisting in the initiation, coordination, restoration, and reconstitution of NS/EP communications services or facilities under all conditions of emerging threats, crisis, or emergency;
+
+(g) serve as the Federal lead for the prioritized restoration of communications infrastructure and coordinate the prioritization and restoration of communications, including resolution of any conflicts in or among priorities, in coordination with the Secretary of Defense when activities referenced in section 5.1(a) of this order are impacted, consistent with the National Response Framework. If conflicts in or among priorities cannot be resolved between the Departments of Defense and Homeland Security, they shall be referred for resolution in accordance with section 2.1 of this order; and
+
+(h) within 60 days of the date of this order, in consultation with the Executive Committee where appropriate, develop and submit to the President, through the Assistant to the President for Homeland Security and Counterterrorism, a detailed plan that describes the Department of Homeland Security's organization and management structure for its NS/EP communications functions, including the Government Emergency Telecommunications Service, Wireless Priority Service, Telecommunications Service Priority program, Next Generation Network Priority program, the Executive Committee JPO, and relevant supporting entities.
+
+Sec. 5.3. The Secretary of Commerce shall: (a) provide advice and guidance to the Executive Committee on the use of technical standards and metrics to support execution of NS/EP communications;
+
+(b) identify for the Executive Committee requirements for additional technical standards and metrics to enhance NS/EP communications;
+
+(c) engage with relevant standards development organizations to develop appropriate technical standards and metrics to enhance NS/EP communications;
+
+(d) develop plans and procedures concerning radio spectrum allocations, assignments, and priorities for use by agencies and executive offices;
+
+(e) develop, maintain, and publish policies, plans, and procedures for the management and use of radio frequency assignments, including the authority to amend, modify, or revoke such assignments, in those parts of the electromagnetic spectrum assigned to the Federal Government; and
+
+(f) administer a system of radio spectrum priorities for those spectrum-dependent telecommunications resources belonging to and operated by the Federal Government and certify or approve such radio spectrum priorities, including the resolution of conflicts in or among such radio spectrum priorities during a crisis or emergency.
+
+Sec. 5.4. The Administrator of General Services shall provide and maintain a common Federal acquisition approach that allows for the efficient centralized purchasing of equipment and services that meet NS/EP communications requirements. Nothing in this section shall be construed to impair or otherwise affect the procurement authorities granted by law to an agency or the head thereof.
+
+Sec. 5.5. With respect to the Intelligence Community, the DNI, after consultation with the heads of affected agencies, may issue such policy directives and guidance as the DNI deems necessary to implement this order. Procedures or other guidance issued by the heads of elements of the Intelligence Community shall be in accordance with such policy directives or guidelines issued by the DNI.
+
+Sec. 5.6. The Federal Communications Commission performs such functions as are required by law, including: (a) with respect to all entities licensed or regulated by the Federal Communications Commission: the extension, discontinuance, or reduction of common carrier facilities or services; the control of common carrier rates, charges, practices, and classifications; the construction, authorization, activation, deactivation, or closing of radio stations, services, and facilities; the assignment of radio frequencies to Federal Communications Commission licensees; the investigation of violations of pertinent law; and the assessment of communications service provider emergency needs and resources; and
+
+(b) supporting the continuous operation and restoration of critical communications systems and services by assisting the Secretary of Homeland Security with infrastructure damage assessment and restoration, and by providing the Secretary of Homeland Security with information collected by the Federal Communications Commission on communications infrastructure, service outages, and restoration, as appropriate.
+
+Sec. 6. <i>General Agency Responsibilities</i>. All agencies, to the extent consistent with law, shall: (a) determine the scope of their NS/EP communications requirements, and provide information regarding such requirements to the Executive Committee;
+
+(b) prepare policies, plans, and procedures concerning communications facilities, services, or equipment under their management or operational control to maximize their capability to respond to the NS/EP needs of the Federal Government;
+
+(c) propose initiatives, where possible, that may benefit multiple agencies or other Federal entities;
+
+(d) administer programs that support broad NS/EP communications goals and policies;
+
+(e) submit reports annually, or as otherwise requested, to the Executive Committee, regarding agency NS/EP communications activities;
+
+(f) devise internal acquisition strategies in support of the centralized acquisition approach provided by the General Services Administration pursuant to section 5.4 of this order; and
+
+(g) provide the Secretary of Homeland Security with timely reporting on NS/EP communications status to inform the common operating picture required under 6 U.S.C. 321(d).
+
+Sec. 7. <i>General Provisions</i>. (a) For the purposes of this order, the word “agency” shall have the meaning set forth in section 6.1(b) of Executive Order 13526 of December 29, 2009.
+
+(b) Executive Order 12472 of April 3, 1984, as amended, is hereby revoked.
+
+(c) \[Amended Ex. Ord. No. 12382, set out as a note under section 901 of Title 47, Telecommunications.\]
+
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the OMB relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

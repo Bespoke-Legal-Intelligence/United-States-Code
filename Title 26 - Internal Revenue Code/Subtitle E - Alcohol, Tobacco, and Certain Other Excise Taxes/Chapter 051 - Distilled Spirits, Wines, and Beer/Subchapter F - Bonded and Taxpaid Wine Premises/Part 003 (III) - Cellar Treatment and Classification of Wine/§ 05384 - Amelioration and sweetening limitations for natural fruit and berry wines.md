@@ -26,7 +26,7 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 partsper thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
+<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 
@@ -46,11 +46,11 @@ Subsec. (b)(2)(C). Pub. L. 89–44, §806(b)(2)(E), substituted “shall have”
 
 #### Effective Date of 1997 Amendment
 
-Section 1417(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1417(b), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendment made by this section \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22,1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
 #### Effective Date of 1965 Amendment
 

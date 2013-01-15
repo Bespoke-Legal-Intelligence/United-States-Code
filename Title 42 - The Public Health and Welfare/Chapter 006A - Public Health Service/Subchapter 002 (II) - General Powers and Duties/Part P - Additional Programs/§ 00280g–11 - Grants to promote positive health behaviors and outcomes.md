@@ -12,7 +12,7 @@ Grants awarded under subsection (a) shall be used to support community health wo
 
 &emsp;(2) to educate and provide guidance regarding effective strategies to promote positive health behaviors and discourage risky health behaviors;
 
-&emsp;(3) to educate and provide outreach regarding enrollment in health insurance including the Children's Health Insurance Program under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], Medicare under title XVIII of such Act \[42 U.S.C. 1395 et seq.\] andMedicaid under title XIX of such Act \[42 U.S.C. 1396 et seq.\];
+&emsp;(3) to educate and provide outreach regarding enrollment in health insurance including the Children's Health Insurance Program under title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], Medicare under title XVIII of such Act \[42 U.S.C. 1395 et seq.\] and Medicaid under title XIX of such Act \[42 U.S.C. 1396 et seq.\];
 
 &emsp;(4) to identify and refer underserved populations to appropriate healthcare agencies and community-based programs and organizations in order to increase access to quality healthcare services and to eliminate duplicative care; or
 
@@ -104,7 +104,7 @@ In this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of thistitle. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

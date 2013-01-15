@@ -88,9 +88,9 @@ Pub. L. 94–579, title VII, §701, Oct. 21, 1976, 90 Stat. 2786, provided that:
 
 #### Severability
 
-Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \[see Short Title note set out above\] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
+Pub. L. 94–579, title VII, §707, Oct. 21, 1976, 90 Stat. 2794, provided that: “If any provision of this Act \[see Short Title note set out above\] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
 
 #### Existing Rights-of-Way
 
-Section 706(b) of Pub. L. 94–579 provided that: “Nothing in section 706(a) \[see Tables for classification\], except as it pertains to rights-of-way, may be construed as affecting the authority of the Secretary of Agriculture under the Act of June 4, 1897 (30 Stat. 35, as amended, 16 U.S.C. 551); the Act of July 22, 1937 (50 Stat. 525, as amended, 7 U.S.C. 1010–1212); or the Act of September 3, 1954 (68 Stat. 1146, 43 U.S.C. 931c).”
+Pub. L. 94–579, title VII, §706(b), Oct. 21, 1976, 90 Stat. 2794, provided that: “Nothing in section 706(a) \[see Tables for classification\], except as it pertains to rights-of-way, may be construed as affecting the authority of the Secretary of Agriculture under the Act of June 4, 1897 (30 Stat. 35, as amended, 16 U.S.C. 551); the Act of July 22, 1937 (50 Stat. 525, as amended, 7 U.S.C. 1010–1212); or the Act of September 3, 1954 (68 Stat. 1146, 43 U.S.C. 931c).”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Program.—The Assistant Secretary <sup>1</sup> shall carry out a Global Research Watch program in accordance with this section.
+Program.—The Assistant Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
 
 (b)
 
@@ -30,7 +30,7 @@ Coordination.—(1) The Assistant Secretary shall coordinate the program with th
 
 (2) The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Assistant Secretary of Defense for Research and Engineering such assistance as the Assistant Secretary may require for purposes of the program.
 
-(3)(A) Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Director <sup>2</sup> certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
+(3)(A) Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Assistant Secretary certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
 
 (B) The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
 
@@ -42,13 +42,17 @@ Classification of Database Information.—Information in electronic databases of
 
 Termination.—The requirement to carry out the program under this section shall terminate on September 30, 2015.
 
-(Added Pub. L. 108–136, div. A, title II, §231(a), Nov. 24, 2003, 117 Stat. 1421; amended Pub. L. 109–364, div. A, title II, §232, Oct. 17, 2006, 120 Stat. 2134; Pub. L. 111–84, div. A, title II, §211, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(j)(3), Jan. 7, 2011, 124 Stat. 4324.)
+(Added Pub. L. 108–136, div. A, title II, §231(a), Nov. 24, 2003, 117 Stat. 1421; amended Pub. L. 109–364, div. A, title II, §232, Oct. 17, 2006, 120 Stat. 2134; Pub. L. 111–84, div. A, title II, §211, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(j)(3), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1076(c)(2)(B), Jan. 2, 2013, 126 Stat. 1950.)
 
 #### Prior Provisions
 
 A prior section 2365, added Pub. L. 99–500, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–142, and Pub. L. 99–591, §101(c) \[title X, §909(a)(1), formerly §909(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–142, redesignated §909(a)(1), Pub. L. 100–26, §4(b), Apr. 21, 1987, 101 Stat. 274; Pub. L. 99–661, div. A, title IX, formerly title IV, §909(a)(1), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §5(3)(A), Apr. 21, 1987, 101 Stat. 274; Pub. L. 100–456, div. A, title VIII, §802, Sept. 29, 1988, 102 Stat. 2008, required use of competitive prototype program strategy in development of major weapons systems, prior to repeal by Pub. L. 102–484, div. A, title VIII, §821(c)(1), Oct. 23, 1992, 106 Stat. 2460.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(c)(2)(B)(i), inserted “of Defense for Research and Engineering” after “The Assistant Secretary”.
+
+Subsec. (d)(3)(A). Pub. L. 112–239, §1076(c)(2)(B)(ii), substituted “Assistant Secretary” for “Director”.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §901(j)(3)(A), substituted “Assistant Secretary” for “Director of Defense Research and Engineering”.
 
@@ -67,8 +71,4 @@ Subsec. (f). Pub. L. 111–84, §211(b), substituted “2015” for “2011”.
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Assistant Secretary of Defense for Research and Engineering”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Assistant Secretary”.</i>
 

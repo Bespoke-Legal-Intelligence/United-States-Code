@@ -10,11 +10,11 @@ Contents.—Every patent shall contain a short title of the invention and a gran
 
 &emsp;(2)
 
-Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c) of this title, from the date on which the earliest such application was filed.
+Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
 
 &emsp;(3)
 
-Priority.—Priority under section 119, 365(a), or 365(b) of this title shall not be taken into account in determining the term of a patent.
+Priority.—Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
 
 &emsp;(4)
 
@@ -32,27 +32,27 @@ Patent term guarantees.—
 
 Guarantee of prompt patent and trademark office responses.—Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the Patent and Trademark Office to—
 
-&emsp;&emsp;&emsp;(i) provide at least one of the notifications under section 132 of this title or a notice of allowance under section 151 of this title not later than 14 months after—
+&emsp;&emsp;&emsp;(i) provide at least one of the notifications under section 132 or a notice of allowance under section 151 not later than 14 months after—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date on which an application was filed under section 111(a) of this title; or
+&emsp;&emsp;&emsp;&emsp;(I) the date on which an application was filed under section 111(a); or
 
-&emsp;&emsp;&emsp;&emsp;(II) the date on which an international application fulfilled the requirements of section 371 of this title;
+&emsp;&emsp;&emsp;&emsp;(II) the date of commencement of the national stage under section 371 in an international application;
 
 &emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on which the reply was filed or the appeal was taken;
 
-&emsp;&emsp;&emsp;(iii) act on an application within 4 months after the date of a decision by the Board of Patent Appeals and Interferences under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
+&emsp;&emsp;&emsp;(iii) act on an application within 4 months after the date of a decision by the Patent Trial and Appeal Board under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
 
-&emsp;&emsp;&emsp;(iv) issue a patent within 4 months after the date on which the issue fee was paid under section 151 and all outstanding requirements were satisfied,
+&emsp;&emsp;&emsp;(iv) issue a patent within 4 months after the date on which the issue fee was paidunder section 151 and all outstanding requirements were satisfied,
 
 > &emsp;&emsp;the term of the patent shall be extended 1 day for each day after the end of the period specified in clause (i), (ii), (iii), or (iv), as the case may be, until the action described in such clause is taken.
 
 &emsp;&emsp;(B)
 
-Guarantee of no more than 3-year application pendency.—Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the United States Patent and Trademark Office to issue a patent within 3 years after the actual filing date of the application in the United States, not including—
+Guarantee of no more than 3-year application pendency.—Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the United States Patent and Trademark Office to issue a patent within 3 years after the actual filing date of the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application, not including—
 
 &emsp;&emsp;&emsp;(i) any time consumed by continued examination of the application requested by the applicant under section 132(b);
 
-&emsp;&emsp;&emsp;(ii) any time consumed by a proceeding under section 135(a), any time consumed by the imposition of an order under section 181, or any time consumed by appellate review by the Board of Patent Appeals and Interferences or by a Federal court; or
+&emsp;&emsp;&emsp;(ii) any time consumed by a proceeding under section 135(a), any time consumed by the imposition of an order under section 181, or any time consumed by appellate review by the Patent Trial and Appeal Board or by a Federal court; or
 
 &emsp;&emsp;&emsp;(iii) any delay in the processing of the application by the United States Patent and Trademark Office requested by the applicant except as permitted by paragraph (3)(C),
 
@@ -60,13 +60,13 @@ Guarantee of no more than 3-year application pendency.—Subject to the limitati
 
 &emsp;&emsp;(C)
 
-Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals.—Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to—
+Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals.—Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to—
 
 &emsp;&emsp;&emsp;(i) a proceeding under section 135(a);
 
 &emsp;&emsp;&emsp;(ii) the imposition of an order under section 181; or
 
-&emsp;&emsp;&emsp;(iii) appellate review by the Board of Patent Appeals and Interferences or by a Federal court in a case in which the patent was issued under a decision in the review reversing an adverse determination of patentability,
+&emsp;&emsp;&emsp;(iii) appellate review by the Patent Trial and Appeal Board or by a Federal court in a case in which the patent was issued under a decision in the review reversing an adverse determination of patentability,
 
 > &emsp;&emsp;the term of the patent shall be extended 1 day for each day of the pendency of the proceeding, order, or review, as the case may be.
 
@@ -100,7 +100,7 @@ Procedures for patent term adjustment determination.—
 
 &emsp;&emsp;(B) Under the procedures established under subparagraph (A), the Director shall—
 
-&emsp;&emsp;&emsp;(i) make a determination of the period of any patent term adjustment under this subsection, and shall transmit a notice of that determination with the written notice of allowance of the application under section 151; and
+&emsp;&emsp;&emsp;(i) make a determination of the period of any patent term adjustment under this subsection, and shall transmit a notice of that determination no later than the date of issuance of the patent; and
 
 &emsp;&emsp;&emsp;(ii) provide the applicant one opportunity to request reconsideration of any patent term adjustment determination made by the Director.
 
@@ -112,7 +112,7 @@ Procedures for patent term adjustment determination.—
 
 Appeal of patent term adjustment determination.—
 
-&emsp;&emsp;(A) An applicant dissatisfied with a determination made by the Director under paragraph (3) shall have remedy by a civil action against the Director filed in the United States District Court for the Eastern District of Virginia within 180 days after the grant of the patent. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
+&emsp;&emsp;(A) An applicant dissatisfied with the Director's decision on the applicant's request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy by a civil action against the Director filed in the United States District Court for the Eastern District of Virginia within 180 days after the date of the Director's decision on the applicant's request for reconsideration. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to theperiod of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
 
 &emsp;&emsp;(B) The determination of a patent term adjustment under this subsection shall not be subject to appeal or challenge by a third party prior to the grant of the patent.
 
@@ -126,7 +126,7 @@ Determination.—The term of a patent that is in force on or that results from a
 
 &emsp;(2)
 
-Remedies.—The remedies of sections 283, 284, and 285 of this title shall not apply to acts which—
+Remedies.—The remedies of sections 283, 284, and 285 shall not apply to acts which—
 
 &emsp;&emsp;(A) were commenced or for which substantial investment was made before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act; and
 
@@ -134,7 +134,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 &emsp;(3)
 
-Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.
+Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)).
 
 (d)
 
@@ -170,21 +170,19 @@ Effective date.—The right under paragraph (1) to obtain a reasonable royalty b
 
 Copies.—The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, §102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(h), Jan. 14, 2013, 126 Stat. 2457.)
 
 #### Amendment of Section
 
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+<i>Pub. L. 112–211, title I, §§102(6), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:</i>
 
-<i>Pub. L. 112–29, §3(j)(1), (2)(B), (n), Sept. 16, 2011, 125 Stat. 290, 293, provided that, effective</i><i>upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon:</i>
+<i>(1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;</i>
 
-<i>(1) this section is amended by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and</i>
+<i>(2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and</i>
 
-<i>(2) the heading for subparagraph (C) of subsection (b)(1) of this section is amended to read as follows: “</i>
+<i>(3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.</i>
 
-<i>Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals.—”.</i>
-
-<i>See 2011 Amendment notes below.</i>
+<i>See 2012 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -201,6 +199,20 @@ The wording of the granting clause is changed to “the right to exclude others 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1)(A)(i)(II). Pub. L. 112–274, §1(h)(1)(A), which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of section 371 of this title”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–29, §20(j). See 2011 Amendment note below.
+
+Subsec. (b)(1)(B). Pub. L. 112–274, §1(h)(1)(B), substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
+
+Subsec. (b)(3)(B)(i). Pub. L. 112–274, §1(h)(2), substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
+
+Subsec. (b)(4)(A). Pub. L. 112–274, §1(h)(3), substituted “the Director's decision on the applicant's request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director's decision on the applicant's request for reconsideration” for “the grant of the patent”.
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–211, §102(6)(A)(i), substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+
+Subsec. (a)(3). Pub. L. 112–211, §102(6)(A)(ii), substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
+
+Subsec. (d)(1). Pub. L. 112–211, §102(6)(B), inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–29, §20(j), struck out “of this title” after “365(c)”.
 
@@ -244,13 +256,21 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(2)\], added subs
 
 <b>1965</b>—Pub. L. 89–83 added “subject to the payment of issue fees as provided for in this title”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by section 3(j)(1), (2)(B) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
 Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -260,11 +280,11 @@ Amendment by section 1000(a)(9) \[title IV, §4504\] of Pub. L. 106–113 effect
 
 #### Effective Date of 1994 Amendment
 
-Section 534 of title V of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title V, §534, Dec. 8, 1994, 108 Stat. 4990, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), the amendments made by this subtitle \[subtitle C\(§§531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title\] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
+In General.—Subject to subsection (b), the amendments made by this subtitle \[subtitle C (§§531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title\] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
 “(b)
 
@@ -298,5 +318,5 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 #### Regulations
 
-Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
+Pub. L. 103–465, title V, §532(a)(2), Dec. 8, 1994, 108 Stat. 4985, authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
 

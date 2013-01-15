@@ -40,9 +40,9 @@ Act May 24, 1949, substituted “2677” for “2678” in third par.
 
 #### Effective Date of 1966 Amendment
 
-Section 10 of Pub. L. 89–506 provided that: “This Act \[amending this section, sections 2401, 2671, 2675, 2677, 2678, and 2679 of this title, section 724a of former Title 31, Money and Finance, and former section 4116 of Title 38, Veterans’ Benefits\], shall apply to claims accruing six months or more after the date of its enactment \[July 18, 1966\].”
+Pub. L. 89–506, §10, July 18, 1966, 80 Stat. 308, provided that: “This Act \[amending this section, sections 2401, 2671, 2675, 2677, 2678, and 2679 of this title, section 724a of former Title 31, Money and Finance, and former section 4116 of Title 38, Veterans’ Benefits\], shall apply to claims accruing six months or more after the date of its enactment \[July 18, 1966\].”
 
 #### Laws Unaffected
 
-Section 424(b) of act Aug. 2, 1946, ch. 753, title IV, 60 Stat. 856, provided that: “Nothing contained herein shall be deemed to repeal any provision of law authorizing any Federal agency to consider, ascertain, adjust, settle, determine, or pay any claim on account of damage to or loss of property or on account of personal injury or death, in cases in which such damage, loss, injury, or death was not caused by any negligent or wrongful act or omission of an employee of the Government while acting within the scope of his office or employment, or any other claim not cognizable under part 2 of this title.”
+Act Aug. 2, 1946, ch. 753, title IV, §424(b), 60 Stat. 847, provided that: “Nothing contained herein shall be deemed to repeal any provision of law authorizing any Federal agency to consider, ascertain, adjust, settle, determine, or pay any claim on account of damage to or loss of property or on account of personal injury or death, in cases in which such damage, loss, injury, or death was not caused by any negligent or wrongful act or omission of an employee of the Government while acting within the scope of his office or employment, or any other claim not cognizable under part 2 of this title.”
 

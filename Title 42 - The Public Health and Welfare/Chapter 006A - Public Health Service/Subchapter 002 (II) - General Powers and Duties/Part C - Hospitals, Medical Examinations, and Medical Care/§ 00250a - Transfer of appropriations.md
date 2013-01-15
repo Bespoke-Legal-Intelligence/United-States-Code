@@ -68,9 +68,9 @@ Pub. L. 98–166, title II, Nov. 28, 1983, 97 Stat. 1084.
 
 Pub. L. 97–377, §101(d) \[S. 2956, title II\], Dec. 21, 1982, 96 Stat. 1866.
 
-Pub. L. 97–92, §101(h) \[incorporating Pub. L. 96–536, §101<i>o</i>; H.R. 7584, title II\], Dec. 15, 1981, 95 Stat. 1190.
+Pub. L. 97–92, §101(h) \[incorporating Pub. L. 96–536, §101o; H.R. 7584, title II\], Dec. 15, 1981, 95 Stat. 1190.
 
-Pub. L. 96–536, §101<i>o</i> \[H.R. 7584, title II\], Dec. 16, 1980, 94 Stat. 3169.
+Pub. L. 96–536, §101o \[H.R. 7584, title II\], Dec. 16, 1980, 94 Stat. 3169.
 
 Pub. L. 96–68, title II, Sept. 24, 1979, 93 Stat. 421.
 

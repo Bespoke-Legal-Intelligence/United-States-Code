@@ -12,6 +12,7 @@
 | [7306\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007306%20-%20Office%20of%20the%20Under%20Secretary%20for%20Health.md) | Office of the Under Secretary for Health. |
 | [7307\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md) | Office of Research Oversight. |
 | [7308\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007308%20-%20Office%20of%20Rural%20Health.md) | Office of Rural Health. |
+| [7309\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007309%20-%20Readjustment%20Counseling%20Service.md) | Readjustment Counseling Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,6 +73,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title VII, §728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
 
 <b>2010</b>—Pub. L. 111–275, title X, §1001(n)(1), Oct. 13, 2010, 124 Stat. 2897, substituted “the human immunodeficiency virus” for “human immunodeficiency virus” in item 7333.
 

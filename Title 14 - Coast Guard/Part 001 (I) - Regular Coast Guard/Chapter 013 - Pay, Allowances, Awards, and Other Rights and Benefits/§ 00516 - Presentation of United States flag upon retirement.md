@@ -2,7 +2,7 @@
 
 (a)
 
-Presentation of Flag.—Upon the release of a member of the Coast Guard from active duty for retirement, the Secretary of Homeland Security shall present a United States flag to the member.
+Presentation of Flag.—Upon the release of a member of the Coast Guard from active duty for retirement, the Secretary shall present a United States flag to the member.
 
 (b)
 
@@ -12,9 +12,11 @@ Multiple Presentations Not Authorized.—A member is not eligible for a presenta
 
 No Cost to Recipient.—The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added Pub. L. 105–261, div. A, title VI, §644(d)(1), Oct. 17, 1998, 112 Stat. 2049; amended Pub. L. 106–65, div. A, title VI, §652(e), Oct. 5, 1999, 113 Stat. 666; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1062(b)(2), Dec. 2, 2002, 116 Stat. 2650.)
+(Added Pub. L. 105–261, div. A, title VI, §644(d)(1), Oct. 17, 1998, 112 Stat. 2049; amended Pub. L. 106–65, div. A, title VI, §652(e), Oct. 5, 1999, 113 Stat. 666; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1062(b)(2), Dec. 2, 2002, 116 Stat. 2650;Pub. L. 112–213, title II, §217(6), Dec. 20, 2012, 126 Stat. 1557.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out “of Homeland Security” after “Secretary”.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

@@ -1,10 +1,10 @@
 ### §1311. Bonded manufacturing warehouses
 
-All articles manufactured in whole or in part of imported materials, or of materials subject to internal-revenue tax, and intended for exportation without being charged with duty, and without having an internal-revenue stamp affixed thereto, shall, under such regulations as the Secretary of the Treasury may prescribe, in order to be so manufactured and exported, be made and manufactured in bonded warehouses similar to those known and designated in Treasury Regulations as bonded warehouses, class six: <i>Provided</i>, That the manufacturer of such articles shall first give satisfactory bonds for the faithful observance of all the provisions of law and of such regulations as shall be prescribed by the Secretary of the Treasury: <i>Provided further</i>, That the manufacture of distilled spirits from grain, starch, molasses, or sugar, including all dilutions or mixtures of them or either of them, shall not be permitted in such manufacturing warehouses.
+All articles manufactured in whole or in part of imported materials, or of materials subject to internal-revenue tax, and intended for exportation without being charged with duty, and without having an internal-revenue stamp affixed thereto, shall, under such regulations as the Secretary of the Treasury may prescribe, in order to be so manufactured and exported, be made and manufactured in bonded warehouses similar to those known and designated in Treasury Regulations as bonded warehouses, class six: <i>Provided</i>, That the manufacturer of such articles shall first give satisfactory bonds for the faithful observance of all the provisions of law and of such regulations as shall be prescribed by theSecretary of the Treasury: <i>Provided further</i>, That the manufacture of distilled spirits from grain, starch, molasses, or sugar, including all dilutions or mixtures of them or either of them, shall not be permitted in such manufacturing warehouses.
 
 Whenever goods manufactured in any bonded warehouse established under the provisions of the preceding paragraph shall be exported directly therefrom or shall be duly laden for transportation and immediate exportation under the supervision of the proper officer who shall be duly designated for that purpose, such goods shall be exempt from duty and from the requirements relating to revenue stamps.
 
-No flour, manufactured in a bonded manufacturing warehouse from wheat imported afterninety days after June 17, 1930, shall be withdrawn from such warehouse for exportation without payment of a duty on such imported wheat equal to any reduction in duty which by treaty will apply in respect of such flour in the country to which it is to be exported.
+No flour, manufactured in a bonded manufacturing warehouse from wheat imported after ninety days after June 17, 1930, shall be withdrawn from such warehouse for exportation without payment of a duty on such imported wheat equal to any reduction in duty which by treaty will apply in respect of such flour in the country to which it is to be exported.
 
 Any materials used in the manufacture of such goods, and any packages, coverings, vessels, brands, and labels used in putting up the same may, under the regulations of the Secretary of the Treasury, be conveyed without the payment of revenue tax or duty into any bonded manufacturing warehouse, and imported goods may, under the aforesaid regulations, be transferred without the exaction of duty from any bonded warehouse into any bonded manufacturing warehouse; but this privilege shall not be held to apply to implements, machinery, or apparatus to be used in the construction or repair of any bonded manufacturing warehouse or for the prosecution of the business carried on therein.
 
@@ -26,7 +26,7 @@ No article manufactured in a bonded warehouse from materials that are goods subj
 
 &emsp;(2) the total amount of customs duties paid on the article to the NAFTA country.
 
-> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such importedmerchandise in its condition, and at the rate of duty in effect, at the time of importation.
+> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
 
 No article manufactured in a bonded warehouse from materials that are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, may be withdrawn from warehouse for exportation to Chile without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that the duty may be waived or reduced by—
 
@@ -43,6 +43,8 @@ No article manufactured in a bonded warehouse from materials that are goods subj
 #### Amendment of Section
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### References in Text
 
@@ -66,7 +68,7 @@ Section IV, M, of the act of 1913 superseded previous similar provisions of the 
 
 <b>1993</b>—Pub. L. 103–182 amended last par. generally. Prior to amendment, last par. read as follows: “No article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.”
 
-<b>1988</b>—Pub. L. 100–449 added par. at end relating to articles withdrawn for exportation to Canada on and after Jan. 1, 1994, and to drawback-eligible goods under the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+<b>1988</b>—Pub. L. 100–449 temporarily added par. at end relating to articles withdrawn for exportation to Canada on and after Jan. 1, 1994, and to drawback-eligible goods under the United States-Canada Free-Trade Agreement Implementation Act of 1988. See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1983</b>—Pub. L. 97–446 struck out “at an exterior port” after “bonded warehouse” and “immediate” after “sole purpose of” in eighth par.
 
@@ -90,7 +92,7 @@ Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-T
 
 #### Effective Date of 1979 Amendment
 
-Section 856(b) of Pub. L. 96–39 provided that: “Effective January 1, 1980, the second proviso to the last paragraph of section 311 of the Tariff Act of 1930 \[this section\] is hereby repealed.”
+Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295, provided that: “Effective January 1, 1980, the second proviso to the last paragraph of section 311 of the Tariff Act of 1930 \[this section\] is hereby repealed.”
 
 #### Effective Date of 1970 Amendment
 

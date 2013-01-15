@@ -8,7 +8,7 @@
 
 #### (b) Treatment of benefits
 
-Any benefits received by an employee under an agreement entered into pursuant to section 797 <sup>1</sup> of this title and any termination allowance received under section 797a of this title shall be considered compensation solely for purposes of—
+Any benefits received by an employee under an agreement entered into pursuant to section797 <sup>1</sup> of this title and any termination allowance received under section 797a of this title shall be considered compensation solely for purposes of—
 
 &emsp;(1) the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.); and
 

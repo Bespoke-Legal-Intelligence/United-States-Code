@@ -2,11 +2,11 @@
 
 #### (a) Claims against partition of joint reservation
 
-Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 ofthis title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
+Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 of this title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
 
 #### (b) Limitations on claims
 
-(1) Any such claim by any person or entity, other than the Hoopa Valley Tribe or the Yurok Tribe, shall be forever barred if not brought within the later of 210 days from the date of the partition of the joint reservation as provided in section 1300i–1 of this title or 120 days after the publication in the Federal Register of the option election date as required by section 1300i–5(a)(4) of this title.
+(1) Any such claim by any person or entity, other than the Hoopa Valley Tribe or the Yurok Tribe, shall be forever barred if not broughtwithin the later of 210 days from the date of the partition of the joint reservation as provided in section 1300i–1 of this title or 120 days after the publication in the Federal Register of the option election date as required by section 1300i–5(a)(4) of this title.
 
 (2) Any such claim by the Hoopa Valley Tribe shall be barred 180 days after October 31, 1988, or such earlier date as may be established by the adoption of a resolution waiving such claims pursuant to section 1300i–1(a)(2) of this title.
 

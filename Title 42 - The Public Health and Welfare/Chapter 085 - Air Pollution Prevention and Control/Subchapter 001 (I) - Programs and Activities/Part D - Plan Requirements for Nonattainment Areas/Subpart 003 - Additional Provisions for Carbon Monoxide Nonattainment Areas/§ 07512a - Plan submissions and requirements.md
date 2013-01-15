@@ -10,7 +10,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2)(A) Vehicle miles traveled
 
-&emsp;No later than 2 years after November 15, 1990, for areas with a design value above 12.7ppm at the time of classification, the plan revision shall contain a forecast of vehicle miles traveled in the nonattainment area concerned for each year before the year in which the plan projects the national ambient air quality standard for carbon monoxide to be attained in the area. The forecast shall be based on guidance which shall be published by the Administrator, in consultation with the Secretary of Transportation, within 6 months after November 15, 1990. The plan revision shall provide for annual updates of the forecasts to be submitted to the Administrator together with annual reports regarding the extent to which such forecasts proved to be accurate. Such annual reports shall contain estimates of actual vehicle miles traveled in each year for which a forecast was required.
+&emsp;No later than 2 years after November 15, 1990, for areas with a design value above 12.7 ppm at the time of classification, the plan revision shall contain a forecast of vehicle miles traveled in the nonattainment area concerned for each year before the year in which the plan projects the national ambient air quality standard for carbon monoxide to be attained in the area. The forecast shall be based on guidance which shall be published by the Administrator, in consultation with the Secretary of Transportation, within 6 months after November 15, 1990. The plan revision shall provide for annual updates of the forecasts to be submitted to the Administrator together with annual reports regarding the extent to which such forecasts proved to be accurate. Such annual reports shall contain estimates of actual vehicle miles traveled in each year for which a forecast was required.
 
 #### (B) Special rule for Denver
 
@@ -46,7 +46,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2) Vehicle miles traveled
 
-&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required in section 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II of this chapter, if the State fails toinclude any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
+&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required in section 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II of this chapter, if the State fails to include any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
 
 #### (3) Oxygenated gasoline
 
@@ -78,7 +78,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Milestone demonstration
 
-&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that the area has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
+&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that thearea has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
 
 #### (2) Adequacy of demonstration
 
@@ -96,7 +96,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2) Failure to demonstrate attainment
 
-&emsp;If any State in which there is located a portion of a multi-State nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard forcarbon monoxide in that portion within the period required under this part the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions for carbon monoxide nonattainment areas). If the Administrator makes such finding, in the portion of the nonattainment area within the State submitting such petition, no sanction shall be imposed under section 7509 of this title or under any other provision of this chapter, by reason of the failure to make such demonstration.
+&emsp;If any State in which there is located a portion of a multi-State nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for carbon monoxide in that portion within the period required under this part the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions for carbon monoxide nonattainment areas). If the Administrator makes such finding, in the portion of the nonattainment area within the State submitting such petition, no sanction shall be imposed under section 7509 of this title or under any other provision of this chapter, by reason of the failure to make such demonstration.
 
 #### (f) Reclassified areas
 

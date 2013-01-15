@@ -22,7 +22,7 @@ In this section, the term “medically necessary leave of absence” means, with
 
 #### (2) Dependent child described
 
-&emsp;A dependent child described in this paragraph is, with respect to a group health planor health insurance coverage offered in connection with the plan, a beneficiary under the plan who—
+&emsp;A dependent child described in this paragraph is, with respect to a group health plan or health insurance coverage offered in connection with the plan, a beneficiary under the plan who—
 
 &emsp;&emsp;(A) is a dependent child, under the terms of the plan or coverage, of a participant or beneficiary under the plan or coverage; and
 
@@ -38,7 +38,7 @@ A group health plan, and a health insurance issuer providing health insurance co
 
 #### (d) No change in benefits
 
-A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
+A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued tobe a covered student at the institution of higher education and was not on a medically necessary leave of absence.
 
 #### (e) Continued application in case of changed coverage
 

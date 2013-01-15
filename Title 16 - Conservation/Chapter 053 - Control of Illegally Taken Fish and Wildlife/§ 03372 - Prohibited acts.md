@@ -8,7 +8,7 @@ It is unlawful for any person—
 
 &emsp;(2) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
 
-&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law;
+&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any lawor regulation of any State or in violation of any foreign law;
 
 &emsp;&emsp;(B) any plant—
 
@@ -108,7 +108,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and animals; or
 
-&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
+&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transportingthe animal to a person described in this paragraph with respect to the species.
 
 #### (3) Regulations
 
@@ -150,7 +150,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (3) Exclusions
 
-&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging materialto support, protect, or carry another item, unless the packaging material itself is the item being imported.
+&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging material to support, protect, or carry another item, unless the packaging material itself is the item being imported.
 
 #### (4) Review
 

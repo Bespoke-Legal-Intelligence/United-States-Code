@@ -8,7 +8,7 @@
 
 (b) The annual rate of special pay under subsection (a) shall be determined by the Secretary of Defense.
 
-(c) Special pay under this section may be paid in addition to any compensation authorized under section 1602 of this title for which an officer or employee is eligible.
+(c) Special pay under this section may be paid in addition to any compensation authorizedunder section 1602 of this title for which an officer or employee is eligible.
 
 (Added Pub. L. 101–193, title V, §501(a)(1), Nov. 30, 1989, 103 Stat. 1707, §1592; renumbered §1596, Pub. L. 101–510, div. A, title XIV, §1484(a), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 104–201, div. A, title XVI, §1633(e)(2), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1131(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–317.)
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date
 
-Section 501(b) of Pub. L. 101–193 provided that: “Section 1592 \[now 1596\] of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
+Pub. L. 101–193, title V, §501(b), Nov. 30, 1989, 103 Stat. 1708, provided that: “Section 1592 \[now 1596\] of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
 
 &emsp;“(1) October 1, 1989, or
 

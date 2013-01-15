@@ -24,7 +24,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;&emsp;(G) the estimated actual incidence of forcible sex offenses as compared to the reported incidence of forcible sex offenses and the reasons for any difference between the two; and
 
-&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational,counseling, and other programs designed to prevent and control sex offenses.
+&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational, counseling, and other programs designed to prevent and control sex offenses.
 
 &emsp;(2) The compilation, analysis, and publication of summaries of the continuing study conducted under paragraph (1) and the research and demonstration projects conducted under paragraph (5). The Secretary shall submit not later than March 30, 1983, to the Congress a summary of such study and projects together with a review of their effectiveness and recommendations where appropriate.
 
@@ -46,7 +46,7 @@ The Secretary shall appoint an advisory committee to advise, consult with, and m
 
 #### (c) Submission and approval of application; form, manner and contents
 
-No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
+No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary.The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 
 #### (d) Authorization of appropriations
 
@@ -74,7 +74,7 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 da
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 
 #### Termination of Advisory Committees
 
@@ -82,5 +82,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -58,7 +58,7 @@ The following consumer products, excluding those consumer products designed sole
 
 (2) For purposes of this subsection:
 
-&emsp;(A) The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
+&emsp;(A) The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which areused by households in the United States, divided by the number of such households which use products of such type.
 
 &emsp;(B) The Btu equivalent of one kilowatt-hour is 3,412 British thermal units.
 
@@ -68,7 +68,7 @@ The following consumer products, excluding those consumer products designed sole
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classificationof this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Energy Efficiency Labeling for Windows and Window Systems
 
-Section 121 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §121, Oct. 24, 1992, 106 Stat. 2805, provided that:
 
 “(a)
 
@@ -152,7 +152,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 #### Energy Efficiency Information for Commercial Office Equipment
 
-Section 125 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §125, Oct. 24, 1992, 106 Stat. 2833, provided that:
 
 “(a)
 
@@ -162,7 +162,7 @@ In General.—(1) The Secretary shall, after consulting with the Computer and Bu
 
 &emsp;“(A) consistent with the objectives of paragraph (1), determine the commercial office equipment to be covered under such program;
 
-&emsp;“(B) include specifications for testing procedures that will enable purchasers of such commercial office equipment to make more informed decisions about the energy efficiency and costs of alternative products; and
+&emsp;“(B) include specifications for testing procedures that will enable purchasers of such commercial officeequipment to make more informed decisions about the energy efficiency and costs of alternative products; and
 
 &emsp;“(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products.
 
@@ -174,7 +174,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts to develop th
 
 “(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not laterthan two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such commercial office equipment.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such commercial office equipment.
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
@@ -184,7 +184,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 #### Energy Efficiency Information for Luminaires
 
-Section 126 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §126, Oct. 24, 1992, 106 Stat. 2834, provided that:
 
 “(a)
 
@@ -216,7 +216,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 #### Report on Potential of Cooperative Advanced Appliance Development
 
-Section 127 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that:
 
 “(a)
 
@@ -240,7 +240,7 @@ Identification of High-Efficiency Appliances.—The report submitted under subse
 
 Recommendations and Proposals.—The report submitted under subsection (a) shall also—
 
-&emsp;“(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilities and appliance manufacturers in developing and commercializing highly efficient appliances;
+&emsp;“(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilitiesand appliance manufacturers in developing and commercializing highly efficient appliances;
 
 &emsp;“(2) describe specific proposals for Department of Energy or Environmental Protection Agency assistance to utilities and appliance manufacturers to promote the development and commercialization of highly efficient appliances;
 
@@ -250,5 +250,5 @@ Recommendations and Proposals.—The report submitted under subsection (a) shall
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existingproducts which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
+Pub. L. 102–486, title I, §128, Oct. 24, 1992, 106 Stat. 2836, provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
 

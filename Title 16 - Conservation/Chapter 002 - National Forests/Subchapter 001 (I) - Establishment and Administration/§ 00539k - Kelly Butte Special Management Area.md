@@ -22,7 +22,7 @@ The Kelly Butte Special Management Area shall be managed by the Secretary in acc
 
 &emsp;(2) commercial timber harvest and road construction shall be prohibited;
 
-&emsp;(3) the Area shall be closed to the use of motor vehicles, except as may be necessary for administrative purposes or in emergencies (including rescue operations) to protect public health and safety; and
+&emsp;(3) the Area shall be closed to the use of motor vehicles, except as may be necessary foradministrative purposes or in emergencies (including rescue operations) to protect public health and safety; and
 
 &emsp;(4) the Area shall, subject to valid existing rights, be permanently withdrawn from all forms of entry and appropriation under the U.S. mining laws and mineral leasing laws, including the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\].
 
@@ -154,7 +154,7 @@ Condition and Conveyance of Offered Land.—The exchange directed by this Act sh
 
 “(b)
 
-Conveyance of Selected Land by the United States.—Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:
+Conveyance of Selected Land by the United States.—Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:
 
 &emsp;“(1) Certain land administered, as of the date of enactment of this Act \[Oct. 21, 1998\], by the Secretary of Agriculture as part of the Mt. Baker-Snoqualmie National Forest, Washington, and comprising approximately 5,697 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998.
 
@@ -258,7 +258,7 @@ Equalization if Surplus of Selected Land.—
 
 &emsp;“(1)
 
-In general.—If the final appraised value of the selected land exceeds the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, the Secretary shall delete selected land parcels from the exchange in the exact order each land Section (or selected portion thereof) is listed in paragraph (2) until the values are approximately equal.
+In general.—If the final appraised value of the selected land exceeds the final appraised value of theoffered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, the Secretary shall delete selected land parcels from the exchange in the exact order each land Section (or selected portion thereof) is listed in paragraph (2) until the values are approximately equal.
 
 &emsp;“(2)
 
@@ -306,7 +306,7 @@ Modification of boundaries.—
 
 &emsp;&emsp;&emsp;“(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the ‘Weeks Act’) \[16 U.S.C. 521\].
 
-&emsp;&emsp;&emsp;“(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9 \[460<i>l</i>–9\]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
+&emsp;&emsp;&emsp;“(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9 \[460l–9\]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
 
 &emsp;&emsp;“(C)
 
@@ -362,7 +362,7 @@ Report to plum creek.—No later than 180 days after enactment of this Act \[Oct
 
 &emsp;“(2)
 
-Plum creek response.—Within 30 days of receipt of the Secretary's report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) those parcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land.
+Plum creek response.—Within 30 days of receipt of the Secretary's report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) thoseparcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land.
 
 &emsp;“(3)
 
@@ -388,7 +388,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from enteringinto additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 

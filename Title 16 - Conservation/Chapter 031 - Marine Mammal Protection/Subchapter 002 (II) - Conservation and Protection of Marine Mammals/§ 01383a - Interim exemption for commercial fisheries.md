@@ -58,7 +58,7 @@
 
 (4) The Secretary shall suspend or revoke an exemption granted under this section and shall not issue a decal or other physical evidence of the exemption for any vessel until the owner of such vessel complies with the reporting requirements under subsection (c) of this section and such requirements to take on board a natural resource observer under paragraph (3)(B) as are applicable to such vessel.
 
-(5)(A) The Secretary shall develop, in consultation with the appropriate States, Regional Fishery Management Councils, and other interested parties, the means by which the granting and administration of exemptions under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
+(5)(A) The Secretary shall develop, in consultation with the appropriate States, RegionalFishery Management Councils, and other interested parties, the means by which the granting and administration of exemptions under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
@@ -114,7 +114,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(D) any other fishery identified under subsection (b)(1)(A)(i) of this section.
 
-> The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
+> The Secretary may, with the consent of the vessel owner, station an observer on board a vesselengaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
 
 (4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
@@ -156,7 +156,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 > In prescribing emergency regulations under this paragraph, the Secretary shall take into account the economics of the fishery concerned and the availability of existing technology to prevent or minimize incidental taking of marine mammals.
 
-(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f) of this section, that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend, or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
+(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f) of this section, that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend,or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
 
 (4) The Secretary shall impose appropriate conditions and restrictions on an exemption granted under subsection (b) of this section if—
 
@@ -190,7 +190,7 @@ When carrying out the Secretary's responsibilities under subsections (b), (d), (
 
 The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulations as necessary and appropriate to carry out the purposes of this section.
 
-#### (<i>l</i>) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
+#### (l) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
 (1) The Chairman of the Marine Mammal Commission shall, after consultation with interested parties and not later than February 1, 1990, transmit to the Secretary and make available to the public recommended guidelines to govern the incidental taking of marine mammals in the course of commercial fishing operations, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. Such guidelines shall be developed by the Commission and its Committee of Scientific Advisers on Marine Mammals and shall—
 
@@ -210,7 +210,7 @@ The Secretary, in consultation with any other Federal agency to the extent that 
 
 (2) The Secretary shall advise the Chairman of the Commission in writing if the Secretary determines that any additional information or explanation of the Chairman's recommendations is needed, and the Chairman shall respond in writing to any such request by the Secretary.
 
-(3) On or before February 1, 1991, the Secretary, after consultation with the Marine Mammal Commission, Regional Fishery Management Councils, and other interested governmental and nongovernmental organizations, shall publish in the Federal Register, for public comment, the suggested regime that the Secretary considers should, if authorized by enactment of any additional legislation, govern incidental taking of marine mammals, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. The suggested regime shall include—
+(3) On or before February 1, 1991, the Secretary, after consultation with the Marine Mammal Commission, Regional Fishery Management Councils, and other interested governmental and nongovernmental organizations, shall publish in the Federal Register, for public comment, the suggested regime that the Secretary considers should, if authorized by enactment of any additional legislation, govern incidental taking ofmarine mammals, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. The suggested regime shall include—
 
 &emsp;(A) the scientific guidelines to be used in determining permissible levels of incidental taking;
 
@@ -234,7 +234,7 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 For the purposes of this section, the owner of fixed or other commercial fishing gear that is deployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
 
-#### (<i>o</i>) Definitions
+#### (o) Definitions
 
 As used in this section—
 
@@ -250,11 +250,11 @@ As used in this section—
 
 #### References in Text
 
-Section 1802 of this title, referred to in subsec. (<i>o</i>)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms “fishery” and “vessel of the United States”. However, such terms are defined elsewhere in that section.
+Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms “fishery” and “vessel of the United States”. However, such terms are defined elsewhere in that section.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a)(1), (b)(2)(B)(ii), (<i>o</i>)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
+<b>1996</b>—Subsecs. (a)(1), (b)(2)(B)(ii), (o)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
 
 <b>1995</b>—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
 
@@ -266,11 +266,11 @@ Pub. L. 103–228 substituted “May 1, 1994.” for “April 1, 1994,”.
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1995 Amendment
 
-Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective on and after April 30, 1994.”
+Pub. L. 104–43, title IV, §404(a)(2), Nov. 3, 1995, 109 Stat. 391, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective on and after April 30, 1994.”
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

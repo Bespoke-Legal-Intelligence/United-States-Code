@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Position taken into account at fair market value
 
-&emsp;In determining the taxpayer's net investment in any conversion transaction, thereshall be included the fair market value of any position which becomes part of such transaction (determined as of the time such position became part of such transaction).
+&emsp;In determining the taxpayer's net investment in any conversion transaction, there shall be included the fair market value of anyposition which becomes part of such transaction (determined as of the time such position became part of such transaction).
 
 #### (5) Special rule for options dealers and commodities traders
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 108–357 applicable to positions established on or after O
 
 #### Effective Date
 
-Section 13206(a)(3) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1703(n)(11), Aug. 20, 1996, 110 Stat. 1877, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to conversion transactions entered into after April 30, 1993.”
+Pub. L. 103–66, title XIII, §13206(a)(3), Aug. 10, 1993, 107 Stat. 465, as amended by Pub. L. 104–188, title I, §1703(n)(11), Aug. 20, 1996, 110 Stat. 1877, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to conversion transactions entered into after April 30, 1993.”
 

@@ -8,7 +8,7 @@ Nothing in this subchapter shall be construed to affect the authority of the Sec
 
 &emsp;(3) regulation of pipeline safety under chapter 601 of title 49;
 
-&emsp;(4) encouragement and promotion of research, development, and deployment activities relating to advanced vehicle technologies under section 5506 of title 49;
+&emsp;(4) encouragement and promotion of research, development, and deployment activities relating to advanced vehicle technologies under section 5506 <sup>1</sup> of title 49;
 
 &emsp;(5) regulation of motor vehicle safety under chapter 301 of title 49;
 
@@ -17,4 +17,10 @@ Nothing in this subchapter shall be construed to affect the authority of the Sec
 &emsp;(7) representation of the interests of the United States with respect to the activities and programs under the authority of title 49.
 
 (Pub. L. 109–58, title VIII, §816, Aug. 8, 2005, 119 Stat. 855.)
+
+#### References in Text
+
+Section 5506 of title 49, referred to in par. (4), was repealed by Pub. L. 112–141, div. E, title II, §52010(a), July 6, 2012, 126 Stat. 887.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

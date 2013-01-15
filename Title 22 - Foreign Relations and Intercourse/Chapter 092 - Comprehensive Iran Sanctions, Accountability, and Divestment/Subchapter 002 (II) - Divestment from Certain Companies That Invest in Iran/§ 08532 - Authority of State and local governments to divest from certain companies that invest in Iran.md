@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress that the United States should support the decision of any Stateor local government that for moral, prudential, or reputational reasons divests from, or prohibits the investment of assets of the State or local government in, a person that engages in investment activities in the energy sector of Iran, as long as Iran is subject to economic sanctions imposed by the United States.
+It is the sense of Congress that the United States should support the decision of any State or local government that for moral, prudential, or reputational reasons divests from, or prohibits the investment of assets of the State or local government in, a person that engages in investment activities in the energy sector of Iran, as long as Iran is subject to economic sanctions imposed by the United States.
 
 #### (b) Authority to divest
 
@@ -88,7 +88,11 @@ In this section:
 
 &emsp;A measure described in paragraph (1) shall be subject to the requirements of paragraphs (1) and (2) and the first sentence of paragraph (3) of subsection (d) on and after the date that is 2 years after July 1, 2010.
 
-(Pub. L. 111–195, title II, §202, July 1, 2010, 124 Stat. 1342.)
+#### (j) Rule of construction
+
+Nothing in this Act or any other provision of law authorizing sanctions with respect to Iran shall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly known as the “McCarran-Ferguson Act”).
+
+(Pub. L. 111–195, title II, §202, July 1, 2010, 124 Stat. 1342; Pub. L. 112–158, title II, §222(b), Aug. 10, 2012, 126 Stat. 1239.)
 
 #### Termination of Section
 
@@ -97,4 +101,12 @@ In this section:
 #### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+This Act, referred to in subsec. (j), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+
+Act of March 9, 1945, referred to in subsec. (j), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, popularly known as the McCarran-Ferguson Act, which is classified generally to chapter 20 (§ 1011 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of Title 15 and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (j). Pub. L. 112–158 added subsec. (j).
 

@@ -22,7 +22,7 @@ Nothing contained in this section shall prohibit an authorized State official fr
 
 #### (f) Limitation
 
-Whenever the Commission has instituted a civil action for violation of any rule or regulation under this chapter, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for violation of any rule as alleged in the Commission's complaint.
+Whenever the Commission has instituted a civil action for violation of any rule or regulation under this chapter, no State may, during the pendency of such action instituted by theCommission, subsequently institute a civil action against any defendant named in the Commission's complaint for violation of any rule as alleged in the Commission's complaint.
 
 #### (g) Actions by other State officials
 

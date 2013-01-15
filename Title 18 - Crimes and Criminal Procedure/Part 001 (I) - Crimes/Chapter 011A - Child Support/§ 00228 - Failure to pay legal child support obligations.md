@@ -48,7 +48,7 @@ Definitions.—As used in this section—
 
 &emsp;(3) the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
 
-(Added Pub. L. 102–521, §2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, §607(<i>l</i>), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, §2, June 24, 1998, 112 Stat. 618.)
+(Added Pub. L. 102–521, §2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, §607(l), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, §2, June 24, 1998, 112 Stat. 618.)
 
 #### Amendments
 
@@ -62,5 +62,5 @@ Pub. L. 105–187, §1, June 24, 1998, 112 Stat. 618, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 102–521 provided that: “This Act \[enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42\] may be cited as the ‘Child Support Recovery Act of 1992’.”
+Pub. L. 102–521, §1, Oct. 25, 1992, 106 Stat. 3403, provided that: “This Act \[enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42\] may be cited as the ‘Child Support Recovery Act of 1992’.”
 

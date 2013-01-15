@@ -186,7 +186,7 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 
 #### Persons Operating Under Predecessor Compulsory Licensing Provisions
 
-Section 106 of Pub. L. 94–553 provided that: “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of section 1(e) of title 17 as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of section 115 of title 17 as amended by the first section of this Act \[this section\]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 \[this section\].”
+Pub. L. 94–553, title I, §106, Oct. 19, 1976, 90 Stat. 2599, provided that: “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of section 1(e) of title 17 as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of section 115 of title 17 as amended by the first section of this Act \[this section\]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 \[this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs”.</i>
 

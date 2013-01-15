@@ -8,7 +8,7 @@ Section 2928j, Pub. L. 88–452, title V, §521, as added Pub. L. 93–644, §8(
 
 Section 2928k, Pub. L. 88–452, title V, §522, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2305, related to research, demonstration, and pilot projects.
 
-Section 2928<i>l</i>, Pub. L. 88–452, title V, §523, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2305; amended Pub. L. 94–341, §2(a)(20), July 6, 1976, 90 Stat. 805; Pub. L. 95–568, §10(g), (h), Nov. 2, 1978, 92 Stat. 2433, related to announcement of research, demonstration, and pilot project contracts.
+Section 2928l, Pub. L. 88–452, title V, §523, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2305; amended Pub. L. 94–341, §2(a)(20), July 6, 1976, 90 Stat. 805; Pub. L. 95–568, §10(g), (h), Nov. 2, 1978, 92 Stat. 2433, related to announcement of research, demonstration, and pilot project contracts.
 
 Section 2928m, Pub. L. 88–452, title V, §524, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2306; amended Pub. L. 95–568, §10(i), Nov. 2, 1978, 92 Stat. 2433, related to evaluation of programs.
 

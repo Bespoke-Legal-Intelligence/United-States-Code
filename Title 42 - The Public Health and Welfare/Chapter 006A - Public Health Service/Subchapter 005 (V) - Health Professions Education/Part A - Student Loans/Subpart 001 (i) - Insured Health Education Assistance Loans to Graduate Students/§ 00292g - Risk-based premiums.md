@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-With respect to a loan made under this subpart on or after January 1, 1993, the Secretary, in accordance with subsection (b) of this section, shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292<i>o</i> of this title).
+With respect to a loan made under this subpart on or after January 1, 1993, the Secretary, in accordance with subsection (b) of this section, shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292o of this title).
 
 #### (b) Assessment of premium
 

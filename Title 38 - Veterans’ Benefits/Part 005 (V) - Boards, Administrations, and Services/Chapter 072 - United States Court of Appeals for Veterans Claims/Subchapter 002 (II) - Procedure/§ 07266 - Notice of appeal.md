@@ -34,7 +34,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1994 Amendment
 
-Section 511(b) of Pub. L. 103–446 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date.”
+Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date.”
 
 #### Interim Provision for Filing Notices of Appeal
 

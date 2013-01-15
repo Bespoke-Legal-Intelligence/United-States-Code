@@ -14,7 +14,7 @@
 
 #### (1) Appointment of Administrator
 
-&emsp;The management of the Fund shall be vested in an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate. The Administrator shall not engage in any other business or employment during service as the Administrator.
+&emsp;The management of the Fund shall be vested in an Administrator, who shall be appointed by the President. The Administrator shall not engage in any other business or employment during service as the Administrator.
 
 #### (2) Chief financial officer
 
@@ -86,7 +86,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (3) Chairperson
 
-&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, achairperson of the Board, who shall serve for a term of 2 years.
+&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, a chairperson of the Board, who shall serve for a term of 2 years.
 
 #### (4) Board function
 
@@ -176,7 +176,7 @@ A community development financial institution or other organization that receive
 
 &emsp;For purposes of this subsection, the term “transition period” means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
 
-(Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166.)
+(Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, §2(w), Aug. 10, 2012, 126 Stat. 1289.)
 
 #### References in Text
 
@@ -185,6 +185,14 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. 
 #### Codification
 
 Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Administration of Fund by Secretary of the Treasury
 

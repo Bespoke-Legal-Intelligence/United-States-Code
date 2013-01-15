@@ -1,6 +1,0 @@
-### §53109. Special rule regarding age of participating fleet vessel
-
-Any age restriction under section 53102(b)(3) or 53106(c)(3) shall not apply to a participating fleet vessel during the 30-month period beginning on the date the vessel begins operating under an operating agreement under this title, if the Secretary determines that the contractor for the vessel has entered into an arrangement to obtain and operate under the operating agreement for the participating fleet vessel a replacement vessel that, upon commencement of such operation, will be eligible to be included in the Fleet under section 53102(b).
-
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1817.)
-

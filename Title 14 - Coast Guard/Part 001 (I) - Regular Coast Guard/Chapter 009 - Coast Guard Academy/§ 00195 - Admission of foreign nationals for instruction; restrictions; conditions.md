@@ -4,17 +4,21 @@
 
 (b) The President may designate not more than 36 foreign nationals whom the Secretary may permit to receive instruction at the Academy.
 
-(c) A person receiving instruction under this section is entitled to the same pay and allowances, to be paid from the same appropriations, as a cadet appointed pursuant to section 182 of this title. A person may receive instruction under this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay and allowances, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
+(c) A foreign national receiving instruction under this section is entitled to the same pay, allowances, and emoluments, to be paid from the same appropriations, as a cadet appointed pursuant to section 182 of this title. A foreign national may receive instruction under this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay, allowances, and emoluments, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
 
-(d) A person receiving instruction under this section is—
+(d) A foreign national receiving instruction under this section is—
 
 &emsp;(1) not entitled to any appointment in the Coast Guard by reason of his graduation from the Academy; and
 
 &emsp;(2) subject to those regulations applicable to the Academy governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation, except as may otherwise be prescribed by the Secretary.
 
-(Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304; amended Pub. L. 94–468, Oct. 11, 1976, 90 Stat. 2002.)
+(Added Pub. L. 91–278, §1(6), June 12, 1970, 84 Stat. 304; amended Pub. L. 94–468, Oct. 11, 1976, 90 Stat. 2002; Pub. L. 112–213, title II, §204, Dec. 20, 2012, 126 Stat. 1543.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–213 substituted “foreign national” for “person” in two places and “pay, allowances, and emoluments” for “pay and allowances” in two places.
+
+Subsec. (d). Pub. L. 112–213, §204(1), substituted “foreign national” for “person” in introductory provisions.
 
 <b>1976</b>—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
 

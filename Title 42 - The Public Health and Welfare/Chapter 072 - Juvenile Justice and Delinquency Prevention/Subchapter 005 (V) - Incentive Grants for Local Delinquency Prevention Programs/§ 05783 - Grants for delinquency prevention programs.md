@@ -92,7 +92,7 @@ Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in t
 
 #### Codification
 
-Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18,Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

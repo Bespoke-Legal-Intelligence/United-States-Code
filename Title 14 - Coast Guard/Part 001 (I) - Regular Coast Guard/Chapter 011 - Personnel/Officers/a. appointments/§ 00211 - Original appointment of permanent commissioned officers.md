@@ -18,9 +18,13 @@
 
 (c) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §217(a), July 11, 2006, 120 Stat. 525.)
+(d) For the purposes of this section, the term “original”, with respect to the appointment of a member of the Coast Guard, refers to that member's most recent appointment in the Coast Guard that is neither a promotion nor a demotion.
+
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §217(a), July 11, 2006, 120 Stat. 525; Pub. L. 112–213, title II, §206, Dec. 20, 2012, 126 Stat. 1546.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–213 added subsec. (d).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to Presidential appointment of commissioned officers in the Regular Coast Guard in grades of ensign or above.
 
@@ -46,5 +50,5 @@ Pub. L. 88–130, §5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–
 
 “(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 
-“(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283,284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
+“(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
 

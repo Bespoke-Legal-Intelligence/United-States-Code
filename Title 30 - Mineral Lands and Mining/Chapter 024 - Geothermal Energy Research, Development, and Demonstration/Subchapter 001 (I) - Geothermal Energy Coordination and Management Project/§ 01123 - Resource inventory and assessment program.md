@@ -1,6 +1,6 @@
 ### §1123. Resource inventory and assessment program
 
-(a) The Chairman shall initiate a resource inventory and assessment program with the objective of making regional and national appraisals of all types of geothermal resources, including identification of promising target areas for industrial exploration and development. The specific goals shall include—
+(a) The Chairman shall initiate a resource inventory and assessment program with the objective of making regional and national appraisalsof all types of geothermal resources, including identification of promising target areas for industrial exploration and development. The specific goals shall include—
 
 &emsp;(1) the improvement of geophysical, geochemical, geological, and hydrological techniques necessary for locating and evaluating geothermal resources;
 

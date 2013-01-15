@@ -28,7 +28,7 @@ The Secretary of Health and Human Services shall review existing tools and measu
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, except for subsection (c), $5,000,000 for each of fiscal years 2007 through 2011.
+There is authorized to be appropriated to carry out this section, except for subsection (c),$5,000,000 for each of fiscal years 2007 through 2011.
 
 (Pub. L. 109–450, §3, Dec. 22, 2006, 120 Stat. 3341.)
 

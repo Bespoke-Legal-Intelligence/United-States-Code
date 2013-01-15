@@ -72,5 +72,5 @@ Pub. L. 89–40 provided that the amendment made by Pub. L. 89–40 is effective
 
 #### Effective Date
 
-Section 12(d) of Pub. L. 88–664 provided that: “The amendments made by this section \[enacting this section and amending section 704 \[now 1904\] of this title\] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[Oct. 13, 1964\].”
+Pub. L. 88–664, §12(d), Oct. 13, 1964, 78 Stat. 1099, provided that: “The amendments made by this section \[enacting this section and amending section 704 \[now 1904\] of this title\] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[Oct. 13, 1964\].”
 

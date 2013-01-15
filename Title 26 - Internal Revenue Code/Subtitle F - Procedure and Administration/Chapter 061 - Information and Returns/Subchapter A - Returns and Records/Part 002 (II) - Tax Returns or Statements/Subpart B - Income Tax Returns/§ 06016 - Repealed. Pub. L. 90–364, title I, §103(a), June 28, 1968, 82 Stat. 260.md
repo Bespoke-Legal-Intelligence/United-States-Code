@@ -1,6 +1,6 @@
 ### \[§6016. Repealed. Pub. L. 90–364, title I, §103(a), June 28, 1968, 82 Stat. 260\]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 738; Feb. 26, 1964, Pub. L. 88–272, title I, §122(d), 78 Stat. 29, Nov. 13, 1966, Pub. L. 89–809, title I, §104(<i>l</i>), 80 Stat. 1563, provided for the declaration of estimated income tax by corporations.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 738; Feb. 26, 1964, Pub. L. 88–272, title I, §122(d), 78 Stat. 29, Nov. 13, 1966, Pub. L. 89–809, title I, §104(l), 80 Stat. 1563, provided for the declaration of estimated income tax by corporations.
 
 #### Effective Date of Repeal
 

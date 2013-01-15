@@ -28,15 +28,15 @@ Period of time prior to Oct. 3, 1978, disregarded in application of amendment to
 
 #### Effective Date of 1938 Amendment
 
-Section 23(b) of act June 25, 1938, provided as follows: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
+Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
 
 #### Extension of Three-Year Period
 
 For extension of three year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under section 1318 of this title.
 
-Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133, 61 Stat. 1047, was superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
+Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133,61 Stat. 1047, was superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding proceeds of unclaimed merchandise (Customs) (2x326)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding proceeds of unclaimed merchandise (Customs) (2x326)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

@@ -40,5 +40,5 @@ When used in this chapter the term—
 
 #### “Secretary” Defined
 
-Section 2 of Pub. L. 95–625 provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
+Pub. L. 95–625, §2, Nov. 10, 1978, 92 Stat. 3470, provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
 

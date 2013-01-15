@@ -70,7 +70,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 (2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner as the individual from whom the entitlement was transferred.
 
-(3)(A) Subject to subparagraph (B), the monthly rate of educational assistance payable to a dependent to whom entitlement is transferredunder this section shall be the monthly amount payable under sections 3015 and 3022 of this title to the individual making the transfer.
+(3)(A) Subject to subparagraph (B), the monthly rate of educational assistance payable to a dependent to whom entitlement is transferred under this section shall be the monthly amount payable under sections 3015 and 3022 of this title to the individual making the transfer.
 
 (B) The monthly rate of assistance payable to a dependent under subparagraph (A) shall be subject to the provisions of section 3032 of this title, except that the provisions of subsection (a)(1) of that section shall not apply even if the individual making the transfer to the dependent under this section is on active duty during all or any part of enrollment period of the dependent in which such entitlement is used.
 
@@ -110,7 +110,7 @@ Regulations.—The Secretary of Defense, in coordination with the Secretary of V
 
 &emsp;(4) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-(<i>l</i>)
+(l)
 
 Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in this section, the term “Secretary concerned” means—
 
@@ -130,7 +130,7 @@ A prior section 3020 was renumbered section 5120 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (<i>l</i>), (m). Pub. L. 112–81 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which required the Secretary of Defense to submit an annual report on approved transfers of entitlement to basic educational assistance.
+<b>2011</b>—Subsecs. (l), (m). Pub. L. 112–81 redesignated subsec. (m) as (l) and struck out former subsec. (l) which required the Secretary of Defense to submit an annual report on approved transfers of entitlement to basic educational assistance.
 
 <b>2008</b>—Pub. L. 110–252, §5006(a)(1), substituted “Authority to transfer unused education benefits to family members for career service members” for “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills” in section catchline.
 
@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 110–252, §5006(a)(2), added subsec. (d) and struck out f
 
 Subsec. (f)(1). Pub. L. 110–252, §5006(a)(3), substituted “only while” for “without regard to whether”.
 
-Subsec. (f)(2)(A). Pub. L. 110–252, §5006(a)(4), inserted “as long as the individual is serving on active duty oras a member of the Selected Reserve” after “so transferred”.
+Subsec. (f)(2)(A). Pub. L. 110–252, §5006(a)(4), inserted “as long as the individual is serving on active duty or as a member of the Selected Reserve” after “so transferred”.
 
 Subsec. (f)(3). Pub. L. 110–252, §5006(a)(5), added par. (3).
 

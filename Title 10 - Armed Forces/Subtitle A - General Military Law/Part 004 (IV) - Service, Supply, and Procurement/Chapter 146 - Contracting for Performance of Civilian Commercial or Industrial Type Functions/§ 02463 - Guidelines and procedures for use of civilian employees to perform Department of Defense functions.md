@@ -2,7 +2,7 @@
 
 (a)
 
-Guidelines Required.—(1) The Under Secretary of Defense for Personnel and Readiness shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Department of Defense civilian employees to perform new functions andfunctions that are performed by contractors and could be performed by Department of Defense civilian employees. The Secretary of a military department may prescribe supplemental regulations, if the Secretary determines such regulations are necessary for implementing such guidelines within that military department.
+Guidelines Required.—(1) The Under Secretary of Defense for Personnel and Readiness shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Department of Defense civilian employees to perform new functions and functions that are performed by contractors and could be performed by Department of Defense civilian employees. The Secretary of a military department may prescribe supplemental regulations, if the Secretary determines such regulations are necessary for implementing such guidelines within that military department.
 
 (2) The guidelines and procedures required under paragraph (1) may not include any specific limitation or restriction on the number of functions or activities that may be converted to performance by Department of Defense civilian employees.
 
@@ -80,7 +80,7 @@ Definitions.—In this section:
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 109–163, div. A, title III, §343, Jan. 6,2006, 119 Stat. 3200, which was set out as a note under section 2461 of this title, prior to repeal by Pub. L. 110–181, div. A, title III, §324(c), Jan. 28, 2008, 122 Stat. 61.
+Provisions similar to those in this section were contained in Pub. L. 109–163, div. A, title III, §343, Jan. 6, 2006, 119 Stat. 3200, which was set out as a note under section 2461 of this title, prior to repeal by Pub. L. 110–181, div. A, title III, §324(c), Jan. 28, 2008, 122 Stat. 61.
 
 A prior section 2463, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1301(14), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 105–85, div. A, title III, §385(a), Nov. 18, 1997, 111 Stat. 1712, related to collection and retention of cost information data on the conversion of services and functions of the Department of Defense to or from contractor performance, prior to repeal by Pub. L. 109–163, div. A, title III, §341(f), Jan. 6, 2006, 119 Stat. 3199.
 

@@ -86,7 +86,7 @@ Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out “the progress develo
 
 Subsec. (a)(2)(F). Pub. L. 97–113, §733(3), added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
+Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding anyunpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
 
 Subsec. (a)(7). Pub. L. 97–113, §733(5), struck out “and” after the semicolon.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1972 Amendment
 
-Section 304(c)(3) of Pub. L. 92–226 provided that: “The provisions of this subsection \[amending this section and section 2403 of this title\] and section 657 of such Act \[section 2417 of this title\], as added by subsection (b) of this Act \[this section\], shall apply with respect to each fiscal year commencing on or after July 1, 1971.”
+Pub. L. 92–226, pt. III, §304(c)(3), Feb. 7, 1972, 86 Stat. 32, provided that: “The provisions of this subsection \[amending this section and section 2403 of this title\] and section 657 of such Act \[section 2417 of this title\], as added by subsection (b) of this Act \[this section\], shall apply with respect to each fiscal year commencing on or after July 1, 1971.”
 
 #### Effective Date of 1968 Amendment
 

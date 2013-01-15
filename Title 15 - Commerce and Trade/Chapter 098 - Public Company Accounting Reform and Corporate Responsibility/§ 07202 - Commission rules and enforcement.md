@@ -32,5 +32,5 @@ The Securities Exchange Act of 1934, referred to in subsec. (b)(1), is act June 
 
 #### Codification
 
-Section is comprised of section 3 of Pub. L. 107–204. Subsec. (b)(2)–(4) of section 3 of Pub. L. 107–204 amended sections 78<i>l</i>, 78u, and 78u–3 of this title.
+Section is comprised of section 3 of Pub. L. 107–204. Subsec. (b)(2)–(4) of section 3 of Pub. L. 107–204 amended sections 78l, 78u, and 78u–3 of this title.
 

@@ -34,15 +34,11 @@ No interest shall be allowed on any overpayment attributable to this section.
 
 (Added Pub. L. 108–27, title I, §101(b)(1), May 28, 2003, 117 Stat. 753.)
 
-#### Termination of Section
-
-<i>For termination of section by section 107 of Pub. L. 108–27, see Termination Date note below.</i>
-
 #### Prior Provisions
 
-A prior section 6429, added Pub. L. 96–499, title XI, §1131(a)(1), Dec. 5, 1980, 94 Stat. 2691; amended Pub. L. 97–34, title VI, §601(a)(1)–(5), Aug. 13, 1981, 95 Stat. 335, 336; Pub. L. 97–448, title I, §106(a)(1), (3), Jan. 12, 1983, 96 Stat. 2387, 2388, related to credit and refund of chapter 45 windfall profit taxes on domestic crude oil paid by royalty owners, prior to repeal by Pub. L. 100–418, title I, §1941(b)(1), (c), Aug. 23, 1988, 102 Stat. 1323, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+A prior section 6429, added Pub. L. 96–499, title XI, §1131(a)(1), Dec. 5, 1980, 94 Stat. 2691; amended Pub. L. 97–34, title VI, §601(a)(1)–(5), Aug. 13, 1981, 95 Stat. 335, 336; Pub. L. 97–448, title I, §106(a)(1), (3), Jan. 12, 1983, 96Stat. 2387, 2388, related to credit and refund of chapter 45 windfall profit taxes on domestic crude oil paid by royalty owners, prior to repeal by Pub. L. 100–418, title I, §1941(b)(1), (c), Aug. 23, 1988, 102 Stat. 1323, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
 #### Termination Date
 
-Amendments by title I of Pub. L. 108–27, enacting this section, subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendments by title I of Pub. L. 108–27, enacting this section, subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 

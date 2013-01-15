@@ -24,15 +24,15 @@ For definition of Canal Zone, referred to in subsec. (e), see section 3602(b) of
 
 #### Effective Date
 
-Section 14 of act Sept. 7, 1950, provided: “This Act \[this chapter\] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior to the date of approval of this Act \[Sept. 7, 1950\] in which case this Act \[this chapter\] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
+Act Sept. 7, 1950, ch. 907, §14, 64 Stat. 780, provided: “This Act \[this chapter\] shall take effect with respect to each of the conventions upon the entry into force of that convention, unless such entry into force shall be prior to the date of approval of this Act \[Sept. 7, 1950\] in which case this Act \[this chapter\] shall take effect immediately.” The Costa Rican convention was ratified on March 3, 1950, and the Mexican convention on July 11, 1950. Therefore, the act took effect upon its approval on Sept. 7, 1950.
 
 #### Short Title
 
-Section 1 of act Sept. 7, 1950, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Tuna Conventions Act of 1950’.”
+Act Sept. 7, 1950, ch. 907, §1, 64 Stat. 777, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Tuna Conventions Act of 1950’.”
 
 #### Separability
 
-Section 13 of act Sept. 7, 1950, provided: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Act Sept. 7, 1950, ch. 907, §13, 64 Stat. 780, provided: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

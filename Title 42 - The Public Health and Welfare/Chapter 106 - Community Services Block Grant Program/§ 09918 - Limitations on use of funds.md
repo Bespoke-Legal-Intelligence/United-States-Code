@@ -4,7 +4,7 @@
 
 #### (1) Limitations
 
-&emsp;Except as provided in paragraph (2), grants made under this chapter (other than amountsreserved under section 9903(b)(3) of this title) may not be used by the State, or by any other person with which the State makes arrangements to carry out the purposes of this chapter, for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than low-cost residential weatherization or other energy-related home repairs) of any building or other facility.
+&emsp;Except as provided in paragraph (2), grants made under this chapter (other than amounts reserved under section 9903(b)(3) of this title) may not be used by the State, or by any other person with which the State makes arrangements to carry out the purposes of this chapter, for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than low-cost residential weatherization or other energy-related home repairs) of any building or other facility.
 
 #### (2) Waiver
 

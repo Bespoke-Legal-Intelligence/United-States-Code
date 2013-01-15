@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevantcapital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -598,7 +598,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate, review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section).
 
-#### (<i>l</i>) Implementation
+#### (l) Implementation
 
 #### (1) Regulations and other actions
 
@@ -654,7 +654,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
 
-#### (<i>o</i>) Transition rules for savings associations
+#### (o) Transition rules for savings associations
 
 Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
 
@@ -668,7 +668,7 @@ Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI,§1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### References in Text
 
@@ -712,7 +712,7 @@ Subsec. (k)(2)(A)(ii). Pub. L. 109–173, §8(a)(38)(C), substituted “the outl
 
 Subsec. (k)(3)(B). Pub. L. 109–173, §8(a)(38)(C), substituted “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays”.
 
-Subsec. (<i>o</i>). Pub. L. 109–173, §8(a)(39), struck out heading and text of par. (1) and designation and heading of par. (2), redesignated former subpars. (A) to (C) of par. (2) as pars. (1) to (3), respectively, and former cls. (i) and (ii) of par. (2)(A) as subpars. (A) and (B) of par. (1), respectively, and realigned margins. Prior to amendment, text of par. (1) read as follows:
+Subsec. (o). Pub. L. 109–173, §8(a)(39), struck out heading and text of par. (1) and designation and heading of par. (2), redesignated former subpars. (A) to (C) of par. (2) as pars. (1) to (3), respectively, and former cls. (i) and (ii) of par. (2)(A) as subpars. (A) and (B) of par. (1), respectively, and realigned margins. Prior to amendment, text of par. (1) read as follows:
 
 “(A)
 
@@ -736,7 +736,7 @@ Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally
 
 &emsp;“(B) verify the accuracy of 1 or more of those reports.”
 
-Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (<i>o</i>) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (o). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (o) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
 
@@ -770,7 +770,7 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 
 #### Regulations
 
-Section 131(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
+Pub. L. 102–242, title I, §131(b), Dec. 19, 1991, 105 Stat. 2266, provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
 
 #### Deposit of Insurance Proceeds
 
@@ -778,7 +778,7 @@ Pub. L. 105–18, title V, §50003, June 12, 1997, 111 Stat. 211, provided that:
 
 “(a)
 
-In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution's total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—
+In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution's total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—
 
 &emsp;“(1) the institution—
 
@@ -810,7 +810,7 @@ Insured depository institution.—The term ‘insured depository institution’ 
 
 &emsp;“(3)
 
-Leverage limit.—The term ‘leverage limit’ has the same meaning as in section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\].
+Leverage limit.—The term ‘leverage limit’ has the same meaning as in section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\].
 
 &emsp;“(4)
 
@@ -824,11 +824,11 @@ Pub. L. 102–485, §4, Oct. 23, 1992, 106 Stat. 2772.
 
 #### Transition Rule Regarding Current Directors and Senior Executive Officers
 
-Section 131(e) of Pub. L. 102–242 provided that:
+Pub. L. 102–242, title I, §131(e), Dec. 19, 1991, 105 Stat. 2267, provided that:
 
 “(1)
 
-Dismissal from office.—Section 38(f)(2)(F)(ii) of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>(f)(2)(F)(ii)\] (as added by subsection (a)) shall not apply with respect to—
+Dismissal from office.—Section 38(f)(2)(F)(ii) of the Federal Deposit Insurance Act \[12 U.S.C. 1831o(f)(2)(F)(ii)\] (as added by subsection (a)) shall not apply with respect to—
 
 &emsp;“(A) any director whose current term as a director commenced on or before the date of enactment of this Act \[Dec. 19, 1991\] and has not been extended—
 
@@ -844,7 +844,7 @@ Dismissal from office.—Section 38(f)(2)(F)(ii) of the Federal Deposit Insuranc
 
 “(2)
 
-Restricting compensation.—Section 38(f)(4) of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>(f)(4)\] (as added by subsection (a)) shall not apply with respect to any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act \[Dec. 19, 1991\] and whose contract of employment has not been renewed or renegotiated—
+Restricting compensation.—Section 38(f)(4) of the Federal Deposit Insurance Act \[12 U.S.C. 1831o(f)(4)\] (as added by subsection (a)) shall not apply with respect to any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act \[Dec. 19, 1991\] and whose contract of employment has not been renewed or renegotiated—
 
 &emsp;“(A) after that date of enactment, or
 

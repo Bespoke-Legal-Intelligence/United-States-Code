@@ -16,7 +16,7 @@ Subject to subsections (g), (i), and (j) of this section, the State plan shall p
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
-&emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title); and
+&emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
 
 &emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -30,19 +30,19 @@ The State plan shall provide that in the case of individuals other than those de
 
 &emsp;&emsp;(A) services furnished to individuals under 18 years of age (and, at the option of the State, individuals under 21, 20, or 19 years of age, or any reasonable category of individuals 18 years of age or over),
 
-&emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title) and covered outpatient drugs (as defined in subsection (k)(2) of section 1396r–8 of this title and including nonprescription drugs described in subsection (d)(2) of such section) that areprescribed for purposes of promoting, and when used to promote, tobacco cessation by pregnant women in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title (or, at the option of the State, any services furnished to pregnant women),
+&emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title) and covered outpatient drugs (as defined in subsection (k)(2) of section 1396r–8 of this title and including nonprescription drugs described in subsection (d)(2) of such section) that are prescribed for purposes of promoting, and when used to promote, tobacco cessation by pregnant women in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title (or, at the option of the State, any services furnished to pregnant women),
 
 &emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
-&emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title); and
+&emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
 
 &emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
 #### (c) Imposition of monthly premium; persons affected; amount; prepayment; failure to pay; use of funds from other programs
 
-(1) The State plan of a State may at the option of the State provide for imposing a monthly premium (in an amount that does not exceed the limit established under paragraph (2)) with respect to an individual described in subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title who is receiving medical assistance on the basis of section 1396a(a)(10)(A)(ii)(IX) of this title and whose family income (as determined in accordance with the methodology specified in section 1396a(<i>l</i>)(3) of this title) equals or exceeds 150 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+(1) The State plan of a State may at the option of the State provide for imposing a monthly premium (in an amount that does not exceed the limit established under paragraph (2)) with respect to an individual described in subparagraph (A) or (B) of section 1396a(l)(1) of this title who is receiving medical assistance on the basis of section 1396a(a)(10)(A)(ii)(IX) of this title and whose family income (as determined in accordance with the methodology specified in section 1396a(l)(3) of this title) equals or exceeds 150 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 (2) In no case may the amount of any premium imposed under paragraph (1) exceed 10 percent of the amount by which the family income (less expenses for the care of a dependent child) of an individual exceeds 150 percent of the line described in paragraph (1).
 
@@ -60,7 +60,7 @@ The State plan shall require that no provider participating under the State plan
 
 #### (f) Charges imposed under waiver authority of Secretary
 
-No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) of this section and section 1396<i>o</i>–1 of this title, unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
+No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) of this section and section 1396o–1 of this title, unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
 
 &emsp;(1) will test a unique and previously untested use of copayments,
 
@@ -80,7 +80,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 &emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set on a sliding scale based on income that the State may determine; and
 
-&emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
+&emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of suchan individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
 
 &emsp;(2) such State shall require payment of 100 percent of such premiums for a year by such an individual whose adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) for such year exceeds $75,000, except that a State may choose to subsidize such premiums by using State funds which may not be federally matched under this subchapter.
 
@@ -88,7 +88,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 #### (h) Indexing nominal cost sharing
 
-In applying this section and subsections (c) and (e) of section 1396<i>o</i>–1 of this title, with respect to cost sharing that is “nominal” in amount, the Secretary shall increase such “nominal” amounts for each year (beginning with 2006) by the annual percentage increase in the medical care component of the consumer price index for all urban consumers (U.S. city average) as rounded up in an appropriate manner.
+In applying this section and subsections (c) and (e) of section 1396o–1 of this title, with respect to cost sharing that is “nominal” in amount, the Secretary shall increase such “nominal” amounts for each year (beginning with 2006) by the annual percentage increase in the medical care component of the consumer price index for all urban consumers (U.S. city average) as rounded up in an appropriate manner.
 
 #### (i) State option to impose income-related premiums for families of disabled children
 
@@ -122,7 +122,7 @@ In applying this section and subsections (c) and (e) of section 1396<i>o</i>–1
 
 &emsp;Nothing in this subsection shall be construed as restricting the application of any other limitations on the imposition of premiums or cost sharing that may apply to an individual receiving medical assistance under this subchapter who is an Indian.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98; Pub. L. 111–5, div. B, title V, §5006(a)(1), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–148, title IV, §4107(c)(1), Mar. 23, 2010, 124 Stat. 561.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98; Pub. L. 111–5, div. B, title V, §5006(a)(1), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–148, title IV, §4107(c)(1), Mar. 23, 2010, 124 Stat. 561.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Subsec. (j). Pub. L. 111–5, §5006(a)(1)(B), added subsec. (j).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §6062(b)(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
 
-Subsec. (f). Pub. L. 109–171, §6041(b)(1), inserted “and section 1396<i>o</i>–1 of this title” after “(b)(3) of this section”.
+Subsec. (f). Pub. L. 109–171, §6041(b)(1), inserted “and section 1396o–1 of this title” after “(b)(3) of this section”.
 
 Subsec. (h). Pub. L. 109–171, §6041(b)(2), added subsec. (h).
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VI, §6041(c), Feb. 8, 2006, 120 Stat. 85, provided that: “The amendments made by this section \[enacting section 1396<i>o</i>–1 of this title and amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006.”
+Pub. L. 109–171, title VI, §6041(c), Feb. 8, 2006, 120 Stat. 85, provided that: “The amendments made by this section \[enacting section 1396o–1 of this title and amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006.”
 
 Amendment by section 6062(b) of Pub. L. 109–171 applicable to medical assistance for items and services furnished on or after Jan. 1, 2007, see section 6062(d) of Pub. L. 109–171, set out as a note under section 1396a of this title.
 
@@ -208,13 +208,13 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4101(d)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1988.”
+Pub. L. 100–203, title IV, §4101(d)(2), Dec. 22, 1987, 101 Stat. 1330–142, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1988.”
 
 Amendment by section 4211(h)(11) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to payments under this subchapter for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date, see section 9403(h) of Pub. L. 99–509, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 99–509 applicable to payments under this subchapter for calendar quarters beginningon or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date, see section 9403(h) of Pub. L. 99–509, set out as a note under section 1396a of this title.
 
 Amendment by Pub. L. 99–272 applicable to medical assistance provided for hospice care furnished on or after Apr. 7, 1986, see section 9505(e) of Pub. L. 99–272, set out as a note under section 1396a of this title.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date
 
-Section 131(d), formerly §131(c), of Pub. L. 97–248, redesignated by section 309(a)(8) of Pub. L. 97–448, provided that:
+Pub. L. 97–248, title I, §131(d), formerly §131(c), Sept. 3, 1982, 96 Stat. 370, redesignated by Pub. L. 97–448, title III, §309(a)(8), Jan. 12, 1983, 96 Stat. 2408, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall become effective on October 1, 1982.
 

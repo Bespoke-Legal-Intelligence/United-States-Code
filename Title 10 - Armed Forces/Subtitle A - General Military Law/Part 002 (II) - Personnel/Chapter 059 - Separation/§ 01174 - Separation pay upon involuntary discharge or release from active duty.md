@@ -8,7 +8,7 @@ Regular Officers.—(1) A regular officer who is discharged under chapter 36 of 
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separationpay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
+(4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
 
 (b)
 
@@ -206,13 +206,13 @@ Amendment by Pub. L. 105–261 applicable with respect to selection boards conve
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 105–178, title VIII, §8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program under section 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
+Pub. L. 105–178, title VIII, §8208, June 9, 1998, 112 Stat. 495, provided that: “The amendment made by section 653 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2583) to subsection (h)(2) of section 1174 of title 10, United States Code, shall apply to any payment of separation pay under the special separation benefits program undersection 1174a of that title that was made during the period beginning on December 5, 1991, and ending on September 30, 1996.”
 
-Section 653(b) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and shall apply to payments of separation pay, severance pay, or readjustment pay that are made after September 30, 1996.”
+Pub. L. 104–201, div. A, title VI, §653(b), Sept. 23, 1996, 110 Stat. 2583, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and shall apply to payments of separation pay, severance pay, or readjustment pay that are made after September 30, 1996.”
 
 #### Effective Date of 1993 Amendment
 
-Section 501(b) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title V, §501(b), Nov. 30, 1993, 107 Stat. 1644, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to any regular officer who is discharged after the date of the enactment of this Act \[Nov. 30, 1993\].
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Section 501(e) of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title V, §501(e), Nov. 5, 1990, 104 Stat. 1550, provided that:
 
 “(1) Except as provided in paragraph (2), subsection (b) of section 1174 of title 10, United States Code, as added by subsection (a), and the amendments made by subsections (b), (c), and (d) \[amending this section\] shall apply with respect to a member of the Armed Forces who is discharged, or released from active duty, after the date of the enactment of this Act \[Nov. 5, 1990\].
 
@@ -232,13 +232,13 @@ Section 501(e) of Pub. L. 101–510 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 911(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, §911(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1983.”
 
-Section 923(g) of Pub. L. 98–94 provided that: “The amendments made by this section \[amending this section and sections 1401, 1402, 1402a, 3991, 3992, 6151, 6328, 6330, 6404, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, and section 212 of Title 42, The Public Health and Welfare\] shall apply with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after September 30, 1983, and (2) the recomputation of retired pay under section 1402, 1402a, 3992, or 8992 of title 10, United States Code, of any individual who after September 30, 1983, becomes entitled to recompute retired pay under any such section.”
+Pub. L. 98–94, title IX, §923(g), Sept. 24, 1983, 97 Stat. 644, provided that: “The amendments made by this section \[amending this section and sections 1401, 1402, 1402a, 3991, 3992, 6151, 6328, 6330, 6404, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and section 212 of Title 42, The Public Health and Welfare\] shall apply with respect to (1) the computation of retired or retainer pay of any individual who becomes entitled to that pay after September 30, 1983, and (2) the recomputation of retired pay under section 1402, 1402a, 3992, or 8992 of title 10, United States Code, of any individual who after September 30, 1983, becomes entitled to recompute retired pay under any such section.”
 
 #### Effective Date of 1981 Amendment
 
-Section 10(b) of Pub. L. 97–22 provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, §10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date
 

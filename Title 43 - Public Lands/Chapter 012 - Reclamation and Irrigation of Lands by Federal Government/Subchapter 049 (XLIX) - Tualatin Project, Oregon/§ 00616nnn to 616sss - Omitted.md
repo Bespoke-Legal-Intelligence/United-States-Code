@@ -4,7 +4,7 @@
 
 Section 616nnn, Pub. L. 89–596, §1, Sept. 20, 1966, 80 Stat. 822, authorized construction, operation, and maintenance of Tualatin project, Oregon.
 
-Section 616<i>ooo</i>, Pub. L. 89–596, §2, Sept. 20, 1966, 80 Stat. 822, related to irrigation repayment contracts, period of repayment, and charges for power and energy.
+Section 616ooo, Pub. L. 89–596, §2, Sept. 20, 1966, 80 Stat. 822, related to irrigation repayment contracts, period of repayment, and charges for power and energy.
 
 Section 616ppp, Pub. L. 89–596, §3, Sept. 20, 1966, 80 Stat. 822, related to conservation and development of fish and wildlife and enhancement of recreational facilities in connection with this project.
 

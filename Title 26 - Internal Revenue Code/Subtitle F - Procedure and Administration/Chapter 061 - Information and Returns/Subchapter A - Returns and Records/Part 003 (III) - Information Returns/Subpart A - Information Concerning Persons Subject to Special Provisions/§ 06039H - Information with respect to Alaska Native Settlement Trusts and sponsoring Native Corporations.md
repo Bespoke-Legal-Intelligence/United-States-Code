@@ -16,7 +16,7 @@ The information required under this subsection shall include—
 
 &emsp;(2) the treatment of such distribution under the applicable provision of section 646, including the amount that is excludable from the recipient beneficiary's gross income under section 646, and
 
-&emsp;(3) the amount (if any) of any distribution during such year that is deemed to have beenmade by the sponsoring Native Corporation (as defined in section 646(h)(5)).
+&emsp;(3) the amount (if any) of any distribution during such year that is deemed to have been made by the sponsoring Native Corporation (as defined in section 646(h)(5)).
 
 #### (d) Sponsoring Native Corporation
 
@@ -30,13 +30,7 @@ The information required under this subsection shall include—
 
 (Added Pub. L. 107–16, title VI, §671(b), June 7, 2001, 115 Stat. 147.)
 
-#### Termination of Section
-
-<i>For termination of section by section 901 of Pub. L. 107–16, see Effective and Termination Dates note below.</i>
-
-#### Effective and Termination Dates
+#### Effective Date
 
 Section applicable to taxable years ending after June 7, 2001, and to contributions made to electing Settlement Trusts for such year or any subsequent year, see section 671(d) of Pub. L. 107–16, set out as a note under section 646 of this title.
-
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

@@ -10,5 +10,5 @@
 
 #### Effective Date
 
-Section 2 of Pub. L. 85–263 provided that: “This Act \[enacting this section\] takes effect on the first day of the first month after the month in which it is enacted \[September 1957\].”
+Pub. L. 85–263, §2, Sept. 2, 1957, 71 Stat. 589, provided that: “This Act \[enacting this section\] takes effect on the first day of the first month after the month in which it is enacted \[September 1957\].”
 

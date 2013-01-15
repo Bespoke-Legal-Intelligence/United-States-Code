@@ -4,7 +4,7 @@
 
 #### (1) Income other than capital gains
 
-&emsp;Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a nonresident alien individual as—
+&emsp;Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of30 percent of the amount received from sources within the United States by a nonresident alien individual as—
 
 &emsp;&emsp;(A) interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
 
-> &emsp;but only to the extent the amount so received is not effectively connected with the conductof a trade or business within the United States.
+> &emsp;but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
@@ -54,7 +54,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;A nonresident alien individual who during the taxable year derives any income—
 
-&emsp;&emsp;(A) from real property held for the production of income and located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of such real property or an interest therein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
+&emsp;&emsp;(A) from real property held for the production of income and located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of such real property or an interesttherein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income which is effectively connected with the conduct of a trade or business within the United States,
 
@@ -74,7 +74,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 #### (1) In general
 
-&emsp;For purposes of this section, gross income does not include any amount received as anannuity under a qualified annuity plan described in section 403(a)(1), or from a qualified trust described in section 401(a) which is exempt from tax under section 501(a), if—
+&emsp;For purposes of this section, gross income does not include any amount received as an annuity under a qualified annuity plan described in section 403(a)(1), or from a qualified trust described in section 401(a) which is exempt from tax under section 501(a), if—
 
 &emsp;&emsp;(A) all of the personal services by reason of which the annuity is payable were either—
 
@@ -222,7 +222,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;&emsp;(II) the yield on property described in subclause (I), other than a debt instrument that pays interest described in subparagraph (A), or stock or other property that represents a beneficial interest in the debtor or a related person, or
 
-&emsp;&emsp;&emsp;&emsp;(III) changes in any index of the value of property described in subclause (I) or of the yield on property described in subclause (II), and
+&emsp;&emsp;&emsp;&emsp;(III) changes in any index of the value of property described in subclause (I) orof the yield on property described in subclause (II), and
 
 &emsp;&emsp;&emsp;(vi) any other type of interest identified by the Secretary by regulation.
 
@@ -366,7 +366,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term “interest related dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2011.
+&emsp;&emsp;&emsp;The term “interest related dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
 
 #### (D) Qualified net interest income
 
@@ -378,7 +378,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 &emsp;&emsp;&emsp;(i) Any amount includible in gross income as original issue discount (within the meaning of section 1273) on an obligation payable 183 days or less from the date of original issue (without regard to the period held by the company).
 
-&emsp;&emsp;&emsp;(ii) Any interest includible in gross income (including amounts recognized as ordinary income in respect of original issue discount or market discount or acquisition discount under part V of subchapter P and such other amounts as regulations may provide) on an obligation which is in registered form; except that this clause shall not apply to—
+&emsp;&emsp;&emsp;(ii) Any interest includible in gross income (including amounts recognized as ordinary income in respect of original issue discount or market discount or acquisition discount under part V of subchapter P and such other amounts as regulations mayprovide) on an obligation which is in registered form; except that this clause shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) any interest on an obligation issued by a corporation or partnership if the regulated investment company is a 10-percent shareholder in such corporation or partnership, and
 
@@ -450,7 +450,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term “short-term capital gain dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2011.
+&emsp;&emsp;&emsp;The term “short-term capital gain dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
 
 #### (D) Qualified short-term gain
 
@@ -464,7 +464,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 &emsp;&emsp;&emsp;(ii) shall be included in such shareholder's gross income as a dividend from the regulated investment company.
 
-#### (<i>l</i>) Rules relating to existing 80/20 companies
+#### (l) Rules relating to existing 80/20 companies
 
 For purposes of this subsection and subsection (i)(2)(B)—
 
@@ -540,7 +540,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), sections 881 and 4948(a), and chapters 3 and 4, a dividend equivalent shall be treated as a dividend from sources within the United States.
+&emsp;For purposes of subsection (a), sections 881 and 4948(a), and chapters 3 and 4, a dividendequivalent shall be treated as a dividend from sources within the United States.
 
 #### (2) Dividend equivalent
 
@@ -614,7 +614,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV,§§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332.)
 
 #### References in Text
 
@@ -624,11 +624,13 @@ Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 93
 
 The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The date of the enactment of this subsection, referred to in subsec. (<i>l</i>)(1)(A)(i), (iii), (B)(iv)(I)(aa), is the date of enactment of Pub. L. 111–226, which was approved Aug. 10, 2010.
+The date of the enactment of this subsection, referred to in subsec. (l)(1)(A)(i), (iii), (B)(iv)(I)(aa), is the date of enactment of Pub. L. 111–226, which was approved Aug. 10, 2010.
 
 The date of the enactment of this subsection, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (k)(1)(C)(v), (2)(C)(v). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (h)(2). Pub. L. 111–147, §502(b)(1), amended par. (2) generally. Prior to amendment, par. (2) defined portfolio interest to also include interest on certain obligations not in registered form.
 
@@ -652,17 +654,17 @@ Subsec. (k)(2)(D). Pub. L. 111–325, §308(b)(3), substituted “For purposes o
 
 &emsp;“(i) the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain, and
 
-&emsp;“(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital loss for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
+&emsp;“(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital lossfor a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
 
 > To the extent provided in regulations, clause (ii) shall apply also for purposes of computing the taxable income of the regulated investment company.”
 
-Subsec. (<i>l</i>). Pub. L. 111–226, §217(b)(2), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 111–226, §217(b)(2), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Pub. L. 111–147, §541(a), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Pub. L. 111–147, §541(a), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 111–226, §217(b)(2), redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 111–226, §217(b)(2), redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
-Pub. L. 111–147, §541(a), redesignated subsec. (<i>l</i>) as (m).
+Pub. L. 111–147, §541(a), redesignated subsec. (l) as (m).
 
 Subsec. (n). Pub. L. 111–226, §217(b)(2), redesignated subsec. (m) as (n).
 
@@ -672,7 +674,7 @@ Subsec. (n). Pub. L. 111–226, §217(b)(2), redesignated subsec. (m) as (n).
 
 <b>2004</b>—Subsec. (i)(2)(D). Pub. L. 108–357, §409(a), added subpar. (D).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 108–357, §411(a)(1), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 108–357, §411(a)(1), added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 inserted opening parenthesis before “19 U.S.C.”.
 
@@ -768,7 +770,7 @@ Subsec. (g)(7). Pub. L. 94–455, §1012(a)(2), added par. (7).
 
 Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, and added cls. (ii) and (iii).
 
-<b>1966</b>—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the UnitedStates, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
+<b>1966</b>—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
 
 Subsec. (c). Pub. L. 89–809 redesignated subsec. (d) as (c) and inserted provisions that any income described in section 1441(b)(1) or (2) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States. Substance of former subsec. (c) revised and incorporated into subsecs. (a) and (b).
 
@@ -787,6 +789,10 @@ Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted “$1
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §320(b), Jan. 2, 2013, 126 Stat. 2332, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 
@@ -840,17 +846,17 @@ Amendment by section 1401(b)(10) of Pub. L. 104–188 applicable to taxable year
 
 Amendment by section 1954(b)(1) of Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of Title 19, Customs Duties.
 
-#### Effective Date of 1994 Amendments
+#### Effective Date of 1994 Amendment
 
-Section 733(b) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date.”
+Pub. L. 103–465, title VII, §733(b), Dec. 8, 1994, 108 Stat. 5006, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date.”
 
-Section 320(c) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §320(c), Aug. 15, 1994, 108 Stat. 1535, provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13113(d)(5) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
-Section 13237(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13237(d), Aug. 10, 1993, 107 Stat. 508, provided that: “The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993.”
 
 #### Effective Date of 1992 Amendment
 
@@ -860,9 +866,9 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 1001(d)(2)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6134(b) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[amending this section and section 1441 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6134(b), Nov. 10, 1988, 102 Stat. 3721, provided that: “The amendments made by subsection (a) \[amending this section and section 1441 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 301(b)(9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
@@ -872,13 +878,13 @@ Amendment by section 1214(c)(1) of Pub. L. 99–514 applicable to payments made 
 
 Amendment by section 1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 12103(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 99–272, title XII, §12103(c), Apr. 7, 1986, 100 Stat. 285, provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 42(a)(9) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Section 127(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6128(a), Nov. 10, 1988, 102 Stat. 3716, provided that:
+Pub. L. 98–369, div. A, title I, §127(g), July 18, 1984, 98 Stat. 652, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6128(a), Nov. 10, 1988, 102 Stat. 3716, provided that:
 
 “(1)
 
@@ -908,9 +914,9 @@ Definitions.—
 
 &emsp;&emsp;“(ii) The term ‘United States affiliate obligation’ means an obligation described in section 121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984.”
 
-\[Section 6128(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”\]
+\[Pub. L. 100–647, title VI, §6128(b), Nov. 10, 1988, 102 Stat. 3716, provided that: “The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”\]
 
-Section 128(d) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title I, §128(d), July 18, 1984, 98 Stat. 655, provided that:
 
 “(1)
 
@@ -928,11 +934,11 @@ Amendment by section 121(c)(1) of Pub. L. 98–21 applicable to benefits receive
 
 #### Effective Date of 1981 Amendment
 
-Section 725(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 6015, 6153, 6654, and 7701 of this title\] shall apply to estimated tax for taxable years beginning after December 31, 1980.”
+Pub. L. 97–34, title VII, §725(d), Aug. 13, 1981, 95 Stat. 346, provided that: “The amendments made by this section \[amending this section and sections 6015, 6153, 6654, and 7701 of this title\] shall apply to estimated tax for taxable years beginning after December 31, 1980.”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 227(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 1, 1979.”
+Pub. L. 96–605, title II, §227(b), Dec. 28, 1980, 94 Stat. 3530, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 1, 1979.”
 
 Amendment by Pub. L. 96–499 applicable to dispositions after June 18, 1980, see section 1125(a) of Pub. L. 96–499, set out as an Effective Date note under section 897 of this title.
 
@@ -956,11 +962,11 @@ Amendment by Pub. L. 93–406 applicable only with respect to distributions or p
 
 #### Effective Date of 1971 Amendment
 
-Section 313(f) of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments to section 871 and 881 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by this section shall apply with respect to taxable years beginning after December 31, 1966. The amendments to sections 1441 and 1442 of such Code made by this section shall apply with respect to payments occurring on or after April 1, 1972.”
+Pub. L. 92–178, title III, §313(f), Dec. 10, 1971, 85 Stat. 528, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments to section 871 and 881 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by this section shall apply with respect to taxable years beginning after December 31, 1966. The amendments to sections 1441 and 1442 of such Code made by this section shall apply with respect to payments occurring on or after April 1, 1972.”
 
 #### Effective Date of 1966 Amendment
 
-Section 103(n) of Pub. L. 89–809 provided that:
+Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that:
 
 “(1) The amendments made by this section (other than the amendments made by subsections (h), (i), and (k)) \[amending this section and sections 1, 116, 154, 872 to 874, 875, 932, 6015, and 7701 of this title, redesignating section 877 as 878, enacting section 877 of this title, and repealing section 1493 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.
 
@@ -986,9 +992,9 @@ Amendment by Pub. L. 86–437 applicable only with respect to taxable years begi
 
 #### Effective Date of 1958 Amendment
 
-Section 40(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 1441 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, title I, §40(c), Sept. 2, 1958, 72 Stat. 1639, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 1441 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
 
-Section 41(c) of Pub. L. 85–866 provided that: “The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §41(c), Sept. 2, 1958, 72 Stat. 1639, provided that: “The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

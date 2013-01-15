@@ -28,5 +28,5 @@ In order to pay for the increase in the United States subscription to the Bank p
 
 &emsp;(C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
 
-(Pub. L. 89–369, §27, as added Pub. L. 98–181, title X, §1002, Nov. 30, 1983, 97 Stat. 1285.)
+(Pub. L. 89–369, §27, as added Pub. L. 98–181, title I \[title X, §1002\], Nov. 30, 1983, 97 Stat. 1285.)
 

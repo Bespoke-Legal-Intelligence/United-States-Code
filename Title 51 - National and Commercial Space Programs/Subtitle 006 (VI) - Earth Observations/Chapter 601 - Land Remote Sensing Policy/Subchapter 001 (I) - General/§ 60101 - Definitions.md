@@ -82,7 +82,7 @@ United states government and its affiliated users.—The term “United States G
 
 &emsp;&emsp;(B) researchers involved with the United States Global Change Research Program and its international counterpart programs; and
 
-&emsp;&emsp;(C) other researchers and international entities that have signed with the UnitedStates Government a cooperative agreement involving the use of Landsat data for noncommercial purposes.
+&emsp;&emsp;(C) other researchers and international entities that have signed with the United States Government a cooperative agreement involving the use of Landsat data for noncommercial purposes.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3409.)
 
@@ -118,7 +118,7 @@ Pub. L. 102–555, §2, Oct. 28, 1992, 106 Stat. 4163, provided that: “The Con
 
 &emsp;“(5) Given the importance of the Landsat program to the United States, urgent actions, including expedited procurement procedures, are required to ensure data continuity.
 
-&emsp;“(6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve as the near-term goal of national policy on land remote sensing; however, commercialization of land remote sensing should remain a long-term goal of United States policy.
+&emsp;“(6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve as the near-term goal of national policy on land remote sensing; however,commercialization of land remote sensing should remain a long-term goal of United States policy.
 
 &emsp;“(7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardized United States leadership in land remote sensing.
 

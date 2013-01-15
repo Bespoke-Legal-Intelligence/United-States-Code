@@ -46,7 +46,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a) of this section, the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
 
-&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is soughtin the request, at least one of the following documents:
+&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is sought in the request, at least one of the following documents:
 
 &emsp;&emsp;&emsp;&emsp;(I) A solicitation by the local educational agency to contract with an accredited asbestos contractor for inspection or management plan development.
 
@@ -62,7 +62,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Notification and public meeting
 
-&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school, and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
+&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school,and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
 
 #### (3) Response by Governor
 

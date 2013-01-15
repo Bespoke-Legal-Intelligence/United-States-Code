@@ -16,5 +16,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Effective Date
 
-Section 2 of act Mar. 9, 1904, provided: “That this Act \[enacting this section\] shall be in force from and after its passage and approval.”
+Act Mar. 9, 1904, ch. 503, §2, 33 Stat. 64, provided: “That this Act \[enacting this section\] shall be in force from and after its passage and approval.”
 

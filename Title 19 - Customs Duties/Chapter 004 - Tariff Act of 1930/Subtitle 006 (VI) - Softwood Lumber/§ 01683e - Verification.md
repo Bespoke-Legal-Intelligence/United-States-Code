@@ -6,7 +6,7 @@ The Secretary of Treasury shall periodically verify the declarations made by a U
 
 &emsp;(1) the export price declared by a United States importer pursuant to section 1683a(b)(1) of this title is the same as the export price provided on the export permit, if any, issued by the country of export; and
 
-&emsp;(2) the estimated export charge declared by a United States importer pursuant to section 1683a(b)(2) of this title is consistent with the determination published by the Under Secretary for International Trade pursuant to section 1683c(b) of this title.
+&emsp;(2) the estimated export charge declared by a United States importer pursuant to section 1683a(b)(2) of this title is consistent with thedetermination published by the Under Secretary for International Trade pursuant to section 1683c(b) of this title.
 
 #### (b) Examination of books and records
 
@@ -16,7 +16,7 @@ The Secretary of Treasury shall periodically verify the declarations made by a U
 
 #### (2) Examination of records
 
-&emsp;The Secretary of the Treasury is authorized to take such action, and examine such records,under section 1509 of this title, as the Secretary determines necessary to verify the declarations made pursuant to section 1683a(c) of this title are true and accurate.
+&emsp;The Secretary of the Treasury is authorized to take such action, and examine such records, under section 1509 of this title, as the Secretary determines necessary to verify the declarations made pursuant to section 1683a(c) of this title are true and accurate.
 
 (June 17, 1930, ch. 497, title VIII, §807, as added Pub. L. 110–246, title III, §3301(a), June 18, 2008, 122 Stat. 1851.)
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Administrator for the purpose of 
 
 #### (b) Resource Recovery and Conservation Panels
 
-Not less than 20 percent of the amount appropriated under subsection (a) of this section, or $5,000,000 per fiscal year, whichever is less, shall be used only for purposes of Resource Recovery and Conservation Panels established under section 6913 of this title (including travel expensesincurred by such panels in carrying out their functions under this chapter).
+Not less than 20 percent of the amount appropriated under subsection (a) of this section, or $5,000,000 per fiscal year, whichever is less, shall be used only for purposes of Resource Recovery and Conservation Panels established under section 6913 of this title (including travel expenses incurred by such panels in carrying out their functions under this chapter).
 
 #### (c) Hazardous waste
 

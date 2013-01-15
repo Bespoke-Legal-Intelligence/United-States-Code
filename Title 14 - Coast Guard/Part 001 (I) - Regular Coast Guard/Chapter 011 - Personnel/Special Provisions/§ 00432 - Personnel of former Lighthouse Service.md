@@ -32,7 +32,7 @@ The date of enactment of this subsection, referred to in subsec. (g)(1), is Aug.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–295, §2(13), substituted “chapter 51, subchapter III of chapter 53, and sections5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–295, §2(13), substituted “chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
 
 Subsec. (g). Pub. L. 97–295, §2(11), substituted “percent” for “per centum”.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
 
-&emsp;(E) for which care and services are furnished before October 1, 2012, under this chapter to a veteran who—
+&emsp;(E) for which care and services are furnished before October 1, 2013, under this chapter to a veteran who—
 
 &emsp;&emsp;(i) has a service-connected disability; and
 
@@ -98,13 +98,15 @@
 
 &emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464; Pub. L. 110–161, div. I, title II, §232, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–329, div. E, title II, §225, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title VIII, §804(b), Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title V, §518, May 5, 2010, 124 Stat. 1167.)
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464; Pub. L. 110–161, div. I, title II, §232, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–329, div. E, title II, §225, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title VIII, §804(b), Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title V, §518, May 5, 2010, 124 Stat. 1167; Pub. L. 112–154, title I, §113, Aug. 6, 2012, 126 Stat. 1176.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2)(E). Pub. L. 112–154 substituted “October 1, 2013” for “October 1, 2012”.
 
 <b>2010</b>—Subsec. (a)(2)(E). Pub. L. 111–163 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “for which care and services are furnished before October 1, 2010, under this chapter to a veteran who—
 
@@ -164,15 +166,15 @@ Subsec. (g). Pub. L. 101–508, §8011(c), amended subsec. (g) generally. Prior 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 8023(b)(4) of Pub. L. 105–33 effective Oct. 1, 1997, and amendment by section 8023(d) of Pub. L. 105–33 effective Aug. 5, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 1710 of this title.
+Amendment by section 8023(b)(4) of Pub. L. 105–33 effective Oct. 1, 1997, and amendment by section 8023(d) ofPub. L. 105–33 effective Aug. 5, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Section 8011(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1990.”
+Pub. L. 101–508, title VIII, §8011(e), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1990.”
 
 #### Effective Date of 1986 Amendment
 
-Section 19013(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XIX, §19013(b), Apr. 7, 1986, 100 Stat. 385, provided that:
 
 “(1) Except as provided in paragraph (2), section 629 \[now 1729\] of title 38, United States Code, as amended by subsection (a), shall apply to care and services provided on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
@@ -192,7 +194,7 @@ Section 19013(b) of Pub. L. 99–272 provided that:
 
 #### Effective Date
 
-Section 106(b) of Pub. L. 97–72 provided that: “Section 629 \[now 1729\] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
+Pub. L. 97–72, title I, §106(b), Nov. 3, 1981, 95 Stat. 1051, provided that: “Section 629 \[now 1729\] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
 
 #### Healthcare Facilities Certified as Medicare and Medicaid Providers for Collection Purposes
 
@@ -200,13 +202,13 @@ Pub. L. 107–206, title I, Aug. 2, 2002, 116 Stat. 888, provided in part: “Th
 
 #### Disposition of Funds in and Termination of Department of Veterans Affairs Medical-Care Cost Recovery Fund
 
-Section 8023(c) of Pub. L. 105–33 provided that: “The amount of the unobligated balance remaining in the Department of Veterans Affairs Medical-Care Cost Recovery Fund (established pursuant to section 1729(g)(1) of title 38, United States Code) at the close of June 30, 1997, shall be deposited, not later than December 31, 1997, in the Treasury as miscellaneous receipts, and the Department of Veterans Affairs Medical-Care Cost Recovery Fund shall be terminated when the deposit is made.”
+Pub. L. 105–33, title VIII, §8023(c), Aug. 5, 1997, 111 Stat. 667, provided that: “The amount of the unobligated balance remaining in the Department of Veterans Affairs Medical-Care Cost Recovery Fund (established pursuant to section 1729(g)(1) of title 38, United States Code) at the close of June 30, 1997, shall be deposited, not later than December 31, 1997, in the Treasury as miscellaneous receipts, and the Department of Veterans Affairs Medical-Care Cost Recovery Fund shall be terminated when the deposit is made.”
 
 #### Transfers to Medical-Care Cost Recovery Fund
 
-Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+Pub. L. 101–508, title VIII, §8011(d), Nov. 5, 1990, 104 Stat. 1388–345, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
 
 #### Reports on Implementation of 1986 Amendment
 
-Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
+Pub. L. 99–272, title XIX, §19013(c), Apr. 7, 1986, 100 Stat. 385, directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
 

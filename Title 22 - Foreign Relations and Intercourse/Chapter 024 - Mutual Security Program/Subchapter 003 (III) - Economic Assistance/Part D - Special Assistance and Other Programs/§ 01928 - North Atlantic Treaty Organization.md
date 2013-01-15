@@ -12,7 +12,7 @@ The United States permanent representative to the North Atlantic Treaty Organiza
 
 Persons detailed to the international staff of the North Atlantic Treaty Organization in accordance with section 2388 of this title who are members of the Foreign Service serving under limited appointments may serve for periods of more than five years notwithstanding the limitation in section 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3949\].
 
-(Aug. 26, 1954, ch. 937, title IV, §408, 68 Stat. 845; Pub. L. 85–141, §8(h), Aug. 14, 1957, 71 Stat. 361;Pub. L. 86–108, ch. II, §205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, §2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
+(Aug. 26, 1954, ch. 937, title IV, §408, 68 Stat. 845; Pub. L. 85–141, §8(h), Aug. 14, 1957, 71 Stat. 361; Pub. L. 86–108, ch. II, §205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, §2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
 
 #### References in Text
 
@@ -37,6 +37,26 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Annual Appropriations
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+
+#### Annual Report Regarding NATO Special Operations Headquarters
+
+Pub. L. 111–84, div. A, title XII, §1244(d), as added Pub. L. 112–239, div. A, title XII, §1272(b), Jan. 2, 2013, 126 Stat. 2023, provided that: “Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report regarding support for the NSHQ \[NATO Special Operations Headquarters\]. Each report shall include the following:
+
+&emsp;“(1) The total amount of funding provided by the United States and other NATO nations to the NSHQ for operating costs of the NSHQ.
+
+&emsp;“(2) A description of the activities carried out with such funding, including—
+
+&emsp;&emsp;“(A) the amount of funding allocated for each such activity;
+
+&emsp;&emsp;“(B) the extent to which other NATO nations participate in each such activity;
+
+&emsp;&emsp;“(C) the extent to which each such activity is designed to meet the purposes set forth in paragraphs (1) through (5) of subsection (b) \[section 1244(b) of Pub. L. 111–84, 123 Stat. 2541\]; and
+
+&emsp;&emsp;“(D) an assessment of the extent to which each such activity will promote the mission of the NSHQ.
+
+&emsp;“(3) Other contributions, financial or in kind, provided by the United States and other NATO nations in support of the NSHQ.
+
+&emsp;“(4) Any other matters that the Secretary of Defense considers appropriate.”
 
 #### Report on Host Countries Assuming Greater Share of Common Defense Burden
 
@@ -88,11 +108,11 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;“(6) In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members \[and\] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
 
-&emsp;“(7) In the Gerald B. H. Solomon Freedom Consolidation Act of 2002 (Public Law 107–187; 22 U.S.C. 1928 note), Congress endorsed ‘. . . the vision of further enlargement of the NATO Alliance articulated byPresident George W. Bush on June 15, 2001, and by former President William J. Clinton on October 22, 1996’.
+&emsp;“(7) In the Gerald B. H. Solomon Freedom Consolidation Act of 2002 (Public Law 107–187; 22 U.S.C. 1928 note), Congress endorsed ‘. . . the vision of further enlargement of the NATO Alliance articulated by President George W. Bush on June 15, 2001, and by former President William J. Clinton on October 22, 1996’.
 
 &emsp;“(8) At the Madrid Summit of the North Atlantic Treaty Organization in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance, and the North Atlantic Treaty Organization heads of state and government issued a declaration stating ‘\[t\]he alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . \[n\]o European democratic country whose admission would fulfill the objectives of the \[North Atlantic\] Treaty will be excluded from consideration’.
 
-&emsp;“(9) At the Washington Summit of the North Atlantic Treaty Organization in April 1999, the North Atlantic Treaty Organization heads of state and government issued a communique�AE1 declaring ‘\[w\]e pledge that NATO will continue to welcome new members in a position to further the principles of the \[North Atlantic\] Treaty and contribute to peace and security in the Euro-Atlantic area . . . \[t\]he three new members will not be the last . . . \[n\]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location . . .’.
+&emsp;“(9) At the Washington Summit of the North Atlantic Treaty Organization in April 1999, the North Atlantic Treaty Organization heads of state and government issued a communiqué declaring ‘\[w\]e pledge that NATO will continue to welcome new members in a position to further the principles of the \[North Atlantic\] Treaty and contribute to peace and security in the Euro-Atlantic area . . . \[t\]he three new members will not be the last . . . \[n\]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location . . .’.
 
 &emsp;“(10) In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Republic of Macedonia (FYROM), Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that—
 
@@ -110,7 +130,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;“(14) On May 8, 2003, the United States Senate unanimously approved the Resolution of Ratification to Accompany Treaty Document No. 108–4, Protocols to the North Atlantic Treaty of 1949 on Accession of Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia, inviting Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia to join the North Atlantic Treaty Organization.
 
-&emsp;“(15) At the Istanbul Summit of the North Atlantic Treaty Organization in June 2004, the North Atlantic Treaty Organization heads of state and government issued a communique�AE1 reaffirming that NATO's door remains open to new members, declaring ‘\[w\]e celebrate the success of NATO's Open Door Policy, and reaffirm tody \[sic\] that our seven new members will not be the last. The door to membership remains open. We welcome the progress made by Albania, Croatia, and the former Yugoslav Republic of Macedonia (1) \[sic\] in implementing their Annual National Programmes under the Membership Action Plan, and encourage them to continue pursuing the reforms necessary to progress toward NATO membership. We also commend their contribution to regional stability and cooperation. We want all three countries to succeed and will continue to assist them in their reform efforts. NATO will continue to assess each country's candidacy individually, based on the progress made towards reform goals pursued through the Membership Action Plan, which will remain the vehicle to keep the readiness of each aspirant for membership under review. We direct that NATO Foreign Ministers keep the enlargement process, including the implementation of the Membership Action Plan, under continual review and report to us. We will review at the next Summit progress by aspirants towards membership based on that report’.
+&emsp;“(15) At the Istanbul Summit of the North Atlantic Treaty Organization in June 2004, the North Atlantic Treaty Organization heads of state and government issued a communiqué reaffirming that NATO's door remains open to new members, declaring ‘\[w\]e celebrate the success of NATO's Open Door Policy, and reaffirm tody \[sic\] that our seven new members will not be the last. The door to membership remains open. We welcome the progress made by Albania, Croatia, and the former Yugoslav Republic of Macedonia (1) \[sic\] in implementing their Annual National Programmes under the Membership Action Plan, and encourage them to continue pursuing the reforms necessary to progress toward NATO membership. We also commend their contribution to regional stability and cooperation. We want all three countries to succeed and will continue to assist them in their reform efforts. NATO will continue to assess each country's candidacy individually, based on the progress made towards reform goals pursued through the Membership Action Plan, which will remain the vehicle to keep the readiness of each aspirant for membership under review. We direct that NATO Foreign Ministers keep the enlargement process, including the implementation of the Membership Action Plan, under continual review and report to us. We will review at the next Summit progress by aspirants towards membership based on that report’.
 
 &emsp;“(16) Georgia and Ukraine have stated their desire to join the Euro-Atlantic community, and in particular, are seeking to join the North Atlantic Treaty Organization. Georgia and Ukraine are working closely with the North Atlantic Treaty Organization and its members to meet criteria for eventual membership in NATO.
 
@@ -122,7 +142,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;“(20) At the NATO-Ukraine Commission Foreign Ministerial meeting in Vilnius in April 2005, NATO and Ukraine launched an Intensified Dialogue on the potential membership of Ukraine in NATO.
 
-&emsp;“(21) At the Riga Summit of the North Atlantic Treaty Organization in November 2006, the Heads of State and Government of the member countries of NATO issued a declaration reaffirming that NATO's door remains open to new members, declaring that ‘all European democratic countries may be considered for MAP (Membership Action Plan) or admission, subject to decision by the NAC (North Atlantic Council) at each stage, based on the performance of these countries towards meeting the objectives of the North Atlantic Treaty. We direct that NATO Foreign Ministers keep that process under continual review and report to us. We welcome the efforts of Albania,Croatia, and the former Yugoslav Republic of Macedonia to prepare themselves for the responsibilities and obligations of membership. We reaffirm that the Alliance will continue with Georgia and Ukraine its Intensified Dialogues which cover the full range of political, military, financial and security issues relating to those countries’ aspirations to membership, without prejudice to any eventual Alliance decision. We reaffirm the importance of the NATO-Ukraine Distinctive Partnership, which has its 10th anniversary next year and welcome the progress that has been made in the framework of our Intensified Dialogue. We appreciate Ukraine's substantial contributions to our common security, including through participation in NATO-led operations and efforts to promote regional cooperation. We encourage Ukraine to continue to contribute to regional security. We are determined to continue to assist, through practical cooperation, in the implementation of far-reaching reform efforts, notably in the fields of national security, defence, reform of the defence-industrial sector and fighting corruption. We welcome the commencement of an Intensified Dialogue with Georgia as well as Georgia's contribution to international peacekeeping and security operations. We will continue to engage actively with Georgia in support of its reform process. We encourage Georgia to continue progress on political, economic and military reforms, including strengthening judicial reform, as well as the peaceful resolution of outstanding conflicts on its territory. We reaffirm that it is of great importance that all parties in the region should engage constructively to promote regional peace and stability.’.
+&emsp;“(21) At the Riga Summit of the North Atlantic Treaty Organization in November 2006, the Heads of State and Government of the member countries of NATO issued a declaration reaffirming that NATO's door remains open to new members, declaring that ‘all European democratic countries may be considered for MAP (Membership Action Plan) or admission, subject to decision by the NAC (North Atlantic Council) at each stage, based on the performance of these countries towards meeting the objectives of the North Atlantic Treaty. We direct that NATO Foreign Ministers keep that process under continual review and report to us. We welcome the efforts of Albania, Croatia, and the former Yugoslav Republic of Macedonia to prepare themselves for the responsibilitiesand obligations of membership. We reaffirm that the Alliance will continue with Georgia and Ukraine its Intensified Dialogues which cover the full range of political, military, financial and security issues relating to those countries’ aspirations to membership, without prejudice to any eventual Alliance decision. We reaffirm the importance of the NATO-Ukraine Distinctive Partnership, which has its 10th anniversary next year and welcome the progress that has been made in the framework of our Intensified Dialogue. We appreciate Ukraine's substantial contributions to our common security, including through participation in NATO-led operations and efforts to promote regional cooperation. We encourage Ukraine to continue to contribute to regional security. We are determined to continue to assist, through practical cooperation, in the implementation of far-reaching reform efforts, notably in the fields of national security, defence, reform of the defence-industrial sector and fighting corruption. We welcome the commencement of an Intensified Dialogue with Georgia as well as Georgia's contribution to international peacekeeping and security operations. We will continue to engage actively with Georgia in support of its reform process. We encourage Georgia to continue progress on political, economic and military reforms, including strengthening judicial reform, as well as the peaceful resolution of outstanding conflicts on its territory. We reaffirm that it is of great importance that all parties in the region should engage constructively to promote regional peace and stability.’.
 
 &emsp;“(22) Contingent upon their continued implementation of democratic, defense, and economic reform, and their willingness and ability to meet the responsibilities of membership in the North Atlantic Treaty Organization and a clear expression of national intent to do so, Congress calls for the timely admission of Albania, Croatia, Georgia, Macedonia (FYROM), and Ukraine to the North Atlantic Treaty Organization to promote security and stability in Europe.
 
@@ -132,7 +152,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;“(1) reaffirms its previous expressions of support for continued enlargement of the North Atlantic Treaty Organization contained in the NATO Participation Act of 1994 \[title II of Pub. L. 103–447, set out as a note below\], the NATO Enlargement Facilitation Act of 1996 \[section 101(c) \[title VI\] of div. A of Pub. L. 104–208, set out as a note below\], the European Security Act of 1998 \[title XXVII of div. G of Pub. L. 105–277, set out as a note below\], and the Gerald B. H. Solomon Freedom Consolidation Act of 2002 \[Pub. L. 107–187, set out as a note below\];
 
-&emsp;“(2) supports the commitment to further enlargement of the North Atlantic Treaty Organization to include European democracies that are able and willing to meet the responsibilities of Membership, as expressed by the Alliance in its Madrid Summit Declaration of 1997, its Washington Summit Communique�AE1 of 1999, its Prague Summit Declaration of 2002, its Istanbul Summit Communique�AE1 of 2004, and its Riga Summit Declaration of 2006; and
+&emsp;“(2) supports the commitment to further enlargement of the North Atlantic Treaty Organization to include European democracies that are able and willing to meet the responsibilities of Membership, as expressed by the Alliance in its Madrid Summit Declaration of 1997, its Washington Summit Communiqué of 1999, its Prague Summit Declaration of 2002, its Istanbul Summit Communiqué of 2004, and its Riga Summit Declaration of 2006; and
 
 &emsp;“(3) endorses the vision of further enlargement of the North Atlantic Treaty Organization articulated by President George W. Bush on June 15, 2001, and by former President William J. Clinton on October 22, 1996, and urges our allies in the North Atlantic Treaty Organization to work with the United States to realize a role for the North Atlantic Treaty Organization in promoting global security, including continued support for enlargement to include qualified candidate states, specifically by entering into a Membership Action Plan with Georgia and recognizing the progress toward meeting the responsibilities and obligations of NATO membership by Albania, Croatia, Georgia, Macedonia (FYROM), and Ukraine.
 
@@ -522,7 +542,7 @@ Policy of Section.—This section is enacted in order to implement the policy se
 
 “(b)
 
-Restriction on Entry Into Force of ABM/TMD Demarcation Agreements.—An ABM/TMD demarcation agreement shall not be binding on the United States, and shall not enter into force with respect to the United States, unless, after the date of enactment of this Act \[Oct. 21, 1998\], that agreement is specifically approved with the advice and consent of the United States Senate pursuant to Article II, section 2, clause 2 of the Constitution.
+Restriction on Entry Into Force of ABM⁄TMD Demarcation Agreements.—An ABM⁄TMD demarcation agreement shall not be binding on the United States, and shall not enter into force with respect to the United States, unless, after the date of enactment of this Act \[Oct. 21, 1998\], that agreement is specifically approved with the advice and consent of the United States Senate pursuant to Article II, section 2, clause 2 of the Constitution.
 
 “(c)
 
@@ -530,7 +550,7 @@ Sense of Congress With Respect to Demarcation Agreements.—
 
 &emsp;“(1)
 
-Relationship to multilateralization of abm treaty.—It is the sense of Congress that no ABM/TMD demarcation agreement will be considered for advice and consent to ratification unless, consistent with the certification of the President pursuant to condition (9) of the resolution of ratification of the CFE Flank Document, the President submits for Senate advice and consent to ratification any agreement, arrangement, or understanding that would—
+Relationship to multilateralization of abm treaty.—It is the sense of Congress that no ABM⁄TMD demarcation agreement will be considered for advice and consent to ratification unless, consistent with the certification of the President pursuant to condition (9) of the resolution of ratification of the CFE Flank Document, the President submits for Senate advice and consent to ratification any agreement, arrangement, or understanding that would—
 
 &emsp;&emsp;“(A) add one or more countries as State Parties to the ABM Treaty, or otherwise convert the ABM Treaty from a bilateral treaty to a multilateral treaty; or
 
@@ -538,7 +558,7 @@ Relationship to multilateralization of abm treaty.—It is the sense of Congress
 
 &emsp;“(2)
 
-Preservation of united states theater ballistic missile defense potential.—It is the sense of Congress that no ABM/TMD demarcation agreement that would reduce the capabilities of United States theater missile defense systems, or the numbers or deployment patterns of such systems, will be approved for entry into force with respect to the United States.
+Preservation of united states theater ballistic missile defense potential.—It is the sense of Congress that no ABM⁄TMD demarcation agreement that would reduce the capabilities of United States theater missile defense systems, or the numbers or deployment patterns of such systems, will be approved for entry into force with respect to the United States.
 
 “(d)
 
@@ -562,7 +582,7 @@ Definitions.—In this section:
 
 &emsp;“(1)
 
-ABM/TMD demarcation agreement.—The term ‘ABM/TMD demarcation agreement’ means any agreement that establishes a demarcation between theater ballistic missile defense systems and strategic antiballistic missile defense systems for purposes of the ABM Treaty.
+ABM⁄TMD demarcation agreement.—The term ‘ABM⁄TMD demarcation agreement’ means any agreement that establishes a demarcation between theater ballistic missile defense systems and strategic antiballistic missile defense systems for purposes of the ABM Treaty.
 
 &emsp;“(2)
 
@@ -1184,9 +1204,9 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 “(2) This section may be waived by the President if he declares an emergency and immediately informs the Congress of his action and the reasons therefor.”
 
-\[Section 1303(d) of Pub. L. 103–337 provided that: “The amendment made by subsection (a) \[amending section 1002(c)(1) of Pub. L. 98–525, set out above\] shall take effect on October 1, 1995.”\]
+\[Pub. L. 103–337, div. A, title XIII, §1303(d), Oct. 5, 1994, 108 Stat. 2890, provided that: “The amendment made by subsection (a) \[amending section 1002(c)(1) of Pub. L. 98–525, set out above\] shall take effect on October 1, 1995.”\]
 
-\[Section 1303(b) of Pub. L. 102–484, which provided that the amendment of section 1002(c)(1) of Pub. L. 98–525, set out above, by section 1303(a) of Pub. L. 102–484, take effect Oct. 1, 1995, was repealed by Pub. L. 103–337, div. A, title XIII, §1303(c), Oct. 5, 1994, 108 Stat. 2890.\]
+\[Pub. L. 102–484, div. A, title XIII, §1303(b), Oct. 23, 1992, 106 Stat. 2546, which provided that the amendment of section 1002(c)(1) of Pub. L. 98–525, set out above, by section 1303(a) of Pub. L. 102–484, take effect Oct. 1, 1995, was repealed by Pub. L. 103–337, div. A, title XIII, §1303(c), Oct. 5, 1994, 108 Stat. 2890.\]
 
 \[Pub. L. 101–189, div. A, title IX, §911(b), Nov. 29, 1989, 103 Stat. 1523, which provided that the amendment of section 1002 of Pub. L. 98–525, set out above, by section 911(a) of Pub. L. 101–189, take effect on Sept. 30, 1991, was repealed by Pub. L. 101–510, div. A, title IV, §406(c), Nov. 5, 1990, 104 Stat. 1546.\]
 
@@ -1240,7 +1260,7 @@ Pub. L. 97–252, title XI, §1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 &emsp;“(4) a more equitable sharing by NATO member countries of both the burdens and the technological and economic benefits of the common defense would do much to reinvigorate the North Atlantic Treaty Organization alliance with a restored sense of unity and common purpose;
 
-&emsp;“(5) a decision to coordinate more effectively the enormous technological, industrial, and economic resources of NATO member countries will not only increase the efficiency and effectiveness of NATO military expenditures but also provide inducement for the Soviet Union to enter into a meaningful arms reduction agreement so that both Warsaw Pact countries and NATO member countries can devote more oftheir energies and resources to peaceful and economically more beneficial pursuits.
+&emsp;“(5) a decision to coordinate more effectively the enormous technological, industrial, and economic resources of NATO member countries will not only increase the efficiency and effectiveness of NATO military expenditures but also provide inducement for the Soviet Union to enter into a meaningful arms reduction agreement so that both Warsaw Pact countries and NATO member countries can devote more of their energies and resources to peaceful and economically more beneficial pursuits.
 
 “(b) It is the sense of the Congress that the President should propose to the heads of government of the NATO member countries that the NATO allies of the United States join the United States in agreeing—
 
@@ -1290,7 +1310,7 @@ Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
 “(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenance and operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North Atlantic Treaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
 
-“(d) The President shall submit to the Congress within ninety days after the date of enactment of this Act\[Nov. 16, 1973\], and at the end of each ninety-day period thereafter, a written report informing the Congress of the progress that has been made in implementing the provisions of this section.”
+“(d) The President shall submit to the Congress within ninety days after the date of enactment of this Act \[Nov. 16, 1973\], and at the end of each ninety-day period thereafter, a written report informing the Congress of the progress that has been made in implementing the provisions of this section.”
 
 #### United States Citizens Commission on NATO
 

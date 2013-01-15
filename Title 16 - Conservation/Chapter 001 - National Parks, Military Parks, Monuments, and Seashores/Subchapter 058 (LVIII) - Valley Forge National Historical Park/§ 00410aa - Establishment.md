@@ -26,7 +26,7 @@ Agreement Authorized.—The Secretary of the Interior, in administering the Vall
 
 Contents and Implementation of Agreement.—An agreement entered into under subsection (a) shall—
 
-&emsp;“(1) authorize the Society to develop and operate the museum pursuant to plans developed by the Secretary and to provide at the museum appropriate and necessary programs and services to visitors to ValleyForge National Historical Park related to the story of Valley Forge and the American Revolution;
+&emsp;“(1) authorize the Society to develop and operate the museum pursuant to plans developed by the Secretary and to provide at the museum appropriate and necessary programs and services to visitors to Valley Forge National Historical Park related to the story of Valley Forge and the American Revolution;
 
 &emsp;“(2) only be carried out in a manner consistent with the General Management Plan and other plans for the preservation and interpretation of the resources and values of Valley Forge National Historical Park;
 

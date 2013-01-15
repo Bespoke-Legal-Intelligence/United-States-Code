@@ -22,7 +22,7 @@
 
 (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b) of this section.
 
-(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
+(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this partshall apply to the first plan year to which such election applies and to all subsequent plan years.
 
 (e)(1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee's participation in the plan would commence at any date later than the later of—
 

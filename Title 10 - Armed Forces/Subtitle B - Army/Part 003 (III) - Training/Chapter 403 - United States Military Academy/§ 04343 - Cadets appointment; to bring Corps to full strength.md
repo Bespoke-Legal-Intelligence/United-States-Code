@@ -1,8 +1,8 @@
 ### §4343. Cadets: appointment; to bring Corps to full strength
 
-If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in clauses (2) through (8) of section 4342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
+If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in paragraphs (2) through (8) of section 4342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 88–276, §1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, §1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, §701(f)(5), Apr. 6, 1991, 105 Stat. 115.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 88–276, §1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, §1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, §701(f)(5), Apr. 6, 1991, 105 Stat. 115; Pub. L. 112–239, div. A, title X, §1076(f)(39), Jan. 2, 2013, 126 Stat. 1954.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,8 @@ June 30, 1950, ch. 421, §4, 64 Stat. 305.
 The words “If it is determined” are substituted for the words “When upon determination”. The words “within his discretion” are omitted as covered by the word “may”. The words “within the capacity of the Academy”, “from the remaining sources of admission authorized by law”, and “to be admitted in such class” are omitted as surplusage. The words “by the persons named in clauses (1)–(6) of section 4342(a), and clause (2) of section 4342(e), of this title” are substituted for the words “by the Vice President, Members of the Senate and House of Representatives of the United States, Delegates and Resident Commissioners, the Commissioners of the District of Columbia, and the Governor of the Canal Zone”. The words “under any other provision of law” are substituted for the words “from sources authorized by law other than those holding such alternate appointments”.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239 substituted “paragraphs” for “clauses”.
 
 <b>1991</b>—Pub. L. 102–25 substituted “clauses (2) through (8)” for “clauses (2)–(9)”.
 

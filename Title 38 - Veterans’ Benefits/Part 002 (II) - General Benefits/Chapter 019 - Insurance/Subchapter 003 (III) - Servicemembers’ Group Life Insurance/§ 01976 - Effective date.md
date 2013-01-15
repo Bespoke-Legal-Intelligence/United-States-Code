@@ -12,7 +12,7 @@ The insurance provided for in this subchapter and the deductions and contributio
 
 #### Interim Coverage Until Effective Date of Group Plan; $5,000 Death Gratuity
 
-Section 3 of Pub. L. 89–214, as amended by Pub. L. 89–730, §6(a)–(d), Nov. 2, 1966, 80 Stat. 1159, provided for payment of a death gratuity of up to $5,000 in certain cases of death of veterans while in active military, naval, or air service during the period from Jan. 1, 1957, to the date immediately preceding the date on which the Servicemen's Group Life Insurance program was placed in effect under this section, and required that an application for such gratuity had to be made within one year after Sept. 29, 1965.
+Pub. L. 89–214, §3, Sept. 29, 1965, 79 Stat. 886, as amended by Pub. L. 89–730, §6(a)–(d), Nov. 2, 1966, 80 Stat. 1159, provided for payment of a death gratuity of up to $5,000 in certain cases of death of veterans while in active military, naval, or air service during the period from Jan. 1, 1957, to the date immediately preceding the date on which the Servicemen's Group Life Insurance program was placed in effect under this section, and required that an application for such gratuity had to be made within one year after Sept. 29, 1965.
 
 Pub. L. 89–730, §6(e), Nov. 2, 1966, 80 Stat. 1159, provided that any waiver of future benefits executed by any person under section 3(a) of Pub. L. 89–214 (see above), as in effect prior to Nov. 2, 1966, was to have no effect.
 

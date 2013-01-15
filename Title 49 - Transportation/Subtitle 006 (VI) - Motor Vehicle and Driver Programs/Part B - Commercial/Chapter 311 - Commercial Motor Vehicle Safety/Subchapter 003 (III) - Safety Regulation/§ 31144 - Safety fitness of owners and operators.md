@@ -18,7 +18,7 @@ In General.—The Secretary shall—
 
 (b)
 
-Procedure.—The Secretary shall maintain by regulation a procedure for determining thesafety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
+Procedure.—The Secretary shall maintain by regulation a procedure for determining the safety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
 
 &emsp;(1) Specific initial and continuing requirements with which an owner or operator must comply to demonstrate safety fitness.
 
@@ -92,7 +92,7 @@ Phase-in of requirement.—The Secretary shall phase in the requirements of para
 
 &emsp;(4)
 
-New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authorityuntil the safety review required by paragraph (1) is completed.
+New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
 
 &emsp;(5)
 
@@ -104,13 +104,91 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, for audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 
 Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349.)
+(h)
+
+Recognition of Canadian Motor Carrier Safety Fitness Determinations.—
+
+&emsp;(1) If an authorized agency of the Canadian federal government or a Canadian Territorial or Provincial government determines, by applying the procedure and standards prescribed by the Secretary under subsection (b) or pursuant to an agreement under paragraph (2), that a Canadian employer is unfit and prohibits the employer from operating a commercial motor vehicle in Canada or any Canadian Province, the Secretary may prohibit the employer from operating such vehicle in interstate and foreign commerce until the authorized Canadian agency determines that the employer is fit.
+
+&emsp;(2) The Secretary may consult and participate in negotiations with authorized officials of the Canadian federal government or a Canadian Territorial or Provincial government, as necessary, to provide reciprocal recognition of each country's motor carrier safety fitness determinations. An agreement shall provide, to the maximum extent practicable, that each country will follow the procedure and standards prescribed by the Secretary under subsection (b) in making motor carrier safety fitness determinations.
+
+(i)
+
+Periodic Safety Reviews of Owners and Operators of Interstate For-hire Commercial Motor Vehicles Designed or Used to Transport Passengers.—
+
+&emsp;(1)
+
+Safety review.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) determine the safety fitness of each motor carrier of passengers who the Secretary registers under section 13902 or 31134 through a simple and understandable rating system that allows passengers to compare the safety performance of each such motor carrier; and
+
+&emsp;&emsp;&emsp;(ii) assign a safety fitness rating to each such motor carrier.
+
+&emsp;&emsp;(B)
+
+Applicability.—Subparagraph (A) shall apply—
+
+&emsp;&emsp;&emsp;(i) to any provider of motorcoach services registered with the Administration after the date of enactment of the Motorcoach Enhanced Safety Act of 2012 beginning not later than 2 years after the date of such registration; and
+
+&emsp;&emsp;&emsp;(ii) to any provider of motorcoach services registered with the Administration on or before the date of enactment of that Act beginning not later than 3 years after the date of enactment of that Act.
+
+&emsp;(2)
+
+Periodic review.—The Secretary shall establish, by regulation, a process for monitoring the safety performance of each motor carrier of passengers on a regular basis following the assignment of a safety fitness rating, including progressive intervention to correct unsafe practices.
+
+&emsp;(3)
+
+Enforcement strike forces.—In addition to the enhanced monitoring and enforcement actions required under paragraph (2), the Secretary may organize special enforcement strike forces targeting motor carriers of passengers.
+
+&emsp;(4)
+
+Periodic update of safety fitness rating.—In conducting the safety reviews required under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) reassess the safety fitness rating of each motor carrier of passengers not less frequently than once every 3 years; and
+
+&emsp;&emsp;(B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983.)
+
+#### Amendment of Subsection (g)
+
+<i>Pub. L. 112–141, §3, div. C, title II, §32102, July 6, 2012, 126 Stat. 413, 778, provided that, effective 1 year after the date of enactment of Pub. L. 112–141 (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), subsection (g)(1) of this section is amended to read as follows:</i>
+
+&emsp;<i>(1)</i>
+
+<i>Safety review.—</i>
+
+&emsp;&emsp;<i>(A)</i>
+
+<i>In general.—Except as provided under subparagraph (B), the Secretary shall require, by regulation, each owner and each operator granted new registration under section 13902 or 31134 to undergo a safety review not later than 12 months after the owner or operator, as the case may be, begins operations under such registration.</i>
+
+&emsp;&emsp;<i>(B)</i>
+
+<i>Providers of motorcoach services.—The Secretary shall require, by regulation, each owner and each operator granted new registration to transport passengers under section 13902 or 31134 to undergo a safety review not later than 120 days after the owner or operator, as the case may be, begins operations under such registration.</i>
+
+<i>See 2012 Amendment note below.</i>
+
+<i>Pub. L. 112–141, §3, div. C, title II, §32921(b), (c), July 6, 2012, 126 Stat. 413, 828, provided that, effective 2 years after the date of enactment of Pub. L. 112–141 (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), subsection (g) of this section is amended by adding at the end the following:</i>
+
+&emsp;<i>(6)</i>
+
+<i>Additional requirements for household goods motor carriers.—(A) In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.</i>
+
+&emsp;<i>(B)</i>
+
+<i>Elements.—In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -140,7 +218,27 @@ In subsection (a), the word “regulation” is substituted for “rule” for c
 
 In subsection (a)(1), the words “after notice and opportunity for comment” are omitted as unnecessary because of 5:553. The text of 49 App.:2512(b) is omitted as executed.
 
+#### References in Text
+
+The date of enactment of the Motorcoach Enhanced Safety Act of 2012, referred to in subsec. (i)(1)(B), is the date of enactment of subtitle G of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (g)(1). Pub. L. 112–141, §32102(a), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.”
+
+Subsec. (g)(5)(B). Pub. L. 112–141, §112002(d), struck out “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “year”.
+
+Pub. L. 112–141, §32603(e), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.”
+
+Pub. L. 112–140, §§1(c), 202(e), temporarily substituted “and up to $22,040,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (g)(6). Pub. L. 112–141, §32921(b), added par. (6).
+
+Subsec. (h). Pub. L. 112–141, §32202, added subsec. (h).
+
+Subsec. (i). Pub. L. 112–141, §32707(a), added subsec. (i).
 
 <b>2011</b>—Subsec. (g)(5)(B). Pub. L. 112–30 substituted “fiscal year and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
 
@@ -202,6 +300,18 @@ Findings and Action on Applications.—The Commission shall—
 
 &emsp;“(2) deny the application.”
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by sections 32202, 32603(e), and 32707(a) effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+
+Pub. L. 112–141, div. C, title II, §32102(b), July 6, 2012, 126 Stat. 778, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as notes under section 101 of Title 23, Highways\].”
+
+Amendment by section 32921(b) of Pub. L. 112–141 effective 2 years after the date of enactment of Pub. L.112–141, see section 32921(c) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under section 13902 of this title.
+
+Amendment by section 112002(d) of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under section 5305 of this title.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
@@ -220,5 +330,5 @@ Pub. L. 109–59, title IV, §4138, Aug. 10, 2005, 119 Stat. 1745, provided that
 
 #### Minimum Requirements
 
-Pub. L. 106–159, title II, §210(b), Dec. 9, 1999, 113 Stat. 1765, provided that: “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall consider the establishment of a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations before being granted operating authority.”
+Pub. L. 106–159, title II, §210(b), Dec. 9, 1999, 113 Stat. 1765, as amended by Pub. L. 112–141, div. C, title II, §32101(c), July 6, 2012, 126 Stat. 777, provided that: “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall establish a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations, commercial regulations, and provisions of subpart H of part 37 of title 49, Code of Federal Regulations, or successor regulations before being granted operating authority.”
 

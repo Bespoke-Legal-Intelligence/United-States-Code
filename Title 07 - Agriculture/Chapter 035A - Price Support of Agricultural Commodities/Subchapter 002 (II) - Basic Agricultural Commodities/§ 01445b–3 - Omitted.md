@@ -8,5 +8,5 @@ A prior section 107A of act Oct. 31, 1949, ch. 792, title I, as added Sept. 29, 
 
 #### Effective and Termination Dates
 
-Section 308 of Pub. L. 99–198 provided that this section is effective only for the 1986 through 1990 crops of wheat.
+Pub. L. 99–198, title III, §308, Dec. 23, 1985, 99 Stat. 1383, provided that this section is effective only for the 1986 through 1990 crops of wheat.
 

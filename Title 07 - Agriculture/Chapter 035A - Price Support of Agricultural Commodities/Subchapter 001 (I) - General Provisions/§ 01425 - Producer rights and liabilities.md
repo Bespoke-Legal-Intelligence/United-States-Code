@@ -12,13 +12,13 @@ The security interests obtained by the Commodity Credit Corporation as a result 
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–237 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer underany of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
+“(1) Notwithstanding any other provision of law, the Secretary may provide a negotiable certificate to any producer who repays, together with interest, a price support loan made available to such producer under any of the annual programs, for wheat, feed grains, upland cotton, or rice established under this Act.
 
 “(2) The amount of such certificates shall be equal to the amount of the interest paid by the producer on such loan.
 
@@ -34,15 +34,15 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 #### Effective Date of 1988 Amendment
 
-Section 634(a) of Pub. L. 100–460 provided that the amendment made by that section is effective beginning with 1989 crop year for honey.
+Pub. L. 100–460, title VI, §634(a), Oct. 1, 1988, 102 Stat. 2263, provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 1004 of Pub. L. 99–198 provided that the amendment made by that section is effective only for 1986 through 1990 crops.
+Pub. L. 99–198, title X, §1004, Dec. 23, 1985, 99 Stat. 1447, provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
 
 #### Exceptions From Transfer of Functions
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervisionof said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
 

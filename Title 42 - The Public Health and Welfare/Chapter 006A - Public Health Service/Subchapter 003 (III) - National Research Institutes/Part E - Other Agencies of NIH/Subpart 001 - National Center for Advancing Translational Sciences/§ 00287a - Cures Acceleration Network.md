@@ -130,7 +130,7 @@ The functions of the CAN are to—
 
 #### (B) Terms
 
-&emsp;&emsp;Each ex-officio member shall serve a 3-year term on the Board, except that theChairperson may adjust the terms of the initial ex-officio members in order to provide for a staggered term of appointment for all such members.
+&emsp;&emsp;Each ex-officio member shall serve a 3-year term on the Board, except that the Chairperson may adjust the terms of the initial ex-officio members in order to provide for a staggered term of appointment for all such members.
 
 #### (4) Responsibilities of the Board and the Director of the Center
 
@@ -234,7 +234,7 @@ The functions of the CAN are to—
 
 #### (iii) Matching funds
 
-&emsp;&emsp;&emsp;As a condition for receiving an award under this subsection, an eligible entity shall contribute to the project non-Federal funds in the amount of $1 for every $3 awarded under clauses (i) and (ii), except that the Director of the Center may waive or modify such matching requirement in any case where the Director determines that the goals and objectives of this section cannot adequately be carried out unless such requirement is waived.
+&emsp;&emsp;&emsp;As a condition for receiving an award under this subsection, an eligible entityshall contribute to the project non-Federal funds in the amount of $1 for every $3 awarded under clauses (i) and (ii), except that the Director of the Center may waive or modify such matching requirement in any case where the Director determines that the goals and objectives of this section cannot adequately be carried out unless such requirement is waived.
 
 #### (B) The cures acceleration grant awards
 

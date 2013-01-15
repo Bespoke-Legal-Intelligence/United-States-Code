@@ -1,6 +1,6 @@
 ### §450k. Authorization of appropriations for dairy farmer indemnities
 
-There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 450j to 450<i>l</i> of this title.
+There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 450j to 450l of this title.
 
 (Pub. L. 90–484, §2, Aug. 13, 1968, 82 Stat. 750.)
 

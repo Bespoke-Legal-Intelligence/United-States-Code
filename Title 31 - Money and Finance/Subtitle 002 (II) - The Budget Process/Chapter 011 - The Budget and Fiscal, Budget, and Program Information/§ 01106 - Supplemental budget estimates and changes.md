@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) current information on matters referred to in section 1105(a)(8) and (9)(B) and (C) of this title; and
 
-&emsp;&emsp;(D) additional information the President decides is advisable to provide Congress withcomplete and current information about the budget and current estimates of the functions, obligations, requirements, and financial condition of the United States Government;
+&emsp;&emsp;(D) additional information the President decides is advisable to provide Congress with complete and current information about the budget and current estimates of the functions, obligations, requirements, and financial condition of the United States Government;
 
 &emsp;(2) for the 4 fiscal years following the fiscal year for which the budget is submitted, information on estimated expenditures for programs authorized to continue in future years, or that are considered mandatory, under law; and
 

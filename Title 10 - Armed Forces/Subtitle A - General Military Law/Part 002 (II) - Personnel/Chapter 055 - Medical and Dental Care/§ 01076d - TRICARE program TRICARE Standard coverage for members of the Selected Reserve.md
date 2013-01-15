@@ -8,7 +8,9 @@ Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected
 
 (b)
 
-Termination of Eligibility Upon Termination of Service.—Eligibility for TRICARE Standard coverage of a member under this section shall terminate upon the termination of the member's service in the Selected Reserve.
+Termination of Eligibility Upon Termination of Service.—(1) Except as provided in paragraph (2), eligibility for TRICARE Standard coverage of a member under this section shall terminate upon the termination of the member's service in the Selected Reserve.
+
+(2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall terminate 180 days after the date on which the member is separated.
 
 (c)
 
@@ -44,9 +46,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
 
-(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(2), probably means the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), eligibility” for “Eligibility”, and added par. (2).
 
 <b>2009</b>—Pub. L. 111–84 substituted “Standard” for “standard” in section catchline.
 
@@ -62,7 +70,7 @@ Subsec. (a). Pub. L. 109–364, §706(a), designated introductory provisions as 
 
 “(1) served continuously on active duty for 90 or more days pursuant to such call or order; and
 
-“(2) not later than 90 days after release from such active-duty service, entered into an agreement with theSecretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
+“(2) not later than 90 days after release from such active-duty service, entered into an agreement with the Secretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
 
 Subsec. (a)(2). Pub. L. 109–163, §701(d), substituted “not later than 90 days after release” for “on or before the date of the release”.
 
@@ -116,7 +124,7 @@ Pub. L. 108–375, div. A, title VII, §701(b), Oct. 28, 2004, 118 Stat. 1981, p
 
 “(1) The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
-“(2)(A) A member of a reserve component of the Armed Forces who performed active-duty service described in subsection (a) of section 1076d of title 10, United States Code, for a period beginning on or after September 11, 2001, and was released from that active-duty service before the date of the enactment of this Act, or is released from that active-duty service on or within 180 days after the date of the enactment of this Act, may, for the purpose of paragraph (2) of such subsection, enter into an agreement described in such paragraph not later than one year after the date of the enactment of this Act. TRICARE Standard coverage (under such section 1076d) of a member who enters into such an agreement under this paragraph shall begin on the later of—
+“(2)(A) A member of a reserve component of the Armed Forces who performed active-duty service described in subsection (a) of section 1076d of title 10, United States Code, for a period beginning on or afterSeptember 11, 2001, and was released from that active-duty service before the date of the enactment of this Act, or is released from that active-duty service on or within 180 days after the date of the enactment of this Act, may, for the purpose of paragraph (2) of such subsection, enter into an agreement described in such paragraph not later than one year after the date of the enactment of this Act. TRICARE Standard coverage (under such section 1076d) of a member who enters into such an agreement under this paragraph shall begin on the later of—
 
 &emsp;“(i) the date applicable to the member under subsection (b) of such section; or
 

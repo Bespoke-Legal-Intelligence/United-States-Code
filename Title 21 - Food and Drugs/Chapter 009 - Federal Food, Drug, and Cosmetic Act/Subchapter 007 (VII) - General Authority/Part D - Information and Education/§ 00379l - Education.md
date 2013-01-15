@@ -24,7 +24,7 @@ The Secretary, acting through the Commissioner, may, through fellowships and oth
 
 #### Prior Provisions
 
-A prior section 746 of act June 25, 1938, was renumbered section 749 and is classified to section 379<i>o</i> of this title.
+A prior section 746 of act June 25, 1938, was renumbered section 749 and is classified to section 379o of this title.
 
 #### Amendments
 

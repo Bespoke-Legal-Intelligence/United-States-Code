@@ -14,7 +14,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shalldevelop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
+&emsp;&emsp;Not later than 60 days after June 15, 2006, each underground coal mine operator shall develop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
 
 #### (B) Plan requirements
 
@@ -66,7 +66,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (iv) Post-accident lifelines
 
-&emsp;&emsp;&emsp;The plan shall provide for the use of flame-resistant directional lifelines or equivalent systems in escapeways to enable evacuation. The flame-resistance requirement of this clause shall apply upon the replacement of existing lifelines, or, in the case of lifelines in working sections, upon the earlier of the replacement of such lifelines or 3 years after June 15, 2006.
+&emsp;&emsp;&emsp;The plan shall provide for the use of flame-resistant directional lifelines orequivalent systems in escapeways to enable evacuation. The flame-resistance requirement of this clause shall apply upon the replacement of existing lifelines, or, in the case of lifelines in working sections, upon the earlier of the replacement of such lifelines or 3 years after June 15, 2006.
 
 #### (v) Training
 
@@ -80,7 +80,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may makeadditional plan requirements with respect to any of the content matters.
+&emsp;&emsp;&emsp;In addition to the content requirements contained in subparagraph (E), and subject to the considerations contained in subparagraph (C), the Secretary may make additional plan requirements with respect to any of the content matters.
 
 #### (ii) Post accident communications
 

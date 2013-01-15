@@ -64,7 +64,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date; Waiver of Requirement; Resolution Approving Designation of Agencies
 
-Section 303(a)(2), (3), (b) of Pub. L. 101–576 provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
+Pub. L. 101–576, title III, §303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 2849, 2850, provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
 
 #### Waiver Authority
 
@@ -80,11 +80,11 @@ Agencies described.—An agency referred to in paragraph (1) is any covered exec
 
 #### Report on Substantial Commercial Functions
 
-Section 303(c) of Pub. L. 101–576 directed Director of Office of Management and Budget, not later than 180days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
+Pub. L. 101–576, title III, §303(c), Nov. 15, 1990, 104 Stat. 2851, directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
 
 #### Pilot Project for Preparation and Audit of Financial Statements; Report to Congress
 
-Section 303(d), (e) of Pub. L. 101–576 directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
+Pub. L. 101–576, title III, §303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted</i>
 

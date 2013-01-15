@@ -24,13 +24,13 @@ For the purposes of this chapter, the term—
 
 (k) “Fund” means the Alaska Native Fund in the Treasury of the United States established by section 1605 of this title;
 
-(<i>l</i>) “Planning Commission” means the Joint Federal-State Land Use Planning Commission established by section 1616 of this title;
+(l) “Planning Commission” means the Joint Federal-State Land Use Planning Commission established by section 1616 of this title;
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
 (n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
-(<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
+(o) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 
 (p) “Settlement Common Stock” means stock of a Native Corporation issued pursuant to section 1606(g)(1) of this title that carries with it the rights and restrictions listed in section 1606(h)(1) of this title;
 
@@ -38,7 +38,7 @@ For the purposes of this chapter, the term—
 
 (r) “Descendant of a Native” means—
 
-&emsp;(1) a lineal descendant of a Native or of an individual who would have been a Native ifsuch individual were alive on December 18, 1971, or
+&emsp;(1) a lineal descendant of a Native or of an individual who would have been a Native if such individual were alive on December 18, 1971, or
 
 &emsp;(2) an adoptee of a Native or of a descendant of a Native, whose adoption—
 
@@ -68,7 +68,7 @@ Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e)
 
 Subsec. (k). Pub. L. 100–241, §3(2), struck out “and” at end.
 
-Subsec. (<i>l</i>). Pub. L. 100–241, §3(3), substituted semicolon for period.
+Subsec. (l). Pub. L. 100–241, §3(3), substituted semicolon for period.
 
 Subsec. (m). Pub. L. 100–241, §3(4), substituted “Group Corporation;” for “Native Group.”
 

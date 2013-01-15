@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) it determines that any of the criteria referred to in subsection (a)(2) of this section (disregarding section 7112(a) of title 5) have not been met; or
 
-&emsp;&emsp;&emsp;(ii) after the Secretary's exercise of authority and before certification under this section, a valid election under section7111(b) of title 5 is held covering any employees who would be included in the unit proposed for certification.
+&emsp;&emsp;&emsp;(ii) after the Secretary's exercise of authority and before certification under this section, a valid election under section 7111(b) of title 5 is held covering any employees who would be included in the unit proposed for certification.
 
 #### (B) Temporary waiver of provision that would bar an election after a collective bargaining agreement is reached
 

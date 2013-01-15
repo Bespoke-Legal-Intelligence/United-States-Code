@@ -64,7 +64,7 @@
 
 > If the Board takes the action provided under paragraph (1), the decision of the Board shall be a judicially reviewable action.
 
-(d)(1) If the Board takes any action under subsection (c)(2) of this section, the matter shall beimmediately certified to a special panel described in paragraph (6) of this subsection. Upon certification, the Board shall, within 5 days (excluding Saturdays, Sundays, and holidays), transmit to the special panel the administrative record in the proceeding, including—
+(d)(1) If the Board takes any action under subsection (c)(2) of this section, the matter shall be immediately certified to a special panel described in paragraph (6) of this subsection. Upon certification, the Board shall, within 5 days (excluding Saturdays, Sundays, and holidays), transmit to the special panel the administrative record in the proceeding, including—
 
 &emsp;(A) the factual record compiled under this section,
 

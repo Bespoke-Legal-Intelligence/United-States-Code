@@ -416,7 +416,7 @@ Subsec. (e)(7). Pub. L. 104–208, §379(a)(2), substituted “the final agency 
 
 Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
-Subsecs. (i) to (n). Pub. L. 104–208, §412(c), struck out subsec. (i) which provided effective dates for implementation of this section, subsec. (j) which required General Accounting Office reports on implementation of this section, subsec. (k) which established a taskforce to review reports, subsec. (<i>l</i>) which provided a termination date for employer sanctions under this section upon finding of widespread discrimination in implementing this section, and subsecs. (m) and (n) which provided for expedited procedures in House of Representatives and Senate for considering resolutions to approve findings in the reports.
+Subsecs. (i) to (n). Pub. L. 104–208, §412(c), struck out subsec. (i) which provided effective dates for implementation of this section, subsec. (j) which required General Accounting Office reports on implementation of this section, subsec. (k) which established a taskforce to review reports, subsec. (l) which provided a termination date for employer sanctions under this section upon finding of widespread discrimination in implementing this section, and subsecs. (m) and (n) which provided for expedited procedures in House of Representatives and Senate for considering resolutions to approve findings in the reports.
 
 <b>1994</b>—Subsec. (b)(3). Pub. L. 103–416, §219(z)(4), made technical correction to Pub. L. 102–232, §306(b)(2). See 1991 Amendment note below.
 
@@ -460,11 +460,11 @@ Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: “The 
 
 #### Effective Date of 1996 Amendment
 
-Section 379(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section and section 1324c of this title\] shall apply to orders issued on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title III, §379(b), Sept. 30, 1996, 110 Stat. 3009–650, provided that: “The amendments made by subsection (a) \[amending this section and section 1324c of this title\] shall apply to orders issued on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Section 411(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title IV, §411(b), Sept. 30, 1996, 110 Stat. 3009–666, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Section 412(e) of div. C of Pub. L. 104–208, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that:
+Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–668, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Secretary of Homeland Security shall designate.
 
@@ -474,11 +474,11 @@ Section 412(e) of div. C of Pub. L. 104–208, as amended by Pub. L. 105–54, �
 
 “(4) The amendment made by subsection (d) \[amending this section\] applies to hiring occurring before, on, or after the date of the enactment of this Act, but no penalty shall be imposed under subsection (e) or (f) of section 274A of the Immigration and Nationality Act \[subsecs. (e) and (f) of this section\] for such hiring occurring before such date.”
 
-\[Section 3(b) of Pub. L. 105–54 provided that: “The amendment made by subsection (a) \[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\].”\]
+\[Pub. L. 105–54, §3(b), Oct. 6, 1997, 111 Stat. 1176, provided that: “The amendment made by subsection (a) \[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\].”\]
 
 #### Effective Date of 1994 Amendment
 
-Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(4) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
+Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by section 219(z)(4) is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
 #### Effective Date of 1991 Amendment
 
@@ -486,9 +486,9 @@ Amendment by section 306(b)(2) of Pub. L. 102–232 effective as if included in 
 
 #### Effective Date of 1990 Amendment
 
-Section 521(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to recruiting and referring occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §521(b), Nov. 29, 1990, 104 Stat. 5053, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to recruiting and referring occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 538(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §538(b), Nov. 29, 1990, 104 Stat. 5056, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -526,7 +526,7 @@ Authority of President under subsec. (d)(4) of this section to undertake demonst
 
 #### Pilot Programs for Employment Eligibility Confirmation
 
-Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§2, 3, Dec. 3, 2003, 117 Stat. 1944; Pub. L. 111–83, title V, §§547, 551, Oct. 28, 2009, 123 Stat. 2177, provided that:
+Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§2, 3, Dec. 3, 2003, 117 Stat. 1944; Pub. L. 111–83, title V, §§547, 551, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–176, §2, Sept. 28, 2012, 126 Stat. 1325, provided that:
 
 #### “SEC. 401. ESTABLISHMENT OF PROGRAMS.
 
@@ -536,7 +536,7 @@ In General.—The Secretary of Homeland Security shall conduct 3 pilot programs 
 
 “(b)
 
-Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2012.
+Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015.
 
 “(c)
 
@@ -976,11 +976,11 @@ Report Required.—The Attorney General shall report to the Committees on the Ju
 
 #### Interim Regulations
 
-Section 101(a)(2) of Pub. L. 99–603 provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections 1802, 1813, 1816, and 1851 ofTitle 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
+Pub. L. 99–603, title I, §101(a)(2), Nov. 6, 1986, 100 Stat. 3372, provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections1802, 1813, 1816, and 1851 of Title 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
 
 #### Grandfather Provision for Current Employees
 
-Section 101(a)(3) of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title I, §101(a)(3), Nov. 6, 1986, 100 Stat. 3372, provided that:
 
 “(A) Section 274A(a)(1) of the Immigration and Nationality Act \[8 U.S.C. 1324a(a)(1)\] shall not apply to the hiring, or recruiting or referring of an individual for employment which has occurred before the date of the enactment of this Act \[Nov. 6, 1986\].
 
@@ -988,7 +988,7 @@ Section 101(a)(3) of Pub. L. 99–603 provided that:
 
 #### Study of Use of Telephone Verification System for Determining Employment Eligibility of Aliens
 
-Section 101(d) of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title I, §101(d), Nov. 6, 1986, 100 Stat. 3373, provided that:
 
 “(1) The Attorney General, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall conduct a study for use by the Department of Justice in determining employment eligibility of aliens in the United States. Such study shall concentrate on those data bases that are currently available to the Federal Government which through the use of a telephone and computation capability could be used to verify instantly the employment eligibility status of job applicants who are aliens.
 
@@ -1006,11 +1006,11 @@ Section 101(d) of Pub. L. 99–603 provided that:
 
 #### Feasibility Study of Social Security Number Validation System
 
-Section 101(e) of Pub. L. 99–603 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
+Pub. L. 99–603, title I, §101(e), Nov. 6, 1986, 100 Stat. 3373, provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
 
 #### Reports on Unauthorized Alien Employment
 
-Section 402 of Pub. L. 99–603 provided that: “The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment of aliens) during the first three years after its implementation. Each report shall include—
+Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: “The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment of aliens) during the first three years after its implementation. Each report shall include—
 
 &emsp;“(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
@@ -1032,7 +1032,7 @@ Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, as amended by Ex. Ord. No. 1328
 
 This order is designed to promote economy and efficiency in Federal Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose workforce is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose workforce is more stable. It is the policy of the executive branch to enforce fully the immigration laws of the United States, including the detection and removal of illegal aliens and the imposition of legal sanctions against employers that hire illegal aliens. Because of the worksite enforcement policy of the United States and the underlying obligation of the executive branch to enforce the immigration laws, contractors that employ illegal aliens cannot rely on the continuing availability and service of those illegal workers, and such contractors inevitably will have a less stable and less dependable workforce than contractors that do not employ such persons. Where a contractor assigns illegal aliens to work on Federal contracts, the enforcement of Federal immigration laws imposes a direct risk of disruption, delay, and increased expense in Federal contracting. Such contractors are less dependable procurement sources, even if they do not knowingly hire or knowingly continue to employ unauthorized workers.
 
-Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federal workforce. Private employers that choose to contract with the Federal Government should meet the same standard.
+Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federalworkforce. Private employers that choose to contract with the Federal Government should meet the same standard.
 
 I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verification system designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
 

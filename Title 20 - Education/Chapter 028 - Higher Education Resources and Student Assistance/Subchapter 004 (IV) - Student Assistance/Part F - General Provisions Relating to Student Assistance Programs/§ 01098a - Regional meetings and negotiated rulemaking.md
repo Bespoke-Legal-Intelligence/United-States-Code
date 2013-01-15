@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 and shall submit suchregulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. The Secretary shall select individuals with demonstrated expertise or experience in the relevant subjects under negotiation, reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
+&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 and shall submit such regulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. The Secretary shall select individuals with demonstrated expertise or experience in the relevant subjects under negotiation, reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
 
 #### (2) Expansion of negotiated rulemaking
 
@@ -68,11 +68,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Inapplicability of Master Calendar and Negotiated Rulemaking Requirements
 
-This section inapplicable to amendments made by section 309 of Pub. L. 112–74, or to any regulations promulgated under such amendments, see section 309(h) of Pub. L. 112–74, set out as a note under section 1089 of this title.
+This section inapplicable to amendment made by section 100302(a) of Pub. L. 112–141 or to any regulations promulgated under such amendment, see section 100302(b) of Pub. L. 112–141, set out as a note under section 1089 of this title.
+
+This section inapplicable to amendments made by section 309 of Pub. L. 112–74 or to any regulations promulgated under such amendments, see section 309(h) of Pub. L. 112–74, set out as a note under section 1089 of this title.
 
 This section inapplicable to amendments made by title V of Pub. L. 112–25 or to any regulations promulgated under such amendments, see section 504 of Pub. L. 112–25, set out as a note under section 1089 of this title.
 
-This section inapplicable to amendments made by section 1860(a)(2) of Pub. L. 112–10 or to any regulations promulgated under such amendments, see section 1860(c) of Pub. L. 112–10, set out as a note under section 1089 of this title.
+This section inapplicable to amendments made by section 1860(a)(2) of Pub. L. 112–10 or to any regulations promulgated under such amendments, see section1860(c) of Pub. L. 112–10, set out as a note under section 1089 of this title.
 
 This section inapplicable to amendments made by title IV of Pub. L. 111–39 or to any regulations promulgated under such amendments, see section 409 of Pub. L. 111–39, set out as a note under section 1089 of this title.
 

@@ -10,6 +10,12 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–188, §1, Oct. 5, 2012, 126 Stat. 1433, provided that: “This Act \[amending sections 104 and 105 of this title and enacting provisions set out as a note under section 104 of this title\] may be cited as the ‘Divisional Realignment Act of 2012’.”
+
+Pub. L. 112–121, §1, May 25, 2012, 126 Stat. 346, provided that: “This Act \[amending sections 589a and 1930 of this title, enacting provisions set out as notes under sections 152, 589a, and 1931 of this title, and amending provisions set out as a note under section 1931 of this title\] may be cited as the ‘Temporary Bankruptcy Judgeships Extension Act of 2012’.”
+
 #### Short Title of 2011 Amendment
 
 Pub. L. 112–63, §1(a), Dec. 7, 2011, 125 Stat. 758, provided that: “This Act \[enacting sections 1390 and 1455 of this title, amending sections 1332, 1391, 1404, 1441, 1446, and 1453 of this title, repealing section 1392 of this title, and enacting provisions set out as notes under sections 1332 and 1390 of this title\] may be cited as the ‘Federal Courts Jurisdiction and Venue Clarification Act of 2011’.”
@@ -28,7 +34,7 @@ Pub. L. 111–223, §1, Aug. 10, 2010, 124 Stat. 2380, provided that: “This Ac
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: “This Act \[enacting section 509B of this title, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Human Rights Enforcement Act of 2009’.”
+Pub. L. 111–122, §1, Dec. 22, 2009, 123 Stat. 3480, provided that: “This Act \[enacting section 509B of this title, amending sections 1103 and 1182 of Title 8, Aliens and Nationality, and sections 1091 and 2339A of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 1182 of Title 8\]may be cited as the ‘Human Rights Enforcement Act of 2009’.”
 
 #### Short Title of 2008 Amendment
 
@@ -92,9 +98,9 @@ Pub. L. 101–650, §1, Dec. 1, 1990, 104 Stat. 5089, provided: “That this Act
 
 Pub. L. 101–650, title I, §101, Dec. 1, 1990, 104 Stat. 5089, provided that: “This title \[enacting chapter 23 of this title and provisions set out as notes under section 471 of this title\] may be cited as the ‘Civil Justice Reform Act of 1990’.”
 
-Pub. L. 101–650, title II, §201, Dec. 1, 1990, 104 Stat. 5098, provided that: “This title \[amending sections 44 and 133 of this title and enacting provisions set out as notes under sections 44, 133, and 331 of this title\] may be cited as the ‘Federal Judgeship Act of 1990’.”
+Pub. L. 101–650, title II, §201, Dec. 1, 1990, 104 Stat. 5098, provided that: “This title \[amending sections 44 and 133 of this title and enacting provisions set out asnotes under sections 44, 133, and 331 of this title\] may be cited as the ‘Federal Judgeship Act of 1990’.”
 
-Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[enacting sections 178, 1367, and 1658 of this title and section 8440b of Title 5, Government Organization and Employees, amending sections 108, 112, 122, 133, 152, 158, 332, 333, 375, 376, 377, 601, 602, 604, 631, 636, 995, 996, 1334, 1391, 1441, 1452, 1499, 1605, 1610, 1821, 1871, and 2072 of this title, sections 8331, 8334, 8336, 8339, and 8402 of Title 5, provisions set out in the Appendix to Title 5, and section 305 of Title 11, Bankruptcy, renumbering section 15 of Title 9, Arbitration, as section 16 of Title 9, enacting provisions set outas notes under sections 376, 620, 631, 1367, and 1658 of this title, section 8331 of Title 5, section 307 of Title 11, and sections 3006A and 3551 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as notes under sections 533 and 581 of this title\] may be cited as the ‘Federal Courts Study Committee Implementation Act of 1990’.”
+Pub. L. 101–650, title III, §301, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[enacting sections 178, 1367, and 1658 of this title and section 8440b of Title 5, Government Organization and Employees, amending sections 108, 112, 122, 133, 152, 158, 332, 333, 375, 376, 377, 601, 602, 604, 631, 636, 995, 996, 1334, 1391, 1441, 1452, 1499, 1605, 1610, 1821, 1871, and 2072 of this title, sections 8331, 8334, 8336, 8339, and 8402 of Title 5, provisions set out in the Appendix to Title 5, and section 305 of Title 11, Bankruptcy, renumbering section 15 of Title 9, Arbitration, as section 16 of Title 9, enacting provisions set out as notes under sections 376, 620, 631, 1367, and 1658 of this title, section 8331 of Title 5, section 307 of Title 11, and sections 3006A and 3551 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as notes under sections 533 and 581 of this title\] may be cited as the ‘Federal Courts Study Committee Implementation Act of 1990’.”
 
 Pub. L. 101–650, title IV, §401, Dec. 1, 1990, 104 Stat. 5122, provided that: “This title \[amending sections 332, 372, 453, and 2077 of this title and provisions set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 332 and 372 of this title\] may be cited as the ‘Judicial Discipline and Removal Reform Act of 1990’.”
 

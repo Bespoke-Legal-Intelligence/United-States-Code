@@ -182,7 +182,7 @@
 
 #### (iii) Applicable rebate percentage
 
-&emsp;&emsp;&emsp;The applicable rebate percentage specified in this clause for a plan for a year, based on the system under section 1395w–23(<i>o</i>)(4)(A), is the sum of—
+&emsp;&emsp;&emsp;The applicable rebate percentage specified in this clause for a plan for a year, based on the system under section 1395w–23(o)(4)(A), is the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the product of the old phase-in proportion for the year under clause (iv) and 75 percent; and
 
@@ -212,9 +212,9 @@
 
 &emsp;&emsp;&emsp;For purposes of clause (v)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for 2012, in the case of a plan described in subclause (I) of subsection (<i>o</i>)(3)(A)(ii),<sup>1</sup> the plan shall be treated as having a rating of 4.5 stars; and
+&emsp;&emsp;&emsp;&emsp;(I) for 2012, in the case of a plan described in subclause (I) of subsection (o)(3)(A)(ii),<sup>1</sup> the plan shall be treated as having a rating of 4.5 stars; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for 2012 or a subsequent year, in the case of a new MA plan (as defined under subclause (III) of subsection (<i>o</i>)(3)(A)(iii) <sup>2</sup>) that is treated as a qualifying plan pursuant to subclause (I) of such subsection, the plan shall be treated as having a rating of 3.5 stars.
+&emsp;&emsp;&emsp;&emsp;(II) for 2012 or a subsequent year, in the case of a new MA plan (as defined under subclause (III) of subsection (o)(3)(A)(iii) <sup>2</sup>) that is treated as a qualifying plan pursuant to subclause (I) of such subsection, the plan shall be treated as having a rating of 3.5 stars.
 
 #### (vii) Disclosure relating to rebates
 

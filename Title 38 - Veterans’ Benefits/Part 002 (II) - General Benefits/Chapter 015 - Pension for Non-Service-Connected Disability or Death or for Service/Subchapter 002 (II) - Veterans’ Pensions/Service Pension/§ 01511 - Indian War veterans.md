@@ -18,7 +18,7 @@
 
 (2) The Secretary shall pay each month to each veteran of the Indian Wars who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that provided by paragraph (2) of subsection (a) of this section, or (B) that which is payable to the veteran under section 1521 of this title if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to paragraph (1) of this subsection. Each change in the amount of pension payment required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, §511; Pub. L. 86–670, §1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, §111(a), Aug. 31, 1967, 81 Stat. 181;Pub. L. 94–169, title I, §106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered §1511 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, §511; Pub. L. 86–670, §1, July 14, 1960, 74 Stat. 545; Pub. L. 90–77, title I, §111(a), Aug. 31, 1967, 81 Stat. 181; Pub. L. 94–169, title I, §106(16), Dec. 23, 1975, 89 Stat. 1017; renumbered §1511 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1967 Amendment
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Effective Date of 1960 Amendment
 
-Section 3 of Pub. L. 86–670 provided that: “This Act \[amending this section and section 512 \[now 1512\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[July 14, 1960\].”
+Pub. L. 86–670, §3, July 14, 1960, 74 Stat. 545, provided that: “This Act \[amending this section and section 512 \[now 1512\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[July 14, 1960\].”
 

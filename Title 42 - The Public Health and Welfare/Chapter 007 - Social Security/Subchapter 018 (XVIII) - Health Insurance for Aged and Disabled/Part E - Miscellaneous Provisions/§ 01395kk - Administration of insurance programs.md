@@ -40,7 +40,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;(A) is qualified (as determined by the Secretary) to use claims data to evaluate the performance of providers of services and suppliers on measures of quality, efficiency, effectiveness, and resource use; and
 
-&emsp;&emsp;(B) agrees to meet the requirements described in paragraph (4) and meets such other requirements as the Secretary may specify, such as ensuring security of data.
+&emsp;&emsp;(B) agrees to meet the requirements described in paragraph (4) and meets suchother requirements as the Secretary may specify, such as ensuring security of data.
 
 #### (3) Data described
 
@@ -56,7 +56,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;A qualified entity requesting data under this subsection shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary a description of the methodologies that such qualifiedentity will use to evaluate the performance of providers of services and suppliers using such data;
+&emsp;&emsp;&emsp;(i) submit to the Secretary a description of the methodologies that such qualified entity will use to evaluate the performance of providers of services and suppliers using such data;
 
 &emsp;&emsp;&emsp;(ii)(I) except as provided in subclause (II), if available, use standard measures, such as measures endorsed by the entity with a contract under section 1395aaa(a) of this title and measures developed pursuant to section 299b–31 of this title; or
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97.
+Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

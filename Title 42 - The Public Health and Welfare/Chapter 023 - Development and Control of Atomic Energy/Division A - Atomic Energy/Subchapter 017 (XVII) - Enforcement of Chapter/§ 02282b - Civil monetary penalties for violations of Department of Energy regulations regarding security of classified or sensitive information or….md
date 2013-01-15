@@ -24,5 +24,5 @@ In the case of an entity specified in subsection (d) of section 2282a of this ti
 
 #### Effective Date
 
-Pub. L. 106–65, div. C, title XXXI, §3147(b), Oct. 5, 1999, 113 Stat. 938, provided that: “Subsection a. of section234B of the Atomic Energy Act of 1954 \[42 U.S.C. 2282b(a)\], as added by subsection (a), applies to any violation after the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. C, title XXXI, §3147(b), Oct. 5, 1999, 113 Stat. 938, provided that: “Subsection a. of section 234B of the Atomic Energy Act of 1954 \[42 U.S.C. 2282b(a)\], as added by subsection (a), applies to any violation after the date of the enactment of this Act \[Oct. 5, 1999\].”
 

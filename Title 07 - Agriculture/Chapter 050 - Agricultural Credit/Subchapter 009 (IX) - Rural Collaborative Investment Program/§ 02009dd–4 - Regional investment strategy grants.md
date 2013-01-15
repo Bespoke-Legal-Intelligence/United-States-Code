@@ -36,7 +36,7 @@ A regional investment strategy shall provide—
 
 &emsp;&emsp;(D) identifying lead organizations to execute portions of the strategy;
 
-&emsp;(5) an analysis of the current state of collaborative public, private, and nonprofit participation and investment, and of the strategic roles of public, private, and nonprofit entities in the development and implementation of the regional investment strategy;
+&emsp;(5) an analysis of the current state of collaborative public, private, and nonprofit participation and investment, and of the strategic roles of public, private, and nonprofit entitiesin the development and implementation of the regional investment strategy;
 
 &emsp;(6) a section identifying and prioritizing vital projects, programs, and activities for consideration by the Secretary, including—
 

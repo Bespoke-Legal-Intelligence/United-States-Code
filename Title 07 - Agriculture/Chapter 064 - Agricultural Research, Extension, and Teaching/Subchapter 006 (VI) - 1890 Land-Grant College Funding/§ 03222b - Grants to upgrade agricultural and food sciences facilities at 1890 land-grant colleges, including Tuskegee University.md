@@ -46,7 +46,7 @@ A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted “, $15,000,000 for each of fiscal years 1996 and 1997” for “$8,000,000 for each of the fiscal years 1991 through 1995”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted “, $15,000,000 for each of fiscal years 1996 and 1997” for“$8,000,000 for each of the fiscal years 1991 through 1995”.
 
 #### Effective Date of 2008 Amendment
 

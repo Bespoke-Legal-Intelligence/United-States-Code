@@ -46,7 +46,7 @@
 | 1831m–1. | Reports of information regarding safety and soundness of depository institutions. |
 | [1831n.](%C2%A7%2001831n%20-%20Accounting%20objectives%2C%20standards%2C%20and%20requirements.md) | Accounting objectives, standards, and requirements. |
 | 1831<i>o.</i> | Prompt corrective action. |
-| 1831<i>o</i>–1. | Source of strength. |
+| 1831o–1. | Source of strength. |
 | [1831p.](%C2%A7%2001831p%20-%20Transferred.md) | Transferred. |
 | 1831p–1. | Standards for safety and soundness. |
 | [1831q.](%C2%A7%2001831q%20-%20FDIC%20affordable%20housing%20program.md) | FDIC affordable housing program. |

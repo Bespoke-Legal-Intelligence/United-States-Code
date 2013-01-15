@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts for research
 
-(1) Under section 242<i>l</i> of this title, the Secretary, acting through the Director of the National Institutes of Health—
+(1) Under section 242l of this title, the Secretary, acting through the Director of the National Institutes of Health—
 
 &emsp;(A) shall, for the purpose described in paragraph (2), make grants to, enter into cooperative agreements and contracts with, and provide technical assistance to, international organizations concerned with public health; and
 
@@ -12,7 +12,7 @@
 
 #### (b) Grants and contracts for additional purposes
 
-After consultation with the Administrator of the Agency for International Development, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall under section 242<i>l</i> of this title make grants to, enter into contracts with, and provide technical assistance to, international organizations concerned with public health and may provide technical assistance to foreign governments, in order to support—
+After consultation with the Administrator of the Agency for International Development, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall under section 242l of this title make grants to, enter into contracts with, and provide technical assistance to, international organizations concerned with public health and may provide technical assistance to foreign governments, in order to support—
 
 &emsp;(1) projects for training individuals with respect to developing skills and technical expertise for use in the prevention, diagnosis, and treatment of acquired immune deficiency syndrome; and
 

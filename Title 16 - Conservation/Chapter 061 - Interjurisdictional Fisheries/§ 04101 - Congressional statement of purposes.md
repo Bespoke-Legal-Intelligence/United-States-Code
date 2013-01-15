@@ -20,9 +20,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Effective Date
 
-Section 310 of title III of Pub. L. 99–659 provided that: “This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987.”
+Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that: “This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987.”
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 99–659 provided that: “This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] may be cited as the ‘Interjurisdictional Fisheries Act of 1986’.”
+Pub. L. 99–659, title III, §301, Nov. 14, 1986, 100 Stat. 3731, provided that: “This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] may be cited as the ‘Interjurisdictional Fisheries Act of 1986’.”
 

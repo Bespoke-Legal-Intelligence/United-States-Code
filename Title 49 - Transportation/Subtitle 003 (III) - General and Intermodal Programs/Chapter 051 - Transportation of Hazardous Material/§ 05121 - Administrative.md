@@ -32,13 +32,21 @@ In general.—A designated officer, employee, or agent of the Secretary—
 
 &emsp;&emsp;(D) may gather information from the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package, to ascertain the nature and hazards of the contents of the package;
 
-&emsp;&emsp;(E) as necessary, under terms and conditions specified by the Secretary, may order the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package to have the package transported to, opened, and the contents examined and analyzed, at a facility appropriate for the conduct of such examination and analysis; and
+&emsp;&emsp;(E) as necessary, under terms and conditions specified by the Secretary, may order the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package to have the package transported to, opened, and the contents examined and analyzed, at a facility appropriate for the conduct of such examination and analysis;
 
-&emsp;&emsp;(F) when safety might otherwise be compromised, may authorize properly qualified personnel to assist in the activities conducted under this subsection.
+&emsp;&emsp;(F) when safety might otherwise be compromised, may authorize properly qualified personnel to assist in the activities conducted under this subsection; and
+
+&emsp;&emsp;(G) shall provide to the affected offeror, carrier, packaging manufacturer or tester, or other person responsible for the package reasonable notice of—
+
+&emsp;&emsp;&emsp;(i) his or her decision to exercise his or her authority under paragraph (1);
+
+&emsp;&emsp;&emsp;(ii) any findings made; and
+
+&emsp;&emsp;&emsp;(iii) any actions being taken as a result of a finding of noncompliance.
 
 &emsp;(2)
 
-Display of credentials.—An officer, employee, or agent acting under this subsection shall display proper credentials when requested.
+Display of credentials.—An officer, employee, or agent acting under this subsection shall display proper credentials, in person or in writing, when requested.
 
 &emsp;(3)
 
@@ -54,7 +62,7 @@ Emergency Orders.—
 
 &emsp;(1)
 
-In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminenthazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
 &emsp;(2)
 
@@ -90,6 +98,22 @@ Temporary regulations.—Not later than 60 days after the date of enactment of t
 
 Final regulations.—Not later than 1 year after such date of enactment, the Secretary shall issue regulations to carry out subsections (c) and (d) in accordance with subchapter II of chapter 5 of title 5.
 
+&emsp;(3)
+
+Matters to be addressed.—The regulations issued under this subsection shall address—
+
+&emsp;&emsp;(A) the safe and expeditious resumption of transportation of perishable hazardous material, including radiopharmaceuticals and other medical products, that may require timely delivery due to life-threatening situations;
+
+&emsp;&emsp;(B) the means by which—
+
+&emsp;&emsp;&emsp;(i) noncompliant packages that present an imminent hazard are placed out-of-service until the condition is corrected; and
+
+&emsp;&emsp;&emsp;(ii) noncompliant packages that do not present a hazard are moved to their final destination;
+
+&emsp;&emsp;(C) appropriate training and equipment for inspectors; and
+
+&emsp;&emsp;(D) the proper closure of packaging in accordance with the hazardous material regulations.
+
 (f)
 
 Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) The Secretary shall—
@@ -98,7 +122,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(B) maintain a central reporting system and information center capable of providing information and advice to law enforcement and firefighting personnel, other interested individuals, and officers and employees of the Government and State and local governments on meeting an emergency related to the transportation of hazardous material; and
 
-&emsp;(C) conduct a continuous review on all aspects of transporting hazardous material todecide on and take appropriate actions to ensure safe transportation of hazardous material.
+&emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
 
 (2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
@@ -106,7 +130,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 Grants and Cooperative Agreements.—The Secretary may enter into grants and cooperative agreements with a person, agency, or instrumentality of the United States, a unit of State or local government, an Indian tribe, a foreign government (in coordination with the Department of State), an educational institution, or other appropriate entity—
 
-&emsp;(1) to expand risk assessment and emergency response capabilities with respect to the security of transportation of hazardous material;
+&emsp;(1) to expand risk assessment and emergency response capabilities with respect to the safety and security of transportation of hazardous material;
 
 &emsp;(2) to enhance emergency communications capacity as determined necessary by the Secretary, including the use of integrated, interoperable emergency communications technologies where appropriate;
 
@@ -124,13 +148,13 @@ Report.—The Secretary shall, once every 2 years, prepare and transmit to the C
 
 &emsp;(3) a summary of the basis for each special permit;
 
-&emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a function regulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
+&emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a functionregulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
 
 &emsp;(5) a summary of outstanding problems in carrying out this chapter in order of priority; and
 
 &emsp;(6) recommendations for appropriate legislation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678; Pub. L. 109–59, title VII, §§7118, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909; Pub. L. 110–244, title III, §302(e), June 6, 2008, 122 Stat. 1618.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678; Pub. L. 109–59, title VII, §§7118, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909; Pub. L. 110–244, title III, §302(e), June 6, 2008, 122 Stat. 1618; Pub. L. 112–141, div. C, title II, §32501(c), title III, §33009(a), (b)(1), (c), July 6, 2012, 126 Stat. 803, 836, 837.)
 
 Historical and Revision Notes
 
@@ -184,6 +208,14 @@ The date of enactment of the Hazardous Materials Transportation Safety and Secur
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(1)(G). Pub. L. 112–141, §33009(a), added subpar. (G).
+
+Subsec. (c)(2). Pub. L. 112–141, §32501(c), inserted “, in person or in writing,” after “proper credentials”.
+
+Subsec. (e)(3). Pub. L. 112–141, §33009(b)(1), added par. (3).
+
+Subsec. (g)(1). Pub. L. 112–141, §33009(c), inserted “safety and” before “security”.
+
 <b>2008</b>—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted “special permits” for “exemptions”.
 
 Subsec. (h)(3). Pub. L. 110–244, §302(e)(2), substituted “special permit” for “exemption”.
@@ -222,7 +254,99 @@ Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted “relating to a functi
 
 Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Paperless Hazard Communications Pilot Program
+
+Pub. L. 112–141, div. C, title III, §33005, July 6, 2012, 126 Stat. 833, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] may conduct pilot projects to evaluate the feasibilityand effectiveness of using paperless hazard communications systems. At least 1 of the pilot projects under this section shall take place in a rural area.
+
+“(b)
+
+Requirements.—In conducting pilot projects under this section, the Secretary—
+
+&emsp;“(1) may not waive the requirements under section 5110 of title 49, United States Code; and
+
+&emsp;“(2) shall consult with organizations representing—
+
+&emsp;&emsp;“(A) fire services personnel;
+
+&emsp;&emsp;“(B) law enforcement and other appropriate enforcement personnel;
+
+&emsp;&emsp;“(C) other emergency response providers;
+
+&emsp;&emsp;“(D) persons who offer hazardous material for transportation;
+
+&emsp;&emsp;“(E) persons who transport hazardous material by air, highway, rail, and water; and
+
+&emsp;&emsp;“(F) employees of persons who transport or offer for transportation hazardous material by air, highway, rail, and water.
+
+“(c)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary shall—
+
+&emsp;“(1) prepare a report on the results of the pilot projects carried out under this section, including—
+
+&emsp;&emsp;“(A) a detailed description of the pilot projects;
+
+&emsp;&emsp;“(B) an evaluation of each pilot project, including an evaluation of the performance of each paperless hazard communications system in such project;
+
+&emsp;&emsp;“(C) an assessment of the safety and security impact of using paperless hazard communications systems, including any impact on the public, emergency response, law enforcement, and the conduct of inspections and investigations;
+
+&emsp;&emsp;“(D) an analysis of the associated benefits and costs of using the paperless hazard communications systems for each mode of transportation; and
+
+&emsp;&emsp;“(E) a recommendation that incorporates the information gathered in subparagraphs (A), (B), (C), and (D) on whether paperless hazard communications systems should be permanently incorporated into the Federal hazardous material transportation safety program under chapter 51 of title 49, United States Code; and
+
+&emsp;“(2) submit a final report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that contains the results of the pilot projects carried out under this section, including the matters described in paragraph (1).
+
+“(d)
+
+Paperless Hazard Communications System Defined.—In this section, the term ‘paperless hazard communications system’ means the use of advanced communications methods, such as wireless communications devices, to convey hazard information between all parties in the transportation chain, including emergency responders and law enforcement personnel. The format of communication may be equivalent to that used by the carrier.”
+
+#### Hazardous Material Enforcement Training
+
+Pub. L. 112–141, div. C, title III, §33008, July 6, 2012, 126 Stat. 836, provided that:
+
+“(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall develop uniform performance standards for training hazardous material inspectors and investigators on—
+
+&emsp;“(1) how to collect, analyze, and publish findings from inspections and investigations of accidents or incidents involving the transportation of hazardous material; and
+
+&emsp;“(2) how to identify noncompliance with regulations issued under chapter 51 of title 49, United States Code, and take appropriate enforcement action.
+
+“(b)
+
+Standards and Guidelines.—The Secretary may develop—
+
+&emsp;“(1) guidelines for hazardous material inspector and investigator qualifications;
+
+&emsp;“(2) best practices and standards for hazardous material inspector and investigator training programs; and
+
+&emsp;“(3) standard protocols to coordinate investigation efforts among Federal, State, and local jurisdictions on accidents or incidents involving the transportation of hazardous material.
+
+“(c)
+
+Availability.—The standards, protocols, and guidelines established under this section—
+
+&emsp;“(1) shall be mandatory for—
+
+&emsp;&emsp;“(A) the Department of Transportation's multimodal personnel conducting hazardous material enforcement inspections or investigations; and
+
+&emsp;&emsp;“(B) State employees who conduct federally funded compliance reviews, inspections, or investigations; and
+
+&emsp;“(2) shall be made available to Federal, State, and local hazardous material safety enforcement personnel.”
+
+#### Finalizing Regulations
+
+Pub. L. 112–141, div. C, title III, §33009(b)(2), July 6, 2012, 126 Stat. 837, provided that: “In accordance with section 5103(b)(2) of title 49, United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\].”
+
 #### Toll Free Number for Reporting
 
-Section 116 of Pub. L. 103–311 provided that: “The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter.”
+Pub. L. 103–311, title I, §116, Aug. 26, 1994, 108 Stat. 1678, provided that: “The Secretary of Transportation shall designate a toll free telephone number for transporters of hazardous materials and other individuals to report to the Secretary possible violations of chapter 51 of title 49, United States Code, or any order or regulation issued under that chapter.”
 

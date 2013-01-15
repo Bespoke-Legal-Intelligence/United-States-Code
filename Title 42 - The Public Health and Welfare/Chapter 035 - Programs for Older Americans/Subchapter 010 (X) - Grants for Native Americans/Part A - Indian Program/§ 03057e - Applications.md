@@ -18,7 +18,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(7) provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
 
-&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered toolder individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
 &emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
 

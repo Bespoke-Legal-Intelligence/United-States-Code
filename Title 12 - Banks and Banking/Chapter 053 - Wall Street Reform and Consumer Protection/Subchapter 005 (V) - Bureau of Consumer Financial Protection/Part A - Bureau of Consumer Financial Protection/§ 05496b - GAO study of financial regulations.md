@@ -18,5 +18,5 @@ Not later than the end of the 30-day period following the completion of a study 
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 112–10, which enacted this section and was approved Apr. 15, 2011.
+The date of the enactment of this Act, referred to in subsec. (a), probably means the date of enactment ofPub. L. 112–10, which enacted this section and was approved Apr. 15, 2011.
 

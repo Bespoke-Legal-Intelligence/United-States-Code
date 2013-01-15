@@ -74,7 +74,7 @@ Except as provided in subsection (f)—
 
 #### (A) Transfers at death
 
-&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.
+&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of suchproperty for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.
 
 #### (B) Allocations to property transferred at death of transferor
 
@@ -172,7 +172,7 @@ Except as provided in subsection (f)—
 
 #### (2) Adjusted GST exemption
 
-&emsp;For purposes of paragraph (1), the adjusted GST exemption is an amount equal to the GST exemption allocated to the trust increased by interest determined—
+&emsp;For purposes of paragraph (1), the adjusted GST exemption is an amount equal to the GSTexemption allocated to the trust increased by interest determined—
 
 &emsp;&emsp;(A) at the interest rate used in determining the amount of the deduction under section 2055 or 2522 (as the case may be) for the charitable lead annuity, and
 
@@ -230,7 +230,7 @@ Except as provided in regulations—
 
 #### (5) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
 #### (g) Relief provisions
 
@@ -254,27 +254,21 @@ Except as provided in regulations—
 
 &emsp;An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor's unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411;Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §562(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+Subsec. (b)(1). Pub. L. 107–16, §563(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
 &emsp;“(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 
 &emsp;“(B) such allocation shall be effective on and after the date of such transfer.”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2)(A). Pub. L. 107–16, §563(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
 
-Subsec. (b)(2)(A). Pub. L. 107–16, §§563(b), 901, temporarily reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.” See Effective and Termination Dates of 2001 Amendment note below.
-
-Subsec. (g). Pub. L. 107–16, §§564(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (g). Pub. L. 107–16, §564(a), added subsec. (g).
 
 <b>1990</b>—Subsec. (b)(3). Pub. L. 101–508, §11704(a)(36), amended Pub. L. 100–647, §1014(g)(4)(F)(ii). See 1988 Amendment note below.
 
@@ -332,7 +326,7 @@ Subsec. (e). Pub. L. 100–647, §1014(g)(3)(A), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1014(g)(4)(A), added subsec. (f).
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §562(b), June 7, 2001, 115 Stat. 90, provided that: “The amendment made by this section \[amending this section\] shall apply to severances after December 31, 2000.”
 
@@ -348,11 +342,9 @@ Relief from late elections.—Section 2642(g)(1) of the Internal Revenue Code of
 
 Substantial compliance.—Section 2642(g)(2) of such Code (as so added) shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000. No implication is intended with respect to the availability of relief from late elections or the application of a rule of substantial compliance on or before such date.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1990 Amendment
 
-Section 11703(c)(4) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to transfers after March 31, 1988.”
+Pub. L. 101–508, title XI, §11703(c)(4), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to transfers after March 31, 1988.”
 
 #### Effective Date of 1989 Amendment
 
@@ -360,9 +352,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1014(g)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply for purposes of determining the inclusion ratio with respect to property transferred after October 13, 1987.”
+Pub. L. 100–647, title I, §1014(g)(3)(B), Nov. 10, 1988, 102 Stat. 3563, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply for purposes of determining the inclusion ratio with respect to property transferred after October 13, 1987.”
 
-Section 1014(g)(17)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to transfers after March 31, 1988.”
+Pub. L. 100–647, title I, §1014(g)(17)(C), Nov. 10, 1988, 102 Stat. 3567, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to transfers after March 31, 1988.”
 
 Amendment by section 1014(g)(4), (18) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

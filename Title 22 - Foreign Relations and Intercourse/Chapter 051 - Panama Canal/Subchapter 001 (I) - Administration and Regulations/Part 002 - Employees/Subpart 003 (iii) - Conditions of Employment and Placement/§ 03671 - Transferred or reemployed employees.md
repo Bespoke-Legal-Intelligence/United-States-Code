@@ -66,7 +66,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama CanalAct of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Codification
 

@@ -50,7 +50,7 @@
 
 #### (B) Vacating of order
 
-&emsp;&emsp;Upon a determination by the Secretary that adequate grounds do not exist to continue the suspension actions required by the order, or that such actions should be modified, the Secretary shall promptly vacate the order and reinstate the registration ofthe facility subject to the order or modify the order, as appropriate.
+&emsp;&emsp;Upon a determination by the Secretary that adequate grounds do not exist to continue the suspension actions required by the order, or that such actions should be modified, the Secretary shall promptly vacate the order and reinstate the registration of the facility subject to the order or modify the order, as appropriate.
 
 #### (4) Effect of suspension
 
@@ -138,7 +138,7 @@ Proposed rulemaking.—
 
 In general.—Not later than 9 months after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall publish a notice of proposed rulemaking in the Federal Register to promulgate regulations with respect to—
 
-&emsp;&emsp;“(i) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of theFederal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act; and
+&emsp;&emsp;“(i) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act; and
 
 &emsp;&emsp;“(ii) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415.
 
@@ -170,7 +170,7 @@ Limitation.—The exemptions or modifications under clause (i) shall not include
 
 Final regulations.—Not later than 9 months after the close of the comment period for the proposed rulemaking under paragraph (1), the Secretary shall adopt final rules with respect to—
 
-&emsp;“(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
+&emsp;“(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumedon such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
 
 &emsp;“(B) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415; and
 

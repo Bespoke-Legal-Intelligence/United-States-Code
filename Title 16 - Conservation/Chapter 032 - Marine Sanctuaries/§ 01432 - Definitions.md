@@ -90,7 +90,7 @@ Subsec. (h). Pub. L. 96–332, §2(3), added subsec. (h).
 
 #### Regulations
 
-Section 210 of title II of Pub. L. 100–627 provided that: “Not later than one year after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Commerce—
+Pub. L. 100–627, title II, §210, Nov. 7, 1988, 102 Stat. 3223, provided that: “Not later than one year after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Commerce—
 
 &emsp;“(1) shall propose regulations implementing the amendments made by this title \[enacting sections 1440 to 1445 of this title, amending sections 1432, 1434, and 1437 of this title, and repealing section 1438 of this title\]; and
 
@@ -98,7 +98,7 @@ Section 210 of title II of Pub. L. 100–627 provided that: “Not later than on
 
 #### Additional Definitions
 
-Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of theUnited States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
+Pub. L. 92–532, §3, Oct. 23, 1972, 86 Stat. 1052, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

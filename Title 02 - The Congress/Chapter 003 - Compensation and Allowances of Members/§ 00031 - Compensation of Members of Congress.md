@@ -48,7 +48,7 @@ A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 192
 
 #### Effective Date of 1994 Amendment
 
-Section 101 of Pub. L. 103–356 provided that the amendment made by that section is effective Dec. 31, 1994.
+Pub. L. 103–356, title I, §101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective Dec. 31, 1994.
 
 #### Effective Date of 1990 Amendment
 
@@ -80,7 +80,7 @@ Amendment by act Jan. 19, 1949, effective at noon, Jan. 20, 1949, see section 3 
 
 #### Effective Date
 
-Section 601(a) of act Aug. 2, 1946, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title VI, §601(a), 60 Stat. 850, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
 
 #### Short Title of 1996 Amendment
 
@@ -88,9 +88,11 @@ Pub. L. 104–186, §1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This
 
 #### Short Title of 1964 Amendment
 
-Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11, 84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
+Pub. L. 88–426, title II, §201, Aug. 14, 1964, 78 Stat. 413, provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11, 84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
 #### Cost of Living Adjustment
+
+Pub. L. 112–240, title VIII, §802, Jan. 2, 2013, 126 Stat. 2369, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) (relating to cost of living adjustments for Members of Congress) during fiscal year 2013.”
 
 Pub. L. 111–165, §1, May 14, 2010, 124 Stat. 1185, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) (relating to cost of living adjustments for Members of Congress) during fiscal year 2011.”
 
@@ -110,7 +112,7 @@ Severability.—If any provision of this Act \[enacting provisions set out as no
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 
-Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increasedby 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees
 

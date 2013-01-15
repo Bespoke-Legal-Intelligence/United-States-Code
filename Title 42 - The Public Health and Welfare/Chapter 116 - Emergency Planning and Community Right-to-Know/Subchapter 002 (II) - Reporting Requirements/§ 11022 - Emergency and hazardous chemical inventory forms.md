@@ -54,7 +54,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (2) Tier II information
 
-&emsp;An inventory form shall provide the following additional information for each hazardouschemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
+&emsp;An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
 
 &emsp;&emsp;(A) The chemical name or the common name of the chemical as provided on the material safety data sheet.
 

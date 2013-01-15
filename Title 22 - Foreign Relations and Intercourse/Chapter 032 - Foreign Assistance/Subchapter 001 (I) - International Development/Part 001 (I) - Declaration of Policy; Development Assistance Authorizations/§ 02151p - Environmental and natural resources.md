@@ -28,7 +28,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Codification
 
-Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151<i>o</i> of this title prior to repeal by Pub. L. 95–424 and Pub. L. 103–149.
+Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151o of this title prior to repeal by Pub. L. 95–424 and Pub. L. 103–149.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Joint project.—The term ‘joint project’ means a project between a United S
 
 &emsp;“(2)
 
-Latin american or caribbean nongovernmental organization.—The term ‘Latin American or Caribbean nongovernmental organization’ includes any institution of higher education, any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the region.
+Latin american or caribbean nongovernmental organization.—The term ‘Latin American orCaribbean nongovernmental organization’ includes any institution of higher education, any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the region.
 
 &emsp;“(3)
 
@@ -158,7 +158,7 @@ Subregion.—The term ‘subregion’ means an area within the region and includ
 
 “(a)
 
-In General.—The President is authorized to establish a Clean Water Technical Support Committee (inthis section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
+In General.—The President is authorized to establish a Clean Water Technical Support Committee (in this section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
 
 “(b)
 

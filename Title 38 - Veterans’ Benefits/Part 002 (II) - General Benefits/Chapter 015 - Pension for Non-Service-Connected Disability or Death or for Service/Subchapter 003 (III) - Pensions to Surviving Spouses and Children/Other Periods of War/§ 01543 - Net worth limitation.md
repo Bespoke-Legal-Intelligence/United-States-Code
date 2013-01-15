@@ -32,7 +32,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Section 101 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1959 Amendment
 

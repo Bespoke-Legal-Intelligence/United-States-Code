@@ -68,6 +68,7 @@
 | [502\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000502%20-%20Payments%20to%20States%3B%20computation%20of%20amounts.md) | Payments to States; computation of amounts. |
 | [503\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000503%20-%20State%20laws.md) | State laws. |
 | [504\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000504%20-%20Judicial%20review.md) | Judicial review. |
+| [505\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000505%20-%20Demonstration%20projects.md) | Demonstration projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -310,6 +311,7 @@
 | [1108\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001108%20-%20Advisory%20Council%20on%20Unemployment%20Compensation.md) | Advisory Council on Unemployment Compensation. |
 | [1109\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001109%20-%20Federal%20Employees%20Compensation%20Account.md) | Federal Employees Compensation Account. |
 | [1110\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001110%20-%20Borrowing%20between%20Federal%20accounts.md) | Borrowing between Federal accounts. |
+| [1111\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001111%20-%20Data%20exchange%20standardization%20for%20improved%20interoperability.md) | Data exchange standardization for improved interoperability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -786,7 +788,7 @@
 | [1396m.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396m%20-%20Withholding%20of%20Federal%20share%20of%20payments%20for%20certain%20medicare%20providers.md) | Withholding of Federal share of payments for certain medicare providers. |
 | [1396n.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396n%20-%20Compliance%20with%20State%20plan%20and%20payment%20provisions.md) | Compliance with State plan and payment provisions. |
 | 1396<i>o.</i> | Use of enrollment fees, premiums, deductions, cost sharing, and similar charges. |
-| 1396<i>o</i>–1. | State option for alternative premiums and cost sharing. |
+| 1396o–1. | State option for alternative premiums and cost sharing. |
 | [1396p.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396p%20-%20Liens%2C%20adjustments%20and%20recoveries%2C%20and%20transfers%20of%20assets.md) | Liens, adjustments and recoveries, and transfers of assets. |
 | [1396q.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396q%20-%20Application%20of%20provisions%20of%20subchapter%20II%20relating%20to%20subpoenas.md) | Application of provisions of subchapter II relating to subpoenas. |
 | [1396r.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396r%20-%20Requirements%20for%20nursing%20facilities.md) | Requirements for nursing facilities. |

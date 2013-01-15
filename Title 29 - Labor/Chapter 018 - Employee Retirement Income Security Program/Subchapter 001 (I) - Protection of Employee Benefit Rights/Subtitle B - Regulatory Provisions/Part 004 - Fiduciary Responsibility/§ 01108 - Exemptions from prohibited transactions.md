@@ -16,7 +16,7 @@ The Secretary shall establish an exemption procedure for purposes of this subsec
 
 The prohibitions provided in section 1106 of this title shall not apply to any of the following transactions:
 
-&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
+&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on areasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
 
 &emsp;(2) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
 
@@ -44,7 +44,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) such bank or similar financial institution has adopted adequate internal safeguards which assure that the providing of such ancillary service is consistent with sound banking and financial practice, as determined by Federal or State supervisory authority, and
 
-&emsp;&emsp;(B) the extent to which such ancillary service is provided is subject to specific guidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federaland State supervisory authority), and adherence to such guidelines would reasonably preclude such bank or similar financial institution from providing such ancillary service (i) in an excessive or unreasonable manner, and (ii) in a manner that would be inconsistent with the best interests of participants and beneficiaries of employee benefit plans.
+&emsp;&emsp;(B) the extent to which such ancillary service is provided is subject to specific guidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federal and State supervisory authority), and adherence to such guidelines would reasonably preclude such bank or similar financial institution from providing such ancillary service (i) in an excessive or unreasonable manner, and (ii) in a manner that would be inconsistent with the best interests of participants and beneficiaries of employee benefit plans.
 
 > &emsp;Such ancillary services shall not be provided at more than reasonable compensation.
 
@@ -72,7 +72,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(C) such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
 
-&emsp;(13) Any transfer made before January 1, 2014, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on August 17, 2006).
+&emsp;(13) Any transfer made before January 1, 2022, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 6, 2012).
 
 &emsp;(14) Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
 
@@ -108,7 +108,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) the transaction is effected pursuant to rules designed to match purchases andsales at the best price available through the execution system in accordance with applicable rules of the Securities and Exchange Commission or other relevant governmental authority, or
+&emsp;&emsp;&emsp;(i) the transaction is effected pursuant to rules designed to match purchases and sales at the best price available through the execution system in accordance with applicable rules of the Securities and Exchange Commission or other relevant governmental authority, or
 
 &emsp;&emsp;&emsp;(ii) neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
 
@@ -124,7 +124,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(i) in the case of a security for which there is a generally recognized market—
 
-&emsp;&emsp;&emsp;(I) the price of the security prevailing on a national securities exchange which is registered under section 6 of the Securities Exchange Act of 1934 \[15 U.S.C. 78f\], taking into account factors such as the size of the transaction and marketability of the security, or
+&emsp;&emsp;&emsp;(I) the price of the security prevailing on a national securities exchange which is registered under section 6 of the SecuritiesExchange Act of 1934 \[15 U.S.C. 78f\], taking into account factors such as the size of the transaction and marketability of the security, or
 
 &emsp;&emsp;&emsp;(II) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of the party in interest, taking into account factors such as the size of the transaction and marketability of the security, and
 
@@ -152,7 +152,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(C) no brokerage commission, fee (except for customary transfer fees, the fact of which is disclosed pursuant to subparagraph (D)), or other remuneration is paid in connection with the transaction,
 
-&emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including thewritten policies and procedures of the investment manager described in subparagraph (H),
+&emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
 
 &emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 1107(d)(7) of this title), the master trust has assets of at least $100,000,000,
 
@@ -162,7 +162,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(H) the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager's pricing policies and procedures, and the manager's policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
 
-&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
+&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing thesteps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
 
 > &emsp;The written report under subparagraph (I) shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time.
 
@@ -198,7 +198,7 @@ Nothing in section 1106 of this title shall be construed to prohibit any fiducia
 
 #### (d) Owner-employees; family members; shareholder employees
 
-(1) Section 1107(b) of this title and subsections (b), (c), and (e) of this section shall not apply toa transaction in which a plan directly or indirectly—
+(1) Section 1107(b) of this title and subsections (b), (c), and (e) of this section shall not apply to a transaction in which a plan directly or indirectly—
 
 &emsp;(A) lends any part of the corpus or income of the plan to,
 
@@ -404,7 +404,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (A) Fiduciary adviser
 
-&emsp;&emsp;The term “fiduciary adviser” means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title by the person to aparticipant or beneficiary of the plan and who is—
+&emsp;&emsp;The term “fiduciary adviser” means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title by the person to a participant or beneficiary of the plan and who is—
 
 &emsp;&emsp;&emsp;(i) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
@@ -426,9 +426,9 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (C) Registered representative
 
-&emsp;&emsp;The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
+&emsp;&emsp;The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities ExchangeAct of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859.)
 
 #### References in Text
 
@@ -439,6 +439,8 @@ The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is ti
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(13). Pub. L. 112–141 substituted “January 1, 2022” for “January 1, 2014” and “July 6, 2012” for “August 17, 2006”.
 
 <b>2008</b>—Subsec. (b)(18)(C). Pub. L. 110–458, §106(b)(1), struck out “or less” after “deviate by more”.
 
@@ -474,7 +476,7 @@ Pub. L. 108–218 substituted “January 1, 2014” for “January 1, 2006” an
 
 <b>1990</b>—Subsec. (b)(13). Pub. L. 101–508 added par. (13).
 
-<b>1989</b>—Subsec. (b)(12). Pub. L. 101–239, §7881(<i>l</i>)(5), added par. (12).
+<b>1989</b>—Subsec. (b)(12). Pub. L. 101–239, §7881(l)(5), added par. (12).
 
 Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted “section 401(c)(3) of the Internal Revenue Code of 1986” for “section 401(c)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 401(c)(3) of title 26” thus requiring no change in text.
 
@@ -528,7 +530,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(<i>l</i>)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(l)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -550,7 +552,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days afterthe date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and procedures required to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
+Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and procedures required to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

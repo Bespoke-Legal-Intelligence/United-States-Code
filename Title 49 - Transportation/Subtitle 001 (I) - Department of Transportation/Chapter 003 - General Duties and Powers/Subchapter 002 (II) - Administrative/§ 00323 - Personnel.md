@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.
 
-(b) The Secretary may procure services under section 3109 of title 5. However, an individual may be paid not more than $100 a day for services.
+(b) The Secretary may procure services under section 3109 of title 5. However, an individualmay be paid not more than $100 a day for services.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2423.)
 
@@ -51,4 +51,26 @@ In subsection (a), the words “In addition to the authority contained in any ot
 The text of 49:1343(d) (words after 1st comma) is omitted because of section 414(a)(1)(B) of the Civil Service Reform Act of 1978 (Pub. L. 95–454, 92 Stat. 1177). The text of 49:1343(f) is omitted because of section 414(a)(2)(A) of that Act.
 
 In subsection (b), the word “procure” is substituted for “obtain” to conform to 5:3109. The words “unless otherwise specified in an appropriation Act” after “individuals” in 49:1657(b) are omitted as surplus.
+
+#### Post-Employment Policy Study
+
+Pub. L. 112–141, div. C, title I, §31308(b), July 6, 2012, 126 Stat. 770, provided that:
+
+“(1)
+
+In general.—The Inspector General of the Department of Transportation shall conduct a study of the Department's policies relating to post-employment restrictions on employees who perform functions related to transportation safety.
+
+“(2)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Inspector General shall submit a report containing the results of the study conducted under paragraph (1) to—
+
+&emsp;“(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;“(B) the Committee on Energy and Commerce of the House of Representatives; and
+
+&emsp;“(C) the Secretary of Transportation.
+
+“(3)
+
+Use of results.—The Secretary of Transportation shall review the results of the study conducted under paragraph (1) and take whatever action the Secretary determines to be appropriate.”
 

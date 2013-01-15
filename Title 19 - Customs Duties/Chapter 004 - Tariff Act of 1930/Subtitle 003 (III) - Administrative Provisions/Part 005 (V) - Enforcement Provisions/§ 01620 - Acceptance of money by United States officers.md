@@ -8,5 +8,5 @@ Any officer of the United States who directly or indirectly receives, accepts, o
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §620, 42 Stat. 988. That section was superseded by section 620 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions somewhat similar to those in this section but excepting cases of smuggling were contained in act June 22, 1874, ch. 391, §7, 18 Stat. 187, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Provisions somewhat similar to those in this section but excepting cases of smuggling were contained in actJune 22, 1874, ch. 391, §7, 18 Stat. 187, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

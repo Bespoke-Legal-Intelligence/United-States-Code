@@ -18,11 +18,11 @@ The Secretary shall—
 
 &emsp;(3) ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.
 
-(June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2),Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. PartA of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -80,9 +80,9 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 #### Effective Date of 1973 Amendment
 
-Section 771(b) of Pub. L. 93–198 provided in part that title II of Pub. L. 93–198 \[amending this section and section 50 of this title and enacting provisions set out as notes under section 49 of this title and section 8101 of Title 5, Government Organization and Employees\], shall take effect on July 1, 1974.
+Pub. L. 93–198, title VII, §771(b), Dec. 24, 1973, 87 Stat. 836, provided in part that title II of Pub. L. 93–198 \[amending this section and section 50 of this title and enacting provisions set out as notes under section 49 of this title and section 8101 of Title 5, Government Organization and Employees\], shall take effect on July 1, 1974.
 
 #### Effective Date of 1954 Amendment
 
-Section 8 of act Aug. 3, 1954, provided that: “The amendments made by this Act \[enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances\] shall become effective July 1, 1954.”
+Act Aug. 3, 1954, ch. 655, §8, 68 Stat. 665, provided that: “The amendments made by this Act \[enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances\] shall become effective July 1, 1954.”
 

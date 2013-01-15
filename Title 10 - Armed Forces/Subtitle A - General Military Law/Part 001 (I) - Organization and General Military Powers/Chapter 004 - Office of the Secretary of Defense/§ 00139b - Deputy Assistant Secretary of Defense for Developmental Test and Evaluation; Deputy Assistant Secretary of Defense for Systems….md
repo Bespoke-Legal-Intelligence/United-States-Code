@@ -14,7 +14,7 @@ Principal advisor for developmental test and evaluation.—The Deputy Assistant 
 
 &emsp;(3)
 
-Supervision.—The Deputy Assistant Secretary shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics and shall report to the Under Secretary.
+Supervision.—The Deputy Assistant Secretary shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics and shall report to the Under Secretary. The Deputy Assistant Secretary may communicate views on matters within the responsibility of the Deputy Assistant Secretary directly to the Under Secretary without obtaining the approval or concurrence of any other official within the Department of Defense.
 
 &emsp;(4)
 
@@ -26,21 +26,23 @@ Duties.—The Deputy Assistant Secretary shall—
 
 &emsp;&emsp;(A) develop policies and guidance for—
 
-&emsp;&emsp;&emsp;(i) the conduct of developmental test and evaluation in the Department of Defense (including integration and developmental testing of software);
+&emsp;&emsp;&emsp;(i) the conduct of developmental test and evaluation in the military departments and other elements of the Department of Defense (including integration and developmental testing of software);
 
 &emsp;&emsp;&emsp;(ii) in coordination with the Director of Operational Test and Evaluation, the integration of developmental test and evaluation with operational test and evaluation;
 
 &emsp;&emsp;&emsp;(iii) the conduct of developmental test and evaluation conducted jointly by more than one military department or Defense Agency;
 
-&emsp;&emsp;(B) review and approve the developmental test and evaluation plan within the test and evaluation master plan for each major defense acquisition program of the Department of Defense;
+&emsp;&emsp;(B) review and approve or disapprove the developmental test and evaluation plan within the test and evaluation master plan for each major defense acquisition program of the Department of Defense;
 
-&emsp;&emsp;(C) monitor and review the developmental test and evaluation activities of the major defense acquisition programs;
+&emsp;&emsp;(C) monitor and review the developmental test and evaluation activities of the major defense acquisition programs (including the activities of chief developmental testers and lead developmental test evaluation organizations designated in accordance with subsection (c));
 
 &emsp;&emsp;(D) provide advocacy, oversight, and guidance to elements of the acquisition workforce responsible for developmental test and evaluation;
 
-&emsp;&emsp;(E) periodically review the organizations and capabilities of the military departments with respect to developmental test and evaluation and identify needed changes or improvements to such organizations and capabilities, and provide input regarding needed changes or improvements for the test and evaluation strategic plan developed in accordance with section 196(d) of this title; and
+&emsp;&emsp;(E) periodically review the organizations and capabilities of the military departments with respect to developmental test and evaluation and identify needed changes or improvements to such organizations and capabilities, and provide input regarding needed changes or improvements for the test and evaluation strategic plan developed in accordance with section 196(d) of this title;
 
-&emsp;&emsp;(F) perform such other activities relating to the developmental test and evaluation activities of the Department of Defense as the Under Secretary of Defense for Acquisition, Technology, and Logistics may prescribe.
+&emsp;&emsp;(F) in consultation with the Assistant Secretary of Defense for Research and Engineering, assess the technological maturity and integration risk of critical technologies at key stages in the acquisition process; and
+
+&emsp;&emsp;(G) perform such other activities relating to the developmental test and evaluation activities of the Department of Defense as the Under Secretary of Defense for Acquisition, Technology, and Logistics may prescribe.
 
 &emsp;(6)
 
@@ -48,7 +50,15 @@ Access to records.—The Secretary of Defense shall ensure that the Deputy Assis
 
 &emsp;(7)
 
-Concurrent service as director of department of defense test resources management center.—The individual serving as the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation may also serve concurrently as the Director of the Department of Defense Test Resource Management Center under section 196 of this title.
+Concurrent service as director of department of defense test resources management center.—The individual serving as the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall also serve concurrently as the Director of the Department of Defense Test Resource Management Center under section 196 of this title.
+
+&emsp;(8)
+
+Resources.—
+
+&emsp;&emsp;(A) The President shall include in the budget transmitted to Congress, pursuant to section 1105 of title 31, for each fiscal year, a separate statement of estimated expenditures and proposed appropriations for the fiscal year for the activities of the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation in carrying out the duties and responsibilities of the Deputy Assistant Secretary under this section.
+
+&emsp;&emsp;(B) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall have sufficient professional staff of military and civilian personnel to enable the Deputy Assistant Secretary to carry out the duties and responsibilities prescribed by law.
 
 (b)
 
@@ -114,7 +124,7 @@ Support.—The Secretary of Defense shall require that each major defense acquis
 
 &emsp;(2)
 
-Responsibilities of chief developmental tester.—The chief developmentaltester for a major defense acquisition program shall be responsible for—
+Responsibilities of chief developmental tester.—The chief developmental tester for a major defense acquisition program, consistent with policies and guidance issued pursuant to subsection (a)(5)(A), shall be responsible for—
 
 &emsp;&emsp;(A) coordinating the planning, management, and oversight of all developmental test and evaluation activities for the program;
 
@@ -124,7 +134,7 @@ Responsibilities of chief developmental tester.—The chief developmentaltester 
 
 &emsp;(3)
 
-Responsibilities of lead developmental test and evaluation organization.—The lead developmental test and evaluation organization for a major defense acquisition program shall be responsible for—
+Responsibilities of lead developmental test and evaluation organization.—The lead developmental test and evaluation organization for a major defense acquisition program, consistent with policies and guidance issued pursuant to subsection (a)(5)(A), shall be responsible for—
 
 &emsp;&emsp;(A) providing technical expertise on testing and evaluation issues to the chief developmental tester for the program;
 
@@ -132,17 +142,33 @@ Responsibilities of lead developmental test and evaluation organization.—The l
 
 &emsp;&emsp;(C) assisting the chief developmental tester in providing oversight of contractors under the program and in reaching technically informed, objective judgments about contractor developmental test and evaluation results under the program.
 
+&emsp;(4)
+
+Transmittal of records and data.—The chief developmental tester and the lead developmental test and evaluation organization for a major defense acquisition program shall promptly transmit to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation any records or data relating to the program that are requested by the Deputy Assistant Secretary, as provided in subsection (a)(6).
+
 (d)
 
-Joint Annual Report.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
+Annual Report.—
 
-&emsp;(1) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
+&emsp;(1)
 
-&emsp;(2) A discussion of the waivers of and deviations from requirements in test and evaluation master plans, systems engineering master plans, and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
+In general.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
 
-&emsp;(3) An assessment of the organization and capabilities of the Department of Defense for systems engineering, development planning, and developmental test and evaluation with respect to such programs.
+&emsp;&emsp;(A) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
 
-&emsp;(4) Any comments on such report that the Secretary of Defense considers appropriate.
+&emsp;&emsp;(B) A discussion of the waivers of and deviations from requirements in test and evaluation master plans, systems engineering master plans, and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
+
+&emsp;&emsp;(C) An assessment of the organization and capabilities of the Department of Defense for systems engineering, development planning, and developmental test and evaluation with respect to such programs.
+
+&emsp;&emsp;(D) Any comments on such report that the Secretary of Defense considers appropriate.
+
+&emsp;(2)
+
+Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation.—With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
+
+&emsp;&emsp;(A) a separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and
+
+&emsp;&emsp;(B) a separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
 
 (e)
 
@@ -158,7 +184,7 @@ Joint Guidance.—The Deputy Assistant Secretary of Defense for Developmental Te
 
 Major Defense Acquisition Program Defined.—In this section, the term “major defense acquisition program” has the meaning given that term in section 2430 of this title.
 
-(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507.)
+(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952.)
 
 #### References in Text
 
@@ -171,6 +197,28 @@ A prior section 139b was renumbered section 138c of this title.
 Another prior section 139b was renumbered section 2433 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–239, §904(a), substituted “to the Under Secretary. The Deputy Assistant Secretary may communicate views on matters within the responsibility of the Deputy Assistant Secretary directly to the Under Secretary without obtaining the approval or concurrence of any other official within the Department of Defense” for “to the Under Secretary”.
+
+Subsec. (a)(5)(A)(i). Pub. L. 112–239, §904(b)(1), substituted “in the military departments and other elements of the Department of Defense” for “in the Department of Defense”.
+
+Subsec. (a)(5)(B). Pub. L. 112–239, §904(b)(2), substituted “review and approve or disapprove” for “review and approve”.
+
+Subsec. (a)(5)(C). Pub. L. 112–239, §904(b)(3), substituted “programs (including the activities of chief developmental testers and lead developmental test evaluation organizations designated in accordance with subsection (c))” for “programs”.
+
+Subsec. (a)(5)(F), (G). Pub. L. 112–239, §904(b)(4), (5), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (a)(6). Pub. L. 112–239, §1076(f)(5), which directed amendment of par. (6) by substituting “proprietary” for “propriety”, could not be executed because the word “propriety” did not appear subsequent to amendment by Pub. L. 111–383, §1075(b)(6). See 2011 Amendment note below.
+
+Subsec. (a)(7). Pub. L. 112–239, §904(c), substituted “shall” for “may”.
+
+Subsec. (a)(8). Pub. L. 112–239, §904(d), added par. (8).
+
+Subsec. (c)(2), (3). Pub. L. 112–239, §904(f)(1), (2), substituted “, consistent with policies and guidance issued pursuant to subsection (a)(5)(A), shall be responsible for” for “shall be responsible for” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 112–239, §904(f)(3), added par. (4).
+
+Subsec. (d). Pub. L. 112–239, §904(g), struck out “Joint” before “Annual” in subsec. heading, designated existing introductory provisions as par. (1) and inserted heading, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, realigned margins of subpars. (A) to (D), substituted “each” for “jointly” in introductory provisions of par. (1), and added par. (2).
 
 <b>2011</b>—Pub. L. 111–383, §901(k)(1)(E), substituted “Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance” for “Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance” in section catchline.
 

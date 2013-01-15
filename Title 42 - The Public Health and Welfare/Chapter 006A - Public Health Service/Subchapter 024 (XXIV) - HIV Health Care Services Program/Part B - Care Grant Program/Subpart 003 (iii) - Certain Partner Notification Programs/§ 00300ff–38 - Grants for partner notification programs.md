@@ -36,7 +36,7 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 &emsp;(4) The State annually reports to the Director of the Centers for Disease Control and Prevention the number of individuals from whom the names of partners have been sought under the program under paragraph (1), the number of such individuals who provided the names of partners, and the number of partners so named who were notified under the program.
 
-&emsp;(5) The State cooperates with such Director in carrying out a national program of partner notification, including the sharing of information between the public health officers of the States.
+&emsp;(5) The State cooperates with such Director in carrying out a national program of partnernotification, including the sharing of information between the public health officers of the States.
 
 #### (c) Reporting system for cases of HIV/AIDS; preference in making grants
 

@@ -64,7 +64,7 @@ The Secretary shall establish an advisory committee to advise the Secretary with
 
 No later than five years after November 28, 1990, and at least each ten years thereafter, the Secretary shall report to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate on the implementation of this subchapter, the condition of the resources and values of the conservation area, and the progress of the Secretary in achieving the purposes for which the conservation area is established.
 
-#### (<i>l</i>) Enforcement
+#### (l) Enforcement
 
 Any person who violates any regulation promulgated by the Secretary to implement the provisions of this subchapter shall be subject to a fine in accordance with applicable provisions of the Sentencing Reform Act of 1984, or imprisonment of not more than 1 year, or both such fine and imprisonment.
 
@@ -78,7 +78,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Sentencing Reform Act of 1984, referred to in subsec. (<i>l</i>), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. Forcomplete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. Forcomplete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ The Sentencing Reform Act of 1984, referred to in subsec. (<i>l</i>), is chapter
 
 #### Short Title
 
-Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
+Pub. L. 101–628, §1, Nov. 28, 1990, 104 Stat. 4469, provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
 #### Termination of Advisory Committees
 

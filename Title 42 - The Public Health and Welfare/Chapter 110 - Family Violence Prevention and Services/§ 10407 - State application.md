@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) in the case of an application submitted by a State, provide an assurance that the State will consult with and provide for the participation of the State Domestic Violence Coalition in the planning and monitoring of the distribution of grants to eligible entities as described in section 10408(a) of this title and the administration of the grant programs and projects;
 
-&emsp;&emsp;(E) describe how the State or Indian tribe will involve community-based organizations,whose primary purpose is to provide culturally appropriate services to underserved populations, including how such community-based organizations can assist the State or Indian tribe in addressing the unmet needs of such populations;
+&emsp;&emsp;(E) describe how the State or Indian tribe will involve community-based organizations, whose primary purpose is to provide culturally appropriate services to underserved populations, including how such community-based organizations can assist the State or Indian tribe in addressing the unmet needs of such populations;
 
 &emsp;&emsp;(F) describe how activities and services provided by the State or Indian tribe are designed to reduce family violence, domestic violence, and dating violence, including how funds will be used to provide shelter, supportive services, and prevention services in accordance with section 10408(b) of this title;
 

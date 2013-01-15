@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties c
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
 
-<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval,Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
+<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties c
 
 #### Effective Date of 1988 Amendment
 
-Section 1021(b), (c) of title X of Pub. L. 100–702 provided that:
+Pub. L. 100–702, title X, §1021(b), (c), Nov. 19, 1988, 102 Stat. 4672, provided that:
 
 “(b)
 
@@ -70,7 +70,7 @@ Juries.—The amendments made by this section \[amending this section\] shall no
 
 #### Effective Date of 1978 Amendment; Savings Provision
 
-Section 5 of Pub. L. 95–408 provided that:
+Pub. L. 95–408, §5, Oct. 2, 1978, 92 Stat. 885, provided that:
 
 “(a) The amendments made by this Act \[amending this section and sections 93, 97, 98, 104, 112, 114, and 133 of this title and enacting provisions set out as a note under section 81 of this title\] shall take effect 180 days after the date of enactment of this Act \[Oct. 2, 1978\].
 
@@ -78,11 +78,11 @@ Section 5 of Pub. L. 95–408 provided that:
 
 #### Effective Date of 1962 Amendment
 
-Section 5 of Pub. L. 87–562 provided that: “This Act \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title\] shall become effective ninety days after the date of enactment \[July 30, 1962\].”
+Pub. L. 87–562, §5, July 30, 1962, 76 Stat. 248, provided that: “This Act \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title\] shall become effective ninety days after the date of enactment \[July 30, 1962\].”
 
 #### District Judges, United States Attorneys, and United States Marshals Designations; Tenure; Appointments
 
-Section 2 of Pub. L. 87–562 provided that:
+Pub. L. 87–562, §2, July 30, 1962, 76 Stat. 248, provided that:
 
 “(a) The district judge appointed September 26, 1950, the district judge appointed August 13, 1955, and the district judge appointed March 8, 1961, all for the Southern District of Florida, shall hereafter be designated as district judges for the Middle District of Florida.
 

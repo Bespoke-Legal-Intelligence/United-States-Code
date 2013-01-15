@@ -90,7 +90,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;(1) shall be used to carry out employment and training activities described in subsection (d) of this section for adults or dislocated workers, respectively; and
 
-&emsp;(2) may be used to carry out employment and training activities described in subsection (e) of this section for adults or dislocated workers, respectively.
+&emsp;(2) may be used to carry out employment and training activities described in subsection\(e) of this section for adults or dislocated workers, respectively.
 
 #### (c) Establishment of one-stop delivery system
 
@@ -106,7 +106,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;(D) shall provide access to programs and activities carried out by one-stop partners and described in section 2841(b) of this title; and
 
-&emsp;&emsp;(E) shall provide access to the information described in section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] and all job search, placement, recruitment, and other labor exchange services authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.).
+&emsp;&emsp;(E) shall provide access to the information described in section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\] and all job search, placement, recruitment, and other labor exchange services authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.).
 
 #### (2) One-stop delivery
 
@@ -168,7 +168,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
 
-&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+&emsp;&emsp;(F) provision of performance information and program cost information on eligibleproviders of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
 
 &emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -316,7 +316,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(II) the local board determines there are an insufficient number of eligible providers of training services in the local area involved (such as in a rural area) to accomplish the purposes of a system of individual training accounts; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization to serve special participant populations that face multiple barriers to employment.
+&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization toserve special participant populations that face multiple barriers to employment.
 
 #### (iii) Linkage to occupations in demand
 
@@ -386,7 +386,7 @@ The Wagner-Peyser Act, referred to in subsecs. (c)(1)(E) and (d)(1)(B), is act J
 
 Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683,which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(2)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 

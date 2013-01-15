@@ -30,7 +30,7 @@ Decisions on Denial of Fair Market Opportunities.—Not later than 30 days after
 
 (d)
 
-List of Countries Denying Fair Market Opportunities.—(1) The Trade Representativeshall maintain a list of each foreign country the Trade Representative finds under subsection (c) of this section is denying fair market opportunities. The country shall remain on the list until the Trade Representative decides the country provides fair market opportunities.
+List of Countries Denying Fair Market Opportunities.—(1) The Trade Representative shall maintain a list of each foreign country the Trade Representative finds under subsection (c) of this section is denying fair market opportunities. The country shall remain on the list until the Trade Representative decides the country provides fair market opportunities.
 
 (2) The Trade Representative shall publish in the Federal Register—
 

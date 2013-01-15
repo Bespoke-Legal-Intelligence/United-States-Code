@@ -1,6 +1,6 @@
 ### §430f–4. Jurisdiction of lands
 
-Upon the delivery and acceptance of the conveyance herein authorized, any jurisdiction heretofore ceded to the United States by the State of Tennessee over the lands conveyed shall thereby cease and determine and shall thereafter vest and be in the State of Tennessee.
+Upon the delivery and acceptance of the conveyance herein authorized, any jurisdictionheretofore ceded to the United States by the State of Tennessee over the lands conveyed shall thereby cease and determine and shall thereafter vest and be in the State of Tennessee.
 
 (Pub. L. 85–406, §4, May 16, 1958, 72 Stat. 115.)
 

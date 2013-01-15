@@ -2,7 +2,7 @@
 
 #### (a) Reasonable assurance of safe and effective performance; periodic evaluation
 
-(1) The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device. A class III device may also be considered a class II device for purposes of establishing a standard for the device under subsection (b) of this section if the device has been reclassified as a class II device under a regulation under section 360c(e) of this title but such regulation provides that the reclassification is not to take effect until the effective date of such a standard for the device.
+(1) The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device. A class III device may also be considered a class II device for purposes of establishing a standard for the device under subsection (b) of this section if the device has been reclassified as a class II device under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation) provides that the reclassification is not to take effect until the effective date of such a standard for the device.
 
 (2) A performance standard established under subsection (b) of this section for a device—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) provisions respecting the construction, components, ingredients, and properties of the device and its compatibility with power systems and connections to such systems,
 
-&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are availableto the Secretary to assure the conformity of the device to the standard, provisions for the testing (on a sample basis or, if necessary, on an individual basis) by the Secretary or by another person at the direction of the Secretary,
+&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are available to the Secretary to assure the conformity of the device to the standard, provisions for the testing (on a sample basis or, if necessary, on an individual basis) by the Secretary or by another person at the direction of the Secretary,
 
 &emsp;&emsp;(iii) provisions for the measurement of the performance characteristics of the device,
 
@@ -58,7 +58,7 @@
 
 (4)(A) The Secretary, upon his own initiative or upon petition of an interested person may by regulation, promulgated in accordance with the requirements of paragraphs (1), (2), and (3)(B) of this subsection, amend or revoke a performance standard.
 
-(B) The Secretary may declare a proposed amendment of a performance standard to be effective on and after its publication in the Federal Register and until the effective date of any final action taken on such amendment if he determines that making it so effective is in the public interest. A proposed amendment of a performance standard made so effective under the preceding sentence may not prohibit, during the period in which it is so effective, the introduction or delivery for introduction into interstate commerce of a device which conforms to such standard without the change or changes provided by such proposed amendment.
+(B) The Secretary may declare a proposed amendment of a performance standard to be effective on and after its publication in the Federal Register and until the effective date of any final action taken on such amendment if he determines that making it so effective is in thepublic interest. A proposed amendment of a performance standard made so effective under the preceding sentence may not prohibit, during the period in which it is so effective, the introduction or delivery for introduction into interstate commerce of a device which conforms to such standard without the change or changes provided by such proposed amendment.
 
 (5)(A) The Secretary—
 
@@ -88,9 +88,11 @@
 
 (C) A person making a declaration of conformity with respect to a standard recognized under paragraph (1) shall maintain the data and information demonstrating conformity of the device to the standard for a period of two years after the date of the classification or approval of the device by the Secretary or a period equal to the expected design life of the device, whichever is longer.
 
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336.)
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80,§4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144 substituted “under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation)” for “under a regulation under section 360c(e) of this title but such regulation”.
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted “under subsection (b) of this section” for “under this section”.
 

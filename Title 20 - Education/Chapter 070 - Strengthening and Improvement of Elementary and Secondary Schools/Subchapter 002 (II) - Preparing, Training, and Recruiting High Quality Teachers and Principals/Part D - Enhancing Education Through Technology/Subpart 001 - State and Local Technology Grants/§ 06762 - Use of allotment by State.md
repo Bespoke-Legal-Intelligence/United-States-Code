@@ -30,7 +30,7 @@ Of the amount provided to a State educational agency (from the agency's allotmen
 
 #### (2) Sufficiency
 
-&emsp;In awarding subgrants under subsection (a)(2)(B) of this section, each State educational agency shall ensure that each subgrant is of sufficient size and duration, and that the program funded by the subgrant is of sufficient scope and quality, to carry out the purposes of this part effectively.
+&emsp;In awarding subgrants under subsection (a)(2)(B) of this section, each State educational agency shall ensure that each subgrant is of sufficient size and duration, and that the program funded by the subgrant is ofsufficient scope and quality, to carry out the purposes of this part effectively.
 
 #### (3) Distribution
 

@@ -50,7 +50,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shall not be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. “Merchantable Timber” means timber that can be harvested and marketed by a prudent operator.
 
-&emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as “hot springs”) subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
+&emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springsavailable to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as “hot springs”) subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
 &emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(C) In cooperation with Elim, the right, but not the obligation, to reforest in the event previously existing Merchantable Timber is destroyed by fire, wind, insects, disease, or other similar manmade or natural occurrence (excluding manmade occurrences resulting from the exercise by Elim of its lawful rights to use the Conveyance Lands).
 
-&emsp;&emsp;(D) The right of ingress and egress over easements under section 1616(b) <sup>1</sup> of this title for the public to visit, for noncommercial purposes, hot springs located on the Conveyance Lands and to use any part of the hot springs that is not commercially developed.
+&emsp;&emsp;(D) The right of ingress and egress over easements under section 1616(b) of this title for the public to visit, for noncommercial purposes, hot springs located on the Conveyance Lands and to use any part of the hot springs that is not commercially developed.
 
 &emsp;&emsp;(E) The right to enter upon the lands containing hot springs for the purpose of conducting scientific research on such hot springs and to use the results of such research without compensation to Elim. Elim shall have an equal right to conduct research on the hot springs and to use the results of such research without compensation to the United States.
 
@@ -84,7 +84,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (C) Section 1616(b) easements
 
-&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve in the conveyance to Elim easements to the United States pursuant to subsection <sup>2</sup> 1616(b) <sup>1</sup> of this title that are not in conflict with other easements specified in this paragraph.
+&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve in the conveyance to Elim easements to the United States pursuant to subsection <sup>1</sup> 1616(b) of this title that are not in conflict with other easements specified in this paragraph.
 
 #### (D) Other easements
 
@@ -107,8 +107,6 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 #### References in Text
 
 The time of passage of this chapter, referred to in subsec. (c)(1)(E), probably means the date of enactment of Pub. L. 92–203, which was approved Dec. 18, 1971.
-
-Section 1616(b) of this title, referred to in subsec. (c)(5)(D), (6)(C) was omitted from the Code.
 
 #### Amendments
 
@@ -142,7 +140,5 @@ Pub. L. 94–204, §14, Jan. 2, 1976, 89 Stat. 1154, provided that:
 
 “(d) There is authorized to be appropriated to the Secretary for the purpose of this section a sum of $1,600,000 in fiscal year 1976.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

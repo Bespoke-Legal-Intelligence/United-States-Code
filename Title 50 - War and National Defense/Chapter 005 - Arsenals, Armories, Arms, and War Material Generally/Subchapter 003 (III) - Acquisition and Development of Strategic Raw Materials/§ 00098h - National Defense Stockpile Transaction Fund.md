@@ -42,7 +42,7 @@ There is established in the Treasury of the United States a separate fund to be 
 
 #### (c) Moneys received from sale of materials being rotated or disposed of
 
-All moneys received from the sale of materials being rotated under the provisions of section 98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
+All moneys received from the sale of materials being rotated under the provisions of section98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
 
 #### (d) Effect of bartering
 

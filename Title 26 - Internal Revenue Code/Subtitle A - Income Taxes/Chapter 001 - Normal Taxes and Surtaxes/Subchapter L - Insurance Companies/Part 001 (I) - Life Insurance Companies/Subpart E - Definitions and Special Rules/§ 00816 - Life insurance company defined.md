@@ -72,7 +72,7 @@ A burial or funeral benefit insurance company engaged directly in the manufactur
 
 For purposes of this section and section 842(b)(2)(B)(i), the terms “life insurance reserves” and “total reserves” shall not include deficiency reserves.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 748; amended Pub. L. 99–514, title XVIII, §1821(<i>l</i>), Oct. 22, 1986, 100 Stat. 2841; Pub. L. 100–203, title X, §10242(c)(2), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1010(f)(6), title II, §2004(q)(1), Nov. 10, 1988, 102 Stat. 3454, 3608.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 748; amended Pub. L. 99–514, title XVIII, §1821(l), Oct. 22, 1986, 100 Stat. 2841; Pub. L. 100–203, title X, §10242(c)(2), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1010(f)(6), title II, §2004(q)(1), Nov. 10, 1988, 102 Stat. 3454, 3608.)
 
 #### Prior Provisions
 
@@ -96,7 +96,7 @@ Amendment by section 2004(q)(1) of Pub. L. 100–647 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Section 10242(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 842, 864, and 4371 of this title and repealing section 813 of this title\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10242(d), Dec. 22, 1987, 101 Stat. 1330–423, provided that: “The amendments made by this section \[amending this section and sections 842, 864, and 4371 of this title and repealing section 813 of this title\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -112,7 +112,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Election To Treat Individual Noncancellable Accident and Health Contracts as Cancellable
 
-Section 217(i) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title I, §1010(h)(1), Nov. 10, 1988, 102 Stat. 3455, provided that:
+Pub. L. 98–369, div. A, title II, §217(i), July 18, 1984, 98 Stat. 764, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title I, §1010(h)(1), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 “(1)
 
@@ -134,7 +134,7 @@ Time and manner.—An election under paragraph (1) shall be made—
 
 &emsp;“(B) in such manner as the Secretary of the Treasury or his delegate may prescribe.”
 
-\[Section 1010(h)(2), (3) of Pub. L. 100–647 provided that:
+\[Pub. L. 100–647, title I, §1010(h)(2), (3), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 \[“(2)
 

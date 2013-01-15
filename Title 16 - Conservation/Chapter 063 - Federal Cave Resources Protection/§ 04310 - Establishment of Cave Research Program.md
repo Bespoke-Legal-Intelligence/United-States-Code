@@ -50,7 +50,7 @@ Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, as amended by Pub. L. 111–11
 
 “(a)
 
-In General.—The Secretary of the Interior (referred to in this Act as the ‘Secretary’), acting through the Director of the National Park Service, shall establish the National Cave and Karst Research Institute (referred to in this Act as the ‘Institute’).
+In General.—The Secretary of the Interior (referred to in this Act as the ‘Secretary’), acting throughthe Director of the National Park Service, shall establish the National Cave and Karst Research Institute (referred to in this Act as the ‘Institute’).
 
 “(b)
 
@@ -100,7 +100,7 @@ Acceptance of Grants and Transfers.—To carry out this Act, the Secretary may a
 
 #### Congressional Findings
 
-Section 201 of Pub. L. 101–578 provided that: “The Congress makes the following findings:
+Pub. L. 101–578, title II, §201, Nov. 15, 1990, 104 Stat. 2859, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) The World's most exposed fossil reef, Capitan Reef, in southern New Mexico that includes Carlsbad Caverns, contains over 300 caves, including 75 identified caves in Carlsbad Caverns National Park and 22 caves in Guadalupe Mountains National Park.
 
@@ -116,11 +116,11 @@ Section 201 of Pub. L. 101–578 provided that: “The Congress makes the follow
 
 #### Cave Research Institute Study
 
-Section 203 of Pub. L. 101–578 directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
+Pub. L. 101–578, title II, §203, Nov. 15, 1990, 104 Stat. 2860, directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
 
 #### Authorization of Appropriations
 
-Section 204 of title II of Pub. L. 101–578 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title \[enacting this section and provisions set out as notes above\].”
+Pub. L. 101–578, title II, §204, Nov. 15, 1990, 104 Stat. 2860, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title \[enacting this section and provisions set out as notes above\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

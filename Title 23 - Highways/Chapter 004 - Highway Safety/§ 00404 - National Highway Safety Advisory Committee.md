@@ -24,7 +24,7 @@ Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referre
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–59 substituted “Transportation” for “Commerce”.
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–280 substituted provision for selection by the Secretary of the Chairman of the Committee from among the Committee members for prior provision making the Secretary or an officer of the Department appointed by him the Chairman of the Committee.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–280 substituted provision for selection by the Secretary of the Chairman of the Committee from among the Committee members for prior provision making the Secretary or an officerof the Department appointed by him the Chairman of the Committee.
 
 <b>1973</b>—Subsec. (a)(1). Pub. L. 93–87 added the National Highway Traffic Safety Administrator to the membership of the National Highway Safety Advisory Committee.
 

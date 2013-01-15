@@ -24,7 +24,7 @@
 
 &emsp;(C) the private sector upon request in appropriate cases.
 
-(4) In carrying out his functions under this subsection, the Chairman shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information describedin paragraph (2) which does not already reside in such base. He shall coordinate or merge this data bank with other Federal energy information data banks as necessary to assure efficient and effective operation.
+(4) In carrying out his functions under this subsection, the Chairman shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base. He shall coordinate or merge this data bank with other Federal energy information data banks as necessary to assure efficient and effective operation.
 
 #### (b) Studies and research to promote consumer acceptance and utilization of solar energy technologies
 

@@ -6,6 +6,8 @@ Congress shall be in session on the sixth day of January succeeding every meetin
 
 #### Counting of Electoral Votes
 
+<b>2013</b>—Pub. L. 112–228, §1, Dec. 28, 2012, 126 Stat. 1610, provided that: “The meeting of the Senate and House of Representatives to be held in January 2013 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2012 shall be held on January 4, 2013 (rather than on the date specified in the first sentence of that section).”
+
 <b>2009</b>—Pub. L. 110–430, §2, Oct. 15, 2008, 122 Stat. 4846, provided that: “The meeting of the Senate and House of Representatives to be held in January 2009 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2008 shall be held on January 8, 2009 (rather than on the date specified in the first sentence of that section).”
 
 <b>1997</b>—Pub. L. 104–296, §2, Oct. 11, 1996, 110 Stat. 3558, provided that: “The meeting of the Senate and House of Representatives to be held in January 1997 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 1996 shall be held on January 9, 1997 (rather than on the date specified in the first sentence of that section).”

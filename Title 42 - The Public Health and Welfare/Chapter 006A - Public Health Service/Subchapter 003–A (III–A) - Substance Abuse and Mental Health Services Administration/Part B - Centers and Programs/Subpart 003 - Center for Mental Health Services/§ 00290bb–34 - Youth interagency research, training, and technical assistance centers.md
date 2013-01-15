@@ -62,7 +62,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (c)(3), is P
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–355, §3(a)(1), substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–355, §3(a)(1), substituted dash for comma after “National Institutes of Health”,designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
 
 Subsec. (c). Pub. L. 108–355, §3(a)(2), substituted “(a)(1)” for “(a)” in introductory provisions.
 

@@ -46,7 +46,7 @@
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) taxable income (determined without regard to this section and chapter 535 of title 46, United States Code) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
+&emsp;&emsp;(A) taxable income (determined without regard to this section and chapter 535 of title 46, United States Code) for the taxable yearshall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
 
 &emsp;&emsp;(B) gain from a transaction referred to in subsection (a)(1)(C) shall not be taken into account if an amount equal to the net proceeds (as defined in joint regulations) from such transaction is deposited in the fund,
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (2) Adjustment to basis of vessel, etc., where withdrawal from ordinary income account
 
-&emsp;If any portion of a qualified withdrawal for a vessel, barge, or container is made out of the ordinary income account, the basis of such vessel, barge, or container shall be reduced by an amount equal to such portion.
+&emsp;If any portion of a qualified withdrawal for a vessel, barge, or container is made out of theordinary income account, the basis of such vessel, barge, or container shall be reduced by an amount equal to such portion.
 
 #### (3) Adjustment to basis of vessel, etc., where withdrawal from capital gain account
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) by increasing the tax imposed by chapter 1 by the product of the amount of such withdrawal and the highest rate of tax specified in section 1 (section 11 in the case of a corporation).
 
-> &emsp;&emsp;With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) applies, the rate of tax taken into account under the preceding sentence shall not exceed 15 percent (34 percent in the case of a corporation).
+> &emsp;&emsp;With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent (34 percent in the case of a corporation).
 
 #### (B) Tax benefit rule
 
@@ -290,11 +290,7 @@ Under joint regulations—
 
 For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319.)
 
 #### References in Text
 
@@ -306,13 +302,15 @@ The date of the enactment of this section, referred to in subsec. (i), is the da
 
 #### Amendments
 
+<b>2013</b>—Subsec. (g)(6)(A). Pub. L. 112–240 substituted “20 percent” for “15 percent” in concluding provisions.
+
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
 Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, §17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
 Subsec. (g)(3)(C)(iii). Pub. L. 109–304, §17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
 
-<b>2003</b>—Subsec. (g)(6)(A). Pub. L. 108–27, §§301(a)(2)(D), 303, temporarily substituted “15 percent” for “20 percent” in concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (g)(6)(A). Pub. L. 108–27 substituted “15 percent” for “20 percent” in concluding provisions.
 
 <b>1997</b>—Subsec. (g)(6)(A). Pub. L. 105–34 substituted “20 percent” for “28 percent” in concluding provisions.
 
@@ -322,11 +320,13 @@ Subsec. (g)(3)(C)(iii). Pub. L. 109–304, §17(e)(6)(C), substituted “Merchan
 
 Subsec. (g)(6)(A). Pub. L. 100–647, §1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of this title.
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -342,7 +342,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 261(g) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title II, §261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: “The amendments made by this section \[enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Merchant Marine Capital Construction Funds
 

@@ -68,7 +68,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;&emsp;(i) the enactment and enforcement by that government of laws prohibiting such conduct,
 
-&emsp;&emsp;(ii) that government entering into, and cooperating under the terms of, mutual legal assistance agreements with the United States governing (but not limited to) money laundering, and
+&emsp;&emsp;(ii) that government entering into, and cooperating under the terms of, mutual legalassistance agreements with the United States governing (but not limited to) money laundering, and
 
 &emsp;&emsp;(iii) the degree to which that government otherwise cooperates with United States law enforcement authorities on anti-money laundering efforts?
 

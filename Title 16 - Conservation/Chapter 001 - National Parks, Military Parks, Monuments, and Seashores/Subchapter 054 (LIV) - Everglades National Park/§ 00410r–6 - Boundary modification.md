@@ -22,7 +22,7 @@
 
 #### (b) Boundary adjustment
 
-The Secretary may from time to time make minor revisions in the boundaries of the park in accordance with section 460<i>l</i>–9(c) of this title. In exercising the boundary adjustment authority the Secretary shall ensure all actions will enhance resource preservation and shall not result in a net loss of acreage from the park.
+The Secretary may from time to time make minor revisions in the boundaries of the park in accordance with section 460l–9(c) of this title. In exercising the boundary adjustment authority the Secretary shall ensure all actions will enhance resource preservation and shall not result in a net loss of acreage from the park.
 
 #### (c) Acquisition
 
@@ -112,7 +112,7 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 #### Codification
 
-In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)” on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

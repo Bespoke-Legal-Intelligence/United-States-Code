@@ -32,7 +32,7 @@ A group of workers shall be certified by the Secretary as eligible to apply for 
 
 A group of workers shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
 
-&emsp;(1) a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally orpartially separated, or are threatened to become totally or partially separated;
+&emsp;(1) a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
 
 &emsp;(2) the workers’ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1983 Amendment
 
-Section 3(b) of Pub. L. 98–120 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to petitions for certification filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after October 1, 1983.”
+Pub. L. 98–120, §3(b), Oct. 12, 1983, 97 Stat. 809, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to petitions for certification filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or after October 1, 1983.”
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

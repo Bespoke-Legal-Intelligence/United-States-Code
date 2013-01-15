@@ -1,6 +1,6 @@
 ### §2807. Architectural and engineering services and construction design
 
-(a) Within amounts appropriated for military construction and military family housing, the Secretary concerned may obtain architectural and engineering services and may carry out construction design in connection with military construction projects, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are not otherwise authorized by law. Amounts available for such purposes may be used for construction management of projects that are funded by foreign governments directly or through international organizations and for which elements of the armed forces of the United States are the primary user.
+(a) Within amounts appropriated for military construction and military family housing, theSecretary concerned may obtain architectural and engineering services and may carry out construction design in connection with military construction projects, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are not otherwise authorized by law. Amounts available for such purposes may be used for construction management of projects that are funded by foreign governments directly or through international organizations and for which elements of the armed forces of the United States are the primary user.
 
 (b) In the case of architectural and engineering services and construction design to be undertaken under subsection (a) for which the estimated cost exceeds $1,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 21-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 99–661, §2712(a), added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Section 2712(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to funds appropriated for fiscal years after fiscal year 1985.”
+Pub. L. 99–661, div. B, title VII, §2712(b), Nov. 14, 1986, 100 Stat. 4041, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to funds appropriated for fiscal years after fiscal year 1985.”
 
 #### Effective Date
 
@@ -42,7 +42,7 @@ Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: 
 
 #### Small Business Set-Aside for Architectural and Engineering Services and Construction Design
 
-Section 806 of Pub. L. 98–115 provided that:
+Pub. L. 98–115, title VIII, §806, Oct. 11, 1983, 97 Stat. 786, provided that:
 
 “(a) The Secretary of Defense shall conduct a comprehensive review of current policies and practices of the Department of Defense with regard to the award of contracts for architectural and engineering services and construction design for military construction projects. The Secretary shall conduct such review with a view to determining whether current policies and practices of the Department of Defense result in a reasonable distribution of such contracts to firms of all sizes throughout the architect-engineer community.
 
@@ -52,7 +52,7 @@ Section 806 of Pub. L. 98–115 provided that:
 
 &emsp;“(2) that large architect-engineer firms are not precluded from competing for such contracts when the estimated amount of such contracts is greater than a reasonable threshold amount prescribed by the Secretary.
 
-“(c) Not later than March 1, 1984, the Secretary shall submit to the appropriate committees of Congress a written report on the results of the review required by subsection (a) and on any changes made to current policies and practices as required by subsection (b).
+“(c) Not later than March 1, 1984, the Secretary shall submit to the appropriate committees of Congress awritten report on the results of the review required by subsection (a) and on any changes made to current policies and practices as required by subsection (b).
 
 “(d) For the purposes of this section:
 

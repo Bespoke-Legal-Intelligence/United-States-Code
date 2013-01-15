@@ -34,7 +34,7 @@ Subsec. (f). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal
 
 Subsec. (g). Pub. L. 107–110, §805(c), struck out heading and text of subsec. (g). Text read as follows: “For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.”
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(b)\], substituted “section 7703(b)” for “subsections (b) and (f) of section 7703”, “$809,400,000 for fiscal year 2000” for “$775,000,000 for fiscal year 1995”, and “three” for “four” and struck out “, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title” before period at end.
 

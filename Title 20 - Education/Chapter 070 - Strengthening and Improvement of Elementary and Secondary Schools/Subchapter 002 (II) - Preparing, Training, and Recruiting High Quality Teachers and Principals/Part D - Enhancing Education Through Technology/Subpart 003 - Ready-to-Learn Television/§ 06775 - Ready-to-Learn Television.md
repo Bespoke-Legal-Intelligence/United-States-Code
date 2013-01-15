@@ -72,7 +72,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (d) Administrative costs
 
-An entity that receives a grant, contract, or cooperative agreement under this section may use up to 5 percent of the amount received under the grant, contract, or agreement for the normal and customary expenses of administering the grant, contract, or agreement.
+An entity that receives a grant, contract, or cooperative agreement under this section mayuse up to 5 percent of the amount received under the grant, contract, or agreement for the normal and customary expenses of administering the grant, contract, or agreement.
 
 #### (e) Authorization of appropriations
 

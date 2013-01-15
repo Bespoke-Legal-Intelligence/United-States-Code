@@ -14,7 +14,7 @@ For purposes of this chapter:
 
 &emsp;(6) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(7) The term “tribal organization” means any organization defined in section 450b(<i>l</i>) of this title.
+&emsp;(7) The term “tribal organization” means any organization defined in section 450b(l) of this title.
 
 &emsp;(8) The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.
 

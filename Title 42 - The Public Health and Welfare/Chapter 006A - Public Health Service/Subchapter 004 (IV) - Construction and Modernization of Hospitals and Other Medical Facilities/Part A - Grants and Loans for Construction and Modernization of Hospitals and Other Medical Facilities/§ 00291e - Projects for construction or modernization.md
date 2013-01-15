@@ -30,7 +30,7 @@ Amendment of any approved application shall be subject to approval in the same m
 
 #### (e) Outpatient facilities; requirements of applicants
 
-Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporationor association which owns and operates a nonprofit hospital (as defined in section 291<i>o</i> of this title) or which provides reasonable assurance that the services of a general hospital will be available to patients of such facility who are in need of hospital care.
+Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporation or association which owns and operates a nonprofit hospital (as defined in section 291o of this title) or which provides reasonable assurance that the services of a general hospital will be available to patients of such facility who are in need of hospital care.
 
 (July 1, 1944, ch. 373, title VI, §605, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 453; amended Pub. L. 91–296, title I, §§111(a), 116(e), June 30, 1970, 84 Stat. 340, 342; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -58,9 +58,9 @@ Subsec. (e). Pub. L. 91–296, §116(e), substituted “an outpatient facility�
 
 #### Effective Date of 1970 Amendment
 
-Section 111(a) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+Pub. L. 91–296, title I, §111(a), June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-Amendment by section 116(e) of Pub. L. 91–296 applicable with respect to applications approved under this subchapter after June 30, 1970, see section 116(g) of Pub. L. 91–296, set out as a note under section 291<i>o</i> of this title.
+Pub. L. 91–296, title I, §116(e), June 30, 1970, 84 Stat. 342, applicable with respect to applications approved under this subchapter after June 30, 1970, see section 116(g) of Pub. L. 91–296, set out as a note under section 291o of this title.
 
 #### Transfer of Functions
 
@@ -70,9 +70,9 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Applications Approved Prior to Aug. 18, 1964
 
-Section 3(b)(1) of Pub. L. 88–443, providing that applications approved, and allotments appropriated prior to Aug. 18, 1964, shall be governed by this subchapter as in effect prior to such date, is set out as an Effective Date note under section 291 of this title.
+Pub. L. 88–443, §3(b)(1), Aug. 18, 1964, 78 Stat. 462, providing that applications approved, and allotments appropriated prior to Aug. 18, 1964, shall be governed by this subchapter as in effect prior to such date, is set out as an Effective Date note under section 291 of this title.
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 
-Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
+Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
 

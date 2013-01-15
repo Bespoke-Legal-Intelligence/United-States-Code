@@ -14,7 +14,7 @@ The date of enactment of the Pretrial Services Act of 1982, referred to in subse
 
 #### Prior Provisions
 
-A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicialofficer” and “offense”, prior to repeal by Pub. L. 93–619, §201. See section 3156 of this title.
+A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicial officer” and “offense”, prior to repeal by Pub. L. 93–619, §201. See section 3156 of this title.
 
 #### Amendments
 
@@ -24,7 +24,7 @@ A prior section 3152, as added by Pub. L. 89–465, §3(a), June 22, 1966, 80 St
 
 #### Authorization of Appropriations
 
-Section 9 of Pub. L. 97–267 provided that:
+Pub. L. 97–267, §9, Sept. 27, 1982, 96 Stat. 1139, provided that:
 
 “(a) There are authorized to be appropriated, for the fiscal year ending September 30, 1984, and each succeeding fiscal year thereafter, such sums as may be necessary to carry out the functions and powers of pretrial services established under section 3152(b) of title 18, United States Code.
 
@@ -32,5 +32,5 @@ Section 9 of Pub. L. 97–267 provided that:
 
 #### Status of Pretrial Services Agencies in Effect Prior to September 27, 1982
 
-Section 8 of Pub. L. 97–267 provided that: “During the period beginning on the date of enactment of this Act \[Sept. 27, 1982\] and ending eighteen months after the date of the enactment of this Act, the pretrial services agencies established under section 3152 of title 18 of the United States Code in effect before the date of enactment of this Act may continue to operate, employ staff, provide pretrial services, and perform such functions and powers as are authorized under chapter 207 of title 18 of the United States Code \[this chapter\].”
+Pub. L. 97–267, §8, Sept. 27, 1982, 96 Stat. 1139, provided that: “During the period beginning on the date of enactment of this Act \[Sept. 27, 1982\] and ending eighteen months after the date of the enactment of this Act, the pretrial services agencies established under section 3152 of title 18 of the United States Code in effect before the date of enactment of this Act may continue to operate, employ staff, provide pretrial services, and perform such functions and powers as are authorized under chapter 207 of title 18 of the United States Code \[this chapter\].”
 

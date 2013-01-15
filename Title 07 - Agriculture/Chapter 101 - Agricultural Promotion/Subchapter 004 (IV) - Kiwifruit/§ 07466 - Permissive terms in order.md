@@ -14,7 +14,7 @@ The order may authorize the Board to convene working groups drawn from producers
 
 #### (d) Reserve funds
 
-The order may authorize the Board to accumulate reserve funds from assessments collected pursuant to section 7465(b) of this title to permit an effective and continuous coordinated program of research, promotion, and consumer information in years in which production and assessment income may be reduced, except that any reserve fund may not exceed the amount budgeted for operation of this subchapter for 1 year.
+The order may authorize the Board to accumulate reserve funds from assessments collected pursuant to section 7465(b) of this title to permit an effective and continuous coordinated program of research, promotion, and consumer information in years in which production and assessment income may be reduced, except that any reserve fund may not exceed the amountbudgeted for operation of this subchapter for 1 year.
 
 #### (e) Promotion activities outside United States
 

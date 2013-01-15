@@ -26,5 +26,5 @@ A prior section 2416 was renumbered section 2419 of this title.
 
 #### Effective Date
 
-Section 101(c) \[title X, §957(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 957(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2416 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1987.”
+Pub. L. 99–500, §101(c) \[title X, §957(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, Pub. L. 99–591, §101(c) \[title X, §957(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175, and Pub. L. 99–661, div. A, title IX, formerly title IV, §957(b), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2416 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1987.”
 

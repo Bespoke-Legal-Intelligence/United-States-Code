@@ -234,11 +234,11 @@
 
 #### (c) Limitation on liability
 
-Except as provided in section 1681s(c)(1)(B) of this title, sections 1681n and 1681<i>o</i> of this title do not apply to any violation of—
+Except as provided in section 1681s(c)(1)(B) of this title, sections 1681n and 1681o of this title do not apply to any violation of—
 
 &emsp;(1) subsection (a) of this section, including any regulations issued thereunder;
 
-&emsp;(2) subsection (e) of this section, except that nothing in this paragraph shall limit, expand, or otherwise affect liability under section 1681n or 1681<i>o</i> of this title, as applicable, for violations of subsection (b) of this section; or
+&emsp;(2) subsection (e) of this section, except that nothing in this paragraph shall limit, expand, or otherwise affect liability under section 1681n or 1681o of this title, as applicable, for violations of subsection (b) of this section; or
 
 &emsp;(3) subsection (e) of section 1681m of this title.
 
@@ -300,7 +300,7 @@ Subsec. (a)(9). Pub. L. 108–159, §412(a), added par. (9).
 
 Subsec. (b)(1)(E). Pub. L. 108–159, §314(b), added subpar. (E).
 
-Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681<i>o</i> of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.”
+Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.”
 
 Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.”
 

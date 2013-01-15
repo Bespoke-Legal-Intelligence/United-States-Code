@@ -30,7 +30,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (1) Periodic statements; account records
 
-&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.<sup>1</sup> a notice that the institutionis not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
+&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate.<sup>1</sup> a notice that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
 
 #### (2) Advertising; premises
 
@@ -108,7 +108,7 @@ To ensure that current and prospective customers understand the risks involved i
 
 #### (d) Exceptions for institutions not receiving retail deposits
 
-The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial depositsof less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 
 #### (e) Definitions
 
@@ -188,7 +188,7 @@ Subsec. (f)(2)(C). Pub. L. 111–203, §1090(2)(D)(ii), added subpar. (C) and st
 
 Subsec. (b)(1). Pub. L. 109–351, §505(b), substituted “or share certificate.” for “or similar instrument evidencing a deposit”.
 
-Subsec. (b)(2). Pub. L. 109–351, §505(c), amended heading and text generally. Prior to amendment, text readas follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
+Subsec. (b)(2). Pub. L. 109–351, §505(c), amended heading and text generally. Prior to amendment, text read as follows: “Include conspicuously in all advertising and at each place where deposits are normally received a notice that the institution is not federally insured.”
 
 Subsec. (b)(3). Pub. L. 109–351, §505(d), amended par. (3) generally. Prior to amendment, par. (3) related to acknowledgement of disclosure and consisted of subpars. (A) to (C).
 
@@ -216,11 +216,11 @@ Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. 
 
 #### Effective Date of 1994 Amendment
 
-Section 340(b) of Pub. L. 103–325 provided that: “Section 43(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1831t(b)(3)\], as amended by subsection (a), shall take effect in accordance with section 151(a)(2)(D) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[see Effective Date note below\].”
+Pub. L. 103–325, title III, §340(b), Sept. 23, 1994, 108 Stat. 2238, provided that: “Section 43(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1831t(b)(3)\], as amended by subsection (a), shall take effect in accordance with section 151(a)(2)(D) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[see Effective Date note below\].”
 
 #### Effective Date
 
-Section 151(a)(2) of Pub. L. 102–242 provided that: “Section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831t\] (as added by paragraph (1)) shall become effective on the date of enactment of this Act \[Dec. 19, 1991\], except that—
+Pub. L. 102–242, title I, §151(a)(2), Dec. 19, 1991, 105 Stat. 2284, provided that: “Section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831t\] (as added by paragraph (1)) shall become effective on the date of enactment of this Act \[Dec. 19, 1991\], except that—
 
 &emsp;“(A) paragraphs (1) and (2) of subsection (b) shall become effective 1 year after the date of enactment of this Act;
 
@@ -232,7 +232,7 @@ Section 151(a)(2) of Pub. L. 102–242 provided that: “Section 40 of the Feder
 
 #### Viability of Private Deposit Insurers
 
-Section 151(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1603(f)(1), Oct. 28, 1992, 106 Stat. 4081, provided that:
+Pub. L. 102–242, title I, §151(b), Dec. 19, 1991, 105 Stat. 2285, as amended by Pub. L. 102–550, title XVI, §1603(f)(1), Oct. 28, 1992, 106 Stat. 4081, provided that:
 
 “(1)
 

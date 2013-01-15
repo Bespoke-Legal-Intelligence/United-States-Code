@@ -8,7 +8,7 @@ Airport sponsor.—The term “airport sponsor” has the meaning given the term
 
 &emsp;(2)
 
-Congested airport.—The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2001.
+Congested airport.—The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2004 or any successor report.
 
 &emsp;(3)
 
@@ -36,5 +36,15 @@ Aviation security project.—The term “aviation security project” means a se
 
 Federal agency.—The term “Federal agency” means a department or agency of the United States Government.
 
-(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538.)
+&emsp;(7)
+
+Joint use airport.—The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
+
+(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34.)
+
+#### Amendments
+
+<b>2012</b>—Par. (2). Pub. L. 112–95, §152(g)(1), substituted “2004 or any successor report” for “2001”.
+
+Par. (7). Pub. L. 112–95, §152(g)(2), added par. (7).
 

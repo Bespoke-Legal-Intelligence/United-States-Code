@@ -56,7 +56,7 @@ Amendment by Pub. L. 93–625 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1973 Amendment
 
-Section 3(a)(2) of Pub. L. 93–17 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
+Pub. L. 93–17, §3(a)(2), Apr. 10, 1973, 87 Stat. 12, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
 
 #### Effective Date of 1966 Amendment
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Short Title of 1973 Amendment
 
-Section 1(a) of Pub. L. 93–17 provided that: “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
+Pub. L. 93–17, §1(a), Apr. 10, 1973, 87 Stat. 12, provided that: “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
 

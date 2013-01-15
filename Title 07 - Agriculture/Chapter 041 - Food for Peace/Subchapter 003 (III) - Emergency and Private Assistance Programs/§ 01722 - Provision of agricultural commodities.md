@@ -104,7 +104,7 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 &emsp;Of the funds made available under section 1726a(f) of this title,<sup>1</sup> for fiscal years 2009 through 2011, not more than $4,500,000 may be used to carry out this subsection.
 
-(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53,title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823.)
+(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823.)
 
 #### Amendments
 
@@ -192,11 +192,11 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Registration of Foreign Nonprofit Voluntary Agencies
 
-Section 208(b) of Pub. L. 95–88 provided that: “For purposes of implementing the amendment made by subsection (a) \[providing for the utilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies.”
+Pub. L. 95–88, title II, §208(b), Aug. 3, 1977, 91 Stat. 548, provided that: “For purposes of implementing the amendment made by subsection (a) \[providing for the utilization by the President of foreign nonprofit voluntary agencies\], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies.”
 
 #### Continuation of Authority
 
-Section 601(a)(2) of Pub. L. 86–472, which provided that the amendment of this section by section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
+Pub. L. 86–472, ch. VI, §601(a)(2), May 14, 1960, 74 Stat. 140, which provided that the amendment of this sectionby section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

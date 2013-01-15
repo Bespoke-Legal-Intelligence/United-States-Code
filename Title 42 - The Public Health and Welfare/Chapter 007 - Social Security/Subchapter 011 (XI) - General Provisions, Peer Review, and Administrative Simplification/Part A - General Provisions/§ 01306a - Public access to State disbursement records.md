@@ -1,6 +1,6 @@
 ### §1306a. Public access to State disbursement records
 
-No State or any agency or political subdivision thereof shall be deprived of any grant-in-aid or other payment to which it otherwise is or has become entitled pursuant to subchapter I (other than section 303(a)(3) thereof), IV, X, XIV, or XVI (other than section 1383(a)(3) thereof) of this chapter, by reason of the enactment or enforcement by such State of any legislation prescribing any conditions under which public access may be had to records of the disbursementof any such funds or payments within such State, if such legislation prohibits the use of any list or names obtained through such access to such records for commercial or political purposes.
+No State or any agency or political subdivision thereof shall be deprived of any grant-in-aid or other payment to which it otherwise is or has become entitled pursuant to subchapter I (other than section 303(a)(3) thereof), IV, X, XIV, or XVI (other than section 1383(a)(3) thereof) of this chapter, by reason of the enactment or enforcement by such State of any legislation prescribing any conditions under which public access may be had to records of the disbursement of any such funds or payments within such State, if such legislation prohibits the use of any list or names obtained through such access to such records for commercial or political purposes.
 
 (Oct. 20, 1951, ch. 521, title VI, §618, 65 Stat. 569; Pub. L. 86–778, title VI, §603(a), Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–543, title I, §141(e), July 25, 1962, 76 Stat. 205.)
 
@@ -22,5 +22,5 @@ Section was enacted as part of act Oct. 20, 1951, popularly known as the Revenue
 
 #### Effective Date of 1960 Amendment
 
-Section 603(b) of Pub. L. 86–778 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1960.”
+Pub. L. 86–778, title VI, §603(b), Sept. 13, 1960, 74 Stat. 992, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1960.”
 

@@ -44,7 +44,7 @@
 
 #### (A) Administrative adjustment before filing of petition
 
-&emsp;&emsp;No petition may be filed under this subsection after the Secretary mails to the taxmatters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
+&emsp;&emsp;No petition may be filed under this subsection after the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
 
 #### (B) Administrative adjustment after filing but before hearing of petition
 
@@ -124,7 +124,7 @@
 
 > &emsp;&emsp;subparagraph (C) shall cease to apply with respect to such request, and the 2-year period referred to in clause (i)(II) of subparagraph (B) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 656; amended Pub. L. 97–448, title III, §306(c)(1)(B), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–147, title IV, §417(19)(B), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 656; amended Pub. L. 97–448, titleIII, §306(c)(1)(B), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–147, title IV, §417(19)(B), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Amendments
 

@@ -194,7 +194,7 @@
 
 #### (A) Permitted
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396o of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (B) Level may vary by option offered
 
@@ -238,7 +238,7 @@ In this section, the term “caretaker relative” has the meaning of such term 
 
 #### (f) Sunset
 
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after February 29, 2012.
+This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after December 31, 2013.
 
 #### (g) Collection and reporting of participation information
 
@@ -250,7 +250,7 @@ This section shall not apply with respect to families that cease to be eligible 
 
 &emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352.)
 
 #### References in Text
 
@@ -263,6 +263,10 @@ Paragraph (21) of section 1396d(a) of this title, referred to in subsec. (b)(4)(
 A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted “2013” for “2012”.
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–96 substituted “December 31” for “February 29”.
 
 <b>2011</b>—Subsec. (f). Pub. L. 112–78 substituted “February 29, 2012” for “December 31, 2011”.
 
@@ -340,15 +344,15 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by section 4601(a)(3)(B) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4601 of Pub. L. 101–508 have been promulgated by such date, see section 4601(b) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Section 4716(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 6411(i)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 602 of this title\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 101–239, title VI, §6411(i)(4), Dec. 19, 1989, 103 Stat. 2273, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 602 of this title\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 8436(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
+Pub. L. 100–647, title VIII, §8436(b), Nov. 10, 1988, 102 Stat. 3806, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\].”
 
 #### Effective Date
 
@@ -360,7 +364,7 @@ For provisions that certain references to provisions of part A (§601 et seq.) o
 
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 
-Section 303(c) of Pub. L. 100–485 directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus on costs of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
+Pub. L. 100–485, title III, §303(c), Oct. 13, 1988, 102 Stat. 2392, directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus on costs of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

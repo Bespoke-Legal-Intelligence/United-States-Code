@@ -18,11 +18,11 @@ A person appointed under subsection (a)(1) shall be subject to the provisions of
 
 (Sept. 26, 1914, ch. 311, §25A, as added Pub. L. 109–455, §9, Dec. 22, 2006, 120 Stat. 3381.)
 
-#### Termination of Section
+#### Repeal of Section
 
-<i>For termination of section by section 13 of Pub. L. 109–455, see Termination Date note below.</i>
+<i>For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.</i>
 
-#### Termination Date
+#### Effective Date of Repeal
 
-Section to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
+Section repealed effective Sept. 30, 2020, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 

@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(B) originates and causes to be mailed any skill contest or sweepstakes, except for any matter described in section 3001(k)(4);
 
-&emsp;(2) the term “removal request” means a request stating that an individual elects to havethe name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
+&emsp;(2) the term “removal request” means a request stating that an individual elects to have the name and address of such individual excluded from any list used by a promoter for mailing skill contests or sweepstakes;
 
 &emsp;(3) the terms “skill contest”, “sweepstakes”, and “clearly and conspicuously displayed” have the same meanings as given them in section 3001(k); and
 
@@ -96,7 +96,7 @@ In general.—An individual who receives one or more mailings in violation of su
 
 &emsp;(2)
 
-Action allowable based on other sufficient notice.—A mailing sent in violation of section 3001(<i>l</i>) shall be actionable under this subsection, but only if such an action would not also be available under paragraph (1) (as a violation of subsection (d)) based on the same mailing.
+Action allowable based on other sufficient notice.—A mailing sent in violation of section 3001(l) shall be actionable under thissubsection, but only if such an action would not also be available under paragraph (1) (as a violation of subsection (d)) based on the same mailing.
 
 (f)
 

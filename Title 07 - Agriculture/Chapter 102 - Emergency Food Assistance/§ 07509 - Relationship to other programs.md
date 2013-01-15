@@ -24,5 +24,5 @@ Amendment by section 4002(b)(1)(B), (2)(I) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 98–92 provided in part that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 

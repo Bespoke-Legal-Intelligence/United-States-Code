@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) “State” means the State of Louisiana;
 
-&emsp;(5) “coastal State” means a State of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes; for the purposes of this chapter,the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa;
+&emsp;(5) “coastal State” means a State of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes; for the purposes of this chapter, the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa;
 
 &emsp;(6) “coastal wetlands restoration project” means any technically feasible activity to create, restore, protect, or enhance coastal wetlands through sediment and freshwater diversion, water management, or other measures that the Task Force finds will significantly contribute to the long-term restoration or protection of the physical, chemical and biological integrity of coastal wetlands in the State of Louisiana, and includes any such activity authorized under this chapter or under any other provision of law, including, but not limited to, new projects, completion or expansion of existing or on-going projects, individual phases, portions, or components of projects and operation, maintanence <sup>2</sup> and rehabilitation of completed projects; the primary purpose of a “coastal wetlands restoration project” shall not be to provide navigation, irrigation or flood control benefits;
 
@@ -18,7 +18,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(A) the obtaining of a real property interest in coastal lands or waters, if the obtaining of such interest is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation of such lands and waters and the hydrology, water quality and fish and wildlife dependent thereon; and
 
-&emsp;&emsp;(B) the restoration, management, or enhancement of coastal wetlands ecosystems if such restoration, management, or enhancement is conducted on coastal lands and waters that are administered for the long-term conservation of such lands and waters and the hydrology, water quality and fish and wildlife dependent thereon;
+&emsp;&emsp;(B) the restoration, management, or enhancement of coastal wetlands ecosystems ifsuch restoration, management, or enhancement is conducted on coastal lands and waters that are administered for the long-term conservation of such lands and waters and the hydrology, water quality and fish and wildlife dependent thereon;
 
 &emsp;(8) “Governor” means the Governor of Louisiana;
 
@@ -34,7 +34,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 101–646 provided that: “This title \[enacting this chapter and amending section 777c of this title\] may be cited as the ‘Coastal Wetlands Planning, Protection and Restoration Act’.”
+Pub. L. 101–646, title III, §301, Nov. 29, 1990, 104 Stat. 4778, provided that: “This title \[enacting this chapter and amending section 777c of this title\] may be cited as the ‘Coastal Wetlands Planning, Protection and Restoration Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

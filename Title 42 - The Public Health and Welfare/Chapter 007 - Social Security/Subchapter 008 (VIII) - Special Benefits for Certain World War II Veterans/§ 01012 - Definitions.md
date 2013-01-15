@@ -32,7 +32,7 @@ In this subchapter:
 
 #### (5) United States
 
-&emsp;The term “United States” means, notwithstanding section 1301(a)(1) of this title, only the 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “United States” means, notwithstanding section 1301(a)(1) of this title, onlythe 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
 
 #### (6) Benefit income
 

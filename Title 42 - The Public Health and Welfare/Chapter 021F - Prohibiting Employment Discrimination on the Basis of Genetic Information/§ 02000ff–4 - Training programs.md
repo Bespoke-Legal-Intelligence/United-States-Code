@@ -2,7 +2,7 @@
 
 #### (a) Discrimination based on genetic information
 
-It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs—
+It shall be an unlawful employment practice for any employer, labor organization, or jointlabor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs—
 
 &emsp;(1) to discriminate against any individual because of genetic information with respect to the individual in admission to, or employment in, any program established to provide apprenticeship or other training or retraining;
 

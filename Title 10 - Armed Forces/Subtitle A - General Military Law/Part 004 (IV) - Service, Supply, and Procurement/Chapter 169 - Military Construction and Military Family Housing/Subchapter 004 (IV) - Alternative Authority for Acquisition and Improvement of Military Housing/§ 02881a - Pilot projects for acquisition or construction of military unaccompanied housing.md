@@ -36,7 +36,7 @@ Reports.—(1) The Secretary of the Navy shall transmit to the appropriate commi
 
 Expiration.—The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7, 2011, 124 Stat. 4459.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub.L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7, 2011, 124 Stat. 4459.)
 
 #### Amendments
 

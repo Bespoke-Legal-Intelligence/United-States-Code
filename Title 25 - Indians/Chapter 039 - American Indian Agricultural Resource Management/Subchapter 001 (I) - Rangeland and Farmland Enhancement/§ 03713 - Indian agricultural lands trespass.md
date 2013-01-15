@@ -10,7 +10,7 @@ Not later than one year after December 3, 1993, the Secretary shall issue regula
 
 &emsp;&emsp;(B) collection of the costs associated with damage to the Indian agricultural lands caused by the act of trespass; and
 
-&emsp;&emsp;(C) collection of the costs associated with enforcement of the regulations, including field examination and survey, damage appraisal, investigation assistance and reports, witness expenses, demand letters, court costs, and attorney fees;
+&emsp;&emsp;(C) collection of the costs associated with enforcement of the regulations, includingfield examination and survey, damage appraisal, investigation assistance and reports, witness expenses, demand letters, court costs, and attorney fees;
 
 &emsp;(2) designate responsibility within the Department of the Interior for the detection and investigation of Indian agricultural lands trespass; and
 

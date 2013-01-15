@@ -6,5 +6,5 @@ The Administrator shall establish procedures to ensure that the mission and prog
 
 #### Codification
 
-In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “theOffice of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
 #### Effective Date of 1994 Amendment
 
-Section 525(c)(2) and (3) of Pub. L. 103–236 provided that:
+Pub. L. 103–236, title V, §525(c)(2), (3), Apr. 30, 1994, 108 Stat. 475, provided that:
 
 “(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
 
@@ -72,7 +72,7 @@ Section 525(c)(2) and (3) of Pub. L. 103–236 provided that:
 
 #### Effective Date of 1988 Amendment
 
-Section 2502(b)(2) of Pub. L. 100–418 provided that: “The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment.”
+Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: “The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment.”
 
 #### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
 
@@ -90,7 +90,7 @@ Section 1. All blocked funds held in the United States in accounts in the name o
 
 (b) any such amounts that as of the date of this order are subject to post-judgment writs of execution or attachment in aid of execution of judgments pursuant to section 201 of the Terrorism Risk Insurance Act of 2002 (Public Law 107–297) \[see Tables for classification\], provided that, upon satisfaction of the judgments on which such writs are based, any remainder of such excepted amounts shall, by virtue of this order and without further action, be confiscated and vested.
 
-Sec. 2. The Secretary of the Treasury is authorized to perform, without further approval, ratification, or other action of the President, all functions of the President set forth in section 203(a)(1)(C) of IEEPA \[50 U.S.C. 1702(a)(1)(C)\] with respect to any and all property of the Government of Iraq, including its agencies, instrumentalities, or controlled entities, and to take additional steps, including the promulgation of rules and regulations as may be necessary, to carry out the purposes of this order. The Secretary of the Treasury may redelegate such functions in accordance with applicable law. The Secretary of the Treasury shall consult the Attorney General as appropriate in the implementation of this order.
+Sec. 2. The Secretary of the Treasury is authorized to perform, without further approval, ratification, or other action of the President, all functions of the President set forth in section 203(a)(1)(C) of IEEPA \[50 U.S.C. 1702(a)(1)(C)\] with respect to any and all property of the Government of Iraq, including its agencies, instrumentalities, or controlled entities, and to take additional steps, including the promulgation of rules and regulations as may be necessary, to carry out the purposes of this order. The Secretary of the Treasury may redelegate such functions in accordance with applicable law.The Secretary of the Treasury shall consult the Attorney General as appropriate in the implementation of this order.
 
 Sec. 3. This order shall be transmitted to the Congress and published in the Federal Register.
 

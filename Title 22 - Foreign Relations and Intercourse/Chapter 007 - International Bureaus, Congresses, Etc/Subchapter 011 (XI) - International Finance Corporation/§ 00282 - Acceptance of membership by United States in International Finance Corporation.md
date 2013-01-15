@@ -6,5 +6,5 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Short Title
 
-Section 1 of act Aug. 11, 1955, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘International Finance Corporation Act’.”
+Act Aug. 11, 1955, ch. 788, §1, 69 Stat. 669, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘International Finance Corporation Act’.”
 

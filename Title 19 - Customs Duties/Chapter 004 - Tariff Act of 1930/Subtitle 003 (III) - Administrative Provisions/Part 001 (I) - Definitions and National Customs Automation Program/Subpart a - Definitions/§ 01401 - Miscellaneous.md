@@ -50,7 +50,7 @@ The term “hovering vessel” means—
 
 &emsp;(2) any vessel which has visited a vessel described in paragraph (1).
 
-#### (<i>l</i>) Secretary
+#### (l) Secretary
 
 The term “Secretary” means the Secretary of the Treasury or his delegate.
 
@@ -66,7 +66,7 @@ The term “controlled substance” has the meaning given that term in section 8
 
 The term “electronic transmission” means the transfer of data or information through an authorized electronic data interchange system consisting of, but not limited to, computer modems and computer networks.
 
-#### (<i>o</i>) Electronic entry
+#### (o) Electronic entry
 
 The term “electronic entry” means the electronic transmission to the Customs Service of—
 
@@ -114,7 +114,7 @@ Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, a
 
 Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May 27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
 
-The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
+The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amendedby the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Pub. L. 108–429, §1561(a), inserted “, including foreign law enforcement o
 
 Subsec. (t). Pub. L. 108–429, §2106, added subsec. (t).
 
-<b>2003</b>—Subsec. (i). Pub. L. 108–7, §127(b), which directed amendment of section 1401(i) of title 19 by inserting“, including foreign law enforcement officers,” after “or other person”, was repealed by Pub. L. 108–429, §1561(c).
+<b>2003</b>—Subsec. (i). Pub. L. 108–7, §127(b), which directed amendment of section 1401(i) of title 19 by inserting “, including foreign law enforcement officers,” after “or other person”, was repealed by Pub. L. 108–429, §1561(c).
 
 <b>1996</b>—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
 
@@ -154,13 +154,13 @@ Subsec. (m). Pub. L. 99–570, §3111(4), added subsec. (m).
 
 <b>1970</b>—Subsec. (h). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (h) which defined “collector”, and redesignated subsec. (k) as (h).
 
-Subsec. (i). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (i) which defined “comptroller of customs”, redesignated subsec. (<i>l</i>) as (i), and, as so redesignated, defined “customs officer”.
+Subsec. (i). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (i) which defined “comptroller of customs”, redesignated subsec. (l) as (i), and, as so redesignated, defined “customs officer”.
 
 Subsec. (j). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (j) which defined “appraiser”, and redesignated subsec. (m) as (j).
 
 Subsec. (k). Pub. L. 91–271, §301(c)(1), (2), redesignated subsec. (n) as (k). Former subsec. (k) redesignated (h).
 
-Subsec. (<i>l</i>). Pub. L. 91–271, §301(c)(2), (3), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (i).
+Subsec. (l). Pub. L. 91–271, §301(c)(2), (3), added subsec. (l). Former subsec. (l) redesignated (i).
 
 Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and (n) as (j) and (k), respectively.
 
@@ -168,7 +168,7 @@ Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and 
 
 <b>1938</b>—Subsec. (k). Act June 25, 1938, inserted “Wake Island, Midway Islands, Kingman Reef” before “and the island of Guam”.
 
-<b>1935</b>—Subsecs. (<i>l</i>) to (n). Act Aug. 5, 1935, added subsecs. (<i>l</i>) to (n).
+<b>1935</b>—Subsecs. (l) to (n). Act Aug. 5, 1935, added subsecs. (l) to (n).
 
 #### Change of Name
 
@@ -190,15 +190,15 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1955 Amendment
 
-Section 2(d) of act June 30, 1955, provided that: “The amendments made by this section \[amending this section, sections 1557, 1562, and 1709 of this title, and sections 542, 544, and 545 of Title 18, Crimes and Criminal Procedure\] shall take effect on the day following the day on which this Act is enacted \[July 1, 1955\].”
+Act June 30, 1955, ch. 258, §2(d), 69 Stat. 242, provided that: “The amendments made by this section \[amending this section, sections 1557, 1562, and 1709 of this title, and sections 542, 544, and 545 of Title 18, Crimes and Criminal Procedure\] shall take effect on the day following the day on which this Act is enacted \[July 1, 1955\].”
 
 #### Effective Date of 1938 Amendment
 
-Section 37 of act June 25, 1938, provided that: “Sections 31 and 34 of this Act \[amending section 1001 of this title\] shall take effect on the date of enactment of this Act \[June 25, 1938\]. Except as otherwise specially provided in this Act, the remainder of this Act \[amending this section and sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557, 1558, 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, and 1709 of this title, enacting sections 1321, 1467, and 1528 of this title, and amending section 331 of former Title 46, Shipping\] shall take effect on the thirtieth day following the date of its enactment.”
+Act June 25, 1938, ch. 679, §37, 52 Stat. 1094, provided that: “Sections 31 and 34 of this Act \[amending section 1001 of this title\] shall take effect on the date of enactment of this Act \[June 25, 1938\]. Except as otherwise specially provided in this Act, the remainder of this Act \[amending this section and sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557, 1558, 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, and 1709 of this title, enacting sections 1321, 1467, and 1528 of this title, and amending section 331 of former Title 46, Shipping\] shall take effect on the thirtieth day following the date of its enactment.”
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

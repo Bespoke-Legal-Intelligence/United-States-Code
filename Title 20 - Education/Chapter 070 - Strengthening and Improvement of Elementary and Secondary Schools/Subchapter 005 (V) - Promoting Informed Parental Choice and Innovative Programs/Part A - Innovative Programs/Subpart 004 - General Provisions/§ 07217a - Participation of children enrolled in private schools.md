@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall provide, as may be necessary, for the benefit of such children in such schools—
 
-&emsp;&emsp;&emsp;(i) secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers of such children (and other educational personnel serving such children) in training programs; and
+&emsp;&emsp;&emsp;(i) secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers ofsuch children (and other educational personnel serving such children) in training programs; and
 
 &emsp;&emsp;&emsp;(ii) the repair, minor remodeling, or construction of public facilities (consistent with subsection (c) of this section); or
 
@@ -30,7 +30,7 @@
 
 #### (2) Concentrated programs
 
-&emsp;Taking into account the needs of the individual children and other factors that relateto the expenditures referred to in paragraph (1), and when funds available to a local educational agency under this part are used to concentrate programs on a particular group, attendance area, or grade or age level, children enrolled in private schools who are included within the group, attendance area, or grade or age level selected for such concentration shall, after consultation with the appropriate private school officials, be assured equitable participation in the purposes and benefits of such programs.
+&emsp;Taking into account the needs of the individual children and other factors that relate to the expenditures referred to in paragraph (1), and when funds available to a local educational agency under this part are used to concentrate programs on a particular group, attendance area, or grade or age level, children enrolled in private schools who are included within the group, attendance area, or grade or age level selected for such concentration shall, after consultation with the appropriate private school officials, be assured equitable participation in the purposes and benefits of such programs.
 
 #### (c) Administrative requirements
 
@@ -84,7 +84,7 @@ When the Secretary arranges for services under subsection (d) of this section, t
 
 #### (i) Prior determination
 
-Any bypass determination by the Secretary under title VI (as such title was in effect on theday preceding January 8, 2002) shall, to the extent consistent with the purposes of this part, apply to programs under this part.
+Any bypass determination by the Secretary under title VI (as such title was in effect on the day preceding January 8, 2002) shall, to the extent consistent with the purposes of this part, apply to programs under this part.
 
 (Pub. L. 89–10, title V, §5142, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1785.)
 

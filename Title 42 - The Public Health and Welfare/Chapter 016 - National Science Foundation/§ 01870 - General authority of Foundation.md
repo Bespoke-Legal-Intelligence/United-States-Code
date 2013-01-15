@@ -1,6 +1,6 @@
 ### §1870. General authority of Foundation
 
-The Foundation shall have the authority, within the limits of available appropriations, todo all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
+The Foundation shall have the authority, within the limits of available appropriations, to do all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
 
 &emsp;(a) to prescribe such rules and regulations as it deems necessary governing the manner of its operations and its organization and personnel;
 
@@ -58,5 +58,5 @@ Subsec. (j). Pub. L. 90–407, §9(d), added subsec. (j).
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 

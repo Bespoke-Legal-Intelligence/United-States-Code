@@ -16,7 +16,9 @@ In addition to other taxes, there shall be imposed for each taxable year, on the
 
 #### (b) Hospital insurance
 
-In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
+#### (1) In general
+
+&emsp;In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
 
 &nbsp;
 
@@ -28,45 +30,41 @@ In addition to the tax imposed by the preceding subsection, there shall be impos
 | December 31, 1984 | January 1, 1986 | 2\.70&nbsp;&nbsp; |
 | December 31, 1985 | 2\.90. |  |
 
+#### (2) Additional tax
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year beginning after December 31, 2012, a tax equal to 0.9 percent of the self-employment income for such taxable year which is in excess of—
+
+&emsp;&emsp;&emsp;(i) in the case of a joint return, $250,000,
+
+&emsp;&emsp;&emsp;(ii) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under clause (i), and
+
+&emsp;&emsp;&emsp;(iii) in any other case, $200,000.
+
+#### (B) Coordination with FICA
+
+&emsp;&emsp;The amounts under clause (i), (ii), or (iii) (whichever is applicable) of subparagraph (A) shall be reduced (but not below zero) by the amount of wages taken into account in determining the tax imposed under section 3121(b)(2) with respect to the taxpayer.
+
 #### (c) Relief from taxes in cases covered by certain international agreements
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(b)(1), title X, §10906(b), Mar. 23, 2010, 124 Stat. 871, 1020; Pub. L. 111–152, title I, §1402(b)(1)(B), Mar. 30, 2010, 124 Stat. 1063.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 111–152, title I, §1402(b)(1)(B), (3), Mar. 30, 2010, 124 Stat. 1063, provided that, applicable with respect to remuneration received, and taxable years beginning after, Dec. 31, 2012, subsection (b)(2) of this section, as added and amended by sections 9015 and 10906 of Pub. L. 111–148, is amended:</i>
-
-<i>(1) in subparagraph (A), by striking “and” at the end of clause (i), redesignating clause (ii) as (iii), and adding after clause (i) the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under clause (i), and”; and</i>
-
-<i>(2) in subparagraph (B), by striking “under clauses (i) and (ii)” and inserting “under clause (i), (ii), or (iii) (whichever is applicable)”.</i>
-
-<i>Pub. L. 111–148, title X, §10906(b), (c), Mar. 23, 2010, 124 Stat. 1020, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b)(2)(A) of this section, as added by sec</i><i>tion 9015(b)(1) of Pub. L. 111–148, is amended by striking “0.5 percent” and inserting “0.9 percent”.</i>
-
-<i>Pub. L. 111–148, title IX, §9015(b)(1), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b) of this section is amended by inserting “(1) In general” before “In addition” and adding at the end a paragraph (2), to read as follows:</i>
-
-#### <i>(2) Additional tax</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year beginning after December 31, 2012, a tax equal to 0.5 percent of the self-employment income for such taxable year which is in excess of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) in the case of a joint return, $250,000, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in any other case, $200,000.</i>
-
-#### <i>(B) Coordination with FICA</i>
-
-&emsp;&emsp;<i>The amounts under clauses (i) and (ii) of subparagraph (A) shall be reduced (but not below zero) by the amount of wages taken into account in determining the tax imposed under section 3121(b)(2) with respect to the taxpayer.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L.85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(b)(1), title X, §10906(b), Mar. 23, 2010, 124 Stat. 871, 1020; Pub. L. 111–152, title I, §1402(b)(1)(B), Mar. 30, 2010, 124 Stat. 1063.)
 
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–148, §9015(b)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (b)(2)(A). Pub. L. 111–152, §1402(b)(1)(B)(i), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Pub. L. 111–148, §10906(b), substituted “0.9 percent” for “0.5 percent” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 111–152, §1402(b)(1)(B)(ii), substituted “under clause (i), (ii), or (iii) (whichever is applicable)” for “under clauses (i) and (ii)”.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
@@ -100,7 +98,7 @@ Subsec. (b)(6). Pub. L. 93–233 added par. (6).
 
 <b>1972</b>—Subsec. (a)(3). Pub. L. 92–603, §135(a)(1)(A), substituted “1973” for “1978”.
 
-Subsec. (a)(4). Pub. L. 92–603, §135(a)(1)(B), substituted provisions that in the case of taxable years beginning after Dec. 31, 1972, the tax shall be equal to 7.0 percent of the amount of the self-employment income for suchtaxable year, for provisions that in the case of taxable years beginning after Dec. 31, 1977, and before Jan. 1, 2011, the tax shall be equal to 6.7 percent of the amount of the self-employment income for such taxable year.
+Subsec. (a)(4). Pub. L. 92–603, §135(a)(1)(B), substituted provisions that in the case of taxable years beginning after Dec. 31, 1972, the tax shall be equal to 7.0 percent of the amount of the self-employment income for such taxable year, for provisions that in the case of taxableyears beginning after Dec. 31, 1977, and before Jan. 1, 2011, the tax shall be equal to 6.7 percent of the amount of the self-employment income for such taxable year.
 
 Subsec. (a)(5). Pub. L. 92–603, §135(a)(1)(B), struck out par. (5) which provided that in the case of taxable years beginning after Dec. 31, 2010, the tax shall be equal to 7.0 percent of the amount of the self-employment income for the taxable year.
 
@@ -142,7 +140,7 @@ Pub. L. 111–148, title X, §10906(c), Mar. 23, 2010, 124 Stat. 1020, provided 
 
 #### Effective Date of 1983 Amendment
 
-Section 124(d) of Pub. L. 98–21 provided that:
+Pub. L. 98–21, title I, §124(d), Apr. 20, 1983, 97 Stat. 91, provided that:
 
 “(1)
 
@@ -154,7 +152,7 @@ Subsection (c).—The amendments made by subsection (c) \[amending sections 32, 
 
 #### Effective Date of 1977 Amendment
 
-Section 104 of title I of Pub. L. 95–216 provided that: “The amendments made by this title \[amending thissection, sections 3101 and 3111 of this title, and sections 401, 415, and 430 of Title 42, The Public Health and Welfare\] shall apply with respect to remuneration paid or received, and taxable years beginning, after 1977.”
+Pub. L. 95–216, title I, §104, Dec. 20, 1977, 91 Stat. 1514, provided that: “The amendments made by this title\[amending this section, sections 3101 and 3111 of this title, and sections 401, 415, and 430 of Title 42, The Public Health and Welfare\] shall apply with respect to remuneration paid or received, and taxable years beginning, after 1977.”
 
 #### Effective Date of 1976 Amendment
 
@@ -162,35 +160,35 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1973 Amendment
 
-Section 6(c) of Pub. L. 93–233 provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1973. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1973.”
+Pub. L. 93–233, §6(c), Dec. 31, 1973, 87 Stat. 955, provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1973. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1973.”
 
-#### Effective Date of 1972 Amendments
+#### Effective Date of 1972 Amendment
 
-Section 135(c) of Pub. L. 92–603 provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1972. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1972.”
+Pub. L. 92–603, title I, §135(c), Oct. 30, 1972, 86 Stat. 1364, provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1972. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1972.”
 
-Section 204(c) of Pub. L. 92–336 provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1972. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1972.”
+Pub. L. 92–336, title II, §204(c), Oct. 30, 1972, 86 Stat. 1377, provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1972. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1972.”
 
 #### Effective Date of 1968 Amendment
 
-Section 109(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1967. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1967.”
+Pub. L. 90–248, title I, §109(c), Jan. 2, 1968, 81 Stat. 837, provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1967. The remaining amendments made by this section \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1967.”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 111(c)(4) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[section 3201 et seq. of this title\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
-Section 321(d) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1965. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1965.”
+Pub. L. 89–97, title III, §321(d), July 30, 1965, 79 Stat. 396, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1965. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1965.”
 
 #### Effective Date of 1961 Amendment
 
-Section 201(d) of Pub. L. 87–64 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1961. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1961.”
+Pub. L. 87–64, title II, §201(d), June 30, 1961, 75 Stat. 141, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1961. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1961.”
 
 #### Effective Date of 1958 Amendment
 
-Section 401(d) of Pub. L. 85–840 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1958. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1958.”
+Pub. L. 85–840, title IV, §401(d), Aug. 28, 1958, 72 Stat. 1042, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1958. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1958.”
 
 #### Effective Date of 1956 Amendment
 
-Section 202(d) of act Aug. 1, 1956, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1956. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1956.”
+Act Aug. 1, 1956, ch. 836, title II, §202(d), 70 Stat. 846, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1956. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply with respect to remuneration paid after December 31, 1956.”
 
 #### Savings Provision
 
@@ -198,7 +196,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Temporary Employee Payroll Tax Cut
 
-Pub. L. 111–312, title VI, §601, Dec. 17, 2010, 124 Stat. 3309, as amended by Pub. L. 112–78, title I, §101(a)–(d), Dec. 23, 2011, 125 Stat. 1281, 1282, provided that:
+Pub. L. 111–312, title VI, §601, Dec. 17, 2010, 124 Stat. 3309, as amended by Pub. L. 112–78, title I, §101(a)–(d), Dec. 23, 2011, 125 Stat. 1281, 1282; Pub. L. 112–96, title I, §1001(a), (b), Feb. 22, 2012, 126 Stat. 158, provided that:
 
 “(a)
 
@@ -226,11 +224,7 @@ Individual deduction.—In the case of the taxes imposed by section 1401 of such
 
 “(c)
 
-Payroll Tax Holiday Period.—The term ‘payroll tax holiday period’ means—
-
-&emsp;“(1) in the case of the tax described in subsection (a)(1), calendar years 2011 and 2012, and
-
-&emsp;“(2) in the case of the taxes described in subsection (a)(2), the period beginning January 1, 2011, and ending February 29, 2012.
+Payroll Tax Holiday Period.—The term ‘payroll tax holiday period’ means calendar years 2011 and 2012.
 
 “(d)
 
@@ -250,41 +244,9 @@ Transfers to social security equivalent benefit account.—There are hereby appr
 
 &emsp;“(3)
 
-Coordination with other federal laws.—For purposes of applying any provision of Federal law other than the provisions of the Internal Revenue Code of 1986, the rate of tax in effect under section 3101(a) of such Code shall be determined without regard to the reduction in such rate under this section.
+Coordination with other federal laws.—For purposes of applying any provision of Federal law other than the provisions of the Internal Revenue Code of 1986, the rate of tax in effect under section 3101(a) of such Code shall be determined without regard to the reduction in such rate under this section.”
 
-“(f)
-
-Special Rules for 2012.—
-
-&emsp;“(1)
-
-Limitation on self-employment income.—In the case of any taxable year beginning in 2012, subsection (a)(1) shall only apply with respect to so much of the taxpayer's self-employment income (as defined in section 1402(b) of the Internal Revenue Code of 1986) as does not exceed the excess (if any) of—
-
-&emsp;&emsp;“(A) $18,350, over
-
-&emsp;&emsp;“(B) the amount of wages and compensation received during the portion of the payroll tax holiday period occurring during 2012 subject to tax under section 3101(a) of such Code or section 3201(a) of such Code.
-
-&emsp;“(2)
-
-Coordination with deduction for employment taxes.—In the case of a taxable year beginning in 2012, subparagraph (A) of subsection (b)(2) shall be applied as if it read as follows:
-
-&emsp;&emsp;“ ‘(A) the sum of—
-
-&emsp;&emsp;&emsp;“ ‘(i) 59.6 percent of the portion of such taxes attributable to the tax imposed by section 1401(a) of such Code (determined after the application of this section) on so much of self-employment income (as defined in section 1402(b) of such Code) as does not exceed the amount of self-employment income described in paragraph (1), plus
-
-&emsp;&emsp;&emsp;“ ‘(ii) one-half of the portion of such taxes attributable to the tax imposed by section 1401(a) of such Code (determined without regard to this section) on self-employment income (as so defined) in excess of such amount, plus’.
-
-“(g)
-
-Recapture of Excess Benefit.—
-
-&emsp;“(1)
-
-In general.—There is hereby imposed on the income of every individual a tax equal to 2 percent of the sum of wages (within the meaning of section 3121(a)(1) of the Internal Revenue Code of 1986) and compensation (to which section 3201(a) of such Code applies) received during the period beginning January 1, 2012, and ending February 29, 2012, to the extent the amount of such sum exceeds $18,350.
-
-&emsp;“(2)
-
-Regulations.—The Secretary of the Treasury or the Secretary's delegate shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out this subsection, including guidance for payment by the employee of the tax imposed by paragraph (1).”
+\[Pub. L. 112–96, title I, §1001(c), Feb. 22, 2012, 126 Stat. 159, provided that: “The amendments made by this section \[amending section 601 of Pub. L. 111–312, set out above\] shall apply to remuneration received, and taxable years beginning, after December 31, 2011.”\]
 
 \[Pub. L. 112–78, title I, §101(e), Dec. 23, 2011, 125 Stat. 1282, provided that:
 
@@ -302,5 +264,5 @@ Land diverted from production of agricultural commodities under a 1983 payment-i
 
 #### Deduction by or Credit Against Individual Income Tax for Taxes Paid Into Foreign Social Security System Pursuant to International Agreement
 
-Section 317(b)(4) of Pub. L. 95–216 provided that: “Notwithstanding any other provision of law, taxes paid by any individual to any foreign country with respect to any period of employment or self-employment which is covered under the social security system of such foreign country in accordance with the terms of an agreement entered into pursuant to section 233 of the Social Security Act \[section 433 of Title 42, The Public Health and Welfare\] shall not, under the income tax laws of the United States, be deductible by, or creditable against the income tax of, any such individual.”
+Pub. L. 95–216, title III, §317(b)(4), Dec. 20, 1977, 91 Stat. 1540, provided that: “Notwithstanding any other provision of law, taxes paid by any individual to any foreign country with respect to any period of employment or self-employment which is covered under the social security system of such foreign country in accordance with the terms of an agreement entered into pursuant to section 233 of the Social Security Act \[section 433 of Title 42, The Public Health and Welfare\] shall not, under the income tax laws of the United States, be deductible by, or creditable against the income tax of, any such individual.”
 

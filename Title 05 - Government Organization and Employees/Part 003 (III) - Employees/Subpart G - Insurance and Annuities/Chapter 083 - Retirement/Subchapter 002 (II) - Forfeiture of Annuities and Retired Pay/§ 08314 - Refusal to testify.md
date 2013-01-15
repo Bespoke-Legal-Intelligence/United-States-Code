@@ -1,6 +1,6 @@
 ### §8314. Refusal to testify
 
-(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual, before, on, or after September 1, 1954, refused or refuses, or knowingly and willfully failed or fails, to appear, testify, or produce a book, paper, record, or other document, relating to his service as an employee, before a Federal grand jury,court of the United States, court-martial, or congressional committee, in a proceeding concerning—
+(a) An individual, or his survivor or beneficiary, may not be paid annuity or retired pay on the basis of the service of the individual which is creditable toward the annuity or retired pay, subject to the exceptions in section 8311(2) and (3) of this title, if the individual, before, on, or after September 1, 1954, refused or refuses, or knowingly and willfully failed or fails, to appear, testify, or produce a book, paper, record, or other document, relating to his service as an employee, before a Federal grand jury, court of the United States, court-martial, or congressional committee, in a proceeding concerning—
 
 &emsp;(1) his past or present relationship with a foreign government; or
 

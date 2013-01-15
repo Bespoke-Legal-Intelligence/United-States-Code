@@ -6,7 +6,7 @@ Preference.—In leasing or procuring motor vehicles for use by a military depar
 
 &emsp;(1) will meet the requirements or needs of the Department of Defense; and
 
-&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparable to motor vehicles containing only an internal combustion or heat engine using combustible fuel.
+&emsp;(2) are commercially available at a cost, including operating cost, reasonably comparableto motor vehicles containing only an internal combustion or heat engine using combustible fuel.
 
 (b)
 

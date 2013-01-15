@@ -18,7 +18,7 @@
 
 (1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) of this section either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
 
-(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loan as of the time of sale.
+(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal)to the amount of the unpaid principal of such loan as of the time of sale.
 
 #### (c) Agreements
 
@@ -26,7 +26,7 @@
 
 &emsp;(A) to guarantee to such purchaser (and any successor in interest to such purchaser) payment of the principal and interest payable under such loan, and
 
-&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to theamount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary, after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
+&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary, after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
 
 (2) Any such agreement—
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Comptroller of the Currency
 
-The Comptroller of the Currency shall be authorized and empowered to grant by special permit to national banks applying therefor, when not in contravention of State or local law, the right to act as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, committee of estates of lunatics, or in any other fiduciary capacity in which State banks, trust companies, or other corporations which come into competition with national banks are permitted to act under the laws of the State in which the national bank is located.
+The Comptroller of the Currency shall be authorized and empowered to grant by special permit to national banks applying therefor, when not in contravention of State or local law, the right to act as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, or in any other fiduciary capacity in which State banks, trust companies, or other corporations which come into competition with national banks are permitted to act under the laws of the State in which the national bank is located.
 
 #### (b) Grant and exercise of powers deemed not in contravention of State or local law
 
@@ -26,7 +26,7 @@ Whenever the laws of a State require corporations acting in a fiduciary capacity
 
 #### (g) Officials’ oath or affidavit
 
-In any case in which the laws of a State require that a corporation acting as trustee, executor, administrator, or in any capacity specified in this section, shall take an oath or makean affidavit, the president, vice president, cashier, or trust officer of such national bank may take the necessary oath or execute the necessary affidavit.
+In any case in which the laws of a State require that a corporation acting as trustee, executor, administrator, or in any capacity specified in this section, shall take an oath or make an affidavit, the president, vice president, cashier, or trust officer of such national bank may take the necessary oath or execute the necessary affidavit.
 
 #### (h) Loans of trust funds to officers and employees prohibited; penalties
 
@@ -38,7 +38,7 @@ In passing upon applications for permission to exercise the powers enumerated in
 
 #### (j) Surrender of authorization; board resolution; Comptroller certification; activities affected; regulations
 
-Any national banking association desiring to surrender its right to exercise the powers granted under this section, in order to relieve itself of the necessity of complying with the requirements of this section, or to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, or for any other purpose, may file with the Comptroller of the Currency a certified copy of a resolution of its board of directors signifying such desire. Upon receipt of such resolution, the Comptroller of the Currency, after satisfying himself that such bank has been relieved in accordance with State law of all duties as trustee, executory,<sup>2</sup> administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, committee of estates of lunatics or other fiduciary, under court, private, or other appointments previously accepted under authority of this section, may, in his discretion, issue to such bank a certificate certifying that such bank is no longer authorized to exercise the powers granted by this section. Upon the issuance of such a certificate by the Comptroller of the Currency, such bank (1) shall no longer be subject to the provisions of this section or the regulations of the Comptroller of the Currency made pursuant thereto, (2) shall be entitled to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, and (3) shall not exercise thereafter any of the powers granted by this section without first applying for and obtaining a new permit to exercise such powers pursuant to the provisions of this section. The Comptroller of the Currency is authorized and empowered to promulgate such regulations as he may deem necessary to enforce compliance with the provisions of this section and the proper exercise of the powers granted therein.
+Any national banking association desiring to surrender its right to exercise the powers granted under this section, in order to relieve itself of the necessity of complying with the requirements of this section, or to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, or for any other purpose, may file with the Comptroller of the Currency a certified copy of a resolution of its board of directors signifying such desire. Upon receipt of such resolution, the Comptroller of the Currency, after satisfying himself that such bank has been relieved in accordance with State law of all duties as trustee, executory,<sup>2</sup> administrator, registrar of stocks and bonds, guardian of estates, assignee, receiver, or other fiduciary, under court, private, or other appointments previously accepted under authority of this section, may, in his discretion, issue to such bank a certificate certifying that such bank is no longer authorized to exercise the powers granted by this section. Upon the issuance of such a certificate by the Comptroller of the Currency, such bank (1) shall no longer be subject to the provisions of this section or the regulations of the Comptroller of the Currency made pursuant thereto, (2) shall be entitled to have returned to it any securities which it may have deposited with the State authorities for the protection of private or court trusts, and (3) shall not exercise thereafter any of the powers granted by this section without first applying for and obtaining a new permit to exercise such powers pursuant to the provisions of this section. The Comptroller of the Currency is authorized and empowered to promulgate such regulations as he may deem necessary to enforce compliance with the provisions of this section and the proper exercise of the powers granted therein.
 
 #### (k) Revocation; procedures applicable
 
@@ -50,15 +50,19 @@ Any national banking association desiring to surrender its right to exercise the
 
 (4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 
-(Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94 Stat. 187.)
+(Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94Stat. 187; Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–231, §2(b)(1)(A), struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
+
+Subsec. (j). Pub. L. 112–231, §2(b)(1)(B), struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
 
 <b>1980</b>—Subsec. (k). Pub. L. 96–221 added subsec. (k).
 
 #### Savings Provision
 
-Section 2 of Pub. L. 87–722 provided that: “Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
+Pub. L. 87–722, §2, Sept. 28, 1962, 76 Stat. 669, provided that: “Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “enumerated”.</i>
 

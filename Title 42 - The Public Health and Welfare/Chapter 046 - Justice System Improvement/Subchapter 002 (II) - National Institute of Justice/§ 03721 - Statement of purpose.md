@@ -320,13 +320,13 @@ Appointment date.—Members of the Commission shall be appointed no later than 9
 
 “(k) The Commission may, for purposes of this section, hold hearings, sit and act at the times and places, take testimony, and receive evidence, as the Commission considers appropriate.
 
-“(<i>l</i>) Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
+“(l) Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
 
 “(m) The Commission may secure directly from any Federal agency information necessary to enable it to carry out this section. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
 
 “(n) The Commission may accept, use, and dispose of gifts or donations of services or property.
 
-“(<i>o</i>) The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
+“(o) The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
 “(p) Not later than March 31, 1996, the Commission shall submit to the Congress a report containing the findings of the Commission and specific proposals for legislation and administrative actions that the Commission has determined to be appropriate.
 

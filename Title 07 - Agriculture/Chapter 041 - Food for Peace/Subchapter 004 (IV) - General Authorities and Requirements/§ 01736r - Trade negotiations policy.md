@@ -88,7 +88,7 @@ Objectives.—The agricultural trade negotiating objectives of the United States
 
 &emsp;“(6) eliminating government policies that create price-depressing surpluses; and
 
-&emsp;“(7) strengthening dispute settlement procedures to ensure prompt compliance by foreign governments with their World Trade Organization obligations including commitments not to maintain unjustified restrictions on United States exports.
+&emsp;“(7) strengthening dispute settlement procedures to ensure prompt compliance by foreign governmentswith their World Trade Organization obligations including commitments not to maintain unjustified restrictions on United States exports.
 
 “(c)
 

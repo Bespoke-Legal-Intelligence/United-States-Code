@@ -189,6 +189,7 @@
 | [6348\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md) | Energy efficiency in industrial facilities. |
 | [6349\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md) | Process-oriented industrial energy efficiency. |
 | [6350\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md) | Industrial insulation and audit guidelines. |
+| [6351\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006351%20-%20Coordination%20of%20research%20and%20development%20of%20energy%20efficient%20technologies%20for%20industry.md) | Coordination of research and development of energy efficient technologies for industry. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

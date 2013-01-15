@@ -44,7 +44,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(iii) within 7 days after the date on which the franchisee is provided a copy of such agreement, the franchisee has not posted by certified mail a written notice to the franchisor repudiating such agreement.
 
-&emsp;(E) In the case of any franchise entered into prior to June 19, 1978, and in the case of any franchise entered into or renewed on or after such date (the term of which is 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, if—
+&emsp;(E) In the case of any franchise entered into prior to June 19, 1978, and in the case of any franchise entered into or renewed on or after such date (the term of which is 3 years or longer, or with respect to which the franchiseewas offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, if—
 
 &emsp;&emsp;(i) such determination—
 
@@ -76,7 +76,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;(C) A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.
 
-&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and,in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
+&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
 
 &emsp;&emsp;(i) such determination is—
 

@@ -16,17 +16,7 @@ The amount of the credit allowed under subsection (a) with respect to any vehicl
 
 #### (2) Personal credit
 
-#### (A) In general
-
-&emsp;&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
-
-#### (B) Limitation based on amount of tax
-
-&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall not exceed the excess of—
-
-&emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, and 30D) and section 27 for the taxable year.
+&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
 
 #### (d) Qualified plug-in electric vehicle
 
@@ -72,7 +62,7 @@ For purposes of this section—
 
 #### (1) Basis reduction
 
-&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowableunder subsection (a) shall be reduced by the amount of such credit so allowed.
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
 
 #### (2) No double benefit
 
@@ -98,11 +88,7 @@ For purposes of this section—
 
 This section shall not apply to any vehicle acquired after December 31, 2011.
 
-(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title X, §10909(b)(2)(F), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
+(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311,title III, §318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title X, §10909(b)(2)(F), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(G), Jan. 2, 2013, 126 Stat. 2322.)
 
 #### References in Text
 
@@ -115,6 +101,8 @@ The Clean Air Act, referred to in subsec. (d)(3), is act July 14, 1955, ch. 360,
 A prior section 30 was renumbered section 41 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–240 amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
 <b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(F), (c), as amended by Pub. L. 111–312, temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -146,6 +134,10 @@ Subsec. (d)(1). Pub. L. 104–188, §1704(j)(4)(A)(i), inserted “(determined w
 
 Subsec. (d)(4). Pub. L. 104–188, §1704(j)(4)(A)(ii), added par. (4).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+
 #### Effective and Termination Dates of 2010 Amendment
 
 Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
@@ -162,7 +154,7 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by thissection \[amending this section\] shall apply to property placed in service after December 31, 2003.”
+Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2003.”
 
 #### Effective Date of 2002 Amendment
 
@@ -174,7 +166,7 @@ Amendment by section 1205(d)(4) of Pub. L. 104–188 applicable to amounts paid 
 
 #### Effective Date
 
-Section 1913(c) of Pub. L. 102–486 provided that: “The amendments made by this section \[enacting this section and 179A of this title and amending sections 53, 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993.”
+Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: “The amendments made by this section \[enacting this section and 179A of this title and amending sections 53, 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993.”
 
 #### Transitional Rule
 

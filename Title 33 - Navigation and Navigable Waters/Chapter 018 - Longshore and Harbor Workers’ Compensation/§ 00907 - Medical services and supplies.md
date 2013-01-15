@@ -138,7 +138,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Claims Filed Under Black Lung Benefits Act
 
-Section 28(h)(1) of Pub. L. 98–426 provided that: “The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
+Pub. L. 98–426, §28(h)(1), Sept. 28, 1984, 98 Stat. 1655, provided that: “The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

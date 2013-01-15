@@ -20,7 +20,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), 
 
 Subsec. (b)(2). Pub. L. 109–364, §2851(b)(3)(B), substituted “2911(b)” for “2865(a)”.
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day periodbeginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
 <b>1997</b>—Pub. L. 105–85 renumbered section 2483 of this title as this section.
 

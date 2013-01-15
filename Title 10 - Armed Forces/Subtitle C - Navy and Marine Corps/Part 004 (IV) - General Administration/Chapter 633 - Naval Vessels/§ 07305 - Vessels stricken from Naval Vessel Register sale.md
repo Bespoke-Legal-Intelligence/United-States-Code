@@ -24,7 +24,7 @@ Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and 
 
 Applicability.—This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708; amended Pub. L.105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, §3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, §5(b)(53), Jan. 4, 2011, 124 Stat. 3847.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708; amended Pub. L. 105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, §3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, §5(b)(53), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Prior Provisions
 
@@ -56,5 +56,5 @@ Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and 
 
 #### Executive Order No. 11765
 
-Ex. Ord. No. 11765, Jan. 21, 1974, 39 F.R. 2577, related to sale of vessels of the Navy stricken from Naval Vessel Register pursuant to section 7304 of this title regardless of their appraised value under authority of former subsec. (<i>l</i>) of this section.
+Ex. Ord. No. 11765, Jan. 21, 1974, 39 F.R. 2577, related to sale of vessels of the Navy stricken from Naval Vessel Register pursuant to section 7304 of this title regardless of their appraised value under authority of former subsec. (l) of this section.
 

@@ -46,7 +46,7 @@ Section 11403c, Pub. L. 100–77, title IV, §454, as added Pub. L. 101–625, t
 
 Section 11403d, Pub. L. 100–77, title IV, §455, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(b), Oct. 28, 1992, 106 Stat. 4030, related to selection criteria for a national competition for assistance.
 
-Section 11403e, Pub. L. 100–77, title IV, §456, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(c), Oct.28, 1992, 106 Stat. 4030, related to agreements required for assistance to be approved.
+Section 11403e, Pub. L. 100–77, title IV, §456, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(c), Oct. 28, 1992, 106 Stat. 4030, related to agreements required for assistance to be approved.
 
 Section 11403e–1, Pub. L. 100–77, title IV, §457, formerly §464, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4371; renumbered §457 and amended Pub. L. 102–550, title XIV, §1406(e)(4), Oct. 28, 1992, 106 Stat. 4031, related to housing standards and rent reasonableness. Section was formerly classified to section 11404c of this title.
 
@@ -98,7 +98,7 @@ Section 11405a, Pub. L. 100–77, title IV, §477, as added Pub. L. 102–550, t
 
 Another prior section 11405a, Pub. L. 100–77, title IV, §472, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4372, which related to fire and safety improvements in connection with contracts for housing assistance payments, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11405b, Pub. L. 100–77, title IV, §478, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(2), July 30, 2008, 122 Stat. 2874, related to term of contract and amount of assistance.
+Section 11405b, Pub. L. 100–77, title IV, §478, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032; amended Pub. L. 110–289, div. B, title VIII,§2835(c)(2), July 30, 2008, 122 Stat. 2874, related to term of contract and amount of assistance.
 
 Another prior section 11405b, Pub. L. 100–77, title IV, §473, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4372, which listed provisions to be contained in contracts entered into by Secretary with public housing agencies under shelter plus care program, was repealed by Pub. L. 102–550, §1406(d)(2).
 
@@ -108,7 +108,7 @@ Section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 102–550, ti
 
 Another prior section 11406, Pub. L. 100–77, title IV, §481, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which authorized use of appropriations in connection with provision of rental housing assistance under section 1701q of Title 12, Banks and Banking, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat.4032, related to provision of assistance pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units.
+Section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4032, related to provision of assistance pursuant to a contract between the recipient and a private nonprofit sponsor that owns or leases dwelling units.
 
 Another prior section 11406a, Pub. L. 100–77, title IV, §482, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which related to amount of rental housing assistance to be provided under shelter plus care program in connection with section 1701q of Title 12, Banks and Banking, was repealed by Pub. L. 102–550, §1406(d)(2).
 

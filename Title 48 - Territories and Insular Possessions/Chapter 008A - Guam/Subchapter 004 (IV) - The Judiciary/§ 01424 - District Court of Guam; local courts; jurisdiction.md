@@ -16,7 +16,7 @@ The District Court of Guam shall have the jurisdiction of a district court of th
 
 In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
 
-(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1,2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745; Pub. L. 108–378, §1(a), Oct. 30, 2004, 118 Stat. 2206.)
+(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1, 2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745; Pub. L. 108–378, §1(a), Oct. 30, 2004, 118 Stat. 2206.)
 
 #### Amendments
 
@@ -34,23 +34,23 @@ Subsec. (b). Pub. L. 95–598, §335(b), substituted “section 2075 of title 28
 
 #### Effective Date of 1984 Amendment
 
-Section 1005 of Pub. L. 98–454 provided that: “Titles VII, VIII, IX, and X of this Act \[enacting sections 1424–1 to 1424–4, 1493, and 1613a of this title, repealing section 1400 of this title, amending this section and sections 1424b, 1561, 1611, 1612, 1613, 1614, 1615, 1617, 1694, and 1821 to 1824 of this title, and enacting provisions set out as notes under sections 1424b, 1612, and 1614 of this title and section 373 of Title 28, Judiciary and Judicial Procedure\] shall become effective on the ninetieth day following their enactment \[Oct. 5, 1984\].”
+Pub. L. 98–454, title X, §1005, Oct. 5, 1984, 98 Stat. 1746, provided that: “Titles VII, VIII, IX, and X of this Act \[enacting sections 1424–1 to 1424–4, 1493, and 1613a of this title, repealing section 1400 of this title, amending this section and sections 1424b, 1561, 1611, 1612, 1613, 1614, 1615, 1617, 1694, and 1821 to 1824 of this title, and enacting provisions set out as notes under sections 1424b, 1612, and 1614 of this title and section 373 of Title 28, Judiciary and Judicial Procedure\] shall become effective on the ninetieth day following their enactment \[Oct. 5, 1984\].”
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, setout as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-Section 402(e) of Pub. L. 95–598, which provided a prospective effective date for the amendment of subsec. (a) by section 335(a) of Pub. L. 95–598, was repealed by section 1001 of Pub. L. 98–454.
+Pub. L. 95–598, title IV, §402(e), Nov. 6, 1978, 92 Stat. 2682, which provided a prospective effective date for the amendment of subsec. (a) by section 335(a) of Pub. L. 95–598, was repealed by section 1001 of Pub. L. 98–454.
 
 #### Effective Date of 1954 Amendment
 
-Section 2 of act Aug. 27, 1954, provided that: “The amendment made by section 1 \[amending this section\] shall be deemed to be in effect as of August 1, 1950.”
+Act Aug. 27, 1954, ch. 1017, §2, 68 Stat. 883, provided that: “The amendment made by section 1 \[amending this section\] shall be deemed to be in effect as of August 1, 1950.”
 
 #### Separability
 
-Section 4 of act Aug. 27, 1954, provided: “If any particular provision of this Act \[amending this section and enacting provisions set out as notes under this section\], or the application thereof to any person or circumstances, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Act Aug. 27, 1954, ch. 1017, §4, 68 Stat. 883, provided: “If any particular provision of this Act \[amending this section and enacting provisions set out as notes under this section\], or the application thereof to any person or circumstances, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
 #### Nonreversal of Convictions Prior to August 27, 1954
 
-Section 3 of act Aug. 27, 1954, provided: “No conviction of a defendant in a criminal proceeding in the District Court of Guam heretofore had shall be reversed or set aside on the ground that the defendant was not indicted by a grand jury or tried by a petit jury.”
+Act Aug. 27, 1954, ch. 1017, §3, 68 Stat. 883, provided: “No conviction of a defendant in a criminal proceeding in the District Court of Guam heretofore had shall be reversed or set aside on the ground that the defendant was not indicted by a grand jury or tried by a petit jury.”
 

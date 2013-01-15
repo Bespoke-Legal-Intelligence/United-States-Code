@@ -14,7 +14,7 @@ For the purpose of this title—
 
 > &emsp;and, except as provided under section 2108a, who has been discharged or released from active duty in the armed forces under honorable conditions;
 
-&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, (except as provided under section 2108a) has been separated therefrom under honorableconditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
+&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, (except as provided under section 2108a) has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
 
 &emsp;(3) “preference eligible” means, except as provided in paragraph (4) of this section or section 2108a(c)—
 
@@ -198,17 +198,17 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub L. 96–191.
+Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. L. 96–191.
 
 #### Effective Date of 1979 Amendment
 
 Amendment by section 2(a)(8) of Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
-Section 2(a)(9)(B) of Pub. L. 96–54 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect October 1, 1980”.
+Pub. L. 96–54, §2(a)(9)(B), Aug. 14, 1979, 93 Stat. 381, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect October 1, 1980”.
 
 #### Effective Date of 1978 Amendment
 
-Section 307(a) of Pub. L. 95–454 provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 95–454, title III, §307(a), Oct. 13, 1978, 92 Stat. 1147, provided that the amendment made by that section is effective Oct. 1, 1980.
 
 Amendment by section 401(d) of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 

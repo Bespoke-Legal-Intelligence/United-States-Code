@@ -4,7 +4,7 @@
 
 The Secretary shall identify, and list in the report under section 1826h of this title, a nation if fishing vessels of that nation are engaged, or have been engaged at any point during the preceding 2 years, in illegal, unreported, or unregulated fishing—
 
-&emsp;(1) the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by vessels of that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
+&emsp;(1) the relevant international fishery management organization has failed to implementeffective measures to end the illegal, unreported, or unregulated fishing activity by vessels of that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
 
 &emsp;(2) where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
 
@@ -76,7 +76,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;(B) overfishing of fish stocks shared by the United States, for which there are no applicable international conservation or management measures or in areas with no applicable international fishery management organization or agreement, that has adverse impacts on such stocks; and
 
-&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, and cold water corals located beyond nationaljurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
+&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, andcold water corals located beyond national jurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
 
 #### (f) Authorization of appropriations
 

@@ -1,6 +1,6 @@
 ### §1424–2. Relations between courts of United States and courts of Guam
 
-The relations between the courts established by the Constitution or laws of the United States and the local courts of Guam with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States, including the Supreme Court of the United States, and the courts of the several States in such matters and proceedings.
+The relations between the courts established by the Constitution or laws of the United States and the local courts of Guam with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus, and other matters or proceedings shall be governed by the laws of the United States pertaining to the relations between the courts of the United States, includingthe Supreme Court of the United States, and the courts of the several States in such matters and proceedings.
 
 (Aug. 1, 1950, ch. 512, §22B, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742; amended Pub. L. 103–437, §17(a)(1), Nov. 2, 1994, 108 Stat. 4595; Pub. L. 108–378, §2, Oct. 30, 2004, 118 Stat. 2208.)
 

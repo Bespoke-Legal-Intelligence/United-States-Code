@@ -16,7 +16,7 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 &emsp;(4) A sufficient number of qualified, trained members eligible for and active in the acquisition field to ensure adequate capacity, capability, and effective succession for acquisition functions, including contingency contracting, of the Department of Defense.
 
-&emsp;(5) A deliberate workforce development strategy that ensures diversity in promotion, advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
+&emsp;(5) A deliberate workforce development strategy that ensures diversity in promotion,advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
 
 (c)
 
@@ -26,17 +26,15 @@ Inclusion of Information in Annual Report.—The Secretary of Defense shall incl
 
 &emsp;(2) The total number of critical acquisition positions held, set forth separately for members of the armed forces and civilian employees, by grade level and by other appropriate categories (including by program manager, deputy program manager, and division head positions), including average length of time served in each position. For each such category, the report shall specify the number of civilians holding such positions compared to the total number of positions filled.
 
-&emsp;(3) The number of employees to whom the requirements of subsections (b)(2)(A) and (b)(2)(B) <sup>1</sup> of section 1732 of this title did not apply because of the exceptions provided in paragraphs (1) and (2) of section 1732(c) of this title, set forth separately by type of exception.
+&emsp;(3) The number of employees to whom the requirements of subsections (b)(1)(A) and (b)(1)(B) of section 1732 of this title did not apply because of the exceptions provided in paragraphs (1) and (2) of section 1732(c) of this title, set forth separately by type of exception.
 
-&emsp;(4) The number of times a waiver authority was exercised under section 1724(d), 1732(d), 1734(d), or 1736(c) <sup>2</sup> of this title or any otherprovision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
+&emsp;(4) The number of times a waiver authority was exercised under section 1724(d), 1732(d), or 1734(d) of this title or any other provision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
 
-(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302.)
+(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951.)
 
-#### References in Text
+#### Amendments
 
-Section 1736 of this title, referred to in subsec. (c)(4), was repealed by Pub. L. 107–107, div. A, title X, §1048(e)(6)(A), Dec. 28, 2001, 115 Stat. 1227.
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(d)(1)(A), substituted “subsections (b)(1)(A) and (b)(1)(B)” for “subsections (b)(2)(A) and (b)(2)(B)”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections (b)(1)(A) and (b)(1)(B)”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+Subsec. (c)(4). Pub. L. 112–239, §1076(d)(1)(B), substituted “or 1734(d)” for “1734(d), or 1736(c)”.
 

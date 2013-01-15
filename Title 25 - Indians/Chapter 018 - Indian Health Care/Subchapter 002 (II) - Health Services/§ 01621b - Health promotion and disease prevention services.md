@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 102–573, §203(3), struck out subsec. (c) which directed 
 
 #### Congressional Findings on Health Promotion and Disease Prevention
 
-Section 203(a) of Pub. L. 100–713 provided that: “The Congress finds that health promotion and disease prevention activities will—
+Pub. L. 100–713, title II, §203(a), Nov. 23, 1988, 102 Stat. 4804, provided that: “The Congress finds that health promotion and disease prevention activities will—
 
 &emsp;“(1) improve the health and well being of Indians, and
 

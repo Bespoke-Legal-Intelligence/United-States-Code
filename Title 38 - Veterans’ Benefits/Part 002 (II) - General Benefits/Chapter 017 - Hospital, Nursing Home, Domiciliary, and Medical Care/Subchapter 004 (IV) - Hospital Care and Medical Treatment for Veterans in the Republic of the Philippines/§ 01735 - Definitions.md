@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (2) The term “service-connected disabilities” means disabilities determined by the Secretary under laws administered by the Secretary to have been incurred in or aggravated by the service described in paragraph (1) in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §634; Pub. L. 89–612, §3, Sept. 30, 1966, 80 Stat. 861; renumbered §635, Pub. L. 96–22, title I, §106(a),June 13, 1979, 93 Stat. 53; renumbered §1735 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §634; Pub. L. 89–612, §3, Sept. 30, 1966, 80 Stat. 861; renumbered §635, Pub. L. 96–22, title I, §106(a), June 13, 1979, 93 Stat. 53; renumbered §1735 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
 
 #### References in Text
 
@@ -16,7 +16,7 @@ Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in
 
 Prior sections 1735 and 1736 were renumbered sections 3535 and 3536 of this title, respectively.
 
-Another prior section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §3, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(<i>o</i>), Mar. 3, 1966, 80 Stat. 25, related to discontinuance of the educational assistance allowance by the Administrator, prior to repeal by Pub. L. 92–540, title IV, §402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3690 of this title.
+Another prior section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §3, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(o), Mar. 3, 1966, 80 Stat. 25, related to discontinuance of the educational assistance allowance by the Administrator, prior to repeal by Pub. L. 92–540, title IV, §402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3690 of this title.
 
 Prior section 1737 was renumbered section 3537 of this title.
 

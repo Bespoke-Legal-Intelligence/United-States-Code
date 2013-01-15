@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shallbe reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
+&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
 
 &emsp;&emsp;&emsp;(i) the amount (if any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to
 
@@ -48,25 +48,13 @@
 
 &emsp;&emsp;No credit shall be allowed under subsection (a) for any expense to the extent that funds for such expense are received under any Federal, State, or local program.
 
-#### (4) Limitation based on amount of tax
-
-&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
-
-&emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and section 25D) and section 27 for the taxable year.
-
 #### (c) Carryforwards of unused credit
 
-#### (1) Rule for years in which all personal credits allowed against regular and alternative minimum tax
+#### (1) In general
 
-&emsp;In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D and 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+&emsp;If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D and 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
 
-#### (2) Rule for other years
-
-&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
-
-#### (3) Limitation
+#### (2) Limitation
 
 &emsp;No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 
@@ -122,7 +110,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unlessthe taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
+&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unless the taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
 
 #### (B) Other methods
 
@@ -146,27 +134,25 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
-(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 106(f)(3) of div. B of Pub. L. 110–343, see Effective and Termination Dates of 2008 Amendment note below.</i>
-
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Prior Provisions
 
-A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 Stat. 3175, §44C; amended Pub. L. 96–223, title II, §§201, 202(a)–(d), 203(a), Apr. 2, 1980, 94 Stat. 256, 258; renumbered §23 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(e), title VI, §612(e)(2), July 18, 1984, 98 Stat. 826, 831, 912, related to residential energy credit, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(1), Nov. 5, 1990, 104 Stat. 1388–520.
+A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 Stat. 3175, §44C; amended Pub. L. 96–223, title II, §§201, 202(a)–(d), 203(a), Apr. 2, 1980, 94Stat. 256, 258; renumbered §23 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(e), title VI, §612(e)(2), July 18, 1984, 98 Stat. 826, 831, 912, related to residential energy credit, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(1), Nov. 5, 1990, 104 Stat. 1388–520.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(4). Pub. L. 112–240, §104(c)(2)(A)(i), struck out par. (4). Prior to amendment, text read as follows: “In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
+
+&emsp;“(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+
+&emsp;“(B) the sum of the credits allowable under this subpart (other than this section and section 25D) and section 27 for the taxable year.”
+
+Subsec. (c). Pub. L. 112–240, §104(c)(2)(A)(ii), (iii), added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which related to rule for years in which all personal credits allowed against regular and alternative minimum tax and rule for other years, respectively.
 
 <b>2010</b>—Subsec. (a)(3). Pub. L. 111–148, §10909(a)(1)(B), (c), as amended by Pub. L. 111–312, temporarily substituted “$13,170” for “$10,000” in heading and text. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -184,11 +170,11 @@ Subsec. (c). Pub. L. 111–148, §10909(b)(2)(I)(ii), (c), as amended by Pub. L.
 
 Subsec. (h). Pub. L. 111–148, §10909(a)(1)(C), (c), as amended by Pub. L. 111–312, temporarily amended subsec. (h) generally. Prior to amendment, subsec. (h) related to adjustments for inflation. See Effective and Termination Dates of 2010 Amendment note below.
 
-<b>2008</b>—Subsec. (b)(4)(B). Pub. L. 110–343, §106(e)(2)(A), (f)(3), temporarily inserted “and section 25D” after “this section”. See Effective and Termination Dates of 2008 Amendment note below.
+<b>2008</b>—Subsec. (b)(4)(B). Pub. L. 110–343 inserted “and section 25D” after “this section”.
 
-<b>2005</b>—Subsec. (b)(4). Pub. L. 109–135, §402(i)(3)(A)(i), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (b)(4). Pub. L. 109–135, §402(i)(3)(A)(i), substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forwardunder this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.” See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(A)(ii), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.”
 
 Pub. L. 109–58, §1335(b)(1), which directed amendment of subsec. (c) by substituting “this section, section 25D, and section 1400C” for “this section and section 1400C”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendment notes below.
 
@@ -208,21 +194,21 @@ Subsec. (h). Pub. L. 107–147, §418(a)(1), substituted “subsection (a)(3)”
 
 Subsec. (i). Pub. L. 107–147, §411(c)(1)(E), substituted “the dollar amounts in subsections (a)(3) and (b)(1)” for “the dollar limitation in subsection (b)(1)”.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§202(a)(1), 901, temporarily amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §202(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.”
 
-Subsec. (a)(2). Pub. L. 107–16, §§202(c), 901, temporarily inserted concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (a)(2). Pub. L. 107–16, §202(c), inserted concluding provisions.
 
-Subsec. (b)(1). Pub. L. 107–16, §§202(b)(1)(A), 901, temporarily substituted “subsection (a)(1)(A)” for “subsection (a)” and “$10,000” for “$5,000” and struck out “($6,000, in the case of a child with special needs)” before period at end. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(1). Pub. L. 107–16, §202(b)(1)(A), substituted “subsection (a)(1)(A)” for “subsection (a)” and “$10,000” for “$5,000” and struck out “($6,000, in the case of a child with special needs)” before period at end.
 
-Subsec. (b)(2)(A)(i). Pub. L. 107–16, §§202(b)(2)(A), 901, temporarily substituted “$150,000” for “$75,000”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2)(A)(i). Pub. L. 107–16, §202(b)(2)(A), substituted “$150,000” for “$75,000”.
 
-Subsec. (b)(4). Pub. L. 107–16, §§202(f)(1), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(4). Pub. L. 107–16, §202(f)(1), added par. (4).
 
-Subsec. (c). Pub. L. 107–16, §§202(f)(2)(A), 901, temporarily substituted “subsection (b)(4)” for “section 26(a)” and struck out “reduced by the sum of the credits allowable under this subpart (other than this section and sections 24 and 1400C)” before “, such excess”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c). Pub. L. 107–16, §202(f)(2)(A), substituted “subsection (b)(4)” for “section 26(a)” and struck out “reduced by the sum of the credits allowable under this subpart (other than this section and sections 24 and 1400C)” before “, such excess”.
 
-Pub. L. 107–16, §§201(b)(2)(E), 901, temporarily substituted “and sections 24 and 1400C” for “and section 1400C”. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §201(b)(2)(E), substituted “and sections 24 and 1400C” for “and section 1400C”.
 
-Subsec. (d)(2). Pub. L. 107–16, §§202(d)(1), 901, temporarily amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘eligible child’ means any individual—
+Subsec. (d)(2). Pub. L. 107–16, §202(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘eligible child’ means any individual—
 
 &emsp;“(A) who—
 
@@ -232,9 +218,7 @@ Subsec. (d)(2). Pub. L. 107–16, §§202(d)(1), 901, temporarily amended headin
 
 &emsp;“(B) in the case of qualified adoption expenses paid or incurred after December 31, 2001, who is a child with special needs.”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
-
-Subsecs. (h), (i). Pub. L. 107–16, §§202(e)(1), 901, temporarily added subsec. (h) and redesignated former subsec. (h) as (i). See Effective and Termination Dates of 2001 Amendment note below.
+Subsecs. (h), (i). Pub. L. 107–16, §202(e)(1), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–206, §6018(f)(1), inserted “(determined without regard to subsection (c))” after “for any taxable year” in introductory provisions.
 
@@ -251,6 +235,10 @@ Subsec. (b)(2)(B). Pub. L. 105–34, §1601(h)(2)(B), substituted “determined 
 &emsp;“(i) without regard to sections 911, 931, and 933, and
 
 &emsp;“(ii) after the application of sections 86, 135, 137, 219, and 469.”
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title I, §104(d), Jan. 2, 2013, 126 Stat. 2323, provided that: “The amendments made by this section \[amending this section and sections 24, 25, 25A, 25B, 25D, 26, 30, 30B, 30D, 55, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2011.”
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -272,13 +260,13 @@ Solar electric property limitation.—The amendments made by subsection (b) \[am
 
 “(3)
 
-Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B) of subsection (e)(2) \[amending this section and section 24 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendments relate.”
+Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B) of subsection (e)(2) \[amending this section and section 24 of this title\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendments relate.”
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: “The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates.”
+Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: “The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates.”
 
-Pub. L. 109–135, title IV, §402(i)(4), Dec. 21, 2005, 119 Stat. 2615, struck out Pub. L. 109–58, §1335(b)(1)–(3), andprovided in part that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made \[by\] such paragraphs \[amending this section and sections 25 and 1400C of this title\] had never been enacted.”
+Pub. L. 109–135, title IV, §402(i)(4), Dec. 21, 2005, 119 Stat. 2615, struck out Pub. L. 109–58, §1335(b)(1)–(3), and provided in part that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made \[by\] such paragraphs \[amending this section and sections 25 and 1400C of this title\] had never been enacted.”
 
 Pub. L. 109–135, title IV, §402(m), Dec. 21, 2005, 119 Stat. 2615, provided that:
 
@@ -302,7 +290,7 @@ Pub. L. 107–147, title IV, §411(c)(3), Mar. 9, 2002, 116 Stat. 46, provided t
 
 Amendment by section 418(a)(1) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 418(c) of Pub. L. 107–147, set out as a note under section 21 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 108–311, title III, §312(b)(2), Oct. 4, 2004, 118 Stat. 1181, provided that: “The amendments made by sections 201(b), 202(f), and 618(b) of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, amending this section and sections 24, 25, 25B, 26, 904, and 1400C of this title\] shall not apply to taxable years beginning during 2004 or 2005.”
 
@@ -320,13 +308,11 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (a).—The amendments made by subsection (a) \[amending this section and section 137 of this title\] shall apply to taxable years beginning after December 31, 2002.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title VI, §6018(h), July 22, 1998, 112 Stat. 823, provided that: “The amendments made by this section \[amending this section and sections 219, 408, 414, and 679 of this title and amending provisions set out as notes under sections 167 and 4091 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.”
 
-Amendment by section 6008(d)(6) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by section 6008(d)(6) of Pub. L. 105–206 effective, except as otherwise provided, as if included inthe provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

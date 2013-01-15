@@ -70,7 +70,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;Any individual or entity that the Secretary determines—
 
-&emsp;&emsp;(A) has submitted or caused to be submitted bills or requests for payment (where such bills or requests are based on charges or cost) under subchapter XVIII of this chapteror a State health care program containing charges (or, in applicable cases, requests for payment of costs) for items or services furnished substantially in excess of such individual's or entity's usual charges (or, in applicable cases, substantially in excess of such individual's or entity's costs) for such items or services, unless the Secretary finds there is good cause for such bills or requests containing such charges or costs;
+&emsp;&emsp;(A) has submitted or caused to be submitted bills or requests for payment (where such bills or requests are based on charges or cost) under subchapter XVIII of this chapter or a State health care program containing charges (or, in applicable cases, requests for payment of costs) for items or services furnished substantially in excess of such individual's or entity's usual charges (or, in applicable cases, substantially in excess of such individual's or entity's costs) for such items or services, unless the Secretary finds there is good cause for such bills or requests containing such charges or costs;
 
 &emsp;&emsp;(B) has furnished or caused to be furnished items or services to patients (whether or not eligible for benefits under subchapter XVIII of this chapter or under a State health care program) substantially in excess of the needs of such patients or of a quality which fails to meet professionally recognized standards of health care;
 
@@ -224,13 +224,13 @@ The Secretary shall—
 
 #### (f) Notice, hearing, and judicial review
 
-(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 (2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
 
-(3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
+(3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(l) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
-(4) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they areapplicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
+(4) The provisions of subsections (d) and (e) of section 405 of this title shall apply with respect to this section to the same extent as they are applicable with respect to subchapter II. The Secretary may delegate the authority granted by section 405(d) of this title (as made applicable to this section) to the Inspector General of the Department of Health and Human Services for purposes of any investigation under this section.
 
 #### (g) Application for termination of exclusion
 
@@ -332,7 +332,7 @@ Subsec. (a)(4). Pub. L. 104–191, §211(b)(1), added par. (4).
 
 Subsec. (b)(1). Pub. L. 104–191, §211(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any individual or entity that has been convicted, under Federal or State law, in connection with the delivery of a health care item or service or with respect to any act or omission in a program operated by or financed in whole or in part by any Federal, State, or local government agency, of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct.”
 
-Subsec. (b)(3). Pub. L. 104–191, §211(b)(2), substituted “Misdemeanor conviction” for “conviction” in heading and “criminal offense consisting of a misdemeanor” for “criminal offense” in text.
+Subsec. (b)(3). Pub. L. 104–191, §211(b)(2), substituted “Misdemeanor conviction” for “conviction” in headingand “criminal offense consisting of a misdemeanor” for “criminal offense” in text.
 
 Subsec. (b)(15). Pub. L. 104–191, §213, added par. (15).
 
@@ -342,11 +342,11 @@ Subsec. (c)(3)(D) to (F). Pub. L. 104–191, §212, added subpars. (D) to (F).
 
 Subsec. (b)(8)(B)(ii). Pub. L. 103–296, §206(b)(2)(B), inserted “or 1320a–8” after “section 1320a–7a”.
 
-Subsec. (f)(1). Pub. L. 103–296, §108(b)(9)(A), inserted before period at end “, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
+Subsec. (f)(1). Pub. L. 103–296, §108(b)(9)(A), inserted before period at end “, except that, in so applying such sections and section 405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively”.
 
 Subsec. (f)(3). Pub. L. 103–296, §206(b)(2)(C), inserted “, 1320a–8,” after “sections 1320a–7a”.
 
-Pub. L. 103–296, §108(b)(9)(B), inserted before period at end “, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary”.
+Pub. L. 103–296, §108(b)(9)(B), inserted before period at end “, except that, in so applying such section and section 405(l) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary”.
 
 <b>1991</b>—Subsec. (b)(5)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -400,19 +400,19 @@ Exception.—The amendments made by subsection (b)(1) \[amending section 1395w�
 
 #### Effective Date of 1997 Amendment
 
-Section 4303(b) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 45 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4303(b), Aug. 5, 1997, 111 Stat. 383, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 45 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendments by section 4331(c) of Pub. L. 105–33 effective Aug. 5, 1997, see section 4331(f)(2) of Pub. L. 105–33, set out as a note under section 1320a–7e of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 218 of Pub. L. 104–191 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
+Pub. L. 104–191, title II, §218, Aug. 21, 1996, 110 Stat. 2009, provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 108(b)(9) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 206(b)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[enacting section 1320a–8 of this title and amending this section\] shall apply to conduct occurring on or after October 1, 1994.”
+Pub. L. 103–296, title II, §206(b)(3), Aug. 15, 1994, 108 Stat. 1513, provided that: “The amendments made by this subsection \[enacting section 1320a–8 of this title and amending this section\] shall apply to conduct occurring on or after October 1, 1994.”
 
 #### Effective Date of 1990 Amendment
 
@@ -420,15 +420,15 @@ Amendment by Pub. L. 101–508 applicable with respect to items or services furn
 
 #### Effective Date of 1989 Amendment
 
-Section 6411(d)(4)\[(A)\] of Pub. L. 101–239 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 1395y and 1396b of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6411(d)(4)\[(A)\], Dec. 19, 1989, 103 Stat. 2271, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 1395y and 1396b of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
-Section 15 of Pub. L. 100–93 provided that:
+Pub. L. 100–93, §15, Aug. 18, 1987, 101 Stat. 698, provided that:
 
 “(a)
 
@@ -460,7 +460,7 @@ Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)
 
 #### Effective Date of 1986 Amendment
 
-Section 9317(d)(3) of Pub. L. 99–509 provided that: “The provisions—
+Pub. L. 99–509, title IX, §9317(d)(3), Oct. 21, 1986, 100 Stat. 2009, provided that: “The provisions—
 
 &emsp;“(A) of paragraphs (1), (2), and (3) of section 1128(f) of the Social Security Act \[subsec. (f)(1)–(3) of this section\] (as added by the amendment made by subsection (c)) shall apply to judgments entered, findings made, and pleas entered, before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\], and
 
@@ -468,7 +468,7 @@ Section 9317(d)(3) of Pub. L. 99–509 provided that: “The provisions—
 
 #### Effective Date of 1984 Amendment
 
-Section 2333(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] become effective on the date of the enactment of this Act \[July 18, 1984\] and shall apply to convictions of persons occurring after such date.”
+Pub. L. 98–369, div. B, title III, §2333(c), July 18, 1984, 98 Stat. 1089, provided that: “The amendments made by this section \[amending this section\] become effective on the date of the enactment of this Act \[July 18, 1984\] and shall apply to convictions of persons occurring after such date.”
 
 #### Effective Date of 1981 Amendment
 

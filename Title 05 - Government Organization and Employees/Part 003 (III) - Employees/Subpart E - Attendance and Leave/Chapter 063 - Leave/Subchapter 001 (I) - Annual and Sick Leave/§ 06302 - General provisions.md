@@ -8,7 +8,7 @@
 
 (d) The annual leave provided by this subchapter, including annual leave that will accrue to an employee during the year, may be granted at any time during the year as the head of the agency concerned may prescribe.
 
-(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without a break in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sick leave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
+(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without abreak in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sick leave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
 
 (f) An employee who uses excess annual leave credited because of administrative error may elect to refund the amount received for the days of excess leave by lump-sum or installment payments or to have the excess leave carried forward as a charge against later-accruing annual leave, unless repayment is waived under section 5584 of this title.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 #### Temporary Authority To Transfer Leave
 
-Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e)of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
+Pub. L. 101–237, title II, §206(b)(2), Dec. 18, 1989, 103 Stat. 2068, provided that: “The authority of the Department of Veterans Affairs under section 618 of the Treasury, Postal Service and General Government Appropriations Act, 1989 \[Pub. L. 100–440, set out below\], to operate a leave-transfer program for employees subject to section 4108 of title 38, United States Code, is extended until the programs provided for in subsection (e) of such section 4108 (as added by subsection (a) of this section) are implemented, but not later than October 1, 1990.”
 
 Similar provisions were contained in the following acts:
 

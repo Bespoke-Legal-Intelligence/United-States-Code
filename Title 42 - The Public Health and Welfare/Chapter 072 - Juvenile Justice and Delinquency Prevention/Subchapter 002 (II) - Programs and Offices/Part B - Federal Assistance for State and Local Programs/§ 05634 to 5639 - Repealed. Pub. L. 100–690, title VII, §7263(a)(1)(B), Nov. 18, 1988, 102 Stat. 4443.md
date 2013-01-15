@@ -8,7 +8,7 @@ Section 5636, Pub. L. 93–415, title II, §226, Sept. 7, 1974, 88 Stat. 1124, p
 
 Section 5637, Pub. L. 93–415, title II, §227, Sept. 7, 1974, 88 Stat. 1124; Pub. L. 95–115, §4(f), Oct. 3, 1977, 91 Stat. 1055; Pub. L. 96–509, §13(a), Dec. 8, 1980, 94 Stat. 2759; Pub. L. 98–473, title II, §629, Oct. 12, 1984, 98 Stat. 2117, related to use of funds paid pursuant to this subchapter.
 
-Section 5638, Pub. L. 93–415, title II, §228, Sept. 7, 1974, 88 Stat. 1124; Pub. L. 95–115, §4(g)(1), (2), (3)(A), Oct. 3, 1977, 91 Stat. 1055, 1056; Pub. L. 96–509, §§14, 19(i), Dec. 8, 1980, 94 Stat. 2760, 2765; Pub. L. 98–473, title II, §630, Oct. 12, 1984, 98 Stat. 2117, related to continuing financial assistance for programs.
+Section 5638, Pub. L. 93–415, title II, §228, Sept. 7, 1974, 88 Stat. 1124; Pub. L. 95–115, §4(g)(1), (2), (3)(A), Oct. 3,1977, 91 Stat. 1055, 1056; Pub. L. 96–509, §§14, 19(i), Dec. 8, 1980, 94 Stat. 2760, 2765; Pub. L. 98–473, title II, §630, Oct. 12, 1984, 98 Stat. 2117, related to continuing financial assistance for programs.
 
 Section 5639, Pub. L. 93–415, title II, §229, as added Pub. L. 95–115, §4(h), Oct. 3, 1977, 91 Stat. 1056, provided for confidentiality of program records.
 

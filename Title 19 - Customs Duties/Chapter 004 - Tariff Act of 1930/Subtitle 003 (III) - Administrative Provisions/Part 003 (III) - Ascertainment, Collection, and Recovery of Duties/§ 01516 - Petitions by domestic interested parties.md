@@ -28,7 +28,7 @@ If, after receipt and consideration of a petition filed by such an interested pa
 
 #### (c) Contest by petitioner of appraised value, classification, or rate of duty
 
-If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customs officer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
+If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customsofficer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
 
 #### (d) Appraisal, classification, and liquidation of entries of merchandise covered by published decisions of Secretary
 
@@ -40,7 +40,7 @@ The consignee or his agent shall have the right to appear and to be heard as a p
 
 #### (f) Appraisement, classification, and assessment of duty of merchandise covered by published decision of Secretary in accordance with final judicial decision of Court of International Trade or Court of Appeals for the Federal Circuit sustaining cause of action in whole or in part; suspension of liquidation of entries; publication
 
-If the cause of action is sustained in whole or in part by a decision of the United States Court of International Trade or of the United States Court of Appeals for the Federal Circuit, merchandise of the character covered by the published decision of the Secretary, which is entered for consumption or withdrawn from warehouse for consumption after the date of publication in the Federal Register by the Secretary or the administering authority of a notice of the court decision, shall be subject to appraisement, classification, and assessment of duty in accordance with the final judicial decision in the action, and the liquidation of entries covering the merchandise so entered or withdrawn shall be suspended until final disposition is made of theaction, whereupon the entries shall be liquidated, or if necessary, reliquidated in accordance with the final decision. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
+If the cause of action is sustained in whole or in part by a decision of the United States Court of International Trade or of the United States Court of Appeals for the Federal Circuit, merchandise of the character covered by the published decision of the Secretary, which is entered for consumption or withdrawn from warehouse for consumption after the date of publication in the Federal Register by the Secretary or the administering authority of a notice of the court decision, shall be subject to appraisement, classification, and assessment of duty in accordance with the final judicial decision in the action, and the liquidation of entries covering the merchandise so entered or withdrawn shall be suspended until final disposition is made of the action, whereupon the entries shall be liquidated, or if necessary, reliquidated in accordance with the final decision. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
 
 #### (g) Regulations implementing required procedures
 
@@ -51,8 +51,6 @@ Regulations shall be prescribed by the Secretary to implement the procedures req
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §516, 42 Stat. 970. That section was superseded by section 516 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
-
-Application of subsection (b) of this section to complaints. Section 17(b) of act June 25, 1938, provided that: “(b) The provisions of subsection (b) of section 516 of the Tariff Act of 1930 \[this section\], as amended by this Act, shall apply only in the case of complaints filed after the effective date of this Act \[see section 1653a of this title\]. The provisions of subsection (b) of section 516 of the Tariff Act of 1930, as in force prior to the effective date of this Act, shall continue in force with respect to any proceedings commenced by the filing of a complaint thereunder, except that upon the expiration of thirty days after the effective date of this Act, or upon the expiration of thirty days after the date of a decision of the Secretary adverse to the complainant, whichever is the later, any such proceedings in which a protest has not been duly filed shall be deemed to have been terminated unless the complainant shall have filed with the Secretary after the effective date of this Act a notice that he desires to protest the classification of, or rate of duty assessed upon, the merchandise.”
 
 #### Amendments
 
@@ -78,7 +76,7 @@ Subsecs. (d) to (h). Pub. L. 93–618, §321(f)(1), added subsec. (d) and redesi
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted provisions requiring the Secretary to furnish to the American manufacturer, producer, or wholesaler the classification, and the rate of duty, if any, imposed upon designated imported merchandise, and provisions authorizing the American manufacturer, etc., to file a protest with the Secretary if the appraised value is too low, the classification is not correct, or the proper rate of duty is not being assessed, for provisions setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the appraised value of any imported merchandise of a class or kind manufactured, produced, or sold at wholesale by him is too low.
 
-Subsec. (b). Pub. L. 91–271 substituted provisions authorizing the Secretary to determine the proper appraised value, classification, or rate of duty of the imported merchandise, and to notify the American manufacturer, producer, or wholesaler of his determination, for provision setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the classification of, and the rate of duty, if any, is not proper.
+Subsec. (b). Pub. L. 91–271 substituted provisions authorizing the Secretary to determine the proper appraised value, classification, or rate of duty of the imported merchandise, and to notify the American manufacturer, producer, or wholesaler of his determination, for provision setting forth the procedure for the determination of a protest by an American manufacturer,producer, or wholesaler that the classification of, and the rate of duty, if any, is not proper.
 
 Subsec. (c). Pub. L. 91–271 substituted provisions setting forth the procedure for the petitioner to contest the decisions of the Secretary with respect to a petition filed pursuant to subsec. (a) of this section, for provisions requiring the collector to mail to the consignee or his agent a copy of every appeal and every protest filed by an American manufacturer, producer, or wholesaler, and authorizing such consignee or his agent to appear and be heard as a party in interest before the Customs Court.
 
@@ -98,7 +96,7 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1980 Amendment
 
@@ -110,7 +108,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see sections 1002 and 107 o
 
 #### Effective Date of 1975 Amendment
 
-Section 321(g)(3) of Pub. L. 93–618 provided that: “The amendment made by subsection (f) \[amending this section and sections 2631 and 2632 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to determinations under section 201 of the Antidumping Act, 1921 \[section 160 of this title\], resulting from questions of dumping raised or presented on or after the date of the enactment of this Act \[Jan. 3, 1975\].”
+Pub. L. 93–618, title III, §321(g)(3), Jan. 3, 1975, 88 Stat. 2049, provided that: “The amendment made by subsection (f) \[amending this section and sections 2631 and 2632 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to determinations under section 201 of the Antidumping Act, 1921 \[section 160 of this title\], resulting from questions of dumping raised or presented on or after the date of the enactment of this Act \[Jan. 3, 1975\].”
 
 Amendment by section 331(b) of Pub. L. 93–618 effective Jan. 3, 1975, see section 331(d)(1) of Pub. L. 93–618, set out as a note under section 1315 of this title.
 
@@ -120,7 +118,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1948 Amendment
 
-Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Effective Date of 1938 Amendment
 
@@ -136,7 +134,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Subsection (b) to Complaints
 
-Section 17(b), (c) of act of June 25, 1938, as amended by act June 16, 1951, ch. 141, §9(b), 65 Stat. 75, provided that:
+Act June 25, 1938, ch. 679, §17(b), (c), 52 Stat. 1086, as amended by act June 16, 1951, ch. 141, §9(b), 65 Stat. 75, provided that:
 
 “(b) The provisions of subsection (b) of section 516 of the Tariff Act of 1930 \[this section\], as amended by this act, shall apply only in the case of complaints filed after the effective date of this act \[see Effective Date of 1938 Amendment note set out under section 1401 of this title\]. The provisions of subsection (b) of section 516 of the Tariff Act of 1930, as in force prior to the effective date of this act, shall continue in force with respect to any proceedings commenced by the filing of a complaint thereunder, except that upon the expiration of thirty days after the effective date of this act, or upon the expiration of thirty days after the date of a decision of the Secretary adverse to the complainant, whichever is the later, any such proceedings in which a protest has not been duly filed shall be deemed to have been terminated unless the complainant shall have filed with the Secretary after the effective date of this act a notice that he desires to protest the classification of, or rate of duty assessed upon, the merchandise.
 

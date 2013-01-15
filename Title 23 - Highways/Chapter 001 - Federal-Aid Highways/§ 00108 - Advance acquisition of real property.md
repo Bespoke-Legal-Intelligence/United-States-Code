@@ -6,29 +6,33 @@ In General.—
 
 &emsp;(1)
 
-Availability of funds.—For the purpose of facilitating the timely and economical acquisition of real property for a transportation improvement eligible for funding under this title, the Secretary, upon the request of a State, may make available, for the acquisition of real property, such funds apportioned to the State as may be expended on the transportation improvement, under such rules and regulations as the Secretary may issue.
+Availability of funds.—For the purpose of facilitating the timely and economical acquisition of real property interests for a transportation improvement eligible for funding under this title, the Secretary, upon the request of a State, may make available, for the acquisition of real property interests, such funds apportioned to the State as may be expended on the transportation improvement, under such rules and regulations as the Secretary may issue.
 
 &emsp;(2)
 
-Construction.—The agreement between the Secretary and the State for the reimbursement of the cost of the real property shall provide for the actual construction of the transportation improvement within a period not to exceed 20 years following the fiscal year for which the request is made, unless the Secretary determines that a longer period is reasonable.
+Construction.—The agreement between the Secretary and the State for the reimbursement of the cost of the real property interests shall provide for the actual construction of the transportation improvement within a period not to exceed 20 years following the fiscal year for which the request is made, unless the Secretary determines that a longer period is reasonable.
 
-(b) Federal participation in the cost of rights-of-way acquired under subsection (a) of this section shall not exceed the Federal pro rata share applicable to the class of funds from which Federal reimbursement is made.
+(b) Federal participation in the cost of real property interests acquired under subsection (a) of this section shall not exceed the Federal pro rata share applicable to the class of funds from which Federal reimbursement is made.
 
 (c)
 
-Early Acquisition of Rights-of-Way.—
+State-funded Early Acquisition of Real Property Interests.—
 
 &emsp;(1)
 
-General rule.—Subject to paragraph (2), funds apportioned to a State under this title may be used to participate in the payment of—
-
-&emsp;&emsp;(A) costs incurred by the State for acquisition of rights-of-way, acquired in advance of any Federal approval or authorization, if the rights-of-way are subsequently incorporated into a project eligible for surface transportation program funds; and
-
-&emsp;&emsp;(B) costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
+In general.—A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals required for the project by the State or any Federal agency.
 
 &emsp;(2)
 
-Terms and conditions.—The Federal share payable of the costs described in paragraph (1) shall be eligible for reimbursement out of funds apportioned to a State under this title when the rights-of-way acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
+Eligibility for reimbursement.—Subject to paragraph (3), funds apportioned to a State under this title may be used to participate in the payment of—
+
+&emsp;&emsp;(A) costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation program funds; and
+
+&emsp;&emsp;(B) costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
+
+&emsp;(3)
+
+Terms and conditions.—The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
 
 &emsp;&emsp;(A) any land acquired, and relocation assistance provided, complied with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
 
@@ -38,27 +42,141 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(D) the acquisition is determined in advance by the Governor to be consistent with the State transportation planning process pursuant to section 135 of this title;
 
-&emsp;&emsp;(E) the alternative for which the right-of-way is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
+&emsp;&emsp;(E) the alternative for which the real property interest is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
-&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and incompliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 
-&emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, both the Secretary and the Administrator of the Environmental Protection Agency have concurred that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
+&emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, the Secretary has determined that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225.)
+(d)
+
+Federally Funded Early Acquisition of Real Property Interests.—
+
+&emsp;(1)
+
+Definition of acquisition of a real property interest.—In this subsection, the term “acquisition of a real property interest” includes the acquisition of—
+
+&emsp;&emsp;(A) any interest in land;
+
+&emsp;&emsp;(B) a contractual right to acquire any interest in land; or
+
+&emsp;&emsp;(C) any other similar action to acquire or preserve rights-of-way for a transportation facility.
+
+&emsp;(2)
+
+Authorization.—The Secretary may authorize the use of funds apportioned to a State under this title for the acquisition of a real property interest by a State.
+
+&emsp;(3)
+
+State certification.—A State requesting Federal funding for an acquisition of a real property interest shall certify in writing, with concurrence by the Secretary, that—
+
+&emsp;&emsp;(A) the State has authority to acquire the real property interest under State law; and
+
+&emsp;&emsp;(B) the acquisition of the real property interest—
+
+&emsp;&emsp;&emsp;(i) is for a transportation purpose;
+
+&emsp;&emsp;&emsp;(ii) will not cause any significant adverse environmental impact;
+
+&emsp;&emsp;&emsp;(iii) will not limit the choice of reasonable alternatives for the project or otherwise influence the decision of the Secretary on any approval required for the project;
+
+&emsp;&emsp;&emsp;(iv) does not prevent the lead agency from making an impartial decision as to whether to accept an alternative that is being considered in the environmental review process;
+
+&emsp;&emsp;&emsp;(v) is consistent with the State transportation planning process under section 135;
+
+&emsp;&emsp;&emsp;(vi) complies with other applicable Federal laws (including regulations);
+
+&emsp;&emsp;&emsp;(vii) will be acquired through negotiation, without the threat of condemnation; and
+
+&emsp;&emsp;&emsp;(viii) will not result in a reduction or elimination of benefits or assistance to a displaced person required by the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) and title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+
+&emsp;(4)
+
+Environmental compliance.—
+
+&emsp;&emsp;(A)
+
+In general.—Before authorizing Federal funding for an acquisition of a real property interest, the Secretary shall complete the review process under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to the acquisition of the real property interest.
+
+&emsp;&emsp;(B)
+
+Independent utility.—The acquisition of a real property interest—
+
+&emsp;&emsp;&emsp;(i) shall be treated as having independent utility for purposes of the review process under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+
+&emsp;&emsp;&emsp;(ii) shall not limit consideration of alternatives for future transportation improvements with respect to the real property interest.
+
+&emsp;(5)
+
+Programming.—
+
+&emsp;&emsp;(A)
+
+In general.—The acquisition of a real property interest for which Federal funding is requested shall be included as a project in an applicable transportation improvement program under sections 134 and 135 and sections 5303 and 5304 of title 49.
+
+&emsp;&emsp;(B)
+
+Acquisition project.—The acquisition project may consist of the acquisition of a specific parcel, a portion of a transportation corridor, or an entire transportation corridor.
+
+&emsp;(6)
+
+Development.—Real property interests acquired under this subsection may not be developed in anticipation of a project until all required environmental reviews for the project have been completed.
+
+&emsp;(7)
+
+Reimbursement.—If Federal-aid reimbursement is made for real property interests acquired early under this section and the real property interests are not subsequently incorporated into a project eligible for surface transportation funds within the time allowed by subsection (a)(2), the Secretary shall offset the amount reimbursed against funds apportioned to the State.
+
+&emsp;(8)
+
+Other requirements and conditions.—
+
+&emsp;&emsp;(A)
+
+Applicable law.—The acquisition of a real property interest shall be carried out in compliance with all requirements applicable to the acquisition of real property interests for federally funded transportation projects.
+
+&emsp;&emsp;(B)
+
+Additional conditions.—The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528.)
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (c)(1) and (d)(4)(A), (B)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsecs. (c)(3)(A) and (d)(3)(B)(viii), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
-The National Environmental Policy Act, referred to in subsec. (c)(2)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (c)(3)(B) and (d)(3)(B)(viii), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-This Act, referred to in subsec. (c)(2)(F), probably means Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, known as the Intermodal Surface Transportation Efficiency Act of 1991. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+The National Environmental Policy Act, referred to in subsec. (c)(3)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-Section 7 of the Endangered Species Act, referred to in subsec. (c)(2)(F), probably means section 7 of the Endangered Species Act of 1973, which is classified to section 1536 of Title 16, Conservation.
+This Act, referred to in subsec. (c)(3)(F), probably means Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, known as the Intermodal Surface Transportation Efficiency Act of 1991. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+
+Section 7 of the Endangered Species Act, referred to in subsec. (c)(3)(F), probably means section 7 of the Endangered Species Act of 1973, which is classified to section 1536 of Title 16, Conservation.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1302(a)(1), substituted “real property interests” for “real property” wherever appearing.
+
+Subsec. (b). Pub. L. 112–141, §1302(a)(3), substituted “real property interests” for “rights-of-way”.
+
+Subsec. (c). Pub. L. 112–141, §1302(b)(1), substituted “
+
+State-funded Early Acquisition of Real Property Interests” for “
+
+Early Acquisition of Rights-of-Way” in heading.
+
+Pub. L. 112–141, §1302(a)(2), (3), substituted “real property interest” for “right-of-way” and “real property interests” for “rights-of-way” wherever appearing.
+
+Subsec. (c)(1) to (3). Pub. L. 112–141, §1302(b)(2)–(5)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively; in par. (2), substituted “
+
+Eligibility for reimbursement” for “
+
+General rule” in heading and “Subject to paragraph (3)” for “Subject to paragraph (2)” in introductory provisions; and, in par. (3), substituted “in paragraph (2)” for “in paragraph (1)” in introductory provisions.
+
+Subsec. (c)(3)(G). Pub. L. 112–141, §1302(b)(5)(B), substituted “the Secretary has determined” for “both the Secretary and the Administrator of the Environmental Protection Agency have concurred”.
+
+Subsec. (d). Pub. L. 112–141, §1302(c), added subsec. (d).
 
 <b>1998</b>—Pub. L. 105–178, §1301(a), substituted “Advance acquisition of real property” for “Advance acquisition of rights-of-way” in section catchline.
 
@@ -96,6 +214,10 @@ Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
@@ -110,7 +232,7 @@ Pub. L. 105–178, title I, §1211(e)(2), June 9, 1998, 112 Stat. 188, provided 
 
 “(A)
 
-In general.—Funds advanced to a State by the Secretary from the right-of-way revolving fund established by section 108(c) of title 23, United States Code, prior to the date of enactment of this Act \[June 9, 1998\] shall remain available to the State for use on the projects for which the funds were advanced for a period of 20 years from the date on which the funds were advanced.
+In general.—Funds advanced to a State by the Secretary from the right-of-way revolving fund established by section 108(c) of title 23, United States Code,prior to the date of enactment of this Act \[June 9, 1998\] shall remain available to the State for use on the projects for which the funds were advanced for a period of 20 years from the date on which the funds were advanced.
 
 “(B)
 
@@ -122,11 +244,11 @@ Credit to highway trust fund.—With respect to a project for which funds have b
 
 #### Preservation of Transportation Corridors Report
 
-Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and a strategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
+Pub. L. 102–240, title I, §1017(c), Dec. 18, 1991, 105 Stat. 1948, provided that: “The Secretary, in consultation with the States, shall report to Congress within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], a national list of the rights-of-way identified by the metropolitan planning organizations and the States (under sections 134 and 135 of title 23, United States Code), including the total mileage involved, an estimate of the total costs, and a strategy for preventing further loss of rights-of-way including the desirability of creating a transportation right-of-way land bank to preserve vital corridors.”
 
 #### Authorization of Appropriations to Right-of-Way Revolving Fund; Apportionment; Reversion of Amounts Not Advanced or Obligated
 
-Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and $100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
+Pub. L. 90–495, §7(c)–(e), Aug. 23, 1968, 82 Stat. 819, provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and $100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
 
 #### Study of Advance Acquisition of Rights-of-Way
 
@@ -134,7 +256,7 @@ Pub. L. 89–574, §10, Sept. 13, 1966, 80 Stat. 769, as amended by Pub. L. 97�
 
 #### Increased Limitation Period Applicable to Certain Contracts
 
-Section 2 of Pub. L. 86–35 provided that agreements entered into before May 29, 1959 by the Secretary of Commerce and a State highway department under authority of section 110(a) of the Federal-Aid Highway Act of 1956, or section 108(a) of title 23 of the United States Code shall be deemed to provide for actual construction of a road on such rights-of-way within a period of seven years following the fiscal year in which such request was made.
+Pub. L. 86–35, §2, May 29, 1959, 73 Stat. 63, provided that agreements entered into before May 29, 1959 by the Secretary of Commerce and a State highway department under authority of section 110(a) of the Federal-Aid Highway Act of 1956, or section 108(a) of title 23 of the United States Code shall be deemed to provide for actual construction of a road on such rights-of-way within a period of seven years following the fiscal year in which such request was made.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

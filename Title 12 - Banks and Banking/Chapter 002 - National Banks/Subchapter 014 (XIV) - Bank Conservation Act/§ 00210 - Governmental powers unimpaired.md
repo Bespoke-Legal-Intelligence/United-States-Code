@@ -1,12 +1,12 @@
 ### §210. Governmental powers unimpaired
 
-Nothing in this subchapter shall be construed to impair in any manner any powers of thePresident, the Secretary of the Treasury, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System.
+Nothing in this subchapter shall be construed to impair in any manner any powers of the President, the Secretary of the Treasury, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System.
 
 (Mar. 9, 1933, ch. 1, title II, §210, 48 Stat. 5; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
 #### Change of Name
 
-Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
+Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
 #### Exception as to Transfer of Functions
 

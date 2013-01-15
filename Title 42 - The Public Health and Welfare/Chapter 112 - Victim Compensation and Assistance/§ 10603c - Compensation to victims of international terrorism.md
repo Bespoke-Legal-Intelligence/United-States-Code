@@ -28,7 +28,7 @@ In this section:
 
 #### (C) Exception
 
-&emsp;&emsp;Notwithstanding any other provision of this section, in no event shall an individualwho is criminally culpable for the terrorist act or mass violence receive any compensation under this section, either directly or on behalf of a victim.
+&emsp;&emsp;Notwithstanding any other provision of this section, in no event shall an individual who is criminally culpable for the terrorist act or mass violence receive any compensation under this section, either directly or on behalf of a victim.
 
 #### (b) Award of compensation
 

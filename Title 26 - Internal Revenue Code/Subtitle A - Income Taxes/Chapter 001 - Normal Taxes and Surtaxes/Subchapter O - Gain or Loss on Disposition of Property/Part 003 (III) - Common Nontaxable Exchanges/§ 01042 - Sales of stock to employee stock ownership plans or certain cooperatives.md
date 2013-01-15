@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (1) Qualified securities
 
-&emsp;The term “qualified securities” means employer securities (as defined in section 409(<i>l</i>)) which—
+&emsp;The term “qualified securities” means employer securities (as defined in section 409(l)) which—
 
 &emsp;&emsp;(A) are issued by a domestic C corporation that has no stock outstanding that is readily tradable on an established securities market, and
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (D) Security defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “security” has the meaning given such termby section 165(g)(2), except that such term shall not include any security issued by a government or political subdivision thereof.
+&emsp;&emsp;For purposes of this paragraph, the term “security” has the meaning given such term by section 165(g)(2), except that such term shall not include any security issued by a government or political subdivision thereof.
 
 #### (5) Securities sold by underwriter
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized byreason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -274,7 +274,7 @@ Subsec. (c)(4)(B)(i). Pub. L. 100–647, §1018(t)(4)(E), substituted “replace
 
 Subsec. (a). Pub. L. 99–514, §1854(a)(1), substituted “the taxpayer or executor elects in such form as the Secretary may prescribe” for “the taxpayer elects” in par. (1) and inserted “which would be recognized as long-term capital gain” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 99–514, §1854(a)(2)(A), substituted “Plan must hold” for “Employees must own” in heading and amended text generally. Prior to amendment, par. (2) read as follows: “The plan or cooperative referred to in paragraph (1) owns, immediately after the sale, at least 30 percent of the total value of the employer securities (within the meaning of section 409(<i>l</i>)) outstanding as of such time.”
+Subsec. (b)(2). Pub. L. 99–514, §1854(a)(2)(A), substituted “Plan must hold” for “Employees must own” in heading and amended text generally. Prior to amendment, par. (2) read as follows: “The plan or cooperative referred to in paragraph (1) owns, immediately after the sale, at least 30 percent of the total value of the employer securities (within the meaning of section 409(l)) outstanding as of such time.”
 
 Subsec. (b)(3). Pub. L. 99–514, §1854(a)(3)(B), as amended by Pub. L. 100–647, §1018(t)(4)(F), redesignated par. (4) as (3) and struck out former par. (3) which related to plans maintained for benefit of employees.
 
@@ -300,7 +300,7 @@ Subsecs. (e), (f). Pub. L. 99–514, §1854(a)(8)(A), added subsec. (e) and rede
 
 #### Effective Date of 1997 Amendment
 
-Section 968(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to sales after December 31, 1997.”
+Pub. L. 105–34, title IX, §968(b), Aug. 5, 1997, 111 Stat. 896, provided that: “The amendment made by this section \[amending this section\] shall apply to sales after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -308,11 +308,11 @@ Amendment by section 1316(d)(3) of Pub. L. 104–188 applicable to taxable years
 
 Amendment by section 1311(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
-Amendment by section 1616(b)(13) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by section 1616(b)(13) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7303(b) of Pub. L. 101–239 provided that: “The amendment made by this section \[amending this section\] shall apply to sales after July 10, 1989.”
+Pub. L. 101–239, title VII, §7303(b), Dec. 19, 1989, 103 Stat. 2352, provided that: “The amendment made by this section \[amending this section\] shall apply to sales after July 10, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -324,9 +324,9 @@ Amendment by section 1854(a)(1), (2)(A), (4), (5)(A), (7), (10), (11) of Pub. L.
 
 Amendment by section 1854(a)(3)(B) of Pub. L. 99–514 applicable to sales of securities after Oct. 22, 1986, except that a taxpayer or executor may elect to have section 1042(b)(3) of the Internal Revenue Code of 1954 (as in effect before the amendment by section 1854(a)(3)(B) of Pub. L. 99–514) apply to sales before Oct. 22, 1986, as if section 1042(b)(3) included the last sentence of section 409(n)(1) of this title (as added by section 1854(a)(3)(A) of Pub. L. 99–514), see section 1854(a)(3)(C) of Pub. L. 99–514, as amended, set out as a note under section 409 of this title.
 
-Section 1854(a)(6)(B)–(D) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1854(a)(6)(B)–(D), Oct. 22, 1986, 100 Stat. 2876, provided that:
 
-“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
+“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
 
 “(C) The amendment made by subparagraph (A) shall not apply to any sale occurring on December 20, 1985, with respect to which—
 
@@ -336,7 +336,7 @@ Section 1854(a)(6)(B)–(D) of Pub. L. 99–514 provided that:
 
 “(D) In the case of a sale on September 27, 1985, with respect to which a preliminary commitment letter was issued by a bank on April 10, 1985, and with respect to which a commitment letter was issued by a bank on June 28, 1985, the amendment made by subparagraph (A) shall apply but such sale shall be treated as having occurred on September 27, 1986.”
 
-Section 1854(a)(8)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1854(a)(8)(B), Oct. 22, 1986, 100 Stat. 2877, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.”
 
 Amendment by section 1854(a)(9)(B) of Pub. L. 99–514 applicable to sales of securities after Oct. 22, 1986, see section 1854(a)(9)(D) of Pub. L. 99–514, set out as an Effective Date note under section 4979A of this title.
 
@@ -344,7 +344,7 @@ Amendment by section 1854(f)(3)(B) of Pub. L. 99–514 effective Oct. 22, 1986, 
 
 #### Effective Date
 
-Section 541(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 1016 and 1223 of this title\] shall apply to sales of securities in taxable years beginning after the date of enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title V, §541(c), July 18, 1984, 98 Stat. 890, provided that: “The amendments made by this section \[enacting this section and amending sections 1016 and 1223 of this title\] shall apply to sales of securities in taxable years beginning after the date of enactment of this Act \[July 18, 1984\].”
 
 #### Savings Provision
 
@@ -352,7 +352,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Line Item Veto
 
-Section 968 of Pub. L. 105–34, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
+Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -360,7 +360,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Ownership of Stock Options as Ownership of Stock; Employee Ownership of Stock After Sale
 
-Section 1854(a)(2)(B) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1854(a)(2)(B), Oct. 22, 1986, 100 Stat. 2873, provided that:
 
 “(i) The requirement that section 1042(b) of the Internal Revenue Code of 1954 \[now 1986\] shall be applied with regard to section 318(a)(4) of such Code shall apply to sales after May 6, 1986.
 
@@ -372,7 +372,7 @@ Employees must own 30 percent of stock after sale.—The plan or cooperative ref
 
 #### Replacement Period for Certain Securities
 
-Section 1854(a)(5)(B) of Pub. L. 99–514 provided that: “If—
+Pub. L. 99–514, title XVIII, §1854(a)(5)(B), Oct. 22, 1986, 100 Stat. 2875, provided that: “If—
 
 &emsp;“(i) before January 1, 1987, the taxpayer acquired any security (as defined in section 165(g)(2) of the Internal Revenue Code of 1954 \[now 1986\]) issued by a domestic corporation or by any State or political subdivision thereof,
 

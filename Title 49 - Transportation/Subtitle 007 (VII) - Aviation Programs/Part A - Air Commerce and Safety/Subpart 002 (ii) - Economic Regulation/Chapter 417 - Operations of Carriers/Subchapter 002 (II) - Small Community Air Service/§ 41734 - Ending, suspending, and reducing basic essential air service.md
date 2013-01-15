@@ -18,9 +18,9 @@ Day Periods.—If at the end of the 30-day period under subsection (b) of this s
 
 (d)
 
-Continuation of Compensation After Notice Period.—If an air carrier receiving compensation under section 41733 of this title for providing basic essential air service to an eligible place is required to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section, the Secretary shall continue to pay that compensation after the last day of that period. The Secretary shall pay the compensation until the Secretary finds another carrier to provide the service to the place or the 90th day after the end of that notice period, whichever is earlier. If, after the 90th day after the end of the 90-day notice period, the Secretary has not found another carrier to provide the service, the carrier required to continue to provide that service shall receive compensation sufficient—
+Continuation of Compensation After Notice Period.—If an air carrier receiving compensation under section 41733 of this title for providing basic essential air service to an eligible place is required to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section, the Secretary shall provide the carrier with compensation sufficient—
 
-&emsp;(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) ofthis section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+&emsp;(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
 
 &emsp;(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
 
@@ -52,7 +52,7 @@ Nonconsideration of Slot Availability.—In determining what is basic essential 
 
 Exemption From Hold-In Requirements.—If, after the date of enactment of this subsection, an air carrier commences air transportation to an eligible place that is not receiving scheduled passenger air service as a result of the failure of the eligible place to meet requirements contained in an appropriations Act, the air carrier shall not be subject to the requirements of subsections (b) and (c) with respect to such air transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1146; Pub. L. 103–305, title II, §206(c), Aug. 23, 1994, 108 Stat. 1587; Pub. L. 103–429, §6(81), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 108–176, title IV, §401, Dec. 12, 2003, 117 Stat. 2542.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1146; Pub. L. 103–305, title II, §206(c), Aug. 23, 1994, 108 Stat. 1587; Pub. L. 103–429, §6(81), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 108–176, title IV, §401, Dec. 12, 2003, 117 Stat. 2542; Pub. L. 112–95, title IV, §426(b)(1), Feb. 14, 2012, 126 Stat. 98.)
 
 Historical and Revision Notes
 
@@ -106,7 +106,7 @@ In subsection (e), before clause (1), the words “basic essential air service�
 
 In subsection (f), the words “basic essential air service” are substituted for “air transportation which such air carrier has proposed to terminate, reduce, or suspend” for consistency with the source provisions restated in this section.
 
-In subsection (g)(2), the words “the authority to be transferred is being used only to provide air service tothe eligible place” are substituted for “unless . . . such authority is being used to provide air service with respect to more than 1 eligible point” for clarity and because of the restatement.
+In subsection (g)(2), the words “the authority to be transferred is being used only to provide air service to the eligible place” are substituted for “unless . . . such authority is being used to provide air service with respect to more than 1 eligible point” for clarity and because of the restatement.
 
 #### References in Text
 
@@ -114,11 +114,17 @@ The date of enactment of this subsection, referred to in subsec. (i), is the dat
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d). Pub. L. 112–95, in introductory provisions, substituted “provide the carrier with compensation sufficient—” for “continue to pay that compensation after the last day of that period. The Secretary shall pay the compensation until the Secretary finds another carrier to provide the service to the place or the 90th day after the end of that notice period, whichever is earlier. If, after the 90th day after the end of the 90-day notice period, the Secretary has not found another carrier to provide the service, the carrier required to continue to provide that service shall receive compensation sufficient—”.
+
 <b>2003</b>—Subsec. (i). Pub. L. 108–176 added subsec. (i).
 
 <b>1994</b>—Subsec. (g)(2). Pub. L. 103–429 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the authority to be transferred is being used only to provide air service to the eligible place.”
 
 Subsec. (h). Pub. L. 103–305 added subsec. (h).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title IV, §426(b)(2), Feb. 14, 2012, 126 Stat. 98, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to compensation to air carriers for air service provided after the 30th day following the date of enactment of this Act \[Feb. 14, 2012\].”
 
 #### Effective Date of 2003 Amendment
 

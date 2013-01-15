@@ -14,7 +14,7 @@ No program execution responsibility.—The Secretary shall ensure that the senio
 
 &emsp;(3)
 
-Staff and resources.—The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out official's <sup>1</sup> function under this section.
+Staff and resources.—The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out the senior official's function under this section.
 
 (b)
 
@@ -72,7 +72,7 @@ Support of Applicable Capabilities and Expertise.—The Secretary of Defense sha
 
 Annual Report.—Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.
 
-(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325.)
+(Added and amended Pub. L. 111–383, div. A, title IX, §901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325; Pub. L. 112–239, div. A, title X, §1076(f)(27), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Codification
 
@@ -80,11 +80,13 @@ Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 o
 
 #### Prior Provisions
 
-A prior section 2438, added Pub. L. 102–484, div. A, title VIII, §821(a)(1)(B), Oct. 23, 1992, 106 Stat. 2459; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728, required competitive prototyping of major weapon systems and subsystems prior to development under major defense acquisition program, prior to repeal by Pub. L. 103–355, title III, §3006(a), Oct. 13, 1994, 108 Stat. 3331.
+A prior section 2438, added Pub. L. 102–484, div. A, title VIII, §821(a)(1)(B), Oct. 23, 1992, 106 Stat. 2459; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov.30, 1993, 107 Stat. 1728, required competitive prototyping of major weapon systems and subsystems prior to development under major defense acquisition program, prior to repeal by Pub. L. 103–355, title III, §3006(a), Oct. 13, 1994, 108 Stat. 3331.
 
 Another prior section 2438 was renumbered section 2439 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–239 inserted “the senior” before “official's”.
 
 <b>2011</b>—Pub. L. 111–383, §901(k)(1)(F), substituted “Performance assessments and root cause analyses” for “
 
@@ -105,6 +107,4 @@ Subsec. (f). Pub. L. 111–383, §901(d)(4), struck out “beginning in 2010,”
 #### Effective Date
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 131 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

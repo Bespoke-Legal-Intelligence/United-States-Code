@@ -12,3 +12,17 @@ The President shall establish a system of awards to confer appropriate recogniti
 
 Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out under section 3901 of this title.
 
+#### The Richard C. Holbrooke Award for Diplomacy
+
+Memorandum of President of the United States, Dec. 22, 2010, 77 F.R. 75507, provided:
+
+Memorandum for the Secretary of State
+
+To honor the legacy of one of America's greatest diplomats and to reaffirm our commitment to diplomacy, I hereby direct you to establish the Richard C. Holbrooke Award for Diplomacy, to be awarded annually. You are authorized to take all necessary steps to establish an appropriate award program under the auspices of your department to recognize distinguished Americans who have made especially meritorious contributions to diplomacy.
+
+Sixty days prior to presenting the award, you shall present to me a list of nominees, from which I will select up to five individuals or groups of individuals to receive this award. In preparing your list of nominees, you may consider the recommendations of appropriate individuals and groups, coordinate your nominations in consultation with other executive agencies as appropriate, and may include recommendations for posthumous awards.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

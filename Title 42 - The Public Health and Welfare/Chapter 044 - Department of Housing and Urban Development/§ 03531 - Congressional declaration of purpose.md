@@ -12,7 +12,7 @@ Section was formerly classified to section 624 of former Title 5, Executive Depa
 
 #### Effective Date: Interim Appointments
 
-Section 11 of Pub. L. 89–174 provided that:
+Pub. L. 89–174, §11, Sept. 9, 1965, 79 Stat. 671, provided that:
 
 “(a) The provisions of this Act \[see Short Title note below\] shall take effect upon the expiration of the first period of sixty calendar days following the date on which this Act is approved by the President \[Sept. 9, 1965\], or on such earlier date as the President shall specify by Executive order published in the Federal Register, except that any of the officers provided for in sections 3(a), 4(a), and 4(b) of this Act \[sections 3532(a), 3533(a), and 3533(b) of this title\] may be nominated and appointed, as provided in such sections, at any time after the date this Act is approved by the President \[Sept. 9, 1965\].
 
@@ -24,11 +24,11 @@ Pub. L. 101–235, §1(a), Dec. 15, 1989, 103 Stat. 1987, provided that: “This
 
 #### Short Title
 
-Section 1 of Pub. L. 89–174 provided: “That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the ‘Department of Housing and Urban Development Act’.”
+Pub. L. 89–174, §1, Sept. 9, 1965, 79 Stat. 667, provided: “That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the ‘Department of Housing and Urban Development Act’.”
 
 #### Savings Provision: Abatement of Actions; Continuation of Rules, Regulations, Etc.; References in Other Laws to Housing and Home Finance Agency; Lapse of Agencies
 
-Section 9 of Pub. L. 89–174 provided that:
+Pub. L. 89–174, §9, Sept. 9, 1965, 79 Stat. 670, provided that:
 
 “(a) No cause of action by or against any agency whose functions are transferred by this Act \[see Short Title note above and section 3534 of this title\], or by or against any officer of any agency in his official capacity, shall abate by reason of this enactment. Such causes of action may be asserted by or against the United States or such official of the Department as may be appropriate.
 

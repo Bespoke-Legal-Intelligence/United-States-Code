@@ -60,7 +60,7 @@ Amendment by section 701(e)(4)(A) of Pub. L. 99–514 applicable to taxable year
 
 #### Effective Date of 1982 Amendment
 
-Section 201(e)(1) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 46, 53, 55, 56, 57, 58, 173, 174, 511, 616, 617, 897, 901, 936, 1016, 6015, 6362, 6654, and 7701 of thistitle\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title II, §201(e)(1), Sept. 3, 1982, 96 Stat. 421, provided that: “The amendments made by this section \[amending this section and sections 46, 53, 55, 56, 57, 58, 173, 174, 511, 616, 617, 897, 901, 936, 1016, 6015, 6362, 6654, and 7701 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1980 Amendment
 
@@ -70,11 +70,11 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Amendment by section 401(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
-Section 421(g) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting section 55 of this title and amending this section and sections 57, 58, 443, 511, 666, 871, 877, 904, 6015, 6362, and 6654 of this title\] shall apply to taxable years beginning after December 31, 1978, except that the amendment made by paragraph (1) of subsection (b) \[amending section 57 of this title\] shall apply to sales and exchanges made after July 26, 1978, in taxable years ending after such date.”
+Pub. L. 95–600, title IV, §421(g), Nov. 6, 1978, 92 Stat. 2877, provided that: “The amendments made by this section \[enacting section 55 of this title and amending this section and sections 57, 58, 443, 511, 666, 871, 877, 904, 6015, 6362, and 6654 of this title\] shall apply to taxable years beginning after December 31, 1978, except that the amendment made by paragraph (1) of subsection (b) \[amending section 57 of this title\] shall apply to sales and exchanges made after July 26, 1978, in taxable years ending after such date.”
 
 #### Effective Date of 1969 Amendment
 
-Section 301(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting sections 56 to 58 of this title and amending this section and sections 12, 46, 51, 443, 453, 511, 901, 1373, 1375, 6015, and 6654 of this title\] shall apply to taxable years ending after December 31, 1969. In the case of a taxable year beginning in 1969 and ending in 1970, the tax imposed by section 56 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall be an amount equal to the tax imposed by such section (determined without regard to this sentence) multiplied by a fraction—
+Pub. L. 91–172, title III, §301(c), Dec. 30, 1969, 83 Stat. 586, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting sections 56 to 58 of this title and amending this section and sections 12, 46, 51, 443, 453, 511, 901, 1373, 1375, 6015, and 6654 of this title\] shall apply to taxable years ending after December 31, 1969. In the case of a taxable year beginning in 1969 and ending in 1970, the tax imposed by section 56 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall be an amount equal to the tax imposed by such section (determined without regard to this sentence) multiplied by a fraction—
 
 &emsp;“(1) the numerator of which is the number of days in the taxable year occurring after December 31, 1969, and
 
@@ -84,7 +84,7 @@ Amendment by section 803(d)(6) of Pub. L. 91–172 applicable to taxable years b
 
 #### Effective Date of 1964 Amendment
 
-Section 232(g) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, §232(g), Feb. 26, 1964, 78 Stat. 112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

@@ -10,7 +10,7 @@ Grants made for hiring or rehiring additional career law enforcement officers ma
 
 #### (c) Multiyear grants
 
-A grant for a period exceeding 1 year may be renewed as provided in this section, except thatthe total duration of such a grant including any renewals may not exceed 3 years, or 5 years if it is a grant made for hiring or rehiring additional career law enforcement officers.
+A grant for a period exceeding 1 year may be renewed as provided in this section, except that the total duration of such a grant including any renewals may not exceed 3 years, or 5 years if it is a grant made for hiring or rehiring additional career law enforcement officers.
 
 (Pub. L. 90–351, title I, §1703, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1812.)
 

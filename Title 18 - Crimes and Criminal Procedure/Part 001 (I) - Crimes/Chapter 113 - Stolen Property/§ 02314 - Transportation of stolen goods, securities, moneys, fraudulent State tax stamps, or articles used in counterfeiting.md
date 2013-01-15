@@ -1,6 +1,6 @@
 ### §2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting
 
-Whoever transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money, of thevalue of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud; or
+Whoever transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud; or
 
 Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transports or causes to be transported, or induces any person or persons to travel in, or to be transported in interstate or foreign commerce in the execution or concealment of a scheme or artifice to defraud that person or those persons of money or property having a value of $5,000 or more; or
 
@@ -8,13 +8,17 @@ Whoever, with unlawful or fraudulent intent, transports in interstate or foreign
 
 Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce any traveler's check bearing a forged countersignature; or
 
-Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce, any tool, implement, or thing used or fitted to be used in falsely making, forging, altering, or counterfeiting any security or tax stamps, or any part thereof—
+Whoever, with unlawful or fraudulent intent, transports in interstate or foreign commerce, any tool, implement, or thing used or fitted to be used in falsely making, forging, altering, or counterfeiting any security or tax stamps, or any part thereof; or
 
-Shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever transports, transmits, or transfers in interstate or foreign commerce any veterans’ memorial object, knowing the same to have been stolen, converted or taken by fraud—
+
+Shall be fined under this title or imprisoned not more than ten years, or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater. If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+For purposes of this section the term “veterans’ memorial object” means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran's grave, or any monument that signifies an event of national military historical significance.
+
+(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, §4(d)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, §1084(a), Jan. 2, 2013, 126 Stat. 1963.)
 
 #### Historical and Revision Notes
 
@@ -48,7 +52,15 @@ This amendment \[see section 45\] restates and clarifies the first paragraph of 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in penultimate par.
+<b>2013</b>—Pub. L. 112–239, §1084(a)(4), inserted par. at end defining “veterans’ memorial object”.
+
+Pub. L. 112–239, §1084(a)(3), inserted at end of seventh par. “If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
+
+Pub. L. 112–239, §1084(a)(1), (2), inserted sixth par. relating to veterans’ memorial objects.
+
+<b>2012</b>—Pub. L. 112–186 inserted at end of sixth par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
+
+<b>1994</b>—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in sixth par.
 
 Pub. L. 103–322, §330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
 

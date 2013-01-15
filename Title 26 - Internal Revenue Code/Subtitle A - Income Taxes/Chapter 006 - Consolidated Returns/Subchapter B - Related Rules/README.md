@@ -1,13 +1,13 @@
 ### <b>Subchapter B—Related Rules</b>
 
-| Part |  | Sec.<sup>1</sup> |
-| :--- | ---: | ---: |
-| [<b>I.</b>](Part%20001%20%28I%29%20-%20In%20General/README.md) | <b>In general</b> | <b>1551</b> |
+| Part | Sec.<sup>1</sup> |
+| :--- | ---: |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
+| [<b>I.</b>](Part%20001%20%28I%29%20-%20In%20General/README.md) | <b>In general</b> | <b>1551</b> |
 | [<b>II.</b>](Part%20002%20%28II%29%20-%20Certain%20Controlled%20Corporations/README.md) | <b>Certain controlled corporations</b> | <b>1561</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -66,11 +66,11 @@
 
 (4) The premium amounts shall be determined on the basis of sound actuarial principles and shall include an amount necessary to cover the administrative costs to the insurer or insurers providing such insurance.
 
-(5) Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for any such subsequent policy year on the basis of the experience under the policy, as determined by the Secretary in advance of that policy year.
+(5) Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for anysuch subsequent policy year on the basis of the experience under the policy, as determined by the Secretary in advance of that policy year.
 
 (6) The cost attributable to insuring members under this section for any month or other period specified by the Secretary, less the premiums paid by the members, shall be paid by the Secretary concerned to the Secretary. The Secretary shall allocate the amount payable among the uniformed services using such methods and data as the Secretary determines to be reasonable and practicable. Payments under this paragraph shall be made on a monthly basis or at such other intervals as may be specified by the Secretary and shall be made within 10 days of the date on which the Secretary provides notice to the Secretary concerned of the amount required.
 
-(7) For each period for which a payment by a Secretary concerned is required under paragraph\(6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
+(7) For each period for which a payment by a Secretary concerned is required under paragraph (6), the Secretary concerned shall contribute such amount from appropriations available for active duty pay of the uniformed service concerned.
 
 (8) The sums withheld from the basic or other pay of members, or collected from them by the Secretary concerned, under this subsection, and the sums contributed from appropriations under this subsection, together with the income derived from any dividends or premium rate adjustments received from insurers shall be deposited to the credit of the revolving fund established in the Treasury of the United States under section 1869(d)(1) of this title.
 
@@ -198,7 +198,7 @@ Certification of persons entitled to payment.—The Secretary concerned shall ce
 
 “(3)
 
-Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited tothe credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
+Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
 
 “(4)
 

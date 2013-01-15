@@ -6,7 +6,7 @@
 
 (c)
 
-Approval of Programs and Projects.—Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
+Approval of Programs and Projects.—Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 <sup>1</sup> of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
 &emsp;(1) there is no prudent and feasible alternative to using that land; and
 
@@ -26,7 +26,7 @@ Requirements for historic sites.—The requirements of this section shall be con
 
 &emsp;&emsp;(B)
 
-Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordancewith this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
 
 &emsp;&emsp;(C)
 
@@ -92,6 +92,10 @@ In subsection (b), the words “crossed by transportation activities or faciliti
 
 In subsection (c), before clause (1), the words “After August 23, 1968” after “Secretary” are omitted as executed. The word “transportation” is inserted before “program” for clarity. In clause (2), the words “or project” are added for consistency.
 
+#### References in Text
+
+Section 204 of title 23, referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
@@ -103,4 +107,6 @@ Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 #### Treatment of Military Flight Operations
 
 Pub. L. 105–85, div. A, title X, §1079, Nov. 18, 1997, 111 Stat. 1916, provided that: “No military flight operation (including a military training flight), or designation of airspace for such an operation, may be treated as a transportation program or project for purposes of section 303(c) of title 49, United States Code.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

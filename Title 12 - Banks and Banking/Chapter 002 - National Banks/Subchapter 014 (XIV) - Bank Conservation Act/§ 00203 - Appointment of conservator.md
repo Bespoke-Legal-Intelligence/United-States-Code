@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The Comptroller of the Currency may, without prior notice or hearings, appoint a conservator (which may be the Federal Deposit Insurance Corporation) to the possession and control of abank whenever the Comptroller of the Currency determines that 1 or more of the grounds specified in section 11(c)(5) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(c)(5)\] exist.
+The Comptroller of the Currency may, without prior notice or hearings, appoint a conservator (which may be the Federal Deposit Insurance Corporation) to the possession and control of a bank whenever the Comptroller of the Currency determines that 1 or more of the grounds specified in section 11(c)(5) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(c)(5)\] exist.
 
 #### (b) Judicial review
 
@@ -48,7 +48,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 
 
 This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, as amended, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95 to 95b, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 5 of Title 50, Appendix, War and National Defense.
 
-Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, §206(b), (<i>o</i>), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
+Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, §206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
 #### Amendments
 

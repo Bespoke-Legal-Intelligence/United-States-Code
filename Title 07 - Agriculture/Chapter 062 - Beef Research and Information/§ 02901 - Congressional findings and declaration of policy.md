@@ -24,21 +24,21 @@
 
 #### Effective Date of 1985 Amendment
 
-Section 1601(c) of Pub. L. 99–198 provided that: “The amendments made by this section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1986.”
+Pub. L. 99–198, title XVI, §1601(c), Dec. 23, 1985, 99 Stat. 1606, provided that: “The amendments made by this section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1986.”
 
 #### Effective Date
 
-Section 21 of Pub. L. 94–294 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] shall take effect upon enactment \[May 28, 1976\]”.
+Pub. L. 94–294, §21, May 28, 1976, 90 Stat. 538, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] shall take effect upon enactment \[May 28, 1976\]”.
 
 #### Short Title of 1985 Amendment
 
-Section 1601(a) of Pub. L. 99–198 provided that: “This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
+Pub. L. 99–198, title XVI, §1601(a), Dec. 23, 1985, 99 Stat. 1597, provided that: “This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the ‘Beef Promotion and Research Act of 1985’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 94–294 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Beef Research and Information Act’.”
+Pub. L. 94–294, §1, May 28, 1976, 90 Stat. 529, provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Beef Research and Information Act’.”
 
 #### Separability
 
-Section 19 of Pub. L. 94–294, which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, §1601(b), Dec. 28, 1985, 99 Stat. 1597.
+Pub. L. 94–294, §19, May 28, 1976, 90 Stat. 537, which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, §1601(b), Dec. 28, 1985, 99 Stat. 1597.
 

@@ -48,7 +48,7 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code ofFederal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
@@ -188,7 +188,7 @@ Applicability.—The Secretary shall determine which distribution pipelines will
 
 &emsp;(5)
 
-Development and implementation.—Each operator of a distribution pipeline thatthe Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
+Development and implementation.—Each operator of a distribution pipeline that the Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
 
 &emsp;(6)
 

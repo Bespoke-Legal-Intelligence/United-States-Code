@@ -26,7 +26,7 @@ Each State may award grants to eligible entities within the State for the purpos
 
 #### (2) Limitation
 
-&emsp;A State shall use at least 40 percent of the amount available to the State under this partfor a fiscal year to award grants to safety net trauma centers described in paragraph (1)(A)(ii).
+&emsp;A State shall use at least 40 percent of the amount available to the State under this part for a fiscal year to award grants to safety net trauma centers described in paragraph (1)(A)(ii).
 
 #### (d) Use of funds
 

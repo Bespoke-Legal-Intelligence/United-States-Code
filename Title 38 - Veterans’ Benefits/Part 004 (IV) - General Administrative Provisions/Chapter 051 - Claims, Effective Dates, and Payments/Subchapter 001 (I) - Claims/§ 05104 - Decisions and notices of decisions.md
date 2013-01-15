@@ -20,5 +20,5 @@ Pub. L. 102–54 amended section as in effect immediately before enactment of Pu
 
 #### Effective Date
 
-Section 115(b) of Pub. L. 101–237 provided that: “Section 3004 \[now 5104\] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
+Pub. L. 101–237, title I, §115(b), Dec. 18, 1989, 103 Stat. 2066, provided that: “Section 3004 \[now 5104\] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
 

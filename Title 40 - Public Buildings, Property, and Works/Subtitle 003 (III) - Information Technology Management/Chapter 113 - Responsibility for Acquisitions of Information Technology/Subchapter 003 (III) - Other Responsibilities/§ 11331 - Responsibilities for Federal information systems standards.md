@@ -20,7 +20,7 @@ Requirement.—Except as provided under paragraph (2), the Director of the Offic
 
 Required standards.—Standards promulgated under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) standards that provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
+&emsp;&emsp;&emsp;(i) standards that provide minimum information security requirements as determined under section 20(b) of the NationalInstitute of Standards and Technology Act (15 U.S.C. 278g–3(b)); and
 
 &emsp;&emsp;&emsp;(ii) such standards that are otherwise necessary to improve the efficiency of operation or security of Federal information systems.
 
@@ -52,7 +52,7 @@ Deadline.—The decision regarding the promulgation of any standard by the Direc
 
 Notice and comment.—A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), shall be made after the public is given an opportunity to comment on the Director's proposed decision.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1243; Pub. L. 107–296, title X, §1002(a), Nov. 25, 2002, 116 Stat. 2268; Pub. L. 107–347, title III, §302(a), Dec. 17, 2002, 116 Stat. 2956.)
 
 Historical and Revision Notes
 

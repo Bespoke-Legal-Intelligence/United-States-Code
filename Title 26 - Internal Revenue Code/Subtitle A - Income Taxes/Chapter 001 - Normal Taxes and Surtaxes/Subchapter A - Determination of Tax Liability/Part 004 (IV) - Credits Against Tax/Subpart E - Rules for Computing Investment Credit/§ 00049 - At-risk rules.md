@@ -40,7 +40,7 @@
 
 #### (ii) Qualified commercial financing
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” meansany financing with respect to any property if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is acquired by the taxpayer from a person who is not a related person,
 
@@ -116,7 +116,7 @@
 
 #### (B) Certain transactions not taken into account
 
-&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not betreated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
+&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
 
 #### (C) Manner in which taken into account
 
@@ -174,11 +174,11 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 &emsp;“(ii) shall be added to the carryforwards from the taxable year before applying paragraph (2).”
 
-Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(<i>o</i>)”.
+Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(o)”.
 
 Subsec. (c)(5)(C). Pub. L. 100–647, §1002(e)(8)(B), struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
 
-Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38property) shall be applied with respect to transaction property—
+Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
 
 &emsp;“(A) by substituting ‘100 percent’ for ‘50 percent’ in paragraph (1), and
 
@@ -212,7 +212,7 @@ Amendment by section 1002(e)(8)(B) of Pub. L. 100–647 applicable to taxable ye
 
 #### Effective Date of 1986 Amendment
 
-Section 211(e) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1002(e)(4)–(7), Nov. 10, 1988, 102 Stat. 3367, 3368, provided that:
+Pub. L. 99–514, title II, §211(e), Oct. 22, 1986, 100 Stat. 2169, as amended by Pub. L. 100–647, title I, §1002(e)(4)–(7), Nov. 10, 1988, 102 Stat. 3367, 3368, provided that:
 
 “(1)
 
@@ -256,7 +256,7 @@ Additional exceptions.—
 
 &emsp;&emsp;“(iii) Property placed in service during 1986 by Satellite Industries, Inc., with headquarters in Minneapolis, Minnesota, to the extent that the cost of such property does not exceed $1,950,000.
 
-&emsp;“(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\].”
+&emsp;“(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section 204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\].”
 
 #### Savings Provision
 
@@ -264,7 +264,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Normalization Rules
 
-Section 211(b) of Pub. L. 99–514 provided that: “If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
+Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: “If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Codeof 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
 
 &emsp;“(1) all credits for open taxable years as of the time of the final determination referred to in section 46(f)(4)(A) of such Code shall be recaptured, and
 
@@ -274,7 +274,7 @@ Section 211(b) of Pub. L. 99–514 provided that: “If, for any taxable year be
 
 #### Exception for Certain Aircraft Used in Alaska
 
-Section 211(d) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title II, §211(d), Oct. 22, 1986, 100 Stat. 2168, provided that:
 
 “(1) The amendments made by subsection (a) \[enacting this section and provisions set out above\] shall not apply to property originally placed in service after December 29, 1982, and before August 1, 1985, by a corporation incorporated in Alaska on May 21, 1953, and used by it—
 

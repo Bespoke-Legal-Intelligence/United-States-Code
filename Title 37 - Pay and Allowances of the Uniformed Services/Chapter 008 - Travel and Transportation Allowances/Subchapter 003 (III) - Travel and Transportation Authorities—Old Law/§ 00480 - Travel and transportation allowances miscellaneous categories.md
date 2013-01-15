@@ -26,7 +26,7 @@
 
 (c) No travel or transportation allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §410; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; renumbered §480 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(13), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §410; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; renumbered §480 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(13), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -46,21 +46,23 @@ Oct. 12, 1949, ch. 681, §303(e), 63 Stat. 815.
 
 37:253(e) (last 25 words).
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 410 of this title as this section.
 
-Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404” in introductory provisions. See Codification note above.
+Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” in introductory provisions.
 
 Subsec. (c). Pub. L. 112–81, §631(e)(13), added subsec. (c).
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -6,7 +6,7 @@ All personnel actions affecting employees or applicants for employment who are a
 
 #### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification
 
-Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section.The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
 &emsp;(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a) of this section;
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1
 
 #### Effective Date of 1978 Amendment
 
-Section 5(f) of Pub. L. 95–256 provided that: “The amendments made by this section \[amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5\] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section \[subsec. (g) of this section\], shall take effect on the date of enactment of this Act \[Apr. 6, 1978\].”
+Pub. L. 95–256, §5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The amendments made by this section \[amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5\] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section \[subsec. (g) of this section\], shall take effect on the date of enactment of this Act \[Apr. 6, 1978\].”
 
 #### Effective Date
 

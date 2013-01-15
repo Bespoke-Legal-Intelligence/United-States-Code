@@ -62,7 +62,7 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 &emsp;(A) $5,000; or
 
-&emsp;(B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher's aide and employment as an elementary or secondary school teacher or teacher aide.
+&emsp;(B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher's aide and employment as an elementary or secondary school teacher or teacher aide.
 
 (2) A civilian employee selected to participate in the placement program who receives separation pay under section 5597 of title 5 shall not be paid a stipend under paragraph (1).
 
@@ -80,7 +80,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 
 Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of this title was subsequently added by Pub. L. 109–364, §561(a).
 
-The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

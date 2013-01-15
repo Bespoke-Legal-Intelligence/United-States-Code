@@ -96,7 +96,7 @@ In clause (4)(E), the word “Mechanics” is substituted for the words “natur
 
 In clause (4)(F), the words “Military Art and Engineering” are substituted for the words “civil and military engineering”, in 10:1061, pursuant to General Orders No. 3, Hq USMA, 11 February 1943.
 
-In clause (4)(G), the words “Military Topography and Graphics” are substituted for the word “drawing”, in 10:1061, pursuant to General Orders No. 3, Hq USMA, 11 February 1943.
+In clause (4)(G), the words “Military Topography and Graphics” are substituted for the word “drawing”, in10:1061, pursuant to General Orders No. 3, Hq USMA, 11 February 1943.
 
 In clause (4)(H), the words “Physics and Chemistry” are substituted for the word “physics”, in 10:1078a, pursuant to General Orders No. 38, Hq USMA, 29 June 1946.
 
@@ -334,7 +334,7 @@ Pub. L. 103–337, div. A, title V, §553, Oct. 5, 1994, 108 Stat. 2772, as amen
 
 #### Test Program To Evaluate Use of Private Preparatory Schools for Service Academy Preparatory School Mission
 
-Section 536 of Pub. L. 103–160 required Secretary of Defense to conduct test program to determine efficiency and cost effectiveness of using schools in private sector as alternative to existing schools used for mission of operating military preparatory school program for one or more of the service academies, prior to repeal by Pub. L. 104–106, div. A, title V, §534, Feb. 10, 1996, 110 Stat. 315.
+Pub. L. 103–160, div. A, title V, §536, Nov. 30, 1993, 107 Stat. 1659, required Secretary of Defense to conduct test program to determine efficiency and cost effectiveness of using schools in private sector as alternative to existing schools used for mission of operating military preparatory school program for one or more of the service academies, prior to repeal by Pub. L. 104–106, div. A, title V, §534, Feb. 10, 1996, 110 Stat. 315.
 
 #### Colonel Thomas Hawkins Johnson Visiting Scholar Program and Lecture Series
 

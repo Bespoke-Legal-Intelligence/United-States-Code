@@ -2,7 +2,7 @@
 
 #### (a) Inconsistent provisions; procedures applicable for determination
 
-(1) Except as provided in subsection (e) of this section, this part and parts B and C of this subchapter, do not annul, alter, or affect the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this subchapter and then only to the extent of the inconsistency. Upon its own motion or upon the request of any creditor, State or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any such inconsistency exists. If the Bureau determines that a State-required disclosure is inconsistent, creditors located in that State may not make disclosures using the inconsistent term or form, and shall incur no liability under the law of that State for failure to use such term or form, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+(1) Except as provided in subsection (e) of this section, this part and parts B and C of this subchapter, do not annul, alter, or affect the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this subchapter, andthen only to the extent of the inconsistency. Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any such inconsistency exists. If the Bureau determines that a State-required disclosure is inconsistent, creditors located in that State may not make disclosures using the inconsistent term or form, and shall incur no liability under the law of that State for failure to use such term or form, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 (2) Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any disclosure required under the law of any State is substantially the same in meaning as a disclosure required under this subchapter. If the Bureau determines that a State-required disclosure is substantially the same in meaning as a disclosure required by this subchapter, then creditors located in that State may make such disclosure in compliance with such State law in lieu of the disclosure required by this subchapter, except that the annual percentage rate and finance charge shall be disclosed as required by section 1632 of this title, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title.
 
@@ -12,7 +12,7 @@ Except as provided in section 1639 of this title, this subchapter does not other
 
 #### (c) Disclosure as evidence
 
-In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this subchapter in connection with that salemay not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
+In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this subchapter in connection with that sale may not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
 
 #### (d) Contract or other obligations under State or Federal law
 
@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 100–583, §4(2), added subsec. (e).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

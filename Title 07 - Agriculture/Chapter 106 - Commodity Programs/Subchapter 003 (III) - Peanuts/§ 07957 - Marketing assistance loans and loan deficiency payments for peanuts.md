@@ -24,7 +24,7 @@
 
 #### (5) Storage of loan peanuts
 
-&emsp;As a condition on the Secretary's approval of an individual or entity to provide storagefor peanuts for which a marketing assistance loan is made under this section, the individual or entity shall agree—
+&emsp;As a condition on the Secretary's approval of an individual or entity to provide storage for peanuts for which a marketing assistance loan is made under this section, the individual or entity shall agree—
 
 &emsp;&emsp;(A) to provide such storage on a nondiscriminatory basis; and
 
@@ -112,7 +112,7 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) o
 
 #### (f) Compliance with conservation and wetlands requirements
 
-As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B oftitle XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
+As a condition of the receipt of a marketing assistance loan under subsection (a) of this section, the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
 #### (g) Reimbursable agreements and payment of administrative expenses
 

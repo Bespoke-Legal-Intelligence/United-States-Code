@@ -1,6 +1,6 @@
 ### §459e–9. Authorization of appropriations
 
-There is hereby authorized to be appropriated not more than $23,000,000 for the acquisition of lands and interests in land pursuant to sections 459e to 459e–9 of this title, and, after December 23, 1980, not more than $500,000 for development.
+There is hereby authorized to be appropriated not more than $23,000,000 for the acquisition oflands and interests in land pursuant to sections 459e to 459e–9 of this title, and, after December 23, 1980, not more than $500,000 for development.
 
 (Pub. L. 88–587, §10, Sept. 11, 1964, 78 Stat. 933; Pub. L. 94–578, title I, §101(5), Oct. 21, 1976, 90 Stat. 2732; Pub. L. 95–625, title III, §322(d), Nov. 10, 1978, 92 Stat. 3489; Pub. L. 96–585, §1(e), Dec. 23, 1980, 94 Stat. 3379.)
 

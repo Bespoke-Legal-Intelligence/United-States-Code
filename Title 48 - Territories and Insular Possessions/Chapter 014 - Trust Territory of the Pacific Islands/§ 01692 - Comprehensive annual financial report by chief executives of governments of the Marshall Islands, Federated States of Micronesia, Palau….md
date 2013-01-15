@@ -20,5 +20,5 @@ For termination, effective May 15, 2000, of provisions in the 1st sentence of th
 
 #### Exception to Requirement that Statement be Submitted to High Commissioner of Trust Territory of the Pacific Islands
 
-Section 203(e) of Pub. L. 97–357 provided that: “Nothing in this section \[adding section 1681b of this title, amending this section, and repealing section 1681c of this title\] shall be construed as requiring the Governor of the Northern Mariana Islands to submit any statement or report to the High Commissioner of the Trust Territory of the Pacific Islands.”
+Pub. L. 97–357, title II, §203(e), Oct. 19, 1982, 96 Stat. 1708, provided that: “Nothing in this section \[adding section 1681b of this title, amending this section, and repealing section 1681c of this title\] shall be construed as requiring the Governor of the Northern Mariana Islands to submit any statement or report to the High Commissioner of the Trust Territory of the Pacific Islands.”
 

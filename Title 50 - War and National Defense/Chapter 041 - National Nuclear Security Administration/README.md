@@ -34,9 +34,9 @@
 
 |  |  |
 | :--- | ---: |
-| [2441\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002441%20-%20Authority%20to%20establish%20certain%20scientific%2C%20engineering%2C%20and%20technical%20positions.md) | Authority to establish certain scientific, engineering, and technical positions. |
-| [2442\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002442%20-%20Voluntary%20early%20retirement%20authority.md) | Voluntary early retirement authority. |
-| [2443\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002443%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73143%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201371.md) | Repealed. |
+| [2441\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002441%20-%20Authority%20to%20establish%20certain%20contracting%2C%20program%20management%2C%20scientific%2C%20engineering%2C%20and%20technical%20positions.md) | Authority to establish certain contracting, program management, scientific, engineering, and technical positions. |
+| [2441a.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002441a%20-%20Authorized%20personnel%20levels%20of%20the%20Office%20of%20the%20Administrator.md) | Authorized personnel levels of the Office of the Administrator. |
+| 2442, 2443. | Repealed. |
 | [2444\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002444%20-%20Nonproliferation%20and%20national%20security%20scholarship%20and%20fellowship%20program.md) | Nonproliferation and national security scholarship and fellowship program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,8 +79,7 @@
 |  |  |
 | :--- | ---: |
 | [2481\.](Subchapter%20007%20%28VII%29%20-%20Transition%20Provisions/%C2%A7%2002481%20-%20Functions%20transferred.md) | Functions transferred. |
-| [2482\.](Subchapter%20007%20%28VII%29%20-%20Transition%20Provisions/%C2%A7%2002482%20-%20Transfer%20of%20funds%20and%20employees.md) | Transfer of funds and employees. |
-| [2483\.](Subchapter%20007%20%28VII%29%20-%20Transition%20Provisions/%C2%A7%2002483%20-%20Transition%20provisions.md) | Transition provisions. |
+| 2482, 2483. | Repealed. |
 | [2484\.](Subchapter%20007%20%28VII%29%20-%20Transition%20Provisions/%C2%A7%2002484%20-%20Applicability%20of%20preexisting%20laws%20and%20regulations.md) | Applicability of preexisting laws and regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

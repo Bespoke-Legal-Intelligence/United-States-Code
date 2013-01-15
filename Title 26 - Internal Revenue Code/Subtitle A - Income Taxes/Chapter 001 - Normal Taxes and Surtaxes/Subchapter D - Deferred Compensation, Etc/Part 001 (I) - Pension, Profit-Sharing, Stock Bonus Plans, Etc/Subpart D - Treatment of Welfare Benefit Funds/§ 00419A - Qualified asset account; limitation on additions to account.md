@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (iv) Long-term disability or life insurance benefits
 
-&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safeharbor limit for any taxable year shall be the amount prescribed by regulations.
+&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safe harbor limit for any taxable year shall be the amount prescribed by regulations.
 
 #### (6) Additional reserve for medical benefits of bona fide association plans
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (2) Coordination with section 415
 
-&emsp;For purposes of section 415, any amount attributable to medical benefits allocated to an account established under paragraph (1) shall be treated as an annual addition to a defined contribution plan for purposes of section 415(c). Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.
+&emsp;For purposes of section 415, any amount attributable to medical benefits allocated to anaccount established under paragraph (1) shall be treated as an annual addition to a defined contribution plan for purposes of section 415(c). Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.
 
 #### (3) Key employee
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan whichmaintains experience-rating arrangements with respect to individual employers.
+&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan which maintains experience-rating arrangements with respect to individual employers.
 
 #### (B) 10 or more employer plan
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund's deemed unrelated income for the fund's taxable year ending within the employer's taxable year.
+&emsp;In the case of any welfare benefit fund which is not an organization described in paragraph\(7), (9), (17), or (20) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund's deemed unrelated income for the fund's taxable year ending within the employer's taxable year.
 
 #### (2) Deemed unrelated income
 
@@ -316,7 +316,7 @@ Subsec. (h)(1). Pub. L. 99–514, §1851(a)(6)(A), amended par. (1) generally. P
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VIII, §843(b), Aug. 17, 2006, 120 Stat. 1010, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 109–280, title VIII, §843(b), Aug. 17, 2006, 120 Stat. 1010, provided that: “The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 1988 Amendment
 
@@ -332,7 +332,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Section 419A(e) to Group-Term Life Insurance
 
-Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
+Pub. L. 99–514, title XVIII, §1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

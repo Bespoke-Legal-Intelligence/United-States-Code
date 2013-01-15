@@ -16,5 +16,5 @@ This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, a
 
 #### Urban Renewal Activities
 
-Section 107(4) of act Aug. 11, 1955, amended the heading of title III of the Territorial Enabling Act of 1950, this subchapter, to insert the words “urban renewal” in order to make financial assistance available for urban renewal projects.
+Act Aug. 11, 1955, ch. 783, title I, §107(4), 69 Stat. 638, amended the heading of title III of the Territorial Enabling Act of 1950, this subchapter, to insert the words “urban renewal” in order to make financial assistance available for urban renewal projects.
 

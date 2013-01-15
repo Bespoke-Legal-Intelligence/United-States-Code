@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;(2) the terms “transferor agency” and “transferor agencies” mean, respectively—
 
-&emsp;&emsp;(A) the Board of Governors (and any Federal reserve bank, as the context requires),the Federal Deposit Insurance Corporation, the Federal Trade Commission, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Department of Housing and Urban Development, and the heads of those agencies; and
+&emsp;&emsp;(A) the Board of Governors (and any Federal reserve bank, as the context requires), the Federal Deposit Insurance Corporation, the Federal Trade Commission, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Department of Housing and Urban Development, and the heads of those agencies; and
 
 &emsp;&emsp;(B) the agencies listed in subparagraph (A), collectively.
 
@@ -144,7 +144,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 &emsp;&emsp;&emsp;(i) the Federal Credit Union Act (12 U.S.C. 1751 et seq.), by the National Credit Union Administration Board with respect to any covered person or service provider that is an insured credit union, or service provider thereto, or any affiliate of an insured credit union, who is subject to the jurisdiction of the Board under that Act; and
 
-&emsp;&emsp;&emsp;(ii) section 1818 of this title, by the appropriate Federal banking agency, as defined in section 1813(q) of this title, with respect to a covered person or service provider that is a person described in section 1813(q) of this title and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
+&emsp;&emsp;&emsp;(ii) section 1818 of this title, by the appropriate Federal banking agency, as defined in section 1813(q) of this title, with respect to a covered person or service provider that is a person described in section1813(q) of this title and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
 
 &emsp;&emsp;&emsp;(iii) the Bank Service Company Act (12 U.S.C. 1861 et seq.).
 
@@ -156,7 +156,7 @@ Subsections (b) and (c) shall become effective on the designated transfer date.
 
 #### References in Text
 
-This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21,2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (b)(5)(B)(ii), (C), (E)(i), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 

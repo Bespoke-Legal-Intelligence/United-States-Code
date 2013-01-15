@@ -14,7 +14,7 @@
 
 <b>1993</b>—Pub. L. 103–182, title IV, §414(a)(3), Dec. 8, 1993, 107 Stat. 2147, inserted “the North American Free Trade Agreement or” in item 1584.
 
-<b>1988</b>—Pub. L. 100–449, title IV, §402(d)(2), Sept. 28, 1988, 102 Stat. 1884, added item 1584.
+<b>1988</b>—Pub. L. 100–449, title IV, §402(d)(2), Sept. 28, 1988, 102 Stat. 1884, temporarily added item 1584. See Effective and Termination Dates of 1988 Amendment note set out under section 1584 of this title.
 
 <b>1982</b>—Pub. L. 97–164, title I, §135, Apr. 2, 1982, 96 Stat. 41, struck out item 1584 “Cure of defects”.
 

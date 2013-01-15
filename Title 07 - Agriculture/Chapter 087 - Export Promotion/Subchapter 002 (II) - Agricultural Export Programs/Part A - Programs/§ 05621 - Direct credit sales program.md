@@ -72,5 +72,5 @@ Subsec. (f). Pub. L. 102–511, §707(c), added subsec. (f).
 
 #### Regulations
 
-Section 707(d) of Pub. L. 102–511 required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, §276, Apr. 4, 1996, 110 Stat. 977.
+Pub. L. 102–511, title VII, §707(d), Oct. 24, 1992, 106 Stat. 3351, required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, §276, Apr. 4, 1996, 110 Stat. 977.
 

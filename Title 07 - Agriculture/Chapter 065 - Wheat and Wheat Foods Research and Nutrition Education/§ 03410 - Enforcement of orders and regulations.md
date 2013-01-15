@@ -6,7 +6,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 #### (b) Penalties
 
-Any end product manufacturer or other person who willfully violates any provision of any order issued by the Secretary under this chapter, or who willfully fails or refuses to remit any assessment or fee duly required thereunder, shall be liable to a penalty of not more than $1,000 for each such offense which shall accrue to the United States and may be recovered in a civil suit brought by the United States.
+Any end product manufacturer or other person who willfully violates any provision of any orderissued by the Secretary under this chapter, or who willfully fails or refuses to remit any assessment or fee duly required thereunder, shall be liable to a penalty of not more than $1,000 for each such offense which shall accrue to the United States and may be recovered in a civil suit brought by the United States.
 
 #### (c) Other remedies
 

@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 86–671, §5(b), designated existing provisions of former 
 
 #### Effective Date of 1989 Amendment
 
-Section 911(i)\[(g)\] of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 164, 324, 1782, 1817, 1847, and 1882 of this title\] shall apply with respect to reports filed or required to be filed after the date of the enactment of this Act \[Aug. 9, 1989\].”
+Pub. L. 101–73, title IX, §911(i), Aug. 9, 1989, 103 Stat. 482, provided that: “The amendments made by this section \[amending this section and sections 164, 324, 1782, 1817, 1847, and 1882 of this title\] shall apply with respect to reports filed or required to be filed after the date of the enactment of this Act \[Aug. 9, 1989\].”
 
 #### Effective Date of 1960 Amendment
 

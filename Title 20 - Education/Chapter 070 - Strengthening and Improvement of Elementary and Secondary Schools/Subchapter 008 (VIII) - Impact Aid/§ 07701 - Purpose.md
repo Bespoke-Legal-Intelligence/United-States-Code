@@ -32,13 +32,13 @@ Pars. (5), (6). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(3)–(5
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: “This title \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later.”
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: “This title \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisionsset out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later.”
 
 #### Effective Date
 
 Pub. L. 103–382, §3(a)(1), Oct. 20, 1994, 108 Stat. 3518, provided that:
 
-“(A) Title I \[amending generally Pub. L. 89–10 (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of titleI that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
+“(A) Title I \[amending generally Pub. L. 89–10 (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
 
 “(B) Title VIII of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by title I of this Act, shall take effect on the date of the enactment of this Act \[Oct. 20, 1994\].”
 

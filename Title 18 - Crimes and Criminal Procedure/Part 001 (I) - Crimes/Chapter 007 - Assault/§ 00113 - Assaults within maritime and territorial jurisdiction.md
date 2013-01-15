@@ -10,7 +10,7 @@
 
 &emsp;(4) Assault by striking, beating, or wounding, by a fine under this title or imprisonment for not more than six months, or both.
 
-&emsp;(5) Simple assault, by a fine under this title or imprisonment for not more than sixmonths, or both, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both.
+&emsp;(5) Simple assault, by a fine under this title or imprisonment for not more than six months, or both, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both.
 
 &emsp;(6) Assault resulting in serious bodily injury, by a fine under this title or imprisonment for not more than ten years, or both.
 

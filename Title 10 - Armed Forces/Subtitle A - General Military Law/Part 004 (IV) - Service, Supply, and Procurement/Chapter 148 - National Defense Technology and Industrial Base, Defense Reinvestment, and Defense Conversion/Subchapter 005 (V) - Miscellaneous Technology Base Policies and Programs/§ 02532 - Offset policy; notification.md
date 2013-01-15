@@ -42,7 +42,7 @@ Pub. L. 108–87, title VIII, §8138, Sept. 30, 2003, 117 Stat. 1106, directed t
 
 #### Contractual Offset Arrangements; Congressional Statement of Findings
 
-Section 825(a) of Pub. L. 100–456 provided that: “Congress makes the following findings:
+Pub. L. 100–456, div. A, title VIII, §825(a), Sept. 29, 1988, 102 Stat. 2019, provided that: “Congress makes the following findings:
 
 &emsp;“(1) Many contracts entered into by United States firms for the supply of weapon systems or defense-related items to foreign countries and foreign firms are subject to contractual arrangements under which United States firms must agree—
 
@@ -72,7 +72,7 @@ Section 825(c) of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, ti
 
 “(2) In the negotiation or renegotiation of any memorandum of understanding between the United States and one or more foreign countries relating to the reciprocal procurement of defense equipment and supplies or research and development, the President shall make every effort to achieve an agreement with the country or countries concerned that would limit the adverse effects that offset arrangements have on the defense industrial base of the United States.”
 
-\[For delegation of functions of President under section 825(c) of Pub. L. 100–456 to Secretary of Defense and United States Trade Representative, see section 5–201 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
+\[For delegation of functions of President under section 825(c) of Pub. L. 100–456 to Secretary of Defense and United States Trade Representative, see section5–201 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
 
 #### Report to Congress on Offset Arrangements Required by Foreign Countries and Firms; Discussion of Policy Options
 

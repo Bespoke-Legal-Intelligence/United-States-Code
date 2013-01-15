@@ -112,7 +112,7 @@ The date of enactment of this subsection, referred to in subsec. (e)(3), is the 
 
 Subsecs. (d) to (h). Pub. L. 109–435, §404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
 
-“(d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legal representation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
+“(d) The Department of Justice shall furnish, under section 411 of this title, the Postal Service such legalrepresentation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
 “(e) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service.”
 

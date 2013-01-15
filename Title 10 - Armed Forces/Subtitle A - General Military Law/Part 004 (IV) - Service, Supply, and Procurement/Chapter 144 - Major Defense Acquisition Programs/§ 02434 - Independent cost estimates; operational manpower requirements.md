@@ -92,19 +92,19 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 #### Effective Date of 1986 Amendment
 
-Section 1208(d) of Pub. L. 99–661 provided that: “The amendments made by this section \[amending this section\] shall apply to approvals of full-scale engineering development and to approvals of production and deployment of major defense acquisition programs made after December 31, 1986.”
+Pub. L. 99–661, div. A, title XII, §1208(d), Nov. 14, 1986, 100 Stat. 3976, provided that: “The amendments made by this section \[amending this section\] shall apply to approvals of full-scale engineering development and to approvals of production and deployment of major defense acquisition programs made after December 31, 1986.”
 
 #### Effective Date
 
-Section 1203(b) of Pub. L. 98–94 provided that: “Section 139c \[now 2434\] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Pub. L. 98–94, title XII, §1203(b), Sept. 24, 1983, 97 Stat. 683, provided that: “Section 139c \[now 2434\] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 #### Report to Congress on Use of Independent Cost Estimates in Planning, Programing, Budgeting, and Selection for Major Defense Acquisition Programs
 
 Pub. L. 99–145, title IX, §952, Nov. 8, 1985, 99 Stat. 701, directed Secretary of Defense, not later than Apr. 1, 1986, to submit to Congress a report on the continued use of independent cost estimates in the planning, programing, budgeting, and selection process for major defense acquisition programs of the Department.
 
-Section 1203(c) of Pub. L. 98–94 directed Secretary of Defense, not later than May 1, 1984, to submit a written report to Congress on use of independent cost estimates in planning, programing, budgeting, and selection process for major defense acquisition programs in Department, such report to include an overall assessment of extent to which such estimates were adopted by Department in making decisions on the FY 1985 budget and a general explanation of why such estimates might have been modified or rejected, and a discussion of current and future initiatives to make greater or more productive use of independent cost estimates in the Department.
+Pub. L. 98–94, title XII, §1203(c), Sept. 24, 1983, 97 Stat. 683, directed Secretary of Defense, not later than May 1, 1984, to submit a written report to Congress on use of independent cost estimates in planning, programing, budgeting, and selection process for major defense acquisition programs in Department, such report to include an overall assessment of extent to which such estimates were adopted by Department in making decisions on the FY 1985 budget and a general explanation of why such estimates might have been modified or rejected, and a discussion of current and future initiatives to make greater or more productive use of independent cost estimates in the Department.
 
 #### Allocation of Adequate Personnel and Financial Resources in Developing or Assessing Independent Estimates of Costs
 
-Section 1203(d) of Pub. L. 98–94 provided that: “It is the sense of the Congress that the Secretary of Defense should ensure that adequate personnel and financial resources are allocated at all levels of the Department of Defense to those organizations or offices charged with developing or assessing independent estimates of the costs of major defense acquisition programs.”
+Pub. L. 98–94, title XII, §1203(d), Sept. 24, 1983, 97 Stat. 683, provided that: “It is the sense of the Congress that the Secretary of Defense should ensure that adequate personnel and financial resources are allocated at all levels of the Department of Defense to those organizations or offices charged with developing or assessing independent estimates of the costs of major defense acquisition programs.”
 

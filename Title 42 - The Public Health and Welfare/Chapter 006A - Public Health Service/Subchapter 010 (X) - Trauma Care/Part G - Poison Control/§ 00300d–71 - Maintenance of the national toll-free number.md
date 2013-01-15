@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phone number, and the maintenance of such number, to be used to access such centers.
+The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phonenumber, and the maintenance of such number, to be used to access such centers.
 
 #### (b) Authorization of appropriations
 

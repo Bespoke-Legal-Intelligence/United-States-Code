@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (f) Restricted bank director stock
 
-If a director receives a distribution (not in part or full payment in exchange for stock) froman S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
+If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
 
 &emsp;(1) shall be includible in gross income of the director, and
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revis
 
 #### Effective Date of 1983 Amendment
 
-Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
+Pub. L. 97–448, title III, §311(c)(4), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 The purposes of this part are as follows:
 
-&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution or from exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
+&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution orfrom exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
 
 &emsp;(2) to preserve, protect, and enhance the air quality in national parks, national wilderness areas, national monuments, national seashores, and other areas of special national or regional natural, recreational, scenic, or historic value;
 
@@ -20,11 +20,11 @@ Subpart effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 
 #### Guidance Document
 
-Section 127(c) of Pub. L. 95–95 required Administrator, not later than 1 year after Aug. 7, 1977, to publish a guidance document to assist States in carrying out their functions under part C of title I of the Clean Air Act (this part) with respect to pollutants for which national ambient air quality standards are promulgated.
+Pub. L. 95–95, title I, §127(c), Aug. 7, 1977, 91 Stat. 741, required Administrator, not later than 1 year after Aug. 7, 1977, to publish a guidance document to assist States in carrying out their functions under part C of title I of the Clean Air Act (this part) with respect to pollutants for which national ambient air quality standards are promulgated.
 
 #### Study and Report on Progress Made in Program Relating to Significant Deterioration of Air Quality
 
-Section 127(d) of Pub. L. 95–95 directed Administrator, not later than 2 years after Aug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
+Pub. L. 95–95, title I, §127(d), Aug. 7, 1977, 91 Stat. 742, directed Administrator, not later than 2 years after Aug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “anticipated”.</i>
 

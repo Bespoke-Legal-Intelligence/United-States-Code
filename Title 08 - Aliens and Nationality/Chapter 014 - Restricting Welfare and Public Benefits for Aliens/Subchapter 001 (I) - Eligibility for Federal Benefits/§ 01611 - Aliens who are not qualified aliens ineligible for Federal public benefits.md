@@ -82,7 +82,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Additional Funding for State Emergency Health Services Furnished to Undocumented Aliens
 
-Section 4723 of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4723, Aug. 5, 1997, 111 Stat. 515, provided that:
 
 “(a)
 
@@ -102,7 +102,7 @@ Determination.—For purposes of paragraph (1), the number of undocumented alien
 
 “(c)
 
-Use of Funds.—From the allotments made under subsection (b), the Secretary shall pay to each State amounts the State demonstrates were paid by the State (or by a political subdivision of the State) for emergency health services furnished to undocumented aliens.
+Use of Funds.—From the allotments made under subsection (b), the Secretary shall pay to each Stateamounts the State demonstrates were paid by the State (or by a political subdivision of the State) for emergency health services furnished to undocumented aliens.
 
 “(d)
 

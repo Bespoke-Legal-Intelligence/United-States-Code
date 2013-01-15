@@ -42,9 +42,9 @@
 
 &emsp;(2) only to the extent not inconsistent with any relief granted under subsection (c), (d), (e), or (f) of section 362.
 
-(e) Notwithstanding any other provision of this section, at any time, on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
+(e) Notwithstanding any other provision of this section, at any time, on request of an entitythat has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
 
-(f) The trustee may sell property under subsection (b) or (c) of this section free and clear ofany interest in such property of an entity other than the estate, only if—
+(f) The trustee may sell property under subsection (b) or (c) of this section free and clear of any interest in such property of an entity other than the estate, only if—
 
 &emsp;(1) applicable nonbankruptcy law permits sale of such property free and clear of such interest;
 
@@ -74,13 +74,13 @@
 
 (k) At a sale under subsection (b) of this section of property that is subject to a lien that secures an allowed claim, unless the court for cause orders otherwise the holder of such claim may bid at such sale, and, if the holder of such claim purchases such property, such holder may offset such claim against the purchase price of such property.
 
-(<i>l</i>) Subject to the provisions of section 365, the trustee may use, sell, or lease property under subsection (b) or (c) of this section, or a plan under chapter 11, 12, or 13 of this title may provide for the use, sale, or lease of property, notwithstanding any provision in a contract, a lease, or applicable law that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title concerning the debtor, or on the appointment of or the taking possession by a trustee in a case under this title or a custodian, and that effects, or gives an option to effect, a forfeiture, modification, or termination of the debtor's interest in such property.
+(l) Subject to the provisions of section 365, the trustee may use, sell, or lease property under subsection (b) or (c) of this section, or a plan under chapter 11, 12, or 13 of this title may provide for the use, sale, or lease of property, notwithstanding any provision in a contract, a lease, or applicable law that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title concerning the debtor, or on the appointment of or the taking possession by a trustee in a case under this title or a custodian, and that effects, or gives an option to effect, a forfeiture, modification, or termination of the debtor's interest in such property.
 
 (m) The reversal or modification on appeal of an authorization under subsection (b) or (c) of this section of a sale or lease of property does not affect the validity of a sale or lease under such authorization to an entity that purchased or leased such property in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and such sale or lease were stayed pending appeal.
 
 (n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys’ fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
 
-(<i>o</i>) Notwithstanding subsection (f), if a person purchases any interest in a consumer credit transaction that is subject to the Truth in Lending Act or any interest in a consumer credit contract (as defined in section 433.1 of title 16 of the Code of Federal Regulations (January 1, 2004), as amended from time to time), and if such interest is purchased through a sale under this section, then such person shall remain subject to all claims and defenses that are related to such consumer credit transaction or such consumer credit contract, to the same extent as such person would be subject to such claims and defenses of the consumer had such interest been purchased at a sale not under this section.
+(o) Notwithstanding subsection (f), if a person purchases any interest in a consumer credit transaction that is subject to the Truth in Lending Act or any interest in a consumer credit contract (as defined in section 433.1 of title 16 of the Code of Federal Regulations (January 1, 2004), as amended from time to time), and if such interest is purchased through a sale under this section, then such person shall remain subject to all claims and defenses that are related to such consumer credit transaction or such consumer credit contract, to the same extent as such person would be subject to such claims and defenses of the consumer had such interest been purchased at a sale not under this section.
 
 (p) In any hearing under this section—
 
@@ -88,13 +88,13 @@
 
 &emsp;(2) the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371;Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
 #### legislative statements
 
-Section 363(a) of the House amendment defines “cash collateral” as defined in the Senate amendment. Thebroader definition of “soft collateral” contained in H.R. 8200 as passed by the House is deleted to remove limitations that were placed on the use, lease, or sale of inventory, accounts, contract rights, general intangibles, and chattel paper by the trustee or debtor in possession.
+Section 363(a) of the House amendment defines “cash collateral” as defined in the Senate amendment. The broader definition of “soft collateral” contained in H.R. 8200 as passed by the House is deleted to remove limitations that were placed on the use, lease, or sale of inventory, accounts, contract rights, general intangibles, and chattel paper by the trustee or debtor in possession.
 
 Section 363(c)(2) of the House amendment is derived from the Senate amendment. Similarly, sections 363(c)(3) and (4) are derived from comparable provisions in the Senate amendment in lieu of the contrary procedure contained in section 363(c) as passed by the House. The policy of the House amendment will generally require the court to schedule a preliminary hearing in accordance with the needs of the debtor to authorize the trustee or debtor in possession to use, sell, or lease cash collateral. The trustee or debtor in possession may use, sell, or lease cash collateral in the ordinary course of business only “after notice and a hearing.”
 
@@ -124,13 +124,13 @@ Subsection (g) permits the trustee to sell free and clear of any vested or conti
 
 Subsection (h) permits sale of a co-owner's interest in property in which the debtor had an undivided ownership interest such as a joint tenancy, a tenancy in common, or a tenancy by the entirety. Such a sale is permissible only if partition is impracticable, if sale of the estate's interest would realize significantly less for the estate that sale of the property free of the interests of the co-owners, and if the benefit to the estate of such a sale outweighs any detriment to the co-owners. This subsection does not apply to a co-owner's interest in a public utility when a disruption of the utilities services could result.
 
-Subsection (i) provides protections for co-owners and spouses with dower, curtesy, or community property rights. It gives a right of first refusal to the co-owner or spouse at the price at which the sale is to be consummated.
+Subsection (i) provides protections for co-owners and spouses with dower, curtesy, or community property rights. It gives a right of first refusal to the co-owneror spouse at the price at which the sale is to be consummated.
 
 Subsection (j) requires the trustee to distribute to the spouse or co-owner the appropriate portion of the proceeds of the sale, less certain administrative expenses.
 
-Subsection (k) \[enacted as (<i>l</i>)\] permits the trustee to use, sell, or lease property notwithstanding certain bankruptcy or ipso facto clauses that terminate the debtor's interest in the property or that work a forfeiture or modification of that interest. This subsection is not as broad as the anti-ipso facto provision in proposed 11 U.S.C. 541(c)(1).
+Subsection (k) \[enacted as (l)\] permits the trustee to use, sell, or lease property notwithstanding certain bankruptcy or ipso facto clauses that terminate the debtor's interest in the property or that work a forfeiture or modification of that interest. This subsection is not as broad as the anti-ipso facto provision in proposed 11 U.S.C. 541(c)(1).
 
-Subsection (<i>l</i>) \[enacted as (m)\] protects good faith purchasers of property sold under this section from a reversal on appeal of the sale authorization, unless the authorization for the sale and the sale itself were stayed pending appeal. The purchaser's knowledge of the appeal is irrelevant to the issue of good faith.
+Subsection (l) \[enacted as (m)\] protects good faith purchasers of property sold under this section from a reversal on appeal of the sale authorization, unless the authorization for the sale and the sale itself were stayed pending appeal. The purchaser's knowledge of the appeal is irrelevant to the issue of good faith.
 
 Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property sold under this section. It permits the trustee to void a sale if the price of the sale was controlled by an agreement among potential bidders. The trustees may also recover the excess of the value of the property over the purchase price, and may recover any costs, attorney's fees, or expenses incurred in voiding the sale or recovering the difference. In addition, the court is authorized to grant judgment in favor of the estate and against the collusive bidder if the agreement controlling the sale price was entered into in willful disregard of this subsection. The subsection does not specify the precise measure of damages, but simply provides for punitive damages, to be fixed in light of the circumstances.
 
@@ -138,7 +138,7 @@ Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property s
 
 Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to section 18a of Title 15, Commerce and Trade.
 
-The Truth in Lending Act, referred to in subsec. (<i>o</i>), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Subsec. (d)(2). Pub. L. 111–327, §2(a)(13)(C), inserted “only” before “
 
 Subsec. (d). Pub. L. 109–8, §1221(a), substituted “only—” and pars. (1) and (2) for “only to the extent not inconsistent with any relief granted under section 362(c), 362(d), 362(e), or 362(f) of this title.”
 
-Subsecs. (<i>o</i>), (p). Pub. L. 109–8, §204, added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
+Subsecs. (o), (p). Pub. L. 109–8, §204, added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–394, §214(b), inserted “and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties” after “property”.
 
@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 103–394, §219(c), inserted at end “This subsection als
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–554, §257(k)(1), inserted reference to sections 1203 and 1204 of this title.
 
-Subsec. (<i>l</i>). Pub. L. 99–554, §257(k)(2), inserted reference to chapter 12.
+Subsec. (l). Pub. L. 99–554, §257(k)(2), inserted reference to chapter 12.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §442(a), inserted “whenever acquired” after “equivalents” and “and includes the proceeds, products, offspring, rents, or profits of property subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title” after “interest”.
 
@@ -184,17 +184,17 @@ Subsec. (j). Pub. L. 98–353, §442(f), substituted “compensation” for “c
 
 Subsec. (k). Pub. L. 98–353, §442(g), substituted “unless the court for cause orders otherwise the holder of such claim may bid at such sale, and, if the holder” for “if the holder”.
 
-Subsec. (<i>l</i>). Pub. L. 98–353, §442(h), substituted “Subject to the provisions of section 365, the trustee” for “The trustee”, “condition” for “conditions”, “or the taking” for “a taking”, and “interest” for “interests”.
+Subsec. (l). Pub. L. 98–353, §442(h), substituted “Subject to the provisions of section 365, the trustee” for “The trustee”, “condition” for “conditions”, “or the taking” for “a taking”, and “interest” for “interests”.
 
 Subsec. (n). Pub. L. 98–353, §442(i), substituted “avoid” for “void”, “avoiding” for “voiding”, and “In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection” for “The court may grant judgment in favor of the estate and against any such party that entered into such agreement in willful disregard of this subsection for punitive damages in addition to any recovery under the preceding sentence”.
 
-Subsec. (<i>o</i>). Pub. L. 98–353, §442(j), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 98–353, §442(j), added subsec. (o).
 
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–8, title XII, §1221(d), Apr. 20, 2005, 119 Stat. 196, provided that: “The amendments made by this section \[amending this section and sections 541 and 1129 of this title and enacting provisions set out as a note under this section\] shall apply to a case pending under title 11, United States Code, on the date of enactment of this Act \[Apr. 20, 2005\], or filed under that title on or after that date of enactment, except that the court shall not confirm a plan under chapter 11 of title 11, United States Code, without considering whether this section would substantially affect the rights of a party in interest who first acquired rights with respect to the debtor after the date of the filing of the petition. The parties who may appear and be heard in a proceeding under this section include the attorney general of the State in which the debtor is incorporated, was formed, or does business.”
 
-Amendment by sections 204 and 231(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 204 and 231(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicablewith respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

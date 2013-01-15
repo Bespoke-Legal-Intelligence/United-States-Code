@@ -12,7 +12,7 @@ The section, as originally enacted, limited the amount to be drawn for the work,
 
 #### Amendments
 
-<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in removing snags, etc., from the Ohio River, as provided inthis section, should accompany the annual report of the Chief of Engineers.
+<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in removing snags, etc., from the Ohio River, as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

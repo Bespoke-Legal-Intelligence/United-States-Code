@@ -48,5 +48,5 @@ In subsection (c), the words “as the Surgeon General” are omitted, since the
 
 #### Delegation of Authority
 
-Authority of President under subsec. (a) of this section to prescribe uniform military ration applicable to Air Force delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (a) of this section to prescribe uniform military ration applicable toAir Force delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 

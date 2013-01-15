@@ -24,7 +24,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90Stat. 1150, as amended. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
 The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§6321 et seq.) and E (§6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 

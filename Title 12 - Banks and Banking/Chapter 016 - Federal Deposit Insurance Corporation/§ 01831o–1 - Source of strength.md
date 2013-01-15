@@ -10,7 +10,7 @@ If an insured depository institution is not the subsidiary of a bank holding com
 
 #### (c) Reports
 
-The appropriate Federal banking agency for an insured depository institution described in subsection (b) may, from time to time, require the company, or a company that directly or indirectly controls the insured depository institution, to submit a report, under oath, for the purposes of—
+The appropriate Federal banking agency for an insured depository institution described in subsection (b) may, from time to time, requirethe company, or a company that directly or indirectly controls the insured depository institution, to submit a report, under oath, for the purposes of—
 
 &emsp;(1) assessing the ability of such company to comply with the requirement under subsection (b); and
 

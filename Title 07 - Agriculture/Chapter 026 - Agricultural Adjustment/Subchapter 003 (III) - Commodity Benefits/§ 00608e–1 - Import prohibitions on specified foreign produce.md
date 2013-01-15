@@ -78,7 +78,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1954 Amendment
 
-Section 3(b) of act Aug. 31, 1954, provided that: “The amendment made by this section \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 31, 1954\] or upon the enactment of the Agricultural Act of 1954 \[Aug. 28, 1954\], whichever occurs later.”
+Act Aug. 31, 1954, ch. 1172, §3(b), 68 Stat. 1047, provided that: “The amendment made by this section \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 31, 1954\] or upon the enactment of the Agricultural Act of 1954 \[Aug. 28, 1954\], whichever occurs later.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

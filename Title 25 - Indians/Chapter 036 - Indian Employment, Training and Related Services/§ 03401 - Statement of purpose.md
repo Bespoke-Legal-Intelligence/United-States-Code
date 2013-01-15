@@ -10,7 +10,7 @@ Pub. L. 106–568, title XI, §1101, Dec. 27, 2000, 114 Stat. 2930, provided tha
 
 #### Short Title
 
-Section 1 of Pub. L. 102–477 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Employment, Training and Related Services Demonstration Act of 1992’.”
+Pub. L. 102–477, §1, Oct. 23, 1992, 106 Stat. 2302, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Employment, Training and Related Services Demonstration Act of 1992’.”
 
 #### Congressional Findings and Purposes
 

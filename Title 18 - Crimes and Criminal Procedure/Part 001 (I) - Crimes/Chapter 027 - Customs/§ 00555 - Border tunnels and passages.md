@@ -6,9 +6,31 @@
 
 (c) Any person who uses a tunnel or passage described in subsection (a) to unlawfully smuggle an alien, goods (in violation of section 545), controlled substances, weapons of mass destruction (including biological weapons), or a member of a terrorist organization (as defined in section 2339B(g)(6)) shall be subject to a maximum term of imprisonment that is twice the maximum term of imprisonment that would have otherwise been applicable had the unlawful activity not made use of such a tunnel or passage.
 
-(Added Pub. L. 109–295, title V, §551(a), Oct. 4, 2006, 120 Stat. 1389, §554; renumbered §555, Pub. L. 110–161, div. E, title V, §553(a)(1), Dec. 26, 2007, 121 Stat. 2082.)
+(d) Any person who attempts or conspires to commit any offense under subsection (a) or subsection (c) of this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
+
+(Added Pub. L. 109–295, title V, §551(a), Oct. 4, 2006, 120 Stat. 1389, §554; renumbered §555, Pub. L. 110–161, div. E, title V, §553(a)(1), Dec. 26, 2007, 121 Stat. 2082; amended Pub. L. 112–127, §3, June 5, 2012, 126 Stat. 371.)
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–127 added subsec. (d).
+
 <b>2007</b>—Pub. L. 110–161 renumbered section 554, relating to border tunnels and passages, as this section.
+
+#### Findings
+
+Pub. L. 112–127, §2, June 5, 2012, 126 Stat. 370, provided that: “Congress finds the following:
+
+&emsp;“(1) Trafficking and smuggling organizations are intensifying their efforts to enter the United States through tunnels and other subterranean passages between Mexico and the United States.
+
+&emsp;“(2) Border tunnels are most often used to transport narcotics from Mexico to the United States, but can also be used to transport people and other contraband.
+
+&emsp;“(3) From Fiscal Year 1990 to Fiscal Year 2011, law enforcement authorities discovered 149 cross-border tunnels along the border between Mexico and the United States, 139 of which have been discovered since Fiscal Year 2001. There has been a dramatic increase in the number of cross-border tunnels discovered in Arizona and California since Fiscal Year 2006, with 40 tunnels discovered in California and 74 tunnels discovered in Arizona.
+
+&emsp;“(4) Section 551 of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) added a new section to title 18, United States Code (18 U.S.C. 555), which—
+
+&emsp;&emsp;“(A) criminalizes the construction or financing of an unauthorized tunnel or subterranean passage across an international border into the United States; and
+
+&emsp;&emsp;“(B) prohibits any person from recklessly permitting others to construct or use an unauthorized tunnel or subterranean passage on the person's land.
+
+&emsp;“(5) Any person convicted of using a tunnel or subterranean passage to smuggle aliens, weapons, drugs, terrorists, or illegal goods is subject to an enhanced sentence for the underlying offense. Additional sentence enhancements would further deter tunnel activities and increase prosecutorial options.”
 

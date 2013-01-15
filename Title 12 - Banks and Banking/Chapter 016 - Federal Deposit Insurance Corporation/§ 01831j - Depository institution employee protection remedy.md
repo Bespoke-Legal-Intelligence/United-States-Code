@@ -54,7 +54,7 @@ For purposes of subsections (a) and (c) of this section, the term “Federal ban
 
 The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5 shall govern adjudication of protected activities under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204, §21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L. 103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
+(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204,§21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L. 103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
 
 #### Amendments
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 1991 Amendment
 
-Section 251(a)(4) of Pub. L. 102–242 provided that: “Paragraph (2) of section 33(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1831j(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of thisAct \[Dec. 19, 1991\], the 2-year period referred to in section 33(b) of such Act shall be deemed to begin on such date of enactment.”
+Pub. L. 102–242, title II, §251(a)(4), Dec. 19, 1991, 105 Stat. 2332, provided that: “Paragraph (2) of section 33(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1831j(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act \[Dec. 19, 1991\], the 2-year period referred to in section 33(b) of such Act shall be deemed to begin on such date of enactment.”
 

@@ -16,13 +16,13 @@ The Director shall organize and chair a coordinating committee to examine and ma
 
 #### References in Text
 
-Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in section 5315 of Title 5, Government Organization and Employees.
+Level IV of the Executive Schedule, referred to in subsec. (b), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1323(k)(1), substituted “under the Board” for “within the United States Information Agency”.
 
-Subsec. (b). Pub. L. 105–277, §1323(k)(2)–(4), redesignated par. (1) as entire subsec. (b), substituted “President, by and with the advice and consent of the Senate” for “Chairman of the Board, in consultation with the Director of the United States Information Agencyand with the concurrence of a majority of the Board”, and struck out par. (2) which amended section 5315 of Title 5, Government Organization and Employees.
+Subsec. (b). Pub. L. 105–277, §1323(k)(2)–(4), redesignated par. (1) as entire subsec. (b), substituted “President, by and with the advice and consent of the Senate” for “Chairman of the Board, in consultation with the Director of the United States Information Agency and with the concurrence of a majority of the Board”, and struck out par. (2) which amended section 5315 of Title 5, Government Organization and Employees.
 
 Subsec. (c). Pub. L. 105–277, §1323(k)(5), added subsec. (c).
 

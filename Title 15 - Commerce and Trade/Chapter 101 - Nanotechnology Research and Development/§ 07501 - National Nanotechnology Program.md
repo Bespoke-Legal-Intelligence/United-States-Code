@@ -50,7 +50,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(C) insofar as possible, integrating research on societal, ethical, and environmental concerns with nanotechnology research and development, and ensuring that advances in nanotechnology bring about improvements in quality of life for all Americans; and
 
-&emsp;&emsp;(D) providing, through the National Nanotechnology Coordination Office established in section 7502 of this title, for public input and outreach to be integrated into the Program by the convening of regular and ongoing public discussions, through mechanisms such as citizens’ panels, consensusconferences, and educational events, as appropriate; and
+&emsp;&emsp;(D) providing, through the National Nanotechnology Coordination Office established in section 7502 of this title, for public input and outreach to be integrated into the Program by the convening of regular and ongoing public discussions, through mechanisms such as citizens’ panels, consensus conferences, and educational events, as appropriate; and
 
 &emsp;(11) encouraging research on nanotechnology advances that utilize existing processes and technologies.
 

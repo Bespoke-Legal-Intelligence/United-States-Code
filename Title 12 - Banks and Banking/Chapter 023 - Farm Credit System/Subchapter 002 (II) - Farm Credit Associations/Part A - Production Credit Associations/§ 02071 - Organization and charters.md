@@ -12,7 +12,7 @@ Each production credit association shall continue as a Federally chartered instr
 
 #### (2) Articles of association
 
-&emsp;The proposed articles of association shall be forwarded to the Farm Credit Bank for the district accompanied by an agreement to subscribe on behalf of the association for stock in the bank in such amounts as may be required by the bank.
+&emsp;The proposed articles of association shall be forwarded to the Farm Credit Bank for thedistrict accompanied by an agreement to subscribe on behalf of the association for stock in the bank in such amounts as may be required by the bank.
 
 #### (3) Contents of articles
 
@@ -64,7 +64,7 @@ A prior section 2071, Pub. L. 92–181, title II, §2.0, Dec. 10, 1971, 85 Stat.
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(m)(1), substituted “this part” for “this subchapter”.
 
-Subsec. (b)(3)(B). Pub. L. 100–399, §401(m)(2), (3), struck out “the” before “powers” and substituted “thissubtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
+Subsec. (b)(3)(B). Pub. L. 100–399, §401(m)(2), (3), struck out “the” before “powers” and substituted “this subtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
 
 Subsec. (b)(3)(C). Pub. L. 100–399, §401(m)(3), struck out “the” before “territory”.
 
@@ -80,11 +80,11 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Effective Date
 
-Section 401 of Pub. L. 100–233 provided in part that this subchapter is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this subchapter is effective 6 months after Jan. 6, 1988.
 
 #### Merger of Production Credit Associations and Federal Land Bank Associations
 
-Section 411 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §403, Aug. 17, 1988, 102 Stat. 999, provided that:
+Pub. L. 100–233, title IV, §411, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, §403, Aug. 17, 1988, 102 Stat. 999, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Direct Lenders.—On approval of a merger under this subsection, the resulting a
 
 #### Reassignment of Associations to Adjoining Districts
 
-Section 433 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §417, Aug. 17, 1988, 102 Stat. 1004, provided that:
+Pub. L. 100–233, title IV, §433, Jan. 6, 1988, 101 Stat. 1662, as amended by Pub. L. 100–399, title IV, §417, Aug. 17, 1988, 102 Stat. 1004, provided that:
 
 “(a)
 

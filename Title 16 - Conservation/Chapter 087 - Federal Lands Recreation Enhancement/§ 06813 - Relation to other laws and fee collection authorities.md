@@ -32,7 +32,7 @@ Forest service” in the Act of March 4, 1913 (16 U.S.C. 501).
 
 &emsp;(10) Section 618a of title 43.
 
-&emsp;(11) The Federal Water Project Recreation Act (16 U.S.C. 460<i>l</i>–12 et seq.).
+&emsp;(11) The Federal Water Project Recreation Act (16 U.S.C. 460l–12 et seq.).
 
 &emsp;(12) Section 391 of title 43.
 
@@ -68,13 +68,13 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 Section 6805 of this title, referred to in subsec. (b), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874,as amended. Title II of the Act enacted section 1181f of Title 43, Public Lands, and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
+The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, as amended. Title II of the Act enacted section 1181f of Title 43, Public Lands, and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch. 144, 53 Stat. 753, which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. Sections 1 to 3 and titles I to IV of the Act were set out as notes under section 500 of this title prior to the repeal and reenactment of sections 1 to 403 of the Act by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893–3910. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460l–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
 The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 

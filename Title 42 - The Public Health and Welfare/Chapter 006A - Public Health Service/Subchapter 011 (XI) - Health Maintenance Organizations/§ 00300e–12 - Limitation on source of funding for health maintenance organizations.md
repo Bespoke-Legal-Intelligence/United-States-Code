@@ -30,5 +30,5 @@ Par. (4). Pub. L. 95–559 inserted “or in meeting the costs of such organizat
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
-<i><sup>1</sup></i><i> See References in Text notes below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

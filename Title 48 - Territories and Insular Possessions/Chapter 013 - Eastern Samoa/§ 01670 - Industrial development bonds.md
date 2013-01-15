@@ -32,7 +32,7 @@ Section 103, referred to in subsec. (a), which related to interest on certain go
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–326, §2, Oct. 16, 2004, 118 Stat. 1270, provided that: “This Act \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 16, 2004\].”
+Pub. L. 108–326, §2, Oct. 16, 2004, 118 Stat. 1270, provided that: “This Act \[amending this section\] shallapply to obligations issued after the date of the enactment of this Act \[Oct. 16, 2004\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

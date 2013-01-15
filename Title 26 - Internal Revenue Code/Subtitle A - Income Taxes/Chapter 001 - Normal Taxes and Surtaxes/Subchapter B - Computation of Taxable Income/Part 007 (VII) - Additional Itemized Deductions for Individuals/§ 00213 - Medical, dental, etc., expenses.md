@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
+There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
 
 #### (b) Limitation with respect to medicine and drugs
 
@@ -156,25 +156,25 @@ Certain payments to relatives treated as not paid for medical care.—An amount 
 
 Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
+#### (f) Special rule for 2013, 2014, 2015, and 2016
+
+In the case of any taxable year beginning after December 31, 2012, and ending before January 1, 2017, subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” if such taxpayer or such taxpayer's spouse has attained age 65 before the close of such taxable year.
+
 (Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 111–148, title IX, §9013(a), (b), Mar. 23, 2010, 124 Stat. 868.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>Pub. L. 111–148, title IX, §9013(a), (b), (d), Mar. 23, 2010, 124 Stat. 868, provided that, applicable to taxable years beginning after Dec. 31, 2012, this section is amended (1) in subsection (a), by striking “7.5 percent” and inserting “10 percent”; and (2) by adding at the end the following new subsection:</i>
-
-#### <i>(f) Special rule for 2013, 2014, 2015, and 2016</i>
-
-<i>In the case of any taxable year beginning after December 31, 2012, and ending before January 1, 2017, subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” if such taxpayer or such taxpayer's spouse has attained age 65 before the close of such taxable year.</i>
-
 #### References In Text
 
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §9013(a), substituted “10 percent” for “7.5 percent”.
+
+Subsec. (f). Pub. L. 111–148, §9013(b), added subsec. (f).
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–311, §207(17), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) ofPub. L. 104–191, set out as a note under section 162 of this title.
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) of Pub. L. 104–191, set out as a note under section 162 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 11111(d)(1) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11111(f) of Pub. L. 101–508, set out as a note under section 32 of this title.
 
-Section 11342(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11342(b), Nov. 5, 1990, 104 Stat. 1388–472, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
 #### Effective Date of 1986 Amendment
 
@@ -322,13 +322,13 @@ Amendment by section 423(b) of Pub. L. 98–369 applicable to taxable years begi
 
 Amendment by section 474(r)(9) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 482(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 152 of this title\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title IV, §482(c), July 18, 1984, 98 Stat. 848, provided that: “The amendments made by this section \[amending this section and section 152 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
 Amendment by section 711(b) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 
-Section 202(c) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §202(c), Sept. 3, 1982, 96 Stat. 421, provided that:
 
 “(1)
 
@@ -344,23 +344,23 @@ Amendment by section 504(c)(1) of Pub. L. 94–455 applicable to taxable years b
 
 #### Effective Date of 1965 Amendment
 
-Section 106(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shall apply to taxable years beginning after December 31, 1966.”
+Pub. L. 89–97, title I, §106(e), July 30, 1965, 79 Stat. 337, provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shall apply to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1964 Amendment
 
-Section 211(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §211(b), Feb. 26, 1964, 78 Stat. 49, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1962 Amendment
 
-Section 1(c) of Pub. L. 87–863 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1961.”
+Pub. L. 87–863, §1(c), Oct. 23, 1962, 76 Stat. 1141, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1961.”
 
 #### Effective Date of 1960 Amendment
 
-Section 3(b) of Pub. L. 86–470 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1959.”
+Pub. L. 86–470, §3(b), May 14, 1960, 74 Stat. 133, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1959.”
 
 #### Effective Date of 1958 Amendment
 
 Amendment by section 16 of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 17(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, §17(c), Sept. 2, 1958, 72 Stat. 1614, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1957.”
 

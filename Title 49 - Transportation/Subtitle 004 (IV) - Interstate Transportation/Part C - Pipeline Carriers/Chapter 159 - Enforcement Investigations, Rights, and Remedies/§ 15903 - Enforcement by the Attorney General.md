@@ -6,7 +6,7 @@ On Behalf of Board.—The Attorney General may, and on request of the Board shal
 
 (b)
 
-On Behalf of Others.—The United States Government may bring a civil action on behalf of a person to compel a pipeline carrier providing transportation or service subject to this part to provide that transportation or service to that person in compliance with this part at the same rate charged, or on conditions as favorable as those given by the carrier, for like traffic under similar conditions to another person.
+On Behalf of Others.—The United States Government may bring a civil action on behalf of a person to compel a pipeline carrier providing transportation or service subject to this part to provide that transportation or service to that person in compliance with this part at the same rate charged, or on conditions as favorable asthose given by the carrier, for like traffic under similar conditions to another person.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 927.)
 

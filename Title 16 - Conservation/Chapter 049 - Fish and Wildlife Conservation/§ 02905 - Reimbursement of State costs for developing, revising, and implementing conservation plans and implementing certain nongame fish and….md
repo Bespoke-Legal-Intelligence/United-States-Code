@@ -20,7 +20,7 @@ Application for reimbursement under this section shall be made in such manner as
 
 #### (c) Eligibility
 
-No State is eligible for reimbursement under this section unless the Secretary finds that the costs, for which reimbursement is sought, have been incurred by the State as follows:
+No State is eligible for reimbursement under this section unless the Secretary finds that thecosts, for which reimbursement is sought, have been incurred by the State as follows:
 
 &emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs have been incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
 

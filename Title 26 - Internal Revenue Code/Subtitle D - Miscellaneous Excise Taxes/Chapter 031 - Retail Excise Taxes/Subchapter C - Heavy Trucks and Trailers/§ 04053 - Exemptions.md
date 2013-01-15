@@ -92,7 +92,7 @@ For provisions of prior sections 4054 to 4058 of this title, see Prior Provision
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, provided that: “The amendment made bythis section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 2004 Amendment
 

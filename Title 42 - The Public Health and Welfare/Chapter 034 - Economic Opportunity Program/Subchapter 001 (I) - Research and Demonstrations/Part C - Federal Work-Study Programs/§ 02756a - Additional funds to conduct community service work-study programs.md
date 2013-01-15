@@ -70,5 +70,5 @@ Section applicable to periods of enrollment beginning on or after July 1, 1987, 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub.L. 94–482, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of Title 20, Education.
 

@@ -42,7 +42,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount included in the gross income of any United States shareholder under section 951(a)(1)(A)(i) for any taxable year and attributable to a qualified activity shall be reduced by the amount of such shareholder's pro rata share of any qualified deficit.
+&emsp;&emsp;&emsp;The amount included in the gross income of any United States shareholderunder section 951(a)(1)(A)(i) for any taxable year and attributable to a qualified activity shall be reduced by the amount of such shareholder's pro rata share of any qualified deficit.
 
 #### (ii) Qualified deficit
 
@@ -98,7 +98,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by theamount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
+&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
 
 #### (ii) Qualified chain member
 
@@ -106,7 +106,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 &emsp;&emsp;&emsp;&emsp;(I) all the stock of such other corporation (other than directors’ qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such controlled foreign corporation, or
 
-&emsp;&emsp;&emsp;&emsp;(II) all the stock of such controlled foreign corporation (other than directors’ qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such other corporation.
+&emsp;&emsp;&emsp;&emsp;(II) all the stock of such controlled foreign corporation (other than directors’qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such other corporation.
 
 #### (iii) Coordination
 
@@ -156,7 +156,7 @@ Subsec. (a)(1). Pub. L. 99–514, §1221(b)(3)(A), amended par. (1) generally. P
 
 Subsec. (b). Pub. L. 99–514, §1876(c)(1), inserted last sentence.
 
-Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows:“For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
+Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows: “For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
 
 &emsp;“(1) an amount equal to—
 
@@ -194,13 +194,13 @@ Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 1112(c)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 105–34, title XI, §1112(c)(2), Aug. 5, 1997, 111 Stat. 970, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1012(i)(16), (22)–(25)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6131(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\].”
+Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\].”
 
 #### Effective Date of 1986 Amendments
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 97–248 applicable to payments made after Sept. 3, 1982, s
 
 Amendment by section 1062 of Pub. L. 94–455 applicable to participation in or cooperation with an international boycott more than 30 days after Oct. 4, 1976, see section 1066(a) of Pub. L. 94–455, set out as a note under section 908 of this title.
 
-Section 1066(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1065 \[amending this section and sections 995 and 964 of this title\] apply to payments described in section 162(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made more than 30 days after the date of enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title X, §1066(b), Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1065 \[amending this section and sections 995 and 964 of this title\] apply to payments described in section 162(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made more than 30 days after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1966 Amendment
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Determination of Corporate Earnings and Profits for Purposes of Applying Subsection (c)(1)(A)
 
-Section 1012(i)(6) of Pub. L. 100–647 provided that: “For purposes of applying section 952(c)(1)(A) of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\].”
+Pub. L. 100–647, title I, §1012(i)(6), Nov. 10, 1988, 102 Stat. 3508, provided that: “For purposes of applying section 952(c)(1)(A) of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) in 1980, Congress, through Public Law 96–435, authorized the Secretary of the Interior to accept the conveyance of the United First Parish Church in Quincy, Massachusetts, the burial place of John Adams, Abigail Adams, and John Quincy Adams and his wife, to be administered as part of the Adams National Historic Site;
 
-&emsp;(6) the actions taken by past Secretaries of the Interior and past Congresses to preserve for the benefit, education and inspiration of present and future generations of Americans the home, property, birthplaces and burial site of John Adams, John Quincy Adams, and Abigail Adams, have resulted in a multi-site unit of the National Park System with no overarching enabling or authorizing legislation; and
+&emsp;(6) the actions taken by past Secretaries of the Interior and past Congresses to preserve for the benefit, education and inspiration ofpresent and future generations of Americans the home, property, birthplaces and burial site of John Adams, John Quincy Adams, and Abigail Adams, have resulted in a multi-site unit of the National Park System with no overarching enabling or authorizing legislation; and
 
 &emsp;(7) that <sup>1</sup> the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
 

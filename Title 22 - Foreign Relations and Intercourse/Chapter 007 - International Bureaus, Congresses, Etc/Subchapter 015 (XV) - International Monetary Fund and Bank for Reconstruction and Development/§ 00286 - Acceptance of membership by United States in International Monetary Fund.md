@@ -10,7 +10,7 @@ Pub. L. 90–349, June 19, 1968, 82 Stat. 188 \[enacting sections 286n to 286r o
 
 #### Short Title
 
-Section 1 of act July 31, 1945, provided: “This act \[enacting this subchapter and amending section 822a of former Title 31, Money and Finance\] may be cited as the ‘Bretton Woods Agreements Act’.”
+Act July 31, 1945, ch. 339, §1, 59 Stat. 512, provided: “This act \[enacting this subchapter and amending section 822a of former Title 31, Money and Finance\] may be cited as the ‘Bretton Woods Agreements Act’.”
 
 #### Par Value Modification
 

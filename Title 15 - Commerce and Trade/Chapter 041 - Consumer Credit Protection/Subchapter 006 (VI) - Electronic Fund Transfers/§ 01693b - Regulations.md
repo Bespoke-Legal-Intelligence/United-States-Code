@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(A) to carry out the purposes of this subchapter with respect to a person described in section 5519(a) of title 12; and
 
-&emsp;&emsp;(B) to carry out the purposes of section 1693<i>o</i>–2 of this title.
+&emsp;&emsp;(B) to carry out the purposes of section 1693o–2 of this title.
 
 > In prescribing such regulations, the Board shall:
 
-&emsp;(1) <sup>1</sup> consult with the other agencies referred to in section 1693<i>o</i> <sup>2</sup> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
+&emsp;(1) <sup>1</sup> consult with the other agencies referred to in section 1693o <sup>2</sup> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
 
-&emsp;(2) <sup>1</sup> prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would berequired, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+&emsp;(2) <sup>1</sup> prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
 
 &emsp;(3) <sup>1</sup> to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
 
@@ -26,7 +26,7 @@
 
 #### (b) Issuance of model clauses
 
-The Bureau shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Bureau shall issue model clauses for optional use by financial institutions to facilitatecompliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -74,15 +74,9 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 &emsp;&emsp;&emsp;(ii) the amount of any such fee.
 
-#### (B) Notice requirements
+#### (B) Notice requirement
 
-#### (i) On the machine
-
-&emsp;&emsp;&emsp;The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
-
-#### (ii) On the screen
-
-&emsp;&emsp;&emsp;The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumeris irrevocably committed to completing the transaction, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+&emsp;&emsp;The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
 
 #### (C) Prohibition on fees not properly disclosed and explicitly assumed by consumer
 
@@ -118,15 +112,27 @@ No provision of this subchapter may be construed as altering, limiting, or other
 
 &emsp;(1) the Bureau in making determinations regarding the meaning or interpretation of any provision of this subchapter for which the Bureau has authority to prescribe regulations; or
 
-&emsp;(2) the Board in making determinations regarding the meaning or interpretation of section 1693<i>o</i>–2 of this title.
+&emsp;(2) the Board in making determinations regarding the meaning or interpretation of section 1693o–2 of this title.
 
-(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081.)
+(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081; Pub. L. 112–216, §1, Dec. 20, 2012, 126 Stat. 1590.)
 
 #### References in Text
 
-Section 1693<i>o</i> of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401, May 22, 2009, 123 Stat. 1751.
+Section 1693o of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401, May 22, 2009, 123 Stat. 1751.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(3)(B). Pub. L. 112–216, in subpar. heading, substituted “requirement” for “requirements” and, in text, substituted “The notice required under clauses (i) and (ii)” for
+
+“(i)
+
+On the machine.—The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
+
+“(ii)
+
+On the screen.—The notice required under clauses (i) and (ii)”
+
+> and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
 
@@ -172,7 +178,7 @@ Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted s
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1073(a)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwiseprovided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by section 1073(a)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 Amendment by section 1084(1), (3) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

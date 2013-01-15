@@ -2,7 +2,7 @@
 
 (a)
 
-Senior ROTC Members in Advanced Training.—(1) Except when on active duty, a member of the Senior Reserve Officers’ Training Corps who is selected for advance training under section 2104 of title 10 is entitled to a monthly subsistence allowance at a rate prescribed under paragraph (2) beginning on the day he starts advanced training and ending upon the completion of his instruction under that section, but in no event shall any member receive such pay for more than 30 months.
+Senior ROTC Members in Advanced Training.—(1) Except when on active duty, a member of the Senior Reserve Officers’ Training Corps who is selected for advance training under section 2104 of title 10 is entitled to a monthly subsistence allowance at a rate prescribed under paragraph (2) beginning on the day he starts advanced training and ending upon the completion of his instruction under that section, but in noevent shall any member receive such pay for more than 30 months.
 
 (2) The Secretary of Defense shall prescribe by regulation the monthly rates for subsistence allowances provided under this section. The rate may not be less than $250 per month, but may not exceed $674 per month.
 
@@ -124,7 +124,7 @@ Pub. L. 106–65, div. A, title V, §546(b), Oct. 5, 1999, 113 Stat. 608, provid
 
 #### Effective Date of 1994 Amendment
 
-Section 603(b) of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title VI, §603(b), Oct. 5, 1994, 108 Stat. 2782, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning after August 31, 1995.
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–171 provided that: “The amendments made by this Act \[amending this section\] shall become effective on July 1, 1971.”
+Pub. L. 92–171, §2, Nov. 24, 1971, 85 Stat. 490, provided that: “The amendments made by this Act \[amending this section\] shall become effective on July 1, 1971.”
 
 #### Effective Date of 1965 Amendment
 

@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) is not enrolled in a Medicare Advantage plan under part C or a PACE program under section 1395eee of this title;
 
-&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Disease and neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
+&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Diseaseand neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
 
 &emsp;&emsp;(D) within the past 12 months has had a nonelective hospital admission;
 
@@ -108,7 +108,7 @@
 
 #### (3) Beneficiary access to services
 
-&emsp;Nothing in this section shall be construed as encouraging physicians or nurse practitionersto limit applicable beneficiary access to services covered under this subchapter and applicable beneficiaries shall not be required to relinquish access to any benefit under this subchapter as a condition of receiving services from an independence at home medical practice.
+&emsp;Nothing in this section shall be construed as encouraging physicians or nurse practitioners to limit applicable beneficiary access to services covered under this subchapter and applicable beneficiaries shall not be required to relinquish access to any benefit under this subchapter as a condition of receiving services from an independence at home medical practice.
 
 #### (e) Implementation
 

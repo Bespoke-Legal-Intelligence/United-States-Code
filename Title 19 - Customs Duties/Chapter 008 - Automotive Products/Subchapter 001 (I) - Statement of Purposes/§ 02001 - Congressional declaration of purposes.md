@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Short Title
 
-Section 101 of Pub. L. 89–283 provided that: “This Act \[enacting this chapter, amending section 1202 of this title and Schedules 2, 3, 5, 6, and 7 of the Tariff Schedules of the United States, and enacting provisions set out as a note preceding section 1202 of this title\] may be cited as the ‘Automotive Products Trade Act of 1965’.”
+Pub. L. 89–283, title I, §101, Oct. 21, 1965, 79 Stat. 1016, provided that: “This Act \[enacting this chapter, amending section 1202 of this title and Schedules 2, 3, 5, 6, and 7 of the Tariff Schedules of the United States, and enacting provisions set out as a note preceding section 1202 of this title\] may be cited as the ‘Automotive Products Trade Act of 1965’.”
 

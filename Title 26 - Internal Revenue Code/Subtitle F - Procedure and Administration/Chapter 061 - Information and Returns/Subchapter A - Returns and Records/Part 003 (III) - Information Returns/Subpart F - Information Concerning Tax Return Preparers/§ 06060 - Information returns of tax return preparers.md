@@ -22,7 +22,7 @@ Subsec. (a). Pub. L. 110–28, §8246(a)(2)(A)(ii), substituted “a tax return 
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8246(c), May 25, 2007, 121 Stat. 203, provided that: “The amendments made by this section \[amending this section and sections 6103, 6107, 6109, 6503, 6694 to 6696, 7407, 7427, and 7701 of this title\] shall apply to returns prepared after the date of the enactment of this Act \[May 25, 2007\].”
+Pub. L. 110–28, title VIII, §8246(c), May 25, 2007, 121 Stat. 203, provided that: “The amendments made bythis section \[amending this section and sections 6103, 6107, 6109, 6503, 6694 to 6696, 7407, 7427, and 7701 of this title\] shall apply to returns prepared after the date of the enactment of this Act \[May 25, 2007\].”
 
 #### Effective Date
 

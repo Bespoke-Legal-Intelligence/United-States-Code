@@ -22,7 +22,7 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (3) Controlled groups
 
-&emsp;In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
+&emsp;In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
 
 #### (c) Credit for increasing research activities
 
@@ -118,7 +118,7 @@ No deduction shall be allowed for that portion of the premiums for qualified hea
 
 &emsp;Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
-(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607; Pub. L. 109–432, div. A, title IV, §405(c), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–172, §7(a)(1)(B), Dec. 29, 2007, 121 Stat. 2481; Pub. L. 110–234, title XV, §15343(c), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(c), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(c), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 111–148, title I, §§1401(b), 1421(d)(1), title IX, §9023(c)(2), title X, §10105(e)(3), Mar. 23, 2010, 124 Stat. 219, 242, 880, 906.)
+(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1),Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607; Pub. L. 109–432, div. A, title IV, §405(c), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–172, §7(a)(1)(B), Dec. 29, 2007, 121 Stat. 2481; Pub. L. 110–234, title XV, §15343(c), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(c), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(c), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 111–148, title I, §§1401(b), 1421(d)(1), title IX, §9023(c)(2), title X, §10105(e)(3), Mar. 23, 2010, 124 Stat. 219, 242, 880, 906.)
 
 #### References in Text
 
@@ -200,7 +200,7 @@ Amendment by section 1401(b) of Pub. L. 111–148 applicable to taxable years en
 
 Amendment by section 1421(d)(1) of Pub. L. 111–148 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2009, see section 1421(f)(1) of Pub. L. 111–148, set out as a note under section 38 of this title.
 
-Amendment by section 9023(c)(2) of Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as a note under section 46 of this title.
+Amendment by section 9023(c)(2) of Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section9023(f) of Pub. L. 111–148, set out as a note under section 46 of this title.
 
 Amendment by section 10105(e)(3) of Pub. L. 111–148 effective as if included in the enactment of section 1421 of Pub. L. 111–148, see section 10105(e)(5) of Pub. L. 111–148, set out as a note under section 45R of this title.
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 97–414 applicable to amounts paid or incurred after Decem
 
 #### Effective Date of 1978 Amendment
 
-Section 322(e) of Pub. L. 95–600, as amended by Pub. L. 96–178, §6(a), (b), Jan. 2, 1980, 93 Stat. 1297; Pub. L. 96–222, title I, §103(a)(7)(A), (B), Apr. 1, 1980, 94 Stat. 211; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title III, §322(e), Nov. 6, 1978, 92 Stat. 2839, as amended by Pub. L. 96–178, §6(a), (b), Jan. 2, 1980, 93 Stat. 1297; Pub. L. 96–222, title I, §103(a)(7)(A), (B), Apr. 1, 1980, 94 Stat. 211; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -284,7 +284,7 @@ Eligible employees hired before september 27, 1978.—In the case of any eligibl
 
 Eligible employees hired after september 26, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date.”
 
-\[Section 6(d) of Pub. L. 96–178 provided that: “Any amendment made by this section to the Revenue Act of 1978 \[amending section 322(e)(1) and (2) of Pub. L. 95–600, set out above\] shall take effect as if it had been included in the provision of the Revenue Act of 1978 \[Pub. L. 95–600\] to which such amendment relates.”\]
+\[Pub. L. 96–178, §6(d), Jan. 2, 1980, 93 Stat. 1298, provided that: “Any amendment made by this section to the Revenue Act of 1978 \[amending section 322(e)(1) and (2) of Pub. L. 95–600, set out above\] shall take effect as if it had been included in the provision of the RevenueAct of 1978 \[Pub. L. 95–600\] to which such amendment relates.”\]
 
 #### Effective Date
 
@@ -292,7 +292,7 @@ Section applicable to taxable years beginning after Dec. 31, 1976, and to credit
 
 #### Time and Form of Certain Elections Under Subsection (c)(3)
 
-Section 7814(e)(2)(B) of Pub. L. 101–239 provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act \[Dec. 19, 1989\], such an election for such year may be made—
+Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act \[Dec. 19, 1989\], such an election for such year may be made—
 
 &emsp;“(i) at any time before the date which is 75 days after such date of enactment, and
 

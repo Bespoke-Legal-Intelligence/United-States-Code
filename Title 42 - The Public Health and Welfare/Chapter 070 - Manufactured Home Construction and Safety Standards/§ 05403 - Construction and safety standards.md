@@ -34,7 +34,7 @@
 
 #### (B) Competitively procured contract
 
-&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall,using competitive procedures (as such term is defined in section 132 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer the consensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
+&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall, using competitive procedures (as such term is defined in section 132 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer the consensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
 
 #### (C) Performance review
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(i) provide reasonable staff resources to the consensus committee; and
 
-&emsp;&emsp;&emsp;(ii) furnish technical support in a timely manner to any of the interest categories described in subparagraph (D) represented on the consensus committee, if—
+&emsp;&emsp;&emsp;(ii) furnish technical support in a timely manner to any of the interest categoriesdescribed in subparagraph (D) represented on the consensus committee, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the support is necessary to ensure the informed participation of the consensus committee members; and
 
@@ -220,7 +220,7 @@
 
 #### (6) Failure to act
 
-&emsp;If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month period beginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
+&emsp;If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month periodbeginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
 
 &emsp;&emsp;(A) the Secretary shall appear in person before the appropriate housing and appropriations subcommittees and committees of the House of Representatives and the Senate (referred to in this paragraph as the “committees”) on a date or dates to be specified by the committees, but in no event later than 30 days after the expiration of that 12-month period, and shall state before the committees the reasons for failing to take final action as required under paragraph (5); and
 
@@ -268,7 +268,7 @@
 
 #### (5) Authority to act and emergency
 
-&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergencythat jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
+&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
 
 &emsp;&emsp;(A) provides to the consensus committee a written description and sets forth the reasons why action is necessary and all supporting documentation; and
 
@@ -328,11 +328,11 @@ The Secretary shall exclude from the coverage of this chapter any structure whic
 
 The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer's costs for maintenance and any other relevant information pursuant to subsection (e) of this section. The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992, the Secretary shall update the standards for hardboard siding.
 
-(Pub. L. 93–383, title VI, §604, Aug. 22, 1974, 88 Stat. 701; Pub. L. 95–128, title IX, §902(a), Oct. 12, 1977, 91 Stat. 1149; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 98–479, title II, §204(<i>l</i>), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title V, §568, Feb. 5, 1988, 101 Stat. 1948; Pub. L. 102–550, title IX, §907, Oct. 28, 1992, 106 Stat. 3873; Pub. L. 106–569, title VI, §604, Dec. 27, 2000, 114 Stat. 2999.)
+(Pub. L. 93–383, title VI, §604, Aug. 22, 1974, 88 Stat. 701; Pub. L. 95–128, title IX, §902(a), Oct. 12, 1977, 91 Stat. 1149; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 98–479, title II, §204(l), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title V, §568, Feb. 5, 1988, 101 Stat. 1948; Pub. L. 102–550, title IX, §907, Oct. 28, 1992, 106 Stat. 3873; Pub. L. 106–569, title VI, §604, Dec. 27, 2000, 114 Stat. 2999.)
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Codification
 
@@ -374,5 +374,5 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviewsof Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
 

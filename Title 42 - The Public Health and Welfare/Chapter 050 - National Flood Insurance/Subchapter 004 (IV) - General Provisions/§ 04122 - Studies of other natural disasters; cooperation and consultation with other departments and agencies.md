@@ -1,14 +1,16 @@
 ### §4122. Studies of other natural disasters; cooperation and consultation with other departments and agencies
 
-(a) The Director is authorized to undertake such studies as may be necessary for the purpose of determining the extent to which insurance protection against earthquakes or any other natural disaster perils, other than flood, is not available from public or private sources, and the feasibility of such insurance protection being made available.
+(a) The Administrator is authorized to undertake such studies as may be necessary for the purpose of determining the extent to which insurance protection against earthquakes or any other natural disaster perils, other than flood, is not available from public or private sources, and the feasibility of such insurance protection being made available.
 
-(b) Studies under this section shall be carried out, to the maximum extent practicable, with the cooperation of other Federal departments and agencies and State and local agencies, and the Director is authorized to consult with, receive information from, and enter into any necessary agreements or other arrangements with such other Federal departments and agencies (on a reimbursement basis) and such State and local agencies.
+(b) Studies under this section shall be carried out, to the maximum extent practicable, with the cooperation of other Federal departments and agencies and State and local agencies, and the Administrator is authorized to consult with, receive information from, and enter into any necessary agreements or other arrangements with such other Federal departments and agencies (on a reimbursement basis) and such State and local agencies.
 
-(Pub. L. 90–448, title XIII, §1371, Aug. 1, 1968, 82 Stat. 588; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1371, Aug. 1, 1968, 82 Stat. 588; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
 
 #### Transfer of Functions
 
@@ -18,5 +20,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Study of Sinkhole Insurance
 
-Pub. L. 98–181, title IV, §453, Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State or local agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
+Pub. L. 98–181, title I \[title IV, §453\], Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State or local agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
 

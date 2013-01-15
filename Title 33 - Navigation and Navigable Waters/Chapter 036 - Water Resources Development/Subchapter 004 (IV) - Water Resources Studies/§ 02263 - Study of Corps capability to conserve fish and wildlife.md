@@ -12,7 +12,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (2) Inclusions
 
-&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation withthe Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
+&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
 
 &emsp;&emsp;(A) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
 
@@ -94,7 +94,7 @@ Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out forme
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a) of this section is listed on page 68), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a) of this section is listed on page 68), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ A United States attorney or assistant United States attorney or a person authori
 
 &emsp;(2) upon production of legal evidence of the debt
 
-> may apply for a warrant of attachment to a judge, or, in his absence, to the clerk of anycourt of the United States having original jurisdiction of the cause of action.
+> may apply for a warrant of attachment to a judge, or, in his absence, to the clerk of any court of the United States having original jurisdiction of the cause of action.
 
 (Added Pub. L. 86–682, §9, Sept. 2, 1960, 74 Stat. 707.)
 

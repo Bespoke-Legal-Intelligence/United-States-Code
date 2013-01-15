@@ -90,7 +90,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1984 Amendment
 
-Section 2015 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\].”
+Pub. L. 98–473, title II, §2015, Oct. 12, 1984, 98 Stat. 2190, provided that: “This part \[part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\].”
 
 #### Short Title of 2000 Amendment
 
@@ -98,15 +98,15 @@ Pub. L. 106–181, title V, §506(a), Apr. 5, 2000, 114 Stat. 136, provided that
 
 #### Short Title of 1984 Amendment
 
-Section 2011 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
+Pub. L. 98–473, title II, §2011, Oct. 12, 1984, 98 Stat. 2187, provided that: “This part \[part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
 
 #### Statement of Findings and Purpose for 1984 Amendment
 
-Section 2012 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “The Congress hereby finds that—
+Pub. L. 98–473, title II, §2012, Oct. 12, 1984, 98 Stat. 2187, provided that: “The Congress hereby finds that—
 
 &emsp;“(1) the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation (ratified by the United States on November 1, 1972) requires each contracting State to establish its jurisdiction over certain offenses affecting the safety of civil aviation;
 
 &emsp;“(2) such offenses place innocent lives in jeopardy, endanger national security, affect domestic tranquility, gravely affect interstate and foreign commerce, and are offenses against the law of nations; and
 
-&emsp;“(3) the purpose of this subtitle \[part, see Short Title of 1984 Amendment note above\] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
+&emsp;“(3) the purpose of this subtitle \[probably means part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note above\] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
 

@@ -4,11 +4,11 @@
 
 #### (1) Parts A and C
 
-&emsp;There are authorized to be appropriated to carry out parts A and C $175,000,000 for fiscalyear 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out parts A and C $175,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (2) Part B
 
-&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (b) Use of multiple year awards
 
@@ -150,7 +150,7 @@ Another prior section 1109, Pub. L. 89–329, title V, §519, as added Pub. L. 9
 
 Section 1109a, Pub. L. 89–329, title V, §562, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, authorized program of grants for demonstration projects that demonstrate methods of reducing class size.
 
-A prior section 1109a, Pub. L. 89–329, title V, §542, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1504; amended Pub. L. 100–50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1109a, Pub. L. 89–329, title V, §542, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1504; amended Pub. L. 100–50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1109b, Pub. L. 89–329, title V, §563, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 701, related to program requirements.
 
@@ -334,7 +334,7 @@ Another prior section 1119c–2, Pub. L. 89–329, title V, §553, as added Pub.
 
 Section 1119c–3, Pub. L. 89–329, title V, §554, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1094, related to familiarizing teachers with new curricular methods, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
-Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat. 2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat.2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 An identical section 555 of Pub. L. 89–329, as added Pub. L. 94–482, title II, §201(q), Oct. 12, 1976, 90 Stat. 2169, was also classified to section 1119c–4, and was repealed by Pub. L. 94–482, title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2215.
 

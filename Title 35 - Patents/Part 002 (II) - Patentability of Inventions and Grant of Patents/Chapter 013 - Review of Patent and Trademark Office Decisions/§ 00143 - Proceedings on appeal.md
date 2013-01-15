@@ -1,20 +1,8 @@
 ### §143. Proceedings on appeal
 
-With respect to an appeal described in section 142 of this title, the Director shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Director forward the original or certified copies of such documents during pendency of the appeal. In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.<sup>1</sup>
+With respect to an appeal described in section 142, the Director shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Director forward the original or certified copies of such documents during pendency of the appeal. In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.
 
 (July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(d), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §§13202(b)(2), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1901, 1906; Pub. L. 112–29, §§7(c)(3), 20(j), Sept. 16, 2011, 125 Stat. 314, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §7(c)(3), (e), Sept. 16, 2011, 125 Stat. 314, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, this section is amended:</i>
-
-<i>(1) by striking the third sentence and inserting the following: “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.”; and</i>
-
-<i>(2) by striking the last sentence.</i>
-
-<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -26,7 +14,7 @@ Language is changed. The requirement that the Commissioner notify the parties is
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “142”.
 
-Pub. L. 112–29, §7(c)(3), substituted “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.” for “In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.” and struck out “The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.” at the end.
+Pub. L. 112–29, §7(c)(3), substituted “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.” for “In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.” and struck out second occurrence of “The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.” at the end.
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -46,7 +34,7 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(d)\], amended third sentence 
 
 Amendment by section 7(c)(3) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of this title.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -65,6 +53,4 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
-
-<i><sup>1</sup></i><i> So in original. Fourth and fifth sentences are identical.</i>
 

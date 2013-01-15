@@ -56,7 +56,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
@@ -72,11 +72,11 @@ Section was not enacted as part of the Magnuson-Stevens Fishery Conservation and
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

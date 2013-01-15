@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 99–159, §110(11), inserted applicability to engineering.
 
 Subsec. (b). Pub. L. 92–484 inserted provisions authorizing the Foundation to initiate and support specific scientific activities in connection with matters relating to the effects of scientific applications upon society, and substituted provisions relating to the initiation or support pursuant to requests of activities by any other Federal department or agency, including the Office of Technology Assessment, for provisions relating to the initiation or support pursuant to requests of activities by the Secretary of State or Secretary of Defense.
 
-<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumeratedlist of sciences. Former par. (1) redesignated subsec. (d).
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–407 redesignated par. (2) as (1) and added social sciences to the enumerated list of sciences. Former par. (1) redesignated subsec. (d).
 
 Subsec. (a)(2). Pub. L. 90–407 redesignated par. (4) as (2) and added social sciences to the enumerated list of sciences. Former par. (2) redesignated (1).
 
@@ -148,7 +148,7 @@ Pub. L. 96–44, §8, Aug. 2, 1979, 93 Stat. 334, directed National Science Foun
 
 #### Authorized Use of Funds Under Science and Society Program
 
-Section 5 of Pub. L. 95–99 provided that:
+Pub. L. 95–99, §5, Aug. 15, 1977, 91 Stat. 832, provided that:
 
 “(a) From the funds authorized under the program ‘Science and Society’, the National Science Foundation is authorized to provide support which is designed to—
 
@@ -162,7 +162,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(1) qualified scientists and engineers to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups;
 
-&emsp;“(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations,or bona fide public interest groups as part of their academic training;
+&emsp;“(2) internship programs for science and engineering undergraduate or graduate students to work on public policy issues with significant scientific and technical components in conjunction with units of State and local government, nonprofit organizations, or bona fide public interest groups as part of their academic training;
 
 &emsp;“(3) forums, conferences, and workshops on public policy issues with significant scientific and technical components;
 
@@ -196,11 +196,11 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
-Section 6 of Pub. L. 94–471 required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senate a report on the plan developed with recommendations for implementation in fiscal year 1978.
+Pub. L. 94–471, §6, Oct. 11, 1976, 90 Stat. 2055, required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senate a report on the plan developed with recommendations for implementation in fiscal year 1978.
 
 #### Denial of Financial Assistance to Campus Disrupters
 
-Section 7 of Pub. L. 93–96, Aug. 16, 1973, 87 Stat. 316, provided that:
+Pub. L. 93–96, §7, Aug. 16, 1973, 87 Stat. 316, provided that:
 
 “(a) If an institution of higher education determines, after affording notice and opportunity for hearing to an individual attending, or employed by, such institution, that such individual has been convicted by any court of record of any crime which was committed after the date of enactment of this Act \[Aug. 16, 1973\] and which involved the use of (or assistance to others in the use of) force, disruption, or the seizure of property under control of any institution of higher education to prevent officials or students in such institution from engaging in their duties or pursuing their studies, and that such crime was of a serious nature and contributed to a substantial disruption of the administration of the institution with respect to which such crime was committed, then the institution which such individual attends, or is employed by, shall deny for a period of two years any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c). If an institution denies an individual assistance under the authority of the preceding sentence of this subsection, then any institution which such individual subsequently attends shall deny for the remainder of the two-year period any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c).
 
@@ -210,7 +210,7 @@ Section 7 of Pub. L. 93–96, Aug. 16, 1973, 87 Stat. 316, provided that:
 
 &emsp;“(1) The programs authorized by the National Science Foundation Act of 1950 \[this chapter\]; and
 
-&emsp;“(2) The programs authorized under title IX of the National Defense Education Act of 1958 \[sections 1876 to 1879 of this title\] relating to establishing the Science Information Service.
+&emsp;“(2) The programs authorized under title IX of the National Defense Education Act of 1958 \[sections 1876to 1879 of this title\] relating to establishing the Science Information Service.
 
 “(d)(1) Nothing in this Act \[Pub. L. 93–96\], or any Act amended by this Act, shall be construed to prohibit any institution of higher education from refusing to award, continue, or extend any financial assistance under any such Act to any individual because of any misconduct which in its judgment bears adversely on his fitness for such assistance.
 
@@ -228,11 +228,11 @@ Pub. L. 91–356, §5, July 24, 1970, 84 Stat. 471.
 
 #### Continuation of Authorization for Weather Modification Programs; Repeal
 
-Section 11(1) of Pub. L. 90–407 provided in part that the authorization for the programs initiated under former subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of section 1872a of this title.
+Pub. L. 90–407, §11(1), July 18, 1968, 82 Stat. 365, provided in part that the authorization for the programs initiated under former subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of section 1872a of this title.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of this title, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962.”
+Pub. L. 90–407, §16, July 18, 1968, 82 Stat. 367, provided that: “Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of this title, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962.”
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
@@ -266,7 +266,7 @@ Sec. 8. To facilitate the efficient use of scientific research equipment and fac
 
 Sec. 9. The heads of the respective Federal agencies shall make such reports concerning activities within the purview of this order as may be required by the President.
 
-Sec. 10. The National Science Foundation shall provide leadership in the effective coordination of the scientific information activities of the Federal Government with a view to improving the availability and dissemination of scientific information. Federal agenciesshall cooperate with and assist the National Science Foundation in the performance of this function, to the extent permitted by law.
+Sec. 10. The National Science Foundation shall provide leadership in the effective coordination of the scientific information activities of the Federal Government with a view to improving the availability and dissemination of scientific information. Federal agencies shall cooperate with and assist the National Science Foundation in the performance of this function, to the extent permitted by law.
 
 #### Executive Order No. 10807
 

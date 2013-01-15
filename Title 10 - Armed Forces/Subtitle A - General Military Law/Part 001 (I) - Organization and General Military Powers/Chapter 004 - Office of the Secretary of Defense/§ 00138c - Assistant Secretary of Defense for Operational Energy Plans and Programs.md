@@ -60,7 +60,7 @@ Budgetary and Financial Matters.—(1) The Assistant Secretary shall review and 
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
-(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31,the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
+(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
 
 &emsp;(A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
 
@@ -90,9 +90,15 @@ Operational energy.—The term “operational energy” means the energy require
 
 Operational energy strategy.—The terms “operational energy strategy” and “strategy” mean the operational energy strategy developed under subsection (d).
 
-(Added Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §§311, 314(a), Dec. 31, 2011, 125 Stat. 1351, 1357.)
+(Added Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952.)
+
+#### Codification
+
+Subsec. (c)(3) of section 138 of this title, which was transferred to this section by Pub. L. 112–239, §1076(f)(3), was based on Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239 transferred subsec. (c)(3) of section 138 of this title to subsec. (c)(3) of this section. See Codification note above.
 
 <b>2011</b>—Pub. L. 111–383, §901(k)(1)(C), substituted “Assistant Secretary of Defense for Operational Energy Plans and Programs” for “Director of Operational Energy Plans and Programs” in section catchline.
 
@@ -101,8 +107,6 @@ Pub. L. 111–383, §901(b)(7)(B), substituted “Assistant Secretary” for “
 Pub. L. 111–383, §901(b)(7), renumbered section 139b of this title as this section.
 
 Subsec. (a). Pub. L. 111–383, §901(b)(7)(A), substituted “The Assistant Secretary of Defense for Operational Energy Plans and Programs” for “There is a Director of Operational Energy Plans and Programs in the Department of Defense (in this section referred to as the ‘Director’), appointed by the President, by and with the advice and consent of the Senate. The Director”.
-
-Subsec. (c)(3). Pub. L. 112–81, §314(a), which directed the amendment of section 138(c) by adding par. (3) at the end thereof, was executed by making the addition at the end of subsec. (c) of this section to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 111–383, §901(b)(7)(C), substituted “The Secretary of each military department” for “Not later than 90 days after the date on which the Assistant Secretary is first appointed, the Secretary of each of the military departments” and “Secretary who shall” for “Secretary who will” and inserted “so designated” after “The officials”.
 

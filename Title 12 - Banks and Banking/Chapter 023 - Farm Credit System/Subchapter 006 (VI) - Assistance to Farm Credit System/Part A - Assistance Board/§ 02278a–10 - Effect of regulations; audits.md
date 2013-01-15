@@ -10,7 +10,7 @@ The Assistance Board shall not be subject to regulation by the Farm Credit Admin
 
 #### (c) Audits
 
-The Assistance Board shall not require an audit or examination of a System institutionthat would be duplicative of an audit or examination that is conducted under other provisions of law.
+The Assistance Board shall not require an audit or examination of a System institution that would be duplicative of an audit or examination that is conducted under other provisions of law.
 
 (Pub. L. 92–181, title VI, §6.10, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1594.)
 

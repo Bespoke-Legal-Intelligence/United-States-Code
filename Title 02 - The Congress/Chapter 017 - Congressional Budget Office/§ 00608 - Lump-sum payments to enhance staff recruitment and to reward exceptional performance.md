@@ -8,5 +8,5 @@
 
 #### Codification
 
-Section was enacted as part of the Congressional Operations Appropriations Act, 2000, which is title I of the Legislative Branch Appropriations Act, 2000, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the Congressional Operations Appropriations Act, 2000, which is title I of the Legislative Branch Appropriations Act, 2000, and not aspart of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 

@@ -14,7 +14,7 @@
 
 #### (B) Exemption from Federal leave provisions
 
-&emsp;&emsp;A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerk upon separation from the Federal Government.
+&emsp;&emsp;A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk's credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerkupon separation from the Federal Government.
 
 #### (3) Other employees
 
@@ -92,7 +92,7 @@ The effective date of this subsection, referred to in subsec. (a)(2)(B), (8), pr
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted references to special trial judges for references to commissioners in the subsection heading and text.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(47)(A), among other changes, substituted provisions referringto title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
 

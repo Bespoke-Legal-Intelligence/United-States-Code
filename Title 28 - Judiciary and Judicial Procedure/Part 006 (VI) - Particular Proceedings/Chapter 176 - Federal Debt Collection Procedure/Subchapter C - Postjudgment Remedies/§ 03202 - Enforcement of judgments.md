@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth inthis subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
+Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth in this subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
 
 (b)
 
@@ -48,7 +48,7 @@ Hearing.—By requesting, within 20 days after receiving the notice described in
 
 (e)
 
-Sale of Property.—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
+Sale of Property.—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or byexecution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4949.)
 

@@ -90,7 +90,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1993 Amendment
 
-Section 505(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title V, §505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to section 580(a)(4) of title 10, United States Code, before the date of enactment of this Act \[Nov. 30, 1993\].”
 
 #### Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay
 

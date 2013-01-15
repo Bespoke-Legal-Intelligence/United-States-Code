@@ -24,5 +24,5 @@ Subsec. (d)(2). Pub. L. 104–106, §203(e)(1), struck out at end “The authori
 
 #### Effective Date of 1996 Amendment
 
-Section 203(e)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 29, 1995.”
+Pub. L. 104–106, div. A, title II, §203(e)(2), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 29, 1995.”
 

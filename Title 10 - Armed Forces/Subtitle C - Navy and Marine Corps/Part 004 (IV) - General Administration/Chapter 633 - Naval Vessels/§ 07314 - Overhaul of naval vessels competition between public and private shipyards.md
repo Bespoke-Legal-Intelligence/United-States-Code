@@ -6,7 +6,7 @@ The Secretary of the Navy should ensure, in any case in which the Secretary awar
 
 &emsp;&emsp;(A) the full costs to the United States associated with future retirement benefits of civilian employees of that shipyard consistent with computation methodology established by Office of Management and Budget Circular A–76; and
 
-&emsp;&emsp;(B) in a case in which equal access to the Navy supply system is not allowed to public and private shipyards, a pro rata share of the costs of the Navy supply system.
+&emsp;&emsp;(B) in a case in which equal access to the Navy supply system is not allowed to publicand private shipyards, a pro rata share of the costs of the Navy supply system.
 
 &emsp;(2) Costs applicable to oversight of the contract by the appropriate Navy supervisor of shipbuilding, conversion, and repair are added to the bid of any private shipyard for the purpose of comparability analysis.
 
@@ -20,5 +20,5 @@ The Secretary of the Navy should ensure, in any case in which the Secretary awar
 
 #### Effective Date
 
-Section 1225(b) of Pub. L. 100–456 provided that: “Section 7313 \[now 7314\] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
+Pub. L. 100–456, div. A, title XII, §1225(b), Sept. 29, 1988, 102 Stat. 2055, provided that: “Section 7313 \[now 7314\] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
 

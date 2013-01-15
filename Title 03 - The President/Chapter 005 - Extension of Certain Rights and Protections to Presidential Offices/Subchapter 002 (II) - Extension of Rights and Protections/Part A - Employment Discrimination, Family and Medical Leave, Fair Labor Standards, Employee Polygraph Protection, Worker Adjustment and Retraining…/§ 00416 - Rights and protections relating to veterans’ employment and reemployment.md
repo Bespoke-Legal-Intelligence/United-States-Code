@@ -20,7 +20,7 @@ Definition.—For purposes of this section, the term “eligible employee” mea
 
 (b)
 
-Remedy.—The remedy for a violation of subsection (a) shall be such damages as would beappropriate if awarded under section 4323(d) of title 38.
+Remedy.—The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under section 4323(d) of title 38.
 
 (c)
 

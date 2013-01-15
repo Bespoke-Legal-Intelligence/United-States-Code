@@ -2,35 +2,75 @@
 
 (a)
 
-In General.—The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary finds that the person is fit, willing, and able to be a broker for transportation and to comply with this part and applicable regulations of the Secretary.
+In General.—The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary determines that the person—
+
+&emsp;(1) has sufficient experience to qualify the person to act as a broker for transportation; and
+
+&emsp;(2) is fit, willing, and able to be a broker for transportation and to comply with this part and applicable regulations of the Secretary.
 
 (b)
 
-Registration as Carrier Required.—
+Duration.—A registration issued under subsection (a) shall only remain in effect while the broker for transportation is in compliance with section 13906(b).
+
+(c)
+
+Experience or Training Requirements.—Each broker shall employ, as an officer, an individual who—
+
+&emsp;(1) has at least 3 years of relevant experience; or
+
+&emsp;(2) provides the Secretary with satisfactory evidence of the individual's knowledge of related rules, regulations, and industry practices.
+
+(d)
+
+Registration as Motor Carrier Required.—
 
 &emsp;(1)
 
-In general.—The broker may provide the transportation itself only if the broker also has been registered to provide the transportation as a motor carrier under this chapter.
+In general.—A broker for transportation may not provide transportation as a motor carrier unless the broker has registered separately under this chapter to provide transportation as a motor carrier.
 
 &emsp;(2)
 
 Limitation.—This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.
 
-(c)
+(e)
 
-Regulations To Protect Shippers.—Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of shippers by motor vehicle.
+Regulation to Protect Motor Carriers and Shippers.—Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of motor carriers and shippers by motor vehicle.
 
-(d)
+(f)
 
 Bond and Insurance.—The Secretary may impose on brokers for motor carriers of passengers such requirements for bonds or insurance or both as the Secretary determines are needed to protect passengers and carriers dealing with such brokers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 109–59, title IV, §4142(c), Aug. 10, 2005, 119 Stat. 1747; Pub. L. 110–244, title III, §305(e), June 6, 2008, 122 Stat. 1620.)
+(g)
 
-#### Prior Provisions
+Update of Registration.—The Secretary shall require a broker to update its registration under this section not later than 30 days after a change in the broker's address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-Provisions similar to those in this section were contained in section 10924 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 109–59, title IV, §4142(c), Aug. 10, 2005, 119 Stat. 1747; Pub. L. 110–244, title III, §305(e), June 6, 2008, 122 Stat. 1620; Pub. L. 112–141, div. C, title II, §§32107(c), 32916(b), July 6, 2012, 126 Stat. 782, 821.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32916(b)(1), substituted “determines that the person—” for “finds that the person is fit”, added par. (1), and inserted par. (2) designation and “is fit” before “, willing”.
+
+Subsecs. (b), (c). Pub. L. 112–141, §32916(b)(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+
+Subsec. (d). Pub. L. 112–141, §32916(b)(4), amended subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—The broker may provide the transportation itself only if the broker also has been registered to provide the transportation as a motor carrier under this chapter.
+
+“(2)
+
+Limitation.—This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.”
+
+Pub. L. 112–141, §32916(b)(2), redesignated subsec. (b) as (d). Former subsec. (d) redesignated (f).
+
+Subsec. (e). Pub. L. 112–141, §32916(b)(5), amended subsec. (e) generally. Prior to amendment, text read as follows: “Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of shippers by motor vehicle.”
+
+Pub. L. 112–141, §32916(b)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+
+Pub. L. 112–141, §32107(c), added subsec. (e).
+
+Subsecs. (f), (g). Pub. L. 112–141, §32916(b)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -45,4 +85,8 @@ Others.—The Secretary may register a person to provide service subject to juri
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (a)(1). Pub. L. 109–59, §4142(c)(2), which directed amendment of par. (1) by inserting “of household goods” after “broker”, was executed by making the insertion in two places to reflect the probable intent of Congress.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

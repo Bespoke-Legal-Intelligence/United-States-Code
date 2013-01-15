@@ -50,7 +50,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(II) is certified before January 1, 2006, by the State as being a necessary provider of health care services to residents in the area;
 
-&emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines arenecessary for ensuring access to emergency care services in each area served by a critical access hospital;
+&emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines are necessary for ensuring access to emergency care services in each area served by a critical access hospital;
 
 &emsp;&emsp;&emsp;(iii) provides not more than 25 acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;
 
@@ -172,7 +172,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;&emsp;(C) designating facilities as critical access hospitals; and
 
-&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, quality reporting, performance improvements, and benchmarking.
+&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, qualityreporting, performance improvements, and benchmarking.
 
 #### (2) Rural emergency medical services
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (5) Use of funds for Federal administrative expenses
 
-&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
 
 #### (6) Providing mental health services and other health services to veterans and other residents of rural areas
 
@@ -260,7 +260,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (ii) Consideration of regional approaches, networks, or technology
 
-&emsp;&emsp;&emsp;The Secretary may, as appropriate in awarding grants to States under subparagraph (A), consider whether the application submitted by a State under this subparagraph includes 1 or more proposals that utilize regional approaches, networks, health information technology, telehealth, or telemedicine to deliver services described in subparagraph (A) to individuals described in that subparagraph. For purposes of this clause, a network may, as the Secretary determines appropriate, include Federally qualified health centers (as defined in section 1395x(aa)(4) of this title), rural health clinics (as defined in section 1395x(aa)(2) of this title), home health agencies (as defined in section 1395x(<i>o</i>) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title) and other providers of mental health services, pharmacists, local government, and other providers deemed necessary to meet the needs of veterans.
+&emsp;&emsp;&emsp;The Secretary may, as appropriate in awarding grants to States under subparagraph (A), consider whether the application submitted by a State under this subparagraph includes 1 or more proposals that utilize regional approaches, networks, health information technology, telehealth, or telemedicine to deliver services described in subparagraph (A) to individuals described in that subparagraph. For purposes of this clause, a network may, as the Secretary determines appropriate, include Federally qualified health centers (as defined in section 1395x(aa)(4) of this title), rural health clinics (as defined in section 1395x(aa)(2) of this title), home health agencies (as defined in section 1395x(o) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title) and other providers of mental health services, pharmacists, local government, and other providers deemed necessary to meet the needs of veterans.
 
 #### (iii) Coordination at local level
 
@@ -336,7 +336,7 @@ The Secretary is authorized to waive such provisions of this part and part E of 
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund formaking grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
@@ -352,7 +352,7 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 
 <b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted “and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
-Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted “, to offset” for “, and to offset” and inserted “and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
+Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted “, to offset” for “, and to offset” and inserted“and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
 Subsec. (j). Pub. L. 111–148, §3129(a), substituted “2010, for” for “2010, and for” and inserted “and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
 
@@ -426,11 +426,11 @@ Subsec. (i)(1)(B). Pub. L. 103–432, §102(b)(1)(A)(iii), substituted “paragr
 
 Subsec. (i)(2)(A). Pub. L. 103–432, §102(b)(2)(B)(ii), in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
 
-Subsec. (k). Pub. L. 103–432, §102(b)(2)(A)(ii), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 103–432, §102(b)(2)(A)(ii), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 103–432, §102(h), substituted “1990 through 1997” for “1990, 1991, and 1992” in introductory provisions.
+Subsec. (l). Pub. L. 103–432, §102(h), substituted “1990 through 1997” for “1990, 1991, and 1992” in introductory provisions.
 
-Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (<i>l</i>).
+Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (l).
 
 <b>1990</b>—Subsec. (d)(1). Pub. L. 101–508, §4008(m)(2)(B)(i), struck out “demonstration” before “program”.
 
@@ -458,7 +458,7 @@ Amendment by section 405(g)(1) of Pub. L. 108–173 applicable to cost reporting
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395l and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -468,7 +468,7 @@ Amendment by section 4201(a) of Pub. L. 105–33 applicable to services furnishe
 
 #### Effective Date of 1990 Amendment
 
-Section 4008(d)(4) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4008(d)(4), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Demonstration Project on Community Health Integration Models in Certain Rural Counties
 
@@ -704,7 +704,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Transition for MAF
 
-Section 4201(c)(6) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4201(c)(6), Aug. 5, 1997, 111 Stat. 374, provided that:
 
 “(A)
 
@@ -720,9 +720,9 @@ Initial period.—Subject to clause (ii), the transition period described in thi
 
 &emsp;“(ii)
 
-Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998,the Secretary shall provide for an appropriate extension of the transition period.”
+Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998, the Secretary shall provide for an appropriate extension of the transition period.”
 
 #### GAO Reports
 
-Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
+Pub. L. 103–432, title I, §102(a)(4), Oct. 31, 1994, 108 Stat. 4402, directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
 

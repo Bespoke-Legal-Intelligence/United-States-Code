@@ -31,7 +31,7 @@ There is hereby imposed on the amount paid for taxable transportation of any per
 
 &emsp;&emsp;(A) transportation is purchased between 2 locations on specified flights, and
 
-&emsp;&emsp;(B) there is a change in the route taken between such 2 locations which changes the number of domestic segments, but there isno change in the amount charged for such transportation,
+&emsp;&emsp;(B) there is a change in the route taken between such 2 locations which changes the number of domestic segments, but there is no change in the amount charged for such transportation,
 
 > &emsp;the tax imposed by paragraph (1) shall be determined without regard to such change in route.
 
@@ -47,7 +47,7 @@ There is hereby imposed on the amount paid for taxable transportation of any per
 
 #### (3) Special rule for Alaska and Hawaii
 
-&emsp;In any case in which the tax imposed by paragraph (1) applies to a domestic segment beginning or ending in Alaska or Hawaii, such tax shall apply only to departures and shall be at the rate of $6.
+&emsp;In any case in which the tax imposed by paragraph (1) applies to a domestic segmentbeginning or ending in Alaska or Hawaii, such tax shall apply only to departures and shall be at the rate of $6.
 
 #### (d) By whom paid
 
@@ -167,7 +167,11 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
 
-#### (j) Application of taxes
+#### (j) Exemption for aircraft in fractional ownership aircraft programs
+
+No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2015.
+
+#### (k) Application of taxes
 
 #### (1) In general
 
@@ -177,7 +181,7 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 &emsp;&emsp;&emsp;(i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-&emsp;&emsp;&emsp;(ii) ending on January 31, 2012, and
+&emsp;&emsp;&emsp;(ii) ending on September 30, 2015, and
 
 &emsp;&emsp;(B) amounts paid during such period for transportation beginning after such period.
 
@@ -185,7 +189,7 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, §412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, §116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(1), Apr. 30, 2010, 124 Stat.1126; Pub. L. 111–197, §2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(1), Sept. 16, 2011, 125 Stat. 357.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, §412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, §116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(b)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, §202(b)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, §2(b)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §§1101(b)(1), 1103(c), Feb. 14, 2012, 126 Stat. 148, 151.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -197,9 +201,17 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(1)(B)(ii
 
 The Airport and Airway Development Act of 1970, referred to in subsec. (f), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (j)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
+The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (j). Pub. L. 112–95, §1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1)(A)(ii). Pub. L. 112–95, §1101(b)(1), substituted “September 30, 2015” for “February 17, 2012”.
+
+Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.
+
+Subsec. (k). Pub. L. 112–95, §1103(c), redesignated subsec. (j) as (k).
 
 <b>2011</b>—Subsec. (j)(1)(A)(ii). Pub. L. 112–30 substituted “January 31, 2012” for “September 16, 2011”.
 
@@ -283,7 +295,7 @@ Subsec. (f). Pub. L. 104–188, §1609(d), amended subsec. (f) generally. Prior 
 
 “(f)
 
-Exemption for Certain Emergency Medical Transportation.—No tax shall be imposed under this section or section 4271 on any air transportation by helicopter for the purpose of providing emergency medical services if such helicopter—
+Exemption for Certain Emergency Medical Transportation.—No tax shall be imposed under thissection or section 4271 on any air transportation by helicopter for the purpose of providing emergency medical services if such helicopter—
 
 &emsp;“(1) does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970 during such transportation, and
 
@@ -361,6 +373,14 @@ Subsec. (b). Act July 25, 1956, §1, substituted “taxable transportation (as d
 
 Subsec. (d). Act July 25, 1956, §4(b), substituted “Except as provided in section 4264, the” for “The”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by section 1101(b)(1) of Pub. L. 112–95 effective Feb. 18, 2012, see section 1101(c) of Pub. L. 112–95, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
+
+Pub. L. 112–95, title XI, §1103(d)(3), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (c) \[amending this section\] shall apply to taxable transportation provided after March 31, 2012.”
+
+Amendment by Pub. L. 112–91 effective Feb. 1, 2012, see section 2(c) of Pub. L. 112–91, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–30 effective Sept. 17, 2011, see section 202(c) of Pub. L. 112–30, set out as a note under section 4081 of this title.
@@ -421,7 +441,7 @@ Pub. L. 108–176, title IX, §902(b), Dec. 12, 2003, 117 Stat. 2598, provided t
 
 #### Effective Date of 1997 Amendments
 
-Section 1031(e)(2) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1031(e)(2), Aug. 5, 1997, 111 Stat. 932, provided that:
 
 “(A)
 
@@ -447,11 +467,11 @@ In general.—Paragraph (3) of section 4261(e) of the Internal Revenue Code of 1
 
 Payments within controlled group.—For purposes of clause (i), any amount paid after June 11, 1997, and before October 1, 1997, by 1 member of a controlled group for a right which is described in such section 4261(e)(3) and is furnished by another member of such group after September 30, 1997, shall be treated as paid after September 30, 1997. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of such Code shall be treated as members of a controlled group.”
 
-Section 1435(c)(1) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after September 30, 1997.”
+Pub. L. 105–34, title XIV, §1435(c)(1), Aug. 5, 1997, 111 Stat. 1053, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after September 30, 1997.”
 
 Amendment by section 1601(f)(4)(D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
-Section 2(e)(2) of Pub. L. 105–2 provided that:
+Pub. L. 105–2, §2(e)(2), Feb. 28, 1997, 111 Stat. 7, provided that:
 
 “(A)
 
@@ -471,15 +491,15 @@ Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996
 
 #### Effective Date of 1990 Amendment
 
-Section 11213(a)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amendingthis section and section 4271 of this title\] shall apply to transportation beginning after November 30, 1990, but shall not apply to amounts paid on or before such date.”
+Pub. L. 101–508, title XI, §11213(a)(3), Nov. 5, 1990, 104 Stat. 1388–432, provided that: “The amendments made by this subsection \[amending this section and section4271 of this title\] shall apply to transportation beginning after November 30, 1990, but shall not apply to amounts paid on or before such date.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7503(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transportation beginning after December 31, 1989, which was not paid for before such date.”
+Pub. L. 101–239, title VII, §7503(b), Dec. 19, 1989, 103 Stat. 2362, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transportation beginning after December 31, 1989, which was not paid for before such date.”
 
 #### Effective Date of 1987 Amendment
 
-Section 404(d)(1) of Pub. L. 100–223 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transportation beginning after September 30, 1988, but shall not apply to amounts paid on or before such date.”
+Pub. L. 100–223, title IV, §404(d)(1), Dec. 30, 1987, 101 Stat. 1533, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transportation beginning after September 30, 1988, but shall not apply to amounts paid on or before such date.”
 
 #### Effective Date of 1986 Amendment
 
@@ -487,11 +507,11 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 1018(c)(2) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to transportation beginning after March 31, 1984, but shall not apply to any amount paid on or before such date.”
+Pub. L. 98–369, div. A, title X, §1018(c)(2), July 18, 1984, 98 Stat. 1022, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to transportation beginning after March 31, 1984, but shall not apply to any amount paid on or before such date.”
 
 #### Effective Date of 1982 Amendment
 
-Section 280(d) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 4271, 4281, and 6156 of this title and repealing sections 4491 to 4494 and 6426 of this title\] shall apply with respect to transportation beginning after August 31, 1982; except that such amendments shall not apply to any amount paid on or before such date.”
+Pub. L. 97–248, title II, §280(d), Sept. 3, 1982, 96 Stat. 565, provided that: “The amendments made by this section \[amending this section and sections 4271, 4281, and 6156 of this title and repealing sections 4491 to 4494 and 6426 of this title\] shall apply with respect to transportation beginning after August 31, 1982; except that such amendments shall not apply to any amount paid on or before such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -503,15 +523,15 @@ Amendment by Pub. L. 91–258 applicable to transportation beginning after June 
 
 #### Effective Date of 1965 Amendment
 
-Section 701(b)(3) of Pub. L. 89–44 provided that: “The amendments made by section 303 \[amending this section\] shall apply with respect to amounts paid for transportation, and amounts paid for accommodations in connection with transportation, beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VII, §701(b)(3), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 303 \[amending this section\] shall apply with respect to amounts paid for transportation, and amounts paid for accommodations in connection with transportation, beginning on or after July 1, 1965.”
 
 #### Effective Date of 1962 Amendment
 
-Section 5(b) of Pub. L. 87–508 provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
+Pub. L. 87–508, §5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
 
 #### Effective Date of 1956 Amendment
 
-Section 6 of act July 25, 1956, provided that: “The amendments made by this Act \[amending this section and sections 4262 to 4264, 4291, and 6421 of this title\] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act \[July 25, 1956\] for transportation commencing on or after such first day.”
+Act July 25, 1956, ch. 725, §6, 70 Stat. 646, provided that: “The amendments made by this Act \[amending this section and sections 4262 to 4264, 4291, and 6421 of this title\] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act \[July 25, 1956\] for transportation commencing on or after such first day.”
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
@@ -524,8 +544,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
-
-<b>2012</b>—Revenue Procedure 2011–52.
 
 <b>2011</b>—Internal Revenue News Release IR 2010–129, Dec. 29, 2010.
 

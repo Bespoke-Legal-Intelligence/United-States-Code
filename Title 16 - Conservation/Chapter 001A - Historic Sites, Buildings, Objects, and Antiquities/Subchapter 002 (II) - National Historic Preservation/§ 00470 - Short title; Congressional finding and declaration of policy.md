@@ -40,7 +40,7 @@ Pub. L. 102–575, title XL, §4001, Oct. 30, 1992, 106 Stat. 4753, provided tha
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–515 provided: “That this Act \[enacting sections 469c–2, 470–1 470a–1, 470a–2, 470h–2, 470h–3, 470u, 470v and 470w to 470w–6 of this title, amending this section and sections 470a, 470b, 470c, 470d, 470h to 470j, 470<i>l</i>, 470m, and 470r to 470t of this title, and enacting provisions set out as notes under sections 470a, 470j and 470h of this title and section 874 of former Title 40, Public Buildings, Property, and Works\] may be cited as the ‘National Historic Preservation Act Amendments of 1980’.”
+Pub. L. 96–515, §1, Dec. 12, 1980, 94 Stat. 2987, provided: “That this Act \[enacting sections 469c–2, 470–1 470a–1, 470a–2, 470h–2, 470h–3, 470u, 470v and 470w to 470w–6 of this title, amending this section and sections 470a, 470b, 470c, 470d, 470h to 470j, 470l, 470m, and 470r to 470t of this title, and enacting provisions set out as notes under sections 470a, 470j and 470h of this title and section 874 of former Title 40, Public Buildings, Property, and Works\] may be cited as the ‘National Historic Preservation Act Amendments of 1980’.”
 
 #### Ex. Ord. No. 11593. Protection and Enhancement of the Cultural Environment
 
@@ -72,7 +72,7 @@ Sec. 3. <i>Responsibilities of the Secretary of the Interior</i>. The Secretary 
 
 (c) expedite action upon nominations to the National Register of Historic Places concerning federally owned properties proposed for sale, transfer, demolition or substantial alteration.
 
-(d) encourage State and Territorial liaison officers for historic preservation to furnish information upon request to Federal agencies regarding their properties which have been evaluated with respect to historic, architectural or archaeological significance and which as a result of such evaluations have not been found suitable for listing on the National Register of Historic Places.
+(d) encourage State and Territorial liaison officers for historic preservation to furnish information uponrequest to Federal agencies regarding their properties which have been evaluated with respect to historic, architectural or archaeological significance and which as a result of such evaluations have not been found suitable for listing on the National Register of Historic Places.
 
 (e) develop and make available to Federal agencies and State and local governments information concerning professional methods and techniques for preserving, improving, restoring and maintaining historic properties.
 

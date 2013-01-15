@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in theircommunities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided,</i><i>however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 #### (f) Evaluation process
 
-(1) Notwithstanding section 5052 of this title, and effective beginning 180 days after April 21, 2009, each grant or contract under this section that expires in fiscal year 2011, 2012, or 2013 shall be subject to an evaluation process conducted by a review team described in paragraph (4). The evaluation process shall be carried out, to the maximum extent practicable, in fiscal year 2010, 2011, and 2012, respectively.
+(1) Notwithstanding section 5052 of this title, and effective beginning 180 days after April 21, 2009, each grant or contract under this section that expires in fiscal year 2011, 2012, or 2013 shallbe subject to an evaluation process conducted by a review team described in paragraph (4). The evaluation process shall be carried out, to the maximum extent practicable, in fiscal year 2010, 2011, and 2012, respectively.
 
 (2) The Corporation shall promulgate regulations establishing the evaluation process required under paragraph (1), and make such regulations available to the public, not later than 18 months after April 21, 2009. The Corporation shall consult with the directors of programs receiving grants under this section during the development and implementation of the evaluation process.
 

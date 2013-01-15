@@ -92,7 +92,7 @@ Notwithstanding the provisions of paragraph (2) of subsection (b)—
 
 &emsp;(1) Two or more domestic insurance companies each of which is subject to tax under section 801 shall be treated as includible corporations for purposes of applying subsection (a) to such insurance companies alone.
 
-&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includes one or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
+&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includesone or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
 
 &emsp;(B) If an election under this paragraph is in effect for a taxable year—
 
@@ -154,7 +154,7 @@ Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted “
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted “a tax credit employee stock ownership plan” for “an ESOP” and “employee” for “leveraged employee”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(l)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
@@ -202,7 +202,7 @@ Amendment by section 1804(e)(1), (10) of Pub. L. 99–514 effective, except as o
 
 #### Effective Date of 1984 Amendment
 
-Section 60(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1804(e)(2)–(5), Oct. 22, 1986, 100 Stat. 2095, 2800, provided that:
+Pub. L. 98–369, div. A, title I, §60(b), July 18, 1984, 98 Stat. 579, as amended by Pub. L. 99–514, §2, title XVIII, §1804(e)(2)–(5), Oct. 22, 1986, 100 Stat. 2095, 2800, provided that:
 
 “(1)
 
@@ -232,13 +232,13 @@ Special rule not to apply to certain sell-downs after june 22, 1984.—If—
 
 “(4)
 
-Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) aresatisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
+Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
 
 “(5)
 
 Native corporations.—
 
-&emsp;“(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
+&emsp;“(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
 
 &emsp;&emsp;“(i) the amendment made by subsection (a) \[amending this section\] shall not apply, and
 
@@ -302,9 +302,9 @@ Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years 
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Section 1053(e) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) and (b) \[amending section 941 and 943 of this title\] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsections (c) and (d) \[amending this section and sections 116, 6072, and 6091 of this title and repealing sections 941–943 of this title\] shall apply with respect to taxable years beginning after December 31, 1977.”
+Pub. L. 94–455, title X, §1053(e), Oct. 4, 1976, 90 Stat. 1649, provided that: “The amendments made by subsections (a) and (b) \[amending section 941 and 943 of this title\] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsections (c) and (d) \[amending this section and sections 116, 6072, and 6091 of this title and repealing sections 941–943 of this title\] shall apply with respect to taxable years beginning after December 31, 1977.”
 
-Section 1507(c)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 821, 843, and 1503 of this title\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 94–455, title XV, §1507(c)(1), Oct. 4, 1976, 90 Stat. 1740, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 821, 843, and 1503 of this title\] shall apply to taxable years beginning after December 31, 1980.”
 
 #### Effective Date of 1971 Amendment
 
@@ -312,11 +312,11 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) ofPub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1966 Amendment
 
-Section 4(b) of Pub. L. 89–389 provided that the amendment made by that section is effective on Jan. 1, 1969.
+Pub. L. 89–389, §4(b), Apr. 14, 1966, 80 Stat. 116, provided that the amendment made by that section is effective on Jan. 1, 1969.
 
 #### Effective Date of 1960 Amendment
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Effective Date of 1959 Amendments
 
-Section 2(d) of Pub. L. 86–376 provided that: “The amendment made by subsection (a) \[amending section 1371 of this title\] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) \[amending this section and section 1374 of this title\] shall take effect on the day after the date of the enactment of this Act \[Sept. 23, 1959\].”
+Pub. L. 86–376, §2(d), Sept. 23, 1959, 73 Stat. 699, provided that: “The amendment made by subsection (a) \[amending section 1371 of this title\] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) \[amending this section and section 1374 of this title\] shall take effect on the day after the date of the enactment of this Act \[Sept. 23, 1959\].”
 
 Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as an Effective Date note under section 381 of this title.
 
@@ -342,7 +342,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Repeal of Rules Permitting Loss Transfers by Alaska Native Corporations
 
-Section 5021 of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7815(b), Dec. 19, 1989, 103 Stat. 2414, provided that:
+Pub. L. 100–647, title V, §5021, Nov. 10, 1988, 102 Stat. 3666, as amended by Pub. L. 101–239, title VII, §7815(b), Dec. 19, 1989, 103 Stat. 2414, provided that:
 
 “(a)
 
@@ -412,7 +412,7 @@ Extension of statute of limitations.—Subparagraph (A) shall not apply if the S
 
 &emsp;“(3)
 
-Judicial proceedings.—In the case of any proceeding in a Federal court or the United States TaxCourt involving a proposed adjustment under paragraph (1), the Native Corporation, subject to the rules of such court, may file an amicus brief concerning such adjustment.
+Judicial proceedings.—In the case of any proceeding in a Federal court or the United States Tax Court involving a proposed adjustment under paragraph (1), the Native Corporation, subject to the rules of such court, may file an amicus brief concerning such adjustment.
 
 &emsp;“(4)
 
@@ -420,7 +420,7 @@ Failures.—For purposes of the 1986 Code, any failure by the Secretary of the T
 
 “(d)
 
-Disqualified Income Defined.—For purposes of subsection (a), the term ‘disqualified income’ means any income assigned (or attributable to property contributed) after April 26, 1988, by a person who is not a Native Corporation or a corporation all the stock of which is owned directly by a Native Corporation.
+Disqualified Income Defined.—For purposes of subsection (a), the term ‘disqualified income’ means any income assigned (or attributable to property contributed) after April 26, 1988, by a person who is not aNative Corporation or a corporation all the stock of which is owned directly by a Native Corporation.
 
 “(e)
 
@@ -432,7 +432,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transaction Rules
 
-Section 1507(c)(2) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XV, §1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 

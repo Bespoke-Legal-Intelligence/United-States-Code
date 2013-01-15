@@ -2,7 +2,7 @@
 
 #### (a) Allowable purposes and subpurposes; acquisition of land and waters and interests therein; offset for specified capital costs
 
-Moneys appropriated from the fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available, be allotted by the President to the following purposes and subpurposes:
+Moneys appropriated from the fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available,be allotted by the President to the following purposes and subpurposes:
 
 (1) For the acquisition of land, waters, or interests in land or waters as follows:
 
@@ -30,7 +30,7 @@ Appropriations from the fund pursuant to this section shall not be used for acqu
 
 &emsp;(B) The acquisition, if any, is not a major Federal action significantly affecting the quality of the human environment, as determined by the Secretary.
 
-&emsp;(C) The sum of the total appraised value of the lands, waters, and interests therein to be added to the area and the total appraised value of the lands, waters, and interests therein to be deleted from the area does not exceed $750,000.
+&emsp;(C) The sum of the total appraised value of the lands, waters, and interests therein to beadded to the area and the total appraised value of the lands, waters, and interests therein to be deleted from the area does not exceed $750,000.
 
 &emsp;(D) The proposed boundary revision is not an element of a more comprehensive boundary modification proposal.
 
@@ -46,7 +46,7 @@ Appropriations from the fund pursuant to this section shall not be used for acqu
 
 #### References in Text
 
-The effective date of this Act, referred to in subsec. (a)(1), means the effective date of Pub. L. 88–578, which was Jan. 1, 1965. See Effective Date note set out under section 460<i>l</i>–4 of this title.
+The effective date of this Act, referred to in subsec. (a)(1), means the effective date of Pub. L. 88–578, which was Jan. 1, 1965. See Effective Date note set out under section 460l–4 of this title.
 
 The convening of the Ninety-fifth Congress, referred to in subsec. (a)(3), took place on Jan. 4, 1977.
 
@@ -54,7 +54,7 @@ The convening of the Ninety-sixth Congress, referred to in subsec. (a)(3), took 
 
 #### Prior Provisions
 
-A prior section 7 of Pub. L. 88–578 was renumbered section 8 and is classified to section 460<i>l</i>–10 of this title.
+A prior section 7 of Pub. L. 88–578 was renumbered section 8 and is classified to section 460l–10 of this title.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 94–422 reenacted subsec. (b) without change.
 
 <b>1973</b>—Subsec. (a)(1). Pub. L. 93–205 substituted reference to “Endangered species and threatened species” followed by a definition covering “lands, waters, or interests therein, the acquisition of which is authorized under section 1533(a) of this title, needed for the purpose of conserving endangered or threatened species of fish or wildlife or plants” for a reference to “Threatened species” followed by a definition covering “any national area which may be authorized for the preservation of species of fish or wildlife that are threatened with extinction”.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–401 struck out “in substantially the same proportion as the number of visitor-days in areas and projects hereinafter described for which admission fees are charged under section 460<i>l</i>–5 of this title” after “purposes and subpurposes” in text preceding par. (1).
+<b>1968</b>—Subsec. (a). Pub. L. 90–401 struck out “in substantially the same proportion as the number of visitor-days in areas and projects hereinafter described for which admission fees are charged under section 460l–5 of this title” after “purposes and subpurposes” in text preceding par. (1).
 
 #### Change of Name
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-For effective date of amendment by Pub. L. 90–401, see section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, set out as a note under section 460<i>l</i>–5 of this title.
+For effective date of amendment by Pub. L. 90–401, see section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, set out as a note under section 460l–5 of this title.
 

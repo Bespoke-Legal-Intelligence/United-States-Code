@@ -30,7 +30,7 @@ The following rules shall apply to charges for health care services provided by 
 
 #### (C) Use of schedules
 
-&emsp;&emsp;The entity shall make every reasonable effort to secure from patients fees and payments for services in accordance with such schedules, and fees or payments shall be sufficiently discounted in accordance with the schedule described in subparagraph (B).
+&emsp;&emsp;The entity shall make every reasonable effort to secure from patients fees and payments for services in accordance with suchschedules, and fees or payments shall be sufficiently discounted in accordance with the schedule described in subparagraph (B).
 
 #### (2) Services to beneficiaries of Federal and federally assisted programs
 

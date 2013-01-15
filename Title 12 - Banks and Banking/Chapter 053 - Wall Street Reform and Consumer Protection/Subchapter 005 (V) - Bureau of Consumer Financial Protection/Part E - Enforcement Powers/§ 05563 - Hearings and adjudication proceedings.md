@@ -30,7 +30,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (2) Effectiveness of order
 
-&emsp;A cease-and-desist order shall become effective at the expiration of 30 days after the date of service of an order under paragraph (1) upon the covered person or service provider concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), andshall remain effective and enforceable as provided therein, except to such extent as the order is stayed, modified, terminated, or set aside by action of the Bureau or a reviewing court.
+&emsp;A cease-and-desist order shall become effective at the expiration of 30 days after the date of service of an order under paragraph (1) upon the covered person or service provider concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as the order is stayed, modified, terminated, or set aside by action of the Bureau or a reviewing court.
 
 #### (3) Decision and appeal
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the termination of payment of the monetary amounts.
 
-> The President, with respect to the Executive agencies, may extend the 60-day period for not more than 120 additional days if he determines that the extension of the period is in the interest of the United States.
+> The President, with respect to the Executive agencies, may extend the 60-day period for notmore than 120 additional days if he determines that the extension of the period is in the interest of the United States.
 
 (b) Subject to adjustment of the account of an employee under section 5524 of this title and other applicable statute, each payment under this section is at rates of pay, allowances, and differentials, or any of them, currently authorized with respect to the employee on the date payment is made under agency procedures governing payments under this section. The rates so authorized may not exceed the rates to which the employee was entitled immediately before issuance of the departure order. An employee in an Executive agency may be granted such additional allowance payments as the President determines necessary to offset the direct added expenses incident to the departure.
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury shall—
 
-&emsp;(1) take all necessary steps to encourage the Bank to limit the aggregate value of the policy based loans made by the Bank (other than policy based loans made to any country which the Bank has determined is economically less developed or has a limited market economy,which are used to purchase sovereign debt of such country or to reduce the debt or debt service burden of such country) during the 4-year period beginning on January 1, 1990, to 25 percent of the aggregate value of all loans made by the Bank during such 4-year period;
+&emsp;(1) take all necessary steps to encourage the Bank to limit the aggregate value of the policy based loans made by the Bank (other than policy based loans made to any country which the Bank has determined is economically less developed or has a limited market economy, which are used to purchase sovereign debt of such country or to reduce the debt or debt service burden of such country) during the 4-year period beginning on January 1, 1990, to 25 percent of the aggregate value of all loans made by the Bank during such 4-year period;
 
 &emsp;(2) take all necessary steps to encourage the Bank to limit the aggregate value of the policy based loans made by the Bank to the government of a particular country during such 4-year period, to 50 percent of the aggregate value of all loans made by the Bank to such government during such 4-year period;
 

@@ -10,7 +10,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible forfunding under this paragraph may not exceed the greater of—
+&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
 &emsp;&emsp;(A) $1,000,000 per project; or
 
@@ -102,7 +102,7 @@ Minimum standards for payment or reimbursement.—Each application for payment o
 
 &emsp;&emsp;(A) A copy of the applicable Area Maritime Transportation Security Plan or facility security plan.
 
-&emsp;&emsp;(B) A comprehensive description of the need for the project, and a statement of the project's relationship to the applicable Area Maritime Transportation Security Plan or facility security plan.
+&emsp;&emsp;(B) A comprehensive description of the need for the project, and a statement of theproject's relationship to the applicable Area Maritime Transportation Security Plan or facility security plan.
 
 &emsp;&emsp;(C) A determination by the Captain of the Port that the security project addresses or corrects Coast Guard identified vulnerabilities in security and ensures compliance with Area Maritime Transportation Security Plans and facility security plans.
 
@@ -164,7 +164,7 @@ Annual reports.—Annually, beginning 1 year after transmittal of the report req
 
 &emsp;&emsp;(D) with respect to a port selected by the Secretary, describes progress and enhancements of applicable Area Maritime Transportation Security Plans and facility security plans and how the Maritime Transportation Security Act of 2002 has improved security at that port.
 
-(<i>l</i>)
+(l)
 
 Authorization of Appropriations.—There are authorized to be appropriated $400,000,000 for each of the fiscal years 2007 through 2013 to carry out this section.
 
@@ -182,7 +182,7 @@ In general.—The Secretary shall conduct investigations, fund pilot programs, a
 
 &emsp;&emsp;(C) equipment to detect accurately nuclear or radiological materials, including scintillation-based detection equipment capable of signalling the presence of nuclear or radiological materials;
 
-&emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, and transmit that information to the appropriate law enforcement authorities;
+&emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, andtransmit that information to the appropriate law enforcement authorities;
 
 &emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potential transportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
 
@@ -278,9 +278,9 @@ Subsec. (b)(8). Pub. L. 111–281, §828(b)(2), added par.(8).
 
 Subsec. (c)(2)(C). Pub. L. 111–281, §828(b)(3), added subpar. (C).
 
-Subsec. (<i>l</i>). Pub. L. 111–281, §828(b)(4), substituted “2013” for “2011”.
+Subsec. (l). Pub. L. 111–281, §828(b)(4), substituted “2013” for “2011”.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted “for the allocation of funds based on risk” for “for making a fair and equitable allocation of funds” and “national economic, energy, and strategic defense concerns based upon the most current risk assessmentsavailable” for “national economic and strategic defense concerns”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted “for the allocation of funds based on risk” for “for making a fair and equitable allocation of funds” and “national economic, energy, and strategic defense concerns based upon the most current risk assessments available” for “national economic and strategic defense concerns”.
 
 Subsec. (b)(2). Pub. L. 109–347, §112(b)(1), inserted at end “Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—” and subpars. (A) and (B).
 
@@ -292,9 +292,9 @@ Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted “Secretary shall r
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 109–347, §112(d), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g).”
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g).”
 
-Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (<i>l</i>).
+Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 
 Subsec. (m). Pub. L. 109–347, §112(c)(1), redesignated subsec. (i) as (m).
 

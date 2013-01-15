@@ -184,7 +184,7 @@ Custodians of Documents, Answers, and Transcripts.—
 
 &emsp;(1)
 
-Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additional false claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
+Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additionalfalse claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
 
 &emsp;(2)
 
@@ -230,7 +230,7 @@ Judicial Proceedings.—
 
 &emsp;(1)
 
-Petition for enforcement.—Whenever any person fails to comply with any civil investigative demand issued under subsection (a), or whenever satisfactory copying or reproduction of any material requested in such demand cannot be done and such person refuses to surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of the civil investigative demand.
+Petition for enforcement.—Whenever any person fails to comply with any civil investigative demand issued under subsection (a), or whenever satisfactory copying or reproduction of any material requested in such demand cannot be done and such person refusesto surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of the civil investigative demand.
 
 &emsp;(2)
 
@@ -250,7 +250,7 @@ Petition to modify or set aside demand for product of discovery.—(A) In the ca
 
 &emsp;&emsp;(ii) within such longer period as may be prescribed in writing by any false claims law investigator identified in the demand.
 
-&emsp;(B) The petition shall specify each ground upon which the petitioner relies in seeking relief under subparagraph (A), and may be basedupon any failure of the portions of the demand from which relief is sought to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of the petitioner. During the pendency of the petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
+&emsp;(B) The petition shall specify each ground upon which the petitioner relies in seeking relief under subparagraph (A), and may be based upon any failure of the portions of the demand from which relief is sought to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of the petitioner. During the pendency of the petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
 
 &emsp;(4)
 
@@ -268,7 +268,7 @@ Applicability of federal rules of civil procedure.—The Federal Rules of Civil 
 
 Disclosure Exemption.—Any documentary material, answers to written interrogatories, or oral testimony provided under any civil investigative demand issued under subsection (a) shall be exempt from disclosure under section 552 of title 5.
 
-(<i>l</i>)
+(l)
 
 Definitions.—For purposes of this section—
 
@@ -304,11 +304,11 @@ Definitions.—For purposes of this section—
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (b)(1)(B), (c)(2), (h)(1), and (j)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The date of enactment of this section, referred to in subsec. (<i>l</i>)(1)(B), is the date of enactment of Pub. L. 99–562, which was approved Oct. 27, 1986.
+The date of enactment of this section, referred to in subsec. (l)(1)(B), is the date of enactment of Pub. L. 99–562, which was approved Oct. 27, 1986.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted “, or a designee (forpurposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
 
 Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
 
@@ -316,7 +316,7 @@ Subsec. (i)(2)(B). Pub. L. 111–21, §4(c)(2)(A), struck out “, who is autho
 
 Subsec. (i)(2)(C). Pub. L. 111–21, §4(c)(2)(B), struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
 
-Subsec. (<i>l</i>)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
+Subsec. (l)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
 
 #### Effective Date of 2009 Amendment
 

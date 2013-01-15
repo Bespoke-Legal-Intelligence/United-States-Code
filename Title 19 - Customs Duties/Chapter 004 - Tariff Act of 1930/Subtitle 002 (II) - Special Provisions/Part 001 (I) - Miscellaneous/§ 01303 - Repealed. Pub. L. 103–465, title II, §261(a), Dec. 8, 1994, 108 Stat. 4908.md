@@ -4,11 +4,11 @@ Section, acts June 17, 1930, ch. 497, title III, §303, 46 Stat. 687; Jan. 3, 19
 
 #### Effective Date of Repeal
 
-Section 261(a) of title II of Pub. L. 103–465 provided that this section is repealed “effective on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\]”.
+Pub. L. 103–465, title II, §261(a), Dec. 8, 1994, 108 Stat. 4908, provided that this section is repealed “effective on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\]”.
 
 #### Savings Provision
 
-Section 261(b), (c) of title II of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title II, §261(b), (c), Dec. 8, 1994, 108 Stat. 4908, 4909, provided that:
 
 “(b)
 
@@ -38,7 +38,7 @@ Definition of Administering Authority.—For purposes of this section, the term 
 
 #### References to Former Section 1303
 
-Section 261(d)(1)(C) of Pub. L. 103–365 provided that: “Any reference to section 303 \[19 U.S.C. 1303\] in any other Federal law, Executive order, rule, or regulation shall be treated as a reference to section 303 of the Tariff Act of 1930 as in effect on the day before the effective date of title II of this Act \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\].”
+Pub. L. 103–465, title II, §261(d)(1)(C), Dec. 8, 1994, 108 Stat. 4910, provided that: “Any reference to section 303 \[19 U.S.C. 1303\] in any other Federal law, Executive order, rule, or regulation shall be treated as a reference to section 303 of the Tariff Act of 1930 as in effect on the day before the effective date of title II of this Act \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\].”
 
 References to section 1303 in chapter 4 of this title defined to mean section 1303 as in effect on the day before Jan. 1, 1995, see section 1677(26) of this title.
 

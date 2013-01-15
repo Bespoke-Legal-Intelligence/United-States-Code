@@ -8,7 +8,7 @@ In this subtitle:
 
 #### (2) Country of export
 
-&emsp;The term “country of export” means the country (including any political subdivision of the country) from which softwood lumber or a softwood lumber product is exported before entering the United States.
+&emsp;The term “country of export” means the country (including any political subdivision ofthe country) from which softwood lumber or a softwood lumber product is exported before entering the United States.
 
 #### (3) Customs laws of the United States
 
@@ -16,7 +16,7 @@ In this subtitle:
 
 #### (4) Export charges
 
-&emsp;The term “export charges” means any tax, charge, or other fee collected by the countryfrom which softwood lumber or a softwood lumber product, described in section 1683b(a) of this title, is exported pursuant to an international agreement entered into by that country and the United States.
+&emsp;The term “export charges” means any tax, charge, or other fee collected by the country from which softwood lumber or a softwood lumber product, described in section 1683b(a) of this title, is exported pursuant to an international agreement entered into by that country and the United States.
 
 #### (5) Export price
 

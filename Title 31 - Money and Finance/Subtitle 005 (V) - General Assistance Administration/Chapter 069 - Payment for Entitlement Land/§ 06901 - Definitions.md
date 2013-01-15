@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) “entitlement land” means land owned by the United States Government—
 
-&emsp;&emsp;(A) that is in the National Park System or the National Forest System, including wilderness areas and lands described in section 2 of the Act of June 22, 1948 (16 U.S.C. 577d), and section 1 of the Act of June 22, 1956 (16 U.S.C. 577d–1);
+&emsp;&emsp;(A) that is in the National Park System or the National Forest System, including wilderness areas and lands described in section 2 of the Act of June 22, 1948 (16 U.S.C. 577d),and section 1 of the Act of June 22, 1956 (16 U.S.C. 577d–1);
 
 &emsp;&emsp;(B) the Secretary of the Interior administers through the Bureau of Land Management;
 
@@ -94,7 +94,7 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 <b>1996</b>—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
 
-&emsp;“(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
+&emsp;“(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in aState that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
 
 &emsp;“(B) the District of Columbia;
 
@@ -112,7 +112,7 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 #### Effective Date of 1994 Amendment
 
-Section 4(f)(3) of Pub. L. 103–272 provided that the amendment made by that section is effective Sept. 27, 1988.
+Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364, provided that the amendment made by that section is effective Sept. 27, 1988.
 
 #### Short Title of 1998 Amendment
 

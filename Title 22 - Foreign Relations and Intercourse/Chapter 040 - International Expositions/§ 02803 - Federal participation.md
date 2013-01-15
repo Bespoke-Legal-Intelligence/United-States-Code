@@ -54,5 +54,5 @@ Subsecs. (b) to (d). Pub. L. 97–254, §16(a)(4), added subsecs. (b) to (d).
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–254 effective Sept. 8, 1982, see section 15 of Pub. L. 97–254.
+Amendment by Pub. L. 97–254 effective Sept. 8, 1982, see Pub. L. 97–254, §15, Sept. 18, 1982, 96 Stat. 812.
 

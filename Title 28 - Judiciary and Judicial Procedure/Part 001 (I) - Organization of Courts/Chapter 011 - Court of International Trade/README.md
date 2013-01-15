@@ -33,7 +33,7 @@ R.S. §2608 provided for the appointment of four appraisers of merchandise, to b
 
 R.S. §2609 provided for the appointment of merchant appraisers. R.S. §2610 made every merchant refusing to serve as such appraiser liable to a penalty. Both sections were superseded by the provisions relating to appraisers and appraisements of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, and subsequent acts, and were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2945, which contained a provision similar to that of R.S. §2610, was repealed, without mention of section 2610, by said Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and was again repealed by section 642 of act Sept. 21, 1922.
+R.S. §2945, which contained a provision similar to that of R.S. §2610, was repealed, without mention of section 2610, by said Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and was again repealed by act Sept. 21, 1922, ch. 356, §642, 42 Stat. 989.
 
 R.S. §2725, which prescribed the compensation of merchant appraisers, and section 2726, which prescribed the salary of the general appraiser at New York, were superseded by the provisions relating to general appraisers and appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §§12, 13, 26 Stat. 136, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, §28.
 

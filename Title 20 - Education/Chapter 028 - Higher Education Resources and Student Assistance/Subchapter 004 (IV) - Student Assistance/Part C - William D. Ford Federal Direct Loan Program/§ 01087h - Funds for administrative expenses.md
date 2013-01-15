@@ -14,7 +14,7 @@
 
 #### (2) Mandatory funds for eligible not-for-profit servicers
 
-&emsp;For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.
+&emsp;For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition toany other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.
 
 #### (3) Authorization for administrative costs beginning in fiscal years 2007 through 2014
 
@@ -22,7 +22,7 @@
 
 #### (4) Continuing mandatory funds for account maintenance fees
 
-&emsp;For each of the fiscal years 2007 through 2014, there shall be available to the Secretary,from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+&emsp;For each of the fiscal years 2007 through 2014, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 #### (5) Account maintenance fees
 
@@ -64,7 +64,7 @@ Account maintenance fees payable to guaranty agencies under subsection (a)(4) sh
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080.)
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, §2212(b), Mar. 30, 2010, 124 Stat. 1080.)
 
 #### References in Text
 
@@ -122,7 +122,7 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 #### Construction
 
-Section 609(m) of Pub. L. 105–78 provided that: “Nothing in this Act \[see Tables for classification\] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h).”
+Pub. L. 105–78, title VI, §609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: “Nothing in this Act \[see Tables for classification\] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h).”
 
 #### Use of Funds for Administrative Expenses of William D. Ford Direct Loan Program Prohibited
 

@@ -6,7 +6,7 @@ For the purpose of ascertaining the correctness of any return, making a return w
 
 &emsp;(1) To examine any books, papers, records, or other data which may be relevant or material to such inquiry;
 
-&emsp;(2) To summon the person liable for tax or required to perform the act, or any officer or employee of such person, or any person having possession, custody, or care of books of account containing entries relating to the business of the person liable for tax or required to perform the act, or any other person the Secretary may deem proper, to appear before the Secretary at a time and place named in the summons and to produce such books, papers, records, or other data, and to give such testimony, under oath, as may be relevant or material to such inquiry; and
+&emsp;(2) To summon the person liable for tax or required to perform the act, or any officer oremployee of such person, or any person having possession, custody, or care of books of account containing entries relating to the business of the person liable for tax or required to perform the act, or any other person the Secretary may deem proper, to appear before the Secretary at a time and place named in the summons and to produce such books, papers, records, or other data, and to give such testimony, under oath, as may be relevant or material to such inquiry; and
 
 &emsp;(3) To take such testimony of the person concerned, under oath, as may be relevant or material to such inquiry.
 
@@ -94,9 +94,9 @@ Subsec. (e). Pub. L. 105–206, §3417(a), redesignated subsec. (d) as (e).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided that: “The amendments made bysubsection (a) \[amending this section\] shall apply to contacts made after the 180th day after the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §333(b), Sept. 3, 1982, 96 Stat. 623, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

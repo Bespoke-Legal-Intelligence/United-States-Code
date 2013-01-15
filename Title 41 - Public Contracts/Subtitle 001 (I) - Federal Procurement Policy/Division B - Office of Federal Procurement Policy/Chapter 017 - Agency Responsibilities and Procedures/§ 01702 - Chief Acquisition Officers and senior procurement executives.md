@@ -30,9 +30,11 @@ Other functions.—The functions of each Chief Acquisition Officer include—
 
 &emsp;&emsp;(E) managing the direction of acquisition policy for the executive agency, including implementation of the unique acquisition policies, regulations, and standards of the executive agency;
 
-&emsp;&emsp;(F) developing and maintaining an acquisition career management program in the executive agency to ensure that there is an adequate professional workforce; and
+&emsp;&emsp;(F) advising the executive agency on the applicability of relevant policy on the contracts of the agency for overseas contingency operations and ensuring the compliance of the contracts and contracting activities of the agency with such policy;
 
-&emsp;&emsp;(G) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
+&emsp;&emsp;(G) developing and maintaining an acquisition career management program in the executive agency to ensure that there is an adequate professional workforce; and
+
+&emsp;&emsp;(H) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
 
 &emsp;&emsp;&emsp;(i) assessing the requirements established for agency personnel regarding knowledge and skill in acquisition resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for acquisition management;
 
@@ -60,7 +62,11 @@ When chief acquisition officer appointed or designated.—For an executive agenc
 
 &emsp;&emsp;(B) ensure that the senior procurement executive designated under paragraph (1) reports directly to the Chief Acquisition Officer without intervening authority.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3701.)
+(d)
+
+Overseas Contingency Operations Defined.—In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in section 101(a)(13) of title 10).
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3701; Pub. L. 112–239, div. A, title VIII, §849, Jan. 2, 2013, 126 Stat. 1853.)
 
 Historical and Revision Notes
 
@@ -85,4 +91,10 @@ Pub. L. 93–400, §16, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1
 1702(c)
 
 41:414(c).
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(3)(F) to (H). Pub. L. 112–239, §849(a), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
+
+Subsec. (d). Pub. L. 112–239, §849(b), added subsec. (d).
 

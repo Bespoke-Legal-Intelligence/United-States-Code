@@ -52,7 +52,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(4) The current funding structure of a National Intelligence Program (NIP) and a Military Intelligence Program (MIP) may not be the best approach for supporting the development of an intelligence, surveillance, and reconnaissance structure that is integrated to meet the national security requirements of the United States in the 21st century.
 
-&emsp;“(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by Public Law 107–314 \[see 10 U.S.C. 137\] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structurein the Department of Defense to meet such 21st century requirements.
+&emsp;“(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by Public Law 107–314 \[see 10 U.S.C. 137\] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements.
 
 “(b)
 

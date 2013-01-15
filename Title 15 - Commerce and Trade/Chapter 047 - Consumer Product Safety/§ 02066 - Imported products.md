@@ -2,7 +2,7 @@
 
 #### (a) Refusal of admission
 
-Any consumer product offered for importation into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
+Any consumer product offered for importation into the customs territory of the United States\(as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule;
 
@@ -46,7 +46,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 (3) The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
+(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
 
 #### References in Text
 

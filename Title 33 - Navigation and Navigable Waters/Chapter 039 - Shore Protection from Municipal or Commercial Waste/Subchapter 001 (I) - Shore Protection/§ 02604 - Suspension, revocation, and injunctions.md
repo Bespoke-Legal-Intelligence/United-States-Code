@@ -6,7 +6,7 @@ After notice and opportunity for a hearing, the Secretary of Transportation may,
 
 #### (b) Injunctions
 
-The Secretary or the Administrator may bring a civil action to enjoin any operation in violation of this chapter or a regulation prescribedunder this chapter in the district court of the United States for the district in which the violation occurred.
+The Secretary or the Administrator may bring a civil action to enjoin any operation in violation of this chapter or a regulation prescribed under this chapter in the district court of the United States for the district in which the violation occurred.
 
 (Pub. L. 100–688, title IV, §4104, Nov. 18, 1988, 102 Stat. 4157.)
 

@@ -30,7 +30,7 @@ Section 552(e) of title 5, referred to in par. (2)(B)(i), was redesignated secti
 
 #### Effective Date
 
-Section 3 of Pub. L. 95–591 provided that: “The amendments made by this Act \[enacting this chapter, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to any Presidential records (as defined in section 2201(2) of title 44, as amended by section 2 of this Act) created during a term of office of the President beginning on or after January 20, 1981.”
+Pub. L. 95–591, §3, Nov. 4, 1978, 92 Stat. 2528, provided that: “The amendments made by this Act \[enacting this chapter, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to any Presidential records (as defined in section 2201(2) of title 44, as amended by section 2 of this Act) created during a term of office of the President beginning on or after January 20, 1981.”
 
 #### Short Title of 1978 Amendment
 
@@ -38,7 +38,7 @@ For short title of Pub. L. 95–591, which enacted this chapter, as the “Presi
 
 #### Separability
 
-Section 4 of Pub. L. 95–591 provided that: “If any provision of this Act \[enacting this chapter, amending sections 2107 and 2108 of this title and enacting provisions set out as notes under this section\] is held invalid for any reason by any court, the validity and legal effect of the remaining provisions shall not be affected thereby.”
+Pub. L. 95–591, §4, Nov. 4, 1978, 92 Stat. 2528, provided that: “If any provision of this Act \[enacting this chapter, amending sections 2107 and 2108 of this title and enacting provisions set out as notes under this section\] is held invalid for any reason by any court, the validity and legal effect of the remaining provisions shall not be affected thereby.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

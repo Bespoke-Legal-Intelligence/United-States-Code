@@ -68,7 +68,7 @@
 
 #### (D) Other reporting requirements
 
-&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reportingrequirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
+&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, incorporate reporting requirements and incentive payments related to the physician quality reporting initiative (PQRI) under section 1395w–4 of this title, including such requirements and such payments related to electronic prescribing, electronic health records, and other similar initiatives under section 1395w–4 of this title, and may use alternative criteria than would otherwise apply under such section for determining whether to make such payments. The incentive payments described in the preceding sentence shall not be taken into consideration when calculating any payments otherwise made under subsection (d).
 
 #### (4) No duplication in participation in shared savings programs
 
@@ -126,7 +126,7 @@ The Secretary may waive such requirements of sections 1320a–7a and 1320a–7b 
 
 #### (g) Limitations on review
 
-There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of—
+There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise of—
 
 &emsp;(1) the specification of criteria under subsection (a)(1)(B);
 

@@ -26,7 +26,7 @@ The formulation of programs in conformance with the policies of the Foundation s
 
 The Director, in his capacity as ex officio member of the Board, shall, except with respect to compensation and tenure, be coordinate with the other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as Chairman or Vice Chairman of the Board.
 
-(May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L.90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
+(May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
 
 #### Amendments
 
@@ -72,11 +72,11 @@ Pub. L. 96–516, §20, Dec. 12, 1980, 94 Stat. 3010, provided that: “The Dire
 
 Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
-“(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academic institutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
+“(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academicinstitutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
 
 “(b)(1) If the Foundation determines that such a feasibility study is necessary, the Foundation is authorized to conduct such a study directly or by grants or contracts with public agencies, private organizations, or academic institutions.
 
-“(2) At the conclusion of any such study the Foundation shall prepare and submit to the President and tothe Congress a report of the study, together with such recommendations as the Foundation deems appropriate.
+“(2) At the conclusion of any such study the Foundation shall prepare and submit to the President and to the Congress a report of the study, together with such recommendations as the Foundation deems appropriate.
 
 “(3) Of the funds authorized in section 2, $500,000 shall be available to carry out the provisions of this subsection.”
 

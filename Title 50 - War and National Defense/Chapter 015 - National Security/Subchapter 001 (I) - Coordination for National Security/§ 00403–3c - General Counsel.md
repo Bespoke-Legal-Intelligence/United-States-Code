@@ -6,7 +6,7 @@ There is a General Counsel of the Office of the Director of National Intelligenc
 
 #### (b) Prohibition on dual service as General Counsel of another agency
 
-The individual serving in the position of General Counsel may not, while so serving, alsoserve as the General Counsel of any other department, agency, or element of the United States Government.
+The individual serving in the position of General Counsel may not, while so serving, also serve as the General Counsel of any other department, agency, or element of the United States Government.
 
 #### (c) Scope of position
 

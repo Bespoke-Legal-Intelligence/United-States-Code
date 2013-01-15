@@ -48,7 +48,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (1) In general
 
-&emsp;Any person may petition the Administrator for the disclosure of the specific chemicalidentity of a hazardous chemical, an extremely hazardous substance, or a toxic chemical which is claimed as a trade secret under this section. The Administrator may, in the absence of a petition under this paragraph, initiate a determination, to be carried out in accordance with this subsection, as to whether information withheld constitutes a trade secret.
+&emsp;Any person may petition the Administrator for the disclosure of the specific chemical identity of a hazardous chemical, an extremely hazardous substance, or a toxic chemical which is claimed as a trade secret under this section. The Administrator may, in the absence of a petition under this paragraph, initiate a determination, to be carried out in accordance with this subsection, as to whether information withheld constitutes a trade secret.
 
 #### (2) Initial review
 
@@ -56,7 +56,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (3) Finding of sufficient assertions
 
-&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents sufficient assertions to support a finding that the specific chemical identity is a trade secret, the Administrator shall notify the trade secret claimant that he has 30 days to supplement the explanation with detailed information to support the assertions.
+&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents sufficient assertions to support a findingthat the specific chemical identity is a trade secret, the Administrator shall notify the trade secret claimant that he has 30 days to supplement the explanation with detailed information to support the assertions.
 
 &emsp;(B) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are true and that the specific chemical identity is a trade secret, the Administrator shall so notify the petitioner and the petitioner may seek judicial review of the determination.
 

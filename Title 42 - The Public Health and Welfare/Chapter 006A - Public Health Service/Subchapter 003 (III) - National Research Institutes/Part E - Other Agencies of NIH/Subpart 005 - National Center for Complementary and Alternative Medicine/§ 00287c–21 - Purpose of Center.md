@@ -14,7 +14,7 @@ In carrying out subsection (a) of this section, the Director of the Center shall
 
 #### (d) Appropriate scientific expertise and coordination with institutes and Federal agencies
 
-The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and alternative medicine are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. TheDirector of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
+The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and alternative medicine are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
 
 #### (e) Evaluation of various disciplines and systems
 
@@ -36,7 +36,7 @@ In order to ensure high quality, rigorous scientific review of complementary and
 
 &emsp;(6) Other appropriate research and investigational activities.
 
-> The Director of NIH, in coordination with the Director of the Center, shall designate specific personnel in each Institute to serve as full-time liaisons with the Center in facilitating appropriate coordination and scientific input.
+> The Director of NIH, in coordination with the Director of the Center, shall designate specificpersonnel in each Institute to serve as full-time liaisons with the Center in facilitating appropriate coordination and scientific input.
 
 #### (g) Data system; information clearinghouse
 

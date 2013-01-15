@@ -46,13 +46,13 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(C) has jurisdiction over, serves as forum for coordinating, or otherwise has a role or responsibility for the management of, any land or other natural resource;
 
-&emsp;(11) “nonindigenous species” means any species or other viable biological material thatenters an ecosystem beyond its historic range, including any such organism transferred from one country into another;
+&emsp;(11) “nonindigenous species” means any species or other viable biological material that enters an ecosystem beyond its historic range, including any such organism transferred from one country into another;
 
 &emsp;(12) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
 &emsp;(13) “Task Force” means the Aquatic Nuisance Species Task Force established under section 4721 of this title;
 
-&emsp;(14) “territorial sea” means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
+&emsp;(14) “territorial sea” means the belt of the sea measured from the baseline of the UnitedStates determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
 
 &emsp;(15) “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere;
 

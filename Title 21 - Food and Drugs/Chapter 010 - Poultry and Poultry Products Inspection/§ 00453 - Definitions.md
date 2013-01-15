@@ -70,13 +70,13 @@ For purposes of this chapter—
 
 (k) The term “inspector” means: (1) an employee or official of the United States Government authorized by the Secretary to inspect poultry and poultry products under the authority of this chapter, or (2) any employee or official of the government of any State or territory or the District of Columbia authorized by the Secretary to inspect poultry and poultry products under authority of this chapter, under an agreement entered into between the Secretary and the appropriate State or other agency.
 
-(<i>l</i>) The term “official mark” means the official inspection legend or any other symbol prescribed by regulation of the Secretary to identify the status of any article or poultry under this chapter.
+(l) The term “official mark” means the official inspection legend or any other symbol prescribed by regulation of the Secretary to identify the status of any article or poultry under this chapter.
 
-(m) The term “official inspection legend” means any symbol prescribed by regulations of the Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
+(m) The term “official inspection legend” means any symbol prescribed by regulations ofthe Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
 
 (n) The term “official certificate” means any certificate prescribed by regulations of the Secretary for issuance by an inspector or other person performing official functions under this chapter.
 
-(<i>o</i>) The term “official device” means any device prescribed or authorized by the Secretary for use in applying any official mark.
+(o) The term “official device” means any device prescribed or authorized by the Secretary for use in applying any official mark.
 
 (p) The term “official establishment” means any establishment as determined by the Secretary at which inspection of the slaughter of poultry, or the processing of poultry products, is maintained under the authority of this chapter.
 

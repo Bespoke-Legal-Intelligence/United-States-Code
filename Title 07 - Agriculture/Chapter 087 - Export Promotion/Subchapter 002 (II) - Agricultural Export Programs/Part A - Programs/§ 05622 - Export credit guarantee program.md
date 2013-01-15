@@ -2,7 +2,7 @@
 
 #### (a) Short-term credit guarantees
 
-The Commodity Credit Corporation may guarantee the repayment of credit made available tofinance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
 
 #### (b) Purpose of program
 
@@ -22,7 +22,7 @@ The Commodity Credit Corporation may use export credit guarantees authorized und
 
 #### (c) Restrictions on use of credit guarantees
 
-Export credit guarantees authorized by this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall not apply to export sales with respect to which credit is guaranteed under this section.
+Export credit guarantees authorized by this section shall not be used for foreign aid, foreign policy, or debt rescheduling purposes. The provisions of the cargo preference laws shall notapply to export sales with respect to which credit is guaranteed under this section.
 
 #### (d) Restrictions
 
@@ -112,13 +112,13 @@ Subsecs. (e) to (g). Pub. L. 110–246, §3101(a)(3), redesignated subsecs. (g) 
 
 Subsec. (g)(2). Pub. L. 110–246, §3101(c)(3), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 110–246, §3101(a)(3), (4), redesignated subsecs. (j) to (<i>l</i>) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
+Subsecs. (h) to (l). Pub. L. 110–246, §3101(a)(3), (4), redesignated subsecs. (j) to (l) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §3102(a), added par. (3).
 
 Subsec. (k)(1). Pub. L. 107–171, §3102(b), substituted “through 2007” for “, 2001, and 2002”.
 
-Subsec. (<i>l</i>). Pub. L. 107–171, §3102(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–171, §3102(c), added subsec. (l).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -160,11 +160,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Regulations
 
-Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
+Pub. L. 104–127, title II, §243(d), Apr. 4, 1996, 110 Stat. 967, provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III,§321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837, provided that:
 
 “(a)
 
@@ -272,7 +272,7 @@ Agricultural information program.—
 
 &emsp;&emsp;“(A)
 
-Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotionprogram developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
+Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
 
 &emsp;&emsp;“(B)
 
@@ -288,7 +288,7 @@ Implementation.—The Secretary shall draw on the Department of Agriculture's ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, whichmay include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets.
 

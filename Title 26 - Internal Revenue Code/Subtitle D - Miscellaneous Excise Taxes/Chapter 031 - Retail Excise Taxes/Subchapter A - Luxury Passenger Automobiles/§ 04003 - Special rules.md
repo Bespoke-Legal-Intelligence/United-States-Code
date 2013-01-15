@@ -98,7 +98,7 @@ Subsec. (a)(3)(C). Pub. L. 105–34, §1401(a), substituted “$1,000” for “
 
 Amendment by section 906(b)(3), (4) of Pub. L. 105–34 applicable to sales and installations occurring after Aug. 5, 1997, see section 906(c) of Pub. L. 105–34, set out as a note under section 4001 of this title.
 
-Section 1401(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section and section 4051 of this title\] shall apply to installations on vehicles sold after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1401(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by subsection (a) \[amending this section and section 4051 of this title\] shall apply to installations on vehicles sold after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1993 Amendment
 

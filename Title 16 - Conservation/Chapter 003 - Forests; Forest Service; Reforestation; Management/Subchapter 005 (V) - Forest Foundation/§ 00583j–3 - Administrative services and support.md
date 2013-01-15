@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 103–106, §3(a)(2), substituted “beginning October 1, 1
 
 #### Purpose of Pub. L. 103–106
 
-Section 2 of Pub. L. 103–106 provided that: “It is the purpose of this Act \[see Short Title of 1993 Amendment note set out under section 583j of this title\]—
+Pub. L. 103–106, §2, Oct. 12, 1993, 107 Stat. 1031, provided that: “It is the purpose of this Act \[see Short Title of 1993 Amendment note set out under section 583j of this title\]—
 
 &emsp;“(1) to provide for start-up and matching funds for project expenses to carry out the National Forest Foundation Act \[16 U.S.C. 583j et seq.\]; and
 

@@ -2,7 +2,7 @@
 
 Section 293n, act July 1, 1944, ch. 373, title VII, §750, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2044, authorized grants and contracts for development of training programs for physician assistants.
 
-Section 293<i>o</i>, act July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2044, authorized grants and contracts for implementation of training projects for podiatric physicians.
+Section 293o, act July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2044, authorized grants and contracts for implementation of training projects for podiatric physicians.
 
 Section 293p, act July 1, 1944, ch. 373, title VII, §752, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2045, set forth general provisions relating to traineeships and fellowships.
 

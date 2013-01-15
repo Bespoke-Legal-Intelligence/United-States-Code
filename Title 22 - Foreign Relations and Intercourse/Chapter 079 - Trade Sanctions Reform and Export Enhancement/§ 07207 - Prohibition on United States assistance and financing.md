@@ -56,7 +56,7 @@ Determination of President of the United States, No. 2004–49, Sept. 20, 2004, 
 
 Memorandum for the Secretary of State\[,\] the Secretary of Agriculture\[, and\] the Secretary of Commerce
 
-By virtue of the authority vested in me by the Constitution and laws of the United States, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387 \[22 U.S.C. 7207(a)(3)\] (TSRA), I hereby determine that waiver of the application of section 908(a)(1) of TSRA with respect to Libya is in the national security interest of the United States and hereby waive the application of that section with respect to Libya.
+By virtue of the authority vested in me by the Constitution and laws of the United States, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387\[22 U.S.C. 7207(a)(3)\] (TSRA), I hereby determine that waiver of the application of section 908(a)(1) of TSRA with respect to Libya is in the national security interest of the United States and hereby waive the application of that section with respect to Libya.
 
 The Secretary of State is hereby authorized and directed to report this determination and waiver to the Congress and to arrange for its publication in the Federal Register.
 

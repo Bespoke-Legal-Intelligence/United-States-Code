@@ -42,7 +42,7 @@ In clause (1)(B), the date “August 12, 1949” is added to include the referen
 
 In clause (2), the words “in carrying out the purposes described in clause (1) of this section” are substituted for “And for said purposes” for clarity.
 
-In clause (3), the words “International Committee of the Red Cross” are substituted for “Comite�AE1 International de Secours” because the name has been changed.
+In clause (3), the words “International Committee of the Red Cross” are substituted for “Comité International de Secours” because the name has been changed.
 
 In clause (4), the word “continue” is omitted as included in “carry out”.
 

@@ -4,9 +4,9 @@
 
 (b)(1) The Secretary of Defense may authorize the Secretary of the Air Force, during the period specified in paragraph (2), to reduce the requirement under subsection (a) for at least 10 years of active service as a commissioned officer to a period (determined by the Secretary of the Air Force) of not less than eight years.
 
-(2) The period specified in this paragraph is the period beginning on the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013.
+(2) The period specified in this paragraph is the period beginning on January 7, 2011, and ending on September 30, 2018.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 549; Pub. L. 101–510, div. A, title V, §523(c), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–163, div. A, title V, §502(c), Jan. 6, 2006, 119 Stat. 3225; Pub. L. 109–364, div. A, title X, §1071(a)(37), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–383, div. A, title V, §506(c), Jan. 7, 2011, 124 Stat. 4210.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 549; Pub. L. 101–510, div. A, title V, §523(c), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–163, div. A, title V, §502(c), Jan. 6, 2006, 119 Stat. 3225; Pub. L. 109–364, div. A, title X, §1071(a)(37), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–383, div. A, title V, §506(c), Jan. 7, 2011, 124 Stat. 4210; Pub. L. 112–239, div. A, title V, §505(c), title X, §1076(e)(6), Jan. 2, 2013, 126 Stat. 1715, 1951.)
 
 Historical and Revision Notes
 
@@ -26,11 +26,11 @@ July 31, 1935, ch. 422, §5 (1st 101 words); restated June 13, 1940, ch. 344, §
 
 The words “a regular or reserve commissioned officer of the Air Force” are substituted for the words “any officer on the active list of the \* \* \* Regular Air Force \* \* \* or any officer of the reserve components of the \* \* \* Air Force of the United States”. The words “Philippine Scouts” are omitted as obsolete. The words “has at least 20” are substituted for the words “shall have completed not less than twenty”. The words “upon his request” are substituted for the words “upon his own application”. The words “service computed under section 8926 of this title” are substituted for the words “active Federal service in the armed forces of the United States”, since that revised section makes explicit the service covered.
 
-#### References in Text
-
-The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–239, §1076(e)(6), substituted “January 7, 2011,” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
+
+Pub. L. 112–239 substituted “September 30, 2018” for “September 30, 2013”.
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 111–383 substituted “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013” for “January 6, 2006, and ending on December 31, 2008”.
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) fromany purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
 
 #### (B) Actions to recover profits
 
@@ -18,7 +18,7 @@
 
 #### (3) Rulemaking authorized
 
-&emsp;The Commission shall, in consultation with the Secretary of Labor, issue rules to clarify the application of this subsection and to prevent evasion thereof. Such rules shall provide for the application of the requirements of paragraph (1) with respect to entities treated as a single employer with respect to an issuer under section 414(b), (c), (m), or (<i>o</i>) of title 26 to the extent necessary to clarify the application of such requirements and to prevent evasion thereof. Such rules may also provide for appropriate exceptions from the requirements of this subsection, including exceptions for purchases pursuant to an automatic dividend reinvestment program or purchases or sales made pursuant to an advance election.
+&emsp;The Commission shall, in consultation with the Secretary of Labor, issue rules to clarify the application of this subsection and to prevent evasion thereof. Such rules shall provide for the application of the requirements of paragraph (1) with respect to entities treated as a single employer with respect to an issuer under section 414(b), (c), (m), or (o) of title 26 to the extent necessary to clarify the application of such requirements and to prevent evasion thereof. Such rules may also provide for appropriate exceptions from the requirements of this subsection, including exceptions for purchases pursuant to an automatic dividend reinvestment program or purchases or sales made pursuant to an advance election.
 
 #### (4) Blackout period
 
@@ -56,7 +56,7 @@
 
 &emsp;If any amendment made by this subsection requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after the effective date of this section, if—
 
-&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effectand before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
+&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effect and before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
 
 &emsp;&emsp;(B) such plan amendment applies retroactively to the period after such amendment made by this subsection takes effect and before such first plan year.
 
@@ -72,5 +72,5 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 #### Codification
 
-Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
+Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amendedsection 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 

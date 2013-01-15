@@ -128,7 +128,7 @@ Pub. L. 111–84, div. A, title XVIII, §1806, Oct. 28, 2009, 123 Stat. 2614, pr
 
 “(a)
 
-Annual Reports Required.—Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on any trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
+Annual Reports Required.—Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report onany trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
 
 “(b)
 

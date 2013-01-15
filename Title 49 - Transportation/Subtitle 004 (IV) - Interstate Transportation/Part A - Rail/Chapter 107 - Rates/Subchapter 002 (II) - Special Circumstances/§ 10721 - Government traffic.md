@@ -1,8 +1,8 @@
 ### §10721. Government traffic
 
-A rail carrier providing transportation or service for the United States Government may transport property or individuals for the United States Government without charge or at a rate reduced from the applicable commercial rate. Section 6101(b) to (d) of title 41 does not apply when transportation for the United States Government can be obtained from a rail carrier lawfully operating in the area where the transportation would be provided.
+A rail carrier providing transportation or service for the United States Government maytransport property or individuals for the United States Government without charge or at a rate reduced from the applicable commercial rate. Section 6101(b) to (d) of title 41 does not apply when transportation for the United States Government can be obtained from a rail carrier lawfully operating in the area where the transportation would be provided.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819; amended Pub. L. 111–350, §5(<i>o</i>)(4), Jan. 4, 2011, 124 Stat. 3853.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819; amended Pub. L. 111–350, §5(o)(4), Jan. 4, 2011, 124 Stat. 3853.)
 
 #### Prior Provisions
 

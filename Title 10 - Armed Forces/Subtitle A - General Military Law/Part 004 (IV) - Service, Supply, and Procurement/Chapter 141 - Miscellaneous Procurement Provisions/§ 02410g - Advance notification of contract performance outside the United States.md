@@ -4,7 +4,7 @@
 
 Notification.—(1) A firm that is performing a Department of Defense contract for an amount exceeding $10,000,000, or is submitting a bid or proposal for such a contract, shall notify the Department of Defense in advance of any intention of the firm or any first-tier subcontractor of the firm to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada.
 
-(2) If a firm submitting a bid or proposal for a Department of Defense contract is required to submit a notification under this subsection, and the firm is aware, at the time it submits its bid or proposal, that the firm intends to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada, the firm shall include the notification in its bid or proposal.
+(2) If a firm submitting a bid or proposal for a Department of Defense contract is required to submit a notification under this subsection, and the firm is aware, at the time it submits its bid or proposal, that the firm intends to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States orCanada, the firm shall include the notification in its bid or proposal.
 
 (3) The notification by a firm under paragraph (1) with respect to a first-tier subcontractor shall be made, to the maximum extent practicable, at least 30 days before award of the subcontract.
 
@@ -54,5 +54,5 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1992 Amendment
 
-Section 840(b) of Pub. L. 102–484 provided that: “Section 2410g of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. A, title VIII, §840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “Section 2410g of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

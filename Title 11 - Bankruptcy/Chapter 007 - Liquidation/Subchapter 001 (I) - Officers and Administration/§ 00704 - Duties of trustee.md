@@ -16,7 +16,7 @@
 
 &emsp;(7) unless the court orders otherwise, furnish such information concerning the estate and the estate's administration as is requested by a party in interest;
 
-&emsp;(8) if the business of the debtor is authorized to be operated, file with the court, with the United States trustee, and with any governmental unit charged with responsibility for collection or determination of any tax arising out of such operation, periodic reports and summaries of the operation of such business, including a statement of receipts and disbursements, and such other information as the United States trustee or the court requires;
+&emsp;(8) if the business of the debtor is authorized to be operated, file with the court, with theUnited States trustee, and with any governmental unit charged with responsibility for collection or determination of any tax arising out of such operation, periodic reports and summaries of the operation of such business, including a statement of receipts and disbursements, and such other information as the United States trustee or the court requires;
 
 &emsp;(9) make a final report and file a final account of the administration of the estate with the court and with the United States trustee;
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) not later than 7 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
 
-(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
+(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner; or
 
@@ -84,7 +84,7 @@ Section 704(8) of the Senate amendment is deleted in the House amendment. Truste
 
 #### senate report no. 95–989
 
-The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to the extent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
+The essential duties of the trustee are enumerated in this section. Others, or elaborations on these, may be prescribed by the Rules of Bankruptcy Procedure to theextent not inconsistent with those prescribed by this section. The duties are derived from section 47a of the Bankruptcy Act \[section 75(a) of former title 11\].
 
 The trustee's principal duty is to collect and reduce to money the property of the estate for which he serves, and to close up the estate as expeditiously as is compatible with the best interests of parties in interest. He must be accountable for all property received, and must investigate the financial affairs of the debtor. If a purpose would be served (such as if there are assets that will be distributed), the trustee is required to examine proofs of claims and object to the allowance of any claim that is improper. If advisable, the trustee must oppose the discharge of the debtor, which is for the benefit of general unsecured creditors whom the trustee represents.
 

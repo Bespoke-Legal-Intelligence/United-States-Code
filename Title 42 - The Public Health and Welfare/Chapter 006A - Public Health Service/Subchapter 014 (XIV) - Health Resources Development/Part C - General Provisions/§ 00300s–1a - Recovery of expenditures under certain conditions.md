@@ -8,7 +8,7 @@ If any facility with respect to which funds have been paid under this subchapter
 
 &emsp;(2) cease to be a public health center or a public or other nonprofit hospital, outpatient facility, facility for long-term care, or rehabilitation facility,
 
-> the United States shall be entitled to recover, whether from the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof)an amount determined under subsection (c) of this section.
+> the United States shall be entitled to recover, whether from the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount determined under subsection (c) of this section.
 
 #### (b) Notice to Secretary
 
@@ -84,7 +84,7 @@ A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–64
 
 > If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost.”
 
-<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300<i>o</i>–3 of this title”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title”.
 
 #### Effective Date of 1979 Amendment
 

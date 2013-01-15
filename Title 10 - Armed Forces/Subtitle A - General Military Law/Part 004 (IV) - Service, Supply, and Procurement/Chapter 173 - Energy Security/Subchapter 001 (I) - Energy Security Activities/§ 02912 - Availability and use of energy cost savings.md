@@ -8,7 +8,7 @@ Availability.—An amount of the funds appropriated to the Department of Defense
 
 Use.—The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under section 2916(b)(2) of this title shall be used as follows:
 
-&emsp;(1) One-half of the amount shall be used for the implementation of additional energy conservation measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+&emsp;(1) One-half of the amount shall be used for the implementation of additional energy conservation and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
 
 &emsp;(2) One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
 
@@ -26,7 +26,11 @@ Treatment of Certain Financial Incentives.—Financial incentives received from 
 
 Congressional Notification.—The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 inserted “and energy security” after “additional energy conservation”.
 
 #### Transfer of Funds for Energy and Water Efficiency in Federal Buildings
 

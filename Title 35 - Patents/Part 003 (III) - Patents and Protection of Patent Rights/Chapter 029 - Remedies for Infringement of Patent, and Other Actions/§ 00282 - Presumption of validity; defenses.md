@@ -1,22 +1,28 @@
 ### §282. Presumption of validity; defenses
 
-A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1). The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
+(a)
 
-The following shall be defenses in any action involving the validity or infringement of a patent and shall be pleaded:
+In General.—A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
 
-&emsp;(1) Noninfringement, absence of liability for infringement or unenforceability,
+(b)
 
-&emsp;(2) Invalidity of the patent or any claim in suit on any ground specified in part II of this title as a condition for patentability,
+Defenses.—The following shall be defenses in any action involving the validity or infringement of a patent and shall be pleaded:
+
+&emsp;(1) Noninfringement, absence of liability for infringement or unenforceability.
+
+&emsp;(2) Invalidity of the patent or any claim in suit on any ground specified in part II as a condition for patentability.
 
 &emsp;(3) Invalidity of the patent or any claim in suit for failure to comply with—
 
-&emsp;&emsp;(A) any requirement of section 112, except that the failure to disclose the best modeshall not be a basis on which any claim of a patent may be canceled or held invalid or otherwise unenforceable; or
+&emsp;&emsp;(A) any requirement of section 112, except that the failure to disclose the best mode shall not be a basis on which any claim of a patent may be canceled or held invalid or otherwise unenforceable; or
 
 &emsp;&emsp;(B) any requirement of section 251.
 
 &emsp;(4) Any other fact or act made a defense by this title.
 
-In actions involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patentee of any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon as the prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 154(b) or 156 of this title because of the material failure—
+(c)
+
+Notice of Actions; Actions During Extension of Patent Term.—In an action involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patentee of any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon as the prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 154(b) or 156 because of the material failure—
 
 &emsp;(1) by the applicant for the extension, or
 
@@ -24,35 +30,7 @@ In actions involving the validity or infringement of a patent the party assertin
 
 > to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§15(a), 20(g), (j), Sept. 16, 2011, 125 Stat. 328, 334, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(g), (j), (l), Sept. 16, 2011, 125 Stat. 334, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
-
-<i>(1) in the first undesignated paragraph—</i>
-
-<i>(A) by striking “A patent” and inserting “(a) IN GENERAL.—A patent”; and</i>
-
-<i>(B) by striking the third sentence;</i>
-
-<i>(2) in the second undesignated paragraph—</i>
-
-<i>(A) by striking “The following” and inserting “(b) DEFENSES.—The following”;</i>
-
-<i>(B) in paragraph (1), by striking “uneforceability,” and inserting “unenforceability.”; and</i>
-
-<i>(C) in paragraph (2), by striking “patentability,” and inserting “patentability.”;</i>
-
-<i>(3) in the third undesignated paragraph—</i>
-
-<i>(A) by striking “In actions involving the validity or infringement of a patent” and inserting “(c) NOTICE OF ACTIONS; ACTIONS DURING EXTENSION OF PATENT TERM.—In an action involving the validity or infringement of a patent”; and</i>
-
-<i>(B) by striking “Claims Court” and inserting “Court of Federal Claims”; and</i>
-
-<i>(4) by striking “of this title” each place that term appears.</i>
-
-<i>See 2011 Amendment notes below.</i>
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§15(a), 20(g), (j), Sept. 16, 2011, 125 Stat. 328, 334, 335.)
 
 #### Historical and Revision Notes
 
@@ -86,9 +64,7 @@ Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory lang
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], as amended by Pub. L. 107–273, §13206(b)(4), substituted “154(b) or 156 of this title” for “156 of this title”.
 
-<b>1995</b>—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if aclaim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
-
-<b>1992</b>—Third par. Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1995</b>—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
 
 <b>1984</b>—Pub. L. 98–417 inserted provision at end that the invalidity of the extension of a patent term or any portion thereof under section 156 of this title because of the material failure by the applicant for the extension, or by the Commissioner, to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded, and that a due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
@@ -102,17 +78,13 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], as amended by Pub. L
 
 Amendment by section 15(a) of Pub. L. 112–29 effective on Sept. 16, 2011, and applicable to proceedings commenced on or after that date, see section 15(c) of Pub. L. 112–29, set out as a note under section 119 of this title.
 
-Amendment by section 20(g), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(g), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1000(a)(9) \[title IV, §4402(b)(1)\] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
-
-#### Effective Date of 1992 Amendment
-
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 

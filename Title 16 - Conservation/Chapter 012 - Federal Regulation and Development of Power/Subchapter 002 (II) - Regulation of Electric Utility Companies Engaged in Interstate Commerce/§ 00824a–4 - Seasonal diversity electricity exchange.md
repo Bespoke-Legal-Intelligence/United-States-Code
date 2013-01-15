@@ -46,7 +46,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of this title.
 
-<i><sup>1</sup></i><i> So in original. Comma probably should be deleted.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “rights-of-way”.</i>
 

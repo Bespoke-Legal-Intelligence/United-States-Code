@@ -66,7 +66,7 @@ The Secretary may prescribe regulations—
 
 #### Effective Date
 
-Section 1612(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1612(c), Aug. 20, 1996, 110 Stat. 1847, provided that:
 
 “(1)
 

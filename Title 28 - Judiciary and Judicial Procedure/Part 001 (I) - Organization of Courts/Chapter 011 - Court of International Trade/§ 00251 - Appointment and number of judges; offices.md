@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substitut
 
 #### Effective Date of 1980 Amendment
 
-Section 701 of Pub. L. 96–417, as amended by Pub. L. 96–542, §1, Dec. 17, 1980, 94 Stat. 3209, provided that:
+Pub. L. 96–417, title VII, §701, Oct. 10, 1980, 94 Stat. 1747, as amended by Pub. L. 96–542, §1, Dec. 17, 1980, 94 Stat. 3209, provided that:
 
 “(a) Except as otherwise provided in this section, the provisions of and amendments made by this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] shall take effect on November 1, 1980 and shall apply with respect to civil actions pending on or commenced on or after such date.
 
@@ -54,7 +54,7 @@ Section 701 of Pub. L. 96–417, as amended by Pub. L. 96–542, §1, Dec. 17, 1
 
 &emsp;“(F) Section 1963A, as added by section 511(a) of this Act.
 
-“(2) Sections 337(c) and 641(b) of the Tariff Act of 1930 \[19 U.S.C. 1337(c) and 1641(b)\], as amended by sections 604 and 611 of this Act, shall apply with respect to civilactions commenced on or after the effective date of this Act.
+“(2) Sections 337(c) and 641(b) of the Tariff Act of 1930 \[19 U.S.C. 1337(c) and 1641(b)\], as amended by sections 604 and 611 of this Act, shall apply with respect to civil actions commenced on or after the effective date of this Act.
 
 “(3) Section 284 of the Trade Act of 1974 \[19 U.S.C. 2395\], as added by section 613 of this Act, shall apply with respect to civil actions commenced on or after the effective date of this Act.
 
@@ -70,11 +70,11 @@ Section 701 of Pub. L. 96–417, as amended by Pub. L. 96–542, §1, Dec. 17, 1
 
 #### References to Certain Courts Deemed References to the United States Court of International Trade
 
-Section 702 of Pub. L. 96–417 provided that: “Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade.”
+Pub. L. 96–417, title VII, §702, Oct. 10, 1980, 94 Stat. 1748, provided that: “Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade.”
 
 #### Effect on Customs Court Judges
 
-Section 703 of Pub. L. 96–417 provided that:
+Pub. L. 96–417, title VII, §703, Oct. 10, 1980, 94 Stat. 1748, provided that:
 
 “(a) Except as provided in subsection (b) of this section, the amendments made by title I of this Act \[amending this section and section 293 of this title\] shall not affect the status of any individual serving as judge or chief judge of the Customs Court on the date of enactment of this Act \[Oct. 10, 1980\].
 
@@ -82,17 +82,17 @@ Section 703 of Pub. L. 96–417 provided that:
 
 #### Effect on Pending Cases
 
-Section 704 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] shall cause the dismissal of any action commenced prior to the date of enactment of this Act \[Oct. 10, 1980\] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment \[Oct. 10, 1980\].”
+Pub. L. 96–417, title VII, §704, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act \[see section 1of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] shall cause the dismissal of any action commenced prior to the date of enactment of this Act \[Oct. 10, 1980\] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment \[Oct. 10, 1980\].”
 
 #### Tennessee Valley Authority Legal Representation
 
-Section 705 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] to represent itself by attorneys of its choosing.”
+Pub. L. 96–417, title VII, §705, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] to represent itself by attorneys of its choosing.”
 
 #### Limitation or Alteration of Jurisdiction
 
-Section 4 of act July 14, 1956, provided that: “Nothing contained in this Act \[amending this section and sections 292, 293, and 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Customs Court \[now Court of International Trade\] by any provision of law.”
+Act July 14, 1956, ch. 589, §4, 70 Stat. 532, provided that: “Nothing contained in this Act \[amending this section and sections 292, 293, and 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Customs Court \[now Court of International Trade\] by any provision of law.”
 
 #### Continuation of Organization of Court
 
-Section 2(b) of act June 25, 1948, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 

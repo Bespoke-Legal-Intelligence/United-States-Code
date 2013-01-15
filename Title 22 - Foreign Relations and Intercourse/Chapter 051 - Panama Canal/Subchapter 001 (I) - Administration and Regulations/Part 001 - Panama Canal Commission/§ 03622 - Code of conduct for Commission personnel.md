@@ -2,11 +2,11 @@
 
 #### (a) Oath; compliance with laws of United States regarding duties and responsibilities of Federal employees
 
-Before assuming the duties of his office or employment, each member of the Board of the Commission and each officer and employee of the Commission shall take an oath to discharge faithfully the duties of his office or employment. All employees of the Commission shall be subject to the laws of the United States regarding duties and responsibilities of Federal employees.
+Before assuming the duties of his office or employment, each member of the Board of the Commission and each officer and employee ofthe Commission shall take an oath to discharge faithfully the duties of his office or employment. All employees of the Commission shall be subject to the laws of the United States regarding duties and responsibilities of Federal employees.
 
 #### (b) Adoption of code of conduct; time limit; contents
 
-Not later than 60 days after all the members of the Board of the Commission have been appointed, the Board shall adopt a code of conductapplicable to the persons referred to in subsection (a) of this section. The code of conduct shall contain provisions substantially equivalent to those contained in part 735 of title 5 of the Code of Federal Regulations on October 1, 1979. The code of conduct shall, at a minimum, contain provisions substantially equivalent to the following provisions of law:
+Not later than 60 days after all the members of the Board of the Commission have been appointed, the Board shall adopt a code of conduct applicable to the persons referred to in subsection (a) of this section. The code of conduct shall contain provisions substantially equivalent to those contained in part 735 of title 5 of the Code of Federal Regulations on October 1, 1979. The code of conduct shall, at a minimum, contain provisions substantially equivalent to the following provisions of law:
 
 &emsp;(1) the provisions of chapter 11 of title 18, relating to bribery, graft, or conflicts of interest, as appropriate to the employees concerned;
 

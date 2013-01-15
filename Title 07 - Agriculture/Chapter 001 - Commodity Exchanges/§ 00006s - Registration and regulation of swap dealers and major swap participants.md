@@ -50,7 +50,7 @@
 
 #### (2) Major swap participant
 
-&emsp;Any person that is required to be registered as a major swap participant under this section shall register with the Commission regardless of whether the person also is a depository institution or is registered with the Securities and Exchange Commission as a major security-based swap participant.
+&emsp;Any person that is required to be registered as a major swap participant under this sectionshall register with the Commission regardless of whether the person also is a depository institution or is registered with the Securities and Exchange Commission as a major security-based swap participant.
 
 #### (d) Rulemakings
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the Commission to set financial responsibility rules for a futures commission merchant or introducing broker registered pursuant to section 6f(a) of this title (except for section 6f(a)(3) of this title) in accordance with section 6f(b) of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) of the Securities and Exchange Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(b)) (except for section 15(b)(11) of that Act (15 U.S.C. 78<i>o</i>(b)(11)) <sup>1</sup> in accordance with section 15(c)(3) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(c)(3)).
+&emsp;&emsp;&emsp;&emsp;(II) of the Securities and Exchange Commission to set financial responsibility rules for a broker or dealer registered pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) (except for section 15(b)(11) of that Act (15 U.S.C. 78o(b)(11)) <sup>1</sup> in accordance with section 15(c)(3) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(c)(3)).
 
 #### (ii) Futures commission merchants and other dealers
 
@@ -128,7 +128,7 @@
 
 #### (C) Margin requirements
 
-&emsp;&emsp;In prescribing margin requirements under this subsection, the prudential regulator with respect to swap dealers and major swap participants for which it is the prudential regulator and the Commission with respect to swap dealers and major swap participants for which there is no prudential regulator shall permit the use of noncash collateral, as the regulator or the Commission determines to be consistent with—
+&emsp;&emsp;In prescribing margin requirements under this subsection, the prudential regulatorwith respect to swap dealers and major swap participants for which it is the prudential regulator and the Commission with respect to swap dealers and major swap participants for which there is no prudential regulator shall permit the use of noncash collateral, as the regulator or the Commission determines to be consistent with—
 
 &emsp;&emsp;&emsp;(i) preserving the financial integrity of markets trading swaps; and
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;(B)(i) for which there is a prudential regulator, shall keep books and records of all activities related to the business as a swap dealer or major swap participant in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
 
-&emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as maybe prescribed by the Commission by rule or regulation;
+&emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as may be prescribed by the Commission by rule or regulation;
 
 &emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection and examination by any representative of the Commission; and
 
@@ -426,7 +426,7 @@ Each registered swap dealer and major swap participant at all times shall comply
 
 &emsp;&emsp;&emsp;(ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-#### (<i>l</i>) Segregation requirements
+#### (l) Segregation requirements
 
 #### (1) Segregation of assets held as collateral in uncleared swap transactions
 
@@ -478,7 +478,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 
 #### Amendments
 
-<b>2010</b>—Subsec. (<i>l</i>). Pub. L. 111–203, §724(c), added subsec. (<i>l</i>).
+<b>2010</b>—Subsec. (l). Pub. L. 111–203, §724(c), added subsec. (l).
 
 #### Effective Date
 

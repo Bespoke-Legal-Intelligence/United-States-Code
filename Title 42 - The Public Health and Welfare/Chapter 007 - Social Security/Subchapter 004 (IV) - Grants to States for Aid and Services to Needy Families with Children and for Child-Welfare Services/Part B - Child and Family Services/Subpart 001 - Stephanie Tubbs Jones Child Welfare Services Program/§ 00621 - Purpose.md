@@ -6,7 +6,7 @@ The purpose of this subpart is to promote State flexibility in the development a
 
 &emsp;(2) preventing the neglect, abuse, or exploitation of children;
 
-&emsp;(3) supporting at-risk families through services which allow children, where appropriate, to remain safely with their families or return to their families in a timely manner;
+&emsp;(3) supporting at-risk families through services which allow children, where appropriate,to remain safely with their families or return to their families in a timely manner;
 
 &emsp;(4) promoting the safety, permanence, and well-being of children in foster care and adoptive families; and
 
@@ -24,7 +24,7 @@ Pub. L. 109–288, §12, Sept. 28, 2006, 120 Stat. 1255, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under section 1305 of this title\], the amendmentsmade by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+In General.—Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under section 1305 of this title\], the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 “(b)
 
@@ -66,5 +66,5 @@ Pub. L. 109–288, §2, Sept. 28, 2006, 120 Stat. 1233, provided that: “The Co
 
 &emsp;“(12) Methamphetamine abuse is on the increase, particularly among women of child-bearing age. This is having an impact on child welfare systems in many States. According to a survey administered by the National Association of Counties (‘The Impact of Meth on Children’), conducted in 300 counties in 13 states, meth is a major cause of child abuse and neglect. Forty percent of all the child welfare officials in the survey reported an increase in out-of-home placements because of meth in 2005.
 
-&emsp;“(13) It is appropriate also to target PSSF funds to address this issue because of the unique strain the meth epidemic puts on child welfare agencies. Outcomes for children affected by meth are enhanced when services provided by law enforcement, child welfare and substance abuse agencies are integrated.”
+&emsp;“(13) It is appropriate also to target PSSF funds to address this issue because of the unique strain the meth epidemic puts on child welfare agencies. Outcomes for children affected by meth are enhancedwhen services provided by law enforcement, child welfare and substance abuse agencies are integrated.”
 

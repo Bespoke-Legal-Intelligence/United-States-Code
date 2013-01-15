@@ -20,7 +20,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Effective Date
 
-Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, seesection 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
+Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

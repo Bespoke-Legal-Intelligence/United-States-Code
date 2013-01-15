@@ -32,5 +32,5 @@ This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 

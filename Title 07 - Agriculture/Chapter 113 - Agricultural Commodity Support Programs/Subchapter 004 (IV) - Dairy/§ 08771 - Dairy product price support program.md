@@ -44,7 +44,7 @@ To carry out subsection (b) during the period specified in that subsection, the 
 
 #### (4) Butter inventories in excess of 450,000,000 pounds
 
-&emsp;If net removals for a period of 12 consecutive months exceed 450,000,000 pounds of butter, but do not exceed 650,000,000 pounds, the Secretary may reduce the purchase price under subsection (c)(3) during the immediately following month by not more than 10 cents per pound.
+&emsp;If net removals for a period of 12 consecutive months exceed 450,000,000 pounds of butter, butdo not exceed 650,000,000 pounds, the Secretary may reduce the purchase price under subsection (c)(3) during the immediately following month by not more than 10 cents per pound.
 
 #### (5) Butter inventories in excess of 650,000,000 pounds
 
@@ -69,6 +69,8 @@ In the case of each commodity specified in subsection (c) that is available for 
 (Pub. L. 110–234, title I, §1501, May 22, 2008, 122 Stat. 990; Pub. L. 110–246, §4(a), title I, §1501, June 18, 2008, 122 Stat. 1664, 1718.)
 
 #### Codification
+
+Dairy product price support program, referred to in subsec. (b), to be extended through Dec. 31, 2013, see section 701(b)(2)(A) of Pub. L. 112–240, set out as a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 

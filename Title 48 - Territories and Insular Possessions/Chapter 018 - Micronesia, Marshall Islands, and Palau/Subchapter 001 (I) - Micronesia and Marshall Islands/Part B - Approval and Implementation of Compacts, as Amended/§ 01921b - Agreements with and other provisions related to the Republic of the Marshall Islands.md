@@ -24,7 +24,7 @@ Pursuant to sections 222 and 224 of the U.S.-RMI Compact, the United States shal
 
 #### (d) Nuclear test effects
 
-In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak); $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak); $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, whichamounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (e) Espousal provisions
 
@@ -36,7 +36,35 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (1) Marshall Islands program
 
-&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Republic of the Marshall Islands, the President (either through an appropriate department or agency of the United States or by contract with a United States firm) shall continue to provide special medical care and logistical support thereto for the remaining members of the population of Rongelap and Utrik who were exposed to radiation resulting from the 1954 United States thermo-nuclear “Bravo” test, pursuant to Public Laws 95–134 and 96–205.
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Republic of the Marshall Islands, the President (either through an appropriate department or agency of the United States or by contract with a United States firm) shall continue to provide special medical care and logistical support thereto for the remaining members of the population of Rongelap and Utrik who were exposed to radiation resulting from the 1954 United States thermo-nuclear “Bravo” test, pursuant to Public Laws 95–134 and 96–205.
+
+#### (B) Continued monitoring on Runit Island
+
+#### (i) Cactus Crater containment and groundwater monitoring
+
+&emsp;&emsp;&emsp;Effective beginning January 1, 2012, the Secretary of Energy shall, as a part of the Marshall Islands program conducted under subparagraph (A), periodically (but not less frequently than every 4 years) conduct—
+
+&emsp;&emsp;&emsp;&emsp;(I) a visual study of the concrete exterior of the Cactus Crater containment structure on Runit Island; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a radiochemical analysis of the groundwater surrounding and in the Cactus Crater containment structure on Runit Island.
+
+#### (ii) Report
+
+&emsp;&emsp;&emsp;The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources of the House of Representatives, a report that contains—
+
+&emsp;&emsp;&emsp;&emsp;(I) a description of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the results of each visual survey conducted under clause (i)(I); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the results of the radiochemical analysis conducted under clause (i)(II); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a determination on whether the surveys and analyses indicate any significant change in the health risks to the people of Enewetak from the contaminants within the Cactus Crater containment structure.
+
+#### (iii) Funding for groundwater monitoring
+
+&emsp;&emsp;&emsp;The Secretary of the Interior shall make available to the Department of Energy, Marshall Islands Program, from funds available for the Technical Assistance Program of the Office of Insular Affairs, the amounts necessary to conduct the radiochemical analysis of groundwater under clause(i)(II).
 
 #### (2) Agricultural and food programs
 
@@ -78,9 +106,9 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (h) Four atoll health care program
 
-(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that services provided by the United States Public Health Service or any other United States agency pursuant to section 1(a) of Article II of the Agreement for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the “Section 177 Agreement”) shall be only for services to the people of the Atolls of Bikini, Enewetak, Rongelap, and Utrik who were affected by the consequences of the United States nuclear testing program, pursuant to the program described in Public Law 95–134 (91 Stat. 1159) and Public Law 96–205 (94 Stat. 84) and their descendants (and any other persons identified as having been so affected if such identification occurs in the manner described in such public laws). Nothing in this subsection shall be construed as prejudicial to the views or policies of the Government of the Marshall Islands as to the persons affected by the consequences of the United States nuclear testing program.
+(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that services provided by the United States Public Health Service or any other United States agency pursuant to section 1(a) of Article II of the Agreement for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the “Section 177 Agreement”) shall be only for services to the people of the Atolls of Bikini, Enewetak, Rongelap, and Utrik who were affected by the consequences of the United States nuclear testing program, pursuant to the program described in Public Law 95–134 (91 Stat. 1159) and Public Law 96–205 (94 Stat. 84) and their descendants (and any other persons identified as having been so affected if such identification occurs in the manner described in such public laws). Nothing in this subsection shall be construed as prejudicial to the views or policies of the Government of the Marshall Islands as tothe persons affected by the consequences of the United States nuclear testing program.
 
-(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned tothe Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
+(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned to the Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
 
 (3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that the Fund Manager shall retain the funds returned by the Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
 
@@ -114,7 +142,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (6) Disclaimer of liability
 
-&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that neither under the laws of the Marshall Islands nor under the laws of the United States, shall the Government of the United States be liable for any loss or damage to person or property in respect to the resettlement of Enjebi by the people of Enjebi, pursuant to the provision of this subsection or otherwise.
+&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided thatneither under the laws of the Marshall Islands nor under the laws of the United States, shall the Government of the United States be liable for any loss or damage to person or property in respect to the resettlement of Enjebi by the people of Enjebi, pursuant to the provision of this subsection or otherwise.
 
 #### (j) Bikini Atoll cleanup
 
@@ -162,13 +190,13 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 &emsp;&emsp;(A) whether the Government of the Republic of the Marshall Islands has met the requirements set forth in the U.S.-RMI Compact, or any related agreement entered into under the U.S.-RMI Compact, regarding the purposes for which such grants and other assistance are to be used; and
 
-&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic ofthe Marshall Islands pursuant to such grants or assistance.
+&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic of the Marshall Islands pursuant to such grants or assistance.
 
 #### (5) Cooperation by the Republic of the Marshall Islands
 
 &emsp;The Government of the Republic of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
-#### (<i>l</i>) Kwajalein
+#### (l) Kwajalein
 
 #### (1) Statement of policy
 
@@ -198,21 +226,23 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 &emsp;The President is authorized to make loans and grants to the Government of the Marshall Islands to address the special needs of the community at Ebeye, Kwajalein Atoll, and other Marshallese communities within the Kwajalein Atoll, pursuant to development plans adopted in accordance with applicable laws of the Marshall Islands. The loans and grants shall be subject to such other terms and conditions as the President, in the discretion of the President, may determine are appropriate.
 
-(Pub. L. 108–188, title I, §103, Dec. 17, 2003, 117 Stat. 2727; Pub. L. 110–229, title VIII, §806(a)(1), May 8, 2008, 122 Stat. 871.)
+(Pub. L. 108–188, title I, §103, Dec. 17, 2003, 117 Stat. 2727; Pub. L. 110–229, title VIII, §806(a)(1), May 8, 2008, 122 Stat. 871; Pub. L. 112–149, §2, July 26, 2012, 126 Stat. 1144.)
 
 #### References in Text
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in text, is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in text, is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-Public Law 95–134, referred to in subsecs. (f)(1) and (h)(1), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
+Public Law 95–134, referred to in subsecs. (f)(1)(A) and (h)(1), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
-Public Law 96–205, referred to in subsecs. (f)(1) and (h)(1), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 96–205, referred to in subsecs. (f)(1)(A) and (h)(1), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84. For complete classification of this Act to the Code, see Tables.
 
-Public Law 102–154, referred to in subsec. (g)(4), is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, as amended, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
+Public Law 102–154, referred to in subsec. (g)(4), is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-This joint resolution, referred to in subsecs. (i) and (k)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
+This joint resolution, referred to in subsecs. (i) and (k)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720,known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–149 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–229 substituted “Marshall Islands for the Implementation of Section 177” for “Marshall Islands for the Implementation of section 177”.
 

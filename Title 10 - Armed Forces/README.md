@@ -1,6 +1,4 @@
 
-10 U.S.C.<br>United States Code, 2011 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 10—ARMED FORCES
 
 <i>This title was enacted by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1</i>
@@ -8541,11 +8539,11 @@ This title has been enacted into positive law by section 1 of act Aug. 10, 1956,
 
 #### Repeals
 
-Section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49.”
+Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49.”
 
 #### Savings Provision and Separability
 
-Section 49 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that:
+Act Aug. 10, 1956, ch. 1041, §49, 70A Stat. 640, provided that:
 
 “(a) In sections 1–48 of this Act \[see Tables for classification\], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act \[Aug. 10, 1956\]. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -8563,15 +8561,15 @@ Section 49 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that:
 
 #### Effective Date of Uniform Code of Military Justice
 
-Section 51 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that chapter 47 of this title takes effect January 1, 1957.
+Act Aug. 10, 1956, ch. 1041, §51, 70A Stat. 640, provided that chapter 47 of this title takes effect January 1, 1957.
 
 #### Restatement of Suspended or Temporarily Superseded Provisions
 
-Section 50 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that: “If on the effective date of this Act \[Aug. 10, 1956\] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Act Aug. 10, 1956, ch. 1041, §50, 70A Stat. 640, provided that: “If on the effective date of this Act \[Aug. 10, 1956\] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
 #### Improvement of United States Code by Pub. L. 85–861; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability; Status; Repeals
 
-Section 34 of Pub. L. 85–861 provided that:
+Pub. L. 85–861, §34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
 “(a) In sections 1–32 of this Act \[see Tables for classification\], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act \[Sept. 2, 1958\]. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -8583,13 +8581,13 @@ Section 34 of Pub. L. 85–861 provided that:
 
 “(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
-Section 35 of Pub. L. 85–861 provided that: “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Pub. L. 85–861, §35, Sept. 2, 1958, 72 Stat. 1568, provided that: “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-Section 36 of Pub. L. 85–861 repealed certain laws except with respect to rights and duties that matured,penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and dutiesthat matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 #### Improvement of United States Code by Pub. L. 87–651; Inconsistent Provisions Superseded; Corresponding Provisions
 
-Section 306 of Pub. L. 87–651 provided that:
+Pub. L. 87–651, title III, §306, Sept. 7, 1962, 76 Stat. 526, provided that:
 
 “(a) Laws becoming effective after January 9, 1962, that are inconsistent with this Act \[see Tables for classification\] shall be considered as superseding it to the extent of the inconsistency.
 
@@ -8601,7 +8599,7 @@ Section 306 of Pub. L. 87–651 provided that:
 
 #### Improvement of United States Code by Pub. L. 89–718; Inconsistent Provisions Superseded; Corresponding Provisions
 
-Section 74 of Pub. L. 89–718 provided that:
+Pub. L. 89–718, §74, Nov. 2, 1966, 80 Stat. 1124, provided that:
 
 “(a) Laws becoming effective after June 1, 1965, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -8625,9 +8623,9 @@ Pub. L. 97–295, §5, Oct. 12, 1982, 96 Stat. 1313, provided that:
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Section 6(a) of Pub. L. 97–295 provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–295, §6(a), Oct. 12, 1982, 96 Stat. 1314, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 6(b) of Pub. L. 97–295 repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
+Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
 
 #### Improvement of United States Code by Pub. L. 100–370; Corresponding Provisions; Savings Provision
 
@@ -8669,7 +8667,7 @@ Savings Provision for Regulations.—A regulation, rule, or order in effect unde
 
 “(c)
 
-General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall betreated as having been taken, or having matured, under the corresponding provision so enacted.”
+General Savings Provision.—An action taken, or a right that matured, under a provision of title 10,United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted.”
 
 
 ---

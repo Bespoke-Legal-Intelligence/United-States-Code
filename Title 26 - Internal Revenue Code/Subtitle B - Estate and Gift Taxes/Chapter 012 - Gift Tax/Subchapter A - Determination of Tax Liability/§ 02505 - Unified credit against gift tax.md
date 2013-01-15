@@ -20,29 +20,23 @@ The amount of the credit allowed under subsection (a) for any calendar year shal
 
 (Added Pub. L. 94–455, title XX, §2001(b)(2), Oct. 4, 1976, 90 Stat. 1849; amended Pub. L. 97–34, title IV, §§401(b), 442(a)(5), Aug. 13, 1981, 95 Stat. 299, 321; Pub. L. 101–508, title XI, §11801(a)(40), (c)(19)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(2), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §521(b), June 7, 2001, 115 Stat. 71; Pub. L. 111–312, title III, §§301(b), 302(b)(1)(A), (d)(2), 303(b)(1), Dec. 17, 2010, 124 Stat. 3300–3303.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended.Section 2521 of this title was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. Section 2521 of this title was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–312, §§302(d)(2), 304, temporarily inserted concluding provisions. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (a). Pub. L. 111–312, §302(d)(2), inserted concluding provisions.
 
-Subsec. (a)(1). Pub. L. 111–312, §§303(b)(1), 304, temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year, reduced by”. See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (a)(1). Pub. L. 111–312, §303(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year, reduced by”.
 
-Pub. L. 111–312, §§302(b)(1)(A), 304, temporarily struck out “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2010 Amendment note below.
+Pub. L. 111–312, §302(b)(1)(A), struck out “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
 
-Pub. L. 111–312, §§301(b), 304, temporarily amended subsec. (a)(1) to read as if amendment by Pub. L. 107–16, §521(b)(2), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+Pub. L. 111–312, §301(b), amended subsec. (a)(1) to read as if amendment by Pub. L. 107–16, §521(b)(2), had never been enacted. See 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§521(b)(2), 901, temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §521(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the applicable credit amount in effect under section 2010(c) for such calendar year (determined as if the applicable exclusion amount were $1,000,000), reduced by”.
 
-Pub. L. 107–16, §§521(b)(1), 901, temporarily inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §521(b)(1), inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”.
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–34 substituted “the applicable credit amount in effect under section 2010(c) for such calendar year” for “$192,800”.
 
@@ -56,7 +50,7 @@ Subsec. (b). Pub. L. 97–34, §401(b)(2), struck out from heading “$47,000”
 
 Subsec. (d). Pub. L. 97–34, §442(a)(5)(B), substituted “year” for “quarter” in two places.
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title III, §301(b), Dec. 17, 2010, 124 Stat. 3300, provided that the amendment by section 301(b) is effective on and after Jan. 1, 2011.
 
@@ -66,13 +60,9 @@ Amendment by section 302(d)(2) of Pub. L. 111–312 applicable to estates of dec
 
 Amendment by section 303(b)(1) of Pub. L. 111–312 applicable to estates of decedents dying and gifts made after Dec. 31, 2010, see section 303(c)(1) of Pub. L. 111–312, set out as a note under section 2010 of this title.
 
-Section 901 of Pub. L. 107–16 applicable to amendments by sections 301(b), 302(b)(1)(A), (d)(2), and 303(b)(1) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by section 521(b)(1) of Pub. L. 107–16 applicable to estates of decedents dying, and gifts made, after Dec. 31, 2001, and amendment by section 521(b)(2) of Pub. L. 107–16 applicable to gifts made after Dec. 31, 2009, see section 521(e)(1), (2) of Pub. L. 107–16, set out as a note under section 2010 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -80,7 +70,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gift
 
 #### Effective Date of 1981 Amendment
 
-Section 401(c)(2) of Pub. L. 97–34 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts made after such date \[Dec. 31, 1981\].”
+Pub. L. 97–34, title IV, §401(c)(2), Aug. 13, 1981, 95 Stat. 300, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts made after such date \[Dec. 31, 1981\].”
 
 Amendment by section 442(a)(5) of Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 

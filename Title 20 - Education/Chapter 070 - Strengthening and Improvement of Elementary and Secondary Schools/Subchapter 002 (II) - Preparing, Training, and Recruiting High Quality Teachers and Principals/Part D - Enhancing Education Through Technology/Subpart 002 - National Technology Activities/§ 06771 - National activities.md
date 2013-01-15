@@ -14,7 +14,7 @@ Using funds made available under section 6754(b)(2) of this title, the Secretary
 
 &emsp;(3) shall consult with other interested Federal departments or agencies, State and local educational practitioners and policymakers (including teachers, principals, and superintendents), and experts in technology, regarding the study; and
 
-&emsp;(4) shall submit to Congress interim reports, when appropriate, and a final report, to besubmitted not later than April 1, 2006, on the findings of the study.
+&emsp;(4) shall submit to Congress interim reports, when appropriate, and a final report, to be submitted not later than April 1, 2006, on the findings of the study.
 
 #### (b) Dissemination
 

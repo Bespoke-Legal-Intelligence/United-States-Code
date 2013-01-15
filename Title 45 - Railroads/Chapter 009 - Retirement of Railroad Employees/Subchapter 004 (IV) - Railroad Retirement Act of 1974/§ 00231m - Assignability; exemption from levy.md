@@ -18,7 +18,7 @@
 
 (C) If the employee is not entitled to an annuity under section 231a(a)(1) of this title, payments made pursuant to paragraph (2) of this subsection shall be computed as though the employee were entitled to an annuity.
 
-(Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1345; amended Pub. L. 98–76, title IV, §419(a), Aug. 12, 1983, 97 Stat. 438; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–458, title I, §110(a)(1), Dec. 23, 2008, 122 Stat. 5112.)
+(Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1345;amended Pub. L. 98–76, title IV, §419(a), Aug. 12, 1983, 97 Stat. 438; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–458, title I, §110(a)(1), Dec. 23, 2008, 122 Stat. 5112.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Pub. L. 110–458, title I, §110(b)(1), Dec. 23, 2008, 122 Stat. 5112, provided
 
 #### Effective Date of 1983 Amendment
 
-Section 419(b) of Pub. L. 98–76 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annuity amounts payable for months beginning after the date of the enactment of this Act \[Aug. 12, 1983\].”
+Pub. L. 98–76, title IV, §419(b), Aug. 12, 1983, 97 Stat. 438, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annuity amounts payable for months beginning after the date of the enactment of this Act \[Aug. 12, 1983\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

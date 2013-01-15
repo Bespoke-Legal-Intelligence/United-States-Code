@@ -8,13 +8,13 @@ A public housing agency may convert any public housing project (or portion there
 
 #### (1) In general
 
-&emsp;To convert public housing under this section, a public housing agency shall conduct anassessment of the public housing that includes—
+&emsp;To convert public housing under this section, a public housing agency shall conduct an assessment of the public housing that includes—
 
 &emsp;&emsp;(A) a cost analysis that demonstrates whether or not the cost (both on a net present value basis and in terms of new budget authority requirements) of providing tenant-based assistance under section 1437f of this title for the same families in substantially similar dwellings over the same period of time is less expensive than continuing public housing assistance in the public housing project for the remaining useful life of the project;
 
 &emsp;&emsp;(B) an analysis of the market value of the public housing project both before and after rehabilitation, and before and after conversion;
 
-&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
+&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistanceunder section 1437f of this title by the agency;
 
 &emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
 
@@ -70,7 +70,7 @@ A public housing project may be converted under this section to tenant-based ass
 
 &emsp;&emsp;(B) provide any necessary counseling for families displaced by such action;
 
-&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remainin their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
+&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remain in their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
 
 &emsp;&emsp;(D) provide any actual and reasonable relocation expenses for families displaced by the conversion; and
 
@@ -112,7 +112,7 @@ Pub. L. 105–276, title V, §533(b), Oct. 21, 1998, 112 Stat. 2578, provided th
 
 #### Public Housing One-Stop Perinatal Services Demonstration
 
-Section 521 of Pub. L. 101–625, as amended by Pub. L. 102–550, title I, §125, Oct. 28, 1992, 106 Stat. 3710, which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of providing grants to public housing agencies to assist such agencies in providing facilities for making one-stop perinatal services programs available for pregnant women residing in public housing, set forth preferences, limitation on grant amount, and program requirements, and required report to Congress not later than 1 year after amounts were first made available setting forth findings and conclusions and including recommendations with respect to establishment of permanent program, was repealed by Pub. L. 105–276, title V, §582(a)(9), Oct. 21, 1998, 112 Stat. 2644.
+Pub. L. 101–625, title V, §521, Nov. 28, 1990, 104 Stat. 4205, as amended by Pub. L. 102–550, title I, §125, Oct. 28, 1992, 106 Stat. 3710, which directed Secretary of Housing and Urban Development to carry out program to demonstrate effectiveness of providing grants to public housing agencies to assist such agencies in providing facilities for making one-stop perinatal services programs available for pregnant women residing in public housing, set forth preferences, limitation on grant amount, and program requirements, and required report to Congress not later than 1 year after amounts were first made available setting forth findings and conclusions and including recommendations with respect to establishment of permanent program, was repealed by Pub. L. 105–276, title V, §582(a)(9), Oct. 21, 1998, 112 Stat. 2644.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

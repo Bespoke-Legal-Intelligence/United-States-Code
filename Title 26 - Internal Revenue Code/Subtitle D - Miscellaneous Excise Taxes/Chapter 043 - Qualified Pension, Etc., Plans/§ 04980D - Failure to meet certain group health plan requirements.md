@@ -34,7 +34,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
-&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for anyyear are more than de minimis, subparagraph (A) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
+&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for any year are more than de minimis, subparagraph (A) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
 
 #### (C) Exception for church plans
 
@@ -78,7 +78,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan, the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan,the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the amount paid or incurred by such trust during such taxable year to provide medical care (as defined in section 9832(d)(3)) directly or through insurance, reimbursement, or otherwise, or
 
@@ -104,7 +104,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “small employer” means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 but not more than 50 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as one employer.
+&emsp;&emsp;For purposes of paragraph (1), the term “small employer” means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 but not more than 50 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one employer.
 
 #### (B) Employers not in existence in preceding year
 
@@ -176,9 +176,9 @@ Subsec. (f)(1). Pub. L. 105–34, §1531(b)(2)(E), substituted “section 9832(a
 
 #### Effective Date of 1997 Amendment
 
-Section 1531(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
 #### Effective Date
 
-Section 402(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act).”
+Pub. L. 104–191, title IV, §402(c), Aug. 21, 1996, 110 Stat. 2087, provided that: “The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act).”
 

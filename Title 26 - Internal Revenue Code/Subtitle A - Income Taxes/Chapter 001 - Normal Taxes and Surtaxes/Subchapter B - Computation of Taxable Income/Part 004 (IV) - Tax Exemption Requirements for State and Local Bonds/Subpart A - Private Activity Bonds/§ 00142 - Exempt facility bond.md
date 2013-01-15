@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (iii) HUD hold harmless policy
 
-&emsp;&emsp;&emsp;The term “HUD hold harmless policy” means the regulations under which a policy similar to the rules of clause (i) applied to prevent a change in the method of determining area median gross income from resulting in a reduction in the area mediangross income determined with respect to certain projects in calendar years 2007 and 2008.
+&emsp;&emsp;&emsp;The term “HUD hold harmless policy” means the regulations under which a policy similar to the rules of clause (i) applied to prevent a change in the method of determining area median gross income from resulting in a reduction in the area median gross income determined with respect to certain projects in calendar years 2007 and 2008.
 
 #### (iv) HUD hold harmless impacted project
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceedsthe applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (7) Certification to Secretary
 
-&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exemptstatus of any bond but shall subject the operator to penalty, as provided in section 6652(j).
+&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
 
 #### (e) Facilities for the furnishing of water
 
@@ -244,7 +244,7 @@ For purposes of subsection (a)(4), the term “facilities for the furnishing of 
 
 &emsp;(1) the water is or will be made available to members of the general public (including electric utility, industrial, agricultural, or commercial users), and
 
-&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
+&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similarbody of any State or political subdivision thereof.
 
 #### (f) Local furnishing of electric energy or gas
 
@@ -324,7 +324,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system”means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
+&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system” means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
 
 &emsp;&emsp;&emsp;(i) residential, commercial, or industrial heating or cooling, or
 
@@ -336,7 +336,7 @@ For purposes of subsection (a)(8)—
 
 #### (h) Qualified hazardous waste facilities
 
-For purposes of subsection (a)(10), the term “qualified hazardous waste facility” means any facility for the disposal of hazardous waste by incineration or entombment but only if—
+For purposes of subsection (a)(10), the term “qualified hazardous waste facility” means anyfacility for the disposal of hazardous waste by incineration or entombment but only if—
 
 &emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of the Solid Waste Disposal Act (as in effect on the date of the enactment of the Tax Reform Act of 1986), and
 
@@ -440,7 +440,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 &emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation arose under rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
 
-#### (<i>l</i>) Qualified green building and sustainable design projects
+#### (l) Qualified green building and sustainable design projects
 
 #### (1) In general
 
@@ -506,7 +506,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (v) Use of tax benefit
 
-&emsp;&emsp;&emsp;The project proposal includes a description of the net benefit of the tax-exempt financing provided under this subsection which will be allocated for financing of one or more of the following:
+&emsp;&emsp;&emsp;The project proposal includes a description of the net benefit of the tax-exemptfinancing provided under this subsection which will be allocated for financing of one or more of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The purchase, construction, integration, or other use of energy efficiency, renewable energy, and sustainable design features of the project.
 
@@ -632,15 +632,11 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Section 8 of the United States Housing Act of 1937, referred to in subsec. (d)(2)(A)(iii), (B)(i), (4)(C)(ii), is classified to section 1437f of Title 42, The Public Health and Welfare.
 
-Sections 211 and 213 of the Federal Power Act, referred to in subsec. (f)(2)(A), are classified to sections 824j and 824<i>l</i>, respectively, of Title 16, Conservation.
+Sections 211 and 213 of the Federal Power Act, referred to in subsec. (f)(2)(A), are classified to sections 824j and 824l, respectively, of Title 16, Conservation.
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(2)(A), is the date of enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 
@@ -654,7 +650,7 @@ Section 14101 of the Elementary and Secondary Education Act of 1965, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (k)(4), means the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
-The enactment of this subsection, referred to in subsec. (<i>l</i>)(3)(A), probably means the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+The enactment of this subsection, referred to in subsec. (l)(3)(A), probably means the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
@@ -678,9 +674,9 @@ Subsec. (d)(3)(A). Pub. L. 110–289, §3010(a), inserted at end “The precedin
 
 Subsec. (d)(3)(C). Pub. L. 110–289, §3008(a), added subpar. (C).
 
-Subsec. (<i>l</i>)(8). Pub. L. 110–343, §307(a), substituted “September 30, 2012” for “September 30, 2009”.
+Subsec. (l)(8). Pub. L. 110–343, §307(a), substituted “September 30, 2012” for “September 30, 2009”.
 
-Subsec. (<i>l</i>)(9). Pub. L. 110–343, §307(b), substituted “October 1, 2012” for “October 1, 2009”.
+Subsec. (l)(9). Pub. L. 110–343, §307(b), substituted “October 1, 2012” for “October 1, 2009”.
 
 <b>2006</b>—Subsec. (d)(2)(B). Pub. L. 109–222 substituted “Subsections (g) and (h) of section 7872” for “Section 7872(g)”.
 
@@ -690,11 +686,11 @@ Subsec. (m). Pub. L. 109–59, §11143(b), added subsec. (m).
 
 <b>2004</b>—Subsec. (a)(14). Pub. L. 108–357, §701(a), added par. (14).
 
-Subsec. (<i>l</i>). Pub. L. 108–357, §701(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 108–357, §701(b), added subsec. (l).
 
-<b>2001</b>—Subsec. (a)(13). Pub. L. 107–16, §§422(a), 901, temporarily added par. (13). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(13). Pub. L. 107–16, §422(a), added par. (13).
 
-Subsec. (k). Pub. L. 107–16, §§422(b), 901, temporarily added subsec. (k). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (k). Pub. L. 107–16, §422(b), added subsec. (k).
 
 <b>1998</b>—Subsec. (f)(3)(A)(ii). Pub. L. 105–206 struck out comma after “1997”.
 
@@ -736,9 +732,9 @@ Pub. L. 111–5, div. B, title I, §1504(b), Feb. 17, 2009, 123 Stat. 355, provi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, provided that: “The amendments made by this section \[amending this section\] shall apply to—
+Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, as amended by Pub. L. 112–240, title III, §303(a), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendments made by this section \[amending this section\] shall apply to—
 
-&emsp;“(1) determinations made after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2012, in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
+&emsp;“(1) determinations made after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2014, in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
 
 &emsp;&emsp;“(A) with respect to which housing credit dollar amounts have been allocated on or before the date of the enactment of this Act \[July 30, 2008\], or
 
@@ -746,9 +742,11 @@ Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, pr
 
 &emsp;“(2) determinations made after the date of enactment of this Act \[July 30, 2008\], in the case of qualified buildings (as so defined)—
 
-&emsp;&emsp;“(A) with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2012, or
+&emsp;&emsp;“(A) with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2014, or
 
-&emsp;&emsp;“(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\] and before January 1, 2012, to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment and before January 1, 2012.”
+&emsp;&emsp;“(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\] and before January 1, 2014, to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment and before January 1, 2014.”
+
+\[Pub. L. 112–240, title III, §303(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\].”\]
 
 Pub. L. 110–289, div. C, title I, §3008(d), July 30, 2008, 122 Stat. 2887, provided that: “The amendments made by this section \[amending this section\] shall apply to determinations of the status of qualified residential rental projects for periods beginning after the date of the enactment of this Act \[July 30, 2008\], with respect to bonds issued before, on, or after such date.”
 
@@ -768,17 +766,15 @@ Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided 
 
 Pub. L. 108–357, title VII, §701(e), Oct. 22, 2004, 118 Stat. 1540, provided that: “The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after December 31, 2004.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that: “The amendments made by this section \[amending this section and sections 146 and 147 of this title\] shall apply to bonds issued after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1992 Amendment
 
-Section 1919(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued before, on, or after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1919(b), Oct. 24, 1992, 106 Stat. 3026, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued before, on, or after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
-Section 1921(c) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1921(c), Oct. 24, 1992, 106 Stat. 3028, provided that: “The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -790,19 +786,19 @@ Amendment by section 7816(s) of Pub. L. 101–239 effective, except as otherwise
 
 Amendment by section 1013(a)(1), (39) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6180(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending sections 142, 146, and 147 of this title\] shall apply to bonds issued after the date of enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6180(c), Nov. 10, 1988, 102 Stat. 3728, provided that: “The amendments made by this section \[amending sections 142, 146, and 147 of this title\] shall apply to bonds issued after the date of enactment of this Act \[Nov. 10, 1988\].”
 
 #### Accountability
 
-Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: “Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(<i>l</i>)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(<i>l</i>)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury.”
+Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: “Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(l)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(l)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury.”
 
 #### No Inference With Respect to Outstanding Bonds From Use of Term “Person”
 
-Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘person’ in section 142(f)(3) of the Internal Revenue Code of 1986, as added by subsection (a), shall not be construed to affect the tax-exempt status of interest on any bonds issued before the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1608(b), Aug. 20, 1996, 110 Stat. 1841, provided that: “The use of the term ‘person’ in section 142(f)(3) of the Internal Revenue Code of 1986, as added by subsection (a), shall not be construed to affect the tax-exempt status of interest on any bonds issued before the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
-Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
+Pub. L. 104–188, title I, §1804, Aug. 20, 1996, 110 Stat. 1893, provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 42(i)(3)(D)”.</i>
 

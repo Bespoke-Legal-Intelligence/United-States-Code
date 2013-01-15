@@ -42,13 +42,13 @@ Section was enacted as part of the Aid, Trade, and Competitiveness Act of 1992 a
 
 #### Short Title of 1992 Amendment
 
-Section 301 of title III of Pub. L. 102–549 provided that: “This title \[enacting this section and sections 2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
+Pub. L. 102–549, title III, §301, Oct. 28, 1992, 106 Stat. 3658, provided that: “This title \[enacting this section and sections 2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
 
 #### Reports to Congress on Capital Projects
 
-Section 305 of title III of Pub. L. 102–549 directed President, not later than May 1, 1993, to submit to Congress a report describing the extent to which United States Government resources have been expended specifically to support specified projects in developing countries and countries making the transition from nonmarket to market economies, the extent to which the activities of the United States Government have been coordinated, and the extent to which United States Government capital projects and tied-aid credit programs have affected United States exports.
+Pub. L. 102–549, title III, §305, Oct. 28, 1992, 106 Stat. 3660, directed President, not later than May 1, 1993, to submit to Congress a report describing the extent to which United States Government resources have been expended specifically to support specified projects in developing countries and countries making the transition from nonmarket to market economies, the extent to which the activities of the United States Government have been coordinated, and the extent to which United States Government capital projects and tied-aid credit programs have affected United States exports.
 
 #### Report on Feasibility of AID Credit Guarantees To Finance Capital Projects
 
-Section 307 of Pub. L. 102–549 directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
+Pub. L. 102–549, title III, §307, Oct. 28, 1992, 106 Stat. 3660, directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
 

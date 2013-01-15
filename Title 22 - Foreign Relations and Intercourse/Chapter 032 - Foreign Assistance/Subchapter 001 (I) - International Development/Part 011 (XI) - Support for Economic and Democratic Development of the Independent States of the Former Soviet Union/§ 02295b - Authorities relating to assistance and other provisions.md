@@ -52,7 +52,7 @@ Funds made available for assistance under this part may be used for procurementâ
 
 #### (i) Terms and conditions
 
-Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j) of this section).
+Assistance under this part shall be provided on such terms and conditions as the President maydetermine, consistent with applicable provisions of law (except as otherwise provided in subsection (j) of this section).
 
 #### (j) Waiver of certain provisions
 

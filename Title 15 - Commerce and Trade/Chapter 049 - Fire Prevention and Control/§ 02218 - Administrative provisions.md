@@ -20,7 +20,7 @@ With respect to this chapter, the Administrator is authorized to—
 
 #### (c) Audit
 
-The Director and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the recipients of contracts, grants, or other forms of assistance that are pertinent to its activities under this chapter for the purpose of audit or to determine if a proposed activity is in the public interest.
+The Administrator of FEMA and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the recipients of contracts, grants, or other forms of assistance that are pertinent to its activities under this chapter for the purpose of audit or to determine if a proposed activity is in the public interest.
 
 #### (d) Inventions and discoveries
 
@@ -40,7 +40,7 @@ All property rights with respect to inventions and discoveries, which are made i
 
 &emsp;The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
 
-(Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §9(a), Oct. 8, 2008, 122 Stat. 4061.)
+(Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §9(a), Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 #### References in Text
 
@@ -54,7 +54,9 @@ In subsec. (b)(2), “section 1342 of title 31” substituted for “section 367
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows: “To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities.The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director”.
+
+<b>2008</b>—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows: “To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
@@ -102,7 +104,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 20, 1997\], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 20, 1997\], and annually thereafter, the Administrator shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budgetrequest to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;“(B)
 

@@ -114,7 +114,7 @@ In this section:
 
 #### (III) Credits toward secondary school degree
 
-&emsp;&emsp;&emsp;&emsp;No credit earned by an Indian student for the purpose of obtaining a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count under this clause.
+&emsp;&emsp;&emsp;&emsp;No credit earned by an Indian student for the purpose of obtaining a secondaryschool degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count under this clause.
 
 #### (v) Continuing education programs
 

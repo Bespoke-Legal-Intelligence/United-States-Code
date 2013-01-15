@@ -68,5 +68,5 @@ The geothermal leasing laws of the United States, referred to in subsec. (i), ar
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “GeorgeWashington National Forest Mount Pleasant Scenic Area”.
 

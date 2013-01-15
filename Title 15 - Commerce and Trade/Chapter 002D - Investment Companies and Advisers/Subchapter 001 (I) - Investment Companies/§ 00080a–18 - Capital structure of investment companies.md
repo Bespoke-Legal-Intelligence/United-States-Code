@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (a) of this section it shall be unl
 
 #### (d) Warrants and rights to subscription
 
-It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the form of warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
+It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the formof warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
 
 #### (e) Application of section to specific senior securities
 
@@ -66,7 +66,7 @@ The term “senior security”, when used in subparagraphs (B) and (C) of paragr
 
 #### (h) “Asset coverage” defined
 
-“Asset coverage” of a class of senior security representing an indebtedness of an issuer means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer. “Asset coverage” of a class of senior security of an issuer which is a stock means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer plus the aggregate of the involuntary liquidation preference of such class of senior security which is a stock. The involuntary liquidation preference of a class of senior security which is a stock shall be deemed to mean the amount to which such class of senior security would be entitled on involuntary liquidation of the issuer in preference to a security junior to it.
+“Asset coverage” of a class of senior security representing an indebtedness of an issuer means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer. “Asset coverage” of a class of senior security of an issuerwhich is a stock means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer plus the aggregate of the involuntary liquidation preference of such class of senior security which is a stock. The involuntary liquidation preference of a class of senior security which is a stock shall be deemed to mean the amount to which such class of senior security would be entitled on involuntary liquidation of the issuer in preference to a security junior to it.
 
 #### (i) Future issuance of stock as voting stock; exceptions
 

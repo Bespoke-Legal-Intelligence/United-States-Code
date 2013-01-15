@@ -6,7 +6,7 @@ The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare 
 
 #### (b) Membership and representation of interests on initial Council
 
-The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
+The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers,representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
 
 #### (c) Technical and other assistance for initial Council; availability of data
 
@@ -30,7 +30,7 @@ Members of the Council or of any advisory committee appointed under this section
 
 #### (h) Exemption from conflict of interest laws of members of Council or advisory committees; exceptions
 
-(1) Any member of the Council or any advisory committee appointed under this chapter, who is not a regular full-time employee of the United States, is hereby exempted, with respect to such appointment, from the operation of sections 203,205, and 209 of title 18, except as otherwise specified in paragraph (2) of this subsection.
+(1) Any member of the Council or any advisory committee appointed under this chapter, who is not a regular full-time employee of the United States, is hereby exempted, with respect to such appointment, from the operation of sections 203, 205, and 209 of title 18, except as otherwise specified in paragraph (2) of this subsection.
 
 (2) The exemption granted by paragraph (1) shall not extend—
 

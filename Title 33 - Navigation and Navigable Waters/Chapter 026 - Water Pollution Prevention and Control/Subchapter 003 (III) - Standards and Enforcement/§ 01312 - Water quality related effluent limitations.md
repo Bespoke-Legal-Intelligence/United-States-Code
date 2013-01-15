@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Whenever, in the judgment of the Administrator or as identified under section 1314(<i>l</i>) of this title, discharges of pollutants from a point source or group of point sources, with the application of effluent limitations required under section 1311(b)(2) of this title, would interfere with the attainment or maintenance of that water quality in a specific portion of the navigable waters which shall assure protection of public health, public water supplies, agricultural and industrial uses, and the protection and propagation of a balanced population of shellfish, fish and wildlife, and allow recreational activities in and on the water, effluent limitations (including alternative effluent control strategies) for such point source or sources shall be established which can reasonably be expected to contribute to the attainment or maintenance of such water quality.
+Whenever, in the judgment of the Administrator or as identified under section 1314(l) of this title, discharges of pollutants from a point source or group of point sources, with the application of effluent limitations required under section 1311(b)(2) of this title, would interfere with the attainment or maintenance of that water quality in a specific portion of the navigable waters which shall assure protection of public health, public water supplies, agricultural and industrial uses, and the protection and propagation of a balanced population of shellfish, fish and wildlife, and allow recreational activities in and on the water, effluent limitations (including alternative effluent control strategies) for such point source or sources shall be established which can reasonably be expected to contribute to the attainment or maintenance of such water quality.
 
 #### (b) Modifications of effluent limitations
 
@@ -28,11 +28,11 @@ The establishment of effluent limitations under this section shall not operate t
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–4, §308(e)(2), inserted “or as identified under section 1314(<i>l</i>) of this title” after “Administrator” and “public health,” after “protection of”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–4, §308(e)(2), inserted “or as identified under section 1314(l) of this title” after “Administrator” and “public health,” after “protection of”.
 
 Subsec. (b). Pub. L. 100–4, §308(e)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Prior to establishment of any effluent limitation pursuant to subsection (a) of this section, the Administrator shall issue notice of intent to establish such limitation and within ninety days of such notice hold a public hearing to determine the relationship of the economic and social costs of achieving any such limitation or limitations, including any economic or social dislocation in the affected community or communities, to the social and economic benefits to be obtained (including the attainment of the objective of this chapter) and to determine whether or not such effluent limitations can be implemented with available technology or other alternative control strategies.
+“(1) Prior to establishment of any effluent limitation pursuant to subsection (a) of this section, the Administrator shall issue notice of intent to establish such limitation and within ninety days of such notice hold a public hearing to determine the relationship of the economic and social costs of achieving any such limitationor limitations, including any economic or social dislocation in the affected community or communities, to the social and economic benefits to be obtained (including the attainment of the objective of this chapter) and to determine whether or not such effluent limitations can be implemented with available technology or other alternative control strategies.
 
 “(2) If a person affected by such limitation demonstrates at such hearing that (whether or not such technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter), such limitation shall not become effective and the Administrator shall adjust such limitation as it applies to such person.”
 

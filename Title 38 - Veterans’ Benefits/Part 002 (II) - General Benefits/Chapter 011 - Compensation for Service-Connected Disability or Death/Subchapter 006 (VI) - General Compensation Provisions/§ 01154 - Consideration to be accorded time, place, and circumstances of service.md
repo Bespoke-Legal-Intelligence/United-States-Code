@@ -36,7 +36,7 @@ Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, provided that
 
 “(a)
 
-Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and theSecretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
+Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
 
 “(2) In conducting the review under paragraph (1), the Secretaries shall—
 
@@ -178,7 +178,7 @@ Effective Date.—The Registry shall be established not later than 180 days afte
 
 #### Veterans’ Dioxin and Radiation Exposure Compensation Standards; Congressional Findings and Statement of Purpose
 
-Sections 1–3 of Pub. L. 98–542, as amended by Pub. L. 102–4, §10(a), (b), Feb. 6, 1991, 105 Stat. 19, provided that:
+Pub. L. 98–542, §1–3, Oct. 24, 1984, 98 Stat. 2725, 2727, as amended by Pub. L. 102–4, §10(a), (b), Feb. 6, 1991, 105 Stat. 19, provided that:
 
 #### “short title
 
@@ -196,7 +196,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;“(2) There is scientific and medical uncertainty regarding such long-term adverse health effects.
 
-&emsp;“(3) In section 102 of Public Law 97–22 \[see Tables for classification\], the Congress responded to that uncertainty by authorizing priority medical care at Veterans’ Administration \[now Department of Veterans Affairs\] facilities for any disability of a veteran who may have been so exposed (even though there is insufficient medical evidence linking such disability with such exposure) unless the disability is found to have resulted from a cause other than the exposure.
+&emsp;“(3) In section 102 of Public Law 97–22 \[see Tables for classification\], the Congress responded to that uncertainty by authorizing priority medical care atVeterans’ Administration \[now Department of Veterans Affairs\] facilities for any disability of a veteran who may have been so exposed (even though there is insufficient medical evidence linking such disability with such exposure) unless the disability is found to have resulted from a cause other than the exposure.
 
 &emsp;“(4) The Congress has further responded to that medical and scientific uncertainty by requiring, in section 307 of Public Law 96–151 \[set out as a note under section 1116 of this title\] and section 601 of Public Law 98–160 \[set out below\], the conduct of thorough epidemiological studies of the health effects experienced by veterans in connection with exposure both to herbicides containing dioxin and (if not determined to be scientifically infeasible) to radiation, and by requiring in Public Law 97–414 \[see Tables for classification\], the development of radioepidemiological tables setting forth the probabilities of causation between various cancers and exposure to radiation.
 
@@ -228,7 +228,7 @@ Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[n
 
 #### Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies
 
-Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4, §10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 98–542, §5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by Pub. L. 100–321, §2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4, §10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 #### “requirement for and content of regulations
 
@@ -242,7 +242,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 “(b)(1)(A) The guidelines required to be established in regulations prescribed under this section shall include guidelines governing the evaluation of the findings of scientific studies relating to the possible increased risk of adverse health effects of exposure to ionizing radiation. Those guidelines shall require that, in the evaluation of those studies, the Administrator \[now Secretary\] shall take into account whether the results are statistically significant, are capable of replication, and withstand peer review.
 
-“(B) The evaluations described in subparagraph (A) shall be made by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after receiving the advice of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards (established under section 6). Those evaluations shall be published in the notice section of the Federal Register.
+“(B) The evaluations described in subparagraph (A) shall be made by the Administrator of Veterans’ Affairs\[now Secretary of Veterans Affairs\] after receiving the advice of the Scientific Council of the Veterans’ Advisory Committee on Environmental Hazards (established under section 6). Those evaluations shall be published in the notice section of the Federal Register.
 
 “(C) The standards and criteria required to be established in regulations prescribed under this section shall include provisions governing the use in the adjudication of individual claims of the Administrator's \[now Secretary's\] evaluations made under subparagraph (B).
 
@@ -318,7 +318,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 &emsp;&emsp;“(C) enter into an interagency agreement with the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
 
-“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and whoshall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
+“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
 
 \[Pub. L. 102–4, §10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, §503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
 

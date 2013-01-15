@@ -26,7 +26,7 @@ Grants provided by the Secretary under this subpart shall be used to ensure that
 
 &emsp;&emsp;(B) induction and support for teachers and principals during their first three years of employment as teachers or principals, respectively.
 
-&emsp;(4) Awarding scholarships based on financial need to help students pay the costs of tuition, room, board, and other expenses of completing a teacher preparation program, not to exceed the cost of attendance.
+&emsp;(4) Awarding scholarships based on financial need to help students pay the costs of tuition, room, board, and other expenses of completinga teacher preparation program, not to exceed the cost of attendance.
 
 &emsp;(5) Disseminating information on effective practices for teacher preparation and successful teacher certification and licensure assessment preparation strategies.
 

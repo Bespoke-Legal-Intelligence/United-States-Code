@@ -26,7 +26,7 @@ In determining whether there is a surplus for distribution to mortgagors under t
 
 (2) The Secretary shall endeavor to ensure that the Mutual Mortgage Insurance Fund attains a capital ratio of not less than 2.0 percent within 10 years after November 5, 1990, and shall ensure that the Fund maintains at least such capital ratio at all times thereafter.
 
-(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensure that the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
+(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensurethat the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
 
 (4) For purposes of this subsection:
 
@@ -66,5 +66,5 @@ Subsecs. (f) to (h). Pub. L. 101–508, §2105, added subsecs. (f) to (h).
 
 #### Exception to Statute of Limitations
 
-Section 508(b) of Pub. L. 102–550 provided that: “Notwithstanding the 6-year limitation on distribution of shares of the Participating Reserve Account under section 205(c) of the National Housing Act \[12 U.S.C. 1711(c)\], the Secretary shall distribute a share to an otherwise eligible mortgagor in accordance with section 205(c), if the mortgagor applies for payment of the share within 1 year after the date of enactment of this Act \[Oct. 28, 1992\] in accordance with procedures in effect on such date.”
+Pub. L. 102–550, title V, §508(b), Oct. 28, 1992, 106 Stat. 3782, provided that: “Notwithstanding the 6-year limitation on distribution of shares of the Participating Reserve Account under section 205(c) of the National Housing Act \[12 U.S.C. 1711(c)\], the Secretary shall distribute a share to an otherwise eligible mortgagor in accordance with section 205(c), if the mortgagor applies for payment of the share within 1 year after the date of enactment of this Act \[Oct. 28, 1992\] in accordance with procedures in effect on such date.”
 

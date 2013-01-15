@@ -20,5 +20,5 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 
 “United States magistrate judges” substituted in text for “magistrates” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28. Previously, “magistrates” substituted for “commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-Reference to the district courts substituted for reference to the circuit courts on authority of section 291 of act Mar. 3, 1911.
+Reference to the district courts substituted for reference to the circuit courts on authority of act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167.
 

@@ -24,7 +24,7 @@
 
 (5) If, after completion of all actions taken under paragraph (4), the Secretary concerned and the Chairman remain in disagreement with respect to the report of a selection board, the Secretary concerned shall indicate such disagreement, and the reasons for such disagreement, as part of his transmittal of the report of the selection board to the Secretary of Defense under subsection (c). Such transmittal shall include any comments submitted by the Chairman.
 
-(c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board tothe President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
+(c)(1) After his final review of the report of a selection board, the Secretary concerned shall submit the report, with his recommendations thereon, to the Secretary of Defense for transmittal to the President for his approval or disapproval. The Secretary of Defense shall, before transmitting the report of a selection board to the President, take appropriate action to resolve any disagreement between the Secretary concerned and the Chairman transmitted to him under subsection (b)(5). If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.
 
 (2) If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title.
 
@@ -34,7 +34,7 @@
 
 (e)(1) The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
 
-&emsp;(A) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
+&emsp;(A) In the case of officers recommended for promotion to a grade below brigadier generalor rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
 
 &emsp;(B) In the case of officers recommended for promotion to a grade above colonel or, in the case of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
 

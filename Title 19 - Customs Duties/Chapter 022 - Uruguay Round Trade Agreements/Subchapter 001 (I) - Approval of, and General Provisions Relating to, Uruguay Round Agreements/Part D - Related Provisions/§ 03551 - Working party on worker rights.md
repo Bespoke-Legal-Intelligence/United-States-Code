@@ -32,7 +32,7 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 #### Effective Date
 
-Section 138 of title I of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title I, §138, Dec. 8, 1994, 108 Stat. 4842, provided that:
 
 “(a)
 

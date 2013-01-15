@@ -24,7 +24,7 @@ For purposes of this subchapter:
 
 &emsp;(11) The term “State” means, except for section 941d(a) through (f) of this title, the State of South Carolina.
 
-&emsp;(12) The term “State Act” means the Act enacted into law by the State of South Carolina on June 14, 1993, and codified as S.C. Code Ann., sections 27–16–10 through 27–16–140, to implement the Settlement Agreement.
+&emsp;(12) The term “State Act” means the Act enacted into law by the State of South Carolinaon June 14, 1993, and codified as S.C. Code Ann., sections 27–16–10 through 27–16–140, to implement the Settlement Agreement.
 
 &emsp;(13) The term “Suit” or “Suits” means Catawba Indian Tribe of South Carolina v. State of South Carolina, et al., docketed as Civil Action No. 80–2050 and filed in the United States District Court for the District of South Carolina; and Catawba Indian Tribe of South Carolina v. The United States of America, docketed as Civil Action No. 90–553L and filed in the United States Court of Federal Claims.
 

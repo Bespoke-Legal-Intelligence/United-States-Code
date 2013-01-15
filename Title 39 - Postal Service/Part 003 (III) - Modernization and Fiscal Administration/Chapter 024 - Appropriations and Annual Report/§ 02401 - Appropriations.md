@@ -24,7 +24,7 @@
 
 (d) As reimbursement to the Postal Service for losses which it incurred as a result of insufficient amounts appropriated under section 2401(c) for fiscal years 1991 through 1993, and to compensate for the additional revenues it is estimated the Postal Service would have received under the provisions of section 3626(a) (as last in effect before enactment of the Postal Accountability and Enhancement Act), for the period beginning on October 1, 1993, and ending on September 30, 1998, if the fraction specified in subclause (VI) of section 3626(a)(3)(B)(ii) (as last in effect before enactment of the Postal Accountability and Enhancement Act) were applied with respect to such period (instead of the respective fractions specified in subclauses (I) through (V) thereof), there are authorized to be appropriated to the Postal Service $29,000,000 for each of fiscal years 1994 through 2035.
 
-(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of the Postal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
+(e) The Postal Service shall present to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives, at the same time it submits its annual budget under section 2009 of this title, sufficient copies of the budget of thePostal Service for the fiscal year for which funds are requested to be appropriated, and a comprehensive statement relating to the following matters:
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
@@ -98,17 +98,17 @@ Subsecs. (d) to (i). Pub. L. 94–421, §2(b), added subsecs. (d) to (i).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-#### Effective Date of 1993 Amendments
+#### Effective Date of 1993 Amendment
 
-Section 703(b) of Pub. L. 103–123 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
+Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
 
-Section 704(c)(2) of Pub. L. 103–123 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
+Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
 
 Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 1973gg et seq. of Title 42, The Public Health and Welfare, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 1973gg et seq. of Title 42 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 1973gg of Title 42.
 
 #### Effective Date of 1990 Amendment
 
-Section 1(c) of Pub. L. 101–509 provided that: “The amendment enacted by this section \[amending this section and section 3626 of this title\] shall become effective ninety days after the date of enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–509, title II, §1(c), Nov. 5, 1990, 104 Stat. 1398, provided that: “The amendment enacted by this section \[amending this section and section 3626 of this title\] shall become effective ninety days after the date of enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1986 Amendments
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1727 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Section 415 of Pub. L. 96–499 provided that: “The provisions of this subtitle, including the amendments made by this subtitle \[subtitle B (§§411–415) of title IV of Pub. L. 96–499, amending this section and enacting provisions set out as a note under section 403 of this title\], shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\].”
+Pub. L. 96–499, title IV, §415, Dec. 5, 1980, 94 Stat. 2608, provided that: “The provisions of this subtitle, including the amendments made by this subtitle \[subtitle B (§§411–415) of title IV of Pub. L. 96–499, amending this section and enacting provisions set out as a note under section 403 of this title\], shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\].”
 
 #### Effective Date
 

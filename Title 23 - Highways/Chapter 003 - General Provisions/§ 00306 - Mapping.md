@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—In carrying out the provisions of this title, the Secretary may, wherever practicable, authorize the use of photogrammetric methods in mapping, and the utilization of commercial enterprise for such services.
+In General.—In carrying out the provisions of this title, the Secretary shall, wherever practicable, authorize the use of photogrammetric methods in mapping, and the utilization of commercial enterprise for such services.
 
 (b)
 
-Guidance.—The Secretary shall issue guidance to encourage States to utilize, to the maximum extent practicable, private sector sources for surveying and mapping services for projects under this title. In carrying out this subsection, the Secretary shall recommend appropriate roles for State and private mapping and surveying activities, including—
+Guidance.—The Secretary shall issue guidance to encourage States to utilize, to the maximum extent practicable, private sector sources for surveying and mapping services for projects under this title. In carrying out this subsection, the Secretary shall recommend appropriate roles for State government and private mapping and surveying activities, including—
 
 &emsp;(1) preparation of standards and specifications;
 
@@ -16,9 +16,23 @@ Guidance.—The Secretary shall issue guidance to encourage States to utilize, t
 
 &emsp;(4) recommending methods for increasing the use by the States of private sector sources for surveying and mapping activities.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 104–59, title III, §321, Nov. 28, 1995, 109 Stat. 590.)
+(c)
+
+Implementation.—The Secretary shall develop a process for the oversight and monitoring, on an annual basis, of the compliance of each State with the guidance issued under subsection (b).
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 104–59, title III, §321, Nov. 28, 1995, 109 Stat. 590; Pub. L. 112–141, div. A, title I, §1517(a), July 6, 2012, 126 Stat. 574.)
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1517(a)(1), substituted “shall” for “may”.
+
+Subsec. (b). Pub. L. 112–141, §1517(a)(2), substituted “State government and” for “State and” in introductory provisions.
+
+Subsec. (c). Pub. L. 112–141, §1517(a)(3), added subsec. (c).
+
 <b>1995</b>—Pub. L. 104–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

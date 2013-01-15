@@ -60,7 +60,7 @@ Section was formerly classified to section 1332 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority,and revenue legislation had to be within appropriate levels.
+<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 

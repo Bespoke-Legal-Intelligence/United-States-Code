@@ -114,7 +114,7 @@ Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, 
 
 #### Coordination and Consolidation of Services Under Chapter
 
-Section 103(a) of Pub. L. 95–478 provided that:
+Pub. L. 95–478, title I, §103(a), Oct. 18, 1978, 92 Stat. 1516, provided that:
 
 “(1) The Congress finds that—
 

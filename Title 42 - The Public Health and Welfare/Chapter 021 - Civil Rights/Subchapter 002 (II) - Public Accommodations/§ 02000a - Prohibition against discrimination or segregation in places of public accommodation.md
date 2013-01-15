@@ -44,5 +44,5 @@ Pub. L. 92–261, §1, Mar. 24, 1972, 86 Stat. 103, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 88–352 provided: “That this Act \[enacting subchapters II to IX of this chapter, amending sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, section 1447(d) of Title 28, Judiciary and Judicial Procedure, and sections 1971 and 1975a to 1975d of this title, and enacting provisions set out as a note under section 2000e of this title\] may be cited as the ‘Civil Rights Act of 1964’.”
+Pub. L. 88–352, §1, July 2, 1964, 78 Stat. 241, provided: “That this Act \[enacting subchapters II to IX of this chapter, amending sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, section 1447(d) of Title 28, Judiciary and Judicial Procedure, and sections 1971 and 1975a to 1975d of this title, and enacting provisions set out as a note under section 2000e of this title\] may be cited as the ‘Civil Rights Act of 1964’.”
 

@@ -440,7 +440,7 @@ Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
-Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
+Pub. L. 104–208, div. A, title II, §2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

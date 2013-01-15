@@ -8,7 +8,7 @@
 
 #### (2) Qualifications
 
-&emsp;The organization with which the Administrator enters into the cooperative agreementshall develop the capabilities to implement research and development projects utilizing the ISS national laboratory and to otherwise manage the activities of the ISS national laboratory.
+&emsp;The organization with which the Administrator enters into the cooperative agreement shall develop the capabilities to implement research and development projects utilizing the ISS national laboratory and to otherwise manage the activities of the ISS national laboratory.
 
 #### (3) Prohibition on other activities
 

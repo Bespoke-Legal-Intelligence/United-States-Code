@@ -60,7 +60,7 @@ Elements of Baselines.—Each acquisition baseline required by subsection (a) fo
 
 (c)
 
-Annual Reports on Acquisition Baselines.—(1) Not later than February 15 of eachyear, the Director shall submit to the congressional defense committees a report on the acquisition baselines required by subsection (a).
+Annual Reports on Acquisition Baselines.—(1) Not later than February 15 of each year, the Director shall submit to the congressional defense committees a report on the acquisition baselines required by subsection (a).
 
 (2)(A) The first report under paragraph (1) shall set forth each acquisition baseline required by subsection (a) for a program element or major subprogram.
 

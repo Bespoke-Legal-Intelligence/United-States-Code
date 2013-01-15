@@ -34,7 +34,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall make available incentive payments to producers of those crops.
+&emsp;&emsp;Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall makeavailable incentive payments to producers of those crops.
 
 #### (B) Acreage limitation
 

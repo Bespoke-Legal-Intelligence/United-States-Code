@@ -12,7 +12,7 @@
 
 #### (3) Appointment
 
-&emsp;Commissioned officers of the Ready Reserve Corps shall be appointed by the President andcommissioned officers of the Regular Corps shall be appointed by the President with the advice and consent of the Senate.
+&emsp;Commissioned officers of the Ready Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by the President.
 
 #### (4) Active duty
 
@@ -48,7 +48,7 @@ Effective on March 23, 2010, all individuals classified as officers in the Reser
 
 For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
 
-(July 1, 1944, ch. 373, title II, §203, 58 Stat. 683; Feb. 28, 1948, ch. 83, §2, 62 Stat. 39; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–76, title III, §302(a), Sept. 29, 1979, 93 Stat. 584; Pub. L. 111–148, title V, §5210, Mar. 23, 2010, 124 Stat. 614.)
+(July 1, 1944, ch. 373, title II, §203, 58 Stat. 683; Feb. 28, 1948, ch. 83, §2, 62 Stat. 39; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–76, title III, §302(a), Sept. 29, 1979, 93 Stat. 584; Pub. L. 111–148, title V, §5210, Mar. 23, 2010, 124 Stat. 614; Pub. L. 112–166, §2(ff)(1), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### References in Text
 
@@ -56,13 +56,19 @@ The Classification Act of 1923, as amended, referred to in subsec. (a)(2), is ac
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “There shall be in the Service a commissioned Regular Corps and, for the purpose of securing a reserve for duty in the Service in time of national emergency, a Reserve Corps. All commissioned officers shall be citizens and shall be appointed without regard to the civil-service laws and compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5. Commissioned officers of the Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by him by and with the advice and consent of the Senate. Commissioned officers of the Reserve Corps shall at all times be subject to call to active duty by the Surgeon General, including active duty for the purpose of training and active duty for the purpose of determining their fitness for appointment in the Regular Corps. Warrant officers may be appointed to the Service for the purpose of providing support to the health and delivery systems maintained by the Service and any warrant officer appointed to the Service shall be considered for purposes of this chapter and title 37 to be a commissioned officer within the commissioned corps of the Service.”
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–166 struck out “with the advice and consent of the Senate” before period at end.
+
+<b>2010</b>—Pub. L. 111–148 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “There shall be in the Service a commissioned Regular Corps and, for the purpose of securing areserve for duty in the Service in time of national emergency, a Reserve Corps. All commissioned officers shall be citizens and shall be appointed without regard to the civil-service laws and compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5. Commissioned officers of the Reserve Corps shall be appointed by the President and commissioned officers of the Regular Corps shall be appointed by him by and with the advice and consent of the Senate. Commissioned officers of the Reserve Corps shall at all times be subject to call to active duty by the Surgeon General, including active duty for the purpose of training and active duty for the purpose of determining their fitness for appointment in the Regular Corps. Warrant officers may be appointed to the Service for the purpose of providing support to the health and delivery systems maintained by the Service and any warrant officer appointed to the Service shall be considered for purposes of this chapter and title 37 to be a commissioned officer within the commissioned corps of the Service.”
 
 <b>1979</b>—Pub. L. 96–76 inserted provisions relating to appointment and status of warrant officers.
 
 <b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 <b>1948</b>—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Repeals
 

@@ -10,5 +10,5 @@ Section 4234, act Aug. 16, 1954, ch. 736, 68A Stat. 501, required that price of 
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to admissions, services, or uses after noon, December 31, 1965, see section701(b)(1) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4291 of this title.
+Repeal applicable with respect to admissions, services, or uses after noon, December 31, 1965, see section 701(b)(1) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4291 of this title.
 

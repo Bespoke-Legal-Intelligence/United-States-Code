@@ -2,13 +2,23 @@
 
 (a)
 
-In General.—Subject to subsection (b), a suit for recovery of damages under section 2333 of this title shall not be maintained unless commenced within 4 years after the date the cause of action accrued.
+In General.—Subject to subsection (b), a suit for recovery of damages under section 2333 of this title shall not be maintained unless commenced within 10 years after the date the cause of action accrued.
 
 (b)
 
-Calculation of Period.—The time of the absence of the defendant from the United States or from any jurisdiction in which the same or a similar action arising from the same facts may be maintained by the plaintiff, or of any concealment of the defendant's whereabouts, shall not be included in the 4-year period set forth in subsection (a).
+Calculation of Period.—The time of the absence of the defendant from the United States or from any jurisdiction in which the same or a similar action arising from the same facts may be maintained by the plaintiff, or of any concealment of the defendant's whereabouts, shall not be included in the 10-year period set forth in subsection (a).
 
-(Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4523.)
+(Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4523; amended Pub. L. 112–239, div. A, title XII, §1251(a), Jan. 2, 2013, 126 Stat. 2017.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1251(a)(1), substituted “10 years” for “4 years”.
+
+Subsec. (b). Pub. L. 112–239, §1251(a)(2), substituted “10-year period” for “4-year period”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title XII, §1251(b), Jan. 2, 2013, 126 Stat. 2017, provided that: “The amendments made by this section \[amending this section\] shall apply to any civil action arising under section 2333 of title 18, United States Code, that is pending on, or commenced on or after, the date of the enactment of this Act \[Jan. 2, 2013\].”
 
 #### Effective Date
 

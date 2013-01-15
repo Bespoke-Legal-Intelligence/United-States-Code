@@ -4,5 +4,5 @@ Section, Pub. L. 93–113, title IV, §405, Oct. 1, 1973, 87 Stat. 409; Pub. L. 
 
 #### Effective Date of Repeal
 
-Section 20(a) of Pub. L. 98–288 provided that the repeal of this section is effective Jan. 1, 1986.
+Pub. L. 98–288, §20(a), May 21, 1984, 98 Stat. 195, provided that the repeal of this section is effective Jan. 1, 1986.
 

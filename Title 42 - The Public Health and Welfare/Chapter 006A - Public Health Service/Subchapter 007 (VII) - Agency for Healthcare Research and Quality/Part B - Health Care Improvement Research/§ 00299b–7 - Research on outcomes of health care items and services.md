@@ -14,7 +14,7 @@
 
 #### (B) Specification
 
-&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract, or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
+&emsp;&emsp;To respond to priorities and information requests in subparagraph (A), the Secretary may conduct or support, by grant, contract,or interagency agreement, research, demonstrations, evaluations, technology assessments, or other activities, including the provision of technical assistance, scientific expertise, or methodological assistance.
 
 #### (2) Priorities
 
@@ -152,7 +152,7 @@ The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), 
 
 #### Codification
 
-Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of2003, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Definition of “Secretary”
 

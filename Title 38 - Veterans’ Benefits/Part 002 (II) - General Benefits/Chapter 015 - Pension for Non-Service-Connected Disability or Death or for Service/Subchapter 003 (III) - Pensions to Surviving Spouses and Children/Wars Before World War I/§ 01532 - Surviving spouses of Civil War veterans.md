@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pensi
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1967 Amendment
 

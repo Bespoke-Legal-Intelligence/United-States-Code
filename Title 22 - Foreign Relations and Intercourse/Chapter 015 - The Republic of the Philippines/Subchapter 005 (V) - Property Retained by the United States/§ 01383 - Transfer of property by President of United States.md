@@ -6,7 +6,7 @@ In respect to property not transferable to the Republic of the Philippines under
 
 #### Ex. Ord. No. 9937. Delegation of President's Authority to Agencies Participating in the Philippine Recovery Program
 
-Ex. Ord. No. 9937, Mar. 20, 1948, 13 F.R. 1503 as amended by act June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, §2, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, provided:
+Ex. Ord. No. 9937, Mar. 20, 1948, 13 F.R. 1503 as amended by act June 30, 1949, ch. 288, title I, §103(a), 63 Stat.380; 1949 Reorg. Plan No. 7, §2, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, provided:
 
 By virtue of the authority vested in me by the Constitution and the statutes, and as President of the United States, it is hereby ordered as follows:
 

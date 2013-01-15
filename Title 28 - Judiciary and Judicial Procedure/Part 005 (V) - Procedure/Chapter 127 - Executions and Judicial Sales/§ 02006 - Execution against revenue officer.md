@@ -8,7 +8,7 @@ Execution shall not issue against a collector or other revenue officer on a fina
 
 When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
 
-(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 107–296, title XI, §1112(<i>l</i>), Nov. 25, 2002, 116 Stat. 2277.)
+(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 107–296, title XI, §1112(l), Nov. 25, 2002, 116 Stat. 2277.)
 
 #### Historical and Revision Notes
 

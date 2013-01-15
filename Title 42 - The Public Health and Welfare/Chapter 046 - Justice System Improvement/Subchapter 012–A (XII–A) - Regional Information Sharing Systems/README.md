@@ -14,13 +14,13 @@ Section 3796j, Pub. L. 90–351, title I, §1303, as added Pub. L. 99–570, tit
 
 Section 3796k, Pub. L. 90–351, title I, §1304, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–43, related to review of applications to receive drug law enforcement program grants.
 
-Section 3796<i>l</i>, Pub. L. 90–351, title I, §1305, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–43, related to allocation and distribution of funds under formula drug law enforcement grants.
+Section 3796l, Pub. L. 90–351, title I, §1305, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–43, related to allocation and distribution of funds under formula drug law enforcement grants.
 
 Section 3796m, Pub. L. 90–351, title I, §1306, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–44, required each State and unit of local government receiving drug law enforcement grants to report each year to the Director and required Director to report annually to Congress.
 
 Section 3796n, Pub. L. 90–351, title I, §1307, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–44, related to limitations on expenditures of funds, payment of the non-Federal portion in cash, and maintenance of records by States and units of local government.
 
-Section 3796<i>o</i>, Pub. L. 90–351, title I, §1308, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–45, provided for designation of a State office for program administration.
+Section 3796o, Pub. L. 90–351, title I, §1308, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–45, provided for designation of a State office for program administration.
 
 Section 3796p, Pub. L. 90–351, title I, §1309, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–45, provided for discretionary grants for drug law enforcement programs.
 

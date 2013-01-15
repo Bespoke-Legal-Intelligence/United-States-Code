@@ -16,7 +16,7 @@ Notwithstanding any other provision of Federal, State, or local law, no person o
 
 #### (c) Obligation to respond to inquiries
 
-The Immigration and Naturalization Service shall respond to an inquiry by a Federal, State, or local government agency, seeking to verify or ascertain the citizenship or immigration status of any individual within the jurisdiction of the agency for any purpose authorized by law, by providing the requested verification or status information.
+The Immigration and Naturalization Service shall respond to an inquiry by a Federal, State, or local government agency, seeking to verify or ascertain the citizenship or immigration status of any individual within the jurisdiction of theagency for any purpose authorized by law, by providing the requested verification or status information.
 
 (Pub. L. 104–208, div. C, title VI, §642, Sept. 30, 1996, 110 Stat. 3009–707.)
 

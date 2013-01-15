@@ -78,7 +78,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (1) In general
 
-&emsp;To be eligible to receive repayment benefits under subsection (c), a borrower shall enter into a written agreement with the Secretary that specifies that—
+&emsp;To be eligible to receive repayment benefits under subsection (c), a borrower shall enterinto a written agreement with the Secretary that specifies that—
 
 &emsp;&emsp;(A) the borrower will remain employed as a civil legal assistance attorney for a required period of service of not less than three years, unless involuntarily separated from that employment;
 

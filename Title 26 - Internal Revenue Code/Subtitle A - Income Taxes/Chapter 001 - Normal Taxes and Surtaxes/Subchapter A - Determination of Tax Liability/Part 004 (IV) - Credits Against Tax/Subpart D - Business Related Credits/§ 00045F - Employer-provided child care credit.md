@@ -206,10 +206,6 @@ For purposes of this section—
 
 (Added Pub. L. 107–16, title II, §205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, §411(d)(1), Mar. 9, 2002, 116 Stat. 46.)
 
-#### Termination of Section
-
-<i>For termination of section by section 901 of Pub. L. 107–16, see Effective and Termination Dates note below.</i>
-
 #### Amendments
 
 <b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
@@ -218,9 +214,7 @@ For purposes of this section—
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates
+#### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 38 of this title.
-
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 38 of this title.
 

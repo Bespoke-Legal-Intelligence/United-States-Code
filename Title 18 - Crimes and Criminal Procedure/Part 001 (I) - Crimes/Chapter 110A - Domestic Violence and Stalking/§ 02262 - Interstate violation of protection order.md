@@ -22,7 +22,7 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 &emsp;(3) for not more than 10 years, if serious bodily injury to the victim results or if the offender uses a dangerous weapon during the offense;
 
-&emsp;(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committed in the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
+&emsp;(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committedin the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
 
 &emsp;(5) for not more than 5 years, in any other case,
 

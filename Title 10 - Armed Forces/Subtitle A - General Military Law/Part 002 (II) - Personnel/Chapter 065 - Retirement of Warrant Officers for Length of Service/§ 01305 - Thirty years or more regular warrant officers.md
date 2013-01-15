@@ -1,14 +1,16 @@
 ### §1305. Thirty years or more: regular warrant officers
 
-(a)(1) A regular warrant officer (other than a regular Army warrant officer) who has at least 30 years of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114) shall be retired 60 days after the date on which he completes that service, except as provided by section 8301 of title 5.
+(a)(1) Subject to paragraphs (2) and (3), a regular warrant officer who has at least 30 years of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114) shall be retired 60 days after the date on which the officer completes that service, except as provided by section 8301 of title 5.
 
 (2) In the case of a regular Army warrant officer, the calculation of years of active service under paragraph (1) shall include only years of active service as a warrant officer.
+
+(3) In the case of a regular Navy warrant officer in the grade of chief warrant officer, W–5, the officer shall be retired 60 days after the date on which the officer completes 33 years of total active service.
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
 (c) Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, §1116, Dec. 5, 1991, 105 Stat. 1503; Pub. L. 109–364, div. A, title V, §505(c), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 110–417, \[div. A\], title V, §501, Oct. 14, 2008, 122 Stat. 4432.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, §1116, Dec. 5, 1991, 105 Stat. 1503; Pub. L. 109–364, div. A, title V, §505(c), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 110–417, \[div. A\], title V, §501, Oct. 14, 2008, 122 Stat. 4432; Pub. L. 112–239, div. A, title V, §504, Jan. 2, 2013, 126 Stat. 1715.)
 
 Historical and Revision Notes
 
@@ -58,7 +60,7 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b)(2)), 14(b)(2), (e) (as
 
 34:430(b)(2) (less last sentence).
 
-In subsection (a), the words “has at least” are substituted for the words “has completed”. The words “and is not so continued on active service” and “on that date which” are omitted as surplusage. 10:600<i>l</i>(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
+In subsection (a), the words “has at least” are substituted for the words “has completed”. The words “and is not so continued on active service” and “on that date which” are omitted as surplusage. 10:600l(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
 
 In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
@@ -70,6 +72,10 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §504(1), substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
+
+Subsec. (a)(3). Pub. L. 112–239, §504(2), added par. (3).
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–417 designated existing provisions as par. (1), substituted “A regular warrant officer (other than a regular Army warrant officer) who has at least 30 years of active service that could be credited to the officer” for “A regular warrant officer who has at least 30 years of active service as a warrant officer that could be credited to him”, and added par. (2).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted “A regular warrant officer” for “(1) Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)”, inserted “as a warrant officer” after “years of active service” and “the date on which” after “60 days after”, and struck out par. (2) which read as follows:
@@ -78,7 +84,7 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1
 
 “(B) A regular Army warrant officer in a warrant officer grade below the grade of chief warrant officer, W–5, who completes 24 years of active service as a warrant officer before he is required to be retired under paragraph (1) shall be retired 60 days after the date on which he completes 24 years of active service as a warrant officer, except as provided by section 8301 of title 5.”
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)” for “A permanent regular warrant officer”, and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)” for “A permanent regular warrant officer”, and added par. (2).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “8301” for “47a”.
 

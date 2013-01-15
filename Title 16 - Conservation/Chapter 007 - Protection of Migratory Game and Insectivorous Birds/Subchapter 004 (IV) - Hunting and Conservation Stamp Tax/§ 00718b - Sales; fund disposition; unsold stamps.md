@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The stamps required under section 718a of this title shall be sold by the Postal Service and may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
+&emsp;The stamps required under section 718a of this title shall be sold by the Postal Serviceand may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
 
 &emsp;&emsp;(A) any post office; and
 
@@ -40,7 +40,7 @@
 
 #### (B) Redemption of unused stamps
 
-&emsp;&emsp;The Department of the Interior, pursuant to regulations promulgated by the Secretary, shall provide for the redemption, on or before the 30th day of June of each year,of unused stamps issued for the year under this subchapter that—
+&emsp;&emsp;The Department of the Interior, pursuant to regulations promulgated by the Secretary, shall provide for the redemption, on or before the 30th day of June of each year, of unused stamps issued for the year under this subchapter that—
 
 &emsp;&emsp;&emsp;(i) were sold on consignment to any person authorized by the Secretary to sell stamps on consignment (including retail dealers for resale to customers); and
 
@@ -108,5 +108,5 @@ Pub. L. 85–585, §4, Aug. 1, 1958, 72 Stat. 487, provided that: “The amendme
 
 #### Spending of Stamp Money
 
-Section 1 of act Aug. 12, 1949, provided in part: “That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress.”
+Act Aug. 12, 1949, ch. 421, §1, 63 Stat. 599, provided in part: “That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress.”
 

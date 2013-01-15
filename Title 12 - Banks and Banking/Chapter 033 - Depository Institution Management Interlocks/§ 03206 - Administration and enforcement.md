@@ -10,7 +10,7 @@ This chapter shall be administered and enforced by—
 
 &emsp;(4) the National Credit Union Administration with respect to credit unions the accounts of which are insured by the National Credit Union Administration, and
 
-&emsp;(5) upon referral by the agencies named in the foregoing paragraphs (1) through (4), the Attorney General shall have the authority toenforce compliance by any person with this chapter.
+&emsp;(5) upon referral by the agencies named in the foregoing paragraphs (1) through (4), the Attorney General shall have the authority to enforce compliance by any person with this chapter.
 
 (Pub. L. 95–630, title II, §207, Nov. 10, 1978, 92 Stat. 3674; Pub. L. 101–73, title VII, §744(r), Aug. 9, 1989, 103 Stat. 440; Pub. L. 108–386, §8(e)(1), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 111–203, title III, §360(1), July 21, 2010, 124 Stat. 1548.)
 

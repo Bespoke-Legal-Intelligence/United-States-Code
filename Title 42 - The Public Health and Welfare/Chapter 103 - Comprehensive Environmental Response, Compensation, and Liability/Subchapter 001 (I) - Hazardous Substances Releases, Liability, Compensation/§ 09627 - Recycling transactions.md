@@ -8,7 +8,7 @@
 
 #### (b) Recyclable material defined
 
-For purposes of this section, the term “recyclable material” means scrap paper, scrap plastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
+For purposes of this section, the term “recyclable material” means scrap paper, scrapplastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
 
 &emsp;(1) shipping containers of a capacity from 30 liters to 3,000 liters, whether intact or not, having any hazardous substance (but not metal bits and pieces or hazardous substance that form an integral part of the container) contained in or adhering thereto; or
 
@@ -78,7 +78,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;(C) the person failed to exercise reasonable care with respect to the management and handling of the recyclable material (including adhering to customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances).
 
-(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize,through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature of the consuming facility's operations concerning its handling, processing, reclamation, or other management activities associated with the recyclable material.
+(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature of the consuming facility's operations concerning its handling, processing, reclamation, or other management activities associated with the recyclable material.
 
 (3) For purposes of this subsection, a requirement to obtain a permit applicable to the handling, processing, reclamation, or other management activities associated with recyclable material shall be deemed to be a substantive provision.
 
@@ -106,7 +106,7 @@ Nothing in this section shall affect—
 
 &emsp;(2) the ability of the Administrator to promulgate regulations under any other statute, including the Solid Waste Disposal Act.
 
-#### (<i>l</i>) Limitation on statutory construction
+#### (l) Limitation on statutory construction
 
 Nothing in this section shall be construed to—
 

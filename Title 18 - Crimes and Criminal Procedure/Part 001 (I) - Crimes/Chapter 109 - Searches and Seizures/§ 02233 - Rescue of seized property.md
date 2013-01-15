@@ -16,7 +16,7 @@ Said section 121 of present title 18, U.S.C., 1940 ed., provided for punishment 
 
 Said section 128 of present title 18, U.S.C., 1940 ed., provided for punishment by fine of not more than $300 and imprisonment for not more than 1 year of persons dispossessing, rescuing, or attempting to dispossess or rescue, or aiding or assisting in dispossessing or rescuing, “any property taken or detained by any officer or other person under the authority of any revenue law of the United States.”
 
-This revised section adopts the maximum fine provisions of section 121 of title 18, U.S.C., 1940 ed., and extends the maximum term of imprisonment to 2 years. This was deemed advisable so that uniformity of punishment would be established and the provisions would be sufficiently broad to impose punishment commensurate with the gravity of the offense. (See section 3601(c)(2) of title 26, U.S.C., 1940 ed., Internal Revenue Code.)
+This revised section adopts the maximum fine provisions of section 121 of title 18, U.S.C., 1940 ed., and extends the maximum term of imprisonment to 2 years. This was deemed advisable so that uniformity of punishment would be established and the provisions wouldbe sufficiently broad to impose punishment commensurate with the gravity of the offense. (See section 3601(c)(2) of title 26, U.S.C., 1940 ed., Internal Revenue Code.)
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 

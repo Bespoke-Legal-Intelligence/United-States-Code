@@ -4,7 +4,7 @@
 
 #### (1) Notice to SIPC
 
-&emsp;If the Commission or any self-regulatory organization is aware of facts which lead it to believe that any broker or dealer subject to its regulation is in or is approaching financial difficulty, it shall immediately notify SIPC, and, if such notification is by a self-regulatory organization, the Commission.
+&emsp;If the Commission or any self-regulatory organization is aware of facts which lead it tobelieve that any broker or dealer subject to its regulation is in or is approaching financial difficulty, it shall immediately notify SIPC, and, if such notification is by a self-regulatory organization, the Commission.
 
 #### (2) Action by self-regulatory organization
 
@@ -96,7 +96,7 @@
 
 #### (B) Application for allowances
 
-&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisions of title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed.The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
+&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisionsof title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed. The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
 
 #### (C) Recommendations of SIPC and awarding of allowances
 

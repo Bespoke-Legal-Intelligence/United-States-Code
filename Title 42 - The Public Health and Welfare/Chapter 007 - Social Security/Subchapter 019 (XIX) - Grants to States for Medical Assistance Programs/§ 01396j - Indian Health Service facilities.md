@@ -6,7 +6,7 @@ A facility of the Indian Health Service (including a hospital, nursing facility,
 
 #### (b) Facilities deemed to meet requirements upon submission of acceptable plan for achieving compliance
 
-Notwithstanding subsection (a) of this section, a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a type otherwise covered under the State plan) which does not meet all of the conditions and requirements of this title which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard tothe extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
+Notwithstanding subsection (a) of this section, a facility of the Indian Health Service (including a hospital, nursing facility, or any other type of facility which provides services of a type otherwise covered under the State plan) which does not meet all of the conditions and requirements of this title which are applicable generally to such facility, but which submits to the Secretary within six months after September 30, 1976, an acceptable plan for achieving compliance with such conditions and requirements, shall be deemed to meet such conditions and requirements (and to be eligible for reimbursement under this subchapter), without regard to the extent of its actual compliance with such conditions and requirements, during the first twelve months after the month in which such plan is submitted.
 
 #### (c) Agreement to reimburse State agency for providing care and services
 
@@ -44,7 +44,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4118(f)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to health care services performed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4118(f)(2), Dec. 22, 1987, 101 Stat. 1330–156, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to health care services performed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 

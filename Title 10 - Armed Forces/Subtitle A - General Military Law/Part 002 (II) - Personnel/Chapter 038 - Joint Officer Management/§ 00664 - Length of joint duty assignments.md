@@ -42,7 +42,7 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 &emsp;&emsp;&emsp;&emsp;(II) the officer's position was eliminated in a reorganization.
 
-&emsp;(2) Service in a joint duty assignment outside the United States or in Alaska or Hawaii which is less than the applicable standard prescribed in subsection (a).
+&emsp;(2) Service in a joint duty assignment outside the United States or in Alaska or Hawaiiwhich is less than the applicable standard prescribed in subsection (a).
 
 &emsp;(3) Service in a joint duty assignment in a case in which the officer's tour of duty in that assignment brings the officer's accrued service for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a).
 
@@ -84,7 +84,7 @@ Constructive Credit.—(1) The Secretary of Defense may accord constructive cred
 
 (2) For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div.A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446.)
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as am
 
 #### Length of Joint Duty Assignments
 
-Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
+Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

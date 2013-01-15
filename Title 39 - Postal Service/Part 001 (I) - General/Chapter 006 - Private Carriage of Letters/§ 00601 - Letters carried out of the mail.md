@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (b), (c). Pub. L. 109–435 added subsecs. (b) and (c) and struck out former subsec. (b) which readas follows: “The Postal Service may suspend the operation of any part of this section upon any mail route where the public interest requires the suspension.”
+<b>2006</b>—Subsecs. (b), (c). Pub. L. 109–435 added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows: “The Postal Service may suspend the operation of any part of this section upon any mail route where the public interest requires the suspension.”
 
 #### Effective Date of 2006 Amendment
 

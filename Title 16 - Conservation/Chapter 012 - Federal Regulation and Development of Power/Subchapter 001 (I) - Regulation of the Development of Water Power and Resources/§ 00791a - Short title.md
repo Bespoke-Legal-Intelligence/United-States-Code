@@ -14,7 +14,7 @@ Pub. L. 101–575, §1, Nov. 15, 1990, 104 Stat. 2834, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–473, §1, Oct. 6, 1988, 102 Stat. 2299, provided that: “This Act \[amending section 824e of this title and enacting provisions set out as notes under section 824e of this title\] may be cited as the ‘Regulatory Fairness Act’.”
+Pub. L. 100–473, §1, Oct. 6, 1988, 102 Stat. 2299, provided that: “This Act \[amending section 824e of this title andenacting provisions set out as notes under section 824e of this title\] may be cited as the ‘Regulatory Fairness Act’.”
 
 #### Short Title of 1986 Amendment
 

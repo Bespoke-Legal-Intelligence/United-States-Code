@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that includes an evaluation of the oversight by the Commission of national securities associations registered under section 78<i>o</i>–3 of this title with respect to—
+Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that includes an evaluation of the oversight by the Commission of national securities associations registered under section 78o–3 of this title with respect to—
 
 &emsp;(1) the governance of such national securities associations, including the identification and management of conflicts of interest by such national securities associations, together with an analysis of the impact of any conflicts of interest on the regulatory enforcement or rulemaking by such national securities associations;
 

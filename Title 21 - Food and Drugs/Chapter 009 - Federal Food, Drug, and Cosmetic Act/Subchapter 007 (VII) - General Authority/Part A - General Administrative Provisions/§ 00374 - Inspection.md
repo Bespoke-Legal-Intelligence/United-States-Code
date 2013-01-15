@@ -20,6 +20,12 @@
 
 &emsp;(B) required to be maintained under section 350a of this title.
 
+(4)(A) Any records or other information that the Secretary may inspect under this section from a person that owns or operates an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug shall, upon the request of the Secretary, be provided to the Secretary by such person, in advance of or in lieu of an inspection, within a reasonable timeframe, within reasonable limits, and in a reasonable manner, and in either electronic or physical form, at the expense of such person. The Secretary's request shall include a sufficient description of the records requested.
+
+(B) Upon receipt of the records requested under subparagraph (A), the Secretary shall provide to the person confirmation of receipt.
+
+(C) Nothing in this paragraph supplants the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+
 #### (b) Written report to owner; copy to Secretary
 
 Upon completion of any such inspection of a factory, warehouse, consulting laboratory, or other establishment, and prior to leaving the premises, the officer or employee making the inspection shall give to the owner, operator, or agent in charge a report in writing setting forth any conditions or practices observed by him which, in his judgment, indicate that any food, drug, device, tobacco product, or cosmetic in such establishment (1) consists in whole or in part of any filthy, putrid, or decomposed substance, or (2) has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. A copy of such report shall be sent promptly to the Secretary.
@@ -146,7 +152,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (F) For the purpose of setting risk-based inspectional priorities, the Secretary shall accept voluntary submissions of reports of audits assessing conformance with appropriate quality systems standards set by the International Organization for Standardization (ISO) and identified by the Secretary in public notice. If the owner or operator of an establishment elects to submit audit reports under this subparagraph, the owner or operator shall submit all such audit reports with respect to the establishment during the preceding 2-year periods.
 
-(8) Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
+(8) Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engagesthe services of the accredited person, and shall be paid by the person who engages such services.
 
 (9) Nothing in this subsection affects the authority of the Secretary to inspect any device establishment pursuant to this chapter.
 
@@ -154,7 +160,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(i) of the amounts appropriated for salaries and expenses of the Food and Drug Administration for the preceding fiscal year (referred to in this subparagraph as the “first prior fiscal year”), the amount obligated by the Secretary for inspections of device establishments by the Secretary was less than the adjusted base amount applicable to such first prior fiscal year; and
 
-&emsp;(ii) of the amounts appropriated for salaries and expenses of the Food and Drug Administration for the fiscal year preceding the first prior fiscal year (referred to in this subparagraph as the “second prior fiscal year”), theamount obligated by the Secretary for inspections of device establishments by the Secretary was less than the adjusted base amount applicable to such second prior fiscal year.
+&emsp;(ii) of the amounts appropriated for salaries and expenses of the Food and Drug Administration for the fiscal year preceding the first prior fiscal year (referred to in this subparagraph as the “second prior fiscal year”), the amount obligated by the Secretary for inspections of device establishments by the Secretary was less than the adjusted base amount applicable to such second prior fiscal year.
 
 (B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of the Food and Drug Administration with respect to devices (referred to in this subparagraph as the “compliance budget”), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the “inspection budget”).
 
@@ -170,7 +176,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(iii) The term “adjusted base amount”, with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
 
-(11) The authority provided by this subsection terminates on October 1, 2012.
+(11) The authority provided by this subsection terminates on October 1, 2017.
 
 (12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
 
@@ -192,9 +198,13 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section 383(b) of this title between the Secretary and a foreign country.
 
-(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887.)
+(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(4). Pub. L. 112–144, §706, added par. (4).
+
+Subsec. (g)(11). Pub. L. 112–144, §612, substituted “October 1, 2017” for “October 1, 2012”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–353, which directed the amendment of subsec. (a)(1)(B) by substituting “section 350c of this title, when the standard for records inspection under paragraph (1) or (2) of section 350c(a) of this title applies, subject to” for “section 350c of this title when” and all that follows through “subject to”, was executed by making the substitution for “section 350c of this title when the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, subject to” in the sentence following subpar. (B) of subsec. (a)(1), to reflect the probable intent of Congress.
 
@@ -308,5 +318,5 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Authority of Secretary Prior to October 10, 1962
 
-Section 201(d) of Pub. L. 87–781 provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act \[Oct. 10, 1962\].”
+Pub. L. 87–781, title II, §201(d), Oct. 10, 1962, 76 Stat. 793, provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act \[Oct. 10, 1962\].”
 

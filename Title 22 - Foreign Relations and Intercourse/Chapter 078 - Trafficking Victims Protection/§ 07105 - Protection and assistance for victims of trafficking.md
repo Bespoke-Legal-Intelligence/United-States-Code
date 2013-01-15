@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) Support for developing or increasing programs to assist families of victims in locating, repatriating, and treating their trafficked family members, in assisting the voluntary repatriation of these family members or their integration or resettlement into appropriate communities, and in providing them with treatment.
 
-&emsp;&emsp;(F) In cooperation and coordination with relevant organizations, such as the United Nations High Commissioner for Refugees, the International Organization for Migration, and private nongovernmental organizations that contract with, or receive grants from, the United States Government to assist refugees and internally displaced persons, support for—
+&emsp;&emsp;(F) In cooperation and coordination with relevant organizations, such as the UnitedNations High Commissioner for Refugees, the International Organization for Migration, and private nongovernmental organizations that contract with, or receive grants from, the United States Government to assist refugees and internally displaced persons, support for—
 
 &emsp;&emsp;&emsp;(i) increased protections for refugees and internally displaced persons, including outreach and education efforts to prevent such refugees and internally displaced persons from being exploited by traffickers; and
 
@@ -100,7 +100,7 @@
 
 #### (I) Eligibility determination
 
-&emsp;&emsp;&emsp;&emsp;Before the expiration of the period for interim assistance under clause (iii), theSecretary of Health and Human Services shall determine if the child referred to in clause (i) is eligible for assistance under this paragraph.
+&emsp;&emsp;&emsp;&emsp;Before the expiration of the period for interim assistance under clause (iii), the Secretary of Health and Human Services shall determine if the child referred to in clause (i) is eligible for assistance under this paragraph.
 
 #### (II) Consultation
 
@@ -234,9 +234,9 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (g) Annual reports
 
-On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(<i>o</i>)(2) or 1255(<i>l</i>)(4)(A) of title 8.
+On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI,§682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066.)
 
 #### References in Text
 
@@ -296,7 +296,7 @@ Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which re
 
 Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
 
-Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(<i>o</i>)(2)” for “1184(n)(1)”.
+Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(o)(2)” for “1184(n)(1)”.
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
 
@@ -306,7 +306,7 @@ Pub. L. 110–457, title II, §205(a)(2), Dec. 23, 2008, 122 Stat. 5061, provide
 
 &emsp;“(A) shall take effect on the date of the enactment of this Act \[Dec. 23, 2008\];
 
-&emsp;“(B) shall apply to pending requests for continued presence filed pursuant to section 107(c)(3) of theTrafficking Victims Protection Act \[of 2000\] (22 U.S.C. 7105(c)(3)) and requests filed on or after such date; and
+&emsp;“(B) shall apply to pending requests for continued presence filed pursuant to section 107(c)(3) of the Trafficking Victims Protection Act \[of 2000\] (22 U.S.C. 7105(c)(3)) and requests filed on or after such date; and
 
 &emsp;“(C) may not be applied to an alien who is not present in the United States.”
 

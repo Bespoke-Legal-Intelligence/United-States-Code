@@ -32,7 +32,7 @@ Subsec. (a)(4). Pub. L. 99–605, §2(b)(3), added par. (4).
 
 #### Effective Date of 1997 Amendments
 
-Section 604(b) of Pub. L. 105–78 and section 1(b) of Pub. L. 105–136 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1997.”
+Pub. L. 105–78, title VI, §604(b), Nov. 13, 1997, 111 Stat. 1521, and Pub. L. 105–136, §1(b), Dec. 2, 1997, 111 Stat. 2639, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1997.”
 
 #### Effective Date of 1988 Amendment
 

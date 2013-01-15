@@ -8,7 +8,7 @@ In the case of the demolition of any structure—
 
 &emsp;&emsp;(B) any loss sustained on account of such demolition; and
 
-&emsp;(2) amounts described in paragraph (1) shall be treated as properly chargeable to capitalaccount with respect to the land on which the demolished structure was located.
+&emsp;(2) amounts described in paragraph (1) shall be treated as properly chargeable to capital account with respect to the land on which the demolished structure was located.
 
 (Added Pub. L. 94–455, title XXI, §2124(b)(1), Oct. 4, 1976, 90 Stat. 1918; amended Pub. L. 95–600, title VII, §701(f)(5), Nov. 6, 1978, 92 Stat. 2902; Pub. L. 96–541, §2(b), Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–34, title II, §212(d)(2)(C), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title X, §1063(a), (b)(1), July 18, 1984, 98 Stat. 1047.)
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 97–34, §212(d)(2)(C)(ii), substituted “section 48(g)(3
 
 #### Effective Date of 1984 Amendment
 
-Section 1063(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1878(h), Oct. 22, 1986, 100 Stat. 2904, provided that:
+Pub. L. 98–369, div. A, title X, §1063(c), July 18, 1984, 98 Stat. 1047, as amended by Pub. L. 99–514, title XVIII, §1878(h), Oct. 22, 1986, 100 Stat. 2904, provided that:
 
 “(1) The amendments made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1983, but shall not apply to any demolition (other than of a certified historic structure) commencing before July 19, 1984.
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 95–600 effective as if included within the enactment of t
 
 #### Effective Date
 
-Section 2124(b)(3) of Pub. L. 94–455, which had provided that enactment of this section by subsec. (b) shall apply with respect to demolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
+Pub. L. 94–455, title XXI, §2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which had provided that enactment of this section by subsec. (b) shall apply with respect to demolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
 

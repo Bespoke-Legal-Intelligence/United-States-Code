@@ -100,5 +100,5 @@ Amendment by Pub. L. 96–452 effective Oct. 1, 1981, see section 12 of Pub. L. 
 
 #### Survey of Judicial Business in Alaska
 
-Section 23(a) of Pub. L. 86–70, June 25, 1959, 73 Stat. 147, provided that: “The Judicial Conference of the United States, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice.”
+Pub. L. 86–70, §23(a), June 25, 1959, 73 Stat. 147, provided that: “The Judicial Conference of the United States, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice.”
 

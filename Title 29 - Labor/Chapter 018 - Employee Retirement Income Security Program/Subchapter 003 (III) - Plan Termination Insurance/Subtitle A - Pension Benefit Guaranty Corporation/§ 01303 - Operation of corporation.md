@@ -64,7 +64,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (B)(i) Except as provided in clause (ii), the applicable date specified in this subparagraph is the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action.
 
-(ii) In the case of a plaintiff who is a fiduciary bringing the action in the exercise of fiduciary duties, the applicable date specified in this subparagraph is the date on which the plaintiff became a fiduciary with respect to the plan if such date is later than the date specified in clause (i).
+(ii) In the case of a plaintiff who is a fiduciary bringing the action in the exercise of fiduciaryduties, the applicable date specified in this subparagraph is the date on which the plaintiff became a fiduciary with respect to the plan if such date is later than the date specified in clause (i).
 
 (C) In the case of fraud or concealment, the period described in subparagraph (A)(ii) shall be extended to 6 years after the applicable date specified in subparagraph (B).
 
@@ -72,7 +72,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2),11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
+(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### References in Text
 
@@ -108,13 +108,13 @@ Amendment by section 108(b)(2) of Pub. L. 109–280 applicable to plan years beg
 
 #### Effective Date of 1994 Amendment
 
-Section 773(b) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section\] shall be effective for installments and other payments required under section 302 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082\] or section 412 of the Internal Revenue Code of 1986 \[26 U.S.C. 412\] that become due on or after the date of the enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §773(b), Dec. 8, 1994, 108 Stat. 5045, provided that: “The amendments made by this section \[amending this section\] shall be effective for installments and other payments required under section 302 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082\] or section 412 of the Internal Revenue Code of 1986 \[26 U.S.C. 412\] that become due on or after the date of the enactment of this Act \[Dec. 8, 1994\].”
 
 Amendment by section 776(b)(1) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 11014(b)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XI, §11014(b)(3), Apr. 7, 1986, 100 Stat. 264, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 Amendment by section 11016(c)(5) of Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

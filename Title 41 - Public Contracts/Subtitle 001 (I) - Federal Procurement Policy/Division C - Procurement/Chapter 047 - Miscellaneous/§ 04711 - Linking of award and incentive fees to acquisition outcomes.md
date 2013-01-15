@@ -16,7 +16,7 @@ Elements.—The regulations under subsection (b) shall—
 
 &emsp;(2) establish standards for identifying the appropriate level of officials authorized to approve the use of award and incentive fees in new contracts;
 
-&emsp;(3) provide guidance on the circumstances in which contractor performance may be judgedto be “excellent” or “superior” and the percentage of the available award fee which contractors should be paid for the performance;
+&emsp;(3) provide guidance on the circumstances in which contractor performance may be judged to be “excellent” or “superior” and the percentage of the available award fee which contractors should be paid for the performance;
 
 &emsp;(4) establish standards for determining the percentage of the available award fee, if any, which contractors should be paid for performance that is judged to be “acceptable”, “average”, “expected”, “good”, or “satisfactory”;
 

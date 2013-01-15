@@ -6,7 +6,7 @@ The provisions of this chapter shall be enforced by the Secretary of Commerce an
 
 #### (b) Powers of authorized officers and employees
 
-Any officer or employee of the United States who is authorized (by the Secretary of Commerce, the Secretary of the department in which the Coast Guard is operating, or the head of any department or agency of the United Stateswhich has entered into an agreement with either Secretary under subsection (a) of this section) to enforce the provisions of this chapter and of any regulation promulgated under this chapter may, in enforcing such provisions—
+Any officer or employee of the United States who is authorized (by the Secretary of Commerce, the Secretary of the department in which the Coast Guard is operating, or the head of any department or agency of the United States which has entered into an agreement with either Secretary under subsection (a) of this section) to enforce the provisions of this chapter and of any regulation promulgated under this chapter may, in enforcing such provisions—
 
 &emsp;(1) secure, execute, and serve any order, warrant, subpoena, or other process, which is issued under the authority of the United States;
 
@@ -48,7 +48,7 @@ Subject to the succeeding provisions of this subsection, any property or item se
 
 #### (e) Application of customs laws
 
-All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter,also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
+All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
 
 (Pub. L. 98–623, title III, §310, Nov. 8, 1984, 98 Stat. 3403.)
 

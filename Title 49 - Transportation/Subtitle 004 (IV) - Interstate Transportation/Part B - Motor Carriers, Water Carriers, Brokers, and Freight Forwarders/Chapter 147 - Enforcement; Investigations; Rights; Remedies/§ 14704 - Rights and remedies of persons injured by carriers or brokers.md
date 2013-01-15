@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Enforcement of order.—A person injured because a carrier or broker providing transportation or service subject to jurisdiction under chapter 135 does not obey an order of the Secretary or the Board, as applicable, under this part, except an order for the payment of money, may bring a civil action to enforce that order under this subsection. A person may bring a civil action for injunctive relief for violations of sections 14102 and 14103.
+Enforcement of order.—A person injured because a carrier or broker providing transportation or service subject to jurisdiction under chapter 135 does not obey an order of the Secretary or the Board, as applicable, under this part, except an order for the payment of money, may bring a civil action to enforce that order under this subsection. A person may bring a civil action for injunctive relief for violations of sections 14102, 14103, and 14915(c).
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Damages for violations.—A carrier or broker providing transportation or servic
 
 (b)
 
-Liability and Damages for Exceeding Tariff Rate.—A carrier providing transportation or service subject to jurisdiction under chapter 135 is liable to a person for amounts charged that exceed the applicable rate for transportation or service contained in a tariff in effect under section 13702.
+Liability and Damages for Exceeding Tariff Rate.—A carrier providing transportation or service subject to jurisdiction underchapter 135 is liable to a person for amounts charged that exceed the applicable rate for transportation or service contained in a tariff in effect under section 13702.
 
 (c)
 
@@ -52,9 +52,17 @@ Parties.—All parties in whose favor the award was made may be joined as plaint
 
 Attorney's Fees.—The district court shall award a reasonable attorney's fee under this section. The district court shall tax and collect that fee as part of the costs of the action.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 905.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 905; amended Pub. L. 112–141, div. C, title II, §32922(a), July 6, 2012, 126 Stat. 828.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted “, 14103, and 14915(c)” for “and 14103”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

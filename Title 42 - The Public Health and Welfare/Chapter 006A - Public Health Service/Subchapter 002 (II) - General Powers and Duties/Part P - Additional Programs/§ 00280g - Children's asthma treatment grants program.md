@@ -46,7 +46,7 @@
 
 #### (b) Coordination with other children's programs
 
-An eligible entity shall identify in the plan submitted as part of an application for a grantunder this section how the entity will coordinate operations and activities under the grant with—
+An eligible entity shall identify in the plan submitted as part of an application for a grant under this section how the entity will coordinate operations and activities under the grant with—
 
 &emsp;(1) other programs operated in the State that serve children with asthma, including any such programs operated under title V, XIX, or XXI of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq., 1397aa et seq.\]; and
 
@@ -136,7 +136,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203.)
 

@@ -14,7 +14,7 @@ The Corporation, in consultation with the Secretary of Education, may make allot
 
 &emsp;&emsp;(D) devising appropriate methods for research on and evaluation of the educational value of service-learning and the effect of service-learning activities on communities;
 
-&emsp;&emsp;(E) establishing effective outreach and dissemination of information to ensure thebroadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
+&emsp;&emsp;(E) establishing effective outreach and dissemination of information to ensure the broadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
 
 &emsp;&emsp;(F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools not making adequate yearly progress for two or more consecutive years under section 6311 of title 20;
 
@@ -82,7 +82,7 @@ A State educational agency described in section 12522(2)(A) of this title may de
 
 #### (e) Consultation with Secretary of Education
 
-The Corporation is authorized to enter into agreements with the Secretary of Education forinitiatives (and may use funds authorized under section 12681(a)(6) of this title to enter into the agreements if the additional costs of the initiatives are warranted) that may include—
+The Corporation is authorized to enter into agreements with the Secretary of Education for initiatives (and may use funds authorized under section 12681(a)(6) of this title to enter into the agreements if the additional costs of the initiatives are warranted) that may include—
 
 &emsp;(1) identification and dissemination of research findings on service-learning and scientifically valid research based practices for service-learning; and
 

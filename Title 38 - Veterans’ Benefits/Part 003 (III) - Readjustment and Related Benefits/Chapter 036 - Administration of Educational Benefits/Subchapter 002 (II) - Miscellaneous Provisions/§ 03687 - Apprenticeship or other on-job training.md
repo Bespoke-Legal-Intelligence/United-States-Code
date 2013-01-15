@@ -79,7 +79,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3452(a)(1)” for “16
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “section 2 of the Act of August 16, 1937 (popularly known as the ‘National Apprenticeship Act’) (29 U.S.C. 50a)” for “section 50a of title 29” in cl. (1), and inserted “of this title” after “34 and 35” in provisions following cl. (2).
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–466, §213(3), increased monthly training assistance allowance of eligible veterans in column II from $237, $177, $119, and $59 to $249, $186, $124, and $62; in column III from $267, $207, $148, and $88 to $279, $217, $155, and $92; in column IV from $291, $232, $172, and $113 to $305, $243, $180, and $119, respectively.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–466, §213(3), increased monthly training assistance allowance of eligible veterans in column II from $237, $177, $119, and $59 to $249,$186, $124, and $62; in column III from $267, $207, $148, and $88 to $279, $217, $155, and $92; in column IV from $291, $232, $172, and $113 to $305, $243, $180, and $119, respectively.
 
 Pub. L. 96–466, §203(3), increased monthly training assistance allowance of eligible veterans in column II from $226, $169, $113, and $56 to $237, $177, $119, and $59; in column III from $254, $197, $141, and $84 to $267, $207, $148, and $88; in column IV from $277, $221, $164, and $108 to $291, $232, $172, and $113; in column V from $12, $12, $12, and $12 to $13, $13, $13, and $13, respectively.
 

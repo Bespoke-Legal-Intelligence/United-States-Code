@@ -12,5 +12,5 @@ Each appropriate Federal banking agency shall require, by regulation, banking in
 
 The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title IX, §907, Nov. 30, 1983, 97 Stat. 1280.)
+(Pub. L. 98–181, title I \[title IX, §907\], Nov. 30, 1983, 97 Stat. 1280.)
 

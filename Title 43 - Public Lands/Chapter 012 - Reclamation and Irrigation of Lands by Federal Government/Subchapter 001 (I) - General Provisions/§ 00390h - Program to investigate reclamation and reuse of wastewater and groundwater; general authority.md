@@ -52,5 +52,5 @@ Pub. L. 104–266, §1, Oct. 9, 1996, 110 Stat. 3290, provided that: “This Act
 
 #### Short Title
 
-Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title \[enacting sections 390h to 390h–15 of this title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
+Pub. L. 102–575, title XVI, §1601, Oct. 30, 1992, 106 Stat. 4663, provided that: “This title \[enacting sections 390h to 390h–15 of this title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
 

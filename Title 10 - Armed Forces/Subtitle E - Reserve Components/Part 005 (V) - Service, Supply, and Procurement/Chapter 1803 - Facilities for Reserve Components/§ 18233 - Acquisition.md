@@ -156,7 +156,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Section 703(b) of Pub. L. 98–407 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1984.”
+Pub. L. 98–407, title VII, §703(b), Aug. 28, 1984, 98 Stat. 1517, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1984.”
 
 #### Effective Date of 1982 Amendment
 

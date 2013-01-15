@@ -68,7 +68,7 @@ Elements.—The update shall—
 
 &emsp;“(3) for each facility for which such report found that significant residual contamination was present but for which the Director has been unable to determine the extent to which such contamination is attributable to atomic weapons-related activities, identify the specific dates of coverage attributable to such activities and, in so identifying, presume that such contamination is attributable to such activities until there is evidence of decontamination of residual contamination identified with atomic weapons-related activities;
 
-&emsp;“(4) for each facility for which such report found significant residual contamination, determine whether it is at least as likely as not that such contamination could have caused an employee who was employed at such facility only during the residual contamination period to contract a cancer or beryllium illness compensable under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384<i>l</i> et seq.\]; and
+&emsp;“(4) for each facility for which such report found significant residual contamination, determine whether it is at least as likely as not that such contamination could have caused an employee who was employed at such facility only during the residual contamination period to contract a cancer or beryllium illness compensable under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384l et seq.\]; and
 
 &emsp;“(5) if new information that pertains to the report has been made available to the Director since that report was submitted, identify and describe such information.
 
@@ -102,7 +102,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 “(4) In this subsection:
 
-&emsp;“(A) The terms ‘atomic weapons employer facility’, ‘beryllium vendor’, ‘covered employee with cancer’, and ‘covered beryllium illness’ have the meanings given those terms in section 3621 of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498; 42 U.S.C. 7384<i>l</i>).
+&emsp;“(A) The terms ‘atomic weapons employer facility’, ‘beryllium vendor’, ‘covered employee with cancer’, and ‘covered beryllium illness’ have the meanings given those terms in section 3621 of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498; 42 U.S.C. 7384l).
 
 &emsp;“(B) The term ‘contamination’ means the presence of any—
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the “Act”), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons productionand testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
+Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
 
 Existing workers’ compensation programs have failed to provide for the needs of these workers and their families. Federal workers’ compensation programs have generally not included these workers. Further, because of long latency periods, the uniqueness of the hazards to which they were exposed, and inadequate exposure data, many of these individuals have been unable to obtain State workers’ compensation benefits. This problem has been exacerbated by the past policy of the Department of Energy (DOE) and its predecessors of encouraging and assisting DOE contractors in opposing the claims of workers who sought those benefits. This policy has recently been reversed.
 
@@ -160,17 +160,17 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iii) Identify and notify potentially eligible individuals of the availability of compensation under the Program;
 
-(iv) Designate, pursuant to sections 3621(4)(B) and 3622 of the Act \[42 U.S.C. 7384<i>l</i>(4)(B), 7384m\], atomic weapons employers and additions to the list of designated beryllium vendors;
+(iv) Designate, pursuant to sections 3621(4)(B) and 3622 of the Act \[42 U.S.C. 7384l(4)(B), 7384m\], atomic weapons employers and additions to the list of designated beryllium vendors;
 
-(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385<i>o</i>\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to a DOE contractor employee on filing a State workers’ compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weapons complex, or the individual's survivor if the individual is deceased, in applying for State workers’ compensation benefits. This assistance shall include:
+(v) Pursuant to Subtitle D of the Act \[42 U.S.C. 7385o\], negotiate agreements with the chief executive officer of each State in which there is a DOE facility, and other States as appropriate, to provide assistance to aDOE contractor employee on filing a State workers’ compensation system claim, and establish a Worker Assistance Program to help individuals whose illness is related to employment in the DOE's nuclear weapons complex, or the individual's survivor if the individual is deceased, in applying for State workers’ compensation benefits. This assistance shall include:
 
 (1) Submittal of reasonable claims to a physician panel, appointed by the Secretary of Health and Human Services and administered by the Secretary of Energy, under procedures established by the Secretary of Energy, for determination of whether the individual's illness or death arose out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility; and
 
-(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385<i>o</i>(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers’ compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
+(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385o(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers’ compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
 
-(vi) Report on the Worker Assistance Program by making publicly available on at least an annual basisclaims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers’ compensation claims awarded; and
+(vi) Report on the Worker Assistance Program by making publicly available on at least an annual basis claims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers’ compensation claims awarded; and
 
-(vii) No later than January 15, 2001, publish in the Federal Register a list of atomic weapons employer facilities within the meaning of section 3621(5) of the Act \[42 U.S.C. 7384<i>l</i>(5)\], Department of Energy employer facilities within the meaning of section 3621(12) of the Act, and a list of facilities owned and operated by a beryllium vendor, within the meaning of section 3621(6) of the Act.
+(vii) No later than January 15, 2001, publish in the Federal Register a list of atomic weapons employer facilities within the meaning of section 3621(5) of the Act \[42 U.S.C. 7384l(5)\], Department of Energy employer facilities within the meaning of section 3621(12) of the Act, and a list of facilities owned and operated by a beryllium vendor, within the meaning of section 3621(6) of the Act.
 
 (d) <i>Attorney General</i>. The Attorney General shall:
 

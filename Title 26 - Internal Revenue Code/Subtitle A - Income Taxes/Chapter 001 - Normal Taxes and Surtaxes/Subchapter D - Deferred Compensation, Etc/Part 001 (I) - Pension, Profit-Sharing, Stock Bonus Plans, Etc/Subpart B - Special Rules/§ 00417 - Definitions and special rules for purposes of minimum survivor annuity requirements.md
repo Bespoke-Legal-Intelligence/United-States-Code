@@ -20,7 +20,7 @@
 
 &emsp;Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless—
 
-&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a formof benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
 
 &emsp;&emsp;(B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary may by regulations prescribe.
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
+&emsp;&emsp;&emsp;A plan may provide the written explanation described in paragraph (3)(A) afterthe annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
 
 #### (ii) Regulatory authority
 
@@ -198,13 +198,13 @@ For purposes of this section and section 401(a)(11)—
 
 #### (C) Applicable interest rate
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.
 
 #### (D) Applicable segment rates
 
-&emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if—
+&emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if—
 
-&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for themonth described in subparagraph (C) for the average yields for the 24-month period described in such section,
+&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
 
 &emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
 
@@ -288,9 +288,11 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(3)(C), (D). Pub. L. 112–141 substituted “section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof)” for “section 430(h)(2)(C)”.
 
 <b>2008</b>—Subsec. (e)(3)(D)(i). Pub. L. 110–458 substituted “subparagraph (C)” for “clause (ii)”.
 
@@ -350,6 +352,10 @@ Subsec. (f)(6), (7). Pub. L. 99–514, §1898(b)(10)(A), added par. (6) and rede
 
 Pub. L. 99–514, §1898(b)(4)(A)(iii), redesignated former par. (5) as (6).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
@@ -380,7 +386,7 @@ Pub. L. 109–280, title XI, §1102(a)(3), Aug. 17, 2006, 120 Stat. 1056, provid
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -388,7 +394,7 @@ Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1
 
 #### Effective Date of 1996 Amendment
 
-Section 1451(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1996.”
+Pub. L. 104–188, title I, §1451(c), Aug. 20, 1996, 110 Stat. 1816, provided that: “The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1996.”
 
 #### Effective Date of 1994 Amendment
 
@@ -406,7 +412,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
 
-Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1898(b)(4)(C), Oct. 22, 1986, 100 Stat. 2946, provided that:
 
 “(i) The amendments made by this paragraph \[amending this section and section 1055 of Title 29, Labor\] shall apply with respect to loans made after August 18, 1985.
 

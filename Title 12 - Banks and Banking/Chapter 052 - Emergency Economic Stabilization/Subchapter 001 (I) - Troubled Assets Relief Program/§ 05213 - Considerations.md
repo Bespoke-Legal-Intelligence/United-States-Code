@@ -12,7 +12,7 @@ In exercising the authorities granted in this chapter, the Secretary shall take 
 
 &emsp;(5) ensuring that all financial institutions are eligible to participate in the program, without discrimination based on size, geography, form of organization, or the size, type, and number of assets eligible for purchase under this chapter;
 
-&emsp;(6) providing financial assistance to financial institutions, including those serving low- and moderate-income populations and other underserved communities, and that have assets less than $1,000,000,000, that were well or adequately capitalized as of June 30, 2008, and that as a result of the devaluation of the preferred government-sponsored enterprises stock will drop one or more capital levels, in a manner sufficient to restore the financial institutions to at least an adequately capitalized level;
+&emsp;(6) providing financial assistance to financial institutions, including those serving low- and moderate-income populations and otherunderserved communities, and that have assets less than $1,000,000,000, that were well or adequately capitalized as of June 30, 2008, and that as a result of the devaluation of the preferred government-sponsored enterprises stock will drop one or more capital levels, in a manner sufficient to restore the financial institutions to at least an adequately capitalized level;
 
 &emsp;(7) the need to ensure stability for United States public instrumentalities, such as counties and cities, that may have suffered significant increased costs or losses in the current market turmoil;
 

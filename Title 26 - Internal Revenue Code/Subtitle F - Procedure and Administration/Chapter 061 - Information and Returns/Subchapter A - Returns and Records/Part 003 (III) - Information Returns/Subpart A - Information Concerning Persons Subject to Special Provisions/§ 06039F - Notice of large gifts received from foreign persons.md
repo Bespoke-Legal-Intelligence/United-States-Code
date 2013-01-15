@@ -42,5 +42,5 @@ Another section 6039F was renumbered section 6039G of this title.
 
 #### Effective Date
 
-Section 1905(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date.”
+Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date.”
 

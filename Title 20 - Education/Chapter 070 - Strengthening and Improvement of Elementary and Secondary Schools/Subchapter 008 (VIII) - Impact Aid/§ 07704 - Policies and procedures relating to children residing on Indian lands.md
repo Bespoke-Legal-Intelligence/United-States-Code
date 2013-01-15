@@ -16,7 +16,7 @@ A local educational agency that claims children residing on Indian lands for the
 
 #### (b) Records
 
-A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this titleshall maintain records demonstrating such agency's compliance with the requirements contained in subsection (a) of this section.
+A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this title shall maintain records demonstrating such agency's compliance with the requirements contained in subsection (a) of this section.
 
 #### (c) Waiver
 
@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (9) Rejection of determination
 
-&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be countedwith respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
+&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 
 #### (f) Construction
 
@@ -92,5 +92,5 @@ A prior section 8004 of Pub. L. 89–10 was renumbered section 9004 and was clas
 
 #### Contract Authority of Indian Tribes if Remedial Action Is Not Taken; Election To Have Services Provided by Bureau Schools; Special Regulations
 
-Section 1101(d) of Pub. L. 95–561 directed Secretary of Health, Education, and Welfare, in cooperation with Commissioner of Education, within one year of Nov. 1, 1978, to promulgate special regulations which would provide that where a local educational agency had not undertaken the remedial action required by the Commissioner under 20 U.S.C. 240(b)(3)(C)(vi), the affected tribes could elect for the Bureau of Indian Affairs to provide educational services provided by the local educational agency.
+Pub. L. 95–561, title XI, §1101(d), Nov. 1, 1978, 92 Stat. 2315, directed Secretary of Health, Education, and Welfare, in cooperation with Commissioner of Education, within one year of Nov. 1, 1978, to promulgate special regulations which would provide that where a local educational agency had not undertaken the remedial action required by the Commissioner under 20 U.S.C. 240(b)(3)(C)(vi), the affected tribes could elect for the Bureau of Indian Affairs to provide educational services provided by the local educational agency.
 

@@ -1,6 +1,6 @@
 ### §214. Definitions
 
-(a) As used in this subchapter and section 321 of this title the term “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, any Territory of the United States, Puerto Rico, or the Virgin Islands, or which is operating under the Code of Law for the District of Columbia.
+(a) As used in this subchapter and section 321 of this title the term “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank),or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, any Territory of the United States, Puerto Rico, or the Virgin Islands, or which is operating under the Code of Law for the District of Columbia.
 
 (b) For purposes of merger or consolidation under this subchapter and section 321 of this title the term “national banking association” means one or more national banking associations, and the term “State bank” means one or more State banks.
 
@@ -14,5 +14,5 @@
 
 #### Separability
 
-Section 9 of act Aug. 17, 1950, provided that: “If any provision of this Act \[enacting this subchapter andamending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Act Aug. 17, 1950, ch. 729, §9, 64 Stat. 458, provided that: “If any provision of this Act \[enacting this subchapter and amending of sections 264 and 321 of this title\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

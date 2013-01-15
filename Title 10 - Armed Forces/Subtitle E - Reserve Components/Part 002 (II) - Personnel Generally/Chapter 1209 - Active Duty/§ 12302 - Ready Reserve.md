@@ -14,7 +14,7 @@
 
 (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty, without their consent, under this section at any one time.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L.103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 112–81, div. A, title X, §1061(28), (30), Dec. 31, 2011, 125 Stat. 1584.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 112–81, div. A, title X, §1061(28), (30), Dec. 31, 2011, 125 Stat. 1584.)
 
 Historical and Revision Notes<br>1956
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 
 #### Effective Date of 1973 Amendment
 
-Section 303(b) of Pub. L. 93–155 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act \[Nov. 16, 1973\].”
+Pub. L. 93–155, title III, §303(b), Nov. 16, 1973, 87 Stat. 608, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act \[Nov. 16, 1973\].”
 
 #### Effective Date of 1958 Amendment
 

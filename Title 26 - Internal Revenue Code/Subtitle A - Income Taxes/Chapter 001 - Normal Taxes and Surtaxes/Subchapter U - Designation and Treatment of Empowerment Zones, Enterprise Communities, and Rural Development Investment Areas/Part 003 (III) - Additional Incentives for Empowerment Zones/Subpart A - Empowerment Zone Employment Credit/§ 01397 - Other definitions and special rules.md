@@ -16,7 +16,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(i) Any amount paid or incurred by an employer which is excludable from the gross income of an employee under section 127, but only to the extent paid or incurred to a person not related to the employer.
 
-&emsp;&emsp;&emsp;(ii) In the case of an employee who has not attained the age of 19, any amount paid or incurred by an employer for any youth training program operated by such employer in conjunction with local education officials.
+&emsp;&emsp;&emsp;(ii) In the case of an employee who has not attained the age of 19, any amountpaid or incurred by an employer for any youth training program operated by such employer in conjunction with local education officials.
 
 #### (B) Related person
 

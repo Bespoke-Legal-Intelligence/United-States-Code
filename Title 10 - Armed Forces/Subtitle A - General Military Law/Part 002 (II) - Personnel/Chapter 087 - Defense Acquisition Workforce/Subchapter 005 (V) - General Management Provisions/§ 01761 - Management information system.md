@@ -26,7 +26,7 @@ Minimum Information.—The management information system shall, at a minimum, pr
 
 #### Establishment of Management Information System
 
-Section 1209(k) of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title XII, §1209(k), Nov. 5, 1990, 104 Stat. 1667, provided that:
 
 “(1) Not later than October 1, 1991, the Secretary of Defense shall prescribe in regulations the requirements under section 1761 of title 10, United States Code (as added by section 1202), including data elements, for the uniform management information system.
 

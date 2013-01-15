@@ -34,7 +34,7 @@ Coordination.—In carrying out the program, the Secretary shall coordinate, as 
 
 Information Assurance Test Bed.—The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
 
-&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations, war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
+&emsp;(1) an integrated organization structure to plan and facilitate the conduct of simulations,war games, exercises, experiments, and other activities to prepare and inform the Department regarding information warfare threats; and
 
 &emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
@@ -71,6 +71,150 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of Title 44, Public Printing and Documents.
+
+#### Improvements in Assurance of Computer Software Procured by the Department of Defense
+
+Pub. L. 112–239, div. A, title IX, §933, Jan. 2, 2013, 126 Stat. 1884, provided that:
+
+“(a)
+
+Baseline Software Assurance Policy.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall develop and implement a baseline software assurance policy for the entire lifecycle of covered systems. Such policy shall be included as part of the strategy for trusted defense systems of the Department of Defense.
+
+“(b)
+
+Policy Elements.—The baseline software assurance policy under subsection (a) shall—
+
+&emsp;“(1) require use of appropriate automated vulnerability analysis tools in computer software code during the entire lifecycle of a covered system, including during development, operational testing, operations and sustainment phases, and retirement;
+
+&emsp;“(2) require covered systems to identify and prioritize security vulnerabilities and, based on risk, determine appropriate remediation strategies for such security vulnerabilities;
+
+&emsp;“(3) ensure such remediation strategies are translated into contract requirements and evaluated during source selection;
+
+&emsp;“(4) promote best practices and standards to achieve software security, assurance, and quality; and
+
+&emsp;“(5) support competition and allow flexibility and compatibility with current or emerging software methodologies.
+
+“(c)
+
+Verification of Effective Implementation.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall—
+
+&emsp;“(1) collect data on implementation of the policy developed under subsection (a) and measure the effectiveness of such policy, including the particular elements required under subsection (b); and
+
+&emsp;“(2) identify and promote best practices, tools, and standards for developing and validating assured software for the Department of Defense.
+
+“(d)
+
+Briefing on Additional Means of Improving Software Assurance.—Not later than one year after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary for Acquisition, Technology, and Logistics shall, in coordination with the Chief Information Officer of the Department of Defense, provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the following:
+
+&emsp;“(1) A research and development strategy to advance capabilities in software assurance and vulnerability detection.
+
+&emsp;“(2) The state-of-the-art of software assurance analysis and test.
+
+&emsp;“(3) How the Department might hold contractors liable for software defects or vulnerabilities.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Covered system.—The term ‘covered system’ means any Department of Defense critical information, business, or weapons system that is—
+
+&emsp;&emsp;“(A) a major system, as that term is defined in section 2302(5) of title 10, United States Code;
+
+&emsp;&emsp;“(B) a national security system, as that term is defined in section 3542(b)(2) of title 44, United States Code; or
+
+&emsp;&emsp;“(C) a Department of Defense information system categorized as Mission Assurance Category I in Department of Defense Directive 8500.01E that is funded by the Department of Defense.
+
+&emsp;“(2)
+
+Software assurance.—The term ‘software assurance’ means the level of confidence that software functions as intended and is free of vulnerabilities, either intentionally or unintentionally designed orinserted as part of the software, throughout the life cycle.”
+
+#### Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors
+
+Pub. L. 112–239, div. A, title IX, §941, Jan. 2, 2013, 126 Stat. 1889, provided that:
+
+“(a)
+
+Procedures for Reporting Penetrations.—The Secretary of Defense shall establish procedures that require each cleared defense contractor to report to a component of the Department of Defense designated by the Secretary for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
+
+“(b)
+
+Networks and Information Systems Subject to Reporting.—
+
+&emsp;“(1)
+
+Criteria.—The Secretary of Defense shall designate a senior official to, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
+
+&emsp;“(2)
+
+Officials.—The officials specified in this subsection are the following:
+
+&emsp;&emsp;“(A) The Under Secretary of Defense for Policy.
+
+&emsp;&emsp;“(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;&emsp;“(C) The Under Secretary of Defense for Intelligence.
+
+&emsp;&emsp;“(D) The Chief Information Officer of the Department of Defense.
+
+&emsp;&emsp;“(E) The Commander of the United States Cyber Command.
+
+“(c)
+
+Procedure Requirements.—
+
+&emsp;“(1)
+
+Rapid reporting.—The procedures established pursuant to subsection (a) shall require each cleared defense contractor to rapidly report to a component of the Department of Defense designated pursuant to subsection (a) of each successful penetration of the network or information systems of such contractor that meet the criteria established pursuant to subsection (b). Each such report shall include the following:
+
+&emsp;&emsp;“(A) A description of the technique or method used in such penetration.
+
+&emsp;&emsp;“(B) A sample of the malicious software, if discovered and isolated by the contractor, involved in such penetration.
+
+&emsp;&emsp;“(C) A summary of information created by or for the Department in connection with any Department program that has been potentially compromised due to such penetration.
+
+&emsp;“(2)
+
+Access to equipment and information by department of defense personnel.—The procedures established pursuant to subsection (a) shall—
+
+&emsp;&emsp;“(A) include mechanisms for Department of Defense personnel to, upon request, obtain access to equipment or information of a cleared defense contractor necessary to conduct forensic analysis in addition to any analysis conducted by such contractor;
+
+&emsp;&emsp;“(B) provide that a cleared defense contractor is only required to provide access to equipment or information as described in subparagraph (A) to determine whether information created by or for the Department in connection with any Department program was successfully exfiltrated from a network or information system of such contractor and, if so, what information was exfiltrated; and
+
+&emsp;&emsp;“(C) provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.
+
+&emsp;“(3)
+
+Limitation on dissemination of certain information.—The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.
+
+“(d)
+
+Issuance of Procedures and Establishment of Criteria.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]—
+
+&emsp;&emsp;“(A) the Secretary of Defense shall establish the procedures required under subsection (a); and
+
+&emsp;&emsp;“(B) the senior official designated under subsection (b)(1) shall establish the criteria required under such subsection.
+
+&emsp;“(2)
+
+Applicability date.—The requirements of this section shall apply on the date on which the Secretary of Defense establishes the procedures required under this section.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Cleared defense contractor.—The term ‘cleared defense contractor’ means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
+
+&emsp;“(2)
+
+Covered network.—The term ‘covered network’ means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.”
 
 #### Insider Threat Detection
 
@@ -206,7 +350,7 @@ Source of capabilities.—The capabilities to be acquired shall, to the maximum 
 
 “(c)
 
-Integration and Management of Discovery Capabilities.—The plan required by subsection (a) shall include mechanisms for improving the standardization, organization, and management of the security information and event management systems that are widely deployed across the Department of Defense to improve the ability of United States Cyber Command to understand and control the status and condition of Department networks, including mechanisms to ensure thatthe security information and event management systems of the Department receive and correlate data collected and analyses conducted at the host or endpoint, at the network gateways, and by Internet Service Providers in order to discover new attacks reliably and rapidly.
+Integration and Management of Discovery Capabilities.—The plan required by subsection (a) shall include mechanisms for improving the standardization, organization, and management of the security information and event management systems that are widely deployed across the Department of Defense to improve the ability of United States Cyber Command to understand and control the status and condition of Department networks, including mechanisms to ensure that the security information and event management systems of the Department receive and correlate data collected and analyses conducted at the host or endpoint, at the network gateways, and by Internet Service Providers in order to discover new attacks reliably and rapidly.
 
 “(d)
 

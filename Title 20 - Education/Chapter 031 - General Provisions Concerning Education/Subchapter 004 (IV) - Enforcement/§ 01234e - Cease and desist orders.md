@@ -14,7 +14,7 @@ The recipient upon which a complaint has been served shall have the right to app
 
 #### (c) Report; issuance of cease and desist order
 
-The testimony in any hearing held under this section shall be reduced to writing and filed with the Office. If upon that hearing the Officeis of the opinion that the recipient is in violation of any requirement of law as charged in the complaint, the Office shall—
+The testimony in any hearing held under this section shall be reduced to writing and filed with the Office. If upon that hearing the Office is of the opinion that the recipient is in violation of any requirement of law as charged in the complaint, the Office shall—
 
 &emsp;(1) make a report in writing stating its findings of fact; and
 

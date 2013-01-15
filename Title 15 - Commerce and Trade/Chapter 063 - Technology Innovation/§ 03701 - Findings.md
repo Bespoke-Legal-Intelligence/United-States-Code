@@ -40,9 +40,9 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
+Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278l of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
+Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278l of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
 #### Short Title of 1989 Amendment
 
@@ -58,13 +58,13 @@ Pub. L. 100–107, §1, Aug. 20, 1987, 101 Stat. 724, provided that: “This Act
 
 #### Short Title of 1986 Amendments
 
-Section 1 of Pub. L. 99–502 provided that: “This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
+Pub. L. 99–502, §1, Oct. 20, 1986, 100 Stat. 1785, provided that: “This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title\] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
 
 Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act \[amending section 3704 of this title\] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
 
 #### Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy
 
@@ -216,7 +216,7 @@ Study.—
 
 &emsp;“(1)
 
-In general.—Not later than 30 days after the date of the enactment of this Act \[Jan. 4, 2011\], the Secretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall carry out, through an interagency consulting process, a study of the barriers to the use of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
+In general.—Not later than 30 days after the date of the enactment of this Act \[Jan. 4, 2011\], theSecretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall carry out, through an interagency consulting process, a study of the barriers to the use of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
 
 &emsp;“(2)
 
@@ -292,7 +292,7 @@ Pub. L. 102–245, title IV, §401, Feb. 14, 1992, 106 Stat. 21, provided that:
 
 “(a)
 
-Establishment and Purpose.—There is established a National Commission on Reducing Capital Costs for Emerging Technology (hereafter in this section referred to as the ‘Commission’), for the purpose of developing recommendations to increase the competitiveness of United States industry by encouraging investments in research, the development of new process and product technologies, and the production of those technologies.
+Establishment and Purpose.—There is established a National Commission on Reducing CapitalCosts for Emerging Technology (hereafter in this section referred to as the ‘Commission’), for the purpose of developing recommendations to increase the competitiveness of United States industry by encouraging investments in research, the development of new process and product technologies, and the production of those technologies.
 
 “(b)
 
@@ -364,7 +364,7 @@ Establishment of Commission.—The Secretary, in consultation with the Administr
 
 Issues.—The Commission shall address the following issues:
 
-&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to givedomestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
+&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to give domestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
 
 &emsp;“(2) Under what conditions can Federal Government purchases of advanced technology-based products be based on performance specifications rather than on product specifications? Should Federal Government procurement first look to the commercial markets for products that will meet performance specifications before purchasing a unique product that has to be developed?
 
@@ -384,7 +384,7 @@ Issues.—The Commission shall address the following issues:
 
 Membership and Procedures.—(1) The Commission shall be composed of 15 members, 8 of whom shall constitute a quorum.
 
-“(2) The Secretary, the Administrator of the Office of Federal Procurement Policy, the Director of the Office of Science and Technology Policy, the Secretary of Defense, and the Administrator of General Services, or their designees who serve in executive level positions, shall serve as members of the Commission.
+“(2) The Secretary, the Administrator of the Office of Federal Procurement Policy, the Director of the Officeof Science and Technology Policy, the Secretary of Defense, and the Administrator of General Services, or their designees who serve in executive level positions, shall serve as members of the Commission.
 
 “(3) The Secretary shall appoint as members of the Commission, from among individuals not employed by the Federal Government—
 
@@ -478,7 +478,7 @@ Ex. Ord. No. 13185, Dec. 28, 2000, 66 F.R. 701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to keep the Federal Government-University research partnership strong, it is hereby ordered as follows:
 
-Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
+Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology thathas evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
 
 (a) The guiding principles that shall govern interactions between the Federal Government and universities that perform research are:
 

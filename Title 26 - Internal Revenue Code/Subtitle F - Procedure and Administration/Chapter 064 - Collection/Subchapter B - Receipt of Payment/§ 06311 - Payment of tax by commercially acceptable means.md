@@ -102,7 +102,7 @@ Subsec. (e)(1). Pub. L. 105–206 substituted “section 6103(k)(9)” for “se
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 105–34 effective on the day 9 months after Aug. 5, 1997, 
 
 #### Effective Date of 1984 Amendment
 
-Section 448(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §448(b), July 18, 1984, 98 Stat. 818, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Regulations
 

@@ -8,7 +8,7 @@ New vessel.—The term “new vessel” means a vessel—
 
 &emsp;&emsp;(A) constructed under this subtitle and acquired within 2 years after the date of completion; or
 
-&emsp;&emsp;(B) constructed in a domestic shipyard on private account and not under this subtitle,and documented under the laws of the United States.
+&emsp;&emsp;(B) constructed in a domestic shipyard on private account and not under this subtitle, and documented under the laws of the United States.
 
 &emsp;(2)
 

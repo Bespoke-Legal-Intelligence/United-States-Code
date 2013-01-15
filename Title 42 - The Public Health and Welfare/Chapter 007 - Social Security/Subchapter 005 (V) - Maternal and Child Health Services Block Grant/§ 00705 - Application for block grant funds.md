@@ -34,7 +34,7 @@
 
 &emsp;(5) provides that—
 
-&emsp;&emsp;(A) the State will establish a fair method (as determined by the State) for allocating funds allotted to the State under this subchapter among such individuals, areas, and localities identified under paragraph (1)(A) as needing maternal and child health services, and the State will identify and apply guidelines for the appropriate frequency and content of, and appropriate referral and followup with respect to, health care assessments and services financially assisted by the State under this subchapter and methods for assuring quality assessments and services;
+&emsp;&emsp;(A) the State will establish a fair method (as determined by the State) for allocating funds allotted to the State under this subchapter among such individuals, areas, and localities identified under paragraph (1)(A) as needing maternal and child health services, and the State will identify and apply guidelines for the appropriate frequency and content of, and appropriate referral and followup with respect to, health care assessments and services financially assisted bythe State under this subchapter and methods for assuring quality assessments and services;
 
 &emsp;&emsp;(B) funds allotted to the State under this subchapter will only be used, consistent with section 708 of this title, to carry out the purposes of this subchapter or to continue activities previously conducted under the consolidated health programs (described in section 701(b)(1) of this title);
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
 
-&emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors,for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
+&emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(l)(1) of this title and, once identified, to assist them in applying for such assistance.
 
 > The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.
 
@@ -78,7 +78,7 @@ A prior section 705, act Aug. 14, 1935, ch. 531, title V, §505, as added and am
 
 Another prior section 705, acts Aug. 14, 1935, ch. 531, title V, §505, 49 Stat. 631; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558, provided for stopping payment on failure to comply with plan for maternal and child health services, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 707 of this title.
 
-Provisions similar to those comprising former section 705 were contained in sections 503 and 513 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 703 and 713 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 705 were contained in sections 503 and 513 of actAug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 703 and 713 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 

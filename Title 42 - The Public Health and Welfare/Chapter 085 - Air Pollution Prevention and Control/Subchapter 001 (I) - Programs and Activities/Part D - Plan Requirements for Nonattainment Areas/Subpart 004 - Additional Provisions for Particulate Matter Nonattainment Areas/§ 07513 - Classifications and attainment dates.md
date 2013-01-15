@@ -8,7 +8,7 @@ Every area designated nonattainment for PM–10 pursuant to section 7407(d) of t
 
 #### (1) Reclassification before attainment date
 
-&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified in this subpart also as a “Serious Area”) any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
+&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified inthis subpart also as a “Serious Area”) any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
 
 &emsp;&emsp;(A) For areas designated nonattainment for PM–10 under section 7407(d)(4) of this title, the Administrator shall propose to reclassify appropriate areas by June 30, 1991, and take final action by December 31, 1991.
 
@@ -32,7 +32,7 @@ Except as provided under subsection (d) of this section, the attainment dates fo
 
 #### (2) Serious Areas
 
-&emsp;For a Serious Area, the attainment date shall be as expeditiously as practicable but no later than the end of the tenth calendar yearbeginning after the area's designation as nonattainment, except that, for areas designated nonattainment for PM–10 under section 7407(d)(4) of this title, the date shall not extend beyond December 31, 2001.
+&emsp;For a Serious Area, the attainment date shall be as expeditiously as practicable but no later than the end of the tenth calendar year beginning after the area's designation as nonattainment, except that, for areas designated nonattainment for PM–10 under section 7407(d)(4) of this title, the date shall not extend beyond December 31, 2001.
 
 #### (d) Extension of attainment date for Moderate Areas
 

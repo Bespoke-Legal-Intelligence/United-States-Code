@@ -58,7 +58,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) The global war on terrorism and cutting off terrorist financing is a policy priority for the United States and its partners, working bilaterally and multilaterally through the United Nations, the United Nations Security Council and its committees, such as the 1267 and 1373 Committees, the Financial Action Task Force (FATF), and various international financial institutions, including the International Monetary Fund (IMF), the International Bank for Reconstruction and Development (IBRD), and the regional multilateral development banks, and other multilateral fora.
 
-&emsp;“(2) The international financial community has become engaged in the global fight against terrorist financing. The Financial Action Task Force has focused on the new threat posed by terrorist financing to the international financial system, resulting in the establishment of the FATF's Eight Special Recommendations on Terrorist Financing as the international standard on combating terrorist financing. The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
+&emsp;“(2) The international financial community has become engaged in the global fight against terrorist financing. The Financial Action Task Force has focused on the new threat posed by terrorist financing to the international financial system, resulting in the establishment of the FATF's Eight Special Recommendations on Terrorist Financing as the international standard on combating terrorist financing.The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
 
 &emsp;“(3) FATF's Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terrorist financing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
 
@@ -76,7 +76,7 @@ Sense of Congress Regarding Success in Multilateral Organizations.—It is the s
 
 #### “SEC. 7702. DEFINITIONS.
 
-“In this subtitle \[subtitle G (§§7701–7704) of title VII of Pub. L. 108–458, amending sections 262<i>o</i>–2 and 262r–4 of Title 22, Foreign Relations and Intercourse\]—
+“In this subtitle \[subtitle G (§§7701–7704) of title VII of Pub. L. 108–458, amending sections 262o–2 and 262r–4 of Title 22, Foreign Relations and Intercourse\]—
 
 &emsp;“(1) the term ‘international financial institutions’ has the same meaning as in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\];
 
@@ -86,7 +86,7 @@ Sense of Congress Regarding Success in Multilateral Organizations.—It is the s
 
 #### “SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
 
-“The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and torecommend to the Secretary improved or new standards, as necessary.”
+“The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and to recommend to the Secretary improved or new standards, as necessary.”
 
 #### International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes
 
@@ -152,7 +152,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 #### Four-Year Congressional Review; Expedited Consideration
 
-Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, theprovisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
+Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
 
 #### Cooperative Efforts To Deter Money Laundering
 
@@ -342,7 +342,7 @@ Study Required.—The Secretary of the Treasury shall conduct a study of—
 
 &emsp;&emsp;&emsp;“(i) preventing money laundering by businesses which are required to be licensed under any such statute; and
 
-&emsp;&emsp;&emsp;“(ii) protecting the payment system, including the receipt, payment, collection, and clearing of checks, from fraud and abuse by such businesses; and
+&emsp;&emsp;&emsp;“(ii) protecting the payment system, including the receipt, payment, collection, and clearing ofchecks, from fraud and abuse by such businesses; and
 
 &emsp;“(2) the adequacy of—
 
@@ -516,5 +516,5 @@ Definitions.—For the purposes of this section—
 
 #### International Information Exchange System; Study of Foreign Branches of Domestic Institutions
 
-Pub. L. 99–570, title I, §1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1) the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
+Pub. L. 99–570, title I, §1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1)the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
 

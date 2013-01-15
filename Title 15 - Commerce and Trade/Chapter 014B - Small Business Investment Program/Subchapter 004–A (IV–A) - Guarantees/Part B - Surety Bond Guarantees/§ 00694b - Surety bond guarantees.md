@@ -2,7 +2,9 @@
 
 #### (a) Authority of Administration to guarantee surety against loss from principal's breach of bond
 
-(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $2,000,000.
+(1)(A) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by aprincipal on any total work order or contract amount at the time of bond execution that does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.
+
+(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -56,15 +58,15 @@ The Administration may establish and periodically review regulations for partici
 
 #### (e) Reimbursement of surety; conditions
 
-Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
+Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
 
 &emsp;(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
-&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
+&emsp;(2) the total contract amount at the time of execution of the bond or bonds exceeds $6,500,000,
 
 &emsp;(3) the surety has breached a material term or condition of such guarantee agreement, or
 
-&emsp;(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.
+&emsp;(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d).
 
 #### (f) Procedure for reimbursement
 
@@ -76,7 +78,7 @@ The Administration may, upon such terms and conditions as it may prescribe, adop
 
 (2) The Administration may at all reasonable times audit, in the offices of a participating surety, all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.
 
-(3) Each surety participating under the authority of paragraph (3) of subsection (a) of thissection shall be audited at least once every three years by examiners selected and approved by the Administration.
+(3) Each surety participating under the authority of paragraph (3) of subsection (a) of this section shall be audited at least once every three years by examiners selected and approved by the Administration.
 
 #### (h) Administrative provisions
 
@@ -86,9 +88,27 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158.)
+#### (j) Administration not to deny liability based on information provided as part of application
+
+For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
+
+(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, §1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1695(a), designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.” for “does not exceed $2,000,000.”, and added subpar. (B).
+
+Subsec. (e). Pub. L. 112–239, §1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
+
+&emsp;“(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
+
+&emsp;“(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
+
+&emsp;“(3) the surety has breached a material term or condition of such guarantee agreement, or
+
+&emsp;“(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.”
+
+Subsec. (j). Pub. L. 112–239, §1695(b)(2), added subsec. (j).
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B) which read as follows: “The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.” See Termination Date of 2009 Amendment note below.
 
@@ -122,7 +142,7 @@ Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted “every three years”
 
 Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section.”
 
-Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
+Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration topay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
 
 Subsec. (e)(3), (4). Pub. L. 100–590, §203(c), added pars. (3) and (4).
 

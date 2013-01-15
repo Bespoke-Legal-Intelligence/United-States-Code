@@ -62,7 +62,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Section 5 of Pub. L. 103–208 provided that:
+Pub. L. 103–208, §5, Dec. 20, 1993, 107 Stat. 2488, provided that:
 
 “(a)
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date
 
-Section 301(b) of Pub. L. 99–498 provided that: “The amendment made by subsection (a) \[enacting this subchapter\] shall take effect July 1, 1987.”
+Pub. L. 99–498, title III, §301(b), Oct. 17, 1986, 100 Stat. 1308, provided that: “The amendment made by subsection (a) \[enacting this subchapter\] shall take effect July 1, 1987.”
 

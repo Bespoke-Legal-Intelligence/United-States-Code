@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 15, 2012, and annually thereafter, the Secretary shall prepare a report containing data regarding the trade adjustment assistance for firms program under this part for the preceding fiscal year. The data shall include the following:
+Not later than December 15, 2012, and annually thereafter, the Secretary shall prepare a report containing data regarding the trade adjustment assistance for firms program under this part forthe preceding fiscal year. The data shall include the following:
 
 &emsp;(1) The number of firms that inquired about the program.
 

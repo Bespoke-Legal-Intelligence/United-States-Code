@@ -14,7 +14,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Short Title
 
-Section 5 of Pub. L. 92–300 provided that: “This Act \[enacting this section and sections 558b to 558d of this title\] may be cited as the ‘Volunteers in the National Forests Act of 1972’.”
+Pub. L. 92–300, §5, May 18, 1972, 86 Stat. 147, provided that: “This Act \[enacting this section and sections 558b to 558d of this title\] may be cited as the ‘Volunteers in the National Forests Act of 1972’.”
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should appear after “civil service”.</i>
 

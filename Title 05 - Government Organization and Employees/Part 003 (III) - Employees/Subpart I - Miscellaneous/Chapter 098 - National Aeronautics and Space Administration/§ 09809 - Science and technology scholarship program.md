@@ -62,7 +62,7 @@
 
 #### References in Text
 
-Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subsec. (i), are classified to sections 1001(a) and 1087<i>ll</i>, respectively, of Title 20, Education.
+Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subsec. (i), are classified to sections 1001(a) and 1087ll, respectively, of Title 20, Education.
 
 #### Amendments
 

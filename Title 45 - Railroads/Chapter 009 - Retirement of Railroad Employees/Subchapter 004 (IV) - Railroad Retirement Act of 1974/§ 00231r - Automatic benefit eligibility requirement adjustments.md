@@ -16,7 +16,7 @@ If section 226 \[42 U.S.C. 426\] or title XVIII \[42 U.S.C. 1395 et seq.\] of th
 
 Notwithstanding the provisions of subsections (a), (b), and (c) of this section—
 
-&emsp;(1) No annuity or other benefit shall be payable to any person on the basis of the compensation and years of service of an individual by reason of the provisions of subsection (a), (b), or (c) of this section if, and to the extent that, such annuity or other benefit would duplicate a benefit payable to such person on the basis of such compensation and years of service under a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or any other Act of Congress, which becomes effective after December 31, 1974.
+&emsp;(1) No annuity or other benefit shall be payable to any person on the basis of the compensation and years of service of an individual by reason of the provisions of subsection (a), (b), or (c) of this section if, and to the extent that, such annuity or other benefit would duplicate a benefit payable to such person on the basis of such compensation and years of service under a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or any other Act ofCongress, which becomes effective after December 31, 1974.
 
 &emsp;(2) No annuity shall be payable to a person by reason of subsection (a) or (b) of this section unless the individual upon whose compensation and years of service such annuity would be based will have (A) completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995), and (B) in the case of a survivor, had a current connection with the railroad industry at the time of his death.
 

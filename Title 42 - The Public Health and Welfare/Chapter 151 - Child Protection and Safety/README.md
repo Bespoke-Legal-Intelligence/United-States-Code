@@ -54,7 +54,7 @@
 |  |  |
 | :--- | ---: |
 | [16961\.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20C%20-%20Access%20to%20Information%20and%20Resources%20Needed%20to%20Ensure%20That%20Children%20Are%20Not%20Attacked%20or%20Abused/%C2%A7%2016961%20-%20Access%20to%20national%20crime%20information%20databases.md) | Access to national crime information databases. |
-| [16962\.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20C%20-%20Access%20to%20Information%20and%20Resources%20Needed%20to%20Ensure%20That%20Children%20Are%20Not%20Attacked%20or%20Abused/%C2%A7%2016962%20-%20Schools%20Safe%20Act.md) | Schools Safe Act. |
+| [16962\.](Subchapter%20001%20%28I%29%20-%20Sex%20Offender%20Registration%20and%20Notification/Part%20C%20-%20Access%20to%20Information%20and%20Resources%20Needed%20to%20Ensure%20That%20Children%20Are%20Not%20Attacked%20or%20Abused/%C2%A7%2016962%20-%20Schools%20SAFE%20Act.md) | Schools SAFE Act. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

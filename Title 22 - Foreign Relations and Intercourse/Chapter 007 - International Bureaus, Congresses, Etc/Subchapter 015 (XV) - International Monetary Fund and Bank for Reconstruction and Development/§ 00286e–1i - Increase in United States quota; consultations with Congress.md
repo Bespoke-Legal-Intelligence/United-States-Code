@@ -8,7 +8,7 @@
 
 &emsp;(B) the committee on Foreign Relations, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any appropriate subcommittee of each such committee,
 
-> for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider any future quota increase for the International Monetary Fund which mayinvolve an increased contribution, subscription, or loan by the United States.
+> for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider any future quota increase for the International Monetary Fund which may involve an increased contribution, subscription, or loan by the United States.
 
 (2) Such consultation shall be made—
 
@@ -18,7 +18,7 @@
 
 &emsp;(C) before a session of such negotiations is held at which the United States representatives may agree to such quota increase.
 
-(July 31, 1945, ch. 339, §41, as added Pub. L. 98–181, title VIII, §802(a)(4), Nov. 30, 1983, 97 Stat. 1268.)
+(July 31, 1945, ch. 339, §41, as added Pub. L. 98–181, title I \[title VIII, §802(a)(4)\], Nov. 30, 1983, 97 Stat. 1268.)
 
 #### Change of Name
 

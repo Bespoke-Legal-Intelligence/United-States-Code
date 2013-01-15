@@ -2,7 +2,7 @@
 
 (a)
 
-Filing and Venue.—Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation duties and powers designated to be carried out by the Administrator) in whole or in part under this part, part B, or subsection (<i>l</i>) or (s) of section 114 may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
+Filing and Venue.—Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation duties and powers designated to be carried out by the Administrator) in whole or in part under this part, partB, or subsection (l) or (s) of section 114 may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
 
 (b)
 
@@ -118,7 +118,7 @@ In subsection (d), the words “made in the proceeding conducted by” are subst
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176, in first sentence, struck out “safety” before “duties and powers designated to be carried out by the Administrator)” and substituted “in whole or in part under this part, part B, or subsection (<i>l</i>) or (s) of section 114” for “under this part”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, in first sentence, struck out “safety” before “duties and powers designated to be carried out by the Administrator)” and substituted “in whole or in part under this part, part B, or subsection (l) or (s) of section 114” for “under this part”.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 

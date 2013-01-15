@@ -26,7 +26,7 @@ The Export-Import Bank Act of 1945, as amended, referred to in subsec. (a), is a
 
 #### Effective Date of 1987 Amendment
 
-Section 101(e) \[title V, §588(b)\] of Pub. L. 100–202 provided that: “The amendment made by subsection (a)(2) \[amending this section\] does not apply with respect to funds appropriated prior to the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–202, §101(e) \[title V, §588(b)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–187, provided that: “The amendment made by subsection (a)(2) \[amending this section\] does not apply with respect to funds appropriated prior to the date of enactment of this Act \[Dec. 22, 1987\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “democratically”.</i>
 

@@ -6,7 +6,7 @@ If an individual—
 
 &emsp;(2) misbehaves during a hearing or so near the place of hearing as to obstruct it;
 
-> the Secretary or his representative shall certify the facts to the district court having jurisdiction in the place where he is sitting. The court,in a summary manner, shall hear the evidence as to the acts complained of and if the evidence warrants, punish the individual in the same manner and to the same extent as for a contempt committed before the court, or commit the individual on the same conditions as if the forbidden act had occurred with reference to the process of or in the presence of the court.
+> the Secretary or his representative shall certify the facts to the district court having jurisdiction in the place where he is sitting. The court, in a summary manner, shall hear the evidence as to the acts complained of and if the evidence warrants, punish the individual in the same manner and to the same extent as for a contempt committed before the court, or commit the individual on the same conditions as if the forbidden act had occurred with reference to the process of or in the presence of the court.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 545.)
 

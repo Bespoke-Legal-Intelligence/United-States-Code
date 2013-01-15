@@ -4,7 +4,7 @@
 
 In the case of any distribution by a partnership to a partner, such partner shall be treated as recognizing gain in an amount equal to the lesser of—
 
-&emsp;(1) the excess (if any) of (A) the fair market value of property (other than money) receivedin the distribution over (B) the adjusted basis of such partner's interest in the partnership immediately before the distribution reduced (but not below zero) by the amount of money received in the distribution, or
+&emsp;(1) the excess (if any) of (A) the fair market value of property (other than money) received in the distribution over (B) the adjusted basis of such partner's interest in the partnership immediately before the distribution reduced (but not below zero) by the amount of money received in the distribution, or
 
 &emsp;(2) the net precontribution gain of the partner.
 

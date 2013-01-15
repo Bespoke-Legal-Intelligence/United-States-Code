@@ -20,7 +20,7 @@ A drug or device—
 
 &emsp;&emsp;(B) under section 360j(g) of this title is exempt from either such section; or
 
-&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of thecountry to which such drug will be exported of such disapproval.
+&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
 
 #### (b) List of eligible countries for export; criteria for addition to list; direct export; petition for exemption
 

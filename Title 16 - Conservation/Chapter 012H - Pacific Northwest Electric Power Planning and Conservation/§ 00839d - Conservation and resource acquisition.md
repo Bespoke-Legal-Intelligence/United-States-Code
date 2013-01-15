@@ -12,7 +12,7 @@
 
 &emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservation measures and direct application of renewable energy resources.
 
-(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i) of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
+(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i)of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
 
 &emsp;(A) to meet his contractual obligations that remain after taking into account planned savings from measures provided for in paragraph (1) of this subsection, and
 
@@ -34,7 +34,7 @@
 
 #### (c) Procedure for acquiring major resources, implementing conservation measures, paying or reimbursing investigation and preconstruction expenses, or granting billing credits
 
-(1) For each proposal under subsection (a), (b), (f), (h), or (<i>l</i>) of this section to acquire a major resource, to implement a conservation measure which will conserve an amount of electric power equivalent to that of a major resource, to pay or reimburse investigation and preconstruction expenses of the sponsors of a major resource, or to grant billing credits or services involving a major resource, the Administrator shall—
+(1) For each proposal under subsection (a), (b), (f), (h), or (l) of this section to acquire a major resource, to implement a conservation measure which will conserve an amount of electric power equivalent to that of a major resource, to pay or reimburse investigation and preconstruction expenses of the sponsors of a major resource, or to grant billing credits or services involving a major resource, the Administrator shall—
 
 &emsp;(A) publish notice of the proposed action in the Federal Register and provide a copy of such notice to the Council, the Governor of each State in which facilities would be constructed or a conservation measure implemented, and the Administrator's customers;
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) develop a record to assist in evaluating the proposal which shall include the transcript of the public hearings, together with exhibits, and such other materials and information as may have been submitted to, or developed by, the Administrator; and
 
-&emsp;(D) following completion of such hearings, promptly provide to the Council and make public a written decision that includes, in addition to a determination respecting the requirements of subsection (a), (b), (f), (h), (<i>l</i>), or (m) of this section, as appropriate—
+&emsp;(D) following completion of such hearings, promptly provide to the Council and make public a written decision that includes, in addition to a determination respecting the requirements of subsection (a), (b), (f), (h), (l), or (m) of this section, as appropriate—
 
 &emsp;&emsp;(i) if a plan is in effect, a finding that the proposal is either consistent or inconsistent with the plan or, notwithstanding its inconsistency with the plan, a finding that it is needed to meet the Administrator's obligations under this chapter, or
 
@@ -90,7 +90,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(A) a renewable resource, other than a major resource, to fund or secure debt incurred in the investigation and initial development of such resource, or
 
-&emsp;(B) any other resource to provide for the reimbursement of the sponsor's investigation and preconstruction expenses concerning suchresource (which expenses shall not include procurement of capital equipment or construction material for such resource).
+&emsp;(B) any other resource to provide for the reimbursement of the sponsor's investigation and preconstruction expenses concerning such resource (which expenses shall not include procurement of capital equipment or construction material for such resource).
 
 > In the case of any resource referred to in subparagraph (B) of this paragraph, such reimbursement is authorized only if—
 
@@ -132,7 +132,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
-&emsp;(C) require that resources in excess of customer's reasonable load growth shall havebeen offered to others for ownership, participation or other sponsorship pursuant to subsection (m) of this section, except in the case of conservation, multi-purpose projects uniquely suitable for development by the customer, or renewable resources; and
+&emsp;(C) require that resources in excess of customer's reasonable load growth shall have been offered to others for ownership, participation or other sponsorship pursuant to subsection (m) of this section, except in the case of conservation, multi-purpose projects uniquely suitable for development by the customer, or renewable resources; and
 
 &emsp;(D) require that the operators of any generating resource for which a billing credit is to be granted agree to operate such resource in a manner compatible with the planning and operation of the region's power system.
 
@@ -150,7 +150,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
-(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
+(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received fromthe sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
 (2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
@@ -158,7 +158,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 In the exercise of his authorities pursuant to this section, the Administrator shall, consistent with the provisions of this chapter and the Administrator's obligations to particular customer classes, insure that benefits under this section, including financial and technical assistance, conduct of conservation demonstrations, and experimental projects, services, and billing credits, are distributed equitably throughout the region.
 
-#### (<i>l</i>) Investigations
+#### (l) Investigations
 
 (1) The Administrator is authorized and directed to investigate opportunities for adding to the region's resources or reducing the region's power costs through the accelerated or cooperative development of resources located outside the States of Idaho, Montana, Oregon, and Washington if such resources are renewable resources, and are now or in the future planned or considered for eventual development by nonregional agencies or authorities that will or would own, sponsor, or otherwise develop them. The Administrator shall keep the Council fully and currently informed of such investigations, and seek the Council's advice as to the desirability of pursuing such investigations.
 
@@ -178,7 +178,7 @@ Except as to resources under construction on December 5, 1980, the Administrator
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 

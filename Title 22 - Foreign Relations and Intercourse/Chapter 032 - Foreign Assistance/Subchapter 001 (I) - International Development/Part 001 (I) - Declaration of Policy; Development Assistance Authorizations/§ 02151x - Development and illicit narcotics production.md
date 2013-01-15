@@ -2,7 +2,7 @@
 
 #### (a) Congressional statement of findings
 
-The Congress recognizes that illicit narcotics cultivation is related to overall development problems and that the vast majority of all individuals employed in the cultivation of illicitnarcotics reside in the developing countries and are among the poorest of the poor in those countries and that therefore the ultimate success of any effort to eliminate illicit narcotics production depends upon the availability of alternative economic opportunities for those individuals, upon other factors which assistance under this part could address, as well as upon direct narcotics control efforts.
+The Congress recognizes that illicit narcotics cultivation is related to overall development problems and that the vast majority of all individuals employed in the cultivation of illicit narcotics reside in the developing countries and are among the poorest of the poor in those countries and that therefore the ultimate success of any effort to eliminate illicit narcotics production depends upon the availability of alternative economic opportunities for those individuals, upon other factors which assistance under this part could address, as well as upon direct narcotics control efforts.
 
 #### (b) Program planning priorities; resource utilization
 
@@ -14,7 +14,7 @@ The Congress recognizes that illicit narcotics cultivation is related to overall
 
 In furtherance of the purposes of this section, the agency primarily responsible for administering subchapter I of this chapter shall cooperate fully with, and share its expertise in development matters with, other agencies of the United States Government involved in narcotics control activities abroad.
 
-(Pub. L. 87–195, pt. I, §126, as added Pub. L. 96–53, title I, §110, Aug. 14, 1979, 93 Stat. 363; amended Pub. L. 99–83, title VI, §603, Aug. 8, 1985, 99 Stat. 228; Pub. L. 101–513, title V, §562(d)(7), Nov. 5, 1990, 104 Stat. 2031.)
+(Pub. L. 87–195, pt. I, §126, as added Pub. L. 96–53, title I, §110, Aug. 14, 1979, 93 Stat. 363; amended Pub. L. 99–83, title VI, §603, Aug. 8, 1985, 99 Stat.228; Pub. L. 101–513, title V, §562(d)(7), Nov. 5, 1990, 104 Stat. 2031.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

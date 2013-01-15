@@ -48,5 +48,5 @@ Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(2)(B), (e)(2), substituted “Ch
 
 #### Change of Name
 
-Section 302(b) of Pub. L. 102–405 provided that: “The position of Chief Benefits Director of the Department of Veterans Affairs is hereby redesignated as Under Secretary for Benefits of the Department of Veterans Affairs.”
+Pub. L. 102–405, title III, §302(b), Oct. 9, 1992, 106 Stat. 1984, provided that: “The position of Chief Benefits Director of the Department of Veterans Affairs is hereby redesignated as Under Secretary for Benefits of the Department of Veterans Affairs.”
 

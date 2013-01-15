@@ -8,7 +8,7 @@
 
 &emsp;(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime; or
 
-&emsp;(4) for restitution, or damages, awarded in a civil action against the debtor as a result of willful or malicious injury by the debtor that caused personal injury to an individual or the death of an individual.
+&emsp;(4) for restitution, or damages, awarded in a civil action against the debtor as a result ofwillful or malicious injury by the debtor that caused personal injury to an individual or the death of an individual.
 
 (b) Subject to subsection (d), at any time after the confirmation of the plan and after notice and a hearing, the court may grant a discharge to a debtor that has not completed payments under the plan only if—
 
@@ -66,7 +66,7 @@ Subsection (b) is the successor to Bankruptcy Act Section 661 \[section 1061 of 
 
 Subsection (d) excepts from any chapter 13 discharge a debt based on an allowed section 1305(a)(2) postpetition claim, if prior trustee approval of the incurring of the debt was practicable but was not obtained.
 
-A chapter 13 discharge obtained through fraud and before the moving party gained knowledge of the fraud may be revoked by the court under subsection (e), after notice and hearing, at the request of any party in interest made within 1 year after the discharge was granted.
+A chapter 13 discharge obtained through fraud and before the moving party gained knowledge of the fraud may be revoked by the court under subsection (e), afternotice and hearing, at the request of any party in interest made within 1 year after the discharge was granted.
 
 #### Amendments
 
@@ -120,13 +120,13 @@ Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amend
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–647 effective Nov. 29, 1990, but not applicable with respect to cases commenced under this title before Nov. 29, 1990, see section 3104 of Pub. L. 101–647, set out as a note under section 523 of this title.
 
 Amendment by Pub. L. 101–581 effective Nov. 15, 1990, but not applicable with respect to cases commenced under this title before Nov. 15, 1990, see section 4 of Pub. L. 101–581, set out as a note under section 523 of this title.
 
-Section 3007(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title III, §3007(b)(2), Nov. 5, 1990, 104 Stat. 1388–29, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1984 Amendment
 

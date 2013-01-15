@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section, discrimination includes—
 
 &emsp;(4)(A) the purchase or lease by such entity of an over-the-road bus which does not comply with the regulations issued under section 12186(a)(2) of this title; and
 
-&emsp;(B) any other failure of such entity to comply with such regulations; and
+&emsp;(B) any other failure of such entity to comply with such regulations; and <sup>2</sup>
 
 &emsp;(5) the purchase or lease by such entity of a new van with a seating capacity of less than 8 passengers, including the driver, which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of this section that is not readily accessible to or usable by individuals with disabilities, including individuals who use wheelchairs; except that the new van need not be readily accessible to and usable by such individuals if the entity can demonstrate that the system for which the van is being purchased or leased, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;
 
@@ -65,4 +65,6 @@ The Federal Railroad Safety Act of 1970, referred to in subsec. (c)(1), is title
 Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec. (b)(3) only) and subsec. (b)(3) of this section effective July 26, 1990, see section 310(a), (c) of Pub. L. 101–336, set out as a note under section 12181 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -100,7 +100,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;Subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
 
-&emsp;&emsp;&emsp;(i) the taxpayer described in subparagraph (A) has an equity interest of morethan 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
+&emsp;&emsp;&emsp;(i) the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
 
 &emsp;&emsp;&emsp;(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of such the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
 
@@ -118,7 +118,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Special rule for citrus and almond growers
 
-&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposes of the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
+&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposesof the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
 
 #### (D) Election
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (A) Writer
 
-&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create\(or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
+&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer
 
@@ -412,7 +412,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1008(b)(1)–(4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6026(d) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7816(d)(2), Dec. 19, 1989, 103 Stat. 2421, provided that:
+Pub. L. 100–647, title VI, §6026(d), Nov. 10, 1988, 102 Stat. 3693, as amended by Pub. L. 101–239, title VII, §7816(d)(2), Dec. 19, 1989, 103 Stat. 2421, provided that:
 
 “(1)
 
@@ -432,9 +432,9 @@ Revocation of election.—If a taxpayer engaged in a farming business involving 
 
 #### Effective Date
 
-Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
+Pub. L. 101–239, title VII, §7831(d)(2), Dec. 19, 1989, 103 Stat. 2427, provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
 
-Section 803(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
+Pub. L. 99–514, title VIII, §803(d), Oct. 22, 1986, 100 Stat. 2356, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
 
 “(1)
 
@@ -500,7 +500,7 @@ Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue C
 
 #### Allocation Ratio for Apportioning Storage Costs and Related Handling Costs
 
-Section 1008(b)(8) of Pub. L. 100–647 provided that: “The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986)).”
+Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: “The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986)).”
 
 #### Amortization of Past Service Pension Costs
 

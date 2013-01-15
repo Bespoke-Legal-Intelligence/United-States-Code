@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2501\.](%C2%A7%2002501%20-%20Definition.md) | Definition. |
+| [2501\.](%C2%A7%2002501%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -11,9 +11,9 @@
 |  |  |
 | :--- | ---: |
 | [2511\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002511%20-%20Naval%20Nuclear%20Propulsion%20Program.md) | Naval Nuclear Propulsion Program. |
-| [2512\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002512%20-%20Reorganization%20of%20field%20activities%20and%20management%20of%20national%20security%20functions.md) | Reorganization of field activities and management of national security functions. |
+| [2512\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002512%20-%20Management%20structure%20for%20nuclear%20security%20enterprise.md) | Management structure for nuclear security enterprise. |
 | [2513\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002513%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md) | Restriction on licensing requirement for certain defense activities and facilities. |
-| [2514\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002514%20-%20Reports%20to%20Congress%20on%20the%20modification%20of%20the%20force%20structure%20for%20the%20strategic%20nuclear%20weapons%20delivery%20systems%20of%20the%20United%20States.md) | Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States. |
+| [2514\.](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/%C2%A7%2002514%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,23 +24,26 @@
 |  |  |
 | :--- | ---: |
 | [2521\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002521%20-%20Stockpile%20stewardship%20program.md) | Stockpile stewardship program. |
-| [2522\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002522%20-%20Report%20on%20stockpile%20stewardship%20criteria.md) | Report on stockpile stewardship criteria. |
-| [2523\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523%20-%20Plan%20for%20stewardship%2C%20management%2C%20and%20certification%20of%20warheads%20in%20the%20nuclear%20weapons%20stockpile.md) | Plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile. |
-| [2523a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523a%20-%20Biennial%20plan%20on%20modernization%20and%20refurbishment%20of%20the%20nuclear%20security%20complex.md) | Biennial plan on modernization and refurbishment of the nuclear security complex. |
-| [2523b.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523b%20-%20Nuclear%20force%20reductions.md) | Nuclear force reductions. |
+| [2522\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002522%20-%20Stockpile%20stewardship%20criteria.md) | Stockpile stewardship criteria. |
+| [2523\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523%20-%20Nuclear%20weapons%20stockpile%20stewardship%2C%20management%2C%20and%20infrastructure%20plan.md) | Nuclear weapons stockpile stewardship, management, and infrastructure plan. |
+| [2523a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73133%28c%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202192.md) | Repealed. |
+| [2523b.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002523b%20-%20Transferred.md) | Transferred. |
 | [2524\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002524%20-%20Stockpile%20management%20program.md) | Stockpile management program. |
 | [2524a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002524a%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73113%28a%29%281%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202704.md) | Repealed. |
 | [2525\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002525%20-%20Annual%20assessments%20and%20reports%20to%20the%20President%20and%20Congress%20regarding%20the%20condition%20of%20the%20United%20States%20nuclear%20weapons%20stockpile.md) | Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile. |
 | [2526\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002526%20-%20Form%20of%20certifications%20regarding%20the%20safety%20or%20reliability%20of%20the%20nuclear%20weapons%20stockpile.md) | Form of certifications regarding the safety or reliability of the nuclear weapons stockpile. |
 | [2527\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002527%20-%20Nuclear%20test%20ban%20readiness%20program.md) | Nuclear test ban readiness program. |
-| [2528\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002528%20-%20Reports%20on%20nuclear%20test%20readiness.md) | Reports on nuclear test readiness. |
-| [2528a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002528a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73112%28a%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20577.md) | Repealed. |
+| 2528, 2528a. | Repealed. |
 | [2529\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002529%20-%20Requirements%20for%20specific%20request%20for%20new%20or%20modified%20nuclear%20weapons.md) | Requirements for specific request for new or modified nuclear weapons. |
-| [2530\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002530%20-%20Limitation%20on%20underground%20nuclear%20weapons%20tests.md) | Limitation on underground nuclear weapons tests. |
-| [2531\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002531%20-%20Testing%20of%20nuclear%20weapons.md) | Testing of nuclear weapons. |
+| [2530\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002530%20-%20Testing%20of%20nuclear%20weapons.md) | Testing of nuclear weapons. |
+| [2531\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002531%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28d%29%283%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202181.md) | Repealed. |
 | [2532\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002532%20-%20Manufacturing%20infrastructure%20for%20refabrication%20and%20certification%20of%20nuclear%20weapons%20stockpile.md) | Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile. |
-| [2533\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002533%20-%20Reports%20on%20critical%20difficulties%20at%20nuclear%20weapons%20laboratories%20and%20nuclear%20weapons%20production%20plants.md) | Reports on critical difficulties at nuclear weapons laboratories and nuclear weapons production plants. |
-| [2534\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002534%20-%20Plan%20for%20transformation%20of%20National%20Nuclear%20Security%20Administration%20nuclear%20weapons%20complex.md) | Plan for transformation of National Nuclear Security Administration nuclear weapons complex. |
+| [2533\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002533%20-%20Reports%20on%20critical%20difficulties%20at%20national%20security%20laboratories%20and%20nuclear%20weapons%20production%20facilities.md) | Reports on critical difficulties at national security laboratories and nuclear weapons production facilities. |
+| [2534\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002534%20-%20Plan%20for%20transformation%20of%20National%20Nuclear%20Security%20Administration%20nuclear%20security%20enterprise.md) | Plan for transformation of National Nuclear Security Administration nuclear security enterprise. |
+| [2535\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002535%20-%20Replacement%20project%20for%20Chemistry%20and%20Metallurgy%20Research%20Building%2C%20Los%20Alamos%20National%20Laboratory%2C%20New%20Mexico.md) | Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico. |
+| [2536\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002536%20-%20Reports%20on%20lifetime%20extension%20programs.md) | Reports on lifetime extension programs. |
+| [2537\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002537%20-%20Selected%20Acquisition%20Reports%20and%20independent%20cost%20estimates%20on%20life%20extension%20programs%20and%20new%20nuclear%20facilities.md) | Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities. |
+| [2538\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002538%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md) | Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -146,14 +149,16 @@
 |  |  |
 | :--- | ---: |
 | [2651\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002651%20-%20Prohibition%20on%20international%20inspections%20of%20Department%20of%20Energy%20facilities%20unless%20protection%20of%20restricted%20data%20is%20certified.md) | Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified. |
-| [2652\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002652%20-%20Restrictions%20on%20access%20to%20national%20laboratories%20by%20foreign%20visitors%20from%20sensitive%20countries.md) | Restrictions on access to national laboratories by foreign visitors from sensitive countries. |
+| [2652\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002652%20-%20Restrictions%20on%20access%20to%20national%20security%20laboratories%20by%20foreign%20visitors%20from%20sensitive%20countries.md) | Restrictions on access to national security laboratories by foreign visitors from sensitive countries. |
 | [2653\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002653%20-%20Background%20investigations%20of%20certain%20personnel%20at%20Department%20of%20Energy%20facilities.md) | Background investigations of certain personnel at Department of Energy facilities. |
 | [2654\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002654%20-%20Department%20of%20Energy%20counterintelligence%20polygraph%20program.md) | Department of Energy counterintelligence polygraph program. |
 | [2655\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002655%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20D%2C%20title%20XLV%2C%20%C2%A74504%28c%29%2C%20formerly%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28c%29%2C%20Dec.%2028%2C%202001%2C%20115%E2%80%A6.md) | Repealed. |
-| [2656\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002656%20-%20Notice%20to%20congressional%20committees%20of%20certain%20security%20and%20counterintelligence%20failures%20within%20nuclear%20energy%20defense%20programs.md) | Notice to congressional committees of certain security and counterintelligence failures within nuclear energy defense programs. |
+| [2656\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002656%20-%20Notice%20to%20congressional%20committees%20of%20certain%20security%20and%20counterintelligence%20failures%20within%20atomic%20energy%20defense%20programs.md) | Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs. |
 | [2657\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002657%20-%20Submittal%20of%20annual%20report%20on%20status%20of%20security%20functions%20at%20nuclear%20weapons%20facilities.md) | Submittal of annual report on status of security functions at nuclear weapons facilities. |
-| [2658\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002658%20-%20Report%20on%20counterintelligence%20and%20security%20practices%20at%20national%20laboratories.md) | Report on counterintelligence and security practices at national laboratories. |
-| [2659\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002659%20-%20Report%20on%20security%20vulnerabilities%20of%20national%20laboratory%20computers.md) | Report on security vulnerabilities of national laboratory computers. |
+| [2658\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002658%20-%20Report%20on%20counterintelligence%20and%20security%20practices%20at%20national%20security%20laboratories.md) | Report on counterintelligence and security practices at national security laboratories. |
+| [2659\.](Subchapter%20005%20%28V%29%20-%20Safeguards%20and%20Security%20Matters/Part%20A%20-%20Safeguards%20and%20Security/%C2%A7%2002659%20-%20Report%20on%20security%20vulnerabilities%20of%20national%20security%20laboratory%20computers.md) | Report on security vulnerabilities of national security laboratory computers. |
+|  | 2660\. |
+|  | Design and use of prototypes of nuclear weapons for intelligence purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -197,7 +202,7 @@
 | :--- | ---: |
 | [2721\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20B%20-%20Education%20and%20Training/%C2%A7%2002721%20-%20Executive%20management%20training%20in%20Department%20of%20Energy.md) | Executive management training in Department of Energy. |
 | [2722\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20B%20-%20Education%20and%20Training/%C2%A7%2002722%20-%20Stockpile%20stewardship%20recruitment%20and%20training%20program.md) | Stockpile stewardship recruitment and training program. |
-| [2723\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20B%20-%20Education%20and%20Training/%C2%A7%2002723%20-%20Fellowship%20program%20for%20development%20of%20skills%20critical%20to%20the%20Department%20of%20Energy%20nuclear%20weapons%20complex.md) | Fellowship program for development of skills critical to the Department of Energy nuclear weapons complex. |
+| [2723\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20B%20-%20Education%20and%20Training/%C2%A7%2002723%20-%20Fellowship%20program%20for%20development%20of%20skills%20critical%20to%20the%20nuclear%20security%20enterprise.md) | Fellowship program for development of skills critical to the nuclear security enterprise. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -209,6 +214,8 @@
 | [2732\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20C%20-%20Worker%20Safety/%C2%A7%2002732%20-%20Safety%20oversight%20and%20enforcement%20at%20defense%20nuclear%20facilities.md) | Safety oversight and enforcement at defense nuclear facilities. |
 | [2733\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20C%20-%20Worker%20Safety/%C2%A7%2002733%20-%20Program%20to%20monitor%20Department%20of%20Energy%20workers%20exposed%20to%20hazardous%20and%20radioactive%20substances.md) | Program to monitor Department of Energy workers exposed to hazardous and radioactive substances. |
 | [2734\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20C%20-%20Worker%20Safety/%C2%A7%2002734%20-%20Programs%20for%20persons%20who%20may%20have%20been%20exposed%20to%20radiation%20released%20from%20Hanford%20Nuclear%20Reservation.md) | Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation. |
+| [2735\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20C%20-%20Worker%20Safety/%C2%A7%2002735%20-%20Use%20of%20probabilistic%20risk%20assessment%20to%20ensure%20nuclear%20safety%20of%20facilities%20of%20the%20Administration%20and%20the%20Office%20of%20Environmental%E2%80%A6.md) | Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management. |
+| [2736\.](Subchapter%20006%20%28VI%29%20-%20Personnel%20Matters/Part%20C%20-%20Worker%20Safety/%C2%A7%2002736%20-%20Notification%20of%20nuclear%20criticality%20and%20non-nuclear%20incidents.md) | Notification of nuclear criticality and non-nuclear incidents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -248,7 +255,8 @@
 
 |  |  |
 | :--- | ---: |
-| [2771\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002771%20-%20Single%20request%20for%20authorization%20of%20appropriations%20for%20common%20defense%20and%20security%20programs.md) | Single request for authorization of appropriations for common defense and security programs. |
+| [2771\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002771%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28u%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202184.md) | Repealed. |
+| [2772\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20C%20-%20Other%20Matters/%C2%A7%2002772%20-%20Quarterly%20reports%20on%20financial%20balances%20for%20atomic%20energy%20defense%20activities.md) | Quarterly reports on financial balances for atomic energy defense activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -262,6 +270,7 @@
 | [2782\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002782%20-%20Prohibition%20and%20report%20on%20bonuses%20to%20contractors%20operating%20defense%20nuclear%20facilities.md) | Prohibition and report on bonuses to contractors operating defense nuclear facilities. |
 | [2783\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002783%20-%20Contractor%20liability%20for%20injury%20or%20loss%20of%20property%20arising%20out%20of%20atomic%20weapons%20testing%20programs.md) | Contractor liability for injury or loss of property arising out of atomic weapons testing programs. |
 | [2784\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002784%20-%20Notice-and-wait%20requirement%20applicable%20to%20certain%20third-party%20financing%20arrangements.md) | Notice-and-wait requirement applicable to certain third-party financing arrangements. |
+| [2785\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002785%20-%20Publication%20of%20contractor%20performance%20evaluations%20leading%20to%20award%20fees.md) | Publication of contractor performance evaluations leading to award fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -293,8 +302,8 @@
 
 |  |  |
 | :--- | ---: |
-| [2821\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002821%20-%20Semiannual%20reports%20on%20local%20impact%20assistance.md) | Semiannual reports on local impact assistance. |
-| [2822\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002822%20-%20Payment%20of%20costs%20of%20operation%20and%20maintenance%20of%20infrastructure%20at%20Nevada%20Test%20Site.md) | Payment of costs of operation and maintenance of infrastructure at Nevada Test Site. |
+| [2821\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002821%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28q%29%282%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202183.md) | Repealed. |
+| [2822\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002822%20-%20Payment%20of%20costs%20of%20operation%20and%20maintenance%20of%20infrastructure%20at%20Nevada%20National%20Security%20Site.md) | Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -303,7 +312,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02501 - Definition](%C2%A7%2002501%20-%20Definition.md)
+- [&sect; 02501 - Definitions](%C2%A7%2002501%20-%20Definitions.md)
 - [Subchapter 001 (I) - Organizational Matters](Subchapter%20001%20%28I%29%20-%20Organizational%20Matters/README.md)
 - [Subchapter 002 (II) - Nuclear Weapons Stockpile Matters](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/README.md)
 - [Subchapter 003 (III) - Proliferation Matters](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/README.md)

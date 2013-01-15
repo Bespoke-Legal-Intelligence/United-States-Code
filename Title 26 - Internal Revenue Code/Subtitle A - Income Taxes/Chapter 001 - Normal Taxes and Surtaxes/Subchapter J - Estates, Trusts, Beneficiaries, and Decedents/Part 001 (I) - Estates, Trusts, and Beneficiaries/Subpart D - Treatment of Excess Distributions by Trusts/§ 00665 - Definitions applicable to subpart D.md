@@ -24,7 +24,7 @@ For purposes of this subpart—
 
 #### (1) In general
 
-&emsp;In the case of a qualified trust, any distribution in any taxable year beginning after the date of the enactment of this subsection shallbe computed without regard to any undistributed net income.
+&emsp;In the case of a qualified trust, any distribution in any taxable year beginning after the date of the enactment of this subsection shall be computed without regard to any undistributed net income.
 
 #### (2) Qualified trust
 
@@ -118,7 +118,7 @@ Subsecs. (c) to (e). Pub. L. 87–834, §7(b)(2), added subsec. (c) and redesign
 
 #### Effective Date of 1997 Amendment
 
-Section 507(c)(1) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title V, §507(c)(1), Aug. 5, 1997, 111 Stat. 857, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Section 701(q)(3)(A) of Pub. L. 95–600 provided that: “The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title VII, §701(q)(3)(A), Nov. 6, 1978, 92 Stat. 2910, provided that: “The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1976 Amendment
 
@@ -138,11 +138,11 @@ Amendment by section 701(b), (c), (d)(2), (3) of Pub. L. 94–455 applicable to 
 
 #### Effective Date of 1971 Amendment
 
-Section 306(a) of Pub. L. 92–178 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1968.
+Pub. L. 92–178, title III, §306(a), Dec. 10, 1971, 85 Stat. 524, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1968.
 
 #### Effective Date of 1969 Amendment
 
-Section 331(d) of Pub. L. 91–172, as amended by Pub. L. 92–178, title III, §306(b), Dec. 10, 1971, 85 Stat. 524; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title III, §331(d), Dec. 30, 1969, 83 Stat. 598, as amended by Pub. L. 92–178, title III, §306(b), Dec. 10, 1971, 85 Stat. 524; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -154,7 +154,7 @@ Exceptions.—
 
 &emsp;“(A) Amounts paid, credited, or required to be distributed by a trust (other than a foreign trust created by a United States person) on or before the last day of a taxable year of the trust beginning before January 1, 1974, shall not be deemed to be accumulation distributions to the extent that such amounts were accumulated by a trust in taxable years of such trust beginning before January 1, 1969, and would have been excepted from the definition of an accumulation distribution by reason of paragraph (1), (2), (3), or (4) of section 665(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as in effect on December 31, 1968, if they had been distributed on the last day of the last taxable year of the trust beginning before January 1, 1969.
 
-&emsp;“(B) For taxable years of a trust beginning before January 1, 1970, the first sentence of section 666(a) ofthe Internal Revenue Code of 1986 (as amended by this section) shall not apply, and the amount of the accumulation distribution of the trust for such taxable years shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years to the extent that such amount exceeds the total of any undistributed net income for any taxable years intervening between the taxable year with respect of which the accumulation distribution is determined and such preceding taxable year.
+&emsp;“(B) For taxable years of a trust beginning before January 1, 1970, the first sentence of section 666(a) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply, and the amount of the accumulation distribution of the trust for such taxable years shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years to the extent that such amount exceeds the total of any undistributed net income for any taxable years intervening between the taxable year with respect of which the accumulation distribution is determined and such preceding taxable year.
 
 &emsp;“(C) In the case of a trust which was in existence on December 31, 1969, section 669 of the Internal Revenue Code of 1986, as amended by this section, shall not apply to capital gain distributions made to a beneficiary before January 1, 1973. If the beneficiary receives capital gain distributions from more than one such trust before January 1, 1973, the preceding sentence shall apply to capital gain distributions from only one such trust, such one to be designated by the taxpayer in accordance with regulations prescribed by the Secretary or his delegate. For purposes of the preceding sentence, capital gain distributions received from a trust qualifying under section 2056(b)(5) of the Internal Revenue Code of 1986 by a surviving spouse (who is the beneficiary of only one such trust) shall be disregarded.”
 

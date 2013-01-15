@@ -48,7 +48,7 @@ Amendment by Pub. L. 108–282 applicable to any food that is labeled on or afte
 
 #### Effective Date
 
-Section 10(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title I, §107(16), title II, §202(a)(4), Oct. 29, 1992, 106 Stat. 4499, 4501, provided that:
+Pub. L. 101–535, §10(b), Nov. 8, 1990, 104 Stat. 2366, as amended by Pub. L. 102–571, title I, §107(16), title II, §202(a)(4), Oct. 29, 1992, 106 Stat. 4499, 4501, provided that:
 
 “(1)
 
@@ -78,7 +78,7 @@ Exception.—If a State or political subdivision submits a petition under sectio
 
 Requirements pertaining to certain claims.—Notwithstanding subparagraphs (D) and (E) of paragraph (1) and except with respect to claims approved in accordance with section 202(b) of the Dietary Supplement Act of 1992 \[Pub. L. 102–571, set out as a note under section 343 of this title\], the requirements described in paragraphs (4) and (5) of section 403A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(4) and (5)) that pertain to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not take effect until the date final regulations take effect to implement subsection (q) or (r), as appropriate, of section 403 of such Act with respect to such dietary supplements.”
 
-Section 6(b) of Pub. L. 101–535 provided that:
+Pub. L. 101–535, §6(b), Nov. 8, 1990, 104 Stat. 2363, provided that:
 
 “(1) For the purpose of implementing section 403A(a)(3) \[21 U.S.C. 343–1(a)(3)\], the Secretary of Health and Human Services shall enter into a contract with a public or nonprofit private entity to conduct a study of—
 
@@ -90,7 +90,7 @@ Section 6(b) of Pub. L. 101–535 provided that:
 
 “(3)(A) Within 9 months of the date of the enactment of this Act, the Secretary shall publish a proposed list of sections which are adequately being implemented by regulations as determined under paragraph (1)(B) and sections which are not adequately being implemented by regulations as so determined. After publication of the lists, the Secretary shall provide 60 days for comments on such lists.
 
-“(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list ofsections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
+“(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
 
 “(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such date shall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
 
@@ -102,7 +102,7 @@ Section 6(b) of Pub. L. 101–535 provided that:
 
 #### Construction of Pub. L. 101–535
 
-Section 6(c) of Pub. L. 101–535 provided that:
+Pub. L. 101–535, §6(c), Nov. 8, 1990, 104 Stat. 2364, provided that:
 
 “(1) The Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535, see Short Title of 1990 Amendment note set out under section 301 of this title\] shall not be construed to preempt any provision of State law, unless such provision is expressly preempted under section 403A of the Federal Food, Drug, and Cosmetic Act \[this section\].
 

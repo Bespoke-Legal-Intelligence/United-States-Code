@@ -6,7 +6,7 @@
 
 (c) Each civilian member retired under this section, unless the disability for which he was retired is permanent in character, shall be examined by a board of medical officers designated by the Superintendent of the Naval Academy or of the Postgraduate School, as appropriate, one year after his retirement and annually thereafter, until he becomes 65 years of age.
 
-(d) Payments by the Secretary under this section shall be terminated if the retired civilian member is found to be sufficiently recovered for useful and efficient service in his former position and is offered reemployment in that position by the Superintendent.
+(d) Payments by the Secretary under this section shall be terminated if the retired civilian member is found to be sufficiently recovered foruseful and efficient service in his former position and is offered reemployment in that position by the Superintendent.
 
 (e) If a civilian member retired under this section is later reemployed by the United States, the payments by the Secretary shall be terminated.
 

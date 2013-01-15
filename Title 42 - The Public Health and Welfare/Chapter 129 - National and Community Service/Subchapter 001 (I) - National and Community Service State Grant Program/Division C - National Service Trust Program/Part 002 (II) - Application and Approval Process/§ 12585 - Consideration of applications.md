@@ -128,7 +128,7 @@ In making competitive awards under section 12581(d) of this title, the Corporati
 
 #### Prior Provisions
 
-A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is classified to section 12655<i>l</i> of this title.
+A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is classified to section 12655l of this title.
 
 #### Amendments
 

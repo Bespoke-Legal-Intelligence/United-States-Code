@@ -36,19 +36,247 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1966 Amendment
 
-Section 3 of Pub. L. 89–614 provided that: “The amendments made by this Act \[see Short Title of 1966 Amendment note below\] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
+Pub. L. 89–614, §3, Sept. 30, 1966, 80 Stat. 866, provided that: “The amendments made by this Act \[see Short Title of 1966 Amendment note below\] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XVI, §1601, Jan. 28, 2008, 122 Stat. 431, provided that: “This title \[enacting sections 1074<i>l</i>, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and section 6333 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074<i>l</i>, 1212, and 1554a of this title, and section 6333 of Title 5\] may be cited as the ‘Wounded Warrior Act’.”
+Pub. L. 110–181, div. A, title XVI, §1601, Jan. 28, 2008, 122 Stat. 431, provided that: “This title \[enacting sections 1074l, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and section 6333 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074l, 1212, and 1554a of this title, and section 6333 of Title 5\] may be cited as the ‘Wounded Warrior Act’.”
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provided that: “This title \[enacting sections 1103, 2128 to 2130 \[now 16201 to 16203\], and 6392 of thistitle, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 \[now 16302\], 3353, 3855, 5600, 8353, and 8855 of this title, section 302 of Title 37, Pay and Allowances of the Uniformed Services, and section 460 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title\] may be cited as the ‘Military Health Care Amendments of 1987’.”
+Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provided that: “This title \[enacting sections 1103, 2128 to 2130 \[now 16201 to 16203\], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 \[now 16302\], 3353, 3855, 5600, 8353, and 8855 of this title, section 302 of Title 37, Pay and Allowances of the Uniformed Services, and section 460 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title\] may be cited as the ‘Military Health Care Amendments of 1987’.”
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+Pub. L. 89–614, §1, Sept. 30, 1966, 80 Stat. 862, provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+#### Enhancement of Oversight and Management of Department of Defense Suicide Prevention and Resilience Programs
+
+Pub. L. 112–239, div. A, title V, §580, Jan. 2, 2013, 126 Stat. 1764, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, establish within the Office of the Secretary of Defense a position with responsibility for oversight of all suicide prevention and resilience programs of the Department of Defense (including those of the military departments and the Armed Forces).
+
+“(b)
+
+Scope of Responsibilities.—The individual serving in the position established under subsection (a) shall have the responsibilities as follows:
+
+&emsp;“(1) To establish a uniform definition of resiliency for use in the suicide prevention and resilience programs and preventative behavioral health programs of the Department of Defense (including those of the military departments and the Armed Forces).
+
+&emsp;“(2) To oversee the implementation of the comprehensive policy on the prevention of suicide among members of the Armed Forces required by section 582.”
+
+#### Comprehensive Policy on Prevention of Suicide Among Members of the Armed Forces
+
+Pub. L. 112–239, div. A, title V, §582, Jan. 2, 2013, 126 Stat. 1766, provided that:
+
+“(a)
+
+Comprehensive Policy Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
+
+“(b)
+
+Elements.—The policy required by subsection (a) shall cover each of the following:
+
+&emsp;“(1) Increased awareness among members of the Armed Forces about mental health conditions andthe stigma associated with mental health conditions and mental health care.
+
+&emsp;“(2) The means of identifying members who are at risk for suicide (including enhanced means for early identification and treatment of such members).
+
+&emsp;“(3) The continuous access by members to suicide prevention services, including suicide crisis services.
+
+&emsp;“(4) The means to evaluate and assess the effectiveness of the suicide prevention and resilience programs and preventative behavioral health programs of the Department of Defense (including those of the military departments and the Armed Forces), including the development of metrics for that purpose.
+
+&emsp;“(5) The means to evaluate and assess the current diagnostic tools and treatment methods in the programs referred to in paragraph (4) to ensure clinical best practices are used in such programs.
+
+&emsp;“(6) The standard of care for suicide prevention to be used throughout the Department.
+
+&emsp;“(7) The training of mental health care providers on suicide prevention.
+
+&emsp;“(8) The training standards for behavioral health care providers to ensure that such providers receive training on clinical best practices and evidence-based treatments as information on such practices and treatments becomes available.
+
+&emsp;“(9) The integration of mental health screenings and suicide risk and prevention for members into the delivery of primary care for such members.
+
+&emsp;“(10) The standards for responding to attempted or completed suicides among members, including guidance and training to assist commanders in addressing incidents of attempted or completed suicide within their units.
+
+&emsp;“(11) The means to ensure the protection of the privacy of members seeking or receiving treatment relating to suicide.
+
+&emsp;“(12) Such other matters as the Secretary considers appropriate in connection with the prevention of suicide among members.”
+
+#### Research and Medical Practice on Mental Health Conditions
+
+Pub. L. 112–239, div. A, title VII, §725, Jan. 2, 2013, 126 Stat. 1806, provided that:
+
+“(a)
+
+Research and Practice.—The Secretary of Defense shall provide for the translation of research on the diagnosis and treatment of mental health conditions into policy on medical practices.
+
+“(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the translation of research into policy as described in subsection (a). The report shall include the following:
+
+&emsp;“(1) A summary of the efforts of the Department of Defense to carry out such translation.
+
+&emsp;“(2) A description of any policy established pursuant to subsection (a).
+
+&emsp;“(3) Additional legislative or administrative actions the Secretary considers appropriate with respect to such translation.”
+
+#### Plan for Reform of the Administration of the Military Health System
+
+Pub. L. 112–239, div. A, title VII, §731, Jan. 2, 2013, 126 Stat. 1815, provided that:
+
+“(a)
+
+Detailed Plan.—In implementing reforms to the governance of the military health system described in the memorandum of the Deputy Secretary of Defense dated March 2012, the Secretary of Defense shall develop a detailed plan to carry out such reform.
+
+“(b)
+
+Elements.—The plan developed under subsection (a) shall include the following:
+
+&emsp;“(1) Goals to achieve while carrying out the reform described in subsection (a), including goals with respect to improving clinical and business practices, cost reductions, infrastructure reductions, and personnel reductions, achieved by establishing the Defense Health Agency, carrying out shared services, and modifying the governance of the National Capital Region.
+
+&emsp;“(2) Metrics to evaluate the achievement of each goal under paragraph (1) with respect to the purpose, objective, and improvements made by each such goal.
+
+&emsp;“(3) The personnel levels required for the Defense Health Agency and the National Capital Region Medical Directorate.
+
+&emsp;“(4) A detailed schedule to carry out the reform described in subsection (a), including a schedule for meeting the goals under paragraph (1).
+
+&emsp;“(5) Detailed information describing the initial operating capability of the Defense Health Agency.
+
+&emsp;“(6) With respect to each shared service that the Secretary will implement during fiscal year 2013 or 2014—
+
+&emsp;&emsp;“(A) a timeline for such implementation; and
+
+&emsp;&emsp;“(B) a business case analysis detailing—
+
+&emsp;&emsp;&emsp;“(i) the services that will be consolidated into the shared service;
+
+&emsp;&emsp;&emsp;“(ii) the purpose of the shared service;
+
+&emsp;&emsp;&emsp;“(iii) the scope of the responsibilities and goals for the shared service;
+
+&emsp;&emsp;&emsp;“(iv) the cost of implementing the shared service, including the costs regarding personnel severance, relocation, military construction, information technology, and contractor support; and
+
+&emsp;&emsp;&emsp;“(v) the anticipated cost savings to be realized by implementing the shared service.
+
+“(c)
+
+Submission.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the plan developed under subsection (a) as follows:
+
+&emsp;“(1) The contents of the plan described in paragraphs (1) and (4) of subsection (b) shall be submitted not later than March 31, 2013.
+
+&emsp;“(2) The contents of the plan described in paragraphs (2) and (3) of subsection (b) and paragraph (6) of such subsection with respect to shared services implemented during fiscal year 2013 shall be submitted not later than June 30, 2013.
+
+&emsp;“(3) The contents of the plan described in paragraph (6) of such subsection with respect to shared services implemented during fiscal year 2014 shall be submitted not later than September 30, 2013.
+
+“(d)
+
+Limitations.—
+
+&emsp;“(1)
+
+First submission.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 50 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(1).
+
+&emsp;“(2)
+
+Second submission.—Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 75 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(2).
+
+&emsp;“(3)
+
+Comptroller general review.—The Comptroller General of the United States shall submit to the congressional defense committees a review of the contents of the plan submitted under each of paragraphs (1) and (2) to assess whether the Secretary of Defense meets the requirements of such contents.
+
+&emsp;“(4)
+
+Accounts and activities described.—The accounts and activities described in this paragraph are as follows:
+
+&emsp;&emsp;“(A) Operation and maintenance, Defense-wide, for the Office of the Secretary of Defense for travel.
+
+&emsp;&emsp;“(B) Operation and maintenance, Defense-wide, for the Office of the Secretary of Defense for management professional support services.
+
+&emsp;&emsp;“(C) Operation and maintenance, Defense Health Program, for travel.
+
+&emsp;&emsp;“(D) Operation and maintenance, Defense Health Program, for management professional support services.
+
+“(e)
+
+Shared Services Defined.—In this section, the term ‘shared services’ means the common services required for each military department to provide medical support to the Armed Forces and authorized beneficiaries.”
+
+#### Performance Metrics and Reports on Warriors in Transition Programs of the Military Departments
+
+Pub. L. 112–239, div. A, title VII, §738, Jan. 2, 2013, 126 Stat. 1820, provided that:
+
+“(a)
+
+Metrics Required.—The Secretary of Defense shall establish a policy containing uniform performance outcome measurements to be used by each Secretary of a military department in tracking and monitoring members of the Armed Forces in Warriors in Transition programs.
+
+“(b)
+
+Elements.—The policy established under subsection (a) shall identify outcome measurements with respect to the following:
+
+&emsp;“(1) Physical health and behavioral health.
+
+&emsp;“(2) Rehabilitation.
+
+&emsp;“(3) Educational and vocational preparation.
+
+&emsp;“(4) Such other matters as the Secretary considers appropriate.
+
+“(c)
+
+Milestones.—In establishing the policy under subsection (a), the Secretary of Defense shall establish metrics and milestones for members in Warriors in Transition programs. Such metrics and milestones shall cover members throughout the course of care and rehabilitation in Warriors in Transitions programs by applying to the following occasions:
+
+&emsp;“(1) When the member commences participation in the program.
+
+&emsp;“(2) At least once each year the member participates in the program.
+
+&emsp;“(3) When the member ceases participation in the program or is transferred to the jurisdiction of the Secretary of Veterans Affairs.
+
+“(d)
+
+Cohort Groups and Parameters.—The policy established under subsection (a)—
+
+&emsp;“(1) may differentiate among cohort groups within the population of members in Warriors in Transition programs, as appropriate; and
+
+&emsp;“(2) shall include parameters for specific outcome measurements in each element under subsection (b) and each metric and milestone under subsection (c).
+
+“(e)
+
+Reports Required.—
+
+&emsp;“(1)
+
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the policy established under subsection (a), including the outcome measurements for each element under subsection (b) and each metric and milestone under subsection (c).
+
+&emsp;“(2)
+
+Annual reports.—Not later than February of each year beginning in 2014 and ending in 2018, the Secretary of Defense shall submit to the congressional defense committees a report on the performance of the military departments with respect to the policy established under subsection (a). Each report shall include—
+
+&emsp;&emsp;“(A) an analysis of—
+
+&emsp;&emsp;&emsp;“(i) data on improvements in the progress of members in Warriors in Transition programs in each specific area identified in the policy;
+
+&emsp;&emsp;&emsp;“(ii) access to health and rehabilitation services by such members, including average appointment waiting times by specialty;
+
+&emsp;&emsp;&emsp;“(iii) effectiveness of the programs in assisting in the transition of such members to military duty or civilian life through education and vocational assistance;
+
+&emsp;&emsp;&emsp;“(iv) any differences in outcomes in Warriors in Transition programs, and the reason for any such differences; and
+
+&emsp;&emsp;&emsp;“(v) the quantities and effectiveness of medical and nonmedical case managers, legal support and physical evaluation board liaison officers, mental health care providers, and medical evaluation physicians in comparison to the actual number of members requiring such services; and
+
+&emsp;&emsp;“(B) such other results and analyses as the Secretary considers appropriate, including any recommendations for legislation if needed.
+
+“(f)
+
+Warriors in Transition Program Defined.—In this section, the term ‘Warriors in Transition program’ means any major support program of the Armed Forces for members of the Armed Forces with severe wounds, illnesses, or injuries that is intended to provide such members with nonmedical case management service and care coordination services, and includes the programs as follows:
+
+&emsp;“(1) Warrior Transition Units and the Wounded Warrior Program of the Army.
+
+&emsp;“(2) The Wounded Warrior Safe Harbor program of the Navy.
+
+&emsp;“(3) The Wounded Warrior Regiment of the Marine Corps.
+
+&emsp;“(4) The Recovery Care Program and the Wounded Warrior programs of the Air Force.
+
+&emsp;“(5) The Care Coalition of the United States Special Operations Command.”
 
 #### Department of Defense Suicide Prevention Program
 
@@ -170,7 +398,7 @@ Healthcare professionals.—Instructions on—
 
 &emsp;&emsp;&emsp;“(ii) appropriate staffing levels for healthcare professionals at military medical treatment facilities for the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces; and
 
-&emsp;&emsp;&emsp;“(iii) such uniform training and credentialing requirements for physician and nonphysician healthcare professionals in the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces as the Secretary considers appropriate.
+&emsp;&emsp;&emsp;“(iii) such uniform training and credentialing requirements for physician and nonphysician healthcare professionals in the prevention,screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces as the Secretary considers appropriate.
 
 &emsp;&emsp;“(C)
 
@@ -338,7 +566,7 @@ Report and Plan on the Required Number of Mental Health Personnel.—
 
 In general.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents. The report shall include, at a minimum, the following:
 
-&emsp;&emsp;“(A) An evaluation of the recommendation titled ‘Ensure an Adequate Supply of Uniformed Providers’ made by the Department of Defense Task Forceon Mental Health established by section 723 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3348).
+&emsp;&emsp;“(A) An evaluation of the recommendation titled ‘Ensure an Adequate Supply of Uniformed Providers’ made by the Department of Defense Task Force on Mental Health established by section 723 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3348).
 
 &emsp;&emsp;“(B) The criteria and models used to determine the appropriate number of mental health personnel.
 
@@ -602,7 +830,7 @@ Inclusion of Records of OIF/OEF Veterans.—The Secretary of Defense shall take 
 
 #### Wounded Warrior Health Care Improvements
 
-Pub. L. 110–181, div. A, title XVI, §§1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, \[div. A\], title II, §252, title VII, §§722, 724, title X, §1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, §632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, §231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), title VII, §707, Dec. 31, 2011, 125 Stat. 1465, 1474, provided that:
+Pub. L. 110–181, div. A, title XVI, §§1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, \[div. A\], title II, §252, title VII, §§722, 724, title X, §1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, §632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, §231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), title VII, §707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 #### “SEC. 1602. GENERAL DEFINITIONS.
 
@@ -812,7 +1040,7 @@ Training.—The policy shall specify standard training requirements and curricul
 
 &emsp;&emsp;“(E)
 
-Resources.—The policy shall include mechanisms to ensure that recovery care coordinators under the program have the resources necessary to expeditiously carry out the duties of such coordinators under the program.
+Resources.—The policy shall include mechanisms to ensure that recovery care coordinators under the program have the resources necessary toexpeditiously carry out the duties of such coordinators under the program.
 
 &emsp;&emsp;“(F)
 
@@ -968,7 +1196,7 @@ Advice and training for family members of recovering service members.—The poli
 
 &emsp;“(3)
 
-Measurement of satisfaction of family members of recovering service members with qualityof health care services.—The policy shall provide for uniform procedures among the military departments on the measurement of the satisfaction of family members of recovering service members with the quality of health care services provided to such service members during their recovery.
+Measurement of satisfaction of family members of recovering service members with quality of health care services.—The policy shall provide for uniform procedures among the military departments on the measurement of the satisfaction of family members of recovering service members with the quality of health care services provided to such service members during their recovery.
 
 &emsp;“(4)
 
@@ -1132,7 +1360,7 @@ Elements.—The processes, procedures, and standards required under this section
 
 &emsp;&emsp;“(C) A copy of the military service record of the service member, including medical records and any results of a physical evaluation board.
 
-&emsp;&emsp;“(D) Information on whether the service member is entitled to transitional health care, a conversion health policy, or other health benefits through theDepartment of Defense under section 1145 of title 10, United States Code.
+&emsp;&emsp;“(D) Information on whether the service member is entitled to transitional health care, a conversion health policy, or other health benefits through the Department of Defense under section 1145 of title 10, United States Code.
 
 &emsp;&emsp;“(E) A copy of any request of the service member for assistance in enrolling in, or completed applications for enrollment in, the health care system of the Department of Veterans Affairs for health care benefits for which the service member may be eligible under laws administered by the Secretary of Veterans Affairs.
 
@@ -1306,7 +1534,7 @@ Research.—Requirements for research on traumatic brain injury, post-traumatic 
 
 &emsp;“(5)
 
-Diagnostic criteria.—The development, adoption, and deployment of joint Department of Defense-Department of Veterans Affairs evidence-based diagnostic criteria for the detection and evaluation of the range of traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, which criteria shall be employed uniformly across the military departmentsin all applicable circumstances, including provision of clinical care and assessment of future deployability of members of the Armed Forces.
+Diagnostic criteria.—The development, adoption, and deployment of joint Department of Defense-Department of Veterans Affairs evidence-based diagnostic criteria for the detection and evaluation of the range of traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, which criteria shall be employed uniformly across the military departments in all applicable circumstances, including provision of clinical care and assessment of future deployability of members of the Armed Forces.
 
 &emsp;“(6)
 
@@ -1384,7 +1612,7 @@ Responsibilities.—The Center shall have responsibilities as follows:
 
 “(a)
 
-In General.—The Secretary of Defense shall establish within the Department of Defense a center ofexcellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of post-traumatic stress disorder (PTSD) and other mental health conditions, including mild, moderate, and severe post-traumatic stress disorder and other mental health conditions, to carry out the responsibilities specified in subsection (c).
+In General.—The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of post-traumatic stress disorder (PTSD) and other mental health conditions, including mild, moderate, and severe post-traumatic stress disorder and other mental health conditions, to carry out the responsibilities specified in subsection (c).
 
 “(b)
 
@@ -1412,7 +1640,7 @@ Responsibilities.—The center shall have responsibilities as follows:
 
 &emsp;“(9) To conduct research on the mental health needs of families of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions and develop protocols to address any needs identified through such research.
 
-&emsp;“(10) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in order to facilitate the meeting by the Department of the needs of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions until their transition to care and treatment from the Department of Veterans Affairs.
+&emsp;“(10) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in order to facilitate the meeting by the Department of theneeds of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions until their transition to care and treatment from the Department of Veterans Affairs.
 
 #### “SEC. 1623. CENTER OF EXCELLENCE IN PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF MILITARY EYE INJURIES.
 
@@ -1498,7 +1726,7 @@ Rehabilitation and Vocational Benefits.—
 
 &emsp;“(1)
 
-In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\], a member of the Armed Forces with a severe injury or illness is entitled to such benefits (including rehabilitation and vocational benefits, but not including compensation) from the Secretary of Veterans Affairs to facilitate the recovery and rehabilitation of such member as the Secretary otherwise provides to veterans of the Armed Forces receiving medical care in medical facilities of the Department of Veterans Affairs facilities in order to facilitate the recovery and rehabilitation of such members.
+In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\], a member of the Armed Forces with a severe injury or illness is entitled to such benefits (including rehabilitation and vocational benefits, but not including compensation)from the Secretary of Veterans Affairs to facilitate the recovery and rehabilitation of such member as the Secretary otherwise provides to veterans of the Armed Forces receiving medical care in medical facilities of the Department of Veterans Affairs facilities in order to facilitate the recovery and rehabilitation of such members.
 
 &emsp;“(2)
 
@@ -1558,7 +1786,7 @@ Deputy director.—The Deputy Director of the Office shall be the deputy head of
 
 Appointments.—(A) The Director shall be appointed by the Secretary of Defense, with the concurrence of the Secretary of Veterans Affairs, from among persons who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
 
-&emsp;“(B) The Deputy Director shall be appointed by the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, from among employees of the Department of Defense and the Department of Veterans Affairs in the Senior Executive Service who are qualified to direct the development, acquisition,and integration of major information technology capabilities.
+&emsp;“(B) The Deputy Director shall be appointed by the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, from among employees of the Department of Defense and the Department of Veterans Affairs in the Senior Executive Service who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
 
 &emsp;“(4)
 
@@ -1644,7 +1872,7 @@ Pilot Programs.—
 
 &emsp;“(1)
 
-Programs authorized.—For the purposes set forth in subsection (c), the Secretary of Defense may establish and conduct pilot programs with respect to the system of the Department of Defense for the evaluation of the disabilities of members of the Armed Forces who are being separated or retired from the Armed Forces for disability under chapter 61 of title10, United States Code (in this section referred to as the ‘disability evaluation system’).
+Programs authorized.—For the purposes set forth in subsection (c), the Secretary of Defense may establish and conduct pilot programs with respect to the system of the Department of Defense for the evaluation of the disabilities of members of the Armed Forces who are being separated or retired from the Armed Forces for disability under chapter 61 of title 10, United States Code (in this section referred to as the ‘disability evaluation system’).
 
 &emsp;“(2)
 
@@ -1684,7 +1912,7 @@ Electronic clearing house.—Under one of the pilot programs authorized by subse
 
 &emsp;&emsp;“(A) The availability of any forms required for the utilization of the disability evaluation system by members of the Armed Forces under the system.
 
-&emsp;&emsp;“(B) Secure mechanisms for the submission of such forms by members of the Armed Forces under the system, and for the tracking of the acceptance and review of any forms so submitted.
+&emsp;&emsp;“(B) Secure mechanisms for the submission of such forms by members of the Armed Forces underthe system, and for the tracking of the acceptance and review of any forms so submitted.
 
 &emsp;&emsp;“(C) Secure mechanisms for advising members of the Armed Forces under the system of any additional information, forms, or other items that are required for the acceptance and review of any forms so submitted.
 
@@ -1728,7 +1956,7 @@ Construction With Other Authorities.—
 
 In general.—Subject to paragraph (2), in carrying out a pilot program under subsection (a)—
 
-&emsp;&emsp;“(A) the rules and regulations of the Department of Defense and the Department of Veterans Affairs relating to methods of determining fitness or unfitness for duty and disability ratings for members of the Armed Forces shall apply to the pilot programonly to the extent provided in the report on the pilot program under subsection (g)(1); and
+&emsp;&emsp;“(A) the rules and regulations of the Department of Defense and the Department of Veterans Affairs relating to methods of determining fitness or unfitness for duty and disability ratings for members of the Armed Forces shall apply to the pilot program only to the extent provided in the report on the pilot program under subsection (g)(1); and
 
 &emsp;&emsp;“(B) the Secretary of Defense and the Secretary of Veterans Affairs may waive any provision of title 10, 37, or 38, United States Code, relating to methods of determining fitness or unfitness for duty and disability ratings for members of the Armed Forces if the Secretaries determine in writing that the application of such provision would be inconsistent with the purpose of the pilot program.
 
@@ -1786,7 +2014,7 @@ Covered Military Facilities.—The military facilities covered by this section a
 
 Scope of Standards.—The standards required by subsection (a) shall include the following:
 
-&emsp;“(1) Generally accepted standards for the accreditation of medical facilities, or for facilities used to quarter individuals that may require medical supervision, as applicable, in the United States.
+&emsp;“(1) Generally accepted standards for the accreditation of medical facilities, or for facilities used toquarter individuals that may require medical supervision, as applicable, in the United States.
 
 &emsp;“(2) To the extent not inconsistent with the standards described in paragraph (1), minimally acceptable conditions for the following:
 
@@ -1962,8 +2190,6 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;“(2) an assessment of whether any method of business reform or reengineering other than a public-private competition could, if implemented in the future, achieve any anticipated or budgeted savings.”
 
-\[Amendment by section 631(f)(4)(B) of Pub. L. 112–81 to section 1602(4) of Pub. L. 110–181, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
-
 #### Disease and Chronic Care Management
 
 Pub. L. 109–364, div. A, title VII, §734, Oct. 17, 2006, 120 Stat. 2299, provided that:
@@ -2004,7 +2230,7 @@ Elements of Program Design.—The program design required by subsection (a) shal
 
 &emsp;“(3) The program shall include specific outcome measures and objectives on disease and chronic care management.
 
-&emsp;“(4) The program shall include strategies for disease and chronic care management for all beneficiaries, including beneficiaries eligible for benefits under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), for whom the TRICARE program is not the primary payer for health care benefits.
+&emsp;“(4) The program shall include strategies for disease and chronic care management for all beneficiaries, including beneficiaries eligible for benefitsunder the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), for whom the TRICARE program is not the primary payer for health care benefits.
 
 &emsp;“(5) Activities under the program shall conform to applicable laws and regulations relating to the confidentiality of health care information.
 
@@ -2048,7 +2274,7 @@ Report elements.—The report required by paragraph (1) shall include the follow
 
 #### Prevention, Mitigation, and Treatment of Blast Injuries
 
-Pub. L. 109–163, div. A, title II, §256, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, Jan. 6, 2006, 119 Stat. 3181, provided that:
+Pub. L. 109–163, div. A, title II, §256, Jan. 6, 2006, 119 Stat. 3181, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(C), Jan. 2, 2013, 126 Stat. 1950, provided that:
 
 “(a)
 
@@ -2240,7 +2466,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §743\], Oct. 30, 2000, 114 Stat
 
 #### Patient Care Reporting and Management System
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §754\], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, as amended by Pub. L.109–163, div. A, title VII, §741, Jan. 6, 2006, 119 Stat. 3360, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §754\], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, as amended by Pub. L. 109–163, div. A, title VII, §741, Jan. 6, 2006, 119 Stat. 3360, provided that:
 
 “(a)
 
@@ -2481,4 +2707,82 @@ Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as am
 #### Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces
 
 Pub. L. 92–129, title V, §501, Sept. 28, 1971, 85 Stat. 361, which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by Pub. L. 97–295, §§1(14)(A), (15)(A), 6(b), Oct. 12, 1982, 96 Stat. 1289, 1290, 1314.
+
+#### Ex. Ord. No. 13625. Improving Access to Mental Health Services for Veterans, Service Members, and Military Families
+
+Ex. Ord. No. 13625, Aug. 31, 2012, 77 F.R. 54783, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+
+Section 1. <i>Policy</i>. Since September 11, 2001, more than two million service members have deployed to Iraq or Afghanistan. Long deployments and intense combat conditions require optimal support for the emotionaland mental health needs of our service members and their families. The need for mental health services will only increase in the coming years as the Nation deals with the effects of more than a decade of conflict. Reiterating and expanding upon the commitment outlined in my Administration's 2011 report, entitled “Strengthening Our Military Families,” we have an obligation to evaluate our progress and continue to build an integrated network of support capable of providing effective mental health services for veterans, service members, and their families. Our public health approach must encompass the practices of disease prevention and the promotion of good health for all military populations throughout their lifespans, both within the health care systems of the Departments of Defense and Veterans Affairs and in local communities. Our efforts also must focus on both outreach to veterans and their families and the provision of high quality mental health treatment to those in need. Coordination between the Departments of Veterans Affairs and Defense during service members’ transition to civilian life is essential to achieving these goals.
+
+Ensuring that all veterans, service members (Active, Guard, and Reserve alike), and their families receive the support they deserve is a top priority for my Administration. As part of our ongoing efforts to improve all facets of military mental health, this order directs the Secretaries of Defense, Health and Human Services, Education, Veterans Affairs, and Homeland Security to expand suicide prevention strategies and take steps to meet the current and future demand for mental health and substance abuse treatment services for veterans, service members, and their families.
+
+Sec. 2. <i>Suicide Prevention</i>. (a) By December 31, 2012, the Department of Veterans Affairs, in continued collaboration with the Department of Health and Human Services, shall expand the capacity of the Veterans Crisis Line by 50 percent to ensure that veterans have timely access, including by telephone, text, or online chat, to qualified, caring responders who can help address immediate crises and direct veterans to appropriate care. Further, the Department of Veterans Affairs shall ensure that any veteran identifying him or herself as being in crisis connects with a mental health professional or trained mental health worker within 24 hours. The Department of Veterans Affairs also shall expand the number of mental health professionals who are available to see veterans beyond traditional business hours.
+
+(b) The Departments of Veterans Affairs and Defense shall jointly develop and implement a national suicide prevention campaign focused on connecting veterans and service members to mental health services. This 12-month campaign, which shall begin on September 1, 2012, will focus on the positive benefits of seeking care and encourage veterans and service members to proactively reach out to support services.
+
+(c) To provide the best mental health and substance abuse prevention, education, and outreach support to our military and their family members, the Department of Defense shall review all of its existing mental health and substance abuse prevention, education, and outreach programs across the military services and the Defense Health Program to identify the key program areas that produce the greatest impact on quality and outcomes, and rank programs within each of these program areas using metrics that assess their effectiveness. By the end of Fiscal Year 2014, existing program resources shall be realigned to ensure that highly ranked programs are implemented across all of the military services and less effective programs are replaced.
+
+Sec. 3. <i>Enhanced Partnerships Between the Department of Veterans Affairs and Community Providers</i>. (a) Within 180 days of the date of this order, in those service areas where the Department of Veterans Affairs has faced challenges in hiring and placing mental health service providers and continues to have unfilled vacancies or long wait times, the Departments of Veterans Affairs and Health and Human Services shall establish pilot projects whereby the Department of Veterans Affairs contracts or develops formal arrangements with community-based providers, such as community mental health clinics, community health centers, substance abuse treatment facilities, and rural health clinics, to test the effectiveness of community partnerships in helping to meet the mental health needs of veterans in a timely way. Pilot sites shall ensure that consumers of community-based services continue to be integrated into the health care systems of the Department of Veterans Affairs. No fewer than 15 pilot projects shall be established.
+
+(b) The Department of Veterans Affairs shall develop guidance for its medical centers and service networks that supports the use of community mental health services, including telehealth services and substance abuse services, where appropriate, to meet demand and facilitate access to care. This guidance shall include recommendations that medical centers and service networks use community-based providers to help meet veterans’ mental health needs where objective criteria, which the Department of Veterans Affairs shall define in the form of specific metrics, demonstrate such needs. Such objective criteria should include estimates of wait-times for needed care that exceed established targets.
+
+(c) The Departments of Health and Human Services and Veterans Affairs shall develop a plan for a rural mental health recruitment initiative to promote opportunities for the Department of Veterans Affairs and rural communities to share mental health providers when demand is insufficient for either the Department of Veterans Affairs or the communities to independently support a full-time provider.
+
+Sec. 4. <i>Expanded Department of Veterans Affairs Mental Health Services Staffing</i>. The Secretary of Veterans Affairs shall, by December 31, 2013, hire and train 800 peer-to-peer counselors to empower veterans to support other veterans and help meet mental health care needs. In addition, the Secretary shall continue to use all appropriate tools, including collaborative arrangements with community-based providers, pay-setting authorities, loan repayment and scholarships, and partnerships with health care workforce training programs to accomplish the Department of Veterans Affairs’ goal of recruiting, hiring, and placing 1,600 mental health professionals by June 30, 2013. The Department of Veterans Affairs also shall evaluate the reporting requirements associated with providing mental health services and reduce paperwork requirements where appropriate. In addition, the Department of Veterans Affairs shall update its management performance evaluation system to link performance to meeting mental health service demand.
+
+Sec. 5. <i>Improved Research and Development</i>. (a) The lack of full understanding of the underlying mechanisms of Post-Traumatic Stress Disorder (PTSD), other mental health conditions, and Traumatic Brain Injury (TBI) has hampered progress in prevention, diagnosis, and treatment. In order to improve the coordination of agency research into these conditions and reduce the number of affected men and women through better prevention, diagnosis, and treatment, the Departments of Defense, Veterans Affairs, Health and Human Services, and Education, in coordination with the Office of Science and Technology Policy, shall establish a National Research Action Plan within 8 months of the date of this order.
+
+(b) The National Research Action Plan shall include strategies to establish surrogate and clinically actionable biomarkers for early diagnosis and treatment effectiveness; develop improved diagnostic criteria for TBI; enhance our understanding of the mechanisms responsible for PTSD, related injuries, and neurological disorders following TBI; foster development of new treatments for these conditions based on a better understanding of the underlying mechanisms; improve data sharing between agencies and academic and industry researchers to accelerate progress and reduce redundant efforts without compromising privacy; andmake better use of electronic health records to gain insight into the risk and mitigation of PTSD, TBI, and related injuries. In addition, the National Research Action Plan shall include strategies to support collaborative research to address suicide prevention.
+
+(c) The Departments of Defense and Health and Human Services shall engage in a comprehensive longitudinal mental health study with an emphasis on PTSD, TBI, and related injuries to develop better prevention, diagnosis, and treatment options. Agencies shall continue ongoing collaborative research efforts, with an aim to enroll at least 100,000 service members by December 31, 2012, and include a plan for long-term follow-up with enrollees through a coordinated effort with the Department of Veterans Affairs.
+
+Sec. 6. <i>Military and Veterans Mental Health Interagency Task Force</i>. There is established an Interagency Task Force on Military and Veterans Mental Health (Task Force), to be co-chaired by the Secretaries of Defense, Veterans Affairs, and Health and Human Services, or their designated representatives.
+
+(a) <i>Membership</i>. In addition to the Co-Chairs, the Task Force shall consist of representatives from:
+
+(i) the Department of Education;
+
+(ii) the Office of Management and Budget;
+
+(iii) the Domestic Policy Council;
+
+(iv) the National Security Staff;
+
+(v) the Office of Science and Technology Policy;
+
+(vi) the Office of National Drug Control Policy; and
+
+(vii) such other executive departments, agencies, or offices as the Co-Chairs may designate.
+
+> A member agency of the Task Force shall designate a full-time officer or employee of the Federal Government to perform the Task Force functions.
+
+(b) <i>Mission</i>. Member agencies shall review relevant statutes, policies, and agency training and guidance to identify reforms and take actions that facilitate implementation of the strategies outlined in this order. Member agencies shall work collaboratively on these strategies and also create an inventory of mental health and substance abuse programs and activities to inform this work.
+
+(c) <i>Functions</i>.
+
+(i) Not later than 180 days after the date of this order, the Task Force shall submit recommendations to the President on strategies to improve mental health and substance abuse treatment services for veterans, service members, and their families. Every year thereafter, the Task Force shall provide to the President a review of agency actions to enhance mental health and substance abuse treatment services for veterans, service members, and their families consistent with this order, as well as provide additional recommendations for action as appropriate. The Task Force shall define specific goals and metrics that will aid in measuring progress in improving mental health strategies. The Task Force will include cost analysis in the development of all recommendations, and will ensure any new requirements are supported within existing resources.
+
+(ii) In addition to coordinating and reviewing agency efforts to enhance veteran and military mental health services pursuant to this order, the Task Force shall evaluate:
+
+&emsp;(1) agency efforts to improve care quality and ensure that the Departments of Defense and Veterans Affairs and community-based mental health providers are trained in the most current evidence-based methodologies for treating PTSD, TBI, depression, related mental health conditions, and substance abuse;
+
+&emsp;(2) agency efforts to improve awareness and reduce stigma for those needing to seek care; and
+
+&emsp;(3) agency research efforts to improve the prevention, diagnosis, and treatment of TBI, PTSD, and related injuries, and explore the need for an external research portfolio review.
+
+(iii) In performing its functions, the Task Force shall consult with relevant nongovernmental experts and organizations as necessary.
+
+Sec. 7. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 #### Effective Date of 1980 Amendment
 
-Section 2(c) of Pub. L. 96–601 provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
+Pub. L. 96–601, §2(c), Dec. 24, 1980, 94 Stat. 3496, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -106,5 +106,5 @@ Amendment by section 1905(c)(4) of Pub. L. 94–455 effective on first day of fi
 
 #### Effective Date of 1967 Amendment
 
-Section 1(b) of Pub. L. 90–73 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\].”
+Pub. L. 90–73, §1(b), Aug. 29, 1967, 81 Stat. 175, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\].”
 

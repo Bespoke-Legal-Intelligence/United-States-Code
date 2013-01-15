@@ -74,7 +74,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (B) Such understanding shall also establish the conditions under which the Commission may have access to the test and evaluation facility for the purpose of assessing any public health and safety concerns that it may have. No shafts may be excavated for the test and evaluation until the Secretary and the Commission enter into such understanding.
 
-(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, anddemonstration facilities, and shall not be subject to licensing under section 5842 of this title.
+(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
 (3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 
@@ -88,7 +88,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 (1) If the test and evaluation facility is not located at the site of a repository, the Secretary shall obtain the concurrence of the Commission with respect to the decontamination and decommissioning of such facility.
 
-(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
+(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretaryto be useful in carrying out the purposes of this chapter.
 
 (3) The operation of the test and evaluation facility shall terminate not later than—
 

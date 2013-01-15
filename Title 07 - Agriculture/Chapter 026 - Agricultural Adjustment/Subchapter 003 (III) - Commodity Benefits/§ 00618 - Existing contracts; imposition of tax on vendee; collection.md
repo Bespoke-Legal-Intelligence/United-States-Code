@@ -6,6 +6,10 @@
 
 (May 12, 1933, ch. 25, title I, §18, 48 Stat. 41.)
 
+#### Constitutionality
+
+Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
+
 #### Separability
 
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional, see section 614 of this title.
@@ -13,8 +17,4 @@ Validity of remainder of this chapter as not affected should any of the provisio
 #### Transfer of Functions
 
 Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
-
-#### Constitutionality
-
-Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
 

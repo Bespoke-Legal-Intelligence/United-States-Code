@@ -154,11 +154,11 @@ Section effective, except as otherwise provided, as if included in the provision
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Taxpayer in Bankruptcy Reorganization
 
-Section 1807(a)(7)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(f)(3), Nov. 10, 1988, 102 Stat. 3582, provided that: “In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
+Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, as amended by Pub. L. 100–647, title I, §1018(f)(3), Nov. 10, 1988, 102 Stat. 3582, provided that: “In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
 
 &emsp;“(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
 
@@ -168,5 +168,5 @@ Section 1807(a)(7)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, titl
 
 #### Clarification of Law With Respect to Certain Funds
 
-Section 1807(a)(7)(D) of Pub. L. 99–514 provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similarfund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
+Pub. L. 99–514, title XVIII, §1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
 

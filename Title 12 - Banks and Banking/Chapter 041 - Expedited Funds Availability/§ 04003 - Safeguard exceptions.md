@@ -14,7 +14,7 @@ Notwithstanding section 4002 of this title, in the case of any account establish
 
 &emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller's check, depository check, or traveler's check; and
 
-&emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph (A), (B), or (C) of section 4002(a)(2) of this title,
+&emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph\(A), (B), or (C) of section 4002(a)(2) of this title,
 
 > &emsp;such cash or funds shall be available for withdrawal on the business day after the business day on which such cash or funds are deposited or, in the case of a wire transfer, on the business day after the business day on which such funds are received for deposit.
 
@@ -52,7 +52,7 @@ The Board, jointly with the Director of the Bureau of Consumer Financial Protect
 
 #### (3) Overdraft fees
 
-&emsp;If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess anyfee for any subsequent overdraft with respect to such account, if—
+&emsp;If the receiving depository institution determines that a check deposited in an account is a check described in paragraph (1), the receiving depository institution shall not assess any fee for any subsequent overdraft with respect to such account, if—
 
 &emsp;&emsp;(A) the depositor was not provided with the written notice required under subsection (f) of this section (with respect to such determination) at the time the deposit was made;
 

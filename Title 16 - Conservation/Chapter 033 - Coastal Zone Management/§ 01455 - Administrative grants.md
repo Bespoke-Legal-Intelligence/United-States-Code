@@ -38,7 +38,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(G) A definition of the term “beach” and a planning process for the protection of, and access to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
 
-&emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including aprocess for anticipating the management of the impacts resulting from such facilities.
+&emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including a process for anticipating the management of the impacts resulting from such facilities.
 
 &emsp;&emsp;(I) A planning process for assessing the effects of, and studying and evaluating ways to control, or lessen the impact of, shoreline erosion, and to restore areas adversely affected by such erosion.
 
@@ -150,11 +150,11 @@ Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–464 provided that: “The amendments made by subsection (a)(1) and (2) of this section \[amending this section\] apply with respect to grants made after September 30, 1980, under section 306 of the Coastal Zone Management Act of 1972 \[this section\] and, within two hundred and seventy days after such date, the Secretary of Commerce shall issue regulations relating to the administration of subsection (a) of such section 306 (as so amended by such subsection (a)(1).”
+Pub. L. 96–464, §5(b), Oct. 17, 1980, 94 Stat. 2062, provided that: “The amendments made by subsection (a)(1) and (2) of this section \[amending this section\] apply with respect to grants made after September 30, 1980, under section 306 of the Coastal Zone Management Act of 1972 \[this section\] and, within two hundred and seventy days after such date, the Secretary of Commerce shall issue regulations relating to the administration of subsection (a) of such section 306 (as so amended by such subsection (a)(1).”
 
 #### Additional Program Requirements
 
-Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
+Pub. L. 101–508, title VI, §6206(b), Nov. 5, 1990, 104 Stat. 1388–306, provided that: “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
 
 &emsp;“(1) that the program complies with section 306(d)(14) and (15) of that Act, by not later than 3 years after the date of the enactment of this Act; and
 

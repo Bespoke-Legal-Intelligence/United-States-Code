@@ -74,7 +74,7 @@ Appropriate Congressional Committees Defined.—For the purposes of this section
 
 “(e)
 
-Classified United States Ballistic Missile Defense Information Defined.—For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information related to United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act \[Dec. 31, 2011\].”
+Classified United States Ballistic Missile Defense Information Defined.—For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information relatedto United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act \[Dec. 31, 2011\].”
 
 #### Utilization of Contributions to the Cooperative Threat Reduction Program
 
@@ -200,7 +200,7 @@ Report Requirement.—Not later than March 15 of 2003 through 2009, the Presiden
 
 Definition.—In this section, the term ‘country of proliferation concern’ means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
 
-&emsp;“(1) in the most recent report under section 721 of the Combatting Proliferation of Weapons of Mass Destruction Act of 1996 (title VII of Public Law 104–293; 50 U.S.C. 2366); or
+&emsp;“(1) in the most recent report under section 721 of the Combatting Proliferation of Weapons of Mass Destruction Act of 1996 (title VII of Public Law 104–293; former 50 U.S.C. 2366); or
 
 &emsp;“(2) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.”
 
@@ -262,7 +262,7 @@ Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law o
 
 “(c)
 
-Availability of Transferred Funds.—(1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in subsection (b)(2), the Cooperative Threat Reduction funds transferred under subsection (b) for the program referred to in subsection (a) shall be available for activities as follows:
+Availability of Transferred Funds.—(1) Notwithstanding any restriction or limitation in law onthe availability of Cooperative Threat Reduction funds specified in subsection (b)(2), the Cooperative Threat Reduction funds transferred under subsection (b) for the program referred to in subsection (a) shall be available for activities as follows:
 
 &emsp;“(A) To design and construct, refurbish, or both, fossil fuel energy plants in Russia that provide alternative sources of energy to the energy plants in Russia that produce weapons grade plutonium.
 
@@ -418,7 +418,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(10) Most of the Russian Federation's official bilateral debt is held by United States allies that are advanced industrial democracies. Since the issues described pose threats to United States allies as well, United States leadership that results in a larger contribution from United States allies to cooperative threat reduction activities will be needed.
 
-&emsp;“(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnershipagainst the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation's official debt to that country.
+&emsp;“(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation's official debt to that country.
 
 &emsp;“(12) The Russian Federation's Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] (7 U.S.C. 1701 et seq.).
 
@@ -804,7 +804,7 @@ Pub. L. 104–106, div. A, title XII, §1209, Feb. 10, 1996, 110 Stat. 472.
 
 #### Requirement To Submit Summary of Amounts Requested by Project Category
 
-Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A,title XIII, §1304, Oct. 28, 2004, 118 Stat. 2094, provided that:
+Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A, title XIII, §1304, Oct. 28, 2004, 118 Stat. 2094, provided that:
 
 “(a)
 
@@ -836,7 +836,7 @@ Pub. L. 103–337, div. A, title XII, §1205(a)–(c), Oct. 5, 1994, 108 Stat. 2
 
 #### Condition on Assistance to Russia for Construction of Plutonium Storage Facility
 
-Section 1612 of Pub. L. 103–160 provided:
+Pub. L. 103–160, div. A, title XVI, §1612, Nov. 30, 1993, 107 Stat. 1850, provided:
 
 “(a)
 
@@ -970,7 +970,7 @@ Fiscal Year 2002
 
 Cooperative Threat Reduction Funds Defined.—As used in this title \[amending section 5959 of this title and enacting and amending provisions set out as notes under this section\], the term ‘fiscal year 2002 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 
-#### Definiton of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
+#### Definition of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
 
 Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 792, provided that:
 
@@ -986,7 +986,7 @@ Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting p
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
 
-Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
+Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act forFiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 103–337
 

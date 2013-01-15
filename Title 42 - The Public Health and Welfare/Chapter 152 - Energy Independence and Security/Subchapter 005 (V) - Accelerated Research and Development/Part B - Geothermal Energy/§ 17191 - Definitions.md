@@ -4,7 +4,7 @@ For purposes of this part:
 
 #### (1) Engineered
 
-&emsp;When referring to enhanced geothermal systems, the term “engineered” means subjected to intervention, including intervention to address one or more of the following issues:
+&emsp;When referring to enhanced geothermal systems, the term “engineered” means subjectedto intervention, including intervention to address one or more of the following issues:
 
 &emsp;&emsp;(A) Lack of effective permeability or porosity or open fracture connectivity within the reservoir.
 

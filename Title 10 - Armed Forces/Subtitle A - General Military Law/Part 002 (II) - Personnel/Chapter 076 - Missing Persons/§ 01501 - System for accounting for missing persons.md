@@ -48,7 +48,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 &emsp;(B) whose status is undetermined or who is unaccounted for.
 
-(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
+(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employeeof the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
 
 &emsp;(A) who serves in direct support of, or accompanies, the armed forces in the field under orders and becomes involuntarily absent as a result of a hostile action or under circumstances suggesting that the involuntary absence is a result of a hostile action; and
 
@@ -158,5 +158,5 @@ Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The
 
 #### Congressional Statement of Purpose
 
-Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
+Pub. L. 104–106, div. A, title V, §569(a), Feb. 10, 1996, 110 Stat. 336, provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 

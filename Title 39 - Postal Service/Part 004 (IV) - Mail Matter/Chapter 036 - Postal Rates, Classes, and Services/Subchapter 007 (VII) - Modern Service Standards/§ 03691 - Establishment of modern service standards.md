@@ -144,7 +144,7 @@ Contents.—Each report under this paragraph shall include—
 
 &emsp;“(5)
 
-Existing efforts.—Effective on the date of enactment of this Act \[Dec. 20, 2006\], the Postal Servicemay not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D).
+Existing efforts.—Effective on the date of enactment of this Act \[Dec. 20, 2006\], the Postal Service may not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D).
 
 “(d)
 

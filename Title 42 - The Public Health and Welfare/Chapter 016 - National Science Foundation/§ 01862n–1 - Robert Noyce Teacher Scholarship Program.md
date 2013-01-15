@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) administering scholarships in accordance with subsection (c);
 
-&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed toprepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
+&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed to prepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
 
 &emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students’ fields; and
 
@@ -134,7 +134,7 @@
 
 #### (3) Amount and duration
 
-&emsp;Stipends under this section shall be not less than $10,000 per year, except that no individual shall receive for any year more than the cost of attendance at such individual's institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
+&emsp;Stipends under this section shall be not less than $10,000 per year, except that no individualshall receive for any year more than the cost of attendance at such individual's institution. Individuals may receive a maximum of 1 year of stipend support, except that if an individual is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
 
 #### (4) Service obligation
 
@@ -212,17 +212,17 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (3) Exceptions
 
-&emsp;The Director may provide for the partial or total waiver or suspension of any service or payment obligation by an individual under this section whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.
+&emsp;The Director may provide for the partial or total waiver or suspension of any service orpayment obligation by an individual under this section whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.
 
 #### (h) Data collection
 
-An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarshipand stipend recipients the Director may request, including information on employment required under this section.
+An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
 
 #### (i) Definitions
 
 In this section—
 
-&emsp;(1) the term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>);
+&emsp;(1) the term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
 
 &emsp;(2) the term “eligible entity” means—
 
@@ -256,7 +256,7 @@ Not later than 4 years after August 9, 2007, the Director shall transmit to the 
 
 &emsp;(3) remain in the teaching profession in a high need local educational agency beyond the individuals’ service obligation.
 
-#### (<i>l</i>) Evaluation
+#### (l) Evaluation
 
 Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
@@ -274,7 +274,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (<i>l</i>), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
+<b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (l), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
 
 #### Change of Name
 

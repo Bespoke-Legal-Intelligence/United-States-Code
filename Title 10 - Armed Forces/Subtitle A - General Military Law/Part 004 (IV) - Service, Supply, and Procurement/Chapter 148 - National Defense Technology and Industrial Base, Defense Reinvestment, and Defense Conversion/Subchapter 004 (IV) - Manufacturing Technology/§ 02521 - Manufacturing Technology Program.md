@@ -10,7 +10,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 &emsp;(1) to provide centralized guidance and direction (including goals, milestones, and priorities) to the military departments and the Defense Agencies on all matters relating to manufacturing technology;
 
-&emsp;(2) to direct the development and implementation of Department of Defense plans, programs, projects, activities, and policies that promote the development and application of advanced technologies to manufacturing processes, tools, and equipment;
+&emsp;(2) to direct the development and implementation of Department of Defense plans, programs, projects, activities, and policies thatpromote the development and application of advanced technologies to manufacturing processes, tools, and equipment;
 
 &emsp;(3) to improve the manufacturing quality, productivity, technology, and practices of businesses and workers providing goods and services to the Department of Defense;
 
@@ -98,7 +98,7 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949.)
 
 #### Prior Provisions
 
@@ -109,6 +109,8 @@ Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, §821(a
 Another prior section 2521 was renumbered section 2540 of this title and subsequently repealed.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(5). Pub. L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
 <b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -152,7 +154,7 @@ Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to
 
 Subsec. (c)(2) to (6). Pub. L. 106–65, §216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
 
-Subsec. (d). Pub. L. 106–65, §216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to whichthat proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+Subsec. (d). Pub. L. 106–65, §216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
 
 Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted “, including a description of all completed projects and status of implementation” before period at end.
 
@@ -190,13 +192,9 @@ Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 <b>1994</b>—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
-#### Change of Name
-
-“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (e)(5) on authority of section 901(a) of Pub. L. 111–383, set out as a note under section 131 of this title.
-
 #### Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program
 
-Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, §901(<i>l</i>)(2), Jan. 7, 2011, 124 Stat. 4326, provided that: “No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Assistant Secretary of Defense for Research and Engineering ensures each of the following:
+Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, §901(l)(2), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 112–239, div. A, title X, §1076(c)(2)(F), Jan. 2, 2013, 126 Stat. 1950, provided that: “No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Assistant Secretary of Defense for Research and Engineering ensures each of the following:
 
 &emsp;“(1) A component of the Department of Defense has requested and evaluated—
 
@@ -212,7 +210,7 @@ Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, as amen
 
 &emsp;“(3) An implementation plan has been developed.”
 
-\[Pub. L. 111–383, div. A, title IX, §901(<i>l</i>)(2), Jan. 7, 2011, 124 Stat. 4326, which directed amendment of section 214 of Pub. L. 110–181, set out above, by substituting “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”, was executed by making the substitution for “Director, Defense Research and Engineering,” to reflect the probable intent of Congress.\]
+\[Pub. L. 111–383, div. A, title IX, §901(l)(2), Jan. 7, 2011, 124 Stat. 4326, which directed amendment of section 214 of Pub. L. 110–181, set out above, by substituting “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”, was executed by making the substitution for “Director, Defense Research and Engineering,” to reflect the probable intent of Congress.\]
 
 #### Initial Development and Submission of Plan
 
@@ -228,7 +226,7 @@ Submission.—Not later than the date on which the budget of the President for f
 
 #### High-Performance Defense Manufacturing Technology Research and Development
 
-Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 111–383, div. A,title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(ii), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
 #### “SEC. 241. PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.
 

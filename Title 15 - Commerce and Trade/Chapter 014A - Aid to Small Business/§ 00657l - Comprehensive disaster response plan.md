@@ -26,7 +26,7 @@ The Administrator shall carry out subsections (a) and (b) through an individual 
 
 #### (d) Report
 
-The Administrator shall include a report on the plan whenever the Administration submits the report required by section 657<i>o</i> of this title.
+The Administrator shall include a report on the plan whenever the Administration submits the report required by section 657o of this title.
 
 (Pub. L. 85–536, §2\[40\], as added Pub. L. 110–234, title XII, §12075, May 22, 2008, 122 Stat. 1414, and Pub. L. 110–246, §4(a), title XII, §12075, June 18, 2008, 122 Stat. 1664, 2176.)
 

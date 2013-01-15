@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Sections 203(b) and 543(a) of the Immigration Act of 1990, referred to in subsec. (b)(2)(A), are sections 203(b) and 543(a) of Pub. L. 101–649. Section 203(b) of the Actamended section 1281 of this title. Section 543(a) of the Act amended sections 1221, former 1227, 1229 (now 1224), 1284, 1285, 1286, 1287, 1321, 1322, and 1323 of this title.
+Sections 203(b) and 543(a) of the Immigration Act of 1990, referred to in subsec. (b)(2)(A), are sections 203(b) and 543(a) of Pub. L. 101–649. Section 203(b) of the Act amended section 1281 of this title. Section 543(a) of the Act amended sections 1221, former 1227, 1229 (now 1224), 1284, 1285, 1286, 1287, 1321, 1322, and 1323 of this title.
 
 Section 605 of Public Law 104–134, referred to in subsec. (b)(3)(C), is section 101\[(a)\] \[title VI, §605\] of Pub. L. 104–134, title I, Apr. 26, 1996, 110 Stat. 1321, 1321–63, which is not classified to the Code.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 382(c) of div. C of Pub. L. 104–208 provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to fines and penalties collected on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title III, §382(c), Sept. 30, 1996, 110 Stat. 3009–651, provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to fines and penalties collected on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Section 542(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fines and penalties collected on or after January 1, 1991.”
+Pub. L. 101–649, title V, §542(b), Nov. 29, 1990, 104 Stat. 5057, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fines and penalties collected on or after January 1, 1991.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

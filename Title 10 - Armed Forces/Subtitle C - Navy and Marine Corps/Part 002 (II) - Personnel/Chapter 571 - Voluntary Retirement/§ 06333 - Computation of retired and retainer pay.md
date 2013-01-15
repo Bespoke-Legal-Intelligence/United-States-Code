@@ -18,7 +18,7 @@
 
 (c) In the case of a Reserve enlisted member whose grade upon transfer to the Fleet Reserve or Fleet Marine Corps Reserve is determined under section 6336 of this title and who first became a member of a uniformed service before September 8, 1980, the retainer pay base of the member (notwithstanding section 1406(a)(1) of this title) is the amount of the monthly basic pay of the grade in which the member is so transferred (determined based upon the rates of basic pay applicable on the date of the member's transfer), and that amount shall be used for the purposes of the table in subsection (a) rather than the amount computed under section 1406(d) of this title.
 
-(Added Pub. L. 98–94, title IX, §922(a)(10)(A), Sept. 24, 1983, 97 Stat. 641; amended Pub. L.99–348, title II, §203(a), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(b), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title XV, §1503(b)(3), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §532(d)(2), Sept. 23, 1996, 110 Stat. 2520; Pub. L. 109–163, div. A, title V, §509(d)(2), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 110–181, div. A, title VI, §646(a), Jan. 28, 2008, 122 Stat. 160.)
+(Added Pub. L. 98–94, title IX, §922(a)(10)(A), Sept. 24, 1983, 97 Stat. 641; amended Pub. L. 99–348, title II, §203(a), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(b), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title XV, §1503(b)(3), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §532(d)(2), Sept. 23, 1996, 110 Stat. 2520; Pub. L. 109–163, div. A, title V, §509(d)(2), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 110–181, div. A, title VI, §646(a), Jan. 28, 2008, 122 Stat. 160.)
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 110–181 effective as of Jan. 1, 2007, and applicable with
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
+Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retireson or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
 
 #### Effective Date
 

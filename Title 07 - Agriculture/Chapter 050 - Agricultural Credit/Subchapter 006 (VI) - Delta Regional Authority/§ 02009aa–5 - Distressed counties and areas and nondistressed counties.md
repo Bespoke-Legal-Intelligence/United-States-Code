@@ -14,7 +14,7 @@ Not later than 90 days after December 21, 2000, and annually thereafter, the Aut
 
 #### (1) In general
 
-&emsp;The Authority shall allocate at least 75 percent of the appropriations made available under section 2009aa–12 of this title for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
+&emsp;The Authority shall allocate at least 75 percent of the appropriations made availableunder section 2009aa–12 of this title for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
 
 #### (2) Funding limitations
 

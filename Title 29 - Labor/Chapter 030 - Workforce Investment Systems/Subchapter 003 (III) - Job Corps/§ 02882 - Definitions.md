@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Enrollee
 
-&emsp;The term “enrollee” means an individual who has voluntarily applied for, been selectedfor, and enrolled in the Job Corps program, and remains with the program, but has not yet become a graduate.
+&emsp;The term “enrollee” means an individual who has voluntarily applied for, been selected for, and enrolled in the Job Corps program, and remains with the program, but has not yet become a graduate.
 
 #### (4) Former enrollee
 

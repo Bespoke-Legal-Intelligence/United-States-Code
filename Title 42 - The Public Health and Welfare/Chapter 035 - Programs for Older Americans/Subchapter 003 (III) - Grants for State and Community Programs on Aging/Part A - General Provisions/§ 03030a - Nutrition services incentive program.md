@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 106–501, §309(5), substituted “In any case in which
 
 Subsec. (d)(4). Pub. L. 106–501, §309(6), added par. (4).
 
-Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursement claims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of finalreimbursement claims to use the full amount appropriated for a fiscal year.
+Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursement claims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of final reimbursement claims to use the full amount appropriated for a fiscal year.
 
 Pub. L. 106–501, §309(2), redesignated subsec. (c) as (e).
 
@@ -124,7 +124,7 @@ Subsec. (d)(1). Pub. L. 102–375, §102(b)(10)(A), substituted “area agencies
 
 Subsec. (c)(1)(A). Pub. L. 100–175, §122(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(i) There are authorized to be appropriated $144,000,000 for fiscal year 1986 and $144,000,000 for fiscal year 1987 to carry out this section (other than subsection (a)(1) of this section).
+“(i) There are authorized to be appropriated $144,000,000 for fiscal year 1986 and $144,000,000 for fiscalyear 1987 to carry out this section (other than subsection (a)(1) of this section).
 
 “(ii) The provisions of the second and third sentences of subsection (a)(4) of this section shall not apply for fiscal years 1986 and 1987.”
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1986 Amendment
 
-Section 5 of Pub. L. 99–269 provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes under this section and section 3001 of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–269, §5, Apr. 1, 1986, 100 Stat. 79, provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes under this section and section 3001 of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1984 Amendment
 

@@ -10,7 +10,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §6102(b), substituted “No fees or charges shall be assessed for any such accommodation or subordination.” for “No fees or charges shall be assessed for any such guarantee, accommodation, or subordination. With respect to guarantees issued by the Secretary under this section, on the request of the borrower of any such loan so guaranteed, the loan shall be made by the Federal Financing Bank and at a rate of interest that is not more than the rate of interest applicable to other similar loans then being made or purchased by the Bank.”
+<b>2008</b>—Pub. L. 110–246, §6102(b), substituted “No fees or charges shall be assessed for any such accommodation or subordination.” for “No fees or charges shall be assessed for any such guarantee, accommodation, or subordination. With respect to guarantees issued by the Secretary under this section, on the request of the borrower of any such loan so guaranteed, the loan shall be made by the Federal Financing Bank and at a rate ofinterest that is not more than the rate of interest applicable to other similar loans then being made or purchased by the Bank.”
 
 <b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 

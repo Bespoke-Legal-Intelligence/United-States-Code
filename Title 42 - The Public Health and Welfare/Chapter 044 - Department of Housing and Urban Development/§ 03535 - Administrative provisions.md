@@ -8,7 +8,7 @@ The personnel employed in connection with, and the assets, liabilities, contract
 
 #### (c) Employment, compensation, authority, and duties of personnel
 
-The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
+The Secretary is authorized, subject to the civil service and classification laws, to select,appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
 
 #### (d) Delegation of authority; rules and regulations
 
@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of suchstock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -58,7 +58,7 @@ Notwithstanding any other provision of law the Secretary is authorized to establ
 
 (3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
 
-#### (<i>l</i>) Consultants; appointment of advisory committees; compensation and travel expenses
+#### (l) Consultants; appointment of advisory committees; compensation and travel expenses
 
 The Secretary is authorized to appoint, without regard to the civil service laws, such advisory committees as shall be appropriate for the purpose of consultation with and advice to the Department in performance of its functions. Members of such committees, other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Secretary, may be paid compensation at rates not exceeding those authorized for individuals under subsection (e) of this section, and while so serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
@@ -70,11 +70,11 @@ Whenever he shall determine that, because of location, or other considerations, 
 
 Notwithstanding any other provision of law, the Secretary is authorized by contract or otherwise to establish, equip, and operate a day care center facility or facilities, or to assist in establishing, equipping, and operating interagency day care facilities for the purpose of serving children who are members of households of employees of the Department. The Secretary is authorized to establish or provide for the establishment of appropriate fees and charges to be chargeable against the Department of Housing and Urban Development employees or others who are beneficiaries of services provided by any such day care center. In addition, limited start-up costs may be provided by the Secretary in an amount limited to 3 per centum of the first year's operating budget, but not to exceed $3,500.
 
-#### (<i>o</i>) Agenda of rules or regulations under development or review; transmittal to Congress
+#### (o) Agenda of rules or regulations under development or review; transmittal to Congress
 
 (1) Notwithstanding any other provision of law, the Secretary shall transmit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives an agenda of all rules or regulations which are under development or review by the Department. Such an agenda shall be transmitted to such Committees within 30 days of October 31, 1978, and at least semi-annually thereafter.
 
-(2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may not be published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
+(2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may notbe published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
 
 (B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted to both such Committees at least 15 calendar days prior to its being published for comment.
 
@@ -168,7 +168,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
 #### (t) Training regarding issues relating to grandparent-headed and relative-headed families
 
@@ -182,9 +182,9 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
+The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715l, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
 
-The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
+The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (o)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -200,7 +200,7 @@ Section 222 of the Housing and Urban-Rural Recovery Act of 1983, referred to in 
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 202 of Pub. L. 108–186, which is set out in a note under section 1701q of Title 12, Banks and Banking.
 
@@ -246,17 +246,17 @@ Subsec. (r)(4)(B). Pub. L. 101–625, §954(a)(4)(B), inserted “and to collect
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administration as the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
 
-Subsec. (<i>o</i>)(2)(A). Pub. L. 101–235, §123(1), substituted “15-calendar day period beginning on the day” for “first period of 15 calendar days of continuous session of Congress which occurs” and struck out “of continuous session” before “prior to its being published”.
+Subsec. (o)(2)(A). Pub. L. 101–235, §123(1), substituted “15-calendar day period beginning on the day” for “first period of 15 calendar days of continuous session of Congress which occurs” and struck out “of continuous session” before “prior to its being published”.
 
-Subsec. (<i>o</i>)(2)(B). Pub. L. 101–235, §123(2), struck out “of continuous session of Congress” before “prior to its being published”.
+Subsec. (o)(2)(B). Pub. L. 101–235, §123(2), struck out “of continuous session of Congress” before “prior to its being published”.
 
-Subsec. (<i>o</i>)(3). Pub. L. 101–235, §123(3)(A), substituted “expiration of the 30-calendar day period beginning on the day” for “first period of 30 calendar days of continuous session of Congress which occurs”.
+Subsec. (o)(3). Pub. L. 101–235, §123(3)(A), substituted “expiration of the 30-calendar day period beginning on the day” for “first period of 30 calendar days of continuous session of Congress which occurs”.
 
 Pub. L. 101–235, §123(3)(B), substituted “Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.” for “If within such 30-day period, either Committee has reported out or been discharged from further consideration of a joint resolution of disapproval or other legislation which is intended to modify or invalidate the rule or regulation or any portion thereof, the rule or regulation or portion thereof so addressed shall not become effective for a period of 90 calendar days from the date of Committee action or discharge unless the House to which such Committee reports has rejected such resolution or legislation, in which case the rule or regulation may go into effect only after the expiration of the 30 calendar days described in the first sentence of this paragraph if the other House does not have such a resolution or legislation pending or adopted, and if the requirements of section 553 of title 5 are met.”
 
-Subsec. (<i>o</i>)(5). Pub. L. 101–235, §123(4), struck out par. (5) which read as follows: “Congressional inaction on any rule or regulation shall not be deemed an expression of approval of the rule or regulation involved.”
+Subsec. (o)(5). Pub. L. 101–235, §123(4), struck out par. (5) which read as follows: “Congressional inaction on any rule or regulation shall not be deemed an expression of approval of the rule or regulation involved.”
 
-Subsec. (<i>o</i>)(6). Pub. L. 101–235, §123(4), struck out par. (6) which read as follows: “For purposes of this subsection—
+Subsec. (o)(6). Pub. L. 101–235, §123(4), struck out par. (6) which read as follows: “For purposes of this subsection—
 
 &emsp;“(A) continuity of session is broken only by an adjournment of Congress sine die;
 
@@ -268,15 +268,15 @@ Subsec. (q). Pub. L. 101–235, §106, added subsec. (q).
 
 Subsec. (r). Pub. L. 101–235, §124, added subsec. (r).
 
-<b>1988</b>—Subsec. (<i>o</i>)(7). Pub. L. 100–242 added par. (7).
+<b>1988</b>—Subsec. (o)(7). Pub. L. 100–242 added par. (7).
 
-<b>1984</b>—Subsec. (<i>o</i>)(6)(C). Pub. L. 98–479 substituted “section 235 or 236 of the National Housing Act” for “section 3 of Public Law 90–301”.
+<b>1984</b>—Subsec. (o)(6)(C). Pub. L. 98–479 substituted “section 235 or 236 of the National Housing Act” for “section 3 of Public Law 90–301”.
 
-<b>1980</b>—Subsec. (<i>o</i>)(3). Pub. L. 96–399 substituted “30” for “20” wherever appearing.
+<b>1980</b>—Subsec. (o)(3). Pub. L. 96–399 substituted “30” for “20” wherever appearing.
 
 <b>1978</b>—Subsec. (n). Pub. L. 95–557, §316, inserted “or facilities, or to assist in establishing, equipping, and operating interagency day care facilities” after “a day care center facility”, substituted “any such day care center” for “such a day care center” and inserted provision relating to limited start-up costs in an amount limited to 3 per centum of the first year's operating budget, but not to exceed $3,500.
 
-Subsec. (<i>o</i>). Pub. L. 95–557, §324, added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 95–557, §324, added subsec. (o).
 
 Subsec. (p). Pub. L. 95–557, §908, added subsec. (p).
 
@@ -286,7 +286,7 @@ Subsec. (n). Pub. L. 94–375, §21, added subsec. (n).
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent to the highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 91–609, §905, added subsecs. (h) to (<i>l</i>).
+Subsecs. (h) to (l). Pub. L. 91–609, §905, added subsecs. (h) to (l).
 
 Subsec. (m). Pub. L. 91–609, §120(c), added subsec. (m).
 
@@ -300,7 +300,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 1980 Amendment
 
-Section 334(b) of Pub. L. 96–399 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to rules and regulations which are published as final on or after the date of enactment of this Act \[Oct. 8, 1980\].”
+Pub. L. 96–399, title III, §334(b), Oct. 8, 1980, 94 Stat. 1653, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to rules and regulations which are published as final on or after the date of enactment of this Act \[Oct. 8, 1980\].”
 
 #### Effective Date of 1968 Amendment
 
@@ -374,7 +374,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

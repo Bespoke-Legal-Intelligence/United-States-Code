@@ -8,7 +8,7 @@ Independent Risk Analysis.—(1) In the event of a data breach with respect to s
 
 (b)
 
-Regulations.—Not later than 180 days after the date of the enactment of the Veterans Benefits, Health Care, and Information Technology Act of 2006, the Secretary shall prescribe interim regulations for the provision of the following in accordance with subsection (a)(2):
+Regulations.—Not later than 180 days after the date of the enactment of the VeteransBenefits, Health Care, and Information Technology Act of 2006, the Secretary shall prescribe interim regulations for the provision of the following in accordance with subsection (a)(2):
 
 &emsp;(1) Notification.
 

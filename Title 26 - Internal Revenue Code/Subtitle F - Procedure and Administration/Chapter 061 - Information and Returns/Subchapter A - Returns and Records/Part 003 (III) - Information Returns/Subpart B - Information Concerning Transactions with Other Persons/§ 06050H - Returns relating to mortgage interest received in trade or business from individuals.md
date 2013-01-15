@@ -50,7 +50,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subsection (b)(2)(C)).
 
-> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
+> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendaryear for which the return under subsection (a) was required to be made.
 
 #### (e) Mortgage defined
 
@@ -86,7 +86,7 @@ For purposes of subsection (a), an amount received by a cooperative housing corp
 
 &emsp;&emsp;&emsp;(ii) private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901), as in effect on the date of the enactment of this subsection).
 
-(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L.99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–432, div. A, title IV, §419(c), Dec. 20, 2006, 120 Stat. 2968.)
+(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L. 99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–432, div. A, title IV, §419(c), Dec. 20, 2006, 120 Stat. 2968.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1989 Amendment
 
-Section 7646(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1991.”
+Pub. L. 101–239, title VII, §7646(c), Dec. 19, 1989, 103 Stat. 2382, provided that: “The amendments made by this section \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1991.”
 
 #### Effective Date of 1986 Amendment
 
@@ -130,7 +130,7 @@ Amendment by section 1811(a)(1) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date
 
-Section 145(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1811(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2832, provided that:
+Pub. L. 98–369, div. A, title I, §145(d), July 18, 1984, 98 Stat. 685, as amended by Pub. L. 99–514, §2, title XVIII,§1811(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2832, provided that:
 
 “(1)
 

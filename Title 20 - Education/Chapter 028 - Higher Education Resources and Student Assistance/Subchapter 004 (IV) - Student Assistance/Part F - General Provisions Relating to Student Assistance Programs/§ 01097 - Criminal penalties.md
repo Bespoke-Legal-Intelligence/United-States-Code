@@ -20,7 +20,7 @@ Any person who knowingly and willfully destroys or conceals any record relating 
 
 #### Prior Provisions
 
-A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

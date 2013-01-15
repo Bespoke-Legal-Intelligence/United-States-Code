@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) studies indicate that a number of factors contribute to the inability of some parents toprovide adequate care for their infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
+&emsp;(1) studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
 
 &emsp;(2) an unacceptable number of these infants and young children will be medically cleared for discharge, yet remain in hospitals as boarder babies;
 

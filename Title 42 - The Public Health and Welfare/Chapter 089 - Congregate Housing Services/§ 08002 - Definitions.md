@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) the term “congregate housing” means (A) low-rent housing which, as of January 1, 1979, was built or under construction, with which there is connected a central dining facility where wholesome and economical meals can be served to such occupants; or (B) low-rent housing constructed after, but not under construction prior to, January 1, 1979, connected with which there is a central dining facility to provide wholesome and economical meals for such occupants;
+&emsp;(1) the term “congregate housing” means (A) low-rent housing which, as of January 1, 1979, was built or under construction, with which there is connected a central dining facilitywhere wholesome and economical meals can be served to such occupants; or (B) low-rent housing constructed after, but not under construction prior to, January 1, 1979, connected with which there is a central dining facility to provide wholesome and economical meals for such occupants;
 
 &emsp;(2) the term “congregate services programs” means programs to be undertaken by a public housing agency or a nonprofit corporation to provide assistance, including personal assistance and nutritional meals, to eligible project residents who, with such assistance, can remain independent and avoid unnecessary institutionalization;
 

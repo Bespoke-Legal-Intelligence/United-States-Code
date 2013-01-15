@@ -16,5 +16,5 @@ Nothing in this chapter is intended to, nor shall it be construed to, encourage 
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 94–200 provided that: “This title \[this chapter\] may be cited as the ‘Home Mortgage Disclosure Act of 1975’.”
+Pub. L. 94–200, title III, §301, Dec. 31, 1975, 89 Stat. 1125, provided that: “This title \[this chapter\] may be cited as the ‘Home Mortgage Disclosure Act of 1975’.”
 

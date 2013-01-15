@@ -4,9 +4,9 @@ Unless the Secretary of Transportation is satisfied that an airport is not impos
 
 &emsp;(1) receive money under subchapter I of chapter 471 of this title; or
 
-&emsp;(2) impose a passenger facility fee under section 40117 of this title.
+&emsp;(2) impose a passenger facility charge under section 40117 of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 112–95, title I, §111(c)(2)(A)(viii), Feb. 14, 2012, 126 Stat. 18.)
 
 Historical and Revision Notes
 
@@ -25,4 +25,8 @@ Historical and Revision Notes
 Nov. 5, 1990, Pub. L. 101–508, §9307, 104 Stat. 1388–382.
 
 In this section, before clause (1), the words “Under no conditions” are omitted as surplus. In clause (2), the words “or collect” are omitted as surplus.
+
+#### Amendments
+
+<b>2012</b>—Par. (2). Pub. L. 112–95 substituted “charge” for “fee”.
 

@@ -136,7 +136,7 @@ Subsec. (i). Pub. L. 100–653, §601, substituted “Expenses” for “Limitat
 
 #### Special Rule
 
-Section 12(b) of Pub. L. 100–580 provided that: “The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[16 U.S.C. 460ss–3(c)(11), (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act.”
+Pub. L. 100–580, §12(b), Oct. 31, 1988, 102 Stat. 2935, provided that: “The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[16 U.S.C. 460ss–3(c)(11), (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

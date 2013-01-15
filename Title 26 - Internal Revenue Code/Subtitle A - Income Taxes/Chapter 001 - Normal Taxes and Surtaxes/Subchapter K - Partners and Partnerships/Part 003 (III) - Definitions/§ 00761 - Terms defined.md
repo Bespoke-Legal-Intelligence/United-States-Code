@@ -2,7 +2,7 @@
 
 #### (a) Partnership
 
-For purposes of this subtitle, the term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a corporation or a trust or estate. Under regulations the Secretary may, at the election of all the members of an unincorporated organization, exclude such organization from the application of all or part of this subchapter, if it is availed of—
+For purposes of this subtitle, the term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, acorporation or a trust or estate. Under regulations the Secretary may, at the election of all the members of an unincorporated organization, exclude such organization from the application of all or part of this subchapter, if it is availed of—
 
 &emsp;(1) for investment purposes only and not for the active conduct of a business,
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 98–369 applicable to distributions, sales, and exchanges 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, towhich such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -100,5 +100,5 @@ Amendment by section 213(c)(3)(B) of Pub. L. 94–455 applicable in the case of 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

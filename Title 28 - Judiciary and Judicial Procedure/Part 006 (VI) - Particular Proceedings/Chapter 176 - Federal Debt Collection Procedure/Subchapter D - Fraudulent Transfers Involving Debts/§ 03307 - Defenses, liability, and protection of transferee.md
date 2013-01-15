@@ -2,7 +2,7 @@
 
 (a)
 
-Good Faith Transfer.—A transfer or obligation is not voidable under section 3304(b) withrespect to a person who took in good faith and for a reasonably equivalent value or against any transferee or obligee subsequent to such person.
+Good Faith Transfer.—A transfer or obligation is not voidable under section 3304(b) with respect to a person who took in good faith and for a reasonably equivalent value or against any transferee or obligee subsequent to such person.
 
 (b)
 

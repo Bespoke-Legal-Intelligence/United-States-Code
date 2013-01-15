@@ -12,7 +12,7 @@
 
 &emsp;(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
 
-(4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications arenot adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
+(4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
 
 #### (b) Exemption of information from disclosure
 
@@ -32,9 +32,9 @@ The Commission shall not require entities who have a de minimis market presence 
 
 #### (e) Penalties for violations occurring before notice
 
-(1) Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825<i>o</i>–1 of this title.
+(1) Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825o–1 of this title.
 
-(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
+(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller thathas entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
 
 #### (f) ERCOT utilities
 

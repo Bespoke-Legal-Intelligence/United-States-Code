@@ -96,7 +96,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(III) 20 percent of the inventories of Burley tobacco from the 1983 crop held by the Commodity Credit Corporation on the date that is 2 years after the call of the loans on such tobacco by the Corporation.
 
-(E) Any purchases by a manufacturer from the inventories of the associations or from the Commodity Credit Corporation for a crop covered by this section in any year of the buy-out period that exceed the quantity of the purchases of the manufacturer required under the agreement, as determined under this section, shall be applied against future purchases required of such manufacturer.
+(E) Any purchases by a manufacturer from the inventories of the associations or from the Commodity Credit Corporation for a crop covered by this section in any year of the buy-out period that exceed the quantity of the purchases of themanufacturer required under the agreement, as determined under this section, shall be applied against future purchases required of such manufacturer.
 
 (3) In carrying out this section, manufacturers may confer with one another and, separately or collectively, with associations, the Secretary of Agriculture, and the Commodity Credit Corporation, as may be necessary or appropriate to carry out this section and the purposes of this subtitle.<sup>1</sup>
 

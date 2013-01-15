@@ -10,7 +10,7 @@ Required Determinations of Disability.—Determinations referred to in subsectio
 
 &emsp;(1) based upon accepted medical principles, the disability is of a permanent nature and stable;
 
-&emsp;(2) the disability is not the result of the member's intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence; and
+&emsp;(2) the disability is not the result of the member's intentional misconduct or willfulneglect, and was not incurred during a period of unauthorized absence; and
 
 &emsp;(3) either—
 
@@ -104,7 +104,7 @@ Pub. L. 110–181 amended cl. (i) generally. Prior to amendment, cl. (i) read as
 
 <b>1985</b>—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
-<b>1980</b>—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
+<b>1980</b>—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless thePresident determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
 Pub. L. 96–343 added cl. (iv).
 
@@ -116,7 +116,7 @@ Pub. L. 96–343 added cl. (iv).
 
 #### Effective Date of 1996 Amendment
 
-Section 572(d) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and sections 1202 and 1203 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 23, 1996\] and shall apply with respect to physical disabilities incurred on or after such date.”
+Pub. L. 104–201, div. A, title V, §572(d), Sept. 23, 1996, 110 Stat. 2533, provided that: “The amendments made by this section \[amending this section and sections 1202 and 1203 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 23, 1996\] and shall apply with respect to physical disabilities incurred on or after such date.”
 
 #### Effective Date of 1994 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Effective and Termination Dates of 1978 Amendment
 
-Section 3 of Pub. L. 95–377 provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+Pub. L. 95–377, §3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
 #### Public Health Service
 

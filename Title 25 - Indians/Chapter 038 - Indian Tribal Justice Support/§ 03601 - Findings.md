@@ -24,5 +24,5 @@ The Congress finds and declares that—
 
 #### Short Title
 
-Section 1 of Pub. L. 103–176 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Tribal Justice Act’.”
+Pub. L. 103–176, §1, Dec. 3, 1993, 107 Stat. 2004, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Tribal Justice Act’.”
 

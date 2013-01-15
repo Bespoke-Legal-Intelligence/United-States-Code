@@ -18,7 +18,7 @@ Content of Notice.—The notice required by section 1708 of title 41 and section
 
 Required Content of Solicitation and Contract.—(1) The solicitation for the proposed task order contract shall include the information (regarding services) described in section 2304a(b) of this title.
 
-(2) A task order contract entered into under this section shall contain the same information that is required by paragraph (1) to be included in the solicitation of offers for that contract.
+(2) A task order contract entered into under this section shall contain the same informationthat is required by paragraph (1) to be included in the solicitation of offers for that contract.
 
 (e)
 

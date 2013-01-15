@@ -24,7 +24,7 @@ For the purposes of this chapter:
 
 (k) The term “Secretary” means the Secretary of Agriculture of the United States.
 
-(<i>l</i>) The term “person” means any individual, partnership, corporation, association, or other entity.
+(l) The term “person” means any individual, partnership, corporation, association, or other entity.
 
 (m) The term “United States” means the several States and the District of Columbia, including any territory or possession.
 

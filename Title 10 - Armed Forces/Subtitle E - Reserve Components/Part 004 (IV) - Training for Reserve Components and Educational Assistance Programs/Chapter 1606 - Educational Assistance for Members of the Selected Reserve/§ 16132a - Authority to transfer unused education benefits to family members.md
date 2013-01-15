@@ -6,7 +6,7 @@ In General.—Subject to regulation prescribed by the Secretary of Defense, the 
 
 (b)
 
-Eligible Members.—A member referred to in subsection (a) is a member of the Selected Reserve of the Ready Reserve who, at the time of the approval of the member's request to transferentitlement to basic educational assistance under this section, has completed—
+Eligible Members.—A member referred to in subsection (a) is a member of the Selected Reserve of the Ready Reserve who, at the time of the approval of the member's request to transfer entitlement to basic educational assistance under this section, has completed—
 
 &emsp;(1) at least six years of service in the Selected Reserve and enters into an agreement to serve at least four more years as a member of the armed forces; or
 
@@ -98,7 +98,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 (i)
 
-Overpayment.—(1) In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependentand the member making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of title 38.
+Overpayment.—(1) In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the member making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of title 38.
 
 (2) Except as provided in paragraph (3), if a member's eligibility is terminated under section 16134(2), the amount of any transferred entitlement under this section that is used by a dependent of the member as of the date of such termination shall be treated as an overpayment of basic educational assistance under paragraph (1).
 

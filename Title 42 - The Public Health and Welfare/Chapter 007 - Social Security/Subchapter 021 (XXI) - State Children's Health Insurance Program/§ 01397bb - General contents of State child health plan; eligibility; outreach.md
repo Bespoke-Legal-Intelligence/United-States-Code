@@ -38,7 +38,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;&emsp;(ii) may not deny eligibility based on a child having a preexisting medical condition;
 
-&emsp;&emsp;&emsp;(iii) may not apply a waiting period (including a waiting period to carry out paragraph (3)(C)) in the case of a targeted low-income pregnant woman provided pregnancy-related assistance under section 1397<i>ll</i> of this title;
+&emsp;&emsp;&emsp;(iii) may not apply a waiting period (including a waiting period to carry out paragraph (3)(C)) in the case of a targeted low-income pregnant woman provided pregnancy-related assistance under section 1397ll of this title;
 
 &emsp;&emsp;&emsp;(iv) at State option, may not apply a waiting period in the case of a child provided dental-only supplemental coverage under section 1397jj(b)(5) of this title; and
 
@@ -70,7 +70,7 @@ A State child health plan shall include a description, consistent with the requi
 
 #### (B) Deemed compliance if joint application and renewal process that permits application other than in person
 
-&emsp;&emsp;A State shall be deemed to comply with subparagraph (A) if the State's application and renewal forms and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children and pregnant women for medical assistance under subchapter XIX and child health assistance under this subchapter, and such process does not require an application to be made in person or a face-to-face interview.
+&emsp;&emsp;A State shall be deemed to comply with subparagraph (A) if the State's application and renewal forms and supplemental forms (if any) and information verification process is the same for purposes of establishing and renewing eligibility for children and pregnant women for medical assistance under subchapter XIX and child health assistanceunder this subchapter, and such process does not require an application to be made in person or a face-to-face interview.
 
 #### (5) Nonentitlement
 

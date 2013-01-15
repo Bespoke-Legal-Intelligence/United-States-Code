@@ -64,7 +64,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 (2) Any securities in the form of debt obligations or trust certificates of beneficial interest, or both, and based upon mortgages held and set aside by the Corporation, that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection.
 
-#### (<i>l</i>) Temporary authority of Treasury to purchase obligations and securities; conditions
+#### (l) Temporary authority of Treasury to purchase obligations and securities; conditions
 
 #### (1) Authority to purchase
 
@@ -130,7 +130,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 #### (4) Termination of authority
 
-&emsp;The authority under this subsection (<i>l</i>), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
+&emsp;The authority under this subsection (l), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
 
 #### (5) Authority of the Director with respect to executive compensation
 
@@ -142,11 +142,11 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 Section 1452(c) of this title, referred to in subsec. (i), was redesignated section 1452(d) of this title by Pub. L. 101–73, title VII, §731(c)(1), Aug. 9, 1989, 103 Stat. 431.
 
-This chapter, referred to in subsec. (<i>l</i>)(1)(A), was in the original “this Act” and has been translated as reading “this title”, meaning title III of Pub. L. 91–351, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act” and has been translated as reading “this title”, meaning title III of Pub. L. 91–351, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (<i>l</i>)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
+<b>2010</b>—Subsec. (l)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–289, §1161(c)(2)(A), inserted “the” after “Secretary of”.
 
@@ -156,7 +156,7 @@ Pub. L. 110–289, §1161(c)(2)(B)(i), made technical amendment to reference in 
 
 Subsec. (j)(2). Pub. L. 110–289, §1161(c)(2)(C), substituted “or substantially” for “of substantially”.
 
-Subsec. (<i>l</i>). Pub. L. 110–289, §1117(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 110–289, §1117(b), added subsec. (l).
 
 <b>1992</b>—Subsec. (h). Pub. L. 102–550, §1382(n)(1), designated existing provisions as par. (1) and added par. (2).
 

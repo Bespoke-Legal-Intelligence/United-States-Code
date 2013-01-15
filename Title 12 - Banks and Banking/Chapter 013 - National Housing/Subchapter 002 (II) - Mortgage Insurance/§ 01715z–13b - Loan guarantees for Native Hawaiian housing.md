@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (3) Payment on loans made in good faith
 
-&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regardto whether the lender or holder is barred under this subsection.
+&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -380,7 +380,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;&emsp;(vi) conform with the energy performance requirements for new construction established by the Secretary under section 526(a) of the National Housing Act \[12 U.S.C. 1735f–4(a)\], unless the Secretary determines that the requirements are not applicable.
 
-#### (<i>l</i>) Applicability of civil rights statutes
+#### (l) Applicability of civil rights statutes
 
 To the extent that the requirements of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or of the Fair Housing Act \[42 U.S.C. 3601 et seq.\] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shall be construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
 
@@ -394,9 +394,9 @@ The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Defense Acquisition University Structure.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
+Defense Acquisition University Structure.—The Secretary of Defense, acting throughthe Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
 
 &emsp;(1) the professional educational development and training of the acquisition workforce; and
 
@@ -28,7 +28,7 @@ Curriculum Development.—The President of the Defense Acquisition University sh
 
 Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 
 #### Effective Date
 
-Section 1209(h)(1) of Pub. L. 101–510 provided that: “Subsection (b) of section 1746 of title 10, United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title XII, §1209(h)(1), Nov. 5, 1990, 104 Stat. 1667, provided that: “Subsection (b) of section 1746 of title 10, United States Code (as added by section 1202), shall take effect with respect to the Defense Systems Management College on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Establishment of Initial Defense Acquisition University Structure
 

@@ -38,7 +38,7 @@ Approved retail food stores shall display a sign providing information on how pe
 
 In those areas in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the operation of house-to-house trade routes damages the program's integrity, the Secretary shall limit the participation of house-to-house trade routes to those routes that are reasonably necessary to provide adequate access to households.
 
-(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868.)
+(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 110–246, §4115(b)(6)(C), which directed substitution of 
 
 Subsec. (a)(3). Pub. L. 104–193, §832, added par. (3).
 
-Subsec. (c). Pub. L. 104–193, §833, in first sentence, inserted “, which may include relevant income and sales tax filing documents,” after “submit information” and inserted after first sentence “The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified.”
+Subsec. (c). Pub. L. 104–193, §833, in first sentence, inserted “, which may include relevant income and salestax filing documents,” after “submit information” and inserted after first sentence “The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified.”
 
 Subsec. (d). Pub. L. 104–193, §834, inserted at end “A retail food store or wholesale food concern that is denied approval to accept and redeem coupons because the store or concern does not meet criteria for approval established by the Secretary may not, for at least 6 months, submit a new application to participate in the program. The Secretary may establish a longer time period under the preceding sentence, including permanent disqualification, that reflects the severity of the basis of the denial.”
 
@@ -140,5 +140,5 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 

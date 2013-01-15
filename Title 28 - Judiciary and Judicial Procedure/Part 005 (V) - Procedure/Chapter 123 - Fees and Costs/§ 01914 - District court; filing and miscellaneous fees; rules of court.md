@@ -52,11 +52,11 @@ Pub. L. 108–447, div. B, title III, §307(c), Dec. 8, 2004, 118 Stat. 2895, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending this section and section 1931 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
+Pub. L. 104–317, title IV, §401(c), Oct. 19, 1996, 110 Stat. 3854, provided that: “This section \[amending this section and section 1931 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 4(c) of Pub. L. 99–336 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any civil action, suit, or proceeding instituted on or after the date of the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–336, §4(c), June 19, 1986, 100 Stat. 638, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any civil action, suit, or proceeding instituted on or after the date of the enactment of this Act \[June 19, 1986\].”
 
 #### Effective Date of 1978 Amendment
 

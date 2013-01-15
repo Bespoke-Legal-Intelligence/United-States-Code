@@ -2,7 +2,7 @@
 
 #### (a) Authorities
 
-The banks for cooperatives are authorized to make loans and commitments to eligible cooperative associations and to extend to them other technical and financial assistance at any time (whether or not they have a loan from the bank outstanding), including but not limited to discounting notes and other obligations, guarantees, currency exchange necessary to service individual transactions that may be financed under subsection (b) of this section, collateral custody, or participation with other banks for cooperatives and commercial banks or other financial institutions in loans to eligible cooperatives, under such terms and conditions as may be determined to be feasible by the board of directors of each bank for cooperatives under regulations of the Farm Credit Administration. Such regulations may include provisions foravoiding duplication between the Central Bank and district banks for cooperatives. Each bank may own and lease, or lease with option to purchase, to stockholders eligible to borrow from the bank equipment needed in the operations of the stockholder and may make or participate in loans or commitments and extend other technical and financial assistance to other domestic parties for the acquisition of equipment and facilities to be leased to such stockholders for use in their operations in the United States.
+The banks for cooperatives are authorized to make loans and commitments to eligible cooperative associations and to extend to them other technical and financial assistance at any time (whether or not they have a loan from the bank outstanding), including but not limited to discounting notes and other obligations, guarantees, currency exchange necessary to service individual transactions that may be financed under subsection (b) of this section, collateral custody, or participation with other banks for cooperatives and commercial banks or other financial institutions in loans to eligible cooperatives, under such terms and conditions as may be determined to be feasible by the board of directors of each bank for cooperatives under regulations of the Farm Credit Administration. Such regulations may include provisions for avoiding duplication between the Central Bank and district banks for cooperatives. Each bank may own and lease, or lease with option to purchase, to stockholders eligible to borrow from the bank equipment needed in the operations of the stockholder and may make or participate in loans or commitments and extend other technical and financial assistance to other domestic parties for the acquisition of equipment and facilities to be leased to such stockholders for use in their operations in the United States.
 
 #### (b) Additional authorities
 
@@ -16,7 +16,7 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 &emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishment of the United States or a corporation wholly-owned directly or indirectly by the United States,
 
-> &emsp;exceeds an amount that is equal to 50 percent of the bank's capital, then a sufficient interest in the loans shall be sold by the bank for cooperatives to commercial banks and other non-System lenders to reduce the total amount of such outstanding balances to an amount not greater than an amount equal to 50 percent of the bank's capital; and
+> &emsp;exceeds an amount that is equal to 50 percent of the bank's capital, then a sufficient interest in the loans shall be sold by the bank for cooperatives to commercial banks and other non-System lenders to reduce the totalamount of such outstanding balances to an amount not greater than an amount equal to 50 percent of the bank's capital; and
 
 &emsp;(ii) except as provided in subparagraph (B), any domestic or foreign party in which an eligible cooperative association described in section 2129(a) of this title (including, for the purpose of facilitating its domestic business operations only, a cooperative or other entity described in section 2129(b)(1)(A) of this title) has an ownership interest, for the purpose of facilitating the domestic or foreign business operations of the association, except that if the ownership interest by an eligible cooperative association, or associations, is less than 50 percent, the financing shall be limited to the percentage held in the party by the association or associations.
 
@@ -54,7 +54,7 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(1) cooperatives formed specifically for the purpose of establishing or operating such facilities; and
 
-&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that,under authority of State or local law, establish or operate such facilities.
+&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
 
 > For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 

@@ -114,7 +114,7 @@ In this section:
 
 #### (1) Advisory Committee
 
-&emsp;The term “Advisory Committee” means the advisory committee established under section5 of the National Geologic Mapping Act of 1992 (43 U.S.C. 31d).
+&emsp;The term “Advisory Committee” means the advisory committee established under section 5 of the National Geologic Mapping Act of 1992 (43 U.S.C. 31d).
 
 #### (2) Program
 

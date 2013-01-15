@@ -34,7 +34,7 @@ Whenever two or more States jointly establish an accredited regional college of 
 
 The Secretary, to the maximum extent practicable, shall encourage eligible institutions to cooperate in setting research priorities under this section through the conduct of regular regional and national meetings.
 
-(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7117, 7118, May 22, 2008, 122 Stat. 1221, 1222;Pub. L. 110–246, §4(a), title VII, §§7117, 7118, June 18, 2008, 122 Stat. 1664, 1983.)
+(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7117, 7118, May 22, 2008, 122 Stat. 1221, 1222; Pub. L. 110–246, §4(a), title VII, §§7117, 7118, June 18, 2008, 122 Stat. 1664, 1983.)
 
 #### Codification
 

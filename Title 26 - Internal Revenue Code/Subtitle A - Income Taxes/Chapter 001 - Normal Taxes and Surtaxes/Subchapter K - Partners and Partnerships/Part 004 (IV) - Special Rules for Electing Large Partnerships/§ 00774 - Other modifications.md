@@ -56,7 +56,7 @@ For purposes of applying section 860E(e)(6) to any electing large partnership—
 
 In the case of an electing large partnership—
 
-&emsp;(1) the provisions of sections 453(<i>l</i>)(3) and 453A shall be applied at the partnership level, and
+&emsp;(1) the provisions of sections 453(l)(3) and 453A shall be applied at the partnership level, and
 
 &emsp;(2) in determining the amount of interest payable under such sections, such partnership shall be treated as subject to tax under this chapter at the highest rate of tax in effect under section 1 or 11.
 

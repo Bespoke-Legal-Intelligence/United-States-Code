@@ -32,7 +32,7 @@ The Secretary may approve a project under this section if the project will enhan
 
 &emsp;(2) enhance compliance with provisions of CITES and laws of the United States or a foreign country that prohibit or regulate the taking or trade of rhinoceros or tigers or the use of rhinoceros or tiger habitat; or
 
-&emsp;(3) develop sound scientific information on that species’ habitat condition and carrying capacity, total numbers and population trends, or annual reproduction and mortality.
+&emsp;(3) develop sound scientific information on that species’ habitat condition and carryingcapacity, total numbers and population trends, or annual reproduction and mortality.
 
 #### (e) Project sustainability
 

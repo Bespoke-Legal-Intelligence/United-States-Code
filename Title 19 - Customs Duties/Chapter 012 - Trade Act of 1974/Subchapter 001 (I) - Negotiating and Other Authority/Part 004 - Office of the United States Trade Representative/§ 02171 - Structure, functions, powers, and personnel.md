@@ -102,7 +102,7 @@ The United States Trade Representative may, for the purpose of carrying out his 
 
 &emsp;(4) utilize, with their consent, the services, personnel, and facilities of other Federal agencies;
 
-&emsp;(5) enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct ofthe work of the Office and on such terms as the United States Trade Representative may deem appropriate, with any agency or instrumentality of the United States, or with any public or private person, firm, association, corporation, or institution;
+&emsp;(5) enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of the work of the Office and on such terms as the United States Trade Representative may deem appropriate, with any agency or instrumentality of the United States, or with any public or private person, firm, association, corporation, or institution;
 
 &emsp;(6) accept voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
 
@@ -150,7 +150,7 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 
 #### Codification
 
-Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3),the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsec. (g)(1)(A)(i). Pub. L. 107–210, §361(a)(1)(B), added cl. (i) and struc
 
 Subsec. (g)(1)(A)(ii). Pub. L. 107–210, §361(a)(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “$21,077,000 for fiscal year 1992.”
 
-Subsec. (g)(1)(B). Pub. L. 107–210, §361(a)(2), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant tochapter 19 of the United States-Canada Free-Trade Agreement; and”.
+Subsec. (g)(1)(B). Pub. L. 107–210, §361(a)(2), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and”.
 
 Subsec. (g)(3). Pub. L. 107–210, §361(b), added par. (3).
 
@@ -248,7 +248,7 @@ Subsec. (d)(8) to (10). Pub. L. 97–456, §3(b)(3)–(5), added pars. (8) to (1
 
 Subsec. (e). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-Subsec. (f). Pub. L. 97–456, §3(a), substituted provisions authorizing for appropriation $11,100,000 for fiscal1983, of which no more than $65,000 could be used for entertainment and representation expenses, and authorizing for appropriation such additional sums as might be provided in accordance with the Federal Pay Comparability Act of 1970, for provisions authorizing for appropriation necessary sums for fiscal 1976 and each fiscal year thereafter any part of which was within the five-year period beginning on Jan. 3, 1975.
+Subsec. (f). Pub. L. 97–456, §3(a), substituted provisions authorizing for appropriation $11,100,000 for fiscal 1983, of which no more than $65,000 could be used for entertainment and representation expenses, and authorizing for appropriation such additional sums as might be provided in accordance with the Federal Pay Comparability Act of 1970, for provisions authorizing for appropriation necessary sums for fiscal 1976 and each fiscal year thereafter any part of which was within the five-year period beginning on Jan. 3, 1975.
 
 Subsec. (g). Pub. L. 97–456, §3(d)(1), struck out subsec. (g) which abolished the Office of Special Representative for Trade Negotiations and transferred its assets and obligations to the Office of United States Trade Representative.
 
@@ -316,7 +316,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (3) To the extent necessary to assure the coordination of international trade policy, and consistent with any other law, the Trade Representative, with the advice of the Committee, shall issue policy guidance to departments and agencies on basic issues of policy and interpretation arising in the exercise of the following international trade functions. Such guidance shall determine the policy of the United States with respect to international trade issues arising in the exercise of such functions:
 
-&emsp;(A) matters concerning the General Agreement on Tariffs and Trade, including implementation of the trade agreements set forth in section 2(c) of the Trade Agreements Act of 1979 \[19 U.S.C. 2503(c)\]; United States Government positions on trade and commodity matters dealt with by the Organizationfor Economic Cooperation and Development, the United Nations Conference on Trade and Development, and other multilateral organizations; and the assertion and protection of the rights of the United States under bilateral and multilateral international trade and commodity agreements;
+&emsp;(A) matters concerning the General Agreement on Tariffs and Trade, including implementation of the trade agreements set forth in section 2(c) of the Trade Agreements Act of 1979 \[19 U.S.C. 2503(c)\]; United States Government positions on trade and commodity matters dealt with by the Organization for Economic Cooperation and Development, the United Nations Conference on Trade and Development, and other multilateral organizations; and the assertion and protection of the rights of the United States under bilateral and multilateral international trade and commodity agreements;
 
 &emsp;(B) expansion of exports from the United States;
 
@@ -432,7 +432,7 @@ This reorganization is designed to correct such deficiencies and to prepare us f
 
 To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness, influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
 
-I propose to enhance STR, to be renamed the Office of the United States Trade Representative, by centralizing in it international trade policy development, coordination and negotiation functions. The Commerce Department will become the focus of non-agricultural operational trade responsibilities by adding to its existing duties those for commercial representation abroad, antidumping and countervailing duty cases, the non-agricultural aspects of MTN implementation, national security investigations, and embargoes.
+I propose to enhance STR, to be renamed the Office of the United States Trade Representative, by centralizing in it international trade policy development, coordination and negotiation functions. The Commerce Department will become the focus of non-agricultural operational trade responsibilities by adding to its existing duties those for commercial representationabroad, antidumping and countervailing duty cases, the non-agricultural aspects of MTN implementation, national security investigations, and embargoes.
 
 #### the united states trade representative
 
@@ -474,7 +474,7 @@ I propose to transfer to the Department of Commerce responsibility for administr
 
 This reorganization plan will transfer to the Department of Commerce responsibility for commercial representation abroad. This transfer would place both domestic and overseas export promotion activities under a single organization, directed by an Assistant Secretary for Export Development, charged with aggressively expanding U.S. export opportunities. Placing this Foreign Commercial Service in the Commerce Department will allow commercial officers to concentrate on the promotion of U.S. exports as their principal activity.
 
-Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individualsare assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
+Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individuals are assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
 
 #### <i>MTN implementation</i>
 
@@ -520,13 +520,13 @@ Ex. Ord. No. 11143, Mar. 2, 1963, 29 F.R. 3127, as amended by Ex. Ord. No. 11159
 
 #### Executive Order No. 11425
 
-Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section 1871 of this title, which directed the Special Representative for Trade Negotiations (established by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473) to conduct a long range study of United States foreign trade policy and to consider the views of Congress, the Public Advisory Committee on Trade Policy, and other federal agencies; established the Public Advisory Committee on Trade Policy for purposes of this study; and abolished the Public Advisory Committee for Trade Negotiations; was omitted in view of the revocation of Ex. Ord. No. 11075 by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title, and in view of the abolition of the Office of Special Representative for Trade Negotiations (as established under Ex. Ord. No. 11075) by section 2171(g) of this title.
+Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section 1871 of this title, which directed the Special Representative for Trade Negotiations (established by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473) to conduct a long range study of United States foreign trade policy and to consider the views of Congress, the Public Advisory Committee on Trade Policy, and other federal agencies; established the Public Advisory Committee on Trade Policy for purposes of this study; and abolished the Public Advisory Committeefor Trade Negotiations; was omitted in view of the revocation of Ex. Ord. No. 11075 by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title, and in view of the abolition of the Office of Special Representative for Trade Negotiations (as established under Ex. Ord. No. 11075) by section 2171(g) of this title.
 
 #### Ex. Ord. No. 12175. Effective Date of Section 2(b)(1) of Reorganization Plan No. 3 of 1979 Respecting Reorganization of Functions Relating to International Trade
 
 Ex. Ord. No. 12175, Dec. 7, 1979, 44 F.R. 70703, provided:
 
-By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the timeperiod prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
+By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the time period prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -610,7 +610,7 @@ Sec. 1–103. <i>Delegation of Functions.</i>
 
 (a) The function vested in the President by section 412(b) of the Trade Agreements Act of 1979 (19 U.S.C. 2542(b)) is delegated to the Secretary of Commerce with regard to the technical office established under section 412(a)(1) of such Act \[19 U.S.C. 2542(a)(1)\] and to the Secretary of Agriculture with regard to the technical office established under section 412(a)(2) of such Act \[19 U.S.C. 2542(a)(2)\]. In prescribing the functions of each technical office, the Secretary concerned shall consult with the Trade Representative and with all affected regulatory agencies. The functions delegated by this section shall be exercised in coordination with the Trade Representative.
 
-(b) The functions of the President under sections 2(b) and 303 of the Trade Agreements Act of 1979 (19 U.S.C. 2503(b) and 2513) and section 701(b) of the Tariff Act of 1930 (19 U.S.C. 1671(b)) are delegated to the Trade Representative, who shall exercise such authority with the advice of the Trade Policy Committee.
+(b) The functions of the President under sections 2(b) and 303 of the Trade Agreements Act of 1979 (19 U.S.C.2503(b) and 2513) and section 701(b) of the Tariff Act of 1930 (19 U.S.C. 1671(b)) are delegated to the Trade Representative, who shall exercise such authority with the advice of the Trade Policy Committee.
 
 Sec. 1–104. <i>Authority Under the Foreign Service Act and Related Laws.</i>
 
@@ -661,6 +661,70 @@ Sec. 1–107. <i>Effective Dates.</i>
 (a) Sections 1, 2(a), 2(b)(2), 2(c), 2(d), 3, 4, 5(a), 5(b)(2), 5(c) through (e), and 6 through 8 of Reorganization Plan No. 3 of 1979 \[set out as a note above\] and the provisions of this order, shall take effect as of January 2, 1980.
 
 (b) Section 5(b)(1) of such plan \[set out as a note above\] shall take effect as of April 1, 1980.
+
+#### Ex. Ord. No. 13601. Establishment of the Interagency Trade Enforcement Center
+
+Ex. Ord. No. 13601, Feb. 28, 2012, 77 F.R. 12981, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance U.S. foreign policy and protect the national and economic security of the United States through strengthened and coordinated enforcement of U.S. trade rights under international trade agreements and enforcement of domestic trade laws, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Robust monitoring and enforcement of U.S. rights under international trade agreements, and enforcement of domestic trade laws, are crucial to expanding exports and ensuring U.S. workers, businesses, ranchers, and farmers are able to compete on a level playing field with foreign trade partners. To strengthen our capacity to monitor and enforce U.S. trade rights and domestic trade laws, and thereby enhance market access for U.S. exporters, executive departments and agencies (agencies) must coordinate and augment their efforts to identify and reduce or eliminate foreign trade barriers and unfair foreign trade practices to ensure that U.S. workers, businesses, ranchers, and farmers receive the maximum benefit from our international trade agreements and under domestic trade laws.
+
+Sec. 2. <i>Establishment</i>. (a) There is established within the Office of the United States Trade Representative (USTR) an Interagency Trade Enforcement Center (Center).
+
+(b) The Center shall coordinate matters relating to enforcement of U.S. trade rights under international trade agreements and enforcement of domestic trade laws among USTR and the following agencies:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Justice;
+
+(iv) the Department of Agriculture;
+
+(v) the Department of Commerce;
+
+(vi) the Department of Homeland Security;
+
+(vii) the Office of the Director of National Intelligence; and
+
+(viii) other agencies as the President, or the United States Trade Representative, may designate.
+
+In matters relating to the enforcement of U.S. trade rights involving intellectual property rights, the Center shall consult with the Intellectual Property Enforcement Coordinator.
+
+(c) The Center shall have a Director, who shall be a full-time senior-level official of USTR, designated by and reporting to the United States Trade Representative. The Center shall have a Deputy Director, who shall be a full-time senior-level official of the Department of Commerce, designated by the Secretary of Commerce, detailed to the Center and reporting to the Director. The Center shall also have an Intelligence Community Liaison, who shall be a full-time senior-level official of the Federal Government recommended by the Director of National Intelligence and designated by his or her agency, as applicable, to be detailed or assigned to the Center.
+
+(d) To the extent permitted by law and subject to the availability of appropriations, and in consultation with the Director of the Center, agencies enumerated in subsection (b) of this section, and others in the Intelligence Community recommended by the Director of National Intelligence, are encouraged to detail or assign their employees to the Center without reimbursement to support the mission and functions of the Center as described in section 3 of this order.
+
+Sec. 3. <i>Mission and Functions</i>. The Center shall:
+
+(a) serve as the primary forum within the Federal Government for USTR and other agencies to coordinate enforcement of U.S. trade rights under international trade agreements and enforcement of domestic trade laws;
+
+(b) coordinate among USTR, other agencies with trade related responsibilities, and the U.S. Intelligence Community the exchange of information related to potential violations of international trade agreements by our foreign trade partners; and
+
+(c) conduct outreach to U.S. workers, businesses, and other interested persons to foster greater participation in the identification and reduction or elimination of foreign trade barriers and unfair foreign trade practices.
+
+Sec. 4. <i>Administration</i>. (a) Funding and administrative support for the Center shall be provided by USTR to the extent permitted by law and subject to the availability of appropriations.
+
+(b) The United States Trade Representative, through the Director of the Center, shall direct the work of the Center in performing all of its functions under this order.
+
+Sec. 5. <i>Definitions</i>. For the purposes of this order:
+
+(a) the term “U.S. trade rights” means any right, benefit or advantage to which the United States is entitled under an international trade agreement and that could be effectuated through the use of a dispute settlement proceeding.
+
+(b) the term “domestic trade laws” means any trade remedies available under U.S. law, including, but not limited to, sections 201, 301, 406, and 421 of the Trade Act of 1974, as amended (19 U.S.C. 2251, 2411, 2436, and 2451); sections 332 and 337 of the Tariff Act of 1930, as amended (19 U.S.C. 1332 and 1337); section 281 of the Uruguay Round Agreements Act (19 U.S.C. 3571); and self-initiation of investigations under Title VII of the Tariff Act of 1930 (19 U.S.C. 1671 \[et seq.\]).
+
+Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law, regulation, Executive Order, or Presidential Directive to an executive department, agency, or head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “5315”.</i>
 

@@ -20,7 +20,7 @@ Section was enacted as part of the Food Quality Protection Act of 1996, and not 
 
 #### Pesticide Use Information Study
 
-Section 305 of Pub. L. 104–170 provided that:
+Pub. L. 104–170, title III, §305, Aug. 3, 1996, 110 Stat. 1512, provided that:
 
 “(a) The Secretary of Agriculture shall, in consultation with the Administrator of the Environmental Protection Agency, prepare a report to Congress evaluating the current status and potential improvements in Federal pesticide use information gathering activities. This report shall at least include—
 

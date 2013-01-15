@@ -34,7 +34,7 @@ The Secretary may contract with a third party (including those entities eligible
 
 #### (3) Problem assessments
 
-&emsp;If a borrower is delinquent in payments on a direct or guaranteed loan made under thischapter, the Secretary or the contracting entity shall determine the cause of, and action necessary to correct, the delinquency.
+&emsp;If a borrower is delinquent in payments on a direct or guaranteed loan made under this chapter, the Secretary or the contracting entity shall determine the cause of, and action necessary to correct, the delinquency.
 
 #### (e) Guidelines
 

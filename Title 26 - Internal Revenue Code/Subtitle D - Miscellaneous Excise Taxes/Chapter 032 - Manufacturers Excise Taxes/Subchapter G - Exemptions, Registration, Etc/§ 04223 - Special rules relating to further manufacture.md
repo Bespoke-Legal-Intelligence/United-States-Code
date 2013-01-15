@@ -6,7 +6,7 @@ For purposes of this chapter, a manufacturer or producer to whom an article is s
 
 #### (b) Computation of tax
 
-If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referred to in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
+If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referredto in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
 
 &emsp;(1) at the price for which the article was sold by him (or, where the tax is on his use of the article, at the price referred to in section 4218(c)); or
 

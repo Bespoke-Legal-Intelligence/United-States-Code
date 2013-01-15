@@ -16,7 +16,7 @@ Form, Contents, Notice, Response, and Actions on Applications.—(1) A person mu
 
 (b)
 
-Terms.—The Secretary may impose terms for providing foreign air transportation under the permit that the Secretary finds may be required in the public interest.
+Terms.—The Secretary may impose terms for providing foreign air transportation underthe permit that the Secretary finds may be required in the public interest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1127.)
 

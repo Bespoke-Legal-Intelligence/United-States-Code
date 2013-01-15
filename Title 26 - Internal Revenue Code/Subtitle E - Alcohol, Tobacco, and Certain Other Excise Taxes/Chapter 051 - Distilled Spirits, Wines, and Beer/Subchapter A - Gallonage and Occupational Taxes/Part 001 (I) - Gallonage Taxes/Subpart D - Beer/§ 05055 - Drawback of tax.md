@@ -18,5 +18,5 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Effective Date of 1997 Amendment
 
-Section 1420(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1420(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

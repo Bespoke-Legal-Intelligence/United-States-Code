@@ -4,7 +4,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 #### (a) Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions
 
-(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
+(1) That the project adopted, including the maps, plans, and specifications, shall be such asin the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
 
 (2) In order to ensure that the project adopted will be best adapted to the comprehensive plan described in paragraph (1), the Commission shall consider each of the following:
 
@@ -26,7 +26,7 @@ That except when emergency shall require for the protection of navigation, life,
 
 #### (c) Maintenance and repair of project works; liability of licensee for damages
 
-That the licensee shall maintain the project works in a condition of repair adequate for the purposes of navigation and for the efficient operation of said works in the development and transmission of power, shall make all necessary renewals and replacements, shall establish andmaintain adequate depreciation reserves for such purposes, shall so maintain, and operate said works as not to impair navigation, and shall conform to such rules and regulations as the Commission may from time to time prescribe for the protection of life, health, and property. Each licensee hereunder shall be liable for all damages occasioned to the property of others by the construction, maintenance, or operation of the project works or of the works appurtenant or accessory thereto, constructed under the license and in no event shall the United States be liable therefor.
+That the licensee shall maintain the project works in a condition of repair adequate for the purposes of navigation and for the efficient operation of said works in the development and transmission of power, shall make all necessary renewals and replacements, shall establish and maintain adequate depreciation reserves for such purposes, shall so maintain, and operate said works as not to impair navigation, and shall conform to such rules and regulations as the Commission may from time to time prescribe for the protection of life, health, and property. Each licensee hereunder shall be liable for all damages occasioned to the property of others by the construction, maintenance, or operation of the project works or of the works appurtenant or accessory thereto, constructed under the license and in no event shall the United States be liable therefor.
 
 #### (d) Amortization reserves
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Savings Provision
 
-Section 9(b) of Pub. L. 99–495 provided that: “Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect any annual charge to be paid pursuant to section 10(e) of the Federal Power Act \[16 U.S.C. 803(e)\] to Indian tribes for the use of their lands within Indian reservations.”
+Pub. L. 99–495, §9(b), Oct. 16, 1986, 100 Stat. 1252, provided that: “Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect any annual charge to be paid pursuant to section 10(e) of the Federal Power Act \[16 U.S.C. 803(e)\] to Indian tribes for the use of their lands within Indian reservations.”
 
 #### Termination of Reporting Requirements
 

@@ -14,7 +14,7 @@ No impound, trust, or other type of account for the payment of property taxes, i
 
 &emsp;(3) the transaction is secured by a first mortgage or lien on the consumer's principal dwelling having an original principal obligation amount that—
 
-&emsp;&emsp;(A) does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of thedate such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 1.5 or more percentage points; or
+&emsp;&emsp;(A) does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 1.5 or more percentage points; or
 
 &emsp;&emsp;(B) exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12, and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 2.5 or more percentage points; or
 

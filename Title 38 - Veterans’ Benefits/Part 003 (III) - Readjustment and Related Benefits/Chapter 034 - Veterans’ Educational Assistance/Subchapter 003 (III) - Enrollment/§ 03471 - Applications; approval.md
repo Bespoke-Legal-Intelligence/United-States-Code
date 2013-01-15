@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 <b>1976</b>—Pub. L. 94–502 substituted “unless the Administrator finds” for “unless he finds”, “the veteran or person” for “he”, and “the veteran's or person's” for “his” in two places.
 
-<b>1972</b>—Pub. L. 92–540 inserted provision authorizing any person on active duty, after consultation with theappropriate service education officer, to submit an application to the Administrator.
+<b>1972</b>—Pub. L. 92–540 inserted provision authorizing any person on active duty, after consultation with the appropriate service education officer, to submit an application to the Administrator.
 
 #### Effective Date of 2003 Amendment
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 108–183 applicable to courses approved by State approving
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1976 Amendment
 

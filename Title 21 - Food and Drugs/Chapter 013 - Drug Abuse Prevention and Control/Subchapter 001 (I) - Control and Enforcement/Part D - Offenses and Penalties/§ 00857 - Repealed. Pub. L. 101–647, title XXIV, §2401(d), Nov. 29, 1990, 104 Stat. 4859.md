@@ -8,5 +8,5 @@ Subsecs. (b) to (f) were redesignated as subsecs. (b) to (f) of section 422 of t
 
 #### Effective Date
 
-Section 1823 of Pub. L. 99–570 which provided that subtitle O (§§1821–1823) of title I of Pub. L. 99–570, enacting this section and provisions set out as a note under section 801 of this title, was to become effective 90 days after Oct. 27, 1986, was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
+Pub. L. 99–570, title I, §1823, Oct. 27, 1986, 100 Stat. 3207–52, which provided that subtitle O (§§1821–1823) of title I of Pub. L. 99–570, enacting this section and provisions set out as a note under section 801 of this title, was to become effective 90 days after Oct. 27, 1986, was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859.
 

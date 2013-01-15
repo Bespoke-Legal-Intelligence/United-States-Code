@@ -14,7 +14,7 @@
 
 Except as otherwise directed by the President, with respect to information to which the Secretary has access pursuant to this section—
 
-&emsp;(1) the Secretary may obtain such material upon request, and may enter into cooperative arrangements with other executive agencies to provide such material or provide Department officials with access to it on a regular or routine basis, including requests or arrangements involving broad categories of material, access to electronic databases, or both; and
+&emsp;(1) the Secretary may obtain such material upon request, and may enter into cooperativearrangements with other executive agencies to provide such material or provide Department officials with access to it on a regular or routine basis, including requests or arrangements involving broad categories of material, access to electronic databases, or both; and
 
 &emsp;(2) regardless of whether the Secretary has made any request or entered into any cooperative arrangement pursuant to paragraph (1), all agencies of the Federal Government shall promptly provide to the Secretary—
 
@@ -44,7 +44,7 @@ The Secretary shall be deemed to be a Federal law enforcement, intelligence, pro
 
 #### (2) Sharing of information
 
-&emsp;The Secretary, in consultation with the Director of Central Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with theelements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
+&emsp;The Secretary, in consultation with the Director of Central Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
 
 (Pub. L. 107–296, title II, §202, Nov. 25, 2002, 116 Stat. 2149.)
 

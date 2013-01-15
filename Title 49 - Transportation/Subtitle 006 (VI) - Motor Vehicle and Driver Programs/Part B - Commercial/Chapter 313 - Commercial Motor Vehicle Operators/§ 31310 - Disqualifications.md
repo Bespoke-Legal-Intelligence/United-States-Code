@@ -54,11 +54,11 @@ Emergency Disqualification.—
 
 &emsp;(1)
 
-Limited duration.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for not to exceed 30 days if the Secretary determines that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+Limited duration.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for not to exceed 30 days if the Secretary determines that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 521 or section 5102).
 
 &emsp;(2)
 
-After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 521 or section 5102).
 
 (g)
 
@@ -66,7 +66,7 @@ Noncommercial Motor Vehicle Convictions.—
 
 &emsp;(1)
 
-Issuance of regulations.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue regulations providing for the disqualification by the Secretary from operating a commercial motor vehicle of an individual who holds a commercial driver's license and who has been convicted of—
+Issuance of regulations.—The Secretary shall issue regulations providing for the disqualification by the Secretary from operating a commercial motor vehicle of an individual who holds a commercial driver's license and who has been convicted of—
 
 &emsp;&emsp;(A) a serious offense involving a motor vehicle (other than a commercial motor vehicle) that has resulted in the revocation, cancellation, or suspension of the individual's license; or
 
@@ -112,7 +112,11 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 &emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759; Pub. L. 109–59, title IV, §4102(b), Aug. 10, 2005, 119 Stat. 1715.)
+(k)
+
+Foreign Commercial Drivers.—A foreign commercial driver shall be subject to disqualification under this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759; Pub. L. 109–59, title IV, §4102(b), Aug. 10, 2005, 119 Stat. 1715; Pub. L. 112–141, div. C, title II, §§32204, 32507, 32931(d), July 6, 2012, 126 Stat. 785, 804, 829.)
 
 Historical and Revision Notes
 
@@ -168,13 +172,15 @@ Subsection (c)(1)(D) is substituted for 49 App.:2707(a)(2)(A)(iv) for clarity an
 
 In subsection (g)(1)(A), the words “Not later than 1 year after October 27, 1986” are omitted as obsolete.
 
-In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
-
-#### References in Text
-
-The date of the enactment of this Act, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revisedtitle and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–141, §32507, inserted “section 521 or” before “section 5102” in pars. (1) and (2).
+
+Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of “The” for “Not later than 1 year after the date of enactment of this Act, the”, was executed by making the substitution for “Not later than 1 year after the date of the enactment of this Act, the”, to reflect the probable intent of Congress.
+
+Subsec. (k). Pub. L. 112–141, §32204, added subsec. (k).
 
 <b>2005</b>—Subsec. (i)(2). Pub. L. 109–59, §4102(b)(1), substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
 
@@ -200,11 +206,15 @@ Subsecs. (i), (j). Pub. L. 106–159, §201(b)(1), redesignated subsecs. (g) and
 
 <b>1995</b>—Subsec. (h). Pub. L. 104–88 added subsec. (h).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 #### Regulations
 
-Section 403(b) of Pub. L. 104–88 provided that: “The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\].”
+Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: “The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\].”
 

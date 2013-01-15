@@ -2,7 +2,7 @@
 
 #### (a) Amounts shown on internal revenue forms
 
-The Secretary is authorized to provide with respect to any amount required to be shown on a form prescribed for any internal revenue return, statement, or other document, that if such amount of such item is other than a whole-dollar amount, either—
+The Secretary is authorized to provide with respect to any amount required to be shown ona form prescribed for any internal revenue return, statement, or other document, that if such amount of such item is other than a whole-dollar amount, either—
 
 &emsp;(1) the fractional part of a dollar shall be disregarded; or
 

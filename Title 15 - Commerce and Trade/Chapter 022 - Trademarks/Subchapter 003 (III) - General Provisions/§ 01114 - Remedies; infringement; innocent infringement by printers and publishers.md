@@ -18,7 +18,7 @@ As used in this paragraph, the term “any person” includes the United States,
 
 &emsp;(C) Injunctive relief shall not be available to the owner of the right infringed or person bringing the action under section 1125(a) of this title with respect to an issue of a newspaper, magazine, or other similar periodical or an electronic communication containing infringing matter or violating matter where restraining the dissemination of such infringing matter or violating matter in any particular issue of such periodical or in an electronic communication would delay the delivery of such issue or transmission of such electronic communication after the regular time for such delivery or transmission, and such delay would be due to the method by which publication and distribution of such periodical or transmission of such electronic communication is customarily conducted in accordance with sound business practice, and not due to any method or device adopted to evade this section or to prevent or delay the issuance of an injunction or restraining order with respect to such infringing matter or violating matter.
 
-&emsp;(D)(i)(I) A domain name registrar, a domain name registry, or other domain name registration authority that takes any action described under clause (ii) affecting a domain name shall not be liable for monetary relief or, except as provided in subclause (II), for injunctive relief, to any person for such action, regardless of whether the domain name is finally determined to infringe or dilute the mark.
+&emsp;(D)(i)(I) A domain name registrar, a domain name registry, or other domain name registration authority that takes any action describedunder clause (ii) affecting a domain name shall not be liable for monetary relief or, except as provided in subclause (II), for injunctive relief, to any person for such action, regardless of whether the domain name is finally determined to infringe or dilute the mark.
 
 &emsp;(II) A domain name registrar, domain name registry, or other domain name registration authority described in subclause (I) may be subject to injunctive relief only if such registrar, registry, or other registration authority has—
 
@@ -50,7 +50,7 @@ As used in this paragraph, the term “any person” includes the United States,
 
 (B) A manufacturer, licensee, or licensor of technology that enables the making of limited portions of audio or video content of a motion picture imperceptible as described in subparagraph (A) is not liable on account of such manufacture or license for a violation of any right under this chapter, if such manufacturer, licensee, or licensor ensures that the technology provides a clear and conspicuous notice at the beginning of each performance that the performance of the motion picture is altered from the performance intended by the director or copyright holder of the motion picture. The limitations on liability in subparagraph (A) and this subparagraph shall not apply to a manufacturer, licensee, or licensor of technology that fails to comply with this paragraph.
 
-(C) The requirement under subparagraph (B) to provide notice shall apply only with respectto technology manufactured after the end of the 180-day period beginning on April 27, 2005.
+(C) The requirement under subparagraph (B) to provide notice shall apply only with respect to technology manufactured after the end of the 180-day period beginning on April 27, 2005.
 
 (D) Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of section 110 of title 17 is liable for trademark infringement by reason of such conduct.
 
@@ -64,7 +64,7 @@ Acts Feb. 20, 1905, ch. 592, §16, 33 Stat. 728; Mar. 19, 1920, ch. 104, §4, 41
 
 <b>2005</b>—Par. (3). Pub. L. 109–9 added par. (3).
 
-<b>1999</b>—Par. (1). Pub. L. 106–43, in undesignated par., inserted after “includes” in first sentence “the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and” and, in second sentence, substituted “The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any” for “Any”.
+<b>1999</b>—Par. (1). Pub. L. 106–43, in undesignated par., inserted after “includes” in first sentence “the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and” and, in secondsentence, substituted “The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any” for “Any”.
 
 Par. (2). Pub. L. 106–113, §1000(a)(9) \[title III, §3004(1)\], in introductory provisions, substituted “under section 1125(a) or (d) of this title” for “under section 1125(a) of this title”.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 
 #### Effective Date of 1992 Amendment
 
-Section 4 of Pub. L. 102–542 provided that: “The amendments made by this Act \[enacting section 1122 of this title and amending this section and sections 1125 and 1127 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 27, 1992\].”
+Pub. L. 102–542, §4, Oct. 27, 1992, 106 Stat. 3568, provided that: “The amendments made by this Act \[enacting section 1122 of this title and amending this section and sections 1125 and 1127 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 27, 1992\].”
 
 #### Effective Date of 1988 Amendment
 

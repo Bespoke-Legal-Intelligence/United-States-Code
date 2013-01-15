@@ -114,7 +114,7 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;“(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;“(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 

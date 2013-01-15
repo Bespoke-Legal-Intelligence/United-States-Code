@@ -62,5 +62,5 @@ Lands, submerged lands, and waters added to the Virgin Islands National Park pur
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–348 inserted provisions relating to boundaries of Hassel Island located in Saint Thomas Harbor and adjoining lands, submerged lands, and waters.
+<b>1978</b>—Pub. L. 95–348 inserted provisions relating to boundaries of Hassel Island located in Saint ThomasHarbor and adjoining lands, submerged lands, and waters.
 

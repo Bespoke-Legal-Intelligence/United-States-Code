@@ -76,5 +76,9 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3345 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, listed in a table under section 3345 of Title 5.
+
+#### Rating Chains for System Program Managers
+
+Pub. L. 112–239, div. A, title III, §323, Jan. 2, 2013, 126 Stat. 1696, provided that: “The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a program executive officer or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility.”
 

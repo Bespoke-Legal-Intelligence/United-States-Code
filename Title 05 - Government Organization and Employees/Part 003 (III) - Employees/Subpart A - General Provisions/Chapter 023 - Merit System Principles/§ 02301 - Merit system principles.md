@@ -328,7 +328,7 @@ Contents.—Each study under paragraph (1) shall include, with respect to the ap
 
 &emsp;“(3)
 
-Reports.—Not later than 90 days after the completion of each study under paragraph (1), theGeneral Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
+Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
 “(d)
 
@@ -352,7 +352,7 @@ Report.—Not later than 90 days after the completion of the study under paragra
 
 “(a)
 
-In General.—Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaints filed with such agency by employees or former employees of, or applicants for employment with, such agency.
+In General.—Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaintsfiled with such agency by employees or former employees of, or applicants for employment with, such agency.
 
 “(b)
 
@@ -432,7 +432,7 @@ Data for prior years.—The data posted by a Federal agency under this section f
 
 “(a)
 
-In General.—The Equal Employment Opportunity Commission shall post on its public Web site, inthe time, form, and manner prescribed under section 303 for purposes of this section, summary statistical data relating to—
+In General.—The Equal Employment Opportunity Commission shall post on its public Web site, in the time, form, and manner prescribed under section 303 for purposes of this section, summary statistical data relating to—
 
 &emsp;“(1) hearings requested before an administrative judge of the Commission on complaints described in section 301, and
 

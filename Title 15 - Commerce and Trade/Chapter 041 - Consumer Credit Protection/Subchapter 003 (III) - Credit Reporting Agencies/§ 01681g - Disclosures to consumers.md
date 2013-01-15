@@ -164,7 +164,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (6) Limitation on liability
 
-&emsp;Except as provided in section 1681s of this title, sections 1681n and 1681<i>o</i> of this title do not apply to any violation of this subsection.
+&emsp;Except as provided in section 1681s of this title, sections 1681n and 1681o of this title do not apply to any violation of this subsection.
 
 #### (7) Limitation on civil liability
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Simplified Disclosure To Maximize Comprehensibility and Standardization
 
-Section 2408(e)(2), (3) of div. A of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2408(e)(2), (3), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439, provided that:
 
 “(2)
 

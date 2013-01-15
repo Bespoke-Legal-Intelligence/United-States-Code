@@ -1,6 +1,6 @@
 ### §2073. General corporate powers
 
-Each production credit association shall be a body corporate and, subject to supervision bythe Farm Credit Bank for the district and regulation by the Farm Credit Administration, shall have the power to—
+Each production credit association shall be a body corporate and, subject to supervision by the Farm Credit Bank for the district and regulation by the Farm Credit Administration, shall have the power to—
 
 &emsp;(1) have succession until terminated in accordance with this chapter or any other Act of Congress;
 
@@ -56,7 +56,7 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;(21) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
 
-(Pub. L. 92–181, title II, §2.2, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, §401(<i>o</i>), Aug. 17, 1988, 102 Stat. 997.)
+(Pub. L. 92–181, title II, §2.2, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, §401(o), Aug. 17, 1988, 102 Stat. 997.)
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ A prior section 2073, Pub. L. 92–181, title II, §2.2, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-<b>1988</b>—Par. (16). Pub. L. 100–399, §401(<i>o</i>)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
+<b>1988</b>—Par. (16). Pub. L. 100–399, §401(o)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
 
 &emsp;“(A) the classes of association stock and the manner in which the stock shall be issued, transferred, and retired;
 
@@ -74,11 +74,11 @@ A prior section 2073, Pub. L. 92–181, title II, §2.2, Dec. 10, 1971, 85 Stat.
 
 &emsp;“(D) the general business conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 
-Par. (17). Pub. L. 100–399, §401(<i>o</i>)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
+Par. (17). Pub. L. 100–399, §401(o)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
 
-Par. (21). Pub. L. 100–399, §401(<i>o</i>)(3)–(5), added par. (21).
+Par. (21). Pub. L. 100–399, §401(o)(3)–(5), added par. (21).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

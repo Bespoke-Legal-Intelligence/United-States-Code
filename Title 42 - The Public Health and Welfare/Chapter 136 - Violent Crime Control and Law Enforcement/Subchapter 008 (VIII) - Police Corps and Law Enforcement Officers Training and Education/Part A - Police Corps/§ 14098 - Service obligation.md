@@ -6,7 +6,7 @@ Upon satisfactory completion of the participant's course of education and traini
 
 #### (b) Rights and responsibilities
 
-A participant shall have all of the rights and responsibilities of and shall be subject to all rules and regulations applicable to other members of the police force of which the participantis a member, including those contained in applicable agreements with labor organizations and those provided by State and local law.
+A participant shall have all of the rights and responsibilities of and shall be subject to all rules and regulations applicable to other members of the police force of which the participant is a member, including those contained in applicable agreements with labor organizations and those provided by State and local law.
 
 #### (c) Discipline
 

@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting;
 
-&emsp;(4) there is inadequate job security for employees who have serious health conditions that prevent them from working for temporary periods;
+&emsp;(4) there is inadequate job security for employees who have serious health conditionsthat prevent them from working for temporary periods;
 
 &emsp;(5) due to the nature of the roles of men and women in our society, the primary responsibility for family caretaking often falls on women, and such responsibility affects the working lives of women more than it affects the working lives of men; and
 
@@ -38,7 +38,7 @@ This Act, referred to in subsec. (b), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat
 
 #### Effective Date
 
-Section 405 title IV of Pub. L. 103–3 provided that:
+Pub. L. 103–3, title IV, §405, Feb. 5, 1993, 107 Stat. 26, provided that:
 
 “(a)
 
@@ -66,5 +66,5 @@ Pub. L. 111–119, §1, Dec. 21, 2009, 123 Stat. 3476, provided that: “This Ac
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
+Pub. L. 103–3, §1(a), Feb. 5, 1993, 107 Stat. 6, provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
 

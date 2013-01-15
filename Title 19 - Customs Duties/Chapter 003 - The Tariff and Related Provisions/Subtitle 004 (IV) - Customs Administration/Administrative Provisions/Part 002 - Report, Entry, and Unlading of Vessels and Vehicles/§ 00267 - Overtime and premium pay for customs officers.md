@@ -96,7 +96,7 @@ Prior to the general revision of section 5 of act Feb. 13, 1911, by section 1381
 
 #### Effective Date of 1993 Amendment
 
-Section 13811(c) of Pub. L. 103–66 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1450 of this title, repealing section 1451a of this title, and omitting provisions formerly set out as section 261 of this title\] apply to customs inspectional services provided on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13811(c), Aug. 10, 1993, 107 Stat. 670, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1450 of this title, repealing section 1451a of this title, and omitting provisions formerly set out as section 261 of this title\] apply to customs inspectional services provided on or after January 1, 1994.”
 
 #### Effective Date of 1970 Amendment
 

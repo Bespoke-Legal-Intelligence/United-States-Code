@@ -30,7 +30,7 @@ The management of the Administration shall be vested in the Board. The Board sha
 
 #### (e) Functions of Chairman
 
-The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
+The Chairman of the Board shall be the spokesman for the Board and shall represent theBoard and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
 #### (f) Audit by Government Accountability Office
 
@@ -46,7 +46,7 @@ Section 1 of act June 29, 1948 transferred to the Federal Security Agency all fu
 
 Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\]; (b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
 
-Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for allother funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
+Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
 
 Section 5 of act June 29, 1948 provided that the Act was to become effective on the thirtieth day following the date of enactment.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Transfer of Functions
 
-Section 6 of Pub. L. 91–206 provided that:
+Pub. L. 91–206, §6, Mar. 10, 1970, 84 Stat. 51, provided that:
 
 “(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
@@ -158,5 +158,5 @@ Pub. L. 101–73, title XII, §1201, Aug. 9, 1989, 103 Stat. 519, directed Compt
 
 #### Federally Chartered Central Credit Unions; Report to Congress
 
-Section 3 of Pub. L. 86–354 directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof andsuch recommendations for legislation thereon as Director deemed appropriate.
+Pub. L. 86–354, §3, Sept. 22, 1959, 73 Stat. 639, directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
 

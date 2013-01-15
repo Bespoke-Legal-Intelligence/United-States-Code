@@ -6,7 +6,7 @@ Before submitting an application to the Secretary under section 7424 of this tit
 
 #### Prior Provisions
 
-A prior section 7429, Pub. L. 89–10, title VII, §7119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, authorized subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7429, Pub. L. 89–10, title VII, §7119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3727, authorized subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 7430 to 7434 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

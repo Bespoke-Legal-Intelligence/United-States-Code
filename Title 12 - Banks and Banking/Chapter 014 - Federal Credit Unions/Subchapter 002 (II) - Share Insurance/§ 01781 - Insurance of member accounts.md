@@ -56,7 +56,7 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 #### (2) Routine business financing
 
-&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistance generally provided by a Government-sponsored enterprise in the ordinary course of business of the enterprise.
+&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistancegenerally provided by a Government-sponsored enterprise in the ordinary course of business of the enterprise.
 
 #### (3) “Government-sponsored enterprise” defined
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certa
 
 #### Effective Date of 1996 Amendment
 
-Section 2615(c) of div. A of Pub. L. 104–208 provided that: “The amendments made by this section \[amending this section and section 1828 of this title\] shall apply on and after January 1, 1996.”
+Pub. L. 104–208, div. A, title II, §2615(c), Sept. 30, 1996, 110 Stat. 3009–479, provided that: “The amendments made by this section \[amending this section and section 1828 of this title\] shall apply on and after January 1, 1996.”
 
 #### Effective Date of 1978 Amendment
 

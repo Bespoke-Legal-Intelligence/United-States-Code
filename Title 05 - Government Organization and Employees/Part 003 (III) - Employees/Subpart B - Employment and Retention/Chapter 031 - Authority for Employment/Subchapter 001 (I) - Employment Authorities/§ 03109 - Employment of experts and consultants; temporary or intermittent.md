@@ -68,7 +68,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract
 
@@ -130,7 +130,7 @@ Ex. Ord. No. 13433, May 16, 2007, 72 F.R. 28441, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations or individuals that provide such services to or on behalf of the United States shall be compensated in amounts that are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
+Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations or individuals that provide such services to or on behalf of the United States shall be compensated in amountsthat are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
 
 Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement within their respective agencies the policy set forth in section 1, consistent with such instructions as the Attorney General may prescribe.
 

@@ -4,5 +4,5 @@ Section, act Aug. 14, 1935, ch. 531, title XV, §1505, as added Sept. 1, 1954, c
 
 #### Effective Date of Repeal
 
-Repeal effective only with respect to benefit years which began more than thirty days after Apr. 22, 1960, see section 1 of Pub. L. 86–442.
+Repeal effective only with respect to benefit years which began more than thirty days after Apr. 22, 1960, see Pub. L. 86–442, §1, Apr. 22, 1960, 74 Stat. 81.
 

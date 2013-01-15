@@ -36,7 +36,7 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 &emsp;&emsp;In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 85–866, title I, §34, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 91–172, title IV, §433(a), (c), Dec. 30, 1969, 83 Stat. 623, 624; Pub. L. 94–455, title X, §1044(a), title XIV, §1402(b)(1)(G), (2), Oct. 4, 1976, 90 Stat. 1642, 1732; Pub. L. 98–369, div. A, title X, §1001(b)(6), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §671(b)(4), title IX, §901(d)(3), Oct. 22, 1986, 100 Stat. 2318, 2379; Pub. L. 100–647, title I, §1008(d)(3), Nov. 10, 1988, 102 Stat. 3439; Pub. L. 101–508, title XI, §11801(a)(25), (c)(11), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527;Pub. L. 104–188, title I, §1621(b)(4), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(3), Oct. 22, 2004, 118 Stat. 1593.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 85–866, title I, §34, Sept. 2, 1958, 72 Stat. 1632;Pub. L. 91–172, title IV, §433(a), (c), Dec. 30, 1969, 83 Stat. 623, 624; Pub. L. 94–455, title X, §1044(a), title XIV, §1402(b)(1)(G), (2), Oct. 4, 1976, 90 Stat. 1642, 1732; Pub. L. 98–369, div. A, title X, §1001(b)(6), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §671(b)(4), title IX, §901(d)(3), Oct. 22, 1986, 100 Stat. 2318, 2379; Pub. L. 100–647, title I, §1008(d)(3), Nov. 10, 1988, 102 Stat. 3439; Pub. L. 101–508, title XI, §11801(a)(25), (c)(11), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, §1621(b)(4), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(3), Oct. 22, 2004, 118 Stat. 1593.)
 
 #### References in Text
 
@@ -108,19 +108,19 @@ Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 198
 
 #### Effective Date of 1976 Amendment
 
-Section 1044(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title X, §1044(b), Oct. 4, 1976, 90 Stat. 1643, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after July 11, 1969.
 
 “(2) If the refund or credit of any overpayment attributable to the application of the amendment made by subsection (a) to any taxable year is otherwise prevented by the operation of any law or rule of law (other than section 7122 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], relating to compromises) on the day which is one year after the date of the enactment of this Act \[Oct. 4, 1976\], such credit or refund shall be nevertheless allowed or made if claim therefor is filed on or before such day.”
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 #### Effective Date of 1969 Amendment
 
-Section 433(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title IV, §433(d), Dec. 30, 1969, 83 Stat. 624, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

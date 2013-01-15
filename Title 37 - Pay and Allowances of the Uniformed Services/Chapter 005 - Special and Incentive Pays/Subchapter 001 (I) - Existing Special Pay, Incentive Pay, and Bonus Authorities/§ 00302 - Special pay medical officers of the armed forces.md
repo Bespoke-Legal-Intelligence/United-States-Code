@@ -88,7 +88,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 (i)
 
-Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the terminationof an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
+Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(4), Jan. 6, 2006, 119 Stat. 3328; Pub. L. 110–181, div. A, title VI, §615(a), Jan. 28, 2008, 122 Stat. 150.)
 
@@ -228,7 +228,7 @@ Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum beingreached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 110–181 applicable with respect to agreements entered int
 
 #### Effective Date of 1989 Amendment
 
-Section 702(g) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VII, §702(g), Nov. 29, 1989, 103 Stat. 1469, provided that:
 
 “(1) The amendments made by subsections (a) and (c) \[amending this section\] shall take effect on January 1, 1990.
 
@@ -264,11 +264,11 @@ Amendment by section 1342(d) of Pub. L. 99–661 effective Nov. 14, 1986, see se
 
 Amendment by Pub. L. 96–513 effective July 1, 1980, see section 701(b)(2) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Section 8 of Pub. L. 96–284 provided that: “The amendments made by sections 2 and 3 \[enacting section 302c of this title and amending this section and section 313 of this title\] shall apply to special pay payable for periods beginning after the last day of the month in which this Act is enacted \[June 1980\].”
+Pub. L. 96–284, §8, June 28, 1980, 94 Stat. 594, provided that: “The amendments made by sections 2 and 3 \[enacting section 302c of this title and amending this section and section 313 of this title\] shall apply to special pay payable for periods beginning after the last day of the month in which this Act is enacted \[June 1980\].”
 
 #### Effective Date of 1974 Amendment
 
-Section 2 of Pub. L. 93–274, as amended by Pub. L. 94–273, §2(18), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–361, title III, §305, July 14, 1976, 90 Stat. 926; Pub. L. 95–114, §1, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(a), Oct. 20, 1978, 92 Stat. 1619, which provided that the amendments made by this Act, enacting sections 302b and 313 of this title and amending this section and section 311 of this title, become effective on June 1, 1974, with the authority for the special pay provided by the amendments made by the first section of this Act, enacting sections 302b and 313 of this title and amending this section and section 311 of this title, to expire on Sept. 30, 1980, was repealed by Pub. L. 96–284, §4(e), June 28, 1980, 94 Stat. 592.
+Pub. L. 93–274, §2, May 6, 1974, 88 Stat. 96, as amended by Pub. L. 94–273, §2(18), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–361, title III, §305, July 14, 1976, 90 Stat. 926; Pub. L. 95–114, §1, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(a), Oct. 20, 1978, 92 Stat. 1619, which provided that the amendments made by this Act, enacting sections 302b and 313 of this title and amending this section and section 311 of this title, become effective on June 1, 1974, with the authority for the special pay provided by the amendments made by the first section of this Act, enacting sections 302b and 313 of this title and amending this section and section 311 of this title, to expire on Sept. 30, 1980, was repealed by Pub. L. 96–284, §4(e), June 28, 1980, 94 Stat. 592.
 
 #### Effective Date of 1973 Amendment
 
@@ -302,19 +302,19 @@ Pub. L. 100–202, §101(h) \[title II, §208\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Medical Officer Retention Bonus
 
-Section 703(e)–(g) of Pub. L. 101–189, as amended by Pub. L. 102–25, title VII, §705(b), Apr. 6, 1991, 105 Stat. 120, provided that, in the case of an agreement that was executed by a medical officer under section 612 of Pub. L. 100–456, formerly set out below, before Oct. 1, 1989, but that was not accepted by the Secretary concerned solely because of the limitation contained in section 612(h), the Secretary concerned could accept such agreement during the 90-day period beginning on Nov. 29, 1989.
+Pub. L. 101–189, div. A, title VII, §703(e)–(g), Nov. 29, 1989, 103 Stat. 1470, 1471, as amended by Pub. L. 102–25, title VII, §705(b), Apr. 6, 1991, 105 Stat. 120, provided that, in the case of an agreement that was executed by a medical officer under section 612 of Pub. L. 100–456, formerly set out below, before Oct. 1, 1989, but that was not accepted by the Secretary concerned solely because of the limitation contained in section 612(h), the Secretary concerned could accept such agreement during the 90-day period beginning on Nov. 29, 1989.
 
 Pub. L. 100–456, div. A, title VI, §612, Sept. 29, 1988, 102 Stat. 1979, as amended by Pub. L. 101–189, div. A, title VII, §703(a)–(d), Nov. 29, 1989, 103 Stat. 1469, 1470, provided that a covered medical officer who, during the period beginning on Jan. 1, 1989, and ending on Sept. 30, 1990, executed a written agreement to remain on active duty for at least two years after completion of any other active-duty service commitment could, upon acceptance of the written agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 #### Special Pay for Critically Short Wartime Health Specialists in Selected Reserve
 
-Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div. A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title XV, §1502(c)(5), Feb. 10, 1996, 110 Stat. 508, which established a pilot test program of special pay for officers of reserve components of the Armed Forces in critically short wartime health care professions who agreed to serve in the Selected Reserve, was repealed and reenacted as section 302g of this title by Pub. L. 104–106, div. A, title VI, §614(a)(1), (c)(1), Feb. 10, 1996, 110 Stat. 360, 361.
+Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div.A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title XV, §1502(c)(5), Feb. 10, 1996, 110 Stat. 508, which established a pilot test program of special pay for officers of reserve components of the Armed Forces in critically short wartime health care professions who agreed to serve in the Selected Reserve, was repealed and reenacted as section 302g of this title by Pub. L. 104–106, div. A, title VI, §614(a)(1), (c)(1), Feb. 10, 1996, 110 Stat. 360, 361.
 
 \[Pub. L. 104–106, div. A, title VI, §614(c)(2), Feb. 10, 1996, 110 Stat. 361, provided that: “The provisions of section 613 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456, formerly set out as a note above\], as in effect on the day before the date of the enactment of this Act \[Feb. 10, 1996\], shall continue to apply to agreements entered into under such section before such date.”\]
 
 #### Preservation of Entitlement for Reserve Medical Officers
 
-Pub. L. 96–513, title VI, §641, Dec. 12, 1980, 94 Stat. 2954, as amended by Pub. L. 97–22, §8(<i>o</i>), July 10, 1981, 97 Stat. 136, provided that: “Any person—
+Pub. L. 96–513, title VI, §641, Dec. 12, 1980, 94 Stat. 2954, as amended by Pub. L. 97–22, §8(o), July 10, 1981, 97 Stat. 136, provided that: “Any person—
 
 &emsp;“(1) who before June 30, 1980, served on active duty for not less than one year as a reserve officer of the Medical Corps or Dental Corps of the Army or the Medical Corps or Dental Corps of the Navy, as a reserve officer of the Air Force designated as a medical officer or dental officer, or as a reserve medical officer or dental officer of the Public Health Service; and
 
@@ -324,5 +324,5 @@ Pub. L. 96–513, title VI, §641, Dec. 12, 1980, 94 Stat. 2954, as amended by P
 
 #### Transition Provisions
 
-Section 7 of Pub. L. 96–284 provided that: “Notwithstanding any provision of the amendments made by this Act; \[see Short Title of 1980 Amendment note set out under section 101 of this title\], and in accordance with regulations to be prescribed by the Secretary of Defense, any officer of the Army, Navy, or Air Force who at any time before the effective date of the amendments made by this Act \[see Effective Date of 1980 Amendment note set out above\] was entitled to special pay under section 302 of title 37, United States Code, and any officer who after such effective date would have become entitled to special pay under such section (as in effect on the day before such effective date) had such section continued in effect, shall be paid basic pay and special pay under section 302 of such title (as in effect on and after the effective date of the amendments made by this Act) in a total amount not less than the total amount of the basic pay (as in effect on the day before such date) and special pay applicable (or which would have been applicable) to such officer under sections 302, 311, and 313 of such title (as in effect on the day before such date and computed on the rates of basic pay as in effect on the day before such date).”
+Pub. L. 96–284, §7, June 28, 1980, 94 Stat. 593, provided that: “Notwithstanding any provision of the amendments made by this Act; \[see Short Title of 1980 Amendment note set out under section 101 of this title\], and in accordance with regulations to be prescribed by the Secretary of Defense, any officer of the Army, Navy, or Air Force who at any time before the effective date of the amendments made by this Act \[see Effective Date of 1980 Amendment note set out above\] was entitled to special pay under section 302 of title 37, United States Code, and any officer who after such effective date would have become entitled to special pay under such section (as in effect on the day before such effective date) had such section continued in effect, shall be paid basic pay and special pay under section 302 of such title (as in effect on and after the effective date of the amendments made by this Act) in a total amount not less than the total amount of the basic pay (as in effect on the day before such date) and special pay applicable (or which would have been applicable) to such officer under sections 302, 311, and 313 of such title (as in effect on the day before such date and computed on the rates of basic pay as in effect on the day before such date).”
 

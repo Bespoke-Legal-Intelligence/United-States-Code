@@ -40,7 +40,7 @@
 
 &emsp;(1) whenever the Office of Personnel Management determines (in accordance with such procedures and subject to such terms or conditions as such Office by regulation prescribes) that 1 or more of the requirements of subsection (b) are no longer met; or
 
-&emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before the authority has been available for such position for at least 1 calendar year.
+&emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before theauthority has been available for such position for at least 1 calendar year.
 
 (f) The Office of Personnel Management may not authorize the exercise of authority under this section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
 

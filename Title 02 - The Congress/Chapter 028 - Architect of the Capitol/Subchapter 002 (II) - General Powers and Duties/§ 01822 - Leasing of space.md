@@ -38,5 +38,5 @@ Subsec. (b)(3). Pub. L. 110–161, §1306(a)(3), substituted “, for space to 
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §1306(b), Dec. 26, 2007, 121 Stat. 2243, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2004 \[Pub. L. 108–83\].”
+Pub. L. 110–161, div. H, title I, §1306(b), Dec. 26, 2007, 121 Stat. 2243, provided that: “The amendments madeby subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2004 \[Pub. L. 108–83\].”
 

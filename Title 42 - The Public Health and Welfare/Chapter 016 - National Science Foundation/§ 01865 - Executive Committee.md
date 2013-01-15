@@ -20,7 +20,7 @@ The Executive Committee shall render an annual report to the Board, and such oth
 
 #### Amendments
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struckout prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
+<b>1968</b>—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
 
 Subsec. (b). Pub. L. 90–407, §5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
 

@@ -8,7 +8,7 @@ The Secretary shall make in each fiscal year a grant to each health system agenc
 
 &emsp;(2) which has in effect an HSP and AIP reviewed by the Statewide Health Coordinating Council, and
 
-&emsp;(3) which, as determined under the review made under section 300n–4(c) <sup>1</sup> of this title, is organized and operated in the manner prescribed by section 300<i>l–</i>1(b) <sup>1</sup> of this title and isperforming its functions under section 300<i>l–</i>2 <sup>1</sup> of this title in a manner satisfactory to the Secretary,
+&emsp;(3) which, as determined under the review made under section 300n–4(c) <sup>1</sup> of this title, is organized and operated in the manner prescribed by section 300<i>l–</i>1(b) <sup>1</sup> of this title and is performing its functions under section 300<i>l–</i>2 <sup>1</sup> of this title in a manner satisfactory to the Secretary,
 
 > to enable the agency to establish and maintain an Area Health Service Development Fund from which it may make grants and enter into contracts in accordance with section 300<i>l–</i>2(c)(3) <sup>1</sup> of this title.
 
@@ -30,9 +30,9 @@ For the purpose of making payments pursuant to grants under subsection (a) of th
 
 #### References in Text
 
-Sections 300<i>l</i>–2, 300<i>l</i>–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Sections 300l–2, 300l–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-Section 300<i>l</i>–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 102–531, title III, §307, Oct. 27, 1992, 106 Stat. 3495, enacted section 1502A of act July 1, 1944, which is classified to section 300<i>l</i>–1 of this title.
+Section 300l–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 102–531, title III, §307, Oct. 27, 1992, 106 Stat. 3495, enacted section 1502A of act July 1, 1944, which is classified to section 300l–1 of this title.
 
 #### Amendments
 

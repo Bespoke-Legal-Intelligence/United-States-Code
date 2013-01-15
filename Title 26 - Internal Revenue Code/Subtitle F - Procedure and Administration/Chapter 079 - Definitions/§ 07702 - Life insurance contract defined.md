@@ -14,7 +14,7 @@ For purposes of this title, the term “life insurance contract” means any con
 
 #### (1) In general
 
-&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms ofthe contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
+&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms of the contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
 
 #### (2) Rules for applying paragraph (1)
 
@@ -390,19 +390,19 @@ Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. 
 
 #### Effective Date of 1988 Amendment
 
-Section 5011(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to contracts entered into on or after October 21, 1988.”
+Pub. L. 100–647, title V, §5011(d), Nov. 10, 1988, 102 Stat. 3661, provided that: “The amendments made by this section \[amending this section\] shall apply to contracts entered into on or after October 21, 1988.”
 
-Section 6078(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 221(a) of the Tax Reform Act of 1984 \[Pub. L. 98–369, which enacted this section\].”
+Pub. L. 100–647, title VI, §6078(b), Nov. 10, 1988, 102 Stat. 3709, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 221(a) of the Tax Reform Act of 1984 \[Pub. L. 98–369, which enacted this section\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1825(a)(4) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(j), Nov. 10, 1988, 102 Stat. 3583, provided that the amendment made by that section is effective with respect to contracts entered into after Oct. 22, 1986.
+Pub. L. 99–514, title XVIII, §1825(a)(4), Oct. 22, 1986, 100 Stat. 2846, as amended by Pub. L. 100–647, title I, §1018(j), Nov. 10, 1988, 102 Stat. 3583, provided that the amendment made by that section is effective with respect to contracts entered into after Oct. 22, 1986.
 
 Amendment by section 1825(a)(1)–(3), (b), (c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
-Section 221(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
+Pub. L. 98–369, div. A, title II, §221(d), July 18, 1984, 98 Stat. 772, as amended by Pub. L. 99–514, §2, title XVIII, §§1825(e), 1899A(69), Oct. 22, 1986, 100 Stat. 2095, 2848, 2962, provided that:
 
 “(1)
 
@@ -442,7 +442,7 @@ Certain contracts issued before october 1, 1984.—
 
 In general.—Subparagraph (A) shall be applied by substituting ‘September 30, 1984’ for ‘June 30, 1984’ in the case of a contract—
 
-&emsp;&emsp;&emsp;“(I) which would meet the requirements of section 7702 of such Code if ‘3 percent’ were substituted for ‘4 percent’ in section 7702(b)(2) of such Code, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and
+&emsp;&emsp;&emsp;“(I) which would meet the requirements of section 7702 of such Code if ‘3 percent’ were substituted for ‘4 percent’ in section 7702(b)(2) of suchCode, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and
 
 &emsp;&emsp;&emsp;“(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
 
@@ -472,7 +472,7 @@ Special rule for master contract.—For purposes of this subsection, in the case
 
 #### Interim Rules; Regulations; Standards Before Regulations Take Effect
 
-Section 5011(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5011(c), Nov. 10, 1988, 102 Stat. 3661, provided that:
 
 “(1)
 
@@ -484,9 +484,9 @@ Standards before regulations take effect.—In the case of any contract to which
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
-Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
+Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
 

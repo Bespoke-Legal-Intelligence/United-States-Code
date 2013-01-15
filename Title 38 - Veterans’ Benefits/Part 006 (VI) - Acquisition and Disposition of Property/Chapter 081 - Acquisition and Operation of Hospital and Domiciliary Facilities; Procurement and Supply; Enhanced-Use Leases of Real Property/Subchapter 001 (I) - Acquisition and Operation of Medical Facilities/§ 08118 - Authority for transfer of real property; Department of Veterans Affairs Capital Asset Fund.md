@@ -24,7 +24,7 @@
 
 &emsp;(D) Costs, including costs specified in subparagraph (A), associated with the transfer, lease, or adaptive use of a structure or other property under the jurisdiction of the Secretary that is listed on the National Register of Historic Places.
 
-(c) The Secretary shall include in the budget justification materials submitted to Congressfor any fiscal year in support of the President's budget for that fiscal year for the Department specification of the following:
+(c) The Secretary shall include in the budget justification materials submitted to Congress for any fiscal year in support of the President's budget for that fiscal year for the Department specification of the following:
 
 &emsp;(1) The real property transfers to be undertaken in accordance with this section during that fiscal year.
 

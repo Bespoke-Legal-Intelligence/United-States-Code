@@ -102,7 +102,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (J) Continued eligibility
 
-&emsp;&emsp;A determination that an applicant is not eligible for advance payments under thisparagraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
+&emsp;&emsp;A determination that an applicant is not eligible for advance payments under this paragraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
 
 #### (3) Marketability
 
@@ -248,7 +248,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (iii) Annual updates
 
-&emsp;&emsp;&emsp;Beginning with the 2009 crop year, the review under this subparagraph shall be updated on an annual basis as data is accumulated by the Secretary and other sources, so that the Corporation may make determinations regarding adjustments to the surcharge in a timely manner as quickly as evolving practices and data trends allow.
+&emsp;&emsp;&emsp;Beginning with the 2009 crop year, the review under this subparagraph shall be updated on an annual basis as data is accumulated by the Secretary and other sources, so that the Corporation may make determinations regarding adjustments to the surcharge in a timely manneras quickly as evolving practices and data trends allow.
 
 #### (C) Additional price election
 
@@ -382,7 +382,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (B) Authority
 
-&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities tocarry out research and development regarding a policy to insure commercial poultry production.
+&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure commercial poultry production.
 
 #### (C) Research and development
 
@@ -454,7 +454,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (1) Reimbursements
 
-&emsp;Of the amounts made available from the insurance fund established under section 1516(c)of this title, the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year <sup>3</sup>
+&emsp;Of the amounts made available from the insurance fund established under section 1516(c) of this title, the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year <sup>3</sup>
 
 #### (2) Contracting
 

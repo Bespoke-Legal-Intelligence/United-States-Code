@@ -6,7 +6,7 @@
 | [631a.](%C2%A7%2000631a%20-%20Congressional%20declaration%20of%20small%20business%20economic%20policy.md) | Congressional declaration of small business economic policy. |
 | [631b.](%C2%A7%2000631b%20-%20Reports%20to%20Congress%3B%20state%20of%20small%20business.md) | Reports to Congress; state of small business. |
 | [631c.](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md) | Small Business Manufacturing Task Force. |
-| [632\.](%C2%A7%2000632%20-%20Small-business%20concern.md) | Small-business concern. |
+| [632\.](%C2%A7%2000632%20-%20Definitions.md) | Definitions. |
 | [633\.](%C2%A7%2000633%20-%20Small%20Business%20Administration.md) | Small Business Administration. |
 | [633a.](%C2%A7%2000633a%20-%20Detailed%20justification%20for%20proposed%20changes%20in%20budget%20requests.md) | Detailed justification for proposed changes in budget requests. |
 | [634\.](%C2%A7%2000634%20-%20General%20powers.md) | General powers. |
@@ -34,9 +34,10 @@
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
 | [637c.](%C2%A7%2000637c%20-%20Definitions.md) | Definitions. |
+| [637d.](%C2%A7%2000637d%20-%20Subcontracting%20plan%20reports.md) | Subcontracting plan reports. |
 | [638\.](%C2%A7%2000638%20-%20Research%20and%20development.md) | Research and development. |
 | [638a.](%C2%A7%2000638a%20-%20GAO%20study%20with%20respect%20to%20venture%20capital%20operating%20company%2C%20hedge%20fund%2C%20and%20private%20equity%20firm%20involvement.md) | GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement. |
-| [638b.](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20Programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md) | Reducing vulnerability of SBIR and STTR Programs to fraud, waste, and abuse. |
+| [638b.](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md) | Reducing vulnerability of SBIR and STTR programs to fraud, waste, and abuse. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | [639a.](%C2%A7%2000639a%20-%20Review%20of%20loan%20program%3B%20submission%20of%20estimated%20needs%20for%20additional%20authorization.md) | Review of loan program; submission of estimated needs for additional authorization. |
 | [640\.](%C2%A7%2000640%20-%20Voluntary%20agreements%20among%20small-business%20concerns.md) | Voluntary agreements among small-business concerns. |
@@ -44,7 +45,9 @@
 | [642\.](%C2%A7%2000642%20-%20Requirements%20for%20loans.md) | Requirements for loans. |
 | [643\.](%C2%A7%2000643%20-%20Fair%20charge%20for%20use%20of%20Government-owned%20property.md) | Fair charge for use of Government-owned property. |
 | [644\.](%C2%A7%2000644%20-%20Awards%20or%20contracts.md) | Awards or contracts. |
+| [644a.](%C2%A7%2000644a%20-%20Small%20Business%20Procurement%20Advisory%20Council.md) | Small Business Procurement Advisory Council. |
 | [645\.](%C2%A7%2000645%20-%20Offenses%20and%20penalties.md) | Offenses and penalties. |
+| [645a.](%C2%A7%2000645a%20-%20Annual%20report%20on%20suspensions%20and%20debarments%20proposed%20by%20Small%20Business%20Administration.md) | Annual report on suspensions and debarments proposed by Small Business Administration. |
 | [646\.](%C2%A7%2000646%20-%20Liens.md) | Liens. |
 | [647\.](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md) | Duplication of activities of other Federal departments or agencies. |
 | [648\.](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md) | Small business development center program authorization. |
@@ -65,7 +68,7 @@
 | [657\.](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md) | Oversight of regulatory enforcement. |
 | [657a.](%C2%A7%2000657a%20-%20HUBZone%20program.md) | HUBZone program. |
 | [657b.](%C2%A7%2000657b%20-%20Veterans%20programs.md) | Veterans programs. |
-| [657c.](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md) | National Veterans Business Development Corporation. |
+| [657c.](%C2%A7%2000657c%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71699%28a%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202092.md) | Repealed. |
 | [657d.](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md) | Federal and State Technology Partnership Program. |
 | [657e.](%C2%A7%2000657e%20-%20Mentoring%20Networks.md) | Mentoring Networks. |
 | [657f.](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md) | Procurement program for small business concerns owned and controlled by service-disabled veterans. |
@@ -80,6 +83,8 @@
 | 657<i>o.</i> | Annual reports on disaster assistance. |
 | [657p.](%C2%A7%2000657p%20-%20Outreach%20regarding%20health%20insurance%20options%20available%20to%20children.md) | Outreach regarding health insurance options available to children. |
 | [657q.](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md) | Consolidation of contract requirements. |
+| [657r.](%C2%A7%2000657r%20-%20Mentor-protege%20programs.md) | Mentor-protege programs. |
+| [657s.](%C2%A7%2000657s%20-%20Limitations%20on%20subcontracting.md) | Limitations on subcontracting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,7 +97,7 @@
 - [&sect; 00631a - Congressional declaration of small business economic policy](%C2%A7%2000631a%20-%20Congressional%20declaration%20of%20small%20business%20economic%20policy.md)
 - [&sect; 00631b - Reports to Congress; state of small business](%C2%A7%2000631b%20-%20Reports%20to%20Congress%3B%20state%20of%20small%20business.md)
 - [&sect; 00631c - Small Business Manufacturing Task Force](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md)
-- [&sect; 00632 - Small-business concern](%C2%A7%2000632%20-%20Small-business%20concern.md)
+- [&sect; 00632 - Definitions](%C2%A7%2000632%20-%20Definitions.md)
 - [&sect; 00633 - Small Business Administration](%C2%A7%2000633%20-%20Small%20Business%20Administration.md)
 - [&sect; 00633a - Detailed justification for proposed changes in budget requests](%C2%A7%2000633a%20-%20Detailed%20justification%20for%20proposed%20changes%20in%20budget%20requests.md)
 - [&sect; 00634 - General powers](%C2%A7%2000634%20-%20General%20powers.md)
@@ -120,9 +125,10 @@
 - [&sect; 00637a - Repealed. Pub. L. 89&#8211;409, &sect;3(b), May 2, 1966, 80 Stat. 133](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md)
 - [&sect; 00637b - Availability of information](%C2%A7%2000637b%20-%20Availability%20of%20information.md)
 - [&sect; 00637c - Definitions](%C2%A7%2000637c%20-%20Definitions.md)
+- [&sect; 00637d - Subcontracting plan reports](%C2%A7%2000637d%20-%20Subcontracting%20plan%20reports.md)
 - [&sect; 00638 - Research and development](%C2%A7%2000638%20-%20Research%20and%20development.md)
 - [&sect; 00638a - GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement](%C2%A7%2000638a%20-%20GAO%20study%20with%20respect%20to%20venture%20capital%20operating%20company%2C%20hedge%20fund%2C%20and%20private%20equity%20firm%20involvement.md)
-- [&sect; 00638b - Reducing vulnerability of SBIR and STTR Programs to fraud, waste, and abuse](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20Programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md)
+- [&sect; 00638b - Reducing vulnerability of SBIR and STTR programs to fraud, waste, and abuse](%C2%A7%2000638b%20-%20Reducing%20vulnerability%20of%20SBIR%20and%20STTR%20programs%20to%20fraud%2C%20waste%2C%20and%20abuse.md)
 - [&sect; 00639 - Reporting requirements and agency cooperation](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md)
 - [&sect; 00639a - Review of loan program; submission of estimated needs for additional authorization](%C2%A7%2000639a%20-%20Review%20of%20loan%20program%3B%20submission%20of%20estimated%20needs%20for%20additional%20authorization.md)
 - [&sect; 00640 - Voluntary agreements among small-business concerns](%C2%A7%2000640%20-%20Voluntary%20agreements%20among%20small-business%20concerns.md)
@@ -130,7 +136,9 @@
 - [&sect; 00642 - Requirements for loans](%C2%A7%2000642%20-%20Requirements%20for%20loans.md)
 - [&sect; 00643 - Fair charge for use of Government-owned property](%C2%A7%2000643%20-%20Fair%20charge%20for%20use%20of%20Government-owned%20property.md)
 - [&sect; 00644 - Awards or contracts](%C2%A7%2000644%20-%20Awards%20or%20contracts.md)
+- [&sect; 00644a - Small Business Procurement Advisory Council](%C2%A7%2000644a%20-%20Small%20Business%20Procurement%20Advisory%20Council.md)
 - [&sect; 00645 - Offenses and penalties](%C2%A7%2000645%20-%20Offenses%20and%20penalties.md)
+- [&sect; 00645a - Annual report on suspensions and debarments proposed by Small Business Administration](%C2%A7%2000645a%20-%20Annual%20report%20on%20suspensions%20and%20debarments%20proposed%20by%20Small%20Business%20Administration.md)
 - [&sect; 00646 - Liens](%C2%A7%2000646%20-%20Liens.md)
 - [&sect; 00647 - Duplication of activities of other Federal departments or agencies](%C2%A7%2000647%20-%20Duplication%20of%20activities%20of%20other%20Federal%20departments%20or%20agencies.md)
 - [&sect; 00648 - Small business development center program authorization](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md)
@@ -151,7 +159,7 @@
 - [&sect; 00657 - Oversight of regulatory enforcement](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md)
 - [&sect; 00657a - HUBZone program](%C2%A7%2000657a%20-%20HUBZone%20program.md)
 - [&sect; 00657b - Veterans programs](%C2%A7%2000657b%20-%20Veterans%20programs.md)
-- [&sect; 00657c - National Veterans Business Development Corporation](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md)
+- [&sect; 00657c - Repealed. Pub. L. 112&#8211;239, div. A, title XVI, &sect;1699(a), Jan. 2, 2013, 126 Stat. 2092](%C2%A7%2000657c%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71699%28a%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202092.md)
 - [&sect; 00657d - Federal and State Technology Partnership Program](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md)
 - [&sect; 00657e - Mentoring Networks](%C2%A7%2000657e%20-%20Mentoring%20Networks.md)
 - [&sect; 00657f - Procurement program for small business concerns owned and controlled by service-disabled veterans](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md)
@@ -166,3 +174,5 @@
 - [&sect; 00657o - Annual reports on disaster assistance](%C2%A7%2000657o%20-%20Annual%20reports%20on%20disaster%20assistance.md)
 - [&sect; 00657p - Outreach regarding health insurance options available to children](%C2%A7%2000657p%20-%20Outreach%20regarding%20health%20insurance%20options%20available%20to%20children.md)
 - [&sect; 00657q - Consolidation of contract requirements](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md)
+- [&sect; 00657r - Mentor-protege programs](%C2%A7%2000657r%20-%20Mentor-protege%20programs.md)
+- [&sect; 00657s - Limitations on subcontracting](%C2%A7%2000657s%20-%20Limitations%20on%20subcontracting.md)

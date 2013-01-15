@@ -18,7 +18,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;&emsp;(C) encouraging schools to collaborate with technology industries to offer voluntary internships and mentoring programs;
 
-&emsp;(3) professional development programs, including providing comprehensive professional development (including initial teacher preparation) for career and technical educationteachers, faculty, administrators, and career guidance and academic counselors at the secondary and postsecondary levels, that support activities described in section 2342 of this title and—
+&emsp;(3) professional development programs, including providing comprehensive professional development (including initial teacher preparation) for career and technical education teachers, faculty, administrators, and career guidance and academic counselors at the secondary and postsecondary levels, that support activities described in section 2342 of this title and—
 
 &emsp;&emsp;(A) provide in-service and preservice training in career and technical education programs—
 
@@ -42,7 +42,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;&emsp;&emsp;(iii) develop a higher level of academic and industry knowledge and skills in career and technical education; and
 
-&emsp;&emsp;&emsp;(iv) effectively use applied learning that contributes to the academic and career and technical knowledge of the student; and
+&emsp;&emsp;&emsp;(iv) effectively use applied learning that contributes to the academic and careerand technical knowledge of the student; and
 
 &emsp;&emsp;(E) are coordinated with the teacher certification or licensing and professional development activities that the State carries out under title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\] and title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\];
 

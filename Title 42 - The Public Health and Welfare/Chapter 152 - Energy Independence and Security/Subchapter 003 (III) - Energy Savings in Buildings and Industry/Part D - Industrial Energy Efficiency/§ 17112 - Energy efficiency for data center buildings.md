@@ -102,7 +102,7 @@ If the Secretary and the Administrator make a determination under subsection (e)
 
 #### (g) Protection of proprietary information
 
-The Secretary, the Administrator, or the data center efficiency organization shall not discloseany proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the program established under this section.
+The Secretary, the Administrator, or the data center efficiency organization shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the program established under this section.
 
 (Pub. L. 110–140, title IV, §453, Dec. 19, 2007, 121 Stat. 1637.)
 

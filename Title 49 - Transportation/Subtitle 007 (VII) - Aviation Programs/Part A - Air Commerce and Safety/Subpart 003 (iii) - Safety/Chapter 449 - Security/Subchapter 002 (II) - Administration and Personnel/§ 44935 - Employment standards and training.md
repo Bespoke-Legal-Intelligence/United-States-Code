@@ -68,7 +68,7 @@ Qualifications.—Within 30 days after the date of enactment of the Aviation and
 
 &emsp;&emsp;(B)
 
-Background checks.—The Under Secretary shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
+Background checks.—The Under Secretary shall require that an individual to behired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
 
 &emsp;&emsp;(C)
 
@@ -298,11 +298,21 @@ Required Action.—The Assistant Secretary of Homeland Security (Transportation 
 
 Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance.”
 
-\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L.108–458, set out as a note under section 44901 of this title.\]
+\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
 
 #### Screener Personnel
 
-Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, provided that: “Notwithstanding any other provision of law, the Under Secretary of Transportation for Security may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.”
+Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, as amended by Pub. L. 112–171, §1(a), Aug. 16, 2012, 126 Stat. 1306, provided that:
+
+“(1)
+
+General authority.—Except as provided in paragraph (2), and notwithstanding any other provision of law, the Under Secretary of Transportation for Security may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.
+
+“(2)
+
+Uniformed services employment and reemployment rights act.—In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code.”
+
+\[Pub. L. 112–171, §1(b), Aug. 16, 2012, 126 Stat. 1306, provided that: “The amendments made by subsection (a) \[amending section 111(d) of Pub. L. 107–71, set out above\] shall take effect on the date that is 270 days after the date of the enactment of this Act \[Aug. 16, 2012\].”\]
 
 #### Certification of Screening Companies
 

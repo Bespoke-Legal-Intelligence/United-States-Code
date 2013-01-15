@@ -4,7 +4,7 @@
 
 (1) The Board of Trustees of the Institute shall be composed of 13 voting members and 6 nonvoting members as follows:
 
-&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States by and with the advice and consent of the Senate, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
+&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
 
 &emsp;(B) The nonvoting members shall consist of—
 
@@ -28,7 +28,7 @@
 
 &emsp;(E) ensure that a majority of the Board appointed under paragraph (1)(A) are Indians.
 
-(3) The President shall carry out the activities described in subparagraphs (B) and (C) of paragraph (2) through the Board. The Board may make recommendations based upon the nominations received, may make recommendations of its own, and may review and make comments to the President or the President's appointed staff on individuals being considered by the President for whom no nominations have been received.
+(3) The President shall carry out the activities described in subparagraphs (B) and (C) of paragraph (2) through the Board. The Board maymake recommendations based upon the nominations received, may make recommendations of its own, and may review and make comments to the President or the President's appointed staff on individuals being considered by the President for whom no nominations have been received.
 
 (4) Members of Congress appointed under this section, or their designees, shall be entitled to attend all meetings of the Board and to provide advice to the Board on any matter relating to the Institute.
 
@@ -88,17 +88,23 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) of this section 
 
 (3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4) of this section, relating to continuation of service pending replacement, shall continue to apply.
 
-(Pub. L. 99–498, title XV, §1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, §1331(a), July 23, 1992, 106 Stat. 805.)
+(Pub. L. 99–498, title XV, §1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, §1331(a), July 23, 1992, 106 Stat. 805; Pub. L. 112–166, §2(ee), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted “Subject to the provisions of subsection (i) of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “United States”.
+
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted “Subject to the provisions of subsection (i)of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
 
 Subsec. (a)(3), (4). Pub. L. 102–325, §1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (i). Pub. L. 102–325, §1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: “(i)
 
 Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 1992 Amendment
 

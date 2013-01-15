@@ -42,7 +42,7 @@ As used in this subchapter:
 
 Section 450b of title 25, referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
-Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, whichenacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
 Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, §638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 
@@ -66,7 +66,7 @@ Prior losses.—This section and the amendments made by this section do not appl
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effectiveand Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Short Title
 

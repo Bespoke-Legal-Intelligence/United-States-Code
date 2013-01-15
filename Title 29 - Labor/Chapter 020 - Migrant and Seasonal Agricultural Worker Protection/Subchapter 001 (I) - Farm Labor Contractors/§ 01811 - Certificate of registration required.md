@@ -6,7 +6,7 @@ No person shall engage in any farm labor contracting activity, unless such perso
 
 #### (b) Hire, employ, or use of any individual to perform farm labor contracting activities by farm labor contractor; liability of farm labor contractor for violations
 
-A farm labor contractor shall not hire, employ, or use any individual to perform farm labor contracting activities unless such individual has a certificate of registration, or a certificate of registration as an employee of the farm labor contractor employer, which authorizes the activity for which such individual is hired, employed, or used. The farm labor contractor shall be held responsible for violations of this chapter or any regulation under this chapter by any employee regardless of whether the employee possesses a certificate of registration based on the contractor's certificate of registration.
+A farm labor contractor shall not hire, employ, or use any individual to perform farmlabor contracting activities unless such individual has a certificate of registration, or a certificate of registration as an employee of the farm labor contractor employer, which authorizes the activity for which such individual is hired, employed, or used. The farm labor contractor shall be held responsible for violations of this chapter or any regulation under this chapter by any employee regardless of whether the employee possesses a certificate of registration based on the contractor's certificate of registration.
 
 #### (c) Possession and exhibition of certificate
 
@@ -20,5 +20,5 @@ The facilities and the services authorized by the Act of June 6, 1933 (29 U.S.C.
 
 #### References in Text
 
-The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, whichis classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

@@ -50,7 +50,7 @@ The Director shall conduct a national youth anti-drug media campaign (referred t
 
 #### (B) Testing and evaluation of advertising
 
-&emsp;&emsp;In using amounts for testing and evaluation of advertising under paragraph (1)(D), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this section in a fiscal year and no more than 10 percent of the advertising space purchased under this section in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needsor the advertisements will not be widely utilized in the national media campaign.
+&emsp;&emsp;In using amounts for testing and evaluation of advertising under paragraph (1)(D), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this section in a fiscal year and no more than 10 percent of the advertising space purchased under this section in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
 
 #### (C) Evaluation of effectiveness of media campaign
 
@@ -134,7 +134,7 @@ None of the amounts made available under subsection (b) may be obligated or expe
 
 &emsp;(5) To fund advertising that does not contain a primary message intended to reduce or prevent illicit drug use.
 
-&emsp;(6) To fund advertising containing a primary message intended to promote support for the media campaign or private sector contributions to the media campaign.
+&emsp;(6) To fund advertising containing a primary message intended to promote support for themedia campaign or private sector contributions to the media campaign.
 
 #### (f) Matching requirement
 
@@ -214,9 +214,9 @@ The Director shall, to the maximum extent feasible, use amounts made available u
 
 #### (2) Authority to use funds for other drug abuse upon certification that methamphetamine abuse fell during fiscal year 2007
 
-&emsp;With respect to fiscal year 2008 and any fiscal year thereafter, if the Director certifies in writing to Congress that domestic methamphetamine laboratory seizures (as reported to the El Paso Intelligence Center of the Drug Enforcement Administration) decreased to at least 75 percent of the 2006 level, or the Director has documented a highly, statistically significant increase in a specific drug, from a baseline determined by locally collected data, that can be defined as a local drug crisis, the Director may apply paragraph (1)(A) for that fiscal year with respect to advertisements specifically intended to reduce the use of such other drugs.
+&emsp;With respect to fiscal year 2008 and any fiscal year thereafter, if the Director certifies in writing to Congress that domestic methamphetamine laboratory seizures (as reported to the El Paso Intelligence Center of the Drug Enforcement Administration) decreased to atleast 75 percent of the 2006 level, or the Director has documented a highly, statistically significant increase in a specific drug, from a baseline determined by locally collected data, that can be defined as a local drug crisis, the Director may apply paragraph (1)(A) for that fiscal year with respect to advertisements specifically intended to reduce the use of such other drugs.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There is authorized to be appropriated to the Office to carry out this section, $195,000,000 for each of fiscal years 2007 and 2008 and $210,000,000 for each of fiscal years 2009 through 2011.
 
@@ -272,13 +272,13 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (k) Secretary of Transportation;
 
-(<i>l</i>) Secretary of Education;
+(l) Secretary of Education;
 
 (m) Secretary of Veterans Affairs;
 
 (n) Secretary of Homeland Security;
 
-(<i>o</i>) Representative of the United States of America to the United Nations;
+(o) Representative of the United States of America to the United Nations;
 
 (p) Director of the Office of Management and Budget;
 

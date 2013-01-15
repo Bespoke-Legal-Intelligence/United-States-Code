@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary is authorized to make grants to institutions of higher education orconsortia of such institutions for the purpose of establishing, strengthening, and operating—
+&emsp;&emsp;The Secretary is authorized to make grants to institutions of higher education or consortia of such institutions for the purpose of establishing, strengthening, and operating—
 
 &emsp;&emsp;&emsp;(i) comprehensive foreign language and area or international studies centers and programs; and
 
@@ -104,7 +104,7 @@ No funds may be expended under this part for undergraduate travel except in acco
 
 #### (1) Graduate level recipients
 
-&emsp;A stipend awarded to a graduate level recipient may include allowances for dependentsand for travel for research and study in the United States and abroad.
+&emsp;A stipend awarded to a graduate level recipient may include allowances for dependents and for travel for research and study in the United States and abroad.
 
 #### (2) Undergraduate level recipients
 

@@ -14,7 +14,7 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 #### Effective Date
 
-Section 3 of act June 15, 1943, provided that this section is effective July 1, 1943.
+Act June 15, 1943, ch. 125, §3, 57 Stat. 153, provided that this section is effective July 1, 1943.
 
 <i><sup>1</sup></i><i> So in original. The words “home or” probably should not appear.</i>
 

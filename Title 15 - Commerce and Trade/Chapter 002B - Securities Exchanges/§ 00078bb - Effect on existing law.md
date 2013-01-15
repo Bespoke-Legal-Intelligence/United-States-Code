@@ -26,7 +26,7 @@
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the bindingeffect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in anyself-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -142,7 +142,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (E) Covered security
 
-&emsp;&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) of that Act \[15 U.S.C. 77d(2)\].
+&emsp;&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
 
 #### (F) Rule of construction
 
@@ -158,7 +158,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(2) of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 
@@ -201,4 +201,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 &emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
-&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
+&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever isgreater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
 
 > The Secretary shall use up to, but not more than, 20 per centum of the funds appropriated for use in any fiscal year under this section for the purpose of making grants to cities and urban counties eligible under this paragraph.
 
@@ -100,7 +100,7 @@ Applications for assistance under this section shall—
 
 &emsp;(iii) any funds available for such grants in any previous competition that are recaptured.
 
-(C) Notwithstanding any other provision of this section, in each competition for grants under this section, no city or urban county may be awarded a grant or grants in an amount in excess of $10,000,000 until all cities and urban counties which submitted fundable applications have been awarded a grant. If funds are available for additional grants after each city and urban county submitting a fundable application is awarded one or more grants under the preceding sentence, then additional grants shall be made so that each city or urban county that has submitted multiple applications is awarded one additional grant in order of ranking, with no single city or urban county receiving more than one grant approval in any subsequent series ofgrant determinations within the same competition.
+(C) Notwithstanding any other provision of this section, in each competition for grants under this section, no city or urban county may be awarded a grant or grants in an amount in excess of $10,000,000 until all cities and urban counties which submitted fundable applications have been awarded a grant. If funds are available for additional grants after each city and urban county submitting a fundable application is awarded one or more grants under the preceding sentence, then additional grants shall be made so that each city or urban county that has submitted multiple applications is awarded one additional grant in order of ranking, with no single city or urban county receiving more than one grant approval in any subsequent series of grant determinations within the same competition.
 
 (D) All grants under this section, including grants to cities and urban counties described in subsection (b)(2) of this section, shall be awarded in accordance with subparagraph (C) so that all grants under this section are made in order of ranking.
 
@@ -148,7 +148,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (4) Appeal of adverse determination
 
-&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1) or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section,nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
+&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1) or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section, nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
 
 #### (5) Assistance for individuals adversely affected by prohibited relocations
 
@@ -182,7 +182,7 @@ A grant may be made under this section only where the Secretary determines that 
 
 In making grants under this section, the Secretary shall take such steps as the Secretary deems appropriate to assure that the amount of the grant provided is the least necessary to make the project feasible.
 
-#### (<i>l</i>) Power of Secretary to waive requirement that town or township be closely settled
+#### (l) Power of Secretary to waive requirement that town or township be closely settled
 
 For purposes of this section, the Secretary may reduce or waive the requirement in section 5302(a)(5)(B)(ii) of this title that a town or township be closely settled.
 
@@ -196,9 +196,9 @@ In the case of any application which identifies any property in accordance with 
 
 (2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
-#### (<i>o</i>) Special provisions for years after 1983
+#### (o) Special provisions for years after 1983
 
-If no amounts are set aside under, or amounts are precluded from being appropriated for this section for fiscal years after fiscal year 1983, any amount which is or becomes available for useunder this section after fiscal year 1983 shall be added to amounts appropriated under section 5303 of this title, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title..<sup>2</sup>
+If no amounts are set aside under, or amounts are precluded from being appropriated for this section for fiscal years after fiscal year 1983, any amount which is or becomes available for use under this section after fiscal year 1983 shall be added to amounts appropriated under section 5303 of this title, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title..<sup>2</sup>
 
 #### (p) Unincorporated portions of urban counties
 
@@ -234,7 +234,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I, §121, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(<i>l</i>)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
 
 #### References in Text
 
@@ -252,7 +252,7 @@ Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (<i>o</i>). Pub. L. 103–233, §232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title.”
+<b>1994</b>—Subsec. (o). Pub. L. 103–233, §232(b), inserted before period at end “, except that amounts available to the Secretary for use under this subsection as of October 1, 1993, and amounts released to the Secretary pursuant to subsection (t) of this section may be used to provide grants under section 5308(q) of this title.”
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
@@ -314,13 +314,13 @@ Subsecs. (p) to (r). Pub. L. 98–181, §121(g), added subsecs. (p) to (r).
 
 Subsec. (n). Pub. L. 96–399, §110(b), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 96–399, §117(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 96–399, §117(a), added subsec. (o).
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–153, §104, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 96–153, §104(b), designated existing provisions as par. (1) and substituted “(1) Except in thecase of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
+Subsec. (e). Pub. L. 96–153, §104(b), designated existing provisions as par. (1) and substituted “(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, in establishing criteria” for “In establishing criteria” in opening sentence, redesignated existing cls. (1) to (3) as (A) to (C), and added pars. (2) and (3).
 
-Subsecs. (<i>l</i>), (m). Pub. L. 96–153, §105, added subsecs. (<i>l</i>) and (m).
+Subsecs. (l), (m). Pub. L. 96–153, §105, added subsecs. (l) and (m).
 
 <b>1978</b>—Subsec. (c)(6). Pub. L. 95–557, §103(g), added par. (6).
 
@@ -332,7 +332,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 #### Effective Date of 1988 Amendment
 
-Section 515(f), (g) of Pub. L. 100–242 provided that:
+Pub. L. 100–242, title V, §515(f), (g), Feb. 5, 1988, 101 Stat. 1934, provided that:
 
 “(f)
 
@@ -344,23 +344,23 @@ Applicability.—
 
 &emsp;“(1)
 
-In general.—The amendments made by this section \[amending this section\] shall be applicable to the making of urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date on which final regulations issued by the Secretary under subsection (f) become effective. For the fiscal year in which the amendments made by this section become applicable, such amendments shall only apply with respect to the aggregate amount awarded for such grants on or after such effective date.
+In general.—The amendments made by this section \[amending this section\] shall be applicable tothe making of urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date on which final regulations issued by the Secretary under subsection (f) become effective. For the fiscal year in which the amendments made by this section become applicable, such amendments shall only apply with respect to the aggregate amount awarded for such grants on or after such effective date.
 
 &emsp;“(2)
 
 Sunset of urban county competition rule.—Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed.”
 
-Section 516(b) of Pub. L. 100–242 provided that: “Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\].”
+Pub. L. 100–242, title V, §516(b), Feb. 5, 1988, 101 Stat. 1936, provided that: “Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\].”
 
 #### Effective Date of 1986 Amendments
 
-Section 106 of Pub. L. 100–202 provided that the amendment made by Pub. L. 99–500 and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided that the amendment made by Pub. L. 99–500 and 99–591 is effective on date of enactment \[Oct. 18, 1986\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1987 \[Pub. L. 99–500 and 99–591\].
 
 Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
 
 #### Effective Date of 1981 Amendment
 
-Section 308(c) of Pub. L. 97–35 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5320 of this title\] shall become effective on the effective date of regulations implementing such subsections. As soon as practicable, but not later than January 1, 1982, the Secretary shall issue such final rules and regulations as the Secretary determines are necessary to carry out such subsections.”
+Pub. L. 97–35, title III, §308(c), Aug. 13, 1981, 95 Stat. 396, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5320 of this title\] shall become effective on the effective date of regulations implementing such subsections. As soon as practicable, but not later than January 1, 1982, the Secretary shall issue such final rules and regulations as the Secretary determines are necessary to carry out such subsections.”
 
 #### Effective Date of 1978 Amendment
 
@@ -372,7 +372,7 @@ Section effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as 
 
 #### Implementation of Urban Development Action Grant Retention Program
 
-Section 232(c)(2) of Pub. L. 103–233 provided that: “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
+Pub. L. 103–233, title II, §232(c)(2), Apr. 11, 1994, 108 Stat. 368, provided that: “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
 
 #### New Towns Demonstration Program for Emergency Relief of Los Angeles
 
@@ -504,7 +504,7 @@ Affordability.—Units of varying sizes and costs shall be designed and develope
 
 &emsp;“(3)
 
-Homeownership units.—Dwelling units developed under the demonstration program for purchase by the occupant shall initially be sold at prices affordable to families eligible to purchase such units.Such units shall be available for purchase only by families having incomes not exceeding the amount specified in paragraph (2). The demonstration shall develop 2-, 3-, and 4-bedroom units for purchase.
+Homeownership units.—Dwelling units developed under the demonstration program for purchase by the occupant shall initially be sold at prices affordable to families eligible to purchase such units. Such units shall be available for purchase only by families having incomes not exceeding the amount specified in paragraph (2). The demonstration shall develop 2-, 3-, and 4-bedroom units for purchase.
 
 &emsp;“(4)
 
@@ -626,7 +626,7 @@ Required Certifications.—The certifications referred to in subsection (b)(2) s
 
 &emsp;“(1) the assistance will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Civil Rights Act of 1968 \[see Short Title note set out under section 3601 of this title\], and the unit of general local government will affirmatively further fair housing;
 
-&emsp;“(2) the projected use of funds has been developed in a manner that gives maximum feasible priority to activities which are designed to meet community development needs that have been delayed because of the lack of fiscal resources of the unit of general local government or which are designed to address conditions that pose a serious and immediate threat to the health or welfare of the community;
+&emsp;“(2) the projected use of funds has been developed in a manner that gives maximum feasible priority to activities which are designed to meet community development needs that have been delayed because of thelack of fiscal resources of the unit of general local government or which are designed to address conditions that pose a serious and immediate threat to the health or welfare of the community;
 
 &emsp;“(3) any projected use of funds for public services will benefit primarily low- and moderate-income families;
 
@@ -692,7 +692,7 @@ Acquisition of real property.—The acquisition of real property (including air 
 
 &emsp;&emsp;“(D) to be used for the provision of public works, facilities, and improvements eligible for assistance under this section;
 
-&emsp;&emsp;“(E) to be used as a facility for coordinating and providing activities and services for high risk youth\(as such term is defined in section 509A \[now 517\] of the Public Health Service Act \[42 U.S.C. 290bb–23\]); or
+&emsp;&emsp;“(E) to be used as a facility for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act \[42 U.S.C. 290bb–23\]); or
 
 &emsp;&emsp;“(F) to be used for other public purposes.
 
@@ -714,7 +714,7 @@ Public services.—The provision of public services within the new town demonstr
 
 &emsp;&emsp;“(B)
 
-Housing activities.—The acquisition and rehabilitation of housing for low- and moderate-income families within the new town demonstration area, except that any grantee that uses amounts received under this section for housing activities under this subparagraph shall make not less than 15 percent of the amount used for such housing activities available only for community housing development organizations and nonprofit organizations (as such terms are defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704\]) for such activities;
+Housing activities.—The acquisition and rehabilitation of housing for low- and moderate-income families within the new town demonstration area, except that any grantee that uses amounts received under this section for housing activities under this subparagraph shall make not less than 15 percent of the amount used for such housing activities available only for community housing development organizations and nonprofit organizations (assuch terms are defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704\]) for such activities;
 
 &emsp;&emsp;“(C)
 
@@ -796,7 +796,7 @@ Pub. L. 100–242, title V, §515(e), Feb. 5, 1988, 101 Stat. 1933, which requir
 
 #### Neighborhood Development Demonstration
 
-Section 123 of Pub. L. 98–181, as amended, which provided for a demonstration program to determine the feasibility of supporting eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations, was transferred to section 5318a of this title.
+Pub. L. 98–181, title I \[title I, §123\], Nov. 30, 1983, 97 Stat. 1172, which provided for a demonstration program to determine the feasibility of supporting eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations, was transferred to section 5318a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

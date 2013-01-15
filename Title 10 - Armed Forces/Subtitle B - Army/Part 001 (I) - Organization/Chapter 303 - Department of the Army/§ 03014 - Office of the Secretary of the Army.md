@@ -42,7 +42,7 @@
 
 (4) The vesting in the Office of the Secretary of the Army of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Army (including the Army Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Army.
 
-(5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
+(5) The head of the office or other entity established or designated by the Secretary to conductthe auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
 (d)(1) Subject to paragraph (2), the Office of the Secretary of the Army shall have sole responsibility within the Office of the Secretary and the Army Staff for the function of research and development.
 
@@ -88,7 +88,7 @@ Requirements of subsec. (c)(5) of this section applicable with respect to any pe
 
 #### Effective Date
 
-Section 532(a) of Pub. L. 99–433 provided that: “The provisions of subsections (c) and (d) of each of sections 3014, 5014, and 8014 of title 10, United States Code, as added by sections 501, 511, and 521, respectively, shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 1, 1986\].”
+Pub. L. 99–433, title V, §532(a), Oct. 1, 1986, 100 Stat. 1063, provided that: “The provisions of subsections (c) and (d) of each of sections 3014, 5014, and 8014 of title 10, United States Code, as added by sections 501, 511, and 521, respectively, shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 1, 1986\].”
 
 #### Exceptions and Adjustments to Limitations on Personnel
 

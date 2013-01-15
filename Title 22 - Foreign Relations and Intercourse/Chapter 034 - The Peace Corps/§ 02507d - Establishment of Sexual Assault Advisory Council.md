@@ -6,7 +6,7 @@ There is established a Sexual Assault Advisory Council (in this section referred
 
 #### (b) Membership
 
-The Council shall be composed of not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011, who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. NoPeace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+The Council shall be composed of not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011, who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
 
 #### (c) Functions; meetings
 

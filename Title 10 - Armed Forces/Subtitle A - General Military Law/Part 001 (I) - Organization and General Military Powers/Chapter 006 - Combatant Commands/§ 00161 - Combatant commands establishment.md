@@ -40,7 +40,7 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, requ
 
 #### Initial Review of Combatant Commands
 
-Section 212 of Pub. L. 99–433 set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+Pub. L. 99–433, title II, §212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
 
 #### Disestablishment of United States Joint Forces Command
 

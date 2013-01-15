@@ -58,7 +58,7 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (2) Revocation
 
-&emsp;Owner-managed status of an interest may be revoked upon written request of the owners (including the parents or legal guardians of minors or incompetent owners) of all trust or restricted interests in the parcel, submitted to the Secretary in accordance with regulations adopted under subsection (<i>l</i>).<sup>1</sup> The revocation shall become effective as of the date on which the last of all such requests has been delivered to the Secretary.
+&emsp;Owner-managed status of an interest may be revoked upon written request of the owners (including the parents or legal guardians of minors or incompetent owners) of all trust or restricted interests in the parcel, submitted to the Secretary in accordance with regulations adopted under subsection (l).<sup>1</sup> The revocation shall become effective as of the date on which the last of all such requests has been delivered to the Secretary.
 
 #### (3) Effect of revocation
 
@@ -94,7 +94,7 @@ Subject to subsections (c), (f), and (h) of this section, nothing in this sectio
 
 Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (d)(1), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-Subsection (<i>l</i>), referred to in subsec. (h)(2), probably should be a reference to section 10 of Pub. L. 108–374, which is set out as a note under section 2201 of this title and relates to the adoption of regulations. This section does not contain a subsec. (<i>l</i>).
+Subsection (l), referred to in subsec. (h)(2), probably should be a reference to section 10 of Pub. L. 108–374, which is set out as a note under section 2201 of this title and relates to the adoption of regulations. This section does not contain a subsec. (l).
 
 #### Amendments
 

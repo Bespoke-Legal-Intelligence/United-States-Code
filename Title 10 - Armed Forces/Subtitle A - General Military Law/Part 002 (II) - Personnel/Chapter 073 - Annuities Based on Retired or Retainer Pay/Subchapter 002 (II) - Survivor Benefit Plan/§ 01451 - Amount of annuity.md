@@ -36,7 +36,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-Reserve-component annuity.—In the case of a reserve-component annuity providedto a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
 &emsp;&emsp;(A)
 
@@ -68,7 +68,7 @@ Insurable Interest Beneficiary.—
 
 &emsp;(1)
 
-Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) of this title, the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with section 1452(c) of this title.
+Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) of this title, the monthly annuity payable to the beneficiaryshall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with section 1452(c) of this title.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-DIC offset.—An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a)of title 38. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
+DIC offset.—An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under section 1311(a) of title 38. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
 
 &emsp;(3)
 
@@ -196,7 +196,7 @@ Social security offset.—An annuity computed under this subsection shall be red
 
 &emsp;&emsp;(A)
 
-Social security computation.—The amount of the survivor benefit, if any, to which the surviving spouse (or the former spouse, in the case of a former spouse beneficiary who became a former spouse under a divorce that became final after November 29, 1989) would be entitled under title II of the Social Security Act (42 U.S.C. 401 et seq.) based solely upon service by the person concerned as described in section 210(<i>l</i>)(1) of such Act (42 U.S.C. 410(<i>l</i>)(1)) and calculated assuming that the person concerned lives to age 65.
+Social security computation.—The amount of the survivor benefit, if any, to which the surviving spouse (or the former spouse, in the case of a former spouse beneficiary who became a former spouse under a divorce that became final after November 29, 1989) would be entitled under title II of the Social Security Act (42 U.S.C. 401 et seq.) based solely upon service by the person concerned as described in section 210(l)(1) of such Act (42 U.S.C. 410(l)(1)) and calculated assuming that the person concerned lives to age 65.
 
 &emsp;&emsp;(B)
 
@@ -212,11 +212,11 @@ Treatment of deductions made on account of work.—For the purpose of paragraph 
 
 &emsp;&emsp;(B)
 
-Treatment of certain periods for which social security refunds are made.—In the computation of any reduction made under paragraph (3), there shall be excluded any period of service described in section 210(<i>l</i>)(1) of the Social Security Act (42 U.S.C. 410(<i>l</i>)(1))—
+Treatment of certain periods for which social security refunds are made.—In the computation of any reduction made under paragraph (3), there shall be excluded any period of service described in section 210(l)(1) of the Social Security Act (42 U.S.C. 410(l)(1))—
 
 &emsp;&emsp;&emsp;(i) which was performed after December 1, 1980; and
 
-&emsp;&emsp;&emsp;(ii) which involved periods of service of less than 30 continuous days for which theperson concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
+&emsp;&emsp;&emsp;(ii) which involved periods of service of less than 30 continuous days for which the person concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
 
 (f)
 
@@ -246,7 +246,7 @@ Increases in annuities when retired pay increased.—Whenever retired pay is inc
 
 &emsp;&emsp;(B)
 
-Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay).
+Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at suchtime if the person were alive (and otherwise entitled to such pay).
 
 &emsp;&emsp;(C)
 
@@ -288,7 +288,7 @@ Recomputation of Annuity for Certain Beneficiaries.—In the case of an annuity 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620,as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to section 6413(c) of Title 26, Internal Revenue Code.
 
@@ -388,7 +388,7 @@ Subsec. (d). Pub. L. 96–402, §3(c), substituted reference to “subsection (a
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted “The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—” for “If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.”, and added pars. (1) and (2), and substituted “For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work” for “For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work”.
 
-Subsec. (b). Pub. L. 95–397, §204(c), substituted “The monthly annuity payable under section 1450(a)(4) of this title shall be—” for “The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.”, added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
+Subsec. (b). Pub. L. 95–397, §204(c), substituted “The monthly annuity payable under section 1450(a)(4) ofthis title shall be—” for “The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.”, added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
 
 Subsec. (d). Pub. L. 95–397, §204(d), added subsec. (d).
 
@@ -404,11 +404,11 @@ Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L.
 
 #### Effective Date of 1989 Amendment
 
-Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes a former spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title XIV, §1407(b)(2), Nov. 29, 1989, 103 Stat. 1589, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes a former spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 652(b) of Pub. L. 100–456 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments under the Survivor Benefit Plan established under subchapter II of chapter 73 of title 10, United States Code, for periods after February 28, 1986.”
+Pub. L. 100–456, div. A, title VI, §652(b), Sept. 29, 1988, 102 Stat. 1991, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments under the Survivor Benefit Plan established under subchapter II of chapter 73 of title 10, United States Code, for periods after February 28, 1986.”
 
 #### Effective Date of 1986 Amendment
 
@@ -418,7 +418,7 @@ Amendment by section 642(b) of Pub. L. 99–661 applicable to payments for perio
 
 Amendment by section 711(a) of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
-Section 711(b) of Pub. L. 99–145 provided that the repeal of section 641 of Pub. L. 98–525 \[amending this section and enacting provision set out below\] is effective Sept. 1, 1985.
+Pub. L. 99–145, title VII, §711(b), Nov. 8, 1985, 99 Stat. 670, provided that the repeal of section 641 of Pub. L. 98–525 \[amending this section and enacting provision set out below\] is effective Sept. 1, 1985.
 
 #### Effective Date of 1984 Amendment
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 94–496 effective Sept. 11, 1972, see section 3 of Pub. L.
 
 #### Adjustment of Annuities for Survivors of Certain Members Who Died While on Active Duty Between September 21, 1972 and November 29, 1990
 
-Section 1403(b)–(d) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title XIV, §1403(b)–(d), Nov. 29, 1989, 103 Stat. 1579, provided that:
 
 “(b)
 

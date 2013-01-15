@@ -6,11 +6,17 @@
 
 (c) If at any time the need for any such lands or materials for such purposes shall no longer exist, notice of the fact shall be given by the State transportation department to the Secretary and such lands or materials shall immediately revert to the control of the Secretary of the Department from which they had been appropriated.
 
-(d) The provisions of this section shall apply only to projects constructed on a Federal-aid system or under the provisions of chapter 2 of this title.
+(d) The provisions of this section shall apply only to projects constructed on a Federal-aid highway or under the provisions of chapter 2 of this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 112–141, div. A, title I, §1104(c)(6), July 6, 2012, 126 Stat. 427.)
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 substituted “highway” for “system”.
+
 <b>1998</b>—Subsecs. (b), (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

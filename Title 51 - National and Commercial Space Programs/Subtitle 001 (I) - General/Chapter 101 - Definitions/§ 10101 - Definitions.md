@@ -28,6 +28,10 @@ Historical and Revision Notes
 
 Title-wide definitions for the terms “Administration” and “Administrator” are added for clarity and convenience.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–273, §1, Jan. 14, 2013, 126 Stat. 2454, provided that: “This Act \[amending section 50915 of this title, section 18313 of Title 42, The Public Health and Welfare, and provisions set out as a note under section 1701 of Title 50, War and National Defense\] may be cited as the ‘Space Exploration Sustainability Act’.”
+
 #### Short Title of 2008 Act
 
 Pub. L. 110–422, §1(a), Oct. 15, 2008, 122 Stat. 4779, provided that: “This Act \[see Tables for classification\] may be cited as the ‘National Aeronautics and Space Administration Authorization Act of 2008’.”

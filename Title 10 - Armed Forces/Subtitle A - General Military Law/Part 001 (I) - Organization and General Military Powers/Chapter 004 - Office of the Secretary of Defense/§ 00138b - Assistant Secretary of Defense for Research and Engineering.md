@@ -4,9 +4,9 @@
 
 (b)(1) The Assistant Secretary of Defense for Research and Engineering, in consultation with the Director of Developmental Test and Evaluation, shall periodically review and assess the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense and report on the findings of such reviews and assessments to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-(2) The Assistant Secretary shall submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense.
+(2) The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §135; amended Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, §501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, §105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, §101(c) \[title X, §903(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; renumbered §137 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, §903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered §139a, Pub. L. 107–314, div. A, title IX, §901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, §104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered §138b and amended Pub. L. 111–383, div. A, title IX, §901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §135; amended Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, §501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, §105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, §101(c) \[title X, §903(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; renumbered §137 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, §903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered §139a, Pub. L. 107–314, div. A, title IX, §901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, §104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered §138b and amended Pub. L. 111–383, div. A, title IX, §901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325; Pub. L. 112–239, div. A, title IX, §904(e)(1), Jan. 2, 2013, 126 Stat. 1867.)
 
 Historical and Revision Notes
 
@@ -38,6 +38,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–239 substituted “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall submit” for “The Assistant Secretary shall submit”.
+
 <b>2011</b>—Pub. L. 111–383, §901(k)(1)(B), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering” in section catchline.
 
 Pub. L. 111–383, §901(b)(6), renumbered section 139a of this title as this section.
@@ -52,7 +54,7 @@ Subsec. (c). Pub. L. 111–383, §901(b)(6)(B), redesignated subsec. (c) as (b).
 
 <b>2002</b>—Pub. L. 107–314 renumbered section 137 of this title as this section.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 <b>1996</b>—Pub. L. 104–106, §903(a), (c)(3), which directed repeal of this section eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 

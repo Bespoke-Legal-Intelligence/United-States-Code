@@ -8,21 +8,21 @@ Refusal or Revocation of Clearance.—If any owner, agent, master, officer, or p
 
 Clearance Upon Filing of Bond or Other Surety.—The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1079, §70118; renumbered §70121and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (4), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (D), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1079, §70118; renumbered §70121 and amended Pub. L. 109–241, title IX, §901(l)(2), (4), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (D), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–304, §15(33)(B), (D)(i). See 2006 Amendment notes below.
 
-<b>2006</b>—Pub. L. 109–304, §15(33)(B), which directed renumbering identical to that made by Pub. L. 109–241, §901(<i>l</i>)(2), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
+<b>2006</b>—Pub. L. 109–304, §15(33)(B), which directed renumbering identical to that made by Pub. L. 109–241, §901(l)(2), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
-Pub. L. 109–241, §901(<i>l</i>)(2), renumbered section 70118 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
+Pub. L. 109–241, §901(l)(2), renumbered section 70118 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
 
 Subsec. (a). Pub. L. 109–304, §15(33)(D)(ii), substituted “section 60105 of this title” for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)”.
 
-Pub. L. 109–304, §15(33)(D)(i), which directed amendment identical to that made by Pub. L. 109–241, §901(<i>l</i>)(4), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
+Pub. L. 109–304, §15(33)(D)(i), which directed amendment identical to that made by Pub. L. 109–241, §901(l)(4), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
-Pub. L. 109–241, §901(<i>l</i>)(4), substituted “section 70119” for “section 70120”.
+Pub. L. 109–241, §901(l)(4), substituted “section 70119” for “section 70120”.
 
 #### Construction of 2006 Amendment
 

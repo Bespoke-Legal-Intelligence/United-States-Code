@@ -38,7 +38,7 @@ An academic department, program or unit of an institution of higher education, i
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1134<i>o</i> of this title, prior to repeal by Pub. L. 105–244.
+Provisions similar to this section were contained in section 1134o of this title, prior to repeal by Pub. L. 105–244.
 
 A prior section 1135b, Pub. L. 89–329, title X, §1021, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561, and amended, which related to purpose of and authority for minority science improvement program, was renumbered section 351 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067a of this title.
 

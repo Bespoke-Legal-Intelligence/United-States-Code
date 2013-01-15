@@ -6,7 +6,7 @@
 
 &emsp;(2) “migrant worker” has the same meaning given that term in section 31501 of this title.
 
-&emsp;(3) “motor carrier of migrant workers” means a motor carrier of migrant workers subject to the jurisdiction of the Secretary ofTransportation under section 31502(c) of this title.
+&emsp;(3) “motor carrier of migrant workers” means a motor carrier of migrant workers subject to the jurisdiction of the Secretary of Transportation under section 31502(c) of this title.
 
 (b)
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–548 provided that: “This Act \[enacting section 508 of this title, amending this section and section 521 of this title, and enacting provisions set out as notes under section 508 of this title\] may be cited as the ‘Intermodal Safe Container Transportation Act of 1992’.”
+Pub. L. 102–548, §1, Oct. 28, 1992, 106 Stat. 3646, provided that: “This Act \[enacting section 508 of this title, amending this section and section 521 of this title, and enacting provisions set out as notes under section 508 of this title\] may be cited as the ‘Intermodal Safe Container Transportation Act of 1992’.”
 

@@ -24,25 +24,9 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
 
-#### (c) Limitation based on amount of tax; carryforward of unused credit
+#### (c) Carryforward of unused credit
 
-#### (1) Limitation based on amount of tax
-
-&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
-
-&emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section) and section 27 for the taxable year.
-
-#### (2) Carryforward of unused credit
-
-#### (A) Rule for years in which all personal credits allowed against regular and alternative minimum tax
-
-&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
-
-#### (B) Rule for other years
-
-&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
 
 #### (d) Definitions
 
@@ -50,7 +34,7 @@ For purposes of this section—
 
 #### (1) Qualified solar water heating property expenditure
 
-&emsp;The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
+&emsp;The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and usedas a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
 
 #### (2) Qualified solar electric property expenditure
 
@@ -116,7 +100,7 @@ For purposes of this section—
 
 #### (5) Tenant-stockholder in cooperative housing corporation
 
-&emsp;In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treatedas having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
+&emsp;In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
 
 #### (6) Condominiums
 
@@ -126,7 +110,7 @@ For purposes of this section—
 
 #### (B) Condominium management association
 
-&emsp;&emsp;For purposes of this paragraph, the term “condominium management association” means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
+&emsp;&emsp;For purposes of this paragraph, the term “condominium management association”means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
 
 #### (7) Allocation in certain cases
 
@@ -150,13 +134,11 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–240 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to limitation based on amount of tax and carryforward of unused credit.
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
@@ -202,13 +184,17 @@ Subsec. (g). Pub. L. 109–432, §206(a), substituted “2008” for “2007”.
 
 <b>2005</b>—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.” See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.”
 
 Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
 “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -222,7 +208,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

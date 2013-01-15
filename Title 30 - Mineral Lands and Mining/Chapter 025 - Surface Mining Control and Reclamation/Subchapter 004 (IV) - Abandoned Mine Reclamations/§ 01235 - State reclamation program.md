@@ -58,9 +58,9 @@ The Secretary shall require annual and other reports as may be necessary to be s
 
 Indian tribes having within their jurisdiction eligible lands pursuant to section 1234 of this title or from which coal is produced, shall be considered as a “State” for the purposes of this subchapter except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes.
 
-#### (<i>l</i>) State liability
+#### (l) State liability
 
-No State shall be liable under any provision of Federal law for any costs or damages as a result of action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
+No State shall be liable under any provision of Federal law for any costs or damages as a resultof action taken or omitted in the course of carrying out a State abandoned mine reclamation plan approved under this section. This subsection shall not preclude liability for cost or damages as a result of gross negligence or intentional misconduct by the State. For purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.
 
 (Pub. L. 95–87, title IV, §405, Aug. 3, 1977, 91 Stat. 459; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 416; Pub. L. 101–508, title VI, §§6007, 6012(d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–295, 1388–298.)
 
@@ -70,7 +70,7 @@ No State shall be liable under any provision of Federal law for any costs or dam
 
 Subsec. (h). Pub. L. 101–508, §6012(d)(2), substituted “Upon approval” for “Upon approved”.
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §6007, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–508, §6007, added subsec. (l).
 
 <b>1987</b>—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 

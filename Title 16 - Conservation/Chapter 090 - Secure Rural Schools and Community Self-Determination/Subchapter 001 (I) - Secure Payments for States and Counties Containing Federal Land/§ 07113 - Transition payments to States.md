@@ -18,7 +18,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the sum of the amounts paid for fiscal year 2006 under section 102(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the covered State that have elected under section 7112(b) of this title to receive a share of the State payment for fiscal year 2009; and
 
-&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of thistitle to receive the county payment for fiscal year 2009; and
+&emsp;&emsp;&emsp;(ii) the sum of the amounts paid for fiscal year 2006 under section 103(a)(2) <sup>1</sup> (as in effect on September 29, 2006) for the eligible counties in the State of Oregon that have elected under section 7112(b) of this title to receive the county payment for fiscal year 2009; and
 
 &emsp;&emsp;(C) for fiscal year 2010, 73 percent of—
 
@@ -44,13 +44,13 @@ The following payments shall be distributed among the eligible counties in the S
 
 &emsp;(1) Payments to the State of California under subsection (b).
 
-&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for fiscal year 2011.
+&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 and 2012.
 
 #### (e) Treatment of payments
 
 For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under section 7112(a) of this title.
 
-(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899.)
+(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, §100101(a)(4), July 6, 2012, 126 Stat. 906.)
 
 #### References in Text
 
@@ -61,6 +61,10 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 #### Prior Provisions
 
 A prior section 103 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–141 substituted “each of fiscal years 2011 and 2012” for “fiscal year 2011”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

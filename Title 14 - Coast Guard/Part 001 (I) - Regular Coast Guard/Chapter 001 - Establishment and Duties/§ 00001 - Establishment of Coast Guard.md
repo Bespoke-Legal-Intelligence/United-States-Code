@@ -1,8 +1,8 @@
 ### §1. Establishment of Coast Guard
 
-The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Homeland Security, except when operating as a service in the Navy.
+The Coast Guard, established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(1), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(1), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, §217(1), Dec. 20, 2012, 126 Stat. 1555.)
 
 #### Historical and Revision Notes
 
@@ -16,6 +16,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Homeland Security, except when operating as a service in the Navy.”
+
 <b>2002</b>—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 
 <b>1976</b>—Pub. L. 94–546 substituted “Department of Transportation” for “Treasury Department”.
@@ -24,9 +26,13 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–213, §1(a), Dec. 20, 2012, 126 Stat. 1540, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Coast Guard and Maritime Transportation Act of 2012’.”
+
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–281, title V, §501, Oct. 15, 2010, 124 Stat. 2951, provided that: “This title \[enacting sections 57 to 59, 102, and 200 of this title and section 2116 of Title 46, Shipping, amending sections 47, 50, 51, 52, 93, and 290 of this title and section 3309 of Title 46, repealing section 50a of this title, and enacting provisions set out as a note under section 50 of this title\] may be cited as the ‘Coast Guard Modernization Act of 2010’.”
+Pub. L. 111–281, title V, §501, Oct. 15, 2010, 124 Stat. 2951, provided that: “This title \[enacting sections 57 to 59, 102, and 200 of this title and section 2116 of Title 46, Shipping, amending sections 47, 50, 51, 52, 93, and 290 ofthis title and section 3309 of Title 46, repealing section 50a of this title, and enacting provisions set out as a note under section 50 of this title\] may be cited as the ‘Coast Guard Modernization Act of 2010’.”
 
 #### Short Title of 2006 Amendment
 
@@ -38,7 +44,7 @@ Pub. L. 108–293, §1, Aug. 9, 2004, 118 Stat. 1028, provided that: “This Act
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–295, title III, §301, Nov. 25, 2002, 116 Stat. 2102, provided that: “This title \[amending sections 259, 260, 271, 336, and 511 of this title, sections 1203, 1231a,2073, 2302, and 2752 of Title 33, Navigation and Navigable Waters, and sections 2110, 2302, 4508, 7302, 8701, and 13110 of Title 46, Shipping, and enacting provisions set out as notes under sections 88 and 92 of this title and section 1113 of Title 33\] may be cited as the ‘Coast Guard Personnel and Maritime Safety Act of 2002’.”
+Pub. L. 107–295, title III, §301, Nov. 25, 2002, 116 Stat. 2102, provided that: “This title \[amending sections 259, 260, 271, 336, and 511 of this title, sections 1203, 1231a, 2073, 2302, and 2752 of Title 33, Navigation and Navigable Waters, and sections 2110, 2302, 4508, 7302, 8701, and 13110 of Title 46, Shipping, and enacting provisions set out as notes under sections 88 and 92 of this title and section 1113 of Title 33\] may be cited as the ‘Coast Guard Personnel and Maritime Safety Act of 2002’.”
 
 Pub. L. 107–295, title IV, §401, Nov. 25, 2002, 116 Stat. 2113, provided that: “This title \[see Tables for classification\] may be cited as the ‘Omnibus Maritime and Coast Guard Improvements Act of 2002’.”
 

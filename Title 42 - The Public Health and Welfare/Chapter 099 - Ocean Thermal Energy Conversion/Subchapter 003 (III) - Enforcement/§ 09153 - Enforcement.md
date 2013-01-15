@@ -10,7 +10,7 @@ To enforce the provisions of this chapter in or on board any ocean thermal energ
 
 &emsp;(1) enter or board, and inspect, any ocean thermal energy conversion facility or plantship or any vessel which is subject to the provisions of this chapter;
 
-&emsp;(2) search the vessel if the officer has reasonable cause to believe that the vessel has beenused or employed in the violation of any provision of this chapter;
+&emsp;(2) search the vessel if the officer has reasonable cause to believe that the vessel has been used or employed in the violation of any provision of this chapter;
 
 &emsp;(3) arrest any person subject to section 9151 of this title if the officer has reasonable cause to believe that the person has committed a criminal act prohibited by sections 9151 and 9152(d) of this title;
 
@@ -46,7 +46,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–623 substituted “in or on board any ocean thermal energy conversion facility or plantship or any vessel” for “on board any ocean thermal energy conversion facility or plantship or other vessel” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–623 substituted “in or on board any ocean thermal energy conversion facility orplantship or any vessel” for “on board any ocean thermal energy conversion facility or plantship or other vessel” in provisions preceding par. (1).
 
 Subsec. (b)(1). Pub. L. 98–623 substituted “enter or board, and inspect, any ocean thermal energy conversion facility or plantship or” for “board and inspect”.
 

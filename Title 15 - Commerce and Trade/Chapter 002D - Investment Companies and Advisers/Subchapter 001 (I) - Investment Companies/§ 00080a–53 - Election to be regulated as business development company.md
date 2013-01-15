@@ -4,9 +4,9 @@
 
 Any company defined in section 80a–2(a)(48)(A) and (B) of this title may elect to be subject to the provisions of sections 80a–54 through 80a–64 of this title by filing with the Commission a notification of election, if such company—
 
-&emsp;(1) has a class of its equity securities registered under section 78<i>l</i> of this title; or
+&emsp;(1) has a class of its equity securities registered under section 78l of this title; or
 
-&emsp;(2) has filed a registration statement pursuant to section 78<i>l</i> of this title for a class of its equity securities.
+&emsp;(2) has filed a registration statement pursuant to section 78l of this title for a class of its equity securities.
 
 #### (b) Form and manner of notification; effect
 

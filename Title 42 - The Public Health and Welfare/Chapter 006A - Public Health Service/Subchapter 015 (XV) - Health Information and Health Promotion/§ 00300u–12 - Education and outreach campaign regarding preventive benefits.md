@@ -50,7 +50,7 @@ The Secretary, in consultation with private-sector experts, shall maintain or en
 
 #### (e) Dissemination of information through providers
 
-The Secretary, acting through the Centers for Disease Control and Prevention, shall develop and implement a plan for the dissemination of health promotion and disease prevention information consistent with national priorities, to health care providers who participate in Federal programs, including programs administered bythe Indian Health Service, the Department of Veterans Affairs, the Department of Defense, and the Health Resources and Services Administration, and Medicare and Medicaid.
+The Secretary, acting through the Centers for Disease Control and Prevention, shall develop and implement a plan for the dissemination of health promotion and disease prevention information consistent with national priorities, to health care providers who participate in Federal programs, including programs administered by the Indian Health Service, the Department of Veterans Affairs, the Department of Defense, and the Health Resources and Services Administration, and Medicare and Medicaid.
 
 #### (f) Personalized prevention plans
 

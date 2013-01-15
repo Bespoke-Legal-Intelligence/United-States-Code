@@ -16,7 +16,7 @@ Each officer on the retired list who first became a member of a uniformed servic
 
 &emsp;(1) the retired pay base determined under section 1407 of title 10; by
 
-&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
+&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if theofficer's service were service as a member of the Armed Forces.
 
 #### (c) Treatment of full and fractional parts of months in computing years of service
 
@@ -36,5 +36,5 @@ Each officer on the retired list who first became a member of a uniformed servic
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 853<i>o</i> of this title prior to repeal by Pub. L. 107–372.
+Provisions similar to those in this section were contained in section 853o of this title prior to repeal by Pub. L. 107–372.
 

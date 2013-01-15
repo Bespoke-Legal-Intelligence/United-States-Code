@@ -4,7 +4,7 @@ The purpose of this part is to enable the Attorney General, though <sup>1</sup>
 
 &emsp;(1) improved internal civil and criminal court functions, responses, practices, and procedures;
 
-&emsp;(2) education for court-based and court-related personnel on issues relating to victims’ needs, including safety, security, privacy, confidentiality, and economic independence, aswell as information about perpetrator behavior and best practices for holding perpetrators accountable;
+&emsp;(2) education for court-based and court-related personnel on issues relating to victims’ needs, including safety, security, privacy, confidentiality, and economic independence, as well as information about perpetrator behavior and best practices for holding perpetrators accountable;
 
 &emsp;(3) collaboration and training with Federal, State, tribal, territorial, and local public agencies and officials and nonprofit, nongovernmental organizations to improve implementation and enforcement of relevant Federal, State, tribal, territorial, and local law;
 

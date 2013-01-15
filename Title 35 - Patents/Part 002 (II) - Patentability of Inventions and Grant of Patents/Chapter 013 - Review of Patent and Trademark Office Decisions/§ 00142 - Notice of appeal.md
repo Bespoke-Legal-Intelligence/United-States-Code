@@ -16,7 +16,7 @@ Changes in language are made.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
-<b>1984</b>—Pub. L. 98–620 amended section generally, substituting “the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date” for “the appellant shall give notice thereof to the Commissioner, and shall file in thePatent and Trademark Office his reasons of appeal, specifically set forth in writing, within such time after the date of the decision appealed from, not less than sixty days, as the Commissioner appoints”.
+<b>1984</b>—Pub. L. 98–620 amended section generally, substituting “the appellant shall file in the Patent and Trademark Office a written notice of appeal directed to the Commissioner, within such time after the date of the decision from which the appeal is taken as the Commissioner prescribes, but in no case less than 60 days after that date” for “the appellant shall give notice thereof to the Commissioner, and shall file in the Patent and Trademark Office his reasons of appeal, specifically set forth in writing, within such time after the date of the decision appealed from, not less than sixty days, as the Commissioner appoints”.
 
 <b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment
 
-Section 414(c) of Pub. L. 98–620 provided that: “The amendments made by this section \[amending this section, sections 143 and 144 of this title, and section 1071 of Title 15, Commerce and Trade\] shall apply to proceedings pending in the Patent and Trademark Office on the date of the enactment of this Act \[Nov. 8, 1984\] and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date.”
+Pub. L. 98–620, title IV, §414(c), Nov. 8, 1984, 98 Stat. 3364, provided that: “The amendments made by this section \[amending this section, sections 143 and 144 of this title, and section 1071 of Title 15, Commerce and Trade\] shall apply to proceedings pending in the Patent and Trademark Office on the date of the enactment of this Act \[Nov. 8, 1984\] and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date.”
 
 #### Effective Date of 1982 Amendment
 

@@ -34,7 +34,7 @@
 
 (b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750;Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 #### Amendments
 
@@ -126,19 +126,19 @@ Application of Amendments.—(1) The amendments made by section 7258(a) \[amendi
 
 #### Effective Date of 1984 Amendment
 
-Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §670, Oct. 12, 1984, 98 Stat. 2129, provided that:
 
-“(a) Except as provided in subsection (b), this division and the amendments made by this division \[see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever occurs later.
+“(a) Except as provided in subsection (b), this division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, see Short Title of 1984 Amendment note below\] and the amendments made by this division shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever occurs later.
 
-“(b) Paragraph (2) of section 331(c) of the Runaway and Homeless Youth Act, as added by section 657(d) of this division \[section 5751(c)(2) of this title\], shall not apply with respect to any grant or payment made before the effective date of this joint resolution \[Oct. 12, 1984\].”
+“(b) Paragraph (2) of section 331(c) of the Runaway and Homeless Youth Act \[42 U.S.C. 5751(c)(2)\], as added by section 657(d) of this division , shall not apply with respect to any grant or payment made before the effective date of this joint resolution \[Oct. 12, 1984\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, §263(c), as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 
-Section 263(a), (b) of Pub. L. 93–415, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(<i>l</i>) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Short Title of 2008 Amendment
 
@@ -168,11 +168,11 @@ Pub. L. 100–690, title VII, §7250(a), Nov. 18, 1988, 102 Stat. 4434, provided
 
 #### Short Title of 1984 Amendment
 
-Section 610 of Pub. L. 98–473 provided that: “This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, enacting sections 5714a, 5714b, and 5771 to 5777 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614, 5616, 5632 to 5635, 5637, 5638, 5651, 5653, 5654, 5657, 5659, 5661, 5671, 5672, 5702, 5711 to 5714, and 5751 of this title, repealing sections 5617, 5655, and 5741 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘JuvenileJustice, Runaway Youth, and Missing Children's Act Amendments of 1984’.”
+Pub. L. 98–473, title II, §610, Oct. 12, 1984, 98 Stat. 2107, provided that: “This Division \[division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, enacting sections 5714a, 5714b, and 5771 to 5777 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614, 5616, 5632 to 5635, 5637, 5638, 5651, 5653, 5654, 5657, 5659, 5661, 5671, 5672, 5702, 5711 to 5714, and 5751 of this title, repealing sections 5617, 5655, and 5741 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice, Runaway Youth, and Missing Children's Act Amendments of 1984’.”
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632 to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
+Pub. L. 96–509, §1, Dec. 8, 1980, 94 Stat. 2750, provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632 to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
 
 #### Short Title of 1977 Amendment
 
@@ -180,13 +180,13 @@ Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 93–415 provided: “That this Act \[enacting this chapter, sections 3772 to 3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
+Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: “That this Act \[enacting this chapter, sections 3772 to 3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
 
-Section 301 of title III of Pub. L. 93–415, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
+Pub. L. 93–415, title III, §301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
+Pub. L. 93–415, title IV, §401, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
 
-Section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
+Pub. L. 93–415, title V, §501, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
 
 A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of this chapter) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, §12222(a).
 

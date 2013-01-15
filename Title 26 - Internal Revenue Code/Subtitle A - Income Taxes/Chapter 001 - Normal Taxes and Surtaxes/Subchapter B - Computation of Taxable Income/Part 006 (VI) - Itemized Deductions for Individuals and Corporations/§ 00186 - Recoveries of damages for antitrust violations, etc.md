@@ -70,5 +70,5 @@ Section 4 of the Clayton Act, referred to in subsec. (b)(3), is classified to se
 
 #### Effective Date
 
-Section 904(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1968.”
+Pub. L. 91–172, title IX, §904(c), Dec. 30, 1969, 83 Stat. 712, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1968.”
 

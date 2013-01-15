@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 &emsp;“child's State” means the State in which a child resides.
 
-&emsp;“child's home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+&emsp;“child's home State” means the State in which a child lived with a parent or a personacting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
 &emsp;“child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
@@ -106,11 +106,11 @@ In general.—In a proceeding to establish, modify, or enforce a child support o
 
 &emsp;(2)
 
-Law of state of issuance of order.—In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply thelaw of the State of the court that issued the order.
+Law of state of issuance of order.—In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
 
 &emsp;(3)
 
-Period of limitation.—In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+Period of limitation.—In an action to enforce arrears under a child support order, acourt shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
 (i)
 
@@ -162,7 +162,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 2 of Pub. L. 103–383 provided that:
+Pub. L. 103–383, §2, Oct. 20, 1994, 108 Stat. 4063, provided that:
 
 “(a)
 

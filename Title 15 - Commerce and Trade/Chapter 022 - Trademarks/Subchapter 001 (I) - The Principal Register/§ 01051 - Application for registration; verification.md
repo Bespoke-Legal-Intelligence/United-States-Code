@@ -68,7 +68,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L.93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
+(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Prior Provisions
 
@@ -124,7 +124,7 @@ Pub. L. 105–330, title II, §201(b), Oct. 30, 1998, 112 Stat. 3070, provided t
 
 #### Effective Date of 1988 Amendment
 
-Section 136 of title I of Pub. L. 100–667 provided that: “This title and the amendments made by this title \[see Short Title of 1988 Amendment note below\] shall become effective on the date which is one year after the date of enactment of this Act \[Nov. 16, 1988\].”
+Pub. L. 100–667, title I, §136, Nov. 16, 1988, 102 Stat. 3948, provided that: “This title and the amendments made by this title \[see Short Title of 1988 Amendment note below\] shall become effective on the date which is one year after the date of enactment of this Act \[Nov. 16, 1988\].”
 
 #### Effective Date of 1975 Amendment
 
@@ -140,7 +140,7 @@ Pub. L. 111–146, §1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063,1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
+Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
 
 #### Short Title of 2004 Amendment
 
@@ -154,7 +154,7 @@ Pub. L. 107–273, div. C, title III, §13401, Nov. 2, 2002, 116 Stat. 1913, pro
 
 #### Short Title of 1999 Amendments
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that: “This title \[enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title\] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that:“This title \[enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title\] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
 
 Pub. L. 106–43, §1, Aug. 5, 1999, 113 Stat. 218, provided that: “This Act \[amending sections 1052 to 1054, 1060, 1063, 1064, 1091, 1092, 1114, 1116 to 1118, 1122, and 1124 to 1127 of this title, enacting provisions set out as a note under section 1052 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Trademarks Amendments Act of 1999’.”
 
@@ -172,7 +172,7 @@ Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Section 101 of title I of Pub. L. 100–667 provided that: “This title \[amending this section and sections 1052 to 1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title\] may be cited as the ‘Trademark Law Revision Act of 1988’.”
+Pub. L. 100–667, title I, §101, Nov. 16, 1988, 102 Stat. 3935, provided that: “This title \[amending this section and sections 1052 to 1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title\] may be cited as the ‘Trademark Law Revision Act of 1988’.”
 
 #### Short Title of 1984 Amendment
 
@@ -184,9 +184,9 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 
 #### Repeal of Inconsistent Provisions; Certain Provisions Not Affected
 
-Section 46(a) of act July 5, 1946, as amended by Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
+Act July 5, 1946, ch. 540, title XI, §46(a), 60 Stat. 444, as amended by Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
 
-Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
+Act July 5, 1946, ch. 540, title XI, §48, 60 Stat. 446, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
 
 #### Savings Provision
 
@@ -194,7 +194,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3008\], Nov. 29, 1999, 11
 
 #### Separability
 
-Section 50 of act July 5, 1946, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby.”
+Act July 5, 1946, ch. 540, title XI, §50, 60 Stat. 446, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -202,13 +202,13 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Pending Proceedings and Existing Registration and Rights Under Prior Acts
 
-Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appealpending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
+Act July 5, 1946, ch. 540, title XI, §46(a), 60 Stat. 444, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
 
-Sections 46(b) and 47 of act July 5, 1946, provided:
+Act July 5, 1946, ch. 540, title XI, §§46(b), 47, 60 Stat. 445, provided:
 
 “(b) Registrations now existing under the Act of March 3, 1881, or the Act of February 20, 1905 \[sections 81 to 109 of this title\], shall continue in full force and effect for the unexpired terms thereof and may be renewed under the provisions of section 9 of this Act \[section 1059 of this title\]. Such registrations and the renewals thereof shall be subject to and shall be entitled to the benefits of the provisions of this Act \[this chapter\] to the same extent and with the same force and effect as though registered on the principal register established by this Act \[this chapter\] except as limited in sections 8, 12, 14, and 15 of this Act \[sections 1058, 1062, 1064, 1065, of this title\]. Marks registered under the ‘ten-year proviso’ of section 5 of the Act of February 20, 1905, as amended \[former section 85 of this title\], shall be deemed to have become distinctive of the registrant's goods in commerce under paragraph (f) of section 2 of this Act \[section 1052 of this title\] and may be renewed under section 9 hereof \[section 1059 of this title\] as marks coming within said paragraph.
 
-“Registrations now existing under the Act of March 19, 1920 \[former sections 121 to 128 of this title\], shall expire six months after the effective date of this Act \[July 5, 1947\], or twenty years from the dates of their registrations, whichever date is later. Such registrations shall be subject to and entitled to the benefits of the provisions of this Act \[this chapter\] relating to marks registered on the supplemental register established by this Act \[this chapter\], and may not be renewed unless renewal is required to support foreign registrations. In that event renewal may be effected on the supplemental register under the provisions of section 9 of this Act \[section 1059 of this title\].
+“Registrations now existing under the Act of March 19, 1920 \[former sections 121 to 128 of this title\], shall expire six months after the effective date of this Act \[July 5, 1947\], or twenty years from the dates of their registrations, whichever date is later. Such registrations shall be subject to and entitled to the benefits of the provisions of this Act \[this chapter\] relating tomarks registered on the supplemental register established by this Act \[this chapter\], and may not be renewed unless renewal is required to support foreign registrations. In that event renewal may be effected on the supplemental register under the provisions of section 9 of this Act \[section 1059 of this title\].
 
 “Marks registered under previous Acts may, if eligible, also be registered under this Act \[this chapter\].
 
@@ -218,7 +218,7 @@ Sec. 47. (a) All applications for registration pending in the Patent Office at t
 
 “(b) In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act \[July 5, 1947\], the court, if it be of the opinion that the provisions of this Act \[this chapter\] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner \[now Director\] or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper.”
 
-Section 49 of said act July 5, 1946, provided: “Nothing herein \[in this chapter\] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act \[July 5, 1947\].”
+Act July 5, 1946, ch. 540, title XI, §49, 60 Stat. 446, provided: “Nothing herein \[in this chapter\] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act \[July 5, 1947\].”
 
 #### Emergency Relief From Postal Situation Affecting Trademark Cases
 

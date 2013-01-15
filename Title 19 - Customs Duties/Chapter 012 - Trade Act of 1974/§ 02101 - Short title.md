@@ -10,7 +10,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### References to Other Laws Deemed References to Trade Act of 1974
 
-Section 602(f) of Pub. L. 93–618, as amended by Pub. L. 96–39, title XI, §1106(h)(3), July 26, 1979, 93 Stat. 313, provided that: “All provisions of law (other than this Act \[this chapter\], the Trade Expansion Act of 1962 \[chapter 7 of this title\], and the Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under section 1654 of this title\]), in effect after the date of enactment of this Act \[Jan. 3, 1975\], referring to section 350 of the Tariff Act of 1930 \[section 1351 of this title\], to that section as amended, to the Act entitled ‘An Act to amend the Tariff Act of 1930,’ approved June 12, 1934 \[enacting sections 1352, 1353, and 1354 and amending section 1351 of this title\], to that Act as amended or to the Trade Expansion Act of 1962, or to agreements entered into, or proclamations issued, or actions taken under any of such provisions, shall be construed, unless clearly precluded by the context, to refer also to this Act, or to agreements entered into or proclamations or orders issued pursuant to this Act.”
+Pub. L. 93–618, title VI, §602(f), Jan. 3, 1975, 88 Stat. 2072, as amended by Pub. L. 96–39, title XI, §1106(h)(3), July 26, 1979, 93 Stat. 313, provided that: “All provisions of law (other than this Act \[this chapter\], the Trade Expansion Act of 1962 \[chapter 7 of this title\], and the Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under section 1654 of this title\]), in effect after the date of enactment of this Act \[Jan. 3, 1975\], referring to section 350 of the Tariff Act of 1930 \[section 1351 of this title\], to that section as amended, to the Act entitled ‘An Act to amend the Tariff Act of 1930,’ approved June 12, 1934 \[enacting sections 1352, 1353, and 1354 and amending section 1351 of this title\], to that Act as amended or to the Trade Expansion Act of 1962, or to agreements entered into, or proclamations issued, or actions taken under any of such provisions, shall be construed, unless clearly precluded by the context, to refer also to this Act, or to agreements entered into or proclamations or orders issued pursuant to this Act.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–208, §1(a), Dec. 14, 2012, 126 Stat. 1496, provided that: “This Act \[amending section 2241 of this title and enacting provisions set out as notes under section 2434 of this title and section 5811 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Accountability Act of 2012’.”
 
 #### Short Title of 2011 Amendment
 
@@ -56,5 +60,5 @@ Pub. L. 98–573, title V, §501(a), Oct. 30, 1984, 98 Stat. 3018, provided that
 
 #### Separability
 
-Section 605 of Pub. L. 93–618 provided that: “If any provision of this Act \[see References in Text note above\], or the application of any provision to any circumstances or persons shall be held invalid, the validity of the remainder of this Act, and of the application of such provision to other circumstances or persons, shall not be affected thereby.”
+Pub. L. 93–618, title VI, §605, Jan. 3, 1975, 88 Stat. 2073, provided that: “If any provision of this Act \[see References in Text note above\], or the application of any provision to any circumstances or persons shall be held invalid, the validity of the remainder of this Act, and of the application of such provision to other circumstances or persons, shall not be affected thereby.”
 

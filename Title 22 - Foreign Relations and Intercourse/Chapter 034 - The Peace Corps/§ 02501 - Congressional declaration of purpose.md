@@ -22,7 +22,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date
 
-Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
+Pub. L. 87–293, title I, §28, formerly §27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
 
 #### Short Title of 2011 Amendment
 
@@ -30,11 +30,11 @@ Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act 
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–331 provided: “That this Act \[amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title\] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
+Pub. L. 95–331, §1, Aug. 2, 1978, 92 Stat. 414, provided: “That this Act \[amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title\] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 87–293 provided that: “This Act \[enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26\] may be cited as the ‘Peace Corps Act’.”
+Pub. L. 87–293, title I, §1, Sept. 22, 1961, 75 Stat. 612, provided that: “This Act \[enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26\] may be cited as the ‘Peace Corps Act’.”
 
 #### Designation of Paul D. Coverdell Peace Corps Headquarters
 
@@ -54,7 +54,7 @@ Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment an
 
 #### Executive Order No. 11041
 
-Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003,which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
+Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003, which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
 
 #### Executive Order No. 11603
 
@@ -84,7 +84,7 @@ Peace Corps
 
 1–107. The reports required by Section 11 of the Act, as amended (\[former\] 22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
-1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
+1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to thePresident for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
 
 1–109. Nothing in this Order shall be deemed to impair or limit the powers or functions vested in the Secretary of State by the Act \[this chapter\].
 
@@ -130,7 +130,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effectivevoluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 

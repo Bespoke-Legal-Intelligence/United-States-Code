@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+General Requirements.—The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 
 (b)
 
@@ -14,7 +14,7 @@ Applications and Selection.—A State wishing to participate in the program must
 
 &emsp;(3) deciding the State uses a programming process acceptable to the Secretary;
 
-&emsp;(4) finding that the State has agreed to comply with United States Government standardrequirements for administering the block grant; and
+&emsp;(4) finding that the State has agreed to comply with United States Government standard requirements for administering the block grant, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements; and
 
 &emsp;(5) finding that the State has agreed to provide the Secretary with program information the Secretary requires.
 
@@ -22,7 +22,17 @@ Applications and Selection.—A State wishing to participate in the program must
 
 Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85.)
+(d)
+
+Environmental Analysis and Coordination Requirements.—A Federal agency, other than the Federal Aviation Administration, that is responsible for issuing an approval, license, or permit to ensure compliance with a Federal environmental requirement applicable to a project or activity to be carried out by a State using amounts from a block grant made under this section shall—
+
+&emsp;(1) coordinate and consult with the State;
+
+&emsp;(2) use the environmental analysis prepared by the State for the project or activity if such analysis is adequate; and
+
+&emsp;(3) as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85; Pub. L. 112–95, title V, §502, Feb. 14, 2012, 126 Stat. 103.)
 
 Historical and Revision Notes
 
@@ -74,7 +84,17 @@ This amends 49:47128(c) to correct an error in the codification enacted by secti
 
 This makes a clarifying amendment to the catchline for 49:47128(d).
 
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §502(a), substituted “issue guidance” for “prescribe regulations” in first sentence and “guidance” for “regulations” in second sentence.
+
+Subsec. (b)(4). Pub. L. 112–95, §502(b), inserted before semicolon “, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regulations and guidance, and other Federal environmental requirements”.
+
+Subsec. (d). Pub. L. 112–95, §502(c), added subsec. (d).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–181 substituted “9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter” for “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter”.
 

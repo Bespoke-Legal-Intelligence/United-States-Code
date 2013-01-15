@@ -2,7 +2,7 @@
 
 #### (a) Agreements required
 
-(1) The Secretary is authorized to enter into agreements with eligible institutions underwhich such institution may use not more than 10 percent or $75,00 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
+(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $75,00 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
 
 (2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
 
@@ -18,7 +18,7 @@ Agreements under subsection (a) of this section shall—
 
 &emsp;(4) provide satisfactory assurance that the location or development of jobs pursuant to programs assisted under this section will not result in the displacement of employed workers or impair existing contracts for services;
 
-&emsp;(5) provide satisfactory assurance that Federal funds used for the purpose of this section can realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
+&emsp;(5) provide satisfactory assurance that Federal funds used for the purpose of this sectioncan realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
 
 &emsp;(6) provide that the institution will submit to the Secretary an annual report on the uses made of funds provided under this section and an evaluation of the effectiveness of such program in benefiting the students of such institution.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Effective Date of 1975 Amendment
 
-Section 5 of Pub. L. 94–43 provided that:
+Pub. L. 94–43, §5, June 28, 1975, 89 Stat. 234, provided that:
 
 “(a) The amendment made by the provisions of section 2 of this Act \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974.
 

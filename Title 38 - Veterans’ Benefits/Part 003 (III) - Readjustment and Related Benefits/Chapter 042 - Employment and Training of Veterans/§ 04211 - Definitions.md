@@ -10,7 +10,7 @@ As used in this chapter—
 
 (2) The term “veteran of the Vietnam era” means an eligible veteran any part of whose active military, naval, or air service was during the Vietnam era.
 
-(3) The term “disabled veteran” means (A) a veteran who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary, or (B) a person who was discharged or released from active duty because of a service-connected disability.
+(3) The term “disabled veteran” means (A) a veteran who is entitled to compensation (or whobut for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary, or (B) a person who was discharged or released from active duty because of a service-connected disability.
 
 (4) The term “eligible veteran” means a person who—
 
@@ -72,7 +72,7 @@ Par. (5). Pub. L. 97–306, §309(2), inserted provision that the United States 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted afterSept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1989 Amendment
 
-Section 407(c) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section and section 2014 \[now 4214\] of this title\] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, §407(c), Dec. 18, 1989, 103 Stat. 2083, provided that: “The amendments made by this section \[amending this section and section 2014 \[now 4214\] of this title\] shall take effect on January 1, 1990.”
 
 #### Effective Date of 1980 Amendment
 

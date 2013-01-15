@@ -242,7 +242,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 The provisions of this section shall apply to schools operating under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
 
-#### (<i>l</i>) Administrative cost grant budget requests
+#### (l) Administrative cost grant budget requests
 
 #### (1) In general
 

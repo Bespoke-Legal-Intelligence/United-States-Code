@@ -58,7 +58,7 @@ Pub. L. 105–85, §544(d)(1), redesignated subsec. (d) as (f).
 
 #### Continuation of Support to Senior Military Colleges
 
-Section 544(a)–(c) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title V, §544(a)–(c), Nov. 18, 1997, 111 Stat. 1744, provided that:
 
 “(a)
 

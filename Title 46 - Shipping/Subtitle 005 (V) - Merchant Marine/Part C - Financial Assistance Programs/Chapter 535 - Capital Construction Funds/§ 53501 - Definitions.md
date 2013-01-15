@@ -60,7 +60,7 @@ Qualified vessel.—The term “qualified vessel” means—
 
 &emsp;&emsp;(A) a vessel—
 
-&emsp;&emsp;&emsp;(i) constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside theUnited States but documented under the laws of the United States on April 15, 1970, or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before April 15, 1970;
+&emsp;&emsp;&emsp;(i) constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on April 15, 1970, or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before April 15, 1970;
 
 &emsp;&emsp;&emsp;(ii) documented under the laws of the United States; and
 

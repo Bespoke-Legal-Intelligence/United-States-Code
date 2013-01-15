@@ -10,9 +10,9 @@ Not later than 180 days after April 4, 1996, the Secretary shall issue regulatio
 
 #### Prior Provisions
 
-A prior section 950aaa–4, Pub. L. 101–624, title XXIII, §2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, §1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, §235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to rural community access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–4, Pub. L. 101–624, title XXIII, §2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, §1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, §235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to ruralcommunity access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Analysis by Office of Technology Assessment
 
-Section 2385 of Pub. L. 101–624 provided that Office of Technology Assessment was to include, in study of effects of information age technology on rural America, analysis of feasibility of ensuring that rural citizens in their homes and schools had ability to acquire, by computer, information in a national library, and specified contents of such analysis, prior to repeal by Pub. L. 104–127, title VII, §708, Apr. 4, 1996, 110 Stat. 1112.
+Pub. L. 101–624, title XXIII, §2385, Nov. 28, 1990, 104 Stat. 4051, provided that Office of Technology Assessment was to include, in study of effects of information age technology on rural America, analysis of feasibility of ensuring that rural citizens in their homes and schools had ability to acquire, by computer, information in a national library, and specified contents of such analysis, prior to repeal by Pub. L. 104–127, title VII, §708, Apr. 4, 1996, 110 Stat. 1112.
 

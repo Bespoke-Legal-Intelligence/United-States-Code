@@ -36,7 +36,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 > &emsp;This subparagraph shall not be construed to require the State to make the determination under clause (ii) for families that do not have a set of characteristics identified under clause (i).
 
-&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthlyeach participating family of such designated amount.
+&emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthly each participating family of such designated amount.
 
 &emsp;(ii) The amount of food assistance so designated shall be at least the value of benefits such family could have received under the supplemental nutrition assistance program if the Project had not been implemented. The provisions of this subparagraph shall not require that the State make individual determinations as to the amount of assistance under the Project designated as food assistance.
 
@@ -88,7 +88,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Food benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
-&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
+&emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under thisclause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
 &emsp;(C) Each family whose Project participation is terminated shall be screened for potential eligibility for the supplemental nutrition assistance program and if the screening indicates potential eligibility, the family or family member shall be given a specific request to supply all additional information needed to determine such eligibility and assistance in completing a signed supplemental nutrition assistance program application including provision of any relevant information obtained by the State for purpose of the Project. If the family or family member supplies such additional information within ten days after receiving the request, the State shall, within five days after the State receives such information, determine whether the family or family member is eligible for the supplemental nutrition assistance program. Each family or family member who is determined through the screening or otherwise to be ineligible for the supplemental nutrition assistance program shall be notified of that determination.
 
@@ -176,7 +176,7 @@ The Comptroller General of the United States shall—
 
 &emsp;(A) allow payments made to the State under the Project to be less than the amounts the State and eligible households within the State would have received if the Project had not been implemented; or
 
-&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs thatwould have been incurred if the Project had not been implemented, except for costs for evaluation.
+&emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs that would have been incurred if the Project had not been implemented, except for costs for evaluation.
 
 #### (h) Quality control
 
@@ -192,7 +192,7 @@ Participating families shall be excluded from any sample taken for purposes of m
 
 For purposes of this section, the following definitions apply:
 
-&emsp;(1) The term “family” means the following individuals who live together: a minor child or a group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
+&emsp;(1) The term “family” means the following individuals who live together: a minor child ora group of minor children related to each other as siblings, half siblings, stepsiblings, or adopted siblings, together with their natural or adoptive parents, or their caregiver. Family also includes a pregnant woman in the third trimester of pregnancy with no children.
 
 &emsp;(2) The term “contract” means a plan to help a family pursue self-sufficiency, based on the State's assessment of the family's needs and abilities and developed with a parental caregiver.
 
@@ -238,7 +238,7 @@ Subsec. (g)(1)(A). Pub. L. 110–246, §4115(b)(15)(C), substituted “benefits�
 
 Subsec. (h). Pub. L. 110–246, §4115(b)(15)(A), substituted “benefits” for “food coupons”.
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 substituted “section 2025(c)(1) of this title” for “section 2025(c)(1)(C) of thistitle” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.” at end.
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 substituted “section 2025(c)(1) of this title” for “section 2025(c)(1)(C) of this title” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.” at end.
 
 <b>1991</b>—Pub. L. 102–237, §941(11)(A), inserted section catchline.
 

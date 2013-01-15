@@ -156,7 +156,7 @@
 
 #### (3) Only 1 additional tax imposed with respect to any 1 portion
 
-&emsp;In the case of an interest acquired from (or passing from) any decedent, if subparagraph (A) or (B) of paragraph (1) applies to any portion of an interest, subparagraph (B) or (A), asthe case may be, of paragraph (1) shall not apply with respect to the same portion of such interest.
+&emsp;In the case of an interest acquired from (or passing from) any decedent, if subparagraph (A) or (B) of paragraph (1) applies to any portion of an interest, subparagraph (B) or (A), as the case may be, of paragraph (1) shall not apply with respect to the same portion of such interest.
 
 #### (4) Due date
 
@@ -220,7 +220,7 @@
 
 #### (8) Qualified conservation contribution is not a disposition
 
-&emsp;A qualified conservation contribution (as defined in section 170(h)) by gift or otherwise shall not be deemed a disposition under subsection (c)(1)(A).
+&emsp;A qualified conservation contribution (as defined in section 170(h)) by gift or otherwiseshall not be deemed a disposition under subsection (c)(1)(A).
 
 #### (d) Election; agreement
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;(A) the notice of election, as filed, does not contain all required information, or
 
-&emsp;&emsp;(B) signatures of 1 or more persons required to enter into the agreement describedin paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
+&emsp;&emsp;(B) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
 
 > &emsp;the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or signatures.
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (8) Method of valuing closely held business interests, etc.
 
-&emsp;In any case to which paragraph (7)(A) does not apply, the following factors shall apply indetermining the value of any qualified real property:
+&emsp;In any case to which paragraph (7)(A) does not apply, the following factors shall apply in determining the value of any qualified real property:
 
 &emsp;&emsp;(A) The capitalization of income which the property can be expected to yield for farming or closely held business purposes over a reasonable period of time under prudent management using traditional cropping patterns for the area, taking into account soil capacity, terrain configuration, and similar factors,
 
@@ -388,7 +388,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified replacement property, any period during which there was ownership, qualified use, or material participation with respect to the replaced property by the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
+&emsp;&emsp;In the case of any qualified replacement property, any period during which there was ownership, qualified use, or material participation with respect to the replaced propertyby the decedent or any member of his family shall be treated as a period during which there was such ownership, use, or material participation (as the case may be) with respect to the qualified replacement property.
 
 #### (B) Limitation
 
@@ -552,7 +552,7 @@ Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 amended par. (2) generally, substituting present provisions for provisions which established graduated increase in applicable limit on aggregate reduction in fair market value from $600,000 in the case of decedents dying in 1981 to $750,000 in the case of decedents dying in 1983 or thereafter.
 
-<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis.”
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents suchproperty to a member of such spouse's family on a net cash basis.”
 
 <b>1986</b>—Subsec. (c)(7)(D). Pub. L. 99–514 substituted “section 151(c)(4)” for “section 151(e)(4)”.
 
@@ -634,15 +634,15 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
-Section 504(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976.”
+Pub. L. 105–34, title V, §504(c), Aug. 5, 1997, 111 Stat. 854, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976.”
 
 Amendment by section 508(c) of Pub. L. 105–34 applicable to easements granted after Dec. 31, 1997, see section 508(e)(2) of Pub. L. 105–34, set out as a note under section 170 of this title.
 
-Section 1313(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1313(b), Aug. 5, 1997, 111 Stat. 1045, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 6151(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6151(b), Nov. 10, 1988, 102 Stat. 3724, provided that:
 
 “(1)
 
@@ -658,7 +658,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Section 1025(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1025(b), July 18, 1984, 98 Stat. 1031, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -670,11 +670,11 @@ Refund or credit of overpayment barred by statute of limitations.—Notwithstand
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Section 421(k) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan. 12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan. 12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -712,15 +712,15 @@ Reinstatement of elections.—If any election under section 2032A was revoked be
 
 Statute of limitations.—If on the date of the enactment of this Act \[Aug. 13, 1981\] (or at any time before February 17, 1982) the making of a credit or refund of any overpayment of tax resulting from the amendments described in subparagraph (A) is barred by any law or rule of law, such credit or refund shall nevertheless be made if claim therefor is made before February 17, 1982.”
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 702(d)(6) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(d)(6), Nov. 6, 1978, 92 Stat. 2929, provided that: “The amendments made by this subsection \[amending this section and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 Amendment of section by Pub. L. 95–472 applicable with respect to involuntary conversions after Dec. 31, 1976, see section 4(d) of Pub. L. 95–472, set out as a note under section 1016 of this title.
 
 #### Effective Date
 
-Section 2003(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and section 6324B of this title and amending section 2013 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, §2003(e), Oct. 4, 1976, 90 Stat. 1862, provided that: “The amendments made by this section \[enacting this section and section 6324B of this title and amending section 2013 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Savings Provision
 
@@ -732,7 +732,7 @@ Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: “
 
 #### Information Necessary for Valid Special Use Valuation Election
 
-Section 1421 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1014(f), Nov. 10, 1988, 102 Stat. 3562, provided that:
+Pub. L. 99–514, title XIV, §1421, Oct. 22, 1986, 100 Stat. 2716, as amended by Pub. L. 100–647, title I, §1014(f), Nov. 10, 1988, 102 Stat. 3562, provided that:
 
 “(a)
 

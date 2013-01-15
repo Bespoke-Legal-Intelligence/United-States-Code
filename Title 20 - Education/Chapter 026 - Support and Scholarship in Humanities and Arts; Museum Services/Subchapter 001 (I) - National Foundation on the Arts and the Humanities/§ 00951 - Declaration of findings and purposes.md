@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) The arts and the humanities reflect the high place accorded by the American people to the nation's rich cultural heritage and to the fostering of mutual respect for the diverse beliefs and values of all persons and groups.
 
-&emsp;(7) The practice of art and the study of the humanities require constant dedication and devotion. While no government can call agreat artist or scholar into existence, it is necessary and appropriate for the Federal Government to help create and sustain not only a climate encouraging freedom of thought, imagination, and inquiry but also the material conditions facilitating the release of this creative talent.
+&emsp;(7) The practice of art and the study of the humanities require constant dedication and devotion. While no government can call a great artist or scholar into existence, it is necessary and appropriate for the Federal Government to help create and sustain not only a climate encouraging freedom of thought, imagination, and inquiry but also the material conditions facilitating the release of this creative talent.
 
 &emsp;(8) The world leadership which has come to the United States cannot rest solely upon superior power, wealth, and technology, but must be solidly founded upon worldwide respect and admiration for the Nation's high qualities as a leader in the realm of ideas and of the spirit.
 
@@ -46,7 +46,7 @@ Cls. (8), (9). Pub. L. 99–194, §102(3)–(5), added cl. (8) and redesignated 
 
 #### Effective Date of 1990 Amendment
 
-Section 318 \[title IV, §403\] of Pub. L. 101–512 provided that:
+Pub. L. 101–512, title III, §318 \[title IV, §403\], Nov. 5, 1990, 104 Stat. 1960, 1977, provided that:
 
 “(a)
 
@@ -58,19 +58,19 @@ Special Effective Date.—The amendments made by sections 110, 204, and 301 \[am
 
 #### Effective Date of 1973 Amendment
 
-Section 2(b) of Pub. L. 93–133 provided that: “The amendments made by subsection (a) \[amending this section and sections 952 and 954 to 960 of this title and repealing sections 962 and 963 of this title\] shall be effective on and after July 1, 1973.”
+Pub. L. 93–133, §2(b), Oct. 19, 1973, 87 Stat. 465, provided that: “The amendments made by subsection (a) \[amending this section and sections 952 and 954 to 960 of this title and repealing sections 962 and 963 of this title\] shall be effective on and after July 1, 1973.”
 
 #### Short Title of 1990 Amendment
 
-Section 318 of Pub. L. 101–512 provided that: “This section \[enacting sections 954a and 969 of this title, amending this section, sections 952, 954, 955, 956, 958, 959, 960, 963, 964, 965, 967, and 974 of this title, and section 5315 of Title 5, Government Organization and Employees, and enacting notes under this section and section 954 of this title\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1990’.”
+Pub. L. 101–512, title III, §318, Nov. 5, 1990, 104 Stat. 1960, provided that: “This section \[enacting sections 954a and 969 of this title, amending this section, sections 952, 954, 955, 956, 958, 959, 960, 963, 964, 965, 967, and 974 of this title, and section 5315 of Title 5, Government Organization and Employees, and enacting notes underthis section and section 954 of this title\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1990’.”
 
 #### Short Title of 1985 Amendment
 
-Section 1 of Pub. L. 99–194 provided that: “This Act \[enacting section 177 of title 2, The Congress, amending this section and sections 952 to 955, 956, 957, 958 to 960, 963, 964, 967, 971, 972, and 974 of this title, enacting provisions set out as notes under sections 954 and 972 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1985’.”
+Pub. L. 99–194, §1, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting section 177 of title 2, The Congress, amending this section and sections 952 to 955, 956, 957, 958 to 960, 963, 964, 967, 971, 972, and 974 of this title, enacting provisions set out as notes under sections 954 and 972 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Arts, Humanities, and Museums Amendments of 1985’.”
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–306 provided that: “This Act \[enacting section 955b of this title and section 310 of Title 25, Indians, amending this section and sections 952 to 955, 956, 957, 958 to 960, 962, 963, 964, and 967 of this title, amending provisions set out as a note under this section and repealing provisions set out as notes under sections 960 and 967 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act Amendments of 1983’.”
+Pub. L. 98–306, §1, May 31, 1984, 98 Stat. 223, provided that: “This Act \[enacting section 955b of this title and section 310 of Title 25, Indians, amending this section and sections 952 to 955, 956, 957, 958 to 960, 962, 963, 964, and 967 of this title, amending provisions set out as a note under this section and repealing provisions set out as notes under sections 960 and 967 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act Amendments of 1983’.”
 
 #### Short Title of 1980 Amendment
 
@@ -82,19 +82,19 @@ Pub. L. 94–462, §1, Oct. 8, 1976, 90 Stat. 1971, provided: “That this Act \
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–133 provided: “That this Act \[amending this section and sections 351a, 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 962 and 963 of this title, and enacting provisions set out as notes under this section and section 351a of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Amendments of 1973’.”
+Pub. L. 93–133, §1, Oct. 19, 1973, 87 Stat. 461, provided: “That this Act \[amending this section and sections 351a, 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 962 and 963 of this title, and enacting provisions set out as notes under this section and section 351a of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Amendments of 1973’.”
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section and sections 952, 954, 955, 956,957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
+Pub. L. 91–346, §1, July 20, 1970, 84 Stat. 443, provided: “That this Act \[amending this section and sections 952, 954, 955, 956, 957, and 958 to 960 of this title, repealing sections 781 to 788 and 790 of this title, and enacting provisions set out as notes under section 955 of this title and section 781 of this title\] may be cited as ‘The National Foundation on the Arts and the Humanities Amendments of 1970’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
+Pub. L. 89–209, §1, Sept. 29, 1965, 79 Stat. 845, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
 
 #### Sense of Congress Regarding Purchase of American-Made Equipment and Products
 
-Section 318 \[title IV, §§401, 402\] of Pub. L. 101–512 provided that:
+Pub. L. 101–512, title III, §318 \[title IV, §§401, 402\], Nov. 5, 1990, 104 Stat. 1960, 1977, provided that:
 
 #### “SEC. 401. SENSE OF CONGRESS.
 

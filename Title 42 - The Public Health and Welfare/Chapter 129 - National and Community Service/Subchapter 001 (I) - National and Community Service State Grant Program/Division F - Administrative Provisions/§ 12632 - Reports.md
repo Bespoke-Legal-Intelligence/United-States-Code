@@ -50,7 +50,7 @@ Study.—The Secretary of Defense shall annually conduct a study of the effect o
 
 “(2)
 
-Report.—The Secretary of Defense shall annually submit a report to the authorizing committees, theCommittee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.”
+Report.—The Secretary of Defense shall annually submit a report to the authorizing committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.”
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–13, §1602(1), which directed substitution of “authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “appropriate authorizing and appropriations Committees of Congress”, was executed by making the substitution for “appropriate authorizing and appropriation Committees of Congress” to reflect the probable intent of Congress.
 

@@ -2,7 +2,7 @@
 
 #### (a) Purposes of guidelines; publication in Federal Register
 
-In order to encourage the development of underwater parks and the administrative cooperation necessary for the comprehensive management of underwater resources related to historic shipwrecks, the Secretary of the Interior, acting through the Director of the National Park Service, shall within nine months after April 28, 1988, prepare and publish guidelines in the Federal Register which shall seek to:
+In order to encourage the development of underwater parks and the administrative cooperation necessary for the comprehensive management of underwater resources related to historic shipwrecks, the Secretary of the Interior, acting through the Director of the National Park Service, shall within nine months after April 28, 1988,prepare and publish guidelines in the Federal Register which shall seek to:
 
 &emsp;(1) maximize the enhancement of cultural resources;
 

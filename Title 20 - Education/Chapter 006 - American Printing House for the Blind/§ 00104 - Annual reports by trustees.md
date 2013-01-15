@@ -2,7 +2,7 @@
 
 The trustees of said American Printing House for the Blind shall annually make to the Secretary of Education a report of the items of their expenditure of the appropriation aforesaid during the year preceding their report, and shall annually furnish him with a voucher from each public or private nonprofit institution for the education of the blind, showing that the amount of books and tangible apparatus due has been received.
 
-(Mar. 3, 1879, ch. 186, §4, 20 Stat. 469; June 25, 1906, ch. 3536, 34 Stat. 460; 1939 Reorg. Plan No. II, §201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat.1434; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–230, title VIII, §811(c), Apr. 13, 1970, 84 Stat. 195; Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(Mar. 3, 1879, ch. 186, §4, 20 Stat. 469; June 25, 1906, ch. 3536, 34 Stat. 460; 1939 Reorg. Plan No. II, §201(b), eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–230, title VIII, §811(c), Apr. 13, 1970, 84 Stat. 195; Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 #### Codification
 

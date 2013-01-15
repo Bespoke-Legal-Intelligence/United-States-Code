@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Corporation may award fixed-amount grants (in accordance with section 12581(<i>l</i>) of this title) to community-based entities to carry out a Silver Scholarship Grant Program for individuals age 55 or older, in which such individuals complete not less than 350 hours of service in a year carrying out projects of national need and receive a Silver Scholarship in the form of a $1,000 national service educational award. Under such a program, the Corporation shall establish criteria for the types of the <sup>1</sup> service required to be performed to receive such award.
+&emsp;The Corporation may award fixed-amount grants (in accordance with section 12581(l) of this title) to community-based entities to carry out a Silver Scholarship Grant Program for individuals age 55 or older, in which such individuals complete not less than 350 hours of service in a year carrying out projects of national need and receive a Silver Scholarship in the form of a $1,000 national service educational award. Under such a program, the Corporation shall establish criteria for the types of the <sup>1</sup> service required to be performed to receive such award.
 
 #### (2) Term
 
@@ -156,7 +156,7 @@
 
 #### (8) Leadership development
 
-&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discuss the Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
+&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discussthe Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
 
 #### (c) Evaluations
 

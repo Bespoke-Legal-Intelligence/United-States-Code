@@ -10,7 +10,7 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 &emsp;(1) Each domestic violence incident reported to a commander, a law enforcement authority of the armed forces, or a family advocacy program of the Department of Defense.
 
-&emsp;(2) The number of those incidents that involve evidence determined sufficient for supporting disciplinary action and, for each such incident, a description of the substantiated allegation and the action taken by command authorities in the incident.
+&emsp;(2) The number of those incidents that involve evidence determined sufficient for supporting disciplinary action and, for each suchincident, a description of the substantiated allegation and the action taken by command authorities in the incident.
 
 &emsp;(3) The number of those incidents that involve evidence determined insufficient for supporting disciplinary action and for each such case, a description of the allegation.
 
@@ -74,7 +74,7 @@ Purpose.—The purpose of this section is to provide a program for the establish
 
 “(b)
 
-Program.—The Secretary of Defense shall establish a program to provide funds and other incentives tocommanders of military installations for the following purposes:
+Program.—The Secretary of Defense shall establish a program to provide funds and other incentives to commanders of military installations for the following purposes:
 
 &emsp;“(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 

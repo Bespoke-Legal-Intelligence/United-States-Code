@@ -20,7 +20,7 @@
 
 #### (B) Disclosed positions
 
-&emsp;&emsp;If the position was disclosed as provided in section 6662(d)(2)(B)(ii)(I) and is not a position to which subparagraph (C) applies, the position is described in this paragraph unless there is a reasonable basis for the position.
+&emsp;&emsp;If the position was disclosed as provided in section 6662(d)(2)(B)(ii)(I) and is not a position to which subparagraph (C) applies, theposition is described in this paragraph unless there is a reasonable basis for the position.
 
 #### (C) Tax shelters and reportable transactions
 
@@ -136,5 +136,5 @@ Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007,
 
 #### Effective Date of 1989 Amendment
 
-Section 7732(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to documents prepared after December 31, 1989.”
+Pub. L. 101–239, title VII, §7732(b), Dec. 19, 1989, 103 Stat. 2402, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to documents prepared after December 31, 1989.”
 

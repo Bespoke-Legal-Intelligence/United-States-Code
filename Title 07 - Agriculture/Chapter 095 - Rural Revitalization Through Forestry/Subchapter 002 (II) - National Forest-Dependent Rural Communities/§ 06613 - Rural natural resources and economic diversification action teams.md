@@ -14,7 +14,7 @@ The Secretary shall design and organize any action team established pursuant to 
 
 #### (d) Cooperation
 
-In preparing action plans, the Secretary may cooperate with State and local governments, universities, private companies, individuals, and nonprofit organizations for procurement of services determined necessary or desirable.
+In preparing action plans, the Secretary may cooperate with State and local governments, universities, private companies, individuals, andnonprofit organizations for procurement of services determined necessary or desirable.
 
 #### (e) Eligibility
 

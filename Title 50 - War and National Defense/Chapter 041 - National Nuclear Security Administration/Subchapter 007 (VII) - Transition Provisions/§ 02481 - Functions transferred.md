@@ -22,9 +22,37 @@ The Secretary of Energy may transfer to the Administrator any other facility, mi
 
 #### (c) Environmental remediation and waste management activities
 
-In the case of any environmental remediation and waste management activity of any element specified in subsection (a) of this section, the Secretary of Energy may determine to transfer responsibility for that activity to another element of the Department.
+In the case of any environmental remediation and waste management activity of any element of the Administration, the Secretary of Energy may determine to transfer responsibility for that activity to another element of the Department.
 
-(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968.)
+#### (d) Transfer of funds
+
+(1) Any balance of appropriations that the Secretary of Energy determines is available and needed to finance or discharge a function, power, or duty or an activity that is transferred to the Administration shall be transferred to the Administration and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
+
+&emsp;(A) be credited to any applicable appropriation account of the Administration; or
+
+&emsp;(B) be credited to a new account that may be established on the books of the Department of the Treasury;
+
+> &emsp;and shall be merged with the funds already credited to that account and accounted for as one fund.
+
+(2) Balances of appropriations credited to an account under paragraph (1)(A) are subject only to such limitations as are specifically applicable to that account. Balances of appropriations credited to an account under paragraph (1)(B) are subject only to such limitations as are applicable to the appropriations from which they are transferred.
+
+#### (e) Personnel
+
+(1) With respect to any function, power, or duty or activity of the Department of Energy that is transferred to the Administration, those employees of the element of the Department of Energy from which the transfer is made that the Secretary of Energy determines are needed to perform that function, power, or duty, or for that activity, as the case may be, shall be transferred to the Administration.
+
+(2) The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
+
+(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–239, §3132(b)(1)(A), substituted “of the Administration” for “specified in subsection (a)”.
+
+Subsecs. (d), (e). Pub. L. 112–239, §3132(b)(1)(B), added subsecs. (d) and (e).
+
+#### Construction
+
+Pub. L. 112–239, div. C, title XXXI, §3132(b)(3), Jan. 2, 2013, 126 Stat. 2186, provided that: “Nothing in section 3291 of the National Nuclear Security Administration Act (50 U.S.C. 2481), as amended by paragraph (1), may be construed to affect any function or activity transferred by the Secretary of Energy to the Administrator for Nuclear Security before the date of the enactment of this Act \[Jan. 2, 2013\].”
 
 #### Transfer of Functions
 

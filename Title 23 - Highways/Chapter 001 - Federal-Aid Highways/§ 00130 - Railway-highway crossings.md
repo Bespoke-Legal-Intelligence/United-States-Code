@@ -1,6 +1,6 @@
 ### §130. Railway-highway crossings
 
-(a) Subject to section 120 and subsection (b) of this section, the entire cost of construction of projects for the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossingstructures, and the relocation of highways to eliminate grade crossings, may be paid from sums apportioned in accordance with section 104 of this title. In any case when the elimination of the hazards of a railway-highway crossing can be effected by the relocation of a portion of a railway at a cost estimated by the Secretary to be less than the cost of such elimination by one of the methods mentioned in the first sentence of this section, then the entire cost of such relocation project, subject to section 120 and subsection (b) of this section, may be paid from sums apportioned in accordance with section 104 of this title.
+(a) Subject to section 120 and subsection (b) of this section, the entire cost of construction of projects for the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may be paid from sums apportioned in accordance with section 104 of this title. In any case when the elimination of the hazards of a railway-highway crossing can be effected by the relocation of a portion of a railway at a cost estimated by the Secretary to be less than the cost of such elimination by one of the methods mentioned in the first sentence of this section, then the entire cost of such relocation project, subject to section 120 and subsection (b) of this section, may be paid from sums apportioned in accordance with section 104 of this title.
 
 (b) The Secretary may classify the various types of projects involved in the elimination of hazards of railway-highway crossings, and may set for each such classification a percentage of the costs of construction which shall be deemed to represent the net benefit to the railroad or railroads for the purpose of determining the railroad's share of the cost of construction. The percentage so determined shall in no case exceed 10 per centum. The Secretary shall determine the appropriate classification of each project.
 
@@ -16,7 +16,7 @@ Funds for Protective Devices.—
 
 &emsp;(1)
 
-In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title.
+In general.—Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under section 104(b)(1) of this title.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ Apportionment.—
 
 &emsp;(1)
 
-Formula.—Fifty percent of the funds set aside to carry out this section pursuant to subsection (e)(1) shall be apportioned to the States in accordance with the formula set forth in section 104(b)(3)(A), and 50 percent of such funds shall be apportioned to the States in the ratio that total public railway-highway crossings in each State bears to the total of such crossings in all States.
+Formula.—Fifty percent of the funds set aside to carry out this section pursuant to subsection (e)(1) shall be apportioned to the States in accordance with the formula set forth in section 104(b)(3)(A) as in effect on the day before the date of enactment of the MAP–21, and 50 percent of such funds shall be apportioned to the States in the ratio that total public railway-highway crossings in each State bears to the total of such crossings in all States.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Bicycle Safety.—In carrying out projects under this section, a State shall tak
 
 Expenditure of Funds.—Not more than 2 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
 
-(<i>l</i>)
+(l)
 
 National Crossing Inventory.—
 
@@ -90,35 +90,27 @@ Initial reporting of crossing information.—Not later than 1 year after the dat
 
 Periodic updating of crossing information.—On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-&emsp;(3)
-
-Rulemaking authority.—The Secretary shall prescribe the regulations necessary to implement this subsection. The Secretary may enforce each provision of the Department of Transportation's statement of the national highway-rail crossing inventory policy, procedures, and instructions for States and railroads that is in effect on the date of enactment of the Rail Safety Improvement Act of 2008, until such provision is superseded by a regulation issued under this subsection.
-
-&emsp;(4)
-
-Definitions.—In this subsection—
-
-&emsp;&emsp;(A) “public crossing” means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks either at grade or grade-separated, where—
-
-&emsp;&emsp;&emsp;(i) a public highway, road, or street, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
-
-&emsp;&emsp;&emsp;(ii) a publicly owned pathway explicitly authorized by a public authority or a railroad carrier and dedicated for the use of non-vehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated; and
-
-&emsp;&emsp;(B) “State” means a State of the United States, the District of Columbia, or Puerto Rico.
-
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(<i>l</i>), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(6), July 6, 2012, 126 Stat. 575.)
 
 #### References in Text
 
-The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (<i>l</i>)(1) to (3), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+Section 104(b)(3)(A) as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (f)(1), means section 104(b)(3)(A) of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (l), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(2). Pub. L. 110–244, §101(<i>l</i>), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
+<b>2012</b>—Subsec. (e)(1). Pub. L. 112–141, §1519(c)(6)(A), substituted “section 104(b)(3)” for “section 104(b)(5)”.
 
-Subsec. (<i>l</i>). Pub. L. 110–432 added subsec. (<i>l</i>).
+Subsec. (f)(1). Pub. L. 112–141, §1519(c)(6)(B), inserted “as in effect on the day before the date of enactment of the MAP–21” after “section 104(b)(3)(A)”.
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1401(c)(1), formerly §1401(d)(1), as renumbered by Pub. L. 110–244, §101(s)(1), designated existing provisions as par. (1), inserted after par. designation “
+Subsec. (l)(3), (4). Pub. L. 112–141, §1519(c)(6)(C), struck out pars. (3) and (4) which related to rulemaking authority and definitions.
+
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–244, §101(l), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
+
+Subsec. (l). Pub. L. 110–432 added subsec. (l).
+
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1401(c)(1), formerly §1401(d)(1), as renumbered by Pub. L. 110–244, §101(s)(1), designated existing provisions as par. (1), inserted afterpar. designation “
 
 In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings.”, and added par. (2).
 
@@ -140,13 +132,17 @@ Subsec. (j). Pub. L. 105–178, §1202(d), added subsec. (j).
 
 <b>1987</b>—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Federal Share of Costs for Construction To Eliminate Hazards
 
-Pub. L. 106–246, div. B, title II, §2604, July 13, 2000, 114 Stat. 559, provided that: “Notwithstanding any other provision of law, hereafter, funds apportioned under section 104(b)(3) of title 23 which are applied to projects involving the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may have a Federal share up to 100 percent of the cost of construction.”
+Pub. L. 106–246, div. B, title II, §2604, July 13, 2000, 114 Stat. 559, provided that: “Notwithstanding any other provision of law, hereafter, funds apportioned under \[former\] section 104(b)(3) of title 23 which are applied to projects involving the elimination of hazards of railway-highway crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade crossing structures, and the relocation of highways to eliminate grade crossings, may have a Federal share up to 100 percent of the cost of construction.”
 
 #### Federal-State Cooperation
 
-Section 351(b), (c) of Pub. L. 104–59 provided that:
+Pub. L. 104–59, title III, §351(b), (c), Nov. 28, 1995, 109 Stat. 622, 623, provided that:
 
 “(b)
 
@@ -202,11 +198,11 @@ Pub. L. 100–457, title III, §324, Sept. 30, 1988, 102 Stat. 2150, provided th
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 100–202, §101(<i>l</i>) \[title III, §339\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–386.
+Pub. L. 100–202, §101(l) \[title III, §339\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–386.
 
 #### Railroad-Highway Crossings Study and Report
 
-Section 159 of Pub. L. 100–17 directed Secretary of Transportation to conduct a study of national highway-railroad crossing improvement and maintenance needs, with Secretary to consult with State highway administrations, the Association of American Railroads, highway safety groups, and any other appropriate entities in carrying out this study, and directed Secretary, not later than 24 months after Apr. 2, 1987, to submit a final report to Congress on results of the study along with recommendations of how crossing needs can be addressed in a cost effective manner.
+Pub. L. 100–17, title I, §159, Apr. 2, 1987, 101 Stat. 211, directed Secretary of Transportation to conduct astudy of national highway-railroad crossing improvement and maintenance needs, with Secretary to consult with State highway administrations, the Association of American Railroads, highway safety groups, and any other appropriate entities in carrying out this study, and directed Secretary, not later than 24 months after Apr. 2, 1987, to submit a final report to Congress on results of the study along with recommendations of how crossing needs can be addressed in a cost effective manner.
 
 #### Study and Investigation of Alleviation of Environmental, Social, etc., Impacts of Increased Unit Train Traffic
 
@@ -214,7 +210,7 @@ Pub. L. 95–599, title I, §162, Nov. 6, 1978, 92 Stat. 2720, authorized Secret
 
 #### Demonstration Project, Railroad-Highway Crossings; Reports to President and Congress; Appropriations Authorization; Highway Safety Study, Report to Congress
 
-Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
+Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(l) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)(1) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Lincoln, Nebraska, Wheeling, West Virginia, and Elko, Nevada, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the respective cities. The cities shall (1) have a local agency with legal authority to relocate railroad facilities, levy taxes for such purpose, and a record of prior accomplishment; and (2) have a current relocation plan for such lines which has a favorable benefit-cost ratio involving and having the unanimous approval of three or more class 1 railroads in Lincoln, Nebraska, and the two class 1 railroads in Wheeling, West Virginia, and Elko, Nevada, and multicivic, local, and State agencies, and which provides for the elimination of a substantial number of the existing railway-road conflict points within the city.
 
@@ -240,15 +236,15 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(k) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Pine Bluff, Arkansas, for the relocation of railroad lines for the purpose of eliminating highway railroad grade crossings.
 
-“(<i>l</i>) The Secretary of Transportation shall carry out a demonstration project in Sherman, Texas, for the relocation of rail lines in order to eliminate the ground level railroad crossing at the crossing of the Southern Pacific and Frisco Railroads with Grand Avenue-Roberts Road.
+“(l) The Secretary of Transportation shall carry out a demonstration project in Sherman, Texas, for the relocation of rail lines in order to eliminate the ground level railroad crossing at the crossing of the Southern Pacific and Frisco Railroads with Grand Avenue-Roberts Road.
 
 “(m) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Hammond, Indiana, for the relocation of railroad lines for the purposes of eliminating highway railroad grade crossings.
 
-“(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
+“(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599, title I, Nov. 6, 1978, 92 Stat. 2709\].
 
-“\[(<i>o</i>) Repealed. Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724.\]
+“\[(o) Repealed. Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724.\]
 
-“(p) There is authorized to be appropriated to carry out this section (other than subsection (<i>l</i>)), not to exceed $15,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $50,000,000 for the fiscal year ending June 30, 1976, $6,250,000, for the period beginning July 1, 1976, and ending September 30, 1976, $26,400,000 for the fiscal year ending September 30, 1977, and $51,400,000 for the fiscal year ending September 30, 1978, $70,000,000 for the fiscal year ending September 30, 1979, and $90,000,000 for the fiscal year ending September 30, 1980, $100,000,000 for the fiscal year ending September 30, 1981, and $100,000,000 for the fiscal year ending September 30, 1982, and $50,000,000 for the fiscal year ending September 30, 1983, and $50,000,000 for the fiscal year ending September 30, 1984, and $50,000,000 for the fiscal year ending September 30, 1985, and $50,000,000 for the fiscal year ending September 30, 1986, and $15,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, except that not more than two-thirds of all funds authorized and expended under authority of this section in any fiscal year shall be appropriated out of the Highway Trust fund. Notwithstanding any other provision of this section, any project which is not under construction, according to the Secretary of Transportation, by September 30, 1985, shall not be eligible for additional funds under this authorization.
+“(p) There is authorized to be appropriated to carry out this section (other than subsection (l)), not to exceed $15,000,000 for the fiscal year ending June 30, 1974, $25,000,000 for the fiscal year ending June 30, 1975, and $50,000,000 for the fiscal year ending June 30, 1976, $6,250,000, for the period beginning July 1, 1976, and ending September 30, 1976, $26,400,000 for the fiscal year ending September 30, 1977, and $51,400,000 for the fiscal year ending September 30, 1978, $70,000,000 for the fiscal year ending September 30, 1979, and $90,000,000 for the fiscal year ending September 30, 1980, $100,000,000 for the fiscal year ending September 30, 1981, and $100,000,000 for the fiscal year ending September 30, 1982, and $50,000,000 for the fiscal year ending September 30, 1983, and $50,000,000 for the fiscal year ending September 30, 1984, and $50,000,000 for the fiscal year ending September 30, 1985, and $50,000,000 for the fiscal year ending September 30, 1986, and $15,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, except that not more than two-thirds of all funds authorized and expended under authority of this section in any fiscal year shall be appropriated out of the Highway Trust fund. Notwithstanding any other provision of this section, any project which is not under construction, according to the Secretary of Transportation, by September 30, 1985, shall not be eligible for additional funds under this authorization.
 
 “(q) The Secretary, in cooperation with State highway departments and local officials, shall conduct a full and complete investigation and study of the problem of providing increased highway safety by the relocation of railroad lines from the central area of cities on a nationwide basis, and report to the Congress his recommendations resulting from such investigation and study not later than July 1, 1975, including an estimate of the cost of such a program. Funds authorized to carry out section 307 of title 23, United States Code, are authorized to be used to carry out the investigation and study required by this subsection.”
 
@@ -260,7 +256,7 @@ Pub. L. 94–387, title I, §101, Aug. 14, 1976, 90 Stat. 1176, provided in part
 
 Pub. L. 93–87, title II, §203, Aug. 13, 1973, 87 Stat. 283, as amended by Pub. L. 94–280, title II, §203, May 5, 1976, 90 Stat. 452; Pub. L. 95–599, title II, §203, Nov. 6, 1978, 92 Stat. 2728; Pub. L. 96–470, title II, §209(d), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–327, §5(b), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title II, §205, Jan. 6, 1983, 96 Stat. 2139, which directed each State to conduct a survey of all highways to identify those railway crossings requiring separation, relocation, or protective devices and to establish and implement a schedule of projects for such purpose, which at a minimum was to provide for signs at all crossings, authorized appropriations for elimination of hazards of railway-highway crossings, provided for State apportionments and for the Federal share of the costs of projects, required each State to annually report to the Secretary of Transportation and the Secretary of Transportation to annually report to Congress on progress in implementing railroad-highway crossings program, and authorized use of matching funds with local governments for improvement of railroad crossings, was repealed by Pub. L. 100–17, title I, §121(b), Apr. 2, 1987, 101 Stat. 160.
 
-Highway authorizations provisions of section 104(a) (1) and (2) of Pub. L. 93–87, referred to in section 203(d) of Pub. L. 93–87 provided that:
+Highway authorizations provisions of section 104(a)(1) and (2) of Pub. L. 93–87, title I, Aug. 13, 1973, 87 Stat. 251, referred to in section 203(d) of Pub. L. 93–87 provided that:
 
 “(a) For the purpose of carrying out the provisions of title 23, United States Code, the following sums are hereby authorized to be appropriated:
 

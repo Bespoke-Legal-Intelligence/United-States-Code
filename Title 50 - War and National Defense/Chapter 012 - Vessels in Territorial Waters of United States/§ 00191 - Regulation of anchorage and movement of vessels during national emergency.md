@@ -34,7 +34,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Termination Date of 1950 Amendment
 
-Section 4 of act Aug. 9, 1950, provided that: “The provisions of this Act \[amending this section and sections 192 and 194 of this title\] shall expire on such date as may be specified by concurrent resolution of the two Houses of Congress.”
+Act Aug. 9, 1950, ch. 656, §4, 64 Stat. 428, provided that: “The provisions of this Act \[amending this section and sections 192 and 194 of this title\] shall expire on such date as may be specified by concurrent resolution of the two Houses of Congress.”
 
 #### Termination of War and Emergencies
 
@@ -54,7 +54,7 @@ A proclamation was issued under this section on December 3, 1917.
 
 #### Separability
 
-Section 4 of title XIII of act June 15, 1917, provided: “If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.”
+Act June 15, 1917, ch. 30, title XIII, §4, 40 Stat. 231, provided: “If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.”
 
 #### Transfer of Functions
 
@@ -98,15 +98,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 24, 2011, 76 F.R. 11073, provided:
+Notice of President of the United States, dated Feb. 23, 2012, 77 F.R. 11379, provided:
 
-On March 1, 1996, by Proclamation 6867 \[set out above\], a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 \[set out below\], the national emergency was extended and its scope was expanded to deny monetary and material support to the Cuban government. TheCuban government has not demonstrated that it will refrain from the use of excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. In addition, the unauthorized entry of any U.S.-registered vessel into Cuban territorial waters continues to be detrimental to the foreign policy of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867 as amended by Proclamation 7757.
+On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757, the national emergency was extended and its scope was expanded to deny monetary and material support to the Cuban government. The Cuban government has not demonstrated that it will refrain from the use of excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. In addition, the unauthorized entry of any U.S.-registered vessel into Cuban territorial waters continues to be detrimental to the foreign policy of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867 as amended by Proclamation 7757.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 24, 2011, 76 F.R. 11073.
 
 Notice of President of the United States, dated Feb. 23, 2010, 75 F.R. 8793.
 
@@ -158,7 +160,7 @@ WHEREAS the objectives of U.S. policy regarding Cuba are the end of the dictator
 
 WHEREAS a critical initiative by the United States to advance these U.S. objectives is to deny resources to the repressive Cuban government, resources that may be used by that government to support terrorist activities and carry out excessive use of force against innocent victims, including U.S. citizens;
 
-WHEREAS the unauthorized entry of U.S.-registered vessels into Cuban territorial waters is detrimental to the foreign policy of the United States, which is to deny monetary and material support to the repressive Cuban government, and, therefore, such unauthorized entries threaten to disturb the international relations of the United States by facilitating the Cuban government's support of terrorism, use of excessive force, and continued existence;
+WHEREAS the unauthorized entry of U.S.-registered vessels into Cuban territorial waters is detrimental tothe foreign policy of the United States, which is to deny monetary and material support to the repressive Cuban government, and, therefore, such unauthorized entries threaten to disturb the international relations of the United States by facilitating the Cuban government's support of terrorism, use of excessive force, and continued existence;
 
 WHEREAS the Cuban government has over the course of its 45-year existence repeatedly used violence and the threat of violence to undermine U.S. policy interests. This same regime continues in power today, and has since 1959 maintained a pattern of hostile actions contrary to U.S. policy interests. Among other things, the Cuban government established a military alliance with the Soviet Union, and invited Soviet forces to install nuclear missiles in Cuba capable of attacking the United States, and encouraged Soviet authorities to use those weapons against the United States; it engaged in military adventurism in Africa; and it helped to form and provide material and political support to terrorist organizations that sought the violent overthrow of democratically elected governments in Central America and elsewhere in the hemisphere allied with the United States, thereby causing repeated disturbances of U.S. international relations;
 

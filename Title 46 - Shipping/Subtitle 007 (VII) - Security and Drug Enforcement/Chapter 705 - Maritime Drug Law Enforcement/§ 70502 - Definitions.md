@@ -36,7 +36,7 @@ In general.—In this chapter, the term “vessel subject to the jurisdiction of
 
 &emsp;&emsp;(E) a vessel in the territorial waters of a foreign nation if the nation consents to the enforcement of United States law by the United States; and
 
-&emsp;&emsp;(F) a vessel in the contiguous zone of the United States, as defined in Presidential Proclamation 7219 of September 2, 1999 (43 U.S.C. 1331 note), that—
+&emsp;&emsp;(F) a vessel in the contiguous zone of the United States, as defined in PresidentialProclamation 7219 of September 2, 1999 (43 U.S.C. 1331 note), that—
 
 &emsp;&emsp;&emsp;(i) is entering the United States;
 

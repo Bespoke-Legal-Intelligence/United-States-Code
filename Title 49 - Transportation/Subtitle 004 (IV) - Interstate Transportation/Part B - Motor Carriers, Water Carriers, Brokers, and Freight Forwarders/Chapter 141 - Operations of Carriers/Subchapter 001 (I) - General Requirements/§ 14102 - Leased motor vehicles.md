@@ -14,7 +14,7 @@ General Authority of Secretary.—The Secretary may require a motor carrier prov
 
 (b)
 
-Responsible Party for Loading and Unloading.—The Secretary shall require, by regulation, that any arrangement, between a motor carrier of property providing transportation subject to jurisdiction under subchapter I of chapter 135 and any other person, under which such other person is to provide any portion of such transportation by a motor vehicle not owned by the carrier shall specify, in writing, who is responsible for loading and unloading the property onto and from the motor vehicle.
+Responsible Party for Loading and Unloading.—The Secretary shall require, by regulation, that any arrangement, between a motor carrier of property providing transportation subject to jurisdiction under subchapter I of chapter 135 and any other person, under which such other person is to provide any portion of such transportation by a motor vehicle notowned by the carrier shall specify, in writing, who is responsible for loading and unloading the property onto and from the motor vehicle.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 890.)
 

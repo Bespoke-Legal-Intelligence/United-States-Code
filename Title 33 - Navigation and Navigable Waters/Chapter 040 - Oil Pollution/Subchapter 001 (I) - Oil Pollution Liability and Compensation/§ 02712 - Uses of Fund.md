@@ -16,7 +16,7 @@ The Fund shall be available to the President for—
 
 &emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
 
-&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
+&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (l) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
 &emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
 
@@ -140,7 +140,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 &emsp;This subsection shall not be considered to restrict the use of Department of Defense resources.
 
-#### (<i>l</i>) Reports
+#### (l) Reports
 
 #### (1) In general
 
@@ -170,7 +170,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as anote under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
@@ -178,7 +178,7 @@ This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18,
 
 Subsec. (g). Pub. L. 111–281, §708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
 
-Subsec. (<i>l</i>). Pub. L. 111–281, §708(b)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 111–281, §708(b)(2), added subsec. (l).
 
 <b>2004</b>—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
 
@@ -192,7 +192,7 @@ Functions of President under subsecs. (a)(1), (3), (4), (d), and (e) of this sec
 
 Functions of President under subsec. (a)(2) of this section delegated to Federal trustees designated in National Contingency Plan by section 7(a)(2) of Ex. Ord. No. 12777.
 
-Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (<i>l</i>) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
+Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (l) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
 
 Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
 

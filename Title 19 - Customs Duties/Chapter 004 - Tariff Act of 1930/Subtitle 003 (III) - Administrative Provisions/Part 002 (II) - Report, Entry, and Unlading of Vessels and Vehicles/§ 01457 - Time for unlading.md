@@ -6,7 +6,7 @@ Whenever any merchandise remains on board any vessel or vehicle from a foreign p
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in R.S. §§2879, 2880 and 2969 (as amended by act May 9, 1896, ch. 164, 29 Stat. 115), which were superseded by act Sept. 21, 1922, ch. 356, title IV, §456, 42 Stat. 955, and were repealed by section 642 thereof. Section 456 of the 1922 act was superseded by section 457 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §§2879, 2880 and 2969 (as amended by actMay 9, 1896, ch. 164, 29 Stat. 115), which were superseded by act Sept. 21, 1922, ch. 356, title IV, §456, 42 Stat. 955, and were repealed by section 642 thereof. Section 456 of the 1922 act was superseded by section 457 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

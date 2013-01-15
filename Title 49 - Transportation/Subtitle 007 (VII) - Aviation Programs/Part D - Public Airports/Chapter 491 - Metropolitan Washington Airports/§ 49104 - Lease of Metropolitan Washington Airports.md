@@ -10,9 +10,11 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 &emsp;&emsp;(i) aviation business or activities;
 
-&emsp;&emsp;(ii) activities necessary or appropriate to serve passengers or cargo in air commerce; or
+&emsp;&emsp;(ii) activities necessary or appropriate to serve passengers or cargo in air commerce;
 
-&emsp;&emsp;(iii) nonprofit, public use facilities that are not inconsistent with the needs of aviation.
+&emsp;&emsp;(iii) nonprofit, public use facilities that are not inconsistent with the needs of aviation; or
+
+&emsp;&emsp;(iv) a business or activity not inconsistent with the needs of aviation that has been approved by the Secretary.
 
 &emsp;(B) During the period of the lease, the real property constituting the Metropolitan Washington Airports shall be used only for airport purposes.
 
@@ -58,7 +60,7 @@ General.—The lease between the Secretary of Transportation and the Metropolita
 
 (b)
 
-Payments.—Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed usingthe GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
+Payments.—Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
 
 (c)
 
@@ -68,7 +70,7 @@ Enforcement of Lease Provisions.—The district courts of the United States have
 
 Extension of Lease.—The Secretary and the Airports Authority may at any time negotiate an extension of the lease.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 106–181, title II, §231(e)(2), Apr. 5, 2000, 114 Stat. 113.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 106–181, title II, §231(e)(2), Apr. 5, 2000, 114 Stat. 113; Pub. L. 112–95, title IV, §414(e), Feb. 14, 2012, 126 Stat. 92.)
 
 Historical and Revision Notes
 
@@ -155,6 +157,8 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), i
 A prior section 49104 was renumbered section 50104 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2)(A)(iv). Pub. L. 112–95 added cl. (iv).
 
 <b>2000</b>—Subsec. (a)(5)(D). Pub. L. 106–181 added subpar. (D).
 

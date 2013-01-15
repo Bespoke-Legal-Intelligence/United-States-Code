@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the local educational agency shall not be considered to be in violation of the requirement to make available a free appropriate public education to the child for the failure to provide such child with the special education and related services for which the local educational agency requests such consent; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the local educational agency shall not be required to convene an IEP meeting or develop an IEP under this section for the child for the special education and related services for which the local educational agency requests such consent.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the local educational agency shall not be required to convene an IEP meeting or develop an IEP under this section for the child for the special education and related services forwhich the local educational agency requests such consent.
 
 #### (iii) Consent for wards of the State
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(ii) the present levels of academic achievement and related developmental needs of the child;
 
-&emsp;&emsp;&emsp;(iii) whether the child needs special education and related services, or in the caseof a reevaluation of a child, whether the child continues to need special education and related services; and
+&emsp;&emsp;&emsp;(iii) whether the child needs special education and related services, or in the case of a reevaluation of a child, whether the child continues to need special education and related services; and
 
 &emsp;&emsp;&emsp;(iv) whether any additions or modifications to the special education and related services are needed to enable the child to meet the measurable annual goals set out in the individualized education program of the child and to participate, as appropriate, in the general education curriculum.
 
@@ -222,7 +222,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The evaluation described in subparagraph (A) shall not be required before the termination of a child's eligibility under this subchapter due to graduation from secondary school with a regular diploma, or due to exceeding the age eligibility for a free appropriate public education under State law.
+&emsp;&emsp;&emsp;The evaluation described in subparagraph (A) shall not be required before the termination of a child's eligibility under this subchapter due to graduation from secondary school with a regular diploma,or due to exceeding the age eligibility for a free appropriate public education under State law.
 
 #### (ii) Summary of performance
 
@@ -450,7 +450,7 @@
 
 #### (ii) Authorization
 
-&emsp;&emsp;&emsp;In order to carry out the purpose of this paragraph, the Secretary is authorized to approve not more than 15 proposals from States to carry out the activity described in clause (i).
+&emsp;&emsp;&emsp;In order to carry out the purpose of this paragraph, the Secretary is authorized toapprove not more than 15 proposals from States to carry out the activity described in clause (i).
 
 #### (iii) Proposal
 
@@ -484,7 +484,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representativesand the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
+&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
 
 &emsp;&emsp;&emsp;(i) reducing—
 
@@ -520,7 +520,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 

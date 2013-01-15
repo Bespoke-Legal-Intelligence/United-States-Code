@@ -4,7 +4,7 @@
 
 (b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination. If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.
 
-(c) Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
+(c) Determinations under this section regarding the award or presentation of a decorationshall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
 
 (d) In this section:
 
@@ -72,7 +72,7 @@ Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authori
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 
-Section 522 of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title V, §522, Feb. 10, 1996, 110 Stat. 310, provided that:
 
 “(a)
 
@@ -128,7 +128,7 @@ Definition.—For purposes of this section:
 
 #### Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards
 
-Section 523 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title V, §575, Nov. 18, 1997, 111 Stat. 1758, provided that:
+Pub. L. 104–106, div. A, title V, §523, Feb. 10, 1996, 110 Stat. 311, as amended by Pub. L. 105–85, div. A, title V, §575, Nov. 18, 1997, 111 Stat. 1758, provided that:
 
 “(a)
 
@@ -140,7 +140,7 @@ Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) 
 
 Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the period beginning on February 10, 1996, and ending on February 9, 1998.
 
-“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act andshall complete the review of each request for consideration not later than one year after the date on which the request is received.
+“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
 
 “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for awarding decorations to members of the Armed Forces under the Secretary's jurisdiction for acts, achievements, or service.
 

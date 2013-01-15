@@ -36,13 +36,13 @@ Pub. L. 105–244, title IX, §911, Oct. 7, 1998, 112 Stat. 1829, provided that:
 
 #### Short Title of 1993 Amendment
 
-Section 201(a) of title II of Pub. L. 103–73 provided that: “This title \[amending this section and sections 4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
+Pub. L. 103–73, title II, §201(a), Aug. 11, 1993, 107 Stat. 732, provided that: “This title \[amending this section and sections 4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–421 provided that: “This Act \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1992’.”
+Pub. L. 102–421, §1, Oct. 16, 1992, 106 Stat. 2151, provided that: “This Act \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1992’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 99–371 provided: “That this Act \[enacting this chapter, repealing sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title, and repealing provisions set out as notes under sections 681 and 693 of this title\] may be cited as the ‘Education of the Deaf Act of 1986’.”
+Pub. L. 99–371, §1, Aug. 4, 1986, 100 Stat. 781, provided: “That this Act \[enacting this chapter, repealing sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title, and repealing provisions set out as notes under sections 681 and 693 of this title\] may be cited as the ‘Education of the Deaf Act of 1986’.”
 

@@ -8,7 +8,7 @@ Except as otherwise provided in this section, the Secretary is authorized to ass
 
 (1) The Secretary shall provide data, information, and products described in subsection (a) of this section to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
 
-(2) The Secretary shall waive the assessment of fees under subsection (a) of this section asnecessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
+(2) The Secretary shall waive the assessment of fees under subsection (a) of this section as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
 (3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric <sup>1</sup> Administration.
 
@@ -48,7 +48,7 @@ The authority of the Secretary to assess fees under this section shall be in add
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanicand Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
 
 Subsec. (b)(1). Pub. L. 101–508, §10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
 
@@ -66,7 +66,7 @@ Subsec. (g). Pub. L. 101–508, §10201(a)(7), inserted before period at end “
 
 #### Effect of Amendments
 
-Section 10201(b) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title X, §10201(b), Nov. 5, 1990, 104 Stat. 1388–393, provided that:
 
 “(1) The increase in revenues to the United States attributable to the amendments made by subsection (a) \[amending this section\] shall not exceed—
 

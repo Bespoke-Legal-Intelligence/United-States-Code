@@ -6,7 +6,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 #### (b) Notice and opportunity for comment; standards regarding cleanliness of grain
 
-(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request, an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
+(1) Before establishing, amending, or revoking any standards under this chapter, the Secretaryshall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request, an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
 
 (2)(A)(i) If the Secretary determines that the establishment or amendment of standards regarding cleanliness conditions of wheat, corn, barley, sorghum and soybeans that meet the requirements for grade number 3 or better (as set forth in subparagraph (B)) would—
 
@@ -38,7 +38,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 (1) In establishing standards under subsection (a) of this section for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
 
-(2) In establishing factors and factor limits under paragraph (1), the Secretary shall providefor notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
+(2) In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 
 #### (d) Moisture content criterion
 
@@ -80,7 +80,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Benefits and Costs Associated With Improved Grain Quality
 
-Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
+Pub. L. 101–624, title XX, §2003, Nov. 28, 1990, 104 Stat. 3929, provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation
 
@@ -118,7 +118,7 @@ Revision of procedures.—The Administrator of the Federal Grain Inspection Serv
 
 #### New Grain Classifications
 
-Section 1672 of Pub. L. 99–198 provided that:
+Pub. L. 99–198, title XVI, §1672, Dec. 23, 1985, 99 Stat. 1632, provided that:
 
 “(a) The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to cooperate in developing new means of establishing grain classifications taking into account characteristics other than those visually evident.
 
@@ -126,5 +126,5 @@ Section 1672 of Pub. L. 99–198 provided that:
 
 #### Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by October 21, 1978
 
-Section 24 of Pub. L. 94–582, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(b), Nov. 9, 2000, 114 Stat. 2061.
+Pub. L. 94–582, §24, Oct. 21, 1976, 90 Stat. 2888, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(b), Nov. 9, 2000, 114 Stat. 2061.
 

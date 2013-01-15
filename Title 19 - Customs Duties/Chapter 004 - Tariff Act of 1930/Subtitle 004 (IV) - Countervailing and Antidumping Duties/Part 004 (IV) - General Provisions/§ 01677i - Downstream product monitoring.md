@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) whether—
 
-&emsp;&emsp;&emsp;(i) the component part is already subject to monitoring to aid in the enforcement ofa bilateral arrangement (within the meaning of section 804 of the Trade and Tariff Act of 1984),
+&emsp;&emsp;&emsp;(i) the component part is already subject to monitoring to aid in the enforcement of a bilateral arrangement (within the meaning of section 804 of the Trade and Tariff Act of 1984),
 
 &emsp;&emsp;&emsp;(ii) merchandise related to the component part and manufactured in the same foreign country in which the component part is manufactured has been the subject of a significant number of investigations suspended under section 1671c or 1673c of this title or countervailing or antidumping duty orders issued under this subtitle or section 1303 <sup>1</sup> of this title, or
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 804 of the Trade and Tariff Act of 1984, referred to in subsec. (a)(2)(B)(i), is section 804 of Pub. L.98–573, which is set out as a note under section 2253 of this title.
+Section 804 of the Trade and Tariff Act of 1984, referred to in subsec. (a)(2)(B)(i), is section 804 of Pub. L. 98–573, which is set out as a note under section 2253 of this title.
 
 Section 1303 of this title, referred to in subsecs. (a)(2)(B)(ii), (iii) and (d)(1)(A)(i), (ii), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 

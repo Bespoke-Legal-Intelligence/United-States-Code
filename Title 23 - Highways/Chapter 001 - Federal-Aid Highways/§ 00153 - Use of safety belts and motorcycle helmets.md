@@ -6,7 +6,7 @@ Authority To Make Grants.—The Secretary may make grants to a State in a fiscal
 
 &emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if any individual on the motorcycle is not wearing a motorcycle helmet; and
 
-&emsp;(2) a law which makes unlawful throughout the State the operation of a passenger vehicle whenever an individual in a front seat of the vehicle (other than a child who is secured in a child restraint system) does not have a safety belt properly fastened about the individual's body.
+&emsp;(2) a law which makes unlawful throughout the State the operation of a passenger vehicle whenever an individual in a front seat of the vehicle (other than a child who is secured in a child restraint system) does not have a safetybelt properly fastened about the individual's body.
 
 (b)
 
@@ -80,11 +80,11 @@ Penalty.—
 
 &emsp;(1)
 
-Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) ofsection 104 of this title to the apportionment of the State under section 402 of this title.
+Prior to fiscal year 2012.—If, at any time in a fiscal year beginning after September 30, 1994, and before October 1, 2011, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 3 percent of the funds apportioned to the State for the succeeding fiscal year under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 <sup>1</sup> of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(2)
 
-Thereafter.—If, at any time in a fiscal year beginning after September 30, 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 3 percent of the funds apportioned to the State for the succeeding fiscal year under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
+Fiscal year 2012 and thereafter.—If, at any time in a fiscal year beginning after September 30, 2011, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer an amount equal to 2 percent of the funds apportioned to the State for the succeeding fiscal year under each of paragraphs (1) through (3) of section 104(b) to the apportionment of the State under section 402.
 
 &emsp;(3)
 
@@ -136,13 +136,15 @@ Applicability of Chapter 1
 
 Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
 
-(Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577.)
+(Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577; Pub. L. 112–141, div. A, title I, §1404(e), July 6, 2012, 126 Stat. 558.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (c) and (i)(3), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
 
-Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577.
+Section 104 of this title, referred to in subsec. (h)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+
+Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577. A new section 154, containing a similar definition of “motor vehicle”, was enacted by Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843.
 
 #### Prior Provisions
 
@@ -150,11 +152,21 @@ A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 8
 
 #### Amendments
 
+<b>2012</b>—Subsec. (h)(1), (2). Pub. L. 112–141 redesignated par. (2) as (1), substituted “
+
+Prior to fiscal year 2012” for “
+
+Thereafter” in par. heading, inserted “and before October 1, 2011,” after “September 30, 1994,” in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.”
+
 <b>1995</b>—Subsec. (h)(1), (2). Pub. L. 104–59 struck out “a law described in subsection (a)(1) and” after “have in effect”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 1995 Amendment
 
-Section 205(e) of Pub. L. 104–59 provided that the amendment made by that section is effective Sept. 30, 1995.
+Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577, provided that the amendment made by that section is effective Sept. 30, 1995.
 
 #### Effective Date
 
@@ -162,7 +174,7 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 
 #### Study of Benefits of Safety Belts and Motorcycle Helmets to Individuals Involved in Crashes
 
-Section 1031(b) of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1031(b), Dec. 18, 1991, 105 Stat. 1973, provided that:
 
 “(1)
 
@@ -174,7 +186,7 @@ Report.—The Secretary shall make public a proposed report on the results of th
 
 “(3)
 
-Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 1993 (or both) to carry out section 153 of title 23, United States Code, the Secretary shall make available $5,000,000 in the aggregate in such fiscal years to carry out this subsection. Such funds shall remain available until expended.”
+Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 1993 (or both) to carryout section 153 of title 23, United States Code, the Secretary shall make available $5,000,000 in the aggregate in such fiscal years to carry out this subsection. Such funds shall remain available until expended.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@ The Congress finds that—
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 101–477 provided that: “This title \[enacting this chapter\] may be cited as the ‘Native American Languages Act’.”
+Pub. L. 101–477, title I, §101, Oct. 30, 1990, 104 Stat. 1153, provided that: “This title \[enacting this chapter\] may be cited as the ‘Native American Languages Act’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “American”.</i>
 

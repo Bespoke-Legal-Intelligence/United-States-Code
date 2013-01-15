@@ -14,13 +14,13 @@ Duties of Inspectors.—The Administrator of the Federal Aviation Administration
 
 (c)
 
-Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator orthe inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
+Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decides that an aircraft, aircraft engine, propeller, or appliance is not in condition for safe operation, the inspector shall notify the air carrier in the form and way prescribed by the Administrator of the Federal Aviation Administration. For 5 days after the carrier is notified, the aircraft, engine, propeller, or appliance may not be used in air transportation or in a way that endangers air transportation unless the Administrator or the inspector decides the aircraft, engine, propeller, or appliance is in condition for safe operation.
 
 (d)
 
 Modifications in System.—(1) The Administrator of the Federal Aviation Administration shall make modifications in the system for processing forms for major repairs or alterations to fuel tanks and fuel systems of aircraft not used to provide air transportation that are necessary to make the system more effective in serving the needs of users of the system, including officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall address at least each of the following deficiencies in, and abuses of, the existing system:
 
-&emsp;(A) the lack of a special identification feature to allow the forms to be distinguished easily from other major repair and alteration forms.
+&emsp;(A) the lack of a special identification feature to allow the forms to be distinguishedeasily from other major repair and alteration forms.
 
 &emsp;(B) the excessive period of time required to receive the forms at the Airmen and Aircraft Registry of the Administration.
 
@@ -135,4 +135,62 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Maintenance Providers
+
+Pub. L. 112–95, title III, §319, Feb. 14, 2012, 126 Stat. 69, provided that:
+
+“(a)
+
+Regulations.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall issue regulations requiring that covered work on an aircraft used to provide air transportation under part 121 of title 14, Code of Federal Regulations, be performed by persons in accordance with subsection (b).
+
+“(b)
+
+Persons Authorized To Perform Certain Work.—A person may perform covered work on aircraft used to provide air transportation under part 121 of title 14, Code of Federal Regulations, only if the person is employed by—
+
+&emsp;“(1) a part 121 air carrier;
+
+&emsp;“(2) a part 145 repair station or a person authorized under section 43.17 of title 14, Code of Federal Regulations (or any successor regulation); or
+
+&emsp;“(3) subject to subsection (c), a person that—
+
+&emsp;&emsp;“(A) provides contract maintenance workers, services, or maintenance functions to a part 121 air carrier or part 145 repair station; and
+
+&emsp;&emsp;“(B) meets the requirements of the part 121 air carrier or the part 145 repair station, as appropriate.
+
+“(c)
+
+Terms and Conditions.—Covered work performed by a person who is employed by a person described in subsection (b)(3) shall be subject to the following terms and conditions:
+
+&emsp;“(1) The applicable part 121 air carrier shall be directly in charge of the covered work being performed.
+
+&emsp;“(2) The covered work shall be carried out in accordance with the part 121 air carrier's maintenance manual.
+
+&emsp;“(3) The person shall carry out the covered work under the supervision and control of the part 121 air carrier directly in charge of the covered work being performed on its aircraft.
+
+“(d)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Covered work.—The term ‘covered work’ means any of the following:
+
+&emsp;&emsp;“(A) Essential maintenance that could result in a failure, malfunction, or defect endangering the safe operation of an aircraft if not performed properly or if improper parts or materials are used.
+
+&emsp;&emsp;“(B) Regularly scheduled maintenance.
+
+&emsp;&emsp;“(C) A required inspection item (as defined by the Administrator).
+
+&emsp;“(2)
+
+Part 121 air carrier.—The term ‘part 121 air carrier’ means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
+
+&emsp;“(3)
+
+Part 145 repair station.—The term ‘part 145 repair station’ means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
+
+&emsp;“(4)
+
+Person.—The term ‘person’ means an individual, firm, partnership, corporation, company, or association that performs maintenance, preventative maintenance, or alterations.”
 

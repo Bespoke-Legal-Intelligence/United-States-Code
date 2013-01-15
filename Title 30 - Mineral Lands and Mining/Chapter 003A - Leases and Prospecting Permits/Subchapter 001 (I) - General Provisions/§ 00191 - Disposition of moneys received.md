@@ -90,7 +90,7 @@ Pub. L. 106–393, title V, §502, Oct. 30, 2000, 114 Stat. 1624, provided that:
 
 #### Funds Held by Colorado and Utah From Interior Department Oil Shale Test Leases
 
-Section 317(b) of Pub. L. 94–579 provided that: “Funds now held pursuant to said section 35 \[this section\] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
+Pub. L. 94–579, title III, §317(b), Oct. 21, 1976, 90 Stat. 2771, provided that: “Funds now held pursuant to said section 35 \[this section\] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
 
 #### Admission of Alaska as State
 

@@ -76,7 +76,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 #### (II) Investigation not initiated
 
-&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shall further notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
+&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shallfurther notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
 
 #### (iii) Investigation by senior official
 

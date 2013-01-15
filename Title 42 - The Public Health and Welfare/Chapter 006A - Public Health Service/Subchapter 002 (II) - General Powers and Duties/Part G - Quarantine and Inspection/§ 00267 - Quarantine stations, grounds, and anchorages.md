@@ -2,7 +2,7 @@
 
 #### (a) Control and management
 
-Except as provided in title II of the Act of June 15, 1917, as amended \[50 U.S.C. 191 et seq.\], the Surgeon General shall control, direct, and manage all United States quarantine stations, grounds, and anchorages, designate their boundaries, and designate the quarantine officers to be in charge thereof. With the approval of the President he shall from time to time select suitable sites for and establish such additional stations, grounds, and anchorages in the States and possessions of the United States as in his judgment are necessary to prevent the introduction of communicable diseases into the States and possessions of the United States.
+Except as provided in title II of the Act of June 15, 1917, as amended \[50 U.S.C. 191 et seq.\], the Surgeon General shall control, direct, and manage all United States quarantine stations, grounds, and anchorages, designate their boundaries, and designate the quarantine officers to be in charge thereof. With the approval of the President he shall from time to time select suitable sites for and establish such additional stations, grounds, and anchorages in the States and possessions of the United States as in his judgment are necessary to prevent the introductionof communicable diseases into the States and possessions of the United States.
 
 #### (b) Hours of inspection
 
@@ -34,7 +34,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No.11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 For assignment of functions of President under subsec. (a) of this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under section 264 of this title.
 

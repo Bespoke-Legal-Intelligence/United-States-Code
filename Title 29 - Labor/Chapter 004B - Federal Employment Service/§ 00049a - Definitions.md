@@ -6,13 +6,13 @@ For purposes of this chapter—
 
 &emsp;(2) the term “local workforce investment board” means a local workforce investment board established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\];
 
-&emsp;(3) the term “one-stop delivery system” means a one-stop delivery system described in section 134(c) of the Workforce Investment Act of 1998 \[29 U.S.C. 2864(c)\];
+&emsp;(3) the term “one-stop delivery system” means a one-stop delivery system described insection 134(c) of the Workforce Investment Act of 1998 \[29 U.S.C. 2864(c)\];
 
 &emsp;(4) the term “Secretary” means the Secretary of Labor; and
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
-(June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2),Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §301, Aug. 7, 1998, 112 Stat. 1080.)
+(June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §301, Aug. 7, 1998, 112 Stat. 1080.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ Par. (4). Pub. L. 105–220, §301(2), (3), (5), redesignated par. (3) as (4), s
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–220, title III, §311, Aug. 7, 1998, 112 Stat. 1086, provided that: “The amendments made by this subtitle \[subtitle A (§§301–311) of title III of Pub. L. 105–220, enacting section 49<i>l</i>–2 of this title and amending this section, sections 49b, 49c, 49d, 49e to 49g, 49j, and 49k of this title, and section 655a of Title 42, The Public Health and Welfare\] shall take effect on July 1, 1999.”
+Pub. L. 105–220, title III, §311, Aug. 7, 1998, 112 Stat. 1086, provided that: “The amendments made by this subtitle \[subtitle A (§§301–311) of title III of Pub. L. 105–220, enacting section 49l–2 of this title and amending this section, sections 49b, 49c, 49d, 49e to 49g, 49j, and 49k of this title, and section 655a of Title 42, The Public Health and Welfare\] shall take effect on July 1, 1999.”
 
 #### Effective Date of 1982 Amendment
 

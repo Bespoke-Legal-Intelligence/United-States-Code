@@ -54,5 +54,5 @@ Subsec. (c). Pub. L. 99–145, §1224(a), added subsec. (c).
 
 #### Effective Date of 1985 Amendment
 
-Section 1224(d) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 473 of Title 50, Appendix, War and National Defense\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].”
+Pub. L. 99–145, title XII, §1224(d), Nov. 8, 1985, 99 Stat. 729, provided that: “The amendments made by this section \[amending this section and section 473 of Title 50, Appendix, War and National Defense\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].”
 

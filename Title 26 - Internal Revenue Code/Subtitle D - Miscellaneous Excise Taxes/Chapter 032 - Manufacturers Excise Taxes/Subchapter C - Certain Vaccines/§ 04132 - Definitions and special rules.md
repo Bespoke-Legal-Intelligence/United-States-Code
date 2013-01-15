@@ -204,9 +204,9 @@ Amendment by Pub. L. 105–34 effective on the day after Aug. 5, 1997, see secti
 
 #### Effective Date of 1988 Amendment
 
-Section 2006(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 9510 of this title\] shall take effect as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Pub. L. 100–647, title II, §2006(c), Nov. 10, 1988, 102 Stat. 3613, provided that: “The amendments made by this section \[amending this section and section 9510 of this title\] shall take effect as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
 #### Limitation on Certain Credits or Refunds
 
-Section 904(e) of Pub. L. 105–34 provided that: “For purposes of applying section 4132(b) of the Internal Revenue Code of 1986 with respect to any claim for credit or refund filed before January 1, 1999, the amount of tax taken into account shall not exceed the tax computed under the rate in effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §904(e), Aug. 5, 1997, 111 Stat. 874, provided that: “For purposes of applying section 4132(b) of the Internal Revenue Code of 1986 with respect to any claim for credit or refund filed before January 1, 1999, the amount of tax taken into account shall not exceed the tax computed under the rate in effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

@@ -10,7 +10,7 @@
 
 (c) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for bilateral or multilateral military exercises that begin in a fiscal year and end in the following fiscal year.
 
-(d) In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country's participation in a bilateral or multilateral military exercise with the United States,including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country's personnel.
+(d) In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country's participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country's personnel.
 
 (Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, §1061(12), Dec. 31, 2011, 125 Stat. 1583.)
 

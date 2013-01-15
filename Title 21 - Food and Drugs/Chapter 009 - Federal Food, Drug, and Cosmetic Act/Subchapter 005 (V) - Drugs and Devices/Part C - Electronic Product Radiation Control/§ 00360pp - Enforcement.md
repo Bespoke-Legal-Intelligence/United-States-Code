@@ -2,11 +2,11 @@
 
 #### (a) Jurisdiction of courts
 
-The district courts of the United States shall have jurisdiction, for cause shown, to restrain violations of section 360<i>oo</i> of this title and to restrain dealers and distributors of electronic products from selling or otherwise disposing of electronic products which do not conform to an applicable standard prescribed pursuant to section 360kk of this title except when such products are disposed of by returning them to the distributor or manufacturer from whom they were obtained. The district courts of the United States shall also have jurisdiction in accordance with section 1355 of title 28 to enforce the provisions of subsection (b) of this section.
+The district courts of the United States shall have jurisdiction, for cause shown, to restrain violations of section 360oo of this title and to restrain dealers and distributors of electronic products from selling or otherwise disposing of electronic products which do not conform to an applicable standard prescribed pursuant to section 360kk of this title except when such products are disposed of by returning them to the distributor or manufacturer from whom they were obtained. The district courts of the United States shall also have jurisdiction in accordance with section 1355 of title 28 to enforce the provisions of subsection (b) of this section.
 
 #### (b) Penalties
 
-(1) Any person who violates section 360<i>oo</i> of this title shall be subject to a civil penalty of not more than $1,000. For purposes of this subsection, any such violation shall with respect to each electronic product involved, or with respect to each act or omission made unlawful by section 360<i>oo</i> of this title, constitute a separate violation, except that the maximum civil penalty imposed on any person under this subsection for any related series of violations shall not exceed $300,000.
+(1) Any person who violates section 360oo of this title shall be subject to a civil penalty of not more than $1,000. For purposes of this subsection, any such violation shall with respect to each electronic product involved, or with respect to each act or omission made unlawful by section 360oo of this title, constitute a separate violation, except that the maximum civil penalty imposed on any person under this subsection for any related series of violations shall not exceed $300,000.
 
 (2) Any such civil penalty may on application be remitted or mitigated by the Secretary. In determining the amount of such penalty, or whether it should be remitted or mitigated and in what amount, the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered. The amount of such penalty, when finally determined, may be deducted from any sums owing by the United States to the person charged.
 
@@ -20,7 +20,7 @@ Nothing in this part shall be construed as requiring the Secretary to report for
 
 #### (e) Compliance with regulations
 
-Except as provided in the first sentence of section 360ss of this title, compliance with this part or any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
+Except as provided in the first sentence of section 360ss of this title, compliance with this partor any regulations issued thereunder shall not relieve any person from liability at common law or under statutory law.
 
 #### (f) Additional remedies
 
@@ -36,9 +36,9 @@ Section was classified to section 263k of Title 42, The Public Health and Welfar
 
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263k of Title 42, The Public Health and Welfare, as this section.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted “section 360<i>oo</i>” for “section 263j” and “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(2)(G)(i), (ii), substituted “section 360oo” for “section 263j” and “section 360kk” for “section 263f”.
 
-Subsec. (b)(1). Pub. L. 101–629, §19(a)(2)(G)(ii), substituted “section 360<i>oo</i>” for “section 263j” in two places.
+Subsec. (b)(1). Pub. L. 101–629, §19(a)(2)(G)(ii), substituted “section 360oo” for “section 263j” in two places.
 
 Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in two places.
 

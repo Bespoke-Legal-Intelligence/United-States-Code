@@ -26,13 +26,13 @@ As used in this section, the term “net savings” means, for any period, the b
 
 #### (d) Cooperatives eligible for other Federal credit assistance
 
-An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutionsof the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
+An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
 
 #### (e) Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance
 
 Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II of this chapter.
 
-(Pub. L. 95–351, title I, §105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III §394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437.)
+(Pub. L. 95–351, title I, §105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III, §394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ Subsec. (a)(5). Pub. L. 97–35, §394(f), inserted provisions relating to excep
 
 #### Effective Date of 1981 Amendment
 
-Section 394(e)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §394(e)(2), Aug. 13, 1981, 95 Stat. 437, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 #### Transfer of Functions
 

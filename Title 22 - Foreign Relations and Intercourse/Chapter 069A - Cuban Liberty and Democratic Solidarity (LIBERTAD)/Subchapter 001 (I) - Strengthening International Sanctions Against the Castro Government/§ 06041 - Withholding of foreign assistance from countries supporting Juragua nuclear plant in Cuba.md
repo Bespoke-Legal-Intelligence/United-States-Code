@@ -10,7 +10,7 @@ The Congress makes the following findings:
 
 &emsp;(3) The State Department, the Nuclear Regulatory Commission, and the Department of Energy have expressed concerns about the construction and operation of Cuba's nuclear reactors.
 
-&emsp;(4) In a September 1992 report to the Congress, the General Accounting Office outlined concerns among nuclear energy experts about deficiencies in the nuclear plant project in Juragua, near Cienfuegos, Cuba, including—
+&emsp;(4) In a September 1992 report to the Congress, the General Accounting Office outlined concerns among nuclear energy experts aboutdeficiencies in the nuclear plant project in Juragua, near Cienfuegos, Cuba, including—
 
 &emsp;&emsp;(A) a lack in Cuba of a nuclear regulatory structure;
 

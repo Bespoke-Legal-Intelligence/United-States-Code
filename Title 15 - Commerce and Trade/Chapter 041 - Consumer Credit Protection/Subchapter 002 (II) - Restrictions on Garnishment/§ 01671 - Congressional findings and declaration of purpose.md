@@ -18,5 +18,5 @@ On the basis of the findings stated in subsection (a) of this section, the Congr
 
 #### Effective Date
 
-Section 504(c) of Pub. L. 90–321 provided that: “Title III \[enacting this section and sections 1672 to 1677 of this title\] takes effect on July 1, 1970.”
+Pub. L. 90–321, title V, §504(c), May 29, 1968, 82 Stat. 167, provided that: “Title III \[enacting this section and sections 1672 to 1677 of this title\] takes effect on July 1, 1970.”
 

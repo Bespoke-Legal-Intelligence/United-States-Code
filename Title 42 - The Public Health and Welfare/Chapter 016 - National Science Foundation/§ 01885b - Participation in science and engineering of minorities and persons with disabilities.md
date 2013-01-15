@@ -8,7 +8,7 @@
 
 #### Codification
 
-Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

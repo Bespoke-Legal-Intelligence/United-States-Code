@@ -58,9 +58,9 @@
 
 (f) This section does not apply to the collection of debts under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultationwith the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
+(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (l), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, §5(h)(6), Jan. 4, 2011, 124 Stat. 3849.)
 
 Historical and Revision Notes
 
@@ -110,19 +110,19 @@ The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title 
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) ofthe Small Business Act)” after “disadvantaged individuals”.
 
 Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
 
 Subsec. (b)(3)(C). Pub. L. 105–135, §604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(<i>l</i>)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(l)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
 
 Subsec. (b)(1)(A). Pub. L. 104–134, §31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
 
 Subsec. (b)(2). Pub. L. 104–134, §31001(c)(1), which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 104–134, §31001(<i>l</i>)(2), inserted “, or to locate or recover assets of,” after “owed”.
+Subsec. (d). Pub. L. 104–134, §31001(l)(2), inserted “, or to locate or recover assets of,” after “owed”.
 
 <b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–272 substituted “15 U.S.C. 637(d)(3)(C)(i)” for “15 U.S.C. 6376(d)(3)(C)(i)”.
 
@@ -146,23 +146,23 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1992 Amendment
 
-Section 7 of Pub. L. 102–589 provided that: “The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendmentsmade by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
+Pub. L. 102–589, §7, Nov. 10, 1992, 106 Stat. 5135, provided that: “The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 5 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Pub. L. 99–578, §5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
 #### Regulations
 
-Section 4 of Pub. L. 99–578 provided that: “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act \[amending this section and enacting provisions set out as notes under this section\]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
+Pub. L. 99–578, §4, Oct. 28, 1986, 100 Stat. 3307, provided that: “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act \[amending this section and enacting provisions set out as notes under this section\]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
 
 #### Extension of Contracts With Private Counsel
 
-Section 4(d) of Pub. L. 102–589 provided that: “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code.”
+Pub. L. 102–589, §4(d), Nov. 10, 1992, 106 Stat. 5134, provided that: “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code.”
 
 #### Audit by Inspector General
 
-Section 5 of Pub. L. 102–589 provided that:
+Pub. L. 102–589, §5, Nov. 10, 1992, 106 Stat. 5134, provided that:
 
 “(a)
 
@@ -174,9 +174,9 @@ Report to Congress.—After completing the audit under subsection (a), the Inspe
 
 #### Pilot Program; Extension
 
-Section 3 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Pub. L. 99–578, §3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
+Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by PublicLaw 99–578 (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 
@@ -188,11 +188,11 @@ Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 216.
 
 #### Report by Attorney General
 
-Section 2 of Pub. L. 99–578 directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by Pub. L. 99–578.
+Pub. L. 99–578, §2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by Pub. L. 99–578.
 
 #### Audit by Comptroller General
 
-Section 6 of Pub. L. 99–578 provided that:
+Pub. L. 99–578, §6, Oct. 28, 1986, 100 Stat. 3307, provided that:
 
 “(a)
 

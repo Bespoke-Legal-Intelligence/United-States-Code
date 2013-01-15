@@ -16,7 +16,7 @@ In addition to any other authority or requirement regarding protection from disc
 
 &emsp;(B) upon a determination that the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility.
 
-> Nothing in this chapter shall authorize the Commission to prohibit the public disclosure of information pertaining to the routes and quantities of shipments of source material, by-product material, high level nuclear waste, or irradiated nuclear reactor fuel. Any person, whetheror not a licensee of the Commission, who violates any regulation adopted under this section shall be subject to the civil monetary penalties of section 2282 of this title. Nothing in this section shall be construed to authorize the withholding of information from the duly authorized committees of the Congress.
+> Nothing in this chapter shall authorize the Commission to prohibit the public disclosure of information pertaining to the routes and quantities of shipments of source material, by-product material, high level nuclear waste, or irradiated nuclear reactor fuel. Any person, whether or not a licensee of the Commission, who violates any regulation adopted under this section shall be subject to the civil monetary penalties of section 2282 of this title. Nothing in this section shall be construed to authorize the withholding of information from the duly authorized committees of the Congress.
 
 #### (b) Regulations or orders issued under this section and section 2201(b) of this title for purposes of section 2273 of this title
 

@@ -10,7 +10,7 @@
 
 (2) For the purpose of this section, a compelling need shall be determined not to exist for any rule or regulation only if—
 
-&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writing that a compelling need for the rule or regulation does not exist; or
+&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writingthat a compelling need for the rule or regulation does not exist; or
 
 &emsp;(B) the Authority determines that a compelling need for a rule or regulation does not exist.
 

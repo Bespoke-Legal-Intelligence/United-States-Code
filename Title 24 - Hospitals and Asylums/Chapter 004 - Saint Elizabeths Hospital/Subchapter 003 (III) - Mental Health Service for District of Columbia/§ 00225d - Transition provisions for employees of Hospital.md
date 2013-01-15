@@ -44,5 +44,5 @@ The District of Columbia Government Comprehensive Merit Personnel Act of 1978, r
 
 #### Continued Coverage Under Certain Federal Employee Benefits Programs for Certain Employees of Saint Elizabeths Hospital
 
-For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(o) of Pub. L. 99–335, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 

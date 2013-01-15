@@ -14,7 +14,7 @@ Benchmark corporation.—The term “benchmark corporation”, with respect to a
 
 &emsp;(3)
 
-Compensation.—The term “compensation”, for a fiscal year, means the totalamount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+Compensation.—The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(4)
 
@@ -86,7 +86,7 @@ Pub. L. 105–85, div. A, title VIII, §808(f), Nov. 18, 1997, 111 Stat. 1838, p
 
 Pub. L. 105–85, div. A, title VIII, §808(g), Nov. 18, 1997, 111 Stat. 1838, as amended by Pub. L. 105–261, div. A, title VIII, §804(c)(2), Oct. 17, 1998, 112 Stat. 2083, provided that: “In this section \[see Tables for classification\]:
 
-&emsp;“(1) The term ‘covered contract’ has the meaning given such term in section 2324(<i>l</i>) of title 10, United States Code, and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 256(<i>l</i>)) \[see 41 U.S.C. 4301\].
+&emsp;“(1) The term ‘covered contract’ has the meaning given such term in section 2324(l) of title 10, United States Code, and section 306(l) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 256(l)) \[see 41 U.S.C. 4301\].
 
-&emsp;“(2) The terms ‘compensation’ and ‘senior executives’ have the meanings given such terms in section 2324(<i>l</i>) of title 10, United States Code, and section 306(m) of the Federal Property and Administrative Services Act of 1949 \[see 41 U.S.C. 4301\].”
+&emsp;“(2) The terms ‘compensation’ and ‘senior executives’ have the meanings given such terms in section 2324(l) of title 10, United States Code, and section 306(m) of the Federal Property and Administrative Services Act of 1949 \[see 41 U.S.C. 4301\].”
 

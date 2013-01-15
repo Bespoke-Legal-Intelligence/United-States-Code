@@ -20,7 +20,7 @@ It is the objective of the United States—
 
 #### Effective Date
 
-Section 316 of title III of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title III, §316, Dec. 8, 1994, 108 Stat. 4943, provided that:
 
 “(a)
 

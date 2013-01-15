@@ -18,7 +18,7 @@ As used in this section:
 
 #### (3) Donate
 
-&emsp;The term “donate” means to give without requiring anything of monetary value from the recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value.
+&emsp;The term “donate” means to give without requiring anything of monetary value fromthe recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value.
 
 #### (4) Food
 

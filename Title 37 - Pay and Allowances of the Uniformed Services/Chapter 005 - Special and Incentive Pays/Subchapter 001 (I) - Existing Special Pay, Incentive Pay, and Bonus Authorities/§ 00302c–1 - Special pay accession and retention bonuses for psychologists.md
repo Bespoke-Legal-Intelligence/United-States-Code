@@ -56,7 +56,7 @@ Accession bonus.—The amount of an accession bonus under subsection (a) may not
 
 &emsp;(2)
 
-Retention bonus.—The amount of a retention bonus under subsection (b) may not exceed $25,000 for each year of the agreement of the officer concerned.
+Retention bonus.—The amount of a retention bonus under subsection (b) may notexceed $25,000 for each year of the agreement of the officer concerned.
 
 (d)
 
@@ -76,11 +76,13 @@ Retention bonus.—An officer who does not complete the period of active duty sp
 
 (f)
 
-Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2012.
+Termination of Authority.—No agreement under subsection (a) or (b) may be entered into after December 31, 2013.
 
-(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(1), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 110–417, \[div. A\], title VI, §620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, §612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(1), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

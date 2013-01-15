@@ -26,7 +26,7 @@
 
 (4)(A) In any case where there has been a refusal or neglect to pay the liability imposed under paragraph (2), the Secretary may bring a civil action in a district court of the United States to enforce the lien of the United States under this section with respect to such liability or to subject any property, of whatever nature, of the operator, or in which he has any right, title, or interest, to the payment of such liability.
 
-(B) The liability imposed by paragraph (1) may be collected at a proceeding in court if the proceeding is commenced within 6 years after the date on which the liability was finally determined, or before the expiration of any period for collection agreed upon in writing by the operator and the United States before the expiration of such 6-year period. The running of the period of limitation provided under this subparagraph shall be suspended for any period during which the assets of the operator are in the custody or control of any court of the United States, or of any State, or the District of Columbia, and for 6 months thereafter, and for any period during which the operator is outside the United States if such period of absence is for a continuous period of at least 6 months.
+(B) The liability imposed by paragraph (1) may be collected at a proceeding in court if the proceeding is commenced within 6 years after the date on which the liability was finally determined, or before the expiration of any period for collection agreed upon in writing by the operator and the United States before the expiration of such 6-year period. The running of the period of limitation provided under this subparagraph shall be suspended for any period during which the assets of the operator are in the custody or control of any court of the United States, or ofany State, or the District of Columbia, and for 6 months thereafter, and for any period during which the operator is outside the United States if such period of absence is for a continuous period of at least 6 months.
 
 (5) The rate of interest under this subsection—
 
@@ -68,7 +68,7 @@ Subsec. (b)(5). Pub. L. 97–119, §104(a)(1), added par. (5).
 
 #### Effective Date of 1981 Amendment
 
-Section 104(a)(3) of Pub. L. 97–119 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1982, and shall apply to amounts outstanding on such date or arising thereafter.”
+Pub. L. 97–119, title I, §104(a)(3), Dec. 29, 1981, 95 Stat. 1639, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1982, and shall apply to amounts outstanding on such date or arising thereafter.”
 
 #### Effective Date of 1980 Amendment
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub.
 
 #### Effective Date of 1978 Amendment
 
-Section 3(e) of Pub. L. 95–227 provided that: “This section \[enacting section 934a of this title and amending this section\] shall take effect on April 1, 1978.”
+Pub. L. 95–227, §3(e), Feb. 10, 1978, 92 Stat. 15, provided that: “This section \[enacting section 934a of this title and amending this section\] shall take effect on April 1, 1978.”
 

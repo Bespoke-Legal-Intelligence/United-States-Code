@@ -14,5 +14,5 @@ This section not to be construed to extend application of Education Amendments o
 
 #### Abortion Neutrality
 
-Section 8 of Pub. L. 100–259 provided that: “No provision of this Act or any amendment made by this Act \[see Short Title of 1988 Amendment note under section 1681 of this title\] shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal Funds \[sic\] to perform or pay for an abortion.”
+Pub. L. 100–259, §8, Mar. 22, 1988, 102 Stat. 31, provided that: “No provision of this Act or any amendment made by this Act \[see Short Title of 1988 Amendment note under section 1681 of this title\] shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal Funds \[sic\] to perform or pay for an abortion.”
 

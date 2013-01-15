@@ -66,6 +66,18 @@ Subsec. (d)(3). Pub. L. 112–81, §1105(2), inserted at end “In computing an 
 
 For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.
 
+#### Policy on Senior Mentors
+
+Pub. L. 112–239, div. A, title XI, §1105, Jan. 2, 2013, 126 Stat. 1973, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall provide written notice to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] at least 60 days before implementing any change in the policy regarding senior mentors issued on or about April 1, 2010.
+
+“(b)
+
+Applicability.—Changes implemented before the date of the enactment of this Act \[Jan. 2, 2013\] shall not be affected by this section.”
+
 #### Disclosure of Senior Mentors
 
 Pub. L. 112–81, div. A, title XI, §1124, Dec. 31, 2011, 125 Stat. 1618, provided that:

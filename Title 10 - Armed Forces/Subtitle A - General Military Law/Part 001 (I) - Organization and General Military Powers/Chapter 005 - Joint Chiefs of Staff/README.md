@@ -7,6 +7,7 @@
 | [153\.](%C2%A7%2000153%20-%20Chairman%20functions.md) | Chairman: functions. |
 | [154\.](%C2%A7%2000154%20-%20Vice%20Chairman.md) | Vice Chairman. |
 | [155\.](%C2%A7%2000155%20-%20Joint%20Staff.md) | Joint Staff. |
+| [155a.](%C2%A7%2000155a%20-%20Assistants%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff%20for%20National%20Guard%20matters%20and%20Reserve%20matters.md) | Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters. |
 | [156\.](%C2%A7%2000156%20-%20Legal%20Counsel%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md) | Legal Counsel to the Chairman of the Joint Chiefs of Staff. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,6 +23,8 @@ Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 8
 Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, §5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §511(b), Jan. 2, 2013, 126 Stat. 1718, added item 155a.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(2), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 156.
 
@@ -41,4 +44,5 @@ Pub. L. 110–181, div. A, title V, §543(e)(2), Jan. 28, 2008, 122 Stat. 115, a
 - [&sect; 00153 - Chairman functions](%C2%A7%2000153%20-%20Chairman%20functions.md)
 - [&sect; 00154 - Vice Chairman](%C2%A7%2000154%20-%20Vice%20Chairman.md)
 - [&sect; 00155 - Joint Staff](%C2%A7%2000155%20-%20Joint%20Staff.md)
+- [&sect; 00155a - Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters](%C2%A7%2000155a%20-%20Assistants%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff%20for%20National%20Guard%20matters%20and%20Reserve%20matters.md)
 - [&sect; 00156 - Legal Counsel to the Chairman of the Joint Chiefs of Staff](%C2%A7%2000156%20-%20Legal%20Counsel%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md)

@@ -30,5 +30,5 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-While section 3745(c) of Title 26, U.S.C., Internal Revenue Code, is one of the sources of this section, it was eliminated from the schedule of repeals by Senate amendment. Therefore, such section 3745(c) remains in Title 26. See 80th Congress Senate Report No. 1559.
+While section 3745(c) of Title 26, U.S.C., Internal Revenue Code, is one of the sources of this section, it waseliminated from the schedule of repeals by Senate amendment. Therefore, such section 3745(c) remains in Title 26. See 80th Congress Senate Report No. 1559.
 

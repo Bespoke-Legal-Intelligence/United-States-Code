@@ -8,7 +8,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(3) “Indian lands” means any lands or interest in lands of an Indian tribe or an Indian allottee held in trust by the United States or which is subject to Federal restriction against alienation or which is administered by the United States pursuant to section 1613(g) of title 43, including mineral resources and mineral estates reserved to an Indian tribe or an Indian allottee in the conveyance of a surface or nonmineral estate, except that such term does not include any lands subject to the provisions of section 3 of the Act of June 28, 1906 (34 Stat. 539);
 
-&emsp;(4) “Indian tribe” means any Indian tribe, band, nation, pueblo, community, rancheria, colony, or other group of Indians, including the Metlakatla Indian Community of Annette Island Reserve, for which any land or interest in land is held by the United States in trust or which is subject to Federal restriction against alienation or which is administered by the United States pursuant to section 1613(g) of title 43;
+&emsp;(4) “Indian tribe” means any Indian tribe, band, nation, pueblo, community, rancheria, colony, or other group of Indians, including the Metlakatla Indian Community of Annette Island Reserve, for which any land or interestin land is held by the United States in trust or which is subject to Federal restriction against alienation or which is administered by the United States pursuant to section 1613(g) of title 43;
 
 &emsp;(5) “lease” means any contract, profit-share arrangement, joint venture, or other agreement issued or approved by the United States under a mineral leasing law that authorizes exploration for, extraction of, or removal of oil or gas;
 
@@ -22,7 +22,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(10) “Outer Continental Shelf” has the same meaning as provided in the Outer Continental Shelf Lands Act (Public Law 95–372);
 
-&emsp;(11) “operator” means any person, including a lessee, who has control of, or who managesoperations on, an oil and gas lease site on Federal or Indian lands or on the Outer Continental Shelf;
+&emsp;(11) “operator” means any person, including a lessee, who has control of, or who manages operations on, an oil and gas lease site on Federal or Indian lands or on the Outer Continental Shelf;
 
 &emsp;(12) “person” means any individual, firm, corporation, association, partnership, consortium, or joint venture;
 
@@ -96,7 +96,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(A) asserts a specific, definite, and quantified obligation claimed to be due, and
 
-&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include anyother communication or action by or on behalf of the Secretary or a delegated State;
+&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
 
 &emsp;(27) “overpayment” means any payment by a lessee or its designee in excess of an amount legally required to be paid on an obligation and includes the portion of any estimated payment for a production month that is in excess of the royalties due for that month;
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 #### Effective Date of 1988 Amendment
 
-Section 29(f)(2) of Pub. L. 92–203, as added by Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if originally included in section 3 of Public Law 97–451 \[this section\].”
+Pub. L. 92–203, §29(f)(2), as added by Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if originally included in section 3 of Public Law 97–451 \[this section\].”
 
 #### Applicability of 1996 Amendment
 

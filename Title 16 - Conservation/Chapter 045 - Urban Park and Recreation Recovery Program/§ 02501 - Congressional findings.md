@@ -16,5 +16,5 @@ The Congress finds that—
 
 #### Short Title
 
-Section 1001 of title X of Pub. L. 95–625 provided that: “This title \[enacting this chapter\] may be cited as the ‘Urban Park and Recreation Recovery Act of 1978’.”
+Pub. L. 95–625, title X, §1001, Nov. 10, 1978, 92 Stat. 3538, provided that: “This title \[enacting this chapter\] may be cited as the ‘Urban Park and Recreation Recovery Act of 1978’.”
 

@@ -106,7 +106,7 @@ Any person regularly engaged in any coal or uranium development activity within 
 
 &emsp;(3) the projected quantity of coal (or uranium) to be produced, processed, or transported by such person during each of such calendar years; and
 
-&emsp;(4) actions such companies plan to take or are taking to provide needed housing andother facilities for their employees directly or by providing funds to the States or local communities for this purpose.
+&emsp;(4) actions such companies plan to take or are taking to provide needed housing and other facilities for their employees directly or by providing funds to the States or local communities for this purpose.
 
 > Copies of the report shall be provided to the Secretary of Energy and the Secretary shall, subject to the provisions of section 796(d) of title 15, provide the report to the Secretary of Agriculture, the Governor, and the appropriate county or local officials and make it available for public review.
 

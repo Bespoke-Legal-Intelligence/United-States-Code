@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent the gain corporation (or, inany case described in subsection (a)(1)(B), the acquiring corporation) establishes that—
+&emsp;&emsp;The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent the gain corporation (or, in any case described in subsection (a)(1)(B), the acquiring corporation) establishes that—
 
 &emsp;&emsp;&emsp;(i) such asset was not held by the gain corporation on the acquisition date, or
 
@@ -160,7 +160,7 @@ Subsecs. (e), (f). Pub. L. 100–647, §2004(m)(2), (4), substituted “a corpor
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 10226(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the acquisition date (as defined in section 384(c)(2) of the Internal Revenue Code of 1986 as added by this section) is after December 15, 1987; except that such amendments shall not apply in the case of any transaction pursuant to—
+Pub. L. 100–203, title X, §10226(c), Dec. 22, 1987, 101 Stat. 1330–416, provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the acquisition date (as defined in section 384(c)(2) of the Internal Revenue Code of 1986 as added by this section) is after December 15, 1987; except that such amendments shall not apply in the case of any transaction pursuant to—
 
 &emsp;“(1) a binding written contract in effect on or before December 15, 1987, or
 
@@ -176,5 +176,5 @@ Section 10226(c) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Election To Have Amendments by Pub. L. 100–647 Not Apply
 
-Section 2004(m)(5) of Pub. L. 100–647 provided that: “In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable.”
+Pub. L. 100–647, title II, §2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: “In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable.”
 

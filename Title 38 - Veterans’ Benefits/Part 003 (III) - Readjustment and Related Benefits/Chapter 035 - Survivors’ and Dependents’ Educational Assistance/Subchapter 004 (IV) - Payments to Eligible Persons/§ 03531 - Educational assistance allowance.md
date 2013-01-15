@@ -1,10 +1,10 @@
 ### §3531. Educational assistance allowance
 
-(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay tothe parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
 (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1731; Pub. L. 89–358, §4(<i>l</i>), Mar. 3, 1966, 80 Stat. 24; Pub. L. 92–540, title III, §312, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 94–502, title III, §§309(c), 310(16), Oct. 15, 1976, 90 Stat. 2391, 2392; Pub. L. 96–466, title III, §329, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3531, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1731; Pub. L. 89–358, §4(l), Mar. 3, 1966, 80 Stat. 24; Pub. L. 92–540, title III, §312, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 94–502, title III, §§309(c), 310(16), Oct. 15, 1976, 90 Stat. 2391, 2392; Pub. L. 96–466, title III, §329, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3531, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

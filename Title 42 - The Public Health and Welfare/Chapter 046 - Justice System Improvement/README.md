@@ -213,7 +213,7 @@
 | :--- | ---: |
 | [3796\.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796%20-%20Payment%20of%20death%20benefits.md) | Payment of death benefits. |
 | [3796a.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796a%20-%20Limitations%20on%20benefits.md) | Limitations on benefits. |
-| 3796a–1. | National programs for families of public safety officers who have died in line of duty. |
+| 3796a–1. | National programs for families of public safety officers who have sustained fatal or catastrophic injury in the line of duty. |
 | [3796b.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796b%20-%20Definitions.md) | Definitions. |
 | [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | 3796c–1. | Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack. |
@@ -415,9 +415,9 @@
 |  |  |
 | :--- | ---: |
 | 3796<i>ll.</i> | Program authorized. |
-| 3796<i>ll</i>–1. | Applications. |
-| 3796<i>ll</i>–2. | Definitions. |
-| 3796<i>ll</i>–3. | James Guelff and Chris McCurley Body Armor Act of 2002. |
+| 3796ll–1. | Applications. |
+| 3796ll–2. | Definitions. |
+| 3796ll–3. | James Guelff and Chris McCurley Body Armor Act of 2002. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

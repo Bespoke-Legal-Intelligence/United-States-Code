@@ -58,7 +58,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (A) In general
 
-&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agencyshall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
+&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
 
 #### (B) Requirement
 
@@ -142,13 +142,13 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (A) Among States
 
-&emsp;&emsp;The Secretary may reallocate any amounts made available to carry out this section that are not obligated or expended by a date determined by the Secretary.
+&emsp;&emsp;The Secretary may reallocate any amounts made available to carry out thissection that are not obligated or expended by a date determined by the Secretary.
 
 #### (B) Within States
 
 &emsp;&emsp;A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
 
-(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
+(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122 Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
 
 #### References in Text
 

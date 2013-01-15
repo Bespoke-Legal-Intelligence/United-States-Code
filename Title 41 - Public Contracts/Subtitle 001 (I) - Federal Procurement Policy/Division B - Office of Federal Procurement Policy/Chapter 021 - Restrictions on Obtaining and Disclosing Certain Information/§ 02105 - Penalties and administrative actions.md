@@ -26,7 +26,7 @@ Types of action that federal agency may take.—A Federal agency that receives i
 
 &emsp;&emsp;&emsp;(i) the contractor or someone acting for the contractor has been convicted for an offense punishable under subsection (a); or
 
-&emsp;&emsp;&emsp;(ii) the head of the agency that awarded the contract has determined, based on a preponderance of the evidence, that the contractor or a person acting for the contractor has engaged in conduct constituting the offense.
+&emsp;&emsp;&emsp;(ii) the head of the agency that awarded the contract has determined, based on apreponderance of the evidence, that the contractor or a person acting for the contractor has engaged in conduct constituting the offense.
 
 &emsp;&emsp;(C) Initiating a suspension or debarment proceeding for the protection of the Federal Government in accordance with procedures in the Federal Acquisition Regulation.
 

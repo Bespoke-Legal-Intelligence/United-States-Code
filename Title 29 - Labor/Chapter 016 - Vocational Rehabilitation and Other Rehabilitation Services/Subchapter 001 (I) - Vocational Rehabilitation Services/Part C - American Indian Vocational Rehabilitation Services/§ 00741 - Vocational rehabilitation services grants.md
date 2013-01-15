@@ -10,7 +10,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(A) is made at such time, in such manner, and contains such information as the Commissioner may require;
 
-&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
+&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservationin a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 
@@ -38,7 +38,7 @@ Prior sections 741 to 744 and 750 were omitted in the general amendment of this 
 
 Section 741, Pub. L. 93–112, title I, §121, as added Pub. L. 102–569, title I, §134(a), Oct. 29, 1992, 106 Stat. 4392, related to contents of strategic plans.
 
-Another prior section 741, Pub. L. 93–112, title I, §121, Sept. 26, 1973, 87 Stat. 373; Pub. L. 93–516, title I, §102(c), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, §102(c), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §2(c), Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, title I, §§101(e)(2), 122(b), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §114, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §210, Oct. 21, 1986, 100 Stat.1810, 1819; Pub. L. 100–630, title II, §202(h), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, §2(b)(2), June 6, 1991, 105 Stat. 260, related to payments to States for planning, preparing, and initiating special programs under approved State plans and payments for the costs of constructing facilities to be used in providing services under such State plans, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
+Another prior section 741, Pub. L. 93–112, title I, §121, Sept. 26, 1973, 87 Stat. 373; Pub. L. 93–516, title I, §102(c), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, §102(c), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §2(c), Mar. 15, 1976, 90 Stat. 211; Pub. L. 95–602, title I, §§101(e)(2), 122(b), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §114, Feb. 22, 1984, 98 Stat. 23; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §210, Oct. 21, 1986, 100 Stat. 1810, 1819; Pub. L. 100–630, title II, §202(h), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–52, §2(b)(2), June 6, 1991, 105 Stat. 260, related to payments to States for planning, preparing, and initiating special programs under approved State plans and payments for the costs of constructing facilities to be used in providing services under such State plans, prior to the general amendment of part C of former subchapter I of this chapter by Pub. L. 102–569.
 
 Section 742, Pub. L. 93–112, title I, §122, as added Pub. L. 102–569, title I, §134(a), Oct. 29, 1992, 106 Stat. 4393, related to process for developing strategic plans.
 

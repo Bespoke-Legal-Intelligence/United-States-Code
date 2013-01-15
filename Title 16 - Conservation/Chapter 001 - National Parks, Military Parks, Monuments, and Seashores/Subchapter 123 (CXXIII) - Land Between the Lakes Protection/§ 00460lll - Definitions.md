@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Advisory Board
 
-&emsp;The term “Advisory Board” means the Land Between the Lakes Advisory Board established under section 460<i>lll</i>–22 of this title.
+&emsp;The term “Advisory Board” means the Land Between the Lakes Advisory Board established under section 460lll–22 of this title.
 
 #### (3) Chairman
 
@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (4) Eligible employee
 
-&emsp;The term “eligible employee” means a person that was, on the date of transfer pursuant to section 460<i>lll</i>–41 of this title, a full-time or part-time annual employee of the Tennessee Valley Authority at the Recreation Area.
+&emsp;The term “eligible employee” means a person that was, on the date of transfer pursuant to section 460lll–41 of this title, a full-time or part-time annual employee of the Tennessee Valley Authority at the Recreation Area.
 
 #### (5) Environmental law
 
@@ -48,15 +48,15 @@ In this subchapter:
 
 #### (6) Forest highway
 
-&emsp;The term “forest highway” has the meaning given the term in section 101(a) of title 23.
+&emsp;The term “forest highway” has the meaning given the term in section 101(a) of title 23.<sup>1</sup>
 
 #### (7) Governmental unit
 
-&emsp;The term “governmental unit” means an agency of the Federal Government or a State or local government, local governmental unit, public or municipal corporation, or unit of a State university system.
+&emsp;The term “governmental unit” means an agency of the Federal Government or a Stateor local government, local governmental unit, public or municipal corporation, or unit of a State university system.
 
 #### (8) Hazardous substance
 
-&emsp;The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response,Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (9) Person
 
@@ -108,7 +108,11 @@ The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii),
 
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
+Section 101(a) of title 23, referred to in par. (6), was subsequently amended, and section 101(a) no longer defines “forest highway”.
+
 #### Short Title
 
 Pub. L. 105–277, div. A, §101(e) \[title V, §501\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310, provided that: “This title \[enacting this subchapter\] may be referred to as ‘The Land Between the Lakes Protection Act of 1998’.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

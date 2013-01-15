@@ -30,7 +30,7 @@ Construction With Other Assistance.—The authority to provide assistance under 
 
 (f)
 
-Congressional Oversight.—Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretaryshall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
+Congressional Oversight.—Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretary shall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
 
 (Added Pub. L. 110–181, div. A, title XII, §1207(a), Jan. 28, 2008, 122 Stat. 367; amended Pub. L. 112–81, div. A, title X, §1064(5), Dec. 31, 2011, 125 Stat. 1587.)
 

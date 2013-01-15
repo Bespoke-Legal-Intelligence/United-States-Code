@@ -32,7 +32,7 @@
 
 #### (2) Provision of information
 
-&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under thissection, the Secretary may require States to provide relevant information, including the information required under subsection (d).
+&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
 
 #### (c) Corrective action and sanctions
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31 of each year, the Secretary shall prepare, and submit to the President and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the activities funded under this chapter to improve the access of individuals with disabilities to assistive technology devices and assistive technology services.
+&emsp;Not later than December 31 of each year, the Secretary shall prepare, and submit to the President and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, areport on the activities funded under this chapter to improve the access of individuals with disabilities to assistive technology devices and assistive technology services.
 
 #### (2) Contents
 

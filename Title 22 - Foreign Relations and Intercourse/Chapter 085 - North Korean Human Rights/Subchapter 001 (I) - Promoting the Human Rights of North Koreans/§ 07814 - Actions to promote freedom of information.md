@@ -8,7 +8,7 @@ The President is authorized to take such actions as may be necessary to increase
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2005 through 2012 to carry out subsection (a).
+&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2005 through 2017 to carry out subsection (a).
 
 #### (2) Availability
 
@@ -16,11 +16,13 @@ The President is authorized to take such actions as may be necessary to increase
 
 #### (c) Report
 
-Not later than 1 year after October 18, 2004, and annually through 2012, the Secretary of State, after consultation with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report, in classified form, on actions taken pursuant to this section.
+Not later than 1 year after October 18, 2004, and annually through 2017, the Secretary of State, after consultation with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report, in classified form, on actions taken pursuant to this section.
 
-(Pub. L. 108–333, title I, §104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, §7, Oct. 7, 2008, 122 Stat. 3941.)
+(Pub. L. 108–333, title I, §104, Oct. 18, 2004, 118 Stat. 1291; Pub. L. 110–346, §7, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §6, Aug. 16, 2012, 126 Stat. 1309.)
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (b)(1), (c). Pub. L. 112–172 substituted “2017” for “2012”.
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–346, §7(1), substituted “2012” for “2008”.
 

@@ -80,7 +80,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 Amendment by section 336(b)(2)(A) of Pub. L. 95–600 applicable to requests for determinations made after Dec. 31, 1978, see section 336(d) of Pub. L. 95–600, set out as an Effective Date note under section 7478 of this title.
 
-Section 701(dd)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 7428 of this title\] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as the case may be) at the respective times such sections were added to such Code.”
+Pub. L. 95–600, title VII, §701(dd)(3), Nov. 6, 1978, 92 Stat. 2924, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 7428 of this title\] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as the case may be) at the respective times such sections were added to such Code.”
 
 #### Effective Date of 1976 Amendment
 
@@ -92,5 +92,5 @@ Amendment by section 1906(a)(48), (b)(13)(A) of Pub. L. 94–455 effective on fi
 
 #### Effective Date
 
-Section 1041(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, and 7482 of this title\] shall apply to pleadings filed more than 1 year after the date of the enactment of this Act \[Sept. 2, 1974\].”
+Pub. L. 93–406, title X, §1041(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, and 7482 of this title\] shall apply to pleadings filed more than 1 year after the date of the enactment of this Act \[Sept. 2, 1974\].”
 

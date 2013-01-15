@@ -86,7 +86,7 @@ For purposes of this chapter:
 
 &emsp;(25) The term “storage” means retention of high-level radioactive waste, spent nuclear fuel, or transuranic waste with the intent to recover such waste or fuel for subsequent use, processing, or disposal.
 
-&emsp;(26) The term “Storage Fund” means the Interim Storage Fund established in section 10156(c) <sup>3</sup> of this title.
+&emsp;(26) The term “Storage Fund” means the Interim Storage Fund established in section 10156(c) <sup>2</sup> of this title.
 
 &emsp;(27) The term “test and evaluation facility” means an at-depth, prototypic, underground cavity with subsurface lateral excavations extending from a central shaft that is used for research and development purposes, including the development of data and experience for the safe handling and disposal of solidified high-level radioactive waste, transuranic waste, or spent nuclear fuel.
 
@@ -120,11 +120,11 @@ Section 10156(c) of this title, referred to in par. (26), was in the original a 
 
 #### Short Title of 1987 Amendment
 
-Section 101(d) \[title III\] of Pub. L. 100–202 and section 5001 of title V of Pub. L. 100–203 provided that: “This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
+Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121, and Pub. L. 100–203, title V,§5001, Dec. 22, 1987, 101 Stat. 1330–227, provided that: “This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 97–425 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Nuclear Waste Policy Act of 1982’.”
+Pub. L. 97–425, §1, Jan. 7, 1983, 96 Stat. 2201, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Nuclear Waste Policy Act of 1982’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -149,6 +149,4 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

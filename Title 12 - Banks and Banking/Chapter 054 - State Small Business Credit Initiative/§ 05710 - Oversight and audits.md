@@ -16,7 +16,7 @@ The Comptroller General of the United States shall perform an annual audit of th
 
 #### (2) Sex offense certification
 
-&emsp;With respect to funds received by a participating State under the Program, any privateentity that receives a loan, a loan guarantee, or other financial assistance using such funds after September 27, 2010, shall certify to the participating State that the principals of such entity have not been convicted of a sex offense against a minor (as such terms are defined in section 16911 of title 42).
+&emsp;With respect to funds received by a participating State under the Program, any private entity that receives a loan, a loan guarantee, or other financial assistance using such funds after September 27, 2010, shall certify to the participating State that the principals of such entity have not been convicted of a sex offense against a minor (as such terms are defined in section 16911 of title 42).
 
 #### (d) Prohibition on pornography
 

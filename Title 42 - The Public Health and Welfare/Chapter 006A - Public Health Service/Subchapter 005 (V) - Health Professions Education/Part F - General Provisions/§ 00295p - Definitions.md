@@ -134,7 +134,7 @@ Paraprofessional child and adolescent mental health worker.—The term “parapr
 
 &emsp;(25)
 
-Racial and ethnic minority group; racial and ethnic minority population.—The terms “racial and ethnic minority group” and“racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title.
+Racial and ethnic minority group; racial and ethnic minority population.—The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title.
 
 &emsp;(26)
 

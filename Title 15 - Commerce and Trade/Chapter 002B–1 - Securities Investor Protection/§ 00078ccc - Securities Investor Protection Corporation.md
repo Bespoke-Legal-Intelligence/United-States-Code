@@ -14,13 +14,13 @@
 
 #### (A) Members of SIPC
 
-&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78<i>o</i>(b) of this title, other than—
+&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78o(b) of this title, other than—
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
 &emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open end investment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
 
-&emsp;&emsp;&emsp;(iii) persons who are registered as a broker or dealer pursuant to section 78<i>o</i>(b)(11)(A) of this title.
+&emsp;&emsp;&emsp;(iii) persons who are registered as a broker or dealer pursuant to section 78o(b)(11)(A) of this title.
 
 #### (B) Commission review
 
@@ -28,11 +28,11 @@
 
 #### (C) Additional members
 
-&emsp;&emsp;SIPC shall provide by rule that persons excluded from membership in SIPC under subparagraph (A)(i) may become members of SIPC under such conditions and upon such terms as SIPC shall require by rule, taking into account such matters as the availability of assets and the ability to conduct a liquidation if necessary.
+&emsp;&emsp;SIPC shall provide by rule that persons excluded from membership in SIPC under subparagraph (A)(i) may become members of SIPC under such conditions and upon suchterms as SIPC shall require by rule, taking into account such matters as the availability of assets and the ability to conduct a liquidation if necessary.
 
 #### (D) Disclosure
 
-&emsp;&emsp;Any broker or dealer excluded from membership in SIPC under subparagraph (A)(i)shall, as required by the Commission by rule, make disclosures of its exclusion and other relevant information to the customers of such broker or dealer who are living in the United States or its territories and possessions.
+&emsp;&emsp;Any broker or dealer excluded from membership in SIPC under subparagraph (A)(i) shall, as required by the Commission by rule, make disclosures of its exclusion and other relevant information to the customers of such broker or dealer who are living in the United States or its territories and possessions.
 
 #### (b) Powers
 
@@ -50,7 +50,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;(4) to adopt, amend, and repeal, by its Board of Directors, such rules as may be necessary or appropriate to carry out the purposes of this chapter, including rules relating to—
 
-&emsp;&emsp;(A) the definition of terms used in this chapter, other than those terms for which a definition is provided in section 78<i>lll</i> of this title;
+&emsp;&emsp;(A) the definition of terms used in this chapter, other than those terms for which a definition is provided in section 78lll of this title;
 
 &emsp;&emsp;(B) the procedures for the liquidation of members and direct payment procedures, including the transfer of customer accounts, the distribution of customer property, and the advance and payment of SIPC funds; and
 
@@ -102,9 +102,9 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;&emsp;(iii) three shall hold office for a term expiring on December 31, 1973,
 
-> &emsp;&emsp;as designated by the President at the time they take office. Such designation shall be made in a manner which will assure that no two persons appointed under the authority of the same clause of paragraph (2)(C) shall have terms which expire simultaneously.
+> &emsp;&emsp;as designated by the President at the time they take office. Such designation shall bemade in a manner which will assure that no two persons appointed under the authority of the same clause of paragraph (2)(C) shall have terms which expire simultaneously.
 
-&emsp;&emsp;(C) A vacancy in the Board shall be filled in the same manner as the original appointment was made. Any director appointed tofill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A director may serve after the expiration of his term until his successor has taken office.
+&emsp;&emsp;(C) A vacancy in the Board shall be filled in the same manner as the original appointment was made. Any director appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A director may serve after the expiration of his term until his successor has taken office.
 
 #### (5) Compensation
 
@@ -150,7 +150,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;&emsp;Notwithstanding any other provision of this paragraph, a proposed rule change may take effect—
 
-&emsp;&emsp;&emsp;(i) upon the date of filing with the Commission, if such proposed rule change is designated by SIPC as relating solely to matters which the Commission, consistent with the public interest and the purposes of this subsection, determines by rule do not require the procedures set forth in this paragraph; or
+&emsp;&emsp;&emsp;(i) upon the date of filing with the Commission, if such proposed rule change is designated by SIPC as relating solely to matters which the Commission, consistent with the public interest and the purposes of this subsection, determines by rule donot require the procedures set forth in this paragraph; or
 
 &emsp;&emsp;&emsp;(ii) upon such date as the Commission shall for good cause determine. Any proposed rule change which takes effect under this clause shall be filed promptly thereafter and reviewed in accordance with the provisions of subparagraph (A).
 

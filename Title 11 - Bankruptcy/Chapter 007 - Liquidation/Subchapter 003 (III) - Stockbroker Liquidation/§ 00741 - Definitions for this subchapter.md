@@ -112,7 +112,7 @@ Paragraph (2) defines “customer” to include anybody that interacts with the 
 
 Paragraph (3) defines “customer name security” in a restrictive fashion to include only non-transferable securities that are registered, or in the process of being registered in a customer's own name. The securities must not be endorsed by the customer and the stockbroker must not be able to legally transfer the securities by delivery, by a power of attorney, or otherwise.
 
-Paragraph (4) defines “customer property” to include all property of the debtor that has been segregated for customers or property that should have been segregated but was unlawfully converted. Clause (i) refers to customer property not properly segregated by the debtor or customer property converted and then recovered so as to become property of the estate. Unlawfully converted property that has been transferred to a third party is excluded until it is recovered as property of the estate by virtue of the avoiding powers. The concept excludes customer name securities that have been delivered to or reclaimed by a customer and any property properly belonging to the stockholder, such as money deposited by a customer to pay for securities that the stockholder has distributed to such customer.
+Paragraph (4) defines “customer property” to include all property of the debtor that has been segregated for customers or property that should have been segregated but was unlawfully converted. Clause (i) refersto customer property not properly segregated by the debtor or customer property converted and then recovered so as to become property of the estate. Unlawfully converted property that has been transferred to a third party is excluded until it is recovered as property of the estate by virtue of the avoiding powers. The concept excludes customer name securities that have been delivered to or reclaimed by a customer and any property properly belonging to the stockholder, such as money deposited by a customer to pay for securities that the stockholder has distributed to such customer.
 
 Paragraph (5) \[enacted as (6)\] defines “net equity” to establish the extent to which a customer will be entitled to share in the single and separate fund. Accounts of a customer are aggregated and offset only to the extent the accounts are held by the customer in the same capacity. Thus, a personal account is separate from an account held as trustee. In a community property state an account held for the community is distinct from an account held as separate property.
 
@@ -182,5 +182,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

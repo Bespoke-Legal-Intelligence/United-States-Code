@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) was not extended on the basis of the regulatory review period for use in non-food-producing animals,
 
-> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producinganimals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
+> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producing animals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
 
 > The product referred to in paragraphs (4) and (5) is hereinafter in this section referred to as the “approved product”.
 
@@ -76,13 +76,13 @@
 
 &emsp;(E) such patent or other information as the Director may require.
 
-> For purposes of determining the date on which a product receives permission under the second sentence of this paragraph, if such permission is transmitted after 4:30 P.M., Eastern Time, on a business day, or is transmitted on a day that is not a business day, the product shall be deemed to receive such permission on the next business day. For purposes of the preceding sentence, the term “business day” means any Monday, Tuesday, Wednesday, Thursday, or Friday, excluding any legal holiday under section 6103 of title 5.
+> For purposes of determining the date on which a product receives permission under the second sentence of this paragraph, if such permission is transmitted after 4:30 P.M., Eastern Time, on a business day, or is transmitted on a day that is not a business day, the product shall be deemed to receive such permission on the next businessday. For purposes of the preceding sentence, the term “business day” means any Monday, Tuesday, Wednesday, Thursday, or Friday, excluding any legal holiday under section 6103 of title 5.
 
 (2)(A) Within 60 days of the submittal of an application for extension of the term of a patent under paragraph (1), the Director shall notify—
 
 &emsp;(i) the Secretary of Agriculture if the patent claims a drug product or a method of using or manufacturing a drug product and the drug product is subject to the Virus-Serum-Toxin Act, and
 
-&emsp;(ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additiveand if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
+&emsp;(ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
 
 > of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Director, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Director of the determination, and shall publish in the Federal Register a notice of such determination.
 
@@ -108,11 +108,11 @@
 
 (B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, including the identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
 
-(C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensions under this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
+(C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensionsunder this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
 
 (D) Each certificate of interim extension under this paragraph shall be recorded in the official file of the patent and shall be considered part of the original patent.
 
-(E) Any interim extension granted under this paragraph shall terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, except that, if withinthat 60-day period the applicant notifies the Director of such permission and submits any additional information under paragraph (1) of this subsection not previously contained in the application for interim extension, the patent shall be further extended, in accordance with the provisions of this section—
+(E) Any interim extension granted under this paragraph shall terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, except that, if within that 60-day period the applicant notifies the Director of such permission and submits any additional information under paragraph (1) of this subsection not previously contained in the application for interim extension, the patent shall be further extended, in accordance with the provisions of this section—
 
 &emsp;(i) for not to exceed 5 years from the date of expiration of the original patent term; or
 
@@ -218,11 +218,11 @@
 
 > &emsp;&emsp;before such date for the approved product the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
 
-&emsp;&emsp;(C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing or use of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
+&emsp;&emsp;(C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing oruse of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
 
 (h) The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
-(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987;Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, §37(a), Sept. 16, 2011, 125 Stat. 341.)
+(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, §37(a), Sept. 16, 2011, 125 Stat. 341.)
 
 #### References in Text
 

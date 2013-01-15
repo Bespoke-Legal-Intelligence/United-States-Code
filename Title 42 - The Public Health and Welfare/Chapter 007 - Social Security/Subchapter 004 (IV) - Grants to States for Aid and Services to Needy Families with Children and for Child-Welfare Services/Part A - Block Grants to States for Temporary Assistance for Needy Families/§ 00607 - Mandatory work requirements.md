@@ -81,7 +81,7 @@
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
-&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved under section 612 of this title or under a tribal workprogram to which funds are provided under this part.
+&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved under section 612 of this title or under a tribal work program to which funds are provided under this part.
 
 #### (5) State option for participation requirement exemptions
 
@@ -139,7 +139,7 @@
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(6) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(5) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
 
 #### (ii) Limited authority to count less than full week of participation
 
@@ -159,7 +159,7 @@
 
 #### (D) Limitation on number of persons who may be treated as engaged in work by reason of participation in educational activities
 
-&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
+&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
 
 #### (d) “Work activities” defined
 
@@ -193,7 +193,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) refuses to engage in work required in accordance with this section, the State shall—
+&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance underthe State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) refuses to engage in work required in accordance with this section, the State shall—
 
 &emsp;&emsp;(A) reduce the amount of assistance otherwise payable to the family pro rata (or more, at the option of the State) with respect to any period during a month in which the individual so refuses; or
 
@@ -265,19 +265,21 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (B) Oversight of State procedures
 
-&emsp;&emsp;The Secretary shall review the State procedures established in accordance with paragraph (2) to ensure that such procedures are consistent with the regulations promulgated under subparagraph (A) and are adequate to ensure an accurate measurement of work participation under the State programs funded under this part and any other State programs funded with qualified State expenditures (as so defined).
+&emsp;&emsp;The Secretary shall review the State procedures established in accordance with paragraph (2) to ensure that such procedures are consistent with the regulations promulgatedunder subparagraph (A) and are adequate to ensure an accurate measurement of work participation under the State programs funded under this part and any other State programs funded with qualified State expenditures (as so defined).
 
 #### (2) Requirement for States to establish and maintain work participation verification procedures
 
 &emsp;Not later than September 30, 2006, a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449; Pub. L. 112–96, title IV, §4005(b), Feb. 22, 2012, 126 Stat. 198.)
 
 #### Prior Provisions
 
 A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(2)(A)(i). Pub. L. 112–96 substituted “603(b)(5)” for “603(b)(6)”.
 
 <b>2009</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(d)(2), struck out “(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))” before “under the State”.
 
@@ -293,7 +295,7 @@ Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted “and the eligi
 
 Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted “or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)” after “this part”.
 
-Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: “During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation.Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.”
+Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: “During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.”
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -333,7 +335,7 @@ Pub. L. 109–171, title VII, §7102(d), Feb. 8, 2006, 120 Stat. 137, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 5003(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5003(b), Aug. 5, 1997, 111 Stat. 594, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by section 5504 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

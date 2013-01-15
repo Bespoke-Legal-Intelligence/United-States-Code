@@ -46,15 +46,15 @@ Subsec. (d). Pub. L. 98–369, §1062(a)(1), amended subsec. (d) generally, subs
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11611(c) of Pub. L. 101–508 applicable to taxable years beginning after Nov. 5, 1990,see section 11611(e)(2) of Pub. L. 101–508, set out as a note under section 38 of this title.
+Amendment by section 11611(c) of Pub. L. 101–508 applicable to taxable years beginning after Nov. 5, 1990, see section 11611(e)(2) of Pub. L. 101–508, set out as a note under section 38 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 1062(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title X, §1062(c), July 18, 1984, 98 Stat. 1047, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1983.”
 
 #### Effective Date
 
-Section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, §9(c), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 98–369, div. A, title X, §1062(a)(2), July 18, 1984, 98 Stat. 1047, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XXI, §2122(c), Oct. 4, 1976, 90 Stat. 1915, as amended by Pub. L. 96–167, §9(c), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 98–369, div. A, title X, §1062(a)(2), July 18, 1984, 98 Stat. 1047, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Savings Provision
 

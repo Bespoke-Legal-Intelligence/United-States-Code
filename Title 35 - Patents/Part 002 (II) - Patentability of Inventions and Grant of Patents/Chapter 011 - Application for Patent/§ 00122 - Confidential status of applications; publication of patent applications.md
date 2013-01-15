@@ -22,11 +22,11 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 &emsp;&emsp;(i) no longer pending;
 
-&emsp;&emsp;(ii) subject to a secrecy order under section 181 of this title;
+&emsp;&emsp;(ii) subject to a secrecy order under section 181;
 
-&emsp;&emsp;(iii) a provisional application filed under section 111(b) of this title; or
+&emsp;&emsp;(iii) a provisional application filed under section 111(b); or
 
-&emsp;&emsp;(iv) an application for a design patent filed under chapter 16 of this title.
+&emsp;&emsp;(iv) an application for a design patent filed under chapter 16.
 
 &emsp;(B)(i) If an applicant makes a request upon filing, certifying that the invention disclosed in the application has not and will not be the subject of an application filed in another country, or under a multilateral international agreement, that requires publication of applications 18 months after filing, the application shall not be published as provided in paragraph (1).
 
@@ -40,53 +40,51 @@ Exceptions.—(A) An application shall not be published if that application is�
 
 (c)
 
-Protest and Pre-Issuance Opposition.—The Director shall establish appropriate procedures to ensure that no protest or other form of pre-issuance opposition to the grant of a patent on an application may be initiated after publication of the application without the express written consent of the applicant.
+Protest and Pre-Issuance Opposition.—The Director shall establish appropriate procedures to ensure that no protest or other form of pre-issuance opposition to the grant of a patenton an application may be initiated after publication of the application without the express written consent of the applicant.
 
 (d)
 
-National Security.—No application for patent shall be published under subsection (b)(1) if the publication or disclosure of such invention would be detrimental to the national security. The Director shall establish appropriate procedures to ensure that such applications are promptly identified and the secrecy of such inventions is maintained in accordance with chapter 17 of this title.
+National Security.—No application for patent shall be published under subsection (b)(1) if the publication or disclosure of such invention would be detrimental to the national security. The Director shall establish appropriate procedures to ensure that such applications are promptly identified and the secrecy of such inventions is maintained in accordance with chapter 17.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335.)
+(e)
 
-#### Amendment of Section
+Preissuance Submissions by Third Parties.—
 
-<i>Pub. L. 112–29, §8, Sept. 16, 2011, 125 Stat. 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application filed before, on, or after that effective date, this section is amended by adding at the end the following:</i>
+&emsp;(1)
 
-<i>(e)</i>
+In general.—Any third party may submit for consideration and inclusion in the record of a patent application, any patent, published patent application, or other printed publication of potential relevance to the examination of the application, if such submission is made in writing before the earlier of—
 
-<i>Preissuance Submissions by Third Parties.—</i>
+&emsp;&emsp;(A) the date a notice of allowance under section 151 is given or mailed in the application for patent; or
 
-&emsp;<i>(1)</i>
+&emsp;&emsp;(B) the later of—
 
-<i>In general.—Any third party may submit for consideration and inclusion in the record of a patent application, any patent, published patent application, or other printed publication of potential relevance to the examination of the application, if such submission is made in writing before the earlier of—</i>
+&emsp;&emsp;&emsp;(i) 6 months after the date on which the application for patent is first published under section 122 by the Office, or
 
-&emsp;&emsp;<i>(A) the date a notice of allowance under section 151 is given or mailed in the application for patent; or</i>
+&emsp;&emsp;&emsp;(ii) the date of the first rejection under section 132 of any claim by the examiner during the examination of the application for patent.
 
-&emsp;&emsp;<i>(B) the later of—</i>
+&emsp;(2)
 
-&emsp;&emsp;&emsp;<i>(i) 6 months after the date on which the application for patent is first published under section 122 by the Office, or</i>
+Other requirements.—Any submission under paragraph (1) shall—
 
-&emsp;&emsp;&emsp;<i>(ii) the date of the first rejection under section 132 of any claim by the examiner during the examination of the application for patent.</i>
+&emsp;&emsp;(A) set forth a concise description of the asserted relevance of each submitted document;
 
-&emsp;<i>(2)</i>
+&emsp;&emsp;(B) be accompanied by such fee as the Director may prescribe; and
 
-<i>Other requirements.—Any submission under paragraph (1) shall—</i>
+&emsp;&emsp;(C) include a statement by the person making such submission affirming that the submission was made in compliance with this section.
 
-&emsp;&emsp;<i>(A) set forth a concise description of the asserted relevance of each submitted document;</i>
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4502(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335; Pub. L. 112–211, title II, §202(b)(4), Dec. 18, 2012, 126 Stat. 1536.)
 
-&emsp;&emsp;<i>(B) be accompanied by such fee as the Director may prescribe; and</i>
+#### Amendment of Subsection (b)(2)(B)(iii)
 
-&emsp;&emsp;<i>(C) include a statement by the person making such submission affirming that the submission was made in compliance with this section.</i>
-
-<i>See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+<i>Pub. L. 112–211, title II, §§202(b)(4), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (b)(2)(B)(iii) of this section is amended in the second sentence by striking “, unless it is shown” and all that follows through “unintentional”. See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
 This section enacts the Patent Office rule of secrecy of applications.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out “, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional” after “regarded as abandoned”.
 
 <b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, §20(j), struck out “of this title” after “181”.
 
@@ -102,11 +100,15 @@ Subsec. (e). Pub. L. 112–29, §8(a), added subsec. (e).
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–29, §8(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section \[amending this section\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application filed before, on, or after that effective date.”
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

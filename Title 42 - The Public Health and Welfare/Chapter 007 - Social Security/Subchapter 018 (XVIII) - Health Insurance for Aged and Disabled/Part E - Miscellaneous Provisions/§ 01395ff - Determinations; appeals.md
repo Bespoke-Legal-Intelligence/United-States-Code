@@ -42,7 +42,7 @@
 
 #### (i) Filing for redetermination
 
-&emsp;&emsp;&emsp;A redetermination under subparagraph (A) shall be available only if notice is filed with the Secretary to request the redetermination by not later than the end of the120-day period beginning on the date the individual receives notice of the initial determination under paragraph (2).
+&emsp;&emsp;&emsp;A redetermination under subparagraph (A) shall be available only if notice is filed with the Secretary to request the redetermination by not later than the end of the 120-day period beginning on the date the individual receives notice of the initial determination under paragraph (2).
 
 #### (ii) Concluding redeterminations
 
@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (l) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -238,7 +238,7 @@
 
 #### (I) National coverage determinations
 
-&emsp;&emsp;&emsp;&emsp;If the Secretary has made a national coverage determination pursuant to the requirements established under the third sentence of section 1395y(a) of this title, such determination shall be binding on the qualified independent contractor inmaking a decision with respect to a reconsideration under this section.
+&emsp;&emsp;&emsp;&emsp;If the Secretary has made a national coverage determination pursuant to the requirements established under the third sentence of section 1395y(a) of this title, such determination shall be binding on the qualified independent contractor in making a decision with respect to a reconsideration under this section.
 
 #### (II) Local coverage determinations
 
@@ -284,7 +284,7 @@
 
 #### (E) Explanation of decision
 
-&emsp;&emsp;Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate) and shall include <sup>1</sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup>2</sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup>3</sup> and <sup>3</sup> in the case of a determination of whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title) <sup>3</sup> an explanation of the medical and scientific rationale for the decision.
+&emsp;&emsp;Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate) and shall include <sup>1</sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup>2</sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup>3</sup> and <sup>3</sup> in the case of a determination of whether an item or service is reasonable andnecessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title) <sup>3</sup> an explanation of the medical and scientific rationale for the decision.
 
 #### (F) Notice requirements
 
@@ -350,7 +350,7 @@
 
 #### (5) Limitation on qualified independent contractor liability
 
-&emsp;No qualified independent contractor having a contract with the Secretary under this subsection and no person who is employed by, or who has a fiduciary relationship with, any such qualified independent contractor or who furnishes professional services to such qualified independent contractor, shall be held by reason of the performance of any duty, function, or activity required or authorized pursuant to this subsection or to a valid contract entered into under this subsection, to have violated any criminal law, or to be civilly liable under any law of the United States or of any State (or political subdivision thereof) provided due care was exercised in the performance of such duty, function, or activity.
+&emsp;No qualified independent contractor having a contract with the Secretary under this subsection and no person who is employed by, or who has a fiduciary relationship with, any such qualified independent contractor or who furnishes professional services to such qualified independent contractor, shall be held by reason of the performance of any duty, function, or activity required or authorized pursuant to this subsection or to a valid contract entered into under this subsection, to have violated any criminal law, or to be civilly liable under any law of the United States or of any State (or political subdivision thereof)provided due care was exercised in the performance of such duty, function, or activity.
 
 #### (d) Deadlines for hearings by the Secretary; notice
 
@@ -416,7 +416,7 @@
 
 #### (B) Survey
 
-&emsp;&emsp;Not less frequently than every 5 years, the Secretary shall conduct a survey of a valid sample of individuals entitled to benefits under this subchapter who have filed appeals of determinations under this section, providers of services, and suppliers to determine the satisfaction of such individuals or entities with the process for appeals of determinations provided for under this section and education and training provided by the Secretary with respect to that process. The Secretary shall submit to Congress a report describing the results of the survey, and shall include any recommendations for administrative or legislative actions that the Secretary determines appropriate.
+&emsp;&emsp;Not less frequently than every 5 years, the Secretary shall conduct a survey of a valid sample of individuals entitled to benefits under this subchapter who have filed appeals of determinations under this section, providers of services, and suppliers to determine the satisfaction of such individuals or entities with the process for appeals of determinations provided for under this section and education and training provided by the Secretary with respect to that process. The Secretary shall submit to Congress a reportdescribing the results of the survey, and shall include any recommendations for administrative or legislative actions that the Secretary determines appropriate.
 
 #### (f) Review of coverage determinations
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(i) Such a determination shall not be reviewed by any administrative law judge.
 
-&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
+&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5 or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
 
 &emsp;&emsp;&emsp;(iii) Upon the filing of a complaint by an aggrieved party, such a determination shall be reviewed by the Departmental Appeals Board of the Department of Health and Human Services. In conducting such a review, the Departmental Appeals Board—
 
@@ -622,7 +622,7 @@
 
 #### (B) Accompanying documentation
 
-&emsp;&emsp;The Secretary may require that the request be accompanied by a description of the physicians’ service, supporting documentation relating to the medical necessity for the physicians’ service, and any other appropriate documentation. In the case of a request submitted by an eligible requester who is described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
+&emsp;&emsp;The Secretary may require that the request be accompanied by a description of the physicians’ service, supporting documentation relating to the medical necessity forthe physicians’ service, and any other appropriate documentation. In the case of a request submitted by an eligible requester who is described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
 
 #### (4) Response to request
 
@@ -688,7 +688,7 @@
 
 &emsp;Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6)\[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Amendments
 
@@ -754,7 +754,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title V, §522(a)\], added subsec. (
 
 <b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–33 inserted “(or $100 in the case of home health services)” after “$500”.
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
 
@@ -770,13 +770,13 @@ Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: “A
 
 Pub. L. 99–509, §9313(b)(1)(A), inserted “and any other determination with respect to a claim for benefits under part A of this subchapter” before “shall”.
 
-Subsec. (b)(1). Pub. L. 99–509, §9313(a)(1), in concluding provisions, inserted at end “Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this subsection by a person that furnishes or supplies the individual, directly or indirectly, with services or items solely on the basis that the person furnishes or supplies the individual with such a service or item. Any person that furnishes services or items to an individual may not represent an individual under this subsection with respect to the issue described in section 1395pp(a)(2) of this title unless the person has waived any rights for payment from the beneficiary with respect to the services or items involved in the appeal. If a person furnishes services or items to an individual and represents the individual under this subsection, the person may not impose any financial liability on such individual in connection with such representation.”
+Subsec. (b)(1). Pub. L. 99–509, §9313(a)(1), in concluding provisions, inserted at end “Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this subsection by a person that furnishes or supplies the individual, directly or indirectly, with services or items solely on the basis that the person furnishes or supplies the individual withsuch a service or item. Any person that furnishes services or items to an individual may not represent an individual under this subsection with respect to the issue described in section 1395pp(a)(2) of this title unless the person has waived any rights for payment from the beneficiary with respect to the services or items involved in the appeal. If a person furnishes services or items to an individual and represents the individual under this subsection, the person may not impose any financial liability on such individual in connection with such representation.”
 
 Subsec. (b)(1)(C). Pub. L. 99–509, §9341(a)(1)(B), inserted “or part B”.
 
 Subsec. (b)(1)(D). Pub. L. 99–509, §9313(b)(1)(B), added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to anindividual by reason of such subparagraph (C) if the amount in controversy is less than $1,000.”
+Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $1,000.”
 
 Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 
@@ -834,9 +834,9 @@ Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-#### Effective Date of 1987 Amendments
+#### Effective Date of 1987 Amendment
 
-Section 4082(e)(1), (2) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4082(e)(1), (2), Dec. 22, 1987, 101 Stat. 1330–128, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].
 
@@ -846,9 +846,9 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendment
 
-Section 9313(b)(2) of Pub. L. 99–509 provided that: “The amendments made by this subsection \[amending this section\] take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9313(b)(2), Oct. 21, 1986, 100 Stat. 2003, provided that: “The amendments made by this subsection \[amending this section\] take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9341(b) of Pub. L. 99–509 provided that: “The amendments made by subsection (a) \[amending this section and sections 1395u and 1395pp of this title\] shall apply to items and services furnished on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9341(b), Oct. 21, 1986, 100 Stat. 2038, provided that: “The amendments made by subsection (a) \[amending this section and sections 1395u and 1395pp of this title\] shall apply to items and services furnished on or after January 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
@@ -856,11 +856,11 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1972 Amendment
 
-Section 299O(b) of Pub. L. 92–603 provided that:
+Pub. L. 92–603, title II, §299O(b), Oct. 30, 1972, 86 Stat. 1465, provided that:
 
 “(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[subsec. (b)(1)(A), (B) of this section\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
 
-“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A oftitle XVIII of such Act \[part A of this subchapter\], filed—
+“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[part A of this subchapter\], filed—
 
 &emsp;“(A) in or after the month in which this Act is enacted \[Oct. 1972\], or
 
@@ -1006,7 +1006,7 @@ Pub. L. 101–508, title IV, §4113, Nov. 5, 1990, 104 Stat. 1388–64, directed
 
 #### Medicare Hearings and Appeals
 
-Section 4037 of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4037, Dec. 22, 1987, 101 Stat. 1330–80, provided that:
 
 “(a)
 

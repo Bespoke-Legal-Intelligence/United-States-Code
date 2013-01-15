@@ -14,7 +14,7 @@ Amounts available for expenditure at a specific site or area—
 
 &emsp;&emsp;(B) interpretation, visitor information, visitor service, visitor needs assessments, and signs;
 
-&emsp;&emsp;(C) habitat restoration directly related to wildlife-dependent recreation that is limited to hunting, fishing, wildlife observation, or photography;
+&emsp;&emsp;(C) habitat restoration directly related to wildlife-dependent recreation that is limitedto hunting, fishing, wildlife observation, or photography;
 
 &emsp;&emsp;(D) law enforcement related to public use and recreation;
 

@@ -32,7 +32,7 @@ Section 584j, acts June 28, 1937, ch. 383, §11, 50 Stat. 321; Oct. 10, 1940, ch
 
 Section 584k, act June 28, 1937, ch. 383, §12, 50 Stat. 321, related to use of services and facilities of other governmental agencies.
 
-Section 584<i>l</i>, acts June 28, 1937, ch. 383, §13, 50 Stat. 321; Aug. 7, 1939, ch. 553, §2, 53 Stat. 1253, related to use of services and facilities of state agencies and departments.
+Section 584l, acts June 28, 1937, ch. 383, §13, 50 Stat. 321; Aug. 7, 1939, ch. 553, §2, 53 Stat. 1253, related to use of services and facilities of state agencies and departments.
 
 Section 584m, act June 28, 1937, ch. 383, §14, 50 Stat. 321, related to expenditures for subsistence, transportation, etc., of enrollees.
 
@@ -40,7 +40,7 @@ Section 584n, act June 28, 1937, ch. 383, §15, 50 Stat. 321, related to disposa
 
 Section 584n–1, acts Mar. 16, 1939, ch. 11, §1, 53 Stat. 529; June 26, 1940, ch. 428, title II, 54 Stat. 581; July 1, 1941, ch. 269, title II, 55 Stat. 473, related to exchange of equipment.
 
-Section 584<i>o</i>, act June 28, 1937, ch. 383, §16, 50 Stat. 321, related to claims for property damage or personal injury.
+Section 584o, act June 28, 1937, ch. 383, §16, 50 Stat. 321, related to claims for property damage or personal injury.
 
 Section 584p, act June 28, 1937, ch. 383, §17, 50 Stat. 322, related to appropriations and restrictions on use for camp exchanges.
 
@@ -54,7 +54,7 @@ Act May 12, 1938, ch. 200, 52 Stat. 349, formerly classified to section 584g of 
 
 Act June 25, 1938, ch. 701, 52 Stat. 1198, formerly classified to section 584h of this title, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650.
 
-Act Aug. 7, 1939, ch. 553, 53 Stat. 1253, formerly classified to sections 584 and 584<i>l</i> of this title, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650.
+Act Aug. 7, 1939, ch. 553, 53 Stat. 1253, formerly classified to sections 584 and 584l of this title, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650.
 
 Act June 13, 1940, ch. 348, 54 Stat. 383, formerly classified to section 584d of this title, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 650.
 
@@ -68,7 +68,7 @@ Civilian Conservation Corps and its functions consolidated with other agencies u
 
 #### Sections Continued for Purposes of Liquidation
 
-Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act.”
+Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, asamended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act.”
 
 #### Liquidation of C.C.C.
 

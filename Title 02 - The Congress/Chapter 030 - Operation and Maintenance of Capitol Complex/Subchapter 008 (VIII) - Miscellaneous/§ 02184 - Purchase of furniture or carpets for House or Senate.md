@@ -24,5 +24,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1946 Amendment
 
-Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, §142, 60 Stat. 834, provided that section 102 of that act shall take effect onJan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 

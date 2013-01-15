@@ -4,7 +4,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the United States Government is presently authorized to collect limited amounts of information on United States investmentabroad and foreign investment in the United States;
+&emsp;(1) the United States Government is presently authorized to collect limited amounts of information on United States investment abroad and foreign investment in the United States;
 
 &emsp;(2) international investment has increased rapidly within recent years;
 
@@ -12,7 +12,7 @@ The Congress finds and declares that—
 
 &emsp;(4) international efforts to obtain information on the activities of multinational enterprises and other international investors have accelerated recently;
 
-&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Government lacks sufficient information on such investment and its actual or possible effects on the national security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
+&emsp;(5) the potential consequences of international investment cannot be evaluated accurately because the United States Government lacks sufficient information on such investment and its actual or possible effects on thenational security, commerce, employment, inflation, general welfare, and foreign policy of the United States;
 
 &emsp;(6) accurate and comprehensive information on international investment is needed by the Congress to develop an informed United States policy on such investment;
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 98–573, §306(b)(2)(C), inserted reference to trade in se
 
 #### Short Title
 
-Section 1 of Pub. L. 94–472, as amended by Pub. L. 98–573, title III, §306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: “This Act \[enacting this chapter\] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
+Pub. L. 94–472, §1, Oct. 11, 1976, 90 Stat. 2059, as amended by Pub. L. 98–573, title III, §306(b)(1), Oct. 30, 1984, 98 Stat. 3009, provided that: “This Act \[enacting this chapter\] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
 
 #### Ex. Ord. No. 11961. International Investment and Trade in Services
 

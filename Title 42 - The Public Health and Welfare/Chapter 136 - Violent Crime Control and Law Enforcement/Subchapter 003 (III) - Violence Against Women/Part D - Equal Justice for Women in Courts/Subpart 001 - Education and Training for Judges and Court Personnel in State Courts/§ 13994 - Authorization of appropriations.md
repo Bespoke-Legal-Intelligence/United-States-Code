@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out this subpart $600,000 for fiscal year1996 and $1,500,000 for each of the fiscal years 2001 through 2005.
+There are authorized to be appropriated to carry out this subpart $600,000 for fiscal year 1996 and $1,500,000 for each of the fiscal years 2001 through 2005.
 
 #### (b) Model programs
 

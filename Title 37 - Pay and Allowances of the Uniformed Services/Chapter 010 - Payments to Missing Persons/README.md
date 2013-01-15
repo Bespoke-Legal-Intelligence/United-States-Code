@@ -16,7 +16,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title VI, §631(f)(3)(B), Dec. 31, 2011, 125 Stat. 1465, which directed the striking of item 554 from the table of sections at the beginning of chapter 9 was executed by striking item 554 “Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable” from the table of sections at the beginning of chapter 10 to reflect the probable intent of Congress.
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(3)(B). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, div. A, title VI, §631(f)(3)(B), Dec. 31, 2011, 125 Stat. 1465, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, struck out item 554 “Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable”.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 

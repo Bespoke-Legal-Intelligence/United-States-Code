@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “principal campaign committee” means thepolitical committee designated by a candidate for Congress as his principal campaign committee for purposes of—
+&emsp;&emsp;For purposes of this subsection, the term “principal campaign committee” means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
 
 &emsp;&emsp;&emsp;(i) section 302(e) of the Federal Election Campaign Act of 1971 (2 U.S.C. 432(e)), and
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (4) Effect of failure
 
-&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for any period, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
+&emsp;In the case of an organization failing to meet the requirements of paragraph (1) for anyperiod, the taxable income of such organization shall be computed by taking into account any exempt function income (and any deductions directly connected with the production of such income) or, in the case of a failure relating to a material change, by taking into account such income and deductions only during the period beginning on the date on which the material change occurs and ending on the date on which notice is given under this subsection. For purposes of the preceding sentence, the term “exempt function income” means any amount described in a subparagraph of subsection (c)(3), whether or not segregated for use for an exempt function.
 
 #### (5) Exceptions
 
@@ -358,7 +358,7 @@ For purposes of this section—
 
 > Such database shall be downloadable.
 
-#### (<i>l</i>) Authority to waive
+#### (l) Authority to waive
 
 The Secretary may waive all or any portion of the—
 
@@ -404,11 +404,11 @@ Subsec. (j)(5)(C) to (F). Pub. L. 107–276, §2(a), added subpar. (C) and redes
 
 Subsec. (j)(7). Pub. L. 107–276, §6(e)(2), added par. (7).
 
-Subsec. (k). Pub. L. 107–276, §6(e)(3), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 107–276, §6(e)(3), added subsec. (k). Former subsec. (k) redesignated (l).
 
 Pub. L. 107–276, §5(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 107–276, §6(e)(3), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 107–276, §6(e)(3), redesignated subsec. (k) as (l).
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–230, §1(a), added subsec. (i).
 
@@ -458,7 +458,7 @@ Pub. L. 107–276, §6(h)(4)–(6), Nov. 2, 2002, 116 Stat. 1934, provided that:
 
 Subsections (e)(1)
 
-and (f).—The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to befiled more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
+and (f).—The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to be filed more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
 
 “(5)
 
@@ -512,19 +512,19 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 474(r)(16) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 722(c) of Pub. L. 98–369 provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1981.
+Pub. L. 98–369, div. A, title VII, §722(c), July 18, 1984, 98 Stat. 973, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1981.
 
 #### Effective Date of 1981 Amendment
 
-Section 128(b) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title I, §128(b), Aug. 13, 1981, 95 Stat. 203, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 
-Section 302(b) of Pub. L. 95–502, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–502, title III, §302(b), Oct. 21, 1978, 92 Stat. 1703, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; 2 U.S.C. 431(f)) in connection with any election held before January 1, 1979.
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date
 
-Section 10(e) of Pub. L. 93–625 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[enacting this section and amending sections 501 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 93–625, §10(e), Jan. 3, 1975, 88 Stat. 2119, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[enacting this section and amending sections 501 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1974.”
 
 #### Notification of Interaction of Reporting Requirements
 

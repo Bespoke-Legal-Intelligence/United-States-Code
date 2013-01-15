@@ -30,7 +30,7 @@ Date of Rank.—(1) The date of rank of an officer appointed to a higher grade u
 
 (2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.
 
-(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer'spromotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
+(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer's promotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
 
 (d)
 
@@ -40,7 +40,7 @@ Officers With Running Mates.—An officer to whom a running mate system applies 
 
 Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to this section and to section 14311(e) of this title, and under regulations prescribed by the Secretary of the military department concerned—
 
-&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
+&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
 
 &emsp;(2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 

@@ -28,7 +28,7 @@
 
 > The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
 
-(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions. At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.
+(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
 
 (2) The Secretary of the military department concerned may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under this paragraph.
 
@@ -36,7 +36,7 @@
 
 \[(4) Repealed. Pub. L. 109–163, div. A, title V, §531(a)(1), Jan. 6, 2006, 119 Stat. 3247.\]
 
-(5)(A) The Secretary of the Army, under regulations and criteria established by the Secretary, may provide an individual who receiveda commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
+(5)(A) The Secretary of the Army, under regulations and criteria established by the Secretary, may provide an individual who received a commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
 
 (B) Such assistance is in addition to any financial assistance provided under paragraph (1) or (3).
 
@@ -86,9 +86,11 @@
 
 &emsp;&emsp;(ii) the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, §542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, §1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, §1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, §511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, §201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, §1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, §542(a), title XIV, §1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, §510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, §542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, §545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, §534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, §532(d),\(e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, §521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, §524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, §551, Jan. 2, 2013, 126 Stat. 1741.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(1). Pub. L. 112–239 struck out at end “At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.”
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–163, §534(a), inserted “or national” after “citizen”.
 
@@ -156,7 +158,7 @@ Subsec. (h). Pub. L. 96–513, §511(62)(B), substituted “this section” for 
 
 Pub. L. 96–357, §1(b)(3), substituted “Army program: 12,000” for “Army program: 6,500”.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–166, §1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any year may be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–166, §1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any yearmay be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
 
 Subsec. (c). Pub. L. 92–166, §1(2), provided that at least 50% of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at the rate.
 
@@ -168,11 +170,11 @@ Pub. L. 108–136, div. A, title V, §521(c), Nov. 24, 2003, 117 Stat. 1463, pro
 
 #### Effective Date of 1992 Amendment
 
-Section 532(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1993.”
+Pub. L. 102–484, div. A, title V, §532(b), Oct. 23, 1992, 106 Stat. 2411, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1993.”
 
 #### Effective Date of 1983 Amendment
 
-Section 1003(c)(3) of Pub. L. 98–94 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to agreements entered into under section 2107(b)(5) of title 10, United States Code, after September 30, 1983.”
+Pub. L. 98–94, title X, §1003(c)(3), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to agreements entered into under section 2107(b)(5) of title 10, United States Code, after September 30, 1983.”
 
 #### Effective Date of 1980 Amendments
 
@@ -182,11 +184,11 @@ Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–166 provided that: “This Act \[amending this section\] is effective July 1, 1971.”
+Pub. L. 92–166, §2, Nov. 24, 1971, 85 Stat. 487, provided that: “This Act \[amending this section\] is effective July 1, 1971.”
 
 #### Effective Date
 
-Section 403 of Pub. L. 88–647 provided that: “Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code \[subsec. (h) of this section\], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965.”
+Pub. L. 88–647, title IV, §403, Oct. 13, 1964, 78 Stat. 1074, provided that: “Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code \[subsec. (h) of this section\], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965.”
 
 #### Regulations
 
@@ -234,7 +236,7 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 #### Report to Congress on Test Program for Graduate Student Participation in Financial Assistance Program
 
-Pub. L. 104–201, div. A, title V, §553(c), Sept. 23, 1996, 110 Stat. 2526, directed the Secretary of Defense to submit to Congress a report, not later than Dec. 31, 1998, on the experience to that date under the test program authorized under the amendment to this section made by Pub. L. 104–201, §553(a)(2).
+Pub. L. 104–201, div. A, title V, §553(c), Sept. 23, 1996, 110 Stat. 2526, directed the Secretary of Defense to submit to Congress a report, not later than Dec. 31, 1998, on the experience to that date under the test programauthorized under the amendment to this section made by Pub. L. 104–201, §553(a)(2).
 
 #### Application of ROTC Vitalization Act of 1964 to Appointees in Naval Reserve Before October 13, 1964
 

@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Distributions from qualified Indian entity
 
-&emsp;For purposes of this section, any distribution with respect to an equity interest in aqualified Indian entity of an Indian tribe to a member of such tribe shall be treated as derived by such member from a fishing rights-related activity of such tribe to the extent such distribution is attributable to income derived by such entity from a fishing rights-related activity of such tribe.
+&emsp;For purposes of this section, any distribution with respect to an equity interest in a qualified Indian entity of an Indian tribe to a member of such tribe shall be treated as derived by such member from a fishing rights-related activity of such tribe to the extent such distribution is attributable to income derived by such entity from a fishing rights-related activity of such tribe.
 
 #### (2) De minimis unrelated amounts may be excluded
 
@@ -68,11 +68,11 @@ For purposes of this section—
 
 #### Effective Date
 
-Section 3044 of subtitle E (§§3041–3044) of title III of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title III, §3044, Nov. 10, 1988, 102 Stat. 3642, provided that:
 
 “(a)
 
-Effective Date.—The amendments made by this subtitle \[enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
+Effective Date.—The amendments made by this subtitle \[subtitle E (§§3041–3044) of title III of Pub. L. 100–647, enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(b)
 

@@ -278,7 +278,7 @@ Pub. L. 109–280, title V, §503(a)(2), Aug. 17, 2006, 120 Stat. 943, provided 
 
 #### Transition Rules
 
-Section 11016(b)(3) of Pub. L. 99–272 provided that: “Any regulations, modifications, or waivers which have been issued by the Secretary of Labor with respect to section 103(d)(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1023(d)(6)\] (as in effect immediately before the date of the enactment of this Act \[Apr. 7, 1986\]) shall remain in full force and effect until modified by any regulations with respect to such section 103(d)(6) prescribed by the Pension Benefit Guaranty Corporation.”
+Pub. L. 99–272, title XI, §11016(b)(3), Apr. 7, 1986, 100 Stat. 273, provided that: “Any regulations, modifications, or waivers which have been issued by the Secretary of Labor with respect to section 103(d)(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1023(d)(6)\] (as in effect immediately before the date of the enactment of this Act \[Apr. 7, 1986\]) shall remain in full force and effect until modified by any regulations with respect to such section 103(d)(6) prescribed by the Pension Benefit Guaranty Corporation.”
 
 #### Consolidation of Actuarial Reports
 

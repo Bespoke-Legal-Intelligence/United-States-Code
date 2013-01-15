@@ -90,9 +90,9 @@
 
 <b>2004</b>—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
 
-Pub. L. 108–458, title VI, §6202(n)(1), (<i>o</i>), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
+Pub. L. 108–458, title VI, §6202(n)(1), (o), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–56, title III, §365(d), formerly §365(c), Oct. 26, 2001, 115 Stat. 335, as renumbered and amended by Pub. L. 108–458, title VI, §6202(n)(1), (<i>o</i>), Dec. 17, 2004, 118 Stat. 3746, added item 5331.
+<b>2001</b>—Pub. L. 107–56, title III, §365(d), formerly §365(c), Oct. 26, 2001, 115 Stat. 335, as renumbered and amendedby Pub. L. 108–458, title VI, §6202(n)(1), (o), Dec. 17, 2004, 118 Stat. 3746, added item 5331.
 
 Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 338, added items 5318A and 5332.
 

@@ -210,5 +210,5 @@ Covered Items.—The items referred to in subsection (a) are the following:
 
 #### Date of Issuance of Policy
 
-Section 323(b) of Pub. L. 101–510 provided that: “The policy required by section 2458(a) of title 10, United States Code (as added by subsection (a)), shall be issued not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title III, §323(b), Nov. 5, 1990, 104 Stat. 1530, provided that: “The policy required by section 2458(a) of title 10, United States Code (as added by subsection (a)), shall be issued not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 

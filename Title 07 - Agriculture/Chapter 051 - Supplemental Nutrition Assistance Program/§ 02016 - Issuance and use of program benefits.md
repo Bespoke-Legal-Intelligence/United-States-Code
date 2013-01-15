@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 #### (g) Staggered issuance procedures
 
-(1) The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
+(1) The State agency may establish a procedure for staggering the issuance of benefits toeligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
 
 (2)
 
@@ -152,7 +152,7 @@ Optional photographic identification.—
 
 &emsp;(A)
 
-In general.—A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
+In general.—A State agency may require that an electronic benefit card contain aphotograph of 1 or more members of a household.
 
 &emsp;(B)
 
@@ -160,7 +160,7 @@ Other authorized users.—If a State agency requires a photograph on an electron
 
 (10)
 
-Federal law not applicable.—Section 1693<i>o</i>–2 of title 15 shall not apply to electronic benefit transfer or reimbursement systems under this chapter.
+Federal law not applicable.—Section 1693o–2 of title 15 shall not apply to electronic benefit transfer or reimbursement systems under this chapter.
 
 (11)
 
@@ -214,7 +214,7 @@ In general.—A State agency shall establish a procedure for recovering electron
 
 &emsp;(B)
 
-Benefit storage.—A State agency may store recovered electronic benefits off-line inaccordance with subparagraph (D), if the household has not accessed the account after 6 months.
+Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
 
 &emsp;(C)
 
@@ -236,7 +236,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the supplemental nutrition assistance program solely as a result of section 2015(<i>o</i>)(2) of this title or section 1612 or 1613 of title 8.
+&emsp;Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the supplemental nutrition assistance program solely as a result of section 2015(o)(2) of this title or section 1612 or 1613 of title 8.
 
 #### (2) State payments to Secretary
 
@@ -312,7 +312,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 #### (H) Switching
 
-&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use ofan electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
 
 #### (2) Requirement
 
@@ -348,7 +348,7 @@ Interchange fees.—No interchange fees shall apply to electronic benefit transf
 
 &emsp;&emsp;&emsp;(ii) demonstrates that the best interest of the supplemental nutrition assistance program would be served by granting the waiver with respect to the electronic benefit transfer system used by the State agency to administer the supplemental nutrition assistance program; and
 
-&emsp;&emsp;&emsp;(iii) specifies a date by which the State agency will achieve the interoperability and portability required under paragraph (2).
+&emsp;&emsp;&emsp;(iii) specifies a date by which the State agency will achieve the interoperabilityand portability required under paragraph (2).
 
 #### (C) Smart card systems
 
@@ -380,7 +380,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows:“Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
+<b>2010</b>—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows: “Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
 
 <b>2008</b>—Pub. L. 110–246, §4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
 
@@ -508,7 +508,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Change of Name
 
@@ -548,11 +548,11 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 #### Report on Electronic Benefit Transfer Systems
 
-Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095,1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 “(a)
 

@@ -44,7 +44,7 @@ For the purpose of this chapter, the term—
 
 #### References in Text
 
-Section 1602(n) of title 15, referred to in par. (1), was redesignated section 1602(<i>o</i>) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(n) of title 15, referred to in par. (1), was redesignated section 1602(o) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
 
@@ -84,7 +84,7 @@ Chapter (except for section 3415 of this title) effective upon the expiration of
 
 #### Short Title
 
-Section 1100 of title XI of Pub. L. 95–630 provided that: “This title \[enacting this chapter\] may be cited as the ‘Right to Financial Privacy Act of 1978’.”
+Pub. L. 95–630, title XI, §1100, Nov. 10, 1978, 92 Stat. 3697, provided that: “This title \[enacting this chapter\] may be cited as the ‘Right to Financial Privacy Act of 1978’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

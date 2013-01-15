@@ -20,7 +20,7 @@ Application.—
 
 (c)
 
-Alternative Program.—A State is eligible to receive a grant under section 6106 if the Statemaintains an alternative one-call notification program that provides protection for public safety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
+Alternative Program.—A State is eligible to receive a grant under section 6106 if the State maintains an alternative one-call notification program that provides protection for public safety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
 
 (d)
 

@@ -22,7 +22,7 @@ In general.—Any payment of educational assistance described in paragraph (2) s
 
 &emsp;(2)
 
-Description of payment of educational assistance.—Subject to paragraph (3), the payment of educational assistance described in this paragraph is the payment of such assistance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
+Description of payment of educational assistance.—Subject to paragraph (3), the payment of educational assistance described in this paragraph is the payment of such assistance to an individual for pursuit of acourse or courses under this chapter if the Secretary finds that the individual—
 
 &emsp;&emsp;(A)(i) in the case of an individual not serving on active duty, had to discontinue such course pursuit as a result of being called or ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 

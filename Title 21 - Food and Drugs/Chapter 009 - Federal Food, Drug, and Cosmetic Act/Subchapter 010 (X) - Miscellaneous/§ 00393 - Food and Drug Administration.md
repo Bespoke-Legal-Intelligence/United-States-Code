@@ -158,15 +158,89 @@ Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided t
 
 #### Regulations for Sunscreen Products
 
-Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment ofthis Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
+Pub. L. 105–115, title I, §129, Nov. 21, 1997, 111 Stat. 2331, provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
 
 #### Construction of 2011 Amendment
 
 Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
+#### Advancing Regulatory Science To Promote Public Health Innovation
+
+Pub. L. 112–144, title XI, §1124, July 9, 2012, 126 Stat. 1114, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall develop a strategy and implementation plan for advancing regulatory science for medical products in order to promote the public health and advance innovation in regulatory decisionmaking.
+
+“(b)
+
+Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User FeeAgreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
+
+&emsp;“(1) identify a clear vision of the fundamental role of efficient, consistent, and predictable, science-based decisions throughout regulatory decisionmaking of the Food and Drug Administration with respect to medical products;
+
+&emsp;“(2) identify the regulatory science priorities of the Food and Drug Administration directly related to fulfilling the mission of the agency with respect to decisionmaking concerning medical products and allocation of resources toward such regulatory science priorities;
+
+&emsp;“(3) identify regulatory and scientific gaps that impede the timely development and review of, and regulatory certainty with respect to, the approval, licensure, or clearance of medical products, including with respect to companion products and new technologies, and facilitating the timely introduction and adoption of new technologies and methodologies in a safe and effective manner;
+
+&emsp;“(4) identify clear, measurable metrics by which progress on the priorities identified under paragraph (2) and gaps identified under paragraph (3) will be measured by the Food and Drug Administration, including metrics specific to the integration and adoption of advances in regulatory science described in paragraph (5) and improving medical product decisionmaking, in a predictable and science-based manner; and
+
+&emsp;“(5) set forth how the Food and Drug Administration will ensure that advances in regulatory science for medical products are adopted, as appropriate, on an ongoing basis and in an \[sic\] manner integrated across centers, divisions, and branches of the Food and Drug Administration, including by senior managers and reviewers, including through the—
+
+&emsp;&emsp;“(A) development, updating, and consistent application of guidance documents that support medical product decisionmaking; and
+
+&emsp;&emsp;“(B) adoption of the tools, methods, and processes under section 566 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–5).
+
+“(c)
+
+Performance Reports.—The annual performance reports submitted to Congress under sections 736B(a) \[21 U.S.C. 379h–2(a)\] (as amended by section 104 of this Act), 738A(a) \[21 U.S.C. 379j–1(a)\] (as amended by section 204 of this Act), 744C(a) \[21 U.S.C. 379j–43(a)\] (as added by section 303 of this Act), and 744I(a) \[21 U.S.C. 379j–53(a)\] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—
+
+&emsp;“(1) advancing the regulatory science priorities identified under paragraph (2) of subsection (b) and resolving the gaps identified under paragraph (3) of such subsection, including reporting on specific metrics identified under paragraph (4) of such subsection;
+
+&emsp;“(2) the integration and adoption of advances in regulatory science as set forth in paragraph (5) of such subsection; and
+
+&emsp;“(3) the progress made in advancing the regulatory science goals outlined in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement transmitted by the Secretary to Congress on April 20, 2012.
+
+“(d)
+
+Medical Product.—In this section, the term ‘medical product’ means a drug, as defined in subsection (g) of section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321), a device, as defined in subsection (h) of such section, or a biological product, as defined in section 351(i) of the Public Health Service Act \[42 U.S.C. 262(i)\].”
+
+#### Information Technology
+
+Pub. L. 112–144, title XI, §1125, July 9, 2012, 126 Stat. 1115, provided that:
+
+“(a)
+
+HHS Report.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall—
+
+&emsp;“(1) report to Congress on—
+
+&emsp;&emsp;“(A) the milestones and a completion date for developing and implementing a comprehensive information technology strategic plan to align the information technology systems modernization projects with the strategic goals of the Food and Drug Administration, including results-oriented goals, strategies, milestones, performance measures;
+
+&emsp;&emsp;“(B) efforts to finalize and approve a comprehensive inventory of the information technology systems of the Food and Drug Administration that includes information describing each system, such as costs, system function or purpose, and status information, and incorporate use of the system portfolio into the information investment management process of the Food and Drug Administration;
+
+&emsp;&emsp;“(C) the ways in which the Food and Drug Administration uses the plan described in subparagraph (A) to guide and coordinate the modernization projects and activities of the Food and Drug Administration, including the interdependencies among projects and activities; and
+
+&emsp;&emsp;“(D) the extent to which the Food and Drug Administration has fulfilled or is implementing recommendations of the Government Accountability Office with respect to the Food and Drug Administration and information technology; and
+
+&emsp;“(2) develop—
+
+&emsp;&emsp;“(A) a documented enterprise architecture program management plan that includes the tasks, activities, and timeframes associated with developing and using the architecture and addresses how the enterprise architecture program management will be performed in coordination with other management disciplines, such as organizational strategic planning, capital planning and investment control, and performance management; and
+
+&emsp;&emsp;“(B) a skills inventory, needs assessment, gap analysis, and initiatives to address skills gaps as part of a strategic approach to information technology human capital planning.
+
+“(b)
+
+GAO Report.—Not later than January 1, 2016, the Comptroller General of the United States shall issue a report regarding the strategic plan described in subsection (a)(1)(A) and related actions carried out by the Food and Drug Administration. Such report shall assess the progress the Food and Drug Administration has made on—
+
+&emsp;“(1) the development and implementation of a comprehensive information technology strategic plan, including the results-oriented goals, strategies, milestones, and performance measures identified in subsection (a)(1)(A);
+
+&emsp;“(2) the effectiveness of the comprehensive information technology strategic plan described in subsection (a)(1)(A), including the results-oriented goals and performance measures; and
+
+&emsp;“(3) the extent to which the Food and Drug Administration has fulfilled recommendations of the Government Accountability Office with respect to such agency and information technology.”
+
 #### FDA Study of Mercury Compounds in Drugs and Food
 
-Section 413 of Pub. L. 105–115 provided that:
+Pub. L. 105–115, title IV, §413, Nov. 21, 1997, 111 Stat. 2376, provided that:
 
 “(a)
 
@@ -176,7 +250,7 @@ List and Analysis.—The Secretary of Health and Human Services shall, acting th
 
 &emsp;“(2) provide a quantitative and qualitative analysis of the mercury compounds in the list under paragraph (1).
 
-> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Act of 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
+> The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Actof 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
 
 “(b)
 
@@ -206,7 +280,7 @@ Pub. L. 102–571, title II, §205, Oct. 29, 1992, 106 Stat. 4502, directed Comp
 
 #### Congressional Findings
 
-Section 502 of Pub. L. 100–607 provided that: “Congress finds that—
+Pub. L. 100–607, title V, §502, Nov. 4, 1988, 102 Stat. 3120, provided that: “Congress finds that—
 
 &emsp;“(1) the public health has been effectively protected by the presence of the Food and Drug Administration during the last eighty years;
 

@@ -50,7 +50,7 @@
 
 &emsp;(6) buy arms and ammunition required by officers and employees of the Department in carrying out their duties and powers; and
 
-&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on the books of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if the Secretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
+&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on the books of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if theSecretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
 
 (c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—
 
@@ -62,7 +62,7 @@
 
 (2) For purposes of the Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
-(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securitieswith maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any other property accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
+(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any other property accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
 
 (4) The Secretary of the Treasury shall, not less frequently than annually, make a public disclosure of the amount (and sources) of the gifts and bequests received under this subsection, and the purposes for which amounts in the separate fund established under this subsection are expended.
 
@@ -198,7 +198,7 @@ In subsection (a)(7), the words “Secretary of the Treasury” are substituted 
 
 In subsection (a)(8), before subclause (A), the word “maintain” is substituted for “shall be kept” for consistency. The words “all moneys” and “internal” are omitted as unnecessary because of the restatement. The words “duties or” are omitted as being included in “taxes”. The word “possession” is added for consistency in the revised title and with other titles of the Code. The word “listing” is substituted for “so as to exhibit, as far as may be” for clarity and to eliminate unnecessary words. In subclause (A), the word “kind” is substituted for “species” for consistency. The words “that shall accrue” are omitted as surplus. In subclause (B), the words “each tax” are substituted for “each source of revenue” for clarity. In subclause (C), the word “pay” is substituted for “compensation” for consistency. The words “officers and employees” are substituted for “collectors and deputy collectors, inspectors, and other officers” for consistency and to eliminate unnecessary words.
 
-Subsection (b)(1) is included as a general statement of the authority of the Secretary of the Treasury toprescribe regulations to avoid repeating each time specific authority of the Secretary to carry out certain provisions of law.
+Subsection (b)(1) is included as a general statement of the authority of the Secretary of the Treasury to prescribe regulations to avoid repeating each time specific authority of the Secretary to carry out certain provisions of law.
 
 In subsection (b)(2), the words “make such provisions” in 31:1001(note) are omitted as unnecessary. The words “or by any agency” are omitted and the words “duties and powers” are substituted for “function”, for consistency in the revised title and with other titles of the Code. The words “including any function transferred to the Secretary by the provisions of this reorganization plan” are omitted as executed.
 

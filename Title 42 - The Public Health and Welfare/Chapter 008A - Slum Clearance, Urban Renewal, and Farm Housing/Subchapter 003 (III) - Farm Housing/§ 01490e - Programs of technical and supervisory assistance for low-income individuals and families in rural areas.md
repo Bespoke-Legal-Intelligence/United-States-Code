@@ -8,13 +8,13 @@ The Secretary may make grants to or enter into contracts with public or private 
 
 The Secretary is authorized to make loans to public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him for the necessary expenses, prior to construction, of planning, and obtaining financing for, the rehabilitation or construction of housing for low-income individuals or families under any Federal, State, or local housing program which is or could be used in rural areas. Such loans shall be made without interest and shall be for the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including but not limited to preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the housing or sooner.
 
-#### (c) Repealed. Pub. L. 98–181, title V, §518(b), Nov. 30, 1983, 97 Stat. 1249
+#### (c) Repealed. Pub. L. 98–181, title I \[title V, §518(b)\], Nov. 30, 1983, 97 Stat. 1249
 
 #### (d) Deposit of appropriated funds into low-income sponsor fund; availability; administration of fund as revolving fund; deposit of repayments
 
 All funds appropriated for the purpose of subsection (b) of this section shall be deposited in a fund which shall be known as the low-income sponsor fund, and which shall be available without fiscal year limitation and be administered by the Secretary as a revolving fund for carrying out the purposes of that subsection. Sums received in repayment of loans made under subsection (b) of this section shall be deposited in such fund.
 
-(July 15, 1949, ch. 338, title V, §525, as added Pub. L. 93–383, title V, §515, Aug. 22, 1974, 88 Stat. 697; amended Pub. L. 95–557, title V, §501(i), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–399, title V, §507(g), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §518, Nov. 30, 1983, 97 Stat. 1249.)
+(July 15, 1949, ch. 338, title V, §525, as added Pub. L. 93–383, title V, §515, Aug. 22, 1974, 88 Stat. 697; amended Pub. L. 95–557, title V, §501(i), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–399, title V, §507(g), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §518\], Nov. 30, 1983, 97 Stat. 1249.)
 
 #### Amendments
 

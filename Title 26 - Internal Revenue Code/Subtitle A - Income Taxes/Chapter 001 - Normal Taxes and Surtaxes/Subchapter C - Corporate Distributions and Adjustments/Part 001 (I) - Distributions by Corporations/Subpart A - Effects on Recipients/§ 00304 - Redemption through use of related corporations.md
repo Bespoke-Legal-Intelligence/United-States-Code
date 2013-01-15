@@ -156,7 +156,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of allclasses of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
+&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of all classes of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
 
 #### (2) Stock acquired in the transaction
 
@@ -168,7 +168,7 @@
 
 #### (B) Definition of control group
 
-&emsp;&emsp;Where 2 or more persons in control of the issuing corporation transfer stock of such corporation to the acquiring corporation and, after the transfer, the transferors are in control of the acquiring corporation, the person or persons in control of each corporation shall include each of the persons who so transfer stock.
+&emsp;&emsp;Where 2 or more persons in control of the issuing corporation transfer stock of suchcorporation to the acquiring corporation and, after the transfer, the transferors are in control of the acquiring corporation, the person or persons in control of each corporation shall include each of the persons who so transfer stock.
 
 #### (3) Constructive ownership
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, §215(a), Aug. 10, 2010, 124 Stat. 2399.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(l)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, §215(a), Aug. 10, 2010, 124 Stat. 2399.)
 
 #### References in Text
 
@@ -212,17 +212,17 @@ Subsec. (b)(5). Pub. L. 105–34, §1013(c), added par. (5).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted “To the extent that such distribution is treated as a distribution to which section 301 applies” for “In any such case” in last sentence.
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, §712(<i>l</i>)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, §712(l)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
 
-Subsec. (b)(3)(A). Pub. L. 98–369, §712(<i>l</i>)(2), substituted “section 351 and not so much of sections 357 and 358 as relates to section 351” for “part III”.
+Subsec. (b)(3)(A). Pub. L. 98–369, §712(l)(2), substituted “section 351 and not so much of sections 357 and 358 as relates to section 351” for “part III”.
 
-Subsec. (b)(3)(B)(i). Pub. L. 98–369, §712(<i>l</i>)(3)(A)(i), substituted “In the case of an acquisition described in section 351, subsection (a)” for “Subsection (a)”.
+Subsec. (b)(3)(B)(i). Pub. L. 98–369, §712(l)(3)(A)(i), substituted “In the case of an acquisition described in section 351, subsection (a)” for “Subsection (a)”.
 
-Subsec. (b)(3)(B)(iii). Pub. L. 98–369, §712(<i>l</i>)(3)(B), added cl. (iii).
+Subsec. (b)(3)(B)(iii). Pub. L. 98–369, §712(l)(3)(B), added cl. (iii).
 
-Subsec. (b)(3)(C). Pub. L. 98–369, §712(<i>l</i>)(4), inserted following cl. (iii) “For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.”
+Subsec. (b)(3)(C). Pub. L. 98–369, §712(l)(4), inserted following cl. (iii) “For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.”
 
-Subsec. (c)(3). Pub. L. 98–369, §712(<i>l</i>)(5)(A), designated existing first sentence as subpar. “(A) In general” and substituted subpar. (B) for former second sentence which read “For purposes of the preceding sentence, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.”
+Subsec. (c)(3). Pub. L. 98–369, §712(l)(5)(A), designated existing first sentence as subpar. “(A) In general” and substituted subpar. (B) for former second sentence which read “For purposes of the preceding sentence, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.”
 
 <b>1982</b>—Subsec. (b)(2)(A). Pub. L. 97–248, §226(a)(3), substituted “as if the property were distributed by the issuing corporation to the acquiring corporation and immediately thereafter distributed by the acquiring corporation” for “soley by reference to the earnings and profits of the acquiring corporation” after “dividend shall be made”.
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1013(d) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title I, §1013(d), Aug. 5, 1997, 111 Stat. 918, provided that:
 
 “(1)
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10223(d) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(k)(3), (4), Nov. 10, 1988, 102 Stat. 3605, 3606, provided that:
+Pub. L. 100–203, title X, §10223(d), Dec. 22, 1987, 101 Stat. 1330–412, as amended by Pub. L. 100–647, title II, §2004(k)(3), (4), Nov. 10, 1988, 102 Stat. 3605, 3606, provided that:
 
 “(1)
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 712(<i>l</i>)(7) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, §712(l)(7), July 18, 1984, 98 Stat. 954, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -344,15 +344,15 @@ Special rule for certain transfers to form bank holding company.—Except as pro
 
 Amendments to apply to certain liabilities incurred before october 20, 1983.—The amendment made by paragraph (3)(A) shall apply to the acquisition of any stock to the extent the liability assumed, or to which such stock is subject, was incurred by the transferor after October 20, 1983.”
 
-Amendment by section 712(<i>l</i>)(2), (4), (5)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 712(l)(2), (4), (5)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 
-Section 226(c) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §226(c), Sept. 3, 1982, 96 Stat. 492, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 306 and 351 of this title\] shall applyto transfers occurring after August 31, 1982, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 306 and 351 of this title\] shall apply to transfers occurring after August 31, 1982, in taxable years ending after such date.
 
 “(2)
 

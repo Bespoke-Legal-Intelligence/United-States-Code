@@ -36,15 +36,15 @@ When used in this chapter—
 
 (j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
-(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design,equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
+(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
-(<i>l</i>) The term “standard of performance” means a requirement of continuous emission reduction, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction.
+(l) The term “standard of performance” means a requirement of continuous emission reduction, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction.
 
 (m) The term “means of emission limitation” means a system of continuous emission reduction (including the use of specific technology or fuels with specified pollution characteristics).
 
 (n) The term “primary standard attainment date” means the date specified in the applicable implementation plan for the attainment of a national primary ambient air quality standard for any air pollutant.
 
-(<i>o</i>) The term “delayed compliance order” means an order issued by the State or by the Administrator to an existing stationary source, postponing the date required under an applicable implementation plan for compliance by such source with any requirement of such plan.
+(o) The term “delayed compliance order” means an order issued by the State or by the Administrator to an existing stationary source, postponing the date required under an applicable implementation plan for compliance by such source with any requirement of such plan.
 
 (p) The term “schedule and timetable of compliance” means a schedule of required measures including an enforceable sequence of actions or operations leading to compliance with an emission limitation, other limitation, prohibition, or standard.
 

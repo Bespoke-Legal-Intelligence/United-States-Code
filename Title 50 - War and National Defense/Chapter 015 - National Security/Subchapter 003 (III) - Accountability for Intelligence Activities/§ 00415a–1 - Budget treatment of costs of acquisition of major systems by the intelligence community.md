@@ -4,7 +4,7 @@
 
 (1) The Director of National Intelligence shall, in consultation with the head of each element of the intelligence community concerned, prepare an independent cost estimate of the full life-cycle cost of development, procurement, and operation of each major system to be acquired by the intelligence community.
 
-(2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal year of the proposed period of development, procurement, and operation of the major system.
+(2)(A) Each independent cost estimate for a major system shall, to the maximum extent practicable, specify the amount required to be appropriated and obligated to develop, procure, and operate the major system in each fiscal yearof the proposed period of development, procurement, and operation of the major system.
 
 (B) For major system acquisitions requiring a service or capability from another acquisition or program to deliver the end-to-end functionality for the intelligence community end users, independent cost estimates shall include, to the maximum extent practicable, all estimated costs across all pertinent elements of the intelligence community. For collection programs, such cost estimates shall include the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program. If such costs for processing, exploitation, dissemination, and storage are scheduled to be executed in other elements of the intelligence community, the independent cost estimate shall identify and annotate such costs for such other elements accordingly.
 
@@ -86,7 +86,7 @@ Pub. L. 112–87, title III, §306(b), Jan. 3, 2012, 125 Stat. 1882, provided th
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date
 
@@ -112,7 +112,7 @@ Pub. L. 108–177, title III, §312(a), Dec. 13, 2003, 117 Stat. 2606, provided 
 
 Pub. L. 108–177, title III, §312(d), Dec. 13, 2003, 117 Stat. 2609, provided that:
 
-“(1)(A) For each major system for which funds have been authorized for a fiscal year before fiscal year 2005, or for which funds are sought in the budget of the President for fiscal year 2005, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, and for which no independent cost estimate has been provided to Congress, no contract, or option to contract, for the procurement or acquisition of such major system may be entered into, or option to contract be exercised, before the date of the enactment of an Act to authorize appropriations for fiscal year 2005 for intelligence and intelligence-related activities of the United States Government.
+“(1)(A) For each major system for which funds have been authorized for a fiscal year before fiscal year 2005, or for which funds are sought in the budget of thePresident for fiscal year 2005, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, and for which no independent cost estimate has been provided to Congress, no contract, or option to contract, for the procurement or acquisition of such major system may be entered into, or option to contract be exercised, before the date of the enactment of an Act to authorize appropriations for fiscal year 2005 for intelligence and intelligence-related activities of the United States Government.
 
 “(B) Subparagraph (A) shall not affect any contract for procurement or acquisition that was entered into before the date of the enactment of this Act \[Dec. 13, 2003\].
 

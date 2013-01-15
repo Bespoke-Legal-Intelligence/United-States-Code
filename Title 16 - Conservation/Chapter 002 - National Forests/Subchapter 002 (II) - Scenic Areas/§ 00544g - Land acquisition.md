@@ -32,7 +32,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 (1) The Secretary is authorized and directed, in conformance with the provisions of this subsection, to acquire by exchange any parcel of unimproved forest land at least forty acres in size within the boundaries of the special management areas which is owned by any private forest land owner if, after November 17, 1986, but within one hundred and eighty days after final adoption of the management plan, such private forest land owner offers to the United States such parcel of forest land.
 
-(2) In exercising this authority to acquire forest lands pursuant to this subsection, the Secretary may accept title to such lands and convey to the owner federally owned lands deemed appropriate by the Secretary within the Statesof Oregon and Washington, regardless of the State in which the transferred lands are located. Forest lands exchanged pursuant to this subsection shall be of approximately equal value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize minor differences in the values of the properties exchanged: <i>Provided further</i>, That the Secretary may reserve in any conveyance pursuant to this subsection such easements, subsurface rights, and any other interests in land deemed necessary or desirable: <i>Provided further</i>, That the valuation of lands exchanged shall be determined in terms of forest uses for timber.
+(2) In exercising this authority to acquire forest lands pursuant to this subsection, the Secretary may accept title to such lands and convey to the owner federally owned lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located. Forest lands exchanged pursuant to this subsection shall be of approximately equal value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize minor differences in the values of the properties exchanged: <i>Provided further</i>, That the Secretary may reserve in any conveyance pursuant to this subsection such easements, subsurface rights, and any other interests in land deemed necessary or desirable: <i>Provided further</i>, That the valuation of lands exchanged shall be determined in terms of forest uses for timber.
 
 (3) It is the intention of Congress that land exchanges pursuant to this subsection shall be completed no later than five years after November 17, 1986.
 
@@ -200,7 +200,7 @@ Zig-Zag Area
 
 #### (g) Boundaries
 
-For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
+For the purposes of section 460l–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
 (Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
 

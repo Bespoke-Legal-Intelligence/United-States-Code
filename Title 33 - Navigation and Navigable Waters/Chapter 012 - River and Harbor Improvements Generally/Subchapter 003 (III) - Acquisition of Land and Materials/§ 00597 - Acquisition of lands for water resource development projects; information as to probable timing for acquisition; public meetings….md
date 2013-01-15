@@ -10,5 +10,5 @@ Within six months after the date that Congress authorizes construction of a wate
 
 #### Short Title
 
-Section 303 of Pub. L. 86–645 provided that: “Title III of this Act \[enacting this section and section 596 of this title\] may be cited as the ‘Land Acquisition Policy Act of 1960’.”
+Pub. L. 86–645, title III, §303, July 14, 1960, 74 Stat. 503, provided that: “Title III of this Act \[enacting this section and section 596 of this title\] may be cited as the ‘Land Acquisition Policy Act of 1960’.”
 

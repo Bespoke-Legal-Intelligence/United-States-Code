@@ -194,7 +194,7 @@ Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided th
 
 Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Section 777(b) of Pub. L. 103–465 provided that: “The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: “The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule Regarding Amendments by Section 9312 of Pub. L. 100–203
 
-Section 9312(b)(3)(B) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(f)(1), (6), Dec. 19, 1989, 103 Stat. 2440, provided that:
+Pub. L. 100–203, title IX, §9312(b)(3)(B), Dec. 22, 1987, 101 Stat. 1330–363, as amended by Pub. L. 101–239, title VII, §7881(f)(1), (6), Dec. 19, 1989, 103 Stat. 2440, provided that:
 
 “(i)
 

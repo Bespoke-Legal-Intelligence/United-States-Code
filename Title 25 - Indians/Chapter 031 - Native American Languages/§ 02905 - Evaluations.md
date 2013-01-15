@@ -2,7 +2,7 @@
 
 (a) The President shall direct the heads of the various Federal departments, agencies, and instrumentalities to—
 
-&emsp;(1) evaluate their policies and procedures in consultation with Indian tribes and other Native American governing bodies as well as traditional leaders and educators in order to determine and implement changes needed tobring the policies and procedures into compliance with the provisions of this chapter;
+&emsp;(1) evaluate their policies and procedures in consultation with Indian tribes and other Native American governing bodies as well as traditional leaders and educators in order to determine and implement changes needed to bring the policies and procedures into compliance with the provisions of this chapter;
 
 &emsp;(2) give the greatest effect possible in making such evaluations, absent a clear specific Federal statutory requirement to the contrary, to the policies and procedures which will give the broadest effect to the provisions of this chapter; and
 

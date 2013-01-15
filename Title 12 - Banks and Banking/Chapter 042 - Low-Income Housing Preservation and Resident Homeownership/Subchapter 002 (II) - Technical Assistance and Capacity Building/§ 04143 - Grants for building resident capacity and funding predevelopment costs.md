@@ -10,7 +10,7 @@ Assistance made available under this section shall be used for direct assistance
 
 #### (c) Limitation on grant amounts
 
-A resident capacity grant under subsection (d) of this section may not exceed $30,000 per project and a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
+A resident capacity grant under subsection (d) of this section may not exceed $30,000 per projectand a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
 
 #### (d) Resident capacity grants
 
@@ -48,7 +48,7 @@ If an application for assistance under subsections <sup>1</sup> (d) or (e) of t
 
 #### References in Text
 
-Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, §601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715<i>l</i> of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, §601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is section 604 of Pub. L. 101–625, which is set out as a note under section 4101 of this title.
 

@@ -34,7 +34,7 @@ Judicial Branch Employees.—The Director of the Administrative Office of the Un
 
 &emsp;“(1) an employee of the Judicial Branch may (during a period specified by the Director of the Administrative Office) donate any unused annual leave from the employee's annual leave account to a leave bank established by the Director;
 
-&emsp;“(2) the total amount of annual leave that has been donated under paragraph (1) shall be divided equally among the annual leave accounts of all employees who have been members of the Armed Forces serving on active duty during the Persian Gulf conflict pursuant to an order issued under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], 675 \[now 12307\], or 688 oftitle 10, United States Code, and who return to employment with the Judicial Branch; and
+&emsp;“(2) the total amount of annual leave that has been donated under paragraph (1) shall be divided equally among the annual leave accounts of all employees who have been members of the Armed Forces serving on active duty during the Persian Gulf conflict pursuant to an order issued under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], 675 \[now 12307\], or 688 of title 10, United States Code, and who return to employment with the Judicial Branch; and
 
 &emsp;“(3) such Persian Gulf conflict participants who have returned to Judicial Branch employment may use such annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
 

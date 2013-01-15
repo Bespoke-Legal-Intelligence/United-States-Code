@@ -68,7 +68,7 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 #### (D) Consultation
 
-&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and Border Protection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
+&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and BorderProtection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
 
 #### (E) Coordination
 

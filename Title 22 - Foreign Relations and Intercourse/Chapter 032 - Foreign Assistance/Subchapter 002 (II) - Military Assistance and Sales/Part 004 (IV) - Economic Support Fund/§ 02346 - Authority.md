@@ -2,7 +2,7 @@
 
 #### (a) Policy requirements for assistance
 
-The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the President shall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
+The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the Presidentshall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
 
 #### (b) Responsibility for policy decisions and justifications
 
@@ -98,9 +98,9 @@ Annual Reports on Economic Conditions.—In order to assist the Congress in exam
 
 #### References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter
 
-Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
+Pub. L. 95–384, §10(b)(6), Sept. 26, 1978, 92 Stat. 735, provided that: “After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
 
 #### Security Supporting Assistance Program for Egypt
 
-Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
+Pub. L. 95–92, §9, Aug. 4, 1977, 91 Stat. 619, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
 

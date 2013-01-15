@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the Commissioner of Social Security m
 
 #### (b) Examination to determine blindness
 
-In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
+In determining, for purposes of this subchapter, whether an individual is blind, thereshall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
 
 #### (c) Notification of review
 
@@ -70,19 +70,19 @@ Amendment by Pub. L. 106–170 effective with the first month following one year
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 203(b) of Pub. L. 103–296 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995.”
+Pub. L. 103–296, title II, §203(b), Aug. 15, 1994, 108 Stat. 1508, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995.”
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Institution of Notification System
 
-For provisions requiring the Secretary to institute the system of notification required by subsec. (c) of this section as soon as practicable after Oct. 9, 1984, seesection 6(c) of Pub. L. 98–460, set out as a note under section 421 of this title.
+For provisions requiring the Secretary to institute the system of notification required by subsec. (c) of this section as soon as practicable after Oct. 9, 1984, see section 6(c) of Pub. L. 98–460, set out as a note under section 421 of this title.
 
 #### Federal Program of Supplemental Security Income; Preference for Present State and Local Employees
 
-Section 213 of Pub. L. 93–66 provided that: “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
+Pub. L. 93–66, title II, §213, July 9, 1973, 87 Stat. 158, provided that: “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
 
 #### Application to Northern Mariana Islands
 

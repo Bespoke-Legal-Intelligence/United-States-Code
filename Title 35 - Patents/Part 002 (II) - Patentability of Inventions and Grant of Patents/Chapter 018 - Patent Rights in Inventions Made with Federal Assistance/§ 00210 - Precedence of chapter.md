@@ -8,7 +8,7 @@
 
 &emsp;(3) section 501(c) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 951(c); 83 Stat. 742);
 
-&emsp;(4) section 30168(e) of title 49;
+&emsp;(4) section 30168(e) <sup>1</sup> of title 49;
 
 &emsp;(5) section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); <sup>1</sup> 82 Stat. 360);
 
@@ -48,21 +48,19 @@
 
 (b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.
 
-(c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203 of this title. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
+(c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
 
 (d) Nothing in this chapter shall be construed to require the disclosure of intelligence sources or methods or to otherwise affect the authority granted to the Director of Central Intelligence by statute or Executive order for the protection of intelligence sources or methods.
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, §4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16),Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, §4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 #### References in Text
 
 The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
+
+Section 30168 of title 49, referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, §31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
 
 Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, §109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
 
@@ -102,11 +100,11 @@ Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted “section 202(c)
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

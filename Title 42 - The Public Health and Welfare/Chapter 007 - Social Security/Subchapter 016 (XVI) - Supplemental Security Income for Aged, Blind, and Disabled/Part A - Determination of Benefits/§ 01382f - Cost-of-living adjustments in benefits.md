@@ -22,7 +22,7 @@ Effective July 1, 1983—
 
 &emsp;(1) each of the dollar amounts in effect under subsections (a)(1)(A) and (b)(1) of section 1382 of this title, as previously increased under this section, shall be increased by $240 (and the dollar amount in effect under subsection (a)(1)(A) of section 211 of Public Law 93-66, as previously so increased, shall be increased by $120); and
 
-&emsp;(2) each of the dollar amounts in effect under subsections (a)(2)(A) and (b)(2) of section 1382of this title, as previously increased under this section, shall be increased by $360.
+&emsp;(2) each of the dollar amounts in effect under subsections (a)(2)(A) and (b)(2) of section 1382 of this title, as previously increased under this section, shall be increased by $360.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1617, as added Pub. L. 93–368, §6(b), Aug. 7, 1974, 88 Stat. 421; amended Pub. L. 97–248, title I, §182(a), Sept. 3, 1982, 96 Stat. 404; Pub. L. 98–21, title IV, §401, Apr. 20, 1983, 97 Stat. 138.)
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
 #### Effective Date of 1982 Amendment
 
-Section 182(b) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §182(b), Sept. 3, 1982, 96 Stat. 405, provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
 
 #### Cost-of-Living Increases; Cost-of-Living Computation Quarter Determinations
 

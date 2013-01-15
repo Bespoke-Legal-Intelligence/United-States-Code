@@ -22,7 +22,7 @@ For purposes of scheduling the reviews required by subsection (a) of this sectio
 
 #### (c) Minimum review period
 
-In no event shall an issuer required to file reports under section 78m(a) or 78<i>o</i>(d) of this title be reviewed under this section less frequently than once every 3 years.
+In no event shall an issuer required to file reports under section 78m(a) or 78o(d) of this title be reviewed under this section less frequently than once every 3 years.
 
 (Pub. L. 107–204, title IV, §408, July 30, 2002, 116 Stat. 790.)
 

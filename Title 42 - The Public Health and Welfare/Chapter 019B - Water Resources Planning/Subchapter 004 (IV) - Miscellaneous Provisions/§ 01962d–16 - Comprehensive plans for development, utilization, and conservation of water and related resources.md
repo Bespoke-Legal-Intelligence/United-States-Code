@@ -38,7 +38,7 @@
 
 #### (2) Technical assistance
 
-&emsp;There is authorized to be appropriated $5,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enterinto cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
+&emsp;There is authorized to be appropriated $5,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
 
 #### (d) Annual submission of proposed activities
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 102–580, §208(2), inserted “Indian tribes,” after �
 
 #### Effective Date of 1980 Amendment
 
-Section 605 of Pub. L. 96–597 provided that the amendment made by that section is effective Oct. 1, 1981.
+Pub. L. 96–597, title VI, §605, Dec. 24, 1980, 94 Stat. 3482, provided that the amendment made by that section is effective Oct. 1, 1981.
 
 #### Termination of Trust Territory of the Pacific Islands
 

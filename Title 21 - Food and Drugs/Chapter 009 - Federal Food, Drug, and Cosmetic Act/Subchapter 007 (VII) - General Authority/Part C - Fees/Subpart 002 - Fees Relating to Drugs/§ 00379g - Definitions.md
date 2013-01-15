@@ -6,9 +6,9 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) approval of a new drug submitted under section 355(b) of this title, or
 
-&emsp;&emsp;(B) licensure of a biological product under subsection (a) or (k) of section 262 of title 42.
+&emsp;&emsp;(B) licensure of a biological product under subsection (a) of section 262 of title 42.
 
-> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
+> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplementsubmitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (B), of a large volume biological product intended for single dose injection for intravenous use or infusion.
 
 &emsp;(2) The term “supplement” means a request to the Secretary to approve a change in a human drug application which has been approved.
 
@@ -46,11 +46,11 @@ For purposes of this subpart:
 
 &emsp;&emsp;&emsp;(iii) Developing and using improved analytical tools to assess potential safety problems, including access to external data bases.
 
-&emsp;&emsp;&emsp;(iv) Implementing and enforcing section 355(<i>o</i>) of this title (relating to postapproval studies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
+&emsp;&emsp;&emsp;(iv) Implementing and enforcing section 355(o) of this title (relating to postapproval studies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
 
 &emsp;&emsp;&emsp;(v) Carrying out section 355(k)(5) of this title (relating to adverse event reports and postmarket safety activities).
 
-&emsp;(7) The term “costs of resources allocated for the process for the review of human drug applications” means the expenses incurred in connection with the process for the review of human drug applications for—
+&emsp;(7) The term “costs of resources allocated for the process for the review of human drug applications” means the expenses in connection with the process for the review of human drug applications for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors,
 
@@ -72,85 +72,85 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-(June 25, 1938, ch. 675, §735, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4491; amended Pub. L. 105–115, title I, §§102, 125(b)(2)(M), Nov. 21, 1997, 111 Stat. 2298, 2326; Pub. L. 107–188, title V, §503, June 12, 2002, 116 Stat. 688; Pub. L. 110–85, title I, §102, Sept. 27, 2007, 121 Stat. 825; Pub. L. 111–148, title VII, §7002(f)(3)(A), Mar. 23, 2010, 124 Stat. 818.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 106(a) of Pub. L. 110–85, see Effective and Termination Dates of 2007 Amendment note below.</i>
-
-<i>For termination of amendment by section 509 of Pub. L. 107–188, see Effective and Termination Dates of 2002 Amendment note below.</i>
-
-<i>For termination of amendment by section 107 of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
+(June 25, 1938, ch. 675, §735, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4491; amended Pub. L. 105–115, title I, §§102, 125(b)(2)(M), Nov. 21, 1997, 111 Stat. 2298, 2326; Pub. L. 107–188, title V, §503, June 12, 2002, 116 Stat. 688; Pub. L. 110–85, title I, §102, Sept. 27, 2007, 121 Stat. 825; Pub. L. 111–148, title VII, §7002(f)(3)(A), Mar. 23, 2010, 124 Stat. 818; Pub. L. 112–144, title I, §102, title IV, §407, July 9, 2012, 126 Stat. 996, 1039.)
 
 #### Termination of Section
 
-<i>For termination of section by section 105 of Pub. L. 102–571, see Termination Date note below.</i>
+<i>For termination of section by section 105(a) of Pub. L. 112–144, see Termination Date note below.</i>
 
 #### Amendments
 
+<b>2012</b>—Par. (1)(B). Pub. L. 112–144, §407, struck out “or (k)” after “subsection (a)”.
+
+Par. (7). Pub. L. 112–144, §102, substituted “expenses in connection with” for “expenses incurred in connection with”.
+
 <b>2010</b>—Par. (1)(B). Pub. L. 111–148 substituted “subsection (a) or (k) of section 262 of title 42” for “section 262 of title 42”.
 
-<b>2007</b>—Pub. L. 110–85, §§102(1), 106(a), in introductory provisions, temporarily substituted “For purposes of this subpart” for “For purposes of this part”. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Pub. L. 110–85, §102(1), in introductory provisions, substituted “For purposes of this subpart” for “For purposes of this part”.
 
-Par. (1). Pub. L. 110–85, §§102(2)(D), 106(a), temporarily substituted “subparagraph (B)” for “subparagraph (C)” in concluding provisions. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (1). Pub. L. 110–85, §102(2)(D), substituted “subparagraph (B)” for “subparagraph (C)” in concluding provisions.
 
-Par. (1)(A). Pub. L. 110–85, §§102(2)(A), 106(a), temporarily substituted “355(b) of this title, or” for “355(b)(1) of this title,”. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (1)(A). Pub. L. 110–85, §102(2)(A), substituted “355(b) of this title, or” for “355(b)(1) of this title,”.
 
-Par. (1)(B), (C). Pub. L. 110–85, §§102(2)(B), (C), 106(a), temporarily redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “approval of a new drug submitted under section 355(b)(2) of this title after September 30, 1992, which requests approval of—
+Par. (1)(B), (C). Pub. L. 110–85, §102(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “approval of a new drug submitted under section 355(b)(2) of this title after September 30, 1992, which requests approval of—
 
 &emsp;“(i) a molecular entity which is an active ingredient (including any salt or ester of an active ingredient), or
 
 &emsp;“(ii) an indication for a use,
 
-> that had not been approved under an application submitted under section 355(b) of this title, or”. See Effective and Termination Dates of 2007 Amendment note below.
+> that had not been approved under an application submitted under section 355(b) of this title, or”.
 
-Par. (3)(C). Pub. L. 110–85, §§102(3), 106(a), temporarily substituted “355(j)(7)(A) of this title (not including the discontinued section of such list)” for “355(j)(7)(A) of this title” and inserted “(not including the discontinued section of such list)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (3)(C). Pub. L. 110–85, §102(3), substituted “355(j)(7)(A) of this title (not including the discontinued section of such list)” for “355(j)(7)(A) of this title” and inserted “(not including the discontinued section of such list)” before period at end.
 
-Par. (4). Pub. L. 110–85, §§102(4), 106(a), temporarily inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (4). Pub. L. 110–85, §102(4), inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end.
 
-Par. (6)(F). Pub. L. 110–85, §§102(5), 106(a), temporarily amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In the case of drugs approved after October 1, 2002, under human drug applications or supplements: collecting, developing, and reviewing safety information on the drugs, including adverse event reports, during a period of time after approval of such applications or supplements, not to exceed three years.” See Effective and Termination Dates of 2007 Amendment note below.
+Par. (6)(F). Pub. L. 110–85, §102(5), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In the case of drugs approved after October 1, 2002, under human drug applications or supplements: collecting, developing, and reviewing safety information on the drugs, including adverse event reports, during a period of time after approval of such applications or supplements, not to exceed three years.”
 
-Par. (8). Pub. L. 110–85, §§102(6), 106(a), temporarily substituted “October of the preceding fiscal year” for “April of the preceding fiscal year” and “October 1996” for “April 1997”. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (8). Pub. L. 110–85, §102(6), substituted “October of the preceding fiscal year” for “April of the preceding fiscal year” and “October 1996” for “April 1997”.
 
-Pars. (9) to (11). Pub. L. 110–85, §§102(7), (8), 106(a), temporarily added pars. (9) and (10) and redesignated former par. (9) as (11). See Effective and Termination Dates of 2007 Amendment note below.
+Pars. (9) to (11). Pub. L. 110–85, §102(7), (8), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
-<b>2002</b>—Par. (1). Pub. L. 107–188, §§503(1), 509, temporarily substituted “licensure, as described in subparagraph (C)” for “licensure, as described in subparagraph (D)” in concluding provisions. See Effective and Termination Dates of 2002 Amendment note below.
+<b>2002</b>—Par. (1). Pub. L. 107–188, §503(1), substituted “licensure, as described in subparagraph (C)” for “licensure, as described in subparagraph (D)” in concluding provisions.
 
-Par. (3). Pub. L. 107–188, §§503(2)(D), 509, which directed the temporary amendment of concluding provisions of par. (3) by striking “section 262 of title 42” and all that follows through “biological product” and inserting “section 262 of title 42. Such term does not include a biological product”, was executed by striking language ending with “biological product” the first time appearing, thereby making the substitution for “section 262 of title 42, does not include a large volume parenteral drug product approved before September 1, 1992, does not include a biological product”, to reflect the probable intent of Congress. See Effective and Termination Dates of 2002 Amendment note below.
+Par. (3). Pub. L. 107–188, §503(2)(D), which directed the amendment of concluding provisions of par. (3) by striking “section 262 of title 42” and all that follows through “biological product” and inserting “section 262 of title 42. Such term does not include a biological product”, was executed by striking language ending with “biological product” the first time appearing, thereby making the substitution for “section 262 of title 42, does not include a large volume parenteral drug product approved before September 1, 1992, does not include a biological product”, to reflect the probable intent of Congress.
 
-Par. (3)(C). Pub. L. 107–188, §§503(2)(A)–(C), 509, temporarily added subpar. (C). See Effective and Termination Dates of 2002 Amendment note below.
+Par. (3)(C). Pub. L. 107–188, §503(2)(A)–(C), added subpar. (C).
 
-Par. (6)(F). Pub. L. 107–188, §§503(3), 509, temporarily added subpar. (F). See Effective and Termination Dates of 2002 Amendment note below.
+Par. (6)(F). Pub. L. 107–188, §503(3), added subpar. (F).
 
-Par. (8). Pub. L. 107–188, §§503(4), 509, temporarily struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of “adjustment factor” as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authority provided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997. See Effective and Termination Dates of 2002 Amendment note below.
+Par. (8). Pub. L. 107–188, §503(4), struck out designations of subpars. (A) and (B) and text of subpar. (B) and concluding provisions, substituting definition of “adjustment factor” as the Consumer Price Index for definition of Index as the lower of the Consumer Price Index or the total of discretionary budget authority provided for programs in the domestic category for the immediately preceding fiscal year divided by such budget authority for fiscal year 1997.
 
-<b>1997</b>—Par. (1). Pub. L. 105–115, §§102(1), 107, in closing provisions, temporarily struck out “and” before “does not include an application” and substituted “September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end. See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (1). Pub. L. 105–115, §102(1), in closing provisions, struck out “and” before “does not include an application” and substituted “September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end.
 
 Par. (1)(B) to (D). Pub. L. 105–115, §125(b)(2)(M), inserted “or” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “initial certification or initial approval of an antibiotic drug under section 357 of this title, or”.
 
-Par. (3). Pub. L. 105–115, §§102(2), 107, in closing provisions, temporarily struck out “and” before “does notinclude a large volume parenteral drug” and substituted “September 1, 1992, does not include a biological product that is licensed for further manufacturing use only, and does not include a drug that is not distributed commercially and is the subject of an application or supplement submitted by a State or Federal Government entity. Such term does include a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end. See Effective and Termination Dates of 1997 Amendment note below.
+Par. (3). Pub. L. 105–115, §102(2), in closing provisions, struck out “and” before “does not include a large volume parenteral drug” and substituted “September 1, 1992, does not include a biological product that is licensed for further manufacturing use only, and does not include a drug that is not distributed commercially and is the subject of an application or supplement submitted by a State or Federal Government entity. Such term does include a large volume biological product intended for single dose injection for intravenous use or infusion” for “September 1, 1992” before period at end.
 
-Par. (4). Pub. L. 105–115, §§102(3), 107, temporarily substituted “without substantial further manufacturing” for “without further manufacturing”. See Effective and Termination Dates of 1997 Amendment note below.
+Par. (4). Pub. L. 105–115, §102(3), substituted “without substantial further manufacturing” for “without further manufacturing”.
 
-Par. (5). Pub. L. 105–115, §§102(4), 107, temporarily amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘prescription drug establishment’ means a foreign or domestic place of business which is—
+Par. (5). Pub. L. 105–115, §102(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘prescription drug establishment’ means a foreign or domestic place of business which is—
 
 &emsp;“(A) at one general physical location consisting of one or more buildings all of which are within 5 miles of each other, at which one or more prescription drug products are manufactured in final dosage form, and
 
 &emsp;“(B) under the management of a person that is listed as the applicant in a human drug application for a prescription drug product with respect to at least one such product.”
 
-> See Effective and Termination Dates of 1997 Amendment note below.
+Par. (7)(A). Pub. L. 105–115, §102(5), substituted “contractors of the Food and Drug Administration,” for “employees under contract with the Food and Drug Administration who work in facilities owned or leased for the Food and Drug Administration,” and “and committees and to contracts with such contractors,” for “and committees,”.
 
-Par. (7)(A). Pub. L. 105–115, §§102(5), 107, temporarily substituted “contractors of the Food and Drug Administration,” for “employees under contract with the Food and Drug Administration who work in facilities owned or leased for the Food and Drug Administration,” and “and committees and to contracts with such contractors,” for “and committees,”. See Effective and Termination Dates of 1997 Amendment note below.
+Par. (8)(A). Pub. L. 105–115, §102(6)(A), substituted “April of the preceding fiscal year” for “August of the preceding fiscal year” and “April 1997” for “August 1992”.
 
-Par. (8)(A). Pub. L. 105–115, §§102(6)(A), 107, temporarily substituted “April of the preceding fiscal year” for “August of the preceding fiscal year” and “April 1997” for “August 1992”. See Effective and Termination Dates of 1997 Amendment note below.
+Par. (8)(B). Pub. L. 105–115, §102(6)(B), substituted “section 254(c)” for “section 254(d)”, “fiscal year 1997”for “fiscal year 1992”, and “105th Congress, 1st Session” for “102d Congress, 2d Session”.
 
-Par. (8)(B). Pub. L. 105–115, §§102(6)(B), 107, temporarily substituted “section 254(c)” for “section 254(d)”, “fiscal year 1997” for “fiscal year 1992”, and “105th Congress, 1st Session” for “102d Congress, 2d Session”. See Effective and Termination Dates of 1997 Amendment note below.
+Par. (9). Pub. L. 105–115, §102(7), added par. (9).
 
-Par. (9). Pub. L. 105–115, §§102(7), 107, temporarily added par. (9). See Effective and Termination Dates of 1997 Amendment note below.
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–144, title I, §106, July 9, 2012, 126 Stat. 1002, provided that: “The amendments made by this title \[amending this section and sections 379h and 379h–2 of this title and repealing provisions set out as notes under this section and section 379h–2 of this title\] shall take effect on October 1, 2012, or the date of the enactment of this Act \[July 9, 2012\], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all human drug applications received on or after October 1, 2012, regardless of the date of the enactment of this Act.”
+
+Amendment by section 407 of Pub. L. 112–144 effective Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under section 379j–51 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Pub. L. 110–85, title I, §106(a), Sept. 27, 2007, 121 Stat. 842, provided that: “The amendments made by sections 102, 103, and 104 \[enacting section 379h–1 of this title and amending this section and section 379h of this title\] cease to be effective October 1, 2012.”
+Pub. L. 110–85, title I, §106(a), Sept. 27, 2007, 121 Stat. 842, which provided that the amendments made by sections 102, 103, and 104 of Pub. L. 110–85 (enacting section 379h–1 of this title and amending this section and section 379h of this title) would cease to be effective Oct. 1, 2012, was repealed by Pub. L. 112–144, title I, §105(c)(1), July 9, 2012, 126 Stat. 1001.
 
 Pub. L. 110–85, title I, §107, Sept. 27, 2007, 121 Stat. 842, provided that: “The amendments made by this title \[enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all human drug applications received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
 
@@ -158,31 +158,65 @@ Pub. L. 110–85, title I, §107, Sept. 27, 2007, 121 Stat. 842, provided that: 
 
 Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under section 356b of this title.
 
-Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by sections 503 and 504 \[amending this section and section 379h of this title\] cease to be effective October 1, 2007, and section 505 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
+Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, which provided that the amendments made by sections 503 and 504 of Pub. L. 107–188 (amending this section and section 379h of this title) would cease to be effective Oct. 1, 2007, and the amendment by section 505 of Pub. L. 107–188 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2007, was repealed by Pub. L. 112–144, title I, §105(d)(1)(A), July 9, 2012, 126 Stat. 1001.
+
+\[Pub. L. 112–144, title I, §105(d)(1), July 9, 2012, 126 Stat. 1001, provided that the repeal of section 509 of Pub. L. 107–188, formerly set out above, is effective Sept. 30, 2007.\]
 
 #### Effective and Termination Dates of 1997 Amendment
 
 Pub. L. 105–115, title I, §106, Nov. 21, 1997, 111 Stat. 2305, provided that: “The amendments made by this subtitle \[subtitle A (§§101–107) of title I of Pub. L. 105–115, amending this section and section 379h of this title\] shall take effect October 1, 1997.”
 
-Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, provided that: “The amendments made by sections 102 and 103 \[amending this section and section 379h of this title\] cease to be effective October 1, 2002, and section 104 \[enacting provisions formerly set out as a note below\] ceases to be effective 120 days after such date.”
+Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, which provided that the amendments by sections 102 and 103 of Pub. L. 105–115 (amending this section and section 379h of this title) would cease to be effective Oct. 1, 2002, and the amendment by section 104 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2002, was repealed by Pub. L. 112–144, title I, §105(d)(2)(A), July 9, 2012, 126 Stat. 1001.
+
+\[Pub. L. 112–144, title I, §105(d)(2), July 9, 2012, 126 Stat. 1001, provided that the repeal of section 107 of Pub. L. 105–115, formerly set out above, is effective Sept. 30, 2002.\]
 
 #### Termination Date
 
-Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section 103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
+Pub. L. 112–144, title I, §105(a), July 9, 2012, 126 Stat. 1001, provided that: “Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) shall cease to be effective October 1, 2017.”
+
+Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, which provided that the amendment by section 103 of Pub. L. 102–571 (enacting this subpart) would not be in effect after Oct. 1, 1997, and the amendment by section 104 of Pub. L. 102–571 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 1997, was repealed by Pub. L. 112–144, title I, §105(d)(3), July 9, 2012, 126 Stat. 1002.
+
+\[Pub. L. 112–144, title I, §105(d)(3), July 9, 2012, 126 Stat. 1002, provided that the repeal of section 105 of Pub. L. 102–571, formerly set out above, is effective Sept. 30, 1997.\]
 
 #### Savings Provision
 
-Pub. L. 110–85, title I, §108, Sept. 27, 2007, 121 Stat. 842, provided that: “Notwithstanding section 509 of the Prescription Drug User Fee Amendments of 2002 (21 U.S.C. 379g note) \[Pub. L. 107–188\], and notwithstanding the amendments made by this title \[enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[Sept. 27, 2007\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008.”
+Pub. L. 112–144, title I, §107, July 9, 2012, 126 Stat. 1002, provided that: “Notwithstanding the amendments made by this title \[amending this section and section 379h and 379h–2 of this title and repealing provisions set out as notes under this section and section 379h–2 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2012.”
 
-Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of the Food and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
+Pub. L. 112–144, title IV, §406, July 9, 2012, 126 Stat. 1039, provided that: “Notwithstanding the amendments made by this title \[enacting sections 379j–51 to 379j–53 of this title and amending this section and section 379d–4 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2007, but before October 1, 2012, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013.”
 
-Pub. L. 105–115, title I, §105, Nov. 21, 1997, 111 Stat. 2305, provided that: “Notwithstanding section 105 of the Prescription Drug User Fee Act of 1992 \[section 105 of Pub. L. 102–571, set out above\], the Secretary shall retain the authority to assess and collect any fee required by part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] for a human drug application or supplement accepted for filing prior to October 1, 1997, and to assess and collect any product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998.”
+Pub. L. 110–85, title I, §108, Sept. 27, 2007, 121 Stat. 842, provided that: “Notwithstanding section 509 of the Prescription Drug User Fee Amendments of 2002 \[Pub. L. 107–188\] (\[former\] 21 U.S.C. 379g note), and notwithstanding the amendments made by this title \[enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this title \[Sept. 27, 2007\], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008.”
+
+Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of the Food and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, formerly set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title Vof Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
+
+Pub. L. 105–115, title I, §105, Nov. 21, 1997, 111 Stat. 2305, provided that: “Notwithstanding section 105 of the Prescription Drug User Fee Act of 1992 \[section 105 of Pub. L. 102–571, formerly set out as a Termination Date note above\], the Secretary shall retain the authority to assess and collect any fee required by part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] for a human drug application or supplement accepted for filing prior to October 1, 1997, and to assess and collect any product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998.”
 
 #### Accountability and Reports
 
-Pub. L. 107–188, title V, §505, June 12, 2002, 116 Stat. 692, which required the Secretary of Health and HumanServices to consult with various congressional committees and health care professionals and provide for public commentary when developing recommendations to Congress regarding review of human drug applications for fiscal years after 2007, and which required the Secretary to submit performance and fiscal reports on certain goals and fees beginning with fiscal year 2003, ceased to be effective 120 days after Oct. 1, 2007. See Effective and Termination Dates of 2002 Amendment note above.
+Pub. L. 107–188, title V, §505, June 12, 2002, 116 Stat. 692, provided that:
+
+“(a)
+
+Public Accountability.—
+
+&emsp;“(1)
+
+Consultation.—In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of human drug applications for the fiscal years after fiscal year 2007, and for the reauthorization of sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g, 379h\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry.
+
+&emsp;“(2)
+
+Recommendations.—The Secretary shall publish in the Federal Register recommendations under paragraph (1), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.
+
+“(b)
+
+Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+
+“(c)
+
+Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
 
 #### Congressional Findings Concerning Fees Relating to Drugs
+
+Pub. L. 112–144, title I, §101(b), July 9, 2012, 126 Stat. 996, provided that: “The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379h and 379h–2 of this title and repealing sections set out as notes under this section and section 379h–2 of this title\] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 Pub. L. 110–85, title I, §101(c), Sept. 27, 2007, 121 Stat. 825, provided that: “The Congress finds that the fees authorized by the amendments made in this title \[enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title\] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
@@ -204,7 +238,7 @@ Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: 
 
 &emsp;&emsp;&emsp;“(iii) developing principles for improving first-cycle reviews; and
 
-&emsp;“(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman of the Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record.”
+&emsp;“(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the processfor the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman of the Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record.”
 
 Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that: “Congress finds that—
 
@@ -230,9 +264,29 @@ Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that:
 
 #### Annual Reports
 
-Pub. L. 105–115, title I, §104, Nov. 21, 1997, 111 Stat. 2304, which directed the Secretary of Health and Human Services to prepare and submit to Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, within 60 days after the end of each fiscal year during which fees are collected under this subpart, a report stating the Food and Drug Administration's progress in achieving the goals identified in the letters described in section 101(4) of Pub. L. 105–115, set out above, during such fiscal year and the Administration's future plans for meeting the goals, and within 120 days after the endof each fiscal year during which fees are collected, to prepare and submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Administration made of the fees collected during such fiscal year, ceased to be effective 120 days after Oct. 1, 2002. See section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above.
+Pub. L. 105–115, title I, §104, Nov. 21, 1997, 111 Stat. 2304, provided that:
 
-Pub. L. 102–571, title I, §104, Oct. 29, 1992, 106 Stat. 4498, which provided that the Secretary of Health and Human Services submit to Committee on Energy and Commerce of the House of Representatives and Committee on Labor and Human Resources of the Senate, within 60 days after the end of each fiscal year during which fees were collected under this subpart, a report stating the Food and Drug Administration's progress in achieving the goals identified in section 102(3) of Pub. L. 102–571, set out as a note above, during such fiscal year and that agency's future plans for meeting such goals, and within 120 days after the end of each fiscal year during which such fees were collected, a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year, ceased to be in effect 120 days after Oct. 1, 1997. See Termination Date note above.
+“(a)
+
+Performance Report.—Beginning with fiscal year 1998, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(4) \[section 101(4) of Pub. L. 105–115, set out above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+
+“(b)
+
+Fiscal Report.—Beginning with fiscal year 1998, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (a), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
+
+Pub. L. 102–571, title I, §104, Oct. 29, 1992, 106 Stat. 4498, provided that:
+
+“(a)
+
+First Report.—Within 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary of Health and Human Services shall submit a report stating the Food and Drug Administration's progress in achieving the goals identified in section 102(3) of this Act \[set out as a note above\] during such fiscal year and that agency's future plans for meeting such goals.
+
+“(b)
+
+Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
+
+“(c)
+
+Committees.—The reports described in subsections (a) and (b) shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
 
 #### Animal Drug User Fee Study
 

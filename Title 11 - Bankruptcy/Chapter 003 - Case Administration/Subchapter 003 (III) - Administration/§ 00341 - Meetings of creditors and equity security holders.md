@@ -62,7 +62,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 #### Participation by Bankruptcy Administrator at Meetings of Creditors and Equity Security Holders
 
-Section 105 of Pub. L. 103–394 provided that:
+Pub. L. 103–394, title I, §105, Oct. 22, 1994, 108 Stat. 4111, provided that:
 
 “(a)
 

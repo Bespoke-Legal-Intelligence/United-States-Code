@@ -92,7 +92,7 @@ In this subchapter:
 
 &emsp;&emsp;(ii) that serves not fewer than 10,000 children from low-income families;
 
-&emsp;&emsp;(iii) that meets the eligibility requirements for funding under the Small, RuralSchool Achievement Program under section 7345(b) of this title; or
+&emsp;&emsp;(iii) that meets the eligibility requirements for funding under the Small, Rural School Achievement Program under section 7345(b) of this title; or
 
 &emsp;&emsp;(iv) that meets the eligibility requirements for funding under the Rural and Low-Income School Program under section 7351(b) of this title; and
 
@@ -140,7 +140,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded underpart A of title IV of the Social Security Act; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) eligible to receive medical assistance under the Medicaid program;
 
@@ -318,7 +318,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) focus on the identification of students’ specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
-&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-based assessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
+&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-basedassessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
 &emsp;&emsp;(F) effectively manage a classroom, including the ability to implement positive behavioral interventions and support strategies;
 
@@ -338,7 +338,7 @@ The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is
 
 A prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1623; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to purposes and definitions, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
-Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, titleI, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238; amended Pub. L. 94–482, title I, §106, Oct. 12, 1976, 90 Stat. 2089; Pub. L. 96–49, §3(a), Aug. 13, 1979, 93 Stat. 351, provided for college library programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

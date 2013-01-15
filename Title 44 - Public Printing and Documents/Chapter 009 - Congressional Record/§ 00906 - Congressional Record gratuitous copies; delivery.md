@@ -176,7 +176,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1977 Amendment
 
-Section 407(b) of Pub. L. 95–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–94, title IV, §407(b), Aug. 5, 1977, 91 Stat. 683, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
 
 #### Abolition of Office of Postmaster
 

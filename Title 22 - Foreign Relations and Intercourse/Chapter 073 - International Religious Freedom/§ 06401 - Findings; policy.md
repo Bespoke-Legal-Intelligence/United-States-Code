@@ -34,7 +34,7 @@ It shall be the policy of the United States, as follows:
 
 &emsp;(3) To be vigorous and flexible, reflecting both the unwavering commitment of the United States to religious freedom and the desire of the United States for the most effective and principled response, in light of the range of violations of religious freedom by a variety of persecuting regimes, and the status of the relations of the United States with different nations.
 
-&emsp;(4) To work with foreign governments that affirm and protect religious freedom, in orderto develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
+&emsp;(4) To work with foreign governments that affirm and protect religious freedom, in order to develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
 
 &emsp;(5) Standing for liberty and standing with the persecuted, to use and implement appropriate tools in the United States foreign policy apparatus, including diplomatic, political, commercial, charitable, educational, and cultural channels, to promote respect for religious freedom by all governments and peoples.
 

@@ -17,6 +17,7 @@
 | [8410\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008410%20-%20Eligibility%20for%20annuity.md) | Eligibility for annuity. |
 | [8411\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008411%20-%20Creditable%20service.md) | Creditable service. |
 | [8412\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008412%20-%20Immediate%20retirement.md) | Immediate retirement. |
+| [8412a.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008412a%20-%20Phased%20retirement.md) | Phased retirement. |
 | [8413\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008413%20-%20Deferred%20retirement.md) | Deferred retirement. |
 | [8414\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008414%20-%20Early%20retirement.md) | Early retirement. |
 | [8415\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008415%20-%20Computation%20of%20basic%20annuity.md) | Computation of basic annuity. |
@@ -124,6 +125,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. F, title I, §100121(b)(2), July 6, 2012, 126 Stat. 914, added item 8412a.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title XIX, §1904(b)(3)(B), Oct. 28, 2009, 123 Stat. 2617, added item 8422 and struck out former item 8422 “Deductions from pay; contributions for other service”.
 

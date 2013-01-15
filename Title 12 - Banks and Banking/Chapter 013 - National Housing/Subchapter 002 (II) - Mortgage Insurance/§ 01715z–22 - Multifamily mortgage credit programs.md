@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loansfor affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 
@@ -42,7 +42,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (F) Authority of Secretary
 
-&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance underthis section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;The Secretary, upon request of a qualified participating entity, may insure or reinsure and make commitments to insure or reinsure under this section any mortgage, advance, loan, or pool of mortgages otherwise eligible under this section, pursuant to a risk-sharing agreement providing that the qualified participating entity will carry out (under a delegation or otherwise, and with or without compensation, but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, issuance of commitments, approval of insurance of advances, cost certification, servicing, property disposition, or other functions as the Secretary shall approve as consistent with the purpose of this section. All appraisals of property for mortgage insurance under this section shall be completed by a Certified General Appraiser in accordance with the Uniform Standards of Professional Appraisal Practice.
 
 #### (G) Disclosure of records
 
@@ -106,7 +106,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the program authorized under this subsection, the Secretary shallenter into risk-sharing agreements with qualified housing finance agencies.
+&emsp;&emsp;In carrying out the program authorized under this subsection, the Secretary shall enter into risk-sharing agreements with qualified housing finance agencies.
 
 #### (B) Mortgage insurance
 
@@ -168,7 +168,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 &emsp;&emsp;&emsp;(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2) of this section, and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) of this section upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
-&emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only afterconsultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
+&emsp;&emsp;&emsp;(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
 &emsp;&emsp;&emsp;&emsp;(aa) for the monitoring of the performance of environmental reviews under this subparagraph;
 
@@ -296,7 +296,7 @@ Subsec. (b)(9), (10). Pub. L. 103–233, §307(a)(4), added pars. (9) and (10).
 
 Subsec. (b)(11). Pub. L. 103–233, §307(a)(3), added par. (11).
 
-Subsec. (c)(1). Pub. L. 103–233, §307(b)(1), inserted “(including entities established by States that providemortgage insurance)” after “qualified housing finance agencies”.
+Subsec. (c)(1). Pub. L. 103–233, §307(b)(1), inserted “(including entities established by States that provide mortgage insurance)” after “qualified housing finance agencies”.
 
 Subsec. (c)(2)(C). Pub. L. 103–233, §307(b)(2)(A), substituted “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share any loss in accordance with the risk-sharing agreement.” for “Such agreements shall specify that the qualified housing finance agency and the Secretary shall share equally the full amount of any loss on the insured mortgage.”
 

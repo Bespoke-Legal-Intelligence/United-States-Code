@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of the Interior (referred to in this section as the “Secretary”) shall establish a Federal Permit Streamlining Pilot Project (referred to in this section as the “Pilot Project”).
+The Secretary of the Interior (referred to in this section as the “Secretary”) shall establisha Federal Permit Streamlining Pilot Project (referred to in this section as the “Pilot Project”).
 
 #### (b) Memorandum of understanding
 

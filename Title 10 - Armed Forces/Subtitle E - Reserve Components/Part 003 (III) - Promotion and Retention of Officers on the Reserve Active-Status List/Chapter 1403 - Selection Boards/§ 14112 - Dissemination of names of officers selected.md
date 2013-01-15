@@ -2,7 +2,7 @@
 
 (a)
 
-Time for Dissemination.—The names of the officers recommended for promotion in thereport of a selection board shall be disseminated to the armed force concerned as follows:
+Time for Dissemination.—The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
 
 &emsp;(1) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
 

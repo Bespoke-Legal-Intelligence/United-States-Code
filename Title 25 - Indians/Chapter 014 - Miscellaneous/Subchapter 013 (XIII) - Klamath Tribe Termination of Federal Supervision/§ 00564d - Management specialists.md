@@ -36,19 +36,19 @@ Subsec. (b). Pub. L. 85–132, §1(b), provided for partial reimbursement of the
 
 #### Compensation for Services Pertaining to Enactment Prohibited
 
-Section 3 of Pub. L. 85–731 provided that: “No funds distributed pursuant to section 5 of the Act of August 13, 1954, as amended \[this section\], to members who withdraw from the tribe shall be paid to any person as compensation for services pertaining to the enactment of said Act or amendments thereto \[this subchapter\] and any person making or receiving such payments shall be guilty of a misdemeanor and shall be imprisoned for not more than six months and fined not more than $500.”
+Pub. L. 85–731, §3, Aug. 23, 1958, 72 Stat. 818, provided that: “No funds distributed pursuant to section 5 of the Act of August 13, 1954, as amended \[this section\], to members who withdraw from the tribe shall be paid to any person as compensation for services pertaining to the enactment of said Act or amendments thereto \[this subchapter\] and any person making or receiving such payments shall be guilty of a misdemeanor and shall be imprisoned for not more than six months and fined not more than $500.”
 
 #### Termination of Contract With Management Specialists by Secretary of the Interior
 
-Section 4 of Pub. L. 85–731 provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended \[this section\], shall be performed by the Secretary.”
+Pub. L. 85–731, §4, Aug. 23, 1958, 72 Stat. 819, provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended \[this section\], shall be performed by the Secretary.”
 
 #### Provisions Requiring Election To Withdraw or Remain in Tribe Following Appraisal as Unaffected
 
-Section 5 of Pub. L. 85–731 provided that: “Nothing in this Act shall in any way modify or repeal the provisions of subsection 5(a) of the Act of August 13, 1954, 68 Stat. 718), as amended \[subsec. (a) of this section\], providing for and requiring members of the Klamath Tribe to elect to withdraw from or remain in the tribe, following the appraisal of the tribal property.”
+Pub. L. 85–731, §5, Aug. 23, 1958, 72 Stat. 819, provided that: “Nothing in this Act shall in any way modify or repeal the provisions of subsection 5(a) of the Act of August 13, 1954, 68 Stat. 718), as amended \[subsec. (a) of this section\], providing for and requiring members of the Klamath Tribe to elect to withdraw from or remain in the tribe, following the appraisal of the tribal property.”
 
 #### Cemeteries Within Reservation
 
-Section 9 of Pub. L. 85–731 provided that: “Except as provided below the provisions of the Act of August 13, 1954 (68 Stat. 718), as amended \[this subchapter\], shall not apply to cemeteries within the reservation. The Secretary is hereby authorized and directed to transfer title to such properties to any organization authorized by the tribe and approved by him. In the event such an organization is not formed by the tribe within eighteen months following enactment of this Act \[August 23, 1958\], the Secretary is directed to perfect the organization of a nonprofit entity empowered to accept title and maintain said cemeteries, any costs involved to be subject to the provisions of section 5(b) of said Act of August 13, 1954, as amended \[subsec. (b) of this section\].”
+Pub. L. 85–731, §9, Aug. 23, 1958, 72 Stat. 819, provided that: “Except as provided below the provisions of the Act of August 13, 1954 (68 Stat. 718), as amended \[this subchapter\], shall not apply to cemeteries within the reservation. The Secretary is hereby authorized and directed to transfer title to such properties to any organization authorized by the tribe and approved by him. In the event such an organization is not formed by the tribe within eighteen months following enactment of this Act \[August 23, 1958\], the Secretary is directed to perfect the organization of a nonprofit entity empowered to accept title and maintain said cemeteries, any costs involved to be subject to the provisions of section 5(b) of said Act of August 13, 1954, as amended \[subsec. (b) of this section\].”
 
 #### Deferral of Time for Sales of Tribal Property
 

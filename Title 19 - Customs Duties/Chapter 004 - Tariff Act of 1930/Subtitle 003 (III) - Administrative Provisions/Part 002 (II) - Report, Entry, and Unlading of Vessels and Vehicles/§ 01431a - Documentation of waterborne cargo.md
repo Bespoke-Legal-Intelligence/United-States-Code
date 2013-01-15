@@ -14,7 +14,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 &emsp;(A) for shipments for which a shipper's export declaration is required, a copy of the export declaration or, if the shipper files such declarations electronically in the Automated Export System, the complete bill of lading, and the master or equivalent shipping instructions, including the Internal Transaction Number (ITN); or
 
-&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper's export declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
+&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper'sexport declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
 
 (4) The Secretary shall by regulation prescribe the time, manner, and form by which shippers shall transmit documents or information required under this subsection to the Customs Service.
 
@@ -28,7 +28,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (1) In general
 
-&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, andthe location of the cargo in the marine terminal.
+&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal.
 
 #### (2) Sharing arrangements
 
@@ -68,7 +68,7 @@ In subsec. (b)(1), “(as defined in section 40102(16) of title 46)” substitut
 
 #### Effective Date
 
-Section applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as an Effective Date of 2002 Amendment note preceding section 2271 of this title.
+Section applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6,2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as an Effective Date of 2002 Amendment note preceding section 2271 of this title.
 
 #### Transfer of Functions
 

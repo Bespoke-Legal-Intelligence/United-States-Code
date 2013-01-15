@@ -162,7 +162,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceedthe aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -218,7 +218,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided by the Secretary, if, on or before the due date for any taxable year, a taxpayer transfers in a trustee-to-trustee transfer any contribution to an individual retirement plan made during such taxable year from such plan to any other individual retirement plan, then, for purposes of this chapter, such contribution shall be treated as having been made to the transferee plan (and not the transferor plan).
+&emsp;&emsp;Except as provided by the Secretary, if, on or before the due date for any taxable year, a taxpayer transfers in a trustee-to-trustee transfer any contribution to an individualretirement plan made during such taxable year from such plan to any other individual retirement plan, then, for purposes of this chapter, such contribution shall be treated as having been made to the transferee plan (and not the transferor plan).
 
 #### (B) Special rules
 
@@ -468,7 +468,7 @@ Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, towhich such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
 
 Amendment by section 6005(b)(1)–(7), (9) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

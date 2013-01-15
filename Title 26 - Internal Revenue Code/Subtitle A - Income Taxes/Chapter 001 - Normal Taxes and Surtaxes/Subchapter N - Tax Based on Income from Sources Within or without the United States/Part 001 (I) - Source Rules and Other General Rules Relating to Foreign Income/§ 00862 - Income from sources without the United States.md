@@ -10,7 +10,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;(3) compensation for labor or personal services performed without the United States;
 
-&emsp;(4) rentals or royalties from property located without the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using without the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like properties;
+&emsp;(4) rentals or royalties from property located without the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using without the United States patents, copyrights, secret processes and formulas, goodwill, trade-marks, trade brands, franchises, and other like properties;
 
 &emsp;(5) gains, profits, and income from the sale or exchange of real property located without the United States;
 
@@ -24,7 +24,7 @@ The following items of gross income shall be treated as income from sources with
 
 #### (b) Taxable income from sources without United States
 
-From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In thecase of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
+From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 276; Pub. L. 92–178, title III, §314(b), Dec. 10, 1971, 85 Stat. 528; Pub. L. 94–455, title X, §1036(b), title XIX, §1901(b)(26)(C), Oct. 4, 1976, 90 Stat. 1633, 1798; Pub. L. 95–30, title I, §102(b)(10), May 23, 1977, 91 Stat. 138; Pub. L. 97–34, title VIII, §831(a)(2), Aug. 13, 1981, 95 Stat. 352; Pub. L. 99–514, title I, §104(b)(12), title XII, §1211(b)(1)(C), Oct. 22, 1986, 100 Stat. 2105, 2536; Pub. L. 100–647, title I, §1012(e)(4), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 111–240, title II, §2122(b), Sept. 27, 2010, 124 Stat. 2568.)
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 92–178 applicable to taxable years ending after Aug. 15, 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1211(b)(1)(C) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had beenincluded in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Qualified Research and Experimental Expenditures; Allocation and Apportionment; Definitions; Special Rules; Effective Dates
 

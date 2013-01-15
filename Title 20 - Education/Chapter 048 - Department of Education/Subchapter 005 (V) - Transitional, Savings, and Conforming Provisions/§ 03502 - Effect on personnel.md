@@ -16,5 +16,5 @@ In subsec. (b), “May 4, 1980” substituted for “the effective date of this 
 
 #### Abolished Positions Deemed Transferred
 
-Section 508(<i>l</i>)(4) of Pub. L. 96–88 provided that: “Positions abolished as a consequence of the amendments made by this subsection \[amending sections 1102, 2390, and 3012 of this title\] shall, for purposes of section 502(a) \[subsec. (a) of this section\], be deemed to be permanent positions transferred pursuant to title V of this Act \[this subchapter\].”
+Pub. L. 96–88, title V, §508(l)(4), Oct. 17, 1979, 93 Stat. 694, provided that: “Positions abolished as a consequence of the amendments made by this subsection \[amending sections 1102, 2390, and 3012 of this title\] shall, for purposes of section 502(a) \[subsec. (a) of this section\], be deemed to be permanent positions transferred pursuant to title V of this Act \[this subchapter\].”
 

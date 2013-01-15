@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) is eligible for payments under a State plan approved under this subchapter,
 
-&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
+&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section 1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
 
 &emsp;&emsp;(C) is determined by the State agency to be capable of making determinations of the type described in paragraph (1)(A), and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;(B) inform the woman at the time the determination is made that she is required to make application for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
 
-(3) A pregnant woman who is determined by a qualified provider to be presumptively eligible for medical assistance under a State plan shall make application for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(<i>l</i>)(1)(A) of this title.
+(3) A pregnant woman who is determined by a qualified provider to be presumptively eligible for medical assistance under a State plan shall make application for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(l)(1)(A) of this title.
 
 #### (d) Ambulatory prenatal care as medical assistance
 
@@ -118,7 +118,7 @@ Pub. L. 111–148, §2001(a)(4)(B), added subsec. (e).
 
 Subsec. (c)(2)(B). Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day of the month following the month during which” for “within 14 calendar days after the date on which”.
 
-Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end “, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(<i>l</i>)(1)(A) of this title”.
+Subsec. (c)(3). Pub. L. 101–508, §4605(b), inserted before period at end “, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(l)(1)(A) of this title”.
 
 Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day of the month following the month during which” for “within 14 calendar days after the date on which”.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 #### Effective Date of 1990 Amendment
 
-Section 4605(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title IV, §4605(c), Nov. 5, 1990, 104 Stat. 1388–169, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
@@ -152,7 +152,7 @@ Section 4605(c) of Pub. L. 101–508 provided that:
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 100–360, title IV, §411(k)(16)(C), July 1, 1988, 102 Stat. 799, provided that: “The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 #### Effective Date
 

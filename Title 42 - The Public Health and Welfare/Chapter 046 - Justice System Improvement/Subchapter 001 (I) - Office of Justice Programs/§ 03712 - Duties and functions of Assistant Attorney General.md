@@ -12,7 +12,7 @@ The Assistant Attorney General shall—
 
 &emsp;(4) maintain liaison with public and private educational and research institutions, State and local governments, and governments of other nations relating to criminal justice;
 
-&emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
+&emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, andthe Office of Juvenile Justice and Delinquency Prevention; and
 
 &emsp;(6) exercise such other powers and functions as may be vested in the Assistant Attorney General pursuant to this chapter or by delegation of the Attorney General, including placing special conditions on all grants, and determining priority purposes for formula grants.
 

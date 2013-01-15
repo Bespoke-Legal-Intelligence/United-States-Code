@@ -70,7 +70,7 @@ For purposes of this subchapter:
 
 #### (7) Families with children and youth defined as homeless under other Federal statutes
 
-&emsp;The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, andshall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
+&emsp;The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
 
 #### (8) Geographic area
 
@@ -292,7 +292,23 @@ A prior section 401 of Pub. L. 100–77 was renumbered section 403 and is classi
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and UrbanDevelopment, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+
+#### HEARTH Act Technical Corrections
+
+Pub. L. 112–141, div. F, title II, §100261, July 6, 2012, 126 Stat. 978, provided that: “For purposes of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.)—
+
+&emsp;“(1) the term ‘local government’ includes an instrumentality of a unit of general purpose local government other than a public housing agency that is established pursuant to legislation and designated by the chief executive to act on behalf of the local government with regard to activities funded under such title IV and includes a combination of general purpose local governments, such as an association of governments, that is recognized by the Secretary of Housing and Urban Development;
+
+&emsp;“(2) the term ‘State’ includes any instrumentality of any of the several States designated by the Governor to act on behalf of the State and does not include the District of Columbia;
+
+&emsp;“(3) for purposes of environmental review, the Secretary of Housing and Urban Development shall continue to permit assistance and projects to be treated as assistance for special projects that are subject to section 305(c) of the Multifamily Housing Property Disposition Reform Act of 1994 (42 U.S.C. 3547), and subject to the regulations issued by the Secretary of Housing and Urban Development to implement such section; and
+
+&emsp;“(4) a metropolitan city and an urban county that each receive an allocation under such title IV and are located within a geographic area that is covered by a single continuum of care may jointly request the Secretary of Housing and Urban Development to permit the urban county or the metropolitan city, as agreed to by such county and city, to receive and administer their combined allocations under a single grant.”
+
+#### Definitions
+
+For provisions relating to definitions of “State” and “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note above.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of this”.</i>
 

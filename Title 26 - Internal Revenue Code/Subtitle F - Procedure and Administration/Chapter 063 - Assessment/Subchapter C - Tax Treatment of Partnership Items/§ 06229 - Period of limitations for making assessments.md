@@ -52,7 +52,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (d) Suspension when Secretary makes administrative adjustment
 
-If notice of a final partnership administrative adjustment with respect to any taxable year is mailed to the tax matters partner, the runningof the period specified in subsection (a) (as modified by other provisions of this section) shall be suspended—
+If notice of a final partnership administrative adjustment with respect to any taxable year is mailed to the tax matters partner, the running of the period specified in subsection (a) (as modified by other provisions of this section) shall be suspended—
 
 &emsp;(1) for the period during which an action may be brought under section 6226 (and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and
 
@@ -92,7 +92,7 @@ If a petition is filed naming a partner as a debtor in a bankruptcy proceeding u
 
 &emsp;(2) for 60 days thereafter.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55; Pub. L. 111–147, title V, §513(a)(2)(B), Mar. 18, 2010, 124 Stat. 112.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55; Pub. L. 111–147, title V, §513(a)(2)(B), Mar. 18, 2010, 124 Stat. 112.)
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 107–147 applicable with respect to settlement agreements 
 
 #### Effective Date of 1997 Amendment
 
-Section 1233(d) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XII, §1233(d), Aug. 5, 1997, 111 Stat. 1024, provided that:
 
 “(1)
 
@@ -138,7 +138,7 @@ and (b).—The amendments made by subsections (a) and (b) \[amending this sectio
 
 Subsection (c).—The amendment made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act.”
 
-Section 1235(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to settlements entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1235(b), Aug. 5, 1997, 111 Stat. 1025, provided that: “The amendment made by this section \[amending this section\] shall apply to settlements entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 

@@ -66,17 +66,17 @@ Safety.—
 
 Training.—Each air carrier engaged in covered operations shall continue to use pilot training and qualification programs approved by the Federal Aviation Administration, with specific emphasis on initial and recurrent training and qualification of pilots who have attained 60 years of age, to ensure continued acceptable levels of pilot skill and judgment.
 
-&emsp;(2)
-
-Line evaluations.—Not later than 6 months after the date of enactment of this section, and every 6 months thereafter, an air carrier engaged in covered operations shall evaluate the performance of each pilot of the air carrier who has attained 60 years of age through a line check of such pilot. Notwithstanding the preceding sentence, an air carrier shall not be required to conduct for a 6-month period a line check under this paragraph of a pilot serving as second-in-command if the pilot has undergone a regularly scheduled simulator evaluation during that period.
-
-&emsp;(3) GAO
+&emsp;(2) GAO
 
 report.—Not later than 24 months after the date of enactment of this section, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report concerning the effect, if any, on aviation safety of the modification to pilot age standards made by subsection (a).
 
-(Added Pub. L. 110–135, §2(a), Dec. 13, 2007, 121 Stat. 1450.)
+(Added Pub. L. 110–135, §2(a), Dec. 13, 2007, 121 Stat. 1450; amended Pub. L. 112–95, title III, §305, Feb. 14, 2012, 126 Stat. 58.)
 
 #### References in Text
 
-The date of enactment of this section and such date of enactment, referred to in subsecs. (d), (e), (g)(1) and (h)(2), (3), is the date of enactment of Pub. L. 110–135, which was approved Dec. 13, 2007.
+The date of enactment of this section and such date of enactment, referred to in subsecs. (d), (e), (g)(1) and (h)(2), is the date of enactment of Pub. L. 110–135, which was approved Dec. 13, 2007.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (h)(2), (3). Pub. L. 112–95 redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than 6 months after the date of enactment of this section, and every 6 months thereafter, an air carrier engaged in covered operations shall evaluate the performance of each pilot of the air carrier who has attained 60 years of age through a line check of such pilot. Notwithstanding the preceding sentence, an air carrier shall not be required to conduct for a 6-month period a line check under this paragraph of a pilot serving as second-in-command if the pilot has undergone a regularly scheduled simulator evaluation during that period.”
 

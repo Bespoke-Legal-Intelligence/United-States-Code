@@ -24,11 +24,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) actively and regularly seek the participation of non-governmental indigenous peoples and conservation organizations in the host countries at all stages of project planning and strategy sessions;
 
-&emsp;&emsp;(C) fully inform local communities and appropriate non-governmental organizations with interests in local development projects of all project planning sufficiently in advance of project appraisal to allow informed participation of local communities and non-governmental organizations that may be adversely affected by them;
+&emsp;&emsp;(C) fully inform local communities and appropriate non-governmental organizations with interests in local development projects of all project planning sufficiently in advance of project appraisal to allow informedparticipation of local communities and non-governmental organizations that may be adversely affected by them;
 
 &emsp;(3) establish a regular integrated multidisciplinary planning process to conduct land use capability analyses in reviewing potential loans. Such plans shall include, but not be limited to, a review of ongoing or other potential resource utilization efforts in and adjacent to the project area;
 
-&emsp;(4) vigorously promote a commitment of these institutions to develop and implementplans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
+&emsp;(4) vigorously promote a commitment of these institutions to develop and implement plans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
 
 &emsp;&emsp;(A) long-term programs of research designed to manage ecosystems properly;
 
@@ -100,13 +100,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-A prior section 262<i>l</i>, Pub. L. 102–391, title V, §532, Oct. 6, 1992, 106 Stat. 1666, which related to environmental and energy initiatives, benchmarks, Global Warming Initiative, and appropriations, was transferred to section 262<i>l</i>–3 of this title.
+A prior section 262l, Pub. L. 102–391, title V, §532, Oct. 6, 1992, 106 Stat. 1666, which related to environmental and energy initiatives, benchmarks, Global Warming Initiative, and appropriations, was transferred to section 262l–3 of this title.
 
-Another prior section 262<i>l</i>, Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, is set out as a note below.
+Another prior section 262l, Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, is set out as a note below.
 
-Another prior section 262<i>l</i>, Pub. L. 100–461, title V, §535, Oct. 1, 1988, 102 Stat. 2268–28, which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262<i>l</i>–2 of this title.
+Another prior section 262l, Pub. L. 100–461, title V, §535, Oct. 1, 1988, 102 Stat. 2268–28, which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title.
 
-Another prior section 262<i>l</i>, Pub. L. 100–202, §101(e) \[title V, §537\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, §541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262<i>l</i>–1 of this title.
+Another prior section 262l, Pub. L. 100–202, §101(e) \[title V, §537\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, §541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262l–1 of this title.
 
 #### Similar Provisions
 
@@ -128,13 +128,13 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;“(3) provide analysis for each proposed loan to support additional power generating capacity, comparing the economic and environmental costs of investments in demand reduction, including energy conservation and end-use energy efficiency, with the economic and environmental costs of the proposal;
 
-&emsp;“(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energy projects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
+&emsp;“(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energyprojects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
 
 &emsp;&emsp;“(A) consideration of a wide range of alternatives to the proposed project including, where feasible, alternative investments in end-use energy efficiency and non-conventional renewable energy; and
 
 &emsp;&emsp;“(B) encouragement and adoption of policies which allow for public participation in the EIA process;
 
-&emsp;“(5) include environmental costs in the economic assessment of the proposed projects with significantpotential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
+&emsp;“(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
 
 &emsp;“(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
 

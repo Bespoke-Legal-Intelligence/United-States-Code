@@ -24,7 +24,7 @@ Based on title 28, U.S.C., 1940 ed., §§219, 263, 296, 307, 723, 731, and 761, 
 
 Sections 219, 263, 296, 307, 723, and 731 of title 28, U.S.C., 1940 ed., gave specified courts, other than the Supreme Court, power to make rules. Section 761 of such title related to rules established in the district courts and Court of Claims. Section 1111 of title 26, U.S.C., 1940 ed., related to Tax Court. This section consolidates all such provisions. For other provisions of such sections, see Distribution Table.
 
-Recognition by Congress of the broad rule-making power of the courts will make it possible for the courtsto prescribe complete and uniform modes of procedure, and alleviate, at least in part, the necessity of searching in two places, namely in the Acts of Congress and in the rules of the courts, for procedural requisites.
+Recognition by Congress of the broad rule-making power of the courts will make it possible for the courts to prescribe complete and uniform modes of procedure, and alleviate, at least in part, the necessity of searching in two places, namely in the Acts of Congress and in the rules of the courts, for procedural requisites.
 
 Former Attorney General Cummings recently said: “Legislative bodies have neither the time to inquire objectively into the details of judicial procedure nor the opportunity to determine the necessity for amendment or change. Frequently such legislation has been enacted for the purpose of meeting particular problems or supposed difficulties, but the results have usually been confusing or otherwise unsatisfactory. Comprehensive action has been lacking for the obvious reason that the professional nature of the task would leave the legislature little time for matters of substance and statesmanship. It often happened that an admitted need for change, even in limited areas, could not be secured.”—The New Criminal Rules—Another Triumph of the Democratic Process. American Bar Association Journal, May 1945.
 
@@ -50,7 +50,7 @@ This amendment clarifies section 2071 of title 28, U.S.C., by giving express rec
 
 #### Effective Date of 1988 Amendment
 
-Section 407 of title IV of Pub. L. 100–702 provided that: “This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771 and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988.”
+Pub. L. 100–702, title IV, §407, Nov. 19, 1988, 102 Stat. 4652, provided that: “This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771 and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988.”
 
 #### Effective Date of 1983 Amendment
 
@@ -62,7 +62,7 @@ Pub. L. 97–462, §1, Jan. 12, 1983, 96 Stat. 2527, provided: “That this Act 
 
 #### Savings Provision
 
-Section 406 of title IV of Pub. L. 100–702 provided that: “The rules prescribed in accordance with law before the effective date of this title \[Dec. 1, 1988\] and in effect on the date of such effective date shall remain in force until changed pursuant to the law as amended by this title \[see Effective Date of 1988 Amendment note above\].”
+Pub. L. 100–702, title IV, §406, Nov. 19, 1988, 102 Stat. 4652, provided that: “The rules prescribed in accordance with law before the effective date of this title \[Dec. 1, 1988\] and in effect on the date of such effective date shall remain in force until changed pursuant to the law as amended by this title \[see Effective Date of 1988 Amendment note above\].”
 
 #### Rulemaking Authority of Supreme Court and Judicial Conference
 
@@ -70,9 +70,9 @@ Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: “Nothing in 
 
 #### Tax Court Rulemaking Not Affected
 
-Section 405 of title IV of Pub. L. 100–702 provided that: “The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\].”
+Pub. L. 100–702, title IV, §405, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\].”
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966.Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
 

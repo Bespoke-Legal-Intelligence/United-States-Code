@@ -18,7 +18,7 @@ Prior to the issuance of a visa under subparagraph (F), subparagraph (M), or, wi
 
 #### (1) In general
 
-&emsp;Not later than 120 days after May 14, 2002, and until such time as the system described in section 1372 of this title is fully implemented, the following requirements shall apply:
+&emsp;Not later than 120 days after May 14, 2002, and until such time as the system described insection 1372 of this title is fully implemented, the following requirements shall apply:
 
 #### (A) Restrictions on issuance of visas
 

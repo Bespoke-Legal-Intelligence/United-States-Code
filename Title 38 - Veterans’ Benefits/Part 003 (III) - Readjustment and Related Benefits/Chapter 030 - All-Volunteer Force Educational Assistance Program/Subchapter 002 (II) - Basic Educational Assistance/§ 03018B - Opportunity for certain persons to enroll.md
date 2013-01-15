@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before making an election under this paragraph to receive benefits under this section in lieu of benefits under such chapter 32; and
 
-&emsp;&emsp;(E) before October 23, 1993, elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph,
+&emsp;&emsp;(E) before October 23, 1993, elects to receive assistance under this section pursuantto procedures referred to in subparagraph (C) of this paragraph,
 
 > to elect to become entitled to basic education assistance under this chapter.
 
@@ -62,7 +62,7 @@ Subsec. (d)(3). Pub. L. 103–446, §1201(d)(5), (e)(11)(B), substituted “such
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1998 Amendment
 

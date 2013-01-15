@@ -10,7 +10,7 @@ For purposes of this part:
 
 &emsp;The term “service sector firm” means a firm engaged in the business of supplying services.
 
-(Pub. L. 93–618, title II, §259, formerly §261, Jan. 3, 1975, 88 Stat. 2034; renumbered §259 and amended Pub. L. 111–5, div. B, title I, §§1861(b), 1864(a)(2), Feb. 17, 2009, 123 Stat. 396, 397; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §259, formerly §261, Jan. 3, 1975, 88 Stat. 2034; renumbered §259 and amended Pub. L. 111–5, div. B, title I, §§1861(b),1864(a)(2), Feb. 17, 2009, 123 Stat. 396, 397; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 

@@ -18,7 +18,7 @@ Notwithstanding section 442, an entity which has not engaged in any active trade
 
 #### Prior Provisions
 
-A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L. 95–600, title VII, §701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, §362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
+A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L.95–600, title VII, §701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, §362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
 
 #### Amendments
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Repeal of prior section 859 of this title and redesignation of section 860 of this title as this section by section 362(d)(6) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
-Section 701(t)(5) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 275, 856, 6212, and 6501 of this title\] shall take effect on October 4, 1976.”
+Pub. L. 95–600, title VII, §701(t)(5), Nov. 6, 1978, 92 Stat. 2912, provided that: “The amendments made by this subsection \[amending this section and sections 275, 856, 6212, and 6501 of this title\] shall take effect on October 4, 1976.”
 

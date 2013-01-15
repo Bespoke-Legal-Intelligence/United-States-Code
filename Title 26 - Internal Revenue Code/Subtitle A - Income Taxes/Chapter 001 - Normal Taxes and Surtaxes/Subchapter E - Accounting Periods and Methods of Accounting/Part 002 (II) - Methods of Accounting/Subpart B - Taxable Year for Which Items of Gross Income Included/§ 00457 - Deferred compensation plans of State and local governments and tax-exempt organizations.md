@@ -16,7 +16,7 @@
 
 #### (3) Special rule for health and long-term care insurance
 
-&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(l), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 
@@ -52,13 +52,13 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 &emsp;&emsp;(C) all income attributable to such amounts, property, or rights,
 
-> &emsp;shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits under the plan), subject only to the claims of the employer's general creditors.
+> &emsp;shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits underthe plan), subject only to the claims of the employer's general creditors.
 
 > A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
 
 #### (c) Limitation
 
-The maximum amount of the compensation of any one individual which may be deferred undersubsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
 #### (d) Distribution requirements
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (10) Transfers between plans
 
-&emsp;A participant shall not be required to include in gross income any portion of the entireamount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+&emsp;A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
 
 #### (11) Certain plans excluded
 
@@ -360,7 +360,7 @@ $15,000.
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year inwhich such portion is paid or otherwise made available to the participant.
+&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
 
 #### (ii) Treatment
 
@@ -404,7 +404,7 @@ $15,000.
 
 &emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(<i>o</i>)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -426,7 +426,7 @@ Subsec. (f)(4). Pub. L. 109–280, §1104(b)(2), added par. (4).
 
 <b>2002</b>—Subsec. (e)(5). Pub. L. 107–147, §411(p)(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘includible compensation’ means compensation for service performed for the employer which (taking into account the provisions of this section and other provisions of this chapter) is currently includible in gross income.”
 
-Subsec. (e)(18). Pub. L. 107–147, §411(<i>o</i>)(9), added par. (18).
+Subsec. (e)(18). Pub. L. 107–147, §411(o)(9), added par. (18).
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–16, §649(b)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a participant in an eligible deferred compensation plan, any amount of compensation deferred under the plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income is paid or otherwise made available to the participant or other beneficiary.”
 
@@ -452,7 +452,7 @@ Subsec. (d)(2). Pub. L. 107–16, §649(a), reenacted heading without change and
 
 Subsec. (d)(3). Pub. L. 107–16, §649(b)(2)(B), added par. (3).
 
-Subsec. (e)(9). Pub. L. 107–16, §649(b)(2)(A), in heading substituted “Benefits of tax exempt organization plans not treated as made available by reason of certain elections, etc.” for “Benefits not treated as made available by reason of certain elections, etc.” and temporarily inserted introductory provisions.
+Subsec. (e)(9). Pub. L. 107–16, §649(b)(2)(A), in heading substituted “Benefits of tax exempt organization plans not treated as made available by reason of certain elections, etc.” for “Benefits not treated as made available by reason of certain elections, etc.” and inserted introductory provisions.
 
 Subsec. (e)(9)(A)(i). Pub. L. 107–16, §648(b), substituted “the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D))” for “such amount”.
 
@@ -520,7 +520,7 @@ In general.—This section shall not apply to nonelective deferred compensation 
 
 &emsp;“(B)
 
-Nonelective deferred compensation.—For purposes of subparagraph (a), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.”
+Nonelective deferred compensation.—For purposes of subparagraph (a), deferred compensation shall be treated as nonelective only if all individuals\(other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.”
 
 Subsec. (e)(9). Pub. L. 100–647, §1011(e)(9), inserted “after separation from service and” after “lump sum payable” in concluding provisions.
 
@@ -530,7 +530,7 @@ Subsec. (e)(12). Pub. L. 100–647, §6064(b)(1), added par. (12).
 
 Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to servicefor State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
 
 <b>1984</b>—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
@@ -596,9 +596,9 @@ Amendment by section 1421(b)(3)(C) of Pub. L. 104–188 applicable to taxable ye
 
 Amendment by section 1444(b)(2), (3) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1994, see section 1444(e) of Pub. L. 104–188, set out as a note under section 415 of this title.
 
-Section 1447(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–188, title I, §1447(c), Aug. 20, 1996, 110 Stat. 1812, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 1448(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1448(c), Aug. 20, 1996, 110 Stat. 1813, provided that:
 
 “(1)
 
@@ -608,7 +608,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trust need not be established by reason of the amendments made by this section before January 1, 1999.”
 
-Section 1458(c)(1) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to accruals of length of service awards after December 31, 1996.”
+Pub. L. 104–188, title I, §1458(c)(1), Aug. 20, 1996, 110 Stat. 1820, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to accruals of length of service awards after December 31, 1996.”
 
 #### Effective Date of 1992 Amendment
 
@@ -616,15 +616,15 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 1011(e)(9) of Pub. L. 100–647 provided that the amendment made by that section is effective for years beginning after Dec. 31, 1988.
+Pub. L. 100–647, title I, §1011(e)(9), Nov. 10, 1988, 102 Stat. 3461, provided that the amendment made by that section is effective for years beginning after Dec. 31, 1988.
 
 Amendment by section 1011(e)(1), (2), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6064(d) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6064(d), Nov. 10, 1988, 102 Stat. 3701, provided that:
 
 “(1)
 
@@ -674,7 +674,7 @@ Amendment by section 6071(c) of Pub. L. 100–647 applicable to taxable years be
 
 #### Effective Date of 1986 Amendment
 
-Section 1107(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(e)(6), (7), Nov. 10, 1988, 102 Stat. 3461, provided that:
+Pub. L. 99–514, title XI, §1107(c), Oct. 22, 1986, 100 Stat. 2430, as amended by Pub. L. 100–647, title I, §1011(e)(6), (7), Nov. 10, 1988, 102 Stat. 3461, provided that:
 
 “(1)
 
@@ -722,7 +722,7 @@ Special rule for certain deferred compensation plans.—The amendments made by t
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -730,7 +730,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Section 131(c)(1) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §131(c)(1), Nov. 6, 1978, 92 Stat. 2782, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Eligibility for Participation in Retirement Plans
 
@@ -750,7 +750,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rules
 
-Section 131(c)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title I, §131(c)(2), Nov. 6, 1978, 92 Stat. 2782, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -778,7 +778,7 @@ Meaning of terms.—Except as otherwise provided in this paragraph, terms used i
 
 #### Deferred Compensation Plans for State Judges
 
-Section 131(c)(3) of Pub. L. 95–600, as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, and amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title I, §131(c)(3), as added by Pub. L. 97–248, title II, §252, Sept. 3, 1982, 96 Stat. 532, and amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 

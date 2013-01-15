@@ -10,7 +10,7 @@ Beginning 6 months after October 21, 1998, and every 12 months thereafter, the S
 
 &emsp;(3) A list of the countries that have demonstrated a pattern of noncompliance with the obligations of the Convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States to the Central Authority for the United States.
 
-&emsp;(4) Detailed information on each unresolved case described in paragraph (1) and on actions taken by the Department of State to resolve each such case, including the specific actions taken by the United States chief of mission in the country to which the child is alleged to have been abducted.
+&emsp;(4) Detailed information on each unresolved case described in paragraph (1) and on actionstaken by the Department of State to resolve each such case, including the specific actions taken by the United States chief of mission in the country to which the child is alleged to have been abducted.
 
 &emsp;(5) Information on efforts by the Department of State to encourage other countries to become signatories of the Convention.
 

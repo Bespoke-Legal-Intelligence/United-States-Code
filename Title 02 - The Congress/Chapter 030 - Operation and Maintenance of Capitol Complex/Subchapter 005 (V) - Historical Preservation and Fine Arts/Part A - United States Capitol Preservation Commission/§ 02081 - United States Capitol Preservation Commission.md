@@ -18,7 +18,7 @@ The Commission shall be composed of the following Members of Congress:
 
 &emsp;(2) The Chairman and Vice-Chairman of the Joint Committee on the Library.
 
-&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules andAdministration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives.
+&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules and Administration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives.
 
 &emsp;(4) The majority leader and the minority leader of the Senate.
 

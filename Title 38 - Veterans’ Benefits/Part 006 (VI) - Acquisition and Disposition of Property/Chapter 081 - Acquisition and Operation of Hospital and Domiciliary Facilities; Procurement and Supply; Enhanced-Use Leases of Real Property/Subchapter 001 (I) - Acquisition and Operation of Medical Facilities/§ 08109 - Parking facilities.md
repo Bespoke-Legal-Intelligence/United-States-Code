@@ -92,7 +92,7 @@ Subsec. (i)(2). Pub. L. 102–40, §402(d)(1), substituted “8104(a)(2)” for 
 
 #### Effective Date of 1986 Amendment
 
-Section 223(b) of Pub. L. 99–576 provided that:
+Pub. L. 99–576, title II, §223(b), Oct. 28, 1986, 100 Stat. 3261, provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1986\].
 

@@ -66,7 +66,7 @@ Pub. L. 111–211, title II, §232(e), July 29, 2010, 124 Stat. 2279, provided t
 
 &emsp;“(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
 
-\[For definition of “Indian tribe” as used in section 232(e) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
+\[For definition of “Indian tribe” as used in section 232(e) of Pub. L. 111–211, set out above, see section 203(a)of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories
 

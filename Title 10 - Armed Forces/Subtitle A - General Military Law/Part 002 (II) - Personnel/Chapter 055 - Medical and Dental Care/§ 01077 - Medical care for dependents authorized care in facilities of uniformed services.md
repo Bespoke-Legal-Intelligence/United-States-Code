@@ -92,7 +92,7 @@
 
 &emsp;(C) otherwise assuring the proper functioning of the equipment.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19,1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985.)
 
 Historical and Revision Notes
 
@@ -194,7 +194,7 @@ Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
 #### Effective Date of 1984 Amendment
 
-Section 633(b) of Pub. L. 98–525 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 1985.”
+Pub. L. 98–525, title VI, §633(b), Oct. 19, 1984, 98 Stat. 2544, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 1985.”
 
 Amendment by section 1401(e)(3) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
@@ -320,7 +320,7 @@ Requirement.—The Secretary of Defense shall carry out a pilot project to evalu
 
 Internet-based diagnosis and treatment.—The pilot project shall be designed to evaluate—
 
-&emsp;&emsp;“(A) Internet-based automated tools available to military and civilian health care providers for the early diagnosis and treatment of post traumatic stress disorder, and for tracking patients who suffer from post traumatic stress disorder; and
+&emsp;&emsp;“(A) Internet-based automated tools available to military and civilian health care providers for theearly diagnosis and treatment of post traumatic stress disorder, and for tracking patients who suffer from post traumatic stress disorder; and
 
 &emsp;&emsp;“(B) Internet-based tools available to family members of members of the Armed Forces in order to assist such family members in the identification of the emergence of post traumatic stress disorder.
 

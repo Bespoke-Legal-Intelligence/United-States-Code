@@ -8,7 +8,7 @@
 
 (b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
-(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month inwhich certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
+(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
 
 (d) The Secretary may approve the pursuit of flight training (in addition to a course of flight training that may be approved under section 3680A(b) of this title) by an individual entitled to basic educational assistance under this chapter if—
 
@@ -26,7 +26,7 @@
 
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L.99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided t
 
 #### Effective Date of 1994 Amendment
 
-Section 601(d) of Pub. L. 103–446 provided that: “The amendments made by this section \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994.”
+Pub. L. 103–446, title VI, §601(d), Nov. 2, 1994, 108 Stat. 4671, provided that: “The amendments made by this section \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994.”
 
 #### Effective Date of 1989 Amendment
 
@@ -108,7 +108,7 @@ Amendment by section 422(a)(1) of Pub. L. 101–237 effective Sept. 30, 1990, se
 
 #### Effective Date of 1988 Amendment
 
-Section 106(d) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1641 and 1733 \[now 3241 and 3533\] of this title\] shall take effect on August 15, 1989.”
+Pub. L. 100–689, title I, §106(d), Nov. 18, 1988, 102 Stat. 4167, provided that: “The amendments made by thissection \[amending this section and sections 1641 and 1733 \[now 3241 and 3533\] of this title\] shall take effect on August 15, 1989.”
 
 #### Savings Provision
 
@@ -120,11 +120,11 @@ Pub. L. 101–366, title II, §206(b), Aug. 15, 1990, 104 Stat. 442, provided th
 
 #### Continued Use of Categories of Information Used Prior to December 18, 1989
 
-Section 413(b) of Pub. L. 101–237 provided that: “Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if the Secretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations.”
+Pub. L. 101–237, title IV, §413(b), Dec. 18, 1989, 103 Stat. 2085, provided that: “Through July 1, 1990, no provision of law shall preclude the Department of Veterans Affairs, in making determinations of the active-duty or Selected Reserve status, or the character of service, of individuals receiving benefits under chapter 30 or 32 of title 38, United States Code, or chapter 106 of title 10, United States Code, from continuing to use any category of information provided by the Department of Defense or Department of Transportation that the Department of Veterans Affairs was using prior to the date of the enactment of this Act \[Dec. 18, 1989\], if the Secretary of Veterans Affairs determines that the information has proven to be sufficiently reliable in making such determinations.”
 
 #### Evaluation of Providing Assistance for Flight Training
 
-Section 422(c) of Pub. L. 101–237 provided that:
+Pub. L. 101–237, title IV, §422(c), Dec. 18, 1989, 103 Stat. 2090, provided that:
 
 “(1)(A) The Secretary of Veterans Affairs shall conduct an evaluation of paying educational assistance for flight training under chapter 30 of title 38, United States Code, and chapter 106 of title 10, United States Code.
 

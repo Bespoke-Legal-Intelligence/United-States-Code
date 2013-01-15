@@ -142,7 +142,7 @@ Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item
 
 #### Maximum Interest Rates for Mortgage Insurance Program
 
-Consultation of Secretary of Housing and Urban Development with Administrator of Veterans’ Affairs regarding interest rate considered necessary to meet mortgage market for guaranteed or insured home loans to veterans under this chapter, in determining rate for mortgage insurance program under section 1709(b)(5) of Title 12, see section 1709–1 of Title 12, Banks and Banking.
+Consultation of Secretary of Housing and Urban Development with Administrator of Veterans’ Affairs regarding interest rate considered necessary to meet mortgage market for guaranteed or insured home loansto veterans under this chapter, in determining rate for mortgage insurance program under section 1709(b)(5) of Title 12, see section 1709–1 of Title 12, Banks and Banking.
 
 #### State Constitutional and Legal Limits Upon Interest Chargeable on Loan or Mortgage
 

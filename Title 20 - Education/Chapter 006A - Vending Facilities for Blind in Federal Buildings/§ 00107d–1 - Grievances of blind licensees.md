@@ -2,7 +2,7 @@
 
 #### (a) Hearing and arbitration
 
-Any blind licensee who is dissatisfied with any action arising from the operation or administration of the vending facility program may submit to a State licensing agency a request for a full evidentiary hearing, which shall be provided by such agency in accordance with section 107b(6) of this title. If such blind licensee is dissatisfied with any action taken or decision rendered as a result of such hearing, he may file a complaint with the Secretary who shall convene a panel to arbitrate the dispute pursuant to section 107d–2 of this title, and the decision of such panel shall be final and binding on the parties except as otherwise provided in this chapter.
+Any blind licensee who is dissatisfied with any action arising from the operation or administration of the vending facility program may submitto a State licensing agency a request for a full evidentiary hearing, which shall be provided by such agency in accordance with section 107b(6) of this title. If such blind licensee is dissatisfied with any action taken or decision rendered as a result of such hearing, he may file a complaint with the Secretary who shall convene a panel to arbitrate the dispute pursuant to section 107d–2 of this title, and the decision of such panel shall be final and binding on the parties except as otherwise provided in this chapter.
 
 #### (b) Noncompliance by Federal departments and agencies; complaints by State licensing agencies; arbitration
 
@@ -12,7 +12,7 @@ Whenever any State licensing agency determines that any department, agency, or i
 
 #### Codification
 
-The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, wereoriginally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
+The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
 Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–11, in exactly the same manner as it was enacted by Pub. L. 93–516.
 

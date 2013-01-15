@@ -10,7 +10,7 @@ Whoever with intent to defraud the United States or any agency thereof, or any f
 
 Shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank or trust company, which has become a member of one of the Federal Reserve banks; “insured bank” includes any state bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given suchterm in section 3(w)(1) of the Federal Deposit Insurance Act.
+As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank or trust company, which has become a member of one of the Federal Reserve banks; “insured bank” includes any state bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act.
 
 (June 25, 1948, ch. 645, 62 Stat. 750; Pub. L. 101–73, title IX, §961(d), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(d), 2595(a)(3), 2597(h), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 107–273, div. B, title IV, §4003(a)(2), Nov. 2, 2002, 116 Stat. 1811.)
 
@@ -18,7 +18,7 @@ As used in this section, the term “national bank” is synonymous with “nati
 
 Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. §5209; Dec. 23, 1913, ch. 6, §22(i) as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, §7, 40 Stat. 972; Aug. 23, 1935, ch. 614, §316, 49 Stat. 712).
 
-(See reviser's note under section 656 of this title for comprehensive statement of reasons for separating section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, into three revised sections, and section 597 thereof into two revised sections, with the consequent extensive changes in phraseology, style, and arrangement.)
+(See reviser's note under section 656 of this title for comprehensive statement of reasons for separating section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, into three revised sections, and section 597 thereof intotwo revised sections, with the consequent extensive changes in phraseology, style, and arrangement.)
 
 In this section, national bank receivers and Federal reserve agents were not included in the initial enumeration of persons at whom the act is directed, since the provisions of this section, unlike section 656 of this title, are not directed at such receivers and agents.
 

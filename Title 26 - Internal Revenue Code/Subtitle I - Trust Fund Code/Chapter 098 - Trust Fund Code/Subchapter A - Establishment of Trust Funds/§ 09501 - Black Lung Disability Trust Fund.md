@@ -82,7 +82,7 @@ The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is 
 
 The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
 
-The enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L.97–119, which enacted this section and which was approved Dec. 29, 1981.
+The enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 97–119, which enacted this section and which was approved Dec. 29, 1981.
 
 #### Amendments
 
@@ -94,11 +94,11 @@ Amendment by Pub. L. 97–248 effective Sept. 1, 1982, see section 281(d) of Pub
 
 #### Effective Date
 
-Section 103(d)(1) of Pub. L. 97–119, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section and sections 9500, 9601, and 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall take effect on January 1, 1982. Section 9501(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall only apply to advances made after December 31, 1981.”
+Pub. L. 97–119, title I, §103(d)(1), Dec. 29, 1981, 95 Stat. 1639, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section and sections 9500, 9601, and 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall take effect on January 1, 1982. Section 9501(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall only apply to advances made after December 31, 1981.”
 
 #### Savings Provision
 
-Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section \[enacting this section and sections 9500, 9601, 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 \[former section 934a of Title 30\]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
+Pub. L. 97–119, title I, §103(d)(2), Dec. 29, 1981, 95 Stat. 1639, provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section \[enacting this section and sections 9500, 9601, 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 \[former section 934a of Title 30\]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
 
 #### Restructuring of Trust Fund Debt
 
@@ -162,7 +162,7 @@ Prepayment of trust fund obligations.—The Trust Fund is authorized to repay an
 
 #### Funds to Remain Available
 
-Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remainavailable until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
 

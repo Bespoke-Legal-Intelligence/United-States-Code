@@ -18,7 +18,7 @@ Pub. L. 106–532, §1, Nov. 22, 2000, 114 Stat. 2541, provided that: “This Ac
 
 #### Short Title
 
-Section 201 of title II of act Aug. 14, 1946, provided that: “This title \[enacting this chapter\] may be cited as the ‘Agricultural Marketing Act of 1946’.”
+Act Aug. 14, 1946, ch. 966, title II, §201, 60 Stat. 1087, provided that: “This title \[enacting this chapter\] may be cited as the ‘Agricultural Marketing Act of 1946’.”
 
 #### Transfer of Functions
 

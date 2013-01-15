@@ -52,7 +52,7 @@ Submission and Contents.—Not later than August 15, 1997, and every 2 years the
 
 Submission of One Report.—The Secretary may submit one report to carry out subsection (a) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1326; Pub. L. 104–66, title I, §1121(<i>l</i>), Dec. 21, 1995, 109 Stat. 724; Pub. L. 104–304, §15(a), Oct. 12, 1996, 110 Stat. 3803.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1326; Pub. L. 104–66, title I, §1121(l), Dec. 21, 1995, 109 Stat. 724; Pub. L. 104–304, §15(a), Oct. 12, 1996, 110 Stat. 3803.)
 
 Historical and Revision Notes
 

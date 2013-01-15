@@ -20,7 +20,7 @@ Regulations.—The Director shall prescribe regulations—
 
 &emsp;(8) providing for the filing by the patent owner of a response to the petition under section 323 after a post-grant review has been instituted, and requiring that the patent owner file with such response, through affidavits or declarations, any additional factual evidence and expert opinions on which the patent owner relies in support of the response;
 
-&emsp;(9) setting forth standards and procedures for allowing the patent owner to move to amend the patent under subsection (d) to cancel a challenged claim or propose a reasonable number of substitute claims, and ensuringthat any information submitted by the patent owner in support of any amendment entered under subsection (d) is made available to the public as part of the prosecution history of the patent;
+&emsp;(9) setting forth standards and procedures for allowing the patent owner to move to amend the patent under subsection (d) to cancel a challenged claim or propose a reasonable number of substitute claims, and ensuring that any information submitted by the patent owner in support of any amendment entered under subsection (d) is made available to the public as part of the prosecution history of the patent;
 
 &emsp;(10) providing either party with the right to an oral hearing as part of the proceeding;
 
@@ -42,7 +42,7 @@ Amendment of the Patent.—
 
 &emsp;(1)
 
-In general.—During a post-grant review instituted under this chapter, the patent owner may file 1 motion to amend the patent in 1 or more of the following ways:
+In general.—During a post-grant review instituted under this chapter, the patentowner may file 1 motion to amend the patent in 1 or more of the following ways:
 
 &emsp;&emsp;(A) Cancel any challenged patent claim.
 

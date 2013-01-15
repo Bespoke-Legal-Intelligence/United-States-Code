@@ -58,7 +58,7 @@
 
 #### (3) Review
 
-&emsp;Upon the termination of a performance agreement entered into under paragraph (1), the Secretary shall review the performance of the recipient that is a party to the agreement.
+&emsp;Upon the termination of a performance agreement entered into under paragraph (1),the Secretary shall review the performance of the recipient that is a party to the agreement.
 
 #### (4) Effect of review
 
@@ -76,7 +76,7 @@
 
 #### (2) Civil action
 
-&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistancefurnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
+&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 
 #### (d) Review
 

@@ -22,7 +22,7 @@ The tax imposed by section 4371 shall not apply to—
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(q)(13)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to premiums paid after the date 30 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(q)(13)(B), Nov. 10, 1988, 102 Stat. 3525, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to premiums paid after the date 30 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

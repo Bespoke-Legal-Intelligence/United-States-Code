@@ -46,7 +46,7 @@ For the purposes of this section:
 
 &emsp;The term “protected speech” means speech that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
-(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
+(Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591;amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
 
 #### Prior Provisions
 

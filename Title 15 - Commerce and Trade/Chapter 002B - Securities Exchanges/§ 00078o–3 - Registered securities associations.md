@@ -22,7 +22,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;(7) The rules of the association provide that (subject to any rule or order of the Commission pursuant to section 78q(d) or 78s(g)(2) of this title) its members and persons associated with its members shall be appropriately disciplined for violation of any provision of this chapter, the rules or regulations thereunder, the rules of the Municipal Securities Rulemaking Board, or the rules of the association, by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, being suspended or barred from being associated with a member, or any other fitting sanction.
 
-&emsp;(8) The rules of the association are in accordance with the provisions of subsection (h)of this section, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
+&emsp;(8) The rules of the association are in accordance with the provisions of subsection (h) of this section, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
 
 &emsp;(9) The rules of the association do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
 
@@ -90,7 +90,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 &emsp;&emsp;(A) request guidance from the Municipal Securities Rulemaking Board in interpretation of the rules of the Municipal Securities Rulemaking Board; and
 
-&emsp;&emsp;(B) provide information to the Municipal Securities Rulemaking Board about the enforcement actions and examinations of the association under section 78<i>o</i>–4(b)(2)(E) of this title, so that the Municipal Securities Rulemaking Board may—
+&emsp;&emsp;(B) provide information to the Municipal Securities Rulemaking Board about the enforcement actions and examinations of the association under section 78o–4(b)(2)(E) of this title, so that the Municipal Securities Rulemaking Board may—
 
 &emsp;&emsp;&emsp;(i) assist in such enforcement actions and examinations; and
 
@@ -114,7 +114,7 @@ An applicant association shall not be registered as an affiliated securities ass
 
 (2) For the purposes of this subsection, the term “nonmember professional” shall include (A) with respect to transactions in securities other than municipal securities, any registered broker or dealer who is not a member of any registered securities association, except such a broker or dealer who deals exclusively in commercial paper, bankers’ acceptances, and commercial bills, and (B) with respect to transactions in municipal securities, any municipal securities dealer (other than a bank or division or department of a bank) who is not a member of any registered securities association and any municipal securities broker who is not a member of any such association.
 
-(3) Nothing in this subsection shall be so construed or applied as to prevent (A) any member of a registered securities association from granting to any other member of any registered securities association any dealer's discount, allowance, commission, or special terms, in connection with the purchase or sale of securities, or (B) any member of a registered securities association or any municipal securities dealer which is a bank or a division or department of a bank from granting to any member of any registered securities association or any such municipal securities dealer any dealer's discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities: <i>Provided, however</i>, That the granting of any such discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities shall be subject to rules of the Municipal Securities Rulemaking Board adopted pursuant to section 78<i>o</i>–4(b)(2)(K) of this title.
+(3) Nothing in this subsection shall be so construed or applied as to prevent (A) any member of a registered securities association from granting to any other member of any registered securities association any dealer's discount, allowance, commission, or special terms, in connection with the purchase or sale of securities, or (B) any member of a registered securities association or any municipal securities dealer which is a bank or a division or department of a bank from granting to any member of any registered securities association or any such municipal securities dealer any dealer's discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities: <i>Provided, however</i>, That the granting of any such discount, allowance, commission, or special terms in connection with the purchase or sale of municipal securities shall be subject to rules of the Municipal Securities Rulemaking Board adopted pursuant to section 78o–4(b)(2)(K) of this title.
 
 #### (f) Transactions in municipal securities
 
@@ -128,7 +128,7 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 (3)(A) A registered securities association may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the association.
 
-(B) A registered securities association may bar a natural person from becoming associated with a member or condition the association of a natural person with a member if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) has engaged and there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the association and require a natural person associated with a member, or any class of such natural persons, to be registered with the association in accordance with procedures so established.
+(B) A registered securities association may bar a natural person from becoming associated with a member or condition the association of a natural person with a member if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) has engagedand there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the association and require a natural person associated with a member, or any class of such natural persons, to be registered with the association in accordance with procedures so established.
 
 (C) A registered securities association may bar any person from becoming associated with a member if such person does not agree (i) to supply the association with such information with respect to its relationship and dealings with the member as may be specified in the rules of the association and (ii) to permit examination of its books and records to verify the accuracy of any information so supplied.
 
@@ -184,13 +184,13 @@ Nothing in subsection (b)(6) or (b)(11) of this section shall be construed to pe
 
 #### (j) Registration for sales of private securities offerings
 
-A registered securities association shall create a limited qualification category for any associated person of a member who effects sales as part of a primary offering of securities not involving a public offering, pursuant to section 77c(b), 77d(2), or 77d(6) of this title and the rules and regulations thereunder, and shall deem qualified in such limited qualification category, without testing, any bank employee who, in the six month period preceding November 12, 1999, engaged in effecting such sales.
+A registered securities association shall create a limited qualification category for any associated person of a member who effects sales as part of a primary offering of securities not involving a public offering, pursuant to section 77c(b), 77d(2),<sup>1</sup> or 77d(6) <sup>1</sup> of this title and the rules and regulations thereunder, and shall deem qualified in such limited qualification category, without testing, any bank employee who, in the six month period preceding November 12, 1999, engaged in effecting such sales.
 
 #### (k) Limited purpose national securities association
 
 #### (1) Regulation of members with respect to security futures products
 
-&emsp;A futures association registered under section 21 of title 7 shall be a registered national securities association for the limited purpose of regulating the activities of members who are registered as brokers or dealers in security futures products pursuant to section 78<i>o</i>(b)(11) of this title.
+&emsp;A futures association registered under section 21 of title 7 shall be a registered national securities association for the limited purpose of regulating the activities of members who are registered as brokers or dealers in security futures products pursuant to section 78o(b)(11) of this title.
 
 #### (2) Requirements for registration
 
@@ -230,11 +230,11 @@ A registered securities association shall create a limited qualification categor
 
 &emsp;&emsp;(D) Subsections (a), (f), and (h) of section 78s of this title.
 
-#### (<i>l</i>) Rules to avoid duplicative regulation of dual registrants
+#### (l) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, each national securities association registered pursuant to subsection (a) of this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any broker or dealer registered with the Commission pursuant to section 78<i>o</i>(b) of this title (except paragraph (11) thereof), that is also registered with the Commodity Futures Trading Commission pursuant to section 6f(a) of title 7 (except paragraph (2) thereof), with respect to the application of—
+Consistent with this chapter, each national securities association registered pursuant to subsection (a) of this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any broker or dealer registered with the Commission pursuant to section 78o(b) of this title (except paragraph (11) thereof), that is also registered with the Commodity Futures Trading Commission pursuant to section 6f(a) of title 7 (except paragraph (2) thereof), with respect to the application of—
 
-&emsp;(1) rules of such national securities association of the type specified in section 78<i>o</i>(c)(3)(B) of this title involving security futures products; and
+&emsp;(1) rules of such national securities association of the type specified in section 78o(c)(3)(B) of this title involving security futures products; and
 
 &emsp;(2) similar rules of national securities associations registered pursuant to subsection (k) of this section and national securities exchanges registered pursuant to section 78f(g) of this title involving security futures products.
 
@@ -242,13 +242,15 @@ Consistent with this chapter, each national securities association registered pu
 
 A national securities association registered pursuant to subsection (a) of this section shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
 
-(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6,Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
+(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(c), 206(j), (k)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (6), (7), (9), (h)(1)(B), (k)(2)(B)(ii), (4), and (<i>l</i>), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b)(2), (6), (7), (9), (h)(1)(B), (k)(2)(B)(ii), (4), and (l), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 Paragraph (12), of subsection (b) of this section, referred to in subsec. (d)(2), was omitted in the general amendment of subsec. (b) by Pub. L. 94–29, see par. (11) of subsec. (b). A new par. (12) was added by Pub. L. 103–302, §303(a).
+
+Sections 77d(2) and 77d(6) of this title, referred to in subsec. (j), were redesignated sections 77d(a)(2) and 77d(a)(6), respectively, of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 Subsection (k) of section 78q of this title, referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by Pub. L. 111–203, title VI, §617(a)(2), July 21, 2010, 124 Stat. 1616.
 
@@ -262,7 +264,7 @@ Subsec. (i). Pub. L. 109–290, §6, inserted heading and amended text of subsec
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–554, §1(a)(5) \[title II, §203(c)\], added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(5) \[title II, §206(j)\], added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 106–554, §1(a)(5) \[title II, §206(j)\], added subsec. (l).
 
 Subsec. (m). Pub. L. 106–554, §1(a)(5) \[title II, §206(k)(1)\], added subsec. (m).
 
@@ -280,7 +282,7 @@ Subsec. (f). Pub. L. 103–202, §106(b)(1)(A), redesignated par. (3) as entire 
 
 Subsec. (g)(3)(D). Pub. L. 103–202, §106(b)(1)(B)(i), substituted “transactions in municipal securities” for “transactions in exempted securities”.
 
-Subsec. (g)(4), (5). Pub. L. 103–202, §106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78<i>o</i>–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78<i>o</i>–5(c) of this title.
+Subsec. (g)(4), (5). Pub. L. 103–202, §106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78o–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78o–5(c) of this title.
 
 <b>1990</b>—Subsec. (i). Pub. L. 101–429 added subsec. (i).
 
@@ -304,7 +306,7 @@ Subsec. (h). Pub. L. 94–29, §12(3), (4), added subsec. (h). Former subsec. (h
 
 Subsec. (i). Pub. L. 94–29, §12(3), redesignated subsec. (i) as (e) and amended subsec. (e) as so redesignated.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 94–29, §12(3), struck out subsecs. (j) to (<i>l</i>) which covered the filing of changes or additions to association rules and current information, the abrogation and alteration of association rules and supplements to association rules, the suspension of an association or its members, the revocation of registration, the expulsion of members, and the removal of officers or directors. See section 78s of this title.
+Subsecs. (j) to (l). Pub. L. 94–29, §12(3), struck out subsecs. (j) to (l) which covered the filing of changes or additions to association rules and current information, the abrogation and alteration of association rules and supplements to association rules, the suspension of an association or its members, the revocation of registration, the expulsion of members, and the removal of officers or directors. See section 78s of this title.
 
 Subsec. (m). Pub. L. 94–29, §12(3), redesignated subsec. (m) as (f).
 
@@ -338,11 +340,11 @@ Subsec. (h). Pub. L. 88–467, §7(d), made the procedures and the Commission's 
 
 Subsec. (k)(2). Pub. L. 88–467, §7(e), inserted “, or with such modifications of such alteration or supplement as it deems necessary” after “in the manner theretofore requested”, redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) “or the barring from being associated with a member” and “or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof”.
 
-Subsec. (<i>l</i>). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
+Subsec. (l). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78<i>o</i> of this title.
+Amendment by Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78o of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -358,7 +360,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -370,7 +372,7 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 #### Construction of 1993 Amendment
 
-Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78<i>o</i>–5 of this title.
+Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
 Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 

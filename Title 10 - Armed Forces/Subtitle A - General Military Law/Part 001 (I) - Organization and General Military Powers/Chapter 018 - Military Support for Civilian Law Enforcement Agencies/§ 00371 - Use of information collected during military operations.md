@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may, in accordance with other applicable law, provide to Federal, State, or local civilian law enforcement officials any information collected during the normal course of military training or operations that may be relevant to a violation of any Federal or State law within the jurisdiction of such officials.
 
-(b) The needs of civilian law enforcement officials for information shall, to the maximum extent practicable, be taken into account in the planning and execution of military training or operations.
+(b) The needs of civilian law enforcement officials for information shall, to the maximum extent practicable, be taken into account in theplanning and execution of military training or operations.
 
 (c) The Secretary of Defense shall ensure, to the extent consistent with national security, that intelligence information held by the Department of Defense and relevant to drug interdiction or other civilian law enforcement matters is provided promptly to appropriate civilian law enforcement officials.
 
@@ -18,7 +18,7 @@ Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provide
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907, provided that:
 
 “(a)
 
@@ -26,7 +26,7 @@ Authority.—A joint task force of the Department of Defense that provides suppo
 
 “(b)
 
-Availability of Funds.—During fiscal years 2006 through 2012, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+Availability of Funds.—During fiscal years 2006 through 2013, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
 “(c)
 

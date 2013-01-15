@@ -112,7 +112,7 @@ A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amorti
 
 Subsec. (d)(3). Pub. L. 109–58, §1309(d), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (d)(4)(B). Pub. L. 109–58, §1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969,the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
+Subsec. (d)(4)(B). Pub. L. 109–58, §1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
 
 Subsec. (d)(5). Pub. L. 109–58, §1309(a), added par. (5).
 
@@ -136,11 +136,11 @@ Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided 
 
 #### Effective Date of 1976 Amendment
 
-Section 2112(d)(2) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976.”
+Pub. L. 94–455, title XXI, §2112(d)(2), Oct. 4, 1976, 90 Stat. 1907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976.”
 
 #### Effective Date
 
-Section 704(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section and amending sections 642, 1082, 1245, and 1250 of this title\] shall apply with respect to taxable years ending after December 31, 1968.”
+Pub. L. 91–172, title VII, §704(c), Dec. 30, 1969, 83 Stat. 670, provided that: “The amendments made by this section \[enacting this section and amending sections 642, 1082, 1245, and 1250 of this title\] shall apply with respect to taxable years ending after December 31, 1968.”
 
 #### Transfer of Functions
 

@@ -104,7 +104,7 @@ The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–411, §102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–411, §102(1)(A), added subpar. (A) and struck out former subpar. (A)which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
 
 Subsec. (a)(1)(B). Pub. L. 110–411, §102(1)(B), substituted “subsection (c)” for “subsection (d)”.
 
@@ -128,7 +128,7 @@ Separate requirements.—The Secretary may—
 
 “(2)
 
-Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity orowned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
+Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
 

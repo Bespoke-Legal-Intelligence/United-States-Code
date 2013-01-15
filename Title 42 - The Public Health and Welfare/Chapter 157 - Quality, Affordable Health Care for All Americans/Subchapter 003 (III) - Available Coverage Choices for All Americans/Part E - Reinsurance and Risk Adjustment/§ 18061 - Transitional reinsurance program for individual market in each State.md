@@ -12,7 +12,7 @@ Each State shall, not later than January 1, 2014—
 
 #### (1) In general
 
-&emsp;In establishing the Federal standards under section 18041(a) of this title, the Secretary, in consultation with the National Association of Insurance Commissioners (the “NAIC”), shall include provisions that enable States to establish and maintain a program under which—
+&emsp;In establishing the Federal standards under section 18041(a) of this title, the Secretary, in consultation with the National Association of Insurance Commissioners (the “NAIC”), shallinclude provisions that enable States to establish and maintain a program under which—
 
 &emsp;&emsp;(A) health insurance issuers, and third party administrators on behalf of group health plans, are required to make payments to an applicable reinsurance entity for any plan year beginning in the 3-year period beginning January 1, 2014 (as specified in paragraph (3); <sup>1</sup> and
 

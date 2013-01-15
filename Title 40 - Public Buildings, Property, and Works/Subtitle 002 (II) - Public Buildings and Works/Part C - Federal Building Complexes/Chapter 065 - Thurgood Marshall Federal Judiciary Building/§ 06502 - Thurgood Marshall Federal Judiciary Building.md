@@ -48,7 +48,7 @@ Chilled Water and Steam From Capitol Power Plant.—If the Building is connected
 
 (f)
 
-Construction Standards.—The Building and other improvements constructed under thischapter shall meet all standards applicable to construction of a federal building.
+Construction Standards.—The Building and other improvements constructed under this chapter shall meet all standards applicable to construction of a federal building.
 
 (g)
 

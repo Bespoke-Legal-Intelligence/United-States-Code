@@ -80,7 +80,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 #### (2) Through other permits
 
-&emsp;In the case of a treatment works described in paragraph (1) that is not subject to section1342 of this title and to which none of the other above listed permit programs nor approved State permit authority apply, the Administrator may issue a permit to such treatment works solely to impose requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section. The Administrator shall include in the permit appropriate requirements to assure compliance with the regulations established pursuant to subsection (d) of this section. The Administrator shall establish procedures for issuing permits pursuant to this paragraph.
+&emsp;In the case of a treatment works described in paragraph (1) that is not subject to section 1342 of this title and to which none of the other above listed permit programs nor approved State permit authority apply, the Administrator may issue a permit to such treatment works solely to impose requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section. The Administrator shall include in the permit appropriate requirements to assure compliance with the regulations established pursuant to subsection (d) of this section. The Administrator shall establish procedures for issuing permits pursuant to this paragraph.
 
 #### (g) Studies and projects
 
@@ -124,7 +124,7 @@ Subsecs. (d), (e). Pub. L. 95–217, §54(d)(3), added subsecs. (d) and (e).
 
 #### Removal Credits
 
-Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
+Pub. L. 100–4, title IV, §406(e), Feb. 4, 1987, 101 Stat. 73, provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
 
 &emsp;“(1) those publicly owned treatment works the owner or operator of which received authority to revise pretreatment requirements under section 307(b)(1) of such Act \[33 U.S.C. 1317(b)(1)\] before the date of the enactment of this section \[Feb. 4, 1987\], and
 

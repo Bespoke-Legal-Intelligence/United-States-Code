@@ -118,3 +118,31 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Pub. L. 106–181, title V, §501(b), Apr. 5, 2000, 114 Stat. 132, provided that: “The Secretary \[of Transportation\] shall issue regulations to carry out section 44712(c) of title 49, United States Code, as amended by this section, not later than January 1, 2001.”
 
+#### Emergency Locator Transmitters on General Aviation Aircraft
+
+Pub. L. 112–95, title III, §347, Feb. 14, 2012, 126 Stat. 82, provided that:
+
+“(a)
+
+Inspection.—As part of the annual inspection of general aviation aircraft, the Administrator of the Federal Aviation Administration shall require a detailed inspection of each emergency locator transmitter (in this section referred to as an ‘ELT’) installed in general aviation aircraft operating in the United States to ensure that the ELT is mounted and retained in accordance with the manufacturer's specifications.
+
+“(b)
+
+Mounting and Retention.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall determine if the ELT mounting requirements and retention tests specified by Technical Standard Orders C91a and C126 are adequate to assess retention capabilities in ELT designs.
+
+&emsp;“(2)
+
+Revision.—Based on the determination under paragraph (1), the Administrator shall make any necessary revisions to the requirements and retention tests referred to in paragraph (1) to ensure that ELTs are properly retained in the event of an aircraft accident.
+
+“(c)
+
+Report.—Upon the completion of any revisions under subsection (b)(2), the Administrator shall submit a report on the implementation of this section to—
+
+&emsp;“(1) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;“(2) the Committee on Transportation and Infrastructure of the House of Representatives.”
+

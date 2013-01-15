@@ -18,13 +18,17 @@
 
 (c) Investigations of violations under this section involving liquor shall be conducted under the supervision of the Attorney General.
 
-(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277.)
+(d) If the offense under this section involves an act described in paragraph (1) or (3) of subsection (a) and also involves a pre-retail medical product (as defined in section 670), the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under subsection (a) is greater.
+
+(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 112–186, §4(b)(1), Oct. 5, 2012, 126 Stat. 1429.)
 
 #### References in Text
 
 Section 102(6) of the Controlled Substances Act, referred to in subsec. (b)(i)(1), is classified to section 802(6) of Title 21, Food and Drugs.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–186 added subsec. (d).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary shall establish an index limited to—
 
-&emsp;(A) new animal drugs intended for use in a minor species for which there is a reasonable certainty that the animal or edible products from the animal will not be consumed by humans or food-producing animals; and
+&emsp;(A) new animal drugs intended for use in a minor species for which there is a reasonable certainty that the animal or edible productsfrom the animal will not be consumed by humans or food-producing animals; and
 
 &emsp;(B) new animal drugs intended for use only in a hatchery, tank, pond, or other similar contained man-made structure in an early, non-food life stage of a food-producing minor species, where safety for humans is demonstrated in accordance with the standard of section 360b(d) of this title (including, for an antimicrobial new animal drug, with respect to antimicrobial resistance).
 
@@ -140,7 +140,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 #### (g) Regulations concerning exemptions for investigational use
 
-For purposes of indexing new animal drugs under this section, to the extent consistent withthe public health, the Secretary shall promulgate regulations for exempting from the operation of section 360b of this title minor species new animal drugs and animal feeds bearing or containing new animal drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of minor species animal drugs. Such regulations may, at the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable the Secretary to evaluate the safety and effectiveness of such article in the event of the filing of a request for an index listing pursuant to this section.
+For purposes of indexing new animal drugs under this section, to the extent consistent with the public health, the Secretary shall promulgate regulations for exempting from the operation of section 360b of this title minor species new animal drugs and animal feeds bearing or containing new animal drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of minor species animal drugs. Such regulations may, at the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable the Secretary to evaluate the safety and effectiveness of such article in the event of the filing of a request for an index listing pursuant to this section.
 
 #### (h) Labeling contents
 

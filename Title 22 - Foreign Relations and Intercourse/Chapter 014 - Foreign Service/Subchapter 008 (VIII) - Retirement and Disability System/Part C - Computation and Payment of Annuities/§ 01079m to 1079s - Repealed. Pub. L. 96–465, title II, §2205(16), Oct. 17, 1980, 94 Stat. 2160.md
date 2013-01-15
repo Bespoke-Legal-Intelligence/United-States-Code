@@ -4,7 +4,7 @@ Section 1079m, Pub. L. 89–308, §2, Oct. 31, 1965, 79 Stat. 1129, related to a
 
 Section 1079n, Pub. L. 89–308, §3, Oct. 31, 1965, 79 Stat. 1130, related to benefit of surviving widow of annuitant whose service terminated before Oct. 16, 1960, and who has elected deferred annuity and dies before becoming eligible.
 
-Section 1079<i>o</i>, Pub. L. 89–308, §4, Oct. 31, 1965, 79 Stat. 1130, related to benefit of surviving widow of annuitant who retired before Oct. 16, 1960, and who died before Oct. 31, 1965.
+Section 1079o, Pub. L. 89–308, §4, Oct. 31, 1965, 79 Stat. 1130, related to benefit of surviving widow of annuitant who retired before Oct. 16, 1960, and who died before Oct. 31, 1965.
 
 Section 1079p, Pub. L. 89–308, §5, Oct. 31, 1965, 79 Stat. 1131, related to increase in annuity for widows receiving less than $2,400.
 

@@ -60,7 +60,7 @@ A State shall include in the State plan amendment—
 
 #### (g) Report on quality measures
 
-As a condition for receiving payment for health home services provided to an eligible individual with chronic conditions, a designatedprovider shall report to the State, in accordance with such requirements as the Secretary shall specify, on all applicable measures for determining the quality of such services. When appropriate and feasible, a designated provider shall use health information technology in providing the State with such information.
+As a condition for receiving payment for health home services provided to an eligible individual with chronic conditions, a designated provider shall report to the State, in accordance with such requirements as the Secretary shall specify, on all applicable measures for determining the quality of such services. When appropriate and feasible, a designated provider shall use health information technology in providing the State with such information.
 
 #### (h) Definitions
 

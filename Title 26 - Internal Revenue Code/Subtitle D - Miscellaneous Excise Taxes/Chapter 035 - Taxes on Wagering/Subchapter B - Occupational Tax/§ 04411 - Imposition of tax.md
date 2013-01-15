@@ -14,6 +14,10 @@ Subsection (a) shall be applied by substituting “$50” for “$500” in the 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 527; Pub. L. 93–499, §3(b), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 97–362, title I, §109(b), Oct. 25, 1982, 96 Stat. 1731.)
 
+#### Constitutionality
+
+For information regarding constitutionality of section 4411 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–362 designated existing provisions as subsec. (a), in subsec. (a), as so designated, substituted “liable for the tax imposed” for “liable for tax”, and added subsec. (b).
@@ -22,7 +26,7 @@ Subsection (a) shall be applied by substituting “$50” for “$500” in the 
 
 #### Effective Date of 1982 Amendment
 
-Section 109(c)(2) of Pub. L. 97–362 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on July 1, 1983.”
+Pub. L. 97–362, title I, §109(c)(2), Oct. 25, 1982, 96 Stat. 1731, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on July 1, 1983.”
 
 #### Effective Date of 1974 Amendment
 
@@ -30,7 +34,7 @@ Amendment by Pub. L. 93–499 effective Dec. 1, 1974, and applicable only with r
 
 #### Persons Engaged in Activities on December 1, 1974, Requiring Payment of Tax; Persons Paying Tax and Registering Before December 1, 1974
 
-Section 3(d)(2) of Pub. L. 93–499, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 93–499, §3(d)(2), Oct. 29, 1974, 88 Stat. 1551, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) Any person who, on December 1, 1974, is engaged in an activity which makes him liable for payment of the tax imposed by section 4411 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on such date) shall be treated as commencing such activity on such date for purposes of such section and section 4901 of such Code.
 

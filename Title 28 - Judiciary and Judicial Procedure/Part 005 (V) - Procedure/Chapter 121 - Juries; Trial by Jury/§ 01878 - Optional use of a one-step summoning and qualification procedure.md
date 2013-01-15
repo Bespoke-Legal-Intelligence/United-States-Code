@@ -20,5 +20,5 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Savings Provision
 
-Section 403(c) of Pub. L. 102–572 provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1992.”
+Pub. L. 102–572, title IV, §403(c), Oct. 29, 1972, 106 Stat. 4512, provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1992.”
 

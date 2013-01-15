@@ -26,7 +26,7 @@ Any person may make voluntary payments or in-kind contributions to a council for
 
 #### (e) Deposit of funds
 
-All funds collected or received by a council under this section shall be deposited by the council in an appropriate account in the name ofthe council specified in its charter. Funds eligible to be collected or received by a council shall be limited to those authorized under this section.
+All funds collected or received by a council under this section shall be deposited by the council in an appropriate account in the name of the council specified in its charter. Funds eligible to be collected or received by a council shall be limited to those authorized under this section.
 
 #### (f) Information
 
@@ -36,7 +36,7 @@ All funds collected or received by a council under this section shall be deposit
 
 (3) This subsection shall not prohibit—
 
-&emsp;(A) the issuance of general or statistical statements based upon reports of a number of persons subject to the provisions of this chapter which do not identify the information furnished by any person; or
+&emsp;(A) the issuance of general or statistical statements based upon reports of a number ofpersons subject to the provisions of this chapter which do not identify the information furnished by any person; or
 
 &emsp;(B) the publication by direction of the Secretary of the name of any person violating a requirement relating to an assessment imposed under subsection (a) of this section or to quality standards implemented by the Secretary under section 4010(c) of this title, and a statement of the particular provisions of the requirement violated by such person.
 

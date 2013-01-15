@@ -10,7 +10,7 @@ A prior section 1381, act Aug. 14, 1935, ch. 531, title XVI, §1601, as added Ju
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Continuation of Federal Financial Participation in Experimental, Pilot, or Demonstration Projects Approved Before October 1973, for Period On-and-After December 31, 1973, Without Denial or Reduction On Account Of Subchapter XVI Provisions; Waiver of Subchapter XVI Restrictions for Individuals; Federal Payments of Non-Federal Share as Supplementary Payments
 

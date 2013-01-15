@@ -72,7 +72,7 @@ This subchapter, referred to in pars. (4) and (5), was in the original “this t
 
 &emsp;“(3) To carry out geodetic functions under the Act of 1947, $25,000,000 for fiscal year 1999, $30,000,000 for fiscal year 2000, and $30,000,000 for fiscal year 2001.
 
-&emsp;“(4) To carry out tide and current measurement functions under the Act of 1947, $22,500,000 for each of fiscal years 1999 through 2001. Of these amounts $4,500,000 is authorized for each fiscal year to implement and operate a national quality control system for real-time tide and current and maintain the national tide network, and $7,000,000 is authorized for each fiscal year to design and install real-time tide and current data measurement systems under section 892a(b)(4) of this title.”
+&emsp;“(4) To carry out tide and current measurement functions under the Act of 1947, $22,500,000 for each offiscal years 1999 through 2001. Of these amounts $4,500,000 is authorized for each fiscal year to implement and operate a national quality control system for real-time tide and current and maintain the national tide network, and $7,000,000 is authorized for each fiscal year to design and install real-time tide and current data measurement systems under section 892a(b)(4) of this title.”
 
 <b>1998</b>—Pub. L. 105–383 amended section generally, substituting present provisions for substantially identical provisions.
 

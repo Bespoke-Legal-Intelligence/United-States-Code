@@ -1,6 +1,4 @@
 
-35 U.S.C.<br>United States Code, 2011 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 35—PATENTS
 
 <i>This title was enacted by act July 19, 1952, ch. 950, §1, 66 Stat. 792</i>
@@ -11,10 +9,13 @@
 | [<b>II.</b>](Part%20002%20%28II%29%20-%20Patentability%20of%20Inventions%20and%20Grant%20of%20Patents/README.md) | <b>Patentability of Inventions and Grant of Patents</b> | <b>100</b> |
 | [<b>III.</b>](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/README.md) | <b>Patents and Protection of Patent Rights</b> | <b>251</b> |
 | [<b>IV.</b>](Part%20004%20%28IV%29%20-%20Patent%20Cooperation%20Treaty/README.md) | <b>Patent Cooperation Treaty</b> | <b>351</b> |
+| [<b>V.</b>](Part%20005%20%28V%29%20-%20The%20Hague%20Agreement%20Concerning%20International%20Registration%20of%20Industrial%20Designs/README.md) | <b>The Hague Agreement Concerning International Registration of Industrial Designs</b> | <b>401 </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–211, title I, §101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
 
 <b>1999</b>—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
 
@@ -410,6 +411,8 @@ Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that:
 
 Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large codified in this Act with the proviso that “Any rights or liabilities now existing under such sections or parts thereof shall not be affected by this repeal.”
 
+<i><sup>1</sup></i><i> So in original. Probably should be “381”.</i>
+
 
 ---
 
@@ -419,3 +422,4 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 - [Part 002 (II) - Patentability of Inventions and Grant of Patents](Part%20002%20%28II%29%20-%20Patentability%20of%20Inventions%20and%20Grant%20of%20Patents/README.md)
 - [Part 003 (III) - Patents and Protection of Patent Rights](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/README.md)
 - [Part 004 (IV) - Patent Cooperation Treaty](Part%20004%20%28IV%29%20-%20Patent%20Cooperation%20Treaty/README.md)
+- [Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs](Part%20005%20%28V%29%20-%20The%20Hague%20Agreement%20Concerning%20International%20Registration%20of%20Industrial%20Designs/README.md)

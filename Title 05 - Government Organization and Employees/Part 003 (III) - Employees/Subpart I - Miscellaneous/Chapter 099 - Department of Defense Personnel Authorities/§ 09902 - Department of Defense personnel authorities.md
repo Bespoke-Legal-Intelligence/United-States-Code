@@ -144,13 +144,13 @@ Provisions Regarding National Level Bargaining.—
 
 &emsp;&emsp;(C) to the extent agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, supersede conflicting provisions of all other collective bargaining agreements of the labor organization, including collective bargaining agreements negotiated with an exclusive representative at the level of recognition; and
 
-&emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations for any purpose, including bargaining at the level of recognition.
+&emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations forany purpose, including bargaining at the level of recognition.
 
 &emsp;(3) Any independent dispute resolution process agreed to by the parties for the purposes of paragraph (2) shall have the authority to address all issues on which the parties are unable to reach agreement.
 
 &emsp;(4) The National Guard Bureau and the Army and Air Force National Guard may be included in coverage under this subsection.
 
-&emsp;(5) Any bargaining completed pursuant to this subsection with a labor organization nototherwise having national consultation rights with the Department of Defense or its subcomponents shall not create any obligation on the Department of Defense or its subcomponents to confer national consultation rights on such a labor organization.
+&emsp;(5) Any bargaining completed pursuant to this subsection with a labor organization not otherwise having national consultation rights with the Department of Defense or its subcomponents shall not create any obligation on the Department of Defense or its subcomponents to confer national consultation rights on such a labor organization.
 
 (f)
 
@@ -188,7 +188,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;(B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-&emsp;(7) Under this program, early retirement and separation pay may be offered only pursuantto regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
+&emsp;(7) Under this program, early retirement and separation pay may be offered only pursuant to regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
 
 (g)
 
@@ -280,7 +280,7 @@ Pub. L. 111–84, §1113(b)(1), (d), added subsecs. (a) to (d), redesignated sub
 
 Subsec. (g)(3), (4). Pub. L. 111–84, §1121, as amended by Pub. L. 111–383, §1101(c), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
 
-<b>2008</b>—Pub. L. 110–181 amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (<i>l</i>), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
+<b>2008</b>—Pub. L. 110–181 amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (l), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
 
 Subsec. (i). Pub. L. 110–417 substituted “the requirements and limitations in paragraph (3)” for “the requirements of chapter 71 and the limitations in subsection (b)(3)” in par. (1), inserted “, in a manner comparable to that in which such provisions are applied under chapter 33” before period at end of par. (2), and added par. (3).
 
@@ -356,7 +356,7 @@ In general.—\[Amended this section.\]
 
 &emsp;“(2)
 
-Expansion prohibited.—The National Security Personnel System may not be extended to any organizational or functional unit of the Department ofDefense (or any component thereof) not included in such System as of March 1, 2009.
+Expansion prohibited.—The National Security Personnel System may not be extended to any organizational or functional unit of the Department of Defense (or any component thereof) not included in such System as of March 1, 2009.
 
 &emsp;“(3)
 
@@ -460,7 +460,7 @@ Pub. L. 110–181, div. A, title XI, §1106(b), Jan. 28, 2008, 122 Stat. 356, wh
 
 #### Civilian Pay
 
-Pub. L. 109–13, div. A, title I, §1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act orany other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: <i>Provided</i>, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: <i>Provided further</i>, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
+Pub. L. 109–13, div. A, title I, §1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: <i>Provided</i>, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: <i>Provided further</i>, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
 
 #### Pilot Program for Improved Civilian Personnel Management
 

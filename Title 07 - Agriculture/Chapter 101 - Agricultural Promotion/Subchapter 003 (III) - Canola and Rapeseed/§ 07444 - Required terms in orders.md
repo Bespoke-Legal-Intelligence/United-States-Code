@@ -36,7 +36,7 @@ An order issued under this subchapter shall contain the terms and conditions spe
 
 #### (5) Modifying Board membership
 
-&emsp;In accordance with regulations approved by the Secretary, at least once each 3 years andnot more than once each 2 years, the Board shall review the geographic distribution of canola and rapeseed production throughout the United States and, if warranted, recommend to the Secretary that the Secretary—
+&emsp;In accordance with regulations approved by the Secretary, at least once each 3 years and not more than once each 2 years, the Board shall review the geographic distribution of canola and rapeseed production throughout the United States and, if warranted, recommend to the Secretary that the Secretary—
 
 &emsp;&emsp;(A) reapportion regions in order to reflect the geographic distribution of canola and rapeseed production; and
 

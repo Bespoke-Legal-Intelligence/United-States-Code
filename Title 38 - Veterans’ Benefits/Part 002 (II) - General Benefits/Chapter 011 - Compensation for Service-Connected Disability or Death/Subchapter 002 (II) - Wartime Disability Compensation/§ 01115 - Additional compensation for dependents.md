@@ -314,7 +314,7 @@ Par. (2). Pub. L. 97–253, §404(b), substituted provisions that the amounts pa
 
 <b>1980</b>—Par. (1)(A) to (J). Pub. L. 96–385, §102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
 
-<b>1979</b>—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
+<b>1979</b>—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
 
 Par. (1)(I). Pub. L. 96–128, §102(a)(9), (b)(1)(A), substituted “paragraph” for “subsection”, “(i)” for “(1)”, “(ii)” for “(2)”, “$98” for “$89”, and “section” for “subsection”.
 
@@ -458,19 +458,19 @@ Amendment by Pub. L. 91–376 effective July 1, 1970, see section 9 of Pub. L. 9
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
-Section 2 of Pub. L. 89–137 provided that: “The foregoing provisions of this Act \[amending this section and former section 1504 of this title\] shall become effective on the first day of the second calendar month which begins following the date of enactment of this Act \[Aug. 26, 1965\].”
+Pub. L. 89–137, §2, Aug. 26, 1965, 79 Stat. 576, provided that: “The foregoing provisions of this Act \[amending this section and former section 1504 of this title\] shallbecome effective on the first day of the second calendar month which begins following the date of enactment of this Act \[Aug. 26, 1965\].”
 
 #### Effective Date of 1960 Amendment
 
-Section 2 of Pub. L. 86–499 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[June 8, 1960\].”
+Pub. L. 86–499, §2, June 8, 1960, 74 Stat. 165, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[June 8, 1960\].”
 
 #### Repeal
 
-Section 405(c) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
+Pub. L. 97–253, title IV, §405(c), Sept. 8, 1982, 96 Stat. 803, cited as a credit to this section, was repealed by Pub. L. 97–306, §§107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
 
 #### Savings Provision
 
-Section 1(c) of Pub. L. 89–137 provided that: “Any veteran-trainee receiving subsistence allowance on the date of the enactment of this Act \[Aug. 26, 1965\] while pursuing a course of vocational rehabilitation authorized by chapter 31 of title 38, United States Code \[former section 1501 et seq. of this title\], shall not have such allowance reduced by reason of the amendments contained in such Act \[amending this section and former section 1504 of this title\].”
+Pub. L. 89–137, §1(c), Aug. 26, 1965, 79 Stat. 576, provided that: “Any veteran-trainee receiving subsistence allowance on the date of the enactment of this Act \[Aug. 26, 1965\] while pursuing a course of vocational rehabilitation authorized by chapter 31 of title 38, United States Code \[former section 1501 et seq. of this title\], shall not have such allowance reduced by reason of the amendments contained in such Act \[amending this section and former section 1504 of this title\].”
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 

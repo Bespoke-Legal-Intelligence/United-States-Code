@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 (4) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
-(5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+(5) The term “Secretary of Defense” means the Secretary of Defense, except that it meansthe Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
@@ -78,11 +78,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1990 Amendment
 
-Section 563(b) of Pub. L. 101–510, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The amendment made by this section \[amending this section\] shall apply only to individuals who before the date of entry on active duty, as defined in section 3002(7) \[formerly 1402(7)\] of title 38, United States Code (as added by subsection (a)), have never served on active duty as defined in section 101(21) of that title.”
+Pub. L. 101–510, div. A, title V, §563(b), Nov. 5, 1990, 104 Stat. 1575, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The amendment made by this section \[amending this section\] shall apply only to individuals who before the date of entry on active duty, as defined in section 3002(7) \[formerly 1402(7)\] of title 38, United States Code (as added by subsection (a)), have never served on active duty as defined in section 101(21) of that title.”
 
 #### Effective Date of 1988 Amendment
 
-Section 108(c) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989.”
+Pub. L. 100–689, title I, §108(c), Nov. 18, 1988, 102 Stat. 4170, provided that: “The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989.”
 
 #### Transfer of Functions
 
@@ -90,7 +90,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Election of Benefits Under 1996 Amendments
 
-Section 107(b) of Pub. L. 104–275 provided that:
+Pub. L. 104–275, title I, §107(b), Oct. 9, 1996, 110 Stat. 3329, provided that:
 
 “(1) An individual may only become eligible for benefits under chapter 30 of title 38, United States Code, as a result of the amendment made by subsection (a) \[amending this section\] by making an election to become entitled to basic educational assistance under such chapter. The election may only be made during the nine-month period beginning on the date of the enactment of this Act \[Oct. 9, 1996\] and in the manner required by the Secretary of Defense.
 

@@ -24,7 +24,7 @@
 
 (2) Neither the disbursing official nor the payment certifying agency shall be liable—
 
-&emsp;(A) for the amount of the administrative offset on the basis that the underlying obligation, represented by the payment before theadministrative offset was taken, was not satisfied; or
+&emsp;(A) for the amount of the administrative offset on the basis that the underlying obligation, represented by the payment before the administrative offset was taken, was not satisfied; or
 
 &emsp;(B) for failure to provide timely notice under paragraph (8).
 
@@ -74,9 +74,9 @@
 
 (e)(1) Notwithstanding any other provision of law, regulation, or administrative limitation, no limitation on the period within which an offset may be initiated or taken pursuant to this section shall be effective.
 
-(2) This section does not apply when a statute explicitly prohibits using administrative offsetor setoff to collect the claim or type of claim involved.
+(2) This section does not apply when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.
 
-(f) The Secretary may waive the requirements of sections 552a(<i>o</i>) and (p) of title 5 for administrative offset or claims collection upon written certification by the head of a State or an executive, judicial, or legislative agency seeking to collect the claim that the requirements of subsection (a) of this section have been met.
+(f) The Secretary may waive the requirements of sections 552a(o) and (p) of title 5 for administrative offset or claims collection upon written certification by the head of a State or an executive, judicial, or legislative agency seeking to collect the claim that the requirements of subsection (a) of this section have been met.
 
 (g) The Data Integrity Board of the Department of the Treasury established under 552a(u) of title 5 shall review and include in reports under paragraph (3)(D) of that section a description of any matching activities conducted under this section. If the Secretary has granted a waiver under subsection (f) of this section, no other Data Integrity Board is required to take any action under section 552a(u) of title 5.
 
@@ -172,7 +172,7 @@ Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+Subsec. (b). Pub. L. 104–134, §31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
 &emsp;“(1) the best interests of the United States Government;
 
@@ -204,13 +204,13 @@ Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub.
 
 #### Offsets From Social Security Payments
 
-Section 31001(a)(2)(B) of Pub. L. 104–134 provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\].”
+Pub. L. 104–134, title III, §31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\].”
 
 #### Ex. Ord. No. 13019. Supporting Families: Collecting Delinquent Child Support Obligations
 
 Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
-The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
+The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions thatcan be used to assist families in collecting past-due child support obligations.
 
 The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
@@ -232,7 +232,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (2) conduct administrative offsets to collect delinquent child support payments.
 
-(f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collectionof such debts, whether or not an administrative offset is conducted.
+(f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collection of such debts, whether or not an administrative offset is conducted.
 
 Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the head of each executive department and agency that provides Federal financial assistance to individuals.
 

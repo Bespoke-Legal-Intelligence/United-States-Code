@@ -1,6 +1,6 @@
 ### §1886a. Data on specific fields of study
 
-The National Science Foundation shall continue to collect statistically reliable data on the field of degree of college-educated individuals to fulfill obligations under section 1863(j)(1) of this title and the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885 et. seq.). If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
+The National Science Foundation shall continue to collect statistically reliable data on the field of degree of college-educated individuals to fulfill obligations under section 1863(j)(1) of this title and the Science and Engineering Equal Opportunities Act \[42 U.S.C. 1885 et seq.\]. If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
 
 (Pub. L. 109–155, title VII, §721, Dec. 30, 2005, 119 Stat. 2938.)
 
@@ -16,5 +16,5 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

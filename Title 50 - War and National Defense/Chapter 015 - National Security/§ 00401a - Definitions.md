@@ -46,7 +46,7 @@ As used in this Act:
 
 &emsp;&emsp;&emsp;(iii) any other matter bearing on United States national or homeland security.
 
-&emsp;(6) The term “National Intelligence Program” refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of National Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
+&emsp;(6) The term “National Intelligence Program” refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of National Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for theplanning and conduct of tactical military operations by United States Armed Forces.
 
 &emsp;(7) The term “congressional intelligence committees” means—
 

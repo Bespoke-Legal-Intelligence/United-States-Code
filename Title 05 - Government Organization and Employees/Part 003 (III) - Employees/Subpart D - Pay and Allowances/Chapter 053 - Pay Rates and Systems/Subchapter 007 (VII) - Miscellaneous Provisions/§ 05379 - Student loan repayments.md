@@ -40,7 +40,7 @@
 
 > The head of the agency concerned may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be against equity and good conscience or against the public interest.
 
-(4) Any amount repaid by, or recovered from, an individual (or an estate) under this subsection shall be credited to the appropriation account from which the amount involved wasoriginally paid. Any amount so credited shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations (if any), as the sums with which merged.
+(4) Any amount repaid by, or recovered from, an individual (or an estate) under this subsection shall be credited to the appropriation account from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations (if any), as the sums with which merged.
 
 (d) An employee receiving benefits under this section from an agency shall be ineligible for continued benefits under this section from such agency if the employee—
 
@@ -112,7 +112,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 S
 
 Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that: “Notwithstanding any other provision of law—
 
-&emsp;“(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former studentof such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
+&emsp;“(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
 
 &emsp;&emsp;“(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
 

@@ -22,7 +22,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Lenders
 
-&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loansotherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
+&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
 
 &emsp;&emsp;(A) Any mortgagee approved by the Secretary of Housing and Urban Development for participation in the single family mortgage insurance program under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
@@ -46,7 +46,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;&emsp;&emsp;(ii) the amount approved by the Secretary under this section; and
 
-&emsp;&emsp;(D) involve a payment on account of the property (i) in cash or its equivalent, or (ii) through the value of any improvements to the property made through the skilled or unskilled labor of the borrower, as the Secretary shall provide.
+&emsp;&emsp;(D) involve a payment on account of the property (i) in cash or its equivalent, or (ii)through the value of any improvements to the property made through the skilled or unskilled labor of the borrower, as the Secretary shall provide.
 
 #### (c) Certificate of guarantee
 
@@ -108,7 +108,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (i) Foreclosure
 
-&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (e) of this section) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificatethe pro rata portion of the amount guaranteed (as determined pursuant to subsection (e) of this section) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
 
 #### (ii) No foreclosure
 
@@ -230,7 +230,7 @@ For purposes of environmental,<sup>3</sup> review, decisionmaking, and action un
 
 &emsp;(2) be subject to the regulations promulgated by the Secretary to carry out section 105 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4115).
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 For purposes of this section:
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 &emsp;(8)
 
-Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
+Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible forthe special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
@@ -278,11 +278,11 @@ The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949,
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (l)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (l)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l)(8), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Codification
 
@@ -306,7 +306,7 @@ Subsec. (i)(7). Pub. L. 106–568, §1002(2), and Pub. L. 106–569, §502(2), a
 
 Subsec. (i)(5)(C). Pub. L. 105–276, §595(e)(12), substituted “not” for “note”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 105–276, §595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 105–276, §595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
 
@@ -320,7 +320,7 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a cour
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph\(1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
 Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
 

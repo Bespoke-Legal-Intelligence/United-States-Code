@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Under Secretary of Transportation for Security shall provide forthe screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
+In General.—The Under Secretary of Transportation for Security shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
 (b)
 
@@ -14,17 +14,17 @@ Checked Baggage.—A system must be in operation to screen all checked baggage a
 
 (d)
 
-Explosive Detection Systems.—
+Explosives Detection Systems.—
 
 &emsp;(1)
 
 In general.—The Under Secretary of Transportation for Security shall take all necessary action to ensure that—
 
-&emsp;&emsp;(A) explosive detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosive detection systems to screen all checked baggage no later than December 31, 2002, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
+&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage no later than December 31, 2002, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
-&emsp;&emsp;(C) if explosive detection equipment at an airport is unavailable, all checked baggage is screened by an alternative means.
+&emsp;&emsp;(C) if explosives detection equipment at an airport is unavailable, all checked baggage is screened by an alternative means.
 
 &emsp;(2)
 
@@ -32,9 +32,9 @@ Deadline.—
 
 &emsp;&emsp;(A)
 
-In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployed under paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
+In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosives detection systems required to be deployed under paragraph (1) at all airports where explosives detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
 
-&emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosive detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
+&emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosives detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
 
 &emsp;&emsp;&emsp;(ii) the Under Secretary shall take all necessary action to ensure that alternative means of screening all checked baggage is implemented until the requirements of paragraph (1) have been met.
 
@@ -46,7 +46,7 @@ Criteria for determination.—In making a determination under subparagraph (A), 
 
 &emsp;&emsp;&emsp;(ii) the need to ensure that such installations and modifications are effective; and
 
-&emsp;&emsp;&emsp;(iii) the feasibility and cost-effectiveness of deploying explosive detection systems in the baggage sorting area or other non-public area rather than the lobby of an airport terminal building.
+&emsp;&emsp;&emsp;(iii) the feasibility and cost-effectiveness of deploying explosives detection systems in the baggage sorting area or other non-public area rather than the lobby of an airport terminal building.
 
 &emsp;&emsp;(C)
 
@@ -56,23 +56,43 @@ Response.—The Under Secretary shall respond to the request of an airport under
 
 Airport effort required.—Each airport with respect to which the Under Secretary makes a determination under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) cooperate fully with the Transportation Security Administration with respect to screening checked baggage and changes to accommodate explosive detection systems; and
+&emsp;&emsp;&emsp;(i) cooperate fully with the Transportation Security Administration with respect to screening checked baggage and changes to accommodate explosives detection systems; and
 
-&emsp;&emsp;&emsp;(ii) make security projects a priority for the obligation or expenditure of funds made available under chapter 417 or 471 until explosive detection systems required to be deployed under paragraph (1) have been deployed at that airport.
+&emsp;&emsp;&emsp;(ii) make security projects a priority for the obligation or expenditure of funds made available under chapter 417 or 471 until explosives detection systems required to be deployed under paragraph (1) have been deployed at that airport.
 
 &emsp;(3)
 
 Reports.—Until the Transportation Security Administration has met the requirements of paragraph (1), the Under Secretary shall submit a classified report every 30 days after the date of enactment of this Act to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure describing the progress made toward meeting such requirements at each airport.
 
+&emsp;(4)
+
+Preclearance airports.—
+
+&emsp;&emsp;(A)
+
+In general.—For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
+
+&emsp;&emsp;(B)
+
+Aviation security preclearance agreement defined.—In this paragraph, the term “aviation security preclearance agreement” means an agreement that delineates and implements security standards and protocols that are determined by the Assistant Secretary, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
+
+&emsp;&emsp;(C)
+
+Report.—The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
+
+&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
+
+&emsp;&emsp;&emsp;(ii) The amount of Federal savings generated from the exercise of such authority.
+
 (e)
 
-Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosive detection system. Such alternative means may include 1 or more of the following:
+Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
 
 &emsp;(1) A bag-match program that ensures that no checked baggage is placed aboard an aircraft unless the passenger who checked the baggage is aboard the aircraft.
 
 &emsp;(2) Manual search.
 
-&emsp;(3) Search by canine explosive detection units in combination with other means.
+&emsp;(3) Search by canine explosives detection units in combination with other means.
 
 &emsp;(4) Other means or technology approved by the Under Secretary.
 
@@ -202,7 +222,85 @@ Application to general aviation aircraft.—Not later than 180 days after the da
 
 Authorization of appropriations.—There are authorized to be appropriated to the Administrator of the Transportation Security Administration such sums as may be necessary to carry out paragraphs (2) and (3).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185; Pub. L. 110–53, title XVI, §§1602(a), 1609, 1617, Aug. 3, 2007, 121 Stat. 477, 484, 488.)
+(l)
+
+Limitations on Use of Advanced Imaging Technology for Screening Passengers.—
+
+&emsp;(1)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+Advanced imaging technology.—The term “advanced imaging technology”—
+
+&emsp;&emsp;&emsp;(i) means a device used in the screening of passengers that creates a visual image of an individual showing the surface of the skin and revealing other objects on the body; and
+
+&emsp;&emsp;&emsp;(ii) may include devices using backscatter x-rays or millimeter waves and devices referred to as “whole-body imaging technology” or “body scanning machines”.
+
+&emsp;&emsp;(B)
+
+Appropriate congressional committees.—The term “appropriate congressional committees” means—
+
+&emsp;&emsp;&emsp;(i) the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;&emsp;(ii) the Committee on Homeland Security of the House of Representatives.
+
+&emsp;&emsp;(C)
+
+Automatic target recognition software.—The term “automatic target recognition software” means software installed on an advanced imaging technology that produces a generic image of the individual being screened that is the same as the images produced for all other screened individuals.
+
+&emsp;(2)
+
+Use of advanced imaging technology.—Beginning June 1, 2012, the Assistant Secretary of Homeland Security (Transportation Security Administration) shall ensure that any advanced imaging technology used for the screening of passengers under this section—
+
+&emsp;&emsp;(A) is equipped with and employs automatic target recognition software; and
+
+&emsp;&emsp;(B) complies with such other requirements as the Assistant Secretary determines necessary to address privacy considerations.
+
+&emsp;(3)
+
+Extension.—
+
+&emsp;&emsp;(A)
+
+In general.—The Assistant Secretary may extend the deadline specified in paragraph (2), if the Assistant Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) an advanced imaging technology equipped with automatic target recognition software is not substantially as effective at screening passengers as an advanced imaging technology without such software; or
+
+&emsp;&emsp;&emsp;(ii) additional testing of such software is necessary.
+
+&emsp;&emsp;(B)
+
+Duration of extensions.—The Assistant Secretary may issue one or more extensions under subparagraph (A). The duration of each extension may not exceed one year.
+
+&emsp;(4)
+
+Reports.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 60 days after the deadline specified in paragraph (2), and not later than 60 days after the date on which the Assistant Secretary issues any extension under paragraph (3), the Assistant Secretary shall submit to the appropriate congressional committees a report on the implementation of this subsection.
+
+&emsp;&emsp;(B)
+
+Elements.—A report submitted under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;(i) A description of all matters the Assistant Secretary considers relevant to the implementation of the requirements of this subsection.
+
+&emsp;&emsp;&emsp;(ii) The status of compliance by the Transportation Security Administration with such requirements.
+
+&emsp;&emsp;&emsp;(iii) If the Administration is not in full compliance with such requirements—
+
+&emsp;&emsp;&emsp;&emsp;(I) the reasons for the noncompliance; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a timeline depicting when the Assistant Secretary expects the Administration to achieve full compliance.
+
+&emsp;&emsp;(C)
+
+Security classification.—To the greatest extent practicable, a report prepared under subparagraph (A) shall be submitted in an unclassified format. If necessary, the report may include a classified annex.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185; Pub. L. 110–53, title XVI, §§1602(a), 1609, 1617, Aug. 3, 2007, 121 Stat. 477, 484, 488; Pub. L. 112–95, title VIII, §826, Feb. 14, 2012, 126 Stat. 132; Pub. L. 112–218, §2, Dec. 20, 2012, 126 Stat. 1593.)
 
 Historical and Revision Notes
 
@@ -254,6 +352,14 @@ Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 C
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d). Pub. L. 112–218, §2(b), which directed substitution of “explosives” for “explosive” wherever appearing in this section, was executed in subsec. (d) by making such substitution wherever appearing in text as well as by substituting “Explosives” for “Explosive” in heading, to reflect the probable intent of Congress.
+
+Subsec. (d)(4). Pub. L. 112–218, §2(a), added par. (4).
+
+Subsec. (e). Pub. L. 112–218, §2(b), substituted “explosives” for “explosive” in introductory provisions and in par. (3).
+
+Subsec. (l). Pub. L. 112–95 added subsec. (l).
+
 <b>2007</b>—Subsecs. (g) to (i). Pub. L. 110–53, §1602(a), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 Subsec. (j). Pub. L. 110–53, §1609, added subsec. (j).
@@ -262,7 +368,7 @@ Subsec. (k). Pub. L. 110–53, §1617, added subsec. (k).
 
 <b>2002</b>—Subsec. (d)(2), (3). Pub. L. 107–296 added pars. (2) and (3).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §110(b)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §110(b)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Administrator of the Federal Aviation Administration shall prescriberegulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.”
 
 Subsec. (b). Pub. L. 107–71, §110(b)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Notwithstanding subsection (a) of this section, the Administrator may amend a regulation prescribed under subsection (a) to require screening only to ensure security against criminal violence and aircraft piracy in air transportation and intrastate air transportation.”
 
@@ -348,7 +454,7 @@ Pub. L. 107–71, title I, §101(g), Nov. 19, 2001, 115 Stat. 603, provided that
 
 “(1)
 
-Schedule for assumption of civil aviation security functions.—Not later than 3 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall assume civil aviation security functions and responsibilities under chapter 449 of title 49, United States Code, as amended by this Act, in accordance with a schedule to be developed by the Secretary of Transportation, in consultation with air carriers, foreign air carriers, and the Administrator of the Federal Aviation Administration. The Under Secretary shall publish an appropriate notice of the transfer of such security functions and responsibilities before assuming the functions and responsibilities.
+Schedule for assumption of civil aviation security functions.—Not later than 3 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall assumecivil aviation security functions and responsibilities under chapter 449 of title 49, United States Code, as amended by this Act, in accordance with a schedule to be developed by the Secretary of Transportation, in consultation with air carriers, foreign air carriers, and the Administrator of the Federal Aviation Administration. The Under Secretary shall publish an appropriate notice of the transfer of such security functions and responsibilities before assuming the functions and responsibilities.
 
 “(2)
 

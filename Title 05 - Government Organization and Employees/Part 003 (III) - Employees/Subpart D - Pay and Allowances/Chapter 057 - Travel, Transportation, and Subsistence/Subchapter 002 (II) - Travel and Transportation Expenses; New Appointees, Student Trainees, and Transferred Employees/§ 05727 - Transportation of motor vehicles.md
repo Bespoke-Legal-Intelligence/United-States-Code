@@ -2,7 +2,7 @@
 
 (a) Except as specifically authorized by statute, an authorization in a statute or regulation to transport the effects of an employee or other individual at Government expense is not an authorization to transport an automobile.
 
-(b) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle of an employee, including a new appointeeand a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
+(b) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle of an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
 
 &emsp;(1) the employee is assigned to the post of duty for other than temporary duty; and
 

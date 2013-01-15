@@ -10,7 +10,7 @@ Notification of trial counsel and military judge.—If an accused reasonably exp
 
 &emsp;(2)
 
-Limitation on disclosure by accused.—No accused shall disclose, or cause the disclosure of, any information known or believed to be classified in connection with a trial or pretrial proceeding until—
+Limitation on disclosure by accused.—No accused shall disclose, or cause the disclosure of, any information known or believed tobe classified in connection with a trial or pretrial proceeding until—
 
 &emsp;&emsp;(A) notice has been given under paragraph (1); and
 

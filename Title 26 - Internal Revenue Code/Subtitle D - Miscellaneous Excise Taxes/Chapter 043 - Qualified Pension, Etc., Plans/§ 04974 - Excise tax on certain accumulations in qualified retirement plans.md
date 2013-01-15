@@ -56,7 +56,7 @@ Amendment by section 1852(a)(7)(B), (C) of Pub. L. 99–514 effective, except as
 
 #### Effective Date of 1978 Amendment
 
-Section 157(i)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title I, §157(i)(2), Nov. 6, 1978, 92 Stat. 2809, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ Payments may be made under this section only for electric energy generated from 
 
 #### (d) Incentive period
 
-A qualified hydroelectric facility may receive payments under this section for a period of 10 fiscal years (referred to in this section as the “incentive period”). Such period shall begin with the fiscal year in which electric energy generated from the facility is first eligible for such payments.
+A qualified hydroelectric facility may receive payments under this section for a period of 10 fiscal years (referred to in this section as the “incentive period”). Such period shall begin with the fiscal year in which electric energygenerated from the facility is first eligible for such payments.
 
 #### (e) Amount of payment
 

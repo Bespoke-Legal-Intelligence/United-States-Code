@@ -12,7 +12,7 @@ Subchapter VI of this chapter, referred to in text, was comprised of sections 15
 
 #### Change of Name
 
-Department of the Air Force inserted on authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 501, 502. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of such act July 26, 1947. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
+Department of the Air Force inserted on authority of act July 26, 1947, ch. 343, title II, §207(a), (f), 61 Stat. 502, 503. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. Act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Amendments
 
@@ -22,7 +22,7 @@ Department of the Air Force inserted on authority of section 207(a), (f) of act 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Housing and Home Finance Agency transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 

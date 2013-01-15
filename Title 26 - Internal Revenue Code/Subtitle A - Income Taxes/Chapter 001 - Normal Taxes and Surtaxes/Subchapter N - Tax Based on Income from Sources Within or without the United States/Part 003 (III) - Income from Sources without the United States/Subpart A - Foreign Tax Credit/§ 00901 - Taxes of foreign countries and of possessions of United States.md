@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chaptershall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under sections 902 and 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
+If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under sections 902 and 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
 
 #### (b) Amount allowed
 
@@ -18,7 +18,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (3) Alien resident of the United States or Puerto Rico
 
-&emsp;In the case of an alien resident of the United States and in the case of an alien individual who is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
+&emsp;In the case of an alien resident of the United States and in the case of an alien individualwho is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
 
 #### (4) Nonresident alien individuals and foreign corporations
 
@@ -228,7 +228,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;Sections 275 and 78 shall not apply to any tax which is not allowable as a credit under subsection (a) by reason of this subsection.
 
-#### (<i>l</i>) Minimum holding period for withholding taxes on gain and income other than dividends etc.
+#### (l) Minimum holding period for withholding taxes on gain and income other than dividends etc.
 
 #### (1) In general
 
@@ -388,7 +388,7 @@ The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is Pub. L. 90�
 
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
 
-Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (k)(4)(A)(i), (ii), are classified to sections 78<i>o</i>(a) and 78<i>o</i>–5(a), respectively, of Title 15, Commerce and Trade.
+Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (k)(4)(A)(i), (ii), are classified to sections 78o(a) and 78o–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
 
@@ -396,7 +396,7 @@ Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in
 
 <b>2007</b>—Subsec. (h). Pub. L. 110–172 struck out subsec. (h), which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC, other than section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)).”
 
-<b>2005</b>—Subsec. (<i>l</i>)(2)(C)(i). Pub. L. 109–135 struck out “if such security were stock” after “paragraph (4) thereof”.
+<b>2005</b>—Subsec. (l)(2)(C)(i). Pub. L. 109–135 struck out “if such security were stock” after “paragraph (4) thereof”.
 
 <b>2004</b>—Subsec. (b)(5). Pub. L. 108–357, §405(b), substituted “any person” for “any individual”.
 
@@ -406,17 +406,17 @@ Subsec. (k)(1)(A)(i). Pub. L. 108–311, §406(g)(1), substituted “31-day peri
 
 Subsec. (k)(3)(B). Pub. L. 108–311, §406(g)(2), substituted “91-day period” for “90-day period” and “31-day period” for “30-day period”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 108–357, §832(a), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+Subsecs. (l), (m). Pub. L. 108–357, §832(a), added subsec. (l) and redesignated former subsec. (l) as (m).
 
 <b>2000</b>—Subsec. (j)(5). Pub. L. 106–200 added par. (5).
 
 <b>1998</b>—Subsec. (k)(4)(A). Pub. L. 105–206 substituted “business as a securities dealer” for “securities business” in introductory provisions.
 
-<b>1997</b>—Subsec. (k). Pub. L. 105–34, §1053(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+<b>1997</b>—Subsec. (k). Pub. L. 105–34, §1053(a), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 105–34, §1053(a), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 105–34, §1053(a), redesignated subsec. (k) as (l).
 
-Subsec. (<i>l</i>)(4). Pub. L. 105–34, §1142(e)(4), which directed amendment of subsec. (k)(4) by substituting “foreign corporation or partnership” for “foreign corporation”, was executed to subsec. (<i>l</i>)(4) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (<i>l</i>) by Pub. L. 105–34, §1053(a). See above.
+Subsec. (l)(4). Pub. L. 105–34, §1142(e)(4), which directed amendment of subsec. (k)(4) by substituting “foreign corporation or partnership” for “foreign corporation”, was executed to subsec. (l)(4) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (l) by Pub. L. 105–34, §1053(a). See above.
 
 <b>1996</b>—Subsec. (b)(5). Pub. L. 104–188 inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
@@ -478,7 +478,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §§1051(d)(2), 1901(b)(1)(H)(iii), added s
 
 <b>1975</b>—Subsecs. (f), (g). Pub. L. 94–12 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
+<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
 
 <b>1971</b>—Subsec. (d). Pub. L. 92–178 inserted provision for treatment of dividends from a DISC or former DISC as dividends from a foreign corporation to the extent such dividends are treated under part I as income from sources without the United States.
 
@@ -500,7 +500,7 @@ Subsecs. (c) to (e). Pub. L. 89–809, §106(b)(2), added subsec. (c) and redesi
 
 Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
+<b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made orchanged at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted “applicable” before “limitation”.
 
@@ -560,21 +560,21 @@ Amendment by Pub. L. 104–188 effective Aug. 20, 1996, with exception for certa
 
 Amendment by section 1012(j) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 2003(c)(2) of Pub. L. 100–647 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1987.”
+Pub. L. 100–647, title II, §2003(c)(2), Nov. 10, 1988, 102 Stat. 3598, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1987.”
 
 #### Effective Date of 1987 Amendment
 
-Section 10231(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10231(c), Dec. 22, 1987, 101 Stat. 1330–419, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendments
 
 Amendment by section 112(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Section 1204(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to foreign taxes paid or accrued in taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1204(b), Oct. 22, 1986, 100 Stat. 2532, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to foreign taxes paid or accrued in taxable years beginning after December 31, 1986.”
 
 Amendment by section 1876(p)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 8041(c) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and section 952 of this title\] shall take effect on January 1, 1987.”
+Pub. L. 99–509, title VIII, §8041(c), Oct. 21, 1986, 100 Stat. 1963, provided that: “The amendments made by this section \[amending this section and section 952 of this title\] shall take effect on January 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
@@ -588,13 +588,13 @@ Amendment by section 801(d)(1) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 201(d)(8)(A) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by section 201(d)(8)(A) of Pub. L. 97–248 applicable to taxable years beginning after Dec. 31,1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 Amendment by section 265(b)(2)(A)(iv) of Pub. L. 97–248 applicable to distributions after Dec. 31, 1982, see section 265(c)(2) of Pub. L. 97–248, set out as a note under section 72 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 701(u)(1)(C) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date.”
+Pub. L. 95–600, title VII, §701(u)(1)(C), Nov. 6, 1978, 92 Stat. 2913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -624,13 +624,13 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 Amendment by section 301(b)(9) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
-Section 506(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply with respect to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title V, §506(c), Dec. 30, 1969, 83 Stat. 635, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply with respect to taxable years beginning after December 31, 1969.”
 
-#### Effective Date of 1966 Amendments
+#### Effective Date of 1966 Amendment
 
 Amendment by section 106(a)(4), (5) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 106(a)(6) of Pub. L. 89–809, set out as a note under section 874 of this title.
 
-Section 106(b)(4) of Pub. L. 89–809 provided that: “The amendments made by this subsection (other than paragraph (3)) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by paragraph (3) \[amending section 2014 of this title\] shall apply with respect to estates of decedents dying after the date of enactment of this Act \[Nov. 13, 1966\].”
+Pub. L. 89–809, title I, §106(b)(4), Nov. 13, 1966, 80 Stat. 1570, provided that: “The amendments made by this subsection (other than paragraph (3)) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by paragraph (3) \[amending section 2014 of this title\] shall apply with respect to estates of decedents dying after the date of enactment of this Act \[Nov. 13, 1966\].”
 
 Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after December 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
 

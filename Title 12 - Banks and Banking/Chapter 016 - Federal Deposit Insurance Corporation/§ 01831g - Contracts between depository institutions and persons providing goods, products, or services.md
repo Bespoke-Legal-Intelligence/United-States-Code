@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An insured depository institution may not enter into a written or oral contract with any person to provide goods, products, or services to or for the benefit of such depository institution if the performance of such contract would adversely affect the safety or soundness of the institution.
+An insured depository institution may not enter into a written or oral contract with any person to provide goods, products, or services to or for the benefit of such depository institutionif the performance of such contract would adversely affect the safety or soundness of the institution.
 
 #### (b) Rulemaking
 

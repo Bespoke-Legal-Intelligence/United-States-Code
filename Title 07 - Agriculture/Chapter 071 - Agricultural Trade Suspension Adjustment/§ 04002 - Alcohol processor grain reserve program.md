@@ -24,7 +24,7 @@ Except as otherwise provided in this section, loans made under this section to c
 
 #### (d) Amount of loan
 
-The amount of the loan that the Secretary may make to an eligible processor at any time on any quantity of grain purchased by the processor shall be determined by multiplying the price support loan rate in effect for such grain at the time the loan is made times the quantity of grain purchased by the processor. The quantity of grain on which one or more loans may beoutstanding at any time in the case of any processor may not exceed the estimated quantity of grain needed by such processor for one year of operation.
+The amount of the loan that the Secretary may make to an eligible processor at any time on any quantity of grain purchased by the processor shall be determined by multiplying the price support loan rate in effect for such grain at the time the loan is made times the quantity of grain purchased by the processor. The quantity of grain on which one or more loans may be outstanding at any time in the case of any processor may not exceed the estimated quantity of grain needed by such processor for one year of operation.
 
 #### (e) Replacement of removed grain
 
@@ -42,7 +42,7 @@ Loans made under this section shall be made subject to such terms and conditions
 
 In carrying out the processor grain reserve program under this section, the Secretary may—
 
-&emsp;(1) provide for the payment to processors of such amounts as the Secretary determines appropriate to cover the cost of storing grain held in the processor grain reserve, except that in no event may the rate of the payment paid under this clause for any period exceed the rate paid by the Secretary under the producer storage program for the same period; and
+&emsp;(1) provide for the payment to processors of such amounts as the Secretary determines appropriate to cover the cost of storing grainheld in the processor grain reserve, except that in no event may the rate of the payment paid under this clause for any period exceed the rate paid by the Secretary under the producer storage program for the same period; and
 
 &emsp;(2) prescribe conditions under which the Secretary may require processors to repay loans made under this section, plus accrued interest thereon, refund amounts paid to the processors for storage, and require the processors to pay such additional interest and other charges as may be required by regulation in the event any processor fails to abide by the terms and conditions of the loan or any regulation prescribed under this section.
 

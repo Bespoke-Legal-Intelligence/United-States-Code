@@ -6,5 +6,5 @@ For sections 4221 to 4225, see Prior Provisions notes set out under sections 422
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Repeal effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 

@@ -4,5 +4,5 @@ Section, Pub. L. 92–255, title II, §207, as added Pub. L. 96–181, §4, Jan.
 
 A prior section 1117, Pub. L. 92–255, title II, §207, as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243, which provided for acceptance of uncompensated services, was omitted in the general revision of this subchapter by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309.
 
-Another prior section 1117, Pub. L. 92–255, title II, §207, Mar. 21, 1972, 86 Stat. 68, which provided for the procurement of experts and consultants by the Director, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
+Another prior section 1117, Pub. L. 92–255, title II, §207, Mar. 21, 1972, 86 Stat. 68, which provided for theprocurement of experts and consultants by the Director, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 

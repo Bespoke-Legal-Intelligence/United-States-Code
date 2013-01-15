@@ -58,7 +58,7 @@ Estimate.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding a waiver under subparagraph (B), a carrier's statement of charges for transportation must be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier's household goods agent preparing the estimate.
+In general.—Notwithstanding a waiver under subparagraph (B), a carrier's statement of charges for transportationmust be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier's household goods agent preparing the estimate.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -88,7 +88,7 @@ Provisions similar to those in this section were contained in section 11110 of t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipperfor providing a written, binding estimate for the transportation and proposed services.”
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
 
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 

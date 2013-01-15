@@ -18,7 +18,7 @@ For the purposes of this subchapter:
 
 &emsp;The term “federally assisted low-income housing” means housing assisted under—
 
-&emsp;&emsp;(A) section 1715<i>l</i>(d)(3), section 1715<i>l</i>(d)(4), or 1715z–1 of title 12;
+&emsp;&emsp;(A) section 1715l(d)(3), section 1715l(d)(4), or 1715z–1 of title 12;
 
 &emsp;&emsp;(B) section 1701s of title 12; or
 

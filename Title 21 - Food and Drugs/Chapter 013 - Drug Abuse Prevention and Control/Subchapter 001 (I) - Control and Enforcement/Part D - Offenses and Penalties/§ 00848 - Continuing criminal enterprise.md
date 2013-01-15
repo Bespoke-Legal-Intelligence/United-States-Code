@@ -50,7 +50,7 @@ In the case of any sentence imposed under this section, imposition or execution 
 
 For the purposes of subsection (b), in the case of continuing criminal enterprise involving methamphetamine or its salts, isomers, or salts of isomers, paragraph (2)(A) shall be applied by substituting “200” for “300”, and paragraph (2)(B) shall be applied by substituting “$5,000,000” for “$10 million dollars”.
 
-(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, §108, title IX, §903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§221,222(c), title VII, §733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
+(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, §108, title IX, §903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§221, 222(c), title VII, §733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Pub. L. 100–690, §7001(a)(1), which directed redesignation of former subsec. 
 
 Subsecs. (g) to (r). Pub. L. 100–690, §7001(b), added subsecs. (g) to (r).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to a fine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to afine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
 
 Subsecs. (b) to (e). Pub. L. 99–570, §1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 
@@ -108,7 +108,7 @@ Amendment by section 224(b) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 #### GAO Study of Cost of Executions
 
-Section 7002 of title VII of Pub. L. 100–690, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, §1091(d), Dec. 21, 1995, 109 Stat. 722.
+Pub. L. 100–690, title VII, §7002, Nov. 18, 1988, 102 Stat. 4395, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, §1091(d), Dec. 21, 1995, 109 Stat. 722.
 
 <i><sup>1</sup></i><i> So in original. Section does not contain a subsec. (f), see 1988 Amendment note below.</i>
 

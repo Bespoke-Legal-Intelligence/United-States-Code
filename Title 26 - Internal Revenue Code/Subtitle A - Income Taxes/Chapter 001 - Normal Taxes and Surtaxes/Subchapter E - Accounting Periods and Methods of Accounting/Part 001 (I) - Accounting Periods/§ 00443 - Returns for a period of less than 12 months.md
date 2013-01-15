@@ -40,7 +40,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 #### (C) Application for benefits
 
-&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be laterthan the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
+&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be later than the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
 
 #### (D) Regulations
 
@@ -76,7 +76,7 @@ If a return is made for a short period by reason of subsection (a)—
 
 &emsp;<b>For returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year, see section 1398(d)(2)(E).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(o)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
 
@@ -98,11 +98,11 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted “and tax preferences�
 
 Subsec. (e). Pub. L. 96–589 inserted cross reference to section 1398(d)(3)(E) for returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year.
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(<i>o</i>)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(o)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
 
-Subsec. (b)(2). Pub. L. 95–600, §703(<i>o</i>)(1), substituted in cl. (i) “modified taxable income” for “taxable income” in two places and in cl. (ii) “the sum of the modified taxable income” for “the taxable income” and “plus the zero bracket amount” for “without placing the taxable income on an annual basis”.
+Subsec. (b)(2). Pub. L. 95–600, §703(o)(1), substituted in cl. (i) “modified taxable income” for “taxable income” in two places and in cl. (ii) “the sum of the modified taxable income” for “the taxable income” and “plus the zero bracket amount” for “without placing the taxable income on an annual basis”.
 
-Subsec. (b)(3). Pub. L. 95–600, §703(<i>o</i>)(3), added par. (3).
+Subsec. (b)(3). Pub. L. 95–600, §703(o)(3), added par. (3).
 
 Subsec. (d). Pub. L. 95–600, §421(e)(2), substituted “Adjustment in computing minimum tax for tax preferences” for “Adjustment in exclusion for computing minimum tax for tax preferences” in heading, redesignated existing provisions as par. (2) and as so redesignated applied par. (2) to corporations, and added par. (1).
 
@@ -134,9 +134,9 @@ Amendment by section 701(e)(3) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Section 311(b)(1) of Pub. L. 97–448 provided that: “The amendment made by subsection (a) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 3 of the Bankruptcy Tax Act of 1980 \[section 3 of Pub. L. 96–589, which amended this section and sections 6012 and 6103 of this title\].”
+Pub. L. 97–448, title III, §311(b)(1), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (a) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 3 of the Bankruptcy Tax Act of 1980 \[section 3 of Pub. L. 96–589, which amended this section and sections 6012 and 6103 of this title\].”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 703(<i>o</i>)(4) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 95–600, title VII, §703(o)(4), Nov. 6, 1978, 92 Stat. 2943, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 Amendment by section 421(e)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 301(g)(1) of Pub. L. 94–455 provided that the amendment made by section 301(e) of Pub. L. 94–455 is effective for items of tax preferences for taxable years beginning after Dec. 31, 1975, with certain exceptions.
+Pub. L. 94–455, title III, §301(g)(1), Oct. 4, 1976, 90 Stat. 1553, provided that the amendment made by section 301(e) of Pub. L. 94–455 is effective for items of tax preferences for taxable years beginning after Dec. 31, 1975, with certain exceptions.
 
 Amendment by section 1204(c)(2) of Pub. L. 94–455 effective with respect to action taken under section 6851, 6861, or 6862 of this title where the notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 

@@ -12,7 +12,7 @@
 
 (b) In order to assure equal access to all recipients, such hearings or other meetings as may be necessary to fulfill the requirements of this section shall be held at locations convenient to the recipient agency.
 
-(Pub. L. 93–113, title IV, §412, Oct. 1, 1973, 87 Stat. 411; Pub. L. 98–288, §22, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §10(i)(8), Oct. 27, 1986, 100 Stat. 3078.)
+(Pub. L. 93–113, title IV, §412, Oct. 1, 1973, 87 Stat. 411; Pub. L. 98–288, §22, May 21, 1984, 98Stat. 195; Pub. L. 99–551, §10(i)(8), Oct. 27, 1986, 100 Stat. 3078.)
 
 #### References in Text
 

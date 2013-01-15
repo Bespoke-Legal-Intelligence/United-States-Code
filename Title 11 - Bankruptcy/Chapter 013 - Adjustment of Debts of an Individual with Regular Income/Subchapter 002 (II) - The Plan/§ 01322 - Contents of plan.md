@@ -12,7 +12,7 @@
 
 (b) Subject to subsections (a) and (c) of this section, the plan may—
 
-&emsp;(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtorif an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
+&emsp;(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
 
 &emsp;(2) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims;
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(c) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to casescommenced under this title before Oct. 22, 1994, and amendment by section 305(c) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -140,7 +140,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1)(C), (2)(C), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d), dollar amount “625” was adjusted to “675” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1)(C), (2)(C), dollar amount “575” was adjusted to “625”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d), dollar amount “525” was adjusted to “575” each time it appeared.
 

@@ -102,9 +102,9 @@
 |  |  |
 | :--- | ---: |
 | 239<i>l.</i> | Establishment. |
-| 239<i>l</i>–1. | Administration. |
-| 239<i>l</i>–2. | Students; selection; obligation. |
-| 239<i>l</i>–3. | Funding. |
+| 239l–1. | Administration. |
+| 239l–2. | Students; selection; obligation. |
+| 239l–3. | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -284,11 +284,11 @@
 |  |  |
 | :--- | ---: |
 | 254<i>l.</i> | National Health Service Corps Scholarship Program. |
-| 254<i>l</i>–1. | National Health Service Corps Loan Repayment Program. |
+| 254l–1. | National Health Service Corps Loan Repayment Program. |
 | [254m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254m%20-%20Obligated%20service%20under%20contract.md) | Obligated service under contract. |
 | [254n.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254n%20-%20Private%20practice.md) | Private practice. |
 | 254<i>o.</i> | Breach of scholarship contract or loan repayment contract. |
-| 254<i>o</i>–1. | Fund regarding use of amounts recovered for contract breach to replace services lost as result of breach. |
+| 254o–1. | Fund regarding use of amounts recovered for contract breach to replace services lost as result of breach. |
 | [254p.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254p%20-%20Special%20loans%20for%20former%20Corps%20members%20to%20enter%20private%20practice.md) | Special loans for former Corps members to enter private practice. |
 | [254q.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254q%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 254q–1. | Grants to States for loan repayment programs. |
@@ -466,8 +466,8 @@
 |  |  |
 | :--- | ---: |
 | [274k.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/%C2%A7%2000274k%20-%20National%20Program.md) | National Program. |
-| 274<i>l</i>. | Stem cell therapeutic outcomes database. |
-| 274<i>l</i>–1. | Definitions. |
+| [274l.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/%C2%A7%2000274l%20-%20Stem%20cell%20therapeutic%20outcomes%20database.md) | Stem cell therapeutic outcomes database. |
+| 274l–1. | Definitions. |
 | [274m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/%C2%A7%2000274m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 275 to 280a–1. | Repealed. |
 
@@ -637,9 +637,9 @@
 |  |  |
 | :--- | ---: |
 | 280<i>l.</i> | Technical assistance for employer-based wellness programs. |
-| 280<i>l</i>–1. | National worksite health policies and programs study. |
-| 280<i>l</i>–2. | Prioritization of evaluation by Secretary. |
-| 280<i>l</i>–3. | Prohibition of Federal workplace wellness requirements. |
+| 280l–1. | National worksite health policies and programs study. |
+| 280l–2. | Prioritization of evaluation by Secretary. |
+| 280l–3. | Prohibition of Federal workplace wellness requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -677,7 +677,7 @@
 | 283h, 283i. | Transferred. |
 | [283j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283j%20-%20Review%20of%20centers%20of%20excellence.md) | Review of centers of excellence. |
 | [283k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283k%20-%20Biomedical%20and%20behavioral%20research%20facilities.md) | Biomedical and behavioral research facilities. |
-| 283<i>l</i>. | Construction of regional centers for research on primates. |
+| [283l.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283l%20-%20Construction%20of%20regional%20centers%20for%20research%20on%20primates.md) | Construction of regional centers for research on primates. |
 | [283m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283m%20-%20Sanctuary%20system%20for%20surplus%20chimpanzees.md) | Sanctuary system for surplus chimpanzees. |
 | [283n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283n%20-%20Shared%20Instrumentation%20Grant%20Program.md) | Shared Instrumentation Grant Program. |
 
@@ -699,8 +699,9 @@
 | [284i.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284i%20-%20Autoimmune%20diseases.md) | Autoimmune diseases. |
 | [284j.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284j%20-%20Muscular%20dystrophy%20research.md) | Muscular dystrophy research. |
 | [284k.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284k%20-%20Clinical%20research.md) | Clinical research. |
-| 284<i>l</i>. | Enhancement awards. |
+| [284l.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284l%20-%20Enhancement%20awards.md) | Enhancement awards. |
 | [284m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284m%20-%20Program%20for%20pediatric%20studies%20of%20drugs.md) | Program for pediatric studies of drugs. |
+| 284m–1. | Pediatric Advisory Committee. |
 | [284n.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284n%20-%20Certain%20demonstration%20projects.md) | Certain demonstration projects. |
 | 284<i>o.</i> | Activities of the National Institutes of Health with respect to research on paralysis. |
 | [284p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284p%20-%20Activities%20of%20the%20National%20Institutes%20of%20Health%20with%20respect%20to%20research%20with%20implications%20for%20enhancing%20daily%20function%20for%20persons%20with%E2%80%A6.md) | Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis. |
@@ -728,6 +729,7 @@
 | 285a–10. | Research, information, and education with respect to blood cancer. |
 | 285a–11. | Pediatric cancer research and awareness. |
 | 285a–12. | Interagency Breast Cancer and Environmental Research Coordinating Committee. |
+| 285a–13. | Scientific framework for recalcitrant cancers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -874,13 +876,13 @@
 
 |  |  |
 | :--- | ---: |
-| 285<i>l</i>. | Purpose of Institute. |
-| 285<i>l</i>–1. | Applied Toxicological Research and Testing Program. |
-| 285<i>l</i>–2. | Definitions. |
-| 285<i>l</i>–3. | Interagency Coordinating Committee on the Validation of Alternative Methods. |
-| 285<i>l</i>–4. | Federal agency action. |
-| 285<i>l</i>–5. | Application. |
-| 285<i>l</i>–6. | Methods of controlling certain insect and vermin populations. |
+| [285l.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20012%20-%20National%20Institute%20of%20Environmental%20Health%20Sciences/%C2%A7%2000285l%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
+| 285l–1. | Applied Toxicological Research and Testing Program. |
+| 285l–2. | Definitions. |
+| 285l–3. | Interagency Coordinating Committee on the Validation of Alternative Methods. |
+| 285l–4. | Federal agency action. |
+| 285l–5. | Application. |
+| 285l–6. | Methods of controlling certain insect and vermin populations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -913,10 +915,10 @@
 |  |  |
 | :--- | ---: |
 | 285<i>o.</i> | Purpose of Institute. |
-| 285<i>o</i>–1. | Associate Director for Prevention. |
-| 285<i>o</i>–2. | Drug Abuse Research Centers. |
-| 285<i>o</i>–3. | Office on AIDS. |
-| 285<i>o</i>–4. | Medication Development Program. |
+| 285o–1. | Associate Director for Prevention. |
+| 285o–2. | Drug Abuse Research Centers. |
+| 285o–3. | Office on AIDS. |
+| 285o–4. | Medication Development Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1361,7 +1363,7 @@
 | 291m–1. | Loans for certain hospital experimentation projects. |
 | 291n, 291n–1. | Repealed or Omitted. |
 | 291<i>o.</i> | Definitions. |
-| 291<i>o</i>–1. | Financial statements. |
+| 291o–1. | Financial statements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1432,8 +1434,8 @@
 | [293k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/Subpart%20001%20-%20Medical%20Training%20Generally/%C2%A7%2000293k%20-%20Primary%20care%20training%20and%20enhancement.md) | Primary care training and enhancement. |
 | 293k–1. | Training opportunities for direct care workers. |
 | 293k–2. | Training in general, pediatric, and public health dentistry. |
-| 293<i>l</i>. | Advisory Committee on Training in Primary Care Medicine and Dentistry. |
-| 293<i>l</i>–1. | Teaching health centers development grants. |
+| [293l.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/Subpart%20001%20-%20Medical%20Training%20Generally/%C2%A7%2000293l%20-%20Advisory%20Committee%20on%20Training%20in%20Primary%20Care%20Medicine%20and%20Dentistry.md) | Advisory Committee on Training in Primary Care Medicine and Dentistry. |
+| 293l–1. | Teaching health centers development grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1472,7 +1474,7 @@
 |  |  |
 | :--- | ---: |
 | [294n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294n%20-%20Health%20professions%20workforce%20information%20and%20analysis.md) | Health professions workforce information and analysis. |
-| 294<i>o</i>. | Advisory Council on Graduate Medical Education. |
+| [294o.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294o%20-%20Advisory%20Council%20on%20Graduate%20Medical%20Education.md) | Advisory Council on Graduate Medical Education. |
 | [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294p%20-%20Pediatric%20rheumatology.md) | Pediatric rheumatology. |
 | [294q.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294q%20-%20National%20Health%20Care%20Workforce%20Commission.md) | National Health Care Workforce Commission. |
 | [294r.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294r%20-%20State%20health%20care%20workforce%20development%20grants.md) | State health care workforce development grants. |
@@ -1514,9 +1516,9 @@
 | [295n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
 | 295n–1. | Application. |
 | 295n–2. | Use of funds. |
-| 295<i>o</i>. | Matching requirement. |
-| 295<i>o</i>–1. | Generally applicable provisions. |
-| 295<i>o</i>–2. | Technical assistance. |
+| [295o.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295o%20-%20Matching%20requirement.md) | Matching requirement. |
+| 295o–1. | Generally applicable provisions. |
+| 295o–2. | Technical assistance. |
 | [295p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295p%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1642,7 +1644,7 @@
 | 299b–5. | Health care practice and technology innovation. |
 | 299b–6. | Coordination of Federal Government quality improvement efforts. |
 | 299b–7. | Research on outcomes of health care items and services. |
-| 299b–8. | Federal Coordinating Council for Comparative Effectiveness Research. |
+| 299b–8. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2000,7 +2002,7 @@
 | :--- | ---: |
 | [300k.](Subchapter%20013%20%28XIII%29%20-%20Preventive%20Health%20Measures%20with%20Respect%20to%20Breast%20and%20Cervical%20Cancers/%C2%A7%2000300k%20-%20Establishment%20of%20program%20of%20grants%20to%20States.md) | Establishment of program of grants to States. |
 | 300<i>l.</i> | Requirement of matching funds. |
-| 300<i>l</i>–1. | Requirement regarding medicaid. |
+| 300l–1. | Requirement regarding medicaid. |
 | [300m.](Subchapter%20013%20%28XIII%29%20-%20Preventive%20Health%20Measures%20with%20Respect%20to%20Breast%20and%20Cervical%20Cancers/%C2%A7%2000300m%20-%20Requirements%20with%20respect%20to%20type%20and%20quality%20of%20services.md) | Requirements with respect to type and quality of services. |
 | [300n.](Subchapter%20013%20%28XIII%29%20-%20Preventive%20Health%20Measures%20with%20Respect%20to%20Breast%20and%20Cervical%20Cancers/%C2%A7%2000300n%20-%20Additional%20required%20agreements.md) | Additional required agreements. |
 | 300n–1. | Description of intended uses of grant. |
@@ -2016,7 +2018,7 @@
 
 |  |  |
 | :--- | ---: |
-| 300<i>o</i> to 300p–3. | Repealed. |
+| 300o to 300p–3. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2853,16 +2855,7 @@
 
 |  |  |
 | :--- | ---: |
-| 300<i>ll.</i> | Purpose. |
-| 300<i>ll</i>–1. | Definitions. |
-| 300<i>ll</i>–2. | CLASS Independence Benefit Plan. |
-| 300<i>ll</i>–3. | Enrollment and disenrollment requirements. |
-| 300<i>ll</i>–4. | Benefits. |
-| 300<i>ll</i>–5. | CLASS Independence Fund. |
-| 300<i>ll</i>–6. | CLASS Independence Advisory Council. |
-| 300<i>ll</i>–7. | Solvency and fiscal independence; regulations; annual report. |
-| 300<i>ll</i>–8. | Inspector General's report. |
-| 300<i>ll</i>–9. | Tax treatment of program. |
+| 300ll to 300ll–9. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

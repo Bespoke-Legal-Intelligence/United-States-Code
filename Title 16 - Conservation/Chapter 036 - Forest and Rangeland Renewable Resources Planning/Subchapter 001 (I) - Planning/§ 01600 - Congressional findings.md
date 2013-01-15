@@ -40,13 +40,13 @@ Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–588 provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
+Pub. L. 94–588, §1, Oct. 22, 1976, 90 Stat. 2949, provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, provided: “That this Act \[enacting this subchapter and amending section 581h of this title\] may be cited as the ‘Forest and Rangeland Renewable Resources Planning Act of 1974’.”
+Pub. L. 93–378, §1, Aug. 17, 1974, 88 Stat. 476, provided: “That this Act \[enacting this subchapter and amending section 581h of this title\] may be cited as the ‘Forest and Rangeland Renewable Resources Planning Act of 1974’.”
 
 #### Separability
 
-Section 21 of Pub. L. 94–588 provided that: “If any provision of this Act \[see Short Title of 1976 Amendment note set out above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 94–588, §21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any provision of this Act \[see Short Title of 1976 Amendment note set out above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 

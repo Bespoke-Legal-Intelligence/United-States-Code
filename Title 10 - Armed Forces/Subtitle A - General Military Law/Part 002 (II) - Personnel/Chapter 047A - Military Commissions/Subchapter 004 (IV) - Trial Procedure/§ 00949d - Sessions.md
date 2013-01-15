@@ -24,7 +24,7 @@ Closure of Proceedings.—(1) The military judge may close to the public all or 
 
 (2) The military judge may close to the public all or a portion of the proceedings under paragraph (1) only upon making a specific finding that such closure is necessary to—
 
-&emsp;(A) protect information the disclosure of which could reasonably be expected to cause damage to the national security, including intelligence or law enforcement sources, methods, or activities; or
+&emsp;(A) protect information the disclosure of which could reasonably be expected to causedamage to the national security, including intelligence or law enforcement sources, methods, or activities; or
 
 &emsp;(B) ensure the physical safety of individuals.
 

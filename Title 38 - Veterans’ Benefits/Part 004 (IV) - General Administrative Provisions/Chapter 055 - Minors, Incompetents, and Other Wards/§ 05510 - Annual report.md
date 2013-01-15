@@ -22,13 +22,13 @@ The Secretary shall include in the Annual Benefits Report of the Veterans Benefi
 
 &emsp;(10) Such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 108–454, title V, §505(a), Dec. 10, 2004, 118 Stat. 3621; amended Pub. L. 111–275, title X, §1001(<i>l</i>), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 108–454, title V, §505(a), Dec. 10, 2004, 118 Stat. 3621; amended Pub. L. 111–275, title X, §1001(l), Oct. 13, 2010, 124 Stat. 2897.)
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–275, §1001(<i>l</i>)(1), substituted “following:” for “following: —” in introductory provisions.
+<b>2010</b>—Pub. L. 111–275, §1001(l)(1), substituted “following:” for “following: —” in introductory provisions.
 
-Par. (9). Pub. L. 111–275, §1001(<i>l</i>)(2), substituted “Government” for “government”.
+Par. (9). Pub. L. 111–275, §1001(l)(2), substituted “Government” for “government”.
 
 #### Effective Date
 

@@ -126,7 +126,7 @@
 
 #### (C) Statement of attorneys’ fees or costs sought
 
-&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought. Such information shall be clearly summarized on the cover page of any notice to a party of any proposed or final settlement agreement.
+&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought\(including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought. Such information shall be clearly summarized on the cover page of any notice to a party of any proposed or final settlement agreement.
 
 #### (D) Identification of lawyers’ representatives
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in thecustody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -250,7 +250,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (3) “Mean trading price” defined
 
-&emsp;For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security,determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
+&emsp;For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security, determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
 
 #### (f) Proportionate liability
 
@@ -416,7 +416,7 @@ Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted “subpara
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1998 Amendment
 
@@ -428,7 +428,7 @@ Amendment by Pub. L. 104–67 not to affect or apply to any private action arisi
 
 #### Effective Date
 
-This section not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
+This section not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
 
 #### Construction
 

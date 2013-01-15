@@ -6,7 +6,7 @@ To be eligible to receive assistance under section 12571(a) of this title or app
 
 #### (b) Types of permissible application information
 
-In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
+In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may requirethe following information to be provided in an application submitted under subsection (a) of this section:
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
@@ -112,7 +112,7 @@ An application submitted under subsection (a) for programs described in 12572(a)
 
 #### (h) Limitation on same project receiving multiple grants
 
-Unless specifically authorized by law, the Corporation may not provide more than 1 grantunder the national service laws for a fiscal year to support the same project under the national service laws.
+Unless specifically authorized by law, the Corporation may not provide more than 1 grant under the national service laws for a fiscal year to support the same project under the national service laws.
 
 (Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800; amended Pub. L. 111–13, title I, §1308, Apr. 21, 2009, 123 Stat. 1505.)
 
@@ -148,7 +148,7 @@ Subsec. (g)(1). Pub. L. 111–13, §1308(7)(A), substituted “an applicant” f
 
 Subsec. (g)(2). Pub. L. 111–13, §1308(7)(B)(i), (ii), substituted “Applicant” for “Program applicant” in heading and “applicant” for “program applicant” in introductory provisions.
 
-Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted “territory,” after “subdivision of a State,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
+Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted “territory,” after “subdivision of aState,” and substituted “or institution of higher education” for “institution of higher education, or Federal agency”.
 
 Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: “The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation.”
 

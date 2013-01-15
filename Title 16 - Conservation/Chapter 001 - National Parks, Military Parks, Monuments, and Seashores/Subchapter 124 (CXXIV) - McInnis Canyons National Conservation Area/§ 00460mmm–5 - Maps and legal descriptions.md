@@ -22,7 +22,7 @@ Copies of the Map and the legal descriptions shall be on file and available for 
 
 #### (d) Map controlling
 
-Subject to section 460mmm–4(<i>l</i>)(3) <sup>1</sup> of this title, in the case of a discrepancy between the Map and the descriptions, the Map shall control.
+Subject to section 460mmm–4(l)(3) <sup>1</sup> of this title, in the case of a discrepancy between the Map and the descriptions, the Map shall control.
 
 (Pub. L. 106–353, §7, Oct. 24, 2000, 114 Stat. 1379.)
 

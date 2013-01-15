@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriateand practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
+&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
 
 #### (2) Procedures
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events;
 
-&emsp;&emsp;(D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advanced technologies, and new countermeasures are adequately considered;
+&emsp;&emsp;(D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advancedtechnologies, and new countermeasures are adequately considered;
 
 &emsp;&emsp;(E) devise plans for the effective and timely supply-chain management of the stockpile, in consultation with appropriate Federal, State and local agencies, and the public and private health care infrastructure;
 
@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess on an ongoing basis the availability and appropriateness of specific countermeasures to address specific threats identified under paragraph (2).
+&emsp;&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess on an ongoing basis the availability and appropriateness of specific countermeasures toaddress specific threats identified under paragraph (2).
 
 #### (B) Information
 
@@ -198,7 +198,7 @@
 
 #### (II) Discounted payment
 
-&emsp;&emsp;&emsp;&emsp;The contract may provide for a discounted price per unit of a product that is not licensed, cleared, or approved as described in paragraph (1)(B)(i)(III)(aa) at the time of delivery, and may provide for payment of an additional amount per unit if the product becomes so licensed, cleared, or approved before the expiration date of the contract (including anadditional amount per unit of product delivered before the effective date of such licensing, clearance, or approval).
+&emsp;&emsp;&emsp;&emsp;The contract may provide for a discounted price per unit of a product that is not licensed, cleared, or approved as described in paragraph (1)(B)(i)(III)(aa) at the time of delivery, and may provide for payment of an additional amount per unit if the product becomes so licensed, cleared, or approved before the expiration date of the contract (including an additional amount per unit of product delivered before the effective date of such licensing, clearance, or approval).
 
 #### (III) Contract duration
 
@@ -334,7 +334,7 @@
 
 &emsp;&emsp;For purposes of this section, the term “designated congressional committees” means the following committees of the Congress:
 
-&emsp;&emsp;&emsp;(i) In the House of Representatives: the Committee on Energy and Commerce, the Committee on Appropriations, the Committee on Government Reform, and the Select Committee on Homeland Security (or any successor to the Select Committee).
+&emsp;&emsp;&emsp;(i) In the House of Representatives: the Committee on Energy and Commerce, the Committee on Appropriations, the Committee on Government Reform, and theSelect Committee on Homeland Security (or any successor to the Select Committee).
 
 &emsp;&emsp;&emsp;(ii) In the Senate: the appropriate committees.
 

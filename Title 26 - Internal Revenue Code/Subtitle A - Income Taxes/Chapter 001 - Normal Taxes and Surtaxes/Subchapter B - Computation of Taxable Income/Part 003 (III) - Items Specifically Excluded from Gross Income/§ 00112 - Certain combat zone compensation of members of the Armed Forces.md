@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;(2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950) engaged in combat.
 
-&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
+&emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by ExecutiveOrder as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
 
 &emsp;(4) The term “compensation” does not include pensions and retirement pay.
 
@@ -86,19 +86,19 @@ Subsec. (c)(5). Pub. L. 93–597, §2(b), struck out par. (5) which defined “i
 
 #### Effective Date of 1975 Amendment
 
-Section 2(c) of Pub. L. 93–597 provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 1973.”
+Pub. L. 93–597, §2(c), Jan. 2, 1975, 88 Stat. 1950, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 1973.”
 
 #### Effective Date of 1972 Amendment
 
-Section 3(a)(1) of Pub. L. 92–279 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
+Pub. L. 89–739, §2, Nov. 2, 1966, 80 Stat. 1165, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones.”
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37,United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones.”
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -150,7 +150,7 @@ Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date
 
 #### Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date
 
-Section 1 of Pub. L. 104–117 provided that:
+Pub. L. 104–117, §1, Mar. 20, 1996, 110 Stat. 827, provided that:
 
 “(a)
 
@@ -206,7 +206,7 @@ Withholding.—Subsection (a)(5) and the amendment made by subsection (c) shall 
 
 #### Refund or Credit of Overpayment; Applicable Period
 
-Section 3(a)(2), (3) of Pub. L. 92–279, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–279, §3(a)(2), (3), Apr. 26, 1972, 86 Stat. 125, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(2) If refund or credit of any overpayment for any taxable year resulting from the application of the amendment made by the first section of this Act \[amending this section\] (including interest, additions to the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
 
@@ -230,7 +230,7 @@ Ex. Ord. No. 11216, Apr. 24, 1965, 30 F.R. 5817, provided:
 
 Pursuant to the authority vested in me by section 112 of the Internal Revenue Code of 1954 \[now I.R.C. 1986\], I hereby designate, for the purposes of that section, as an area in which Armed Forces of the United States are and have been engaged in combat:
 
-Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.; thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ NLat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
+Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.; thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
 
 The date of the commencing of combatant activities in such area is hereby designated as January 1, 1964.
 

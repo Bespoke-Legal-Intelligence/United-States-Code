@@ -80,6 +80,10 @@ In subsection (e)(1), the words “under subsection (a) of this section from app
 
 In subsection (e)(2) and (3), the words “from apportionment” and “for apportionment for use in a State” are omitted as surplus.
 
+#### Repeal of Section
+
+<i>Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title, this section is repealed.</i>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, §3029(a)(1), substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
@@ -93,4 +97,8 @@ Subsec. (d). Pub. L. 109–59, §3029(a)(2), substituted “shall ensure uniform
 Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
 
 Subsec. (f). Pub. L. 109–59, §3029(a)(3), struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
+
+#### Effective Date of Repeal
+
+Pub. L. 112–141, div. B, §20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title.
 

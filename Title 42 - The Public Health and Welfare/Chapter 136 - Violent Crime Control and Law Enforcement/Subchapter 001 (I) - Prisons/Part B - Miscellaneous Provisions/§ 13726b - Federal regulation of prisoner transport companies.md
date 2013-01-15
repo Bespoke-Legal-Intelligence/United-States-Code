@@ -24,7 +24,7 @@ The regulations shall include the following:
 
 &emsp;(8) A requirement that when transporting violent prisoners, private prisoner transport companies notify local law enforcement officials 24 hours in advance of any scheduled stops in their jurisdiction.
 
-&emsp;(9) A requirement that in the event of an escape by a violent prisoner, private prisoner transport company officials shall immediately notify appropriate law enforcement officials in the jurisdiction where the escape occurs, andthe governmental entity that contracted with the private prisoner transport company for the transport of the escaped violent prisoner.
+&emsp;(9) A requirement that in the event of an escape by a violent prisoner, private prisoner transport company officials shall immediately notify appropriate law enforcement officials in the jurisdiction where the escape occurs, and the governmental entity that contracted with the private prisoner transport company for the transport of the escaped violent prisoner.
 
 &emsp;(10) Minimum standards for the safety of violent prisoners in accordance with applicable Federal and State law.
 
@@ -36,7 +36,7 @@ Except for the requirements of subsection (b)(6) of this section, the regulation
 
 #### References in Text
 
-No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service of employees of a motor carrier are contained in chapter 315 (§31501 et seq.) of Title 49, Transportation.
+No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service ofemployees of a motor carrier are contained in chapter 315 (§31501 et seq.) of Title 49, Transportation.
 
 Sections 13726 to 13726c of this title, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 106–560, Dec. 21, 2000, 114 Stat. 2784, known as the Interstate Transportation of Dangerous Criminals Act of 2000 or Jeanna's Act, which enacted this section and sections 13726, 13726a, and 13726c of this title and provisions set out as a note under section 13701 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under 13701 of this title and Tables.
 

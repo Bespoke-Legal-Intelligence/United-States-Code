@@ -32,9 +32,9 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 #### Effective Date
 
-Section 806 of Pub. L. 97–89 provided that: “The amendments made by titles V, VI, and VII and by this title \[enacting this chapter and section 403m of Title 50, War and National Defense, amending sections 2108, 6304, and 8336 of Title 5, Government Organization and Employees, and sections 403e, 403f, and 405 of Title 50, enacting provisions set out as notes under this section and section 402 of Title 50, and amending provisions set out as notes under section 402 of Title 50\] shall take effect as of October 1, 1981.”
+Pub. L. 97–89, title VIII, §806, Dec. 4, 1981, 95 Stat. 1162, provided that: “The amendments made by titles V, VI, and VII and by this title \[enacting this chapter and section 403m of Title 50, War and National Defense, amending sections 2108, 6304, and 8336 of Title 5, Government Organization and Employees, and sections 403e, 403f, and 405 of Title 50, enacting provisions set out as notes under this section and section 402 of Title 50, and amending provisions set out as notes under section 402 of Title 50\] shall take effect as of October 1, 1981.”
 

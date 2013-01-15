@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 101–474, §5(q), and Pub. L. 101–650 amended subsec. (b
 
 #### Effective Date of 1978 Amendment
 
-Section 10 of Pub. L. 95–539 provided that:
+Pub. L. 95–539, §10, Oct. 28, 1978, 92 Stat. 2045, provided that:
 
 “(a) Except as provided in subsection (b), this Act \[enacting section 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1978\].
 
@@ -48,7 +48,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Administrative Office of United States Courts Personnel
 
-Sections 1 to 4 and 6 of Pub. L. 101–474 provided that:
+Pub. L. 101–474, §§1–4, 6, Oct. 30, 1990, 104 Stat. 1097–1099, 1101, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -124,7 +124,7 @@ Sections 1 to 4 and 6 of Pub. L. 101–474 provided that:
 
 #### Contract Limitations
 
-Section 11 of Pub. L. 95–539 provided that: “Any contracts entered into under this Act or any of the amendments made by this Act \[enacting sections 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section\] shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 95–539, §11, Oct. 28, 1978, 92 Stat. 2045, provided that: “Any contracts entered into under this Act or any of the amendments made by this Act \[enacting sections 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and section 1 of this title, and repealing provisions set out as a note under this section\] shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Employment of Experts or Consultants; Rates
 

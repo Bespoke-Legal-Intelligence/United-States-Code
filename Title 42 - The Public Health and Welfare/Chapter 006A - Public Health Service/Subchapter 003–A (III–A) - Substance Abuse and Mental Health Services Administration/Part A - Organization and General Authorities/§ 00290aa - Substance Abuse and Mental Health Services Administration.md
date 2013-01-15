@@ -32,9 +32,9 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(2) establish and implement, through the respective agencies, a comprehensive program to improve the provision of treatment and related services to individuals with respect to substance abuse and mental illness and to improve prevention services, promote mental health and protect the legal rights of individuals with mental illnesses and individuals who are substance abusers;
 
-&emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions thatare required for the implementation of this subchapter;
+&emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
 
-&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
+&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve theavailability and quality of treatment, prevention and related services;
 
 &emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance abuse goals and model programs;
 
@@ -80,7 +80,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Plan
 
-&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, and periodically review and as appropriate revise, a plan for programs and policies to treat andprevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
+&emsp;(A) The Administrator, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall develop, and periodically review and as appropriate revise, a plan for programs and policies to treat and prevent alcoholism and alcohol abuse. The plan shall be developed (and reviewed and revised) in collaboration with the Directors of the Centers of the Administration and in consultation with members of other Federal agencies and public and private entities.
 
 &emsp;(B) Not later than 1 year after July 10, 1992, the Administrator shall submit to the Congress the first plan developed under subparagraph (A).
 
@@ -140,7 +140,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to which women are represented among senior personnel at the Administration.
 
-&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women'sServices with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
+&emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
 
 &emsp;(C) The Secretary shall prepare and provide to the Advisory Committee for Women's Services any additional data as requested.
 
@@ -192,7 +192,7 @@ Not later than February 10, 1994, and once every 2 years thereafter, the Adminis
 
 &emsp;(4) any report required in this subchapter to be submitted to the Adminstrator <sup>1</sup> for inclusion in the report under this subsection.
 
-#### (<i>l</i>) Applications for grants and contracts
+#### (l) Applications for grants and contracts
 
 With respect to awards of grants, cooperative agreements, and contracts under this subchapter, the Administrator, or the Director of the Center involved, as the case may be, may not make such an award unless—
 
@@ -206,7 +206,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (1) In general
 
-&emsp;Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), theSecretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
+&emsp;Notwithstanding section 290aa–3 of this title and except as provided in paragraph (2), the Secretary may use not to exceed 2.5 percent of all amounts appropriated under this subchapter for a fiscal year to make noncompetitive grants, contracts or cooperative agreements to public entities to enable such entities to address emergency substance abuse or mental health needs in local communities.
 
 #### (2) Exceptions
 
@@ -220,7 +220,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
-#### (<i>o</i>) Authorization of appropriations
+#### (o) Authorization of appropriations
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
@@ -248,7 +248,7 @@ Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and re
 
 <b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (<i>o</i>), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
+Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
 
 <b>1999</b>—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
 
@@ -296,7 +296,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
-Section 161 of Pub. L. 102–321 provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
+Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375, provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
 
 #### Effective Date of 1996 Amendment
 
@@ -394,7 +394,7 @@ Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], 
 
 “(f)
 
-Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, theNational Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
+Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise ofsuch function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors.
 
 #### “SEC. 146. TRANSITION.
 
@@ -414,7 +414,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### “SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.
 
-“With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former section 300x(b) of this title\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[sections 285n, 285<i>o</i>, 285p of this title\], as appropriate, subject to satisfactory performance.
+“With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former section 300x(b) of this title\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[sections 285n, 285o, 285p of this title\], as appropriate, subject to satisfactory performance.
 
 #### “SEC. 150. SEPARABILITY.
 
@@ -426,19 +426,19 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
-Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+Pub. L. 102–321, title VII, §708, July 10, 1992, 106 Stat. 440, directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
 #### Relationship Between Mental Illness and Substance Abuse
 
-Section 2071 of Pub. L. 100–690 directed Secretary of Health and Human Services to conduct a study for the purpose of determining the relationship between mental illness and substance abuse, and developing recommendations on the most effective methods of treatment for individuals with both mental illness and substance abuse problems, and, not later than 12 months after Nov. 18, 1988, to complete the study and submit to Congress the findings made as a result of the study.
+Pub. L. 100–690, title II, §2071, Nov. 18, 1988, 102 Stat. 4214, directed Secretary of Health and Human Services to conduct a study for the purpose of determining the relationship between mental illness and substance abuse, and developing recommendations on the most effective methods of treatment for individuals with both mental illness and substance abuse problems, and, not later than 12 months after Nov. 18, 1988, to complete the study and submit to Congress the findings made as a result of the study.
 
 #### Report With Respect to Administration of Certain Research Programs
 
-Section 2073 of Pub. L. 100–690 directed Secretary of Health and Human Services to request National Academy of Sciences to conduct a review of research activities of National Institutes of Health and the Alcohol, Drug Abuse, and Mental Health Administration and, not later than 12 months after the date on which any contract requested is entered into, provide for the completion of the review and submit to Congress a report describing the findings made as a result of the review, with Secretary of Health and Human Services authorized to enter into a contract with National Academy of Sciences to carry out the review.
+Pub. L. 100–690, title II, §2073, Nov. 18, 1988, 102 Stat. 4215, directed Secretary of Health and Human Services to request National Academy of Sciences to conduct a review of research activities of National Institutes of Health and the Alcohol, Drug Abuse, and Mental Health Administration and, not later than 12 months after the date on which any contract requested is entered into, provide for the completion of the review and submit to Congress a report describing the findings made as a result of the review, with Secretary of Health and Human Services authorized to enter into a contract with National Academy of Sciences to carry out the review.
 
 #### Congressional Statement of Policy for Alcohol and Drug Abuse Amendments of 1983
 
-Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United States and the purpose of this Act \[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
+Pub. L. 98–24, §1(b), Apr. 26, 1983, 97 Stat. 175, provided that: “It is the policy of the United States and the purpose of this Act \[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
 
 &emsp;“(1) a continued Federal commitment to research into the behavioral and biomedical etiology, the treatment, and the mental and physical health and social and economic consequences of alcohol abuse and alcoholism and drug abuse;
 
@@ -448,7 +448,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 &emsp;&emsp;“(B) the accomplishment of such dissemination through up-to-date publications, demonstrations, educational programs, and other appropriate means;
 
-&emsp;“(3) the provision of technical assistance to research personnel; services personnel, and preventionpersonnel in the field of alcohol abuse and alcoholism and drug abuse;
+&emsp;“(3) the provision of technical assistance to research personnel; services personnel, and prevention personnel in the field of alcohol abuse and alcoholism and drug abuse;
 
 &emsp;“(4) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, drug abuse, and the abuse of other legal and illegal substances;
 
@@ -458,7 +458,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
-Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
 #### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
 

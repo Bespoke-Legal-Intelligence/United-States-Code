@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 107–273, §12205(4), struck out subsec. (i) which read as
 
 “(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
 
-“(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juveniledelinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
+“(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
 “(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.”
 
@@ -108,13 +108,13 @@ Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (
 
 “(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
-Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
+Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (l) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i>) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (l) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
+Subsecs. (j) to (l). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (l) as (g) to (i), respectively.
 
 Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
 
@@ -124,7 +124,7 @@ Subsec. (b)(2), (4). Pub. L. 98–473, §622(b)(1), (2), substituted “the Admi
 
 Subsec. (b)(7). Pub. L. 98–473, §622(b)(3)–(5), added par. (7).
 
-Subsec. (e). Pub. L. 98–473, §622(c), substituted “subsection (<i>l</i>)” for “subsection (‘<i>l</i>’)”.
+Subsec. (e). Pub. L. 98–473, §622(c), substituted “subsection (l)” for “subsection (‘l’)”.
 
 Subsec. (f). Pub. L. 98–473, §622(d), substituted “the Administrator” for “him” before “with such information” and for “he” before “may deem to be”.
 
@@ -132,11 +132,11 @@ Subsec. (g). Pub. L. 98–473, §622(e), substituted “the functions of the Adm
 
 Subsec. (i). Pub. L. 98–473, §622(f), substituted “section” for “subchapter” and “the Administrator” for “he” before “finds there exists”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 98–473, §622(g)(1), substituted “subsection (d)(1) of this section” for “section 5614(d)(1) of this title” and “subsection (f) of this section” for “section 5614(f) of this title”.
+Subsec. (l)(1). Pub. L. 98–473, §622(g)(1), substituted “subsection (d)(1) of this section” for “section 5614(d)(1) of this title” and “subsection (f) of this section” for “section 5614(f) of this title”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 98–473, §622(g)(2), substituted “paragraph (1)” for “subsection (‘<i>l</i>’)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
+Subsec. (l)(2). Pub. L. 98–473, §622(g)(2), substituted “paragraph (1)” for “subsection (‘l’)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
 
-Subsec. (<i>l</i>)(3). Pub. L. 98–473, §622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘<i>l</i>’)”.
+Subsec. (l)(3). Pub. L. 98–473, §622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘l’)”.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–509, §7(a), struck out reference to the Associate Administrator in provisions preceding par. (1) and in par. (6) inserted reference to training assistance.
 
@@ -148,11 +148,11 @@ Subsec. (i). Pub. L. 96–509, §19(d)(3), substituted “Administrator finds”
 
 Subsec. (k). Pub. L. 96–509, §19(d)(4), substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 96–509, §19(d)(5), substituted “developed by the Administrator” for “developed by the Associate Administrator”.
+Subsec. (l)(1). Pub. L. 96–509, §19(d)(5), substituted “developed by the Administrator” for “developed by the Associate Administrator”.
 
 Subsec. (m). Pub. L. 96–509, §7(b), added subsec. (m).
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–115, §3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysis and evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
+<b>1977</b>—Subsec. (b). Pub. L. 95–115, §3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysisand evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
 
 Subsec. (d)(1). Pub. L. 95–115, §3(b)(2), inserted “Associate” before “Administrator for”.
 
@@ -168,7 +168,7 @@ Subsec. (j). Pub. L. 95–115, §3(b)(6), inserted “organization,” after “
 
 Subsec. (k). Pub. L. 95–115, §3(b)(7), substituted “subchapter” for “part” and “subchapter III of this chapter” for “the Juvenile Delinquency Prevention Act”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 95–115, §3(b)(8), inserted “Associate” before “Administrator under”.
+Subsec. (l)(1). Pub. L. 95–115, §3(b)(8), inserted “Associate” before “Administrator under”.
 
 <b>1976</b>—Subsec. (b)(5). Pub. L. 94–273, §8(3), substituted “December 31” for “September 30”.
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 #### Effective Date
 
-Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (<i>l</i>) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
+Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (l) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
 
 #### Termination of Advisory Committees
 

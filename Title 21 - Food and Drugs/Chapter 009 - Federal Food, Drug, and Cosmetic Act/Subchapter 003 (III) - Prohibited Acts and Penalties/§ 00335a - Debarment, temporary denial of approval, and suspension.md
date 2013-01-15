@@ -108,7 +108,7 @@
 
 &emsp;&emsp;The Secretary shall debar a person under subsection (a) or (b) of this section for the following periods:
 
-&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) of this section shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) of this section occurs within 10 years after such person has been debarred under subsection (a)(1) of this section, the period of debarment shall be permanent.
+&emsp;&emsp;&emsp;(i) The period of debarment of a person (other than an individual) under subsection (a)(1) of this section shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under subsection (a) of this sectionoccurs within 10 years after such person has been debarred under subsection (a)(1) of this section, the period of debarment shall be permanent.
 
 &emsp;&emsp;&emsp;(ii) The debarment of an individual under subsection (a)(2) of this section shall be permanent.
 
@@ -194,7 +194,7 @@
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -264,7 +264,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) of this section in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratorypractice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -316,13 +316,13 @@ Any application for approval of a drug product shall include—
 
 &emsp;(2) if such application is an abbreviated drug application, a list of all convictions, described in subsections (a) and (b) of this section which occurred within the previous 5 years, of the applicant and affiliated persons responsible for the development or submission of such application.
 
-#### (<i>l</i>) Applicability
+#### (l) Applicability
 
 #### (1) Conviction
 
 &emsp;For purposes of this section, a person is considered to have been convicted of a criminal offense—
 
-&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federalor State court, regardless of whether there is an appeal pending,
+&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federal or State court, regardless of whether there is an appeal pending,
 
 &emsp;&emsp;(B) when a plea of guilty or nolo contendere by the person has been accepted by a Federal or State court, or
 
@@ -348,7 +348,7 @@ Any application for approval of a drug product shall include—
 
 #### (3) Termination of debarment; judicial review; other matters
 
-&emsp;Subsections (c)(3), (d), (e), (i), (j), and (<i>l</i>)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
+&emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
 
 (June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
 
@@ -380,7 +380,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 107–188, §304(b)(4)(C), inserted “or subsecti
 
 Subsec. (d)(3)(B)(ii). Pub. L. 107–188, §304(b)(4)(C), (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period.
 
-Subsec. (<i>l</i>)(2). Pub. L. 107–188, §304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
+Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
@@ -388,11 +388,11 @@ Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 #### Construction
 
-Section 7 of Pub. L. 102–282 provided that: “No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act.”
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: “No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act.”
 
 #### Congressional Findings
 
-Section 1(c) of Pub. L. 102–282 provided that: “The Congress finds that—
+Pub. L. 102–282, §1(c), May 13, 1992, 106 Stat. 149, provided that: “The Congress finds that—
 
 &emsp;“(1) there is substantial evidence that significant corruption occurred in the Food and Drug Administration's process of approving drugs under abbreviated drug applications,
 

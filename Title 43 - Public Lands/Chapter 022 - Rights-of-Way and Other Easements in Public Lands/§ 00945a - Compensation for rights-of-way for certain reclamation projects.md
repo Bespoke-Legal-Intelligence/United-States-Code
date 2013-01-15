@@ -10,5 +10,5 @@ Notwithstanding the existence of any reservation of right-of-way to the United S
 
 #### Effective Date of 1966 Amendment
 
-Section 3 of Pub. L. 88–561 as added by Pub. L. 89–624 provided that: “The amendment made by this Act \[enacting section 945b of this title and amending this section\] shall apply to any condemnation action pending in any district court of the United States on the date of enactment of this Act \[Oct. 4, 1966\] and to any such action instituted after that date.”
+Pub. L. 88–561, §3, as added by Pub. L. 89–624, Oct. 4, 1966, 80 Stat. 874, provided that: “The amendment made by this Act \[enacting section 945b of this title and amending this section\] shall apply to any condemnation action pending in any district court of the United States on the date of enactment of this Act \[Oct. 4, 1966\] and to any such action instituted after that date.”
 

@@ -34,13 +34,11 @@
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
-&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a planwho, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
+&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
 
-&emsp;(C) may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and
+&emsp;(C) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminate such payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
 
-&emsp;(D) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminate such payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
-
-(d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) or (D) of subsection (c)(4) of this section.
+(d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) of subsection (c)(4) of this section.
 
 (e)(1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
 
@@ -98,9 +96,9 @@
 
 > any withdrawal liability incurred by the employer pursuant to part 1 of subtitle E of this subchapter as a result of the complete or partial withdrawal of the employer from the multiemployer plan before June 30, 1981, shall be void.
 
-(i) The preceding provisions of this section shall not apply with respect to amendmentsmade to this subchapter in provisions enacted after October 22, 1986.
+(i) The preceding provisions of this section shall not apply with respect to amendments made to this subchapter in provisions enacted after October 22, 1986.
 
-(Pub. L. 93–406, title IV, §4402, formerly §4082, Sept. 2, 1974, 88 Stat. 1034; S. Res. 4, Feb. 4, 1977; Pub. L. 95–214, §1, Dec. 19, 1977, 91 Stat. 1501; S. Res. 30, Mar. 7, 1979; Pub. L. 96–24, June 19, 1979, 93 Stat. 70; Pub. L. 96–239, Apr. 30, 1980, 94 Stat. 341; Pub. L. 96–293, §1, June 30, 1980, 94 Stat. 610; renumbered and amended Pub. L. 96–364, title I, §108(a)–(c)(1), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 98–369, div. A, title V, §558(b)(1)(B), (C), July 18, 1984, 98 Stat. 899; Pub. L. 99–514, title XVIII, §1852(i), Oct. 22, 1986, 100 Stat. 2869; Pub. L. 101–239, title VII, §§7862(a), 7894(h)(5)(A), Dec. 19, 1989, 103 Stat. 2431, 2451.)
+(Pub. L. 93–406, title IV, §4402, formerly §4082, Sept. 2, 1974, 88 Stat. 1034; S. Res. 4, Feb. 4, 1977; Pub. L. 95–214, §1, Dec. 19, 1977, 91 Stat. 1501; S. Res. 30, Mar. 7, 1979; Pub. L. 96–24, June 19, 1979, 93 Stat. 70; Pub. L. 96–239, Apr. 30, 1980, 94 Stat. 341; Pub. L. 96–293, §1, June 30, 1980, 94 Stat. 610; renumbered and amended Pub. L. 96–364, title I, §108(a)–(c)(1), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 98–369, div. A, title V, §558(b)(1)(B), (C), July 18, 1984, 98 Stat. 899; Pub. L. 99–514, title XVIII, §1852(i), Oct. 22, 1986, 100 Stat. 2869; Pub. L. 101–239, title VII, §§7862(a), 7894(h)(5)(A), Dec. 19, 1989, 103 Stat. 2431, 2451; Pub. L. 112–141, div. D, title II, §40234(b)(2), July 6, 2012, 126 Stat. 858.)
 
 #### References in Text
 
@@ -115,6 +113,10 @@ For the effective date of part 1 of subtitle E of this subchapter, referred to i
 Section was formerly classified to section 1381 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(4)(C), (D). Pub. L. 112–141, §40234(b)(2)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and”.
+
+Subsec. (d). Pub. L. 112–141, §40234(b)(2)(B), struck out “or (D)” after “subparagraph (C)”.
 
 <b>1989</b>—Subsec. (h)(1). Pub. L. 101–239, §7862(a), substituted “before January 16, 1982” for “before January 12, 1982” in concluding provisions.
 
@@ -166,13 +168,13 @@ Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senatechanged to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7862(a) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
 
-Section 7894(h)(5)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in the Reform Act \[Pub. L. 99–514\].”
+Pub. L. 101–239, title VII, §7894(h)(5)(B), Dec. 19, 1989, 103 Stat. 2451, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in the Reform Act \[Pub. L. 99–514\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -184,7 +186,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Actions Taken Before Regulations Are Prescribed
 
-Section 405 of Pub. L. 96–364 provided that:
+Pub. L. 96–364, title IV, §405, Sept. 26, 1980, 94 Stat. 1303, provided that:
 
 “(a) Except as otherwise provided in the amendments made by this Act \[see Short Title of 1980 Amendment note set out under section 1001 of this title\] and in subsection (b), if the way in which any such amendment will apply to a particular circumstance is to be set forth in regulations, any reasonable action during the period before such regulations take effect shall be treated as complying with such regulations for such period.
 

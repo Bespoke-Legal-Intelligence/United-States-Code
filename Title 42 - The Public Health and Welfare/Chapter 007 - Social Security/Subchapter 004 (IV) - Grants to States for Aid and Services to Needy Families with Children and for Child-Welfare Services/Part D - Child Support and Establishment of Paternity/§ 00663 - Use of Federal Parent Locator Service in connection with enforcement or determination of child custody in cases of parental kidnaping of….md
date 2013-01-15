@@ -94,9 +94,9 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Effective Date of 1994 Amendment
 
-Section 214(c) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1995.”
+Pub. L. 103–432, title II, §214(c), Oct. 31, 1994, 108 Stat. 4461, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1995.”
 
 #### Effective Date
 
-Section 9(d) of Pub. L. 96–611 provided that: “No agreement entered into under section 463 of the Social Security Act \[this section\] shall become effective before the date on which section 1738A of title 28, United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
+Pub. L. 96–611, §9(d), Dec. 28, 1980, 94 Stat. 3573, provided that: “No agreement entered into under section 463 of the Social Security Act \[this section\] shall become effective before the date on which section 1738A of title 28, United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
 

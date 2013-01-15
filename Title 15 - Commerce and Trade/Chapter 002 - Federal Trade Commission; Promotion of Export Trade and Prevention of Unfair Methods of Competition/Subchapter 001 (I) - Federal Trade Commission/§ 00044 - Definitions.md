@@ -20,15 +20,15 @@ The words defined in this section shall have the following meaning when found in
 
 &emsp;(2) any multinational organization, to the extent that it is acting on behalf of an entity described in paragraph (1).
 
-(Sept. 26, 1914, ch. 311, §4, 38 Stat. 719; Mar. 21, 1938, ch. 49, §2, 52 Stat. 111; Pub. L. 102–242, title II, §212(g)(1), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(B), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 109–455, §2, Dec. 22, 2006, 120 Stat. 3372.)
+(Sept. 26, 1914, ch. 311, §4, 38 Stat. 719; Mar. 21, 1938, ch. 49, §2, 52 Stat. 111; Pub. L. 102–242, title II, §212(g)(1), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(B), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 109–455, §§2, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+<i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### References in Text
 
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, referred to in the text, is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
 
@@ -44,7 +44,9 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–455, §§2, 13, temporarily added par. defining “Foreign law enforcement agency”. See Termination Date of 2006 Amendment note below.
+<b>2012</b>—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment note below.
+
+<b>2006</b>—Pub. L. 109–455, §2, which added par. defining “Foreign law enforcement agency”, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 <b>2002</b>—Pub. L. 107–273 substituted “73 to 76” for “73 to 77” in par. defining “Antitrust Acts”.
 
@@ -54,7 +56,7 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 #### Termination Date of 2006 Amendment
 
-Pub. L. 109–455, §13, Dec. 22, 2006, 120 Stat. 3382, provided that: “This Act \[enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title\], and amendments made by this Act, shall cease to have effect on the date that is 7 years after the date of enactment of this Act \[Dec. 22, 2006\].”
+Pub. L. 109–455, §13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484, provided that: “Effective September 30, 2020, this Act \[enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title\], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law.”
 
 #### Effective Date of 2002 Amendment
 
@@ -63,4 +65,6 @@ Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with 
 #### Preservation of Existing Authority
 
 Pub. L. 109–455, §12, Dec. 22, 2006, 120 Stat. 3382, provided that: “The authority provided by this Act \[see Termination Date of 2006 Amendment note above\], and by the Federal Trade Commission Act (15 U.S.C. 41 et seq.) and the Right to Financial Privacy Act \[of 1978\] (12 U.S.C. 3401 et seq.), as such Acts are amended by this Act, is in addition to, and not in lieu of, any other authority vested in the Federal Trade Commission or any other officer of the United States.”
+
+\[Section 12 of Pub. L. 109–455, set out above, repealed effective Sept. 30, 2020, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a Termination Date of 2006 Amendment note above.\]
 

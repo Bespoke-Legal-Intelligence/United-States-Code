@@ -60,13 +60,13 @@ Upon the approval of the Chief—
 
 &emsp;(1) an officer of the United States Capitol Police in a service step who has demonstrated meritorious service (in accordance with criteria established by the Chief or the Chief's designee) may be advanced in compensation to the next higher service step, effective with the first pay period which begins after the date of the Chief's approval; and
 
-&emsp;(2) an officer of the United States Capitol Police in a service step who has demonstrated extraordinary performance (in accordance with criteria established by the Chief or the Chief's designee) may be advanced in compensation to the second next higher service step, effective with the first pay period which begins after the date of the Chief's approval.
+&emsp;(2) an officer of the United States Capitol Police in a service step who has demonstrated extraordinary performance (in accordance with criteria established by the Chief or the Chief's designee) may be advanced in compensation to the second next higher servicestep, effective with the first pay period which begins after the date of the Chief's approval.
 
 #### (e) Regulations
 
 #### (1) In general
 
-&emsp;The payment of bonuses, allowances, step increases, compensation, and other paymentspursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
+&emsp;The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
 #### (2) Repealed. Pub. L. 108–7, div. H, title I, §1004(2), Feb. 20, 2003, 117 Stat. 358
 

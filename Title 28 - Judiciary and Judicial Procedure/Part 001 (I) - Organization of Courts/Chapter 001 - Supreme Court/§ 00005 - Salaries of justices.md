@@ -18,7 +18,7 @@ Section 225 of the Federal Salary Act of 1967, referred to in text, is section 2
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–82 substituted provisions setting the annual salary of the Chief Justice and each associatejustice at rates determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provisions granting the Chief Justice and each associate justice a salary of $40,000 and $39,500 a year, respectively.
+<b>1975</b>—Pub. L. 94–82 substituted provisions setting the annual salary of the Chief Justice and each associate justice at rates determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provisions granting the Chief Justice and each associate justice a salary of $40,000 and $39,500 a year, respectively.
 
 <b>1964</b>—Pub. L. 88–426 increased salary of Chief Justice from $35,500 to $40,000 and that of Associate Justices from $35,000 to $39,500.
 

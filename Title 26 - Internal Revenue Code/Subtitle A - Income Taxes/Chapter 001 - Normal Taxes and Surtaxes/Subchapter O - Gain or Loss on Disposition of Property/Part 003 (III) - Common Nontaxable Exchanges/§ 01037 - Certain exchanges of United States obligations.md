@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When so provided by regulations promulgated by the Secretary in connection with the issue ofobligations of the United States, no gain or loss shall be recognized on the surrender to the United States of obligations of the United States issued under chapter 31 of title 31 in exchange solely for other obligations issued under such chapter.
+When so provided by regulations promulgated by the Secretary in connection with the issue of obligations of the United States, no gain or loss shall be recognized on the surrender to the United States of obligations of the United States issued under chapter 31 of title 31 in exchange solely for other obligations issued under such chapter.
 
 #### (b) Application of original issue discount rules
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Section 203 of Pub. L. 86–346 provided that: “The amendments made by this title \[enacting this section and amending section 1031 of this title and section 742a of former Title 31, Money and Finance\] shall be effective for taxable years ending after the date of enactment of this Act \[Sept. 22, 1959\].”
+Pub. L. 86–346, title II, §203, Sept. 22, 1959, 73 Stat. 624, provided that: “The amendments made by this title \[enacting this section and amending section 1031 of this title and section 742a of former Title 31, Money and Finance\] shall be effective for taxable years ending after the date of enactment of this Act \[Sept. 22, 1959\].”
 

@@ -20,7 +20,7 @@ The necessary moneys to make such refunds are authorized to be appropriated annu
 
 #### (d) Goods qualifying under free trade agreement rules of origin
 
-Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title, section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title, section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act , or section 202 of the United States–Korea Free Trade Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title, section 202 of the United States-Chile Free Trade Agreement Implementation Act, section 4033 of this title, section 202 of the United States-Oman Free Trade Agreement Implementation Act, section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, section 202 of the United States–Korea Free Trade Agreement Implementation Act, section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
 &emsp;(1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
@@ -32,11 +32,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 #### Amendment of Section
 
-<i>Pub. L. 112–43, title I, §107(a), title II, §206, Oct. 21, 2011, 125 Stat. 501, 520, provided that, effective on the date on which the United States–Panama Trade Promotion Agreement enters into force, subsection (d) of this section is amended in the matter preceding paragraph (1) by striking “or” and by striking “for which” and inserting “, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which”. See 2011 Amendment note below.</i>
-
 <i>For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–42, title I, §107(a), title II, §206, Oct. 21, 2011, 125 Stat. 466, 484, provided that, effective on the date the United States–Columbia Trade Promotion Agreement enters into force, subsection (d) of this section is amended in the matter preceding paragraph (1) by striking “or” and by striking “for which” and inserting “, or section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act for which”. See 2011 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.</i>
 
@@ -60,6 +56,10 @@ Section 203 of the United States-Peru Trade Promotion Agreement Implementation A
 
 Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 
+Section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, referred to in subsec. (d), is section 203 of Pub. L. 112–42, which is set out in a note under section 3805 of this title.
+
+Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (d), is section 203 of Pub. L. 112–43, which is set out in a note under section 3805 of this title.
+
 #### Codification
 
 Act June 26, 1934, effective July 1, 1935, provided for repeal of certain permanent appropriations authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
@@ -70,7 +70,7 @@ This section, as originally enacted, contained a paragraph (b) making a permanen
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragraph (a) for refund of moneys paid on account of unascertained or estimated duties or payments on appeal, and for correction of clerical errors within one year, with further provisionsmaking an appropriation and requiring reports to Congress of moneys refunded, were contained in act Oct. 3, 1913, ch. 16, §III, Y, 38 Stat. 191, which reenacted the provisions of Customs Administrative Act June 10, 1890, ch. 407, §24, 26 Stat. 140, as renumbered and reenacted by Payne-Aldrich Tariff Act of August 5, 1909, ch. 6, §28, 36 Stat. 103. Said section III, Y, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragraph (a) for refund of moneys paid on account of unascertained or estimated duties or payments on appeal, and for correction of clerical errors within one year, with further provisions making an appropriation and requiring reports to Congress of moneys refunded, were contained in act Oct. 3, 1913, ch. 16, §III, Y, 38 Stat. 191, which reenacted the provisions of Customs Administrative Act June 10, 1890, ch. 407, §24, 26 Stat. 140, as renumbered and reenacted by Payne-Aldrich Tariff Act of August 5, 1909, ch. 6, §28, 36 Stat. 103. Said section III, Y, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 Provisions concerning the refund of moneys collected as duties in accordance with any decision, etc., of the Secretary of the Treasury, with provisos concerning reliquidations, correction of errors, household effects and other articles exempt from duty, were contained in act March 3, 1875, ch. 136, 18 Stat. 469, which was also repealed by section 643 of the act of Sept. 21, 1922.
 
@@ -132,9 +132,9 @@ Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–42 effective on the date the United States–Columbia Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–42 effective on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–41 effective on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
@@ -188,7 +188,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Construction of 1993 Amendment
 
-Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L.103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

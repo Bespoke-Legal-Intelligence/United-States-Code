@@ -26,7 +26,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(iii) for such other purposes as the Secretary may find necessary;
 
-&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary to enable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
+&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary toenable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
 
 &emsp;(6) maintain records of all amounts collected and disbursed under programs established pursuant to the provisions of this part and of the costs incurred in collecting such amounts;
 
@@ -38,7 +38,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(10) not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following:
 
-&emsp;&emsp;(A) total program costs and collections set forth in sufficient detail to show the cost tothe States and the Federal Government, the distribution of collections to families, State and local governmental units, and the Federal Government; and an identification of the financial impact of the provisions of this part, including—
+&emsp;&emsp;(A) total program costs and collections set forth in sufficient detail to show the cost to the States and the Federal Government, the distribution of collections to families, State and local governmental units, and the Federal Government; and an identification of the financial impact of the provisions of this part, including—
 
 &emsp;&emsp;&emsp;(i) the total amount of child support payments collected as a result of services furnished during the fiscal year to individuals receiving services under this part;
 
@@ -154,7 +154,7 @@ The Secretary shall provide such technical assistance to States as he determines
 
 #### (f) Regulations
 
-The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part ofa child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term “medical support” may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
+The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term “medical support” may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
 
 #### (g) Performance standards for State paternity establishment programs
 
@@ -186,7 +186,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 > &emsp;bears to the total number of children born out of wedlock and (except as provided in such last sentence) with respect to whom assistance was being provided under the State program funded under part A of this subchapter as of the end of the preceding fiscal year or with respect to whom services were being provided under the State's plan approved under this part as of the end of the preceding fiscal year pursuant to an application submitted under section 654(4)(A)(ii) of this title;
 
-&emsp;(B) the term “statewide paternity establishment percentage” means, with respect to a State for a fiscal year, the ratio (expressed as a percentage) that the total number of minor children—
+&emsp;(B) the term “statewide paternity establishment percentage” means, with respect to aState for a fiscal year, the ratio (expressed as a percentage) that the total number of minor children—
 
 &emsp;&emsp;(i) who have been born out of wedlock, and
 
@@ -228,11 +228,11 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 (3) The Secretary and the Secretary of State shall not be liable to an individual for any action with respect to a certification by a State agency under this section.
 
-#### (<i>l</i>) <sup>2</sup> Facilitation of agreements between State agencies and financial institutions
+#### (l) <sup>2</sup> Facilitation of agreements between State agencies and financial institutions
 
 The Secretary, through the Federal Parent Locator Service, may aid State agencies providing services under State programs operated pursuant to this part and financial institutions doing business in two or more States in reaching agreements regarding the receipt from such institutions, and the transfer to the State agencies, of information that may be provided pursuant to section 666(a)(17)(A)(i) of this title, except that any State that, as of July 16, 1998, is conducting data matches pursuant to section 666(a)(17)(A)(i) of this title shall have until January 1, 2000, to allow the Secretary to obtain such information from such institutions that are operating in the State. For purposes of section 3413(d) of title 12, a disclosure pursuant to this subsection shall be considered a disclosure pursuant to a Federal statute.
 
-#### (<i>l</i>) <sup>2</sup> Comparisons with insurance information
+#### (l) <sup>2</sup> Comparisons with insurance information
 
 #### (1) In general
 
@@ -246,7 +246,7 @@ The Secretary, through the Federal Parent Locator Service, may aid State agencie
 
 &emsp;An insurer (including any agent of an insurer) shall not be liable under any Federal or State law to any person for any disclosure provided for under this subsection, or for any other action taken in good faith in accordance with this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L.100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147.)
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Subsec. (j). Pub. L. 109–171, §7304, inserted “or the amount appropriated u
 
 Subsec. (k)(1). Pub. L. 109–171, §7303(a), substituted “$2,500” for “$5,000”.
 
-Subsec. (<i>l</i>). Pub. L. 109–171, §7306(a), added subsec. (<i>l</i>) relating to comparisons with insurance information.
+Subsec. (l). Pub. L. 109–171, §7306(a), added subsec. (l) relating to comparisons with insurance information.
 
 <b>1999</b>—Subsec. (a)(7). Pub. L. 106–169 substituted “social security” for “Social Security”.
 
@@ -278,7 +278,7 @@ Subsec. (f). Pub. L. 105–200, §401(c)(2), substituted “include” for “pe
 
 Subsec. (g). Pub. L. 105–200, §201(e)(1)(A), amended Pub. L. 104–193, §341. See 1996 Amendment notes below.
 
-Subsec. (<i>l</i>). Pub. L. 105–200, §406(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–200, §406(b), added subsec. (l).
 
 <b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
 
@@ -304,7 +304,7 @@ Subsec. (a)(8). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial�
 
 Subsec. (a)(9). Pub. L. 104–193, §316(e)(1), inserted “Federal” before “Parent”.
 
-Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: “The information contained in any such report under subparagraph\(A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter.”
+Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: “The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter.”
 
 Subsec. (a)(10)(A). Pub. L. 104–193, §346(a)(1)(A), substituted “this part, including—” for “this part;”.
 
@@ -356,7 +356,7 @@ Pub. L. 104–193, §108(c)(7), in concluding provisions, substituted “assista
 
 Subsec. (g)(2)(A)(ii)(I). Pub. L. 104–193, §108(c)(6), substituted “assistance is being provided under the State program funded under part A” for “aid is being paid under the State's plan approved under part A or E”.
 
-Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(b)(3)(B), formerly §341(c)(3)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(b)(3)(B), formerly §341(c)(3)(B), as redesignated by Pub. L.105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (g)(3)(A). Pub. L. 104–193, §341(b)(4)(B), formerly §341(c)(4)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “the percentage of children in a State who are born out of wedlock or for whom support has not been established” for “the percentage of children born out-of-wedlock in a State”.
 
@@ -428,7 +428,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 Subsec. (a)(4). Pub. L. 98–378, §9(a)(1), substituted “not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title)” for “not less often than annually”.
 
-Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: “the number of child support cases (with separate identification of the number in which collection of spousal support was involved) in each State during each quarter of the fiscal year last ending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;”.
+Subsec. (a)(10)(C). Pub. L. 98–378, §13(a), amended subpar. (C) generally to include the reporting of additional aspects of child support enforcement. Prior to amendment, subpar. (C) read as follows: “the number of child support cases (with separate identification of the number in which collection of spousal support was involved)in each State during each quarter of the fiscal year last ending before the report is submitted and during each quarter of the preceding fiscal year (including the transitional period beginning July 1, 1976, and ending September 30, 1976, in the case of the first report to which this subparagraph applies), and the disposition of such cases;”.
 
 Subsec. (a)(10)(I). Pub. L. 98–378, §13(b), added subpar. (I).
 
@@ -484,29 +484,29 @@ Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided th
 
 #### Effective Date of 1997 Amendment
 
-Section 5518(b) of Pub. L. 105–33 provided that: “The amendments made by section 5513 of this Act \[amending this section and sections 656, 664, 672, and 673 of this title\] shall take effect as if the amendments had been included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 108 became law.”
+Pub. L. 105–33, title V, §5518(b), Aug. 5, 1997, 111 Stat. 621, provided that: “The amendments made by section 5513 of this Act \[amending this section and sections 656, 664, 672, and 673 of this title\] shall take effect as if the amendments had been included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 108 became law.”
 
 Amendment by sections 5540, 5541(a), and 5556(c) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
-Section 101(e) \[title II, §215\] of div. A of Pub. L. 104–208, as amended by Pub. L. 105–33, title V, §5556(c), Aug. 5, 1997, 111 Stat. 637, provided in part that: “Amounts available under such sections 452(j) \[subsec. (j) of this section\] and 453(<i>o</i>) \[section 653(<i>o</i>) of this title\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255, as amended by Pub. L. 105–33, title V, §5556(c), Aug. 5, 1997, 111 Stat. 637, provided in part that: “Amounts available under such sections 452(j) \[subsec. (j) of this section\] and453(o) \[section 653(o) of this title\] shall be calculated as though the amendments made by this section were effective October 1, 1995.”
 
 Amendment by section 108(c)(2)–(9) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 Pub. L. 104–193, title III, §341(c)(2), formerly §341(d)(2), Aug. 22, 1996, 110 Stat. 2233, as redesignated and amended by Pub. L. 105–200, title II, §201(e)(1)(A), (B)(ii), July 16, 1998, 112 Stat. 657, provided that: “The amendments made by subsection (b) \[amending this section\] shall become effective with respect to calendar quarters beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
-Section 342(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 654 of this title\] shall be effective with respect to calendar quarters beginning 12 months or more after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title III, §342(c), Aug. 22, 1996, 110 Stat. 2234, provided that: “The amendments made by this section \[amending this section and section 654 of this title\] shall be effective with respect to calendar quarters beginning 12 months or more after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
-Section 346(b) of Pub. L. 104–193 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1997 and succeeding fiscal years.”
+Pub. L. 104–193, title III, §346(b), Aug. 22, 1996, 110 Stat. 2239, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1997 and succeeding fiscal years.”
 
-Section 370(b) of Pub. L. 104–193 provided that: “This section \[amending this section and section 654 of this title\] and the amendments made by this section shall become effective October 1, 1997.”
+Pub. L. 104–193, title III, §370(b), Aug. 22, 1996, 110 Stat. 2252, provided that: “This section \[amending this section and section 654 of this title\] and the amendments made by this section shall become effective October 1, 1997.”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Section 13721(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 666 of this title\] shall become effective with respect to a State on the later of—
+Pub. L. 103–66, title XIII, §13721(c), Aug. 10, 1993, 107 Stat. 660, provided that: “The amendments made by this section \[amending this section and section 666 of this title\] shall become effective with respect to a State on the later of—
 
 &emsp;“(1) October 1, 1993 or,
 
@@ -516,23 +516,23 @@ Section 13721(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1989 Amendment
 
-Section 10403(a)(1)(B)(ii) of Pub. L. 101–239 provided that: “The amendments made by clause (i) \[amending this section and section 602 of this title\] shall take effect as if such amendments had been included in section 123(d) of the Family Support Act of 1988 \[Pub. L. 100–485\] on the date of the enactment of such Act \[Oct. 13, 1988\].”
+Pub. L. 101–239, title X, §10403(a)(1)(B)(ii), Dec. 19, 1989, 103 Stat. 2487, provided that: “The amendments made by clause (i) \[amending this section and section 602 of this title\] shall take effect as if such amendments had been included in section 123(d) of the Family Support Act of 1988 \[Pub. L. 100–485\] on the date of the enactment of such Act \[Oct. 13, 1988\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 111(f)(1) of Pub. L. 100–485 provided that: “The amendments made by subsections (a), (d), and (e) \[enacting section 668 of this title and amending this section and section 666 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 13, 1988\].”
+Pub. L. 100–485, title I, §111(f)(1), Oct. 13, 1988, 102 Stat. 2350, provided that: “The amendments made by subsections (a), (d), and (e) \[enacting section 668 of this title and amending this section and section 666 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9143(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts collected after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9143(b), Dec. 22, 1987, 101 Stat. 1330–322, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts collected after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1984 Amendments
 
-Section 4(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall apply to fiscal years after fiscal year 1983.”
+Pub. L. 98–378, §4(c), Aug. 16, 1984, 98 Stat. 1312, provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall apply to fiscal years after fiscal year 1983.”
 
-Section 9(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section and sections 602 and 603 of this title\] shall be effective on and after October 1, 1983.”
+Pub. L. 98–378, §9(c), Aug. 16, 1984, 98 Stat. 1317, provided that: “The amendments made by this section \[amending this section and sections 602 and 603 of this title\] shall be effective on and after October 1, 1983.”
 
-Section 13(c) of Pub. L. 98–378 provided that: “The amendments made by this section \[amending this section\] shall be effective for reports for fiscal year 1986 and each fiscal year thereafter.”
+Pub. L. 98–378, §13(c), Aug. 16, 1984, 98 Stat. 1320, provided that: “The amendments made by this section \[amending this section\] shall be effective for reports for fiscal year 1986 and each fiscal year thereafter.”
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -546,25 +546,25 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifi
 
 #### Effective Date of 1980 Amendment
 
-Section 402(b) of Pub. L. 96–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect July 1, 1980.”
+Pub. L. 96–265, title IV, §402(b), June 9, 1980, 94 Stat. 462, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect July 1, 1980.”
 
-Section 405(e) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[section 655(a)(3) of this title\] (as amended by this Act), made on or after such date.”
+Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: “The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[section 655(a)(3) of this title\] (as amended by this Act), made on or after such date.”
 
 #### Effective Date of 1977 Amendment
 
-Section 504(b) of Pub. L. 95–30 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of reports, submitted by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] after 1976.”
+Pub. L. 95–30, title V, §504(b), May 23, 1977, 91 Stat. 164, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective in the case of reports, submitted by the Secretary of Health, Education, and Welfare \[now Health and Human Services\] after 1976.”
 
 #### Regulations
 
-Section 122(b) of Pub. L. 100–485 provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to the standards required by the amendment made by subsection (a) \[amending this section\], and, after allowing not less than 60 days for public comment, shall issue final regulations not later than the first day of the 10th month to begin after such date of enactment.”
+Pub. L. 100–485, title I, §122(b), Oct. 13, 1988, 102 Stat. 2351, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to the standards required by the amendment made by subsection (a) \[amending this section\], and, after allowing not less than 60 days for public comment, shall issue final regulations not later than the first day of the 10th month to begin after such date of enactment.”
 
 #### Implementation of Performance Standards for State Paternity Establishment Programs
 
-Section 111(f)(3) of Pub. L. 100–485 provided that: “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
+Pub. L. 100–485, title I, §111(f)(3), Oct. 13, 1988, 102 Stat. 2350, provided that: “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
 
 #### Requests for Child Support Assistance; Advisory Committee; Promulgation of Regulations
 
-Section 121(b) of Pub. L. 100–485 provided that:
+Pub. L. 100–485, title I, §121(b), Oct. 13, 1988, 102 Stat. 2351, provided that:
 
 “(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall establish an advisory committee. The committee shall include representatives of organizations representing State governors, State welfare administrators, and State directors of programs under part D of title IV of the Social Security Act \[this part\]. The Secretary shall consult with the advisory committee before issuing any regulations with respect to the standards required by the amendment made by subsection (a) \[amending this section\] (including regulations regarding what constitutes an adequate response on the part of a State to the request of an individual, State, or jurisdiction).
 
@@ -572,7 +572,7 @@ Section 121(b) of Pub. L. 100–485 provided that:
 
 #### Supplemental Report To Be Submitted to Congress Not Later Than June 30, 1977
 
-Section 504(c) of Pub. L. 95–30 directed Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to this part.
+Pub. L. 95–30, title V, §504(c), May 23, 1977, 91 Stat. 164, directed Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to this part.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

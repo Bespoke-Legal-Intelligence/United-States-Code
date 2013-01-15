@@ -56,7 +56,7 @@
 
 (4) Rights and obligations under this chapter resulting from an election under this subsection shall be the same as the rights and obligations which would have resulted had the election been made at the time of retirement.
 
-(5) The Office shall inform each employee and Member who is eligible to make an electionunder this subsection of the right to make such election and the procedures and deadlines applicable in making any such election.
+(5) The Office shall inform each employee and Member who is eligible to make an election under this subsection of the right to make such election and the procedures and deadlines applicable in making any such election.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 528.)
 

@@ -1,12 +1,12 @@
 ### §271. Infringement of patent
 
-(a) Except as otherwise provided in this title, whoever without authority makes, uses, offers to sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
+(a) Except as otherwise provided in this title, whoever without authority makes, uses, offersto sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
 
 (b) Whoever actively induces infringement of a patent shall be liable as an infringer.
 
 (c) Whoever offers to sell or sells within the United States or imports into the United States a component of a patented machine, manufacture, combination or composition, or a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.
 
-(d) No patent owner otherwise entitled to relief for infringement or contributory infringement of a patent shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by reason of his having done one or more of the following: (1) derived revenue from acts which if performed by another without his consent would constitute contributory infringement of the patent; (2) licensed or authorized another to perform acts which if performed without his consent would constitute contributory infringement of the patent; (3) sought to enforce his patent rights against infringement or contributory infringement; (4) refused to license or use any rights to the patent; or (5) conditioned the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless, in viewof the circumstances, the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned.
+(d) No patent owner otherwise entitled to relief for infringement or contributory infringement of a patent shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by reason of his having done one or more of the following: (1) derived revenue from acts which if performed by another without his consent would constitute contributory infringement of the patent; (2) licensed or authorized another to perform acts which if performed without his consent would constitute contributory infringement of the patent; (3) sought to enforce his patent rights against infringement or contributory infringement; (4) refused to license or use any rights to the patent; or (5) conditioned the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless, in view of the circumstances, the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned.
 
 (e)(1) It shall not be an act of infringement to make, use, offer to sell, or sell within the United States or import into the United States a patented invention (other than a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Act of March 4, 1913) which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques) solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs or veterinary biological products.
 
@@ -16,9 +16,9 @@
 
 &emsp;(B) an application under section 512 of such Act or under the Act of March 4, 1913 (21 U.S.C. 151–158) for a drug or veterinary biological product which is not primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques and which is claimed in a patent or the use of which is claimed in a patent, or
 
-&emsp;(C)(i) with respect to a patent that is identified in the list of patents described in section 351(<i>l</i>)(3) of the Public Health Service Act (including as provided under section 351(<i>l</i>)(7) of such Act), an application seeking approval of a biological product, or
+&emsp;(C)(i) with respect to a patent that is identified in the list of patents described in section 351(l)(3) of the Public Health Service Act (including as provided under section 351(l)(7) of such Act), an application seeking approval of a biological product, or
 
-&emsp;(ii) if the applicant for the application fails to provide the application and information required under section 351(<i>l</i>)(2)(A) of such Act, an application seeking approval of a biological product for a patent that could be identified pursuant to section 351(<i>l</i>)(3)(A)(i) of such Act,
+&emsp;(ii) if the applicant for the application fails to provide the application and information required under section 351(l)(2)(A) of such Act, an application seeking approval of a biological product for a patent that could be identified pursuant to section 351(l)(3)(A)(i) of such Act,
 
 > if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug, veterinary biological product, or biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
 
@@ -32,25 +32,25 @@
 
 &emsp;(C) damages or other monetary relief may be awarded against an infringer only if there has been commercial manufacture, use, offer to sell, or sale within the United States or importation into the United States of an approved drug, veterinary biological product, or biological product, and
 
-&emsp;(D) the court shall order a permanent injunction prohibiting any infringement of the patent by the biological product involved in the infringement until a date which is not earlier than the date of the expiration of the patent that has been infringed under paragraph (2)(C), provided the patent is the subject of a final court decision, as defined in section 351(k)(6) of the Public Health Service Act, in an action for infringement of the patent under section 351(<i>l</i>)(6) of such Act, and the biological product has not yet been approved because of section 351(k)(7) of such Act.
+&emsp;(D) the court shall order a permanent injunction prohibiting any infringement of the patent by the biological product involved in the infringement until a date which is not earlier than the date of the expiration of the patent that has been infringed under paragraph (2)(C), provided the patent is the subject of a final court decision, as defined in section 351(k)(6) of the Public Health Service Act, in an action for infringement of the patent under section 351(l)(6) of such Act, and the biological product has not yet been approved because of section 351(k)(7) of such Act.
 
 > The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only remedies which may be granted by a court for an act of infringement described in paragraph (2), except that a court may award attorney fees under section 285.
 
-(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
+(5) Where a person has filed an application described in paragraph (2) that includes a certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 355), and neither the owner of the patent that is the subject of the certification nor the holder of the approved application under subsection (b) of such section for the drug that is claimed by the patent or a use of which is claimed by the patent brought an action for infringement of such patent before the expiration of 45 days after the date on which the notice given under subsection (b)(3) or (j)(2)(B) of such section was received, the courts of the United States shall, to the extent consistent with the Constitution, have subject matter jurisdiction in any action brought by such person under section 2201 of title 28 for a declaratory judgment that such patent is invalid or not infringed.
 
 (6)(A) Subparagraph (B) applies, in lieu of paragraph (4), in the case of a patent—
 
-&emsp;(i) that is identified, as applicable, in the list of patents described in section 351(<i>l</i>)(4) of the Public Health Service Act or the lists of patents described in section 351(<i>l</i>)(5)(B) of such Act with respect to a biological product; and
+&emsp;(i) that is identified, as applicable, in the list of patents described in section 351(l)(4) of the Public Health Service Act or the lists of patents described in section 351(l)(5)(B) of such Act with respect to a biological product; and
 
 &emsp;(ii) for which an action for infringement of the patent with respect to the biological product—
 
-&emsp;&emsp;(I) was brought after the expiration of the 30-day period described in subparagraph (A) or (B), as applicable, of section 351(<i>l</i>)(6) of such Act; or
+&emsp;&emsp;(I) was brought after the expiration of the 30-day period described in subparagraph (A) or (B), as applicable, of section 351(l)(6) of such Act; or
 
 &emsp;&emsp;(II) was brought before the expiration of the 30-day period described in subclause (I), but which was dismissed without prejudice or was not prosecuted to judgment in good faith.
 
 (B) In an action for infringement of a patent described in subparagraph (A), the sole and exclusive remedy that may be granted by a court, upon a finding that the making, using, offering to sell, selling, or importation into the United States of the biological product that is the subject of the action infringed the patent, shall be a reasonable royalty.
 
-(C) The owner of a patent that should have been included in the list described in section 351(<i>l</i>)(3)(A) of the Public Health Service Act, including as provided under section 351(<i>l</i>)(7) of such Act for a biological product, but was not timely included in such list, may not bring an action under this section for infringement of the patent with respect to the biological product.
+(C) The owner of a patent that should have been included in the list described in section 351(l)(3)(A) of the Public Health Service Act, including as provided under section 351(l)(7) of such Act for a biological product, but was not timely included in such list, may not bring an action under this section for infringement of the patent with respect to the biological product.
 
 (f)(1) Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
 
@@ -76,7 +76,7 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9\(§301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -100,7 +100,7 @@ Subsec. (e)(6). Pub. L. 111–148, §7002(c)(1)(C), added par. (6).
 
 <b>2003</b>—Subsec. (e)(5). Pub. L. 108–173 added par. (5).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into theUnited States any patented invention” after “the United States”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
 
 Subsec. (c). Pub. L. 103–465, §533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 
@@ -138,11 +138,11 @@ Amendment by Pub. L. 103–465 effective on date that is one year after date on 
 
 Amendment by Pub. L. 102–560 effective with respect to violations that occur on or after Oct. 28, 1992, see section 4 of Pub. L. 102–560, set out as a note under section 2541 of Title 7, Agriculture.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Section 202 of title II of Pub. L. 100–703 provided that: “The amendment made by this title \[amending this section\] shall apply only to cases filed on or after the date of the enactment of this Act \[Nov. 19, 1988\].”
+Pub. L. 100–703, title II, §202, Nov. 19, 1988, 102 Stat. 4676, provided that: “The amendment made by this title \[amending this section\] shall apply only to cases filed on or after the date of the enactment of this Act \[Nov. 19, 1988\].”
 
-Section 9006 of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title IX, §9006, Aug. 23, 1988, 102 Stat. 1566, provided that:
 
 “(a)
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be
 
 #### Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988
 
-Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
+Pub. L. 100–418, title IX, §9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was tomake annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 

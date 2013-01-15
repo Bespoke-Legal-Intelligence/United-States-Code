@@ -20,7 +20,7 @@ The Congress hereby finds and declares that—
 
 #### Effective Date
 
-Section 11 of Pub. L. 100–95 provided that:
+Pub. L. 100–95, §11, Aug. 18, 1987, 101 Stat. 710, provided that:
 
 “(a)
 
@@ -32,7 +32,7 @@ Exception.—Section 4 \[25 U.S.C. 1771b\] shall take effect upon the date on wh
 
 #### Short Title
 
-Section 1 of Pub. L. 100–95 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987’.”
+Pub. L. 100–95, §1, Aug. 18, 1987, 101 Stat. 704, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “claims;”.</i>
 

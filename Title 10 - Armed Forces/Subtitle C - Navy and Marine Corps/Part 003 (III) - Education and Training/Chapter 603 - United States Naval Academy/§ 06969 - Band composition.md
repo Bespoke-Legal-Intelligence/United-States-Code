@@ -36,5 +36,5 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Permanent Grade of Present Leader of Band
 
-Section 3 of act July 17, 1953, ch. 226, 67 Stat. 180, authorized President to appoint present leader of UnitedStates Navy Band to permanent commissioned grade of commander in the Navy, and that such appointment shall be deemed to be not in the line of the Navy or in any staff corps of the Navy.
+Act July 17, 1953, ch. 226, §3, 67 Stat. 180, authorized President to appoint present leader of United States Navy Band to permanent commissioned grade of commander in the Navy, and that such appointment shall be deemed to be not in the line of the Navy or in any staff corps of the Navy.
 

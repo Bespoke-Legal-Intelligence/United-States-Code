@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “not available”, with respect to an article or service proposed to be sold under this section, means that the article or service is unavailable from a commercial source in the required quantity and quality or within the time required.
 
-&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the coststhat are expected to fluctuate directly with the volume of sales and—
+&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
 
 &emsp;&emsp;(A) in the case of articles, the volume of production necessary to satisfy the sales orders; or
 
@@ -86,5 +86,5 @@ Subsec. (g)(2), (3). Pub. L. 106–65, §331(b), added par. (2) and redesignated
 
 #### Effective Date
 
-Section 339(b) of Pub. L. 103–337 provided that: “Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
+Pub. L. 103–337, div. A, title III, §339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: “Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
 

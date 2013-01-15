@@ -106,7 +106,7 @@ Termination.—This section shall cease to be effective at the end of the 10-yea
 
 #### Effective Date
 
-Pub. L. 106–253, §2(e), July 28, 2000, 114 Stat. 636, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\].”
+Pub. L. 106–253, §2(d), formerly §2(e), July 28, 2000, 114 Stat. 636, as renumbered §2(d) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\].”
 
 #### Multinational Species Conservation Funds Semipostal Stamp
 
@@ -152,7 +152,7 @@ In general.—All amounts becoming available from the sale of the Multinational 
 
 &emsp;&emsp;“(B)
 
-Proceeds not to be offset.—In accordance with section 416(d)(4) of such title 39, amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (asso determined) shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished in any year to—
+Proceeds not to be offset.—In accordance with section 416(d)(4) of such title 39, amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (as so determined) shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished in any year to—
 
 &emsp;&emsp;&emsp;“(i) the United States Fish and Wildlife Service; or
 
@@ -274,13 +274,5 @@ Pub. L. 106–253, §2(b), July 28, 2000, 114 Stat. 636, provided that: “Each 
 
 #### Reports by the Government Accountability Office
 
-Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
-
-“(1)
-
-Interim report.—The Government Accountability Office shall submit to the President and each House of Congress an interim report on the operation of the program established under section 416 of title 39, United States Code (as amended by this section) not later than 4 years after semipostals are first made available to the public under such section.
-
-“(2)
-
-Final report.—The Government Accountability Office shall transmit to the President and each House of Congress a final report on the operation of the program established under such section 416, not later than 6 months before the date on which it is scheduled to expire. The final report shall contain a detailed statement of the findings and conclusions of the Government Accountability Office, together with any recommendations it considers appropriate.”
+Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by Pub. L. 112–234, §2(e)(1), Dec. 28, 2012, 126 Stat. 1624.
 

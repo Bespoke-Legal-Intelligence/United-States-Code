@@ -2,7 +2,7 @@
 
 The purpose of this chapter is to—
 
-&emsp;(1) strengthen the competitive position of the United States commercial fishing industry in the domestic and international marketplace;
+&emsp;(1) strengthen the competitive position of the United States commercial fishing industryin the domestic and international marketplace;
 
 &emsp;(2) encourage the development and utilization of all species of fish available for harvest by the United States fishing industry;
 

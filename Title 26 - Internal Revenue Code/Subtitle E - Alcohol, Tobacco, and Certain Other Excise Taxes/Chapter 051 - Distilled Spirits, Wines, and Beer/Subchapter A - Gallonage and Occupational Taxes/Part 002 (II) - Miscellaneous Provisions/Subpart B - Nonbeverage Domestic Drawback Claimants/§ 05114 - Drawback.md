@@ -70,5 +70,5 @@ Amendment by Pub. L. 98–369 applicable to products manufactured or produced af
 
 #### Effective Date of 1968 Amendment
 
-Section 2(b) of Pub. L. 90–615 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\].”
+Pub. L. 90–615, §2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\].”
 

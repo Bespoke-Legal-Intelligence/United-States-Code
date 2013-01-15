@@ -88,7 +88,7 @@ Indian tribes and tribal organizations shall not be held liable for amounts of i
 
 #### (f) Limitation on remedies relating to cost disallowances
 
-Any right of action or other remedy (other than those relating to a criminal offense) relating to any disallowance of costs shall be barred unless the Secretary has given notice of any such disallowance within three hundred and sixty-five days of receiving any required annual single agency audit report or, for any periodcovered by law or regulation in force prior to October 19, 1984, any other required final audit report. Such notice shall set forth the right of appeal and hearing to the board of contract appeals pursuant to section 450m–1 of this title. For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law. Nothing in this subsection shall be deemed to enlarge the rights of the Secretary with respect to section 476 of this title.
+Any right of action or other remedy (other than those relating to a criminal offense) relating to any disallowance of costs shall be barred unless the Secretary has given notice of any such disallowance within three hundred and sixty-five days of receiving any required annual single agency audit report or, for any period covered by law or regulation in force prior to October 19, 1984, any other required final audit report. Such notice shall set forth the right of appeal and hearing to the board of contract appeals pursuant to section 450m–1 of this title. For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law. Nothing in this subsection shall be deemed to enlarge the rights of the Secretary with respect to section 476 of this title.
 
 #### (g) Addition to contract of full amount contractor entitled; adjustment
 
@@ -134,7 +134,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 &emsp;(12) Costs associated with the management of pension funds, self-insurance funds, and other funds of the tribal organization that provide for participation by the Federal Government.
 
-#### (<i>l</i>) Suspension, withholding, or delay in payment of funds
+#### (l) Suspension, withholding, or delay in payment of funds
 
 (1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
 
@@ -152,11 +152,11 @@ The program income earned by a tribal organization in the course of carrying out
 
 To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a) of this section, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
 
-#### (<i>o</i>) Rebudgeting by tribal organization
+#### (o) Rebudgeting by tribal organization
 
 Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
 
-(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, §9, Aug. 18, 2000, 114 Stat. 733.)
+(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24,1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, §9, Aug. 18, 2000, 114 Stat. 733.)
 
 #### Prior Provisions
 
@@ -164,9 +164,9 @@ A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 10
 
 #### Amendments
 
-<b>2000</b>—Subsecs. (c) to (<i>o</i>). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
+<b>2000</b>—Subsecs. (c) to (o). Pub. L. 106–260 added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
 
-<b>1998</b>—Subsecs. (c) to (<i>o</i>). Pub. L. 105–362 redesignated subsecs. (d) to (<i>o</i>) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
+<b>1998</b>—Subsecs. (c) to (o). Pub. L. 105–362 redesignated subsecs. (d) to (o) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
 
@@ -188,7 +188,7 @@ Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out form
 
 Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
-Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o</i>).
+Subsecs. (j) to (o). Pub. L. 103–413, §102(19), added subsecs. (j) to (o).
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
 

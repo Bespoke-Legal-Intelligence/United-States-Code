@@ -28,9 +28,9 @@ Pub. L. 111–148, §6703(d)(1)(A), substituted “division” for “subchapter
 
 #### Effective Date
 
-Section 2354 of Pub. L. 97–35 provided that: “Except as otherwise explicitly provided, the provisions of this subtitle \[subtitle C (§§2351–2355) of title XXIII of Pub. L. 97–35, see Short Title of 1981 Amendment note set out under section 1305 of this title\] and the repeals and amendments made by this subtitle, shall become effective on October 1, 1981.”
+Pub. L. 97–35, title XXIII, §2354, Aug. 13, 1981, 95 Stat. 874, provided that: “Except as otherwise explicitly provided, the provisions of this subtitle \[subtitle C (§§2351–2355) of title XXIII of Pub. L. 97–35, see Short Title of 1981 Amendment note set out under section 1305 of this title\] and the repeals and amendments made by this subtitle, shall become effective on October 1, 1981.”
 
 #### Study of State Social Service Programs; Report to Congress
 
-Section 2355 of Pub. L. 97–35 required Secretary of Health and Human Services to conduct a study to identify criteria and mechanisms which may be useful for States in assessing effectiveness and efficiency of State social service programs carried out with funds made available under this subchapter, such study to include consideration of Federal incentive payments as an option in rewarding States having high performance social service programs, and to report results of such study to Congress within one year after Aug. 13, 1981.
+Pub. L. 97–35, title XXIII, §2355, Aug. 13, 1981, 95 Stat. 874, required Secretary of Health and Human Services to conduct a study to identify criteria and mechanisms which may be useful for States in assessing effectiveness and efficiency of State social service programs carried out with funds made available under this subchapter, such study to include consideration of Federal incentive payments as an option in rewarding States having high performance social service programs, and to report results of such study to Congress within one year after Aug. 13, 1981.
 

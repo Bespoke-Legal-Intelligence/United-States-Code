@@ -22,7 +22,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (1) Allowance of credit
 
-&emsp;Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting “5.6 cents” for “90 cents”.
+&emsp;Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (otherthan chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting “5.6 cents” for “90 cents”.
 
 #### (2) Reduction in credit
 
@@ -66,7 +66,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (d) Wine gallon
 
-For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallonbeing converted to the next full one-tenth gallon).
+For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 
 #### (e) Tolerances
 
@@ -94,7 +94,7 @@ Subsec. (c)(1). Pub. L. 105–34, §908(b), inserted at end “In the case of wi
 
 “(6)
 
-Regulations.—The Secretary may prescribe such regulations as may be necessary to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
+Regulations.—The Secretary may prescribe such regulations as may be necessary to prevent thecredit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
 
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §11201(b)(1)(A), substituted “$1.07” for “17 cents”.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 908(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1997.”
+Pub. L. 105–34, title IX, §908(c), Aug. 5, 1997, 111 Stat. 876, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -146,17 +146,17 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 #### Effective Date of 1988 Amendment
 
-Section 6101(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to wine removed after December 31, 1988.”
+Pub. L. 100–647, title VI, §6101(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to wine removed after December 31, 1988.”
 
 #### Effective Date of 1974 Amendment
 
-Section 6(b) of Pub. L. 93–490 provided that: “The amendment made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act \[Oct. 26, 1974\].”
+Pub. L. 93–490, §6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: “The amendment made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act \[Oct. 26, 1974\].”
 
 #### Effective Date of 1965 Amendment
 
 Amendment by section 501(c) of Pub. L. 89–44 applicable on and after July 1, 1965, see section 701(d) of Pub. L. 89–44, set out as a note under section 5701 of this title.
 
-Section 806(d)(1) of Pub. L. 89–44 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, §806(d)(1), June 21, 1965, 79 Stat. 164, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1965.”
 
 #### Effective Date
 

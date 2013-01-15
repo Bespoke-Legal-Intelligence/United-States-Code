@@ -18,7 +18,7 @@ The Director of the Institute shall collaborate with the Substance Abuse and Men
 
 <b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research.
 
-<b>1992</b>—Subsec. (d)(1). Pub. L. 102–352 inserted “other than section 285<i>o</i>–4 of this title,” after “this subpart,”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–352 inserted “other than section 285o–4 of this title,” after “this subpart,”.
 
 #### Effective Date of 2007 Amendment
 

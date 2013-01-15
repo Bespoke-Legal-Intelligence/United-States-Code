@@ -6,13 +6,13 @@
 
 &emsp;(B) the terms of the contract provide for a substantial termination liability on the part of the United States.
 
-(2) The Secretary of a military department may make a contract that is an agreement tolease or charter or an agreement to provide services and that is (or will be) accompanied by a contract for the actual lease, charter, or provision of services only as provided in subsection (b) if the contract for the actual lease, charter, or provision of services is (or will be) a contract described in paragraph (1).
+(2) The Secretary of a military department may make a contract that is an agreement to lease or charter or an agreement to provide services and that is (or will be) accompanied by a contract for the actual lease, charter, or provision of services only as provided in subsection (b) if the contract for the actual lease, charter, or provision of services is (or will be) a contract described in paragraph (1).
 
 (b)(1) The Secretary may make a contract described in subsection (a)(1) if—
 
 &emsp;(A) the Secretary has been specifically authorized by law to make the contract;
 
-&emsp;(B) before a solicitation for proposals for the contract was issued the Secretary notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives of the Secretary's intention to issue such a solicitation;
+&emsp;(B) before a solicitation for proposals for the contract was issued the Secretary notified the congressional defense committees of the Secretary's intention to issue such a solicitation;
 
 &emsp;(C) the Secretary has notified those committees of the proposed contract and provided a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than providing for the lease, charter, or services involved through purchase of the vessel, aircraft, or combat vehicle to be used under the contract, and a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees; and
 
@@ -100,7 +100,7 @@
 
 (h) The Secretary of a military department may make a contract for the lease of a vessel or for the provision of a service through use by a contractor of a vessel, the term of which is for a period of greater than two years, but less than five years, only if—
 
-&emsp;(1) the Secretary has notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives of the proposed contract and included in such notification—
+&emsp;(1) the Secretary has notified the congressional defense committees of the proposed contract and included in such notification—
 
 &emsp;&emsp;(A) a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than obtaining the capability provided for by the lease, charter, or services involved through purchase of the vessel;
 
@@ -108,15 +108,19 @@
 
 &emsp;&emsp;(C) a plan for meeting the requirement provided by the proposed contract upon completion of the term of the lease contract; and
 
-&emsp;(2) a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees.
+&emsp;(2) a period of 60 days has expired following the date on which notice was received by such committees.
 
-(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382; Pub. L. 110–181, div. A, title VIII,§824, title X, §1011, Jan. 28, 2008, 122 Stat. 227, 303; Pub. L. 111–84, div. A, title X, §1073(a)(24), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382; Pub. L. 110–181, div. A, title VIII, §824, title X, §1011, Jan. 28, 2008, 122 Stat. 227, 303; Pub. L. 111–84, div. A, title X, §1073(a)(24), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VIII, §821, title X, §1076(f)(26), Jan. 2, 2013, 126 Stat. 1830, 1953.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A) and (d)(1)(B), is classified generally to Title 26, Internal Revenue Code. Section 168 of the Internal Revenue Code of 1986 is classified to section 168 of Title 26.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (b)(1)(B), (h)(1). Pub. L. 112–239, §1076(f)(26), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
+
+Subsec. (h)(2). Pub. L. 112–239, §821, substituted “60 days” for “30 days of continuous session of Congress”.
 
 <b>2009</b>—Subsec. (f)(2). Pub. L. 111–84 substituted “January 6, 2006” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006”.
 
@@ -152,7 +156,7 @@ Subsec. (g). Pub. L. 109–163, §815(c)(1), redesignated subsec. (f) as (g).
 
 <b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–106, §1502(a)(20)(A), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-Subsec. (b)(1)(C). Pub. L. 104–106, §1502(a)(20)(B), substituted “those committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+Subsec. (b)(1)(C). Pub. L. 104–106, §1502(a)(20)(B), substituted “those committees” for “the Committees onArmed Services and on Appropriations of the Senate and House of Representatives”.
 
 Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out “pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 (Public Law 98–94), or in any other law enacted after September 24, 1983,” before “may not be used”.
 
@@ -166,7 +170,7 @@ Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guideline
 
 #### Effective Date
 
-Section 1202(a)(3) of Pub. L. 98–94 provided that: “Section 2401 of title 10, United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983.”
+Pub. L. 98–94, title XII, §1202(a)(3), Sept. 24, 1983, 97 Stat. 681, provided that: “Section 2401 of title 10, United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983.”
 
 #### Riding Gang Member Requirements
 
@@ -218,7 +222,7 @@ Waiver.—The Secretary may waive the application of subparagraph (A)(ii) for an
 
 &emsp;“(3)
 
-Exempted individual not treated as in addition to the crew.—An individual who, under paragraph (1), is not treated as a riding gang member shall not be counted as an individual in addition tothe crew for the purposes of section 3304 of title 46, United States Code.”
+Exempted individual not treated as in addition to the crew.—An individual who, under paragraph (1), is not treated as a riding gang member shall not be counted as an individual in addition to the crew for the purposes of section 3304 of title 46, United States Code.”
 
 #### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
 
@@ -252,15 +256,15 @@ Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, directed tha
 
 #### Issuance of Guidelines
 
-Section 1232(a)(2) of Pub. L. 98–525 provided in part that guidelines required to be issued under subsec. (f) of this section shall be issued not later than Oct. 31, 1984.
+Pub. L. 98–525, title XII, §1232(a)(2), Oct. 19, 1984, 98 Stat. 2600, provided in part that guidelines required tobe issued under subsec. (f) of this section shall be issued not later than Oct. 31, 1984.
 
 #### Limitation on Funds Available to Department of Defense To Enter Into Contracts During Fiscal Year 1984
 
-Section 1202(d) of Pub. L. 98–94 provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, as added by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
+Pub. L. 98–94, title XII, §1202(d), Sept. 24, 1983, 97 Stat. 682, provided that: “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under section 2401 of title 10, United States Code, as added by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
 
 #### Limitation on Use of Funds Appropriated Pursuant to Authorizations Contained in Department of Defense Authorization Act, 1984
 
-Section 1202(b) of Pub. L. 98–94, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Funds appropriated pursuant to an authorization contained in this Act may not be used to indemnify any person under the terms of a contract entered into with the United States under section 2401 of title 10, United States Code (as added by subsection (a))—
+Pub. L. 98–94, title XII, §1202(b), Sept. 24, 1983, 97 Stat. 681, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Funds appropriated pursuant to an authorization contained in this Act may not be used to indemnify any person under the terms of a contract entered into with the United States under section 2401 of title 10, United States Code (as added by subsection (a))—
 
 &emsp;“(1) for any amount paid or due by any person to the United States for any liability arising under the Internal Revenue Code of 1986 \[Title 26, Internal Revenue Code\]; or
 

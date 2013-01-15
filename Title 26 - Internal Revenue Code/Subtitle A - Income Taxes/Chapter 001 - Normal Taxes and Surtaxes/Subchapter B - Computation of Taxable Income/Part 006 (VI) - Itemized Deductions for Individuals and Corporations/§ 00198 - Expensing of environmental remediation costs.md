@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Special rule for expenditures for depreciable property
 
-&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that the portion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
+&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that theportion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
 
 #### (c) Qualified contaminated site
 
@@ -136,5 +136,5 @@ Amendment by section 532(c)(2)(A) of Pub. L. 106–170 applicable to any instrum
 
 #### Effective Date
 
-Section 941(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Aug. 5, 1997\], in taxable years ending after such date.”
+Pub. L. 105–34, title IX, §941(c), Aug. 5, 1997, 111 Stat. 885, provided that: “The amendments made by this section \[enacting this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Aug. 5, 1997\], in taxable years ending after such date.”
 

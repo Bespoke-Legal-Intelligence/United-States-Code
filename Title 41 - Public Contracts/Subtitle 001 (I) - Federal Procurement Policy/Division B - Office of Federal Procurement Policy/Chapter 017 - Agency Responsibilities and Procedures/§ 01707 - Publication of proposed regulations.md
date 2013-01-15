@@ -40,7 +40,7 @@ Effectiveness of Policy, Regulation, Procedure, or Form.—
 
 &emsp;(1)
 
-Temporary basis.—A procurement policy, regulation, procedure, or form for which the requirements of subsections (a) and (b) are waived under subsection (d) is effective on a temporary basis if—
+Temporary basis.—A procurement policy, regulation, procedure, or form for whichthe requirements of subsections (a) and (b) are waived under subsection (d) is effective on a temporary basis if—
 
 &emsp;&emsp;(A) a notice of the policy, regulation, procedure, or form is published in the Federal Register and includes a statement that the policy, regulation, procedure, or form is temporary; and
 

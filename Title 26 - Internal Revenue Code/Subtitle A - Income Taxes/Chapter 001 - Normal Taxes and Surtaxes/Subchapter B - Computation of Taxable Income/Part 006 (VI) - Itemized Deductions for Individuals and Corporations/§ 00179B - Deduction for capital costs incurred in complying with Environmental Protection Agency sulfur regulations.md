@@ -56,7 +56,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provision of the 
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title XIII, §1324(b), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in the amendment made by section 338(a) of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, enacting this section\].”
+Pub. L. 109–58, title XIII, §1324(b), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 338(a) of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, enacting this section\].”
 
 #### Effective Date
 

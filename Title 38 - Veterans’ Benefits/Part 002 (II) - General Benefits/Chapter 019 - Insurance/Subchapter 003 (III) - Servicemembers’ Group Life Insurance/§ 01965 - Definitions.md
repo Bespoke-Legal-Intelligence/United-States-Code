@@ -142,17 +142,17 @@ Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1974 Amendment
 
-Section 12(2) of Pub. L. 93–289 provided that: “The amendments relating to Servicemen's Group Life Insurance coverage on a full-time basis for certain members of the Reserves and National Guard shall become effective upon the date of enactment of this Act \[May 24, 1974\].”
+Pub. L. 93–289, §12(2), May 24, 1974, 88 Stat. 173, provided that: “The amendments relating to Servicemen's Group Life Insurance coverage on a full-time basis for certain members of the Reserves and National Guard shall become effective upon the date of enactment of this Act \[May 24, 1974\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–185 provided that: “The provisions of this Act \[amending this section\] shall apply only to Servicemen's Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act \[Dec. 15, 1971\].”
+Pub. L. 92–185, §2, Dec. 15, 1971, 85 Stat. 643, provided that: “The provisions of this Act \[amending this section\] shall apply only to Servicemen's Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act \[Dec. 15, 1971\].”
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-Section 14(b) of Pub. L. 91–291 provided that: “The provisions of section 765(7), (8), and (9) \[now 1765(7), (8), and (9)\] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen's group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act \[June 25, 1970\].”
+Pub. L. 91–291, §14(b), June 25, 1970, 84 Stat. 333, provided that: “The provisions of section 765(7), (8), and (9) \[now 1765(7), (8), and (9)\] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen's group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act \[June 25, 1970\].”
 
 #### Transfer of Functions
 
@@ -160,11 +160,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Renaming of Group Life Insurance Program
 
-Section 405(a) of Pub. L. 104–275 provided that: “The program of insurance operated by the Secretary of Veterans Affairs under subchapter III of chapter 19 of title 38, United States Code, is hereby redesignated as the Servicemembers’ Group Life Insurance program.”
+Pub. L. 104–275, title IV, §405(a), Oct. 9, 1996, 110 Stat. 3339, provided that: “The program of insurance operated by the Secretary of Veterans Affairs under subchapter III of chapter 19 of title 38, United States Code, is hereby redesignated as the Servicemembers’ Group Life Insurance program.”
 
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
-Section 405(d) of Pub. L. 104–275 provided that: “Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
+Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: “Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
+This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242l of Title 42, The Public Health and Welfare.
 
 #### Recital
 
@@ -24,7 +24,7 @@ Pub. L. 86–610 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 86–610 provided that: “This joint resolution \[enacting this chapter and section 242<i>l</i> of Title 42, The Public Health and Welfare\] may be cited as the ‘International Health Research Act of 1960’.”
+Pub. L. 86–610, §1, July 12, 1960, 74 Stat. 364, provided that: “This joint resolution \[enacting this chapter and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘International Health Research Act of 1960’.”
 
 #### Swine Influenza Study
 
@@ -72,7 +72,7 @@ Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco
 
 Sec. 3. <i>General</i>. (a) Executive departments and agencies shall carry out the provisions of this order to the extent permitted by law and consistent with their statutory and regulatory authorities and their enforcement mechanisms.
 
-(b) This order clarifies and strengthens Administration policy and does not create any right or benefit,substantive or procedural, enforceable at law by a party against the United States, its officers or employees, or any other person.
+(b) This order clarifies and strengthens Administration policy and does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

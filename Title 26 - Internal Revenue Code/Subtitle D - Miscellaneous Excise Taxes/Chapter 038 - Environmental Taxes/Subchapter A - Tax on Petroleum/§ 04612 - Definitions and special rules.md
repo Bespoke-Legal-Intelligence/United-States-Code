@@ -104,7 +104,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;&emsp;&emsp;The amount determined under this clause with respect to any taxpayer is the excess of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were tranferred <sup>1</sup> on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into theOil Spill Liability Fund were tranferred <sup>1</sup> on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit allowed under subsection (d) to the taxpayer.
 
@@ -126,7 +126,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4611.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, titleV, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 99–509 redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1992 Amendment
 
-Section 1922(b) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Effective Date of 1990 Amendment
 

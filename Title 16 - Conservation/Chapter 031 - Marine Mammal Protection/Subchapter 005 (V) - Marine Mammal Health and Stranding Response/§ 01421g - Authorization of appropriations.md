@@ -12,7 +12,7 @@ There is authorized to be appropriated—
 
 #### Amendments
 
-<b>1994</b>—Par. (1). Pub. L. 103–238, §24(c)(5), made technical amendment to references to sections 1421d and 1421f of this title to reflect renumbering of corresponding sections of original act.
+<b>1994</b>—Par. (1). Pub. L. 103–238, §24(c)(5), made technical amendment to references to sections 1421d and1421f of this title to reflect renumbering of corresponding sections of original act.
 
 Par. (2). Pub. L. 103–238, §24(c)(6), made technical amendment to reference to section 1421f of this title to reflect renumbering of corresponding section of original act.
 

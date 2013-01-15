@@ -1,10 +1,16 @@
 ### §262. Failure of selection for promotion
 
-(a) An officer, other than an officer serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for his grade under section 256 of this title, fails of selection if he is not selected for promotion by the selection board which considered him, or if having been recommended for promotion by the board, his name is thereafter removed from the report of the board by the President.
+An officer, other than an officer serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for his grade under section 256 of this title, fails of selection if he is not selected for promotion by the selection board which considered him, or if having been recommended for promotion by the board, his name is thereafter removed from the report of the board by the President.
 
-(b) An officer shall not be considered to have failed of selection if he was not considered by a selection board because of administrative error. If he is selected by the next succeeding selection board and promoted, he shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had he been recommended by the first selection board.
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181; amended Pub. L. 112–213, title II, §208(c), Dec. 20, 2012, 126 Stat. 1549.)
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181.)
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) describing failure of selection for promotion with an exception made if an officer was not considered because of administrative error.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–213 effective Dec. 20, 2012, with provision for convening a special selection board for certain errors occurring on or after the date that is 1 year before Dec. 20, 2012, see section 208(e)(1) of Pub. L. 112–213, set out as a note under section 261 of this title.
 
 #### Placement Out of Line of Promotion Prior to September 24, 1963
 

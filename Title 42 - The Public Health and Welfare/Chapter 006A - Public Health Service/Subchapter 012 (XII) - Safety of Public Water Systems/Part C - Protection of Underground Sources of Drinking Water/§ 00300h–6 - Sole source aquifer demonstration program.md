@@ -92,13 +92,13 @@ Within 120 days after receipt of an application under this section, the Administ
 
 #### (j) Grants and reimbursement
 
-Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any oneaquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
+Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any one aquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
 
 #### (k) Activities funded under other law
 
 No funds authorized under this section may be used to fund activities funded under other sections of this chapter or the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] or other environmental laws.
 
-#### (<i>l</i>) Savings provision
+#### (l) Savings provision
 
 Nothing under this section shall be construed to amend, supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws; or any requirement imposed or right provided under any Federal or State environmental or public health statute.
 
@@ -139,7 +139,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for 
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-<b>1995</b>—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
+<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
 <b>1986</b>—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

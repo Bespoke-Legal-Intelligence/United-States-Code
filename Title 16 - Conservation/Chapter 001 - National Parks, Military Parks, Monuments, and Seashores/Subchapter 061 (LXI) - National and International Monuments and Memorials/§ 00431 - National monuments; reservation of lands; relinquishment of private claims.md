@@ -1,6 +1,6 @@
 ### §431. National monuments; reservation of lands; relinquishment of private claims
 
-The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
+The President of the United States is authorized, in his discretion, to declare by public proclamation historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated upon thelands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. When such objects are situated upon a tract covered by a bona fide unperfected claim or held in private ownership, the tract, or so much thereof as may be necessary for the proper care and management of the object, may be relinquished to the Government, and the Secretary of the Interior is authorized to accept the relinquishment of such tracts in behalf of the Government of the United States.
 
 (June 8, 1906, ch. 3060, §2, 34 Stat. 225.)
 
@@ -86,11 +86,15 @@ Castle Pinckney National Monument, South Carolina.—Proc. No. 1713, Oct. 15, 19
 
 Cedar Breaks National Monument, Utah.—Proc. No. 2054, Aug. 22, 1933, 48 Stat. 1705.
 
+César E. Chávez National Monument, California.—Proc. No. 8884, Oct. 8, 2012, 77 F.R. 62413.
+
 Chaco Canyon National Monument, New Mexico \[Monument abolished and funds made available to Chaco Culture National Historical Park, see section 410ii–1(a) of this title\].—Proc. No. 740, Mar. 11, 1907, 35 Stat. 2119; Proc. No. 1826, Jan. 10, 1928, 45 Stat. 2937.
 
 Channel Islands National Monument, California \[Monument abolished and incorporated in Channel Islands National Park, see section 410ff of this title\].—Proc. No. 2281, Apr. 26, 1938, 52 Stat. 1541; Proc. No. 2825, Feb. 9, 1949, 63 Stat. 1258.
 
 Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961, 75 Stat. 1023.
+
+Chimney Rock National Monument, Colorado.—Proc. No. 8868, Sept. 21, 2012, 77 F.R. 59275.
 
 Chiricahua National Monument, Arizona.—Proc. No. 1692, Apr. 18, 1924, 43 Stat. 1946; Proc. No. 2288, June 10, 1938, 52 Stat. 1551.
 
@@ -137,6 +141,8 @@ Fort Matanzas National Monument, Florida.—Proc. No. 1713, Oct. 15, 1924, 43 St
 Fort Monroe National Monument, Virginia.—Proc. No. 8750, Nov. 1, 2011, 76 F.R. 68625.
 
 Fort Niagara National Monument, New York.—Proc. No. 1745, Sept. 5, 1925, 44 Stat. 2582.
+
+Fort Ord National Monument, California.—Proc. No. 8803, Apr. 20, 2012, 77 F.R. 24579.
 
 Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Pub. L. 104–333, div. I, title VIII, §807, Nov. 12, 1996, 110 Stat. 4188.
 
@@ -238,7 +244,7 @@ Navajo National Monument, Arizona.—Proc. No. 873, May 20, 1909, 36 Stat. 2491;
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
-Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papaha�AE8naumokua�AE8kea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
+Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papahānaumokuākea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
 Ocmulgee National Monument, Georgia \[see section 447a of this title\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
 
@@ -252,13 +258,13 @@ Pacific Remote Islands Marine National Monument, Wake, Baker, Howland, and Jarvi
 
 Papago Saguaro National Monument, Arizona \[Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, §2873, Jan. 6, 2006, 119 Stat. 3535\].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
 
-Papaha�AE8naumokua�AE8kea Marine National Monument, Hawaii \[Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
+Papahānaumokuākea Marine National Monument, Hawaii \[Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
 Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
 
 Petrified Forest National Monument \[Monument disestablished on establishment of Petrified Forest National Park, see sections 119 and 444 of this title\].—Proc. No. 697, Dec. 8, 1906, 34 Stat. 3266; Proc. No. 1167, July 31, 1911, 37 Stat. 1716; Proc. No. 1927, Nov. 14, 1930, 46 Stat. 3040; Proc. No. 1975, Nov. 30, 1931, 47 Stat. 2486; Proc. No. 2011, Sept. 23, 1932, 47 Stat. 2532.
 
-Pinnacles National Monument, California.—Proc. No. 796, Jan. 16, 1908, 35 Stat. 2177; Proc. No. 1660, May 7, 1923, 43 Stat. 1911; Proc. No. 1704, July 2, 1924, 43 Stat. 1961; Proc. No. 1948, Apr. 13, 1931, 47 Stat. 2451; Proc. No. 2050, July 11, 1933, 48 Stat. 1701; Proc. No. 2528, Dec. 5, 1941, 55 Stat. 1709; Proc. No. 7266, Jan. 11, 2000, 65 F.R. 2831.
+Pinnacles National Monument, California \[Monument abolished and lands and interests therein incorporated within and made part of Pinnacles National Park, see section 410<i>ooo</i>–1 of this title\].—Proc. No. 796, Jan. 16, 1908, 35 Stat. 2177; Proc. No. 1660, May 7, 1923, 43 Stat. 1911; Proc. No. 1704, July 2, 1924, 43 Stat. 1961; Proc. No. 1948, Apr. 13, 1931, 47 Stat. 2451; Proc. No. 2050, July 11, 1933, 48 Stat. 1701; Proc. No. 2528, Dec. 5, 1941, 55 Stat. 1709; Proc. No. 7266, Jan. 11, 2000, 65 F.R. 2831.
 
 Pipe Spring National Monument, Arizona.—Proc. No. 1663, May 31, 1923, 43 Stat. 1913.
 
@@ -476,7 +482,7 @@ Wright Brothers National Memorial, North Carolina.—Kill Devil Hill National Mo
 
 #### Albert Einstein Memorial
 
-Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title when no longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(<i>o</i>), Oct. 12, 1979, 93 Stat. 666.
+Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title when no longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(o), Oct. 12, 1979, 93 Stat. 666.
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 

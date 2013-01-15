@@ -12,13 +12,13 @@ Congress finds the following:
 
 &emsp;(4) In recent years, large quantities of Hass avocados have been imported into the United States from other countries.
 
-&emsp;(5) The maintenance and expansion of markets in existence on October 28, 2000, and the development of new or improved markets or uses for Hass avocados are needed to preserve and strengthen the economic viability of the domestic Hass avocado industry for the benefit of producers and other persons associatedwith the producing, marketing, processing, and consuming of Hass avocados.
+&emsp;(5) The maintenance and expansion of markets in existence on October 28, 2000, and the development of new or improved markets or uses for Hass avocados are needed to preserve and strengthen the economic viability of the domestic Hass avocado industry for the benefit of producers and other persons associated with the producing, marketing, processing, and consuming of Hass avocados.
 
 &emsp;(6) An effective and coordinated program of promotion, research, industry information, and consumer information regarding Hass avocados is necessary for the maintenance, expansion, and development of domestic markets for Hass avocados.
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
+It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderlyprocedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
 
 &emsp;(1) strengthen the position of the Hass avocado industry in the domestic marketplace; and
 

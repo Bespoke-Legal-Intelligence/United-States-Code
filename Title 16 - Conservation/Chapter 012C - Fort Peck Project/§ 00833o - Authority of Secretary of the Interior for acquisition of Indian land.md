@@ -1,6 +1,6 @@
 ### §833<i>o</i>. Authority of Secretary of the Interior for acquisition of Indian land
 
-The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 833<i>l</i> to 833p of this title.
+The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 833l to 833p of this title.
 
 (Apr. 23, 1946, ch. 199, §4, 60 Stat. 118.)
 

@@ -6,7 +6,7 @@ Within the boundaries of Virgin Islands National Park as established and adjuste
 
 #### (b) Employment and training of residents to develop, etc., area
 
-The Secretary is authorized and directed to the maximum extent feasible to employ andtrain residents of the Virgin Islands to develop, maintain, and administer the Virgin Islands National Park.
+The Secretary is authorized and directed to the maximum extent feasible to employ and train residents of the Virgin Islands to develop, maintain, and administer the Virgin Islands National Park.
 
 #### (c) Payment requirements for acquisition of Hassel Island from United States
 
@@ -100,7 +100,7 @@ Rental amounts.—In determining the fair market value rental of the lease requi
 
 &emsp;“(6)
 
-Use of proceeds.—Rental amounts paid to the United States under a lease shall be available to theSecretary, without further appropriation, for visitor services and resource protection within the Park.
+Use of proceeds.—Rental amounts paid to the United States under a lease shall be available to the Secretary, without further appropriation, for visitor services and resource protection within the Park.
 
 &emsp;“(7)
 

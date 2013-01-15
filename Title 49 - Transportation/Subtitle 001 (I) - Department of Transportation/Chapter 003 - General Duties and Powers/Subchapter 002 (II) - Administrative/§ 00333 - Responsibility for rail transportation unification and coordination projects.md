@@ -30,7 +30,7 @@
 
 &emsp;(B) representatives of rail carrier employees who may be affected;
 
-&emsp;(C) representatives of the Interstate Commerce Commission;
+&emsp;(C) representatives of the Surface Transportation Board;
 
 &emsp;(D) State and local government officials, shippers, and consumer representatives; and
 
@@ -38,9 +38,9 @@
 
 (2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
 
-(e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Interstate Commerce Commission under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Commission, the Secretary may appear in any proceeding related to the application.
+(e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Surface Transportation Board under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Board, the Secretary may appear in any proceeding related to the application.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2429; Pub. L. 104–88, title III, §308(b), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2429; Pub. L. 104–88, title III, §308(b), Dec. 29, 1995, 109 Stat. 946; Pub. L. 112–141, div. C, title II, §32932(a)(3), (4), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -96,15 +96,19 @@ Section 203 of the Regional Rail Reorganization Act of 1973, referred to in subs
 
 #### Amendments
 
+2012–Subsec. (d)(1)(C). Pub. L. 112–141, §32932(a)(3), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
+Subsec. (e). Pub. L. 112–141, §32932(a)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission”.
+
 <b>1995</b>—Subsec. (c)(2). Pub. L. 104–88, §308(b)(1), substituted “11904” for “11910(a)(1)”.
 
 Subsec. (e). Pub. L. 104–88, §308(b)(2), substituted “11323(a)” for “11343(a)” and “11324(b)” for “11344(b)”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
-
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 

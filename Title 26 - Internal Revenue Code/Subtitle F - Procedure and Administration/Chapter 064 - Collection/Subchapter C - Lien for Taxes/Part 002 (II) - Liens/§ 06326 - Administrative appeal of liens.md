@@ -16,9 +16,9 @@ A prior section 6326 was renumbered 6327 of this title.
 
 #### Effective Date
 
-Section 6238(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the date which is 60 days after the date regulations are issued under subsection (b) \[set out below\].”
+Pub. L. 100–647, title VI, §6238(d), Nov. 10, 1988, 102 Stat. 3743, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the date which is 60 days after the date regulations are issued under subsection (b) \[set out below\].”
 
 #### Regulations
 
-Section 6238(b) of Pub. L. 100–647 required Secretary of the Treasury or Secretary's delegate to prescribe regulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
+Pub. L. 100–647, title VI, §6238(b), Nov. 10, 1988, 102 Stat. 3743, required Secretary of the Treasury or Secretary's delegate to prescribe regulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
 

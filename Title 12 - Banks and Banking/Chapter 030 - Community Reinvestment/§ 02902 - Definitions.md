@@ -46,7 +46,7 @@ Par. (2). Pub. L. 111–203, §358(1)(B), struck out par. (2) relating to the Di
 
 <b>1989</b>—Par. (1)(D). Pub. L. 101–73, §744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
 
-Par. (2). Pub. L. 101–73, §1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act”.
+Par. (2). Pub. L. 101–73, §1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 ofthis title or an insured institution as defined in section 401 of the National Housing Act”.
 
 <b>1978</b>—Par. (4). Pub. L. 95–630 added par. (4).
 

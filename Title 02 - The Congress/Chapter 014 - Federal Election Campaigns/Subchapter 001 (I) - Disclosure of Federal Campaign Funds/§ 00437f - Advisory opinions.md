@@ -24,7 +24,7 @@ Any rule of law which is not stated in this Act or in chapter 95 or chapter 96 o
 
 The Commission shall make public any request made under subsection (a) of this section for an advisory opinion. Before rendering an advisory opinion, the Commission shall accept written comments submitted by any interested party within the 10-day period following the date the request is made public.
 
-(Pub. L. 92–225, title III, §308, formerly §313, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1283; renumbered §312 and amended Pub. L. 94–283, title I, §§105, 108(a), May 11, 1976, 90 Stat. 481, 482; renumbered §308 and amended Pub. L. 96–187, title I, §§105(4), 107(a), Jan. 8, 1980, 93 Stat. 1354, 1357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §308, formerly §313, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1283; renumbered §312 and amended Pub. L. 94–283, title I, §§105, 108(a), May 11, 1976, 90 Stat. 481, 482; renumbered §308 and amendedPub. L. 96–187, title I, §§105(4), 107(a), Jan. 8, 1980, 93 Stat. 1354, 1357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 
@@ -64,5 +64,5 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Conformance of Advisory Opinions Issued Prior to May 11, 1976, to Requirements Imposed Under 1976 Amendments
 
-Section 108(b) of Pub. L. 94–283 provided that: “The Commission shall, no later than 90 days after the date of the enactment of this Act \[May 11, 1976\], conform the advisory opinions issued before such date of enactment to the requirements established by section 312 (a) of the Act \[subsec. (a) of this section\], as amended by subsection (a) of this section. The provisions of section 312(b) of the Act \[subsec. (b) of this section\], as amended by subsection (a) of this section, shall apply with respect to all advisory opinions issued before the date of the enactment of this Act as conformed to meet the requirements of section 312(a) of the Act, as amended by subsection (a) of this section.”
+Pub. L. 94–283, title I, §108(b), May 11, 1976, 90 Stat. 482, provided that: “The Commission shall, no later than 90 days after the date of the enactment of this Act \[May 11, 1976\], conform the advisory opinions issued before such date of enactment to the requirements established by section 312 (a) of the Act \[subsec. (a) of this section\], as amended by subsection (a) of this section. The provisions of section 312(b) of the Act \[subsec. (b) of this section\], as amended by subsection (a) of this section, shall apply with respect to all advisory opinions issued before the date of the enactment of this Act as conformed to meet the requirements of section 312(a) of the Act, as amended by subsection (a) of this section.”
 

@@ -216,7 +216,7 @@ The Director shall seek opportunities to partner with purchasing and procurement
 
 &emsp;&emsp;(B) any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
 
-#### (<i>l</i>) ARPA-E evaluation
+#### (l) ARPA-E evaluation
 
 #### (1) In general
 
@@ -330,17 +330,17 @@ Subsec. (h)(2). Pub. L. 111–358, §904(7), substituted “2010” for “2008�
 
 Subsec. (i). Pub. L. 111–358, §904(4), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 111–358, §904(8), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.”
+Subsec. (j). Pub. L. 111–358, §904(8), added subsec. (j) and struck out former subsec. (j). Prior to amendment,text read as follows: “The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.”
 
 Pub. L. 111–358, §904(4), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 111–358, §904(4), redesignated subsecs. (j) and (k) as (k) and (<i>l</i>), respectively. Former subsec. (<i>l</i>) redesignated (m).
+Subsecs. (k), (l). Pub. L. 111–358, §904(4), redesignated subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (m).
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–358, §904(9)(A), substituted “6 years” for “4 years”.
+Subsec. (l)(1). Pub. L. 111–358, §904(9)(A), substituted “6 years” for “4 years”.
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 111–358, §904(9)(B), inserted “, and the manner in which those lessons may apply to the operation of other programs of the Department” after “ARPA-E”.
+Subsec. (l)(2)(B). Pub. L. 111–358, §904(9)(B), inserted “, and the manner in which those lessons may apply to the operation of other programs of the Department” after “ARPA-E”.
 
-Subsecs. (m), (n). Pub. L. 111–358, §904(4), redesignated subsecs. (<i>l</i>) and (m) as (m) and (n), respectively.
+Subsecs. (m), (n). Pub. L. 111–358, §904(4), redesignated subsecs. (l) and (m) as (m) and (n), respectively.
 
 Subsec. (n)(2)(C) to (E). Pub. L. 111–358, §904(10)(A), added subpars. (C) to (E).
 

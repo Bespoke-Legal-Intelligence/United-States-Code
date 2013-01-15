@@ -40,13 +40,13 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (2) Congressional notification
 
-&emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination made under that paragraph and the extent of the adjustment to be made.
+&emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination madeunder that paragraph and the extent of the adjustment to be made.
 
 (Pub. L. 110–234, title I, §1601, May 22, 2008, 122 Stat. 1000; Pub. L. 110–246, §4(a), title I, §1601, June 18, 2008, 122 Stat. 1664, 1728.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which enacted this chapter and sections 1359kk, 1359<i>ll</i>, and 7287 of this title, amended sections 450<i>l</i>, 608c, 1308, 1308–1, 1308–2, 1308–3a, 1308a, 1359aa to 1359gg, 1359ii, 1471g, 1524, 1637b, 4502, 4504, 4531, 7284, 7286, 7333, 7416a, 7971, 7991, and 8204 of this title, section 1141j of Title 12, Banks and Banking, section 713a–14 of Title 15, Commerce and Trade, sections 590h and 2106a of Title 16, Conservation, section 2401 of Title 19, Customs Duties, repealed sections 1359kk, 7993, and 8000 of this title, and enacted provisions set out as notes under sections 1308, 1308–3a, 3602, 7272 and 7333 of this title. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which enacted this chapter and sections 1359kk, 1359ll, and 7287 of this title, amended sections 450l, 608c, 1308, 1308–1, 1308–2, 1308–3a, 1308a, 1359aa to 1359gg, 1359ii, 1471g, 1524, 1637b, 4502, 4504, 4531, 7284, 7286, 7333, 7416a, 7971, 7991, and 8204 of this title, section 1141j of Title 12, Banks and Banking, section 713a–14 of Title 15, Commerce and Trade, sections 590h and 2106a of Title 16, Conservation, section 2401 of Title 19, Customs Duties, repealed sections 1359kk, 7993, and 8000 of this title, and enacted provisions set out as notes under sections 1308, 1308–3a, 3602, 7272 and 7333 of this title. For complete classification of title I to the Code, see Tables.
 
 The date of enactment of this Act, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 

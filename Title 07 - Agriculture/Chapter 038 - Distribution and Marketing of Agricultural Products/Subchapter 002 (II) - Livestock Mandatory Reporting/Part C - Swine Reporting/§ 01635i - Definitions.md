@@ -84,7 +84,7 @@ In this part:
 
 #### (13) Packer-owned swine
 
-&emsp;The term “packer-owned swine” means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
+&emsp;The term “packer-owned swine” means swine that a packer (including a subsidiary oraffiliate of the packer) owns for at least 14 days immediately before slaughter.
 
 #### (14) Packer-sold swine
 

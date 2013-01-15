@@ -72,7 +72,7 @@
 
 #### (I) States that elected optional medicaid eligibility
 
-&emsp;&emsp;&emsp;&emsp;No State that has an application that has been approved under this section and that has elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title shall receive a grant for a fiscal year that exceeds 10 percent of the total expenditures by the State (including the reimbursed Federal share of such expenditures) for medical assistance provided under such subchapter for such individuals, as estimated by the State and approved by the Secretary.
+&emsp;&emsp;&emsp;&emsp;No State that has an application that has been approved under this section andthat has elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title shall receive a grant for a fiscal year that exceeds 10 percent of the total expenditures by the State (including the reimbursed Federal share of such expenditures) for medical assistance provided under such subchapter for such individuals, as estimated by the State and approved by the Secretary.
 
 #### (II) Other States
 

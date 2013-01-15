@@ -250,7 +250,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For plan year 2011 and subsequent plan years, in the case of a Medicare Advantage private fee-for-service plan not described in paragraph (1) or (2) of section 1395w–27(i) of this title operating in a network area (as defined in subparagraph (B)), the plan shall meet the access standards under paragraph (4) in that area only through entering into written contracts as provided for under subparagraph (B) of such paragraph and not, in whole or in part, through the establishment of payment rates meeting the requirements under subparagraph (A) of such paragraph.
+&emsp;&emsp;For plan year 2011 and subsequent plan years, in the case of a Medicare Advantage private fee-for-service plan not described in paragraph (1) or (2) of section 1395w–27(i) of this title operating in a network area (as defined in subparagraph (B)), the plan shall meet the access standards under paragraph (4) in that area only through entering into written contracts as provided for under subparagraph (B) of such paragraph and not, in whole or in part, through the establishmentof payment rates meeting the requirements under subparagraph (A) of such paragraph.
 
 #### (B) Network area defined
 
@@ -390,7 +390,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (i) Enrollee requests
 
-&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally, an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+�Choice organization.
+&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally, an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+Choice organization.
 
 #### (ii) Physician requests
 
@@ -416,7 +416,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (5) Appeals
 
-&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
+&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
 
 #### (h) Confidentiality and accuracy of enrollee records
 
@@ -452,15 +452,15 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+�Choice plan offered by the organization under this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+Choice plan offered by the organization under this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
 
 #### (B) Conscience protection
 
-&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice plan to provide, reimburse for, or provide coverage of a counseling or referral service if the Medicare+�Choice organization offering the plan—
+&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice plan to provide, reimburse for, or provide coverage of a counseling or referral service if the Medicare+Choice organization offering the plan—
 
 &emsp;&emsp;&emsp;(i) objects to the provision of such service on moral or religious grounds; and
 
-&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such Medicare+�Choice organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90 days after the date that the organization or plan adopts a change in policy regarding such a counseling or referral service.
+&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such Medicare+Choice organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90 days after the date that the organization or plan adopts a change in policy regarding such a counseling or referral service.
 
 #### (C) Construction
 
@@ -538,7 +538,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (2) Application to Medicare+Choice private fee-for-service plans
 
-#### (A) Balance billing limits under Medicare+�Choice private fee-for-service plans in case of contract providers
+#### (A) Balance billing limits under Medicare+Choice private fee-for-service plans in case of contract providers
 
 #### (i) In general
 
@@ -564,17 +564,17 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with thissubsection) with respect to payments for such services.
+&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments tohospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a good faith estimate of the likely amount of such balance billing (if any), with respect to such services, based upon the presenting condition of the enrollee.
 
-#### (<i>l</i>) Return to home skilled nursing facilities for covered post-hospital extended care services
+#### (l) Return to home skilled nursing facilities for covered post-hospital extended care services
 
 #### (1) Ensuring return to home SNF
 
@@ -630,11 +630,11 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;The term “continuing care retirement community” means, with respect to an enrollee in a Medicare+Choice plan, an arrangement under which housing and health-related services are provided (or arranged) through an organization for the enrollee under an agreement that is effective for the life of the enrollee or for a specified period.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (<i>l</i>)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454.)
 
 #### References in Text
 
-Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of thistitle, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -682,7 +682,7 @@ Subsec. (a)(5). Pub. L. 108–173, §900(e)(1)(F), substituted “Centers for Me
 
 Subsec. (a)(6). Pub. L. 108–173, §221(d)(3)(B), added par. (6).
 
-Subsec. (b)(1)(A). Pub. L. 108–173, §222(<i>l</i>)(1), inserted at end “The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.”
+Subsec. (b)(1)(A). Pub. L. 108–173, §222(l)(1), inserted at end “The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.”
 
 Subsec. (c)(1)(I). Pub. L. 108–173, §722(b), amended heading and text of subpar. (I) generally. Prior to amendment, text read as follows: “A description of the organization's quality assurance program under subsection (e) of this section, if required under such section.”
 
@@ -740,7 +740,7 @@ Subsec. (e)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §616(b)\], added par. 
 
 Subsec. (g)(4). Pub. L. 106–554, §1(a)(6) \[title V, §521(b)\], inserted at end “The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.”
 
-Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added subsec. (l).
 
 <b>1999</b>—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
 
@@ -782,9 +782,9 @@ Pub. L. 110–275, title I, §165(b), July 15, 2008, 122 Stat. 2575, provided th
 
 #### Effective and Termination Dates of 2003 Amendment
 
-Amendment by sections 221(d)(3) and 222(a)(2), (3), (h), (<i>l</i>)(1) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 1395w–21 of this title.
+Amendment by sections 221(d)(3) and 222(a)(2), (3), (h), (l)(1) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 1395w–21 of this title.
 
-Pub. L. 108–173, title II, §233(a)(3), Dec. 8, 2003, 117 Stat. 2209, provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after the date of the enactment of this Act \[Dec. 8, 2003\] but shall not apply to contract years beginning on or after January 1, 2006.”
+Pub. L. 108–173, title II, §233(a)(3), Dec. 8, 2003, 117 Stat. 2209, provided that: “The amendments made bythis subsection \[amending this section\] shall apply on and after the date of the enactment of this Act \[Dec. 8, 2003\] but shall not apply to contract years beginning on or after January 1, 2006.”
 
 Pub. L. 108–173, title VII, §722(c), Dec. 8, 2003, 117 Stat. 2348, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to contract years beginning on and after January 1, 2006.”
 

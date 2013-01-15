@@ -22,7 +22,7 @@ The Secretary shall ensure that appropriate procedures, including to the extent 
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and\(b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 For definition of “this chapter”, referred to in subsec. (b)(1), (3), see note set out under section 1921 of this title.
 
@@ -36,11 +36,11 @@ Subsec. (b)(2). Pub. L. 102–552, §516(g)(1)(B), inserted “Robert T. Staffor
 
 #### Effective Date of 1992 Amendment
 
-Section 516(g)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending this section\] shall take effect immediately after section 501(d) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section and enacting provisions set out below\] took effect.”
+Pub. L. 102–552, title V, §516(g)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection \[amending this section\] shall take effect immediately after section 501(d) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section and enacting provisions set out below\] took effect.”
 
 #### Effective Date of 1991 Amendment
 
-Section 501(d)(3) of Pub. L. 102–237 provided that:
+Pub. L. 102–237, title V, §501(d)(3), Dec. 13, 1991, 105 Stat. 1867, provided that:
 
 “(A)
 
@@ -52,7 +52,7 @@ Exception.—The amendment made by paragraph (1) shall apply to each primary loa
 
 #### Regulations
 
-Section 501(d)(2) of Pub. L. 102–237 provided that:
+Pub. L. 102–237, title V, §501(d)(2), Dec. 13, 1991, 105 Stat. 1867, provided that:
 
 “(A)
 

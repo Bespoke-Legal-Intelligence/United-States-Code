@@ -6,7 +6,7 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (b) Appointment; term of office; compensation
 
-(1) The Commissioner shall be appointed by the President by and with the advice and consent of the Senate.
+(1) The Commissioner shall be appointed by the President.
 
 (2) The term of office of the Commissioner shall be 2 years. An individual may be appointed Commissioner for more than one term. The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.
 
@@ -46,7 +46,7 @@ There is hereby established as an independent entity in the executive branch the
 
 The Office of Navajo and Hopi Indian Relocation shall cease to exist when the President determines that its functions have been fully discharged.
 
-(Pub. L. 93–531, §12, Dec. 22, 1974, 88 Stat. 1716; Pub. L. 96–305, §5, July 8, 1980, 94 Stat. 932; Pub. L. 100–666, §4(a), Nov. 16, 1988, 102 Stat. 3929; Pub. L. 100–696, title IV, §406, Nov. 18, 1988, 102 Stat. 4592; Pub. L. 102–180, §3(a)–(c), Dec. 2, 1991, 105 Stat. 1230.)
+(Pub. L. 93–531, §12, Dec. 22, 1974, 88 Stat. 1716; Pub. L. 96–305, §5, July 8, 1980, 94 Stat. 932; Pub. L. 100–666, §4(a), Nov. 16, 1988, 102 Stat. 3929; Pub. L. 100–696, title IV, §406, Nov. 18, 1988, 102 Stat. 4592; Pub. L. 102–180, §3(a)–(c), Dec. 2, 1991, 105 Stat. 1230; Pub. L. 112–166, §2(u), Aug. 10, 2012, 126 Stat. 1288.)
 
 #### References in Text
 
@@ -57,6 +57,8 @@ The Navajo and Hopi Indian Relocation Amendments of 1988, referred to in subsec.
 Public Law 99–190, referred to in subsec. (c)(2), is Pub. L. 99–190, Dec. 19, 1985, 99 Stat. 1185. The provisions of Pub. L. 99–190 (99 Stat. 1236) relating to the relocation of members of the Navajo Tribe are not classified to the Code. For complete classification of Pub. L. 99–190 to the Code, see Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” before period at end.
 
 <b>1991</b>—Subsec. (b)(2). Pub. L. 102–180, §3(a), inserted at end “The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.”
 
@@ -76,21 +78,25 @@ Subsec. (h). Pub. L. 96–305, §5(2), substituted provision authorizing Commiss
 
 Subsecs. (i), (j). Pub. L. 96–305, §5(3), added subsec. (i) and redesignated former subsec. (i) as (j).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
 #### Separation or Reduction in Grade or Compensation of Employee
 
-Section 3(d) of Pub. L. 102–180 provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees\] shall not cause any employee of the Office of Navajo and Hopi Indian Relocation to be separated or reduced in grade or compensation for 12 months after the date of enactment of this Act \[Dec. 2, 1991\].”
+Pub. L. 102–180, §3(d), Dec. 2, 1991, 105 Stat. 1230, provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees\] shall not cause any employee of the Office of Navajo and Hopi Indian Relocation to be separated or reduced in grade or compensation for 12 months after the date of enactment of this Act \[Dec. 2, 1991\].”
 
 #### Positions in Senior Executive Service
 
-Section 3(e) of Pub. L. 102–180 provided that: “The position of Executive Director of the Office of Navajo and Hopi Indian Relocation and Deputy Executive Director of such Office shall on and after the date of the enactment of this Act \[Dec. 2, 1991\], be in the Senior Executive Service.”
+Pub. L. 102–180, §3(e), Dec. 2, 1991, 105 Stat. 1230, provided that: “The position of Executive Director of the Office of Navajo and Hopi Indian Relocation and Deputy Executive Director of such Office shall on and after the date of the enactment of this Act \[Dec. 2, 1991\], be in the Senior Executive Service.”
 
 #### Employees of Office as Government Employees
 
-Section 3(f) of Pub. L. 102–180 provided that: “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code.”
+Pub. L. 102–180, §3(f), Dec. 2, 1991, 105 Stat. 1231, provided that: “Any employee of the Office of Navajo and Hopi Indian Relocation on the date of the enactment of this Act \[Dec. 2, 1991\], shall be considered an employee as defined in section 2105 of title 5, United States Code.”
 
 #### Continuation of Relocation Commission and Retention of Existing Commissioners Pending Confirmation of Commissioner; Transfer of Existing Personnel; Change of Name
 
-Section 4(c) of Pub. L. 100–666 provided that:
+Pub. L. 100–666, §4(c), Nov. 16, 1988, 102 Stat. 3930, provided that:
 
 “(1) Notwithstanding any other provisions of law or any amendment made by this Act \[see Short Title of 1988 Amendment note under section 640d of this title\]—
 

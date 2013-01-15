@@ -90,7 +90,7 @@ In this section:
 
 &emsp;The term “Federal health safety net organization” means—
 
-&emsp;&emsp;(A) a Federally-qualified health center (as defined in section 3196d(<i>l</i>)(2)(B) of this title);
+&emsp;&emsp;(A) a Federally-qualified health center (as defined in section 3196d(l)(2)(B) of this title);
 
 &emsp;&emsp;(B) a hospital defined as a disproportionate share hospital for purposes of section 1396r–4 of this title;
 

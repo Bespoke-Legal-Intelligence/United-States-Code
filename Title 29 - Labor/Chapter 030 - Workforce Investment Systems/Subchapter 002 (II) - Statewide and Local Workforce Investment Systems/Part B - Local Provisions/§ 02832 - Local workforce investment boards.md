@@ -72,7 +72,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Concentrated employment programs
 
-&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act in consultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
+&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act inconsultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
 
 #### (2) Certification
 
@@ -108,7 +108,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (4) Single State area
 
-&emsp;Notwithstanding subsection (b) of this section and paragraphs (1) and (2), if a State described in section 2831(b) of this title indicates in the State plan that the State will be treated as a local area for purposes of the application of this chapter, the Governor may designate the State board to carry out any of thefunctions described in subsection (d) of this section.
+&emsp;Notwithstanding subsection (b) of this section and paragraphs (1) and (2), if a State described in section 2831(b) of this title indicates in the State plan that the State will be treated as a local area for purposes of the application of this chapter, the Governor may designate the State board to carry out any of the functions described in subsection (d) of this section.
 
 #### (d) Functions of local board
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governorserves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -180,7 +180,7 @@ The functions of the local board shall include the following:
 
 #### (6) Employment statistics system
 
-&emsp;The local board shall assist the Governor in developing the statewide employment statistics system described in section 49<i>l</i>–2(e) of this title.
+&emsp;The local board shall assist the Governor in developing the statewide employment statistics system described in section 49l–2(e) of this title.
 
 #### (7) Employer linkages
 
@@ -228,7 +228,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (2) Core services; intensive services; designation or certification as one-stop operators
 
-&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3) of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
+&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3)of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
 
 #### (3) Limitation on authority
 

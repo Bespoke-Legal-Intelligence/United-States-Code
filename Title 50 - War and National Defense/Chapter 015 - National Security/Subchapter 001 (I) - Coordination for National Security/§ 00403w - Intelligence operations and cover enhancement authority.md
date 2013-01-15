@@ -90,7 +90,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 #### (1) In general
 
-&emsp;The Director of the Central Intelligence Agency may establish and administer a nonofficial cover employee health insurance program for designated employees (and the family of such designated employees). A designated employee may not participate in the health insurance program established under this paragraph and the program under chapter 89 of title 5 at the same time.
+&emsp;The Director of the Central Intelligence Agency may establish and administer a nonofficial cover employee health insurance program for designated employees (and the family of such designated employees). A designated employee may not participate in the healthinsurance program established under this paragraph and the program under chapter 89 of title 5 at the same time.
 
 #### (2) Conversion to Federal employees health benefits program
 

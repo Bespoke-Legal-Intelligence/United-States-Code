@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to eachbuyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that—
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that—
 
 &emsp;&emsp;&emsp;(i) the distribution of the portion of the master list may be in electronic, written, or printed form; and
 
@@ -66,7 +66,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financingstatement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
 &emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
@@ -110,7 +110,7 @@ For the purposes of this section—
 
 &emsp;(11) The term “Secretary of State” means the Secretary of State or the designee of the State.
 
-&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers andletters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
+&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
 #### (d) Purchases free of security interest
 

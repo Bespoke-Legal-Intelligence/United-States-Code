@@ -20,7 +20,7 @@
 
 Section 5(b) of act Oct. 6, 1917, is part of the Trading with the Enemy Act and is also classified to section 5(b) of the Appendix to Title 50, War and National Defense.
 
-Words “, including the Philippine Islands, and the several courts of first instance of the Commonwealth of the Philippine Islands shall have jurisdiction in all cases, civil or criminal, arising under this section in the Philippine Islands and concurrent jurisdiction with the district courts of the United States of all cases,civil or criminal, arising upon the high seas” following “to the jurisdiction thereof:” in subsec. (3) were omitted on authority of 1946 Proc. No. 2695, which granted the Philippine Islands independence, and which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse. Proc. No. 2695 is set out as a note under section 1394 of Title 22.
+Words “, including the Philippine Islands, and the several courts of first instance of the Commonwealth of the Philippine Islands shall have jurisdiction in all cases, civil or criminal, arising under this section in the Philippine Islands and concurrent jurisdiction with the district courts of the United States of all cases, civil or criminal, arising upon the high seas” following “to the jurisdiction thereof:” in subsec. (3) were omitted on authority of 1946 Proc. No. 2695, which granted the Philippine Islands independence, and which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse. Proc. No. 2695 is set out as a note under section 1394 of Title 22.
 
 #### Amendments
 
@@ -52,13 +52,13 @@ For provisions relating to the administration of the Export Administration Act, 
 
 #### Limitation on Exercise of Emergency Authorities
 
-Section 525(b)(2) of Pub. L. 103–236 provided that: “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Apr. 30, 1994\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as amended by paragraph (1) of this subsection, may not be regulated or prohibited.”
+Pub. L. 103–236, title V, §525(b)(2), Apr. 30, 1994, 108 Stat. 474, provided that: “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Apr. 30, 1994\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as amended by paragraph (1) of this subsection, may not be regulated or prohibited.”
 
-Section 2502(a)(2) of Pub. L. 100–418 provided that: “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Aug. 23, 1988\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as added by paragraph (1) of this subsection, may not be regulated or prohibited.”
+Pub. L. 100–418, title II, §2502(a)(2), Aug. 23, 1988, 102 Stat. 1371, provided that: “The authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on the date of the enactment of this Act \[Aug. 23, 1988\], do not include the authority to regulate or prohibit, directly or indirectly, any activity which, under section 5(b)(4) of the Trading With the Enemy Act, as added by paragraph (1) of this subsection, may not be regulated or prohibited.”
 
 #### Extension and Termination of National Emergency Powers Under the Trading With the Enemy Act
 
-Section 101(b), (c) of Pub. L. 95–223 provided that:
+Pub. L. 95–223, title I, §101(b), (c), Dec. 28, 1977, 91 Stat. 1625, provided that:
 
 “(b) Notwithstanding the amendment made by subsection (a) \[amending par. (1) of this section\], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act \[section 1601(a) of Title 50, War and National Defense\]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act \[Sept 14, 1976\]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States.
 
@@ -70,7 +70,7 @@ Pub. L. 92–126, §2, Aug. 17, 1971, 85 Stat. 346, provided that: “In connect
 
 #### World War II Alien Property Custodian
 
-Reestablishment and termination of Office of Alien Property Custodian during World War II, see notesunder section 6 of the Appendix to Title 50, War and National Defense.
+Reestablishment and termination of Office of Alien Property Custodian during World War II, see notes under section 6 of the Appendix to Title 50, War and National Defense.
 
 #### Diplomatic Property of Germany and Japan
 
@@ -202,7 +202,7 @@ The term “foreign country designated in this Order” means a foreign country 
 
 &emsp;&emsp;&emsp;Japan;
 
-(<i>l</i>) June 14, 1941—
+(l) June 14, 1941—
 
 &emsp;&emsp;&emsp;Thailand;
 
@@ -296,11 +296,11 @@ Ex. Ord. No. 11387, Jan. 1, 1968, 33 F.R. 47, which prohibited transfers of capi
 
 Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, provided:
 
-By virtue of the authority vested in me by section 1 of the Act of August 8, 1950, 64 Stat. 419, and section 5(b) of the Act of October 6, 1917, as amended (12 U.S.C. 95a) \[this section\], and as President of the United States, and in view of the provisions of section 3 of Public Law 93–110, 87 Stat. 352, as amended by section 2 of Public Law 93–373, 88 Stat. 445, \[set out as notes under section 442 of former Title 31, Money and Finance\], it is ordered as follows:
+By virtue of the authority vested in me by section 1 of the Act of August 8, 1950, 64 Stat. 419, and section 5(b) of the Act of October 6, 1917, as amended (12 U.S.C. 95a) \[this section\], and as President of the UnitedStates, and in view of the provisions of section 3 of Public Law 93–110, 87 Stat. 352, as amended by section 2 of Public Law 93–373, 88 Stat. 445, \[set out as notes under section 442 of former Title 31, Money and Finance\], it is ordered as follows:
 
 Section 1. Executive Order No. 6260 of August 28, 1933, as amended by Executive Order No. 6359 of October 25, 1933, Executive Order No. 6556 of January 12, 1934, Executive Order No. 6560 of January 15, 1934, Executive Order No. 10896 of November 29, 1960, Executive Order No. 10905 of January 14, 1961, and Executive Order No. 11037 of July 20, 1962; the fifth and sixth paragraphs of Executive Order No. 6073, March 10, 1933 \[formerly set out as a note under section 95 of this title\]; sections 3 and 4 of Executive Order No. 6359 of October 25, 1933 \[formerly set out as a note under section 248 of this title\]; and paragraph 2(d) of Executive Order No. 10289 of September 17, 1951 \[set out as a note under section 301 of Title 3, The President\], are hereby revoked.
 
-Section 2. The revocation, in whole or in part, of such prior Executive orders relating to regulation on the acquisition of, holding of, or other transactions in gold shall not affect any act completed, or any right accruing or accrued, or any suit or proceeding finished or started in any civil or criminal cause prior to the revocation, but all such liabilities, penalties, and forfeitures under the Executive orders shall continue andmay be enforced in the same manner as if the revocation had not been made.
+Section 2. The revocation, in whole or in part, of such prior Executive orders relating to regulation on the acquisition of, holding of, or other transactions in gold shall not affect any act completed, or any right accruing or accrued, or any suit or proceeding finished or started in any civil or criminal cause prior to the revocation, but all such liabilities, penalties, and forfeitures under the Executive orders shall continue and may be enforced in the same manner as if the revocation had not been made.
 
 This order shall become effective on December 31, 1974.
 

@@ -64,7 +64,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Determination of insolvency
 
-&emsp;If, at any time, the plan sponsor of a plan in reorganization reasonably determines, takinginto account the plan's recent and anticipated financial experience, that the plan's available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
+&emsp;If, at any time, the plan sponsor of a plan in reorganization reasonably determines, taking into account the plan's recent and anticipated financial experience, that the plan's available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
 
 #### (3) Determination of resource benefit level
 

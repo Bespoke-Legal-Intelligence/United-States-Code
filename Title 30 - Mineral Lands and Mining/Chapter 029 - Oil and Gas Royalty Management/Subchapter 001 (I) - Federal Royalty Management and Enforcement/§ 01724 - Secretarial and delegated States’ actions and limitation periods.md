@@ -64,7 +64,7 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;(B)(i) The Secretary or the applicable delegated State may issue an order to perform a restructured accounting to a lessee or its designee when the Secretary or such delegated State determines during an audit of a lessee or its designee that the lessee or its designee should recalculate royalty due on an obligation based upon the Secretary's or the delegated State's finding that the lessee or its designee has made identified underpayments or overpayments which are demonstrated by the Secretary or the delegated State to be based upon repeated, systemic reporting errors for a significant number of leases or a single lease for a significant number of reporting months with the same type of error which constitutes a pattern of violations and which are likely to result in either significant underpayments or overpayments.
 
-&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the “Associate Director for Royalty Management”, and may not be delegated to any other person. If a State has been delegated authoritypursuant to section 1735 of this title, the State, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
+&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the “Associate Director for Royalty Management”, and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
 
 &emsp;&emsp;(I) be issued within a reasonable period of time from when the audit identifies the systemic, reporting errors;
 
@@ -102,7 +102,7 @@ In order to most effectively utilize resources available to the Secretary to max
 
 #### (1) 33-month period
 
-&emsp;Demands or orders issued by the Secretary or a delegated State are subject to administrative appeal in accordance with the regulations of the Secretary. No State shall impose any conditions which would hinder a lessee's or itsdesignee's immediate appeal of an order to the Secretary or the Secretary's designee. The Secretary shall issue a final decision in any administrative proceeding, including any administrative proceedings pending on August 13, 1996, within 33 months from the date such proceeding was commenced or 33 months from August 13, 1996, whichever is later. The 33-month period may be extended by any period of time agreed upon in writing by the Secretary and the appellant.
+&emsp;Demands or orders issued by the Secretary or a delegated State are subject to administrative appeal in accordance with the regulations of the Secretary. No State shall impose any conditions which would hinder a lessee's or its designee's immediate appeal of an order to the Secretary or the Secretary's designee. The Secretary shall issue a final decision in any administrative proceeding, including any administrative proceedings pending on August 13, 1996, within 33 months from the date such proceeding was commenced or 33 months from August 13, 1996, whichever is later. The 33-month period may be extended by any period of time agreed upon in writing by the Secretary and the appellant.
 
 #### (2) Effect of failure to issue decision
 
@@ -124,7 +124,7 @@ In the event a demand subject to this section is properly and timely commenced, 
 
 In the event a judicial proceeding or demand subject to this section is timely commenced and thereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
 
-#### (<i>l</i>) Stay of payment obligation pending review
+#### (l) Stay of payment obligation pending review
 
 Any person ordered by the Secretary or a delegated State to pay any obligation (other than an assessment) shall be entitled to a stay of such payment without bond or other surety instrument pending an administrative or judicial proceeding if the person periodically demonstrates to the satisfaction of the Secretary that such person is financially solvent or otherwise able to pay the obligation. In the event the person is not able to so demonstrate, the Secretary may require a bond or other surety instrument satisfactory to cover the obligation. Any person ordered by the Secretary or a delegated State to pay an assessment shall be entitled to a stay without bond or other surety instrument.
 
@@ -136,7 +136,7 @@ Pub. L. 104–185, §4(a), which directed the addition of this section after sec
 
 #### Amendments
 
-<b>1996</b>—Subsec. (<i>l</i>). Pub. L. 104–200 inserted “so” after “the person is not able to”.
+<b>1996</b>—Subsec. (l). Pub. L. 104–200 inserted “so” after “the person is not able to”.
 
 #### Effective Date
 

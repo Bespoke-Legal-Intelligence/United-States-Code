@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the United States for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
 
-(3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of theUnited States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
+(3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of the United States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
 
 (4) In this subsection:
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 99–570, §3056(b), amended subsec. (c) generally. Prior t
 
 “(1) In an emergency circumstance, equipment operated by or with the assistance of personnel assigned under subsection (a) may be used outside the land area of the United States (or any territory or possession of the United States) as a base of operations by Federal law enforcement officials to facilitate the enforcement of a law listed in subsection (a) and to transport such law enforcement officials in connection with such operations, if—
 
-&emsp;“(A) equipment operated by or with the assistance of personnel assigned under subsection (a) is not usedto interdict or to interrupt the passage of vessels or aircraft; and
+&emsp;“(A) equipment operated by or with the assistance of personnel assigned under subsection (a) is not used to interdict or to interrupt the passage of vessels or aircraft; and
 
 &emsp;“(B) the Secretary of Defense and the Attorney General jointly determine that an emergency circumstance exists.
 
@@ -310,11 +310,11 @@ Definitions Relating to Tribal Governments.—In this section:
 
 #### Communications Network
 
-Section 1103 of Pub. L. 100–456 related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 #### Enhanced Drug Interdiction and Enforcement Role for National Guard
 
-Section 1105 of Pub. L. 100–456 related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, prior to repeal by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
+Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, prior to repeal by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 

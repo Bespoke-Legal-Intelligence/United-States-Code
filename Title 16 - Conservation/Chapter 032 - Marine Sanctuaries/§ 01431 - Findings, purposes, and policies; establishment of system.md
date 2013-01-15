@@ -34,7 +34,7 @@ The purposes and policies of this chapter are—
 
 &emsp;(6) to facilitate to the extent compatible with the primary objective of resource protection, all public and private uses of the resources of these marine areas not prohibited pursuant to other authorities;
 
-&emsp;(7) to develop and implement coordinated plans for the protection and management of these areas with appropriate Federal agencies, State and local governments, Native American tribes and organizations, international organizations, and other public and private interests concerned with the continuing health and resilience of these marine areas;
+&emsp;(7) to develop and implement coordinated plans for the protection and management of these areas with appropriate Federal agencies, State and local governments, Native Americantribes and organizations, international organizations, and other public and private interests concerned with the continuing health and resilience of these marine areas;
 
 &emsp;(8) to create models of, and incentives for, ways to conserve and manage these areas, including the application of innovative management techniques; and
 
@@ -106,21 +106,21 @@ Pub. L. 106–513, §1, Nov. 13, 2000, 114 Stat. 2381, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
+Pub. L. 104–283, §1, Oct. 11, 1996, 110 Stat. 3363, provided that: “This Act \[amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–587 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Oceans Act of 1992’.”
+Pub. L. 102–587, §1, Nov. 4, 1992, 106 Stat. 5039, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Oceans Act of 1992’.”
 
-Section 2001 of title II of Pub. L. 102–587 provided that: “This title \[enacting section 1445a of this title,amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
+Pub. L. 102–587, title II, §2001, Nov. 4, 1992, 106 Stat. 5039, provided that: “This title \[enacting section 1445a of this title, amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
 
 #### Short Title of 1984 Amendment
 
-Section 101 of title I of Pub. L. 98–498 provided that: “This title \[enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the ‘Marine Sanctuaries Amendments of 1984’.”
+Pub. L. 98–498, title I, §101, Oct. 19, 1984, 98 Stat. 2296, provided that: “This title \[enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the ‘Marine Sanctuaries Amendments of 1984’.”
 
 #### Short Title
 
-Section 317 of title III, formerly section 316, of Pub. L. 92–532, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, §307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Marine Sanctuaries Act’.”
+Pub. L. 92–532, title III, §317, formerly §316, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat.5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, §307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Marine Sanctuaries Act’.”
 
 #### Congressional Findings, Policy, and Declaration of Purpose
 
@@ -166,7 +166,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (5) practical, science-based criteria and protocols for monitoring and evaluating the effectiveness of MPAs;
 
-(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effectiveenforcement strategies, to eliminate or reduce such threats and conflicts;
+(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effective enforcement strategies, to eliminate or reduce such threats and conflicts;
 
 (7) assessment of the economic effects of the preferred management solutions; and
 
@@ -174,7 +174,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (b) In carrying out the requirements of section 4 of this order, the Department of Commerce and the Department of the Interior shall consult with those States that contain portions of the marine environment, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, tribes, Regional Fishery Management Councils, and other entities, as appropriate, to promote coordination of Federal, State, territorial, and tribal actions to establish and manage MPAs.
 
-(c) In carrying out the requirements of this section, the Department of Commerce and the Department of the Interior shall seek the expert advice and recommendations of non-Federal scientists, resource managers, and other interested persons and organizations through a Marine Protected Area Federal Advisory Committee. The Committee shall be established by the Department of Commerce.
+(c) In carrying out the requirements of this section, the Department of Commerce and the Department ofthe Interior shall seek the expert advice and recommendations of non-Federal scientists, resource managers, and other interested persons and organizations through a Marine Protected Area Federal Advisory Committee. The Committee shall be established by the Department of Commerce.
 
 (d) The Secretary of Commerce and the Secretary of the Interior shall establish and jointly manage a website for information on MPAs and Federal agency reports required by this order. They shall also publish and maintain a list of MPAs that meet the definition of MPA for the purposes of this order.
 

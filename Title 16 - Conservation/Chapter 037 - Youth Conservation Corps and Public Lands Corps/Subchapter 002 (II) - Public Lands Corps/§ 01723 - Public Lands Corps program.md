@@ -28,7 +28,7 @@ The Corps shall consist of individuals between the ages of 16 and 25, inclusive,
 
 #### (1) In general
 
-&emsp;The Secretary may utilize the Corps or any qualified youth or conservation corps to carry out appropriate conservation projects which the Secretary is authorized to carry out under other authority of law on public lands.
+&emsp;The Secretary may utilize the Corps or any qualified youth or conservation corps to carryout appropriate conservation projects which the Secretary is authorized to carry out under other authority of law on public lands.
 
 #### (2) Projects on Indian lands
 

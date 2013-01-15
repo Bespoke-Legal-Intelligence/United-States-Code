@@ -74,11 +74,11 @@ Pub. L. 108–357, title VIII, §815(c), Oct. 22, 2004, 118 Stat. 1583, provided
 
 #### Effective Date of 1997 Amendment
 
-Section 1028(e) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1028(e), Aug. 5, 1997, 111 Stat. 928, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) ofthe Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
 
 “(2)
 
@@ -90,11 +90,11 @@ Amendment by section 201(d)(13) of Pub. L. 99–514 applicable to property place
 
 Amendment by section 201(d)(13) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
-Section 1531(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986.”
+Pub. L. 99–514, title XV, §1531(b), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986.”
 
 #### Effective Date
 
-Section 141(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §141(d), July 18, 1984, 98 Stat. 680, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

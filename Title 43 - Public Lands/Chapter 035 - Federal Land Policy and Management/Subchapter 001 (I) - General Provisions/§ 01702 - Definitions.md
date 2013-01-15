@@ -24,7 +24,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 (i) The term “wilderness” as used in section 1782 of this title shall have the same meaning as it does in section 1131(c) of title 16.
 
-(j) The term “withdrawal” means withholding an area of Federal land from settlement, sale,location, or entry, under some or all of the general land laws, for the purpose of limiting activities under those laws in order to maintain other public values in the area or reserving the area for a particular public purpose or program; or transferring jurisdiction over an area of Federal land, other than “property” governed by the Federal Property and Administrative Services Act, as amended (40 U.S.C. 472) <sup>1</sup> from one department, bureau or agency to another department, bureau or agency.
+(j) The term “withdrawal” means withholding an area of Federal land from settlement, sale, location, or entry, under some or all of the general land laws, for the purpose of limiting activities under those laws in order to maintain other public values in the area or reserving the area for a particular public purpose or program; or transferring jurisdiction over an area of Federal land, other than “property” governed by the Federal Property and Administrative Services Act, as amended (40 U.S.C. 472) <sup>1</sup> from one department, bureau or agency to another department, bureau or agency.
 
 (k) An “allotment management plan” means a document prepared in consultation with the lessees or permittees involved, which applies to livestock operations on the public lands or on lands within National Forests in the eleven contiguous Western States and which:
 
@@ -34,13 +34,13 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 &emsp;(3) contains such other provisions relating to livestock grazing and other objectives found by the Secretary concerned to be consistent with the provisions of this Act and other applicable law.
 
-(<i>l</i>) The term “principal or major uses” includes, and is limited to, domestic livestock grazing, fish and wildlife development and utilization, mineral exploration and production, rights-of-way, outdoor recreation, and timber production.
+(l) The term “principal or major uses” includes, and is limited to, domestic livestock grazing, fish and wildlife development and utilization, mineral exploration and production, rights-of-way, outdoor recreation, and timber production.
 
 (m) The term “department” means a unit of the executive branch of the Federal Government which is headed by a member of the President's Cabinet and the term “agency” means a unit of the executive branch of the Federal Government which is not under the jurisdiction of a head of a department.
 
 (n) The term “Bureau <sup>2</sup> means the Bureau of Land Management.
 
-(<i>o</i>) The term “eleven contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
+(o) The term “eleven contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
 
 (p) The term “grazing permit and lease” means any document authorizing use of public lands or lands in National Forests in the eleven contiguous western States for the purpose of grazing domestic livestock.
 

@@ -14,7 +14,7 @@ When it appears to the Archivist to be in the public interest, he may—
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §397(a) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(<i>o</i>), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695; July 3, 1956, ch. 513, §4, 70 Stat. 494; June 13, 1957, Pub. L. 85–51, 71 Stat. 69).
+Based on 44 U.S. Code, 1964 ed., §397(a) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(o), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695; July 3, 1956, ch. 513, §4, 70 Stat. 494; June 13, 1957, Pub. L. 85–51, 71 Stat. 69).
 
 #### Prior Provisions
 
@@ -430,7 +430,7 @@ Powers.—(1) The Review Board shall have the authority to act in a manner presc
 
 Witness Immunity.—The Review Board shall be considered to be an agency of the United States for purposes of section 6001 of title 18, United States Code.
 
-“(<i>l</i>)
+“(l)
 
 Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
@@ -444,7 +444,7 @@ Support Services.—The Administrator of the General Services Administration sha
 
 Interpretive Regulations.—The Review Board may issue interpretive regulations.
 
-“(<i>o</i>)
+“(o)
 
 Termination and Winding Up.—(1) The Review Board and the terms of its members shall terminate not later than September 30, 1998.
 
@@ -652,7 +652,7 @@ Rules of the Senate and House of Representatives.—To the extent that any provi
 
 “(a)
 
-Provisions Pertaining to the Review Board.—The provisions of this Act that pertain to the appointment and operation of the Review Board shall cease to be effective when the Review Board and the terms of its members have terminated pursuant to section 7(<i>o</i>).
+Provisions Pertaining to the Review Board.—The provisions of this Act that pertain to the appointment and operation of the Review Board shall cease to be effective when the Review Board and the terms of its members have terminated pursuant to section 7(o).
 
 “(b)
 

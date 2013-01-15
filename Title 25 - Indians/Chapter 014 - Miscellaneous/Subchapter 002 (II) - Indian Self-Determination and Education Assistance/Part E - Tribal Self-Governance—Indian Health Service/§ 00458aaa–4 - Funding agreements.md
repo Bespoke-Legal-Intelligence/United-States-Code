@@ -2,7 +2,7 @@
 
 #### (a) Funding agreement required
 
-The Secretary shall negotiate and enter into a written funding agreement with each Indian tribe participating in self-governance in a manner consistent with the Federal Government's trust responsibility, treaty obligations, and the government-to-government relationship between Indian tribes and the United States.
+The Secretary shall negotiate and enter into a written funding agreement with each Indian tribe participating in self-governance in a manner consistent with the Federal Government'strust responsibility, treaty obligations, and the government-to-government relationship between Indian tribes and the United States.
 
 #### (b) Contents
 

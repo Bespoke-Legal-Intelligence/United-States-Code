@@ -1,8 +1,8 @@
 ### §44304. Reinsurance
 
-To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, the carrier any insurance or reinsurance provided by the Secretary under this chapter.
+To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may reinsure any part of the insurance provided by an insurance carrier. The Secretary may reinsure with, transfer to, or transfer back to, any insurance carrier any insurance or reinsurance provided by the Secretary under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(c), Sept. 22, 2001, 115 Stat. 235.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(c), Sept. 22, 2001, 115 Stat. 235; Pub. L. 112–95, title VII, §703, Feb. 14, 2012, 126 Stat. 118.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,8 @@ In subsection (a), the words “may reinsure any part of the insurance provided 
 In subsection (b), the word “same” is omitted as being included in “similar”. The words “on account of the cost of” are omitted as surplus. The word “providing” is substituted for “rendered” and “furnished” because it is inclusive. The words “except for” are substituted for “but such allowance to the carrier shall not provide for” to eliminate unnecessary words.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95 substituted “any insurance carrier” for “the carrier”.
 
 <b>2001</b>—Pub. L. 107–42 struck out subsec. (a) designation and heading “General Authority” and struck out subsec. (b) which read as follows:
 

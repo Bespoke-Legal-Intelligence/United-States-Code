@@ -60,7 +60,7 @@ In subsection (c) the words “shall have full force and effect as such” are o
 
 #### Effective Date of 1996 Amendment
 
-Section 501(b) of Pub. L. 104–201 provided that: “Paragraph (2) of section 5022(a) of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title V, §501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: “Paragraph (2) of section 5022(a) of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet
 
@@ -78,7 +78,7 @@ Project Elements.—In carrying out the demonstration project, the Secretary sha
 
 &emsp;“(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and charge such participants for such access and use at the same established rates that Department of Defense customers are charged; and
 
-&emsp;“(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilitiesfor such purposes, and charge such entities for such access and use at such rates.
+&emsp;“(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates.
 
 “(c)
 

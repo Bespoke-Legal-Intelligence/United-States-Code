@@ -42,7 +42,7 @@ June 6, 1900, ch. 811, 31 Stat. 671.
 
 June 3, 1916, ch. 134, §66, 39 Stat. 199.
 
-In subsection (a), the word “appointed” is omitted, since the position is not filled by appointment in somecases. The Act of January 21, 1903, ch. 196, §12 (last 48 words of 1st sentence) are not contained in 32:11. They are also omitted from the revised section as covered by subsection (d) of this section.
+In subsection (a), the word “appointed” is omitted, since the position is not filled by appointment in some cases. The Act of January 21, 1903, ch. 196, §12 (last 48 words of 1st sentence) are not contained in 32:11. They are also omitted from the revised section as covered by subsection (d) of this section.
 
 In subsection (b), the word “grade” is substituted for the word “rank”. The words “To be eligible for appointment as \* \* \* a person must be” are substituted for the words “each \* \* \* shall be”. The words “of that jurisdiction” are substituted for the words “of the Territory for which he is appointed”.
 
@@ -54,7 +54,7 @@ In subsection (d), the words “at such times and in such form” are omitted as
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (a), (d). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Subsecs. (a), (d). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the Districtof Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out “each Territory and” before “the District of Columbia” in first sentence, and struck out at end “To be eligible for appointment as adjutant general of a Territory, a person must be a citizen of that jurisdiction.”
 

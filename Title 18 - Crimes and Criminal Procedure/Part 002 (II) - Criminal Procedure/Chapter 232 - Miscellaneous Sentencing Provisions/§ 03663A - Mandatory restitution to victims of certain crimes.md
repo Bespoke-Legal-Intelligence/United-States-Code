@@ -40,9 +40,11 @@
 
 &emsp;&emsp;(i) a crime of violence, as defined in section 16;
 
-&emsp;&emsp;(ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)), including any offense committed by fraud or deceit; or
+&emsp;&emsp;(ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)), including any offense committed by fraud or deceit;
 
-&emsp;&emsp;(iii) an offense described in section 1365 (relating to tampering with consumer products); and
+&emsp;&emsp;(iii) an offense described in section 1365 (relating to tampering with consumer products); or
+
+&emsp;&emsp;(iv) an offense under section 670 (relating to theft of medical products); and
 
 &emsp;(B) in which an identifiable victim or victims has suffered a physical injury or pecuniary loss.
 
@@ -56,9 +58,11 @@
 
 (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230.)
+(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, §6, Oct. 5, 2012, 126 Stat. 1430.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1)(A)(iv). Pub. L. 112–186 added cl. (iv).
 
 <b>2000</b>—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted “or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)),” after “under this title,”.
 

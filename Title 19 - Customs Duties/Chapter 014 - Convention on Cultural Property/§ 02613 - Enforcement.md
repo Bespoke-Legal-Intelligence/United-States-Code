@@ -6,5 +6,5 @@ In the customs territory of the United States, and in the Virgin Islands, the pr
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
+For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986,51 F.R. 8475, set out as a note under section 2602 of this title.
 

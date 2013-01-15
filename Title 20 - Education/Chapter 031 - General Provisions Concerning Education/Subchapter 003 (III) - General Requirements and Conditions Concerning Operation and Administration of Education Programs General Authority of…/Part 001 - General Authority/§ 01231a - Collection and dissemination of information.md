@@ -30,7 +30,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 #### Effective Date of 1972 Amendment
 
-Section 301(b)(2)(B) of Pub. L. 92–318 provided that the amendment made by Pub. L. 92–318 is effective July 1, 1972.
+Pub. L. 92–318, title III, §301(b)(2)(B), June 23, 1972, 86 Stat. 332, provided that the amendment made by Pub. L. 92–318 is effective July 1, 1972.
 
 #### Evaluation Practices and Procedures at National, State, and Local Levels for Federally Funded Elementary and Secondary Educational Programs; Report to Congress
 

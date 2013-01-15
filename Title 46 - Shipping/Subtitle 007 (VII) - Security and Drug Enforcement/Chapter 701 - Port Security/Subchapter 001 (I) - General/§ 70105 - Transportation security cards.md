@@ -22,7 +22,7 @@ Issuance of Cards.—(1) The Secretary shall issue a biometric transportation se
 
 &emsp;(C) a vessel pilot;
 
-&emsp;(D) an individual engaged on a towing vessel that pushes, pulls, or hauls alongside a tankvessel allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title;
+&emsp;(D) an individual engaged on a towing vessel that pushes, pulls, or hauls alongside a tank vessel allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title;
 
 &emsp;(E) an individual with access to security sensitive information as determined by the Secretary;
 
@@ -110,7 +110,7 @@ Interim disqualifying criminal offenses.—Except as provided under paragraph (2
 
 &emsp;&emsp;&emsp;(xiv) Fraudulent entry into a seaport in violation of section 1036 of title 18, or a comparable State law.
 
-&emsp;&emsp;&emsp;(xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act <sup>1</sup> or a comparable State law, other than anyof the violations listed in subparagraph (A)(x).
+&emsp;&emsp;&emsp;(xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act <sup>1</sup> or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
 
 &emsp;&emsp;(C)
 
@@ -176,7 +176,7 @@ Unclassified summaries of classified evidence.—As part of a review conducted u
 
 &emsp;&emsp;(E)
 
-New evidence.—The Secretary shall establish a process under which an individual may submit a new request for a waiver, notwithstanding confirmation by the administrative law judge of the Secretary's initial denial of the waiver, if the request is supported by substantial evidence that was not available to the Secretary at the time the initial waiver request was denied.
+New evidence.—The Secretary shall establish a process under which an individualmay submit a new request for a waiver, notwithstanding confirmation by the administrative law judge of the Secretary's initial denial of the waiver, if the request is supported by substantial evidence that was not available to the Secretary at the time the initial waiver request was denied.
 
 &emsp;(4) The Secretary shall establish an appeals process under this section for individuals found to be ineligible for a transportation security card that includes notice and an opportunity for a hearing.
 
@@ -274,7 +274,7 @@ Fee.—An individual charged a fee for a transportation security card issued und
 
 &emsp;(3)
 
-Regulations.—Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that areconsistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
+Regulations.—Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
 
 &emsp;(4)
 
@@ -286,7 +286,7 @@ Report.—Not later than 120 days before the promulgation of regulations under p
 
 &emsp;&emsp;(C) an analysis of the viability of equipment under the extreme weather conditions of the marine environment.
 
-(<i>l</i>)
+(l)
 
 Progress Reports.—Not later than 6 months after the date of the enactment of the SAFE Port Act, and every 6 months thereafter until the requirements under this section are fully implemented, the Secretary shall submit a report on progress being made in implementing such requirements to the appropriate congressional committees (as defined in section 2(1) of the SAFE Port Act).
 
@@ -300,7 +300,7 @@ Limitation.—The Secretary may not require the placement of an electronic reade
 
 (n) The Secretary may use a secondary authentication system to verify the identification of individuals using transportation security cards when the individual's fingerprints are not able to be taken or read.
 
-(<i>o</i>)
+(o)
 
 Escorting.—The Secretary shall coordinate with owners and operators subject to this section to allow any individual who has a pending application for a transportation security card under this section or is waiting for reissuance of such card, including any individual whose card has been lost or stolen, and who needs to perform work in a secure or restricted area to have access to such area for that purpose through escorting of such individual in accordance with subsection (a)(1)(B) by another individual who holds a transportation security card. Nothing in this subsection shall be construed as requiring or compelling an owner or operator to provide escorted access.
 
@@ -330,9 +330,9 @@ The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is a
 
 The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The date of the enactment of the SAFE Port Act, referred to in subsecs. (j), (k)(1)(C), (<i>l</i>), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
+The date of the enactment of the SAFE Port Act, referred to in subsecs. (j), (k)(1)(C), (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
-Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4), (<i>l</i>), is classified to section 901(1) of Title 6, Domestic Security.
+Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4), (l), is classified to section 901(1) of Title 6, Domestic Security.
 
 #### Amendments
 
@@ -346,7 +346,7 @@ Subsec. (c)(3)(C). Pub. L. 111–281, §903(c)(2), substituted “Director of Na
 
 Subsec. (n). Pub. L. 111–281, §814, added subsec. (n).
 
-Subsecs. (<i>o</i>), (p). Pub. L. 111–281, §818(a), added subsecs. (<i>o</i>) and (p).
+Subsecs. (o), (p). Pub. L. 111–281, §818(a), added subsecs. (o) and (p).
 
 Subsec. (q). Pub. L. 111–281, §823, added subsec. (q).
 
@@ -370,6 +370,10 @@ Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendme
 
 Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: “Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government.”
 
+#### Transportation Worker Identification Credential Process Reform
+
+Pub. L. 112–213, title VII, §709, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 270 days after the date of enactment of this Act \[Dec. 20, 2012\], the Secretary of Homeland Security shall reform the process for Transportation Worker Identification Credential enrollment, activation, issuance, and renewal to require, in total, not more than one in-person visit to a designated enrollment center except in cases in which there are extenuating circumstances, as determined by the Secretary, requiring more than one such in-person visit.”
+
 #### Pilot Program for Fingerprinting of Maritime Workers
 
 Pub. L. 111–281, title VIII, §808, Oct. 15, 2010, 124 Stat. 2994, provided that:
@@ -386,17 +390,17 @@ Expiration.—The requirement made by subsection (a) expires 1 year after the da
 
 Pub. L. 111–281, title VIII, §815, Oct. 15, 2010, 124 Stat. 2999, provided that:
 
-(a)
+“(a)
 
 In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall prepare an assessment of the enrollment sites for transportation security cards issued under section 70105 of title 46, United States Code, including—
 
-&emsp;(1) the feasibility of keeping those enrollment sites open after the date of enactment of this Act; and
+&emsp;“(1) the feasibility of keeping those enrollment sites open after the date of enactment of this Act; and
 
-&emsp;(2) the quality of customer service, including the periods of time individuals are kept on hold on the telephone, whether appointments are kept, and processing times for applications.
+&emsp;“(2) the quality of customer service, including the periods of time individuals are kept on hold on the telephone, whether appointments are kept, and processing times for applications.
 
-(b)
+“(b)
 
-Timelines and Benchmarks.—The Secretary shall develop timelines and benchmarks for implementing the findings of the assessment as the Secretary deems necessary.
+Timelines and Benchmarks.—The Secretary shall develop timelines and benchmarks for implementing the findings of the assessment as the Secretary deems necessary.”
 
 #### Receipt of Cards
 

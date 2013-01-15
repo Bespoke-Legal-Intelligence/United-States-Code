@@ -16,7 +16,7 @@
 
 #### (b) Taxable distribution
 
-For purposes of this chapter, the term “taxable distribution” means any distribution froma trust to a skip person (other than a taxable termination or a direct skip).
+For purposes of this chapter, the term “taxable distribution” means any distribution from a trust to a skip person (other than a taxable termination or a direct skip).
 
 #### (c) Direct skip
 
@@ -56,7 +56,7 @@ Subsec. (c)(3). Pub. L. 100–647, §1014(g)(5)(B), added par. (3).
 
 #### Effective Date of 1997 Amendment
 
-Section 511(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 2651 of this title\] shall apply to terminations, distributions, and transfers occurring after December 31, 1997.”
+Pub. L. 105–34, title V, §511(c), Aug. 5, 1997, 111 Stat. 861, provided that: “The amendments made by this section \[amending this section and section 2651 of this title\] shall apply to terminations, distributions, and transfers occurring after December 31, 1997.”
 
 #### Effective Date of 1988 Amendment
 

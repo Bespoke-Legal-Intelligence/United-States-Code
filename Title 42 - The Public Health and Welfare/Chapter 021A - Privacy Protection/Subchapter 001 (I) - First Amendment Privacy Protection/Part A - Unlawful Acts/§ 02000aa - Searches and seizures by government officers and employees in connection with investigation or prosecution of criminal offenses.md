@@ -38,9 +38,9 @@ Subsec. (b)(1). Pub. L. 104–208, §101(a) \[title I, §121\[6(2)\]\], inserted
 
 #### Effective Date
 
-Section 108 of title I of Pub. L. 96–440 provided that: “The provisions of this title \[enacting this subchapter\] shall become effective on January 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the provisions of this title shall become effective one year from the date of enactment of this Act \[Oct. 13, 1980\].”
+Pub. L. 96–440, title I, §108, Oct. 13, 1980, 94 Stat. 1882, provided that: “The provisions of this title \[enacting this subchapter\] shall become effective on January 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the provisions of this title shall become effective one year from the date of enactment of this Act \[Oct. 13, 1980\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–440 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Privacy Protection Act of 1980’.”
+Pub. L. 96–440, §1, Oct. 13, 1980, 94 Stat. 1879, provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Privacy Protection Act of 1980’.”
 

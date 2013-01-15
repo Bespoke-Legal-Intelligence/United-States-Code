@@ -2,7 +2,7 @@
 
 #### (a) Purposes of trust funds
 
-All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be established for the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shall determine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
+All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be establishedfor the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shall determine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
 
 #### (b) Outside management option
 
@@ -82,7 +82,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (4)(A) Subject to the provisions of this paragraph, each enrolled member <sup>1</sup> who has reached the age of 21 years on the date the final roll is published shall receive the payment on the date of distribution, which shall be as soon as practicable after date of publication of the final base membership roll. Adult Members shall be paid their pro rata share of this Trust Fund on the date of distribution unless they elect in writing to leave their pro rata share in the Trust Fund, in which case such share shall not be distributed.
 
-(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Members who have not attained the age of 21 years on the date the final base membership roll is published,until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
+(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Memberswho have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
 
 (C) No member <sup>1</sup> may elect to have their pro rata share managed by this Trust Fund for a period of more than 21 years after the date of publication of the final base membership roll.
 
@@ -130,11 +130,11 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 &emsp;(iv) identify any invasions or repayments of principal during the relevant period and record provisions the Tribe has made for repayment or restoration of principal.
 
-(B) Prior to distributing principal from any Trust Fund, the investment management firm shall notify the Secretary of the proposed distribution and the Tribe's proposed use of such funds, following procedures to be agreed upon by the investment management firm, the Secretary, and the Tribe. The Secretary shall have15 days within which to object in writing to any such invasion of principal. Failure to object will be deemed approval of the distribution.
+(B) Prior to distributing principal from any Trust Fund, the investment management firm shall notify the Secretary of the proposed distribution and the Tribe's proposed use of such funds, following procedures to be agreed upon by the investment management firm, the Secretary, and the Tribe. The Secretary shall have 15 days within which to object in writing to any such invasion of principal. Failure to object will be deemed approval of the distribution.
 
 (C) All Trust Funds held and managed by any investment management firm shall be audited annually by a certified public accounting firm approved by the Secretary, and a copy of the annual audit shall be submitted to the Tribe and to the Secretary within four months following the close of the Trust Funds’ fiscal year.
 
-#### (<i>l</i>) Replacement of investment management firm and modification of investment management plan
+#### (l) Replacement of investment management firm and modification of investment management plan
 
 The Tribe shall not replace the investment management firm approved by the Secretary without prior written notification to the Secretary and approval by the Secretary of any investment management firm chosen by the Tribe as a replacement. Such Secretarial approval shall be given or denied in accordance with the Secretarial approval provisions contained in subsection (b)(5)(D) of this section. The Tribe and its investment management firm shall also notify the Secretary in writing of any revisions in the investment management plan which materially increase investment risk or significantly change the investment management plan, or the agreement, made in consultation with the Secretary pursuant to which the outside management firm was retained.
 

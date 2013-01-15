@@ -6,7 +6,7 @@ subpart iv—home health services
 
 <b>1983</b>—Pub. L. 97–414, §6(a), Jan. 4, 1983, 96 Stat. 2057, added heading “Subpart III—Home Health Services”.
 
-<b>1978</b>—Pub. L. 95–626, title I, §105(b), title II, §207(a), Nov. 10, 1978, 92 Stat. 3560, 3585, struck out heading“Part D—Lepers” and added heading “Subpart III—Home Health Services”.
+<b>1978</b>—Pub. L. 95–626, title I, §105(b), title II, §207(a), Nov. 10, 1978, 92 Stat. 3560, 3585, struck out heading “Part D—Lepers” and added heading “Subpart III—Home Health Services”.
 
 
 ---

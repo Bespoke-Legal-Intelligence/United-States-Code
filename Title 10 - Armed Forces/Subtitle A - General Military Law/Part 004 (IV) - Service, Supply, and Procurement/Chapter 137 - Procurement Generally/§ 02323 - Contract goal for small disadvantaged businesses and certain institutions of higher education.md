@@ -94,7 +94,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(iii) For purposes of clause (ii), the term “most recent data” means data relating to the most recent fiscal year for which data are available.
 
-&emsp;(4) To the extent practicable, the head of an agency shall maximize the number of minority small business concerns, historically Black colleges and universities, and minority institutions participating in the program.
+&emsp;(4) To the extent practicable, the head of an agency shall maximize the number of minoritysmall business concerns, historically Black colleges and universities, and minority institutions participating in the program.
 
 &emsp;(5) Each head of an agency shall prescribe regulations which provide for the following:
 
@@ -124,7 +124,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 Penalties and Regulations Relating to Status.—(1) Whoever for the purpose of securing a contract or subcontract under subsection (a) misrepresents the status of any concern or person as a small business concern owned and controlled by a minority (as described in subsection (a)) or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act), shall be punished by imprisonment for not more than one year, or a fine under title 18, or both.
 
-(2) The Federal Acquisition Regulation shall prohibit awarding a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).
+(2) The Federal Acquisition Regulation shall prohibit awarding a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(o)(1) <sup>1</sup> of the Small Business Act (15 U.S.C. 644(o)(1)).
 
 (g)
 
@@ -134,7 +134,7 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 &emsp;(B) ensure that contracts awarded to attain the goal established by subsection (a) are made across the broadest possible range of industry categories.
 
-(2) Under procedures prescribed by the head of the agency, a person may request the Secretaryto determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
+(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
 
 (h)
 
@@ -175,6 +175,8 @@ Section 3(p) of the Small Business Act, referred to in subsecs. (a)(1)(A) and (f
 Section 317 of the Higher Education Act of 1965, referred to in subsec. (a)(1)(E), is classified to section 1059d of Title 20, Education.
 
 Section 8(a) of the Small Business Act, referred to in subsec. (e)(3)(A), is classified to section 637(a) of Title 15, Commerce and Trade.
+
+Par. (1) of section 15(o) of the Small Business Act, referred to in subsec. (f)(2), was struck out by Pub. L. 112–239, div. A, title XVI, §1696(b)(3), Jan. 2, 2013, 126 Stat. 2091. See section 657s of Title 15, Commerce and Trade.
 
 #### Codification
 
@@ -232,13 +234,13 @@ Subsec. (i)(3)(D). Pub. L. 104–106, §4321(b)(8)(D), added subpar. (D).
 
 <b>1993</b>—Subsec. (a)(1)(B). Pub. L. 103–160, §811(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “historically Black colleges and universities; and”.
 
-Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including any nonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
+Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including anynonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
 
 Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall prescribe regulations which provide for the following:
 
 &emsp;“(A) A requirement that a business which represents itself as an entity described in subsection (a)(1) and is seeking a Department of Defense contract maintain its status as an entity at the time of contract award.
 
-&emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).”
+&emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(o)(1) of the Small Business Act (15 U.S.C. 644(o)(1)).”
 
 Subsec. (i). Pub. L. 103–35 amended and made technical amendment to directory language of Pub. L. 102–484, §801(f). See 1992 Amendment note for subsec. (h) below.
 
@@ -294,7 +296,7 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date of 1992 Amendment
 
-Section 801(f) of Pub. L. 102–484 provided that the amendment made by that section is effective Oct. 1, 1993.
+Pub. L. 102–484, div. A, title VIII, §801(f), Oct. 23, 1992, 106 Stat. 2444, provided that the amendment made by that section is effective Oct. 1, 1993.
 
 #### Regulations
 
@@ -309,4 +311,6 @@ Pub. L. 103–160, div. A, title VIII, §811(d), Nov. 30, 1993, 107 Stat. 1702, 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

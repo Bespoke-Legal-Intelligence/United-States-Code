@@ -42,7 +42,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Core indicators of performance for career and technical education students at the postsecondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -60,7 +60,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (D) Existing indicators
 
-&emsp;&emsp;If a State has developed, prior to the date of enactment of the Carl D. Perkins Career and Technical Education Improvement Act of 2006 \[August 12, 2006\], State career and technical education performance measures that meet the requirements of this section (as amended by such Act), the State may use such performance measures to measure the progress of career and technical education students.
+&emsp;&emsp;If a State has developed, prior to the date of enactment of the Carl D. Perkins Career and Technical Education Improvement Act of 2006 \[August 12, 2006\], State career and technical education performance measures that meet the requirements of this section (as amended by such Act), the State may use such performance measures to measure theprogress of career and technical education students.
 
 #### (E) State role
 
@@ -122,7 +122,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;Each eligible recipient shall agree to accept the State adjusted levels of performance established under paragraph (3) as local adjusted levels of performances, or negotiate with the State to reach agreement on new local adjusted levels of performance, for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
-&emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, consistent with the State levels of performance established under paragraph (3), so as to be objective, quantifiable, and measurable; and
+&emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, consistent with the Statelevels of performance established under paragraph (3), so as to be objective, quantifiable, and measurable; and
 
 &emsp;&emsp;&emsp;&emsp;(II) require the eligible recipient to continually make progress toward improving the performance of career and technical education students.
 

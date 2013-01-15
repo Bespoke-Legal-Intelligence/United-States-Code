@@ -1,6 +1,6 @@
 ### §396. Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds
 
-The Secretary of Agriculture upon application of any exporter, importer, packer, or owner of, or the agent thereof, or dealer in, livestock, hides, skins, meat, or other animal products may, in his discretion, cause to be made inspections and examinations at places other than the headquarters of inspectors for the convenience of said applicants, who may be charged for the expenses of travel and subsistence incurred for such inspections and examinations, the funds derived from such charges to be deposited in the Treasury of the United States to the credit of the appropriation from which the expenses are paid.
+The Secretary of Agriculture upon application of any exporter, importer, packer, or owner of, or the agent thereof, or dealer in, livestock,hides, skins, meat, or other animal products may, in his discretion, cause to be made inspections and examinations at places other than the headquarters of inspectors for the convenience of said applicants, who may be charged for the expenses of travel and subsistence incurred for such inspections and examinations, the funds derived from such charges to be deposited in the Treasury of the United States to the credit of the appropriation from which the expenses are paid.
 
 (Sept. 21, 1944, ch. 412, title I, §101(c), 58 Stat. 734.)
 
@@ -30,7 +30,7 @@ June 29, 1937, ch. 404, 50 Stat. 403.
 
 June 4, 1936, ch. 489, 49 Stat. 1429.
 
-#### Appropriations
+#### Authorization of Appropriation
 
-Appropriations of funds necessary to accomplish the purpose of this section, see note under section 395 of this title.
+Authorization of appropriation of sums necessary for the purposes of this section, see note under section 395 of this title.
 

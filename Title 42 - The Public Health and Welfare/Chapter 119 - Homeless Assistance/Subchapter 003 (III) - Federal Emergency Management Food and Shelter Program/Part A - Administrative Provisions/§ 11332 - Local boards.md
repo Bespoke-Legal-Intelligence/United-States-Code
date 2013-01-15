@@ -26,7 +26,7 @@ Each local board shall—
 
 #### Implementation of 1990 Amendment
 
-Section 202(b) of Pub. L. 101–645 provided that: “Each local board under the Emergency Food and Shelter Program whose membership shall include a member of an Indian tribe by reason of the amendment made by subsection (a) \[amending this section\] shall comply with the requirement made by such amendment not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–645, title II, §202(b), Nov. 29, 1990, 104 Stat. 4675, provided that: “Each local board under the Emergency Food and Shelter Program whose membership shall include a member of an Indian tribe by reason of the amendment made by subsection (a) \[amending this section\] shall comply with the requirement made by such amendment not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the punctuation.</i>
 

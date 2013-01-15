@@ -9,5 +9,5 @@
 - [&sect; 05502 - Intermodal Transportation Advisory Board](%C2%A7%2005502%20-%20Intermodal%20Transportation%20Advisory%20Board.md)
 - [&sect; 05503 - Office of Intermodalism](%C2%A7%2005503%20-%20Office%20of%20Intermodalism.md)
 - [&sect; 05504 - Model intermodal transportation plans](%C2%A7%2005504%20-%20Model%20intermodal%20transportation%20plans.md)
-- [&sect; 05505 - National university transportation centers](%C2%A7%2005505%20-%20National%20university%20transportation%20centers.md)
-- [&sect; 05506 - University transportation research](%C2%A7%2005506%20-%20University%20transportation%20research.md)
+- [&sect; 05505 - University transportation centers program](%C2%A7%2005505%20-%20University%20transportation%20centers%20program.md)
+- [&sect; 05506 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52010(a), July 6, 2012, 126 Stat. 887](%C2%A7%2005506%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752010%28a%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20887.md)

@@ -128,7 +128,7 @@ Actions by Secretary Concerned.—(1) Not later than 30 days after the receipt o
 
 (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 
-(<i>l</i>)
+(l)
 
 Report to Family Members and Other Interested Persons.—Not later than 60 days after the date on which the Secretary concerned makes a determination with respect to a missing person under subsection (k), the Secretary shall—
 

@@ -20,7 +20,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
+Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see Pub. L. 88–448, title IV, §403, Aug. 19, 1964, 78 Stat. 496.
 
 #### Termination of Advisory Committees and Boards
 

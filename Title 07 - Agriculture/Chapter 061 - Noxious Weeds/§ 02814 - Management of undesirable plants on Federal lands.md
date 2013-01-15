@@ -14,7 +14,7 @@ Each Federal agency shall—
 
 #### (b) Environmental impact statements
 
-In the event an environmental assessment or environmental impact statement is required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to implement plant control agreements, Federal agencies shall complete such assessments or statements within 1 year after the requirement for such assessment or statement is ascertained.
+In the event an environmental assessment or environmental impact statement is requiredunder the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to implement plant control agreements, Federal agencies shall complete such assessments or statements within 1 year after the requirement for such assessment or statement is ascertained.
 
 #### (c) Cooperative agreements with State agencies
 
@@ -122,7 +122,7 @@ There is authorized to be appropriated such sums as may be necessary in each of 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (e)(7), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 

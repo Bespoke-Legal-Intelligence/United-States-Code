@@ -12,17 +12,17 @@
 
 &emsp;(2) undergoes a major conversion completed after that date.
 
-(c) This section applies to a vessel to which section 4502(b) of this title applies that is at least 50 feet overall in length and is built after July 1, 2012.
+(c) This section applies to a vessel to which section 4502(b) of this title applies that is at least 50 feet overall in length and is built after July 1, 2013.
 
 (d)(1) After January 1, 2020, a fishing vessel, fish processing vessel, or fish tender vessel to which section 4502(b) of this title applies shall comply with an alternate safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary, if the vessel—
 
 &emsp;(A) is at least 50 feet overall in length;
 
-&emsp;(B) is built before July 1, 2012; and
+&emsp;(B) is built before July 1, 2013; and
 
 &emsp;(C) is 25 years of age or older.
 
-(2) A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2012, that undergoes a substantial change to the dimension of or type of vessel completed after the later of July 1, 2012, or the date the Secretary establishes standards for an alternate safety compliance program, shall comply with such an alternative safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary.
+(2) A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2013, that undergoes a major conversion completed after the later of July 1, 2013, or the date the Secretary establishes standards for an alternate safety compliance program, shall comply with such an alternative safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary.
 
 (3) Alternative safety compliance programs may be developed for purposes of paragraph (1) for specific regions and fisheries.
 
@@ -34,9 +34,23 @@
 
 &emsp;(B) have on board a certificate from that society.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(b), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; Pub. L. 111–281, title VI, §604(e)(1), Oct. 15, 2010, 124 Stat. 2966.)
+(e) For the purposes of this section, the term “built” means, with respect to a vessel, that the vessel's construction has reached any of the following stages:
+
+&emsp;(1) The vessel's keel is laid.
+
+&emsp;(2) Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
+
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(b), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; Pub. L. 111–281, title VI, §604(e)(1), Oct. 15, 2010, 124 Stat. 2966; Pub. L. 112–213, title III, §305(c), Dec. 20, 2012, 126 Stat. 1564.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–213, §305(c)(1), substituted “July 1, 2013.” for “July 1, 2012.”
+
+Subsec. (d)(1)(B). Pub. L. 112–213, §305(c)(2)(A), substituted “July 1, 2013;” for “July 1, 2012;”.
+
+Subsec. (d)(2). Pub. L. 112–213, §305(c)(2)(B), substituted “July 1, 2013,” for “July 1, 2012,” in two places and substituted “major conversion” for “substantial change to the dimension of or type of vessel”.
+
+Subsec. (e). Pub. L. 112–213, §305(c)(3), added subsec. (e).
 
 <b>2010</b>—Pub. L. 111–281, §604(e)(1)(A), substituted “Fishing, fish tender, and fish processing vessel certification” for “Fish processing vessel certification” in section catchline.
 
@@ -44,7 +58,7 @@ Subsec. (a). Pub. L. 111–281, §604(e)(1)(B), struck out “fish processing”
 
 Subsecs. (c), (d). Pub. L. 111–281, §604(e)(1)(C), added subsecs. (c) and (d).
 
-<b>1988</b>—Pub. L. 100–424 amended section generally, substituting “Fish processing vessel certification” for “Equivalency” in section catchline, and provisions which require certification issued by American Bureau of Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
+<b>1988</b>—Pub. L. 100–424 amended section generally, substituting “Fish processing vessel certification” for “Equivalency” in section catchline, and provisions which require certification issued by American Bureauof Shipping or similar organization for fish processing vessel built after July 27, 1990, or undergoes major conversion completed after that date, for provisions which deemed compliance with this chapter if vessel has unexpired certificate of inspection issued by foreign country that is party to International Convention for Safety of Life at Sea to which United States is party.
 
 <b>1984</b>—Pub. L. 98–557 substituted “is deemed” for “shall be deemed”.
 

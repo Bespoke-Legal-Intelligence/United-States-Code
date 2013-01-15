@@ -28,7 +28,7 @@ The President shall keep the appropriate committees of Congress currently inform
 
 #### (e) Continued availability of certain funds
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
+Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
 #### (f) Restrictions on foreign assistance not applicable to migration and refugee assistance
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning o
 
 #### Short Title
 
-Section 1 of Pub. L. 87–510 provided: “That this Act \[enacting this chapter, amending sections 1925 and 1951 of this title and section 1104 of Title 8, Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
+Pub. L. 87–510, §1, June 28, 1962, 76 Stat. 121, provided: “That this Act \[enacting this chapter, amending sections 1925 and 1951 of this title and section 1104 of Title 8, Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
 
 #### United States Policy Regarding Involuntary Return of Refugees
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) ofthe Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
@@ -96,7 +96,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXII, §2241, Oct. 21, 1998, 112 Sta
 
 #### United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons
 
-Section 501 of Pub. L. 103–236 provided that:
+Pub. L. 103–236, title V, §501, Apr. 30, 1994, 108 Stat. 460, provided that:
 
 “(a)
 
@@ -156,11 +156,11 @@ Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized P
 
 #### Indochina Migration and Refugee Assistance
 
-Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, §201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, §3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled fromCambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
+Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June 21, 1976, 90 Stat. 691; Pub. L. 95–145, title II, §§201, 202, Oct. 28, 1977, 91 Stat. 1224, 1225; Pub. L. 95–549, title II, §201, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–110, §3(a), Nov. 13, 1979, 93 Stat. 844, which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
 
 #### Availability of Funds for Continuation of Activities
 
-Section 7 of Pub. L. 87–510 provided that: “Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[section 2261(a) of this title\].”
+Pub. L. 87–510, §7, June 28, 1962, 76 Stat. 124, provided that: “Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[section 2261(a) of this title\].”
 
 #### Executive Order No. 12244
 
@@ -190,7 +190,7 @@ Determination of President of the United States, No. 99–6, Nov. 30, 1998, 34 W
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by section 2(b)(2) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. 2601(b)(2), to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to provide notice to the President of any use of the functions and authorities delegated by this determination.
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by section 2(b)(2) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. 2601(b)(2), to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to providenotice to the President of any use of the functions and authorities delegated by this determination.
 
 Any reference in this memorandum to section 2(b)(2) of the MRAA, as amended, shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
 

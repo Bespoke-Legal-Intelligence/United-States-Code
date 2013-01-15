@@ -38,41 +38,45 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 (b)
 
-Annual Reports.—The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
+Annual Reports to Accompany Budget Materials.—The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
 
 &emsp;(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
 
-&emsp;(2) A methodology for evaluating the extent and effectiveness of the use of the authorities under this subchapter during such preceding fiscal year, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future.
+&emsp;(2) A report setting forth, by armed force, the following:
 
-&emsp;(3) A review of activities of the Secretary under this subchapter during such preceding fiscal year, shown for military family housing, military unaccompanied housing, dual military family housing and military unaccompanied housing, and ancillary supporting facilities.
+&emsp;&emsp;(A) An estimate of the amounts of basic allowance for housing under section 403 of title 37 that will be paid, during the current fiscal year and the fiscal year for which the budget is submitted, to members of the armed forces living in housing provided under the authorities in this subchapter.
 
-&emsp;(4) If a contract for the acquisition or construction of military family housing, military unaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supporting facilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
+&emsp;&emsp;(B) The number of units of military family housing and military unaccompanied housing upon which the estimate under subparagraph (A) for the current fiscal year and the next fiscal year is based.
 
-&emsp;(5) A report setting forth, by armed force—
+&emsp;(3) A description of the plans for housing privatization activities to be carried out under this subchapter—
 
-&emsp;&emsp;(A) an estimate of the amounts of basic allowance for housing under section 403 of title 37 that will be paid, during the current fiscal year and the fiscal year for which the budget is submitted, to members of the armed forces living in housing provided under the authorities in this subchapter; and
+&emsp;&emsp;(A) during the fiscal year for which the budget is submitted; and
 
-&emsp;&emsp;(B) the number of units of military family housing and military unaccompanied housing upon which the estimate under subparagraph (A) for the current fiscal year and the next fiscal year is based.
+&emsp;&emsp;(B) during the period covered by the then-current future-years defense plan under section 221 of this title.
 
-&emsp;(6) A description of the Secretary's plans for housing privatization activities under this subchapter: (A) during the fiscal year for which the budget is submitted; and (B) during the period covered by the then-current future-years defense plan under section 221 of this title.
+&emsp;(4) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
 
-&emsp;(7) A report on best practices for the execution of housing privatization initiatives, including—
+(c)
 
-&emsp;&emsp;(A) effective means to track and verify proper performance, schedule, and cash flow;
+Annual Report on Privatization Projects.—The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing on <sup>1</sup> evaluation of the status of oversight and accountability measures under section 2885 of this title for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
-&emsp;&emsp;(B) means of overseeing the actions of bondholders to properly monitor construction progress and construction draws;
+&emsp;(1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
-&emsp;&emsp;(C) effective structuring of transactions to ensure the United States Government has adequate abilities to oversee project owner performance;
+&emsp;(2) If the debt associated with a privatization project exceeds net operating income or the occupancy rates for the housing units are below 75 percent for more than one year, the plan developed to mitigate the financial risk of the project.
 
-&emsp;&emsp;(D) ensuring that notices to proceed on new work are not issued until proper bonding is in place; and
+&emsp;(3) An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account.
 
-&emsp;&emsp;(E) such other topics that are identified as pertinent by the Department of Defense.
+&emsp;(4) The details of any significant withdrawals from a recapitalization account, including the purpose and rationale of the withdrawal and, if the withdrawal occurs before the normal recapitalization period, the impact of the early withdrawal on the financial health of the project.
 
-&emsp;(8) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
+&emsp;(5) An assessment of the extent to which the information required to comply with paragraphs (1) through (4) has been requested by the Secretaries, but has not been made available.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459.)
+&emsp;(6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459; Pub. L. 112–239, div. B, title XXVIII, §2803(b), Jan. 2, 2013, 126 Stat. 2148.)
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (b), (c). Pub. L. 112–239 added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
 
 <b>2011</b>—Subsec. (a)(4). Pub. L. 111–383, §2803(g), inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
@@ -82,9 +86,9 @@ Subsec. (b)(1). Pub. L. 111–383, §1075(h)(6), made technical correction to di
 
 Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
-<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of thespecific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
 
-Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts towhich those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
+Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
 
 Pub. L. 109–163, §2806(c)(2)(A), as amended by Pub. L. 111–383, §1075(h)(6), substituted “A separate report” for “A report”.
 
@@ -105,4 +109,6 @@ Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, pro
 #### Final Report
 
 Pub. L. 104–106, div. B, title XXVIII, §2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

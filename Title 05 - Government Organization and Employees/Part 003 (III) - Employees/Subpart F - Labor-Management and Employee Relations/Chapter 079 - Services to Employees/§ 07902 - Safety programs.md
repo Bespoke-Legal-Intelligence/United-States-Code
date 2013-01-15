@@ -94,7 +94,7 @@ Heads of Agencies
 
 1–201. The head of each agency shall:
 
-(a) Furnish to employees places and conditions of employment that are free from recognized hazards thatare causing or are likely to cause death or serious physical harm.
+(a) Furnish to employees places and conditions of employment that are free from recognized hazards that are causing or are likely to cause death or serious physical harm.
 
 (b) Operate an occupational safety and health program in accordance with the requirements of this order and basic program elements promulgated by the Secretary.
 
@@ -116,7 +116,7 @@ Heads of Agencies
 
 (k) Provide safety and health training for supervisory employees, employees responsible for conducting occupational safety and health inspections, all members of occupational safety and health committees where established, and other employees.
 
-(<i>l</i>) Submit to the Secretary an annual report on the agency occupational safety and health program that includes information the Secretary prescribes.
+(l) Submit to the Secretary an annual report on the agency occupational safety and health program that includes information the Secretary prescribes.
 
 #### 1–3.
 
@@ -158,7 +158,7 @@ Department of Labor
 
 (i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, when such a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
 
-(j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress andproblems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
+(j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress and problems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
 
 (k) Submit to the President unresolved disagreements between the Secretary and agency heads, with recommendations.
 
@@ -228,7 +228,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755,formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

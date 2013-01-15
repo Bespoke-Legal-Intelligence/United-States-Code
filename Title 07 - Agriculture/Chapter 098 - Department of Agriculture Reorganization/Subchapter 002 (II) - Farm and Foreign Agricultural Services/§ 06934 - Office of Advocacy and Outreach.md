@@ -72,7 +72,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 &emsp;The Socially Disadvantaged Farmers Group shall oversee the operations of—
 
-&emsp;&emsp;(A) the Advisory Committee on Minority Farmers established under section 14009 ofthe Food, Conservation, and Energy Act of 2008; <sup>1</sup> and
+&emsp;&emsp;(A) the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; <sup>1</sup> and
 
 &emsp;&emsp;(B) the position of Farmworker Coordinator established under subsection (f).
 

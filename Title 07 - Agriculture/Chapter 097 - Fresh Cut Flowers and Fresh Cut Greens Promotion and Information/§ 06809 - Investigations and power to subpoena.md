@@ -12,7 +12,7 @@ The Secretary may make such investigations as the Secretary considers necessary 
 
 #### (2) Administrative hearings
 
-&emsp;For the purpose of an administrative hearing held under section 6807(a)(2) or 6808(c)(3) of this title, the presiding officer may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of the records may be required from any place in the United States.
+&emsp;For the purpose of an administrative hearing held under section 6807(a)(2) or 6808(c)(3) ofthis title, the presiding officer may administer oaths and affirmations, subpoena witnesses, compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of the records may be required from any place in the United States.
 
 #### (c) Aid of courts
 

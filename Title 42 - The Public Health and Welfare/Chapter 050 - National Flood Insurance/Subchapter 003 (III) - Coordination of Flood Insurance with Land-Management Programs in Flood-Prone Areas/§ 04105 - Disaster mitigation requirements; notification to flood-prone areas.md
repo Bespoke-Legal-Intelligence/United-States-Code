@@ -2,15 +2,15 @@
 
 #### (a) Initial notification
 
-Not later than six months following December 31, 1973, the Director shall publish information in accordance with section 4101(1) of this title, and shall notify the chief executive officer of each known flood-prone community not already participating in the national flood insurance program of its tentative identification as a community containing one or more areas having special flood hazards.
+Not later than six months following December 31, 1973, the Administrator shall publish information in accordance with section 4101(1) of this title, and shall notify the chief executive officer of each known flood-prone community not already participating in the national flood insurance program of its tentative identification as a community containing one or more areas having special flood hazards.
 
 #### (b) Alternative actions of tentatively identified communities; public hearing; opportunity for submission of evidence; finality of administrative determination of existence or extent of flood hazard area
 
-After such notification, each tentatively identified community shall either (1) promptly make proper application to participate in the national flood insurance program or (2) within six months submit technical data sufficient to establish to the satisfaction of the Director that the community either is not seriously flood prone or that such flood hazards as may have existed have been corrected by flood-works or other flood control methods. The Director may, in his discretion, grant a public hearing to any community with respect to which conflicting data exist as to the nature and extent of a flood hazard. If the Director decides not to hold a hearing, the community shall be given an opportunity to submit written and documentary evidence. Whether or not such hearing is granted, the Director's final determination as to the existence or extent of a flood hazard area in a particular community shall be deemed conclusive for the purposes of this Act if supported by substantial evidence in the record considered as a whole.
+After such notification, each tentatively identified community shall either (1) promptly make proper application to participate in the national flood insurance program or (2) within six months submit technical data sufficient to establish to the satisfaction of the Administrator that the community either is not seriously flood prone or that such flood hazards as may have existed have been corrected by flood-works or other flood control methods. The Administrator may, in his discretion, grant a public hearing to any community with respect to which conflicting data exist as to the nature and extent of a flood hazard. If the Administrator decides not to hold a hearing, the community shall be given an opportunity to submit written and documentary evidence. Whether or not such hearing is granted, the Administrator's final determination as to the existence or extent of a flood hazard area in a particular community shall be deemed conclusive for the purposes of this Act if supported by substantial evidence in the record considered as a whole.
 
 #### (c) Subsequent notification to additional communities known to be flood prone areas
 
-As information becomes available to the Director concerning the existence of flood hazards in communities not known to be flood prone at the time of the initial notification provided for by subsection (a) of this section he shall provide similar notifications to the chief executive officers of such additional communities, which shall then be subject to the requirements of subsection (b) of this section.
+As information becomes available to the Administrator concerning the existence of flood hazards in communities not known to be flood prone at the time of the initial notification provided for by subsection (a) of this section he shall provide similar notifications to the chief executive officers of such additional communities, which shall then be subject to the requirements of subsection (b) of this section.
 
 #### (d) Provisions of section 4106 applicable to flood-prone communities disqualified for flood insurance program
 
@@ -18,9 +18,9 @@ Formally identified flood-prone communities that do not qualify for the national
 
 #### (e) Administrative procedures; establishment; reimbursement of certain expenses; appropriation authorization
 
-The Director is authorized to establish administrative procedures whereby the identification under this section of one or more areas in the community as having special flood hazards may be appealed to the Director by the community or any owner or lessee of real property within the community who believes his property has been inadvertently included in a special flood hazard area by the identification. When, incident to any appeal under this subsection, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Director shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Director in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection not to exceed $250,000.
+The Administrator is authorized to establish administrative procedures whereby the identification under this section of one or more areas in the community as having special flood hazards may be appealed to the Administrator by the community or any owner or lessee of real property within the community who believes his property has been inadvertently included in a special flood hazard area by the identification. When, incident to any appeal under this subsection, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Administrator shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Administrator in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection not to exceed $250,000.
 
-(Pub. L. 93–234, title II, §201, Dec. 31, 1973, 87 Stat. 982; Pub. L. 95–128, title VII, §704(d), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(j), Oct. 17, 1984, 98 Stat. 2233.)
+(Pub. L. 93–234, title II, §201, Dec. 31, 1973, 87 Stat. 982; Pub. L. 95–128, title VII, §704(d), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(j), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 112–141, div. F, title II, §100238(a), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
@@ -28,9 +28,11 @@ This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a) to (c), (e). Pub. L. 112–141 substituted “Administrator” for “Director” and “Administrator's” for “Director's” wherever appearing.
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–479 struck out quotation marks before “$250,000”.
 

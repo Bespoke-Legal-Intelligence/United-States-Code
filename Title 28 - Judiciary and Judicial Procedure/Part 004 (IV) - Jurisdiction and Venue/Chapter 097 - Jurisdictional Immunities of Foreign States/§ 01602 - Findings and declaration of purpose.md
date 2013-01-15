@@ -6,7 +6,7 @@ The Congress finds that the determination by United States courts of the claims 
 
 #### Effective Date
 
-Section 8 of Pub. L. 94–583 provided that: “This Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 21, 1976\].”
+Pub. L. 94–583, §8, Oct. 21, 1976, 90 Stat. 2898, provided that: “This Act \[enacting this chapter and section 1330of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 21, 1976\].”
 
 #### Short Title
 
@@ -14,5 +14,5 @@ For short title of Pub. L. 94–583 as the “Foreign Sovereign Immunities Act o
 
 #### Separability
 
-Section 7 of Pub. L. 94–583 provided that: “If any provision of this Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.”
+Pub. L. 94–583, §7, Oct. 21, 1976, 90 Stat. 2898, provided that: “If any provision of this Act \[enacting this chapter and section 1330 of this title, amending sections 1332, 1391, and 1441 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] or the application thereof to any foreign state is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.”
 

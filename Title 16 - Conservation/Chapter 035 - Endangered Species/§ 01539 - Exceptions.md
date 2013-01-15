@@ -12,7 +12,7 @@
 
 &emsp;(i) the impact which will likely result from such taking;
 
-&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and thefunding that will be available to implement such steps;
+&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and the funding that will be available to implement such steps;
 
 &emsp;(iii) what alternative actions to such taking the applicant considered and the reasons why such alternatives are not being utilized; and
 
@@ -50,7 +50,7 @@
 
 #### (c) Notice and review
 
-The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
+The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretaryin the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
 
 #### (d) Permit and exemption policy
 
@@ -164,7 +164,7 @@ In connection with any action alleging a violation of section 1538 of this title
 
 &emsp;(A) was not repaired or modified after the date of importation with any part of any endangered species or threatened species listed under section 1533 of this title;
 
-&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture to the United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
+&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture tothe United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
 
 &emsp;(C) is in the custody of the United States on November 10, 1978;
 
@@ -232,7 +232,7 @@ Subsec. (f)(9). Pub. L. 100–478, §1011(d), struck out par. (9) which provided
 
 Subsec. (d). Pub. L. 97–304, §6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
-Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, orthe carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 Subsec. (f)(9). Pub. L. 97–304, §6(3)(B), added par. (9).
 
@@ -254,7 +254,7 @@ Subsecs. (f), (g). Pub. L. 94–359, §2, added subsecs. (f) and (g).
 
 #### Effective Date of 1982 Amendment
 
-Section 6(4)(B) of Pub. L. 97–304 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1981.”
+Pub. L. 97–304, §6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1981.”
 
 #### Transfer of Functions
 

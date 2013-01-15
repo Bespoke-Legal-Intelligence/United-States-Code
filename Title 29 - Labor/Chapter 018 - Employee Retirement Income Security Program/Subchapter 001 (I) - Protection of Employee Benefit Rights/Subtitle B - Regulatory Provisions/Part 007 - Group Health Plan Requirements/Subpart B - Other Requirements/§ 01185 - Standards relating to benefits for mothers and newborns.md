@@ -30,7 +30,7 @@ A group health plan, and a health insurance issuer offering group health insuran
 
 &emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce such provider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
 
-&emsp;(5) subject to subsection (c)(3) of this section, restrict benefits for any portion of a period within a hospital length of stay required under subsection (a) of this section in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
+&emsp;(5) subject to subsection (c)(3) of this section, restrict benefits for any portion of a period within a hospital length of stay requiredunder subsection (a) of this section in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
 
 #### (c) Rules of construction
 
@@ -76,7 +76,7 @@ Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated s
 
 #### Effective Date
 
-Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, seesection 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
+Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

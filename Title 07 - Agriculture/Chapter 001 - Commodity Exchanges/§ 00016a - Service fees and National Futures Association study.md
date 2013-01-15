@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Commodity Futures Trading Commis
 
 #### (b) National Futures Association regulatory experience; report; contents
 
-The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
+The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
 
 &emsp;(1) the extent to which the National Futures Association has fully implemented the program provided in the rules approved by the Commission under section 17(p) and (q) of the Commodity Exchange Act \[7 U.S.C. 21(p), (q)\] and the effectiveness of the operation of such program;
 
@@ -56,7 +56,7 @@ Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, provided that
 
 Study.—The Comptroller General of the United States shall conduct a study to determine whether—
 
-&emsp;“(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 \[see Short Title of 1992 Amendment note set out under section 1 of this title\], through the impositionof an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
+&emsp;“(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 \[see Short Title of 1992 Amendment note set out under section 1 of this title\], through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
 
 &emsp;“(2) a program of assessment-based funding for some or all of such enforcement and market surveillance activities would better provide resources to the Commodity Futures Trading Commission to enable the Commission to—
 

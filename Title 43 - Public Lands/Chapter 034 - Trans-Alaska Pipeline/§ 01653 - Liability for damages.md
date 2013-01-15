@@ -6,7 +6,7 @@
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
-(3) In any case where liability without fault is imposed pursuant to this subsection and thedamages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
+(3) In any case where liability without fault is imposed pursuant to this subsection and the damages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
 
 (4) Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affected Alaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
 
@@ -42,7 +42,7 @@ Subsec. (c)(13), (14). Pub. L. 101–380, §8102(c), added pars. (13) and (14).
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
-Section 8102(a)(5)(A) of Pub. L. 101–380 provided that: “The repeal by paragraph (1) \[repealing subsec. (c) of this section\] shall be effective 60 days after the date on which the Comptroller General of the United States certifies to the Congress \[certified July 5, 2000\] that—
+Pub. L. 101–380, title VIII, §8102(a)(5)(A), Aug. 18, 1990, 104 Stat. 566, provided that: “The repeal by paragraph (1) \[repealing subsec. (c) of this section\] shall be effective 60 days after the date on which the Comptroller General of the United States certifies to the Congress \[certified July 5, 2000\] that—
 
 &emsp;“(i) all claims arising under section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) have been resolved,
 
@@ -52,7 +52,7 @@ Section 8102(a)(5)(A) of Pub. L. 101–380 provided that: “The repeal by parag
 
 #### Savings Provision
 
-Section 8102(a)(3) of Pub. L. 101–380 provided that: “The repeal made by paragraph (1) \[repealing subsec. (c) of this section\] shall have no effect on any right to recover or responsibility that arises from incidents subject to section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) occurring prior to the date of enactment of this Act \[Aug. 18, 1990\].”
+Pub. L. 101–380, title VIII, §8102(a)(3), Aug. 18, 1990, 104 Stat. 566, provided that: “The repeal made by paragraph (1) \[repealing subsec. (c) of this section\] shall have no effect on any right to recover or responsibility that arises from incidents subject to section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) occurring prior to the date of enactment of this Act \[Aug. 18, 1990\].”
 
 #### Bulk Fuel Storage Tanks
 
@@ -66,11 +66,11 @@ Transfer of Funds.—Notwithstanding any other provision of law, the remainder o
 
 Use of Interest Only.—The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (43 U.S.C. 1653 note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], or State law.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Disposition of Fund Balance
 
-Section 8102(a)(2) of Pub. L. 101–380, as amended by Pub. L. 105–277, div. A, §101(g) \[title III, §329(c)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471, provided that:
+Pub. L. 101–380, title VIII, §8102(a)(2), Aug. 18, 1990, 104 Stat. 565, as amended by Pub. L. 105–277, div. A, §101(g) \[title III, §329(c)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471, provided that:
 
 “(A)
 
@@ -98,9 +98,9 @@ Authorization.—The amounts transferred and deposited in the Fund shall be avai
 
 #### Liabilities of Trustees of TAPS Fund
 
-Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
+Pub. L. 101–380, title VIII, §8102(a)(5)(B), Aug. 18, 1990, 104 Stat. 566, provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see EffectiveDate of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
+Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
 

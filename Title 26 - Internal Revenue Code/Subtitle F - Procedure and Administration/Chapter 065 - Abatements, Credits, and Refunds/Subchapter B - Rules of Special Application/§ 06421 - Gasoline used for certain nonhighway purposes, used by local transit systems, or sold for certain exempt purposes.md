@@ -22,7 +22,7 @@ Except as provided in subsection (i), if gasoline is used in an off-highway busi
 
 #### (c) Exempt purposes
 
-If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) <sup>1</sup> (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) <sup>1</sup> (5), or (6)of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 
 #### (d) Time for filing claims; period covered
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in aviation which is not commercial aviation (as defined in section 4083(b)), or
 
-&emsp;&emsp;(B) in commercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after September 30, 1995, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
+&emsp;&emsp;(B) in commercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after September 30,1995, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
 
 #### (3) Gasoline used in trains
 
@@ -156,7 +156,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State and </b><b><sup>2</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Pub. L. 85–859, title I, §§163(d)(3), 164(a), Sept. 2, 1958, 72 Stat. 1312; Pub. L. 86–342, title II, §201(d)(2), Sept. 21, 1959, 73 Stat. 615;Pub. L. 87–61, title II, §201(e), June 29, 1961, 75 Stat. 124; Pub. L. 87–508, §5(c)(2), June 28, 1962,76 Stat. 118; Pub. L. 89–44, title VIII, §809(b), June 21, 1965, 79 Stat. 166; Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), May 21, 1970, 84 Stat. 241, 242, 248; Pub. L. 91–605, title III, §303(a)(11), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(11), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1827, 1828, 1834; Pub. L. 95–599, title V, §502(a)(10), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), Nov. 9, 1978, 92 Stat. 3186, 3190; Pub. L. 96–222, title I, §108(c)(1), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), Jan. 6, 1983, 96 Stat. 2170, 2171, 2182, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), Oct. 22, 1986, 100 Stat. 2776, 2777; Pub. L. 100–17, title V, §502(b)(7), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(d)(9), (10), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), Nov. 10, 1988, 102 Stat. 3576, 3577, 3595; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(6), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(6), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), Aug. 10, 1993, 107 Stat. 454, 512, 524; Pub. L. 104–188, title I, §1609(g)(4)(C), Aug. 20, 1996, 110 Stat. 1843; Pub. L. 105–34, title IX, §902(a), Aug. 5, 1997, 111 Stat. 873; Pub. L. 105–178, title IX, §§9006(b)(1), 9009(b)(3), June 9, 1998, 112 Stat. 506, 507; Pub. L. 105–206, title VI, §§6010(g)(3), 6023(24)(A), (C), July 22, 1998, 112 Stat. 814, 826; Pub. L. 108–357, title II, §241(a)(2)(C), title VIII, §851(d)(1), Oct. 22, 2004, 118 Stat. 1438, 1608; Pub. L. 109–59, title XI, §11151(b)(3), Aug. 10, 2005, 119 Stat. 1968; Pub. L. 109–280, title XII, §1207(b)(3)(B), Aug. 17, 2006, 120 Stat. 1070.)
+(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Pub. L. 85–859, title I, §§163(d)(3), 164(a), Sept. 2, 1958, 72 Stat. 1312; Pub. L. 86–342, title II, §201(d)(2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 87–61, title II, §201(e), June 29, 1961, 75 Stat. 124; Pub. L. 87–508, §5(c)(2), June 28, 1962,76 Stat. 118; Pub. L. 89–44, title VIII, §809(b), June 21, 1965, 79 Stat. 166; Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), May 21, 1970, 84 Stat. 241, 242, 248; Pub. L. 91–605, title III, §303(a)(11), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(11), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1827, 1828, 1834; Pub. L. 95–599, title V, §502(a)(10), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), Nov. 9, 1978, 92 Stat. 3186, 3190; Pub. L. 96–222, title I, §108(c)(1), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), Jan. 6, 1983, 96 Stat. 2170, 2171, 2182, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), Oct. 22, 1986, 100 Stat. 2776, 2777; Pub. L. 100–17, title V, §502(b)(7), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(d)(9), (10), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), Nov. 10, 1988, 102 Stat. 3576, 3577, 3595; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(6), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(6), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), Aug. 10, 1993, 107 Stat. 454, 512, 524; Pub. L. 104–188, title I, §1609(g)(4)(C), Aug. 20, 1996, 110 Stat. 1843; Pub. L. 105–34, title IX, §902(a), Aug. 5, 1997, 111 Stat. 873; Pub. L. 105–178, title IX, §§9006(b)(1), 9009(b)(3), June 9, 1998, 112 Stat. 506, 507; Pub. L. 105–206, title VI, §§6010(g)(3), 6023(24)(A), (C), July 22, 1998, 112 Stat. 814, 826; Pub. L. 108–357, title II, §241(a)(2)(C), title VIII, §851(d)(1), Oct. 22, 2004, 118 Stat. 1438, 1608; Pub. L. 109–59, title XI, §11151(b)(3), Aug. 10, 2005, 119 Stat. 1968; Pub. L. 109–280, title XII, §1207(b)(3)(B), Aug. 17, 2006, 120 Stat. 1070.)
 
 #### Prior Provisions
 
@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (d) as (e).
 
 Subsec. (e)(4). Pub. L. 99–499, §521(c)(2)(B), added par. (4).
 
-Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) “Exempt sales” which read as follows: “No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline.” Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) “Exempt sales” which read as follows: “No amount shall be payable under this section with respect to anygasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline.” Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -354,7 +354,7 @@ Subsec. (e)(1). Pub. L. 89–44, §809(b)(3), substituted “payable” for “p
 
 Subsecs. (i), (j). Pub. L. 89–44, §809(b)(1)(B), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-<b>1962</b>—Subsec. (b)(1)(B), (2). Pub. L. 87–508, §5(c)(2)(A), substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” in two places and struck out “(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue” in two places.
+<b>1962</b>—Subsec. (b)(1)(B), (2). Pub. L. 87–508, §5(c)(2)(A), substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” in two places and struck out“(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue” in two places.
 
 Subsec. (d)(2). Pub. L. 87–508, §5(c)(2)(B), substituted definition of “commuter fare revenue” for definition of “tax-exempt passenger fare revenue”.
 
@@ -448,7 +448,7 @@ Amendment by section 233(a)(1), (3)(A) of Pub. L. 95–618 effective on first da
 
 #### Effective Date of 1976 Amendment
 
-Section 1906(a)(27)(A)(ii) of Pub. L. 94–455 provided that: “The amendments made by clause (i) \[amending this section\] shall only apply with respect to gasoline used as a fuel after June 30, 1970.”
+Pub. L. 94–455, title XIX, §1906(a)(27)(A)(ii), Oct. 4, 1976, 90 Stat. 1827, provided that: “The amendmentsmade by clause (i) \[amending this section\] shall only apply with respect to gasoline used as a fuel after June 30, 1970.”
 
 Amendment by section 1906(a)(27)(B)–(D), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
@@ -462,7 +462,7 @@ Amendment by Pub. L. 89–44 applicable with respect to gasoline used on or afte
 
 #### Effective Date of 1962 Amendment
 
-Section 5(d) of Pub. L. 87–508 provided in part that: “The amendments made by subsection (c)(2) \[amending this section\] shall apply only in respect of claims filed with respect to gasoline used on or after November 16, 1962.”
+Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendments made by subsection (c)(2) \[amending this section\] shall apply only in respect of claims filed with respect to gasoline used on or after November 16, 1962.”
 
 #### Effective Date of 1961 Amendment
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by section 163(d)(3) of Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, set out as a note under section 6415 of this title.
 
-Section 164(b) of Pub. L. 85–859 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to claims the last day for the filing of which occurs after the effective date specified in section 1(c) of this Act.”
+Pub. L. 85–859, title I, §164(b), Sept. 2, 1958, 72 Stat. 1312, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to claims the last day for the filing of which occurs after the effective date specified in section 1(c) of this Act.”
 
 #### Effective Date of 1956 Amendment
 

@@ -34,23 +34,23 @@ Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substit
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 1986 Amendments
 
 Amendment by Pub. L. 99–592 effective Jan. 1, 1987, with certain exceptions, see section 7(a) of Pub. L. 99–592 set out as a note under section 623 of this title.
 
-Section 6(b) of Pub. L. 99–592 provided that: “The amendment made by subsection (a) of this section \[amending this section\] is repealed December 31, 1993.”
+Pub. L. 99–592, §6(b), Oct. 31, 1986, 100 Stat. 3344, provided that: “The amendment made by subsection (a) of this section \[amending this section\] is repealed December 31, 1993.”
 
 Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1395p of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1984 Amendment
 
-Section 802(c)(2) of Pub. L. 98–459 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall not apply with respect to any individual who retires, or is compelled to retire, before the date of the enactment of this Act \[Oct. 9, 1984\].”
+Pub. L. 98–459, title VIII, §802(c)(2), Oct. 9, 1984, 98 Stat. 1792, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall not apply with respect to any individual who retires, or is compelled to retire, before the date of the enactment of this Act \[Oct. 9, 1984\].”
 
 #### Effective and Termination Dates of 1978 Amendment
 
-Section 3(b) of Pub. L. 95–256 provided that:
+Pub. L. 95–256, §3(b), Apr. 6, 1978, 92 Stat. 190, provided that:
 
 “(1) Sections 12(a), 12(c), and 12(d) of the Age Discrimination in Employment Act of 1967, as amended by subsection (a) of this section \[subsecs. (a), (c), and (d) of this section\] shall take effect on January 1, 1979.
 

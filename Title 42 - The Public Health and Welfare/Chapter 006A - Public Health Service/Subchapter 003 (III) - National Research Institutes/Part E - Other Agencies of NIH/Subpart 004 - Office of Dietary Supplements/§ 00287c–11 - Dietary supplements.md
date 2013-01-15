@@ -16,7 +16,7 @@ The purposes of the Office are—
 
 The Director of the Office of Dietary Supplements shall—
 
-&emsp;(1) conduct and coordinate scientific research within the National Institutes of Health relating to dietary supplements and the extent to which the use of dietary supplements can limit or reduce the risk of diseases such as heart disease, cancer, birth defects, osteoporosis, cataracts, or prostatism;
+&emsp;(1) conduct and coordinate scientific research within the National Institutes of Health relating to dietary supplements andthe extent to which the use of dietary supplements can limit or reduce the risk of diseases such as heart disease, cancer, birth defects, osteoporosis, cataracts, or prostatism;
 
 &emsp;(2) collect and compile the results of scientific research relating to dietary supplements, including scientific data from foreign sources or the Office of Alternative Medicine;
 

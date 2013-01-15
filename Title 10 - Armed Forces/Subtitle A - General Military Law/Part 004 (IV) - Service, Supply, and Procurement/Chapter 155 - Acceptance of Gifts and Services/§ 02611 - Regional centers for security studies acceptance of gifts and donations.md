@@ -10,7 +10,7 @@ Authority to Accept Gifts and Donations.—(1) Subject to subsection (c), the Se
 
 &emsp;(B) The Asia-Pacific Center for Security Studies.
 
-&emsp;(C) The Center for Hemispheric Defense Studies.
+&emsp;(C) The William J. Perry Center for Hemispheric Defense Studies.
 
 &emsp;(D) The Africa Center for Strategic Studies.
 
@@ -48,9 +48,11 @@ Crediting of Funds.—Funds accepted by the Secretary under section (a) shall be
 
 Gift or Donation Defined.—In this section, the term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397.)
+(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L.107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(2), Jan. 2, 2013, 126 Stat. 2162.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2)(C). Pub. L. 112–239 substituted “William J. Perry Center for Hemispheric Defense Studies” for “Center for Hemispheric Defense Studies”.
 
 <b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to acceptance of gifts and donations for the Asia-Pacific Center for Security Studies.
 

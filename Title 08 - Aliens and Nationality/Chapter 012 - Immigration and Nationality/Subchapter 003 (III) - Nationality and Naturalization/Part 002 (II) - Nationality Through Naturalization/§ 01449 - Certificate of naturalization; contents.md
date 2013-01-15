@@ -18,9 +18,9 @@ Pub. L. 102–232, §305(j)(1), which made a technical correction to Pub. L. 101
 
 #### Effective Date of 1994 Amendment
 
-Section 104(e) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to persons admitted to citizenship on or after the date of enactment of this Act \[Oct. 25, 1994\].”
+Pub. L. 103–416, title I, §104(e), Oct. 25, 1994, 108 Stat. 4308, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to persons admitted to citizenship on or after the date of enactment of this Act \[Oct. 25, 1994\].”
 
-Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(3) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
+Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by section 219(z)(3) is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
 #### Effective Date of 1991 Amendment
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Construction of 1994 Amendment
 
-Section 219(z)(3) of Pub. L. 103–416 provided that: “paragraph (1) of section 305(j) of such Act \[Pub. L.102–232, amending section 407(d)(16)(C) of Pub. L. 101–649\] is repealed (and section 407(d)(16)(C) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this section\] shall read as if such paragraph had not been enacted)”.
+Pub. L. 103–416, title II, §219(z)(3), Oct. 25, 1994, 108 Stat. 4318, provided that: “paragraph (1) of section 305(j) of such Act \[Pub. L. 102–232, amending section 407(d)(16)(C) of Pub. L. 101–649\] is repealed (and section 407(d)(16)(C) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this section\] shall read as if such paragraph had not been enacted)”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

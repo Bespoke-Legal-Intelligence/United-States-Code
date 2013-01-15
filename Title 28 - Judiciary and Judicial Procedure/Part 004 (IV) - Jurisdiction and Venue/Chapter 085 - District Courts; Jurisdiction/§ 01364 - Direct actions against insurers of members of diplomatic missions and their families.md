@@ -18,7 +18,7 @@ Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 138(b) of Pub. L. 100–204 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the first tortious act or omission occurring after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title I, §138(b), Dec. 22, 1987, 101 Stat. 1347, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the first tortious act or omission occurring after the date of enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1982 Amendment
 

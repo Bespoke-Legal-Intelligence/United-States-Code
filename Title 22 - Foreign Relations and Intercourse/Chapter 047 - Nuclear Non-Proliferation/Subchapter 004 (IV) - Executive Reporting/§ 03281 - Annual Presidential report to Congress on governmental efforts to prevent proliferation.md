@@ -74,6 +74,8 @@ In the first report required by this section, the President shall analyze each c
 
 #### References in Text
 
+This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+
 The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 #### Amendments

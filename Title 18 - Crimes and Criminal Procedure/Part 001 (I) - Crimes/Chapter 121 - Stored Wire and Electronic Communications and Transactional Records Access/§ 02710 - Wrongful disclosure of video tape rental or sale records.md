@@ -20,7 +20,17 @@ Video Tape Rental and Sale Records.—(1) A video tape service provider who know
 
 &emsp;(A) to the consumer;
 
-&emsp;(B) to any person with the informed, written consent of the consumer given at the time the disclosure is sought;
+&emsp;(B) to any person with the informed, written consent (including through an electronic means using the Internet) of the consumer that—
+
+&emsp;&emsp;(i) is in a form distinct and separate from any form setting forth other legal or financial obligations of the consumer;
+
+&emsp;&emsp;(ii) at the election of the consumer—
+
+&emsp;&emsp;&emsp;(I) is given at the time the disclosure is sought; or
+
+&emsp;&emsp;&emsp;(II) is given in advance for a set period of time, not to exceed 2 years or until consent is withdrawn by the consumer, whichever is sooner; and
+
+&emsp;&emsp;(iii) the video tape service provider has provided an opportunity, in a clear and conspicuous manner, for the consumer to withdraw on a case-by-case basis or to withdraw from ongoing disclosures, at the consumer's election;
 
 &emsp;(C) to a law enforcement agency pursuant to a warrant issued under the Federal Rules of Criminal Procedure, an equivalent State warrant, a grand jury subpoena, or a court order;
 
@@ -72,7 +82,7 @@ Destruction of Old Records.—A person subject to this section shall destroy per
 
 Preemption.—The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
 
-(Added Pub. L. 100–618, §2(a)(2), Nov. 5, 1988, 102 Stat. 3195.)
+(Added Pub. L. 100–618, §2(a)(2), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 112–258, §2, Jan. 10, 2013, 126 Stat. 2414.)
 
 #### References in Text
 
@@ -81,4 +91,8 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2)(C), are s
 #### Prior Provisions
 
 A prior section 2710 was renumbered section 2711 of this title.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(B). Pub. L. 112–258 added subpar. (B) and struck out former subpar. (B) which read as follows: “to any person with the informed, written consent of the consumer given at the time the disclosure is sought;”.
 

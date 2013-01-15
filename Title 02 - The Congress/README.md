@@ -1,6 +1,4 @@
 
-2 U.S.C.<br>United States Code, 2011 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 2—THE CONGRESS
 
 | Chap. |  | Sec. |

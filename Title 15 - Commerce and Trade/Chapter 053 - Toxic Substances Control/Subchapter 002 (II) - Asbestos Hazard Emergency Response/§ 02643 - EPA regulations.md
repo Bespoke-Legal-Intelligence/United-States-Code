@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authorityof a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -36,7 +36,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(ii) there is a reasonable likelihood that the material or its covering will become significantly damaged, deteriorated, or delaminated.
 
-(2) In promulgating such regulations, the Administrator shall consider and assess the value of various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
+(2) In promulgating such regulations, the Administrator shall consider and assess the valueof various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
 
 #### (d) Response actions
 
@@ -74,7 +74,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(C) describe the circumstances in which asbestos removal is necessary to protect human health.
 
-&emsp;Such information or advisory shall be based on the best available scientific evidence andshall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
+&emsp;Such information or advisory shall be based on the best available scientific evidence and shall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
 
 #### (e) Implementation
 
@@ -134,7 +134,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;&emsp;(ii) A statement that the contractor is accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
-&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions andcarry out reinspection, surveillance, and operation and maintenance activities.
+&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions and carry out reinspection, surveillance, and operation and maintenance activities.
 
 #### (2) Statement by contractor
 
@@ -170,7 +170,7 @@ Changes may be made in the regulations promulgated under this section only by ru
 
 Any change made in the “Guidance for Controlling Asbestos-Containing Material in Buildings” shall be made only by rule in accordance with section 553 of title 5, unless a regulation described in this section dealing with the same subject matter is in effect. Any such change must protect human health and the environment.
 
-#### (<i>l</i>) Treatment of Department of Defense schools
+#### (l) Treatment of Department of Defense schools
 
 #### (1) Secretary to act in lieu of Governor
 
@@ -188,7 +188,7 @@ The Administrator, upon request by a Governor and after notice and comment and o
 
 #### References in Text
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (<i>l</i>)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (l)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 

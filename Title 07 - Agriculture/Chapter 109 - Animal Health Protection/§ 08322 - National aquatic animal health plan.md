@@ -12,7 +12,7 @@ The Secretary of Agriculture may enter into a cooperative agreement with an elig
 
 &emsp;&emsp;(A) assume responsibility for the non-Federal share of the cost of carrying out the project under the national aquatic health plan, as determined by the Secretary in accordance with paragraph (2); and
 
-&emsp;&emsp;(B) act in accordance with applicable disease and species specific best managementpractices relating to activities to be carried out under such project.
+&emsp;&emsp;(B) act in accordance with applicable disease and species specific best management practices relating to activities to be carried out under such project.
 
 #### (2) Non-Federal share
 

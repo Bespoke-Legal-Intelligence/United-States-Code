@@ -38,7 +38,31 @@ Exclusions.—(1) The Secretary shall exclude, in any part, from this chapter an
 
 Limitation on Authority.—Unless the Secretary decides that an emergency exists, a special permit or renewal granted under this section is the only way a person subject to this chapter may be granted a variance from this chapter.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108 Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909.)
+(f)
+
+Incorporation Into Regulations.—
+
+&emsp;(1)
+
+In general.—Not later than 1 year after the date on which a special permit has been in continuous effect for a 10-year period, the Secretary shall conduct a review and analysis of that special permit to determine whether it may be converted into the hazardous materials regulations.
+
+&emsp;(2)
+
+Factors.—In conducting the review and analysis under paragraph (1), the Secretary may consider—
+
+&emsp;&emsp;(A) the safety record for hazardous materials transported under the special permit;
+
+&emsp;&emsp;(B) the application of a special permit;
+
+&emsp;&emsp;(C) the suitability of provisions in the special permit for incorporation into the hazardous materials regulations; and
+
+&emsp;&emsp;(D) rulemaking activity in related areas.
+
+&emsp;(3)
+
+Rulemaking.—After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary's justification for why the special permit is not appropriate for incorporation into the regulations.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909; Pub. L. 112–141, div. C, title III, §33012(c), July 6, 2012, 126 Stat. 839.)
 
 Historical and Revision Notes
 
@@ -90,6 +114,8 @@ The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is
 
 #### Amendments
 
+<b>2012</b>—Subsec. (f). Pub. L. 112–141 added subsec. (f).
+
 <b>2005</b>—Pub. L. 109–59, §7115(a)(1), substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §7115(b), substituted “Issue Special Permits” for “Exempt” in heading.
@@ -107,4 +133,44 @@ Subsec. (c). Pub. L. 109–59, §7115(f), substituted “the special permit” f
 Subsec. (e). Pub. L. 109–59, §7115(g), substituted “a special permit” for “an exemption” and “be granted a variance” for “be exempt”.
 
 <b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Special Permits, Approvals, and Exclusions
+
+Pub. L. 112–141, div. C, title III, §33012(a), (b), July 6, 2012, 126 Stat. 838, provided that:
+
+“(a)
+
+Rulemaking.—Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\], after providing notice and an opportunity for public comment, shall issue regulations that establish—
+
+&emsp;“(1) standard operating procedures to support administration of the special permit and approval programs; and
+
+&emsp;“(2) objective criteria to support the evaluation of special permit and approval applications.
+
+“(b)
+
+Review of Special Permits.—
+
+&emsp;“(1)
+
+Review.—Not later than 1 year after the date of enactment of this Act, the Secretary shall conduct a review and analysis of special permits that have been in continuous effect for a 10-year period to determine which special permits may be converted into the hazardous materials regulations.
+
+&emsp;“(2)
+
+Factors.—In conducting the review and analysis under paragraph (1), the Secretary may consider—
+
+&emsp;&emsp;“(A) the safety record for hazardous materials transported under the special permit;
+
+&emsp;&emsp;“(B) the application of a special permit;
+
+&emsp;&emsp;“(C) the suitability of provisions in the special permit for incorporation into the hazardous materials regulations; and
+
+&emsp;&emsp;“(D) rulemaking activity in related areas.
+
+&emsp;“(3)
+
+Rulemaking.—After completing the review and analysis under paragraph (1), but not later than 3 years after the date of enactment of this Act, and after providing notice and opportunity for public comment, the Secretary shall issue regulations to incorporate into the hazardous materials regulations any special permits identified in the review under paragraph (1) that the Secretary determines are appropriate for incorporation, based on the factors identified in paragraph (2).”
 

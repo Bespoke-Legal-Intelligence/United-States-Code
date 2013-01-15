@@ -10,7 +10,7 @@
 
 &emsp;The provisions referred to in this paragraph are—
 
-&emsp;&emsp;(A) subsections (i) and (<i>l</i>) of section 408 (relating to individual retirement plans),
+&emsp;&emsp;(A) subsections (i) and (l) of section 408 (relating to individual retirement plans),
 
 &emsp;&emsp;(B) section 220(h) (relating to Archer MSAs),
 
@@ -28,7 +28,7 @@
 
 &emsp;Any individual who—
 
-&emsp;&emsp;(A) is required to furnish information under section 408(<i>o</i>)(4) as to the amount of designated nondeductible contributions made for any taxable year, and
+&emsp;&emsp;(A) is required to furnish information under section 408(o)(4) as to the amount of designated nondeductible contributions made for any taxable year, and
 
 &emsp;&emsp;(B) overstates the amount of such contributions made for such taxable year,
 
@@ -36,13 +36,13 @@
 
 #### (2) Failure to file form
 
-&emsp;Any individual who fails to file a form required to be filed by the Secretary under section 408(<i>o</i>)(4) shall pay a penalty of $50 for each such failure unless it is shown that such failure is due to reasonable cause.
+&emsp;Any individual who fails to file a form required to be filed by the Secretary under section 408(o)(4) shall pay a penalty of $50 for each such failure unless it is shown that such failure is due to reasonable cause.
 
 #### (c) Penalties relating to simple retirement accounts
 
 #### (1) Employer penalties
 
-&emsp;An employer who fails to provide 1 or more notices required by section 408(<i>l</i>)(2)(C) shall pay a penalty of $50 for each day on which such failures continue.
+&emsp;An employer who fails to provide 1 or more notices required by section 408(l)(2)(C) shall pay a penalty of $50 for each day on which such failures continue.
 
 #### (2) Trustee and issuer penalties
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) to provide 1 or more statements required by the last sentence of section 408(i) shall pay a penalty of $50 for each day on which such failures continue, or
 
-&emsp;&emsp;(B) to provide 1 or more summary descriptions required by section 408(<i>l</i>)(2)(B) shall pay a penalty of $50 for each day on which such failures continue.
+&emsp;&emsp;(B) to provide 1 or more summary descriptions required by section 408(l)(2)(B) shall pay a penalty of $50 for each day on which such failures continue.
 
 #### (3) Reasonable cause exception
 
@@ -84,7 +84,7 @@ Subsec. (a)(2)(D). Pub. L. 105–34, §213(c), added subpar. (D).
 
 Subsec. (c)(2). Pub. L. 105–34, §1601(d)(1)(C)(ii), inserted “and issuer” before “penalties” in heading and “or issuer” before “who fails” in introductory provisions.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–191 inserted heading and amended text generally. Prior to amendment, text read as follows: “The person required by subsection (i) or (<i>l</i>) of section 408 to file a report regarding an individual retirement account or individual retirement annuity at the time and in the manner required by such subsection shall pay a penalty of $50 for each failure unless it is shown that such failure is due to reasonable cause. This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
+<b>1996</b>—Subsec. (a). Pub. L. 104–191 inserted heading and amended text generally. Prior to amendment, text read as follows: “The person required by subsection (i) or (l) of section 408 to file a report regarding an individual retirement account or individual retirement annuity at the time and in the manner required by such subsection shall pay a penalty of $50 for each failure unless it is shown that such failure is due to reasonable cause. This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
 
 Pub. L. 104–188, §1455(d)(3), inserted at end “This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(W).”
 
@@ -94,7 +94,7 @@ Subsecs. (c), (d). Pub. L. 104–188, §1421(b)(4)(B), added subsec. (c) and red
 
 Subsec. (b). Pub. L. 100–647, §1011(b)(4)(A), substituted “Penalties relating to” for “Overstatement of designated” in heading and amended text generally. Prior to amendment, text read as follows: “Any individual who—
 
-&emsp;“(1) is required to furnish information under section 408(<i>o</i>)(4) as to the amount of designated nondeductible contributions made for any taxable year, and
+&emsp;“(1) is required to furnish information under section 408(o)(4) as to the amount of designated nondeductible contributions made for any taxable year, and
 
 &emsp;“(2) overstates the amount of such contributions made for such taxable year,
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 99–514, §1102(d)(1), (2)(A), redesignated former subsec.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$50” for “$10”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted “subsection (i) or (<i>l</i>) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted “subsection (i) or (l) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
 
 #### Effective Date of 2003 Amendment
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 98–369 applicable to failures occurring after July 18, 19
 
 #### Effective Date of 1980 Amendment
 
-Section 101(b)(1)(F) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec. (a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
+Pub. L. 96–222, title I, §101(b)(1)(F), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendment made by subparagraph (I) of subsection (a)(10) \[probably means subpar. (H) of subsec. (a)(10), which amended this section\] shall apply with respect to failures occuring \[sic\] after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
 #### Effective Date
 

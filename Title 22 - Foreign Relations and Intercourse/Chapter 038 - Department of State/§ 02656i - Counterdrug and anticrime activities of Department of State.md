@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) ensure that—
 
-&emsp;&emsp;&emsp;(i) all budgetary requests and transfers of equipment (including the financing offoreign military sales and the transfer of excess defense articles) relating to international counterdrug efforts conforms with the objectives; and
+&emsp;&emsp;&emsp;(i) all budgetary requests and transfers of equipment (including the financing of foreign military sales and the transfer of excess defense articles) relating to international counterdrug efforts conforms with the objectives; and
 
 &emsp;&emsp;&emsp;(ii) the recommendations of the Department regarding certification determinations made by the President on March 1 as to the counterdrug cooperation, or adequate steps on its own, of each major illicit drug producing and drug trafficking country to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances also conform to meet such objectives.
 

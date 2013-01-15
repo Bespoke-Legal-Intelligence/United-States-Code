@@ -58,7 +58,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (C) The Secretary shall encourage, but may not require, States and units of local government to include in their existing procedures for the review and approval of newly constructed covered multifamily dwellings, determinations as to whether the design and construction of such dwellings are consistent with paragraph (3)(C), and shall provide technical assistance to States and units of local government and other persons to implement the requirements of paragraph (3)(C).
 
-(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determine whether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
+(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determinewhether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
 
 (6)(A) Nothing in paragraph (5) shall be construed to affect the authority and responsibility of the Secretary or a State or local public agency certified pursuant to section 3610(f)(3) of this title to receive and process complaints or otherwise engage in enforcement activities under this subchapter.
 
@@ -92,7 +92,7 @@ Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of �
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub.L. 100–430, set out as a note under section 3601 of this title.
+Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

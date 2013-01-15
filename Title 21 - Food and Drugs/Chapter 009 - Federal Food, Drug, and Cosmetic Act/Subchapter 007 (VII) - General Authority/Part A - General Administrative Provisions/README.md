@@ -22,3 +22,6 @@ Part A—General Administrative Provisions
 - [&sect; 00379d - Automation of Food and Drug Administration](%C2%A7%2000379d%20-%20Automation%20of%20Food%20and%20Drug%20Administration.md)
 - [&sect; 00379d&#8211;1 - Conflicts of interest](%C2%A7%2000379d%E2%80%931%20-%20Conflicts%20of%20interest.md)
 - [&sect; 00379d&#8211;2 - Policy on the review and clearance of scientific articles published by FDA employees](%C2%A7%2000379d%E2%80%932%20-%20Policy%20on%20the%20review%20and%20clearance%20of%20scientific%20articles%20published%20by%20FDA%20employees.md)
+- [&sect; 00379d&#8211;3 - Streamlined hiring authority](%C2%A7%2000379d%E2%80%933%20-%20Streamlined%20hiring%20authority.md)
+- [&sect; 00379d&#8211;4 - Reporting requirements](%C2%A7%2000379d%E2%80%934%20-%20Reporting%20requirements.md)
+- [&sect; 00379d&#8211;5 - Guidance document regarding product promotion using the Internet](%C2%A7%2000379d%E2%80%935%20-%20Guidance%20document%20regarding%20product%20promotion%20using%20the%20Internet.md)

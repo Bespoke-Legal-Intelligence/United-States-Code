@@ -1,6 +1,14 @@
 ### §1616. Joint Federal-State Land Use Planning Commission for Alaska
 
-#### (a), (b) Omitted
+#### (a) Omitted
+
+#### (b) Public easements; continuance of access rights under valid existing rights
+
+(1) The Planning Commission shall identify public easements across lands selected by Village Corporations and the Regional Corporations and at periodic points along the courses of major waterways which are reasonably necessary to guarantee international treaty obligations, a full right of public use and access for recreation, hunting, transportation, utilities, docks, and such other public uses as the Planning Commission determines to be important.
+
+(2) In identifying public easements the Planning Commission shall consult with appropriate State and Federal agencies, shall review proposed transportation plans, and shall receiveand review statements and recommendations from interested organizations and individuals on the need for and proposed location of public easements: <i>Provided</i>, That any valid existing right recognized by this chapter shall continue to have whatever right of access as is now provided for under existing law and this subsection shall not operate in any way to diminish or limit such right of access.
+
+(3) Prior to granting any patent under this chapter to the Village Corporation and Regional Corporations, the Secretary shall consult with the State and the Planning Commission and shall reserve such public easements as he determines are necessary.
 
 #### (c) Prohibition against selection of lands from withdrawn area in event of withdrawal of utility and transportation corridor across public lands
 
@@ -26,13 +34,13 @@ In the event that the Secretary withdraws a utility and transportation corridor 
 
 #### References in Text
 
-Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, asamended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
-Subsecs. (a) and (b) of this section, which related to the establishment, membership, compensation, procedures, duties and powers of the Joint Federal-State Land Use Planning Commission for Alaska and authorized the Commission to identify public easements across selected lands in Alaska, were omitted pursuant to former subsec. (a)(10) of this section which provided that the Commission was to cease to exist effective June 30, 1979.
+Subsec. (a) of this section, which related to the establishment, membership, compensation, procedures, duties, and powers of the Joint Federal-State Land Use Planning Commission for Alaska, was omitted pursuant to former subsec. (a)(10) of this section, which provided that the Commission was to cease to exist effective June 30, 1979.
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a)(10). Pub. L. 94–204 extended the life of the Commission from Dec. 31, 1976 to June 30, 1979, directed the submission of multiple reports, with an interim report to be submitted on or before May 30, 1976, and extended from May 30, 1976 to May 30, 1979 the date on or before which the final report shall be submitted.
+<b>1976</b>—Subsec. (a)(10). Pub. L. 94–204 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “On or before May 30, 1976, the Planning Commission shall submit its final report to the President of the United States, the Congress, and the Governor and Legislature of the State with respect to its planning and other activities under this chapter, together with its recommendations for programs or other actions which it determines should be taken or carried out by the United States and the State. The Commission shall cease to exist effective December 31, 1976.”
 

@@ -62,7 +62,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (B) Transitional rule
 
-&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the AttorneyGeneral shall allocate the local amount to units of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
+&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the Attorney General shall allocate the local amount to units of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
 
 #### (3) Annexed units
 

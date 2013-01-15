@@ -52,7 +52,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has the design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are locatedat the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) For purposes of subparagraph (A), the term “electric generating unit” does not include—
 
@@ -86,7 +86,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric powerplant; or
 
-&emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering,transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
+&emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 

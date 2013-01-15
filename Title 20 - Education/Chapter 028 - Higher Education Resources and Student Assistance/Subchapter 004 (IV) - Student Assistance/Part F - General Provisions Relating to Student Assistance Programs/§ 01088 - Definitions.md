@@ -42,7 +42,7 @@
 
 &emsp;(iii) satisfies such further criteria as the Secretary may prescribe by regulation.
 
-(B) In the case of a program being determined eligible for the first time under this paragraph,such determination shall be made by the Secretary before such program is considered to have satisfied the requirements of this paragraph.
+(B) In the case of a program being determined eligible for the first time under this paragraph, such determination shall be made by the Secretary before such program is considered to have satisfied the requirements of this paragraph.
 
 (3) An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for the purposes of this subchapter and part C of subchapter I of chapter 34 of title 42 if the program is offered by an institution, other than a foreign institution, that has been evaluated and determined (before or after February 8, 2006) to have the capability to effectively deliver distance education programs by an accrediting agency or association that—
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Section 498 of Pub. L. 102–325 provided that: “The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 of this title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
+Pub. L. 102–325, title IV, §498, July 23, 1992, 106 Stat. 634, provided that: “The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 of this title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
 &emsp;“(1) as otherwise provided in such part G;
 
@@ -226,11 +226,11 @@ Nothing in amendment by section 8007(d) of Pub. L. 109–171 to be construed to 
 
 #### Construction of 1991 Amendment
 
-Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
+Pub. L. 102–26, §2(d)(2)(A), Apr. 9, 1991, 105 Stat. 124, provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
 
 #### Need-Based Aid
 
-Section 1544 of Pub. L. 102–325 authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382,title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
+Pub. L. 102–325, title XV, §1544, July 23, 1992, 106 Stat. 837, authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

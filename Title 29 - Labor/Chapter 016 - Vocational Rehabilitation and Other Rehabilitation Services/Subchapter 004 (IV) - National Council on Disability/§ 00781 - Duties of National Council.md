@@ -64,7 +64,7 @@ Another prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
 
-<b>2000</b>—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of “Developmental Disabilities Assistanceand Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–394 added subsec. (c).
 

@@ -26,7 +26,7 @@ The importation into the United States is prohibited of—
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 97–439 substituted “any agricultural or vegetable seeds if any such seed contains noxious weed seeds” for “any seed containing 10 per centum or more of any agricultural or vegetable seeds if any such seed is adulterated or unfit for seeding purposes”.
 
-<b>1966</b>—Subsec. (a)(4). Pub. L. 89–686, §13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–686, §13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for theinvoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
 
 Subsec. (a)(5). Pub. L. 89–686, §14, added par. (5).
 

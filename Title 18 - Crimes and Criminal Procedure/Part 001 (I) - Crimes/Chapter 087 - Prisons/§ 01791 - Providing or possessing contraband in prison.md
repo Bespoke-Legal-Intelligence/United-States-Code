@@ -4,7 +4,7 @@
 
 Offense.—Whoever—
 
-&emsp;(1) in violation of a statute or a rule or order issued under a statute, provides to an inmateof a prison a prohibited object, or attempts to do so; or
+&emsp;(1) in violation of a statute or a rule or order issued under a statute, provides to an inmate of a prison a prohibited object, or attempts to do so; or
 
 &emsp;(2) being an inmate of a prison, makes, possesses, or obtains, or attempts to make or obtain, a prohibited object;
 
@@ -54,7 +54,7 @@ Definitions.—As used in this section—
 
 &emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, §2, Aug. 10, 2010, 124 Stat. 2387.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, §2, Aug. 10, 2010, 124 Stat. 2387.)
 
 #### Historical and Revision Notes
 
@@ -142,5 +142,5 @@ Definitions.—As used in this section, ‘firearm’ and ‘destructive device�
 
 #### Effective Date of 1986 Amendment
 
-Section 52(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–646, §52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
 

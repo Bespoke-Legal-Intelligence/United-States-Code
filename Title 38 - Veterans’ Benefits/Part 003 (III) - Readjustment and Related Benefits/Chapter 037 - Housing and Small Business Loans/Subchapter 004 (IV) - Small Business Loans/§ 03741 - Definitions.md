@@ -18,7 +18,7 @@ Par. (1). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secret
 
 #### Effective Date
 
-Section 305 of title III of Pub. L. 97–72 provided that: “The amendments made by this title \[see Tables for classification\] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act \[Nov. 3, 1981\], except that the authority of the Administrator of Veterans’ Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment.”
+Pub. L. 97–72, title III, §305, Nov. 3, 1981, 95 Stat. 1060, provided that: “The amendments made by this title \[see Tables for classification\] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act \[Nov. 3, 1981\], except that the authority of the Administrator of Veterans’ Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment.”
 
 #### Short Title
 
@@ -26,5 +26,5 @@ For short title of title III of Pub. L. 97–72, which enacted this subchapter, 
 
 #### Authorization of Appropriations
 
-Section 304 of Pub. L. 97–72 authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small business loan program authorized by subchapter IV of this chapter.
+Pub. L. 97–72, title III, §304, Nov. 3, 1981, 95 Stat. 1060, authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small business loan program authorized by subchapter IV of this chapter.
 

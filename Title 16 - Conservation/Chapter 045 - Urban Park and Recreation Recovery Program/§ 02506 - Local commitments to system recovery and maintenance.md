@@ -10,7 +10,7 @@ As a requirement for project approval, local governments applying for assistance
 
 &emsp;(3) capacity and commitment to assure that facilities provided or improved under this chapter shall thereafter continue to be adequately maintained, protected, staffed, and supervised;
 
-&emsp;(4) intention to maintain total local public outlays for park and recreation purposes atlevels at least equal to those in the year preceding that in which grant assistance is sought beginning in fiscal year 1980 except in any case where a reduction in park and recreation outlays is proportionate to a reduction in overall spending by the applicant; and
+&emsp;(4) intention to maintain total local public outlays for park and recreation purposes at levels at least equal to those in the year preceding that in which grant assistance is sought beginning in fiscal year 1980 except in any case where a reduction in park and recreation outlays is proportionate to a reduction in overall spending by the applicant; and
 
 &emsp;(5) the relationship of the park and recreation recovery program to overall community development and urban revitalization efforts.
 

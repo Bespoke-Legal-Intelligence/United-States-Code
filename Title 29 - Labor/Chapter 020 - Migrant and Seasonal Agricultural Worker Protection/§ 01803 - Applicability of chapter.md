@@ -4,7 +4,7 @@
 
 &emsp;(1)
 
-Family business exemption.—Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performedonly for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.
+Family business exemption.—Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.
 
 &emsp;(2)
 

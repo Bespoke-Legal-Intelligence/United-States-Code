@@ -22,7 +22,7 @@ No person may transfer or receive in interstate commerce, manufacture, produce, 
 
 #### (c) Treatment as low-level radioactive waste
 
-Byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, disposed of under this section shall not be considered to be low-level radioactive waste for the purposes of—
+Byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, disposedof under this section shall not be considered to be low-level radioactive waste for the purposes of—
 
 &emsp;(1) section 2 of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021b); or
 

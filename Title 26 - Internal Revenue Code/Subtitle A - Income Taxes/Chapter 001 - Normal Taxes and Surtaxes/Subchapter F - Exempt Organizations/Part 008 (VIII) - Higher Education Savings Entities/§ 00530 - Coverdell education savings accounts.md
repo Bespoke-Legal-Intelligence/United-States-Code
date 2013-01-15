@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the designated beneficiary to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment,
 
-&emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to the extent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, asin effect on the date of the enactment of this section) attributable to such attendance, or
+&emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to the extent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, as in effect on the date of the enactment of this section) attributable to such attendance, or
 
 &emsp;&emsp;&emsp;(v) an amount which is includible in gross income solely by application of paragraph (2)(C)(i)(II) for the taxable year.
 
@@ -210,11 +210,7 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, titleVI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632.)
 
 #### References in Text
 
@@ -242,39 +238,39 @@ Subsec. (a). Pub. L. 107–22, §1(a)(2), substituted “A Coverdell education s
 
 Subsec. (b)(1). Pub. L. 107–22, §1(a)(1), (3), in heading, substituted “Coverdell education savings account” for “Education individual retirement account” and, in introductory provisions, substituted “ ‘Coverdell education savings account’ ” for “ ‘education individual retirement account’ ” and “designated as a Coverdell education savings account” for “designated as an education individual retirement account”.
 
-Pub. L. 107–16, §§401(d), 901, temporarily inserted concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §401(d), inserted concluding provisions.
 
-Pub. L. 107–16, §§401(c)(3)(A), 901, temporarily struck out “higher” before “education expenses” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §401(c)(3)(A), struck out “higher” before “education expenses” in introductory provisions.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 107–16, §§401(a)(1), 901, temporarily substituted “$2,000” for “$500”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(1)(A)(iii). Pub. L. 107–16, §401(a)(1), substituted “$2,000” for “$500”.
 
-Subsec. (b)(2). Pub. L. 107–16, §§401(c)(1), 901, temporarily amended heading and text of par. (2) generally, substituting present provisions for provisions which defined “qualified higher education expenses” as having the meaning given such term by section 529(e)(3), reduced as provided in section 25A(g)(2), and including amounts paid or incurred to purchase tuition credits or certificates, or to make contributions to an account, under a qualified State tuition program for the benefit of the beneficiary of the account. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2). Pub. L. 107–16, §401(c)(1), amended heading and text of par. (2) generally, substituting present provisions for provisions which defined “qualified higher education expenses” as having the meaning given such term by section 529(e)(3), reduced as provided in section 25A(g)(2), and including amounts paid or incurred to purchase tuition credits or certificates, or to make contributions to an account, under a qualified State tuition program for the benefit of the beneficiary of the account.
 
 Subsec. (b)(2)(B). Pub. L. 107–16, §402(a)(4)(A), (C), in heading, substituted “Qualified tuition” for “Qualified State tuition” and in text, substituted “qualified tuition” for “qualified State tuition”.
 
-Subsec. (b)(4). Pub. L. 107–16, §§401(c)(2), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(4). Pub. L. 107–16, §401(c)(2), added par. (4).
 
-Subsec. (b)(5). Pub. L. 107–16, §§401(f)(1), 901, temporarily added par. (5). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(5). Pub. L. 107–16, §401(f)(1), added par. (5).
 
-Subsec. (c)(1). Pub. L. 107–16, §§401(e), 901, temporarily substituted “In the case of a contributor who is an individual, the maximum amount the contributor” for “The maximum amount which a contributor” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(1). Pub. L. 107–16, §401(e), substituted “In the case of a contributor who is an individual, the maximum amount the contributor” for “The maximum amount which a contributor” in introductory provisions.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 107–16, §§401(b)(1), 901, temporarily substituted “$190,000” for “$150,000”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(1)(A)(ii). Pub. L. 107–16, §401(b)(1), substituted “$190,000” for “$150,000”.
 
-Subsec. (c)(1)(B). Pub. L. 107–16, §§401(b)(2), 901, temporarily substituted “$30,000” for “$10,000”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(1)(B). Pub. L. 107–16, §401(b)(2), substituted “$30,000” for “$10,000”.
 
-Subsec. (d)(2). Pub. L. 107–16, §§401(c)(3)(B), 901, temporarily struck out “higher” before “education” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2). Pub. L. 107–16, §401(c)(3)(B), struck out “higher” before “education” in heading.
 
-Subsec. (d)(2)(A), (B). Pub. L. 107–16, §§401(c)(3)(A), 901, temporarily struck out “higher” before “education”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2)(A), (B). Pub. L. 107–16, §401(c)(3)(A), struck out “higher” before “education”.
 
-Subsec. (d)(2)(C). Pub. L. 107–16, §§401(g)(1), 901, temporarily amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “A taxpayer may elect to waive the application of this paragraph for any taxable year.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2)(C). Pub. L. 107–16, §401(g)(1), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “A taxpayer may elect to waive the application of this paragraph for any taxable year.”
 
-Subsec. (d)(2)(D). Pub. L. 107–16, §§401(g)(2)(C), 901, in heading, temporarily substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, temporarily substituted “, credit, or exclusion” for “or credit”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2)(D). Pub. L. 107–16, §401(g)(2)(C), in heading, substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, substituted “, credit, or exclusion” for “or credit”.
 
 Subsec. (d)(4)(A). Pub. L. 107–22, §1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
-Subsec. (d)(4)(C). Pub. L. 107–16, §§401(f)(2)(B), 901, temporarily substituted “certain date” for “due date of return” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(4)(C). Pub. L. 107–16, §401(f)(2)(B), substituted “certain date” for “due date of return” in heading.
 
-Subsec. (d)(4)(C)(i). Pub. L. 107–16, §§401(f)(2)(A), 901, temporarily added cl. (i) and struck out former cl. (i) which read as follows: “such distribution is made on or before the day prescribed by law (including extensions of time) for filing the beneficiary's return of tax for the taxable year or, if the beneficiary is not required to file such a return, the 15th day of the 4th month of the taxable year following the taxable year; and”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(4)(C)(i). Pub. L. 107–16, §401(f)(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “such distribution is made on or before the day prescribed by law (including extensions of time) for filing the beneficiary's return of tax for the taxable year or, if the beneficiary is not required to file such a return, the 15th day of the 4th month of the taxable year following the taxable year; and”.
 
 Subsec. (d)(5). Pub. L. 107–22, §1(a)(1), (4), substituted “distributed from a Coverdell education savings account” for “distributed from an education individual retirement account” and “another Coverdell education savings account” for “another education individual retirement account”.
 
@@ -326,15 +322,13 @@ Pub. L. 108–121, title I, §107(b), Nov. 11, 2003, 117 Stat. 1339, provided th
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
 Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
 
-Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 72 of this title.
-
-Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -342,7 +336,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 26 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set outas an Effective Date of 1997 Amendment note under section 26 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

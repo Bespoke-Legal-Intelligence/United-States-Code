@@ -12,7 +12,7 @@ Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of t
 
 &emsp;(A) Three years, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
 
-&emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding apermanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
+&emsp;(B) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
 (3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
@@ -24,7 +24,7 @@ Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of t
 
 Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection.—(1) Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
 
-(2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration for promotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
+(2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration forpromotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
 
 (c)
 
@@ -60,7 +60,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 Certain Officers Not To Be Considered.—A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
 
-&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selectionfor promotion to that grade by an earlier selection board convened under that section.
+&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selection for promotion to that grade by an earlier selection board convened under that section.
 
 &emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under that section, in the case of such a report that has not yet been approved by the President.
 
@@ -70,7 +70,7 @@ Certain Officers Not To Be Considered.—A selection board convened under sectio
 
 &emsp;(5) An officer in the grade of captain or, in the case of the Navy, lieutenant who is not a citizen of the United States.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L.105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
 
 #### Amendments
 
@@ -158,11 +158,11 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1997 Amendment
 
-Section 503(d) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending this section and section 14301 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date.”
+Pub. L. 105–85, div. A, title V, §503(d), Nov. 18, 1997, 111 Stat. 1725, provided that: “The amendments made by this section \[amending this section and section 14301 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of title 10, United States Code, on or after that date.”
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 #### Effective Date of 1991 Amendment
 

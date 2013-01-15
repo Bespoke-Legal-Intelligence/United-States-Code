@@ -24,7 +24,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “special operations forces” includes civil affairs forces and military information support operations forces.
 
-&emsp;(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
+&emsp;(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel,training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
 
 (e)
 

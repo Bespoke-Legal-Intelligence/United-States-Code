@@ -6,7 +6,7 @@
 
 &emsp;(A) the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 percent of the payment received by such applicant under section 1808 of this title;
 
-&emsp;(B) the Secretary shall next allocate to applicants who did not receive funds under such section for the preceding fiscal year an amount equal to 100 per centum of the product of—
+&emsp;(B) the Secretary shall next allocate to applicants who did not receive funds under suchsection for the preceding fiscal year an amount equal to 100 per centum of the product of—
 
 &emsp;&emsp;(i) the per capita payment for the preceding fiscal year; and
 

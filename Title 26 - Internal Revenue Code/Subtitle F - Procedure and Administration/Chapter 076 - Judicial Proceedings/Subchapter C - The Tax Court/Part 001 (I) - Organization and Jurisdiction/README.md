@@ -19,7 +19,7 @@
 
 <b>2008</b>—Pub. L. 110–458 repealed amendment made by section 856 of Pub. L. 109–280. See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–280, title VIII, §856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B. Pub. L. 110–458, title I,§108(<i>l</i>), Dec. 23, 2008, 122 Stat. 5110, repealed Pub. L. 109–280, §856, and provided that the Internal Revenue Code of 1986 shall be applied and administered as if such section had not been enacted.
+<b>2006</b>—Pub. L. 109–280, title VIII, §856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B. Pub. L. 110–458, title I, §108(l), Dec. 23, 2008, 122 Stat. 5110, repealed Pub. L. 109–280, §856, and provided that the Internal Revenue Code of 1986 shall be applied and administered as if such section had not been enacted.
 
 Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which directed amendment of item 7448 by inserting “and special trial judges” after “judges”, could not be executed because “judges” did not appear subsequent to amendment by Pub. L. 94–455. See 1976 Amendment note below.
 

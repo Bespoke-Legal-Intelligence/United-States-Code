@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) abandonment of any railroad line in accordance with section 1170 of this title.
 
-(b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Board under a law of the United States, thena plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Board and, within such time as the court may fix, not exceeding 180 days, the Board, with or without a hearing, as the Board may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Board approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
+(b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Board under a law of the United States, then a plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Board and, within such time as the court may fix, not exceeding 180 days, the Board, with or without a hearing, as the Board may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Board approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
 
 (c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
@@ -34,7 +34,7 @@ Section 1170 adds to the general provisions required or permitted in reorganizat
 
 Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
 
-Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit. Subsection (b) permits a plan to be proposed by any interested person, and permits the trustee to revise his plan at any time before it is approved by the court.
+Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit. Subsection (b) permits a plan to be proposed by any interested person, and permitsthe trustee to revise his plan at any time before it is approved by the court.
 
 Subsections (c), (d) and (e) require the court, when a plan is submitted by the trustee or, if the court deems it worthy of consideration, a plan submitted is proposed by any other person proposes the transfer of, or operation of or over, any of the debtor's lines by other carriers, to refer to such provisions of the plan to the Interstate Commerce Commission. The Commission, within 240 days, and after a hearing if the Commission so determines, is to report to the court the effects of such provisions of the plan in the light of national transportation policy and sections 5(3)(f)(A), (B), and (D), (F)–(I) of the Interstate Commerce Act \[49 U.S.C. 11350(b)(1), (2), (4), (6)–(9)\]. The report of the Commission is conclusive in all further hearings on the plan by the court, subject only to review pursuant to 5 U.S.C. 706(2)(A)–(D).
 
@@ -56,7 +56,7 @@ The plan may also provide for abandonment in accordance with section 1169, gover
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1995 Amendment
 

@@ -32,7 +32,7 @@ The Council shall advise, consult with, and make recommendations to the Secretar
 
 #### (c) Executive secretary; staff; travel expenses and status of members
 
-The Secretary shall furnish to the Council an executive secretary and such secretarial, clerical, and other services as are deemed necessary for the conduct of its business. Members of the Council, while away from their home or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Payments under this section shall not render members of the Council officers or employees of the United States for any purpose.
+The Secretary shall furnish to the Council an executive secretary and such secretarial, clerical, and other services as are deemed necessary for the conduct of its business. Members of theCouncil, while away from their home or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Payments under this section shall not render members of the Council officers or employees of the United States for any purpose.
 
 #### (d) Termination of Council
 
@@ -72,5 +72,5 @@ Par. (c). Pub. L. 97–322, §118(c)(3), struck out “or while otherwise engage
 
 #### References in Other Laws
 
-Section 105(a)(2) of Pub. L. 101–225 provided that: “Each reference to the Rules of the Road Advisory Council in a law, regulation, order, document, record, or paper of the United States is deemed to be a reference to the Navigation Safety Advisory Council.”
+Pub. L. 101–225, title I, §105(a)(2), Dec. 12, 1989, 103 Stat. 1910, provided that: “Each reference to the Rules of the Road Advisory Council in a law, regulation, order, document, record, or paper of the United States is deemed to be a reference to the Navigation Safety Advisory Council.”
 

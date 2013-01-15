@@ -16,11 +16,11 @@ If the tax imposed by section 4251 with respect to toll telephone service is pai
 
 For purposes of this subchapter, in determining the amounts paid for communications services, there shall not be included the amount of any State or local tax imposed on the furnishing or sale of such services, if the amount of such tax is separately stated in the bill.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291;Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
 
 #### Repeal
 
-<i>This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
+<i>This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions</i><i>which had reduced the tax to zero after a specified date.</i>
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 85–859 substituted “toll telephone service” for “lo
 
 #### Effective Date of 1977 Amendment
 
-Section 2(b) of Pub. L. 95–172 provided that: “The amendment made by this section \[amending this section\] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which begins more than 20 days after the date of the enactment of this Act \[Nov. 12, 1977\]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date.”
+Pub. L. 95–172, §2(b), Nov. 12, 1977, 91 Stat. 1358, provided that: “The amendment made by this section \[amending this section\] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which begins more than 20 days after the date of the enactment of this Act \[Nov. 12, 1977\]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date.”
 
 #### Effective Date of 1965 Amendment
 

@@ -6,7 +6,15 @@ Withholding of Funds for Noncompliance.—
 
 &emsp;(1)
 
-In general.—The Secretary shall withhold 10 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(3), and 104(b)(4) of this title on the first day of each fiscal year after the second fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.
+In general.—
+
+&emsp;&emsp;(A)
+
+Fiscal years before 2012.—The Secretary shall withhold 10 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(3), and 104(b)(4) <sup>1</sup> of this title on the first day of each fiscal year after the second fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.
+
+&emsp;&emsp;(B)
+
+Fiscal year 2012 and thereafter.—For fiscal year 2012 and each fiscal year thereafter, the amount to be withheld under this section shall be an amount equal to 8 percent of the amount apportioned to the noncompliant State, as described in subparagraph (A), under paragraphs (1) and (2) of section 104(b).
 
 &emsp;(2)
 
@@ -26,9 +34,11 @@ Alcoholic Beverage Defined.—As used in this section, the term “alcoholic bev
 
 &emsp;(3) distilled spirits as defined in section 5002(a)(8) of such Code.
 
-(Added Pub. L. 98–363, §6(a), July 17, 1984, 98 Stat. 437; amended Pub. L. 99–272, title IV, §4104, Apr. 7, 1986, 100 Stat. 114; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–178, title I, §1103(<i>l</i>)(2), June 9, 1998, 112 Stat. 125.)
+(Added Pub. L. 98–363, §6(a), July 17, 1984, 98 Stat. 437; amended Pub. L. 99–272, title IV, §4104, Apr. 7, 1986, 100 Stat. 114; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–178, title I, §1103(l)(2), June 9, 1998, 112 Stat. 125; Pub. L. 112–141, div. A, title I, §1404(f), July 6, 2012, 126 Stat. 558.)
 
 #### References in Text
+
+Section 104 of this title, referred to in subsec. (a)(1)(A), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 99–272, which was approved Apr. 7, 1986.
 
@@ -36,15 +46,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “In general” for “After the first year” in heading and “104(b)(3), and 104(b)(4)” for “104(b)(2), 104(b)(5), and 104(b)(6)” in text, and struck out former par. (1) which read as follows:
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(l)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “In general” for “After the first year” in heading and “104(b)(3), and 104(b)(4)” for “104(b)(2), 104(b)(5), and 104(b)(6)” in text, and struck out former par. (1) which read as follows:
 
 “(1)
 
-First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2),104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
+First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned toany State under each of sections 104(b)(1), 104(b)(2), 104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.”
 
-Subsec. (a)(2), (3). Pub. L. 105–178, §1103(<i>l</i>)(2)(A)(ii), (iv), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2) of this subsection”. Former par. (2) redesignated (1).
+Subsec. (a)(2), (3). Pub. L. 105–178, §1103(l)(2)(A)(ii), (iv), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2) of this subsection”. Former par. (2) redesignated (1).
 
-Subsec. (b). Pub. L. 105–178, §1103(<i>l</i>)(2)(B), added subsec. (b) and struck out heading and text of former subsec. (b) which related to period of availability for apportionment to State of funds withheld by the Secretary pending State enactment of federally-prescribed minimum drinking age.
+Subsec. (b). Pub. L. 105–178, §1103(l)(2)(B), added subsec. (b) and struck out heading and text of former subsec. (b) which related to period of availability for apportionment to State of funds withheld by the Secretary pending State enactment of federally-prescribed minimum drinking age.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §4104(d)(1), added subsection heading.
 
@@ -59,4 +71,14 @@ Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior t
 Subsec. (c). Pub. L. 99–272, §4104(d)(6), added subsection heading.
 
 Subsec. (c)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Minimum Drinking Age
+
+Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: “The Congress strongly encourages each State to prohibit the sale of alcoholic beverages to persons who are less than 21 years of age.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

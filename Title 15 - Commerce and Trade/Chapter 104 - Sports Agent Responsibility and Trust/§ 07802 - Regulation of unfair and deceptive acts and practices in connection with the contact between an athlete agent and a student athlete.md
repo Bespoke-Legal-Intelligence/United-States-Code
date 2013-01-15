@@ -8,7 +8,7 @@ It is unlawful for an athlete agent to—
 
 &emsp;&emsp;(A) giving any false or misleading information or making a false promise or representation; or
 
-&emsp;&emsp;(B) providing anything of value to a student athlete or anyone associated with the student athlete before the student athlete enters into an agency contract, includingany consideration in the form of a loan, or acting in the capacity of a guarantor or co-guarantor for any debt;
+&emsp;&emsp;(B) providing anything of value to a student athlete or anyone associated with the student athlete before the student athlete enters into an agency contract, including any consideration in the form of a loan, or acting in the capacity of a guarantor or co-guarantor for any debt;
 
 &emsp;(2) enter into an agency contract with a student athlete without providing the student athlete with the disclosure document described in subsection (b); or
 

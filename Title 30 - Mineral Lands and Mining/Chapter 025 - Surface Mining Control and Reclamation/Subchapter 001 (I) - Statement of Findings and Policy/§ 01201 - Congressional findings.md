@@ -12,13 +12,13 @@ The Congress finds and declares that—
 
 &emsp;(e) surface mining and reclamation technology are now developed so that effective and reasonable regulation of surface coal mining operations by the States and by the Federal Government in accordance with the requirements of this chapter is an appropriate and necessary means to minimize so far as practicable the adverse social, economic, and environmental effects of such mining operations;
 
-&emsp;(f) because of the diversity in terrain, climate, biologic, chemical, and other physical conditions in areas subject to mining operations, the primary governmental responsibility for developing, authorizing, issuing, and enforcing regulations for surface mining and reclamation operations subject to this chapter should rest with the States;
+&emsp;(f) because of the diversity in terrain, climate, biologic, chemical, and other physicalconditions in areas subject to mining operations, the primary governmental responsibility for developing, authorizing, issuing, and enforcing regulations for surface mining and reclamation operations subject to this chapter should rest with the States;
 
 &emsp;(g) surface mining and reclamation standards are essential in order to insure that competition in interstate commerce among sellers of coal produced in different States will not be used to undermine the ability of the several States to improve and maintain adequate standards on coal mining operations within their borders;
 
 &emsp;(h) there are a substantial number of acres of land throughout major regions of the United States disturbed by surface and underground coal on which little or no reclamation was conducted, and the impacts from these unreclaimed lands impose social and economic costs on residents in nearby and adjoining areas as well as continuing to impair environmental quality;
 
-&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed toserve as a basis for effective and reasonable regulation of such operations;
+&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed to serve as a basis for effective and reasonable regulation of such operations;
 
 &emsp;(j) surface and underground coal mining operations affect interstate commerce, contribute to the economic well-being, security, and general welfare of the Nation and should be conducted in an environmentally sound manner; and
 
@@ -46,7 +46,7 @@ Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This A
 
 #### Short Title
 
-Section 1 of Pub. L. 95–87 provided: “That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
+Pub. L. 95–87, §1, Aug. 3, 1977, 91 Stat. 445, provided: “That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
 
 Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
 

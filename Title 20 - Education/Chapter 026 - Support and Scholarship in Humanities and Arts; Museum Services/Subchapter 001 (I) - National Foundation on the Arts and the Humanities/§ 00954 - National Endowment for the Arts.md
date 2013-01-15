@@ -18,7 +18,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(2) projects and productions, meeting professional standards or standards of authenticity or tradition, irrespective of origin, which are of significant merit and which, without such assistance, would otherwise be unavailable to our citizens for geographic or economic reasons;
 
-&emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, to work in residence at an educational or cultural institution, or to achieve standards of professional excellence;
+&emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, towork in residence at an educational or cultural institution, or to achieve standards of professional excellence;
 
 &emsp;(4) projects and productions which have substantial artistic and cultural significance and that reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
 
@@ -68,7 +68,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 &emsp;(D) provides—
 
-&emsp;&emsp;(i) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow all groups of artists, interested organizations, and the public to present views and make recommendations regarding the State plan; and
+&emsp;&emsp;(i) assurances that the State agency has held, after reasonable notice, public meetings in the State to allow all groups of artists, interested organizations, and the publicto present views and make recommendations regarding the State plan; and
 
 &emsp;&emsp;(ii) a summary of such recommendations and the State agency's response to such recommendations; and
 
@@ -158,7 +158,7 @@ The Chairperson shall issue regulations to provide for the distribution of finan
 
 The Inspector General of the Endowment shall conduct appropriate reviews to ensure that recipients of financial assistance under this section comply with the regulations under this subchapter that apply with respect to such assistance, including regulations relating to accounting and financial matters.
 
-#### (<i>l</i>) Use of financial assistance for obscene project, production, etc.; repayment of assistance; exceptions
+#### (l) Use of financial assistance for obscene project, production, etc.; repayment of assistance; exceptions
 
 (1) If, after reasonable notice and opportunity for a hearing on the record, the Chairperson determines that a recipient of financial assistance provided under this section by the Chairperson or any non-Federal entity, used such financial assistance for a project, production, workshop, or program that is determined to be obscene, then the Chairperson shall require that until such recipient repays such assistance (in such amount, and under such terms and conditions, as the Chairperson determines to be appropriate) to the Endowment; no subsequent financial assistance be provided under this section to such recipient.
 
@@ -174,9 +174,9 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (n) Labor standards of laborers and mechanics
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. TheSecretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
-#### (<i>o</i>) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations
+#### (o) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations
 
 The Chairperson shall correlate the programs of the National Endowment for the Arts insofar as practicable, with existing Federal programs and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs. The Chairperson may enter into interagency agreements to promote or assist with the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) of this section for the costs of such activities.
 
@@ -186,7 +186,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the programs of such organizations or institutions;
 
-&emsp;(B) providing administrative and management improvements for cultural organizationsand institutions, particularly in the field of long-range financial planning;
+&emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
 &emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
@@ -228,13 +228,13 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of theavailability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
 
 #### References in Text
 
-The effective date of this subsection, referred to in subsec. (<i>l</i>)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
+The effective date of this subsection, referred to in subsec. (l)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -264,23 +264,23 @@ Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], adde
 
 “(ii) a description of the extent to which projects and productions receiving financial assistance under this subsection are available to all people and communities in the State; and”.
 
-Subsecs. (i) to (k). Pub. L. 101–512, §318 \[title I, §103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (<i>l</i>) to (n), respectively.
+Subsecs. (i) to (k). Pub. L. 101–512, §318 \[title I, §103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (l) to (n), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 101–512, §318 \[title I, §103(h)(2)\], added subsec. (<i>l</i>). Former subsec. (<i>l</i>), redesignated (m).
+Subsec. (l). Pub. L. 101–512, §318 \[title I, §103(h)(2)\], added subsec. (l). Former subsec. (l), redesignated (m).
 
-Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (i) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (<i>o</i>).
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
 
 Subsec. (m). Pub. L. 101–512, §318 \[title I, §103(i)(1)\], substituted “subsection (n)” for “subsection (j)”.
 
-Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
+Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
+Subsecs. (n), (o). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (o), respectively. Former subsecs. (n) and (o) redesignated (o) and (p), respectively.
 
-Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
+Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (l) as (n) and (o), respectively.
 
-Subsec. (p). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>o</i>) as (p). Former subsec. (p) redesignated (q).
+Subsec. (p). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (o) as (p). Former subsec. (p) redesignated (q).
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (m) as (p).
 
@@ -302,7 +302,7 @@ Subsec. (c)(4) to (8). Pub. L. 99–194, §105(2)(A), (B), added cls. (4) and (5
 
 Subsec. (d). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman”.
 
-Subsec. (g). Pub. L. 99–194, §105(3), (6), substituted “Chairperson” for “Chairman” wherever appearing, and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
+Subsec. (g). Pub. L. 99–194, §105(3), (6), substituted “Chairperson” for “Chairman” wherever appearing,and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
 
 Subsec. (h). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
@@ -310,11 +310,11 @@ Subsec. (i). Pub. L. 99–194, §105(4), substituted “Secretary of Labor may d
 
 Subsec. (k). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (<i>l</i>)(1). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
+Subsec. (l)(1). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
 
-Subsec. (<i>l</i>)(1)(D). Pub. L. 99–194, §105(5), inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
+Subsec. (l)(1)(D). Pub. L. 99–194, §105(5), inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
 
-Subsec. (<i>l</i>)(3). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman”.
+Subsec. (l)(3). Pub. L. 99–194, §105(6), substituted “Chairperson” for “Chairman”.
 
 Subsec. (m). Pub. L. 99–194, §105(8), added subsec. (m).
 
@@ -328,7 +328,7 @@ Subsec. (g)(4)(E). Pub. L. 96–496, §102(b)(2), added subpar. (E).
 
 Subsec. (k). Pub. L. 96–496, §102(c), authorized the Chairman to enter into interagency agreements to promote or assist the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and to use funds authorized to be appropriated for the purposes of subsec. (c) of this section for the costs of such activities.
 
-Subsec. (<i>l</i>). Pub. L. 96–496, §102(d), inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
+Subsec. (l). Pub. L. 96–496, §102(d), inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
 
 Subsec. (m). Pub. L. 96–496, §102(e), struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
 
@@ -336,7 +336,7 @@ Subsec. (m). Pub. L. 96–496, §102(e), struck out subsec. (m) which related to
 
 Subsec. (g)(4)(A). Pub. L. 94–462, §102, inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
 
-Subsec. (<i>l</i>). Pub. L. 94–462, §301(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 94–462, §301(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
@@ -356,7 +356,7 @@ Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allot
 
 Subsec. (c)(3). Pub. L. 91–346, §4, expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
 
-Subsecs. (d) to (<i>l</i>). Pub. L. 91–346, §5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (<i>l</i>), and all references thereto, as subsecs. (d) to (k), respectively.
+Subsecs. (d) to (l). Pub. L. 91–346, §5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (l), and all references thereto, as subsecs. (d) to (k), respectively.
 
 Subsec. (g)(2)(A). Pub. L. 91–346, §6, permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 
 #### Applicability of 1985 Amendment
 
-Section 112 of Pub. L. 99–194 provided that: “The amendments made by sections 105(3) and 107(3) \[amending this section and section 956 of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986.”
+Pub. L. 99–194, title I, §112, Dec. 20, 1985, 99 Stat. 1344, provided that: “The amendments made by sections 105(3) and 107(3) \[amending this section and section 956 of this title\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986.”
 
 #### Effective Date of 1973 Amendment
 
@@ -402,7 +402,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (q) of this se
 
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
 
-Section 318 \[title I, §111\] of Pub. L. 101–512 provided that:
+Pub. L. 101–512, title III, §318 \[title I, §111\], Nov. 5, 1990, 104 Stat. 1960, 1974, provided that:
 
 “(a)
 

@@ -14,4 +14,4 @@
 - [&sect; 00529 - Annual report to Congress](%C2%A7%2000529%20-%20Annual%20report%20to%20Congress.md)
 - [&sect; 00530 - Annual report on program and expenditures for domestic response to weapons of mass destruction](%C2%A7%2000530%20-%20Annual%20report%20on%20program%20and%20expenditures%20for%20domestic%20response%20to%20weapons%20of%20mass%20destruction.md)
 - [&sect; 00531 - Requirement relating to naming of Department property](%C2%A7%2000531%20-%20Requirement%20relating%20to%20naming%20of%20Department%20property.md)
-- [&sect; 00532 - Authority to advertise in national media](%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media.md)
+- [&sect; 00532 - Authority to advertise in national media; VetStar Award Program](%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media%3B%20VetStar%20Award%20Program.md)

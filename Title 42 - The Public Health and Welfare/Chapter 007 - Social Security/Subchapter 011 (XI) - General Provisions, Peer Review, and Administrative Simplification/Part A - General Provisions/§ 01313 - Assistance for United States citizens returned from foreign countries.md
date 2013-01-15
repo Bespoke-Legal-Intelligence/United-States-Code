@@ -64,5 +64,5 @@ Subsec. (d). Pub. L. 94–44, §1, substituted provisions setting the maximum to
 
 #### Effective Date of 1990 Amendment
 
-Section 5056(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning after September 30, 1989.”
+Pub. L. 101–508, title V, §5056(b), Nov. 5, 1990, 104 Stat. 1388–230, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning after September 30, 1989.”
 

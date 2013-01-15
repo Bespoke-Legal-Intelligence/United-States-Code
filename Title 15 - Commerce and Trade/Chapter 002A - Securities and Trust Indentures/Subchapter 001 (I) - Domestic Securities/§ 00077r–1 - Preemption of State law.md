@@ -4,7 +4,7 @@
 
 (1) Any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State shall be authorized to purchase, hold, and invest in securities that are—
 
-&emsp;(A) offered and sold pursuant to section 77d(5) of this title,
+&emsp;(A) offered and sold pursuant to section 77d(5) <sup>1</sup> of this title,
 
 &emsp;(B) mortgage related securities (as that term is defined in section 78c(a)(41) of this title),
 
@@ -16,7 +16,7 @@
 
 (2) Where State law limits the purchase, holding, or investment in obligations issued by the United States by such a person, trust, corporation, partnership, association, business trust, or business entity, such securities that are—
 
-&emsp;(A) offered and sold pursuant to section 77d(5) of this title,
+&emsp;(A) offered and sold pursuant to section 77d(5) <sup>1</sup> of this title,
 
 &emsp;(B) mortgage related securities (as that term is defined in section 78c(a)(41) of this title),
 
@@ -32,7 +32,7 @@ The provisions of subsection (a) of this section shall not apply with respect to
 
 #### (c) Registration and qualification requirements; exemption; subsequent enactment by State
 
-Any securities that are offered and sold pursuant to section 77d(5) of this title, that are mortgage related securities (as that term is defined in section 78c(a)(41) of this title), or that are small business related securities (as defined in section 78c(a)(53) of this title) shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality thereof. Any State may, prior to the expiration of seven years after October 3, 1984, enact a statute that specifically refers to this section and requires registration or qualification of any such security on terms that differ from those applicable to any obligation issued by the United States.
+Any securities that are offered and sold pursuant to section 77d(5) <sup>1</sup> of this title, that are mortgage related securities (as that term is defined in section 78c(a)(41) of this title), or that are small business related securities (as defined in section 78c(a)(53) of this title) shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality thereof. Any State may, prior to the expiration of seven years after October 3, 1984, enact a statute that specifically refers to this section and requires registration or qualification of any such security on terms that differ from those applicable to any obligation issued by the United States.
 
 #### (d) Implementation
 
@@ -45,6 +45,10 @@ Any securities that are offered and sold pursuant to section 77d(5) of this titl
 &emsp;Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differ from those applicable to any obligation issued by the United States.
 
 (Pub. L. 98–440, title I, §106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, §207, Sept. 23, 1994, 108 Stat. 2199.)
+
+#### References in Text
+
+Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section 77d(a)(5) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Codification
 
@@ -59,4 +63,6 @@ Subsec. (a)(2)(B) to (D). Pub. L. 103–325, §207(b), struck out “or” at en
 Subsec. (c). Pub. L. 103–325, §207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
 
 Subsec. (d). Pub. L. 103–325, §207(d), added subsec. (d).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

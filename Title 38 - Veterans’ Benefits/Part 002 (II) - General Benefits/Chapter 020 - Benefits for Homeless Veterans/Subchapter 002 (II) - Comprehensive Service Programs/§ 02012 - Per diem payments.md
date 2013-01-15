@@ -8,7 +8,7 @@ Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to
 
 &emsp;(B) for whom the Secretary has authorized the provision of services.
 
-(2)(A) The rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.
+(2)(A) The rate for such per diem payments shall be the daily cost of care estimated by thegrant recipient or eligible entity adjusted by the Secretary under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title, as the Secretary may increase from time to time under subsection (c) of that section.
 
 (B) The Secretary shall adjust the rate estimated by the grant recipient or eligible entity under subparagraph (A) to exclude other sources of income described in subparagraph (D) that the grant recipient or eligible entity certifies to be correct.
 
@@ -52,7 +52,7 @@ Per Diem Payments to Nonconforming Entities.—(1) The Secretary may make funds 
 
 &emsp;&emsp;(ii) furnish services to homeless individuals, of which less than 75 percent are veterans.
 
-(2) Notwithstanding subsection (a)(2), in providing per diem payments under this subsection,the Secretary shall determine the rate of such per diem payments in accordance with the following order of priority:
+(2) Notwithstanding subsection (a)(2), in providing per diem payments under this subsection, the Secretary shall determine the rate of such per diem payments in accordance with the following order of priority:
 
 &emsp;(A) Grant recipients or eligible entities described by paragraph (1)(A).
 

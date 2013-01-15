@@ -26,7 +26,7 @@
 
 (1) The benefit under this subchapter for an individual who does not have an eligible spouse shall be payable at the rate of $1,752 (or, if greater, the amount determined under section 1382f of this title) for the calendar year 1974 and any calendar year thereafter, reduced by the amount of income, not excluded pursuant to section 1382a(b) of this title, of such individual.
 
-(2) The benefit under this subchapter for an individual who has an eligible spouse shall be payable at the rate of $2,628 (or, if greater, the amount determined under section 1382f of this title) for the calendar year 1974 and any calendar year thereafter, reduced by the amount of income, not excluded pursuant to section 1382a(b) of this title, of such individual and spouse.
+(2) The benefit under this subchapter for an individual who has an eligible spouse shall be payable at the rate of $2,628 (or, if greater, the amount determined under section 1382f of this title) for the calendar year 1974 and any calendar year thereafter, reduced by the amount ofincome, not excluded pursuant to section 1382a(b) of this title, of such individual and spouse.
 
 #### (c) Period for determination of benefits
 
@@ -46,7 +46,7 @@
 
 (4)(A) Notwithstanding paragraph (3), if the Commissioner of Social Security determines that reliable information is currently available with respect to the income and other circumstances of an individual for a month (including information with respect to a class of which such individual is a member and information with respect to scheduled cost-of-living adjustments under other benefit programs), the benefit amount of such individual under this subchapter for such month may be determined on the basis of such information.
 
-(B) The Commissioner of Social Security shall prescribe by regulation the circumstances inwhich information with respect to an event may be taken into account pursuant to subparagraph (A) in determining benefit amounts under this subchapter.
+(B) The Commissioner of Social Security shall prescribe by regulation the circumstances in which information with respect to an event may be taken into account pursuant to subparagraph (A) in determining benefit amounts under this subchapter.
 
 (5) Notwithstanding paragraphs (1) and (2), any income which is paid to or on behalf of an individual in any month pursuant to (A) a State program funded under part A of subchapter IV of this chapter, (B) section 672 of this title (relating to foster care assistance), (C) section 1522(e) of title 8 (relating to assistance for refugees), (D) section 501(a) of Public Law 96-422 (relating to assistance for Cuban and Haitian entrants), or (E) section 13 of title 25 (relating to assistance furnished by the Bureau of Indian Affairs), shall be taken into account in determining the amount of the benefit under this subchapter of such individual (and his eligible spouse, if any) only for that month, and shall not be taken into account in determining the amount of the benefit for any other month.
 
@@ -86,7 +86,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(iii) at a rate not in excess of $720 per year (reduced by the amount of any income not excluded pursuant to section 1382a(b) of this title) in the case of an individual who has an eligible spouse, if both of them are in such a facility throughout such month.
 
-> For purposes of this subsection, a medical treatment facility that provides services described insection 1396p(c)(1)(C) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.
+> For purposes of this subsection, a medical treatment facility that provides services described in section 1396p(c)(1)(C) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.
 
 (C) As used in subparagraph (A), the term “public institution” does not include a publicly operated community residence which serves no more than 16 residents.
 
@@ -108,7 +108,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 (G) A person may be an eligible individual or eligible spouse for purposes of this subchapter, and subparagraphs (A) and (B) shall not apply, with respect to any particular month throughout which he or she is an inmate of a public institution the primary purpose of which is the provision of medical or psychiatric care, or is in a medical treatment facility receiving payments (with respect to such individual or spouse) under a State plan approved under subchapter XIX of this chapter or, in the case of an individual who is a child under the age of 18, under any health insurance policy issued by a private provider of such insurance, if it is determined in accordance with subparagraph (H) or (J) that—
 
-&emsp;(i) such person's stay in that institution or facility (or in that institution or facility and one or more other such institutions or facilities during a continuous period of institutionalization) is likely (as certified by a physician) not to exceed 3 months, and the particular month involved is one of the first 3 months throughout which such person is in such an institution or facility during a continuous period of institutionalization; and
+&emsp;(i) such person's stay in that institution or facility (or in that institution or facility andone or more other such institutions or facilities during a continuous period of institutionalization) is likely (as certified by a physician) not to exceed 3 months, and the particular month involved is one of the first 3 months throughout which such person is in such an institution or facility during a continuous period of institutionalization; and
 
 &emsp;(ii) such person needs to continue to maintain and provide for the expenses of the home or living arrangement to which he or she may return upon leaving the institution or facility.
 
@@ -120,7 +120,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(I) the institution shall provide to the Commissioner, on a monthly basis and in a manner specified by the Commissioner, the names, social security account numbers, dates of birth, confinement commencement dates, and, to the extent available to the institution, such other identifying information concerning the inmates of the institution as the Commissioner may require for the purpose of carrying out this paragraph and the other provisions of this subchapter; and
 
-&emsp;(II) the Commissioner shall pay to any such institution, with respect to each individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution, $400 (subject to reduction under clause (ii)) if the institution furnishes the information described in subclause (I) to the Commissioner within 30 days after the date such individual becomes an inmate of such institution, or $200 (subject to reduction underclause (ii)) if the institution furnishes such information after 30 days after such date but within 90 days after such date.
+&emsp;(II) the Commissioner shall pay to any such institution, with respect to each individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution, $400 (subject to reduction under clause (ii)) if the institution furnishes the information described in subclause (I) to the Commissioner within 30 days after the date such individual becomes an inmate of such institution, or $200 (subject to reduction under clause (ii)) if the institution furnishes such information after 30 days after such date but within 90 days after such date.
 
 (ii) The dollar amounts specified in clause (i)(II) shall be reduced by 50 percent if the Commissioner is also required to make a payment to the institution with respect to the same individual under an agreement entered into under section 402(x)(3)(B) of this title.
 
@@ -160,7 +160,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 #### (f) Individuals outside United States; determination of status
 
-(1) Notwithstanding any other provision of this subchapter, no individual (other than a child described in section 1382c(a)(1)(B)(ii) of this title) shall be considered an eligible individual for purposes of this subchapter for anymonth during all of which such individual is outside the United States (and no person shall be considered the eligible spouse of an individual for purposes of this subchapter with respect to any month during all of which such person is outside the United States). For purposes of the preceding sentence, after an individual has been outside the United States for any period of 30 consecutive days, he shall be treated as remaining outside the United States until he has been in the United States for a period of 30 consecutive days.
+(1) Notwithstanding any other provision of this subchapter, no individual (other than a child described in section 1382c(a)(1)(B)(ii) of this title) shall be considered an eligible individual for purposes of this subchapter for any month during all of which such individual is outside the United States (and no person shall be considered the eligible spouse of an individual for purposes of this subchapter with respect to any month during all of which such person is outside the United States). For purposes of the preceding sentence, after an individual has been outside the United States for any period of 30 consecutive days, he shall be treated as remaining outside the United States until he has been in the United States for a period of 30 consecutive days.
 
 (2) For a period of not more than 1 year, the first sentence of paragraph (1) shall not apply to any individual who—
 
@@ -318,7 +318,7 @@ Subsec. (e)(6). Pub. L. 104–193, §202(b), added par. (6).
 
 <b>1994</b>—Subsecs. (c), (d), (e)(1)(D), (H), (2). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-Subsec. (e)(3)(A). Pub. L. 103–296, §201(b)(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No person who is an aged, blind, or disabled individual solely by reason of disability (as determined under section 1382c(a)(3) of this title) shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if such individual is medically determined to be a drug addict or an alcoholic unless such individual is undergoing any treatment that may be appropriate for his condition as a drug addict or alcoholic (as the case may be) at an institution or facility approved for purposes of this paragraph by the Secretary (so long as such treatment is available) and demonstrates that he is complying with the terms, conditions, and requirements of such treatment and with requirements imposed by the Secretary under subparagraph (B).”
+Subsec. (e)(3)(A). Pub. L. 103–296, §201(b)(3)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No person who is an aged, blind, or disabled individual solely by reason of disability (as determined under section 1382c(a)(3) of this title) shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if such individual is medically determined to be a drug addict or an alcoholic unless such individual is undergoing any treatment that may be appropriate for his condition as a drug addict or alcoholic (as the case may be) at an institution or facility approved for purposes of this paragraph by the Secretary (so long as such treatment isavailable) and demonstrates that he is complying with the terms, conditions, and requirements of such treatment and with requirements imposed by the Secretary under subparagraph (B).”
 
 Pub. L. 103–296, §107(a)(4), in subpar. (A) as amended by Pub. L. 103–296, §201(b)(3)(A), substituted “Commissioner of Social Security” for “Secretary” and “Commissioner's” for “Secretary's” wherever appearing.
 
@@ -362,7 +362,7 @@ Subsec. (e)(5). Pub. L. 100–203, §9107, substituted “living in the same hos
 
 Subsec. (e)(1). Pub. L. 99–643, §3(a), in subpar. (A) substituted “(D), and (E)” for “and (D)”, in subpar. (B) inserted “(subject to subparagraph (E))” after “shall be payable”, and added subpars. (E) and (F).
 
-Subsec. (e)(4). Pub. L. 99–643, §4(d)(1), struck out par. (4) which read as follows: “No benefit shall be payableunder this subchapter, except as provided in section 1382h of this title (or section 1382e(c)(3) of this title), with respect to an eligible individual or his eligible spouse who is an aged, blind, or disabled individual solely by application of section 1382c(a)(3)(F) of this title for any month, after the third month, in which he engages in substantial gainful activity during the fifteen-month period following the end of his trial work period determined by application of section 1382c(a)(4)(D)(i) of this title.”
+Subsec. (e)(4). Pub. L. 99–643, §4(d)(1), struck out par. (4) which read as follows: “No benefit shall be payable under this subchapter, except as provided in section 1382h of this title (or section 1382e(c)(3) of this title), with respect to an eligible individual or his eligible spouse who is an aged, blind, or disabled individual solely by application of section 1382c(a)(3)(F) of this title for any month, after the third month, in which he engages in substantial gainful activity during the fifteen-month period following the end of his trial work period determined by application of section 1382c(a)(4)(D)(i) of this title.”
 
 Subsec. (e)(5). Pub. L. 99–643, §9(a), added par. (5).
 
@@ -440,17 +440,17 @@ Amendment by section 207(c) of Pub. L. 106–169 applicable to statements and re
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5528(a) of Pub. L. 105–33, set out as a note under section 903 of this title.
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
 Amendment by section 108(j) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
-Section 201(b) of Pub. L. 104–193 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title II, §201(b), Aug. 22, 1996, 110 Stat. 2185, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].”
 
-Section 202(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title II, §202(c), Aug. 22, 1996, 110 Stat. 2186, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].”
 
-Section 203(a)(2) of Pub. L. 104–193 provided that: “The amendment made by this subsection \[amending this section\] shall apply to individuals whose period of confinement in an institution commences on or after the first day of the seventh month beginning after the month in which this Act is enacted \[August 1996\].”
+Pub. L. 104–193, title II, §203(a)(2), Aug. 22, 1996, 110 Stat. 2187, provided that: “The amendment made by this subsection \[amending this section\] shall apply to individuals whose period of confinement in an institution commences on or after the first day of the seventh month beginning after the month in which this Act is enacted \[August 1996\].”
 
-Section 204(d) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title II, §204(d), Aug. 22, 1996, 110 Stat. 2188, provided that:
 
 “(1)
 
@@ -460,9 +460,9 @@ In general.—The amendments made by this section \[amending this section and se
 
 Benefits under title xvi.—For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[section 1382e(a) of this title\], and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66 \[set out below\].”
 
-Section 214(b) of Pub. L. 104–193 provided that: “The amendment made by this section \[amending this section\] shall apply to benefits for months beginning 90 or more days after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.”
+Pub. L. 104–193, title II, §214(b), Aug. 22, 1996, 110 Stat. 2196, provided that: “The amendment made by this section \[amending this section\] shall apply to benefits for months beginning 90 or more days after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.”
 
-Section 105(b)(5) of Pub. L. 104–121, as amended by Pub. L. 105–33, title V, §5525(a), (b), Aug. 5, 1997, 111 Stat. 624, provided that:
+Pub. L. 104–121, title I, §105(b)(5), Mar. 29, 1996, 110 Stat. 854, as amended by Pub. L. 105–33, title V, §5525(a), (b), Aug. 5, 1997, 111 Stat. 624, provided that:
 
 “(A) The amendments made by paragraphs (1) and (4) \[amending this section and sections 1382c and 1383c of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
 
@@ -472,7 +472,7 @@ Section 105(b)(5) of Pub. L. 104–121, as amended by Pub. L. 105–33, title V,
 
 &emsp;“(ii) whose eligibility for benefits is based upon an eligibility redetermination made pursuant to subparagraph (C).
 
-“(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting section 1383e of this title and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
+“(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting section 1383e of this title and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security incomebenefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
 
 “(D) For purposes of this paragraph, an individual's claim, with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
 
@@ -490,7 +490,7 @@ Section 105(b)(5) of Pub. L. 104–121, as amended by Pub. L. 105–33, title V,
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 201(b)(3)(C), (E), of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title II, §201(b)(3)(C), (E), Aug. 15, 1994, 108 Stat. 1504, 1505, provided that:
 
 “(C)
 
@@ -512,17 +512,17 @@ Referral and monitoring agencies.—The amendments made by subparagraph (B) \[am
 
 Termination after 36 months.—Clause (v) of section 1611(e)(3)(A) of the Social Security Act \[subsec. (e)(3)(A) of this section\] (added by the amendment made by subparagraph (A) of this paragraph) shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability for months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
-Section 204(b) of Pub. L. 103–296 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995.”
+Pub. L. 103–296, title II, §204(b), Aug. 15, 1994, 108 Stat. 1509, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13735(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to benefits paid for months after the calendar year 1994.”
+Pub. L. 103–66, title XIII, §13735(b), Aug. 10, 1993, 107 Stat. 663, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to benefits paid for months after the calendar year 1994.”
 
 #### Effective Date of 1989 Amendment
 
-Section 8009(c) of Pub. L. 101–239 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382c of this title\] shall apply with respect to benefits for months after March 1990.”
+Pub. L. 101–239, title VIII, §8009(c), Dec. 19, 1989, 103 Stat. 2463, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382c of this title\] shall apply with respect to benefits for months after March 1990.”
 
-Section 8010(c) of Pub. L. 101–239 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382c of this title\] shall take effect on the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VIII, §8010(c), Dec. 19, 1989, 103 Stat. 2464, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382c of this title\] shall take effect on the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -530,25 +530,25 @@ Amendment by Pub. L. 100–360 applicable to transfers occurring on or after Jul
 
 #### Effective Date of 1987 Amendment
 
-Section 9106(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9106(b), Dec. 22, 1987, 101 Stat. 1330–302, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective April 1, 1988.”
 
-Section 9107 of Pub. L. 100–203 provided that the amendment made by that section is effective Nov. 10, 1986.
+Pub. L. 100–203, title IX, §9107, Dec. 22, 1987, 101 Stat. 1330–302, provided that the amendment made by that section is effective Nov. 10, 1986.
 
-Section 9113(b) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IX, §9113(b), Dec. 22, 1987, 101 Stat. 1330–304, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall become effective January 1, 1988.
 
 “(2) In the application of section 1611(e)(1)(D) of the Social Security Act \[subsec. (e)(1)(D) of this section\] on and after the effective date of such amendment, months before January 1988 in which a person was an eligible individual or eligible spouse by reason of such section shall not be taken into account.”
 
-Section 9115(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 1396a of this title\] shall become effective July 1, 1988.”
+Pub. L. 100–203, title IX, §9115(c), Dec. 22, 1987, 101 Stat. 1330–305, provided that: “The amendments made by this section \[amending this section and section 1396a of this title\] shall become effective July 1, 1988.”
 
-Section 9119(c) of Pub. L. 100–203 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382g of this title\] shall become effective July 1, 1988.”
+Pub. L. 100–203, title IX, §9119(c), Dec. 22, 1987, 101 Stat. 1330–309, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1382g of this title\] shall become effective July 1, 1988.”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by sections 3(a) and 4(c)(3), (d)(1) of Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Section 9(b) of Pub. L. 99–643 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–643, §9(b), Nov. 10, 1986, 100 Stat. 3580, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -558,17 +558,17 @@ Amendment by section 2663(g)(1), (2) of Pub. L. 98–369 effective July 18, 1984
 
 #### Effective Date of 1983 Amendment
 
-Section 403(b) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to months after the month in which this Act is enacted \[April 1983\].”
+Pub. L. 98–21, title IV, §403(b), Apr. 20, 1983, 97 Stat. 140, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to months after the month in which this Act is enacted \[April 1983\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 181(b) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §181(b), Sept. 3, 1982, 96 Stat. 404, provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1982.”
 
-Section 183(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective October 1, 1982.”
+Pub. L. 97–248, title I, §183(b), Sept. 3, 1982, 96 Stat. 405, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective October 1, 1982.”
 
 #### Effective Date of 1981 Amendment and Transitional Provisions
 
-Section 2341(c) of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XXIII, §2341(c), Aug. 13, 1981, 95 Stat. 865, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 1382a of this title\] shall be effective with respect to months after the first calendar quarter which ends more than five months after the month in which this Act is enacted \[August 1981\].
 
@@ -580,21 +580,21 @@ Amendment by Pub. L. 96–265 effective on first day of sixth month which begins
 
 #### Effective Date of 1976 Amendment
 
-Section 505(e) of Pub. L. 94–566 provided that: “The amendments \[amending this section and section 1382a of this title\] and repeals \[repealing section 1382e(e) of this title\] made by this section, unless otherwise specified therein, shall take effect on October 1, 1976.”
+Pub. L. 94–566, title V, §505(e), Oct. 20, 1976, 90 Stat. 2687, provided that: “The amendments \[amending this section and section 1382a of this title\] and repeals \[repealing section 1382e(e) of this title\] made by this section, unless otherwise specified therein, shall take effect on October 1, 1976.”
 
-#### Effective Date of 1973 Amendments
+#### Effective Date of 1973 Amendment
 
-Section 4(b) of Pub. L. 93–233 provided that the amendments made by section 4(b)(1), (2) of Pub. L. 93–233 are effective with respect to payments for months after June 1974.
+Pub. L. 93–233, §4(b), Dec. 31, 1973, 87 Stat. 953, provided that the amendments made by section 4(b)(1), (2) of Pub. L. 93–233 are effective with respect to payments for months after June 1974.
 
-Section 210(c) of Pub. L. 93–66, as amended Pub. L. 93–233, §4(a)(1), Dec. 31, 1973, 87 Stat. 953, provided: “The amendments made by this section \[amending this section\] shall apply with respect to payments for months after December 1973.”
+Pub. L. 93–66, title II, §210(c), July 9, 1973, 87 Stat. 154, as amended Pub. L. 93–233, §4(a)(1), Dec. 31, 1973, 87 Stat. 953, provided: “The amendments made by this section \[amending this section\] shall apply with respect to payments for months after December 1973.”
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Regulations
 
-Section 215 of title II of Pub. L. 104–193 provided that: “Within 3 months after the date of the enactment of this Act \[Aug. 22, 1996\], the Commissioner of Social Security shall prescribe such regulations as may be necessary to implement the amendments made by this subtitle \[subtitle B (§§211–215) of title II of Pub. L. 104–193, amending this section, sections 1382a to 1382c and 1383 of this title, sections 665e and 901 of Title 2, The Congress, and provisions set out as a note under section 401 of this title, and repealing provisions set out as a note below\].”
+Pub. L. 104–193, title II, §215, Aug. 22, 1996, 110 Stat. 2196, provided that: “Within 3 months after the date of the enactment of this Act \[Aug. 22, 1996\], the Commissioner of Social Security shall prescribe such regulations as may be necessary to implement the amendments made by this subtitle \[subtitle B (§§211–215) of title II of Pub. L. 104–193, amending this section, sections 1382a to 1382c and 1383 of this title, sections 665e and 901 of Title 2, The Congress, and provisions set out as a note under section 401 of this title, and repealing provisions set out as a note below\].”
 
 #### Construction of 1999 Amendment
 
@@ -614,7 +614,7 @@ Report to the Congress.—Within 1 year after the date of the enactment of this 
 
 #### Study of Other Potential Improvements in Collection of Information Respecting Public Inmates
 
-Section 203(b) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title II, §203(b), Aug. 22, 1996, 110 Stat. 2187, provided that:
 
 “(1)
 
@@ -630,7 +630,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Au
 
 #### Additional Report to Congress
 
-Section 203(c) of Pub. L. 104–193 provided that: “Not later than October 1, 1998, the Commissioner of Social Security shall provide to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a list of the institutions that are and are not providing information to the Commissioner under section 1611(e)(1)(I) of the Social Security Act (as added by this section) \[subsec. (e)(1)(I) of this section\].”
+Pub. L. 104–193, title II, §203(c), Aug. 22, 1996, 110 Stat. 2187, provided that: “Not later than October 1, 1998, the Commissioner of Social Security shall provide to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a list of the institutions that are and are not providing information to the Commissioner under section 1611(e)(1)(I) of the Social Security Act (as added by this section) \[subsec. (e)(1)(I) of this section\].”
 
 #### Study by General Accounting Office
 
@@ -638,11 +638,11 @@ Pub. L. 104–193, title II, §232, Aug. 22, 1996, 110 Stat. 2198, provided that
 
 #### Report to Congress on Referral, Monitoring and Treatment Activities Relating to Alcoholics and Drug Addicts
 
-Section 201(b)(3)(B)(ii) of Pub. L. 103–296, which directed Secretary of Health and Human Services to submit to Congress, not later than Dec. 31, 1996, a report on the Secretary's activities under subsec. (e)(3)(B) of this section, was repealed by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
+Pub. L. 103–296, title II, §201(b)(3)(B)(ii), Aug. 15, 1994, 108 Stat. 1504, which directed Secretary of Health and Human Services to submit to Congress, not later than Dec. 31, 1996, a report on the Secretary's activities under subsec. (e)(3)(B) of this section, was repealed by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
 
 #### Transition Rules for Current Beneficiaries
 
-Section 201(b)(3)(F) of Pub. L. 103–296 provided that: “In any case in which an individual is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act \[Aug. 15, 1994\], and alcoholism or drug addiction is a contributing factor material to the Secretary's determination that the individual is disabled, for purposes of section 1611(e)(3)(A)(v) of the Social Security Act \[subsec. (e)(3)(A)(v) of this section\] (added by the amendment made by subparagraph (A) of this paragraph)—
+Pub. L. 103–296, title II, §201(b)(3)(F), Aug. 15, 1994, 108 Stat. 1505, provided that: “In any case in which an individual is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] by reason of disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act \[Aug. 15, 1994\], and alcoholism or drug addiction is a contributing factor material to the Secretary's determination that the individual is disabled, for purposes of section 1611(e)(3)(A)(v) of the Social Security Act \[subsec. (e)(3)(A)(v) of this section\] (added by the amendment made by subparagraph (A) of this paragraph)—
 
 &emsp;“(i) the first month of such eligibility beginning after 180 days after the date of the enactment of this Act shall be treated as the individual's first month of such eligibility; and
 
@@ -650,15 +650,15 @@ Section 201(b)(3)(F) of Pub. L. 103–296 provided that: “In any case in which
 
 #### Commission on Childhood Disability
 
-Section 202 of Pub. L. 103–296 provided for establishment of a Commission on the Evaluation of Disability to conduct a study, in consultation with the National Academy of Sciences, of effects of definition of “disability” under this subchapter in effect on Aug. 15, 1994, as such definition applied to determining whether a child under age of 18 was eligible to receive benefits under this subchapter, the appropriateness of such definition, and the advantages and disadvantages of using any alternative definition of disability in determining whether a child under age 18 was eligible to receive benefits under this subchapter, and further provided for contents of study, appointment of Commission members, administrative provisions, assistance of experts, and for submission of report to Congress not later than Nov. 30, 1995.
+Pub. L. 103–296, title II, §202, Aug. 15, 1994, 108 Stat. 1506, provided for establishment of a Commission on the Evaluation of Disability to conduct a study, in consultation with the National Academy of Sciences, of effects of definition of “disability” under this subchapter in effect on Aug. 15, 1994, as such definition applied to determining whether a child under age of 18 was eligible to receive benefits under this subchapter, the appropriateness of such definition, and the advantages and disadvantages of using any alternative definition of disability in determining whether a child under age 18 was eligible to receive benefits under this subchapter, and further provided for contents of study, appointment of Commission members, administrative provisions, assistance of experts, and for submission of report to Congress not later than Nov. 30, 1995.
 
 #### Disability Review Required for SSI Recipients Who Are 18 Years of Age
 
-Section 207 of Pub. L. 103–296, which required applicable State agency or Secretary of Health and Human Services to redetermine eligibility of qualified individual for supplemental security income benefits under this subchapter by reason of disability, by applying criteria used in determining eligibility for such benefits of applicants who have attained 18 years of age during 1-year period beginning on date qualified individual attains 18 years of age, and Secretary to conduct such redeterminations with respect to not less than 1/3 of qualified individuals in each of fiscal years 1996 through 1998, defined term “qualified individual”, and provided that such redetermination was to be considered substitute for review required under section 1382c(a)(3)(G) of this title, that redetermination requirement was to have no force or effect after Oct. 1, 1998, and that not later than Oct. 1, 1998, Secretary was to submit to House Ways and Means and Senate Finance Committees report on such activities, was repealed by Pub. L. 104–193, title II, §212(b)(2), Aug. 22, 1996, 110 Stat. 2193.
+Pub. L. 103–296, title II, §207, Aug. 15, 1994, 108 Stat. 1516, which required applicable State agency or Secretary of Health and Human Services to redetermine eligibility of qualified individual for supplemental security income benefits under this subchapter by reason of disability, by applying criteria used in determining eligibility for such benefits of applicants who have attained 18 years of age during 1-year period beginning on date qualified individual attains 18 years of age, and Secretary to conduct such redeterminations with respect to not less than 1/3 of qualified individuals in each of fiscal years 1996 through 1998, defined term “qualified individual”, and provided that such redetermination was to be considered substitute for review required under section 1382c(a)(3)(G) of this title, that redetermination requirement was to have no force or effect after Oct. 1, 1998, and that not later than Oct. 1, 1998, Secretary was to submit to House Ways and Means and Senate Finance Committees report on such activities, was repealed by Pub. L. 104–193, title II, §212(b)(2), Aug. 22, 1996, 110 Stat. 2193.
 
 #### Continuing Disability Reviews
 
-Section 208 of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title II, §208, Aug. 15, 1994, 108 Stat. 1516, provided that:
 
 “(a)
 
@@ -666,11 +666,11 @@ Temporary Annual Minimum Number of Reviews.—During each year of the 3-year per
 
 “(b)
 
-Report to the Congress.—Not later than October 1, 1998, the Secretary of Health and Human Servicesshall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the activities conducted under subsection (a).”
+Report to the Congress.—Not later than October 1, 1998, the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the activities conducted under subsection (a).”
 
 #### Notification of Possible Benefit Availability to Potential Supplemental Security Income Recipients
 
-Section 405 of Pub. L. 98–21 provided that: “Prior to July 1, 1984, the Secretary of Health and Human Services shall notify all elderly recipients of benefits under title II of the Social Security Act \[subchapter II of this chapter\] who may be eligible for supplemental security income benefits under title XVI of such Act \[this subchapter\] of the availability of the supplemental security income program, and shall encourage such recipients to contact the Social Security district office. Such notification shall also be made to all recipients prior to attainment of age 65, with the notification made with respect to eligibility for supplementary medical insurance.”
+Pub. L. 98–21, title IV, §405, Apr. 20, 1983, 97 Stat. 140, provided that: “Prior to July 1, 1984, the Secretary of Health and Human Services shall notify all elderly recipients of benefits under title II of the Social Security Act \[subchapter II of this chapter\] who may be eligible for supplemental security income benefits under title XVI of such Act \[this subchapter\] of the availability of the supplemental security income program, and shall encourage such recipients to contact the Social Security district office. Such notification shall also be made to all recipients prior to attainment of age 65, with the notification made with respect to eligibility for supplementary medical insurance.”
 
 #### Assistance Paid Under Certain Housing Acts Not Considered in Determining Eligibility for Benefits Under This Subchapter; Effective Date
 
@@ -690,7 +690,7 @@ Additional requirement for approval of subchapter XIX State plan for medical ass
 
 #### Federal Program of Supplemental Security Income; Supplemental Security Income Benefits for Essential Persons; Definitions of Qualified Individual and Essential Person
 
-Section 211 of Pub. L. 93–66, as amended by Pub. L. 93–233, §4(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 953, provided that:
+Pub. L. 93–66, title II, §211, July 9, 1973, 87 Stat. 154, as amended by Pub. L. 93–233, §4(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 953, provided that:
 
 “(a)(1) In determining (for purposes of title XVI of the Social Security Act \[this subchapter\], as in effect after December 1973) the eligibility for and the amount of the supplemental security income benefit payable to any qualified individual (as defined in subsection (b)), with respect to any period for which such individual has in his home an essential person (as defined in subsection (c))—
 
@@ -734,7 +734,7 @@ Section 211 of Pub. L. 93–66, as amended by Pub. L. 93–233, §4(a)(2), (b)(3
 
 #### Mandatory Minimum State Supplementation of Supplemental Security Income Benefits Program; December 1973 Income; Title XVI Benefit Plus Other Income; Reduction of Amount; Administration Agreement; Payments to Commissioner; State Constitutional Restriction
 
-Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1973, 87 Stat. 957; Pub. L. 93–335, §2(a), July 8, 1974, 88 Stat. 291; Pub. L. 96–265, title II, §201(b)(2), June 9, 1980, 94 Stat. 446; Pub. L. 103–66, title XIII, §13731(a)(2), Aug. 10, 1993, 107 Stat. 661; Pub. L. 105–33, title V, §5102(a)(2), (b)(1)(B), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(2), (b)(1)(B), Nov. 13, 1997, 111 Stat. 1518, 1519; Pub. L. 106–170, title IV, §410(a)(2), Dec. 17, 1999, 113 Stat. 1916, provided that:
+Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub. L. 93–233, §10, Dec. 31, 1973, 87 Stat. 957; Pub. L. 93–335, §2(a), July 8, 1974, 88 Stat. 291; Pub. L. 96–265, title II, §201(b)(2), June 9, 1980, 94 Stat. 446; Pub. L. 103–66, title XIII, §13731(a)(2), Aug. 10, 1993, 107 Stat. 661; Pub. L. 105–33, title V, §5102(a)(2), (b)(1)(B), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(2), (b)(1)(B), Nov. 13, 1997, 111 Stat. 1518, 1519; Pub. L. 106–170, title IV, §410(a)(2), Dec. 17, 1999, 113 Stat. 1916, provided that:
 
 “(a)(1) In order for any State (other than the Commonwealth of Puerto Rico, Guam, or the Virgin Islands) to be eligible for payments pursuant to title XIX \[subchapter XIX of this chapter\], with respect to expenditures for any quarter beginning after December 1973, such State must have in effect an agreement with the Commissioner of Social Security (hereinafter in this section referred to as the ‘Commissioner of Social Security’) whereby the State will provide to individuals residing in the State supplementary payments as required under paragraph (2).
 
@@ -774,7 +774,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 > and, if for any month after December 1973 there is a change with respect to such special need or circumstance which, if such change had existed in December 1973, the amount described in subparagraph (B)(i) with respect to such individual would have been reduced on account of such change, then, for such month and for each month thereafter the amount of the supplementary payment payable under the agreement entered into under this subsection to such individual shall (unless the State, at its option, otherwise specifies) be reduced by an amount equal to the amount by which the amount (described in subparagraph (B)(i)) would have been so reduced.
 
-“(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause thesupplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
+“(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
 
 “(ii) The amount of the reduction (under clause (i)) of any individual's December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[part A of subchapter IV of this chapter\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].
 
@@ -840,7 +840,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by clause (i) are determined by the Commissioner to exist.
 
-“(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall beexcluded under section 1612(b)(6) of the Social Security Act \[section 1382a(b)(6) of this title\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[this subchapter\] (as so in effect).
+“(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[section 1382a(b)(6) of this title\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[this subchapter\] (as so in effect).
 
 “(2) Supplementary payments made by the Commissioner of Social Security (pursuant to an administration agreement entered into under subsection (b)) shall, for purposes of section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\], be considered to be payments made under an agreement entered into under section 1616 of the Social Security Act \[section 1382e of this title\] (as enacted by section 301 of the Social Security Amendments of 1972); except that nothing in this paragraph shall be construed to waive, with respect to the payments so made by the Commissioner of Social Security, the provisions of subsection (b) of such section 401 \[set out as a note under section 1382e of this title\].
 
@@ -872,7 +872,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 #### Puerto Rico, Guam, and Virgin Islands
 
-Enactment of section 1602 of the Social Security Act \[this section\] by Pub. L. 92–603, eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act \[this section\] as it existed prior to reenactment by Pub. L. 92–603, and as amended, continues to apply and reads as follows:
+Enactment of section 1602 of the Social Security Act by Pub. L. 92–603, eff. Jan. 1, 1974 \[42 U.S.C. 1381a\], was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1602 of the Social Security Act as it existed prior to the enactment of Pub. L. 92–603 \[former 42 U.S.C. 1382\], and as amended, continues to apply and reads as follows:
 
 #### §1382. State plans for aid to aged, blind, or disabled
 
@@ -910,7 +910,7 @@ A State plan for aid to the aged, blind, or disabled, must—
 
 &emsp;&emsp;(A) if such individual is blind, the State agency (i) shall disregard the first $85 per month of earned income plus one-half of earned income in excess of $85 per month, and (ii) shall, for a period not in excess of 12 months, and may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan,
 
-&emsp;&emsp;(B) if such individual is not blind but is permanently and totally disabled, (i) of the first $80 per month of earned income, the State agency may disregard not more than the first $20 thereof plus one-half of the remainder, and (ii) the State agency may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan, but only with respect to the part or parts of such period during substantially all of which he is actually undergoing vocational rehabilitation,
+&emsp;&emsp;(B) if such individual is not blind but is permanently and totally disabled, (i) of the first $80 per month of earned income, the State agency may disregard not more than the first $20 thereof plus one-half of the remainder, and (ii) the State agency may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individualwho has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan, but only with respect to the part or parts of such period during substantially all of which he is actually undergoing vocational rehabilitation,
 
 &emsp;&emsp;(C) if such individual has attained age 65 and is neither blind nor permanently and totally disabled, of the first $80 per month of earned income the State agency may disregard not more than the first $20 thereof plus one-half of the remainder, and
 

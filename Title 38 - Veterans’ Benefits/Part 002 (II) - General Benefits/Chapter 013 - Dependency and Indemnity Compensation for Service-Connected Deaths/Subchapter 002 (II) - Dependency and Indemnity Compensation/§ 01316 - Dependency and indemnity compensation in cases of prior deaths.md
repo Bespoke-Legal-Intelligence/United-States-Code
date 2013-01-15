@@ -2,7 +2,7 @@
 
 (a)(1) Any person who is eligible as a surviving spouse or child for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor.
 
-(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
+(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1,1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
 
 (b)(1) Whenever the surviving spouse of a veteran has been granted dependency and indemnity compensation by reason of this section, payments to such surviving spouse and to the children of the veteran shall thereafter be made under this chapter, and shall not thereafter be made to them by reason of the death of the veteran under (A) other provisions of law administered by the Secretary providing for the payment of compensation or pension, or (B) subchapter I of chapter 81 of title 5.
 

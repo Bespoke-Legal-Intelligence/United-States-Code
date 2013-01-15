@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary may compromise any civil or criminal case arising under the internal revenue laws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
+The Secretary may compromise any civil or criminal case arising under the internal revenuelaws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
 
 #### (b) Record
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 105–206 applicable to proposed offers-in-compromise and i
 
 #### Effective Date of 1996 Amendment
 
-Section 503(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title V, §503(b), July 30, 1996, 110 Stat. 1461, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Preparation of Statement Relating to Offers-in-Compromise
 

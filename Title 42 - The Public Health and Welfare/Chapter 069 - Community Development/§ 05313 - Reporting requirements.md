@@ -12,7 +12,7 @@
 
 (b) The Secretary is authorized to require recipients of assistance under this chapter to submit to him such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a) of this section.
 
-(Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12, 1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(<i>l</i>), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
+(Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12, 1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(l), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Study Regarding Availability of Housing Proximate to Places of Employment
 
-Section 919 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to conduct a study regarding availability of housing within reasonable proximity of places of employment and to submit a report not later than expiration of 1-year period beginning on Nov. 28, 1990, to appropriate committees of Congress containing results and conclusions of such study, as well as proposed strategies to increase availability of housing for low- and moderate-income families within reasonable proximity of places of employment for working members of such families to and prevent geographical divergence of such housing and places of employment.
+Pub. L. 101–625, title IX, §919, Nov. 28, 1990, 104 Stat. 4401, directed Secretary of Housing and Urban Development to conduct a study regarding availability of housing within reasonable proximity of places of employment and to submit a report not later than expiration of 1-year period beginning on Nov. 28, 1990, to appropriate committees of Congress containing results and conclusions of such study, as well as proposed strategies to increase availability of housing for low- and moderate-income families within reasonable proximity of places of employment for working members of such families to and prevent geographical divergence of such housing and places of employment.
 
 #### Study on Involuntary Housing Displacement; Report to Congress
 

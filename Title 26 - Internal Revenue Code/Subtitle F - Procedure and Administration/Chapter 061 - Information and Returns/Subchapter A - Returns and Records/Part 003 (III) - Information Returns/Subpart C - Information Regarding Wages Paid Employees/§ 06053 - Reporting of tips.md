@@ -2,7 +2,7 @@
 
 #### (a) Reports by employees
 
-Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
+Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined insection 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
 
 #### (b) Statements furnished by employers
 
@@ -108,11 +108,11 @@ Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted “or section 3201 (as the ca
 
 #### Effective Date of 1984 Amendment
 
-Section 1072(c)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982.”
+Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982.”
 
 #### Effective Date of 1982 Amendment
 
-Section 314(e) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title III, §314(e), Sept. 3, 1982, 96 Stat. 605, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -132,15 +132,15 @@ Amendment by Pub. L. 89–212 effective only with respect to tips received after
 
 #### Effective Date
 
-Section 313(f) of Pub. L. 89–97 provided that: “The amendments made by this section \[enacting this section and amending sections 451, 3102, 3121, 3401, 3402, 6051, 6652, and 6674 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply only with respect to tips received by employees after 1965.”
+Pub. L. 89–97, title III, §313(f), July 30, 1965, 79 Stat. 385, provided that: “The amendments made by this section \[enacting this section and amending sections 451, 3102, 3121, 3401, 3402, 6051, 6652, and 6674 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply only with respect to tips received by employees after 1965.”
 
 #### Regulations
 
-Section 1072(b) of Pub. L. 98–369 provided that: “The Secretary of the Treasury shall prescribe by regulations within 1 year after the date of the enactment of this Act \[July 18, 1984\] the applicable recordkeeping requirements for tipped employees.”
+Pub. L. 98–369, div. A, title X, §1072(b), July 18, 1984, 98 Stat. 1052, provided that: “The Secretary of the Treasury shall prescribe by regulations within 1 year after the date of the enactment of this Act \[July 18, 1984\] the applicable recordkeeping requirements for tipped employees.”
 
 #### Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements
 
-Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: “The Secretary of the Treasury orthe Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
+Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: “The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
 
 #### Modification of Tips Allocation Method
 
@@ -148,5 +148,5 @@ Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that
 
 #### Study of Tip Compliance
 
-Section 314(c) of Pub. L. 97–248 directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
+Pub. L. 97–248, title III, §314(c), Sept. 3, 1982, 96 Stat. 605, directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
 

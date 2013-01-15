@@ -118,7 +118,7 @@ Exceptions from application.—The requirements of subparagraphs (D) and (E) of 
 
 &emsp;&emsp;(A) the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standards that receives no significant adverse comment within 60 days of notice in the Federal Register;
 
-&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
+&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, orboth, as applicable, the Secretary waives the requirements; or
 
 &emsp;&emsp;(C) the Secretary finds, pursuant to section 553(b)(3)(B) of title 5, United States Code, that notice and public procedure are not required.
 
@@ -190,7 +190,7 @@ Pipe Inventory Standards.—The Secretary shall prescribe minimum standards requ
 
 &emsp;(1) for a gas pipeline facility, shall include an identification of each facility passing through an area described in regulations prescribed under section 60109 of this title but shall exclude equipment used with the compression of gas; and
 
-&emsp;(2) for a hazardous liquid pipeline facility, shall include an identification of each facility and gathering line passing through an area described in regulations prescribed under section 60109 of this title, whether the facility or gathering line otherwise is subject to this chapter,but shall exclude equipment associated only with the pipeline pumps or storage facilities.
+&emsp;(2) for a hazardous liquid pipeline facility, shall include an identification of each facility and gathering line passing through an area described in regulations prescribed under section 60109 of this title, whether the facility or gathering line otherwise is subject to this chapter, but shall exclude equipment associated only with the pipeline pumps or storage facilities.
 
 (f)
 
@@ -270,7 +270,7 @@ Limited exceptions.—The Secretary shall provide or continue in force exception
 
 &emsp;&emsp;(A) are subject to safety regulations of the United States Coast Guard; or
 
-&emsp;&emsp;(B) serve refining, manufacturing, or truck, rail, or vessel terminal facilities if the pipeline is less than 1 mile long (measured outside the facility grounds) and doesnot cross an offshore area or a waterway currently used for commercial navigation,
+&emsp;&emsp;(B) serve refining, manufacturing, or truck, rail, or vessel terminal facilities if the pipeline is less than 1 mile long (measured outside the facility grounds) and does not cross an offshore area or a waterway currently used for commercial navigation,
 
 > &emsp;until regulations issued under paragraph (1) become effective. After such regulations become effective, the Secretary may retain or remove those exceptions as appropriate.
 
@@ -286,7 +286,7 @@ Definition.—For purposes of this subsection, the term “low-stress hazardous 
 
 Effective date.—The requirements of this subsection shall not take effect as to low-stress hazardous liquid pipeline operators before the effective date of the rules promulgated by the Secretary under this subsection.
 
-(<i>l</i>)
+(l)
 
 Updating Standards.—The Secretary shall, to the extent appropriate and practicable, update incorporated industry standards that have been adopted as part of the Federal pipeline safety regulatory program under this chapter.
 
@@ -318,7 +318,7 @@ Considerations.—In conducting the study, the Comptroller General shall conside
 
 Report.—Not later than 1 year after the date of enactment of this subsection, the Comptroller General shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
-(<i>o</i>)
+(o)
 
 Transportation-Related Oil Flow Lines.—
 
@@ -550,7 +550,7 @@ Subsec. (j)(3). Pub. L. 112–90, §4(1), struck out par. (3). Text read as foll
 
 Subsec. (n). Pub. L. 112–90, §4(2), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 112–90, §12, added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 112–90, §12, added subsec. (o).
 
 Subsec. (p). Pub. L. 112–90, §24, added subsec. (p).
 
@@ -596,13 +596,13 @@ Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out 
 
 Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: “The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a ‘smart pig’). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device.”
 
-Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary, additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
+Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted “, if necessary,additional” after “the Secretary shall prescribe”, and substituted “standards” for “regulations” in two places.
 
 Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted “standards” for “regulations”.
 
 Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
-Subsec. (<i>l</i>). Pub. L. 104–304, §4(f), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–304, §4(f), added subsec. (l).
 
 #### Standards To Implement NTSB Recommendations
 

@@ -88,7 +88,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(I) any qualified 501(c)(3) bond (as defined in section 145), or
 
-&emsp;&emsp;&emsp;&emsp;(II) any obligation issued to refund (or which is part of a series of obligations issued to refund) an obligation issued before August 8, 1986, which was not an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), as so in effect, but without regard to any exemption from such definition other than section 103(<i>o</i>)(2)(A)).
+&emsp;&emsp;&emsp;&emsp;(II) any obligation issued to refund (or which is part of a series of obligations issued to refund) an obligation issued before August 8, 1986, which was not an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) or a private loan bond (as defined in section 103(o)(2)(A), as so in effect, but without regard to any exemption from such definition other than section 103(o)(2)(A)).
 
 #### (C) Qualified small issuer
 
@@ -102,7 +102,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(I) a private activity bond (other than a qualified 501(c)(3) bond, as defined in section 145),
 
-&emsp;&emsp;&emsp;&emsp;(II) an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of such Act) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), as so in effect, but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(A)), or
+&emsp;&emsp;&emsp;&emsp;(II) an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of such Act) or a private loan bond (as defined in section 103(o)(2)(A), as so in effect, but without regard to any exception from such definition other than section 103(o)(2)(A)), or
 
 &emsp;&emsp;&emsp;&emsp;(III) an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
 
@@ -130,7 +130,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;&emsp;(II) the average maturity date of the refunding obligations issued as part of the issue of which such refunding obligation is a part is not later than the average maturity date of the obligations to be refunded by such issue, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the refunding obligation has a maturity date which is not later than the date which is 30 years after the date the original qualified tax-exempt obligation was issued.
+&emsp;&emsp;&emsp;&emsp;(III) the refunding obligation has a maturity date which is not later than thedate which is 30 years after the date the original qualified tax-exempt obligation was issued.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply if the average maturity of the issue of which the original qualified tax-exempt obligation was a part (and of the issue of which the obligations to be refunded are a part) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -282,7 +282,7 @@ Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certifi
 
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
-<b>1964</b>—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
+<b>1964</b>—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable yeardoesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
 
 #### Effective Date of 2009 Amendment
 
@@ -296,7 +296,7 @@ Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997,
 
 #### Effective Date of 1988 Amendment
 
-Section 1009(b)(3)(B)–(D) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7811(f)(2), Dec. 19, 1989, 103 Stat. 2409, provided that:
+Pub. L. 100–647, title I, §1009(b)(3)(B)–(D), Nov. 10, 1988, 102 Stat. 3448, 3449, as amended by Pub. L. 101–239, title VII, §7811(f)(2), Dec. 19, 1989, 103 Stat. 2409, provided that:
 
 “(B) In the case of any obligation issued after August 7, 1986, and before January 1, 1987, the time for making a designation with respect to such obligation under section 265(b)(3)(B)(i)(III) of the 1986 Code shall not expire before January 1, 1989.
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginning before, on, or after Dec. 31, 1986, see section 151(e) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Section 902(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1009(b)(1), (2), (7), Nov. 10, 1988, 102 Stat. 3445, 3446, 3449, provided that:
+Pub. L. 99–514, title IX, §902(f), Oct. 22, 1986, 100 Stat. 2382, as amended by Pub. L. 100–647, title I, §1009(b)(1), (2), (7), Nov. 10, 1988, 102 Stat. 3445, 3446, 3449, provided that:
 
 “(1)
 
@@ -402,7 +402,7 @@ Amendment by section 56(c) of Pub. L. 98–369 applicable to short sales after J
 
 #### Effective Date of 1981 Amendment
 
-Section 301(d) of Pub. L. 97–34 provided that:
+Pub. L. 97–34, title III, §301(d), Aug. 13, 1981, 95 Stat. 270, provided that:
 
 &emsp;“(1)
 
@@ -414,7 +414,7 @@ Conforming amendments.—The amendments made by subsection (b)(6) \[amending sec
 
 #### Effective and Termination Dates of 1980 Amendment
 
-Section 404(c) of Pub. L. 96–223, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
+Pub. L. 96–223, title IV, §404(c), Apr. 2, 1980, 94 Stat. 308, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
 
 #### Effective Date of 1976 Amendment
 
@@ -424,7 +424,7 @@ Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beg
 
 #### Effective Date of 1964 Amendment
 
-Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
+Pub. L. 88–272, title II, §216(b), Feb. 26, 1964, 78 Stat. 56, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
 
 #### Savings Provision
 
@@ -432,5 +432,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 
-Section 904(c)(2)(B) of Pub. L. 99–514 provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
+Pub. L. 99–514, title IX, §904(c)(2)(B), Oct. 22, 1986, 100 Stat. 2385, provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
 

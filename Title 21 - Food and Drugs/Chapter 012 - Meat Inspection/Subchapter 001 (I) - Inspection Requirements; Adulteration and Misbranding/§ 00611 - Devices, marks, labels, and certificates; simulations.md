@@ -2,7 +2,7 @@
 
 #### (a) Devices to be made under authorization of Secretary
 
-No brand manufacturer, printer, or other person, firm, or corporation shall cast, print, lithograph, or otherwise make any device containing any official mark or simulation thereof, or any label bearing any such mark or simulation, or any form of official certificate or simulation thereof, except as authorized by the Secretary.
+No brand manufacturer, printer, or other person, firm, or corporation shall cast, print, lithograph, or otherwise make any device containing any official mark or simulation thereof, or anylabel bearing any such mark or simulation, or any form of official certificate or simulation thereof, except as authorized by the Secretary.
 
 #### (b) Other misconduct
 
@@ -16,7 +16,7 @@ No person, firm, or corporation shall—
 
 &emsp;(4) knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any animal, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
 
-&emsp;(5) knowingly make any false statement in any shipper's certificate or other nonofficialor official certificate provided for in the regulations prescribed by the Secretary; or
+&emsp;(5) knowingly make any false statement in any shipper's certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary; or
 
 &emsp;(6) knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has, respectively, not been so inspected and passed, or exempted.
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provide the appropriate Federal banking agency a description of the information that is as specific as possible without jeopardizing the investigation, litigation, or prosecution, threatening serious bodily injury or death to Government employees, informants, or witnesses or their respective families, or disclosing sensitive investigation techniques and methods; and
 
-&emsp;&emsp;&emsp;(ii) permit a full review of the information by the Federal banking agency at a location and under procedures that the Attorney General determines will ensure the effective protection of the informationwhile permitting the Federal banking agency to ensure the safety and soundness of any depository institution.
+&emsp;&emsp;&emsp;(ii) permit a full review of the information by the Federal banking agency at a location and under procedures that the Attorney General determines will ensure the effective protection of the information while permitting the Federal banking agency to ensure the safety and soundness of any depository institution.
 
 #### (C) Grand jury investigations; criminal procedure
 
@@ -68,7 +68,7 @@ Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
+<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shallreport to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
 
 #### Change of Name
 

@@ -62,7 +62,7 @@ The services referred to in subsection (a) of this section are—
 
 #### (c) Coordination
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make grants pursuant to subsection (a) of this section only to entities that have the capacity to provide, directly or through arrangements, the services specified in subsection (b) of this section, including coordinating the provision of services in order to meet the needs of eligible homeless individuals who are both mentally ill and suffering from substance abuse.
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make grants pursuant to subsection (a) of this section only to entities that have the capacity to provide, directly orthrough arrangements, the services specified in subsection (b) of this section, including coordinating the provision of services in order to meet the needs of eligible homeless individuals who are both mentally ill and suffering from substance abuse.
 
 #### (d) Special consideration regarding veterans
 

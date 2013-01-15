@@ -16,5 +16,5 @@ This section shall apply with respect to fiscal year 2002 and each succeeding fi
 
 #### Codification
 
-Section was classified to section 166<i>l</i> of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 166l of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

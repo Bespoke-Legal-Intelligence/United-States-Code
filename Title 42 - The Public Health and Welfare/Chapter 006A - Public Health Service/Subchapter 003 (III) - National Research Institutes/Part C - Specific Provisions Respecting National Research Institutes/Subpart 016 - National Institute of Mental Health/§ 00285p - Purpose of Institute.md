@@ -52,11 +52,11 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 <b>2007</b>—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
 
-<b>1992</b>—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285<i>o</i>–4 of this title” after “this subpart”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285o–4 of this title” after “this subpart”.
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 1992 Amendment
 

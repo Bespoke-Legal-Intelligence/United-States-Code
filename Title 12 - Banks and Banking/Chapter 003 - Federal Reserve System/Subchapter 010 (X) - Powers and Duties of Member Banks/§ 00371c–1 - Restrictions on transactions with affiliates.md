@@ -82,51 +82,33 @@ For the purpose of this section—
 
 #### (e) Regulations
 
-The Board may prescribe regulations to administer and carry out the purposes of this section, including—
+#### (1) In general
 
-&emsp;(1) regulations to further define terms used in this section; and
+&emsp;The Board may prescribe regulations to administer and carry out the purposes of this section, including—
 
-&emsp;(2) regulations to—
+&emsp;&emsp;(A) regulations to further define terms used in this section; and
 
-&emsp;&emsp;(A) exempt transactions or relationships from the requirements of this section; and
+&emsp;&emsp;(B) subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding, regulations to—
 
-&emsp;&emsp;(B) exclude any subsidiary of a bank holding company from the definition of affiliate for purposes of this section,
+&emsp;&emsp;&emsp;(i) exempt transactions or relationships from the requirements of this section; and
 
-> &emsp;if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.
+&emsp;&emsp;&emsp;(ii) exclude any subsidiary of a bank holding company from the definition of affiliate for purposes of this section.
+
+#### (2) Exception
+
+&emsp;The Board may grant an exemption or exclusion under this subsection only if, during the 60-day period beginning on the date of receipt of notice of the finding from the Board under paragraph (1)(B), the Federal Deposit Insurance Corporation does not object, in writing, to such exemption or exclusion, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
 
 (Dec. 23, 1913, ch. 6, §23B, as added Pub. L. 100–86, title I, §102(a), Aug. 10, 1987, 101 Stat. 564; amended Pub. L. 106–102, title VII, §738, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 111–203, title VI, §608(b), July 21, 2010, 124 Stat. 1610.)
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 111–203, title VI, §608(b), (d), July 21, 2010, 124 Stat. 1610, 1611, provided that, effective 1 year after the transfer date, subsection (e) of this section is amended:</i>
-
-<i>(1) by striking out the undesignated matter following subparagraph (B);</i>
-
-<i>(2) by substituting</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“The Board”</i>
-
-<i>for “The Board”;</i>
-
-<i>(3) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting margins accordingly;</i>
-
-<i>(4) in paragraph (1)(B), as so redesignated—</i>
-
-<i>(A) in the matter preceding clause (i), by inserting before “regulations” the following: “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,”; and</i>
-
-<i>(B) in clause (ii), by substituting a period for the comma at the end; and</i>
-
-<i>(5) by adding at the end the following:</i>
-
-#### <i>(2) Exception</i>
-
-&emsp;<i>The Board may grant an exemption or exclusion under this subsection only if, during the 60-day period beginning on the date of receipt of notice of the finding from the Board under paragraph (1)(B), the Federal Deposit Insurance Corporation</i><i>does not object, in writing, to such exemption or exclusion, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, andstruck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
+
+Subsec. (e)(1)(B). Pub. L. 111–203, §608(b)(5)(A), inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
+
+Subsec. (e)(1)(B)(ii). Pub. L. 111–203, §608(b)(5)(B), substituted period for comma at end.
+
+Subsec. (e)(2). Pub. L. 111–203, §608(b)(6), added par. (2).
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
 

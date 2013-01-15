@@ -58,7 +58,7 @@ In general.—An individual transferring entitlement under this section may modi
 
 &emsp;&emsp;(B)
 
-Notice.—The modification or revocation of the transfer of entitlement under thisparagraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
+Notice.—The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
 
 &emsp;(3)
 
@@ -154,7 +154,7 @@ Length of use.—The length of the period specified in this clause for the use o
 
 &emsp;&emsp;&emsp;&emsp;(II) ends on the later of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date on which the child ceases acting as the primary providerof personal care services for the veteran or member as described in clause (i); or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
 

@@ -250,7 +250,7 @@ Subsections 161a., 161b., 161c., 161d., 161f., and 161g. \[42 U.S.C. 2201(a)–(
 
 Subsection 161i. and 161j. \[42 U.S.C. 2201(i), (j)\] (certain regulations or orders and dispositions); provided, that the Administrator shall establish the basic standards and procedures respecting the national security.
 
-Subsections 161k. \[42 U.S.C. 2201(k)\] (firearms); 161n. \[42 U.S.C. 2201(n)\] (delegations), provided that no functions delegated to officers of NSLC shall include functions relating to the development of atomic energy or the atomic industry; 161<i>o</i>. (reports and records), 161p. (rules and regulations), 161q. (rights-of-way), and 161s. (succession of authority) \[42 U.S.C. 2201(<i>o</i>)–(q), (s)\].
+Subsections 161k. \[42 U.S.C. 2201(k)\] (firearms); 161n. \[42 U.S.C. 2201(n)\] (delegations), provided that no functions delegated to officers of NSLC shall include functions relating to the development of atomic energy or the atomic industry; 161o. (reports and records), 161p. (rules and regulations), 161q. (rights-of-way), and 161s. (succession of authority) \[42 U.S.C. 2201(o)–(q), (s)\].
 
 Section 162 \[42 U.S.C. 2202\] (“Contracts”).
 

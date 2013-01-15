@@ -111,7 +111,7 @@
 
 Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921, which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
+By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921,which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
 
 
 ---

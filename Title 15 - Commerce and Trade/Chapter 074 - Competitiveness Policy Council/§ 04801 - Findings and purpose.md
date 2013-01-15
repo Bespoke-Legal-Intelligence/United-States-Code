@@ -62,5 +62,5 @@ It is the purpose of this chapter—
 
 #### Short Title
 
-Section 5201 of Pub. L. 100–418 provided that: “This subtitle \[subtitle C (§§5201–5210) of title V of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Competitiveness Policy Council Act’.”
+Pub. L. 100–418, title V, §5201, Aug. 23, 1988, 102 Stat. 1454, provided that: “This subtitle \[subtitle C (§§5201–5210) of title V of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Competitiveness Policy Council Act’.”
 

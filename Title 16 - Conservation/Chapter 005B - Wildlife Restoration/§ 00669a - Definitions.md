@@ -22,13 +22,13 @@ As used in this chapter—
 
 #### References in Text
 
-Section 669c(d) of this title, referred to in par. (6), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs.
+Section 669c(d) of this title, referred to in par. (6), was in the original “section 304(d)”, and was translated asreading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs.
 
 This chapter, referred to in par. (6), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text readas follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
+<b>2000</b>—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
 
 <b>1960</b>—Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii.
 
@@ -36,7 +36,7 @@ This chapter, referred to in par. (6), was in the original “this title”, and
 
 #### Effective Date of 1956 Amendment
 
-Section 5 of act July 2, 1956, provided in part that: “The amendments made by this Act \[amending this section and sections 669g–1, 777a, and 777k of this title\] shall be applicable only with respect to fiscal years beginning after the passage of this Act \[July 2, 1956\].”
+Act July 2, 1956, ch. 489, §5, 70 Stat. 473, provided in part that: “The amendments made by this Act \[amending this section and sections 669g–1, 777a, and 777k of this title\] shall be applicable only with respect to fiscal years beginning after the passage of this Act \[July 2, 1956\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

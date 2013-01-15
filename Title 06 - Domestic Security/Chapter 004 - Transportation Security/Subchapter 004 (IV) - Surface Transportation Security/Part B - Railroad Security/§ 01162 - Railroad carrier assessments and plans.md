@@ -16,7 +16,7 @@ Not later than 12 months after August 3, 2007, the Secretary shall issue regulat
 
 The Secretary may establish a security program for railroad carriers not assigned to a high-risk tier, including—
 
-&emsp;(1) guidance for such carriers in conducting vulnerability assessments and preparing andimplementing security plans, as determined appropriate by the Secretary; and
+&emsp;(1) guidance for such carriers in conducting vulnerability assessments and preparing and implementing security plans, as determined appropriate by the Secretary; and
 
 &emsp;(2) a process to review and approve such assessments and plans, as appropriate.
 
@@ -174,9 +174,9 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (2) Review of evaluation
 
-&emsp;Not later than 180 days after the date on which an evaluation is submitted, the Secretary shall review the evaluation and notifythe railroad carrier submitting the evaluation of the Secretary's approval or disapproval of the evaluation.
+&emsp;Not later than 180 days after the date on which an evaluation is submitted, the Secretary shall review the evaluation and notify the railroad carrier submitting the evaluation of the Secretary's approval or disapproval of the evaluation.
 
-#### (<i>l</i>) Shared facilities
+#### (l) Shared facilities
 
 The Secretary may permit under this section the development and implementation of coordinated vulnerability assessments and security plans to the extent that a railroad carrier shares facilities with, or is colocated with, other transportation entities or providers that are required to develop vulnerability assessments and security plans under Federal law.
 

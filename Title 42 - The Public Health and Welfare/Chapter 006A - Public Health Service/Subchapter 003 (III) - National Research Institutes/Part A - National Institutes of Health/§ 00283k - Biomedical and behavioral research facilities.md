@@ -26,7 +26,7 @@
 
 #### (A) Advice
 
-&emsp;&emsp;The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(<i>l</i>) of this title (in this section referred to as the “Council”) in carrying out this section.
+&emsp;&emsp;The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(l) of this title (in this section referred to as the “Council”) in carrying out this section.
 
 #### (B) Determination of merit
 
@@ -200,13 +200,13 @@ Section was formerly classified to section 287a–2 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §221(b)(1)(B)(i), substituted “acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases” for “acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §221(b)(1)(B)(i), substituted “acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases” for “acting through theDirector of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
 
 Subsec. (b)(1)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(I), struck out “within the Center” after “established”.
 
 Subsec. (b)(1)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
 
-Subsec. (b)(2)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(aa), substituted “and the Council of Councils established under section 282(<i>l</i>) of this title (in this section referred to as the ‘Council’)” for “and the advisory council established under section 287a of this title (in this section referred to as the ‘Advisory Council’)”.
+Subsec. (b)(2)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(aa), substituted “and the Council of Councils established under section 282(l) of this title (in this section referred to as the ‘Council’)” for “and the advisory council established under section 287a of this title (in this section referred to as the ‘Advisory Council’)”.
 
 Pub. L. 112–74, §221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center”.
 
@@ -308,7 +308,7 @@ Pub. L. 106–505, title III, §302, Nov. 13, 2000, 114 Stat. 2330, provided tha
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Second comma probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “nonprofit”.</i>
 

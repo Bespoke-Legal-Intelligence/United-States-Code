@@ -16,15 +16,15 @@
 
 #### Effective Date of 1981 Amendment
 
-Section 206(a) of title II of Pub. L. 97–119 provided that: “Except as otherwise provided, the provisions of this title \[see Short Title of 1981 Amendment note set out under section 801 of this title\] shall take effect on January 1, 1982.”
+Pub. L. 97–119, title II, §206(a), Dec. 29, 1981, 95 Stat. 1645, provided that: “Except as otherwise provided, the provisions of this title \[see Short Title of 1981 Amendment note set out under section 801 of this title\] shall take effect on January 1, 1982.”
 
 #### Effective Date of 1978 Amendment
 
-Section 20(a) of Pub. L. 95–239 provided that: “The provisions of this Act \[see Short Title of 1978 Amendment note set out under section 801 of this title\] shall take effect on the date of enactment of this Act \[Mar. 1, 1978\].”
+Pub. L. 95–239, §20(a), Mar. 1, 1978, 92 Stat. 106, provided that: “The provisions of this Act \[see Short Title of 1978 Amendment note set out under section 801 of this title\] shall take effect on the date of enactment of this Act \[Mar. 1, 1978\].”
 
 #### Effective Date of 1972 Amendment
 
-Section 3(c) of Pub. L. 92–303 provided that: “The amendments made by this section \[amending this section and sections 902, 921, 932, and 933 of this title\] shall be effective as of December 30, 1969.”
+Pub. L. 92–303, §3(c), May 19, 1972, 86 Stat. 153, provided that: “The amendments made by this section \[amending this section and sections 902, 921, 932, and 933 of this title\] shall be effective as of December 30, 1969.”
 
 Amendment by section 4(b)(2) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
 
@@ -34,7 +34,7 @@ Subchapter effective Dec. 30, 1969, see section 509 of Pub. L. 91–173, set out
 
 #### Separability
 
-Section 206(b) of title II of Pub. L. 97–119 provided that: “If any provision of this title \[see Short Title of 1981 Amendment note, set out under section 801 of this title\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this title, or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Pub. L. 97–119, title II, §206(b), Dec. 29, 1981, 95 Stat. 1645, provided that: “If any provision of this title \[see Short Title of 1981 Amendment note, set out under section 801 of this title\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this title, or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 #### Special Benefits for Disabled Coal Miners
 
@@ -42,9 +42,9 @@ Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1806, provided that: “For
 
 #### Study of Current Medical Methods for Diagnosis of Pneumoconiosis and Nature and Extent of Impairment Attributable to Simple and Complicated Pneumoconiosis; Report to Congress
 
-Section 202(e) of Pub. L. 97–119 directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis of pneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, §202(e), Dec. 29, 1981, 95 Stat. 1643, directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis of pneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 
 #### Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers’ Compensation Programs Applicable; Report to Congress
 
-Section 203(c) of Pub. L. 97–119 directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, §203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 

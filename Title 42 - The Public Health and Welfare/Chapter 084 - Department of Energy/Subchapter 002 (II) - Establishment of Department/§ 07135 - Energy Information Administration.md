@@ -120,7 +120,7 @@ Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U
 
 &emsp;(3) in carrying out this subsection, take into account reporting burdens and the protection of proprietary information as required by law.
 
-#### (<i>l</i>) Data collection
+#### (l) Data collection
 
 In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
 
@@ -170,7 +170,7 @@ The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L
 
 Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 102–486, §171(b), added subsecs. (j) to (l).
 
 <b>1986</b>—Subsec. (i). Pub. L. 99–509 added subsec. (i).
 

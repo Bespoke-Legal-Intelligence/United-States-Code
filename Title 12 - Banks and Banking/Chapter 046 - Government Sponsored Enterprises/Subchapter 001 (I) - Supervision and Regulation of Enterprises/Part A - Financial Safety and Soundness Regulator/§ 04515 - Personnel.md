@@ -6,7 +6,7 @@ Subject to title III of the Federal Housing Finance Regulatory Reform Act of 200
 
 #### (b) Comparability of compensation with Federal banking agencies
 
-In fixing and directing compensation under subsection (a) of this section, the Director shallconsult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+In fixing and directing compensation under subsection (a) of this section, the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
 #### (c) Personnel of other Federal agencies
 
@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 110–289, §1161(a)(1)(D), redesignated subsec. (e) as (d)
 
 Subsec. (e). Pub. L. 110–289, §1161(a)(1)(C), (D), substituted “the Agency” for “the Office” and redesignated subsec. (e) as (d).
 
-Subsec. (f). Pub. L. 110–289, §1161(a)(1)(E), struck out subsec. (f). Text read as follows: “Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
+Subsec. (f). Pub. L. 110–289, §1161(a)(1)(E), struck out subsec. (f). Text read as follows: “Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee onBanking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
 
 &emsp;“(1) a complete description of the equal opportunity, affirmative action, and minority business enterprise utilization programs of the Office; and
 

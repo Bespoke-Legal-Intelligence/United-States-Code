@@ -50,7 +50,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and theneeds of such population (as determined under paragraph (3));
 
 &emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
@@ -112,7 +112,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(C) describing activities undertaken by the State to find the individuals described in subparagraph (A) and to make such individuals aware of their status;
 
-&emsp;&emsp;(D) describing the manner in which the State will provide undiagnosed individualswho are made aware of their status with access to medical treatment for their HIV/AIDS; and
+&emsp;&emsp;(D) describing the manner in which the State will provide undiagnosed individuals who are made aware of their status with access to medical treatment for their HIV/AIDS; and
 
 &emsp;&emsp;(E) describing efforts to remove legal barriers, including State laws and regulations, to routine testing.
 

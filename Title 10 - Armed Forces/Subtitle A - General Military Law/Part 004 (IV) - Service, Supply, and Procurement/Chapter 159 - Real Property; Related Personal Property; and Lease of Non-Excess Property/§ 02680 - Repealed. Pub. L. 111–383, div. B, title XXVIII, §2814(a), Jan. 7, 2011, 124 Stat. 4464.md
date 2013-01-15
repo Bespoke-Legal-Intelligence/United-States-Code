@@ -4,7 +4,7 @@ Section, added Pub. L. 102–190, div. B, title XXVIII, §2863(a)(1), Dec. 5, 19
 
 #### Prior Provisions
 
-A prior section 2680, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L.89–718, §20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, §220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
+A prior section 2680, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, §20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, §220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
 
 #### Effect of Repeal
 

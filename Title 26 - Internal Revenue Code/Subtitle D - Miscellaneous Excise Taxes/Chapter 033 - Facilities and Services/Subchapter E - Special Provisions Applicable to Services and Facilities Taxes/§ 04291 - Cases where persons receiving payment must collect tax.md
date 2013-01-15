@@ -20,7 +20,7 @@ Amendment by Pub. L. 91–258 effective on July 1, 1970, see section 211(a) of P
 
 #### Effective Date of 1965 Amendment
 
-Section 701(b)(1) of Pub. L. 89–44 provided that:
+Pub. L. 89–44, title VII, §701(b)(1), June 21, 1965, 79 Stat. 156, provided that:
 
 “(A) The amendments made by sections 301 and 305 \[repealing sections 4231 to 4234 and 4241 to 4243 of this title and amending this section and section 6040 of this title\] insofar as they relate to the taxes imposed by section 4231 of the Code, shall apply with respect to admissions, services, or uses after noon, December 31, 1965.
 
@@ -36,7 +36,7 @@ Section 701(b)(1) of Pub. L. 89–44 provided that:
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 #### Effective Date of 1956 Amendment
 

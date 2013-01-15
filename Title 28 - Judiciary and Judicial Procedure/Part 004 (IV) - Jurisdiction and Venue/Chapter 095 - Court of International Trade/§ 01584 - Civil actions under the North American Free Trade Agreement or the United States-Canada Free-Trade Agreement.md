@@ -4,6 +4,10 @@ The United States Court of International Trade shall have exclusive jurisdiction
 
 (Added Pub. L. 100–449, title IV, §402(d)(1), Sept. 28, 1988, 102 Stat. 1884; amended Pub. L. 103–182, title IV, §414(a)(2), Dec. 8, 1993, 107 Stat. 2147.)
 
+#### Termination of Section
+
+<i>For termination of section by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates note below.</i>
+
 #### References in Text
 
 Section 777(f) of the Tariff Act of 1930, referred to in text, is classified to section 1677f(f) of Title 19, Customs Duties.

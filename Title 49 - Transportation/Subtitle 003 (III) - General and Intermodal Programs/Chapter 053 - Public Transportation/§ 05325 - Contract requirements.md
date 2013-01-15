@@ -18,7 +18,7 @@ Additional requirements.—When awarding a contract described in paragraph (1), 
 
 &emsp;&emsp;(A)
 
-Performance of audits.—Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation).
+Performance of audits.—Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of the Federal Acquisition Regulation, or any successor thereto.
 
 &emsp;&emsp;(B)
 
@@ -50,7 +50,7 @@ Term defined.—In this subsection, the term “design-build project”—
 
 &emsp;(2)
 
-Financial assistance for capital costs.—Federal financial assistance underthis chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
+Financial assistance for capital costs.—Federal financial assistance under this chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
 
 (e)
 
@@ -58,7 +58,11 @@ Multiyear Rolling Stock.—
 
 &emsp;(1)
 
-Contracts.—A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.
+Contracts.—A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for—
+
+&emsp;&emsp;(A) not more than 5 years after the date of the original contract for bus procurements; and
+
+&emsp;&emsp;(B) not more than 7 years after the date of the original contract for rail procurements, provided that such option does not allow for significant changes or alterations to the rolling stock.
 
 &emsp;(2)
 
@@ -82,7 +86,7 @@ Examination of Records.—Upon request, the Secretary and the Comptroller Genera
 
 (h)
 
-Grant Prohibition.—A grant awarded under this chapter or the Federal Public Transportation Act of 2005 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
+Grant Prohibition.—A grant awarded under this chapter or the Federal Public Transportation Act of 2012 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
 
 (i)
 
@@ -104,11 +108,15 @@ Criteria.—Before making an award to a contractor under paragraph (1), a recipi
 
 &emsp;&emsp;(B) the contractor's compliance with public policy;
 
-&emsp;&emsp;(C) the contractor's past performance, including the performance reported in the Contractor Performance Assessment Reports required under section 5309(<i>l</i>)(2); and
+&emsp;&emsp;(C) the contractor's past performance; and
 
 &emsp;&emsp;(D) the contractor's financial and technical resources.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
+(k)
+
+Veterans Employment.—Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in section 2108 of title 5) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §§20018, 20030(d), July 6, 2012, 126 Stat. 706, 730.)
 
 Historical and Revision Notes
 
@@ -146,7 +154,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(3); added Apr. 2, 1987, Pu
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, §316, 101 Stat. 232.
 
-In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” areomitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
 
@@ -156,9 +164,19 @@ This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
 #### References in Text
 
-The Federal Public Transportation Act of 2005, referred to in subsec. (h), is title III of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1544. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
+The Federal Public Transportation Act of 2012, referred to in subsec. (h), is div. B of Pub. L. 112–141, July 6, 2012, 126 Stat. 622. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 5101 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(A). Pub. L. 112–141, §20030(d), substituted “the Federal Acquisition Regulation, or any successor thereto” for “title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation)”.
+
+Subsec. (e)(1). Pub. L. 112–141, §20018(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.”
+
+Subsec. (h). Pub. L. 112–141, §20018(2), substituted “Federal Public Transportation Act of 2012” for “Federal Public Transportation Act of 2005”.
+
+Subsec. (j)(2)(C). Pub. L. 112–141, §20018(3), struck out “, including the performance reported in the Contractor Performance Assessment Reports required under section 5309(l)(2)” after “past performance”.
+
+Subsec. (k). Pub. L. 112–141, §20018(4), added subsec. (k).
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §201(k)(1), inserted “adopted before August 10, 2005” before period at end.
 
@@ -193,6 +211,10 @@ Subsec. (d). Pub. L. 105–178, §3022(a)(2), redesignated subsec. (d) as (b).
 Architectural, Engineering, and Design Contracts” for “
 
 Management, Architectural, and Engineering Contracts” in heading.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1998 Amendment
 

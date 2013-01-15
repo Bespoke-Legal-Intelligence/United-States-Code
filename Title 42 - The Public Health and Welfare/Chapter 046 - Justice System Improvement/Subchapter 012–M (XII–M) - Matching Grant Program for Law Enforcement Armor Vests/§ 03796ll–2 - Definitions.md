@@ -26,5 +26,5 @@ For purposes of this subchapter—
 
 #### Interim Definition of Armor Vest
 
-Pub. L. 106–517, §3(e), Nov. 13, 2000, 114 Stat. 2408, provided that: “For purposes of part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796<i>ll</i> et seq.\], as amended by this Act, the meaning of the term ‘armor vest’ (as defined in section 2503 of such Act (42 U.S.C. 3796<i>ll</i>–2)) shall, until the date on which a final NIJ Standard 0115.00 is first fully approved and implemented, also include body armor which has been found to meet or exceed the requirements for protection against stabbing established by the State in which the grantee is located.”
+Pub. L. 106–517, §3(e), Nov. 13, 2000, 114 Stat. 2408, provided that: “For purposes of part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796ll et seq.\], as amended by this Act, the meaning of the term ‘armor vest’ (as defined in section 2503 of such Act (42 U.S.C. 3796ll–2)) shall, until the date on which a final NIJ Standard 0115.00 is first fully approved and implemented, also include body armor which has been found to meet or exceed the requirements for protection against stabbing established by the State in which the grantee is located.”
 

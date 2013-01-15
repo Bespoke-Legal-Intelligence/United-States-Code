@@ -14,5 +14,5 @@ The Congress finds and declares that—
 
 #### Short Title
 
-Section 1 of Pub. L. 103–177 provided that: “This Act \[enacting this chapter\] may be cited as the ‘American Indian Agricultural Resource Management Act’.”
+Pub. L. 103–177, §1, Dec. 3, 1993, 107 Stat. 2011, provided that: “This Act \[enacting this chapter\] may be cited as the ‘American Indian Agricultural Resource Management Act’.”
 

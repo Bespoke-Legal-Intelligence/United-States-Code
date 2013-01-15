@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 #### Effective Date of 1989 Amendment
 
-Section 202(b) of Pub. L. 101–237 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to hospital care and medical services received on or after the date of the enactment of this Act \[Dec. 18, 1989\].”
+Pub. L. 101–237, title II, §202(b), Dec. 18, 1989, 103 Stat. 2067, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to hospital care and medical services received on or after the date of the enactment of this Act \[Dec. 18, 1989\].”
 
 #### Effective Date of 1979 Amendment
 

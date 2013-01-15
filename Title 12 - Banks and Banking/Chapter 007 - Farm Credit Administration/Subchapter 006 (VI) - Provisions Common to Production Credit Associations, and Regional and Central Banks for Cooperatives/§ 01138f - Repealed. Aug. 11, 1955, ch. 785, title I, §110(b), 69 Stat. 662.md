@@ -4,5 +4,5 @@ Section, acts June 16, 1938, ch. 98, title VI, §66, 48 Stat. 269; Oct. 28, 1949
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of month next following 120 days after Aug. 11, 1955, see section 112 of act Aug. 11, 1955.
+Act Aug. 11, 1955, ch. 785, title I, §112, 69 Stat. 662, provided that: “This title \[repealing this section and amending section 1141f of this title\] shall take effect on the first day of the month next following one hundred and twenty days after its enactment \[Aug. 11, 1955\].”
 

@@ -76,7 +76,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 714(q)(5) of Pub. L. 98–369, set out as an Effective Date note under section 6034A of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 714(q)(5)of Pub. L. 98–369, set out as an Effective Date note under section 6034A of this title.
 
 #### Effective Date of 1982 Amendment
 

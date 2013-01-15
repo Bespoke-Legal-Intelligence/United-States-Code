@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fundfor any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -114,7 +114,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 Section 404 of Public Law 101–515, referred to in subsecs. (b)(1) and (c)(1)(A), was formerly set out as a Court Fees for Electronic Access to Information note under section 1913 of this title.
 
-The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is thedate of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
+The date of the enactment of the Judicial Amendments Act of 1994, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 103–420, which was approved Oct. 25, 1994.
 
 Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j) of this section by Pub. L. 106–518, title I, §101(2), Nov. 13, 2000, 114 Stat. 2411.
 
@@ -146,9 +146,9 @@ Subsecs. (j), (k). Pub. L. 106–518, §101(2), redesignated subsecs. (j) and (k
 
 <b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read as follows:
+Subsec. (l). Pub. L. 105–119 struck out subsec. (l) which read as follows:
 
-“(<i>l</i>)
+“(l)
 
 Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
@@ -168,15 +168,15 @@ Subsec. (g). Pub. L. 104–106, §5602(a)(2), substituted “section 201 of the 
 
 Subsec. (h)(1). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing”.
 
-Subsec. (<i>l</i>). Pub. L. 104–208, §101(a) \[title III, §305\], substituted “September 30, 1998” for “September 30, 1997”.
+Subsec. (l). Pub. L. 104–208, §101(a) \[title III, §305\], substituted “September 30, 1998” for “September 30, 1997”.
 
-Pub. L. 104–106, §5602(a)(3), (4), redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows:
+Pub. L. 104–106, §5602(a)(3), (4), redesignated subsec. (m) as (l) and struck out former subsec. (l) which read as follows:
 
-“(<i>l</i>)
+“(l)
 
 Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has the meaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
 
-Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
+Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (l).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
@@ -184,7 +184,7 @@ Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted “activities funded unde
 
 Subsec. (b)(2). Pub. L. 103–420, §2(3), substituted “activities funded under subsection (a)” for “judicial branch of the United States”.
 
-Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
+Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary undersection 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
 
 Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amounts estimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
 
@@ -192,15 +192,15 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c).”
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposesother than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
+Subsec. (i). Pub. L. 103–420, §2(7), substituted “may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)” for “and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459.”
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted “not specified in statute by Congress” for “not specified by Congress” in second sentence.
 
-Subsec. (k). Pub. L. 103–420, §2(9), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 103–420, §2(9), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 103–420, §2(9), redesignated subsec. (k) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 103–420, §2(9), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (<i>l</i>) as (m) and substituted “September 30, 1997” for “September 30, 1994” and “fund established under section 1931 of this title” for “ ‘Judicial Services Account’ ”.
+Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (l) as (m) and substituted “September 30, 1997” for “September 30, 1994” and “fund established under section 1931 of this title” for “ ‘Judicial Services Account’ ”.
 
 #### Effective Date of 1996 Amendment
 

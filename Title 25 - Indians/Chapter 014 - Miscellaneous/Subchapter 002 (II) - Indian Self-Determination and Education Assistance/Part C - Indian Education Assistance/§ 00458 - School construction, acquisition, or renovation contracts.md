@@ -18,7 +18,7 @@ Any contract entered into by the Secretary pursuant to this section shall contai
 
 &emsp;(1) provide Indian students attending any such facilities constructed, acquired, or renovated, in whole or in part, from funds made available pursuant to this section with standards of education not less than those provided non-Indian students in the school district in which the facilities are situated; and
 
-&emsp;(2) meet, with respect to such facilities, the requirements of the State and local buildingcodes, and other building standards set by the State educational agency or school district for other public school facilities under its jurisdiction or control or by the local government in the jurisdiction within which the facilities are situated.
+&emsp;(2) meet, with respect to such facilities, the requirements of the State and local building codes, and other building standards set by the State educational agency or school district for other public school facilities under its jurisdiction or control or by the local government in the jurisdiction within which the facilities are situated.
 
 #### (e) Advisory consultations by Secretary with affected entities and governing bodies prior to contracts; applicability
 
@@ -26,7 +26,7 @@ The Secretary shall consult with the entity designated pursuant to section 456 o
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 
-Within ninety days following the expiration of the three year period following January 4, 1975, the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
+Within ninety days following the expiration of the three year period following January 4, 1975,the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
 
 &emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
 

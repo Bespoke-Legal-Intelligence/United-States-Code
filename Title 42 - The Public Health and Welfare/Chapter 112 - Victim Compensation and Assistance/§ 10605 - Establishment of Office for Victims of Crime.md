@@ -6,7 +6,7 @@ There is established within the Department of Justice an Office for Victims of C
 
 #### (b) Appointment of Director; authority; restrictions
 
-The Office shall be headed by a Director (referred to in this chapter as the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall report to the Attorney General through the Assistant Attorney General for the Office of Justice Programs and shall have final authority for all grants, cooperative agreements, and contracts awarded by the Office. The Director shall not engage in any employment other than that of serving as the Director, nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under this chapter.<sup>1</sup>
+The Office shall be headed by a Director (referred to in this chapter as the “Director”), who shall be appointed by the President. The Director shall report to the Attorney General through the Assistant Attorney General for the Office of Justice Programs and shall have final authority for all grants, cooperative agreements, and contracts awarded by the Office. The Director shall not engage in any employment other than that of serving as the Director, nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under this chapter.<sup>1</sup>
 
 #### (c) Duties of Director
 
@@ -22,11 +22,19 @@ The Director shall have the following duties:
 
 &emsp;(5) Such other functions as the Attorney General may delegate.
 
-(Pub. L. 98–473, title II, §1411, as added Pub. L. 100–690, title VII, §7123(a), Nov. 18, 1988, 102 Stat. 4420.)
+(Pub. L. 98–473, title II, §1411, as added Pub. L. 100–690, title VII, §7123(a), Nov. 18, 1988, 102 Stat. 4420; amended Pub. L. 112–166, §2(h)(5), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
 This chapter, the last place it appears in subsec. (b), was in the original “this part”, which has been translated as reading in the original “this chapter” meaning chapter XIV of title II of Pub. L. 98–473 to reflect the probable intent of Congress because chapter XIV of title II of Pub. L. 98–473 which comprises this chapter, does not contain parts.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date
 

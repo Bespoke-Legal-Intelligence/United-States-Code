@@ -1,13 +1,13 @@
 ### <b>CHAPTER 6—CONSOLIDATED RETURNS</b>
 
-| Subchapter |  | Sec.<sup>1</sup> |
-| :--- | ---: | ---: |
-| <b>A.</b> | <b>Returns and Payment of Tax</b> | <b>1501</b> |
+| Subchapter | Sec.<sup>1</sup> |
+| :--- | ---: |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
+| <b>A.</b> | <b>Returns and Payment of Tax</b> | <b>1501</b> |
 | <b>B.</b> | <b>Related Rules</b> | <b>1551</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

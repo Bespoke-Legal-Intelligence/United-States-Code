@@ -56,7 +56,7 @@
 
 Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
-Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, seeShort Title notes set out under section 107 of Title 20 and Tables.
+Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of Title 20 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 #### Effective Date of 1993 Amendments; Savings Provision
 
-Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 93–340 effective on 90th day following July 10, 1974, see
 
 #### Effective Date of 1971 Amendment
 
-Section 8(b) of Pub. L. 91–656 provided that: “The provisions of this section \[amending this section\] shall become effective on the effective date prescribed under section 15(a) of the Postal Reorganization Act \[set out as an Effective Date note preceding section 101 of this title\] for section 410 of title 39, United States Code, as enacted by that Act.”
+Pub. L. 91–656, §8(b), Jan. 8, 1971, 84 Stat. 1955, provided that: “The provisions of this section \[amending this section\] shall become effective on the effective date prescribed under section 15(a) of the Postal Reorganization Act \[set out as an Effective Date note preceding section 101 of this title\] for section 410 of title 39, United States Code, as enacted by that Act.”
 
 #### Effective Date
 

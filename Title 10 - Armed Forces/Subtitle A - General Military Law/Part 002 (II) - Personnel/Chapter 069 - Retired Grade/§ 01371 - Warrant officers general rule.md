@@ -28,7 +28,7 @@ May 29, 1954, ch. 249, §14(d) (1st sentence), (f) (1st sentence, as applicable 
 
 34:430(f) (1st sentence, as applicable to retired grade).
 
-The first 13 words are substituted for 10:600<i>l</i>(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words “for a period of more than 30 days” are substituted for the words “under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period”, to conform to the definition of those words in section 101(23) of this title. The words “any full time duty” are omitted, since the duty specified would necessarily be full time duty. The words “under this section” and “competent” are omitted as surplusage.
+The first 13 words are substituted for 10:600l(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words “for a period of more than 30 days” are substituted for the words “under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period”, to conform to the definition of those words in section 101(23) of this title. The words “any full time duty” are omitted, since the duty specified would necessarily be full time duty. The words “under this section” and “competent” are omitted as surplusage.
 
 #### Public Health Service
 

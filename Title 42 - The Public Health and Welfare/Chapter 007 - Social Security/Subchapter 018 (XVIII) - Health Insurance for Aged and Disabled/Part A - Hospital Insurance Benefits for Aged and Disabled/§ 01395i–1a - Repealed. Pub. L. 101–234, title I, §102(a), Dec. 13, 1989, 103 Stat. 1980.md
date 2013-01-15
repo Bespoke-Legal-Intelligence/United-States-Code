@@ -8,5 +8,5 @@ Repeal effective Jan. 1, 1990, see section 102(d)(1) of Pub. L. 101–234, set o
 
 #### Adjustments for Interest Lost Due to Delay of Transfers to Reserve Fund During 1989
 
-Section 112(b) of Pub. L. 100–360, which directed Secretary of the Treasury, in July of 1990, to calculate interest lost to Federal Hospital Insurance Catastrophic Coverage Reserve Fund due to lag between outlays (attributable to amendments made by Pub. L. 100–360) from Federal Hospital Insurance Trust Fund during 1989 and transfers made to such Reserve Fund to cover such outlays, and provided that appropriations under subsection (a)(2) of this section include amount so calculated, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
+Pub. L. 100–360, title I, §112(b), July 1, 1988, 102 Stat. 699, which directed Secretary of the Treasury, in July of 1990, to calculate interest lost to Federal Hospital Insurance Catastrophic Coverage Reserve Fund due to lag between outlays (attributable to amendments made by Pub. L. 100–360) from Federal Hospital Insurance Trust Fund during 1989 and transfers made to such Reserve Fund to cover such outlays, and provided that appropriations under subsection (a)(2) of this section include amount so calculated, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
 

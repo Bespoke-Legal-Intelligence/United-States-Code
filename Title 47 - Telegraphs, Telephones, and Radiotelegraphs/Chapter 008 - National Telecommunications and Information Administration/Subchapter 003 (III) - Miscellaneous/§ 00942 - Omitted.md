@@ -1,4 +1,0 @@
-### §942. Omitted
-
-Section, Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543; Pub. L. 110–283, title I, §102, July 23, 2008, 122 Stat. 2623, which established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office, ceased to be effective on Oct. 1, 2009, pursuant to subsec. (e)(2) of this section.
-

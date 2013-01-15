@@ -142,7 +142,7 @@ This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 
 
 #### References in Text
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended,which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 
@@ -180,9 +180,9 @@ Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: “This Ac
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–453 provided that: “This Act \[enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act of 1990’.”
+Pub. L. 101–453, §1, Oct. 24, 1990, 104 Stat. 1058, provided that: “This Act \[enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act of 1990’.”
 
 #### Purpose of 1990 Act
 
-Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see Short Title of 1990 Amendment note above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
+Pub. L. 101–453, §2, Oct. 24, 1990, 104 Stat. 1058, provided that: “The purpose of this Act \[see Short Title of 1990 Amendment note above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
 

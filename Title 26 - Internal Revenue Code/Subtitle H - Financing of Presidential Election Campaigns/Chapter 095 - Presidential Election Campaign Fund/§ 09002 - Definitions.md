@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;(12) The term “expenditure report period” with respect to any presidential election means—
 
-&emsp;&emsp;(A) in the case of a major party, the period beginning with the first day of Septemberbefore the election, or, if earlier, with the date on which such major party at its national convention nominated its candidate for election to the office of President of the United States, and ending 30 days after the date of the presidential election; and
+&emsp;&emsp;(A) in the case of a major party, the period beginning with the first day of September before the election, or, if earlier, with the date on which such major party at its national convention nominated its candidate for election to the office of President of the United States, and ending 30 days after the date of the presidential election; and
 
 &emsp;&emsp;(B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 
@@ -60,7 +60,7 @@ Par. (11). Pub. L. 93–443, §404(c)(3), substituted “Commission” for “Co
 
 #### Effective Date of 1976 Amendment
 
-Section 306(c) of Pub. L. 94–283 provided that: “The amendments made by this section \[amending this section and sections 9003, 9032, and 9033 of this title\] shall take effect on the date of enactment of this Act \[May 11, 1976\].”
+Pub. L. 94–283, title III, §306(c), May 11, 1976, 90 Stat. 501, provided that: “The amendments made by this section \[amending this section and sections 9003, 9032, and 9033 of this title\] shall take effect on the date of enactment of this Act \[May 11, 1976\].”
 
 #### Effective Date of 1974 Amendment
 

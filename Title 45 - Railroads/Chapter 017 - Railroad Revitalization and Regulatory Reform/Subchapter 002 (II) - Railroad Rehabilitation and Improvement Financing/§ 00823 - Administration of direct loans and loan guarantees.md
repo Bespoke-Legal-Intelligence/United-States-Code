@@ -26,7 +26,7 @@ The Secretary shall assure compliance, by an applicant, any other party to the l
 
 #### (e) Commercial validity
 
-For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
+For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of aholder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
 
 #### (f) Default
 
@@ -74,7 +74,7 @@ No attachment or execution may be issued against the Secretary, or any property 
 
 The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.
 
-#### (<i>l</i>) Fees and charges
+#### (l) Fees and charges
 
 Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 822 of this title.
 
@@ -92,7 +92,7 @@ A prior section 823, Pub. L. 94–210, title V, §503, Feb. 5, 1976, 90 Stat. 69
 
 <b>2005</b>—Subsec. (k). Pub. L. 109–59, §9003(h), in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
 
-Subsec. (<i>l</i>). Pub. L. 109–59, §9003(i), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 109–59, §9003(i), added subsec. (l).
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–178, §7203(a)(4), redesignated subsec. (c) of section 831 of this title as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
 

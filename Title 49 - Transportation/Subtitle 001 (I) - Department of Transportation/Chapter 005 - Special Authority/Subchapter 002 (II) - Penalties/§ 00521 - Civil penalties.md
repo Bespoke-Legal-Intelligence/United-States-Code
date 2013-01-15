@@ -1,6 +1,6 @@
 ### §521. Civil penalties
 
-(a)(1) A person required under section 504 of this title to make, prepare, preserve, or submitto the Secretary of Transportation a record about rail carrier transportation, that does not make, prepare, preserve, or submit that record as required under that section, is liable to the United States Government for a civil penalty of $500 for each violation.
+(a)(1) A person required under section 504 of this title to make, prepare, preserve, or submit to the Secretary of Transportation a record about rail carrier transportation, that does not make, prepare, preserve, or submit that record as required under that section, is liable to the United States Government for a civil penalty of $500 for each violation.
 
 (2) A rail carrier, and a lessor, receiver, or trustee of that carrier, violating section 504(c)(1) of this title, is liable to the Government for a civil penalty of $100 for each violation.
 
@@ -48,11 +48,19 @@ Violations pertaining to cdls.—Any person who is determined by the Secretary, 
 
 &emsp;(D)
 
-Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
+Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
-&emsp;(E)
+&emsp;(E)(i)
 
-Copying of records and access to equipment, lands, and buildings.—A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operatorof a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect and copy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. It shall be a defense to such penalty that the records did not exist at the time of the Secretary's request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
+Copying of records and access to equipment, lands, and buildings.—A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operator of a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect and copy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. In the case of a motor carrier, the Secretary may also place the violator's motor carrier operations out of service. It shall be a defense to a penalty that the records did not exist at the time of the Secretary's request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
+
+&emsp;(ii)
+
+Place out of service.—The Secretary may by regulation adopt procedures for placing out of service the commercial motor vehicle of a foreign-domiciled motor carrier that fails to promptly allow the Secretary to inspect and copy a record or inspect equipment, land, buildings, or other property.
+
+&emsp;(F)
+
+Penalty for violations relating to out of service orders.—A motor carrier or employer (as defined in section 31132) that operates a commercial motor vehicle in commerce in violation of a prohibition on transportation under section 31144(c) of this title or an imminent hazard out of service order issued under subsection (b)(5) of this section or section 5121(d) of this title shall be liable for a civil penalty not to exceed $25,000.
 
 (3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
@@ -106,7 +114,29 @@ Regulations.—Not later than 12 months after the date of the enactment of this 
 
 (14) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under section 31132 of this title.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764; Pub. L. 109–59, title IV, §§4102(a), 4103, Aug. 10, 2005, 119 Stat. 1715, 1716.)
+(15)
+
+Impoundment of commercial motor vehicles.—
+
+&emsp;(A)
+
+Enforcement of imminent hazard out-of-service orders.—
+
+&emsp;&emsp;(i) The Secretary, or an authorized State official carrying out motor carrier safety enforcement activities under section 31102, may enforce an imminent hazard out-of-service order issued under chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder, by towing and impounding a commercial motor vehicle until the order is rescinded.
+
+&emsp;&emsp;(ii) Enforcement shall not unreasonably interfere with the ability of a shipper, carrier, broker, or other party to arrange for the alternative transportation of any cargo or passenger being transported at the time the commercial motor vehicle is immobilized. In the case of a commercial motor vehicle transporting passengers, the Secretary or authorized State official shall provide reasonable, temporary, and secure shelter and accommodations for passengers in transit.
+
+&emsp;&emsp;(iii) The Secretary's designee or an authorized State official carrying out motor carrier safety enforcement activities under section 31102, shall immediately notify the owner of a commercial motor vehicle of the impoundment and the opportunity for review of the impoundment. A review shall be provided in accordance with section 554 of title 5, except that the review shall occur not later than 10 days after the impoundment.
+
+&emsp;(B)
+
+Issuance of regulations.—The Secretary shall promulgate regulations on the use of impoundment or immobilization of commercial motor vehicles as a means of enforcing additional out-of-service orders issued under chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder. Regulations promulgated under this subparagraph shall include consideration of public safety, the protection of passengers and cargo, inconvenience to passengers, and the security of the commercial motor vehicle.
+
+&emsp;(C)
+
+Definition.—In this paragraph, the term “impoundment” or “impounding” means the seizing and taking into custody of a commercial motor vehicle or the immobilizing of a commercial motor vehicle through the attachment of a locking device or other mechanical or electronic means.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764; Pub. L. 109–59, title IV, §§4102(a), 4103, Aug. 10, 2005, 119 Stat. 1715, 1716; Pub. L. 112–141, div. C, title II, §§32501(b), 32502–32504, 32506, July 6, 2012, 126 Stat. 803, 804.)
 
 Historical and Revision Notes
 
@@ -148,6 +178,16 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(8)(B), i
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(12), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(D). Pub. L. 112–141, §32506, struck out “ability to pay,” after “prior offenses,”.
+
+Subsec. (b)(2)(E). Pub. L. 112–141, §32501(b), designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (b)(2)(E)(i). Pub. L. 112–141, §32502, inserted “In the case of a motor carrier, the Secretary may also place the violator's motor carrier operations out of service.” after “$10,000.” and substituted “defense to a penalty” for “defense to such penalty”.
+
+Subsec. (b)(2)(F). Pub. L. 112–141, §32503, added subpar. (F).
+
+Subsec. (b)(15). Pub. L. 112–141, §32504, added par. (15).
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–59, §4103(1), inserted headings for subsec. (b), par. (1), and subpar. (A).
 
@@ -219,7 +259,11 @@ Subsec. (b)(2). Pub. L. 98–554 substituted provisions setting forth amount of 
 
 Subsec. (b)(3) to (13). Pub. L. 98–554 added pars. (3) to (13).
 
-#### Deemed References to to Chapters 509 and 511 of Title 51
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

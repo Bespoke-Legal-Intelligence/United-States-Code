@@ -44,19 +44,19 @@ Before the end of the 365-day period beginning on July 21, 2010, the Director sh
 
 &emsp;(2) the current legal and business model barriers and impediments that impede the use of the remittance history of the consumer to enhance the credit score of the consumer; and
 
-&emsp;(3) recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title <sup>3</sup> and the amendments made by this title <sup>3</sup> may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693<i>o</i>–1(a)(2)(D) <sup>3</sup> and 1693<i>o</i>–1(a)(3) of title 15 (as amended by this section).
+&emsp;(3) recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title <sup>3</sup> and the amendments made by this title <sup>3</sup> may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693o–1(a)(2)(D) <sup>3</sup> and 1693o–1(a)(3) of title 15 (as amended by this section).
 
 (Pub. L. 111–203, title X, §1073, July 21, 2010, 124 Stat. 2060.)
 
 #### References in Text
 
-This title, where footnoted in subsec. (e)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known asthe Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, where footnoted in subsec. (e)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 1693<i>o</i>–1(a)(2) of title 15, referred to in subsec. (e)(3), does not contain a subpar. (D).
+Section 1693o–1(a)(2) of title 15, referred to in subsec. (e)(3), does not contain a subpar. (D).
 
 #### Codification
 
-Section is comprised of section 1073 of Pub. L. 111–203. Subsecs. (a) and (d) of section 1073 of Pub. L. 111–203 enacted section 1693<i>o</i>–1 of Title 15, Commerce and Trade, amended section 1757 of this title and sections 1693, 1693b, 1693p, 1693q, and 1693r of Title 15, and amended provisions set out as a note under section 1693 of Title 15.
+Section is comprised of section 1073 of Pub. L. 111–203. Subsecs. (a) and (d) of section 1073 of Pub. L. 111–203 enacted section 1693o–1 of Title 15, Commerce and Trade, amended section 1757 of this title and sections 1693, 1693b, 1693p, 1693q, and 1693r of Title 15, and amended provisions set out as a note under section 1693 of Title 15.
 
 #### Effective Date
 

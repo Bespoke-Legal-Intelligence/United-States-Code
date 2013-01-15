@@ -10,7 +10,7 @@
 
 (b) In a criminal proceeding for an offense under paragraph (1) or (2) of subsection (a) of this section it shall be a defense for the accused to prove that he used all due diligence to comply with any order or direction that he had reasonable cause to believe that compliance would have resulted in serious risk to human life.
 
-(Pub. L. 93–248, §12, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title IV, §4302(<i>l</i>), Aug. 18, 1990, 104 Stat. 539.)
+(Pub. L. 93–248, §12, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title IV, §4302(l), Aug. 18, 1990, 104 Stat. 539.)
 
 #### Amendments
 

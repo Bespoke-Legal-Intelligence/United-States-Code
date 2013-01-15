@@ -86,11 +86,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 1(a) of Pub. L. 95–562 provided that the amendment made by that section is effective Jan. 1, 1979.
+Pub. L. 95–562, §1(a), Nov. 1, 1978, 92 Stat. 2381, provided that the amendment made by section 1(a) of Pub. L. 95–562 is effective Jan. 1, 1979.
 
 #### Short Title of 1995 Amendment
 
-Section 1(a) of Pub. L. 104–48 provided that: “This Act \[amending this section and sections 499b, 499c to 499f, and 499h of this title and repealing provisions set out as a note under section 499f of this title\] may be cited as the ‘Perishable Agricultural Commodities Act Amendments of 1995’.”
+Pub. L. 104–48, §1(a), Nov. 15, 1995, 109 Stat. 424, provided that: “This Act \[amending this section and sections 499b, 499c to 499f, and 499h of this title and repealing provisions set out as a note under section 499f of this title\] may be cited as the ‘Perishable Agricultural Commodities Act Amendments of 1995’.”
 
 #### Study of Domestic Fruit and Vegetable Industry
 
@@ -196,5 +196,5 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Potato Dealers
 
-Section 1(b) of Pub. L. 95–562 provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section as amended by section 1(b) of Pub. L. 95–562 until Jan. 1, 1982.
+Pub. L. 95–562, §1(b), Nov. 1, 1978, 92 Stat. 2381, provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section, as amended by section 1(b) of Pub. L. 95–562, until Jan. 1, 1982.
 

@@ -634,7 +634,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (C) Effect on purchase option at probate
 
-&emsp;&emsp;Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) of this section shall not be available for purchase under subsection (<i>o</i>) of this section unless the decisionmaker determines that the agreement should not be approved.
+&emsp;&emsp;Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) of this section shall not be available for purchase under subsection (o) of this section unless the decisionmaker determines that the agreement should not be approved.
 
 #### (k) Notification to landowners
 
@@ -646,7 +646,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 &emsp;(3) The percentage of ownership of each owner of an interest in the tract.
 
-#### (<i>l</i>) Pilot project for the management of trust assets of Indian families and relatives
+#### (l) Pilot project for the management of trust assets of Indian families and relatives
 
 #### (1) Development pilot project
 
@@ -728,7 +728,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 (4) An heir determined to be missing pursuant to this subsection shall be deemed to have predeceased the decedent for purposes of descent and devise of trust or restricted land and trust personalty within that decedent's estate.
 
-#### (<i>o</i>) Purchase option at probate
+#### (o) Purchase option at probate
 
 #### (1) In general
 
@@ -802,7 +802,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), introductory provisions of (h) and (h)(2)(B), (j)(2)(B)(iii)(I), (7)(A), (<i>l</i>)(2)(A), (<i>o</i>)(2), (4)(A), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress. This chapter, referred to in the original in subsec. (h)(3), (4), probably should have been “this title”, meaning title II of Pub. L. 97–459 which enacted this chapter.
+This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), introductory provisions of (h) and (h)(2)(B), (j)(2)(B)(iii)(I), (7)(A), (l)(2)(A), (o)(2), (4)(A), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress. This chapter, referred to in the original in subsec. (h)(3), (4), probably should have been “this title”, meaning title II of Pub. L. 97–459 which enacted this chapter.
 
 Section 8 of the American Indian Probate Reform Act of 2004, referred to in subsecs. (a)(2)(D)(iv)(II)(dd), (c)(2), and (j)(2)(A)(ii)(I), (7)(B), is section 8 of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
@@ -840,21 +840,21 @@ Subsecs. (i)(4)(C), (j)(2)(A)(ii). Pub. L. 110–453, §207(c)(4), (5), substitu
 
 Subsec. (k). Pub. L. 110–453, §207(c)(6), inserted “a” after “receiving” in introductory provisions.
 
-Subsec. (<i>o</i>)(3). Pub. L. 110–453, §207(c)(7)(A), substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
+Subsec. (o)(3). Pub. L. 110–453, §207(c)(7)(A), substituted “Request to purchase; consent requirements; multiple requests to purchase” for “Request to purchase; auction; consent requirements” in heading, designated introductory provisions and subpars. (A) and (B) as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and struck out former concluding provisions which read as follows: “If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.”
 
-Subsec. (<i>o</i>)(4). Pub. L. 110–453, §207(c)(7)(B), inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
+Subsec. (o)(4). Pub. L. 110–453, §207(c)(7)(B), inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
 
 &emsp;“(i) to the heirs or other devisees and the Indian tribe with jurisdiction over the interest, by first class mail; and
 
 &emsp;“(ii) to all other eligible purchasers, by posting written notice in at least 5 conspicuous places in the vicinity of the place of hearing.”
 
-Subsec. (<i>o</i>)(5)(A). Pub. L. 110–453, §207(c)(7)(C)(i)(I), in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
+Subsec. (o)(5)(A). Pub. L. 110–453, §207(c)(7)(C)(i)(I), in introductory provisions, inserted “or surviving spouse” after “heir”, substituted “paragraph (3)(A)(ii)” for “paragraph (3)(B)”, and struck out “auction and” after “required for the”.
 
-Subsec. (<i>o</i>)(5)(A)(ii). Pub. L. 110–453, §207(c)(7)(C)(i)(III)(aa), (bb), substituted “sale” for“auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
+Subsec. (o)(5)(A)(ii). Pub. L. 110–453, §207(c)(7)(C)(i)(III)(aa), (bb), substituted “sale” for“auction” and “, at the time of death of the applicable decedent, the interest of the decedent in the land represented” for “the interest passing to such heir represents”.
 
-Subsec. (<i>o</i>)(5)(A)(iii). Pub. L. 110–453, §207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
+Subsec. (o)(5)(A)(iii). Pub. L. 110–453, §207(c)(7)(C)(i)(II), (III)(cc), (IV), added cl. (iii).
 
-Subsec. (<i>o</i>)(5)(B). Pub. L. 110–453, §207(c)(7)(C)(ii), inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir's interest”.
+Subsec. (o)(5)(B). Pub. L. 110–453, §207(c)(7)(C)(ii), inserted “or surviving spouse” after “heir” in two places and substituted “interest of the heir or surviving spouse” for “heir's interest”.
 
 <b>2006</b>—Subsec. (g)(2). Pub. L. 109–221, §501(a)(1), substituted “specified in paragraph (1)” for “described in paragraph (1)” in introductory provisions and “identified in such law” for “identified in Federal law” in subpar. (B).
 
@@ -892,19 +892,19 @@ Subsec. (j)(2)(A)(iii). Pub. L. 109–157, §4(a)(4)(A)(ii), struck out “the p
 
 Subsec. (j)(8)(D). Pub. L. 109–157, §4(a)(4)(B), struck out “the provisions of” before “subsection (a)(2)(D)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(D).
 
-Subsec. (j)(9)(C). Pub. L. 109–157, §4(a)(4)(C), made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (<i>o</i>)” for “subsection (p)”.
+Subsec. (j)(9)(C). Pub. L. 109–157, §4(a)(4)(C), made technical amendment to reference in original act which appears in text as reference to subsection (e) and substituted “subsection (o)” for “subsection (p)”.
 
-Subsecs. (k) to (n). Pub. L. 109–157, §4(a)(1), redesignated subsecs. (<i>l</i>) to (<i>o</i>) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
+Subsecs. (k) to (n). Pub. L. 109–157, §4(a)(1), redesignated subsecs. (l) to (o) as (k) to (n), respectively. Former subsec. (k) redesignated (j).
 
-Subsec. (<i>o</i>). Pub. L. 109–157, §4(a)(1), redesignated subsec. (p) as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (n).
+Subsec. (o). Pub. L. 109–157, §4(a)(1), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
 
-Subsec. (<i>o</i>)(2). Pub. L. 109–157, §4(a)(5)(A)(i), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
+Subsec. (o)(2). Pub. L. 109–157, §4(a)(5)(A)(i), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)” in introductory provisions.
 
-Subsec. (<i>o</i>)(2)(A). Pub. L. 109–157, §4(a)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
+Subsec. (o)(2)(A). Pub. L. 109–157, §4(a)(5)(A)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (b)(1)(A).
 
-Subsec. (<i>o</i>)(3)(B). Pub. L. 109–157, §4(a)(5)(B), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
+Subsec. (o)(3)(B). Pub. L. 109–157, §4(a)(5)(B), substituted “subparagraph (A) or (D) of subsection (a)(2)” for “subsection (a)(2)(A) or (D)”.
 
-Subsec. (<i>o</i>)(6). Pub. L. 109–157, §4(a)(5)(C), designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
+Subsec. (o)(6). Pub. L. 109–157, §4(a)(5)(C), designated first sentence as subpar. (A), inserted subpar. heading, added subpar. (B), and struck out former second sentence which read as follows: “The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.”
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–374, §3(a), added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
 
@@ -922,7 +922,7 @@ Subsec. (g). Pub. L. 108–374, §6(a)(4), struck out heading and text of subsec
 
 Subsecs. (h) to (k). Pub. L. 108–374, §3(d), added subsecs. (h) to (k).
 
-Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 108–374, §6(e)(4), which directed amendment of section by adding subsecs. (<i>l</i>) to (<i>o</i>) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
+Subsecs. (l) to (o). Pub. L. 108–374, §6(e)(4), which directed amendment of section by adding subsecs. (l) to (o) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
 
 Subsec. (p). Pub. L. 108–374, §6(a)(2), added subsec. (p).
 
@@ -936,7 +936,7 @@ Testamentary disposition.—The amendments made by subsection (c)(2) of this sec
 
 “(2)
 
-Small undivided interests in indian lands.—The amendments made by subsection (c)(7)(C) of this section to subsection (<i>o</i>)(5) of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) shall not apply to or affect any sale of an interest under subsection (<i>o</i>)(5) of that section that was completed before the date of enactment of this Act.”
+Small undivided interests in indian lands.—The amendments made by subsection (c)(7)(C) of this section to subsection (o)(5) of section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) shall not apply to or affect any sale of an interest under subsection (o)(5) of that section that was completed before the date of enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
 

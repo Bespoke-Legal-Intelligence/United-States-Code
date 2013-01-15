@@ -2,79 +2,153 @@
 
 (a)
 
-Authority of the Secretary.—The Secretary is authorized to use funds appropriated to carry out this section to—
+Defined Term.—In this section, the term “Federal laboratory” includes—
 
-&emsp;(1) conduct research on all phases of highway safety and traffic conditions, including accident causation, highway or driver characteristics, communications, and emergency care;
+&emsp;(1) a government-owned, government-operated laboratory; and
 
-&emsp;(2) conduct ongoing research into driver behavior and its effect on traffic safety;
-
-&emsp;(3) conduct research on, launch initiatives to counter, and conduct demonstration projects on fatigued driving by drivers of motor vehicles and distracted driving in such vehicles, including the effect that the use of electronic devices and other factors deemed relevant by the Secretary have on driving;
-
-&emsp;(4) conduct training or education programs in cooperation with other Federal departments and agencies, States, private sector persons, highway safety personnel, and law enforcement personnel;
-
-&emsp;(5) conduct research on, and evaluate the effectiveness of, traffic safety countermeasures, including seat belts and impaired driving initiatives;
-
-&emsp;(6) conduct research on, evaluate, and develop best practices related to driver education programs (including driver education curricula, instructor training and certification, program administration and delivery mechanisms) and make recommendations for harmonizing driver education and multistage graduated licensing systems;
-
-&emsp;(7) conduct research, training, and education programs related to older drivers;
-
-&emsp;(8) conduct demonstration projects; and
-
-&emsp;(9) conduct research, training, and programs relating to motorcycle safety, including impaired driving.
+&emsp;(2) a government-owned, contractor-operated laboratory.
 
 (b)
 
-Drugs and Driver Behavior.—In addition to the research authorized by subsection (a), the Secretary, in consultation with other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
+General Authority.—
 
-&emsp;(1) The relationship between the consumption and use of drugs and their effect upon highway safety and drivers of motor vehicles.
+&emsp;(1)
 
-&emsp;(2) Driver behavior research, including the characteristics of driver performance, the relationships of mental and physical abilities or disabilities to the driving task, and the relationship of frequency of driver crash involvement to highway safety.
+Research and development activities.—The Secretary may conduct research and development activities, including demonstration projects and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
 
-&emsp;(3) Measures that may deter drugged driving.
+&emsp;&emsp;(A) all aspects of highway and traffic safety systems and conditions relating to—
 
-&emsp;(4) Programs to train law enforcement officers on motor vehicle pursuits conducted by the officers.
+&emsp;&emsp;&emsp;(i) vehicle, highway, driver, passenger, motorcyclist, bicyclist, and pedestrian characteristics;
 
-&emsp;(5) Technology to detect drug use and enable States to efficiently process toxicology evidence.
+&emsp;&emsp;&emsp;(ii) accident causation and investigations;
 
-&emsp;(6) Research on the effects of illicit drugs and the compound effects of alcohol and illicit drugs on impairment.
+&emsp;&emsp;&emsp;(iii) communications; and
 
-(c) The research authorized by subsections (a) and (b) of this section may be conducted by the Secretary through grants and contracts with public and private agencies, institutions, and individuals.
+&emsp;&emsp;&emsp;(iv) emergency medical services, including the transportation of the injured;
 
-(d) The Secretary may, where he deems it to be in furtherance of the purposes of section 402 of this title, vest in State or local agencies, on such terms and conditions as he deems appropriate, title to equipment purchased for demonstration projects with funds authorized by this section.
+&emsp;&emsp;(B) human behavioral factors and their effect on highway and traffic safety, including—
 
-(e) In addition to the research authorized by subsection (a) of this section, the Secretary shall, either independently or in cooperation with other Federal departments or agencies, conduct research into, and make grants to or contracts with State or local agencies, institutions, and individuals for projects to demonstrate the administrative adjudication of traffic infractions. Such administrative adjudication demonstration projects shall be designed to improve highway safety by developing fair, efficient, and effective processes and procedures for traffic infraction adjudication, utilizing appropriate punishment, training, and rehabilitative measures for traffic offenders. The Secretary shall report to Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research and demonstration projects authorized by this subsection, and shall include in such report a comparison of the fairness, efficiency, and effectiveness of administrative adjudication of traffic infractions with other methods of handling such infractions.
+&emsp;&emsp;&emsp;(i) driver education;
 
-(f)
+&emsp;&emsp;&emsp;(ii) impaired driving; and
+
+&emsp;&emsp;&emsp;(iii) distracted driving;
+
+&emsp;&emsp;(C) an evaluation of the effectiveness of countermeasures to increase highway and traffic safety, including occupant protection and alcohol- and drug-impaired driving technologies and initiatives;
+
+&emsp;&emsp;(D) the development of technologies to detect drug impaired drivers;
+
+&emsp;&emsp;(E) research on, evaluations of, and identification of best practices related to driver education programs (including driver education curricula, instructor training and certification, program administration, and delivery mechanisms) and make recommendations for harmonizing driver education and multistage graduated licensing systems; and
+
+&emsp;&emsp;(F) the effect of State laws on any aspects, activities, or programs described in subparagraphs (A) through (E).
+
+&emsp;(2)
+
+Cooperation, grants, and contracts.—The Secretary may carry out this section—
+
+&emsp;&emsp;(A) independently;
+
+&emsp;&emsp;(B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories;
+
+&emsp;&emsp;(C) by entering into contracts, cooperative agreements, and other transactions with the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1); or
+
+&emsp;&emsp;(D) by making grants to the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1).
+
+(c)
 
 Collaborative Research and Development.—
 
 &emsp;(1)
 
-In general.—For the purpose of encouraging innovative solutions to highway safety problems, stimulating voluntary improvements in highway safety, and stimulating the marketing of new highway safety-related technology by private industry, the Secretary is authorized to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local governments, colleges, and universities and corporations, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State or the United States. This collaborative research may include crash data collection and analysis; driver and pedestrian behavior; and demonstrations of technology.
+In general.—To encourage innovative solutions to highway safety problems, stimulate voluntary improvements in highway safety, and stimulate the marketing of new highway safety related technology by private industry, the Secretary is authorized to carry out, on a cost-shared basis, collaborative research and development with—
+
+&emsp;&emsp;(A) non-Federal entities, including State and local governments, colleges, universities, corporations, partnerships, sole proprietorships, organizations, and trade associations that are incorporated or established under the laws of any State or the United States; and
+
+&emsp;&emsp;(B) Federal laboratories.
 
 &emsp;(2)
 
-Cooperative agreements.—In carrying out this subsection, the Secretary may enter into cooperative research and development agreements, as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a); except that in entering into such agreements, the Secretary may agree to provide not more than 50 percent of the cost of any research or development project selected by the Secretary under this subsection.
+Agreements.—In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)) in which the Secretary provides not more than 50 percent of the cost of any research or development project under this subsection.
 
 &emsp;(3)
 
-Project selection.—In selecting projects to be conducted under this subsection, the Secretary shall establish a procedure to consider the views of experts and the public concerning the project areas.
+Use of technology.—The research, development, or use of any technology pursuant to an agreement under this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
-&emsp;(4)
+(d)
 
-Applicability of stevenson-wydler technology innovation act.—The research, development, or utilization of any technology pursuant to an agreement under the provisions of this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980.
+Title to Equipment.—In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
+
+(e)
+
+Prohibition on Certain Disclosures.—Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 may only be made available to the public in a manner that does not identify individuals.
+
+(f)
+
+Cooperative Research and Evaluation.—
+
+&emsp;(1)
+
+Establishment and funding.—Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection <sup>1</sup> 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+
+&emsp;(2)
+
+Administration.—The program established under paragraph (1)—
+
+&emsp;&emsp;(A) shall be administered by the Administrator of the National Highway Traffic Safety Administration; and
+
+&emsp;&emsp;(B) shall be jointly managed by the Governors Highway Safety Association and the National Highway Traffic Safety Administration.
 
 (g)
 
 International Cooperation.—The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540.)
+(h)
+
+In-vehicle Alcohol Detection Device Research.—
+
+&emsp;(1)
+
+In general.—The Administrator of the National Highway Traffic Safety Administration may carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
+
+&emsp;(2)
+
+Funding.—Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).
+
+&emsp;(3)
+
+Privacy protection.—If the Administrator utilizes the authority under paragraph (1), the Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver's blood alcohol concentration.
+
+&emsp;(4)
+
+Reports.—If the Administrator conducts the research authorized under paragraph (1), the Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
+
+&emsp;&emsp;(A) describes the progress made in carrying out the collaborative research effort; and
+
+&emsp;&emsp;(B) includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
+
+&emsp;(5)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Alcohol-impaired driving.—The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in section 30102(a)(6) of title 49) by an individual whose blood alcohol content is at or above the legal limit.
+
+&emsp;&emsp;(B)
+
+Legal limit.—The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
+
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (a) to (f). Pub. L. 112–141, §31103(1), added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
+
+Subsec. (h). Pub. L. 112–141, §31103(2), added subsec. (h).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
 
@@ -104,6 +178,10 @@ Subsecs. (b), (c). Pub. L. 93–87, §208(a), added subsecs. (b) and (c).
 
 Subsecs. (d) to (f). Pub. L. 93–87, §§221, 222, 226(a), added subsecs. (d) to (f).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by section 2003(a), (b) of Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under section 402 of this title.
@@ -114,7 +192,7 @@ Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134),see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Research on Distracted, Inattentive, and Fatigued Drivers
 
@@ -122,73 +200,7 @@ Pub. L. 109–59, title II, §2003(d), Aug. 10, 2005, 119 Stat. 1523, provided t
 
 #### Drug-Impaired Driving Enforcement
 
-Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, §421(m), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, §121(m), Sept. 16, 2011, 125 Stat. 348, provided that:
-
-“(a)
-
-Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I through V of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
-
-“(b)
-
-Duties.—The Secretary \[of Transportation\] shall—
-
-&emsp;“(1) advise and coordinate with other Federal agencies on how to address the problem of driving under the influence of an illegal drug; and
-
-&emsp;“(2) conduct research on the prevention, detection, and prosecution of driving under the influence of an illegal drug.
-
-“(c)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\], in cooperation with the National Institutes of Health, shall submit to Congress a report on the problem of drug-impaired driving.
-
-&emsp;“(2)
-
-Contents.—The report shall include, at a minimum, the following:
-
-&emsp;&emsp;“(A) An assessment of methodologies and technologies for measuring driver impairment resulting from use of the most common illicit drugs (including the use of such drugs in combination with alcohol).
-
-&emsp;&emsp;“(B) Effective and efficient methods for training law enforcement personnel, including drug recognition experts, to detect or measure the level of impairment of a driver who is under the influence ofan illicit drug by the use of technology or otherwise.
-
-&emsp;&emsp;“(C) A description of the role of drugs as causal factor in traffic crashes and the extent of the problem of drug-impaired driving.
-
-&emsp;&emsp;“(D) A description and assessment of current State and Federal laws relating to drug-impaired driving.
-
-&emsp;&emsp;“(E) Recommendations for addressing the problem of drug-impaired driving, including recommendations on levels of impairment.
-
-&emsp;&emsp;“(F) Recommendations for developing a model statute relating to drug-impaired driving.
-
-“(d)
-
-Model Statute.—
-
-&emsp;“(1)
-
-In general.—The Secretary \[of Transportation\] shall develop a model statute for States relating to drug-impaired driving.
-
-&emsp;“(2)
-
-Contents.—Based on recommendations and findings contained in the report submitted under subsection (c), the model statute may include—
-
-&emsp;&emsp;“(A) threshold levels of impairment for illicit drugs;
-
-&emsp;&emsp;“(B) practicable methods for detecting the presence of illicit drugs; and
-
-&emsp;&emsp;“(C) penalties for drug impaired driving.
-
-&emsp;“(3)
-
-Date.—The model statute shall be provided to States not later than 1 year after date of submission of the report under subsection (c).
-
-“(e)
-
-Research and Development.—\[Amended section 403(b) of this title.\]
-
-“(f)
-
-Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2012, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
+Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, §421(m), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, §121(m), Sept. 16, 2011, 125 Stat. 348, related to agency coordination and research on drug-impaired driving enforcement, prior to repeal by Pub. L. 112–141, div. C, title I, §31109(i), July 6, 2012, 126 Stat. 757.
 
 #### Safety Studies
 
@@ -260,7 +272,7 @@ Authorization.—There are authorized to be appropriated to the Department of Tr
 
 #### Drug Recognition Expert Training Program
 
-Section 2006 of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title II, §2006, Dec. 18, 1991, 105 Stat. 2079, provided that:
 
 “(a)
 
@@ -392,15 +404,17 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings asto the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 
-Section 208(b) of Pub. L. 93–87 provided that: “There is authorized to be appropriated to carry out the amendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
+Pub. L. 93–87, title II, §208(b), Aug. 13, 1973, 87 Stat. 286, provided that: “There is authorized to be appropriated to carry out the amendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
 
-Section 226(b) of Pub. L. 93–87 provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section \[amending this section\], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
+Pub. L. 93–87, title II, §226(b), Aug. 13, 1973, 87 Stat. 292, provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section \[amending this section\], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
 
 #### Authorization of Additional Appropriations
 
 Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967, $20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

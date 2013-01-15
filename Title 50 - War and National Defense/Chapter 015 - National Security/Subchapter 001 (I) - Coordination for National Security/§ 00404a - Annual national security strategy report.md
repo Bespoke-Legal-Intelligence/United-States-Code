@@ -32,7 +32,7 @@ Each national security strategy report shall be transmitted in both a classified
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
 
-#### National Security Planning Guidance to Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates
+#### National Security Planning Guidance To Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates
 
 Pub. L. 112–81, div. A, title X, §1032, Dec. 31, 2011, 125 Stat. 1571, provided that:
 
@@ -70,7 +70,7 @@ Review and update of guidance.—The President shall review and update the guida
 
 &emsp;&emsp;“(B) The performance of each Federal department and agency involved in executing the guidance.
 
-&emsp;&emsp;“(C) The performance of the unified country team and appropriate combatant command, or in the case of a cross-border effort, country teams in the area and the appropriate combatant command.
+&emsp;&emsp;“(C) The performance of the unified country team and appropriate combatant command, or in thecase of a cross-border effort, country teams in the area and the appropriate combatant command.
 
 &emsp;&emsp;“(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 
@@ -128,5 +128,5 @@ Definitions.—In this section:
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 
-Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Unionwhich was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
+Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
 

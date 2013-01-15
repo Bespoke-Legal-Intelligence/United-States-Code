@@ -34,7 +34,7 @@ In carrying out the FARAD program, the Secretary shall—
 
 #### (c) Contract, grants, and cooperative agreements
 
-The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 or more appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
+The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 ormore appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
 
 #### (d) Indirect costs
 

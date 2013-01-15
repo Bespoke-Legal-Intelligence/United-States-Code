@@ -36,7 +36,7 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Sections 404 and 605 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §404, title VI, §605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 #### Savings Provision
 

@@ -26,9 +26,9 @@ The treatment for purposes of this chapter of any transaction in which Federal f
 
 For purposes of this section, the term “Federal financial assistance” means—
 
-&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of the Federal Home Loan Bank Act (or under any other similar provision of law), and
+&emsp;(1) any money or other property provided with respect to a domestic building and loanassociation by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of the Federal Home Loan Bank Act (or under any other similar provision of law), and
 
-&emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit InsuranceAct (or under any other similar provision of law),
+&emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit Insurance Act (or under any other similar provision of law),
 
 > regardless of whether any note or other instrument is issued in exchange therefor.
 
@@ -68,11 +68,11 @@ Subsec. (d). Pub. L. 100–647, §4012(b)(2)(B), which directed amendment of sec
 
 <b>1986</b>—Pub. L. 99–514, §904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, §4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, §1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 7841(e)(2) of Pub. L. 101–239 provided that: “The amendment made by this subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\].”
+Pub. L. 101–239, title VII, §7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: “The amendment made by this subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\].”
 
-Section 1401(c)(3)–(5) of Pub. L. 101–73 provided that:
+Pub. L. 101–73, title XIV, §1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550, provided that:
 
 “(3)
 
@@ -96,13 +96,13 @@ Subsection (b)(2).—The amendment made by subsection (b)(2) \[amending provisio
 
 #### Effective Date of 1988 Amendment
 
-Section 4012(b)(2)(E) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to any transfer—
+Pub. L. 100–647, title IV, §4012(b)(2)(E), Nov. 10, 1988, 102 Stat. 3658, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to any transfer—
 
 &emsp;“(i) after the date of the enactment of this Act \[Nov. 10, 1988\], and before January 1, 1990, unless such transfer is pursuant to an acquisition occurring on or before such date of enactment, and
 
 &emsp;“(ii) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after such date of enactment and before January 1, 1990.”
 
-Section 4012(c)(3) of Pub. L. 100–647, as amended by Pub. L. 101–73, title XIV, §1401(b)(2), Aug. 9, 1989, 103 Stat. 549, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall apply to any transfer—
+Pub. L. 100–647, title IV, §4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as amended by Pub. L. 101–73, title XIV, §1401(b)(2), Aug. 9, 1989, 103 Stat. 549, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall apply to any transfer—
 
 &emsp;“(A) after December 31, 1988, and before January 1, 1990, unless such transfer is pursuant to an acquisition occurring before January 1, 1989, and
 
@@ -116,7 +116,7 @@ Pub. L. 99–514, title IX, §904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amend
 
 #### Effective Date
 
-Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by section 244 \[enacting this section\] shall apply to any payment made on or after January 1, 1981.”
+Pub. L. 97–34, title II, §246(c), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 244 \[enacting this section\] shall apply to any payment made on or after January 1, 1981.”
 
 #### Transfer of Functions
 
@@ -124,11 +124,11 @@ Federal Savings and Loan Insurance Corporation abolished and its functions trans
 
 #### Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions
 
-Section 1401(b)(1) of Pub. L. 101–73 provided that: “Section 904 of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
+Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549, provided that: “Section 904 of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
 
 #### References to Federal Savings and Loan Insurance Corporation
 
-Section 1401(c)(7) of Pub. L. 101–73 provided that: “Any reference to the Federal Savings and Loan Insurance Corporation in section 597 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall be treated as including a reference to the Resolution Trust Corporation and the FSLIC Resolution Fund.”
+Pub. L. 101–73, title XIV, §1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided that: “Any reference to the Federal Savings and Loan Insurance Corporation in section 597 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall be treated as including a reference to the Resolution Trust Corporation and the FSLIC Resolution Fund.”
 
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 

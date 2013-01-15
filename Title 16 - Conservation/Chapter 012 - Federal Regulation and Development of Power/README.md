@@ -104,7 +104,7 @@
 | [825m.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825m%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [825n.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825n%20-%20Forfeiture%20for%20violations%3B%20recovery%3B%20applicability.md) | Forfeiture for violations; recovery; applicability. |
 | 825<i>o.</i> | Penalties for violations; applicability of section. |
-| 825<i>o</i>–1. | Enforcement of certain provisions. |
+| 825o–1. | Enforcement of certain provisions. |
 | [825p.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825p%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md) | Jurisdiction of offenses; enforcement of liabilities and duties. |
 | [825q.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825q%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71277%28a%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20978.md) | Repealed. |
 | 825q–1. | Office of Public Participation. |

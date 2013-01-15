@@ -18,7 +18,7 @@ An applicant shall be eligible to receive a grant under section 3056(b) of this 
 
 For purposes of subsection (a)(1), the Secretary shall select the eligible applicants to receive grants based on the following:
 
-&emsp;(1) The applicant's ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economicneed, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
+&emsp;(1) The applicant's ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economic need, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
 
 &emsp;(2) The applicant's ability to administer a project that provides employment for eligible individuals in the communities in which such individuals reside, or in nearby communities, that will contribute to the general welfare of the communities involved.
 
@@ -36,7 +36,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;(9) The applicant's ability to minimize disruption in services for participants and in community services provided.
 
-&emsp;(10) Any additional criteria that the Secretary considers to be appropriate in order to minimize disruption in services for participants.
+&emsp;(10) Any additional criteria that the Secretary considers to be appropriate in order tominimize disruption in services for participants.
 
 #### (d) Responsibility tests
 
@@ -100,7 +100,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 #### (2) Special consideration
 
-&emsp;In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grantin accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
+&emsp;In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grant in accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
 
 #### (f) Minority-serving grantees
 
@@ -114,5 +114,5 @@ The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is s
 
 #### Prior Provisions
 
-A prior section 3056<i>l</i>, Pub. L. 89–73, title V, §514, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
 

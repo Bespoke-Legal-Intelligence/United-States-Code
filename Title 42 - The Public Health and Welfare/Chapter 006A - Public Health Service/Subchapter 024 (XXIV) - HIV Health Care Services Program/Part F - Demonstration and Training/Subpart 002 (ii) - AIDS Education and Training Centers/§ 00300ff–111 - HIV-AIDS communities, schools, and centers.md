@@ -38,7 +38,7 @@
 
 #### (B) Eligible applicants
 
-&emsp;&emsp;For purposes of this subsection, the dental schools and programs referred to in this subparagraph are dental schools and programs that were described in section 294<i>o</i>(b)(4)(B) of this title as such section was in effect on the day before November 13, 1998, and in addition dental hygiene programs that are accredited by the Commission on Dental Accreditation.
+&emsp;&emsp;For purposes of this subsection, the dental schools and programs referred to in this subparagraph are dental schools and programs that were described in section 294o(b)(4)(B) of this title as such section was in effect on the day before November 13, 1998, and in addition dental hygiene programs that are accredited by the Commission on Dental Accreditation.
 
 #### (2) Application
 
@@ -46,7 +46,7 @@
 
 #### (3) Distribution
 
-&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV/AIDS served and the unreimbursed oral healthcare costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
+&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV/AIDS served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
 
 #### (4) Maintenance of effort
 
@@ -94,9 +94,9 @@ Subsec. (c). Pub. L. 109–415, §602(b), reenacted heading without change and a
 
 Subsec. (a)(1)(D). Pub. L. 106–345, §402(a)(1)(B)–(D), added subpar. (D).
 
-Subsec. (b)(1). Pub. L. 106–345, §402(b)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary may make grants to assist dental schools and programs described in section 294<i>o</i>(b)(4)(B) of this title with respect to oral health care to patients with HIV disease.”
+Subsec. (b)(1). Pub. L. 106–345, §402(b)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary may make grants to assist dental schools and programs described in section 294o(b)(4)(B) of this title with respect to oral health care to patients with HIV disease.”
 
-Subsec. (b)(2). Pub. L. 106–345, §402(b)(2), substituted “the section referred to in paragraph (1)(B)” for “294<i>o</i>(b)(4)(B) of this title”.
+Subsec. (b)(2). Pub. L. 106–345, §402(b)(2), substituted “the section referred to in paragraph (1)(B)” for “294o(b)(4)(B) of this title”.
 
 Subsec. (b)(5). Pub. L. 106–345, §402(b)(3), added par. (5).
 
@@ -114,7 +114,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted “and” after
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: “to train practitioners to provide for the health care needs of such individuals;”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section:
 

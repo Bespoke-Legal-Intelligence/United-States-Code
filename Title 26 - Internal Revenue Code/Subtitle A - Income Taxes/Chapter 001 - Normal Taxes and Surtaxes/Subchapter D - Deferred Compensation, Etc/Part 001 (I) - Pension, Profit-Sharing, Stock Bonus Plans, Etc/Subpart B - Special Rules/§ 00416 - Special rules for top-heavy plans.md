@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
 
-> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
+> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginningafter December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
 
 #### (B) Percentage owners
 
@@ -460,7 +460,7 @@ Amendment by section 1452(c)(7) of Pub. L. 104–188 applicable to limitation ye
 
 #### Effective Date of 1988 Amendment
 
-Section 1011(j)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988.”
+Pub. L. 100–647, title I, §1011(j)(3)(B), Nov. 10, 1988, 102 Stat. 3468, provided that: “The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988.”
 
 Amendment by section 1011(d)(8), (i)(4)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -468,23 +468,23 @@ Amendment by section 1011(d)(8), (i)(4)(B) of Pub. L. 100–647 effective, excep
 
 Amendment by section 1106(d)(3)(A), (B) of Pub. L. 99–514 applicable to benefits accruing in years beginning after Dec. 31, 1988, except as otherwise provided, see section 1106(i)(5) of Pub. L. 99–514, set out as a note under section 415 of this title.
 
-Section 1118(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning after December 31, 1986.”
+Pub. L. 99–514, title XI, §1118(b), Oct. 22, 1986, 100 Stat. 2463, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning after December 31, 1986.”
 
 Amendment by section 1852(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 524(a)(2) of Pub. L. 98–369 provided that: “The amendment made by this subsection \[amending thissection\] shall apply to plan years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title V, §524(a)(2), July 18, 1984, 98 Stat. 872, provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1983.”
 
-Section 524(b)(2) of Pub. L. 98–369 provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title V, §524(b)(2), July 18, 1984, 98 Stat. 872, provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
 
-Section 524(c)(2) of Pub. L. 98–369 provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title V, §524(c)(2), July 18, 1984, 98 Stat. 872, provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
 
 Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date
 
-Section 241 of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §241, Sept. 3, 1982, 96 Stat. 520, provided that:
 
 “(a)
 

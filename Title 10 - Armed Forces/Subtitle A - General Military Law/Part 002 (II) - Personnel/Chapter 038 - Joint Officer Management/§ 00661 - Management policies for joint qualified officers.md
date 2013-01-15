@@ -164,7 +164,7 @@ Plan required.—Not later than March 31, 2007, the Secretary of Defense shall s
 
 “(2)
 
-Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect beforeOctober 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
+Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect before October 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
 
 &emsp;“(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 of title 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
 
@@ -186,7 +186,7 @@ Pub. L. 102–484, div. A, title IV, §404, Oct. 23, 1992, 106 Stat. 2398, direc
 
 #### Transition to Joint Officer Personnel Policy
 
-Section 406(a)–(c) of Pub. L. 99–433, as amended by Pub. L. 100–456, div. A, title V, §516, Sept. 29, 1988, 102 Stat. 1971, provided that:
+Pub. L. 99–433, title IV, §406(a)–(c), Oct. 1, 1986, 100 Stat. 1033, as amended by Pub. L. 100–456, div. A, title V, §516, Sept. 29, 1988, 102 Stat. 1971, provided that:
 
 “(a)
 
@@ -200,7 +200,7 @@ Joint Specialty.—
 
 &emsp;“(1)
 
-Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
+Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added bysection 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
 
 &emsp;“(B) In applying such subparagraph (B) to the initial selections of officers for the joint specialty, the Secretary may in the case of any officer—
 

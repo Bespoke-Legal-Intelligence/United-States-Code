@@ -10,7 +10,7 @@ There is within the Department an Office of Counterintelligence.
 
 (2) The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to counterintelligence.
 
-(3) The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The service of an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
+(3) The Director of the Federal Bureau of Investigation may detail, on a reimbursable basis, any employee of the Bureau to the Department for service as Director of the Office. The serviceof an employee of the Bureau as Director of the Office shall not result in any loss of status, right, or privilege by the employee within the Bureau.
 
 #### (c) Duties
 

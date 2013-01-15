@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(iv) eligible individuals who are individuals with greatest social need;
 
-&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49<i>l</i>–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
+&emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
 
 &emsp;&emsp;(E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
@@ -136,7 +136,7 @@ The Secretary shall not delegate any function of the Secretary under this subcha
 
 #### (g) Evaluations
 
-The Secretary shall establish by rule and implement a process to evaluate, in accordance with section 3056k of this title, the performance of projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
+The Secretary shall establish by rule and implement a process to evaluate, in accordance with section 3056k of this title, the performanceof projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
 
 (Pub. L. 89–73, title V, §503, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2571.)
 

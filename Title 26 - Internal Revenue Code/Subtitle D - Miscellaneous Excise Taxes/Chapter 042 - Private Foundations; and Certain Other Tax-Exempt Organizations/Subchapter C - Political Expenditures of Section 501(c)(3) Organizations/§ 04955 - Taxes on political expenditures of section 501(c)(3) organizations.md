@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### Effective Date of 1996 Amendment
 
-Section 1311(d)(1), (2) of Pub. L. 104–168 provided that:
+Pub. L. 104–168, title XIII, §1311(d)(1), (2), July 30, 1996, 110 Stat. 1478, provided that:
 
 “(1)
 
@@ -106,5 +106,5 @@ Binding contracts.—The amendments referred to in paragraph (1) shall not apply
 
 #### Effective Date
 
-Section 10712(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title X, §10712(d), Dec. 22, 1987, 101 Stat. 1330–468, provided that: “The amendments made by this section \[enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
 

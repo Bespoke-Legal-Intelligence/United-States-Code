@@ -70,7 +70,7 @@ Amendment by section 1901(b)(27)(A) of Pub. L. 94–455 applicable with respect 
 
 #### Export Trade Corporations
 
-Section 505(a), (b) of Pub. L. 92–178, title V, Dec. 10, 1971, 85 Stat. 551, provided as follows:
+Pub. L. 92–178, title V, §505(a), (b), Dec. 10, 1971, 85 Stat. 551, provided that:
 
 “(a)
 

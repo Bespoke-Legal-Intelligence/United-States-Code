@@ -52,7 +52,7 @@ The Management Conference shall establish a multi-disciplinary environmental res
 
 &emsp;(B) incorporate environmental management concepts and programs established in State and Federal plans and programs in effect at the time of the development of such plan;
 
-&emsp;(C) clarify the duties of Federal and State agencies in pollution prevention and controlactivities, and to the extent allowable by law, suggest a timetable for adoption by the appropriate Federal and State agencies to accomplish such duties within a reasonable period of time;
+&emsp;(C) clarify the duties of Federal and State agencies in pollution prevention and control activities, and to the extent allowable by law, suggest a timetable for adoption by the appropriate Federal and State agencies to accomplish such duties within a reasonable period of time;
 
 &emsp;(D) describe the methods and schedules for funding of programs, activities, and projects identified in the Plan, including the use of Federal funds and other sources of funds;
 

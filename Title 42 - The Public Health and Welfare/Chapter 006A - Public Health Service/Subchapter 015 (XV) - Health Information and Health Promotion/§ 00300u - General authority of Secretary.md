@@ -16,7 +16,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) establish systematic processes for the exploration, development, demonstration, and evaluation of innovative health promotion concepts;
 
-&emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services,and education in the appropriate use of health care;
 
 &emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
@@ -98,7 +98,7 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 
 #### Executive Order No. 12345
 
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below,prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
+Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
 #### Ex. Ord. No. 13265. President's Council on Fitness, Sports, and Nutrition
 
@@ -198,7 +198,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authorityand funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
@@ -220,7 +220,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (Secretary) shall establish within the Office of the Secretary the position of National Health Information Technology Coordinator.
 
-(b) The National Health Information Technology Coordinator (National Coordinator), appointed by theSecretary in consultation with the President or his designee, will report directly to the Secretary.
+(b) The National Health Information Technology Coordinator (National Coordinator), appointed by the Secretary in consultation with the President or his designee, will report directly to the Secretary.
 
 (c) The Secretary shall provide the National Coordinator with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
 
@@ -258,7 +258,7 @@ Sec. 3. <i>Responsibilities of the National Health Information Technology Coordi
 
 &emsp;(i) Serve as the Secretary's principal advisor on the development, application, and use of health information technology, and direct the Department of Health and Human Service's health information technology programs;
 
-&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
+&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplicationof efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
 
 &emsp;(iii) To the extent permitted by law, coordinate outreach and consultation by the relevant executive branch agencies (including Federal commissions) with public and private parties of interest, including consumers, providers, payers, and administrators; and
 
@@ -288,7 +288,7 @@ Sec. 2. <i>Definitions</i>. For purposes of this order:
 
 (a) “Agency” means an agency of the Federal Government that administers or sponsors a Federal health care program.
 
-(b) “Federal health care program” means the Federal Employees Health Benefit Program, the Medicare program, programs operated directly by the Indian Health Service, the TRICARE program for the Department of Defense and other uniformed services, and the healthcare program operated by the Department of Veterans Affairs. For purposes of this order, “Federal health care program” does not include State operated or funded federally subsidized programs such as Medicaid, the State Children's Health Insurance Program, or services provided to Department of Veterans’ Affairs beneficiaries under 38 U.S.C. 1703.
+(b) “Federal health care program” means the Federal Employees Health Benefit Program, the Medicare program, programs operated directly by the Indian Health Service, the TRICARE program for the Department of Defense and other uniformed services, and the health care program operated by the Department of Veterans Affairs. For purposes of this order, “Federal health care program” does not include State operated or funded federally subsidized programs such as Medicaid, the State Children's Health Insurance Program, or services provided to Department of Veterans’ Affairs beneficiaries under 38 U.S.C. 1703.
 
 (c) “Interoperability” means the ability to communicate and exchange data accurately, effectively, securely, and consistently with different information technology systems, software applications, and networks in various settings, and exchange data such that clinical or operational purpose and meaning of the data are preserved and unaltered.
 

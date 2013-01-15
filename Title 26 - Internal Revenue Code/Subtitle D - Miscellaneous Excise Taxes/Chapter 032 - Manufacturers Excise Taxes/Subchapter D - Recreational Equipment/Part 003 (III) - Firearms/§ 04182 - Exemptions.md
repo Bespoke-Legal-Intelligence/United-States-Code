@@ -16,7 +16,7 @@ No firearms, pistols, revolvers, shells, and cartridges purchased with funds app
 
 #### (2) Controlled groups
 
-&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52shall be treated as one person for purposes of paragraph (1).
+&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52 shall be treated as one person for purposes of paragraph (1).
 
 #### (d) Records
 
@@ -44,5 +44,5 @@ No inference.—Nothing in the amendments made by this section shall be construe
 
 #### Short Title of 1969 Amendment
 
-Section 1(a) of Pub. L. 91–128 provided that: “This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
+Pub. L. 91–128, §1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
 

@@ -56,7 +56,7 @@ Not later than October 1, 1993, the Secretary shall report to the Committee on A
 
 November 28, 1990, referred to in subsec. (a)(1)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–624, which enacted this section, to reflect the probable intent of Congress.
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

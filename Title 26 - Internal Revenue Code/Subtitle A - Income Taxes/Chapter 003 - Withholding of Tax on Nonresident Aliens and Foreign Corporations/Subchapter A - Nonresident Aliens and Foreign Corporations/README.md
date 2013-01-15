@@ -7,7 +7,7 @@
 | [1443\.](%C2%A7%2001443%20-%20Foreign%20tax-exempt%20organizations.md) | Foreign tax-exempt organizations. |
 | [1444\.](%C2%A7%2001444%20-%20Withholding%20on%20Virgin%20Islands%20source%20income.md) | Withholding on Virgin Islands source income. |
 | [1445\.](%C2%A7%2001445%20-%20Withholding%20of%20tax%20on%20dispositions%20of%20United%20States%20real%20property%20interests.md) | Withholding of tax on dispositions of United States real property interests. |
-| [1446\.](%C2%A7%2001446%20-%20Withholding%201%20tax%20on%20foreign%20partners%E2%80%99%20share%20of%20effectively%20connected%20income.md) | Withholding of tax on foreign partners’ share of effectively connected income. |
+| [1446\.](%C2%A7%2001446%20-%20Withholding%20tax%20on%20foreign%20partners%E2%80%99%20share%20of%20effectively%20connected%20income.md) | Withholding of tax on foreign partners’ share of effectively connected income.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,6 +21,8 @@
 
 <b>1983</b>—Pub. L. 97–455, §1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -31,4 +33,4 @@
 - [&sect; 01443 - Foreign tax-exempt organizations](%C2%A7%2001443%20-%20Foreign%20tax-exempt%20organizations.md)
 - [&sect; 01444 - Withholding on Virgin Islands source income](%C2%A7%2001444%20-%20Withholding%20on%20Virgin%20Islands%20source%20income.md)
 - [&sect; 01445 - Withholding of tax on dispositions of United States real property interests](%C2%A7%2001445%20-%20Withholding%20of%20tax%20on%20dispositions%20of%20United%20States%20real%20property%20interests.md)
-- [&sect; 01446 - Withholding 1 tax on foreign partners&#8217; share of effectively connected income](%C2%A7%2001446%20-%20Withholding%201%20tax%20on%20foreign%20partners%E2%80%99%20share%20of%20effectively%20connected%20income.md)
+- [&sect; 01446 - Withholding tax on foreign partners&#8217; share of effectively connected income](%C2%A7%2001446%20-%20Withholding%20tax%20on%20foreign%20partners%E2%80%99%20share%20of%20effectively%20connected%20income.md)

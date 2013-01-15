@@ -2,7 +2,7 @@
 
 #### (a) Available programs
 
-In accordance with section 1471c(a) of this title, the Secretary shall make one or more of the following assistance programs available to qualifying livestock producers in a State, county or area, if the Secretary determines that the livestock emergency in such State, county or area requires the implementation of such program:
+In accordance with section 1471c(a) of this title, the Secretary shall make one or more of the following assistance programs available to qualifying livestock producers in a State, county or area, if the Secretary determines that thelivestock emergency in such State, county or area requires the implementation of such program:
 
 &emsp;(1) The donation of feed grain owned by the Commodity Credit Corporation to producers who are financially unable to purchase feed under paragraph (2) or to participate in any other program authorized under this subsection.
 
@@ -80,7 +80,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Emergency Forage Program
 
-Section 103 of Pub. L. 100–387 provided that:
+Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, provided that:
 
 “(a)
 

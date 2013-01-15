@@ -72,7 +72,7 @@ Pub. L. 103–411, §1, Oct. 25, 1994, 108 Stat. 4236, provided that: “This Ac
 
 #### Short Title of 1991 Amendment
 
-Section 1 of Pub. L. 102–240 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Intermodal Surface Transportation Efficiency Act of 1991’.”
+Pub. L. 102–240, §1, Dec. 18, 1991, 105 Stat. 1914, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Intermodal Surface Transportation Efficiency Act of 1991’.”
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
@@ -80,13 +80,13 @@ Pub. L. 111–314, §4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: “I
 
 #### Congressional Declaration of Policy Regarding National Intermodal Transportation System
 
-Section 2 of Pub. L. 102–240, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as section 5501 of this title by Pub. L. 103–272, §§1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
+Pub. L. 102–240, §2, Dec. 18, 1991, 105 Stat. 1914, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as section 5501 of this title by Pub. L. 103–272, §§1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
 
 #### “Secretary” Defined
 
 Pub. L. 106–159, §2, Dec. 9, 1999, 113 Stat. 1749, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-Section 3 of Pub. L. 102–240 provided that: “As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term ‘Secretary’ means the Secretary of Transportation.”
+Pub. L. 102–240, §3, Dec. 18, 1991, 105 Stat. 1915, provided that: “As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Ex. Ord. No. 13330. Human Service Transportation Coordination
 

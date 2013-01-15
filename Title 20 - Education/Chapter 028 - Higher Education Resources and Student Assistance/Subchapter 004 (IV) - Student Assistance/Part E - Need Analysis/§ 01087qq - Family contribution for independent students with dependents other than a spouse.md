@@ -52,7 +52,6 @@ Percentages for Computation of State and Other Tax Allowance
 | &nbsp; |  |  |
 | (1)then the percentage is— |  |  |
 |  |  |  |
-|  |  |  |
 | Alaska, Puerto Rico, Wyoming | &nbsp;3 | &nbsp;2 |
 | American Samoa, Guam, Louisiana, Nevada, Texas, Trust Territory, Virgin Islands | &nbsp;4 | &nbsp;3 |
 | Florida, South Dakota, Tennessee, New Mexico | &nbsp;5 | &nbsp;4 |
@@ -191,7 +190,6 @@ Asset Protection Allowances for Families and Students
 | &nbsp; |  |  |
 | (1)then the allowance is— |  |  |
 |  |  |  |
-|  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
 | 26 | &nbsp;2,200 | &nbsp;1,600 |
 | 27 | &nbsp;4,300 | &nbsp;3,200 |
@@ -312,7 +310,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087<i>oo</i> of this title.
+Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087oo of this title.
 
 #### Effective Date of 2006 Amendment
 

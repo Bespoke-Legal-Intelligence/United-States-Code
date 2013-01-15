@@ -1,14 +1,8 @@
 ### §172. Right of priority
 
-The right of priority provided for by subsections (a) through (d) of section 119 of this title and the time specified in section 102(d) shall be six months in the case of designs. The right of priority provided for by section 119(e) of this title shall not apply to designs.
+The right of priority provided for by subsections (a) through (d) of section 119 shall be six months in the case of designs. The right of priority provided for by section 119(e) shall not apply to designs.
 
 (July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 103–465, title V, §532(c)(2), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 112–29, §§3(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §3(g)(1), (n), Sept. 16, 2011, 125 Stat. 288, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended by striking “and the time specified in section 102(d)”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -26,9 +20,9 @@ Pub. L. 112–29, §3(g)(1), struck out “and the time specified in section 102
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 3(g)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Amendment by section 3(g)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, seesection 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1994 Amendment
 

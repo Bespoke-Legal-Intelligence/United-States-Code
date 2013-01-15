@@ -50,15 +50,15 @@ For the purposes of this subchapter—
 
 (k) The term “modernization” includes alteration, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and replacement of obsolete, built-in (as determined in accordance with regulations) equipment of existing buildings.
 
-(<i>l</i>) The term “title”, when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years’ undisturbed use and possession for the purposes of construction and operation of the project.
+(l) The term “title”, when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years’ undisturbed use and possession for the purposes of construction and operation of the project.
 
 (July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
 
 #### Prior Provisions
 
-A prior section 291<i>o</i>, act July 1, 1944, ch. 373, title VI, §641, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291 of this title.
+A prior section 291o, act July 1, 1944, ch. 373, title VI, §641, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291 of this title.
 
-Provisions similar to those comprising this section were contained in section 291i(d) to (<i>o</i>), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, §1(b), 62 Stat. 531; Oct. 25, 1949, ch. 722, §9, 63 Stat. 901; July 12, 1954, ch. 471, §4(c) to (f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, §19(b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, §5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in section 291i(d) to (o), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, §1(b), 62 Stat. 531; Oct. 25, 1949, ch. 722, §9, 63 Stat. 901; July 12, 1954, ch. 471, §4(c) to (f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, §19(b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, §5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 
@@ -78,15 +78,15 @@ Subsec. (i). Pub. L. 91–296, §118, inserted reference to equipment of any bui
 
 #### Effective Date of 1970 Amendment
 
-Section 113 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
+Pub. L. 91–296, title I, §113, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
-Section 114(a) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+Pub. L. 91–296, title I, §114(a), June 30, 1970, 84 Stat. 341, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-Section 116(g) of Pub. L. 91–296 provided that: “The amendments made by subsection (e) \[amending this section\] and paragraphs (2) and (3) of subsection (f) of this section \[amending section 291e of this title\] shall apply with respect to applications approved under title VI of such Act \[this subchapter\] after June 30, 1970.”
+Pub. L. 91–296, title I, §116(g), June 30, 1970, 84 Stat. 342, provided that: “The amendments made by subsection (e) \[amending this section\] and paragraphs (2) and (3) of subsection (f) of this section \[amending section 291e of this title\] shall apply with respect to applications approved under title VI of such Act \[this subchapter\] after June 30, 1970.”
 
-Section 117 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
+Pub. L. 91–296, title I, §117, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-Section 118 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
+Pub. L. 91–296, title I, §118, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
 Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
 

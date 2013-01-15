@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit informationrequired under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Limitation
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;Not later than October 1, 2011, the Secretary shall establish procedures—
 
-&emsp;&emsp;&emsp;(i) for applicable manufacturers and applicable group purchasing organizations to submit information to the Secretary under subsection (a); and
+&emsp;&emsp;&emsp;(i) for applicable manufacturers and applicable group purchasing organizations tosubmit information to the Secretary under subsection (a); and
 
 &emsp;&emsp;&emsp;(ii) for the Secretary to make such information submitted available to the public.
 
@@ -250,7 +250,7 @@ In this section:
 
 #### (9) Manufacturer of a covered drug, device, biological, or medical supply
 
-&emsp;The term “manufacturer of a covered drug, device, biological, or medical supply” means any entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation, propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
+&emsp;The term “manufacturer of a covered drug, device, biological, or medical supply” meansany entity which is engaged in the production, preparation, propagation, compounding, or conversion of a covered drug, device, biological, or medical supply (or any entity under common ownership with such entity which provides assistance or support to such entity with respect to the production, preparation, propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological, or medical supply).
 
 #### (10) Payment or other transfer of value
 
@@ -282,7 +282,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(x) In the case of an applicable manufacturer who offers a self-insured plan, payments for the provision of health care to employees under the plan.
 
-&emsp;&emsp;&emsp;(xi) In the case of a covered recipient who is a licensed non-medical professional, a transfer of anything of value to the covered recipient if the transfer is payment solely for the non-medical professionalservices of such licensed non-medical professional.
+&emsp;&emsp;&emsp;(xi) In the case of a covered recipient who is a licensed non-medical professional, a transfer of anything of value to the covered recipient if the transfer is payment solely for the non-medical professional services of such licensed non-medical professional.
 
 &emsp;&emsp;&emsp;(xii) In the case of a covered recipient who is a physician, a transfer of anything of value to the covered recipient if the transfer is payment solely for the services of the covered recipient with respect to a civil or criminal action or an administrative proceeding.
 

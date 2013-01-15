@@ -28,7 +28,7 @@ In subsection (b), the words “in carrying out” are substituted for the words
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before “The Secretaries” and struck out subsec. (b) which read as follows: “The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress.”
+<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before “The Secretaries” and struck out subsec.\(b) which read as follows: “The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress.”
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both” for “a joint board of officers selected by them”.
 

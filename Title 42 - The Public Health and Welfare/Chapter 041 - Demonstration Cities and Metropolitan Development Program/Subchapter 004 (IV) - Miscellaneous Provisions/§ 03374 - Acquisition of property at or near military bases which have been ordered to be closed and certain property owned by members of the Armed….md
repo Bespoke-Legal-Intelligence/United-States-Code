@@ -162,7 +162,7 @@
 
 #### (d) Fund for extension of financial assistance; capital and receipts; availability of monies; covering into Treasury as miscellaneous receipts; Federal title to and control of property; other laws unaffected; foreign properties, exclusion
 
-There shall be in the Treasury a fund which shall be available to the Secretary of Defense for the purpose of extending the financial assistance provided above. The capital of such fund shall consist of such sums as may, from time to time, be appropriated thereto, and shall consist also of receipts from the management, rental, or sale of properties acquired under this section, which receipts shall be credited to the fund and shall be available, together with funds appropriated therefor, for purchase or reimbursement purposes as provided above, as well as to defray expenses arising in connection with the acquisition, management, and disposal of such properties, including payment of principal, interest, and expenses of mortgages or other indebtedness thereon, and including the cost of staff services and contract services, costs of insurance, and other indemnity. Any part of such receipts not required for such expenses shall be covered into the Treasury as miscellaneous receipts. Properties acquired under this section shall be conveyed to, and acquired in the name of, the United States. The Secretary of Defense shall have the power to deal with, rent, renovate, and dispose of, whether by sales for cash or credit or otherwise, any properties so acquired: <i>Provided, however</i>, That no contract for acquisition, or acquisition, shall be deemed to constitute a contract for or acquisition of family housing units in support of military installations or activities within the meaning of section 1594i <sup>2</sup> of this title, nor shall it be deemed a transaction within the contemplation of section 2662 of title 10: <i>Provided further</i>, That no properties in foreign countries shall be acquired under this section, except in connection with compensation for property located on a base or installation pursuant to subsection (<i>l</i>) of this section.
+There shall be in the Treasury a fund which shall be available to the Secretary of Defense for the purpose of extending the financial assistance provided above. The capital of such fund shall consist of such sums as may, from time to time, be appropriated thereto, and shall consist also of receipts from the management, rental, or sale of properties acquired under this section, which receipts shall be credited to the fund and shall be available, together with funds appropriated therefor, for purchase or reimbursement purposes as provided above, as well as to defray expenses arising in connection with the acquisition, management, and disposal of such properties, including payment of principal, interest, and expenses of mortgages or other indebtedness thereon, and including the cost of staff services and contract services, costs of insurance, and other indemnity. Any part of such receipts not required for such expenses shall be covered into the Treasury as miscellaneous receipts. Properties acquired under this section shall be conveyed to, and acquired in the name of, the United States. The Secretary of Defense shall have the power to deal with, rent, renovate, and dispose of, whether by sales for cash or credit or otherwise, any properties so acquired: <i>Provided, however</i>, That no contract for acquisition, or acquisition, shall be deemed to constitute a contract for or acquisition of family housing units in support of military installations or activities within the meaning of section 1594i <sup>2</sup> of this title, nor shall it be deemed a transaction within the contemplation of section 2662 of title 10: <i>Provided further</i>, That no properties in foreign countries shall be acquired under this section, except in connection with compensation for property located on a base or installation pursuant to subsection (l) of this section.
 
 #### (e) Fund as source of payments to States in lieu of taxes; limitation on amount; allowance for public service expenditures
 
@@ -184,9 +184,9 @@ No funds may be appropriated for the acquisition of any property under authority
 
 #### (k) Reduction of operations at military base or installation
 
-The authority provided by this section to the Secretary of Defense shall also be available when the Department of Defense has ordered a reduction in the scope of operations at a military base or installation. All references in subsections (a), (b), (c), (n), and (<i>o</i>) of this section to “closures” or “closings” or words of similar effect shall be deemed to include the reduction in scope of operations at a base or installation.
+The authority provided by this section to the Secretary of Defense shall also be available when the Department of Defense has ordered a reduction in the scope of operations at a military base or installation. All references in subsections (a), (b), (c), (n), and (o) of this section to “closures” or “closings” or words of similar effect shall be deemed to include the reduction in scope of operations at a base or installation.
 
-#### (<i>l</i>) Foreign property losses
+#### (l) Foreign property losses
 
 Notwithstanding the provisions of subsection (a)(1)(A)(ii) and subsection (b)(5) of this section, Federal employees or military personnel employed at or near a military base or installation outside the United States who are otherwise eligible under the criteria as set forth above shall be entitled to compensation for losses arising (1) out of the sale of property, or (2) out of the inability to sell property located on a base or installation, incident to the owner's transfer, reassignment, or involuntary termination of employment, which results in his relocation. Such employees or military personnel whose property is located off a base or installation shall be entitled to compensation under subsection (c) of this section for losses sustained in private sales. Such employees or personnel whose property is located on a base or installation, who sell or are unable to find a purchaser for such property, may surrender their interest in such property to the United States, and shall be entitled to compensation, notwithstanding lack of ownership of the land on which such property is located, in an amount equal to (A) 90 per centum of the sum of the present owner's purchase price of the dwelling and improvements, and all costs of ownership including interest on notes, utilities and services, maintenance and insurance, less (B) the total of all housing allowances received from the Government during ownership and occupancy of the dwelling, all rents collected, and the sale price, if any, received for the property, as determined by the Secretary of Defense: <i>Provided, however</i>, That the maximum compensation shall in no event exceed 90 per centum of the unamortized portion of the cost of the property, including improvements, at the time ownership is terminated, as reflected in the amortization schedule, if any, relating to such property. For the purpose of this subsection, the term “United States” means the several States and the District of Columbia.
 
@@ -200,7 +200,7 @@ In addition to the coverage provided above, the benefits of subsection (a)(1) sh
 
 (2) The Secretary of the department in which the Coast Guard is operating, if other than the Department of Defense, shall reimburse the Secretary of Defense for expenditures under subsection (a)(1) made by the Secretary of Defense with respect to closings of Coast Guard bases and installations ordered when the Coast Guard is not operating as a service in the Navy. TheSecretary of Defense and the Secretary of the department in which the Coast Guard is operating shall enter into an agreement under which the Secretary of the department in which the Coast Guard is operating shall carry out such reimbursement.
 
-#### (<i>o</i>) Relocation assistance for nonappropriated fund instrumentality and other civilian employees
+#### (o) Relocation assistance for nonappropriated fund instrumentality and other civilian employees
 
 (1) Assistance under subsection (a)(1) shall be provided by the Secretary of Defense with respect to nonappropriated fund instrumentality employees adversely affected by the closure of a base or installation ordered to be closed, in whole or in part, after December 31, 1988.
 
@@ -260,7 +260,7 @@ Subsec. (c). Pub. L. 111–5, §1001(a)(3), revised and restructured subsec. (c)
 
 Subsec. (g). Pub. L. 111–5, §1001(a)(4), struck out subsec. (g). Text read as follows: “The Secretary of Defense is authorized to enter into such agreement with the Secretary of Housing and Urban Development as may be appropriate for the purposes of economy and efficiency of administration of this section. Such agreement may provide authority to the Secretary of Housing and Urban Development and his designee to make any or all of the determinations and take any or all of the actions which the Secretary of Defense is authorized to undertake pursuant to the preceding provisions of this section. Any such determinations shall be entitled to finality to the same extent as if made by the Secretary of Defense, and, in event the Secretaries of Defense and Housing and Urban Development so elect, the fund established pursuant to subsection (d) of this section shall be available to the Secretary of Housing and Urban Development to carry out the purposes thereof.”
 
-Subsec. (<i>l</i>). Pub. L. 111–5, §1001(a)(5), substituted “(a)(1)(A)(ii)” for “(a)(2)”.
+Subsec. (l). Pub. L. 111–5, §1001(a)(5), substituted “(a)(1)(A)(ii)” for “(a)(2)”.
 
 Subsec. (m). Pub. L. 111–5, §1001(a)(6), substituted “subsection (a)(1)” for “this section”.
 
@@ -268,9 +268,9 @@ Subsec. (n)(1). Pub. L. 111–5, §1001(a)(7)(A), which directed substitution of
 
 Subsec. (n)(2). Pub. L. 111–5, §1001(a)(7)(B), substituted “subsection (a)(1)” for “this section”.
 
-Subsec. (<i>o</i>)(1), (2). Pub. L. 111–5, §1001(a)(8)(A), (B), substituted “subsection (a)(1)” for “this section”.
+Subsec. (o)(1), (2). Pub. L. 111–5, §1001(a)(8)(A), (B), substituted “subsection (a)(1)” for “this section”.
 
-Subsec. (<i>o</i>)(4). Pub. L. 111–5, §1001(a)(8)(C), struck out par. (4) which defined “nonappropriated fund instrumentality employee” and “civilian employee”.
+Subsec. (o)(4). Pub. L. 111–5, §1001(a)(8)(C), struck out par. (4) which defined “nonappropriated fund instrumentality employee” and “civilian employee”.
 
 Subsec. (p). Pub. L. 111–5, §1001(a)(9), added subsec. (p).
 
@@ -290,15 +290,15 @@ Subsec. (b). Pub. L. 102–190, §2823(a), (b)(2), (3), substituted pars. (1) to
 
 &emsp;“(3) transferred from the installation or activity on an overseas tour unaccompanied by dependents within fifteen months prior to public announcement of the closure action:”.
 
-Subsec. (<i>l</i>). Pub. L. 102–190, §2823(b)(4), substituted “subsection (b)(5)” for “the second proviso of subsection (b)”.
+Subsec. (l). Pub. L. 102–190, §2823(b)(4), substituted “subsection (b)(5)” for “the second proviso of subsection (b)”.
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §331(1), inserted “, a nonappropriated fund instrumentality employee employed at a nonappropriated fund instrumentality operated in connection with such base or installation,” after “limitation)”.
 
 Subsec. (b)(1). Pub. L. 101–510, §331(2), inserted at end “or employed by a nonappropriated fund instrumentality operated in connection with such base or installation,”.
 
-Subsec. (k). Pub. L. 101–510, §331(3), substituted “(n), and (<i>o</i>)” for “and (n)”.
+Subsec. (k). Pub. L. 101–510, §331(3), substituted “(n), and (o)” for “and (n)”.
 
-Subsec. (<i>o</i>). Pub. L. 101–510, §331(4), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 101–510, §331(4), added subsec. (o).
 
 <b>1988</b>—Subsec. (k). Pub. L. 100–448, §11(1), substituted “(c), and (n)” for “and (c)”.
 
@@ -308,7 +308,7 @@ Subsec. (n). Pub. L. 100–448, §11(2), added subsec. (n).
 
 <b>1972</b>—Subsec. (d). Pub. L. 92–545 inserted “, except in connection with compensation for property located on a base or installation pursuant to subsection (j) of this section” to provision prohibiting acquisition of properties in foreign countries under this section.
 
-Subsec. (<i>l</i>). Pub. L. 92–545 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 92–545 added subsec. (l).
 
 <b>1970</b>—Subsec. (a)(3). Pub. L. 91–511 inserted “or if as the result of such action and other similar action in the same area,” after “part,”.
 
@@ -320,7 +320,7 @@ Subsec. (d). Pub. L. 91–142, §602(b), excluded acquisition of foreign propert
 
 #### Effective Date of 1970 Amendment
 
-Section 612 of Pub. L. 91–511 provided that the amendment made by that section is effective Oct. 28, 1969.
+Pub. L. 91–511, title VI, §612, Oct. 26, 1970, 84 Stat. 1225, provided that the amendment made by that section is effective Oct. 28, 1969.
 
 #### Transfer of Functions
 

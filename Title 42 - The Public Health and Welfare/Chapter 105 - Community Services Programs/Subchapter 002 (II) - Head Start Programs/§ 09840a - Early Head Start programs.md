@@ -28,7 +28,7 @@ In carrying out a program described in subsection (a) of this section, an entity
 
 &emsp;(10) in the case of a Head Start agency that operates a program and that also provides Head Start services through the age of mandatory school attendance, ensure that children and families participating in the program receive such services through such age;
 
-&emsp;(11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act (20U.S.C. 1431 et seq.), and with the agency responsible for administering section 5106a of this title;
+&emsp;(11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), and with the agency responsible for administering section 5106a of this title;
 
 &emsp;(12) meet such other requirements concerning design and operation of the program described in subsection (a) of this section as the Secretary may establish.
 
@@ -68,7 +68,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
+&emsp;In order to ensure the successful operation of programs assisted under this section, theSecretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
 
 #### (2) Training and technical assistance
 

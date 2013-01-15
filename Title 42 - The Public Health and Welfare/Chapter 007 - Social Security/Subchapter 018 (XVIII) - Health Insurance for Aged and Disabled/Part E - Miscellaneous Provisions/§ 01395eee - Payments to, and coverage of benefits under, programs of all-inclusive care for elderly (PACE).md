@@ -190,7 +190,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+�Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mm of this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
+&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mm of this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
 
 #### (2) Capitation amount
 
@@ -400,7 +400,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 &emsp;(1) Section 1395d of this title, insofar as it limits coverage of institutional services.
 
-&emsp;(2) Sections 1395e, 1395f, 1395<i>l</i>, and 1395ww of this title, insofar as such sections relate to rules for payment for benefits.
+&emsp;(2) Sections 1395e, 1395f, 1395l, and 1395ww of this title, insofar as such sections relate to rules for payment for benefits.
 
 &emsp;(3) Sections 1395f(a)(2)(B), 1395f(a)(2)(C), and 1395n(a)(2)(A) of this title, insofar as they limit coverage of extended care services or home health services.
 
@@ -456,7 +456,7 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 &emsp;“(3) Section 1395w–23(n) of this title, relating to the payment of performance bonuses.
 
-&emsp;“(4) Section 1395w–23(<i>o</i>) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding.
+&emsp;“(4) Section 1395w–23(o) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding.
 
 &emsp;“(5) Section 1395w–23(p) of this title, relating to transitional extra benefits.”
 
@@ -676,7 +676,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763,
 
 #### Transition; Regulations
 
-Section 4803 of title IV of Pub. L. 105–33, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that:
+Pub. L. 105–33, title IV, §4803, Aug. 5, 1997, 111 Stat. 549, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that:
 
 “(a)
 
@@ -758,7 +758,7 @@ State option to seek extension of current period.—A State may elect to maintai
 
 #### PACE Programs; Study and Reports
 
-Section 4804(a), (b) of title IV of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4804(a), (b), Aug. 5, 1997, 111 Stat. 551, provided that:
 
 “(a)
 

@@ -37,7 +37,7 @@
 - [&sect; 00488 - Allowance for recruiting expenses](%C2%A7%2000488%20-%20Allowance%20for%20recruiting%20expenses.md)
 - [&sect; 00489 - Travel and transportation allowances minor dependent schooling](%C2%A7%2000489%20-%20Travel%20and%20transportation%20allowances%20minor%20dependent%20schooling.md)
 - [&sect; 00490 - Travel and transportation dependent children of members stationed overseas](%C2%A7%2000490%20-%20Travel%20and%20transportation%20dependent%20children%20of%20members%20stationed%20overseas.md)
-- [&sect; 00431 - 1 Benefits for certain members assigned to the Defense Intelligence Agency](%C2%A7%2000431%20-%201%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md)
+- [&sect; 00491 - Benefits for certain members assigned to the Defense Intelligence Agency](%C2%A7%2000491%20-%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md)
 - [&sect; 00492 - Travel and transportation members escorting certain dependents](%C2%A7%2000492%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md)
 - [&sect; 00494 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000494%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
 - [&sect; 00495 - Funeral honors duty allowance](%C2%A7%2000495%20-%20Funeral%20honors%20duty%20allowance.md)

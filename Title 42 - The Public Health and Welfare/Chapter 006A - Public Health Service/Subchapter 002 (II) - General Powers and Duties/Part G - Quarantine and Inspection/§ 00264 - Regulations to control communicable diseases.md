@@ -82,7 +82,7 @@ Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain commun
 
 Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, §1, Apr. 1, 2005, 70 F.R. 17299, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
 
 Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the “Secretary”), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
 
@@ -102,5 +102,5 @@ Sec. 5. Executive Order 12452 of December 22, 1983, is hereby revoked.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

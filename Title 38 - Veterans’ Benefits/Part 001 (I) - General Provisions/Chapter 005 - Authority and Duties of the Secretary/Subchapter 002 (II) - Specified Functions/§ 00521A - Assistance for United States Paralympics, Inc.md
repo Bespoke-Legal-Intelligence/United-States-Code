@@ -52,7 +52,7 @@ Outreach Requirement.—As a condition of receiving a grant under this section, 
 
 (f)
 
-Coordination.—The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in the integrated adaptive sports program to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
+Coordination.—The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of theArmed Forces participating in the integrated adaptive sports program to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
 
 (g)
 
@@ -78,7 +78,7 @@ Annual Report to Secretary.—(1) As a condition of receiving a grant under this
 
 Annual Report to Congress.—For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-(<i>l</i>
+(l
 
 )
 

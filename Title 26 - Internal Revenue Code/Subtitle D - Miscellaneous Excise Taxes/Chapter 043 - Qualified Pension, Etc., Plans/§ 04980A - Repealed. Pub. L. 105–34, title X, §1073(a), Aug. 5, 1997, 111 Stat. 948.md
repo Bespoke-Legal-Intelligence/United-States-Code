@@ -4,7 +4,7 @@ Section, added Pub. L. 99–514, title XI, §1133(a), Oct. 22, 1986, 100 Stat. 2
 
 #### Effective Date of Repeal
 
-Section 1073(c) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1073(c), Aug. 5, 1997, 111 Stat. 948, provided that:
 
 “(1)
 

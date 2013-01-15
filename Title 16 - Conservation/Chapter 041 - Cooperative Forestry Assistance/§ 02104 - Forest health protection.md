@@ -36,7 +36,7 @@ Subject to subsections (c), (d), and (e) of this section and to such other condi
 
 #### (c) Consent of entity
 
-Operations under this section to prevent, retard, control, or suppress insects or diseases affecting forests and trees on land not controlled or administered by the Secretary shall not be conducted without the consent, cooperation, andparticipation of the entity having ownership of or jurisdiction over the affected land.
+Operations under this section to prevent, retard, control, or suppress insects or diseases affecting forests and trees on land not controlled or administered by the Secretary shall not be conducted without the consent, cooperation, and participation of the entity having ownership of or jurisdiction over the affected land.
 
 #### (d) Contribution by entity
 
@@ -106,7 +106,7 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Sta
 
 “(a)
 
-In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform servicesto achieve land management goals for the national forests and the public lands that meet local and rural community needs.
+In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
 
 “(b)
 
@@ -174,7 +174,7 @@ In general.—The Forest Service and the Bureau of Land Management may collect m
 
 &emsp;“(2)
 
-Use.—Monies from an agreement or contract under subsection (a) may be retained by the Forest Service and the Bureau of Land Management and shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site.
+Use.—Monies from an agreement or contract under subsection (a) may be retained by the ForestService and the Bureau of Land Management and shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site.
 
 &emsp;“(3)
 
@@ -384,7 +384,7 @@ Final Report.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall establish an independent scientific panel to review and report on whether, and to what extent, implementation of the pilot project under this section achieved the goals stated in the Quincy Library Group-Community Stability Proposal, including improved ecological health and community stability. The membership of the panel shall reflect expertise in diverse disciplines in order to adequately address all of those goals.
+In general.—The Secretary shall establish an independent scientific panel to review and report on whether, and to what extent, implementation of thepilot project under this section achieved the goals stated in the Quincy Library Group-Community Stability Proposal, including improved ecological health and community stability. The membership of the panel shall reflect expertise in diverse disciplines in order to adequately address all of those goals.
 
 &emsp;“(2)
 
@@ -402,7 +402,7 @@ Submission to the congress.—The panel shall submit the final report to the Con
 
 Limitation on expenditures.—The amount of Federal funds expended for the report under this subsection, other than for watershed monitoring, shall not exceed $350,000. The amount of Federal funds expended for watershed monitoring under this subsection shall not exceed $175,000 for each fiscal year in which the report is prepared.
 
-“(<i>l</i>)
+“(l)
 
 Relationship to Other Laws.—Nothing in this section exempts the pilot project from any Federal environmental law.
 

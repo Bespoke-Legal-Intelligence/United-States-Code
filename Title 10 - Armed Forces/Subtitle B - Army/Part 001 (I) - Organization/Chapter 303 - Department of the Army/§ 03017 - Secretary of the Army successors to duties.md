@@ -1,6 +1,6 @@
 ### §3017. Secretary of the Army: successors to duties
 
-If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs anotherperson to perform those duties or until the absence or disability ceases:
+If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
 &emsp;(1) The Under Secretary of the Army.
 
@@ -50,7 +50,7 @@ Section 3347 of title 5, referred to in text, was repealed and a new section 334
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

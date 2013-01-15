@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title X, §1031(a)(2), Jan. 28, 2008, 122 Stat. 306, added item 9626 and struck out former item 9626 “Aircraft supplies and services: foreign military or air attache�AE1”.
+<b>2008</b>—Pub. L. 110–181, div. A, title X, §1031(a)(2), Jan. 28, 2008, 122 Stat. 306, added item 9626 and struck out former item 9626 “Aircraft supplies and services: foreign military or air attaché”.
 
 <b>1998</b>—Pub. L. 105–261, div. A, title III, §366(b), Oct. 17, 1998, 112 Stat. 1987, struck out item 9623 “Tobacco: enlisted members of Air Force”.
 

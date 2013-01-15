@@ -26,7 +26,7 @@
 
 #### (1) Treasury fund
 
-&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall bemaintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
+&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
 
 #### (2) Nongovernment funds
 

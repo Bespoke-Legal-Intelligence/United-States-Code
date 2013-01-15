@@ -62,7 +62,7 @@ Pub. L. 111–281, title II, §208(b), title VIII, §§801(b), 804(b), 806(c)(2)
 
 Pub. L. 109–304, §15(33)(E), Oct. 6, 2006, 120 Stat. 1705, which directed the substitution of items 70117 to 70121 for items 70117 to 70119, was executed by making the substitution for items 70117 “Civil penalty”, 70118 “Enforcement”, 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty” to reflect the probable intent of Congress.
 
-Pub. L. 109–241, §901(<i>l</i>)(5), July 11, 2006, 120 Stat. 565, which directed amendment of analysis by striking items 70117 through the second 70119 and inserting items 70117 “Firearms, arrests, and seizure of property”, 70118 “Enforcement by State and local officers”, 70119 “Civil penalty”, 70120 “In rem liability for civil penalties and certain costs”, and 70121 “Withholding of clearance”, could not be executed because only one item 70119 appeared.
+Pub. L. 109–241, §901(l)(5), July 11, 2006, 120 Stat. 565, which directed amendment of analysis by striking items 70117 through the second 70119 and inserting items 70117 “Firearms, arrests, and seizure of property”, 70118 “Enforcement by State and local officers”, 70119 “Civil penalty”, 70120 “In rem liability for civil penalties and certain costs”, and 70121 “Withholding of clearance”, could not be executed because only one item 70119 appeared.
 
 <b>2004</b>—Pub. L. 108–293, title VIII, §802(c), Aug. 9, 2004, 118 Stat. 1080, added items 70117 “In rem liability for civil penalties and certain costs”, 70118 “Enforcement by injunction or withholding of clearance”, and 70119 “Civil penalty”, and struck out former item 70119 “Enforcement by State and local officers”.
 

@@ -80,5 +80,5 @@ Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as
 
 #### Segal AmeriCorps Education Award
 
-Pub. L. 109–234, title VII, §7014, June 15, 2006, 120 Stat. 484, provided that: “Any national service educational award described in subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.), made with funds appropriated to, funds transferred to, or interest accumulated in the National Service Trust, shall hereafter be known as a ‘Segal AmeriCorps Education Award’.”
+Pub. L. 109–234, title VII, §7014, June 15, 2006, 120 Stat. 484, provided that: “Any national service educationalaward described in subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.), made with funds appropriated to, funds transferred to, or interest accumulated in the National Service Trust, shall hereafter be known as a ‘Segal AmeriCorps Education Award’.”
 

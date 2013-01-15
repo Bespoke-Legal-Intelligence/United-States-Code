@@ -64,7 +64,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date
 
-Section 2302(c) of div. A of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2302(c), Sept. 30, 1996, 110 Stat. 3009–423, provided that:
 
 “(1)
 
@@ -86,7 +86,7 @@ Exception.—The privilege referred to in paragraph (1) does not apply to such a
 
 #### Regulations
 
-Section 2302(a)(2) of div. A of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title II, §2302(a)(2), Sept. 30, 1996, 110 Stat. 3009–421, provided that:
 
 “(A)
 

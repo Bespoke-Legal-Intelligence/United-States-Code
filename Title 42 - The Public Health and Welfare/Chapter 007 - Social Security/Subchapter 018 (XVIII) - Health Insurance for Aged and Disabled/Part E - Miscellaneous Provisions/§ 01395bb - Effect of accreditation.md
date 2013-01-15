@@ -18,7 +18,7 @@
 
 #### (b) Disclosure of accreditation survey
 
-The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency) made and released to the Secretary by the American Osteopathic Association or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
+The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency) made and released to the Secretary by the American Osteopathic Association or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey andinformation related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
 
 #### (c) Deficiencies
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of this subchapter, if the Secretary finds t
 
 For provisions relating to validation surveys of entities that are treated as meeting applicable conditions or requirements of this subchapter pursuant to subsection (a)(1), see section 1395aa(c) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub.L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) \[title V, §516(b), (c)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) \[title V, §516(b), (c)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519.)
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 110–275, §125(a), redesignated subsec. (e) as (d).
 
 <b>2003</b>—Subsec. (b)(3)(B). Pub. L. 108–173 substituted “sections” for “section”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: “In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(<i>o</i>), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding.” and redesignated fourth sentence as subsec. (c).
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: “In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding.” and redesignated fourth sentence as subsec. (c).
 
 Subsec. (b). Pub. L. 104–134, §101(d) \[title V, §516(b)(3)\], added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -80,15 +80,15 @@ Pub. L. 100–360, §204(c)(3), inserted “1395m(e)(3),” after “1395k(a)(2)
 
 Pub. L. 100–203, §4025(b), as added by Pub. L. 100–360, §411(d)(4)(B)(ii), as amended by Pub. L. 100–485, §608(d)(20)(D), inserted “(other than a survey with respect to a home health agency)” after “survey” in last sentence.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted “, requires a discharge planning process (or imposes another requirement which serves substantially the same purpose)” after “the same purpose)”, and “clause (A) or (B) of” after “comply also with” in second sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted “, requires a discharge planning process (or imposesanother requirement which serves substantially the same purpose)” after “the same purpose)”, and “clause (A) or (B) of” after “comply also with” in second sentence.
 
 Pub. L. 99–509, §9320(h)(3), substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)” in third sentence.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted “section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(<i>o</i>), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title” for “section 1395x(e), (j), (<i>o</i>), or (dd) of this title”, and substituted “entity” for “institution or agency” in two places.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted “section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title” for “section 1395x(e), (j), (o), or (dd) of this title”, and substituted “entity” for “institution or agency” in two places.
 
 Pub. L. 98–369, §2345(a), struck out “(on a confidential basis)” after “release to the Secretary” in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted “(<i>o</i>), or (dd)” for “or (<i>o</i>)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted “(o), or (dd)” for “or (o)”.
 
 Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted “a hospital” for “an institution” and “the hospital” for “such institution”.
 
@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted “a hospital” for “
 
 Pub. L. 110–275, title I, §125(d), July 15, 2008, 122 Stat. 2520, provided that:
 
-“(1) Subject to paragraph (2), the amendments made by this section \[amending this section and sections 1395m, 1395w–22, 1395x, 1395aa, and 1395<i>ll</i> of this title\] shall apply with respect to accreditations of hospitals granted on or after the date that is 24 months after the date of the enactment of this Act \[July 15, 2008\].
+“(1) Subject to paragraph (2), the amendments made by this section \[amending this section and sections 1395m, 1395w–22, 1395x, 1395aa, and 1395ll of this title\] shall apply with respect to accreditations of hospitals granted on or after the date that is 24 months after the date of the enactment of this Act \[July 15, 2008\].
 
 “(2) For purposes of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), the amendments made by this section shall not effect \[sic\] the accreditation of a hospital by the Joint Commission, or under accreditation or comparable approval standards found to be essentially equivalent to accreditation or approval standards of the Joint Commission, for the period of time applicable under such accreditation.”
 
@@ -108,11 +108,11 @@ Amendment by Pub. L. 103–432 applicable to mammography furnished by a facility
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
+Amendment by Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 6019(d) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6019(d), Dec. 19, 1989, 103 Stat. 2166, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].
 
@@ -122,7 +122,7 @@ Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap sm
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -144,9 +144,9 @@ Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furni
 
 #### Effective Date of 1984 Amendment
 
-Section 2345(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\], and shall apply with respect to surveys released to the Secretary on, before, or after such date.”
+Pub. L. 98–369, div. B, title III, §2345(b), July 18, 1984, 98 Stat. 1096, provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\], and shall apply with respect to surveys released to the Secretary on, before, or after such date.”
 
-Section 2346(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2346(b), July 18, 1984, 98 Stat. 1096, provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1982 Amendment
 

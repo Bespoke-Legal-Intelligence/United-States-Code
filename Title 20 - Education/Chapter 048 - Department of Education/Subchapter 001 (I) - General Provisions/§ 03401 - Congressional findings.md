@@ -26,7 +26,7 @@ The Congress finds that—
 
 #### Effective Date
 
-Section 601 of Pub. L. 96–88 provided that:
+Pub. L. 96–88, title VI, §601, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 “(a) The provisions of this Act \[see Short Title note below\] shall take effect one hundred and eighty days after the first Secretary takes office, or on any earlier date on or after October 1, 1979, as the President may prescribe and publish in the Federal Register \[prescribed as May 4, 1980, by Ex. Ord. No. 12212, formerly set out below\], except that at any time on or after October 1, 1979—
 
@@ -42,11 +42,11 @@ Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 96–88 provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Foodand Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
+Pub. L. 96–88, §1, Oct. 17, 1979, 93 Stat. 668, provided that: “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the ‘Department of Education Organization Act’.”
 
 #### Interim Appointments
 
-Section 602 of Pub. L. 96–88 provided that:
+Pub. L. 96–88, title VI, §602, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 “(a) In the event that one or more officers required by this Act \[see Short Title note above\] to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act \[May 4, 1980\] and notwithstanding any other provisions of law, the President may designate an officer in the executive branch to act in such office for one hundred and twenty days or until the office is filled as provided in this Act, whichever occurs first.
 

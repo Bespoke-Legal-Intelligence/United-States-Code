@@ -6,7 +6,7 @@ Anyone who—
 
 &emsp;(1) has attained the age of 65,
 
-&emsp;(2)(A) attained such age before 1968, or (B) has not less than 3 quarters of coverage (as defined in this subchapter or section 228e(<i>l</i>) of title 45), whenever acquired, for each calendar year elapsing after 1966 and before the year in which he attained such age,
+&emsp;(2)(A) attained such age before 1968, or (B) has not less than 3 quarters of coverage (as defined in this subchapter or section 228e(l) of title 45), whenever acquired, for each calendar year elapsing after 1966 and before the year in which he attained such age,
 
 &emsp;(3) is not, and upon filing application for monthly insurance benefits under section 402 of this title would not be, entitled to hospital insurance benefits under section 426 of this title, and is not certifiable as a qualified railroad retirement beneficiary under section 228s–2 of title 45,
 
@@ -30,7 +30,7 @@ The provisions of subsection (a) of this section shall not apply to any individu
 
 &emsp;(C) could have been so covered for such first month if he or some other person had availed himself of opportunities to enroll in a health benefits plan under such chapter and to continue such enrollment (but this subparagraph shall not apply unless he or such other person was a Federal employee at any time after February 15, 1965).
 
-> Paragraph (3) shall not apply in the case of any individual for the month (or any month thereafter) in which coverage under such a health benefits plan ceases (or would have ceased if he had had such coverage) by reason of his or some other person's separation from Federal service, if he or such other person was not (or would not have been) eligible to continue such coverage after such separation.
+> Paragraph (3) shall not apply in the case of any individual for the month (or any month thereafter) in which coverage under such a health benefits plan ceases (or would have ceased if he had had such coverage) by reason of his or someother person's separation from Federal service, if he or such other person was not (or would not have been) eligible to continue such coverage after such separation.
 
 #### (c) Authorization of appropriations
 
@@ -48,7 +48,7 @@ There are authorized to be appropriated to the Federal Hospital Insurance Trust 
 
 #### References in Text
 
-Sections 228e(<i>l</i>) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(<i>l</i>) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
+Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
 
 #### Codification
 

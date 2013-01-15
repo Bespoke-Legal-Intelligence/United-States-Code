@@ -142,7 +142,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 105–244, §442(b)(4), substituted “subsection 
 
 Subsec. (c). Pub. L. 105–244, §442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall usethe procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
+Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
 
 Subsec. (d). Pub. L. 105–244, §442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -162,7 +162,7 @@ Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior t
 
 “(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with section 2756a of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 2756a(c) of this title.”
 
-<b>1987</b>—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “section 2756a(c) of this title” for “subsection (c) of this section”, and made technical amendment to reference to section 2756a of this title to correct numerical designation of corresponding section of original act.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “section2756a(c) of this title” for “subsection (c) of this section”, and made technical amendment to reference to section 2756a of this title to correct numerical designation of corresponding section of original act.
 
 <b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to allocation of funds for provisions relating to allotments to States.
 

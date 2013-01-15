@@ -6,7 +6,7 @@ In this section through section 1308–5 of this title:
 
 #### (1) Covered commodity
 
-&emsp;The term “covered commodity” has the meaning given that term in section 1001 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8702\].
+&emsp;The term “covered commodity” has the meaning given that term in section 1001 of theFood, Conservation, and Energy Act of 2008 \[7 U.S.C. 8702\].
 
 #### (2) Family member
 
@@ -48,7 +48,7 @@ In this section through section 1308–5 of this title:
 
 #### (3) ACRE and counter-cyclical payments
 
-&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the personor legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
 
 &emsp;&emsp;(A) $65,000; and
 
@@ -88,7 +88,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (1) In general
 
-&emsp;In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
+&emsp;In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and\(2)(B) of section 1308–3a(b) of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
 
 #### (2) Payments to a person
 
@@ -128,7 +128,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
@@ -262,7 +262,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (h) Time limits; reliance
 
-Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
+Regulations of the Secretary shall establish time limits for the various steps involved withnotice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
 (Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730.)
 
@@ -350,7 +350,7 @@ Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of “Subject to
 
 Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
 
-Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of thisparagraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
+Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
 
 Par. (5)(B). Pub. L. 100–203, §1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -382,19 +382,19 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective and Termination Dates of 1989 Amendment
 
-Section 1 of Pub. L. 101–217 provided that the amendment made by that section is effective only for 1989 crops.
+Pub. L. 101–217, §1, Dec. 11, 1989, 103 Stat. 1857, provided that the amendment made by that section is effective only for the 1989 crops.
 
-Section 2 of Pub. L. 101–217, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with 1990 crops.
+Pub. L. 101–217, §2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
 
 #### Effective Date of 1987 Amendment
 
-Sections 1301(a) and 1303 of Pub. L. 100–203 provided that the amendments made by sections 1301(a)(1), (2) and 1303 of Pub. L. 100–203 are effective beginning with 1989 crops.
+Pub. L. 100–203, title I, §§1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, provided that the amendments made by sections 1301(a)(1), (2) and 1303 of Pub. L. 100–203 are effective beginning with 1989 crops.
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 108(a) of Pub. L. 99–500 and Pub. L. 99–591 provided that the amendment made by that section is effective with respect to each of 1987 through 1990 crops.
+Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
 
-Section 108(b) of Pub. L. 99–500 and Pub. L. 99–591 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\].”
 
 #### Transition Provisions
 
@@ -408,11 +408,11 @@ Pub. L. 107–171, title I, §1603(d), May 13, 2002, 116 Stat. 215, provided tha
 
 #### Equitable Relief
 
-Section 3 of Pub. L. 101–217 provided that: “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section\] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
+Pub. L. 101–217, §3, Dec. 11, 1989, 103 Stat. 1858, provided that: “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section\] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
 
 #### Payment Provisions Education Program
 
-Section 1304(a) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title I, §1304(a), Dec. 22, 1987, 101 Stat. 1330–17, provided that:
 
 “(1)
 
@@ -432,7 +432,7 @@ Commodity Credit Corporation.—The Secretary shall carry out the program provid
 
 #### Regulations To Carry Out 1987 Amendments; Transition Rules; Equitable Adjustments
 
-Section 1305(a), (b) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title I, §1305(a), (b), Dec. 22, 1987, 101 Stat. 1330–18, provided that:
 
 “(a)
 
@@ -460,7 +460,7 @@ Section 1305(d) of Pub. L. 100–203 provided that: “Notwithstanding section 1
 
 #### Revision of Regulations
 
-Section 108(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that:
+Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(c), Oct. 30, 1986, 100 Stat. 3341–347, provided that:
 
 “(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define ‘person’ under section 1001 of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
 

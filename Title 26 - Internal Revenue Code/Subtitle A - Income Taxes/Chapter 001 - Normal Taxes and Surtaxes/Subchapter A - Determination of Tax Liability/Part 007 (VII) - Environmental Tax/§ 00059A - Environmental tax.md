@@ -2,7 +2,7 @@
 
 #### (a) Imposition of tax
 
-In the case of a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to 0.12 percent of the excess of—
+In the case of a corporation, there is hereby imposed (in addition to any other tax imposedby this subtitle) a tax equal to 0.12 percent of the excess of—
 
 &emsp;(1) the modified alternative minimum taxable income of such corporation for the taxable year, over
 

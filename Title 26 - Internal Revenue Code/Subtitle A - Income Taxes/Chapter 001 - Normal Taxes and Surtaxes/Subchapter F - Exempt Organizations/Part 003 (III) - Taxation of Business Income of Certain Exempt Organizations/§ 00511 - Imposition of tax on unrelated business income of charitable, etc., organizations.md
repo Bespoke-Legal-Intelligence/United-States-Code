@@ -58,7 +58,7 @@ Organizations taxable as trusts.—If an organization is subject to tax on unrel
 
 Subsec. (a)(2). Pub. L. 95–600, §301(b)(5)(B), substituted “tax” for “taxes” wherever appearing.
 
-Subsec. (d). Pub. L. 95–600, §421(e)(3), substituted provisions relating to organizations taxable at corporate rates and organizations taxable as trusts, for provisions relating to imposition of the tax imposed by section 56 of this title to an organization subject to tax under thissection for tax preferences computed in unrelated business taxable income.
+Subsec. (d). Pub. L. 95–600, §421(e)(3), substituted provisions relating to organizations taxable at corporate rates and organizations taxable as trusts, for provisions relating to imposition of the tax imposed by section 56 of this title to an organization subject to tax under this section for tax preferences computed in unrelated business taxable income.
 
 <b>1977</b>—Subsec. (b)(1). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)”.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1969 Amendment
 
-Section 121(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 48, 501, 502, 503, 512 to 514, 681, 801, 810, 1443, 1504, and 7605 of this title\] (other than by subsections (b)(3) and (e) \[enacting sections 277 and 6050 of this title\]) shall apply to taxable years beginning after December 31, 1969. The amendments made by subsection (b)(3) \[enacting section 277 of this title\] shall apply to taxable years beginning after December 31, 1970. The amendments made by subsection (e) \[enacting section 6050 of this title\] shall apply with respect to transfers of property after December 31, 1969. Where an organization makes a bargain purchase of property before October 9, 1969, which is subject to a mortgage which was placed on the property more than 5 years before the purchase, and the organization paid the seller a total amount no greater than the amount of the seller's cost (including attorneys’ fees) directly related to the transfer of such property to the organization (but in any event no more than 10 percent of the value of the seller's equity in the property), the indebtedness secured by such mortgage shall not be treated, notwithstanding the amendments made by subsection (d)(1) \[amending section 514 of this title\], as acquisition indebtedness for purposes of section 514(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] during a period of 10 years following the date of the transaction.”
+Pub. L. 91–172, title I, §121(g), Dec. 30, 1969, 83 Stat. 549, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 48, 501, 502, 503, 512 to 514, 681, 801, 810, 1443, 1504, and 7605 of this title\] (other than by subsections (b)(3) and (e) \[enacting sections 277 and 6050 of this title\]) shall apply to taxable years beginning after December 31, 1969. The amendments made by subsection (b)(3) \[enacting section 277 of this title\] shall apply to taxable years beginning after December 31, 1970. The amendments made by subsection (e) \[enacting section 6050 of this title\] shall apply with respect to transfers of property after December 31, 1969. Where an organization makes a bargain purchase of property before October 9, 1969, which is subject to a mortgage which was placed on the property more than 5 years before the purchase, and the organization paid the seller a total amount no greater than the amount of the seller's cost (including attorneys’ fees) directly related to the transfer of such property to the organization (but in any event no more than 10 percent of the value of the seller's equity in the property), the indebtedness secured by such mortgage shall not be treated, notwithstanding the amendments made by subsection (d)(1) \[amending section 514 of this title\], as acquisition indebtedness for purposes of section 514(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] during a period of 10 years following the date of the transaction.”
 
 Amendment by section 301(b)(8) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
@@ -106,7 +106,7 @@ Amendment by section 803(d)(2) of Pub. L. 91–172 applicable to taxable years b
 
 #### Effective Date of 1966 Amendment
 
-Section 3 of Pub. L. 89–352 provided in part that: “The amendment made by section 2 \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Feb. 2, 1966\].”
+Pub. L. 89–352, §3, Feb. 2, 1966, 80 Stat. 4, provided in part that: “The amendment made by section 2 \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Feb. 2, 1966\].”
 
 #### Effective Date of 1960 Amendment
 

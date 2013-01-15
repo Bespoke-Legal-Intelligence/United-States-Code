@@ -126,7 +126,7 @@ Subsec. (c)(2)(B). Pub. L. 98–160 substituted “quantity and quality” for �
 
 Subsec. (a)(3). Pub. L. 97–72, §108(a)(2), struck out provision requiring that the Chief Medical Director periodically analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care and medical services and annually advise each committee of the results and the added requirements which those results indicate and substituted therefor provisions that the Chief Medical Director, at the end of each fiscal year, (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and made recommendations regarding the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds, and that, after considering the analyses and recommendations of the Chief Medical Director pursuant to subparagraph (A) of this paragraph for any fiscal year, the Administrator report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Chief Medical Director and on the required number of beds and the level of treatment capacities required.
 
-Subsec. (a)(4)(A). Pub. L. 97–66, §601(b)(1)(A), inserted “for any fiscal year (or any part of a fiscal year)” after “With respect to each law making appropriations for the Veterans’ Administration”.
+Subsec. (a)(4)(A). Pub. L. 97–66, §601(b)(1)(A), inserted “for any fiscal year (or any part of a fiscal year)” after“With respect to each law making appropriations for the Veterans’ Administration”.
 
 Subsec. (a)(4)(B). Pub. L. 97–66, §601(b)(1)(B), inserted “(or part of a fiscal year)” after “provide to the Veterans’ Administration for the fiscal year”.
 
@@ -144,9 +144,9 @@ Pub. L. 107–314, div. A, title VII, §726(b), Dec. 2, 2002, 116 Stat. 2599, pr
 
 #### Effective Date of 1988 Amendment
 
-Section 222(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1987.”
+Pub. L. 100–322, title II, §222(b), May 20, 1988, 102 Stat. 531, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1987.”
 
-Section 401(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to the awarding of contracts under solicitations issued after the date of the enactment of this Act \[May 20, 1988\].”
+Pub. L. 100–322, title IV, §401(b), May 20, 1988, 102 Stat. 543, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to the awarding of contracts under solicitations issued after the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -156,7 +156,7 @@ Amendment by section 601(b)(2) of Pub. L. 97–66 effective Oct. 17, 1981, see s
 
 #### Effective Date of 1979 Amendment
 
-Section 301(b) of Pub. L. 96–151 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees ofthe Congress not later than January 15, 1980, and February 1, 1980, respectively.”
+Pub. L. 96–151, title III, §301(b), Dec. 20, 1979, 93 Stat. 1096, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to Public Law 96–103 \[Nov. 5, 1979, 93 Stat. 771\], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 \[now 8110\] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively.”
 
 #### Inventory of Medical Waste Management Activities at Department of Veterans Affairs Health Care Facilities
 
@@ -184,11 +184,11 @@ Report.—Not later than June 30, 2005, the Secretary of Veterans Affairs shall 
 
 #### Conversion of Underused Space to Domiciliary-Care Beds
 
-Section 136 of Pub. L. 100–322 directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
+Pub. L. 100–322, title I, §136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
 
 #### Policy of Comprehensive Veterans’ Health-Care System
 
-Section 409(a) of Pub. L. 97–306 provided that: “It is the policy of the United States that the Veterans’ Administration—
+Pub. L. 97–306, title IV, §409(a), Oct. 14, 1982, 96 Stat. 1446, provided that: “It is the policy of the United States that the Veterans’ Administration—
 
 &emsp;“(1) shall maintain a comprehensive, nationwide health-care system for the direct provision of quality health-care services to eligible veterans; and
 

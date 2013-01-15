@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b) of this section, the Secretary ofHousing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;Whenever an issuer or custodian approved under section 1721(g) of this title knowingly and materially violates any provisions of subsection (b) of this section, the Secretary of Housing and Urban Development may impose a civil money penalty on the issuer or the custodian in accordance with the provisions of this section. The penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -86,7 +86,7 @@
 
 #### (e) Action to collect penalty
 
-If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees andother expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date
 
-Section 110(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §110(b), Dec. 15, 1989, 103 Stat. 2014, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
 &emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 

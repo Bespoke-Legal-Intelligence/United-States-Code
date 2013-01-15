@@ -20,7 +20,7 @@ Within 1 year after the date of signing a project cooperation agreement for cons
 
 &emsp;&emsp;(A) address potential measures, practices, and policies to be undertaken by non-Federal interests to to <sup>1</sup> reduce loss of life, injuries, damages to property and facilities, public expenditures, and other adverse impacts associated with flooding and to preserve and enhance natural floodplain values; and
 
-&emsp;&emsp;(B) address those measures to be undertaken by non-Federal interests to preserve the level of flood protection provided by a project to which subsection (a) of this section applies.
+&emsp;&emsp;(B) address those measures to be undertaken by non-Federal interests to preservethe level of flood protection provided by a project to which subsection (a) of this section applies.
 
 #### (3) Limitation on statutory construction
 
@@ -52,7 +52,7 @@ Pub. L. 106–541, title II, §209(b), Dec. 11, 2000, 114 Stat. 2591, provided t
 
 #### Effective Date of 1996 Amendment
 
-Section 202(c)(2) of Pub. L. 104–303 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
+Pub. L. 104–303, title II, §202(c)(2), Oct. 12, 1996, 110 Stat. 3675, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
 
 #### Reference to Project Cooperation Agreement Deemed Reference to Project Partnership Agreement
 

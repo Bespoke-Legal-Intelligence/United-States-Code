@@ -29,5 +29,5 @@ Such former provisions are covered by various sections of Title 20, Education, a
 
 #### Effective Date of Repeal
 
-Section 662 of Pub. L. 91–230 provided that the repeal is effective July 1, 1971.
+Pub. L. 91–230, title VI, §662, Apr. 13, 1970, 84 Stat. 188, provided that the repeal is effective July 1, 1971.
 

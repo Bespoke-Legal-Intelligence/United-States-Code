@@ -32,7 +32,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms—
 
-&emsp;&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254<i>o</i> of this title in the case of the individual's breach of the contract; and
+&emsp;&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
 
 &emsp;&emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Loan Repayment Program and service in the Corps.
 
@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) The Secretary shall distribute to health professions schools materials providing information on the Loan Repayment Program and shall encourage the schools to disseminate the materials to the students of the schools.
 
-&emsp;(B)(i) In the case of any health professional whose period of obligated service under theLoan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
+&emsp;(B)(i) In the case of any health professional whose period of obligated service under the Loan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
 
 &emsp;(ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Loan Repayment Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
@@ -100,7 +100,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(3) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual that is conditioned thereon, is contingent on funds being appropriated for loan repayments under this subpart and to carry out the purposes of sections 254d through 254h of this title and sections 254j and 254k of this title;
 
-&emsp;(4) a statement of the damages to which the United States is entitled, under section 254<i>o</i> of this title for the individual's breach of the contract; and
+&emsp;(4) a statement of the damages to which the United States is entitled, under section 254o of this title for the individual's breach of the contract; and
 
 &emsp;(5) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with this subpart.
 
@@ -108,7 +108,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 #### (1) In general
 
-&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercial loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
+&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercialloans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
 
 &emsp;&emsp;(A) tuition expenses;
 
@@ -264,5 +264,5 @@ Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provide
 
 #### Regulations
 
-Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 180 days after the effective date of theamendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254<i>o</i> of this title, and repealing former section 254q of this title\].”
+Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: “Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\].”
 

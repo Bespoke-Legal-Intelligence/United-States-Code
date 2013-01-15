@@ -90,7 +90,7 @@ Pub. L. 94–145, §1, Dec. 12, 1975, 89 Stat. 801, provided: “That this Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–528, §1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
+Pub. L. 93–528, §1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telecommunications, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
 #### Short Title
 

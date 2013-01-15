@@ -88,7 +88,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
 
-&emsp;&emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(<i>o</i>) <sup>1</sup>).
+&emsp;&emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(o) <sup>1</sup>).
 
 (g)
 
@@ -110,7 +110,7 @@ Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), ar
 
 #### Prior Provisions
 
-A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV,§14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Regulations
 
-Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
+Pub. L. 103–322, title III, §31001(b), Sept. 13, 1994, 108 Stat. 1881, provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

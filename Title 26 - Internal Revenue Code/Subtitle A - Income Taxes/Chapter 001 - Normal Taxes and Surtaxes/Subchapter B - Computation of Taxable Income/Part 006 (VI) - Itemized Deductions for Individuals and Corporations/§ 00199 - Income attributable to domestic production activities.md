@@ -12,7 +12,7 @@
 
 #### (2) Phasein
 
-&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table:
+&emsp;In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentagecontained therein the transition percentage determined under the following table:
 
 <b>For taxable years</b>
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (B) Related person
 
-&emsp;&emsp;For purposes of subparagraph (A), a person shall be treated as related to another person if such persons are treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414, except that determinations under subsections (a) and (b) of section 52 shall be made without regard to section 1563(b).
+&emsp;&emsp;For purposes of subparagraph (A), a person shall be treated as related to another person if such persons are treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414, except that determinations under subsections (a) and (b) of section 52 shall be made without regard to section 1563(b).
 
 #### (d) Definitions and special rules
 
@@ -278,11 +278,11 @@ For purposes of this section—
 
 #### (B) Special rule for applying wage limitation
 
-&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section3401(a)(8) for remuneration paid for services performed in Puerto Rico.
 
 #### (C) Termination
 
-&emsp;&emsp;This paragraph shall apply only with respect to the first 6 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2012.
+&emsp;&emsp;This paragraph shall apply only with respect to the first 8 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2014.
 
 #### (9) Special rule for taxpayers with oil related qualified production activities income
 
@@ -308,13 +308,15 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319.)
+(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §318(a), Jan. 2, 2013, 126 Stat. 2331.)
 
 #### References in Text
 
 Section 927(a)(2)(C) of this title, referred to in subsec. (d)(9)(C), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(8)(C). Pub. L. 112–240 substituted “first 8 taxable years” for “first 6 taxable years” and “January 1, 2014” for “January 1, 2012”.
 
 <b>2010</b>—Subsec. (d)(8)(C). Pub. L. 111–312 substituted “first 6 taxable years” for “first 4 taxable years” and “January 1, 2012” for “January 1, 2010”.
 
@@ -383,6 +385,10 @@ Subsec. (d)(6). Pub. L. 109–135, §403(a)(11)(A), reenacted heading without ch
 Subsec. (d)(7). Pub. L. 109–135, §403(a)(12), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (d)(8). Pub. L. 109–135, §403(a)(12), (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §318(b), Jan. 2, 2013, 126 Stat. 2331, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

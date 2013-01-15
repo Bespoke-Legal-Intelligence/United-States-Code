@@ -32,7 +32,7 @@ Limitation on available amounts.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), of the cost of any activityeligible for financial assistance under this section, not more than—
+In general.—Except as provided in subparagraph (B), of the cost of any activity eligible for financial assistance under this section, not more than—
 
 &emsp;&emsp;&emsp;(i) 50 percent may be provided from amounts appropriated to carry out this subtitle;
 
@@ -90,7 +90,7 @@ Commission.—The Commission, as required by the President, shall maintain accur
 
 &emsp;(2)
 
-Recipients of federal assistance.—Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
+Recipients of federal assistance.—Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be <sup>1</sup> available for audit by the President, the Comptroller General, and the Commission.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, §2(a), Oct. 8, 2008, 122 Stat. 4037.)
 
@@ -147,4 +147,6 @@ The Public Works and Economic Development Act of 1965, referred to in subsec. (a
 <b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
 
 Subsec. (a)(2)(A). Pub. L. 110–371, §2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
 

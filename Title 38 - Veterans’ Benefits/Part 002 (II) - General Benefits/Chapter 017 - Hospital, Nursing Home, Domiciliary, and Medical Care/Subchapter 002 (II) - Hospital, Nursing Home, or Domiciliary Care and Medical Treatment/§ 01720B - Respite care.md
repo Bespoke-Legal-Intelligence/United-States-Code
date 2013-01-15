@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” f
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Transition Periods
 
-Section 604 of Pub. L. 101–237 ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38 U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989.
+Pub. L. 101–237, title VI, §604, Dec. 18, 1989, 103 Stat. 2097, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38 U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989.
 
 Pub. L. 101–110, §3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 \[38 U.S.C. 1712 note\], section 618 of Pub. L. 100–440 \[5 U.S.C. 6302 note\], or section 1829 \[now 3729\] of this title, by contract or otherwise, during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989.
 
@@ -46,5 +46,5 @@ Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwit
 
 #### Report
 
-Section 201(b) of Pub. L. 99–576 provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
+Pub. L. 99–576, title II, §201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and thelaws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to the extent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
+The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to National Forest System lands in a manner that will further the purposes of the recreation area. Management of the natural resources within the recreation area shall be permitted only to the extent that such management is compatible with and does not impair the purposes for which the recreation area is established. Recreational activities within the recreation area shall include (but not be limited to) hiking, camping, hunting, fishing, skiing, backpacking, rock climbing, and swimming.
 
 #### (b) Management plan
 
@@ -54,7 +54,7 @@ The Secretary shall provide for recreational facilities within the recreation ar
 
 The Secretary shall establish a visitor center and interpretive facilities in or near the recreation area for the purpose of providing for education relating to the interpretation of cultural and natural resources of the recreation area.
 
-#### (<i>l</i>) Power transmission lines
+#### (l) Power transmission lines
 
 In accordance with Federal and State laws and regulations, the Secretary may permit a utility corridor for high power electric transmission lines within the recreation area only when the Secretary determines that—
 

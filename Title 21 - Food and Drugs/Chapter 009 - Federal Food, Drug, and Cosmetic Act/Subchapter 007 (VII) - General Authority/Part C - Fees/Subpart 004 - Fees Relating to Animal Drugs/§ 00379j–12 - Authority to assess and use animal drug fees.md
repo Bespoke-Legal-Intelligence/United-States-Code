@@ -42,7 +42,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(B) who, after September 1, 2003, had pending before the Secretary an animal drug application or supplemental animal drug application;
 
-> &emsp;shall pay for each such animal drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the animal drug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each animal drug product for a fiscal year in which the fee is payable.
+> &emsp;shall pay for each such animal drug product the annual fee established in subsection (b) ofthis section. Such fee shall be payable for the fiscal year in which the animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the animal drug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each animal drug product for a fiscal year in which the fee is payable.
 
 #### (3) Animal drug establishment fee
 
@@ -98,7 +98,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (2) Final year adjustment
 
-&emsp;For fiscal year 2013, the Secretary may further increase the fees to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2014. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2013.
+&emsp;For fiscal year 2013, the Secretary may further increase the fees to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2014. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves,then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2013.
 
 #### (3) Annual fee setting
 
@@ -244,7 +244,7 @@ The Secretary shall—
 
 Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §§103(a)(2), 108(a), temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).” See Effective and Termination Dates of 2008 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 110–316, §§103(b)(1), 108(a), temporarily substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+Subsec. (b)(1). Pub. L. 110–316, §§103(b)(1), 108(a), temporarily substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 110–316, §§103(b)(2), 108(a), temporarily substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
 

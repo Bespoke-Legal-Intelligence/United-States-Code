@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
+The Director, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with thissection, a coordinated national dam safety program. The Program shall—
 
 &emsp;(1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
 
@@ -102,11 +102,11 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(iv) the authority to require or perform periodic evaluations of all dams and reservoirs to determine the extent of the threat to human life and property in case of failure;
 
-&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
+&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would posea significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
 
 &emsp;&emsp;&emsp;(II) a procedure for more detailed and frequent safety inspections;
 
-&emsp;&emsp;&emsp;(vi) a requirement that all inspections be performed under the supervision of aState-registered professional engineer with related experience in dam design and construction;
+&emsp;&emsp;&emsp;(vi) a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;
 
 &emsp;&emsp;&emsp;(vii) the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, install and monitor instrumentation, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
 

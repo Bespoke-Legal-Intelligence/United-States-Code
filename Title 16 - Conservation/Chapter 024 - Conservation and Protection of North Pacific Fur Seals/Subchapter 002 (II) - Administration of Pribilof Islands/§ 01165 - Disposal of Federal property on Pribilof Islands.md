@@ -20,7 +20,7 @@ The property transfer document described in subsection (a) of this section shall
 
 #### (c) Report to Congress on conveyed and retained properties
 
-Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report that includes—
+Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resourcesof the House of Representatives a report that includes—
 
 &emsp;(1) a description of all property specified in the document referred to in subsection (a) of this section that has been conveyed under that subsection;
 
@@ -62,7 +62,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized to ent
 
 #### Repeal of Section
 
-<i>Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the</i><i>date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, this section is repealed.</i>
+<i>Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, this section is repealed.</i>
 
 <i>Substantially identical provisions repealing this section were contained in Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247.</i>
 
@@ -146,7 +146,7 @@ Low-Interest Loan Program.—
 
 &emsp;“(1)
 
-Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each offiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
+Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
 
 &emsp;“(2)
 

@@ -42,7 +42,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1978 Amendment
 
-Section 109(b) of Pub. L. 95–426 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §109(b), Oct. 7, 1978, 92 Stat. 967, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
 
 #### Transfer of Functions
 

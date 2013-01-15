@@ -52,13 +52,25 @@ Expenditure Agreements.—A grant may be made under this section in a fiscal yea
 
 (f)
 
-Government's Share of Costs.—The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.
+Government's Share of Costs.—The United States Government's share of establishing and operating a center and all related research activities that grant recipients carry out shall not exceed 50 percent of the costs, except that the Administrator may increase such share to a maximum of 75 percent of the costs for a fiscal year if the Administrator determines that a center would be unable to carry out the authorized activities described in this section without additional funds.
 
 (g)
 
 Allocating Amounts.—The Administrator shall allocate amounts made available to carry out this section in a geographically fair way.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1182.)
+(h)
+
+Annual Report.—The Administrator shall transmit annually to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at the time of the President's budget request a report that lists—
+
+&emsp;(1) the research projects that have been initiated by each center in the preceding year;
+
+&emsp;(2) the amount of funding for each research project and the funding source;
+
+&emsp;(3) the institutions participating in each research project and their shares of the overall funding for each research project; and
+
+&emsp;(4) the level of cost-sharing for each research project.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1182; Pub. L. 112–95, title IX, §907, Feb. 14, 2012, 126 Stat. 140.)
 
 Historical and Revision Notes
 
@@ -79,4 +91,38 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(i); added Nov. 5, 1990, Pub
 In this section, the words “institutions of higher education” and “institution of higher education” are substituted for “colleges or universities” and “college or university” for consistency in the revised title.
 
 In subsection (a), the words “one or more” are omitted as surplus.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.”
+
+Subsec. (h). Pub. L. 112–95, §907(b), added subsec. (h).
+
+#### Center of Excellence for Aviation Human Resource Research
+
+Pub. L. 112–95, title IX, §908, Feb. 14, 2012, 126 Stat. 140, provided that:
+
+“(a)
+
+Establishment.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] may establish a center of excellence to conduct research on—
+
+&emsp;“(1) human performance in the air transportation environment, including among air transportation personnel such as air traffic controllers, pilots, and technicians; and
+
+&emsp;“(2) any other aviation human resource issue pertinent to developing and maintaining a safe and efficient air transportation system.
+
+“(b)
+
+Activities.—Activities conducted under this section may include the following:
+
+&emsp;“(1) Research, development, and evaluation of training programs for air traffic controllers, aviation safety inspectors, airway transportation safety specialists, and engineers.
+
+&emsp;“(2) Research and development of best practices for recruitment of individuals into the aviation field for mission critical positions.
+
+&emsp;“(3) Research, in consultation with other relevant Federal agencies, to develop a baseline of general aviation employment statistics and an analysis of future needs in the aviation field.
+
+&emsp;“(4) Research and the development of a comprehensive assessment of the airframe and power plant technician certification process and its effect on employment trends.
+
+&emsp;“(5) Evaluation of aviation maintenance technician school environments.
+
+&emsp;“(6) Research and an assessment of the ability to develop training programs to allow for the transition of recently unemployed and highly skilled mechanics into the aviation field.”
 

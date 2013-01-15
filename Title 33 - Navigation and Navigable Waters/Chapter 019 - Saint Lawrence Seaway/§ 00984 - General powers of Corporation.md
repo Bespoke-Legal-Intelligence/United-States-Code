@@ -50,7 +50,7 @@ In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 #### Effective Date of 1986 Amendment
 
-Section 805(b) of Pub. L. 99–662 provided that: “The amendments made by this section \[enacting section 988a of this title and amending this section\] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, §805(b), Nov. 17, 1986, 100 Stat. 4272, provided that: “The amendments made by this section \[enacting section 988a of this title and amending this section\] shall take effect on April 1, 1987.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -28,7 +28,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 #### Effective Date; Termination of NAFTA Status
 
-Section 109 of title I of Pub. L. 103–182 provided that:
+Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, provided that:
 
 “(a)
 

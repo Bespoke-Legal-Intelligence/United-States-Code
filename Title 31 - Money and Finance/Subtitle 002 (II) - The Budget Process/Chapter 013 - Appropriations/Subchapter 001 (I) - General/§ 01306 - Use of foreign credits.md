@@ -32,7 +32,7 @@ The words “are not available for expenditure by agencies except as provided an
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §612(b)\] of Pub. L. 104–208 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §612(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
 
 #### Appropriations of Excess Currencies
 

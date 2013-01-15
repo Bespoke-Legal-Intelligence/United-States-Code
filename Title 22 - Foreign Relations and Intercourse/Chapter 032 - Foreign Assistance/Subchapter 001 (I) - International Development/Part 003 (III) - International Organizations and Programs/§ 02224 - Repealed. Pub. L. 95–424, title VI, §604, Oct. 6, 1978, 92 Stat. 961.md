@@ -1,6 +1,6 @@
 ### §2224. Repealed. Pub. L. 95–424, title VI, §604, Oct. 6, 1978, 92 Stat. 961
 
-Section, Pub. L. 87–195, pt. I, §304, as added Pub. L. 90–137, pt. I, §110(c), Nov. 14, 1967, 81 Stat. 454, related to exploration by the President of means and prospects of establishing improved peacekeeping arrangements for standby forces maintained by the United Nations.
+Section, Pub. L. 87–195, pt. I, §304, as added Pub. L. 90–137, pt. I, §110(c), Nov. 14, 1967, 81 Stat. 454, relatedto exploration by the President of means and prospects of establishing improved peacekeeping arrangements for standby forces maintained by the United Nations.
 
 #### Effective Date of Repeal
 

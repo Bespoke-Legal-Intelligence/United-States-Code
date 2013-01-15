@@ -42,7 +42,7 @@ Termination of Duty.—Whenever any unit of the Selected Reserve or any member o
 
 (h)
 
-Relationship to War Powers Resolution.—Nothing contained in this section shall beconstrued as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+Relationship to War Powers Resolution.—Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
 
 (i)
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “weapon of mass destruction” has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
 
-(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397.)
+(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397.)
 
 #### References in Text
 

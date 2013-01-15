@@ -26,11 +26,11 @@
 
 > Any such diagnosis, conclusion, judgment, test result, report, or summary shall not be binding on the special master or court. In evaluating the weight to be afforded to any such diagnosis, conclusion, judgment, test result, report, or summary, the special master or court shall consider the entire record and the course of the injury, disability, illness, or condition until the date of the judgment of the special master or court.
 
-(2) The special master or court may find the first symptom or manifestation of onset or significant aggravation of an injury, disability, illness, condition, or death described in a petition occurred within the time period described in the Vaccine Injury Table even though the occurrence of such symptom or manifestation was not recorded or was incorrectly recorded as having occurred outside such period. Such a findingmay be made only upon demonstration by a preponderance of the evidence that the onset or significant aggravation of the injury, disability, illness, condition, or death described in the petition did in fact occur within the time period described in the Vaccine Injury Table.
+(2) The special master or court may find the first symptom or manifestation of onset or significant aggravation of an injury, disability, illness, condition, or death described in a petition occurred within the time period described in the Vaccine Injury Table even though the occurrence of such symptom or manifestation was not recorded or was incorrectly recorded as having occurred outside such period. Such a finding may be made only upon demonstration by a preponderance of the evidence that the onset or significant aggravation of the injury, disability, illness, condition, or death described in the petition did in fact occur within the time period described in the Vaccine Injury Table.
 
 #### (c) “Record” defined
 
-For purposes of this section, the term “record” means the record established by the special masters of the United States Court of Federal Claims in a proceeding on a petition filed under section 300aa–11 of this title.
+For purposes of this section, the term “record” means the record established by the special masters of the United States Court ofFederal Claims in a proceeding on a petition filed under section 300aa–11 of this title.
 
 (July 1, 1944, ch. 373, title XXI, §2113, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3763; amended Pub. L. 100–203, title IV, §4307(4), Dec. 22, 1987, 101 Stat. 1330–224; Pub. L. 101–239, title VI, §6601(j), Dec. 19, 1989, 103 Stat. 2290; Pub. L. 101–502, §5(c), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

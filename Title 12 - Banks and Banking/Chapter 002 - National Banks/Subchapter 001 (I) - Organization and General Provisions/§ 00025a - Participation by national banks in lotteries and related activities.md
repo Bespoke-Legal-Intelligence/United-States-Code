@@ -48,7 +48,7 @@ The Comptroller of the Currency shall issue such regulations as may be necessary
 
 #### Effective Date
 
-Section 6 of Pub. L. 90–203 provided that: “The amendments made by this Act \[adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure\] shall take effect on April 1, 1968.”
+Pub. L. 90–203, §6, Dec. 15, 1967, 81 Stat. 611, provided that: “The amendments made by this Act \[adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure\] shall take effect on April 1, 1968.”
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should appear.</i>
 

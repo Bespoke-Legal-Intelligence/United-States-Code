@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-The President shall convene annual high-level meetings between appropriate officials of theUnited States Government and officials of the governments of sub-Saharan African countries in order to foster close economic ties between the United States and sub-Saharan Africa.
+The President shall convene annual high-level meetings between appropriate officials of the United States Government and officials of the governments of sub-Saharan African countries in order to foster close economic ties between the United States and sub-Saharan Africa.
 
 #### (b) Establishment
 

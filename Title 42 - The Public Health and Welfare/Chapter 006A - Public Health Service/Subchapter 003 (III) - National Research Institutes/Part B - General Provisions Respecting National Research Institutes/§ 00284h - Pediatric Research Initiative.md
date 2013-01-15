@@ -28,11 +28,11 @@ In carrying out subsection (b) of this section, the Director of NIH shall—
 
 The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
 
-(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17,2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Codification
 
-Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284<i>l</i> of this title.
+Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284l of this title.
 
 #### Amendments
 

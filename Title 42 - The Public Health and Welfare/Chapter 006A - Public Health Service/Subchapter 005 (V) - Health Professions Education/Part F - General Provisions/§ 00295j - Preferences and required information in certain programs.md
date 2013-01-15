@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in making awards of grants or contracts under any of sections 293k and 294 of this title, the Secretary shall give preference to any qualified applicant that—
+&emsp;Subject to paragraph (2), in making awards of grants or contracts under any of sections293k and 294 of this title, the Secretary shall give preference to any qualified applicant that—
 
 &emsp;&emsp;(A) has a high rate for placing graduates in practice settings having the principal focus of serving residents of medically underserved communities;
 
@@ -62,15 +62,15 @@ A prior section 791 of act July 1, 1944, was classified to section 295h of this 
 
 <b>2010</b>—Subsec. (a)(1)(C). Pub. L. 111–148 added subpar. (C).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293<i>o</i> of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293o of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 105–392, §107(b)(2), struck out “under section 295<i>o</i>(a) of this title” before period at end.
+Subsec. (a)(2). Pub. L. 105–392, §107(b)(2), struck out “under section 295o(a) of this title” before period at end.
 
 Subsec. (b). Pub. L. 105–392, §106(a)(2)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required submission of certain information by applicant.
 
 Subsec. (c). Pub. L. 105–392, §§106(a)(2)(B)(ii), 107(a), added subsec. (c) and redesignated former subsec. (c) as (b).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e of this title and substituted reference to section 295<i>o</i>(f)(2) of this title for reference to section 293p(a) of this title.
+<b>1992</b>—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e of this title and substituted reference to section 295o(f)(2) of this title for reference to section 293p(a) of this title.
 
 #### Effective Date of 1992 Amendment
 

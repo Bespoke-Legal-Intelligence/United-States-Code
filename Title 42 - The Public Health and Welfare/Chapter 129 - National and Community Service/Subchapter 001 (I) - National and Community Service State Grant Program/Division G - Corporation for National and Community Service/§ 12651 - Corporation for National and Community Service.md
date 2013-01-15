@@ -6,7 +6,7 @@ There is established a Corporation for National and Community Service that shall
 
 #### Prior Provisions
 
-A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–10, §9, Mar. 12, 1991, 105 Stat. 31; Pub. L. 102–384, §§4, 10, Oct. 5, 1992, 106 Stat. 1455, 1456, provided for establishment of Commission on National and Community Service, prior to the general amendment of subtitle G of title I of Pub. L. 101–610 \[former part G of this subchapter\] by Pub. L. 103–82, §202(a).
+A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–10, §9, Mar. 12,1991, 105 Stat. 31; Pub. L. 102–384, §§4, 10, Oct. 5, 1992, 106 Stat. 1455, 1456, provided for establishment of Commission on National and Community Service, prior to the general amendment of subtitle G of title I of Pub. L. 101–610 \[former part G of this subchapter\] by Pub. L. 103–82, §202(a).
 
 #### Amendments
 
@@ -14,7 +14,7 @@ A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Sta
 
 #### Effective Date of 1993 Amendment
 
-Section 203(d) of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title II, §203(d), Sept. 21, 1993, 107 Stat. 895, provided that:
 
 “(1)
 
@@ -32,7 +32,7 @@ Transition.—Subsection (c)(10) \[set out below\] shall take effect on the date
 
 #### Effective Date
 
-Section 202(i) of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title II, §202(i), Sept. 21, 1993, 107 Stat. 891, provided that:
 
 “(1)
 
@@ -44,7 +44,7 @@ Establishment and appointment authorities.—Sections 191, 192, and 193 of the N
 
 #### Transfer of Functions of Commission on National and Community Service
 
-Section 202(c) of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title II, §202(c), Sept. 21, 1993, 107 Stat. 888, provided that:
 
 “(1)
 
@@ -64,7 +64,7 @@ Application.—The provisions of paragraphs (3) through (10) of section 203(c) \
 
 #### Transfer of Functions From ACTION Agency
 
-Section 203(c) of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title II, §203(c), Sept. 21, 1993, 107 Stat. 892, provided that:
 
 “(1)
 
@@ -72,7 +72,7 @@ Definitions.—For purposes of this subsection, unless otherwise provided or ind
 
 &emsp;“(A) the term ‘Chief Executive Officer’ means the Chief Executive Officer of the Corporation;
 
-&emsp;“(B) the term ‘Corporation’ means the Corporation for National and Community Service, establishedunder section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\];
+&emsp;“(B) the term ‘Corporation’ means the Corporation for National and Community Service, established under section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\];
 
 &emsp;“(C) the term ‘Federal agency’ has the meaning given to the term ‘agency’ by section 551(1) of title 5, United States Code;
 
@@ -196,11 +196,11 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Continuing Performance of Certain Functions by Commission on National and Community Service
 
-Section 202(d) of Pub. L. 103–82 provided that: “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 (42 U.S.C. 12651), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[42 U.S.C. 12651d\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
+Pub. L. 103–82, title II, §202(d), Sept. 21, 1993, 107 Stat. 888, provided that: “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 (42 U.S.C. 12651), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[42 U.S.C. 12651d\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
 
 #### Business Plan for Corporation for National and Community Service
 
-Section 204 of Pub. L. 103–82 provided that:
+Pub. L. 103–82, title II, §204, Sept. 21, 1993, 107 Stat. 895, provided that:
 
 “(a)
 
@@ -298,7 +298,7 @@ Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
 On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
-In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
+In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts,most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
 The ACTION Agency, provided for by the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], has worked closely with the Corporation, sharing its many years of experience in engaging Americans in service to their communities. Because the Corporation's initiatives and those programs operated by the ACTION Agency involve similar goals, the National and Community Service Trust Act calls for the merger of ACTION with the Corporation no later than March 22, 1995. To build upon the tremendous accomplishments already achieved by the Corporation, and to facilitate the further development of community service programs across the country, I am pleased to order that the functions of the Director of the ACTION Agency be transferred to the Corporation for National and Community Service.
 
@@ -334,7 +334,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within the Corporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
 
-(b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subjectto the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
+(b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subject to the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
 
 (c) To conduct and vote on official business during meetings, the Council must convene a quorum of at least 10 Council members.
 
@@ -366,7 +366,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
 
-Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information and assistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
+Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information andassistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
 
 (b) The members of the Council shall serve without compensation for their work on the Council. Members of the Council who are not officers or employees of the United States may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707).
 

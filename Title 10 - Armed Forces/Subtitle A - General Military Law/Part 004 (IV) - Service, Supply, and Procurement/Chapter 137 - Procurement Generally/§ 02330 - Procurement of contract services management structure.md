@@ -52,7 +52,7 @@ Duties and Responsibilities of Senior Officials Responsible for the Management o
 
 &emsp;(D) ensure that contract services are procured by means of procurement actions that are in the best interests of the Department of Defense and are entered into and managed in compliance with applicable laws, regulations, directives, and requirements;
 
-&emsp;(E) ensure that competitive procedures and performance-based contracting are used to themaximum extent practicable for the procurement of contract services; and
+&emsp;(E) ensure that competitive procedures and performance-based contracting are used to the maximum extent practicable for the procurement of contract services; and
 
 &emsp;(F) monitor data collection under section 2330a of this title, and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
 
@@ -66,9 +66,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) Issuance of a task order, delivery order, or military interdepartmental purchase request.
 
-&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, other than services relating to research and development or military construction.
+&emsp;(2) The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, includingservices in support of contingency operations. The term does not include services relating to research and development or military construction.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, §812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, §845(d), Jan. 2, 2013, 126 Stat. 1848.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ A prior section 2330, added Pub. L. 100–456, div. A, title VIII, §801(a)(1), 
 Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted “including services in support of contingency operations. The term does not include services relating to research and development or military construction.” for “other than services relating to research and development or military construction.”
 
 <b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
@@ -130,7 +132,7 @@ Comptroller General Report.—Not later than 18 months after the date of the ena
 
 #### Requirements for the Acquisition of Services
 
-Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544, provided that:
+Pub. L. 111–383, div. A, title VIII, §863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, §933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, §1076(a)(18), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
 “(a)
 
@@ -146,7 +148,7 @@ Operational Requirements.—With regard to requirements for the acquisition of s
 
 “(c)
 
-Supporting Requirements.—With regard to requirements for the acquisition of services not covered by subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
+Supporting Requirements.—With regard to requirements for the acquisition of services not coveredby subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
 
 “(d)
 
@@ -168,7 +170,7 @@ Implementation Plans Required.—The Secretary shall ensure that an implementati
 
 &emsp;“(8) Considerations relating to opportunities for strategic sourcing.
 
-&emsp;“(9) Considerations relating to total force management policies and procedures established under section 129a of this title \[probably should be “title 10, United States Code”\].
+&emsp;“(9) Considerations relating to total force management policies and procedures established under section 129a of title 10, United States Code.
 
 “(e)
 

@@ -42,5 +42,5 @@ This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the origina
 
 #### Effective Date
 
-Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78<i>o</i> of this title.
+Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78o of this title.
 

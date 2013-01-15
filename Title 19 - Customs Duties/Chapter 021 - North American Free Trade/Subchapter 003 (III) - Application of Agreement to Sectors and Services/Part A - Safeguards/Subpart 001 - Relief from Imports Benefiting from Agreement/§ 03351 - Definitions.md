@@ -26,5 +26,5 @@ This subpart, referred to in text, was in the original “this part”, meaning 
 
 #### Effective Date
 
-Section 318 of title III of Pub. L. 103–182 provided that: “Except as provided in section 308(b) \[enacting provisions set out as a note under section 2112 of this title\], the provisions of this subtitle \[subtitle A (§§301–318) of title III of Pub. L. 103–182, enacting this part and amending section 2252 of this title and provisions set out as a note under section 2112 of this title\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\].”
+Pub. L. 103–182, title III, §318, Dec. 8, 1993, 107 Stat. 2108, provided that: “Except as provided in section 308(b) \[enacting provisions set out as a note under section 2112 of this title\], the provisions of this subtitle \[subtitle A (§§301–318) of title III of Pub. L. 103–182, enacting this part and amending section 2252 of this title and provisions set out as a note under section 2112 of this title\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\].”
 

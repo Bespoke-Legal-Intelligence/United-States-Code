@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule for Grade in Which Ordered to Active Duty.—Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 or 688a of this title shall be ordered to active duty in the member's retired grade.
+General Rule for Grade in Which Ordered to Active Duty.—Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 or 688a of thistitle shall be ordered to active duty in the member's retired grade.
 
 (b)
 

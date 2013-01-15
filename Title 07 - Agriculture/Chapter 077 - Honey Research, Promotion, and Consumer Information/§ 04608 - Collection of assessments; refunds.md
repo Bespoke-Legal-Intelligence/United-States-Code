@@ -70,7 +70,7 @@ Except as otherwise provided in this section, a producer-packer shall be respons
 
 &emsp;Nothing in this subsection prohibits—
 
-&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlers subject to an order, if the statements do not identify the information furnished by any person; or
+&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlerssubject to an order, if the statements do not identify the information furnished by any person; or
 
 &emsp;&emsp;(B) the publication, by direction of the Secretary, of the name of any person that violates any order issued under this chapter, together with a statement of the particular provisions of the order violated by the person.
 
@@ -116,7 +116,7 @@ Subsec. (e). Pub. L. 105–185, §605(h)(1)(C), added subsec. (e) and struck out
 
 Subsec. (f). Pub. L. 105–185, §605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
 
-Subsec. (g). Pub. L. 105–185, §605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only ina suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+Subsec. (g). Pub. L. 105–185, §605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
 
 &emsp;“(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
 

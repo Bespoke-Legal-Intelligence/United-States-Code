@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(D) Coordinating with relevant agencies to develop interagency contingency plans and procedures to mobilize and deploy civilian personnel and conduct reconstruction and stabilization operations to address the various types of such crises.
 
-&emsp;&emsp;(E) Entering into appropriate arrangements with agencies to carry out activities under this section and the Reconstruction and Stabilization Civilian Management Act of 2008.
+&emsp;&emsp;(E) Entering into appropriate arrangements with agencies to carry out activities under this section and the Reconstructionand Stabilization Civilian Management Act of 2008.
 
 &emsp;&emsp;(F) Identifying personnel in State and local governments and in the private sector who are available to participate in the Civilian Reserve Corps established under subsection (b) or to otherwise participate in or contribute to reconstruction and stabilization activities.
 

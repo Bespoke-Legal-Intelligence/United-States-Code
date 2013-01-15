@@ -14,7 +14,7 @@ Section was not enacted as a part of act June 28, 1934, known as the Taylor Graz
 
 #### Effective Date of 1948 Amendment
 
-Section 2 of act May 28, 1948, provided that: “This amendment \[amending this section\] is to take effect as of July 25, 1947.”
+Act May 28, 1948, ch. 353, §2, 62 Stat. 277, provided that: “This amendment \[amending this section\] is to take effect as of July 25, 1947.”
 
 #### Termination of War and Emergencies
 

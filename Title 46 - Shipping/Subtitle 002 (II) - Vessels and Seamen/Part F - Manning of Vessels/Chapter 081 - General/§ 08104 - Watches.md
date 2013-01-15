@@ -2,11 +2,11 @@
 
 (a) An owner, charterer, managing operator, master, individual in charge, or other person having authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
 
-(b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, orfish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
+(b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
 
 (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays,sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
 
 (e) On a vessel designated by subsection (d) of this section—
 
@@ -42,7 +42,7 @@
 
 (k) On a fish processing vessel subject to inspection under part B of this subtitle, the licensed individuals and deck crew shall be divided, when at sea, into at least 3 watches.
 
-(<i>l</i>) Except as provided in subsection (k) of this section, on a fish processing vessel, the licensed individuals and deck crew shall be divided, when at sea, into at least 2 watches if the vessel—
+(l) Except as provided in subsection (k) of this section, on a fish processing vessel, the licensed individuals and deck crew shall be divided, when at sea, into at least 2 watches if the vessel—
 
 &emsp;(1) entered into service before January 1, 1988, and is more than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title; or
 
@@ -56,7 +56,7 @@
 
 (n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, “work” includes any administrative duties associated with the vessel whether performed on board the vessel or onshore.
 
-(<i>o</i>)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
+(o)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
 
 (2) On a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 2 watches, if the vessel—
 
@@ -108,9 +108,9 @@ Subsections (i) and (j) prescribe penalties for violations of the provisions of 
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–281, §617(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (<i>o</i>). Pub. L. 111–281, §903(a)(1), made technical amendment to directory language of Pub. L. 109–241, §311(b). See 2006 Amendment note below.
+Subsec. (o). Pub. L. 111–281, §903(a)(1), made technical amendment to directory language of Pub. L. 109–241, §311(b). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (<i>o</i>). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted “or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title” for “or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” in pars. (1) and (2).
+<b>2006</b>—Subsec. (o). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted “or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title” for “or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” in pars. (1) and (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324, §728(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
@@ -122,13 +122,13 @@ Subsec. (e). Pub. L. 104–324, §1114(b), substituted “subsection (d)” for 
 
 Subsec. (g). Pub. L. 104–324, §1114(c), struck out “(except a vessel to which subsection (c) of this section applies)” after “On a towing vessel”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 104–324, §728(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+Subsec. (l)(1). Pub. L. 104–324, §728(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
 Subsec. (m)(1). Pub. L. 104–324, §728(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
-Subsec. (<i>o</i>)(1). Pub. L. 104–324, §728(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+Subsec. (o)(1). Pub. L. 104–324, §728(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
-Subsec. (<i>o</i>)(2). Pub. L. 104–324, §728(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+Subsec. (o)(2). Pub. L. 104–324, §728(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 
 Subsec. (p). Pub. L. 104–324, §1104(c), amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “On a vessel used only to respond to a discharge of oil or a hazardous substance, the licensed individuals and crewmembers may be divided into at least two watches when the vessel is engaged in an operation less than 12 hours in duration.”
 
@@ -138,7 +138,7 @@ Subsec. (p). Pub. L. 103–206, §322(a)(2), added subsec. (p).
 
 <b>1992</b>—Subsec. (g). Pub. L. 102–587, §5212(1), inserted “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 102–587, §5212(2), redesignated subsec. (n), relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade, as (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 102–587, §5212(2), redesignated subsec. (n), relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade, as (o).
 
 <b>1990</b>—Subsecs. (i), (j). Pub. L. 101–380, §4302(f), substituted “$10,000” for “$100” in subsec. (i) and for “$500” in subsec. (j).
 
@@ -158,9 +158,9 @@ Subsec. (k). Pub. L. 98–557 substituted “shall” for “may”.
 
 Pub. L. 98–364, §402(11)(D), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 98–557 substituted “shall” for “may” in provisions preceding par. (1).
+Subsec. (l). Pub. L. 98–557 substituted “shall” for “may” in provisions preceding par. (1).
 
-Pub. L. 98–364, §402(11)(D), added subsec. (<i>l</i>).
+Pub. L. 98–364, §402(11)(D), added subsec. (l).
 
 Subsec. (m). Pub. L. 98–364, §402(11)(D), added subsec. (m).
 

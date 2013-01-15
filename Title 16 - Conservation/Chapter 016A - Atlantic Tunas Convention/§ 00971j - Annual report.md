@@ -4,7 +4,7 @@ Not later than April 1, 1996, and annually thereafter, the Secretary shall prepa
 
 &emsp;(1) details for the previous 10-year period the catches and exports to the United States of highly migratory species (including tunas, swordfish, marlin and sharks) from Nations fishing on Atlantic stocks of such species that are subject to management by the Commission;
 
-&emsp;(2) identifies those fishing Nations whose harvests are inconsistent with conservationand management recommendations of the Commission;
+&emsp;(2) identifies those fishing Nations whose harvests are inconsistent with conservation and management recommendations of the Commission;
 
 &emsp;(3) describes reporting requirements established by the Secretary to ensure that imported fish products are in compliance with all international management measures, including minimum size requirements, established by the Commission and other international fishery organizations to which the United States is a party; and
 

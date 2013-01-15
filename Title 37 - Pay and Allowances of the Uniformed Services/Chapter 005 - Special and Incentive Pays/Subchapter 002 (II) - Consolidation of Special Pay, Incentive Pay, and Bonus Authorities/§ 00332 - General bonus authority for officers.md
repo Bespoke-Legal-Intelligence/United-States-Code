@@ -62,7 +62,7 @@ Written Agreement.—To receive a bonus under this section, a person or officer 
 
 (e)
 
-Relationship to Other Pay and Allowances.—The bonus paid to a person or officer under this section is in addition to any otherpay and allowance to which the person or officer is entitled.
+Relationship to Other Pay and Allowances.—The bonus paid to a person or officer under this section is in addition to any other pay and allowance to which the person or officer is entitled.
 
 (f)
 
@@ -70,11 +70,13 @@ Repayment.—A person or officer who receives a bonus under this section and who
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2012.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(2), Dec. 31, 2011, 125 Stat. 1450.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 164; amended Pub. L. 111–84, div. A, title VI, §614(2), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(2), Jan. 2, 2013, 126 Stat. 1777.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

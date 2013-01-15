@@ -100,7 +100,7 @@ The Secretary shall develop a best-practices database that includes information,
 
 #### (4) Matching funds required
 
-&emsp;As a condition of receiving a grant under this section, the Secretary shall require the recipient of the grant to provide funds or in-kind support from non-Federal sources in an amount that is at least equal to the amount provided by the Federal Government.
+&emsp;As a condition of receiving a grant under this section, the Secretary shall require therecipient of the grant to provide funds or in-kind support from non-Federal sources in an amount that is at least equal to the amount provided by the Federal Government.
 
 #### (5) Partnerships encouraged
 

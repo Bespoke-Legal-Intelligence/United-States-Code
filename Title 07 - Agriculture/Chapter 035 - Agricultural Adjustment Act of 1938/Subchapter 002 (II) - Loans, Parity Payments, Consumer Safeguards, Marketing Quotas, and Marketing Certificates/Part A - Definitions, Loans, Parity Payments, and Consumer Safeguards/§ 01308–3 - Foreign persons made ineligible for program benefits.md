@@ -20,7 +20,7 @@ No person shall become ineligible under this section for production adjustment p
 
 The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008,122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective Date
 
-Section 1306 of Pub. L. 100–203 provided that this section is effective beginning with 1989 crops.
+Pub. L. 100–203, title I, §1306, Dec. 22, 1987, 101 Stat. 1330–19, provided that this section is effective beginning with the 1989 crops.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

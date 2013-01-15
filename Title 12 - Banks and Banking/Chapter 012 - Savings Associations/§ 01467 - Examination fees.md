@@ -92,7 +92,7 @@ The appropriate Federal banking agency may, in the sole discretion of the approp
 
 The appropriate Federal banking agency may assess against an institution fees to fund the direct and indirect expenses of the Office as the appropriate Federal banking agency deems necessary or appropriate. The fees may be imposed more frequently than annually at the discretion of the appropriate Federal banking agency.
 
-#### (<i>l</i>) Working capital
+#### (l) Working capital
 
 The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capital fund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
 
@@ -104,7 +104,7 @@ The appropriate Federal banking agency is authorized to use the combined resourc
 
 #### Prior Provisions
 
-A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28,1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
+A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28, 1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
 
 A prior section 9 of act June 13, 1933, was renumbered section 11 and is classified to section 1468 of this title.
 
@@ -140,7 +140,7 @@ Subsec. (k). Pub. L. 111–203, §369(7)(I), substituted “appropriate Federal 
 
 Pub. L. 111–203, §369(7)(H), substituted “appropriate Federal banking agency may assess against an institution” for “Director may assess against institutions for which the Director is the appropriate Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act,”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 111–203, §369(7)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+Subsecs. (l), (m). Pub. L. 111–203, §369(7)(I), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–242, §114(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The cost of conducting examinations of savings associations pursuant to section 1464(d) of this title shall be assessed by the Director against each such savings association in proportion to the assets or resources of the savings association.”
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 101–73 relating to civil penalties applicable with respec
 
 #### Submission of Proposed Regulations to Congress
 
-Section 402(c) of Pub. L. 100–86 provided that: “Not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\]—
+Pub. L. 100–86, title IV, §402(c), Aug. 10, 1987, 101 Stat. 608, provided that: “Not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\]—
 
 &emsp;“(1) the Federal Home Loan Bank Board shall submit a copy of the proposed regulations required to be prescribed under the amendment made by subsection (a) \[enacting this section\] to the Congress; and
 
@@ -168,7 +168,7 @@ Section 402(c) of Pub. L. 100–86 provided that: “Not later than the end of t
 
 #### Effective Date of Regulations
 
-Section 402(d) of Pub. L. 100–86 provided that:
+Pub. L. 100–86, title IV, §402(d), Aug. 10, 1987, 101 Stat. 608, provided that:
 
 “(1)
 

@@ -18,7 +18,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 &emsp;(3) the account maintenance fee paid by the Secretary in accordance with section 1087h of this title;
 
-&emsp;(4) the default aversion fee paid in accordance with section 1078(<i>l</i>) of this title;
+&emsp;(4) the default aversion fee paid in accordance with section 1078(l) of this title;
 
 &emsp;(5) amounts remaining pursuant to section 1078(c)(6)(B) <sup>1</sup> of this title from collection on defaulted loans held by the agency, after payment of the Secretary's equitable share, excluding amounts deposited in the Federal Fund pursuant to section 1072a(c)(2) of this title; and
 
@@ -48,7 +48,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (C) Enrollment and repayment status management
 
-&emsp;&emsp;The term “enrollment and repayment status management” means activities of aguaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
+&emsp;&emsp;The term “enrollment and repayment status management” means activities of a guaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
 
 #### (e) Ownership and regulation of Operating Fund
 

@@ -22,7 +22,7 @@
 
 #### (2) Participation as amicus curiae
 
-&emsp;In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an <sup>1</sup> amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
+&emsp;In addition to his authority to obtain review under paragraph (1), the Secretary may alsoparticipate an <sup>1</sup> amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
 
 (Pub. L. 95–621, title V, §505, Nov. 9, 1978, 92 Stat. 3403.)
 

@@ -14,7 +14,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 #### Effective Date of 1984 Amendment
 
-Section 3(c) of Pub. L. 98–363 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\].”
+Pub. L. 98–363, §3(c), July 17, 1984, 98 Stat. 436, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\].”
 
 #### Short Title of 1991 Amendment
 
@@ -26,7 +26,7 @@ Pub. L. 100–690, title IX, §9001, Nov. 18, 1988, 102 Stat. 4521, provided tha
 
 #### Short Title of 1987 Amendment
 
-Section 201 of title II of Pub. L. 100–17 provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
+Pub. L. 100–17, title II, §201, Apr. 2, 1987, 101 Stat. 218, provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
 
 #### Short Title of 1983 Amendment
 
@@ -38,11 +38,11 @@ Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: �
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “That title \[amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title\] may be cited as the ‘Highway Safety Act of 1976’.”
+Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “That title \[amending sections 104, 151,402, 404, and 406 of this title and provisions set out as a note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title\] may be cited as the ‘Highway Safety Act of 1976’.”
 
 #### Short Title of 1973 Amendment
 
-Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
+Pub. L. 93–87, title II, §201, Aug. 13, 1973, 87 Stat. 282, provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 
 #### Short Title
 
-Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+Pub. L. 89–564, title II, §208, Sept. 9, 1966, 80 Stat. 737, provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
 #### Wildlife Vehicle Collision Reduction Study
 
@@ -58,7 +58,7 @@ Pub. L. 109–59, title I, §1119(n), Aug. 10, 2005, 119 Stat. 1190, provided th
 
 “(1)
 
-In general.—The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisionsbetween motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
+In general.—The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisions between motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
 
 “(2)
 
@@ -178,6 +178,12 @@ Contract authority.—Funds authorized by this subsection shall be available for
 
 #### Prohibition on Other Uses
 
+Pub. L. 112–141, div. C, title I, §31101(b), July 6, 2012, 126 Stat. 733, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, in this subtitle \[subtitle A (§§31101–31109) of title I of div. C of Pub. L. 112–141, see Tables for classification\], and in the amendments made by this subtitle, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter—
+
+&emsp;“(1) shall only be used to carry out such program; and
+
+&emsp;“(2) may not be used by States or local governments for construction purposes.”
+
 Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes.”
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
@@ -262,7 +268,7 @@ Demonstration activities.—In conducting the study under paragraph (1), the Sec
 
 Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+Pub. L. 100–17, title II, §208, Apr. 2, 1987, 101 Stat. 222, as amended by Pub. L. 100–202, §101(l) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information whichit deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
@@ -272,7 +278,7 @@ Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: �
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminalpenalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 
@@ -298,31 +304,31 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, asamended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Pub. L. 93–87, title II, §211, Aug. 13, 1973, 87 Stat. 288, directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 
-Section 212 of Pub. L. 93–87 authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
 #### National Center for Statistical Analysis of Highway Operations
 
-Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
+Pub. L. 93–87, title II, §213, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
 
 #### Pedestrian and Bicycle Safety Study
 
-Section 214 of Pub. L. 93–87 authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
+Pub. L. 93–87, title II, §214, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
 
 #### Highway Safety Needs Study
 
-Section 225 of Pub. L. 93–87 mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
+Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
-Section 201 of Pub. L. 89–564, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
+Pub. L. 89–564, title II, §201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
 
 #### Acting Administrator of National Highway Traffic Safety Administration
 
@@ -330,7 +336,7 @@ Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted Pr
 
 #### Annual Report to Congress on Administration of Highway Safety Act of 1966
 
-Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
+Pub. L. 89–564, title II, §202, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
 “(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
@@ -340,13 +346,13 @@ Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224,
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Interstate Compacts for Highway Safety
 
 Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, Aug. 20 1964, 78 Stat. 564, provided: “That the consent of Congress is hereby given to any two or more of the several States, and one or more of the several States and the District of Columbia, to enter into agreements or compacts—
 
-&emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, and research programs of the human factors affecting traffic safety, and
+&emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, andresearch programs of the human factors affecting traffic safety, and
 
 &emsp;“(2) for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs.”
 

@@ -14,7 +14,7 @@ The Secretary may establish and implement a program to be known as the “Teachi
 
 #### (b) Required partnership
 
-A local educational agency that receives a grant under subsection (a) of this section shallcarry out activities under the grant in partnership with one or more of the following:
+A local educational agency that receives a grant under subsection (a) of this section shall carry out activities under the grant in partnership with one or more of the following:
 
 &emsp;(1) An institution of higher education.
 

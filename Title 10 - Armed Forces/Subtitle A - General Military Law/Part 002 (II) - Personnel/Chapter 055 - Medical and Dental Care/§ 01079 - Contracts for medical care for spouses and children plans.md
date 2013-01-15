@@ -198,7 +198,7 @@
 
 &emsp;(2) the transplant is to be carried out at a health-care facility that has been approved for that purpose by the Secretary of Defense after consultation with the other administering Secretaries and such other entities as the Secretary considers appropriate.
 
-(<i>l</i>)(1) Contracts entered into under subsection (a) shall also provide for medical care for dependents of former members of the uniformed services who are authorized to receive medical and dental care under section 1076(e) of this title in facilities of the uniformed services.
+(l)(1) Contracts entered into under subsection (a) shall also provide for medical care for dependents of former members of the uniformed services who are authorized to receive medical and dental care under section 1076(e) of this title in facilities of the uniformed services.
 
 (2) Except as provided in paragraph (3), medical care in the case of a dependent described in section 1076(e) shall be furnished under the same conditions and subject to the same limitations as medical care furnished under this section to spouses and children of members of the uniformed services described in the first sentence of subsection (a).
 
@@ -208,13 +208,13 @@
 
 (2) A payment under paragraph (1) may not exceed the average amount paid for comparable services in the geographic area in which the hospital is located or, if no comparable services are available in that area, in an area similar to the area in which the hospital is located.
 
-(3) The Secretary of Defense shall periodically review the billing practices of each hospital the Secretary approves for payment under this subsection to ensure that the hospital's practices of not billing patients for payment are not resulting in increased costs to the Government.
+(3) The Secretary of Defense shall periodically review the billing practices of each hospital theSecretary approves for payment under this subsection to ensure that the hospital's practices of not billing patients for payment are not resulting in increased costs to the Government.
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
 (n) The Secretary of Defense may enter into contracts (or amend existing contracts) with fiscal intermediaries under which the intermediaries agree to organize and operate, directly or through subcontractors, managed health care networks for the provision of health care under this chapter. The managed health care networks shall include cost containment methods, such as utilization review and contracting for care on a discounted basis.
 
-(<i>o</i>)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project under the Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
+(o)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project under the Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
 
 (2) The Secretary of Defense, after consulting with the other administering Secretaries, may adopt or adapt for use under the CHAMPUS Peer Review Organization program, as the Secretary considers appropriate, any of the quality and utilization review requirements and procedures that are used by the Peer Review Organization program under part B of title XI of the Social Security Act (42 U.S.C. 1320c et seq.).
 
@@ -236,7 +236,7 @@
 
 (q) Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unless the administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, §1073(a)(12), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158,1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, §1073(a)(12), Oct. 28, 2009, 123 Stat. 2473.)
 
 Historical and Revision Notes
 
@@ -274,7 +274,7 @@ In subsection (b), the word “variances” is substituted for the words “limi
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (h)(1), (4)(A), (B)(i), (i)(3)(B)(ii), (C), (j)(1), (2), and (<i>o</i>)(2), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XI of the Act is classified generally to part B (§1320c et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. Parts A and B of title XVIII of the Act are classified generally to part A (§1395c et seq.) and part B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. Section 1861(m) of the Act is classified to section 1395x(m) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (h)(1), (4)(A), (B)(i), (i)(3)(B)(ii), (C), (j)(1), (2), and (o)(2), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XI of the Act is classified generally to part B (§1320c et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. Parts A and B of title XVIII of the Act are classified generally to part A (§1395c et seq.) and part B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. Section 1861(m) of the Act is classified to section 1395x(m) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -336,7 +336,7 @@ Subsec. (p)(3), (4). Pub. L. 107–314, §702(2), (3), added par. (3) and redesi
 
 Subsec. (q). Pub. L. 107–314, §705(a), added subsec. (q).
 
-<b>2001</b>—Subsec. (a)(5). Pub. L. 107–107, §703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, iron lungs and hospital beds may be provided on a rental basis.”
+<b>2001</b>—Subsec. (a)(5). Pub. L. 107–107, §703(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Durable equipment, such as wheelchairs, ironlungs and hospital beds may be provided on a rental basis.”
 
 Subsec. (a)(17). Pub. L. 107–107, §701(g)(2), struck out par. (17) which read as follows:
 
@@ -434,7 +434,7 @@ Subsec. (g). Pub. L. 103–337, §707(a), inserted at end “In addition, when a
 
 Subsec. (a)(15). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §704(1). See 1992 Amendment note below.
 
-Subsec. (<i>o</i>). Pub. L. 103–160, §711, added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 103–160, §711, added subsec. (o).
 
 <b>1992</b>—Subsec. (a)(15). Pub. L. 102–484, §1053(3), made technical amendment to directory language of Pub. L. 102–190, §702(b)(1)(C). See 1991 Amendment note below.
 
@@ -502,7 +502,7 @@ Subsec. (b)(5). Pub. L. 100–180, §721(a), added par. (5).
 
 <b>1986</b>—Subsec. (a)(7). Pub. L. 99–661, §703, substituted “provides primary coverage for the services” for “pays for at least 75 percent of the services”.
 
-Subsec. (<i>l</i>). Pub. L. 99–661, §652(d), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 99–661, §652(d), added subsec. (l).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services in provisions preceding cl. (1).
 
@@ -604,49 +604,49 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date of 1992 Amendment
 
-Section 1053(3) of Pub. L. 102–484 provided that the amendment made by that section is effective Dec. 5, 1991.
+Pub. L. 102–484, div. A, title X, §1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
 
 #### Effective Date of 1991 Amendment
 
-Section 316(b) of Pub. L. 102–25 provided that the amendment made by that section is effective Feb. 15, 1991.
+Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87, provided that the amendment made by that section is effective Feb. 15, 1991.
 
 #### Effective Date of 1990 Amendment
 
-Section 701(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title VII, §701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 702(b) of Pub. L. 101–510 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title VII, §702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
+Pub. L. 101–510, div. A, title VII, §703(d), Nov. 5, 1990, 104 Stat. 1582, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
 
-Section 712(c) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
+Pub. L. 101–510, div. A, title VII, §712(c), Nov. 5, 1990, 104 Stat. 1583, provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
 
 #### Effective Date of 1989 Amendment
 
-Section 730(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services provided on or after October 1, 1989.”
+Pub. L. 101–189, div. A, title VII, §730(b), Nov. 29, 1989, 103 Stat. 1481, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services provided on or after October 1, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Section 646(c) of Pub. L. 100–456 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 1086 of this title\] shall apply with respect to medical care received after September 30, 1988.”
+Pub. L. 100–456, div. A, title VI, §646(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1086 of this title\] shall apply with respect to medical care received after September 30, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 721(c) of Pub. L. 100–180 provided that: “Paragraph (5) of section 1079(b) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
+Pub. L. 100–180, div. A, title VII, §721(c), Dec. 4, 1987, 101 Stat. 1115, provided that: “Paragraph (5) of section 1079(b) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
 
-Section 726(b) of Pub. L. 100–180 provided that: “Paragraph (15) of section 1079(a) of such title, as added by subsection (a), shall apply with respect to costs incurred for home monitoring equipment after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VII, §726(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Paragraph (15) of section 1079(a) of such title, as added by subsection (a), shall apply with respect to costs incurred for home monitoring equipment after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 652(e)(4) of Pub. L. 99–661 provided that: “The amendment made by subsection (d) \[amending this section\] shall apply only with respect to care furnished under section 1079 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §652(e)(4), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply only with respect to care furnished under section 1079 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 632(a)(3) of Pub. L. 98–525 provided that: “The amendments made by this subsection \[amending this section and section 1086 of this title\] shall apply only to health care furnished after September 30, 1984.”
+Pub. L. 98–525, title VI, §632(a)(3), Oct. 19, 1984, 98 Stat. 2543, provided that: “The amendments made by this subsection \[amending this section and section 1086 of this title\] shall apply only to health care furnished after September 30, 1984.”
 
 Amendment by section 1401(e)(4) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
 #### Effective Date of 1983 Amendment
 
-Section 931(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall take effect on October 1, 1983, except that—
+Pub. L. 98–94, title IX, §931(c), Sept. 24, 1983, 97 Stat. 649, provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall take effect on October 1, 1983, except that—
 
 &emsp;“(1) clause (6) of section 1079(a) of title 10, United States Code, as added by subsection (a)(1), shall not apply in the case of inpatient mental health services provided to a patient admitted before January 1, 1983, for so long as that patient remains continuously in inpatient status for medically or psychologically necessary reasons; and
 
@@ -654,7 +654,7 @@ Section 931(c) of Pub. L. 98–94 provided that: “The amendments made by this 
 
 #### Effective Date of 1981 Amendment
 
-Section 906(b) of Pub. L. 97–86 provided that: “The amendments made by subsection (a) \[amending this section and section 1086 of this title\] shall apply with respect to claims submitted for payment for services provided after the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 1, 1981\].”
+Pub. L. 97–86, title IX, §906(b), Dec. 1, 1981, 95 Stat. 1117, provided that: “The amendments made by subsection (a) \[amending this section and section 1086 of this title\] shall apply with respect to claims submitted for payment for services provided after the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 1, 1981\].”
 
 #### Effective Date of 1980 Amendments
 
@@ -662,15 +662,15 @@ Amendment by section 501(13) of Pub. L. 96–513 effective Sept. 15, 1981, see s
 
 Amendment by section 511 of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 
-Section 810(c) of Pub. L. 96–342 provided that: “The amendments made by this section \[amending this section\] shall apply to medical care provided after September 30, 1980.”
+Pub. L. 96–342, title VIII, §810(c), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendments made by this section \[amending this section\] shall apply to medical care provided after September 30, 1980.”
 
 #### Effective Date of 1978 Amendment
 
-Section 806(b) of Pub. L. 95–485 provided that: “the amendments made by subsection (a) \[amending this section and section 1086 of this title\] shall apply with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after the date of enactment of this Act \[Oct. 20, 1978\].”
+Pub. L. 95–485, title VIII, §806(b), Oct. 20, 1978, 92 Stat. 1622, provided that: “the amendments made by subsection (a) \[amending this section and section 1086 of this title\] shall apply with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after the date of enactment of this Act \[Oct. 20, 1978\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–58 provided that: “This Act \[amending this section\] becomes effective as of January 1, 1967. However, no person is entitled to any benefits because of this Act for any period before the date of enactment \[July 29, 1971\].”
+Pub. L. 92–58, §2, July 29, 1971, 85 Stat. 157, provided that: “This Act \[amending this section\] becomes effective as of January 1, 1967. However, no person is entitled to any benefits because of this Act for any period before the date of enactment \[July 29, 1971\].”
 
 #### Effective Date of 1966 Amendment
 
@@ -792,7 +792,7 @@ Pub. L. 102–484, div. A, title VII, §702, Oct. 23, 1992, 106 Stat. 2431, as a
 
 #### Correction of Omission in Delay of Increase of CHAMPUS Deductibles Related to Operation Desert Storm
 
-Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
+Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect onNov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
 
 #### Temporary CHAMPUS Provisions for Dependents of Operation Desert Shield/Desert Storm Active Duty Personnel
 

@@ -38,21 +38,21 @@ Certification Required for Military Construction Projects Designed to Provide Tr
 
 &emsp;&emsp;(ii) incorporates the appropriate capabilities for joint and interagency use in accordance with the strategy.
 
-(2) The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command.
+(2) This subsection shall not apply with respect to a military construction project carried out under the authority of section 2803, 2804, or 2808 of this title or section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723).
 
-(3) This subsection shall not apply with respect to a military construction project carried out under the authority of section 2803, 2804, or 2808 of this title or section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723).
-
-(Added Pub. L. 108–375, div. B, title XXVIII, §2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, §2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469.)
+(Added Pub. L. 108–375, div. B, title XXVIII, §2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, §2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, §1081(2), Jan. 2, 2013, 126 Stat. 1960.)
 
 #### References in Text
 
-Section 2808 of the Military Construction Authorization Act for Fiscal Year 2004, referred to in subsec. (d)(3), is section 2808 of title XXVIII of div. B of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1723, which is not classified to the Code except for section 2808(e), which is set out as a note under section 2805 of this title.
+Section 2808 of the Military Construction Authorization Act for Fiscal Year 2004, referred to in subsec. (d)(2), is section 2808 of title XXVIII of div. B of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1723, which is not classified to the Code except for section 2808(e), which is set out as a note under section 2805 of this title.
 
 #### Prior Provisions
 
 A prior section 2859, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 97–295, §1(36), Oct. 12, 1982, 96 Stat. 1296, provided for transmission of annual military construction authorization request, prior to repeal by Pub. L. 108–136, div. A, title X, §1044(b)(1), Nov. 24, 2003, 117 Stat. 1612.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command.”
 
 <b>2006</b>—Pub. L. 109–364, §2808(b)(1), inserted “or urban-training operations” after “force protection” in section catchline.
 

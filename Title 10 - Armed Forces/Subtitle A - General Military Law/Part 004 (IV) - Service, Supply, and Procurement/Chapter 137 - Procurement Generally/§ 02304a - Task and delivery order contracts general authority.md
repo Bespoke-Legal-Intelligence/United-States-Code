@@ -54,7 +54,7 @@ Contract Modifications.—A task or delivery order may not increase the scope, p
 
 (f)
 
-Contract Period.—The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
+Contract Period.—The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided inthe contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
 
 (g)
 
@@ -100,5 +100,5 @@ Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, p
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Section 1004(d) of Pub. L. 103–355, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
+Pub. L. 103–355, title I, §1004(d), Oct. 13, 1994, 108 Stat. 3253, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
 

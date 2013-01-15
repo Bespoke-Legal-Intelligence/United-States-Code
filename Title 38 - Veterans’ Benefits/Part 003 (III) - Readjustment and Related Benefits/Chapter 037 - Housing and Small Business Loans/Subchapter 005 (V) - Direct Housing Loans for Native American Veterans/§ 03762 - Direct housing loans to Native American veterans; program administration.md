@@ -44,7 +44,7 @@
 
 (3) Notwithstanding section 3704(a) of this title, the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
 
-(d)(1) The Secretary shall establish credit underwriting standards to be used in evaluating loans made under this subchapter. In establishing such standards, the Secretary shall take into account the purpose of this program to make available housing to Native American veterans living on trust lands.
+(d)(1) The Secretary shall establish credit underwriting standards to be used in evaluating loans made under this subchapter. In establishing such standards, the Secretary shall take into account the purpose of this program tomake available housing to Native American veterans living on trust lands.
 
 (2) The Secretary shall determine the reasonable value of the interest in property that will serve as security for a loan made under this section and shall establish procedures for appraisals upon which the Secretary may base such determinations. The procedures shall incorporate generally the relevant requirements of section 3731 of this title, unless the Secretary determines that such requirements are impracticable to implement in a geographic area, on particular trust lands, or under circumstances specified by the Secretary.
 
@@ -100,7 +100,7 @@ Subsec. (b)(1)(E). Pub. L. 109–233, §103(c)(1)(B), substituted “loans under
 
 Subsec. (c)(1)(A). Pub. L. 109–233, §103(e), inserted “veteran” after “Native American”.
 
-Subsec. (c)(1)(B). Pub. L. 109–233, §103(c)(1)(C), (d), designated existing provisions as cl. (i), substituted “Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
+Subsec. (c)(1)(B). Pub. L. 109–233, §103(c)(1)(C), (d), designated existing provisions as cl. (i), substituted“Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
 
 Subsec. (i)(1). Pub. L. 109–233, §103(c)(1)(D)(i), struck out “the pilot program provided for under this subchapter and” after “educate Native American veterans of”.
 

@@ -12,11 +12,11 @@ The Secretary shall promulgate regulations that provide the framework and guidel
 
 &emsp;(2) for all foods available on each school campus under the jurisdiction of the local educational agency during the school day, nutrition guidelines that—
 
-&emsp;&emsp;(A) are consistent with sections 1758 and 1766 of this title, and sections 4 and 10 of the Child Nutrition Act of 1966 (42 U.S.C. 1773, 1779); and
+&emsp;&emsp;(A) are consistent with sections 1758 and 1766 of this title, and sections 4 and 10 of theChild Nutrition Act of 1966 (42 U.S.C. 1773, 1779); and
 
 &emsp;&emsp;(B) promote student health and reduce childhood obesity;
 
-&emsp;(3) a requirement that the local educational agency permit parents, students, representatives of the school food authority, teachers of physical education, school health professionals, the school board, school administrators, and the general public to participate inthe development, implementation, and periodic review and update of the local school wellness policy;
+&emsp;(3) a requirement that the local educational agency permit parents, students, representatives of the school food authority, teachers of physical education, school health professionals, the school board, school administrators, and the general public to participate in the development, implementation, and periodic review and update of the local school wellness policy;
 
 &emsp;(4) a requirement that the local educational agency inform and update the public (including parents, students, and others in the community) about the content and implementation of the local school wellness policy; and
 

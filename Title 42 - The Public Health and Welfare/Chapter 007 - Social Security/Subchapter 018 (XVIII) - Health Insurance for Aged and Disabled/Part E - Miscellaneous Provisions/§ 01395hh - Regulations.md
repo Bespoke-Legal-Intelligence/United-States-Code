@@ -10,7 +10,7 @@
 
 (B) Such timeline may vary among different regulations based on differences in the complexity of the regulation, the number and scope of comments received, and other relevant factors, but shall not be longer than 3 years except under exceptional circumstances. If the Secretary intends to vary such timeline with respect to the publication of a final regulation, the Secretary shall cause to have published in the Federal Register notice of the different timeline by not later than the timeline previously established with respect to such regulation. Such notice shall include a brief explanation of the justification for such variation.
 
-(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or such timeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
+(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or suchtimeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
 
 (D) The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
 
@@ -22,7 +22,7 @@
 
 (2) Paragraph (1) shall not apply where—
 
-&emsp;(A) a statute specifically permits a regulation to be issued in interim final form orotherwise with a shorter period for public comment,
+&emsp;(A) a statute specifically permits a regulation to be issued in interim final form or otherwise with a shorter period for public comment,
 
 &emsp;(B) a statute establishes a specific deadline for the implementation of a provision and the deadline is less than 150 days after the date of the enactment of the statute in which the deadline is contained, or
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 100–203 effective Dec. 22, 1987, and applicable to budget
 
 #### Effective Date of 1986 Amendment
 
-Section 9321(e)(3)(A) of Pub. L. 99–509 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9321(e)(3)(A), Oct. 21, 1986, 100 Stat. 2018, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 #### Regulations
 

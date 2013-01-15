@@ -52,7 +52,7 @@ In subsection (a), the words “In addition” are omitted as surplus. The word 
 
 In subsection (b), the words “Not later than June 22, 1989” are substituted for “within one year after June 22, 1988” for clarity.
 
-In subsection (c)(1), before clause (A), and (2), the word “Secretary” is substituted for “Federal Railroad Administration” for clarity and consistency in the revised title. In this restatement, the Secretary of Transportation carries out all laws. However, this subsection is based on source provisions that provide that the Federal Railroad Administration carries out the subsection. A cross-reference to this subsection has been included in 49:103 to preserve duties and powers under this subsection to the Administrator of the Federal Railroad Administration.
+In subsection (c)(1), before clause (A), and (2), the word “Secretary” is substituted for “Federal Railroad Administration” for clarity and consistency in the revised title. In this restatement, the Secretary of Transportation carries out all laws. However, this subsectionis based on source provisions that provide that the Federal Railroad Administration carries out the subsection. A cross-reference to this subsection has been included in 49:103 to preserve duties and powers under this subsection to the Administrator of the Federal Railroad Administration.
 
 In subsection (c)(1), before clause (A), the words “and incidents” are added for consistency in this part.
 

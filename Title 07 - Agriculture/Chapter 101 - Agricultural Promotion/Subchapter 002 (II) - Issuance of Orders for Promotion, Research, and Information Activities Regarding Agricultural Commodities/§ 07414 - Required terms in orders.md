@@ -192,7 +192,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (1) In general
 
-&emsp;Each order shall require that producers, first handlers and other persons in the marketing chain as appropriate, and importers covered by the order shall—
+&emsp;Each order shall require that producers, first handlers and other persons in the marketingchain as appropriate, and importers covered by the order shall—
 
 &emsp;&emsp;(A) maintain records sufficient to ensure compliance with the order and regulations;
 

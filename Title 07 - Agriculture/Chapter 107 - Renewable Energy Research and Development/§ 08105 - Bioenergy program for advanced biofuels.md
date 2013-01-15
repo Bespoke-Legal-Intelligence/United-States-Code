@@ -50,13 +50,13 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2012.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
 
 #### (3) Limitation
 
 &emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075.)
+(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### Codification
 
@@ -65,4 +65,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 8105, Pub. L. 107–171, title IX, §9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

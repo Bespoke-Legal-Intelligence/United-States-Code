@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
-&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
+&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additionalmanagement authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
 
 #### (b) Statement of purpose
 
@@ -42,7 +42,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 (1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as “advisory committee”) in accordance with the provisions of section 1739 of this title.
 
-(2) It shall be the function of the advisory committee to advise the Secretary with respectto the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
+(2) It shall be the function of the advisory committee to advise the Secretary with respect to the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
 
 #### (h) Management of lands under jurisdiction of Secretary of Agriculture and Secretary of Defense
 
@@ -66,7 +66,7 @@ Subsec. (i) of this section, which required the Secretary to report annually to 
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (c)(2), abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (c)(2), abolished and replacedby Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

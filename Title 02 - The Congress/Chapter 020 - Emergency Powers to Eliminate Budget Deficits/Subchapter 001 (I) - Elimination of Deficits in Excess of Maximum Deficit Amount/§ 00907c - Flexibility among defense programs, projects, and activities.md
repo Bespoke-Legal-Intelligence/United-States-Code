@@ -40,11 +40,11 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 (1) In the Senate, debate on a joint resolution introduced under subsection (d) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
-(2) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote bywhich the joint resolution is agreed to or disagreed to is not in order. In the Senate, a motion to recommit the joint resolution is not in order.
+(2) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order. In the Senate, a motion to recommit the joint resolution is not in order.
 
 #### (h) Amendment of joint resolution
 
-(1) No amendment that is not germane or relevant to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense). In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
+(1) No amendment that is not germane or relevant to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense). In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minorityleader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
 
 (2) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended, so long as the amendment makes or maintains mathematical consistency. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
@@ -64,7 +64,7 @@ Appeals from the decisions of the Chair relating to the application of the rules
 
 In the Senate, points of order under titles III and IV of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 651 et seq.\] (including points of order under sections 302(c), 303(a), 306, and 401(b)(1) \[2 U.S.C. 633(c), 634(a), 637, 651(b)(1)\]) are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
-#### (<i>l</i>) Resolution from other House
+#### (l) Resolution from other House
 
 If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (d) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) of this section, then the following procedures shall apply:
 

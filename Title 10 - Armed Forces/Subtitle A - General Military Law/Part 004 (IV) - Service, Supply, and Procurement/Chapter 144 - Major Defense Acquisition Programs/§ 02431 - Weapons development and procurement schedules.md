@@ -44,7 +44,7 @@ Subsec. (b)(4). Pub. L. 103–355, §3001(b)(5) amended par. (4) generally. Prio
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510, §1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
 
-Pub. L. 101–510, §1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplemental report to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
+Pub. L. 101–510, §1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplementalreport to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
 
 &emsp;“(1) the contractor or contractors for that system have not yet been selected and the Secretary of Defense determines that the submission of that report would adversely affect the source selection process and notifies Congress in writing, prior to such award, of that determination, stating his reasons therefor; or
 
@@ -228,7 +228,7 @@ Submittal to congress.—Each plan prepared under this subsection and approved b
 
 “(b)
 
-Reports on Test and Evaluation of Blocks.—At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defense and the congressional defense committees a report providing—
+Reports on Test and Evaluation of Blocks.—At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defenseand the congressional defense committees a report providing—
 
 &emsp;“(1) the assessment of the Director as to whether or not the test and evaluation was adequate to evaluate the operational capability of the block; and
 
@@ -298,7 +298,7 @@ Evaluation.—(1) The Director of Operational Test and Evaluation shall evaluate
 
 Cost, Schedule, and Performance Baselines.—(1) The Director of the Missile Defense Agency shall establish cost, schedule, and performance baselines for each block configuration of the Ballistic Missile Defense System being fielded. The cost baseline for a block configuration shall include full life cycle costs for the block configuration.
 
-“(2) The Director shall include the baselines established under paragraph (1) in the first Selected Acquisition Report for the Ballistic Missile Defense System that is submitted to Congress under section 2432 of title10, United States Code, after the establishment of such baselines.
+“(2) The Director shall include the baselines established under paragraph (1) in the first Selected Acquisition Report for the Ballistic Missile Defense System that is submitted to Congress under section 2432 of title 10, United States Code, after the establishment of such baselines.
 
 “(3) The Director shall also include in the Selected Acquisition Report submitted to Congress under paragraph (2) the significant assumptions used in determining the performance baseline under paragraph (1), including any assumptions regarding threat missile countermeasures and decoys.
 
@@ -484,7 +484,7 @@ National Laboratories.—For purposes of this section, the national laboratories
 
 #### Ballistic Missile Defense Program
 
-Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(c), Dec. 2, 2002, 116 Stat. 2646, provided that:
+Pub. L. 104–106, div. A, title II, subtitle C, Feb. 10, 1996, 110 Stat. 228–233, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(c), Dec. 2, 2002, 116 Stat. 2646, provided that:
 
 #### “SEC. 231. SHORT TITLE.
 
@@ -580,7 +580,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 &emsp;“(B) the statement in section 232 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2700) that the United States shall not be bound by any international agreement entered into by the President that would substantively modify the ABM Treaty unless the agreement is entered into pursuant to the treaty making power of the President under the Constitution.
 
-“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of a missile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
+“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of amissile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
 
 “(b)
 
@@ -660,7 +660,7 @@ Compliance Review for Brilliant Eyes.—The Secretary of Defense shall review th
 
 Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
-“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
+“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, asdetermined under the compliance review under paragraph (1).
 
 “(e)
 
@@ -826,23 +826,23 @@ Pub. L. 101–510, div. A, title II, §221, Nov. 5, 1990, 104 Stat. 1511.
 
 #### Stretchout of Major Defense Acquisition Programs
 
-Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII,§4321(i)(3), Feb. 10, 1996, 110 Stat. 676, required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by Pub. L. 105–85, div. A, title X, §1041(c), Nov. 18, 1997, 111 Stat. 1885.
+Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676, required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by Pub. L. 105–85, div. A, title X, §1041(c), Nov. 18, 1997, 111 Stat. 1885.
 
 #### Prohibition of Certain Contracts With Foreign Entities
 
-Pub. L. 100–180, div. A, title II, §222, Dec. 4, 1987, 101 Stat. 1055, prohibited use of appropriated funds for certain Strategic Defense Initiative program contracts with foreign entities, prior to repeal by Pub. L. 111–383, div. A, title II, §222, Jan. 7, 2011, 124 Stat. 4168.
+Pub. L. 100–180, div. A, title II, §222, Dec. 4, 1987, 101 Stat. 1055, prohibited use of appropriated funds for certain Strategic Defense Initiative program contractswith foreign entities, prior to repeal by Pub. L. 111–383, div. A, title II, §222, Jan. 7, 2011, 124 Stat. 4168.
 
 #### Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union
 
-Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed with funds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
+Pub. L. 100–180, div. A, title II, §223, Dec. 4, 1987, 101 Stat. 1056, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed with funds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
 
 #### SDI Architecture To Require Human Decision Making
 
-Section 224 of Pub. L. 100–180 provided that: “No agency of the Federal Government may plan for, fund, or otherwise support the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats that would permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.”
+Pub. L. 100–180, div. A, title II, §224, Dec. 4, 1987, 101 Stat. 1056, provided that: “No agency of the Federal Government may plan for, fund, or otherwise support the development of command and control systems for strategic defense in the boost or post-boost phase against ballistic missile threats that would permit such strategic defenses to initiate the directing of damaging or lethal fire except by affirmative human decision at an appropriate level of authority.”
 
 #### Prohibition on Deployment of Anti-Ballistic Missile System Unless Authorized by Law
 
-Section 226 of Pub. L. 100–180 prohibited Secretary of Defense from deploying anti-ballistic missile system unless such deployment was specifically authorized by law after Dec. 4, 1987, prior to repeal by Pub. L. 104–106, div. A, title II, §253(3), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 100–180, div. A, title II, §226, Dec. 4, 1987, 101 Stat. 1057, prohibited Secretary of Defense from deploying anti-ballistic missile system unless such deployment was specifically authorized by law after Dec. 4, 1987, prior to repeal by Pub. L. 104–106, div. A, title II, §253(3), Feb. 10, 1996, 110 Stat. 234.
 
 #### Establishment of Federally Funded Research and Development Center To Support SDI Program
 
@@ -870,7 +870,7 @@ Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secre
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
-Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than one year after Oct. 19, 1984, to develop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each ofthe military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
+Pub. L. 98–525, title XII, §1252, Oct. 19, 1984, 98 Stat. 2610, directed Secretary of Defense, not later than one year after Oct. 19, 1984, to develop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
 
 #### Consultation With Allies on Strategic Defense Initiative Program
 
@@ -934,7 +934,7 @@ Pub. L. 96–418, title VIII, §802, Oct. 10, 1980, 94 Stat. 1775, as amended by
 
 &emsp;“(C) guarantee State or municipal indebtedness, and make interest payments, in whole or in part, for State or municipal indebtedness, for improved public facilities related to the MX Missile System site or the East Coast Trident Base, as the case may be; and
 
-&emsp;“(D) make direct grants to or on behalf of communities described in subsection (a) in cases in whichFederal programs (or funds for such programs) do not exist or are not sufficient to meet the costs of providing increased municipal services and facilities to the residents of such communities.
+&emsp;“(D) make direct grants to or on behalf of communities described in subsection (a) in cases in which Federal programs (or funds for such programs) do not exist or are not sufficient to meet the costs of providing increased municipal services and facilities to the residents of such communities.
 
 “(2) The head of each department and agency shall cooperate fully with the Secretary in carrying out the provisions of this section on a priority basis.
 
@@ -980,11 +980,11 @@ Pub. L. 96–29, title II, §202, June 27, 1979, 93 Stat. 79, provided that:
 
 #### Reports to Congress of Acquisitions for Major Defense Systems
 
-Section 811 of Pub. L. 94–106, as amended by Pub. L. 96–107, title VIII, §809, Nov. 9, 1979, 93 Stat. 815; Pub. L. 97–86, title IX, §917(e), Dec. 1, 1981, 95 Stat. 1131, which required reports to Congress respecting acquisitions of major defense systems, including total program acquisition unit costs, was repealed by Pub. L. 97–252, title XI, §1107(b), Sept. 8, 1982, 96 Stat. 746, effective Jan. 1, 1983, as provided in section 1107(c) of Pub. L. 97–252, set out as an Effective Date note under section 2432 of this title. See sections 2432 and 2433 of this title.
+Pub. L. 94–106, title VIII, §811, Oct. 7, 1975, 89 Stat. 539, as amended by Pub. L. 96–107, title VIII, §809, Nov. 9, 1979, 93 Stat. 815; Pub. L. 97–86, title IX, §917(e), Dec. 1, 1981, 95 Stat. 1131, which required reports to Congress respecting acquisitions of major defense systems, including total program acquisition unit costs, was repealed by Pub. L. 97–252, title XI, §1107(b), Sept. 8, 1982, 96 Stat. 746, effective Jan. 1, 1983, as provided in section 1107(c) of Pub. L. 97–252, set out as an Effective Date note under section 2432 of this title. See sections 2432 and 2433 of this title.
 
 #### Trident Support Site, Bangor, Washington; Financial Aid to Local Communities; Reports
 
-Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provided:
+Pub. L. 93–552, title VI, §608, Dec. 27, 1974, 88 Stat. 1763, provided:
 
 “(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 

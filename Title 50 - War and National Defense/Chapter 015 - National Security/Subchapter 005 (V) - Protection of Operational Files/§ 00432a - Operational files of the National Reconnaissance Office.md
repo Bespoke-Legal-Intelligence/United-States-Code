@@ -58,7 +58,7 @@
 
 &emsp;(vi) If the court finds under this paragraph that NRO has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NRO to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 and such order shall be the exclusive remedy for failure to comply with this subsection.
 
-&emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NRO agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
+&emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NROagrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
 &emsp;(viii) Any information filed with, or produced for the court pursuant to clauses (i) and (iv) shall be coordinated with the Director of National Intelligence prior to submission to the court.
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) Whether NRO, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §703, formerly title I, §105D, as added Pub. L. 107–306, title V, §502(a), Nov. 27, 2002, 116 Stat. 2405; renumberedtitle VII, §703, and amended Pub. L. 108–136, div. A, title IX, §922(c), (d)(1)(D), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(GG)–(II), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(2), Jan. 6, 2006, 119 Stat. 3416.)
+(July 26, 1947, ch. 343, title VII, §703, formerly title I, §105D, as added Pub. L. 107–306, title V, §502(a), Nov. 27, 2002, 116 Stat. 2405; renumbered title VII, §703, and amended Pub. L. 108–136, div. A, title IX, §922(c), (d)(1)(D), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(GG)–(II), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(2), Jan. 6, 2006, 119 Stat. 3416.)
 
 #### References in Text
 

@@ -138,7 +138,7 @@ Definitions.—As used in this section, the term ‘grave breach of the Geneva C
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–366, §6(b)(2), Oct. 17, 2006, 120 Stat. 2635, provided that: “The amendments made by this subsection \[amending this section\], except as specified in subsection (d)(2)(E) of section 2441 of title 18, United States Code, shall take effect as of November 26, 1997, as if enacted immediately after the amendments made by section 583 of Public Law 105–118 \[amending this section\] (as amended by section 4002(e)(7) of Public Law 107–273).”
+Pub. L. 109–366, §6(b)(2), Oct. 17, 2006, 120 Stat. 2635, provided that: “The amendments made by this subsection \[amending this section\], except as specified in subsection (d)(2)(E) of section 2441 of title 18, United States Code, shall take effect as of November 26, 1997,as if enacted immediately after the amendments made by section 583 of Public Law 105–118 \[amending this section\] (as amended by section 4002(e)(7) of Public Law 107–273).”
 
 #### Effective Date of 2002 Amendment
 
@@ -146,7 +146,7 @@ Pub. L. 107–273, div. B, title IV, §4002(e)(7), Nov. 2, 2002, 116 Stat. 1810,
 
 #### Short Title
 
-Section 1 of Pub. L. 104–192 provided that: “This Act \[enacting this chapter\] may be cited as the ‘War Crimes Act of 1996’.”
+Pub. L. 104–192, §1, Aug. 21, 1996, 110 Stat. 2104, provided that: “This Act \[enacting this chapter\] may be cited as the ‘War Crimes Act of 1996’.”
 
 #### Implementation of Treaty Obligations
 

@@ -30,7 +30,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 #### (d) Surrender of certificates; regulations
 
-Notwithstanding subsection (a) of this section, it shall be unlawful for any registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate unless the certificate provide that the holder thereof may surrender the certificate at any time within the first eighteen months after the issuance of the certificate and receive in payment thereof, in cash, the sum of (1) the value of his account, and (2) an amount, from such underwriter or depositor, equal to that part of the excess paid for sales loading which is over 15 per centum of the gross payments made by the certificate holder. The Commission may make rules and regulations applicable to such underwriters and depositors specifying such reserve requirements as it deems necessary or appropriate in order for such underwriters and depositors to carry out the obligations to refund sales charges required by this subsection.
+Notwithstanding subsection (a) of this section, it shall be unlawful for any registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate unless the certificate provide that the holder thereof may surrender the certificate at any time within the first eighteen months after the issuance of the certificate and receive in payment thereof, in cash, the sum of (1) the value of his account, and (2) an amount, fromsuch underwriter or depositor, equal to that part of the excess paid for sales loading which is over 15 per centum of the gross payments made by the certificate holder. The Commission may make rules and regulations applicable to such underwriters and depositors specifying such reserve requirements as it deems necessary or appropriate in order for such underwriters and depositors to carry out the obligations to refund sales charges required by this subsection.
 
 #### (e) Refund privileges; notice; rules
 
@@ -70,7 +70,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(A) such contract is a redeemable security; and
 
-&emsp;(B) the insurance company complies with section 80a–26(f) of this title and any rules orregulations issued by the Commission under section 80a–26(f) of this title.
+&emsp;(B) the insurance company complies with section 80a–26(f) of this title and any rules or regulations issued by the Commission under section 80a–26(f) of this title.
 
 #### (j) Termination of sales
 

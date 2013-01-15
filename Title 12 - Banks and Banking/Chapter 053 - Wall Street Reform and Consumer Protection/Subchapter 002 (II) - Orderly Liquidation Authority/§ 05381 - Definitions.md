@@ -36,7 +36,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;The term “covered broker or dealer” means a covered financial company that is a broker or dealer that—
 
-&emsp;&emsp;(A) is registered with the Commission under section 78<i>o</i>(b) of title 15; and
+&emsp;&emsp;(A) is registered with the Commission under section 78o(b) of title 15; and
 
 &emsp;&emsp;(B) is a member of SIPC.
 
@@ -60,7 +60,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (10) Definitions relating to covered brokers and dealers
 
-&emsp;The terms “customer”, “customer name securities”, “customer property”, and “net equity” in the context of a covered broker or dealer, have the same meanings as in section 78<i>lll</i> of title 15.
+&emsp;The terms “customer”, “customer name securities”, “customer property”, and “net equity” in the context of a covered broker or dealer, have the same meanings as in section 78lll of title 15.
 
 #### (11) Financial company
 
@@ -92,7 +92,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) subject to regulation by a State insurance regulator; and
 
-&emsp;&emsp;(C) covered by a State law that is designed to specifically deal with the rehabilitation,liquidation, or insolvency of an insurance company.
+&emsp;&emsp;(C) covered by a State law that is designed to specifically deal with the rehabilitation, liquidation, or insolvency of an insurance company.
 
 #### (14) Nonbank financial company
 
@@ -108,7 +108,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (b) Definitional criteria
 
-For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of section 1843(k) of this title, if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, in consultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
+For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of section 1843(k) of this title, if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, inconsultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
 
 (Pub. L. 111–203, title II, §201, July 21, 2010, 124 Stat. 1442.)
 

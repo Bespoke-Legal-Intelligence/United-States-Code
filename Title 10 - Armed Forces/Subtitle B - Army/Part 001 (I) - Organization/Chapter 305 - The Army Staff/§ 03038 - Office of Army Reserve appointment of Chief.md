@@ -24,7 +24,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (c)
 
-Term; Reappointment; Grade.—(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
+Term; Reappointment; Grade.—(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause atany time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 
 (2) The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
 

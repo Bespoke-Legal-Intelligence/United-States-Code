@@ -6,7 +6,7 @@ The Secretary shall ensure that amounts made available under subparts 14, 15 and
 
 #### References in Text
 
-Subparts 14, 15 and 16 of part C, referred to in text, are classified to sections 285n et seq., 285<i>o</i> et seq., and 285p et seq., respectively, of this title.
+Subparts 14, 15 and 16 of part C, referred to in text, are classified to sections 285n et seq., 285o et seq., and 285p et seq., respectively, of this title.
 
 #### Amendments
 

@@ -10,5 +10,5 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 105–55 provided that: “This section \[enacting this section\] is effective for fiscal years beginning on and after October 1, 1997.”
+Pub. L. 105–55, title I, §6(c), Oct. 7, 1997, 111 Stat. 1181, provided that: “This section \[enacting this section\] is effective for fiscal years beginning on and after October 1, 1997.”
 

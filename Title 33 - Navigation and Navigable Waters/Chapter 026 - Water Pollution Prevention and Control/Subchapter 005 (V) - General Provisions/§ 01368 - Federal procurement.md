@@ -12,7 +12,7 @@ The Administrator shall establish procedures to provide all Federal agencies wit
 
 #### (d) Exemptions
 
-The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of theUnited States and he shall notify the Congress of such exemption.
+The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
 
 #### (e) Annual report to Congress
 
@@ -20,7 +20,7 @@ The President shall annually report to the Congress on measures taken in complia
 
 #### (f) Contractor certification or contract clause in acquisition of commercial items
 
-(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the acquisition of commercial items in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
+(1) No certification by a contractor, and no contract clause, may be required in the case ofa contract for the acquisition of commercial items in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
 
 (2) In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41.
 

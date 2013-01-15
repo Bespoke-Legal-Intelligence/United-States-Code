@@ -34,7 +34,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
-&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
+&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies,and services related thereto, in developing countries;
 
 &emsp;(B) utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
 
@@ -126,7 +126,7 @@ In carrying out this section, the Secretary, through the Agency for Internationa
 
 The Secretary and the Administrator of the Agency for International Development shall report annually to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives on the progress being made to introduce renewable energy technologies into foreign countries.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 For purposes of this section—
 

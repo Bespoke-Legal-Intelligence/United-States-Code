@@ -42,7 +42,7 @@ The period during which payments may be made for a project under subsection (a) 
 
 A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 410; amended Pub. L. 102–352, §2(a)(13), Aug. 26, 1992, 106 Stat. 939, related to categorical grants to States for programs regarding substance abuse, prior to repeal by Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.
 
-Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Oct. 27, 1986, Pub. L. 99–570,title IV, §4002, 100 Stat. 3207–103, related to establishment of special alcohol abuse and drug abuse programs, prior to repeal by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
+Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4002, 100 Stat. 3207–103, related to establishment of special alcohol abuse and drug abuse programs, prior to repeal by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
 
 Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 552, related to planning grants, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 

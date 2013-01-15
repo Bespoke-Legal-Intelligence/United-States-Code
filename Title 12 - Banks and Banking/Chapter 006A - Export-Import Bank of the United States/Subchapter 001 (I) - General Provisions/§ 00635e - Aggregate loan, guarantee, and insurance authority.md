@@ -16,9 +16,25 @@
 
 &emsp;&emsp;(C) during fiscal year 2004, $90,000,000,000;
 
-&emsp;&emsp;(D) during fiscal year 2005, $95,000,000,000; and
+&emsp;&emsp;(D) during fiscal year 2005, $95,000,000,000;
 
-&emsp;&emsp;(E) during fiscal year 2006, and each fiscal year thereafter through fiscal year 2011,<sup>1</sup>
+&emsp;&emsp;(E) during fiscal year 2006, and each fiscal year thereafter through fiscal year 2011; <sup>1</sup> and
+
+&emsp;&emsp;(F) during fiscal year 2012 and each succeeding fiscal year, $120,000,000,000, except that—
+
+&emsp;&emsp;&emsp;(i) the applicable amount for each of fiscal years 2013 and 2014 shall be $130,000,000,000 if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Bank has submitted a report as required by section 4(a) of the Export-Import Bank Reauthorization Act of 2012; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the rate calculated under section 635g(g)(1) of this title is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) notwithstanding clause (i), the applicable amount for fiscal year 2014 shall be $140,000,000,000 if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the rate calculated under section 635g(g)(1) of this title is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Bank has submitted a report as required by subsection (b) of section 5 of the Export-Import Bank Reauthorization Act of 2012, except that the preceding provisions of this subclause shall not apply if the Comptroller General has not submitted the report required by subsection (a) of such section 5 on or before July 1, 2013; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary of the Treasury has submitted the reports required by section 635a–5(b) of this title.
 
 #### (3) Subject to appropriations
 
@@ -40,19 +56,27 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the President of the United States finds that the amount of direct loan authority or guarantee authority available to the Bank for the fiscal year involved exceeds the amount which will be necessary to carry out the Bank's functions consistent with the availability of qualified applications and limitations imposed by law during such year, the President of the United States shall promptly transmit to the Congress a request for legislation to eliminate the amount of such excess direct loan, loan guarantee, or insurance authority.
+&emsp;&emsp;If the President of the United States finds that the amount of direct loan authority orguarantee authority available to the Bank for the fiscal year involved exceeds the amount which will be necessary to carry out the Bank's functions consistent with the availability of qualified applications and limitations imposed by law during such year, the President of the United States shall promptly transmit to the Congress a request for legislation to eliminate the amount of such excess direct loan, loan guarantee, or insurance authority.
 
 #### (B) Continued availability of authority
 
 &emsp;&emsp;The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title VI, §§615, 620(d), Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275.)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I \[title VI, §§615, 620(d)\], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350.)
+
+#### References in Text
+
+Section 4(a) of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(i)(I), is section 4(a) of Pub. L. 112–122, May 30, 2012, 126 Stat. 351, which is not classified to the Code.
+
+Section 5 of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(ii)(II), is section 5 of Pub. L. 112–122, May 30, 2012, 126 Stat. 352, which is not classified to the Code.
 
 #### Prior Provisions
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2)(F). Pub. L. 112–122 added subpar. (F).
 
 <b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “during fiscal year 2006, $100,000,000,000.”
 
@@ -104,5 +128,5 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 For effective date of amendment by act Aug. 9, 1954, see note set out under section 635a of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be followed by a dollar amount and a period.</i>
+<i><sup>1</sup></i><i> So in original. “2011” probably should be followed by a comma and a dollar amount.</i>
 

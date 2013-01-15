@@ -10,7 +10,7 @@
 
 &emsp;(4) To repair, alter, or improve a farm residence or other dwelling owned by the veteran and occupied by the veteran as the veteran's home.
 
-&emsp;(5) To refinance existing mortgage loans or other liens which are secured of record on a dwelling or farm residence owned and occupied by the veteran as the veteran's home.
+&emsp;(5) To refinance existing mortgage loans or other liens which are secured of record on adwelling or farm residence owned and occupied by the veteran as the veteran's home.
 
 &emsp;(6) To purchase a one-family residential unit in a condominium housing development or project, if such development or project is approved by the Secretary under criteria which the Secretary shall prescribe in regulations.
 
@@ -24,7 +24,7 @@
 
 &emsp;(B)(i) To refinance, in accordance with the terms and conditions applicable under the provisions of subsection (e) of this section (other than paragraph (1)(E) of such subsection) to the guaranty of a loan for the purpose specified in clause (8) of this subsection, an existing loan guaranteed, insured, or made under this chapter that is secured by a manufactured home permanently affixed to a lot that is owned by the veteran.
 
-&emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan thatwas made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
+&emsp;(ii) To refinance, in accordance with section 3712(a)(5) of this title, an existing loan that was made for the purchase of, and that is secured by, a manufactured home that is permanently affixed to a lot and to purchase the lot to which the manufactured home is affixed.
 
 &emsp;(10) To purchase a dwelling to be owned and occupied by the veteran as a home and make energy efficiency improvements, as provided in subsection (d).
 
@@ -86,7 +86,7 @@
 
 (6) For the purposes of this subsection:
 
-&emsp;(A) The term “energy efficiency improvement” includes a solar heating system, a solarheating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
+&emsp;(A) The term “energy efficiency improvement” includes a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
 
 &emsp;(B) The term “solar heating” has the meaning given such term in section 3(1) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(1)) and, in addition, includes a passive system based on conductive, convective, or radiant energy transfer.
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(ii) must have previously occupied such dwelling or residence as such veteran's home and must certify, in such form as the Secretary shall require, that the veteran has previously so occupied such dwelling or residence; or
 
-&emsp;&emsp;(iii) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy such residence or dwelling as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, such dwelling or residence as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
+&emsp;&emsp;(iii) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy such residence or dwelling as a home because of suchstatus, the spouse of the veteran must occupy, or must have previously occupied, such dwelling or residence as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
 (2) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (8) of subsection (a) of this section without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
@@ -148,7 +148,7 @@
 
 (f)(1) For a loan to be guaranteed for the purpose specified in subclause (A)(ii) or (B)(ii) of subsection (a)(9) of this section, the purchase of (or the refinancing of a loan secured by) the manufactured home and the lot for that home shall be considered as one loan and must comply with such criteria as may be prescribed by the Secretary in regulations.
 
-(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon beingpermanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
+(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
 (g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
@@ -184,7 +184,7 @@
 
 (3) When applying the term “value of the property” to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amendedPub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176.)
 
 #### References in Text
 
@@ -340,5 +340,5 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

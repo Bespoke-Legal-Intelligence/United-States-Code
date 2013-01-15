@@ -106,19 +106,19 @@ Subsec. (e). Pub. L. 99–272, §13203(c), substituted “Reduction in amount of
 
 #### Effective Date of 1986 Amendments
 
-Section 1897(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 13203 of Pub. L. 99–272, see note below\].”
+Pub. L. 99–514, title XVIII, §1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 13203 of Pub. L. 99–272, see note below\].”
 
-Section 13203(d) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section\] shall apply to sales after March 31, 1986.”
+Pub. L. 99–272, title XIII, §13203(d), Apr. 7, 1986, 100 Stat. 313, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after March 31, 1986.”
 
 #### Effective Date of 1981 Amendment
 
-Section 102(b) of Pub. L. 97–119 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales after December 31, 1981.”
+Pub. L. 97–119, title I, §102(b), Dec. 29, 1981, 95 Stat. 1635, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales after December 31, 1981.”
 
 #### Effective Date
 
-Section 2(d) of Pub. L. 95–227 provided that: “The amendments made by this section \[enacting this section and amending sections 4218, 4221, 4293, and 6416 of this title\] shall apply with respect to sales after March 31, 1978.”
+Pub. L. 95–227, §2(d), Feb. 10, 1978, 92 Stat. 12, provided that: “The amendments made by this section \[enacting this section and amending sections 4218, 4221, 4293, and 6416 of this title\] shall apply with respect to sales after March 31, 1978.”
 
-Section 5 of Pub. L. 95–227 provided that: “Notwithstanding any other provision of this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\] to the contrary, no provision of this Act (including any amendment made by any such provision) shall take effect or apply unless an Act, enacted after the date of enactment of this Act \[Feb. 10, 1978\], contains a provision, explicitly in satisfaction of the requirements of this section, which states that it is the intent of the Congress that the provisions of this Act shall take effect.”
+Pub. L. 95–227, §5, Feb. 10, 1978, 92 Stat. 24, provided that: “Notwithstanding any other provision of this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\] to the contrary, no provision of this Act (including any amendment made by any such provision) shall take effect or apply unless an Act, enacted after the date of enactment of this Act \[Feb. 10, 1978\], contains a provision, explicitly in satisfaction of the requirements of this section, which states that it is the intent of the Congress that the provisions of this Act shall take effect.”
 
 \[Pub. L. 95–239, §20(c), Mar. 1, 1978, 92 Stat. 106, provided that: “In accordance with the requirements of section 5 of the Black Lung Benefits Revenue Act of 1977 \[Pub. L. 95–227, set out above\], it is hereby provided that such Act shall take effect in accordance with the provisions of such Act. The provisions of this subsection are hereby deemed to be in explicit satisfaction of the requirements of section 5 of such Act.”\]
 
@@ -148,7 +148,7 @@ In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and sec
 
 &emsp;&emsp;&emsp;“(iii) such coal producer files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
 
-&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped bythe coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
+&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
 
 &emsp;&emsp;“(B)
 

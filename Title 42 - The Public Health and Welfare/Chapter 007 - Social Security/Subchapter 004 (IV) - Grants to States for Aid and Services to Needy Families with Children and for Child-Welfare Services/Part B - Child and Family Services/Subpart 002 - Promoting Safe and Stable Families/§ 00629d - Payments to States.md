@@ -34,7 +34,7 @@ The Secretary shall pay any amount to which an Indian tribe or tribal consortium
 
 The Secretary shall not make a payment to a State under this section with respect to expenditures for administrative costs during a fiscal year, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year under the State plan approved under section 629b of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10,1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243.)
 
 #### Prior Provisions
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 109–288, §5(b)(3)(B), in heading inserted “or tribal c
 
 Subsec. (d). Pub. L. 109–288, §3(f)(1)(B), added subsec. (d).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–133, §104(a), struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under section 629b of this title shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck outformer par. (2) which related to a special rule for fiscal year 1994.
+<b>2002</b>—Subsec. (a). Pub. L. 107–133, §104(a), struck out par. (1) designation and heading after subsec. heading, substituted “Each State that has a plan approved under section 629b of this title shall be entitled to payment of the lesser of—” for “Except as provided in paragraph (2) of this subsection, each State which has a plan approved under this subpart shall be entitled to payment of the lesser of—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned their margins, and struck out former par. (2) which related to a special rule for fiscal year 1994.
 
 Subsec. (b)(1). Pub. L. 107–133, §104(b)(1), struck out “paragraph (1) or (2)(B) of” after “amount paid under” and substituted “under the State plan under section 629b of this title” for “described in this subpart”.
 

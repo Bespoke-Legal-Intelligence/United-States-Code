@@ -20,7 +20,7 @@
 
 (e) The Council shall terminate on September 30, 2020.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, §3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat.3505; Pub. L. 100–448, §20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, §24, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(f), Oct. 19, 1996, 110 Stat. 3918; Pub. L. 107–295, title III, §335, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(f), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, §621(b), Oct. 15, 2010, 124 Stat. 2976.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, §3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, §24, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(f), Oct. 19, 1996, 110 Stat. 3918; Pub. L. 107–295, title III, §335, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(f), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, §621(b), Oct. 15, 2010, 124 Stat. 2976.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Pub. L. 100–448, §20(b), Sept. 28, 1988, 102 Stat. 1846, provided that: “The Secretary of the department in which the Coast Guard is operating shall carry out the amendments made by subsection (a) \[amending this section\] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Implementation of 1986 Amendment
 

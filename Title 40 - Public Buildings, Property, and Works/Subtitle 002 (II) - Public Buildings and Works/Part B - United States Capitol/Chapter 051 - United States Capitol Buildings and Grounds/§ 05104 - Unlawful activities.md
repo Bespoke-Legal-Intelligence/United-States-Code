@@ -78,7 +78,7 @@ Violent entry and disorderly conduct.—An individual or group of individuals ma
 
 &emsp;&emsp;&emsp;(ii) the Library of Congress;
 
-&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptiveconduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
+&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
 
 &emsp;&emsp;(E) obstruct, or impede passage through or within, the Grounds or any of the Capitol Buildings;
 
@@ -160,6 +160,10 @@ In subsection (e)(2)(A), the words “unless authorized to do so pursuant to rul
 
 The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, ch. 465, 47 Stat. 650, as amended, which is not classified to the Code.
 
+#### Constitutionality
+
+For information regarding constitutionality of section 7 of act July 31, 1946, cited as a source of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(A)(iii). See 2007 Amendment note below.
@@ -170,7 +174,7 @@ The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, 
 
 #### Effective Date of 2010 Amendment
 
-Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of Title 2, The Congress.
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub.L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 

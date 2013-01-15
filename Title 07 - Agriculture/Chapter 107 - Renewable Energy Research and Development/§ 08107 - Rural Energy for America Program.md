@@ -120,7 +120,7 @@ The Secretary, in consultation with the Secretary of Energy, shall establish a R
 
 #### (C) Maximum amount of combined grant and loan guarantee
 
-&emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
+&emsp;&emsp;The combined amount of a grant and loan guaranteed under this subsection shall notexceed 75 percent of the cost of the activity funded under this subsection.
 
 #### (d) Outreach
 
@@ -166,9 +166,9 @@ Not later than 4 years after the date of enactment of the Food, Conservation, an
 
 #### (3) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2012.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077.)
+(Pub. L. 107–171, title IX, §9007, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, §701(f)(6), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### References in Text
 
@@ -181,4 +181,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 8107, Pub. L. 107–171, title IX, §9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (g)(3). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

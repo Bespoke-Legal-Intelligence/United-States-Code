@@ -24,7 +24,7 @@ Section 145j, act Oct. 11, 1951, ch. 495, §6, Pt. B, 65 Stat. 415, related to a
 
 Section 145k, act Oct. 11, 1951, ch. 495, §6, Pt. B, 65 Stat. 415, related to special lights for ships of war, for vessels sailing under convoy and for seaplanes on the water, recognition signals adopted by shipowners, and lights of naval and military vessels and seaplanes of special construction.
 
-Section 145<i>l</i>, act Oct. 11, 1951, ch. 495, §6, Pt. B, 65 Stat. 415, related to day signal of steam vessel under sail.
+Section 145l, act Oct. 11, 1951, ch. 495, §6, Pt. B, 65 Stat. 415, related to day signal of steam vessel under sail.
 
 Section 145m, act Oct. 11, 1951, ch. 495, §6, Pt. B, 65 Stat. 415, related to sound signals under conditions of restricted visibility.
 

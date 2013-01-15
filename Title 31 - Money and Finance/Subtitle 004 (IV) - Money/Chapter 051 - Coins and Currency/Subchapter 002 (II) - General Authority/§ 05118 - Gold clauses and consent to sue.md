@@ -24,7 +24,7 @@
 
 (2) Paragraph (1) of this subsection does not apply to a proceeding in which no claim is made for payment or credit in an amount greater than the face or nominal value in dollars of public debt obligations or United States coins or currency involved in the proceeding.
 
-(3) Except when consent is not withdrawn under this subsection, an amount appropriated for payment on public debt obligations and for United States coins and currency may be expended only dollar for dollar.
+(3) Except when consent is not withdrawn under this subsection, an amount appropriatedfor payment on public debt obligations and for United States coins and currency may be expended only dollar for dollar.
 
 (d)(1) In this subsection, “obligation” means any obligation (except United States currency) payable in United States money.
 
@@ -88,9 +88,13 @@ In subsection (c)(3), the words “may be expended” are substituted for “an 
 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 
+#### Constitutionality
+
+For information regarding constitutionality of section 1 of act June 5, 1933, cited as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
-<b>1997</b>—Subsec. (d)(2). Pub. L. 105–61 struck out at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27,1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–61 struck out at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
 
 <b>1996</b>—Subsec. (d)(2). Pub. L. 104–208 inserted at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
 

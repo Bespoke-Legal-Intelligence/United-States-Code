@@ -34,7 +34,7 @@ In carrying out activities designed to achieve the goals described in subsection
 
 &emsp;(3) Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.
 
-&emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics,and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
+&emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
 
 (Pub. L. 105–207, title I, §101, July 29, 1998, 112 Stat. 869.)
 
@@ -128,7 +128,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], and annually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], and annually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shallsubmit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;“(B)
 

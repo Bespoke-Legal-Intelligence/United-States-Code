@@ -42,5 +42,5 @@ Amendment by Pub, L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968,see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
+Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
 

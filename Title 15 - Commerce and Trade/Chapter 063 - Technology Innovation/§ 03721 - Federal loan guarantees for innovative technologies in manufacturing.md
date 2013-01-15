@@ -16,7 +16,7 @@ A loan guarantee may be made under the program only for a project that re-equips
 
 #### (c) Eligible borrower
 
-A loan guarantee may be made under the program only for a borrower who is a small- or medium-sized manufacturer, as determined by the Secretary under the criteria established pursuant to subsection (<i>l</i>).
+A loan guarantee may be made under the program only for a borrower who is a small- or medium-sized manufacturer, as determined by the Secretary under the criteria established pursuant to subsection (l).
 
 #### (d) Limitation on amount
 
@@ -118,7 +118,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 The full faith and credit of the United States is pledged to the payment of all loan guarantees issued under this section with respect to principal and interest.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 The Secretary shall issue final regulations before making any loan guarantees under the program. The regulations shall include—
 
@@ -152,7 +152,7 @@ The Secretary shall issue final regulations before making any loan guarantees un
 
 Concurrent with the submission to Congress of the President's annual budget request in each year after January 4, 2011, the Secretary shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of all activities carried out under this section.
 
-#### (<i>o</i>) Coordination and nonduplication
+#### (o) Coordination and nonduplication
 
 To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other loan guarantee programs within the Federal Government.
 
@@ -208,5 +208,5 @@ There are authorized to be appropriated $20,000,000 for each of fiscal years 201
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives byHouse Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

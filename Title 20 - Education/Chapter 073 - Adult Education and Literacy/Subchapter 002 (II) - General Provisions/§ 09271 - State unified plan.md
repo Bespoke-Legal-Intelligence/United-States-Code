@@ -8,7 +8,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (1) In general
 
-&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
+&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
 
 #### (2) Activities
 
@@ -24,7 +24,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 &emsp;&emsp;(E) Programs authorized under section 6(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)).
 
-&emsp;&emsp;(F) Work programs authorized under section 6(<i>o</i>) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(<i>o</i>)).
+&emsp;&emsp;(F) Work programs authorized under section 6(o) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(o)).
 
 &emsp;&emsp;(G) Activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.).
 

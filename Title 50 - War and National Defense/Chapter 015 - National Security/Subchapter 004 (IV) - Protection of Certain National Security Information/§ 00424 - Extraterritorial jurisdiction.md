@@ -2,5 +2,9 @@
 
 There is jurisdiction over an offense under section 421 of this title committed outside the United States if the individual committing the offense is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence (as defined in section 1101(a)(20) of title 8).
 
-(July 26, 1947, ch. 343, title VI, §604, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123.)
+(July 26, 1947, ch. 343, title VI, §603, formerly §604, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; renumbered §603, Pub. L. 112–277, title III, §310(a)(4)(B), Jan. 14, 2013, 126 Stat. 2475.)
+
+#### Prior Provisions
+
+A prior section 603 of act July 26, 1947, was classified to section 423 of this title, prior to repeal by Pub. L. 112–277, title III, §310(a)(4)(A), Jan. 14, 2013, 126 Stat. 2475.
 

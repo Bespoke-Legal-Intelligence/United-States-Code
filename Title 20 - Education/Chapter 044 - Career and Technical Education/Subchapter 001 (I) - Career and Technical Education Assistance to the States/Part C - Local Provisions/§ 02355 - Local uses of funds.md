@@ -26,7 +26,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 &emsp;&emsp;(C) encouraging schools to collaborate with technology industries to offer voluntary internships and mentoring programs, including programs that improve the mathematics and science knowledge of students;
 
-&emsp;(5) provide professional development programs that are consistent with section 2342 of this title to secondary and postsecondary teachers, faculty, administrators, and career guidance and academic counselors who are involved in integrated career and technical education programs, including—
+&emsp;(5) provide professional development programs that are consistent with section 2342 ofthis title to secondary and postsecondary teachers, faculty, administrators, and career guidance and academic counselors who are involved in integrated career and technical education programs, including—
 
 &emsp;&emsp;(A) in-service and preservice training on—
 
@@ -100,7 +100,7 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 &emsp;(11) to provide activities to support entrepreneurship education and training;
 
-&emsp;(12) for improving or developing new career and technical education courses, including the development of new proposed career and technical programs of study for consideration by the eligible agency and courses that prepare individuals academically and technically for high skill, high wage, or high demand occupations and dual or concurrent enrollment opportunities by which career and technical education students at the secondary level could obtain postsecondary credit to count towards an associate or baccalaureate degree;
+&emsp;(12) for improving or developing new career and technical education courses, including the development of new proposed career and technical programs of study for consideration by the eligible agency and courses that prepare individuals academically and technically forhigh skill, high wage, or high demand occupations and dual or concurrent enrollment opportunities by which career and technical education students at the secondary level could obtain postsecondary credit to count towards an associate or baccalaureate degree;
 
 &emsp;(13) to develop and support small, personalized career-themed learning communities;
 

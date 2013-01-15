@@ -30,7 +30,7 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 &emsp;(11) establishing and maintaining accountability-based programs designed to reduce recidivism among juveniles who are referred by law enforcement personnel or agencies;
 
-&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental healthscreening and treatment and substance abuse testing and treatment to such offenders;
+&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental health screening and treatment and substance abuse testing and treatment to such offenders;
 
 &emsp;(13) establishing and maintaining accountability-based programs that are designed to enhance school safety, which programs may include research-based bullying, cyberbullying, and gang prevention programs;
 

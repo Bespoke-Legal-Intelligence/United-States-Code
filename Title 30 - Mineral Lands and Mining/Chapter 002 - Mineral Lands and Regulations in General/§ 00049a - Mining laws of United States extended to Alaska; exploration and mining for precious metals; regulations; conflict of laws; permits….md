@@ -26,7 +26,7 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 #### Non-Impairment of Valid Claims and Rights
 
-Section 2 of act Aug. 8, 1947, provided: “Nothing in this Act \[amending this section\] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) \[25 U.S.C. 280a\], arising under any other provision of law.”
+Act Aug. 8, 1947, ch. 514, §2, 61 Stat. 916, provided: “Nothing in this Act \[amending this section\] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) \[25 U.S.C. 280a\], arising under any other provision of law.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -17,7 +17,7 @@ Part VI—Miscellaneous Provisions
 - [&sect; 01646c - Export reporting requirement](%C2%A7%2001646c%20-%20Export%20reporting%20requirement.md)
 - [&sect; 01647 - Repealed. June 25, 1948, ch. 646, &sect;39, 62 Stat. 992, eff. Sept. 1, 1948](%C2%A7%2001647%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md)
 - [&sect; 01648 - Uncertified checks, United States notes, and national bank notes receivable for customs duties](%C2%A7%2001648%20-%20Uncertified%20checks%2C%20United%20States%20notes%2C%20and%20national%20bank%20notes%20receivable%20for%20customs%20duties.md)
-- [&sect; 01649 - Change in designation of customs attache&#65533;AE1s](%C2%A7%2001649%20-%20Change%20in%20designation%20of%20customs%20attache%EF%BF%BDAE1s.md)
+- [&sect; 01649 - Change in designation of customs attach&#233;s](%C2%A7%2001649%20-%20Change%20in%20designation%20of%20customs%20attach%C3%A9s.md)
 - [&sect; 01650 - Transferred](%C2%A7%2001650%20-%20Transferred.md)
 - [&sect; 01651 - Repeals](%C2%A7%2001651%20-%20Repeals.md)
 - [&sect; 01652 - Separability](%C2%A7%2001652%20-%20Separability.md)

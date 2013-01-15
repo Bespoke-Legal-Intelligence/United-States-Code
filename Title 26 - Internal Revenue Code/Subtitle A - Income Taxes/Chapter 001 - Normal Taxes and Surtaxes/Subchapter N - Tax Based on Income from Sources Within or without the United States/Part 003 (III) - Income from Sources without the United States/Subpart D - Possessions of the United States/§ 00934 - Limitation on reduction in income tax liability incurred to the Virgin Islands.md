@@ -82,7 +82,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 #### Effective Date of 1983 Amendment
 
-Section 1(e) of Pub. L. 97–455 provided that:
+Pub. L. 97–455, §1(e), Jan. 12, 1983, 96 Stat. 2498, provided that:
 
 “(1)
 
@@ -102,7 +102,7 @@ Amendment by section 1901(a)(118) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date
 
-Section 4(e)(1) of Pub. L. 86–779 provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960.”
+Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -110,5 +110,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Report on Possessions Corporations
 
-For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, seesection 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
+For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, see section 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
 

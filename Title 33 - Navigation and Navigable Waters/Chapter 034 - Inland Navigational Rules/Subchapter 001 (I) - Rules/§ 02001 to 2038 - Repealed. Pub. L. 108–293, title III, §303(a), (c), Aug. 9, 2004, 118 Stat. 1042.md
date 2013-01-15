@@ -18,7 +18,7 @@ Section 2008, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 102�
 
 Section 2009, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 104–324, title VII, §701(1), Oct. 19, 1996, 110 Stat. 3932, related to Rule 9, narrow channels.
 
-Section 2010, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, §5206(2), Nov. 4, 1992, 106 Stat. 5074, related to Rule 10, traffic separation schemes.
+Section 2010, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, §5206(2), Nov. 4, 1992, 106Stat. 5074, related to Rule 10, traffic separation schemes.
 
 Section 2011, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 11, application of rules of conduct of vessels in sight of one another.
 
@@ -82,5 +82,5 @@ Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provi
 
 #### Short Title
 
-Section 1 of Pub. L. 96–591 provided: “That this Act \[enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section\] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
+Pub. L. 96–591, §1, Dec. 24, 1980, 94 Stat. 3415, provided: “That this Act \[enacting this chapter, amending sections 151, 1604, 1605, and 1608 of this title, repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacting provisions set out as notes under this section\] may be cited as the ‘Inland Navigational Rules Act of 1980’.”
 

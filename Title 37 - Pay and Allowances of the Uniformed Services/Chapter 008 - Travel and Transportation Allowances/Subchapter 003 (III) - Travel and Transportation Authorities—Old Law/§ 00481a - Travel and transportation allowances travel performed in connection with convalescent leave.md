@@ -6,19 +6,21 @@
 
 (c) No travel and transportation allowance may be provided under this section for travel that is authorized after the travel authorities transition expiration date.
 
-(Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655, §411a; renumbered §481a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(15), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655, §411a; renumbered §481a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(15), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 411a of this title as this section.
 
-Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404”. See Codification note above.
+Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 Subsec. (c). Pub. L. 112–81, §631(e)(15), added subsec. (c).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 

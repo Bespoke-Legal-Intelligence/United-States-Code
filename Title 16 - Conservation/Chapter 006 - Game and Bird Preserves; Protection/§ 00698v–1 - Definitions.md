@@ -38,7 +38,7 @@ In sections 698v to 698v–10 of this title:
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (5), is Pub. L. 86–517, June 12, 1960, 74Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (5), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 #### Change of Name
 

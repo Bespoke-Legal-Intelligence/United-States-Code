@@ -100,7 +100,7 @@ Subsec. (f)(4). Pub. L. 103–465, §341(b)(2), substituted “subclause (I) or 
 
 Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
 
-Subsec. (g)(3). Pub. L. 103–465, §343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
+Subsec. (g)(3). Pub. L. 103–465, §343(c)(2), substituted “the practices regarding government procurementidentified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
 <b>1988</b>—Subsecs. (d) to (k). Pub. L. 100–418, §§7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
 
@@ -110,7 +110,7 @@ Annual Report on Foreign Discrimination.—
 
 &emsp;“(1)
 
-Annual report required.—The President shall, no later than April 30 1990, and annually onApril 30 thereafter, submit to the appropriate committees of the House of Representatives and the Committee on Governmental Affairs of the Senate, as well as other appropriate Senate committees, a report on the extent to which foreign countries discriminate against United States products or services in making government procurements.
+Annual report required.—The President shall, no later than April 30 1990, and annually on April 30 thereafter, submit to the appropriate committees of the House of Representatives and the Committee on Governmental Affairs of the Senate, as well as other appropriate Senate committees, a report on the extent to which foreign countries discriminate against United States products or services in making government procurements.
 
 &emsp;“(2)
 
@@ -190,7 +190,7 @@ Settlement of disputes.—If, before the end of a year following the initiation 
 
 &emsp;“(3)
 
-Sanctions after failure of dispute resolution.—If the dispute settlement procedures initiated pursuant to this subsection with any signatory country to the Agreement are not concluded within one year from their initiation or the country has not met the requirements of paragraph (2)(A) or (2)(B), then—
+Sanctions after failure of dispute resolution.—If the dispute settlement procedures initiatedpursuant to this subsection with any signatory country to the Agreement are not concluded within one year from their initiation or the country has not met the requirements of paragraph (2)(A) or (2)(B), then—
 
 &emsp;&emsp;“(A) from the end of such one year period, such signatory country shall be considered as a signatory not in good standing of the Agreement and the prohibition on procurement contained in section 10b–1 of title 41 shall apply to such country; and
 

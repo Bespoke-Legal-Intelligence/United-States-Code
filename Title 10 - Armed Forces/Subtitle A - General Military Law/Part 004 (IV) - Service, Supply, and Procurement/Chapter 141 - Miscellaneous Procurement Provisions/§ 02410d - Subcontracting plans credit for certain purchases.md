@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 103–337, §804(2), substituted “September 30, 1997” f
 
 #### Effective Date of 1997 Amendment
 
-Section 835 of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 30, 1997.
+Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843, provided that the amendment made by that section is effective as of Sept. 30, 1997.
 
 #### Effective Date of 1996 Amendment
 
@@ -54,7 +54,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-Section 808(c) of Pub. L. 102–484 provided that: “Sections 2301(d) and 2410d of title 10, United States Code (as added by subsections (a) and (b), respectively), shall take effect on October 1, 1993.”
+Pub. L. 102–484, div. A, title VIII, §808(c), Oct. 23, 1992, 106 Stat. 2450, provided that: “Sections 2301(d) and 2410d of title 10, United States Code (as added by subsections (a) and (b), respectively), shall take effect on October 1, 1993.”
 
 #### Contract Participation by Agencies for the Blind or Other Severely Handicapped
 

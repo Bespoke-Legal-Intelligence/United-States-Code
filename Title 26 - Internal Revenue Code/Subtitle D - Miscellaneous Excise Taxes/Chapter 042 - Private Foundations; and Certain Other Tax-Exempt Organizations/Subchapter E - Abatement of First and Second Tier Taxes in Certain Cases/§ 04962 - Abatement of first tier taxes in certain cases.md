@@ -44,7 +44,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 #### Effective Date of 1997 Amendment
 
-Section 1603(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 6033 of this title\] shall take effect as if included in the provisions of the Taxpayer Bill of Rights 2 \[Pub. L. 104–168\] to which such amendments relate.”
+Pub. L. 105–34, title XVI, §1603(c), Aug. 5, 1997, 111 Stat. 1097, provided that: “The amendments made by this section \[amending this section and section 6033 of this title\] shall take effect as if included in the provisions of the Taxpayer Bill of Rights 2 \[Pub. L. 104–168\] to which such amendments relate.”
 
 #### Effective Date of 1987 Amendment
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section 305(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section, redesignating former section 4962 as 4963, and amending sections 4942, 6213, and 6503 of this title\] shall apply to taxable events occurring after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, §305(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this section \[enacting this section, redesignating former section 4962 as 4963, and amending sections 4942, 6213, and 6503 of this title\] shall apply to taxable events occurring after December 31, 1984.”
 

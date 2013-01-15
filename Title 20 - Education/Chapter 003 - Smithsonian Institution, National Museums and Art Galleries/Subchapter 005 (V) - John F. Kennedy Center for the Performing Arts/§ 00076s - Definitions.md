@@ -6,7 +6,7 @@ As used in this subchapter, the terms “building and site of the John F. Kenned
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–224, §4(b), inserted at end: “Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.”
+<b>2002</b>—Pub. L. 107–224, §4(b), inserted at end: “Upon completion of the project for establishment of the JohnF. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.”
 
 <b>1997</b>—Pub. L. 105–95 inserted “(as amended by the map entitled ‘Transfer of John F. Kennedy Center for the Performing Arts’, numbered 844/82563A and dated May 22, 1997)” after “April 20, 1994”.
 

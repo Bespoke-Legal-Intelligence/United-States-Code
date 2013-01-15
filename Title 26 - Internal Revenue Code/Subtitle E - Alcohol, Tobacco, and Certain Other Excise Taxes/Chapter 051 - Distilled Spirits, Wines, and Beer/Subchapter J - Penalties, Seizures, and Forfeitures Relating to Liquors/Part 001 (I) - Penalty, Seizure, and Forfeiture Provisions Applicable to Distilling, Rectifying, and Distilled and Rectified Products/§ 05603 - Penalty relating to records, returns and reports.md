@@ -2,7 +2,7 @@
 
 #### (a) Fraudulent noncompliance
 
-Any person required by this chapter (other than subchapters F and G) or regulations issuedpursuant thereto to keep or file any record, return, report, summary, transcript, or other document, who, with intent to defraud the United States, shall—
+Any person required by this chapter (other than subchapters F and G) or regulations issued pursuant thereto to keep or file any record, return, report, summary, transcript, or other document, who, with intent to defraud the United States, shall—
 
 &emsp;(1) fail to keep any such document or to make required entries therein; or
 

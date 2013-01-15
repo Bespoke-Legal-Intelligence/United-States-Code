@@ -20,7 +20,7 @@
 
 The Secretary shall ensure that funds appropriated pursuant to authorizations in this subchapter shall remain available until expended for the purposes for which they were appropriated.
 
-(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §120, Dec. 20, 2010, 124 Stat. 3477.)
+(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, andamended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §120, Dec. 20, 2010, 124 Stat. 3477.)
 
 #### Prior Provisions
 
@@ -58,5 +58,5 @@ Allocations.—
 
 #### Effective Date of 1992 Amendment
 
-Section 117(b) of Pub. L. 102–295 provided that: “Paragraph (2) of section 114(a) \[42 U.S.C. 5106h(a)(2)\], as amended by subsection (a), shall become effective on October 1 of the first fiscal year for which $30,000,000 or more would be available under subsection (a)(2)(B)(ii) of such section 114 (if such subsection were in effect), and until such fiscal year, the second and third sentences of section 114(a) \[see 1992 Amendment note above\] (as in effect prior to the amendment made by such subsection (a)) shall continue in effect.”
+Pub. L. 102–295, title I, §117(b), May 28, 1992, 106 Stat. 197, provided that: “Paragraph (2) of section 114(a) \[42 U.S.C. 5106h(a)(2)\], as amended by subsection (a), shall become effective on October 1 of the first fiscal year for which $30,000,000 or more would be available under subsection (a)(2)(B)(ii) of such section 114 (if such subsection were in effect), and until such fiscal year, the second and third sentences of section 114(a) \[see 1992 Amendment note above\] (as in effect prior to the amendment made by such subsection (a)) shall continue in effect.”
 

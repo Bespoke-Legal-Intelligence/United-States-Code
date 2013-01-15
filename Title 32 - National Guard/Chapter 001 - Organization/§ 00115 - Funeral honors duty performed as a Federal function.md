@@ -24,19 +24,21 @@ Reimbursable Expenses.—A member who performs funeral honors duty under this se
 
 Regulations.—The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L.106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–81 substituted “495” for “435”. See Codification note above.
+<b>2013</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “495” for “435”.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 
 <b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2001 Amendment
 

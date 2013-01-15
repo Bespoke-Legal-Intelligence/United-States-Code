@@ -14,7 +14,7 @@ The purposes of assistance under this section include—
 
 #### (1) In general
 
-&emsp;To carry out the purposes of subsection (a) of this section, the President is authorized toprovide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
+&emsp;To carry out the purposes of subsection (a) of this section, the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
 
 #### (2) Definition of humanitarian assistance
 
@@ -34,7 +34,7 @@ Activities that may be supported by assistance under subsection (b) of this sect
 
 #### Prior Provisions
 
-A prior section 2296, Pub. L. 87–195, pt. I, §499, as added Pub. L. 102–391, title V, §594(a), Oct. 6, 1992, 106 Stat. 1692, authorized reduction of certain debts owed to the United States, prior to repeal by Pub. L. 102–549, title VI, §602(b), Oct. 28, 1992, 106 Stat. 3669.
+A prior section 2296, Pub. L. 87–195, pt. I, §499, as added Pub. L. 102–391, title V, §594(a), Oct. 6, 1992, 106 Stat. 1692, authorized reduction of certain debts owedto the United States, prior to repeal by Pub. L. 102–549, title VI, §602(b), Oct. 28, 1992, 106 Stat. 3669.
 
 #### Delegation of Functions
 

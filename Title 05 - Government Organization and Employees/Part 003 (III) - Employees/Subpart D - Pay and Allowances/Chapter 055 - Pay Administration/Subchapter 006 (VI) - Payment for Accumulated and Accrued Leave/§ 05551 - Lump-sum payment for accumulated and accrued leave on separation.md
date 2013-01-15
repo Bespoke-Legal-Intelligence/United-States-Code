@@ -1,6 +1,6 @@
 ### §5551. Lump-sum payment for accumulated and accrued leave on separation
 
-(a) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is separated from the service, is transferred to a position described under section 6301(2)(B)(xiii) of this title, or elects to receive a lump-sum payment for leave under section 5552 of this title, is entitled to receive a lump-sum payment for accumulated and current accrued annual or vacation leave to which he is entitled by statute. The lump-sum payment shall equal the pay (excluding any differential under section 5925 and any allowance under section 5928) the employee or individual would have received had he remained in the service until expiration of the period of the annual or vacation leave. The lump-sum payment is considered pay for taxation purposes only. The period of leave used for calculating the lump-sum payment shall not be extended due to any holiday occurring after separation. For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in thecase of an employee whose annual leave is transferred under section 6308(b).
+(a) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is separated from the service, is transferred to a position described under section 6301(2)(B)(xiii) of this title, or elects to receive a lump-sum payment for leave under section 5552 of this title, is entitled to receive a lump-sum payment for accumulated and current accrued annual or vacation leave to which he is entitled by statute. The lump-sum payment shall equal the pay (excluding any differential under section 5925 and any allowance under section 5928) the employee or individual would have received had he remained in the service until expiration of the period of the annual or vacation leave. The lump-sum payment is considered pay for taxation purposes only. The period of leave used for calculating the lump-sum payment shall not be extended due to any holiday occurring after separation. For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in the case of an employee whose annual leave is transferred under section 6308(b).
 
 (b) The accumulated and current accrued annual leave to which an officer excepted from subchapter I of chapter 63 of this title by section 6301(2)(x)–(xiii) of this title, is entitled immediately before the date he is excepted under that section shall be liquidated by a lump-sum payment in accordance with subsection (a) of this section or subchapter VIII of this chapter, except that the payment is based on the rate of pay which he was receiving immediately before the date on which section 6301(2)(x)–(xiii) of this title became applicable to him.
 
@@ -62,11 +62,11 @@ Subsec. (b). Pub. L. 93–181 struck out second exception clause that the paymen
 
 #### Effective Date of 1996 Amendment
 
-Section 1611(b) of Pub. L. 104–201 provided that: “Subsection (c) of section 5551 of title 5, United States Code (as added by subsection (a)), shall apply with respect to transfers described in such subsection (c) that take effect on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title XVI, §1611(b), Sept. 23, 1996, 110 Stat. 2739, provided that: “Subsection (c) of section 5551 of title 5, United States Code (as added by subsection (a)), shall apply with respect to transfers described in such subsection (c) that take effect on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Effective Date of 1991 Amendment
 
-Section 147(b)(2) of Pub. L. 102–138 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
+Pub. L. 102–138, title I, §147(b)(2), Oct. 28, 1991, 105 Stat. 669, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -74,11 +74,11 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 #### Effective Date of 1980 Amendment
 
-Section 402(b) of Pub. L. 96–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] and shall apply to employees separating from the service on or after such date.”
+Pub. L. 96–499, title IV, §402(b), Dec. 5, 1980, 94 Stat. 2605, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] and shall apply to employees separating from the service on or after such date.”
 
 #### Effective Date of 1978 Amendment
 
-Section 4 of Pub. L. 95–519 provided that:
+Pub. L. 95–519, §4, Oct. 25, 1978, 92 Stat. 1819, provided that:
 
 “(a) The amendments made by the first section and section 2 of this Act \[amending this section and sections 6301, 6302, and 6306 of this title\] shall take effect beginning on the first day of the first applicable pay period beginning on or after the date of the enactment of this Act \[Oct. 25, 1978\].
 

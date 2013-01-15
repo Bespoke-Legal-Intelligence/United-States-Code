@@ -4,7 +4,7 @@
 
 (b) An officer who is to be eliminated from an active status under subsection (a) shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if he requests it, shall be so transferred. If he is not so transferred, he shall, in the discretion of the Secretary, be transferred to the appropriate inactive status list or be discharged from the Navy Reserve or the Marine Corps Reserve.
 
-(c)(1) An officer in an active status in the Navy Reserve in the permanent grade of lieutenant commander or commander, and an officer in an active status in the Marine Corps Reserve in the permanent grade of major or lieutenant colonel, who is considered as having twice failed of selection for promotion to the next higher grade while on the active-duty list shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve. If he is not so transferred, he shall be discharged from the Navy Reserve or the Marine Corps Reserve if he has completed a period of total commissioned service equal to that specified below for the permanent grade in which he is serving:
+(c)(1) An officer in an active status in the Navy Reserve in the permanent grade of lieutenant commander or commander, and an officer in an active status in the Marine Corps Reserve in the permanent grade of major or lieutenantcolonel, who is considered as having twice failed of selection for promotion to the next higher grade while on the active-duty list shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve. If he is not so transferred, he shall be discharged from the Navy Reserve or the Marine Corps Reserve if he has completed a period of total commissioned service equal to that specified below for the permanent grade in which he is serving:
 
 &nbsp;
 
@@ -124,7 +124,7 @@ Subsec. (f). Pub. L. 96–513, §337(a)(4), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -140,5 +140,5 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980,see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 

@@ -114,7 +114,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1986 Amendment
 
-Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
+Pub. L. 99–646, §21(b), Nov. 10, 1986, 100 Stat. 3597, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
 
 #### Effective Date of 1984 Amendment
 

@@ -32,7 +32,7 @@ The Account, the deposits and withdrawals from the Account, and the transactions
 
 #### References in Text
 
-Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, asamended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
 
@@ -70,5 +70,5 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1
 
 #### Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)
 
-Section 1034(c) of Pub. L. 97–35 provided that: “The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
+Pub. L. 97–35, title X, §1034(c), Aug. 13, 1981, 95 Stat. 620, provided that: “The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
 

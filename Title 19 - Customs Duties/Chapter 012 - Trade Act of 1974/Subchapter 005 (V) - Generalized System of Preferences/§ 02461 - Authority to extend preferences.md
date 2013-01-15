@@ -18,7 +18,7 @@ A prior section 2461, Pub. L. 93–618, title V, §501, Jan. 3, 1975, 88 Stat. 2
 
 #### Effective Date
 
-Section 1953 of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1953, Aug. 20, 1996, 110 Stat. 1926, provided that:
 
 “(a)
 

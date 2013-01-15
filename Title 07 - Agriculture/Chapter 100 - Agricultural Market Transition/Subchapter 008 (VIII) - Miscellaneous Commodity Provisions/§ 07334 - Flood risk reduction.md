@@ -24,7 +24,7 @@ Under the terms of the contract, with respect to acres that are subject to the c
 
 #### (c) Duties of Secretary
 
-In return for a contract entered into by a producer under this section, the Secretary shall paythe producer an amount that is not more than 95 percent of projected contract payments under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that the Secretary estimates the producer would otherwise have received during the period beginning at the time the contract is entered into under this section and ending September 30, 2002.
+In return for a contract entered into by a producer under this section, the Secretary shall pay the producer an amount that is not more than 95 percent of projected contract payments under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that the Secretary estimates the producer would otherwise have received during the period beginning at the time the contract is entered into under this section and ending September 30, 2002.
 
 #### (d) Commodity Credit Corporation
 

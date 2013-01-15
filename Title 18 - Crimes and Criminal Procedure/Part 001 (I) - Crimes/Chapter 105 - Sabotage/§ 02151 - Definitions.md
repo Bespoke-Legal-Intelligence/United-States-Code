@@ -38,7 +38,7 @@ Minor changes were made in phraseology and translations.
 
 #### Short Title
 
-Section 1 of act Sept. 3, 1954, provided that: “This Act \[amending this section and sections 794 and 2153 to 2156 of this title\] may be cited as the ‘Espionage and Sabotage Act of 1954’.”
+Act Sept. 3, 1954, ch. 1261, §1, 68 Stat. 1216, provided that: “This Act \[amending this section and sections 794 and 2153 to 2156 of this title\] may be cited as the ‘Espionage and Sabotage Act of 1954’.”
 
 #### Repeals
 

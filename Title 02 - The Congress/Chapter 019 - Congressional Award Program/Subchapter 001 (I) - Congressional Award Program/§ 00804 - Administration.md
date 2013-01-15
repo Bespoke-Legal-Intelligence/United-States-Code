@@ -26,7 +26,7 @@ The Director shall, in consultation with the Board—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in anycalendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 111–200, §2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
 

@@ -84,7 +84,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(E) A wetland, if—
 
-&emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, orcreation action subsequent to that determination;
+&emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
 
 &emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
 
@@ -184,7 +184,7 @@ Section 3843 of this title, referred to in subsec. (g), was omitted and a new se
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

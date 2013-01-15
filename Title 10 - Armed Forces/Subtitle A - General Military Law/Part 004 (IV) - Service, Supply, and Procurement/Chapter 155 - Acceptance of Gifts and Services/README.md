@@ -17,10 +17,13 @@
 | [2612\.](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md) | National Defense University: acceptance of gifts. |
 | [2613](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20points%2C%20and%20tickets%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md) | . Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families. |
 | [2614\.](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md) | Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters. |
+| [2615\.](%C2%A7%2002615%20-%20Military%20museums%20and%20military%20education%20programs%20cooperative%20agreement%20authority.md) | Military museums and military education programs: cooperative agreement authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. B, title XXVIII, §2852(b)(2), Jan. 2, 2013, 126 Stat. 2161, added item 2615.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in item 2613.
 
@@ -108,3 +111,4 @@ Retroactive Applicability of Regulations.—Regulations under subsection (a) sha
 - [&sect; 02612 - National Defense University acceptance of gifts](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md)
 - [&sect; 02613 - Acceptance of frequent traveler miles, credits, points, and tickets use to facilitate rest and recuperation travel of deployed members and&#8230;](%C2%A7%2002613%20-%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20points%2C%20and%20tickets%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md)
 - [&sect; 02614 - Emergency communications equipment acceptance from local public safety agencies for temporary use related to disasters](%C2%A7%2002614%20-%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md)
+- [&sect; 02615 - Military museums and military education programs cooperative agreement authority](%C2%A7%2002615%20-%20Military%20museums%20and%20military%20education%20programs%20cooperative%20agreement%20authority.md)

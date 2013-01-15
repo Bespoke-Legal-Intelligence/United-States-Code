@@ -72,7 +72,7 @@ For effective date of amendment by section 1601(d) of Pub. L. 94–455, see sect
 
 #### Effective Date of 1964 Amendment
 
-Section 225(<i>l</i>) of Pub. L. 88–272 provided that:
+Pub. L. 88–272, title II, §225(l), Feb. 26, 1964, 78 Stat. 94, provided that:
 
 “(1) The amendments made by this section \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 381, 541, 542, 543, 544, 545, 551, 553, 554, 562, 856, 1016, 1361, 6501, and the analysis preceding section 1011, and enacting provisions set out as a note under section 333 of this title\] (other than by subsections (c)(1), (f), (g), and (j) \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 542, 551, 562, 1016, and the analysis preceding section 1011 of this title\]) shall apply to taxable years beginning after December 31, 1963.
 
@@ -86,5 +86,5 @@ Section 225(<i>l</i>) of Pub. L. 88–272 provided that:
 
 #### Effective Date of 1956 Amendment
 
-Section 6 of act Mar. 13, 1956, provided that: “The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954.”
+Act Mar. 13, 1956, ch. 83, §6, 70 Stat. 49, provided that: “The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954.”
 

@@ -16,7 +16,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under thi
 
 &emsp;(6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization's exclusive use in the collection, storage, or transportation of blood,
 
-> but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after April 1, 2012. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+> but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6)shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
 
 #### (b) Proof of resale for further manufacture; proof of export
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (3) Supplies for vessels or aircraft
 
-&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United Statesor of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
+&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
 
 #### (4) State or local government
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (C) School bus
 
-&emsp;&emsp;The term “school bus” means any automobile bus substantially all the use of which is in transporting students and employees of schools. For purposes of the preceding sentence, the term “school” means an educational organization which normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are carried on.
+&emsp;&emsp;The term “school bus” means any automobile bus substantially all the use of which is in transporting students and employees of schools. For purposes of the preceding sentence, the term “school” means an educational organization which normally maintains a regular faculty and curriculum andnormally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are carried on.
 
 #### (e) Special rules
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.
 
-(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, §2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, §1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, §18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, §205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II,§208(d), title VIII, §801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, §101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, §401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, §701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, §108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, §735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, §521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, §1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, §502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, §9201(b)(1), title X, §10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, §7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, §8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, §9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 108–357, title VIII, §853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613; Pub. L. 109–59, title XI, §11101(b)(1), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, §1207(b)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 111–152, title I, §1405(b)(1), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 112–30, title I, §142(d), Sept. 16, 2011, 125 Stat. 356.)
+(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, §2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, §1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, §18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, §205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(d), title VIII, §801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, §101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, §401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, §701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, §108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, §735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, §521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, §1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, §502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, §9201(b)(1), title X, §10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, §7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, §8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, §9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 108–357, title VIII, §853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613; Pub. L. 109–59, title XI, §11101(b)(1), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 109–280, title XII, §1207(b)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1070; Pub. L. 111–152, title I, §1405(b)(1), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 112–30, title I, §142(d), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(d), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(c), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, §40102(d)(1), July 6, 2012, 126 Stat. 845.)
 
 #### Codification
 
@@ -125,6 +125,12 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, §119(a).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012” in concluding provisions.
+
+Pub. L. 112–140, §§1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012” in concluding provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012” in concluding provisions.
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011” in concluding provisions.
 
@@ -220,7 +226,7 @@ Subsec. (f). Pub. L. 89–44, §208(d)(7), struck out subsec. (f) which related 
 
 <b>1961</b>—Subsec. (d)(6)(C). Pub. L. 87–61 added subpar. (C).
 
-<b>1960</b>—Subsec. (d)(4). Pub. L. 86–624 substituted “any State, any political subdivision thereof, or the District of Columbia” for “any State, Hawaii, the District of Columbia, or any political subdivision of any of the foregoing”.
+<b>1960</b>—Subsec. (d)(4). Pub. L. 86–624 substituted “any State, any political subdivision thereof, or the District of Columbia” for “any State, Hawaii, the District ofColumbia, or any political subdivision of any of the foregoing”.
 
 Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 
@@ -228,9 +234,19 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 2010 Amendment
 
@@ -282,11 +298,11 @@ Amendment by Pub. L. 96–222 effective as if included in the provision of the E
 
 Amendment by section 201(c)(1) of Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
-Section 232(c) of Pub. L. 95–618 provided that: “The amendments made by this section \[amending this section and section 6416 of this title\] shall apply to sales on or after the first day of the first calendar month beginning more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\].”
+Pub. L. 95–618, title II, §232(c), Nov. 9, 1978, 92 Stat. 3190, provided that: “The amendments made by this section \[amending this section and section 6416 of this title\] shall apply to sales on or after the first day of the first calendar month beginning more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\].”
 
 Amendment by section 233(c)(1), (2) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
-Section 701(ff)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 4061 and 4222 of this title\] shall take effect on the first day of the first calendar month beginning more than 20 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title VII, §701(ff)(3), Nov. 6, 1978, 92 Stat. 2925, provided that: “The amendments made by this subsection \[amending this section and sections 4061 and 4222 of this title\] shall take effect on the first day of the first calendar month beginning more than 20 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note section 4121 of this title.
 
@@ -300,7 +316,7 @@ Amendment by Pub. L. 91–172 effective on Jan. 1, 1970, see section 101(k)(1) o
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 208(d) of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, and 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
+Amendment by section 208(d) of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, and 4131 and, asto such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
 Amendment by section 801(c), (d)(1) of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, see section 801(e) of Pub. L. 89–44, set out as a note under section 4261 of this title.
 
@@ -312,17 +328,17 @@ Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or 
 
 Amendment by Pub. L. 86–624 effective on Aug. 21, 1959, see section 18(k) of Pub. L. 86–624, set out as a note under section 3121 of this title.
 
-Section 4 of Pub. L. 86–418 provided that: “The amendments made by this Act \[amending this section and sections 4218, 4223, and 6416 of this title\] shall apply only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[Apr. 8, 1960\].”
+Pub. L. 86–418, §4, Apr. 8, 1960, 74 Stat. 39, provided that: “The amendments made by this Act \[amending this section and sections 4218, 4223, and 6416 of this title\] shall apply only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[Apr. 8, 1960\].”
 
 #### Effective Date of 1959 Amendments
 
-Amendment by Pub. L. 86–344 effective Jan. 1, 1959, see section 2(e) of Pub. L. 86–344.
+Amendment by Pub. L. 86–344 effective Jan. 1, 1959, see section 2(e) of Pub. L. 86–344, Sept. 21, 1959, 73 Stat. 618.
 
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L. 86–70, set out as a note under section 3121 of this title.
 
 #### Effective Date
 
-Section effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Section effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

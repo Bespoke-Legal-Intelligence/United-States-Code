@@ -8,15 +8,19 @@ Notwithstanding any provision of chapter 84 of title 5, the annuity under subcha
 
 #### (1) Service abroad
 
-&emsp;The portion of the annuity relating to such service abroad shall be computed as provided in section 8415(d) of title 5.
+&emsp;The portion of the annuity relating to such service abroad shall be computed as provided in section 8415(e) of title 5.
 
 #### (2) Other service
 
 &emsp;The portions of the annuity relating to other creditable service shall be computed as provided in section 8415 of such title that is applicable to such service under the conditions prescribed in chapter 84 of such title.
 
-(Pub. L. 88–643, title III, §303, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244.)
+(Pub. L. 88–643, title III, §303, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 112–96, title V, §5001(c)(2)(G), Feb. 22, 2012, 126 Stat. 200.)
 
 #### Prior Provisions
 
 A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 626, related to special rules for other employees for service abroad and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
 

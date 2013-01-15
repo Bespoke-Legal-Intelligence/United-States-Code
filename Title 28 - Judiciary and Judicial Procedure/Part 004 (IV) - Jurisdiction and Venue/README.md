@@ -4,7 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>81.</b>](Chapter%20081%20-%20Supreme%20Court/README.md) | <b>Supreme Court</b> | <b>1251</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Courts%20of%20Appeals/README.md) | <b>Courts of Appeals</b> | <b>1291</b> |
-| [<b>85.</b>](Chapter%20085%20-%20District%20Courts%3B%20Jurisdiction/README.md) | <b>District Courts; Jurisdiction</b> | <b><sup>1</sup></b><b> 1331</b> |
+| [<b>85.</b>](Chapter%20085%20-%20District%20Courts%3B%20Jurisdiction/README.md) | <b>District Courts; Jurisdiction</b> | <b>1331 </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

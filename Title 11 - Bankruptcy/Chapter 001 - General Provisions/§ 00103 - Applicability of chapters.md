@@ -1,6 +1,6 @@
 ### §103. Applicability of chapters
 
-(a) Except as provided in section 1161 of this title, chapters 1, 3, and 5 of this title apply in a case under chapter 7, 11, 12, or 13 of this title, and this chapter, sections 307, 362(<i>o</i>), 555 through 557, and 559 through 562 apply in a case under chapter 15.
+(a) Except as provided in section 1161 of this title, chapters 1, 3, and 5 of this title apply in a case under chapter 7, 11, 12, or 13 of this title, and this chapter, sections 307, 362(o), 555 through 557, and 559 through 562 apply in a case under chapter 15.
 
 (b) Subchapters I and II of chapter 7 of this title apply only in a case under such chapter.
 
@@ -44,7 +44,7 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “362(<i>o</i>)” for “362(n)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
 

@@ -14,7 +14,7 @@ Where—
 
 <b>1984</b>—Pub. L. 98–557 substituted references to surviving spouse for references to widow.
 
-<b>1967</b>—Pub. L. 90–167 struck out provision which exempted from coverage of this section widows of employees whose positions were classified in one of the grades of the professional and scientific service of theClassification Act of 1923, or a comparable grade of the Classification Act of 1949, or who performed duties of a position comparable to a position so classified after the enactment of law requiring the classification of such positions.
+<b>1967</b>—Pub. L. 90–167 struck out provision which exempted from coverage of this section widows of employees whose positions were classified in one of the grades of the professional and scientific service of the Classification Act of 1923, or a comparable grade of the Classification Act of 1949, or who performed duties of a position comparable to a position so classified after the enactment of law requiring the classification of such positions.
 
 Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 
@@ -22,17 +22,17 @@ Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 
 #### Effective Date of 1967 Amendments
 
-Section 2 of Pub. L. 90–167 provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted \[Nov. 29, 1967\].”
+Pub. L. 90–167, §2, Nov. 29, 1967, 81 Stat. 520, provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted \[Nov. 29, 1967\].”
 
-Section 1 of Pub. L. 90–163 provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
+Pub. L. 90–163, §1, Nov. 29, 1967, 81 Stat. 518, provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
 
 #### Effective Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–351 provided that: “The amendments made by this Act \[amending this section and section 772 of this title\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Mar. 28, 1958\].”
+Pub. L. 85–351, §2, Mar. 28, 1958, 72 Stat. 49, provided that: “The amendments made by this Act \[amending this section and section 772 of this title\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Mar. 28, 1958\].”
 
 #### Effective Date
 
-Section 6 of act Aug. 19, 1950, provided that: “No payment shall be made under this Act \[enacting this section and sections 772 to 775 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted.”
+Act Aug. 19, 1950, ch. 761, §6, 64 Stat. 466, provided that: “No payment shall be made under this Act \[enacting this section and sections 772 to 775 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted.”
 
 #### Transfer of Functions
 
@@ -50,5 +50,5 @@ Sec. 2. The increases under this Act shall apply to benefits which commence befo
 
 #### Cost-of-Living Adjustment to Widow's Annuity
 
-Section 2 of Pub. L. 90–163 provided that: “Each annuity payable under the Act entitled ‘An Act to provide benefits for widows of certain persons who were retired or are eligible for retirement under section 6 of the Act entitled “An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes”, approved June 20, 1918, as amended’, approved August 19, 1950 (33 U.S.C. 771–775), and each annuity payable under section 6 of the Act entitled ‘An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes’, approved June 20, 1918 (33 U.S.C. 763), shall be increased by the same percentage, adjusted to the nearest dollar, and on the same effective date, as each increase hereafter allowed under the cost-of-living annuity adjustment provisions of section 8340(b) of title 5, United States Code.”
+Pub. L. 90–163, §2, Nov. 29, 1967, 81 Stat. 518, provided that: “Each annuity payable under the Act entitled ‘AnAct to provide benefits for widows of certain persons who were retired or are eligible for retirement under section 6 of the Act entitled “An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes”, approved June 20, 1918, as amended’, approved August 19, 1950 (33 U.S.C. 771–775), and each annuity payable under section 6 of the Act entitled ‘An Act to authorize aids to navigation and for other works in the Lighthouse Service, and for other purposes’, approved June 20, 1918 (33 U.S.C. 763), shall be increased by the same percentage, adjusted to the nearest dollar, and on the same effective date, as each increase hereafter allowed under the cost-of-living annuity adjustment provisions of section 8340(b) of title 5, United States Code.”
 

@@ -1,6 +1,6 @@
 ### §1561. Certificate
 
-(a) The Secretary concerned shall determine whether or not each applicant is entitled to have such person's name entered on the Army, Navy, Air Force, and Coast Guard Medal ofHonor Roll. If the official award of the Medal of Honor to the applicant, or the official notice to such person thereof, shows that the Medal of Honor was awarded to the applicant for an act described in section 1560 of this title, such award or notice shall be sufficient to entitle the applicant to have such person's name entered on such roll without further investigation; otherwise all official correspondence, orders, reports, recommendations, requests, and other evidence on file in any public office or department shall be considered.
+(a) The Secretary concerned shall determine whether or not each applicant is entitled to have such person's name entered on the Army,Navy, Air Force, and Coast Guard Medal of Honor Roll. If the official award of the Medal of Honor to the applicant, or the official notice to such person thereof, shows that the Medal of Honor was awarded to the applicant for an act described in section 1560 of this title, such award or notice shall be sufficient to entitle the applicant to have such person's name entered on such roll without further investigation; otherwise all official correspondence, orders, reports, recommendations, requests, and other evidence on file in any public office or department shall be considered.
 
 (b) Each person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be furnished a certificate of service and of the act of heroism, gallantry, bravery, or intrepidity for which the Medal of Honor was awarded, of enrollment on such roll, and, if such person has indicated such person's desire to receive the special pension provided by section 1562 of this title, of such person's right to such special pension.
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 87–138 required the copy to set forth the right of the pe
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1961 Amendment
 

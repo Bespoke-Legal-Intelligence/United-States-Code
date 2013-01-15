@@ -2,7 +2,7 @@
 
 #### (a) Low-income communities
 
-For the purpose of this part, the term “low-income communities” means communities in which there is a high concentration of children eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+For the purpose of this part, the term “low-income communities” means communities inwhich there is a high concentration of children eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 #### (b) High-risk children
 
@@ -16,7 +16,7 @@ For purposes of this part, the term “infants, toddlers, children, and youth wi
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11,1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Amendments
 

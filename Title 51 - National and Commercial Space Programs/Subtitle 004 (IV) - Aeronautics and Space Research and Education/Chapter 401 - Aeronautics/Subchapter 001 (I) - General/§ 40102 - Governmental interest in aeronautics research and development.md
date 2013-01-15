@@ -56,7 +56,7 @@ Sec. 3. <i>Implementation of National Aeronautics Research and Development Polic
 
 (c) ensure that executive departments and agencies conducting aeronautics R\&D:
 
-(i) obtain and exchange information and advice, as appropriate, from organizations and individuals outside the Federal Government in support of Federal Government planning and performance of aeronautics R\&D;
+(i) obtain and exchange information and advice, as appropriate, from organizations and individuals outsidethe Federal Government in support of Federal Government planning and performance of aeronautics R\&D;
 
 (ii) develop and implement, as appropriate, measures for improving dissemination of R\&D results and facilitating technology transition from R\&D to applications; and
 

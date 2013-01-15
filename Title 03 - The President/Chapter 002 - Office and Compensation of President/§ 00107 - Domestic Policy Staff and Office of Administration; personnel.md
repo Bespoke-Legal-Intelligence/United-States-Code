@@ -42,7 +42,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Applicability of Subsec. (b) to Current Employees of Office of Administration
 
-Section 6(b) of Pub. L. 95–570 provided that: “In the case of an individual—
+Pub. L. 95–570, §6(b), Nov. 2, 1978, 92 Stat. 2451, provided that: “In the case of an individual—
 
 &emsp;“(1) who is an employee of the Office of Administration as of the date of the enactment of this Act \[Nov. 2, 1978\], and
 

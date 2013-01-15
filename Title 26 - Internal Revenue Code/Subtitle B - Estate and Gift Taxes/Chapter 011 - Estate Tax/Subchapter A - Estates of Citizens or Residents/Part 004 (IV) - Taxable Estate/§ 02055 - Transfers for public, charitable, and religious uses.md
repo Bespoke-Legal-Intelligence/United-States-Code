@@ -136,7 +136,7 @@ Works of art and their copyrights treated as separate properties in certain case
 
 &emsp;(A)
 
-In general.—In the case of a qualified contribution of a work of art, the work of artand the copyright on such work of art shall be treated as separate properties for purposes of paragraph (2).
+In general.—In the case of a qualified contribution of a work of art, the work of art and the copyright on such work of art shall be treated as separate properties for purposes of paragraph (2).
 
 &emsp;(B)
 
@@ -192,7 +192,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(12) For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100; Pub. L. 110–172, §3(d)(1), Dec. 29, 2007, 121 Stat. 2474.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A),Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100; Pub. L. 110–172, §3(d)(1), Dec. 29, 2007, 121 Stat. 2474.)
 
 #### References in Text
 
@@ -260,11 +260,11 @@ Subsec. (f)(7). Pub. L. 97–258, §3(f)(2), substituted “section 3113(e) of t
 
 Pub. L. 96–222 substituted “such subparagraph (A) or (B)” for “such subparagraph (a) or (B)” and “so that the interest” for “so that interest”.
 
-Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to the Director of the International Communication Agency and the Director of the United States International Development Cooperation Agency and substituted reference to section 25 of the State Department Basic Authorities Act of 1956 for reference to section 1021(e) of the Foreign Service Act of 1946.
+Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to the Director of the International Communication Agency and the Director of the United States International Development Cooperation Agencyand substituted reference to section 25 of the State Department Basic Authorities Act of 1956 for reference to section 1021(e) of the Foreign Service Act of 1946.
 
 <b>1978</b>—Subsec. (e)(3). Pub. L. 95–600 inserted “or (B)” before “of paragraph (2)”, substituted “on or before December 31, 1978” for “on or before December 31, 1977” wherever appearing and “which meets the requirements of such subparagraph (a) or (B) (as the case may be),” for “which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, toinfluence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
 
 Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under which a bequest in trust, if the surviving spouse of the decedent was entitled for life to all of the net income from the trust and the surviving spouse had a power of appointment over the corpus of that trust exercisable by will in favor of, among others, organizations described in subsec. (a)(2), could be deemed a transfer to the organization by the decedent under certain conditions.
 
@@ -314,11 +314,11 @@ Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Section 1422(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 2106 and 2522 of this title\] shall apply to transfers and contributions made after December 31, 1986.”
+Pub. L. 99–514, title XIV, §1422(e), Oct. 22, 1986, 100 Stat. 2717, provided that: “The amendments made bythis section \[amending this section and sections 2106 and 2522 of this title\] shall apply to transfers and contributions made after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
-Section 1022(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1022(e), July 18, 1984, 98 Stat. 1029, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -340,7 +340,7 @@ In general.—If on the date of the enactment of this Act \[July 18, 1984\] (or 
 
 &emsp;“(B)
 
-No interest where statute closed on date of enactment.—In any case where the making of thecredit or refund of the overpayment described in subparagraph (A) is barred on the date of the enactment of this Act \[July 18, 1984\], no interest shall be allowed with respect to such overpayment (or any related adjustment) for the period before the date 180 days after the date on which the Secretary of the Treasury (or his delegate) is notified that the reformation has occurred.”
+No interest where statute closed on date of enactment.—In any case where the making of the credit or refund of the overpayment described in subparagraph (A) is barred on the date of the enactment of this Act \[July 18, 1984\], no interest shall be allowed with respect to such overpayment (or any related adjustment) for the period before the date 180 days after the date on which the Secretary of the Treasury (or his delegate) is notified that the reformation has occurred.”
 
 Amendment by section 1032(b)(2) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
@@ -354,11 +354,11 @@ Amendment by Pub. L. 97–248 effective Oct. 5, 1976, see section 286(c) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Section 423(c)(1) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1981.”
+Pub. L. 97–34, title IV, §423(c)(1), Aug. 13, 1981, 95 Stat. 317, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1981.”
 
 #### Effective Date of 1980 Amendments
 
-Section 301(b)(1) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after December 31, 1969.”
+Pub. L. 96–605, title III, §301(b)(1), Dec. 28, 1980, 94 Stat. 3531, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after December 31, 1969.”
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
@@ -366,11 +366,11 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Extension of 1978 Amendment; Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Section 301(b)(2) of Pub. L. 96–605 provided that: “Section 514(b) \[section 514(b) of Pub. L. 95–600, set out below\] (and section 514(c) \[section 514(c) of Pub. L. 95–600, set out below\] insofar as it relates to section 514(b)) of the Revenue Act of 1978 shall be applied as if the amendment made by subsection (a) \[amending this section\] had been included in the amendment made by section 514(a) of such Act \[section 514(a) of Pub. L. 95–600, amending this section\].”
+Pub. L. 96–605, title III, §301(b)(2), Dec. 28, 1980, 94 Stat. 3531, provided that: “Section 514(b) \[section 514(b) of Pub. L. 95–600, set out below\] (and section 514(c) \[section 514(c) of Pub. L. 95–600, set out below\] insofar as it relates to section 514(b)) of the Revenue Act of 1978 shall be applied as if the amendment made by subsection (a) \[amending this section\] had been included in the amendment made by section 514(a) of such Act \[section 514(a) of Pub. L. 95–600, amending this section\].”
 
 #### Effective Date of 1978 Amendment; Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Section 514(c) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §105(a)(4)(B), Apr. 1, 1980, 94 Stat. 219; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title V, §514(c), as added by Pub. L. 96–222, title I, §105(a)(4)(B), Apr. 1, 1980, 94 Stat. 219; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -386,7 +386,7 @@ For subsection (b).—Subsection (b) \[section 514(b) of Pub. L. 95–600, set o
 
 #### Effective Date of 1976 Amendment
 
-Section 1304(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] shall apply in the case of decedents dying after December 31, 1969.”
+Pub. L. 94–455, title XIII, §1304(c), Oct. 4, 1976, 90 Stat. 1716, provided that: “The amendments made by this section \[amending this section\] shall apply in the case of decedents dying after December 31, 1969.”
 
 Amendment by section 1307(d)(1)(B)(ii), (C) of Pub. L. 94–455, applicable to estates of decedents dying after Dec. 31, 1976, see section 1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
@@ -402,7 +402,7 @@ Amendment by section 2124(e)(2) of Pub. L. 94–455 applicable with respect to c
 
 #### Effective Date of 1974 Amendment
 
-Section 3(b) of Pub. L. 93–483 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1969.”
+Pub. L. 93–483, §3(b), Oct. 26, 1974, 88 Stat. 1458, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1969.”
 
 #### Effective Date of 1970 Amendment
 
@@ -416,7 +416,7 @@ Amendment by section 201(d)(4)(A) of Pub. L. 91–172 applicable to gifts and tr
 
 #### Effective Date of 1956 Amendment
 
-Section 3 of act Aug. 6, 1956, provided that: “The amendments made by this Act \[amending this section and section 6503 of this title\] shall apply in the case of decedents dying after August 16, 1954.”
+Act Aug. 6, 1956, ch. 1020, §3, 70 Stat. 1075, provided that: “The amendments made by this Act \[amending this section and section 6503 of this title\] shall apply in the case of decedents dying after August 16, 1954.”
 
 #### Transfer of Functions
 
@@ -424,15 +424,15 @@ United States International Development Cooperation Agency (other than Agency fo
 
 #### Special Donations
 
-Section 1422(d) of Pub. L. 99–514 provided that: “If the Secretary of the Interior acquires by donation after December 31, 1986, a conservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) \[see Pub. L. 99–420, Sept. 25, 1986, §102(h), 99 Stat. 955, 957\], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 \[now 1986\], as added by this section.”
+Pub. L. 99–514, title XIV, §1422(d), Oct. 22, 1986, 100 Stat. 2717, provided that: “If the Secretary of the Interior acquires by donation after December 31, 1986, a conservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) \[see Pub. L. 99–420, Sept. 25, 1986, §102(h), 99 Stat. 955, 957\], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 \[now 1986\], as added by this section.”
 
 #### Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Section 514(b) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Under regulations prescribed by the Secretary of the Treasury or his delegate, in the case of trusts created before December 31, 1977, provisions comparable to section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall be deemed to be included in sections 170 and 2522 of the Internal Revenue Code of 1986.”
+Pub. L. 95–600, title V, §514(b), Nov. 6, 1978, 92 Stat. 2884, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Under regulations prescribed by the Secretary of the Treasury or his delegate, in the case of trusts created before December 31, 1977, provisions comparable to section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall be deemed to be included in sections 170 and 2522 of the Internal Revenue Code of 1986.”
 
 #### Extension of Period for Filing Claim for Refund
 
-Section 1304(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “A claim for refund or credit of an overpayment of the tax imposed by section 2001 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] allowable under section 2055(e)(3) of such Code (as amended by subsection (a)) shall not be denied because of the expiration of the time for filing such a claim under section 6511(a) if such claim is filed not later than June 30, 1978.”
+Pub. L. 94–455, title XIII, §1304(b), Oct. 4, 1976, 90 Stat. 1716, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “A claim for refund or credit of an overpayment of the tax imposed by section 2001 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] allowable under section 2055(e)(3) of such Code (as amended by subsection (a)) shall not be denied because of the expiration of the time for filing such a claim under section 6511(a) if such claim is filed not later than June 30, 1978.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by an additional closing parenthesis.</i>
 

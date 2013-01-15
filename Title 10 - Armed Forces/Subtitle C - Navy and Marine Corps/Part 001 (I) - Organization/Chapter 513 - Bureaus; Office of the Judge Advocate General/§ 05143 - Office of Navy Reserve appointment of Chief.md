@@ -50,7 +50,7 @@ A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962
 
 “(1) The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
 
-“(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. Thereport shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
+“(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
 <b>2006</b>—Pub. L. 109–163, §515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 

@@ -28,7 +28,7 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 and 475 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related servicesare less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 
@@ -42,19 +42,21 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 Certain Expenses Excluded.—The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b)–(d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-Subsec. (b)(2)(A), (B). Pub. L. 112–81 substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B). See Codification note above.
+Subsec. (b)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 
-Section 362(b) of Pub. L. 104–201 provided that: “Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, §362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: “Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 

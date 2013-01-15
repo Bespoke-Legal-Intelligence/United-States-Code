@@ -28,7 +28,7 @@ Security at Department Medical and Research Facilities.—(1) The Secretary shal
 
 (c)
 
-Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Departmenthealth care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.
+Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.
 
 (d)
 
@@ -78,7 +78,7 @@ Authorization of Appropriations.—There are authorized to be appropriated, such
 
 Section 2801 of the Public Health Service Act, referred to in subsec. (a)(1), is classified to section 300hh of Title 42, The Public Health and Welfare.
 
-Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
+Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
 
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
@@ -106,7 +106,7 @@ Subsec. (g). Pub. L. 109–417, §306(b), added subsec. (g).
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e)(3)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the FederalEmergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (e)(3)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

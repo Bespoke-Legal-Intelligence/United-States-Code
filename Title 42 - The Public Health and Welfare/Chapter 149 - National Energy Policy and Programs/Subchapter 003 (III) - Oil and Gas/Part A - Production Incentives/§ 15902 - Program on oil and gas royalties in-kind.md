@@ -64,7 +64,7 @@ If the lessee, pursuant to an agreement with the United States or as provided in
 
 &emsp;(1) reimburse the lessee for the reasonable costs of transportation (not including gathering) from the lease to the point of delivery or for processing costs; or
 
-&emsp;(2) allow the lessee to deduct the transportation or processing costs in reporting and paying royalties in-value for other Federal oil and gas leases.
+&emsp;(2) allow the lessee to deduct the transportation or processing costs in reporting andpaying royalties in-value for other Federal oil and gas leases.
 
 #### (d) Benefit to the United States required
 

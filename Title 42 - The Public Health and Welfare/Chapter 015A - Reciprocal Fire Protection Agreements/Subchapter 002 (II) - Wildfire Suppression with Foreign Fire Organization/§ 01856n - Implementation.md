@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) shall include a provision to allow the termination of such agreement by any party thereto after reasonable notice; and
 
-&emsp;&emsp;(C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishing wildfire protection resources for, or on behalf of, any other party thereto.
+&emsp;&emsp;(C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishingwildfire protection resources for, or on behalf of, any other party thereto.
 
 #### (b) Exchange of wildfire protection resources without a reciprocal agreement
 

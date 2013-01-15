@@ -4,3 +4,7 @@ In carrying out its functions under sections 468 to 468d of this title, the Nati
 
 (Oct. 26, 1949, ch. 755, §5, 63 Stat. 929.)
 
+#### Change of Name
+
+The Advisory Board on National Parks, Historic Sites, Buildings, and Monuments was renamed the National Park System Advisory Board by Pub. L. 91–383, §9, as added by Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940. See section 463 of this title.
+

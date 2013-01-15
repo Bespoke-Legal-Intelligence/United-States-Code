@@ -24,7 +24,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Short Title
 
-Section 241 of Pub. L. 101–246 provided that: “This part \[part D (§§241–248) of title II of Pub. L. 101–246, enacting this subchapter, amending section 1465c of this title, and enacting provisions set out as notes under section 1465c of this title\] may be cited as the ‘Television Broadcasting to Cuba Act’.”
+Pub. L. 101–246, title II, §241, Feb. 16, 1990, 104 Stat. 58, provided that: “This part \[part D (§§241–248) of title II of Pub. L. 101–246, enacting this subchapter, amending section 1465c of this title, and enacting provisions set out as notes under section 1465c of this title\] may be cited as the ‘Television Broadcasting to Cuba Act’.”
 
 <i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
 

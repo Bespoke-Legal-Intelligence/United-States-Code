@@ -74,7 +74,7 @@ In this section:
 
 #### (C) Commencement of production of cellulosic biofuels
 
-&emsp;&emsp;As a condition of the receipt of an award under this section, an eligible entity shallenter into an agreement with the Secretary under which the eligible entity agrees to begin production of cellulosic biofuels not later than 3 years after the date of the reverse auction in which the eligible entity participates.
+&emsp;&emsp;As a condition of the receipt of an award under this section, an eligible entity shall enter into an agreement with the Secretary under which the eligible entity agrees to begin production of cellulosic biofuels not later than 3 years after the date of the reverse auction in which the eligible entity participates.
 
 #### (d) Limitations
 

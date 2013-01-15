@@ -1,6 +1,6 @@
 ### §3626. Reduced rates
 
-(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
+(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kindof mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
 
 (2) For the purpose of this subsection, the term “regular-rate category” means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) The estimated average revenue per piece to be received by the Postal Service from each subclass of mail under former sections 4452 (b) and (c) of this title shall be equal, as nearly as practicable, to 60 percent of the estimated average revenue per piece to be received from the most closely corresponding regular-rate subclass of mail.
 
-&emsp;(B) For purposes of subparagraph (A), the estimated average revenue per piece of each regular-rate subclass shall be calculated on the basis of expected volumes and mix of mail forsuch subclass at current rates in the test year of the proceeding.
+&emsp;(B) For purposes of subparagraph (A), the estimated average revenue per piece of each regular-rate subclass shall be calculated on the basis of expected volumes and mix of mail for such subclass at current rates in the test year of the proceeding.
 
 &emsp;(C) Rate differentials within each subclass of mail matter under former sections 4452 (b) and (c) shall reflect the policies of this title, including the factors set forth in section 3622(b) of this title.
 
@@ -46,7 +46,7 @@
 
 (f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
-(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
+(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within thecounty of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
@@ -90,7 +90,7 @@
 
 &emsp;(B) such matter contains, but is not primarily devoted to, references to and a response card or other instructions for making inquiries concerning services or benefits available as a result of membership in the authorized organization: <i>Provided</i>, That advertising, promotional, or application materials specifically concerning such services or benefits are not included.
 
-(3)(A) Upon request, an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
+(3)(A) Upon request, an organization authorized to mail at the rates for mail under formersection 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
@@ -100,7 +100,7 @@
 
 (3) The Postal Service shall maintain procedures for the prompt collection of postage deficiencies arising from the violation of paragraph (1) of this subsection, and may in its discretion, follow the issuance of a final decision regarding a deficiency under paragraph (2) of this subsection deduct the amount of that deficiency incurred during the previous 12 months from any postage accounts or other monies of the violator in its possession.
 
-(<i>l</i>) In the administration of this section, the term “advertising”, as used in former section 4358(j)(2) of this title, does not include the publisher's own advertising in a publication published by the official highway or development agency of a State.
+(l) In the administration of this section, the term “advertising”, as used in former section 4358(j)(2) of this title, does not include the publisher's own advertising in a publication published by the official highway or development agency of a State.
 
 (m)(1) In the administration of this section, the rates for mail under former section 4452(b) or 4452(c) of this title shall not apply to mail consisting of products, unless such products—
 
@@ -140,7 +140,7 @@ Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Pri
 
 &emsp;“(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B).”
 
-Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
+Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this titleshall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
 
 Subsec. (a)(6). Pub. L. 106–384, §1(d), added par. (6).
 
@@ -164,7 +164,7 @@ Subsec. (j)(1)(D). Pub. L. 103–123, §705(a), added subpar. (D).
 
 Subsec. (j)(3). Pub. L. 103–123, §705(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (k), (<i>l</i>). Pub. L. 103–123, §708(e), redesignated subsec. (k), defining “advertising”, as (<i>l</i>).
+Subsec. (k), (l). Pub. L. 103–123, §708(e), redesignated subsec. (k), defining “advertising”, as (l).
 
 Subsec. (m). Pub. L. 103–123, §705(b), added subsec. (m).
 
@@ -208,9 +208,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Section 704(c)(1) of Pub. L. 103–123 provided that: “The amendments made by subsection (a) \[enacting section 3642 of this title and amending this section and section 3627 of this title\] shall apply with respect to rates for mail sent after September 30, 1993.”
+Pub. L. 103–123, title VII, §704(c)(1), Oct. 28, 1993, 107 Stat. 1270, provided that: “The amendments made by subsection (a) \[enacting section 3642 of this title and amending this section and section 3627 of this title\] shall apply with respect to rates for mail sent after September 30, 1993.”
 
-Section 705(d) of Pub. L. 103–123 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993.”
+Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993.”
 
 #### Effective Date of 1990 Amendment
 
@@ -218,9 +218,9 @@ Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1
 
 #### Effective Date of 1986 Amendments
 
-Section 6003(c) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and section 2401 of this title\] shall take effect on January 1, 1989, or on the effective date of the next general change in rates and fees under sections 3622 and 3625 of title 39, United States Code \[Apr. 3, 1988, see 53 F.R. 10014\], whichever is sooner.”
+Pub. L. 99–509, title VI, §6003(c), Oct. 21, 1986, 100 Stat. 1933, provided that: “The amendments made by this section \[amending this section and section 2401 of this title\] shall take effect on January 1, 1989, or on the effective date of the next general change in rates and fees under sections 3622 and 3625 of title 39, United States Code \[Apr. 3, 1988, see 53 F.R. 10014\], whichever is sooner.”
 
-Section 15102(b)(2) of Pub. L. 99–272 provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to rates of postage taking effect after December 31, 1985.”
+Pub. L. 99–272, title XV, §15102(b)(2), Apr. 7, 1986, 100 Stat. 330, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to rates of postage taking effect after December 31, 1985.”
 
 #### Relief of Certain Periodical Publications
 
@@ -236,7 +236,7 @@ Pub. L. 104–52, title V, §527, Nov. 19, 1995, 109 Stat. 496, provided that: �
 
 #### Forbearance Regarding Certain Postage Deficiencies
 
-Section 2 of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title II, §2, Nov. 5, 1990, 104 Stat. 1398, provided that:
 
 “(a)
 
@@ -248,5 +248,5 @@ Effective Date and Applicability.—The provisions of this section shall become 
 
 #### Construction Respecting Postage Rates Reduction Unauthorized
 
-Section 2 of Pub. L. 93–328 provided that: “Nothing in section 1 of this Act \[amending this section\] shall beconstrued to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
+Pub. L. 93–328, §2, June 30, 1974, 88 Stat. 288, provided that: “Nothing in section 1 of this Act \[amending this section\] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
 

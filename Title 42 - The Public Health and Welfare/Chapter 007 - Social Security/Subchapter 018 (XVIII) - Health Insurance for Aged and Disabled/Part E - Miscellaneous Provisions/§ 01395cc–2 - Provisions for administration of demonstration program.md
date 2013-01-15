@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is enrolled under the program under part B of this subchapter and entitled to benefits under part A of this subchapter; and
 
-&emsp;&emsp;(B) is not enrolled in a Medicare+Choice plan under part C of this subchapter, an eligible organization under a contract under section 1395mm of this title (or a similar organization operating under a demonstration project authority), an organization with an agreement under section 1395<i>l</i>(a)(1)(A) of this title, or a PACE program under section 1395eee of this title.
+&emsp;&emsp;(B) is not enrolled in a Medicare+Choice plan under part C of this subchapter, an eligible organization under a contract under section 1395mm of this title (or a similar organization operating under a demonstration project authority), an organization with an agreement under section 1395l(a)(1)(A) of this title, or a PACE program under section 1395eee of this title.
 
 #### (2) Secretary's discretion as to scope of program
 
@@ -40,7 +40,7 @@
 
 #### (7) Secretary's review of marketing materials
 
-&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entity to guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
+&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entityto guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
 
 #### (8) Payment in full
 

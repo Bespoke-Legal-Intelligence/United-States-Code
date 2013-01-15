@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and except as provided in subsection (b) of this section, this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent thatsuch standard or requirement prevents the application of a requirement of this part.
+&emsp;Subject to paragraph (2) and except as provided in subsection (b) of this section, this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
 
 #### (2) Continued preemption with respect to group health plans
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) substitutes for the reference to “12 months” and “18 months” in section 1181(a)(2) of this title a reference to any shorter period of time;
 
-&emsp;&emsp;(C) substitutes for the references to “63 days” in sections 1181(c)(2)(A) and (d)(4)(A) of this title a reference to any greater number of days;
+&emsp;&emsp;(C) substitutes for the references to “63 days” in sections 1181(c)(2)(A) and (d)(4)(A)of this title a reference to any greater number of days;
 
 &emsp;&emsp;(D) substitutes for the reference to “30-day period” in sections 1181(b)(2) and (d)(1) of this title a reference to any greater period;
 

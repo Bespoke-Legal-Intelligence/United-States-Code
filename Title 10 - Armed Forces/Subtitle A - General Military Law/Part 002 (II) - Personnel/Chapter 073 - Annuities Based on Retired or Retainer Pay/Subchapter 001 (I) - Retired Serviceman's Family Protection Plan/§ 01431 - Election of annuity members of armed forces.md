@@ -20,7 +20,7 @@
 
 (d) If an election made under this section is found to be void for any reason except fraud or willful intent of the member making the election, he may make a corrected election at any time within 90 days after he is notified in writing that the election is void. A corrected election made under this subsection is effective as of the date of the voided election it replaces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub. L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub. L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8,1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
 
 Historical and Revision Notes<br>1956
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 87–381 substituted permission to make a corrected electio
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1980 Amendment
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1968 Amendment
 
-Section 6 of Pub. L. 90–485 provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] of this title and enacting material set out as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
+Pub. L. 90–485, §6, Aug. 13, 1968, 82 Stat. 754, provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] of this title and enacting material setout as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
 
 #### Effective Date of 1958 Amendment
 
@@ -116,31 +116,31 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Provisions Effective for Certain Members on August 13, 1968
 
-Section 3 of Pub. L. 90–485 provided that: “For members to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\], the provisions of section 1434(c) of that title, as amended by this Act \[section 1(3) of Pub. L. 90–485\] are effective immediately and automatically”.
+Pub. L. 90–485, §3, Aug. 13, 1968, 82 Stat. 754, provided that: “For members to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\], the provisions of section 1434(c) of that title, as amended by this Act \[section 1(3) of Pub. L. 90–485\] are effective immediately and automatically”.
 
 #### Election of Annuity Made Prior to August 13, 1968
 
-Section 4 of Pub. L. 90–485 provided that: “A retired member who elected an annuity under chapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest whichwould have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amounts by which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title.”
+Pub. L. 90–485, §4, Aug. 13, 1968, 82 Stat. 754, provided that: “A retired member who elected an annuity under chapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest which would have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amounts by which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title.”
 
 #### Elections Subject to Cost Tables Applicable on Date of Retirement; Annuities Payable to Beneficiaries Eligible Under Law in Effect the Day Prior to August 13, 1968
 
-Section 5 of Pub. L. 90–485 provided, effective on the first day of the third calendar month following Aug. 13, 1968, that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], elections in effect on the date of enactment \[Aug. 13, 1968\] will remain under the cost tables applicable on the date of retirement, and the annuities provided thereunder shall be payable to those eligible beneficiaries prescribed under the law in effect on the day prior to the date of enactment of this Act.”
+Pub. L. 90–485, §5, Aug. 13, 1968, 82 Stat. 754, provided, effective on the first day of the third calendar month following Aug. 13, 1968, that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], elections in effect on the date of enactment \[Aug. 13, 1968\] will remain under the cost tables applicable on the date of retirement, and the annuities provided thereunder shall be payable to those eligible beneficiaries prescribed under the law in effect on the day prior to the date of enactment of this Act.”
 
 #### Applicability of Provisions in Effect on the Day Prior to August 13, 1968
 
-Section 6 of Pub. L. 90–485 provided in part that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], any member to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\] may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, submit a written application to the Secretary concerned requesting that an election or a change or revocation of election made by such member prior to the date of enactment of this Act shall continue to be governed by the provisions of section 1431(b) or (c) of title 10, United States Code \[subsec. (b) or (c) of this section\] as in effect on the day before the date of enactment of this Act.”
+Pub. L. 90–485, §6, Aug. 13, 1968, 82 Stat. 754, provided in part that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], any member to whom section 1431 of title 10, United States Code \[this section\], applies on the date of enactment of this Act \[Aug. 13, 1968\] may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, submit a written application to the Secretary concerned requesting that an election or a change or revocation of election made by such member prior to the date of enactment of this Act shall continue to be governed by the provisions of section 1431(b) or (c) of title 10, United States Code \[subsec. (b) or (c) of this section\] as in effect on the day before the date of enactment of this Act.”
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 
-Section 3(q) of Pub. L. 88–130 rendered election, change, or revocation of election under this section effective if made prior to the convening date of the board which considers Coast Guard commanders and captains for continuation.
+Pub. L. 88–130, §3(q), Sept. 24, 1963, 77 Stat. 192, rendered election, change, or revocation of election under this section effective if made prior to the convening date of the board which considers Coast Guard commanders and captains for continuation.
 
 #### Change or Revocation of an Election Filed Prior to October 4, 1961
 
-Section 7 of Pub. L. 87–381 provided that: “Any person who, before the date of enactment of this Act \[Oct. 4, 1961\], has filed a change or revocation, subject to section 1431(c) of title 10, United States Code \[subsec. (c) of this section\], of an election made under section 1431(b) of that title \[subsec. (b) of this section\], which change or revocation would be ineffective if the first day for which retired or retainer pay is granted were to be the date of enactment of this Act \[Oct. 4, 1961\], shall have that change or revocation become effective on that date, or three years after the date upon which it was filed, whichever is later.”
+Pub. L. 87–381, §7, Oct. 4, 1961, 75 Stat. 812, provided that: “Any person who, before the date of enactment of this Act \[Oct. 4, 1961\], has filed a change or revocation, subject to section 1431(c) of title 10, United States Code \[subsec. (c) of this section\], of an election made under section 1431(b) of that title \[subsec. (b) of this section\], which change or revocation would be ineffective if the first day for which retired or retainer pay is granted were to be the date of enactment of this Act \[Oct. 4, 1961\], shall have that change or revocation become effective on that date, or three years after the date upon which it was filed, whichever is later.”
 
 #### Provisions Applicable to Certain Persons Retiring After October 4, 1961, for Disability
 
-Section 8 of Pub. L. 87–381 provided that: “Any person who—
+Pub. L. 87–381, §8, Oct. 4, 1961, 75 Stat. 812, provided that: “Any person who—
 
 &emsp;“(1) made an election before the date of enactment of this Act \[Oct. 4, 1961\], which would be effective if he retired on the day before such date; and
 
@@ -162,7 +162,7 @@ Pub. L. 86–197, §4, Aug. 25, 1959, 73 Stat. 426, provided that: “Any person
 
 #### Change or Revocation of Election by Certain Officers
 
-Effective date of change or revocation of election by certain officers, see section 3 of Pub. L. 86–155, Aug. 11,1959, 73 Stat. 336, set out as a note under section 5701 of this title.
+Effective date of change or revocation of election by certain officers, see section 3 of Pub. L. 86–155, Aug. 11, 1959, 73 Stat. 336, set out as a note under section 5701 of this title.
 
 #### Public Health Service
 

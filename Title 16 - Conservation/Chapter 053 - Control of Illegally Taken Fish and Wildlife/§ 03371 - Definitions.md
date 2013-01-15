@@ -68,7 +68,7 @@ Taking.—The term “taking” means the act by which fish, wildlife, or plants
 
 This chapter, referred to in the provision preceding par. (a), and in par. (h), was in the original “this Act” and “the Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in par. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -96,5 +96,5 @@ Pub. L. 108–191, §1, Dec. 19, 2003, 117 Stat. 2871, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 97–79 provided: “That this Act \[enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540 of this title\] may be cited as the ‘Lacey Act Amendments of 1981’.”
+Pub. L. 97–79, §1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act \[enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540 of this title\] may be cited as the ‘Lacey Act Amendments of 1981’.”
 

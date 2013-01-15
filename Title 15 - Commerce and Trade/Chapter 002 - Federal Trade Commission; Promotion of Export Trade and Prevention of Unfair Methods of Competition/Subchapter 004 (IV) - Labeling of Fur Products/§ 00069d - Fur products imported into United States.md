@@ -10,7 +10,7 @@ The falsification of, or failure to set forth, said information in said invoices
 
 #### (c) Verified statement of compliance
 
-A verified statement from the manufacturer, producer of, or dealer in, imported fur products and furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
+A verified statement from the manufacturer, producer of, or dealer in, imported fur productsand furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
 (Aug. 8, 1951, ch. 298, §6, 65 Stat. 178.)
 

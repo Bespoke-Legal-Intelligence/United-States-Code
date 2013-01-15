@@ -26,7 +26,7 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 &emsp;&emsp;&emsp;A qualified disability trust shall be allowed a deduction equal to the exemption amount under section 151(d), determined—
 
-&emsp;&emsp;&emsp;&emsp;(I) by treating such trust as an individual described in section 151(d)(3)(C)(iii), and
+&emsp;&emsp;&emsp;&emsp;(I) by treating such trust as an individual described in section 151(d)(3)(C)(iii),<sup>1</sup> and
 
 &emsp;&emsp;&emsp;&emsp;(II) by applying section 67(e) (without the reference to section 642(b)) for purposes of determining the adjusted gross income of the trust.
 
@@ -48,7 +48,7 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 #### (1) General rule
 
-&emsp;In the case of an estate or trust (other then <sup>1</sup> a trust meeting the specifications of subpart B), there shall be allowed as a deduction incomputing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
+&emsp;In the case of an estate or trust (other then <sup>2</sup> a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
 
 #### (2) Amounts permanently set aside
 
@@ -138,6 +138,10 @@ In the case of a cemetery perpetual care fund which—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 87–834, §13(c)(2)(A), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–272, title II, §201(d)(6)(A), (B), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–621, §2(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), Dec. 30, 1969, 83 Stat. 558, 669; Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), Dec. 10, 1971, 85 Stat. 522, 561, 562; Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Pub. L. 94–528, §1(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 95–30, title I, §101(d)(9), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title I, §113(a)(2)(B), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–34, title II, §212(d)(2)(D), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), July 18, 1984, 98 Stat. 843, 1011, 1012; Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), Oct. 22, 1986, 100 Stat. 2108, 2217, 2250; Pub. L. 101–239, title VII, §7811(j)(3), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–535; Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), Aug. 10, 1993, 107 Stat. 429, 539; Pub. L. 104–188, title I, §1704(t)(8), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 107–134, title I, §116(a), Jan. 23, 2002, 115 Stat. 2439.)
 
+#### References in Text
+
+Section 151(d)(3)(C), referred to in subsec. (b)(2)(C)(i)(I), was repealed and subpar. (D) of section 151(d)(3) was redesignated as (C) by Pub. L. 112–240, title I, §101(b)(2)(B)(i)(II), Jan. 2, 2013, 126 Stat. 2317.
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–134 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “An estate shall be allowed a deduction of $600. A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300. All other trusts shall be allowed a deduction of $100. The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).”
@@ -154,7 +158,7 @@ Subsec. (f). Pub. L. 101–508, §11801(c)(6)(B), substituted “section 169” 
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–239 inserted after first sentence “Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under 2621(a)(2) or 2622(b).”
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting “Foreign tax credit allowed” for “Credits against tax” in heading, striking out designation and heading for par. (1), and strikingout par. (2) which read as follows: “An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting “Foreign tax credit allowed” for “Credits against tax” in heading, striking out designation and heading for par. (1), and striking out par. (2) which read as follows: “An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24.”
 
 Subsec. (c)(4). Pub. L. 99–514, §301(b)(6), in heading, substituted “Coordination with section 681” for “Adjustments”, and in text struck out first sentence which read as follows: “To the extent that the amount otherwise allowable as a deduction under this subsection consists of gain from the sale or exchange of capital assets held for more than 6 months, proper adjustment shall be made for any deduction allowable to the estate or trust under section 1202 (relating to deduction for excess of capital gains over capital losses).”
 
@@ -234,7 +238,7 @@ Amendment by section 612(b)(3) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(17) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(17) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 1001(b)(8) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
@@ -244,33 +248,33 @@ Amendment by Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 
 
 #### Effective Date of 1978 Amendment
 
-Section 113(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and section 24 of this title and repealing section 218 of this title\] shall apply with respect to contributions the payment of which is made after December 31, 1978, in taxable years beginning after such date.”
+Pub. L. 95–600, title I, §113(d), Nov. 6, 1978, 92 Stat. 2778, provided that: “The amendments made by this section \[amending this section and section 24 of this title and repealing section 218 of this title\] shall apply with respect to contributions the payment of which is made after December 31, 1978, in taxable years beginning after such date.”
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(b)(1)(H)(i) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(c)(2)(B) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1952(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
-Section 2009(e)(4) of Pub. L. 94–455 provided that: “The amendment made by subsection (d) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XX, §2009(e)(4), Oct. 4, 1976, 90 Stat. 1896, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
-Section 2124(a)(4) of Pub. L. 94–455 provided that: “The amendments made by this subsection \[enacting section 191 of this title and amending this section and sections 1082, 1245, and 1250 of this title\] shall apply with respect to additions to capital account made after June 14, 1976 and before June 15, 1981.”
+Pub. L. 94–455, title XXI, §2124(a)(4), Oct. 4, 1976, 90 Stat. 1918, provided that: “The amendments made by this subsection \[enacting section 191 of this title and amending this section and sections 1082, 1245, and 1250 of this title\] shall apply with respect to additions to capital account made after June 14, 1976 and before June 15, 1981.”
 
-Section 1(b) of Pub. L. 94–528 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977, and shall apply to amounts distributed during taxable years ending after December 31, 1963.”
+Pub. L. 94–528, §1(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977, and shall apply to amounts distributed during taxable years ending after December 31, 1963.”
 
 #### Effective Date of 1971 Amendment
 
-Section 303(d) of Pub. L. 92–178 provided that: “The amendments made by this section \[enacting section 188 of this title and amending this section and sections 57, 1082, 1245, and 1250 of this title\] shall apply to taxable years ending after December 31, 1971.”
+Pub. L. 92–178, title III, §303(d), Dec. 10, 1971, 85 Stat. 522, provided that: “The amendments made by this section \[enacting section 188 of this title and amending this section and sections 57, 1082, 1245, and 1250 of this title\] shall apply to taxable years ending after December 31, 1971.”
 
-Section 703 of Pub. L. 92–178 provided that: “The amendments made by this title \[enacting sections 24 and 218 of this title and amending this section\] shall apply to taxable years ending after December 31, 1971, but only with respect to political contributions, payment of which is made after such date.”
+Pub. L. 92–178, title VII, §703, Dec. 10, 1971, 85 Stat. 562, provided that: “The amendments made by this title \[enacting sections 24 and 218 of this title and amending this section\] shall apply to taxable years ending after December 31, 1971, but only with respect to political contributions, payment of which is made after such date.”
 
 #### Effective Date of 1969 Amendment
 
@@ -280,7 +284,7 @@ Amendment by section 704(b)(2) of Pub. L. 91–172 applicable to taxable years e
 
 #### Effective Date of 1966 Amendment
 
-Section 2(b) of Pub. L. 89–621 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1966\], but only with respect to amounts paid or incurred, and losses sustained, after such date.”
+Pub. L. 89–621, §2(b), Oct. 4, 1966, 80 Stat. 873, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1966\], but only with respect to amounts paid or incurred, and losses sustained, after such date.”
 
 #### Effective Date of 1964 Amendment
 
@@ -294,5 +298,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
 

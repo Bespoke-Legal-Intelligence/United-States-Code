@@ -22,7 +22,7 @@
 
 &emsp;(A) stipends fixed by the Secretary pursuant to paragraph (1);
 
-&emsp;(B) hospitalization, medical care, and life insurance and any other employee benefits asare agreed upon by the participating institutions for the period that such intern or resident serves in a Department facility furnishing hospital care or medical services;
+&emsp;(B) hospitalization, medical care, and life insurance and any other employee benefits as are agreed upon by the participating institutions for the period that such intern or resident serves in a Department facility furnishing hospital care or medical services;
 
 &emsp;(C) tax on employers pursuant to chapter 21 of the Internal Revenue Code of 1986, where applicable; and
 
@@ -61,4 +61,16 @@ Subsec. (c)(4)(C). Pub. L. 104–262, §345(2), substituted “participating fac
 Pub. L. 104–262, §345(1), substituted “Department facility furnishing hospital care or medical services” for “Department hospital”.
 
 Subsec. (c)(5). Pub. L. 104–262, §345(3), substituted “facility” for “hospital” in two places.
+
+#### Training in Telemedicine
+
+Pub. L. 112–154, title I, §108(b), Aug. 6, 2012, 126 Stat. 1174, provided that:
+
+“(1)
+
+In general.—The Secretary of Veterans Affairs shall, to the extent feasible, offer medical residents opportunities in training in telemedicine for medical residency programs. The Secretary shall consult with the Accreditation Council for Graduate Medical Education and with universities with which facilities of the Department have a major affiliation to determine the feasibility and advisability of making telehealth a mandatory component of medical residency programs.
+
+“(2)
+
+Telemedicine defined.—In this subsection, the term ‘telemedicine’ means the use by a health care provider of telecommunications to assist in the diagnosis or treatment of a patient's medical condition.”
 

@@ -8,7 +8,7 @@
 
 #### (b) Manner of registration of brokers and dealers
 
-(1) A broker or dealer may be registered by filing with the Commission an application for registration in such form and containing such information and documents concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. Within forty-five days of the date of the filing of such application (or within such longer period as to which the applicant consents), the Commission shall—
+(1) A broker or dealer may be registered by filing with the Commission an application for registration in such form and containing such information and documents concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. Within forty-five days of the date of the filing of such application (or within such longerperiod as to which the applicant consents), the Commission shall—
 
 &emsp;(A) by order grant registration, or
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) involves the purchase or sale of any security, the taking of a false oath, the making of a false report, bribery, perjury, burglary, any substantially equivalent activity however denominated by the laws of the relevant foreign government, or conspiracy to commit any such offense;
 
-&emsp;&emsp;(ii) arises out of the conduct of the business of a broker, dealer, municipal securities dealer municipal advisor,,<sup>1</sup> government securities broker, government securities dealer, investment adviser, bank, insurance company, fiduciary, transfer agent, nationally recognized statistical rating organization, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.) or any substantially equivalent foreign statute or regulation;
+&emsp;&emsp;(ii) arises out of the conduct of the business of a broker, dealer, municipal securities dealer municipal advisor,,<sup>1</sup> government securities broker, government securities dealer, investment adviser, bank, insurance company, fiduciary, transfer agent, nationallyrecognized statistical rating organization, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.) or any substantially equivalent foreign statute or regulation;
 
 &emsp;&emsp;(iii) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds, or securities, or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
@@ -84,7 +84,7 @@
 
 (C) For purposes of this paragraph, the term “person participating in an offering of penny stock” includes any person acting as any promoter, finder, consultant, agent, or other person who engages in activities with a broker, dealer, or issuer for purposes of the issuance or trading in any penny stock, or inducing or attempting to induce the purchase or sale of any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from such term.
 
-(7) No registered broker or dealer or government securities broker or government securities dealer registered (or required to register) under section 78<i>o</i>–5(a)(1)(A) of this title shall effect any transaction in, or induce the purchase or sale of, any security unless such broker or dealer meets such standards of operational capability and such broker or dealer and all natural persons associated with such broker or dealer meet such standards of training, experience, competence, and such other qualifications as the Commission finds necessary or appropriate in the public interest or for the protection of investors. The Commission shall establish such standards by rules and regulations, which may—
+(7) No registered broker or dealer or government securities broker or government securities dealer registered (or required to register) under section 78o–5(a)(1)(A) of this title shall effect any transaction in, or induce the purchase or sale of, any security unless such broker or dealer meets such standards of operational capability and such broker or dealer and all natural persons associated with such broker or dealer meet such standards of training, experience, competence, and such other qualifications as the Commission finds necessary or appropriate in the public interest or for the protection of investors. The Commission shall establish such standards by rules and regulations, which may—
 
 &emsp;(A) specify that all or any portion of such standards shall be applicable to any class of brokers and dealers and persons associated with brokers and dealers;
 
@@ -92,13 +92,13 @@
 
 &emsp;(C) provide that persons in any such class other than brokers and dealers and partners, officers, and supervisory employees of brokers or dealers, may be qualified solely on the basis of compliance with such standards of training and such other qualifications as the Commission finds appropriate.
 
-> The Commission, by rule, may prescribe reasonable fees and charges to defray its costs in carrying out this paragraph, including, but not limited to, fees for any test administered by it or under its direction. The Commission may cooperate with registered securities associations and national securities exchanges in devising and administering tests and may require registered brokers and dealers and persons associated with such brokers and dealers to pass tests administered by or on behalf of any such association or exchange and to pay such association or exchange reasonable fees or charges to defray the costs incurred by such association or exchange in administering such tests.
+> The Commission, by rule, may prescribe reasonable fees and charges to defray its costs in carrying out this paragraph, including, but not limited to, fees for any test administered by it or under its direction. The Commission may cooperate with registered securities associations and national securities exchanges in devising and administering tests and may require registered brokers and dealers and persons associated with such brokers and dealers to pass tests administered by or on behalf of any such association or exchange and to pay such association or exchange reasonable fees or charges to defraythe costs incurred by such association or exchange in administering such tests.
 
-(8) It shall be unlawful for any registered broker or dealer to effect any transaction in, or induce or attempt to induce the purchase or sale of, any security (other than or <sup>2</sup> commercial paper, bankers’ acceptances, or commercial bills), unless such broker or dealer is a member of a securities association registered pursuant to section 78<i>o</i>–3 of this title or effects transactions in securities solely on a national securities exchange of which it is a member.
+(8) It shall be unlawful for any registered broker or dealer to effect any transaction in, or induce or attempt to induce the purchase or sale of, any security (other than or <sup>2</sup> commercial paper, bankers’ acceptances, or commercial bills), unless such broker or dealer is a member of a securities association registered pursuant to section 78o–3 of this title or effects transactions in securities solely on a national securities exchange of which it is a member.
 
 (9) The Commission by rule or order, as it deems consistent with the public interest and the protection of investors, may conditionally or unconditionally exempt from paragraph (8) of this subsection any broker or dealer or class of brokers or dealers specified in such rule or order.
 
-(10) For the purposes of determining whether a person is subject to a statutory disqualification under section 78f(c)(2), 78<i>o</i>–3(g)(2), or 78q–1(b)(4)(A) of this title, the term “Commission” in paragraph (4)(B) of this subsection shall mean “exchange”, “association”, or “clearing agency”, respectively.
+(10) For the purposes of determining whether a person is subject to a statutory disqualification under section 78f(c)(2), 78o–3(g)(2), or 78q–1(b)(4)(A) of this title, the term “Commission” in paragraph (4)(B) of this subsection shall mean “exchange”, “association”, or “clearing agency”, respectively.
 
 (11)
 
@@ -110,7 +110,7 @@ Notice registration.—
 
 &emsp;&emsp;(i)
 
-Contents of notice.—Notwithstanding paragraphs (1) and (2), a broker or dealer required to register only because it effects transactions in security futures products on an exchange registered pursuant to section 78f(g) of this title may register for purposes of this section by filing with the Commission a written notice in such form and containing such information concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. A broker or dealer may not register under this paragraph unless that broker or dealer is a member of a national securities association registered under section 78<i>o</i>–3(k) of this title.
+Contents of notice.—Notwithstanding paragraphs (1) and (2), a broker or dealer required to register only because it effects transactions in security futures products on an exchange registered pursuant to section 78f(g) of this title may register for purposes of this section by filing with the Commission a written notice in such form and containing such information concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. A broker or dealer may not register under this paragraph unless that broker or dealer is a member of a national securities association registered under section 78o–3(k) of this title.
 
 &emsp;&emsp;(ii)
 
@@ -118,7 +118,7 @@ Immediate effectiveness.—Such registration shall be effective contemporaneousl
 
 &emsp;&emsp;(iii)
 
-Suspension.—Such registration shall be suspended immediately if a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title suspends the membership of that broker or dealer.
+Suspension.—Such registration shall be suspended immediately if a national securities association registered pursuant to section 78o–3(k) of this title suspends the membership of that broker or dealer.
 
 &emsp;&emsp;(iv)
 
@@ -134,9 +134,9 @@ Exemptions for registered brokers and dealers.—A broker or dealer registered p
 
 &emsp;&emsp;(iii) Subsections (c)(3) and (c)(5) of this section.
 
-&emsp;&emsp;(iv) Section 78<i>o</i>–4 of this title.
+&emsp;&emsp;(iv) Section 78o–4 of this title.
 
-&emsp;&emsp;(v) Section 78<i>o</i>–5 of this title.
+&emsp;&emsp;(v) Section 78o–5 of this title.
 
 &emsp;&emsp;(vi) Subsections (d), (e), (f), (g), (h), and (i) <sup>3</sup> of section 78q of this title.
 
@@ -164,9 +164,9 @@ Other exemptions.—A natural person exempt from registration pursuant to subpar
 
 &emsp;&emsp;(iii) Subsections (c)(3), (c)(5), and (e) of this section.
 
-&emsp;&emsp;(iv) Section 78<i>o</i>–4 of this title.
+&emsp;&emsp;(iv) Section 78o–4 of this title.
 
-&emsp;&emsp;(v) Section 78<i>o</i>–5 of this title.
+&emsp;&emsp;(v) Section 78o–5 of this title.
 
 &emsp;&emsp;(vi) Subsections (d), (e), (f), (g), (h), and (i) <sup>3</sup> of section 78q of this title.
 
@@ -176,11 +176,11 @@ Other exemptions.—A natural person exempt from registration pursuant to subpar
 
 (B) No broker, dealer, or municipal securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any municipal security or any security-based swap agreement involving a municipal security by means of any manipulative, deceptive, or other fraudulent device or contrivance.
 
-(C) No government securities broker or government securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or to attempt to induce the purchase or sale of, any government security or any security-based swap agreement involving a government security by means of any manipulative, deceptive, or other fraudulent device or contrivance.
+(C) No government securities broker or government securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or to attempt to induce the purchaseor sale of, any government security or any security-based swap agreement involving a government security by means of any manipulative, deceptive, or other fraudulent device or contrivance.
 
 (2)(A) No broker or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security (other than an exempted security or commercial paper, bankers’ acceptances, or commercial bills) otherwise than on a national securities exchange of which it is a member, in connection with which such broker or dealer engages in any fraudulent, deceptive, or manipulative act or practice, or makes any fictitious quotation.
 
-(B) No broker, dealer, or municipal securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any municipal security in connection with which such broker,dealer, or municipal securities dealer engages in any fraudulent, deceptive, or manipulative act or practice, or makes any fictitious quotation.
+(B) No broker, dealer, or municipal securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any municipal security in connection with which such broker, dealer, or municipal securities dealer engages in any fraudulent, deceptive, or manipulative act or practice, or makes any fictitious quotation.
 
 (C) No government securities broker or government securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or induce or attempt to induce the purchase or sale of, any government security in connection with which such government securities broker or government securities dealer engages in any fraudulent, deceptive, or manipulative act or practice, or makes any fictitious quotation.
 
@@ -194,9 +194,9 @@ Other exemptions.—A natural person exempt from registration pursuant to subpar
 
 (C) Notwithstanding any provision of sections 2(a)(1)(C)(i) or 4d(a)(2) of the Commodity Exchange Act \[7 U.S.C. 2(a)(1)(C)(i), 6d(a)(2)\] and the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 78mm of this title or pursuant to a rule or regulation, cash and securities may be held by a broker or dealer registered pursuant to subsection (b)(1) and also registered as a futures commission merchant pursuant to section 4f(a)(1) of the Commodity Exchange Act \[7 U.S.C. 6f(a)(1)\], in a portfolio margining account carried as a futures account subject to section 4d of the Commodity Exchange Act \[7 U.S.C. 6d\] and the rules and regulations thereunder, pursuant to a portfolio margining program approved by the Commodity Futures Trading Commission, and subject to subchapter IV of chapter 7 of title 11 and the rules and regulations thereunder. The Commission shall consult with the Commodity Futures Trading Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practicable for similar products.
 
-(4) If the Commission finds, after notice and opportunity for a hearing, that any person subject to the provisions of section 78<i>l</i>, 78m, 78n of this title or subsection (d) of this section or any rule or regulation thereunder has failed to comply with any such provision, rule, or regulation in any material respect, the Commission may publish its findings and issue an order requiring such person, and any person who was a cause of the failure to comply due to an act or omission the person knew or should have known would contribute to the failure to comply, to comply, or to take steps to effect compliance, with such provision or such rule or regulation thereunder upon such terms and conditions and within such time as the Commission may specify in such order.
+(4) If the Commission finds, after notice and opportunity for a hearing, that any person subject to the provisions of section 78l, 78m, 78n ofthis title or subsection (d) of this section or any rule or regulation thereunder has failed to comply with any such provision, rule, or regulation in any material respect, the Commission may publish its findings and issue an order requiring such person, and any person who was a cause of the failure to comply due to an act or omission the person knew or should have known would contribute to the failure to comply, to comply, or to take steps to effect compliance, with such provision or such rule or regulation thereunder upon such terms and conditions and within such time as the Commission may specify in such order.
 
-(5) No dealer (other than a specialist registered on a national securities exchange) acting in the capacity of market maker or otherwise shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security (other than an exempted security or a municipal security) in contravention of such specified andappropriate standards with respect to dealing as the Commission, by rule, shall prescribe as necessary or appropriate in the public interest and for the protection of investors, to maintain fair and orderly markets, or to remove impediments to and perfect the mechanism of a national market system. Under the rules of the Commission a dealer in a security may be prohibited from acting as a broker in that security.
+(5) No dealer (other than a specialist registered on a national securities exchange) acting in the capacity of market maker or otherwise shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security (other than an exempted security or a municipal security) in contravention of such specified and appropriate standards with respect to dealing as the Commission, by rule, shall prescribe as necessary or appropriate in the public interest and for the protection of investors, to maintain fair and orderly markets, or to remove impediments to and perfect the mechanism of a national market system. Under the rules of the Commission a dealer in a security may be prohibited from acting as a broker in that security.
 
 (6) No broker or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security (other than an exempted security, municipal security, commercial paper, bankers’ acceptances, or commercial bills) in contravention of such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and for the protection of investors or to perfect or remove impediments to a national system for the prompt and accurate clearance and settlement of securities transactions, with respect to the time and method of, and the form and format of documents used in connection with, making settlements of and payments for transactions in securities, making transfers and deliveries of securities, and closing accounts. Nothing in this paragraph shall be construed (A) to affect the authority of the Board of Governors of the Federal Reserve System, pursuant to section 78g of this title, to prescribe rules and regulations for the purpose of preventing the excessive use of credit for the purchase or carrying of securities, or (B) to authorize the Commission to prescribe rules or regulations for such purpose.
 
@@ -210,7 +210,7 @@ Prohibition of referral fees.—No broker or dealer, or person associated with a
 
 #### (1) In general
 
-&emsp;Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended \[15 U.S.C. 77a et seq.\], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to section 78m of this title in respect of a security registered pursuant to section 78<i>l</i> of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78<i>l</i> of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than three hundred persons. For the purposes of this subsection, the term “class” shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
+&emsp;Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended \[15 U.S.C. 77a et seq.\], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to section 78m of this title in respect of a security registered pursuant to section 78l of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78l of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than 300 persons, or, in the case of bank <sup>4</sup> or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons persons.<sup>1</sup> For the purposes of this subsection, the term “class” shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
 
 #### (2) Asset-backed securities
 
@@ -250,7 +250,7 @@ Every registered broker or dealer shall establish, maintain, and enforce written
 
 &emsp;&emsp;(C) contains a brief, clear, narrative description of a dealer market, including “bid” and “ask” prices for penny stocks and the significance of the spread between the bid and ask prices;
 
-&emsp;&emsp;(D) contains the toll free telephone number for inquiries on disciplinary actions established pursuant to section 78<i>o</i>–3(i) of this title;
+&emsp;&emsp;(D) contains the toll free telephone number for inquiries on disciplinary actions established pursuant to section 78o–3(i) of this title;
 
 &emsp;&emsp;(E) defines significant terms used in the disclosure document or in the conduct of trading in penny stocks; and
 
@@ -290,7 +290,21 @@ Every registered broker or dealer shall establish, maintain, and enforce written
 
 &emsp;No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof shall establish capital, custody, margin, financial responsibility, making and keeping records, bonding, or financial or operational reporting requirements for brokers, dealers, municipal securities dealers, government securities brokers, or government securities dealers that differ from, or are in addition to, the requirements in those areas established under this chapter. The Commission shall consult periodically the securities commissions (or any agency or office performing like functions) of the States concerning the adequacy of such requirements as established under this chapter.
 
-#### (2) De minimis transactions by associated persons
+#### (2) Funding portals
+
+#### (A) Limitation on State laws
+
+&emsp;&emsp;Except as provided in subparagraph (B), no State or political subdivision thereof may enforce any law, rule, regulation, or other administrative action against a registered funding portal with respect to its business as such.
+
+#### (B) Examination and enforcement authority
+
+&emsp;&emsp;Subparagraph (A) does not apply with respect to the examination and enforcement of any law, rule, regulation, or administrative action of a State or political subdivision thereof in which the principal place of business of a registered funding portal is located, provided that such law, rule, regulation, or administrative action is not in addition to or different from the requirements for registered funding portals established by the Commission.
+
+#### (C) Definition
+
+&emsp;&emsp;For purposes of this paragraph, the term “State” includes the District of Columbia and the territories of the United States.
+
+#### (3) De minimis transactions by associated persons
 
 &emsp;No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) for a customer in such State if—
 
@@ -300,7 +314,7 @@ Every registered broker or dealer shall establish, maintain, and enforce written
 
 &emsp;&emsp;(C) the broker or dealer with which such person is associated is registered with such State.
 
-#### (3) Described transactions
+#### (4) Described transactions
 
 #### (A) In general
 
@@ -332,9 +346,9 @@ Every registered broker or dealer shall establish, maintain, and enforce written
 
 &emsp;&emsp;&emsp;(i) each of up to 3 associated persons of a broker or dealer who are designated to effect transactions during the absence or unavailability of the principal associated person for a customer may be treated as an associated person to which such customer is assigned; and
 
-&emsp;&emsp;&emsp;(ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the associated person of the broker or dealer files an application for registration with such State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer's residence.
+&emsp;&emsp;&emsp;(ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the associated person of the broker or dealer files an application for registration withsuch State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer's residence.
 
-#### (j) <sup>4</sup> Rulemaking to extend requirements to new hybrid products
+#### (j) <sup>5</sup> Rulemaking to extend requirements to new hybrid products
 
 #### (1) Consultation
 
@@ -416,29 +430,29 @@ Every registered broker or dealer shall establish, maintain, and enforce written
 
 &emsp;&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
 
-#### (j) <sup>4</sup> Limitation on Commission authority
+#### (j) <sup>5</sup> Limitation on Commission authority
 
-The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swapagreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-#### (k) <sup>5</sup> Registration or succession to a United States broker or dealer
+#### (k) <sup>6</sup> Registration or succession to a United States broker or dealer
 
 In determining whether to permit a foreign person or an affiliate of a foreign person to register as a United States broker or dealer, or succeed to the registration of a United States broker or dealer, the Commission may consider whether, for a foreign person, or an affiliate of a foreign person that presents a risk to the stability of the United States financial system, the home country of the foreign person has adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-#### (<i>l</i>) <sup>6</sup> Termination of a United States broker or dealer
+#### (l) <sup>7</sup> Termination of a United States broker or dealer
 
 For a foreign person or an affiliate of a foreign person that presents such a risk to the stability of the United States financial system, the Commission may determine to terminate the registration of such foreign person or an affiliate of such foreign person as a broker or dealer in the United States, if the Commission determines that the home country of the foreign person has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-#### (k) <sup>7</sup> Standard of conduct
+#### (k) <sup>8</sup> Standard of conduct
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this chapter or the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], the Commission may promulgate rules to provide that, with respect to a broker or dealer, when providing personalized investment advice about securities to a retail customer (and such other customers as the Commission may by rule provide), the standard of conduct for such broker or dealer with respect to such customer shall be the same as the standard of conduct applicable to an investment adviser under section 211 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–11\]. The receipt of compensation based on commission or other standard compensation for the sale of securities shall not, in and of itself, be considered a violation of such standardapplied to a broker or dealer. Nothing in this section shall require a broker or dealer or registered representative to have a continuing duty of care or loyalty to the customer after providing personalized investment advice about securities.
+&emsp;Notwithstanding any other provision of this chapter or the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], the Commission may promulgate rules to provide that, with respect to a broker or dealer, when providing personalized investment advice about securities to a retail customer (and such other customers as the Commission may by rule provide), the standard of conduct for such broker or dealer with respect to such customer shall be the same as the standard of conduct applicable to an investment adviser under section 211 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–11\]. The receipt of compensation based on commission or other standard compensation for the sale of securities shall not, in and of itself, be considered a violation of such standard applied to a broker or dealer. Nothing in this section shall require a broker or dealer or registered representative to have a continuing duty of care or loyalty to the customer after providing personalized investment advice about securities.
 
 #### (2) Disclosure of range of products offered
 
 &emsp;Where a broker or dealer sells only proprietary or other limited range of products, as determined by the Commission, the Commission may by rule require that such broker or dealer provide notice to each retail customer and obtain the consent or acknowledgment of the customer. The sale of only proprietary or other limited range of products by a broker or dealer shall not, in and of itself, be considered a violation of the standard set forth in paragraph (1).
 
-#### (<i>l</i>) <sup>8</sup> Other matters
+#### (l) <sup>9</sup> Other matters
 
 The Commission shall—
 
@@ -454,7 +468,7 @@ The enforcement authority of the Commission with respect to violations of the st
 
 &emsp;(2) the enforcement authority of the Commission with respect to violations of the standard of conduct applicable to an investment adviser under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], including the authority to impose sanctions for such violations, and
 
-> the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to <sup>9</sup> same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\].
+> the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to <sup>10</sup> same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\].
 
 #### (n) Disclosures to retail investors
 
@@ -478,11 +492,11 @@ The enforcement authority of the Commission with respect to violations of the st
 
 &emsp;&emsp;&emsp;(ii) any compensation or other financial incentive received by a broker, dealer, or other intermediary in connection with the purchase of retail investment products.
 
-#### (<i>o</i>) Authority to restrict mandatory pre-dispute arbitration
+#### (o) Authority to restrict mandatory pre-dispute arbitration
 
 The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any broker, dealer, or municipal securities dealer to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
 
-(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B)(ii), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933.)
+(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B)(ii), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326.)
 
 #### Amendment of Section
 
@@ -505,6 +519,10 @@ Subsection (i) of section 78q of this title, referred to in subsec. (b)(11)(B)(v
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under section 78c of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–106, §601(b), substituted “300 persons, or, in the case of bank or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons” for “three hundred”.
+
+Subsec. (i)(2) to (4). Pub. L. 112–106, §305(d)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–203, §985(b)(5)(A)(ii), in concluding provisions, inserted “The order granting registration shall not be effective until such broker or dealer has become a member of a registered securities association, or until such broker or dealer has become a member of a national securities exchange, if such broker or dealer effects transactions solely on that exchange, unless the Commission has exempted such broker or dealer, by rule or order, from such membership.” after “are satisfied.”
 
@@ -538,15 +556,15 @@ Subsec. (j). Pub. L. 111–203, §929X(c)(1), redesignated subsec. (i), relating
 
 Pub. L. 111–203, §762(d)(4)(C), (D), redesignated subsec. (i), relating to limitation on Commission authority, as (j) and struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 111–203, §913(g)(1), added subsec. (k) relating to standard of conduct and subsec. (<i>l</i>) relating to other matters.
+Subsecs. (k), (l). Pub. L. 111–203, §913(g)(1), added subsec. (k) relating to standard of conduct and subsec. (l) relating to other matters.
 
-Pub. L. 111–203, §173(c), added subsec. (k) relating to registration or succession to a United States broker or dealer and subsec. (<i>l</i>) relating to termination of a United States broker or dealer.
+Pub. L. 111–203, §173(c), added subsec. (k) relating to registration or succession to a United States broker or dealer and subsec. (l) relating to termination of a United States broker or dealer.
 
 Subsec. (m). Pub. L. 111–203, §913(h)(1), added subsec. (m).
 
 Subsec. (n). Pub. L. 111–203, §919, added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 111–203, §921(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 111–203, §921(a), added subsec. (o).
 
 <b>2006</b>—Subsec. (b)(4)(B)(ii), (C). Pub. L. 109–291 inserted “nationally recognized statistical rating organization,” after “transfer agent,”.
 
@@ -584,7 +602,7 @@ Subsec. (h)(3)(B)(ii). Pub. L. 105–353, §301(b)(8)(E), substituted “associa
 
 <b>1993</b>—Subsec. (b)(1)(B). Pub. L. 103–202, §109(b)(2), inserted “The order granting registration shall not be effective until such broker or dealer has become a member of a registered securities association, or until such broker or dealer has become a member of a national securities exchange if such broker or dealer effects transactions solely on that exchange, unless the Commission has exempted such broker or dealer, by rule or order, from such membership.” before “The Commission may extend”.
 
-Subsec. (b)(7). Pub. L. 103–202, §106(b)(2)(B), inserted “or government securities broker or government securities dealer registered (or required to register) under section 78<i>o</i>–5(a)(1)(A) of this title” after “No registered broker or dealer” in introductory provisions.
+Subsec. (b)(7). Pub. L. 103–202, §106(b)(2)(B), inserted “or government securities broker or government securities dealer registered (or required to register) under section 78o–5(a)(1)(A) of this title” after “No registered broker or dealer” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 103–202, §105(b), inserted subpar. designation “(A)” after “(1)”, substituted “contrivance.” along with subpar. designation “(B)” and “No municipal securities dealer” for “contrivance, and no municipal securities dealer”, substituted “contrivance.” along with subpar. (C), subpar. designation “(D)” and “The Commission shall” for “contrivance. The Commission shall”, and added subpar. (E).
 
@@ -602,7 +620,7 @@ Subsec. (b)(4)(B)(iii). Pub. L. 101–550, §203(a)(4), inserted “, or substa
 
 Subsec. (b)(4)(B)(iv). Pub. L. 101–550, §203(a)(5), inserted “or a violation of a substantially equivalent foreign statute” after “title 18”.
 
-Subsec. (b)(4)(C). Pub. L. 101–550, §203(a)(6), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,”, “or any substantially equivalent foreign statute or regulation” after “Commodity Exchange Act” wherever appearing, and “foreign entity substantially equivalent to any of the above,” after “insurance company,”.
+Subsec. (b)(4)(C). Pub. L. 101–550, §203(a)(6), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,”, “or any substantially equivalent foreign statute or regulation” after “Commodity Exchange Act”wherever appearing, and “foreign entity substantially equivalent to any of the above,” after “insurance company,”.
 
 Subsec. (b)(4)(G). Pub. L. 101–550, §203(a)(7), added subpar. (G).
 
@@ -628,7 +646,7 @@ Subsec. (b)(4)(B)(ii). Pub. L. 99–571, §102(e)(2), inserted “government sec
 
 Subsec. (b)(4)(C). Pub. L. 99–571, §102(e)(3), substituted “municipal securities dealer, government securities broker, or government securities dealer,” for “or municipal securities dealer,”.
 
-Subsec. (b)(8). Pub. L. 99–571, §102(e)(4), substituted “any registered broker or dealer” for “any broker ordealer required to register pursuant to this chapter” and struck out “an exempted security” after “other than”.
+Subsec. (b)(8). Pub. L. 99–571, §102(e)(4), substituted “any registered broker or dealer” for “any broker or dealer required to register pursuant to this chapter” and struck out “an exempted security” after “other than”.
 
 Subsec. (c)(3). Pub. L. 99–571, §102(f), inserted “(other than a government securities broker or government securities dealer, except a registered broker or dealer)” and “(except a government security)”.
 
@@ -654,7 +672,7 @@ Subsec. (b). Pub. L. 94–29, §11(2), expanded coverage to include municipal se
 
 Subsec. (c)(1). Pub. L. 94–29, §11(3), expanded the Commission's authority to define devices, contrivances, acts, and practices deemed manipulative, deceptive, and otherwise fraudulent for municipal securities dealers as well as for brokers and dealers.
 
-Subsec. (c)(2). Pub. L. 94–29, §11(3), expanded the Commission's authority to define quotations deemed to be fictitious for municipal securities dealers as well as for brokers and dealers.
+Subsec. (c)(2). Pub. L. 94–29, §11(3), expanded the Commission's authority to define quotations deemed to befictitious for municipal securities dealers as well as for brokers and dealers.
 
 Subsec. (c)(3). Pub. L. 94–29, §11(3), inserted requirement that rules and regulations be promulgated no later than Sept. 1, 1975, establishing minimum financial responsibility requirements for all brokers and dealers.
 
@@ -698,7 +716,7 @@ Amendment by section 713(a) of Pub. L. 111–203 effective on the later of 360 d
 
 Amendment by sections 762(d)(4) and 766(d) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
-Pub. L. 111–203, title IX, §975(i), July 21, 2010, 124 Stat. 1923, provided that: “This section \[amending this section and sections 78<i>o</i>–3, 78<i>o</i>–4, and 78q of this title\], and the amendments made by this section, shall take effect on October 1, 2010.”
+Pub. L. 111–203, title IX, §975(i), July 21, 2010, 124 Stat. 1923, provided that: “This section \[amending this section and sections 78o–3, 78o–4, and 78q of this title\], and the amendments made by this section, shall take effect on October 1, 2010.”
 
 #### Effective Date of 1999 Amendment
 
@@ -706,11 +724,11 @@ Amendment by Pub. L. 106–102 effective at the end of the 18-month period begin
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77<i>l</i> of this title.
+Amendment by Pub. L. 104–67 not to affect or apply to any private action arising under this chapter or title I of the Securities Act of 1933 (15 U.S.C. 77a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as a note under section 77l of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 504(a) of Pub. L. 101–429 effective 12 months after Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(2), (3)(A) of Pub. L. 101–429, set out in a note under section 77g of this title.
+Amendment by section 504(a) of Pub. L. 101–429 effective 12 months after Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement,see section 1(c)(2), (3)(A) of Pub. L. 101–429, set out in a note under section 77g of this title.
 
 Amendment by section 505 of Pub. L. 101–429 effective 18 months after Oct. 15, 1990, with provision to commence rulemaking proceedings to implement such amendment not later than 180 days after Oct. 15, 1990, and with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(2), (3)(B), (C) of Pub. L. 101–429, set out in a note under section 77g of this title.
 
@@ -720,7 +738,7 @@ Pub. L. 100–704, §9, Nov. 19, 1988, 102 Stat. 4684, provided that: “The ame
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -744,7 +762,7 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 #### Construction of 1993 Amendment
 
-Amendment by sections 105, 106(b)(2)(B), and 109(b)(2) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78<i>o</i>–5 of this title.
+Amendment by sections 105, 106(b)(2)(B), and 109(b)(2) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
 #### Transfer of Functions
 
@@ -876,7 +894,7 @@ Pub. L. 104–290, title V, §510(d), Oct. 11, 1996, 110 Stat. 3451, provided th
 
 “(1)
 
-Study.—The Commission, after consultation with registered securities associations, national securities exchanges, and States, shall conduct a study of the impact of disparate State licensing requirements on associated persons of registered brokers or dealers and methods for States to attain uniform licensing requirements for such persons.
+Study.—The Commission, after consultation with registered securities associations, national securities exchanges, and States, shall conduct a study of theimpact of disparate State licensing requirements on associated persons of registered brokers or dealers and methods for States to attain uniform licensing requirements for such persons.
 
 “(2)
 
@@ -906,7 +924,7 @@ Pub. L. 101–429, title V, §502, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Revision of Sanction Authority With Respect to Penny Stocks; Recommendations to Congress
 
-Pub. L. 101–429, title V, §504(b), Oct. 15, 1990, 104 Stat. 953, provided that: “Within 6 months after the date of enactment of this Act \[Oct. 15, 1990\], the Securities and Exchange Commission shall submit to each House of the Congress such recommendations as the Commission considers appropriate with respect to further revision of section 15(b)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(b)(6)). In preparing such recommendations, the Commission shall consider the desirability and effect of expanding the applicability of such section to any promoter, finder, consultant, agent or other person who engages in activities with a broker, dealer, or issuer for purposes of the issuance of or trading in, or inducing or attempting to induce the purchase or sale of, any security (and not just penny stock).”
+Pub. L. 101–429, title V, §504(b), Oct. 15, 1990, 104 Stat. 953, provided that: “Within 6 months after the date of enactment of this Act \[Oct. 15, 1990\], the Securities and Exchange Commission shall submit to each House of the Congress such recommendations as the Commission considers appropriate with respect to further revision of section 15(b)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)(6)). In preparing such recommendations, the Commission shall consider the desirability and effect of expanding the applicability of such section to any promoter, finder, consultant, agent or other person who engages in activities with a broker, dealer, or issuer for purposes of the issuance of or trading in, or inducing or attempting to induce the purchase or sale of, any security (and not just penny stock).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 
@@ -914,15 +932,17 @@ Pub. L. 101–429, title V, §504(b), Oct. 15, 1990, 104 Stat. 953, provided tha
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. There are two subsecs. designated (j).</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 
-<i><sup>5</sup></i><i> Another subsec. (k) is set out after the first subsec. (l).</i>
+<i><sup>5</sup></i><i> So in original. There are two subsecs. designated (j).</i>
 
-<i><sup>6</sup></i><i> Another subsec. (l) is set out after the second subsec. (k).</i>
+<i><sup>6</sup></i><i> Another subsec. (k) is set out after the first subsec. (l).</i>
 
-<i><sup>7</sup></i><i> Another subsec. (k) is set out after the second subsec. (j).</i>
+<i><sup>7</sup></i><i> Another subsec. (l) is set out after the second subsec. (k).</i>
 
-<i><sup>8</sup></i><i> Another subsec. (l) is set out after the first subsec. (k).</i>
+<i><sup>8</sup></i><i> Another subsec. (k) is set out after the second subsec. (j).</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>9</sup></i><i> Another subsec. (l) is set out after the first subsec. (k).</i>
+
+<i><sup>10</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

@@ -54,7 +54,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(C) carry out a program for the recruitment of bone marrow donors in accordance with subsection (e) of this section, including with respect to increasing the representation of racial and ethnic minority groups (including persons of mixed ancestry) in the enrollment of the Program;
 
-&emsp;&emsp;(D) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage;
+&emsp;&emsp;(D) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other publichealth emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage;
 
 &emsp;&emsp;(E) carry out informational and educational activities in accordance with subsection (e) of this section;
 
@@ -182,7 +182,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 &emsp;&emsp;(B) prescribe the purposes for which the records described in subparagraph (A) may be disclosed, and the circumstances and extent of the disclosure; and
 
-&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in the program, procedures to ensure the establishment of a method for integrating donor files,searches, and general procedures of the center or registry with the Program.
+&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in the program, procedures to ensure the establishment of a method for integrating donor files, searches, and general procedures of the center or registry with the Program.
 
 #### (g) Cord blood recruitment; priorities; information and education
 
@@ -290,7 +290,7 @@ In developing policies affecting the Program, the Secretary shall consult with t
 
 &emsp;In awarding contracts under this section, the Secretary shall give consideration to the continued safety of donors and patients and other factors deemed appropriate by the Secretary.
 
-#### (<i>l</i>) Eligibility
+#### (l) Eligibility
 
 Entities eligible to receive a contract under this section shall include private nonprofit entities.
 
@@ -368,7 +368,7 @@ Subsec. (j). Pub. L. 105–196, §2(c), redesignated subsec. (h) as (j) and stru
 
 Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)” for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
 
-Subsec. (<i>l</i>). Pub. L. 105–196, §2(f), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–196, §2(f), added subsec. (l).
 
 #### Effective Date of 1998 Amendment
 
@@ -376,11 +376,11 @@ Pub. L. 105–196, §7, July 16, 1998, 112 Stat. 637, provided that: “This Act
 
 #### Savings Provision
 
-Section 102 of title I of Pub. L. 101–616 provided that:
+Pub. L. 101–616, title I, §102, Nov. 16, 1990, 104 Stat. 3282, provided that:
 
 “(a)
 
-In General.—This title \[enacting this section and section 274<i>l</i> of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[section 274a(b) of this title\] (as it existed before the amendment made by section 101(b) of this Act).
+In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[section 274a(b) of this title\] (as it existed before the amendment made by section 101(b) of this Act).
 
 “(b)
 
@@ -412,7 +412,7 @@ Requirements.—The Secretary shall require each recipient of a contract under t
 
 &emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
-&emsp;“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274<i>l</i> of this title\], as amended by this Act.
+&emsp;“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274l of this title\], as amended by this Act.
 
 “(c)
 
@@ -514,7 +514,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; andprovided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

@@ -4,5 +4,5 @@ Section, act Apr. 19, 1950, ch. 92, §10, 64 Stat. 47, established Joint Committ
 
 #### Effective Date of Repeal
 
-Section 26 of Pub. L. 93–531 provided that the repeal is effective as of the close of business December 31, 1974.
+Pub. L. 93–531, §26, Dec. 22, 1974, 88 Stat. 1723, provided that the repeal is effective as of the close of business December 31, 1974.
 

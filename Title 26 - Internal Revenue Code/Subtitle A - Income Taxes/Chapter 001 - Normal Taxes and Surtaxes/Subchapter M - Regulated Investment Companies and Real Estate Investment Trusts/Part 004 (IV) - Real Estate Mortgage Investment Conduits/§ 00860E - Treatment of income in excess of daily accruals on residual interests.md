@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The taxable income of any holder of a residual interest in a REMIC for any taxable yearshall in no event be less than the excess inclusion for such taxable year.
+&emsp;The taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year.
 
 #### (2) Special rule for affiliated groups
 
@@ -100,7 +100,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 #### (3) Liability
 
-&emsp;The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; exceptthat, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
+&emsp;The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; except that, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
 
 #### (4) Transferee furnishes affidavit
 
@@ -208,11 +208,11 @@ Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
 
 Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
-Section 1704(h)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(t)(16)(D)(ii)–(iv) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 Stat. 3425, provided that:
 
 “(ii) The amendments made by subparagraphs (B) and (C) \[amending this section and section 26 of this title\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 

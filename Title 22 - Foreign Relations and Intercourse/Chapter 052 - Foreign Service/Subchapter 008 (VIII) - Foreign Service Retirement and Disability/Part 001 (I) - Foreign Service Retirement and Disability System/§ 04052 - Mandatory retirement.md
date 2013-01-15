@@ -1,6 +1,6 @@
 ### §4052. Mandatory retirement
 
-(a)(1) Except as provided in subsection (b) of this section, any participant shall be retired from the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with section 4046 of this title.
+(a)(1) Except as provided in subsection (b) of this section, any participant shall be retiredfrom the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with section 4046 of this title.
 
 (2) Notwithstanding paragraph (1)—
 

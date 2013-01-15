@@ -2,7 +2,7 @@
 
 (a)
 
-Additional Responsibilities of Chief Information Officer of Department of Defense.—In addition to the responsibilities provided for in chapter 35 of title 44 and in section 11315 of title 40, the Chief Information Officer of the Department of Defense shall—
+Additional Responsibilities of Chief Information Officer of Department of Defense.—In addition to the responsibilities provided for in chapter 35 of title 44 and in section11315 of title 40, the Chief Information Officer of the Department of Defense shall—
 
 &emsp;(1) review and provide recommendations to the Secretary of Defense on Department of Defense budget requests for information technology and national security systems;
 
@@ -53,6 +53,96 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted “section 11103 of
 #### Effective Date
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
+
+#### Collection and Analysis of Network Flow Data
+
+Pub. L. 112–239, div. A, title IX, §935, Jan. 2, 2013, 126 Stat. 1886, provided that:
+
+“(a)
+
+Development of Technologies.—The Chief Information Officer of the Department of Defense may, in coordination with the Under Secretary of Defense for Policy and the Under Secretary of Defense for Intelligence and acting through the Director of the Defense Information Systems Agency, use the available funding and research activities and capabilities of the Community Data Center of the Defense Information Systems Agency to develop and demonstrate collection, processing, and storage technologies for network flow data that—
+
+&emsp;“(1) are potentially scalable to the volume used by Tier 1 Internet Service Providers to collect and analyze the flow data across their networks;
+
+&emsp;“(2) will substantially reduce the cost and complexity of capturing and analyzing high volumes of flow data; and
+
+&emsp;“(3) support the capability—
+
+&emsp;&emsp;“(A) to detect and identify cyber security threats, networks of compromised computers, and command and control sites used for managing illicit cyber operations and receiving information from compromised computers;
+
+&emsp;&emsp;“(B) to track illicit cyber operations for attribution of the source; and
+
+&emsp;&emsp;“(C) to provide early warning and attack assessment of offensive cyber operations.
+
+“(b)
+
+Coordination.—Any research and development required in the development of the technologies described in subsection (a) shall be conducted in cooperation with the heads of other appropriate departments and agencies of the Federal Government and, whenever feasible, Tier 1 Internet Service Providers and other managed security service providers.”
+
+#### Competition for Large-Scale Software Database and Data Analysis Tools
+
+Pub. L. 112–239, div. A, title IX, §936, Jan. 2, 2013, 126 Stat. 1886, provided that:
+
+“(a)
+
+Analysis.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall conduct an analysis of large-scale software database tools and large-scale software data analysis tools that could be used to meet current and future Department of Defense needs for large-scale data analytics.
+
+&emsp;“(2)
+
+Elements.—The analysis required under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) an analysis of the technical requirements and needs for large-scale software database and data analysis tools, including prioritization of key technical features needed by the Department of Defense; and
+
+&emsp;&emsp;“(B) an assessment of the available sources from Government and commercial sources to meet such needs, including an assessment by the Deputy Assistant Secretary of Defense for Manufacturing andIndustrial Base Policy to ensure sufficiency and diversity of potential commercial sources.
+
+&emsp;“(3)
+
+Submission.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the results of the analysis required under paragraph (1).
+
+“(b)
+
+Competition Required.—
+
+&emsp;“(1)
+
+In general.—If, following the analysis required under subsection (a), the Chief Information Officer of the Department of Defense identifies needs for software systems or large-scale software database or data analysis tools, the Department shall acquire such systems or such tools based on market research and using competitive procedures in accordance with applicable law and the Defense Federal Acquisition Regulation Supplement.
+
+&emsp;“(2)
+
+Notification.—If the Chief Information Officer elects to acquire large-scale software database or data analysis tools using procedures other than competitive procedures, the Chief Information Officer and the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit a written notification to the congressional defense committees on a quarterly basis until September 30, 2018, that describes the acquisition involved, the date the decision was made, and the rationale for not using competitive procedures.”
+
+#### Software Licenses of the Department of Defense
+
+Pub. L. 112–239, div. A, title IX, §937, Jan. 2, 2013, 126 Stat. 1887, provided that:
+
+“(a)
+
+Plan for Inventory of Licenses.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer of the Department of the \[sic\] Defense shall, in consultation with the chief information officers of the military departments and the Defense Agencies, issue a plan for the inventory of selected software licenses of the Department of Defense, including a comparison of licenses purchased with licenses installed.
+
+&emsp;“(2)
+
+Selected software licenses.—The Chief Information Officer shall determine the software licenses to be treated as selected software licenses of the Department for purposes of this section. The licenses shall be determined so as to maximize the return on investment in the inventory conducted pursuant to the plan required by paragraph (1).
+
+&emsp;“(3)
+
+Plan elements.—The plan under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) An identification and explanation of the software licenses determined by the Chief Information Officer under paragraph (2) to be selected software licenses for purposes of this section, and a summary outline of the software licenses determined not to be selected software licenses for such purposes.
+
+&emsp;&emsp;“(B) Means to assess the needs of the Department and the components of the Department for selected software licenses during the two fiscal years following the date of the issuance of the plan.
+
+&emsp;&emsp;“(C) Means by which the Department can achieve the greatest possible economies of scale and cost savings in the procurement, use, and optimization of selected software licenses.
+
+“(b)
+
+Performance Plan.—If the Chief Information Officer determines through the inventory conducted pursuant to the plan required by subsection (a) that the number of selected software licenses of the Department and the components of the Department exceeds the needs of the Department for such software licenses, the Secretary of Defense shall implement a plan to bring the number of such software licenses into balance with the needs of the Department.”
 
 #### Ozone Widget Framework
 

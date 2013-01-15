@@ -18,5 +18,5 @@ The Secretary shall, in consultation with appropriate Federal and State agencies
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 102–440 provided that: “This title \[enacting this chapter\] may be cited as ‘The Great Lakes Fish and Wildlife Tissue Bank Act’.”
+Pub. L. 102–440, title II, §201, Oct. 23, 1992, 106 Stat. 2233, provided that: “This title \[enacting this chapter\] may be cited as ‘The Great Lakes Fish and Wildlife Tissue Bank Act’.”
 

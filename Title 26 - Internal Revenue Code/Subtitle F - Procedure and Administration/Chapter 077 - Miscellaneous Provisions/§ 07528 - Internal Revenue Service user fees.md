@@ -56,7 +56,7 @@ The Secretary shall establish a program requiring the payment of user fees forâ€
 
 #### (3) Average fee requirement
 
-&emsp;The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table:
+&emsp;The average fee charged under the program required by subsection (a) shall not be lessthan the amount determined under the following table:
 
 &nbsp;
 

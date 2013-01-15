@@ -16,7 +16,7 @@ The Secretary shall issue regulations—
 
 #### (c) Receipt of other disaster payments
 
-No person may receive benefits under this subchapter attributable to lost production of a feed commodity due to a natural disaster in 1988 tothe extent that such person receives a disaster payment under the Disaster Assistance Act of 1988 on such lost production.
+No person may receive benefits under this subchapter attributable to lost production of a feed commodity due to a natural disaster in 1988 to the extent that such person receives a disaster payment under the Disaster Assistance Act of 1988 on such lost production.
 
 #### (d) Total combined payment and benefits limitation
 

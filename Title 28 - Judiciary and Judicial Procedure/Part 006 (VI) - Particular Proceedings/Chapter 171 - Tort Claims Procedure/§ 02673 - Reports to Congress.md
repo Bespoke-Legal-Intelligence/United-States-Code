@@ -6,7 +6,7 @@ The head of each federal agency shall report annually to Congress all claims pai
 
 #### Repeal
 
-<i>Section 1(1) of Pub. L. 89–348, Nov. 8, 1965, 79 Stat. 1310, repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.</i>
+<i>Pub. L. 89–348, §1(1), Nov. 8, 1965, 79 Stat. 1310, repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.</i>
 
 #### Historical and Revision Notes
 

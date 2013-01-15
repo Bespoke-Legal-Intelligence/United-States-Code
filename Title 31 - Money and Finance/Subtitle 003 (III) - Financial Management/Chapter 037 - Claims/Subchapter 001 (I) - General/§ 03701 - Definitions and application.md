@@ -60,7 +60,7 @@
 
 &emsp;(2) “payment certifying agency” means any agency that has transmitted a voucher to a disbursing official for disbursement.
 
-(f) In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
+(f) In section 3711 of this title, “private collection contractor” means private debt collectorsunder contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
 
@@ -200,7 +200,7 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted “Government” for “United States Government”, redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out “the” before “Commissioned Corps” in two places, and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted “Government” for“United States Government”, redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out “the” before “Commissioned Corps” in two places, and added subsecs. (b) to (d).
 
 #### Effective Date of 1999 Amendment
 
@@ -208,11 +208,11 @@ Pub. L. 106–169, title II, §203(d), Dec. 14, 1999, 113 Stat. 1832, provided t
 
 #### Effective Date of 1994 Amendment
 
-Section 5(c) of Pub. L. 103–387, as amended by Pub. L. 104–134, title III, §31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by this section \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
+Pub. L. 103–387, §5(c), Oct. 22, 1994, 108 Stat. 4077, as amended by Pub. L. 104–134, title III, §31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by this section \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
 
 #### Short Title of 1996 Amendment
 
-Section 31001(a)(1) of Pub. L. 104–134 provided that: “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
+Pub. L. 104–134, title III, §31001(a)(1), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -224,7 +224,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Purposes of 1996 Amendment
 
-Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
+Pub. L. 104–134, title III, §31001(b), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
 
 &emsp;“(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action to enforce recovery of debts and the use of all appropriate collection tools.
 
@@ -232,7 +232,7 @@ Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this sec
 
 &emsp;“(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
 
-&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policiesand that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
+&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
 
 &emsp;“(5) To ensure that debtors have all appropriate due process rights, including the ability to verify, challenge, and compromise claims, and access to administrative appeals procedures which are both reasonable and protect the interests of the United States.
 

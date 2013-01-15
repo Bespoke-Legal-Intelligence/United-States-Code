@@ -102,7 +102,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the propertysecuring a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
 <b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with r
 
 #### Effective Date of 1992 Amendment
 
-Section 516(j)(2) of Pub. L. 102–552 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(f) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1867) \[amending section 1985 of this title\] took effect.”
+Pub. L. 102–552, title V, §516(j)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(f) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1867) \[amending section 1985 of this title\] took effect.”
 
 #### Effective Date of 1991 Amendment
 

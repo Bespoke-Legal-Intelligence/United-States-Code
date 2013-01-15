@@ -26,11 +26,11 @@ The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 
 
 #### Short Title
 
-Section 631(e) of Pub. L. 102–393 provided that: “This section \[enacting this section and provisions set out below\] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
+Pub. L. 102–393, title VI, §631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: “This section \[enacting this section and provisions set out below\] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
 
 #### Alien Species Prevention and Enforcement in Hawaii
 
-Section 631(a)–(c) of Pub. L. 102–393 provided that:
+Pub. L. 102–393, title VI, §631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 1776, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ In general.—Subject to paragraph (2), the Secretary of Agriculture shall herea
 
 &emsp;“(2)
 
-Memorandum of understanding.—For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or otheragreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
+Memorandum of understanding.—For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or other agreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
 
 &emsp;“(3)
 
@@ -114,7 +114,7 @@ In general.—Not later than 90 days after the date of enactment of this Act \[O
 
 &emsp;&emsp;“(B)
 
-Authority.—The Secretary shall use to carry out this paragraph the authority provided under section 3 of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742<i>l</i>).
+Authority.—The Secretary shall use to carry out this paragraph the authority provided under section 3 of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l).
 
 &emsp;“(3)
 

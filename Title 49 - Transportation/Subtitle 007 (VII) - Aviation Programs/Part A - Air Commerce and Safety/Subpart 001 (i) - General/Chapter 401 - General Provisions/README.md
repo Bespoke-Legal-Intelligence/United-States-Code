@@ -18,7 +18,7 @@
 | [40114\.](%C2%A7%2040114%20-%20Reports%20and%20records.md) | Reports and records. |
 | [40115\.](%C2%A7%2040115%20-%20Withholding%20information.md) | Withholding information. |
 | [40116\.](%C2%A7%2040116%20-%20State%20taxation.md) | State taxation. |
-| [40117\.](%C2%A7%2040117%20-%20Passenger%20facility%20fees.md) | Passenger facility fees. |
+| [40117\.](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md) | Passenger facility charges. |
 | [40118\.](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md) | Government-financed air transportation. |
 | [40119\.](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md) | Security and research and development activities. |
 | [40120\.](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
@@ -31,10 +31,13 @@
 | [40127\.](%C2%A7%2040127%20-%20Prohibitions%20on%20discrimination.md) | Prohibitions on discrimination. |
 | [40128\.](%C2%A7%2040128%20-%20Overflights%20of%20national%20parks.md) | Overflights of national parks. |
 | [40129\.](%C2%A7%2040129%20-%20Collaborative%20decisionmaking%20pilot%20program.md) | Collaborative decisionmaking pilot program. |
+| [40130\.](%C2%A7%2040130%20-%20FAA%20authority%20to%20conduct%20criminal%20history%20record%20checks.md) | FAA authority to conduct criminal history record checks. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title I, §111(c)(3), title VIII, §802(b), Feb. 14, 2012, 126 Stat. 18, 119, substituted “Passenger facility charges” for “Passenger facility fees” in item 40117 and added item 40130.
 
 <b>2003</b>—Pub. L. 108–176, title IV, §423(b), Dec. 12, 2003, 117 Stat. 2554, added item 40129.
 
@@ -67,7 +70,7 @@ Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 199
 - [&sect; 40114 - Reports and records](%C2%A7%2040114%20-%20Reports%20and%20records.md)
 - [&sect; 40115 - Withholding information](%C2%A7%2040115%20-%20Withholding%20information.md)
 - [&sect; 40116 - State taxation](%C2%A7%2040116%20-%20State%20taxation.md)
-- [&sect; 40117 - Passenger facility fees](%C2%A7%2040117%20-%20Passenger%20facility%20fees.md)
+- [&sect; 40117 - Passenger facility charges](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md)
 - [&sect; 40118 - Government-financed air transportation](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md)
 - [&sect; 40119 - Security and research and development activities](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md)
 - [&sect; 40120 - Relationship to other laws](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md)
@@ -80,3 +83,4 @@ Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 199
 - [&sect; 40127 - Prohibitions on discrimination](%C2%A7%2040127%20-%20Prohibitions%20on%20discrimination.md)
 - [&sect; 40128 - Overflights of national parks](%C2%A7%2040128%20-%20Overflights%20of%20national%20parks.md)
 - [&sect; 40129 - Collaborative decisionmaking pilot program](%C2%A7%2040129%20-%20Collaborative%20decisionmaking%20pilot%20program.md)
+- [&sect; 40130 - FAA authority to conduct criminal history record checks](%C2%A7%2040130%20-%20FAA%20authority%20to%20conduct%20criminal%20history%20record%20checks.md)

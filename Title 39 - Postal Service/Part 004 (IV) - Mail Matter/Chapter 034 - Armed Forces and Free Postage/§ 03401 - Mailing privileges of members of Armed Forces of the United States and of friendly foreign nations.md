@@ -92,7 +92,7 @@ Subsecs. (a)(2)(D), (b)(1)(A). Pub. L. 101–510 substituted  “sound-  or  
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “or the Virgin Islands,” for “the Virgin Islands, or the Canal Zone,”.
 
-<b>1972</b>—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas,or where adequate surface transportation is not available”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas, or where adequate surface transportation is not available”.
 
 Subsec. (b)(2). Pub. L. 92–469, §1, added subsec. (b)(2). Former subsec. (b)(2) redesignated subsec. (b)(1)(C).
 
@@ -118,7 +118,7 @@ Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Operation Desert Shield
 
-Section 631(b) of Pub. L. 101–509 provided that: “This section \[amending this section\] shall apply to military personnel participating in ‘Operation Desert Shield’.”
+Pub. L. 101–509, title VI, §631(b), Nov. 5, 1990, 104 Stat. 1480, provided that: “This section \[amending this section\] shall apply to military personnel participating in ‘Operation Desert Shield’.”
 
 #### Executive Order No. 11255
 

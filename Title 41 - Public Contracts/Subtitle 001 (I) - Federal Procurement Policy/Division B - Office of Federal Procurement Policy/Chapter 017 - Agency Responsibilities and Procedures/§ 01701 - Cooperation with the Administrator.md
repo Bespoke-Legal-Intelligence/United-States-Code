@@ -4,7 +4,7 @@ On the request of the Administrator, each executive agency shall—
 
 &emsp;(1) make its services, personnel, and facilities available to the Office of Federal Procurement Policy to the greatest practicable extent for the performance of functions under this division; and
 
-&emsp;(2) except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in its possession that the Administrator may determine to be necessary for the performance of the functions of the Office.
+&emsp;(2) except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in itspossession that the Administrator may determine to be necessary for the performance of the functions of the Office.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3700.)
 

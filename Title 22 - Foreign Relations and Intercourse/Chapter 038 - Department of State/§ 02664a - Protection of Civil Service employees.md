@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) the contribution of these Civil Service employees has been overlooked in the management of the Department and greater equality of promotion, training, and career enhancement opportunities should be accorded to the Civil Service employees of the Department; and
 
-&emsp;(3) a goal of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] was to strengthen the contribution made by Civil Service employeesof the Department of State by creating a cadre of experienced specialists and managers in the Department to provide essential continuity.
+&emsp;(3) a goal of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] was to strengthen the contribution made by Civil Service employees of the Department of State by creating a cadre of experienced specialists and managers in the Department to provide essential continuity.
 
 #### (b) Equitable reduction of budget
 
@@ -20,7 +20,7 @@ There is established in the Office of the Secretary of State the position of Omb
 
 #### (d) “Civil Service employees” defined
 
-For purposes of this section, the term “Civil Service employees” means employees of the Federal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 \[22 U.S.C. 3903\]).
+For purposes of this section, the term “Civil Service employees” means employees of theFederal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 \[22 U.S.C. 3903\]).
 
 (Pub. L. 100–204, title I, §172, Dec. 22, 1987, 101 Stat. 1359.)
 

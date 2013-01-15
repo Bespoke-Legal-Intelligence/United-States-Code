@@ -196,7 +196,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (1), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of December 16, 2005, that the projected expenditures under such plan for such State for fiscal year 2006 will exceed the sum of—
+&emsp;For purposes of paragraph (1), a shortfall State described in this paragraph is a Statewith a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of December 16, 2005, that the projected expenditures under such plan for such State for fiscal year 2006 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2004 and 2005 that will not be expended by the end of fiscal year 2005;
 
@@ -232,7 +232,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Availability of amounts redistributed
 
-&emsp;Amounts redistributed to a State under subsection (f) shall be available for expenditureby the State through the end of the fiscal year in which they are redistributed.
+&emsp;Amounts redistributed to a State under subsection (f) shall be available for expenditure by the State through the end of the fiscal year in which they are redistributed.
 
 #### (f) Procedure for redistribution of unused allotments
 
@@ -266,7 +266,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) of this section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
+&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) ofthis section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
 
 #### (i) State
 
@@ -458,7 +458,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Funding of any retrospective adjustments only from unexpended 2005 allotments
 
-&emsp;&emsp;Notwithstanding subsections (e) and (f), to the extent the Secretary determines it necessary to adjust the estimates and determinations made for purposes of paragraphs (1), (2), and (3), the Secretary may use only the allotments for fiscal year 2005 under subsection (b) that remain unexpended through the end of fiscal year 2007 for providing any additional amounts to States described in paragraph (2)(B) (without regard to whether such unexpended allotments are from States described in paragraph (3)(B)).
+&emsp;&emsp;Notwithstanding subsections (e) and (f), to the extent the Secretary determines it necessary to adjust the estimates and determinations made for purposes of paragraphs (1), (2), and (3), the Secretary may use only the allotments for fiscal year 2005 under subsection (b) that remain unexpended through the end of fiscal year 2007 for providing any additional amounts to States described in paragraph (2)(B) (without regard to whethersuch unexpended allotments are from States described in paragraph (3)(B)).
 
 #### (C) Rules of construction
 
@@ -486,7 +486,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;A fiscal year 2008 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
 
-&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that wasnot expended by the end of fiscal year 2007; and
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that was not expended by the end of fiscal year 2007; and
 
 &emsp;&emsp;(B) the amount of the State's allotment for fiscal year 2008.
 
@@ -550,7 +550,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Fiscal year 2009 shortfall State described
 
-&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State childhealth plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that was not expended by the end of fiscal year 2008; and
 
@@ -572,7 +572,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2009 shall only remain available for expenditure by the State through September 30, 2009, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
 
-#### (<i>l</i>) Additional allotments to eliminate funding shortfalls for the first 2 quarters of fiscal year 2009
+#### (l) Additional allotments to eliminate funding shortfalls for the first 2 quarters of fiscal year 2009
 
 #### (1) Appropriation; allotment authority
 
@@ -580,7 +580,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (2) Shortfall States described
 
-&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved underthis subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that will not be expended by the end of fiscal year 2008;
 
@@ -642,7 +642,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of the State allotment under paragraph (1) for fiscal year 2009; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of any payments made to the State under subsection (k), (<i>l</i>), or (n) for fiscal year 2009,
+&emsp;&emsp;&emsp;&emsp;(II) the amount of any payments made to the State under subsection (k), (l), or (n) for fiscal year 2009,
 
 &emsp;&emsp;&nbsp;multiplied by the allotment increase factor under paragraph (5) for fiscal year 2010.
 
@@ -744,7 +744,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (7) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs
 
-&emsp;For purposes of recalculating the fiscal year 2010 allotment, in the case of one of the 50 States or the District of Columbia that has an approved State plan amendment effective January 1, 2006, to provide child health assistance through the provision of benefits under theState plan under subchapter XIX for children from birth through age 5 whose family income does not exceed 200 percent of the poverty line, the Secretary shall increase the allotment by an amount that would be equal to the Federal share of expenditures that would have been claimed at the enhanced FMAP rate rather than the Federal medical assistance percentage matching rate for such population.
+&emsp;For purposes of recalculating the fiscal year 2010 allotment, in the case of one of the 50 States or the District of Columbia that has an approved State plan amendment effective January 1, 2006, to provide child health assistance through the provision of benefits under the State plan under subchapter XIX for children from birth through age 5 whose family income does not exceed 200 percent of the poverty line, the Secretary shall increase the allotment by an amount that would be equal to the Federal share of expenditures that would have been claimed at the enhanced FMAP rate rather than the Federal medical assistance percentage matching rate for such population.
 
 #### (8) Availability of amounts for semi-annual periods in fiscal year 2015
 
@@ -776,7 +776,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (D) Availability of excess funds for performance bonuses
 
-&emsp;&emsp;Any amounts in excess of the aggregate cap described in subparagraph (B) for a fiscal year or period shall be made available for purposes of carrying out section 1397ee(a)(3) of this title for any succeeding fiscal year and the Secretary of the Treasury shall reduce the amount in the Fund by the amount so made available.
+&emsp;&emsp;Any amounts in excess of the aggregate cap described in subparagraph (B) for a fiscal year or period shall be made available forpurposes of carrying out section 1397ee(a)(3) of this title for any succeeding fiscal year and the Secretary of the Treasury shall reduce the amount in the Fund by the amount so made available.
 
 #### (3) Child Enrollment Contingency Fund payments
 
@@ -820,7 +820,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;&emsp;No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113,div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930.)
 
 #### References in Text
 
@@ -910,7 +910,7 @@ Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted “or allotted” after
 
 Subsec. (i). Pub. L. 110–92 added subsec. (i).
 
-Subsec. (j) to (<i>l</i>). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (<i>l</i>).
+Subsec. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted “subject to subsection (d),” after “under this section,” in introductory provisions.
 
@@ -964,7 +964,7 @@ Subsec. (c)(1). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(3)(B)\], str
 
 Subsec. (d). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(b)\], struck out heading and text of subsec. (d). Text read as follows: “The amount of the allotment otherwise provided to a State under subsection (b) or (c) of this section for a fiscal year shall be reduced by the sum of—
 
-&emsp;“(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medicalassistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
+&emsp;“(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
 
 &emsp;“(2) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title.”
 
@@ -1034,7 +1034,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §701(b)\], Nov. 29, 1999, 
 
 #### Effective Date of 1997 Amendment
 
-Section 162 of Pub. L. 105–100 provided that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
+Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
 
 #### Authority To Transfer Subchapter XXI Appropriations to Subchapter XIX Appropriation Account as Reimbursement for Medicaid Expenditures for Medicaid Expansion SCHIP Services
 

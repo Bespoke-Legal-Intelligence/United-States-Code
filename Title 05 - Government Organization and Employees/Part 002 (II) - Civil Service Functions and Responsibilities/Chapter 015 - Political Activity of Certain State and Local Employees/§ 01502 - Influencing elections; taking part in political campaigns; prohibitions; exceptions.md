@@ -6,7 +6,7 @@
 
 &emsp;(2) directly or indirectly coerce, attempt to coerce, command, or advise a State or local officer or employee to pay, lend, or contribute anything of value to a party, committee, organization, agency, or person for political purposes; or
 
-&emsp;(3) be a candidate for elective office.
+&emsp;(3) if the salary of the employee is paid completely, directly or indirectly, by loans or grants made by the United States or a Federal agency, be a candidate for elective office.
 
 (b) A State or local officer or employee retains the right to vote as he chooses and to express his opinions on political subjects and candidates.
 
@@ -16,11 +16,11 @@
 
 &emsp;(2) the mayor of a city;
 
-&emsp;(3) a duly elected head of an executive department of a State or municipality who is not classified under a State or municipal merit or civil-service system; or
+&emsp;(3) a duly elected head of an executive department of a State, municipality, or the District of Columbia who is not classified under a State, municipal, or the District of Columbia merit or civil-service system; or
 
 &emsp;(4) an individual holding elective office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, §401(a), Oct. 15, 1974, 88 Stat. 1290.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, §401(a), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, §§2, 3(c), Dec. 28, 2012, 126 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–230, §2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
+
+Subsec. (c)(3). Pub. L. 112–230, §3(c), which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
+
 <b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as a note under section 1501 of this title.
 
 #### Effective Date of 1974 Amendment
 

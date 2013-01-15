@@ -12,7 +12,7 @@ Section 616jjj, Pub. L. 89–292, §4, Oct. 22, 1965, 79 Stat. 1069, related to 
 
 Section 616kkk, Pub. L. 89–292, §5, Oct. 22, 1965, 79 Stat. 1069, related to control of diverted waters.
 
-Section 616<i>lll</i>, Pub. L. 89–292, §6, Oct. 22, 1965, 79 Stat. 1069; Pub. L. 89–510, July 19, 1966, 80 Stat. 312, related to contract provisions for subordination of rights of contracting parties to those of Basic Management, Inc. or its assignees.
+Section 616lll, Pub. L. 89–292, §6, Oct. 22, 1965, 79 Stat. 1069; Pub. L. 89–510, July 19, 1966, 80 Stat. 312, related to contract provisions for subordination of rights of contracting parties to those of Basic Management, Inc. or its assignees.
 
 Section 616mmm, Pub. L. 89–292, §7, Oct. 22, 1965, 79 Stat. 1069, authorized appropriations for this project.
 

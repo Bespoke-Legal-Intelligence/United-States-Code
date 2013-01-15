@@ -72,7 +72,7 @@ The use of Commodity Credit Corporation funds under subsection (b) of this secti
 
 #### (1) Priority funding to promote equity
 
-&emsp;Before April 1 of each fiscal year, the Secretary shall give priority for funding under theconservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
+&emsp;Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
 
 #### (2) Specific funding allocations
 
@@ -140,7 +140,7 @@ This chapter, referred to in subsec. (f)(1), was in the original “this title�
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1241 and adding a new section 1241 (this section), was executed by striking section 1241 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1241 in lieu thereof, to reflect the probable intent of Congress.
 

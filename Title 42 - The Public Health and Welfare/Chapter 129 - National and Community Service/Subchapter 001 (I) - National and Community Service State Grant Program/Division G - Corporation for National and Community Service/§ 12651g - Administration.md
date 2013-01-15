@@ -52,7 +52,7 @@
 
 #### (D) Disposition
 
-&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property soaccepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (b) Contracts
 

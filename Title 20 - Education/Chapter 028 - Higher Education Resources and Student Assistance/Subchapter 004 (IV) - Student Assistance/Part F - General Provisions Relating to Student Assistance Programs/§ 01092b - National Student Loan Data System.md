@@ -28,7 +28,7 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 #### (b) Additional information
 
-For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
+For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning thecharacteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
 
 &emsp;(1) information concerning the income level of the borrower and his family and the extent of the borrower's need for student financial assistance, including loans;
 
@@ -108,7 +108,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;&emsp;(i) available mechanisms for providing students and parents with the ability to opt in or opt out of allowing eligible lenders to access their records in the National Student Loan Data System; and
 
-&emsp;&emsp;&emsp;(ii) appropriate protocols for limiting access to the data system, based on the risk assessment required under subchapter III of chapter 35 of title 44.
+&emsp;&emsp;&emsp;(ii) appropriate protocols for limiting access to the data system, based on the riskassessment required under subchapter III of chapter 35 of title 44.
 
 #### (B) Submission of study
 

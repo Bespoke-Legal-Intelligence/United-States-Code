@@ -6,7 +6,7 @@ Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1
 
 #### (b) Rule of construction regarding Hawaii's Prepaid Health Care Act
 
-Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to modify or limit the application of the exemption for Hawaii's Prepaid Health Care Act (Haw. Rev. Stat. §§393–1 et seq.) as provided for under section 1144(b)(5) of title 29.
+Nothing in this title <sup>1</sup> (or an amendment made by this title) <sup>1</sup> shall be construed to modify orlimit the application of the exemption for Hawaii's Prepaid Health Care Act (Haw. Rev. Stat. §§393–1 et seq.) as provided for under section 1144(b)(5) of title 29.
 
 #### (c) Student health insurance plans
 

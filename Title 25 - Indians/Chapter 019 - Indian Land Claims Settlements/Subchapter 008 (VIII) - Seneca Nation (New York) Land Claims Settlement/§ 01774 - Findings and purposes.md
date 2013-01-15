@@ -22,7 +22,7 @@ The Congress finds and declares that:
 
 &emsp;(4) The approaching expiration of the Salamanca and congressional village leases on February 19, 1991, has created significant uncertainty and concern on the part of the city of Salamanca and Salamanca residents, and among the residents of the congressional villages, many of whose families have resided on leased lands for generations.
 
-&emsp;(5) The future economic success of the Seneca Nation, city, and congressional villages is tied to the securing of a future lease agreement.
+&emsp;(5) The future economic success of the Seneca Nation, city, and congressional villages istied to the securing of a future lease agreement.
 
 &emsp;(6) The Federal and State governments have agreed that there is a moral responsibility on the part of both governments to help secure a fair and equitable settlement for past inequities.
 
@@ -56,5 +56,5 @@ Act of September 30, 1890 (26 Stat. 558), referred to in subsec. (a)(2)(D), is a
 
 #### Short Title
 
-Section 1 of Pub. L. 101–503 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seneca Nation Settlement Act of 1990’.”
+Pub. L. 101–503, §1, Nov. 3, 1990, 104 Stat. 1292, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seneca Nation Settlement Act of 1990’.”
 

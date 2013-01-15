@@ -218,17 +218,17 @@ Pub. L. 107–107, div. A, title V, §519(c), Dec. 28, 2001, 115 Stat. 1096, pro
 
 #### Effective Date of 1997 Amendment
 
-Section 7002(b) of Pub. L. 105–33 provided that: “This section \[amending this section\] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section.”
+Pub. L. 105–33, title VII, §7002(b), Aug. 5, 1997, 111 Stat. 662, provided that: “This section \[amending this section\] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section.”
 
 #### Effective Date of 1990 Amendments
 
-Section 7102(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date.”
+Pub. L. 101–508, title VII, §7102(c), Nov. 5, 1990, 104 Stat. 1388–333, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
-Section 1(c) of Pub. L. 101–303 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 29, 1990\]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant's annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant.”
+Pub. L. 101–303, §1(c), May 29, 1990, 104 Stat. 250, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 29, 1990\]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant's annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant.”
 
 #### Effective Date of 1989 Amendment
 
-Section 4003(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1989, and shall apply with respect to amounts payable for periods beginning on or after that date.”
+Pub. L. 101–239, title IV, §4003(b), Dec. 19, 1989, 103 Stat. 2135, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1989, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
 #### Effective Date of 1979 Amendment
 
@@ -244,13 +244,13 @@ Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 9
 
 #### Effective Date of 1974 Amendment
 
-Section 4(a) of Pub. L. 93–246 provided that: “The first section of this Act \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
+Pub. L. 93–246, §4(a), Jan. 31, 1974, 88 Stat. 4, provided that: “The first section of this Act \[amending this section\] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
 
-Section 4(d) of Pub. L. 93–246 provided that: “The determination of the average of subscription charges and the adjustment of the Government contributions for 1973, under section 8906 of title 5, United States Code, as amended by the first section of this Act \[amending this section\], shall take effect on the first day of the first applicable pay period which begins on or after the thirtieth day following the date of enactment of this Act \[Jan. 31, 1974\].”
+Pub. L. 93–246, §4(d), Jan. 31, 1974, 88 Stat. 4, provided that: “The determination of the average of subscription charges and the adjustment of the Government contributions for 1973, under section 8906 of title 5, United States Code, as amended by the first section of this Act \[amending this section\], shall take effect on the first day of the first applicable pay period which begins on or after the thirtieth day following the date of enactment of this Act \[Jan. 31, 1974\].”
 
 #### Effective Date of 1970 Amendment
 
-Section 1(b) of Pub. L. 91–418 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
+Pub. L. 91–418, §1(b), Sept. 25, 1970, 84 Stat. 869, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Health Benefits
 
@@ -290,7 +290,7 @@ Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, direct
 
 #### Employees Serving on Part-Time Career Employment Basis on October 10, 1978
 
-Section 4(c)(2)(B) of Pub. L. 95–437 provided that: “The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
+Pub. L. 95–437, §4(c)(2)(B), Oct. 10, 1978, 92 Stat. 1059, provided that: “The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
 
 #### Calculation and Payment by Government of Contributions to Contingency Reserves of All Health Benefit Plans
 

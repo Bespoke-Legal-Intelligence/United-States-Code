@@ -1,10 +1,10 @@
 ### §146. Carpool and vanpool projects
 
-(a) In order to conserve fuel, decrease traffic congestion during rush hours, improve air quality, and enhance the use of existing highways and parking facilities, the Secretary may approve for Federal financial assistance from funds apportioned under sections 104(b)(1) and 104(b)(3) of this title, projects designed to encourage the use of carpools and vanpools. (As used hereafter in this section, the term “carpool” includes a vanpool.) Such a project may include, but is not limited to, such measures as providing carpooling opportunities to the elderly and handicapped, systems for locating potential riders and informing them of convenient carpool opportunities, acquiring vehicles appropriate for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, and designating existing facilities for use as preferential parking for carpools.
+(a) In order to conserve fuel, decrease traffic congestion during rush hours, improve air quality, and enhance the use of existing highways and parking facilities, the Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(2) of this title, projects designed to encourage the use of carpools and vanpools. (As used hereafter in this section, the term “carpool” includes a vanpool.) Such a project may include, but is not limited to, such measures as providing carpooling opportunities to the elderly and handicapped, systems for locating potential riders and informing them of convenient carpool opportunities, acquiring vehicles appropriate for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, and designating existing facilities for use as preferential parking for carpools.
 
 (b) A project authorized by this section shall be subject to and carried out in accordance with all provisions of this title, except those provisions which the Secretary determines are inconsistent with this section.
 
-(Added Pub. L. 95–599, title I, §126(a), Nov. 6, 1978, 92 Stat. 2705; amended Pub. L. 105–178, title I, §1103(<i>l</i>)(1), June 9, 1998, 112 Stat. 125.)
+(Added Pub. L. 95–599, title I, §126(a), Nov. 6, 1978, 92 Stat. 2705; amended Pub. L. 105–178, title I, §1103(l)(1), June 9, 1998, 112 Stat. 125; Pub. L. 112–141, div. A, title I, §1105(b), July 6, 2012, 126 Stat. 432.)
 
 #### Prior Provisions
 
@@ -12,7 +12,13 @@ A prior section 146, Pub. L. 93–87, title I, §125(a), Aug. 13, 1973, 87 Stat.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141 substituted “section 104(b)(2)” for “sections 104(b)(1) and 104(b)(3)”.
+
 <b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted “sections 104(b)(1) and 104(b)(3)” for “sections 104(b)(1), 104(b)(2), and 104(b)(6)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Use of High Occupancy Lanes
 
@@ -20,15 +26,15 @@ Pub. L. 97–424, title I, §163, Jan. 6, 1983, 96 Stat. 2136, as amended by Pub
 
 #### Expenditure of Administrative Funds for Carpooling and Vanpooling Programs
 
-Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, provided that: “The Secretary of Transportation is authorized and directed to expend such sums as are necessary out of the administrative funds authorized by subsection (a) of section 104, title 23, United States Code, to carry out the provisions of subsection (d) of section 126 of the Federal-Aid Highway Act of 1978 \[section 126(d) of Pub. L. 95–599, set out below\].”
+Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, directed the Secretary of Transportation to expend necessary sums out of the administrative funds authorized by section 104(a) of this title to carry out section 126(d) of Pub. L. 95–599, set out below.
 
 #### Grants to States, Counties, etc., To Promote Carpooling and Vanpooling Programs
 
-Section 126(d)–(h) of Pub. L. 95–599, as amended by Pub. L. 102–240, title III, §3004(b), Dec. 18, 1991, 105 Stat. 2088, provided that:
+Pub. L. 95–599, title I, §126(d)–(h), Nov. 6, 1978, 92 Stat. 2706, 2707, as amended by Pub. L. 102–240, title III, §3004(b), Dec. 18, 1991, 105 Stat. 2088, provided that:
 
 “(d) It is hereby declared to be national policy that special effort should be made to promote commuter modes of transportation which conserve energy, reduce pollution, and reduce traffic congestion. The Secretary is directed to assist both public and private employers and employees who wish to establish carpooling and vanpooling programs where they are needed and desired, and to assist local and State governments, and their instrumentalities, in encouraging such modes by removing legal and regulatory barriers to such programs, supporting existing carpooling and vanpooling programs, and providing technical assistance, for the purpose of increasing participation in such modes.
 
-“(e) The Secretary of Transportation is authorized to make grants and loans to States, counties, municipalities, metropolitan planning organizations, and otherunits of local and regional government consistent with the policy of subsection (d) of this section. Such grants and loans shall be awarded in a manner which emphasizes energy conservation, although the Secretary may use other factors as he deems appropriate. The Federal share of the costs of any project approved under this subsection shall not exceed 75 per centum. No grant awarded under this subsection may be used for the purchase or lease of vehicles.
+“(e) The Secretary of Transportation is authorized to make grants and loans to States, counties, municipalities, metropolitan planning organizations, and other units of local and regional government consistent with the policy of subsection (d) of this section. Such grants and loans shall be awarded in a manner which emphasizes energy conservation, although the Secretary may use other factors as he deems appropriate. The Federal share of the costs of any project approved under this subsection shall not exceed 75 per centum. No grant awarded under this subsection may be used for the purchase or lease of vehicles.
 
 “(f) There is hereby authorized to be appropriated, out of the Highway Trust Fund, not to exceed $1,000,000 for the fiscal year ending September 30, 1979, $1,000,000 for the fiscal year ending September 30, 1980, and $1,000,000 for the fiscal year ending September 30, 1981, for expenditures incurred by the Secretary of Transportation in carrying out the provisions of subsection (d) of this section, and $3,000,000 for the fiscal year ending September 30, 1979, and $9,000,000 for the fiscal year ending September 30, 1980, for the purpose of carrying out the program described in subsection (e) of this section.
 

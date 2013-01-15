@@ -42,7 +42,7 @@ Under terms and conditions established by the Secretary, matching funds provided
 
 &emsp;Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) of this section and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
 
-(Pub. L. 95–113, title XIV, §1449, as added Pub. L. 105–185, title II, §226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, §7212,May 13, 2002, 116 Stat. 447; Pub. L. 110–234, title VII, §7127, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, §4(a), title VII, §7127, June 18, 2008, 122 Stat. 1664, 1984.)
+(Pub. L. 95–113, title XIV, §1449, as added Pub. L. 105–185, title II, §226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, §7212, May 13, 2002, 116 Stat. 447; Pub. L. 110–234, title VII, §7127, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, §4(a), title VII, §7127, June 18, 2008, 122 Stat. 1664, 1984.)
 
 #### References in Text
 

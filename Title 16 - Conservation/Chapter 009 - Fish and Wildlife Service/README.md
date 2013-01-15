@@ -21,7 +21,7 @@
 | 742j–2. | Uniform allowance. |
 | [742k.](%C2%A7%2000742k%20-%20Management%20and%20disposition%20of%20vessels%20and%20other%20property%20acquired%20and%20arising%20out%20of%20fishery%20loans%20or%20related%20type%20of%20activities.md) | Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities. |
 | 742<i>l.</i> | Enforcement authority for the protection of fish and wildlife resources. |
-| 742<i>l</i>–1. | Authority to use available law enforcement funds. |
+| 742l–1. | Authority to use available law enforcement funds. |
 | [742m.](%C2%A7%2000742m%20-%20Relinquishment%20of%20exclusive%20legislative%20jurisdiction.md) | Relinquishment of exclusive legislative jurisdiction. |
 | [743\.](%C2%A7%2000743%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93280%2C%20%C2%A71%282%29%2C%20May%2010%2C%201974%2C%2088%20Stat.%20123.md) | Repealed. |
 | [743a.](%C2%A7%2000743a%20-%20Detail%20of%20personnel%20and%20loan%20of%20equipment%20to%20Director%20of%20Bureau%20of%20Sport%20Fisheries%20and%20Wildlife.md) | Detail of personnel and loan of equipment to Director of Bureau of Sport Fisheries and Wildlife. |

@@ -22,13 +22,13 @@ Except as provided in subsection (b) of this section, nothing in this chapter ma
 
 &emsp;Paragraph (1) shall not be construed to apply to—
 
-&emsp;&emsp;(A) a State referendum concerning the approval of modifications to a State soybeanpromotion program that does not involve termination of the qualified State soybean board or State soybean assessment; and
+&emsp;&emsp;(A) a State referendum concerning the approval of modifications to a State soybean promotion program that does not involve termination of the qualified State soybean board or State soybean assessment; and
 
 &emsp;&emsp;(B) any State referendum regarding a State soybean promotion program that is originated by soybean producers.
 
 #### (3) Assessments collected by qualified State soybean boards
 
-&emsp;To ensure adequate funding of the operations of qualified State soybean boards under this chapter, whenever an order is in effect under this chapter, no State law or regulation that limits the rate of assessment that the qualified State soybean board in that State may collect from producers on soybeans produced in such State, or that has the effect of limiting such rate, may be applied to prohibit such State board from collecting, and expending for authorized purposes, assessments from producers of up to the full amount of the credit authorized for producer contributions to qualified State soybean boards under section 6304(<i>l</i>)(4) of this title.
+&emsp;To ensure adequate funding of the operations of qualified State soybean boards under this chapter, whenever an order is in effect under this chapter, no State law or regulation that limits the rate of assessment that the qualified State soybean board in that State may collect from producers on soybeans produced in such State, or that has the effect of limiting such rate, may be applied to prohibit such State board from collecting, and expending for authorized purposes, assessments from producers of up to the full amount of the credit authorized for producer contributions to qualified State soybean boards under section 6304(l)(4) of this title.
 
 #### (c) Amendments to orders
 
@@ -40,7 +40,7 @@ The provisions of this chapter applicable to orders shall be applicable to amend
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–237, §806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).
 
-Subsec. (b)(3). Pub. L. 102–237, §806(3)(A), substituted “section 6304(<i>l</i>)(4)” for “section 6304(k)(4)”.
+Subsec. (b)(3). Pub. L. 102–237, §806(3)(A), substituted “section 6304(l)(4)” for “section 6304(k)(4)”.
 
 Subsec. (c). Pub. L. 102–237, §806(3)(B), redesignated second subsec. (b), relating to amendments of orders, as (c).
 

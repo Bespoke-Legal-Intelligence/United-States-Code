@@ -6,7 +6,7 @@ The Congress finds that it is in the national security and economic interest of 
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordance with section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
+It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordancewith section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
 
 &emsp;(1) achieving as soon as practicable cost competitive use of those technologies without need of Federal financial incentives;
 
@@ -48,5 +48,5 @@ Subsec. (c). Pub. L. 102–486, §1202(d)(3), substituted “section 13541 of th
 
 #### Short Title
 
-Section 1 of Pub. L. 101–218 provided: “That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
+Pub. L. 101–218, §1, Dec. 11, 1989, 103 Stat. 1859, provided: “That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, section 2857 of Title 10, Armed Forces, and section 2194 of Title 22, Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
 

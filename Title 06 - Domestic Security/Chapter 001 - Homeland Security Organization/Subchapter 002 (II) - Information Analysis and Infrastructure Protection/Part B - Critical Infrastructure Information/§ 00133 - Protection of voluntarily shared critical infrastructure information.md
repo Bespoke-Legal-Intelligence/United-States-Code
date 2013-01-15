@@ -46,7 +46,7 @@ No communication of critical infrastructure information to a covered Federal age
 
 #### (c) Independently obtained information
 
-Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a) of this section, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law.
+Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a) of this section, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5.
 
 #### (d) Treatment of voluntary submittal of information
 
@@ -86,7 +86,7 @@ The Federal Government may provide advisories, alerts, and warnings to relevant 
 
 The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title, to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 2158 of title 50, Appendix.
 
-(Pub. L. 107–296, title II, §214, Nov. 25, 2002, 116 Stat. 2152; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 107–296, title II, §214, Nov. 25, 2002, 116 Stat. 2152; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–199, title I, §111, Nov. 27, 2012, 126 Stat. 1472.)
 
 #### References in Text
 
@@ -96,7 +96,13 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c). Pub. L. 112–199 inserted at end “For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5.”
+
 <b>2004</b>—Subsec. (a)(1)(D)(ii)(II). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -1,6 +1,4 @@
 
-18 U.S.C.<br>United States Code, 2011 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 18—CRIMES AND CRIMINAL PROCEDURE
 
 <i>This title was enacted by act June 25, 1948, ch. 645, §1, 62 Stat. 683</i>
@@ -2599,23 +2597,23 @@ Rep.
 
 #### Positive Law; Citation
 
-Section 1 of act June 25, 1948, ch. 645, 62 Stat. 683, provided in part that: “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., §—.’ ”
+Act June 25, 1948, ch. 645, §1, 62 Stat. 683, provided in part that: “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., §—.’ ”
 
 #### Legislative Construction
 
-Section 19 of act June 25, 1948, ch. 645, 62 Stat. 862, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
+Act June 25, 1948, ch. 645, §19, 62 Stat. 862, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
 
 #### Separability
 
-Section 18 of act June 25, 1948, ch. 645, 62 Stat. 862, provided that: “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
+Act June 25, 1948, ch. 645, §18, 62 Stat. 862, provided that: “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
 
 #### Effective Date
 
-Section 20 of act June 25, 1948, ch. 645, 62 Stat. 862, provided that the revision of this title shall be effective Sept. 1, 1948.
+Act June 25, 1948, ch. 645, §20, 62 Stat. 862, provided that the revision of this title shall be effective Sept. 1, 1948.
 
 #### Existing Rights or Liabilities
 
-Section 21 of act June 25, 1948, ch. 645, 62 Stat. 862, provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
+Act June 25, 1948, ch. 645, §21, 62 Stat. 862, provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
 
 #### Repealed, Transferred, and Omitted Sections
 

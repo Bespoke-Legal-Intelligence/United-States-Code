@@ -64,6 +64,7 @@
 | [6939d.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939d%20-%20Public%20vessels.md) | Public vessels. |
 | [6939e.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939e%20-%20Federally%20owned%20treatment%20works.md) | Federally owned treatment works. |
 | [6939f.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939f%20-%20Long-term%20storage.md) | Long-term storage. |
+| [6939g.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939g%20-%20Hazardous%20waste%20electronic%20manifest%20system.md) | Hazardous waste electronic manifest system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

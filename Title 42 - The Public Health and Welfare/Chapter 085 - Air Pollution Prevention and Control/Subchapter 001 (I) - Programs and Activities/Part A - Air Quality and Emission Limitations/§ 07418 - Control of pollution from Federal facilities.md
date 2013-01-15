@@ -22,7 +22,7 @@ Each department, agency, and instrumentality of executive, legislative, and judi
 
 &emsp;(3) another method approved by the vehicle inspection and maintenance program administrator.
 
-(July 14, 1955, ch. 360, title I, §118, formerly, §7, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 399; renumbered §107, Pub. L. 89–272, title I, §101(3), Oct. 20, 1965, 79 Stat. 992; renumbered §111 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; renumbered §118 and amended Pub. L. 91–604, §§4(a), 5, Dec. 31, 1970, 84 Stat. 1678, 1689; Pub. L. 95–95, title I, §116, Aug. 7, 1977,91 Stat. 711; Pub. L. 101–549, title I, §101(e), title II, §235, title III, §302(d), Nov. 15, 1990, 104 Stat. 2409, 2530, 2574.)
+(July 14, 1955, ch. 360, title I, §118, formerly, §7, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 399; renumbered §107, Pub. L. 89–272, title I, §101(3), Oct. 20, 1965, 79 Stat. 992; renumbered §111 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; renumbered §118 and amended Pub. L. 91–604, §§4(a), 5, Dec. 31, 1970, 84 Stat. 1678, 1689; Pub. L. 95–95, title I, §116, Aug. 7, 1977, 91 Stat. 711; Pub. L. 101–549, title I, §101(e), title II, §235, title III, §302(d), Nov. 15, 1990, 104 Stat. 2409, 2530, 2574.)
 
 #### Codification
 
@@ -72,5 +72,5 @@ Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, which provided for the preventio
 
 #### Executive Order No. 11507
 
-Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of air pollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
+Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of airpollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
 

@@ -110,7 +110,7 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 
 #### Effective Date of 1972 Amendment
 
-Section 14 of Pub. L. 92–261 provided that: “The amendments made by this Act to section 706 of the Civil Rights Act of 1964 \[this section\] shall be applicable with respect to charges pending with the Commission on the date of enactment of this Act \[Mar. 24, 1972\] and all charges filed thereafter.”
+Pub. L. 92–261, §14, Mar. 24, 1972, 86 Stat. 113, provided that: “The amendments made by this Act to section 706 of the Civil Rights Act of 1964 \[this section\] shall be applicable with respect to charges pending with the Commission on the date of enactment of this Act \[Mar. 24, 1972\] and all charges filed thereafter.”
 
 #### Findings
 

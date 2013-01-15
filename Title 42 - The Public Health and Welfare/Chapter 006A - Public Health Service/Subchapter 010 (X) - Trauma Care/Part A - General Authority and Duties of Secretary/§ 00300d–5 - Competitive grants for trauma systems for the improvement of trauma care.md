@@ -32,7 +32,7 @@ In selecting among States, political subdivisions, and consortia of States or po
 
 #### (d) Priority
 
-In making grants under this section, the Secretary shall give priority to applicants that willuse the grants to focus on improving access to trauma care systems.
+In making grants under this section, the Secretary shall give priority to applicants that will use the grants to focus on improving access to trauma care systems.
 
 #### (e) Special consideration
 

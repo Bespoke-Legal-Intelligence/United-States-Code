@@ -1,6 +1,6 @@
 ### §671. National Bison Range
 
-There is reserved and excepted from the unallotted lands now embraced within the Flathead Indian Reservation, in the State of Montana, a parcel not to exceed twenty thousand acres of said lands, near the confluence of the Pend d'Oreille and Jocko Rivers, for a permanent National Bison Range for the herd of bison presented by the American Bison Society. TheSecretary of the Interior is authorized and directed to inclose said lands with a good and substantial fence and to erect thereon the necessary sheds and buildings for the proper care and maintenance of the said bison.
+There is reserved and excepted from the unallotted lands now embraced within the Flathead Indian Reservation, in the State of Montana, a parcel not to exceed twenty thousand acres of said lands, near the confluence of the Pend d'Oreille and Jocko Rivers, for a permanent National Bison Range for the herd of bison presented by the American Bison Society. The Secretary of the Interior is authorized and directed to inclose said lands with a good and substantial fence and to erect thereon the necessary sheds and buildings for the proper care and maintenance of the said bison.
 
 (May 23, 1908, ch. 192, 35 Stat. 267; Mar. 4, 1909, ch. 301, 35 Stat. 1051; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 

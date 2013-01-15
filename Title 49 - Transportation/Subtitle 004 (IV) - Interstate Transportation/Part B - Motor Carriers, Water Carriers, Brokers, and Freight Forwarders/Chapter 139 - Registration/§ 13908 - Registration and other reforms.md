@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Unified Carrier Registration System.—The Secretary, in cooperation with the States, representatives of the motor carrier, motor private carrier, freight forwarder, and broker industries and after notice and opportunity for public comment, shall issue within 1 year after the date of enactment of the Unified Carrier Registration Act of 2005 regulations to establish an online Federal registration system, to be named the “Unified Carrier Registration System”, to replace—
+Establishment of Unified Carrier Registration System.—The Secretary, in cooperation with the States, representatives of the motor carrier, motor private carrier, freight forwarder, and broker industries and after notice and opportunity for public comment, shall issue within 1 year after the date of enactment of theUnified Carrier Registration Act of 2005 regulations to establish an online Federal registration system, to be named the “Unified Carrier Registration System”, to replace—
 
 &emsp;(1) the current Department of Transportation identification number system, the single State registration system under section 14504; <sup>1</sup>
 
@@ -24,7 +24,7 @@ Fee System.—The Secretary shall establish, under section 9701 of title 31, a f
 
 &emsp;(1)
 
-Registration and filing evidence of financial responsibility.—The fee for new registrants shall as nearly as possible cover the costs of processing the registration but shall not exceed $300.
+Registration and filing evidence of financial responsibility.—The fee for new registrants shall as nearly as possible cover the costs of processing the registration.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Use of Fees for Unified Carrier Registration System.—Fees collected under this
 
 Application to Certain Intrastate Operations.—Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(<i>l</i>), June 6, 2008, 122 Stat. 1617.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(l), June 6, 2008, 122 Stat. 1617; Pub. L. 112–141, div. C, title II, §32106, July 6, 2012, 126 Stat. 781.)
 
 #### Historical and Revision Notes
 
@@ -76,6 +76,8 @@ The effective date of this section, referred to in subsec. (c), probably means t
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–141 struck out “but shall not exceed $300” after “registration”.
+
 <b>2008</b>—Subsecs. (e), (f). Pub. L. 110–244 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2005</b>—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
@@ -83,6 +85,10 @@ The effective date of this section, referred to in subsec. (c), probably means t
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Regulations
 

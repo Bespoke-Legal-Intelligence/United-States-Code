@@ -38,7 +38,7 @@ Subsection (a) shall not apply to the transfer of property in trust to the exten
 
 > Proper adjustment shall be made under subsection (b) in the basis of the transferee in such property to take into account gain recognized by reason of the preceding sentence.
 
-(Added Pub. L. 98–369, div. A, title IV, §421(a), July 18, 1984, 98 Stat. 793; amended Pub. L. 99–514, title XVIII, §1842(b), Oct. 22, 1986, 100 Stat. 2853; Pub. L. 100–647, title I, §1018(<i>l</i>)(3), Nov. 10, 1988, 102 Stat. 3584.)
+(Added Pub. L. 98–369, div. A, title IV, §421(a), July 18, 1984, 98 Stat. 793; amended Pub. L. 99–514, title XVIII, §1842(b), Oct. 22, 1986, 100 Stat. 2853; Pub. L. 100–647, title I, §1018(l)(3), Nov. 10, 1988, 102 Stat. 3584.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Subsection (a) shall not apply to the transfer of property in trust to the exten
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(<i>l</i>)(3) of Pub. L. 100–647 provided that the amendment made by that section is effective with respect to transfers after June 21, 1988.
+Pub. L. 100–647, title I, §1018(l)(3), Nov. 10, 1988, 102 Stat. 3584, provided that the amendment made by that section is effective with respect to transfers after June 21, 1988.
 
 #### Effective Date of 1986 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 421(d) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title IV, §421(d), July 18, 1984, 98 Stat. 795, provided that:
 
 “(1)
 

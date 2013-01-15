@@ -64,11 +64,11 @@ Amendment by Pub. L. 98–21 applicable only with respect to monthly payments pa
 
 #### Effective Date of 1973 Amendment
 
-Section 2(b)(1) of Pub. L. 93–233 provided that the amendment made by that section is effective June 1, 1974.
+Pub. L. 93–233, §2(b)(1), Dec. 31, 1973, 87 Stat. 952, provided that the amendment made by that section is effective June 1, 1974.
 
 Amendment by Pub. L. 93–233 applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title, see section 2(c) of Pub. L. 93–233, set out as a note under section 415 of this title.
 
-#### Effective Date of 1972 Amendments
+#### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–603 applicable only in the case of a man who attains (or would attain) age 62 after December 1974, see section 104(j) of Pub. L. 92–603, set out as a note under section 414 of this title.
 
@@ -76,23 +76,23 @@ Amendment by Pub. L. 92–336 applicable with respect to monthly benefits under 
 
 #### Effective Date of 1971 Amendment
 
-Section 202(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1970.”
+Pub. L. 92–5, title II, §202(c), Mar. 17, 1971, 85 Stat. 10, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1970.”
 
 #### Effective Date of 1969 Amendment
 
-Section 1003(c) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969.”
+Pub. L. 91–172, title X, §1003(c), Dec. 30, 1969, 83 Stat. 741, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1969.”
 
 #### Effective Date of 1968 Amendment
 
-Section 102(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
+Pub. L. 90–248, title I, §102(c), Jan. 2, 1968, 81 Stat. 828, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
 
 #### Effective Date
 
-Section 309(b) of Pub. L. 89–97 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for and after the second month following the month \[July 1965\] in which this Act is enacted on the basis of applications filed in or after the month in which this Act is enacted.”
+Pub. L. 89–97, title III, §309(b), July 30, 1965, 79 Stat. 380, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for and after the second month following the month \[July 1965\] in which this Act is enacted on the basis of applications filed in or after the month in which this Act is enacted.”
 
 #### Repeal of Amendment of Subsecs. (a) and (b) Prior to Effective Date
 
-Section 202(a)(4) of Pub. L. 92–336, title II, July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

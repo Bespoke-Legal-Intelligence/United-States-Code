@@ -76,7 +76,7 @@ R.S. §3653; Aug. 7, 1882, ch. 433, §1(2d complete par. on p. 312), 22 Stat. 31
 
 June 1, 1955, ch. 119, §1(b), 69 Stat. 82.
 
-In subsection (a), before clause (1), the words “Except as provided by another law” are substituted for “than as specially allowed by law” in 31:521 for clarity and consistency. The words “an official or agent of the United States Government having custody or possession of public money” are substituted for “The Treasurer of the United States, all assistant treasurers \[subsequently changed to ‘all depositaries designated in accordance with section 476 of this title’ because of 31:476\], and those performing the duties of assistant treasurer, all collectors of the customs, all surveyors of the customs, acting also as collectors, all receivers of public moneys at the several land offices, all postmasters, and all public officers of whatsoever character . . . all the public money collected by them, or otherwise at any time placed in their possession and custody” to eliminate unnecessary words and for consistency in the revised title. The words “till the same is ordered, by the proper department or officer of the Government, to be transferred or paid out” are omitted as superseded by source provisions restated in the chapter. The text of 31:521(words after semicolon) is omitted as unnecessary because of the restatement.
+In subsection (a), before clause (1), the words “Except as provided by another law” are substituted for “than as specially allowed by law” in 31:521 for clarity and consistency. The words “an official or agent of the United States Government having custody or possession of public money” are substituted for “The Treasurer of the United States, all assistant treasurers \[subsequently changed to ‘all depositaries designated in accordance with section 476 of this title’ because of 31:476\], and those performing the duties of assistant treasurer, all collectors of the customs, all surveyors ofthe customs, acting also as collectors, all receivers of public moneys at the several land offices, all postmasters, and all public officers of whatsoever character . . . all the public money collected by them, or otherwise at any time placed in their possession and custody” to eliminate unnecessary words and for consistency in the revised title. The words “till the same is ordered, by the proper department or officer of the Government, to be transferred or paid out” are omitted as superseded by source provisions restated in the chapter. The text of 31:521(words after semicolon) is omitted as unnecessary because of the restatement.
 
 In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
 
@@ -124,11 +124,11 @@ Section 3718(b) of this title, referred to in subsec. (b), was redesignated sect
 
 #### Effective Date of 1994 Amendment
 
-Section 7(a) of Pub. L. 103–429 provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 103–429, §7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
 
 #### Effective Date of 1984 Amendment
 
-Section 2652(b)(2) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section\] shall become effective January 1, 1985.”
+Pub. L. 98–369, div. B, title VI, §2652(b)(2), July 18, 1984, 98 Stat. 1153, provided that: “The amendments made by this subsection \[amending this section\] shall become effective January 1, 1985.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

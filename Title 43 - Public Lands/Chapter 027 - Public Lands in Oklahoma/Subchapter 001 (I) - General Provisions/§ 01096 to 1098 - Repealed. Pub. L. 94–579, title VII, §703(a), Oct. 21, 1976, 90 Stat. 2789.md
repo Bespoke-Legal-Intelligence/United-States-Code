@@ -8,7 +8,7 @@ Section 1098, act Mar. 3, 1891, ch. 543, §16, 26 Stat. 1026, provided that all 
 
 #### Effective Date of Repeal
 
-Section 703(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

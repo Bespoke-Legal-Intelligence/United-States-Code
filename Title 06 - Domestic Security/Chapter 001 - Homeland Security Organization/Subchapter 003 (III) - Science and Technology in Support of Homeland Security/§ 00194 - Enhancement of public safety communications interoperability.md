@@ -70,7 +70,7 @@ Not later than 120 days after December 17, 2004, the Secretary shall report to t
 
 #### (c) International interoperability
 
-Not later than 18 months after December 17, 2004, the President shall establish a mechanismfor coordinating cross-border interoperability issues between—
+Not later than 18 months after December 17, 2004, the President shall establish a mechanism for coordinating cross-border interoperability issues between—
 
 &emsp;(1) the United States and Canada; and
 
@@ -106,7 +106,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 #### (C) Notice to Secretary
 
-&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify the Secretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
+&emsp;&emsp;An applicant that is issued a letter of intent under this subsection shall notify theSecretary of the applicant's intent to carry out a project pursuant to the letter before the project begins.
 
 #### (D) Notice to Congress
 
@@ -148,7 +148,7 @@ In this section:
 
 #### (1) Interoperable communications
 
-&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, andvideo with one another on demand, in real time, as necessary.
+&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, and video with one another on demand, in real time, as necessary.
 
 #### (2) Emergency response providers
 
@@ -182,7 +182,7 @@ Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of sectio
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
-Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reform and Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
+Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reformand Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
 
 #### Amendments
 
@@ -248,7 +248,7 @@ International Negotiations To Remedy Situation.—Not later than 90 days after t
 
 #### Submission of Reports to Appropriate Congressional Committees
 
-Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that: “In addition to the committees specifically enumerated to receive reports under this title \[enacting provisions set out as note under this section, section 701 of this title, and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\], any report transmitted under the provisions of this title shall also be transmitted to the appropriate congressional committees (as defined in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2))).”
+Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that: “In addition to the committees specifically enumerated to receive reports under this title \[enacting provisions set out as note under this section, section 701 of this title, and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telecommunications\], any report transmitted under the provisions of this title shall also be transmitted to the appropriate congressional committees (as defined in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2))).”
 
 #### Regional Model Strategic Plan Pilot Projects
 

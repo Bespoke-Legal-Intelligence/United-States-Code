@@ -34,7 +34,7 @@ Swine contractor.—The term “swine contractor” means any person engaged in 
 
 &emsp;(13)
 
-Swine production contract.—The term “swine production contract” means anygrowout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
+Swine production contract.—The term “swine production contract” means any growout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
 
 &emsp;(14)
 
@@ -56,9 +56,9 @@ Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b
 
 #### Effective Date of 1987 Amendment
 
-Section 12 of Pub. L. 100–173 provided that: “This Act and the amendments made by this Act \[enacting sections 197 and 228b–1 to 228b–4 of this title, amending this section and sections 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 181 and 227 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 23, 1987\].”
+Pub. L. 100–173, §12, Nov. 23, 1987, 101 Stat. 923, provided that: “This Act and the amendments made by this Act \[enacting sections 197 and 228b–1 to 228b–4 of this title, amending this section and sections 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 181 and 227 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 23, 1987\].”
 
 #### Savings Provision
 
-Section 10 of Pub. L. 94–410 provided that: “Pending proceedings shall not be abated by reason of any provision of this Act \[enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191–193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title\], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended \[this chapter\], and the Act of July 12, 1943 \[section 204 of this title\], in effect immediately prior to the effective date of this Act \[Sept. 13, 1976\].”
+Pub. L. 94–410, §10, Sept. 13, 1976, 90 Stat. 1252, provided that: “Pending proceedings shall not be abated by reason of any provision of this Act \[enacting sections 196 and 228a to 228c of this title and amending this section and sections 183, 191 to 193, 201, 204, 207, 209, 210, 212, 213, 228, and 229 of this title\], but shall be disposed of pursuant to the provisions of the Packers and Stockyards Act, 1921, as amended \[this chapter\], and the Act of July 12, 1943 \[section 204 of this title\], in effect immediately prior to the effective date of this Act \[Sept. 13, 1976\].”
 

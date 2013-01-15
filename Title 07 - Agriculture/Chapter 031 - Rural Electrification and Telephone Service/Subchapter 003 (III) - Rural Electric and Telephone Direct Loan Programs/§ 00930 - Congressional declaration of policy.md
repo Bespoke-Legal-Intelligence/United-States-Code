@@ -12,9 +12,9 @@ Section was not enacted as part of the Rural Electrification Act of 1936 which c
 
 #### Effective Date
 
-Section 12 of Pub. L. 93–32 provided that: “This Act \[enacting sections 906a, 930, and 933 to 940 of this title, amending sections 903, 931, 932, 945, 946, 947, and 948 of this title, and enacting provisions set out as notes under this section\] shall take effect upon enactment \[May 11, 1973\].”
+Pub. L. 93–32, §12, May 14, 1973, 87 Stat. 71, provided that: “This Act \[enacting sections 906a, 930, and 933 to 940 of this title, amending sections 903, 931, 932, 945, 946, 947, and 948 of this title, and enacting provisions set out as notes under this section\] shall take effect upon enactment \[May 11, 1973\].”
 
 #### Reservation of Right To Repeal, Alter, or Amend Pub. L. 93–32
 
-Section 11 of Pub. L. 93–32 provided that: “The right to repeal, alter, or amend, this Act \[enacting sections 906a, 930, and 933 to 940 of this title, amending sections 903, 931, 932, 945, 946, 947, and 948 of this title, and enacting provisions set out as notes under this section\] is expressly reserved.”
+Pub. L. 93–32, §11, May 14, 1973, 87 Stat. 71, provided that: “The right to repeal, alter, or amend, this Act \[enacting sections 906a, 930, and 933 to 940 of this title, amending sections 903, 931, 932, 945, 946, 947, and 948 of this title, and enacting provisions set out as notes under this section\] is expressly reserved.”
 

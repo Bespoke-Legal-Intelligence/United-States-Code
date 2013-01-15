@@ -4,7 +4,7 @@
 
 (1) Upon the incorporation of the nonprofit corporation described in subsection (b) of this section, the Office of Self-Help Development and Technical Assistance is hereby abolished.
 
-(2)(A) If the nonprofit corporation described in subsection (b) of this section agrees to accept the liabilities of the Office, the Bank, notwithstanding any other provision of law, shall transfer all assets, liabilities, and property of the Office to such nonprofit corporation on the day onwhich such nonprofit corporation is incorporated.
+(2)(A) If the nonprofit corporation described in subsection (b) of this section agrees to accept the liabilities of the Office, the Bank, notwithstanding any other provision of law, shall transfer all assets, liabilities, and property of the Office to such nonprofit corporation on the day on which such nonprofit corporation is incorporated.
 
 (B) Such assets shall include all sums which are appropriated to the Office by the Congress and all sums which are contained in the Account established pursuant to section 3042 of this title. If any such sums are appropriated after the date on which the transfer described in subparagraph (A) occurs, the Bank shall promptly transfer such sums to such nonprofit corporation.
 
@@ -52,7 +52,7 @@
 
 (2) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization described in section 501(c)(3) of title 26, contributions made by the Bank pursuant to paragraph (1) shall be treated as charitable contributions within the meaning of section 170(c)(2) of title 26, and may be deducted notwithstanding the provisions of section 170(b)(2) of title 26.
 
-(3) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization described in section 501(c)(3) of title 26, contributions to such nonprofit corporation by any person shall qualify as charitable contributions, as defined in section 170(c) of title 26, for purposes of the charitable contribution deduction provided for in section 170(a) of title 26, and shall also qualify for the deductions for estate and gift tax purposes provided for in sections 2055 and 2522 of title 26.
+(3) During any period in which the nonprofit corporation described in subsection (b) of this section is qualified as an organization describedin section 501(c)(3) of title 26, contributions to such nonprofit corporation by any person shall qualify as charitable contributions, as defined in section 170(c) of title 26, for purposes of the charitable contribution deduction provided for in section 170(a) of title 26, and shall also qualify for the deductions for estate and gift tax purposes provided for in sections 2055 and 2522 of title 26.
 
 #### (e) Conflict of interest rules
 

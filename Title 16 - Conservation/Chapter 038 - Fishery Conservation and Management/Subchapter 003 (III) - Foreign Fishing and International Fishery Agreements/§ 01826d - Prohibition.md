@@ -6,11 +6,11 @@ The United States, or any agency or official acting on behalf of the United Stat
 
 #### Codification
 
-Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part ofthe Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Congressional Findings
 
-Section 602 of Pub. L. 104–43 provided that: “The Congress finds that—
+Pub. L. 104–43, title VI, §602, Nov. 3, 1995, 109 Stat. 391, provided that: “The Congress finds that—
 
 &emsp;“(1) Congress has enacted and the President has signed into law numerous Acts to control or prohibit large-scale driftnet fishing both within the jurisdiction of the United States and beyond the exclusive economic zone of any nation, including the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (title IV, Public Law 100–220) \[16 U.S.C. 1822 note\], the Driftnet Act Amendments of 1990 (Public Law 101–627) \[16 U.S.C. 1826\], and the High Seas Driftnet Fisheries Enforcement Act (title I, Public Law 102–582) \[see Short Title of 1992 Amendment note set out under section 1801 of this title\];
 

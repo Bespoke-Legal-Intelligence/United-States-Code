@@ -6,7 +6,7 @@
 
 #### (A) Conduct
 
-&emsp;&emsp;The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer that is a class II or class III device—
+&emsp;&emsp;The Secretary may by order, at the time of approval or clearance of a device or at anytime thereafter, require a manufacturer to conduct postmarket surveillance for any device of the manufacturer that is a class II or class III device—
 
 &emsp;&emsp;&emsp;(i) the failure of which would be reasonably likely to have serious adverse health consequences;
 
@@ -24,13 +24,13 @@
 
 #### (2) Rule of construction
 
-&emsp;The provisions of paragraph (1) shall have no effect on authorities otherwise provided underthe <sup>1</sup> chapter or regulations issued under this chapter.
+&emsp;The provisions of paragraph (1) shall have no effect on authorities otherwise provided under the <sup>1</sup> chapter or regulations issued under this chapter.
 
 #### (b) Surveillance approval
 
 #### (1) In general
 
-&emsp;Each manufacturer required to conduct a surveillance of a device shall, within 30 days of receiving an order from the Secretary prescribing that the manufacturer is required under this section to conduct such surveillance, submit, for the approval of the Secretary, a plan for the required surveillance. The Secretary, within 60 days of the receipt of such plan, shall determine if the person designated to conduct the surveillance has appropriate qualifications and experience to undertake such surveillance and if the plan will result in the collection of useful data that can reveal unforeseen adverse events or other information necessary to protect the public health. Except as provided in paragraph (2), the Secretary, in consultation with the manufacturer, may by order require a prospective surveillance period of up to 36 months. Except as provided in paragraph (2), any determination by the Secretary that a longer period is necessary shall be made by mutual agreement between the Secretary and the manufacturer or, if no agreement can be reached, after the completion of a dispute resolution process as described in section 360bbb–1 of this title.
+&emsp;Each manufacturer required to conduct a surveillance of a device shall, within 30 days of receiving an order from the Secretary prescribing that the manufacturer is required under this section to conduct such surveillance, submit, for the approval of the Secretary, a plan for the required surveillance. The Secretary, within 60 days of the receipt of such plan, shall determine if the person designated to conduct the surveillance has appropriate qualifications and experience to undertake such surveillance and if the plan will result in the collection of useful data that can reveal unforeseen adverse events or other information necessary to protect the public health. The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section. Except as provided in paragraph (2), the Secretary, in consultation with the manufacturer, may by order require a prospective surveillance period of up to 36 months. Except as provided in paragraph (2), any determination by the Secretary that a longer period is necessary shall be made by mutual agreement between the Secretary and the manufacturer or, if no agreement can be reached, after the completion of a dispute resolution process as described in section 360bbb–1 of this title.
 
 #### (2) Longer surveillance for pediatric devices
 
@@ -40,9 +40,13 @@
 
 A manufacturer may request review under section 360bbb–1 of this title of any order or condition requiring postmarket surveillance under this section. During the pendency of such review, the device subject to such a postmarket surveillance order or condition shall not, because of noncompliance with such order or condition, be deemed in violation of section 331(q)(1)(C) of this title, adulterated under section 351(f)(1) of this title, misbranded under section 352(t)(3) of this title, or in violation of, as applicable, section 360(k) of this title or section 360e of this title, unless deemed necessary to protect the public health.
 
-(June 25, 1938, ch. 675, §522, as added Pub. L. 101–629, §10, Nov. 28, 1990, 104 Stat. 4521; amended Pub. L. 102–300, §3(b), June 16, 1992, 106 Stat. 239; Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346; Pub. L. 110–85, title III, §307, Sept. 27, 2007, 121 Stat. 865.)
+(June 25, 1938, ch. 675, §522, as added Pub. L. 101–629, §10, Nov. 28, 1990, 104 Stat. 4521; amended Pub. L. 102–300, §3(b), June 16, 1992, 106 Stat. 239; Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346; Pub. L. 110–85, title III, §307, Sept. 27, 2007, 121 Stat. 865; Pub. L. 112–144, title VI, §616, July 9, 2012, 126 Stat. 1062.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–144, §616(1), inserted “, at the time of approval or clearance of a device or at any time thereafter,” after “by order” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 112–144, §616(2), inserted “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after “the public health.”
 
 <b>2007</b>—Pub. L. 110–85, §307(1), made technical amendment to section catchline.
 
@@ -62,7 +66,7 @@ Subsec. (c). Pub. L. 110–85, §307(3)(D), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Section 212 of Pub. L. 105–115 provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
+Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346, provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
 
 #### Study by Institute of Medicine of Postmarket Surveillance Regarding Pediatric Populations
 

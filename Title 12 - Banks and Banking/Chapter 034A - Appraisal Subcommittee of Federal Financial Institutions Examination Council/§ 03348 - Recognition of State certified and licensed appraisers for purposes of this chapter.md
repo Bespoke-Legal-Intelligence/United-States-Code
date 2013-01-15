@@ -8,7 +8,7 @@
 
 #### (2) Extension of effective date
 
-&emsp;Subject to the approval of the council, the Appraisal Subcommittee may extend, until December 31, 1991, the effective date for the use of certified or licensed appraisers if it makes a written finding that a State has made substantial progress in establishing a State certification and licensing system that appears to conform to the provisions of this chapter.
+&emsp;Subject to the approval of the Council, the Appraisal Subcommittee may extend, until December 31, 1991, the effective date for the use of certified or licensed appraisers if it makes a written finding that a State has made substantial progress in establishing a State certification and licensing system that appears to conform to the provisions of this chapter.
 
 #### (b) Temporary waiver of appraiser certification or licensing requirements for State having scarcity of qualified appraisers
 
@@ -20,11 +20,9 @@ The Appraisal Subcommittee, any other Federal agency or instrumentality, or any 
 
 (Pub. L. 101–73, title XI, §1119, Aug. 9, 1989, 103 Stat. 516; Pub. L. 102–233, title VII, §701(b), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(b), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(t)(1), July 21, 2010, 124 Stat. 2199.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(t)(1), July 21, 2010, 124 Stat. 2136, 2199, provided that subsection (a)(2) of this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by striking “council,” and inserting “Council,”. See Effective Date of 2010 Amendment note below.</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–203 substituted “Council,” for “council,”.
 
 <b>1992</b>—Subsecs. (a)(1), (b). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(b). See 1991 Amendment note below.
 

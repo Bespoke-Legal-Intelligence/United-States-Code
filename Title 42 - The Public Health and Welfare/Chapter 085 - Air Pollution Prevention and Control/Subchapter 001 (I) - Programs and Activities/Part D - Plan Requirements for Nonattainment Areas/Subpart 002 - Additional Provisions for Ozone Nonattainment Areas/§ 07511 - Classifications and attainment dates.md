@@ -36,7 +36,7 @@ TABLE 1
 
 #### (1) New designations to nonattainment
 
-&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequently redesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1 under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of this title, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
+&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequently redesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of this title, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
 
 #### (2) Reclassification upon failure to attain
 
@@ -52,7 +52,7 @@ TABLE 1
 
 #### (3) Voluntary reclassification
 
-&emsp;The Administrator shall grant the request of any State to reclassify a nonattainment areain that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
+&emsp;The Administrator shall grant the request of any State to reclassify a nonattainment area in that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
 
 #### (4) Failure of Severe Areas to attain standard
 
@@ -74,7 +74,7 @@ TABLE 1
 
 #### Exemptions for Stripper Wells
 
-Section 819 of Pub. L. 101–549 provided that: “Notwithstanding any other provision of law, the amendments to the Clean Air Act made by section 103 of the Clean Air Act Amendments of 1990 \[enacting this section and sections 7511a to 7511f of this title\] (relating to additional provisions for ozone nonattainment areas), by section 104 of such amendments \[enacting sections 7512 and 7512a of this title\] (relating to additional provisions for carbon monoxide nonattainment areas), by section 105 of such amendments \[enacting sections 7513 to 7513b of this title and amending section 7476 of this title\] (relating to additional provisions for PM–10 nonattainment areas), and by section 106 of such amendments \[enacting sections 7514 and 7514a of this title\] (relating to additional provisions for areas designated as nonattainment for sulfur oxides, nitrogen dioxide, and lead) shall not apply with respect to the production of and equipment used in the exploration, production, development, storage or processing of—
+Pub. L. 101–549, title VIII, §819, Nov. 15, 1990, 104 Stat. 2698, provided that: “Notwithstanding any other provision of law, the amendments to the Clean Air Act made by section 103 of the Clean Air Act Amendments of 1990 \[enacting this section and sections 7511a to 7511f of this title\] (relating to additional provisions for ozone nonattainment areas), by section 104 of such amendments \[enacting sections 7512 and 7512a of this title\] (relating to additional provisions for carbon monoxide nonattainment areas), by section 105 of such amendments \[enacting sections 7513 to 7513b of this title and amending section 7476 of this title\] (relating to additional provisions for PM–10 nonattainment areas), and by section 106 of such amendments \[enacting sections 7514 and 7514a of this title\] (relating to additional provisions for areas designated as nonattainment for sulfur oxides, nitrogen dioxide, and lead) shall not apply with respect to the production of and equipment used in the exploration, production, development, storage or processing of—
 
 &emsp;“(1) oil from a stripper well property, within the meaning of the June 1979 energy regulations (within the meaning of section 4996(b)(7) of the Internal Revenue Code of 1986 \[26 U.S.C. 4996(b)(7)\], as in effect before the repeal of such section); and
 

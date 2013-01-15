@@ -130,7 +130,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### (F) Limitation
 
-&emsp;&emsp;The process provided in this paragraph shall not apply to a determination by a prudential regulator to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831<i>o</i> of this title or section 1790a of this title, as applicable.
+&emsp;&emsp;The process provided in this paragraph shall not apply to a determination by a prudential regulator to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831o of this title or section 1790a of this title, as applicable.
 
 #### (G) Effect on other authority
 

@@ -52,5 +52,5 @@ Therefore, it is the purpose of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 101–41 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Puyallup Tribe of Indians Settlement Act of 1989’.”
+Pub. L. 101–41, §1, June 21, 1989, 103 Stat. 83, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Puyallup Tribe of Indians Settlement Act of 1989’.”
 

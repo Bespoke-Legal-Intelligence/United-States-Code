@@ -10,51 +10,51 @@ Apportionment.—The term “apportionment” includes unexpended apportionments
 
 &emsp;(2)
 
-Carpool project.—The term “carpool project” means any project to encourage the use of carpools and vanpools, including provision of carpooling opportunities to the elderly and individuals with disabilities, systems for locating potential riders and informing them of carpool opportunities, acquiring vehicles for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, and designating existing facilities for use for preferential parking for carpools.
+Asset management.—The term “asset management” means a strategic and systematic process of operating, maintaining, and improving physical assets, with a focus on both engineering and economic analysis based upon quality information, to identify a structured sequence of maintenance, preservation, repair, rehabilitation, and replacement actions that will achieve and sustain a desired state of good repair over the lifecycle of the assets at minimum practicable cost.
 
 &emsp;(3)
 
-Construction.—The term “construction” means the supervising, inspecting, actual building, and incurrence of all costs incidental to the construction or reconstruction of a highway, including bond costs and other costs relating to the issuance in accordance with section 122 of bonds or other debt financing instruments and costs incurred by the State in performing Federal-aid project related audits that directly benefit the Federal-aid highway program. Such term includes—
+Carpool project.—The term “carpool project” means any project to encourage the use of carpools and vanpools, including provision of carpooling opportunities to the elderly and individuals with disabilities, systems for locating potential riders and informing them of carpool opportunities, acquiring vehicles for carpool use, designating existing highway lanes as preferential carpool highway lanes, providing related traffic control devices, designating existing facilities for use for preferential parking for carpools, and real-time ridesharing projects, such as projects where drivers, using an electronic transfer of funds, recover costs directly associated with the trip provided through the use of location technology to quantify those direct costs, subject to the condition that the cost recovered does not exceed the cost of the trip provided.
 
-&emsp;&emsp;(A) locating, surveying, and mapping (including the establishment of temporary and permanent geodetic markers in accordance with specifications of the National Oceanic and Atmospheric Administration of the Department of Commerce);
+&emsp;(4)
 
-&emsp;&emsp;(B) resurfacing, restoration, and rehabilitation;
+Construction.—The term “construction” means the supervising, inspecting, actual building, and incurrence of all costs incidental to the construction or reconstruction of a highway or any project eligible for assistance under this title, including bond costs and other costs relating to the issuance in accordance with section 122 of bonds or other debt financing instruments and costs incurred by the State in performing Federal-aid project related audits that directly benefit the Federal-aid highway program. Such term includes—
+
+&emsp;&emsp;(A) preliminary engineering, engineering, and design-related services directly relating to the construction of a highway project, including engineering, design, project development and management, construction project management and inspection, surveying, mapping (including the establishment of temporary and permanent geodetic control in accordance with specifications of the National Oceanic and Atmospheric Administration), and architectural-related services;
+
+&emsp;&emsp;(B) reconstruction, resurfacing, restoration, rehabilitation, and preservation;
 
 &emsp;&emsp;(C) acquisition of rights-of-way;
 
 &emsp;&emsp;(D) relocation assistance, acquisition of replacement housing sites, and acquisition and rehabilitation, relocation, and construction of replacement housing;
 
-&emsp;&emsp;(E) elimination of hazards of railway grade crossings;
+&emsp;&emsp;(E) elimination of hazards of railway-highway grade crossings;
 
-&emsp;&emsp;(F) elimination of roadside obstacles;
+&emsp;&emsp;(F) elimination of roadside hazards;
 
 &emsp;&emsp;(G) improvements that directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and passenger loading and unloading areas; and
 
 &emsp;&emsp;(H) capital improvements that directly facilitate an effective vehicle weight enforcement program, such as scales (fixed and portable), scale pits, scale installation, and scale houses.
 
-&emsp;(4)
+&emsp;(5)
 
 County.—The term “county” includes corresponding units of government under any other name in States that do not have county organizations and, in those States in which the county government does not have jurisdiction over highways, any local government unit vested with jurisdiction over local highways.
 
-&emsp;(5)
-
-Federal-aid highway.—The term “Federal-aid highway” means a highway eligible for assistance under this chapter other than a highway classified as a local road or rural minor collector.
-
 &emsp;(6)
 
-Federal-aid system.—The term “Federal-aid system” means any of the Federal-aid highway systems described in section 103.
+Federal-aid highway.—The term “Federal-aid highway” means a public highway eligible for assistance under this chapter other than a highway functionally classified as a local road or rural minor collector.
 
 &emsp;(7)
 
-Federal lands highway.—The term “Federal lands highway” means a forest highway, public lands highway, park road, parkway, refuge road, and Indian reservation road that is a public road.
+Federal lands access transportation facility.—The term “Federal Lands access transportation facility” means a public highway, road, bridge, trail, or transit system that is located on, is adjacent to, or provides access to Federal lands for which title or maintenance responsibility is vested in a State, county, town, township, tribal, municipal, or local government.
 
 &emsp;(8)
 
-Forest development roads and trails.—The term “forest development roads and trails” means forest roads and trails under the jurisdiction of the Forest Service.
+Federal lands transportation facility.—The term “Federal lands transportation facility” means a public highway, road, bridge, trail, or transit system that is located on, is adjacent to, or provides access to Federal lands for which title and maintenance responsibility is vested in the Federal Government, and that appears on the national Federal lands transportation facility inventory described in section 203(c).
 
 &emsp;(9)
 
-Forest highway.—The term “forest highway” means a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel.
+Forest development roads and trails.—The term “forest development roads and trails” means forest roads and trails under the jurisdiction of the Forest Service.
 
 &emsp;(10)
 
@@ -66,35 +66,31 @@ Highway.—The term “highway” includes—
 
 &emsp;&emsp;(A) a road, street, and parkway;
 
-&emsp;&emsp;(B) a right-of-way, bridge, railroad-highway crossing, tunnel, drainage structure, sign, guardrail, and protective structure, in connection with a highway; and
+&emsp;&emsp;(B) a right-of-way, bridge, railroad-highway crossing, tunnel, drainage structure including public roads on dams, sign, guardrail, and protective structure, in connection with a highway; and
 
 &emsp;&emsp;(C) a portion of any interstate or international bridge or tunnel and the approaches thereto, the cost of which is assumed by a State transportation department, including such facilities as may be required by the United States Customs and Immigration Services in connection with the operation of an international bridge or tunnel.
 
 &emsp;(12)
 
-Indian reservation road.—The term “Indian reservation road” means a public road that is located within or provides access to an Indian reservation or Indian trust land or restricted Indian land that is not subject to fee title alienation without the approval of the Federal Government, or Indian and Alaska Native villages, groups, or communities in which Indians and Alaskan Natives reside, whom the Secretary of the Interior has determined are eligible for services generally available to Indians under Federal laws specifically applicable to Indians.
+Interstate System.—The term “Interstate System” means the Dwight D. Eisenhower National System of Interstate and Defense Highways described in section 103(c).
 
 &emsp;(13)
 
-Interstate System.—The term “Interstate System” means the Dwight D. Eisenhower National System of Interstate and Defense Highways described in section 103(c).
+Maintenance.—The term “maintenance” means the preservation of the entire highway, including surface, shoulders, roadsides, structures, and such traffic-control devices as are necessary for safe and efficient utilization of the highway.
 
 &emsp;(14)
 
-Maintenance.—The term “maintenance” means the preservation of the entire highway, including surface, shoulders, roadsides, structures, and such traffic-control devices as are necessary for safe and efficient utilization of the highway.
+Maintenance area.—The term “maintenance area” means an area that was designated as an air quality nonattainment area, but was later redesignated by the Administrator of the Environmental Protection Agency as an air quality attainment area, under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)).
 
 &emsp;(15)
 
-Maintenance area.—The term “maintenance area” means an area that was designated as a nonattainment area, but was later redesignated by the Administrator of the Environmental Protection Agency as an attainment area, under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)).
+National Highway System.—The term “National Highway System” means the Federal-aid highway system described in section 103(b).
 
 &emsp;(16)
 
-National Highway System.—The term “National Highway System” means the Federal-aid highway system described in section 103(b).
-
-&emsp;(17)
-
 Operating costs for traffic monitoring, management, and control.—The term “operating costs for traffic monitoring, management, and control” includes labor costs, administrative costs, costs of utilities and rent, and other costs associated with the continuous operation of traffic control, such as integrated traffic control systems, incident management programs, and traffic control centers.
 
-&emsp;(18)
+&emsp;(17)
 
 Operational improvement.—The term “operational improvement”—
 
@@ -102,129 +98,109 @@ Operational improvement.—The term “operational improvement”—
 
 &emsp;&emsp;(B) does not include resurfacing, restoring, or rehabilitating improvements, construction of additional lanes, interchanges, and grade separations, and construction of a new facility on a new location.
 
+&emsp;(18)
+
+Project.—The term “project” means any undertaking eligible for assistance under this title.
+
 &emsp;(19)
 
-Park road.—The term “park road” means a public road, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles, that is located within, or provides access to, an area in the National Park System with title and maintenance responsibilities vested in the United States.
+Project agreement.—The term “project agreement” means the formal instrument to be executed by the Secretary and the recipient as required by section 106.
 
 &emsp;(20)
 
-Parkway.—The term “parkway”, as used in chapter 2 of this title, means a parkway authorized by Act of Congress on lands to which title is vested in the United States.
+Public authority.—The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
 
 &emsp;(21)
 
-Project.—The term “project” means an undertaking to construct a particular portion of a highway, or if the context so implies, the particular portion of a highway so constructed or any other undertaking eligible for assistance under this title.
+Public road.—The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
 
 &emsp;(22)
 
-Project agreement.—The term “project agreement” means the formal instrument to be executed by the State transportation department and the Secretary as required by section 106.
+Rural areas.—The term “rural areas” means all areas of a State not included in urban areas.
 
 &emsp;(23)
 
-Public authority.—The term “public authority” means a Federal, State, county, town, or township, Indian tribe, municipal or other local government or instrumentality with authority to finance, build, operate, or maintain toll or toll-free facilities.
+Safety improvement project.—The term “safety improvement project” means a strategy, activity, or project on a public road that is consistent with the State strategic highway safety plan and corrects or improves a roadway feature that constitutes a hazard to road users or addresses a highway safety problem.
 
 &emsp;(24)
 
-Public lands development roads and trails.—The term “public lands development roads and trails” means those roads and trails that the Secretary of the Interior determines are of primary importance for the development, protection, administration, and utilization of public lands and resources under the control of the Secretary of the Interior.
+Secretary.—The term “Secretary” means Secretary of Transportation.
 
 &emsp;(25)
 
-Public lands highway.—The term “public lands highway” means a forest road under the jurisdiction of and maintained by a public authority and open to public travel or any highway through unappropriated or unreserved public lands, nontaxable Indian lands, or other Federal reservations under the jurisdiction of and maintained by a public authority and open to public travel.
+State.—The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
 
 &emsp;(26)
 
-Public lands highways.—The term “public lands highways” means those main highways through unappropriated or unreserved public lands, nontaxable Indian lands, or other Federal reservations, which are on the Federal-aid systems.
+State funds.—The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
 
 &emsp;(27)
 
-Public road.—The term “public road” means any road or street under the jurisdiction of and maintained by a public authority and open to public travel.
+State strategic highway safety plan.—The term “State strategic highway safety plan” has the same meaning given such term in section 148(a).
 
 &emsp;(28)
 
-Refuge road.—The term “refuge road” means a public road that provides access to or within a unit of the National Wildlife Refuge System and for which title and maintenance responsibility is vested in the United States Government.
+State transportation department.—The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
 
 &emsp;(29)
 
-Rural areas.—The term “rural areas” means all areas of a State not included in urban areas.
+Transportation alternatives.—The term “transportation alternatives” means any of the following activities when carried out as part of any program or project authorized or funded under this title, or as an independent program or project related to surface transportation:
+
+&emsp;&emsp;(A) Construction, planning, and design of on-road and off-road trail facilities for pedestrians, bicyclists, and other nonmotorized forms of transportation, including sidewalks, bicycle infrastructure, pedestrian and bicycle signals, traffic calming techniques, lighting and other safety-related infrastructure, and transportation projects to achieve compliance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+
+&emsp;&emsp;(B) Construction, planning, and design of infrastructure-related projects and systems that will provide safe routes for non-drivers, including children, older adults, and individuals with disabilities to access daily needs.
+
+&emsp;&emsp;(C) Conversion and use of abandoned railroad corridors for trails for pedestrians, bicyclists, or other nonmotorized transportation users.
+
+&emsp;&emsp;(D) Construction of turnouts, overlooks, and viewing areas.
+
+&emsp;&emsp;(E) Community improvement activities, including—
+
+&emsp;&emsp;&emsp;(i) inventory, control, or removal of outdoor advertising;
+
+&emsp;&emsp;&emsp;(ii) historic preservation and rehabilitation of historic transportation facilities;
+
+&emsp;&emsp;&emsp;(iii) vegetation management practices in transportation rights-of-way to improve roadway safety, prevent against invasive species, and provide erosion control; and
+
+&emsp;&emsp;&emsp;(iv) archaeological activities relating to impacts from implementation of a transportation project eligible under this title.
+
+&emsp;&emsp;(F) Any environmental mitigation activity, including pollution prevention and pollution abatement activities and mitigation to—
+
+&emsp;&emsp;&emsp;(i) address stormwater management, control, and water pollution prevention or abatement related to highway construction or due to highway runoff, including activities described in sections 133(b)(11), 328(a), and 329; or
+
+&emsp;&emsp;&emsp;(ii) reduce vehicle-caused wildlife mortality or to restore and maintain connectivity among terrestrial or aquatic habitats.
 
 &emsp;(30)
-
-Safety improvement project.—The term “safety improvement project” means a project that corrects or improves high hazard locations, eliminates roadside obstacles, improves highway signing and pavement marking, installs priority control systems for emergency vehicles at signalized intersections, installs or replaces emergency motorist aid call boxes, or installs traffic control or warning devices at locations with high accident potential.
-
-&emsp;(31)
-
-Secretary.—The term “Secretary” means Secretary of Transportation.
-
-&emsp;(32)
-
-State.—The term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
-
-&emsp;(33)
-
-State funds.—The term “State funds” includes funds raised under the authority of the State or any political or other subdivision thereof, and made available for expenditure under the direct control of the State transportation department.
-
-&emsp;(34)
-
-State transportation department.—The term “State transportation department” means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction.
-
-&emsp;(35)
-
-Transportation enhancement activity.—The term “transportation enhancement activity” means, with respect to any project or the area to be served by the project, any of the following activities as the activities relate to surface transportation:
-
-&emsp;&emsp;(A) Provision of facilities for pedestrians and bicycles.
-
-&emsp;&emsp;(B) Provision of safety and educational activities for pedestrians and bicyclists.
-
-&emsp;&emsp;(C) Acquisition of scenic easements and scenic or historic sites (including historic battlefields).
-
-&emsp;&emsp;(D) Scenic or historic highway programs (including the provision of tourist and welcome center facilities).
-
-&emsp;&emsp;(E) Landscaping and other scenic beautification.
-
-&emsp;&emsp;(F) Historic preservation.
-
-&emsp;&emsp;(G) Rehabilitation and operation of historic transportation buildings, structures, or facilities (including historic railroad facilities and canals).
-
-&emsp;&emsp;(H) Preservation of abandoned railway corridors (including the conversion and use of the corridors for pedestrian or bicycle trails).
-
-&emsp;&emsp;(I) Inventory, control, and removal of outdoor advertising.
-
-&emsp;&emsp;(J) Archaeological planning and research.
-
-&emsp;&emsp;(K) Environmental mitigation—
-
-&emsp;&emsp;&emsp;(i) to address water pollution due to highway runoff; or
-
-&emsp;&emsp;&emsp;(ii) <sup>1</sup> reduce vehicle-caused wildlife mortality while maintaining habitat connectivity.
-
-&emsp;&emsp;(L) Establishment of transportation museums.
-
-&emsp;(36)
-
-Urban area.—The term “urban area” means an urbanized area or, in the case of an urbanized area encompassing more than one State, that part of the urbanized area in each such State, or urban place as designated by the Bureau of the Census having a population of 5,000 or more and not within any urbanized area, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urban place designated by the Bureau of the Census, except in the case of cities in the State of Maine and in the State of New Hampshire.
-
-&emsp;(37)
-
-Urbanized area.—The term “urbanized area” means an area with a population of 50,000 or more designated by the Bureau of the Census, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urbanized area within a State as designated by the Bureau of the Census.
-
-&emsp;(38)
-
-Advanced truck stop electrification system.—The term “advanced truck stop electrification system” means a system that delivers heat, air conditioning, electricity, or communications to a heavy duty vehicle.
-
-&emsp;(39)
 
 Transportation systems management and operations.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “transportation systems management and operations” means an integrated program to optimize the performance of existing infrastructure through the implementation of multimodal and intermodal, cross-jurisdictional systems, services, and projects designed to preserve capacity and improve security, safety, and reliability of the transportation system.
+In general.—The term “transportation systems management and operations” means integrated strategies to optimize the performance of existing infrastructure through the implementation of multimodal and intermodal, cross-jurisdictional systems, services, and projects designed to preserve capacity and improve security, safety, and reliability of the transportation system.
 
 &emsp;&emsp;(B)
 
 Inclusions.—The term “transportation systems management and operations” includes—
 
-&emsp;&emsp;&emsp;(i) regional operations collaboration and coordination activities between transportation and public safety agencies; and
+&emsp;&emsp;&emsp;(i) actions such as traffic detection and surveillance, corridor management, freeway management, arterial management, active transportation and demand management, work zone management, emergency management, traveler information services, congestion pricing, parking management, automated enforcement, traffic control, commercial vehicle operations, freight management, and coordination of highway, rail, transit, bicycle, and pedestrian operations; and
 
-&emsp;&emsp;&emsp;(ii) improvements to the transportation system, such as traffic detection and surveillance, arterial management, freeway management, demand management, work zone management, emergency management, electronic toll collection, automated enforcement, traffic incident management, roadway weather management, traveler information services, commercial vehicle operations, traffic control, freight management, and coordination of highway, rail, transit, bicycle, and pedestrian operations.
+&emsp;&emsp;&emsp;(ii) coordination of the implementation of regional transportation system management and operations investments (such as traffic incident management, traveler information services, emergency management, roadway weather management, intelligent transportation systems, communication networks, and information sharing systems) requiring agreements, integration, and interoperability to achieve targeted system performance, reliability, safety, and customer service levels.
+
+&emsp;(31)
+
+Tribal transportation facility.—The term “tribal transportation facility” means a public highway, road, bridge, trail, or transit system that is located on or provides access to tribal land and appears on the national tribal transportation facility inventory described in section 202(b)(1).
+
+&emsp;(32)
+
+Truck stop electrification system.—The term “truck stop electrification system” means a system that delivers heat, air conditioning, electricity, or communications to a heavy-duty vehicle.
+
+&emsp;(33)
+
+Urban area.—The term “urban area” means an urbanized area or, in the case of an urbanized area encompassing more than one State, that part of the urbanized area in each such State, or urban place as designated by the Bureau of the Census having a population of 5,000 or more and not within any urbanized area, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urban place designated by the Bureau of the Census, except in the case of cities in the State of Maine and in the State of New Hampshire.
+
+&emsp;(34)
+
+Urbanized area.—The term “urbanized area” means an area with a population of 50,000 or more designated by the Bureau of the Census, within boundaries to be fixed by responsible State and local officials in cooperation with each other, subject to approval by the Secretary. Such boundaries shall encompass, at a minimum, the entire urbanized area within a State as designated by the Bureau of the Census.
 
 (b)
 
@@ -232,7 +208,7 @@ Declaration of Policy.—
 
 &emsp;(1)
 
-Acceleration of construction of federal-aid highway systems.—Congress declares that it is in the national interest to accelerate the construction of Federal-aid highway systems, including the Dwight D. Eisenhower National System of Interstate and Defense,<sup>2</sup> because many of the highways (or portions of the highways) are inadequate to meet the needs of local and interstate commerce for the national and civil defense.
+Acceleration of construction of federal-aid highway systems.—Congress declares that it is in the national interest to accelerate the construction of Federal-aid highway systems, including the Dwight D. Eisenhower National System of Interstate and Defense,<sup>1</sup> because many of the highways (or portions of the highways) are inadequate to meet the needs of local and interstate commerce for the national and civil defense.
 
 &emsp;(2)
 
@@ -264,19 +240,117 @@ Transportation needs of 21st century.—Congress declares that—
 
 &emsp;&emsp;(H) the Secretary should take appropriate actions to preserve and enhance the Interstate System to meet the needs of the 21st Century.
 
-(c) It is the sense of Congress that under existing law no part of any sums authorized to be appropriated for expenditure upon any Federal-aid system which has been apportioned pursuant to the provisions of this title shall be impounded or withheld from obligation, for purposes and projects as provided in this title, by any officer or employee in the executive branch of the Federal Government, except such specific sums as may be determined by the Secretary of the Treasury, after consultation with the Secretary of Transportation, are necessary to be withheld from obligation for specific periods of time to assure that sufficient amounts will be available in the Highway Trust Fund to defray the expenditures which will be required to be made from such fund.
+&emsp;(4)
+
+Expedited project delivery.—
+
+&emsp;&emsp;(A)
+
+In general.—Congress declares that it is in the national interest to expedite the delivery of surface transportation projects by substantially reducing the average length of the environmental review process.
+
+&emsp;&emsp;(B)
+
+Policy of the united states.—Accordingly, it is the policy of the United States that—
+
+&emsp;&emsp;&emsp;(i) the Secretary shall have the lead role among Federal agencies in carrying out the environmental review process for surface transportation projects;
+
+&emsp;&emsp;&emsp;(ii) each Federal agency shall cooperate with the Secretary to expedite the environmental review process for surface transportation projects;
+
+&emsp;&emsp;&emsp;(iii) project sponsors shall not be prohibited from carrying out preconstruction project development activities concurrently with the environmental review process;
+
+&emsp;&emsp;&emsp;(iv) programmatic approaches shall be used to reduce the need for project-by-project reviews and decisions by Federal agencies; and
+
+&emsp;&emsp;&emsp;(v) the Secretary shall identify opportunities for project sponsors to assume responsibilities of the Secretary where such responsibilities can be assumed in a manner that protects public health, the environment, and public participation.
+
+(c) It is the sense of Congress that under existing law no part of any sums authorized to be appropriated for expenditure upon any Federal-aid highway which has been apportioned pursuant to the provisions of this title shall be impounded or withheld from obligation, for purposes and projects as provided in this title, by any officer or employee in the executive branch of the Federal Government, except such specific sums as may be determined by the Secretary of the Treasury, after consultation with the Secretary of Transportation, are necessary to be withheld from obligation for specific periods of time to assure that sufficient amounts will be available in the Highway Trust Fund to defray the expenditures which will be required to be made from such fund.
 
 (d) No funds authorized to be appropriated from the Highway Trust Fund shall be expended by or on behalf of any Federal department, agency, or instrumentality other than the Federal Highway Administration unless funds for such expenditure are identified and included as a line item in an appropriation Act and are to meet obligations of the United States heretofore or hereafter incurred under this title attributable to the construction of Federal-aid highways or highway planning, research, or development, or as otherwise specifically authorized to be appropriated from the Highway Trust Fund by Federal-aid highway legislation.
 
 (e) It is the national policy that to the maximum extent possible the procedures to be utilized by the Secretary and all other affected heads of Federal departments, agencies, and instrumentalities for carrying out this title and any other provision of law relating to the Federal highway programs shall encourage the substantial minimization of paperwork and interagency decision procedures and the best use of available manpower and funds so as to prevent needless duplication and unnecessary delays at all levels of government.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 885; Pub. L. 86–70, §21(e)(1), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §17(a), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §6(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 88–423, §3, Aug. 13, 1964, 78 Stat. 397; Pub. L. 89–574, §4(a), Sept. 13, 1966, 80 Stat. 767; Pub. L. 90–495, §§4(a), 8, 15, Aug. 23, 1968, 82 Stat. 816, 819, 822; Pub. L. 91–605, title I, §§104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, 84 Stat. 1714, 1716, 1718, 1724, 1732, 1737; Pub. L. 93–87, title I, §§105, 106(a), 107, 108, 152(1), Aug. 13, 1973, 87 Stat. 253–255, 276; Pub. L. 93–643, §102(b), Jan. 4, 1975, 88 Stat. 2281; Pub. L. 94–280, title I, §§107(a), 108, May 5, 1976, 90 Stat. 430, 431; Pub. L. 95–599, title I, §106, Nov. 6, 1978, 92 Stat. 2693; Pub. L. 97–424, title I, §§126(c), 159, Jan. 6, 1983, 96 Stat. 2115, 2135; Pub. L. 100–17, title I, §§102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, 101 Stat. 135, 146, 171; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §§1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, 105 Stat. 1916, 1922, 1927, 1931; Pub. L. 104–59, title III, §§301(b), 311(b), Nov. 28, 1995, 109 Stat. 578, 583; Pub. L. 105–178, title I, §1201, June 9, 1998, 112 Stat. 164; Pub. L. 109–59, title I, §§1122, 1909(a), Aug. 10, 2005, 119 Stat. 1196, 1470; Pub. L. 110–244, title I, §101(h), June 6, 2008, 122 Stat. 1574.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 885; Pub. L. 86–70, §21(e)(1), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §17(a), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §6(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 88–423, §3, Aug. 13, 1964, 78 Stat. 397; Pub. L. 89–574, §4(a), Sept. 13, 1966, 80 Stat. 767; Pub. L. 90–495, §§4(a), 8, 15, Aug. 23, 1968, 82 Stat. 816, 819, 822; Pub. L. 91–605, title I, §§104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, 84 Stat. 1714, 1716, 1718, 1724, 1732, 1737; Pub. L. 93–87, title I, §§105, 106(a), 107, 108, 152(1), Aug. 13, 1973, 87 Stat. 253–255, 276; Pub. L. 93–643, §102(b), Jan. 4, 1975, 88 Stat. 2281; Pub. L. 94–280, title I, §§107(a), 108, May 5, 1976, 90 Stat. 430, 431; Pub. L. 95–599, title I, §106, Nov. 6, 1978, 92 Stat. 2693; Pub. L. 97–424, title I, §§126(c), 159, Jan. 6, 1983, 96 Stat. 2115, 2135; Pub. L. 100–17, title I, §§102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, 101 Stat. 135, 146, 171; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §§1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, 105 Stat. 1916, 1922, 1927, 1931; Pub. L. 104–59, title III, §§301(b), 311(b), Nov. 28, 1995, 109 Stat. 578, 583; Pub. L. 105–178, title I, §1201, June 9, 1998, 112 Stat. 164; Pub. L. 109–59, title I, §§1122, 1909(a), Aug. 10, 2005, 119 Stat. 1196, 1470; Pub. L. 110–244, title I, §101(h), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §§1103, 1301(c), 1501, July 6, 2012, 126 Stat. 419, 528, 560.)
 
 #### References in Text
+
+The Americans with Disabilities Act of 1990, referred to in subsec. subsec. (a)(29)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), referred to in subsec. (b)(2), is section 108(b) of act June 29, 1956, ch. 462, 70 Stat. 378, which is set out below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–141, §1103(a)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 112–141, §§1103(a)(2), 1501, redesignated par. (2) as (3) and substituted “designating existing facilities for use for preferential parking for carpools, and real-time ridesharing projects, such as projects where drivers, using an electronic transfer of funds, recover costs directly associated with the trip provided through the use of location technology to quantify those direct costs, subject to the condition that the cost recovered does not exceed the cost of the trip provided” for “and designating existing facilities for use for preferential parking for carpools”. Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 112–141, §1103(a)(2), (4)(A), redesignated par. (3) as (4) and inserted “or any project eligible for assistance under this title” after “reconstruction of a highway” in introductory provisions. Former par. (4) redesignated (5).
+
+Subsec. (a)(4)(A). Pub. L. 112–141, §1103(a)(4)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “locating, surveying, and mapping (including the establishment of temporary and permanent geodetic markers in accordance with specifications of the National Oceanic and Atmospheric Administration of the Department of Commerce);”.
+
+Subsec. (a)(4)(B). Pub. L. 112–141, §1103(a)(4)(C), inserted “reconstruction,” before “resurfacing,” and substituted “rehabilitation, and preservation” for “and rehabilitation”.
+
+Subsec. (a)(4)(E). Pub. L. 112–141, §1103(a)(4)(D), substituted “railway-highway” for “railway”.
+
+Subsec. (a)(4)(F). Pub. L. 112–141, §1103(a)(4)(E), substituted “hazards” for “obstacles”.
+
+Subsec. (a)(5). Pub. L. 112–141, §1103(a)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 112–141, §1103(a)(2), (5), redesignated par. (5) as (6) and inserted “public” before “highway eligible” and “functionally” before “classified”.
+
+Pub. L. 112–141, §1103(a)(1), struck out par. (6). Text read as follows: “The term ‘Federal-aid system’ means any of the Federal-aid highway systems described in section 103.”
+
+Subsec. (a)(7). Pub. L. 112–141, §1103(a)(1), (6), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Federal lands highway’ means a forest highway, public lands highway, park road, parkway, refuge road, and Indian reservation road that is a public road.”
+
+Subsec. (a)(8). Pub. L. 112–141, §1103(a)(6), added par. (8). Former par. (8) redesignated (9).
+
+Subsec. (a)(9). Pub. L. 112–141, §1103(a)(1), (2), redesignated par. (8) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The term ‘forest highway’ means a forest road under the jurisdiction of, and maintained by, a public authority and open to public travel.”
+
+Subsec. (a)(11)(B). Pub. L. 112–141, §1103(a)(7), inserted “including public roads on dams” after “drainage structure”.
+
+Subsec. (a)(12). Pub. L. 112–141, §1103(a)(1), (2), redesignated par. (13) as (12) and struck out former par. (12) which defined Indian reservation road.
+
+Subsec. (a)(13). Pub. L. 112–141, §1103(a)(2), redesignated par. (14) as (13). Former par. (13) redesignated (12).
+
+Subsec. (a)(14). Pub. L. 112–141, §1103(a)(2), (8), redesignated par. (15) as (14), substituted “as an air quality” for “as a”, and inserted “air quality” before “attainment area”. Former par. (14) redesignated (13).
+
+Subsec. (a)(15) to (17). Pub. L. 112–141, §1103(a)(2), redesignated pars. (16) to (18) as (15) to (17), respectively. Former par. (15) redesignated (14).
+
+Subsec. (a)(18). Pub. L. 112–141, §1103(a)(2), (9), redesignated par. (21) as (18) and substituted “any undertaking” for “an undertaking to construct a particular portion of a highway, or if the context so implies, the particular portion of a highway so constructed or any other undertaking”. Former par. (18) redesignated (17).
+
+Subsec. (a)(19). Pub. L. 112–141, §1103(a)(2), (10), redesignated par. (22) as (19) and substituted “the Secretary and the recipient” for “the State transportation department and the Secretary”.
+
+Pub. L. 112–141, §1103(a)(1), struck out par. (19). Text read as follows: “The term ‘park road’ means a public road, including a bridge built primarily for pedestrian use, but with capacity for use by emergency vehicles, that is located within, or provides access to, an area in the National Park System with title and maintenance responsibilities vested in the United States.”
+
+Subsec. (a)(20). Pub. L. 112–141, §1103(a)(1), (2), redesignated par. (23) as (20) and struck out former par. (20). Prior to amendment, text of par. (20) read as follows: “The term ‘parkway’, as used in chapter 2 of this title, means a parkway authorized by Act of Congress on lands to which title is vested in the United States.”
+
+Subsec. (a)(21). Pub. L. 112–141, §1103(a)(2), redesignated par. (27) as (21). Former par. (21) redesignated (18).
+
+Subsec. (a)(22). Pub. L. 112–141, §1103(a)(2), redesignated par. (29) as (22). Former par. (22) redesignated (19).
+
+Subsec. (a)(23). Pub. L. 112–141, §1103(a)(11), added par. (23) and struck out former par. (23). Prior to amendment, text read as follows: “The term ‘safety improvement project’ means a project that corrects or improves high hazard locations, eliminates roadside obstacles, improves highway signing and pavement marking, installs priority control systems for emergency vehicles at signalized intersections, installs or replaces emergency motorist aid call boxes, or installs traffic control or warning devices at locations with high accident potential.”
+
+Pub. L. 112–141, §1103(a)(2), redesignated par. (30) as (23). Former par. (23) redesignated (20).
+
+Subsec. (a)(24). Pub. L. 112–141, §1103(a)(1), (2), redesignated par. (31) as (24) and struck out former par. (24). Prior to amendment, text of par. (24) read as follows: “The term ‘public lands development roads and trails’ means those roads and trails that the Secretary of the Interior determines are of primary importance for the development, protection, administration, and utilization of public lands and resources under the control of the Secretary of the Interior.”
+
+Subsec. (a)(25), (26). Pub. L. 112–141, §1103(a)(1), (2), redesignated pars. (32) and (33) as (25) and (26), respectively, and struck out former pars. (25) and (26) which defined public lands highway and public lands highways, respectively.
+
+Subsec. (a)(27). Pub. L. 112–141, §1103(a)(12), added par. (27). Former par. (27) redesignated (21).
+
+Subsec. (a)(28). Pub. L. 112–141, §1103(a)(1), (2), redesignated par. (34) as (28) and struck out former par. (28). Prior to amendment, text of par. (28) read as follows: “The term ‘refuge road’ means a public road that provides access to or within a unit of the National Wildlife Refuge System and for which title and maintenance responsibility is vested in the United States Government.”
+
+Subsec. (a)(29). Pub. L. 112–141, §1103(a)(13), added par. (29) and struck out former par. (29) which defined transportation enhancement activity.
+
+Pub. L. 112–141, §1103(a)(2), redesignated par. (35) as (29). Former par. (29) redesignated (22).
+
+Subsec. (a)(30) to (32). Pub. L. 112–141, §1103(a)(2), (14), added pars. (30) to (32) and redesignated former pars. (30) to (32) as (23) to (25), respectively.
+
+Subsec. (a)(33) to (37). Pub. L. 112–141, §1103(a)(2), redesignated pars. (33) to (37) as (26), (28), (29), (33), and (34), respectively.
+
+Subsec. (a)(38), (39). Pub. L. 112–141, §1103(a)(1), struck out pars. (38) and (39) which defined advanced truck stop electrification system and transportation systems management and operations, respectively.
+
+Subsec. (b)(4). Pub. L. 112–141, §1301(c), added par. (4).
+
+Subsec. (c). Pub. L. 112–141, §1103(b), substituted “Federal-aid highway” for “Federal-aid system”.
 
 <b>2008</b>—Subsec. (a)(39). Pub. L. 110–244 added par. (39).
 
@@ -284,7 +358,7 @@ Section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), referred t
 
 Subsec. (a)(38). Pub. L. 109–59, §1122(b), added par. (38).
 
-Subsec. (b). Pub. L. 109–59, §1909(a), inserted subsec. heading, substituted heading and text of par. (1) for first undesignated par. relating to declaration that it was in the national interest to accelerate the construction of the Federal-aid highway systems, designated second undesignated par. as par. (2), inserted heading, and substituted “Congress declares that the prompt and early completion of the Dwight D. Eisenhower National System of Interstate and Defense Highways (referred to in this section as the ‘Interstate System’), so named because of its primary importance to the national defense, is essential to the national interest” for “It is hereby declared that the prompt and early completion of The Dwight D. Eisenhower System of Interstate and Defense Highways, so named because of its primary importance to the national defense and hereafter referred to as the ‘Interstate System’, is essential to the national interest and is one of the most important objectives of this Act”, and substituted heading and text of par. (3) for third undesignated par. relating to the national policy that increased emphasis beplaced on the construction and reconstruction of the other Federal-aid systems.
+Subsec. (b). Pub. L. 109–59, §1909(a), inserted subsec. heading, substituted heading and text of par. (1) for first undesignated par. relating to declaration that it was in the national interest to accelerate the construction of the Federal-aid highway systems, designated second undesignated par. as par. (2), inserted heading, and substituted “Congress declares that the prompt and early completion of the Dwight D. Eisenhower National System of Interstate and Defense Highways (referred to in this section as the ‘Interstate System’), so named because of its primary importance to the national defense, is essential to the national interest” for “It is hereby declared that the prompt and early completion of The Dwight D. Eisenhower System of Interstate and Defense Highways, so named because of its primary importance to the national defense and hereafter referred to as the ‘Interstate System’, is essential to the national interest and is one of the most important objectives of this Act”, and substituted heading and text of par. (3) for third undesignated par. relating to the national policy that increased emphasis be placed on the construction and reconstruction of the other Federal-aid systems.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178 inserted heading and amended text of subsec. (a) generally, alphabetizing, numbering, and inserting headings for terms defined, inserting definitions of “maintenance area” and “refuge road”, and substituting definition of “State transportation department” for definition of “State highway department”.
 
@@ -314,7 +388,7 @@ Pub. L. 102–240, §1005(d)(1), (2), struck out provisions defining “Federal-
 
 Pub. L. 102–240, §1005(e), in definition of “Interstate System”, inserted “Dwight D. Eisenhower” before “National”.
 
-Pub. L. 102–240, §1005(g), inserted provisions defining “start-up costs for traffic management and control”, “carpool project”, “public authority” and “public lands highway”.
+Pub. L. 102–240, §1005(g), inserted provisions defining “start-up costs for traffic management and control”,“carpool project”, “public authority” and “public lands highway”.
 
 Pub. L. 102–240, §1005(f), inserted provision defining “operational improvement”.
 
@@ -354,7 +428,7 @@ Pub. L. 95–599, §106(b)(4), inserted definition of “highway safety improvem
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–280, §108, defined “construction” to include resurfacing, restoration, and rehabilitation and “urban area” to exclude cities in the States of Maine and New Hampshire and inserted definition of “public road”.
 
-Subsec. (b). Pub. L. 94–280, §107(a), substituted provision for completion of the Interstate System over a thirty-four year period, through the fiscal year endingSeptember 30, 1990, for a prior provision for such completion over a twenty-three period, through the fiscal year ending June 30, 1979.
+Subsec. (b). Pub. L. 94–280, §107(a), substituted provision for completion of the Interstate System over a thirty-four year period, through the fiscal year ending September 30, 1990, for a prior provision for such completion over a twenty-three period, through the fiscal year ending June 30, 1979.
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–643 defined “Indian reservation roads and bridges” to include roads and bridges on the Federal-aid systems.
 
@@ -372,7 +446,7 @@ Subsec. (b). Pub. L. 93–87, §§106(a), 107, extended time for completion of t
 
 Subsec. (e). Pub. L. 93–87, §108, added subsec. (e).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–605, §§106(a), 117(d), 130, 141, inserted definitions of “urbanized area” and “Federal-aid urban system”, substituted “subsection (e)” for “subsection (d)” in definition of “Interstate System”, included within the costs of construction, under the definition of “construction”, relocation assistance, acquisition of replacement housing sites, acquisition, and rehabilitation, relocation, and construction of replacement housing, and substituted “acquisition” for “costs” of rights-of-way, broadened definition of “Indian reservation roads and bridges” to include roads and bridges on State controlled Indian reservations, trust lands, and restricted Indian lands, a well as roads and bridges on such lands under Federal control, and inserted in definitions of “forest highway” and “public lands highways” provisions to ensure that these highways be on the Federal-aid systems.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605, §§106(a), 117(d), 130, 141, inserted definitions of “urbanized area” and “Federal-aid urban system”, substituted “subsection (e)” for “subsection (d)” in definition of “Interstate System”, included within the costs of construction, under the definition of “construction”, relocation assistance, acquisition of replacement housing sites, acquisition,and rehabilitation, relocation, and construction of replacement housing, and substituted “acquisition” for “costs” of rights-of-way, broadened definition of “Indian reservation roads and bridges” to include roads and bridges on State controlled Indian reservations, trust lands, and restricted Indian lands, a well as roads and bridges on such lands under Federal control, and inserted in definitions of “forest highway” and “public lands highways” provisions to ensure that these highways be on the Federal-aid systems.
 
 Subsec. (b). Pub. L. 91–605, §104(a), substituted “twenty years” for “eighteen years” and “June 30, 1976” for “June 30, 1974”.
 
@@ -396,6 +470,20 @@ Subsecs. (c), (d). Pub. L. 90–495, §15, added subsecs. (c) and (d).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–70 substituted “forty-nine States, the District of Columbia, Hawaii” for “forty-eight States, the District of Columbia, Hawaii, Alaska” in definition of “State”.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Pub. L. 112–141, §3(a), July 6, 2012, 126 Stat. 413, provided that: “Except as otherwise provided, divisions A, B, C (other than sections 32603(d), 32603(g), 32912, and 34002 of that division) and E \[see Tables for classification\], including the amendments made by those divisions, take effect on October 1, 2012.”
+
+Pub. L. 112–141, §3(b), July 6, 2012, 126 Stat. 413, provided that: “Except as otherwise provided, any reference to the date of enactment of the MAP–21 or to the date of enactment of the Federal Public Transportation Act of 2012 in the divisions described in subsection (a) \[set out above\] or in an amendment made by those divisions \[see Tables for classification\] shall be deemed to be a reference to the effective date of those divisions \[Oct. 1, 2012\].”
+
+Pub. L. 112–140, §1(c), June 29, 2012, 126 Stat. 391, provided that: “On the date of enactment of the MAP–21 \[Pub. L. 112–141, approved July 6, 2012\]—
+
+&emsp;“(1) this Act \[see Short Title of 2012 Amendment note below\] and the amendments made by this Act shall cease to be effective;
+
+&emsp;“(2) the text of the laws amended by this Act shall revert back so as to read as the text read on the day before the date of enactment of this Act \[June 29, 2012\]; and
+
+&emsp;“(3) the amendments made by the MAP–21 \[see Tables for classification\] shall be executed as if this Act had not been enacted.”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–244, title I, §121(a), (b), June 6, 2008, 122 Stat. 1608, provided that:
@@ -410,7 +498,7 @@ Exception.—
 
 &emsp;“(1)
 
-In general.—The amendments made by this Act (other than the amendments made by sections 101(g), 101(m)(1)(H) \[amending section 144 of this title, not Pub. L. 109–59\], 103, 105, 109, and 201(<i>o</i>)) to the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59; 119 Stat. 1144) shall—
+In general.—The amendments made by this Act (other than the amendments made by sections 101(g), 101(m)(1)(H) \[amending section 144 of this title, not Pub. L. 109–59\], 103, 105, 109, and 201(o)) to the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59; 119 Stat. 1144) shall—
 
 &emsp;&emsp;“(A) take effect as of the date of enactment of that Act \[Aug. 10, 2005\]; and
 
@@ -418,7 +506,7 @@ In general.—The amendments made by this Act (other than the amendments made by
 
 &emsp;“(2)
 
-Effect of amendments.—Each provision of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59; 119 Stat. 1144) (including the amendments made by that Act) (as in effect on the day before the date of enactment of this Act \[June 6, 2008\]) that is amended by this Act (other than sections 101(g), 101(m)(1)(H), 103, 105, 109, and 201(<i>o</i>)) shall be treated as not being enacted.”
+Effect of amendments.—Each provision of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59; 119 Stat. 1144) (including the amendments made by that Act) (as in effect on the day before the date of enactment of this Act \[June 6, 2008\]) that is amended by this Act (other than sections 101(g), 101(m)(1)(H), 103, 105, 109, and 201(o)) shall be treated as not being enacted.”
 
 #### Effective Date of 1998 Amendment
 
@@ -430,11 +518,11 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1970 Amendment
 
-Section 147 of Pub. L. 91–605 provided that: “The amendments made by section 117 \[enacting section 510 of this title, amending this section, and renumbering sections 511 and 512 of this title\], 120 \[amending provisions set out as a note under section 502 of this title\], and 137 of this Act \[amending section 506 of this title\] shall not take effect if before the effective date of this Act \[Dec. 31, 1970\] the Uniform Relocation Assistance and Land Acquisition Policies Act of 1970 has been enacted into law.” The Uniform Relocation Assistance and Land Acquisition Policies Act of 1970, enacted as Pub. L. 91–646, 84 Stat. 1894, was approved Jan. 2, 1971, whereas this Act (Title I of Pub. L. 91–605) was approved Dec. 31, 1970, therefore the amendments made by sections 117, 120, and 137 of Title I of Pub. L. 91–605 took effect.
+Pub. L. 91–605, title I, §147, Dec. 31, 1970, 84 Stat. 1739, provided that: “The amendments made by section 117 \[enacting section 510 of this title, amending this section, and renumbering sections 511 and 512 of this title\], 120 \[amending provisions set out as a note under section 502 of this title\], and 137 of this Act \[amending section 506 of this title\] shall not take effect if before the effective date of this Act \[Dec. 31, 1970\] the Uniform Relocation Assistance and Land Acquisition Policies Act of 1970 has been enacted into law.” The Uniform Relocation Assistance and Land Acquisition Policies Act of 1970, enacted as Pub. L. 91–646, 84 Stat. 1894, was approved Jan. 2, 1971, whereas this Act (Title I of Pub. L. 91–605) was approved Dec. 31, 1970, therefore the amendments made by sections 117, 120, and 137 of Title I of Pub. L. 91–605 took effect.
 
 #### Effective Date of 1968 Amendment
 
-Section 37 of Pub. L. 90–495, as amended by Pub. L. 91–605, title I, §120, Dec. 31, 1970, 84 Stat. 1725, provided that:
+Pub. L. 90–495, §37, Aug. 23, 1968, 82 Stat. 836, as amended by Pub. L. 91–605, title I, §120, Dec. 31, 1970, 84 Stat. 1725, provided that:
 
 “(a) Except as otherwise provided in subsection (b) of this section, this Act and the amendments made by this Act \[enacting sections 135, 139, 140, 141, and 501 to 511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, section 636 of Title 15, Commerce and Trade, and section 1653 of former Title 49, Transportation, repealing section 133 of this title, enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] shall take effect on the date of its enactment \[Aug. 23, 1968\], except that until July 1, 1970, sections 502, 505, 506, 507, and 508 of title 23, United States Code, as added by this Act, shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. Except as otherwise provided in subsection (b) of this section, after July 1, 1970, such sections shall be completely applicable to all States. Section 133 of title 23, United States Code, shall not apply to any State if sections 502, 505, 506, 507, and 508 of title 23, United States Code, are applicable in that State, and effective July 1, 1970, such section 133 is repealed.
 
@@ -442,13 +530,29 @@ Section 37 of Pub. L. 90–495, as amended by Pub. L. 91–605, title I, §120, 
 
 #### Effective Date of 1959 Amendment
 
-Section 21(e) of Pub. L. 86–70 provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
+Pub. L. 86–70, §21(e), June 25, 1959, 73 Stat. 146, provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–141, §1(a), July 6, 2012, 126 Stat. 405, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Moving Ahead for Progress in the 21st Century Act’ or the ‘MAP–21’.”
+
+Pub. L. 112–141, div. A, title II, §2001, July 6, 2012, 126 Stat. 607, provided that: “This title \[amending sections 601 to 609 of this title\] may be cited as the ‘America Fast Forward Financing Innovation Act of 2012’.”
+
+Pub. L. 112–141, div. C, title I, §31001, July 6, 2012, 126 Stat. 732, provided that: “This title \[see Tables for classification\] may be cited as the ‘Motor Vehicle and Highway Safety Improvement Act of 2012’ or ‘Mariah's Act’.”
+
+Pub. L. 112–141, div. E, §50001, July 6, 2012, 126 Stat. 864, provided that: “This division \[see Tables for classification\] may be cited as the ‘Transportation Research and Innovative Technology Act of 2012’.”
+
+Pub. L. 112–141, div. G, §110001, July 6, 2012, 126 Stat. 980, provided that: “This division \[see Tables for classification\] may be cited as the ‘Surface Transportation Extension Act of 2012, Part II’.”
+
+Pub. L. 112–140, §1(a), June 29, 2012, 126 Stat. 391, provided that: “This Act \[amending section 327 of this title, sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4482, 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under this section, section 327 of this title, section 460l–11 of Title 16, and section 9503 of Title 26, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Temporary Surface Transportation Extension Act of 2012’.”
+
+Pub. L. 112–102, §1(a), Mar. 30, 2012, 126 Stat. 271, provided that: “This Act \[amending sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under section 460l–11 of Title 16 and section 9503 of Title 26, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2012’.”
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–30, §1(a), Sept. 16, 2011, 125 Stat. 342, provided that: “This Act \[amending sections 405 and 410 of this title, sections 460<i>l</i>–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4261, 4271, 4481 to 4483, 6412, 9502 to 9504, and 9508 of Title 26, Internal Revenue Code, and sections 106, 5305, 5307, 5309, 5311, 5337, 5338, 31104, 31144, 40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under this section, section 460<i>l</i>–11 of Title 16, and sections 1, 4081, 9502, and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, 31301, 41731, and 47109 of Title 49\] may be cited as the ‘Surface and Air Transportation Programs Extension Act of 2011’.”
+Pub. L. 112–30, §1(a), Sept. 16, 2011, 125 Stat. 342, provided that: “This Act \[amending sections 405 and 410 of this title, sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4261, 4271, 4481 to 4483, 6412, 9502 to 9504, and 9508 of Title 26, Internal Revenue Code, and sections 106, 5305, 5307, 5309, 5311, 5337, 5338, 31104, 31144, 40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under this section, section 460l–11 of Title 16, and sections 1, 4081, 9502, and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, 31301, 41731, and 47109 of Title 49\] may be cited as the ‘Surface and Air Transportation Programs Extension Act of 2011’.”
 
-Pub. L. 112–30, title I, §101, Sept. 16, 2011, 125 Stat. 343, provided that: “This title \[amending sections 405 and 410 of this title, sections 460<i>l</i>–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under section 460<i>l</i>–11 of Title 16 and section 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2011, Part II’.”
+Pub. L. 112–30, title I, §101, Sept. 16, 2011, 125 Stat. 343, provided that: “This title \[amending sections 405 and 410 of this title, sections 460l–11 and 777c of Title 16, Conservation, sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under section 460l–11 of Title 16 and section 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title and sections 5309, 5310, 5338, 14710, 31100, and 31301 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2011, Part II’.”
 
 Pub. L. 112–5, §1(a), Mar. 4, 2011, 125 Stat. 14, provided that: “This Act \[amending section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as a note under section 9503 of Title 26, and amending provisions set out as notes under section 901 of Title 2, The Congress, and sections 5309, 5310, 5338, 14710, 31309, 31100, 31301, and 31100 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2011’.”
 
@@ -456,13 +560,13 @@ Pub. L. 112–5, §1(a), Mar. 4, 2011, 125 Stat. 14, provided that: “This Act 
 
 Pub. L. 111–322, title II, §2001(a), Dec. 22, 2010, 124 Stat. 3522, provided that: “This title \[amending sections 327 and 510 of this title, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as a note under section 9503 of Title 26, and amending provisions set out as notes under section 901 of Title 2, The Congress, and sections 5309, 5310, 5338, 14710, 31100, 31301, and 31309 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2010, Part II’.”
 
-Pub. L. 111–147, title IV, §401, Mar. 18, 2010, 124 Stat. 78, provided that: “This title \[amending sections 405 and 410 of this title, section 777c of Title 16, Conservation, sections 9502 to 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under this section and sections9502 and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title, section 901 of Title 2, The Congress, and sections 5309, 5310, 5338, 14710, 31100, 31301, and 31309 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2010’.”
+Pub. L. 111–147, title IV, §401, Mar. 18, 2010, 124 Stat. 78, provided that: “This title \[amending sections 405 and 410 of this title, section 777c of Title 16, Conservation, sections 9502 to 9504 of Title 26, Internal Revenue Code, and sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 9502 and 9503 of Title 26, and amending provisions set out as notes under sections 402, 403, and 405 of this title, section 901 of Title 2, The Congress, and sections 5309, 5310, 5338, 14710, 31100, 31301, and 31309 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2010’.”
 
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–244, §1(a), June 6, 2008, 122 Stat. 1572, provided that: “This Act \[see Tables for classification\] may be cited as the ‘SAFETEA–LU Technical Corrections Act of 2008’.”
 
-#### Short Title of 2005 Amendments
+#### Short Title of 2005 Amendment
 
 Pub. L. 109–59, §1(a), Aug. 10, 2005, 119 Stat. 1144, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users’ or ‘SAFETEA–LU’.”
 
@@ -478,7 +582,7 @@ Pub. L. 109–20, §1, July 1, 2005, 119 Stat. 346, provided that: “This Act \
 
 Pub. L. 109–14, §1, May 31, 2005, 119 Stat. 324, provided that: “This Act \[amending sections 144, 157, 163, and 188 of this title, section 777c of Title 16, Conservation, sections 4481 to 4483, 9503, and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section and section 4481 of Title 26, and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2005’.”
 
-#### Short Title of 2004 Amendments
+#### Short Title of 2004 Amendment
 
 Pub. L. 108–310, §1, Sept. 30, 2004, 118 Stat. 1144, provided that: “This Act \[amending sections 144, 157, 163, 188, and 410 of this title, sections 900 and 901 of Title 2, The Congress, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section, section 104 of this title, section 9503 of Title 26, and section 5337 of Title 49, amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, section 901 of Title 2, and sections 5307, 5309, 5310, and 5338 of Title 49, and repealing provisions set out as a note under section 9503 of Title 26\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part V’.”
 
@@ -488,13 +592,13 @@ Pub. L. 108–263, §1, June 30, 2004, 118 Stat. 698, provided that: “This Act
 
 Pub. L. 108–224, §1, Apr. 30, 2004, 118 Stat. 627, provided that: “This Act \[amending sections 144, 157, 163, and 188 of this title, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under section 9503 of Title 26, and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2004, Part II’.”
 
-Pub. L. 108–202, §1, Feb. 29, 2004, 118 Stat. 478, provided that: “This Act \[amending sections 144, 157, 163, and 188 of this title, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under section 9503 of Title 26, and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2004’.”
+Pub. L. 108–202, §1, Feb. 29, 2004, 118 Stat. 478, provided that: “This Act \[amending sections 144, 157, 163, and 188 of this title, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as a note under section 9503 of Title 26, and amending provisions set out as notes under this section, sections 104, 322, and 402 of this title, and sections 5307, 5309, 5310, 5337, and 5338 of Title49\] may be cited as the ‘Surface Transportation Extension Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–88, §1, Sept. 30, 2003, 117 Stat. 1110, provided that: “This Act \[amending sections 144, 157, 163,188, and 410 of this title, sections 900 and 901 of Title 2, The Congress, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5337, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section, section 104 of this title, section 9503 of Title 26, and section 5337 of Title 49, and amending provisions set out as notes under this section, sections 322 and 402 of this title, section 901 of Title 2, and sections 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2003’.”
+Pub. L. 108–88, §1, Sept. 30, 2003, 117 Stat. 1110, provided that: “This Act \[amending sections 144, 157, 163, 188, and 410 of this title, sections 900 and 901 of Title 2, The Congress, section 777c of Title 16, Conservation, sections 9503 and 9504 of Title 26, Internal Revenue Code, section 13106 of Title 46, Shipping, and sections 5307, 5309, 5337, 5338, 31104, and 31107 of Title 49, Transportation, enacting provisions set out as notes under this section, section 104 of this title, section 9503 of Title 26, and section 5337 of Title 49, and amending provisions set out as notes under this section, sections 322 and 402 of this title, section 901 of Title 2, and sections 5309, 5310, and 5338 of Title 49\] may be cited as the ‘Surface Transportation Extension Act of 2003’.”
 
-#### Short Title of 1998 Amendments
+#### Short Title of 1998 Amendment
 
 Pub. L. 105–206, title IX, §9001, July 22, 1998, 112 Stat. 834, provided that: “This title \[see Tables for classification\] may be cited as the ‘TEA 21 Restoration Act’.”
 
@@ -508,21 +612,21 @@ Pub. L. 105–130, §1, Dec. 1, 1997, 111 Stat. 2552, provided that: “This Act
 
 #### Short Title of 1995 Amendment
 
-Section 1(a) of Pub. L. 104–59 provided that: “This Act \[enacting section 161 of this title, amending this section, sections 103, 104, 106, 109, 111, 112, 115, 116, 120, 122, 127, 129, 130, 131, 133, 134, 141, 144, 149, 152, 153, 217, 303, 306, 307, 323, 409, and 410 of this title, sections 1261 and 1262 of Title 16, Conservation, sections 7506 and 12186 of Title 42, The Public Health and Welfare, and sections 5316, 5331, 20140, 30308, 31112, 31136, 31306, and 45102 of Title 49, Transportation, repealing section 154 of this title, enacting provisions set out as notes preceding section 101 of this title and under this section, sections 104, 109, 130, 141, 153, 154, 307, 309, 401, and 408 of this title, section 403 of Title 16, section 7511a of Title 42, and section 31136 of Title 49, amending provisions set out as notes under this section and sections 104, 109, 127, 149, and 307 of this title, and repealing provisions set out as notes preceding section 101 of this title and under section 112 of this title\] may be cited as the ‘National Highway System Designation Act of 1995’.”
+Pub. L. 104–59, §1(a), Nov. 28, 1995, 109 Stat. 568, provided that: “This Act \[enacting section 161 of this title, amending this section, sections 103, 104, 106, 109, 111, 112, 115, 116, 120, 122, 127, 129, 130, 131, 133, 134, 141, 144, 149, 152, 153, 217, 303, 306, 307, 323, 409, and 410 of this title, sections 1261 and 1262 of Title 16, Conservation, sections 7506 and 12186 of Title 42, The Public Health and Welfare, and sections 5316, 5331, 20140, 30308, 31112, 31136, 31306, and 45102 of Title 49, Transportation, repealing section 154 of this title, enacting provisions set out as notes preceding section 101 of this title and under this section, sections 104, 109, 130, 141, 153, 154, 307, 309, 401, and 408 of this title, section 403 of Title 16, section 7511a of Title 42, and section 31136 of Title 49, amending provisions set out as notes under this section and sections 104, 109, 127, 149, and 307 of this title, and repealing provisions set out as notes preceding section 101 of this title and under section 112 of this title\] may be cited as the ‘National Highway System Designation Act of 1995’.”
 
 #### Short Title of 1987 Amendment
 
-Section 1(a) of Pub. L. 100–17 provided that: “This Act \[enacting sections 151, 156, and 409 of this title, section 508 of Title 33, Navigation and Navigable Waters, section 4604 of Title 42, The Public Health and Welfare, and sections 1607a–2, 1619, 1620, and 1621 of former Title 49, Transportation, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, 402, and 408 of this title, section 460<i>l</i>–11 of Title 16, Conservation, section 1761 of Title 18, Crimes and Criminal Procedure, sections 4041, 4051, 4052, 4071, 4081, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, and 9503 of Title 26, Internal Revenue Code, sections 494 and 1414 of Title 33, sections 4601, 4621, 4622, 4623, 4624, 4625, 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of Title 42, sections 303 and 10922 of Title 49, and sections 1602, 1603, 1604, 1607, 1607a, 1607a–1, 1607c, 1608, 1612, 1613, 1614, 1617, 1655, 2311, 2314, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title, sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, and sections 4634 and 4637 of Title 42, enacting provisions set out as notes under this section, sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, 401, and 402 of this title, sections 1, 4052, and 4481 of Title 26, section 4601 of Title 42, section 10922 of Title 49, and sections 1601, 1602, 1608, and 2204 of former Title 49, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, 146, and 401 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and section 526a of Title 33\] may be cited as the ‘Surface Transportation and Uniform Relocation Assistance Act of 1987’.”
+Pub. L. 100–17, §1(a), Apr. 2, 1987, 101 Stat. 132, provided that: “This Act \[enacting sections 151, 156, and 409 of this title, section 508 of Title 33, Navigation and Navigable Waters, section 4604 of Title 42, The Public Health and Welfare, and sections 1607a–2, 1619, 1620, and 1621 of former Title 49, Transportation, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, 402, and 408 of this title, section 460l–11 of Title 16, Conservation, section 1761 of Title 18, Crimes and Criminal Procedure, sections 4041, 4051, 4052, 4071, 4081, 4221, 4481, 4482, 4483, 6156, 6412, 6420, 6421, 6427, and 9503 of Title 26, Internal Revenue Code, sections 494 and 1414 of Title 33, sections 4601, 4621, 4622, 4623, 4624, 4625, 4626, 4630, 4631, 4633, 4636, 4638, 4651, and 4655 of Title 42, sections 303 and 10922 of Title 49, and sections 1602, 1603, 1604, 1607, 1607a, 1607a–1, 1607c, 1608, 1612, 1613, 1614, 1617, 1655, 2311, 2314, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title, sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, and sections 4634 and 4637 of Title 42, enacting provisions set out as notes under this section, sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, 401, and 402 of this title, sections 1, 4052, and 4481 of Title 26, section 4601 of Title 42, section 10922 of Title 49, and sections 1601, 1602, 1608, and 2204 of former Title 49, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, 146, and 401 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and section 526a of Title 33\] may be cited as the ‘Surface Transportation and Uniform Relocation Assistance Act of 1987’.”
 
-Section 101 of title I of Pub. L. 100–17 provided that: “This title \[enacting sections 151, 156, and 409 of this title and section 508 of Title 33, Navigation and Navigable Waters, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, and 402 of this title, section 1761 of Title 18, Crimes and Criminal Procedure, sections 494 and 1414 of Title 33, section 303 of Title 49, Transportation, and sections 1655, 2311, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title and sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, enacting provisions set out as notes under this section and sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, and 402 of this title, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, and 146 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and section 526a of Title 33\] may be cited as the ‘Federal-Aid Highway Act of 1987’.”
+Pub. L. 100–17, title I, §101, Apr. 2, 1987, 101 Stat. 134, provided that: “This title \[enacting sections 151, 156, and 409 of this title and section 508 of Title 33, Navigation and Navigable Waters, amending this section, sections 103, 104, 106, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 125, 127, 129, 130, 138, 140, 144, 152, 154, 157, 204, 210, 215, 217, 307, 315, 319, 321, 323, 401, and 402 of this title, section 1761 of Title 18, Crimes and Criminal Procedure, sections 494 and 1414 of Title 33, section 303 of Title 49, Transportation, and sections 1655, 2311, and 2716 of former Title 49, repealing sections 211, 213, 219, and 322 of this title and sections 498a, 498b, 503 to 507, 526, 526a, 529, and 535d of Title 33, enacting provisions set out as notes under this section and sections 103, 104, 116, 120, 125, 127, 130, 144, 202, 307, and 402 of this title, amending provisions set out as notes under this section and sections 103, 104, 130, 141, 144, and 146 of this title, and repealing provisions set out as notes under sections 114, 130, and 217 of this title and section 526a of Title 33\] may be cited as the ‘Federal-Aid Highway Act of 1987’.”
 
-#### Short Title of 1983 Amendments
+#### Short Title of 1983 Amendment
 
-Section 1 of Pub. L. 97–424 provided: “That this Act \[enacting section 157 of this title, sections 4051 to 4053 and 9503 of Title 26, Internal Revenue Code, and sections 1601c, 1607a, 1607a–1, 1617, 1618, and 2301 to 2315 of former Title 49, Transportation, amending section 713c–3 of Title 15, Commerce and Trade, sections 460<i>l</i>–11 and 1606a of Title 16, Conservation, sections 101, 101 notes, 103, 103 note, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 130 notes, 137, 139, 140, 141, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, 307, 307 note, 401 note, and 402 of this title, sections 39, 44E, 46, 48, 103, 165 note, 167, 168, 274, 851, 852, 874, 882, 3304 note, 3454, 4041, 4061, 4063, 4071, 4081, 4101, 4102, 4221, 4222, 4481, 4482, 4483, 6049, 6156, 6201, 6206, 6362, 6412, 6416, 6420, 6421, 6427, 6504, 6675, 7210, 7603, 7604, 7605, 7609, 7610, and 9502 of Title 26, section 1414 of Title 33, Navigation and Navigable Waters, sections 602 and 1382a of Title 42, The Public Health and Welfare, sections 1474, 1475, and 1479 of former Title 46, Shipping, section 1273 of Title 46, Appendix, sections 10927 note, 11909 and 11914 of Title 49, and sections 1602, 1603, 1604, 1607c, 1608, 1611, 1612, 1614, 2204, 2205, 2206 of former Title 49, repealing sections 101 notes, 104 note, and 206 to 209 of this title, sections 120 note, 4091 to 4094, and 6424 of Title 26, and sections 1602 note, 1604a, 1617, and 1618 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111, 119, 120, 125, 144, 146, 154, 307, 401, and 408 of this title, section 713c–3 of Title 15, sections 1, 39, 46, 165, 274, 3304, 4041, 4051, 4061, 4071, 4081, 4481, 6012, 6427, and 9503 of Title 26, section 602 of Title 42, and sections 1601, 1612, and 2315 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1982’.”
+Pub. L. 97–424, §1, Jan. 6, 1983, 96 Stat. 2097, provided: “That this Act \[enacting section 157 of this title, sections 4051 to 4053 and 9503 of Title 26, Internal Revenue Code, and sections 1601c, 1607a, 1607a–1, 1617, 1618, and 2301 to 2315 of former Title 49, Transportation, amending section 713c–3 of Title 15, Commerce and Trade, sections 460l–11 and 1606a of Title 16, Conservation, sections 101, 101 notes, 103, 103 note, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 130 notes, 137, 139, 140, 141, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, 307, 307 note, 401 note, and 402 of this title, sections 39, 44E, 46, 48, 103, 165 note, 167, 168, 274, 851, 852, 874, 882, 3304 note, 3454, 4041, 4061, 4063, 4071, 4081, 4101, 4102, 4221, 4222, 4481, 4482, 4483, 6049, 6156, 6201, 6206, 6362, 6412, 6416, 6420, 6421, 6427, 6504, 6675, 7210, 7603, 7604, 7605, 7609, 7610, and 9502 of Title 26, section 1414 of Title 33, Navigation and Navigable Waters, sections 602 and 1382a of Title 42, The Public Health and Welfare, sections 1474, 1475, and 1479 of former Title 46, Shipping, section 1273 of Title 46, Appendix, sections 10927 note, 11909 and 11914 of Title 49, and sections 1602, 1603, 1604, 1607c, 1608, 1611, 1612, 1614, 2204, 2205, 2206 of former Title 49, repealing sections 101 notes, 104 note, and 206 to 209 of this title, sections 120 note, 4091 to 4094, and 6424 of Title 26, and sections 1602 note, 1604a, 1617, and 1618 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111, 119, 120, 125, 144, 146, 154, 307, 401, and 408 of this title, section 713c–3 of Title 15, sections 1, 39, 46, 165, 274, 3304, 4041, 4051, 4061, 4071, 4081, 4481, 6012, 6427, and 9503 of Title 26, section 602 of Title 42, and sections 1601, 1612, and 2315 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1982’.”
 
-Section 101 of title I of Pub. L. 97–424 provided that: “This title \[enacting section 157 of this title, amending this section and sections 103, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 137, 139, 140, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, and 307 of this title, repealing sections 101 notes, 104 note, and 206 to 209 of this title, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111,119, 120, 125, 144, and 146 of this title, and section 2315 of former Title 49, Transportation\] may be cited as the ‘Highway Improvement Act of 1982’.”
+Pub. L. 97–424, title I, §101, Jan. 6, 1983, 96 Stat. 2097, provided that: “This title \[enacting section 157 of this title, amending this section and sections 103, 105, 109, 112, 113, 114, 115, 116, 118, 119, 120, 122, 125, 127, 137, 139, 140, 142, 144, 150, 152, 201, 202, 203, 204, 210, 214, 217, 218, and 307 of this title, repealing sections 101 notes, 104 note, and 206 to 209 of this title, and enacting provisions set out as notes under this section, sections 103, 104, 105, 109, 111, 119, 120, 125, 144, and 146 of this title, and section 2315 of former Title 49, Transportation\] may be cited as the ‘Highway Improvement Act of 1982’.”
 
-Section 1 of Pub. L. 97–327, Oct. 15, 1982, 96 Stat. 1611, provided: “That this Act \[amending section 144 of this title, provisions set out as notes under this section and section 130 of this title, and enacting provisions set out as notes under section 104 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1982’.”
+Pub. L. 97–327, §1, Oct. 15, 1982, 96 Stat. 1611, provided: “That this Act \[amending section 144 of this title, provisions set out as notes under this section and section 130 of this title, and enacting provisions set out as notes under section 104 of this title\] may be cited as the ‘Federal-Aid Highway Act of 1982’.”
 
 #### Short Title of 1981 Amendment
 
@@ -530,11 +634,11 @@ Pub. L. 97–134, §13, Dec. 29, 1981, 95 Stat. 1703, provided that: “This Act
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–599 provided: “That this Act \[enacting sections 119, 146, and 407 of this title, and sections 1602–1, 1607, 1614, 1615, 1616, 1617 and 1618 of former Title 49, Transportation, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 154, 155, 215, 217, 219, 320, 402, and 406 of this title, section 1418 of Title 15, Commerce and Trade, section 460<i>l</i>–11 of Title 16, Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, 7605, 7609, and 7610 of Title 26, Internal Revenue Code, section 201 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 303, 1602, 1603, 1604, 1607b, 1607c, 1608, 1611, 1612, and 1613 of former Title 49, repealing section 153 of this title and sections 1607, 1607a, and 1614 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 215, 217, 307, 320, 401, 402, and 403 of this title, section 6427 of Title 26, section 201 of former Title 40, Appendix, section 5904 of Title 42, The Public Health and Welfare, section 883 of Title 46, Appendix, Shipping, and sections 1601, 1602, 1604, 1605, 1612, and 1653 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1978’.”
+Pub. L. 95–599, §1, Nov. 6, 1978, 92 Stat. 2689, provided: “That this Act \[enacting sections 119, 146, and 407 of this title, and sections 1602–1, 1607, 1614, 1615, 1616, 1617 and 1618 of former Title 49, Transportation, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 154, 155, 215, 217, 219, 320, 402, and 406 of this title, section 1418 of Title 15, Commerce and Trade, section 460l–11 of Title 16, Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, 7605, 7609, and 7610 of Title 26, Internal Revenue Code, section 201 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 303, 1602, 1603, 1604, 1607b, 1607c, 1608, 1611, 1612, and 1613 of former Title 49, repealing section 153 of this title and sections 1607, 1607a, and 1614 of former Title 49, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 215, 217, 307, 320, 401, 402, and 403 of this title, section 6427 of Title 26, section 201 of former Title 40, Appendix, section 5904 of Title 42, The Public Health and Welfare, section 883 of Title 46, Appendix, Shipping, and sections 1601, 1602, 1604, 1605, 1612, and 1653 of former Title 49\] may be cited as the ‘Surface Transportation Assistance Act of 1978’.”
 
-Section 101 of title I of Pub. L. 95–599 provided that: “This title \[enacting sections 119 and 146 of this title, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 155, 203, 215, 217, 219, 320, and 406 of this title, and section 201 of former Title 40, Appendix, Public Buildings, Property and Works, repealing section 153 of this title and provisions set out as notes under this section and section 1605 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 217, 307, and 320 of this title, section 201 of former Title 40, Appendix, section 5904 of Title 42, section 883 of Title 46, Appendix, Shipping, and section 1653 of former Title 49, Transportation\] may be cited as the ‘Federal-Aid Highway Act of 1978’.”
+Pub. L. 95–599, title I, §101, Nov. 6, 1978, 92 Stat. 2689, provided that: “This title \[enacting sections 119 and 146 of this title, amending this section, sections 103, 104, 105, 109, 111, 116, 118, 120, 122, 124, 125, 129, 131, 134, 141, 144, 148, 151, 152, 155, 203, 215, 217, 219, 320, and 406 of this title, and section 201 of former Title 40, Appendix, Public Buildings, Property and Works, repealing section 153 of this title and provisions set out as notes under this section and section 1605 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, sections 103, 104, 109, 111, 120, 122, 124, 129, 130, 134, 135, 141, 142, 144, 146, 217, 307, and 320 of this title, section 201 of former Title 40, Appendix, section 5904 of Title 42, section 883 of Title 46, Appendix, Shipping, and section 1653 of former Title 49, Transportation\] may be cited as the ‘Federal-Aid Highway Act of 1978’.”
 
-Section 501 of Pub. L. 95–599 provided that: “This title \[amending section 4601–11 of Title 16, Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, and 7605 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 120 and 307 of this title and section 6427 of Title 26\] may be cited as the ‘Highway Revenue Act of 1978’.”
+Pub. L. 95–599, title V, §501, Nov. 6, 1978, 92 Stat. 2756, provided that: “This title \[amending section 4601–11 of Title 16, Conservation, sections 39, 4041, 4061, 4071, 4081, 4481, 4482, 6156, 6412, 6421, 6427, 7210, 7603, 7604, and 7605 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 120 and 307 of this title and section 6427 of Title 26\] may be cited as the ‘Highway Revenue Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 
@@ -570,7 +674,7 @@ Pub. L. 88–423, §1, Aug. 13, 1964, 78 Stat. 397, provided that: “This Act \
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–157, §1, Oct. 24, 1963, 77 Stat. 276, provided: “That this Act \[amending sections 104, 106, 109, 121, 131,and 307 of this title\] may be cited as the ‘Federal-Aid Highway Amendments Act of 1963’.”
+Pub. L. 88–157, §1, Oct. 24, 1963, 77 Stat. 276, provided: “That this Act \[amending sections 104, 106, 109, 121, 131, and 307 of this title\] may be cited as the ‘Federal-Aid Highway Amendments Act of 1963’.”
 
 #### Short Title of 1962 Amendment
 
@@ -590,7 +694,7 @@ Pub. L. 86–342, title I, §101, Sept. 21, 1959, 73 Stat. 611, provided that: �
 
 #### Separability
 
-Section 36 of Pub. L. 90–495 provided that: “If any provision of this Act (including the amendments made by this Act) \[enacting sections 135, 139, 140, 141, and 501–511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, section 636 of Title 15, Commerce and Trade, section 1653 of former Title 49, Transportation, and provisions set out as a note under this section, repealing section 133 of this title, and enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of the provision to other persons or circumstances shall not be affected thereby.”
+Pub. L. 90–495, §36, Aug. 23, 1968, 82 Stat. 836, provided that: “If any provision of this Act (including the amendments made by this Act) \[enacting sections 135, 139, 140, 141, and 501–511 of this title, amending this section, sections 103, 104, 108, 112, 113, 115, 116, 120, 125, 128, 129, 131, 135, 136, 138, 205, 319, and 402 of this title, section 636 of Title 15, Commerce and Trade, section 1653 of former Title 49, Transportation, and provisions set out as a note under this section, repealing section 133 of this title, and enacting provisions set out as notes under this section and sections 104, 108, 125, 134, 501, 502, and 510 of this title\] or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of the provision to other persons or circumstances shall not be affected thereby.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -600,9 +704,103 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce under this title and under specific related laws and parts of laws set out in the notes in this title relating generally to highways and highway and traffic safety transferred to and vested in Secretary of Transportation by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which created Department of Transportation. See section 102 of Title 49, Transportation, and Pub. L. 97–449, §2, Jan. 12, 1983, 96 Stat. 2439.
 
+#### Declaration of Policy and Project Delivery Initiative
+
+Pub. L. 112–141, div. A, title I, §1301(a), (b), July 6, 2012, 126 Stat. 527, provided that:
+
+“(a)
+
+In General.—It is the policy of the United States that—
+
+&emsp;“(1) it is in the national interest for the Department \[of Transportation\], State departments of transportation, transit agencies, and all other recipients of Federal transportation funds—
+
+&emsp;&emsp;“(A) to accelerate project delivery and reduce costs; and
+
+&emsp;&emsp;“(B) to ensure that the planning, design, engineering, construction, and financing of transportation projects is done in an efficient and effective manner, promoting accountability for public investments and encouraging greater private sector involvement in project financing and delivery while enhancing safety and protecting the environment;
+
+&emsp;“(2) delay in the delivery of transportation projects increases project costs, harms the economy of the United States, and impedes the travel of the people of the United States and the shipment of goods for the conduct of commerce; and
+
+&emsp;“(3) the Secretary \[of Transportation\] shall identify and promote the deployment of innovation aimed at reducing the time and money required to deliver transportation projects while enhancing safety and protecting the environment.
+
+“(b)
+
+Project Delivery Initiative.—
+
+&emsp;“(1)
+
+In general.—To advance the policy described in subsection (a), the Secretary \[of Transportation\] shall carry out a project delivery initiative under this section \[amending this section and enacting this note\].
+
+&emsp;“(2)
+
+Purposes.—The purposes of the project delivery initiative shall be—
+
+&emsp;&emsp;“(A) to develop and advance the use of best practices to accelerate project delivery and reduce costs across all modes of transportation and expedite the deployment of technology and innovation;
+
+&emsp;&emsp;“(B) to implement provisions of law designed to accelerate project delivery; and
+
+&emsp;&emsp;“(C) to select eligible projects for applying experimental features to test innovative project delivery techniques.
+
+&emsp;“(3)
+
+Advancing the use of best practices.—
+
+&emsp;&emsp;“(A)
+
+In general.—In carrying out the initiative under this section, the Secretary shall identify and advance best practices to reduce delivery time and project costs, from planning through construction, for transportation projects and programs of projects regardless of mode and project size.
+
+&emsp;&emsp;“(B)
+
+Administration.—To advance the use of best practices, the Secretary shall—
+
+&emsp;&emsp;&emsp;“(i) engage interested parties, affected communities, resource agencies, and other stakeholders to gather information regarding opportunities for accelerating project delivery and reducing costs;
+
+&emsp;&emsp;&emsp;“(ii) establish a clearinghouse for the collection, documentation, and advancement of existing and new innovative approaches and best practices;
+
+&emsp;&emsp;&emsp;“(iii) disseminate information through a variety of means to transportation stakeholders on new innovative approaches and best practices; and
+
+&emsp;&emsp;&emsp;“(iv) provide technical assistance to assist transportation stakeholders in the use of flexibility authority to resolve project delays and accelerate project delivery if feasible.
+
+&emsp;“(4)
+
+Implementation of accelerated project delivery.—The Secretary shall ensure that the provisions of this subtitle \[subtitle C (§§1301–1323) of title I of div. A of Pub. L. 112–141, see Tables for classification\] designed to accelerate project delivery are fully implemented, including—
+
+&emsp;&emsp;“(A) expanding eligibility of early acquisition of property prior to completion of environmental review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;&emsp;“(B) allowing the use of the construction manager or general contractor method of contracting in the Federal-aid highway system; and
+
+&emsp;&emsp;“(C) establishing a demonstration program to streamline the relocation process by permitting a lump-sum payment for acquisition and relocation if elected by the displaced occupant.”
+
+#### Innovative Project Delivery Methods Policy
+
+Pub. L. 112–141, div. A, title I, §1304(a), July 6, 2012, 126 Stat. 532, provided that:
+
+“(1)
+
+In general.—Congress declares that it is in the national interest to promote the use of innovative technologies and practices that increase the efficiency of construction of, improve the safety of, and extend the service life of highways and bridges.
+
+“(2)
+
+Inclusions.—The innovative technologies and practices described in paragraph (1) include state-of-the-art intelligent transportation system technologies, elevated performance standards, and new highway construction business practices that improve highway safety and quality, accelerate project delivery, and reduce congestion related to highway construction.”
+
+#### Report on Highway Trust Fund Expenditures
+
+Pub. L. 112–141, div. A, title I, §1535, July 6, 2012, 126 Stat. 584, provided that:
+
+“(a)
+
+Initial Report.—Not later than 150 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes above\], the Comptroller General of the United States shall submit to Congress a report describing the activities funded from the Highway Trust Fund during each of fiscal years 2009 through 2011, including for purposes other than construction and maintenance of highways and bridges.
+
+“(b)
+
+Updates.—Not later than 5 years after the date on which the report is submitted under subsection (a) and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report that updates the information provided in the report under that subsection for the applicable 5-year period.
+
+“(c)
+
+Inclusions.—A report submitted under subsection (a) or (b) shall include information similar to the information included in the report of the Government Accountability Office numbered ‘GAO–09–729R’ and entitled ‘Highway Trust Fund Expenditures on Purposes Other Than Construction and Maintenance of Highways and Bridges During Fiscal Years 2004–2008’.”
+
 #### Projects of National and Regional Significance
 
-Pub. L. 109–59, title I, §1301, Aug. 10, 2005, 119 Stat. 1198, as amended by Pub. L. 110–244, title I, §103(a), June 6, 2008, 122 Stat. 1578, provided that:
+Pub. L. 109–59, title I, §1301, Aug. 10, 2005, 119 Stat. 1198, as amended by Pub. L. 110–244, title I, §103(a), June 6, 2008, 122 Stat. 1578; Pub. L. 112–141, div. A, title I, §1120, July 6, 2012, 126 Stat. 492, provided that:
 
 “(a)
 
@@ -622,7 +820,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Establishment of Program.—The Secretary \[of Transportation\] shall establish a program to provide grants to States for projects of national and regional significance.
+Establishment of Program.—The Secretary \[of Transportation\] shall establish a program to provide grants to eligible applicants for projects of national and regional significance.
 
 “(c)
 
@@ -642,7 +840,15 @@ Eligible project.—The term ‘eligible project’ means any surface transporta
 
 &emsp;“(3)
 
-State.—The term ‘State’ has the meaning such term has in section 101(a) of title 23, United States Code.
+Eligible applicant.—The term ‘eligible applicant’ means—
+
+&emsp;&emsp;“(A) a State department of transportation or a group of State departments of transportation;
+
+&emsp;&emsp;“(B) a tribal government or consortium of tribal governments;
+
+&emsp;&emsp;“(C) a transit agency; or
+
+&emsp;&emsp;“(D) a multi-State or multi-jurisdictional group of the agencies described in subparagraphs (A) through (C).
 
 “(d)
 
@@ -650,11 +856,11 @@ Eligibility.—To be eligible for assistance under this section, a project shall
 
 &emsp;“(1) $500,000,000; or
 
-&emsp;“(2) 75 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
+&emsp;“(2) 50 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
 “(e)
 
-Applications.—Each State seeking to receive a grant under this section for an eligible project shall submit to the Secretary \[of Transportation\] an application in such form and in accordance with such requirements as the Secretary shall establish.
+Applications.—Each eligible applicant seeking to receive a grant under this section for an eligible project shall submit to the Secretary \[of Transportation\] an application in such form and in accordance with such requirements as the Secretary shall establish.
 
 “(f)
 
@@ -696,7 +902,7 @@ Selection considerations.—In selecting a project under this section, the Secre
 
 &emsp;&emsp;“(A) leverages Federal investment by encouraging non-Federal contributions to the project, including contributions from public-private partnerships;
 
-&emsp;&emsp;“(B) uses new technologies, including intelligent transportation systems, that enhance the efficiency of the project; and
+&emsp;&emsp;“(B) improves roadways vital to national energy security; and
 
 &emsp;&emsp;“(C) helps maintain or protect the environment.
 
@@ -768,6 +974,10 @@ Not an obligation.—The issuance of a letter is deemed not to be an obligation 
 
 Obligation or commitment.—An obligation or administrative commitment may be made only when contract authority is allocated to a project.
 
+&emsp;&emsp;“(E)
+
+Congressional approval.—The Secretary may not issue a letter of intent, enter into a full funding grant agreement under paragraph (2), or make any other obligation or commitment to fund a project under this section if a joint resolution of disapproval is enacted disapproving funding for the project before the last day of the 60-day period described in subparagraph (B).
+
 &emsp;“(2)
 
 Full funding grant agreement.—
@@ -790,7 +1000,7 @@ Terms.—If the Secretary makes a full funding grant agreement with an applicant
 
 &emsp;&emsp;“(C)
 
-Agreement.—An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+Agreement.—An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs maynot be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
 &emsp;“(3)
 
@@ -828,71 +1038,67 @@ Annual report.—Not later than the first Monday in February of each year, the S
 
 Recommendations on funding.—The annual report under this paragraph \[subsection\] shall include evaluations and ratings, as required under subsection (f). The report shall also include recommendations of projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years and for the next 10 fiscal years based on information currently available to the Secretary.
 
-“(<i>l</i>)
+&emsp;“(3)
 
-Applicability of Title 23.—Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended and the Federal share of the cost of a project under this section shall be as provided in this section.
+Project selection justifications.—
 
-“(m)
+&emsp;&emsp;“(A)
 
-Designated Projects.—\[Omitted.\]”
+In general.—Not later than 30 days after the date on which the Secretary selects a project for funding under this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes the reasons for selecting the project, based on the criteria described in subsection (f).
 
-#### National Corridor Infrastructure Improvement Program
+&emsp;&emsp;“(B)
 
-Pub. L. 109–59, title I, §1302, Aug. 10, 2005, 119 Stat. 1204, as amended by Pub. L. 110–244, title I, §§101(d), 103(b), June 6, 2008, 122 Stat. 1573, 1578, provided that:
+Inclusions.—The report submitted under subparagraph (A) shall specify each criteria described in subsection (f) that the project meets.
 
-“(a)
+&emsp;&emsp;“(C)
 
-In General.—The Secretary \[of Transportation\] shall establish and implement a program to make allocations to States for highway construction projects in corridors of national significance to promote economic growth and international or interregional trade pursuant to the selection factors provided in this section. A State must submit an application to the Secretary in order to receive an allocation under this section.
+Availability.—The Secretary shall make available on the website of the Department the report submitted under subparagraph (A).
 
-“(b)
+“(l)
 
-Selection Process.—
+Report.—
 
 &emsp;“(1)
 
-Priority.—In the selection process under this section, the Secretary \[of Transportation\] shall give priority to projects in corridors that are a part of, or will be designated as part of, the Dwight D. Eisenhower National System of Interstate and Defense Highways after completion of the work described in the application received by the Secretary and to any project that will be completed within 5 years of the date of the allocation of funds for the project.
+In general.—Not later than 2 years after the date of enactment of the MAP–21 \[deemed to be Oct. 1, 2012\], the Secretary \[of Transportation\] shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate regarding projects of national and regional significance.
 
 &emsp;“(2)
 
-Selection factors.—In making allocations under this section, the Secretary shall consider the following factors:
+Purpose.—The purpose of the report issued under this subsection shall be to identify projects of national and regional significance that—
 
-&emsp;&emsp;“(A) The extent to which the corridor provides a link between two existing segments of the Interstate System.
+&emsp;&emsp;“(A) will significantly improve the performance of the Federal-aid highway system, nationally or regionally;
 
-&emsp;&emsp;“(B) The extent to which the project will facilitate major multistate or regional mobility and economic growth and development in areas underserved by existing highway infrastructure.
+&emsp;&emsp;“(B) is able to—
 
-&emsp;&emsp;“(C) The extent to which commercial vehicle traffic in the corridor—
+&emsp;&emsp;&emsp;“(i) generate national economic benefits that reasonably exceed the costs of the projects, including increased access to jobs, labor, and other critical economic inputs;
 
-&emsp;&emsp;&emsp;“(i) has increased since the date of enactment of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182, Dec. 8, 1993\] (16 U.S.C. 4401 et seq. \[see Tables for classification\]); and
+&emsp;&emsp;&emsp;“(ii) reduce long-term congestion, including impacts in the State, region, and the United States, and increase speed, reliability, and accessibility of the movement of people or freight; and
 
-&emsp;&emsp;&emsp;“(ii) is projected to increase in the future.
+&emsp;&emsp;&emsp;“(iii) improve transportation safety, including reducing transportation accidents, and serious injuries and fatalities; and
 
-&emsp;&emsp;“(D) The extent to which international truck-borne commodities move through the corridor.
+&emsp;&emsp;“(C) can be supported by an acceptable degree of non-Federal financial commitments.
 
-&emsp;&emsp;“(E) The extent to which the project will make improvements to an existing segment of the Interstate System that will result in a decrease in congestion.
+&emsp;“(3)
 
-&emsp;&emsp;“(F) The reduction in commercial and other travel time through a major freight corridor expected as a result of the project.
+Contents.—The report issued under this subsection shall include—
 
-&emsp;&emsp;“(G) The value of the cargo carried by commercial vehicle traffic in the corridor and the economic costs arising from congestion in the corridor.
+&emsp;&emsp;“(A) a comprehensive list of each project of national and regional significance that—
 
-&emsp;&emsp;“(H) The extent of leveraging of Federal funds provided to carry out this section, including—
+&emsp;&emsp;&emsp;“(i) has been complied \[sic\] through a survey of State departments of transportation; and
 
-&emsp;&emsp;&emsp;“(i) use of innovative financing;
+&emsp;&emsp;&emsp;“(ii) has been classified by the Secretary as a project of regional or national significance in accordance with this section;
 
-&emsp;&emsp;&emsp;“(ii) combination with funding provided under other sections of this Act \[see Tables for classification\] and title 23, United States Code; and
+&emsp;&emsp;“(B) an analysis of the information collected under paragraph (1), including a discussion of the factors supporting each classification of a project as a project of regional or national significance; and
 
-&emsp;&emsp;&emsp;“(iii) combination with other sources of Federal, State, local, or private funding.
+&emsp;&emsp;“(C) recommendations on financing for eligible project costs.
 
-“(c)
+“(m)
 
-Applicability of Title 23.—Funds made available by section 1101(a)(10) of this Act \[119 Stat. 1154\] to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall remain available until expended, and the Federal share of the cost of a project under this section shall be determined in accordance with section 120 of such title.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $500,000,000 for fiscal year 2013, to remain available until expended.”
 
-“(d)
+#### National Corridor Infrastructure Improvement Program
 
-State Defined.—In this section, the term ‘State’ has the meaning such term has in section 101(a) of title 23, United States Code.
-
-“(e)
-
-Designated Projects.—\[Omitted.\]”
+Pub. L. 109–59, title I, §1302, Aug. 10, 2005, 119 Stat. 1204, as amended by Pub. L. 110–244, title I, §§101(d), 103(b), June 6, 2008, 122 Stat. 1573, 1578, which related to the National Corridor Infrastructure Improvement Program, was repealed by Pub. L. 112–141, div. A, title I, §1519(b)(2), July 6, 2012, 126 Stat. 575.
 
 #### Delta Region Transportation Development Program
 
@@ -912,7 +1118,7 @@ In General.—The Secretary \[of Transportation\] shall carry out a program in t
 
 “(b)
 
-Eligible Recipients.—A State transportation department or metropolitan planning organization in a Delta Region State may receive and administer funds provided under the program.
+Eligible Recipients.—A State transportation department or metropolitan planning organization in aDelta Region State may receive and administer funds provided under the program.
 
 “(c)
 
@@ -1168,7 +1374,7 @@ Non-federal share.—
 
 &emsp;&emsp;“(A)
 
-In general.—A border State that makes a request under paragraph (1) shall provide directly to the General Services Administration, for each project covered by the request, the non-Federal share of the cost of the project.
+In general.—A border State that makes a request under paragraph (1) shall provide directlyto the General Services Administration, for each project covered by the request, the non-Federal share of the cost of the project.
 
 &emsp;&emsp;“(B)
 
@@ -1466,11 +1672,11 @@ Purpose.—The purpose of this section is to authorize the provision of assistan
 
 “(b)
 
-Priority for Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events.—Notwithstanding any other provision of law, from funds available to carry out sections 118(c) and 144(g)(1) \[now 144(f)(1)\] of title 23, United States Code, the Secretary may give priority to funding for a transportation project relating to an international quadrennial Olympic or Paralympic event, or a Special Olympics International event, if—
+Priority for Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events.—Notwithstanding any other provision of law, from funds available to carry out \[former\] sections 118(c) and 144(g)(1) of title 23, United States Code, the Secretary may give priority to funding for a transportation project relating to an international quadrennial Olympic or Paralympic event, or a Special Olympics International event, if—
 
 &emsp;“(1) the project meets the extraordinary needs associated with an international quadrennial Olympic or Paralympic event or a Special Olympics International event; and
 
-&emsp;“(2) the project is otherwise eligible for assistance under sections 118(c) and 144(g)(1) \[now 144(f)(1)\] of such title.
+&emsp;“(2) the project is otherwise eligible for assistance under \[former\] sections 118(c) and 144(g)(1) of such title.
 
 “(c)
 
@@ -1548,41 +1754,107 @@ Pub. L. 104–59, title III, §359(c), Nov. 28, 1995, 109 Stat. 627, directed Se
 
 #### Disadvantaged Business Enterprises
 
-Pub. L. 111–147, title IV, §451, Mar. 18, 2010, 124 Stat. 96, provided that:
+Pub. L. 112–141, div. A, title I, §1101(b), July 6, 2012, 126 Stat. 414, provided that:
 
-“(a)
+“(1)
 
-Definitions.—In this section, the following definitions apply:
+Findings.—Congress finds that—
 
-&emsp;“(1)
+&emsp;“(A) while significant progress has occurred due to the establishment of the disadvantaged business enterprise program, discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in federally-assisted surface transportation markets across the United States;
 
-Small business concern.—The term ‘small business concern’ has the meaning that term has under section 3 of the Small Business Act (15 U.S.C. 632), except that the term shall not include any concern or group of concerns controlled by the same socially and economically disadvantaged individual or individuals which has average annual gross receipts over the preceding 3 fiscal years in excess of $22,410,000, as adjusted annually by the Secretary of Transportation for inflation.
+&emsp;“(B) the continuing barriers described in subparagraph (A) merit the continuation of the disadvantaged business enterprise program;
 
-&emsp;“(2)
+&emsp;“(C) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits, which show that race- and gender-neutral efforts alone are insufficient to address the problem;
 
-Socially and economically disadvantaged individuals.—The term ‘socially and economically disadvantaged individuals’ has the meaning that term has under section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and relevant subcontracting regulations issued pursuant to that Act \[15 U.S.C. 631 et seq.\], except that women shall be presumed to be socially and economically disadvantaged individuals for purposes of this section.
+&emsp;“(D) the testimony and documentation described in subparagraph (C) demonstrate that discrimination across the United States poses a barrier to full and fair participation in surface transportation-related businesses of women business owners and minority business owners and has impacted firm development and many aspects of surface transportation-related business in the public and private markets; and
 
-“(b)
+&emsp;“(E) the testimony and documentation described in subparagraph (C) provide a strong basis that there is a compelling need for the continuation of the disadvantaged business enterprise program to address race and gender discrimination in surface transportation-related business.
 
-General Rule.—Except to the extent that the Secretary of Transportation determines otherwise, not less than 10 percent of the amounts made available for any program under titles I, III, and V of SAFETEA–LU (Public Law 109–59) \[see Tables for classification\], subtitles A and C of this title \[subtitles A (§§411–414) and C (§§431–437) of title IV of Pub. L. 111–147, amending sections 5305, 5307, 5309, 5311, 5337, and 5338 of Title 49, Transportation, and provisions set out as notes under sections 5309, 5310, and 5338 of Title 49\], and section 403 of title 23, United States Code, shall be expended through small business concerns owned and controlled by socially and economically disadvantaged individuals.
+“(2)
 
-“(c)
+Definitions.—In this subsection, the following definitions apply:
 
-Annual Listing of Disadvantaged Business Enterprises.—Each State shall annually
+&emsp;“(A)
 
-&emsp;“(1) survey and compile a list of the small business concerns referred to in subsection (a) and the location of the concerns in the State; and
+Small business concern.—
 
-&emsp;“(2) notify the Secretary of Transportation, in writing, of the percentage of the concerns that are controlled by women, by socially and economically disadvantaged individuals (other than women), and by individuals who are women and are otherwise socially and economically disadvantaged individuals.
+&emsp;&emsp;“(i)
 
-“(d)
+In general.—The term ‘small business concern’ means a small business concern (as the term is used in section 3 of the Small Business Act (15 U.S.C. 632)).
 
-Uniform Certification.—The Secretary of Transportation shall establish minimum uniform criteria for State governments to use in certifying whether a concern qualifies for purposes of this section. The minimum uniform criteria shall include, but not be limited to, on-site visits, personal interviews, licenses, analysis of stock ownership, listing of equipment, analysis of bonding capacity, listing of work completed, resume of principal owners, financial capacity, and type of work preferred.
+&emsp;&emsp;“(ii)
 
-“(e)
+Exclusions.—The term ‘small business concern’ does not include any concern or group of concerns controlled by the same socially and economically disadvantaged individual or individuals that have average annual gross receipts during the preceding 3 fiscal years in excess of $22,410,000, as adjusted annually by the Secretary \[of Transportation\] for inflation.
 
-Compliance With Court Orders.—Nothing in this section limits the eligibility of an entity or person to receive funds made available under titles I, III, and V of SAFETEA–LU (Public Law 109–59), subtitles A and C of this title, and section 403 of title 23, United States Code, if the entity or person is prevented, in whole or in part, from complying with subsection (b) because a Federal court issues a final order in which the court finds that the requirement of subsection (b), or the program established under subsection (b), is unconstitutional.”
+&emsp;“(B)
+
+Socially and economically disadvantaged individuals.—The term ‘socially and economically disadvantaged individuals’ has the meaning given the term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and relevant subcontracting regulations issued pursuant to that Act \[15 U.S.C. 631 et seq.\], except that women shall be presumed to be socially and economically disadvantaged individuals for purposes of this subsection.
+
+“(3)
+
+Amounts for small business concerns.—Except to the extent that the Secretary determines otherwise, not less than 10 percent of the amounts made available for any program under divisions A and B of this Act \[see Tables for classification\] and section 403 of title 23, United States Code, shall be expended through small business concerns owned and controlled by socially and economically disadvantaged individuals.
+
+“(4)
+
+Annual listing of disadvantaged business enterprises.—Each State shall annually—
+
+&emsp;“(A) survey and compile a list of the small business concerns referred to in paragraph (2) in the State, including the location of the small business concerns in the State; and
+
+&emsp;“(B) notify the Secretary, in writing, of the percentage of the small business concerns that are controlled by—
+
+&emsp;&emsp;“(i) women;
+
+&emsp;&emsp;“(ii) socially and economically disadvantaged individuals (other than women); and
+
+&emsp;&emsp;“(iii) individuals who are women and are otherwise socially and economically disadvantaged individuals.
+
+“(5)
+
+Uniform certification.—
+
+&emsp;“(A)
+
+In general.—The Secretary shall establish minimum uniform criteria for use by State governments in certifying whether a concern qualifies as a small business concern for the purpose of this subsection.
+
+&emsp;“(B)
+
+Inclusions.—The minimum uniform criteria established under subparagraph (A) shall include, with respect to a potential small business concern—
+
+&emsp;&emsp;“(i) on-site visits;
+
+&emsp;&emsp;“(ii) personal interviews with personnel;
+
+&emsp;&emsp;“(iii) issuance or inspection of licenses;
+
+&emsp;&emsp;“(iv) analyses of stock ownership;
+
+&emsp;&emsp;“(v) listings of equipment;
+
+&emsp;&emsp;“(vi) analyses of bonding capacity;
+
+&emsp;&emsp;“(vii) listings of work completed;
+
+&emsp;&emsp;“(viii) examination of the resumes of principal owners;
+
+&emsp;&emsp;“(ix) analyses of financial capacity; and
+
+&emsp;&emsp;“(x) analyses of the type of work preferred.
+
+“(6)
+
+Reporting.—The Secretary shall establish minimum requirements for use by State governments in reporting to the Secretary—
+
+&emsp;“(A) information concerning disadvantaged business enterprise awards, commitments, and achievements; and
+
+&emsp;“(B) such other information as the Secretary \[of Transportation\] determines to be appropriate for the proper monitoring of the disadvantaged business enterprise program.
+
+“(7)
+
+Compliance with court orders.—Nothing in this subsection limits the eligibility of an individual or entity to receive funds made available under divisions A and B of this Act \[see Tables for classification\] and section 403 of title 23, United States Code, if the entity or person is prevented, in whole or in part, from complying with paragraph (2) because a Federal court issues a final order in which the court finds that a requirement or the implementation of paragraph (2) is unconstitutional.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 111–147, title IV, §451, Mar. 18, 2010, 124 Stat. 96.
 
 Pub. L. 109–59, title I, §1101(b), Aug. 10, 2005, 119 Stat. 1156, as amended by Pub. L. 110–244, title I, §101(a), June 6, 2008, 122 Stat. 1573.
 
@@ -1606,7 +1878,7 @@ Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105 Stat. 1992, as amended by
 
 #### Scenic Byways Program
 
-Section 1047 of Pub. L. 102–240, as amended by Pub. L. 105–130, §5(c)(2), Dec. 1, 1997, 111 Stat. 2557, provided that:
+Pub. L. 102–240, title I, §1047, Dec. 18, 1991, 105 Stat. 1996, as amended by Pub. L. 105–130, §5(c)(2), Dec. 1, 1997, 111 Stat. 2557, provided that:
 
 “(a)
 
@@ -1736,7 +2008,7 @@ Eligible projects.—The following are projects which are eligible for Federal a
 
 &emsp;“(4)
 
-Federal share.—The Federal share payable for the costs of carrying out projects and developing programs under this subsection with funds madeavailable pursuant to this subsection shall be 80 percent.
+Federal share.—The Federal share payable for the costs of carrying out projects and developing programs under this subsection with funds made available pursuant to this subsection shall be 80 percent.
 
 &emsp;“(5)
 
@@ -1752,7 +2024,7 @@ Treatment of Scenic Highways in Oregon.—For purposes of this section, a highwa
 
 #### Commemoration of Dwight D. Eisenhower System of Interstate and Defense Highways
 
-Section 6012 of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title VI, §6012, Dec. 18, 1991, 105 Stat. 2180, provided that:
 
 “(a)
 
@@ -1776,21 +2048,21 @@ Pub. L. 100–17, title I, §154, Apr. 2, 1987, 101 Stat. 209, which related to 
 
 #### Eligibility for Federal-Aid Highway Funds of Projects Involving Improvements in Vicinity of Interchanges Necessary To Upgrade Safety of Primary Routes Not on Common Alignment With Interstate Route
 
-Section 128 of Pub. L. 97–424 provided that: “In any case where a project involving a Federal-aid primary route not on the Interstate System, and a route on the Interstate System which was originally constructed without the expenditure of any funds authorized under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], and was subsequently added to the Interstate System, both occupying a common alignment and having elements which have been approved in concept by the Secretary of Transportation as part of a project providing for the upgrading of an interchange on such Interstate route, the cost of improvements in the vicinity of the interchange necessary to upgrade the safety of that part of such Federal-aid primary route not on a common alignment with such Interstate route in an environmentally acceptable manner shall be eligible for the expenditure of funds authorized by such section 108(b).”
+Pub. L. 97–424, title I, §128, Jan. 6, 1983, 96 Stat. 2118, provided that: “In any case where a project involving a Federal-aid primary route not on the Interstate System, and a route on the Interstate System which was originally constructed without the expenditure of any funds authorized under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], and was subsequently added to the Interstate System, both occupying a common alignment and having elements which have been approved in concept by the Secretary of Transportation as part of a project providing for the upgrading of an interchange on such Interstate route, the cost of improvements in the vicinity of the interchange necessary to upgrade the safety of that part of such Federal-aid primary route not on a common alignment with such Interstate route in an environmentally acceptable manner shall be eligible for the expenditure of funds authorized by such section 108(b).”
 
 #### Study of Future Transportation Professional Manpower Needs; Report
 
-Section 135 of Pub. L. 97–424 provided that: “The Secretary of Transportation shall undertake to enter into appropriate arrangements with the National Academy of Sciences’ Transportation Research Board to conduct a comprehensive study and investigation of future transportation professional manpower needs, including but not limited to prevailing methods of recruitment, training, and financial and other incentives and disincentives which encourage or discourage retention in service of such professional manpower by Federal, State, and local governments. In entering into any arrangement with the National Academy of Sciences for conducting such study and investigation, the Secretary shall request the National Academy of Sciences to report to the Secretary and the Congress not later than two years after the enactment of this Act \[Jan. 6, 1983\] on the results of such study and investigation, together with its recommendations. The Secretary shall furnish to the Academy at its request any information which the Academy deems necessary for the purpose of conducting the study and investigation authorized by this section.”
+Pub. L. 97–424, title I, §135, Jan. 6, 1983, 96 Stat. 2125, provided that: “The Secretary of Transportation shall undertake to enter into appropriate arrangements with the National Academy of Sciences’ Transportation Research Board to conduct a comprehensive study and investigation of future transportation professional manpower needs, including but not limited to prevailing methods of recruitment, training, and financial and other incentives and disincentives which encourage or discourage retention in service of such professional manpower by Federal, State, and local governments. In entering into any arrangement with the National Academy of Sciences for conducting such study and investigation, the Secretary shall request the National Academy of Sciences to report to the Secretary and the Congress not later than two years after the enactment of this Act \[Jan. 6, 1983\] on the results of such study and investigation, together with its recommendations. The Secretary shall furnish to the Academy at its request any information which the Academy deems necessary for the purpose of conducting the study and investigation authorized by this section.”
 
 #### Change in Location of Interstate Segments
 
-Section 139 of Pub. L. 97–424, as amended by Pub. L. 100–457, title III, §348, Sept. 30, 1988, 102 Stat. 2156, provided that:
+Pub. L. 97–424, title I, §139, Jan. 6, 1983, 96 Stat. 2127, as amended by Pub. L. 100–457, title III, §348, Sept. 30, 1988, 102 Stat. 2156, provided that:
 
-“(a) Notwithstanding the provisions of section 4(b) of the Federal-Aid Highway Act of 1981 \[section 4(b) of Pub. L. 97–134, which amended section 108(b) of the Federal-Aid Highway Act of 1956, set out as a note under this section\] the Secretary of Transportation may approve a change in location of any Interstate route or segment and approve, in lieu thereof, the construction of such Interstate route or segment on a new location if the original location of such route or segment meets the following criteria: (1) it has been designated under section 103(e) of title 23, United States Code; (2) it is serving Interstate travel as of the date of enactment of this section \[Jan. 6, 1983\]; (3) it requires improvements which are eligible under the Federal-Aid Highway Act of 1981 \[see Short Title of 1981 Amendments note above\] and which would either involve major modifications in order to meet acceptable standards or result in severe environmental impacts and such major modifications or mitigation measures relating to the environmental impacts are not cost effective. The cost of the construction of such Interstate route or segment on new location with funds available under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], shall not exceed the estimated cost of the eligible improvements on the original location as eligible under the Federal-Aid Highway Act of 1981 and included in the 1983 interstate cost estimate as approved by the Congress. Such cost shall be increased or decreased, as determined by the Secretary, based on changes in construction costs of the original location of the route or segment as of the date of approval of each project on the new location. Upon approval of a new location, and funds apportioned under section 104(b)(5)(A) of title 23, United States Code, which were expended on the route or segment in the original location shall be refunded to the Highway Trust Fund and credited to the unobligated balance of the State's apportionment made under section 104(b)(5)(A) of title 23, United States Code, and other eligible Federal-aid highway funds may be substituted in lieu thereof at the appropriate Federal share.
+“(a) Notwithstanding the provisions of section 4(b) of the Federal-Aid Highway Act of 1981 \[section 4(b) of Pub. L. 97–134, which amended section 108(b) of the Federal-Aid Highway Act of 1956, set out as a note under this section\] the Secretary of Transportation may approve a change in location of any Interstate route or segment and approve, in lieu thereof, the construction of such Interstate route or segment on a new location if the original location of such route or segment meets the following criteria: (1) it has been designated under \[former\] section 103(e) of title 23, United States Code; (2) it is serving Interstate travel as of the date of enactment of this section \[Jan. 6, 1983\]; (3) it requires improvements which are eligible under the Federal-Aid Highway Act of 1981 \[see Short Title of 1981 Amendment note above\] and which would either involve major modifications in order to meet acceptable standards or result in severe environmental impacts and such major modifications or mitigation measures relating to the environmental impacts are not cost effective. The cost of the construction of such Interstate route or segment on new location with funds available under section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], shall not exceed the estimated cost of the eligible improvements on the original location as eligible under the Federal-Aid Highway Act of 1981 and included in the 1983 interstate cost estimate as approved by the Congress. Such cost shall be increased or decreased, as determined by the Secretary, based on changes in construction costs of the original location of the route or segment as of the date of approval of each project on the new location. Upon approval of a new location, and funds apportioned under \[former\] section 104(b)(5)(A) of title 23, United States Code, which were expended on the route or segment in the original location shall be refunded to the Highway Trust Fund and credited to the unobligated balance of the State's apportionment made under \[former\] section 104(b)(5)(A) of title 23, United States Code, and other eligible Federal-aid highway funds may be substituted in lieu thereof at the appropriate Federal share.
 
-“(b) Where the Secretary of Transportation approves a relocation of an Interstate route or segment under the provisions of subsection (a) of this section, such route or segment shall not be eligible for withdrawal under the provisions of section 103(e)(4) of title 23, United States Code, and shall be subject to the Interstate System completion deadlines provided in subsections (d) and (e) of section 107 of the Surface Transportation Assistance Act of 1978 \[section 107(d), (e) of Pub. L. 95–599, set out as a note under section 103 of this title\] or subject to Interstate System completion deadlines as may be determined by Congress.
+“(b) Where the Secretary of Transportation approves a relocation of an Interstate route or segment under the provisions of subsection (a) of this section, such route or segment shall not be eligible for withdrawal under the provisions of \[former\] section 103(e)(4) of title 23, United States Code, and shall be subject to the Interstate System completion deadlines provided in subsections (d) and (e) of section 107 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599, formerly set out as notes under section 103 of this title\] or subject to Interstate System completion deadlines as may be determined by Congress.
 
-“(c) Notwithstanding any other provision of this section or of any other provision of law, any project involving the relocation of any Interstate route or segment that is approved by the Secretary of Transportation under subsection (a) shall be eligible for discretionary funds made available under section 118(b)(2)(B) of title 23, United States Code.”
+“(c) Notwithstanding any other provision of this section or of any other provision of law, any project involving the relocation of any Interstate route or segment that is approved by the Secretary of Transportation under subsection (a) shall be eligible for discretionary funds made available under \[former\] section 118(b)(2)(B) of title 23, United States Code.”
 
 #### Buy America
 
@@ -1802,31 +2074,31 @@ Pub. L. 95–599, title IV, §401, Nov. 6, 1978, 92 Stat. 2756, as amended by Pu
 
 #### Intercity Portions of Interstate System; Construction of Projects; Report to Congress; Exemption
 
-Section 102(b) of Pub. L. 94–280 provided that at least 30 percent of the apportionment made to each State for each of the fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, of the sums authorized in section 102(a) of Pub. L. 94–280 be expended by such State for projects for the construction of intercity portions which would close essential gaps in the Interstate System and provide a continuous System; that the Secretary of Transportation report to Congress before Oct. 1, 1976, on those intercity portions of the Interstate System the construction of which would be needed to close essential gaps in the System; and that a State which did not have sufficient projects to meet the 30 percent requirement would, upon approval of the Secretary of Transportation, be exempt from the requirement to the extent of such inability.
+Pub. L. 94–280, title I, §102(b), May 5, 1976, 90 Stat. 425, provided that at least 30 percent of the apportionment made to each State for each of the fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, of the sums authorized in section 102(a) of Pub. L. 94–280 be expended by such State for projects for the construction of intercity portions which would close essential gaps in the Interstate System and provide a continuous System; that the Secretary of Transportation report to Congress before Oct. 1, 1976, on those intercity portions of the Interstate System the construction of which would be needed to close essential gaps in the System; and that a State which did not have sufficient projects to meet the 30 percent requirement would, upon approval of the Secretary of Transportation, be exempt from the requirement to the extent of such inability.
 
 #### Interstate System; Prohibition of Obligation of Funds for Resurfacing, Restoration, or Rehabilitation Projects
 
-Section 102(c) of Pub. L. 94–280 provided that no part of the funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], for the Interstate System, shall be obligated for any project for resurfacing, restoring, or rehabilitating any portion of the Interstate System.
+Pub. L. 94–280, title I, §102(c), May 5, 1976, 90 Stat. 426, provided that no part of the funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out as a note below\], for the Interstate System, shall be obligated for any project for resurfacing, restoring, or rehabilitating any portion of the Interstate System.
 
 #### Interstate Funding Study; Report and Recommendations to Congress
 
-Section 150 of Pub. L. 94–280 directed Secretary of Transportation to undertake a complete study of the financing of completion of the Interstate Highway System and report to Congress within nine months the results of the study, and to submit to Congress within one year his recommendations regarding the need to provide Federal financial assistance for resurfacing, restoration, and rehabilitation of routes of the System together with results of a study of alternative means of assuring that the high level of transportation service provided by the System is maintained.
+Pub. L. 94–280, title I, §150, May 5, 1976, 90 Stat. 447, directed Secretary of Transportation to undertake a complete study of the financing of completion of the Interstate Highway System and report to Congress within nine months the results of the study, and to submit to Congress within one year his recommendations regarding the need to provide Federal financial assistance for resurfacing, restoration, and rehabilitation of routes of the System together with results of a study of alternative means of assuring that the high level of transportation service provided by the System is maintained.
 
 #### Study of Highway Needs To Solve Energy Problems; Investigation and Study; Report to Congress
 
-Section 153 of Pub. L. 94–280 directed Secretary of Transportation to make an investigation and study for the purpose of determining the need for special Federal assistance in the construction or reconstruction of highways on the Federal-aid system necessary for the transportation of coal or other uses in order to promote the solution of the Nation's energy problems; that such study include appropriate consultations with the Secretary of the Interior, the Administrator of the Federal Energy Administration, and other appropriate Federal and State officials; that the Secretary report the results of such investigation and study together with his recommendations, to the Congress not later than one year after May 5, 1976; and that, in order to carry out the study, the Secretary use such funds as were available to him for such purposes under section 104(a) of this title.
+Pub. L. 94–280, title I, §153, May 5, 1976, 90 Stat. 448, directed Secretary of Transportation to make an investigation and study for the purpose of determining the need for special Federal assistance in the construction or reconstruction of highways on the Federal-aid system necessary for the transportation of coal or other uses in order to promote the solution of the Nation's energy problems; that such study include appropriate consultations with the Secretary of the Interior, theAdministrator of the Federal Energy Administration, and other appropriate Federal and State officials; that the Secretary report the results of such investigation and study together with his recommendations, to the Congress not later than one year after May 5, 1976; and that, in order to carry out the study, the Secretary use such funds as were available to him for such purposes under section 104(a) of this title.
 
 #### National Transportation Policy Study Commission; Establishment; Termination; Etc.
 
-Section 154 of Pub. L. 94–280, as amended by Pub. L. 95–599, title I, §137(a), (b)(1), Nov. 6, 1978, 92 Stat. 2710, established National Transportation Policy Study Commission; directed Commission, not later than July 1, 1979, to make an investigation and study and report to the President and Congress on the transportation needs and the resources, requirements, and policies of the United States to meet such expected needs; and provided for the Commission to terminate six months after the report.
+Pub. L. 94–280, title I, §154, May 5, 1976, 90 Stat. 448, as amended by Pub. L. 95–599, title I, §137(a), (b)(1), Nov. 6, 1978, 92 Stat. 2710, established National Transportation Policy Study Commission; directed Commission, not later than July 1, 1979, to make an investigation and study and report to the President and Congress on the transportation needs and the resources, requirements, and policies of the United States to meet such expected needs; and provided for the Commission to terminate six months after the report.
 
 #### Consent of Governing Body for Expenditure of Funds
 
-Section 102(d) of Pub. L. 93–643 provided that no funds appropriated under the expanded definition of this section \[23 U.S.C. 101(a)\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.”
+Pub. L. 93–643, §102(d), Jan. 4, 1975, 88 Stat. 2282, provided that no funds appropriated under the expanded definition of this section \[23 U.S.C. 101(a)\] shall be expended without the formal consent of the governing body of the tribe band or group of Indians or Alaskan Natives for whose use the Indian reservation roads and bridges are intended.
 
 #### Carpool Demonstration Projects in Urban Areas; Appropriations Authorization
 
-Section 120(b) of Pub. L. 93–643, relating to grants for demonstration projects designed to encourage the use of carpools in urban areas, was repealed by Pub. L. 95–599, title I, §126(b), Nov. 6, 1978, 92 Stat. 2706. See section 146 of this title.
+Pub. L. 93–643, §120(b), Jan. 4, 1975, 88 Stat. 2289, relating to grants for demonstration projects designed to encourage the use of carpools in urban areas, was repealed by Pub. L. 95–599, title I, §126(b), Nov. 6, 1978, 92 Stat. 2706. See section 146 of this title.
 
 #### Emergency Highway Energy Conservation
 
@@ -1846,7 +2118,7 @@ Section 4 of Pub. L. 93–239 amended section 601(d) of Federal Aviation Act of 
 
 #### Future Highway Needs: Reports to Congress
 
-Section 121 of Pub. L. 91–605 provided that:
+Pub. L. 91–605, title I, §121, Dec. 31, 1970, 84 Stat. 1725, provided that:
 
 “(a) The Secretary of Transportation shall develop and include in the report of Congress required to be submitted in January 1972, by section 3 of the Act of August 28, 1965 (79 Stat. 578; Public Law 89–139) \[set out below\], specific recommendations for the functional realinement of the Federal-aid systems. These recommendations shall be based on the functional classification study made in cooperation with the State highway departments and local governments as required by the Federal-Aid Highway Act of 1968 \[see section 17 of Pub. L. 90–495, set out as a note below\] and submitted to the Congress in 1970, and the functional classification study now underway of the Federal-aid systems in 1990.
 
@@ -1866,15 +2138,27 @@ Pub. L. 89–574, §13, Sept. 13, 1966, 80 Stat. 770, as amended by Pub. L. 97�
 
 #### Report and Recommendations of Secretary of Commerce
 
-Section 5 of Pub. L. 85–767 directed Secretary of Commerce to submit to Congress not later than Feb. 1, 1959, a report on progress made in attaining objectives set forth in this section, together with recommendations.
+Pub. L. 85–767, §5, Aug. 27, 1958, 72 Stat. 921, directed Secretary of Commerce to submit to Congress not later than Feb. 1, 1959, a report on progress made in attaining objectives set forth in this section, together with recommendations.
 
 #### Section 108(b) of the Federal-Aid Highway Act of 1956
 
-Section 108(b) of act June 29, 1956, ch. 462, title I, 70 Stat. 378, as amended by Pub. L. 85–381, §7(a), Apr. 16, 1958, 72 Stat. 93; Pub. L. 86–342, title I, §102, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–61, title I §103, June 29, 1961, 75 Stat. 122; Pub. L. 89–139, §1, Aug. 28, 1965, 79 Stat. 578; Pub. L. 89–574, §2, Sept. 13, 1966, 80 Stat. 766; Pub. L. 90–495, §2, Aug. 23, 1968, 82 Stat. 815; Pub. L. 91–605 title I, §§102, 106(b)(1), Dec. 31, 1970, 84 Stat. 1714, 1716; Pub. L. 93–87, title I, §102, Aug. 13, 1973, 87 Stat. 250; Pub. L. 94–280, title I, §102(a), May 5, 1976, 90 Stat. 425; Pub. L. 95–599, title I, §102, Nov. 6, 1978, 92 Stat. 2689; Pub. L. 97–134, §4(a), (b), Dec. 29, 1981, 95 Stat. 1700; Pub. L. 97–327, §2, Oct. 15, 1982, 96 Stat. 1611; Pub. L. 97–424, title I, §§102, 127(a), Jan. 6, 1983, 96 Stat. 2097, 2117; Pub. L. 100–17, title I, §§104, 138, Apr. 2, 1987, 101 Stat. 142, 175; Pub. L. 102–240, title I, §1001(f), Dec. 18, 1991, 105 Stat. 1916; Pub. L. 103–331, title III, §335(c), Sept. 30, 1994, 108 Stat. 2494, provided that: “For the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with the provisions of subsection (e) of section 103 of title 23, United States Code, there is hereby authorized to be appropriated the additional sum of $1,000,000,000 for the fiscal year ending June 30, 1957, which sum shall be in addition to the authorization heretofore made for that year, the additional sum of $1,700,000,000 for the fiscal year ending June 30, 1958, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1959, the additional sum of $2,500,000,000 for the fiscal year ending June 30, 1960, the additional sum of $1,800,000,000 for the fiscal year ending June 30, 1961, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1962, the additional sum of $2,400,000,000 for the fiscal year ending June 30, 1963, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1964, the additional sum of $2,700,000,000 for the fiscal year ending June 30, 1965, the additional sum of $2,800,000,000 for the fiscal year ending June 30, 1966, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1967, the additional sum of $3,400,000,000 for the fiscal year ending June 30, 1968, the additional sum of $3,800,000,000 for the fiscal year ending June 30, 1969, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1970, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1971, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1972, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1973, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1974, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1975, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1976, the additional sum of $3,250,000,000 for the fiscal year ending June 30, 1977, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1978, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1979, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1980, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1981, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1982, the additional sum of $3,100,000,000 for the fiscal year ending September 30, 1983, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1984, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1985, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1986, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1987, the additional sum of $3,000,000,000 for the fiscal year ending September 30, 1988, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1989, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1990, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1991, the additional sum of $3,150,000,000 for the fiscal year ending September 30,1992, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1993, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1994, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1995, and the additional sum of $1,800,000,000, reduced by the amount made available under section 1045(b)(1)(B) of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, as amended by Pub. L. 103–331, title III, §335(a), Sept. 30, 1994, 108 Stat. 2494, which is not classified to the Code\], for the fiscal year ending September 30, 1996. Nothing in this subsection shall be construed to authorize the appropriation of any sums to carry out sections 131, 136, or 319(b) of title 23, United States Code, or any provision of law relating to highway safety enacted after May 1, 1966. Beginning with funds authorized to be appropriated for fiscal year 1980, no such funds shall be available for projects to expand or clear zones immediately adjacent to the paved roadway of routes designed prior to February, 1967. Effective on and after the date of enactment of this sentence \[Dec. 29, 1981\], the obligation of funds authorized by this subsection, except for advance construction interstate projects approved before the date of enactment of this sentence, shall be limited to the construction necessary to provide a minimum level of acceptable service on the Interstate System which shall consist of (1) full access control; (2) a pavement design to accommodate the types and volumes of traffic anticipated for the twenty-year period from date of authorization of the initial basic construction contract; (3) essential environmental requirements; (4) a design of not more than six lanes (exclusive of high occupancy vehicle lanes) in rural areas and all urbanized areas under four hundred thousand population, and up to eight lanes (exclusive of high occupancy vehicle lanes) in urbanized areas of four hundred thousand population or more as shown in the 1980 Federal census; and (5) those high occupancy vehicle lanes (including approaches and all directly related facilities) included in the interstate cost estimate for fiscal year 1981. The obligation of funds authorized by this subsection shall be further limited to the actual costs of only those design concepts, locations, geometrics, and other construction features included in the 1981 interstate cost estimate, except in any case where the Secretary of Transportation determines that a provision of Federal law requires a different design, location, geometric, or other construction feature of a type authorized by this subsection. Notwithstanding any other provision of law, including any other provision of this subsection, where a project is to be constructed (1) to provide parking garage ramps in conjunction with high occupancy vehicle lanes which flow into a distributor system emptying directly into ramps for off-street parking with preferential parking for carpools, vanpools, and buses and the ramps are part of an environmental mitigation effort and are designed to feed into an aerial walkway system, or (2) to provide a parking lot near the terminus of an Interstate System spur route which radiates from an Interstate System beltway which will be used as an intermodal transfer facility for a light rail transit project to be constructed in the median of the spur route and the parking lot is part of an environmental mitigation effort, or (3) to provide a parking garage and associated facilities as part of an intermodal transfer facility with a transit system near or within an Interstate System route right-of-way which will have direct and indirect access to the facility by way of local streets and the parking garage and associated facilities are part of an environmental mitigation effort, or (4) to provide for the comprehensive upgrading of existing high occupancy vehicle lanes, new ramps and parking facilities at mass transit intermodal transfer points on an existing Interstate System route which has temporary high occupancy vehicle lanes in the median and the parking facilities and ramps are part of an environmental mitigation effort, the costs of such parking garage ramps, parking lots, parking garages, associated interchange ramps, high occupancy vehicle lanes, and other associated work eligible under title 23, United States Code, shall be eligible for funds authorized by this subsection as if the costs for these projects were included in the 1981 interstate cost estimate and shall be included as eligible projects in any future interstate cost estimate. For purposes of this subsection, construction necessary to provide a minimum level of acceptable service on the Interstate System shall include, but not be limited to, any construction on the Interstate System which is required under a court order issued before the date of enactment of this sentence. Notwithstanding the fifth sentence of this subsection, the costs of a project which will upgrade an interstate route and will complete a gap on the Interstate System providing access to an international airport and which was described as the preferred alternative in a final environmental impact statement submitted to the Secretary of Transportation on September 30, 1983, shall be eligible for funds authorized by this subsection as if such costs were included in the 1981 interstate cost estimate and shall be included as eligible costs in any future interstate cost estimate, except that (1) such costs may be further developed in the design and environmental process under normal Federal-aid interstate procedures, and (2) the amount of such costs shall not include the portion of the project between High Street and Causeway Street.”
+Act June 29, 1956, ch. 462, title I, §108(b), 70 Stat. 378, as amended by Pub. L. 85–381, §7(a), Apr. 16, 1958, 72 Stat. 93; Pub. L. 86–342, title I, §102, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–61, title I §103, June 29, 1961, 75 Stat. 122; Pub. L. 89–139, §1, Aug. 28, 1965, 79 Stat. 578; Pub. L. 89–574, §2, Sept. 13, 1966, 80 Stat. 766; Pub. L. 90–495, §2, Aug. 23, 1968, 82 Stat. 815; Pub. L. 91–605 title I, §§102, 106(b)(1), Dec. 31, 1970, 84 Stat. 1714, 1716; Pub. L. 93–87, title I, §102, Aug. 13, 1973, 87 Stat. 250; Pub. L. 94–280, title I, §102(a), May 5, 1976, 90 Stat. 425; Pub. L. 95–599, title I, §102, Nov. 6, 1978, 92 Stat. 2689; Pub. L. 97–134, §4(a), (b), Dec. 29, 1981, 95 Stat. 1700; Pub. L. 97–327, §2, Oct. 15, 1982, 96 Stat. 1611; Pub. L. 97–424, title I, §§102, 127(a), Jan. 6, 1983, 96 Stat. 2097, 2117; Pub. L. 100–17, title I, §§104, 138, Apr. 2, 1987, 101 Stat. 142, 175; Pub. L. 102–240, title I, §1001(f), Dec. 18, 1991, 105 Stat. 1916; Pub. L. 103–331, title III, §335(c), Sept. 30, 1994, 108Stat. 2494, provided that: “For the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with the provisions of \[former\] subsection (e) of section 103 of title 23, United States Code, there is hereby authorized to be appropriated the additional sum of $1,000,000,000 for the fiscal year ending June 30, 1957, which sum shall be in addition to the authorization heretofore made for that year, the additional sum of $1,700,000,000 for the fiscal year ending June 30, 1958, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1959, the additional sum of $2,500,000,000 for the fiscal year ending June 30, 1960, the additional sum of $1,800,000,000 for the fiscal year ending June 30, 1961, the additional sum of $2,200,000,000 for the fiscal year ending June 30, 1962, the additional sum of $2,400,000,000 for the fiscal year ending June 30, 1963, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1964, the additional sum of $2,700,000,000 for the fiscal year ending June 30, 1965, the additional sum of $2,800,000,000 for the fiscal year ending June 30, 1966, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1967, the additional sum of $3,400,000,000 for the fiscal year ending June 30, 1968, the additional sum of $3,800,000,000 for the fiscal year ending June 30, 1969, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1970, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1971, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1972, the additional sum of $4,000,000,000 for the fiscal year ending June 30, 1973, the additional sum of $2,600,000,000 for the fiscal year ending June 30, 1974, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1975, the additional sum of $3,000,000,000 for the fiscal year ending June 30, 1976, the additional sum of $3,250,000,000 for the fiscal year ending June 30, 1977, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1978, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1979, the additional sum of $3,250,000,000 for the fiscal year ending September 30, 1980, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1981, the additional sum of $3,500,000,000 for the fiscal year ending September 30, 1982, the additional sum of $3,100,000,000 for the fiscal year ending September 30, 1983, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1984, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1985, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1986, the additional sum of $4,000,000,000 for the fiscal year ending September 30, 1987, the additional sum of $3,000,000,000 for the fiscal year ending September 30, 1988, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1989, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1990, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1991, the additional sum of $3,150,000,000 for the fiscal year ending September 30, 1992, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1993, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1994, the additional sum of $1,800,000,000 for the fiscal year ending September 30, 1995, and the additional sum of $1,800,000,000, reduced by the amount made available under section 1045(b)(1)(B) of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, as amended by Pub. L. 103–331, title III, §335(a), Sept. 30, 1994, 108 Stat. 2494, which is not classified to the Code\], for the fiscal year ending September 30, 1996. Nothing in this subsection shall be construed to authorize the appropriation of any sums to carry out sections 131, 136, or 319(b) of title 23, United States Code, or any provision of law relating to highway safety enacted after May 1, 1966. Beginning with funds authorized to be appropriated for fiscal year 1980, no such funds shall be available for projects to expand or clear zones immediately adjacent to the paved roadway of routes designed prior to February, 1967. Effective on and after the date of enactment of this sentence \[Dec. 29, 1981\], the obligation of funds authorized by this subsection, except for advance construction interstate projects approved before the date of enactment of this sentence, shall be limited to the construction necessary to provide a minimum level of acceptable service on the Interstate System which shall consist of (1) full access control; (2) a pavement design to accommodate the types and volumes of traffic anticipated for the twenty-year period from date of authorization of the initial basic construction contract; (3) essential environmental requirements; (4) a design of not more than six lanes (exclusive of high occupancy vehicle lanes) in rural areas and all urbanized areas under four hundred thousand population, and up to eight lanes (exclusive of high occupancy vehicle lanes) in urbanized areas of four hundred thousand population or more as shown in the 1980 Federal census; and (5) those high occupancy vehicle lanes (including approaches and all directly related facilities) included in the interstate cost estimate for fiscal year 1981. The obligation of funds authorized by this subsection shall be further limited to the actual costs of only those design concepts, locations, geometrics, and other construction features included in the 1981 interstate cost estimate, except in any case where the Secretary of Transportation determines that a provision of Federal law requires a different design, location, geometric, or other construction feature of a type authorized by this subsection. Notwithstanding any other provision of law, including any other provision of this subsection, where a project is to be constructed (1) to provide parking garage ramps in conjunction with high occupancy vehicle lanes which flow into a distributor system emptying directly into ramps for off-street parking with preferential parking for carpools, vanpools, and buses and the ramps are part of an environmental mitigation effort and are designed to feed into an aerial walkway system, or (2) to provide a parking lot near the terminus of an Interstate System spur route which radiates from an Interstate System beltway which will be used as an intermodal transfer facility for a light rail transit project to be constructed in the median of the spur route and the parking lot is part of an environmental mitigation effort, or (3) to provide a parking garage and associated facilities as part of an intermodal transfer facility with a transit system near or within an Interstate System route right-of-way which will have direct and indirect access to the facility by way of local streets and the parking garage and associated facilities are part of an environmental mitigation effort, or (4) to provide for the comprehensive upgrading of existing high occupancy vehicle lanes, new ramps and parking facilities at mass transit intermodal transfer points on an existing Interstate System route which has temporary high occupancy vehicle lanes in the median and the parking facilities and ramps are part of an environmental mitigation effort, the costs of such parking garage ramps, parking lots, parking garages, associated interchange ramps, high occupancy vehicle lanes, and other associated work eligible under title 23, United States Code, shall be eligible for funds authorized by this subsection as if the costs for these projects were included in the 1981 interstate cost estimate and shall be included as eligible projects in any future interstate cost estimate. For purposes of this subsection, construction necessary to provide a minimum level of acceptable service on the Interstate System shall include, but not be limited to, any construction on the Interstate System which is required under a court order issued before the date of enactment of this sentence. Notwithstanding the fifth sentence of this subsection, the costs of a project which will upgrade an interstate route and will complete a gap on the Interstate System providing access to an international airport and which was described as the preferred alternative in a final environmental impact statement submitted to the Secretary of Transportation on September 30, 1983, shall be eligible for funds authorized by this subsection as if such costs were included in the 1981 interstate cost estimate and shall beincluded as eligible costs in any future interstate cost estimate, except that (1) such costs may be further developed in the design and environmental process under normal Federal-aid interstate procedures, and (2) the amount of such costs shall not include the portion of the project between High Street and Causeway Street.”
 
-Section 127(b) of Pub. L. 97–424 provided that: “Notwithstanding the provisions of section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out above\], the Secretary of Transportation may approve the expenditure of funds authorized under such section for the construction of a previously approved project which provides for improvements to and reconstruction of ramps and service roads which are being developed as part of a roadway system to relieve a severely congested segment on an Interstate route. Such expenditures shall be limited (1) to work necessary to provide more effective and safe operation of such Interstate route, and (2) to a section of an Interstate route which proceeded to construction contract prior to the date of enactment of such Act and which Interstate route, together with service roads, was constructed without the expenditure of any funds authorized by such section.”
+Pub. L. 97–424, title I, §127(b), Jan. 6, 1983, 96 Stat. 2118, provided that: “Notwithstanding the provisions of section 108(b) of the Federal-Aid Highway Act of 1956, as amended \[set out above\], the Secretary of Transportation may approve the expenditure of funds authorized under such section for the construction of a previously approved project which provides for improvements to and reconstruction of ramps and service roads which are being developed as part of a roadway system to relieve a severely congested segment on an Interstate route. Such expenditures shall be limited (1) to work necessary to provide more effective and safe operation of such Interstate route, and (2) to a section of an Interstate route which proceeded to construction contract prior to the date of enactment of such Act and which Interstate route, together with service roads, was constructed without the expenditure of any funds authorized by such section.”
 
 #### Definitions of “Department”, “Interstate System”, “Secretary”, and “State” for Purposes of Certain Acts
+
+Pub. L. 112–141, §2, July 6, 2012, 126 Stat. 413, provided that: “In this Act \[see Tables for classification\], the following definitions apply:
+
+&emsp;“(1)
+
+Department.—The term ‘Department’ means the Department of Transportation.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
+
+Pub. L. 112–141, div. C, title I, §31002, July 6, 2012, 126 Stat. 732, provided that: “In this title \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 
 Pub. L. 109–59, §2, Aug. 10, 2005, 119 Stat. 1153, provided that: “In this Act \[see Tables for classification\], the following definitions apply:
 
@@ -1886,7 +2170,7 @@ Department.—The term ‘Department’ means the Department of Transportation.
 
 Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
-Pub. L. 109–59, title I, §1120(c), Aug. 10, 2005, 119 Stat. 1192, provided that: “For the purposes of apportioning funds under sections 104, 105, 130, 144, and 206 of title 23, United States Code, and section 1404 \[set out as a note under section 402 of this title\], relating to the safe routes to school program, the term ‘State’ means any of the 50 States and the District of Columbia.”
+Pub. L. 109–59, title I, §1120(c), Aug. 10, 2005, 119 Stat. 1192, provided that: “For the purposes of apportioning funds under sections 104, \[former\] 105, 130, \[former\] 144, and 206 of title 23, United States Code, and section 1404 \[set out as a note under section 402 of this title\], relating to the safe routes to school program, the term ‘State’ means any of the 50 States and the District of Columbia.”
 
 Pub. L. 105–178, §2, June 9, 1998, 112 Stat. 111, provided that: “In this Act \[see Tables for classification\], the following definitions apply:
 
@@ -1898,13 +2182,11 @@ Interstate system.—The term ‘Interstate System’ has the meaning such term 
 
 Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
-Pub. L. 105–178, title I, §1103(n), June 9, 1998, 112 Stat. 127, as amended by Pub. L. 105–206, title IX, §9002(c)(2), July 22, 1998, 112 Stat. 835, provided that: “For the purposes of apportioning funds under sections 104, 105, 144, and 206 of title 23, United States Code, the term ‘State’ means any of the 50 States and the District of Columbia.”
+Pub. L. 105–178, title I, §1103(n), June 9, 1998, 112 Stat. 127, as amended by Pub. L. 105–206, title IX, §9002(c)(2), July 22, 1998, 112 Stat. 835, provided that: “For the purposes of apportioning funds under sections 104, \[former\] 105, \[former\] 144, and 206 of title 23, United States Code, the term ‘State’ means any of the 50 States and the District of Columbia.”
 
-Section 2 of Pub. L. 104–59 provided that: “In this Act \[See Short Title of 1995 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
+Pub. L. 104–59, §2, Nov. 28, 1995, 109 Stat. 569, provided that: “In this Act \[See Short Title of 1995 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-Section 2 of Pub. L. 100–17 provided that: “As used in this Act \[see Short Title of 1987 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
+Pub. L. 100–17, §2, Apr. 2, 1987, 101 Stat. 134, provided that: “As used in this Act \[see Short Title of 1987 Amendment note above\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Defense Highways,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Defense Highways,”.</i>
 

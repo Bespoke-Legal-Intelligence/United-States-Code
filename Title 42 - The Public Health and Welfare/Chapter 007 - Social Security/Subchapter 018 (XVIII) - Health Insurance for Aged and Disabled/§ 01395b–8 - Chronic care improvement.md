@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) providing an entitlement to participate in a chronic care improvement program under this section;
 
-&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395<i>oo</i> of this title, or otherwise, with respect to a chronic care improvement program under this section; or
+&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395oo of this title, or otherwise, with respect to a chronic care improvement program under this section; or
 
 &emsp;&emsp;(D) providing benefits under a chronic care improvement program for which a claim may be submitted to the Secretary by any provider of services or supplier (as defined in section 1395x(d) of this title).
 

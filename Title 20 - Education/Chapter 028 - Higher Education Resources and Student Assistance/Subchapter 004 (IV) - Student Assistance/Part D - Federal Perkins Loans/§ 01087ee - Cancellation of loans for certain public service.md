@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) an elementary school or secondary school that is eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\]; or
 
-&emsp;&emsp;(ii) a public library that serves a geographic area that contains one or more schools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
+&emsp;&emsp;(ii) a public library that serves a geographic area that contains one or moreschools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
 
 &emsp;(M) as a full-time speech language pathologist, if the pathologist has a masters degree and is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
@@ -94,7 +94,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 
 The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended,which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
@@ -106,7 +106,7 @@ Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if in
 
 #### Prior Provisions
 
-A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -188,9 +188,9 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 #### Effective Date of 1990 Amendments
 
-Section 2101(c) of Pub. L. 101–647 provided that: “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
+Pub. L. 101–647, title XXI, §2101(c), Nov. 29, 1990, 104 Stat. 4856, provided that: “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
 
-Section 1001 of Pub. L. 101–476 provided that: “The amendments made by this Act \[see Short Title of 1990Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
+Pub. L. 101–476, title X, §1001, Oct. 30, 1990, 104 Stat. 1151, provided that: “The amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 1400 of this title\] shall take effect October 1, 1990.”
 
 #### Effective Date of 1987 Amendment
 

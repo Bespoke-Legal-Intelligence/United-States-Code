@@ -5,7 +5,7 @@
 | [2601\.](%C2%A7%2002601%20-%20Congressional%20findings%20and%20purpose.md) | Congressional findings and purpose. |
 | [2602\.](%C2%A7%2002602%20-%20Definitions.md) | Definitions. |
 | [2603\.](%C2%A7%2002603%20-%20Uniform%20settlement%20statement.md) | Uniform settlement statement. |
-| [2604\.](%C2%A7%2002604%20-%20Special%20information%20booklets.md) | Special information booklets. |
+| [2604\.](%C2%A7%2002604%20-%20Home%20buying%20information%20booklets.md) | Home buying information booklets. |
 | [2605\.](%C2%A7%2002605%20-%20Servicing%20of%20mortgage%20loans%20and%20administration%20of%20escrow%20accounts.md) | Servicing of mortgage loans and administration of escrow accounts. |
 | [2606\.](%C2%A7%2002606%20-%20Exempted%20transactions.md) | Exempted transactions. |
 | [2607\.](%C2%A7%2002607%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md) | Prohibition against kickbacks and unearned fees. |
@@ -28,7 +28,7 @@
 - [&sect; 02601 - Congressional findings and purpose](%C2%A7%2002601%20-%20Congressional%20findings%20and%20purpose.md)
 - [&sect; 02602 - Definitions](%C2%A7%2002602%20-%20Definitions.md)
 - [&sect; 02603 - Uniform settlement statement](%C2%A7%2002603%20-%20Uniform%20settlement%20statement.md)
-- [&sect; 02604 - Special information booklets](%C2%A7%2002604%20-%20Special%20information%20booklets.md)
+- [&sect; 02604 - Home buying information booklets](%C2%A7%2002604%20-%20Home%20buying%20information%20booklets.md)
 - [&sect; 02605 - Servicing of mortgage loans and administration of escrow accounts](%C2%A7%2002605%20-%20Servicing%20of%20mortgage%20loans%20and%20administration%20of%20escrow%20accounts.md)
 - [&sect; 02606 - Exempted transactions](%C2%A7%2002606%20-%20Exempted%20transactions.md)
 - [&sect; 02607 - Prohibition against kickbacks and unearned fees](%C2%A7%2002607%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md)

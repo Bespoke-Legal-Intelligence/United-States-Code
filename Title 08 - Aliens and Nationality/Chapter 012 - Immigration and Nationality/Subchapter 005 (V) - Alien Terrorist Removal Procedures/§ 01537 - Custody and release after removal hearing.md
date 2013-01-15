@@ -56,7 +56,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### (1) Family and attorney visits
 
-&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien's family, and to contact, retain, and communicate with an attorney.
+&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien'sfamily, and to contact, retain, and communicate with an attorney.
 
 #### (2) Diplomatic contact
 
@@ -70,7 +70,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

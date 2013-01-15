@@ -10,7 +10,7 @@ Eligible Judge Advocate Defined.—In this section, the term “eligible judge a
 
 &emsp;&emsp;(A) the active duty service obligation incurred through the officer's original commissioning program; or
 
-&emsp;&emsp;(B) in the case of an officer detailed under section 2004 of title 10 or section 470 of title 14, the active duty service obligation incurred as part of that detail.
+&emsp;&emsp;(B) in the case of an officer detailed under section 2004 of title 10 or section 470 of title14, the active duty service obligation incurred as part of that detail.
 
 (b)
 
@@ -26,7 +26,7 @@ Payment Methods.—Upon acceptance of an agreement under subsection (b) by the S
 
 (e)
 
-Additional Pay.—Any amount paid to an officer under this section is in addition to anyother pay and allowances to which the officer is entitled.
+Additional Pay.—Any amount paid to an officer under this section is in addition to any other pay and allowances to which the officer is entitled.
 
 (f)
 

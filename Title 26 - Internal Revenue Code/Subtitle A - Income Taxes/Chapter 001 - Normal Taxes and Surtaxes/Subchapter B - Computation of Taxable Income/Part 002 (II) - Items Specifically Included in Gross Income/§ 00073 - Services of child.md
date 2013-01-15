@@ -6,7 +6,7 @@ Amounts received in respect of the services of a child shall be included in his 
 
 #### (b) Treatment of expenditures
 
-All expenditures by the parent or the child attributable to amounts which are includible in the gross income of the child (and not of the parent) solely by reason of subsection (a) shall be treated as paid or incurred by the child.
+All expenditures by the parent or the child attributable to amounts which are includible inthe gross income of the child (and not of the parent) solely by reason of subsection (a) shall be treated as paid or incurred by the child.
 
 #### (c) Parent defined
 

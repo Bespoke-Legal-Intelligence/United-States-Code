@@ -1,6 +1,6 @@
 ### §3504. Preference eligibles; retention; physical qualifications; waiver
 
-(a) In determining qualifications of a preference eligible for retention in a position in the competitive service, an Executive agency, or thegovernment of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
+(a) In determining qualifications of a preference eligible for retention in a position in the competitive service, an Executive agency, or the government of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
 
 &emsp;(1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
 

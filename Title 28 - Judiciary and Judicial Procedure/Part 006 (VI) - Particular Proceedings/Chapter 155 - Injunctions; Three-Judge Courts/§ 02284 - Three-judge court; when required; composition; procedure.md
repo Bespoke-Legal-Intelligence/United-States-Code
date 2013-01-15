@@ -54,5 +54,5 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1976 Amendment
 
-Section 7 of Pub. L. 94–381 provided that: “This Act \[amending this section and section 2403 of this title and repealing sections 2281 and 2282 of this title\] shall not apply to any action commenced on or before the date of enactment \[Aug. 12, 1976\].”
+Pub. L. 94–381, §7, Aug. 12, 1976, 90 Stat. 1120, provided that: “This Act \[amending this section and section 2403 of this title and repealing sections 2281 and 2282 of this title\] shall not apply to any action commenced on or before the date of enactment \[Aug. 12, 1976\].”
 

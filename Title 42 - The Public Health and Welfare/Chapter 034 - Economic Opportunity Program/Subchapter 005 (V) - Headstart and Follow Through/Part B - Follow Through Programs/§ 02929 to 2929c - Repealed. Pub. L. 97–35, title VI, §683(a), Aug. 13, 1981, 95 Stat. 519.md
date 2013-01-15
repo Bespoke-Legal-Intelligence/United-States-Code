@@ -1,6 +1,6 @@
 ### §§2929 to 2929c. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2929, Pub. L. 88–452, title V, §551, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2306; amended Pub. L. 95–568, §§11(a), (b), 17(a)(22), Nov. 2, 1978, 92 Stat. 2433, 2441, set forth provisions respecting financial assistance for Follow Through programs.
+Section 2929, Pub. L. 88–452, title V, §551, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2306; amended Pub. L. 95–568, §§11(a), (b), 17(a)(22), Nov. 2, 1978, 92 Stat.2433, 2441, set forth provisions respecting financial assistance for Follow Through programs.
 
 Section 2929a, Pub. L. 88–452, title V, §552, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2307; amended Pub. L. 95–568, §§11(c), 17(a)(23), Nov. 2, 1978, 92 Stat. 2433, 2441, related to authorization of appropriations.
 

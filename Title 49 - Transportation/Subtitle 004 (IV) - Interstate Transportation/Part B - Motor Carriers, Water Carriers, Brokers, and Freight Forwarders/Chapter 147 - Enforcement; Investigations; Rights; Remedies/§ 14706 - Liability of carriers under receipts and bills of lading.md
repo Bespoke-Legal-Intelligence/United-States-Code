@@ -34,7 +34,7 @@ Carrier notification.—If the motor carrier is not required to file its tariff 
 
 &emsp;&emsp;(C)
 
-Prohibition against collective establishment.—No discussion, consideration,or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
+Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that
 
 “(a)
 
-Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the SurfaceTransportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
+Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
 
 “(b)
 

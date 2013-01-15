@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (C) Regulations to be consistent with allocation of deductions
 
-&emsp;&emsp;The regulations prescribed under subparagraphs (A) and (B) shall be consistent withthe allocation of deductions under section 882(c)(1).
+&emsp;&emsp;The regulations prescribed under subparagraphs (A) and (B) shall be consistent with the allocation of deductions under section 882(c)(1).
 
 #### (d) Effectively connected earnings and profits
 
@@ -282,7 +282,7 @@ Section 1241(e) of Pub. L. 99–514 provided that: “The amendments made by thi
 
 #### Determination of Earnings and Profits of Foreign Corporations
 
-Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7811(i)(5), Dec. 19, 1989, 103 Stat. 2410, provided that: “For purposes of applying section 884 of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under sections 1023(e)(3)(C) \[section 1023(e)(3)(C) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] and 1021(c)(2)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 832 of this title\] or arising from section 832(b)(4)(C) of the 1986 Code.”
+Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7811(i)(5), Dec. 19, 1989, 103Stat. 2410, provided that: “For purposes of applying section 884 of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under sections 1023(e)(3)(C) \[section 1023(e)(3)(C) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] and 1021(c)(2)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 832 of this title\] or arising from section 832(b)(4)(C) of the 1986 Code.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

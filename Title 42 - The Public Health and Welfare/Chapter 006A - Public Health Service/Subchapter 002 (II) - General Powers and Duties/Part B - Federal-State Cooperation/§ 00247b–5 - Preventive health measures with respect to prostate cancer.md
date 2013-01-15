@@ -20,7 +20,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;(A) to screen men for prostate cancer as a preventive health measure;
 
-&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provisionof appropriate followup services and support services such as case management;
+&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provision of appropriate followup services and support services such as case management;
 
 &emsp;&emsp;(C) to establish mechanisms through which State and local health departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
 
@@ -140,7 +140,7 @@ The Secretary shall determine the amount of a grant made under subsection (a) of
 
 For purposes of this section, the term “units of local government” includes Indian tribes.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 #### (1) In general
 
@@ -150,7 +150,7 @@ For purposes of this section, the term “units of local government” includes 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
+<b>2000</b>—Subsec. (a). Pub. L. 106–505, §602(a)(1), added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
 
 &emsp;“(1) to screen men for prostate cancer as a preventive health measure;
 
@@ -172,13 +172,13 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 &emsp;“(6) to evaluate activities conducted under paragraphs (1) through (5) through appropriate surveillance or program monitoring activities.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 106–505, §602(a)(2), substituted “2004” for “1998”.
+Subsec. (l)(1). Pub. L. 106–505, §602(a)(2), substituted “2004” for “1998”.
 
-<b>1998</b>—Subsec. (<i>l</i>)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
+<b>1998</b>—Subsec. (l)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §308, which enacted this section.
 
-Subsec. (<i>l</i>)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, substituted “through 1998” for “through 1996”.
+Subsec. (l)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, substituted “through 1998” for “through 1996”.
 
 #### Effective Date of 1998 Amendment
 

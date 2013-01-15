@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed as affecting the provisions of title 
 
 #### (b) Fleet mobility
 
-The Secretary of Commerce in coordination with the Pacific Fishery Management Council in its salmon management plan shall ensure that the fishing effort reduction that results from the fleet adjustment program of subchapter IV of this chapter and the license moratorium of the State of Washington is not replaced by new fishing effort from outside such State.
+The Secretary of Commerce in coordination with the Pacific Fishery Management Council inits salmon management plan shall ensure that the fishing effort reduction that results from the fleet adjustment program of subchapter IV of this chapter and the license moratorium of the State of Washington is not replaced by new fishing effort from outside such State.
 
 (Pub. L. 96–561, title I, §142, title II, §238(b), Dec. 22, 1980, 94 Stat. 3286, 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
@@ -22,9 +22,9 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 

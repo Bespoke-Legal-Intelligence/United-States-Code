@@ -6,7 +6,7 @@ The Secretary shall acquire real property in Emmet and Charlevoix Counties for t
 
 #### (b) Little River Band
 
-The Secretary shall acquire real property in Manistee and Mason Counties for the benefit of the Little River Band. The Secretary shall also accept any real property located in those Counties for the benefit of the Little River Band if conveyed or otherwise transferred to the Secretary, if at the time of such acceptance, there are no adverse legal claims on such property including outstanding liens, mortgages or taxes owed.
+The Secretary shall acquire real property in Manistee and Mason Counties for the benefit ofthe Little River Band. The Secretary shall also accept any real property located in those Counties for the benefit of the Little River Band if conveyed or otherwise transferred to the Secretary, if at the time of such acceptance, there are no adverse legal claims on such property including outstanding liens, mortgages or taxes owed.
 
 #### (c) Additional lands
 

@@ -48,7 +48,7 @@ Section 450g of this title, referred to in subsec. (b)(2), was in the original �
 
 #### Prior Provisions
 
-A prior section 103 of Pub. L. 93–638 was classified to section 450g of this title and was repealed in part and transferred in part by section 201(b)(1) of Pub. L. 100–472.
+A prior section 103 of Pub. L. 93–638 was classified to section 450g of this title and was repealed in part and transferred in part by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsecs. (d), (e). Pub. L. 100–472, §202(d), added subsecs. (d) and (e).
 
 #### Authority of Secretary To Acquire Lands In Trust
 
-Section 203(g)(2) of Pub. L. 101–644 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary's authority to acquire lands in trust.”
+Pub. L. 101–644, title II, §203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary's authority to acquire lands in trust.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

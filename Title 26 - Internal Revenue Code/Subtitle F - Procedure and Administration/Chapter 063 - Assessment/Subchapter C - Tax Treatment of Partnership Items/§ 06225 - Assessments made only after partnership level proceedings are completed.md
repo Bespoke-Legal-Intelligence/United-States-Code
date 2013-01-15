@@ -24,5 +24,5 @@ If no proceeding under section 6226 is begun with respect to any final partnersh
 
 #### Effective Date of 1997 Amendment
 
-Section 1239(f) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 6226, 6230, 6501, 6512, 7421, 7459, and 7482 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1239(f), Aug. 5, 1997, 111 Stat. 1028, provided that: “The amendments made by this section \[amending this section and sections 6226, 6230, 6501, 6512, 7421, 7459, and 7482 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

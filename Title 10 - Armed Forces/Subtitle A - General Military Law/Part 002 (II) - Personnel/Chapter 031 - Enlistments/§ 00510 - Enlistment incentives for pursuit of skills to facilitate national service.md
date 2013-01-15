@@ -14,7 +14,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;(1) upon completion of initial entry training (as prescribed by the Secretary of Defense), serve on active duty in a military occupational specialty designated by the Secretary of Defense under subsection (d) for a period of 15 months;
 
-&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without abreak in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
+&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
 
 &emsp;(3) upon completion of the period of service specified in paragraph (2), and without a break in service, serve the remaining period of obligated service specified in the agreement—
 
@@ -70,7 +70,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
-(B)(i) A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, atsuch time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
+(B)(i) A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, at such time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
 
 (ii) The participant making a revocation or initial election under clause (i) shall be eligible for educational assistance under either such chapter at such time as the participant satisfies through service the applicable eligibility requirements under either such chapter.
 
@@ -88,13 +88,13 @@ Funding.—(1) Amounts for the payment of incentives under paragraphs (1) and (2
 
 Regulations.—The Secretary of Defense and the Secretaries of the military departments shall prescribe regulations for purposes of the program under this section.
 
-(<i>l</i>)
+(l)
 
 Definitions.—In this section:
 
 &emsp;(1) The term “Americorps” means the Americorps program carried out under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.).
 
-&emsp;(2) The term “qualifying student loan” means a loan, the proceeds of which were used to pay any part or all of the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>) at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+&emsp;(2) The term “qualifying student loan” means a loan, the proceeds of which were used to pay any part or all of the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll) at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 &emsp;(3) The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
@@ -102,7 +102,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (<i>l</i>)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -134,7 +134,7 @@ Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, pro
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Commencement of Program
 

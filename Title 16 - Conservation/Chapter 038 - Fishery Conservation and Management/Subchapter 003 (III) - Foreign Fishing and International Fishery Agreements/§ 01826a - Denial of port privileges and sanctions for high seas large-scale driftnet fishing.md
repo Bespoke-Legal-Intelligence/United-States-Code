@@ -44,7 +44,7 @@
 
 #### (2) Consultations
 
-&emsp;Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
+&emsp;Not later than 30 days after a nation is identified under paragraph (1)(B), the Presidentshall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
 
 #### (3) Prohibition on imports of fish and fish products and sport fishing equipment
 
@@ -118,9 +118,9 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(6) Operative paragraph (4) of United Nations General Assembly Resolution numbered 46–215 specifically ‘encourages all members of the international community to take measures individually and collectively to prevent large-scale pelagic driftnet fishing operations on the high seas of the world's oceans and seas’.
 
-&emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
+&emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specificallyprohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
 
-&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in theCentral Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
+&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
 
 &emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 

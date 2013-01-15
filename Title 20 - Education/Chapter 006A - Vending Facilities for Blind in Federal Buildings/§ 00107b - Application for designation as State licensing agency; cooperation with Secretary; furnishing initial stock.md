@@ -8,7 +8,7 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 &emsp;(3) that if any funds are set aside, or caused to be set aside, from the net proceeds of the operation of the vending facilities such funds shall be set aside, or caused to be set aside, only to the extent necessary for and may be used only for the purposes of (A) maintenance and replacement of equipment; (B) the purchase of new equipment; (C) management services; (D) assuring a fair minimum return to operators of vending facilities; and (E) retirement or pension funds, health insurance contributions, and provision for paid sick leave and vacation time, if it is determined by a majority vote of blind licensees licensed by such State agency, after such agency provides to each such licensee full information on all matters relevant to such proposed program, that funds under this paragraph shall be set aside for such purposes: <i>Provided, however</i>, That in no event shall the amount of such funds to be set aside from the net proceeds of any vending facility exceed a reasonable amount which shall be determined by the Secretary;
 
-&emsp;(4) to make such reports in such form and containing such information as the Secretary may from time to time require and to comply with such provisions as he may from time to time find necessary to assure the correctness and verification of such reports;
+&emsp;(4) to make such reports in such form and containing such information as the Secretary may from time to time require and to complywith such provisions as he may from time to time find necessary to assure the correctness and verification of such reports;
 
 &emsp;(5) to issue such regulations, consistent with the provisions of this chapter, as may be necessary for the operation of this program;
 
@@ -20,7 +20,7 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 The content of Pub. L. 93–516, including provisions of section 204 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L.93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Par. (6). Pub. L. 93–516, §204(a)(3), substituted “vending facility program
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954.
+Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under section 49b of Title 29, Labor.
 
 #### Transfer of Functions
 

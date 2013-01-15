@@ -22,7 +22,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 #### (2) Flue-cured and burley tobacco
 
-&emsp;In the case of Flue-cured tobacco (types 11, 12, 13, and 14) and Burley tobacco (type 31), the base quota level for each producer of quota tobacco shall be equal to the effective tobacco marketing quota (irrespective of disaster lease and transfers) under part I of subtitle B oftitle III of the Agriculture <sup>2</sup> Adjustment Act of 1938 \[7 U.S.C. 1311 et seq.\] for the 2002 marketing year for quota tobacco produced on the farm.
+&emsp;In the case of Flue-cured tobacco (types 11, 12, 13, and 14) and Burley tobacco (type 31), the base quota level for each producer of quota tobacco shall be equal to the effective tobacco marketing quota (irrespective of disaster lease and transfers) under part I of subtitle B of title III of the Agriculture <sup>2</sup> Adjustment Act of 1938 \[7 U.S.C. 1311 et seq.\] for the 2002 marketing year for quota tobacco produced on the farm.
 
 #### (3) Other kinds of tobacco
 

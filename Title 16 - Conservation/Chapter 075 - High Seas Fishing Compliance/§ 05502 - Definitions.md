@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(6) The term “length” means—
 
-&emsp;&emsp;(A) for any high seas fishing vessel built after July 18, 1982, 96 percent of the total length on a waterline at 85 percent of the least molded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock onthat waterline, if that is greater, except that in ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline; and
+&emsp;&emsp;(A) for any high seas fishing vessel built after July 18, 1982, 96 percent of the total length on a waterline at 85 percent of the least molded depth measured from the top ofthe keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that is greater, except that in ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline; and
 
 &emsp;&emsp;(B) for any high seas fishing vessel built before July 18, 1982, registered length as entered on the vessel's documentation.
 

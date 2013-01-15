@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) that is included in the Schedule of the United States to Annex 3.15 of the Agreement;
 
-&emsp;&emsp;(B) that qualifies as an originating good under section 4033 of this title, except that operations performed in or material obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, a country that is not a party to the Agreement; and
+&emsp;&emsp;(B) that qualifies as an originating good under section 4033 of this title, except that operations performed in or material obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, acountry that is not a party to the Agreement; and
 
 &emsp;&emsp;(C) for which a claim for preferential tariff treatment under the Agreement has been made.
 
@@ -78,7 +78,7 @@
 
 #### References in Text
 
-Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of titleIII of this Act”, meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of title III of this Act”, meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 

@@ -178,7 +178,7 @@ For purposes of this section:
 
 &emsp;The term “Director” means the Director of the Center appointed under subsection (e)(1).
 
-(Pub. L. 110–315, title VIII, §802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317.)
+(Pub. L. 110–315, title VIII, §802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vii), Jan. 2, 2013, 126 Stat. 1950.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 Section was enacted as part of the Higher Education Opportunity Act, and not as part of Pub. L. 107–279 which comprises this chapter.
 
-#### Change of Name
+#### Amendments
 
-“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (g)(1)(B)(ii) on authority of section 901(a) of Pub. L. 111–383, set out as a note under section 131 of Title 10, Armed Forces.
+<b>2013</b>—Subsec. (g)(1)(B)(ii). Pub. L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 

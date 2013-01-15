@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal tothe adoption incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State
 
@@ -50,7 +50,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
-&emsp;&emsp;(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
+&emsp;&emsp;(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal yearexceeds the base number of older child adoptions for the State for the fiscal year.
 
 #### (2) Pro rata adjustment if insufficient funds available
 

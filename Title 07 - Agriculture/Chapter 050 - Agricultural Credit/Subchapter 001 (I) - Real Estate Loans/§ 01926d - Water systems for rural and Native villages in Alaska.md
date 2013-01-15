@@ -20,7 +20,7 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 #### (2) Training and technical assistance
 
-&emsp;Not more than 2 percent of the amount made available under paragraph (1) for a fiscal yearmay be used by the State of Alaska for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
+&emsp;Not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by the State of Alaska for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
 
 #### (3) Availability
 

@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42of each such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of each such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -142,7 +142,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (3) Institutions outside the United States
 
-&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B of this subchapter for the most recent year for which data are available.
+&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds underpart B of this subchapter for the most recent year for which data are available.
 
 #### (h) Provisional certification of institutional eligibility
 
@@ -194,13 +194,13 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 (1) A branch of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, shall be certified under this subpart before it may participate as part of such institution in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, except that such branch shall not be required to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title prior to seeking such certification. Such branch is required to be in existence at least 2 years after the branch is certified by the Secretary as a branch campus participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, prior to seeking certification as a main campus or free-standing institution.
 
-(2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branchthat (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
+(2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
 #### (k) Treatment of teach-outs at additional locations
 
 #### (1) In general
 
-&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if such teach-out has been approved by the institution's accrediting agency.
+&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if suchteach-out has been approved by the institution's accrediting agency.
 
 #### (2) Special rule
 

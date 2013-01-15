@@ -26,5 +26,5 @@ Pub. L. 107–141, §1, Feb. 12, 2002, 116 Stat. 13, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 105–96 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Asian Elephant Conservation Act of 1997’.”
+Pub. L. 105–96, §1, Nov. 19, 1997, 111 Stat. 2150, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Asian Elephant Conservation Act of 1997’.”
 

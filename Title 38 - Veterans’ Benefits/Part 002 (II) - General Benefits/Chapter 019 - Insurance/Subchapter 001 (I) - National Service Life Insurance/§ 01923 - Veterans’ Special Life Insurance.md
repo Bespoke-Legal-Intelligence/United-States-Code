@@ -50,5 +50,5 @@ Subsec. (c). Pub. L. 85–896, §1(1), redesignated former subsec. (b) as (c) an
 
 #### Effective Date of 1974 Amendment
 
-Section 12(1) of Pub. L. 93–289 provided that: “The amendments made by section 2 \[amending this section\], relating to Veterans’ Special Life Insurance, shall become effective upon the date of enactment of this Act \[May 24, 1974\] except that no dividend on such insurance shall be paid prior to January 1, 1974.”
+Pub. L. 93–289, §12(1), May 24, 1974, 88 Stat. 173, provided that: “The amendments made by section 2 \[amending this section\], relating to Veterans’ Special Life Insurance, shall become effective upon the date of enactment of this Act \[May 24, 1974\] except that no dividend on such insurance shall be paid prior to January 1, 1974.”
 

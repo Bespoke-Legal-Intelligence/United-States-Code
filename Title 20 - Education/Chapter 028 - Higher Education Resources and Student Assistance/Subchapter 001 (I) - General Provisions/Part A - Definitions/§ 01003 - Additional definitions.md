@@ -96,7 +96,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (13) Nonprofit
 
-&emsp;The term “nonprofit” as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “nonprofit” as applied to a school, agency, organization, or institution means aschool, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (14) Poverty line
 

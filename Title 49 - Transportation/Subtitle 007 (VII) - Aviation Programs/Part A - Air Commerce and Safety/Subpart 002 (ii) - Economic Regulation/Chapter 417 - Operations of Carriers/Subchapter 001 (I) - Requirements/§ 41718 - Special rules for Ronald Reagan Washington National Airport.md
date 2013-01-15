@@ -36,7 +36,19 @@ Stage 3 aircraft required.—An exemption may not be granted under this section 
 
 &emsp;(2)
 
-General exemptions.—The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.
+General exemptions.—
+
+&emsp;&emsp;(A)
+
+Hourly limitation.—The exemptions granted—
+
+&emsp;&emsp;&emsp;(i) under subsections (a) and (b) and departures authorized under subsection (g)(2) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
+
+&emsp;&emsp;&emsp;(ii) under subsections (a), (b), and (g) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
+
+&emsp;&emsp;(B)
+
+Use of existing slots.—A non-limited incumbent air carrier utilizing an exemption authorized under subsection (g)(3) for an arrival permitted between the hours of 10:01 p.m. and 11:00 p.m. under this section shall discontinue use of an existing slot during the same time period the arrival exemption is operated.
 
 &emsp;(3)
 
@@ -64,9 +76,83 @@ Applicability of Certain Laws.—Neither the request for, nor the granting of an
 
 Commuters Defined.—For purposes of aircraft operations at Ronald Reagan Washington National Airport under subpart K of part 93 of title 14, Code of Federal Regulations, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
 
-(Added Pub. L. 106–181, title II, §231(e)(1), Apr. 5, 2000, 114 Stat. 112; amended Pub. L. 108–176, title IV, §§425, 426(a), Dec. 12, 2003, 117 Stat. 2555.)
+(g)
+
+Additional Slot Exemptions.—
+
+&emsp;(1)
+
+Increase in slot exemptions.—Not later than 90 days after the date of enactment of the FAA Modernization and Reform Act of 2012, the Secretary shall grant, by order 16 exemptions from—
+
+&emsp;&emsp;(A) the application of sections 49104(a)(5), 49109, and 41714 to air carriers to operate limited frequencies and aircraft on routes between Ronald Reagan Washington National Airport and airports located beyond the perimeter described in section 49109; and
+
+&emsp;&emsp;(B) the requirements of subparts K and S of part 93, Code of Federal Regulations.
+
+&emsp;(2)
+
+New entrants and limited incumbents.—Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to limited incumbent air carriers or new entrant air carriers (as such terms are defined in section 41714(h)). Such exemptions shall be allocated pursuant to the application process established by the Secretary under subsection (d). The Secretary shall consider the extent to which the exemptions will—
+
+&emsp;&emsp;(A) provide air transportation with domestic network benefits in areas beyond the perimeter described in section 49109;
+
+&emsp;&emsp;(B) increase competition in multiple markets;
+
+&emsp;&emsp;(C) not reduce travel options for communities served by small hub airports and medium hub airports within the perimeter described in section 49109;
+
+&emsp;&emsp;(D) not result in meaningfully increased travel delays;
+
+&emsp;&emsp;(E) enhance options for nonstop travel to and from the beyond-perimeter airports that will be served as a result of those exemptions;
+
+&emsp;&emsp;(F) have a positive impact on the overall level of competition in the markets that will be served as a result of those exemptions; or
+
+&emsp;&emsp;(G) produce public benefits, including the likelihood that the service to airports located beyond the perimeter described in section 49109 will result in lower fares, higher capacity, and a variety of service options.
+
+&emsp;(3)
+
+Improved network slots.—Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to incumbent air carriers qualifying for status as a non-limited incumbent carrier at Ronald Reagan Washington National Airport as of the date of enactment of the FAA Modernization and Reform Act of 2012. Each such non-limited incumbent air carrier—
+
+&emsp;&emsp;(A) may operate up to a maximum of 2 of the newly authorized slot exemptions;
+
+&emsp;&emsp;(B) prior to exercising an exemption made available under paragraph (1), shall discontinue the use of a slot for service between Ronald Reagan Washington National Airport and a large hub airport within the perimeter as described in section 49109, and operate, in place of such service, service between Ronald Reagan Washington National Airport and an airport located beyond the perimeter described in section 49109;
+
+&emsp;&emsp;(C) shall be entitled to return of the slot by the Secretary if use of the exemption made available to the carrier under paragraph (1) is discontinued;
+
+&emsp;&emsp;(D) shall have sole discretion concerning the use of an exemption made available under paragraph (1), including the initial or any subsequent beyond perimeter destinations to be served; and
+
+&emsp;&emsp;(E) shall file a notice of intent with the Secretary and subsequent notices of intent, when appropriate, to inform the Secretary of any change in circumstances concerning the use of any exemption made available under paragraph (1).
+
+&emsp;(4)
+
+Notices of intent.—Notices of intent under paragraph (3)(E) shall specify the beyond perimeter destination to be served and the slots the carrier shall discontinue using to serve a large hub airport located within the perimeter.
+
+&emsp;(5)
+
+Conditions.—Beyond-perimeter flight operations carried out by an air carrier using an exemption granted under this subsection shall be subject to the following conditions:
+
+&emsp;&emsp;(A) An air carrier may not operate a multi-aisle or widebody aircraft in conducting such operations.
+
+&emsp;&emsp;(B) An air carrier granted an exemption under this subsection is prohibited from transferring the rights to its beyond-perimeter exemptions pursuant to section 41714(j).
+
+(h)
+
+Scheduling Priority.—In administering this section, the Secretary shall—
+
+&emsp;(1) afford a scheduling priority to operations conducted by new entrant air carriers and limited incumbent air carriers over operations conducted by other air carriers granted additional slot exemptions under subsection (g) forservice to airports located beyond the perimeter described in section 49109;
+
+&emsp;(2) afford a scheduling priority to slot exemptions currently held by new entrant air carriers and limited incumbent air carriers for service to airports located beyond the perimeter described in section 49109, to the extent necessary to protect viability of such service; and
+
+&emsp;(3) consider applications from foreign air carriers that are certificated by the government of Canada if such consideration is required by the bilateral aviation agreement between the United States and Canada and so long as the conditions and limitations under this section apply to such foreign air carriers.
+
+(Added Pub. L. 106–181, title II, §231(e)(1), Apr. 5, 2000, 114 Stat. 112; amended Pub. L. 108–176, title IV, §§425, 426(a), Dec. 12, 2003, 117 Stat. 2555; Pub. L. 112–95, title IV, §414(a), (b), Feb. 14, 2012, 126 Stat. 90, 92.)
+
+#### References in Text
+
+The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (g)(1), (3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(2). Pub. L. 112–95, §414(b), amended par. (2) generally. Prior to amendment, text read as follows: “The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.”
+
+Subsecs. (g), (h). Pub. L. 112–95, §414(a), added subsecs. (g) and (h).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §425(a), substituted “24 exemptions” for “12 exemptions” in introductory provisions.
 

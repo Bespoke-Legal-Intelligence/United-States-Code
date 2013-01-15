@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shallmake advance deficiency payments available to producers for each of the crops.
+&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shall make advance deficiency payments available to producers for each of the crops.
 
 #### (2) Terms and conditions
 
@@ -88,7 +88,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see ShortTitle note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended,known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -134,11 +134,11 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Effective and Termination Dates of 1989 Amendment
 
-Section 1003(b)(1) of Pub. L. 101–239 provided that the amendment made by that section is effective only for 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 101–239, title I, §1003(b)(1), Dec. 19, 1989, 103 Stat. 2108, provided that the amendment made by section 1003(b)(1) is effective only for the 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 #### Effective and Termination Dates of 1987 Amendment
 
-Section 1110 of Pub. L. 100–203 provided that the amendment made by that section is effective only for 1988 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 100–203, title I, §1110, Dec. 22, 1987, 101 Stat. 1330–6, provided that the amendment made by section 1110 is effective only for the 1988 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 #### Effective and Termination Dates of 1985 Amendment
 
@@ -146,11 +146,11 @@ That portion of section 1002 of Pub. L. 99–198 which provided that the amendme
 
 #### Effective and Termination Dates
 
-Section 120 of Pub. L. 97–253 provided that this section is effective only for 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 97–253, title I, §120, Sept. 8, 1982, 96 Stat. 766, provided that this section is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
 
 #### Calculation of Refunds of Advance Established Price Payments by Producers of 1988 or 1989 Crops of Feed Barley
 
-Section 405 of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title IV, §405, Nov. 28, 1990, 104 Stat. 3420, provided that:
 
 “(a)
 
@@ -184,7 +184,7 @@ To the public.—The Secretary shall publish in the Federal Register—
 
 &emsp;&emsp;“(B)
 
-To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect ofthe calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
+To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect of the calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
 
 “(b)
 
@@ -214,7 +214,7 @@ Procedure for use of calculation.—If the Secretary decides to use the calculat
 
 #### Repayment Requirements
 
-Section 1121(b) of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XI, §1121(b), Nov. 28, 1990, 104 Stat. 3502, provided that:
 
 “(1)
 

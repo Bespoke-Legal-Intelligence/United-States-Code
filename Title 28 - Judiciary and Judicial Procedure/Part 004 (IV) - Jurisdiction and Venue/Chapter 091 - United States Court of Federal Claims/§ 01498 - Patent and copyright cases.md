@@ -6,7 +6,7 @@ For the purposes of this section, the use or manufacture of an invention describ
 
 The court shall not award compensation under this section if the claim is based on the use or manufacture by or for the United States of any article owned, leased, used by, or in the possession of the United States prior to July 1, 1918.
 
-A Government employee shall have the right to bring suit against the Government under this section except where he was in a position to order, influence, or induce use of the invention by the Government. This section shall not confer a right of action on any patentee or any assignee of such patentee with respect to any invention discovered or invented by a person while in the employment or service of the United States, where the invention was related to the official functions of the employee, in cases in which such functions included research and development, or in the making of which Government time, materials or facilities were used.
+A Government employee shall have the right to bring suit against the Government under this section except where he was in a position to order, influence, or induce use of the invention by the Government. This section shall not confer a right of action on any patentee or any assignee of such patentee with respect to any invention discovered or invented by a person while in the employment or service of the United States, where the invention was related to the official functions of the employee, in cases inwhich such functions included research and development, or in the making of which Government time, materials or facilities were used.
 
 (b) Hereafter, whenever the copyright in any work protected under the copyright laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government and with the authorization or consent of the Government, the exclusive action which may be brought for such infringement shall be an action by the copyright owner against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement, including the minimum statutory damages as set forth in section 504(c) of title 17, United States Code: <i>Provided</i>, That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the copyrighted work by the Government: <i>Provided, however</i>, That this subsection shall not confer a right of action on any copyright owner or any assignee of such owner with respect to any copyrighted work prepared by a person while in the employment or service of the United States, where the copyrighted work was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: <i>And provided further</i>, That before such action against the United States has been instituted the appropriate corporation owned or controlled by the United States or the head of the appropriate department or agency of the Government, as the case may be, is authorized to enter into an agreement with the copyright owner in full settlement and compromise for the damages accruing to him by reason of such infringement and to settle the claim administratively out of available appropriations.
 
@@ -76,7 +76,7 @@ Pub. L. 86–726, §1, designated existing provisions as subsec. (a) and added s
 
 #### Effective Date of 1996 Amendment
 
-Section 1(b) of Pub. L. 104–308 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or brought on or after, the date of the enactment of this Act \[Oct. 19, 1996\].”
+Pub. L. 104–308, §1(b), Oct. 19, 1996, 110 Stat. 3814, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or brought on or after, the date of the enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L
 
 #### Waiver of Immunity for Members of Congress
 
-Section 2 of Pub. L. 86–726 provided that: “Nothing in this Act \[amending this section and section 2386 of Title 10, Armed Forces\] shall be construed to in any way waive any immunity provided for Members of Congress under article I of section 6 of the Constitution of the United States.”
+Pub. L. 86–726, §2, Sept. 8, 1960, 74 Stat. 855, provided that: “Nothing in this Act \[amending this section and section 2386 of Title 10, Armed Forces\] shall be construed to in any way waive any immunity provided for Members of Congress under article I of section 6 of the Constitution of the United States.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
 

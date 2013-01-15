@@ -44,7 +44,7 @@ In the consolidation of these sections the 5-year period of limitation for viola
 
 #### Effective Date of 1954 Amendment
 
-Section 12(b) of act Sept. 1, 1954, formerly section 10(b), as renumbered by Pub. L. 87–299, §1, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
+Act Sept. 1, 1954, ch. 1214, §12(b), formerly section 10(b), 68 Stat. 1145, as renumbered by Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committedon or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
 
 #### Fugitives From Justice
 

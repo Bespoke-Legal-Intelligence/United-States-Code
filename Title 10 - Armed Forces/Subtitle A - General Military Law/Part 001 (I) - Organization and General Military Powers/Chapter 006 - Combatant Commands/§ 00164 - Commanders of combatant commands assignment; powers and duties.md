@@ -22,7 +22,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -38,7 +38,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 &emsp;(G) exercising the authority with respect to selecting subordinate commanders, selecting combatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
 
-(2)(A) The Secretary of Defense shall ensure that a commander of a combatant command has sufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
+(2)(A) The Secretary of Defense shall ensure that a commander of a combatant command hassufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
 
 (B) The Secretary shall periodically review and, after consultation with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commander of the combatant command, assign authority to the commander of the combatant command for those aspects of administration and support that the Secretary considers necessary to carry out missions assigned to the command.
 
@@ -78,7 +78,7 @@ Selection of Subordinate Commanders.—(1) An officer may be assigned to a posit
 
 Combatant Command Staff.—(1) Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
 
-(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommendedto the President for assignment to that position, only—
+(2) An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of such command; and
 
@@ -100,7 +100,7 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 #### Effective Date
 
-Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+Pub. L. 99–433, title II, §214(c), Oct. 1, 1986, 100 Stat. 1019, provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
 
 #### Consideration of Reserve Component Officers for Appointment to Certain Command Positions
 
@@ -112,5 +112,5 @@ Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501,
 
 #### Waiver of Qualifications for Assignment as Combatant Commander
 
-Section 214(b) of Pub. L. 99–433 authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
+Pub. L. 99–433, title II, §214(b), Oct. 1, 1986, 100 Stat. 1018, authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
 

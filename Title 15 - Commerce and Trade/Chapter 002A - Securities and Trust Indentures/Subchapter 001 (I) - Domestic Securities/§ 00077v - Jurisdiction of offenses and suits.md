@@ -10,7 +10,7 @@ In case of contumacy or refusal to obey a subpena issued to any person, any of t
 
 #### (c) Extraterritorial jurisdiction
 
-The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 77q(a) of this title involving—
+The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or theUnited States alleging a violation of section 77q(a) of this title involving—
 
 &emsp;(1) conduct within the United States that constitutes significant steps in furtherance of the violation, even if the securities transaction occurs outside the United States and involves only foreign investors; or
 

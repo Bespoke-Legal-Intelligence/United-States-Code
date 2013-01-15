@@ -12,7 +12,7 @@
 
 (b) This section shall prohibit the collection by setoff or otherwise out of any benefits payable pursuant to any law administered by the Secretary and relating to veterans, their estates, or their dependents, of any claim of the United States or any agency thereof against (1) any person other than the indebted beneficiary or the beneficiary's estate; or (2) any beneficiary or the beneficiary's estate except amounts due the United States by such beneficiary or the beneficiary's estate by reason of overpayments or illegal payments made under such laws to such beneficiary or the beneficiary's estate or to the beneficiary's dependents as such. If the benefits referred to in the preceding sentence are insurance payable by reason of yearly renewable term insurance, United States Government life insurance, or National Service Life Insurance issued by the United States, the exemption provided in this section shall not apply to indebtedness existing against the particular insurance contract upon the maturity of which the claim is based, whether such indebtedness is in the form of liens to secure unpaid premiums or loans, or interest on such premiums or loans, or indebtedness arising from overpayments of dividends, refunds, loans, or other insurance benefits.
 
-(c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of any compensation or pension payable to the veteran under laws administered by the Secretary theuncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
+(c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of any compensation or pension payable to the veteran under laws administered by the Secretary the uncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
 
 (2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section 3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving any payment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
 
@@ -90,7 +90,7 @@ Subsecs. (d), (e). Pub. L. 99–576, §504(1), redesignated former subsecs. (c) 
 
 #### Effective Date of 1991 Amendment
 
-Section 505(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to funds collected after September 30, 1991.”
+Pub. L. 102–86, title V, §505(b), Aug. 14, 1991, 105 Stat. 426, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to funds collected after September 30, 1991.”
 
 #### Effective Date of 1989 Amendment
 

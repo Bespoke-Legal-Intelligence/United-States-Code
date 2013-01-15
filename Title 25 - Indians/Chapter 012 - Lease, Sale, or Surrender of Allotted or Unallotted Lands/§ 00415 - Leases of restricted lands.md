@@ -32,15 +32,25 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) taken into trust or restricted status by the United States for an individual Indian;
 
-&emsp;(4) the term “interested party” means an Indian or non-Indian individual or corporation, or tribal or non-tribal government whose interests could be adversely affected by a tribal trust land leasing decision made by the Navajo Nation;
+&emsp;(4) the term “interested party” means an Indian or non-Indian individual or corporation, or tribal or non-tribal government whose interests could be adversely affected by a tribal trust land leasing decision made by an applicable Indian tribe;
 
 &emsp;(5) the term “Navajo Nation” means the Navajo Nation government that is in existence on August 9, 1955, or its successor;
 
-&emsp;(6) the term “petition” means a written request submitted to the Secretary for the review of an action (or inaction) of the Navajo Nation that is claimed to be in violation of the approved tribal leasing regulations;
+&emsp;(6) the term “petition” means a written request submitted to the Secretary for the review of an action (or inaction) of an Indian tribe that is claimed to be in violation of the approved tribal leasing regulations;
 
-&emsp;(7) the term “Secretary” means the Secretary of the Interior; and
+&emsp;(7) the term “Secretary” means the Secretary of the Interior;
 
-&emsp;(8) the term “tribal regulations” means the Navajo Nation regulations enacted in accordance with Navajo Nation law and approved by the Secretary.
+&emsp;(8) the term “tribal regulations” means regulations enacted in accordance with applicable tribal law and approved by the Secretary;
+
+&emsp;(9) the term “Indian tribe” has the meaning given such term in section 479a of this title; and
+
+&emsp;(10) the term “individually owned allotted land” means a parcel of land that—
+
+&emsp;&emsp;(A)(i) is located within the jurisdiction of an Indian tribe; or
+
+&emsp;&emsp;(ii) is held in trust or restricted status by the United States for the benefit of an Indian tribe or a member of an Indian tribe; and
+
+&emsp;&emsp;(B) is allotted to a member of an Indian tribe.
 
 #### (e) Leases of restricted lands for the Navajo Nation
 
@@ -52,7 +62,7 @@ For purposes of this section—
 
 (2) Paragraph (1) shall not apply to individually owned Navajo Indian allotted land.
 
-(3) The Secretary shall have the authority to approve or disapprove tribal regulations referred to under paragraph (1). The Secretary shall approve such tribal regulations if such regulations are consistent with the regulations of the Secretary under subsection (a) of this section, and any amendments thereto, and provide for an environmental review process. The Secretary shall review and approve or disapprove the regulations of the Navajo Nation within 120 days of the submission of such regulations to the Secretary. Any disapproval of such regulations by the Secretary shall be accompanied by written documentation that sets forth the basis for the disapproval. Such 120-day period may be extended by the Secretary after consultation with the Navajo Nation.
+(3) The Secretary shall have the authority to approve or disapprove tribal regulations referred to under paragraph (1). The Secretary shall approve such tribal regulations if such regulations are consistent with the regulations of the Secretary under subsection (a) of this section, and any amendments thereto, and provide for an environmental review process. The Secretary shall review and approve or disapprove the regulations of the Navajo Nation within 120 days of the submission of such regulations to the Secretary. Any disapproval of such regulations by the Secretary shall be accompanied by written documentation that sets forth the basis for the disapproval. Such 120-day period may be extendedby the Secretary after consultation with the Navajo Nation.
 
 (4) If the Navajo Nation has executed a lease pursuant to tribal regulations under paragraph (1), the Navajo Nation shall provide the Secretary with—
 
@@ -96,13 +106,135 @@ Any contract, including a lease or construction contract, affecting land within 
 
 &emsp;&emsp;&emsp;(ii) the adjustment of which in accordance with clause (i) shall be considered to satisfy any review requirement under part 162 of title 25, Code of Federal Regulations (or any successor regulation).
 
-(Aug. 9, 1955, ch. 615, §1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, §2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, §1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, §6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, §8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, §6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, §7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, §4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, §3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, §107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, §1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, §2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, §3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, §101(h) \[title I, §122\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, §101(h) \[title I, §122\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, §5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, §201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, §5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, §5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, §9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, §1, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 106–216, §1(a), June 20, 2000, 114 Stat. 343; Pub. L. 106–568, title XII, §1203, Dec. 27, 2000, 114 Stat. 2934; Pub. L. 107–102, §1, Dec. 27, 2001, 115 Stat. 974; Pub. L. 107–159, Apr. 4, 2002, 116 Stat. 122; Pub. L. 107–331, title X, §1002(a), Dec. 13, 2002, 116 Stat. 2869; Pub. L. 108–199, div. H, §149, Jan. 23, 2004, 118 Stat. 446; Pub. L. 109–147, §1(a), Dec. 22, 2005, 119 Stat. 2679; Pub. L. 109–221, title II, §202(a), May 12, 2006, 120 Stat. 340; Pub. L. 110–453, title II, §§202, 204, 205(a), Dec. 2, 2008, 122 Stat. 5029; Pub. L. 111–334, §1, Dec. 22, 2010, 124 Stat. 3582; Pub. L. 111–336, §1, Dec. 22, 2010, 124 Stat. 3587; Pub. L. 111–381, §1, Jan. 4, 2011, 124 Stat. 4133.)
+#### (h) Tribal approval of leases
+
+#### (1) In general
+
+&emsp;At the discretion of any Indian tribe, any lease by the Indian tribe for the purposes authorized under subsection (a) (including any amendments to subsection (a)), except a lease for the exploration, development, or extraction of any mineral resources, shall not require the approval of the Secretary, if the lease is executed under the tribal regulations approved by the Secretary under this subsection and the term of the lease does not exceed—
+
+&emsp;&emsp;(A) in the case of a business or agricultural lease, 25 years, except that any such lease may include an option to renew for up to 2 additional terms, each of which may not exceed 25 years; and
+
+&emsp;&emsp;(B) in the case of a lease for public, religious, educational, recreational, or residential purposes, 75 years, if such a term is provided for by the regulations issued by the Indian tribe.
+
+#### (2) Allotted land
+
+&emsp;Paragraph (1) shall not apply to any lease of individually owned Indian allotted land.
+
+#### (3) Authority of Secretary over tribal regulations
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall have the authority to approve or disapprove any tribal regulations issued in accordance with paragraph (1).
+
+#### (B) Considerations for approval
+
+&emsp;&emsp;The Secretary shall approve any tribal regulation issued in accordance with paragraph (1), if the tribal regulations—
+
+&emsp;&emsp;&emsp;(i) are consistent with any regulations issued by the Secretary under subsection\(a) (including any amendments to the subsection or regulations); and
+
+&emsp;&emsp;&emsp;(ii) provide for an environmental review process that includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) the identification and evaluation of any significant effects of the proposed action on the environment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a process for ensuring that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the public is informed of, and has a reasonable opportunity to comment on, any significant environmental impacts of the proposed action identified by the Indian tribe; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the Indian tribe provides responses to relevant and substantive public comments on any such impacts before the Indian tribe approves the lease.
+
+#### (C) Technical assistance
+
+&emsp;&emsp;The Secretary may provide technical assistance, upon request of the Indian tribe, for development of a regulatory environmental review process under subparagraph (B)(ii).
+
+#### (D) Indian Self-Determination Act
+
+&emsp;&emsp;The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 <sup>3</sup> et seq.).
+
+#### (4) Review process
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 120 days after the date on which the tribal regulations described in paragraph (1) are submitted to the Secretary, the Secretary shall review and approve or disapprove the regulations.
+
+#### (B) Written documentation
+
+&emsp;&emsp;If the Secretary disapproves the tribal regulations described in paragraph (1), the Secretary shall include written documentation with the disapproval notification that describes the basis for the disapproval.
+
+#### (C) Extension
+
+&emsp;&emsp;The deadline described in subparagraph (A) may be extended by the Secretary, after consultation with the Indian tribe.
+
+#### (5) Federal environmental review
+
+&emsp;Notwithstanding paragraphs (3) and (4), if an Indian tribe carries out a project or activity funded by a Federal agency, the Indian tribe shall have the authority to rely on the environmental review process of the applicable Federal agency rather than any tribal environmental review process under this subsection.
+
+#### (6) Documentation
+
+&emsp;If an Indian tribe executes a lease pursuant to tribal regulations under paragraph (1), the Indian tribe shall provide the Secretary with—
+
+&emsp;&emsp;(A) a copy of the lease, including any amendments or renewals to the lease; and
+
+&emsp;&emsp;(B) in the case of tribal regulations or a lease that allows for lease payments to be made directly to the Indian tribe, documentation of the lease payments that are sufficient to enable the Secretary to discharge the trust responsibility of the United States under paragraph (7).
+
+#### (7) Trust responsibility
+
+#### (A) In general
+
+&emsp;&emsp;The United States shall not be liable for losses sustained by any party to a lease executed pursuant to tribal regulations under paragraph (1).
+
+#### (B) Authority of Secretary
+
+&emsp;&emsp;Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to the applicable Indian tribe under Federal law (including regulations), the Secretary may, upon reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under paragraph (1).
+
+#### (8) Compliance
+
+#### (A) In general
+
+&emsp;&emsp;An interested party, after exhausting of any applicable tribal remedies, may submit a petition to the Secretary, at such time and in such form as the Secretary determines to be appropriate, to review the compliance of the applicable Indian tribe with any tribal regulations approved by the Secretary under this subsection.
+
+#### (B) Violations
+
+&emsp;&emsp;If, after carrying out a review under subparagraph (A), the Secretary determines that the tribal regulations were violated, the Secretary may take any action the Secretary determines to be necessary to remedy the violation, including rescinding the approval of the tribal regulations and reassuming responsibility for the approval of leases of tribal trust lands.
+
+#### (C) Documentation
+
+&emsp;&emsp;If the Secretary determines that a violation of the tribal regulations has occurred and a remedy is necessary, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) make a written determination with respect to the regulations that have been violated;
+
+&emsp;&emsp;&emsp;(ii) provide the applicable Indian tribe with a written notice of the alleged violation together with such written determination; and
+
+&emsp;&emsp;&emsp;(iii) prior to the exercise of any remedy, the rescission of the approval of the regulation involved, or the reassumption of lease approval responsibilities, provide the applicable Indian tribe with—
+
+&emsp;&emsp;&emsp;&emsp;(I) a hearing that is on the record; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a reasonable opportunity to cure the alleged violation.
+
+#### (9) Savings clause
+
+&emsp;Nothing in this subsection shall affect subsection (e) or any tribal regulations issued under that subsection.
+
+(Aug. 9, 1955, ch. 615, §1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, §2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, §1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, §6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, §8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, §6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, §7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, §4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, §3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, §107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, §1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, §2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, §3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, §101(h) \[title I, §122\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, §101(h) \[title I, §122\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, §5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, §201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, §5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, §5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, §9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, §1, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 106–216, §1(a), June 20, 2000, 114 Stat. 343; Pub. L. 106–568, title XII, §1203, Dec. 27, 2000, 114 Stat. 2934; Pub. L. 107–102, §1, Dec. 27, 2001, 115 Stat. 974; Pub. L. 107–159, Apr. 4, 2002, 116 Stat. 122; Pub. L. 107–331, title X, §1002(a), Dec. 13, 2002, 116 Stat. 2869; Pub. L. 108–199, div. H, §149, Jan. 23, 2004, 118 Stat. 446; Pub. L. 109–147, §1(a), Dec. 22, 2005, 119 Stat. 2679; Pub. L. 109–221, title II, §202(a), May 12, 2006, 120 Stat. 340; Pub. L. 110–453, title II, §§202, 204, 205(a), Dec. 2, 2008, 122 Stat. 5029; Pub. L. 111–334, §1, Dec. 22, 2010, 124 Stat. 3582; Pub. L. 111–336, §1, Dec. 22, 2010, 124 Stat. 3587; Pub. L. 111–381, §1, Jan. 4, 2011, 124 Stat. 4133; Pub. L. 112–151, §2, July 30, 2012, 126 Stat. 1150.)
+
+#### References in Text
+
+The Indian Self-Determination Act, referred to in subsec. (h)(3)(D), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(4). Pub. L. 112–151, §2(1)(A), substituted “an applicable Indian tribe” for “the Navajo Nation”.
+
+Subsec. (d)(6). Pub. L. 112–151, §2(1)(B), substituted “an Indian tribe” for “the Navajo Nation”.
+
+Subsec. (d)(8). Pub. L. 112–151, §2(1)(D)(i), (ii), struck out “the Navajo Nation” before “regulations” and substituted “with applicable tribal law” for “with Navajo Nation law”.
+
+Subsec. (d)(9), (10). Pub. L. 112–151, §2(1)(C), (D)(iii), (E), added pars. (9) and (10).
+
+Subsec. (h). Pub. L. 112–151, §2(2), added subsec. (h).
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–381 inserted “and lands held in trust for Ohkay Owingeh Pueblo” after “of land on the Devils Lake Sioux Reservation,”.
 
@@ -198,7 +330,7 @@ Pub. L. 90–182 inserted “the Gila Reservation,” after “Pyramid Lake Rese
 
 <b>1962</b>—Pub. L. 87–785 authorized leases for not more than 99 years of lands on Southern Ute Reservation.
 
-<b>1961</b>—Pub. L. 87–375 authorized longer term leases of Indian lands on Dania Reservation and excepted fromrenewal leases the initial term of which extends for more than 74 years.
+<b>1961</b>—Pub. L. 87–375 authorized longer term leases of Indian lands on Dania Reservation and excepted from renewal leases the initial term of which extends for more than 74 years.
 
 <b>1960</b>—Pub. L. 86–505 authorized leases for not more than 99 years of lands on Navajo Reservation.
 
@@ -230,15 +362,19 @@ Pub. L. 106–216, §1(b), June 20, 2000, 114 Stat. 343, provided that: “The a
 
 #### Effective Date of 1986 Amendment
 
-Section 6(a) of Pub. L. 99–575 provided in part that the amendment made by Pub. L. 99–575 is effective Oct. 28, 1986.
+Pub. L. 99–575, §6(a), Oct. 28, 1986, 100 Stat. 3246, provided in part that the amendment made by Pub. L. 99–575 is effective Oct. 28, 1986.
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–151, §1, July 30, 2012, 126 Stat. 1150, provided that: “This Act \[amending this section\] may be cited as the ‘Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012’ or the ‘HEARTH Act of 2012’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–568, title XII, §1201, Dec. 27, 2000, 114 Stat. 2933, provided that: “This title \[amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
+Pub. L. 106–568, title XII, §1201, Dec. 27, 2000, 114 Stat. 2933, provided that: “This title \[amending this sectionand enacting provisions set out as a note under this section\] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
 
 #### Short Title of 1985 Amendment
 
-Section 1 of Pub. L. 99–221 provided that: “This Act \[amending this section, section 450i of this title, section 3121 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, and enacting a provision set out as a note under section 410 of Title 42\] may be cited as the ‘Cherokee Leasing Act’.”
+Pub. L. 99–221, §1, Dec. 26, 1985, 99 Stat. 1735, provided that: “This Act \[amending this section, section 450i of this title, section 3121 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, and enacting a provision set out as a note under section 410 of Title 42\] may be cited as the ‘Cherokee Leasing Act’.”
 
 #### Congressional Findings and Declaration of Purposes
 
@@ -279,4 +415,6 @@ Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note 
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “450f”.</i>
 

@@ -62,11 +62,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–593, as amended by Pub. L. 95–486, §4, Oct. 20, 1978, 92 Stat. 1632, provided that: “The amendments to sections 45 and 136 of title 28 of the United States Code made by this Act shall take effect at the expiration of one year from the date of enactment of this Act \[Aug. 6, 1958\].”
+Pub. L. 85–593, §3, Aug. 6, 1958, 72 Stat. 497, as amended by Pub. L. 95–486, §4, Oct. 20, 1978, 92 Stat. 1632, provided that: “The amendments to sections 45 and 136 of title 28 of the United States Code made by this Act shall take effect at the expiration of one year from the date of enactment of this Act \[Aug. 6, 1958\].”
 
 #### Savings Provision
 
-Section 203 of part A of title II of Pub. L. 97–164 provided that:
+Pub. L. 97–164, title II, §203, Apr. 2, 1982, 96 Stat. 53, provided that:
 
 “(a) The amendments to section 45 of title 28, United States Code, and to section 136 of such title, made by sections 201 and 202 of this Act, shall not apply to or affect any person serving as chief judge on the effective date of this Act \[Oct. 1, 1982\].
 
@@ -74,9 +74,9 @@ Section 203 of part A of title II of Pub. L. 97–164 provided that:
 
 #### Appointment of Chief Judge of Court of Appeals for the Federal Circuit
 
-Section 166 of Pub. L. 97–164 provided that: “Notwithstanding the provisions of section 45(a) of title 28, United States Code, the first chief judge of the United States Court of Appeals for the Federal Circuit shall be the Chief Judge of the United States Court of Claims or the Chief Judge of the United States Court of Customs and Patent Appeals, whoever has served longer as chief judge of his court. Notwithstanding section 45 of title 28, United States Code, whichever of the two chief judges does not become the first chief judge of the United States Court of Appeals for the Federal Circuit under the preceding sentence shall, while in active service, have precedence and be deemed senior in commission over all the circuit judges of the United States Court of Appeals for the Federal Circuit (other than the first chief judge of that circuit). When the person who first serves as chief judge of the United States Court of Appeals for the Federal Circuit vacates that position, the position shall be filled in accordance with section 45(a) of title 28, United States Code, as modified by the preceding sentence of this section.”
+Pub. L. 97–164, title I, §166, Apr. 2, 1982, 96 Stat. 50, provided that: “Notwithstanding the provisions of section 45(a) of title 28, United States Code, the first chief judge of the United States Court of Appeals for the Federal Circuit shall be the Chief Judge of the United States Court of Claims or the Chief Judge of the United States Court of Customs and Patent Appeals, whoever has served longer as chief judge of his court. Notwithstanding section 45 of title 28, United States Code, whichever of the two chief judges does not become the first chief judge of the United States Court of Appeals for the Federal Circuit under the preceding sentence shall, while in active service, have precedence and be deemed senior in commission over all the circuit judges of the United States Court of Appeals for the Federal Circuit (other than the first chief judge of that circuit). When the person who first serves as chief judge of the United States Court of Appeals for the Federal Circuit vacates that position, the position shall be filled in accordance with section 45(a) of title 28, United States Code, as modified by the preceding sentence of this section.”
 
 #### Chief Judge of Court of Appeals for District of Columbia
 
-Section 2(a) of act June 25, 1948, provided in part that the Chief Justice of the Court of Appeals for the District of Columbia in office on Sept. 1, 1948, shall thereafter be known as the Chief Judge.
+Act June 25, 1948, ch. 646, §2(a), 62 Stat. 985, provided in part that the Chief Justice of the Court of Appeals for the District of Columbia in office on Sept. 1, 1948, shall thereafter be known as the Chief Judge.
 

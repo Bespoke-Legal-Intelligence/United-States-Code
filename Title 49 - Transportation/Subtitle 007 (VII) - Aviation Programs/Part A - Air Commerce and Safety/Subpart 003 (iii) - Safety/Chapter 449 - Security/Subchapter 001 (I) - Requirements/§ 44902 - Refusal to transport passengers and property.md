@@ -48,7 +48,7 @@ In subsection (a)(1), the words “of his person” are omitted as surplus.
 
 In subsection (a)(2), the words “or inspection” are omitted as surplus.
 
-In subsection (b), the words “reasonable” and “also” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”. The words “the carrier decides is” are substituted for “when, in the opinion of the carrier, such transportation would” to eliminate unnecessary words. The words “of flight” are omitted as surplus.
+In subsection (b), the words “reasonable” and “also” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”. The words “the carrier decides is” are substituted for “when, in theopinion of the carrier, such transportation would” to eliminate unnecessary words. The words “of flight” are omitted as surplus.
 
 In subsection (c), the words “for compensation or hire” are omitted because of the definitions of “air transportation” and “intrastate air transportation” in section 40102(a) of the revised title. The word “inspect” is omitted as surplus.
 

@@ -6,7 +6,7 @@ The legislative power and authority of Guam shall be vested in a legislature, co
 
 #### (b) Size of legislature; prohibition against denial of equal protection; at large and district representation
 
-The legislature shall be composed of not to exceed twenty-one members, to be known as senators, elected at large, or elected from legislative districts or elected in part at large and inpart from legislative districts, as the laws of Guam may direct: <i>Provided</i>, That any districting and any apportionment pursuant to this authorization and provided for by the laws of Guam shall not deny to any person in Guam the equal protection of the laws: <i>And provided further</i>, That in any elections to the legislature, every elector shall be permitted to vote for the whole number of at-large candidates to be elected, and every elector residing in a legislative district shall be permitted to vote for the whole number of candidates to be elected within that district.
+The legislature shall be composed of not to exceed twenty-one members, to be known as senators, elected at large, or elected from legislative districts or elected in part at large and in part from legislative districts, as the laws of Guam may direct: <i>Provided</i>, That any districting and any apportionment pursuant to this authorization and provided for by the laws of Guam shall not deny to any person in Guam the equal protection of the laws: <i>And provided further</i>, That in any elections to the legislature, every elector shall be permitted to vote for the whole number of at-large candidates to be elected, and every elector residing in a legislative district shall be permitted to vote for the whole number of candidates to be elected within that district.
 
 #### (c) Reapportionment; Federal census base
 
@@ -26,5 +26,5 @@ General elections to the legislature shall be held on the Tuesday next after the
 
 #### Amendment of Laws of Guam To Conform to Changes Made by Pub. L. 89–552
 
-Section 2 of Pub. L. 89–552 provided that: “As soon as practicable after enactment of this Act \[Sept. 2, 1966\], and subject to the conditions and requirements of section 10 of the Organic Act of Guam, as amended by section 1 hereof \[this section\], the laws of Guam shall be amended to make provision for the manner of the election of members of the legislature. Until the laws of Guam shall make such provision the method of electing the legislature shall remain as it is upon the date of enactment of this Act.”
+Pub. L. 89–552, §2, Sept. 2, 1966, 80 Stat. 376, provided that: “As soon as practicable after enactment of this Act \[Sept. 2, 1966\], and subject to the conditions and requirements of section 10 of the Organic Act of Guam, as amended by section 1 hereof \[this section\], the laws of Guam shall be amended to make provision for the manner of the election of members of the legislature. Until the laws of Guam shall make such provision the method of electing the legislature shall remain as it is upon the date of enactment of this Act.”
 

@@ -34,7 +34,7 @@ The Director shall increase funding for the basic research activities described 
 
 #### (4) Report to Congress
 
-The Director shall transmit to Congress, as part of the President's annual budget submission under section 1105 of title 31, a report on the amounts allocated for support of researchunder this section for the fiscal year during which such report is submitted and the levels proposed for the fiscal year with respect to which the budget submission applies.
+The Director shall transmit to Congress, as part of the President's annual budget submission under section 1105 of title 31, a report on the amounts allocated for support of research under this section for the fiscal year during which such report is submitted and the levels proposed for the fiscal year with respect to which the budget submission applies.
 
 (Pub. L. 110–69, title VII, §7024(b), Aug. 9, 2007, 121 Stat. 689.)
 
@@ -48,5 +48,5 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Definitions
 
-For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862<i>o</i> of this title.
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.
 

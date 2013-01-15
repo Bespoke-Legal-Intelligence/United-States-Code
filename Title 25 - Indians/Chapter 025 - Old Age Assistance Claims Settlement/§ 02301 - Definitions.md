@@ -16,5 +16,5 @@ For purposes of this chapter, the term—
 
 #### Short Title
 
-Section 1 of Pub. L. 98–500 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Old Age Assistance Claims Settlement Act’.”
+Pub. L. 98–500, §1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Old Age Assistance Claims Settlement Act’.”
 

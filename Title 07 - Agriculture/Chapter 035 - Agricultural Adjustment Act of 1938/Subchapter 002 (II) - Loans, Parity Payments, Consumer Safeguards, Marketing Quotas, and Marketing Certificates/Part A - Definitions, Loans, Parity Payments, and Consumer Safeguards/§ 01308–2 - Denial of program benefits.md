@@ -24,7 +24,7 @@ If the Secretary determines that a person or legal entity, for the benefit of th
 
 #### (d) Joint and several liability
 
-Any legal entity (including partnerships and joint ventures) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
+Any legal entity (including partnerships and joint ventures) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or 1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
 
 #### (e) Release
 
@@ -50,7 +50,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date
 
-Section 1304(b) of Pub. L. 100–203 provided that this section is effective beginning with the 1989 crops.
+Pub. L. 100–203, title I, §1304(b), Dec. 22, 1987, 101 Stat. 1330–17, provided that this section is effective beginning with the 1989 crops.
 
 #### Transition Provisions
 

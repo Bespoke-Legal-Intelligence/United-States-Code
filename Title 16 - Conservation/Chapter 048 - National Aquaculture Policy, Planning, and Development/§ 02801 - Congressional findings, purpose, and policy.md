@@ -52,9 +52,9 @@ Subsec. (c). Pub. L. 99–198, §1732(4), inserted “or reducing the United Sta
 
 #### Short Title of 1985 Amendment
 
-Section 1731 of Pub. L. 99–198 provided that: “This subtitle \[subtitle C \[D\] (§§1731–1737) of title XVII of Pub. L. 99–198, amending this section and sections 2802 to 2805 and 2809 of this title\] may be cited as the ‘National Aquaculture Improvement Act of 1985’.”
+Pub. L. 99–198, title XVII, §1731, Dec. 23, 1985, 99 Stat. 1641, provided that: “This subtitle \[subtitle C \[D\] (§§1731–1737) of title XVII of Pub. L. 99–198, amending this section and sections 2802 to 2805 and 2809 of this title\] may be cited as the ‘National Aquaculture Improvement Act of 1985’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–362 provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Aquaculture Act of 1980’.”
+Pub. L. 96–362, §1, Sept. 26, 1980, 94 Stat. 1198, provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Aquaculture Act of 1980’.”
 

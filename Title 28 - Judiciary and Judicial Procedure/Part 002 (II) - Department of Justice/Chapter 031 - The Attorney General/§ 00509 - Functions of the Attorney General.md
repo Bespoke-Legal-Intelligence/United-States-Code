@@ -42,7 +42,7 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 #### Effective Date of 1984 Amendment
 
-Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, §235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
 #### Transfer of Functions
 
@@ -144,7 +144,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $2,00
 
 “(a)
 
-In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
+In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of theFederal Bureau of Investigation in order to advance the purposes set forth in this Act.
 
 “(b)
 
@@ -430,7 +430,7 @@ Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “T
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
-Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil orcriminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
+Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
 
 #### Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions
 
@@ -526,7 +526,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 “(a) Notwithstanding any other law and in any fiscal year—
 
-&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal orunlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
+&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
 
 &emsp;“(2) any attorney of a department or agency whose services are accepted pursuant to paragraph (1) may, subject to the supervision of the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, and perform any other investigative or prosecutorial function, which United States attorneys are authorized by law to conduct or perform whether or not the attorney is a resident of the district in which the proceeding is brought; and
 
@@ -756,7 +756,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 (b) There shall be transferred to the Department of Justice, at such time or times as the Director of the Bureau of the Budget shall direct, so much as the Director shall determine of other positions, personnel, property, records and unexpended balances of appropriations, allocations, and other funds of the Department of the Treasury and of the Department of Health, Education, and Welfare employed, used, held, available or to be made available in connection with functions transferred by the provisions of this reorganization plan.
 
-(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers providedin this section shall be carried out in such manner as he may direct and by such agencies as he shall designate.
+(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided in this section shall be carried out in such manner as he may direct and by such agencies as he shall designate.
 
 #### Message of the President
 
@@ -832,7 +832,7 @@ There are hereby transferred from the Secretary of the Treasury, the Department 
 
 #### Sec. 2. Transfers to the Secretary of the Treasury
 
-\[Repealed. Pub. L. 93–253, §1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transferto Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
+\[Repealed. Pub. L. 93–253, §1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
 
 #### Sec. 3. Abolition
 
@@ -898,7 +898,7 @@ Notwithstanding these gains, much more must be done. The resilience of the inter
 
 Seeking ways to intensify our counter-offensive against this menace, I am asking the Congress today to join with this Administration in strengthening and streamlining the Federal drug law enforcement effort.
 
-Funding for this effort has increased sevenfold during the past five years, from $36 million in fiscal year 1969 to $257 million in fiscal year 1974—more money is not the most pressing enforcement need at present. Nor is there a primary need for more manpower working on the problem, over 2100 new agents having already been added to the Federal drug enforcement agencies under this Administration, an increase of more than 250 percent over the 1969 level.
+Funding for this effort has increased sevenfold during the past five years, from $36 million in fiscal year 1969 to $257 million in fiscal year 1974—more money is not the most pressing enforcement need at present. Nor is there a primary need for more manpower working on the problem, over 2100 new agents having already beenadded to the Federal drug enforcement agencies under this Administration, an increase of more than 250 percent over the 1969 level.
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
 
@@ -1026,13 +1026,13 @@ Establishment of the Federal Legal Council
 
 (k) The Securities and Exchange Commission.
 
-(<i>l</i>) The Department of State.
+(l) The Department of State.
 
 (m) The Department of the Treasury.
 
 (n) The Department of Homeland Security.
 
-(<i>o</i>) The United States Postal Service and
+(o) The United States Postal Service and
 
 (p) the Veterans Administration.
 

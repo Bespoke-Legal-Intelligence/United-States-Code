@@ -28,7 +28,7 @@ Provisions setting forth authority for the allocation of the positions of legisl
 
 #### Effective Date of 1949 Amendment
 
-Section 9 of act Oct. 15, 1949, provided that: “This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act \[Oct. 15, 1949\].”
+Act Oct. 15, 1949, ch. 695, §9, 63 Stat. 882, provided that: “This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act \[Oct. 15, 1949\].”
 
 #### Repeals
 

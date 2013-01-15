@@ -90,13 +90,13 @@
 
 #### (5) Definition
 
-&emsp;For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
+&emsp;For purposes of this subsection, the term “underrepresented minority individuals”means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
 
 (July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532; amended Pub. L. 111–148, title V, §5402(a), title X, §10501(d), Mar. 23, 2010, 124 Stat. 644, 995.)
 
 #### References in Text
 
-Subpart III of part D of subchapter II of this chapter, referred to in subsec. (a)(5), is classified to section 254<i>l</i> et seq. of this title.
+Subpart III of part D of subchapter II of this chapter, referred to in subsec. (a)(5), is classified to section 254l et seq. of this title.
 
 #### Prior Provisions
 

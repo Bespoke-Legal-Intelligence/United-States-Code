@@ -94,5 +94,5 @@ A prior section 5181 was renumbered 5182 of this title.
 
 #### Effective Date
 
-Section 232(h)(3) of Pub. L. 96–223 provided that: “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
+Pub. L. 96–223, title II, §232(h)(3), Apr. 2, 1980, 94 Stat. 281, provided that: “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
 

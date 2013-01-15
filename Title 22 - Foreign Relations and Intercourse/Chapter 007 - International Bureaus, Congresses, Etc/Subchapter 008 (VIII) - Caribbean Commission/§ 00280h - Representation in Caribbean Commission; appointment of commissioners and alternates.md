@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Purpose of Commission
 
-In defining the purposes of act Mar. 4, 1948, Congress stated that:
+Act Mar. 4, 1948, ch. 97, 62 Stat. 65, provided that:
 
 “Whereas representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America signed ‘An Agreement for the establishment of the Caribbean Commission’ in Washington on October 30, 1946, which agreement continued and extended the international cooperative arrangements initiated in 1942 between the United Kingdom of Great Britain and Northern Ireland, and the United States; and
 

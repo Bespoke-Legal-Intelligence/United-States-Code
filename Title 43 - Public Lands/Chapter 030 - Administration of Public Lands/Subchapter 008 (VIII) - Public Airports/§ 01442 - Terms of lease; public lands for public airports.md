@@ -12,7 +12,7 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 
 (e) That whenever the President may deem it necessary for military purposes, the Secretary of the Army may assume full control of the airport.
 
-(May 24, 1928, ch. 728, §2, 45 Stat. 728; June 23, 1938, ch. 601, §1107(b), 52 Stat. 1027; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 85–726, title XIV, §§1401(b), 1402(a), Aug. 23, 1958, 72 Stat. 806.)
+(May 24, 1928, ch. 728, §2, 45 Stat. 728; June 23, 1938, ch. 601, §1107(b), 52 Stat. 1027; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L.85–726, title XIV, §§1401(b), 1402(a), Aug. 23, 1958, 72 Stat. 806.)
 
 #### Codification
 
@@ -30,7 +30,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726 provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office Oct. 31, 1958.
+Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 811, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office Oct. 31, 1958.
 
 #### Transfer of Functions
 

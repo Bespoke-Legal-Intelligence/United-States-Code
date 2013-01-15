@@ -76,7 +76,7 @@ In this section, the term “institution of higher education” has the meaning 
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
+For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
 
 (July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413.)
 

@@ -190,7 +190,7 @@
 
 (3) For purposes of this subsection, any appropriation, new obligational authority, or outlay shall be classified as a military capital investment to the extent that such appropriation, authority, or outlay will be used for the construction, acquisition, or rehabilitation of any physical asset that is capable of being used to produce services or other benefits for purposes of national defense and security for a number of years. Such assets shall include military bases, posts, installations, and facilities.
 
-(4) Criteria and guidelines for use in the identification of public civilian and military capitalinvestments, for distinguishing between public civilian and military capital investments, and for distinguishing between major and nonmajor capital investment programs shall be issued by the Director of the Office of Management and Budget after consultation with the Comptroller General and the Congressional Budget Office. The analysis submitted under this subsection shall be accompanied by an explanation of such criteria and guidelines.
+(4) Criteria and guidelines for use in the identification of public civilian and military capital investments, for distinguishing between public civilian and military capital investments, and for distinguishing between major and nonmajor capital investment programs shall be issued by the Director of the Office of Management and Budget after consultation with the Comptroller General and the Congressional Budget Office. The analysis submitted under this subsection shall be accompanied by an explanation of such criteria and guidelines.
 
 (5) For purposes of this subsection—
 
@@ -222,7 +222,7 @@
 
 (h)(1) If there is a medicare funding warning under section 801(a)(2) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 made in a year, the President shall submit to Congress, within the 15-day period beginning on the date of the budget submission to Congress under subsection (a) for the succeeding year, proposed legislation to respond to such warning.
 
-(2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
+(2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement,and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881.)
 
@@ -334,7 +334,7 @@ In subsection (a)(10), the words “bonded and other” are omitted as surplus.
 
 In subsection (a)(11), the words “information the President decides” are substituted for “statements and data as in his opinion” for clarity and consistency. The word “desirable” is substituted for “necessary or desirable” and the words “to explain” are substituted for “in order to make known”, to eliminate unnecessary words.
 
-In subsection (a)(12), before subclause (A), the word “legislation” is substituted for “new or additional legislation” to eliminate unnecessary words. The words “activity or function” are substituted for “function, activity, or authority” for consistency. The words “in addition to those functions, activities, and authorities then existing or as then being administered and operated” are omitted as surplus.
+In subsection (a)(12), before subclause (A), the word “legislation” is substituted for “new or additional legislation” to eliminate unnecessary words. The words “activity or function” are substituted for “function, activity, or authority” for consistency. The words “inaddition to those functions, activities, and authorities then existing or as then being administered and operated” are omitted as surplus.
 
 In subsection (a)(16), the words “fiscal year for which the budget is submitted” are substituted for “such fiscal year” for clarity.
 
@@ -612,7 +612,7 @@ Direction to the Appropriate House Committees.—
 
 &emsp;“(1)
 
-In general.—In the House, in any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, the appropriate committees shall report medicare funding legislation by not later than June 30 of such year.
+In general.—In the House, in any year during which the President is required to submit proposedlegislation to Congress under section 1105(h) of title 31, United States Code, the appropriate committees shall report medicare funding legislation by not later than June 30 of such year.
 
 &emsp;“(2)
 
@@ -640,7 +640,7 @@ Fallback Procedure for Floor Consideration if the House Fails to Vote on Final P
 
 &emsp;“(3) Only one motion to discharge a particular committee may be adopted under this subsection in any session of a Congress.
 
-&emsp;“(4) Notwithstanding paragraph (1), it shall not be in order to move to discharge a committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if, during the previous session of the Congress, the House passed medicare funding legislation forwhich there is an affirmative certification under subsection (b)(3)(A).
+&emsp;“(4) Notwithstanding paragraph (1), it shall not be in order to move to discharge a committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if, during the previous session of the Congress, the House passed medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A).
 
 “(d)
 
@@ -680,7 +680,7 @@ Introduction and Referral of President's Legislative Proposal.—
 
 &emsp;“(1)
 
-Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader and Minority Leader of the Senate (or their designees) shall introduce such proposal (by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 days of session after Congress receives such proposal.
+Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader and Minority Leader of the Senate (or their designees) shall introduce such proposal\(by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 days of session after Congress receives such proposal.
 
 &emsp;“(2)
 
@@ -794,7 +794,7 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §638\], Oct. 21, 1998, 112 Stat
 
 #### Federal Motor Carrier Safety Administration
 
-Pub. L. 106–159, title I, §107(b), Dec. 9, 1999, 113 Stat. 1758, provided that: “The President's budget submission for fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act \[see Tables for classification\].”
+Pub. L. 106–159, title I, §107(b), Dec. 9, 1999, 113 Stat. 1758, provided that: “The President's budget submissionfor fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act \[see Tables for classification\].”
 
 #### Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting
 
@@ -818,7 +818,7 @@ Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
 “(a)
 
-Opinion of Congress.—It is the opinion of the Congress that the programs and activities of the CoastGuard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
+Opinion of Congress.—It is the opinion of the Congress that the programs and activities of the Coast Guard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
 
 “(b)
 
@@ -848,7 +848,7 @@ Pub. L. 99–145, title XIV, §1405, Nov. 8, 1985, 99 Stat. 744, which related t
 
 #### Federal Capital Investment Program; Congressional Statement of Purposes
 
-Section 202 of Pub. L. 98–501 provided that: “The purposes of this title \[amending this section and enacting provisions set out as notes under this section and section 1101 of this title\] are—
+Pub. L. 98–501, title II, §202, Oct. 19, 1984, 98 Stat. 2324, provided that: “The purposes of this title \[amending this section and enacting provisions set out as notes under this section and section 1101 of this title\] are—
 
 &emsp;“(1) to provide budget projections for major Federal capital investment programs;
 
@@ -870,13 +870,15 @@ For provisions requiring annual review of direct spending and receipts to be par
 
 #### Ex. Ord. No. 6715. Filing of Functional Organization Charts With the Director of the Bureau of the Budget
 
-Ex. Ord. No. 6715, May 23, 1934, provided:
+Ex. Ord. No. 6715, May 23, 1934, provided in part:
 
 (1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
 
 (2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 
 (3) The Director of the Bureau of the Budget is hereby authorized to prescribe, subject to the approval of the President, such rules and regulations as will indicate the information desired and the form of chart to be furnished.
+
+Franklin D. Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Assignment of Function Regarding Medicare Funding
 

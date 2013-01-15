@@ -16,7 +16,7 @@ Notwithstanding section 1421(b) of this title, an individual may be granted an e
 
 The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(<i>o</i>), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18), (d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
+(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(o), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18), (d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Demonstration Projects To Provide for Administration of Oath of Allegiance
 

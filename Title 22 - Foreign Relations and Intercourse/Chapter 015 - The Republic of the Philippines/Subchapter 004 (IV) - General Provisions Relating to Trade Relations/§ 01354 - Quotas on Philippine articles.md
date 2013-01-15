@@ -26,9 +26,9 @@ Subsec. (a) of this section, which provided that the President establish quotas 
 
 #### Effective Date
 
-Section 512 of act Apr. 30, 1946, provided that: “This Act \[enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions\] shall take effect on the day after the date of its enactment \[Apr. 30, 1946\], except Part 2 of Title II \[enacting sections 1261 to 1266 of this title\], which shall take effect as of January 1, 1946.”
+Act Apr. 30, 1946, ch. 244, title V, §512, 60 Stat. 158, provided that: “This Act \[enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions\] shall take effect on the day after the date of its enactment \[Apr. 30, 1946\], except Part 2 of Title II \[enacting sections 1261 to 1266 of this title\], which shall take effect as of January 1, 1946.”
 
 #### Short Title
 
-Section 1 of act Apr. 30, 1946, provided that: “This Act \[enacting subchapters I to IV of this chapter, amending section 1393 of this title, sections 2470 and 2800 of the Internal Revenue Code of 1939, and section 734 of Title 48, Territories and Insular Possessions, repealing section 1301 of Title 19, Customs Duties, sections 2476, and 3340 to 3343 of the Internal Revenue Code of 1939, and section 1243 of Title 48\] may be cited as the ‘Philippine Trade Act of 1946’.”
+Act Apr. 30, 1946, ch. 244, title I, §1, 60 Stat. 141, provided that: “This Act \[enacting subchapters I to IV ofthis chapter, amending section 1393 of this title, sections 2470 and 2800 of the Internal Revenue Code of 1939, and section 734 of Title 48, Territories and Insular Possessions, repealing section 1301 of Title 19, Customs Duties, sections 2476, and 3340 to 3343 of the Internal Revenue Code of 1939, and section 1243 of Title 48\] may be cited as the ‘Philippine Trade Act of 1946’.”
 

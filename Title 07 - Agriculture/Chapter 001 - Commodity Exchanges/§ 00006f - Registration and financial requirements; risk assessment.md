@@ -12,7 +12,7 @@
 
 &emsp;(C) the registration of the broker or dealer is not suspended pursuant to an order of the Securities and Exchange Commission; and
 
-&emsp;(D) the broker or dealer is a member of a national securities association registered pursuant to section 78<i>o</i>–3(a) of title 15.
+&emsp;(D) the broker or dealer is a member of a national securities association registered pursuant to section 78o–3(a) of title 15.
 
 > The registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission.
 
@@ -50,7 +50,7 @@
 
 (C)(i) A broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3), shall not be required to become a member of any futures association registered under section 21 of this title.
 
-(ii) No futures association registered under section 21 of this title shall limit its members from carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or thatis a floor broker or floor trader exempt from registration pursuant to paragraph (3).
+(ii) No futures association registered under section 21 of this title shall limit its members from carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
 
 #### (b) Financial requirements for futures commission merchants and introducing brokers
 
@@ -72,7 +72,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (3)(A),<sup>1</sup> If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (2) or other available information, the Commission reasonably concludes that the Commission has concerns regarding the financial or operational condition of any registered futures commission merchant, the Commission may require the futures commission merchant to make reports concerning the futures and other financial activities of any of such person's affiliated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the futures commission merchant.
 
-(B) The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a contract market or derivatives transaction execution facility or other self-regulatory organization with primary responsibility for examining the registered futures commission merchant's financial and operational condition.
+(B) The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a contract market or derivatives transaction execution facility or other self-regulatory organization with primary responsibilityfor examining the registered futures commission merchant's financial and operational condition.
 
 (4)(A) in <sup>2</sup> developing and implementing reporting requirements pursuant to paragraph (2) with respect to affiliated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to the written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish the comment and response in the Federal Register at the time of publishing the adopted rule.
 
@@ -108,7 +108,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (11) Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
 
-(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §252(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–246, title XIII, §13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, titleI, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §252(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–246, title XIII, §13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
 
 #### References in Text
 

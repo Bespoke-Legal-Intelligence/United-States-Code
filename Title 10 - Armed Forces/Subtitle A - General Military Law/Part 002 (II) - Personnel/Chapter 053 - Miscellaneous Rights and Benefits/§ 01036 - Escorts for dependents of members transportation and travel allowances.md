@@ -18,11 +18,11 @@ Under regulations to be prescribed by the Secretary concerned, round trip transp
 
 #### Effective Date of 1983 Amendment
 
-Section 913(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1040 of this title\] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
+Pub. L. 98–94, title IX, §913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1040 of this title\] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
 #### Back Payments: Validation; Application; Limitations; Accountability of Disbursing Officers; Regulations
 
-Sections 4–7 of Pub. L. 86–160 provided that:
+Pub. L. 86–160, §§4–7, Aug. 14, 1959, 73 Stat. 359, provided that:
 
 “
 

@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–121 provided that: “Section 1 of this Act \[amending this section\] shall take effect upon a majority of the qualified electors of Puerto Rico having voted in a referendum pursuant to section 1 of article VII of the constitution of the Commonwealth of Puerto Rico, to include provisions in the Commonwealth constitution, in lieu of the provisions of section 3 of the Puerto Rican Federal Relations Act \[this section\] specified herein, limiting the debt-incurring capacity of the Commonwealth and of its municipalities (as proposed in the concurrent resolution of the legislative assembly of the Commonwealth).”
+Pub. L. 87–121, §2, Aug. 3, 1961, 75 Stat. 245, provided that: “Section 1 of this Act \[amending this section\] shall take effect upon a majority of the qualified electors of Puerto Rico having voted in a referendum pursuant to section 1 of article VII of the constitution of the Commonwealth of Puerto Rico, to include provisions in the Commonwealth constitution, in lieu of the provisions of section 3 of the Puerto Rican Federal Relations Act \[this section\] specified herein, limiting the debt-incurring capacity of the Commonwealth and of its municipalities (as proposed in the concurrent resolution of the legislative assembly of the Commonwealth).”
 
 \[Referendum held Dec. 10, 1961, and debt limitation amendment to Article VI, §2, of Constitution of Commonwealth of Puerto Rico ratified by a majority of voters.\]
 

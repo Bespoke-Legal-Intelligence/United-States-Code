@@ -40,7 +40,7 @@ Development of Educational Projects.—The Administrator of the National Aeronau
 
 “(c)
 
-Development of Research Plans for Competitiveness Enhancement.—The Administrator shall develop a detailed plan for identification and support of research to be conducted aboard the InternationalSpace Station, which offers the potential for enhancement of United States competitiveness in science, technology, and engineering. In developing any detailed plan pursuant to this subsection, the Administrator shall consult with agencies and entities with which cooperative agreements have been reached regarding utilization of International Space Station National Laboratory facilities.”
+Development of Research Plans for Competitiveness Enhancement.—The Administrator shall develop a detailed plan for identification and support of research to be conducted aboard the International Space Station, which offers the potential for enhancement of United States competitiveness in science, technology, and engineering. In developing any detailed plan pursuant to this subsection, the Administrator shall consult with agencies and entities with which cooperative agreements have been reached regarding utilization of International Space Station National Laboratory facilities.”
 
 Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–155, title II, §207(b), title VII, §706(a), Dec. 30, 2005, 119 Stat. 2916, 2937, provided that:
 

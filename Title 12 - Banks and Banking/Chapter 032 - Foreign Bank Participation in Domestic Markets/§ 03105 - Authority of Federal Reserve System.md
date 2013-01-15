@@ -4,7 +4,7 @@
 
 (1)(A) Except as provided in paragraph (2) of this subsection, sections 371a,<sup>1</sup> 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
 
-(B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
+(B) After consultation and in cooperation with the State bank supervisory authorities, theBoard may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
 
 (2) A branch or agency shall be subject to this subsection only if (A) its parent foreign bank has total worldwide consolidated bank assets in excess of $1,000,000,000; (B) its parent foreign bank is controlled by a foreign company which owns or controls foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000; or (C) its parent foreign bank is controlled by a group of foreign companies that own or control foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000.
 
@@ -22,7 +22,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate Statebank supervisors to the extent such coordination is possible.
+&emsp;&emsp;&emsp;The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate State bank supervisors to the extent such coordination is possible.
 
 #### (ii) Simultaneous examinations
 
@@ -74,7 +74,7 @@
 
 #### (4) Factor
 
-&emsp;In acting on an application under paragraph (1), the Board shall not make the size of the foreign bank the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this chapter.
+&emsp;In acting on an application under paragraph (1), the Board shall not make the size of theforeign bank the sole determinant factor, and may take into account the needs of the community as well as the length of operation of the foreign bank and its relative size in its home country. Nothing in this paragraph shall affect the ability of the Board to order a State branch, agency, or commercial lending company subsidiary to terminate its activities in the United States pursuant to any standard set forth in this chapter.
 
 #### (5) Establishment of conditions
 
@@ -92,7 +92,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall alsoconsider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -148,7 +148,7 @@
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
-&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agencyof a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
+&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agency of a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
 
 #### (6) Enforcement of orders
 
@@ -292,7 +292,7 @@ Subsec. (e)(1)(C). Pub. L. 111–203, §173(b), added subpar. (C).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §2214(a)(2), added cl. (iii).
 
-Subsec. (c)(1)(C). Pub. L. 104–208, §2214(a)(3), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “Each branch or agency of a foreign bank shall be examined at least once during each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.”
+Subsec. (c)(1)(C). Pub. L. 104–208, §2214(a)(3), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “Each branch or agency of a foreign bank shall be examined at least onceduring each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.”
 
 Subsec. (c)(1)(D). Pub. L. 104–208, §2214(a)(4), inserted “, only to the same extent that fees are collected by the Board for examination of any State member bank” before period at end.
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 1994 Amendment
 
-Section 107(e)(2) of Pub. L. 103–328 provided that: “The amendment made by paragraph (1) \[amending this section\] shall become effective at the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”
+Pub. L. 103–328, title I, §107(e)(2), Sept. 29, 1994, 108 Stat. 2361, provided that: “The amendment made by paragraph (1) \[amending this section\] shall become effective at the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -348,7 +348,7 @@ Amendment by section 1604(a)(1), (2), (12), (13) of Pub. L. 102–550 effective 
 
 #### Moratorium on Examination Fees Under This Chapter
 
-Section 115(a) of Pub. L. 103–328 provided that: “Section 7(c)(1)(D) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)(D)\] shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.”
+Pub. L. 103–328, title I, §115(a), Sept. 29, 1994, 108 Stat. 2368, provided that: “Section 7(c)(1)(D) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)(D)\] shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

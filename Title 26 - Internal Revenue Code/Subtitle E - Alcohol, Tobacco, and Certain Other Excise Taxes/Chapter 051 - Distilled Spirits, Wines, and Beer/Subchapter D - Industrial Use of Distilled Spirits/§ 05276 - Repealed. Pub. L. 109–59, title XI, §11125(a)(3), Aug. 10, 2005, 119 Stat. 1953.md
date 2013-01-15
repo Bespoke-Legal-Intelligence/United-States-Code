@@ -1,6 +1,6 @@
 ### \[§5276. Repealed. Pub. L. 109–59, title XI, §11125(a)(3), Aug. 10, 2005, 119 Stat. 1953\]
 
-Section, added Pub. L. 100–203, title X, §10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, §2004(t)(1), title VI, §6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, §7816(<i>o</i>), Dec. 19, 1989, 103 Stat. 2422, related to occupational tax on permit holders.
+Section, added Pub. L. 100–203, title X, §10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, §2004(t)(1), title VI, §6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, §7816(o), Dec. 19, 1989, 103 Stat. 2422, related to occupational tax on permit holders.
 
 #### Prior Provisions
 

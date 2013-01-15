@@ -36,7 +36,7 @@ Without prejudice to the rights of the objectors, the applicant, or the responsi
 
 #### (h) Power of regulatory authority with respect to informal conference
 
-For the purpose of such hearing the regulatory authority shall have the authority and is hereby empowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
+For the purpose of such hearing the regulatory authority shall have the authority and is herebyempowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
 
 (Pub. L. 95–87, title V, §519, Aug. 3, 1977, 91 Stat. 501.)
 

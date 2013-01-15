@@ -2,7 +2,7 @@
 
 #### (a) Misbranded consumer commodities
 
-Any consumer commodity which is a food, drug, device, or cosmetic, as each such term is defined by section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321), and which is introduced or delivered for introduction into commerce in violation of any of the provisions of this chapter, or the regulations issued pursuant to this chapter, shall be deemed to be misbranded within the meaning of chapter III of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 331 et seq.\], but the provisions of section 303 of that Act (21 U.S.C. 333) shall have no application to any violation of section 1452 of this title.
+Any consumer commodity which is a food, drug, device, or cosmetic, as each such term is defined by section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321), and which is introduced or delivered for introduction into commerce in violation of any of the provisionsof this chapter, or the regulations issued pursuant to this chapter, shall be deemed to be misbranded within the meaning of chapter III of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 331 et seq.\], but the provisions of section 303 of that Act (21 U.S.C. 333) shall have no application to any violation of section 1452 of this title.
 
 #### (b) Unfair or deceptive acts or practices in commerce
 
@@ -10,7 +10,7 @@ Any violation of any of the provisions of this chapter, or the regulations issue
 
 #### (c) Imports
 
-In the case of any imports into the United States of any consumer commodity covered bythis chapter, the provisions of sections 1453 and 1454 of this title shall be enforced by the Secretary of the Treasury pursuant to section 801(a) and (b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381).
+In the case of any imports into the United States of any consumer commodity covered by this chapter, the provisions of sections 1453 and 1454 of this title shall be enforced by the Secretary of the Treasury pursuant to section 801(a) and (b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381).
 
 (Pub. L. 89–755, §7, Nov. 3, 1966, 80 Stat. 1300.)
 

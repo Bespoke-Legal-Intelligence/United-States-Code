@@ -20,7 +20,7 @@
 
 #### (C) Enrollee protection against insolvency
 
-&emsp;&emsp;Such standards shall include provisions to prevent enrollees from being held liable to any person or entity for the Medicare+�Choice organization's debts in the event of the organization's insolvency.
+&emsp;&emsp;Such standards shall include provisions to prevent enrollees from being held liable to any person or entity for the Medicare+Choice organization's debts in the event of the organization's insolvency.
 
 #### (2) Publication of notice
 

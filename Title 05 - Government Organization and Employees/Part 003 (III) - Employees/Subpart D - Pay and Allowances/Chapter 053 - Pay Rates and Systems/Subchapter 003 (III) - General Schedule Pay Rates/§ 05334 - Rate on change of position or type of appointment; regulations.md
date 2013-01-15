@@ -16,9 +16,9 @@
 
 &emsp;(7) his position is changed from one grade to another grade.
 
-> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 14306(a)(2) of title 40, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
+> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 14306(a)(2) of title 40, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferredfrom a position in the executive branch to which this subchapter does not apply.
 
-(b) An employee who is promoted or transferred to a position in a higher grade is entitledto basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
+(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
 &emsp;(1) the maximum rate of the higher grade; or
 
@@ -66,11 +66,11 @@
 
 > any rate adjustment under the preceding provisions of this section, with respect to such employee in connection with such move, shall be made—
 
-&emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move, and
+&emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relativeposition in the rate range) before the move, and
 
-&emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any),treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
+&emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub. L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes
 
@@ -166,7 +166,7 @@ Pub. L. 90–367 added subsec. (f).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on orafter the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -174,7 +174,7 @@ Pub. L. 108–178, §5, Dec. 15, 2003, 117 Stat. 2642, provided that: “This Ac
 
 #### Effective Date of 1997 Amendment
 
-Section 1104(b) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title XI, §1104(b), Nov. 18, 1997, 111 Stat. 1923, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, §205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 #### Effective Date of 1979 Amendment
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 105–85, div. A, title V, §504(a), Nov. 18, 1997, 111 Stat. 1725, provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
@@ -206,7 +206,7 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 #### Effective Date of 1968 Amendment
 
-Section 6 of Pub. L. 90–623 provided that:
+Pub. L. 90–623, §6, Oct. 22, 1968, 82 Stat. 1315, provided that:
 
 “(a) Sections 1–5 of this Act \[amending this section, sections 559, 2108, 3102, 3502, 5314, 5315, 5316, 5352, 5353, 5516, 5521, 5527, 5537, 5546, 5724, 6104, 6305, 6312, 6323, 6324, 8143, 8191, 8331, and 8347 of this title, sections 101, 510 \[now 12102\], 815, 1124, 3534, 4342, 5149, 6483, 6954, and 9342 of Title 10, Armed Forces, sections 101, 212, 205, 305, 306, 307, 308, 311, 406, 417, 554, 703, 904, 1001, and 1006 of Title 37, Pay and Allowances of the Uniformed Services, and sections 2727 and 2994b of Title 42, The Public Health and Welfare, and repealing section 8339 note of this title\] restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after June 30, 1968, that are inconsistent with this Act \[Oct. 22, 1968\] supersede it to the extent of the inconsistency.
 

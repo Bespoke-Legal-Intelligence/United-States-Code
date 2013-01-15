@@ -16,7 +16,7 @@ In the case of an individual, if the stock sold or exchanged is a capital asset 
 
 &emsp;(1) a pro rata share of the excess of—
 
-&emsp;&emsp;(A) the taxes that would have been paid by the foreign corporation with respect to its income had it been taxed under this chapter as a domestic corporation (but without allowance for deduction of, or credit for, taxes described in subparagraph (B)), for the period or periods the stock sold or exchanged was held by the United States person in taxable years beginning after December 31, 1962, while the foreign corporation was a controlled foreign corporation, adjusted for distributions and amounts previously included in gross income of a United States shareholder under section 951, over
+&emsp;&emsp;(A) the taxes that would have been paid by the foreign corporation with respect to its income had it been taxed under this chapter as a domestic corporation (but without allowance for deduction of, or credit for, taxes described in subparagraph (B)), for the period or periods the stock sold or exchanged was held by the United States person in taxable years beginning after December 31, 1962,while the foreign corporation was a controlled foreign corporation, adjusted for distributions and amounts previously included in gross income of a United States shareholder under section 951, over
 
 &emsp;&emsp;(B) the income, war profits, or excess profits taxes paid by the foreign corporation with respect to such income; and
 
@@ -78,7 +78,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 &emsp;&emsp;(B) would not (but for section 923(a)(4)) be treated as exempt foreign trade income.
 
-> &emsp;For purposes of the preceding sentence, the terms “foreign trade income” and “exempt foreign trade income” have the respective meanings given such terms by section 923. Any reference in this paragraph to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
+> &emsp;For purposes of the preceding sentence, the terms “foreign trade income” and “exemptforeign trade income” have the respective meanings given such terms by section 923. Any reference in this paragraph to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
 #### (6) Amounts included in gross income under section 1293
 
@@ -158,7 +158,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22,1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
 
 #### References in Text
 
@@ -232,11 +232,11 @@ Subsec. (c)(1). Pub. L. 94–455, §§1901(b)(32)(B)(iii), 1906(b)(13(A), substi
 
 Subsec. (c)(2)(A). Pub. L. 94–455, §1042(c)(3)(A), substituted “subsection (a) or (f) applies to a sale, exchange, or distribution” for “subsection (a) applies to a sale or exchange”.
 
-Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted “(or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5–year period ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchanged over the basis of such stock (for determining gain) in the hands of the transferor)”. §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted “(or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5–yearperiod ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchanged over the basis of such stock (for determining gain) in the hands of the transferor)”. §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as ineffect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year period more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by such United States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
+Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year period more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by such United States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -270,13 +270,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Section 1875(g)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986.”
+Pub. L. 99–514, title XVIII, §1875(g)(2), Oct. 22, 1986, 100 Stat. 2897, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986.”
 
 Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 133(d)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to exchanges after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §133(d)(1), July 18, 1984, 98 Stat. 668, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to exchanges after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 Amendment by section 133(b)(2), (c) of Pub. L. 98–369 applicable with respect to transactions to which subsec. (a) or (f) of this section applies occurring after July 18, 1984, with election of earlier date for certain transactions, see section 133(d)(2), (3) of Pub. L. 98–369, set out as a note under section 959 of this title.
 
@@ -286,19 +286,19 @@ Amendment by section 1001(b)(22) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 1022(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title X, §1022(b), Oct. 4, 1976, 90 Stat. 1619, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 For effective date of amendment by section 1042 of Pub. L. 94–455, see section 1042(e) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Amendment by section 1901(b)(3)(H), (32)(B)(iii) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(3)(H), (32)(B)(iii) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 89–809 applicable with respect to sales or exchanges occu
 
 #### Effective Date
 
-Section 15(c) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to sales or exchanges occurring after December 31, 1962.”
+Pub. L. 87–834, §15(c), Oct. 16, 1962, 76 Stat. 1044, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to sales or exchanges occurring after December 31, 1962.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -314,7 +314,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule
 
-Section 1875(g)(3) of Pub. L. 99–514 provided that: “An exchange shall be treated as occurring on or before March 1, 1986, if—
+Pub. L. 99–514, title XVIII, §1875(g)(3), Oct. 22, 1986, 100 Stat. 2897, provided that: “An exchange shall be treated as occurring on or before March 1, 1986, if—
 
 &emsp;“(A) on or before such date, the taxpayer adopts a plan of reorganization to which section 356 \[of the Internal Revenue Code of 1986\] applies, and
 

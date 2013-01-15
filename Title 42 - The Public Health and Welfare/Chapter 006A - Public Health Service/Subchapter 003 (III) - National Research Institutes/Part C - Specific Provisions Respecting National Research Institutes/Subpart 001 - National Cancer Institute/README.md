@@ -19,3 +19,4 @@ subpart 1—national cancer institute
 - [&sect; 00285a&#8211;10 - Research, information, and education with respect to blood cancer](%C2%A7%2000285a%E2%80%9310%20-%20Research%2C%20information%2C%20and%20education%20with%20respect%20to%20blood%20cancer.md)
 - [&sect; 00285a&#8211;11 - Pediatric cancer research and awareness](%C2%A7%2000285a%E2%80%9311%20-%20Pediatric%20cancer%20research%20and%20awareness.md)
 - [&sect; 00285a&#8211;12 - Interagency Breast Cancer and Environmental Research Coordinating Committee](%C2%A7%2000285a%E2%80%9312%20-%20Interagency%20Breast%20Cancer%20and%20Environmental%20Research%20Coordinating%20Committee.md)
+- [&sect; 00285a&#8211;13 - Scientific framework for recalcitrant cancers](%C2%A7%2000285a%E2%80%9313%20-%20Scientific%20framework%20for%20recalcitrant%20cancers.md)

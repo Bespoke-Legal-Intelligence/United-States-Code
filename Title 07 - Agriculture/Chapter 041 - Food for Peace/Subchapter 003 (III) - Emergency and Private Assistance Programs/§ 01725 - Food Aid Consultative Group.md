@@ -14,7 +14,7 @@ The Group shall be composed of—
 
 &emsp;(3) the Inspector General of the Agency for International Development;
 
-&emsp;(4) a representative of each private voluntary organization and cooperative participating in a program under this subchapter, or receiving planning assistance funds from the Agency to establish programs under this subchapter;
+&emsp;(4) a representative of each private voluntary organization and cooperative participating in a program under this subchapter, orreceiving planning assistance funds from the Agency to establish programs under this subchapter;
 
 &emsp;(5) representatives from African, Asian and Latin American indigenous non-governmental organizations determined appropriate by the Administrator;
 

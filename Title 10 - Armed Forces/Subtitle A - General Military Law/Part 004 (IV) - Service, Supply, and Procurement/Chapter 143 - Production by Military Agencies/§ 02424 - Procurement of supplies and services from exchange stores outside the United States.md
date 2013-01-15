@@ -32,7 +32,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Operation of Stars and Stripes Bookstores Overseas by Military Exchanges
 
-Section 353 of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title III, §353, Nov. 30, 1993, 107 Stat. 1627, provided that:
 
 “(a)
 

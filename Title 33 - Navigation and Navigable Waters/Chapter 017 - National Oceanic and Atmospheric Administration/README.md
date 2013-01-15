@@ -6,7 +6,7 @@
 | :--- | ---: |
 | 851 to 852b. Repealed or Omitted. |  |
 | [853\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md) | Power to settle claims. |
-| 853a to 853<i>o</i>. Repealed. |  |
+| 853a to 853o. Repealed. |  |
 | 853<i>o–</i>1. | Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay. |
 | 853p to 854. Repealed. |  |
 | [854a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854a%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md) | Service credit as deck officer or junior engineer for promotion purposes. |
@@ -49,7 +49,7 @@
 | [883i.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [883j.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883j%20-%20Ocean%20satellite%20data.md) | Ocean satellite data. |
 | [883k.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883k%20-%20Acquisition%20of%20land%20for%20facilities.md) | Acquisition of land for facilities. |
-| 883<i>l</i>. | Contracts for surveying and mapping services. |
+| [883l.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883l%20-%20Contracts%20for%20surveying%20and%20mapping%20services.md) | Contracts for surveying and mapping services. |
 | [884\.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000884%20-%20Power%20to%20use%20books%2C%20maps%2C%20etc.%2C%20and%20to%20employ%20persons.md) | Power to use books, maps, etc., and to employ persons. |
 | 885 to 890. Repealed or Omitted. |  |
 

@@ -62,9 +62,9 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(i) criminalized narcotics money laundering;
 
-&emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significanttransactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
+&emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significant transactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
 
-&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
+&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequatetime, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
 
 &emsp;&emsp;&emsp;(iv) required or allowed financial institutions to report suspicious transactions;
 
@@ -164,5 +164,5 @@ Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided th
 
 #### Statutory References to Annual Reports, Certifications, and Definitions
 
-Section 6(a) of Pub. L. 102–583 provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(h) of this title be deemed, as of Oct. 1, 1992, to be a reference to section 2291j of this title, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
+Pub. L. 102–583, §6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(h) of this title be deemed, as of Oct. 1, 1992, to be a reference to section 2291j of this title, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 

@@ -34,5 +34,5 @@ Notice and Wait Requirements.—A contract may not be entered into for the acqui
 
 #### Effective Date
 
-Section 2805(b) of Pub. L. 103–160 provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. B, title XXVIII, §2805(b), Nov. 30, 1993, 107 Stat. 1887, provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 

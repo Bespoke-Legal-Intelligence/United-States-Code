@@ -92,13 +92,13 @@ The President shall appoint an ombudsman to provide the public with an opportuni
 
 #### (d) Reporting requirement
 
-The President shall submit to the appropriate congressional committees an annual report onthe community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
+The President shall submit to the appropriate congressional committees an annual report on the community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
 
 (Pub. L. 103–182, title V, §543, Dec. 8, 1993, 107 Stat. 2167.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

@@ -1,6 +1,6 @@
 ### §7257. Acquisition, construction, etc., of laboratories, research and testing sites, etc.
 
-The Secretary is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain laboratories, research and testing sites and facilities, quarters and related accommodations for employees and dependents of employees of the Department, personal property (including patents), or any interest therein, as the Secretary deems necessary; and to provide by contract or otherwise for eating facilities and other necessary facilities for the health and welfare of employees of the Department at its installations and purchase and maintain equipment therefor.
+The Secretary is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain laboratories, research and testing sites and facilities, quarters and related accommodations for employees and dependents of employees ofthe Department, personal property (including patents), or any interest therein, as the Secretary deems necessary; and to provide by contract or otherwise for eating facilities and other necessary facilities for the health and welfare of employees of the Department at its installations and purchase and maintain equipment therefor.
 
 (Pub. L. 95–91, title VI, §647, Aug. 4, 1977, 91 Stat. 599.)
 
@@ -12,7 +12,7 @@ Pub. L. 106–65, div. C, title XXXI, §3175, Oct. 5, 1999, 113 Stat. 950, provi
 
 Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as ‘PMO services’) for construction projects of the Department of Energy.
 
-“(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use ofcompetitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
+“(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use of competitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
 
 “(b)
 

@@ -6,7 +6,7 @@
 
 (2) Such consultations shall include an explanation of the consistency of such proposal to allocate with the requirements of the Articles of Agreement of the Fund, in particular the requirement that in all its decisions with respect to allocation of Special Drawing Rights, the Fund shall “seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world”.
 
-(Pub. L. 90–349, §6, June 19, 1968, 82 Stat. 189; Pub. L. 91–599, ch. 1, §2, Dec. 30, 1970, 84 Stat. 1657; Pub. L. 94–564, §5(3), Oct. 19, 1976, 90 Stat. 2661; Pub. L. 98–181, title VIII, §803, Nov. 30, 1983, 97 Stat. 1270.)
+(Pub. L. 90–349, §6, June 19, 1968, 82 Stat. 189; Pub. L. 91–599, ch. 1, §2, Dec. 30, 1970, 84 Stat. 1657; Pub. L. 94–564, §5(3), Oct. 19, 1976, 90 Stat. 2661; Pub. L. 98–181, title I \[title VIII, §803\], Nov. 30, 1983, 97 Stat. 1270.)
 
 #### References in Text
 
@@ -26,7 +26,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1976 Amendment
 

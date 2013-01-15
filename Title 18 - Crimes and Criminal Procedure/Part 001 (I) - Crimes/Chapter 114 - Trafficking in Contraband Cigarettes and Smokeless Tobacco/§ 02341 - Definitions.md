@@ -70,7 +70,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Section 4 of Pub. L. 95–575 provided:
+Pub. L. 95–575, §4, Nov. 2, 1978, 92 Stat. 2466, provided:
 
 “(a) Except as provided in subsection (b), this Act \[enacting this chapter, amending section 1961 of this title and sections 781 and 787 of former Title 49, Transportation, and enacting provisions set out as a note under this section\] shall take effect on the date of its enactment \[Nov. 2, 1978\].
 
@@ -78,7 +78,7 @@ Section 4 of Pub. L. 95–575 provided:
 
 #### Authorization of Appropriations
 
-Section 5 of Pub. L. 95–575 provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
+Pub. L. 95–575, §5, Nov. 2, 1978, 92 Stat. 2466, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a manufacturer”.</i>
 

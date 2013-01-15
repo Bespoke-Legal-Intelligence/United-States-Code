@@ -85,7 +85,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conductedunder section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
+&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conducted under section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
 
 #### (2) Special rule for fuels other than gasoline
 
@@ -131,7 +131,7 @@ Pub. L. 109–59, title XI, §11111(b), Aug. 10, 2005, 119 Stat. 1946, provided 
 
 #### Effective Date of 1990 Amendment
 
-Section 11216(e) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11216(e), Nov. 5, 1990, 104 Stat. 1388–437, provided that:
 
 “(1)
 
@@ -149,7 +149,7 @@ Subsection (d).—The amendment made by subsection (d) \[amending this section\]
 
 #### Effective Date of 1986 Amendment
 
-Section 1812(e)(1)(B)(iii) of Pub. L. 99–514 provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 \[see Effective Date note below\]; except that the amendment made by clause (i) shall not apply to any station wagon if—
+Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 2837, provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 \[see Effective Date note below\]; except that the amendment made by clause (i) shall not apply to any station wagon if—
 
 &emsp;“(I) such station wagon is originally equipped with more than 6 seat belts,
 
@@ -159,7 +159,7 @@ Section 1812(e)(1)(B)(iii) of Pub. L. 99–514 provided that: “The amendments 
 
 #### Effective Date
 
-Section 201(g) of Pub. L. 95–618, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
+Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

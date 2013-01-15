@@ -36,13 +36,13 @@ For short title of Pub. L. 90–602, which enacted provisions now comprising thi
 
 #### Transfer of Subpart; Construction
 
-Section 19(c) of Pub. L. 101–629 provided that: “The transfer of subpart 3 of part F of title III of the Public Health Service Act \[42 U.S.C. 263b et seq.\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] does not change the application of the requirements of such subpart and such Act to electronic products which were in effect on the date of the enactment of this Act \[Nov. 28, 1990\].”
+Pub. L. 101–629, §19(c), Nov. 28, 1990, 104 Stat. 4530, provided that: “The transfer of subpart 3 of part F of title III of the Public Health Service Act \[42 U.S.C. 263b et seq.\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] does not change the application of the requirements of such subpart and such Act to electronic products which were in effect on the date of the enactment of this Act \[Nov. 28, 1990\].”
 
 #### Definition of “Secretary” and “Department”
 
-Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
+Pub. L. 90–602, §3, Oct. 18, 1968, 82 Stat. 1186, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\], except when otherwise specified, the term ‘Secretary’ means the Secretary of Health and Human Services, and the term ‘Department’ means the Department of Health and Human Services.”
 
 #### Noninterference With Other Federal Agencies
 
-Section 4 of Pub. L. 90–602 provided that: “The amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\] shall not be construed as superseding or limiting the functions, under any other provision of law, of any officer or agency of the United States.”
+Pub. L. 90–602, §4, Oct. 18, 1968, 82 Stat. 1187, provided that: “The amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\] shall not be construed as superseding or limiting the functions, under any other provision of law, of any officer or agency of the United States.”
 

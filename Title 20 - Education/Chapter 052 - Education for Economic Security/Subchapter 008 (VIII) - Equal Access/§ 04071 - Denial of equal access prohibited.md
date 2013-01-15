@@ -52,5 +52,5 @@ Nothing in this subchapter shall be construed to limit the authority of the scho
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 98–377 provided that: “This title \[enacting this subchapter\] may be cited as ‘The Equal Access Act’.”
+Pub. L. 98–377, title VIII, §801, Aug. 11, 1984, 98 Stat. 1302, provided that: “This title \[enacting this subchapter\] may be cited as ‘The Equal Access Act’.”
 

@@ -60,7 +60,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 &emsp;make such rules and regulations as he deems necessary to carry out the purposes of this subchapter.
 
-(July 15, 1949, ch. 338, title V, §510, 63 Stat. 437; Pub. L. 94–375, §25(c), Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–557, title V, §503, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §507, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §§508, 510, Oct. 8, 1980, 94 Stat. 1670, 1671; Pub. L. 98–181, title V, §507, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(c), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 100–242, title III, §313, Feb. 5, 1988, 101 Stat. 1897; Pub. L. 100–628, title X, §1045, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §§710, 711, Nov. 28, 1990, 104 Stat. 4291.)
+(July 15, 1949, ch. 338, title V, §510, 63 Stat. 437; Pub. L. 94–375, §25(c), Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–557, title V, §503, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §507, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §§508, 510, Oct. 8, 1980, 94 Stat. 1670, 1671; Pub. L. 98–181, title I \[title V, §507\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(c), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 100–242, title III, §313, Feb. 5, 1988, 101 Stat. 1897; Pub. L. 100–628, title X, §1045, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §§710, 711, Nov. 28, 1990, 104 Stat. 4291.)
 
 #### Codification
 
@@ -102,5 +102,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (d)(
 
 #### Study of Problems Caused by Remote Claims
 
-Section 509 of Pub. L. 95–557 directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
+Pub. L. 95–557, title V, §509, Oct. 31, 1978, 92 Stat. 2114, directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
 

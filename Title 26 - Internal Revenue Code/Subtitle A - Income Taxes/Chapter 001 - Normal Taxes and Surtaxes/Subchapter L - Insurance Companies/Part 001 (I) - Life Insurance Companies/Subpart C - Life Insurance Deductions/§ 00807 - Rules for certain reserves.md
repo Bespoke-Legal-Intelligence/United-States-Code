@@ -156,7 +156,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;The term “prevailing commissioners’ standard tables” means, with respect to any contract, the most recent commissioners’ standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued.
+&emsp;&emsp;The term “prevailing commissioners’ standard tables” means, with respect to any contract, the most recent commissioners’ standard tables prescribed by the NationalAssociation of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued.
 
 #### (B) Insurer may use old tables for 3 years when tables change
 
@@ -322,7 +322,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) Termination as life insurance company
 
-&emsp;&emsp;&emsp;Except as provided in section 381(c)(22), if, for any taxable year beginning on or before September 30, 1996, the taxpayer ceases to be a life insurance company, the aggregate inclusions which would have been made under clause (i) for such taxable year and subsequent taxable years but for such cessation shall be taken into account for the taxable year preceding such cessation year.
+&emsp;&emsp;&emsp;Except as provided in section 381(c)(22), if, for any taxable year beginning on or before September 30, 1996, the taxpayer ceases to be a life insurance company, the aggregate inclusions which would have been made under clause (i) for such taxable year and subsequent taxable years but forsuch cessation shall be taken into account for the taxable year preceding such cessation year.
 
 #### (C) Description of items
 
@@ -408,11 +408,11 @@ Amendment by Pub. L. 104–191 applicable to contracts issued after Dec. 31, 199
 
 #### Effective Date of 1990 Amendment
 
-Section 11302(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990.”
+Pub. L. 101–508, title XI, §11302(b), Nov. 5, 1990, 104 Stat. 1388–450, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990.”
 
 #### Effective Date of 1987 Amendment
 
-Section 10241(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: “The amendments made by this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -430,11 +430,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Certain Assessment Life Insurance Companies
 
-Section 217(f) of subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, §217(f), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
-Mortality and morbidity tables.—In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle) if such tables were—
+Mortality and morbidity tables.—In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369\]) if such tables were—
 
 &emsp;“(A) in use since 1965, and
 
@@ -456,7 +456,7 @@ Statutory reserves.—For purposes of this subsection, the term ‘statutory res
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
 &emsp;“(1) such company—
 

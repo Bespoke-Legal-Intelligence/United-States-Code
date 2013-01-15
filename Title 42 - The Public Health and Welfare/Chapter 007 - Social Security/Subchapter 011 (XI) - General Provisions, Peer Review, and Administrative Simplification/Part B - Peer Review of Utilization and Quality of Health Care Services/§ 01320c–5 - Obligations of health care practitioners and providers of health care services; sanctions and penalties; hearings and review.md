@@ -12,7 +12,7 @@ It shall be the obligation of any health care practitioner and any other person 
 
 #### (b) Sanctions and penalties; hearings and review
 
-(1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,any organization having a contract with the Secretary under this part determines that such practitioner or person has—
+(1) If after reasonable notice and opportunity for discussion with the practitioner or person concerned, and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan, any organization having a contract with the Secretary under this part determines that such practitioner or person has—
 
 &emsp;(A) failed in a substantial number of cases substantially to comply with any obligation imposed on him under subsection (a) of this section, or
 
@@ -46,7 +46,7 @@ A prior section 1320c–5, act Aug. 14, 1935, ch. 531, title XI, §1156, as adde
 
 Subsec. (c). Pub. L. 112–40 substituted “quality improvement” for “utilization and quality control peer review”.
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–191, §214(b)(2), struck out in concluding provisions “In determining whether apractitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.” after “chapter on a reimbursable basis.”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–191, §214(b)(2), struck out in concluding provisions “In determining whether a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.” after “chapter on a reimbursable basis.”
 
 Pub. L. 104–191, §214(b)(1), struck out in concluding provisions “and determines that such practitioner or person, in providing health care services over which such organization has review responsibility and for which payment (in whole or in part) may be made under this chapter, has demonstrated an unwillingness or a lack of ability substantially to comply with such obligations,” after “agrees with such determination,”.
 
@@ -94,27 +94,27 @@ Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub.
 
 #### Effective Date of 1990 Amendment
 
-Section 4205(a)(2) of Pub. L. 101–508 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to initial determinations made by organizations on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4205(a)(2), Nov. 5, 1990, 104 Stat. 1388–113, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to initial determinations made by organizations on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 4205(d)(2)(B) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §156(b)(3), Oct. 31, 1994, 108 Stat. 4441, provided that: “The amendment made by this paragraph \[amending this section\] shall apply to sanctions effected more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4205(d)(2)(B), Nov. 5, 1990, 104 Stat. 1388–114, as amended by Pub. L. 103–432, title I, §156(b)(3), Oct. 31, 1994, 108 Stat. 4441, provided that: “The amendment made by this paragraph \[amending this section\] shall apply to sanctions effected more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-#### Effective Date of 1987 Amendments
+#### Effective Date of 1987 Amendment
 
-Section 4095(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[subsec. (b) of this section\] on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4095(b), Dec. 22, 1987, 101 Stat. 1330–138, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[subsec. (b) of this section\] on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
 #### Telecommunications Demonstration Projects
 
-Section 4094(e) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(j)(3)(C), as added by Pub. L. 100–485, title VI, §608(d)(25)(A), Oct. 13, 1988, 102 Stat. 2421, provided that: “The Secretary of Health and Human Services shall enter into agreements with entities submitting applications under this subsection (in such form as the Secretary may provide) to establish demonstration projects to examine the feasibility of requiring instruction and oversight of rural physicians, in lieu of imposing sanctions, through use of video communication between rural hospitals and teaching hospitals under this title \[probably means title XI of the Social Security Act which is classified to this subchapter\]. Under such demonstration projects, the Secretary may provide for payments to physicians consulted via video communication systems. No funds may be expended under the demonstration projects for the acquisition of capital items including computer hardware.”
+Pub. L. 100–203, title IV, §4094(e), Dec. 22, 1987, 101 Stat. 1330–138, as amended by Pub. L. 100–360, title IV, §411(j)(3)(C), as added by Pub. L. 100–485, title VI, §608(d)(25)(A), Oct. 13, 1988, 102 Stat. 2421, provided that: “The Secretary of Health and Human Services shall enter into agreements with entities submitting applications under this subsection (in such form as the Secretary may provide) to establish demonstration projects to examine the feasibility of requiring instruction and oversight of rural physicians, in lieu of imposing sanctions, through use of video communication between rural hospitals and teaching hospitals under this title \[probably means title XI of the Social Security Act which is classified to this subchapter\]. Under such demonstration projects, the Secretary may provide for payments to physicians consulted via video communication systems. No funds may be expended under the demonstration projects for the acquisition of capital items including computer hardware.”
 
 #### Preexclusion Hearings; Transition for Current Cases and Redetermination in Certain Cases
 
-Section 4095(c), (d) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IV, §4095(c), (d), Dec. 22, 1987, 101 Stat. 1330–138, provided that:
 
 “(c)
 

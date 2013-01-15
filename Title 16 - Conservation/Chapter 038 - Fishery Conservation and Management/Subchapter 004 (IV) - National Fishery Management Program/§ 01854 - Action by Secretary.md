@@ -24,7 +24,7 @@
 
 &emsp;(C) recommendations concerning the actions that could be taken by the Council to conform such plan or amendment to the requirements of applicable law.
 
-> If the Secretary does not notify a Council within 30 days of the end of the comment period of theapproval, disapproval, or partial approval of a plan or amendment, then such plan or amendment shall take effect as if approved.
+> If the Secretary does not notify a Council within 30 days of the end of the comment period of the approval, disapproval, or partial approval of a plan or amendment, then such plan or amendment shall take effect as if approved.
 
 (4) If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
 
@@ -74,7 +74,7 @@
 
 #### (d) Establishment of fees
 
-(1) The Secretary shall by regulation establish the level of any fees which are authorized to becharged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
+(1) The Secretary shall by regulation establish the level of any fees which are authorized to be charged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
 
 (2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management, data collection, and enforcement of any—
 
@@ -92,7 +92,7 @@
 
 (1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
-(2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
+(2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservationand management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
 (3) Within 2 years after an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare and implement a fishery management plan, plan amendment, or proposed regulations for the fishery to which the identification or notice applies—
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(C) evaluate the likely effects, if any, of conservation and management measures on participants in the affected fisheries and minimize, to the extent practicable, any disadvantage to United States fishermen in relation to foreign competitors;
 
-&emsp;&emsp;(D) with respect to a highly migratory species for which the United States is authorized to harvest an allocation, quota, or at a fishing mortality level under a relevant international fishery agreement, provide fishing vessels of the United States with a reasonable opportunity to harvest such allocation, quota, or at such fishing mortality level;
+&emsp;&emsp;(D) with respect to a highly migratory species for which the United States is authorized to harvest an allocation, quota, or at afishing mortality level under a relevant international fishery agreement, provide fishing vessels of the United States with a reasonable opportunity to harvest such allocation, quota, or at such fishing mortality level;
 
 &emsp;&emsp;(E) review, on a continuing basis (and promptly whenever a recommendation pertaining to fishing for highly migratory species has been made under a relevant international fishery agreement), and revise as appropriate, the conservation and management measures included in the plan;
 
@@ -178,7 +178,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 &emsp;&emsp;(A) conform to the time lines for review and approval of fishery management plans and plan amendments under this section; and
 
-&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that isuseful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
+&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that is useful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
 
 #### (2) Usage
 
@@ -322,7 +322,7 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council tochange such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
@@ -338,11 +338,11 @@ Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided th
 
 #### Effective Date of 1983 Amendment
 
-Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+Pub. L. 97–453, §7(b), Jan. 12, 1983, 96 Stat. 2489, provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
@@ -388,11 +388,11 @@ Special Rule.—Section 202(3)(B) shall only apply with respect to fishing years
 
 #### Delay of Collection of Fees in Quahog and Wreckfish Fisheries
 
-Section 109(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
+Pub. L. 104–297, title I, §109(d), Oct. 11, 1996, 110 Stat. 3584, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
 
 #### Comprehensive Management System for Atlantic Pelagic Longline Fishery
 
-Section 109(h) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–297, title I, §109(h), Oct. 11, 1996, 110 Stat. 3586, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 “(1) The Secretary of Commerce shall—
 
@@ -408,11 +408,11 @@ Section 109(h) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 #### Inapplicability of Subsection (h) to American Lobster Fishery Management Plan
 
-Section 109(j) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
+Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
 
 #### Interim Management of Highly Migratory Species Fisheries
 
-Section 108(k) of Pub. L. 101–627, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
+Pub. L. 101–627, title I, §108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding the amendments made by subsections (a) and (g) \[amending section 1852 of this title\], any fishery management plan or amendment which—
 
 &emsp;“(1) addresses a highly migratory species fishery to which section 304(f)(3) of the Magnuson-Stevens Fishery Conservation and Management Act \[former 16 U.S.C. 1854(f)(3)\] (as amended by this Act) applies,
 

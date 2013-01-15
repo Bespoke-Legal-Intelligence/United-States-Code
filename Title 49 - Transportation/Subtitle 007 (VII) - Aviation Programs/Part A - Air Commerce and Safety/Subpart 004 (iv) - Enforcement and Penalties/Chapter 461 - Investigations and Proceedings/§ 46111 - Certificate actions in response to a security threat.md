@@ -38,7 +38,7 @@ Review of classified evidence by administrative law judge.—
 
 &emsp;&emsp;(A)
 
-Review.—As part of a hearing conducted under this section, if the order of the Administrator issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified InformationProcedures Act (18 U.S.C. App.),<sup>1</sup> such information may be submitted by the Under Secretary to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
+Review.—As part of a hearing conducted under this section, if the order of the Administrator issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>1</sup> such information may be submitted by the Under Secretary to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
 
 &emsp;&emsp;(B)
 

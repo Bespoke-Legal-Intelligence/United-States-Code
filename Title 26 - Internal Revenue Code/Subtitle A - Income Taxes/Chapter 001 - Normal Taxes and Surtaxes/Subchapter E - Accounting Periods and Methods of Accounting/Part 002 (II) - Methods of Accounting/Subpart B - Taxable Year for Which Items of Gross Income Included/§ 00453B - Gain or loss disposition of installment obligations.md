@@ -62,7 +62,7 @@ If—
 
 > then, except for purposes of any tax imposed by subchapter S, no gain or loss with respect to the distribution of the obligation shall be recognized by the distributing corporation. Under regulations prescribed by the Secretary, the character of the gain or loss to the shareholder shall be determined in accordance with the principles of section 1366(b).
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2252; amended Pub. L. 96–471, §2(c)(3), Oct. 19,1980, 94 Stat. 2254; Pub. L. 97–448, title III, §302, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §43(c)(2), title II, §211(b)(6), title IV, §§421(b)(3), 492(b)(3), July 18, 1984, 98 Stat. 558, 754, 794, 854; Pub. L. 99–514, title VI, §631(e)(9), title X, §1011(b)(1), title XVIII, §1842(c), Oct. 22, 1986, 100 Stat. 2274, 2389, 2853; Pub. L. 100–647, title I, §1006(e)(22), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11702(a)(2), Nov. 5, 1990, 104 Stat. 1388–514.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2252; amended Pub. L. 96–471, §2(c)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–448, title III, §302, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §43(c)(2), title II, §211(b)(6), title IV, §§421(b)(3), 492(b)(3), July 18, 1984, 98 Stat. 558, 754, 794, 854; Pub. L. 99–514, title VI, §631(e)(9), title X, §1011(b)(1), title XVIII, §1842(c), Oct. 22, 1986, 100 Stat. 2274, 2389, 2853; Pub. L. 100–647, title I, §1006(e)(22), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11702(a)(2), Nov. 5, 1990, 104 Stat. 1388–514.)
 
 #### Prior Provisions
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 631(e)(9) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Section 1011(c)(1) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: “The amendments made by this section \[amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1842(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -156,5 +156,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Elections Under Section 453B(e)(2)
 
-Section 217(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
+Pub. L. 98–369, div. A, title II, §217(b), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
 

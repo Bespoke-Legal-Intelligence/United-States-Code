@@ -28,7 +28,7 @@ Pub. L. 96–265 substituted “not less than 24 months” for “not less than 
 
 #### Effective Date of 1989 Amendment
 
-Section 101(d) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\].”
+Pub. L. 101–234, title I, §101(d), Dec. 13, 1989, 103 Stat. 1980, provided that: “The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -40,11 +40,11 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1982 Amendment
 
-Section 122(h)(1) of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9123(a), Apr. 7, 1986, 100 Stat. 168,provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set out as notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
+Pub. L. 97–248, title I, §122(h)(1), Sept. 3, 1982, 96 Stat. 362, as amended by Pub. L. 99–272, title IX, §9123(a),Apr. 7, 1986, 100 Stat. 168, provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set out as notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
 
 Amendment by section 278(b)(3) of Pub. L. 97–248 effective on and after Jan. 1, 1983, and applicable to remuneration (for medicare qualified Federal employment) paid after Dec. 31, 1982, see section 278(c)(2)(A) of Pub. L. 97–248, set out as a note under section 426 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 

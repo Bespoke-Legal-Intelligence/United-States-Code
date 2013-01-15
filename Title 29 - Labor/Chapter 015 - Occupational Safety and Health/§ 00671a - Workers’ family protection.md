@@ -94,7 +94,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (ii) Peer review
 
-&emsp;&emsp;&emsp;The Director shall publish the proposed investigative strategy under subparagraph (A)(iv) for public comment and utilize other methods, including technical conferences or seminars, for the purpose of obtaining comments concerning the proposed strategy.
+&emsp;&emsp;&emsp;The Director shall publish the proposed investigative strategy under subparagraph\(A)(iv) for public comment and utilize other methods, including technical conferences or seminars, for the purpose of obtaining comments concerning the proposed strategy.
 
 #### (iii) Final strategy
 

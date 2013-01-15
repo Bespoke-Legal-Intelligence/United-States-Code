@@ -12,7 +12,7 @@
 
 (b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
-(2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
+(2) The Commandant shall make full use of all available and qualified resources, including theCoast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
 (c) An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
 
@@ -24,7 +24,13 @@
 
 (d) The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915.)
+(e) An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
+
+&emsp;(1) guilty of a class E felony; and
+
+&emsp;(2) subject to a civil penalty of not more than $1,000 per day for each violation.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 112–213, title II, §201, Dec. 20, 2012, 126 Stat. 1543.)
 
 #### Historical and Revision Notes
 
@@ -33,6 +39,8 @@ Derived from title 14, U.S.C., 1946 ed., §§29, 53, 55, 60, 61, 62, 63, 104, an
 This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
@@ -78,7 +86,7 @@ Contents.—The report required by subsection (a) shall—
 
 #### Helicopter Rescue Swimming Program
 
-Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by Pub. L. 104–324, title II, §213(b), Oct. 19, 1996, 110 Stat. 3915.
+Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal byPub. L. 104–324, title II, §213(b), Oct. 19, 1996, 110 Stat. 3915.
 
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 

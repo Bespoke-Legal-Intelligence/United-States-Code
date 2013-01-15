@@ -40,7 +40,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (1) Increase for inadequate capitalization
 
-&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that isnot classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
+&emsp;The semiannual payments made pursuant to subsection (b) by any regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the regulated entity.
 
 #### (2) Adjustment for enforcement activities
 
@@ -62,7 +62,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (1) Deposit
 
-&emsp;Amounts received by the Director from assessments under this section may be deposited by the Director in the manner provided in section 192 of this title for monies deposited by the Comptroller of the Currency.
+&emsp;Amounts received by the Director from assessments under this section may be depositedby the Director in the manner provided in section 192 of this title for monies deposited by the Comptroller of the Currency.
 
 #### (2) Not Government funds
 
@@ -126,7 +126,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (1) In general
 
-&emsp;The Comptroller General shall annually audit the financial transactions of the Agency in accordance with the United States generally accepted government auditing standards as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Agency are normally kept. The representatives of the Government Accountability Office shall have access to the personnel and to all books, accounts, documents, papers, records (including electronic records), reports, files, and all other papers, automated data, things, or property belonging to or under the control of or used or employed by the Agency pertaining to its financial transactions and necessary to facilitate the audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. All such books, accounts, documents, records, reports, files, papers, and property of the Agency shall remain in possession and custody of the Agency. The Comptroller General may obtain and duplicate any such books, accounts, documents, records, working papers, automated data and files, or other information relevant to such audit without cost to the Comptroller General and the Comptroller General's right of access to such information shall be enforceable pursuant to section 716(c) of title 31.
+&emsp;The Comptroller General shall annually audit the financial transactions of the Agency in accordance with the United States generally accepted government auditing standards as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Agency are normally kept. The representatives of the Government Accountability Office shall have access to the personnel and to all books, accounts, documents, papers, records (including electronic records), reports, files, and all other papers, automated data, things, or property belonging to or under the control of or used or employed by the Agency pertaining to its financial transactions and necessary to facilitate the audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. All such books, accounts, documents, records, reports, files, papers, and property of the Agency shall remain in possession and custody of the Agency. The Comptroller General may obtain and duplicate any such books, accounts, documents, records, working papers, automated data and files, or other information relevant to such audit without cost to the Comptroller General and the Comptroller General's right of access to suchinformation shall be enforceable pursuant to section 716(c) of title 31.
 
 #### (2) Report
 

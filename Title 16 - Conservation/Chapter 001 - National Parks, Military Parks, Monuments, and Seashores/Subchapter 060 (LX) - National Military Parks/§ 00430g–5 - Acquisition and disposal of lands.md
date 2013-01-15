@@ -6,7 +6,7 @@ The Secretary is authorized to acquire lands and interests in lands within the p
 
 #### (b) Authority to convey freehold and leasehold interests within park
 
-The Secretary may convey lands and interests in lands within the park authorized in accordance with subsection (a) of section 460<i>l</i>–22 of this title, except that, notwithstanding subsection (d) of that section, the net proceeds from any such conveyance may be used, subject to appropriations, to acquire lands and interests within the park.
+The Secretary may convey lands and interests in lands within the park authorized in accordance with subsection (a) of section 460l–22 of this title, except that, notwithstanding subsection (d) of that section, the net proceeds from any such conveyance may be used, subject to appropriations, to acquire lands and interests within the park.
 
 #### (c) Conveyance of lands excluded from park
 
@@ -24,7 +24,7 @@ With respect to any lands over which the United States exercises exclusive or co
 
 #### References in Text
 
-Section 460<i>l</i>–22 of this title, referred to in subsec. (b), was in the original “subsection (a) of the Act of July 15, 1968 (16 U.S.C. 460<i>l</i>–22)” and was translated as reading subsection (a) of section 5 of the Act of July 15, 1968 (16 U.S.C. 460<i>l</i>–22) to reflect the probable intent of Congress.
+Section 460l–22 of this title, referred to in subsec. (b), was in the original “subsection (a) of the Act of July 15, 1968 (16 U.S.C. 460l–22)” and was translated as reading subsection (a) of section 5 of the Act of July 15, 1968 (16 U.S.C. 460l–22) to reflect the probable intent of Congress.
 
 #### Amendments
 

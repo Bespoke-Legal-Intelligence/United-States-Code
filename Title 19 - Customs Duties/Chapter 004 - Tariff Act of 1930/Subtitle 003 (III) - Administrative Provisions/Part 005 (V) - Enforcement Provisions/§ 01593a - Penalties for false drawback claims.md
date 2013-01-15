@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(v) state whether the alleged violation occurred as a result of fraud or negligence;
 
-&emsp;&emsp;&emsp;(vi) state the estimated actual or potential loss of revenue due to the drawbackclaim, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
+&emsp;&emsp;&emsp;(vi) state the estimated actual or potential loss of revenue due to the drawback claim, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
 
 &emsp;&emsp;&emsp;(vii) inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why a claim for a monetary penalty should not be issued in the amount stated.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
-&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
+&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potentialrevenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
 &emsp;&emsp;&emsp;(ii) if the violation resulted from negligence, an amount equal to the interest computed on the basis of the prevailing rate of interest applied under section 6621 of title 26 on the amount of actual revenue of which the United States is or may be deprived during the period that—
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawbac
 
 #### Effective Date
 
-Section 622(b) of Pub. L. 103–182 provided that: “The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
+Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: “The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
 
 #### Transfer of Functions
 

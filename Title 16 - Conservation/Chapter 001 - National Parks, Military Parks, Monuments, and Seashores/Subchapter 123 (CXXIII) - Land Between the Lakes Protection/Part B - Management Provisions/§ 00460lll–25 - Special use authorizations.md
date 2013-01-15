@@ -8,7 +8,7 @@ In addition to other authorities for the authorization of special uses within th
 
 &emsp;(2) transfer or lease to governmental units developed recreation sites or other facilities to be managed for public purposes; and
 
-&emsp;(3) lease or authorize recreational sites or other facilities, consistent with sections 460<i>lll</i>–1(2) and 460<i>lll</i>–11(b)(2) of this title.
+&emsp;(3) lease or authorize recreational sites or other facilities, consistent with sections 460lll–1(2) and 460lll–11(b)(2) of this title.
 
 #### (b) Consideration
 
@@ -28,7 +28,7 @@ The Secretary may use any fair and equitable method for authorizing special uses
 
 #### (1) In general
 
-&emsp;A permit or other authorization granted by the Tennessee Valley Authority that is in effect on the date of transfer pursuant to section 460<i>lll</i>–41 of this title may continue on transfer of administration of the Recreation Area to the Secretary.
+&emsp;A permit or other authorization granted by the Tennessee Valley Authority that is in effect on the date of transfer pursuant to section 460lll–41 of this title may continue on transfer of administration of the Recreation Area to the Secretary.
 
 #### (2) Reissuance
 

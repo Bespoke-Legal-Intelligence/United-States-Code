@@ -58,11 +58,11 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 #### Effective Date
 
-Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
+Pub. L. 103–116, §17, Oct. 27, 1993, 107 Stat. 1138, provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
 
 \[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 
 #### Short Title
 
-Section 1 of Pub. L. 103–116 provided that: “This Act \[enacting this subchapter and repealing subchapter XLIII (§931 et seq.) of this chapter\] may be cited as the ‘Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993’.”
+Pub. L. 103–116, §1, Oct. 27, 1993, 107 Stat. 1118, provided that: “This Act \[enacting this subchapter and repealing subchapter XLIII (§931 et seq.) of this chapter\] may be cited as the ‘Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993’.”
 

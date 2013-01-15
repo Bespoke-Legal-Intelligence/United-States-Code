@@ -146,7 +146,7 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 #### Effective Date
 
-Section 361(b) of Pub. L. 104–106 provided that: “Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\].”
+Pub. L. 104–106, div. A, title III, §361(b), Feb. 10, 1996, 110 Stat. 273, provided that: “Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\].”
 
 #### Quarterly Reports on Personnel and Unit Readiness
 

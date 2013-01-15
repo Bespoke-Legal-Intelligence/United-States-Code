@@ -20,13 +20,13 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### References in Other Laws
 
-Section 2(a)(4) of Pub. L. 99–619 provided that: “Any reference to the Under Secretary of Labor in any law, rule, regulation, certificate, directive, or other document in force on the date of enactment of this Act \[Nov. 6, 1986\] shall be deemed to refer and apply to the Deputy Secretary of Labor.”
+Pub. L. 99–619, §2(a)(4), Nov. 6, 1986, 100 Stat. 3491, provided that: “Any reference to the Under Secretary of Labor in any law, rule, regulation, certificate, directive, or other document in force on the date of enactment of this Act \[Nov. 6, 1986\] shall be deemed to refer and apply to the Deputy Secretary of Labor.”
 
 #### Present Incumbent
 
-Section 2(f)(1) of Pub. L. 99–619 provided that: “The incumbent in the position of Under Secretary of Labor on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Deputy Secretary of Labor at the pleasure of the President after such date and the amendments made by subsection (a)(2) \[amending section 5313 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
+Pub. L. 99–619, §2(f)(1), Nov. 6, 1986, 100 Stat. 3492, provided that: “The incumbent in the position of Under Secretary of Labor on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Deputy Secretary of Labor at the pleasure of the President after such date and the amendments made by subsection (a)(2) \[amending section 5313 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

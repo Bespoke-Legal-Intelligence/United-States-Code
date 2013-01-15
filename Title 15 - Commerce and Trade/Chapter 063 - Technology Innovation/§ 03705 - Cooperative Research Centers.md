@@ -56,7 +56,7 @@ The Secretary is authorized to make available nonrenewable planning grants to un
 
 In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
 
-(Pub. L. 96–480, §7, formerly §6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, §9(b)(6)–(10), Oct. 20,1986, 100 Stat. 1796; renumbered §7, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, §7, formerly §6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, §9(b)(6)–(10), Oct. 20, 1986, 100 Stat. 1796; renumbered §7, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
 
 #### Prior Provisions
 
@@ -76,7 +76,7 @@ Subsec. (f). Pub. L. 99–502, §9(b)(10), struck out subsec. (f) which read as 
 
 Pub. L. 101–510, div. A, title VIII, §827(b), Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–190, div. A, title X, §1062(a)(2), Dec. 5, 1991, 105 Stat. 1475, provided that:
 
-“(1) In the administration of applicable provisions of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\] or section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, 15 U.S.C. 278<i>l</i> note\], the Secretary of Commerce shall develop, in consultation with the Secretary of Defense and the Secretary of Energy, model programs for national defense laboratories.
+“(1) In the administration of applicable provisions of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\] or section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, 15 U.S.C. 278l note\], the Secretary of Commerce shall develop, in consultation with the Secretary of Defense and the Secretary of Energy, model programs for national defense laboratories.
 
 “(2) Model programs under this subsection shall involve Federal laboratories, small businesses, and partnership intermediaries. The purpose of the model programs is to demonstrate successful relationships between the Federal Government, State and local governments, and small businesses which encourage economic growth through the commercial application of technology resulting from federally funded research.
 

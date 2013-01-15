@@ -18,7 +18,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (1) Process and policy
 
-&emsp;Not later than 1 year after October 24, 2000, the Secretary and the Administrator shall establish a process and policies for identifying, and selecting, an eligible entity to which ahistoric light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of such light station by the eligible entity.
+&emsp;Not later than 1 year after October 24, 2000, the Secretary and the Administrator shall establish a process and policies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of such light station by the eligible entity.
 
 #### (2) Application review
 

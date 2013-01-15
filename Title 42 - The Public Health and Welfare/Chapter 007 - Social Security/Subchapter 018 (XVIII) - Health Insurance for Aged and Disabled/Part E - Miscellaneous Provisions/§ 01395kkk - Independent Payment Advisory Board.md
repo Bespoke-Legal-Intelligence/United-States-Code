@@ -8,9 +8,9 @@ There is established an independent board to be known as the “Independent Paym
 
 It is the purpose of this section to, in accordance with the following provisions of this section, reduce the per capita rate of growth in Medicare spending—
 
-&emsp;(1) by requiring the Chief Actuary of the Centers for Medicare \& Medicaid Services to determine in each year to which this section applies (in this section referred to as “a determination year”) the projected per capita growth rate under Medicare for the second year following the determination year (in this section referred to as “an implementation year”);
+&emsp;(1) by requiring the Chief Actuary of the Centers for Medicare \& Medicaid Services to determine in each year to which this section applies (in this section referred to as “a determination year”) the projected per capitagrowth rate under Medicare for the second year following the determination year (in this section referred to as “an implementation year”);
 
-&emsp;(2) if the projection for the implementation year exceeds the target growth rate for thatyear, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
+&emsp;(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
 
 &emsp;(3) by requiring the Secretary to implement such proposals unless Congress enacts legislation pursuant to this section.
 
@@ -120,7 +120,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (4) Presidential submission to Congress
 
-&emsp;Upon receiving a proposal from the Secretary under paragraph (5), the President shallwithin 2 days submit such proposal to Congress.
+&emsp;Upon receiving a proposal from the Secretary under paragraph (5), the President shall within 2 days submit such proposal to Congress.
 
 #### (5) Contingent secretarial development of proposal
 
@@ -206,7 +206,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (A) In general
 
-&emsp;&emsp;On the day on which a proposal is submitted by the Board or the President to theHouse of Representatives and the Senate under subsection (c)(3)(A)(i) or subsection (c)(4), the legislative proposal (described in subsection (c)(3)(B)(iv)) contained in the proposal shall be introduced (by request) in the Senate by the majority leader of the Senate or by Members of the Senate designated by the majority leader of the Senate and shall be introduced (by request) in the House by the majority leader of the House or by Members of the House designated by the majority leader of the House.
+&emsp;&emsp;On the day on which a proposal is submitted by the Board or the President to the House of Representatives and the Senate under subsection (c)(3)(A)(i) or subsection (c)(4), the legislative proposal (described in subsection (c)(3)(B)(iv)) contained in the proposal shall be introduced (by request) in the Senate by the majority leader of the Senate or by Members of the Senate designated by the majority leader of the Senate and shall be introduced (by request) in the House by the majority leader of the House or by Members of the House designated by the majority leader of the House.
 
 #### (B) Not in session
 
@@ -270,7 +270,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (i) Time limitation
 
-&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, to be equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
+&emsp;&emsp;&emsp;Debate in the Senate on any amendment to a bill under this section shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 30 minutes, tobe equally divided between, and controlled by, the mover and the manager of the bill, except that in the event the manager of the bill is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or such leader's designee.
 
 #### (ii) Germane
 
@@ -408,13 +408,13 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall not implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section in a proposal year (beginning with proposal year 2019) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Board was required to submit a proposal to Congress under this section in the year preceding the proposal year; and
+&emsp;&emsp;&emsp;&emsp;(I) the Board was required to submit a proposal to Congress under this sectionin the year preceding the proposal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in subsection (c)(8) exceeds the growth rate described in subsection (c)(6)(A)(i).
 
 #### (ii) Limited additional exception may not be applied in two consecutive years
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply if the recommendations contained in a proposal submitted by the Board or the President toCongress pursuant to this section in the year preceding the proposal year were not required to be implemented by reason of this subparagraph.
+&emsp;&emsp;&emsp;This subparagraph shall not apply if the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section in the year preceding the proposal year were not required to be implemented by reason of this subparagraph.
 
 #### (iii) No affect on requirement to submit proposals or for congressional consideration of proposals
 
@@ -430,7 +430,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (5) Limitation on review
 
-&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of the implementation by the Secretary under this subsection of the recommendations contained in a proposal.
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise of the implementation by the Secretary under this subsection of the recommendations contained in a proposal.
 
 #### (f) Joint resolution required to discontinue the Board
 
@@ -560,7 +560,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(A) a member may not serve more than 2 full consecutive terms (but may be reappointed to 2 full consecutive terms after being appointed to fill a vacancy on the Board);
 
-&emsp;&emsp;(B) a member appointed to fill a vacancy occurring prior to the expiration of the termfor which that member's predecessor was appointed shall be appointed for the remainder of such term;
+&emsp;&emsp;(B) a member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of such term;
 
 &emsp;&emsp;(C) a member may continue to serve after the expiration of the member's term until a successor has taken office; and
 
@@ -650,7 +650,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (2) Travel expenses
 
-&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
+&emsp;The appointed members shall be allowed travel expenses, including per diem in lieu ofsubsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
 #### (3) Staff
 
@@ -702,7 +702,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the consumer advisory council except that section 14 of such Act shall not apply.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section:
 
@@ -748,7 +748,7 @@ In this section:
 
 &emsp;&emsp;(A) The quality and costs of care for the population at the most local level determined practical by the Board (with quality and costs compared to national benchmarks and reflecting rates of change, taking into account quality measures described in section 1395aaa(b)(7)(B) of this title).
 
-&emsp;&emsp;(B) Beneficiary and consumer access to care, patient and caregiver experience ofcare, and the cost-sharing or out-of-pocket burden on patients.
+&emsp;&emsp;(B) Beneficiary and consumer access to care, patient and caregiver experience of care, and the cost-sharing or out-of-pocket burden on patients.
 
 &emsp;&emsp;(C) Epidemiological shifts and demographic changes.
 
@@ -756,7 +756,7 @@ In this section:
 
 &emsp;&emsp;(E) Any other areas that the Board determines affect overall spending and quality of care in the private sector.
 
-#### (<i>o</i>) Advisory recommendations for non-Federal health care programs
+#### (o) Advisory recommendations for non-Federal health care programs
 
 #### (1) In general
 
@@ -784,9 +784,9 @@ In this section:
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395<i>l</i>, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-Parts A, B, C, and D, referred to in subsecs. (c)(2)(A)(iv), (6)(B)(i), (e)(2)(A)(ii), and (<i>l</i>)(2)–(4), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
+Parts A, B, C, and D, referred to in subsecs. (c)(2)(A)(iv), (6)(B)(i), (e)(2)(A)(ii), and (l)(2)–(4), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
 
 Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
@@ -828,11 +828,11 @@ Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted “the Board or
 
 Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted “the Board or” after “a proposal submitted by”.
 
-Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement therecommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 111–148, §10320(a)(5), added subsecs. (n) and (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 111–148, §10320(a)(5), added subsecs. (n) and (o).
 
 #### Change of Name
 

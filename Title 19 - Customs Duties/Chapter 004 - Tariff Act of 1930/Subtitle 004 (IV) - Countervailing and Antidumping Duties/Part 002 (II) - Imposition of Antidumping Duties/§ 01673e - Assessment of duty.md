@@ -70,7 +70,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;&emsp;(A) make all business proprietary information supplied to the administering authority under paragraph (1) available under a protective order in accordance with section 1677f(c) of this title to all interested parties described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title, and
 
-&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security under paragraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
+&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security underparagraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
 
 #### (d) Special rule for regional industries
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administration may carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research, technology development, and prototype demonstration that have the potential for application to the performance of the space and aeronautical activities of the Administration. The Administration may carry out aprogram to award prizes only in conformity with this section.
+In General.—The Administration may carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research, technology development, and prototype demonstration that have the potential for application to the performance of the space and aeronautical activities of the Administration. The Administration may carry out a program to award prizes only in conformity with this section.
 
 (b)
 
@@ -14,7 +14,7 @@ Advertising.—The Administrator shall widely advertise prize competitions to en
 
 (d)
 
-Requirements and Registration.—For each prize competition, the Administrator shall publish a notice in the Federal Register announcing the subject of the competition, the rules for being eligible to participate in the competition, the amount of the prize, and the basis on which a winner will be selected.
+Requirements and Registration.—For each prize competition, the Administrator shall publish a notice in the Federal Register announcing the subject of the competition, therules for being eligible to participate in the competition, the amount of the prize, and the basis on which a winner will be selected.
 
 (e)
 
@@ -132,7 +132,7 @@ Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, 
 
 In subsection (i)(2), subparagraph (A) is added, and the words “provisions known as the Anti-Deficiency Act” are substituted for “the Anti-Deficiency Act (31 U.S.C. 1341)”, for clarity.
 
-In subsection (i)(4), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (i)(4), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 

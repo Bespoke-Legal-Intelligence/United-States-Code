@@ -20,7 +20,7 @@
 
 (f) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, §101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, §202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, §211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(o), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, §101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, §202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, §211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Subsec. (f). Pub. L. 109–461, §211(b)(2), added subsec. (f).
 
 <b>1999</b>—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 <b>1995</b>—Subsecs. (c) to (e). Pub. L. 104–66 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “The Secretary shall submit every three years to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the adequacy of the rates provided in subsection (a) of this section in light of projections over each of the following five years of the demand on the Department for the provision of nursing home care to veterans eligible for such care under this section and sections 1710 and 1720 of this title. The first such report shall be submitted not later than June 30, 1986.”
 
@@ -98,7 +98,7 @@ Amendment by section 211(a)(3)(A) of Pub. L. 109–461 effective 90 days after D
 
 #### Effective Date of 1988 Amendment
 
-Section 134(b) of Pub. L. 100–322 provided that:
+Pub. L. 100–322, title I, §134(b), May 20, 1988, 102 Stat. 507, provided that:
 
 “(1) The amendment made by subsection (a)(1) \[amending this section\] shall take effect as of January 1, 1988.
 
@@ -106,17 +106,17 @@ Section 134(b) of Pub. L. 100–322 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 105(b) of Pub. L. 98–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on April 1, 1984.”
+Pub. L. 98–160, title I, §105(b), Nov. 21, 1983, 97 Stat. 998, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on April 1, 1984.”
 
 #### Effective Date of 1979 Amendment
 
-Section 101(b)(2) of Pub. L. 96–151 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1980, but, with respect to fiscal year 1980, shall take effect only to such extent and in such amounts as may be specifically provided for such purpose in appropriation Acts.”
+Pub. L. 96–151, title I, §101(b)(2), Dec. 20, 1979, 93 Stat. 1092, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1980, but, with respect to fiscal year 1980, shall take effect only to such extent and in such amounts as may be specifically provided for such purpose in appropriation Acts.”
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-Section 1(c) of Pub. L. 94–417 provided that:
+Pub. L. 94–417, §1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
 
 “(1) The amendments made by subsection (a) of this section \[amending this section\] shall be effective on October 1, 1976.
 
@@ -128,9 +128,9 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Effective Date of 1964 Amendment
 
-Section 3(c) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except that subsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
+Pub. L. 88–450, §3(c), Aug. 19, 1964, 78 Stat. 501, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except that subsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
 
 #### Payments to States for Nursing Home Care
 
-Section 3(b) of Pub. L. 88–450 provided that: “No payment shall be made to any State home solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\].”
+Pub. L. 88–450, §3(b), Aug. 19, 1964, 78 Stat. 501, provided that: “No payment shall be made to any State home solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\].”
 

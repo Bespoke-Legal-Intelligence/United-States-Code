@@ -4,13 +4,13 @@
 
 Subject to the availability of funds appropriated under the authority of subsection (c) of this section, the Secretary shall provide funds through a direct grant or a cooperative agreement to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
 
-&emsp;(1) meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title, and
+&emsp;(1) meet the requirements of paragraphs (1), (3), and (4) of section 254l(b) of this title, and
 
 &emsp;(2) are Native Hawaiians.
 
 #### (b) Terms and conditions
 
-(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title, provided that—
+(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title, provided that—
 
 &emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
@@ -36,7 +36,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 &emsp;(F) the obligated service of a scholarship recipient shall not be performed by the recipient through membership in the National Health Service Corps; and
 
-&emsp;(G) the requirements of sections 254d through 254k of this title, section 254m of this title, other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254<i>l</i> of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
+&emsp;(G) the requirements of sections 254d through 254k of this title, section 254m of this title, other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254l of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 
@@ -66,7 +66,7 @@ A prior section 10 of Pub. L. 100–579 repealed former section 1621d of Title 2
 
 Subsec. (b)(1)(C). Pub. L. 107–116, §514(a)(2), which directed the substitution of “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254l(b) of this title” for “meet the requirements of section 254l of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(A). Pub. L. 105–256, §12(b)(1), inserted “identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title” after “health care professional”.
 
@@ -74,7 +74,7 @@ Subsec. (b)(1)(B). Pub. L. 105–256, §12(b)(2), (3), added subpar. (B) and red
 
 Subsec. (b)(1)(C). Pub. L. 105–256, §12(b)(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 105–256, §12(b)(4), added subpar. (D) and struck out former subpar. (D) which read as follows: “the obligated service requirement for each scholarship recipient shall be fulfilled through service, in order of priority, in (i) any one of the five Native Hawaiian health care systems, or (ii) health professions shortage areas, medically underserved areas, or geographic areas or facilities similarly designated by the United States Public Health Service in the State of Hawaii; and”.
+Subsec. (b)(1)(D). Pub. L. 105–256, §12(b)(4), added subpar. (D) and struck out former subpar. (D) which read as follows: “the obligated service requirement for each scholarship recipient shall be fulfilled through service, in order of priority, in (i) any one of the five Native Hawaiian health care systems, or (ii) health professions shortage areas, medically underserved areas, or geographic areas or facilities similarly designated by theUnited States Public Health Service in the State of Hawaii; and”.
 
 Pub. L. 105–256, §12(b)(2), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 

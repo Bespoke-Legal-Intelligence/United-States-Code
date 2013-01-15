@@ -1,6 +1,6 @@
 ### §301a. Incentive pay: aviation career
 
-(a)(1) Subject to regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled to aviation career incentive pay in the amount set forth in subsection (b) for the frequent and regular performance of operational or proficiency flying duty required by orders.
+(a)(1) Subject to regulations prescribed by the President, a member of a uniformed service whois entitled to basic pay is also entitled to aviation career incentive pay in the amount set forth in subsection (b) for the frequent and regular performance of operational or proficiency flying duty required by orders.
 
 (2) Aviation career incentive pay shall be restricted to regular and reserve officers who hold, or are in training leading to, an aeronautical rating or designation and who engage and remain in aviation service on a career basis.
 
@@ -43,7 +43,7 @@
 
 &emsp;(B) an officer in pay grade O–8 or above may not be paid at a rate greater than $206 a month.
 
-(3) For a warrant officer with over 22, 23, 24, or 25 years of aviation service who is qualified under subsection (a), the rate prescribed in the table in paragraph (1) for officers with over 14 years of aviation service shall continue to apply to the warrant officer.
+(3) For a warrant officer with over 22, 23, 24, or 25 years of aviation service who is qualifiedunder subsection (a), the rate prescribed in the table in paragraph (1) for officers with over 14 years of aviation service shall continue to apply to the warrant officer.
 
 (4) An officer serving as an air battle manager who is entitled to aviation career incentive pay under this section and who, before becoming entitled to aviation career incentive pay, was entitled to incentive pay under section 301(a)(13) of this title, shall be paid the monthly incentive pay at the higher of the following rates:
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 101–189, §631(d), added subsec. (f).
 
 Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted “a member” for “an officer in pay grades O–1 through O–10”.
 
-<b>1981</b>—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrantofficer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
+<b>1981</b>—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrant officer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
 
 Subsec. (b)(1), (2). Pub. L. 97–60, §112(b), amended table to reflect an upward adjustment in monthly incentive pay.
 
@@ -152,15 +152,15 @@ Pub. L. 106–65, div. A, title VI, §614(b), Oct. 5, 1999, 113 Stat. 651, provi
 
 #### Effective Date of 1997 Amendment
 
-Section 615(c) of Pub. L. 105–85, which provided that the amendments made by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to apply with respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
+Pub. L. 105–85, div. A, title VI, §615(c), Nov. 18, 1997, 111 Stat. 1787, which provided that the amendments made by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to apply with respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
 
 #### Effective Date of 1993 Amendment
 
-Section 204(c) of Pub. L. 103–35 provided that the amendment made by that section is effective Nov. 29, 1989.
+Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102, provided that the amendment made by that section is effective Nov. 29, 1989.
 
 #### Effective Date of 1989 Amendment; Transition
 
-Section 631(e), (f) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VI, §631(e), (f), Nov. 29, 1989, 103 Stat. 1450, provided that:
 
 “(e)
 
@@ -200,11 +200,11 @@ Transition.—(1) An officer of a uniformed service who, as of the date the amen
 
 #### Effective Date of 1986 Amendment
 
-Section 632(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to those members of the Armed Forces who are aviation cadets on or after the date of the enactment of this Act \[Nov. 14, 1986\]. Service as an aviation cadet before that date shall not be counted for any purpose under section 301a of title 37, United States Code.”
+Pub. L. 99–661, div. A, title VI, §632(b), Nov. 14, 1986, 100 Stat. 3883, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to those members of the Armed Forces who are aviation cadets on or after the date of the enactment of this Act \[Nov. 14, 1986\]. Service as an aviation cadet before that date shall not be counted for any purpose under section 301a of title 37, United States Code.”
 
 #### Effective Date of 1981 Amendment
 
-Section 112(c) of Pub. L. 97–60 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
+Pub. L. 97–60, title I, §112(c), Oct. 14, 1981, 95 Stat. 995, provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
 
 #### Effective Date of 1980 Amendment
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 
-Section 6 of Pub. L. 93–294 provided that: “This Act \[enacting this section, amending section 301 of this title, and enacting provisions set out as notes under this section\] becomes effective on the first day of the first month after enactment \[May 31, 1974\].”
+Pub. L. 93–294, §6, May 31, 1974, 88 Stat. 180, provided that: “This Act \[enacting this section, amending section 301 of this title, and enacting provisions set out as notes under this section\] becomes effective on the first day of the first month after enactment \[May 31, 1974\].”
 
 #### Delegation of Functions
 
@@ -220,7 +220,7 @@ For delegation of authority under this section to Secretaries of Defense, Commer
 
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
 
-Section 4 of Pub. L. 93–294 provided that: “Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
+Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: “Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
 
 &emsp;“(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
 
@@ -236,7 +236,7 @@ Section 4 of Pub. L. 93–294 provided that: “Notwithstanding the amendments m
 
 #### Annual Report by Department of Defense
 
-Section 5 of Pub. L. 93–294 provided that: “A yearly report containing such data as necessary to monitor the progress of this bill \[Pub. L. 93–294\] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly.”
+Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: “A yearly report containing such data as necessary to monitor the progress of this bill \[Pub. L. 93–294\] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly.”
 
 #### Executive Order No. 11800
 

@@ -1,6 +1,6 @@
 ### §951. Agents of foreign governments
 
-(a) Whoever, other than a diplomatic or consular officer or attache�AE1, acts in the United States as an agent of a foreign government without prior notification to the Attorney General if required in subsection (b), shall be fined under this title or imprisoned not more than ten years, or both.
+(a) Whoever, other than a diplomatic or consular officer or attaché, acts in the United States as an agent of a foreign government without prior notification to the Attorney General if required in subsection (b), shall be fined under this title or imprisoned not more than ten years, or both.
 
 (b) The Attorney General shall promulgate rules and regulations establishing requirements for notification.
 

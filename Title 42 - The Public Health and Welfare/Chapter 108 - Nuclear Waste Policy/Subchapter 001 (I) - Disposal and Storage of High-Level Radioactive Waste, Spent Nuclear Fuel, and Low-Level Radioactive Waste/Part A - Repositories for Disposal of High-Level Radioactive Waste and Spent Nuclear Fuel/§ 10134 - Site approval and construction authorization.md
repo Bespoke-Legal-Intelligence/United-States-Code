@@ -50,7 +50,7 @@ The Commission shall consider an application for a construction authorization fo
 
 (1) The Secretary shall prepare and update, as appropriate, in cooperation with all affected Federal agencies, a project decision schedule that portrays the optimum way to attain the operation of the repository, within the time periods specified in this part. Such schedule shall include a description of objectives and a sequence of deadlines for all Federal agencies required to take action, including an identification of the activities in which a delay in the start, or completion, of such activities will cause a delay in beginning repository operation.
 
-(2) Any Federal agency that determines that it cannot comply with any deadline in the project decision schedule, or fails to so comply, shall submit to the Secretary and to the Congress a written report explaining the reason for its failure or expected failure to meet such deadline, the reason why such agency could not reach an agreement with the Secretary, the estimated time for completion of the activity or activities involved, the associated effect on its other deadlines in the project decision schedule, and any recommendations it may have or actions it intends to take regarding any improvements in its operation or organization, or changes to its statutory directives or authority, so that it will be able to mitigate the delay involved. The Secretary, within 30 days after receiving any such report, shall file with the Congress his response to such report, including the reasons why the Secretary could not amend the project decision schedule to accommodate the Federal agency involved.
+(2) Any Federal agency that determines that it cannot comply with any deadline in the project decision schedule, or fails to so comply, shall submit to the Secretary and to the Congress a written report explaining the reason for its failure or expected failure to meet such deadline, the reason why such agency could not reach anagreement with the Secretary, the estimated time for completion of the activity or activities involved, the associated effect on its other deadlines in the project decision schedule, and any recommendations it may have or actions it intends to take regarding any improvements in its operation or organization, or changes to its statutory directives or authority, so that it will be able to mitigate the delay involved. The Secretary, within 30 days after receiving any such report, shall file with the Congress his response to such report, including the reasons why the Secretary could not amend the project decision schedule to accommodate the Federal agency involved.
 
 #### (f) Environmental impact statement
 
@@ -66,7 +66,7 @@ The Commission shall consider an application for a construction authorization fo
 
 (6) In any such statement prepared with respect to the repository to be constructed under this part, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, alternate sites to the Yucca Mountain site, or nongeologic alternatives to such site.
 
-(Pub. L. 97–425, title I, §114, Jan. 7, 1983, 96 Stat. 2213; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(h)–(<i>l</i>), Dec. 22, 1987, 101 Stat. 1330–229, 1330–230.)
+(Pub. L. 97–425, title I, §114, Jan. 7, 1983, 96 Stat. 2213; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(h)–(l), Dec. 22, 1987, 101 Stat. 1330–229, 1330–230.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ The Energy Reorganization Act of 1974, referred to in subsec. (f)(5), is Pub. L.
 
 Subsec. (a)(1)(D). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(F), generally amended subpar. (D) identically. Prior to amendment, subpar. (D) read as follows: “a final environmental impact statement prepared pursuant to subsection (f) of this section and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), including an analysis of the consideration given by the Secretary to not less than 3 candidate sites for the first proposed respository \[sic\] or to all of the characterized sites for the development of subsequent repositories, with respect to which site characterization is completed under section 10133 of this title, together with comments made concerning such environmental impact statement by the Secretary of the Interior, the Council on Environmental Quality, the Administrator, and the Commission, except that any such environmental impact statement concerning the first repository to be developed under this chapter shall not be required to consider the need for a repository or the alternatives to geologic disposal;”.
 
-Subsec. (a)(1)(H). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(G), amended subpar. (H) identically, substituting “the State of Nevada” for “the State in which such site is located, or under section 10138(b)(3)(B) of this title by the affected Indian tribe where such site is located, as the case may be”.
+Subsec. (a)(1)(H). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(G), amended subpar. (H) identically, substituting “the State of Nevada” for “the State in which such site is located, or under section 10138(b)(3)(B) ofthis title by the affected Indian tribe where such site is located, as the case may be”.
 
 Subsec. (a)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(2), amended subsec. (a) identically, adding par. (2) and striking out former par. (2) which required submission of recommendation of one site for repository not later than Mar. 31, 1987, and recommendation of second site not later than Mar. 31, 1990, and permitted subsequent recommendations for other sites and extension of deadlines.
 
@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(j), amended subsec.
 
 Subsec. (e)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(k), amended par. (1) identically, substituting “operation of the repository” for “operation of the repository involved”.
 
-Subsec. (f). Pub. L. 100–202 and Pub. L. 100–203, §5011(<i>l</i>), generally amended subsec. (f) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of single unnumbered par.
+Subsec. (f). Pub. L. 100–202 and Pub. L. 100–203, §5011(l), generally amended subsec. (f) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of single unnumbered par.
 
 #### Termination of Reporting Requirements
 

@@ -66,7 +66,7 @@
 
 &emsp;(5) to petition the Congress for redress of grievances; or
 
-&emsp;(6) to take such other administrative action to seek such administrative or judicial relief,as is authorized by applicable laws and regulations.
+&emsp;(6) to take such other administrative action to seek such administrative or judicial relief, as is authorized by applicable laws and regulations.
 
 (Added Pub. L. 95–610, §2(a), Nov. 8, 1978, 92 Stat. 3085, §975; renumbered §976, Pub. L. 96–107, title VIII, §821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, §414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, §1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 105–85, div. A, title X, §1073(a)(15), Nov. 18, 1997, 111 Stat. 1900.)
 
@@ -80,9 +80,9 @@
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–525 added cl. (B) and redesignated existing cl. (B) as (C).
 
-#### Congressional Findings and Declaration of Purpose
+#### Findings; Purpose
 
-Section 1 of Pub. L. 95–610 provided that:
+Pub. L. 95–610, §1, Nov. 8, 1978, 92 Stat. 3085, provided that:
 
 “(a) The Congress makes the following findings:
 

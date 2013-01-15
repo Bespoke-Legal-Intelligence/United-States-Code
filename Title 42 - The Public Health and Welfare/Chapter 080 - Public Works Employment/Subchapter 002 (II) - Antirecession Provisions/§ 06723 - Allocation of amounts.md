@@ -48,7 +48,7 @@
 
 > &emsp;in which case the Secretary of Labor shall assign such local government the local unemployment rate provided by such Governor);
 
-&emsp;(C) the local revenue sharing amount is the amount determined under sections 6701(a)(5),\(7), (b)–(d), and 6708–6712 of title 31 <sup>1</sup> for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31; <sup>1</sup>
+&emsp;(C) the local revenue sharing amount is the amount determined under sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31 <sup>1</sup> for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31; <sup>1</sup>
 
 &emsp;(D) the term “local government” means the government of a county, municipality, township, or other unit of government below the State which—
 

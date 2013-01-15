@@ -46,5 +46,5 @@ If the taxpayer does not file with the Secretary a request to change the method 
 
 #### Effective Date of 1984 Amendment
 
-Section 161(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §161(b), July 18, 1984, 98 Stat. 697, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 

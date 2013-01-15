@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Qualified natural gas supply contract
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified natural gas supply contract” means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified natural gas supply contract”means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the annual average amount during the testing period of natural gas purchased (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -192,7 +192,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (3) Due date of payments under paragraph (2)
 
-&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph\(2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
+&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
 
 #### (4) Special rules for applying paragraph (2)
 
@@ -270,7 +270,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;The spending requirement of clause (ii)(IV) shall be treated as met if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such requirement would be met at the close of such 2-year period but for a reasonable retainage (not exceeding 5 percent of the available construction proceeds of the construction issue), and
+&emsp;&emsp;&emsp;&emsp;(I) such requirement would be met at the close of such 2-year period but for areasonable retainage (not exceeding 5 percent of the available construction proceeds of the construction issue), and
 
 &emsp;&emsp;&emsp;&emsp;(II) 100 percent of the available construction proceeds of the construction issue are spent for the governmental purposes of the issue within the 3-year period beginning on the date the bonds are issued.
 
@@ -326,7 +326,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (viii) Election to terminate 1½ percent penalty
 
-&emsp;&emsp;&emsp;At the election of the issuer (made not later than 90 days after the earlier of the end of the initial temporary period or the date the construction is substantially completed), the penalty under clause (vii) shall not apply to any 6-month period afterthe initial temporary period under subsection (c) if the requirements of subclauses (I), (II), and (III) are met.
+&emsp;&emsp;&emsp;At the election of the issuer (made not later than 90 days after the earlier of the end of the initial temporary period or the date the construction is substantially completed), the penalty under clause (vii) shall not apply to any 6-month period after the initial temporary period under subsection (c) if the requirements of subclauses (I), (II), and (III) are met.
 
 #### (I) 3 percent penalty
 
@@ -394,7 +394,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (xiv) Determination of initial temporary period
 
-&emsp;&emsp;&emsp;For purposes of this subpargraph,<sup>1</sup> the end of the initial temporary period shallbe determined without regard to section 149(d)(3)(A)(iv).
+&emsp;&emsp;&emsp;For purposes of this subpargraph,<sup>1</sup> the end of the initial temporary period shall be determined without regard to section 149(d)(3)(A)(iv).
 
 #### (xv) Elections
 
@@ -462,15 +462,15 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (vi) Refundings of bonds issued under law prior to Tax Reform Act of 1986
 
-&emsp;&emsp;&emsp;If section 141(a) did not apply to any refunded bond, the issue of which such refunded bond was a part shall be treated asmeeting the requirements of subclause (II) of clause (v) if—
+&emsp;&emsp;&emsp;If section 141(a) did not apply to any refunded bond, the issue of which such refunded bond was a part shall be treated as meeting the requirements of subclause (II) of clause (v) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such issue was issued by a governmental unit with general taxing powers,
 
-&emsp;&emsp;&emsp;&emsp;(II) no bond issued as part of such issue was an industrial development bond (as defined in section 103(b)(2), but without regard to subparagraph (B) of section 103(b)(3)) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(C)), and
+&emsp;&emsp;&emsp;&emsp;(II) no bond issued as part of such issue was an industrial development bond (as defined in section 103(b)(2), but without regard to subparagraph (B) of section 103(b)(3)) or a private loan bond (as defined in section 103(o)(2)(A), but without regard to any exception from such definition other than section 103(o)(2)(C)), and
 
 &emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by such unit during the calendar year in which such issue was issued did not exceed $5,000,000.
 
-&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similar to the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
+&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similarto the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
@@ -530,10 +530,6 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (f)(4)(C)(vi), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
@@ -546,7 +542,7 @@ Section 438 of the Higher Education Act of 1965, referred to in subsec. (g), is 
 
 <b>2005</b>—Subsec. (b)(4). Pub. L. 109–58 added par. (4).
 
-<b>2001</b>—Subsec. (f)(4)(D)(vii). Pub. L. 107–16, §§421(a), 901, temporarily substituted “the lesser of $10,000,000” for “the lesser of $5,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (f)(4)(D)(vii). Pub. L. 107–16 substituted “the lesser of $10,000,000” for “the lesser of $5,000,000”.
 
 <b>1997</b>—Subsec. (c)(2)(B) to (E). Pub. L. 105–34, §1444(a), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “In the case of the proceeds of an issue to be used to make or finance loans under a program described in section 144(b)(1)(A), subparagraph (A) shall be applied by substituting ‘18 months’ for ‘6 months’. The preceding sentence shall not apply to any bond issued after December 31, 1988.”
 
@@ -624,41 +620,39 @@ Amendment by Pub. L. 109–222 applicable to bonds issued after May 17, 2006, se
 
 Amendment by Pub. L. 109–58 applicable to obligations issued after Aug. 8, 2005, see section 1327(d) of Pub. L. 109–58, set out as a note under section 141 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1997 Amendment
 
-Section 223(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after December 31, 1997.”
+Pub. L. 105–34, title II, §223(b), Aug. 5, 1997, 111 Stat. 818, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after December 31, 1997.”
 
-Section 1445 of title XIV of Pub. L. 105–34 provided that: “The amendments made by this subtitle \[subtitle B (§§1441–1445) of title XIV of Pub. L. 105–34, amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1445, Aug. 5, 1997, 111 Stat. 1054, provided that: “The amendments made by this subtitle \[subtitle B (§§1441–1445) of title XIV of Pub. L. 105–34, amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
-Section 11701(j)(8) of Pub. L. 101–508 provided that: “Section 148(f)(4)(C)(xiii)(II) of such Code (as added by this subsection) shall apply only to refunding bonds issued after August 3, 1990.”
+Pub. L. 101–508, title XI, §11701(j)(8), Nov. 5, 1990, 104 Stat. 1388–513, provided that: “Section 148(f)(4)(C)(xiii)(II) of such Code (as added by this subsection) shall apply only to refunding bonds issued after August 3, 1990.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7652(e) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 Amendment by sections 7814(c)(2) and 7816(r), (t) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(16)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after June 30, 1987.”
+Pub. L. 100–647, title I, §1013(a)(16)(B), Nov. 10, 1988, 102 Stat. 3540, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after June 30, 1987.”
 
-Section 1013(a)(17)(C) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1013(a)(17)(C), Nov. 10, 1988, 102 Stat. 3542, provided that:
 
 “(i) Except as provided in clause (ii), the amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.
 
 “(ii) At the election of an issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe), the amendments made by this paragraph shall apply to such issuer as if included in the amendments made by section 1301(a) of the Tax Reform Act of 1986 \[amending section 103 of this title\].”
 
-Section 1013(a)(43)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after March 31, 1988.”
+Pub. L. 100–647, title I, §1013(a)(43)(C), Nov. 10, 1988, 102 Stat. 3545, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after March 31, 1988.”
 
 Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -666,9 +660,9 @@ Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued,
 
 Amendment by section 5053(b) of Pub. L. 100–647 applicable, with certain exceptions, to obligations issued after Oct. 21, 1988, see section 5053(c) of Pub. L. 100–647, set out as a note under section 145 of this title.
 
-Section 6177(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6177(c), Nov. 10, 1988, 102 Stat. 3727, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-Section 6181(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6181(c), Nov. 10, 1988, 102 Stat. 3729, provided that:
 
 “(1)
 
@@ -682,7 +676,7 @@ Election for outstanding bonds.—Any issue of bonds other than private activity
 
 Definition of private activity bond.—For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)), the term ‘private activity bond’ shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code).”
 
-Section 6183(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1988.”
+Pub. L. 100–647, title VI, §6183(b), Nov. 10, 1988, 102 Stat. 3730, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1988.”
 
 #### Effective Date
 
@@ -690,11 +684,11 @@ Subpart applicable to bonds issued after Aug. 15, 1986, except as otherwise prov
 
 #### Extension of Period To Elect To Terminate Percent Penalty for Bonds Issued Before November 5, 1990
 
-Section 11701(j)(7) of Pub. L. 101–508 provided that: “In the case of a bond issued before the date of the enactment of this Act \[Nov. 5, 1990\], the period for making the election under section 148(f)(4)(C)(viii) of the Internal Revenue Code of 1986 (as added by this subsection) shall not expire before the date which is 180 days after such date of enactment.”
+Pub. L. 101–508, title XI, §11701(j)(7), Nov. 5, 1990, 104 Stat. 1388–513, provided that: “In the case of a bond issued before the date of the enactment of this Act \[Nov. 5, 1990\], the period for making the election under section 148(f)(4)(C)(viii) of the Internal Revenue Code of 1986 (as added by this subsection) shall not expire before the date which is 180 days after such date of enactment.”
 
 #### Amendment to Arbitrage Regulations
 
-Section 1301(c) of Pub. L. 99–514 provided that: “The provision in the Federal income tax regulations relating to the arbitrage requirements which permits a higher yield on acquired obligations if the issuer elects to waive the benefits of the temporary period provisions shall not apply to bonds issued after August 31, 1986.”
+Pub. L. 99–514, title XIII, §1301(c), Oct. 22, 1986, 100 Stat. 2654, provided that: “The provision in the Federal income tax regulations relating to the arbitrage requirements which permits a higher yield on acquired obligations if the issuer elects to waive the benefits of the temporary period provisions shall not apply to bonds issued after August 31, 1986.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph,”.</i>
 

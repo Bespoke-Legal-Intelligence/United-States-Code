@@ -40,7 +40,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 (1) From any State's allotment, after the application of section 3028(b) of this title, under this section for any fiscal year—
 
-&emsp;(A) such amount as the State agency determines, but not more than 10 percent thereof,shall be available for paying such percentage as the agency determines, but not more than 75 percent, of the cost of administration of area plans;
+&emsp;(A) such amount as the State agency determines, but not more than 10 percent thereof, shall be available for paying such percentage as the agency determines, but not more than 75 percent, of the cost of administration of area plans;
 
 &emsp;(B) such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate for conducting an effective ombudsman program under section 3027(a)(9) of this title shall be available for conducting such program;
 

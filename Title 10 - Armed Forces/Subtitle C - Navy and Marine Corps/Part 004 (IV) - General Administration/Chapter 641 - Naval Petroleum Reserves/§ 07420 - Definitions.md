@@ -18,7 +18,7 @@ In this chapter:
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in eachpar., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+<b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
 <b>1980</b>—Pub. L. 96–513 in introductory text struck out “(a)” before “In”, in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted “Energy” for “the Navy”.
 
@@ -106,7 +106,7 @@ Distribution of Remaining Funds.—Section 35 of the Mineral Leasing Act (30 U.S
 
 “(a)
 
-Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to theCity of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE¼, the NE¼ of the NW¼, and the N½ of the SE¼ of the NW¼ of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
+Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to the City of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE¼, the NE¼ of the NW¼, and the N½ of the SE¼ of the NW¼ of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
 
 “(b)
 
@@ -196,7 +196,7 @@ Administration Pending Termination of Operations.—The Secretary of Energy shal
 
 “(b)
 
-Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer toanother Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
+Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer to another Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
 
 “(c)
 
@@ -330,7 +330,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 &emsp;“(B) other amounts made available for the remedial action under this subsection.
 
-“(3)(A) The royalty payments received by the Secretary of Energy under subsection (e) shall be available to the Secretary, without further appropriation, to carry out the remedial action under paragraph (1) until such time as the Secretary determines that all costs incurred by the United States to carry out the remedial action (other than costs associated with long-term monitoring) have been paid.
+“(3)(A) The royalty payments received by the Secretary of Energy under subsection (e) shall be availableto the Secretary, without further appropriation, to carry out the remedial action under paragraph (1) until such time as the Secretary determines that all costs incurred by the United States to carry out the remedial action (other than costs associated with long-term monitoring) have been paid.
 
 “(B) Upon making the determination referred to in subparagraph (A), the Secretary of Energy shall transfer all remaining royalty amounts to the general fund of the Treasury and release to the Tribe the royalty interest retained by the United States under subsection (e).
 
@@ -360,7 +360,7 @@ Deposit of Receipts.—Notwithstanding any other law, all monies received by the
 
 “(c)
 
-Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any leaseof lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
+Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any lease of lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
 
 “(d)
 
@@ -412,7 +412,7 @@ Notice of Sale.—Not later than two months after the effective date, the Secret
 
 “(d)
 
-Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
+Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date.In making their assessments, the independent experts shall consider (among other factors)—
 
 &emsp;“(A) all equipment and facilities to be included in the sale;
 
@@ -486,7 +486,7 @@ Effect on Antitrust Laws.—Nothing in this subtitle shall be construed to alter
 
 “(c)
 
-Preservation of Private Right, Title, and Interest.—Nothing in this subtitle shall be construed to adversely affect the ownership interest of any other entity having any right, title, and interest in and to lands within the boundaries of Naval Petroleum Reserve Numbered 1 and which are subject to the unit plan contract.
+Preservation of Private Right, Title, and Interest.—Nothing in this subtitle shall be construed to adversely affect the ownership interest of any other entity having any right, title, and interest in and to landswithin the boundaries of Naval Petroleum Reserve Numbered 1 and which are subject to the unit plan contract.
 
 “(d)
 
@@ -520,7 +520,7 @@ Effect of Reconsideration Notice.—After the Secretary submits a notification u
 
 “(a)
 
-Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers’ Retirement Fund of the State in the eventthat, and to the extent that, the claims of the State against the United States regarding production and proceeds of sale from Naval Petroleum Reserve Numbered 1 are—
+Reservation of Funds.—After the costs incurred in the conduct of the sale of Naval Petroleum Reserve Numbered 1 under section 3412 are deducted, nine percent of the remaining proceeds from the sale of the reserve shall be reserved in a contingent fund in the Treasury for payment to the State of California for the Teachers’ Retirement Fund of the State in the event that, and to the extent that, the claims of the State against the United States regarding production and proceeds of sale from Naval Petroleum Reserve Numbered 1 are—
 
 &emsp;“(1) settled by agreement with the United States under subsection (c); or
 

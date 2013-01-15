@@ -6,7 +6,7 @@
 
 (2) The provisions of subsections (d), (m), and (x)(2) of section 19 of such Act <sup>1</sup> shall not apply with respect to the program established under this section.
 
-(3) As part of the program established under this section, the Secretary, after consulting with the Administrator of the EnvironmentalProtection Agency and the Secretary of Commerce, shall undertake—
+(3) As part of the program established under this section, the Secretary, after consulting with the Administrator of the Environmental Protection Agency and the Secretary of Commerce, shall undertake—
 
 &emsp;(A) the research, development, and demonstration of technologies to recover energy from municipal wastes;
 

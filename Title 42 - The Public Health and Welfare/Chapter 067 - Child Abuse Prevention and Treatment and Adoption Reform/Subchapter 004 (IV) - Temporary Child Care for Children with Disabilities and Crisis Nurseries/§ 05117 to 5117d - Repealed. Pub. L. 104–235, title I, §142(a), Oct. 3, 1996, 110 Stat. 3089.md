@@ -12,9 +12,9 @@ Section 5117d, Pub. L. 99–401, title II, §206, Aug. 27, 1986, 100 Stat. 909; 
 
 #### Effective Date
 
-Section 207 of title II of Pub. L. 99–401 which provided that title II of Pub. L. 99–401 was effective Oct. 1, 1986, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.
+Pub. L. 99–401, title II, §207, Aug. 27, 1986, 100 Stat. 909, which provided that title II of Pub. L. 99–401 was effective Oct. 1, 1986, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 99–401, as amended by Pub. L. 101–127, §6, Oct. 25, 1989, 103 Stat. 772, which provided that title II of Pub. L. 99–401 be cited as the “Temporary Child Care for Children With Disabilities and Crisis Nurseries Act of 1986”, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.
+Pub. L. 99–401, title II, §201, Aug. 27, 1986, 100 Stat. 907, as amended by Pub. L. 101–127, §6, Oct. 25, 1989, 103 Stat. 772, which provided that title II of Pub. L. 99–401 be cited as the “Temporary Child Care for Children With Disabilities and Crisis Nurseries Act of 1986”, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.
 

@@ -4,7 +4,7 @@
 
 #### (1) National Center
 
-&emsp;There is established within the Centers for Disease Control and Prevention a center to be known as the National Center on Birth Defects and Developmental Disabilities (referred to in this section as the “Center”), which shall be headed by a director appointed by the Director of the Centers for Disease Control and Prevention.
+&emsp;There is established within the Centers for Disease Control and Prevention a center to be known as the National Center on Birth Defects and Developmental Disabilities (referred to in this section as the “Center”), which shall beheaded by a director appointed by the Director of the Centers for Disease Control and Prevention.
 
 #### (2) General duties
 
@@ -144,7 +144,7 @@ Pub. L. 105–168, §1(b), Apr. 21, 1998, 112 Stat. 43, provided that: “Congre
 
 #### Definitions
 
-For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities inprovisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by the word “by”.</i>
 

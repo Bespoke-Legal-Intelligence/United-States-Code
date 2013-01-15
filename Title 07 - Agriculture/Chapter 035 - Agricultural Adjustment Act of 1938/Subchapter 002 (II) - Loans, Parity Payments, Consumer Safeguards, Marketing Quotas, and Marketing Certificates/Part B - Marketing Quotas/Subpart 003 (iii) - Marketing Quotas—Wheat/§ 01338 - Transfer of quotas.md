@@ -10,7 +10,7 @@ Farm marketing quotas for wheat shall not be transferable, but, in accordance wi
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 307 of Pub. L. 99–198 provided that the amendment made by that section is effective only for 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, §307, Dec. 23, 1985, 99 Stat. 1382, provided that the amendment made by Pub. L. 99–198 is effective only for the 1987 through 1990 crops of wheat.
 
 #### Inapplicability of Section
 

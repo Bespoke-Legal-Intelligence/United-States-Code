@@ -86,7 +86,7 @@ The location of the Office in the Executive Office of the President shall not be
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading“this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 Section 1701(1) of this title, referred to in subsec. (b)(3)(C), was in the original “section 702(l)”, and was translated as reading “section 702(1)”, meaning section 702(1) of Pub. L. 105–277, to reflect the probable intent of Congress, because section 702 of Pub. L. 105–277 does not contain a subsec. (l).
 

@@ -10,7 +10,7 @@ The Administrator of the Foreign Agricultural Service is authorized to exercise 
 
 #### (c) Use of Service
 
-In carrying out the duties under this section, the Administrator shall oversee the operations of the Foreign Agricultural Service, the General Sales Manager, and the Agricultural Attache�AE1 Service.
+In carrying out the duties under this section, the Administrator shall oversee the operations of the Foreign Agricultural Service, the General Sales Manager, and the Agricultural Attaché Service.
 
 (Pub. L. 95–501, title V, §502, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3686.)
 

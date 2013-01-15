@@ -68,7 +68,7 @@ For purposes of this part—
 
 #### (D) TAA-related loss of coverage
 
-&emsp;&emsp;The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss ofhealth benefits coverage associated with such separation.
+&emsp;&emsp;The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
 
 (Pub. L. 93–406, title I, §605, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(1), Aug. 6, 2002, 116 Stat. 969.)
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverageand reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

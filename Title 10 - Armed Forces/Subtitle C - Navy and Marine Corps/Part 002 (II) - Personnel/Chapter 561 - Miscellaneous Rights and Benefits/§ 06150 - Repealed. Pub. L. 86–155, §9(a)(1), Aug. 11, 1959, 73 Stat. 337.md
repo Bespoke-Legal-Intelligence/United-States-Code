@@ -4,5 +4,5 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 385; Sept. 2, 1958, Pub. L. 85�
 
 #### Effective Date of Repeal
 
-Section 9(b) of Pub. L. 86–155 provided that the repeal is effective on Nov. 1, 1959.
+Pub. L. 86–155, §9(b), Aug. 11, 1959, 73 Stat. 337, provided that the repeal is effective on Nov. 1, 1959.
 

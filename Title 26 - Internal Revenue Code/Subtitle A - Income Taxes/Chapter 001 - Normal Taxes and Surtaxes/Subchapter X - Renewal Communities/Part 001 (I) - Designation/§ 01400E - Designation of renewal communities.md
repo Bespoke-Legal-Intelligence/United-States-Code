@@ -42,7 +42,7 @@
 
 #### (C) Preference for enterprise communities and empowerment zones
 
-&emsp;&emsp;With respect to the first 20 designations made under this section, a preference shallbe provided to those nominated areas which are enterprise communities or empowerment zones (and are otherwise eligible for designation under this section).
+&emsp;&emsp;With respect to the first 20 designations made under this section, a preference shall be provided to those nominated areas which are enterprise communities or empowerment zones (and are otherwise eligible for designation under this section).
 
 #### (4) Limitation on designations
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) the poverty rate for each population census tract within the nominated area is at least 20 percent, and
 
-&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the area have incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) of the Housing and Community Development Act of 1974).
+&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the areahave incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) of the Housing and Community Development Act of 1974).
 
 #### (4) Consideration of other factors
 

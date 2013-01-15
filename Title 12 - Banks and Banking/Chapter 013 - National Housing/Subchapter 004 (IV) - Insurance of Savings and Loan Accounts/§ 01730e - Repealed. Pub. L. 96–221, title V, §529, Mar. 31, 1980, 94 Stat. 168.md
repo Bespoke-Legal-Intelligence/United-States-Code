@@ -8,9 +8,9 @@ A prior section 1730e, act June 27, 1934, ch. 847, §412, as added Oct. 29, 1974
 
 #### Effective Date of Repeal
 
-Section 529 of Pub. L. 96–221 provided that the repeal of this section is effective at close of Mar. 31, 1980.
+Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided that the repeal of this section is effective at close of Mar. 31, 1980.
 
 #### Savings Provision
 
-Section 529 of Pub. L. 96–221 provided that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section \[which had been enacted by thoselaws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
+Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section \[which had been enacted by those laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
 

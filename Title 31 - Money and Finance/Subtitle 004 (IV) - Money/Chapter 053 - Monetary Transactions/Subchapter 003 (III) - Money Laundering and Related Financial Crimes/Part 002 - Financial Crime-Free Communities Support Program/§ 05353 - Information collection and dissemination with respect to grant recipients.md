@@ -6,7 +6,7 @@ Applicant and Grantee Information.—
 
 &emsp;(1)
 
-Application process.—The Secretary shall issue requests for proposal, as necessary, regarding, with respect to the grants awarded under section 5352, the application process, grant renewal, and suspension or withholding of renewal grants. Each application under this paragraph shall be in writing and shall be subject to review by the Secretary.
+Application process.—The Secretary shall issue requests for proposal, as necessary, regarding, with respect to the grants awarded under section 5352, the application process, grant renewal, and suspension or withholdingof renewal grants. Each application under this paragraph shall be in writing and shall be subject to review by the Secretary.
 
 &emsp;(2)
 

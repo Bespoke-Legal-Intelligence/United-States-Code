@@ -12,7 +12,7 @@ Any generator of low-level radioactive waste, or any Governor (or, for any State
 
 #### (1) Required determination
 
-&emsp;Not later than 45 days after receiving a request under subsection (b) of this section, theNuclear Regulatory Commission shall determine whether—
+&emsp;Not later than 45 days after receiving a request under subsection (b) of this section, the Nuclear Regulatory Commission shall determine whether—
 
 &emsp;&emsp;(A) emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security; and
 

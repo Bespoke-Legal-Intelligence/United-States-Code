@@ -86,7 +86,7 @@ For the effective date of this section, referred to in subsecs. (b) to (d), see 
 
 #### Effective Date
 
-Section 10 of Pub. L. 95–460 provided that:
+Pub. L. 95–460, §10, Oct. 14, 1978, 92 Stat. 1267, provided that:
 
 “(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall become effective on the date of the enactment of this Act \[Oct. 14, 1978\].
 
@@ -94,7 +94,7 @@ Section 10 of Pub. L. 95–460 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 95–460 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
+Pub. L. 95–460, §1, Oct. 14, 1978, 92 Stat. 1263, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 

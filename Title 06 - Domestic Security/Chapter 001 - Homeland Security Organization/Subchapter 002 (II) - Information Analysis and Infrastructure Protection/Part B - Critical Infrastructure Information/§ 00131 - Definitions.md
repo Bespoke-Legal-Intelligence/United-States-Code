@@ -54,7 +54,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) in the case of any action brought under the securities laws as is defined in section 78c(a)(47) of title 15—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not include information or statements contained in any documents or materials filed with the Securities and Exchange Commission, or with Federal banking regulators, pursuant to section 78<i>l</i>(i) of title 15; and
+&emsp;&emsp;&emsp;&emsp;(I) does not include information or statements contained in any documents or materials filed with the Securities and Exchange Commission, or with Federal banking regulators, pursuant to section 78l(i) of title 15; and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to the submittal of critical infrastructure information, does not include any disclosure or writing that when made accompanied the solicitation of an offer or a sale of securities; and
 

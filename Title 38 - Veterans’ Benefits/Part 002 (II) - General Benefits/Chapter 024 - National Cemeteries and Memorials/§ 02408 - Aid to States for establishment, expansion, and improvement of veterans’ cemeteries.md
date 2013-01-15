@@ -22,7 +22,7 @@
 
 (c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
-(2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
+(2) The Secretary may by regulation prescribe such additional terms and conditions for grantsunder this section as the Secretary considers appropriate.
 
 (d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State under this section shall be made subject to the condition specified in paragraph (2).
 
@@ -112,5 +112,5 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 #### Regulations
 
-Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days afterthe date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
+Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
 

@@ -1,6 +1,6 @@
 ### §3347. Exclusivity
 
-(a) Sections 3345 and 3346 are the exclusive means for temporarily authorizing an acting official to perform the functions and duties of any office of an Executive agency (including the Executive Office of the President, and other thanthe Government Accountability Office) for which appointment is required to be made by the President, by and with the advice and consent of the Senate, unless—
+(a) Sections 3345 and 3346 are the exclusive means for temporarily authorizing an acting official to perform the functions and duties of any office of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) for which appointment is required to be made by the President, by and with the advice and consent of the Senate, unless—
 
 &emsp;(1) a statutory provision expressly—
 

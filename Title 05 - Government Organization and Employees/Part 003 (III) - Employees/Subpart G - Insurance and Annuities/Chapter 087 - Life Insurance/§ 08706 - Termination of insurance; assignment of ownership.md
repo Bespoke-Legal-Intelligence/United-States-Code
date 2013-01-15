@@ -176,13 +176,13 @@ Amendment by Pub. L. 105–311 effective in any case in which a finding of erron
 
 #### Effective Date of 1986 Amendments
 
-Section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), provided that: “The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982.”
+Pub. L. 98–353, title II, §207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, §7(2), provided that: “The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982.”
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 209 of Pub. L. 98–353 provided that:
+Pub. L. 98–353, title II, §209, July 10, 1984, 98 Stat. 351, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchased by judges after the date of enactment of this Act \[July 10, 1984\].
 
@@ -194,13 +194,13 @@ Amendment by Pub. L. 96–427 applicable only in case of an employee who retires
 
 #### Effective Date of 1978 Amendments
 
-Section 3 of Pub. L. 95–583 provided that: “The amendments made by this Act \[amending this section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
+Pub. L. 95–583, §3, Nov. 2, 1978, 92 Stat. 2482, provided that: “The amendments made by this Act \[amending this section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 #### Insurance Coverage for Restored Disability Annuitants
 
-Section 3(c) of Pub. L. 99–53 provided that:
+Pub. L. 99–53, §3(c), June 17, 1985, 99 Stat. 95, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 8908 of this title\] shall apply with respect to any individual whose disability annuity is or was restored under section 8337(e) of title 5, United States Code, after December 31, 1983.
 
@@ -218,7 +218,7 @@ Section 3(c) of Pub. L. 99–53 provided that:
 
 #### Election of Life Insurance or Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Life Insurance Fund or Employees Health Benefits Fund, Non-Election; Regulations
 
-Pub. L. 89–504, title IV, §406(c), July 18, 1966, 80 Stat. 298, provided that: “An officer or employee who is on approved leave without pay and serving as a full-timeofficer or employee of an organization composed primarily of employees, as defined in section 2 of the Federal Employees’ Group Life Insurance Act of 1954, as amended (5 U.S.C. 2091) \[section 8701 of this title\] or section 2 of the Federal Employees Health Benefits Act of 1959, as amended (5 U.S.C. 3001) \[section 8901 of this title\] as the case may be, may, within sixty days after the date of enactment of this Act \[July 18, 1966\], file with his employing agency an election (1) to continue any insurance status or health benefits enrollment, or both, that he has on the date of enactment of this Act \[July 18, 1966\], (2) to reacquire any insurance status or health benefits enrollment, or both, which he may have lost while on leave without pay, or (3) to acquire as insured status or enroll in a health benefits plan, or both, if he was never previously eligible to do so, by arranging to pay currently and continuously into the employees’ life insurance fund and the employees’ health benefits fund, as appropriate, through his employing agency, both employee and agency contributions. The employing agency shall forward such payments to the employees’ life insurance fund and the employees’ health benefits fund, as appropriate. If he does not so elect, his insurance status and health benefits enrollment will continue and terminate as for other employees in nonpay status, or he will remain ineligible for insurance and health benefits, as the case may be, as though this paragraph had not been enacted. The United States Civil Service Commission is authorized to issue regulations to carry out the purposes of this paragraph.”
+Pub. L. 89–504, title IV, §406(c), July 18, 1966, 80 Stat. 298, provided that: “An officer or employee who is on approved leave without pay and serving as a full-time officer or employee of an organization composed primarily of employees, as defined in section 2 of the Federal Employees’ Group Life Insurance Act of 1954, as amended (5 U.S.C. 2091) \[section 8701 of this title\] or section 2 of the Federal Employees Health Benefits Act of 1959, as amended (5 U.S.C. 3001) \[section 8901 of this title\] as the case may be, may, within sixty days after the date of enactment of this Act \[July 18, 1966\], file with his employing agency an election (1) to continue any insurance status or health benefits enrollment, or both, that he has on the date of enactment of this Act \[July 18, 1966\], (2) to reacquire any insurance status or health benefits enrollment, or both, which he may have lost while on leave without pay, or (3) to acquire as insured status or enroll in a health benefits plan, or both, if he was never previously eligible to do so, by arranging to pay currently and continuously into the employees’ life insurance fund and the employees’ health benefits fund, as appropriate, through his employing agency, both employee and agency contributions. The employing agency shall forward such payments to the employees’ life insurance fund and the employees’ health benefits fund, as appropriate. If he does not so elect, his insurance status and health benefits enrollment will continue and terminate as for other employees in nonpay status, or he will remain ineligible for insurance and health benefits, as the case may be, as though this paragraph had not been enacted. The United States Civil Service Commission is authorized to issue regulations to carry out the purposes of this paragraph.”
 
 \[Provision effective July 18, 1966, see section 410(1) of Pub. L. 89–504.\]
 

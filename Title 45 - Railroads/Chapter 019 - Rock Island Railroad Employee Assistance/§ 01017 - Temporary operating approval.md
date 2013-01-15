@@ -28,5 +28,5 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 #### Termination of Applicability of Amendment to Interstate Commerce Service Order 1498 on May 15, 1982
 
-Section 5(b) of Pub. L. 97–130 provided that: “The applicability of the amendment made by subsection (a) \[amending subsec. (a) of this section\] to Interstate Commerce Commission Service Order 1498 shall expire at the end of May 15, 1982.”
+Pub. L. 97–130, §5(b), Dec. 29, 1981, 95 Stat. 1691, provided that: “The applicability of the amendment made by subsection (a) \[amending subsec. (a) of this section\] to Interstate Commerce Commission Service Order 1498 shall expire at the end of May 15, 1982.”
 

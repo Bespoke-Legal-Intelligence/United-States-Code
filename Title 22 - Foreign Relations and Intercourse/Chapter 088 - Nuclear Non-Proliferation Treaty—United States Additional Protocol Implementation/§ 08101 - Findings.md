@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3) For the Nuclear Non-Proliferation Treaty to be effective, each of the non-nuclear-weapon State Parties must conclude a comprehensive safeguards agreement with the IAEA, and such agreements must be honored and enforced.
 
-&emsp;(4) Recent events emphasize the urgency of strengthening the effectiveness and improving the efficiency of the safeguards system. This can best be accomplished by providing IAEA inspectors with more information about, and broader access to, nuclear activities within the territory of non-nuclear-weapon State Parties.
+&emsp;(4) Recent events emphasize the urgency of strengthening the effectiveness and improving the efficiency of the safeguards system. Thiscan best be accomplished by providing IAEA inspectors with more information about, and broader access to, nuclear activities within the territory of non-nuclear-weapon State Parties.
 
 &emsp;(5) The proposed scope of such expanded information and access has been negotiated by the member states of the IAEA in the form of a Model Additional Protocol to its existing safeguards agreements, and universal acceptance of Additional Protocols by non-nuclear weapons states is essential to enhancing the effectiveness of the Nuclear Non-Proliferation Treaty.
 

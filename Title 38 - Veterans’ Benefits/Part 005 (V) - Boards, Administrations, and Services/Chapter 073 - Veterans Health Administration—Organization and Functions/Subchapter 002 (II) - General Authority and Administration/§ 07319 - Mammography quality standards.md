@@ -20,9 +20,9 @@ Section 354 of the Public Health Service Act, referred to in text, is section 35
 
 #### Deadline for Prescribing Standards
 
-Section 321(b) of Pub. L. 104–262 provided that: “The Secretary of Veterans Affairs shall prescribe standards under subsection (b) of section 7319 of title 38, United States Code, as added by subsection (a), not later than the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 9, 1996\].”
+Pub. L. 104–262, title III, §321(b), Oct. 9, 1996, 110 Stat. 3195, provided that: “The Secretary of Veterans Affairs shall prescribe standards under subsection (b) of section 7319 of title 38, United States Code, as added by subsection (a), not later than the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Implementation Report
 
-Section 321(c) of Pub. L. 104–262 provided that: “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's implementation of section 7319 of title 38, United States Code, as added by subsection (a). The report shall be submitted not later than 120 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
+Pub. L. 104–262, title III, §321(c), Oct. 9, 1996, 110 Stat. 3195, provided that: “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's implementation of section 7319 of title 38, United States Code, as added by subsection (a). The report shall be submitted not later than 120 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
 

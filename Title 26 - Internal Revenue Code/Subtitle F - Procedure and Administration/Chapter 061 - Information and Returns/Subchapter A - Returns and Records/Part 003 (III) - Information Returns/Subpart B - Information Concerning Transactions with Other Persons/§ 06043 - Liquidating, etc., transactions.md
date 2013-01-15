@@ -14,7 +14,7 @@ Every organization which for any of its last 5 taxable years preceding its liqui
 
 &emsp;(1) no return shall be required under this subsection from churches, their integrated auxiliaries, conventions or associations of churches, or any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000, and
 
-&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described in section 401(a), where the employer who established such organization files such a return.
+&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described insection 401(a), where the employer who established such organization files such a return.
 
 #### (c) Changes in control and recapitalizations
 
@@ -56,7 +56,7 @@ Cross Reference.—For provisions relating to penalties for failure to file a re
 
 #### Effective Date of 1989 Amendment
 
-Section 7208(b)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 6652 of this title\] shall apply to transactions after March 31, 1990.”
+Pub. L. 101–239, title VII, §7208(b)(4), Dec. 19, 1989, 103 Stat. 2338, provided that: “The amendments made by this subsection \[amending this section and section 6652 of this title\] shall apply to transactions after March 31, 1990.”
 
 #### Effective Date of 1986 Amendment
 

@@ -56,7 +56,7 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (3) Mitigating factors
 
-&emsp;In determining the amount of any penalty assessed under paragraph (2), the Bureau or the court shall take into account the appropriateness of the penalty with respect to—
+&emsp;In determining the amount of any penalty assessed under paragraph (2), the Bureau orthe court shall take into account the appropriateness of the penalty with respect to—
 
 &emsp;&emsp;(A) the size of financial resources and good faith of the person charged;
 

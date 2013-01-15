@@ -30,7 +30,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted “loan or loan guarantee” for “grant, contract,loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
 
 Subsecs. (a)(2), (b). Pub. L. 99–660, §803(b)(2)(A), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”.
 

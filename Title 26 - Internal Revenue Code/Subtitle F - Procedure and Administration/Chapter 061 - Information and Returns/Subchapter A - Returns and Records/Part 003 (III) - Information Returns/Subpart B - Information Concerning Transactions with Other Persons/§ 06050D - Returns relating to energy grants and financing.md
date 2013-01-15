@@ -12,5 +12,5 @@ For purposes of this section, the term “person” means the officer or employe
 
 #### Effective Date
 
-Section 203(c) of Pub. L. 96–223 provided that: “The amendments made by this section \[amending this section and section 23 of this title\] shall apply to taxable years beginning after December 31, 1980, but only with respect to financing or grants made after such date.”
+Pub. L. 96–223, title II, §203(c), Apr. 2, 1980, 94 Stat. 259, provided that: “The amendments made by this section \[amending this section and section 23 of this title\] shall apply to taxable years beginning after December 31, 1980, but only with respect to financing or grants made after such date.”
 

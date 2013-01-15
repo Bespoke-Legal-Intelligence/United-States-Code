@@ -6,7 +6,7 @@ Separability.—If any provision of this chapter, or the application of a provis
 
 (b)
 
-Effect of Judicial Order.—(1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108 of this title from the day after the day the order is issued.
+Effect of Judicial Order.—(1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108 <sup>1</sup> of this title from the day after the day the order is issued.
 
 (2) Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–380; Public Law 99–599; 100 Stat. 3341–383) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
 
@@ -60,5 +60,9 @@ In subsection (b)(1), the words “the limitations described in” are omitted a
 
 The Metropolitan Washington Airports Amendments Act of 1996, referred to in subsec. (b)(1), is title IX of Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3274, which amended the Metropolitan Washington Airports Act of 1986, title VI of Pub. L. 99–500, Oct. 18, 1986, 100 Stat. 1783–373, and title VI of Pub. L. 99–591, Oct. 30, 1986, 100 Stat. 3341–376, as amended. The Metropolitan Washington Airports Act of 1986 was classified generally to subchapter III (§2451 et seq.) of chapter 33 of former Title 49, Transportation, and was repealed and reenacted as this chapter by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
+Section 49108 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32.
+
 Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is section 6007(f)(4) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–379, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–382, which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by Pub. L. 104–264, title IX, §904(a), Oct. 9, 1996, 110 Stat. 3276. Section 6007 was subsequently repealed and reenacted as section 49106 of Title 49, Transportation, by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217, and does not contain provisions relating to a Board of Review.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

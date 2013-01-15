@@ -4,7 +4,7 @@
 
 #### (1) Inventory
 
-&emsp;Not later than 60 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Tennessee Valley Authority shall provide the Secretary with an inventory of all property and facilities at the Recreation Area.
+&emsp;Not later than 60 days after the date of transfer pursuant to section 460lll–41 of this title, the Tennessee Valley Authority shall provide the Secretary with an inventory of all property and facilities at the Recreation Area.
 
 #### (2) Availability for transfer
 
@@ -22,17 +22,17 @@
 
 #### (b) Designation
 
-Pursuant to such procedures as may be prescribed in the memorandum of agreement entered into under section 460<i>lll</i>–43 of this title, the Secretary shall identify and designate, in writing, all Tennessee Valley Authority property to be transferred to the Secretary.
+Pursuant to such procedures as may be prescribed in the memorandum of agreement entered into under section 460lll–43 of this title, the Secretary shall identify and designate, in writing, all Tennessee Valley Authority property to be transferred to the Secretary.
 
 #### (c) Facilitation of transfer
 
-The Tennessee Valley Authority shall, to the maximum extent practicable, use current personnel to facilitate the transfer of necessary property and facilities to the Secretary, including replacement of signs and insignia, repainting of vehicles, printing of public information, and training of new personnel. Funding for these costs shall be derived from funding described in section 460<i>lll</i>–49 of this title.
+The Tennessee Valley Authority shall, to the maximum extent practicable, use current personnel to facilitate the transfer of necessary property and facilities to the Secretary, including replacement of signs and insignia, repainting of vehicles, printing of public information, and training of new personnel. Funding for these costs shall be derived from funding described in section 460lll–49 of this title.
 
 #### (d) Surplus property
 
 #### (1) Disposition
 
-&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintainedeither by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
+&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintained either by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
 
 &emsp;&emsp;(A) sold by the Secretary on such terms and conditions as the Secretary may prescribe to achieve the maximum benefit to the Federal Government; or
 
@@ -40,7 +40,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### (2) Deposit of proceeds
 
-&emsp;All net proceeds from the disposal of any property shall be deposited into the Fund established by section 460<i>lll</i>–31 of this title.
+&emsp;All net proceeds from the disposal of any property shall be deposited into the Fund established by section 460lll–31 of this title.
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §545\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–319.)
 

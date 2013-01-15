@@ -2,7 +2,7 @@
 
 #### (a) Merger into Capital Fund
 
-Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437<i>l</i> of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
+Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437l of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
 
 #### (b) Merger into Operating Fund
 
@@ -12,7 +12,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and OperatingFunds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
 
 &emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2) of this section; and
 
@@ -80,11 +80,11 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (A) Development
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed using amounts provided under this subsection, or under section 1437<i>l</i> of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed using amounts provided under this subsection, or under section 1437l of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
 
 #### (B) Modernization
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts providedunder this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts provided under this subsection or under section 1437l of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
 
 #### (C) Applicability of latest expiration date
 
@@ -146,7 +146,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energyconservation improvements in one or more of its public housing projects.
+&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
 
 #### (ii) Third party contracts
 
@@ -194,7 +194,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 &emsp;&emsp;&emsp;(i) such units are part of a mixed-finance project or otherwise leverage significant additional private or public investment; and
 
-&emsp;&emsp;&emsp;(ii) the estimated cost of the useful life of the project is less than the estimated cost of providing tenant-based assistance under section 1437f(<i>o</i>) of this title for the same period of time.
+&emsp;&emsp;&emsp;(ii) the estimated cost of the useful life of the project is less than the estimated cost of providing tenant-based assistance under section 1437f(o) of this title for the same period of time.
 
 #### (h) Technical assistance
 
@@ -220,7 +220,7 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;(8) assistance in connection with the establishment and operation of computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section.
 
-> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees.
+> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housingagencies, and to residents and to other eligible grantees.
 
 #### (i) Eligibility of units acquired from proceeds of sales under demolition or disposition plan
 
@@ -306,9 +306,9 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (k) Treatment of nonrental income
 
-A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
+A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amountswithout any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
 
-#### (<i>l</i>) Provision of only capital or operating assistance
+#### (l) Provision of only capital or operating assistance
 
 #### (1) Authority
 
@@ -334,13 +334,13 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title I \[title II, §212\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866.)
 
 #### References in Text
 
-The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub.L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
+The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
 
-Section 1437<i>l</i> of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 #### Prior Provisions
 
@@ -348,7 +348,7 @@ A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, autho
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (<i>l</i>) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
+<b>2008</b>—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (l) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
 
 <b>2007</b>—Subsec. (e)(2)(C)(iv). Pub. L. 110–161 added cl. (iv).
 
@@ -452,7 +452,7 @@ Transitional Provision of Assistance.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437<i>l</i>\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
+In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437l\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
 
 &emsp;“(2)
 
@@ -478,7 +478,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -498,7 +498,7 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 
 #### Regulations
 
-Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing and Urban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
+Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing and Urban Development shall conduct negotiated rulemaking with representatives from interested partiesfor purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
 
 Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in part: “That the Secretary shall issue final regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), not later than August 1, 2003”.
 
@@ -546,11 +546,11 @@ public housing capital fund (including transfer of funds)”\], shall apply to a
 
 #### Cooling Degree Day Adjustment Under Performance Funding System
 
-Section 508 of Pub. L. 101–625 provided that: “In determining the Performance Funding System utility subsidy for public housing agencies pursuant to section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\], the Secretary of Housing and Urban Development shall include a cooling degree day adjustment factor. The method by which a cooling degree day adjustment factor is included shall be identical to the method by which the heating degree day adjustment factor is included.”
+Pub. L. 101–625, title V, §508, Nov. 28, 1990, 104 Stat. 4187, provided that: “In determining the Performance Funding System utility subsidy for public housing agencies pursuant to section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\], the Secretary of Housing and Urban Development shall include a cooling degree day adjustment factor. The method by which a cooling degree day adjustment factor is included shall be identical to the method by which the heating degree day adjustment factor is included.”
 
 #### Energy Efficiency Demonstration
 
-Section 523 of Pub. L. 101–625, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
+Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
 

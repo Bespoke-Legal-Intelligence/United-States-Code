@@ -52,7 +52,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 The Committee shall—
 
-&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part G of subchapter IV of this chapter;
+&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations undersubpart 2 of part G of subchapter IV of this chapter;
 
 &emsp;(2) advise the Secretary with respect to the recognition of a specific accrediting agency or association;
 

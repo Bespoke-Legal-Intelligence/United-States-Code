@@ -10,7 +10,7 @@ Leave ordered under this section may be taken in the United States or its territ
 
 #### (c) Availability for work or duties in Department
 
-While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.
+While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretarymay prescribe, but the time of such work or duties shall not be counted as leave.
 
 (Pub. L. 96–465, title I, §903, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 103–236, title I, §180(a)(8), Apr. 30, 1994, 108 Stat. 416; Pub. L. 109–234, title I, §1602(d)(2), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(2), Sept. 19, 2008, 122 Stat. 3535.)
 

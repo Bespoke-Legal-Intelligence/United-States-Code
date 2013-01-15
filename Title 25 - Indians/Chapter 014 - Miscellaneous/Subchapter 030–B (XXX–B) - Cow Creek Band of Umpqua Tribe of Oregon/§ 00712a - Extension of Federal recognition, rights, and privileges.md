@@ -6,7 +6,7 @@ Notwithstanding any provision of the Act approved August 13, 1954 (25 U.S.C. 691
 
 #### (b) Restoration of rights and privileges
 
-All rights and privileges of the tribe and the members of the tribe under any Federal treaty,Executive order, agreement, or statute, or under any other Federal authority, which may have been diminished or lost under the Act approved August 13, 1954 (25 U.S.C. 691 et seq.), are restored, and the provisions of such subchapter shall be inapplicable to the tribe and to members of the tribe after December 29, 1982.
+All rights and privileges of the tribe and the members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other Federal authority, which may have been diminished or lost under the Act approved August 13, 1954 (25 U.S.C. 691 et seq.), are restored, and the provisions of such subchapter shall be inapplicable to the tribe and to members of the tribe after December 29, 1982.
 
 #### (c) Federal services and benefits
 

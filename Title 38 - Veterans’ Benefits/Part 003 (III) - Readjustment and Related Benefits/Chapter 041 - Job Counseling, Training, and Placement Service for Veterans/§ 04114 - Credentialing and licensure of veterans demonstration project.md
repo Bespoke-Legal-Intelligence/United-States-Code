@@ -2,7 +2,7 @@
 
 (a)
 
-Demonstration Project Authorized.—The Assistant Secretary for Veterans’ Employment and Training shall carry out a demonstration project on credentialing in accordance with this section for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
+Demonstration Project Authorized.—The Assistant Secretary for Veterans’ Employment and Training shall carry out a demonstration project on credentialing in accordance with thissection for the purpose of facilitating the seamless transition of members of the Armed Forces from service on active duty to civilian employment.
 
 (b)
 
@@ -30,7 +30,7 @@ The date of the enactment of the VOW to Hire Heroes Act of 2011, referred to in 
 
 Prior sections 4114 to 4119 were repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210.
 
-Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, §4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, §111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, §206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§109, 110(10), title II, §§205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, §4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, §116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, §4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, §203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, §214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, §223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, §1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, §203, Aug. 15, 1990, 104 Stat. 439,related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
+Section 4114, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–574, §4(2), Aug. 6, 1962, 76 Stat. 309; Pub. L. 89–785, title I, §111(a)–(c), Nov. 7, 1966, 80 Stat. 1371; Pub. L. 91–496, §§1, 3, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title II, §206, Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §§109, 110(10), title II, §§205(g), 209(a)(6), (c)(6), 210(c)(7), Oct. 21, 1976, 90 Stat. 2848, 2849, 2859, 2860, 2862, 2864; Pub. L. 95–201, §4(a)(2), Nov. 23, 1977, 91 Stat. 1430; Pub. L. 96–330, title I, §116(b), Aug. 26, 1980, 94 Stat. 1039; Pub. L. 97–295, §4(85), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–166, title II, §203, Dec. 3, 1985, 99 Stat. 950; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–576, title II, §214, Oct. 28, 1986, 100 Stat. 3258; Pub. L. 100–322, title II, §223, May 20, 1988, 102 Stat. 531; Pub. L. 100–687, div. B, title XV, §1503(a)(2), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 101–366, title II, §203, Aug. 15, 1990, 104 Stat. 439, related to temporary full-time, part-time, and without compensation appointments and residencies or internships. See sections 7405 to 7407 of this title.
 
 Section 4115, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, related to regulations. See section 7304 of this title.
 
@@ -62,7 +62,7 @@ Another prior section 4141, added Pub. L. 96–330, title II, §201(a)(1), Aug. 
 
 Prior section 4142 was renumbered section 7452 of this title.
 
-Another prior section 4142 and prior sections 4143 to 4146 were repealed by Pub. L. 100–322, title II, §216(a), May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded.
+Another prior section 4142 and prior sections 4143 to 4146 were repealed by Pub. L. 100–322, title II, §216(a),May 20, 1988, 102 Stat. 517, with the provisions to remain effective with respect to scholarships awarded.
 
 Section 4142, added Pub. L. 96–330, title II, §201(a)(1), Aug. 26, 1980, 94 Stat. 1041; amended Pub. L. 97–251, §3(a), Sept. 8, 1982, 96 Stat. 713; Pub. L. 97–258, §3(k)(7), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–375, title II, §216, Dec. 21, 1982, 96 Stat. 1827; Pub. L. 98–160, title VII, §702(18), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §213, Oct. 28, 1986, 100 Stat. 3257, related to eligibility, application, and written contracts for program.
 
@@ -93,4 +93,38 @@ Subsec. (b)(1). Pub. L. 112–56, §237(a)(2)(A), substituted “Assistant Secre
 Subsec. (b)(2). Pub. L. 112–56, §237(a)(2)(B), substituted “enter into a contract with an appropriate entity representing a coalition of State governors to consult with appropriate Federal, State, and industry officials and” for “consult with appropriate Federal, State, and industry officials to”.
 
 Subsecs. (d) to (h). Pub. L. 112–56, §237(a)(3), added subsec. (d) and struck out former subsecs. (d) to (h) which related to task force, consultation, contract authority, period of project, and funding, respectively.
+
+#### Veteran Skills to Jobs
+
+Pub. L. 112–147, July 23, 2012, 126 Stat. 1138, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Veteran Skills to Jobs Act’.
+
+#### “SEC. 2. CONSIDERATION OF RELEVANT MILITARY TRAINING FOR ISSUANCE OF A FEDERAL LICENSE.
+
+“(a)
+
+In General.—The head of each Federal licensing authority shall consider and may accept, in the case of any individual applying for a license, any relevant training received by such individual while serving as a member of the armed forces, for the purpose of satisfying the requirements for such license.
+
+“(b)
+
+Definitions.—For purposes of this Act—
+
+&emsp;“(1) the term ‘license’ means a license, certification, or other grant of permission to engage in a particular activity;
+
+&emsp;“(2) the term ‘Federal licensing authority’ means a department, agency, or other entity of the Government having authority to issue a license;
+
+&emsp;“(3) the term ‘armed forces’ has the meaning given such term by section 2101(2) of title 5, United States Code; and
+
+&emsp;“(4) the term ‘Government’ means the Government of the United States.
+
+#### “SEC. 3. REGULATIONS.
+
+“The head of each Federal licensing authority shall—
+
+&emsp;“(1) with respect to any license a licensing authority grants or is empowered to grant as of the date of enactment of this Act \[July 23, 2012\], prescribe any regulations necessary to carry out this Act not later than 180 days after such date; and
+
+&emsp;“(2) with respect to any license of a licensing authority not constituted or not empowered to grant the license as of the date of enactment of this Act, prescribe any regulations necessary to carry out this Act not later than 180 days after the date on which the agency is so constituted or empowered, as the case may be.”
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) if the borrower becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;
 
-&emsp;&emsp;(iii) if the borrower is unable to engage in any substantial gainful activity by reason of any medically determinable physical ormental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months; or
+&emsp;&emsp;(iii) if the borrower is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months; or
 
 &emsp;&emsp;(iv) if the borrower is determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected disability;
 
@@ -80,7 +80,7 @@
 
 > &emsp;and for the 180-day period following the demobilization date for the service described in subclause (I) or (II);
 
-&emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(<i>o</i>) of this title, has caused or will cause the borrower to have an economic hardship; or
+&emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
 
 &emsp;(v) during which the borrower is engaged in service described in section 1087ee(a)(2) of this title;
 
@@ -104,7 +104,7 @@
 
 (6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant) outside the United States shall be approved until completion of the period of the fellowship.
 
-(7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
+(7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30 days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
 
 #### (d) Availability of loan fund to all eligible students
 
@@ -156,7 +156,7 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 #### (4) Special rule
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded, because of that discharge, from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for the default on the discharged loan). The amount discharged under this subsection shall be treated as an amount canceled under section 1087ee(a) of this title.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall not be precluded, because of that discharge, from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for thedefault on the discharged loan). The amount discharged under this subsection shall be treated as an amount canceled under section 1087ee(a) of this title.
 
 #### (5) Reporting
 
@@ -224,7 +224,7 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 &emsp;(2) the Secretary determines necessary.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L.103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 
 #### Prior Provisions
 
-A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI,§16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -302,7 +302,7 @@ Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted “$40” for “$30” in two places.
 
-Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not, under applicable law, create a binding obligation,” before “shall provide”.
+Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not,under applicable law, create a binding obligation,” before “shall provide”.
 
 Subsec. (c)(2)(A). Pub. L. 102–325, §464(f), amended subpar. (A) generally, revising and restating as cls. (i) to (iv) provisions formerly contained in cls. (i) to (ix).
 
@@ -354,7 +354,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: “The changes made in part E of title IV of the Act \[20 U.S.C. 1087aa et seq.\] by the amendments made by this part \[part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
+Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: “The changes made in part E of title IV of the Act \[20 U.S.C. 1087aa et seq.\] by the amendments made by this part \[part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
 &emsp;“(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Section 405(b) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(d), June 3, 1987, 101 Stat. 361, provided that:
+Pub. L. 99–498, title IV, §405(b), Oct. 17, 1986, 100 Stat. 1454, as amended by Pub. L. 100–50, §22(d), June 3, 1987, 101 Stat. 361, provided that:
 
 “(1) Section 462 of the Act \[20 U.S.C. 1087bb\] shall apply with respect to academic year 1988-1989 and succeeding academic years.
 

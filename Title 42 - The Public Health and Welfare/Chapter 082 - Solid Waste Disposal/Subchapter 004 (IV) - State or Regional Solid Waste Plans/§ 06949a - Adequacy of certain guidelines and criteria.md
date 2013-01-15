@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Administrator shall conduct a study of the extent to which the guidelines and criteriaunder this chapter (other than guidelines and criteria for facilities to which subchapter III of this chapter applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under section 6907(a) of this title and the criteria under section 6944 of this title regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
+The Administrator shall conduct a study of the extent to which the guidelines and criteria under this chapter (other than guidelines and criteria for facilities to which subchapter III of this chapter applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under section 6907(a) of this title and the criteria under section 6944 of this title regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
 
 #### (b) Report
 
@@ -70,7 +70,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### Reinstatement of Regulatory Exemption
 
-Section 3(b) of Pub. L. 104–119 provided that: “It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991.”
+Pub. L. 104–119, §3(b), Mar. 26, 1996, 110 Stat. 833, provided that: “It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “no-migration”.</i>
 

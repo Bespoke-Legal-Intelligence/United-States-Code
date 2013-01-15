@@ -50,7 +50,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction of an appeal of a final decision of the Court filed by the Secretary or a covered financial company, through its board of directors, notwithstanding section 5390(a)(1)(A)(i) of this title, not later than 30 days after the date on which the decision of the Court is rendered or deemed rendered under this subsection.
+&emsp;&emsp;&emsp;Subject to clause (ii), the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction of an appeal of a final decision of the Court filed by the Secretary or a covered financial company, through its board of directors, notwithstanding section 5390(a)(1)(A)(i) ofthis title, not later than 30 days after the date on which the decision of the Court is rendered or deemed rendered under this subsection.
 
 #### (ii) Condition of jurisdiction
 
@@ -118,7 +118,7 @@
 
 #### (2) Extension of time limit
 
-&emsp;The time limit established in paragraph (1) may be extended by the Corporation for up to1 additional year, if the Chairperson of the Corporation determines and certifies in writing to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that continuation of the receivership is necessary—
+&emsp;The time limit established in paragraph (1) may be extended by the Corporation for up to 1 additional year, if the Chairperson of the Corporation determines and certifies in writing to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that continuation of the receivership is necessary—
 
 &emsp;&emsp;(A) to—
 
@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The time limit under this subsection, as extended under paragraph (2), may be extended for up to 1 additional year, if the Chairperson of the Corporation, with the concurrence of the Secretary, submits the certifications described in paragraph (2).
+&emsp;&emsp;The time limit under this subsection, as extended under paragraph (2), may be extended for up to 1 additional year, if theChairperson of the Corporation, with the concurrence of the Secretary, submits the certifications described in paragraph (2).
 
 #### (B) Additional report required
 

@@ -76,11 +76,11 @@ Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 96–465 provided that: “This Act \[enacting this chapter, sections 2697 to 2704 of this title, and sections 3597, 5927, and 5928 of Title 5, Government Organization and Employees, amending sections 285a, 287, 287e, 287n, 290a, 290g–l, 1928, 2021, 2024, 2056, 2385, 2389, 2391, 2454, 2504, 2506, 2512 to 2514, 2582, 2588, 2605, 2684, 3503 and 4223 of this title, sections 3323, 5102, 5301, 5303, 5304, 5313, 5522, 5523, 5541, 5595, 5596, 5724, 5727, 5924, 5925, 6301, 6304, 6305, 7103, 8332, and 8501 of Title 5, and Reorg. Plan No. 2 of 1939 set out in the Appendix to Title 5, sections 1765a and 1766c of Title 7, Agriculture, section 2002 of Title 10, Armed Forces, section 906 of Title 20, Education, sections 104, 170, 912, and 2055 of Title 26, Internal Revenue Code, section 822a of former Title 31, Money and Finance, section 405a of Title 37, Pay and Allowances of the Uniformed Services, former section 235 of Title 38, Veterans’ Benefits, and section 5055 of Title 42, The Public Health and Welfare, repealing subchapters I to X of chapter 14 (§801 et seq.) of this title and sections 1221 to 1234, 2679a, 2680a, and 2693 of this title, enacting provisions set out as notes under this section and section 2651 of this title, and repealing provisions set out as notes under sections 801, 808, 811a, 886, 889, 912, 913, 936, 1002, 1076, 1079d, 1229, and 2384 of this title\] may be cited as the ‘Foreign Service Act of 1980’.”
+Pub. L. 96–465, §1, Oct. 17, 1980, 94 Stat. 2071, provided that: “This Act \[enacting this chapter, sections 2697 to 2704 of this title, and sections 3597, 5927, and 5928 of Title 5, Government Organization and Employees, amending sections 285a, 287, 287e, 287n, 290a, 290g–l, 1928, 2021, 2024, 2056, 2385, 2389, 2391, 2454, 2504, 2506, 2512 to 2514, 2582, 2588, 2605, 2684, 3503 and 4223 of this title, sections 3323, 5102, 5301, 5303, 5304, 5313, 5522, 5523, 5541, 5595, 5596, 5724, 5727, 5924, 5925, 6301, 6304, 6305, 7103, 8332, and 8501 of Title 5, and Reorg. Plan No. 2 of 1939 set out in the Appendix to Title 5, sections 1765a and 1766c of Title 7, Agriculture, section 2002 of Title 10, Armed Forces, section 906 of Title 20, Education, sections 104, 170, 912, and 2055 of Title 26, Internal Revenue Code, section 822a of former Title 31, Money and Finance, section 405a of Title 37, Pay and Allowances of the Uniformed Services, former section 235 of Title 38, Veterans’ Benefits, and section 5055 of Title 42, The Public Health and Welfare, repealing subchapters I to X of chapter 14 (§801 et seq.) of this title and sections 1221 to 1234, 2679a, 2680a, and 2693 of this title, enacting provisions set out as notes under this section and section 2651 of this title, and repealing provisions set out as notes under sections 801, 808, 811a, 886, 889, 912, 913, 936, 1002, 1076, 1079d, 1229, and 2384 of this title\] may be cited as the ‘Foreign Service Act of 1980’.”
 
 #### Executive Order No. 11636
 
-Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
+Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which relatedto employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
 
 #### Ex. Ord. No. 12292. Conformance of Existing Executive Orders to Changes Resulting From the Foreign Service Act of 1980
 
@@ -186,7 +186,7 @@ Sec. 10. The following are hereby revoked:
 
 (k) Executive Order No. 12066 of June 29, 1978;
 
-(<i>l</i>) Executive Order No. 12145 of July 18, 1979;
+(l) Executive Order No. 12145 of July 18, 1979;
 
 (m) Section 1–104(b) of Executive Order No. 12188 of January 2, 1980 \[19 U.S.C. 2171 note\].
 
@@ -196,13 +196,13 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12293. Administration of Foreign Service
 
-Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
+Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No.13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
 Section 1. There are hereby delegated to the Secretary of State those functions vested in the President by Sections 205, 401(a), 502(c), 613, and 801 of the Foreign Service Act of 1980, hereinafter referred to as the Act (22 U.S.C. 3925, 3942(a)(1), 3892(c) \[3982(c)\], 4013, and 4041).
 
-Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Administrator of the United States Agency for International Development, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensurecompatibility between the Foreign Service personnel system and other government personnel systems.
+Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Administrator of the United States Agency for International Development, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensure compatibility between the Foreign Service personnel system and other government personnel systems.
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
@@ -272,7 +272,7 @@ Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 39
 
 (a) The Animal and Plant Health Inspection Service of the Department of Agriculture, not to exceed 125 positions, without the prior approval of the Director of the Office of Personnel Management;
 
-(b) The United States Travel and Tourism Administration, and the International Trade Administration of the Department of Commerce, not to exceed 30 positions without the prior approval of the Director of the Office of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
+(b) The United States Travel and Tourism Administration, and the International Trade Administration of the Department of Commerce, not to exceed 30 positions without the prior approval of the Director of theOffice of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 

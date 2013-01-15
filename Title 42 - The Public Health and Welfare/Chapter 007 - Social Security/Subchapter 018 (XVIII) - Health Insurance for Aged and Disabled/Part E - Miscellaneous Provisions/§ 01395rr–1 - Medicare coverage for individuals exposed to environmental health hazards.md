@@ -102,7 +102,7 @@ For purposes of this section, the term “emergency declaration” means a decla
 
 &emsp;&emsp;&emsp;(i) is diagnosed with 1 or more conditions described in subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject to an emergency declaration specified in subsection (b)(2)(A), during a period ending—
+&emsp;&emsp;&emsp;(ii) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject toan emergency declaration specified in subsection (b)(2)(A), during a period ending—
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than 10 years prior to such diagnosis; and
 

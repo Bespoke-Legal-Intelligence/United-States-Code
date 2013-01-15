@@ -16,5 +16,5 @@ The Congress finds that—
 
 #### Short Title
 
-Section 1 of Pub. L. 103–302 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Dams Safety Act of 1994’.”
+Pub. L. 103–302, §1, Aug. 23, 1994, 108 Stat. 1560, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Indian Dams Safety Act of 1994’.”
 

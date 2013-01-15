@@ -14,7 +14,7 @@ The Foundation is authorized—
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
+&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) to make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -40,6 +40,8 @@ On request of the Chairman of the Foundation, the head of a Federal agency may d
 
 This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this Act” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
 
+This chapter, referred to in subsec. (a)(6), was in the original “this chapter” and was translated as reading “this title” meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
+
 #### Codification
 
 In subsec. (a)(6), “section 6101 of title 41” substituted for “section 5 of title 41” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -60,7 +62,7 @@ Subsec. (c). Pub. L. 101–208, §3(2), added subsec. (c).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L.104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

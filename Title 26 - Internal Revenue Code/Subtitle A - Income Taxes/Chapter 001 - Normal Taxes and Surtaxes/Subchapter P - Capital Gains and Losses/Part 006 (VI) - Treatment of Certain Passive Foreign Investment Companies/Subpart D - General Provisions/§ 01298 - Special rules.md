@@ -166,7 +166,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
+&emsp;&emsp;In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation isa licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
 
 #### (B) Exceptions
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years of United States perso
 
 Amendment by section 1501(b)(10), (11) of Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
-Amendment by section 1703(i)(5), (6) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(i)(5), (6) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1993 Amendment
 

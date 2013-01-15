@@ -56,7 +56,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1985 Amendment
 
-Section 681(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to costs incurred after September 30, 1985.”
+Pub. L. 99–145, title VI, §681(b), Nov. 8, 1985, 99 Stat. 665, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to costs incurred after September 30, 1985.”
 
 #### Effective Date of 1980 Amendment
 

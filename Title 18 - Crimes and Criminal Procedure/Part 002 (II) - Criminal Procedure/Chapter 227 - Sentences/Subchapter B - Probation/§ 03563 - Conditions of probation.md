@@ -6,7 +6,7 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(1) for a felony, a misdemeanor, or an infraction, that the defendant not commit another Federal, State, or local crime during the term of probation;
 
-&emsp;(2) for a felony, that the defendant also abide by at least one condition set forth in subsection (b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b);
+&emsp;(2) for a felony, that the defendant also abide by at least one condition set forth in subsection (b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, inwhich event the court shall impose one or more of the other conditions set forth under subsection (b);
 
 &emsp;(3) for a felony, a misdemeanor, or an infraction, that the defendant not unlawfully possess a controlled substance;
 
@@ -108,7 +108,7 @@ For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–406, §14(a), substituted “(b)(2) or (b)(12), unless the court has imposeda fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–406, §14(a), substituted “(b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
 
 Subsec. (b)(10). Pub. L. 110–406, §14(c), inserted “or supervised release” after “probation”.
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 #### Effective Date of 1988 Amendment
 
-Section 7303(d) of Pub. L. 100–690 provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
+Pub. L. 100–690, title VII, §7303(d), Nov. 18, 1988, 102 Stat. 4464, provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
 
 #### Effective Date of 1987 Amendment
 
@@ -224,9 +224,9 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendment
 
-Section 11(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3563(b)(11) \[Nov. 1, 1987\].”
+Pub. L. 99–646, §11(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3563(b)(11) \[Nov. 1, 1987\].”
 
-Section 12(c)(1) of Pub. L. 99–646 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the taking effect of such section 3563(c) \[Nov. 1, 1987\].”
+Pub. L. 99–646, §12(c)(1), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the taking effect of such section 3563(c) \[Nov. 1, 1987\].”
 
 #### Effective Date
 

@@ -16,5 +16,5 @@ Another prior section 3015 was renumbered section 3040 of this title and subsequ
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5.
 

@@ -36,7 +36,7 @@ Effect of Government Standards.—The Government standards prescribed under subs
 
 (f)
 
-Application of State Regulations to Government-Leased Vehicles and Operators.—A State receiving financial assistanceunder section 31102 of this title in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
+Application of State Regulations to Government-Leased Vehicles and Operators.—A State receiving financial assistance under section 31102 of this title in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1010; Pub. L. 105–178, title IV, §4008(f), (g), June 9, 1998, 112 Stat. 405.)
 

@@ -18,7 +18,7 @@ This section shall be effective from and after July 1, 1954.
 
 #### Fireworks for Agricultural Purposes
 
-Section 3 of act June 4, 1954, provided that: “This Act \[enacting this section\] shall not be effective with respect to—
+Act June 4, 1954, ch. 261, §3, 68 Stat. 171, provided that: “This Act \[enacting this section\] shall not be effective with respect to—
 
 &emsp;“(1) the transportation of fireworks into any State or Territory for use solely for agricultural purposes,
 

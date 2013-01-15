@@ -24,13 +24,13 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(k) the term “official mark” means any symbol prescribed by regulations of the Secretary to show the official determination of official inspection or official weighing;
 
-&emsp;(<i>l</i>) the term “official grade designation” means a numerical or sample grade designation, specified in the standards relating to kind, class, quality, and condition of grain, provided for in this chapter;
+&emsp;(l) the term “official grade designation” means a numerical or sample grade designation, specified in the standards relating to kind, class, quality, and condition of grain, provided for in this chapter;
 
 &emsp;(m) the term “official agency” means any State or local governmental agency, or any person, designated by the Secretary pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing);
 
 &emsp;(n) the terms “official certificate” and “official form” mean, respectively, a certificate or other form prescribed by regulations of the Secretary under this chapter;
 
-&emsp;(<i>o</i>) the term “official sample” means a sample obtained from a lot of grain by, and submitted for official inspection by, official inspection personnel (the term “official sampling” shall be construed accordingly);
+&emsp;(o) the term “official sample” means a sample obtained from a lot of grain by, and submitted for official inspection by, official inspection personnel (the term “official sampling” shall be construed accordingly);
 
 &emsp;(p) the term “submitted sample” means a sample submitted by or for an interested person for official inspection, other than an official sample;
 
@@ -50,7 +50,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(x) the term “official weighing” means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms “officially weigh” and “officially weighed” shall be construed accordingly);
 
-&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracyof the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
+&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
 
 &emsp;(z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
@@ -76,7 +76,7 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Admi
 
 <b>1977</b>—Subsec. (g). Pub. L. 95–113, §1604(a)(1), substituted “sorghum” for “grain sorghum”.
 
-Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
+Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks ofgrain upon the request of the interested party applying for inspection.
 
 Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
@@ -90,7 +90,7 @@ Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection pers
 
 Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
 
-Subsec. (<i>l</i>). Pub. L. 94–582, §3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
+Subsec. (l). Pub. L. 94–582, §3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
 Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
@@ -104,7 +104,7 @@ Subsecs. (v) to (aa). Pub. L. 94–582, §3(h), added subsecs. (v) to (aa).
 
 #### Effective Date of 1993 Amendment
 
-Section 16 of Pub. L. 103–156 provided that:
+Pub. L. 103–156, §16, Nov. 24, 1993, 107 Stat. 1530, provided that:
 
 “(a)
 

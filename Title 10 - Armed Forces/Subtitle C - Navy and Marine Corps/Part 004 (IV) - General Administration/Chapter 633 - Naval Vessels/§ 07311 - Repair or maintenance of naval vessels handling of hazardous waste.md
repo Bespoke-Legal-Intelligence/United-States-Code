@@ -20,7 +20,7 @@ Statement of work.—A provision specifying the responsibilities of the Navy and
 
 Accountability for hazardous wastes.—(A) A provision specifying the following:
 
-&emsp;&emsp;(i) In any case in which the Navy is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the Navy pursuant to applicable law.
+&emsp;&emsp;(i) In any case in which the Navy is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents relatedto the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the Navy pursuant to applicable law.
 
 &emsp;&emsp;(ii) In any case in which the contractor is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the contractor pursuant to applicable law.
 
@@ -42,7 +42,7 @@ Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wast
 
 (d)
 
-Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definitionis provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
+Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 
 (Added Pub. L. 99–661, div. A, title XII, §1202(a), Nov. 14, 1986, 100 Stat. 3967; amended Pub. L. 101–189, div. A, title XVI, §1611(a), Nov. 29, 1989, 103 Stat. 1599.)
 
@@ -56,5 +56,5 @@ The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is titl
 
 #### Effective Date of 1989 Amendment
 
-Section 1611(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title XVI, §1611(b), Nov. 29, 1989, 103 Stat. 1601, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\].”
 

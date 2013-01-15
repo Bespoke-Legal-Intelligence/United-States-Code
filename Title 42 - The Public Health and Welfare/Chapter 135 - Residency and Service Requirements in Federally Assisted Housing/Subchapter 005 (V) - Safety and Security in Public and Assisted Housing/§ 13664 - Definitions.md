@@ -24,7 +24,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(F) in housing that is assisted under section 8013 of this title;
 
-&emsp;&emsp;(G) in housing financed by a loan or mortgage insured under section 1715<i>l</i>(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715<i>l</i>(d)(5) of title 12;
+&emsp;&emsp;(G) in housing financed by a loan or mortgage insured under section 1715l(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715l(d)(5) of title 12;
 
 &emsp;&emsp;(H) in housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12; or
 

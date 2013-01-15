@@ -10,11 +10,11 @@ Except as otherwise provided in this subchapter, the tax treatment of any partne
 
 #### Effective Date of 1997 Amendment
 
-Section 1238(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 6226 and 6230 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1238(c), Aug. 5, 1997, 111 Stat. 1027, provided that: “The amendments made by this section \[amending this section and sections 6226 and 6230 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date
 
-Section 407(a) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title IV, §407(a), Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by sections 402, 403, and 404 \[enacting this subchapter and section 1508 of Title 28, Judiciary and Judicial Procedure, amending sections 702, 6031, 6213, 6216, 6422, 6501, 6504, 6511, 6512, 6515, 7422, 7451, 7456, 7459, 7482, and 7485 of this title and section 1346 of Title 28, and enacting provisions set out as a note under section 6031 of this title\] shall apply to partnership taxable years beginning after the date of the enactment of this Act \[Sept. 3, 1982\].
 

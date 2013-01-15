@@ -24,7 +24,7 @@ An individual referred to in subsection (a) of this section is an individual who
 
 &emsp;(A) consideration of financial need shall include the increased costs of study abroad; and
 
-&emsp;(B) priority consideration shall be given to applicants who are receiving Federal PellGrants under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
+&emsp;(B) priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
 (Pub. L. 106–309, title III, §303, Oct. 17, 2000, 114 Stat. 1095.)
 

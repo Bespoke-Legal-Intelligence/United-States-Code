@@ -14,7 +14,7 @@ For purposes of this subchapter:
 
 There are authorized to be appropriated such funds as may be necessary to carry out this subchapter for each of the fiscal years 1991 through 2012.
 
-(Pub. L. 101–624, title XVI, §1635, Nov. 28, 1990, 104 Stat. 3747; Pub. L. 104–127, title VIII, §832(b), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, §301(b)(1), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7118, May 13, 2002, 116 Stat. 434; Pub. L. 110–234, title VII, §7201, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §7201, June 18, 2008, 122 Stat. 1664, 1994.)
+(Pub. L. 101–624, title XVI, §1635, Nov. 28, 1990, 104 Stat. 3747; Pub. L. 104–127, title VIII, §832(b),Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, §301(b)(1), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7118, May 13, 2002, 116 Stat. 434; Pub. L. 110–234, title VII, §7201, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §7201, June 18, 2008, 122 Stat. 1664, 1994.)
 
 #### Codification
 

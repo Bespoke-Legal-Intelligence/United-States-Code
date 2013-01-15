@@ -76,7 +76,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered contract.—The term “covered contract” has the meaning given that term in section 2324(<i>l</i>) of this title.
+Covered contract.—The term “covered contract” has the meaning given that term in section 2324(l) of this title.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Covered segment.—The term “covered segment”, with respect to a contractor,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (i)(1). Pub. L. 104–106 substituted “2324(<i>l</i>)” for “2324(m)”.
+<b>1996</b>—Subsec. (i)(1). Pub. L. 104–106 substituted “2324(l)” for “2324(m)”.
 
 <b>1993</b>—Subsec. (g)(5). Pub. L. 103–35 substituted “section 2506” for “section 2522”.
 
@@ -102,13 +102,13 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1991 Amendment
 
-Section 802(e) of Pub. L. 102–190 provided that: “The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
+Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: “The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
 
 #### Regulations
 
-Section 802(b) of Pub. L. 102–190 provided that: “The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) \[amending this section\] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992.”
+Pub. L. 102–190, div. A, title VIII, §802(b), Dec. 5, 1991, 105 Stat. 1414, provided that: “The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) \[amending this section\] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992.”
 
 #### Study by Office of Technology Assessment
 
-Section 802(c) of Pub. L. 102–190 directed Director of the Office of Technology Assessment to conduct a study to determine effect of regulations prescribed under this section on the achievement of policy stated in subsec. (g) of this section and submit a report containing results of such study to Committees on Armed Services of Senate and House of Representatives not later than Dec. 1, 1995, prior to repeal by Pub. L. 103–160, div. A, title II, §266, Nov. 30, 1993, 107 Stat. 1611.
+Pub. L. 102–190, div. A, title VIII, §802(c), Dec. 5, 1991, 105 Stat. 1414, directed Director of the Office of Technology Assessment to conduct a study to determine effect of regulations prescribed under this section on the achievement of policy stated in subsec. (g) of this section and submit a report containing results of such study to Committees on Armed Services of Senate and House of Representatives not later than Dec. 1, 1995, prior to repeal by Pub. L. 103–160, div. A, title II, §266, Nov. 30, 1993, 107 Stat. 1611.
 

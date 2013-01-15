@@ -18,7 +18,7 @@
 
 #### (C) Annual audits for lenders, holders, and servicers
 
-&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder,or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
+&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder, or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
 
 #### (D) Secretary's determinations
 
@@ -58,7 +58,7 @@ Nothing in this section or in this subpart shall be construed to preclude any fo
 
 #### (d) Reasonable care and diligence regarding loans
 
-Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of this title, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
+Nothing in this section or in this subpart shall be construed to excuse the eligible lender or holder of a federally insured loan from exercising reasonable care and diligence in the making of loans under the provisions of this subpart and from exercising a substantial effort in the collection of loans under the provisions of this subpart. If the Secretary, after reasonable notice and opportunity for hearing to an eligible lender, finds that the lender has failed to exercise such care and diligence, to exercise such substantial efforts, to make the reports and statements required under section 292e(a)(3) of thistitle, or to pay the required Federal loan insurance premiums, he shall disqualify that lender from obtaining further Federal insurance on loans granted pursuant to this subpart until he is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence, exercise substantial effort, or comply with such requirements, as the case may be.
 
 #### (e) Definitions
 
@@ -118,11 +118,11 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
 
-(July 1, 1944, ch. 373, title VII, §707, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2002; amended Pub. L. 103–43, title XX, §2014(a)(2), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §§142(a), (b), 144(a), Nov. 13, 1998, 112 Stat. 3579, 3581.)
+(July 1, 1944, ch. 373, title VII, §707, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2002; amended Pub. L. 103–43, title XX,§2014(a)(2), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §§142(a), (b), 144(a), Nov. 13, 1998, 112 Stat. 3579, 3581.)
 
 #### References in Text
 
-The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b),Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
 #### Prior Provisions
 

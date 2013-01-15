@@ -14,7 +14,7 @@
 
 &emsp;(1) The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965.
 
-&emsp;(2) The term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>).
+&emsp;(2) The term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll).
 
 (Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 105–244, title I, §102(a)(2)(A), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 106–65, div. A, title V, §580(c)(2), (3), (d)(2), Oct. 5, 1999, 113 Stat. 633.)
 

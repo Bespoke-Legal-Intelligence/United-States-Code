@@ -30,7 +30,7 @@ In developing and implementing the plan described in subsection (a)(2), the Secr
 
 &emsp;(1) processes to assure that data made public, either by the Centers for Medicare \& Medicaid Services or by other entities, is statistically valid and reliable, including risk adjustment mechanisms used by the Secretary;
 
-&emsp;(2) processes by which a physician or other eligible professional whose performance on measures is being publicly reported has a reasonable opportunity, as determined by the Secretary, to review his or her individual results before they are made public;
+&emsp;(2) processes by which a physician or other eligible professional whose performance on measures is being publicly reported has a reasonable opportunity, as determined by theSecretary, to review his or her individual results before they are made public;
 
 &emsp;(3) processes by the Secretary to assure that the implementation of the plan and the data made available on Physician Compare provide a robust and accurate portrayal of a physician's performance;
 
@@ -92,7 +92,7 @@ In this section:
 
 Section 3014 of this Act, referred to in subsec. (d), is section 3014 of Pub. L. 111–148 which enacted section 1395aaa–1 of this title and amended section 1395aaa of this title.
 
-Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, which amended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of thistitle, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
+Section 131 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (e), is section 131 of Pub. L. 110–275, 122 Stat. 2520, which amended section 1395w–4 of this title, enacted provisions set out as notes under section 1395w–4 of this title, and redesignated provisions formerly set out as a note under section 1395w–4 of this title as section 1395w–4(m).
 
 The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -46,11 +46,11 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 
 #### Effective Date
 
-Section 515(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1989.”
+Pub. L. 99–499, title V, §515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: “The amendments made by thissection \[enacting this subchapter\] shall take effect on January 1, 1989.”
 
 #### Study and Report
 
-Section 515(d) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title V, §515(d), Oct. 17, 1986, 100 Stat. 1769, provided that:
 
 “(1)
 

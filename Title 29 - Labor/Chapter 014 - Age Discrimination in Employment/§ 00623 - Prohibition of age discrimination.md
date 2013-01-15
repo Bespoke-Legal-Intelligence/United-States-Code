@@ -48,7 +48,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
-> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan orvoluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
+> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
 
 &emsp;(3) to discharge or otherwise discipline an individual for good cause.
 
@@ -148,7 +148,7 @@ Preservation of capital.—An interest credit (or an equivalent amount) of less 
 
 &emsp;&emsp;&emsp;(III)
 
-Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
+Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any suchlaw) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
 
 &emsp;&emsp;(ii)
 
@@ -176,7 +176,7 @@ In general.—The term “applicable plan amendment” means an amendment to a d
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such amanner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -200,7 +200,7 @@ Certain offsets permitted.—A plan shall not be treated as failing to meet the 
 
 &emsp;(D)
 
-Permitted disparities in plan contributions or benefits.—A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(<i>l</i>) of title 26 are met.
+Permitted disparities in plan contributions or benefits.—A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(l) of title 26 are met.
 
 &emsp;(E)
 
@@ -248,7 +248,7 @@ It shall not be unlawful for an employer which is a State, a political subdivisi
 
 A seniority system or employee benefit plan shall comply with this chapter regardless of the date of adoption of such system or plan.
 
-#### (<i>l</i>) Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits
+#### (l) Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits
 
 Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
@@ -294,7 +294,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(iii) is discontinued once the individual becomes eligible for an immediate and unreduced pension.
 
-&emsp;(D) For purposes of this paragraph and solely in order to make the deduction authorized under this paragraph, the term “retiree health benefits” means benefits provided pursuant to a group health plan covering retirees, for which (determined as of the contingent event unrelated to age)—
+&emsp;(D) For purposes of this paragraph and solely in order to make the deduction authorized under this paragraph, the term “retiree health benefits” means benefits provided pursuant toa group health plan covering retirees, for which (determined as of the contingent event unrelated to age)—
 
 &emsp;&emsp;(i) the package of benefits provided by the employer for the retirees who are below age 65 is at least comparable to benefits provided under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.);
 
@@ -312,7 +312,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -338,7 +338,7 @@ Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in t
 
 Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Actare classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -346,7 +346,7 @@ The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)
 
 <b>2006</b>—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
 
-Subsec. (<i>l</i>)(1). Pub. L. 109–280, §1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
+Subsec. (l)(1). Pub. L. 109–280, §1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
 <b>1998</b>—Subsec. (i)(6). Pub. L. 105–244, §941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
 
@@ -366,15 +366,15 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;&emsp;“(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
-<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except thatno such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
+<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
 Subsecs. (i), (j). Pub. L. 101–433, §103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
 Subsec. (k). Pub. L. 101–433, §103(3), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 101–521 added cl. (iii) in par. (2)(A), and in par. (2)(D) inserted “and solely in order to make the deduction authorized under this paragraph” after “For purposes of this paragraph” and added cl. (iii).
+Subsec. (l). Pub. L. 101–521 added cl. (iii) in par. (2)(A), and in par. (2)(D) inserted “and solely in order to make the deduction authorized under this paragraph” after “For purposes of this paragraph” and added cl. (iii).
 
-Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
+Pub. L. 101–433, §103(3), added subsec. (l).
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–239 struck out subsec. (g) which read as follows:
 
@@ -414,7 +414,7 @@ Pub. L. 110–458, title I, §123(b), Dec. 23, 2008, 122 Stat. 5114, provided th
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005,special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1998 Amendment
 
@@ -442,7 +442,7 @@ Special Effective Date.—The repeal made by section 2(a) and the reenactment ma
 
 #### Effective Date of 1990 Amendment
 
-Section 105 of title I of Pub. L. 101–433, as amended by Pub. L. 102–236, §9, Dec. 12, 1991, 105 Stat. 1816, provided that:
+Pub. L. 101–433, title I, §105, Oct. 16, 1990, 104 Stat. 981, as amended by Pub. L. 102–236, §9, Dec. 12, 1991, 105 Stat. 1816, provided that:
 
 “(a)
 
@@ -460,7 +460,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;“(2) that terminates after such date of enactment;
 
-&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of theFair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
+&emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
 &emsp;“(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 
@@ -542,7 +542,7 @@ Amendment by Pub. L. 101–239 applicable to items and services furnished after 
 
 #### Effective and Termination Dates of 1986 Amendments
 
-Section 7 of Pub. L. 99–592 provided that:
+Pub. L. 99–592, §7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 “(a)
 
@@ -562,9 +562,9 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Effect on Existing Causes of Action.—The amendments made by sections 3 and 4 of this Act \[amending this section and section 630 of this title and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as in effect before January 1, 1987.”
 
-Section 3(b) of Pub. L. 99–592 which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993,was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
+Pub. L. 99–592, §3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
-Section 9204 of subtitle C (§§9201–9204) of title IX of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9204, Oct. 21, 1986, 100 Stat. 1979, provided that:
 
 “(a)
 
@@ -592,7 +592,7 @@ Applicability of Amendments Relating to Normal Retirement Age.—The amendments 
 
 “(c)
 
-Plan Amendments.—If any amendment made by this subtitle \[amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
+Plan Amendments.—If any amendment made by this subtitle \[subtitle C (§§9201–9204) of title IX of Pub. L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
 &emsp;“(1) during the period after such amendment takes effect and before such first plan year, the plan is operated in accordance with the requirements of such amendment, and
 
@@ -612,21 +612,21 @@ Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of P
 
 #### Effective Date of 1984 Amendments
 
-Section 2301(c)(2) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall become effective on January 1, 1985.”
+Pub. L. 98–369, div. B, title III, §2301(c)(2), July 18, 1984, 98 Stat. 1063, provided that: “The amendment made by subsection (b) \[amending this section\] shall become effective on January 1, 1985.”
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1982 Amendment
 
-Section 116(c) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 1983, and the amendment made by subsection (b) \[enacting section 1395y(b)(3) of Title 42, The Public Health and Welfare\] shall apply with respect to items and services furnished on or after such date.”
+Pub. L. 97–248, title I, §116(c), Sept. 3, 1982, 96 Stat. 354, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 1983, and the amendment made by subsection (b) \[enacting section 1395y(b)(3) of Title 42, The Public Health and Welfare\] shall apply with respect to items and services furnished on or after such date.”
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Pub. L. 95–256, §2(b), Apr. 6, 1978, 92 Stat. 189, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 #### Regulations
 
-Section 104 of title I of Pub. L. 101–433 provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
+Pub. L. 101–433, title I, §104, Oct. 16, 1990, 104 Stat. 981, provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
 
 #### Construction of 1998 Amendment
 
@@ -640,7 +640,7 @@ Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided th
 
 #### Construction of 1996 Amendment
 
-Section 101(a) \[title I, §119\[1(c)\]\] of Pub. L. 104–208 provided that: “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) \[section 101(a) \[title I, §119\[1(a), (b)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(c)\]\], Sept. 30, 1996, 110 Stat. 3009–24, provided that: “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) \[section 101(a) \[title I, §119\[1(a), (b)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
 
 &emsp;“(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 \[Sept. 30, 1996\]; and
 
@@ -648,7 +648,7 @@ Section 101(a) \[title I, §119\[1(c)\]\] of Pub. L. 104–208 provided that: �
 
 #### Transfer of Functions
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to EqualEmployment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 #### Study and Guidelines for Performance Tests
 

@@ -14,7 +14,7 @@ Section 5406, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; July 5, 1968, Pub. L.
 
 Section 5407, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; July 5, 1968, Pub. L. 90–386, §1(2), 82 Stat. 293, limited actual number of officers on active list in line of Navy that could be designated for aeronautical engineering duty. See section 521 et seq. of this title.
 
-Section 5408, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; July 5, 1968, Pub. L. 90–386, §1(3), 82 Stat. 293, limited actual number of officers on the active list in line of Navy that could be designated for special duty. See section 521 et seq. of this title.
+Section 5408, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; July 5, 1968, Pub. L. 90–386, §1(3), 82 Stat. 293, limitedactual number of officers on the active list in line of Navy that could be designated for special duty. See section 521 et seq. of this title.
 
 Section 5409, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; Aug. 3, 1961, Pub. L. 87–123, §5(5), 75 Stat. 264, prescribed number of officers of actual number of officers on active lists in the line of Navy and of Marine Corps, that could be designated for limited duty. See section 521 et seq. of this title.
 

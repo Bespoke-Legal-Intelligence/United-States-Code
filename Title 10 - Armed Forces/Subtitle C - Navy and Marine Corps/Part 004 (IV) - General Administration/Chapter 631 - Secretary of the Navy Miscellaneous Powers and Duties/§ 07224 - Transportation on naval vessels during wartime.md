@@ -1,6 +1,6 @@
 ### §7224. Transportation on naval vessels during wartime
 
-In time of war or during a national emergency declared by the President, such persons as the Secretary of the Navy authorizes by regulation may be transported and subsisted on naval vessels at Government expense.
+In time of war or during a national emergency declared by the President, such persons as theSecretary of the Navy authorizes by regulation may be transported and subsisted on naval vessels at Government expense.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 447.)
 

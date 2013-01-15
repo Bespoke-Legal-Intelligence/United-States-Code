@@ -28,7 +28,7 @@ For purposes of this section, the term “multifamily properties” means a resi
 
 #### (1) In general
 
-&emsp;No person shall be eligible to begin receiving assistance from the Making Home Affordable Program authorized under the EmergencyEconomic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), or any other mortgage assistance program authorized or funded by that Act, on or after 60 days after July 21, 2010, if such person, in connection with a mortgage or real estate transaction, has been convicted, within the last 10 years, of any one of the following:
+&emsp;No person shall be eligible to begin receiving assistance from the Making Home Affordable Program authorized under the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), or any other mortgage assistance program authorized or funded by that Act, on or after 60 days after July 21, 2010, if such person, in connection with a mortgage or real estate transaction, has been convicted, within the last 10 years, of any one of the following:
 
 &emsp;&emsp;(A) Felony larceny, theft, fraud, or forgery.
 

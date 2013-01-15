@@ -6,7 +6,7 @@ All persons engaged in a trade or business and making payment in the course of s
 
 #### (b) Collection of foreign items
 
-In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bonds of and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
+In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bondsof and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
 
 #### (c) Recipient to furnish name and address
 
@@ -52,9 +52,13 @@ Subsec. (h). Pub. L. 112–9, §3(a), struck out subsec. (h) which related to tr
 
 Subsecs. (i), (j). Pub. L. 112–9, §2(a), struck out subsecs. (i) and (j) which read as follows:
 
-“(i) Application to corporations.—“Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term ‘person’ includes any corporation that is not an organization exempt from tax under section 501(a).
+“(i)
 
-“(j) Regulations.—“The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions.”
+Application to Corporations.—Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term ‘person’ includes any corporation that is not an organization exempt from tax under section 501(a).
+
+“(j)
+
+Regulations.—The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions.”
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §9006(b), inserted “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
 
@@ -114,11 +118,11 @@ Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 1201(b) of Pub. L. 104–168 provided that: “The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension).”
+Pub. L. 104–168, title XII, §1201(b), July 30, 1996, 110 Stat. 1470, provided that: “The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension).”
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1501(c)(1) of Pub. L. 99–514 applicable to returns the due date for which (determinedwithout regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by section 1501(c)(1) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 Amendment by section 1523(b)(2) of Pub. L. 99–514 applicable to payments made after Dec. 31, 1986, see section 1523(d) of Pub. L. 99–514, set out as an Effective Date note under section 6050N of this title.
 

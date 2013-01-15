@@ -28,7 +28,7 @@ When used in this chapter—
 
 #### Codification
 
-In the original of act Dec. 2, 1942, §201, the opening clause read “When used in this Act (except when used in title III)—”. Title III of such Act amended section 1651 of this title which is not in this chapter. Therefore, because of the use of the restrictive term “this chapter”, in this section, the words in parenthesis “except when used in title III” were omitted as unnecessary. This chapter comprises the remainder of such Act.
+In the original of act Dec. 2, 1942, ch. 668, title II, §201, 56 Stat. 1033, the opening clause read “When used in this Act (except when used in title III)—”. Title III of such Act amended section 1651 of this title which is not in this chapter. Therefore, because of the use of the restrictive term “this chapter”, in this section, the words in parenthesis “except when used in title III” were omitted as unnecessary. This chapter comprises the remainder of such Act.
 
 #### Amendments
 

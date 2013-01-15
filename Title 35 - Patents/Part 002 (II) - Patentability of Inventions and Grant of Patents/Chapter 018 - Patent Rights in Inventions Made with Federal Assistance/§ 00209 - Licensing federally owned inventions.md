@@ -30,7 +30,7 @@ Small Business.—First preference for the granting of any exclusive or partiall
 
 Terms and Conditions.—Any licenses granted under section 207(a)(2) shall contain such terms and conditions as the granting agency considers appropriate, and shall include provisions—
 
-&emsp;(1) retaining a nontransferrable, irrevocable, paid-up license for any Federal agency to practice the invention or have the invention practiced throughout the world by or on behalf of the Government of the United States;
+&emsp;(1) retaining a nontransferable, irrevocable, paid-up license for any Federal agency to practice the invention or have the invention practiced throughout the world by or on behalf of the Government of the United States;
 
 &emsp;(2) requiring periodic reporting on utilization of the invention, and utilization efforts, by the licensee, but only to the extent necessary to enable the Federal agency to determine whether the terms of the license are being complied with, except that any such report shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5; and
 
@@ -50,13 +50,9 @@ Public Notice.—No exclusive or partially exclusive license may be granted unde
 
 (f)
 
-Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
+Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the personrequesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
-
-#### Amendment of Subsection (d)(1)
-
-<i>Pub. L. 112–29, §20(i)(3), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, subsection (d)(1) of this section is amended by striking “nontransferrable” and inserting “nontransferable”. See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -68,5 +64,5 @@ Plan.—No Federal agency shall grant any license under a patent or patent appli
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

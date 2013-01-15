@@ -8,7 +8,7 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### (1) Establishment and collection
 
-&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establishand collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+&emsp;Notwithstanding section 460l–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
 
 #### (2) Exemption of certain facilities
 
@@ -20,17 +20,17 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### (4) Deposit into Treasury account
 
-&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460<i>l</i>–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460<i>l</i>–6a(i)(3) <sup>1</sup> of this title at the water resources development project at which the fees were collected.
+&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) <sup>1</sup> of this title at the water resources development project at which the fees were collected.
 
 (Pub. L. 90–483, title II, §210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, §5001(a), Aug. 10, 1993, 107 Stat. 378; Pub. L. 104–303, title II, §208(b)(1), Oct. 12, 1996, 110 Stat. 3680.)
 
 #### References in Text
 
-Subsections (b) and (i)(3) of section 460<i>l</i>–6a of this title, referred to in subsec. (b)(1), (4), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526.
+Subsections (b) and (i)(3) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(4). Pub. L. 104–303 inserted before period at end “and, subject to the availability of appropriations, shall be used for the purposes specified in section 460<i>l</i>–6a(i)(3) of this title at the water resources development project at which the fees were collected”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–303 inserted before period at end “and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) of this title at the water resources development project at which the fees were collected”.
 
 <b>1993</b>—Pub. L. 103–66 inserted section catchline, struck out second sentence, designated remaining text as subsec. (a) and inserted heading, and added subsec. (b). Prior to amendment, second sentence read as follows: “User fees at these lakes and reservoirs shall be collected by officers and employees of the United States only from users of highly developed facilities requiring continuous presence of personnel for maintenance and supervision of the facilities, and shall not be collected for access to or use of water areas, undeveloped or lightly developed shoreland, picnic grounds, overlook sites, scenic drives, or boat launching ramps where no mechanical or hydraulic equipment is provided.”
 

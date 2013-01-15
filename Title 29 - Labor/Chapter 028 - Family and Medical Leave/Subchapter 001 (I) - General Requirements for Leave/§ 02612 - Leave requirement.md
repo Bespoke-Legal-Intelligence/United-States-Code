@@ -26,7 +26,7 @@
 
 #### (4) Combined leave total
 
-&emsp;During the single 12-month period described in paragraph (3), an eligible employee shall beentitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+&emsp;During the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
 #### (5) Calculation of leave for airline flight crews
 
@@ -64,7 +64,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### (B) Serious health condition
 
-&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
+&emsp;&emsp;An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacationleave, personal leave, or medical or sick leave of the employee for leave provided under subparagraph (C) or (D) of subsection (a)(1) for any part of the 12-week period of such leave under such subsection, except that nothing in this subchapter shall require an employer to provide paid sick leave or paid medical leave in any situation in which such employer would not normally provide any such paid leave. An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.
 
 #### (e) Foreseeable leave
 
@@ -109,6 +109,10 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 &emsp;&emsp;If the leave taken by the husband and wife includes leave described in paragraph (1), the limitation in paragraph (1) shall apply to the leave described in paragraph (1).
 
 (Pub. L. 103–3, title I, §102, Feb. 5, 1993, 107 Stat. 9; Pub. L. 110–181, div. A, title V, §585(a)(2), (3)(A)–(D), Jan. 28, 2008, 122 Stat. 129, 130; Pub. L. 111–84, div. A, title V, §565(a)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2309, 2311; Pub. L. 111–119, §2(b), Dec. 21, 2009, 123 Stat. 3477.)
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Source and use of amounts in fund.—Amounts allocated to the Secretary of Housi
 
 Purpose.—To encourage and facilitate the construction or rehabilitation of housing to meet the needs of low- and moderate-income families and individuals, the Secretary may make grants and loans from the Fund, under terms and conditions the Secretary may prescribe. The grants and loans may be made to nonprofit, limited dividend, or cooperative organizations and public bodies and are for planning and obtaining federally insured mortgage financing or other financial assistance for housing construction or rehabilitation projects for low- and moderate-income families and individuals, in any area of the Appalachian region the Appalachian Regional Commission establishes, under—
 
-&emsp;(1) section 221 of the National Housing Act (12 U.S.C. 1715<i>l</i>);
+&emsp;(1) section 221 of the National Housing Act (12 U.S.C. 1715l);
 
 &emsp;(2) section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f);
 
@@ -26,7 +26,7 @@ Purpose.—To encourage and facilitate the construction or rehabilitation of hou
 
 (c)
 
-Providing Amounts to States for Grants and Loans.—The Secretary or the Commission may provide amounts to the States for making grants and loans to nonprofit, limited dividend, or cooperative organizations and public bodies for the purposes for which the Secretary may provide amounts under this section.
+Providing Amounts to States for Grants and Loans.—The Secretary or the Commissionmay provide amounts to the States for making grants and loans to nonprofit, limited dividend, or cooperative organizations and public bodies for the purposes for which the Secretary may provide amounts under this section.
 
 (d)
 
@@ -132,7 +132,7 @@ In subsection (g), the words “notwithstanding such section” are omitted as u
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–371, §2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–371, §2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, applicationand mortgage commitment fees, legal fees, and construction loan fees and discounts.”
 
 Subsec. (e)(1). Pub. L. 110–371, §2(c)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
 

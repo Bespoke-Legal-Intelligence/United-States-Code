@@ -26,7 +26,7 @@
 
 #### Short Title of 1996 Amendment
 
-Section 501 of title V of Pub. L. 104–324 provided that: “This title \[amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing section 1506 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Deepwater Port Modernization Act’.”
+Pub. L. 104–324, title V, §501, Oct. 19, 1996, 110 Stat. 3925, provided that: “This title \[amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing section 1506 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Deepwater Port Modernization Act’.”
 
 #### Short Title of 1984 Amendment
 
@@ -34,11 +34,11 @@ Pub. L. 98–419, §1, Sept. 25, 1984, 98 Stat. 1607, provided: “That this Act
 
 #### Short Title
 
-Section 1 of Pub. L. 93–627 provided: “That this Act \[enacting this chapter and amending section 1333 of Title 43, Public Lands\] may be cited as the ‘Deepwater Port Act of 1974’.”
+Pub. L. 93–627, §1, Jan. 3, 1975, 88 Stat. 2126, provided: “That this Act \[enacting this chapter and amending section 1333 of Title 43, Public Lands\] may be cited as the ‘Deepwater Port Act of 1974’.”
 
 #### Congressional Purposes for 1996 Amendments
 
-Section 502(a) of title V of Pub. L. 104–324 provided that: “The purposes of this title \[see Short Title of 1996 Amendment note above\] are to—
+Pub. L. 104–324, title V, §502(a), Oct. 19, 1996, 110 Stat. 3925, provided that: “The purposes of this title \[see Short Title of 1996 Amendment note above\] are to—
 
 &emsp;“(1) update and improve the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\];
 

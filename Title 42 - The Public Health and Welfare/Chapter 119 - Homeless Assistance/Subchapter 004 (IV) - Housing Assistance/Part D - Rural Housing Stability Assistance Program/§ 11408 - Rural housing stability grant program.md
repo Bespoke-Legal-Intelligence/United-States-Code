@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(I) rehabilitation and repairs such as insulation, window repair, door repair, roof repair, and repairs that are necessary to make premises habitable;
 
-&emsp;&emsp;(J) development of comprehensive and coordinated support services that use andsupplement, as needed, community networks of services, including—
+&emsp;&emsp;(J) development of comprehensive and coordinated support services that use and supplement, as needed, community networks of services, including—
 
 &emsp;&emsp;&emsp;(i) outreach services to reach eligible recipients;
 
@@ -72,7 +72,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (2) Capacity building activities
 
-&emsp;Not more than 20 percent of the funds transferred under subsection (<i>l</i>)(1) of this section for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
+&emsp;Not more than 20 percent of the funds transferred under subsection (l)(1) of this section for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
 
 #### (c) Award of grants
 
@@ -80,7 +80,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (A) Set aside
 
-&emsp;&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (<i>l</i>)(1) of this section for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
+&emsp;&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (l)(1) of this section for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
 
 #### (B) Priority within set aside
 
@@ -92,7 +92,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (3) State limit
 
-&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (<i>l</i>)(1) of this section, for the fiscal year.
+&emsp;In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (l)(1) of this section, for the fiscal year.
 
 #### (d) Application
 
@@ -202,7 +202,7 @@ For purposes of this section:
 
 &emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
 
-#### (<i>l</i>) Program funding
+#### (l) Program funding
 
 #### (1) In general
 
@@ -258,9 +258,9 @@ Subsec. (k)(2)(B)(ii). Pub. L. 111–22, §1401(2)(I)(ii)(II), substituted “co
 
 Subsec. (k)(2)(C). Pub. L. 111–22, §1401(2)(I)(ii)(I), (III), added subpar. (C).
 
-Subsec. (<i>l</i>). Pub. L. 111–22, §1401(2)(J)(i), substituted “Program funding” for “Authorization of appropriations” in heading.
+Subsec. (l). Pub. L. 111–22, §1401(2)(J)(i), substituted “Program funding” for “Authorization of appropriations” in heading.
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–22, §1401(2)(J)(ii), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $30,000,000 for fiscal year 1993 and $31,260,000 for fiscal year 1994.”
+Subsec. (l)(1). Pub. L. 111–22, §1401(2)(J)(ii), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $30,000,000 for fiscal year 1993 and $31,260,000 for fiscal year 1994.”
 
 Subsec. (m). Pub. L. 111–22, §1401(2)(K), added subsec. (m).
 
@@ -268,11 +268,15 @@ Subsec. (m). Pub. L. 111–22, §1401(2)(K), added subsec. (m).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
+Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 ofPub. L. 111–22, set out as a note under section 11302 of this title.
 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
+
+#### Definition
+
+For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 

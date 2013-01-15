@@ -18,7 +18,7 @@
 
 (2) Appropriations made for the purpose of this section shall remain available until expended.
 
-(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §632; amended Pub. L. 94–581, title II, §210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, §3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, §206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, §1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1732 and amended Pub. L.102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, §503, Nov. 4, 1992, 106 Stat. 4955.)
+(Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §632; amended Pub. L. 94–581, title II, §210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, §3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, §206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, §1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1732 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, §503, Nov. 4, 1992, 106 Stat. 4955.)
 
 #### Prior Provisions
 
@@ -70,17 +70,17 @@ Section effective July 1, 1973, see section 501 of Pub. L. 93–82, set out as a
 
 #### Savings Provision
 
-Section 107(c) of Pub. L. 93–82 provided that section 107(a) of Pub. L. 93–82, enacting this section and section 631 \[now 1731\] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
+Pub. L. 93–82, title I, §107(c), Aug. 2, 1973, 87 Stat. 186, provided that section 107(a) of Pub. L. 93–82, enactingthis section and section 631 \[now 1731\] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
 
 #### Ratification of Actions of Secretary of Veterans Affairs in Carrying Out This Section
 
-Section 304(b) of Pub. L. 102–86 provided that: “Any actions by the Secretary of Veterans Affairs in carrying out the provisions of section 632 \[now 1732\] of title 38, United States Code, by contract or otherwise, during the period beginning on October 1, 1990, and ending on the date of the enactment of this Act \[Aug. 14, 1991\] are hereby ratified.”
+Pub. L. 102–86, title III, §304(b), Aug. 14, 1991, 105 Stat. 416, provided that: “Any actions by the Secretary of Veterans Affairs in carrying out the provisions of section 632 \[now 1732\] of title 38, United States Code, by contract or otherwise, during the period beginning on October 1, 1990, and ending on the date of the enactment of this Act \[Aug. 14, 1991\] are hereby ratified.”
 
 #### Ratification of Action of Administrator in Contracting
 
-Section 206(a)(2) of Pub. L. 99–576 ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
+Pub. L. 99–576, title II, §206(a)(2), Oct. 28, 1986, 100 Stat. 3256, ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
 
 #### Reports on Use of Funds
 
-Section 206(b) of Pub. L. 99–576 directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
+Pub. L. 99–576, title II, §206(b), Oct. 28, 1986, 100 Stat. 3256, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
 

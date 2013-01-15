@@ -134,7 +134,7 @@
 
 #### (ii) Authorized actions
 
-&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring the modification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
+&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring themodification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
 
 #### (f) Common and preferred stock investment
 
@@ -218,7 +218,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### (1) Application of host State law
 
-&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of an out-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
+&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of anout-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
 
 #### (2) Activities of branches
 
@@ -240,7 +240,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 1831u of this title, referred to in subsec. (j)(4), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms “host State”, “home State”, and “out-of-State bank”. However, such terms are defined elsewhere in that section.
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Right of State To Opt Out
 
-Section 3 of Pub. L. 105–24 provided that: “Nothing in this Act \[amending this section and section 36 of this title and enacting provisions set out as a note under section 1811 of this title\] alters the right of States under section 525 of Public Law 96–221 \[12 U.S.C. 1785 note\].”
+Pub. L. 105–24, §3, July 3, 1997, 111 Stat. 239, provided that: “Nothing in this Act \[amending this section and section 36 of this title and enacting provisions set out as a note under section 1811 of this title\] alters the right of States under section 525 of Public Law 96–221 \[12 U.S.C. 1785 note\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

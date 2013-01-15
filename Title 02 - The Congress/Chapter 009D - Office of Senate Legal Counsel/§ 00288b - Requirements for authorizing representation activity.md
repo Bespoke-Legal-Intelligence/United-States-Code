@@ -2,7 +2,7 @@
 
 #### (a) Direction of Joint Leadership Group or Senate resolution
 
-The Counsel shall defend the Senate or a committee, subcommittee, Member, officer, or employee of the Senate under section 288c of this title only when directed to do so by two-thirds of the Members of the Joint Leadership Group or by the adoption of a resolution by the Senate.
+The Counsel shall defend the Senate or a committee, subcommittee, Member, officer, or employee of the Senate under section 288c of thistitle only when directed to do so by two-thirds of the Members of the Joint Leadership Group or by the adoption of a resolution by the Senate.
 
 #### (b) Civil action to enforce subpena
 

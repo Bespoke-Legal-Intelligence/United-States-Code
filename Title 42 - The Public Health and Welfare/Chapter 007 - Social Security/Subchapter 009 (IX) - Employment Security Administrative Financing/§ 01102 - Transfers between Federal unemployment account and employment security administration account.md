@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 91–373, §304(b), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Section 5402(b) of Pub. L. 105–33 provided that: “This section \[amending this section\] and the amendment made by this section—
+Pub. L. 105–33, title V, §5402(b), Aug. 5, 1997, 111 Stat. 603, provided that: “This section \[amending this section\] and the amendment made by this section—
 
 &emsp;“(1) shall take effect on October 1, 2001, and
 
@@ -46,7 +46,7 @@ Section 5402(b) of Pub. L. 105–33 provided that: “This section \[amending th
 
 #### Effective Date of 1992 Amendment
 
-Section 531(e) of Pub. L. 102–318 provided that:
+Pub. L. 102–318, title V, §531(e), July 3, 1992, 106 Stat. 317, provided that:
 
 “(1)
 

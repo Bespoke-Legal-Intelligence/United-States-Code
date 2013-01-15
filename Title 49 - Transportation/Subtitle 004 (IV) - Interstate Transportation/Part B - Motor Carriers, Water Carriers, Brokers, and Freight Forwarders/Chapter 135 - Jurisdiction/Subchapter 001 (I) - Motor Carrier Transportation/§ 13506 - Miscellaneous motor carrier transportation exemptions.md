@@ -56,7 +56,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(13) transportation of wood chips;
 
-&emsp;(14) brokers for motor carriers of passengers, except as provided in section 13904(d); or
+&emsp;(14) brokers for motor carriers of passengers, except as provided in section 13904(d); <sup>1</sup> or
 
 &emsp;(15) transportation of broken, crushed, or powdered glass.
 
@@ -82,6 +82,10 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 This amends 49:13506(a)(5) to correct a grammatical error.
 
+#### References in Text
+
+Section 13904(d), referred to in subsec. (a)(14), was redesignated section 13904(f) by Pub. L. 112–141, div. C, title II, §32916(b)(2), July 6, 2012, 126 Stat. 821.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10526 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -95,4 +99,6 @@ Provisions similar to those in this section were contained in section 10526 of t
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

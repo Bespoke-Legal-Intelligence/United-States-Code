@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;(C) a service consisting of selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, replacing, or donating assistive technology devices;
 
-&emsp;&emsp;(D) coordination and use of necessary therapies, interventions, or services with assistive technology devices, such as therapies, interventions, or services associated with education and rehabilitation plans and programs;
+&emsp;&emsp;(D) coordination and use of necessary therapies, interventions, or services withassistive technology devices, such as therapies, interventions, or services associated with education and rehabilitation plans and programs;
 
 &emsp;&emsp;(E) training or technical assistance for an individual with a disability or, where appropriate, the family members, guardians, advocates, or authorized representatives of such an individual;
 
@@ -110,7 +110,7 @@ In this chapter:
 
 &emsp;The term “protection and advocacy services” means services that—
 
-&emsp;&emsp;(A) are described in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10801 et seq.), or section 509 of the Rehabilitation Act of 1973 (29 U.S.C. 794e); and
+&emsp;&emsp;(A) are described in subtitle C of title I of the Developmental Disabilities Assistanceand Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), the Protection and Advocacy for Individuals with Mental Illness Act (42 U.S.C. 10801 et seq.), or section 509 of the Rehabilitation Act of 1973 (29 U.S.C. 794e); and
 
 &emsp;&emsp;(B) assist individuals with disabilities with respect to assistive technology devices and assistive technology services.
 

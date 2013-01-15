@@ -84,7 +84,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (4) The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the surcharges under subsection (d) for any use specified in paragraph (1), (2), or (3), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in such paragraph.
 
-(5) Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in paragraphs (1), (2), and (3):
+(5) Revenues received by the Secretary of Defense from the following sources or activities ofcommissary store facilities shall be available for the purposes set forth in paragraphs (1), (2), and (3):
 
 &emsp;(A) Sale of recyclable materials.
 
@@ -170,7 +170,7 @@ Subsec. (d). Pub. L. 105–85, §372(c), inserted heading and amended text gener
 
 &emsp;“(2) promote the lowest practical price of merchandise sold at commissary stores.”
 
-Subsec. (e). Pub. L. 105–85, §373, inserted at end “In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
+Subsec. (e). Pub. L. 105–85, §373, inserted at end “In determining whether a brand name commercial item isregularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
 
 Pub. L. 105–85, §372(e)(2), inserted heading and substituted “in, at, or by commissary stores” for “in commissary stores” in two places.
 
@@ -196,7 +196,7 @@ Pub. L. 100–180, div. A, title III, §313(b), Dec. 4, 1987, 101 Stat. 1074, re
 
 #### Savings Provision
 
-Pub. L. 104–201, div. A, title III, §342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) \[now 2484(e)\] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, orduration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
+Pub. L. 104–201, div. A, title III, §342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) \[now 2484(e)\] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
 
 #### Test Program of Sale of Certain Items in Commissary Stores
 

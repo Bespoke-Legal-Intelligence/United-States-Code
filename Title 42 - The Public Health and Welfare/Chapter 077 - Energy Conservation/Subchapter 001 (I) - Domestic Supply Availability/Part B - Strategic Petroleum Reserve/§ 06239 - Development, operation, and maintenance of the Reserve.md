@@ -24,7 +24,7 @@ In order to develop, operate, or maintain the Strategic Petroleum Reserve, the S
 
 #### (g) Acquisition of property by negotiation as prerequisite to condemnation
 
-Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonably delay the development of the Strategic Petroleum Reserve, because of (1) reasonable doubt as to the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
+Before any condemnation proceedings are instituted, an effort shall be made to acquire the property involved by negotiation, unless, the effort to acquire such property by negotiation would, in the judgement of the Secretary be futile or so time-consuming as to unreasonably delay the development of the Strategic Petroleum Reserve, because of (1) reasonable doubt asto the identity of the owners, (2) the large number of persons with whom it would be necessary to negotiate, or (3) other reasons.
 
 #### (h), (i) Repealed. Pub. L. 106–469, title I, §103(13)(D), Nov. 9, 2000, 114 Stat. 2031
 
@@ -36,7 +36,7 @@ If the Secretary determines expansion beyond 700,000,000 barrels of petroleum pr
 
 A storage or related facility of the Strategic Petroleum Reserve owned by or leased to the United States is not subject to the Interstate Commerce Act.
 
-#### (<i>l</i>) Rulemaking during drawdown and sale
+#### (l) Rulemaking during drawdown and sale
 
 During a drawdown and sale of Strategic Petroleum Reserve petroleum products, the Secretary may issue implementing rules, regulations, or orders in accordance with section 553 of title 5, without regard to rulemaking requirements in section 6393 of this title, and section 7191 of this title.
 
@@ -60,13 +60,13 @@ Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and 
 
 Subsec. (j). Pub. L. 106–469, §103(13)(E), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “No later than 24 months after September 15, 1990, the Secretary shall amend the Strategic Petroleum Reserve Plan to prescribe plans for completion of storage of one billion barrels of petroleum product in the Reserve. Such amendment shall comply with the provisions of this section and shall detail the Secretary's plans for the design, construction, leasing or other acquisition, and fill of storage and related facilities of the Reserve to achieve such one billion barrels of storage. Such amendment shall not be subject to the congressional review procedures contained in section 6421 of this title. In assessing alternatives in the development of such plans, the Secretary shall consider leasing privately owned storage facilities.”
 
-Subsec. (<i>l</i>). Pub. L. 106–469, §103(13)(F), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “Notwithstanding subsection (d) of this section, during any period in which the Distribution Plan is being implemented, the Secretary may amend the plan and promulgate rules, regulations, or orders to implement such amendments in accordance with section 6393 of this title, without regard to the requirements of section 553 of title 5 and section 7191 of this title. Such amendments shall be transmitted to the Congress together with a statement explaining the need for such amendments.”
+Subsec. (l). Pub. L. 106–469, §103(13)(F), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “Notwithstanding subsection (d) of this section, during any period in which the Distribution Plan is being implemented, the Secretary may amend the plan and promulgate rules, regulations, or orders to implement such amendments in accordance with section 6393 of this title, without regard to the requirements of section 553 of title 5 and section 7191 of this title. Such amendments shall be transmitted to the Congress together with a statement explaining the need for such amendments.”
 
 <b>1990</b>—Subsecs. (i), (j). Pub. L. 101–383, §4(a), added subsecs. (i) and (j).
 
 Subsec. (k). Pub. L. 101–383, §9, added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–383, §11, added subsec. (l).
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
 

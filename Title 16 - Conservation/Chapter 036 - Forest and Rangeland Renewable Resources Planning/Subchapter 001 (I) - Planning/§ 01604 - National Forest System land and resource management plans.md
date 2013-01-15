@@ -54,7 +54,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;(3) specifying guidelines for land management plans developed to achieve the goals of the Program which—
 
-&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silviculture and protection of forest resources, to provide for outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
+&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silvicultureand protection of forest resources, to provide for outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
 
 &emsp;&emsp;(B) provide for diversity of plant and animal communities based on the suitability and capability of the specific land area in order to meet overall multiple-use objectives, and within the multiple-use objectives of a land management plan adopted pursuant to this section, provide, where appropriate, to the degree practicable, for steps to be taken to preserve the diversity of tree species similar to that existing in the region controlled by the plan;
 
@@ -94,7 +94,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant tothis section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -102,9 +102,9 @@ Land management plans and revisions shall become effective thirty days after com
 
 #### (k) Development of land management plans
 
-In developing land management plans pursuant to this subchapter, the Secretary shall identify lands within the management area whichare not suited for timber production, considering physical, economic, and other pertinent factors to the extent feasible, as determined by the Secretary, and shall assure that, except for salvage sales or sales necessitated to protect other multiple-use values, no timber harvesting shall occur on such lands for a period of 10 years. Lands once identified as unsuitable for timber production shall continue to be treated for reforestation purposes, particularly with regard to the protection of other multiple-use values. The Secretary shall review his decision to classify these lands as not suited for timber production at least every 10 years and shall return these lands to timber production whenever he determines that conditions have changed so that they have become suitable for timber production.
+In developing land management plans pursuant to this subchapter, the Secretary shall identify lands within the management area which are not suited for timber production, considering physical, economic, and other pertinent factors to the extent feasible, as determined by the Secretary, and shall assure that, except for salvage sales or sales necessitated to protect other multiple-use values, no timber harvesting shall occur on such lands for a period of 10 years. Lands once identified as unsuitable for timber production shall continue to be treated for reforestation purposes, particularly with regard to the protection of other multiple-use values. The Secretary shall review his decision to classify these lands as not suited for timber production at least every 10 years and shall return these lands to timber production whenever he determines that conditions have changed so that they have become suitable for timber production.
 
-#### (<i>l</i>) Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report
+#### (l) Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report
 
 The Secretary shall—
 

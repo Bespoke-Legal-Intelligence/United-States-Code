@@ -14,6 +14,8 @@ The Attorney General may make grants to eligible States or units of local govern
 
 &emsp;(5) To ensure that DNA testing and analysis of samples from crimes, including sexual assault and other serious violent crimes, are carried out in a timely manner.
 
+&emsp;(6) To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.
+
 #### (b) Eligibility
 
 For a State or unit of local government to be eligible to receive a grant under this section, the chief executive officer of the State or unit of local government shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. The application shall, as required by the Attorney General—
@@ -26,7 +28,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(4) specify the allocation that the State or unit of local government shall make, in using grant amounts to carry out DNA analyses of samples, as between samples specified in subsection (a)(1) of this section and samples specified in subsection (a)(2) of this section;
 
-&emsp;(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3) of this section;
+&emsp;(5) specify that portion of grant amounts that the State or unit of local governmentshall use for the purpose specified in subsection (a)(3) of this section;
 
 &emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
 
@@ -110,7 +112,7 @@ Each State or unit of local government which receives a grant under this section
 
 #### (g) Reports to Congress
 
-Not later than 90 days after the end of each fiscal year for which grants are made under this section, the Attorney General shall submit to the Congress a report that includes—
+Not later than 90 days after the end of each fiscal year for which grants are made under thissection, the Attorney General shall submit to the Congress a report that includes—
 
 &emsp;(1) the aggregate amount of grants made under this section to each State or unit of local government for such fiscal year;
 
@@ -152,7 +154,7 @@ The Attorney General may distribute not more than 1 percent of the grant amounts
 
 &emsp;(3) in the form of additional grants to nonprofit professional associations actively involved in forensic science and nationally recognized within the forensic science community to defray the costs of training persons who conduct external audits of laboratories operated by States and units of local government and which participate in the National DNA Index System.
 
-#### (<i>l</i>) Use of funds for other forensic sciences
+#### (l) Use of funds for other forensic sciences
 
 The Attorney General may award a grant under this section to a State or unit of local government to alleviate a backlog of cases with respect to a forensic science other than DNA analysis if the State or unit of local government—
 
@@ -170,9 +172,11 @@ The Attorney General may award a grant under this section to a State or unit of 
 
 In the event that a laboratory operated by a State or unit of local government which has received funds under this Act has undergone an external audit conducted to determine whether the laboratory is in compliance with standards established by the Director of the Federal Bureau of Investigation, and, as a result of such audit, identifies measures to remedy deficiencies with respect to the compliance by the laboratory with such standards, the State or unit of local government shall implement any such remediation as soon as practicable.
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409.)
 
 #### References in Text
+
+Sections 14137 to 14137c of this title, referred to in subsec. (a)(6), was in the original “the Katie Sepich Enhanced DNA Collection Act of 2012”, meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, which enacted sections 14137 to 14137c of this title and amended section 14135 of this title. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 13701 of this title and Tables.
 
 This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–546, Dec. 19, 2000, 114 Stat. 2726, known as the DNA Analysis Backlog Elimination Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 13701 of this title and Tables.
 
@@ -181,6 +185,8 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(6). Pub. L. 112–253 added par. (6).
 
 <b>2008</b>—Subsec. (c)(3). Pub. L. 110–360, §2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 

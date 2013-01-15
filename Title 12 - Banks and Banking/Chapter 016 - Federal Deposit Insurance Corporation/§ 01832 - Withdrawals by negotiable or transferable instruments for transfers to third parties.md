@@ -58,7 +58,7 @@ Amendment by Pub. L. 96–221 effective Dec. 31, 1980, see section 306 of Pub. L
 
 Amendment
 
-Section 1302 of title XIII of Pub. L. 95–630 provided that: “This title \[amending this section\] shall take effect upon enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XIII, §1302, Nov. 10, 1978, 92 Stat. 3712, provided that: “This title \[amending this section\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
 #### Effective Date
 

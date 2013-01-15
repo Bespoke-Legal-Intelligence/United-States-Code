@@ -252,10 +252,6 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 (Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(4)(B)(iii)(I), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
@@ -382,13 +378,13 @@ Subsec. (c)(3), (4). Pub. L. 107–147, §301(b)(1), added par. (3) and redesign
 
 Subsec. (b)(13). Pub. L. 107–16, §619(b), substituted “, plus” for period at end.
 
-Pub. L. 107–16, §§205(b)(1), 901, temporarily struck out “plus” at end. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §205(b)(1), struck out “plus” at end.
 
 Subsec. (b)(14). Pub. L. 107–16, §619(b), added par. (14).
 
-Pub. L. 107–16, §§205(b)(1), 901, temporarily substituted “, plus” for period at end. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §205(b)(1), substituted “, plus” for period at end.
 
-Subsec. (b)(15). Pub. L. 107–16, §§205(b)(1), 901, temporarily added par. (15). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(15). Pub. L. 107–16, §205(b)(1), added par. (15).
 
 <b>2000</b>—Subsec. (b)(13). Pub. L. 106–554 added par. (13).
 
@@ -530,11 +526,11 @@ Pub. L. 110–28, title VIII, §8214(b), May 25, 2007, 121 Stat. 193, provided t
 
 Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, provided that: “The amendments made by this section \[enacting section 45N of this title and amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2005.”
 
-#### Effective Date of 2005 Amendments
+#### Effective Date of 2005 Amendment
 
 Pub. L. 109–59, title XI, §11126(d), Aug. 10, 2005, 119 Stat. 1958, provided that: “The amendments made by this section \[enacting section 5011 of this title and amending this section\] shall apply to taxable years beginning after September 30, 2005.”
 
-Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act\[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
+Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act \[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
 
 Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate.”
 
@@ -568,13 +564,11 @@ Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided 
 
 Amendment by section 411(d)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: “The amendments made by this section \[enacting section 45F of this title and amending this section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
 Pub. L. 107–16, title VI, §619(d), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 107–147, title IV, §411(n)(2), Mar. 9, 2002, 116 Stat. 48, provided that: “The amendments made by this section \[enacting section 45E of this title and amending this section and sections 39 and 196 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2001, with respect to qualified employer plans first effective after such date.”
-
-Amendment by section 205(b)(1) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -582,29 +576,29 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(e)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Effective Date of 1996 Amendment
 
-Section 1201(g) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996.”
+Pub. L. 104–188, title I, §1201(g), Aug. 20, 1996, 110 Stat. 1772, provided that: “The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996.”
 
 Amendment by section 1205(a)(2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
-Section 1702(i) of Pub. L. 104–188 provided that: “Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates.”
+Pub. L. 104–188, title I, §1702(i), Aug. 20, 1996, 110 Stat. 1875, provided that: “Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13303, Aug. 10, 1993, 107 Stat. 556, provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
-Section 13322(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13322(f), Aug. 10, 1993, 107 Stat. 563, provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
 
-Section 13443(d) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat.1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
+Pub. L. 103–66, title XIII, §13443(d), Aug. 10, 1993, 107 Stat. 569, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
 
 #### Effective Date of 1992 Amendment
 
-Section 1914(e) of Pub. L. 102–486 provided that: “The amendments made by this section \[enacting section 45 of this title and amending this section and section 39 of this title\] shall apply to taxable years ending after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1914(e), Oct. 24, 1992, 106 Stat. 3023, provided that: “The amendments made by this section \[enacting section 45 of this title and amending this section and section 39 of this title\] shall apply to taxable years ending after December 31, 1992.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11511(b)(1) of Pub. L. 101–508 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 1990, see section 11511(d)(1) of Pub. L. 101–508, set out as an Effective Date note under section 43 of this title.
 
-Section 11611(e) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11611(e), Nov. 5, 1990, 104 Stat. 1388–503, provided that:
 
 “(1)
 
@@ -618,13 +612,13 @@ Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property pla
 
 #### Effective Date of 1988 Amendment
 
-Section 1002(e)(8)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section and section 49 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Pub. L. 100–647, title I, §1002(e)(8)(C), Nov. 10, 1988, 102 Stat. 3369, provided that: “The amendments made by this paragraph \[amending this section and section 49 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
 
 Amendment by section 1007(g)(2), (8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 221(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title II, §221(b), Oct. 22, 1986, 100 Stat. 2173, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
 
 Amendment by section 231(d)(1), (3)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
@@ -632,7 +626,7 @@ Amendment by section 252(b) of Pub. L. 99–514 applicable to buildings placed i
 
 Amendment by section 701(c)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Section 1171(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XI, §1171(c), Oct. 22, 1986, 100 Stat. 2513, provided that:
 
 “(1)
 
@@ -692,7 +686,7 @@ Payments to possessions.—
 
 &emsp;&emsp;“(A)
 
-Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax systemamounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;&emsp;“(B)
 
@@ -724,7 +718,7 @@ Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United 
 
 #### Credit for Contributions to Certain Community Development Corporations
 
-Section 13311 of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1703(n)(13), Aug. 20, 1996, 110 Stat. 1877, provided that:
+Pub. L. 103–66, title XIII, §13311, Aug. 10, 1993, 107 Stat. 556, as amended by Pub. L. 104–188, title I, §1703(n)(13), Aug. 20, 1996, 110 Stat. 1877, provided that:
 
 “(a)
 
@@ -800,11 +794,11 @@ For applicability of amendment by section 701(c)(4) of Pub. L. 99–514 notwiths
 
 #### Effective 15-Year Carryback of Existing Carryforwards of Steel Companies
 
-Section 212 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1002(f), Nov. 10, 1988, 102 Stat. 3369, provided that:
+Pub. L. 99–514, title II, §212, Oct. 22, 1986, 100 Stat. 2170, as amended by Pub. L. 100–647, title I, §1002(f), Nov. 10, 1988, 102 Stat. 3369, provided that:
 
 “(a)
 
-General Rule.—If a qualified corporation makes an election under this section for its 1st taxable yearbeginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
+General Rule.—If a qualified corporation makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
 “(b)
 
@@ -828,7 +822,7 @@ In general.—A corporation's net tax liability for the carryback period is the 
 
 &emsp;“(2)
 
-Net tax liability.—The term ‘net tax liability’ means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\] for such taxable year, reduced by the sum of the credits allowable under part IV of subchapter A of such chapter 1 (other than section 34 thereof). For purposes of the preceding sentence, any tax treated as not imposed by chapter 1 of such Code under section 26(b)(2) of such Code shall not be treated as tax imposed by such chapter 1.
+Net tax liability.—The term ‘net tax liability’ means, with respect to any taxable year, theamount of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\] for such taxable year, reduced by the sum of the credits allowable under part IV of subchapter A of such chapter 1 (other than section 34 thereof). For purposes of the preceding sentence, any tax treated as not imposed by chapter 1 of such Code under section 26(b)(2) of such Code shall not be treated as tax imposed by such chapter 1.
 
 &emsp;“(3)
 
@@ -908,7 +902,7 @@ Tentative Refunds.—Rules similar to the rules of section 6425 of the Internal 
 
 #### Effective 15-Year Carryback of Existing Carryforwards of Qualified Farmers
 
-Section 213 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1002(g), Nov. 10, 1988, 102 Stat. 3369, provided that:
+Pub. L. 99–514, title II, §213, Oct. 22, 1986, 100 Stat. 2172, as amended by Pub. L. 100–647, title I, §1002(g), Nov. 10, 1988, 102 Stat. 3369, provided that:
 
 “(a)
 
@@ -968,7 +962,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transition Rules
 
-Section 1177 of subtitle C (§§1171–1177) of title XI of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(<i>l</i>)(1), (2), Nov. 10, 1988, 102 Stat. 3493, provided that:
+Pub. L. 99–514, title XI, §1177, Oct. 22, 1986, 100 Stat. 2520, as amended by Pub. L. 100–647, title I, §1011B(l)(1), (2), Nov. 10, 1988, 102 Stat. 3493, provided that:
 
 “(a)
 
@@ -986,7 +980,7 @@ Subtitle Not To Apply to Certain Newspaper.—The amendments made by section 117
 
 &emsp;“(2) which is published in a constitutional home rule city (within the meaning of section 146(d)(3)(C) of the Internal Revenue Code of 1986) which has a population of less than 2,500,000.”
 
-Section 1011B(<i>l</i>)(3) of Pub. L. 100–647 provided that: “If any newspaper corporation described in section 1177(b) of the Reform Act \[section 1177(b) of Pub. L. 99–514, set out above\], as amended by this subsection, pays in cash a dividend within 60 days after the date of the enactment of this Act \[Nov. 10, 1988\] to the corporation's employee stock ownership plans and if a corporate resolution declaring such dividend was adopted before November 30, 1987, and such resolution specifies that such dividend shall be contingent upon passage by the Congress of technical corrections, then such dividend (to the extent the aggregate amount so paid does not exceed $3,500,000) shall be treated as if it had been declared and paid in 1987 for all purposes of the Internal Revenue Code of 1986.”
+Pub. L. 100–647, title I, §1011B(l)(3), Nov. 10, 1988, 102 Stat. 3493, provided that: “If any newspaper corporation described in section 1177(b) of the Reform Act \[section 1177(b) of Pub. L. 99–514, set out above\], as amended by this subsection, pays in cash a dividend within 60 days after the date of the enactment of this Act \[Nov. 10, 1988\] to the corporation's employee stock ownership plans and if a corporate resolution declaring such dividend was adopted before November 30, 1987, and such resolution specifies that such dividend shall be contingent upon passage by the Congress of technical corrections, then such dividend (to the extent the aggregate amount so paid does not exceed $3,500,000) shall be treated as if it had been declared and paid in 1987 for all purposes of the Internal Revenue Code of 1986.”
 
 #### Accounting for Investment Credit in Certain Financial Reports and Reports to Federal Agencies
 
@@ -1004,11 +998,11 @@ In general.—It was the intent of Congress in enacting, in the Revenue Act of 1
 
 Exceptions.—Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\].”
 
-\[Section 450(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this note\] shall take effect as if included in the Revenue Act of 1971.”\]
+\[Pub. L. 98–369, div. A, title IV, §450(b), July 18, 1984, 98 Stat. 818, provided that: “The amendments made by this section \[amending this note\] shall take effect as if included in the Revenue Act of 1971.”\]
 
 #### Treatment of Investment Credit by Federal Regulatory Agencies
 
-Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization andgrowth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
+Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization and growth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
 
 &emsp;“(1) in the case of public utility property (as defined in section 46(c)(3)(B) of the Internal Revenue Code of 1986, more than a proportionate part (determined with reference to the average useful life of the property with respect to which the credit was allowed) of the credit against tax allowed for any taxable year by section 38 of such Code, or
 

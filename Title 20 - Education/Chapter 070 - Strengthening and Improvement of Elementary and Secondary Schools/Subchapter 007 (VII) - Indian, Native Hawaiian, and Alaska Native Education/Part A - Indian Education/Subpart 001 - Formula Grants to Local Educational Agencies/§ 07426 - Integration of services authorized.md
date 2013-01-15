@@ -6,7 +6,7 @@ An entity receiving funds under this subpart may submit a plan to the Secretary 
 
 #### (b) Consolidation of programs
 
-Upon the receipt of an acceptable plan under subsection (a) of this section, the Secretary, in cooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
+Upon the receipt of an acceptable plan under subsection (a) of this section, the Secretary, incooperation with each Federal agency providing grants for the provision of education and related services to the entity, shall authorize the entity to consolidate, in accordance with such plan, the federally funded education and related services programs of the entity and the Federal programs, or portions of the programs, serving Indian students in a manner that integrates the program services involved into a single, coordinated, comprehensive program and reduces administrative costs by consolidating administrative functions.
 
 #### (c) Programs affected
 
@@ -68,13 +68,13 @@ A single report format shall be developed by the Secretary, consistent with the 
 
 #### (j) No reduction in amounts
 
-In no case shall the amount of Federal funds available to an eligible entity involved in anydemonstration project be reduced as a result of the enactment of this section.
+In no case shall the amount of Federal funds available to an eligible entity involved in any demonstration project be reduced as a result of the enactment of this section.
 
 #### (k) Interagency fund transfers authorized
 
 The Secretary is authorized to take such action as may be necessary to provide for an interagency transfer of funds otherwise available to an eligible entity in order to further the objectives of this section.
 
-#### (<i>l</i>) Administration of funds
+#### (l) Administration of funds
 
 #### (1) In general
 
@@ -92,7 +92,7 @@ The eligible entity may commingle all administrative funds from the consolidated
 
 Nothing in this part shall be construed so as to interfere with the ability of the Secretary or the lead agency to fulfill the responsibilities for the safeguarding of Federal funds pursuant to chapter 75 of title 31.
 
-#### (<i>o</i>) Report on statutory obstacles to program integration
+#### (o) Report on statutory obstacles to program integration
 
 #### (1) Preliminary report
 

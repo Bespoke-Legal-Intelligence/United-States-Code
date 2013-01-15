@@ -2,7 +2,7 @@
 
 #### (a) Selection criteria for State educational agencies
 
-The Secretary shall award grants to State educational agencies under this subpart on thebasis of the quality of the applications submitted under section 7221b(b) of this title, after taking into consideration such factors as—
+The Secretary shall award grants to State educational agencies under this subpart on the basis of the quality of the applications submitted under section 7221b(b) of this title, after taking into consideration such factors as—
 
 &emsp;(1) the contribution that the charter schools grant program will make to assisting educationally disadvantaged and other students in meeting State academic content standards and State student academic achievement standards;
 
@@ -60,7 +60,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (1) State educational agencies
 
-&emsp;Each State educational agency receiving a grant under this subpart shall use such grant funds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
+&emsp;Each State educational agency receiving a grant under this subpart shall use such grantfunds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
 
 #### (2) Eligible applicants
 

@@ -38,7 +38,7 @@ Requirement To Provide Unenhanced Data.—
 
 &emsp;(1)
 
-Designation of data.—The Secretary, in consultation with other appropriate United States Government agencies and pursuant toparagraph (2), shall designate in a license issued pursuant to this subchapter any unenhanced data required to be provided by the licensee under section 60122(b)(3) of this title.
+Designation of data.—The Secretary, in consultation with other appropriate United States Government agencies and pursuant to paragraph (2), shall designate in a license issued pursuant to this subchapter any unenhanced data required to be provided by the licensee under section 60122(b)(3) of this title.
 
 &emsp;(2)
 

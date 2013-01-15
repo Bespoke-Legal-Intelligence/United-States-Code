@@ -22,11 +22,11 @@ The type of research and development to be undertaken under the authority of sec
 
 &emsp;(10) Providing means for improved communication of research results, having due regard for the varying conditions and needs for the respective States and regions.
 
-(Pub. L. 98–242, title I, §108, Mar. 22, 1984, 98 Stat. 101; Pub. L. 101–397, §1(k), (<i>l</i>), Sept. 28, 1990, 104 Stat. 853.)
+(Pub. L. 98–242, title I, §108, Mar. 22, 1984, 98 Stat. 101; Pub. L. 101–397, §1(k), (l), Sept. 28, 1990, 104 Stat. 853.)
 
 #### Amendments
 
 <b>1990</b>—Par. (6). Pub. L. 101–397, §1(k), which directed that “, contamination,” be inserted after “depletion”, was executed by making the insertion after “Depletion” to reflect the probable intent of Congress.
 
-Par. (8). Pub. L. 101–397, §1(<i>l</i>), inserted “quality and quantity” after “water”.
+Par. (8). Pub. L. 101–397, §1(l), inserted “quality and quantity” after “water”.
 

@@ -76,7 +76,7 @@ The Secretary shall, through the clearinghouse established by subsection (a) of 
 
 #### References in Text
 
-Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(5)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
+Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to insubsec. (b)(5)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
 
 #### Prior Provisions
 

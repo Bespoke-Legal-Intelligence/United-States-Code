@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-(a) The terms “banks”, “national bank”, “national banking association”, “member bank”, “board”, “district”, and “reserve bank” shall have the meanings assigned to them in section 221 of this title.
+(a) The terms “banks”, “national bank”, “national banking association”, “member bank”, “board”, “district”, and “reserve bank” shallhave the meanings assigned to them in section 221 of this title.
 
 (b) Except where otherwise specifically provided, the term “affiliate” shall include any corporation, business trust, association, or other similar organization—
 

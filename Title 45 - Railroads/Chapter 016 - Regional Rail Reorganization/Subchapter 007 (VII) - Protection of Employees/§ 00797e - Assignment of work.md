@@ -6,13 +6,13 @@ With respect to any craft or class of employees not covered by a collective barg
 
 #### (b) Expiration
 
-The authority granted by this section shall apply only for as long as benefits are provided under this subchapter with funds made available under section 797<i>l</i> <sup>1</sup> of this title.
+The authority granted by this section shall apply only for as long as benefits are provided under this subchapter with funds made available under section 797l <sup>1</sup> of this title.
 
 (Pub. L. 93–236, title VII, §706, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 665.)
 
 #### References in Text
 
-Section 797<i>l</i> of this title, referred to in subsec. (b), was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797<i>l</i> of this title was subsequently added by Pub. L. 104–88, §327(5).
+Section 797l of this title, referred to in subsec. (b), was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797l of this title was subsequently added by Pub. L. 104–88, §327(5).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

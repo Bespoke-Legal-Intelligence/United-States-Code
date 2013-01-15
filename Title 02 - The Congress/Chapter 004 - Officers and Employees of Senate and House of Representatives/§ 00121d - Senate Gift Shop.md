@@ -26,7 +26,7 @@ The provisions of section 5104(c) of title 40 shall not be applicable to any act
 
 #### (e) Transfer of moneys from Stationery Revolving Fund
 
-To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund suchsum as he may determine necessary, not to exceed $300,000.
+To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund such sum as he may determine necessary, not to exceed $300,000.
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 

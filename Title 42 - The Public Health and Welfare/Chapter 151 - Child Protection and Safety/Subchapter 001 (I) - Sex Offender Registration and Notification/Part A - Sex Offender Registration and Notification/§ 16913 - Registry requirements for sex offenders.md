@@ -22,7 +22,7 @@ The Attorney General shall have the authority to specify the applicability of th
 
 #### (e) State penalty for failure to comply
 
-Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminalpenalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
+Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
 
 (Pub. L. 109–248, title I, §113, July 27, 2006, 120 Stat. 593.)
 

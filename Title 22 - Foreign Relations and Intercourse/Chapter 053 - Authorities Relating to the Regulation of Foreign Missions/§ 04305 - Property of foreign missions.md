@@ -50,13 +50,13 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 &emsp;(B) with respect to a city in the United States, did not maintain a mission in that city.
 
-(Aug. 1, 1956, ch. 841, title II, §205, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, §127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, §161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, §162(<i>o</i>)(5), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, §205, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, §127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, §161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, §162(o)(5), Apr. 30, 1994, 108 Stat. 410.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(<i>o</i>)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(o)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 103–236, §162(<i>o</i>)(5)(B), struck out “authorize the Director to” before “dispose of”.
+Subsec. (c)(2). Pub. L. 103–236, §162(o)(5)(B), struck out “authorize the Director to” before “dispose of”.
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–204 added subsec. (d).
 

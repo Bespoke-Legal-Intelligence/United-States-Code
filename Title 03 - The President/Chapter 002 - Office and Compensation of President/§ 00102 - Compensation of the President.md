@@ -24,15 +24,15 @@ Pub. L. 106–58, title VI, §644(b), Sept. 29, 1999, 113 Stat. 478, provided th
 
 #### Effective Date of 1978 Amendment
 
-Section 6(a) of Pub. L. 95–570 provided that: “The amendments made by this Act \[enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing section 107 of this title, and enacting provisions set out as a note under section 107 of this title\] shall apply to any fiscal year which begins on or after October 1, 1978.”
+Pub. L. 95–570, §6(a), Nov. 2, 1978, 92 Stat. 2451, provided that: “The amendments made by this Act \[enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing section 107 of this title, and enacting provisions set out as a note under section 107 of this title\] shall apply to any fiscal year which begins on or after October 1, 1978.”
 
 #### Effective Date of 1969 Amendment
 
-Section 2 of Pub. L. 91–1 provided that: “The amendment made by this Act \[amending this section\] shall take effect at noon on January 20, 1969.”
+Pub. L. 91–1, §2, Jan. 17, 1969, 83 Stat. 3, provided that: “The amendment made by this Act \[amending this section\] shall take effect at noon on January 20, 1969.”
 
 #### Effective Date of 1951 Amendment
 
-Section 619(e) of act Oct. 20, 1951, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
+Act Oct. 20, 1951, ch. 521, title VI, §619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
 
 #### Effective Date of 1949 Amendment
 
@@ -66,7 +66,7 @@ Reports.—
 
 &emsp;“(1)
 
-In general.—The President of the United States, or the President's delegate, shall provide tothe Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
+In general.—The President of the United States, or the President's delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
 
 &emsp;“(2)
 
@@ -128,7 +128,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(7) Reimbursement to the postal revenues in amounts equivalent to the postage that would otherwise be payable on mail matter referred to in subsection (d) of this section.
 
-&emsp;“(8)(A)(i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problemsand challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
+&emsp;“(8)(A)(i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
 
 &emsp;“(ii) Activities under this paragraph may include interchange between such appointees and individuals who—
 
@@ -176,13 +176,13 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(ii) upon notification by the candidate of which such services and facilities such candidate will accept, shall, notwithstanding subsection (b), provide such services and facilities to the candidate during the period beginning on the date of the notification and ending on the date of the general elections described in subsection (b)(1).
 
-> The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 \[Pub. L. 108–458; 50 U.S.C. 435b note and 5 U.S.C. 1101 note\] provide additional services.
+> The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reformand Terrorism Prevention Act of 2004 \[Pub. L. 108–458; 50 U.S.C. 435b note and 5 U.S.C. 1101 note\] provide additional services.
 
 “(B) The Administrator shall provide the notice under subparagraph (A)(i) to each eligible candidate—
 
 &emsp;“(i) in the case of a candidate of a major party (as defined in section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\]), on one of the first 3 business days following the last nominating convention for such major parties; and
 
-&emsp;“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligiblecandidate (or, if later, at the same time as notice is provided under clause (i)).
+&emsp;“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligible candidate (or, if later, at the same time as notice is provided under clause (i)).
 
 “(C)(i) The Administrator shall, not later than 12 months before the date of each general election for President and Vice-President (beginning with the election to be held in 2012), prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
 
@@ -242,7 +242,7 @@ Sec. 4. The Administrator is authorized to provide, upon request, to each former
 
 “
 
-Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services undersection 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
 
 “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
 

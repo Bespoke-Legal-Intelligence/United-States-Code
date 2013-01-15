@@ -88,7 +88,7 @@ Amendment by Pub. L. 104–121 applicable to any individual who applies for, or 
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) ofPub. L. 103–296, set out as a note under section 1382 of this title.
+Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) of Pub. L. 103–296, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -96,33 +96,33 @@ Amendment by Pub. L. 101–508 applicable with respect to medical assistance pro
 
 #### Effective Date of 1987 Amendment
 
-Section 9108 of Pub. L. 100–203 provided that the amendment made by that section is effective July 1, 1987.
+Pub. L. 100–203, title IX, §9108, Dec. 22, 1987, 101 Stat. 1330–302, provided that the amendment made by that section is effective July 1, 1987.
 
-Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any individual without regard to whether the determination of his or her ineligibility for supplemental security income benefits by reason of the receipt of benefits under section 202 of the Social Security Act \[section 402 of this title\] (as described in section 1634(d)(2) of such Act \[subsec. (d)(2) of this section\]) occurred before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]; but no individual shall be eligible for assistance under title XIX of such Act \[subchapter XIX of this chapter\] by reason of such amendments for any period before July 1, 1988.”
+Pub. L. 100–203, title IX, §9116(e), Dec. 22, 1987, 101 Stat. 1330–306, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any individual without regard to whether the determination of his or her ineligibility for supplemental security income benefits by reason of the receipt of benefits under section 202 of the Social Security Act \[section 402 of this title\] (as described in section 1634(d)(2) of such Act \[subsec. (d)(2) of this section\]) occurred before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]; but no individual shall be eligible for assistance under title XIX of such Act \[subchapter XIX of this chapter\] by reason of such amendments for any period before July 1, 1988.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XII, §12202(c), Apr. 7, 1986, 100 Stat. 291, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Notice of Possible Eligibility for Medicaid Assistance
 
-Section 9116(b) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration, shall (within 3 months after the date of the enactment of this Act \[Dec. 22, 1987\]) issue a notice to all individuals who will have attained age 60 but not age 65 as of April 1, 1988, and who received supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] prior to attaining age 60 but lost those benefits by reason of the receipt of widow's or widower's insurance benefits (or other benefits as described in section 1634(d)(1) of that Act \[subsec. (d)(1) of this section\] as added by subsection (a) of this section) under title II of that Act \[subchapter II of this chapter\]. Each such notice shall set forth and explain the provisions of section 1634(d) of the Social Security Act (as so added), and shall inform the individual that he or she should contact the Secretary or the appropriate State agency concerning his or her possible eligibility for medical assistance benefits under such title XIX \[subchapter XIX of this chapter\].”
+Pub. L. 100–203, title IX, §9116(b), Dec. 22, 1987, 101 Stat. 1330–306, provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration, shall (within 3 months after the date of the enactment of this Act \[Dec. 22, 1987\]) issue a notice to all individuals who will have attained age 60 but not age 65 as of April 1, 1988, and who received supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] prior to attaining age 60 but lost those benefits by reason of the receipt of widow's or widower's insurance benefits (or other benefits as described in section 1634(d)(1) of that Act \[subsec. (d)(1) of this section\] as added by subsection (a) of this section) under title II of that Act \[subchapter II of this chapter\]. Each such notice shall set forth and explain the provisions of section 1634(d) of the Social Security Act (as so added), and shall inform the individual that he or she should contact the Secretary or the appropriate State agency concerning his or her possible eligibility for medical assistance benefits under such title XIX \[subchapter XIX of this chapter\].”
 
 #### State Determinations
 
-Section 9116(c) of Pub. L. 100–203 provided that: “Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency.”
+Pub. L. 100–203, title IX, §9116(c), Dec. 22, 1987, 101 Stat. 1330–306, provided that: “Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency.”
 
-Section 6(b) of Pub. L. 99–643 provided that: “Any determination required under section 1634(c) of the Social Security Act \[subsec. (c) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] in the absence of children's benefits (or an increase thereof) shall be made by the appropriate State agency.”
+Pub. L. 99–643, §6(b), Nov. 10, 1986, 100 Stat. 3578, provided that: “Any determination required under section 1634(c) of the Social Security Act \[subsec. (c) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] in the absence of children's benefits (or an increase thereof) shall be made by the appropriate State agency.”
 
 #### Identification of Potential Beneficiaries Under Subsection (b) of This Section
 
-Section 12202(b) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XII, §12202(b), Apr. 7, 1986, 100 Stat. 291, provided that:
 
 “(1) As soon as possible after the date of the enactment of this Act \[Apr. 7, 1986\], the Secretary of Health and Human Services shall provide each State with the names of all individuals receiving widow's or widower's insurance benefits under subsection (e) or (f) of section 202 of the Social Security Act \[section 402(e) or (f) of this title\] based on a disability who might qualify for medical assistance under the plan of that State approved under title XIX of such Act \[subchapter XIX of this chapter\] by reason of the application of section 1634(b) of the Social Security Act \[subsec. (b) of this section\].
 

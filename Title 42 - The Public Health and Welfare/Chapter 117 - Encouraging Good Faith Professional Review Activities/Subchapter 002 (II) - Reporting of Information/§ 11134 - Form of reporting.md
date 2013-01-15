@@ -6,7 +6,7 @@ The information required to be reported under sections 11131, 11132(a), and 1113
 
 #### (b) To whom reported
 
-The information required to be reported under sections 11131, 11132(a), and 11133(b) of this title shall be reported to the Secretary, or, in the Secretary's discretion, to an appropriate private or public agency which has made suitable arrangements with the Secretary with respect to receipt, storage, protection of confidentiality, and dissemination of the information under this subchapter.
+The information required to be reported under sections 11131, 11132(a), and 11133(b) of this titleshall be reported to the Secretary, or, in the Secretary's discretion, to an appropriate private or public agency which has made suitable arrangements with the Secretary with respect to receipt, storage, protection of confidentiality, and dissemination of the information under this subchapter.
 
 #### (c) Reporting to State licensing boards
 

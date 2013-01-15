@@ -156,7 +156,7 @@ For the purposes of delivering a State-based training and technical assistance s
 
 &emsp;(2) ensure that the entities described in subparagraph (1) determine the types of services to be provided through consultation with—
 
-&emsp;&emsp;(A) local Head Start agencies (including Indian Head Start agencies and migrant orseasonal Head Start agencies, as appropriate);
+&emsp;&emsp;(A) local Head Start agencies (including Indian Head Start agencies and migrant or seasonal Head Start agencies, as appropriate);
 
 &emsp;&emsp;(B) the State Head Start collaboration office; and
 
@@ -208,7 +208,7 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 #### (3) Application
 
-&emsp;Each historically Black college or university, Hispanic-serving institution, or Tribal College or University desiring a grant under this section shall submit an application, in partnership with at least 1 Head Start agency enrolling large numbers of students from the populations served by historically Black colleges and universities, Hispanic-serving institutions, or Tribal Colleges and Universities, tothe Secretary, at such time, in such manner, and containing such information as the Secretary may require, including a certification that the institution of higher education has established a formal partnership with 1 or more Head Start agencies for the purposes of conducting the activities described in paragraph (1).
+&emsp;Each historically Black college or university, Hispanic-serving institution, or Tribal College or University desiring a grant under this section shall submit an application, in partnership with at least 1 Head Start agency enrolling large numbers of students from the populations served by historically Black colleges and universities, Hispanic-serving institutions, or Tribal Colleges and Universities, to the Secretary, at such time, in such manner, and containing such information as the Secretary may require, including a certification that the institution of higher education has established a formal partnership with 1 or more Head Start agencies for the purposes of conducting the activities described in paragraph (1).
 
 #### (4) Definitions
 
@@ -276,7 +276,7 @@ Subsec. (e). Pub. L. 103–252, §114(3), redesignated last sentence of subsec. 
 
 Subsecs. (c), (d). Pub. L. 102–586, §7(b)(2), added subsecs. (c) and (d).
 
-<b>1990</b>—Pub. L. 101–501 substituted “Technical assistance, training, and staff qualifications” for “Technical assistance and training” in section catchline, designated existing provisions as subsec. (a), inserted“training for personnel providing services to non-English language background children,” after “such personnel,” in cl. (2), and added subsec. (b).
+<b>1990</b>—Pub. L. 101–501 substituted “Technical assistance, training, and staff qualifications” for “Technical assistance and training” in section catchline, designated existing provisions as subsec. (a), inserted “training for personnel providing services to non-English language background children,” after “such personnel,” in cl. (2), and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–558 substituted “shall” for “may” and inserted provision including a centralized child development training and national assessment program.
 
@@ -294,7 +294,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Head Start Training Improvement
 
-Section 7(a) of Pub. L. 102–586 provided that: “It is the purpose of this section—
+Pub. L. 102–586, §7(a), Nov. 4, 1992, 106 Stat. 5034, provided that: “It is the purpose of this section—
 
 &emsp;“(1) to promote continued access for Head Start and other early childhood staff to the Child Development Associate credential;
 

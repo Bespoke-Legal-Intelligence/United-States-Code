@@ -6,7 +6,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
-&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
+&emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmentalconditions that affect the protection and management of forests and rangelands.
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
@@ -50,7 +50,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) discussing existing information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) outlining the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on the health and productivity of forest ecosystems;
+&emsp;&emsp;(ii) outlining the findings and status of all current research and monitoring efforts in North America and Europe on the causes andeffects of atmospheric pollution on the health and productivity of forest ecosystems;
 
 &emsp;&emsp;(iii) describing the Program; and
 
@@ -126,7 +126,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (C) Compilation of inventory
 
-&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to the public a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
+&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to thepublic a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
 
 #### (3) 5-year reports
 
@@ -200,11 +200,11 @@ Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[tit
 
 #### Southern Forest Regeneration Program
 
-Section 1242 of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XII, §1242, Nov. 28, 1990, 104 Stat. 3545, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States.
+Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment,within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States.
 
 “(b)
 
@@ -226,7 +226,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Semiarid Agroforestry Research Center
 
-Section 1243 of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XII, §1243, Nov. 28, 1990, 104 Stat. 3546, provided that:
 
 “(a)
 
@@ -272,7 +272,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $5,00
 
 #### Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings
 
-Section 2 of Pub. L. 100–521 provided that: “Congress finds that—
+Pub. L. 100–521, §2, Oct. 24, 1988, 102 Stat. 2601, provided that: “Congress finds that—
 
 &emsp;“(1) the health and productivity of forests in certain regions of the United States are declining;
 

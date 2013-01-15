@@ -98,5 +98,5 @@ Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1947, provided in part: “
 
 #### Connections to Pipeline in South Barrow Gas Field
 
-Section 3 of Pub. L. 87–599 provided that: “The Federal agency or agencies in control of any pipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
+Pub. L. 87–599, §3, Aug. 24, 1962, 76 Stat. 401, provided that: “The Federal agency or agencies in control of anypipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
 

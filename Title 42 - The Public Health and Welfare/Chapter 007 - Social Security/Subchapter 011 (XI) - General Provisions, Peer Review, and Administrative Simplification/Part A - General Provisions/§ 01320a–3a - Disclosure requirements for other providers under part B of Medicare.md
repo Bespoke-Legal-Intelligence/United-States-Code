@@ -24,7 +24,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 &emsp;The Secretary shall transmit—
 
-&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social securityaccount number (assigned under section 405(c)(2)(B) of this title), and
+&emsp;&emsp;(A) to the Commissioner of Social Security information concerning each social security account number (assigned under section 405(c)(2)(B) of this title), and
 
 &emsp;&emsp;(B) to the Secretary of the Treasury information concerning each employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986),
 
@@ -78,11 +78,11 @@ Amendment by section 4313(b) of Pub. L. 105–33 applicable to payment for items
 
 #### Effective Date of 1994 Amendment
 
-Section 147(g) of Pub. L. 103–432 provided that: “Except as otherwise provided in this section \[amending this section and sections 1320b–5, 1395<i>l</i>, 1395p, 1395q, 1395x, 1395y, and 1395cc of this title, enacting provisions set out as notes under sections 1395<i>l</i>, 1395p, and 1395y of this title, amending provisions set out as notes under this section and sections 254b, 1395<i>l</i>, and 1395u of this title, and repealing provisions set out as a note under section 1395<i>l</i> of this title\], the amendments made by this section shall take effect as if included in the enactment of OBRA–1990 \[Pub L. 101–508\].”
+Pub. L. 103–432, title I, §147(g), Oct. 31, 1994, 108 Stat. 4432, provided that: “Except as otherwise provided in this section \[amending this section and sections 1320b–5, 1395l, 1395p, 1395q, 1395x, 1395y, and 1395cc of this title, enacting provisions set out as notes under sections 1395l, 1395p, and 1395y of this title, amending provisions set out as notes under this section and sections 254b, 1395l, and 1395u of this title, and repealing provisions set out as a note under section 1395l of this title\], the amendments made by this section shall take effect as if included in the enactment of OBRA–1990 \[Pub L. 101–508\].”
 
 #### Effective Date
 
-Section 4164(b)(4) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §147(f)(7)(A)(ii), Oct. 31, 1994, 108 Stat. 4432, provided that: “The amendments made by paragraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
+Pub. L. 101–508, title IV, §4164(b)(4), Nov. 5, 1990, 104 Stat. 1388–102, as amended by Pub. L. 103–432, title I, §147(f)(7)(A)(ii), Oct. 31, 1994, 108 Stat. 4432, provided that: “The amendments made by paragraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
 
 &emsp;“(A) January 1, 1993, in the case of items or services furnished by a provider who, on or before the date of the enactment of this Act \[Nov. 5, 1990\], has furnished items or services for which payment may be made under part B of title XVIII of the Social Security Act \[part B of subchapter XVIII of this chapter\]; or
 

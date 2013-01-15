@@ -1,8 +1,8 @@
 ### §4107. Consultation with local officials; scope
 
-In carrying out his responsibilities under the provisions of this title <sup>1</sup> and the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] which relate to notification to and identification of flood-prone areas and the application of criteria for land management and use, including criteria derived from data reflecting new developments that may indicate the desirability of modifying elevations based on previous flood studies, the Director shall establish procedures assuring adequate consultation with the appropriate elected officials of general purpose local governments, including but not limited to those local governments whose prior eligibility under the program has been suspended. Such consultation shall include, but not be limited to, fully informing local officials at the commencement of any flood elevation study or investigation undertaken by any agency on behalf of the Director concerning the nature and purpose of the study, the areas involved, the manner in which the study is to be undertaken, the general principles to be applied, and the use to be made of the data obtained. The Director shall encourage local officials to disseminate information concerning such study widely within the community, so that interested persons will have an opportunity to bring all relevant facts and technical data concerning the local flood hazard to the attention of the agency during the course of the study.
+In carrying out his responsibilities under the provisions of this title <sup>1</sup> and the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] which relate to notification to and identification of flood-prone areas and the application of criteria for land management and use, including criteria derived from data reflecting new developments that may indicate the desirability of modifying elevations based on previous flood studies, the Administrator shall establish procedures assuring adequate consultation with the appropriate elected officials of general purpose local governments, including but not limited to those local governments whose prior eligibility under the program has been suspended. Such consultation shall include, but not be limited to, fully informing local officials at the commencement of any flood elevation study or investigation undertaken by any agency on behalf of the Administrator concerning the nature and purpose of the study, the areas involved, the manner in which the study is to be undertaken, the general principles to be applied, and the use to be made of the data obtained. The Administrator shall encourage local officials to disseminate information concerning such study widely within the community, so that interested persons will have an opportunity to bring all relevant facts and technical data concerning the local flood hazard to the attention of the agency during the course of the study.
 
-(Pub. L. 93–234, title II, §206, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 93–234, title II, §206, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(a)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
@@ -12,9 +12,11 @@ The National Flood Insurance Act of 1968, referred to in text, is title XIII of 
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
 
 <b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 

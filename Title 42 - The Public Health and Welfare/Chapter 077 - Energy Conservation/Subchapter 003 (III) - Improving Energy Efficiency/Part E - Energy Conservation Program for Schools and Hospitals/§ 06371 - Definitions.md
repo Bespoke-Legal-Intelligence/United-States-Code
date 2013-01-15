@@ -134,11 +134,11 @@ Par. (17)(A). Pub. L. 101–440, §6(b)(5), substituted “or energy cost saving
 
 #### Separability
 
-Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
+Pub. L. 95–619, title III, §302(c), Nov. 9, 1978, 92 Stat. 3248, provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Congressional Statement of Findings and Purposes
 
-Section 301 of part 1 of title III of Pub. L. 95–619 provided:
+Pub. L. 95–619, title III, §301, Nov. 9, 1978, 92 Stat. 3238, provided:
 
 “(a)
 
@@ -154,5 +154,5 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this part \[enacting sections 6371 to 6371i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section\] to authorize grants to States and to public and nonprofit schools and hospitals to assist them in identifying and implementing energy conservation maintenance and operating procedures and in evaluating, acquiring, and installing energy conservation measures to reduce the energy use and anticipated energy costs of schools and hospitals.”
+Purpose.—It is the purpose of this part \[part 1 (§§301–303) of title III of Pub. L. 95–619, enacting sections 6371 to 6371i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section\] to authorize grants to States and to public and nonprofit schools and hospitals to assist them in identifying and implementing energy conservation maintenance and operating procedures and in evaluating, acquiring, and installing energy conservation measures to reduce the energy use and anticipated energy costs of schools and hospitals.”
 

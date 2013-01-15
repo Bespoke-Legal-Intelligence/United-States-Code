@@ -24,7 +24,7 @@ The purchaser of property under this chapter shall be presumed to be a bona fide
 
 #### (2) Certain provisions
 
-&emsp;Section 1710(<i>l</i>) of this title and section 1452c of title 42 shall not apply to mortgages foreclosed under this chapter.
+&emsp;Section 1710(l) of this title and section 1452c of title 42 shall not apply to mortgages foreclosed under this chapter.
 
 #### (f) Taxes
 

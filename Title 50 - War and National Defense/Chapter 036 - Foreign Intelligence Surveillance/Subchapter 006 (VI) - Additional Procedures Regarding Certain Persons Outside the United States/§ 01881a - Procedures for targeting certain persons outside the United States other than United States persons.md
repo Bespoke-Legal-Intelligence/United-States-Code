@@ -42,13 +42,13 @@ An acquisition authorized under subsection (a)—
 
 #### (4) Construction
 
-&emsp;Nothing in subchapter I shall be construed to require an application for a court order under such subchapter for an acquisition that is targeted in accordance with this section at a person reasonably believed to be located outside the United States.
+&emsp;Nothing in subchapter I shall be construed to require an application for a court orderunder such subchapter for an acquisition that is targeted in accordance with this section at a person reasonably believed to be located outside the United States.
 
 #### (d) Targeting procedures
 
 #### (1) Requirement to adopt
 
-&emsp;The Attorney General, in consultation with the Director of National Intelligence, shalladopt targeting procedures that are reasonably designed to—
+&emsp;The Attorney General, in consultation with the Director of National Intelligence, shall adopt targeting procedures that are reasonably designed to—
 
 &emsp;&emsp;(A) ensure that any acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be located outside the United States; and
 
@@ -274,7 +274,7 @@ An acquisition authorized under subsection (a)—
 
 #### (C) Minimization procedures
 
-&emsp;&emsp;The minimization procedures adopted in accordance with subsection (e) to assesswhether such procedures meet the definition of minimization procedures under section 1801(h) of this title or section 1821(4) of this title, as appropriate.
+&emsp;&emsp;The minimization procedures adopted in accordance with subsection (e) to assess whether such procedures meet the definition of minimization procedures under section 1801(h) of this title or section 1821(4) of this title, as appropriate.
 
 #### (3) Orders
 
@@ -350,7 +350,7 @@ An acquisition authorized under subsection (a)—
 
 &emsp;The Attorney General and the Director of National Intelligence shall retain a directive or an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
 
-#### (<i>l</i>) Assessments and reviews
+#### (l) Assessments and reviews
 
 #### (1) Semiannual assessment
 
@@ -402,7 +402,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Use of review
 
-&emsp;&emsp;The head of each element of the intelligence community that conducts an annual review under subparagraph (A) shall use each such review to evaluate the adequacy of the minimization procedures utilized by such element and, as appropriate, the application of the minimization procedures to a particular acquisition authorized under subsection (a).
+&emsp;&emsp;The head of each element of the intelligence community that conducts an annual review under subparagraph (A) shall use each such review to evaluate the adequacy of the minimization procedures utilized by such element and, as appropriate, the application of the minimization procedures to aparticular acquisition authorized under subsection (a).
 
 #### (C) Provision of review
 
@@ -424,15 +424,15 @@ An acquisition authorized under subsection (a)—
 
 #### Repeal of Section
 
-<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2012, this section is repealed.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2017, this section is repealed.</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Senate Resolution 400 of the 94th Congress, referred to in subsec. (<i>l</i>), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
+Senate Resolution 400 of the 94th Congress, referred to in subsec. (l), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
 
 #### Effective Date of Repeal
 
-Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2012.
+Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
 

@@ -26,9 +26,9 @@ Employee Transportation.—(1) In this subsection, “rail carrier employee” m
 
 (2) Amtrak shall ensure that a rail carrier employee eligible for free or reduced-rate rail transportation on April 30, 1971, under an agreement in effect on that date is eligible, to the greatest extent practicable, for free or reduced-rate intercity rail passenger transportation provided by Amtrak under this part, if space is available, on terms similar to those available on that date under the agreement. However, Amtrak may apply to all rail carrier employees eligible to receive free or reduced-rate transportation under any agreement a single systemwide schedule of terms that Amtrak decides applied to a majority of employees on that date under all those agreements. Unless Amtrak and a rail carrier make a different agreement, the carrier shall reimburse Amtrak at the rate of 25 percent of the systemwide average monthly yield of each revenue passenger-mile. The reimbursement is in place of costs Amtrak incurs related to free or reduced-rate transportation, including liability related to travel of a rail carrier employee eligible for free or reduced-rate transportation.
 
-(3) This subsection does not prohibit the Interstate Commerce Commission from ordering retroactive relief in a proceeding begun or reopened after October 1, 1981.
+(3) This subsection does not prohibit the Surface Transportation Board from ordering retroactive relief in a proceeding begun or reopened after October 1, 1981.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 911; Pub. L. 105–134, title IV, §406(b), Dec. 2, 1997, 111 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 911; Pub. L. 105–134, title IV, §406(b), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 112–141, div. C, title II, §32932(c)(1), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -68,6 +68,8 @@ In subsection (c)(2), the words “take such action as may be necessary to”, �
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(3). Pub. L. 112–141 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+
 <b>1997</b>—Subsecs. (b), (c). Pub. L. 105–134 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
 “(b)
@@ -83,6 +85,10 @@ Actions To Ensure Access.—Amtrak may act to ensure access to intercity transpo
 &emsp;“(4) eliminating barriers in existing equipment and facilities to comply with the highest standards of design, construction, and alteration of property to accommodate elderly and handicapped individuals; and
 
 &emsp;“(5) providing special assistance to elderly and handicapped individuals when getting on and off trains and in terminal areas.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Accessibility by Individuals With Disabilities
 
@@ -107,8 +113,4 @@ Access improvements at certain shared stations.—Amtrak is responsible for its 
 “(2)
 
 Certain requirements not to apply until 1998.—Amtrak shall not be subject to any requirement under subsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 (42 U.S.C. 12162) until January 1, 1998.”
-
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
-
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 

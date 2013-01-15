@@ -12,7 +12,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 &emsp;&emsp;(C) $7.25 an hour, beginning 24 months after that 60th day;
 
-&emsp;(2) if such employee is a home worker in Puerto Rico or the Virgin Islands, not less than the minimum piece rate prescribed by regulation or order; or, if no such minimum piece rate is in effect, any piece rate adopted by such employer which shall yield, to the proportion or class of employees prescribed by regulation or order, not less than the applicable minimum hourly wage rate. Such minimum piece rates or employer piece rates shall be commensurate with, and shall be paid in lieu of, the minimum hourly wage rate applicable under the provisions of this section. The Administrator, or his authorized representative, shall have power to make such regulations or orders as are necessary or appropriate to carry out any of the provisions of this paragraph, including the power without limiting the generality of the foregoing, to define any operation or occupation which is performed by such home work employees in Puerto Rico or the Virgin Islands; to establish minimum piece rates for any operation or occupation so defined; to prescribe the method and procedure for ascertaining and promulgating minimum piece rates; to prescribe standards for employer piece rates, including the proportion or class of employees who shall receive not less than the minimum hourly wage rate; to define the term “home worker”; and to prescribe the conditions under which employers, agents, contractors, and subcontractors shall cause goods to be produced by home workers;
+&emsp;(2) if such employee is a home worker in Puerto Rico or the Virgin Islands, not less than the minimum piece rate prescribed by regulation or order; or, if no such minimum piece rate is in effect, any piece rate adopted by such employer which shall yield, to the proportion or class of employees prescribed by regulation or order, not less than the applicable minimum hourly wage rate. Such minimum piece rates or employer piece rates shallbe commensurate with, and shall be paid in lieu of, the minimum hourly wage rate applicable under the provisions of this section. The Administrator, or his authorized representative, shall have power to make such regulations or orders as are necessary or appropriate to carry out any of the provisions of this paragraph, including the power without limiting the generality of the foregoing, to define any operation or occupation which is performed by such home work employees in Puerto Rico or the Virgin Islands; to establish minimum piece rates for any operation or occupation so defined; to prescribe the method and procedure for ascertaining and promulgating minimum piece rates; to prescribe standards for employer piece rates, including the proportion or class of employees who shall receive not less than the minimum hourly wage rate; to define the term “home worker”; and to prescribe the conditions under which employers, agents, contractors, and subcontractors shall cause goods to be produced by home workers;
 
 &emsp;(3) if such employee is employed as a seaman on an American vessel, not less than the rate which will provide to the employee, for the period covered by the wage payment, wages equal to compensation at the hourly rate prescribed by paragraph (1) of this subsection for all hours during such period when he was actually on duty (including periods aboard ship when the employee was on watch or was, at the direction of a superior officer, performing work or standing by, but not including off-duty periods which are provided pursuant to the employment agreement); or
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 101–157, §4(b)(2), amended subsec. (c) generally, substi
 
 Subsec. (f)(1). Pub. L. 101–239 substituted “209(a)(6)” for “209(g)”.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–151, §2(a), substituted “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 1, 1980” for “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–151, §2(a), substituted “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and notless than $3.35 an hour after December 1, 1980” for “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975”.
 
 Subsec. (a)(5). Pub. L. 95–151, §2(b), substituted provisions for a minimum wage rate of not less than the minimum wage rate in effect under par. (1) after Dec. 31, 1977, for provisions for a minimum wage rate of not less than $1.60 an hour during the period ending Dec. 31, 1974, $1.80 an hour during the year beginning Jan. 1, 1975, $2 an hour during the year beginning Jan. 1, 1976, $2.20 an hour during the year beginning Jan. 1, 1977, and $2.30 an hour after Dec. 31, 1977.
 
@@ -138,7 +138,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 “(3) In the case of any such employee to whom subsection (a)(5) or subsection (b) of this section would otherwise apply, the Secretary shall within sixty days after the effective date of the Fair Labor Standards Amendments of 1966 appoint a special industry committee in accordance with section 205 of this title to recommend the highest minimum wage rate or rates in accordance with the standards prescribed by section 208 of this title, but not in excess of the applicable rate provided by subsection (a)(5) or subsection (b) of this section, to be applicable to such employee in lieu of the rate or rates prescribed by subsection (a)(5) or subsection (b) of this section, as the case may be. The rate or rates recommended by the special industry committee shall be effective with respect to such employee upon the effective date of the wage order issued pursuant to such recommendation but not before sixty days after the effective date of the Fair Labor Standards Amendments of 1966.
 
-“(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimumwage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b) of this section) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee.”
+“(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b) of this section) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee.”
 
 Subsec. (f). Pub. L. 93–259, §7(b)(1), added subsec. (f).
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 95–151 effective Jan. 1, 1978, see section 15(a) of Pub. 
 
 Amendment by sections 2 to 4 and 7(b)(1) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
 
-Section 5(b) of Pub. L. 93–259 provided that the amendment made by that section is effective Apr. 8, 1974.
+Pub. L. 93–259, §5(b), Apr. 8, 1974, 88 Stat. 56, provided that the amendment made by that section is effective Apr. 8, 1974.
 
 #### Effective Date of 1966 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Effective Date of 1963 Amendment
 
-Section 4 of Pub. L. 88–38 provided that: “The amendments made by this Act \[amending this section and enacting provisions set out below\] shall take effect upon the expiration of one year from the date of its enactment \[June 10, 1963\]: <i>Provided</i>, That in the case of employees covered by a bona fide collective bargaining agreement in effect at least thirty days prior to the date of enactment of this Act \[June 10, 1963\], entered into by a labor organization as defined in section 6(d)(4) of the Fair Labor Standards Act of 1938, as amended \[subsec. (d)(4) of this section\], the amendments made by this Act shall take effect upon the termination of such collective bargaining agreement or upon the expiration of two years from the date of enactment of this Act \[June 10, 1963\], whichever shall first occur.”
+Pub. L. 88–38, §4, June 10, 1963, 77 Stat. 57, provided that: “The amendments made by this Act \[amending this section and enacting provisions set out below\] shall take effect upon the expiration of one year from the date of its enactment \[June 10, 1963\]: <i>Provided</i>, That in the case of employees covered by a bona fide collective bargaining agreement in effect at least thirty days prior to the date of enactment of this Act \[June 10, 1963\], entered into by a labor organization as defined in section 6(d)(4) of the Fair Labor Standards Act of 1938, as amended \[subsec. (d)(4) of this section\], the amendments made by this Act shall take effect upon the termination of such collective bargaining agreement or upon the expiration of two years from the date of enactment of this Act \[June 10, 1963\], whichever shall first occur.”
 
 #### Effective Date of 1961 Amendment
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 
 #### Effective Date of 1955 Amendment
 
-Section 3 of act Aug. 12, 1955, provided that the amendment made by that section is effective Mar. 1, 1956.
+Act Aug. 12, 1955, ch. 867, §3, 69 Stat. 711, provided that the amendment made by section 3 is effective Mar. 1, 1956.
 
 #### Effective Date of 1949 Amendment
 
@@ -216,13 +216,13 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Transfer of Functions
 
-Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage andHour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
 
-Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, §520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, §2(a), Sept. 30, 2010, 124 Stat. 2618, provided that:
+Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, §520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, §2(a), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, §4(a), July 26, 2012, 126 Stat. 1145, provided that:
 
 “(a)
 
@@ -244,15 +244,15 @@ Transition.—Notwithstanding subsection (a)—
 
 &emsp;&emsp;“(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and
 
-&emsp;&emsp;“(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that there shall be no such increase in 2010 or 2011 and, beginning in 2012 and each year thereafter, such increase shall occur on September 30.”
+&emsp;&emsp;“(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and on September 30 of every third year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that there shall be no such increase in 2012, 2013, and 2014 pending the triennial report required under section 8104(a) \[set out below\].”
 
 #### Report on the Impact of Past and Future Minimum Wage Increases
 
-Pub. L. 110–28, title VIII, §8104, May 25, 2007, 121 Stat. 189, as amended by Pub. L. 111–5, div. A, title VIII, §802(a), Feb. 17, 2009, 123 Stat. 186; Pub. L. 111–244, §2(b), Sept. 30, 2010, 124 Stat. 2618, provided that:
+Pub. L. 110–28, title VIII, §8104, May 25, 2007, 121 Stat. 189, as amended by Pub. L. 111–5, div. A, title VIII, §802(a), Feb. 17, 2009, 123 Stat. 186; Pub. L. 111–244, §2(b), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, §4(b), July 26, 2012, 126 Stat. 1145, provided that:
 
 “(a)
 
-Report.—The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of Pub. L. 110–28, amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2013, and every 2 years thereafter until the minimum wage in the respective territory meets the federal minimum wage.
+Report.—The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of Pub. L. 110–28, amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2014, and every 3 years thereafter until the minimum wage in the respective territory meets the federal minimum wage.
 
 “(b)
 
@@ -308,7 +308,7 @@ Limitations.—
 
 &emsp;“(1)
 
-Employee hours.—During any month in which employees are to be employed in an establishmentunder this section, the proportion of employee hours of employment to the total hours of employment of all employees in such establishment may not exceed a proportion equal to one-fourth of the total hours of employment of all employees in such establishment.
+Employee hours.—During any month in which employees are to be employed in an establishment under this section, the proportion of employee hours of employment to the total hours of employment of all employees in such establishment may not exceed a proportion equal to one-fourth of the total hours of employment of all employees in such establishment.
 
 &emsp;“(2)
 
@@ -424,7 +424,7 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Congressional Finding and Declaration of Policy
 
-Section 2 of Pub. L. 88–38 provided that:
+Pub. L. 88–38, §2, June 10, 1963, 77 Stat. 56, provided that:
 
 “(a) The Congress hereby finds that the existence in industries engaged in commerce or in the production of goods for commerce of wage differentials based on sex—
 

@@ -106,7 +106,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;In the cases described in paragraph (1), notwithstanding the provisions of paragraph (2)(C), the succeeding subparagraphs of this paragraph shall apply with respect to an action under this subsection by the Secretary with respect to any failure of a health insurance issuer in connection with a group health plan, to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 2702 <sup>1</sup> or section 2701 <sup>1</sup> or 2702(b)(1) <sup>1</sup> with respect to genetic information in connection with the plan.
+&emsp;&emsp;In the cases described in paragraph (1), notwithstanding the provisions of paragraph (2)(C), the succeeding subparagraphs of this paragraph shall apply with respect to an action under this subsection by the Secretarywith respect to any failure of a health insurance issuer in connection with a group health plan, to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 2702 <sup>1</sup> or section 2701 <sup>1</sup> or 2702(b)(1) <sup>1</sup> with respect to genetic information in connection with the plan.
 
 #### (B) Amount
 
@@ -182,7 +182,7 @@ A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is cla
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(13)(A)(i), formerly §1562(c)(13)(A)(i), as renumbered by Pub. L.111–148, §10107(b)(1), substituted “individual or group market” for “small or large group markets”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(13)(A)(i), formerly §1562(c)(13)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual or group market” for “small or large group markets”.
 
 Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted “or individual health insurance coverage” after “group health plans”.
 

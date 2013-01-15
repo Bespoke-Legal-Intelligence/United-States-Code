@@ -54,7 +54,7 @@ For purposes of this chapter—
 
 &emsp;The term “proration unit” means—
 
-&emsp;&emsp;(A) any portion of a reservoir, as designated by the State or Federal agency having regulatory jurisdiction with respect to production from such reservoir, which will be effectively and efficiently drained by a single well;
+&emsp;&emsp;(A) any portion of a reservoir, as designated by the State or Federal agency having regulatory jurisdiction with respect to production from such reservoir, which willbe effectively and efficiently drained by a single well;
 
 &emsp;&emsp;(B) any drilling unit, production unit, or comparable arrangement, designated or recognized by the State or Federal agency having jurisdiction with respect to production from the reservoir, to describe that portion of such reservoir which will be effectively and efficiently drained by a single well; or
 
@@ -124,7 +124,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(iii) natural gas which, but for this clause, would be committed or dedicated to interstate commerce under subparagraph (A)(ii) by reason of the action of any person (including any successor in interest thereof, other than by means of any reversion of a leasehold interest), if on May 31, 1978—
 
-&emsp;&emsp;&emsp;&emsp;(I) neither that person, nor any affiliate thereof, had any right to explore for, develop, produce, or sell such natural gas; and
+&emsp;&emsp;&emsp;&emsp;(I) neither that person, nor any affiliate thereof, had any right to explore for,develop, produce, or sell such natural gas; and
 
 &emsp;&emsp;&emsp;&emsp;(II) such natural gas was not being sold in interstate commerce (within the meaning of the Natural Gas Act \[15 U.S.C. 717 et seq.\]) for resale (other than any sale described in clause (i)(I), (II), or (III)).
 
@@ -186,7 +186,7 @@ For purposes of this chapter—
 
 #### (29) Mcf
 
-&emsp;The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of naturalgas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
+&emsp;The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of natural gas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
 
 #### (30) Btu
 
@@ -218,7 +218,7 @@ For purposes of this chapter—
 
 #### (37) Antitrust laws
 
-&emsp;The term “Federal antitrust laws” means the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), the Federal Trade Commission Act (15 U.S.C. 41 et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8–9), and the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
+&emsp;The term “Federal antitrust laws” means the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), theFederal Trade Commission Act (15 U.S.C. 41 et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8–9), and the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
 
 (Pub. L. 95–621, §2, Nov. 9, 1978, 92 Stat. 3352.)
 
@@ -242,5 +242,5 @@ Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 95–621 provided that: “This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
+Pub. L. 95–621, §1, Nov. 9, 1978, 92 Stat. 3351, provided that: “This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
 

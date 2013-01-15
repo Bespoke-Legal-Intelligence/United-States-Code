@@ -10,5 +10,5 @@ Each fiscal year (beginning with fiscal year 1977), the Secretary of State may u
 
 #### Effective Date of 1978 Amendment
 
-Section 110(b) of Pub. L. 95–426 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §110(b), Oct. 7, 1978, 92 Stat. 967, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
 

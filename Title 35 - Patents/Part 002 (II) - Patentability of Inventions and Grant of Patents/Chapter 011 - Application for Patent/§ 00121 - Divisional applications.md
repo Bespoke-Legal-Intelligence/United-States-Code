@@ -1,14 +1,8 @@
 ### §121. Divisional applications
 
-If two or more independent and distinct inventions are claimed in one application, the Director may require the application to be restricted to one of the inventions. If the other invention is made the subject of a divisional application which complies with the requirements of section 120 of this title it shall be entitled to the benefit of the filing date of the original application. A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such a requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application. If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor. The validity of a patent shall not be questioned for failure of the Director to require the application to be restricted to one invention.
+If two or more independent and distinct inventions are claimed in one application, the Director may require the application to be restricted to one of the inventions. If the other invention is made the subject of a divisional application which complies with the requirements of section 120 it shall be entitled to the benefit of the filing date of the original application. A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such a requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application. The validity of a patent shall not be questioned for failure of the Director to require the application to be restricted to one invention.
 
 (July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§4(a)(2), 20(j), Sept. 16, 2011, 125 Stat. 295, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
-
-<i>Pub. L. 112–29, §4(a)(2), (e), Sept. 16, 2011, 125 Stat. 295, 297, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this section is amended by striking “If a divisional application” and all that follows through “inventor.” See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -28,9 +22,9 @@ Pub. L. 112–29, §4(a)(2), struck out “If a divisional application is direct
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 4(a)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginningon Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, see section 4(e) of Pub. L. 112–29, set out as a note under section 111 of this title.
+Amendment by section 4(a)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, see section 4(e) of Pub. L. 112–29, set out as a note under section 111 of this title.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

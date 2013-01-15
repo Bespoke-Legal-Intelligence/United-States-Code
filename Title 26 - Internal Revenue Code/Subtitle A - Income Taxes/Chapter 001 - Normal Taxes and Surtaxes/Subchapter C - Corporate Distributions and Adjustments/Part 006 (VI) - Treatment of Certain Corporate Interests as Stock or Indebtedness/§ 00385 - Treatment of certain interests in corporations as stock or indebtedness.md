@@ -32,7 +32,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 &emsp;The Secretary is authorized to require such information as the Secretary determines to be necessary to carry out the provisions of this subsection.
 
-(Added Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 101–239, title VII, §7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, §1936(a), Oct. 24, 1992, 106 Stat. 3032.)
+(Added Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, §1936(a), Oct. 24, 1992, 106 Stat. 3032.)
 
 #### Amendments
 
@@ -44,9 +44,9 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### Effective Date of 1992 Amendment
 
-Section 1936(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XIX, §1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Regulations Not To Be Applied Retroactively
 
-Section 7208(a)(2) of Pub. L. 101–239 provided that: “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) \[amending this section\] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
+Pub. L. 101–239, title VII, §7208(a)(2), Dec. 19, 1989, 103 Stat. 2337, provided that: “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) \[amending this section\] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
 

@@ -28,7 +28,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(E) for planning, administration, and educational activities related to the prevention of abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs;
 
-&emsp;&emsp;(F) for the monitoring and evaluation of prevention activities relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and reporting and disseminating resulting information to the public; and
+&emsp;&emsp;(F) for the monitoring and evaluation of prevention activities relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and reportingand disseminating resulting information to the public; and
 
 &emsp;&emsp;(G) for targeted pilot programs with evaluation components to encourage innovation and experimentation with new methodologies.
 

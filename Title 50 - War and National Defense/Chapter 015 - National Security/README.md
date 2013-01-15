@@ -96,8 +96,8 @@
 | 404n–2. | Terrorist Identification Classification System. |
 | 404n–3. | Repealed. |
 | 404<i>o.</i> | National Counterterrorism Center. |
-| 404<i>o</i>–1. | National Counter Proliferation Center. |
-| 404<i>o</i>–2. | National Intelligence Centers. |
+| 404o–1. | National Counter Proliferation Center. |
+| 404o–2. | National Intelligence Centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,7 +123,7 @@
 
 |  |  |
 | :--- | ---: |
-| [413\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413%20-%20General%20Congressional%20oversight%20provisions.md) | General Congressional oversight provisions. |
+| [413\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413%20-%20General%20congressional%20oversight%20provisions.md) | General congressional oversight provisions. |
 | [413a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413a%20-%20Reporting%20of%20intelligence%20activities%20other%20than%20covert%20actions.md) | Reporting of intelligence activities other than covert actions. |
 | [413b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md) | Presidential approval and reporting of covert actions. |
 | [413c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413c%20-%20Communications%20with%20the%20Committees%20on%20Armed%20Services%20of%20the%20Senate%20and%20the%20House%20of%20Representatives.md) | Communications with the Committees on Armed Services of the Senate and the House of Representatives. |
@@ -153,7 +153,7 @@
 | :--- | ---: |
 | [421\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000421%20-%20Protection%20of%20identities%20of%20certain%20United%20States%20undercover%20intelligence%20officers%2C%20agents%2C%20informants%2C%20and%20sources.md) | Protection of identities of certain United States undercover intelligence officers, agents, informants, and sources. |
 | [422\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000422%20-%20Defenses%20and%20exceptions.md) | Defenses and exceptions. |
-| [423\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000423%20-%20Report.md) | Report. |
+| [423\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000423%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93277%2C%20title%20III%2C%20%C2%A7310%28a%29%284%29%28A%29%2C%20Jan.%2014%2C%202013%2C%20126%20Stat.%202475.md) | Repealed. |
 | [424\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000424%20-%20Extraterritorial%20jurisdiction.md) | Extraterritorial jurisdiction. |
 | [425\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000425%20-%20Providing%20information%20to%20Congress.md) | Providing information to Congress. |
 | [426\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000426%20-%20Definitions.md) | Definitions. |

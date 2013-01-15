@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;(4) “leased motor vehicle” means a motor vehicle leased to a person for at least 4 months by a lessor that leased at least 5 vehicles during the prior 12 months.
 
-&emsp;(5) “odometer” means an instrument for measuring and recording the distance a motor vehicle is driven, but does not include an auxiliary instrument designed to be reset by the operator of the vehicle to record mileage of a trip.
+&emsp;(5) “odometer” means an instrument or system of components for measuring and recording the distance a motor vehicle is driven, but does not include an auxiliary instrument or system of components designed to be reset by the operator of the vehicle to record mileage of a trip.
 
 &emsp;(6) “repair” and “replace” mean to restore to a sound working condition by replacing any part of an odometer or by correcting any inoperative part of an odometer.
 
@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;(8) “transfer” means to change ownership by sale, gift, or any other means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1048; Pub. L. 104–287, §5(61), Oct. 11, 1996, 110 Stat. 3394.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1048; Pub. L. 104–287, §5(61), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 112–141, div. C, title I, §31205(a), July 6, 2012, 126 Stat. 760.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,13 @@ This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1
 
 #### Amendments
 
+<b>2012</b>—Par. (5). Pub. L. 112–141, which directed insertion of “or system of components” after “instrument”, was executed by making the insertion after “instrument” both places it appeared.
+
 <b>1996</b>—Par. (8). Pub. L. 104–287 inserted “any” after “or”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 

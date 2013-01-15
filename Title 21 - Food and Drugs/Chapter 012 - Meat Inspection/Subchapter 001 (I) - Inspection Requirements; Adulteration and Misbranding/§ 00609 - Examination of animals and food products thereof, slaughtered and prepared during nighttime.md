@@ -22,7 +22,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 403(d)(1) of Pub. L. 99–641 provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
+Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
 Pub. L. 99–641, title IV, §408, Nov. 10, 1986, 100 Stat. 3571, provided that:
 
@@ -40,9 +40,9 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Savings Provision
 
-Section 404 of Pub. L. 99–641 provided that: “The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act.”
+Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: “The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act.”
 
 #### Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program
 
-Section 403(e) of Pub. L. 99–641 provided that: “The amendments made by this section \[amending this section and sections 606, 621, 671, and 676 of this title\] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
+Pub. L. 99–641, title IV, §403(e), Nov. 10, 1986, 100 Stat. 3570, provided that: “The amendments made by this section \[amending this section and sections 606, 621, 671, and 676 of this title\] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
 

@@ -14,7 +14,7 @@ In order to create an independent and objective office—
 
 #### Effective Date
 
-Section 206 of title II of Pub. L. 100–504 provided that: “The provisions of this title and the amendments made by this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\].”
+Pub. L. 100–504, title II, §206, Oct. 18, 1988, 102 Stat. 2532, provided that: “The provisions of this title and the amendments made by this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\].”
 
 #### Short Title
 
@@ -22,7 +22,7 @@ For short title of title II of Pub. L. 100–504, which enacted this chapter, as
 
 #### Transfer of Office
 
-Section 203 of title II of Pub. L. 100–504 provided that:
+Pub. L. 100–504, title II, §203, Oct. 18, 1988, 102 Stat. 2531, provided that:
 
 “(a)
 
@@ -42,5 +42,5 @@ Personnel.—Any person who, on the effective date of this title \[see Effective
 
 #### Payment Authority Subject to Appropriations
 
-Section 205 of title II of Pub. L. 100–504 provided that: “Any authority to make payments under this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall be effective only to such extent as provided in appropriations Acts.”
+Pub. L. 100–504, title II, §205, Oct. 18, 1988, 102 Stat. 2531, provided that: “Any authority to make payments under this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall be effective only to such extent as provided in appropriations Acts.”
 

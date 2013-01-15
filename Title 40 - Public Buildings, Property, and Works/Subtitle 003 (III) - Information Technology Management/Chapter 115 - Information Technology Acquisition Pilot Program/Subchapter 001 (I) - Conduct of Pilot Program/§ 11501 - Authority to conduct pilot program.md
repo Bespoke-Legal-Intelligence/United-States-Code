@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Purpose.—In consultation with the Administrator for the Office of Information and Regulatory Affairs, the Administrator for Federal Procurement Policy may conduct a pilot program pursuant to the requirements of section 11521 of this title <sup>1</sup> to test alternative approaches for the acquisition of information technology by executive agencies.
+Purpose.—In consultation with the Administrator for the Office of Information and Regulatory Affairs, the Administrator for Federal Procurement Policy may conduct a pilotprogram pursuant to the requirements of section 11521 of this title <sup>1</sup> to test alternative approaches for the acquisition of information technology by executive agencies.
 
 &emsp;(2)
 

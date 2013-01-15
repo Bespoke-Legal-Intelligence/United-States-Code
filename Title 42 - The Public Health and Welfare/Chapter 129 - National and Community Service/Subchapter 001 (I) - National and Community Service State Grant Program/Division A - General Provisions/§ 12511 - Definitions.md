@@ -172,7 +172,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) for purposes of division C of this subchapter, an individual in an approved national service position; and
 
-&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in aprogram that receives assistance under this subchapter.
+&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
 
 #### (B) Rule
 
@@ -212,7 +212,7 @@ For purposes of this subchapter:
 
 #### (34) Program
 
-&emsp;The term “program”, unless the context otherwise requires, and except when used as part of the term “academic program”, means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title, or in paragraph (1) or (2) of section 12612(b) of this title, section 12653b of this title, 12653c of this title, 198G,<sup>1</sup> 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653<i>o</i>, 12653p, or 12657 of this title.
+&emsp;The term “program”, unless the context otherwise requires, and except when used aspart of the term “academic program”, means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title, or in paragraph (1) or (2) of section 12612(b) of this title, section 12653b of this title, 12653c of this title, 198G,<sup>1</sup> 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653o, 12653p, or 12657 of this title.
 
 #### (35) Project
 
@@ -296,7 +296,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly knownas the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
 This chapter, referred to in pars. (26) and (30)(A)(ii), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
@@ -316,7 +316,7 @@ Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of “sec
 
 Par. (17)(B). Pub. L. 111–13, §1102(a)(3), substituted “organization receiving assistance under the national service laws through which the participant is engaging in service” for “program in which the participant is enrolled”.
 
-Par. (19). Pub. L. 111–13, §1102(a)(4), substituted “section 12523(a) of this title” for “section 12521(a) of this title”, struck out “12542(a),” after “(3)(B) of such section),”, substituted “12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title,” for “12561(b)(1), or 12572(a) of this title,”, inserted “section 12653b of this title, 12653c of this title, 198G, 12653h of this title, or 12653k of this title,” after “section 12612(b) of this title,”, and substituted “12639a, 12653, 12653<i>o</i>, 12653p, or 12657” for “12653, 12653c, or 12653d”.
+Par. (19). Pub. L. 111–13, §1102(a)(4), substituted “section 12523(a) of this title” for “section 12521(a) of this title”, struck out “12542(a),” after “(3)(B) of such section),”, substituted “12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title,” for “12561(b)(1), or 12572(a) of this title,”, inserted “section 12653b of this title, 12653c of this title, 198G, 12653h of this title, or 12653k of this title,” after “section 12612(b) of this title,”, and substituted “12639a, 12653, 12653o, 12653p, or 12657” for “12653, 12653c, or 12653d”.
 
 Par. (21)(B). Pub. L. 111–13, §1102(a)(5), substituted “602(3)” for “602” and “1401(3)” for “1401”.
 

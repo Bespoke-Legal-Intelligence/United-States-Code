@@ -120,7 +120,7 @@ Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. 
 
 <b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
 
-<b>1996</b>—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows:“
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “
 
 Educational institution.—For purposes of this paragraph, the term ‘educational institution’ means an institution described in section 170(b)(1)(A)(ii).”
 
@@ -142,7 +142,7 @@ Pub. L. 105–206, title v, §5002(b), July 22, 1998, 112 Stat. 789, provided th
 
 #### Effective Date of 1996 Amendment
 
-Section 1123(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, §1123(b), Aug. 20, 1996, 110 Stat. 1768, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1164(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title XI, §1164(b), Oct. 22, 1986, 100 Stat. 2511, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
 
 #### Effective Date of 1981 Amendment
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–222 effective as if included in the Foreign Earned Inc
 
 #### Effective Date of 1978 Amendment
 
-Section 4(b) of Pub. L. 95–427 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 95–427, §4(b), Oct. 7, 1978, 92 Stat. 998, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
@@ -174,7 +174,7 @@ Pub. L. 96–605, title I, §107(b), Dec. 28, 1980, 94 Stat. 3524, provided that
 
 #### Treatment of Certain Statutory Subsistence Allowances or Subsistence Allowances Negotiated in Accordance With State Law Received by State Police Officers Before January 1, 1978
 
-Section 3 of Pub. L. 95–427, as amended by Pub. L. 96–605, title I, §107(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–427, §3, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–605, title I, §107(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -202,7 +202,7 @@ Other Definitions.—For purposes of this section—
 
 &emsp;“(1)
 
-State police officer.—The term ‘State police officer’ means any police officer (including a highway patrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
+State police officer.—The term ‘State police officer’ means any police officer (including a highwaypatrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
 
 &emsp;“(2)
 

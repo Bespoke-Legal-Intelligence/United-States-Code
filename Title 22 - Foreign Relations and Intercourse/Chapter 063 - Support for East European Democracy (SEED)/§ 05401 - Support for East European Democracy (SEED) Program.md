@@ -54,7 +54,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 &emsp;United States leadership in supporting—
 
-&emsp;&emsp;(A) loans by the International Bank for Reconstruction and Development and its affiliated institutions in the World Bank group that are designed to modernize industry, agriculture, and infrastructure, and
+&emsp;&emsp;(A) loans by the International Bank for Reconstruction and Development and its affiliated institutions in the World Bankgroup that are designed to modernize industry, agriculture, and infrastructure, and
 
 &emsp;&emsp;(B) International Monetary Fund programs designed to stimulate sound economic growth.
 
@@ -124,7 +124,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 #### (18) Cultural centers
 
-&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitateeducational and cultural exchange and expanded understanding of Western social democracy.
+&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitate educational and cultural exchange and expanded understanding of Western social democracy.
 
 #### (19) Sister institutions
 
@@ -170,7 +170,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 8
 
 #### Short Title
 
-Section 1(a) of Pub. L. 101–179 provided that: “This Act \[enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
+Pub. L. 101–179, §1(a), Nov. 28, 1989, 103 Stat. 1298, provided that: “This Act \[enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
 
 #### Transfer of Functions
 

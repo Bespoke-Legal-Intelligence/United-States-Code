@@ -86,7 +86,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (vi) Revisions
 
-&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State resulting in a significant change inthe factors described in clause (iv)(II), the Governor may request that the State adjusted levels of performance agreed to under clause (iii) or (v) be revised. The Secretary, after collaboration with the representatives described in subsection (i) of this section, shall issue objective criteria and methods for making such revisions.
+&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State resulting in a significant change in the factors described in clause (iv)(II), the Governor may request that the State adjusted levels of performance agreed to under clause (iii) or (v) be revised. The Secretary, after collaboration with the representatives described in subsection (i) of this section, shall issue objective criteria and methods for making such revisions.
 
 #### (B) Levels of performance for additional indicators
 
@@ -148,7 +148,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the State, in coordination with local boards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided forby the Secretary under section 2917 of this title.
+&emsp;Using funds made available under this subchapter, the State, in coordination with local boards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided for by the Secretary under section 2917 of this title.
 
 #### (2) Design
 
@@ -182,7 +182,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (B) Reduction in amount of grant
 
-&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit a report under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
+&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit areport under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
 
 #### (2) Funds resulting from reduced allotments
 

@@ -102,7 +102,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (B) Controlled group
 
-&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414 shall be treated as members of a controlled group.
+&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as members of a controlled group.
 
 #### (f) Pro rata allocation of interest expense to policy cash values
 
@@ -206,7 +206,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (7) Interest expense
 
-&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as adeduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
+&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
 
 #### (8) Aggregation rules
 
@@ -218,7 +218,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(<i>o</i>)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
 
 #### References in Text
 
@@ -226,21 +226,21 @@ The date of the enactment of this sentence, referred to in subsec. (e)(2)(B)(ii)
 
 #### Codification
 
-Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title. Another section 1084(c) of Pub. L. 105–34 amended section 265 of this title.
+Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title. Another section1084(c) of Pub. L. 105–34 amended section 265 of this title.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–206, §6010(<i>o</i>)(1), substituted “subsection (d)” for “subsection (c)”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–206, §6010(o)(1), substituted “subsection (d)” for “subsection (c)”.
 
-Subsec. (a)(4). Pub. L. 105–206, §6010(<i>o</i>)(2), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (a)(4). Pub. L. 105–206, §6010(o)(2), substituted “subsection (e)” for “subsection (d)”.
 
 Subsec. (f)(3). Pub. L. 105–277 inserted concluding provisions.
 
-Subsec. (f)(4)(E). Pub. L. 105–206, §6010(<i>o</i>)(3)(A), added subpar. (E).
+Subsec. (f)(4)(E). Pub. L. 105–206, §6010(o)(3)(A), added subpar. (E).
 
-Subsec. (f)(5)(A)(iv). Pub. L. 105–206, §6010(<i>o</i>)(4)(A), struck out at end “Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1).”
+Subsec. (f)(5)(A)(iv). Pub. L. 105–206, §6010(o)(4)(A), struck out at end “Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1).”
 
-Subsec. (f)(8)(A). Pub. L. 105–206, §6010(<i>o</i>)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
+Subsec. (f)(8)(A). Pub. L. 105–206, §6010(o)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
 
@@ -286,7 +286,7 @@ Subsec. (c). Pub. L. 88–272 added subsec. (c).
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -298,7 +298,7 @@ Amendment by section 1602(f)(1)–(3) of Pub. L. 105–34 effective as if includ
 
 #### Effective Date of 1996 Amendment
 
-Section 501(c) of Pub. L. 104–191, as amended by Pub. L. 105–34, title XVI, §1602(f)(4), Aug. 5, 1997, 111 Stat. 1095, provided that:
+Pub. L. 104–191, title V, §501(c), Aug. 21, 1996, 110 Stat. 2091, as amended by Pub. L. 105–34, title XVI, §1602(f)(4), Aug. 5, 1997, 111 Stat. 1095, provided that:
 
 “(1)
 
@@ -330,7 +330,7 @@ Qualified interest.—For purposes of subparagraph (A), the qualified interest w
 
 &emsp;&emsp;&emsp;“(II) The applicable percentage of the rate of interest described as Moody's Corporate Bond Yield Average-Monthly Average Corporates as published by Moody's Investors Service, Inc., or any successor thereto, for such month.
 
-> &emsp;For purposes of clause (i), all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (<i>o</i>) of section 414 of such Code shall be treated as 1 person. Subclause (II) of clause (ii) shall not apply to any month before January 1, 1996.
+> &emsp;For purposes of clause (i), all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as 1 person. Subclause (II) of clause (ii) shall not apply to any month before January 1, 1996.
 
 &emsp;“(C)
 
@@ -356,15 +356,15 @@ Applicable percentage.—For purposes of subparagraph (B), the applicable percen
 
 #### Effective Date of 1986 Amendment
 
-Section 1003(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title X, §1003(c), Oct. 22, 1986, 100 Stat. 2388, provided that: “The amendments made by thissection \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date.”
 
 #### Effective Date of 1964 Amendment
 
-Section 215(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to amounts paid or accrued in taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §215(c), Feb. 26, 1964, 78 Stat. 56, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to amounts paid or accrued in taxable years beginning after December 31, 1963.”
 
 #### Spread of Income Inclusion on Surrender, Etc. of Contracts
 
-Section 501(d) of Pub. L. 104–191, as amended by Pub. L. 105–34, title XVI, §1602(f)(5), Aug. 5, 1997, 111 Stat. 1095, provided that:
+Pub. L. 104–191, title V, §501(d), Aug. 21, 1996, 110 Stat. 2092, as amended by Pub. L. 105–34, title XVI, §1602(f)(5), Aug. 5, 1997, 111 Stat. 1095, provided that:
 
 “(1)
 

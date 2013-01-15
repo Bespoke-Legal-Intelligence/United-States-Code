@@ -52,5 +52,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1990 Amendment
 
-Section 1(d)(2) of Pub. L. 101–477 provided that: “The amendments made by paragraphs (A) through (E) of subsection (a) \[probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title\] shall take effect October 1, 1991.”
+Pub. L. 101–477, §1(d)(2), Oct. 30, 1990, 104 Stat. 1153, provided that: “The amendments made by paragraphs (A) through (E) of subsection (a) \[probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title\] shall take effect October 1, 1991.”
 

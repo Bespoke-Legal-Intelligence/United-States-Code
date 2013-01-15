@@ -34,7 +34,7 @@ In this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “MSA plan” means a Medicare+�Choice plan that—
+&emsp;&emsp;The term “MSA plan” means a Medicare+Choice plan that—
 
 &emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
@@ -140,7 +140,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
 
-&emsp;&emsp;(C) offers, in addition to a Medicare+�Choice religious fraternal benefit society plan, health coverage to individuals not entitled to benefits under this subchapter who are members of such church, convention, or group; and
+&emsp;&emsp;(C) offers, in addition to a Medicare+Choice religious fraternal benefit society plan, health coverage to individuals not entitled to benefits under this subchapter who are members of such church, convention, or group; and
 
 &emsp;&emsp;(D) does not impose any limitation on membership in the society based on any health status-related factor.
 
@@ -152,13 +152,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) Requirements for enrollment
 
-&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2014, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2015, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
 #### (2) Additional requirements for institutional SNPS
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i), the applicable requirements described in this paragraph are as follows:
 
-&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
+&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individualshall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
 
 &emsp;&emsp;&emsp;(i) using a State assessment tool of the State in which the individual resides; and
 
@@ -246,13 +246,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) In general
 
-&emsp;In the case of a Medicare Advantage senior housing facility plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the servicearea of such plan may be limited to a senior housing facility in a geographic area.
+&emsp;In the case of a Medicare Advantage senior housing facility plan described in paragraph\(2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the service area of such plan may be limited to a senior housing facility in a geographic area.
 
 #### (2) Medicare Advantage senior housing facility plan described
 
 &emsp;For purposes of this subsection, a Medicare Advantage senior housing facility plan is a Medicare Advantage plan that—
 
-&emsp;&emsp;(A) restricts enrollment of individuals under this part to individuals who reside in a continuing care retirement community (as defined in section 1395w–22(<i>l</i>)(4)(B) of this title);
+&emsp;&emsp;(A) restricts enrollment of individuals under this part to individuals who reside in a continuing care retirement community (as defined in section 1395w–22(l)(4)(B) of this title);
 
 &emsp;&emsp;(B) provides primary care services onsite and has a ratio of accessible physicians to beneficiaries that the Secretary determines is adequate;
 
@@ -260,13 +260,15 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1). Pub. L. 112–240 substituted “2015” for “2014”.
 
 <b>2010</b>—Subsec. (f)(1). Pub. L. 111–148, §3205(a), substituted “2014” for “2011”.
 

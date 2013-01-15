@@ -34,23 +34,31 @@ Limitation on Applicability of Waivers to Products Produced in Certain Foreign C
 
 > the provisions of subsection (b) shall not apply to products produced in that foreign country.
 
-(Added and amended Pub. L. 109–59, title I, §1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465.)
+(g)
+
+Application to Highway Programs.—The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
+
+(Added and amended Pub. L. 109–59, title I, §1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, §1518, July 6, 2012, 126 Stat. 574.)
 
 #### References in Text
 
-The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) and (d), is Pub. L. 97–424, Jan. 6, 1983, 96 Stat. 2097. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 101 of this title and Tables.
+The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) and (d), is Pub. L. 97–424, Jan. 6, 1983, 96 Stat. 2097. For complete classification of this Act to the Code, see Short Title of 1983 Amendment note set out under section 101 of this title and Tables.
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
+The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Codification
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987,101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 #### Prior Provisions
 
-A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
+A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate withState highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
 
@@ -59,6 +67,10 @@ Subsec. (b)(3), (4). Pub. L. 109–59, §1903(c)(2), redesignated par. (4) as (3
 Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
 
 Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Buy America Waiver Notification and Annual Reports
 

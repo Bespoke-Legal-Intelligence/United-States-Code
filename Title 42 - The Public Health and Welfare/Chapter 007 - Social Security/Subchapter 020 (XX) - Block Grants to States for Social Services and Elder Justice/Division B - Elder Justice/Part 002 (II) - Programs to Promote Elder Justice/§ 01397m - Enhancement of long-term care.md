@@ -82,7 +82,7 @@
 
 #### (1) Grants authorized
 
-&emsp;The Secretary is authorized to make grants to long-term care facilities for the purpose of assisting such entities in offsetting the costs related to purchasing, leasing, developing, and implementing certified EHR technology (as defined in section 1395w–4(<i>o</i>)(4) of this title) designed to improve patient safety and reduce adverse events and health care complications resulting from medication errors.
+&emsp;The Secretary is authorized to make grants to long-term care facilities for the purpose of assisting such entities in offsetting the costs related to purchasing, leasing, developing, and implementing certified EHR technology (as defined in section 1395w–4(o)(4) of this title) designed to improve patient safety and reduce adverse events and health care complications resulting from medication errors.
 
 #### (2) Use of grant funds
 
@@ -124,7 +124,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 10 years after March 23, 2010, the Secretary shall have procedures in place to accept the optional electronic submission of clinical data by long-term care facilities pursuant to the standards adopted under paragraph (1).
+&emsp;&emsp;Not later than 10 years after March 23, 2010, the Secretary shall have procedures in place to accept the optional electronic submission of clinical data by long-term carefacilities pursuant to the standards adopted under paragraph (1).
 
 #### (B) Rule of construction
 

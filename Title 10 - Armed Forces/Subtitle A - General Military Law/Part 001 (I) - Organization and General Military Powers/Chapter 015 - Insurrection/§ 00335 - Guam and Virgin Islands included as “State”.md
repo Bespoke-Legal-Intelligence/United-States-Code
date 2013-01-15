@@ -16,5 +16,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 
-Section 11 of Pub. L. 90–497 provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
+Pub. L. 90–497, §11, Sept. 11, 1968, 82 Stat. 847, provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
 

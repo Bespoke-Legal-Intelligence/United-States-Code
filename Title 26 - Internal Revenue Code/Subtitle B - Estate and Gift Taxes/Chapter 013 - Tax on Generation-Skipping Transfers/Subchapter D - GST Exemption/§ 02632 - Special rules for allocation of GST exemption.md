@@ -148,23 +148,19 @@
 
 #### (B) Nonexempt portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (atthe time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, §1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, §561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16, §§561(b), 901, temporarily substituted “or subsection (c)(1)” for “with respect to a prior direct skip”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16, §561(b), substituted “or subsection (c)(1)” for “with respect to a prior direct skip”.
 
-Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignated former subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
+Subsecs. (c) to (e). Pub. L. 107–16, §561(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §561(c), June 7, 2001, 115 Stat. 89, provided that:
 
@@ -175,8 +171,6 @@ Deemed allocation.—Section 2632(c) of the Internal Revenue Code of 1986 (as ad
 “(2)
 
 Retroactive allocations.—Section 2632(d) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to deaths of non-skip persons occurring after December 31, 2000.”
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

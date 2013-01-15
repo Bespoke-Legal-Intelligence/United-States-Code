@@ -42,9 +42,9 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 
 #### Effective Date of 1980 Amendment
 
-Section 112 of Pub. L. 96–365 provided that: “Except as otherwise provided in this Act, the provisions of this Act amending the Federal Crop Insurance Act \[amending sections 1504, 1505 to 1507, 1508, and 1518 of this title and repealing section 1515 of this title\] shall become effective on the date of enactment of this Act \[Sept. 26, 1980\].”
+Pub. L. 96–365, title I, §112, Sept. 26, 1980, 94 Stat. 1319, provided that: “Except as otherwise provided in this Act, the provisions of this Act amending the Federal Crop Insurance Act \[amending sections 1504, 1505 to 1507, 1508, and 1518 of this title and repealing section 1515 of this title\] shall become effective on the date of enactment of this Act \[Sept. 26, 1980\].”
 
-Section 101(a) of Pub. L. 96–365 provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 96–365, title I, §101(a), Sept. 26, 1980, 94 Stat. 1312, provided that the amendment made by section 101(a) is effective Oct. 1, 1980.
 
 #### Transfer of Functions
 
@@ -54,9 +54,9 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 #### Cancellation of Outstanding Receipts for Stock in Excess of $27,000,000
 
-Section 5 of act Aug. 25, 1949, provided that: “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts for payments for or on account of the stock of the Corporation in excess of $27,000,000.”
+Act Aug. 25, 1949, ch. 512, §5, 63 Stat. 665, provided that: “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts for payments for or on account of the stock of the Corporation in excess of $27,000,000.”
 
 #### Institution of Expanded Program; Payment of Cost for Fiscal Year 1950
 
-Section 11 of act Aug. 25, 1949, provided that: “The expanded program authorized herein \[sections 1504, 1505, 1506, 1507, and 1508 of this title\] shall be instituted beginning with the 1950 crop year, the additional cost for fiscal year 1950 to be financed, pending the appropriation of supplemental funds, from any appropriation available for operating and administrative expenses of the Corporation for such fiscal year.”
+Act Aug. 25, 1949, ch. 512, §11, 63 Stat. 666, provided that: “The expanded program authorized herein \[sections 1504, 1505, 1506, 1507, and 1508 of this title\] shall be instituted beginning with the 1950 crop year, the additional cost for fiscal year 1950 to be financed, pending the appropriation of supplemental funds, from any appropriation available for operating and administrative expenses of the Corporation for such fiscal year.”
 

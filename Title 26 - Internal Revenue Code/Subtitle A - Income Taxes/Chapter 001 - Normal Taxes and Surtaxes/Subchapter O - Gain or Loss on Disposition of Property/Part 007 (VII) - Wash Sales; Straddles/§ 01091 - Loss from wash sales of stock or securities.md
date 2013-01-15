@@ -52,11 +52,11 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 1988 Amendment
 
-Section 5075(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale after the date of enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date.”
+Pub. L. 100–647, title V, §5075(b), Nov. 10, 1988, 102 Stat. 3682, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale after the date of enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
-Section 106(c) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title I, §106(c), July 18, 1984, 98 Stat. 629, provided that:
 
 “(1)
 

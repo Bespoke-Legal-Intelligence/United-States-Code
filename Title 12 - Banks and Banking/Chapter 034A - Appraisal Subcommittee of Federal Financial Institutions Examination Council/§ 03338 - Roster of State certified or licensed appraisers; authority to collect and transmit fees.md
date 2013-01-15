@@ -4,11 +4,23 @@
 
 Each State with an appraiser certifying and licensing agency whose certifications and licenses comply with this chapter, shall—
 
-&emsp;(1) transmit to the Appraisal Subcommittee, no less than annually, a roster listing individuals who have received a State certification or license in accordance with this chapter; and
+&emsp;(1) transmit to the Appraisal Subcommittee, no less than annually, a roster listing individuals who have received a State certification or license in accordance with this chapter;
 
-&emsp;(2) collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.
+&emsp;(2) transmit reports on the issuance and renewal of licenses and certifications, sanctions, disciplinary actions, license and certification revocations, and license and certification suspensions on a timely basis to the national registry of the Appraisal Subcommittee;
 
-> Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.
+&emsp;(3) transmit reports on a timely basis of supervisory activities involving appraisal management companies or other third-party providers of appraisals and appraisal management services, including investigations initiated and disciplinary actions taken; and
+
+&emsp;(4) collect—
+
+&emsp;&emsp;(A) from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $40, such fees to be transmitted by the State agencies to the Council on an annual basis; and
+
+&emsp;&emsp;(B) from an appraisal management company that either has registered with a State appraiser certifying and licensing agency in accordance with this chapter or operates as a subsidiary of a federally regulated financial institution, an annual registry fee of—
+
+&emsp;&emsp;&emsp;(i) in the case of such a company that has been in existence for more than a year, $25 multiplied by the number of appraisers working for or contracting with such company in such State during the previous year, but where such $25 amount may be adjusted, up to a maximum of $50, at the discretion of the Appraisal Subcommittee, if necessary to carry out the Subcommittee's functions under this chapter; and
+
+&emsp;&emsp;&emsp;(ii) in the case of such a company that has not been in existence for more than a year, $25 multiplied by an appropriate number to be determined by the Appraisal Subcommittee, and where such number will be used for determining the fee of all such companies that were not in existence for more than a year, but where such $25 amount may be adjusted, up to a maximum of $50, at the discretion of the Appraisal Subcommittee, if necessary to carry out the Subcommittee's functions under this chapter.
+
+> Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees under paragraph (4)(A), up to a maximum of $80 per annum, as necessary to carry out its functions under this chapter. The Appraisal Subcommittee shall consider at least once every 5 years whether to adjust the dollar amount of the registry fees to account for inflation. In implementing any change in registry fees, the Appraisal Subcommittee shall provide flexibility to the States for multi-year certifications and licenses already in place, as well as a transition period to implement the changes in registry fees. In establishing the amount of the annual registry fee for an appraisal management company, the Appraisal Subcommittee shall have the discretion to impose a minimum annual registry fee for an appraisal management company to protect against the under reporting of the number of appraisers working for or contracted by the appraisal management company.
 
 #### (b) Use of amounts appropriated or collected
 
@@ -18,65 +30,39 @@ Amounts appropriated for or collected by the Appraisal Subcommittee under this s
 
 &emsp;(2) to support its activities under this chapter;
 
-&emsp;(3) to reimburse the general fund of the Treasury for amounts appropriated to and expended by the Appraisal Subcommittee during the 24-month startup period following August 9, 1989; and
+&emsp;(3) to reimburse the general fund of the Treasury for amounts appropriated to and expended by the Appraisal Subcommittee during the 24-month startup period following August 9, 1989;
 
-&emsp;(4) to make grants in such amounts as it deems appropriate to the Appraisal Foundation, to help defray those costs of the foundation relating to the activities of its Appraisal Standards and Appraiser Qualification Boards.
+&emsp;(4) to make grants in such amounts as it deems appropriate to the Appraisal Foundation, to help defray those costs of the foundation relating to the activities of its Appraisal Standards and Appraiser Qualification Boards;
+
+&emsp;(5) to make grants to State appraiser certifying and licensing agencies, in accordance with policies to be developed by the Appraisal Subcommittee, to support the efforts of such agencies to comply with this chapter, including—
+
+&emsp;&emsp;(A) the complaint process, complaint investigations, and appraiser enforcement activities of such agencies; and
+
+&emsp;&emsp;(B) the submission of data on State licensed and certified appraisers and appraisal management companies to the National appraisal registry, including information affirming that the appraiser or appraisal management company meets the required qualification criteria and formal and informal disciplinary actions; and
+
+&emsp;(6) to report to all State appraiser certifying and licensing agencies when a license or certification is surrendered, revoked, or suspended.
 
 (Pub. L. 101–73, title XI, §1109, Aug. 9, 1989, 103 Stat. 513; Pub. L. 111–203, title XIV, §1473(g), (h)(1), (i), July 21, 2010, 124 Stat. 2194, 2195.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(g), (h)(1), (i), July 21, 2010, 124 Stat. 2136, 2194, 2195, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
-
-<i>(1) in subsection (a)—</i>
-
-<i>(A) in paragraph (1), by striking out “and” after the semicolon;</i>
-
-<i>(B) by redesignating paragraph (2) as (4);</i>
-
-<i>(C) by inserting after paragraph (1) the following:</i>
-
-&emsp;<i>“(2) transmit reports on the issuance and renewal of licenses and certifications, sanctions, disciplinary actions, license and certification revocations, and license and certification suspensions on a timely basis to the national registry of the Appraisal Subcommittee;</i>
-
-&emsp;<i>“(3) transmit reports on a timely basis of supervisory activities involving appraisal management companies or other third-party providers of appraisals and appraisal management services, including investigations initiated and disciplinary actions taken; and”;</i>
-
-<i>(D) by amending paragraph (4), as so redesignated, to read as follows:</i>
-
-&emsp;<i>“(4) collect—</i>
-
-&emsp;&emsp;<i>“(A) from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $40, such fees to be transmitted by the State agencies to the Council on an annual basis; and</i>
-
-&emsp;&emsp;<i>“(B) from an appraisal management company that either has registered with a State appraiser certifying and licensing agency in accordance with this chapter or operates as a subsidiary of a federally regulated financial institution, an annual registry fee of—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) in the case of such a company that has been in existence for more than a year, $25 multiplied by the number of appraisers working for or contracting with such company in such State during the previous year, but where such $25 amount may be adjusted, up to a maximum of $50, at the discretion of the Appraisal Subcommittee, if necessary to carry out the Subcommittee's functions under this chapter; and</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) in the case of such a company that has not been in existence for more than a year, $25 multiplied by an appropriate number to be determined by the Appraisal Subcommittee, and where such number will be used for determining the fee of all such companies that were not in existence for more than a year, but where such $25 amount may be adjusted, up to a maximum of $50, at the discretion of the Appraisal Subcommittee, if necessary to carry out the Subcommittee's functions under this chapter.”; and</i>
-
-<i>(E) by amending the matter following paragraph (4) to read as follows:</i>
-
-> <i>“Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees under paragraph (4)(A), up to a maximum of $80 per annum, as necessary to carry out its functions under this chapter. The Appraisal Subcommittee shall consider at least once every 5 years whether to adjust the dollar amount of the registry fees to account for inflation. In implementing any change in registry fees, the Appraisal Subcommittee shall provide flexibility to the States for multi-year certifications and licenses already in place, as well as a transition period to implement the changes in registry fees. In establishing the amount of the annual registry fee for an appraisal management company, the Appraisal Subcommittee shall have the discretion to impose a minimum annual registry fee for an appraisal management company to protect against the under reporting of the number of appraisers working for or contracted by the appraisal management company.”; and</i>
-
-<i>(2) in subsection (b)—</i>
-
-<i>(A) in paragraph (3), by striking out “and” after the semicolon;</i>
-
-<i>(B) in paragraph (4), by substituting a semicolon for the period at the end; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;<i>“(5) to make grants to State appraiser certifying and licensing agencies, in accordance with policies to be developed by the Appraisal Subcommittee, to support the efforts of such agencies to comply with this chapter, including—</i>
-
-&emsp;&emsp;<i>“(A) the complaint process, complaint investigations, and appraiser enforcement activities of such agencies; and</i>
-
-&emsp;&emsp;<i>“(B) the submission of data on State licensed and certified appraisers and appraisal management companies to the National appraisal registry, including information affirming that the appraiser or appraisal management company meets the required qualification criteria and formal and informal disciplinary actions; and</i>
-
-&emsp;<i>“(6) to report to all State appraiser certifying and licensing agencies when a license or certification is surrendered, revoked, or suspended.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+This chapter, referred to in subsecs. (a) and (b)(5), was in the original “this title”, meaning title XI of Pub. L. 101–73, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
 #### Codification
 
 Pub. L. 111–203, §1473(i), which amended this section, also enacted provisions set out as a note below.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1473(h)(1)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.”
+
+Subsec. (a)(2), (3). Pub. L. 111–203, §1473(g)(1), (3), added pars. (2) and (3). Former par. (2) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 111–203, §1473(h)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.”
+
+Pub. L. 111–203, §1473(g)(2), redesignated par. (2) as (4).
+
+Subsec. (b)(5), (6). Pub. L. 111–203, §1473(i), added pars. (5) and (6).
 
 #### Effective Date of 2010 Amendment
 

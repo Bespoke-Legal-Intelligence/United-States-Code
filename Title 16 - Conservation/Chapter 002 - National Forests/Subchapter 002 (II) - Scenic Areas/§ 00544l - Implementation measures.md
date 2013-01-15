@@ -14,7 +14,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (2) Paragraph (1) of this subsection shall not apply—
 
-&emsp;(A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section at the end of any fiscal year ending before November 17, 1986; or
+&emsp;(A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section atthe end of any fiscal year ending before November 17, 1986; or
 
 &emsp;(B) for a particular county, if the county does not have in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title.
 
@@ -22,7 +22,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
 
-(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during thelast full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
+(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
 (3)
 
@@ -38,7 +38,7 @@ Continuation of certain payments.—For any land or interest in land for which t
 
 #### (d) Federal consistency
 
-Except as otherwise provided in subsection (e) of this section or in section 544<i>o</i> of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
+Except as otherwise provided in subsection (e) of this section or in section 544o of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
 
 #### (e) Limitations on Federal expenditures affecting the scenic area
 
@@ -68,7 +68,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-&emsp;&emsp;(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;&emsp;(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C.460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 &emsp;&emsp;(iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -96,7 +96,7 @@ Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is act June 9, 1916, 
 
 Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 

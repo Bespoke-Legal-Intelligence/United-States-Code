@@ -24,7 +24,7 @@ The purpose of this section is to provide for the preparation and implementation
 
 #### (c) Federal-State cooperation in preparation of plans
 
-(1) If within three months after December 2, 1980, the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the planwhich shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b) of this section, including but not limited to—
+(1) If within three months after December 2, 1980, the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the plan which shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b) of this section, including but not limited to—
 
 &emsp;(A) the identification of the significant resources of the region;
 

@@ -46,7 +46,7 @@ Pub. L. 107–171, title X, §10811, May 13, 2002, 116 Stat. 531, provided that:
 
 “(a)
 
-Preclearance Inspections Required.—The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspections of persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
+Preclearance Inspections Required.—The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspectionsof persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
 
 &emsp;“(1) The continental United States.
 

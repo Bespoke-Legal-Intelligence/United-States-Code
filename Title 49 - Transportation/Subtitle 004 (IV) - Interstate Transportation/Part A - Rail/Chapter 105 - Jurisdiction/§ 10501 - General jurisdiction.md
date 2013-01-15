@@ -32,11 +32,11 @@
 
 &emsp;(A) the term “local governmental authority”—
 
-&emsp;&emsp;(i) has the same meaning given that term by section 5302(a) of this title; and
+&emsp;&emsp;(i) has the same meaning given that term by section 5302(a) <sup>1</sup> of this title; and
 
 &emsp;&emsp;(ii) includes a person or entity that contracts with the local governmental authority to provide transportation services; and
 
-&emsp;(B) the term “mass transportation” means transportation services described in section 5302(a) of this title that are provided by rail.
+&emsp;(B) the term “mass transportation” means transportation services described in section 5302(a) <sup>1</sup> of this title that are provided by rail.
 
 (2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
 
@@ -58,6 +58,8 @@
 
 #### References in Text
 
+Section 5302 of this title, referred to in subsec. (c)(1)(A)(i), (B), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a) or a definition of “mass transportation”. However, the term “local governmental authority” is defined elsewhere in that section.
+
 The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
 The Railway Labor Act, referred to in subsec. (c)(3)(B), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
@@ -66,7 +68,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(B), is act Au
 
 The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 #### Prior Provisions
 
@@ -87,4 +89,6 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

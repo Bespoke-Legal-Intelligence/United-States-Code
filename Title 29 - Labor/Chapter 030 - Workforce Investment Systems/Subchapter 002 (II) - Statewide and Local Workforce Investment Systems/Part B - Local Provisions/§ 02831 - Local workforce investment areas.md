@@ -40,7 +40,7 @@
 
 #### (A) Criteria
 
-&emsp;&emsp;Notwithstanding paragraph (2)(A), the Governor shall approve any request, madenot later than the date of submission of the initial State plan under this subchapter, for temporary designation as a local area from any unit of general local government (including a combination of such units) with a population of 200,000 or more that was a service delivery area under the Job Training Partnership Act on the day before August 7, 1998, if the Governor determines that the area—
+&emsp;&emsp;Notwithstanding paragraph (2)(A), the Governor shall approve any request, made not later than the date of submission of the initial State plan under this subchapter, for temporary designation as a local area from any unit of general local government (including a combination of such units) with a population of 200,000 or more that was a service delivery area under the Job Training Partnership Act on the day before August 7, 1998, if the Governor determines that the area—
 
 &emsp;&emsp;&emsp;(i) performed successfully, in each of the last 2 years prior to the request for which data are available, in the delivery of services to participants under part A of title II and title III of the Job Training Partnership Act (as in effect on such day); and
 
@@ -90,7 +90,7 @@ The Governor of any State that was a single State service delivery area under th
 
 #### (1) Planning
 
-&emsp;As part of the process for developing the State plan, a State may require regional planning by local boards for a designated region in the State. The State may require the local boards for a designated region to participate in a regional planning process that results in the establishment of regional performance measures for workforce investment activities authorized under this subchapter. The Statemay award regional incentive grants to the designated regions that meet or exceed the regional performance measures.
+&emsp;As part of the process for developing the State plan, a State may require regional planning by local boards for a designated region in the State. The State may require the local boards for a designated region to participate in a regional planning process that results in the establishment of regional performance measures for workforce investment activities authorized under this subchapter. The State may award regional incentive grants to the designated regions that meet or exceed the regional performance measures.
 
 #### (2) Information sharing
 

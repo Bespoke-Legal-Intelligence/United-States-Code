@@ -26,7 +26,7 @@ The Secretary of State (or equivalent State officer), or the officer designated 
 
 Subsections (a) and (b) of this section shall not apply with respect to any State that, as determined by the Commission, has a system that permits electronic access to, and duplication of, reports and statements that are filed with the Commission.
 
-(Pub. L. 92–225, title III, §312, formerly §309, Feb. 7, 1972, 86 Stat. 18; renumbered §317 and amended Pub. L. 93–443, title II, §208(a), (c)(11), Oct. 15, 1974, 88 Stat. 1279, 1287; renumbered §316, Pub. L.94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §312 and amended Pub. L. 96–187, title I, §§105(4), 110, Jan. 8, 1980, 93 Stat. 1354, 1364; Pub. L. 104–79, §2, Dec. 28, 1995, 109 Stat. 791.)
+(Pub. L. 92–225, title III, §312, formerly §309, Feb. 7, 1972, 86 Stat. 18; renumbered §317 and amended Pub. L. 93–443, title II, §208(a), (c)(11), Oct. 15, 1974, 88 Stat. 1279, 1287; renumbered §316, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §312 and amended Pub. L. 96–187, title I, §§105(4), 110, Jan. 8, 1980, 93 Stat. 1354, 1364; Pub. L. 104–79, §2, Dec. 28, 1995, 109 Stat. 791.)
 
 #### References in Text
 

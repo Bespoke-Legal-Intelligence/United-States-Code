@@ -11,3 +11,4 @@
 - [&sect; 00574 - Acquisition, production, deployment, and support](%C2%A7%2000574%20-%20Acquisition%2C%20production%2C%20deployment%2C%20and%20support.md)
 - [&sect; 00575 - Acquisition program baseline breach](%C2%A7%2000575%20-%20Acquisition%20program%20baseline%20breach.md)
 - [&sect; 00576 - Acquisition approval authority](%C2%A7%2000576%20-%20Acquisition%20approval%20authority.md)
+- [&sect; 00577 - Advance procurement funding](%C2%A7%2000577%20-%20Advance%20procurement%20funding.md)

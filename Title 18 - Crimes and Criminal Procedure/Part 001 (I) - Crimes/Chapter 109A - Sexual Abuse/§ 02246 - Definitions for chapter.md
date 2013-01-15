@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(3) the term “sexual contact” means the intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person;
 
-&emsp;(4) the term “serious bodily injury” means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
+&emsp;(4) the term “serious bodily injury” means bodily injury that involves a substantial riskof death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
 
 &emsp;(5) the term “official detention” means—
 

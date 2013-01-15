@@ -18,7 +18,7 @@ Each such report shall include—
 
 Each such report shall include the following with respect to preceding <sup>1</sup> calendar year:
 
-&emsp;(1) The status of missile, aircraft, and other NBC weapons delivery and weaponization programs in any such country, including efforts by such country or by any subnational group to acquire MTCR-controlled equipment, NBC-capable aircraft, or any other weapon or majorweapon component which may be utilized in the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary or the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
+&emsp;(1) The status of missile, aircraft, and other NBC weapons delivery and weaponization programs in any such country, including efforts by such country or by any subnational group to acquire MTCR-controlled equipment, NBC-capable aircraft, or any other weapon or major weapon component which may be utilized in the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary or the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
 
 &emsp;(2) The status of NBC weapons development, acquisition, manufacture, stockpiling, and deployment programs in any such country, including efforts by such country or by any subnational group to acquire essential test equipment, manufacturing equipment and technology, weaponization equipment and technology, and radioactive material, feedstocks or components of feedstocks, and biological cultures and toxins.
 

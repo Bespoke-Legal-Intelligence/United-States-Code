@@ -74,7 +74,7 @@
 
 &emsp;The United States Court of Appeals and the Supreme Court shall have the power to require the taxpayer to pay to the United States a penalty in any case where the decision of the Tax Court is affirmed and it appears that the appeal was instituted or maintained primarily for delay or that the taxpayer's position in the appeal is frivolous or groundless.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, §3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L.91–172, title IX, §960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, §1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, §1042(d)(2)(A), (B), title XIII, §1306(b)(4), (5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, §336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, §154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, §131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, §1558(a), (b), title XVIII, §§1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, §6243(b), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, §7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, §3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 91–172, title IX, §960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, §1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, §1042(d)(2)(A), (B), title XIII, §1306(b)(4), (5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, §336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, §154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, §131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, §1558(a), (b), title XVIII, §§1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, §6243(b), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, §7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–647 applicable to orders entered after Nov. 10, 1988,
 
 #### Effective Date of 1986 Amendment
 
-Section 1558(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to any order of the Tax Court entered after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1558(c), Oct. 22, 1986, 100 Stat. 2758, provided that: “The amendments made by this section \[amending this section\] shall apply to any order of the Tax Court entered after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1810(g)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of theTreasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 

@@ -1,6 +1,4 @@
 
-40 U.S.C.<br>United States Code, 2011 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
 <i>This title was enacted by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062</i>

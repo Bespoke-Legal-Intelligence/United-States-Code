@@ -10,7 +10,7 @@
 
 &emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, offer for sale, or sale of which constitutes the infringement.
 
-(2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
+(2) No remedies for infringement under section 271(g) shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
 
 (3)(A) In making a determination with respect to the remedy in an action brought for infringement under section 271(g), the court shall consider—
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
-&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+&emsp;(iii) which includes a representation by the person making the request that such personwill promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
@@ -56,7 +56,7 @@
 
 (6) A person who receives a response to a request for disclosure under this subsection shall pay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
 
-(c)(1) With respect to a medical practitioner's performance of a medical activity that constitutes an infringement under section 271(a) or (b) of this title, the provisions of sections 281, 283, 284, and 285 of this title shall not apply against the medical practitioner or against a related health care entity with respect to such medical activity.
+(c)(1) With respect to a medical practitioner's performance of a medical activity that constitutes an infringement under section 271(a) or (b), the provisions of sections 281, 283, 284, and 285 shall not apply against the medical practitioner or against a related health care entity with respect to such medical activity.
 
 (2) For the purposes of this subsection:
 
@@ -66,35 +66,23 @@
 
 &emsp;(C) the term “related health care entity” shall mean an entity with which a medical practitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
 
-&emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under whicha medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
+&emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
 
 &emsp;(E) the term “body” shall mean a human body, organ or cadaver, or a nonhuman animal used in medical research or instruction directly relating to the treatment of humans.
 
 &emsp;(F) the term “patented use of a composition of matter” does not include a claim for a method of performing a medical or surgical procedure on a body that recites the use of a composition of matter where the use of that composition of matter does not directly contribute to achievement of the objective of the claimed method.
 
-&emsp;(G) the term “State” shall mean any state <sup>1</sup> or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;(G) the term “State” shall mean any State or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
+(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services providedin a physician's office), where such activities are:
 
 &emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
 
 &emsp;(B) regulated under the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, or the Clinical Laboratories Improvement Act.
 
-(4) This subsection shall not apply to any patent issued based on an application the earliest effective filing date of which is prior to September 30, 1996.
+(4) This subsection shall not apply to any patent issued based on an application which has an effective filing date before September 30, 1996.
 
 (July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4803\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589; Pub. L. 112–29, §§3(g)(2), 16(a)(1), 20(i)(4), (j), Sept. 16, 2011, 125 Stat. 288, 328, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(i)(4), (j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
-
-<i>(1) in subsection (c)(2)(G), by striking “any state” and inserting “any State”; and</i>
-
-<i>(2) except in subsection (b)(1), by striking “of this title” each place that term appears.</i>
-
-<i>See 2011 Amendment notes below.</i>
-
-<i>Pub. L. 112–29, §3(g)(2), (n), Sept. 16, 2011, 125 Stat. 288, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, subsection (c)(4) of this section is amended by striking “the earliest effective filing date of which is prior to” and inserting “which has an effective filing date before”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -150,7 +138,7 @@ Amendment by section 3(g)(2) of Pub. L. 112–29 effective upon the expiration o
 
 Pub. L. 112–29, §16(a)(2), Sept. 16, 2011, 125 Stat. 328, provided that: “The amendment made by this subsection \[amending this section\] shall apply to any case that is pending on, or commenced on or after, the date of the enactment of this Act \[Sept. 16, 2011\].”
 
-Amendment by section 20(i)(4), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(i)(4), (j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -159,6 +147,4 @@ Amendment by Pub. L. 103–465 effective on date that is one year after date on 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective 6 months after Aug. 23, 1988, and, subject to enumerated exceptions, applicable only with respect to products made or imported after such effective date, see section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

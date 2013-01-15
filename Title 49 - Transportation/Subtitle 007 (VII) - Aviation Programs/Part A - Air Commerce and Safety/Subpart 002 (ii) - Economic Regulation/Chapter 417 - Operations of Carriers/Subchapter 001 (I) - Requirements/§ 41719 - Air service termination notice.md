@@ -20,7 +20,7 @@ Exceptions.—The requirements of subsection (a) shall not apply when—
 
 (c)
 
-Waivers for Regional/Commuter Carriers.—Before January 1, 1995, the Secretary shall establish terms and conditions under which regional/commuter carriers can be excluded from the termination notice requirement.
+Waivers for Regional/Commuter Carriers.—Before January 1, 1995, the Secretaryshall establish terms and conditions under which regional/commuter carriers can be excluded from the termination notice requirement.
 
 (d)
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Section 207(d) of Pub. L. 103–305 provided that: “The amendments made by this section \[enacting this section and amending section 46301 of this title\] shall take effect on February 1, 1995.”
+Pub. L. 103–305, title II, §207(d), Aug. 23, 1994, 108 Stat. 1588, provided that: “The amendments made by this section \[enacting this section and amending section 46301 of this title\] shall take effect on February 1, 1995.”
 

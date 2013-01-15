@@ -22,7 +22,7 @@ No person may—
 
 (2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
 
-(Pub. L. 91–513, title III, §1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, §523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, §3(e), Dec. 17, 1993, 107 Stat. 2337.)
+(Pub. L. 91–513, title III, §1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, §523, Oct. 12,1984, 98 Stat. 2076; Pub. L. 103–200, §3(e), Dec. 17, 1993, 107 Stat. 2337.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 #### Provisional Registration
 
-Section 1104 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–513, title III, §1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)(1) Any person—
 

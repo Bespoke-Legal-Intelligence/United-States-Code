@@ -28,11 +28,11 @@ The Secretary shall develop an overall management plan for the Arapaho National 
 
 #### Short Title
 
-Section 1 of Pub. L. 95–450 provided that: “This Act \[enacting this subchapter and enacting notes set out under this section and section 1132 of this title\] may be cited as the ‘Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act’.”
+Pub. L. 95–450, §1, Oct. 11, 1978, 92 Stat. 1095, provided that: “This Act \[enacting this subchapter and enacting notes set out under this section and section 1132 of this title\] may be cited as the ‘Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act’.”
 
 #### Legislative Findings; Purposes
 
-Section 2 of Pub. L. 95–450 provided that: “The Congress finds that it is in the national interest—
+Pub. L. 95–450, §2, Oct. 11, 1978, 92 Stat. 1095, provided that: “The Congress finds that it is in the national interest—
 
 &emsp;“(1) to include the land within the Arapaho and the Roosevelt National Forests known as the Indian Peaks Area in the National Wilderness Preservation System so as to protect the area's enduring scenic and historic wilderness character and its unique wildlife and to preserve the area's scientific, educational, recreational, and inspirational resources and challenges; and
 

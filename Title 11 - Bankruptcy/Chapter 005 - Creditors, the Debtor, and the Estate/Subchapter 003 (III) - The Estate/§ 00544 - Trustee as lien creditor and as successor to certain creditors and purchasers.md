@@ -30,7 +30,7 @@ Subsection (b) is derived from current section 70e \[section 110(e) of former ti
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), the trustee” for “The trustee”, and added par. (2).
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted “such” after “obtained”.
 

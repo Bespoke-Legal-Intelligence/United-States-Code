@@ -2,7 +2,7 @@
 
 Any action or proceeding against a national banking association for which the Federal Deposit Insurance Corporation has been appointed receiver, or against the Federal Deposit Insurance Corporation as receiver of such association, shall be brought in the district or territorial court of the United States held within the district in which that association's principal place of business is located, or, in the event any State, county, or municipal court has jurisdiction over such an action or proceeding, in such court in the county or city in which that association's principal place of business is located.
 
-(R.S. §5198; Feb. 18, 1875, ch. 80, §1, 18 Stat. 320; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 97–320, title IV, §406, Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §20(a), Jan. 12, 1983, 96 Stat. 2509.)
+(R.S. §5198; Feb. 18, 1875, ch. 80, §1, 18 Stat. 320; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L.97–320, title IV, §406, Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §20(a), Jan. 12, 1983, 96 Stat. 2509.)
 
 #### Codification
 
@@ -18,5 +18,5 @@ Act Mar. 3, 1911, conferred powers and duties of former circuit courts on distri
 
 #### Effective Date of 1983 Amendment
 
-Section 20(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+Pub. L. 97–457, §20(b), Jan. 12, 1983, 96 Stat. 2509, provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
 

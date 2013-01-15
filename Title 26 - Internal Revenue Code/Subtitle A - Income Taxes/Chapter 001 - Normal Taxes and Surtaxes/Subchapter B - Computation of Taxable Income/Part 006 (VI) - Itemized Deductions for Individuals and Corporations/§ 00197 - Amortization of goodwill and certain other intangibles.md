@@ -318,7 +318,7 @@ Section 1245.—The amendment made by subsection (b)(2) \[amending section 1245 
 
 #### Effective Date
 
-Section 13261(g) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1703(<i>l</i>), Aug. 20, 1996, 110 Stat. 1877, provided that:
+Pub. L. 103–66, title XIII, §13261(g), Aug. 10, 1993, 107 Stat. 540, as amended by Pub. L. 104–188, title I, §1703(l), Aug. 20, 1996, 110 Stat. 1877, provided that:
 
 “(1)
 

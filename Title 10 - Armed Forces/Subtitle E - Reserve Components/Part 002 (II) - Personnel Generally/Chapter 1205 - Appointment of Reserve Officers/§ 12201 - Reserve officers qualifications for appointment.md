@@ -80,7 +80,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383 substituted “If an officer is transferred from the active-duty list of an armed force to a reserve active-status list of an armed force in accordance with regulations prescribed by the Secretary of Defense, the officer” for “An officer transferred from the active-duty list of an armed force to a reserve active-status list of an armed force under section 647 of this title”.
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383 substituted “If an officer is transferred from the active-duty list of anarmed force to a reserve active-status list of an armed force in accordance with regulations prescribed by the Secretary of Defense, the officer” for “An officer transferred from the active-duty list of an armed force to a reserve active-status list of an armed force under section 647 of this title”.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
 
@@ -126,7 +126,7 @@ Pub. L. 102–190, div. A, title V, §523, Dec. 5, 1991, 105 Stat. 1363, provide
 
 #### Priority in Making Original Appointments in Guard and Reserve Components for ROTC Scholarship Program Graduates
 
-Pub. L. 102–190, div. A, title V, §524, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “In making appointments of persons as second lieutenants in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to the grade of ensign in the Navy Reserve, or in granting federal recognition in the grade of second lieutenant to members of the Army National Guard or Air National Guard, the Secretary of the military department concerned shall give preference to persons who have completed a post-secondary program of education pursued under a ROTC scholarship program at a college or university accredited to award baccalaureate degrees or pursued under a ROTC scholarship program at an accredited two-year or four-year military college.”
+Pub. L. 102–190, div. A, title V, §524, Dec. 5, 1991, 105 Stat. 1363, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “In making appointments of persons as second lieutenants in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to the grade of ensign in the Navy Reserve, or in granting federal recognition in the grade of second lieutenant to members of the Army National Guard or Air National Guard, the Secretary of the military department concerned shall give preference to persons who have completed a post-secondary program of education pursued under a ROTC scholarship program at a college or university accredited to award baccalaureate degrees or pursued under a ROTC scholarship program at an accredited two-year or four-year military college.”
 
 #### Report on Initial Appointment of All Officers as Reserve Officers and on Appropriate Active Duty Obligation of Graduates of Service Academies
 
@@ -134,5 +134,5 @@ Pub. L. 101–510, div. A, title V, §524, Nov. 5, 1990, 104 Stat. 1562, directe
 
 #### Deadline for Regulations Implementing Subsection (e) of This Section
 
-Section 718(b) of Pub. L. 100–180 provided that: “The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VII, §718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: “The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\].”
 

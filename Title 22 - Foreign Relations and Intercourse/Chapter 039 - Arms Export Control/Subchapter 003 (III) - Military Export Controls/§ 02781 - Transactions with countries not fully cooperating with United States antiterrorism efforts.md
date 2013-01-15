@@ -20,5 +20,5 @@ Another section 40A of Pub. L. 90–629 is classified to section 2785 of this ti
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 1(<i>o</i>) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of State by section 1(o) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

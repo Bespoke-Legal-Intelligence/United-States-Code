@@ -18,7 +18,7 @@ Any rescission bill introduced with respect to a special message or impoundment 
 
 (3) Motions to postpone, made with respect to the consideration of a rescission bill or impoundment resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
 
-(4) All appeals from the decisions of the Chair relating to the application of the Rules of theHouse of Representatives to the procedure relating to any rescission bill or impoundment resolution shall be decided without debate.
+(4) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any rescission bill or impoundment resolution shall be decided without debate.
 
 (5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of any rescission bill or impoundment resolution and amendments thereto (or any conference report thereon) shall be governed by the Rules of the House of Representatives applicable to other bills and resolutions, amendments, and conference reports in similar circumstances.
 

@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References to Hearing Examiner Deemed References to Administrative Law Judge
 
-Section 3 of Pub. L. 95–251 provided that: “Any reference in any law, regulation, or order to a hearing examiner appointed under section 3105 of title 5, United States Code, shall be deemed to be a reference to an administrative law judge.”
+Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184, provided that: “Any reference in any law, regulation, or order to a hearing examiner appointed under section 3105 of title 5, United States Code, shall be deemed to be a reference to an administrative law judge.”
 
 #### Hearing Examiners Employed by Department of Agriculture
 

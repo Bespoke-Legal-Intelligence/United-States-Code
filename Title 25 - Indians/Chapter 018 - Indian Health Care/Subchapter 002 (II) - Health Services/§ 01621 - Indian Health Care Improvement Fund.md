@@ -194,7 +194,7 @@ Subsec. (c)(7). Pub. L. 96–537, §4(c)(3), struck out par. (7) which authorize
 
 #### Effective Date of 1992 Amendments
 
-Section 201(b) of Pub. L. 102–573 provided that: “Except with respect to the amendments made by subsection (a)(5) \[amending this section\], the amendments made by subsection (a) \[amending this section\] shall take effect three years after the date of the enactment of this Act \[Oct. 29, 1992\]. The amendments made by subsection (a)(5) shall take effect upon the date of the enactment of this Act.”
+Pub. L. 102–573, title II, §201(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “Except with respect to the amendments made by subsection (a)(5) \[amending this section\], the amendments made by subsection (a) \[amending this section\] shall take effect three years after the date of the enactment of this Act \[Oct. 29, 1992\]. The amendments made by subsection (a)(5) shall take effect upon the date of the enactment of this Act.”
 
 #### Contract Medical Care Funds
 

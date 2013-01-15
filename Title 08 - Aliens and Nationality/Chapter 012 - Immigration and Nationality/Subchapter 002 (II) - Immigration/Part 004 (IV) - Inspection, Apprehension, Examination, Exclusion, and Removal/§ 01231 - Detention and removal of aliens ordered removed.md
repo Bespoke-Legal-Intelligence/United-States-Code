@@ -24,7 +24,7 @@
 
 #### (2) Detention
 
-&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
+&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
 
 #### (3) Supervision after 90-day period
 
@@ -66,7 +66,7 @@
 
 #### (6) Inadmissible or criminal aliens
 
-&emsp;An alien ordered removed who is inadmissible under section 1182 of this title, removable under section 1227(a)(1)(C), 1227(a)(2), or 1227(a)(4) of this title or who has been determined by the Attorney General to be a risk to the community or unlikely to comply with the order of removal, may be detained beyond theremoval period and, if released, shall be subject to the terms of supervision in paragraph (3).
+&emsp;An alien ordered removed who is inadmissible under section 1182 of this title, removable under section 1227(a)(1)(C), 1227(a)(2), or 1227(a)(4) of this title or who has been determined by the Attorney General to be a risk to the community or unlikely to comply with the order of removal, may be detained beyond the removal period and, if released, shall be subject to the terms of supervision in paragraph (3).
 
 #### (7) Employment authorization
 
@@ -88,7 +88,7 @@
 
 #### (B) Travel from contiguous territory
 
-&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
+&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the UnitedStates in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
 
 #### (C) Alternative countries
 
@@ -318,7 +318,7 @@
 
 #### (A) Through appropriation
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of an alien who has been admitted or permitted to land and is ordered removed, the cost (if any) of removal of the alien from the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of an alien who has been admittedor permitted to land and is ordered removed, the cost (if any) of removal of the alien from the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
 
 #### (B) Through owner
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 Amendment by section 306(a)(1) of Pub. L. 104–208 applicable as provided under section 309 of Pub. L. 104–208 (see Effective Date note below), see section 306(c) of Pub. L. 104–208, as amended, set out as a note under section 1252 of this title.
 
-Section 328(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply beginning with fiscal year 1997.”
+Pub. L. 104–208, div. C, title III, §328(a)(2), Sept. 30, 1996, 110 Stat. 3009–630, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply beginning with fiscal year 1997.”
 
 #### Effective Date
 
@@ -450,7 +450,7 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 
@@ -494,7 +494,7 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 
 #### Pilot Program on Use of Closed Military Bases for Detention of Inadmissible or Deportable Aliens
 
-Section 387 of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title III, §387, Sept. 30, 1996, 110 Stat. 3009–655, provided that:
 
 “(a)
 
@@ -518,7 +518,7 @@ Definition.—For purposes of this section, the term ‘base closure law’ mean
 
 #### Interior Repatriation Program
 
-Section 388 of div. C of Pub. L. 104–208 provided that: “Not later than 30 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the Secretary of State, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the operation of the program of interior repatriation developed under section 437 of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132) \[set out as a note below\].”
+Pub. L. 104–208, div. C, title III, §388, Sept. 30, 1996, 110 Stat. 3009–655, provided that: “Not later than 30 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the Secretary of State, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the operation of the program of interior repatriation developed under section 437 of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132) \[set out as a note below\].”
 
 Pub. L. 104–132, title IV, §437, Apr. 24, 1996, 110 Stat. 1275, provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 24, 1996\], the Attorney General and the Commissioner of Immigration and Naturalization shall develop and implement a program in which aliens who previously have illegally entered the United States not less than 3 times and are deported or returned to a country contiguous to the United States will be returned to locations not less than 500 kilometers from that country's border with the United States.”
 

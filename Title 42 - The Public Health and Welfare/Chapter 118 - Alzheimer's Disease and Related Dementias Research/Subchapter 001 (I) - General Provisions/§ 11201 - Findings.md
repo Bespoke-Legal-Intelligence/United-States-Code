@@ -34,7 +34,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) the understanding of the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer's disease and related dementias and their families, particularly with respect to the design, delivery, staffing, and mix of such services and the coordination of such services with other services, and with respect to the relationship of formal to informal support services;
 
-&emsp;&emsp;(D) the understanding of optimal methods to combine formal support services provided by health care professionals with informalsupport services provided by family, friends, and neighbors of individuals with Alzheimer's disease, and the identification of ways family caregivers can be sustained through interventions to reduce psychological and social problems and physical problems induced by stress;
+&emsp;&emsp;(D) the understanding of optimal methods to combine formal support services provided by health care professionals with informal support services provided by family, friends, and neighbors of individuals with Alzheimer's disease, and the identification of ways family caregivers can be sustained through interventions to reduce psychological and social problems and physical problems induced by stress;
 
 &emsp;&emsp;(E) existing data that are relevant to Alzheimer's disease and related dementias; and
 
@@ -68,9 +68,9 @@ Pub. L. 111–375, §1, Jan. 4, 2011, 124 Stat. 4100, provided that: “This Act
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–507 provided that: “This Act \[enacting section 11261 of this title, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Alzheimer's Disease Research, Training, and Education Amendments of 1992’.”
+Pub. L. 102–507, §1, Oct. 24, 1992, 106 Stat. 3281, provided that: “This Act \[enacting section 11261 of this title, amending this section and sections 285e–5, 11211, 11212, 11221, 11223, 11251, 11253, 11263, 11292, and 11294 of this title, repealing section 11261 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Alzheimer's Disease Research, Training, and Education Amendments of 1992’.”
 
 #### Short Title
 
-Section 901 of title IX of Pub. L. 99–660, as amended by Pub. L. 102–507, §2(a), Oct. 24, 1992, 106 Stat. 3281, provided that: “This title \[enacting this chapter\] may be cited as the ‘Alzheimer's Disease and Related Dementias Research Act of 1992’.”
+Pub. L. 99–660, title IX, §901, Nov. 14, 1986, 100 Stat. 3802, as amended by Pub. L. 102–507, §2(a), Oct. 24, 1992, 106 Stat. 3281, provided that: “This title \[enacting this chapter\] may be cited as the ‘Alzheimer's Disease and Related Dementias Research Act of 1992’.”
 

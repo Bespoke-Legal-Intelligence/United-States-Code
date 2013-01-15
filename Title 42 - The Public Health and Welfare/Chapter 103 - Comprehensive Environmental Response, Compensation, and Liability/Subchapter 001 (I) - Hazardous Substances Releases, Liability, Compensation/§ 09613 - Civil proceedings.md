@@ -36,7 +36,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;(B) A person who has resolved its liability to the United States or a State for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in paragraph (2).
 
-&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United States or the State. Any contribution action brought under this paragraph shall be governed by Federal law.
+&emsp;(C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United Statesor the State. Any contribution action brought under this paragraph shall be governed by Federal law.
 
 #### (g) Period in which action may be brought
 
@@ -58,7 +58,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
-> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs ordamages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
+> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 
@@ -156,7 +156,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 &emsp;&emsp;The President shall make reasonable efforts to identify and notify potentially responsible parties as early as possible before selection of a response action. Nothing in this paragraph shall be construed to be a defense to liability.
 
-#### (<i>l</i>) Notice of actions
+#### (l) Notice of actions
 
 Whenever any action is brought under this chapter in a court of the United States by a plaintiff other than the United States, the plaintiff shall provide a copy of the complaint to the Attorney General of the United States and to the Administrator of the Environmental Protection Agency.
 
@@ -178,7 +178,7 @@ The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L.
 
 Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsecs. (e) to (<i>l</i>). Pub. L. 99–499, §113(a), (b), (c)(2), added subsecs. (e) to (<i>l</i>).
+Subsecs. (e) to (l). Pub. L. 99–499, §113(a), (b), (c)(2), added subsecs. (e) to (l).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

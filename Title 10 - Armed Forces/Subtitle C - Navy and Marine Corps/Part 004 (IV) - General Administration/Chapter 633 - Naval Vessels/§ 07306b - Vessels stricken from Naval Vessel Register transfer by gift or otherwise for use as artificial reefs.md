@@ -22,7 +22,7 @@ Preparation of Vessel for Use as Artificial Reef.—The Secretary shall ensure t
 
 (d)
 
-Cost Sharing.—The Secretary may share with the recipient of a vessel transferred undersubsection (a) any costs associated with transferring the vessel under that subsection, including costs of the preparation of the vessel under subsection (c).
+Cost Sharing.—The Secretary may share with the recipient of a vessel transferred under subsection (a) any costs associated with transferring the vessel under that subsection, including costs of the preparation of the vessel under subsection (c).
 
 (e)
 

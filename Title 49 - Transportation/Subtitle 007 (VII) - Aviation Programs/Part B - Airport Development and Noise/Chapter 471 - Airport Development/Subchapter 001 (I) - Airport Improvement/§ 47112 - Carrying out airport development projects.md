@@ -14,11 +14,15 @@ Veterans’ Preference.—(1) In this subsection—
 
 &emsp;(A) “disabled veteran” has the same meaning given that term in section 2108 of title 5.
 
-&emsp;(B) “Vietnam-era veteran” means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces for more than 180 consecutive days, any part of which occurred after August 4, 1964, and before May 8, 1975, and who was separated from the armed forces under honorable conditions.
+&emsp;(B) “Vietnam-era veteran” means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces for more than 180 consecutive days, any part of which occurred after August 4, 1964, and before May 8, 1975, and who was discharged or released from active duty in the armed forces under honorable conditions.
 
-(2) A contract involving labor for carrying out an airport development project under a grant agreement under this subchapter must require that preference in the employment of labor (except in executive, administrative, and supervisory positions) be given to Vietnam-era veterans and disabled veterans when they are available and qualified for the employment.
+&emsp;(C) “Afghanistan-Iraq war veteran” means an individual who served on active duty (as defined in section 101 of title 38) in the armed forces in support of Operation Enduring Freedom, Operation Iraqi Freedom, or Operation New Dawn for more than 180 consecutive days, any part of which occurred after September 11, 2001, and before the date prescribed by presidential proclamation or by law as the last day of Operation Enduring Freedom, OperationIraqi Freedom, or Operation New Dawn (whichever is later), and who was discharged or released from active duty in the armed forces under honorable conditions.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1267; Pub. L. 107–217, §3(n)(8), Aug. 21, 2002, 116 Stat. 1303.)
+&emsp;(D) “Persian Gulf veteran” means an individual who served on active duty in the armed forces in the Southwest Asia theater of operations during the Persian Gulf War for more than 180 consecutive days, any part of which occurred after August 2, 1990, and before the date prescribed by presidential proclamation or by law, and who was discharged or released from active duty in the armed forces under honorable conditions.
+
+(2) A contract involving labor for carrying out an airport development project under a grant agreement under this subchapter must require that preference in the employment of labor (except in executive, administrative, and supervisory positions) be given to Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)) owned and controlled by disabled veterans when they are available and qualified for the employment.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1267; Pub. L. 107–217, §3(n)(8), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 112–95, title I, §139, Feb. 14, 2012, 126 Stat. 26.)
 
 Historical and Revision Notes
 
@@ -58,5 +62,15 @@ In subsection (c)(2), the words “must require that” are substituted for “s
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(1)(B). Pub. L. 112–95, §139(1)(A), substituted “discharged or released from active duty in” for “separated from”.
+
+Subsec. (c)(1)(C), (D). Pub. L. 112–95, §139(1)(B), added subpars. (C) and (D).
+
+Subsec. (c)(2). Pub. L. 112–95, §139(2), substituted “Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)) owned and controlled by disabled veterans” for “Vietnam-era veterans and disabled veterans”.
+
 <b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
+
+#### Priority Review of Construction Projects in Cold Weather States
+
+Pub. L. 112–95, title I, §154, Feb. 14, 2012, 126 Stat. 35, provided that: “The Administrator of the Federal Aviation Administration, to the extent practicable, shall schedule the Administrator's review of construction projects so that projects to be carried out in States in which the weather during a typical calendar year prevents major construction projects from being carried out before May 1 are reviewed as early as possible.”
 

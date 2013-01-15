@@ -10,7 +10,7 @@ Lieutenant Generals and Vice Admirals.—In the administration of subsection (a)
 
 (c)
 
-Generals and Admirals.—In the administration of subsection (a) in the case of an officer who is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
+Generals and Admirals.—In the administration of subsection (a) in the case of an officerwho is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 98–525, title XIV, §1405(14), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 105–85, div. A, title V, §506(a), (b), Nov. 18, 1997, 111 Stat. 1726.)
 

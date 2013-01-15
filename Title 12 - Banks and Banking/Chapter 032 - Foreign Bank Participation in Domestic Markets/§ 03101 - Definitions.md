@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, known as the International Banking Act of 1978, which enacted this chapter and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under this section and sections 36, 247, 601, and 611a of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, known as the International Banking Act of1978, which enacted this chapter and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under this section and sections 36, 247, 601, and 611a of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
@@ -58,11 +58,11 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 #### Short Title of 1991 Amendment
 
-Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
+Pub. L. 102–242, title II, §201, Dec. 19, 1991, 105 Stat. 2286, provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692l, and 1693o of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
 #### Short Title
 
-Section 1(a) of Pub. L. 95–369 provided that: “This Act \[enacting this chapter and sections 347d and 611a of this title, amending sections 72, 378, 614, 615, 618, 619, 1813,1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b and 1841 of this title, and enacting provisions set out as notes under sections 36, 247, 601, and 611a of this title\] may be cited as the ‘International Banking Act of 1978’.”
+Pub. L. 95–369, §1(a), Sept. 17, 1978, 92 Stat. 607, provided that: “This Act \[enacting this chapter and sections 347d and 611a of this title, amending sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b and 1841 of this title, and enacting provisions set out as notes under sections 36, 247, 601, and 611a of this title\] may be cited as the ‘International Banking Act of 1978’.”
 
 #### Foreign Control of United States Financial Institutions
 

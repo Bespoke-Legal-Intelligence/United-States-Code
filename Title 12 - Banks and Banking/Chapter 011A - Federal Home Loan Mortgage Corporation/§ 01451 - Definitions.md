@@ -24,15 +24,15 @@ As used in this chapter—
 
 (k) The term “State”, whether used as a noun or otherwise, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(<i>l</i>) The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
+(l) The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
 
 (Pub. L. 91–351, title III, §302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, §245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, §1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, §316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, §534(a)(2), June 30, 1980, 94 Stat. 741; Pub. L. 98–440, title II, §§202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, §1382(b), Oct. 28, 1992, 106 Stat. 4002.)
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (h) and (<i>l</i>), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title I of the National Housing Act is classified generally to subchapter I (§1702 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (h) and (l), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title I of the National Housing Act is classified generally to subchapter I (§1702 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208, as amended. Title II of the Act is classified principally to subchapter II (§8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act (42 U.S.C. 8211) was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that section June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub. L. 95–619, Nov. 9, 1978, 92Stat. 3208, as amended. Title II of the Act is classified principally to subchapter II (§8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act (42 U.S.C. 8211) was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that section June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Pub. L. 98–440, §202(b), inserted provision that term “residential mortgage
 
 Subsec. (i). Pub. L. 98–440, §204, substituted “any of its agencies or instrumentalities” for “a State or an agency or instrumentality of either”.
 
-Subsec. (<i>l</i>). Pub. L. 98–440, §202(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 98–440, §202(c), added subsec. (l).
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–294 inserted provision relating to loans or advances of credit made by a public utility and purchased by the Corporation pursuant to section 1454(a)(1) of this title.
 
@@ -60,7 +60,7 @@ Pub. L. 95–619 inserted provisions relating to loans or advances of credit ins
 
 #### Effective Date of 1978 Amendment
 
-Section 1703 of Pub. L. 95–630 provided that: “This title \[amending sections 1451 and 1464 of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XVII, §1703, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title \[amending sections 1451 and 1464 of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
 #### Short Title of 1981 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 97–110, title II, §201, Dec. 26, 1981, 95 Stat. 1514, provided that: 
 
 #### Short Title and Statement of Purpose
 
-Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
+Pub. L. 91–351, title III, §301, July 24, 1970, 84 Stat. 451, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
 
 “(a) This title \[enacting this chapter\] may be cited as the ‘Federal Home Loan Mortgage Corporation Act’.
 

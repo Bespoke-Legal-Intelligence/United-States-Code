@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
 
-> &emsp;The Secretary may also require the furnishing of any other information which is similar orrelated in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
+> &emsp;The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
 
 #### (2) Period for which information is to be furnished, etc.
 
@@ -206,7 +206,7 @@ Subsec. (b)(1). Pub. L. 94–455, §1031(b)(5), substituted in subpar. (A) “se
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-<b>1964</b>—Subsec. (d)(1). Pub. L. 88–554 substituted “subparagraphs (A), (B), and (C) of section 318(a)(3)” for “the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)” in subpar. (A), and deleted “clause (i) of” after “in applying” in subpar. (B).
+<b>1964</b>—Subsec. (d)(1). Pub. L. 88–554 substituted “subparagraphs (A), (B), and (C) of section 318(a)(3)” for “the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)” insubpar. (A), and deleted “clause (i) of” after “in applying” in subpar. (B).
 
 <b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions “Every United States person shall furnish” for “A domestic corporation shall furnish”, in subpar. (D)(i) “such person” for “any foreign corporation controlled by the domestic corporation”, in subpar. (D)(ii) “any other corporation which such person controls” for “any foreign subsidiary of a foreign corporation controlled by the domestic corporation”, in subpar. (D)(iii) “any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation” for “the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation”, and in subpar. (E) “each United States person who is a shareholder” for “each citizen or resident of the United States and each domestic corporation who is a shareholder”, and struck out provisions throughout the subsection which related to foreign subsidiaries.
 
@@ -216,7 +216,7 @@ Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign 
 
 Subsec. (b). Pub. L. 87–834, among other changes, substituted “If a United States person fails to furnish” for “If a domestic corporation fails to furnish” in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
-Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relatingto control are now contained in subsec. (d) of this section.
+Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1989 Amendment
 
-Section 7712(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7712(b), Dec. 19, 1989, 103 Stat. 2394, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1986 Amendment
 
@@ -246,7 +246,7 @@ Amendment by section 1245(b)(5) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1982 Amendment
 
-Section 338(d) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to information for annual accounting periods ending after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §338(d), Sept. 3, 1982, 96 Stat. 631, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to information for annual accounting periods ending after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1964 Amendment
 
@@ -254,9 +254,9 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 #### Effective Date of 1962 Amendment
 
-Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962.”
+Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962.”
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
+Pub. L. 86–780, §6(c), Sept. 14, 1960, 74 Stat. 1016, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
 

@@ -20,7 +20,7 @@ Pub. L. 100–202, §101(k) \[title IV, §401\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Language Proficiency and Evaluation of Foreign Agricultural Service Officers
 
-Section 1556 of title XV of Pub. L. 101–624, as amended by Pub. L. 104–127, title II, §281(b), Apr. 4, 1996, 110 Stat. 980, provided that:
+Pub. L. 101–624, title XV, §1556, Nov. 28, 1990, 104 Stat. 3698, as amended by Pub. L. 104–127, title II, §281(b), Apr. 4, 1996, 110 Stat. 980, provided that:
 
 “(a)
 

@@ -44,5 +44,5 @@ Pub. L. 105–82, §1, Nov. 13, 1997, 111 Stat. 1540, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 101–229 provided that: “This Act \[enacting this section and sections 410r–6 to 410r–8 of this title\] may be cited as the ‘Everglades National Park Protection and Expansion Act of 1989’.”
+Pub. L. 101–229, §1, Dec. 13, 1989, 103 Stat. 1946, provided that: “This Act \[enacting this section and sections 410r–6 to 410r–8 of this title\] may be cited as the ‘Everglades National Park Protection and Expansion Act of 1989’.”
 

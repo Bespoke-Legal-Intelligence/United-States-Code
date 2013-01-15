@@ -1,18 +1,18 @@
 ### §1752. Restricted building or grounds
 
-(a) It shall be unlawful for any person or group of persons—
+(a) Whoever—
 
-&emsp;(1) willfully and knowingly to enter or remain in any posted, cordoned off, or otherwise restricted area of a building or grounds where the President or other person protected by the Secret Service is or will be temporarily visiting;
+&emsp;(1) knowingly enters or remains in any restricted building or grounds without lawful authority to do so;
 
-&emsp;(2) willfully and knowingly to enter or remain in any posted, cordoned off, or otherwise restricted area of a building or grounds so restricted in conjunction with an event designated as a special event of national significance;
+&emsp;(2) knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engages in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions;
 
-&emsp;(3) willfully, knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, to engage in disorderly or disruptive conduct in, or within such proximity to, any building or grounds described in paragraph (1) or (2) when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions;
+&emsp;(3) knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or
 
-&emsp;(4) willfully and knowingly to obstruct or impede ingress or egress to or from any building, grounds, or area described in paragraph (1) or (2); or
+&emsp;(4) knowingly engages in any act of physical violence against any person or property in any restricted building or grounds;
 
-&emsp;(5) willfully and knowingly to engage in any act of physical violence against any person orproperty in any building, grounds, or area described in paragraph (1) or (2).
+> or attempts or conspires to do so, shall be punished as provided in subsection (b).
 
-(b) Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by—
+(b) The punishment for a violation of subsection (a) is—
 
 &emsp;(1) a fine under this title or imprisonment for not more than 10 years, or both, if—
 
@@ -22,15 +22,23 @@
 
 &emsp;(2) a fine under this title or imprisonment for not more than one year, or both, in any other case.
 
-(c) Violation of this section, and attempts or conspiracies to commit such violations, shall be prosecuted by the United States attorney in the Federal district court having jurisdiction of the place where the offense occurred.
+(c) In this section—
 
-(d) None of the laws of the United States or of the several States and the District of Columbia shall be superseded by this section.
+&emsp;(1) the term “restricted buildings or grounds” means any posted, cordoned off, or otherwise restricted area—
 
-(e) As used in this section, the term “other person protected by the Secret Service” means any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection.
+&emsp;&emsp;(A) of the White House or its grounds, or the Vice President's official residence or its grounds;
 
-(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252.)
+&emsp;&emsp;(B) of a building or grounds where the President or other person protected by the Secret Service is or will be temporarily visiting; or
+
+&emsp;&emsp;(C) of a building or grounds so restricted in conjunction with an event designated as a special event of national significance; and
+
+&emsp;(2) the term “other person protected by the Secret Service” means any person whom the United States Secret Service is authorized to protect under section 3056 of this title or by Presidential memorandum, when such person has not declined such protection.
+
+(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, §2, Mar. 8, 2012, 126 Stat. 263.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–98 amended section generally. Prior to amendment, section related to unlawful activities on restricted buildings or grounds.
 
 <b>2006</b>—Pub. L. 109–177, §602(b)(1), substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.
 
@@ -54,7 +62,7 @@ Subsecs. (d) to (f). Pub. L. 109–177, §602(a)(3), redesignated subsecs. (e) a
 
 &emsp;“(1) to designate by regulations the buildings and grounds which constitute the temporary residences of the President or other person protected by the Secret Service and the temporary offices of the President and his staff or of any other person protected by the Secret Service, and
 
-&emsp;“(2) to prescribe regulations governing ingress or egress to such buildings and grounds and to posted, cordoned off, or otherwise restricted areas where the President or other person protected by the Secret Service is or will be temporarily visiting.”
+&emsp;“(2) to prescribe regulations governing ingress or egress to such buildings and grounds and to posted,cordoned off, or otherwise restricted areas where the President or other person protected by the Secret Service is or will be temporarily visiting.”
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $500”, was executed in subsec. (b) by substituting “under this title” for “not exceeding $500” to reflect the probable intent of Congress.
 

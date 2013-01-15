@@ -20,5 +20,5 @@ Subsec. (b)(2), which authorized the Sergeant at Arms and Doorkeeper of the Sena
 
 #### Effective Date of 1990 Amendment
 
-Section 7(d) of Pub. L. 101–520 provided that the amendment made by that section is effective Apr. 1, 1991.
+Pub. L. 101–520, title I, §7(d), Nov. 5, 1990, 104 Stat. 2259, provided that the amendment made by section 7(d) is effective Apr. 1, 1991.
 

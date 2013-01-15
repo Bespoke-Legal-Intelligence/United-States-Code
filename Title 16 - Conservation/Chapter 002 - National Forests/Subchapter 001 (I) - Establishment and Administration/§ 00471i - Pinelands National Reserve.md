@@ -126,11 +126,11 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 (1)(A) During the development of the management plan, the Secretary is authorized to make grants to the State of New Jersey for the acquisition of lands and waters or interests therein within the Pinelands National Reserve that he determines, in consultation with the State planning entity, have critical ecological values which are in immediate danger of being adversely affected or destroyed.
 
-(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–4 et seq.\]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
+(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act \[16 U.S.C. 460l–4 et seq.\]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any otherFederal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
 
 (2) In the event the State elects not to make acquisitions as authorized under subsection (h)(1) of this section, the Secretary, during the development of the management plan, is authorized to acquire such lands, waters or interests therein by donation, purchase with donated or appropriated funds, exchange, or otherwise, and to administer such property under the laws generally applicable to units of the National Park System or National Wildlife Refuge System in a manner to carry out the purposes of this section.
 
-(3) After his approval of the management plan, the Secretary (A) is authorized to convey property acquired pursuant to subsection (h)(2) of this section to State or local authorities in accordance with the management plan, under such terms and conditions as he may deem appropriate, which shall include (i) a requirement that where the Secretary transfers land acquired with appropriated funds, the State or local government shall repay not less than 25 percent of the cost of such lands to the Secretary under such terms and conditions as he may deem appropriate, and (ii) a retention of a right of reversion of title to the United States, and (B) shall accept from the State those lands acquired pursuant to subsection (h)(1) of this section, which are identified in the management plan as being appropriate for Federal ownership and management: <i>Provided</i>, That the Secretaryshall reimburse to the State such sums as are necessary to (i) cover 100 percent of the original cost of acquisition as to each parcel of land so transferred and (ii) assure that as to the remainder of lands acquired pursuant to subsection (h)(1) of this section not transferred under this subsection, the total Federal land acquisition cost does not exceed 75 percent of the purchase price of such lands.
+(3) After his approval of the management plan, the Secretary (A) is authorized to convey property acquired pursuant to subsection (h)(2) of this section to State or local authorities in accordance with the management plan, under such terms and conditions as he may deem appropriate, which shall include (i) a requirement that where the Secretary transfers land acquired with appropriated funds, the State or local government shall repay not less than 25 percent of the cost of such lands to the Secretary under such terms and conditions as he may deem appropriate, and (ii) a retention of a right of reversion of title to the United States, and (B) shall accept from the State those lands acquired pursuant to subsection (h)(1) of this section, which are identified in the management plan as being appropriate for Federal ownership and management: <i>Provided</i>, That the Secretary shall reimburse to the State such sums as are necessary to (i) cover 100 percent of the original cost of acquisition as to each parcel of land so transferred and (ii) assure that as to the remainder of lands acquired pursuant to subsection (h)(1) of this section not transferred under this subsection, the total Federal land acquisition cost does not exceed 75 percent of the purchase price of such lands.
 
 (4) Upon approval of the management plan, the Secretary is authorized to make grants for the acquisition within the Pinelands National Reserve of lands and waters or interests therein in a manner consistent with the management plan. All applications for such grants shall be made within ten years from the date of implementation of the management plan.
 
@@ -152,11 +152,11 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 &emsp;(B) lands that are within the areas protected by the management plan and that are threatened by adverse development or have critical ecological values; or
 
-&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than 50 acres in the Reserve and have exhausted existing remedies to secure relief.
+&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than50 acres in the Reserve and have exhausted existing remedies to secure relief.
 
 > Additional funds contributed by the State to the Pinelands Development Bank after enactment of this Act, not to exceed $5,000,000, may be counted as part of the State share of land acquisition funds.
 
-#### (<i>l</i>) Pinelands interpretative and educational program; Interior Department study and recommendations
+#### (l) Pinelands interpretative and educational program; Interior Department study and recommendations
 
 #### (1) Study and recommendations for interpretative and educational program
 
@@ -194,7 +194,7 @@ The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 75
 
 The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Land and Water Conservation Fund Act, referred to in subsec. (h)(1)(B), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act, referred to in subsec. (h)(1)(B), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -204,5 +204,5 @@ Enactment of this Act, referred to in subsec. (k)(2), probably means date of ena
 
 <b>1988</b>—Subsec. (k). Pub. L. 100–486, §2, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (<i>l</i>). Pub. L. 100–486, §1, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–486, §1, added subsec. (l).
 

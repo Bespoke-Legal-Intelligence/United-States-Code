@@ -6,7 +6,7 @@ Parent Boards.—The Secretary of Defense shall require that there be establishe
 
 (b)
 
-Parent Participation Programs.—The Secretary of Defense shall require the establishment of a parent participation program at eachmilitary child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
+Parent Participation Programs.—The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 334.)
 

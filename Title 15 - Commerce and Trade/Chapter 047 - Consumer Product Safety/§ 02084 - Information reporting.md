@@ -52,7 +52,7 @@ For purposes of this section:
 
 #### Congressional Reports
 
-Section 112(f) of Pub. L. 101–608 provided that:
+Pub. L. 101–608, title I, §112(f), Nov. 16, 1990, 104 Stat. 3117, provided that:
 
 “(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
 

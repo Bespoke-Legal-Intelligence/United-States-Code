@@ -14,5 +14,5 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 
 #### Effective Date
 
-Section 3 of Pub. L. 95–503 provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–503, §3, Oct. 24, 1978, 92 Stat. 1704, provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1978.”
 

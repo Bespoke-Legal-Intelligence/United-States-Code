@@ -20,7 +20,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 (1) Whenever any price support or surplus removal operation for any agricultural commodity is carried out through purchases from or loans or payments to processors, the Secretary shall, to the extent practicable, obtain from the processors such assurances as he deems adequate that the producers of the agricultural commodity involved have received or will receive maximum benefits from the price support or surplus removal operation.
 
-(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugarbeets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers such maximum benefits less benefits previously received by such producers.
+(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers such maximum benefits less benefits previously received by such producers.
 
 (B) On such payment, the Secretary shall—
 
@@ -34,7 +34,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
@@ -72,7 +72,7 @@ Inclusion in Food, Agriculture, Conservation, and Trade Act of 1990.—The amend
 
 &emsp;“(3) Subsections (a) through (c), (e), (h), and (i) of section 501 \[amending sections 1924, 1942, 1981, 1983, 2001, and 2006e of this title\].
 
-&emsp;“(4) Subsections (a), (b), (f) through (i), and (<i>l</i>) of section 502 \[amending sections 2019, 2071, 2129, 2214, 2252, 2271, and 2278a–2 of Title 12, Banks and Banking\].
+&emsp;“(4) Subsections (a), (b), (f) through (i), and (l) of section 502 \[amending sections 2019, 2071, 2129, 2214, 2252, 2271, and 2278a–2 of Title 12, Banks and Banking\].
 
 &emsp;“(5) Section 602(c) \[amending provisions set out as a note below\].
 
@@ -138,11 +138,11 @@ Prior Crops.—Except as otherwise specifically provided and notwithstanding any
 
 #### Effective Date of 1985 Amendment
 
-Section 903(b) of Pub. L. 99–198 provided that: “The amendments made by this section \[amending this section\] shall apply to nonpayments occurring after January 1, 1985.”
+Pub. L. 99–198, title IX, §903(b), Dec. 23, 1985, 99 Stat. 1444, provided that: “The amendments made by thissection \[amending this section\] shall apply to nonpayments occurring after January 1, 1985.”
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–66, title I, §1001(a), Aug. 10, 1993, 107 Stat. 312, provided that: “This title \[enacting sections 936c and 1314i of this title and section 460<i>l</i>–6c of Title 16, Conservation, amending sections 511r, 608b, 1308, 1308–3, 1314c, 1314e, 1358–1, 1359a, 1359bb, 1441–2, 1444–2, 1444f, 1445, 1445–1, 1445–2, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f, 1446g, 1446h, 1463, 1465, 1469, 1506, 1508, 1508a, 1782, 1783, 1785, 5623, and 5641 of this title and sections 3830, 3831, and 3837 of Title 16, enacting provisions set out as notes under sections 936c, 1446e, 1506, and 5623 of this title, and amending provisions set out as notes under this section and sections 608c and 1445b–3a of this title\] may be cited as the ‘Agricultural Reconciliation Act of 1993’.”
+Pub. L. 103–66, title I, §1001(a), Aug. 10, 1993, 107 Stat. 312, provided that: “This title \[enacting sections 936c and 1314i of this title and section 460l–6c of Title 16, Conservation, amending sections 511r, 608b, 1308, 1308–3, 1314c, 1314e, 1358–1, 1359a, 1359bb, 1441–2, 1444–2, 1444f, 1445, 1445–1, 1445–2, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f, 1446g, 1446h, 1463, 1465, 1469, 1506, 1508, 1508a, 1782, 1783, 1785, 5623, and 5641 of this title and sections 3830, 3831, and 3837 of Title 16, enacting provisions set out as notes under sections 936c, 1446e, 1506, and 5623 of this title, and amending provisions set out as notes under this section and sections 608c and 1445b–3a of this title\] may be cited as the ‘Agricultural Reconciliation Act of 1993’.”
 
 #### Short Title of 1991 Amendment
 
@@ -166,7 +166,7 @@ Pub. L. 100–418, title II, §2221, Aug. 23, 1988, 102 Stat. 1336, provided tha
 
 Pub. L. 100–387, §1, Aug. 11, 1988, 102 Stat. 924, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Disaster Assistance Act of 1988’.”
 
-Section 601 of title VI of act Oct. 31, 1949, ch. 792, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 925, provided that: “This title \[enacting sections 1471 to 1471j of this title\] may be cited as the ‘Emergency Livestock Feed Assistance Act of 1988’.”
+Act Oct. 31, 1949, ch. 792, title VI, §601, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 925, provided that: “This title \[enacting sections 1471 to 1471j of this title\] may be cited as the ‘Emergency Livestock Feed Assistance Act of 1988’.”
 
 #### Short Title of 1987 Amendments
 
@@ -180,7 +180,7 @@ Pub. L. 98–258, §1, Apr. 10, 1984, 98 Stat. 130, provided: “That this Act \
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions setout as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
 
 Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
 
@@ -198,11 +198,11 @@ Pub. L. 96–213, §1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of act Oct. 31, 1949, provided that: “This Act \[enacting this section and sections 1422 to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the ‘Agricultural Act of 1949’.”
+Act Oct. 31, 1949, ch. 792, §1, 63 Stat. 1051, provided: “That this Act \[enacting this section and sections 1422to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the ‘Agricultural Act of 1949’.”
 
 #### Repeals
 
-Section 414 of act Oct. 31, 1949, provided in part that: “any provision of law in conflict with the provisions of this Act \[see Short Title note set out above\] are hereby repealed.”
+Act Oct. 31, 1949, ch. 792, title IV, §414, 63 Stat. 1057, provided in part that: “any provision of law in conflict with the provisions of this Act \[see Short Title note set out above\] are \[is\] hereby repealed.”
 
 #### Regulations
 
@@ -266,7 +266,7 @@ Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681,
 
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
-Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (J), (2)(MM), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (J), (2)(MM), June 18, 2008, 122 Stat. 1664, 1857, 1859, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
+Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(B), (D), (J), (2)(MM), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (J), (2)(MM), June 18, 2008, 122 Stat. 1664, 1857, 1859, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
 
 #### Survey of Program Participants
 
@@ -294,7 +294,7 @@ Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provi
 
 #### Readjustment of Support Levels
 
-Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, §263(a), Apr. 4, 1996, 110 Stat. 974.
+Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, §263(a), Apr. 4, 1996, 110 Stat. 974.
 
 #### Repayment of Advance Deficiency Payments
 
@@ -324,5 +324,5 @@ Pub. L. 97–98, title XI, §1112, Dec. 22, 1981, 95 Stat. 1267, directed Secret
 
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 
-Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+Act Aug. 28, 1954, ch. 1041, title III, §315, 68 Stat. 905, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
 

@@ -26,7 +26,7 @@ If any word, statement, or other information required by or under authority of t
 
 &emsp;(iii) the established name of each inactive ingredient listed in alphabetical order on the outside container of the retail package and, if determined to be appropriate by the Secretary, on the immediate container, as prescribed in regulation promulgated by the Secretary, except that nothing in this subclause shall be deemed to require that any trade secret be divulged, and except that the requirements of this subclause with respect to alphabetical order shall apply only to nonprescription drugs that are not also cosmetics and that this subclause shall not apply to nonprescription drugs not intended for human use.
 
-(B) For any prescription drug the established name of such drug or ingredient, as the casemay be, on such label (and on any labeling on which a name for such drug or ingredient is used) shall be printed prominently and in type at least half as large as that used thereon for any proprietary name or designation for such drug or ingredient, except that to the extent that compliance with the requirements of subclause (ii) or (iii) of clause (A) or this clause is impracticable, exemptions shall be established by regulations promulgated by the Secretary.
+(B) For any prescription drug the established name of such drug or ingredient, as the case may be, on such label (and on any labeling on which a name for such drug or ingredient is used) shall be printed prominently and in type at least half as large as that used thereon for any proprietary name or designation for such drug or ingredient, except that to the extent that compliance with the requirements of subclause (ii) or (iii) of clause (A) or this clause is impracticable, exemptions shall be established by regulations promulgated by the Secretary.
 
 (2) If it is a device and it has an established name, unless its label bears, to the exclusion of any other nonproprietary name, its established name (as defined in subparagraph (4)) prominently printed in type at least half as large as that used thereon for any proprietary name or designation for such device, except that to the extent compliance with the requirements of this subparagraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary.
 
@@ -54,19 +54,19 @@ If it has been found by the Secretary to be a drug liable to deterioration, unle
 
 If it is dangerous to health when used in the dosage or manner, or with the frequency or duration prescribed, recommended, or suggested in the labeling thereof.
 
-#### (k), (<i>l</i>) Repealed. Pub. L. 105–115, title I, §125(a)(2)(B), (b)(2)(D), Nov. 21, 1997, 111 Stat. 2325
+#### (k), (l) Repealed. Pub. L. 105–115, title I, §125(a)(2)(B), (b)(2)(D), Nov. 21, 1997, 111 Stat. 2325
 
 #### (m) Color additives; packing and labeling
 
-If it is a color additive the intended use of which is for the purpose of coloring only, unless its packaging and labeling are in conformity with such packaging and labeling requirements applicable to such color additive, as may be contained in regulations issued under section 379e of this title.
+If it is a color additive the intended use of which is for the purpose of coloring only, unlessits packaging and labeling are in conformity with such packaging and labeling requirements applicable to such color additive, as may be contained in regulations issued under section 379e of this title.
 
 #### (n) Prescription drug advertisements: established name; quantitative formula; side effects, contraindications, and effectiveness; prior approval; false advertising; labeling; construction of the Convention on Psychotropic Substances
 
 In the case of any prescription drug distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that drug a true statement of (1) the established name as defined in paragraph (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, (2) the formula showing quantitatively each ingredient of such drug to the extent required for labels under paragraph (e) of this section, and (3) such other information in brief summary relating to side effects, contraindications, and effectiveness as shall be required in regulations which shall be issued by the Secretary in accordance with section 371(a) of this title, and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: “You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.”, except that (A) except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement, and (B) no advertisement of a prescription drug, published after the effective date of regulations issued under this paragraph applicable to advertisements of prescription drugs, shall with respect to the matters specified in this paragraph or covered by such regulations, be subject to the provisions of sections 52 to 57 of title 15. This paragraph (n) shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title. Nothing in the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, shall be construed to prevent drug price communications to consumers. In the case of an advertisement for a drug subject to section 353(b)(1) of this title presented directly to consumers in television or radio format and stating the name of the drug and its conditions of use, the major statement relating to side effects and contraindications shall be presented in a clear, conspicuous, and neutral manner.
 
-#### (<i>o</i>) Drugs or devices from nonregistered establishments
+#### (o) Drugs or devices from nonregistered establishments
 
-If it was manufactured, prepared, propagated, compounded, or processed in an establishment in any State not duly registered under section 360 of this title, if it was not included in a list required by section 360(j) of this title, if a notice or other information respecting it was not provided as required by such section or section 360(k) of this title, or if it does not bear such symbols from the uniform system for identification of devices prescribed under section 360(e) of this title as the Secretary by regulation requires.
+If it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 360 of this title, if it is a drug and was imported or offered for import by a commercial importer of drugs not duly registered under section 381(s) of this title, if it was not included in a list required by section 360(j) of this title, if a notice or other information respecting it was not provided as required by such section or section 360(k) of this title, or if it does not bear such symbols from the uniform system for identification of devices prescribed under section 360(e) of this title as the Secretary by regulation requires.
 
 #### (p) Packaging or labeling of drugs in violation of regulations
 
@@ -86,7 +86,7 @@ If it is a device subject to a performance standard established under section 36
 
 #### (t) Devices for which there has been a failure or refusal to give required notification or to furnish required material or information
 
-If it is a device and there was a failure or refusal (1) to comply with any requirement prescribed under section 360h of this title respecting the device, (2) to furnish any material or information required by or under section 360i of this title respecting the device, or (3) to comply with a requirement under section 360<i>l</i> of this title.
+If it is a device and there was a failure or refusal (1) to comply with any requirement prescribed under section 360h of this title respecting the device, (2) to furnish any material or information required by or under section 360i of this title respecting the device, or (3) to comply with a requirement under section 360l of this title.
 
 #### (u) Identification of manufacturer
 
@@ -116,13 +116,25 @@ If it is a drug subject to an approved risk evaluation and mitigation strategy p
 
 #### (z) Postmarket studies and clinical trials; new safety information in labeling
 
-If it is a drug, and the responsible person (as such term is used in section 355(<i>o</i>) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(<i>o</i>) of this title with respect to such drug.
+If it is a drug, and the responsible person (as such term is used in section 355(o) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(o) of this title with respect to such drug.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949.)
+#### (aa) Unpaid fees; failure to submit identifying information
+
+If it is a drug, or an active pharmaceutical ingredient, and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–42(a)(4) of this title or for which identifying information required by section 379j–42(f) of this title has not been submitted, or it contains an active pharmaceutical ingredient that was manufactured, prepared, propagated, compounded, or processed in such a facility.
+
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443.)
 
 #### Amendments
 
-<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted “and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: ‘You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.’,” after “section 371(a) of this title,”.
+<b>2012</b>—Par. (o). Pub. L. 112–144, §714(c), inserted “if it is a drug and was imported or offered for import by a commercial importer of drugs not duly registered under section 381(s) of this title,” after “not duly registered under section 360 of this title,”.
+
+Pub. L. 112–144, §702(a), struck out “in any State” after “establishment”.
+
+Par. (aa). Pub. L. 112–193 substituted “379j–42(a)(4)” for “379j–41(a)(4)”.
+
+Pub. L. 112–144, §306, added par. (aa).
+
+<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted “and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: ‘You are encouraged to report negative side effects of prescription drugs to the FDA. Visitwww.fda.gov/medwatch, or call 1–800-FDA-1088.’,” after “section 371(a) of this title,”.
 
 Pub. L. 110–85, §901(d)(6), substituted “section 371(a) of this title” for “the procedure specified in section 371(e) of this title”.
 
@@ -134,7 +146,7 @@ Pars. (y), (z). Pub. L. 110–85, §902(a), added pars. (y) and (z).
 
 <b>2005</b>—Par. (u). Pub. L. 109–43 amended par. (u) generally. Prior to amendment, par. (u) read as follows: “If it is a device, unless it, or an attachment thereto, prominently and conspicuously bears the name of the manufacturer of the device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, except that the Secretary may waive any requirement under this paragraph for the device if the Secretary determines that compliance with the requirement is not feasible for the device or would compromise the provision of reasonable assurance of the safety or effectiveness of the device.”
 
-<b>2004</b>—Par. (f). Pub. L. 108–214, in last sentence, inserted “or by a health care professional and required labeling for in vitro diagnostic devices intended for use by health care professionals or in blood establishments” after “in health care facilities”, insertedcomma after “means”, substituted “requirements of law, and that the manufacturer affords such users the opportunity” for “requirements of law and, that the manufacturer affords health care facilities the opportunity”, and struck out “the health care facility” after “promptly provides”.
+<b>2004</b>—Par. (f). Pub. L. 108–214, in last sentence, inserted “or by a health care professional and required labeling for in vitro diagnostic devices intended for use by health care professionals or in blood establishments” after “in health care facilities”, inserted comma after “means”, substituted “requirements of law, and that the manufacturer affords such users the opportunity” for “requirements of law and, that the manufacturer affords health care facilities the opportunity”, and struck out “the health care facility” after “promptly provides”.
 
 Par. (w). Pub. L. 108–282 added par. (w).
 
@@ -152,7 +164,7 @@ Par. (e)(1). Pub. L. 105–115, §412(c), amended subpar. (1) generally. Prior t
 
 Par. (k). Pub. L. 105–115, §125(a)(2)(B), struck out par. (k) which read as follows: “If it is, or purports to be, or is represented as a drug composed wholly or partly of insulin, unless (1) it is from a batch with respect to which a certificate or release has been issued pursuant to section 356 of this title, and (2) such certificate or release is in effect with respect to such drug.”
 
-Par. (<i>l</i>). Pub. L. 105–115, §125(b)(2)(D), struck out par. (<i>l</i>) which read as follows: “If it is, or purports to be, or is represented as a drug (except a drug for use in animals other than man) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug, or any derivative thereof, unless (1) it is from a batch with respect to which a certificate or release has been issued pursuant to section 357 of this title, and (2) such certificate or release is in effect with respect to such drug: <i>Provided</i>, That this paragraph shall not apply to any drug or class of drugs exempted by regulations promulgated under section 357(c) or (d) of this title.”
+Par. (l). Pub. L. 105–115, §125(b)(2)(D), struck out par. (l) which read as follows: “If it is, or purports to be, or is represented as a drug (except a drug for use in animals other than man) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug, or any derivative thereof, unless (1) it is from a batch with respect to which a certificate or release has been issued pursuant to section 357 of this title, and (2) such certificate or release is in effect with respect to such drug: <i>Provided</i>, That this paragraph shall not apply to any drug or class of drugs exempted by regulations promulgated under section 357(c) or (d) of this title.”
 
 <b>1993</b>—Par. (e)(3). Pub. L. 103–80, §3(m)(1), substituted “of such ingredient, except that” for “of such ingredient: <i>Provided</i>, That”.
 
@@ -174,37 +186,41 @@ Par. (j). Pub. L. 94–295, §3(e)(2), substituted “dosage or manner,” for �
 
 Par. (m). Pub. L. 94–295, §9(b)(2), substituted “the intended use of which is for” for “the intended use of which in or on drugs is for”.
 
-Par. (<i>o</i>). Pub. L. 94–295, §4(b)(2), substituted “If it was manufactured” for “If it is a drug and was manufactured” and inserted “, if it was not included in a list required by section 360(j) of this title, if a notice or other information respecting it was not provided as required by such section or section 360(k) of this title, or if it does not bear such symbols from the uniform system for identification of devices prescribed under section 360(e) of this title as the Secretary by regulation requires”.
+Par. (o). Pub. L. 94–295, §4(b)(2), substituted “If it was manufactured” for “If it is a drug and was manufactured” and inserted “, if it was not included in a list required by section 360(j) of this title, if a notice or other information respecting it was not provided as required by such section or section 360(k) of this title, or if it does not bear such symbols from the uniform system for identification of devices prescribed under section 360(e) of this title as the Secretary by regulation requires”.
 
 Pars. (q) to (t). Pub. L. 94–295, §3(e)(1), added pars. (q) to (t).
 
 <b>1970</b>—Par. (p). Pub. L. 91–601 added par. (p).
 
-<b>1968</b>—Par. (<i>l</i>). Pub. L. 90–399 inserted “(except a drug for use in animals other than man)” after “represented as a drug”.
+<b>1968</b>—Par. (l). Pub. L. 90–399 inserted “(except a drug for use in animals other than man)” after “represented as a drug”.
 
-<b>1962</b>—Par. (e). Pub. L. 87–781, §112(a), designated existing provisions as subpar. (1), substituted “, unless (A)its label bears, to the exclusion of any other nonproprietary name (except the applicable systematic chemical name or the chemical formula), (i) the established name (as defined in subparagraph (2) of this subsection) of the drug, if such there be, and (ii), in case it is fabricated from two or more ingredients, the established name and quantity” for “and is not designated solely by a name recognized in an official compendium unless its label bears (1) the common or usual name of the drug, if such there be; and (2), in case it is fabricated from two or more ingredients, the common or usual name”, and “the established name” for “the name”, provided that the requirement for stating the quantity of active ingredients, other than those specified in this par., applies only to prescription drugs, and that the established name of a drug on a label is to be printed prominently and in type at least half as large as used for any proprietary designation, and added subpar. (2) defining “established name”.
+<b>1962</b>—Par. (e). Pub. L. 87–781, §112(a), designated existing provisions as subpar. (1), substituted “, unless (A) its label bears, to the exclusion of any other nonproprietary name (except the applicable systematic chemical name or the chemical formula), (i) the established name (as defined in subparagraph (2) of this subsection) of the drug, if such there be, and (ii), in case it is fabricated from two or more ingredients, the established name and quantity” for “and is not designated solely by a name recognized in an official compendium unless its label bears (1) the common or usual name of the drug, if such there be; and (2), in case it is fabricated from two or more ingredients, the common or usual name”, and “the established name” for “the name”, provided that the requirement for stating the quantity of active ingredients, other than those specified in this par., applies only to prescription drugs, and that the established name of a drug on a label is to be printed prominently and in type at least half as large as used for any proprietary designation, and added subpar. (2) defining “established name”.
 
 Par. (g). Pub. L. 87–781, §112(b), provided that if there is an inconsistency between the provisions of this par. and those of par. (e), as to the name of a drug, the requirements of par. (e) should prevail.
 
-Par. (<i>l</i>). Pub. L. 87–781, §105(c), substituted “bacitracin, or any other antibiotic drug” for “or bacitracin.”
+Par. (l). Pub. L. 87–781, §105(c), substituted “bacitracin, or any other antibiotic drug” for “or bacitracin.”
 
 Par. (n). Pub. L. 87–781, §131(a), added par. (n).
 
-Par. (<i>o</i>). Pub. L. 87–781, §305, added par. (<i>o</i>).
+Par. (o). Pub. L. 87–781, §305, added par. (o).
 
 <b>1960</b>—Par. (m). Pub. L. 86–618 added par. (m).
 
-<b>1953</b>—Par. (<i>l</i>). Act Aug. 5, 1953, substituted “chlortetracycline” for “aureomycin”.
+<b>1953</b>—Par. (l). Act Aug. 5, 1953, substituted “chlortetracycline” for “aureomycin”.
 
-<b>1949</b>—Par. (<i>l</i>). Act July 13, 1949, inserted “, aureomycin, chloramphenicol, or bacitracin” after “streptomycin”.
+<b>1949</b>—Par. (l). Act July 13, 1949, inserted “, aureomycin, chloramphenicol, or bacitracin” after “streptomycin”.
 
-<b>1947</b>—Par. (<i>l</i>). Act Mar. 10, 1947, inserted “or streptomycin” after “penicillin”.
+<b>1947</b>—Par. (l). Act Mar. 10, 1947, inserted “or streptomycin” after “penicillin”.
 
-<b>1945</b>—Par. (<i>l</i>). Act July 6, 1945, added par. (<i>l</i>).
+<b>1945</b>—Par. (l). Act July 6, 1945, added par. (l).
 
 <b>1941</b>—Par. (k). Act Dec. 22, 1941, added par. (k).
 
 <b>1939</b>—Par. (d). Act June 29, 1939, substituted “name, and quality or proportion” for “name, quantity, and percentage”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by section 306 of Pub. L. 112–144 effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as an Effective and Termination Dates note under section 379j–41 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -250,13 +266,13 @@ Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establish
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Dateand Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1962 Amendment
 
-Section 112(c) of Pub. L. 87–781 provided that: “This section \[amending this section\] shall take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[October 1962\].”
+Pub. L. 87–781, title I, §112(c), Oct. 10, 1962, 76 Stat. 791, provided that: “This section \[amending this section\] shall take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[October 1962\].”
 
-Section 131(b) of Pub. L. 87–781 provided that: “No drug which was being commercially distributed prior to the date of enactment of this Act \[Oct. 10, 1962\] shall be deemed to be misbranded under paragraph (n) of section 502 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(n)\], as added by this section, until the earlier of the following dates: (1) the first day of the seventh month following the month in which this Act is enacted; or (2) the effective date of regulations first issued under clause (3) of such paragraph (n) in accordance with the procedure specified in section 701(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 371(e)\].”
+Pub. L. 87–781, title I, §131(b), Oct. 10, 1962, 76 Stat. 792, provided that: “No drug which was being commercially distributed prior to the date of enactment of this Act \[Oct. 10, 1962\] shall be deemed to be misbranded under paragraph (n) of section 502 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(n)\], as added by this section, until the earlier of the following dates: (1) the first day of the seventh month following the month in which this Act is enacted; or (2) the effective date of regulations first issued under clause (3) of such paragraph (n) in accordance with the procedure specified in section 701(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 371(e)\].”
 
 Amendment by Pub. L. 87–781 effective on first day of seventh calendar month following October 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
 
@@ -322,11 +338,11 @@ Content.—As part of the study under paragraph (1), such Secretary shall consid
 
 Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
 
-Section 114(b) of Pub. L. 105–115 provided that: “The Comptroller General of the United States shall conduct a study of the implementation of the provisions added by the amendment made by subsection (a) \[amending this section\]. Not later than 4 years and 6 months after the date of enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall prepare and submit to Congress a report containing the findings of the study.”
+Pub. L. 105–115, title I, §114(b), Nov. 21, 1997, 111 Stat. 2312, provided that: “The Comptroller General of the United States shall conduct a study of the implementation of the provisions added by the amendment made by subsection (a) \[amending this section\]. Not later than 4 years and 6 months after the date of enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall prepare and submit to Congress a report containing the findings of the study.”
 
 #### Counterfeiting of Drugs; Congressional Findings and Declaration of Policy
 
-Section 9(a) of Pub. L. 89–74, July 15, 1965, 79 Stat. 234, provided that: “The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating the brand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins.”
+Pub. L. 89–74, §9(a), July 15, 1965, 79 Stat. 234, provided that: “The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating the brand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins.”
 
 Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out as an Effective Date of 1965 Amendment note under section 321 of this title.
 

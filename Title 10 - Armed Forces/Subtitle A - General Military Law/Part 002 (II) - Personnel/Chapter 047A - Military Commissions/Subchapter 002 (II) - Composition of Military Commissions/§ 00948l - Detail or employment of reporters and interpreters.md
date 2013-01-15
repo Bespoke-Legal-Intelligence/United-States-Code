@@ -16,5 +16,5 @@ Transcript; Record.—The transcript of a military commission under this chapter
 
 #### Prior Provisions
 
-A prior section 948<i>l</i>, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2605, related to detail or employment of reporters and interpreters, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948l, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2605, related to detail or employment of reporters and interpreters, prior to the general amendment of this chapter by Pub. L. 111–84.
 

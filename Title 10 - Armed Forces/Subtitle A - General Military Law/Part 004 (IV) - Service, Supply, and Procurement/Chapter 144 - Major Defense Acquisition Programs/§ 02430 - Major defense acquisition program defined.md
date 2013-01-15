@@ -4,7 +4,7 @@
 
 &emsp;(1) that is designated by the Secretary of Defense as a major defense acquisition program; or
 
-&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditurefor research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
 (b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -36,9 +36,85 @@ Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Limitation on use of Cost-Type Contracts
+
+Pub. L. 112–239, div. A, title VIII, §811, Jan. 2, 2013, 126 Stat. 1828, provided that:
+
+“(a)
+
+Prohibition With Respect to Production of Major Defense Acquisition Programs.—Not later than 120 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall modify the acquisition regulations of the Department of Defense to prohibit the Department from entering into cost-type contracts for the production of major defense acquisition programs.
+
+“(b)
+
+Exception.—
+
+&emsp;“(1)
+
+In general.—The prohibition under subsection (a) shall not apply in the case of a particular cost-type contract if the Under Secretary of Defense for Acquisition, Technology, and Logistics provides written certification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that a cost-type contract is needed to provide a required capability in a timely and cost-effective manner.
+
+&emsp;“(2)
+
+Scope of exception.—In any case for which the Under Secretary grants an exception under paragraph (1), the Under Secretary shall take affirmative steps to make sure that the use of cost-type pricing is limited to only those line items or portions of the contract where such pricing is needed to achieve the purposes of the exception. A written certification under paragraph (1) shall be accompanied by an explanation of the steps taken under this paragraph.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given the term in section 2430(a) of title 10, United States Code.
+
+&emsp;“(2)
+
+Production of a major defense acquisition program.—The term ‘production of a major defense acquisition program’ means the production and deployment of a major system that is intended to achieve an operational capability that satisfies mission needs, or any activity otherwise defined as Milestone C under Department of Defense Instruction 5000.02 or related authorities.
+
+&emsp;“(3)
+
+Contract for the production of a major defense acquisition program.—The term ‘contract for the production of a major defense acquisition program’—
+
+&emsp;&emsp;“(A) means a prime contract for the production of a major defense acquisition program; and
+
+&emsp;&emsp;“(B) does not include individual line items for segregable efforts or contracts for the incremental improvement of systems that are already in production (other than contracts for major upgrades that are themselves major defense acquisition programs).
+
+“(d)
+
+Applicability.—The requirements of this section shall apply to contracts for the production of major defense acquisition programs entered into on or after October 1, 2014.”
+
+#### Estimates of Potential Termination Liability of Contracts for the Development or Production of Major Defense Acquisition Programs
+
+Pub. L. 112–239, div. A, title VIII, §812, Jan. 2, 2013, 126 Stat. 1829, provided that:
+
+“(a)
+
+Department of Defense Review.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall review relevant acquisition guidance and take appropriate actions to ensure that program managers for major defense acquisition programs are preparing estimates of potential termination liability for covered contracts, including how such termination liability is likely to increase or decrease over the period of performance, and are giving appropriate consideration to such estimates before making recommendations on decisions to enter into or terminate such contracts.
+
+“(b)
+
+Comptroller General of the United States Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 270 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
+
+&emsp;“(2)
+
+Matters to be addressed.—The report required by paragraph (1) shall include, at a minimum, an assessment of the following:
+
+&emsp;&emsp;“(A) The extent to which the Department of Defense developed estimates of potential termination liability for covered contracts entered into before the date of the enactment of this Act and how such termination liability was likely to increase or decrease over the period of performance before making decisions to enter into or terminate such contracts.
+
+&emsp;&emsp;“(B) The extent to which the Department considered estimates of potential termination liability for such contracts and how such termination liability was likely to increase or decrease over the period of performance as a risk factor in deciding whether to enter into or terminate such contracts.
+
+“(c)
+
+Covered Contracts.—For purposes of this section, a covered contract is a contract for the development or production of a major defense acquisition program for which potential termination liability could reasonably be expected to exceed $100,000,000.
+
+“(d)
+
+Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning given that term in section 2430(a) of title 10, United States Code.”
+
 #### Assessment, Management, and Control of Operating and Support Costs for Major Weapon Systems
 
-Pub. L. 112–81, div. A, title VIII, §832, Dec. 31, 2011, 125 Stat. 1504, provided that:
+Pub. L. 112–81, div. A, title VIII, §832, Dec. 31, 2011, 125 Stat. 1504, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(12), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 “(a)
 
@@ -48,7 +124,7 @@ Guidance Required.—Not later than 180 days after the date of the enactment of 
 
 Elements.—The guidance required by subsection (a) shall, at a minimum—
 
-&emsp;“(1) be issued in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by section 805 of the National Defenese \[sic\] Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2403; 10 U.S.C. 2301 \[2302\] note);
+&emsp;“(1) be issued in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by section 805 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2403; 10 U.S.C. 2301 \[2302\] note);
 
 &emsp;“(2) require the military departments to retain each estimate of operating and support costs that is developed at any time during the life cycle of a major weapon system, together with supporting documentation used to develop the estimate;
 
@@ -140,7 +216,7 @@ Major Defense Acquisition Program Defined.—In this section, the term ‘major 
 
 #### Developmental Test and Evaluation and Systems Engineering in the Military Departments and Defense Agencies
 
-Pub. L. 111–23, title I, §102(b), May 22, 2009, 123 Stat. 1714, as amended by Pub. L. 111–383, div. A, title VIII, §813(a), title IX, §901(<i>l</i>)(1), Jan. 7, 2011, 124 Stat. 4265, 4326, provided that:
+Pub. L. 111–23, title I, §102(b), May 22, 2009, 123 Stat. 1714, as amended by Pub. L. 111–383, div. A, title VIII, §813(a), title IX, §901(l)(1), Jan. 7, 2011, 124 Stat. 4265, 4326, provided that:
 
 “(1)
 
@@ -168,7 +244,7 @@ Reports by service acquisition executives.—Not later than 180 days after the d
 
 &emsp;“(A) such military department or Defense Agency has implemented, or is implementing, the plan required by paragraph (1); and
 
-&emsp;“(B) additional authorities or resources are needed to attract, develop, retain, and reward developmentaltest and evaluation personnel and systems engineers with appropriate levels of hands-on experience and technical expertise to meet the needs of such military department or Defense Agency.
+&emsp;“(B) additional authorities or resources are needed to attract, develop, retain, and reward developmental test and evaluation personnel and systems engineers with appropriate levels of hands-on experience and technical expertise to meet the needs of such military department or Defense Agency.
 
 “(3)
 
@@ -180,7 +256,7 @@ Pub. L. 111–23, title I, §103, May 22, 2009, 123 Stat. 1715, which authorized
 
 #### Acquisition Strategies To Ensure Competition Throughout the Lifecycle of Major Defense Acquisition Programs
 
-Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, as amended by Pub. L. 112–81, div. A, title VIII, §837, Dec. 31, 2011, 125 Stat. 1509, provided that:
+Pub. L. 111–23, title II, §202, May 22, 2009, 123 Stat. 1720, as amended by Pub. L. 112–81, div. A, title VIII, §837, Dec. 31, 2011, 125 Stat. 1509; Pub. L. 112–239, div. A, title VIII, §825, Jan. 2, 2013, 126 Stat. 1833, provided that:
 
 “(a)
 
@@ -216,13 +292,15 @@ Measures To Ensure Competition.—The measures to ensure competition, or the opt
 
 “(c)
 
-Additional Measures To Ensure Competition at Subcontract Level.—The Secretary shall take actions to ensure fair and objective ‘make-buy’ decisions by prime contractors on major defense acquisition programs by—
+Additional Measures To Ensure Competition at Subcontract Level.—The Secretary shall take actions to ensure competition or the option of competition at the subcontract level on major defense acquisition programs by—
 
-&emsp;“(1) requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
+&emsp;“(1) where appropriate, breaking out a major subsystem, conducting a separate competition for the subsystem, and providing the subsystem to the prime contractor as Government-furnished equipment;
 
-&emsp;“(2) providing for government surveillance of the process by which prime contractors consider such sources and determine whether to conduct such development or construction in-house or through a subcontract; and
+&emsp;“(2) requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
 
-&emsp;“(3) providing for the assessment of the extent to which a contractor has given full and fair consideration to qualified sources other than the contractor in sourcing decisions as a part of past performance evaluations.
+&emsp;“(3) providing for government surveillance of the process by which prime contractors consider such sources and determine whether to conduct such development or construction in-house or through a subcontract; and
+
+&emsp;“(4) providing for the assessment of the extent to which a contractor has given full and fair consideration to qualified sources other than the contractor in sourcing decisions as a part of past performance evaluations.
 
 “(d)
 
@@ -290,7 +368,7 @@ Pub. L. 111–23, title II, §207(a)–(c), May 22, 2009, 123 Stat. 1728, 1729, 
 
 “(a)
 
-Revised Regulations Required.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall revise the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs.
+Revised Regulations Required.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall revise theDefense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs.
 
 “(b)
 
@@ -382,7 +460,7 @@ In general.—The Configuration Steering Board for a major defense acquisition p
 
 Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—
 
-&emsp;&emsp;“(A) review and approve or disapprove any proposed changes to program requirements or systemconfiguration that have the potential to adversely impact program cost or schedule; and
+&emsp;&emsp;“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and
 
 &emsp;&emsp;“(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives.
 
@@ -508,7 +586,7 @@ Matters to Be Addressed.—The strategy required by this section shall address, 
 
 &emsp;“(1) enhanced training and educational opportunities for program managers;
 
-&emsp;“(2) increased emphasis on the mentoring of current and future program managers by experienced senior executives and program managers within the Department;
+&emsp;“(2) increased emphasis on the mentoring of current and future program managers by experiencedsenior executives and program managers within the Department;
 
 &emsp;“(3) improved career paths and career opportunities for program managers;
 
@@ -560,9 +638,7 @@ Pub. L. 108–136, div. A, title IX, §924, Nov. 24, 2003, 117 Stat. 1576, provi
 
 “(a)
 
-Management of Acquisition Programs Through USD (AT
-
-\&L).—The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act \[Nov. 24, 2003\], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Management of Acquisition Programs Through USD (AT\&L).—The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act \[Nov. 24, 2003\], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(b)
 
@@ -700,7 +776,7 @@ Data Base for NEPA Documentation.—The Secretary of Defense shall establish and
 
 #### Efficient Contracting Processes
 
-Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(2), Oct. 13, 1994, 108 Stat. 3360, provided that: “The Secretary of Defense shall take any additional actions that the Secretary considers necessary to waive regulations not required by statute that affect the efficiency of the contracting process within the Department of Defense. Such actions shall include, in the Secretary's discretion, developing methods to streamline the procurement process, streamlining the period for entering into contracts, and defining alternative techniques to reduce reliance on military specifications and standards, in contracts for the defense acquisition programs participating in the Defense Acquisition Pilot Program.”
+Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(2), Oct. 13, 1994, 108 Stat. 3360, provided that:“The Secretary of Defense shall take any additional actions that the Secretary considers necessary to waive regulations not required by statute that affect the efficiency of the contracting process within the Department of Defense. Such actions shall include, in the Secretary's discretion, developing methods to streamline the procurement process, streamlining the period for entering into contracts, and defining alternative techniques to reduce reliance on military specifications and standards, in contracts for the defense acquisition programs participating in the Defense Acquisition Pilot Program.”
 
 #### Contract Administration: Performance Based Contract Management
 

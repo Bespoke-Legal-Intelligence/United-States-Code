@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Native Hawaiian Education Council
 
-In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including those programs receiving funding under this part, theSecretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
+In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including those programs receiving funding under this part, the Secretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
 
 #### (b) Composition of Education Council
 

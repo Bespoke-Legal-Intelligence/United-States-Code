@@ -34,7 +34,7 @@ For purposes of this chapter:
 
 #### (6) Federal financial institutions regulatory agencies
 
-&emsp;The term “Federal financial institutions regulatory agencies” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporations, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the National Credit Union Administration.
+&emsp;The term “Federal financial institutions regulatory agencies” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the National Credit Union Administration.
 
 #### (7) Financial institution
 
@@ -42,7 +42,7 @@ For purposes of this chapter:
 
 #### (8) Chairperson
 
-&emsp;The term “Chairperson” means the Chairperson of the Appraisal Subcommittee selected by the council.<sup>1</sup>
+&emsp;The term “Chairperson” means the Chairperson of the Appraisal Subcommittee selected by the Council.
 
 #### (9) Foundation
 
@@ -52,35 +52,29 @@ For purposes of this chapter:
 
 &emsp;The term “written appraisal” means a written statement used in connection with a federally related transaction that is independently and impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
 
+#### (11) Appraisal management company
+
+&emsp;The term “appraisal management company” means, in connection with valuing properties collateralizing mortgage loans or mortgages incorporated into a securitization, any external third party authorized either by a creditor of a consumer credit transaction secured by a consumer's principal dwelling or by an underwriter of or other principal in the secondary mortgage markets, that oversees a network or panel of more than 15 certified or licensed appraisers in a State or 25 or more nationally within a given year—
+
+&emsp;&emsp;(A) to recruit, select, and retain appraisers;
+
+&emsp;&emsp;(B) to contract with licensed and certified appraisers to perform appraisal assignments;
+
+&emsp;&emsp;(C) to manage the process of having an appraisal performed, including providing administrative duties such as receiving appraisal orders and appraisal reports, submitting completed appraisal reports to creditors and underwriters, collecting fees from creditors and underwriters for services provided, and reimbursing appraisers for services performed; or
+
+&emsp;&emsp;(D) to review and verify the work of appraisers.
+
 (Pub. L. 101–73, title XI, §1121, Aug. 9, 1989, 103 Stat. 517; Pub. L. 111–203, title XIV, §1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2193, 2199.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(f)(4), (t)(2), (3), July 21, 2010, 124 Stat. 2136, 2193, 2199, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+<b>2010</b>—Par. (6). Pub. L. 111–203, §1473(t)(2), substituted “Corporation,” for “Corporations,”.
 
-<i>(1) in paragraph (6), by striking “Corporations,” and inserting “Corporation,”;</i>
+Par. (8). Pub. L. 111–203, §1473(t)(3), substituted “Council” for “council”.
 
-<i>(2) in paragraph (8), by striking “council” and inserting “Council”; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-#### <i>“(11) Appraisal management company</i>
-
-&emsp;<i>“The term ‘appraisal management company’ means, in connection with valuing properties collateralizing mortgage loans or mortgages incorporated into a securitization, any external third party authorized either by a creditor of a consumer credit transaction secured by a consumer's principal dwelling or by an underwriter of or other principal in the secondary mortgage markets, that oversees a network or panel of more than 15 certified or licensed appraisers in a State or 25 or more nationally within a given year—</i>
-
-&emsp;&emsp;<i>“(A) to recruit, select, and retain appraisers;</i>
-
-&emsp;&emsp;<i>“(B) to contract with licensed and certified appraisers to perform appraisal assignments;</i>
-
-&emsp;&emsp;<i>“(C) to manage the process of having an appraisal performed, including providing adminis</i><i>trative duties such as receiving appraisal orders and appraisal reports, submitting completed appraisal reports to creditors and underwriters, collecting fees from creditors and underwriters for services provided, and reimbursing appraisers for services performed; or</i>
-
-&emsp;&emsp;<i>“(D) to review and verify the work of appraisers.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
+Par. (11). Pub. L. 111–203, §1473(f)(4), added par. (11).
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

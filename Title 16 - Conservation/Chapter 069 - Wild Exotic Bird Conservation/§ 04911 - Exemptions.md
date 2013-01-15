@@ -4,7 +4,7 @@ Notwithstanding any prohibition, suspension, or quota under this chapter on the 
 
 &emsp;(1) Scientific research.
 
-&emsp;(2) As a personally owned pet of an individual who is returning to the United States afterbeing continuously out of the country for a minimum of one year, except that an individual may not import more than 2 exotic birds under this paragraph in any year.
+&emsp;(2) As a personally owned pet of an individual who is returning to the United States after being continuously out of the country for a minimum of one year, except that an individual may not import more than 2 exotic birds under this paragraph in any year.
 
 &emsp;(3) Zoological breeding or display programs.
 

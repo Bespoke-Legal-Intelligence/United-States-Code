@@ -26,12 +26,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note set out under section 1 of this title.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–5, div. B, title I, §1531(c)(7), title III, §3001(a)(12)(C), Feb. 17, 2009, 123 Stat. 360, 463, added items 6431 and 6432.
@@ -44,9 +38,9 @@ Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, add
 
 <b>2004</b>—Pub. L. 108–357, title III, §301(c)(14), Oct. 22, 2004, 118 Stat. 1463, added item 6426.
 
-<b>2003</b>—Pub. L. 108–27, title I, §§101(b)(2), 107, May 28, 2003, 117 Stat. 754, 755, temporarily added item 6429.
+<b>2003</b>—Pub. L. 108–27, title I, §101(b)(2), May 28, 2003, 117 Stat. 754, added item 6429.
 
-<b>2001</b>—Pub. L. 107–16, title I, §101(b)(2), title IX, §901, June 7, 2001, 115 Stat. 43, 150, temporarily added item 6428.
+<b>2001</b>—Pub. L. 107–16, title I, §101(b)(2), June 7, 2001, 115 Stat. 43, added item 6428.
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 “Sugar” and item 6428 “1981 rate reduction tax credit”.
 

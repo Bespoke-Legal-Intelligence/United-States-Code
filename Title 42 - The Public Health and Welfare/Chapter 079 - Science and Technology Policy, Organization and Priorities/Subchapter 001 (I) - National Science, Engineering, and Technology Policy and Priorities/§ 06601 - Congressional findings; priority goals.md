@@ -46,9 +46,9 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 94–282 provided that: “This Act \[enacting this chapter, amending section 1863 of this title, repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under section 1861 of this title, and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under section 5195 of this title, and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title\] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
+Pub. L. 94–282, §1, May 11, 1976, 90 Stat. 459, provided that: “This Act \[enacting this chapter, amending section 1863 of this title, repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under section 1861 of this title, and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under section 5195 of this title, and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title\] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
 
-Section 201 of title II of Pub. L. 94–282 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
+Pub. L. 94–282, title II, §201, May 11, 1976, 90 Stat. 463, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
 
 #### Ex. Ord. No. 12039. Transfer of Certain Science and Technology Policy Functions
 
@@ -116,13 +116,13 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(k) Director, National Science Foundation;
 
-&emsp;(<i>l</i>) Director of the Office of Management and Budget;
+&emsp;(l) Director of the Office of Management and Budget;
 
 &emsp;(m) Administrator, Environmental Protection Agency;
 
 &emsp;(n) Assistant to the President for Science and Technology;
 
-&emsp;(<i>o</i>) National Security Adviser;
+&emsp;(o) National Security Adviser;
 
 &emsp;(p) Assistant to the President for Economic Policy;
 
@@ -154,7 +154,7 @@ Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 129
 
 #### Executive Order No. 12975
 
-Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission, was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission,was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 #### Executive Order No. 13226
 
@@ -166,7 +166,7 @@ Term of President's Council of Advisors on Science and Technology extended until
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex.Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 13237
 
@@ -358,7 +358,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 3\. <i>Agency Head Approval of Classified Research Projects</i>. Agencies may not conduct any classified human research project subject to the Common Rule unless the agency head has personally approved the specific project.
 
-4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform theDirector of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
+4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
 
 5\. <i>Definitions</i>. For purposes of this memorandum, the terms “research” and “human subject” shall have the meaning set forth in the Common Rule. “Classified human research” means research involving “classified information” as defined in Executive Order 12958 \[50 U.S.C. 435 note\].
 

@@ -40,7 +40,7 @@ For separability of provisions of title III of Pub. L. 95–619, see section 302
 
 #### Congressional Statement of Findings and Purposes
 
-Section 310 of part 2 of title III of Pub. L. 95–619 provided that:
+Pub. L. 95–619, title III, §310, Nov. 9, 1978, 92 Stat. 3248, provided that:
 
 “(a)
 
@@ -56,7 +56,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this part \[enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy use and anticipated energy costs of buildings owned by units of local government and public care institutions.”
+Purpose.—It is the purpose of this part \[part 2 (§§310–312) of title III of Pub. L. 95–619, enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy use and anticipated energy costs of buildings owned by units of local government and public care institutions.”
 
 #### Application of Davis-Bacon Act
 

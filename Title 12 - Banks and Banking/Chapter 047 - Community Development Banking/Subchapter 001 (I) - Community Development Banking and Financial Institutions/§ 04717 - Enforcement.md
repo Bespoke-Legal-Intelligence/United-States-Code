@@ -16,7 +16,7 @@
 
 #### (b) Administrative enforcement
 
-The provisions of this subchapter, and regulations prescribed and agreements entered into under this subchapter, shall be enforced under section 8 of the Federal Deposit Insurance Act\[12 U.S.C. 1818\] by the appropriate Federal banking agency, in the case of an insured community development financial institution. A violation of this subchapter, or any regulation prescribed under or any agreement entered into under this subchapter, shall be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
+The provisions of this subchapter, and regulations prescribed and agreements entered into under this subchapter, shall be enforced under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] by the appropriate Federal banking agency, in the case of an insured community development financial institution. A violation of this subchapter, or any regulation prescribed under or any agreement entered into under this subchapter, shall be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
 (Pub. L. 103–325, title I, §119, Sept. 23, 1994, 108 Stat. 2188.)
 

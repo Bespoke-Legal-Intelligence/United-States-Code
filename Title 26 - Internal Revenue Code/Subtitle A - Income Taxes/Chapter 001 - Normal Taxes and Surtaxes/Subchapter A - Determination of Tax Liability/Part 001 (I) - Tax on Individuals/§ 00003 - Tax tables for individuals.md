@@ -82,7 +82,7 @@ Subsec. (a)(4)(A). Pub. L. 97–34, §121(c)(3), substituted “reduced by the s
 
 Subsec. (a)(5). Pub. L. 97–34, §101(b)(2)(C), added par. (5).
 
-Subsec. (b)(1). Pub. L. 97–34, §101(c)(2)(A), substituted “an individual to whom section 1301 (relating to income averaging) applies for the taxable year” for “an individual to whom (A) section 1301 (relating to income averaging), or (B) section 1348 (relating to maximum rate on personal service income), applies for the taxable year”.
+Subsec. (b)(1). Pub. L. 97–34, §101(c)(2)(A), substituted “an individual to whom section 1301 (relating to income averaging) applies for the taxable year” for “an individual to whom (A) section 1301 (relating to income averaging), or (B) section 1348 (relating to maximumrate on personal service income), applies for the taxable year”.
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–222 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which made reference to section 911 (relating to earned income from sources without the United States).
 
@@ -114,7 +114,7 @@ Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions ma
 
 #### Effective Date of 1980 Amendment
 
-Section 108(a)(2) of Pub. L. 96–222 provided that:
+Pub. L. 96–222, title I, §108(a)(2), Apr. 1, 1980, 94 Stat. 225, provided that:
 
 “(A)
 
@@ -134,11 +134,11 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 508 of Pub. L. 94–455 provided that: “Except as otherwise provided, the amendments made by this title \[enacting section 44A, amending this section and sections 36, 37, 41, 42, 46, 50A, 104, 144, 213, 217, 904, 1211, 1304, 3402, 6014, and 6096, enacting provisions set out as notes under sections 105, 8022, and repealing sections 4 and 214 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title V, §508, Oct. 4, 1976, 90 Stat. 1569, provided that: “Except as otherwise provided, the amendments made by this title \[enacting section 44A, amending this section and sections 36, 37, 41, 42, 46, 50A, 104, 144, 213, 217, 904, 1211, 1304, 3402, 6014, and 6096, enacting provisions set out as notes under sections 105, 8022, and repealing sections 4 and 214 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Section 209(a) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31,1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
+Pub. L. 94–12, title II, §209(a), Mar. 29, 1975, 89 Stat. 35, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
 
 #### Effective Date of 1969 Amendment
 
@@ -146,5 +146,5 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Section 301(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by this section \[amending this section and sections 4 and 6014 of this title\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title III, §301(c), Feb. 26, 1964, 78 Stat. 140, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by this section \[amending this section and sections 4 and 6014 of this title\] shall apply to taxable years beginning after December 31, 1963.”
 

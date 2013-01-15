@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginningof that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -94,7 +94,7 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2012), or
+&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2014), or
 
 &emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -118,7 +118,7 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335.)
 
 #### References in Text
 
@@ -129,6 +129,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012”.
 
 <b>2010</b>—Subsec. (f)(1). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
 
@@ -144,7 +146,7 @@ Subsec. (g)(1)(A). Pub. L. 109–59, §11125(b)(22)(B), substituted “section 5
 
 <b>2002</b>—Subsec. (f)(1). Pub. L. 107–147 substituted “January 1, 2004” for “January 1, 2002”.
 
-<b>2000</b>—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articlesproduced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
 &emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
 
@@ -187,6 +189,10 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §329(b), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendment made by this section \[amending this section\] shall apply to distilled spirits brought into the United States after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 
@@ -234,11 +240,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Effective Date of 1986 Amendment
 
-Section 1879(i)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to articles brought into the United States after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1879(i)(2), Oct. 22, 1986, 100 Stat. 2907, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to articles brought into the United States after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 2681(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. B, title VI, §2681(b), July 18, 1984, 98 Stat. 1173, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -312,17 +318,17 @@ In general.—For purposes of this paragraph, the term ‘incentive payment’ m
 
 Transportation payments excluded.—Such term shall not include any payment of a direct cost of transportation to or from Puerto Rico with respect to any article to which this paragraph applies.”
 
-Section 2682(b) of Pub. L. 98–369 provided that “The amendment made by this section \[amending this section\] shall apply to articles containing distilled spirits brought into the United States after September 30, 1985.”
+Pub. L. 98–369, div. B, title VI, §2682(b), July 18, 1984, 98 Stat. 1175, provided that “The amendment made by this section \[amending this section\] shall apply to articles containing distilled spirits brought into the United States after September 30, 1985.”
 
 #### Effective Date of 1983 Amendment
 
-Section 221(b) of Pub. L. 98–67 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles imported into the United States after June 30, 1983.”
+Pub. L. 98–67, title II, §221(b), Aug. 5, 1983, 97 Stat. 395, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles imported into the United States after June 30, 1983.”
 
 #### Effective Date of 1976 Amendments
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-Section 10(b) of Pub. L. 94–202 provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to all taxes imposed by, and collected after June 30, 1975, under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States.”
+Pub. L. 94–202, §10(b), Jan. 2, 1976, 89 Stat. 1141, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to all taxes imposed by, and collected after June 30, 1975, under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States.”
 
 #### Effective Date of 1965 Amendment
 
@@ -354,11 +360,11 @@ Second transfer of incremental increase in cover over attributable to periods be
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes
 
-Section 1879(i)(3) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1879(i)(3), Oct. 22, 1986, 100 Stat. 2907, provided that:
 
 “(A) Section 7652 of the Internal Revenue Code of 1954 \[now 1986\] (other than subsection (f) thereof) shall not prevent the payment to Puerto Rico or the Virgin Islands of amounts with respect to medicines, medicinal preparations, food products, flavors, or flavoring extracts containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands on or before the date of the enactment of this Act \[Oct. 22, 1986\].
 

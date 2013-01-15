@@ -112,7 +112,7 @@ An award under subsection (b) shall apply to—
 
 #### (e) Improvement
 
-Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
+Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. Inorder to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
 
 #### (f) Fees
 
@@ -176,7 +176,7 @@ Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted “or are utilized primaril
 
 Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted “ultra efficient vehicles, automobiles,” for “automobiles”.
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal andinterest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
 
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
 

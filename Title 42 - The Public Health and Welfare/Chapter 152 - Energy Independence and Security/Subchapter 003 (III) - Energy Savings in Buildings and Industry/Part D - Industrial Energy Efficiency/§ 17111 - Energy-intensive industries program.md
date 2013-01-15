@@ -100,7 +100,7 @@ The Secretary shall establish a program under which the Secretary, in cooperatio
 
 &emsp;&emsp;&emsp;(ii) conduct energy savings assessments;
 
-&emsp;&emsp;(E) the incorporation of technologies and innovations that would significantly improve the energy efficiency and utilizationof energy-intensive commercial applications; and
+&emsp;&emsp;(E) the incorporation of technologies and innovations that would significantly improve the energy efficiency and utilization of energy-intensive commercial applications; and
 
 &emsp;&emsp;(F) any other activities that the Secretary determines to be appropriate.
 
@@ -124,7 +124,7 @@ The Secretary shall establish a program under which the Secretary, in cooperatio
 
 #### (d) Grants
 
-The Secretary may award competitive grants for innovative technology research, development and demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
+The Secretary may award competitive grants for innovative technology research, developmentand demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
 
 #### (e) Institution of higher education-based industrial research and assessment centers
 

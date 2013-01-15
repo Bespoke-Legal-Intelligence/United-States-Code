@@ -2,11 +2,11 @@
 
 (a)
 
-Policy.—It is in the national interest to—
+Policy.—It is in the national interest—
 
-&emsp;(1) encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
+&emsp;(1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
 
-&emsp;(2) encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
+&emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
 
 (b)
 
@@ -18,21 +18,25 @@ Metropolitan planning area.—The term “metropolitan planning area” means th
 
 &emsp;(2)
 
-Metropolitan planning organization.—The term “metropolitan planning organization” means the policy board of an organization created as a result of the designation process in subsection (d).
+Metropolitan planning organization.—The term “metropolitan planning organization” means the policy board of an organization established as a result of the designation process under subsection (d).
 
 &emsp;(3)
 
-Nonmetropolitan area.—The term “nonmetropolitan area” means a geographic area outside a designated metropolitan planning area.
+Nonmetropolitan area.—The term “nonmetropolitan area” means a geographic area outside designated metropolitan planning areas.
 
 &emsp;(4)
 
 Nonmetropolitan local official.—The term “nonmetropolitan local official” means elected and appointed officials of general purpose local government in a nonmetropolitan area with responsibility for transportation.
 
-&emsp;(5) TIP.—The term “TIP” means a transportation improvement program developed by a metropolitan planning organization under subsection (j).
+&emsp;(5)
 
-&emsp;(6)
+Regional transportation planning organization.—The term “regional transportation planning organization” means a policy board of an organization established as the result of a designation under section 5304(l).
 
-Urbanized area.—The term “urbanized area” means a geographic area with a population of 50,000 or more, as designated by the Bureau of the Census.
+&emsp;(6) TIP.—The term “TIP” means a transportation improvement program developed by a metropolitan planning organization under subsection (j).
+
+&emsp;(7)
+
+Urbanized area.—The term “urbanized area” means a geographic area with a population of 50,000 or more, as determined by the Bureau of the Census.
 
 (c)
 
@@ -40,7 +44,7 @@ General Requirements.—
 
 &emsp;(1)
 
-Development of long-range plans and tips.—To accomplish the objectives in subsection (a), metropolitan planning organizations designated under subsection (d), in cooperation with the State and public transportation operators, shall develop long-range transportation plans and transportation improvement programs for metropolitan planning areas of the State.
+Development of long-range plans and tips.—To accomplish the objectives in subsection (a), metropolitan planning organizations designated under subsection (d), in cooperation with the State and public transportation operators, shall develop long-range transportation plans and transportation improvement programs through a performance-driven, outcome-based approach to planning for metropolitan areas of the State.
 
 &emsp;(2)
 
@@ -58,27 +62,27 @@ Designation of Metropolitan Planning Organizations.—
 
 In general.—To carry out the transportation planning process required by this section, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000 individuals—
 
-&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the largest incorporated city (based on population) as named by the Bureau of the Census); or
+&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the largest incorporated city (based on population) as determined by the Bureau of the Census); or
 
 &emsp;&emsp;(B) in accordance with procedures established by applicable State or local law.
 
 &emsp;(2)
 
-Structure.—Each metropolitan planning organization that serves an area designated as a transportation management area, when designated or redesignated under this subsection, shall consist of—
+Structure.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, each metropolitan planning organization that serves an area designated as a transportation management area shall consist of—
 
 &emsp;&emsp;(A) local elected officials;
 
-&emsp;&emsp;(B) officials of public agencies that administer or operate major modes of transportation in the metropolitan area; and
+&emsp;&emsp;(B) officials of public agencies that administer or operate major modes of transportation in the metropolitan area, including representation by providers of public transportation; and
 
 &emsp;&emsp;(C) appropriate State officials.
 
 &emsp;(3)
 
-Limitation on statutory construction.—Nothing in this subsection shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities to—
+Limitation on statutory construction.—Nothing in this subsection shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities—
 
-&emsp;&emsp;(A) develop the plans and TIPs for adoption by a metropolitan planning organization; and
+&emsp;&emsp;(A) to develop the plans and TIPs for adoption by a metropolitan planning organization; and
 
-&emsp;&emsp;(B) develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
+&emsp;&emsp;(B) to develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
 
 &emsp;(4)
 
@@ -86,11 +90,19 @@ Continuing designation.—A designation of a metropolitan planning organization 
 
 &emsp;(5)
 
-Redesignation procedures.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as named by the Bureau of the Census) as appropriate to carry out this section.
+Redesignation procedures.—
+
+&emsp;&emsp;(A)
+
+In general.—A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that togetherrepresent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as determined by the Bureau of the Census) as appropriate to carry out this section.
+
+&emsp;&emsp;(B)
+
+Restructuring.—A metropolitan planning organization may be restructured to meet the requirements of paragraph (2) without undertaking a redesignation.
 
 &emsp;(6)
 
-Designation of more than one metropolitan planning organization.—More than one metropolitan planning organization may be designated within an existing metropolitan planning area only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the existing metropolitan planning area make designation of more than one metropolitan planning organization for the area appropriate.
+Designation of more than 1 metropolitan planning organization.—More than 1 metropolitan planning organization may be designated within an existing metropolitan planning area only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the existing metropolitan planning area make designation of more than 1 metropolitan planning organization for the area appropriate.
 
 (e)
 
@@ -114,11 +126,19 @@ Identification of new urbanized areas within existing planning area boundaries.�
 
 &emsp;(4)
 
-Existing metropolitan planning areas in nonattainment.—Notwithstanding paragraph (2), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the Federal Public Transportation Act of 2005, the boundaries of the metropolitan planning area in existence as of such date of enactment shall be retained; except that the boundaries may be adjusted by agreement of the Governor and affected metropolitan planning organizations in the manner described in subsection (d)(5).
+Existing metropolitan planning areas in nonattainment.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) as of the date of enactment of the SAFETEA–LU, the boundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
+
+&emsp;&emsp;(B)
+
+Exception.—The boundaries described in subparagraph (A) may be adjusted by agreement of the Governor and affected metropolitan planning organizations in the manner described in subsection (d)(5).
 
 &emsp;(5)
 
-New metropolitan planning areas in nonattainment.—In the case of an urbanized area designated after the date of enactment of the Federal Public Transportation Act of 2005 as a nonattainment area for ozone or carbon monoxide, the boundaries of the metropolitan planning area—
+New metropolitan planning areas in nonattainment.—In the case of an urbanized area designated after the date of enactment of the SAFETEA–LU, as a nonattainment area for ozone or carbon monoxide, the boundaries of the metropolitan planning area—
 
 &emsp;&emsp;(A) shall be established in the manner described in subsection (d)(1);
 
@@ -126,7 +146,7 @@ New metropolitan planning areas in nonattainment.—In the case of an urbanized 
 
 &emsp;&emsp;(C) may encompass the areas described in paragraph (2)(B); and
 
-&emsp;&emsp;(D) may address any nonattainment area identified under the Clean Air Act for ozone or carbon monoxide.
+&emsp;&emsp;(D) may address any nonattainment area identified under the Clean Air Act (42 U.S.C. 7401 et seq.) for ozone or carbon monoxide.
 
 (f)
 
@@ -138,57 +158,13 @@ In general.—The Secretary shall encourage each Governor with responsibility fo
 
 &emsp;(2)
 
-Interstate compacts.—The consent of Congress is granted to any two or more States—
+Interstate compacts.—The consent of Congress is granted to any 2 or more States—
 
 &emsp;&emsp;(A) to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section as the activities pertain to interstate areas and localities within the States; and
 
 &emsp;&emsp;(B) to establish such agencies, joint or otherwise, as the States may determine desirable for making the agreements and compacts effective.
 
 &emsp;(3)
-
-Lake tahoe region.—
-
-&emsp;&emsp;(A)
-
-Definition.—In this paragraph, the term “Lake Tahoe region” has the meaning given the term “region” in subdivision (a) of article II of the Tahoe Regional Planning Compact, as set forth in the first section of Public Law 96–551 (94 Stat. 3234).
-
-&emsp;&emsp;(B)
-
-Transportation planning process.—The Secretary shall—
-
-&emsp;&emsp;&emsp;(i) establish with the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region a transportation planning process for the region; and
-
-&emsp;&emsp;&emsp;(ii) coordinate the transportation planning process with the planning process required of State and local governments under this section and section 5304.
-
-&emsp;&emsp;(C)
-
-Interstate compact.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—Subject to clause (ii), and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
-
-&emsp;&emsp;&emsp;(ii)
-
-Involvement of federal land management agencies.—
-
-&emsp;&emsp;&emsp;&emsp;(I)
-
-Representation.—The policy board of a metropolitan planning organization designated under clause (i) shall include a representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
-
-&emsp;&emsp;&emsp;&emsp;(II)
-
-Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this chapter and title 23, prior to any allocation under section 202 of title 23, and notwithstanding the allocation provisions of section 202, the Secretary shall set aside ½ of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 of title 23, and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
-
-&emsp;&emsp;(D)
-
-Activities.—Highway projects included in transportation plans developed under this paragraph—
-
-&emsp;&emsp;&emsp;(i) shall be selected for funding in a manner that facilitates the participation of the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region; and
-
-&emsp;&emsp;&emsp;(ii) may, in accordance with chapter 2 of title 23, be funded using funds allocated under section 202 of such title.
-
-&emsp;(4)
 
 Reservation of rights.—The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.
 
@@ -198,21 +174,29 @@ Consultation in Plan and TIP Coordination.—
 
 &emsp;(1)
 
-Nonattainment areas.—If more than one metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act, each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
+Nonattainment areas.—If more than 1 metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
 
 &emsp;(2)
 
-Transportation improvements located in multiple mpos.—If a transportation improvement, funded from the Highway Trust Fund or authorized under this chapter, is located within the boundaries of more than one metropolitan planning area, the metropolitan planning organizations shall coordinate plans and TIPs regarding the transportation improvement.
+Transportation improvements located in multiple mpos.—If a transportation improvement, funded under this chapter or title 23, is located within the boundaries of more than 1 metropolitan planning area, the metropolitan planning organizations shall coordinate plans and TIPs regarding the transportation improvement.
 
 &emsp;(3)
 
-Relationship with other planning officials.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities. Under the metropolitan planning process, transportation plans and TIPs shall be developed with due consideration of other related planning activities within the metropolitan area, and the process shall provide for the design and delivery of transportation services within the metropolitan area that are provided by—
+Relationship with other planning officials.—
 
-&emsp;&emsp;(A) recipients of assistance under this chapter;
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a source other than the Department of Transportation to provide nonemergency transportation services; and
+In general.—The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
 
-&emsp;&emsp;(C) recipients of assistance under section 204 of title 23.
+&emsp;&emsp;(B)
+
+Requirements.—Under the metropolitan planning process, transportation plans and TIPs shall be developed with due consideration of other related planning activities within the metropolitan area, and the process shall provide for the design and delivery of transportation services within the metropolitan area that are provided by—
+
+&emsp;&emsp;&emsp;(i) recipients of assistance under this chapter;
+
+&emsp;&emsp;&emsp;(ii) governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a source other than the Department of Transportation to provide nonemergency transportation services; and
+
+&emsp;&emsp;&emsp;(iii) recipients of assistance under section 204 of title 23.
 
 (h)
 
@@ -240,7 +224,43 @@ In general.—The metropolitan planning process for a metropolitan planning area
 
 &emsp;(2)
 
-Failure to consider factors.—The failure to consider any factor specified in paragraph (1) shall not be reviewable by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a TIP, a project or strategy, or the certification of a planning process.
+Performance-based approach.—
+
+&emsp;&emsp;(A)
+
+In general.—The metropolitan transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in section 150(b) of title 23 and the general purposes described in section 5301.
+
+&emsp;&emsp;(B)
+
+Performance targets.—
+
+&emsp;&emsp;&emsp;(i)
+
+Surface transportation performance targets.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—Each metropolitan planning organization shall establish performance targets that address the performance measures described in section 150(c) of title 23, where applicable, to use in tracking progress towards attainment of critical outcomes for the region of the metropolitan planning organization.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Coordination.—Selection of performance targets by a metropolitan planning organization shall be coordinated with the relevant State to ensure consistency, to the maximum extent practicable.
+
+&emsp;&emsp;&emsp;(ii)
+
+Public transportation performance targets.—Selection of performance targets by a metropolitan planning organization shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+
+&emsp;&emsp;(C)
+
+Timing.—Each metropolitan planning organization shall establish the performance targets under subparagraph (B) not later than 180 days after the date on which the relevant State or provider of public transportation establishes the performance targets.
+
+&emsp;&emsp;(D)
+
+Integration of other performance-based plans.—A metropolitan planning organization shall integrate in the metropolitan transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in other State transportation plans and transportation processes, as well as any plans developed by recipients of assistance under this chapter, required as part of a performance-based program.
+
+&emsp;(3)
+
+Failure to consider factors.—The failure to consider any factor specified in paragraphs (1) and (2) shall not be reviewable by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a TIP, a project or strategy, or the certification of a planning process.
 
 (i)
 
@@ -248,13 +268,27 @@ Development of Transportation Plan.—
 
 &emsp;(1)
 
-In general.—Each metropolitan planning organization shall prepare a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection. The metropolitan planning organization shall prepare and update such plan every 4 years (or more frequently, if the metropolitan planning organization elects to update more frequently) in the case of each of the following:
+Requirements.—
 
-&emsp;&emsp;(A) Any area designated as nonattainment, as defined in section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)).
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) Any area that was nonattainment and subsequently designated to attainment in accordance with section 107(d)(3) of that Act (42 U.S.C. 7407(d)(3)) and that is subject to a maintenance plan under section 175A of that Act (42 U.S.C. 7505a).
+In general.—Each metropolitan planning organization shall prepare and update a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
 
-> &emsp;In the case of any other area required to have a transportation plan in accordance with the requirements of this subsection, the metropolitan planning organization shall prepare and update such plan every 5 years unless the metropolitan planning organization elects to update more frequently.
+&emsp;&emsp;(B)
+
+Frequency.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The metropolitan planning organization shall prepare and update such plan every 4 years (or more frequently, if the metropolitan planning organization elects to update more frequently) in the case of each of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Any area designated as nonattainment, as defined in section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)).
+
+&emsp;&emsp;&emsp;&emsp;(II) Any area that was nonattainment and subsequently designated to attainment in accordance with section 107(d)(3) of that Act (42 U.S.C. 7407(d)(3)) and that is subject to a maintenance plan under section 175A of that Act (42 U.S.C. 7505a).
+
+&emsp;&emsp;&emsp;(ii)
+
+Other areas.—In the case of any other area required to have a transportation plan in accordance with the requirements of this subsection, the metropolitan planning organization shall prepare and update such plan every 5 years unless the metropolitan planning organization elects to update more frequently.
 
 &emsp;(2)
 
@@ -262,9 +296,29 @@ Transportation plan.—A transportation plan under this section shall be in a fo
 
 &emsp;&emsp;(A)
 
-Identification of transportation facilities.—An identification of transportation facilities (including major roadways, transit, multimodal and intermodal facilities, and intermodal connectors) that should function as an integrated metropolitan transportation system, giving emphasis to those facilities that serve important national and regional transportation functions. In formulating the transportation plan, the metropolitan planning organization shall consider factors described in subsection (h) as such factors relate to a 20-year forecast period.
+Identification of transportation facilities.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—An identification of transportation facilities (including major roadways, transit, multimodal and intermodal facilities, nonmotorized transportation facilities, and intermodal connectors) that should function as an integrated metropolitan transportation system, giving emphasis to those facilities that serve important national and regional transportation functions.
+
+&emsp;&emsp;&emsp;(ii)
+
+Factors.—In formulating the transportation plan, the metropolitan planning organization shall consider factors described in subsection (h) as the factors relate to a 20-year forecast period.
 
 &emsp;&emsp;(B)
+
+Performance measures and targets.—A description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with subsection (h)(2).
+
+&emsp;&emsp;(C)
+
+System performance report.—A system performance report and subsequent updates evaluating the condition and performance of the transportation system with respect to the performance targets described in subsection (h)(2), including—
+
+&emsp;&emsp;&emsp;(i) progress achieved by the metropolitan planning organization in meeting the performance targets in comparison with system performance recorded in previous reports; and
+
+&emsp;&emsp;&emsp;(ii) for metropolitan planning organizations that voluntarily elect to develop multiple scenarios, an analysis of how the preferred scenario has improved the conditions and performance of the transportation system and how changes in local policies and investments have impacted the costs necessary to achieve the identified performance targets.
+
+&emsp;&emsp;(D)
 
 Mitigation activities.—
 
@@ -276,27 +330,73 @@ In general.—A long-range transportation plan shall include a discussion of typ
 
 Consultation.—The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
 
-&emsp;&emsp;(C)
+&emsp;&emsp;(E)
 
-Financial plan.—A financial plan that demonstrates how the adopted transportation plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any additional financing strategies for needed projects and programs. The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available. For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates of funds that will be available to support plan implementation.
+Financial plan.—
 
-&emsp;&emsp;(D)
+&emsp;&emsp;&emsp;(i)
+
+In general.—A financial plan that—
+
+&emsp;&emsp;&emsp;&emsp;(I) demonstrates how the adopted transportation plan can be implemented;
+
+&emsp;&emsp;&emsp;&emsp;(II) indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan; and
+
+&emsp;&emsp;&emsp;&emsp;(III) recommends any additional financing strategies for needed projects and programs.
+
+&emsp;&emsp;&emsp;(ii)
+
+Inclusions.—The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+
+&emsp;&emsp;&emsp;(iii)
+
+Cooperative development.—For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates of funds that will be available to support plan implementation.
+
+&emsp;&emsp;(F)
 
 Operational and management strategies.—Operational and management strategies to improve the performance of existing transportation facilities to relieve vehicular congestion and maximize the safety and mobility of people and goods.
 
-&emsp;&emsp;(E)
+&emsp;&emsp;(G)
 
 Capital investment and other strategies.—Capital investment and other strategies to preserve the existing and projected future metropolitan transportation infrastructure and provide for multimodal capacity increases based on regional priorities and needs.
 
-&emsp;&emsp;(F)
+&emsp;&emsp;(H)
 
 Transportation and transit enhancement activities.—Proposed transportation and transit enhancement activities.
 
 &emsp;(3)
 
-Coordination with clean air act agencies.—In metropolitan areas which are in nonattainment for ozone or carbon monoxide under the Clean Air Act, the metropolitan planning organization shall coordinate the development of a transportation plan with the process for development of the transportation control measures of the State implementation plan required by the Clean Air Act.
+Coordination with clean air act agencies.—In metropolitan areas that are in nonattainment for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the metropolitan planning organization shall coordinate the development of a transportation plan with the process for development of the transportation control measures of the State implementation plan required by that Act.
 
 &emsp;(4)
+
+Optional scenario development.—
+
+&emsp;&emsp;(A)
+
+In general.—A metropolitan planning organization may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Recommended components.—A metropolitan planning organization that chooses to develop multiple scenarios under subparagraph (A) shall be encouraged to consider—
+
+&emsp;&emsp;&emsp;(i) potential regional investment strategies for the planning horizon;
+
+&emsp;&emsp;&emsp;(ii) assumed distribution of population and employment;
+
+&emsp;&emsp;&emsp;(iii) a scenario that, to the maximum extent practicable, maintains baseline conditions for the performance measures identified in subsection (h)(2);
+
+&emsp;&emsp;&emsp;(iv) a scenario that improves the baseline conditions for as many of the performance measures identified in subsection (h)(2) as possible;
+
+&emsp;&emsp;&emsp;(v) revenue constrained scenarios based on the total revenues expected to be available over the forecast period of the plan; and
+
+&emsp;&emsp;&emsp;(vi) estimated costs and potential revenues available to support each scenario.
+
+&emsp;&emsp;(C)
+
+Metrics.—In addition to the performance measures identified in section 150(c) oftitle 23, metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
+
+&emsp;(5)
 
 Consultation.—
 
@@ -312,7 +412,7 @@ Issues.—The consultation shall involve, as appropriate—
 
 &emsp;&emsp;&emsp;(ii) comparison of transportation plans to inventories of natural or historic resources, if available.
 
-&emsp;(5)
+&emsp;(6)
 
 Participation by interested parties.—
 
@@ -338,17 +438,17 @@ Methods.—In carrying out subparagraph (A), the metropolitan planning organizat
 
 &emsp;&emsp;&emsp;(iii) make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
 
-&emsp;(6)
+&emsp;(7)
 
 Publication.—A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
 
-&emsp;(7)
+&emsp;(8)
 
 Selection of projects from illustrative list.—Notwithstanding paragraph (2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(C).
 
 (j)
 
-Metropolitan Tip.—
+Metropolitan TIP.—
 
 &emsp;(1)
 
@@ -356,7 +456,13 @@ Development.—
 
 &emsp;&emsp;(A)
 
-In general.—In cooperation with the State and any affected public transportation operator, the metropolitan planning organization designated for a metropolitan area shall develop a TIP for the area for which the organization is designated.
+In general.—In cooperation with the State and any affected public transportation operator, the metropolitan planning organization designated for a metropolitan area shall develop a TIP for the metropolitan planning area that—
+
+&emsp;&emsp;&emsp;(i) contains projects consistent with the current metropolitan transportation plan;
+
+&emsp;&emsp;&emsp;(ii) reflects the investment priorities established in the current metropolitan transportation plan; and
+
+&emsp;&emsp;&emsp;(iii) once implemented, is designed to make progress toward achieving the performance targets established under subsection (h)(2).
 
 &emsp;&emsp;(B)
 
@@ -364,11 +470,15 @@ Opportunity for comment.—In developing the TIP, the metropolitan planning orga
 
 &emsp;&emsp;(C)
 
-Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonablyexpected to be available to support program implementation.
+Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
 
 &emsp;&emsp;(D)
 
-Updating and approval.—The TIP shall be updated at least once every 4 years and shall be approved by the metropolitan planning organization and the Governor.
+Updating and approval.—The TIP shall be—
+
+&emsp;&emsp;&emsp;(i) updated at least once every 4 years; and
+
+&emsp;&emsp;&emsp;(ii) approved by the metropolitan planning organization and the Governor.
 
 &emsp;(2)
 
@@ -376,7 +486,7 @@ Contents.—
 
 &emsp;&emsp;(A)
 
-Priority list.—The TIP shall include a priority list of proposed federally supported projects and strategies to be carried out within each 4-year period after the initial adoption of the TIP.
+Priority list.—The TIP shall include a priority list of proposed Federally supported projects and strategies to be carried out within each 4-year period after the initial adoption of the TIP.
 
 &emsp;&emsp;(B)
 
@@ -393,6 +503,10 @@ Financial plan.—The TIP shall include a financial plan that—
 &emsp;&emsp;(C)
 
 Descriptions.—Each project in the TIP shall include sufficient descriptive material (such as type of work, termini, length, and other similar factors) to identify the project or phase of the project.
+
+&emsp;&emsp;(D)
+
+Performance target achievement.—The transportation improvement program shall include, to the maximum extent practicable, a description of the anticipated effect of the transportation improvement program toward achieving the performance targets established in the metropolitan transportation plan, linking investment priorities to those performance targets.
 
 &emsp;(3)
 
@@ -412,7 +526,7 @@ Regionally significant projects.—Regionally significant projects proposed for 
 
 &emsp;&emsp;&emsp;(ii)
 
-Other projects.—Projects proposed for funding under chapter 2 of title 23 that are not determined to be regionally significant shall be grouped in one line item or identified individually in the transportation improvement program.
+Other projects.—Projects proposed for funding under chapter 2 of title 23 that are not determined to be regionally significant shall be grouped in 1 line item or identified individually in the transportation improvement program.
 
 &emsp;&emsp;(C)
 
@@ -432,7 +546,7 @@ Selection of projects.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as otherwise provided in subsection (k)(4) and in addition to the TIP development required under paragraph (1), the selection of federally funded projects in metropolitan areas shall be carried out, from the approved TIP—
+In general.—Except as otherwise provided in subsection (k)(4) and in addition to the TIP development required under paragraph (1), the selection of Federally funded projects in metropolitan areas shall be carried out, from the approved TIP—
 
 &emsp;&emsp;&emsp;(i) by—
 
@@ -468,11 +582,15 @@ Publication of tips.—A TIP involving Federal participation shall be published 
 
 &emsp;&emsp;(B)
 
-Publication of annual listings of projects.—An annual listing of projects, including investments in pedestrian walkways and bicycle transportation facilities, for which Federal funds have been obligated in the preceding year shall be published or otherwise made available by the cooperative effort of the State, transit operator, and metropolitan planning organization for public review. The listing shall be consistent with the categories identified in the TIP.
+Publication of annual listings of projects.—
 
-&emsp;&emsp;(C)
+&emsp;&emsp;&emsp;(i)
 
-Rulemaking.—Not later than 180 days after the date of enactment of the Federal Public Transportation Act of 2005, the Secretary shall issue regulations setting standards for the listing required by subparagraph (B) and specifying the types of data to be included in such list, including sufficient information about each project to identify its type, location, and amount obligated.
+In general.—An annual listing of projects, including investments in pedestrian walkways and bicycle transportation facilities, for which Federal funds have been obligated in the preceding year shall be published or otherwise made available by the cooperative effort of the State, transit operator, and metropolitan planning organization for public review.
+
+&emsp;&emsp;&emsp;(ii)
+
+Requirement.—The listing shall be consistent with the categories identified in the TIP.
 
 (k)
 
@@ -496,7 +614,15 @@ Transportation plans.—In a transportation management area, transportation plan
 
 &emsp;(3)
 
-Congestion management process.—Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23 through the use of travel demand reduction and operational management strategies. The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than one year after the identification of a transportation management area.
+Congestion management process.—
+
+&emsp;&emsp;(A)
+
+In general.—Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23 through the use of travel demand reduction and operational management strategies.
+
+&emsp;&emsp;(B)
+
+Schedule.—The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than 1 year after the identification of a transportation management area.
 
 &emsp;(4)
 
@@ -504,11 +630,11 @@ Selection of projects.—
 
 &emsp;&emsp;(A)
 
-In general.—All federally funded projects carried out within the boundaries of a metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System and projects carried out under the bridge program or the Interstate maintenance program) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
+In general.—All Federally funded projects carried out within the boundaries of a metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
 
 &emsp;&emsp;(B)
 
-National highway system projects.—Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System and projects carried out within such boundaries under the bridge program or the Interstate maintenance program under title 23 shall be selected for implementation from the approved TIP by the State in cooperation with the metropolitan planning organization designated for the area.
+National highway system projects.—Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System shall be selected for implementation from the approved TIP by the State in cooperation with the metropolitan planning organization designated for the area.
 
 &emsp;(5)
 
@@ -534,15 +660,43 @@ Requirements for certification.—The Secretary may make the certification under
 
 Effect of failure to certify.—
 
-&emsp;&emsp;&emsp;(i) Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable to the metropolitan planning area of the metropolitan planning organization for projects funded under this chapter and title 23.
+&emsp;&emsp;&emsp;(i)
 
-&emsp;&emsp;&emsp;(ii) Restoration of withheld funds.—The withheld funds shall be restored to the metropolitan planning area at such time as the metropolitan planning process is certified by the Secretary.
+Withholding of project funds.—If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable to the metropolitan planning area of the metropolitan planning organization for projects funded under this chapter and title 23.
+
+&emsp;&emsp;&emsp;(ii)
+
+Restoration of withheld funds.—The withheld funds shall be restored to the metropolitan planning area at such time as the metropolitan planning process is certified by the Secretary.
 
 &emsp;&emsp;(D)
 
 Review of certification.—In making certification determinations under this paragraph, the Secretary shall provide for public involvement appropriate to the metropolitan area under review.
 
-(<i>l</i>)
+(l)
+
+Report on Performance-based Planning Processes.—
+
+&emsp;(1)
+
+In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection <sup>1</sup>
+
+&emsp;(2)
+
+Report.—Not later than 5 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to Congress a report evaluating—
+
+&emsp;&emsp;(A) the overall effectiveness of performance-based planning as a tool for guiding transportation investments;
+
+&emsp;&emsp;(B) the effectiveness of the performance-based planning process of each metropolitan planning organization under this section;
+
+&emsp;&emsp;(C) the extent to which metropolitan planning organizations have achieved, or are currently making substantial progress toward achieving, the performance targets specified under this section and whether metropolitan planning organizations are developing meaningful performance targets; and
+
+&emsp;&emsp;(D) the technical capacity of metropolitan planning organizations that operate within a metropolitan planning area of less than 200,000 and their ability to carry out the requirements of this section.
+
+&emsp;(3)
+
+Publication.—The report under paragraph (2) shall be published or otherwise made available in electronically accessible formats and means, including on the Internet.
+
+(m)
 
 Abbreviated Plans for Certain Areas.—
 
@@ -552,33 +706,33 @@ In general.—Subject to paragraph (2), in the case of a metropolitan area not d
 
 &emsp;(2)
 
-Nonattainment areas.—The Secretary may not permit abbreviated plans or TIPs for a metropolitan area that is in nonattainment for ozone or carbon monoxide under the Clean Air Act.
+Nonattainment areas.—The Secretary may not permit abbreviated plans or TIPs for a metropolitan area that is in nonattainment for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.).
 
-(m)
+(n)
 
 Additional Requirements for Certain Nonattainment Areas.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provisions of this chapter or title 23, for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act, Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
+In general.—Notwithstanding any other provisions of this chapter or title 23, for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act (42 U.S.C. 7401 et seq.), Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
 
 &emsp;(2)
 
 Applicability.—This subsection applies to a nonattainment area within the metropolitan planning area boundaries determined under subsection (e).
 
-(n)
+(o)
 
-Limitation on Statutory Construction.—Nothing in this section shall be construed toconfer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
-
-(<i>o</i>)
-
-Funding.—Funds set aside under section 5305(g) of this title or section 104(f) of title 23 shall be available to carry out this section.
+Limitation on Statutory Construction.—Nothing in this section shall be construed to confer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
 
 (p)
 
-Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under such Act.
+Funding.—Funds set aside under section 104(f) of title 23 or section 5305(g) shall be available to carry out this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609.)
+(q)
+
+Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under that Act.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547; Pub. L. 110–244, title II, §201(b), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20005(a), July 6, 2012, 126 Stat. 628.)
 
 Historical and Revision Notes
 
@@ -688,23 +842,25 @@ This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (e)(4), (5)(D), (g)(1), (i)(3), (<i>l</i>)(2), and (m)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (d)(2) and (l)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsecs. (e)(4), (5) and (j)(7)(C), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The Clean Air Act, referred to in subsecs. (e)(4)(A), (5)(D), (g)(1), (i)(3), (m)(2), and (n)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-Public Law 96–551, referred to in subsec. (f)(3)(A), (C)(ii)(II), is Pub. L. 96–551, Dec. 19, 1980, 94 Stat. 3233, which is not classified to the Code.
+The date of enactment of the SAFETEA-LU, referred to in subsec. (e)(4)(A), (5), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (p), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
+<b>2012</b>—Pub. L. 112–141 amended section generally, substituting provisions consisting of subsecs. (a) to (q), including requirement to submit report on performance-based planning processes, for former provisions consisting of subsecs. (a) to (p).
+
+<b>2008</b>—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shallbe used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
 
 Subsec. (j)(3)(D). Pub. L. 110–244, §201(b)(2), inserted “or the identified phase” after “the project” in two places.
 
 Subsec. (k)(2). Pub. L. 110–244, §201(b)(3), struck out “a metropolitan planning area serving” before “a transportation management area,”.
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of eacharea, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of each area, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
 
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–178, §3004(a), added subsecs. (a) and (b) and struck out headings and text of former subsecs. (a) and (b) which related to development requirements and plan and program factors, respectively.
 
@@ -770,15 +926,77 @@ Subsec. (c)(5)(A). Pub. L. 105–102, §2(4)(C), inserted “and sections 5304�
 
 Subsec. (h)(4). Pub. L. 104–287, §5(10)(B), substituted “section 5338(g)” for “5338(g)(1)”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, providedthat: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
+
+#### Pilot Program for Transit-Oriented Development Planning
+
+Pub. L. 112–141, div. B, §20005(b), July 6, 2012, 126 Stat. 642, provided that:
+
+“(1)
+
+Definitions.—In this subsection the following definitions shall apply:
+
+&emsp;“(A)
+
+Eligible project.—The term ‘eligible project’ means a new fixed guideway capital project or a core capacity improvement project, as those terms are defined in section 5309 of title 49, United States Code, as amended by this division.
+
+&emsp;“(B)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.
+
+“(2)
+
+General authority.—The Secretary may make grants under this subsection to a State or local governmental authority to assist in financing comprehensive planning associated with an eligible project that seeks to—
+
+&emsp;“(A) enhance economic development, ridership, and other goals established during the project development and engineering processes;
+
+&emsp;“(B) facilitate multimodal connectivity and accessibility;
+
+&emsp;“(C) increase access to transit hubs for pedestrian and bicycle traffic;
+
+&emsp;“(D) enable mixed-use development;
+
+&emsp;“(E) identify infrastructure needs associated with the eligible project; and
+
+&emsp;“(F) include private sector participation.
+
+“(3)
+
+Eligibility.—A State or local governmental authority that desires to participate in the program under this subsection shall submit to the Secretary an application that contains, at a minimum—
+
+&emsp;“(A) identification of an eligible project;
+
+&emsp;“(B) a schedule and process for the development of a comprehensive plan;
+
+&emsp;“(C) a description of how the eligible project and the proposed comprehensive plan advance the metropolitan transportation plan of the metropolitan planning organization;
+
+&emsp;“(D) proposed performance criteria for the development and implementation of the comprehensive plan; and
+
+&emsp;“(E) identification of—
+
+&emsp;&emsp;“(i) partners;
+
+&emsp;&emsp;“(ii) availability of and authority for funding; and
+
+&emsp;&emsp;“(iii) potential State, local or other impediments to the implementation of the comprehensive plan.”
+
+#### Guidance on Documenting Compliance With Requirements of Private Enterprise Participation in Public Transportation Planning and Transportation Improvement Programs
+
+Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, provided that: “Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall publish in the Federal Register policy guidance regarding how to best document compliance by recipients of Federal assistance under chapter 53 of title 49, United States Code, with the requirements regarding private enterprise participation in public transportation planning and transportation improvement programs under sections 5303(i)(6), 5306(a), and 5307(c) of such title 49.”
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, provided that: “The Secretary \[of Transportation\] shall issue guidance on a schedule for implementation of the changes made by this section \[amending this section\], taking into consideration the established planning update cycle for States and metropolitan planning organizations. The Secretary shall not require a State or metropolitan planning organization to deviate from its established planning update cycle to implement changes made by this section. Beginning July 1, 2007, State or metropolitan planning organization plan or program updates shall reflect changes made by this section.”
+Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

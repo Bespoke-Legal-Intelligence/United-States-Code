@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State is eligible for assistance under this subchapter for a fiscal year if the State submitsa plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
+A State is eligible for assistance under this subchapter for a fiscal year if the State submits a plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
 
 #### (1) Free appropriate public education
 
@@ -270,7 +270,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly orthrough contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
 
 #### (ii) Reimbursement for services by public agency
 
@@ -374,7 +374,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(II).
 
-&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information aboutan individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
+&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information about an individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
 
 #### (E) Universal design
 
@@ -402,7 +402,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Reduction of funds for failure to maintain support
 
-&emsp;&emsp;The Secretary shall reduce the allocation of funds under section 1411 of this title for any fiscal year following the fiscal year in which the State fails to comply with the requirement of subparagraph (A) by the same amount by which the State fails to meet the requirement.
+&emsp;&emsp;The Secretary shall reduce the allocation of funds under section 1411 of this title for any fiscal year following the fiscal year inwhich the State fails to comply with the requirement of subparagraph (A) by the same amount by which the State fails to meet the requirement.
 
 #### (C) Waivers for exceptional or uncontrollable circumstances
 
@@ -486,7 +486,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Review and revision of policies
 
-&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementation of IEPs, the use of positive behavioral interventions and supports, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
+&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementationof IEPs, the use of positive behavioral interventions and supports, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
 
 #### (23) Access to instructional materials
 
@@ -528,7 +528,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (24) Overidentification and disproportionality
 
-&emsp;The State has in effect, consistent with the purposes of this chapter and with section1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
+&emsp;The State has in effect, consistent with the purposes of this chapter and with section 1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
 
 #### (25) Prohibition on mandatory medication
 

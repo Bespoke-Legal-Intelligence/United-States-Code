@@ -4,5 +4,5 @@ Section, act June 27, 1952, ch. 477, title III, ch. 3, §350, 66 Stat. 269, prov
 
 #### Effective Date of Repeal
 
-Section 1 of Pub. L. 95–432 provided that repeal of this section is effective Oct. 10, 1978.
+Pub. L. 95–432, §1, Oct. 10, 1978, 92 Stat. 1046, provided that repeal of this section is effective Oct. 10, 1978.
 

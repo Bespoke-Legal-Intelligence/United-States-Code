@@ -22,5 +22,5 @@ Minor changes were made in phraseology.
 
 #### Effective Date of 1988 Amendment
 
-Section 5 of Pub. L. 100–625 provided that: “The amendments made by this Act \[amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\].”
+Pub. L. 100–625, §5, Nov. 7, 1988, 102 Stat. 3206, provided that: “The amendments made by this Act \[amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\].”
 

@@ -12,7 +12,7 @@ No provision of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] shall apply to
 
 #### (b) Consultation
 
-Before commencing a rulemaking or making a determination pursuant to a rule issued undersections 27 to 27f of this title, the Commodity Futures Trading Commission shall consult with and seek the concurrence of the Board of Governors of the Federal Reserve System concerning—
+Before commencing a rulemaking or making a determination pursuant to a rule issued under sections 27 to 27f of this title, the Commodity Futures Trading Commission shall consult with and seek the concurrence of the Board of Governors of the Federal Reserve System concerning—
 
 &emsp;(1) the nature of the hybrid instrument; and
 
@@ -34,7 +34,7 @@ Before commencing a rulemaking or making a determination pursuant to a rule issu
 
 #### (4) Standard of review
 
-&emsp;The court shall determine to affirm and enforce or set aside a rule or determination of the Commodity Futures Trading Commission under this section, based on the determination of the court as to whether—
+&emsp;The court shall determine to affirm and enforce or set aside a rule or determination ofthe Commodity Futures Trading Commission under this section, based on the determination of the court as to whether—
 
 &emsp;&emsp;(A) the subject product is predominantly a banking product; and
 

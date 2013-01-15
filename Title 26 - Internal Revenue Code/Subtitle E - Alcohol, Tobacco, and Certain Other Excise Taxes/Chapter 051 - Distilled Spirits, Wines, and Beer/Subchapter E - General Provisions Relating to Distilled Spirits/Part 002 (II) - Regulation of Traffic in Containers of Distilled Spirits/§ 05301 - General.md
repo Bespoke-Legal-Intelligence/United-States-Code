@@ -26,7 +26,7 @@ No person who sells, or offers for sale, distilled spirits, or agent or employee
 
 &emsp;(4) possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 
-> except that the Secretary may by regulations authorize the reuse of liquor bottles, under suchconditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
+> except that the Secretary may by regulations authorize the reuse of liquor bottles, under such conditions as he may by regulations prescribe. When used in this subsection the term “liquor bottle” shall mean a liquor bottle or other container which has been used for the bottling or packaging of distilled spirits under regulations issued pursuant to subsection (a).
 
 #### (d) Closures
 
@@ -46,7 +46,7 @@ Provisions similar to those comprising subsecs. (a), (c), and (d) of this sectio
 
 A prior section 5302, act Aug. 16, 1954, ch. 736, 68A Stat. 645, related to the establishment of industrial alcohol warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (c), 5178(a)(3)(A), (B), 5201(a), and 5206(a) of this title.
 
-A prior section 5303, act Aug. 16, 1954, ch. 736, 68A Stat. 655, related to establishment of industrial alcohol denaturing plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (c), 5178(a)(5), 5241, 5242, and 5273(b)(1), (2), (d) of this title.
+A prior section 5303, act Aug. 16, 1954, ch. 736, 68A Stat. 655, related to establishment of industrial alcoholdenaturing plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (c), 5178(a)(5), 5241, 5242, and 5273(b)(1), (2), (d) of this title.
 
 A prior section 5304, act Aug. 16, 1954, ch. 736, 68A Stat. 655, related to alcohol permits, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(b)(1), 5173(a), (e)(1), 5271(a) to (c), (e), (f), (h), and 5272(a) of this title.
 

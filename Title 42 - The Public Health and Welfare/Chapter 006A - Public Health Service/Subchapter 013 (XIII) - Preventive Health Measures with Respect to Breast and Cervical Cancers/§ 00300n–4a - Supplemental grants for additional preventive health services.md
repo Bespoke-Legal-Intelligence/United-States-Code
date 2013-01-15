@@ -16,7 +16,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (c) Applicability of provisions of general program
 
-This subchapter applies to a grant under subsection (a) of this section to the same extent and in the same manner as such subchapter applies to a grant under section 300k of this title.
+This subchapter applies to a grant under subsection (a) of this section to the same extentand in the same manner as such subchapter applies to a grant under section 300k of this title.
 
 #### (d) Funding
 

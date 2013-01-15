@@ -6,7 +6,7 @@ The Secretary is authorized to issue permits for the collection and removal of c
 
 &emsp;(1) Any permit issued pursuant to this section shall include information concerning the time, scope, location, and specific purpose of the proposed collection, removal or associated activity, and the manner in which such collection, removal, or associated activity is to be performed must be provided.
 
-&emsp;(2) The Secretary may issue a permit pursuant to this subsection only if he determinesthat the proposed collection or removal activities are consistent with the purposes of this chapter, and with other applicable provisions of law.
+&emsp;(2) The Secretary may issue a permit pursuant to this subsection only if he determines that the proposed collection or removal activities are consistent with the purposes of this chapter, and with other applicable provisions of law.
 
 #### (b) Revocation of permit
 
@@ -18,7 +18,7 @@ Permits issued under this chapter are not transferable.
 
 #### (d) Cave resources located on Indian lands
 
-(1)(A) Upon application by an Indian tribe, the Secretary is authorized to delegate to the tribe all authority of the Secretary under this section with respect to issuing and enforcing permits for the collection or removal of any cave resource, or to carrying out activities associated with such collection or removal, from any cave resource located on the affected Indian lands.
+(1)(A) Upon application by an Indian tribe, the Secretary is authorized to delegate to the tribeall authority of the Secretary under this section with respect to issuing and enforcing permits for the collection or removal of any cave resource, or to carrying out activities associated with such collection or removal, from any cave resource located on the affected Indian lands.
 
 (B) In the case of any permit issued by the Secretary for the collection or removal of any cave resource, or to carry out activities associated with such collection or removal, from any cave resource located on Indian lands (other than permits issued pursuant to subparagraph (A)), the permit may be issued only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such reasonable terms and conditions as may be requested by such Indian or Indian tribe.
 

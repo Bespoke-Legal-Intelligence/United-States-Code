@@ -18,5 +18,5 @@ A reference to section 10 of Act June 19, 1934 is deleted because of the repeal 
 
 #### Effective Date of 1977 Amendment
 
-Section 408(b) of Pub. L. 95–94 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–94, title IV, §408(b), Aug. 5, 1977, 91 Stat. 683, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
 

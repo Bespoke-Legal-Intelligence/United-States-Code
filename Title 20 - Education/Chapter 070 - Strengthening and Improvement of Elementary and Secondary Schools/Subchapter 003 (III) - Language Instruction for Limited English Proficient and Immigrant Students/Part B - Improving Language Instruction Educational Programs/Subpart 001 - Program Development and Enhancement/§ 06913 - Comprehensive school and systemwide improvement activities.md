@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) developing and implementing plans, coordinated with plans for programs carried out under title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\] (where applicable), and subchapter II of this chapter (where applicable), to recruit teachers trained to serve limited English proficient children;
 
-&emsp;&emsp;(E) implementing culturally and linguistically appropriate family education programs, or parent outreach and training activities, that are designed to assist parentsof limited English proficient children to become active participants in the education of their children;
+&emsp;&emsp;(E) implementing culturally and linguistically appropriate family education programs, or parent outreach and training activities, that are designed to assist parents of limited English proficient children to become active participants in the education of their children;
 
 &emsp;&emsp;(F) coordinating the activities carried out under this section with other programs, such as programs carried out under this subchapter;
 

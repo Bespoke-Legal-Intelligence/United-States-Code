@@ -38,7 +38,7 @@ By encouraging States to implement administratively efficient capital access pro
 
 #### Effective Date
 
-Section 261 of title II of Pub. L. 103–325 provided that: “This subtitle \[subtitle B (§§251–261) of title II of Pub. L. 103–325, enacting this subchapter\] shall become effective on January 6, 1996.”
+Pub. L. 103–325, title II, §261, Sept. 23, 1994, 108 Stat. 2214, provided that: “This subtitle \[subtitle B (§§251–261) of title II of Pub. L. 103–325, enacting this subchapter\] shall become effective on January 6, 1996.”
 
 #### Small Business Lending Fund
 
@@ -216,7 +216,7 @@ In general.—Subject to paragraph (2), the Fund shall be available to the Secre
 
 &emsp;“(2)
 
-Maximum purchase limit.—The aggregate amount of purchases (and commitments to purchase) made pursuant to paragraph (1) may not exceed $30,000,000,000.
+Maximum purchase limit.—The aggregate amount of purchases (and commitments to purchase)made pursuant to paragraph (1) may not exceed $30,000,000,000.
 
 &emsp;“(3)
 
@@ -388,7 +388,7 @@ Rate following initial 4½-year period.—The dividend or interest rate paid on 
 
 &emsp;&emsp;“(F)
 
-Limitation on rate reductions with respect to certain amount.—The reduction in the dividend or interest rate payable to Treasury by any eligible institution shall be limited such that the rate reduction shall not apply to a dollar amount of the investment made by Treasury that is greater than the dollar amount increase in theamount of small business lending realized under this program. The Secretary may issue guidelines that will apply to new capital investments limiting the amount of capital available to eligible institutions consistent with this limitation.
+Limitation on rate reductions with respect to certain amount.—The reduction in the dividend or interest rate payable to Treasury by any eligible institution shall be limited such that the rate reduction shall not apply to a dollar amount of the investment made by Treasury that is greater than the dollar amount increase in the amount of small business lending realized under this program. The Secretary may issue guidelines that will apply to new capital investments limiting the amount of capital available to eligible institutions consistent with this limitation.
 
 &emsp;&emsp;“(G)
 
@@ -610,7 +610,7 @@ Change in Law.—If, after a capital investment has been made in an eligible ins
 
 “(a)
 
-Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses, veteran-owned businesses, and minority-owned businesses.
+Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses,veteran-owned businesses, and minority-owned businesses.
 
 “(b)
 

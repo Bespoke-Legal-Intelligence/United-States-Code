@@ -14,7 +14,7 @@ A unit of local government that receives funding under the Local Law Enforcement
 
 #### (d) Applications in conjunction with purchases
 
-If an application under this section is submitted in conjunction with a transaction for the purchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
+If an application under this section is submitted in conjunction with a transaction for thepurchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
 
 &emsp;(1) receives clear and conspicuous notice that receipt of the grant amounts requested in the application is uncertain; and
 

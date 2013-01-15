@@ -38,7 +38,7 @@ False or Misleading Statements.—Whenever the Secretary finds that an education
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1684; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, §4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(<i>o</i>), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
+Provisions similar to those comprising subsec. (a) were contained in former section 1685, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1684; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186, and former section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 89–358, §4(m), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (b) were contained in former section 1687, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 19, §1686; renumbered Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; and former section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, §2, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, §4(o), Mar. 3, 1966, 80 Stat. 25; provisions similar to those comprising subsec. (c) were contained in former section 1786, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; and provisions similar to those comprising subsec. (d) were contained in former section 1787, as added by Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23; prior to the general revision by Pub. L. 92–540.
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 #### Effective Date of 1991 Amendment
 
-Section 506(b)(1) of Pub. L. 102–86 provided that the amendment made by that section is effective as of Dec. 18, 1989.
+Pub. L. 102–86, title V, §506(b), Aug. 14, 1991, 105 Stat. 426, provided that the amendment made by section 506(b)(1) is effective as of Dec. 18, 1989.
 
 #### Effective Date of 1980 Amendment
 

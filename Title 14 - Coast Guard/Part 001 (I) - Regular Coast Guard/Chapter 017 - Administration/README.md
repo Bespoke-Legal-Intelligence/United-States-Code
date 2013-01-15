@@ -27,43 +27,36 @@
 | [653\.](%C2%A7%2000653%20-%20Employment%20of%20draftsmen%20and%20engineers.md) | Employment of draftsmen and engineers. |
 | [654\.](%C2%A7%2000654%20-%20Public%20and%20commercial%20vessels%20and%20other%20watercraft%3B%20sale%20of%20fuel%2C%20supplies%2C%20and%20services.md) | Public and commercial vessels and other watercraft; sale of fuel, supplies, and services. |
 | [655\.](%C2%A7%2000655%20-%20Arms%20and%20ammunition%3B%20immunity%20from%20taxation.md) | Arms and ammunition; immunity from taxation. |
-| [656\.](%C2%A7%2000656%20-%20Use%20of%20moneys%20appropriated%20for%20acquisition%2C%20construction%2C%20and%20improvement%3B%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%3B%20and%20for%20the%E2%80%A6.md) | Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters. |
+| [656\.](%C2%A7%2000656%20-%20Use%20of%20certain%20appropriated%20funds.md) | Use of certain appropriated funds. |
 | [657\.](%C2%A7%2000657%20-%20Dependent%20school%20children.md) | Dependent school children. |
 | [658\.](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md) | Confidential investigative expenses. |
 | [659\.](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md) | Assistance to film producers. |
 | [660\.](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md) | Transportation to and from certain places of employment. |
 | [661\.](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md) | Authorization of personnel end strengths. |
 | [662\.](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md) | Requirement for prior authorization of appropriations. |
-| [663\.](%C2%A7%2000663%20-%20Submission%20of%20plans%20to%20Congress.md) | Submission of plans to Congress. |
+| [663\.](%C2%A7%2000663%20-%20Capital%20investment%20plan.md) | Capital investment plan. |
 | [664\.](%C2%A7%2000664%20-%20User%20fees.md) | User fees. |
 | [665\.](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md) | Restriction on construction of vessels in foreign shipyards. |
 | [666\.](%C2%A7%2000666%20-%20Local%20hire.md) | Local hire. |
 | [667\.](%C2%A7%2000667%20-%20Vessel%20construction%20bonding%20requirements.md) | Vessel construction bonding requirements. |
 | [668\.](%C2%A7%2000668%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
-| [669\.](%C2%A7%2000669%20-%20Telephone%20installation%20and%20charges.md) | Telephone Installation and Charges.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [669\.](%C2%A7%2000669%20-%20Telephone%20installation%20and%20charges.md) | Telephone installation and charges. |
 | [670\.](%C2%A7%2000670%20-%20Procurement%20authority%20for%20family%20housing.md) | Procurement authority for family housing. |
 | [671\.](%C2%A7%2000671%20-%20Air%20Station%20Cape%20Cod%20Improvements.md) | Air Station Cape Cod Improvements. |
 | [672\.](%C2%A7%2000672%20-%20Long-term%20lease%20of%20special%20purpose%20facilities.md) | Long-term lease of special purpose facilities. |
 | [672a.](%C2%A7%2000672a%20-%20Long-term%20lease%20authority%20for%20lighthouse%20property.md) | Long-term lease authority for lighthouse property. |
 | [673\.](%C2%A7%2000673%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md) | Designation, powers, and accountability of deputy disbursing officials. |
-| [674\.](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md) | Small boat station capability.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [674\.](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md) | Small boat station rescue capability. |
 | [675\.](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md) | Small boat station closures. |
 | [676\.](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md) | Search and rescue center standards. |
 | [677\.](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md) | Turnkey selection procedures. |
+| [678\.](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md) | Aircraft accident investigations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §§212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, 126 Stat. 1552, 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters”, 663 “Submission of plans to Congress”, 669 “Telephone Installation and Charges”, and 674 “Small boat station capability”.
 
 <b>2010</b>—Pub. L. 111–281, title IX, §903(b)(2), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 677.
 
@@ -121,10 +114,6 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 
 <b>1956</b>—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted “Coast Guard Supply Fund” for “Coast Guard supply fund and supply account” in item 650.
 
-<i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -155,14 +144,14 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00653 - Employment of draftsmen and engineers](%C2%A7%2000653%20-%20Employment%20of%20draftsmen%20and%20engineers.md)
 - [&sect; 00654 - Public and commercial vessels and other watercraft; sale of fuel, supplies, and services](%C2%A7%2000654%20-%20Public%20and%20commercial%20vessels%20and%20other%20watercraft%3B%20sale%20of%20fuel%2C%20supplies%2C%20and%20services.md)
 - [&sect; 00655 - Arms and ammunition; immunity from taxation](%C2%A7%2000655%20-%20Arms%20and%20ammunition%3B%20immunity%20from%20taxation.md)
-- [&sect; 00656 - Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the&#8230;](%C2%A7%2000656%20-%20Use%20of%20moneys%20appropriated%20for%20acquisition%2C%20construction%2C%20and%20improvement%3B%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%3B%20and%20for%20the%E2%80%A6.md)
+- [&sect; 00656 - Use of certain appropriated funds](%C2%A7%2000656%20-%20Use%20of%20certain%20appropriated%20funds.md)
 - [&sect; 00657 - Dependent school children](%C2%A7%2000657%20-%20Dependent%20school%20children.md)
 - [&sect; 00658 - Confidential investigative expenses](%C2%A7%2000658%20-%20Confidential%20investigative%20expenses.md)
 - [&sect; 00659 - Assistance to film producers](%C2%A7%2000659%20-%20Assistance%20to%20film%20producers.md)
 - [&sect; 00660 - Transportation to and from certain places of employment](%C2%A7%2000660%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment.md)
 - [&sect; 00661 - Authorization of personnel end strengths](%C2%A7%2000661%20-%20Authorization%20of%20personnel%20end%20strengths.md)
 - [&sect; 00662 - Requirement for prior authorization of appropriations](%C2%A7%2000662%20-%20Requirement%20for%20prior%20authorization%20of%20appropriations.md)
-- [&sect; 00663 - Submission of plans to Congress](%C2%A7%2000663%20-%20Submission%20of%20plans%20to%20Congress.md)
+- [&sect; 00663 - Capital investment plan](%C2%A7%2000663%20-%20Capital%20investment%20plan.md)
 - [&sect; 00664 - User fees](%C2%A7%2000664%20-%20User%20fees.md)
 - [&sect; 00665 - Restriction on construction of vessels in foreign shipyards](%C2%A7%2000665%20-%20Restriction%20on%20construction%20of%20vessels%20in%20foreign%20shipyards.md)
 - [&sect; 00666 - Local hire](%C2%A7%2000666%20-%20Local%20hire.md)
@@ -178,3 +167,4 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00675 - Small boat station closures](%C2%A7%2000675%20-%20Small%20boat%20station%20closures.md)
 - [&sect; 00676 - Search and rescue center standards](%C2%A7%2000676%20-%20Search%20and%20rescue%20center%20standards.md)
 - [&sect; 00677 - Turnkey selection procedures](%C2%A7%2000677%20-%20Turnkey%20selection%20procedures.md)
+- [&sect; 00678 - Aircraft accident investigations](%C2%A7%2000678%20-%20Aircraft%20accident%20investigations.md)

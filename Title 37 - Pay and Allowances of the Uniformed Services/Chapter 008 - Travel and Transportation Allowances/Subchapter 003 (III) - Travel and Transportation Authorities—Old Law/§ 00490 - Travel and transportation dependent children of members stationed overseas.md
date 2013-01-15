@@ -66,7 +66,7 @@ Termination.—No transportation, allowance, reimbursement, or per diem may be p
 
 #### References in Text
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 112–81, §631(e)(29), added subsec. (g).
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end of first sentence “or during a different period in the same fiscal year selected by the member”.
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–314 added subsec. (f) and struck out heading and text of former subsec. (f). Textdefined the terms “continental United States” and “formal education”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 added subsec. (f) and struck out heading and text of former subsec. (f). Text defined the terms “continental United States” and “formal education”.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §639(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -128,19 +128,15 @@ Subsecs. (d) to (f). Pub. L. 101–189, §625(a)(3), added subsecs. (d) to (f).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title VI, §639(d), Dec. 28, 2001, 115 Stat. 1149, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to travel described in subsection (b) of section 490 of title 37, United States Code, as amended by this section, that commences on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
-
-\[Amendment by Pub. L. 112–81 to section 639(d) of Pub. L. 107–107, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 107–107, div. A, title VI, §639(d), Dec. 28, 2001, 115 Stat. 1149, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to travel described in subsection (b) of section 490 of title 37, United States Code, as amended by this section, that commences on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 625(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title VI, §625(b), Nov. 29, 1989, 103 Stat. 1449, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date
 
-Pub. L. 98–94, title IX, §910(b), Sept. 24, 1983, 97 Stat. 639, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “Section 490 of title 37, United States Code, as added by subsection (a), shall apply only with respect to travel begun after September 30, 1983.”
-
-\[Amendment by Pub. L. 112–81 to section 910(b) of Pub. L. 98–94, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 98–94, title IX, §910(b), Sept. 24, 1983, 97 Stat. 639, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Section 490 of title 37, United States Code, as added by subsection (a), shall apply only with respect to travel begun after September 30, 1983.”
 
 #### Dependent Student Travel Within United States
 

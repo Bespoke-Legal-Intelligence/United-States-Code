@@ -10,7 +10,7 @@ There shall be a joint congressional committee known as the Joint Committee on T
 
 #### Effective Date of 1976 Amendment
 
-Section 1907(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 8004, 8021, and 8023 of this title and enacting provisions set out below\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIX, §1907(c), Oct. 4, 1976, 90 Stat. 1836, provided that: “The amendments made by this section \[amending this section and sections 8004, 8021, and 8023 of this title and enacting provisions set out below\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### References to Joint Committee on Internal Revenue Taxation
 

@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;The term “qualified former spouse” means a former spouse of an employee or retired employee who—
 
-&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
+&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final onor before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
 
 &emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of which qualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
 
@@ -92,7 +92,7 @@ For purposes of this section:
 
 #### (B) Reduction in basic pay upon recall to service
 
-&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
+&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reducedby the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
 
 #### (6) Special rules for disability annuitants
 
@@ -144,13 +144,13 @@ For purposes of this section:
 
 &emsp;If the survivor annuity payable under this subsection to a surviving qualified former spouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
 
-&emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spousemay be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
+&emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spouse may be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
 
 &emsp;&emsp;(B) any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund.
 
 #### (5) Modification of court order or spousal agreement
 
-&emsp;A modification in a court order or spousal agreement to adjust a qualified former spouse's share of the survivor benefits shall not be effective if issued after the retirement or death of the employee, former employee, or annuitant, whichever occurs first.
+&emsp;A modification in a court order or spousal agreement to adjust a qualified formerspouse's share of the survivor benefits shall not be effective if issued after the retirement or death of the employee, former employee, or annuitant, whichever occurs first.
 
 #### (6) Effect of termination of qualified former spouse's entitlement
 
@@ -214,7 +214,7 @@ An employee may not make an election or modification of election under section 8
 
 #### (g) Payment of share of lump-sum credit
 
-Whenever an employee or former employee becomes entitled to receive the lump-sum credit under section 8424(a) of title 5, a share (determined under subsection (c)(1)(B) of this section) of that lump-sum credit shall be paid to any qualified former spouse of such employee, unless otherwise expressly provided by any spousal agreement or court order governing disposition of the lump-sum credit involved.
+Whenever an employee or former employee becomes entitled to receive the lump-sum credit under section 8424(a) of title 5, a share (determined under subsection (c)(1)(B) of this section) of that lump-sum credit shall be paid to anyqualified former spouse of such employee, unless otherwise expressly provided by any spousal agreement or court order governing disposition of the lump-sum credit involved.
 
 #### (h) Payment to qualified former spouses under court order or spousal agreement
 

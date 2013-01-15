@@ -18,7 +18,7 @@ There is established the State Small Business Credit Initiative, to be administe
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine the 2009 allocation by allocating Federal funds among the States in the proportion that each such State's 2008 State employment decline bears to the aggregate of the 2008 State employment declines for all States.
+&emsp;&emsp;The Secretary shall determine the 2009 allocation by allocating Federal funds amongthe States in the proportion that each such State's 2008 State employment decline bears to the aggregate of the 2008 State employment declines for all States.
 
 #### (B) Minimum allocation
 
@@ -116,7 +116,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 &emsp;In this section—
 
-&emsp;&emsp;(A) the term “allocated amount” means the total amount of Federal funds allocatedby the Secretary under subsection (b) to the participating State; and
+&emsp;&emsp;(A) the term “allocated amount” means the total amount of Federal funds allocated by the Secretary under subsection (b) to the participating State; and
 
 &emsp;&emsp;(B) the term “1/3” means—
 

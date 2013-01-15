@@ -34,6 +34,14 @@ Subsecs. (d) to (f). Pub. L. 97–417, §2(5)(B), (C), added subsec. (d) and red
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
+#### Rule of Construction
+
+Pub. L. 112–213, title II, §208(e)(2), Dec. 20, 2012, 126 Stat. 1549, provided that: “Sections 271, 272, and 273 of title 14, United States Code, apply to the activities of—
+
+&emsp;“(A) a selection board convened under section 251 of such title; and
+
+&emsp;“(B) a special selection board convened under section 263 of such title.”
+
 #### Permanent Grades and Titles for Officers Holding Certain Grades on January 3, 1983
 
 Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
@@ -58,7 +66,7 @@ Pub. L. 97–417, §4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 
 > shall, on and after the effective date of this Act, or in the case of an officer on such a list, upon promotion to the grade of commodore, be entitled to wear the uniform and insignia of a rear admiral.
 
-“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date to wear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
+“(e) An officer of the Coast Guard who on the day before the effective date of this Act \[Jan. 4, 1983\] held the grade of rear admiral on the retired list retains the grade of rear admiral and is entitled after that date towear the uniform and insignia of a rear admiral. Such an officer, when ordered to active duty—
 
 &emsp;“(1) holds the grade and has the right to wear the uniform and insignia of a rear admiral; and
 

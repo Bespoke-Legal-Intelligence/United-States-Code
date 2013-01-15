@@ -60,7 +60,7 @@ If a court determines that any agency or department of the United States has vio
 
 Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or identifying information pursuant to this subsection in good-faith reliance upon a certification of the Federal Bureau of Investigation pursuant to provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation ofany State or any political subdivision of any State.
 
-#### (<i>l</i>) Limitation of remedies
+#### (l) Limitation of remedies
 
 Notwithstanding any other provision of this subchapter, the remedies and sanctions set forth in this section shall be the only judicial remedies and sanctions for violation of this section.
 

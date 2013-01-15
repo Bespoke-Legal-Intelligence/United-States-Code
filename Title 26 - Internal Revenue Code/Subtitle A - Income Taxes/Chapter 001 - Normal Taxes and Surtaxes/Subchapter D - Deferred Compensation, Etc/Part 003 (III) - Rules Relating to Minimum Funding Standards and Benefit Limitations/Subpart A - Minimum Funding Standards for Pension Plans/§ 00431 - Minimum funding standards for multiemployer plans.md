@@ -22,7 +22,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under theplan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -318,7 +318,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determine cost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
+&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determinecost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
 
 #### (ii) Permissible range
 
@@ -402,7 +402,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
+&emsp;&emsp;If the plan sponsor of a multiemployer plan submits to the Secretary an applicationfor an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
 
 #### (B) Determination
 
@@ -470,7 +470,7 @@ Special rule for certain amortization extensions.—If the Secretary of the Trea
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
-For applicability of this section to a multiemployer plan that is a party to an agreement that was approvedby the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
+For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
 

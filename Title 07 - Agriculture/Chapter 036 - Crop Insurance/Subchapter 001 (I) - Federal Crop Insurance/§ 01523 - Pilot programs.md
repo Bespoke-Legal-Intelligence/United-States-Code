@@ -142,7 +142,7 @@
 
 #### (B) Determination by Board
 
-&emsp;&emsp;The Board shall approve a policy or plan of insurance proposed under this subsection that involves a premium reduction if the Board determines that—
+&emsp;&emsp;The Board shall approve a policy or plan of insurance proposed under this subsectionthat involves a premium reduction if the Board determines that—
 
 &emsp;&emsp;&emsp;(i) the interests of producers are adequately protected within the pilot area;
 

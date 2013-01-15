@@ -18,7 +18,7 @@ The Commission has the power—
 
 &emsp;(7) to render advisory opinions under section 437f of this title;
 
-&emsp;(8) to develop such prescribed forms and to make, amend, and repeal such rules, pursuant to the provisions of chapter 5 of title 5, as arenecessary to carry out the provisions of this Act and chapter 95 and chapter 96 of title 26; and
+&emsp;(8) to develop such prescribed forms and to make, amend, and repeal such rules, pursuant to the provisions of chapter 5 of title 5, as are necessary to carry out the provisions of this Act and chapter 95 and chapter 96 of title 26; and
 
 &emsp;(9) to conduct investigations and hearings expeditiously, to encourage voluntary compliance, and to report apparent violations to the appropriate law enforcement authorities.
 

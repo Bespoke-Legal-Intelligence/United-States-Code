@@ -44,7 +44,7 @@ Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted “military f
 
 Subsec. (b)(4). Pub. L. 111–281, §221(a)(6)(A)(iii), struck out par. (4) which read as follows: “Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments.”
 
-Subsec. (c)(1). Pub. L. 111–281, §221(a)(6)(B), as amended by Pub. L. 111–330, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.”
+Subsec. (c)(1). Pub. L. 111–281, §221(a)(6)(B), as amended by Pub. L. 111–330, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to militaryfamily and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.”
 
 Subsec. (e). Pub. L. 111–281, §221(a)(6)(C), struck out “or (b)(3)” after “subsection (b)(2)”.
 

@@ -14,7 +14,7 @@ The Administrator shall reserve each fiscal year beginning after September 30, 1
 
 #### (d) Cooperative agreements
 
-In order to ensure the consistent implementation of the requirements of this chapter, an Indian tribe and the State or States in which the lands of such tribe are located may enter into acooperative agreement, subject to the review and approval of the Administrator, to jointly plan and administer the requirements of this chapter.
+In order to ensure the consistent implementation of the requirements of this chapter, an Indian tribe and the State or States in which the lands of such tribe are located may enter into a cooperative agreement, subject to the review and approval of the Administrator, to jointly plan and administer the requirements of this chapter.
 
 #### (e) Treatment as States
 
@@ -70,7 +70,7 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 #### Grants for Construction of Water Facilities and for Water Quality Protection
 
-Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That, notwithstanding this or any other appropriations Act, heretofore and hereafter, after consultation with the House and Senate Committees on Appropriations and for the purpose of making technical corrections, the Administrator is authorized to award grants under this heading \[State and Tribal Assistance Grants\] to entities and for purposes other than those listed in the joint explanatory statements of the managers accompanying the Agency's appropriations Acts for the construction of drinking water, wastewater and stormwater infrastructure and for water quality protection.”
+Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That, notwithstanding this or any otherappropriations Act, heretofore and hereafter, after consultation with the House and Senate Committees on Appropriations and for the purpose of making technical corrections, the Administrator is authorized to award grants under this heading \[State and Tribal Assistance Grants\] to entities and for purposes other than those listed in the joint explanatory statements of the managers accompanying the Agency's appropriations Acts for the construction of drinking water, wastewater and stormwater infrastructure and for water quality protection.”
 
 #### Grants to Indian Tribes
 

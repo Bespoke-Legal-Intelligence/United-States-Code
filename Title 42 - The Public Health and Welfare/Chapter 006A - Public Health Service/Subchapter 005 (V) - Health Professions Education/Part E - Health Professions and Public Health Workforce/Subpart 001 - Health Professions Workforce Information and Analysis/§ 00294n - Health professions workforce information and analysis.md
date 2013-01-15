@@ -26,7 +26,7 @@ It is the purpose of this section to—
 
 &emsp;&emsp;(D) develop and publish performance measures and benchmarks for programs under this subchapter; and
 
-&emsp;&emsp;(E) establish, maintain, and publicize a national Internet registry of each grant awarded under this subchapter and a database to collect data from longitudinal evaluations (as described in subsection (d)(2)) on performance measures (as developed under sections 293<i>l</i>(d)(3), 294f(d)(3), and 294<i>o</i>(a)(3) of this title).
+&emsp;&emsp;(E) establish, maintain, and publicize a national Internet registry of each grant awarded under this subchapter and a database to collect data from longitudinal evaluations (as described in subsection (d)(2)) on performance measures (as developed under sections 293l(d)(3), 294f(d)(3), and 294o(a)(3) of this title).
 
 #### (3) Collaboration and data sharing
 
@@ -68,11 +68,11 @@ It is the purpose of this section to—
 
 &emsp;&emsp;(A) studying practice patterns; and
 
-&emsp;&emsp;(B) collecting and reporting data on performance measures developed under sections 293<i>l</i>(d)(3), 294f(d)(3), and 294<i>o</i>(a)(3) of this title.
+&emsp;&emsp;(B) collecting and reporting data on performance measures developed under sections 293l(d)(3), 294f(d)(3), and 294o(a)(3) of this title.
 
 #### (3) Guidelines
 
-&emsp;A longitudinal evaluation shall comply with guidelines issued under sections 293<i>l</i>(d)(4), 294f(d)(4), and 294<i>o</i>(a)(4) of this title.
+&emsp;A longitudinal evaluation shall comply with guidelines issued under sections 293l(d)(4), 294f(d)(4), and 294o(a)(4) of this title.
 
 #### (4) Eligible entities
 

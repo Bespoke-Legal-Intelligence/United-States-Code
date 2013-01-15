@@ -16,9 +16,9 @@ Notwithstanding the provisions of subsection (a) of this section, any State that
 
 #### (c) Administrator
 
-The Administrator shall have primary enforcement responsibility for those States that do not have primary enforcement responsibility under this subchapter. Notwithstanding the provisions of section 136(e)(1) of this title, during any period when the Administrator has such enforcement responsibility, section 136f(b) of this title shall apply to the books and records of commercial applicators and to any applicator who holds or applies pesticides, or uses dilutions of pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and section 136g(a) of this title shall apply to the establishment or other place where pesticides or devices are held for application by such persons with respect to pesticides or devices held for such application.
+The Administrator shall have primary enforcement responsibility for those States thatdo not have primary enforcement responsibility under this subchapter. Notwithstanding the provisions of section 136(e)(1) of this title, during any period when the Administrator has such enforcement responsibility, section 136f(b) of this title shall apply to the books and records of commercial applicators and to any applicator who holds or applies pesticides, or uses dilutions of pesticides, only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served, and section 136g(a) of this title shall apply to the establishment or other place where pesticides or devices are held for application by such persons with respect to pesticides or devices held for such application.
 
-(June 25, 1947, ch. 125, §26, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 836; amended Pub. L. 100–532, title VIII, §801(<i>o</i>), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2683; Pub. L. 102–237, title X, §1006(a)(11), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §26, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 836; amended Pub. L. 100–532, title VIII, §801(o), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2683; Pub. L. 102–237, title X, §1006(a)(11), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Prior Provisions
 
@@ -28,11 +28,11 @@ A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–237 substituted “uses” for “use”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–532, §801(<i>o</i>)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; <i>Provided</i>, That the Administrator” in par. (1).
+<b>1988</b>—Subsec. (a). Pub. L. 100–532, §801(o)(1), (2), inserted heading and substituted “regulations. The Administrator” for “regulations; <i>Provided</i>, That the Administrator” in par. (1).
 
-Subsec. (b). Pub. L. 100–532, §801(<i>o</i>)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
+Subsec. (b). Pub. L. 100–532, §801(o)(3), (q)(1)(D), inserted heading and substituted “136i” for “136b” in two places.
 
-Subsec. (c). Pub. L. 100–532, §801(<i>o</i>)(4), inserted heading.
+Subsec. (c). Pub. L. 100–532, §801(o)(4), inserted heading.
 
 #### Effective Date of 1988 Amendment
 

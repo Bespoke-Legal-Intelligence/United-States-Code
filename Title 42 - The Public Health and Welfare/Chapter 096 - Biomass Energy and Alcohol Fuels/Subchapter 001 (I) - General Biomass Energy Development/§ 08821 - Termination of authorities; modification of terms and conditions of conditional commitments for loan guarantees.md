@@ -28,9 +28,9 @@ Pub. L. 99–24 inserted “, except that all conditional commitments for loan 
 
 #### Effective Date of 1985 Amendment
 
-Section 106 of Pub. L. 100–202 provided that the amendment made by that section is effective on date of enactment \[Dec. 19, 1985\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the amendment made by that section is effective on date of enactment \[Dec. 19, 1985\] of the “pertinent joint resolution” making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
 
 #### Pending Conditional Commitments
 
-Section 1(b) of Pub. L. 99–24 provided that: “Enactment of this Act \[amending this section\] shall not be interpreted as indicating congressional approval with respect to any pending conditional commitments under this Act.”
+Pub. L. 99–24, §1(b), Apr. 16, 1985, 99 Stat. 50, provided that: “Enactment of this Act \[amending this section\] shall not be interpreted as indicating congressional approval with respect to any pending conditional commitments under this Act.”
 

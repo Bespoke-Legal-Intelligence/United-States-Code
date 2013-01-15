@@ -8,7 +8,7 @@ In the Coast Guard there shall be an admiral, vice admirals; rear admirals; rear
 
 #### 1949 Act
 
-Based on title 14, U.S.C., 1946 ed., §§5, 9, 21 (Apr. 12, 1902, ch. 501, §1, 32 Stat. 100; Jan. 28, 1915, ch. 20, §2, 38 Stat. 801; May 18, 1920, ch. 190, §8, 41 Stat. 603; June 5, 1920, ch. 235, §1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§3, 9, 10, 44 Stat. 815, 817).
+Based on title 14, U.S.C., 1946 ed., §§5, 9, 21 (Apr. 12, 1902, ch. 501, §1, 32 Stat. 100; Jan. 28, 1915, ch. 20, §2, 38Stat. 801; May 18, 1920, ch. 190, §8, 41 Stat. 603; June 5, 1920, ch. 235, §1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§3, 9, 10, 44 Stat. 815, 817).
 
 The grades of vice admiral and rear admiral are added to make provision for the commissioned officer personnel structure of the service as provided for in this revision. The entire rating structure for enlisted men is left to the administrative discretion of the Secretary, as in the past, for reasons of flexibility.
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held untilone year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 290 of this title.
+Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 290 of this title.
 

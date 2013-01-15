@@ -16,7 +16,7 @@ Another section 1592 was renumbered section 1596 of this title.
 
 #### Effective Date
 
-Section 311(b)(3) of Pub. L. 101–189, as amended by Pub. L. 102–484, div. A, title XIII, §1352(a), Oct. 23, 1992, 106 Stat. 2558, provided that:
+Pub. L. 101–189, div. A, title III, §311(b)(3), Nov. 29, 1989, 103 Stat. 1412, as amended by Pub. L. 102–484, div. A, title XIII, §1352(a), Oct. 23, 1992, 106 Stat. 2558, provided that:
 
 “(A) Section 1592 of title 10, United States Code, as added by paragraph (1), shall take effect on the date of the enactment of this Act \[Nov. 29, 1989\].
 
@@ -24,7 +24,7 @@ Section 311(b)(3) of Pub. L. 101–189, as amended by Pub. L. 102–484, div. A,
 
 #### Prohibition on Payment of Severance Pay to Certain Foreign Nationals in the Philippines
 
-Section 1351 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title XIII, §1351, Oct. 23, 1992, 106 Stat. 2558, provided that:
 
 “(a)
 

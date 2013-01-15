@@ -22,9 +22,11 @@ Prohibitions.—A person may not—
 
 &emsp;(7) violate a term of an air agency, design organization certificate, or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
 
-&emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate; or
+&emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate;
 
-&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title.
+&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title; or
+
+&emsp;(10) violate section 44732 or any regulation issued thereunder.
 
 (b)
 
@@ -32,9 +34,25 @@ Exemption.—On terms the Administrator of the Federal Aviation Administration p
 
 (c)
 
-Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into acivil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
+Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532.)
+(d)
+
+Postemployment Restrictions for Flight Standards Inspectors.—
+
+&emsp;(1)
+
+Prohibition.—A person holding an operating certificate issued under title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2-year period—
+
+&emsp;&emsp;(A) served as, or was responsible for oversight of, a flight standards inspector of the Administration; and
+
+&emsp;&emsp;(B) had responsibility to inspect, or oversee inspection of, the operations of the certificate holder.
+
+&emsp;(2)
+
+Written and oral communications.—For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–95, title III, §§307(b), 342(a), Feb. 14, 2012, 126 Stat. 61, 79.)
 
 Historical and Revision Notes
 
@@ -116,7 +134,7 @@ In subsection (a)(5) and (7), the words “prescribed . . . issued” are adde
 
 In subsection (a)(5), the words “of the Secretary of Transportation” are omitted as surplus.
 
-In subsection (a)(6), the words “proclaimed by the President” are omitted as surplus. The words “section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602)” are substituted for “section 143 of title 33” because the section was part of the Act of October 11, 1951 (ch. 495, 65 Stat. 406), that was repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608.
+In subsection (a)(6), the words “proclaimed by the President” are omitted as surplus. The words “section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602)” are substituted for “section 143 of title 33” because the section was part of the Act of October 11, 1951 (ch. 495, 65 Stat. 406), that was repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608.
 
 In subsection (a)(7), the words “holding . . . such certificate” are omitted because of the restatement.
 
@@ -130,11 +148,19 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(10). Pub. L. 112–95, §307(b), added par. (10).
+
+Subsec. (d). Pub. L. 112–95, §342(a), added subsec. (d).
+
 <b>2003</b>—Subsec. (a)(7). Pub. L. 108–176 substituted “agency, design organization certificate,” for “agency”.
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–181 added subsec. (c).
 
 <b>1994</b>—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title III, §342(b), Feb. 14, 2012, 126 Stat. 80, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to an individual employed by a certificate holder as of the date of enactment of this Act \[Feb. 14, 2012\].”
 
 #### Effective Date of 2003 Amendment
 

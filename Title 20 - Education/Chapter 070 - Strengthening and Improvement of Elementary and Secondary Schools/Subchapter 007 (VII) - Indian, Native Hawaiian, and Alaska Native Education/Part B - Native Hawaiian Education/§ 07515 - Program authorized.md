@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(iv) programs that recognize and support the unique cultural and educational needs of Native Hawaiian children, and incorporate appropriately qualified Native Hawaiian elders and seniors;
 
-&emsp;&emsp;(I) activities, including program co-location, to enable Native Hawaiians to enterand complete programs of postsecondary education, including—
+&emsp;&emsp;(I) activities, including program co-location, to enable Native Hawaiians to enter and complete programs of postsecondary education, including—
 
 &emsp;&emsp;&emsp;(i) provision of full or partial scholarships for undergraduate or graduate study that are awarded to students based on their academic promise and financial need, with a priority, at the graduate level, given to students entering professions in which Native Hawaiians are underrepresented;
 

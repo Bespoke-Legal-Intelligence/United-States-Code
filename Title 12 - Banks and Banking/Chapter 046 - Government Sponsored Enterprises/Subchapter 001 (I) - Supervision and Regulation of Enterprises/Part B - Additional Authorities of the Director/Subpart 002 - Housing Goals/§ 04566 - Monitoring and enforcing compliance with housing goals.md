@@ -110,7 +110,7 @@
 
 #### (7) Cease and desist orders; civil money penalties
 
-&emsp;Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1)of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title, impose civil money penalties in accordance with section 4585 of this title, exercise other appropriate enforcement authority or seek other appropriate actions.
+&emsp;Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title, impose civil money penalties in accordance with section 4585 of this title, exercise other appropriate enforcement authority or seek other appropriate actions.
 
 (Pub. L. 102–550, title XIII, §1336, Oct. 28, 1992, 106 Stat. 3962; Pub. L. 110–289, div. A, title I, §§1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, 122 Stat. 2689, 2702, 2705, 2706.)
 

@@ -116,7 +116,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304, §15(1), Oct. 6, 2006, 120 Stat. 1702, in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
+<b>2006</b>—Pub. L. 109–304, §15(1), Oct. 6, 2006, 120 Stat. 1702, in each chapter item, capitalized first letter of eachword containing 4 or more letters, struck out item for chapter 39 “Carriage of animals”, and substituted “Uninspected Commercial Fishing Industry Vessels” for “Fish processing vessels” in item 45.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, substituted “mariner benefits” for “Mariner Benefits” in item 112.
 

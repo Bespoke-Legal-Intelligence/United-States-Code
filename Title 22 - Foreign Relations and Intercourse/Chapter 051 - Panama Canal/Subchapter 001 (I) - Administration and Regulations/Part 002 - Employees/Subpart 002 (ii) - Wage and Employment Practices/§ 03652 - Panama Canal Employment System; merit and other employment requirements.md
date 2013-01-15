@@ -52,11 +52,11 @@ Pub. L. 105–85, §3523(d), substituted “, the Panama Canal Act Amendments o
 
 #### Savings Provision
 
-Section 3530(b) of Pub. L. 104–201 provided that: “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a).”
+Pub. L. 104–201, div. C, title XXXV, §3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a).”
 
 #### Coordination of Pay and Employment Practices
 
-For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
+For provisions requiring consultations with the Secretary of Defense for agencies under this subpart withrespect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “111”.</i>
 

@@ -36,7 +36,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 (1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, the Customs Service auditor shall immediately provide a further estimate of such additional time.
 
-(2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the CustomsService auditor shall schedule a closing conference to explain the preliminary results of the audit.
+(2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the Customs Service auditor shall schedule a closing conference to explain the preliminary results of the audit.
 
 (3) Except as provided in paragraph (5), if the estimated or actual termination date for an audit passes without the Customs Service auditor providing a closing conference to explain the results of the audit, the person being audited may petition in writing for such a conference to the officer designated pursuant to regulations, who, upon receipt of such a request, shall provide for such a conference to be held within 15 days after the date of receipt.
 
@@ -210,7 +210,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986,100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
 
 #### References in Text
 
@@ -290,11 +290,11 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1948 Amendment
 
-Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Construction of 1993 Amendment
 
-Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

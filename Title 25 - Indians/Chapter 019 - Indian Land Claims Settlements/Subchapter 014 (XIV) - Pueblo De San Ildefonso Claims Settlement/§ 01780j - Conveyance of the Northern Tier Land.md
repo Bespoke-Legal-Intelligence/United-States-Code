@@ -34,7 +34,7 @@
 
 #### (B) Failure of Pueblo to act
 
-&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of thedate on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
+&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
 
 #### (3) Extension of time period
 

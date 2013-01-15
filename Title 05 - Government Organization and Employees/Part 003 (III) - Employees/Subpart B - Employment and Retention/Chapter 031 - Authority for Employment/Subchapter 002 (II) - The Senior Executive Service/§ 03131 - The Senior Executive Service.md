@@ -34,7 +34,7 @@ It is the purpose of this subchapter to establish a Senior Executive Service to 
 
 #### Effective Date
 
-Section 415 of title IV of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title IV, §415, Oct. 13, 1978, 92 Stat. 1179, provided that:
 
 “(a)(1) The provisions of this title, other than sections 413 and 414(a) \[enacting this subchapter and sections 2101a, 3391 to 3397, 3591 to 3595, 4311 to 4315, 4507, 5381 to 5385, 5752, and 7541 to 7543 of this title, amending sections 2102, 2103, 2108, 3109, 3501, 5311, 5331, 5504, 5541, 5595, 5723, 6304, 8336, and 8339 of this title, and enacting provisions set out as a note under section 5311 of this title\], shall take effect 9 months after the date of the enactment of this Act \[Oct. 13, 1978\].
 

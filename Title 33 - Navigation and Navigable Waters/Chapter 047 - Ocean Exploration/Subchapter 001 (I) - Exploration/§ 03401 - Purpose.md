@@ -1,6 +1,6 @@
 ### §3401. Purpose
 
-The purpose of this subchapter is to establish the national ocean exploration program and the national undersea research program within the National Oceanic and Atmospheric Administration.
+The purpose of this subchapter is to establish the national ocean exploration program and thenational undersea research program within the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 111–11, title XII, §12001, Mar. 30, 2009, 123 Stat. 1417.)
 

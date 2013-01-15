@@ -106,7 +106,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 &emsp;&emsp;(B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 109–270, §2(i), Aug. 12, 2006, 120 Stat. 748.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub.L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 109–270, §2(i), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 

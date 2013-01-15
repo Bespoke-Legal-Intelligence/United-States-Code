@@ -10,7 +10,7 @@ The regions served by the regional educational laboratories shall be the 10 geog
 
 #### (c) Eligible applicants
 
-The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of1965 (as such title existed on the day before January 8, 2002).
+The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
 
 #### (d) Applications
 
@@ -36,7 +36,7 @@ The Director may enter into contracts under this section with research organizat
 
 &emsp;In order to ensure coordination and prevent unnecessary duplication of activities among the regions, the Evaluation and Regional Assistance Commissioner shall—
 
-&emsp;&emsp;(A) share information about the activities of each regional educational laboratory awarded a contract under this section with each other regional educational laboratory awarded a contract under this section and with the Department of Education, including the Director and the Board;
+&emsp;&emsp;(A) share information about the activities of each regional educational laboratory awarded a contract under this section with each other regional educational laboratory awarded a contract under this section andwith the Department of Education, including the Director and the Board;
 
 &emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratory awarded a contract under this section increases collaboration and resource-sharing in such activities;
 
@@ -90,7 +90,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;(4) in the event such quality applied research does not exist as determined by the regional educational laboratory or the Department, carrying out applied research projects that are designed to serve the particular educational needs (in prekindergarten through grade 16) of the region in which the regional educational laboratory is located, that reflect findings from scientifically valid research, and that result in user-friendly, replicable school-based classroom applications geared toward promoting increased student achievement, including using applied research to assist in solving site-specific problems and assisting in development activities (including high-quality and on-going professional development and effective parental involvement strategies);
 
-&emsp;(5) supporting and serving the educational development activities and needs of the region by providing educational applied research in usable forms to promote school-improvement, academic achievement, and the closing of achievement gaps and contributing to the current base of education knowledge by addressing enduring problems in elementary and secondary education and access to postsecondary education;
+&emsp;(5) supporting and serving the educational development activities and needs of the region by providing educational applied research in usable forms to promote school-improvement, academic achievement, and the closing ofachievement gaps and contributing to the current base of education knowledge by addressing enduring problems in elementary and secondary education and access to postsecondary education;
 
 &emsp;(6) collaborating and coordinating services with other technical assistance providers funded by the Department of Education;
 
@@ -190,7 +190,7 @@ The Evaluation and Regional Assistance Commissioner shall provide for independen
 
 No regional educational laboratory receiving assistance under this section shall, by reason of the receipt of that assistance, be ineligible to receive any other assistance from the Department of Education as authorized by law or be prohibited from engaging in activities involving international projects or endeavors.
 
-#### (<i>l</i>) Advance payment system
+#### (l) Advance payment system
 
 Each regional educational laboratory awarded a contract under this section shall participate in the advance payment system at the Department of Education.
 
@@ -206,7 +206,7 @@ Not later than July 1 of each year, each regional educational laboratory awarded
 
 &emsp;(2) a report of how well such laboratory is meeting the needs of the region, including a summary of activities during the preceding year, a list of entities served, a list of products, and any other information that the regional educational laboratory may consider relevant or the Evaluation and Regional Assistance Commissioner may require.
 
-#### (<i>o</i>) Construction
+#### (o) Construction
 
 Nothing in this section shall be construed to require any modifications in a regional educational laboratory contract in effect on the day before November 5, 2002.
 

@@ -2,27 +2,31 @@
 
 #### (a) Amount and term of coverage
 
-After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Director as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
+After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
 
 #### (b) Requirement for mortgage loans
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with theFinancial Institutions Examination Council established under the Federal Financial Institutions Examination Council Act of 1974 \[12 U.S.C. 3301 et seq.\]) shall by regulation direct regulated lending institutions not to make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or the maximum limit of coverage made available under the Act with respect to the particular type of property, whichever is less.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council established under the Federal Financial Institutions Examination Council Act of 1974 \[12 U.S.C. 3301 et seq.\]) shall by regulation direct regulated lending institutions—
+
+&emsp;&emsp;(A) not to make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Administrator as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or the maximum limit of coverage made available under the Act with respect to the particular type of property, whichever is less; and
+
+&emsp;&emsp;(B) to accept private flood insurance as satisfaction of the flood insurance coverage requirement under subparagraph (A) if the coverage provided by such private flood insurance meets the requirements for coverage under such subparagraph.
 
 #### (2) Federal agency lenders
 
-&emsp;A Federal agency lender may not make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1). Each Federal agency lender shall issue any regulations necessary to carry out this paragraph. Such regulations shall be consistent with and substantially identical to the regulations issued under paragraph (1).
+&emsp;A Federal agency lender may not make, increase, extend, or renew any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Administrator as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1)(A). Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence. Each Federal agency lender shall issue any regulations necessary to carry out this paragraph. Such regulations shall be consistent with and substantially identical to the regulations issued under paragraph (1)(A).
 
 #### (3) Government-sponsored enterprises for housing
 
 &emsp;The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall implement procedures reasonably designed to ensure that, for any loan that is—
 
-&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
+&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Administrator as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
 
 &emsp;&emsp;(B) purchased by such entity,
 
-> &emsp;the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1).
+> &emsp;the building or mobile home and any personal property securing the loan is covered for the term of the loan by flood insurance in the amount provided in paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.
 
 #### (4) Applicability
 
@@ -38,11 +42,59 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;Notwithstanding any other provision of this subsection, the regulations to carry out paragraph (1), as in effect immediately before September 23, 1994, shall continue to apply until the regulations issued to carry out paragraph (1) as amended by section 522(a) of Public Law 103–325 take effect.
 
+#### (5) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to supersede or limit the authority of a Federal entity for lending regulation, the Federal Housing Finance Agency, a Federal agency lender, the Federal National Mortgage Association, or the Federal Home Loan Mortgage Corporation to establish requirements relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the entity or agency will accept private flood insurance.
+
+#### (6) Notice
+
+#### (A) In general
+
+&emsp;&emsp;Each lender shall disclose to a borrower that is subject to this subsection that—
+
+&emsp;&emsp;&emsp;(i) flood insurance is available from private insurance companies that issue standard flood insurance policies on behalf of the national flood insurance program or directly from the national flood insurance program;
+
+&emsp;&emsp;&emsp;(ii) flood insurance that provides the same level of coverage as a standard flood insurance policy under the national flood insurance program may be available from a private insurance company that issues policies on behalf of the company; and
+
+&emsp;&emsp;&emsp;(iii) the borrower is encouraged to compare the flood insurance coverage, deductibles, exclusions, conditions and premiums associated with flood insurance policies issued on behalf of the national flood insurance program and policies issued on behalf of private insurance companies and to direct inquiries regarding the availability, cost, and comparisons of flood insurance coverage to an insurance agent.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting or otherwise limiting the authority of a Federal entity for lending regulation to approve any disclosure made by a regulated lending institution for purposes of complying with subparagraph (A).
+
+#### (7) Private flood insurance defined
+
+&emsp;In this subsection, the term “private flood insurance” means an insurance policy that—
+
+&emsp;&emsp;(A) is issued by an insurance company that is—
+
+&emsp;&emsp;&emsp;(i) licensed, admitted, or otherwise approved to engage in the business of insurance in the State or jurisdiction in which the insured building is located, by the insurance regulator of that State or jurisdiction; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is <sup>1</sup> recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
+
+&emsp;&emsp;(B) provides flood insurance coverage which is at least as broad as the coverage provided under a standard flood insurance policy under the national flood insurance program, including when considering deductibles, exclusions, and conditions offered by the insurer;
+
+&emsp;&emsp;(C) includes—
+
+&emsp;&emsp;&emsp;(i) a requirement for the insurer to give 45 days’ written notice of cancellation or non-renewal of flood insurance coverage to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the insured; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the regulated lending institution or Federal agency lender;
+
+&emsp;&emsp;&emsp;(ii) information about the availability of flood insurance coverage under the national flood insurance program;
+
+&emsp;&emsp;&emsp;(iii) a mortgage interest clause similar to the clause contained in a standard flood insurance policy under the national flood insurance program; and
+
+&emsp;&emsp;&emsp;(iv) a provision requiring an insured to file suit not later than 1 year after date of a written denial of all or part of a claim under the policy; and
+
+&emsp;&emsp;(D) contains cancellation provisions that are as restrictive as the provisions contained in a standard flood insurance policy under the national flood insurance program.
+
 #### (c) Exceptions to purchase requirements
 
 #### (1) State-owned property
 
-&emsp;Notwithstanding the other provisions of this section, flood insurance shall not be required on any State-owned property that is covered under an adequate State policy of self-insurance satisfactory to the Director. The Director shall publish and periodically revise the list of States to which this subsection applies.
+&emsp;Notwithstanding the other provisions of this section, flood insurance shall not be required on any State-owned property that is covered under an adequate State policy of self-insurance satisfactory to the Administrator. The Administrator shall publish and periodically revise the list of States to which this subsection applies.
 
 #### (2) Small loans
 
@@ -56,7 +108,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -78,27 +130,39 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Notification to borrower of lack of coverage
 
-&emsp;If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Director (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], the lender or servicer for the loan determines that the building or mobile home and any personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant to paragraph (1), (2), or (3) of subsection (b) of this section, the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower's expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1) of this section, for the term of the loan.
+&emsp;If, at the time of origination or at any time during the term of a loan secured by improved real estate or by a mobile home located in an area that has been identified by the Administrator (at the time of the origination of the loan or at any time during the term of the loan) as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], the lender or servicer for the loan determines that the building or mobile home and any personal property securing the loan is not covered by flood insurance or is covered by such insurance in an amount less than the amount required for the property pursuant to paragraph (1), (2), or (3) of subsection (b) of this section, the lender or servicer shall notify the borrower under the loan that the borrower should obtain, at the borrower's expense, an amount of flood insurance for the building or mobile home and such personal property that is not less than the amount under subsection (b)(1) of this section, for the term of the loan.
 
 #### (2) Purchase of coverage on behalf of borrower
 
-&emsp;If the borrower fails to purchase such flood insurance within 45 days after notification under paragraph (1), the lender or servicer for the loan shall purchase the insurance on behalf of the borrower and may charge the borrower for the cost of premiums and fees incurred by the lender or servicer for the loan in purchasing the insurance.
+&emsp;If the borrower fails to purchase such flood insurance within 45 days after notification under paragraph (1), the lender or servicer for the loan shall purchase the insurance on behalf of the borrower and may charge the borrower for the cost of premiums and fees incurred by the lender or servicer for the loan in purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount.
 
-#### (3) Review of determination regarding required purchase
+#### (3) Termination of force-placed insurance
+
+&emsp;Within 30 days of receipt by the lender or servicer of a confirmation of a borrower's existing flood insurance coverage, the lender or servicer shall—
+
+&emsp;&emsp;(A) terminate any insurance purchased by the lender or servicer under paragraph (2); and
+
+&emsp;&emsp;(B) refund to the borrower all premiums paid by the borrower for any insurance purchased by the lender or servicer under paragraph (2) during any period during which the borrower's flood insurance coverage and the insurance coverage purchased by the lender or servicer were each in effect, and any related fees charged to the borrower with respect to the insurance purchased by the lender or servicer during such period.
+
+#### (4) Sufficiency of demonstration
+
+&emsp;For purposes of confirming a borrower's existing flood insurance coverage, a lender or servicer for a loan shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contact information for, the insurance company or agent.
+
+#### (5) Review of determination regarding required purchase
 
 #### (A) In general
 
-&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
+&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Administrator to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Administrator receives the request, the Administrator shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Administrator shall be final.
 
 #### (B) Effect of determination
 
-&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Director pursuant to subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>1</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Director, which shall be specified in the letter and shall begin on the date on which such letter is provided.
+&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Administrator pursuant to subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>2</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Administrator, which shall be specified in the letter and shall begin on the date on which such letter is provided.
 
 #### (C) Effect of failure to respond
 
-&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Director fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>1</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
+&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Administrator fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>2</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
 
-#### (4) Applicability
+#### (6) Applicability
 
 &emsp;This subsection shall apply to all loans outstanding on or after September 23, 1994.
 
@@ -126,11 +190,11 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>2</sup> shall assess a civilpenalty against such enterprise in the amount provided under paragraph (5) of this subsection.
+&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>3</sup> shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
 
 #### (B) “Enterprise” defined
 
-&emsp;&emsp;For purposes of this subsection, the term “enterprise” means the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
+&emsp;&emsp;For purposes of this subsection, the term “enterprise” means the Federal NationalMortgage Association or the Federal Home Loan Mortgage Corporation.
 
 #### (4) Notice and hearing
 
@@ -138,7 +202,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (5) Amount
 
-&emsp;A civil monetary penalty under this subsection may not exceed $350 for each violation under paragraph (2) or paragraph (3). The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000.
+&emsp;A civil monetary penalty under this subsection may not exceed $2,000 for each violation under paragraph (2) or paragraph (3).
 
 #### (6) Lender compliance
 
@@ -184,7 +248,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>3</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>3</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>4</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>4</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2) of this section.
 
@@ -192,23 +256,85 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
-(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780.)
+(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780; Pub. L. 112–141, div. F, title II, §§100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, 126 Stat. 919, 920, 958, 966; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485.)
+
+#### Amendment of Subsection (d)(1)
+
+<i>Pub. L. 112–141, div. F, title II, §100209, July 6, 2012, 126 Stat. 920, as amended by Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485, provided that, applicable to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, subsection (d) of this section is amended to read as follows:</i>
+
+#### <i>(1) Regulated lending institutions</i>
+
+#### <i>(A) Federal entities responsible for lending regulations</i>
+
+&emsp;&emsp;<i>Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (C), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.</i>
+
+#### <i>(B) Limitation</i>
+
+&emsp;&emsp;<i>Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A) or (B), if—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the regulated lending institution has total assets of less than $1,000,000,000; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) on or before July 6, 2012, the regulated lending institution—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### References in Text
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, as amended, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
+The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
 
 Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original “section 522(a) of such Act”, which generally amended subsec. (b) of this section.
 
-This title, referred to in subsec. (e)(3)(B), (C), means title I of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 977, which enacted this section and section 4104 of this title and amended sections 4001, 4013 to 4016, 4026, 4054, 4056, and 4121 of this title.
+This title, referred to in subsec. (e)(5)(B), (C), means title I of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 977, which enacted this section and section 4104 of this title and amended sections 4001, 4013 to 4016, 4026, 4054, 4056, and 4121 of this title.
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(1)(A). Pub. L. 112–281 inserted “residential” before “improved real estate” in two places.
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(1). Pub. L. 112–141, §100239(a)(1), substituted “; and” for period at end, substituted “institutions—” for “institutions”, inserted subpar. (A) designation before “not to make”, and added subpar. (B).
+
+Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted “paragraph (1)(A)” for “paragraph (1)” in two places and inserted “Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence.” after first sentence.
+
+Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(3). Pub. L. 112–141, §100239(a)(3), substituted “paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.” for “paragraph (1).” in concluding provisions.
+
+Subsec. (b)(3)(A). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(5) to (7). Pub. L. 112–141, §100239(a)(4), added pars. (5) to (7).
+
+Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director” in two places.
+
+Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: “Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from theescrow account to the provider of the insurance the amount of insurance premiums owed.”
+
+Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (e)(2). Pub. L. 112–141, §100244(a)(1), substituted “purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount” for “purchasing the insurance”.
+
+Subsec. (e)(3). Pub. L. 112–141, §100244(a)(3), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (e)(3). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director” wherever appearing.
+
+Subsec. (e)(4) to (6). Pub. L. 112–141, §100244(a)(2), (3), added par. (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+Subsec. (f)(5). Pub. L. 112–141, §100208, substituted “$2,000” for “$350” and struck out at end “The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000.”
+
+Subsec. (h)(1)(B). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
 
 <b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
@@ -224,6 +350,10 @@ Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h)
 
 <b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on the date of enactment of this Act \[July 6, 2012\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 582(c) of Pub. L. 103–325 applicable to disasters declared after Sept. 23, 1994, see section 5154a(e) of this title.
@@ -234,9 +364,11 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The word “is” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Agency”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “Agency”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”.</i>
 

@@ -34,7 +34,7 @@ Subject to subsection (f) of this section, the Federal Fund may only be used by 
 
 &emsp;(1) to pay lender claims pursuant to sections 1078(b)(1)(G), 1078(j), and 1087 of this title; and
 
-&emsp;(2) to pay into the Agency Operating Fund established pursuant to section 1072b of this title (in this section and section 1072b of this title referred to as the “Operating Fund”) a default aversion fee in accordance with section 1078(<i>l</i>) of this title.
+&emsp;(2) to pay into the Agency Operating Fund established pursuant to section 1072b of this title (in this section and section 1072b of this title referred to as the “Operating Fund”) a default aversion fee in accordance with section 1078(l) of this title.
 
 #### (e) Ownership of Federal Fund
 
@@ -44,7 +44,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (1) In general
 
-&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments) as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficient funds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of this section and subsections (h) and (i) of section 1072 of this title.
+&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments) as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficientfunds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of this section and subsections (h) and (i) of section 1072 of this title.
 
 #### (2) Special rule
 

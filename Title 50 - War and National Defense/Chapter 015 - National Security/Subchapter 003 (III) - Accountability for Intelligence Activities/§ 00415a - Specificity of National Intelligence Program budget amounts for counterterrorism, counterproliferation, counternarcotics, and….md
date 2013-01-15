@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted toCongress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
+The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
 
 &emsp;(1) Counterterrorism.
 

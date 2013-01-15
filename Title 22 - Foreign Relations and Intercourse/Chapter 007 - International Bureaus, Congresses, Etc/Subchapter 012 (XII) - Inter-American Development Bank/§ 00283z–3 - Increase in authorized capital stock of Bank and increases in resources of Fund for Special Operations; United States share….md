@@ -18,7 +18,7 @@
 
 &emsp;(ii) contribute $350,000,000 to the Fund for Special Operations.
 
-(B) Any commitment to make such subscriptions to paid-in and callable capital stock and to make such contributions to the Fund for Special Operations shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+(B) Any commitment to make such subscriptions to paid-in and callable capital stock and tomake such contributions to the Fund for Special Operations shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 (b) In order to pay for the increase in the United States subscription and contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury—
 
@@ -26,5 +26,5 @@
 
 &emsp;(2) $350,000,000 for the United States share of the increase in the resources of the Fund for Special Operations.
 
-(Pub. L. 86–147, §31, as added Pub. L. 98–181, title X, §1001, Nov. 30, 1983, 97 Stat. 1284.)
+(Pub. L. 86–147, §31, as added Pub. L. 98–181, title I \[title X, §1001\], Nov. 30, 1983, 97 Stat. 1284.)
 

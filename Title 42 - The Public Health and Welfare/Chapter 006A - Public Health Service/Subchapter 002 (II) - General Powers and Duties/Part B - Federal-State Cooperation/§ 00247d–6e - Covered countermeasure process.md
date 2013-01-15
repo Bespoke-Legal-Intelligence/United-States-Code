@@ -48,13 +48,13 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (c) Voluntary program
 
-The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to administer or use a covered countermeasure is consistent with any declaration under 247d–6d of this title and any applicableguidelines of the Centers for Disease Control and Prevention and that potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part.
+The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to administer or use a covered countermeasure is consistent with any declaration under 247d–6d of this title and any applicable guidelines of the Centers for Disease Control and Prevention and that potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part.
 
 #### (d) Exhaustion; exclusivity; election
 
 #### (1) Exhaustion
 
-&emsp;Subject to paragraph (5), a covered individual may not bring a civil action under section 247d–6d(d) of this title against a covered person (as such term is defined in section 247d–6d(i)(2) of this title) unless such individual has exhausted such remedies as are available under subsection (a) of this section, except that if amounts have not by law been provided for the Fund under subsection (a) of this section, or if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of this section within 240 days after such request was filed, the individual may seek any remedy that may be available under section 247d–6d(d) of this title.
+&emsp;Subject to paragraph (5), a covered individual may not bring a civil action under section 247d–6d(d) of this title against a covered person (as such term is defined in section 247d–6d(i)(2) of this title) unless such individual has exhausted such remedies as are available under subsection (a) of this section, except that if amounts have not by law been provided for the Fund under subsection (a) of this section, or if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of this section within 240 daysafter such request was filed, the individual may seek any remedy that may be available under section 247d–6d(d) of this title.
 
 #### (2) Tolling of statute of limitations
 

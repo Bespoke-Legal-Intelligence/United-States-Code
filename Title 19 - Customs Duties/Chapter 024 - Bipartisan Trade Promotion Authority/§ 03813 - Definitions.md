@@ -38,7 +38,7 @@ In this chapter:
 
 #### (7) Dispute Settlement Understanding
 
-&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
+&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules andProcedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
 
 #### (8) GATT 1994
 

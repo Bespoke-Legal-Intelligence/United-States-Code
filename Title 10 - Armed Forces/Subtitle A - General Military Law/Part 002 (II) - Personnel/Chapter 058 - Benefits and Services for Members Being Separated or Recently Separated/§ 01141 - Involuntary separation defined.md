@@ -20,7 +20,7 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 #### Effective Date of 1994 Amendment
 
-Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title\] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
+Pub. L. 103–337, div. A, title V, §542(e), Oct. 5, 1994, 108 Stat. 2769, provided that: “This section \[amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title\] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
 
 #### Transfer of Functions
 

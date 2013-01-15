@@ -6,7 +6,7 @@ Definition.—For purposes of this chapter, an alternative dispute resolution pr
 
 (b)
 
-Authority.—Each United States district court shall authorize, by local rule adopted under section 2071(a), the use of alternative dispute resolution processes in all civil actions, including adversary proceedings in bankruptcy, in accordance with this chapter, except that the use of arbitration may be authorized only as provided in section 654. Each United States district court shall devise and implement its own alternative dispute resolution program, by local rule adopted under section 2071(a), to encourage and promote the use of alternative dispute resolution in its district.
+Authority.—Each United States district court shall authorize, by local rule adopted under section 2071(a), the use of alternative dispute resolution processes in all civil actions, including adversary proceedings in bankruptcy, in accordance with this chapter, except that theuse of arbitration may be authorized only as provided in section 654. Each United States district court shall devise and implement its own alternative dispute resolution program, by local rule adopted under section 2071(a), to encourage and promote the use of alternative dispute resolution in its district.
 
 (c)
 
@@ -38,11 +38,11 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 
 #### Effective Date
 
-Section 907 of title IX of Pub. L. 100–702 provided that: “This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\].”
+Pub. L. 100–702, title IX, §907, Nov. 19, 1988, 102 Stat. 4664, provided that: “This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\].”
 
-Section 906 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, §3(b), Oct. 25, 1994, 108 Stat. 4345.
+Pub. L. 100–702, title IX, §906, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, §1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, §3(b), Oct. 25, 1994, 108 Stat. 4345.
 
-Section 2 of Pub. L. 103–192 provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by section 906 of Pub. L. 100–702, formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
+Pub. L. 103–192, §2, Dec. 14, 1993, 107 Stat. 2292, provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by section 906 of Pub. L. 100–702, formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
 
 #### Congressional Findings and Declaration of Policy
 
@@ -56,11 +56,11 @@ Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: “Congres
 
 #### Model Procedures
 
-Section 902 of title IX of Pub. L. 100–702 provided that: “The Judicial Conference of the United States may develop model rules relating to procedures for arbitration under chapter 44, as added by section 901 of this Act. No model rule may supersede any provision of such chapter 44, this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or any law of the United States.”
+Pub. L. 100–702, title IX, §902, Nov. 19, 1988, 102 Stat. 4663, provided that: “The Judicial Conference of the United States may develop model rules relating to procedures for arbitration under chapter 44, as added by section 901 of this Act. No model rule may supersede any provision of such chapter 44, this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or any law of the United States.”
 
 #### Reports by Director of Administrative Office of United States Courts and by Federal Judicial Center
 
-Section 903 of Pub. L. 100–702 provided that:
+Pub. L. 100–702, title IX, §903, Nov. 19, 1988, 102 Stat. 4663, provided that:
 
 “(a)
 
@@ -82,11 +82,11 @@ Report by Federal Judicial Center.—Not later than 5 years after the date of en
 
 #### Effect on Judicial Rulemaking Powers
 
-Section 904 of title IX of Pub. L. 100–702 provided that: “Nothing in this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary.”
+Pub. L. 100–702, title IX, §904, Nov. 19, 1988, 102 Stat. 4663, provided that: “Nothing in this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary.”
 
 #### Authorization of Appropriations
 
 Pub. L. 105–315, §11, Oct. 30, 1998, 112 Stat. 2998, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
 
-Section 905 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, §3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, §1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
+Pub. L. 100–702, title IX, §905, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, §1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, §3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, §1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
 

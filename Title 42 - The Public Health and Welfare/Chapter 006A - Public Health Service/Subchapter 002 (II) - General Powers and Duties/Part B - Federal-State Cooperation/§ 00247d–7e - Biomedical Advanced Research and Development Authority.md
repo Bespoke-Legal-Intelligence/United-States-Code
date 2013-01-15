@@ -28,7 +28,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “advanced research and development” means, with respect to a product that is or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
+&emsp;&emsp;The term “advanced research and development” means, with respect to a product thatis or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
 
 &emsp;&emsp;&emsp;(i) are conducted after basic research and preclinical development of the product; and
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (II) Written determinations required
 
-&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
+&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) oftitle 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
 
 #### (iii) Guidelines
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to those provisions of title 5 governing appointments in the competitive service, appoint highly qualified individuals to scientific or professional positions in BARDA, such as program managers, to carry out this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms andconditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms and conditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (ii) Manner of exercise of authority
 
@@ -298,7 +298,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification
 
-In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of FederalProcurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

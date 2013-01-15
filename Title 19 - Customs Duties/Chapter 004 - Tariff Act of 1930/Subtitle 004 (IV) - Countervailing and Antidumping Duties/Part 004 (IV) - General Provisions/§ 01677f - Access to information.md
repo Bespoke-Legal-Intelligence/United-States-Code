@@ -114,7 +114,7 @@
 
 #### (d) Service
 
-Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall not accept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
+Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall not accept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the documentcontaining the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
 
 #### (e) Repealed. Pub. L. 103–465, title II, §231(d)(1), Dec. 8, 1994, 108 Stat. 4897
 
@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure thatregulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -152,7 +152,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (4) Sanctions for violation of protective orders
 
-&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
+&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by theadministering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
 
 #### (5) Review of sanctions
 
@@ -178,7 +178,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (B) Witnesses and evidence
 
-&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidenceconcerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
+&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
 #### (C) Mandamus
 
@@ -194,7 +194,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (g) Information relating to violations of protective orders and sanctions
 
-The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d) of this section, and such information shall be treated as information described in section 552(b)(3) of title 5.
+The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c)or (d) of this section, and such information shall be treated as information described in section 552(b)(3) of title 5.
 
 #### (h) Opportunity for comment by consumers and industrial users
 
@@ -238,6 +238,10 @@ The administering authority and the Commission shall provide an opportunity for 
 
 (June 17, 1930, ch. 497, title VII, §777, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 187; amended Pub. L. 98–573, title VI, §619, Oct. 30, 1984, 98 Stat. 3038; Pub. L. 99–514, title XVIII, §§1886(a)(13), 1889(8), Oct. 22, 1986, 100 Stat. 2922, 2926; Pub. L. 100–418, title I, §1332, Aug. 23, 1988, 102 Stat. 1207; Pub. L. 100–449, title IV, §403(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 101–382, title I, §§134(a)(4), 135(b), Aug. 20, 1990, 104 Stat. 650, 651; Pub. L. 103–182, title IV, §412(c), Dec. 8, 1993, 107 Stat. 2146; Pub. L. 103–465, title II, §§226–228, 231(b), (d)(1), Dec. 8, 1994, 108 Stat. 4886–4888, 4896, 4897.)
 
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–465, §231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
@@ -248,7 +252,7 @@ Subsec. (b)(2). Pub. L. 103–465, §226(b), inserted at end “In a case in whi
 
 Subsec. (b)(3). Pub. L. 103–465, §226(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 103–465, §231(d)(1), struck out heading and text of subsec. (e). Text read as follows: “Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject to comment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it.”
+Subsec. (e). Pub. L. 103–465, §231(d)(1), struck out heading and text of subsec. (e). Text read as follows: “Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject tocomment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it.”
 
 Subsecs. (h), (i). Pub. L. 103–465, §§227, 228, added subsecs. (h) and (i).
 
@@ -288,7 +292,7 @@ Subsec. (c)(1)(C) to (E). Pub. L. 100–418, §1332(2)(B), added subpars. (C) to
 
 Subsec. (c)(2). Pub. L. 100–418, §1332(3), struck out “or the Commission denies a request for proprietary information submitted by the petitioner or an interested party in support of the petitioner concerning the domestic price or cost of production of the like product,” after “information under paragraph (1),”.
 
-Subsec. (d). Pub. L. 100–449 added subsec. (d) relating to disclosure of proprietary information, etc.
+Subsec. (d). Pub. L. 100–449 temporarily added subsec. (d) relating to disclosure of proprietary information, etc. See Effective and Termination Dates of 1988 Amendment note below.
 
 Pub. L. 100–418, §1332(4), added subsec. (d) relating to service.
 
@@ -324,7 +328,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
 
-#### Effective and Termination Dates of 1988 Amendments
+#### Effective and Termination Dates of 1988 Amendment
 
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 

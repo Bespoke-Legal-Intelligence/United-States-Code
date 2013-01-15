@@ -38,11 +38,11 @@
 
 &emsp;The President may proclaim duty-free treatment under this chapter for any article described in subparagraph (A), (B), (C), or (D) that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of this section, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries:
 
-&emsp;&emsp;(A) Footwear not designated at the time of the effective date of this chapter as eligible for purposes of the generalized system ofpreferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
+&emsp;&emsp;(A) Footwear not designated at the time of the effective date of this chapter as eligible for purposes of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
 
 &emsp;&emsp;(B) Petroleum, or any product derived from petroleum, provided for in headings 2709 and 2710 of the HTS.
 
-&emsp;&emsp;(C) Watches and watch parts (including cases, bracelets and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply.
+&emsp;&emsp;(C) Watches and watch parts (including cases, bracelets and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if suchwatches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply.
 
 &emsp;&emsp;(D) Handbags, luggage, flat goods, work gloves, and leather wearing apparel that were not designated on August 5, 1983, as eligible articles for purposes of the generalized system of preferences under title V of the Trade Act of 1974.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) Fabrics or fabric components wholly formed, or components knit-to-shape, in the United States, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in the United States). Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
-&emsp;&emsp;&emsp;&emsp;(II) Fabrics or fabric components formed or components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in 1 or more ATPDEA beneficiary countries, if such fabrics (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries) or components are in chief value of llama, alpaca, or vicun�AE6a.
+&emsp;&emsp;&emsp;&emsp;(II) Fabrics or fabric components formed or components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in 1 or more ATPDEA beneficiary countries, if such fabrics (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries) or components are in chief value of llama, alpaca, or vicuña.
 
 &emsp;&emsp;&emsp;&emsp;(III) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
 
@@ -94,7 +94,7 @@
 
 #### (iii) Apparel articles assembled in 1 or more ATPDEA beneficiary countries from regional fabrics or regional components
 
-&emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEAbeneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
+&emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabriccomponents formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
 
 &emsp;&emsp;&emsp;(II) The preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 10 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
@@ -138,7 +138,7 @@
 
 #### (III) De minimis rule
 
-&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment under this subparagraph because the article contains yarns not wholly formed in the United States or in one or more ATPDEA beneficiary countries shall not be ineligible for such treatment if the total weight of all such yarns is not more than 7 percent of the total weight of the good.
+&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment underthis subparagraph because the article contains yarns not wholly formed in the United States or in one or more ATPDEA beneficiary countries shall not be ineligible for such treatment if the total weight of all such yarns is not more than 7 percent of the total weight of the good.
 
 #### (IV) Special origin rule
 
@@ -264,7 +264,7 @@
 
 &emsp;&emsp;&emsp;(iii) has penalized the individuals and entities involved in any such circumvention, consistent with its domestic laws and procedures, and has worked closely to seek the cooperation of any third country to prevent such circumvention from taking place in that third country.
 
-> &emsp;&emsp;The Commissioner of Customs shall submit to the Congress, not later than October 1, 2003, a report on the study conducted under this subparagraph.
+> &emsp;&emsp;The Commissioner of Customs shall submit to the Congress, not later than October 1,2003, a report on the study conducted under this subparagraph.
 
 #### (6) Definitions
 
@@ -340,7 +340,7 @@
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment is proclaimed under section 3201 of this title shall remain in effect until modified or terminated.
 
-(B) If any article is subject to any such action at the time duty-free treatment is proclaimedunder section 3201 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 204 of the Trade Act of 1974 \[19 U.S.C. 2254\].
+(B) If any article is subject to any such action at the time duty-free treatment is proclaimed under section 3201 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 204 of the Trade Act of 1974 \[19 U.S.C. 2254\].
 
 #### (d) Emergency relief with respect to perishable products
 
@@ -436,7 +436,7 @@ Pub. L. 110–191, §2(b)(2), substituted “December 31, 2008” for “Decembe
 
 <b>2007</b>—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, §2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, §2(1)(B), substituted “means—”for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
+Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, §2(1)(B), substituted “means—” for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
 
 Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, §2(2), substituted “During” for “Subject to section 3206 of this title, during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
@@ -502,7 +502,7 @@ Pub. L. 108–429, title II, §2003, Dec. 3, 2004, 118 Stat. 2589, provided that
 
 In General.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to subsection (c)—
 
-&emsp;“(1) with respect to any article described in section 204(b)(1)(D) of the Andean Trade Preference Act \[19 U.S.C. 3203(b)(1)(D)\] (as amended by section 3103(a)(2) of the Trade Act of 2002 \[Pub. L. 107–210\]) for whichthe President proclaims duty free treatment pursuant to section 204(b)(1) of the Andean Trade Preference Act, the entry of any such article on or after August 6, 2002, and before the date on which the President so proclaims duty free treatment for such article shall be subject to the rate of duty applicable on August 5, 2002; and
+&emsp;“(1) with respect to any article described in section 204(b)(1)(D) of the Andean Trade Preference Act \[19 U.S.C. 3203(b)(1)(D)\] (as amended by section 3103(a)(2) of the Trade Act of 2002 \[Pub. L. 107–210\]) for which the President proclaims duty free treatment pursuant to section 204(b)(1) of the Andean Trade Preference Act, the entry of any such article on or after August 6, 2002, and before the date on which the President so proclaims duty free treatment for such article shall be subject to the rate of duty applicable on August 5, 2002; and
 
 &emsp;“(2) such entries shall be liquidated or reliquidated as if the reduced duty preferential treatment applied, and the Secretary of the Treasury shall refund any excess duties paid with respect to such entry.
 
@@ -562,11 +562,11 @@ Peru.
 
 (5) This proclamation is effective on the date of signature.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this thirty-first day of October, in the year of our Lord two thousand two, and of the Independence of theUnited States of America the two hundred and twenty-seventh.
+IN WITNESS WHEREOF, I have hereunto set my hand this thirty-first day of October, in the year of our Lord two thousand two, and of the Independence of the United States of America the two hundred and twenty-seventh.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Suspension of Designation of Beneficiary Countries
 
-Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
+Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiarycountry for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
 

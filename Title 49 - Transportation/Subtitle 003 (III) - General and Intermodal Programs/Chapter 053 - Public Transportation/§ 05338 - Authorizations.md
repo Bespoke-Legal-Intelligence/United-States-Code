@@ -2,341 +2,135 @@
 
 (a)
 
-Fiscal Year 2005.—
+Formula Grants.—
 
 &emsp;(1)
 
-Formula grants.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $3,499,927,776 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5307, 5308, 5310, and 5311 and section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note).
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to the amounts made available under subparagraph (A), there is authorized to be appropriated $499,989,824 for fiscal year 2005 to carry out sections 5307, 5308, 5310, and 5311 and section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note).
-
-&emsp;&emsp;(C)
-
-Allocation of funds.—Of the amounts made available or appropriated under this paragraph—
-
-&emsp;&emsp;&emsp;(i) $4,811,150 shall be available to the Alaska Railroad for improvements to its passenger operations under section 5307;
-
-&emsp;&emsp;&emsp;(ii) $5,208,000 shall be available to provide over-the-road bus accessibility grants under section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note) to operators of intercity, fixed-route over-the-road buses;
-
-&emsp;&emsp;&emsp;(iii) $1,686,400 shall be available to provide over-the-road bus accessibility grants under section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note) to operators of over-the-road buses providing other than intercity, fixed-route service;
-
-&emsp;&emsp;&emsp;(iv) $94,526,689 shall be available to provide transportation services to elderly individuals and individuals with disabilities under section 5310;
-
-&emsp;&emsp;&emsp;(v) $250,889,588 shall be available to provide financial assistance for other than urbanized areas under section 5311;
-
-&emsp;&emsp;&emsp;(vi) $3,593,195,773 shall be available to provide financial assistance for urbanized areas under section 5307; and
-
-&emsp;&emsp;&emsp;(vii) $49,600,000 shall be available to carry out the clean fuels program under section 5308.
-
-&emsp;(2)
-
-Job access and reverse commute.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $108,500,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 3037 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5309 note).
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to the amounts made available under subparagraph (A), there is authorized to be appropriated $15,500,000 for fiscal year 2005 to carry out section 3037 of the Transportation Equity Act of the 21st Century (49 U.S.C. 5309 note).
-
-&emsp;(3)
-
-Capital program grants.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $2,898,100,224 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5309.
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to the amounts made available under subparagraph (A), there is authorized to be appropriated $414,014,176 for fiscal year 2005 to carry out sections 5308, 5309, and 5318 and section3015(b) of the Transportation Equity Act for the 21st Century (112 Stat. 361).
-
-&emsp;&emsp;(C)
-
-Allocation of funds.—Of the amounts made available or appropriated under this paragraph—
-
-&emsp;&emsp;&emsp;(i) $49,600,000 shall be available to carry out the clean fuels program under section 5308;
-
-&emsp;&emsp;&emsp;(ii) $669,600,000 shall be available for capital projects to replace, rehabilitate, and purchase bus and related equipment and to construct bus-related facilities under section 5309;
-
-&emsp;&emsp;&emsp;(iii) $1,204,684,800 shall be available for fixed guideway modernization under section 5309;
-
-&emsp;&emsp;&emsp;(iv) $1,437,829,600 shall be available for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems under section 5309;
-
-&emsp;&emsp;&emsp;(v) $10,213,632 shall be available for capital projects in Alaska and Hawaii under section 5309;
-
-&emsp;&emsp;&emsp;(vi) $2,976,000 shall be available to carry out bus testing under section 5318; and
-
-&emsp;&emsp;&emsp;(vii) $4,811,200 shall be available to carry out the fuel cell bus and bus facilities program under section 3015(b) of the Transportation Equity Act for the 21st Century (112 Stat. 361).
-
-&emsp;(4)
-
-Planning.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $63,364,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005.
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to the amounts made available under subparagraph (A), there is authorized to be appropriated $9,052,000 for fiscal year 2005 to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005.
-
-&emsp;&emsp;(C)
-
-Allocation of funds.—Of the amounts made available or appropriated under this paragraph—
-
-&emsp;&emsp;&emsp;(i) 82.72 percent shall be allocated for metropolitan planning under section 5305; and
-
-&emsp;&emsp;&emsp;(ii) 17.28 percent shall be allocated for State planning under section 5305.
-
-&emsp;(5)
-
-Research.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $47,740,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5311(b)(2), 5312, 5313(a), 5314, 5315, and 5322.
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to the amounts made available under subparagraph (A), there is authorized to be appropriated $6,820,000 for fiscal year 2005 to carry out sections 5311(b)(2), 5312, 5313(a), 5314, 5315, and 5322.
-
-&emsp;&emsp;(C)
-
-Allocation of funds.—Of the funds made available or appropriated under this paragraph—
-
-&emsp;&emsp;&emsp;(i) not less than $3,968,000 shall be available to carry out programs under the National Transit Institute under section 5315, of which not more than $992,000 shall be available to carry out section 5315(a)(16);
-
-&emsp;&emsp;&emsp;(ii) not less than $5,208,000 shall be available to provide rural transportation assistance under section 5311(b)(2);
-
-&emsp;&emsp;&emsp;(iii) not less than $8,184,000 shall be available to carry out transit cooperative research programs under section 5313(a);
-
-&emsp;&emsp;&emsp;(iv) not less than $2,976,000 shall be available to carry out Project Action under section 5312; and
-
-&emsp;&emsp;&emsp;(v) the remainder shall be available to carry out national research and technology programs under sections 5312, 5314, and 5322.
-
-&emsp;(6)
-
-University transportation research.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $5,208,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5505.
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to amounts made available under subparagraph (A), there is authorized to be appropriated $744,000 for fiscal year 2005 to carry out section 5505.
-
-&emsp;&emsp;(C)
-
-Allocation of funds.—Of the amounts made available or appropriated under this paragraph—
-
-&emsp;&emsp;&emsp;(i) $1,984,000 shall be available for grants under section 5505(d) to the center identified in section 5505(j)(4)(A), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005; and
-
-&emsp;&emsp;&emsp;(ii) $1,984,000 shall be available for grants under section 5505(d) to the center identified in section 5505(j)(4)(F), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005.
-
-&emsp;&emsp;(D)
-
-Special rule.—Nothing in this paragraph shall be construed to limit the transportation research conducted by the centers receiving financial assistance under this section.
-
-&emsp;(7)
-
-Administration.—
-
-&emsp;&emsp;(A)
-
-Trust fund.—For fiscal year 2005, $67,704,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5334.
-
-&emsp;&emsp;(B)
-
-General fund.—In addition to amounts made available under subparagraph (A), there is authorized to be appropriated $9,672,000 for fiscal year 2005 to carry out section 5334.
-
-&emsp;(8)
-
-Availability of amounts.—Amounts made available or appropriated under paragraphs (1) through (6) shall remain available until expended.
-
-(b)
-
-Formula and Bus Grants.—
-
-&emsp;(1)
-
-In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5308, 5309, 5310, 5311, 5316, 5317, 5320, 5335, 5339, and 5340 and section 3038 of the Federal Transit Act of 1998 (112 Stat. 387 et seq.)— <sup>1</sup>
-
-&emsp;&emsp;(A) $6,979,931,000 for fiscal year 2006;
-
-&emsp;&emsp;(B) $7,262,775,000 for fiscal year 2007;
-
-&emsp;&emsp;(C) $7,872,893,000 for fiscal year 2008;
-
-&emsp;&emsp;(D) $8,360,565,000 for fiscal year 2009;
-
-&emsp;&emsp;(E) $8,360,565,000 for fiscal year 2010;
-
-&emsp;&emsp;(F) $8,360,565,000 for fiscal year 2011; and
-
-&emsp;&emsp;(G) $4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.
+In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013 and $8,595,000,000 for fiscal year 2014.
 
 &emsp;(2)
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $95,000,000 for fiscal year 2006, $99,000,000 for fiscal year 2007, $107,000,000 for fiscal year 2008, $113,500,000 for each of fiscal years 2009 and 2010, $113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5305;
+&emsp;&emsp;(A) $126,900,000 for fiscal year 2013 and $128,800,000 for fiscal year 2014 shall be available to carry out section 5305;
 
-&emsp;&emsp;(B) $3,466,681,000 for fiscal year 2006, $3,606,175,000 for fiscal year 2007, $3,910,843,000 for fiscal year 2008, $4,160,365,000 for each of fiscal years 2009 and 2010, $4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+&emsp;&emsp;(B) $10,000,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
 
-&emsp;&emsp;(C) $43,000,000 for fiscal year 2006, $45,000,000 for fiscal year 2007, $49,000,000 for fiscal year 2008, $51,500,000 for each of fiscal years 2009 and 2010, $51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5308;
+&emsp;&emsp;(C) $4,397,950,000 for fiscal year 2013 and $4,458,650,000 for fiscal year 2014 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
-&emsp;&emsp;(D) $1,391,000,000 for fiscal year 2006, $1,448,000,000 for fiscal year 2007, $1,570,000,000 for fiscal year 2008, $1,666,500,000 for each of fiscal years 2009 and 2010, $1,666,500,000 for fiscal year 2011, and $833,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be allocated in accordance with section 5337 to provide financial assistance under section 5309(m)(2)(B);
+&emsp;&emsp;(D) $254,800,000 for fiscal year 2013 and $258,300,000 for fiscal year 2014 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
 
-&emsp;&emsp;(E) $822,250,000 for fiscal year 2006, $855,500,000 for fiscal year 2007, $927,750,000 for fiscal year 2008, $984,000,000 for each of fiscal years 2009 and 2010, $984,000,000 for fiscal year 2011, and $492,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5309(m)(2)(C);
+&emsp;&emsp;(E) $599,500,000 for fiscal year 2013 and $607,800,000 for fiscal year 2014 shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013 and $30,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013 and $20,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(2);
 
-&emsp;&emsp;(F) $112,000,000 for fiscal year 2006, $117,000,000 for fiscal year 2007, $127,000,000 for fiscal year 2008, $133,500,000 for each of fiscal years 2009 and 2010, $133,500,000 for fiscal year 2011, and $66,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to provide financial assistance for services for elderly persons and persons with disabilities under section 5310;
+&emsp;&emsp;(F) $3,000,000 for each of fiscal years 2013 and 2014 shall be available for bus testing under section 5318;
 
-&emsp;&emsp;(G) $388,000,000 for fiscal year 2006, $404,000,000 for fiscal year 2007, $438,000,000 for fiscal year 2008, $465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to provide financial assistance for other than urbanized areas under section 5311;
+&emsp;&emsp;(G) $5,000,000 for each of fiscal years 2013 and 2014 shall be available for the national transit institute under section 5322(d);
 
-&emsp;&emsp;(H) $138,000,000 for fiscal year 2006, $144,000,000 for fiscal year 2007, $156,000,000 for fiscal year 2008, $164,500,000 for each of fiscal years 2009 and 2010, $164,500,000 for fiscal year 2011, and $82,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5316;
+&emsp;&emsp;(H) $3,850,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 5335;
 
-&emsp;&emsp;(I) $78,000,000 for fiscal year 2006, $81,000,000 for fiscal year 2007, $87,500,000 for fiscal year 2008, $92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5317;
+&emsp;&emsp;(I) $2,136,300,000 for fiscal year 2013 and $2,165,900,000 for fiscal year 2014 shall be available to carry out section 5337;
 
-&emsp;&emsp;(J) $22,000,000 for fiscal year 2006, $23,000,000 for fiscal year 2007, $25,000,000 for fiscal year 2008, $26,900,000 for each of fiscal years 2009 and 2010, $26,900,000 for fiscal year 2011, and $13,450,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5320;
+&emsp;&emsp;(J) $422,000,000 for fiscal year 2013 and $427,800,000 for fiscal year 2014 shall be available for the bus and bus facilities program under section 5339; and
 
-&emsp;&emsp;(K) $3,500,000 in fiscal year 2006; $3,500,000 in fiscal year 2007; $3,500,000 in fiscal year 2008; $3,500,000 for each of fiscal years 2009 and 2010, $3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5335;
+&emsp;&emsp;(K) $518,700,000 for fiscal year 2013 and $525,900,000 for fiscal year 2014 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
 
-&emsp;&emsp;(L) $25,000,000 in fiscal year 2006; $25,000,000 in fiscal year 2007; $25,000,000 in fiscal year 2008; $25,000,000 for each of fiscal years 2009 and 2010, $25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 5339;
+(b)
 
-&emsp;&emsp;(M) $388,000,000 for fiscal year 2006, $404,000,000 for fiscal year 2007, $438,000,000 for fiscal year 2008, $465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and other than urbanized areas under section 5311; and
-
-&emsp;&emsp;(N) $7,500,000 for fiscal year 2006, $7,600,000 for fiscal year 2007, $8,300,000 for fiscal year 2008, $8,800,000 for each of fiscal years 2009 and 2010, $8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, shall be available to carry out section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note).
+Research, Development Demonstration and Deployment Projects.—There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013 and $70,000,000 for fiscal year 2014.
 
 (c)
 
-Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309(m)(2)(A)—
-
-&emsp;(1) $1,503,000,000 for fiscal year 2006;
-
-&emsp;(2) $1,566,000,000 for fiscal year 2007;
-
-&emsp;(3) $1,700,000,000 for fiscal year 2008;
-
-&emsp;(4) $1,809,250,000 for fiscal year 2009;
-
-&emsp;(5) $2,000,000,000 for fiscal year 2010;
-
-&emsp;(6) $2,000,000,000 for fiscal year 2011; and
-
-&emsp;(7) $800,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.
+Transit Cooperative Research Program.—There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
 
 (d)
 
-Research and University Research Centers.—
-
-&emsp;(1)
-
-In general.—There is authorized to be appropriated to carry out transit cooperative research programs under section 5313, the National Transit Institute under section 5315, university research centers under section 5506, and national research programs under sections 5312, 5313, 5314, and 5322 $58,000,000 for fiscal year 2006, $61,000,000 for fiscal year 2007, $65,500,000 for fiscal year 2008, $69,750,000 for each of fiscal years 2009 and 2010, $69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, of which—
-
-&emsp;&emsp;(A) $9,000,000 for fiscal year 2006, $9,300,000 for fiscal year 2007, $9,600,000 for fiscal year 2008, and $10,000,000 for each of fiscal years 2009, 2010, and 2011 shall be allocated to carry out transit cooperative research programs under section 5313;
-
-&emsp;&emsp;(B) $4,300,000 shall be allocated for each fiscal year to carry out programs under the National Transit Institute under section 5315, of which not more than $1,000,000 for each fiscal year shall be used to carry out section 5315(b)(2)(P);
-
-&emsp;&emsp;(C) $7,000,000 shall be allocated for each fiscal year to carry out the university centers program under section 5506;
-
-&emsp;&emsp;(D) $3,000,000 shall be allocated for each fiscal year to carry out Project Action under section 5314(a)(2);
-
-&emsp;&emsp;(E) $1,000,000 shall be allocated for each fiscal year to carry out the National Technical Assistance Center under section 5314(c); and
-
-&emsp;&emsp;(F) any funds made available under this paragraph that are not allocated under subparagraphs (A) through (E) shall be allocated to carry out national research programs under sections 5312, 5313, 5314, and 5322.
-
-&emsp;(2)
-
-University centers program.—
-
-&emsp;&emsp;(A)
-
-Allocation.—Of the amounts allocated under paragraph (1)(C), the following amounts shall be available to provide transportation research, training, and curriculum development:
-
-&emsp;&emsp;&emsp;(i) $2,000,000 for each of fiscal years 2006 through 2012 for the University of Tennessee—Knoxville National Transportation Research Center.
-
-&emsp;&emsp;&emsp;(ii) $1,500,000 for each of fiscal years 2006 through 2012 for Texas A\&M University—Texas Transportation Institute.
-
-&emsp;&emsp;&emsp;(iii) $1,000,000 for each of fiscal years 2006 through 2012 for Morgan State University.
-
-&emsp;&emsp;&emsp;(iv) $400,000 for each of fiscal years 2006 and 2007 for the Small Urban and Rural Transit Center at North Dakota State University.
-
-&emsp;&emsp;&emsp;(v) $550,000 for each of fiscal years 2006 and 2007 and $650,000 for each of fiscal years 2008 through 2012 for the University Transportation Center at the University of Alabama.
-
-&emsp;&emsp;&emsp;(vi) $450,000 for each of fiscal years 2006 and 2007 and $550,000 for each of fiscal years 2008 through 2012 for the Injury Control Research Center at the University of Alabama Birmingham.
-
-&emsp;&emsp;&emsp;(vii) $550,000 for each of fiscal years 2006 and 2007 and $650,000 for each of fiscal years 2008 through 2012 for the Jackson State University Intermodal Transportation Institute at the Jackson State University.
-
-&emsp;&emsp;&emsp;(viii) $550,000 for each of fiscal years 2006 and 2007 and $650,000 for each of fiscal years 2008 through 2012 for the University Transportation Center at the University of Denver/Mississippi State University.
-
-&emsp;&emsp;(B)
-
-Requirements.—The universities specified in subparagraph (A) shall be considered to be university transportation centers under section 5506 and shall be subject to the requirements of subsections (b), (h), (i), (k), (<i>l</i>), and (m) of such section.
-
-&emsp;(3)
-
-Additional authorizations.—
-
-&emsp;&emsp;(A)
-
-October 1, 2011, through march 31, 2012.—Of amounts authorized to be appropriated for the period beginning on October 1, 2011, and ending on March 31, 2012, under paragraph (1), the Secretary shall allocate for each of the activities and projects described in subparagraphs (A) through (F) of paragraph (1) an amount equal to 50 percent of 85 percent of the amount allocated for fiscal year 2009 under each such subparagraph.
-
-&emsp;&emsp;(B)
-
-University centers program.—
-
-&emsp;&emsp;&emsp;(i)
-
-October 1, 2011, through march 31, 2012.—Of the amounts allocated under subparagraph (A)(i) for the university centers program under section 5506 for the period beginning on October 1, 2011, and ending on March 31, 2012, the Secretary shall allocate for each program described in clauses (i) through (iii) and (v) through (viii) of paragraph (2)(A) an amount equal to 50 percent of 85 percent of the amount allocated for fiscal year 2009 under each such clause.
-
-&emsp;&emsp;&emsp;(ii)
-
-Funding.—If the Secretary determines that a project or activity described in paragraph (2) received sufficient funds in fiscal year 2011, or a previous fiscal year, to carry out the purpose for which the project or activity was authorized, the Secretary may not allocate any amounts under clause (i) for the project or activity for fiscal year 2012, or any subsequent fiscal year.
+Technical Assistance and Standards Development.—There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
 
 (e)
 
-Administration.—There is authorized to be appropriated to carry out section 5334—
-
-&emsp;(1) $82,000,000 for fiscal year 2006;
-
-&emsp;(2) $85,000,000 for fiscal year 2007;
-
-&emsp;(3) $92,500,000 for fiscal year 2008;
-
-&emsp;(4) $98,500,000 for fiscal year 2009;
-
-&emsp;(5) $98,911,000 for fiscal year 2010;
-
-&emsp;(6) $98,911,000 for fiscal year 2011; and
-
-&emsp;(7) $49,455,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.
+Human Resources and Training.—There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013 and $5,000,000 for fiscal year 2014.
 
 (f)
+
+Emergency Relief Program.—There are authorized to be appropriated such sums as are necessary to carry out section 5324.
+
+(g)
+
+Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013 and $1,907,000,000 for fiscal year 2014.
+
+(h)
+
+Administration.—
+
+&emsp;(1)
+
+In general.—There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013 and $104,000,000 for fiscal year 2014.
+
+&emsp;(2)
+
+Section 5329.—Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 shall be available to carry out section 5329.
+
+&emsp;(3)
+
+Section 5326.—Of the amounts made available under paragraph (2), not less than $1,000,000 shall be available to carry out section 5326.
+
+(i)
+
+Oversight.—
+
+&emsp;(1)
+
+In general.—Of the amounts made available to carry out this chapter for a fiscal year, the Secretary may use not more than the following amounts for the activities described in paragraph (2):
+
+&emsp;&emsp;(A) 0.5 percent of amounts made available to carry out section 5305.
+
+&emsp;&emsp;(B) 0.75 percent of amounts made available to carry out section 5307.
+
+&emsp;&emsp;(C) 1 percent of amounts made available to carry out section 5309.
+
+&emsp;&emsp;(D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 126 <sup>1</sup> Stat. 4968).
+
+&emsp;&emsp;(E) 0.5 percent of amounts made available to carry out section 5310.
+
+&emsp;&emsp;(F) 0.5 percent of amounts made available to carry out section 5311.
+
+&emsp;&emsp;(G) 0.75 percent of amounts made available to carry out section 5337(c).
+
+&emsp;(2)
+
+Activities.—The activities described in this paragraph are as follows:
+
+&emsp;&emsp;(A) Activities to oversee the construction of a major capital project.
+
+&emsp;&emsp;(B) Activities to review and audit the safety and security, procurement, management, and financial compliance of a recipient or subrecipient of funds under this chapter.
+
+&emsp;&emsp;(C) Activities to provide technical assistance generally, and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section.
+
+&emsp;(3)
+
+Government share of costs.—The Government shall pay the entire cost of carrying out a contract under this subsection.
+
+&emsp;(4)
+
+Availability of certain funds.—Funds made available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement.
+
+(j)
 
 Grants as Contractual Obligations.—
 
 &emsp;(1)
 
-Grants financed from highway trust fund.—A grant or contract that is approved by the Secretary and financed with amounts made available from the Mass Transit Account of the Highway Trust Fund pursuant to this section is a contractual obligation of the Government to pay the Federal share of the cost of the project.
+Grants financed from highway trust fund.—A grant or contract that is approved by the Secretary and financed with amounts made available from the Mass Transit Account of the Highway Trust Fund pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project.
 
 &emsp;(2)
 
-Grants financed from general fund.—A grant or contract that is approved by theSecretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Federal share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
+Grants financed from general fund.—A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
 
-(g)
+(k)
 
-Availability of Amounts.—Amounts made available by or appropriated under subsections (b), (c), and (d) shall remain available until expended.
+Availability of Amounts.—Amounts made available by or appropriated under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985.)
 
 Historical and Revision Notes
 
@@ -468,7 +262,7 @@ In subsection (k)(1), the words “Notwithstanding any other provision of law”
 
 In subsection (k)(2), the words “that is financed with” are added for clarity.
 
-In subsection (<i>l</i>)(3)(A), the words “for obligation by the recipient”, “a period of”, and “the close of” are omitted as surplus.
+In subsection (l)(3)(A), the words “for obligation by the recipient”, “a period of”, and “the close of” are omitted as surplus.
 
 #### Pub. L. 104–287
 
@@ -476,17 +270,127 @@ This amends 49:5338(g)(2) to correct an erroneous cross-reference.
 
 #### References in Text
 
-Section 3038 of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(1) and (b)(2)(N), is section 3038 of Pub. L. 105–178, which is set out as a note under section 5310 of this title.
+Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsec. (a)(1), (2)(B), is section 20005(b) of Pub. L. 112–141, which is set out as a note under section 5303 of this title.
 
-Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(2), is section 3037 of Pub. L. 105–178, which was set out as a note under section 5309 of this title prior to repeal by Pub. L. 109–59, title III, §3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
-
-Section 3015(b) of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(3)(B), (C)(vii), is section 3015(b) of Pub. L. 105–178, title III, June 9, 1998, 112 Stat. 361, which is not classified to the Code.
-
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (a)(4)(A), (B), (6)(C), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
-Section 3038 of the Federal Transit Act of 1998, referred to in subsec. (b)(1), is section 3038 of title III of Pub. L. 105–178, which is set out as a note under section 5310 of this title.
+Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (i)(1)(D), is section 601 of div. B of Pub. L. 110–432, Oct. 16, 2008, 122 Stat. 4968, which is not classified to the Code.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, §20028, amended section generally. Prior to amendment, section related to authorizations and consisted of subsecs. (a) to (g).
+
+Subsec. (b)(1)(G). Pub. L. 112–141, §113006(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: “$6,270,423,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§1(c), 306(a)(1), temporarily added subpar. (G), which made available $6,354,029,400 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012, and struck out former subpar. (G) which read as follows: “$6,270,423,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.” See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: “$4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (b)(2)(A). Pub. L. 112–141, §113006(a)(2)(A), substituted “and $113,500,000 for each of fiscal years 2009 through 2012” for “$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(A), temporarily substituted “$86,260,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(A), substituted “$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$113,500,000 for each of fiscal years 2009 and 2010, $113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(B). Pub. L. 112–141, §113006(a)(2)(B), substituted “and $4,160,365,000 for each of fiscal years 2009 through 2012” for “$4,160,365,000 for each of fiscal years 2009 through 2011, and $3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(B), temporarily substituted “$3,161,877,400 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(B), substituted “$4,160,365,000 for each of fiscal years 2009 through 2011, and $3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$4,160,365,000 for each of fiscal years 2009 and 2010, $4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(C). Pub. L. 112–141, §113006(a)(2)(C), substituted “and $51,500,000 for each of fiscal years 2009 through 2012” for “$51,500,000 for each of fiscal years 2009 through 2011, and $38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(C), temporarily substituted “$39,140,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(C), substituted “$51,500,000 for each of fiscal years 2009 through 2011, and $38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$51,500,000 for each of fiscal years 2009 and 2010, $51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(D). Pub. L. 112–141, §113006(a)(2)(D), substituted “and $1,666,500,000 for each of fiscal years 2009 through 2012” for “$1,666,500,000 for each of fiscal years 2009 through 2011, and $1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(D), temporarily substituted “$1,266,540,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(D), substituted “$1,666,500,000 for each of fiscal years 2009 through 2011, and $1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$1,666,500,000 for each of fiscal years 2009 and 2010, $1,666,500,000 for fiscal year 2011, and $833,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(E). Pub. L. 112–141, §113006(a)(2)(E), substituted “and $984,000,000 for each of fiscal years 2009 through 2012” for “$984,000,000 for each of fiscal years 2009 through 2011, and $738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(E), temporarily substituted “$747,840,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(E), substituted “$984,000,000 for each of fiscal years 2009 through 2011, and $738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$984,000,000 for each of fiscal years 2009 and 2010, $984,000,000 for fiscal year 2011, and $492,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(F). Pub. L. 112–141, §113006(a)(2)(F), substituted “and $133,500,000 for each of fiscal years 2009 through 2012” for “$133,500,000 for each of fiscal years 2009 through 2011, and $100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(F), temporarily substituted “$101,460,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(F), substituted “$133,500,000 for each of fiscal years 2009 through 2011, and $100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$133,500,000 for each of fiscal years 2009 and 2010, $133,500,000 for fiscal year 2011, and $66,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(G). Pub. L. 112–141, §113006(a)(2)(G), substituted “and $465,000,000 for each of fiscal years 2009 through 2012” for “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(G), temporarily substituted “$353,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(G), substituted “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(H). Pub. L. 112–141, §113006(a)(2)(H), substituted “and $164,500,000 for each of fiscal years 2009 through 2012” for “$164,500,000 for each of fiscal years 2009 through 2011, and $123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(H), temporarily substituted “$125,020,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(H), substituted “$164,500,000 for each of fiscal years 2009 through 2011, and $123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$164,500,000 for each of fiscal years 2009 and 2010, $164,500,000 for fiscal year 2011, and $82,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(I). Pub. L. 112–141, §113006(a)(2)(I), substituted “and $92,500,000 for each of fiscal years 2009 through 2012” for “$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(I), temporarily substituted “$70,300,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(I), substituted “$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted “and $26,900,000 for each of fiscal years 2009 through 2012” for “$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(J), temporarily substituted “$20,444,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(J), substituted “$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$26,900,000 for each of fiscal years 2009 and 2010, $26,900,000 for fiscal year 2011, and $13,450,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(K). Pub. L. 112–141, §113006(a)(2)(K), substituted “for each of fiscal years 2006 through 2012” for “for each of fiscal years 2006 through 2011 and $2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(K), temporarily substituted “$2,660,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(K), substituted “for each of fiscal years 2006 through 2011 and $2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “in fiscal year 2006; $3,500,000 in fiscal year 2007; $3,500,000 in fiscal year 2008; $3,500,000 for each of fiscal years 2009 and 2010, $3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(L). Pub. L. 112–141, §113006(a)(2)(L), substituted “for each of fiscal years 2006 through 2012” for “for each of fiscal years 2006 through 2011 and $18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(L), temporarily substituted “$19,000,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(L), substituted “for each of fiscal years 2006 through 2011 and $18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “in fiscal year 2006; $25,000,000 in fiscal year 2007; $25,000,000 in fiscal year 2008; $25,000,000 for each of fiscal years 2009 and 2010, $25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(M). Pub. L. 112–141, §113006(a)(2)(M), substituted “and $465,000,000 for each of fiscal years 2009 through 2012” for “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(M), temporarily substituted “$353,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(M), substituted “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(N). Pub. L. 112–141, §113006(a)(2)(N), substituted “and $8,800,000 for each of fiscal years 2009 through 2012” for “$8,800,000 for each of fiscal years 2009through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§1(c), 306(a)(2)(N), temporarily substituted “$6,688,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(a)(2)(N), substituted “$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$8,800,000 for each of fiscal years 2009 and 2010, $8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (c)(7). Pub. L. 112–141, §113006(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$1,466,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§1(c), 306(b), temporarily amended par. (7) generally, authorizing $1,485,800,000 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$800,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (d)(1). Pub. L. 112–141, §113006(c)(1), substituted “through 2011, and $44,000,000 for fiscal year 2012,” for “through 2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+
+Pub. L. 112–140, §§1(c), 306(c)(1), temporarily substituted “2011, and $33,440,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(c)(1), substituted “through 2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and 2010, $69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 112–141, §113006(c)(2), added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to June 30, 2012.
+
+Pub. L. 112–140, §§1(c), 306(c)(2), temporarily added par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to July 6, 2012, and temporarily struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to June 30, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(c)(2), added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program from Oct. 1, 2011, to Mar. 31, 2012.
+
+Subsec. (e)(7). Pub. L. 112–141, §113006(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$74,034,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§1(c), 306(d), temporarily amended par. (7) generally, authorizing $75,021,880 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §306(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$49,455,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
 
 <b>2011</b>—Subsec. (b)(1)(F). Pub. L. 112–5, §306(a)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “$3,550,376,000 for the period beginning October 1, 2010, and ending March 4, 2011.”
 
@@ -498,7 +402,7 @@ Pub. L. 112–5, §306(a)(2)(A), substituted “$113,500,000 for fiscal year 201
 
 Subsec. (b)(2)(B). Pub. L. 112–30, §136(a)(2)(B), substituted “$4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $4,160,365,000 for fiscal year 2011”.
 
-Pub. L. 112–5, §306(a)(2)(B), substituted “$4,160,365,000 for fiscal year 2011” for ‘$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,”.
+Pub. L. 112–5, §306(a)(2)(B), substituted “$4,160,365,000 for fiscal year 2011” for “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,”.
 
 Subsec. (b)(2)(C). Pub. L. 112–30, §136(a)(2)(C), substituted “$51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $51,500,000 for fiscal year 2011”.
 
@@ -534,19 +438,19 @@ Pub. L. 112–5, §306(a)(2)(J), substituted “$26,900,000 for fiscal year 2011
 
 Subsec. (b)(2)(K). Pub. L. 112–30, §136(a)(2)(K), substituted “$3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $3,500,000 for fiscal year 2011”.
 
-Pub. L. 112–5, §303(a)(2)(K), substituted “$3,500,000 for fiscal year 2011” for “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+Pub. L. 112–5, §306(a)(2)(K), substituted “$3,500,000 for fiscal year 2011” for “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
 
 Subsec. (b)(2)(L). Pub. L. 112–30, §136(a)(2)(L), substituted “$25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $25,000,000 for fiscal year 2011”.
 
-Pub. L. 112–5, §303(a)(2)(L), substituted “$25,000,000 for fiscal year 2011” for “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+Pub. L. 112–5, §306(a)(2)(L), substituted “$25,000,000 for fiscal year 2011” for “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
 
 Subsec. (b)(2)(M). Pub. L. 112–30, §136(a)(2)(M), substituted “$465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $465,000,000 for fiscal year 2011”.
 
-Pub. L. 112–5, §303(a)(2)(M), substituted “$465,000,000 for fiscal year 2011” for “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+Pub. L. 112–5, §306(a)(2)(M), substituted “$465,000,000 for fiscal year 2011” for “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
 
 Subsec. (b)(2)(N). Pub. L. 112–30, §136(a)(2)(N), substituted “$8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $8,800,000 for fiscal year 2011”.
 
-Pub. L. 112–5, §303(a)(2)(N), substituted “$8,800,000 for fiscal year 2011” for “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+Pub. L. 112–5, §306(a)(2)(N), substituted “$8,800,000 for fiscal year 2011” for “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
 
 Subsec. (c)(6). Pub. L. 112–5, §306(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$849,315,000 for the period of October 1, 2010 through March 4, 2011.”
 
@@ -1374,7 +1278,7 @@ Subsec. (d)(2)(A)(vi). Pub. L. 108–88, §8(g)(2)–(4), added cl. (vi).
 
 Subsec. (d)(2)(B)(vi). Pub. L. 108–88, §8(g)(2), (3), (5), added cl. (vi).
 
-Subsec. (d)(2)(C). Pub. L. 108–88, §8(g)(6), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “a fiscal year” in introductory provisions.
+Subsec. (d)(2)(C). Pub. L. 108–88, §8(g)(6), inserted “(other than for the period of October 1, 2003, throughFebruary 29, 2004)” after “a fiscal year” in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 108–88, §8(i)(1), inserted “
 
@@ -1450,6 +1354,14 @@ Subsec. (m). Pub. L. 102–240, §3049(c)(8), as added by Pub. L. 105–130, add
 
 <b>1996</b>—Subsec. (g)(2). Pub. L. 104–287 substituted “section 5311(b)(2)” for “section 5308(b)(2)”.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by section 20028 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by section 113006 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under section 5305 of this title.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
@@ -1460,251 +1372,15 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Allocations for National Research and Technology Programs
 
-Pub. L. 109–59, title III, §3046, Aug. 10, 2005, 119 Stat. 1706, as amended by Pub. L. 110–244, title II, §201(<i>o</i>)(6), June 6, 2008, 122 Stat. 1615; Pub. L. 111–147, title IV, §437(f), Mar. 18, 2010, 124 Stat. 93; Pub. L. 111–322, title II, §2307(f), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(f), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(f) Sept. 16, 2011, 125 Stat. 355, provided that:
-
-“(a)
-
-In General.—Amounts appropriated pursuant to section 5338(d) of title 49, United States Code, for national research and technology programs under sections 5312, 5314, and 5322 of such title shall be allocated by the Secretary \[of Transportation\] as follows:
-
-&emsp;“(1)
-
-Public transportation national security study.—
-
-&emsp;&emsp;“(A)
-
-In general.—Not later than 6 months after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and evaluation of the value major public transportation systems in the United States serving the 38 urbanized areas that have a population of more than 1,000,000 individuals provide to the Nation's security and the ability of such systems to accommodate the evacuation, egress or ingress of people to or from critical locations in times of emergency.
-
-&emsp;&emsp;“(B)
-
-Alternative routes.—For each system described in subparagraph (A) the study shall identify—
-
-&emsp;&emsp;&emsp;“(i) potential alternative routes for evacuation using other transportation modes such as highway, air, marine, and pedestrian activities; and
-
-&emsp;&emsp;&emsp;“(ii) transit routes that, if disrupted, do not have sufficient transit alternatives available.
-
-&emsp;&emsp;“(C)
-
-Report.—Not later than 24 months after the date of entry into the agreement, the Academy shall submit to the Secretary and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate a final report on the results of the study and evaluation, together with such recommendations as the Academy considers appropriate.
-
-&emsp;&emsp;“(D)
-
-Funding.—For each of fiscal year 2006 and 2007 $250,000 shall be available to carry out this paragraph.
-
-&emsp;“(2)
-
-Center for transit-oriented development.—For each of fiscal years 2006 through 2009, not less than $1,000,000 shall be made available by the Secretary for establishment and operation of the Center for Transit-Oriented Development—
-
-&emsp;&emsp;“(A) to develop standards and definitions for transit-oriented development adjacent to public transportation facilities;
-
-&emsp;&emsp;“(B) to develop system planning guidance, performance criteria, and modeling techniques for metropolitan planning agencies and public transportation agencies to maximize ridership through land use planning and adjacent development; and
-
-&emsp;&emsp;“(C) to provide research support and technical assistance to public transportation agencies, metropolitan planning agencies, and other persons regarding transit-oriented development.
-
-&emsp;“(3)
-
-Transportation equity research program.—For each of fiscal years 2006 through 2009, not less than $1,000,000 shall be made available by the Secretary for research and demonstration activities that focus on the impacts that transportation planning, investment, and operations have on low-income and minority populations that are transit dependent. Such activities shall include the development of strategies to advance economic and community development in low-income and minority communities and the development of training programs that promote the employment of low-income and minority community residents on Federal-aid transportation projects constructed in their communities.
-
-&emsp;“(4)
-
-Cognitive impairment study.—For fiscal year 2006, $1,000,000 shall be made available by the Secretary for research and demonstration activities that focus on the capacity and resources of Oregon public transportation systems to address the needs, barriers, and desires for travel of people with cognitive impairments.
-
-&emsp;“(5)
-
-Transit career ladder training program.—For each of fiscal years 2006 through 2009, not less than $1,000,000 shall be available for a nationwide career ladder job training partnership program for public transportation employees to respond to technological changes in the public transportation industry, especially in the area of maintenance. Such program shall be carried out by the Secretary through a contract with a national nonprofit organization with a demonstrated capacity to develop and provide such programs.
-
-&emsp;“(6)
-
-Pilot program for remote infrared audible signs.—
-
-&emsp;&emsp;“(A)
-
-In general.—For each of fiscal years 2006 through 2009, not less than $500,000 shall be made available by the Secretary to carry out a pilot program to determine the benefits of remote infrared audible signage technology for provision of wayfinding and information to people who are visually, cognitively, or learning disabled.
-
-&emsp;&emsp;“(B)
-
-Report.—
-
-&emsp;&emsp;&emsp;“(i)
-
-In general.—Not later than September 30, 2009, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the pilot program carried out under this section.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Contents.—The report—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) shall include—
-
-&emsp;&emsp;&emsp;“(aa) an evaluation of the effect of the pilot program on multimodal accessibility in public transportation;
-
-&emsp;&emsp;&emsp;“(bb) an evaluation of the effect of the program on operators of public transportation and their passengers;
-
-&emsp;&emsp;&emsp;“(cc) an evaluation of the effect of making public transportation accessible to people with visual, cognitive, and learning disabilities on ridership of public transportation and use of paratransit; and
-
-&emsp;&emsp;&emsp;“(dd) an evaluation of the effect of the program on the education, community integration, work life, and general quality of life of the targeted populations.
-
-&emsp;“(7)
-
-Hydrogen fuel cell shuttle deployment demonstration project.—To demonstrate the utility of hydrogen fueled vehicles in daily shuttle service, $800,000 in each of fiscal years 2006 and 2007 shall be provided for hydrogen fueled employee shuttle vans, related equipment, operations, public education and outreach to the DaVinci \[probably should be “Da Vinci”\] Center in Allentown, Pennsylvania.
-
-&emsp;“(8)
-
-Wisconsin supplemental transportation rural assistance program (strap).—
-
-&emsp;&emsp;“(A)
-
-In general.—For capital projects, operations, purchase or lease of vehicles, and integration, planning and coordination of public transportation services in the State of Wisconsin that will supplement and expand existing rural and special public transportation services in that State, $2,000,000 in each of fiscal years 2006, 2007, 2008, and 2009 shall be provided to the State of Wisconsin Department of Transportation.
-
-&emsp;&emsp;“(B)
-
-Purpose.—Funds received under this program may be used to supplement public transportation programs for rural populations for activities authorized under sections 5310, 5311, and 5316 of title 49, United States Code. Funds made available under this program are subject to the requirements of section 5311 of title 49, United States Code, except that funds may be made available for up to 80 percent of net operating costs. In awarding grants made available under this program, the State shall consider—
-
-&emsp;&emsp;&emsp;“(i) rural population in the area to be served by the applicant;
-
-&emsp;&emsp;&emsp;“(ii) extent to which the applicant demonstrates coordination of existing transportation services or proposed public transportation services;
-
-&emsp;&emsp;&emsp;“(iii) need for additional services in the area being serviced by the applicant and the extent to which the proposed services will address those needs and provide accessibility for non-ambulatory recipients;
-
-&emsp;&emsp;&emsp;“(iv) extent to which the applicant demonstrates an innovative approach that is responsive to the identified service needs of the rural population; and
-
-&emsp;&emsp;&emsp;“(v) extent to which the applicant demonstrates that the communities being served have been consulted in the planning process.
-
-&emsp;“(9)
-
-Human services transportation coordination.—
-
-&emsp;&emsp;“(A)
-
-In general.—For the management of a program to improve and enhance the coordination of Federal resources for human services transportation with those of the Department of Transportation, $1,600,000 in each of fiscal years 2006, 2007, 2008, and 2009 shall be provided to a national non-profit organization that is competitively selected by the Secretary. Such organization shall have demonstrated expertise in issues of transportation coordination and in providing technical assistance to local transportation organizations.
-
-&emsp;&emsp;“(B)
-
-Eligible activities.—Under this program, the organization selected by the Secretary shall—
-
-&emsp;&emsp;&emsp;“(i) establish an advisory panel consisting of Federal, State, and local officials and organizations;
-
-&emsp;&emsp;&emsp;“(ii) prepare an inventory of human service transportation agencies operating in the United States;
-
-&emsp;&emsp;&emsp;“(iii) prepare an inventory of Federal transportation spending;
-
-&emsp;&emsp;&emsp;“(iv) develop a program of technical assistance and training for human services transportation organizations that shall include on-site technical assistance, a resource clearinghouse, and preparation of technical manuals;
-
-&emsp;&emsp;&emsp;“(v) prepare an annual report for the Secretary on activities under this program and make recommendations for improving coordination.
-
-&emsp;“(10)
-
-Portland, oregon streetcar prototype purchase and deployment.—Not less than $1,000,000 shall be made available in each of fiscal years 2006, 2007, 2008, and 2009 by the Secretary to TriMet for the purchase and deployment of a domestically manufactured streetcar.
-
-&emsp;“(11)
-
-Public transportation participation pilot program.—
-
-&emsp;&emsp;“(A)
-
-In general.—Of the funds allocated under this section for each of fiscal years 2006 through 2009, $1,000,000 for each fiscal year shall be made available by the Secretary to establish a pilot program to support planning and public participation activities related to public transportation projects.
-
-&emsp;&emsp;“(B)
-
-Eligible activities.—Activities eligible to be carried out under the pilot program may include the following:
-
-&emsp;&emsp;&emsp;“(i) Improving data collection analysis and transportation access for all users of the public transportation systems.
-
-&emsp;&emsp;&emsp;“(ii) Supporting public participation through the project development phases.
-
-&emsp;&emsp;&emsp;“(iii) Using innovative techniques to improve the coordination of transportation alternatives.
-
-&emsp;&emsp;&emsp;“(iv) Enhancing the coordination of public transportation benefits and services.
-
-&emsp;&emsp;&emsp;“(v) Contracting with stakeholders to focus on the delivery of transportation plans and programs.
-
-&emsp;&emsp;&emsp;“(vi) Measuring and reporting on the annual performance of the transportation systems.
-
-&emsp;“(12)
-
-Transportation hybrid electric vehicle and fuel cell research.—$500,000 in each of fiscal years 2006 through 2009 for a transportation hybrid electric vehicle and fuel cell research program at the University of Alabama.
-
-&emsp;“(13)
-
-Trauma care system research and development.—$500,000 in each of fiscal years 2006 through 2009 for trauma care system research and development at the University of Alabama in Birmingham.
-
-&emsp;“(14)
-
-Transportation infrastructure and logistics research.—$500,000 in each of fiscal years 2006through 2009 for transportation infrastructure and logistics research at the University of Alabama in Huntsville.
-
-&emsp;“(15)
-
-National bus rapid transit institute.—$1,750,000 in each of fiscal years 2006 though 2009 for the National Bus Rapid Transit Institute at the University of South Florida.
-
-&emsp;“(16)
-
-Application of information technology to transportation logistics and security.—$400,000 in each of fiscal years 2006 through 2009 for research on the application of information technology to transportation logistics and security at the Northern Kentucky University.
-
-&emsp;“(17)
-
-Intelligent transportation system pilot project.—$465,000 in each of fiscal years 2006 through 2009 for an intelligent transportation system pilot project with the National Consortium on Remote Sensing in Transportation Flows at the Ohio State University.
-
-&emsp;“(18)
-
-Regional public safety training center.—$500,000 in each of fiscal years 2006 through 2009 for a regional public safety training center at the Lehigh-Carbon Community College.
-
-&emsp;“(19)
-
-Transit security training facility.—$750,000 in each of fiscal years 2006 though 2009 for a transit security training facility in Chester County, Pennsylvania.
-
-&emsp;“(20)
-
-Small urban and rural transit center.—$800,000 in fiscal year 2006, $800,000 in fiscal year 2007, $1,200,000 in fiscal year 2008, and $1,200,000 in fiscal year 2009 for the Small Urban and Rural Transit Center at North Dakota State University.
-
-&emsp;“(21)
-
-Advanced technology bus rapid transit project.—$500,000 in fiscal year 2006, $540,000 in fiscal year 2007, $550,000 in fiscal year 2008, and $625,000 in fiscal year 2009 for the Southeastern Connecticut Advanced Technology Bus Rapid Transit Project.
-
-&emsp;“(22)
-
-Greater new haven transit district fuel cell-powered bus research.—$500,000 in fiscal year 2006, $540,000 in fiscal year 2007, $550,000 in fiscal year 2008, and $625,000 in fiscal year 2009 for the Greater New Haven Transit District Fuel Cell-Powered Bus Research.
-
-&emsp;“(23)
-
-Center for advanced transportation initiatives.—$500,000 in fiscal year 2006, $540,000 in fiscal year 2007, $540,000 in fiscal year 2008, and $625,000 in fiscal year 2009 for the Rutgers Center for Advanced Transportation Initiatives (CAIT).
-
-&emsp;“(24)
-
-Institute of technology's transportation, economic, and land use system.—$500,000 in fiscal year 2006, $540,000 in fiscal year 2007, $540,000 in fiscal year 2008, and $625,000 in fiscal year 2009 for the New Jersey Institute of Technology's Transportation, Economic, and Land Use System program (TELUS).
-
-&emsp;“(25)
-
-Regional transit training consortium pilot program.—$270,000 in fiscal year 2006, $380,000 in fiscal year 2007, $380,000 in fiscal year 2008, and $450,000 in fiscal year 2009 for the Southern California Regional Transit Training Consortium Pilot Program.
-
-“(b)
-
-Remainder.—After making allocations under subsection (a), the remainder of funds made available by section 5338(d) of title 49, United States Code, for national research and technology programs under sections 5312, 5314, and 5322 for a fiscal year or period shall be allocated at the discretion of the Secretary to other transit research, development, demonstration and deployment projects authorized by sections 5312, 5314, and 5322 of such title.
-
-“(c)
-
-Additional Appropriations.—The Secretary shall allocate amounts appropriated pursuant to section 5338(d) of title 49, United States Code, for national research and technology programs under sections 5312, 5314, and 5322 of such title—
-
-&emsp;“(1) for each of fiscal years 2010 and 2011, in amounts equal to the amounts allocated for fiscal year 2009 under each of paragraphs (2), (3), (5), (6), and (8) through (25) of subsection (a); and
-
-&emsp;“(2) for the period beginning on October 1, 2011, and ending on March 31, 2012, in amounts equal to 50 percent of 85 percent of the amounts allocated for fiscal year 2009 under each of paragraphs (2), (3), (5), (6), and (8) through (25) of subsection (a).
-
-“(d)
-
-Funding.—If the Secretary determines that a project or activity described in subsection (a) received sufficient funds in fiscal year 2011, or a previous fiscal year, to carry out the purpose for which the project or activity was authorized, the Secretary may not allocate any amounts under subsection (c) for the project or activity for fiscal year 2012, or any subsequent fiscal year.”
+Pub. L. 109–59, title III, §3046, Aug. 10, 2005, 119 Stat. 1706, as amended by Pub. L. 110–244, title II, §201(o)(6), June 6, 2008, 122 Stat. 1615; Pub. L. 111–147, title IV, §437(f), Mar. 18, 2010, 124 Stat. 93; Pub. L. 111–322, title II, §2307(f), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(f), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(f), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title III, §307(f), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title III, §307(f), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. G, title III, §113007(f), July 6, 2012, 126 Stat. 988, which allocated amounts appropriated pursuant to former subsec. (d) of this section for various national research and technology programs, was repealed by Pub. L. 112–141, div. B, §20002(c)(5), July 6, 2012, 126 Stat. 622.
 
 #### Adjustments for Surface Transportation Extension Act of 1997
 
-Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
+Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in former section 5337(a) of this title.
 
 #### Training and Curriculum Development
 
-Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, §7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(j)(3), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(i)(2), May 31, 2005, 119 Stat. 332; Pub. L. 109–20, §7(i)(2), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(i)(2), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(i)(2), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(i)(2), July 28, 2005, 119 Stat. 419, provided that:
-
-“(1)
-
-In general.—Any funds made available by section 5338(e)(2)(C)(iii) of title 49, United States Code, shall be available in equal amounts for transportation research, training, and curriculum development at institutions identified in subparagraphs (E) and (F) of section 5505(j)(3) of such title.
-
-“(2)
-
-Special rule.—If the institutions identified in paragraph (1) are selected pursuant to \[section\] 5505(i)(3)(B) of such title in fiscal year 2002, 2003, or 2004 or in the period October 1, 2004, through July 30, 2005, the funds made available to carry out this subsection shall be available to those institutions to carry out the activities required pursuant to section 5505(i)(3)(B) of such title for that fiscal year.”
+Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, §7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(j)(3), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(i)(2), May 31, 2005, 119 Stat. 332; Pub. L. 109–20, §7(i)(2), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(i)(2), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(i)(2), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(i)(2), July 28, 2005, 119 Stat. 419, specified how funds made available by former subsec. (e)(2)(C)(iii) of this section could be used by certain institutions for transportation research, training, and curriculum development.
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
@@ -1746,11 +1422,11 @@ Pub. L. 101–164, title III, §314, Nov. 21, 1989, 103 Stat. 1094.
 
 Pub. L. 100–457, title III, §314, Sept. 30, 1988, 102 Stat. 2148.
 
-Pub. L. 100–202, §101(<i>l</i>) \[title III, §314\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–379.
+Pub. L. 100–202, §101(l) \[title III, §314\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–379.
 
-Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title III, §317\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, title III, §317\], Oct. 30, 1986, 100 Stat. 3341–308.
+Pub. L. 99–500, §101(l) \[H.R. 5205, title III, §317\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l) \[H.R. 5205, title III, §317\], Oct. 30, 1986, 100 Stat. 3341–308.
 
 Pub. L. 99–190, §101(e) \[title III, §322\], Dec. 19, 1985, 99 Stat. 1267, 1287.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(112 Stat. 392)—”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “122”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Members; meetings; lines of credit and approval of loans; delegation to loan officers
 
-If the bylaws provide for a credit committee, then pursuant to the provisions of the bylaws, the board of directors may appoint or the members may elect a credit committee which shall consist of an odd number of members of the credit union, but which shall not include more than one loan officer. The method used shall be set forth in the bylaws. The credit committee shall hold such meetings as the business of the Federal credit union may require, not less frequently than once a month, to consider applications for loans or lines of credit. Reasonable notice of such meetings shall be given to all members of the committee. Except for those loans orlines of credit required to be approved by the board of directors in section 1757(5) of this title, approval of an application shall be by majority of the committee who are present at the meeting at which it is considered provided that a majority of the full committee is present. The credit committee may appoint and delegate to loan officers the authority to approve applications.
+If the bylaws provide for a credit committee, then pursuant to the provisions of the bylaws, the board of directors may appoint or the members may elect a credit committee which shall consist of an odd number of members of the credit union, but which shall not include more than one loan officer. The method used shall be set forth in the bylaws. The credit committee shall hold such meetings as the business of the Federal credit union may require, not less frequently than once a month, to consider applications for loans or lines of credit. Reasonable notice of such meetings shall be given to all members of the committee. Except for those loans or lines of credit required to be approved by the board of directors in section 1757(5) of this title, approval of an application shall be by majority of the committee who are present at the meeting at which it is considered provided that a majority of the full committee is present. The credit committee may appoint and delegate to loan officers the authority to approve applications.
 
 #### (b) Review and reversal of loan refusals; review by board in lieu of committee; limitation on disbursements by loan officers
 
@@ -12,7 +12,7 @@ If the bylaws provide for a credit committee, all applications not approved by t
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 11(d) of act June 26, 1934, ch. 750, 48 Stat. 1219 (formerly classified to section 1761(d) of this title), prior to the amendment and renumbering of act June 26, 1934 by Pub. L. 86–354.
+Provisions similar to those comprising this section were contained in section 11(d) of act June 26, 1934, ch. 750, 48 Stat. 1219 (formerly classified to section 1761(d)of this title), prior to the amendment and renumbering of act June 26, 1934 by Pub. L. 86–354.
 
 #### Amendments
 

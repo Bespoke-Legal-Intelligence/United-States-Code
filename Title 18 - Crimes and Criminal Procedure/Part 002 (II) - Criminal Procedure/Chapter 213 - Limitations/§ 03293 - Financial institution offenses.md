@@ -10,7 +10,7 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 > unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
-(Added Pub. L. 101–73, title IX, §961(<i>l</i>)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, §2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, §320604(b), title XXXIII, §330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
+(Added Pub. L. 101–73, title IX, §961(l)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, §2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, §320604(b), title XXXIII, §330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
 
 #### Amendments
 
@@ -20,9 +20,9 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 #### Effective Date of 1990 Amendment
 
-Section 2505(b) of Pub. L. 101–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any offense committed before the date of the enactment of this section \[Nov. 29, 1990\], if the statute of limitations applicable to that offense had not run as of such date.”
+Pub. L. 101–647, title XXV, §2505(b), Nov. 29, 1990, 104 Stat. 4862, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any offense committed before the date of the enactment of this section \[Nov. 29, 1990\], if the statute of limitations applicable to that offense had not run as of such date.”
 
 #### Effect of This Section on Offenses for Which Prior Period of Limitations Had Not Run
 
-Section 961(<i>l</i>)(3) of Pub. L. 101–73 provided that: “The amendments made by this subsection \[enacting this section\] shall apply to an offense committed before the effective date of this section \[Aug. 9, 1989\], if the statute of limitations applicable to that offense under this chapter had not run as of such date.”
+Pub. L. 101–73, title IX, §961(l)(3), Aug. 9, 1989, 103 Stat. 501, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to an offense committed before the effective date of this section \[Aug. 9, 1989\], if the statute of limitations applicable to that offense under this chapter had not run as of such date.”
 

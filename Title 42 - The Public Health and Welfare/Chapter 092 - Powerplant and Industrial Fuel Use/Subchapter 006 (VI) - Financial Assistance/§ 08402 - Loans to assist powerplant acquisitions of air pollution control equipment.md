@@ -14,7 +14,7 @@ A loan made under this section shall—
 
 &emsp;(3) bear interest at a rate not less than (A) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield of outstanding Treasury obligations of comparable maturity, plus (B) 1 percent;
 
-&emsp;(4) be made on the condition of payment to the Secretary of a loan fee in an amount equalto (A) such insurance fee as the Secretary determines is necessary to avoid a Federal revenue loss under this section, plus (B) 1 percent of the loan amount; and
+&emsp;(4) be made on the condition of payment to the Secretary of a loan fee in an amount equal to (A) such insurance fee as the Secretary determines is necessary to avoid a Federal revenue loss under this section, plus (B) 1 percent of the loan amount; and
 
 &emsp;(5) be made only if the Secretary finds that—
 

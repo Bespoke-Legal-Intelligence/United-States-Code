@@ -16,7 +16,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 &emsp;&emsp;(A)(i) the number of undergraduate and, if applicable, graduate service-learning courses offered at such institution for the most recent full academic year preceding the fiscal year for which designation is sought; and
 
-&emsp;&emsp;(ii) the number and percentage of undergraduate students and, if applicable, the number and percentage of graduate students at such institution who were enrolled in the corresponding courses described in clause (i), for such preceding academic year;
+&emsp;&emsp;(ii) the number and percentage of undergraduate students and, if applicable, thenumber and percentage of graduate students at such institution who were enrolled in the corresponding courses described in clause (i), for such preceding academic year;
 
 &emsp;&emsp;(B) the percentage of undergraduate students engaging in and, if applicable, the percentage of graduate students engaging in activities providing community services, as defined in section 441(c) of the Higher Education Act of 1965 (42 U.S.C. 2751(c)), during such preceding academic year, the quality of such activities, and the average amount of time spent, per student, engaged in such activities;
 
@@ -52,7 +52,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 #### (1) In general
 
-&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide anaward of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
+&emsp;Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
 
 #### (2) Plan
 

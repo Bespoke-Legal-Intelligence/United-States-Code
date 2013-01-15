@@ -50,7 +50,7 @@ As used in this chapter—
 
 &emsp;(15) The term “Secretary” means the Secretary of Commerce, or the designee of the Secretary of Commerce.
 
-&emsp;(16) The term “State” means each of the several States, the District of Columbia, theCommonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
+&emsp;(16) The term “State” means each of the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
 &emsp;(17) The term “Treaty” means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in Port Moresby, Papua New Guinea, April 2, 1987, and its Annexes, Schedules, and implementing agreements.
 
@@ -60,7 +60,7 @@ As used in this chapter—
 
 #### Effective Date
 
-Section 21 of Pub. L. 100–330 provided that:
+Pub. L. 100–330, §21, June 7, 1988, 102 Stat. 601, provided that:
 
 “(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effective on the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
 
@@ -70,7 +70,7 @@ Section 21 of Pub. L. 100–330 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 100–330 provided: “That this Act \[enacting this chapter\] may be cited as the ‘South Pacific Tuna Act of 1988’.”
+Pub. L. 100–330, §1, June 7, 1988, 102 Stat. 591, provided: “That this Act \[enacting this chapter\] may be cited as the ‘South Pacific Tuna Act of 1988’.”
 
 #### Transfer of Functions
 

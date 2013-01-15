@@ -94,7 +94,7 @@ Subsec. (b)(7). Pub. L. 100–647, §1011B(a)(32), added par. (7).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1851(c)(1), struck out “of an employer” before “shall”.
 
-Subsec. (a)(2). Pub. L. 99–514, §1851(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to 1 or more collective bargaining agreements between 1 ormore employee organizations and 1 or more employers.”
+Subsec. (a)(2). Pub. L. 99–514, §1851(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply to any organization which is part of a plan maintained pursuant to 1 or more collective bargaining agreements between 1 or more employee organizations and 1 or more employers.”
 
 Subsec. (b)(1). Pub. L. 99–514, §1851(c)(2), (3), substituted “as otherwise provided in this subsection” for “as provided in paragraph (2)” in introductory provision, and in subpar. (B) substituted “highly compensated individuals” for “highly compensated employees”.
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, to benef
 
 Amendment by section 203(a)(1), (2) of Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
-Section 204(d)(4) of Pub. L. 101–140 provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect as if included in the amendment made by section 1011B(a)(32) of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
+Pub. L. 101–140, title II, §204(d)(4), Nov. 8, 1989, 103 Stat. 833, provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect as if included in the amendment made by section 1011B(a)(32) of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -154,7 +154,7 @@ Amendment by section 1851(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date
 
-Section 513(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title V, §513(c), July 18, 1984, 98 Stat. 865, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

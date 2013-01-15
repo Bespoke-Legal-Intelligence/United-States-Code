@@ -36,7 +36,7 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 (1) For each country and international organization that has been approved for cash flow financing under this section, any letter of offer and acceptance or other purchase agreement, or any amendment thereto, for a procurement of defense articles, defense services, or design and construction services in excess of $100,000,000 that is to be financed in whole or in part with funds made available under this chapter or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be submitted to the congressional committees specified in section 634A(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1(a)\] in accordance with the procedures applicable to reprogramming notifications under that section.
 
-(2) For purposes of this subsection, the term “cash flow financing” has the meaning given such term in subsection (d) of section 2765 of this title.
+(2) For purposes of this subsection, the term “cash flow financing” has the meaning givensuch term in subsection (d) of section 2765 of this title.
 
 #### (h) Limitation on use of funds for direct commercial contracts
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date of 1976 Amendment
 
-Section 208(b) of Pub. L. 94–329 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act \[June 30, 1976\] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
+Pub. L. 94–329, title II, §208(b), June 30, 1976, 90 Stat. 739, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act \[June 30, 1976\] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
 
 #### Delegation of Functions
 

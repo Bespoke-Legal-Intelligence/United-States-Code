@@ -6,7 +6,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (1) Expenses, losses, indebtedness, and taxes
 
-&emsp;That proportion of the deductions specified in sections 2053 and 2054 (other than the deductions described in the following sentence)which the value of such part bears to the value of his entire gross estate, wherever situated. Any deduction allowable under section 2053 in the case of a claim against the estate which was founded on a promise or agreement but was not contracted for an adequate and full consideration in money or money's worth shall be allowable under this paragraph to the extent that it would be allowable as a deduction under paragraph (2) if such promise or agreement constituted a bequest.
+&emsp;That proportion of the deductions specified in sections 2053 and 2054 (other than the deductions described in the following sentence) which the value of such part bears to the value of his entire gross estate, wherever situated. Any deduction allowable under section 2053 in the case of a claim against the estate which was founded on a promise or agreement but was not contracted for an adequate and full consideration in money or money's worth shall be allowable under this paragraph to the extent that it would be allowable as a deduction under paragraph (2) if such promise or agreement constituted a bequest.
 
 #### (2) Transfers for public, charitable, and religious uses
 
@@ -58,13 +58,9 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct.4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(4). Pub. L. 107–16, §§532(c)(8), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–16 added par. (4).
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 struck out “allowed where spouse is citizen” after “deduction” in heading.
 
@@ -98,11 +94,9 @@ Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provis
 
 <b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -142,9 +136,9 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1960 Amendment
 
-Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by subsections (b) and (c) \[enacting section 2209 of this title and amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Pub. L. 86–779, §4(e)(2), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsections (b) and (c) \[enacting section 2209 of this title and amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen orresident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 

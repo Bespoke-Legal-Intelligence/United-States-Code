@@ -30,7 +30,7 @@
 
 #### (iii) Other individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) or (ii), the substitution for thebeneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
 
 #### (E) Elimination of cost-sharing above annual out-of-pocket threshold
 
@@ -108,7 +108,7 @@
 
 #### (vi) Special rule for widows and widowers
 
-&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this subparagraph, in the case ofan individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
+&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
 
 #### (C) Income determinations
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;&emsp;(ii) a prescription drug plan that provides alternative prescription drug coverage the actuarial value of which is greater than that of standard prescription drug coverage, the portion of the monthly beneficiary premium that is attributable to basic prescription drug coverage; and
 
-&emsp;&emsp;&emsp;(iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) <sup>1</sup> of this title) and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(<i>o</i>) of this title for that plan and year involved.
+&emsp;&emsp;&emsp;(iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) <sup>1</sup> of this title) and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved.
 
 > &emsp;&emsp;The premium amounts described in this subparagraph do not include any amounts attributable to late enrollment penalties under section 1395w–113(b) of this title.
 
@@ -272,7 +272,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 111–148, §3304(a), added cl. (vi).
 
 Subsec. (a)(5). Pub. L. 111–148, §3303(a), added par. (5).
 
-Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(<i>o</i>) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1395w–24(b)(1)(C) of this title or bonus payment under section 1395w–23(n) of this title”.
+Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1395w–24(b)(1)(C) of this title or bonus payment under section 1395w–23(n) of this title”.
 
 Pub. L. 111–148, §3302(a), inserted “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under section 1395w–23(n) of this title” before period at end.
 

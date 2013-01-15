@@ -36,5 +36,5 @@ Changes in phraseology were made.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–300, §1(b), Oct. 27, 1998, 112 Stat. 2837, provided that: “This Act \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 27, 1998\] and shall apply only to any individual whose nomination is submitted to the Senate on or after such date.”
+Pub. L. 105–300, §1(b), Oct. 27, 1998, 112 Stat. 2837, provided that: “This Act \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 27, 1998\] and shall apply only to any individual whosenomination is submitted to the Senate on or after such date.”
 

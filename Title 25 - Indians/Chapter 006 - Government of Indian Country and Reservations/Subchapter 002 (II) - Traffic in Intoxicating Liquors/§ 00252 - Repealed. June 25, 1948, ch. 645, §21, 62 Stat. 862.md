@@ -4,5 +4,5 @@ Section, act May 18, 1916, ch. 125, §1, 39 Stat. 124, related to application of
 
 #### Effective Date of Repeal
 
-Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.
 

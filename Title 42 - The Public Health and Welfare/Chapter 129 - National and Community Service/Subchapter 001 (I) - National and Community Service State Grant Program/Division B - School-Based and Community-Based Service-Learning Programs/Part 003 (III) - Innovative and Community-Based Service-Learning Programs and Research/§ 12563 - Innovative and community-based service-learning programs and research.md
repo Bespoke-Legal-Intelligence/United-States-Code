@@ -6,7 +6,7 @@ In this part:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a State educational agency, a State Commission, a territory, an Indian tribe, an institution of higher education, or a public or private nonprofit organization (including community-based entities), a public or private elementary school or secondary school, a local educational agency, a consortium of such entities, or a consortium of 2 or more such entities and a for-profit organization.
+&emsp;The term “eligible entity” means a State educational agency, a State Commission, a territory, an Indian tribe, an institution of higher education, or a public or private nonprofit organization (including community-based entities), a public or private elementary school or secondary school, a local educational agency, a consortium of such entities, or aconsortium of 2 or more such entities and a for-profit organization.
 
 #### (2) Eligible partnership
 
@@ -54,7 +54,7 @@ In this part:
 
 #### (b) General authority
 
-From the amounts appropriated to carry out this part for a fiscal year, the Corporation may make grants (which may include approved summer of service positions in the case of a grant for a program described in subsection (c)(8)) and fixed-amount grants (in accordance with section 12581(<i>l</i>) of this title) to eligible entities or eligible partnerships, as appropriate, for programs and activities described in subsection (c).
+From the amounts appropriated to carry out this part for a fiscal year, the Corporation may make grants (which may include approved summer of service positions in the case of a grant for a program described in subsection (c)(8)) and fixed-amount grants (in accordance with section 12581(l) of this title) to eligible entities or eligible partnerships, as appropriate, for programs and activities described in subsection (c).
 
 #### (c) Authorized activities
 

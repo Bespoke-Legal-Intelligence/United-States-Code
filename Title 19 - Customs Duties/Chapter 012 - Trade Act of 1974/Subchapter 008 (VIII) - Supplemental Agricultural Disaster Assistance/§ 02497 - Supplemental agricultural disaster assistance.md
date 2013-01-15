@@ -44,7 +44,7 @@ In this section:
 
 #### (6) Crop of economic significance
 
-&emsp;The term “crop of economic significance” shall have the uniform meaning given theterm by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
+&emsp;The term “crop of economic significance” shall have the uniform meaning given the term by the Secretary for purposes of subsections (b)(1)(B) and (g)(6).
 
 #### (7) Disaster county
 
@@ -172,7 +172,7 @@ In this section:
 
 #### (B) Crop loss
 
-&emsp;&emsp;To be eligible for crop loss assistance under this subsection, the actual productionon the farm for at least 1 crop of economic significance shall be reduced by at least 10 percent due to disaster, adverse weather, or disaster-related conditions.
+&emsp;&emsp;To be eligible for crop loss assistance under this subsection, the actual production on the farm for at least 1 crop of economic significance shall be reduced by at least 10 percent due to disaster, adverse weather, or disaster-related conditions.
 
 #### (2) Amount
 
@@ -246,13 +246,13 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(I) the actual production by crop on a farm for purposes of determining losses under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop assistance program; and
+&emsp;&emsp;&emsp;&emsp;(I) the actual production by crop on a farm for purposes of determining lossesunder the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop assistance program; and
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producerunder sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act \[7 U.S.C. 8715\];
 
 &emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
 
@@ -328,7 +328,7 @@ In this section:
 
 #### (1) Payments
 
-&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make livestock indemnity payments to eligible producers on farms that have incurred livestockdeath losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
 
 #### (2) Payment rates
 
@@ -510,7 +510,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an eligible livestock producer shall be eligible to receive assistance under this paragraph for the period—
+&emsp;&emsp;&emsp;Subject to clause (ii), an eligible livestock producer shall be eligible to receiveassistance under this paragraph for the period—
 
 &emsp;&emsp;&emsp;&emsp;(I) beginning on the date on which the Federal agency excludes the eligible livestock producer from using the managed rangeland for grazing; and
 
@@ -606,7 +606,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees butlost the trees as a result of a natural disaster, as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster, as determined by the Secretary.
 
 #### (B) Limitation
 
@@ -666,7 +666,7 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, theSecretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 
@@ -726,7 +726,7 @@ In this section:
 
 #### (D) Limitation
 
-&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under this paragraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
+&emsp;&emsp;For amounts made available under this paragraph, the Secretary may make such adjustments as are necessary to ensure that no producer receives a payment under thisparagraph for an amount in excess of the assistance received by a similarly situated producer that had purchased the same or higher level of crop insurance prior to February 17, 2009.
 
 #### (E) Authority of the Secretary
 
@@ -790,7 +790,7 @@ The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and 
 
 Section 1001(a) of the Food Security Act of 1985 (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008), referred to in subsecs. (f)(4)(A) and (h)(1), means section 1001(a) of Pub. L. 99–198, as amended by section 1603 of Pub. L. 110–246, which is classified to section 1308(a) of Title 7, Agriculture.
 
-Subtitle A, referred to in subsec. (g)(7)(F)(ii)(I)(aa), probably means subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, known as the Federal Crop Insurance Act, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+Subtitle A, referred to in subsec. (g)(7)(F)(ii)(I)(aa), probably means subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, known as the Federal Crop InsuranceAct, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 #### Codification
 

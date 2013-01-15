@@ -10,7 +10,7 @@
 
 &emsp;(i) the Secretary has determined that the State has provided sufficient assurance that it has the resources (including any resources which are reasonably likely to be available to the State under subchapter III of chapter 81 of this title and section 1741 of this title) necessary to construct and operate a State home nursing or domiciliary care facility; and
 
-&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by theState for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
+&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
 
 (C) A transfer of real property may not be made under this paragraph until—
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Transfer of Real Property Deemed Described in Budget for Fiscal Year 1989
 
-Section 421(a)(2) of Pub. L. 100–322 provided that any proposed transfer of real property described in subsec. (a)(2)(B) of this section that was described in a report submitted to Committees on Veterans’ Affairs of Senate and House of Representatives by Administrator not later than 30 days after May 20, 1988, was to be deemed for purposes of subsec. (a)(2)(A) of this section to have been described in the President's budget for fiscal year 1989.
+Pub. L. 100–322, title IV, §421(a)(2), May 20, 1988, 102 Stat. 553, provided that any proposed transfer of real property described in subsec. (a)(2)(B) of this section that was described in a report submitted to Committees on Veterans’ Affairs of Senate and House of Representatives by Administrator not later than 30 days after May 20, 1988, was to be deemed for purposes of subsec. (a)(2)(A) of this section to have been described in the President's budget for fiscal year 1989.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

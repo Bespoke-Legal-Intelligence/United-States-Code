@@ -16,7 +16,7 @@ Pub. L. 90–497, §9(b), removed subsection designations and substituted provis
 
 #### Effective Date of 1968 Amendment
 
-Section 9(a) of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+Pub. L. 90–497, §9(a), Sept. 11, 1968, 82 Stat. 847, provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 
-Section 9(b) of Pub. L. 90–497 provided that the amendment made by that section is effective Jan. 4, 1971.
+Pub. L. 90–497, §9(b), Sept. 11, 1968, 82 Stat. 847, provided that the amendment made by that section is effective Jan. 4, 1971.
 

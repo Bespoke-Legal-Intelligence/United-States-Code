@@ -14,7 +14,7 @@ Initiation of Investigation.—An investigation under subsection (a) may be init
 
 (c)
 
-Time for Decision.—The Commission shall complete an investigation under this section and render a decision within 120 days after it is initiated. However, the Commission may extend this 120-day period for an additional 90 days if the Commission is unable to obtain sufficient information to determine whether a condition specified in subsection (a) exists. A notice providing an extension shall state clearly the reasons for the extension.
+Time for Decision.—The Commission shall complete an investigation under this section and render a decision within 120 days after it isinitiated. However, the Commission may extend this 120-day period for an additional 90 days if the Commission is unable to obtain sufficient information to determine whether a condition specified in subsection (a) exists. A notice providing an extension shall state clearly the reasons for the extension.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1552.)
 

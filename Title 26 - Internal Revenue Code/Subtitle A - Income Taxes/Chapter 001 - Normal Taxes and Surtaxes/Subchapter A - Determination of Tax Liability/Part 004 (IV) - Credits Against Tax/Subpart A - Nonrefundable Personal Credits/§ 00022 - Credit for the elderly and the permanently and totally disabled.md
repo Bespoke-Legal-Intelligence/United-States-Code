@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;In the case of a joint return where both spouses are qualified individuals and at least one spouse has not attained age 65 before the close of the taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceedthe sum of such spouses’ disability income, or
+&emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses’ disability income, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 98–369, §474(d)(2), substituted “Section 22 amount” 
 
 Subsec. (c)(1). Pub. L. 98–369, §474(d)(1), substituted “section 22 amount” for “section 37 amount”.
 
-Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading “Limitations” anddesignation “(1)” before “Adjusted gross income limitation” thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
+Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading “Limitations” and designation “(1)” before “Adjusted gross income limitation” thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
 
 <b>1983</b>—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
 
@@ -178,7 +178,7 @@ Amendment by section 474(d) of Pub. L. 98–369 applicable to taxable years begi
 
 #### Effective Date of 1983 Amendment
 
-Section 122(d) of Pub. L. 98–21, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title I, §122(d), Apr. 20, 1983, 97 Stat. 87, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 97–34 applicable with respect to taxable years beginning 
 
 #### Effective Date of 1978 Amendment
 
-Section 701(a)(4) of Pub. L. 95–600 provided that:
+Pub. L. 95–600, title VII, §701(a)(4), Nov. 6, 1978, 92 Stat. 2898, provided that:
 
 “(A) The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.
 
@@ -212,23 +212,23 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1974, see section 2002(i)(2) of 
 
 Amendment by section 113(a) of Pub. L. 88–272, except for purposes of section 21 \[now 15\] of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
-Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
+Pub. L. 88–272, title II, §201(e), Feb. 26, 1964, 78 Stat. 32, provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
 
-Section 202(b) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §202(b), Feb. 26, 1964, 78 Stat. 33, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
-#### Effective Date of 1962 Amendments
+#### Effective Date of 1962 Amendment
 
-Section 2 of Pub. L. 87–876 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only to taxable years ending after the date of the enactment of this Act \[Oct. 24, 1962\].”
+Pub. L. 87–876, §2, Oct. 24, 1962, 76 Stat. 1199, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only to taxable years ending after the date of the enactment of this Act \[Oct. 24, 1962\].”
 
-Section 8 of Pub. L. 87–792 provided that: “The amendments made by this Act \[enacting sections 405 and 6047 of this title and amending sections 37 \[now 22\], 62, 72, 101, 104, 105, 172, 401 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401 and 7207 of this title\] shall apply to taxable years beginning after December 31, 1962.”
+Pub. L. 87–792, §8, Oct. 10, 1962, 76 Stat. 831, provided that: “The amendments made by this Act \[enacting sections 405 and 6047 of this title and amending sections 37 \[now 22\], 62, 72, 101, 104, 105, 172, 401 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401 and 7207 of this title\] shall apply to taxable years beginning after December 31, 1962.”
 
 #### Effective Date of 1956 Amendment
 
-Section 2 of act Jan. 28, 1956, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1955.”
+Act Jan. 28, 1956, ch. 18, §2, 70 Stat. 9, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1955.”
 
 #### Effective Date of 1955 Amendment
 
-Section 2 of act Aug. 9, 1955, provided that: “The amendment made by this Act \[amending this section\] shall be applicable to taxable years beginning after December 31, 1954.”
+Act Aug. 9, 1955, ch. 659, §2, 69 Stat. 591, provided that: “The amendment made by this Act \[amending this section\] shall be applicable to taxable years beginning after December 31, 1954.”
 
 #### Determination of Retirement Income Credit Under Provisions as They Existed Prior to Amendment by Pub. L. 94–455 Election
 

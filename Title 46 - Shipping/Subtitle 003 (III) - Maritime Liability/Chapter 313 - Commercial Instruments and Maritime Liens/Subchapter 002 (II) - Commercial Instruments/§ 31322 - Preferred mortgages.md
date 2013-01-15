@@ -142,7 +142,7 @@ Paragraph (3) of this subsection ensures that a preferred mortgage under this su
 
 Subsection (e) of section 31322 clarifies the validity of preferred mortgages made under subsection (d). In the case of a State titled vessel covered by a preferred mortgage for which a new titling application is filed, the validity of the mortgage is governed by the law of the titling State in which the mortgage became preferred. In the case of a documented vessel covered by a preferred mortgage for which an application for a State title is filed, or a State titled vessel covered by a preferred mortgage for which an application for documentation is filed, the validity of the preferred mortgage is governed by section 31322(a) of title 46 (as enacted by this Act).
 
-Information on vessels with preferred mortgages made under State law will be available to creditorsfrom the vessel identification system under chapter 125 of title 46 (as enacted by this Act).
+Information on vessels with preferred mortgages made under State law will be available to creditors from the vessel identification system under chapter 125 of title 46 (as enacted by this Act).
 
 #### Amendments
 

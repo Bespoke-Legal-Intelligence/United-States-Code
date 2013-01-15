@@ -32,7 +32,7 @@ In subsection (b), the words “and shall be compensated at the rate now or here
 
 #### Change of Name
 
-Section 3004(a), (b) of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title III, §3004(a), (b), Dec. 18, 1991, 105 Stat. 2088, provided that:
 
 “(a)
 

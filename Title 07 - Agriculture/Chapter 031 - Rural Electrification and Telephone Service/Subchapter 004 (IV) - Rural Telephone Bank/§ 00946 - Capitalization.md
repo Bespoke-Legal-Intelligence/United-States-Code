@@ -2,7 +2,7 @@
 
 #### (a) Federal and borrower subscriptions; Federal limitation; report to President, transmittal to Congress; net collection proceeds
 
-The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, and public bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed$30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
+The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, and public bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed $30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
 
 #### (b) Stock classification; voting stock; one vote rule
 
@@ -22,7 +22,7 @@ Class C stock shall be available for purchase and shall be held only by borrower
 
 #### (f) Special fund equivalents
 
-If a firm, association, corporation, or public body is not authorized under the laws of the jurisdiction in which it is organized to acquire stock of the telephone bank, the telephone bank shall, in lieu thereof, permit such organization to pay into a special fund of the telephone bank a sum equivalent to the amount of stock to be purchased. Each reference in this subchapter to capital stock, or to class B, or class C stock, shall include also the special fund equivalents of such stock, and to the extent permitted under the laws of the jurisdiction in which such organization is organized, a holder of special fund equivalents of class B, or class C stock, shall have the same rights and status as a holder of class B or class C stock, respectively. The rights and obligations of the telephone bank in respect of such special fund equivalent shall be identical to its rights and obligations in respect of class B or class C stock, respectively.
+If a firm, association, corporation, or public body is not authorized under the laws of the jurisdiction in which it is organized to acquire stock of the telephone bank, the telephone bank shall, in lieu thereof, permit such organization to pay into a special fund of the telephone banka sum equivalent to the amount of stock to be purchased. Each reference in this subchapter to capital stock, or to class B, or class C stock, shall include also the special fund equivalents of such stock, and to the extent permitted under the laws of the jurisdiction in which such organization is organized, a holder of special fund equivalents of class B, or class C stock, shall have the same rights and status as a holder of class B or class C stock, respectively. The rights and obligations of the telephone bank in respect of such special fund equivalent shall be identical to its rights and obligations in respect of class B or class C stock, respectively.
 
 #### (g) Patronage refunds from remaining earnings after provision for operating expenses, reserves for losses, payments in lieu of taxes, and returns on class A and C stock
 
@@ -72,7 +72,7 @@ General Accounting Office redesignated Government Accountability Office by secti
 
 #### Effective Date of 1990 Amendment
 
-Section 2368 of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XXIII, §2368, Nov. 28, 1990, 104 Stat. 4045, provided that:
 
 “(a)
 

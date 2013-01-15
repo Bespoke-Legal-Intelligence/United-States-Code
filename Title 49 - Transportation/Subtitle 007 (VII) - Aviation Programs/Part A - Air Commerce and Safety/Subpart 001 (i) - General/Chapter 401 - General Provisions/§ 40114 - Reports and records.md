@@ -76,3 +76,39 @@ In subsection (a)(2), the word “rules” is omitted as being synonymous with �
 
 In subsection (b), the words “otherwise”, “all contracts, agreements, understandings, and”, “annual or other”, “of air carriers and other persons”, and “preserved as” are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
 
+#### Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media Format
+
+Pub. L. 112–95, title VIII, §806, Feb. 14, 2012, 126 Stat. 121, provided that:
+
+“(a)
+
+Consolidation or Elimination of Reports.—Not later than 2 years after the date of enactment of this Act \[Feb. 14, 2012\], and every 2 years thereafter, the Administrator of the Federal Aviation Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing—
+
+&emsp;“(1) a list of obsolete, redundant, or otherwise unnecessary reports the Administration is required by law to submit to Congress or publish that the Administrator recommends eliminating or consolidating with other reports; and
+
+&emsp;“(2) an estimate of the cost savings that would result from the elimination or consolidation of those reports.
+
+“(b)
+
+Use of Electronic Media for Reports.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the Administration—
+
+&emsp;&emsp;“(A) may not publish any report required or authorized by law in a printed format; and
+
+&emsp;&emsp;“(B) shall publish any such report by posting it on the Administration's Internet Web site in an easily accessible and downloadable electronic format.
+
+&emsp;“(2)
+
+Exception.—Paragraph (1) does not apply to any report with respect to which the Administrator determines that—
+
+&emsp;&emsp;“(A) its publication in a printed format is essential to the mission of the Administration; or
+
+&emsp;&emsp;“(B) its publication in accordance with the requirements of paragraph (1) would disclose matter—
+
+&emsp;&emsp;&emsp;“(i) described in section 552(b) of title 5, United States Code; or
+
+&emsp;&emsp;&emsp;“(ii) the disclosure of which would have an adverse impact on aviation safety or security, as determined by the Administrator.”
+

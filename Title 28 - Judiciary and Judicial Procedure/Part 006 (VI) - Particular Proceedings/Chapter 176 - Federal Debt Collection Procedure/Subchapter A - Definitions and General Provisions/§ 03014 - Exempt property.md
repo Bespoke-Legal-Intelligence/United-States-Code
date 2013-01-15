@@ -2,7 +2,7 @@
 
 (a)
 
-Election To Exempt Property.—An individual debtor may, in an action or proceedingunder this chapter, elect to exempt property listed in either paragraph (1) or, in the alternative, paragraph (2). If such action or proceeding is against debtors who are husband and wife, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2). If the debtors cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1). Such property is either—
+Election To Exempt Property.—An individual debtor may, in an action or proceeding under this chapter, elect to exempt property listed in either paragraph (1) or, in the alternative, paragraph (2). If such action or proceeding is against debtors who are husband and wife, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2). If the debtors cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1). Such property is either—
 
 &emsp;(1) property that is specified in section 522(d) of title 11, as amended from time to time; or
 

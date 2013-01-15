@@ -12,7 +12,7 @@ Not later than March 31, 2002, the Secretary of Agriculture (referred to in this
 
 #### (B) Fees
 
-&emsp;To the maximum extent practicable, the Secretary shall establish, collect, and use fees for the grading of tobacco required under this section in the same manner as user fees for the grading of tobacco sold at auction authorized under the Tobacco Inspection Act (7 U.S.C. 511 et seq.).
+&emsp;To the maximum extent practicable, the Secretary shall establish, collect, and use feesfor the grading of tobacco required under this section in the same manner as user fees for the grading of tobacco sold at auction authorized under the Tobacco Inspection Act (7 U.S.C. 511 et seq.).
 
 #### (3) Judicial review
 

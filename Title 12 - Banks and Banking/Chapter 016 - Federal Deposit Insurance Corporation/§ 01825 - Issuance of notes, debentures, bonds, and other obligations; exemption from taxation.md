@@ -126,5 +126,5 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### GAO Reports
 
-Section 102(b) of Pub. L. 102–242, as amended by Pub. L. 103–325, title III, §327, Sept. 23, 1994, 108 Stat. 2230; Pub. L. 104–66, title II, §2061, Dec. 21, 1995, 109 Stat. 729, directed Comptroller General to submit report to congressional committees, not later than 90 days after end of any calendar quarter in which Federal Deposit Insurance Corporation had any outstanding obligations pursuant to section 1824 of this title, on Corporation's compliance at the end of that quarter with subsec. (c) of this section, prior to repeal by Pub. L. 104–316, title I, §106(c), Oct. 19, 1996, 110 Stat. 3831.
+Pub. L. 102–242, title I, §102(b), Dec. 19, 1991, 105 Stat. 2237, as amended by Pub. L. 103–325, title III, §327, Sept. 23, 1994, 108 Stat. 2230; Pub. L. 104–66, title II, §2061, Dec. 21, 1995, 109 Stat. 729, directed Comptroller General to submit report to congressional committees, not later than 90 days after end of any calendar quarter in which Federal Deposit Insurance Corporation had any outstanding obligations pursuant to section 1824 of this title, on Corporation's compliance at the end of that quarter with subsec. (c) of this section, prior to repeal by Pub. L. 104–316, title I, §106(c), Oct. 19, 1996, 110 Stat. 3831.
 

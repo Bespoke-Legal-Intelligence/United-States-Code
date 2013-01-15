@@ -110,7 +110,7 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 
 
 #### Prior Provisions
 
-A prior section 1320b–6, act Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 98–369, div. B, title VI, §2630, July 18, 1984, 98 Stat. 1137; amended Pub. L. 99–514, title XVIII, §1883(c)(2), Oct. 22, 1986, 100 Stat. 2918, related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior to repeal by Pub. L. 104–193, title I, §§108(q)(7), 116, Aug. 22, 1996, 110 Stat. 2168, 2181, effective July 1, 1997, with certain transition rules.
+A prior section 1320b–6, act Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 98–369, div. B, title VI, §2630, July 18, 1984, 98 Stat. 1137; amended Pub. L. 99–514, title XVIII, §1883(c)(2), Oct. 22, 1986, 100 Stat. 2918, related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior torepeal by Pub. L. 104–193, title I, §§108(q)(7), 116, Aug. 22, 1996, 110 Stat. 2168, 2181, effective July 1, 1997, with certain transition rules.
 
 #### Effective Date
 

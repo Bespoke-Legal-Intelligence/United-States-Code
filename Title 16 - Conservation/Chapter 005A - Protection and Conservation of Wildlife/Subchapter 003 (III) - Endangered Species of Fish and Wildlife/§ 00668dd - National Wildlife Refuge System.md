@@ -14,7 +14,7 @@
 
 &emsp;(C) compatible wildlife-dependent recreational uses are the priority general public uses of the System and shall receive priority consideration in refuge planning and management; and
 
-&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use is a compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
+&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use isa compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
 
 (4) In administering the System, the Secretary shall—
 
@@ -80,7 +80,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 &emsp;(2) Accept donations of funds and to use such funds to acquire or manage lands or interests therein.
 
-&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands, or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
+&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands,or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
 &emsp;(4) Subject to standards established by and the overall management oversight of the Director, and consistent with standards established by this Act, to enter into cooperative agreements with State fish and wildlife agencies for the management of programs on a refuge.
 
@@ -208,7 +208,7 @@ Nothing in this Act shall constitute an express or implied claim or denial on th
 
 Notwithstanding any other provision of this Act, the Secretary may temporarily suspend, allow, or initiate any activity in a refuge in the System if the Secretary determines it is necessary to protect the health and safety of the public or any fish or wildlife population.
 
-#### (<i>l</i>) Hunting and fishing on lands and waters not within System
+#### (l) Hunting and fishing on lands and waters not within System
 
 Nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of fish and resident wildlife on lands or waters that are not within the System.
 
@@ -228,7 +228,7 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 
 (2) Nothing in this Act shall diminish or affect the ability to join the United States in the adjudication of rights to the use of water pursuant to section 666 of title 43.
 
-#### (<i>o</i>) Coordination with State agencies
+#### (o) Coordination with State agencies
 
 Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
@@ -236,7 +236,7 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
 The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
@@ -246,7 +246,7 @@ The Refuge Recreation Act and the Act of September 28, 1962, referred to in subs
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (o), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -300,7 +300,7 @@ Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the In
 
 Subsecs. (i), (j). Pub. L. 105–57, §7(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-Subsecs. (k) to (<i>o</i>). Pub. L. 105–57, §8(a), added subsecs. (k) to (<i>o</i>).
+Subsecs. (k) to (o). Pub. L. 105–57, §8(a), added subsecs. (k) to (o).
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
 
@@ -310,7 +310,7 @@ Subsecs. (k) to (<i>o</i>). Pub. L. 105–57, §8(a), added subsecs. (k) to (<i>
 
 Subsec. (f). Pub. L. 95–616, §3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
+<b>1976</b>—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration ofthe System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
 Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
 
@@ -322,7 +322,7 @@ Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)�
 
 #### Effective Date of 1974 Amendment
 
-Section 3 of Pub. L. 93–509 provided that: “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) \[subsec. (d)(2) of this section\], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act \[Dec. 3, 1974\], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 \[now subsec. (d)(1)(B) of this section\] (as in effect before the date of the enactment of this Act).”
+Pub. L. 93–509, §3, Dec. 3, 1974, 88 Stat. 1603, provided that: “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) \[subsec. (d)(2) of this section\], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act \[Dec. 3, 1974\], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 \[now subsec. (d)(1)(B) of this section\] (as in effect before the date of the enactment of this Act).”
 
 #### Effective Date of 1973 Amendment
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–404 provided that: “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
+Pub. L. 90–404, §2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
 
 #### Short Title of 1998 Amendment
 
@@ -338,15 +338,15 @@ Pub. L. 105–312, title II, §201, Oct. 30, 1998, 112 Stat. 2957, provided that
 
 #### Short Title of 1997 Amendment
 
-Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this section and section 668ee of this title and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
+Pub. L. 105–57, §1(a), Oct. 9, 1997, 111 Stat. 1252, provided that: “This Act \[amending this section and section 668ee of this title and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–509 provided: “That this Act \[amending this section and section 715s of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
+Pub. L. 93–509, §1, Dec. 3, 1974, 88 Stat. 1603, provided: “That this Act \[amending this section and section 715s of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
 
 #### Short Title
 
-Section 12(f) of Pub. L. 91–135, Dec. 5, 1969, 83 Stat. 283, provided that: “The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
+Pub. L. 91–135, §12(f), Dec. 5, 1969, 83 Stat. 283, provided that: “The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
 
 #### Transfer of Functions
 
@@ -380,7 +380,7 @@ Findings.—Congress finds that—
 
 &emsp;“(B) it is essential that visitor centers and public use facilities be properly constructed, operated, and maintained;
 
-&emsp;“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) \[seeShort Title of 1998 Amendments note under section 742a of this title\], and the amendments made by that Act, significantly enhance the ability of the United States Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
+&emsp;“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) \[see Short Title of 1998 Amendments note under section 742a of this title\], and the amendments made by that Act, significantly enhance the ability of the United States Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
 
 &emsp;“(8) as of the date of the enactment of this Act \[Nov. 1, 2000\], the System has an unacceptable backlog of critical operation and maintenance needs; and
 
@@ -532,7 +532,7 @@ Annual reports.—Not later than 1 year after the effective date of this title, 
 
 &emsp;“(2)
 
-Final report.—Not later than September 30, 2004, the Commission shall submit to the Committee on Resources \[now Committee on Natural Resources\]of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
+Final report.—Not later than September 30, 2004, the Commission shall submit to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
 
 “(k)
 
@@ -608,7 +608,7 @@ Proclamation.—The President is requested to issue a proclamation calling on th
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 105–57 provided that: “The Congress finds the following:
+Pub. L. 105–57, §2, Oct. 9, 1997, 111 Stat. 1252, provided that: “The Congress finds the following:
 
 &emsp;“(1) The National Wildlife Refuge System is comprised of over 92,000,000 acres of Federal lands that have been incorporated within 509 individual units located in all 50 States and the territories of the United States.
 
@@ -628,7 +628,7 @@ Section 2 of Pub. L. 105–57 provided that: “The Congress finds the following
 
 #### Statutory Construction With Respect to Alaska
 
-Section 9 of Pub. L. 105–57 provided that:
+Pub. L. 105–57, §9, Oct. 9, 1997, 111 Stat. 1260, provided that:
 
 “(a)
 
@@ -841,6 +841,8 @@ Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, titl
 Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.
 
 St. Marks National Wildlife Refuge, Florida.—Pub. L. 109–241, title V, §504, July 11, 2006, 120 Stat. 551.
+
+Sam D. Hamilton Noxubee National Wildlife Refuge (former Noxubee National Wildlife Refuge), Mississippi.—Pub. L. 112–94, Feb. 14, 2012, 126 Stat. 10.
 
 San Diego National Wildlife Refuge, California.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2848\], Oct. 30, 2000, 114 Stat. 1654, 1654A–426.
 

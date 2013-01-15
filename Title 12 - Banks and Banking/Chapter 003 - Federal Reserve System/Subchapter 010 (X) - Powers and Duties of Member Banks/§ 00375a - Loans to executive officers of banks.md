@@ -74,7 +74,7 @@ Pars. (2), (3). Pub. L. 90–44 inserted provisions, designated as pars. (2) and
 
 Par. (4). Pub. L. 90–44 incorporated proviso of first sentence in provisions designated as par. (4), increased amount of available credit from $2,500 to $5,000, and struck out requirement of prior approval of credit by majority of entire board of directors.
 
-Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that “Borrowing by, or loaning to, a partnership in which one ormore executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section”.
+Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that “Borrowing by, or loaning to, a partnership in which one or more executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section”.
 
 Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated as par. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
 

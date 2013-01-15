@@ -6,7 +6,7 @@ For the purpose of this chapter—
 
 &emsp;(2) the term “annuitant” means a former employee or Member who, on the basis of that individual's service, meets all requirements for title to an annuity under subchapter II or V of this chapter and files claim therefor;
 
-&emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay in effect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
+&emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay ineffect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
 
 &emsp;(4) the term “basic pay” has the meaning given such term by section 8331(3);
 
@@ -164,7 +164,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) in the commissioned corps of the National Oceanic and Atmospheric Administration, or a predecessor entity in function, after June 30, 1961;
 
-> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
+> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
 &emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
 
@@ -176,11 +176,23 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(A) a controller within the meaning of section 2109(1); and
 
-&emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B); and
+&emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-&emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years.
+&emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616.)
+&emsp;(37) the term “revised annuity employee” means any individual who—
+
+&emsp;&emsp;(A) on December 31, 2012—
+
+&emsp;&emsp;&emsp;(i) is not an employee or Member covered under this chapter;
+
+&emsp;&emsp;&emsp;(ii) is not performing civilian service which is creditable service under section 8411; and
+
+&emsp;&emsp;&emsp;(iii) has less than 5 years of creditable civilian service under section 8411; and
+
+&emsp;&emsp;(B) after December 31, 2012, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199.)
 
 #### References in Text
 
@@ -197,6 +209,8 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
+
+<b>2012</b>—Par. (37). Pub. L. 112–96 added par. (37).
 
 <b>2009</b>—Par. (19)(C). Pub. L. 111–84 substituted “8411(f) or 8422(i);” for “8411(f);”.
 
@@ -312,7 +326,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department orCoast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 Amendment by Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
@@ -320,11 +334,11 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
 
-Section 113(b)(2) of Pub. L. 100–238 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
+Pub. L. 100–238, title I, §113(b)(2), Jan. 8, 1988, 101 Stat. 1751, provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
 
 #### Effective Date
 
-Section 702(a), (b) of Pub. L. 99–335 provided that:
+Pub. L. 99–335, title VII, §702(a), (b), June 6, 1986, 100 Stat. 631, provided that:
 
 “(a)
 
@@ -354,13 +368,13 @@ Pub. L. 105–274, §1, Oct. 21, 1998, 112 Stat. 2419, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Section 101(f) \[title VI, §659 \[title I, §101\]\] of Pub. L. 104–208 provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending sections 8438 and 8439 of this title and enacting provisions set out as a note under section 8438 of this title\] may be cited as the ‘Thrift Savings Investment Funds Act of 1996’.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §101\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending sections 8438 and 8439 of this title and enacting provisions set out as a note under section 8438 of this title\] may be cited as the ‘Thrift Savings Investment Funds Act of 1996’.”
 
-Section 101(f) \[title VI, §659 \[title II, §201\]\] of Pub. L. 104–208 provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 5545a, 8351, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 5545a and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] may be cited as the ‘Thrift Savings Plan Act of 1996’.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §201\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–374, provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 5545a, 8351, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 5545a and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] may be cited as the ‘Thrift Savings Plan Act of 1996’.”
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–335 provided that: “This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
+Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: “This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
 
 #### Short Title of 1987 Amendment
 
@@ -368,11 +382,11 @@ Pub. L. 100–43, §1, May 22, 1987, 101 Stat. 315, provided: “That this Act \
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title\] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
+Pub. L. 99–556, §1, Oct. 27, 1986, 100 Stat. 3131, provided that: “This Act \[enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title\] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
 
 #### Short Title
 
-Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notesunder section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
 
 #### Transfer of Functions
 
@@ -396,7 +410,7 @@ Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by P
 
 #### Congressional Declaration of Purpose
 
-Section 100A of Pub. L. 99–335 provided that: “The purposes of this Act \[see Short Title note above\] are—
+Pub. L. 99–335, title I, §100A, June 6, 1986, 100 Stat. 516, provided that: “The purposes of this Act \[see Short Title note above\] are—
 
 &emsp;“(1) to establish a Federal employees’ retirement plan which is coordinated with title II of the Social Security Act \[42 U.S.C. 401 et seq.\];
 
@@ -414,11 +428,11 @@ Section 100A of Pub. L. 99–335 provided that: “The purposes of this Act \[se
 
 #### Use of Normal-Cost Percentage
 
-Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
+Pub. L. 99–335, title III, §307, June 6, 1986, 100 Stat. 607, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
 
 #### First Cost-of-Living Adjustment
 
-Section 702(c) of Pub. L. 99–335 provided that:
+Pub. L. 99–335, title VII, §702(c), June 6, 1986, 100 Stat. 631, provided that:
 
 “(1) For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
 

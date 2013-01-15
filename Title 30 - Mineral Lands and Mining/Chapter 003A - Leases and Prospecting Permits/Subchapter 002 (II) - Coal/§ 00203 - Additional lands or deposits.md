@@ -48,7 +48,7 @@ Amendment by Pub. L. 109–58 applicable with respect to any coal lease issued b
 
 #### Savings Provision
 
-Section 13(b) of Pub. L. 94–377 provided that the amendment made by that section is subject to valid existing rights.
+Pub. L. 94–377, §13(b), Aug. 4, 1976, 90 Stat. 1090, provided that the amendment made by that section is subject to valid existing rights.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

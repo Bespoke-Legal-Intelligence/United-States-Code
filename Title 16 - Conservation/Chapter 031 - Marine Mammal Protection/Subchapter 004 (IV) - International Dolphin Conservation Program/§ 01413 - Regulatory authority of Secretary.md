@@ -14,7 +14,7 @@
 
 &emsp;(iii) prohibiting intentional sets on stocks and schools in accordance with the International Dolphin Conservation Program;
 
-&emsp;(iv) requiring the use of special equipment, including dolphin safety panels in nets, monitoring devices as identified by the International Dolphin Conservation Program to detect unsafe fishing conditions that may causehigh incidental dolphin mortality before nets are deployed by a tuna vessel, operable rafts, speedboats with towing bridles, floodlights in operable condition, and diving masks and snorkels;
+&emsp;(iv) requiring the use of special equipment, including dolphin safety panels in nets, monitoring devices as identified by the International Dolphin Conservation Program to detect unsafe fishing conditions that may cause high incidental dolphin mortality before nets are deployed by a tuna vessel, operable rafts, speedboats with towing bridles, floodlights in operable condition, and diving masks and snorkels;
 
 &emsp;(v) ensuring that the backdown procedure during sets of purse seine net on marine mammals is completed and rolling of the net to sack up has begun no later than 30 minutes before sundown;
 
@@ -72,7 +72,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 #### References in Text
 
-The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Actof 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Prior Provisions
 

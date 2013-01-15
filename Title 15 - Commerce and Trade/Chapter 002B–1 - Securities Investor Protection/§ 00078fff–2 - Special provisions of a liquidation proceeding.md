@@ -26,7 +26,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), of 
 
 &emsp;(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
 
-> Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) of this section for any balance of securities or cash to which such claimant considers himself entitled.
+> Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudiceto any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) of this section for any balance of securities or cash to which such claimant considers himself entitled.
 
 #### (c) Customer related property
 
@@ -74,7 +74,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (3) Registered clearing agencies
 
-&emsp;Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants’ claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC mayotherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or its participants, to the extent such participants’ claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
+&emsp;Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants’ claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC may otherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or its participants, to the extent such participants’ claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
 
 #### (4) “Customer” defined
 
@@ -98,7 +98,7 @@ In order to facilitate the prompt satisfaction of customer claims and the orderl
 
 > The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
 
-(Pub. L. 91–598, §8, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, §308(<i>l</i>), (m), Nov. 6, 1978, 92 Stat. 2675.)
+(Pub. L. 91–598, §8, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, §308(l), (m), Nov. 6, 1978, 92 Stat. 2675.)
 
 #### Prior Provisions
 

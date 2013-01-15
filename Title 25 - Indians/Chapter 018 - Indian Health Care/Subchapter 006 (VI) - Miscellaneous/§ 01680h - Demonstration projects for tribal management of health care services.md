@@ -12,7 +12,7 @@ During the period in which a demonstration project established under subsection 
 
 #### (c) Waiver of procurement laws
 
-The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of this section, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
+The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of thissection, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
 
 #### (d) Termination; evaluation and report
 
@@ -22,7 +22,7 @@ The Secretary may waive such provisions of Federal procurement law as are necess
 
 #### (e) Joint venture demonstration projects
 
-(1) The Secretary, acting through the Service, shall make arrangements with Indian tribes to establish joint venture demonstration projects under which an Indian tribe shall expend tribal,private, or other available nontribal funds, for the acquisition or construction of a health facility for a minimum of 20 years, under a no-cost lease, in exchange for agreement by the Service to provide the equipment, supplies, and staffing for the operation and maintenance of such a health facility. A tribe may utilize tribal funds, private sector, or other available resources, including loan guarantees, to fulfill its commitment under this subsection.
+(1) The Secretary, acting through the Service, shall make arrangements with Indian tribes to establish joint venture demonstration projects under which an Indian tribe shall expend tribal, private, or other available nontribal funds, for the acquisition or construction of a health facility for a minimum of 20 years, under a no-cost lease, in exchange for agreement by the Service to provide the equipment, supplies, and staffing for the operation and maintenance of such a health facility. A tribe may utilize tribal funds, private sector, or other available resources, including loan guarantees, to fulfill its commitment under this subsection.
 
 (2) The Secretary shall make such an arrangement with an Indian tribe only if the Secretary first determines that the Indian tribe has the administrative and financial capabilities necessary to complete the timely acquisition or construction of the health facility described in paragraph (1).
 

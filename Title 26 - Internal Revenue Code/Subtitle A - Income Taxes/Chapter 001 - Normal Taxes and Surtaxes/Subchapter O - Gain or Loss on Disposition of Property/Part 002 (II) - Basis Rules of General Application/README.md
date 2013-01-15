@@ -19,17 +19,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note set out under section 121 of this title.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, title III, §§301(a), 304, Dec. 17, 2010, 124 Stat. 3300, 3304, temporarily amended analysis to read as if amendment by Pub. L. 107–16, §542(e)(6), had never been enacted. See 2001 Amendment note below.
+<b>2010</b>—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(e)(6), had never been enacted. See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–16, title V, §542(e)(6), title IX, §901, June 7, 2001, 115 Stat. 86, 150, temporarily added item 1022.
+<b>2001</b>—Pub. L. 107–16, title V, §542(e)(6), June 7, 2001, 115 Stat. 86, added item 1022.
 
 <b>1980</b>—Pub. L. 96–589, §6(h)(2), Dec. 24, 1980, 94 Stat. 3410, struck out item 1018 “Adjustments of capital structure before September 22, 1938”.
 

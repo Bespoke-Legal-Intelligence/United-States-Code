@@ -100,7 +100,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) Report to the Secretary
 
-&emsp;&emsp;&emsp;Not later than 30 days after the end of the 3rd year in which the eligible entity conducts the program, the entity submitsto the Secretary a report demonstrating improvement in at least 4 of the areas specified in subparagraph (A).
+&emsp;&emsp;&emsp;Not later than 30 days after the end of the 3rd year in which the eligible entity conducts the program, the entity submits to the Secretary a report demonstrating improvement in at least 4 of the areas specified in subparagraph (A).
 
 #### (ii) Corrective action plan
 

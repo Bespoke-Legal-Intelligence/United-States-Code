@@ -30,7 +30,7 @@
 
 #### (b) Existing designees
 
-Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6,1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
+Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
 
 #### (c) Suspension or termination of designation
 
@@ -60,7 +60,7 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 &emsp;&emsp;(C) the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.
 
-(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208.)
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29,1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208.)
 
 #### Amendments
 

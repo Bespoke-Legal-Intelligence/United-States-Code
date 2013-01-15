@@ -18,7 +18,31 @@ Exclusively intrastate operators.—Paragraph (1) does not apply to a motor carr
 
 (c)
 
-In General.—Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective fromthe date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.
+Effective Period.—
+
+&emsp;(1)
+
+In general.—Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904—
+
+&emsp;&emsp;(A) shall be effective beginning on the date specified by the Secretary; and
+
+&emsp;&emsp;(B) shall remain in effect for such period as the Secretary determines appropriate by regulation.
+
+&emsp;(2)
+
+Reissuance of registration.—
+
+&emsp;&emsp;(A)
+
+Requirement.—Not later than 4 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the Secretary shall require a freight forwarder or broker to renew its registration issued under this chapter.
+
+&emsp;&emsp;(B)
+
+Effective period.—Each registration renewal under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) shall expire not later than 5 years after the date of such renewal; and
+
+&emsp;&emsp;&emsp;(ii) may be further renewed as provided under this chapter.
 
 (d)
 
@@ -26,15 +50,51 @@ Suspension, Amendments, and Revocations.—
 
 &emsp;(1)
 
-In general.—On application of the registrant, the Secretary may amend or revoke a registration. On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may (A) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder for willful failure to comply with this part, an applicable regulation or order of the Secretary or of the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), or a condition of its registration; and (B) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder: (i) for failure to pay a civil penalty imposed under chapter 5, 51, 149, or 311 of this title; or (ii) for failure to arrange and abide by an acceptable payment plan for such civil penalty, within 90 days of the time specified by order of the Secretary for the payment of such penalty. Subparagraph (B) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
+Applications.—On application of the registrant, the Secretary may amend or revoke a registration.
 
 &emsp;(2)
 
-Regulations.—Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and opportunity for public comment, shall issue regulations to provide for the suspension, amendment, or revocation of a registration under this part for failure to pay a civil penalty as provided in paragraph (1)(B).
+Complaints and actions on secretary's own initiative.—On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may—
+
+&emsp;&emsp;(A) suspend, amend, or revoke any part of the registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder for willful failure to comply with—
+
+&emsp;&emsp;&emsp;(i) this part;
+
+&emsp;&emsp;&emsp;(ii) an applicable regulation or order of the Secretary or the Board, including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations (or successor regulations), for transportation provided by an over-the-road bus; or
+
+&emsp;&emsp;&emsp;(iii) a condition of its registration;
+
+&emsp;&emsp;(B) withhold, suspend, amend, or revoke any part of the registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder for failure—
+
+&emsp;&emsp;&emsp;(i) to pay a civil penalty imposed under chapter 5, 51, 149, or 311;
+
+&emsp;&emsp;&emsp;(ii) to arrange and abide by an acceptable payment plan for such civil penalty, not later than 90 days after the date specified by order of the Secretary for the payment of such penalty; or
+
+&emsp;&emsp;&emsp;(iii) for failure <sup>1</sup> to obey a subpoena issued by the Secretary;
+
+&emsp;&emsp;(C) withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder following a determination by the Secretary that the motor carrier, broker, or freight forwarder failed to disclose, in its application for registration, a material fact relevant to its willingness and ability to comply with—
+
+&emsp;&emsp;&emsp;(i) this part;
+
+&emsp;&emsp;&emsp;(ii) an applicable regulation or order of the Secretary or the Board; or
+
+&emsp;&emsp;&emsp;(iii) a condition of its registration; or
+
+&emsp;&emsp;(D) withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that—
+
+&emsp;&emsp;&emsp;(i) <sup>2</sup> the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904 <sup>3</sup>
+
+&emsp;(3)
+
+Limitation.—Paragraph (2)(B) shall not apply to a person who is unable to pay a civil penalty because the person is a debtor in a case under chapter 11 of title 11.
+
+&emsp;(4)
+
+Regulations.—Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and opportunity for public comment, shall issue regulations to provide for the suspension, amendment, or revocation of a registration under this part for failure to pay a civil penalty as provided in paragraph (2)(B).
 
 (e)
 
-Procedure.—Except on application of the registrant, the Secretary may revoke a registration of a motor carrier, freight forwarder, or broker, only after—
+Procedure.—Except on application of the registrant, or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C), the Secretary may revoke a registration of a motor carrier, freight forwarder, or broker, only after—
 
 &emsp;(1) the Secretary has issued an order to the registrant under section 14701 requiring compliance with this part, a regulation of the Secretary, or a condition of the registration; and
 
@@ -48,19 +108,19 @@ Expedited Procedure.—
 
 Protection of safety.—Notwithstanding subchapter II of chapter 5 of title 5, the Secretary—
 
-&emsp;&emsp;(A) may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with requirements of the Secretary pursuant to section 13904(c) or 13906 or an order or regulation of the Secretary prescribed under those sections; and
+&emsp;&emsp;(A) may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with requirements of the Secretary pursuant to section 13904(e) or 13906 or an order or regulation of the Secretary prescribed under those sections; and
 
 &emsp;&emsp;(B) shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
 
 &emsp;(2)
 
-Imminent hazard to public health.—Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property.
+Imminent hazard to public health.—Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
 
 &emsp;(3)
 
 Notice; period of suspension.—The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 104–287, §5(33), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 105–102, §2(10), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §206(a), Dec. 9, 1999, 113 Stat. 1763; Pub. L. 109–59, title IV, §§4104, 4303(a), Aug. 10, 2005, 119 Stat. 1716, 1761; Pub. L. 110–291, §2(b), July 30, 2008, 122 Stat. 2915.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 104–287, §5(33), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 105–102, §2(10), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §206(a), Dec. 9, 1999, 113 Stat. 1763; Pub. L. 109–59, title IV, §§4104, 4303(a), Aug. 10, 2005, 119 Stat. 1716, 1761; Pub. L. 110–291, §2(b), July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, 126 Stat. 778, 782, 785, 821, 830.)
 
 #### Historical and Revision Notes
 
@@ -74,13 +134,31 @@ This amends 49:13905(e)(1) to correct a grammatical error.
 
 #### References in Text
 
-The date of the enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(2)(A), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
-#### Prior Provisions
-
-Provisions similar to those in this section were contained in section 10925 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+The date of the enactment of this paragraph, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–141, §32917, amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.”
+
+Subsec. (d)(1). Pub. L. 112–141, §32103(a)(1)(B), added par. (1) and struck out former par. (1) which authorized the Secretary to amend or revoke a registration upon application, or suspend, amend or revoke a registration upon complaint or the Secretary's own initiative after notice and opportunity for a proceeding.
+
+Subsec. (d)(2). Pub. L. 112–141, §32205, inserted “foreign motor carrier, foreign motor private carrier,” after “registration of a motor carrier,” wherever appearing.
+
+Pub. L. 112–141, §32103(a)(1)(B), added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (d)(3). Pub. L. 112–141, §32103(a)(1)(B), added par. (3).
+
+Subsec. (d)(4). Pub. L. 112–141, §32103(a)(1)(C), substituted “paragraph (2)(B)” for “paragraph (1)(B)”.
+
+Pub. L. 112–141, §32103(a)(1)(A), redesignated par. (2) as (4).
+
+Subsec. (e). Pub. L. 112–141, §32103(a)(2), inserted “or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C),” after “registrant,”.
+
+Subsec. (f)(1)(A). Pub. L. 112–141, §32933(a), substituted “section 13904(e)” for “section 13904(c)”.
+
+Subsec. (f)(2). Pub. L. 112–141, §32109, amended par. (2) generally. Prior to amendment, text read as follows: “Without regard to subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier of passengers if the Secretary finds that such carrier has been conducting unsafe operations which are an imminent hazard to public health or property.”
 
 <b>2008</b>—Subsec. (d)(1)(A). Pub. L. 110–291 inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
 
@@ -92,7 +170,7 @@ Subsec. (e)(1). Pub. L. 109–59, §4104(1), added par. (1) and struck out headi
 
 Subsec. (e)(2). Pub. L. 109–59, §4104(2), substituted “shall revoke the registration” for “may suspend a registration”.
 
-Subsec. (e)(3). Pub. L. 109–59, §4104(3), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension underparagraph (2), until the Secretary revokes such suspension.”
+Subsec. (e)(3). Pub. L. 109–59, §4104(3), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with thoseapplicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes such suspension.”
 
 Subsec. (f). Pub. L. 109–59, §4303(a)(1), redesignated subsec. (e) as (f).
 
@@ -102,7 +180,17 @@ Subsec. (f). Pub. L. 109–59, §4303(a)(1), redesignated subsec. (e) as (f).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “December 31, 1995” for “the day before the effective date of this section”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Relationship to Other Laws
 
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.
+
+<i><sup>1</sup></i><i> So in original. The words “for failure” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

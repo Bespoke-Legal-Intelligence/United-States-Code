@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
 
-(b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
+(b) Not less than 90 per centum of the funds made available to carry out the provisions ofthis subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
 
 (c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
 
@@ -54,7 +54,7 @@ Pub. L. 102–375, §822(16), substituted “, 2991b–1, 2991c of this title, 
 
 Subsec. (c). Pub. L. 102–497 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “There are authorized to be appropriated $500,000 for each of the fiscal years 1992, 1993, 1994, and 1995 for the purpose of providing financial assistance to other Native American Pacific Islanders (including American Samoan Natives) under section 2991b(a) of this title.”
 
-Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted “There are” for “Except as provided in paragraph (2), there are”, substituted “1992, 1993, 1994, and 1995” for “1988, 1989, 1990, and 1991”, and struck out par. (2) which read as follows: “No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection\(a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987.”
+Pub. L. 102–375, §822(17), (18), redesignated par. (1) as subsec. (c), substituted “There are” for “Except as provided in paragraph (2), there are”, substituted “1992, 1993, 1994, and 1995” for “1988, 1989, 1990, and 1991”, and struck out par. (2) which read as follows: “No funds may be appropriated under paragraph (1) for a fiscal year unless the amount appropriated under subsection (a) of this section for such fiscal year exceeds 105 percent of the amount appropriated under subsection (a) of this section for fiscal year 1987.”
 
 Subsec. (d). Pub. L. 102–497, §9(c)(2), redesignated subsec. (d) as (c).
 

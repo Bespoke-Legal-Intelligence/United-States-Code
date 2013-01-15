@@ -34,11 +34,11 @@ If an insured depository institution ceases to be a qualified insured depository
 
 #### (f) Prompt corrective action not affected
 
-The capital of an insured depository institution shall be computed without regard to this section in determining whether the institution is adequately capitalized, undercapitalized, significantly undercapitalized, or critically undercapitalized under section 1831<i>o</i> of this title.
+The capital of an insured depository institution shall be computed without regard to this section in determining whether the institution is adequately capitalized, undercapitalized, significantly undercapitalized, or critically undercapitalized under section 1831o of this title.
 
 #### (g) Regulations required
 
-Not later than 180 days after September 23, 1994, each appropriate Federal banking agency shall promulgate final regulations implementing this section.
+Not later than 180 days after September 23, 1994, each appropriate Federal banking agencyshall promulgate final regulations implementing this section.
 
 #### (h) Alternative system permitted
 
@@ -54,23 +54,23 @@ Not later than 180 days after September 23, 1994, each appropriate Federal banki
 
 For purposes of this section—
 
-&emsp;(1) the term “adequately capitalized” has the same meaning as in section 1831<i>o</i>(b) of this title;
+&emsp;(1) the term “adequately capitalized” has the same meaning as in section 1831o(b) of this title;
 
 &emsp;(2) the term “appropriate Federal banking agency” has the same meaning as in section 1813 of this title;
 
-&emsp;(3) the term “capital standards” has the same meaning as in section 1831<i>o</i>(c) of this title;
+&emsp;(3) the term “capital standards” has the same meaning as in section 1831o(c) of this title;
 
 &emsp;(4) the term “Federal banking agencies” has the same meaning as in section 1813 of this title;
 
 &emsp;(5) the term “insured depository institution” has the same meaning as in section 1813 of this title;
 
-&emsp;(6) the term “other capital measures” has the meaning as in section 1831<i>o</i>(c) of this title;
+&emsp;(6) the term “other capital measures” has the meaning as in section 1831o(c) of this title;
 
 &emsp;(7) the term “recourse” has the meaning given to such term under generally accepted accounting principles;
 
 &emsp;(8) the term “small business” means a business that meets the criteria for a small business concern established by the Small Business Administration under section 632(a) of title 15; and
 
-&emsp;(9) the term “well capitalized” has the same meaning as in section 1831<i>o</i>(b) of this title.
+&emsp;(9) the term “well capitalized” has the same meaning as in section 1831o(b) of this title.
 
 (Pub. L. 103–325, title II, §208, Sept. 23, 1994, 108 Stat. 2201.)
 

@@ -38,7 +38,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) Civil penalty
 
-&emsp;Any person subject to the jurisdiction of the United States who violates this chapter or any regulation or permit issued under this chapter shall be liable to the United States for a civil penalty of not more than $100,000 for each such violation, to be assessed by the Secretary. Each day of a continuing violation shall constitute a separate violation.
+&emsp;Any person subject to the jurisdiction of the United States who violates this chapter or any regulation or permit issued under this chaptershall be liable to the United States for a civil penalty of not more than $100,000 for each such violation, to be assessed by the Secretary. Each day of a continuing violation shall constitute a separate violation.
 
 #### (2) Notice
 
@@ -100,7 +100,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnessesand the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
 #### (h) Use of resources of State and other Federal agencies
 
@@ -118,7 +118,7 @@ If the Secretary determines that there is an imminent risk of destruction or los
 
 The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 
-#### (<i>l</i>) Nationwide service of process
+#### (l) Nationwide service of process
 
 In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 106–513, §8(b), (c), redesignated subsec. (f) as (g) and
 
 Subsecs. (h) to (k). Pub. L. 106–513, §8(b), redesignated subsecs. (g) to (j) as (h) to (k), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 106–513, §8(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 106–513, §8(c), added subsec. (l).
 
 <b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
 
@@ -162,7 +162,7 @@ Subsec. (j). Pub. L. 102–587, §2107(e), added subsec. (j).
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study of Joint Enforcement of Marine Sanctuary Regulations
 

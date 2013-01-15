@@ -22,7 +22,7 @@ The Arches National Monument is hereby abolished, and any funds available for pu
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–329 inserted section designation and catchline and in subsec. (a) inserted subsec. heading, inserted par. (1) designation and heading before first sentence, added par. (2), inserted par. (3) designation and heading before second sentence and substituted “The maps described in paragraphs (1) and (2)” for “Such map”.
+<b>1998</b>—Pub. L. 105–329 inserted section designation and catchline and in subsec. (a) inserted subsec. heading, inserted par. (1) designation and heading before firstsentence, added par. (2), inserted par. (3) designation and heading before second sentence and substituted “The maps described in paragraphs (1) and (2)” for “Such map”.
 
 #### Short Title of 1998 Amendment
 

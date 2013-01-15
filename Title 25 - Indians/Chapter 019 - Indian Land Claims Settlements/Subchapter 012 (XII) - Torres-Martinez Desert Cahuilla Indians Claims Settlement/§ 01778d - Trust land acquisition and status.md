@@ -58,7 +58,7 @@ All lands acquired by the Tribe under subsection (a) of this section shall—
 
 #### Effective Date
 
-Section effective on date on which the Secretary determines that certain conditions with respect to the Settlement Agreement and provisions of title VI of Pub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
+Section effective on date on which the Secretary determines that certain conditions with respect to the Settlement Agreement and provisions of title VI ofPub. L. 106–568 have been met, see section 611(b) of Pub. L. 106–568, set out as a note under section 1778 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(1)”.</i>
 

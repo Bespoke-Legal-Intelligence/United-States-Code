@@ -18,7 +18,7 @@ Notwithstanding any other provision of this chapter, with respect to mortgages c
 
 #### (c) Lack of tribal or trust fund income
 
-The Secretary may not refuse to insure a mortgage under this section to an individual home purchaser because there is no distributed tribal or trust fund income attributable to that purchaser.
+The Secretary may not refuse to insure a mortgage under this section to an individualhome purchaser because there is no distributed tribal or trust fund income attributable to that purchaser.
 
 #### (d) Availability of tribal eviction procedures
 
@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
-(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title IV, §422, Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, title XIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
+(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title I \[title IV, §422\], Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, titleXIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
 
 #### References in Text
 

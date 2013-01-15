@@ -2,7 +2,7 @@
 
 #### (a) Charge on late royalty payment or royalty payment deficiency
 
-In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are lessthan the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
+In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are less than the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
 
 #### (b) Charge on late payment made by Secretary to States
 
@@ -56,7 +56,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 (5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report and pay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
 
-#### (<i>l</i>) Production allocation
+#### (l) Production allocation
 
 The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
@@ -76,7 +76,7 @@ Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–185, §6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
+<b>1996</b>—Pub. L. 104–185, §6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for“Royalty interest, penalties and payments” in section catchline.
 
 Subsec. (h). Pub. L. 104–185, §6(a), added subsec. (h).
 
@@ -92,7 +92,7 @@ Subsec. (k). Pub. L. 104–185, §6(d), added subsec. (k).
 
 Subsec. (k)(4). Pub. L. 104–200, §1(6), substituted “additional royalties due” for “additional royalties dues”.
 
-Subsec. (<i>l</i>). Pub. L. 104–185, §6(e), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–185, §6(e), added subsec. (l).
 
 <b>1986</b>—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

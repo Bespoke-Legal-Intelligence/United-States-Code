@@ -32,5 +32,5 @@ Subsecs. (c), (d). Pub. L. 91–222 struck out subsecs. (c) and (d) relating to 
 
 #### Effective Date of 1970 Amendment
 
-Section 3 of Pub. L. 91–222 provided in part that: “Section 5 of the amendment made by this Act \[amending this section\] shall take effect as of July 1, 1969.”
+Pub. L. 91–222, §3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “Section 5 of the amendment made by this Act \[amending this section\] shall take effect as of July 1, 1969.”
 

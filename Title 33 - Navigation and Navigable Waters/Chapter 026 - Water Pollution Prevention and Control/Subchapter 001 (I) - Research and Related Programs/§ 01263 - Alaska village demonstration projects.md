@@ -2,7 +2,7 @@
 
 #### (a) Central community facilities for safe water; elimination or control of pollution
 
-The Administrator is authorized to enter into agreements with the State of Alaska to carry out one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
+The Administrator is authorized to enter into agreements with the State of Alaska to carryout one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
 
 #### (b) Utilization of personnel and facilities of Department of Health and Human Services
 
@@ -30,7 +30,7 @@ For the purpose of this section, the term “village” shall mean an incorporat
 
 #### References in Text
 
-Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which isclassified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Codification
 

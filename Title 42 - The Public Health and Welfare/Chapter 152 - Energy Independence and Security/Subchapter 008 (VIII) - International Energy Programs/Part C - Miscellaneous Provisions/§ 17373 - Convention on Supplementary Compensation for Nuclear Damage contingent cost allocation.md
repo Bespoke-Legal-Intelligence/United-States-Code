@@ -234,7 +234,7 @@ In this section:
 
 #### (g) Effect on liability
 
-Nothing in any other law (including regulations) limits liability for a covered incident to an amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
+Nothing in any other law (including regulations) limits liability for a covered incident toan amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
 
 &emsp;(1) specifically refers to this section; and
 
@@ -288,7 +288,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) In general
 
-&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United StatesCourt of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (B) Supreme Court jurisdiction
 
@@ -322,7 +322,7 @@ Nothing in the Convention or this section requires the disclosure of—
 
 &emsp;(3) national security information classified under Executive Order 12958 (50 U.S.C. 435 note; relating to classified national security information) (or a successor Executive Order or regulation).
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 #### (1) In general
 

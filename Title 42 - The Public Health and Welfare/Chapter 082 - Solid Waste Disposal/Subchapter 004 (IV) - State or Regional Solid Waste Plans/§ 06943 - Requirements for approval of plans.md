@@ -12,7 +12,7 @@ In order to be approved under section 6947 of this title, each State plan must c
 
 &emsp;(4) The plan shall provide for the establishment of such State regulatory powers as may be necessary to implement the plan.
 
-&emsp;(5) The plan shall provide that no State or local government within the State shall beprohibited under State or local law from negotiating and entering into long-term contracts for the supply of solid waste to resource recovery facilities, from entering into long-term contracts for the operation of such facilities, or from securing long-term markets for material and energy recovered from such facilities or for conserving materials or energy by reducing the volume of waste.
+&emsp;(5) The plan shall provide that no State or local government within the State shall be prohibited under State or local law from negotiating and entering into long-term contracts for the supply of solid waste to resource recovery facilities, from entering into long-term contracts for the operation of such facilities, or from securing long-term markets for material and energy recovered from such facilities or for conserving materials or energy by reducing the volume of waste.
 
 &emsp;(6) The plan shall provide for such resource conservation or recovery and for the disposal of solid waste in sanitary landfills or any combination of practices so as may be necessary to use or dispose of such waste in a manner that is environmentally sound.
 
@@ -32,7 +32,7 @@ Any State plan submitted under this subchapter may include, at the option of the
 
 #### (c) Energy and materials conservation and recovery feasibility planning and assistance
 
-(1) A State which has a plan approved under this subchapter or which has submitted a plan for such approval shall be eligible for assistance under section 6948(a)(3) of this title if the Administrator determines that under such plan the State will—
+(1) A State which has a plan approved under this subchapter or which has submitted a planfor such approval shall be eligible for assistance under section 6948(a)(3) of this title if the Administrator determines that under such plan the State will—
 
 &emsp;(A) analyze and determine the economic and technical feasibility of facilities and programs to conserve resources which contribute to the waste stream or to recover energy and materials from municipal waste;
 

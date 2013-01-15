@@ -54,7 +54,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;(2) review and approve the proposal described in section 12651d(b)(2)(A) of this title, with respect to the grants, allotments, contracts, financial assistance, payment, and positions referred to in such section;
 
-&emsp;(3) review and approve the proposal described in section 12651d(b)(3)(A) of this title,regarding the regulations, standards, policies, procedures, programs, and initiatives referred to in such section;
+&emsp;(3) review and approve the proposal described in section 12651d(b)(3)(A) of this title, regarding the regulations, standards, policies, procedures, programs, and initiatives referred to in such section;
 
 &emsp;(4) review and approve the evaluation plan described in section 12651d(b)(4)(A) of this title;
 

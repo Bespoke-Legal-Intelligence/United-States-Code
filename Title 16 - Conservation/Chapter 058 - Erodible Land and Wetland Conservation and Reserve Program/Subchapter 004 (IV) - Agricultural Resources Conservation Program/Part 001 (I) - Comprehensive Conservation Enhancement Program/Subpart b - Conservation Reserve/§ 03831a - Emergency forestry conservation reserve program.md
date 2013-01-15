@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Merchantable timber
 
-&emsp;The term “merchantable timber” means timber on private nonindustrial forest land onwhich the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
+&emsp;The term “merchantable timber” means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
 
 #### (2) Private nonindustrial forest land
 
@@ -104,7 +104,7 @@ The Secretary shall carry out an emergency pilot program in States that the Secr
 
 #### References in Text
 
-Section 3843 of this title, referred to in subsec. (c)(3)(A), was amended generally by Pub. L. 110–246,title II, §2707(b), June 18, 2008, 122 Stat. 1805, and, as so amended, no longer contains provisions relating to county acreage limitations.
+Section 3843 of this title, referred to in subsec. (c)(3)(A), was amended generally by Pub. L. 110–246, title II, §2707(b), June 18, 2008, 122 Stat. 1805, and, as so amended, no longer contains provisions relating to county acreage limitations.
 
 #### Codification
 

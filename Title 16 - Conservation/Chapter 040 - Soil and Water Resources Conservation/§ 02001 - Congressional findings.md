@@ -30,5 +30,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Short Title
 
-Section 1 of Pub. L. 95–192 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Soil and Water Resources Conservation Act of 1977’.”
+Pub. L. 95–192, §1, Nov. 18, 1977, 91 Stat. 1407, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Soil and Water Resources Conservation Act of 1977’.”
 

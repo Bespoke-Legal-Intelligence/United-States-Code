@@ -40,5 +40,5 @@ Pub. L. 108–370, §1, Oct. 25, 2004, 118 Stat. 1750, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 100–300 provided that: “This Act \[enacting this chapter and amending section 663 of this title\] may be cited as the ‘International Child Abduction Remedies Act’.”
+Pub. L. 100–300, §1, Apr. 29, 1988, 102 Stat. 437, provided that: “This Act \[enacting this chapter and amending section 663 of this title\] may be cited as the ‘International Child Abduction Remedies Act’.”
 

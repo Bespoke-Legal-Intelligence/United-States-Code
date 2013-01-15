@@ -68,7 +68,7 @@ Consistent with the use of military installations and State-owned National Guard
 
 &emsp;(2) must be reviewed as to operation and effect by the parties thereto on a regular basis, but not less often than every 5 years; and
 
-&emsp;(3) may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals andrequire payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
+&emsp;(3) may, in the case of a military installation, stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
 
 &emsp;&emsp;(A) the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
 
@@ -278,5 +278,5 @@ Public Comment.—The Secretary of each military department shall provide an opp
 
 #### Applicability of 1986 Amendments to Existing Contracts
 
-Pub. L. 99–561, §3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending this section and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
+Pub. L. 99–561, §3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending this section and sections 670f and 670o of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
 

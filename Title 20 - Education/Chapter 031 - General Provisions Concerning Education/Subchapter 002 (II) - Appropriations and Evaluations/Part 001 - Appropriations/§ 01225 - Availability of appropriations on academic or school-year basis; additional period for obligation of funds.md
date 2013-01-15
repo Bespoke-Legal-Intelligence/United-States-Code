@@ -6,7 +6,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 #### (b) Succeeding fiscal year
 
-(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year, which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscalyear for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
+(1) Notwithstanding any other provision of law, unless enacted in specific limitation of the provisions of this subsection, any funds from appropriations to carry out any programs to which this chapter is applicable during any fiscal year,which are not obligated and expended by educational agencies or institutions prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure by such agencies and institutions during such succeeding fiscal year.
 
 (2) Any funds under any applicable program which, pursuant to paragraph (1), are available for obligation and expenditure in the year succeeding the fiscal year for which they were appropriated shall be obligated and expended in accordance with—
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subs
 
 #### Effective Date of 1974 Amendment
 
-Section 506(b) of Pub. L. 93–380 provided that: “The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §506(b), Aug. 21, 1974, 88 Stat. 565, provided that: “The amendments made by subsection (a) of this section \[enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title\] shall become effective on the date of enactment of this Act \[Aug. 21, 1974\].”
 
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 

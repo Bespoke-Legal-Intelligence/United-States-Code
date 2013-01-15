@@ -2,7 +2,7 @@
 
 #### (a) Contract authorization; amounts; use as security for obligations of public housing agency; use of existing structures
 
-(1) The Secretary may make annual contributions to public housing agencies to assist in achieving and maintaining the lower income character of their projects. The Secretary shall embody the provisions for such annual contributions in a contract guaranteeing their payment. The contribution payable annually under this section shall in no case exceed a sum equal to the annual amount of principal and interest payable on obligations issued by the public housing agency to finance the development or acquisition cost of the lower income project involved. Annual contributions payable under this section shall be pledged, if the Secretary so requires, as security for obligations issued by a public housing agency to assist the development or acquisition of the project to which annual contributions relate and shall be paid over a period not to exceed 40 years.
+(1) The Secretary may make annual contributions to public housing agencies to assist in achieving and maintaining the lower incomecharacter of their projects. The Secretary shall embody the provisions for such annual contributions in a contract guaranteeing their payment. The contribution payable annually under this section shall in no case exceed a sum equal to the annual amount of principal and interest payable on obligations issued by the public housing agency to finance the development or acquisition cost of the lower income project involved. Annual contributions payable under this section shall be pledged, if the Secretary so requires, as security for obligations issued by a public housing agency to assist the development or acquisition of the project to which annual contributions relate and shall be paid over a period not to exceed 40 years.
 
 (2) The Secretary may make contributions (in the form of grants) to public housing agencies to cover the development cost of public housing projects. The contract under which such contributions shall be made shall specify the amount of capital contributions required for each project to which the contract pertains, and that the terms and conditions of such contract shall remain in effect for a 40-year period.
 
@@ -24,15 +24,15 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 (5) During such period as the Secretary may prescribe for starting construction, the Secretary may approve the conversion of public housing development authority for use under section 1437g of this title or for use for the acquisition and rehabilitation of property to be used in public housing, if the public housing agency, after consultation with the unit of local government, certifies that such assistance would be more effectively used for such purpose, and if the total number of units assisted will not be less than 90 per centum of the units covered by the original reservation.
 
-(6) The aggregate amount of budget authority which may be obligated for contracts for annual contributions and for grants under section 1437<i>o</i> of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
+(6) The aggregate amount of budget authority which may be obligated for contracts for annual contributions and for grants under section 1437o of this title is increased by $9,912,928,000 on October 1, 1983, and by such sums as may be approved in appropriation Acts on October 1, 1984. The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title, for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987, and by $7,300,945,000 on October 1, 1988. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990, and by $14,709,400,000 on October 1, 1991. The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992, and by $15,328,852,122 on October 1993.
 
 (7)(A) Using the additional budget authority provided under paragraph (6) and the balances of budget authority that become available during fiscal year 1993, the Secretary shall, to the extent approved in appropriation Acts, reserve authority to enter into obligations aggregating—
 
 &emsp;(i) for public housing grants under subsection (a)(2) of this section, not more than $830,900,800, of which amount not more than $257,320,000 shall be available for Indian housing;
 
-&emsp;(ii) for assistance under section 1437f of this title, not more than $1,977,662,720, of which $20,000,000 shall be available for 15-year contracts for project-based assistance to be used for a multicultural tenant empowerment and homeownership project located in the District of Columbia, except that assistance provided for such project shall not be considered for purposes of the percentage limitations under section 1437f(i)(2) of this title; except that not more than 49 percent of any amounts appropriated under this clause may be used for vouchers under section 1437f(<i>o</i>) of this title;
+&emsp;(ii) for assistance under section 1437f of this title, not more than $1,977,662,720, of which $20,000,000 shall be available for 15-year contracts for project-based assistance to be used for a multicultural tenant empowerment and homeownership project located in the District of Columbia, except that assistance provided for such project shall not be considered for purposes of the percentage limitations under section 1437f(i)(2) of this title; except that not more than 49 percent of any amounts appropriated under this clause may be used for vouchers under section 1437f(o) of this title;
 
-&emsp;(iii) for comprehensive improvement assistance grants under section 1437<i>l</i>(k) of this title, not more than $3,100,000,000;
+&emsp;(iii) for comprehensive improvement assistance grants under section 1437l(k) of this title, not more than $3,100,000,000;
 
 &emsp;(iv) for assistance under section 1437f of this title for property disposition, not more than $93,032,000;
 
@@ -52,9 +52,9 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(i) for public housing grants under subsection (a)(2) of this section, not more than $865,798,634, of which amount not more than $268,127,440 shall be available for Indian housing;
 
-&emsp;(ii) for assistance under section 1437f of this title, not more than $2,060,724,554, of which $20,000,000 shall be available for 15-year contracts for project-based assistance to be used for a multicultural tenant empowerment and homeownership project located in the District of Columbia, except that assistance provided for such project shall not be considered for purposes of the percentage limitations under section 1437f(i)(2) of this title; except that not more than 49 percent of any amounts appropriated under this clause may be used for vouchers under section 1437f(<i>o</i>) of this title;
+&emsp;(ii) for assistance under section 1437f of this title, not more than $2,060,724,554, of which $20,000,000 shall be available for 15-year contracts for project-based assistance to be used for a multicultural tenant empowerment and homeownership project located in the District of Columbia, except that assistance provided for such project shall not be considered for purposes of the percentage limitations under section 1437f(i)(2) of this title; except that not more than 49 percent of any amounts appropriated under this clause may be used for vouchers under section 1437f(o) of this title;
 
-&emsp;(iii) for comprehensive improvement assistance grants under section 1437<i>l</i>(k) of this title, not more than $3,230,200,000;
+&emsp;(iii) for comprehensive improvement assistance grants under section 1437l(k) of this title, not more than $3,230,200,000;
 
 &emsp;(iv) for assistance under section 1437f of this title for property disposition, not more than $96,939,344;
 
@@ -70,7 +70,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(x) for grants under section 1437v of this title for revitalization of severely distressed public housing, not more than $312,600,000.
 
-(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for suchpurpose, shall be used for assistance under section 1437f(b)(1) of this title.
+(C)(i) Any amount available for the conversion of a project to assistance under section 1437f(b)(1) of this title, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
 (ii) Any amount available for assistance under section 1437f of this title for property disposition, if not required for such purpose, shall be used for assistance under section 1437f(b)(1) of this title.
 
@@ -84,7 +84,7 @@ Any contract for loans or annual contributions, or both, entered into by the Sec
 
 In recognition that there should be local determination of the need for low-income housing to meet needs not being adequately met by private enterprise—
 
-&emsp;(1) the Secretary shall not make any contract with a public housing agency for preliminary loans (all of which shall be repaid out of any moneys which become available to such agency for the development of the projects involved) for surveys and planning in respect to any low-income housing projects (i) unless the governing body of the locality involved has by resolution approved the application of the public housing agency for such preliminary loan; and (ii) unless the public housing agency has demonstrated to the satisfaction of the Secretary that there is need for such low-income housing which is not being met by private enterprise; and
+&emsp;(1) the Secretary shall not make any contract with a public housing agency for preliminary loans (all of which shall be repaid out of any moneys which become available to such agency for the development of the projects involved) for surveys and planning in respect to any low-income housing projects (i) unless the governing body of the locality involved has by resolution approved the application of the public housing agency for such preliminary loan; and (ii) unless the public housing agency has demonstrated to the satisfaction of theSecretary that there is need for such low-income housing which is not being met by private enterprise; and
 
 &emsp;(2) the Secretary shall not make any contract for loans (other than preliminary loans) or for contributions pursuant to this chapter unless the governing body of the locality involved has entered into an agreement with the public housing agency providing for the local cooperation required by the Secretary pursuant to this chapter; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing for which such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law).
 
@@ -110,13 +110,13 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 None of the funds made available to the Department of Housing and Urban Development to carry out this chapter, which are obligated to State or local governments, public housing agencies, housing finance agencies, or other public or quasi-public housing agencies, shall be used to indemnify contractors or subcontractors of the government or agency against costs associated with judgments of infringement of intellectual property rights.
 
-(Sept. 1, 1937, ch. 896, title I, §5, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 656; amended Pub. L. 94–375, §2(a), (b), Aug. 3, 1976, 90 Stat. 1067; Pub. L. 95–24, title I, §101(a), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(a), (b), Oct. 12, 1977, 91 Stat. 1128; Pub. L. 95–557, title II, §206(a), (b), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 95–619, title II, §251(a), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title II, §201(a), (b), Dec. 21, 1979, 93 Stat. 1105; Pub. L. 96–399, title II, §§201(a), 210, Oct. 8, 1980, 94 Stat. 1624, 1636; Pub. L. 97–35, title III, §§321(a)–(c), 322(c), Aug. 13, 1981, 95 Stat. 398, 402; Pub. L. 98–181, title II, §201(b), Nov. 30, 1983, 97 Stat. 1176; Pub. L. 100–242, title I, §§101, 112(a), (b)(1), 113–115, Feb. 5, 1988, 101 Stat. 1820, 1823–1825; renumbered title I and amended Pub. L. 100–358, §§3, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–625, title IV, §417(a), title V, §§571, 572(2), Nov. 28, 1990, 104 Stat. 4161, 4235, 4236; Pub. L. 102–550, title I, §§101, 111(a), title VI, §624, Oct. 28, 1992, 106 Stat. 3681, 3687, 3819; Pub. L. 104–19, title I, §1002(c), July 27, 1995, 109 Stat. 236; Pub. L. 104–330, title V, §501(b)(2), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§510, 518(a)(1), (b), 522(b)(1), 566, Oct. 21, 1998, 112 Stat. 2531, 2551, 2564, 2632.)
+(Sept. 1, 1937, ch. 896, title I, §5, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 656; amended Pub. L. 94–375, §2(a), (b), Aug. 3, 1976, 90 Stat. 1067; Pub. L. 95–24, title I, §101(a), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(a), (b), Oct. 12, 1977, 91 Stat. 1128; Pub. L. 95–557, title II, §206(a), (b), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 95–619, title II, §251(a), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title II, §201(a), (b), Dec. 21, 1979, 93 Stat. 1105; Pub. L. 96–399, title II, §§201(a), 210, Oct. 8, 1980, 94 Stat. 1624, 1636; Pub. L. 97–35, title III, §§321(a)–(c), 322(c), Aug. 13, 1981, 95 Stat. 398, 402; Pub. L. 98–181, title I \[title II, §201(b)\], Nov. 30, 1983, 97 Stat. 1176; Pub. L. 100–242, title I, §§101, 112(a), (b)(1), 113–115, Feb. 5,1988, 101 Stat. 1820, 1823–1825; renumbered title I and amended Pub. L. 100–358, §§3, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–625, title IV, §417(a), title V, §§571, 572(2), Nov. 28, 1990, 104 Stat. 4161, 4235, 4236; Pub. L. 102–550, title I, §§101, 111(a), title VI, §624, Oct. 28, 1992, 106 Stat. 3681, 3687, 3819; Pub. L. 104–19, title I, §1002(c), July 27, 1995, 109 Stat. 236; Pub. L. 104–330, title V, §501(b)(2), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§510, 518(a)(1), (b), 522(b)(1), 566, Oct. 21, 1998, 112 Stat. 2531, 2551, 2564, 2632.)
 
 #### References in Text
 
-Section 1437<i>o</i> of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+Section 1437o of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-Section 1437<i>l</i> of this title, referred to in subsec. (c)(7)(A)(iii), (B)(iii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (c)(7)(A)(iii), (B)(iii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 Section 1421b of this title, referred to in subsec. (c)(7)(A)(ix), (B)(ix), was omitted in the general revision of this chapter by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
@@ -128,7 +128,7 @@ A prior section 5 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enume
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(5). Pub. L. 105–276, §522(b)(1), substituted “for use under section 1437g of this title” for “for use under section 1437<i>l</i> of this title”.
+<b>1998</b>—Subsec. (c)(5). Pub. L. 105–276, §522(b)(1), substituted “for use under section 1437g of this title” for “for use under section 1437l of this title”.
 
 Subsec. (e)(2). Pub. L. 105–276, §518(b), inserted before period at end “; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing for which such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law)”.
 
@@ -136,17 +136,17 @@ Subsec. (h). Pub. L. 105–276, §566, added subsec. (h).
 
 Pub. L. 105–276, §518(a)(1)(A), struck out subsec. (h) which read as follows: “Notwithstanding any other provision of law, a public housing agency may sell a low-income housing project to its lower income tenants, on such terms and conditions as the agency may determine, without affecting the Secretary's commitment to pay annual contributions with respect to that project, but such contributions shall not exceed the maximum contributions authorized under subsection (a) of this section.”
 
-Subsec. (i). Pub. L. 105–276, §518(a)(1), redesignated subsec. (<i>l</i>) as (i) and struck out former subsec. (i) which read as follows: “In entering into contracts for assistance with respect to newly constructed or substantially rehabilitated projects under this section (other than for projects assisted pursuant to section 1437f of this title), the Secretary shall require the installation of a passive or active solar energy system in any such project where the Secretary determines that such installation would be cost effective over the estimated life of the system.”
+Subsec. (i). Pub. L. 105–276, §518(a)(1), redesignated subsec. (l) as (i) and struck out former subsec. (i) which read as follows: “In entering into contracts for assistance with respect to newly constructed or substantially rehabilitated projects under this section (other than for projects assisted pursuant to section 1437f of this title), the Secretary shall require the installation of a passive or active solar energy system in any such project where the Secretary determines that such installation would be cost effective over the estimated life of the system.”
 
 Subsecs. (j), (k). Pub. L. 105–276, §518(a)(1)(A), struck out subsecs. (j) and (k), which had: in subsec. (j), placed conditions upon reservation of funds for development of public housing after Sept. 30, 1987, and placed limitations on amounts used for redesign, reconstruction, redevelopment, or operational improvement of existing projects, but directed that not less than 5 percent of certain amounts appropriated in fiscal years 1993 and 1994 be reserved for public housing projects designated for elderly or disabled families; and in subsec. (k), prohibited recapture of amounts of public housing development funds reserved to a public housing agency for failure to begin construction or rehabilitation, or to complete acquisition, during 30-month period following date of reservation.
 
-Subsec. (<i>l</i>). Pub. L. 105–276, §518(a)(1)(B), redesignated subsec. (<i>l</i>) as (i).
+Subsec. (l). Pub. L. 105–276, §518(a)(1)(B), redesignated subsec. (l) as (i).
 
-Pub. L. 105–276, §510, added subsec. (<i>l</i>).
+Pub. L. 105–276, §510, added subsec. (l).
 
 <b>1996</b>—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian publichousing agency in collecting rents owed by tenants unless—
+Subsec. (l). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (l) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
@@ -194,13 +194,13 @@ Subsec. (c)(8). Pub. L. 100–358, §3, added par. (8).
 
 Subsec. (e)(2). Pub. L. 100–242, §112(b)(1)(B), struck out “annual” before “contributions”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 100–242, §§113–115, added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 100–242, §§113–115, added subsecs. (j) to (l).
 
 <b>1983</b>—Subsec. (c)(1). Pub. L. 98–181, §201(b)(1), struck out concluding provision requiring the Secretary, in utilizing the additional authority to enter into contracts on and after Oct. 1, 1980, to administer the authorized programs to provide assistance, to the maximum extent practicable, consistent with section 1439(d) of this title.
 
-Subsec. (c)(2). Pub. L. 98–181, §201(b)(2), redesignated par. (4) as (2), and struck out former par. (2) which from funds made available on Oct. 1, 1980, had required at least $100,000,000 be available for section 1437<i>l</i> projects, and from remaining difference limited use of funds to 37.5 and 62.5 per centum for existing section 1437f projects and for newly constructed and substantially rehabilitated units.
+Subsec. (c)(2). Pub. L. 98–181, §201(b)(2), redesignated par. (4) as (2), and struck out former par. (2) which from funds made available on Oct. 1, 1980, had required at least $100,000,000 be available for section 1437l projects, and from remaining difference limited use of funds to 37.5 and 62.5 per centum for existing section 1437f projects and for newly constructed and substantially rehabilitated units.
 
-Subsec. (c)(3). Pub. L. 98–181, §201(b)(2), redesignated par. (5) as (3), and struck out former par. (3) which from funds made available on Oct. 1, 1981, had required at least $75,000,000 be available for section 1437<i>l</i> projects, from remaining difference allocated sums as provided in section 1439(d) for different community and area uses, and from remaining difference required the accommodation of preferences of units of local government based on stated factors.
+Subsec. (c)(3). Pub. L. 98–181, §201(b)(2), redesignated par. (5) as (3), and struck out former par. (3) which from funds made available on Oct. 1, 1981, had required at least $75,000,000 be available for section 1437l projects, from remaining difference allocated sums as provided in section 1439(d) for different community and area uses, and from remaining difference required the accommodation of preferences of units of local government based on stated factors.
 
 Subsec. (c)(4). Pub. L. 98–181, §201(b)(2), redesignated par. (6) as (4). Former par. (4) redesignated (2).
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1995 Amendment
 
-Section 1002(d) of Pub. L. 104–19, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998.”
+Pub. L. 104–19, title I, §1002(d), July 27, 1995, 109 Stat. 236, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998.”
 
 #### Effective Date of 1992 Amendment
 
@@ -246,7 +246,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Effective Date of 1990 Amendment
 
-Section 417(b) of Pub. L. 101–625 provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to applications submitted under section 5(h) of the United States Housing Act of 1937 \[subsec. (h) of this section\] prior to October 1, 1990.”
+Pub. L. 101–625, title IV, §417(b), Nov. 28, 1990, 104 Stat. 4161, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to applications submitted under section 5(h) of the United States Housing Act of 1937 \[subsec. (h) of this section\] prior to October 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
@@ -258,11 +258,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date of 1978 Amendment
 
-Section 206(h) of Pub. L. 95–557 provided that: “The amendments made by this section \[amending this section and sections 1437a, 1437f, and 1437g of this title\], except the amendment made by subsection (d) \[amending section 1437f of this title\], shall become effective on October 1, 1978.”
+Pub. L. 95–557, title II, §206(h), Oct. 31, 1978, 92 Stat. 2093, provided that: “The amendments made by this section \[amending this section and sections 1437a, 1437f, and 1437g of this title\], except the amendment made by subsection (d) \[amending section 1437f of this title\], shall become effective on October 1, 1978.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2(b)(1), (2) of Pub. L. 94–375 provided that the amendment of subsec. (c), which required the Secretary to make available a total of $200,000,000 for modernization and financing of low-income housing and which struck out reference to the amount of contracts the Secretary was required to enter into under the second sentence of this subsection, is effective Oct. 1, 1976.
+Pub. L. 94–375, §2(b)(1), (2), Aug. 3, 1976, 90 Stat. 1067, provided that the amendment of subsec. (c), which required the Secretary to make available a total of $200,000,000 for modernization and financing of low-income housing and which struck out reference to the amount of contracts the Secretary was required to enter into under the second sentence of this subsection, is effective Oct. 1, 1976.
 
 #### Effective Date
 
@@ -270,7 +270,7 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 
 #### Regulations
 
-Section 111(c) of Pub. L. 102–550 provided that: “The Secretary shall issue regulations necessary to carry out the amendments made by this section \[amending this section and sections 1437<i>l</i> and 1437p of this title\] as provided under section 191 of this Act \[42 U.S.C. 1437a note\].”
+Pub. L. 102–550, title I, §111(c), Oct. 28, 1992, 106 Stat. 3689, provided that: “The Secretary shall issue regulations necessary to carry out the amendments made by this section \[amending this section and sections 1437l and 1437p of this title\] as provided under section 191 of this Act \[42 U.S.C. 1437a note\].”
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
@@ -278,11 +278,11 @@ Amendment by section 624 of Pub. L. 102–550 not applicable with respect to low
 
 #### Increase in Budget Authority for Certificate and Voucher Programs for Disaster Relief
 
-Section 931 of Pub. L. 101–625, as amended by Pub. L. 105–276, title V, §550(c), Oct. 21, 1998, 112 Stat. 2609, provided that: “The budget authority available under section 5(c) of the United States Housing Act of 1937 (42 U.S.C. 1437c(c)) for tenant-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is authorized to be increased in any fiscal year in which a major disaster is declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] in such amounts as may be necessary to provide assistance under such programs for individuals and families whose housing has been damaged or destroyed as a result of such disaster, except that in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.”
+Pub. L. 101–625, title IX, §931, Nov. 28, 1990, 104 Stat. 4403, as amended by Pub. L. 105–276, title V, §550(c), Oct. 21, 1998, 112 Stat. 2609, provided that: “The budget authority available under section 5(c) of the United States Housing Act of 1937 (42 U.S.C. 1437c(c)) for tenant-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] is authorized to be increased in any fiscal year in which a major disaster is declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] in such amounts as may be necessary to provide assistance under such programs for individuals and families whose housing has been damaged or destroyed as a result of such disaster, except that in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.”
 
 #### Increase in Budget Authority for Moderate Rehabilitation Program for Disaster Relief
 
-Section 932 of Pub. L. 101–625 provided that: “The budget authority available under section 5(c) of the United States Housing Act of 1937 (42 U.S.C. 1437c(c)) for assistance under the moderate rehabilitation program under section 8(e)(2) of such Act \[42 U.S.C. 1437f(e)(2)\] is authorized to be increased in any fiscal year in which a major disaster is declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] in such amount as may be necessary to provide assistance under such program for individuals and families whose housing has been damaged or destroyed as a result of such disaster, except that in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.”
+Pub. L. 101–625, title IX, §932, Nov. 28, 1990, 104 Stat. 4403, provided that: “The budget authority available under section 5(c) of the United States Housing Act of1937 (42 U.S.C. 1437c(c)) for assistance under the moderate rehabilitation program under section 8(e)(2) of such Act \[42 U.S.C. 1437f(e)(2)\] is authorized to be increased in any fiscal year in which a major disaster is declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] in such amount as may be necessary to provide assistance under such program for individuals and families whose housing has been damaged or destroyed as a result of such disaster, except that in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

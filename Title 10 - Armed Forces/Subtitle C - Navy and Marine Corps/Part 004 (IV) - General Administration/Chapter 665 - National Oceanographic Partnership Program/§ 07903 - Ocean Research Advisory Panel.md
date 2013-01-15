@@ -54,5 +54,5 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 #### Initial Appointments of Panel Members
 
-Section 282(b), formerly §282(c), of Pub. L. 104–201, as renumbered and amended by Pub. L. 105–85, div. A, titleII, §241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: “The National Ocean Research Leadership Council established by section 7902 of title 10, United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 of such title not later than January 1, 1998.”
+Pub. L. 104–201, div. A, title II, §282(b), formerly §282(c), Sept. 23, 1996, 110 Stat. 2473, as renumbered and amended by Pub. L. 105–85, div. A, title II, §241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: “The National Ocean Research Leadership Council established by section 7902 of title 10, United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 of such title not later than January 1, 1998.”
 

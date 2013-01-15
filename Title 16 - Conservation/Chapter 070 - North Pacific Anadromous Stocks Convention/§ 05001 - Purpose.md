@@ -14,7 +14,7 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 #### Short Title
 
-Section 8001 of title VIII of Pub. L. 102–587, which provided that title VIII of Pub. L. 102–587, which enacted this chapter and repealed sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title, could be cited as the “North Pacific Anadromous Stocks Convention Act of 1992”, was repealed by Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.
+Pub. L. 102–587, title VIII, §8001, Nov. 4, 1992, 106 Stat. 5098, which provided that title VIII of Pub. L. 102–587, which enacted this chapter and repealed sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title, could be cited as the “North Pacific Anadromous Stocks Convention Act of 1992”, was repealed by Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.
 
-Section 801 of title VIII of Pub. L. 102–567 provided that: “This title \[enacting this chapter and repealing sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title\] may be cited as the ‘North Pacific Anadromous Stocks Act of 1992’.”
+Pub. L. 102–567, title VIII, §801, Oct. 29, 1992, 106 Stat. 4309, provided that: “This title \[enacting this chapter and repealing sections 1021 to 1023, 1025 to 1027, 1029, 1030, and 1032 to 1035 of this title and provisions set out as notes under section 1021 of this title\] may be cited as the ‘North Pacific Anadromous Stocks Act of 1992’.”
 

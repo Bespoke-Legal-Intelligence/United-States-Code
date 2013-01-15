@@ -10,15 +10,13 @@
 
 (e) No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53, §406b; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502; renumbered §476b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(8), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53, §406b; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502; renumbered §476b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(8), (f)(4)(A), Dec. 31, 2011,125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404” in subsecs. (a) and (b) and “476” for “406” in subsec. (c). See Codification note above.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” in subsecs. (a) and (b) and “476” for “406” in subsec. (c).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 406b of this title as this section.
 
@@ -40,13 +38,17 @@ Subsecs. (a) to (d). Pub. L. 99–145, §616(a), designated existing provisions 
 
 <b>1973</b>—Pub. L. 93–170 substituted “overhauling or inactivating” for “overhauling” in section catchline, and “overhauled or inactivated” and “overhaul or inactivation” for “overhauled” and “overhaul” respectively, wherever appearing in text.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 1987 Amendment
 
 Amendment by section 1233(a)(3) of Pub. L. 100–180 applicable as if included in the enactment of the Defense Technical Corrections Act of 1987, Pub. L. 100–26, see section 1233(c) of Pub. L. 100–180, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1985 Amendment
 
-Section 616(b) of Pub. L. 99–145 provided that: “The travel allowances authorized by the amendments made by this section \[amending this section\] are payable only for travel that commences after September 30, 1985, but may be paid for members assigned to vessels being overhauled or inactivated away from home port on the date of the enactment of this Act \[Nov. 8, 1985\].”
+Pub. L. 99–145, title VI, §616(b), Nov. 8, 1985, 99 Stat. 641, provided that: “The travel allowances authorized by the amendments made by this section \[amending this section\] are payable only for travel that commences after September 30, 1985, but may be paid for members assigned to vessels being overhauled or inactivated away from home port on the date of the enactment of this Act \[Nov. 8, 1985\].”
 
 #### Effective Date of 1980 Amendment
 

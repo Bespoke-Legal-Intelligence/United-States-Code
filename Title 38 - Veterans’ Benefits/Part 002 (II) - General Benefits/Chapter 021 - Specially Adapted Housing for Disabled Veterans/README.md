@@ -12,10 +12,13 @@
 | [2106\.](%C2%A7%2002106%20-%20Veterans%E2%80%99%20mortgage%20life%20insurance.md) | Veterans’ mortgage life insurance. |
 | [2107\.](%C2%A7%2002107%20-%20Coordination%20of%20administration%20of%20benefits.md) | Coordination of administration of benefits. |
 | [2108\.](%C2%A7%2002108%20-%20Specially%20adapted%20housing%20assistive%20technology%20grant%20program.md) | Specially adapted housing assistive technology grant program. |
+| [2109\.](%C2%A7%2002109%20-%20Specially%20adapted%20housing%20destroyed%20or%20damaged%20by%20natural%20disasters.md) | Specially adapted housing destroyed or damaged by natural disasters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154, title VII, §701(a)(2), Aug. 6, 2012, 126 Stat. 1203, added item 2109.
 
 <b>2010</b>—Pub. L. 111–275, title II, §203(b), Oct. 13, 2010, 124 Stat. 2874, added item 2108.
 
@@ -46,3 +49,4 @@
 - [&sect; 02106 - Veterans&#8217; mortgage life insurance](%C2%A7%2002106%20-%20Veterans%E2%80%99%20mortgage%20life%20insurance.md)
 - [&sect; 02107 - Coordination of administration of benefits](%C2%A7%2002107%20-%20Coordination%20of%20administration%20of%20benefits.md)
 - [&sect; 02108 - Specially adapted housing assistive technology grant program](%C2%A7%2002108%20-%20Specially%20adapted%20housing%20assistive%20technology%20grant%20program.md)
+- [&sect; 02109 - Specially adapted housing destroyed or damaged by natural disasters](%C2%A7%2002109%20-%20Specially%20adapted%20housing%20destroyed%20or%20damaged%20by%20natural%20disasters.md)

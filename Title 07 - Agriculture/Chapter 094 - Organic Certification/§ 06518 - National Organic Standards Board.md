@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National Organic Standards Board (in accordance with the Federal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
+The Secretary shall establish a National Organic Standards Board (in accordance with theFederal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
 
 #### (b) Composition of Board
 
@@ -80,7 +80,7 @@ The Secretary shall authorize the Board to hire a staff director and shall detai
 
 &emsp;The Board shall advise the Secretary concerning rules for exemptions from specific requirements of this chapter (except the provisions of section 6511 of this title) with respect to agricultural products produced on certified organic farms if such farms are subject to a Federal or State emergency pest or disease treatment program.
 
-#### (<i>l</i>) Requirements
+#### (l) Requirements
 
 In establishing the proposed National List or proposed amendments to the National List, the Board shall—
 
@@ -96,7 +96,7 @@ In evaluating substances considered for inclusion in the proposed National List 
 
 &emsp;(1) the potential of such substances for detrimental chemical interactions with other materials used in organic farming systems;
 
-&emsp;(2) the toxicity and mode of action of the substance and of its breakdown products orany contaminants, and their persistence and areas of concentration in the environment;
+&emsp;(2) the toxicity and mode of action of the substance and of its breakdown products or any contaminants, and their persistence and areas of concentration in the environment;
 
 &emsp;(3) the probability of environmental contamination during manufacture, use, misuse or disposal of such substance;
 
@@ -112,7 +112,7 @@ In evaluating substances considered for inclusion in the proposed National List 
 
 The Board shall establish procedures under which persons may petition the Board for the purpose of evaluating substances for inclusion on the National List.
 
-#### (<i>o</i>) Confidentiality
+#### (o) Confidentiality
 
 Any confidential business information obtained by the Board in carrying out this section shall not be released to the public.
 

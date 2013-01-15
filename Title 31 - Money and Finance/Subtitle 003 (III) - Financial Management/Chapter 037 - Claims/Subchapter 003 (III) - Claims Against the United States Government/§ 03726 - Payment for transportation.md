@@ -8,7 +8,7 @@
 
 (4) The audit authority provided to agencies by this section is subject to oversight by the Administrator.
 
-(b) The Administrator may conduct pre- or post-payment audits of transportation bills of any Federal agency. The number and types ofbills audited shall be based on the Administrator's judgment.
+(b) The Administrator may conduct pre- or post-payment audits of transportation bills of any Federal agency. The number and types of bills audited shall be based on the Administrator's judgment.
 
 (c)(1) The Administrator shall adjudicate transportation claims which cannot be resolved by the agency procuring the transportation services, or the carrier or freight-forwarder presenting the bill.
 
@@ -34,7 +34,7 @@
 
 (f) At least annually, and as determined by the Administrator, after making adequate provision for expense of refunds to carriers, transportation audit postpayment contracts, contract administration, and other expenses authorized in subsection (e), overpayments collected by the General Services Administration shall be transferred to miscellaneous receipts of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress. This reporting requirement expires December 31, 1998.
 
-(g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
+(g) The Administrator may delegate any authority conferred by this section to anotheragency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
 (h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
@@ -44,7 +44,7 @@
 
 (j) The Administrator of General Services may provide transportation audit and related technical assistance services, on a reimbursable basis, to any other agency. Such reimbursements may be credited to the appropriate revolving fund or appropriation from which the expenses were incurred.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, §306, Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–316, title II, §202(<i>o</i>), Oct. 19, 1996, 110 Stat. 3844; Pub. L. 105–264, §3(a)(3), Oct. 19, 1998, 112 Stat. 2353.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, §306, Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–316, title II, §202(o), Oct. 19, 1996, 110 Stat. 3844; Pub. L. 105–264, §3(a)(3), Oct. 19, 1998, 112 Stat. 2353.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ In the section, the words “Administrator of General Services” are substitute
 
 In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” areomitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
+In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
 In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
 
@@ -116,9 +116,9 @@ Subsec. (i)(1). Pub. L. 105–264, §3(a)(3)(E), substituted “subsection (c)�
 
 Subsec. (j). Pub. L. 105–264, §3(a)(3)(F), added subsec. (j).
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–316, §202(<i>o</i>)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–316, §202(o)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
 
-Subsec. (g)(1). Pub. L. 104–316, §202(<i>o</i>)(2), substituted “Administrator of General Services” for “Comptroller General”.
+Subsec. (g)(1). Pub. L. 104–316, §202(o)(2), substituted “Administrator of General Services” for “Comptroller General”.
 
 <b>1995</b>—Subsec. (b)(1). Pub. L. 104–88, §306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Section 7(a) of Pub. L. 103–429 provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 103–429, §7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
 
 #### Effective Date of 1984 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Task Force
 
-Section 2 of Pub. L. 99–627 provided that:
+Pub. L. 99–627, §2, Nov. 7, 1986, 100 Stat. 3508, provided that:
 
 “(a) Within 60 days after the date of enactment of this Act \[Nov. 7, 1986\], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of an integrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
 

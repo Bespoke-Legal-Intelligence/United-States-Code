@@ -114,7 +114,7 @@ Par. (8). Pub. L. 94–566, §214(b), added par. (8).
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-Section 4(c) of Pub. L. 96–215 provided that: “The amendments made by this section \[amending this section and section 8521 of this title\] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act \[Mar. 25, 1980\].”
+Pub. L. 96–215, §4(c), Mar. 25, 1980, 94 Stat. 124, provided that: “The amendments made by this section \[amending this section and section 8521 of this title\] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act \[Mar. 25, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Amendment by section 116(e)(1) of Pub. L. 94–566 applicable with respect to benefit years beginning on or after the later of Oct. 1, 1976, or the first day of the first week for which compensation becomes payable under an unemployment compensation law of the Virgin Islands which is approved by the Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
-Section 214(c) of Pub. L. 94–566 provided that: “The amendments made by this section \[amending this section and section 8505 of this title\] shall apply with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977”.
+Pub. L. 94–566, title II, §214(c), Oct. 20, 1976, 90 Stat. 2678, provided that: “The amendments made by this section \[amending this section and section 8505 of this title\] shall apply with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977”.
 
 #### Temporary 1990 Census Services Constituting Federal Service
 

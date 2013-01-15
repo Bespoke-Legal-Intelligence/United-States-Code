@@ -1,4 +1,0 @@
-### \[§5118. Repealed. Pub. L. 109–59, title VII, §7115(h), Aug. 10, 2005, 119 Stat. 1901\]
-
-Section, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 108–426, §2(c)(2), Nov. 30, 2004, 118 Stat. 2424, related to employment of additional hazardous material safety inspectors.
-

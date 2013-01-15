@@ -40,7 +40,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in thedetermination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -72,7 +72,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (A) In general
 
-&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
+&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferredpursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -108,7 +108,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Refinancing to secure variable interest rate
 
-&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate providedunder section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
+&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
 
 #### (3) Refinancing by discharge of previous loan
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g),Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 
@@ -176,7 +176,7 @@ Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted “the graduate or 
 
 Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
 
-Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
+Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section 428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
 
 Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
 
@@ -204,13 +204,13 @@ Pub. L. 102–325, §418(b)(3), redesignated subsec. (c) as (d). Former subsec. 
 
 Subsec. (e). Pub. L. 102–325, §418(b)(3), redesignated subsec. (d) as (e).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–50, §10(<i>o</i>)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50, §10(o)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
 
 Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, substituting “for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid” for “which would cause the combined loans of the parent and the student for any academic year to exceed the student's estimated cost of attendance minus such student's estimated financial assistance”.
 
-Subsec. (c)(1). Pub. L. 100–50, §10(<i>o</i>)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
+Subsec. (c)(1). Pub. L. 100–50, §10(o)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for“under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
 
@@ -240,7 +240,7 @@ Amendment by section 419 of Pub. L. 105–244 effective Oct. 1, 1998, except as 
 
 #### Effective Date of 1993 Amendment
 
-Section 4109(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 1078–7 of this title\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993.”
+Pub. L. 103–66, title IV, §4109(c), Aug. 10, 1993, 107 Stat. 370, provided that: “The amendments made by this section \[amending this section and section 1078–7 of this title\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993.”
 
 #### Effective Date of 1992 Amendment
 
@@ -248,9 +248,9 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 
-Section 10(r)(2) of Pub. L. 100–50 provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
+Pub. L. 100–50, §10(r)(2), June 3, 1987, 101 Stat. 344, provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
 

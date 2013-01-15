@@ -34,7 +34,7 @@ No provision of this section shall be construed to require or imply that a Nativ
 
 (1) A Native Corporation that, but for this section, would be subject to the provisions of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] shall annually prepare and transmit to its shareholders a report that contains substantially all the information required to be included in an annual report to shareholders by a corporation subject to that Act.
 
-(2) For purposes of determining the applicability of the registration requirements of the Securities Exchange Act of 1934 on or after the date described in subsection (a) of this section, holders of Settlement Common Stock shall be excluded from the calculation of the number of shareholders of record pursuant to section 12(g) of that Act \[15 U.S.C. 78<i>l</i>(g)\].
+(2) For purposes of determining the applicability of the registration requirements of the Securities Exchange Act of 1934 on or after the date described in subsection (a) of this section, holders of Settlement Common Stock shall be excluded from the calculation of the number of shareholders of record pursuant to section 12(g) of that Act \[15 U.S.C. 78l(g)\].
 
 #### (d) Wholly owned subsidiaries; Settlement Trusts; voluntary registration as Investment Company
 
@@ -60,5 +60,5 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act
 
 #### Construction of Alaska Native Claims Settlement Act With Pub. L. 94–204
 
-Section 18 of Pub. L. 94–204 provided that: “Except as specifically provided in this Act \[enacting this section and sections 1626 and 1627 of this title, amending sections 1615, 1616, 1620 and 1621 of this title, and enacting provisions set out as notes under this section and sections 1604, 1605, 1611, 1613, and 1618 of this title\], (i) the provisions of the Settlement Act \[this chapter\] are fully applicable to this Act, and (ii) nothing in this Act shall be construed to alter or amend any of such provisions.”
+Pub. L. 94–204, §18, Jan. 2, 1976, 89 Stat. 1156, provided that: “Except as specifically provided in this Act \[enacting this section and sections 1626 and 1627 of this title, amending sections 1615, 1616, 1620 and 1621 of this title, and enacting provisions set out as notes under this section and sections 1604, 1605, 1611, 1613, and 1618 of this title\], (i) the provisions of the Settlement Act \[this chapter\] are fully applicable to this Act, and (ii) nothing in this Act shall be construed to alter or amend any of such provisions.”
 

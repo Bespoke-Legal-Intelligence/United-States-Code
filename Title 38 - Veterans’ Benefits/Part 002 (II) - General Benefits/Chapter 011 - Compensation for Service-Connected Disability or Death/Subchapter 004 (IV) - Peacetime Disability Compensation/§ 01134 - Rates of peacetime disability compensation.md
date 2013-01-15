@@ -14,5 +14,5 @@ Pub. L. 102–83, §5(c)(1), substituted “1131” for “331” and “1114”
 
 #### Effective Date of 1972 Amendment
 
-Section 301(b) of Pub. L. 92–328 provided that: “Section 108 \[repealing section 336 of this title and amending this section and section 335 \[now 1135\] of this title\] shall take effect on July 1, 1973.”
+Pub. L. 92–328, title III, §301(b), June 30, 1972, 86 Stat. 398, provided that: “Section 108 \[repealing section 336 of this title and amending this section and section 335 \[now 1135\] of this title\] shall take effect on July 1, 1973.”
 

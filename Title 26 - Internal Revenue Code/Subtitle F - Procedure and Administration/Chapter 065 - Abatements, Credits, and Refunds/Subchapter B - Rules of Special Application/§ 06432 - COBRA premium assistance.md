@@ -34,7 +34,7 @@ Except as otherwise provided by the Secretary—
 
 #### (1) Treatment as payment of payroll taxes
 
-&emsp;Each person entitled to reimbursement under subsection (a) (and filing a claim forsuch reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and section 1324(b)(2) of title 31, United States Code, as having paid to the Secretary, on the date that the assistance eligible individual's premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person's liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
+&emsp;Each person entitled to reimbursement under subsection (a) (and filing a claim for such reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and section 1324(b)(2) of title 31, United States Code, as having paid to the Secretary, on the date that the assistance eligible individual's premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person's liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
 
 #### (2) Overstatements
 
@@ -120,7 +120,7 @@ Pub. L. 111–144, §3(c), Mar. 2, 2010, 124 Stat. 45, provided that: “The ame
 
 #### Effective Date
 
-Section applicable to premiums to which section 3001(a)(1)(A) of Pub. L. 111–5, set out as a note below, applies, see section 3001(a)(12)(D) of Pub. L. 111–5, set out as a note below.
+Section applicable to premiums to which section 3001(a)(1)(A) of Pub. L. 111–5, set out as a note below,applies, see section 3001(a)(12)(D) of Pub. L. 111–5, set out as a note below.
 
 #### Premium Assistance for COBRA Benefits
 
@@ -272,7 +272,7 @@ Specific requirements.—Each additional notification under subparagraph (A) sha
 
 &emsp;&emsp;&emsp;“(iii) a description of the extended election period provided for in paragraph (4)(A),
 
-&emsp;&emsp;&emsp;“(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under anothergroup health plan or eligibility for benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan,
+&emsp;&emsp;&emsp;“(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under another group health plan or eligibility for benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan,
 
 &emsp;&emsp;&emsp;“(v) a description, displayed in a prominent manner, of the qualified beneficiary's right to a reduced premium and any conditions on entitlement to the reduced premium, and
 
@@ -382,7 +382,7 @@ Special rule.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In the case of an assistance eligible individual who pays, with respect to thefirst period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
+In general.—In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or
 
@@ -504,7 +504,7 @@ New election period.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on thebasis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
+In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph \[Mar. 2, 2010\] shall be treated as a qualifying event.
 
 &emsp;&emsp;&emsp;“(ii)
 

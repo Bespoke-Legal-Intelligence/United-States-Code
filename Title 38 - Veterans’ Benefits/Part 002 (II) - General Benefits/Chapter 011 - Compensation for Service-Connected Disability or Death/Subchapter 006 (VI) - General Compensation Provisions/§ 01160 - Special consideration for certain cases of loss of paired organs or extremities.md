@@ -20,7 +20,7 @@
 
 (b) If a veteran described in subsection (a) of this section receives any money or property of value pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the non-service-connected disability described in such subsection, the increase in the rate of compensation otherwise payable under this section shall not be paid for any month following a month in which any such money or property is received until such time as the total of the amount of such increase that would otherwise have been payable equals the total of the amount of any such money received and the fair market value of any such property received.
 
-(Added Pub. L. 87–610, §1, Aug. 28, 1962, 76 Stat. 406, §360; amended Pub. L. 89–311, §3(a), (b), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 94–433, title IV, §404(22), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, §702(3), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title I, §109(a)(1), Oct. 28,1986, 100 Stat. 3253; renumbered §1160 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–330, title I, §103, Dec. 6, 2002, 116 Stat. 2821; Pub. L. 110–157, title I, §102, Dec. 26, 2007, 121 Stat. 1831.)
+(Added Pub. L. 87–610, §1, Aug. 28, 1962, 76 Stat. 406, §360; amended Pub. L. 89–311, §3(a), (b), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 94–433, title IV, §404(22), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, §702(3), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title I, §109(a)(1), Oct. 28, 1986, 100 Stat. 3253; renumbered §1160 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–330, title I, §103, Dec. 6, 2002, 116 Stat. 2821; Pub. L. 110–157, title I, §102, Dec. 26, 2007, 121 Stat. 1831.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 #### Effective Date of 1986 Amendment
 
-Section 109(c) of Pub. L. 99–576 provided that:
+Pub. L. 99–576, title I, §109(c), Oct. 28, 1986, 100 Stat. 3253, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 314 \[now 1114\] of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1986\].
 

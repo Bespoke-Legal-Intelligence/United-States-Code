@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the rules of this paragraph apply to any foreign trust, the determination of amountsrequired to be taken into account with respect to such trust by a United States person under the rules of subpart E of part I of subchapter J of chapter 1 shall be determined by the Secretary.
+&emsp;&emsp;If the rules of this paragraph apply to any foreign trust, the determination of amounts required to be taken into account with respect to such trust by a United States person under the rules of subpart E of part I of subchapter J of chapter 1 shall be determined by the Secretary.
 
 #### (B) United States agent required
 
@@ -140,7 +140,7 @@
 
 Subsec. (d)(5). Pub. L. 105–34, §1027(b), added par. (5).
 
-<b>1996</b>—Pub. L. 104–188 amended section generally, substituting provisions calling for improved information reporting on foreign trusts for provisions calling for the filing of returns as to foreign trusts, prescribing the form and contents of such returns, and requiringannual returns for foreign trusts with one or more United States beneficiaries.
+<b>1996</b>—Pub. L. 104–188 amended section generally, substituting provisions calling for improved information reporting on foreign trusts for provisions calling for the filing of returns as to foreign trusts, prescribing the form and contents of such returns, and requiring annual returns for foreign trusts with one or more United States beneficiaries.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 inserted “(or on or before such later day as the Secretary may by regulations prescribe)” after “the 90th day”.
 
@@ -162,7 +162,7 @@ Amendment by section 1601(i)(1) of Pub. L. 105–34 effective as if included in 
 
 #### Effective Date of 1996 Amendment
 
-Section 1901(d) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1901(d), Aug. 20, 1996, 110 Stat. 1908, provided that:
 
 “(1)
 

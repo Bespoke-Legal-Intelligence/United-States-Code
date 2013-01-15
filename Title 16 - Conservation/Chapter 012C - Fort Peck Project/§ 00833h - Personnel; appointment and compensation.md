@@ -6,7 +6,7 @@ The Secretary of the Interior, the Secretary of the Army, and the Secretary of E
 
 #### Codification
 
-Provisions which authorized the Secretary of the Interior, the Secretary of the Army, and the Secretary of Energy to appoint such attorneys, engineers, and other experts as may be necessary for carrying out the functions entrusted to them under this chapter “without regard to the provisions of the civil-service laws”, and to fix their compensation “at not to exceed $7,500 per annum”, have been omitted as obsolete and superseded.
+Provisions which authorized the Secretary of the Interior, the Secretary of the Army, and the Secretary ofEnergy to appoint such attorneys, engineers, and other experts as may be necessary for carrying out the functions entrusted to them under this chapter “without regard to the provisions of the civil-service laws”, and to fix their compensation “at not to exceed $7,500 per annum”, have been omitted as obsolete and superseded.
 
 Such appointments are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 

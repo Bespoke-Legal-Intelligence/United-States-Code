@@ -4,11 +4,13 @@ In carrying out the functions vested by this chapter in the Bureau of Justice As
 
 (Pub. L. 90–351, title I, §803, formerly §804, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1203; renumbered §803 and amended Pub. L. 98–473, title II, §609B(c), (f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 109–162, title XI, §1155(2), Jan. 5, 2006, 119 Stat. 3113.)
 
+#### Codification
+
+Another section 803 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 223, amended section 605 of Title 47, Telecommunications.
+
 #### Prior Provisions
 
 A prior section 803 of Pub. L. 90–351 was renumbered section 802 and is classified to section 3783 of this title.
-
-Another prior section 803 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 223, amended section 605 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 

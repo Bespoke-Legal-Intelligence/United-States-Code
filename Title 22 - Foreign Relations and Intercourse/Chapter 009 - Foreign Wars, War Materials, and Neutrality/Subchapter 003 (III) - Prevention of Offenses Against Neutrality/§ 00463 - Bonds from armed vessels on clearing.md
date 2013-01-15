@@ -10,5 +10,5 @@ Section was formerly classified to section 28 of title 18 prior to the general r
 
 #### Prior Provisions
 
-Section was derived from R.S. §5289 (act Apr. 20, 1818, ch. 88, §10, 3 Stat. 449), which was repealed by section 341 of act Mar. 4, 1909.
+Section was derived from R.S. §5289 (act Apr. 20, 1818, ch. 88, §10, 3 Stat. 449), which was repealed by act Mar. 4, 1909, ch. 321, §341, 35 Stat. 1153.
 

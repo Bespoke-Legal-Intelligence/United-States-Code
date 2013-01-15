@@ -14,7 +14,7 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 #### Effective Date of 1966 Amendment
 
-Section 3(b) of Pub. L. 89–808 provided that the amendment made by that section is effective Jan. 1, 1967.
+Pub. L. 89–808, §3(b), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(b) is effective Jan. 1, 1967.
 
 #### Commodity Distribution Program; Prohibition on Furnishing Commodities to Summer Camps
 

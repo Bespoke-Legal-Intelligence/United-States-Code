@@ -60,7 +60,7 @@ Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 1
 
 #### Establishing National Goals To Prevent Teenage Pregnancies
 
-Section 905 of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title IX, §905, Aug. 22, 1996, 110 Stat. 2349, provided that:
 
 “(a)
 

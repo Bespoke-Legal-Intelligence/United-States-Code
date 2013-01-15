@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
+For the purpose of carrying out this subpart, there is authorized to be appropriated $43,000,000 for fiscal year 2011, and such sums as may be necessary for each of the fiscal years 2012 through 2015.
 
 #### (b) Limitation regarding certain program
 

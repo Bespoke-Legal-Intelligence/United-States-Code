@@ -4,7 +4,7 @@ The Congress makes the following findings:
 
 &emsp;(1) As long as unemployment and underemployment continue as serious problems among disabled veterans and Vietnam-era veterans, alleviating unemployment and underemployment among such veterans is a national responsibility.
 
-&emsp;(2) Because of the special nature of employment and training needs of such veterans and the national responsibility to meet thoseneeds, policies and programs to increase opportunities for such veterans to obtain employment, job training, counseling, and job placement services and assistance in securing advancement in employment should be effectively and vigorously implemented by the Secretary of Labor and such implementation should be accomplished through the Assistant Secretary of Labor for Veterans’ Employment and Training.
+&emsp;(2) Because of the special nature of employment and training needs of such veterans and the national responsibility to meet those needs, policies and programs to increase opportunities for such veterans to obtain employment, job training, counseling, and job placement services and assistance in securing advancement in employment should be effectively and vigorously implemented by the Secretary of Labor and such implementation should be accomplished through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
 (Added Pub. L. 97–306, title III, §301(a), Oct. 14, 1982, 96 Stat. 1436, §2000; amended Pub. L. 100–323, §15(b)(1), May 20, 1988, 102 Stat. 574; renumbered §4100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
@@ -140,13 +140,13 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 “(j)
 
-Funding.—Payments under this section shall be made from amounts appropriated to or otherwise made available to the Department of Veterans Affairs for thepayment of readjustment benefits. Not more than $2,000,000 shall be made available from such amounts for information technology expenses (not including personnel costs) associated with the administration of the program established under subsection (a)(1).
+Funding.—Payments under this section shall be made from amounts appropriated to or otherwise made available to the Department of Veterans Affairs for the payment of readjustment benefits. Not more than $2,000,000 shall be made available from such amounts for information technology expenses (not including personnel costs) associated with the administration of the program established under subsection (a)(1).
 
 “(k)
 
 Termination of Authority.—The authority to make payments under this section shall terminate on March 31, 2014.
 
-“(<i>l</i>)
+“(l)
 
 Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
 

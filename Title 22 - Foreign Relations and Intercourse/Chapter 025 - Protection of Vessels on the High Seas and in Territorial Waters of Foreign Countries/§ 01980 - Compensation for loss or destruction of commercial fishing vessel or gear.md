@@ -138,23 +138,23 @@ Subsecs. (f), (g). Pub. L. 95–376 added subsecs. (f) and (g).
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Effective Date of 1978 Amendment
 
-Section 3(b) of Pub. L. 95–376 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1979.”
+Pub. L. 95–376, §3(b), Sept. 18, 1978, 92 Stat. 718, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1979.”
 
 #### Savings Provision
 
-Section 3(c) of Pub. L. 95–376 provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting in any manner or to any extent any loan made under section 10 of the Fishermen's Protective Act of 1967 (as in effect before January 1, 1979) \[this section\], and, for purposes of the consideration by the Secretary of Commerce of any application for a loan under such section which was filed, but not acted on, before January 1, 1979, the amendment made by subsection (a) shall not be deemed to have been enacted.”
+Pub. L. 95–376, §3(c), Sept. 18, 1978, 92 Stat. 718, provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting in any manner or to any extent any loan made under section 10 of the Fishermen's Protective Act of 1967 (as in effect before January 1, 1979) \[this section\], and, for purposes of the consideration by the Secretary of Commerce of any application for a loan under such section which was filed, but not acted on, before January 1, 1979, the amendment made by subsection (a) shall not be deemed to have been enacted.”
 
 #### Compensation for Certain Fishing Vessel and Gear Damage; Application
 
-Section 240(a), (b)(1) of Pub. L. 96–561 provided that:
+Pub. L. 96–561, title II, §240(a), (b)(1), Dec. 22, 1980, 94 Stat. 3300, 3301, provided that:
 
 “(a)
 
@@ -176,7 +176,7 @@ Special Provisions.—(1) Notwithstanding any other provision of law—
 
 #### Timely Applications for Compensation
 
-Section 4(a) of Pub. L. 96–289 provided that: “Notwithstanding the provisions of section 10(c)(1) of theFishermens Protective Act of 1967 (22 U.S.C. 1980) \[subsec. (c)(1) of this section\] applications for compensation under such Act \[this chapter\], filed within 90 days after the date of enactment of this subsection \[June 28, 1980\] shall be deemed to be timely filed.”
+Pub. L. 96–289, §4(a), June 28, 1980, 94 Stat. 605, provided that: “Notwithstanding the provisions of section 10(c)(1) of the Fishermens Protective Act of 1967 (22 U.S.C. 1980) \[subsec. (c)(1) of this section\] applications for compensation under such Act \[this chapter\], filed within 90 days after the date of enactment of this subsection \[June 28, 1980\] shall be deemed to be timely filed.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1986 Amendment
 
-Section 1711(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 671, 673, and 675 of this title\] shall apply only with respect to expenditures made after December 31, 1986.”
+Pub. L. 99–514, title XVII, §1711(d), Oct. 22, 1986, 100 Stat. 2784, provided that: “The amendments made by this section \[amending this section and sections 671, 673, and 675 of this title\] shall apply only with respect to expenditures made after December 31, 1986.”
 
 #### Strengthening Abuse and Neglect Courts
 
@@ -40,7 +40,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;“(4) To avoid unnecessary and lengthy stays in the foster care system, the Adoption and Safe Families Act of 1997 specifically requires, among other things, that States move to terminate the parental rights of the parents of those children who have been in foster care for 15 of the last 22 months.
 
-&emsp;“(5) While essential to protect children and to carry out the general purposes of the Adoption and SafeFamilies Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
+&emsp;“(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
 
 &emsp;“(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
@@ -350,7 +350,7 @@ Grants To Expand CASA Programs in Underserved Areas.—The Administrator of the 
 
 “(b)
 
-Limitation on Administrative Expenditures.—Not more than 5 percent of the grant made under thissubsection may be used for administrative expenditures.
+Limitation on Administrative Expenditures.—Not more than 5 percent of the grant made under this subsection may be used for administrative expenditures.
 
 “(c)
 
@@ -370,5 +370,5 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 #### Study of Foster Care and Adoption Assistance Programs; Report to Congress Not Later Than October 1, 1983
 
-Section 101(b) of Pub. L. 96–272 directed Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (this part) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
+Pub. L. 96–272, title I, §101(b), June 17, 1980, 94 Stat. 513, directed Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (this part) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
 

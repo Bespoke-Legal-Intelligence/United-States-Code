@@ -30,7 +30,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) means any church plan to the extent that such plan provides medical, surgical, or hospital care or benefits, or benefits in the event of sickness, accident, disability, death or unemployment, or vacation benefits, apprenticeship or other training programs, or day care centers, scholarship funds, or prepaid legal services; and
 
-&emsp;&emsp;(B) does not include any entity, such as a health insurance issuer described in section 9832(b)(2) of title 26 or a health maintenanceorganization described in section 9832(b)(3) of title 26, or any other organization that does business with the church plan or organization sponsoring or maintaining such a plan.
+&emsp;&emsp;(B) does not include any entity, such as a health insurance issuer described in section 9832(b)(2) of title 26 or a health maintenance organization described in section 9832(b)(3) of title 26, or any other organization that does business with the church plan or organization sponsoring or maintaining such a plan.
 
 #### (d) Enforcement authority
 

@@ -22,7 +22,7 @@ Dedication of Resources.—The Secretary shall ensure that sufficient resources 
 
 (f)
 
-Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
+Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities ofthe Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
 
 &emsp;(1) The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
 

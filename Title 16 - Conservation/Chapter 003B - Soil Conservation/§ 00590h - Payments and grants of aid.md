@@ -40,7 +40,7 @@
 
 #### (II) Combination or consolidation of areas
 
-&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of notfewer than 3 nor more than 11 members that—
+&emsp;&emsp;&emsp;&emsp;A committee established by combining or consolidating 2 or more county or area committees shall consist of not fewer than 3 nor more than 11 members that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
 
@@ -108,7 +108,7 @@
 
 #### (VI) National report
 
-&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidates all the election data reported to the Secretary under subclause (V).
+&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidatesall the election data reported to the Secretary under subclause (V).
 
 #### (VII) Election reform
 
@@ -118,7 +118,7 @@
 
 #### (bb) Inclusion
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee,in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
 
 #### (cc) Methods of inclusion
 
@@ -182,7 +182,7 @@
 
 (1) In apportioning acreage allotments under this section in the case of wheat and corn, the National and State allotments and the allotments to counties shall be apportioned annually on the basis of the acreage seeded for the production of the commodity during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined (plus, in applicable years, the acreage diverted under previous agricultural adjustment and conservation programs), with adjustments for abnormal weather conditions and trends in acreage during the applicable period.
 
-(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defensepurposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
+(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
 (3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
@@ -202,7 +202,7 @@ A payment that may be made to a producer under this section may be assigned only
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, asamended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -214,7 +214,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated formersubcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
 <b>2002</b>—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -248,7 +248,7 @@ Pub. L. 99–253, in fifth par., substituted “local committee” for “commun
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
 
-Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
+Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrativeareas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
 
 Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
 
@@ -316,7 +316,7 @@ Subsec. (b). Act June 21, 1941, inserted par. beginning “Notwithstanding any o
 
 Subsec. (f). Act May 14, 1940, struck out last sentence which provided “Such limitations shall apply only if the county committee finds that the change or reduction is not justified and disapproves such change or reduction” and substituted last two sentences.
 
-<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood ordrought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
+<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood or drought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
 
 <b>1938</b>—Subsecs. (b) and (c) amended generally by act Feb. 16, 1938.
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective Date of 1985 Amendment
 
-Section 1711(b)(1) of Pub. L. 99–198 provided that: “The amendments made by this section \[amending this section\] shall become effective on January 1, 1986, except that the amendments made by clauses (2) and (3) of subsection (a) \[amending this section\] shall not apply with respect to the term of office of any member of a local committee elected before January 1, 1986.”
+Pub. L. 99–198, title XVII, §1711(b)(1), Dec. 23, 1985, 99 Stat. 1636, provided that: “The amendments made by this section \[amending this section\] shall become effective on January 1, 1986, except that the amendments made by clauses (2) and (3) of subsection (a) \[amending this section\] shall not apply with respect to the term of office of any member of a local committee elected before January 1, 1986.”
 
 #### Effective Date of 1977 Amendment
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1964 Amendment
 
-Section 3 of Pub. L. 88–534 provided that: “Section 1 of this Act \[amending this section\] shall become effective for elections of committeemen held on or after January 1, 1965.”
+Pub. L. 88–534, §3, Aug. 31, 1964, 78 Stat. 743, provided that: “Section 1 of this Act \[amending this section\] shall become effective for elections of committeemen held on or after January 1, 1965.”
 
 #### Effective Date of 1948 Amendment
 
@@ -356,7 +356,7 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 
 #### Effective Date of 1938 Amendment
 
-Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 #### Transfer of Functions
 
@@ -370,11 +370,11 @@ Similar provisions were contained in the following prior appropriation act: Pub.
 
 #### Local Committee Member Elected Before January 1, 1986; Completion of Unexpired Term in Administrative Area of Residence
 
-Section 1711(b)(2) of Pub. L. 99–198 provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
+Pub. L. 99–198, title XVII, §1711(b)(2), Dec. 23, 1985, 99 Stat. 1636, provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
 
 #### Congressional Findings Respecting the Agricultural Stabilization and Conservation County and Community Committee System
 
-Pub. L. 97–218, title IV, §401, July 20, 1982, 96 Stat. 216, provided that: “Congress finds that agricultural stabilization and conservation county and community committees have served, and should continue to serve, a vital function in implementing, at the local level, farm commodity, soil conservation, and related programs; and that, by assisting the United States Department of Agriculture to conduct such programs effectively, such committees provide substantial benefits to agriculture and the Nation. Congress further finds that the agricultural stabilization and conservation county and community committee system has developed, over the years, into a highly efficient mechanism for implementing such programs at the local level. Therefore, it is the sense of Congress that the Secretary of Agriculture should ensure that the structure and operations of the agricultural stabilization and conservation county and community committees, as heretofore developed to enable such committees to meet the responsibilities assigned them under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsection (b) of this section\], and related statutes and regulations, be preserved and strengthened.”
+Pub. L. 97–218, title IV, §401, July 20, 1982, 96 Stat. 216, provided that: “Congress finds that agricultural stabilization and conservation county and community committees have served, and should continue to serve, a vital function in implementing, at the local level, farm commodity, soil conservation, and related programs; and that, by assisting the United States Department of Agriculture to conduct such programs effectively, such committees provide substantial benefits to agriculture and the Nation. Congress further finds that the agricultural stabilization and conservation county and community committee system has developed, overthe years, into a highly efficient mechanism for implementing such programs at the local level. Therefore, it is the sense of Congress that the Secretary of Agriculture should ensure that the structure and operations of the agricultural stabilization and conservation county and community committees, as heretofore developed to enable such committees to meet the responsibilities assigned them under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsection (b) of this section\], and related statutes and regulations, be preserved and strengthened.”
 
 #### 1970 Increase in Rates of Compensation of Persons Employed by County Committees
 
@@ -402,13 +402,13 @@ Pub. L. 88–426, title I, §122, Aug. 14, 1964, 78 Stat. 412, provided that: �
 
 #### 1962 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 87–793, title VI, §1002, Oct. 11, 1962, 76 Stat. 865, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by title II of this part \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 87–793, §1002, Oct. 11, 1962, 76 Stat. 865, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by title II of this part \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 #### 1960 Increase in Rates of Compensation of Persons Employed by County Committees
 
 Pub. L. 86–568, title I, §115(a), July 1, 1960, 74 Stat. 302, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
-“Increases provided by this title”, referred to above, means increases provided by title I of Pub. L. 86–568.
+\[“Increases provided by this title”, referred to above, means increases provided by title I of Pub. L. 86–568.\]
 
 #### Two County Committees for Certain Counties in Minnesota and Iowa
 

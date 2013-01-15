@@ -32,7 +32,7 @@ Whenever the Commission shall have reason to believe that any such person, partn
 
 #### (c) Review of order; rehearing
 
-Any person, partnership, or corporation required by an order of the Commission to cease and desist from using any method of competition or act or practice may obtain a review of such order in the court of appeals of the United States, within any circuit where the method of competition or the act or practice in question was used or where such person, partnership, or corporation resides or carries on business, by filing in the court, within sixty days from the date of the service of such order, a written petition praying that the order of the Commission be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission, and thereupon the Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon such filing of the petition the court shall have jurisdiction of the proceeding and of the question determined therein concurrently with the Commission until the filing of the record and shall have power to make and enter a decree affirming, modifying, or setting aside the order of the Commission, and enforcing the same to the extent that such order is affirmed and to issue such writs as are ancillary to its jurisdiction or are necessary in its judgement to prevent injury to the public or to competitors pendente lite. The findings of the Commission as to the facts, if supported by evidence, shall be conclusive. To the extent that the order of the Commission isaffirmed, the court shall thereupon issue its own order commanding obedience to the terms of such order of the Commission. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, which, if supported by evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of its original order, with the return of such additional evidence. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
+Any person, partnership, or corporation required by an order of the Commission to cease and desist from using any method of competition or act or practice may obtain a review of such order in the court of appeals of the United States, within any circuit where the method of competition or the act or practice in question was used or where such person, partnership, or corporation resides or carries on business, by filing in the court, within sixty days from the date of the service of such order, a written petition praying that the order of the Commission be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission, and thereupon the Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon such filing of the petition the court shall have jurisdiction of the proceeding and of the question determined therein concurrently with the Commission until the filing of the record andshall have power to make and enter a decree affirming, modifying, or setting aside the order of the Commission, and enforcing the same to the extent that such order is affirmed and to issue such writs as are ancillary to its jurisdiction or are necessary in its judgement to prevent injury to the public or to competitors pendente lite. The findings of the Commission as to the facts, if supported by evidence, shall be conclusive. To the extent that the order of the Commission is affirmed, the court shall thereupon issue its own order commanding obedience to the terms of such order of the Commission. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, which, if supported by evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of its original order, with the return of such additional evidence. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
 
 #### (d) Jurisdiction of court
 
@@ -78,7 +78,7 @@ An order of the Commission to cease and desist shall become final—
 
 #### (h) Modification or setting aside of order by Supreme Court
 
-If the Supreme Court directs that the order of the Commission be modified or set aside, the order of the Commission rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of thirty days from the time it was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected to accord with the mandate, in which event the order ofthe Commission shall become final when so corrected.
+If the Supreme Court directs that the order of the Commission be modified or set aside, theorder of the Commission rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of thirty days from the time it was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected to accord with the mandate, in which event the order of the Commission shall become final when so corrected.
 
 #### (i) Modification or setting aside of order by Court of Appeals
 
@@ -92,7 +92,7 @@ If the Supreme Court orders a rehearing; or if the case is remanded by the court
 
 As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 
-#### (<i>l</i>) Penalty for violation of order; injunctions and other appropriate equitable relief
+#### (l) Penalty for violation of order; injunctions and other appropriate equitable relief
 
 Any person, partnership, or corporation who violates an order of the Commission after it has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $10,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the Attorney General of the United States. Each separate violation of such an order shall be a separate offense, except that in a case of a violation through continuing failure to obey or neglect to obey a final order of the Commission, each day of continuance of such failure or neglect shall be deemed a separate offense. In such actions, the United States district courts are empowered to grant mandatory injunctions and such other and further equitable relief as they deem appropriate in the enforcement of such final orders of the Commission.
 
@@ -116,13 +116,13 @@ Any person, partnership, or corporation who violates an order of the Commission 
 
 #### (n) Standard of proof; public policy considerations
 
-The Commission shall have no authority under this section or section 57a of this title to declare unlawful an act or practice on the grounds that such act or practice is unfair unless the act orpractice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. In determining whether an act or practice is unfair, the Commission may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
+The Commission shall have no authority under this section or section 57a of this title to declare unlawful an act or practice on the grounds that such act or practice is unfair unless the act or practice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. In determining whether an act or practice is unfair, the Commission may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
 
-(Sept. 26, 1914, ch. 311, §5, 38 Stat. 719; Mar. 21, 1938, ch. 49, §3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, §1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Mar. 16, 1950, ch. 61, §4(c), 64 Stat. 21; July 14, 1952, ch. 745, §2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, §3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, §3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, §1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, §408(c), (d), Nov. 16, 1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, §3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, §1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, §403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, §402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, §715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §3, Dec. 22, 2006, 120 Stat. 3372.)
+(Sept. 26, 1914, ch. 311, §5, 38 Stat. 719; Mar. 21, 1938, ch. 49, §3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, §1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Mar. 16, 1950, ch. 61, §4(c), 64 Stat. 21; July 14, 1952, ch. 745, §2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, §3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, §3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, §1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, §408(c), (d), Nov. 16, 1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, §3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, §1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, §403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, §402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, §715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §§3, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+<i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### References in Text
 
@@ -136,7 +136,9 @@ In subsec. (c), “section 1254 of title 28” substituted for “section 240 of
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–455, §§3, 13, temporarily added par. (4). See Termination Date of 2006 Amendment note below.
+<b>2012</b>—Subsec. (a)(4). Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment note below.
+
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–455, §3, which added par. (4) extending the definition of unfair or deceptive acts or practices to include certain ones involving foreign commerce, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 <b>1994</b>—Subsec. (g)(1). Pub. L. 103–312, §6(d), substituted a period for “; or” at end.
 
@@ -168,11 +170,11 @@ Subsec. (a). Pub. L. 94–145 struck out pars. (2) to (5) which permitted fair t
 
 Subsec. (m). Pub. L. 93–637, §§204(b), 205(a), added subsec. (m). Former subsec. (m), relating to the election by the Commission to appear in its own name after notifying and consulting with and giving the Attorney General 10 days to take the action proposed by the Commission, was struck out.
 
-<b>1973</b>—Subsec. (<i>l</i>). Pub. L. 93–153, §408(c), raised the maximum civil penalty for each violation to $10,000 and inserted provisions empowering the United States District Courts to grant mandatory injunctions and such other and further equitable relief as they might deem appropriate for the enforcement of final Commission orders.
+<b>1973</b>—Subsec. (l). Pub. L. 93–153, §408(c), raised the maximum civil penalty for each violation to $10,000 and inserted provisions empowering the United States District Courts to grant mandatory injunctions and such other and further equitable relief as they might deem appropriate for the enforcement of final Commission orders.
 
 Subsec. (m). Pub. L. 93–153, §408(d), added subsec. (m).
 
-<b>1960</b>—Subsec. (f). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof”, and “mailed by registered mail or by certified mail” for “registered and mailed”.
+<b>1960</b>—Subsec. (f). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail”for “registering and mailing a copy thereof”, and “mailed by registered mail or by certified mail” for “registered and mailed”.
 
 <b>1958</b>—Subsec. (a)(6). Pub. L. 85–909 substituted “persons, partnerships, or corporations insofar as they are subject to the Packers and Stockyards Act, 1921, as amended,” for “persons, partnerships or corporations subject to the Packers and Stockyards Act, 1921,”.
 
@@ -180,13 +182,13 @@ Pub. L. 85–726, §1411, substituted “Federal Aviation Act of 1958” for “
 
 Subsec. (b). Pub. L. 85–791, §3(a), struck out “the transcript of” before “the record in the proceeding” in sixth sentence.
 
-Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, and “Commission shall file in thecourt the record in the proceeding, as provided in section 2112 of title 28” for “Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission”, and which, in third sentence struck out “and transcript” after “petition”, inserted “concurrently with the Commission until the filing of the record” and struck out “upon the pleadings, evidence, and proceedings set forth in such transcript” before “a decree affirming”.
+Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, and “Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission”, and which, in third sentence struck out “and transcript” after “petition”, inserted “concurrently with the Commission until the filing of the record” and struck out “upon the pleadings, evidence, and proceedings set forth in such transcript” before “a decree affirming”.
 
 Subsec. (d). Pub. L. 85–791, §3(c), substituted “Upon the filing of the record with it the” for “The”.
 
 <b>1952</b>—Subsec. (a). Act July 14, 1952, amended subsec. (a) generally to permit fair trade pricing of articles for retail sale.
 
-<b>1950</b>—Subsec. (<i>l</i>). Act Mar. 16, 1950, inserted last sentence to make each separate violation of a cease and desist order as a separate offense, except that each day of a continuing failure to obey a final order shall be a separate offense.
+<b>1950</b>—Subsec. (l). Act Mar. 16, 1950, inserted last sentence to make each separate violation of a cease and desist order as a separate offense, except that each day of a continuing failure to obey a final order shall be a separate offense.
 
 <b>1938</b>—Subsec. (a). Act June 23, 1938, inserted “air carriers and foreign air carriers subject to chapter 9 of title 49” in second par.
 
@@ -198,7 +200,7 @@ Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substitut
 
 #### Termination Date of 2006 Amendment
 
-Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 3 of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -262,7 +264,7 @@ Pub. L. 93–153, §408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 
 “(2) The Congress further finds that as a direct result of this inadequate legal authority significant delays have occurred in a major investigation into the legality of the structure, conduct, and activities of the petroleum industry, as well as in other major investigations designed to protect the public interest.
 
-“(b) It is the purpose of this Act \[amending this section and sections 46, 53, and 56 of this title\] to grant theFederal Trade Commission the requisite authority to insure prompt enforcement of the laws the Commission administers by granting statutory authority to directly enforce subpenas issued by the Commission and to seek preliminary injunctive relief to avoid unfair competitive practices.”
+“(b) It is the purpose of this Act \[amending this section and sections 46, 53, and 56 of this title\] to grant the Federal Trade Commission the requisite authority to insure prompt enforcement of the laws the Commission administers by granting statutory authority to directly enforce subpenas issued by the Commission and to seek preliminary injunctive relief to avoid unfair competitive practices.”
 
 #### Purpose of Act July 14, 1952
 

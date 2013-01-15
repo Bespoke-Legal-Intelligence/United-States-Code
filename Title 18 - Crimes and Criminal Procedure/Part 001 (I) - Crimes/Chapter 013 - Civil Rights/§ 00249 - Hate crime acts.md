@@ -84,7 +84,7 @@ Rule of construction.—Nothing in this subsection shall be construed to limit t
 
 Definitions.—In this section—
 
-&emsp;(1) the term “bodily injury” has the meaning given such term in section 1365(h)(4) of this title, but does not include solely emotional or psychological harm to the victim;
+&emsp;(1) the term “bodily injury” has the meaning given such term in section 1365(h)(4) of thistitle, but does not include solely emotional or psychological harm to the victim;
 
 &emsp;(2) the term “explosive or incendiary device” has the meaning given such term in section 232 of this title;
 
@@ -174,7 +174,7 @@ Pub. L. 111–84, div. E, §4702, Oct. 28, 2009, 123 Stat. 2835, provided that: 
 
 &emsp;&emsp;“(E) Such violence is committed using articles that have traveled in interstate commerce.
 
-&emsp;“(7) For generations, the institutions of slavery and involuntary servitude were defined by the race, color,and ancestry of those held in bondage. Slavery and involuntary servitude were enforced, both prior to and after the adoption of the 13th amendment to the Constitution of the United States, through widespread public and private violence directed at persons because of their race, color, or ancestry, or perceived race, color, or ancestry. Accordingly, eliminating racially motivated violence is an important means of eliminating, to the extent possible, the badges, incidents, and relics of slavery and involuntary servitude.
+&emsp;“(7) For generations, the institutions of slavery and involuntary servitude were defined by the race, color, and ancestry of those held in bondage. Slavery and involuntary servitude were enforced, both prior to and after the adoption of the 13th amendment to the Constitution of the United States, through widespread public and private violence directed at persons because of their race, color, or ancestry, or perceived race, color, or ancestry. Accordingly, eliminating racially motivated violence is an important means of eliminating, to the extent possible, the badges, incidents, and relics of slavery and involuntary servitude.
 
 &emsp;“(8) Both at the time when the 13th, 14th, and 15th amendments to the Constitution of the United States were adopted, and continuing to date, members of certain religious and national origin groups were and are perceived to be distinct ‘races’. Thus, in order to eliminate, to the extent possible, the badges, incidents, and relics of slavery, it is necessary to prohibit assaults on the basis of real or perceived religions or national origins, at least to the extent such religions or national origins were regarded as races at the time of the adoption of the 13th, 14th, and 15th amendments to the Constitution of the United States.
 

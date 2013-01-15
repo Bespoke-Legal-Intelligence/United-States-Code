@@ -10,7 +10,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;(d) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
-&emsp;\[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702\]
+&emsp;\[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702.\]
 
 &emsp;(f) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
 
@@ -58,7 +58,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 <b>1951</b>—Subsec. (c). Act Oct. 31, 1951, §3(3), struck out provision relating to sale or other disposition of unsuitable or unserviceable shore establishments, and disposition of the net monies received therefrom.
 
-Subsec. (d). Act Oct. 31, 1951, §2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, andstruck out requirement that net monies received from the disposition of vessels be covered into the Treasury.
+Subsec. (d). Act Oct. 31, 1951, §2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury.
 
 Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
 
@@ -152,7 +152,7 @@ Conditions of Conveyance.—The General Services Administration may not convey a
 
 &emsp;“(3) to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and
 
-&emsp;“(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel,except for claims arising from use of the vessel by the United States Government under paragraph (3).
+&emsp;“(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
 
 “(c)
 
@@ -318,9 +318,9 @@ Pub. L. 101–164, title I, Nov. 21, 1989, 103 Stat. 1071.
 
 Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2126.
 
-Pub. L. 100–202, §101(<i>l</i>) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–359.
+Pub. L. 100–202, §101(l) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–359.
 
-Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308.
+Pub. L. 99–500, §101(l) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l), Oct. 30, 1986, 100 Stat. 3341–308.
 
 Pub. L. 99–190, §101(e) \[title I\], Dec. 19, 1985, 99 Stat. 1267, 1269.
 

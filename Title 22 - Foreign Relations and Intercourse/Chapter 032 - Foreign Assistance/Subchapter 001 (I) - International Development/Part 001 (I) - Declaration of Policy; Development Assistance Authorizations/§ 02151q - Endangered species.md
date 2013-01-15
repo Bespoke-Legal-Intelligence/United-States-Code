@@ -10,7 +10,7 @@ In order to preserve biological diversity, the President is authorized to furnis
 
 #### (c) Funding level
 
-For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
+For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I ofthis chapter (excluding funds made available to carry out section 2151b(c)(2) of this title, relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
 
 #### (d) Country analysis requirements
 
@@ -56,7 +56,7 @@ The Administrator of the Agency for International Development shall—
 
 Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this section.
 
-(Pub. L. 87–195, pt. I, §119, as added Pub. L. 98–164, title VII, §702, Nov. 22, 1983, 97 Stat. 1045;amended Pub. L. 99–529, title III, §302, Oct. 24, 1986, 100 Stat. 3017; Pub. L. 101–167, title V, §533(d)(4)(A), Nov. 21, 1989, 103 Stat. 1227.)
+(Pub. L. 87–195, pt. I, §119, as added Pub. L. 98–164, title VII, §702, Nov. 22, 1983, 97 Stat. 1045; amended Pub. L. 99–529, title III, §302, Oct. 24, 1986, 100 Stat. 3017; Pub. L. 101–167, title V, §533(d)(4)(A), Nov. 21, 1989, 103 Stat. 1227.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -72,7 +72,7 @@ A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88,
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
 
-Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: “Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
+Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows:“Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
 
 Subsecs. (e) to (h). Pub. L. 99–529 added subsecs. (e) to (h).
 

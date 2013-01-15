@@ -14,7 +14,7 @@ In operating the pilot program, the Secretary may enter into contract with a pro
 
 &emsp;(1) is eligible for a production flexibility contract, a marketing assistance loan, or other assistance under this chapter;
 
-&emsp;(2) volunteers to participate in the pilot program during any calendar year in which a county in which the farm of the producer is located is included in the pilot program;
+&emsp;(2) volunteers to participate in the pilot program during any calendar year in which acounty in which the farm of the producer is located is included in the pilot program;
 
 &emsp;(3) operates a farm located in a county selected for the pilot program; and
 

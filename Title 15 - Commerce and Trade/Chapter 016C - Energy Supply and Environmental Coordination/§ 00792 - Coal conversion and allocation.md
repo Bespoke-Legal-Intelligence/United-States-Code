@@ -8,7 +8,7 @@ The Federal Energy Administrator—
 
 &emsp;(2) may, by order, prohibit any major fuel burning installation, other than a powerplant,
 
-> from burning natural gas or petroleum products as its primary energy source, if the requirements of subsection (b) of this section are met and if (A) the Federal Energy Administrator determines such powerplant or installation on June 22, 1974, had, or thereafter acquires or is designed with, the capability and necessaryplant equipment to burn coal, or (B) such powerplant or installation is required to meet a design or construction requirement under subsection (c) of this section.
+> from burning natural gas or petroleum products as its primary energy source, if the requirements of subsection (b) of this section are met and if (A) the Federal Energy Administrator determines such powerplant or installation on June 22, 1974, had, or thereafter acquires or is designed with, the capability and necessary plant equipment to burn coal, or (B) such powerplant or installation is required to meet a design or construction requirement under subsection (c) of this section.
 
 #### (b) Prerequisites to issuance or effectiveness of orders prohibiting use of natural gas or petroleum products as primary energy source
 
@@ -20,7 +20,7 @@ The requirements referred to in subsection (a) of this section are as follows:
 
 &emsp;(B) An order described in subparagraph (A) of this paragraph shall not become effective until the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(A) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with the air pollution requirements which will be applicable to it. Such order shall not be effective for any period certified by the Administrator of the Environmental Protection Agency pursuant to section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
 
-&emsp;(3)(A) Before issuing an order under subsection (a) of this section which is applicable to a powerplant or installation after June 30, 1975 (or modifying an order to which paragraph (2) applies, so as to apply such order to a powerplant or installation after such date), the Federal Energy Administrator shall give notice to the public and afford interested persons an opportunity for oral and written presentations of data, views, and arguments.
+&emsp;(3)(A) Before issuing an order under subsection (a) of this section which is applicable to a powerplant or installation after June 30, 1975 (or modifying an order to which paragraph (2) applies, so as to apply such order to apowerplant or installation after such date), the Federal Energy Administrator shall give notice to the public and afford interested persons an opportunity for oral and written presentations of data, views, and arguments.
 
 &emsp;(B) An order (or modification thereof) described in subparagraph (A) of this paragraph shall not become effective until (i) the Administrator of the Environmental Protection Agency notifies the Federal Energy Administrator under section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 that such plant or installation will be able on and after July 1, 1975, to burn coal and to comply with all applicable air pollution requirements without a compliance date extension under section 1857c–10(c) <sup>1</sup> of title 42, or (ii) if such notification is not given, the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with all applicable requirements of such 1857c–10 <sup>1</sup> of title 42. Such order (or modification) shall not be effective during any period certified by the Administrator of the Environmental Protection Agency under section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
 
@@ -44,7 +44,7 @@ For purposes of this section:
 
 (1) Authority to issue orders or rules under subsections (a) through (d) of this section shall expire at midnight, December 31, 1978. Such a rule or order may take effect at any time before January 1, 1985.
 
-(2) Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expireat midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
+(2) Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
 
 (Pub. L. 93–319, §2, June 22, 1974, 88 Stat. 246; Pub. L. 94–163, title I, §101, Dec. 22, 1975, 89 Stat. 875; Pub. L. 95–70, §7, July 21, 1977, 91 Stat. 277.)
 

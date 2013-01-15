@@ -24,7 +24,7 @@
 
 #### (3) Role of Agency
 
-&emsp;The Agency shall provide ongoing administrative, research, and technical support forthe operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to those organizations requesting it for implementation of the Guide's recommendations.
+&emsp;The Agency shall provide ongoing administrative, research, and technical support for the operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to those organizations requesting it for implementation of the Guide's recommendations.
 
 #### (4) Coordination with Community Preventive Services Task Force
 

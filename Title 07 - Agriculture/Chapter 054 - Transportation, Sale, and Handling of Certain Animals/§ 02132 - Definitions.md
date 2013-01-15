@@ -24,7 +24,7 @@ When used in this chapter—
 
 (g) The term “animal” means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warm-blooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3) other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes;
 
-(h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
+(h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibitingan animal that exclusively resides at the residence of the pet owner, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
 
 (i) The term “intermediate handler” means any person including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier) who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce;
 
@@ -32,21 +32,23 @@ When used in this chapter—
 
 (k) The term “Federal agency” means an Executive agency as such term is defined in section 105 of title 5, and with respect to any research facility means the agency from which the research facility receives a Federal award for the conduct of research, experimentation, or testing, involving the use of animals;
 
-(<i>l</i>) The term “Federal award for the conduct of research, experimentation, or testing, involving the use of animals” means any mechanism (including a grant, award, loan, contract, or cooperative agreement) under which Federal funds are provided to support the conduct of such research.<sup>1</sup>
+(l) The term “Federal award for the conduct of research, experimentation, or testing, involving the use of animals” means any mechanism (including a grant, award, loan, contract, or cooperative agreement) under which Federal funds are provided to support the conduct of such research.<sup>1</sup>
 
 (m) The term “quorum” means a majority of the Committee members;
 
 (n) The term “Committee” means the Institutional Animal Committee established under section 2143(b) of this title; and
 
-(<i>o</i>) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
+(o) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
-(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, §10301, May 13, 2002, 116 Stat. 491.)
+(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, §10301, May 13, 2002, 116 Stat. 491; Pub. L. 112–261, §1, Jan. 10, 2013, 126 Stat. 2428.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (h). Pub. L. 112–261 inserted “an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner,” after “stores,”.
+
 <b>2002</b>—Subsec. (g). Pub. L. 107–171 substituted “excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3)” for “excludes horses not used for research purposes and”.
 
-<b>1985</b>—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o</i>).
+<b>1985</b>—Subsecs. (k) to (o). Pub. L. 99–198 added subsecs. (k) to (o).
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
 
@@ -88,7 +90,7 @@ Pub. L. 107–171, title X, §10304, May 13, 2002, 116 Stat. 492, provided that:
 
 “(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and theCommittee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
+In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of includingrats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
 
 “(b)
 

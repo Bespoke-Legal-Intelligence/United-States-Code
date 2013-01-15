@@ -36,5 +36,5 @@ Subsec. (c). Pub. L. 111–11, §7103(2), substituted “maps” for “map” i
 
 #### Short Title
 
-Section 1 of Pub. L. 102–427 provided that: “This Act \[enacting this section and sections 698r to 698t of this title\] may be cited as the ‘Little River Canyon National Preserve Act of 1992’.”
+Pub. L. 102–427, §1, Oct. 21, 1992, 106 Stat. 2179, provided that: “This Act \[enacting this section and sections 698r to 698t of this title\] may be cited as the ‘Little River Canyon National Preserve Act of 1992’.”
 

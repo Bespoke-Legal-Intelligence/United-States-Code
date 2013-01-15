@@ -52,7 +52,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (h) Display or representation of automotive fuel requirement of motor vehicle not to create express or implied warranty under State or Federal law respecting knocking characteristics of automotive fuel
 
-Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) of this section shall not create an express or implied warranty under State or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—
+Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) of this section shall not create an express or implied warranty underState or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—
 
 &emsp;(1) may be used as a fuel in all motor vehicles of the same class as that motor vehicle without knocking; or
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 102–486 effective at end of one-year period beginning Oct
 
 #### Effective Date
 
-Section 205 of Pub. L. 95–297 provided that:
+Pub. L. 95–297, title II, §205, June 19, 1978, 92 Stat. 337, provided that:
 
 “(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
 

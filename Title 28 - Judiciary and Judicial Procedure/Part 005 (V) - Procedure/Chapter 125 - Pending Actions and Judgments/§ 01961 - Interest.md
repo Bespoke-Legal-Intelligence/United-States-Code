@@ -52,7 +52,7 @@ Amendment by section 1511(c)(17) of Pub. L. 99–514 applicable for purposes of 
 
 #### Effective Date of 1982 Amendments
 
-Section 2(m) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–258, §2(m), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 

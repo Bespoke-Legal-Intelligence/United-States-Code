@@ -24,6 +24,10 @@
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 98–573, title II, §212(b)(6), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 100–449, title IV, §402(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147.)
 
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
 Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (c)(2), are classified to sections 2273, 2341, and 2371, respectively, of Title 19, Customs Duties. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982.
@@ -38,7 +42,7 @@ Section 641 of the Tariff Act of 1930, referred to in subsec. (e), is classified
 
 <b>1993</b>—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
+<b>1988</b>—Subsec. (c). Pub. L. 100–449 temporarily substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5). See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
@@ -48,7 +52,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a),\(c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Effective Date of 1984 Amendment
 

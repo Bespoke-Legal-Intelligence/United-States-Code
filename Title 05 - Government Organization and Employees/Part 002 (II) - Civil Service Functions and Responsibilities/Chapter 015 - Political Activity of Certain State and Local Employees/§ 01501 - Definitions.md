@@ -4,7 +4,7 @@ For the purpose of this chapter—
 
 &emsp;(1) “State” means a State or territory or possession of the United States;
 
-&emsp;(2) “State or local agency” means the executive branch of a State, municipality, or other political subdivision of a State, or an agency or department thereof;
+&emsp;(2) “State or local agency” means the executive branch of a State, municipality, or other political subdivision of a State, or an agency or department thereof, or the executive branch of the District of Columbia, or an agency or department thereof;
 
 &emsp;(3) “Federal agency” means an Executive agency or other agency of the United States, but does not include a member bank of the Federal Reserve System; and
 
@@ -12,9 +12,15 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(A) an individual who exercises no functions in connection with that activity; or
 
-&emsp;&emsp;(B) an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.
+&emsp;&emsp;(B) an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by—
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, §401(c), Oct. 15, 1974, 88 Stat. 1290.)
+&emsp;&emsp;&emsp;(i) a State or political subdivision thereof;
+
+&emsp;&emsp;&emsp;(ii) the District of Columbia; or
+
+&emsp;&emsp;&emsp;(iii) a recognized religious, philanthropic, or cultural organization.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, §401(c), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, §3(a), (b), Dec. 28, 2012, 126 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -64,7 +70,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+<b>2012</b>—Par. (2). Pub. L. 112–230, §3(a), inserted “, or the executive branch of the District of Columbia, or an agency or department thereof” before semicolon at end.
+
+Par. (4)(B). Pub. L. 112–230, §3(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.”
+
 <b>1974</b>—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–230, §5(a), Dec. 28, 2012, 126 Stat. 1617, provided that: This Act \[see Short Title of 2012 Amendment note set out under section 101 of this title\] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act \[Dec. 28, 2012\].”
 
 #### Effective Date of 1974 Amendment
 

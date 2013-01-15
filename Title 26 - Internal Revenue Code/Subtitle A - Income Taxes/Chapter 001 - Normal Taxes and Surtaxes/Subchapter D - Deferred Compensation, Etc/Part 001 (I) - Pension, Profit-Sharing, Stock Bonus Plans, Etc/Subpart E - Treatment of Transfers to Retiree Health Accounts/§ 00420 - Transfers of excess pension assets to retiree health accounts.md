@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If there is a qualified transfer of any excess pension assets of a defined benefit plan to a health benefits account which is part of such plan—
+If there is a qualified transfer of any excess pension assets of a defined benefit plan to a health benefits account, or an applicable life insurance account, which is part of such plan—
 
 &emsp;(1) a trust which is part of such plan shall not be treated as failing to meet the requirements of subsection (a) or (h) of section 401 solely by reason of such transfer (or any other action authorized under this section),
 
@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;The term “qualified transfer” means a transfer—
 
-&emsp;&emsp;(A) of excess pension assets of a defined benefit plan to a health benefits account which is part of such plan in a taxable year beginning after December 31, 1990,
+&emsp;&emsp;(A) of excess pension assets of a defined benefit plan to a health benefits account, or an applicable life insurance account, which is part of such plan,
 
 &emsp;&emsp;(B) which does not contravene any other provision of law, and
 
@@ -38,43 +38,15 @@ For purposes of this section—
 
 #### (2) Only 1 transfer per year
 
-#### (A) In general
-
-&emsp;&emsp;No more than 1 transfer with respect to any plan during a taxable year may be treated as a qualified transfer for purposes of this section.
-
-#### (B) Exception
-
-&emsp;&emsp;A transfer described in paragraph (4) shall not be taken into account for purposes of subparagraph (A).
+&emsp;No more than 1 transfer with respect to any plan during a taxable year may be treated as a qualified transfer for purposes of this section. If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.
 
 #### (3) Limitation on amount transferred
 
-&emsp;The amount of excess pension assets which may be transferred in a qualified transfer shall not exceed the amount which is reasonably estimated to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the taxable year of the transfer for qualified current retiree health liabilities.
+&emsp;The amount of excess pension assets which may be transferred to an account in a qualified transfer shall not exceed the amount which is reasonably estimated to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the taxable year of the transfer for qualified current retiree liabilities.
 
-#### (4) Special rule for 1990
+#### (4) Expiration
 
-#### (A) In general
-
-&emsp;&emsp;Subject to the provisions of subsection (c), a transfer shall be treated as a qualified transfer if such transfer—
-
-&emsp;&emsp;&emsp;(i) is made after the close of the taxable year preceding the employer's first taxable year beginning after December 31, 1990, and before the earlier of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the due date (including extensions) for the filing of the return of tax for such preceding taxable year, or
-
-&emsp;&emsp;&emsp;&emsp;(II) the date such return is filed, and
-
-&emsp;&emsp;&emsp;(ii) does not exceed the expenditures of the employer for qualified current retiree health liabilities for such preceding taxable year.
-
-#### (B) Deduction reduced
-
-&emsp;&emsp;The amount of the deductions otherwise allowable under this chapter to an employer for the taxable year preceding the employer's first taxable year beginning after December 31, 1990, shall be reduced by the amount of any qualified transfer to which this paragraph applies.
-
-#### (C) Coordination with reduction rule
-
-&emsp;&emsp;Subsection (e)(1)(B) shall not apply to a transfer described in subparagraph (A).
-
-#### (5) Expiration
-
-&emsp;No transfer made after December 31, 2013, shall be treated as a qualified transfer.
+&emsp;No transfer made after December 31, 2021, shall be treated as a qualified transfer.
 
 #### (c) Requirements of plans transferring assets
 
@@ -82,13 +54,13 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
+&emsp;&emsp;Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) <sup>1</sup> for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
 
-#### (B) Amounts not used to pay for health benefits
+#### (B) Amounts not used to pay for health benefits or life insurance
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
+&emsp;&emsp;&emsp;Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) which arenot used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
 
 #### (ii) Tax treatment of amounts
 
@@ -100,39 +72,35 @@ For purposes of this section—
 
 #### (C) Ordering rule
 
-&emsp;&emsp;For purposes of this section, any amount paid out of a health benefits account shall be treated as paid first out of the assets and income described in subparagraph (A).
+&emsp;&emsp;For purposes of this section, any amount paid out of a health benefits account, or an applicable life insurance account, shall be treated as paid first out of the assets and income described in subparagraph (A).
 
 #### (2) Requirements relating to pension benefits accruing before transfer
 
-#### (A) In general
-
-&emsp;&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
-
-#### (B) Special rule for 1990
-
-&emsp;&emsp;In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation.
+&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
 
 #### (3) Minimum cost requirements
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).
+&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan under which applicable life insurance benefits are provided, provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).
 
 #### (B) Applicable employer cost
 
 &emsp;&emsp;For purposes of this paragraph, the term “applicable employer cost” means, with respect to any taxable year, the amount determined by dividing—
 
-&emsp;&emsp;&emsp;(i) the qualified current retiree health liabilities of the employer for such taxable year determined—
+&emsp;&emsp;&emsp;(i) the qualified current retiree liabilities of the employer for such taxable year determined—
 
-&emsp;&emsp;&emsp;&emsp;(I) without regard to any reduction under subsection (e)(1)(B), and
+&emsp;&emsp;&emsp;&emsp;(I) separately with respect to applicable health benefits and applicable life insurance benefits,
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxable year in which there was no qualified transfer, in the same manner as if there had been such a transfer at the end of the taxable year, by
+&emsp;&emsp;&emsp;&emsp;(II) without regard to any reduction under subsection (e)(1)(B), and
 
-&emsp;&emsp;&emsp;(ii) the number of individuals to whom coverage for applicable health benefits was provided during such taxable year.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a taxable year in which there was no qualified transfer, in the same manner as if there had been such a transfer at the end of the taxable year, by
+
+&emsp;&emsp;&emsp;(ii) the number of individuals to whom coverage was provided during such taxable year for the benefits with respect to which the determination under clause (i) is made.
 
 #### (C) Election to compute cost separately
 
-&emsp;&emsp;An employer may elect to have this paragraph applied separately with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible.
+&emsp;&emsp;An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
 
 #### (D) Cost maintenance period
 
@@ -142,9 +110,9 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage or retiree life insurance coverage, as the case may be, during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
-#### (ii) Insignificant cost reductions permitted
+#### (ii) Insignificant cost reductions for retiree health coverage permitted
 
 #### (I) In general
 
@@ -152,7 +120,7 @@ For purposes of this section—
 
 #### (II) Eligible employer
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), an employer shall be treated as an eligible employer for any taxable year if, for the preceding taxable year, the qualified current retiree health liabilities of the employer were at least 5 percent of the gross receipts of the employer. For purposes of this subclause, the rules of paragraphs (2), (3)(B), and (3)(C) of section 448(c) shall apply in determining the amount of an employer's gross receipts.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), an employer shall be treated as an eligible employer for any taxable year if, for the preceding taxable year, the qualified current retiree liabilities of the employer with respect to applicable health benefits were at least 5 percent of the gross receipts of the employer. For purposes ofthis subclause, the rules of paragraphs (2), (3)(B), and (3)(C) of section 448(c) shall apply in determining the amount of an employer's gross receipts.
 
 #### (d) Limitations on employer
 
@@ -162,11 +130,11 @@ For purposes of this title—
 
 &emsp;No deduction shall be allowed—
 
-&emsp;&emsp;(A) for the transfer of any amount to a health benefits account in a qualified transfer (or any retransfer to the plan under subsection (c)(1)(B)),
+&emsp;&emsp;(A) for the transfer of any amount to a health benefits account, or an applicable life insurance account, in a qualified transfer (or any retransfer to the plan under subsection (c)(1)(B)),
 
-&emsp;&emsp;(B) for qualified current retiree health liabilities paid out of the assets (and income) described in subsection (c)(1), or
+&emsp;&emsp;(B) for qualified current retiree liabilities paid out of the assets (and income) described in subsection (c)(1), or
 
-&emsp;&emsp;(C) for any amounts to which subparagraph (B) does not apply and which are paid for qualified current retiree health liabilities for the taxable year to the extent such amounts are not greater than the excess (if any) of—
+&emsp;&emsp;(C) for any amounts to which subparagraph (B) does not apply and which are paid for qualified current retiree liabilities for the taxable year to the extent such amounts are not greater than the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount determined under subparagraph (A) (and income allocable thereto), over
 
@@ -174,19 +142,19 @@ For purposes of this title—
 
 #### (2) No contributions allowed
 
-&emsp;An employer may not contribute after December 31, 1990, any amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to qualified current retiree health liabilities for which transferred assets are required to be used under subsection (c)(1).
+&emsp;An employer may not contribute any amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to qualified current retiree liabilities for which transferred assets are required to be used under subsection (c)(1).
 
 #### (e) Definition and special rules
 
 For purposes of this section—
 
-#### (1) Qualified current retiree health liabilities
+#### (1) Qualified current retiree liabilities
 
 &emsp;For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified current retiree health liabilities” means, with respect to any taxable year, the aggregate amounts (including administrative expenses) which would have been allowable as a deduction to the employer for such taxable year with respect to applicable health benefits provided during such taxable year if—
+&emsp;&emsp;The term “qualified current retiree liabilities” means, with respect to any taxable year, the aggregate amounts (including administrative expenses) which would have been allowable as a deduction to the employer for such taxable year with respect to applicable health benefits and applicable life insurance benefits provided during such taxable year if—
 
 &emsp;&emsp;&emsp;(i) such benefits were provided directly by the employer, and
 
@@ -196,23 +164,27 @@ For purposes of this section—
 
 #### (B) Reductions for amounts previously set aside
 
-&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced by the amount which bears the same ratio to such amount as—
+&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced by the amount (determined separately for applicable health benefits and applicable life insurance benefits) which bears the same ratio to such amount as—
 
-&emsp;&emsp;&emsp;(i) the value (as of the close of the plan year preceding the year of the qualifiedtransfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the qualified current retiree health liability, bears to
+&emsp;&emsp;&emsp;(i) the value (as of the close of the plan year preceding the year of the qualified transfer) of the assets in all health benefits accounts or applicable life insurance accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the qualified current retiree liability, bears to
 
-&emsp;&emsp;&emsp;(ii) the present value of the qualified current retiree health liabilities for all plan years (determined without regard to this subparagraph).
+&emsp;&emsp;&emsp;(ii) the present value of the qualified current retiree liabilities for all plan years (determined without regard to this subparagraph).
 
 #### (C) Applicable health benefits
 
 &emsp;&emsp;The term “applicable health benefits” means health benefits or coverage which are provided to—
 
-&emsp;&emsp;&emsp;(i) retired employees who, immediately before the qualified transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and
+&emsp;&emsp;&emsp;(i) retired employees who, immediately before the qualified transfer, are entitled to receive such benefits by reason of retirement and who are entitled to pension benefits under the plan, and
 
 &emsp;&emsp;&emsp;(ii) their spouses and dependents.
 
-#### (D) Key employees excluded
+#### (D) Applicable life insurance benefits
 
-&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing qualified current retiree health liabilities for such taxable year or in calculating applicable employer cost under subsection (c)(3)(B).
+&emsp;&emsp;The term “applicable life insurance benefits” means group-term life insurance coverage provided to retired employees who, immediately before the qualified transfer, are entitled to receive such coverage by reason of retirement and who are entitled to pension benefits under the plan, but only to the extent that such coverage is provided under a policy for retired employees and the cost of such coverage is excludable from the retired employee's gross income under section 79.
+
+#### (E) Key employees excluded
+
+&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing qualified current retiree liabilities for such taxable year or in calculating applicable employer cost under subsection (c)(3)(B).
 
 #### (2) Excess pension assets
 
@@ -230,11 +202,15 @@ For purposes of this section—
 
 &emsp;The term “health benefits account” means an account established and maintained under section 401(h).
 
-#### (4) Coordination with section 430
+#### (4) Applicable life insurance account
 
-&emsp;In the case of a qualified transfer, any assets so transferred shall not, for purposes of this section and section 430, be treated as assets in the plan.
+&emsp;The term “applicable life insurance account” means a separate account established and maintained for amounts transferred under this section for qualified current retiree liabilities based on premiums for applicable life insurance benefits.
 
-#### (5) Application to multiemployer plans
+#### (5) Coordination with section 430
+
+&emsp;In the case of a qualified transfer, any assets so transferred shall not, for purposes of thissection and section 430, be treated as assets in the plan.
+
+#### (6) Application to multiemployer plans
 
 &emsp;In the case of a multiemployer plan, this section shall be applied to any such plan—
 
@@ -242,7 +218,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
 
-#### (f) Qualified transfers to cover future retiree health costs and collectively bargained retiree health benefits
+#### (f) Qualified transfers to cover future retiree costs and collectively bargained retiree benefits
 
 #### (1) In general
 
@@ -282,7 +258,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employer maintaining the plan shall make contributions to the plan in an amount not less than the amount required to reduce such excess to zero as of such date, or
 
-&emsp;&emsp;&emsp;&emsp;(II) there is transferred from the health benefits account to the plan an amount not less than the amount required to reduce such excess to zero as of such date.
+&emsp;&emsp;&emsp;&emsp;(II) there is transferred from the health benefits account or applicable life insurance account, as the case may be, to the plan an amount not less than the amount required to reduce such excess to zero as of such date.
 
 #### (C) Limitation on amount transferred
 
@@ -292,9 +268,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the transfer period includes the taxable year of the transfer, the amount determined under subsection (b)(3) for such taxable year, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of all other taxable years in the transfer period, the sum of the qualified current retiree health liabilities which the plan reasonably estimates, in accordance with guidance issued by the Secretary, will be incurred for each of such years, and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of all other taxable years in the transfer period, the sum of the qualified current retiree liabilities which the plan reasonably estimates, in accordance with guidance issued by the Secretary, will be incurred for each of such years, and
 
-&emsp;&emsp;&emsp;(ii) in the case of a collectively bargained transfer, shall not exceed the amount which is reasonably estimated, in accordance with the provisions of the collective bargaining agreement and generally accepted accounting principles, to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the collectively bargained cost maintenance period for collectively bargained retiree health liabilities.
+&emsp;&emsp;&emsp;(ii) in the case of a collectively bargained transfer, shall not exceed the amount which is reasonably estimated, in accordance with the provisions of the collective bargaining agreement and generally accepted accounting principles, to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the collectively bargained cost maintenance period for collectively bargained retiree liabilities.
 
 #### (D) Minimum cost requirements
 
@@ -302,17 +278,17 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The requirements of subsection (c)(3) shall be treated as met if—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a collectively bargained transfer, each collectively bargained group health plan under which collectively bargained health benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a collectively bargained transfer, each collectively bargained plan under which collectively bargained health benefits or collectively bargained life insurance benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be lessthan the amount specified by the collective bargaining agreement.
 
 #### (ii) Election to maintain benefits for future transfers
 
-&emsp;&emsp;&emsp;An employer may elect, in lieu of the requirements of clause (i)(I), to meet the requirements of subsection (c)(3) by meeting the requirements of such subsection (as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999) for each of the years described in the period under clause (i)(I).
+&emsp;&emsp;&emsp;An employer may elect, in lieu of the requirements of clause (i)(I), to meet the requirements of subsection (c)(3) with respect to applicable health benefits or applicable life insurance benefits by meeting the requirements of such subsection (as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999) for each of the years described in the period under clause (i)(I). Such election may be made separately with respect to applicable health benefits and applicable life insurance benefits. In the case of an election with respect to applicable life insurance benefits, the first sentence of this clause shall be applied as if subsection (c)(3) as in effect before the amendments made by such Act applied to such benefits.
 
 #### (iii) Collectively bargained employer cost
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained retiree health benefits as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained retiree health benefits that is provided or financed by a government program or other source.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.
 
 #### (E) Special rules for collectively bargained transfers
 
@@ -324,15 +300,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) before the transfer, the employer designates, in a written notice delivered to each employee organization that is a party to the collective bargaining agreement, as a collectively bargained transfer in accordance with this section, and
 
-&emsp;&emsp;&emsp;&emsp;(III) involves a plan maintained by an employer which, in its taxable year ending in 2005, provided health benefits or coverage to retirees and their spouses and dependents under all of the benefit plans maintained by the employer, but only if the aggregate cost (including administrative expenses) of such benefits or coverage which would have been allowable as a deduction to the employer (if such benefits or coverage had been provided directly by the employer and the employer used the cash receipts and disbursements method of accounting) is at least 5 percent of the gross receipts of the employer (determined in accordance with the last sentence of subsection (c)(3)(E)(ii)(II)) for such taxable year, or a plan maintained by a successor to such employer.
+&emsp;&emsp;&emsp;&emsp;(III) involves a defined benefit plan maintained by an employer which, in its taxable year ending in 2005, provided health benefits or coverage to retirees and their spouses and dependents under all of the health benefit plans maintained by the employer, but only if the aggregate cost (including administrative expenses) of such benefits or coverage which would have been allowable as a deduction to the employer (if such benefits or coverage had been provided directly by the employer and the employer used the cash receipts and disbursements method of accounting) is at least 5 percent of the gross receipts of the employer (determined in accordance with the last sentence of subsection (c)(3)(E)(ii)(II)) for such taxable year, or a plan maintained by a successor to such employer.
 
 #### (ii) Use of assets
 
-&emsp;&emsp;&emsp;Any assets transferred to a health benefits account in a collectively bargained transfer (and any income allocable thereto) shall be used only to pay collectively bargained retiree health liabilities (other than liabilities of key employees not taken into account under paragraph (6)(B)(iii)) for the taxable year of the transfer or for any subsequent taxable year during the collectively bargained cost maintenance period (whether directly or through reimbursement).
+&emsp;&emsp;&emsp;Any assets transferred to a health benefits account, or an applicable life insurance account, in a collectively bargained transfer (and any income allocable thereto) shall be used only to pay collectively bargained retiree liabilities (other than liabilities of key employees not taken into account under paragraph (6)(B)(iii)) for the taxable year of the transfer or for any subsequent taxable year during the collectively bargained cost maintenance period (whether directly or through reimbursement).
 
 #### (3) Coordination with other transfers
 
-&emsp;In applying subsection (b)(3) to any subsequent transfer during a taxable year in a transfer period or collectively bargained cost maintenance period, qualified current retiree health liabilities shall be reduced by any such liabilities taken into account with respect to the qualified future transfer or collectively bargained transfer to which such period relates.
+&emsp;In applying subsection (b)(3) to any subsequent transfer during a taxable year in a transfer period or collectively bargained cost maintenance period, qualified current retiree liabilities shall be reduced by any such liabilities taken into account with respect to the qualified future transfer or collectively bargained transfer to which such period relates.
 
 #### (4) Special deduction rules for collectively bargained transfers
 
@@ -340,9 +316,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the limitation under subsection (d)(1)(C) shall not apply, and
 
-&emsp;&emsp;(B) notwithstanding subsection (d)(2), an employer may contribute an amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to collectively bargained retiree health liabilities for which transferred assets are required to be used under subsection (c)(1)(B), and the deductibility of any such contribution shall be governed by the limits applicable to the deductibility of contributions to a welfare benefit fund under a collective bargaining agreement (as determined under section 419A(f)(5)(A)) without regard to whether such contributions are made to a health benefits account or welfare benefit fund and without regard to the provisions of section 404 or the other provisions of this section.
+&emsp;&emsp;(B) notwithstanding subsection (d)(2), an employer may contribute an amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to collectively bargained retiree liabilities for which transferred assets are required to be used under subsection (c)(1)(B), and the deductibility of any such contribution shall be governed by the limits applicable to the deductibility of contributions to a welfare benefit fund under a collective bargaining agreement (as determined under section 419A(f)(5)(A)) without regard to whether such contributions are made to a health benefits account or welfare benefit fund and without regard to the provisions of section 404 or the other provisions of this section.
 
-> &emsp;The Secretary shall provide rules to ensure that the application of this paragraph does not result in a deduction being allowed more than once for the same contribution or for 2 or more contributions or expenditures relating to the same collectively bargained retiree health liabilities.
+> &emsp;The Secretary shall provide rules to ensure that the application of this paragraph does not result in a deduction being allowed more than once for the same contribution or for 2 or more contributions or expenditures relating to the same collectively bargained retiree liabilities.
 
 #### (5) Transfer period
 
@@ -356,47 +332,177 @@ For purposes of this section—
 
 &emsp;&emsp;The term “collectively bargained cost maintenance period” means, with respect to each covered retiree and his covered spouse and dependents, the shorter of—
 
-&emsp;&emsp;&emsp;(i) the remaining lifetime of such covered retiree and his covered spouse and dependents, or
+&emsp;&emsp;&emsp;(i) the remaining lifetime of such covered retiree and, in the case of a transfer to a health benefits account, his covered spouse and dependents, or
 
-&emsp;&emsp;&emsp;(ii) the period of coverage provided by the collectively bargained health plan (determined as of the date of the collectively bargained transfer) with respect to such covered retiree and his covered spouse and dependents.
+&emsp;&emsp;&emsp;(ii) the period of coverage provided by the collectively bargained plan (determined as of the date of the collectively bargained transfer) with respect to such covered retiree and, in the case of a transfer to a health benefits account, his covered spouse and dependents.
 
-#### (B) Collectively bargained retiree health liabilities
+#### (B) Collectively bargained retiree liabilities
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “collectively bargained retiree health liabilities” means the present value, as of the beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
+&emsp;&emsp;&emsp;The term “collectively bargained retiree liabilities” means the present value, as of the beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits, and collectively bargained life insurance benefits, (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
 
 #### (ii) Reduction for amounts previously set aside
 
-&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree health liabilities.
+&emsp;&emsp;&emsp;The amount determined under clause (i) shall be reduced by the value (as of the close of the plan year preceding the year of the collectively bargained transfer) of the assets in all health benefits accounts, applicable life insurance accounts, or welfare benefit funds (as defined in section 419(e)(1)) set aside to pay for the collectively bargained retiree liabilities. The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.
 
 #### (iii) Key employees excluded
 
-&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(I)(1)) <sup>1</sup> with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
 
 #### (C) Collectively bargained health benefits
 
-&emsp;&emsp;The term “collectively bargained health benefits” means health benefits or coverage which are provided to—
+&emsp;&emsp;The term “collectively bargained health benefits” means health benefits or coverage—
 
-&emsp;&emsp;&emsp;(i) retired employees who, immediately before the collectively bargained transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and their spouses and dependents, and
+&emsp;&emsp;&emsp;(i) which are provided to retired employees who, immediately before the collectively bargained transfer, are entitled to receive such benefits by reason of retirement and who are entitled to pension benefits under the plan, and their spouses and dependents, and
 
-&emsp;&emsp;&emsp;(ii) if specified by the provisions of the collective bargaining agreement governing the collectively bargained transfer, active employees who, following their retirement, are entitled to receive such benefits and who are entitled to pension benefits under the plan, and their spouses and dependents.
+&emsp;&emsp;&emsp;(ii) if specified by the provisions of the collective bargaining agreement governing the collectively bargained transfer, which will be provided at retirement to employees who are not retired employees at the time of the transfer and who are entitled to receive such benefits and who are entitled to pension benefits under the plan, and their spouses and dependents.
 
-#### (D) Collectively bargained health plan
+#### (D) Collectively bargained life insurance benefits
 
-&emsp;&emsp;The term “collectively bargained health plan” means a group health plan or arrangement for retired employees and their spouses and dependents that is maintained pursuant to 1 or more collective bargaining agreements.
+&emsp;&emsp;The term “collectively bargained life insurance benefits” means, with respect to any collectively bargained transfer—
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110.)
+&emsp;&emsp;&emsp;(i) applicable life insurance benefits which are provided to retired employees who, immediately before the transfer, are entitled to receive such benefits by reason of retirement, and
+
+&emsp;&emsp;&emsp;(ii) if specified by the provisions of the collective bargaining agreement governing the transfer, applicable life insurance benefits which will be provided at retirement to employees who are not retired employees at the time of the transfer.
+
+#### (E) Collectively bargained plan
+
+&emsp;&emsp;The term “collectively bargained plan” means a group health plan or arrangement for retired employees and their spouses and dependents, or a group-term life insurance plan or arrangement for retired employees, that is maintained pursuant to 1 or more collective bargaining agreements.
+
+#### (g) Segment rates determined without pension stabilization
+
+For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
+
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863.)
 
 #### References in Text
 
+Subsection (e)(1)(D), referred to in subsec. (c)(1)(A), was redesignated subsec. (e)(1)(E) and a new subsec. (e)(1)(D) was added by Pub. L. 112–141, div. D, title II, §40242(b)(2), July 6, 2012, 126 Stat. 859.
+
 The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classifiedprincipally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, §40242(e)(1), substituted “qualified current retiree liabilities” for “qualified current retiree health liabilities” wherever appearing in subsecs. (b) to (d), (e)(1), and (f).
+
+Subsec. (a). Pub. L. 112–141, §40242(a), inserted “, or an applicable life insurance account,” after “health benefits account”.
+
+Subsec. (b)(1)(A). Pub. L. 112–141, §40242(g)(1), struck out “in a taxable year beginning after December 31, 1990” after “such plan”.
+
+Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Subsec. (b)(2). Pub. L. 112–141, §40242(g)(3), struck out “(A) In general” before “No more than” and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “A transfer described in paragraph (4) shall not be taken into account for purposes of subparagraph (A).”
+
+Subsec. (b)(2)(A). Pub. L. 112–141, §40242(e)(3)(A), inserted at end “If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.”
+
+Subsec. (b)(3). Pub. L. 112–141, §40242(e)(3)(B), inserted “to an account” after “may be transferred”.
+
+Subsec. (b)(4). Pub. L. 112–141, §40242(g)(2), redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for 1990.
+
+Subsec. (b)(5). Pub. L. 112–141, §40242(g)(2), redesignated par. (5) as (4).
+
+Pub. L. 112–141, §40241(a), substituted “December 31, 2021” for “December 31, 2013”.
+
+Subsec. (c)(1)(A). Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Subsec. (c)(1)(B). Pub. L. 112–141, §40242(e)(4), inserted “or life insurance” after “health benefits” in heading.
+
+Subsec. (c)(1)(B)(i). Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Subsec. (c)(1)(C). Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Subsec. (c)(2). Pub. L. 112–141, §40242(g)(4), struck out “(A) In general” before “The requirements of”, realigned margins, and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation.”
+
+Subsec. (c)(3)(A). Pub. L. 112–141, §40242(c)(1), inserted “, and each group-term life insurance plan under which applicable life insurance benefits are provided,” after “health benefits are provided”.
+
+Subsec. (c)(3)(B)(i). Pub. L. 112–141, §40242(c)(2)(A)(i), redesignated subcls. (I) and (II) as (II) and (III), respectively, and added subcl. (I).
+
+Subsec. (c)(3)(B)(ii). Pub. L. 112–141, §40242(c)(2)(A)(ii), substituted “was provided during such taxable year for the benefits with respect to which the determination under clause (i) is made.” for “for applicable health benefits was provided during such taxable year.”
+
+Subsec. (c)(3)(C). Pub. L. 112–141, §40242(c)(2)(B), inserted “for applicable health benefits” after “applied separately” and “, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year” before the period at end.
+
+Subsec. (c)(3)(E)(i). Pub. L. 112–141, §40242(c)(2)(C)(i), inserted “or retiree life insurance coverage, as the case may be,” after “retiree health coverage”.
+
+Subsec. (c)(3)(E)(ii). Pub. L. 112–141, §40242(c)(2)(C)(ii), inserted “for retiree health coverage” after “cost reductions” in heading.
+
+Subsec. (c)(3)(E)(ii)(II). Pub. L. 112–141, §40242(c)(2)(C)(iii), inserted “with respect to applicable health benefits” after “liabilities of the employer”.
+
+Subsec. (d)(1)(A). Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Subsec. (d)(2). Pub. L. 112–141, §40242(g)(5), struck out “after December 31, 1990” after “may not contribute”.
+
+Subsec. (e)(1). Pub. L. 112–141, §40242(e)(5)(B), struck out “health” after “Qualified current retiree” in the heading.
+
+Subsec. (e)(1)(A). Pub. L. 112–141, §40242(e)(5)(A), inserted “and applicable life insurance benefits” after “applicable health benefits”.
+
+Subsec. (e)(1)(B). Pub. L. 112–141, §40242(e)(6)(A), inserted “(determined separately for applicable health benefits and applicable life insurance benefits)” after “shall be reduced by the amount” in introductory provisions.
+
+Subsec. (e)(1)(B)(i). Pub. L. 112–141, §40242(e)(6)(C), substituted “qualified current retiree liability” for “qualified current retiree health liability”.
+
+Pub. L. 112–141, §40242(e)(6)(B), which directed the insertion of “or applicable life insurance accounts” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
+
+Subsec. (e)(1)(C)(i). Pub. L. 112–141, §40242(b)(3)(B)(i), substituted “by reason of retirement” for “upon retirement”.
+
+Subsec. (e)(1)(D), (E). Pub. L. 112–141, §40242(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (e)(4) to (6). Pub. L. 112–141, §40242(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (f). Pub. L. 112–141, §40242(e)(7), struck out “health” after “retiree” in two places in the heading.
+
+Subsec. (f)(2)(B)(ii)(II). Pub. L. 112–141, §40242(e)(8), inserted “or applicable life insurance account, as the case may be,” after “health benefits account”.
+
+Subsec. (f)(2)(C)(ii). Pub. L. 112–141, §40242(c)(2)(D), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
+
+Subsec. (f)(2)(D)(i)(I). Pub. L. 112–141, §40242(c)(2)(E)(i), (ii), inserted “, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided,” after “applicable health benefits are provided” and “or applicable life insurance benefits, as the case may be,” after “provides applicable health benefits”.
+
+Subsec. (f)(2)(D)(i)(II). Pub. L. 112–141, §40242(c)(2)(E)(iii), (iv), struck out “group health” after “each collectively bargained” and inserted “or collectively bargained life insurance benefits” after “collectively bargained health benefits”.
+
+Subsec. (f)(2)(D)(ii). Pub. L. 112–141, §40242(c)(2)(F), inserted “with respect to applicable health benefits or applicable life insurance benefits” after “requirements of subsection (c)(3)” and inserted at end “Such election may be made separately with respect to applicable health benefits and applicable life insurance benefits. In the case of an election with respect to applicable life insurance benefits, the first sentence of this clause shall be applied as if subsection (c)(3) as in effect before the amendments made by such Act applied to such benefits.”
+
+Subsec. (f)(2)(D)(iii). Pub. L. 112–141, §40242(c)(2)(G), struck out “retiree” before “health benefits” in twoplaces and inserted “, collectively bargained life insurance benefits, or both, as the case may be,” after “health benefits” in two places.
+
+Subsec. (f)(2)(E)(i)(III). Pub. L. 112–141, §40242(e)(9), inserted “defined benefit” before “plan maintained by an employer” and “health” before “benefit plans maintained by the employer”.
+
+Subsec. (f)(2)(E)(ii). Pub. L. 112–141, §40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
+
+Pub. L. 112–141, §40242(c)(2)(D), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
+
+Subsec. (f)(4). Pub. L. 112–141, §40242(e)(10), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” in two places.
+
+Subsec. (f)(6)(A)(i). Pub. L. 112–141, §40242(e)(11)(A), inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents”.
+
+Subsec. (f)(6)(A)(ii). Pub. L. 112–141, §40242(e)(11), inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents” and substituted “plan” for “health plan”.
+
+Subsec. (f)(6)(B). Pub. L. 112–141, §40242(e)(12)(C), struck out “health” after “retiree” in the heading.
+
+Pub. L. 112–141, §40242(e)(10), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” wherever appearing.
+
+Subsec. (f)(6)(B)(i). Pub. L. 112–141, §40242(e)(12)(A), inserted “, and collectively bargained life insurance benefits,” after “collectively bargained health benefits”.
+
+Subsec. (f)(6)(B)(ii). Pub. L. 112–141, §40242(e)(12)(B)(ii), which directed the insertion of “, applicable life insurance accounts,” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
+
+Pub. L. 112–141, §40242(e)(12)(B)(i), inserted at end “The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.”
+
+Subsec. (f)(6)(B)(iii). Pub. L. 112–141, §40242(f), substituted “416(i)(1)” for “416(I)(1)”.
+
+Subsec. (f)(6)(C). Pub. L. 112–141, §40242(b)(3)(B)(ii)(I), struck out “which are provided to” after “coverage” in introductory provisions.
+
+Subsec. (f)(6)(C)(i). Pub. L. 112–141, §40242(b)(3)(B)(ii)(II), (III), inserted “which are provided to” before “retired employees” and substituted “by reason of retirement” for “upon retirement”.
+
+Subsec. (f)(6)(C)(ii). Pub. L. 112–141, §40242(b)(3)(B)(ii)(IV), substituted “which will be provided at retirement to employees who are not retired employees at the time of the transfer and who” for “active employees who, following their retirement,”.
+
+Subsec. (f)(6)(D). Pub. L. 112–141, §40242(b)(3)(A), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (f)(6)(E). Pub. L. 112–141, §40242(e)(13), struck out “health” after “bargained” in heading, substituted “bargained” for “bargained health”, and inserted “, or a group-term life insurance plan or arrangement for retired employees,” after “dependents”.
+
+Pub. L. 112–141, §40242(b)(3)(A), redesignated subpar. (D) as (E).
+
+Subsec. (g). Pub. L. 112–141, §40211(a)(2)(D), added subsec. (g).
 
 <b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
 
@@ -458,6 +564,22 @@ Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by section 40211(a)(2)(D) of Pub. L. 112–141 applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of this title.
+
+Pub. L. 112–141, div. D, title II, §40241(c), July 6, 2012, 126 Stat. 859, provided that: “The amendments made by this Act \[probably should be “section”, amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\].”
+
+Pub. L. 112–141, div. D, title II, §40242(h), July 6, 2012, 126 Stat. 864, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section, section 79 of this title, and section 1021 of Title 29, Labor\] shall apply to transfers made after the date of the enactment of this Act \[July 6, 2012\].
+
+“(2)
+
+Conforming amendments relating to pension protection act.—The amendments made by subsections (b)(3)(B) and (f) \[amending this section\] shall take effect as if included in the amendments made by section 841(a) of the Pension Protection Act of 2006 \[Pub. L. 109–280\].”
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
@@ -474,7 +596,7 @@ Amendment by section 114(d) of Pub. L. 109–280 applicable to plan years beginn
 
 Pub. L. 109–280, title VIII, §841(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 109–280, title VIII, §842(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendment made bythis section \[amending this section\] shall apply to transfers made in taxable years beginning after December 31, 2006.”
+Pub. L. 109–280, title VIII, §842(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendment made by this section \[amending this section\] shall apply to transfers made in taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 2004 Amendment
 
@@ -494,7 +616,7 @@ Transition rule.—If the cost maintenance period for any qualified transfer aft
 
 #### Effective Date of 1994 Amendment
 
-Section 731(d) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §731(d), Dec. 8, 1994, 108 Stat. 5004, provided that:
 
 “(1)
 
@@ -506,7 +628,7 @@ Benefits.—The amendments made by subsections (b) and (c)(1) and (2) \[amending
 
 #### Effective Date
 
-Section 12011(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XII, §12011(c), Nov. 5, 1990, 104 Stat. 1388–571, provided that:
 
 “(1)
 
@@ -514,11 +636,11 @@ In general.—The amendments made by this section \[enacting this section and am
 
 “(2)
 
-Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or section 6655 of the Internal Revenue Code of 1986 for the taxable year preceding the taxpayer's 1st taxable year beginning after December 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of section 420(b)(4)(B) of such Code (as added by subsection (a)).”
+Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or section 6655 of the Internal Revenue Code of 1986 for the taxable year preceding the taxpayer's 1st taxable year beginning after December 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of \[former\] section 420(b)(4)(B) of such Code (as added by subsection (a)).”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
 For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “416(i)(1))”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

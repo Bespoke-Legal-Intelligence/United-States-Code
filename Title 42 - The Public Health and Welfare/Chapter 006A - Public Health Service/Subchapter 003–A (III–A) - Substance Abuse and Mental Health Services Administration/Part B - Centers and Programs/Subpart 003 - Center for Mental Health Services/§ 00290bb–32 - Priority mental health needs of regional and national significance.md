@@ -50,7 +50,7 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) of
 
 #### (1) In general
 
-&emsp;The Secretary shall establish information and education programs to disseminate and apply the findings of the knowledge development and application, training, and technical assistance programs, and targeted capacity response programs, under this section to the general public, to health care professionals, and to interested groups. The Secretary shall make every effort to provide linkages betweenthe findings of supported projects and State agencies responsible for carrying out mental health services.
+&emsp;The Secretary shall establish information and education programs to disseminate and apply the findings of the knowledge development and application, training, and technical assistance programs, and targeted capacity response programs, under this section to the general public, to health care professionals, and to interested groups. The Secretary shall make every effort to provide linkages between the findings of supported projects and State agencies responsible for carrying out mental health services.
 
 #### (2) Rural and underserved areas
 
@@ -64,7 +64,7 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) of
 
 #### (2) Data infrastructure
 
-&emsp;If amounts are not appropriated for a fiscal year to carry out section 300y of this title with respect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000 and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such section 300y of this title.
+&emsp;If amounts are not appropriated for a fiscal year to carry out section 300y of this title withrespect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000 and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such section 300y of this title.
 
 (July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189.)
 

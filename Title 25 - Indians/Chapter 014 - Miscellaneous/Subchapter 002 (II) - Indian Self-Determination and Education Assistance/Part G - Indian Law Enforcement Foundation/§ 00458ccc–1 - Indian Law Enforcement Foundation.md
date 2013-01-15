@@ -156,7 +156,7 @@ The Foundation shall comply with the law on service of process of each State in 
 
 &emsp;A member of the Board shall be personally liable only for gross negligence in the performance of the duties of the member.
 
-#### (<i>l</i>) Restrictions
+#### (l) Restrictions
 
 #### (1) Limitation on spending
 

@@ -1,20 +1,14 @@
 ### §253. Disclaimer
 
-Whenever, without any deceptive intention, a claim of a patent is invalid the remaining claims shall not thereby be rendered invalid. A patentee, whether of the whole or any sectional interest therein, may, on payment of the fee required by law, make disclaimer of any complete claim, stating therein the extent of his interest in such patent. Such disclaimer shall be in writing, and recorded in the Patent and Trademark Office; and it shall thereafter be considered as part of the original patent to the extent of the interest possessed by the disclaimant and by those claiming under him.
+(a)
 
-In like manner any patentee or applicant may disclaim or dedicate to the public the entire term, or any terminal part of the term, of the patent granted or to be granted.
+In General.—Whenever a claim of a patent is invalid the remaining claims shall not thereby be rendered invalid. A patentee, whether of the whole or any sectional interest therein, may, on payment of the fee required by law, make disclaimer of any complete claim, stating therein the extent of his interest in such patent. Such disclaimer shall be in writing, and recorded in the Patent and Trademark Office; and it shall thereafter be considered as part of the original patent to the extent of the interest possessed by the disclaimant and by those claiming under him.
+
+(b)
+
+Additional Disclaimer or Dedication.—In the manner set forth in subsection (a), any patentee or applicant may disclaim or dedicate to the public the entire term, or any terminal part of the term, of the patent granted or to be granted.
 
 (July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 112–29, §20(e), Sept. 16, 2011, 125 Stat. 334.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(e), (l), Sept. 16, 2011, 125 Stat. 334, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
-
-<i>(1) in the first undesignated paragraph, by striking “Whenever, without any deceptive intention,” and inserting “(a) IN GENERAL.—Whenever”; and</i>
-
-<i>(2) in the second undesignated paragraph, by striking “In like manner” and inserting “(b) ADDITIONAL DISCLAIMER OR DEDICATION.—In the manner set forth in subsection (a),”.</i>
-
-<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -28,13 +22,13 @@ The second paragraph is new and provides for the disclaiming or dedication of an
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, in subsec. (a) substituted “Whenever” for “Whenever, without any deceptive intention,”, and in subsec. (b) substituted “In the manner set forth in subsection (a),” for “In like manner”.
+<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, in subsec. (a), substituted “Whenever” for “Whenever, without any deceptive intention,”, and, in subsec. (b), substituted “In the manner set forth in subsection (a),” for “In like manner”.
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1975 Amendment
 

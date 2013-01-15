@@ -44,7 +44,7 @@ Availability of Appropriations.—Amounts appropriated under—
 
 &emsp;&emsp;&emsp;(ii) for the replacement of electrical transformers containing polychlorinated biphenyls.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, §6(18), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(22), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, §6(18), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(l)(22), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 105–34, §1131(b)(5)(B), added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
-Section 2131(f)(3)–(5) of Pub. L. 94–455 provided that:
+Pub. L. 94–455, title XXI, §2131(f)(3)–(5), Oct. 4, 1976, 90 Stat. 1924, 1925, provided that:
 
 “(3) Except as provided in paragraph (4), the amendments made by subsections (b) and (c) \[amending this section and sections 722 and 723 of this title\] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 

@@ -32,7 +32,7 @@ The Secretary may—
 
 #### (2) Report
 
-&emsp;The Secretary shall provide an annual report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for itsuse, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
+&emsp;The Secretary shall provide an annual report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for its use, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
 
 #### (d) Definition of nontraditional Government contractor
 
@@ -43,8 +43,6 @@ In this section, the term “nontraditional Government contractor” has the sam
 #### References in Text
 
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
-
-The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 #### Amendments
 

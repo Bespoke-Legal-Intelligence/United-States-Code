@@ -10,7 +10,7 @@ Whoever—
 
 &emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit, or (B) the initial or continued right to any such benefit of any other individual in whose behalf he has applied for or is receiving such benefit, conceals or fails to disclose such event with an intent fraudulently to secure such benefit either in a greater amount or quantity than is due or when no such benefit is authorized, or
 
-&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereofto a use other than for the use and benefit of such other person,
+&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereof to a use other than for the use and benefit of such other person,
 
 > shall be fined under title 18, imprisoned not more than 5 years, or both.
 
@@ -20,7 +20,7 @@ Whoever—
 
 &emsp;(A) the Commissioner of Social Security making a benefit payment that should not have been made, or
 
-&emsp;(B) an individual suffering a financial loss due to the defendant's violation of subsection (a) of this section in his or her capacity as the individual's representative payee appointed pursuant to section 1383(a)(2) of this title.
+&emsp;(B) an individual suffering a financial loss due to the defendant's violation of subsection\(a) of this section in his or her capacity as the individual's representative payee appointed pursuant to section 1383(a)(2) of this title.
 
 (2) Sections 3612, 3663, and 3664 of title 18 shall apply with respect to the issuance and enforcement of orders of restitution under this subsection. In so applying such sections, the Commissioner of Social Security shall be considered the victim.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 108–203 applicable with respect to violations occurring o
 
 #### Effective Date of 1994 Amendment
 
-Section 206(c)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[amending this section\] shall apply to conduct occurring on or after October 1, 1994.”
+Pub. L. 103–296, title II, §206(c)(3), Aug. 15, 1994, 108 Stat. 1514, provided that: “The amendments made by this subsection \[amending this section\] shall apply to conduct occurring on or after October 1, 1994.”
 
 #### Effective Date of 1984 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 98–460 effective Oct. 9, 1984, and applicable with respec
 
 #### Effective Date
 
-Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that this section is effective Jan. 1, 1974.
 
 #### Application to Northern Mariana Islands
 

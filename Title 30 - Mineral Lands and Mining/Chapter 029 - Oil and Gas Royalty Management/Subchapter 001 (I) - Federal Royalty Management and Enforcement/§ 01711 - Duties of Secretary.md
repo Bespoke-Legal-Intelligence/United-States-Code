@@ -10,7 +10,7 @@ The Secretary shall—
 
 &emsp;(1) establish procedures to ensure that authorized and properly identified representatives of the Secretary will inspect at least once annually each lease site producing or expected to produce significant quantities of oil or gas in any year or which has a history of noncompliance with applicable provisions of law or regulations; and
 
-&emsp;(2) establish and maintain adequate programs providing for the training of all such authorized representatives in methods and techniques of inspection and accounting that will be used in the implementation of this chapter.
+&emsp;(2) establish and maintain adequate programs providing for the training of all such authorized representatives in methods andtechniques of inspection and accounting that will be used in the implementation of this chapter.
 
 #### (c) Audit and reconciliation of lease accounts; contracts with certified public accountants; availability of books, accounts, records, etc., necessary for audit
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) require that a bid be accompanied by a written guaranty, signed by one or more responsible persons, undertaking that the bidder, if his bid is accepted, will, within the time prescribed by the Secretary or other officer authorized to make the contract, make a contract and furnish a bond with good and sufficient sureties for the performance of the contract.
 
-(b) If a bidder, after being notified of the acceptance of his bid, fails within the time prescribed under subsection (a)(2) to enter into a contract and furnish the prescribed bond, the Secretary concerned or other authorized officer shall—
+(b) If a bidder, after being notified of the acceptance of his bid, fails within the time prescribed under subsection (a)(2) to enter into a contract and furnish the prescribed bond, theSecretary concerned or other authorized officer shall—
 
 &emsp;(1) contract with another person; and
 

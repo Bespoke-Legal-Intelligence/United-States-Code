@@ -76,7 +76,7 @@ Par. (11). Pub. L. 99–657, §2(3), added par. (11).
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–657 provided that:
+Pub. L. 99–657, §4, Nov. 14, 1986, 100 Stat. 3670, provided that:
 
 “(a)
 
@@ -94,7 +94,7 @@ Juries.—The amendments made by this Act \[amending this section and section 90
 
 #### Effective Date of 1965 Amendment
 
-Section 6 of Pub. L. 89–242 provided that: “The provisions of this Act \[amending this section and section 133 of this title and enacting provisions set out as a note below\] shall become effective on the first day of the month following the date of enactment of this Act \[Oct. 7, 1965\].”
+Pub. L. 89–242, §6, Oct. 7, 1965, 79 Stat. 953, provided that: “The provisions of this Act \[amending this section and section 133 of this title and enacting provisions set out as a note below\] shall become effective on the first day of the month following the date of enactment of this Act \[Oct. 7, 1965\].”
 
 #### Consolidation of South Carolina Into a Single Judicial District
 

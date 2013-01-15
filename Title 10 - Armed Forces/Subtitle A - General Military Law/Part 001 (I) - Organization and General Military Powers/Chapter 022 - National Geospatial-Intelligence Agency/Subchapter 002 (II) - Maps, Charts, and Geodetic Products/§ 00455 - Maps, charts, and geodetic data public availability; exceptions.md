@@ -8,7 +8,7 @@
 
 &emsp;(B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods, or capabilities, used to obtain source material for production of the geodetic product; or
 
-&emsp;(C) that contains information that the Director of the National Geospatial-Intelligence Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoingmilitary or intelligence operations, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities.
+&emsp;(C) that contains information that the Director of the National Geospatial-Intelligence Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoing military or intelligence operations, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities.
 
 (2) In this subsection, the term “geodetic product” means imagery, imagery intelligence, or geospatial information.
 
@@ -26,7 +26,7 @@
 
 <b>2003</b>—Subsecs. (a), (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-<b>2000</b>—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
+<b>2000</b>—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, orreveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
 
 <b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–85, §933(a), inserted “, or capabilities,” after “methods”.
 

@@ -32,7 +32,7 @@
 
 #### (3) Payment period
 
-&emsp;A refund under this subsection shall be paid or denied (with an explanation of the reasons for the denial) within 120 days of the date on which the request for refund is received by the Secretary. Such refund shall be subject to later audit by the Secretary or the applicable delegated State and subject to the provisions of this chapter.
+&emsp;A refund under this subsection shall be paid or denied (with an explanation of the reasons for the denial) within 120 days of the date on which the request for refund is received by the Secretary. Such refund shall be subject tolater audit by the Secretary or the applicable delegated State and subject to the provisions of this chapter.
 
 #### (4) Prohibition against reduction of refunds or credits
 
@@ -44,7 +44,7 @@
 
 The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, seeShort Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Effective Date
 

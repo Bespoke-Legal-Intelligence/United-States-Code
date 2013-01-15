@@ -48,7 +48,7 @@
 
 (g) In this section, the term “commissioned service obligation” means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 
-(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
+(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (otherthan medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
 
 (i) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
@@ -116,19 +116,19 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1996 Amendment
 
-Section 741(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
+Pub. L. 104–201, div. A, title VII, §741(c), Sept. 23, 1996, 110 Stat. 2600, provided that: “The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
 
 #### Effective Date of 1993 Amendment
 
-Section 732(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title VII, §732(b), Nov. 30, 1993, 107 Stat. 1697, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 533(d) of Pub. L. 101–510 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on December 31, 1991, and shall apply to persons who are first admitted to the Uniformed Services University of the Health Sciences after that date.”
+Pub. L. 101–510, div. A, title V, §533(d), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on December 31, 1991, and shall apply to persons who are first admitted to the Uniformed Services University of the Health Sciences after that date.”
 
 #### Effective Date of 1989 Amendment
 
-Section 511(e) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
+Pub. L. 101–189, div. A, title V, §511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A,title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
 
 #### Effective Date of 1980 Amendment
 
@@ -142,5 +142,5 @@ For transfer of authority of Board of Regents of Uniformed Services University o
 
 #### Transition Provisions
 
-Section 741(d)(2) of Pub. L. 104–201 provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
+Pub. L. 104–201, div. A, title VII, §741(d)(2), Sept. 23, 1996, 110 Stat. 2600, provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
 

@@ -22,7 +22,7 @@ For the purpose of this chapter:
 
 #### Amendments
 
-<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end “In this paragraph, the term ‘economic disruption’ does not include a work stoppage or other employee-related actionnot related to terrorism and resulting from an employee-employer dispute.”
+<b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end “In this paragraph, the term ‘economic disruption’ does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.”
 
 #### Regulations
 
@@ -39,6 +39,46 @@ Initiation of rulemaking.—The Secretary may initiate a rulemaking to implement
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Integrated Cross-Border Maritime Law Enforcement Operations Between the United States and Canada
+
+Pub. L. 112–213, title VII, §711, Dec. 20, 2012, 126 Stat. 1581, provided that:
+
+“(a)
+
+Authorization.—The Secretary of Homeland Security, acting through the Commandant of the Coast Guard, may establish an Integrated Cross-Border Maritime Law Enforcement Operations Program to coordinate the maritime security operations of the United States and Canada (in this section referred to as the ‘Program’).
+
+“(b)
+
+Purpose.—The Secretary, acting through the Commandant, shall administer the Program in a manner that results in a cooperative approach between the United States and Canada to strengthen border security and detect, prevent, suppress, investigate, and respond to terrorism and violations of law related to border security.
+
+“(c)
+
+Training.—The Secretary, acting through the Commandant and in consultation with the Secretary of State, may—
+
+&emsp;“(1) establish, as an element of the Program, a training program for individuals who will serve as maritime law enforcement officers; and
+
+&emsp;“(2) conduct training jointly with Canada to enhance border security, including training—
+
+&emsp;&emsp;“(A) on the detection and apprehension of suspected terrorists and individuals attempting to unlawfully cross or unlawfully use the international maritime border between the United States and Canada;
+
+&emsp;&emsp;“(B) on the integration, analysis, and dissemination of port security information by and between the United States and Canada;
+
+&emsp;&emsp;“(C) on policy, regulatory, and legal considerations related to the Program;
+
+&emsp;&emsp;“(D) on the use of force in maritime security;
+
+&emsp;&emsp;“(E) on operational procedures and protection of sensitive information; and
+
+&emsp;&emsp;“(F) on preparedness and response to maritime terrorist incidents.
+
+“(d)
+
+Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program with other similar border security and antiterrorism programs within the Department of Homeland Security.
+
+“(e)
+
+Memoranda of Agreement.—The Secretary may enter into any memorandum of agreement necessary to carry out the Program.”
 
 #### Waterside Security of Especially Hazardous Cargo
 
@@ -76,7 +116,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;“(vi) the differences in law enforcement authority, and particularly boarding authority, between the Coast Guard and State and local law enforcement entities, and the impact that these differences have on the ability of State and local law enforcement entities to provide the same level of security that the Coast Guard provides during the enforcement of Coast Guard-imposed security zones and the conduct of security patrols in United States ports; and
 
-&emsp;&emsp;&emsp;“(vii) the extent of resource, training, and equipment differences between State and local law enforcement entities and the Coast Guard units engaged in enforcing Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or conducting security patrols in United States ports;
+&emsp;&emsp;&emsp;“(vii) the extent of resource, training, and equipment differences between State and local law enforcement entities and the Coast Guard units engaged in enforcing Coast Guard-imposed security zones around vessels transiting to,through, or from United States ports or conducting security patrols in United States ports;
 
 &emsp;&emsp;“(C) recommendations for risk-based security measures to improve waterside security of vessels carrying, and waterfront facilities handling, especially hazardous cargo; and
 
@@ -260,7 +300,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 &emsp;&emsp;“(G) to promote private sector procedures that provide for in-transit visibility and support law enforcement efforts directed at managing the security risks of cargo shipments.
 
-&emsp;“(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargo theft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports.
+&emsp;“(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargotheft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports.
 
 &emsp;“(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancing global maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system.”
 
@@ -274,7 +314,7 @@ In General.—
 
 &emsp;“(1)
 
-Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for thetraining and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, as amended by this Act.
+Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, as amended by this Act.
 
 &emsp;“(2)
 

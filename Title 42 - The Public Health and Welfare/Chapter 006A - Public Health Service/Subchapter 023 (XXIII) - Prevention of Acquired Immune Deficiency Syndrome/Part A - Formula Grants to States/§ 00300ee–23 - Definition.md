@@ -6,5 +6,5 @@ For purposes of this part, the term “infection with the etiologic agent for ac
 
 #### Prior Provisions
 
-A prior section 2513 of act July 1, 1944, was successively renumbered by subsequent acts, see section 238<i>l</i> of this title.
+A prior section 2513 of act July 1, 1944, was successively renumbered by subsequent acts, see section 238l of this title.
 

@@ -9,7 +9,7 @@ Subpart A—General Rule
 | [404\.](%C2%A7%2000404%20-%20Deduction%20for%20contributions%20of%20an%20employer%20to%20an%20employees%E2%80%99%20trust%20or%20annuity%20plan%20and%20compensation%20under%20a%20deferred-payment%20plan.md) | Deduction for contributions of an employer to an employees’ trust or annuity plan and compensation under a deferred-payment plan. |
 | [404A.](%C2%A7%2000404A%20-%20Deduction%20for%20certain%20foreign%20deferred%20compensation%20plans.md) | Deduction for certain foreign deferred compensation plans. |
 | \[405. | Repealed.\] |
-| [406\.](%C2%A7%2000406%20-%20Employees%20of%20foreign%20affiliates%20covered%20by%20section%203121%28l%29%20agreements.md) | Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements. |
+| [406\.](%C2%A7%2000406%20-%20Employees%20of%20foreign%20affiliates%20covered%20by%20section%203121%28l%29%20agreements.md) | Employees of foreign affiliates covered by section 3121(l) agreements. |
 | [407\.](%C2%A7%2000407%20-%20Certain%20employees%20of%20domestic%20subsidiaries%20engaged%20in%20business%20outside%20the%20United%20States.md) | Certain employees of domestic subsidiaries engaged in business outside the United States. |
 | [408\.](%C2%A7%2000408%20-%20Individual%20retirement%20accounts.md) | Individual retirement accounts. |
 | [408A.](%C2%A7%2000408A%20-%20Roth%20IRAs.md) | Roth IRAs. |
@@ -30,7 +30,7 @@ Subpart A—General Rule
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §491(d)(54), (e)(10), July 18, 1984, 98 Stat. 852, 853, struck out items 405 and 409, which read “Qualified bond purchase plans” and “Retirement bonds”, respectively, and redesignated item 409A as 409.
 
-<b>1983</b>—Pub. L. 98–21, title III, §321(e)(2)(D)(ii), Apr. 20, 1983, 97 Stat. 120, substituted “Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements” for “Certain employees of foreign subsidiaries” in item 406.
+<b>1983</b>—Pub. L. 98–21, title III, §321(e)(2)(D)(ii), Apr. 20, 1983, 97 Stat. 120, substituted “Employees of foreign affiliates covered by section 3121(l) agreements” for “Certain employees of foreign subsidiaries” in item 406.
 
 <b>1980</b>—Pub. L. 96–603, §2(d)(1), Dec. 28, 1980, 94 Stat. 3510, added item 404A.
 

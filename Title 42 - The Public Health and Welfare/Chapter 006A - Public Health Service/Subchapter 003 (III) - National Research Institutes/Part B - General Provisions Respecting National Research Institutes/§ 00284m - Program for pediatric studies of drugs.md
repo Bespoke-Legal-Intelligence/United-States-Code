@@ -24,19 +24,19 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (1) Submission of proposed pediatric study request
 
-&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
+&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposedpediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
 
-&emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\]; or
+&emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] or section 262(k) of this title; or
 
 &emsp;&emsp;(ii) there is a submitted application that could be approved under the criteria of such section; and
 
-&emsp;&emsp;(B) there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]; and
+&emsp;&emsp;(B) there remains no patent listed pursuant to section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(b)(1)\], and every three-year and five-year period referred to in subsection (c)(3)(E)(ii), (c)(3)(E)(iii), (c)(3)(E)(iv), (j)(5)(F)(ii), (j)(5)(F)(iii), or (j)(5)(F)(iv) of section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\], or applicable twelve-year period referred to in section 262(k)(7) of this title, and any seven-year period referred to in section 527 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360cc\] has ended for at least one form of the drug; and
 
 &emsp;&emsp;(C) additional studies are needed to assess the safety and effectiveness of the use of the drug in the pediatric population.
 
-#### (2) Written request to holders of approved applications for drugs lacking exclusivity
+#### (2) Written request to holders of approved applications
 
-&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the National Institutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\]. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b) or (c) of section 505A of such Act \[21 U.S.C. 355a\], including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
+&emsp;The Commissioner of Food and Drugs, in consultation with the Director of the National Institutes of Health, may issue a written request based on the proposed pediatric study request for the indication or indications submitted pursuant to paragraph (1) (which shall include a timeframe for negotiations for an agreement) for pediatric studies concerning a drug identified under subsection (a) to all holders of an approved application for the drug. Such a written request shall be made in a manner equivalent to the manner in which a written request is made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] or section 262(m) of this title, including with respect to information provided on the pediatric studies to be conducted pursuant to the request and using appropriate formulations for each age group for which the study is requested.
 
 #### (3) Requests for proposals
 
@@ -48,7 +48,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (5) Contracts, grants, or other funding mechanisms
 
-&emsp;A contract, grant, or other funding may be awarded under this section only if a proposalis submitted to the Secretary in such form and manner, and containing such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+&emsp;A contract, grant, or other funding may be awarded under this section only if a proposal is submitted to the Secretary in such form and manner, and containing such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (6) Reporting of studies
 
@@ -110,23 +110,33 @@ Not later than one year after September 27, 2007, the Secretary, acting through 
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section—
-
-&emsp;&emsp;(A) $200,000,000 for fiscal year 2008; and
-
-&emsp;&emsp;(B) such sums as are necessary for each of the four succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.
 
 #### (2) Availability
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L.111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049.)
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B), (10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–144, §509(d)(1)(A), inserted “or section 262(m) of this title,” after “Cosmetic Act,”.
+
+Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted “or section 262(k) of this title” after “Cosmetic Act”.
+
+Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and”.
+
+Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out “for drugs lacking exclusivity” after “applications” in heading, and in text struck out “under section 505 of the Federal Food, Drug, and Cosmetic Act” after “for the drug” and substituted “505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title” for “505A of such Act”.
+
+Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted “to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.” for “to carry out this section—
+
+&emsp;“(A) $200,000,000 for fiscal year 2008; and
+
+&emsp;“(B) such sums as are necessary for each of the four succeeding fiscal years.”
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted “, biological products,” after “including drugs”.
 
@@ -143,38 +153,4 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of Title 21, Food and Drugs.
-
-#### Pediatric Advisory Committee
-
-Pub. L. 107–109, §14, Jan. 4, 2002, 115 Stat. 1419, as amended by Pub. L. 108–155, §3(b)(2), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title III, §306(b), title V, §502(d), Sept. 27, 2007, 121 Stat. 865, 889, provided that:
-
-“(a)
-
-In General.—The Secretary of Health and Human Services shall, under section 222 of the Public Health Service Act (42 U.S.C. 217a) or other appropriate authority, convene and consult an advisory committee on pediatric therapeutics (including drugs and biological products) and medical devices (referred to in this section as the ‘advisory committee’).
-
-“(b)
-
-Purpose.—
-
-&emsp;“(1)
-
-In general.—The advisory committee shall advise and make recommendations to the Secretary, through the Commissioner of Food and Drugs, on matters relating to pediatric therapeutics (including drugs and biological products) and medical devices.
-
-&emsp;“(2)
-
-Matters included.—The matters referred to in paragraph (1) include—
-
-&emsp;&emsp;“(A) pediatric research conducted under sections 351, 409I, and 499 of the Public Health Service Act \[42 U.S.C. 262, 284m, and 290b\] and sections 501, 502, 505, 505A, 505B, 510(k), 515, and 520(m) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351, 352, 355, 355a, 355c, 360(k), 360e, and 360j(m)\];
-
-&emsp;&emsp;“(B) identification of research priorities related to therapeutics (including drugs and biological products) and medical devices for pediatric populations and the need for additional diagnostics and treatments for specific pediatric diseases or conditions; \[and\]
-
-&emsp;&emsp;“(C) the ethics, design, and analysis of clinical trials related to pediatric therapeutics (including drugs and biological products) and medical devices.
-
-“(c)
-
-Composition.—The advisory committee shall include representatives of pediatric health organizations, pediatric researchers, relevant patient and patient-family organizations, and other experts selected by the Secretary.
-
-“(d)
-
-Continuation of Operation of Committee.—Notwithstanding section 14 of the Federal Advisory Committee Act \[5 U.S.C. App.\], the advisory committee shall continue to operate during the five-year period beginning on the date of the enactment of the Best Pharmaceuticals for Children Act of 2007 \[Sept. 27, 2007\].”
 

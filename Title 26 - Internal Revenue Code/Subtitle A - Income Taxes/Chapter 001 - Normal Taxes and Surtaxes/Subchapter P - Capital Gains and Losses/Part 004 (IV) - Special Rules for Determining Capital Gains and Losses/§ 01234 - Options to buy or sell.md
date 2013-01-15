@@ -78,7 +78,7 @@ Pub. L. 94–455, §1402(b)(1)(U), provided that “6 months” would be changed
 
 Subsec. (c). Pub. L. 94–455, §2136(a), struck out provision respecting special rule for grantors of straddles, the paragraphs relating to: (1) gain on lapse; (2) exception, now covered in subsec. (b)(3); and (3) definitions of “straddle” and “security”, such provision now covered generally by subsec. (b) of this section.
 
-Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-application of section, pars. (1) to (3) now covered in subsec. (a)(3)(A) to (C) of this section, and par. (4) providing for such non-application to gain attributable to the sale or exchange of a privilege or option acquired by the taxpayer before Mar. 1, 1954, if in the hands of the taxpayer such privilege or option was a capital asset.
+Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-application of section, pars. (1) to (3) now covered in subsec. (a)(3)(A) to (C) of this section, and par. (4) providing for such non-application to gain attributable to the sale or exchange of a privilegeor option acquired by the taxpayer before Mar. 1, 1954, if in the hands of the taxpayer such privilege or option was a capital asset.
 
 <b>1966</b>—Subsecs. (c), (d). Pub. L. 89–809 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -90,21 +90,21 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1984 Amendment
 
-Section 105(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options purchased or granted after October 31, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §105(b), July 18, 1984, 98 Stat. 629, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options purchased or granted after October 31, 1983, in taxable years ending after such date.”
 
 Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Section 2136(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options granted after September 1, 1976.”
+Pub. L. 94–455, title XXI, §2136(b), Oct. 4, 1976, 90 Stat. 1930, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options granted after September 1, 1976.”
 
 #### Effective Date of 1966 Amendment
 
-Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
+Pub. L. 89–809, title II, §210(b), Nov. 13, 1966, 80 Stat. 1580, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
 
 #### Effective Date of 1958 Amendment
 

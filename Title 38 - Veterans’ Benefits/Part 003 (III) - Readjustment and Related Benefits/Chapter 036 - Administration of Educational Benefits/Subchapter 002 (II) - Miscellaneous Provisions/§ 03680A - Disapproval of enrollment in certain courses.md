@@ -30,7 +30,7 @@
 
 &emsp;(2) the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
 
-&emsp;(3) following either a change in ownership or a complete move outside its original generallocality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+&emsp;(3) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
 
 (f) The Secretary may not approve the enrollment of an eligible veteran in a course as a part of a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
 

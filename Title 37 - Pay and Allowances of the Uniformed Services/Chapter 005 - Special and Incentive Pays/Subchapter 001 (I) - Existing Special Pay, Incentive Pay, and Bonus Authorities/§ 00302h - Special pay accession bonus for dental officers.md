@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2012, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2013, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 
@@ -22,9 +22,11 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A,title VI, §§612(f), 617(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(5), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(5), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(f), 617(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(5), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(5), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(5), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -58,11 +60,11 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: “The amendments made by this section \[enacting sections 302k and 302<i>l</i> of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
+Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: “The amendments madeby this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
 
 &emsp;“(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
 
-&emsp;“(2) entered into under section 302k or 302<i>l</i> of such title, as added by subsections (b) and (c), on or after that date.”
+&emsp;“(2) entered into under section 302k or 302l of such title, as added by subsections (b) and (c), on or after that date.”
 
 #### Savings Provision
 

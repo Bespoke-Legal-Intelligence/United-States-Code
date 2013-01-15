@@ -80,9 +80,9 @@ An entity that receives an award under this section may carry over funds from 1 
 
 #### Prior Provisions
 
-A prior section 748 of act July 1, 1944, was renumbered section 749 and is classified to section 293<i>l</i> of this title.
+A prior section 748 of act July 1, 1944, was renumbered section 749 and is classified to section 293l of this title.
 
-Another prior section 748 of act July 1, 1944, was classified to section 293<i>l</i> of this title prior to repeal by Pub. L. 105–392.
+Another prior section 748 of act July 1, 1944, was classified to section 293l of this title prior to repeal by Pub. L. 105–392.
 
 Another prior section 748 of act July 1, 1944, was classified to section 294r of this title prior to renumbering by Pub. L. 97–35.
 

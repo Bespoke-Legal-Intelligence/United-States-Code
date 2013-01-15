@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) the determination of whether two or more persons are under “common control” shall be made under regulations of the corporation which are consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under subsections (b) and (c) of section 414 of title 26; and
 
-&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of an affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
+&emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies ofan affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
 
 &emsp;&emsp;(ii) for purposes of this subparagraph, the term—
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(D) the corporation,
 
-> &emsp;except that, in connection with any notice required to be provided to the affected party, ifan affected party has designated, in writing, a person to receive such notice on behalf of the affected party, any reference to the affected party shall be construed to refer to such person.
+> &emsp;except that, in connection with any notice required to be provided to the affected party, if an affected party has designated, in writing, a person to receive such notice on behalf of the affected party, any reference to the affected party shall be construed to refer to such person.
 
 (b)(1) An individual who owns the entire interest in an unincorporated trade or business is treated as his own employer, and a partnership is treated as the employer of each partner who is an employee within the meaning of section 401(c)(1) of title 26. For purposes of this subchapter, under regulations prescribed by the corporation, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer and all such trades and businesses as a single employer. The regulations prescribed under the preceding sentence shall be consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under section 414(c) of title 26.
 
@@ -210,13 +210,13 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 9312(d)(1) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(f)(9), Dec. 19, 1989, 103 Stat. 2440, provided that: “The amendments made by this section \[amending this section and sections 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] shall apply with respect to—
+Pub. L. 100–203, title IX, §9312(d)(1), Dec. 22, 1987, 101 Stat. 1330–364, as amended by Pub. L. 101–239, title VII, §7881(f)(9), Dec. 19, 1989, 103 Stat. 2440, provided that: “The amendments made by this section \[amending this section and sections 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] shall apply with respect to—
 
 &emsp;“(A) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
 
 &emsp;“(B) plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 4042 of ERISA \[29 U.S.C. 1342\] after December 17, 1987.”
 
-Section 9313(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1341 and 1367 of this title\] shall apply with respect to plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987.”
+Pub. L. 100–203, title IX, §9313(c), Dec. 22, 1987, 101 Stat. 1330–366, provided that: “The amendments made by this section \[amending this section and sections 1341 and 1367 of this title\] shall apply with respect to plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987.”
 
 #### Effective Date of 1986 Amendment
 

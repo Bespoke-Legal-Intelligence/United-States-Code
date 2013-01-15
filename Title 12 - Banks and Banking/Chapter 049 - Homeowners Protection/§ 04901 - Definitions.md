@@ -38,7 +38,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;The term “initial amortization schedule” means a schedule established at the time at which a residential mortgage transaction is consummated with respect to a fixed rate mortgage, showing—
 
-&emsp;&emsp;(A) the amount of principal and interest that is due at regular intervals to retire theprincipal balance and accrued interest over the amortization period of the loan; and
+&emsp;&emsp;(A) the amount of principal and interest that is due at regular intervals to retire the principal balance and accrued interest over the amortization period of the loan; and
 
 &emsp;&emsp;(B) the unpaid principal balance of the loan after each scheduled payment is made.
 
@@ -110,7 +110,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 

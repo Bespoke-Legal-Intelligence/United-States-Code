@@ -1,6 +1,6 @@
 ### §1385. Finality of payments and loans; substitution of beneficiaries
 
-The facts constituting the basis for any chapter 3B of title 16 payment, any payment under the wheat, feed grain, upland cotton, extra long staple cotton, and rice programs authorized by chapter 35A of this title and this chapter, any loan, or price support operation, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary or by the Commodity Credit Corporation, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government. In case any person who is entitled to any such payment dies, becomes incompetent, or disappears before receiving such payment, or is succeeded by another who renders or completes the required performance, the payment shall, without regard to any other provisions of law, be made as the Secretary of Agriculture may determine to be fair and reasonable in all the circumstances and provide by regulations. This section also shall be applicable to payments provided for under section 1348 of this title.
+The facts constituting the basis for any chapter 3B of title 16 payment, any payment under the wheat, feed grain, upland cotton, extra long staple cotton, and rice programs authorized by chapter 35A of this title and this chapter, any loan, or price support operation, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary or by the Commodity Credit Corporation, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government. In case any person who is entitled to any such payment dies, becomes incompetent, or disappears before receiving such payment, or is succeeded by another who renders or completes the required performance, thepayment shall, without regard to any other provisions of law, be made as the Secretary of Agriculture may determine to be fair and reasonable in all the circumstances and provide by regulations. This section also shall be applicable to payments provided for under section 1348 of this title.
 
 (Feb. 16, 1938, ch. 30, title III, §385, 52 Stat. 68; July 2, 1940, ch. 521, §7, 54 Stat. 728; July 3, 1948, ch. 827, title II, §207(e), 62 Stat. 1257; Pub. L. 87–703, title III, §322, Sept. 27, 1962, 76 Stat. 626; Pub. L. 88–297, title I, §102, Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title IV, §404(5), title VI, §605(3), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 94–214, title III, §302, Feb. 16, 1976, 90 Stat. 187; Pub. L. 95–113, title IV, §405, Sept. 29, 1977, 91 Stat. 927; Pub. L. 97–98, title XI, §1102, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 99–198, title X, §1017(a), Dec. 23, 1985, 99 Stat. 1459.)
 
@@ -36,15 +36,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Section 405 of Pub. L. 95–113 provided that the amendment made by that section is effective only for 1978 through 1981 crops.
+Pub. L. 95–113, title IV, §405, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 405 is effective only for the 1978 through 1981 crops.
 
 #### Effective and Termination Dates of 1976 Amendment
 
-Section 302 of Pub. L. 94–214 provided that the amendment made by that section is effective only with respect to 1976 and 1977 crops of rice.
+Pub. L. 94–214, title III, §302, Feb. 16, 1976, 90 Stat. 187, provided that the amendment made by section 302 is effective only with respect to the 1976 and 1977 crops of rice.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Sections 404 and 605 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §404, title VI, §605, Nov. 30, 1970, 84 Stat. 1366, 1378, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 404 and 605 are effective only with respect to the 1971 through 1977 crops.
 
 #### Effective Date of 1962 Amendment
 
@@ -62,7 +62,7 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program for 1986 Through 1990 Crops; Notice and Public Participation in Rulemaking Not Required
+#### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program; Notice and Public Participation in Rulemaking Not Required
 
-Section 1017(b) of Pub. L. 99–198, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the AgriculturalAct of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
+Pub. L. 99–198, title X, §1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
 

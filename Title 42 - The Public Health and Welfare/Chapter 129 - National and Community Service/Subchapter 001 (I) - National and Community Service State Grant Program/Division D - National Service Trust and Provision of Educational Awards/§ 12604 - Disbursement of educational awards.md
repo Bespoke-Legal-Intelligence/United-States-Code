@@ -18,7 +18,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individuals
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
+&emsp;An eligible individual under section 12602 of this title who desires to apply the nationalservice educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
 
 &emsp;&emsp;(A) identifies, or permits the Corporation to identify readily, the holder or holders of such loans;
 
@@ -82,7 +82,7 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;(A) identifies each eligible individual filing an application under paragraph (1) for a disbursement of the individual's national service educational award, summer of service educational award, or silver scholar educational award, as applicable, under this subsection;
 
-&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent with paragraph (6), qualified for disbursement under this subsection;
+&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent withparagraph (6), qualified for disbursement under this subsection;
 
 &emsp;&emsp;(C) certifies that—
 
@@ -110,7 +110,7 @@ Amounts in the Trust shall be available—
 
 &emsp;The portion of an eligible individual's total available national service educational award, summer of service educational award, or silver scholar educational award that may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
 
-&emsp;&emsp;(A) the eligible individual's cost of attendance and other educational expenses for such period of enrollment, determined in accordance with section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>); and
+&emsp;&emsp;(A) the eligible individual's cost of attendance and other educational expenses for such period of enrollment, determined in accordance with section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll); and
 
 &emsp;&emsp;(B) the student's estimated financial assistance for such period under part A of title IV of such Act (20 U.S.C. 1070 et seq.).
 
@@ -180,7 +180,7 @@ With the approval of the Chief Executive Officer, an approved national service p
 
 #### (h) “Institution of higher education” defined
 
-Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided bysection 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
+Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided by section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820; amended Pub. L. 105–244, title I, §102(c)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 111–13, title I, §1405, Apr. 21, 2009, 123 Stat. 1515.)
 

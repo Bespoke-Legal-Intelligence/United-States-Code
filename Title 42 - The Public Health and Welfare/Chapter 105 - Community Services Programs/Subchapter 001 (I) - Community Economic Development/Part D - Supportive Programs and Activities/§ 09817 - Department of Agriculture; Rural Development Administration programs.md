@@ -1,6 +1,6 @@
 ### §9817. Department of Agriculture; Rural Development Administration programs
 
-The Secretary of Agriculture or, where appropriate, the Administrator of the Farmers Home Administration, or of the Rural Development Administration, after consultation with the Secretary of Health and Human Services, shall take all necessary steps to ensure that community development corporations and local cooperative associations shall qualify for and shall receive—
+The Secretary of Agriculture or, where appropriate, the Administrator of the Farmers HomeAdministration, or of the Rural Development Administration, after consultation with the Secretary of Health and Human Services, shall take all necessary steps to ensure that community development corporations and local cooperative associations shall qualify for and shall receive—
 
 &emsp;(1) such assistance in connection with housing development under the Housing Act of 1949, as amended \[42 U.S.C. 1441 et seq.\];
 

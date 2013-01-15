@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (3) Related terminal services
 
-&emsp;The term “related terminal services” includes only services, and the use of facilities,taken into account in computing related terminal income.
+&emsp;The term “related terminal services” includes only services, and the use of facilities, taken into account in computing related terminal income.
 
 #### (e) Regulations
 
@@ -92,9 +92,9 @@ Amendment by section 1901(a)(40) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section 2(a) of Pub. L. 87–870 provided that: “The amendments made by the first section of this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 87–870, §2(a), Oct. 23, 1962, 76 Stat. 1160, provided that: “The amendments made by the first section of this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Internal Revenue Code of 1939; Inclusion of Terminal Railroad Corporations and Their Shareholders Provision
 
-Section 2(b) of Pub. L. 87–870, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the same effect as section 281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act) shall be deemed to be included in the Internal Revenue Code of 1939, effective with respect to all taxable years to which such Code applies.”
+Pub. L. 87–870, §2(b), Oct. 23, 1962, 76 Stat. 1160, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the same effect as section 281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act) shall be deemed to be included in the Internal Revenue Code of 1939, effective with respect to all taxable years to which such Code applies.”
 

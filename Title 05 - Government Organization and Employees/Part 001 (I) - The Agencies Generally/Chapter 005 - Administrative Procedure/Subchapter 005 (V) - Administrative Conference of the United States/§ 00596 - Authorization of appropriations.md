@@ -44,5 +44,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 
-Section 1(b) of Pub. L. 95–293 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1977.”
+Pub. L. 95–293, §1(b), June 13, 1978, 92 Stat. 317, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1977.”
 

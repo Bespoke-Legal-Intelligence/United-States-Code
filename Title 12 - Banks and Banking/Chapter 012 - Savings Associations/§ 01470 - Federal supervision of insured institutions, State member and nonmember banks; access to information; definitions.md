@@ -10,7 +10,7 @@
 
 &emsp;(2) The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
-&emsp;(3) The term “State housing corporation” means a corporation established by a State forthe limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
+&emsp;(3) The term “State housing corporation” means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
 
 &emsp;(4) The term “State” means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.
 

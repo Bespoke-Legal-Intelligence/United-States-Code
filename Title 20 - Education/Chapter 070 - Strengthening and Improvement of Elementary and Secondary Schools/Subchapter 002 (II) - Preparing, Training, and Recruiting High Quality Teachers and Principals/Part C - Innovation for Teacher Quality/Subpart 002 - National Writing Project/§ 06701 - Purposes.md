@@ -14,5 +14,5 @@ The purposes of this subpart are—
 
 #### Prior Provisions
 
-A prior section 6701, Pub. L. 89–10, title II, §2401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, related to reporting and accountability, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6701, Pub. L. 89–10, title II, §2401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3635; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, related to reporting and accountability, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

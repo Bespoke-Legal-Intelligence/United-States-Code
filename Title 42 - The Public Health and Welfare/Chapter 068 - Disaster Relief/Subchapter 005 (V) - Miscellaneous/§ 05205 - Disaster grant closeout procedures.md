@@ -26,7 +26,7 @@
 
 #### (4) Right of access
 
-&emsp;The period during which the Federal, State, or local government has the right to accesssource documentation shall not be limited to the required 3-year retention period referred to in paragraph (3), but shall last as long as the records are maintained.
+&emsp;The period during which the Federal, State, or local government has the right to access source documentation shall not be limited to the required 3-year retention period referred to in paragraph (3), but shall last as long as the records are maintained.
 
 #### (c) Binding nature of grant requirements
 

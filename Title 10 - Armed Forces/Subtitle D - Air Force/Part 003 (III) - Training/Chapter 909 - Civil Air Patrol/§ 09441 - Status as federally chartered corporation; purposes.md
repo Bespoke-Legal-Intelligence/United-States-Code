@@ -14,7 +14,7 @@ Purposes.—The purposes of the Civil Air Patrol are set forth in section 40302 
 
 #### Prior Provisions
 
-A prior section 9441, acts Aug. 10, 1956, ch. 1041, 70A Stat. 572; Pub. L. 96–342, title X, §1007(a), (b)(1), Sept. 8, 1980, 94 Stat. 1121, 1122; Pub. L 96–513, title V, §514(12), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 98–525, title XV, §1533(a), Oct. 19, 1984, 98 Stat. 2632; Pub. L. 99–145, title XIII, §1303(a)(28), title XIV, §1458(a), Nov. 8, 1985, 99 Stat. 740, 763; Pub. L. 99–661, div. A, title XIII, §1365(a), Nov. 14, 1986, 100 Stat. 4002; Pub. L. 103–337, div. A, title X, §1062, Oct. 5, 1994, 108 Stat. 2847; Pub. L. 105–225,§4(a)(3), Aug. 12, 1998, 112 Stat. 1499, related to Civil Air Patrol status, support by Air Force, and employment, prior to the general amendment of this chapter by Pub. L. 106–398.
+A prior section 9441, acts Aug. 10, 1956, ch. 1041, 70A Stat. 572; Pub. L. 96–342, title X, §1007(a), (b)(1), Sept. 8, 1980, 94 Stat. 1121, 1122; Pub. L 96–513, title V, §514(12), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 98–525, title XV, §1533(a), Oct. 19, 1984, 98 Stat. 2632; Pub. L. 99–145, title XIII, §1303(a)(28), title XIV, §1458(a), Nov. 8, 1985, 99 Stat. 740, 763; Pub. L. 99–661, div. A, title XIII, §1365(a), Nov. 14, 1986, 100 Stat. 4002; Pub. L. 103–337, div. A, title X, §1062, Oct. 5, 1994, 108 Stat. 2847; Pub. L. 105–225, §4(a)(3), Aug. 12, 1998, 112 Stat. 1499, related to Civil Air Patrol status, support by Air Force, and employment, prior to the general amendment of this chapter by Pub. L. 106–398.
 
 #### Effective Date
 

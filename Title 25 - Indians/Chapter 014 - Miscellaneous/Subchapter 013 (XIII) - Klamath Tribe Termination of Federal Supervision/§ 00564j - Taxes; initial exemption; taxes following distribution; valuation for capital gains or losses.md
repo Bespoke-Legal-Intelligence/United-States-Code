@@ -12,5 +12,5 @@ Pub. L. 94–81, §1, Aug. 9, 1975, 89 Stat. 417, as amended by Pub. L. 96–596
 
 &emsp;“(2) on the distribution from the trust of the proceeds of such condemnation, shall be excluded from the gross income of each person receiving such distribution.”
 
-Section 5(b) of Pub. L. 96–596 provided that: “The amendment made by subsection (a) \[amending section 1 of Pub. L. 94–81, set out above\] shall apply to all amounts whether received before, on, or after the date of the enactment of this Act \[Dec. 24, 1980\].”
+Pub. L. 96–596, §5(b), Dec. 24, 1980, 94 Stat. 3476, provided that: “The amendment made by subsection (a) \[amending section 1 of Pub. L. 94–81, set out above\] shall apply to all amounts whether received before, on, or after the date of the enactment of this Act \[Dec. 24, 1980\].”
 

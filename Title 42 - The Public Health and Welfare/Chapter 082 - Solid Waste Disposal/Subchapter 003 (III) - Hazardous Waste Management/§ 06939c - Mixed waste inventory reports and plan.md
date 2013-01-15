@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not later than 180 days after October 6, 1992, the Secretary of Energy shall submit to the Administrator and to the Governor of each State in which the Department of Energystores or generates mixed wastes the following reports:
+&emsp;Not later than 180 days after October 6, 1992, the Secretary of Energy shall submit to the Administrator and to the Governor of each State in which the Department of Energy stores or generates mixed wastes the following reports:
 
 &emsp;&emsp;(A) A report containing a national inventory of all such mixed wastes, regardless of the time they were generated, on a State-by-State basis.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) A description, including the capacity, number and location, of any existing treatment unit that was not considered in calculating the estimate under subparagraph (A) but that could, alone or in conjunction with other treatment units, be used to treat any of the wastes described in the report required by paragraph (1)(A) to meet the requirements of regulations promulgated pursuant to section 6924(m) of this title.
 
-&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unit was not included in calculating the estimate under subparagraph (A).
+&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unitwas not included in calculating the estimate under subparagraph (A).
 
 &emsp;&emsp;(E) A description, including the capacity, number, location, and estimated date of availability, of each treatment unit currently proposed to increase the treatment capacities estimated under subparagraph (A).
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) Each plan shall contain the following:
 
-&emsp;&emsp;(i) For mixed wastes for which treatment technologies exist, a schedule for submitting all applicable permit applications, enteringinto contracts, initiating construction, conducting systems testing, commencing operations, and processing backlogged and currently generated mixed wastes.
+&emsp;&emsp;(i) For mixed wastes for which treatment technologies exist, a schedule for submitting all applicable permit applications, entering into contracts, initiating construction, conducting systems testing, commencing operations, and processing backlogged and currently generated mixed wastes.
 
 &emsp;&emsp;(ii) For mixed wastes for which no treatment technologies exist, a schedule for identifying and developing such technologies, identifying the funding requirements for the identification and development of such technologies, submitting treatability study exemptions, and submitting research and development permit applications.
 
@@ -86,7 +86,7 @@
 
 #### (3) Public participation
 
-&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of the submitted plan and make such submitted plan available to the public on request.
+&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of thesubmitted plan and make such submitted plan available to the public on request.
 
 #### (4) Revisions of plan
 
@@ -126,7 +126,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### GAO Report
 
-Section 105(c) of Pub. L. 102–386 provided that:
+Pub. L. 102–386, title I, §105(c), Oct. 6, 1992, 106 Stat. 1512, provided that:
 
 “(1)
 

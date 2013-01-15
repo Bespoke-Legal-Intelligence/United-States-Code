@@ -4,7 +4,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (1) Allocation
 
-&emsp;Not later than 20 days after funds to carry out this part become available (or, during the first year after November 28, 1990, not later than 20 days after (A) funds to carry out this part are provided in an appropriations Act, or (B) regulations to implement this part are promulgated, whichever is later), the Secretary shall allocate funds in accordance with section12747 of this title and promptly notify each jurisdiction receiving a formula allocation of its allocation amount. If a jurisdiction is not already a participating jurisdiction, the Secretary shall inform the jurisdiction in writing how the jurisdiction may become a participating jurisdiction.
+&emsp;Not later than 20 days after funds to carry out this part become available (or, during the first year after November 28, 1990, not later than 20 days after (A) funds to carry out this part are provided in an appropriations Act, or (B) regulations to implement this part are promulgated, whichever is later), the Secretary shall allocate funds in accordance with section 12747 of this title and promptly notify each jurisdiction receiving a formula allocation of its allocation amount. If a jurisdiction is not already a participating jurisdiction, the Secretary shall inform the jurisdiction in writing how the jurisdiction may become a participating jurisdiction.
 
 #### (2) Consortia
 
@@ -22,7 +22,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;&emsp;(ii) the State has authorized the Secretary to transfer to the jurisdiction a portion of the State's allocation that is equal to or greater than the difference between the jurisdiction's formula allocation and $750,000, or the State or jurisdiction has made available from the State's or jurisdiction's own sources an equal amount for use by the jurisdiction in conformance with the provisions of this part.
 
-&emsp;(B) If a jurisdiction has met the requirements of subparagraph (A), the jurisdiction's formula allocation for a fiscal year shall subsequently be deemed to equal the sum of the jurisdiction's allocation under section 12747(a)(1) of this title and the amount made available to the jurisdiction under subparagraph (A)(ii).
+&emsp;(B) If a jurisdiction has met the requirements of subparagraph (A), the jurisdiction'sformula allocation for a fiscal year shall subsequently be deemed to equal the sum of the jurisdiction's allocation under section 12747(a)(1) of this title and the amount made available to the jurisdiction under subparagraph (A)(ii).
 
 #### (4) Notification
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under su
 
 #### Applicability of Grant Thresholds
 
-Section 202(c) of Pub. L. 102–550 provided that: “Notwithstanding any other provision of law, the grant thresholds provided for in section 216 \[42 U.S.C. 12746\], as amended by this section, and the grant thresholds provided for in section 217(b) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12747(b)\], as amended by this section, shall apply.”
+Pub. L. 102–550, title II, §202(c), Oct. 28, 1992, 106 Stat. 3752, provided that: “Notwithstanding any other provision of law, the grant thresholds provided for in section 216 \[42 U.S.C. 12746\], as amended by this section, and the grant thresholds provided for in section 217(b) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12747(b)\], as amended by this section, shall apply.”
 

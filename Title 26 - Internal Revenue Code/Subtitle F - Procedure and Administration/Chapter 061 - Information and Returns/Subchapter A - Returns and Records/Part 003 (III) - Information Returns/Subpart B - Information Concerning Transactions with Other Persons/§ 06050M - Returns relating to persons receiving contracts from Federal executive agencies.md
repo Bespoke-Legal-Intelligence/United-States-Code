@@ -42,7 +42,7 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 &emsp;&emsp;(A) the information required under this section with respect to such person, and
 
-&emsp;&emsp;(B) such other information with respect to such person which the Secretary and the head of such Federal executive agency agree is appropriate.
+&emsp;&emsp;(B) such other information with respect to such person which the Secretary and thehead of such Federal executive agency agree is appropriate.
 
 #### (3) Description of contract
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 1522(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987.”
+Pub. L. 99–514, title XV, §1522(c), Oct. 22, 1986, 100 Stat. 2747, provided that: “The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987.”
 

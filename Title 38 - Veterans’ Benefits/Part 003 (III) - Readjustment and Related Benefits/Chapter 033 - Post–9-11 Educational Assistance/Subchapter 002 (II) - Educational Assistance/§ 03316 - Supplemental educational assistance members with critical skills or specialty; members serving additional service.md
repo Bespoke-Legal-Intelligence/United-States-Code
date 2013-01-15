@@ -6,7 +6,7 @@ Increased Assistance for Members With Critical Skills or Specialty.—
 
 &emsp;(1)
 
-In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwisepayable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
 
 &emsp;(2)
 
@@ -34,7 +34,7 @@ Continuation of Increased Educational Assistance.—
 
 &emsp;(1)
 
-In general.—An individual who made an election to receive educational assistance under this chapter pursuant to section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008 (38 U.S.C. 3301note) and who, at the time of the election, was entitled to increased educational assistance under section 3015(d) or section 16131(i) of title 10 shall remain entitled to increased educational assistance in the utilization of the individual's entitlement to educational assistance under this chapter.
+In general.—An individual who made an election to receive educational assistance under this chapter pursuant to section 5003(c)(1)(A) of the Post-9/11 Veterans Educational Assistance Act of 2008 (38 U.S.C. 3301 note) and who, at the time of the election, was entitled to increased educational assistance under section 3015(d) or section 16131(i) of title 10 shall remain entitled to increased educational assistance in the utilization of the individual's entitlement to educational assistance under this chapter.
 
 &emsp;(2)
 

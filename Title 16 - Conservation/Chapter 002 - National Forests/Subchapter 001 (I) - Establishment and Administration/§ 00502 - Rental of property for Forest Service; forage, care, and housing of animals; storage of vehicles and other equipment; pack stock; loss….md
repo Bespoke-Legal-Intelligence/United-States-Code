@@ -20,7 +20,7 @@ The Secretary of Agriculture is authorized, under such regulations as he may pre
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–464 added subsec. (c), redesignated former subsec. (c) as (d) and authorized reimbursement in an amount not in excess of $2,500 in any case where the person is not an employee of the Forest Service at the time the equipment is obtained.
 
-<b>1931</b>—Act Jan. 31, 1931, substituted “The Secretary of Agriculture is authorized, under such regulations as hemay prescribe” for prior provision which authorized Secretary to reimburse owners of private property lost or damaged while being used for necessary official business.
+<b>1931</b>—Act Jan. 31, 1931, substituted “The Secretary of Agriculture is authorized, under such regulations as he may prescribe” for prior provision which authorized Secretary to reimburse owners of private property lost or damaged while being used for necessary official business.
 
 Subsecs. (a) to (c). Act Jan. 31, 1931, added subsecs. (a) to (c).
 

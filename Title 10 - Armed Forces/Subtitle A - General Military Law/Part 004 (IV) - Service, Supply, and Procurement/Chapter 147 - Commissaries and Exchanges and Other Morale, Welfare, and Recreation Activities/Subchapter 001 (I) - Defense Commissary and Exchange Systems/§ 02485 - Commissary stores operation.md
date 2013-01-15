@@ -102,7 +102,7 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
 
-(E) Each contract entered into under this paragraph shall specify the amount to be paidfor information released or a license granted under the contract, as the case may be.
+(E) Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
 
 (4) Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
 
@@ -166,5 +166,5 @@ Pub. L. 105–261, div. A, title III, §363(b), Oct. 17, 1998, 112 Stat. 1986, p
 
 #### Demonstration Program for Operation of Certain Commissary Stores by Nonappropriated Fund Instrumentalities
 
-Pub. L. 102–484, div. A, title III, §363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not laterthan the expiration of the one-year period beginning on Oct. 23, 1992.
+Pub. L. 102–484, div. A, title III, §363, Oct. 23, 1992, 106 Stat. 2380, required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
 

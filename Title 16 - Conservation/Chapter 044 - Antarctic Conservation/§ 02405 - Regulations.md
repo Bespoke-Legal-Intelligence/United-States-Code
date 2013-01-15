@@ -34,7 +34,7 @@ The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior toamendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
+<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
 
 #### Transfer of Functions
 

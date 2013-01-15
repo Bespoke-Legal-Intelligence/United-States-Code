@@ -34,7 +34,7 @@
 
 (f) For purposes of this section:
 
-&emsp;(1) The term “attributable income” means the income of a veteran for the previous year determined in the same manner as the manner in which a determination is made of the total amount of income by which the rate of pension for such veteran under section 1521 of this title would be reduced if such veteran were eligible for pension under that section.
+&emsp;(1) The term “attributable income” means the income of a veteran for the most recent year for which information is available determined in the same manner as the manner in which a determination is made of the total amount of income by which the rate of pension for such veteran under section 1521 of this title would be reduced if such veteran were eligible for pension under that section.
 
 &emsp;(2) The term “corpus of the estate of the veteran” includes the corpus of the estates of the veteran's spouse and dependent children, if any.
 
@@ -50,7 +50,7 @@
 
 > shall be accepted as sufficient evidence of such veteran's inability to defray necessary expenses.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, §705, Aug. 6, 2012, 126 Stat. 1206.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 
 Prior section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, related to change of program by eligible person, prior to repeal by Pub. L. 92–540, title IV, §402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–154 substituted “the most recent year for which information is available” for “the previous year”.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
 
@@ -164,5 +166,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Initial Increase Under Subsection (c)
 
-Section 19011(c)(3) of Pub. L. 99–272 provided that the first increase under subsection (c) of this section, as added by section 19011(c)(1) of Pub. L. 99–272, was to take effect on Jan. 1, 1987.”
+Pub. L. 99–272, title XIX, §19011(c)(3), Apr. 7, 1986, 100 Stat. 378, provided that the first increase under subsection (c) of this section, as added by section 19011(c)(1) of Pub. L. 99–272, was to take effect on Jan. 1, 1987.
 

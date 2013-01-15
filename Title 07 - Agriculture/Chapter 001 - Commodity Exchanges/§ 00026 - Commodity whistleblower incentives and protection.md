@@ -128,7 +128,7 @@ No contract with the Commission is necessary for any whistleblower to receive an
 
 #### (1) In general
 
-&emsp;Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Commission.
+&emsp;Any determination made under this section, including whether, to whom, or in whatamount to make awards, shall be in the discretion of the Commission.
 
 #### (2) Appeals
 
@@ -308,7 +308,7 @@ The Commission shall issue final rules or regulations implementing the provision
 
 Information submitted to the Commission by a whistleblower in accordance with rules or regulations implementing this section shall not lose its status as original information solely because the whistleblower submitted such information prior to the effective date of such rules or regulations, provided such information was submitted after July 21, 2010.
 
-#### (<i>l</i>) Awards
+#### (l) Awards
 
 A whistleblower may receive an award pursuant to this section regardless of whether any violation of a provision of this chapter, or a rule or regulation thereunder, underlying the judicial or administrative action upon which the award is based occurred prior to July 21, 2010.
 

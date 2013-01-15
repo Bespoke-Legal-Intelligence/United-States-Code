@@ -24,7 +24,7 @@ Defense articles may be transferred under subsection (a) of this section without
 
 #### (e) Third country transfers restrictions
 
-For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articlestransferred under subsection (a) of this section shall be deemed to have been sold under this chapter.
+For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articles transferred under subsection (a) of this section shall be deemed to have been sold under this chapter.
 
 #### (f) Maintenance of military balance in Eastern Mediterranean
 

@@ -2,15 +2,17 @@
 
 (a)(1) In addition to the advocates for competition established or designated pursuant to section 1705(a) of title 41, the Secretary of Defense shall designate an officer or employee of the Defense Logistics Agency to serve as the advocate for competition of the agency.
 
-(2) The advocate for competition of the Defense Logistics Agency shall carry out the responsibilities and functions provided for in section 1705(b) and (c) of title 41.
+(2) The advocate for competition of the Defense Logistics Agency shall carry out the responsibilities and functions provided for in subsections (b) and (c) of section 1705 of title 41.
 
 (b) Each advocate for competition of an agency named in section 2303(a) of this title shall be a general or flag officer if a member of the armed forces or a grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule), if a civilian employee and shall be designated to serve for a minimum of two years.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260; Pub. L. 111–350, §5(b)(17), Jan. 4, 2011, 124 Stat. 3843.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260; Pub. L. 111–350, §5(b)(17), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 112–239, div. A, title X, §1076(f)(24), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350, §5(b)(17)(A), substituted “section 1705(a) of title 41” for “section 20(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(a))”.
+<b>2013</b>—Subsec. (a)(2). Pub. L. 112–239 substituted “subsections (b) and (c) of section 1705” for “section 1705(b) and (c)”.
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350, §5(b)(17)(A), substituted “section 1705(a) of title 41” for “section 20(a) ofthe Office of Federal Procurement Policy Act (41 U.S.C. 418(a))”.
 
 Subsec. (a)(2). Pub. L. 111–350, §5(b)(17)(B), substituted “section 1705(b) and (c) of title 41” for “sections 20(b) and 20(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 418(b), (c))”.
 
@@ -26,7 +28,7 @@ Subsec. (c). Pub. L. 100–26, §7(d)(4)(C), inserted “(41 U.S.C. 419)” afte
 
 #### Effective Date
 
-Section 1216(c)(1) of Pub. L. 98–525 provided that: “Section 2318 of title 10, United States Code (as added by subsection (a)), shall take effect on April 1, 1985.”
+Pub. L. 98–525, title XII, §1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provided that: “Section 2318 of title 10, United States Code (as added by subsection (a)), shall take effect on April 1, 1985.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

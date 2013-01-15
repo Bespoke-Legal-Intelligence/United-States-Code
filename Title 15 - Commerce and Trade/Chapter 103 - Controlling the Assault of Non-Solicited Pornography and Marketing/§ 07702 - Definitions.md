@@ -78,13 +78,13 @@ In this chapter:
 
 #### (15) Routine conveyance
 
-&emsp;The term “routine conveyance” means the transmission, routing, relaying, handling, orstoring, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
+&emsp;The term “routine conveyance” means the transmission, routing, relaying, handling, or storing, through an automatic technical process, of an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
 
 #### (16) Sender
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “sender”, when used with respect to a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet web site is advertised or promoted by the message.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “sender”, when used with respectto a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet web site is advertised or promoted by the message.
 
 #### (B) Separate lines of business or divisions
 
@@ -126,5 +126,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
 

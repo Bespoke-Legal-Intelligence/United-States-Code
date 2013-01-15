@@ -1,6 +1,6 @@
 ### §722. Basis of contributing partner's interest
 
-The basis of an interest in a partnership acquired by a contribution of property, includingmoney, to the partnership shall be the amount of such money and the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time.
+The basis of an interest in a partnership acquired by a contribution of property, including money, to the partnership shall be the amount of such money and the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, §2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, §722(f)(1), July 18, 1984, 98 Stat. 974.)
 
@@ -12,7 +12,7 @@ The basis of an interest in a partnership acquired by a contribution of property
 
 #### Effective Date of 1984 Amendment
 
-Section 722(f)(2) of Pub. L. 98–369 provided that: “The amendments made by paragraph (1) \[amending this section and section 723 of this title\] shall take effect as if included in the amendments made by section 2131 of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
+Pub. L. 98–369, div. A, title VII, §722(f)(2), July 18, 1984, 98 Stat. 974, provided that: “The amendments made by paragraph (1) \[amending this section and section 723 of this title\] shall take effect as if included in the amendments made by section 2131 of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
 
 #### Effective Date of 1976 Amendment
 

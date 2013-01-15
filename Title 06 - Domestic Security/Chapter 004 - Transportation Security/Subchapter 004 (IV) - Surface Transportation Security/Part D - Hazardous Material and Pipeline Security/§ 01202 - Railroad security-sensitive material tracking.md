@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In conjunction with the research and development program established under section 1168 of this title and consistent with the results of research relating to wireless and other tracking technologies, the Secretary, in consultation with the Administrator of the Transportation Security Administration, shall develop a program that will encourage the equipping of railroad cars transporting security-sensitive materials, as defined in section 1151 of this title, with technology that provides—
+&emsp;In conjunction with the research and development program established under section 1168of this title and consistent with the results of research relating to wireless and other tracking technologies, the Secretary, in consultation with the Administrator of the Transportation Security Administration, shall develop a program that will encourage the equipping of railroad cars transporting security-sensitive materials, as defined in section 1151 of this title, with technology that provides—
 
 &emsp;&emsp;(A) car position location and tracking capabilities; and
 

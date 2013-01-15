@@ -4,7 +4,7 @@
 
 The ownership interests of members of a risk retention group shall be considered to be—
 
-&emsp;(1) exempted securities for purposes of section 77e of title 15 and for purposes of section 78<i>l</i> of title 15; and
+&emsp;(1) exempted securities for purposes of section 77e of title 15 and for purposes of section 78l of title 15; and
 
 &emsp;(2) securities for purposes of the provisions of section 77q of title 15 and the provisions of section 78j of title 15.
 

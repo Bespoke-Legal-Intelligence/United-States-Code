@@ -22,7 +22,7 @@
 
 &emsp;(3) The date the person appointed is released from active duty.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A,title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
 
 #### Amendments
 

@@ -28,7 +28,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <b>1987</b>—Par. (1). Pub. L. 100–42, §1(c)(24)(A), struck out “or major fuel-burning installation” after “powerplant”.
 
-Par. (2). Pub. L. 100–42, §1(c)(24), struck out “or major fuel-burning installation” after “powerplant” and struck out subpar. (B) which read as follows: “under section 8352(<i>l</i>) of this title, relating to scheduled equipment outages;”.
+Par. (2). Pub. L. 100–42, §1(c)(24), struck out “or major fuel-burning installation” after “powerplant” and struck out subpar. (B) which read as follows: “under section 8352(l) of this title, relating to scheduled equipment outages;”.
 
 Par. (3). Pub. L. 100–42, §1(c)(24)(A), struck out “or major fuel-burning installation” after “powerplant”.
 

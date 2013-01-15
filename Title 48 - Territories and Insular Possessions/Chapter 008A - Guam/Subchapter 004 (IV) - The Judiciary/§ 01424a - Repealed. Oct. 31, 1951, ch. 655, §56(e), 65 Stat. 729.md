@@ -4,5 +4,5 @@ Section, act Aug. 1, 1950, ch. 512, §23, 64 Stat. 390, related to appeals from 
 
 #### Savings Provision
 
-Subsec. (<i>l</i>) of section 56 of act Oct. 31, 1951, provided that the repeal by section 56 of act Oct. 31, 1951, shall not affect any rights or liabilities existing hereunder on the effective date of that repeal (Oct. 31, 1951).
+Act Oct. 31, 1951, ch. 655, §56(l), 65 Stat. 730, provided that the repeal by section 56 of act Oct. 31, 1951, shall not affect any rights or liabilities existing hereunder on the effective date of that repeal (Oct. 31, 1951).
 

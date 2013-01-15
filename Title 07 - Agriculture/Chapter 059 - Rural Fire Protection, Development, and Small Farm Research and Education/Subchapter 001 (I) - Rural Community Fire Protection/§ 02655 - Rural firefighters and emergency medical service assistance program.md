@@ -72,7 +72,7 @@ An entity shall use amounts received under a grant made under subsection (b) onl
 
 &emsp;(5) to provide training for firefighters or emergency medical personnel for improvements to the training facility, equipment, curricula, or personnel;
 
-&emsp;(6) to develop new ways to educate emergency health care providers through the use oftechnology-enhanced educational methods (such as distance learning);
+&emsp;(6) to develop new ways to educate emergency health care providers through the use of technology-enhanced educational methods (such as distance learning);
 
 &emsp;(7) to acquire emergency medical services vehicles, including ambulances;
 

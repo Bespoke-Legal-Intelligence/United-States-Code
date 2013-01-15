@@ -38,7 +38,7 @@ In carrying out the program, the Administrator shall establish—
 
 #### (1) In general
 
-&emsp;In establishing the program, the Administrator shall amend existing acquisition and procurement policy to purchase electronic parts from trusted or approved manufacturers. To determine trusted or approved manufacturers, the Administrator shall establish a list, assessed and adjusted at least annually, and create criteria for manufacturers to meet in order to be placed onto the list.
+&emsp;In establishing the program, the Administrator shall amend existing acquisition andprocurement policy to purchase electronic parts from trusted or approved manufacturers. To determine trusted or approved manufacturers, the Administrator shall establish a list, assessed and adjusted at least annually, and create criteria for manufacturers to meet in order to be placed onto the list.
 
 #### (2) Criteria
 

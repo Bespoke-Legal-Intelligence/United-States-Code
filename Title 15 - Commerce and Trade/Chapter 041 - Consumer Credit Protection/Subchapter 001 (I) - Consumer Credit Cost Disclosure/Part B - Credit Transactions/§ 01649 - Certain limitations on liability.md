@@ -50,5 +50,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1996 Amendment
 
-Section 2107(b) of div. A of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
+Pub. L. 104–208, div. A, title II, §2107(b), Sept. 30, 1996, 110 Stat. 3009–402, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
 

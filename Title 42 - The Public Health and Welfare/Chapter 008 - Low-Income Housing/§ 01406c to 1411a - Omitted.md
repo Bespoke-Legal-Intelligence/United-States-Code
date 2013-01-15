@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1406c, act June 27, 1942, ch. 450, §1, 56 Stat. 410, which related to expenses for construction adviserson non-Federal projects, was from the Independent Offices Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Prior similar provisions were contained in acts Apr. 5, 1941, ch. 40, §1, 55 Stat. 111; Apr. 18, 1940, ch. 107, §1, 54 Stat. 130.
+Section 1406c, act June 27, 1942, ch. 450, §1, 56 Stat. 410, which related to expenses for construction advisers on non-Federal projects, was from the Independent Offices Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Prior similar provisions were contained in acts Apr. 5, 1941, ch. 40, §1, 55 Stat. 111; Apr. 18, 1940, ch. 107, §1, 54 Stat. 130.
 
 Section 1407, acts Sept. 1, 1937, ch. 896, §7, 50 Stat. 891; Aug. 2, 1954, ch. 649, title VIII, §802(d), 68 Stat. 643; May 25, 1967, Pub. L. 90–19, §2(f), 81 Stat. 20, provided for publication of information and submission of annual report by the Authority, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
@@ -18,5 +18,5 @@ Section 1411a, act July 31, 1953, ch. 302, title I, §101, 67 Stat. 306, which r
 
 #### Retroactive Effect of Repeal of Rights of United States Relating to Self-Liquidation of Projects
 
-Section 206(c) of Pub. L. 87–70, as amended by Pub. L. 93–383, title II, §205, Aug. 22, 1974, 88 Stat. 668, provided in part that: “The Secretary of Housing and Urban Development is authorized to agree with a public housing agency to the amendment of any annual contributions contract containing the provision prescribed in section 10(j) of the United States Housing Act of 1937 \[subsec. (j) of section 1410 of this title\] (as in effect prior to the enactment of the Housing and Community Development Act of 1974) so as to delete such provision and waive any rights of the United States that are accrued or may accrue under such provision.”
+Pub. L. 87–70, title II, §206(c), June 30, 1961, 75 Stat. 165, as amended by Pub. L. 93–383, title II, §205, Aug. 22, 1974, 88 Stat. 668, provided in part that: “The Secretary of Housing and Urban Development is authorized to agree with a public housing agency to the amendment of any annual contributions contract containing theprovision prescribed in section 10(j) of the United States Housing Act of 1937 \[subsec. (j) of section 1410 of this title\] (as in effect prior to the enactment of the Housing and Community Development Act of 1974) so as to delete such provision and waive any rights of the United States that are accrued or may accrue under such provision.”
 

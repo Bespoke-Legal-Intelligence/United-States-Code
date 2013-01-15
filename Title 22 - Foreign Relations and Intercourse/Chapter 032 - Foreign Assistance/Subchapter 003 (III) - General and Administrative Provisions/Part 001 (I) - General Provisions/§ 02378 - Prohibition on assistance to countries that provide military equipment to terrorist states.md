@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 
 #### Codification
 
-April 24, 1966, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–132, which enacted this section, to reflect the probable intent of Congress.
+April 24, 1966, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 104–132, which enacted this section, to reflect the probable intent of Congress.
 
 #### Delegation of Functions
 

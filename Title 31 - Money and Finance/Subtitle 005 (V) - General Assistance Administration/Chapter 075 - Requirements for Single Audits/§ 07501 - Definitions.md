@@ -60,7 +60,7 @@
 
 (b) In prescribing risk-based program selection criteria for major programs, the Director shall not require more programs to be identified as major for a particular non-Federal entity, except as prescribed under subsection (c) or as provided under subsection (d), than would be identified if the major programs were defined as any program for which total expenditures of Federal awards by the non-Federal entity during the applicable year exceed—
 
-&emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity forwhich such total expenditures for all programs exceed $10,000,000,000;
+&emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
 
 &emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
 
@@ -82,7 +82,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
+Pub. L. 104–156, §1(a), July 5, 1996, 110 Stat. 1396, provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
 #### Short Title of 1984 Amendment
 
@@ -94,11 +94,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Transitional Application
 
-Section 3 of Pub. L. 104–156 provided that: “Subject to section 7507 of title 31, United States Code (as amended by section 2 of this Act) the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
+Pub. L. 104–156, §3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to section 7507 of title 31, United States Code (as amended by section 2 of this Act) the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
 
 #### Congressional Statement of Purpose
 
-Section 1(b) of Pub. L. 104–156 provided that: “The purposes of this Act \[see Short Title of 1996 Amendment note above\] are to—
+Pub. L. 104–156, §1(b), July 5, 1996, 110 Stat. 1396, provided that: “The purposes of this Act \[see Short Title of 1996 Amendment note above\] are to—
 
 &emsp;“(1) promote sound financial management, including effective internal controls, with respect to Federal awards administered by non-Federal entities;
 

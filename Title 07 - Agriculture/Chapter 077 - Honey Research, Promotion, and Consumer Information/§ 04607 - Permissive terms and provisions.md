@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
+On the recommendation of the Honey Board, and with the approval of the Secretary, an orderissued pursuant to this chapter may contain one or more of the following provisions:
 
 &emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the Honey Board to require satisfactory safeguards against improper use of such exemption.
 

@@ -10,7 +10,7 @@
 
 (2) If any person who is in receipt of retired or retirement pay would also be eligible to receive compensation or pension upon the filing of a waiver of such pay in accordance with section 5305 of this title, such waiver shall not become effective until the first day of the month following the month in which such waiver is filed, and nothing in this section shall prohibit the receipt of retired or retirement pay for any period before such effective date.
 
-(c)(1) This section shall apply to payments made pursuant to section 5310 of this title only if the monthly amount of dependency and indemnity compensation or pension payable to thesurviving spouse is greater than the amount of compensation or pension the veteran would have received, but for such veteran's death, for the month in which such veteran's death occurred.
+(c)(1) This section shall not apply to payments made pursuant to section 5310 of this title.
 
 (2) In the case of a temporary increase in compensation for hospitalization or treatment where such hospitalization or treatment commences and terminates within the same calendar month, the period of payment shall commence on the first day of such month.
 
@@ -20,11 +20,13 @@
 
 &emsp;(2) an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
 
-(Added Pub. L. 97–253, title IV, §401(a)(1), Sept. 8, 1982, 96 Stat. 801, §3011; amended Pub. L. 98–223, title I, §113, Mar. 2, 1984, 98 Stat. 40; renumbered §5111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, §605(a), Oct. 13, 2010, 124 Stat. 2885.)
+(Added Pub. L. 97–253, title IV, §401(a)(1), Sept. 8, 1982, 96 Stat. 801, §3011; amended Pub. L. 98–223, title I, §113, Mar. 2, 1984, 98 Stat. 40; renumbered §5111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, §605(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, §507(b), Aug. 6, 2012, 126 Stat. 1194.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–275 designated existing provisions as par. (1), substituted “in paragraph (2) and subsection (c)” for “in subsection (c) of this section”, and added par. (2).
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–154 substituted “not apply to payments made pursuant to section 5310 of this title” for “apply to payments made pursuant to section 5310 of this title only if the monthly amount of dependency and indemnity compensation or pension payable to the surviving spouse is greater than the amount of compensation or pension the veteran would have received, but for such veteran's death, for the month in which such veteran's death occurred”.
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–275 designated existing provisions as par. (1), substituted “in paragraph (2) andsubsection (c)” for “in subsection (c) of this section”, and added par. (2).
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3011 of this title as this section.
 
@@ -40,6 +42,10 @@ Subsec. (c)(1). Pub. L. 102–40, §402(d)(1), substituted “5310” for “311
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–223 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title V, §507(c), Aug. 6, 2012, 126 Stat. 1194, provided that: “The amendments made by this section \[amending this section and section 5310 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2012\], and shall apply with respect to deaths that occur on or after that date.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–275, title VI, §605(b), Oct. 13, 2010, 124 Stat. 2886, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2011, and shall apply with respect to awards of compensation based on original claims that become effective on or after that date.”
@@ -50,5 +56,5 @@ Amendment by Pub. L. 98–223 effective Oct. 1, 1983, see section 114 of Pub. L.
 
 #### Effective Date
 
-Section 401(b) of Pub. L. 97–253 provided that: “Section 3011 \[now 5111\] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
+Pub. L. 97–253, title IV, §401(b), Sept. 8, 1982, 96 Stat. 802, provided that: “Section 3011 \[now 5111\] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
 

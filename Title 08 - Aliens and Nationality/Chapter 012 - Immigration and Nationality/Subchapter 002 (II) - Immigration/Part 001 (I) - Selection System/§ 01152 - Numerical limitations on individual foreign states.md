@@ -50,7 +50,7 @@
 
 #### (D) Limiting pass down for certain countries subject to subsection (e)
 
-&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) ofsection 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
 
 #### (5) Rules for employment-based immigrants
 
@@ -84,7 +84,7 @@ If it is determined that the total number of immigrant visas made available unde
 
 &emsp;(3) except as provided in subsection (a)(5) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (5) of section 1153(b) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(b) of this title.
 
-> Nothing in this subsection shall be construed as limiting the number of visas that may be issued to natives of a foreign state or dependent area under section 1153(a) or 1153(b) of this title if there is insufficient demand for visas for such natives under section 1153(b) or 1153(a) of this title, respectively, or as limiting the number of visas that may be issued under section 1153(a)(2)(A) of this title pursuant to subsection (a)(4)(A) of this section.
+> Nothing in this subsection shall be construed as limiting the number of visas that may be issued to natives of a foreign state or dependent area under section 1153(a) or 1153(b) of this title if there is insufficient demand for visas for such natives under section 1153(b) or 1153(a) of thistitle, respectively, or as limiting the number of visas that may be issued under section 1153(a)(2)(A) of this title pursuant to subsection (a)(4)(A) of this section.
 
 (June 27, 1952, ch. 477, title II, ch. 1, §202, 66 Stat. 176; Pub. L. 87–301, §9, Sept. 26, 1961, 75 Stat. 654; Pub. L. 89–236, §2, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §3, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §2, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(b), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §§18(c), 20(b), Dec. 29, 1981, 95 Stat. 1620, 1622; Pub. L. 99–603, title III, §311(a), Nov. 6, 1986, 100 Stat. 3434; Pub. L. 99–653, §4, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–525, §§8(c), 9(f), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 101–649, title I, §102, Nov. 29, 1990, 104 Stat. 4982; Pub. L. 102–232, title III, §302(a)(3), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 104–208, div. C, title VI, §633, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 106–313, title I, §104(a), (b), Oct. 17, 2000, 114 Stat. 1252, 1253.)
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 97–116, §18(c), inserted “and” before “(4)”.
 
 Subsec. (e). Pub. L. 96–212, §203(b)(3)–(7), in introductory text struck out provisions relating to applicability to conditional entries, in par. (2) substituted “(26)” for “(20)”, struck out par. (7) relating to availability of conditional entries, and redesignated par. (8) as (7) and substituted “through (6)” for “through (7)”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–412 substituted “limitation set forth in subsection (a) of this section, to the foreign state,” for “limitations set forth in section 1151(a) and subsection (a) of this section, to the hemisphere in which such colony or other component or dependent area is located, and to the foreign state, respectively,” and “six hundred” for “600”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–412 substituted “limitation set forth in subsection (a) of this section, to theforeign state,” for “limitations set forth in section 1151(a) and subsection (a) of this section, to the hemisphere in which such colony or other component or dependent area is located, and to the foreign state, respectively,” and “six hundred” for “600”.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–571, §3(1), struck out last proviso which read: “<i>Provided further</i>, That the foregoing proviso shall not operate to reduce the number of immigrants who may be admitted under the quota of any quota area before June 30, 1968”.
 
@@ -170,7 +170,7 @@ Amendment by section 8(c) of Pub. L. 100–525 effective as if included in the e
 
 Amendment by Pub. L. 99–653 applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
 
-Section 311(b) of Pub. L. 99–603 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
+Pub. L. 99–603, title III, §311(b), Nov. 6, 1986, 100 Stat. 3434, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -190,9 +190,9 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Treatment of Hong Kong Under Per Country Levels
 
-Section 103 of Pub. L. 101–649 provided that: “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[8 U.S.C. 1152(b)\] shall be considered to have been granted, effective beginning with fiscal year 1991, with respect to Hong Kong as a separate foreign state, and not as a colony or other component or dependent area of another foreign state, except that the total number of immigrant visas made available to natives of Hong Kong under subsections (a) and (b) of section 203 of such Act \[8 U.S.C. 1153(a), (b)\] in each of fiscal years 1991, 1992, and 1993 may not exceed 10,000.”
+Pub. L. 101–649, title I, §103, Nov. 29, 1990, 104 Stat. 4985, provided that: “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[8 U.S.C. 1152(b)\] shall be considered to have been granted, effective beginning with fiscal year 1991, with respect to Hong Kong as a separate foreign state, and not as a colony or other component or dependent area of another foreign state, except that the total number of immigrant visas made available to natives of Hong Kong under subsections (a) and (b) of section 203 of such Act \[8 U.S.C. 1153(a), (b)\] in each of fiscal years 1991, 1992, and 1993 may not exceed 10,000.”
 
-\[Section 103 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
+\[Section 103 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscalyear 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 

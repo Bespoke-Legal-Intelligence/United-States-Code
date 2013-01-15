@@ -14,7 +14,7 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 
 #### Change of Name
 
-Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
+Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
 #### Exception as to Transfer of Functions
 

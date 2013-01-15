@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the nonforfeitable pension benefits, if any, which have accrued, or the earliest date on which benefits will become nonforfeitable,
 
-&emsp;&emsp;&emsp;(ii) shall include an explanation of any permitted disparity under section 401(<i>l</i>) of title 26 or any floor-offset arrangement that may be applied in determining any accrued benefits described in clause (i),
+&emsp;&emsp;&emsp;(ii) shall include an explanation of any permitted disparity under section 401(l) of title 26 or any floor-offset arrangement that may be applied in determining any accrued benefits described in clause (i),
 
 &emsp;&emsp;&emsp;(iii) shall be written in a manner calculated to be understood by the average plan participant, and
 

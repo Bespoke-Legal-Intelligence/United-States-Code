@@ -18,7 +18,7 @@ In making grants under subsection (a) of this section, the Secretary shall take 
 
 &emsp;(3) Whether the entity demonstrates, in the application for the program, support and participation of State and local governments and research institutions in the conduct of the program.
 
-&emsp;(4) Whether the entity is proximate to, and collaborates with, or is, an academic medicalcenter that has the capacity to serve an uninsured or underserved population, and is equipped to educate medical personnel.
+&emsp;(4) Whether the entity is proximate to, and collaborates with, or is, an academic medical center that has the capacity to serve an uninsured or underserved population, and is equipped to educate medical personnel.
 
 &emsp;(5) Such other factors as the Secretary determines to be appropriate.
 
@@ -32,7 +32,7 @@ Grants under subsection (a) of this section shall be used to supplement, and not
 
 #### (f) Government Accountability Office report
 
-Not later than 180 days after the conclusion of the demonstration programs carried out under subsection (a) of this section, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Commerce and the Committee on Appropriations of the House of Representatives, a report that describes the ability of grantees under such subsection to detect pathogens likely to be used in a bioterrorist attack, develop plans and measures for dealing with such threats, and train personnel involved with the various responsibilities and capabilities needed to deal with bioterrorist threats.
+Not later than 180 days after the conclusion of the demonstration programs carried out undersubsection (a) of this section, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Commerce and the Committee on Appropriations of the House of Representatives, a report that describes the ability of grantees under such subsection to detect pathogens likely to be used in a bioterrorist attack, develop plans and measures for dealing with such threats, and train personnel involved with the various responsibilities and capabilities needed to deal with bioterrorist threats.
 
 #### (g) Authorization of appropriations
 

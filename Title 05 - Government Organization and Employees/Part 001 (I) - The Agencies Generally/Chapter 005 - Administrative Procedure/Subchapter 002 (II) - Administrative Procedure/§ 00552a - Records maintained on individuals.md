@@ -62,7 +62,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(11) the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
 
-&emsp;(12) the term “Federal benefit program” means any program administered or funded by the Federal Government, or by any agent or State on behalf of the Federal Government, providing cash or in-kind assistance in the form of payments, grants, loans, or loan guarantees to individuals; and
+&emsp;(12) the term “Federal benefit program” means any program administered or funded by the Federal Government, or by any agent or State on behalf of the Federal Government,providing cash or in-kind assistance in the form of payments, grants, loans, or loan guarantees to individuals; and
 
 &emsp;(13) the term “Federal personnel” means officers and employees of the Government of the United States, members of the uniformed services (including members of the Reserve Components), individuals entitled to receive immediate or deferred retirement benefits under any retirement program of the Government of the United States (including survivor benefits).
 
@@ -126,7 +126,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with his request, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
 
-&emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
+&emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the dateon which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
 &emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
 
@@ -184,7 +184,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of this subsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
 
-&emsp;(12) if such agency is a recipient agency or a source agency in a matching program with a non-Federal agency, with respect to any establishment or revision of a matching program, at least 30 days prior to conducting such program, publish in the Federal Register notice of such establishment or revision.
+&emsp;(12) if such agency is a recipient agency or a source agency in a matching program with anon-Federal agency, with respect to any establishment or revision of a matching program, at least 30 days prior to conducting such program, publish in the Federal Register notice of such establishment or revision.
 
 (f)
 
@@ -216,7 +216,7 @@ Civil Remedies.—Whenever any agency
 
 > the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
 
-(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such acase the court shall determine the matter de novo.
+(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -260,7 +260,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit thathe would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -274,9 +274,9 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
-(<i>l</i>)(1)
+(l)(1)
 
-Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
+Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rulesestablished by that agency which are not inconsistent with the provisions of this section.
 
 (2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
 
@@ -292,7 +292,7 @@ Government Contractors.—When an agency provides by a contract for the operatio
 
 Mailing Lists.—An individual's name and address may not be sold or rented by an agency unless such action is specifically authorized by law. This provision shall not be construed to require the withholding of names and addresses otherwise permitted to be made public.
 
-(<i>o</i>)
+(o)
 
 Matching Agreements.—(1) No record which is contained in a system of records may be disclosed to a recipient agency or non-Federal agency for use in a computer matching program except pursuant to a written agreement between the source agency and the recipient agency or non-Federal agency specifying—
 
@@ -338,7 +338,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 &emsp;(i) such program will be conducted without any change; and
 
-&emsp;(ii) each party to the agreement certifies to the Board in writing that the program has been conducted in compliance with the agreement.
+&emsp;(ii) each party to the agreement certifies to the Board in writing that the program hasbeen conducted in compliance with the agreement.
 
 (p)
 
@@ -370,7 +370,7 @@ Verification and Opportunity to Contest Findings.—(1) In order to protect any 
 
 (q)
 
-Sanctions.—(1) Notwithstanding any other provision of law, no source agency may disclose any record which is contained in a system of records to a recipient agency or non-Federal agency for a matching program if such source agency has reason to believe that the requirements of subsection (p), or any matching agreement entered into pursuant to subsection (<i>o</i>), or both, are not being met by such recipient agency.
+Sanctions.—(1) Notwithstanding any other provision of law, no source agency may disclose any record which is contained in a system of records to a recipient agency or non-Federal agency for a matching program if such source agency has reason to believe that the requirements of subsection (p), or any matching agreement entered into pursuant to subsection (o), or both, are not being met by such recipient agency.
 
 (2) No source agency may renew a matching agreement unless—
 
@@ -408,7 +408,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (3) Each Data Integrity Board—
 
-&emsp;(A) shall review, approve, and maintain all written agreements for receipt or disclosure of agency records for matching programs to ensure compliance with subsection (<i>o</i>), and all relevant statutes, regulations, and guidelines;
+&emsp;(A) shall review, approve, and maintain all written agreements for receipt or disclosure of agency records for matching programs to ensure compliance with subsection (o), and all relevant statutes, regulations, and guidelines;
 
 &emsp;(B) shall review all matching programs in which the agency has participated during the year, either as a source agency or recipient agency, determine compliance with applicable laws, regulations, guidelines, and agency agreements, and assess the costs and benefits of such programs;
 
@@ -418,7 +418,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 &emsp;&emsp;(i) matching programs in which the agency has participated as a source agency or recipient agency;
 
-&emsp;&emsp;(ii) matching agreements proposed under subsection (<i>o</i>) that were disapproved by the Board;
+&emsp;&emsp;(ii) matching agreements proposed under subsection (o) that were disapproved by the Board;
 
 &emsp;&emsp;(iii) any changes in membership or structure of the Board in the preceding year;
 
@@ -470,7 +470,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 Applicability to Bureau of Consumer Financial Protection.—Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII,§7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080.)
 
 #### References in Text
 
@@ -480,7 +480,7 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (a)(8)
 
 Sections 404, 464, and 1137 of the Social Security Act, referred to in subsec. (a)(8)(B)(iv), are classified to sections 604, 664, and 1320b–7, respectively, of Title 42, The Public Health and Welfare.
 
-For effective date of this section, referred to in subsecs. (k)(2), (5), (7), (<i>l</i>)(2), (3), and (m), see Effective Date note below.
+For effective date of this section, referred to in subsecs. (k)(2), (5), (7), (l)(2), (3), and (m), see Effective Date note below.
 
 Section 6 of the Privacy Act of 1974, referred to in subsec. (s)(1), is section 6 of Pub. L. 93–579, which was set out below and was repealed by section 6(c) of Pub. L. 100–503.
 
@@ -508,7 +508,7 @@ Subsec. (w). Pub. L. 111–203 added subsec. (w).
 
 <b>1996</b>—Subsec. (a)(8)(B)(iv)(III). Pub. L. 104–193 substituted “section 404(e), 464,” for “section 464”.
 
-Subsec. (a)(8)(B)(v) to (vii). Pub. L. 104–226 inserted “or” at end of cl. (v), struck out “or” at end of cl. (vi), and struck out cl. (vii) which read as follows: “matches performed pursuant to section 6103(<i>l</i>)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;”.
+Subsec. (a)(8)(B)(v) to (vii). Pub. L. 104–226 inserted “or” at end of cl. (v), struck out “or” at end of cl. (vi), and struck out cl. (vii) which read as follows: “matches performed pursuant to section 6103(l)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;”.
 
 Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(e)” for “3711(f)”.
 
@@ -522,11 +522,11 @@ Subsec. (e)(12). Pub. L. 100–503, §3(a), added par. (12).
 
 Subsec. (f). Pub. L. 100–503, §7, substituted “biennially” for “annually” in last sentence.
 
-Subsecs. (<i>o</i>) to (q). Pub. L. 100–503, §2(2), added subsecs. (<i>o</i>) to (q). Former subsecs. (<i>o</i>) to (q) redesignated (r) to (t), respectively.
+Subsecs. (o) to (q). Pub. L. 100–503, §2(2), added subsecs. (o) to (q). Former subsecs. (o) to (q) redesignated (r) to (t), respectively.
 
 Subsec. (r). Pub. L. 100–503, §3(b), inserted “and matching programs” in heading and amended text generally. Prior to amendment, text read as follows: “Each agency shall provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any system of records in order to permit an evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers.”
 
-Pub. L. 100–503, §2(1), redesignated former subsec. (<i>o</i>) as (r).
+Pub. L. 100–503, §2(1), redesignated former subsec. (o) as (r).
 
 Subsec. (s). Pub. L. 100–503, §8, substituted “Biennial” for “Annual” in heading, “biennially submit” for “annually submit” in introductory provisions, “preceding 2 years” for “preceding year” in par. (1), and “such years” for “such year” in par. (2).
 
@@ -540,7 +540,7 @@ Subsec. (v). Pub. L. 100–503, §6(a), added subsec. (v).
 
 <b>1984</b>—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 98–497, §107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
+Subsec. (l)(1). Pub. L. 98–497, §107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
 
 Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and added par. (2).
 
@@ -554,7 +554,7 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to theSpeaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 <b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
@@ -590,7 +590,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13581(d) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Section 10 of Pub. L. 100–503, as amended by Pub. L. 101–56, §2, July 19, 1989, 103 Stat. 149, provided that:
+Pub. L. 100–503, §10, Oct. 18, 1988, 102 Stat. 2514, as amended by Pub. L. 101–56, §2, July 19, 1989, 103 Stat. 149, provided that:
 
 “(a)
 
@@ -618,11 +618,11 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date
 
-Section 8 of Pub. L. 93–579 provided that: “The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shall be effective on and after the date of enactment \[Dec. 31, 1974\], except that the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted.”
+Pub. L. 93–579, §8, Dec. 31, 1974, 88 Stat. 1910, provided that: “The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shall be effective on and after the date of enactment \[Dec. 31, 1974\], except that the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted.”
 
 #### Short Title of 1990 Amendment
 
-Section 7201(a) of Pub. L. 101–508 provided that: “This section \[amending this section and enacting provisions set out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
+Pub. L. 101–508, title VII, §7201(a), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “This section \[amending this section and enacting provisions set out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
 
 #### Short Title of 1989 Amendment
 
@@ -630,11 +630,11 @@ Pub. L. 101–56, §1, July 19, 1989, 103 Stat. 149, provided that: “This Act 
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–503 provided that: “This Act \[amending this section, enacting provisions set out as notes above and below, and repealing provisions set out as a note below\] may be cited as the ‘Computer Matching and Privacy Protection Act of 1988’.”
+Pub. L. 100–503, §1, Oct. 18, 1988, 102 Stat. 2507, provided that: “This Act \[amending this section, enactingprovisions set out as notes above and below, and repealing provisions set out as a note below\] may be cited as the ‘Computer Matching and Privacy Protection Act of 1988’.”
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
+Pub. L. 93–579, §1, Dec. 31, 1974, 88 Stat. 1896, provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
 
 #### Short Title
 
@@ -650,11 +650,11 @@ Functions of Director of Office of Management and Budget under this section dele
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
-Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Pub. L. 101–508, title VII, §7201(b)(2), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 #### Limitation on Application of Verification Requirement
 
-Section 7201(c) of Pub. L. 101–508 provided that: “Section 552a(p)(1)(A)(ii)(II) of title 5, United States Code, as amended by section 2 \[probably means section 7201(b)(1) of Pub. L. 101–508\], shall not apply to a program referred to in paragraph (1), (2), or (4) of section 1137(b) of the Social Security Act (42 U.S.C. 1320b–7), until the earlier of—
+Pub. L. 101–508, title VII, §7201(c), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “Section 552a(p)(1)(A)(ii)(II) of title 5, United States Code, as amended by section 2 \[probably means section 7201(b)(1) of Pub. L. 101–508\], shall not apply to a program referred to in paragraph (1), (2), or (4) of section 1137(b) of the Social Security Act (42 U.S.C. 1320b–7), until the earlier of—
 
 &emsp;“(1) the date on which the Data Integrity Board of the Federal agency which administers that program determines that there is not a high degree of confidence that information provided by that agency under Federal matching programs is accurate; or
 
@@ -670,13 +670,13 @@ Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided th
 
 #### Implementation Guidance for 1988 Amendments
 
-Section 6(b) of Pub. L. 100–503 provided that: “The Director shall, pursuant to section 552a(v) of title 5, United States Code, develop guidelines and regulations for the use of agencies in implementing the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] not later than 8 months after the date of enactment of this Act \[Oct. 18, 1988\].”
+Pub. L. 100–503, §6(b), Oct. 18, 1988, 102 Stat. 2513, provided that: “The Director shall, pursuant to section 552a(v) of title 5, United States Code, develop guidelines and regulations for the use of agencies in implementing the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] not later than 8 months after the date of enactment of this Act \[Oct. 18, 1988\].”
 
 #### Construction of 1988 Amendments
 
-Section 9 of Pub. L. 100–503 provided that: “Nothing in the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] shall be construed to authorize—
+Pub. L. 100–503, §9, Oct. 18, 1988, 102 Stat. 2514, provided that: “Nothing in the amendments made by this Act \[amending this section and repealing provisions set out as a note below\] shall be construed to authorize—
 
-&emsp;“(1) the establishment or maintenance by any agency of a national data bank that combines, merges, orlinks information on individuals maintained in systems of records by other Federal agencies;
+&emsp;“(1) the establishment or maintenance by any agency of a national data bank that combines, merges, or links information on individuals maintained in systems of records by other Federal agencies;
 
 &emsp;“(2) the direct linking of computerized systems of records maintained by Federal agencies;
 
@@ -686,7 +686,7 @@ Section 9 of Pub. L. 100–503 provided that: “Nothing in the amendments made 
 
 #### Congressional Findings and Statement of Purpose
 
-Section 2 of Pub. L. 93–579 provided that:
+Pub. L. 93–579, §2, Dec. 31, 1974, 88 Stat. 1896, provided that:
 
 “(a) The Congress finds that—
 
@@ -716,15 +716,15 @@ Section 2 of Pub. L. 93–579 provided that:
 
 #### Privacy Protection Study Commission
 
-Section 5 of Pub. L. 93–579, as amended by Pub. L. 95–38, June 1, 1977, 91 Stat. 179, which established the Privacy Protection Study Commission and provided that the Commission study data banks, automated data processing programs and information systems of governmental, regional and private organizations to determine standards and procedures in force for protection of personal information, that the Commission report to the President and Congress the extent to which requirements and principles of section 552a of title 5 should be applied to the information practices of those organizations, and that it make other legislative recommendations to protect the privacy of individuals while meeting the legitimate informational needs of government and society, ceased to exist on September 30, 1977, pursuant to section 5(g) of Pub. L. 93–579.
+Pub. L. 93–579, §5, Dec. 31, 1974, 88 Stat. 1905, as amended by Pub. L. 95–38, June 1, 1977, 91 Stat. 179, which established the Privacy Protection Study Commission and provided that the Commission study data banks, automated data processing programs and information systems of governmental, regional and private organizations to determine standards and procedures in force for protection of personal information, that the Commission report to the President and Congress the extent to which requirements and principles of section 552a of title 5 should be applied to the information practices of those organizations, and that it make other legislative recommendations to protect the privacy of individuals while meeting the legitimate informational needs of government and society, ceased to exist on September 30, 1977, pursuant to section 5(g) of Pub. L. 93–579.
 
 #### Guidelines and Regulations for Maintenance of Privacy and Protection of Records of Individuals
 
-Section 6 of Pub. L. 93–579, which provided that the Office of Management and Budget shall develop guidelines and regulations for use of agencies in implementing provisions of this section and provide continuing assistance to and oversight of the implementation of the provisions of such section by agencies, was repealed by Pub. L. 100–503, §6(c), Oct. 18, 1988, 102 Stat. 2513.
+Pub. L. 93–579, §6, Dec. 31, 1974, 88 Stat. 1909, which provided that the Office of Management and Budget shall develop guidelines and regulations for use of agencies in implementing provisions of this section and provide continuing assistance to and oversight of the implementation of the provisions of such section by agencies, was repealed by Pub. L. 100–503, §6(c), Oct. 18, 1988, 102 Stat. 2513.
 
 #### Disclosure of Social Security Number
 
-Section 7 of Pub. L. 93–579 provided that:
+Pub. L. 93–579, §7, Dec. 31, 1974, 88 Stat. 1909, provided that:
 
 “(a)(1) It shall be unlawful for any Federal, State or local government agency to deny to any individual any right, benefit, or privilege provided by law because of such individual's refusal to disclose his social security account number.
 
@@ -738,7 +738,7 @@ Section 7 of Pub. L. 93–579 provided that:
 
 #### Authorization of Appropriations to Privacy Protection Study Commission
 
-Section 9 of Pub. L. 93–579, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
+Pub. L. 93–579, §9, Dec. 31, 1974, 88 Stat. 1910, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
 
 #### Ex. Ord. No. 9397. Numbering System for Federal Accounts Relating to Individual Persons
 
@@ -756,7 +756,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 1\. Hereafter any Federal department, establishment, or agency may, whenever the head thereof finds it advisable to establish a new system of permanent account numbers pertaining to individual persons, utilize the Social Security Act account numbers assigned pursuant to title 20, section 422.103 of the Code of Federal Regulations and pursuant to paragraph 2 of this order.
 
-2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have sucha number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
+2\. The Social Security Administration shall provide for the assignment of an account number to each person who is required by any Federal agency to have such a number but who has not previously been assigned such number by the Administration. The Administration may accomplish this purpose by (a) assigning such numbers to individual persons, (b) assigning blocks of numbers to Federal agencies for reassignment to individual persons, or (c) making such other arrangements for the assignment of numbers as it may deem appropriate.
 
 3\. The Social Security Administration shall furnish, upon request of any Federal agency utilizing the numerical identification system of accounts provided for in this order, the account number pertaining to any person with whom such agency has an account or the name and other identifying data pertaining to any account number of any such person.
 

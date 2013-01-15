@@ -44,7 +44,7 @@ Provisions similar to those in this section were contained in section 783 of thi
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(A)\], substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” as section catchline.
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1)\], added subsec. (a), designated existing provisions as subsec.\(b), inserted subsec. (b) heading and substituted “If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter,” for “Subject to the eligibility requirements of this subchapter, a Reserve officer shall”, and added subsec. (c).
+Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1)\], added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading and substituted “If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter,” for “Subject to the eligibility requirements of this subchapter, a Reserve officer shall”, and added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 

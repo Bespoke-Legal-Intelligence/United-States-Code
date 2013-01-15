@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby created an account in the Treasury of the United States to be known asthe “Social Security Equivalent Benefit Account”.
+There is hereby created an account in the Treasury of the United States to be known as the “Social Security Equivalent Benefit Account”.
 
 #### (b) Transfers, etc., to Social Security Equivalent Benefit Account
 
@@ -42,11 +42,11 @@ The provisions of subsections (e), (f), and (g) of section 231n of this title ar
 
 (2) For purposes of this section, the term “social security equivalent benefits” means benefits payable under this subchapter which are of a kind taken into account in determining the amount of transfers made under section 231f(c)(2) of this title.
 
-(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438; amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
+(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438;amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
 
 #### References in Text
 
-Section 121(e) of the Social Security Amendments of 1983, referred to in subsec. (b)(1)(B), is section 121(e) ofPub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 83, which is set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Section 121(e) of the Social Security Amendments of 1983, referred to in subsec. (b)(1)(B), is section 121(e) of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 83, which is set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -66,11 +66,11 @@ Subsec. (d)(2). Pub. L. 107–90, §107(c)(1), amended par. (2) generally. Prior
 
 #### Effective Date
 
-Section 501(b)(1) of Pub. L. 98–76 provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1984.”
+Pub. L. 98–76, title V, §501(b)(1), Aug. 12, 1983, 97 Stat. 440, provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1984.”
 
 #### Treatment of Tier 1 Portion of Tax Imposed With Respect to Compensation Paid Before 1985
 
-Section 501(b)(2) of Pub. L. 98–76, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–76, title V, §501(b)(2), Aug. 12, 1983, 97 Stat. 440, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) The tier 1 portion of the tax imposed by section 3201, 3211, or 3221 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3201, 3211, 3221\], as the case may be, with respect to compensation paid before 1985 shall be treated as described in subparagraph (A) of section 15A(b)(1) of the Railroad Retirement Act of 1974 \[subsec. (b)(1)(A) of this section\].
 

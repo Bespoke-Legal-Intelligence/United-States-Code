@@ -10,7 +10,7 @@
 
 &emsp;To improve financial literacy and education, the Commission shall emphasize, among other elements, basic personal income and household money management and planning skills, including how to—
 
-&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, home ownership, wealth building, or other savings goals;
+&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, homeownership, wealth building, or other savings goals;
 
 &emsp;&emsp;(B) manage spending, credit, and debt, including credit card debt, effectively;
 

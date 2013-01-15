@@ -70,7 +70,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1976 Amendment
 
-Section 4 of Pub. L. 94–310 provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
+Pub. L. 94–310, §4, June 15, 1976, 90 Stat. 687, provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -18,7 +18,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;(2) A person who—
 
-&emsp;&emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child of a member or former member of the uniformed services under section 1072(2)(D) of this title or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title;
+&emsp;&emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child of a member or former member of the uniformed services under section 1072(2)(D)of this title or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title;
 
 &emsp;&emsp;(B) on the day before ceasing to meet those requirements, was covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
 
@@ -36,7 +36,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 (c)
 
-Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) tobe notified of eligibility to receive health benefits under this section.
+Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
 
 (2) In the case of a member who becomes (or will become) eligible for continued coverage under subsection (b)(1), the regulations shall provide for the Secretary concerned to notify the member of the member's rights under this section as part of preseparation counseling conducted under section 1142 of this title or any other provision of other law.
 
@@ -146,7 +146,7 @@ Subsec. (d)(2)(A). Pub. L. 103–337, §702(c)(3), substituted “a dependent”
 
 Subsec. (d)(2)(B). Pub. L. 103–337, §702(c)(4), substituted “dependent's” for “child's” and “dependent” for “child”.
 
-Subsec. (g)(1)(B). Pub. L. 103–337, §702(c)(5), substituted “a dependent under subparagraph (D) or (I) of section 1072(2) of this title” for “an unmarried dependent child under section 1072(2)(D) of this title”.
+Subsec. (g)(1)(B). Pub. L. 103–337, §702(c)(5), substituted “a dependent under subparagraph (D) or (I) ofsection 1072(2) of this title” for “an unmarried dependent child under section 1072(2)(D) of this title”.
 
 Subsec. (g)(2). Pub. L. 103–337, §702(c)(6), substituted “dependent” for “child” in two places.
 

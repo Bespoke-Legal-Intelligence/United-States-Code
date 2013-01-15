@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(B) in the case of a major system within the Office of the Director of National Intelligence, the deputy who is responsible for the budget, cost, schedule, and performance of the major system.
 
-&emsp;(10) The term “significant cost growth threshold” means the percentage increase in the total acquisition cost for a major system of at least 15 percent over the total acquisition cost for such system as shown in the current Baseline Estimate for such system.
+&emsp;(10) The term “significant cost growth threshold” means the percentage increase inthe total acquisition cost for a major system of at least 15 percent over the total acquisition cost for such system as shown in the current Baseline Estimate for such system.
 
 &emsp;(11) The term “total acquisition cost” means the amount equal to the total cost for development and procurement of, and system-specific construction for, a major system.
 

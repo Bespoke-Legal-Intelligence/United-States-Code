@@ -18,15 +18,15 @@
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 97–320 provided that: “This title \[enacting this chapter\] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
+Pub. L. 97–320, title VIII, §801, Oct. 15, 1982, 96 Stat. 1545, provided that: “This title \[enacting this chapter\] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
 
 #### Effective Date
 
-Section 807(a) of Pub. L. 97–320 provided that: “This title \[enacting this chapter\] shall be effective upon enactment \[Oct. 15, 1982\].”
+Pub. L. 97–320, title VIII, §807(a), Oct. 15, 1982, 96 Stat. 1548, provided that: “This title \[enacting this chapter\] shall be effective upon enactment \[Oct. 15, 1982\].”
 
 #### Identification, Description and Publication of Regulations Inapplicable To, or Conformation of Regulations for Use Of Nonfederally Chartered Housing Creditors
 
-Section 807(b) of Pub. L. 97–320 provided that: “Within sixty days of the enactment of this title \[Oct. 15, 1982\], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
+Pub. L. 97–320, title VIII, §807(b), Oct. 15, 1982, 96 Stat. 1548, provided that: “Within sixty days of the enactment of this title \[Oct. 15, 1982\], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “impaired”.</i>
 

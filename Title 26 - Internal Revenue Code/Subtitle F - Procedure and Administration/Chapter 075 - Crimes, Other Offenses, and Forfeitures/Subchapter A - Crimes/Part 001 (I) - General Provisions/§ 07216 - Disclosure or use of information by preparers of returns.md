@@ -42,7 +42,7 @@ Any person who is engaged in the business of preparing, or providing services in
 
 #### Effective Date of 1989 Amendment
 
-Section 7739(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VII, §7739(b), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 #### Effective Date
 
-Section 316(c) of Pub. L. 92–178 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Dec. 10, 1971\].”
+Pub. L. 92–178, title III, §316(c), Dec. 10, 1971, 85 Stat. 530, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Dec. 10, 1971\].”
 

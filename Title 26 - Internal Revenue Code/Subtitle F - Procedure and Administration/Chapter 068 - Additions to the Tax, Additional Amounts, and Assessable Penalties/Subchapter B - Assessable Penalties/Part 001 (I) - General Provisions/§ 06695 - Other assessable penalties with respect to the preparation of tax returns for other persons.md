@@ -14,7 +14,7 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 #### (d) Failure to retain copy or list
 
-Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with section 6107(b) with respect to such return or claim shall pay a penalty of $50 for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to any return period shall not exceed $25,000.
+Any person who is a tax return preparer with respect to any return or claim for refund whofails to comply with section 6107(b) with respect to such return or claim shall pay a penalty of $50 for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to any return period shall not exceed $25,000.
 
 #### (e) Failure to file correct information returns
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1989 Amendment
 
-Section 7733(e) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989.”
+Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: “The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989.”
 
 #### Effective Date of 1985 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Section 701(cc)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and section 7701 of this title\] shall apply to documents prepared after December 31, 1976.”
+Pub. L. 95–600, title VII, §701(cc)(3), Nov. 6, 1978, 92 Stat. 2924, provided that: “The amendments made by this subsection \[amending this section and section 7701 of this title\] shall apply to documents prepared after December 31, 1976.”
 
 #### Repeal of Regulations Covering Substantiation by Adequate Contemporaneous Records
 

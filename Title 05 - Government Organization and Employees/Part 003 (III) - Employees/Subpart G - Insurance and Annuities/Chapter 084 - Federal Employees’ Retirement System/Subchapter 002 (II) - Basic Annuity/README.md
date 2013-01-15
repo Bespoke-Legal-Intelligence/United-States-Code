@@ -8,6 +8,7 @@
 - [&sect; 08410 - Eligibility for annuity](%C2%A7%2008410%20-%20Eligibility%20for%20annuity.md)
 - [&sect; 08411 - Creditable service](%C2%A7%2008411%20-%20Creditable%20service.md)
 - [&sect; 08412 - Immediate retirement](%C2%A7%2008412%20-%20Immediate%20retirement.md)
+- [&sect; 08412a - Phased retirement](%C2%A7%2008412a%20-%20Phased%20retirement.md)
 - [&sect; 08413 - Deferred retirement](%C2%A7%2008413%20-%20Deferred%20retirement.md)
 - [&sect; 08414 - Early retirement](%C2%A7%2008414%20-%20Early%20retirement.md)
 - [&sect; 08415 - Computation of basic annuity](%C2%A7%2008415%20-%20Computation%20of%20basic%20annuity.md)

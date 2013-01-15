@@ -4,7 +4,7 @@
 
 #### (1) Tires and taxable fuel
 
-&emsp;Where before April 1, 2012, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after April 1, 2012, if claim for such credit or refund is filed with the Secretary on or before September 30, 2012, based upon a request submitted to the manufacturer, producer, or importer before July 1, 2012, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before September 30, 2012, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+&emsp;Where before October 1, 2016, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2016, if claim for such credit or refund is filed with the Secretary on or before March 31, 2017, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2017, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2017, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
 
 #### (2) Definitions
 
@@ -22,9 +22,15 @@ No manufacturer, producer, or importer shall be entitled to credit or refund und
 
 All provisions of law, including penalties, applicable in respect of the taxes imposed by sections 4071 and 4081 shall, insofar as applicable and not inconsistent with subsections (a) and (b) of this section, apply in respect of the credits and refunds provided for in subsection (a) to the same extent as if such credits or refunds constituted overpayments of such taxes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 795; Mar. 30, 1955, ch. 18, §3(b)(4), 69 Stat. 15; Mar. 29, 1956, ch. 115, §3(b)(4), 70 Stat. 67; May 29, 1956, ch. 342, §19, 70 Stat. 221; June 29, 1956, ch. 462, title II, §208(a), 70 Stat. 392; Pub. L. 85–12, §3(b)(4), Mar. 29, 1957, 71 Stat. 10; Pub. L. 85–475, §3(b)(4), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §162(a), Sept. 2, 1958, 72 Stat. 1306; Pub. L. 86–75, §3(b)(3), June 30, 1959, 73 Stat. 158; Pub. L. 86–342, title II, §201(c)(4), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–564, title II, §202(b)(3), June 30, 1960, 74 Stat. 291; Pub. L. 86–592, §2, July 6, 1960, 74 Stat. 330; Pub. L. 87–15, §2(b), Mar. 31, 1961, 75 Stat. 40; Pub. L. 87–61, title II, §206 (c), (d), June 29, 1961, 75 Stat. 127; Pub. L. 87–72, §3(b)(3), June 30, 1961,75 Stat. 193; Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77; Pub. L. 87–508, §3(b)(3), June 28, 1962, 76 Stat. 114; Pub. L. 87–535, §18(b), July 13, 1962, 76 Stat. 166; Pub. L. 88–52, §3(b)(1)(C), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(b)(1)(C), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title II, §209(a), (d), June 21, 1965, 79 Stat. 141, 144; Pub. L. 89–368, title II, §201(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 90–285, §1(a)(2), Apr. 12, 1968, 82 Stat. 92; Pub. L. 90–364, title I, §105(a)(2), June 28, 1968, 82 Stat. 265; Pub. L. 91–172, title VII, §702(a)(2), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–605, title III, §303(b), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 91–614, title II, §201(a)(2), Dec. 31, 1970, 84 Stat. 1843; Pub. L. 92–178, title IV, §401(g)(5), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(b), May 5, 1976, 90 Stat. 457; Pub. L. 94–455, title XIX, §1906(a)(22), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1826, 1834; Pub. L. 95–599, title V, §502(c), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §231(f)(1), Nov. 9, 1978, 92 Stat. 3189; Pub. L. 97–424, title V, §516(a)(5), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 98–369, div. A, title VII, §735(c)(12), July 18, 1984, 98 Stat. 983; Pub. L. 100–17, title V, §502(d)(1), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–508, title XI, §11211(f)(1), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(c)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13242(d)(16), Aug. 10, 1993, 107 Stat. 524; Pub. L. 105–178, title IX, §9002(a)(2)(A), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §11101(a)(3), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(c), Sept. 16, 2011, 125 Stat. 356.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 795; Mar. 30, 1955, ch. 18, §3(b)(4), 69 Stat. 15; Mar. 29, 1956, ch. 115, §3(b)(4), 70 Stat. 67; May 29, 1956, ch. 342, §19, 70 Stat. 221; June 29, 1956, ch. 462, title II, §208(a), 70 Stat. 392; Pub. L. 85–12, §3(b)(4), Mar. 29, 1957, 71 Stat. 10; Pub. L. 85–475, §3(b)(4), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §162(a), Sept. 2, 1958, 72 Stat. 1306; Pub. L. 86–75, §3(b)(3), June 30, 1959, 73 Stat. 158; Pub. L. 86–342, title II, §201(c)(4), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–564, title II, §202(b)(3), June 30, 1960, 74 Stat. 291; Pub. L. 86–592, §2, July 6, 1960, 74 Stat. 330; Pub. L. 87–15, §2(b), Mar. 31, 1961, 75 Stat. 40; Pub. L. 87–61, title II, §206 (c), (d), June 29, 1961, 75 Stat. 127; Pub. L. 87–72, §3(b)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77; Pub. L. 87–508, §3(b)(3), June 28, 1962, 76 Stat. 114; Pub. L. 87–535, §18(b), July 13, 1962, 76 Stat. 166; Pub. L. 88–52, §3(b)(1)(C), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(b)(1)(C), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title II, §209(a), (d), June 21, 1965, 79 Stat. 141, 144; Pub. L. 89–368, title II, §201(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 90–285, §1(a)(2), Apr. 12, 1968, 82 Stat. 92; Pub. L. 90–364, title I, §105(a)(2), June 28, 1968, 82 Stat. 265; Pub. L. 91–172, title VII, §702(a)(2), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–605, title III, §303(b), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 91–614, title II, §201(a)(2), Dec. 31, 1970, 84 Stat. 1843; Pub. L. 92–178, title IV, §401(g)(5), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(b), May 5, 1976, 90 Stat. 457; Pub. L. 94–455, title XIX, §1906(a)(22), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1826, 1834; Pub. L. 95–599, title V, §502(c), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §231(f)(1), Nov. 9, 1978, 92 Stat. 3189; Pub. L. 97–424, title V, §516(a)(5), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 98–369, div. A, title VII, §735(c)(12), July 18, 1984, 98 Stat. 983; Pub. L. 100–17, title V, §502(d)(1), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–508, title XI, §11211(f)(1), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(c)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13242(d)(16), Aug. 10, 1993, 107 Stat. 524; Pub. L. 105–178, title IX, §9002(a)(2)(A), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §11101(a)(3), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(c), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(c), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(b), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(c), July 6, 2012, 126 Stat. 845.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted in two places “October 1, 2016” for “July 1, 2012” and “March 31, 2017” for “December 31, 2012” and substituted “January 1, 2017” for “October 1, 2012”.
+
+Pub. L. 112–140, §§1(c), 402(b), temporarily substituted in two places “July 7, 2012” for “July 1, 2012” and “January 6, 2013” for “December 31, 2012” and temporarily substituted “October 7, 2012” for “October 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted in two places “July 1, 2012” for “April 1, 2012” and “December 31, 2012” for “September 30, 2012” and substituted “October 1, 2012” for “July 1, 2012”.
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–30 substituted in two places “April 1, 2012” for “October 1, 2011” and “September 30, 2012” for “March 31, 2012” and substituted “July 1, 2012” for “January 1, 2012”.
 
@@ -90,7 +96,7 @@ Pub. L. 87–535 substituted “June 30, 1967” for “December 31, 1962” aft
 
 <b>1961</b>—Subsec. (a)(1). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places, “October 1, 1962” for “October 1, 1961”, and “November 10, 1962” for “November 10, 1961” in two places.
 
-Subsec. (a)(2). Pub. L. 87–61, §206(c), inserted tubes in heading, authorized credit or refund for articles subjectto the tax imposed by section 4071(a)(3), prohibited credit or refund with respect to inner tubes for bicycle tires, and substituted “October 1, 1972” for “July 1, 1972” in two places, “February 10, 1973” for “November 10, 1972” in two places, and “January 1, 1973” for “October 1, 1972”.
+Subsec. (a)(2). Pub. L. 87–61, §206(c), inserted tubes in heading, authorized credit or refund for articles subject to the tax imposed by section 4071(a)(3), prohibited credit or refund with respect to inner tubes for bicycle tires, and substituted “October 1, 1972” for “July 1, 1972” in two places, “February 10, 1973” for “November 10, 1972” in two places, and “January 1, 1973” for “October 1, 1972”.
 
 Subsec. (a)(3). Pub. L. 87–61, §206(d), repealed par. (3) which related to 1961 floor stocks refund on gasoline.
 
@@ -124,9 +130,19 @@ Subsec. (d). Act May 29, 1956, substituted “1961” for “1957”.
 
 <b>1955</b>—Subsecs. (a), (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “July 1, 1956” for “July 1, 1955” wherever appearing.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 1993 Amendment
 
@@ -146,9 +162,9 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 #### Effective Date of 1968 Amendments
 
-Section 105(c) of Pub. L. 90–364 provided that: “The amendments made by this section \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of April 30, 1968.”
+Pub. L. 90–364, title I, §105(c), June 28, 1968, 82 Stat. 266, provided that: “The amendments made by this section \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of April 30, 1968.”
 
-Section 1(b) of Pub. L. 90–285 provided that: “The amendments made by subsection (a) \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of March 31, 1968.”
+Pub. L. 90–285, §1(b), Apr. 12, 1968, 82 Stat. 92, provided that: “The amendments made by subsection (a) \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of March 31, 1968.”
 
 #### Effective Date of 1965 Amendment
 
@@ -156,9 +172,9 @@ Amendment by Pub. L. 89–44 effective June 22, 1965, see section 701(a) of Pub.
 
 #### Effective Date of 1962 Amendments
 
-Amendment by Pub. L. 87–535 effective Jan. 1, 1962, see section 19(a) of Pub. L. 87–535.
+Amendment by Pub. L. 87–535 effective Jan. 1, 1962, see section 19(a) of Pub. L. 87–535, July 13, 1962, 76 Stat. 167.
 
-Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
+Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456, title V, May 24, 1962, 76 Stat. 78.
 
 #### Effective Date of 1961 Amendment
 
@@ -166,17 +182,17 @@ Amendment by Pub. L. 87–61 effective June 29, 1961, see section 208 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
 #### Effective Date of 1956 Amendments
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-Amendment by act May 29, 1956, effective as of Jan. 1, 1956, see section 22 of act May 29, 1956.
+Amendment by act May 29, 1956, effective as of Jan. 1, 1956, see section 22 of act May 29, 1956, ch. 342, 70 Stat. 221.
 
 #### Floor Stock Refunds
 
-Section 209(b) of Pub. L. 89–44 provided that where any article subject to taxes under section 4111, 4121, 4141, 4151, 4161, 4191 or 4451 of this title before June 21, 1965, or subject to taxes under section 4061(b), 4091(1), or 4131 of this title before Jan. 1, 1966, had been sold by the manufacturer, importer or producer and on such date held by the dealer and not used, there was to be credited or refunded to the manufacturer, importer or producer an amount equal to the difference between the tax paid by him on his sale of the article and the amount of tax made applicable to the article on such date where certain conditions were satisfactorily met.
+Pub. L. 89–44, title II, §209(b), June 21, 1965, 79 Stat. 142, provided that where any article subject to taxes under section 4111, 4121, 4141, 4151, 4161, 4191 or 4451 of this title before June 21, 1965, or subject to taxes under section 4061(b), 4091(1), or 4131 of this title before Jan. 1, 1966, had been sold by the manufacturer, importer or producer and on such date held by the dealer and not used, there was to be credited or refunded to the manufacturer, importer or producer an amount equal to the difference between the tax paid by him on his sale of the article and the amount of tax made applicable to the article on such date where certain conditions were satisfactorily met.
 
 #### Extension of Time for Filing Claims for Floor Stocks Refunds
 
@@ -184,5 +200,5 @@ Pub. L. 91–642, §1, Dec. 31, 1970, 84 Stat. 1880, provided that if a claim fo
 
 #### Refunds Respecting Consumer Purchases
 
-Section 209(c) of Pub. L. 89–44 provided that if after May 14, 1965, but before June 21, 1965, a new automotive item subject to the tax imposed by section 4061(a)(2) of this title, or a new self-contained air-conditioning unit subject to the tax imposed by section 4111 of this title, had been sold to an ultimate purchaser, there was to be credited or refunded to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by the manufacturer, producer, or importer on his sale of the article and the tax made applicable to the article on such date if certain conditions were met.
+Pub. L. 89–44, title II, §209(c), June 21, 1965, 79 Stat. 143, provided that if after May 14, 1965, but before June 21, 1965, a new automotive item subject to the tax imposed by section 4061(a)(2) of this title, or a new self-contained air-conditioning unit subject to the tax imposed by section 4111 of this title, had been sold to an ultimate purchaser, there was to be credited or refunded to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by the manufacturer, producer, or importer on his sale of the article and the tax made applicable to the article on such date if certain conditions were met.
 

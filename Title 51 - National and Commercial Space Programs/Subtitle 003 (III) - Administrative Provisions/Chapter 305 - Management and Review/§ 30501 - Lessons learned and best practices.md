@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title I, §107, Dec. 30, 2005, 119 Stat. 2912.
 
-In subsection (a), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (a), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 In subsection (a), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 

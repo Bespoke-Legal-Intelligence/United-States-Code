@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title\[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -86,7 +86,7 @@ Pub. L. 103–89, §1, Sept. 30, 1993, 107 Stat. 981, provided that: “This Act
 
 #### Short Title of 1990 Amendment; Rules of Construction
 
-Section 529 \[§1\] of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title V, §529 \[§1\], Nov. 5, 1990, 104 Stat. 1427, provided that:
 
 “(a)
 
@@ -98,15 +98,15 @@ Rules of Construction.—(1) Except as otherwise expressly provided, any referen
 
 “(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
-Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
+Pub. L. 101–509, title V, §529 \[title III, §306\], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 91–656 provided that: “This Act \[enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and section 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39\] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
+Pub. L. 91–656, §1, Jan. 8, 1971, 84 Stat. 1946, provided that: “This Act \[enacting sections 5305 to 5308 and 5947 of this title, amending this section, sections 5108 and 5942 of this title, and section 410 of Title 39, Postal Service, repealing section 5302 of this title, and enacting provisions set out as notes under sections 5303 and 5942 of this title, section 60a of Title 2, The Congress, and section 410 of Title 39\] may be cited as the ‘Federal Pay Comparability Act of 1970’.”
 
 #### Pay-for-Performance Labor-Management Committee
 
-Section 529 \[title I, §111\] of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title V, §529 \[title I, §111\], Nov. 5, 1990, 104 Stat. 1453, provided that:
 
 “(a)
 
@@ -168,11 +168,11 @@ Report to the Office of Personnel Management.—No later than 1 year after the d
 
 #### Budget Act Compliance
 
-Section 529 \[title III, §301\] of Pub. L. 101–509 provided that: “For purposes of the Congressional Budget Act of 1974 \[titles I through IX, of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, see Tables for classification\], any authority to make payments under this Act or any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall be effective only to the extent provided for in advance in appropriation Acts.”
+Pub. L. 101–509, title V, §529 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1461, provided that: “For purposes of the Congressional Budget Act of 1974 \[titles I through IX, of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, see Tables for classification\], any authority to make payments under this Act or any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall be effective only to the extent provided for in advance in appropriation Acts.”
 
 #### Pay Rates for Current Employees
 
-Section 529 \[title III, §303\] of Pub. L. 101–509 provided that: “Nothing in this Act or in any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act \[Nov. 5, 1990\] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service.”
+Pub. L. 101–509, title V, §529 \[title III, §303\], Nov. 5, 1990, 104 Stat. 1463, provided that: “Nothing in this Act or in any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act \[Nov. 5, 1990\] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service.”
 
 #### Ex. Ord. No. 12748. Providing for Federal Pay Administration
 
@@ -198,7 +198,7 @@ Sec. 3. <i>Previous Order Revoked</i>. Executive Order No. 11721, as amended, is
 
 Sec. 4. <i>Advance Payments for New Appointees</i>. Section 2(b) of Executive Order No. 10982, as amended \[5 U.S.C. 5527 note\], is further amended to read as follows:
 
-“(b) The Office of Personnel Management is hereby designated and empowered to perform the functions conferred upon the President by the provisions of section 5527 of title 5, United States Code, with respect to allotments and assignments authorized by section 5525 of title 5, United States Code, and advance payments to new appointees authorized by section 5524a of title 5, United States Code, as added by section 107(a) of the Federal Employees Pay Comparability Act of 1990, as incorporated in section 529 of Public Law 101–509.”
+“(b) The Office of Personnel Management is hereby designated and empowered to perform the functions conferred upon the President by the provisions of section 5527 of title 5, United States Code, with respect toallotments and assignments authorized by section 5525 of title 5, United States Code, and advance payments to new appointees authorized by section 5524a of title 5, United States Code, as added by section 107(a) of the Federal Employees Pay Comparability Act of 1990, as incorporated in section 529 of Public Law 101–509.”
 
 Sec. 5. <i>Staffing Differentials</i>. The Office of Personnel Management is hereby designated and empowered to exercise the authority of the President under section 209 of FEPCA \[5 U.S.C. 5305 note\] to establish staffing differentials.
 

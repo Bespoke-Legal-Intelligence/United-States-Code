@@ -42,7 +42,7 @@ The terms and conditions specified in each such contract shall—
 
 (1) Subject to paragraph (2), the Secretary may reduce or forgive the outstanding debt of a borrower—
 
-&emsp;(A) in the case of a borrower to whom the Secretary has made one or more outstanding loans under laws administered by the Secretary, by canceling that part of the aggregate amount of such outstanding loans that bears the same ratio to such aggregate amount as the number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing such loans; or
+&emsp;(A) in the case of a borrower to whom the Secretary has made one or more outstanding loans under laws administered by the Secretary, by canceling that part of the aggregate amount of such outstanding loans that bears the same ratio to such aggregate amount asthe number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing such loans; or
 
 &emsp;(B) in any other case, by treating as prepaid that part of the principal amount of a new loan to the borrower issued and held by the Secretary under a law administered by the Secretary that bears the same ratio to such principal amount as the number of acres of the real property of the borrower that are subject to the contract bears to the aggregate number of acres securing the new loan.
 
@@ -82,7 +82,7 @@ Subsec. (c)(4). Pub. L. 104–127, §642(2)(D), struck out par. (4) which read a
 
 Subsec. (d). Pub. L. 104–127, §642(3), substituted “contract” for “easement” in introductory provisions and par. (3).
 
-Subsec. (e). Pub. L. 104–127, §642(4), in par. (1), substituted “reduce or forgive the outstanding debt of aborrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
+Subsec. (e). Pub. L. 104–127, §642(4), in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
 
 Subsec. (f). Pub. L. 104–127, §642(5), in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
 

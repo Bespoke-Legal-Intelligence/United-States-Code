@@ -50,7 +50,7 @@ This section shall not apply with respect to—
 
 #### (1) Date of deposit
 
-&emsp;If any deposit required to be made (pursuant to regulations prescribed by the Secretaryunder section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
+&emsp;If any deposit required to be made (pursuant to regulations prescribed by the Secretary under section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
 
 #### (2) Mailing requirements
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 157(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to deposits required to be made after July 31, 1984.”
+Pub. L. 98–369, div. A, title I, §157(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by this section \[amending this section\] shall apply to deposits required to be made after July 31, 1984.”
 
 #### Effective Date of 1977 Amendment
 
@@ -148,15 +148,15 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1968 Amendment
 
-Section 106(b) of Pub. L. 90–364 provided that: “The amendment made by subsec. (a) \[amending this section\] shall apply only as to mailing occurring after the date of the enactment of this Act \[June 28, 1968\].”
+Pub. L. 90–364, title I, §106(b), June 28, 1968, 82 Stat. 266, provided that: “The amendment made by subsec. (a) \[amending this section\] shall apply only as to mailing occurring after the date of the enactment of this Act \[June 28, 1968\].”
 
 #### Effective Date of 1966 Amendment
 
-Section 5(c) of Pub. L. 89–713 provided that: “The amendments made by this section \[amending this section\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Nov. 2, 1966\].”
+Pub. L. 89–713, §5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: “The amendments made by this section \[amending this section\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Nov. 2, 1966\].”
 
 #### Effective Date of 1958 Amendment
 
-Section 89(d) of Pub. L. 85–866 provided that: “This section \[amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, title I, §89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: “This section \[amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -164,5 +164,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Provisions of Internal Revenue Code of 1939
 
-Section 89(c) of Pub. L. 85–866 provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
+Pub. L. 85–866, title I, §89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
 

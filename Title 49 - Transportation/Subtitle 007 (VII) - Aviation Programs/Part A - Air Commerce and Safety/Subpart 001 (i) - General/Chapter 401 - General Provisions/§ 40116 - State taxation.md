@@ -40,7 +40,7 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(iii) levy or collect an ad valorem property tax on air carrier transportation property at a tax rate greater than the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
 
-&emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusivelyupon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
+&emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
 
 (B) Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 
@@ -134,7 +134,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1112; added Dec. 23, 1970, Pub.
 
 49 App.:1512(a).
 
-Subsection (a) is made applicable to subsections (b) and (e) of this section to avoid having to repeat the term being defined. In subsection (a), the words “Commonwealth of Puerto Rico, the Virgin Islands, Guam” are omitted as surplus because of the definition of “territory or possession of the United States” in section 40102(a) of the revised title. The word “authority” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
+Subsection (a) is made applicable to subsections (b) and (e) of this section to avoid having to repeat theterm being defined. In subsection (a), the words “Commonwealth of Puerto Rico, the Virgin Islands, Guam” are omitted as surplus because of the definition of “territory or possession of the United States” in section 40102(a) of the revised title. The word “authority” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), before clause (1), reference to 49 App.:1513(f), restated as subsection (c) of this section, is added for clarity. The words “directly or indirectly” are omitted as surplus. The text of 49 App.:1513(a) (words after “subsection (e) and”) is omitted as surplus.
 

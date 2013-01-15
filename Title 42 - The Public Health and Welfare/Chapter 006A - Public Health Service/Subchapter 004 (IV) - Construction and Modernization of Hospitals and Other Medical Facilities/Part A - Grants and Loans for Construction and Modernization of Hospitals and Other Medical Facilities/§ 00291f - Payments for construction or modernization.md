@@ -6,7 +6,7 @@ Upon certification to the Surgeon General by the State agency, based upon inspec
 
 #### (b) Additional payments in cases of amended applications
 
-In case an amendment to an approved application is approved as provided in section 291e of this title or the estimated cost of a project is revised upward, any additional payment with respect thereto may be made from the applicable allotment of the State for the fiscal year in which such amendment or revision is approved.
+In case an amendment to an approved application is approved as provided in section 291e of this title or the estimated cost of a project is revised upward, any additional payment with respect thereto may be made from the applicableallotment of the State for the fiscal year in which such amendment or revision is approved.
 
 #### (c) Administration expenses; use of portion of allotments to defray; manner of payment
 
@@ -30,7 +30,7 @@ Subsec. (c)(2). Pub. L. 91–296, §112(2), substituted “June 30, 1970” for 
 
 #### Effective Date of 1970 Amendment
 
-Section 112 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to expenditures under a State plan approved under this subchapter which are made for administration of such plan during any fiscal year beginning after June 30, 1970.
+Pub. L. 91–296, title I, §112, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to expenditures under a State plan approved under this subchapter which are made for administration of such plan during any fiscal year beginning after June 30, 1970.
 
 #### Transfer of Functions
 

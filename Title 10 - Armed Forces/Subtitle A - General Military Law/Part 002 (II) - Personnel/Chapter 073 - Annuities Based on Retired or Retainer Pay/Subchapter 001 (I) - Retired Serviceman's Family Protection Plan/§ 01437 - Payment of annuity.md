@@ -12,7 +12,7 @@
 
 > However, no such annuity is payable or accrues for any month before November 1, 1968.
 
-(c)(1) Upon application of the beneficiary of a member entitled to retired or retainer pay whose retired or retainer pay has been suspended because the member has been determined to be missing, the Secretary concerned may determine for purposes of this subchapter that the member is presumed dead. Any such determination shall be made in accordance with regulations prescribed under section 1444(a) of this title. The Secretary concerned may not make a determination for purposes of this subchapterthat a member is presumed dead unless he finds—
+(c)(1) Upon application of the beneficiary of a member entitled to retired or retainer pay whose retired or retainer pay has been suspended because the member has been determined to be missing, the Secretary concerned may determine for purposes of this subchapter that the member is presumed dead. Any such determination shall be made in accordance with regulations prescribed under section 1444(a) of this title. The Secretary concerned may not make a determination for purposes of this subchapter that a member is presumed dead unless he finds—
 
 &emsp;(A) that the member has been missing for at least 30 days; and
 

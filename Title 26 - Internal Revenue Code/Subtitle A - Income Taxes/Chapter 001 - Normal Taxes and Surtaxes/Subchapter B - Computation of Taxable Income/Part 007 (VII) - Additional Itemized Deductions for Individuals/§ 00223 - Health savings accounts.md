@@ -2,7 +2,7 @@
 
 #### (a) Deduction allowed
 
-In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxableyear by or on behalf of such individual to a health savings account of such individual.
+In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by or on behalf of such individual to a health savings account of such individual.
 
 #### (b) Limitations
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If any excess contribution is contributed for a taxable year to any health savings account of an individual, paragraph (2) shallnot apply to distributions from the health savings accounts of such individual (to the extent such distributions do not exceed the aggregate excess contributions to all such accounts of such individual for such year) if—
+&emsp;&emsp;If any excess contribution is contributed for a taxable year to any health savings account of an individual, paragraph (2) shall not apply to distributions from the health savings accounts of such individual (to the extent such distributions do not exceed the aggregate excess contributions to all such accounts of such individual for such year) if—
 
 &emsp;&emsp;&emsp;(i) such distribution is received by the individual on or before the last day prescribed by law (including extensions of time) for filing such individual's return for such taxable year, and
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
 
 #### (7) Transfer of account incident to divorce
 
@@ -485,6 +485,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2013</b>—Revenue Procedure 2012–26.
 
 <b>2012</b>—Revenue Procedure 2011–32.
 

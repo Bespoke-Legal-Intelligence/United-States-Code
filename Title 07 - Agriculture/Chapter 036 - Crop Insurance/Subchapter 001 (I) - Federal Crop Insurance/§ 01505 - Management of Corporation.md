@@ -88,7 +88,7 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (6) Relation to other authority
 
-&emsp;The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(<i>l</i>) of this title.
+&emsp;The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(l) of this title.
 
 (Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204; Pub. L. 106–224, title I, §142(a)(1), (b), June 20, 2000, 114 Stat. 389, 390; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 106–224, §142(b), added subsec. (e).
 
 Pub. L. 103–354, §103, in second sentence struck out “or Assistant Secretary” after “Corporation, the Under Secretary” and substituted “one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture)” for “the Under Secretary or Assistant Secretary of Agriculture responsible for the farm credit programs of the Department of Agriculture”.
 
-Pub. L. 103–354, §115(a)(1), substituted “The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board.” for former third sentence which read as follows: “The Board shall be appointed by, and hold officeat the pleasure of the Secretary, who shall not, himself, be a member of the Board.”
+Pub. L. 103–354, §115(a)(1), substituted “The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board.” for former third sentence which read as follows: “The Board shall be appointed by, and hold office at the pleasure of the Secretary, who shall not, himself, be a member of the Board.”
 
 Pub. L. 103–354, §102(b)(4)(C), in third sentence struck out “of Agriculture” before “, who shall not”.
 

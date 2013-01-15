@@ -26,9 +26,9 @@ Each futures commission merchant shall designate an individual to serve as its C
 
 #### (e) Rules to avoid duplicative regulation of dual registrants
 
-Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78<i>o</i>(b) of title 15 (except paragraph (11) thereof), involving the application of—
+Consistent with this chapter, the Commission, in consultation with the Securities and Exchange Commission, shall issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78o(b) of title 15 (except paragraph (11) thereof), involving the application of—
 
-&emsp;(1) section 78h, section 78<i>o</i>(c)(3), and section 78q of title 15 and the rules and regulations thereunder related to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting or other financial responsibility rules (as defined in section 78c(a)(40) of title 15), involving security futures products; and
+&emsp;(1) section 78h, section 78o(c)(3), and section 78q of title 15 and the rules and regulations thereunder related to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting or other financial responsibility rules (as defined in section 78c(a)(40) of title 15), involving security futures products; and
 
 &emsp;(2) similar provisions of this chapter and the rules and regulations thereunder involving security futures products.
 
@@ -42,7 +42,7 @@ Consistent with this chapter, the Commission, in consultation with the Securitie
 
 #### (A) Segregation required
 
-&emsp;&emsp;A futures commission merchant shall treat and deal with all money, securities, and property of any swaps customer received to margin, guarantee, or secure a swapcleared by or though a derivatives clearing organization (including money, securities, or property accruing to the swaps customer as the result of such a swap) as belonging to the swaps customer.
+&emsp;&emsp;A futures commission merchant shall treat and deal with all money, securities, and property of any swaps customer received to margin, guarantee, or secure a swap cleared by or though a derivatives clearing organization (including money, securities, or property accruing to the swaps customer as the result of such a swap) as belonging to the swaps customer.
 
 #### (B) Commingling prohibited
 
@@ -74,7 +74,7 @@ Consistent with this chapter, the Commission, in consultation with the Securitie
 
 #### (6) Prohibition
 
-&emsp;It shall be unlawful for any person, including any derivatives clearing organization and any depository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.
+&emsp;It shall be unlawful for any person, including any derivatives clearing organization and anydepository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.
 
 #### (g) Introducing broker registration requirements
 
@@ -82,7 +82,7 @@ It shall be unlawful for any person to be an introducing broker unless such pers
 
 #### (h) Contracts held in portfolio margining accounts
 
-Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 6(c) of this title or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to section 6f(a)(1) of this title and also registered as a broker or dealer pursuant to section 78(<i>o</i>)(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to section 78s(b) of title 15, hold in a portfolio margining account carried as a securities account subject to section 78(<i>o</i>)(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.
+Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 6(c) of this title or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to section 6f(a)(1) of this title and also registered as a broker or dealer pursuant to section 78(o)(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to section 78s(b) of title 15, hold in a portfolio margining account carried as a securities account subject to section 78(o)(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.
 
 (Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 90–258, §6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(6), title II, §251(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443; Pub. L. 111–203, title VII, §§713(b), 724(a), 732, 749(a), July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746.)
 

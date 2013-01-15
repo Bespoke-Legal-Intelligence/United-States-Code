@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;(1) for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-&emsp;(2) except as provided for in subsection 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and
+&emsp;(2) except as provided for in subsection 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and <sup>1</sup>
 
 &emsp;(3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title;
 
@@ -56,7 +56,7 @@ Subsec. (b)(2). Pub. L. 105–42, §6(d)(2), inserted “(a)(5) or” before “
 
 Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec. (d). Text read as follows: “For purposes of this section, tuna or a tuna product is dolphin safe if—
 
-&emsp;“(1) it does not contain tuna that was harvested on the high seas by a vessel engaged in driftnet fishing,as that term is defined in section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 1987;
+&emsp;“(1) it does not contain tuna that was harvested on the high seas by a vessel engaged in driftnet fishing, as that term is defined in section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 1987;
 
 &emsp;“(2) in the case of tuna or a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean, it is dolphin safe under subsection (d)(2) of section 1385 of this title;
 
@@ -72,5 +72,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

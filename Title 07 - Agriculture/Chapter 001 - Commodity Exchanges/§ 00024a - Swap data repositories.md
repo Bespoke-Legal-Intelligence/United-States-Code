@@ -92,7 +92,7 @@ A swap data repository shall—
 
 Before the swap data repository may share information with any entity described in subsection (c)(7)—
 
-&emsp;(1) the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of thistitle relating to the information on swap transactions that is provided; and
+&emsp;(1) the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and
 
 &emsp;(2) each entity shall agree to indemnify the swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title.
 
@@ -134,7 +134,7 @@ Before the swap data repository may share information with any entity described 
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
+&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officershall annually prepare and sign a report that contains a description of—
 
 &emsp;&emsp;&emsp;(i) the compliance of the swap data repository of the chief compliance officer with respect to this chapter (including regulations); and
 
@@ -200,7 +200,7 @@ The Commission shall adopt rules governing persons that are registered under thi
 
 #### Prior Provisions
 
-A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, §7, June 17, 1980, 94 Stat. 542,related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, §402(13), Oct. 28, 1992, 106 Stat. 3625.
+A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, §7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, §402(13), Oct. 28, 1992, 106 Stat. 3625.
 
 #### Effective Date
 

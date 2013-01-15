@@ -12,7 +12,7 @@ The Secretary shall establish throughout the United States such local, State, re
 
 (B) If, after November 14, 1984, the Secretary determines that there is no other entity available for an area with which the Secretary can enter into a contract under this part or the Secretary determines that there is a more qualified entity to perform one or more of the functions in section 1320c–3(a) of this title, the Secretary may then enter into a contract under this part with an entity described in subparagraph (A) for such area if such entity otherwise meets the requirements of this part.
 
-(3)(A) The Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), a health care facility within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
+(3)(A) The Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), a health care facility within the area served by such entity orwhich would be served by such entity if it entered into a contract with the Secretary under this part.
 
 (B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control) with one or more of such facilities.
 
@@ -38,7 +38,7 @@ Each contract with an organization under this section shall provide that—
 
 #### (e) Authority of Secretary
 
-(1) Except as provided in paragraph (2), contracting authority of the Secretary under this section may be carried out without regard toany provision of law relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the purposes of this part. The Secretary may use different contracting methods with respect to different geographical areas.
+(1) Except as provided in paragraph (2), contracting authority of the Secretary under this section may be carried out without regard to any provision of law relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the purposes of this part. The Secretary may use different contracting methods with respect to different geographical areas.
 
 (2) If a quality improvement organization with a contract under this section is required to carry out a review function in addition to any function required to be carried out at the time the Secretary entered into or renewed the contract with the organization, the Secretary shall, before requiring such organization to carry out such additional function, negotiate the necessary contractual modifications, including modifications that provide for an appropriate adjustment (in light of the cost of such additional function) to the amount of reimbursement made to the organization.
 
@@ -58,7 +58,7 @@ The Secretary shall provide that fiscal intermediaries furnish to quality improv
 
 (3) The Secretary shall regularly furnish each quality improvement organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
-(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV, §§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
+(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV,§§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
 
 #### Prior Provisions
 
@@ -148,29 +148,29 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1987 Amendment
 
-Section 4091(a)(2)(B) of Pub. L. 100–203 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4091(a)(2)(B), Dec. 22, 1987, 101 Stat. 1330–134, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4091(b)(3) of Pub. L. 100–203 provided that: “The amendment made by paragraphs (1) and (2) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4091(b)(3), Dec. 22, 1987, 101 Stat. 1330–135, provided that: “The amendment made by paragraphs (1) and (2) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4092(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts scheduled to be renewed on or after the first day of the eighth month to begin after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4092(b), Dec. 22, 1987, 101 Stat. 1330–135, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts scheduled to be renewed on or after the first day of the eighth month to begin after the date of enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4094(d)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of January 1, 1988.”
+Pub. L. 100–203, title IV, §4094(d)(2), Dec. 22, 1987, 101 Stat. 1330–137, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of January 1, 1988.”
 
 #### Effective Date of 1986 Amendments
 
-Section 9352(c)(1) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9352(c)(1), Oct. 21, 1986, 100 Stat. 2044, provided that: “The Secretary of Health and Human Services shall implement the amendment made by subsection (a) \[amending this section and section 1395h of this title\] not later than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9402(c)(2) of Pub. L. 99–272 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9402(c)(2), Apr. 7, 1986, 100 Stat. 200, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
-Section 9404(b) of Pub. L. 99–272 provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9404(b), Apr. 7, 1986, 100 Stat. 201, provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
-Section 9406(b) of Pub. L. 99–272 provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9406(b), Apr. 7, 1986, 100 Stat. 201, provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 2334(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2334(c), July 18, 1984, 98 Stat. 1090, provided that: “The amendments made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2347(d) of Pub. L. 98–369 provided that: “The provisions of, and amendments made by, this section \[amending this section and section 1395cc of this title and enacting provisions set out as a note under section 1395cc of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2347(d), July 18, 1984, 98 Stat. 1097, provided that: “The provisions of, and amendments made by, this section \[amending this section and section 1395cc of this title and enacting provisions set out as a note under section 1395cc of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1983 Amendments
 

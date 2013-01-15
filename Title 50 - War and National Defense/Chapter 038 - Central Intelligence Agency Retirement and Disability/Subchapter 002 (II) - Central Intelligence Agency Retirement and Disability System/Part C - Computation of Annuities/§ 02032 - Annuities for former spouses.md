@@ -50,7 +50,7 @@
 
 #### (7) Election of benefits
 
-&emsp;A former spouse of a participant, former participant, or retired participant shall not become entitled under this subsection to an annuity payable from the fund unless the formerspouse elects to receive it instead of any survivor annuity to which the former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+&emsp;A former spouse of a participant, former participant, or retired participant shall not become entitled under this subsection to an annuity payable from the fund unless the former spouse elects to receive it instead of any survivor annuity to which the former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 #### (8) Limitation in case of multiple former spouse annuities
 
@@ -112,7 +112,7 @@
 
 #### (2) Limitation
 
-&emsp;Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section or section 2031 of this title, may exceed 55 percent of the unreducedamount of the participant's annuity, as computed under section 2031(a) of this title.
+&emsp;Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section or section 2031 of this title, may exceed 55 percent of the unreduced amount of the participant's annuity, as computed under section 2031(a) of this title.
 
 #### (3) Contribution for additional annuities
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 #### Survivor Annuity, Retirement Annuity, and Health Benefits for Certain Ex-Spouses of Central Intelligence Agency Employees; Effective Date
 
-Section 203 of Pub. L. 103–178 provided that:
+Pub. L. 103–178, title II, §203, Dec. 3, 1993, 107 Stat. 2027, provided that:
 
 “(a)
 
@@ -324,7 +324,7 @@ Retirement annuities.—The entitlement of a former wife or husband to an annuit
 
 &emsp;&emsp;&emsp;“(ii) shall terminate on the earlier of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity underthis subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the date on which the annuity of the participant terminates.
 

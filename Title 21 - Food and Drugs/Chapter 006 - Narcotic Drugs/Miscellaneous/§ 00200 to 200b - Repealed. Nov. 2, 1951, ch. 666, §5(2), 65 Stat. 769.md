@@ -4,5 +4,5 @@ Sections, acts Aug. 12, 1937, ch. 598, §§1–3, 50 Stat. 627; July 1, 1944, ch
 
 #### Savings Provision
 
-Section 6 of act Nov. 2, 1951, provided that any rights or liabilities now existing under former sections 200 to 200b of this title should not be affected by their repeal.
+Act Nov. 2, 1951, ch. 666, §6, 65 Stat. 769, provided that any rights or liabilities now existing under former sections 200 to 200b of this title should not be affected by their repeal.
 

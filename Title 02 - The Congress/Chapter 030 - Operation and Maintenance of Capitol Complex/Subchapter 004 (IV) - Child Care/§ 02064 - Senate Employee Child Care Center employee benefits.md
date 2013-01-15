@@ -14,7 +14,7 @@ The provisions of this section shall apply to any individual who—
 
 (1) Any individual described under subsection (a) of this section may be credited,<sup>1</sup> under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
 
-(2) An individual described under subsection (a) of this section shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5.
+(2) An individual described under subsection (a) of this section shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determinedby the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5.
 
 #### (c) Survivor annuities and disability benefits
 
@@ -38,7 +38,7 @@ The Office of Personnel Management shall accept the certification of the Secreta
 
 #### (h) Payment to center of amounts equal to Federal tax on employers
 
-(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal tothe tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
+(1) Subject to the provisions of paragraph (2), the Secretary of the Senate shall pay such amounts to the Senate day care center equal to the tax on employers under section 3111 of title 26 with respect to each employee of the Senate day care center. Such payments shall be made from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 
 (2) The Senate day care center shall provide appropriate documentation to the Secretary of the Senate of payment by such center of the tax described under paragraph (1), before the Secretary of the Senate may pay any amount to such center as provided under paragraph (1).
 
@@ -76,9 +76,9 @@ Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redes
 
 #### Effective Date of 1993 Amendment
 
-Section 1203(a)(2) of Pub. L. 103–50 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\].”
+Pub. L. 103–50, ch. XII, §1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[July 2, 1993\].”
 
-Section 1203(b)(2) of Pub. L. 103–50 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\].”
+Pub. L. 103–50, ch. XII, §1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 2, 1993\].”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

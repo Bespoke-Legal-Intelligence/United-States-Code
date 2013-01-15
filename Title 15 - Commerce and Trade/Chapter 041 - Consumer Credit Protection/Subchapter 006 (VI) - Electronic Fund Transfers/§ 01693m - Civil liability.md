@@ -46,7 +46,7 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat.1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
+(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
 
 #### References in Text
 

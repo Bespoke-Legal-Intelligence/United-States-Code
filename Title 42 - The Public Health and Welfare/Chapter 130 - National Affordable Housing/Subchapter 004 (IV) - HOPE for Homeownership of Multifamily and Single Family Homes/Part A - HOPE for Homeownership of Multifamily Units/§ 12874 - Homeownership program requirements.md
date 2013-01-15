@@ -58,7 +58,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (1) In general
 
-&emsp;No tenant residing in a dwelling unit in a property on the date the Secretary approves an application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
+&emsp;No tenant residing in a dwelling unit in a property on the date the Secretary approvesan application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
 
 #### (2) Rental assistance
 
@@ -74,7 +74,7 @@ The application shall include a plan ensuring that the unit—
 
 The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-This title, referred to in subsec. (f)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
+This title, referred to in subsec. (f)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 Section 1437f of this title, referred to in subsec. (g)(2), was in the original “section 8”, and was translated as reading “section 8 of the United States Housing Act of 1937” to reflect the probable intent of Congress.
 

@@ -1,6 +1,6 @@
 ### §1981. Advance payments
 
-During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate <sup>1</sup> the Chief of the Capitol Police may make payments in advancefor obligations of the United States Capitol Police for subscription services if the Chief determines it to be more prompt, efficient, or economical to do so.
+During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate <sup>1</sup> the Chief of the Capitol Police may make payments in advance for obligations of the United States Capitol Police for subscription services if the Chief determines it to be more prompt, efficient, or economical to do so.
 
 (Pub. L. 110–161, div. H, title I, §1002, Dec. 26, 2007, 121 Stat. 2227; Pub. L. 111–145, §2(d)(1), Mar. 4, 2010, 124 Stat. 51.)
 

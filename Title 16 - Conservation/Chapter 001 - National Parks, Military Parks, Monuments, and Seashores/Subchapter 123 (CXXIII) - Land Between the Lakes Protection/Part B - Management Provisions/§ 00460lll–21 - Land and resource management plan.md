@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As soon as practicable after the effective date of the transfer of jurisdiction under section 460<i>lll</i>–41 of this title, the Secretary shall prepare a land and resource management plan for the Recreation Area in conformity with the National Forest Management Act of 1976 (16 U.S.C. 472a et seq.) and other applicable law.
+As soon as practicable after the effective date of the transfer of jurisdiction under section 460lll–41 of this title, the Secretary shall prepare a land and resource management plan for the Recreation Area in conformity with the National Forest Management Act of 1976 (16 U.S.C. 472a et seq.) and other applicable law.
 
 #### (b) Interim provision
 

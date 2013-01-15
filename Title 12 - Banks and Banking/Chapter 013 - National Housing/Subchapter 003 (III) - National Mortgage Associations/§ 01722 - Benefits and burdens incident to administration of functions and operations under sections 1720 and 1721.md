@@ -6,7 +6,7 @@ All of the benefits and burdens incident to the administration of the functions 
 
 #### References in Text
 
-Section 1720 of this title, referred to in text, was repealed by Pub. L. 98–181, title IV, §483(a), Nov. 30, 1983, 97 Stat. 1240.
+Section 1720 of this title, referred to in text, was repealed by Pub. L. 98–181, title I \[title IV, §483(a)\], Nov. 30, 1983, 97 Stat. 1240.
 
 #### Prior Provisions
 

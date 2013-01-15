@@ -18,7 +18,7 @@ Planning Grants.—(1) The Secretary shall make grants to States and Indian trib
 
 (b)
 
-Training Grants.—(1) The Secretary shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material.
+Training Grants.—(1) The Secretary shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material. To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
 (2) The Secretary may make a grant under paragraph (1) of this subsection in a fiscal year—
 
@@ -112,7 +112,7 @@ Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury sh
 
 Supplemental Training Grants.—
 
-&emsp;(1) In order to further the purposes of subsection (b), the Secretary shall, subject to the availability of funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
+&emsp;(1) In order to further the purposes of subsection (b), the Secretary shall, subject to the availability of funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
 
 &emsp;(2) For the purposes of this subsection the Secretary, after consultation with interested organizations, shall—
 
@@ -122,27 +122,41 @@ Supplemental Training Grants.—
 
 &emsp;(3) Funds granted to an organization under this subsection shall only be used—
 
-&emsp;&emsp;(A) to train instructors to conduct hazardous materials response training programs;
+&emsp;&emsp;(A) to provide training, including portable training, for instructors to conduct hazardous materials response training programs;
 
 &emsp;&emsp;(B) to purchase training equipment used exclusively to train instructors to conduct such training programs; and
 
 &emsp;&emsp;(C) to disseminate such information and materials as are necessary for the conduct of such training programs.
 
-&emsp;(4) The Secretary may only make a grant to an organization under this subsection in a fiscal year if the organization enters into an agreement with the Secretary to train instructors to conduct hazardous materials response training programs in such fiscal year that will use—
+&emsp;(4) The Secretary may only make a grant to an organization under this subsection in a fiscal year if the organization enters into an agreement with the Secretary to provide training, including portable training, for instructors to conduct hazardous materials response training programs in such fiscal year that will use—
 
 &emsp;&emsp;(A) a course or courses developed or identified under section 5115 of this title; or
 
 &emsp;&emsp;(B) other courses which the Secretary determines are consistent with the objectives of this subsection;
 
-> &emsp;for training individuals with statutory responsibility to respond to accidents and incidents involving hazardous materials. Such agreement also shall provide that training courses shall be open to all such individuals on a nondiscriminatory basis.
+> &emsp;for training individuals with statutory responsibility to respond to accidents and incidents involving hazardous materials. Such agreement also shall provide that training courses shall comply with Federal regulations and national consensus standards for hazardous materials response and be open to all such individuals on a nondiscriminatory basis.
 
-&emsp;(5) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
+&emsp;(5) The Secretary may not award a grant to an organization under this subsection unless the organization ensures that emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
+
+&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
+
+&emsp;(7) For the purposes of this subsection, the term “portable training” means live, instructor-led training provided by certified fire service instructors that can be offered in any suitable setting, rather than specific designated facilities. Under this training delivery model, instructors travel to locations convenient to students and utilize local facilities and resources.
+
+&emsp;(8) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 
 (k)
 
-Reports.—The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107. The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
+Reports.—The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+&emsp;(A) a detailed accounting and description of each grant expenditure by each grant recipient, including the amount of, and purpose for, each expenditure;
+
+&emsp;(B) the number of persons trained under the grant program, by training level;
+
+&emsp;(C) an evaluation of the efficacy of such planning and training programs; and
+
+&emsp;(D) any recommendations the Secretary may have for improving such grant programs.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(b), July 6, 2012, 126 Stat. 832.)
 
 Historical and Revision Notes
 
@@ -230,6 +244,20 @@ The Emergency Planning and Community Right-To-Know Act of 1986, referred to in s
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §33004(b)(1), inserted at end “To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.”
+
+Subsec. (j)(1). Pub. L. 112–141, §33004(b)(2)(A), substituted “funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for” for “funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for”.
+
+Subsec. (j)(3)(A). Pub. L. 112–141, §33004(b)(2)(B), substituted “provide training, including portable training, for” for “train”.
+
+Subsec. (j)(4). Pub. L. 112–141, §33004(b)(2)(C)(ii), which directed insertion of “comply with Federal regulations and national consensus standards for hazardous materials response and” after “training course shall”, was executed by making the insertion after “training courses shall” in concluding provisions, to reflect the probable intent of Congress.
+
+Pub. L. 112–141, §33004(b)(2)(C)(i), substituted “provide training, including portable training, for” for “train” in introductory provisions.
+
+Subsec. (j)(5) to (8). Pub. L. 112–141, §33004(b)(2)(D), (E), added pars. (5) to (7) and redesignated former par. (5) as (8).
+
+Subsec. (k). Pub. L. 112–141, §33004(b)(3), substituted “an annual report” for “annually” and inserted “the report” after “make available” in first sentence, substituted “. The report submitted under this subsection shall include information” for “information” and “The report submitted under this subsection shall identify the ultimate recipients of such grants and include—” for “The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.”, and added pars. (A) to (D).
+
 <b>2005</b>—Subsec. (a)(1), (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 109–59, §7114(a), substituted “5 fiscal years” for “2 fiscal years”.
@@ -280,11 +308,15 @@ Subsecs. (j), (k). Pub. L. 103–311, §119(a), added subsecs. (j) and (k).
 
 “Administrator of the Federal Emergency Management Agency”, “Administrators, and Director”, and “Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences” substituted for “Director of the Federal Emergency Management Agency”, “Administrator, and Directors”, and “Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences”, respectively, in subsecs. (f) to (h), on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1996 Amendment
 
-Section 6(b) of Pub. L. 104–287 provided that the amendment made by that section is effective Aug. 26, 1994.
+Pub. L. 104–287, §6(b), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by section 6(b) is effective Aug. 26, 1994.
 
 #### Effective Date of 1994 Amendment
 
-Section 7(c) of Pub. L. 103–429 provided that the amendment made by that section is effective Aug. 26, 1994.
+Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
 

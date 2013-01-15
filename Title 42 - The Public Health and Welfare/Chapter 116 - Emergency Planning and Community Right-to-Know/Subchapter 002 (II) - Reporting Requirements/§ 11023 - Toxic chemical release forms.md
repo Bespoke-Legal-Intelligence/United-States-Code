@@ -8,7 +8,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (1) In general
 
-&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
+&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, orotherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
 
 &emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
@@ -74,7 +74,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (4) Effective date
 
-&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shalltake effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender <sup>1</sup> year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender <sup>1</sup> year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (e) Petitions
 
@@ -88,7 +88,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Governor petitions
 
-&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+&emsp;A State Governor may petition the Administrator to add or delete a chemical from thelist described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
 
 &emsp;&emsp;(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
 
@@ -212,11 +212,11 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(3) An identification and evaluation of options for modifications to the requirements of this section for the purpose of making information collected under this section more useful.
 
-#### (<i>l</i>) Mass balance study
+#### (l) Mass balance study
 
 #### (1) In general
 
-&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administratorshall submit to Congress a report on such study no later than 5 years after October 17, 1986.
+&emsp;The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administrator shall submit to Congress a report on such study no later than 5 years after October 17, 1986.
 
 #### (2) Purposes
 

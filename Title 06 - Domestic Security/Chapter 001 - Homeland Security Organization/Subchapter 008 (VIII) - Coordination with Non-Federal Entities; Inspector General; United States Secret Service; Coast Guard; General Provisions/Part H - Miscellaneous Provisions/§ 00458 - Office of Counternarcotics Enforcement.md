@@ -2,7 +2,7 @@
 
 #### (a) Office
 
-There is established in the Department an Office of Counternarcotics Enforcement, which shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate.
+There is established in the Department an Office of Counternarcotics Enforcement, whichshall be headed by a Director appointed by the President.
 
 #### (b) Assignment of personnel
 
@@ -64,9 +64,11 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 &emsp;Any content of a review and evaluation described in the reports required in this subsection that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Secretary, would be detrimental to the law enforcement or national security activities of the Department or any other Federal, State, or local agency, shall be presented to Congress separately from the rest of the review and evaluation.
 
-(Pub. L. 107–296, title VIII, §878, Nov. 25, 2002, 116 Stat. 2245; Pub. L. 108–458, title VII, §7407(a), Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–469, title I, §103(f)(2), Dec. 29, 2006, 120 Stat. 3510.)
+(Pub. L. 107–296, title VIII, §878, Nov. 25, 2002, 116 Stat. 2245; Pub. L. 108–458, title VII, §7407(a), Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–469, title I, §103(f)(2), Dec. 29, 2006, 120 Stat. 3510; Pub. L. 112–166, §2(f)(3), Aug. 10, 2012, 126 Stat. 1284.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted “The” for “Except as provided in subsection (d) of this section, the”.
 
@@ -77,4 +79,8 @@ Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e
 &emsp;“(1) ensure the adequacy of resources within the Department for illicit drug interdiction; and
 
 &emsp;“(2) serve as the United States Interdiction Coordinator for the Director of National Drug Control Policy.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of this title.
 

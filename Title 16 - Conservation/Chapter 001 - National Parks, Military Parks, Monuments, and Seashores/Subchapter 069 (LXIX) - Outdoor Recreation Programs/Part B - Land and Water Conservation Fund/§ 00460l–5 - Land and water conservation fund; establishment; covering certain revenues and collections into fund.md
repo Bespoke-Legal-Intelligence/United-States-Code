@@ -4,17 +4,17 @@ During the period ending September 30, 2015, there shall be covered into the lan
 
 #### (a) Surplus property sales
 
-All proceeds (except so much thereof as may be otherwise obligated, credited, or paid underauthority of those provisions of law set forth in section 572(a) or 574(a)–(c) of title 40 or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
+All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of those provisions of law set forth in section 572(a) or 574(a)–(c) of title 40 or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
 #### (b) Motorboat fuels tax
 
-The amounts provided for in section 460<i>l</i>–11 of this title.
+The amounts provided for in section 460l–11 of this title.
 
 #### (c) Other revenues
 
 (1) In addition to the sum of the revenues and collections estimated by the Secretary of the Interior to be covered into the fund pursuant to this section, as amended, there are authorized to be appropriated annually to the fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the fund not less than $300,000,000 for fiscal year 1977, and $900,000,000 for fiscal year 1978 and for each fiscal year thereafter through September 30, 2015.
 
-(2) To the extent that any such sums so appropriated are not sufficient to make the total annual income of the fund equivalent to the amounts provided in clause (1), an amount sufficient to cover the remainder thereof shall be credited to the fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.): <i>Provided</i>, That notwithstanding the provisions of section 460<i>l</i>–6 of this title, moneys covered into the fund under this paragraph shall remain in the fund until appropriated by the Congress to carry out the purpose of this part.
+(2) To the extent that any such sums so appropriated are not sufficient to make the total annual income of the fund equivalent to the amounts provided in clause (1), an amount sufficient to cover the remainder thereof shall be credited to the fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.): <i>Provided</i>, That notwithstanding the provisions of section 460l–6 of this title, moneys covered into the fund under this paragraph shall remain in the fund until appropriated by the Congress to carry out the purpose of this part.
 
 (Pub. L. 88–578, title I, §2, Sept. 3, 1964, 78 Stat. 897; Pub. L. 89–72, §11, July 9, 1965, 79 Stat. 218; Pub. L. 90–401, §§1(a), 2, July 15, 1968, 82 Stat. 354, 355; Pub. L. 91–308, §2, July 7, 1970, 84 Stat. 410; Pub. L. 91–485, §1, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 94–273, §2(7), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–422, title I, §101(1), Sept. 28, 1976, 90 Stat. 1313; Pub. L. 95–42, §1(1), June 10, 1977, 91 Stat. 210; Pub. L. 100–203, title V, §5201(f)(1), Dec. 22, 1987, 101 Stat. 1330–267.)
 
@@ -22,7 +22,7 @@ The amounts provided for in section 460<i>l</i>–11 of this title.
 
 The provisions of the Independent Offices Appropriation Act, referred to in subsec. (a), are the provisions of Pub. L. 87–741, Oct. 3, 1962, 76 Stat. 716, appearing under the heading “Operating Expenses, Utilization and Disposal Service” which were not classified to the Code.
 
-This part, referred to in subsecs. (a) and (c)(2), was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+This part, referred to in subsecs. (a) and (c)(2), was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -38,7 +38,7 @@ In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 
 
 <b>1977</b>—Subsec. (c)(1). Pub. L. 95–42 substituted “and $900,000,000 for fiscal year 1978” for “$600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980”.
 
-<b>1976</b>—Pub. L. 94–422 struck out “, and during such additional period as may be required to repay any advances made pursuant to section 460<i>l</i>–7(b) of this title” after “September 30, 1989” in provisions preceding subsec. (a).
+<b>1976</b>—Pub. L. 94–422 struck out “, and during such additional period as may be required to repay any advances made pursuant to section 460l–7(b) of this title” after “September 30, 1989” in provisions preceding subsec. (a).
 
 Pub. L. 94–273 substituted “September” for “June” wherever appearing.
 
@@ -56,15 +56,15 @@ Subsec. (c)(1). Pub. L. 91–485, §1(a), substituted “fiscal years 1968, 1969
 
 Subsec. (c)(2). Pub. L. 91–485, §1(b), substituted “$200,000,000 or $300,000,000 for each of such fiscal years, as provided in cl. (1),” for “$200,000,000 for each of such fiscal years,”.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
+<b>1968</b>—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460l–10c.
 
 Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesignated former subsecs. (b) and (c) as (a) and (b), respectively.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–72 substituted “notwithstanding any other provision of law:” for “notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury:”and “or affect any contract heretofore entered into by the United States that provides that such revenues collected at particular Federal areas shall be credited to specific purposes” for “of any provision of law that provides that any fees or charges collected at particular Federal areas shall be used for or credited to specific purposes or special funds as authorized by that provision of law.”
+<b>1965</b>—Subsec. (a). Pub. L. 89–72 substituted “notwithstanding any other provision of law:” for “notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury:” and “or affect any contract heretofore entered into by the United States that provides that such revenues collected at particular Federal areas shall be credited to specific purposes” for “of any provision of law that provides that any fees or charges collected at particular Federal areas shall be used for or credited to specific purposes or special funds as authorized by that provision of law.”
 
 #### Effective Date of 1968 Amendment
 
-Section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, provided that: “The provisions of subsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
+Pub. L. 90–401, §1(d), July 15, 1968, 82 Stat. 355, as amended by Pub. L. 91–308, §1, July 7, 1970, 84 Stat. 410, provided that: “The provisions of subsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
 
 #### Elimination of System of Admission and User Fees for Federal Recreation Areas
 
@@ -78,13 +78,13 @@ WHEREAS it is desirable that all American people of present and future generatio
 
 WHEREAS these resources are to a considerable extent located on lands administered by the Federal Government through the National Park Service, the Bureau of Land Management, the Bureau of Sport Fisheries and Wildlife, the Bureau of Reclamation, the Forest Service, the Corps of Engineers, the Tennessee Valley Authority and the United States Section of the International Boundary and Water Commission (United States and Mexico); and
 
-WHEREAS the Act of May 28, 1963, 77 Stat. 49 \[sections 460<i>l</i> to 460<i>l</i>–3 of the title\], vested the Secretary of the Interior with legal authority to promote coordination of Federal plans and activities generally relating to outdoor recreation; and
+WHEREAS the Act of May 28, 1963, 77 Stat. 49 \[sections 460l to 460l–3 of the title\], vested the Secretary of the Interior with legal authority to promote coordination of Federal plans and activities generally relating to outdoor recreation; and
 
 WHEREAS it is fair and equitable that the users of certain recreation areas and facilities managed by such agencies pay a reasonable fee for the recreation benefits received; and
 
 WHEREAS it is desirable to establish uniformity of practices among such Federal agencies regarding recreation user fees and related matters; and
 
-WHEREAS the Congress, recognizing the need for urgent and effective action in this regard, enacted the Land and Water Conservation Fund Act of 1965, Public Law 88–578; 78 Stat. 897 \[sections 460<i>l</i>–4 to 460<i>l</i>–11 of this title\] (hereafter in this order referred to as “the Act”);
+WHEREAS the Congress, recognizing the need for urgent and effective action in this regard, enacted the Land and Water Conservation Fund Act of 1965, Public Law 88–578; 78 Stat. 897 \[sections 460l–4 to 460l–11 of this title\] (hereafter in this order referred to as “the Act”);
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Act, by Section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
@@ -120,7 +120,7 @@ Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b
 
 (b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, which shall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
 
-Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460<i>l</i>–7(a) of this title\] and the provisions of this order.
+Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460l–7(a) of this title\] and the provisions of this order.
 
 (b)(1) In order that the purposes of the Act and of this Order may be effectuated without delay, the Secretary of the Interior shall, subject to the limitations imposed by the Act and without regard to the other provisions of this section, forthwith issue a schedule of recreation user fees and criteria to be used in determining which such fees shall be charged with respect to each of the designated areas.
 
@@ -128,7 +128,7 @@ Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consu
 
 (c) Subject to the limits set forth in the Act, the measures which the Secretary of the Interior may adopt pursuant to subsection (a) of this section may include, but are not limited to, the following—
 
-(1) Initial preparation and coordination of the comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460<i>l</i>–7(a) of this title\].
+(1) Initial preparation and coordination of the comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460l–7(a) of this title\].
 
 (2) Development of such additional procedures and interpretive materials as are necessary to facilitate the implementation of this Order and related provisions of the Act.
 

@@ -50,7 +50,7 @@ Pub. L. 100–418, title I, §1125, Aug. 23, 1988, 102 Stat. 1147, provided that
 
 &emsp;“(2) the status of the consultations described under paragraph (1); and
 
-&emsp;“(3) information, explanations, and recommendations of the kind referred to in paragraph (1)(C), (D), and (E) of such section 905(b) that are based on developments (including the taking of relevant actions, if any, of a kind not contemplated at the time of the enactment of such 1984 Act \[Oct. 30, 1984\]) since thesubmission of the report required under such section.”
+&emsp;“(3) information, explanations, and recommendations of the kind referred to in paragraph (1)(C), (D), and (E) of such section 905(b) that are based on developments (including the taking of relevant actions, if any, of a kind not contemplated at the time of the enactment of such 1984 Act \[Oct. 30, 1984\]) since the submission of the report required under such section.”
 
 \[Functions of the President under section 1125 of Pub. L. 100–418 delegated to the United States Trade Representative, see section 1–201 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.\]
 

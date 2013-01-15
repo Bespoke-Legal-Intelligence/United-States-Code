@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a shortage of reliable and impartial information and advisory services pertaining to practicable energy conservation measures and renewable-resource energy measures and the cost savings that are likely if they are implemented in such units, buildings, and plants; and
 
-&emsp;&emsp;(C) the absence of organized programs which, if they existed, would enable consumers, especially individuals and owners ofsmall businesses, to undertake such measures easily and with confidence in their economic value;
+&emsp;&emsp;(C) the absence of organized programs which, if they existed, would enable consumers, especially individuals and owners of small businesses, to undertake such measures easily and with confidence in their economic value;
 
 &emsp;(3) major programs of financial incentives and assistance for energy conservation measures and renewable-resource energy measures in dwelling units, nonresidential buildings, and industrial plants would—
 

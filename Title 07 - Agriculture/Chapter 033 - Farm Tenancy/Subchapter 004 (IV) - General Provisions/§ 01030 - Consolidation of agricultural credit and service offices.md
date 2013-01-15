@@ -1,6 +1,6 @@
 ### §1030. Consolidation of agricultural credit and service offices
 
-The Secretary of Agriculture and the Governor of the Farm Credit Administration are directed, wherever practicable, to make suitable arrangements whereby all field offices under their supervision or direction extending agricultural credit or furnishing agricultural services to farmers to utilize the same or adjacent officesto the end that eligible farmers in each locality will be enabled to obtain their agricultural credit and services at one central point.
+The Secretary of Agriculture and the Governor of the Farm Credit Administration are directed, wherever practicable, to make suitable arrangements whereby all field offices under their supervision or direction extending agricultural credit or furnishing agricultural services to farmers to utilize the same or adjacent offices to the end that eligible farmers in each locality will be enabled to obtain their agricultural credit and services at one central point.
 
 (Aug. 14, 1946, ch. 964, §7, 60 Stat. 1079.)
 

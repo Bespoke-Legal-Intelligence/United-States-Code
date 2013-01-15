@@ -2,13 +2,13 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate ofgrowth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
+&emsp;(1) the development and implementation by States of laws, policies, programs, and procedures to conserve and to improve efficiency in the use of energy will have an immediate and substantial effect in reducing the rate of growth of energy demand and in minimizing the adverse social, economic, political, and environmental impacts of increasing energy consumption;
 
 &emsp;(2) the development and implementation of energy conservation programs by States will most efficiently and effectively minimize any adverse economic or employment impacts of changing patterns of energy use and meet local economic, climatic, geographic, and other unique conditions and requirements of each State; and
 
 &emsp;(3) the Federal Government has a responsibility to foster and promote comprehensive energy conservation programs and practices by establishing guidelines for such programs and providing overall coordination, technical assistance, and financial support for specific State initiatives in energy conservation.
 
-(b) It is the purpose of this part to promote the conservation of energy and reduce the rate of growth of energy demand by authorizing the Secretary to establish procedures and guidelines for the development and implementation of specific State energy conservation programs and to provide Federal financial and technical assistance to States in support of such programs.
+(b) It is the purpose of this part to promote the conservation of energy and reduce the rate of growth of energy demand by authorizing theSecretary to establish procedures and guidelines for the development and implementation of specific State energy conservation programs and to provide Federal financial and technical assistance to States in support of such programs.
 
 (Pub. L. 94–163, title III, §361, Dec. 22, 1975, 89 Stat. 932; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288.)
 
@@ -18,5 +18,5 @@
 
 #### Report on Coordination of Energy Conservation Programs
 
-Section 623 of Pub. L. 95–619 provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
+Pub. L. 95–619, title VI, §623, Nov. 9, 1978, 92 Stat. 3283, provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
 

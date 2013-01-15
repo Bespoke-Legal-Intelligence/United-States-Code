@@ -6,7 +6,7 @@
 
 &emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to a foreign state or a political subdivision thereof, after having attained the age of eighteen years; or
 
-&emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the UnitedStates, or (B) such persons serve as a commissioned or non-commissioned officer; or
+&emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
 &emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
@@ -64,7 +64,7 @@ Amendment by section 8(m), (n) of Pub. L. 100–525 effective as if included in 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(g) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 18, 19, and 20 \[amending this section and section 1483 of this title\] shall apply to actions taken before, on, or after November 14, 1986.”
+Pub. L. 99–653, §23(g), as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 18, 19, and 20 \[amending this section and section 1483 of this title\] shall apply to actions taken before, on, or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Short Title
 
-Section 1 of act Sept. 3, 1954, provided: “That this Act \[amending this section\] may be cited as the ‘Expatriation Act of 1954’.”
+Act Sept. 3, 1954, ch. 1256, §1, 68 Stat. 1146, provided: “That this Act \[amending this section\] may be cited as the ‘Expatriation Act of 1954’.”
 
 #### Savings Provision
 

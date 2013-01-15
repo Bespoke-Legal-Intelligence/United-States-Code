@@ -22,5 +22,5 @@ Section 460, act June 28, 1940, ch. 439, title III, §39, 54 Stat. 676, related 
 
 #### Nationality Act of 1940
 
-On October 14, 1940, and subsequent to the enactment of former section 451 et seq. of this title, Congress passed the Nationality Act of 1940 \[former section 501 et seq. of this title\] for the purpose of consolidating and restating the laws of the United States upon citizenship, naturalization and expatriation. Said act contained further provisions relating to registry of aliens \[former sections 728 and 746(<i>l</i>) of this title\], and former section 504 thereof, in addition to certain specific repeals, provided that all acts or parts of acts in conflict therewith were thereby repealed.
+On October 14, 1940, and subsequent to the enactment of former section 451 et seq. of this title, Congress passed the Nationality Act of 1940 \[former section 501 et seq. of this title\] for the purpose of consolidating and restating the laws of the United States upon citizenship, naturalization and expatriation. Said act contained further provisions relating to registry of aliens \[former sections 728 and 746(l) of this title\], and former section 504 thereof, in addition to certain specific repeals, provided that all acts or parts of acts in conflict therewith were thereby repealed.
 

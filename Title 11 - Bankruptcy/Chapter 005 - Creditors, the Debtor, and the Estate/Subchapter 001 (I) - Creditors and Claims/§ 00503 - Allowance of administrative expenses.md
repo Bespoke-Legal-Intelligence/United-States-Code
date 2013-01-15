@@ -82,7 +82,7 @@
 
 Section 503(a) of the House amendment represents a compromise between similar provisions in the House bill and the Senate amendment by leaving to the Rules of Bankruptcy Procedure the determination of the location at which a request for payment of an administrative expense may be filed. The preamble to section 503(b) of the House bill makes a similar change with respect to the allowance of administrative expenses.
 
-Section 503(b)(1) adopts the approach taken in the House bill as modified by some provisions contained in the Senate amendment. The preamble to section 503(b) makes clear that none of the paragraphs of section 503(b) apply to claims or expenses of the kind specified in section 502(f) that arise in the ordinary course of the debtor's business or financial affairs and that arise during the gap between the commencement of an involuntary case and the appointment of a trustee or the order for relief, whichever first occurs. The remainder of section 503(b) represents a compromise between H.R. 8200 as passed by the House and the Senate amendments.Section 503(b)(3)(E) codifies present law in cases such as <i>Randolph v. Scruggs</i>, 190 U.S. 533, which accords administrative expense status to services rendered by a prepetition custodian or other party to the extent such services actually benefit the estate. Section 503(b)(4) of the House amendment conforms to the provision contained in H.R. 8200 as passed by the House and deletes language contained in the Senate amendment providing a different standard of compensation under section 330 of that amendment.
+Section 503(b)(1) adopts the approach taken in the House bill as modified by some provisions contained in the Senate amendment. The preamble to section 503(b) makes clear that none of the paragraphs of section 503(b) apply to claims or expenses of the kind specified in section 502(f) that arise in the ordinary course of the debtor's business or financial affairs and that arise during the gap between the commencement of an involuntary case and the appointment of a trustee or the order for relief, whichever first occurs. The remainder of section 503(b) represents a compromise between H.R. 8200 as passed by the House and the Senate amendments. Section 503(b)(3)(E) codifies present law in cases such as <i>Randolph v. Scruggs</i>, 190 U.S. 533, which accords administrative expense status to services rendered by a prepetition custodian or other party to the extent such services actually benefit the estate. Section 503(b)(4) of the House amendment conforms to the provision contained in H.R. 8200 as passed by the House and deletes language contained in the Senate amendment providing a different standard of compensation under section 330 of that amendment.
 
 #### senate report no. 95–989
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

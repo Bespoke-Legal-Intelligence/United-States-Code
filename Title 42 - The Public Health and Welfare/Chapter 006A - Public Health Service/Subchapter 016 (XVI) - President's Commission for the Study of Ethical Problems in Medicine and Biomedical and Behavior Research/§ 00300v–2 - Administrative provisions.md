@@ -14,7 +14,7 @@ The Commission may for the purpose of carrying out this subchapter hold such hea
 
 #### (c) Contracting authority
 
-The Commission, in performing its duties and functions under this subchapter, may enter intocontracts with appropriate public or nonprofit private entities. The authority of the Commission to enter into such contracts is effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
+The Commission, in performing its duties and functions under this subchapter, may enter into contracts with appropriate public or nonprofit private entities. The authority of the Commission to enter into such contracts is effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (d) Informational requirements and prohibitions
 
@@ -32,5 +32,5 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

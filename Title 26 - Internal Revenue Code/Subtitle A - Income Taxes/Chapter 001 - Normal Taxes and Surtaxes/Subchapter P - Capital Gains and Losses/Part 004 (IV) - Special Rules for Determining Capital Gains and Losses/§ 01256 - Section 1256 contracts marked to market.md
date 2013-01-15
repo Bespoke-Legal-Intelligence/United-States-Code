@@ -4,7 +4,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
+&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shallbe treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
 
 &emsp;(2) proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account by reason of paragraph (1),
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “securities futures contract” has the meaning given to such term by section 1234B.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII,§1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(oo), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223.)
 
 #### References in Text
 
@@ -402,7 +402,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Section 102(f)–(j) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(1), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that:
+Pub. L. 98–369, div. A, title I, §102(f)–(j), July 18, 1984, 98 Stat. 625, 627, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(1), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that:
 
 “(f)
 
@@ -458,13 +458,13 @@ In general.—If the taxpayer makes an election under subsection (g)(2) and unde
 
 Date for payment of installment.—
 
-&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
+&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the returnfor the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
 
 &emsp;&emsp;“(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
 &emsp;“(3)
 
-Interest imposed.—For purposes of section 6601 of the Internal Revenue Code of 1986, the time forpayment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
+Interest imposed.—For purposes of section 6601 of the Internal Revenue Code of 1986, the time for payment of any tax with respect to which an election is made under this subsection shall be determined without regard to this subsection.
 
 &emsp;“(4)
 
@@ -502,7 +502,7 @@ With Elections Under Subsections (g)
 
 and (h).—The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary to coordinate the election provided by subsection (d)(3) with the elections provided by subsections (g) and (h).”
 
-Section 104(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §104(b), July 18, 1984, 98 Stat. 628, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 Amendment by section 107(c), (d) of Pub. L. 98–369 applicable to positions entered into after July 18, 1984, in taxable years ending after that date, see section 107(e) of Pub. L. 98–369 set out as a note under section 1092 of this title.
 
@@ -512,7 +512,7 @@ Amendment by section 722(a)(2) of Pub. L. 98–369 effective as if included in t
 
 Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
-Section 105(c)(5)(D) of Pub. L. 97–448, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–448, title I, §105(c)(5)(D), Jan. 12, 1983, 96 Stat. 2386, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(i)
 
@@ -566,7 +566,7 @@ Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(4)\], Dec. 21, 2000, 114 Stat.
 
 #### Election for Extension of Time for Payment and Application of This Section for the Taxable Year Including June 23, 1981
 
-Section 509 of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §105(c)(6), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title V, §509, Aug. 13, 1981, 95 Stat. 333, as amended by Pub. L. 97–448, title I, §105(c)(6), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -574,7 +574,7 @@ Election.—
 
 &emsp;“(1)
 
-In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Datenote under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
+In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Date note under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
 
 &emsp;“(2)
 

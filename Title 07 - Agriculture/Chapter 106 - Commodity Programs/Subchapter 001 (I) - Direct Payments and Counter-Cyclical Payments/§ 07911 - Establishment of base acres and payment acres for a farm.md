@@ -34,7 +34,7 @@
 
 #### (C) Offset of contract acreage
 
-&emsp;&emsp;The owner of a farm may increase the eligible acreage for an oilseed on the farm by reducing the contract acreage determinedunder paragraph (1)(B)(i) for 1 or more covered commodities on an acre-for-acre basis, except that the total base acreage for each oilseed on the farm may not exceed the 4-year average of each oilseed determined under paragraph (1)(B)(ii).
+&emsp;&emsp;The owner of a farm may increase the eligible acreage for an oilseed on the farm by reducing the contract acreage determined under paragraph (1)(B)(i) for 1 or more covered commodities on an acre-for-acre basis,except that the total base acreage for each oilseed on the farm may not exceed the 4-year average of each oilseed determined under paragraph (1)(B)(ii).
 
 #### (3) Inclusion of all 4 years in average
 
@@ -114,7 +114,7 @@ The payment acres for a covered commodity on a farm shall be equal to 85 percent
 
 #### (h) Permanent reduction in base acres
 
-The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
+The owner of a farm may reduce, at any time, the base acres for any covered commodity forthe farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
 
 (Pub. L. 107–171, title I, §1101, May 13, 2002, 116 Stat. 144.)
 

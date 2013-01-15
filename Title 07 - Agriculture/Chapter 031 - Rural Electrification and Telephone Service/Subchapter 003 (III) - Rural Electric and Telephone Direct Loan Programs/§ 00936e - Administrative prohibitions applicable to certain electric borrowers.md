@@ -14,7 +14,7 @@ In issuing regulations implementing this section, the Secretary may establish re
 
 #### (d) Authority of Secretary
 
-Nothing in this section limits the authority of the Secretary to establish terms and conditions with respect to the use by borrowers of the proceeds of loans made or guaranteed under this chapter or to take any other action specifically authorized by law.
+Nothing in this section limits the authority of the Secretary to establish terms and conditionswith respect to the use by borrowers of the proceeds of loans made or guaranteed under this chapter or to take any other action specifically authorized by law.
 
 (May 20, 1936, ch. 432, title III, §306E, as added Pub. L. 103–129, §2(c)(7), Nov. 1, 1993, 107 Stat. 1365; amended Pub. L. 103–201, §1, Dec. 17, 1993, 107 Stat. 2342; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
@@ -26,5 +26,5 @@ Nothing in this section limits the authority of the Secretary to establish terms
 
 #### Regulations
 
-Section 2 of Pub. L. 103–201 provided that: “The Administrator of the Rural Electrification Administration shall issue interim final regulations implementing this Act \[amending this section\] not later than 180 days after enactment \[Dec. 17, 1993\]. If the regulations are not issued within such period of time, the Administrator may not, until the Administrator issues such regulations, require prior approval of, establish any requirement, restriction, or prohibition, with respect to the operations of any electric borrower under the Rural Electrification Act of 1936 \[7 U.S.C. 90 et seq.\] whose net worth exceeds 110 percent of the outstanding principal balance on all loans made or guaranteed to the borrower by the Administrator.”
+Pub. L. 103–201, §2, Dec. 17, 1993, 107 Stat. 2342, provided that: “The Administrator of the Rural Electrification Administration shall issue interim final regulations implementing this Act \[amending this section\] not later than 180 days after enactment \[Dec. 17, 1993\]. If the regulations are not issued within such period of time, the Administrator may not, until the Administrator issues such regulations, require prior approval of, establish any requirement, restriction, or prohibition, with respect to the operations of any electric borrower under the Rural Electrification Act of 1936 \[7 U.S.C. 90 et seq.\] whose net worth exceeds 110 percent of the outstanding principal balance on all loans made or guaranteed to the borrower by the Administrator.”
 

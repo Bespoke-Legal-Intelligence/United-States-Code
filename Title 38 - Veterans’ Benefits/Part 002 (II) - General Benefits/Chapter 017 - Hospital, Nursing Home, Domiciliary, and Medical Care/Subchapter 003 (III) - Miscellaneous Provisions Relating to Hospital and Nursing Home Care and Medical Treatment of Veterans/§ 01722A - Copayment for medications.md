@@ -42,9 +42,9 @@ Subsec. (c). Pub. L. 105–33, §8021(b), substituted “September 30, 2002” f
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions ofsubsection (a) shall be in effect through September 30, 1997.”
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connecteddisability rated 50 percent or more” after “require a veteran”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
 
 Subsec. (a)(3). Pub. L. 102–568, §605(a)(2), added par. (3).
 
@@ -60,7 +60,7 @@ Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see 
 
 #### Effective Date of 1992 Amendment
 
-Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to medication furnished after the date of the enactment of this Act \[Oct. 29, 1992\].”
+Pub. L. 102–568, title VI, §605(b), Oct. 29, 1992, 106 Stat. 4343, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to medication furnished after the date of the enactment of this Act \[Oct. 29, 1992\].”
 
 #### Effective and Termination Dates
 
@@ -68,5 +68,5 @@ Section to remain in effect through the period covered by Pub. L. 102–145, see
 
 Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
-Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
+Pub. L. 101–508, title VIII, §8012(b), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
 

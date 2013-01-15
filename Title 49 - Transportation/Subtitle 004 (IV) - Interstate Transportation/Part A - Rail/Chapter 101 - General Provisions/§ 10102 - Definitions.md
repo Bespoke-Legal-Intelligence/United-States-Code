@@ -44,7 +44,7 @@ Section 10103, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1340; Pub. L. 96–448,
 
 A prior chapter 103, consisting of sections 10301 to 10311, 10321, 10322, 10324, 10326 to 10330, 10341 to 10344, 10361 to 10364, and 10381 to 10388, was omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a). See chapter 7 of this title.
 
-Section 10301, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1341; Pub. L. 97–253, title V, §502(b), (e), (h)(1), Sept. 8, 1982, 96 Stat. 806, related to organization, membership, administration, seal, and expenses of Interstate Commerce Commission.
+Section 10301, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1341; Pub. L. 97–253, title V, §502(b), (e), (h)(1), Sept. 8,1982, 96 Stat. 806, related to organization, membership, administration, seal, and expenses of Interstate Commerce Commission.
 
 Section 10302, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1342, related to divisions of Commission.
 

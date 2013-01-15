@@ -60,7 +60,7 @@ Requirements.—A comprehensive workplace wellness program shall be made availab
 
 &emsp;&emsp;“(C) Initiatives to change unhealthy behaviors and lifestyle choices (including counseling, seminars, online programs, and self-help materials).
 
-&emsp;&emsp;“(D) Supportive environment efforts (including workplace policies to encourage healthy lifestyles, healthy eating, increased physical activity, and improved mental health).
+&emsp;&emsp;“(D) Supportive environment efforts (including workplace policies to encourage healthy lifestyles,healthy eating, increased physical activity, and improved mental health).
 
 “(d)
 

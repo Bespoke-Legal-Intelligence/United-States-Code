@@ -13,13 +13,19 @@
 | [2408\.](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md) | Aid to States for establishment, expansion, and improvement of veterans’ cemeteries. |
 | [2409\.](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md) | Memorial areas in Arlington National Cemetery. |
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
+| [2410A.](%C2%A7%2002410A%20-%20Arlington%20National%20Cemetery%20other%20administrative%20matters.md) | Arlington National Cemetery: other administrative matters. |
 | [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes. |
 | [2412\.](%C2%A7%2002412%20-%20Lease%20of%20land%20and%20buildings.md) | Lease of land and buildings. |
-| [2413\.](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%E2%80%A6.md) | Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery. |
+| [2413\.](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20and%20disruptions%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%E2%80%A6.md) | Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery. |
+| [2414\.](%C2%A7%2002414%20-%20Communication%20between%20Department%20of%20Veterans%20Affairs%20and%20medical%20examiners%20and%20funeral%20directors.md) | Communication between Department of Veterans Affairs and medical examiners and funeral directors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–260, title I, §103(b), Jan. 10, 2013, 126 Stat. 2420, added item 2414.
+
+<b>2012</b>—Pub. L. 112–154, title VI, §§601(c)(2), 602(b), Aug. 6, 2012, 126 Stat. 1199, 1200, added items 2410A and 2413 and struck out former item 2413 “Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery”.
 
 <b>2006</b>—Pub. L. 109–228, §2(a)(2), May 29, 2006, 120 Stat. 388, added item 2413.
 
@@ -53,6 +59,8 @@
 - [&sect; 02408 - Aid to States for establishment, expansion, and improvement of veterans&#8217; cemeteries](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md)
 - [&sect; 02409 - Memorial areas in Arlington National Cemetery](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02410 - Burial of cremated remains in Arlington National Cemetery](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md)
+- [&sect; 02410A - Arlington National Cemetery other administrative matters](%C2%A7%2002410A%20-%20Arlington%20National%20Cemetery%20other%20administrative%20matters.md)
 - [&sect; 02411 - Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons&#8230;](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md)
 - [&sect; 02412 - Lease of land and buildings](%C2%A7%2002412%20-%20Lease%20of%20land%20and%20buildings.md)
-- [&sect; 02413 - Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National&#8230;](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%20National%E2%80%A6.md)
+- [&sect; 02413 - Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington&#8230;](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20and%20disruptions%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%E2%80%A6.md)
+- [&sect; 02414 - Communication between Department of Veterans Affairs and medical examiners and funeral directors](%C2%A7%2002414%20-%20Communication%20between%20Department%20of%20Veterans%20Affairs%20and%20medical%20examiners%20and%20funeral%20directors.md)

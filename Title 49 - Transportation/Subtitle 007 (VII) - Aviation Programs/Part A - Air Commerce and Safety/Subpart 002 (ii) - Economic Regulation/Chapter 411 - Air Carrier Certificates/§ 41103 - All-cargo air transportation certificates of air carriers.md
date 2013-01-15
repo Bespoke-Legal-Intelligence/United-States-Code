@@ -6,7 +6,7 @@ Applications.—A citizen of the United States may apply to the Secretary of Tra
 
 (b)
 
-Issuance.—Not later than 180 days after an application for a certificate is filed under this section, the Secretary shall issue the certificate to a citizen of the United States authorizing the citizen, as an air carrier, to provide any part ofthe all-cargo air transportation applied for unless the Secretary finds that the citizen is not fit, willing, and able to provide the all-cargo air transportation to be authorized by the certificate and to comply with regulations of the Secretary.
+Issuance.—Not later than 180 days after an application for a certificate is filed under this section, the Secretary shall issue the certificate to a citizen of the United States authorizing the citizen, as an air carrier, to provide any part of the all-cargo air transportation applied for unless the Secretary finds that the citizen is not fit, willing, and able to provide the all-cargo air transportation to be authorized by the certificate and to comply with regulations of the Secretary.
 
 (c)
 

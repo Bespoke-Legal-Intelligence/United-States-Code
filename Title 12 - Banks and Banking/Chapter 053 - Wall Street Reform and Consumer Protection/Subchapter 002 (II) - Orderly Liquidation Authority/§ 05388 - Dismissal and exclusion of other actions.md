@@ -16,5 +16,5 @@ Notwithstanding subsections (a) and (b), any order entered or other relief grant
 
 #### References in Text
 
-The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally tochapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 

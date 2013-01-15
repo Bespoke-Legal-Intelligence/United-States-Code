@@ -24,7 +24,7 @@
 
 &emsp;(F) Each veteran who was discharged or released from a period of active duty of 90 days or more by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
 
-(3) Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
+(3) Any unused entitlement of World War II or Korean conflict veterans which expired underprovisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
 
 (4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used by the veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
 
@@ -54,7 +54,7 @@
 
 (e) The Secretary may at any time upon thirty days’ notice require housing loans to be made by any lender or class of lenders to be submitted to the Secretary for prior approval. No guaranty or insurance liability shall exist with respect to any such loan unless evidence of guaranty or insurance is issued by the Secretary.
 
-(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may bemade by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
+(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
 
 &emsp;(1) ratio of amount of loan to the value of the property;
 
@@ -66,7 +66,7 @@
 
 &emsp;(5) percentage of assets which may be invested in real estate loans.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, §405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, §6(a), Aug. 29, 2008, 122 Stat. 3528.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348; Pub.L. 106–117, title VII, §711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, §405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, §6(a), Aug. 29, 2008, 122 Stat. 3528.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 97–72, §303(b)(7), substituted “Any housing loan at le
 
 Subsec. (b). Pub. L. 95–476, §102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “theveteran-transferee's entitlement” for “his entitlement”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee's entitlement” for “his entitlement”.
 
 Subsec. (c). Pub. L. 94–324, §7(4), substituted “The Administrator” for “He”.
 
@@ -162,7 +162,7 @@ Subsec. (d). Pub. L. 90–19 substituted “mortgagee approved by the Secretary 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set outas a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1998 Amendment
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 #### Effective Date of 1978 Amendment
 
-Section 108 of title I of Pub. L. 95–476 provided that:
+Pub. L. 95–476, title I, §108, Oct. 18, 1978, 92 Stat. 1502, provided that:
 
 “(a) Except as provided in subsection (b) of this section, the amendments made by this title \[see Tables for classification\] shall take effect on October 1, 1978.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 #### Effective Date of 1974 Amendment
 
-Section 10 of Pub. L. 93–569 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on the date of enactment \[Dec. 31, 1974\] except that the amendments made by sections 2(a)(3) \[amending section 1802 \[now 3702\] of this title\] and 2(b) \[amending section 1802 \[now 3702\] of this title\] and section 3(2) \[amending section 1810 \[now 3710\] of this title\] and 3(4) \[amending section 1810 \[now 3710\] of this title\] shall become effective ninety days after such date of enactment \[Dec. 31, 1974\].”
+Pub. L. 93–569, §10, Dec. 31, 1974, 88 Stat. 1867, provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on the date of enactment \[Dec. 31, 1974\] except that the amendments made by sections 2(a)(3) \[amending section 1802 \[now 3702\] of this title\] and 2(b) \[amending section 1802 \[now 3702\] of this title\] and section 3(2) \[amending section 1810 \[now 3710\] of this title\] and 3(4) \[amending section 1810 \[now 3710\] of this title\] shall become effective ninety days after such date of enactment \[Dec. 31, 1974\].”
 
 #### Effective Date of 1967 Amendment
 
@@ -194,13 +194,13 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547
 
-Section 2(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### References in Other Laws
 
-Section 415(c)(7) of Pub. L. 100–322 provided that: “Any reference, in effect on the date of the enactment of this Act \[May 20, 1988\], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section \[sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) \[now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)\], respectively, of this title\] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section.”
+Pub. L. 100–322, title IV, §415(c)(7), May 20, 1988, 102 Stat. 551, provided that: “Any reference, in effect on the date of the enactment of this Act \[May 20, 1988\], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section \[sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) \[now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)\], respectively, of this title\] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section.”
 
 #### Technical Nature of 1986 Amendments
 
-Section 415(f) of Pub. L. 100–322 provided that: “The status of any veteran with respect to benefits under chapter 37 of title 38, United States Code, shall not be affected by the amendments made by, or other provisions of, this section \[see Tables for classification\].”
+Pub. L. 100–322, title IV, §415(f), May 20, 1988, 102 Stat. 552, provided that: “The status of any veteran with respect to benefits under chapter 37 of title 38, United States Code, shall not be affected by the amendments made by, or other provisions of, this section \[see Tables for classification\].”
 

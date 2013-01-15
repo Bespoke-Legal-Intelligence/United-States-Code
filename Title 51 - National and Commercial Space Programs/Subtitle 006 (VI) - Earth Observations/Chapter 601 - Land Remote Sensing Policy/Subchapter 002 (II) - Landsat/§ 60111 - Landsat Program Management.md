@@ -12,7 +12,7 @@ Management Plan.—The Administrator, the Secretary of Defense, and any other Un
 
 &emsp;(2) include a baseline funding profile that—
 
-&emsp;&emsp;(A) is mutually acceptable to the Administration and the Department of Defense forthe period covering the development and operation of Landsat 7; and
+&emsp;&emsp;(A) is mutually acceptable to the Administration and the Department of Defense for the period covering the development and operation of Landsat 7; and
 
 &emsp;&emsp;(B) provides for total funding responsibility of the Administration and the Department of Defense, respectively, to be approximately equal to the funding responsibility of the other as spread across the development and operational life of Landsat 7;
 
@@ -30,7 +30,7 @@ Responsibilities.—The Landsat Program Management shall be responsible for—
 
 &emsp;(3) ensuring that all unenhanced Landsat data remain unclassified and that, except as provided in subsections (a) and (b) of section 60146 of this title, no restrictions are placed on the availability of unenhanced data;
 
-&emsp;(4) ensuring that land remote sensing data of high priority locations will be acquired by the Landsat 7 system as required to meet the needs of the United States Global Change Research Program, as established in the Global Change Research Act of 1990 (15 U.S.C. 2921 et seq.), and to meet the needs of national security users;
+&emsp;(4) ensuring that land remote sensing data of high priority locations will be acquired by theLandsat 7 system as required to meet the needs of the United States Global Change Research Program, as established in the Global Change Research Act of 1990 (15 U.S.C. 2921 et seq.), and to meet the needs of national security users;
 
 &emsp;(5) Landsat data responsibilities pursuant to this chapter;
 
@@ -100,7 +100,7 @@ In subsection (e)(2), in the matter before subparagraph (A), the word “biennia
 
 The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L. 101–606, Nov. 16, 1990, 104 Stat. 3096, which is classified generally to chapter 56A (§2921 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2921 of Title 15 and Tables.
 
-Sections 102 and 103 of the Land Remote Sensing Policy Act of 1992, referred to in subsec. (c)(6), which were classified to sections 5612 and 5613, respectively, ofTitle 15, Commerce and Trade, were repealed by Pub. L. 111–314, §6, Dec. 18, 2010, 124 Stat. 3444, which Act enacted this title.
+Sections 102 and 103 of the Land Remote Sensing Policy Act of 1992, referred to in subsec. (c)(6), which were classified to sections 5612 and 5613, respectively, of Title 15, Commerce and Trade, were repealed by Pub. L. 111–314, §6, Dec. 18, 2010, 124 Stat. 3444, which Act enacted this title.
 
 #### Development, Procurement, and Support
 

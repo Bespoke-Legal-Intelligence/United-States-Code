@@ -32,7 +32,7 @@ There is hereby imposed on any person who acquires directly or indirectly struct
 
 &emsp;&emsp;(A) the State in which the payee of the structured settlement is domiciled, or
 
-&emsp;&emsp;(B) if there is no statute described in subparagraph (A), the State in which either the party to the structured settlement (including an assignee under a qualified assignmentunder section 130) or the person issuing the funding asset for the structured settlement is domiciled or has its principal place of business.
+&emsp;&emsp;(B) if there is no statute described in subparagraph (A), the State in which either the party to the structured settlement (including an assignee under a qualified assignment under section 130) or the person issuing the funding asset for the structured settlement is domiciled or has its principal place of business.
 
 #### (4) Applicable State court
 
@@ -126,11 +126,11 @@ In general.—The amendments made by this section \[enacting this chapter\] (oth
 
 “(2)
 
-Clarification of existing law.—Section 5891(d) of such Code (as so added) shall apply to structured settlement factoring transactions (as defined in section5891(c) of such Code (as so added)) entered into before, on, or after such 30th day.
+Clarification of existing law.—Section 5891(d) of such Code (as so added) shall apply to structured settlement factoring transactions (as defined in section 5891(c) of such Code (as so added)) entered into before, on, or after such 30th day.
 
 “(3)
 
-Transition rule.—In the case of a structured settlement factoring transaction entered into during the period beginning on the 30th day following the date of the enactment of this Act and ending on July 1, 2002, no tax shall be imposed under section 5891(a) of such Code if—
+Transition rule.—In the case of a structured settlement factoring transaction entered into during the period beginning on the 30th day following the date of the enactment of this Act and ending on July 1, 2002,no tax shall be imposed under section 5891(a) of such Code if—
 
 &emsp;“(A) the structured settlement payee is domiciled in a State (or possession of the United States) which has not enacted a statute providing that the structured settlement factoring transaction is ineffective unless the transaction has been approved by an order, judgment, or decree of a court (or where applicable, a responsible administrative authority) which finds that such transaction—
 

@@ -12,7 +12,7 @@ Not later than 180 days after January 7, 1983, the Secretary, following consulta
 
 (C) Such recommendations under subparagraph (B) shall be consistent with the provisions of section 10225 of this title.
 
-(D) Each nomination of a site under this subsection shall be accompanied by an environmental assessment, which shall include a detailed statement of the basis for such recommendation and of the probable impacts of the site characterization activities planned for such site, and a discussion of alternative activitiesrelating to site characterization that may be undertaken to avoid such impacts. Such environmental assessment shall include—
+(D) Each nomination of a site under this subsection shall be accompanied by an environmental assessment, which shall include a detailed statement of the basis for such recommendation and of the probable impacts of the site characterization activities planned for such site, and a discussion of alternative activities relating to site characterization that may be undertaken to avoid such impacts. Such environmental assessment shall include—
 
 &emsp;(i) an evaluation by the Secretary as to whether such site is suitable for site characterization under the guidelines established under subsection (a) of this section;
 
@@ -50,7 +50,7 @@ Except as otherwise provided in this section, each activity of the President or 
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b)(1)(C) to (H). Pub. L. 100–202 and Pub. L. 100–203, §5011(b), amended par. (1) identically, redesignating subpars. (D) to (H) as (C) to (G), respectively, in subpar. (C) substituting “subparagraph (B)” for “subparagraphs (B) and (C)”, and striking out former subpar. (C) which read as follows: “Not later than July1, 1989, the Secretary shall nominate 5 sites, which shall include at least 3 additional sites not nominated under subparagraph (A), and recommend by such date to the President from such 5 nominated sites 3 candidate sites the Secretary determines suitable for site characterization for selection of the second repository. The Secretary may not nominate any site previously nominated under subparagraph (A), that was not recommended as a candidate site under subparagraph (B).”
+<b>1987</b>—Subsec. (b)(1)(C) to (H). Pub. L. 100–202 and Pub. L. 100–203, §5011(b), amended par. (1) identically, redesignating subpars. (D) to (H) as (C) to (G), respectively, in subpar. (C) substituting “subparagraph (B)” for “subparagraphs (B) and (C)”, and striking out former subpar. (C) which read as follows: “Not later than July 1, 1989, the Secretary shall nominate 5 sites, which shall include at least 3 additional sites not nominated under subparagraph (A), and recommend by such date to the President from such 5 nominated sites 3 candidate sites the Secretary determines suitable for site characterization for selection of the second repository. The Secretary may not nominate any site previously nominated under subparagraph (A), that was not recommended as a candidate site under subparagraph (B).”
 
 Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(c), amended section identically, redesignating subsec. (e) as (d) and striking out former subsec (d) which read as follows: “After the required recommendation of candidate sites under subsection (b) of this section, the Secretary may continue, as he determines necessary, to identify and study other sites to determine their suitability for recommendation for site characterization, in accordance with the procedures described in this section.”
 

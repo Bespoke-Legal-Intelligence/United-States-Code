@@ -30,7 +30,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Applicability of Appointment Requirements
 
-Section 813(b) of Pub. L. 104–293 provided that: “The requirement established by section 20 of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403t\], as added by subsection (a), for the appointment by the President, by and with the advice and consent of the Senate, of an individual to the position of General Counsel of the Central Intelligence Agency shall apply as follows:
+Pub. L. 104–293, title VIII, §813(b), Oct. 11, 1996, 110 Stat. 3483, provided that: “The requirement established by section 20 of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403t\], as added by subsection (a), for the appointment by the President, by and with the advice and consent of the Senate, of an individual to the position of General Counsel of the Central Intelligence Agency shall apply as follows:
 
 &emsp;“(1) To any vacancy in such position that occurs after the date of the enactment of this Act \[Oct. 11, 1996\].
 

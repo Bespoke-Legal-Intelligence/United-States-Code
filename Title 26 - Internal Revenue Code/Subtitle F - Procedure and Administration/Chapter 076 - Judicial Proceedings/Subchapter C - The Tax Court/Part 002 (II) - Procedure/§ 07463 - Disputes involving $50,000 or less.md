@@ -20,7 +20,7 @@ A decision entered in any case in which the proceedings are conducted under this
 
 #### (c) Limitation of jurisdiction
 
-In any case in which the proceedings are conducted under this section, notwithstanding theprovisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
+In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
 
 #### (d) Discontinuance of proceedings
 
@@ -80,11 +80,11 @@ Amendment by Pub. L. 105–206 applicable to proceedings commenced after July 22
 
 #### Effective Date of 1984 Amendment
 
-Section 461(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title IV, §461(b), July 18, 1984, 98 Stat. 823, provided that: “The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 106(a)(2) of Pub. L. 97–362 provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to petitions filed after the date of the enactment of this Act \[Oct. 25, 1982\].”
+Pub. L. 97–362, title I, §106(a)(2), Oct. 25, 1982, 96 Stat. 1730, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to petitions filed after the date of the enactment of this Act \[Oct. 25, 1982\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 96–222 effective Apr. 1, 1980, see section 105(b)(1) of P
 
 #### Effective Date of 1978 Amendment
 
-Section 502(d) of Pub. L. 95–600 provided that:
+Pub. L. 95–600, title V, §502(d), Nov. 6, 1978, 92 Stat. 2879, provided that:
 
 “(1)
 
@@ -106,7 +106,7 @@ and (c).—The amendments made by subsection (b) \[amending this section\] and (
 
 #### Effective Date of 1972 Amendment
 
-Section 204 of title II of Pub. L. 92–512, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -128,7 +128,7 @@ or Less.—The amendments made by paragraphs (2) and (3) of section 203(b) of th
 
 #### Effective Date
 
-Section 962(e) of Pub. L. 91–172 provided that: “The amendments made by sections 957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §962(e), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 957 \[enacting this section\] and 960(a), (b), (f), and (i) \[amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title\] shall take effect one year after the date of enactment of this Act \[Dec. 30, 1969\].”
 
 #### Savings Provision
 

@@ -40,7 +40,7 @@ The term “satisfactory evidence” means—
 
 #### (d) Related persons
 
-For purposes of subsections (b) and (c) of this section, a person shall be treated as a relatedperson to an importer, or to a person for whose account material is imported, if such person—
+For purposes of subsections (b) and (c) of this section, a person shall be treated as a related person to an importer, or to a person for whose account material is imported, if such person—
 
 &emsp;(1) is a member of the same family as the importer or person of account, including, but not limited to, membership as a brother or sister (whether by whole or half blood), spouse, ancestor, or lineal descendant;
 

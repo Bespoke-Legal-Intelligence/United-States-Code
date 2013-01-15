@@ -16,7 +16,7 @@ The Secretary of State shall ensure that the FRUS series shall be published not 
 
 #### Compliance With Deadline for Publication of FRUS Series; Notification to Congressional Committees on Failure To Comply; Final Deadline
 
-Section 198(c)(2) of Pub. L. 102–138 provided that:
+Pub. L. 102–138, title I, §198(c)(2), Oct. 28, 1991, 105 Stat. 691, provided that:
 
 “(A) In order to come into compliance with section 401(c) of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4351(c)\] (as amended by this section) the Secretary of State shall ensure that, by the end of the 3-year period beginning on the date of the enactment of this Act \[Oct. 28, 1991\], all volumes of the Foreign Relations of the United States historical series (FRUS) for the years that are more than 30 years before the end of that 3-year period have been published.
 

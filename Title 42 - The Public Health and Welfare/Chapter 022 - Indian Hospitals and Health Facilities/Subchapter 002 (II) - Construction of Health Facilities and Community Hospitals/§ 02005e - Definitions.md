@@ -12,7 +12,7 @@ As used in this subchapter:
 
 (c) “Nonprofit” means owned or operated by one or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
-(d) “Construction” means construction of new buildings, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings (including medical transportation facilities), including architects and engineering fees, but excluding legal fees, the cost of off-site improvements and the cost of the acquisition of land.
+(d) “Construction” means construction of new buildings, expansion, remodeling, and alteration of existing buildings, and initial equipment ofany such buildings (including medical transportation facilities), including architects and engineering fees, but excluding legal fees, the cost of off-site improvements and the cost of the acquisition of land.
 
 (Pub. L. 85–151, §6, Aug. 16, 1957, 71 Stat. 371.)
 

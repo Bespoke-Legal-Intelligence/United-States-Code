@@ -154,7 +154,7 @@ Amendment by Pub. L. 102–90 effective Oct. 1, 1991, see section 7(c) of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Section 109 of Pub. L. 96–304 provided that the amendment made by that section is effective Jan. 1, 1980.
+Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890, provided that the amendment made by section 109 is effective Jan. 1, 1980.
 
 #### Effective Date of 1977 Amendment
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 95–94 effective Aug. 5, 1977, see section 112(f) of Pub. 
 
 #### Effective Date of 1975 Amendment
 
-Section 106(b) of Pub. L. 94–59 provided that: “The amendment made by subsection (a) of this section \[amending this section\] is effective on and after July 1, 1975.”
+Pub. L. 94–59, title I, §106(b), July 25, 1975, 89 Stat. 276, provided that: “The amendment made by subsection (a) of this section \[amending this section\] is effective on and after July 1, 1975.”
 

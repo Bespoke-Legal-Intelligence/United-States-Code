@@ -1,6 +1,6 @@
 ### §80a–52. Effective date
 
-The effective date of the provisions of this subchapter, so far as the same relate to face-amount certificates or to face-amount certificate companies, is January 1, 1941. The effective date of provisions hereof, insofar as the same do not apply to face-amount certificates or face-amount certificate companies is November 1, 1940. Except as herein otherwise provided, every provision of this subchapter shall take effect on November 1, 1940.
+The effective date of the provisions of this subchapter, so far as the same relate to face-amount certificates or to face-amount certificate companies, is January 1, 1941. The effective date of provisions hereof, insofar as the same do not apply to face-amount certificates or face-amount certificate companies is November 1, 1940. Except as herein otherwise provided, everyprovision of this subchapter shall take effect on November 1, 1940.
 
 (Aug. 22, 1940, ch. 686, title I, §53, 54 Stat. 847; Pub. L. 100–181, title VI, §624, Dec. 4, 1987, 101 Stat. 1262.)
 

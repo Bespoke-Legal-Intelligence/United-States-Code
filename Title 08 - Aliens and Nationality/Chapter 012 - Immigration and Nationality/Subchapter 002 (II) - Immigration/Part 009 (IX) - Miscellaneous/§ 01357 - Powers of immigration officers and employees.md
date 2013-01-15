@@ -8,7 +8,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;(2) to arrest any alien who in his presence or view is entering or attempting to enter the United States in violation of any law or regulation made in pursuance of law regulating the admission, exclusion, expulsion, or removal of aliens, or to arrest any alien in the United States, if he has reason to believe that the alien so arrested is in the United States in violation of any such law or regulation and is likely to escape before a warrant can be obtained for his arrest, but the alien arrested shall be taken without unnecessary delay for examination before an officer of the Service having authority to examine aliens as to their right to enter or remain in the United States;
 
-&emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, forthe purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
+&emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, for the purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
 
 &emsp;(4) to make arrests for felonies which have been committed and which are cognizable under any law of the United States regulating the admission, exclusion, expulsion, or removal of aliens, if he has reason to believe that the person so arrested is guilty of such felony and if there is likelihood of the person escaping before a warrant can be obtained for his arrest, but the person arrested shall be taken without unnecessary delay before the nearest available officer empowered to commit persons charged with offenses against the laws of the United States; and
 
@@ -40,7 +40,7 @@ In the case of an alien who is arrested by a Federal, State, or local law enforc
 
 &emsp;(3) requests the Service to determine promptly whether or not to issue a detainer to detain the alien,
 
-> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.
+> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney Generalshall effectively and expeditiously take custody of the alien.
 
 #### (e) Restriction on warrantless entry in case of outdoor agricultural operations
 
@@ -86,7 +86,7 @@ An alien described in section 1101(a)(27)(J) of this title who has been battered
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Pub. L. 104–208, §133, added subsec. (g).
 
 <b>1991</b>—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall alsohave the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 

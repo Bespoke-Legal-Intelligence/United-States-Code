@@ -30,5 +30,5 @@ Amendment by Pub. L. 109–364 applicable with respect to selection boards conve
 
 #### Delegation of Functions
 
-For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
+For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, and section 1(a) of Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R. 5371, set out as notes under section 301 of Title 3, The President.
 

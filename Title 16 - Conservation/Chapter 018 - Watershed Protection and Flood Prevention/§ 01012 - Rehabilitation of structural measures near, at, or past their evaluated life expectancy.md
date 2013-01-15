@@ -6,7 +6,7 @@ For purposes of this section:
 
 #### (1) Rehabilitation
 
-&emsp;The term “rehabilitation”, with respect to a structural measure constructed as part of a covered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting the deterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
+&emsp;The term “rehabilitation”, with respect to a structural measure constructed as part of acovered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting the deterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
 
 #### (2) Covered water resource project
 
@@ -56,11 +56,11 @@ The Secretary, acting through the Natural Resources Conservation Service, may pr
 
 #### (2) Renegotiation
 
-&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretarymay renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
+&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
 
 #### (e) Application for rehabilitation assistance
 
-A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculture may assist in preparing applications for assistance.
+A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculturemay assist in preparing applications for assistance.
 
 #### (f) Ranking of requests for rehabilitation assistance
 
@@ -140,7 +140,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Textread as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
 &emsp;“(1) $5,000,000 for fiscal year 2001;
 

@@ -14,7 +14,7 @@
 
 #### (2) Submission of detailed implementation plan to Congress
 
-&emsp;Not later than 180 days after August 14, 2008, the Commission shall transmit to the appropriate Congressional committees a detailed plan for establishing and maintaining the database required by paragraph (1), including plans for the operation, content, maintenance, and functionality of the database. The plan shall detail the integration of the database into the Commission's overall information technology improvement objectives and plans. The plan submitted under this subsection shall include a detailed implementation schedule for the database, and plans for a public awareness campaign to be conducted by the Commission to increase consumer awareness of the database.
+&emsp;Not later than 180 days after August 14, 2008, the Commission shall transmit to the appropriate Congressional committees a detailed plan for establishing and maintaining the database required by paragraph (1), including plans for the operation, content, maintenance, and functionality of the database. The planshall detail the integration of the database into the Commission's overall information technology improvement objectives and plans. The plan submitted under this subsection shall include a detailed implementation schedule for the database, and plans for a public awareness campaign to be conducted by the Commission to increase consumer awareness of the database.
 
 #### (3) Date of initial availability
 

@@ -48,7 +48,7 @@ In subsection (c), the last 16 words are substituted for 10:1415c (last 16 words
 
 #### Issuance of Certain Other Medals and Devices
 
-Section 33 of act Aug. 10, 1956, provided that:
+Act Aug. 10, 1956, ch. 1041, §33, 70A Stat. 633, provided that:
 
 “(a) The Secretary of the Army shall procure, and issue without charge to any person entitled thereto, the following service medals, and any ribbon, clasp, star, or similar device prescribed as a part of that medal:
 

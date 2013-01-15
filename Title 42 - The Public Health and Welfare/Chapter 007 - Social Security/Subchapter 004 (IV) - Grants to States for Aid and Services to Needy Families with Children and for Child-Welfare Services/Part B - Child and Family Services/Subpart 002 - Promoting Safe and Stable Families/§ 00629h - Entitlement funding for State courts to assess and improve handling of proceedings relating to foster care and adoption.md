@@ -40,13 +40,13 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (1) In general
 
-&emsp;In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
+&emsp;In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and shall submit to the Secretary an application at such time, in suchform, and including such information and assurances as the Secretary may require, including—
 
 &emsp;&emsp;(A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
 &emsp;&emsp;(B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
 
-&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contractwith the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
+&emsp;&emsp;(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
 
 #### (2) Single grant application
 
@@ -108,7 +108,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 > For fiscal year 2011, out of the amount reserved pursuant to section 629f(b)(2) of this title for such fiscal year, there are available $10,000,000 for grants referred to in subsection (b)(2)(B), and $10,000,000 for grants referred to in subsection (b)(2)(C).
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III,§305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374.)
 
 #### References in Text
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

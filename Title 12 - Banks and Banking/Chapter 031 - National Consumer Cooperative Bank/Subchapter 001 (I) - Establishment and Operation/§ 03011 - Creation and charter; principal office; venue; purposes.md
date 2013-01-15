@@ -24,7 +24,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date of 1981 Amendment
 
-Section 396(i) of Pub. L. 97–35 provided that: “The amendments made by subsections (b) through (h) \[amending this section, sections 3014, 3017, 3018, 3024, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §396(i), Aug. 13, 1981, 95 Stat. 441, provided that: “The amendments made by subsections (b) through (h) \[amending this section, sections 3014, 3017, 3018, 3024, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 #### Final Government Equity Redemption Date Established
 

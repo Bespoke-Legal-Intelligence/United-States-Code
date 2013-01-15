@@ -1,6 +1,6 @@
 ### §1514. Administrative division of apportionments
 
-(a) The official having administrative control of an appropriation available to the legislative branch, the judicial branch, the United States International Trade Commission, or the District of Columbia government, and, subject to the approval of the President, the head of each executive agency (except the Commission) shall prescribe by regulation a system of administrative control not inconsistent with accounting procedures prescribed under law. The system shall be designed to—
+(a) The official having administrative control of an appropriation available to the legislative branch, the judicial branch, the United States International Trade Commission, or the Districtof Columbia government, and, subject to the approval of the President, the head of each executive agency (except the Commission) shall prescribe by regulation a system of administrative control not inconsistent with accounting procedures prescribed under law. The system shall be designed to—
 
 &emsp;(1) restrict obligations or expenditures from each appropriation to the amount of apportionments or reapportionments of the appropriation; and
 

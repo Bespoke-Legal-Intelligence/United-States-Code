@@ -6,7 +6,7 @@ At the time of filing the declaration required in section 321 of this title the 
 
 #### Existing Claims; Repeals
 
-Section 6 of act Mar. 3, 1877, as added by act Mar. 3, 1891, §2, provided that existing claims should not be affected by act Mar. 3, 1891, but might be perfected under sections 321 to 323 of this title, or under sections 325 and 327 to 329 of this title, at the option of the claimant, and also repealed all acts and parts of acts in conflict with act Mar. 3, 1891.
+Act Mar. 3, 1877, ch. 107, §6, as added by act Mar. 3, 1891, ch. 561, §2, 26 Stat. 1097, provided that existing claims should not be affected by act Mar. 3, 1891, but might be perfected under sections 321 to 323 of this title, or under sections 325 and 327 to 329 of this title, at the option of the claimant, and also repealed all acts and parts of acts in conflict with act Mar. 3, 1891.
 
 #### Section as Unaffected by Submerged Lands Act
 

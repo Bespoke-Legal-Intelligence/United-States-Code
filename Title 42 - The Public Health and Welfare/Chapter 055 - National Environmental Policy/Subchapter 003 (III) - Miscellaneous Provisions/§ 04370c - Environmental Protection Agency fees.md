@@ -20,7 +20,7 @@ Fees and charges assessed pursuant to this section shall be in such amounts as m
 
 &emsp;(B) for services and activities in programs within the jurisdiction of the House Committee on Energy and Commerce and administered by the Environmental Protection Agency through the Administrator, shall be limited to such sums collected as of November 5, 1990, pursuant to sections 2625(b) and 2665(e)(2) <sup>2</sup> of title 15, and such sums specifically authorized by the Clean Air Act Amendments of 1990.
 
-(2) Any remaining amounts required to be collected under this section shall be collected from services and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
+(2) Any remaining amounts required to be collected under this section shall be collected fromservices and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
 
 #### (d) Rule of construction
 
@@ -36,7 +36,7 @@ Fees and charges collected pursuant to this section shall be deposited into a sp
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-Section 2665(e)(2) of title 15, referred to in subsec. (c)(1)(B), was redesignated section 2665(d)(2) of Title 15, Commerce and Trade, by Pub. L. 104–66, title II, §2021(<i>l</i>)(2), Dec. 21, 1995, 109 Stat. 728.
+Section 2665(e)(2) of title 15, referred to in subsec. (c)(1)(B), was redesignated section 2665(d)(2) of Title 15, Commerce and Trade, by Pub. L. 104–66, title II, §2021(l)(2), Dec. 21, 1995, 109 Stat. 728.
 
 The Clean Air Act Amendments of 1990, referred to in subsec. (c)(1)(B), means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
 

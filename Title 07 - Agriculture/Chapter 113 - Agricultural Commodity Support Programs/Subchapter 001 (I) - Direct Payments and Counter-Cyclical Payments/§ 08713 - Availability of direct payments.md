@@ -2,7 +2,7 @@
 
 #### (a) Payment required
 
-For each of the 2008 through 2012 crop years of each covered commodity (other than pulse crops), the Secretary shall make direct payments to producers on farms for which base acres and payment yields are established.
+For each of the 2008 through 2012 crop years of each covered commodity (other than pulsecrops), the Secretary shall make direct payments to producers on farms for which base acres and payment yields are established.
 
 #### (b) Payment rate
 

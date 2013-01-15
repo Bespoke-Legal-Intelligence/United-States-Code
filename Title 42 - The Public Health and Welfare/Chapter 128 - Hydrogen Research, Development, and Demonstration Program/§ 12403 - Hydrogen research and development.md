@@ -40,7 +40,7 @@ The Secretary shall not carry out any activities under this section that unneces
 
 #### (i) Federal funding consistent with the Agreement on Subsidies and Countervailing Measures
 
-The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistentwith the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19.
+The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19.
 
 (Pub. L. 101–566, §104, Nov. 15, 1990, 104 Stat. 2798; Pub. L. 104–271, title I, §103(a), Oct. 9, 1996, 110 Stat. 3305.)
 
@@ -50,7 +50,7 @@ The Secretary shall establish, after consultation with other Federal agencies, t
 
 #### Fuel Cells
 
-Title II of Pub. L. 104–271 provided that:
+Pub. L. 104–271, title II, Oct. 9, 1996, 110 Stat. 3307, provided that:
 
 #### “SEC. 201. INTEGRATION OF FUEL CELLS WITH HYDROGEN PRODUCTION SYSTEMS.
 

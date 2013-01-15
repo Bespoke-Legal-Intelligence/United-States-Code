@@ -84,7 +84,7 @@ There shall be transferred from time to time, between the agencies concerned and
 
 The provisions of this reorganization plan shall take effect on the 1st day of July 1950.
 
-\[The Post Office Department has been redesignated the United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 783, set out as a note preceding section 101 of Title 39, Postal Service.\]
+\[The Post Office Department has been redesignated the United States Postal Service pursuant to Pub. L. 91–375, §6(o), Aug. 12, 1970, 84 Stat. 783, set out as a note preceding section 101 of Title 39, Postal Service.\]
 
 #### Message of the President
 

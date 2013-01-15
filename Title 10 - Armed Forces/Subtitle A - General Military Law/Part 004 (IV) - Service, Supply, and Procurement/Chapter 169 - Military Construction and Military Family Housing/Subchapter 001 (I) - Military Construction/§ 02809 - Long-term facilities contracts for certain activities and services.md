@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 99–661, §1343(a)(20)(E), struck out “the authority of 
 
 #### Effective Date of 1991 Amendment
 
-Section 2805(b) of Pub. L. 102–190 provided that: “Section 2809 of title 10, United States Code, as amended by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div B, title XXVIII, §2805(b), Dec. 5, 1991, 105 Stat. 1538, provided that: “Section 2809 of title 10, United States Code, as amended by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -134,5 +134,5 @@ Funding.—Amounts authorized to be appropriated for the military departments or
 
 #### Report
 
-Section 2302(c) of Pub. L. 100–180 directed each Secretary who has entered into a contract under this section to submit a report to Committees on Armed Services of Senate and House of Representatives by Feb. 15, 1989, containing date and duration of, other party to, and nature of activities carried out under each such contract, and recommendations, and reasons therefor, concerning whether authority to enter into contracts under this section should be extended.
+Pub. L. 100–180, div. B, subdiv. 3, title I, §2302(c), Dec. 4, 1987, 101 Stat. 1215, directed each Secretary who has entered into a contract under this section to submit a report to Committees on Armed Services of Senate and House of Representatives by Feb. 15, 1989, containing date and duration of, other party to, and nature of activities carried out under each such contract, and recommendations, and reasons therefor, concerning whether authority to enter into contracts under this section should be extended.
 

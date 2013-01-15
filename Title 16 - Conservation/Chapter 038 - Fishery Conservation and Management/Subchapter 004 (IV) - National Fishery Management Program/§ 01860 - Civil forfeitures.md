@@ -64,7 +64,7 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original 
 
 > shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter.”
 
-Subsec. (d)(1). Pub. L. 99–659, §109(a)(2), inserted provision that nothing in this paragraph may be construedto require the Secretary, except in the Secretary's discretion or pursuant to the order of a court under section 1861(d) of this title, to release on bond any seized fish or other property or the proceeds from the sale thereof.
+Subsec. (d)(1). Pub. L. 99–659, §109(a)(2), inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary's discretion or pursuant to the order of a court under section 1861(d) of this title, to release on bond any seized fish or other property or the proceeds from the sale thereof.
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted “(or the fair market value thereof)” after “fish” wherever appearing.
 

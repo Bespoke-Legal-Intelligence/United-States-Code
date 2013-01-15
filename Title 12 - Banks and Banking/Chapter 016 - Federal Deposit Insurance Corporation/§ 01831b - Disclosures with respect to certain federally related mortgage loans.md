@@ -6,7 +6,7 @@ No insured depository institution, insured branch of a foreign bank, or mutual s
 
 #### (b) Enforcement; bank status
 
-In addition to other available remedies, this section may be enforced with respect to mutual savings and cooperative banks which are not insured depository institutions in accordance with section 1818 of this title, and for such purpose such mutual savings and cooperative banks shall be held and considered to be State nonmember insured banks and the appropriate Federal agency with respect to such mutual savingsand cooperative banks shall be the Federal Deposit Insurance Corporation.
+In addition to other available remedies, this section may be enforced with respect to mutual savings and cooperative banks which are not insured depository institutions in accordance with section 1818 of this title, and for such purpose such mutual savings and cooperative banks shall be held and considered to be State nonmember insured banks and the appropriate Federal agency with respect to such mutual savings and cooperative banks shall be the Federal Deposit Insurance Corporation.
 
 (Sept. 21, 1950, ch. 967, §2\[25\], as added Pub. L. 93–533, §11(a), Dec. 22, 1974, 88 Stat. 1729; amended Pub. L. 95–369, §6(c)(30), Sept. 17, 1978, 92 Stat. 620; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 103–325, title VI, §602(a)(55), Sept. 23, 1994, 108 Stat. 2290.)
 
@@ -24,5 +24,5 @@ Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–5
 
 #### Exemptions; Regulations
 
-Section 11(c) of Pub. L. 93–533 provided that: “The Federal Deposit Insurance Corporation or the Federal Home Loan Bank Board as appropriate may by regulation exempt classes or types of transactions from the provisions added by this section \[enacting this section and section 1730f of this title\] if the Corporation or the Board determines that the purposes of such provisions would not be advanced materially by their application to such transactions.”
+Pub. L. 93–533, §11(c), Dec. 22, 1974, 88 Stat. 1729, provided that: “The Federal Deposit Insurance Corporation or the Federal Home Loan Bank Board as appropriate may by regulation exempt classes or types of transactions from the provisions added by this section \[enacting this section and section 1730f of this title\] if the Corporation or the Board determines that the purposes of such provisions would not be advanced materially by their application to such transactions.”
 

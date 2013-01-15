@@ -4,7 +4,7 @@
 
 #### (f) Avoidance of duplicative authorizations
 
-This section shall not apply if the National Defense Authorization Act for Fiscal Year 1993 enacts the same authorities and requirements as are contained in this section and authorizes the appropriation of the same (or a greater) amount to carry out such authorities.
+This section shall not apply if the National Defense Authorization Act for Fiscal Year 1993enacts the same authorities and requirements as are contained in this section and authorizes the appropriation of the same (or a greater) amount to carry out such authorities.
 
 (Pub. L. 102–511, title V, §509, Oct. 24, 1992, 106 Stat. 3343.)
 

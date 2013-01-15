@@ -10,7 +10,7 @@ The continued existence or expiration of a session of a court in no way affects 
 
 Based on title 28, U.S.C., 1940 ed., §§13 and 302 (Mar. 3, 1911, ch. 231, §§9, 189, 36 Stat. 1088, 1143; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475).
 
-Sections 13 and 302 of title 28, U.S.C., 1940 ed., related only to district courts and the Court of Customs and Patent Appeals, and this section has been written to cover all other courts of the United States.
+Sections 13 and 302 of title 28, U.S.C., 1940 ed., related only to district courts and the Court of Customs andPatent Appeals, and this section has been written to cover all other courts of the United States.
 
 Other provisions of said section 302 of title 28, U.S.C., 1940 ed., are incorporated in sections 214, 456, and 604 of this title.
 

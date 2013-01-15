@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 3 years after the Commission conducts its first meeting, it shall prepare and submit a heritage area management plan to the Governor of the State of Louisiana. The Governor shall, if the Governor approves the plan, submit it to the Secretary for review and approval. The Secretary shall provide technical assistance to the Commission in the preparation and implementation of the plan, in concert with actions by the National Park Service to prepare a general management plan for the historical park. The plan shall consider local government plans and shall present a unified heritage preservation and education plan for the heritage area. The plan shall include, but not be limited to—
+Within 3 years after the Commission conducts its first meeting, it shall prepare and submit a heritage area management plan to the Governor of the State of Louisiana. The Governor shall, if the Governor approves the plan, submit it to the Secretary for review and approval. The Secretary shall provide technical assistance to the Commission in the preparation and implementation of the plan, in concert with actions by theNational Park Service to prepare a general management plan for the historical park. The plan shall consider local government plans and shall present a unified heritage preservation and education plan for the heritage area. The plan shall include, but not be limited to—
 
 &emsp;(1) an inventory of important properties and cultural landscapes that should be preserved, managed, developed, and maintained because of their cultural, natural, and public use significance;
 

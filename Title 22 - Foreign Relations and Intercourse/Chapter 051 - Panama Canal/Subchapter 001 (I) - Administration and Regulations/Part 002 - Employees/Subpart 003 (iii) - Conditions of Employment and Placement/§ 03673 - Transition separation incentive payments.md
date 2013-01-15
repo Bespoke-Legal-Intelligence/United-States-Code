@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the number and amounts of separation incentive payments to be offered; and
 
-&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successful transfer of the Panama Canal to the Republic of Panama;
+&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successfultransfer of the Panama Canal to the Republic of Panama;
 
 &emsp;(3) a separation incentive payment under section 663 may be paid to a Commission employee only to the extent necessary to facilitate the successful transfer of the Panama Canal by the United States of America to the Republic of Panama as required by the Panama Canal Treaty of 1977;
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) may be made (notwithstanding the limitation specified in subsection (c)(2)(D) of section 663) in the case of an eligible employee who voluntarily separates (whether by retirement or resignation) during the 90-day period beginning on November 18, 1997, or during the period beginning on October 1, 1998, and ending on December 31, 1998;
 
-&emsp;(5) in the case of not more than 15 employees who (as determined by the Commission) areunwilling to work for the Panama Canal Authority after the Canal Transfer Date and who occupy critical positions for which (as determined by the Commission) at least two years of experience is necessary to ensure that seasoned managers are in place on and after the Canal Transfer Date, such a payment (notwithstanding paragraph (4))—
+&emsp;(5) in the case of not more than 15 employees who (as determined by the Commission) are unwilling to work for the Panama Canal Authority after the Canal Transfer Date and who occupy critical positions for which (as determined by the Commission) at least two years of experience is necessary to ensure that seasoned managers are in place on and after the Canal Transfer Date, such a payment (notwithstanding paragraph (4))—
 
 &emsp;&emsp;(A) may be in an amount determined by the Commission not to exceed 50 percent of the basic pay of the employee; and
 

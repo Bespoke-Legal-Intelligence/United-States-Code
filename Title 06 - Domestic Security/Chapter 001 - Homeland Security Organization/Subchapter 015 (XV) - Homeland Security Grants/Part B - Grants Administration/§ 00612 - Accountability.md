@@ -120,7 +120,7 @@
 
 #### (4) Performance assessment
 
-&emsp;In order to ensure that States and high-risk urban areas are using grants administered by the Department appropriately to meet target capabilities and preparedness priorities, the Administrator shall—
+&emsp;In order to ensure that States and high-risk urban areas are using grants administered bythe Department appropriately to meet target capabilities and preparedness priorities, the Administrator shall—
 
 &emsp;&emsp;(A) ensure that any such State or high-risk urban area conducts or participates in exercises under section 748(b) of this title;
 
@@ -160,7 +160,7 @@
 
 #### (B) Duration of penalty
 
-&emsp;&emsp;The Administrator shall apply an appropriate penalty under subparagraph (A) until such time as the Administrator determinesthat the grant recipient is in full compliance with the law and with applicable guidelines or regulations of the Department.
+&emsp;&emsp;The Administrator shall apply an appropriate penalty under subparagraph (A) until such time as the Administrator determines that the grant recipient is in full compliance with the law and with applicable guidelines or regulations of the Department.
 
 #### (b) Reports by grant recipients
 
@@ -206,7 +206,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the Administrator shall provide to the appropriate committees of Congress a detailed and comprehensive explanation of the methodologies used to calculate risk and compute the allocation of funds for grants administered by the Department, including—
+&emsp;&emsp;For each fiscal year, the Administrator shall provide to the appropriate committeesof Congress a detailed and comprehensive explanation of the methodologies used to calculate risk and compute the allocation of funds for grants administered by the Department, including—
 
 &emsp;&emsp;&emsp;(i) all variables included in the risk assessment and the weights assigned to each such variable;
 

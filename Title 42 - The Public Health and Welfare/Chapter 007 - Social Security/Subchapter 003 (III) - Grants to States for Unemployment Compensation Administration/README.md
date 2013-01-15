@@ -9,3 +9,4 @@
 - [&sect; 00502 - Payments to States; computation of amounts](%C2%A7%2000502%20-%20Payments%20to%20States%3B%20computation%20of%20amounts.md)
 - [&sect; 00503 - State laws](%C2%A7%2000503%20-%20State%20laws.md)
 - [&sect; 00504 - Judicial review](%C2%A7%2000504%20-%20Judicial%20review.md)
+- [&sect; 00505 - Demonstration projects](%C2%A7%2000505%20-%20Demonstration%20projects.md)

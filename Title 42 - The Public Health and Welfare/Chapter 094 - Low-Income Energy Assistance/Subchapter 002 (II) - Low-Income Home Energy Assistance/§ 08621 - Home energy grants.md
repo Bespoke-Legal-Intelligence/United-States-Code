@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out the provisions of this subc
 
 #### (c) Availability of appropriations
 
-Amounts appropriated under this section for any fiscal year for programs and activitiesunder this subchapter shall be made available for obligation in the succeeding fiscal year.
+Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
 
 #### (d) Authorization of appropriations for leveraged resources
 
@@ -32,7 +32,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted “and $5,100,000,000 for each of fiscal years 2005 through 2007” for “and $2,000,000,000 for each of fiscal years 2002 through 2004”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted “and $5,100,000,000 for each of fiscal years 2005 through 2007”for “and $2,000,000,000 for each of fiscal years 2002 through 2004”.
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–285, §302(a), inserted “, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004” after “1995 through 1999”.
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 103–43, §2011(2), substituted “for each of the fiscal 
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before“$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
+Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
 
 Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 
@@ -78,11 +78,11 @@ Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
 #### Effective Date of 1994 Amendment
 
-Section 314 of title III of Pub. L. 103–252 provided that: “The amendments and repeals made by this title \[see Short Title of 1994 Amendment note below\] shall become effective on October 1, 1994.”
+Pub. L. 103–252, title III, §314, May 18, 1994, 108 Stat. 666, provided that: “The amendments and repeals made by this title \[see Short Title of 1994 Amendment note below\] shall become effective on October 1, 1994.”
 
 #### Effective Date of 1990 Amendment
 
-Section 1001 of Pub. L. 101–501 provided that:
+Pub. L. 101–501, title X, §1001, Nov. 3, 1990, 104 Stat. 1283, provided that:
 
 “(a)
 
@@ -96,7 +96,7 @@ Special Effective Dates.—(1) The amendment made by section 207(b) \[repealing 
 
 #### Effective Date of 1986 Amendment
 
-Section 1001 of Pub. L. 99–425 provided that:
+Pub. L. 99–425, title X, §1001, Sept. 30, 1986, 100 Stat. 978, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Application of Certain Other Amendments Relating to Energy Assistance.—The ame
 
 #### Effective Date of 1984 Amendment
 
-Section 609 of Pub. L. 98–558 provided that:
+Pub. L. 98–558, title VI, §609, Oct. 30, 1984, 98 Stat. 2893, provided that:
 
 “(a) Except as provided in subsections (b), (c), and (d), the amendments made by this title \[amending this section and sections 8622 to 8624, 8626, 8627, and 8629 of this title\] shall take effect on the date of enactment of this Act \[Oct. 30, 1984\].
 
@@ -128,9 +128,9 @@ Pub. L. 105–285, title III, §301, Oct. 27, 1998, 112 Stat. 2756, provided tha
 
 #### Short Title of 1994 Amendment
 
-Section 301(a) of title III of Pub. L. 103–252 provided that: “This title \[enacting section 8626b of this title, amending this section and sections 8622 to 8624, 8626, 8626a, 8628a, and 8629 of this title, and enacting provisions set out above\] may be cited as the ‘Low-Income Home Energy Assistance Amendments of 1994’.”
+Pub. L. 103–252, title III, §301(a), May 18, 1994, 108 Stat. 657, provided that: “This title \[enacting section 8626b of this title, amending this section and sections 8622 to 8624, 8626, 8626a, 8628a, and 8629 of this title, and enacting provisions set out above\] may be cited as the ‘Low-Income Home Energy Assistance Amendments of 1994’.”
 
 #### Short Title
 
-Section 2601 of title XXVI of Pub. L. 97–35 provided that: “This title \[enacting this subchapter and repealing subchapter I of this chapter\] may be cited as the ‘Low-Income Home Energy Assistance Act of 1981’.”
+Pub. L. 97–35, title XXVI, §2601, Aug. 13, 1981, 95 Stat. 893, provided that: “This title \[enacting this subchapter and repealing subchapter I of this chapter\] may be cited as the ‘Low-Income Home Energy Assistance Act of 1981’.”
 

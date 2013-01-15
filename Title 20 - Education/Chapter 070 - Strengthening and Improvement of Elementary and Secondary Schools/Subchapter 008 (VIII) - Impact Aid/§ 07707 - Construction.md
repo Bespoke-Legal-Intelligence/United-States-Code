@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meetthe requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 &emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -186,13 +186,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a project for a school facility for which the agency does not have full title or other interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events forwhich admission is charged to the general public; or
+&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events for which admission is charged to the general public; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the acquisition of real property.
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sourcesto carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -260,7 +260,7 @@
 
 <b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
-<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during thefour fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
 
 #### Effective Date of 2002 Amendment
 

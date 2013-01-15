@@ -30,7 +30,7 @@ Program Components.—The program established under subsection (a) shall include
 
 #### Data Servers and Centers
 
-Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, provided that:
+Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, as amended by Pub. L. 112–239, div. B, title XXVIII, §2853, Jan. 2, 2013, 126 Stat. 2161, provided that:
 
 “(a)
 
@@ -102,7 +102,7 @@ Defense-wide plan.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resources required for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
+In general.—Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resourcesrequired for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -130,7 +130,15 @@ Responsibility.—The Chief Information Officer of the Department shall discharg
 
 “(c)
 
-Exception.—The Chief Information Officer of the Department and the Chief Information Officer of the Intelligence Community may jointly exempt from the applicability of this section such intelligence components of the Department of Defense (and the programs and activities thereof) that are funded through the National Intelligence Program (NIP) as the Chief Information Officers consider appropriate.
+Exceptions.—
+
+&emsp;“(1)
+
+Intelligence components.—The Chief Information Officer of the Department and the Chief Information Officer of the Intelligence Community may jointly exempt from the applicability of this section such intelligence components of the Department of Defense (and the programs and activities thereof) that are funded through the National Intelligence Program (NIP) as the Chief Information Officers consider appropriate.
+
+&emsp;“(2)
+
+Research, development, test, and evaluation programs.—The Chief Information Officer of the Department may exempt from the applicability of this section research, development, test, and evaluation programs that use authorization of appropriations for the High Performance Computing Modernization Program (Program Element 0603461A) if the Chief Information Officer determines that the exemption is in the best interest of national security.
 
 “(d)
 

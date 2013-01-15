@@ -28,7 +28,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 #### (1) Status
 
-&emsp;The Corporation, in any capacity, shall be an agency of the United States for purposes of section 1345 of title 28 without regard to whether the Corporation commenced the action.
+&emsp;The Corporation, in any capacity, shall be an agency of the United States for purposes ofsection 1345 of title 28 without regard to whether the Corporation commenced the action.
 
 #### (2) Federal court jurisdiction
 
@@ -68,7 +68,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 &emsp;The Corporation shall not be required to post any bond to pursue any appeal and shall not be subject to payments of any filing fees in United States district courts or courts of appeal.
 
-(Sept. 21, 1950, ch. 967, §2\[9\], 64 Stat. 881; Pub. L. 89–695, title II, §205, Oct. 16, 1966, 80 Stat. 1055; Pub. L. 95–630, title III, §309, Nov. 10, 1978, 92Stat. 3677; Pub. L. 101–73, title II, §209, Aug. 9, 1989, 103 Stat. 216; Pub. L. 102–242, title I, §161(d), Dec. 19, 1991, 105 Stat. 2286; Pub. L. 103–325, title III, §331(e), Sept. 23, 1994, 108 Stat. 2232.)
+(Sept. 21, 1950, ch. 967, §2\[9\], 64 Stat. 881; Pub. L. 89–695, title II, §205, Oct. 16, 1966, 80 Stat. 1055; Pub. L. 95–630, title III, §309, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 101–73, title II, §209, Aug. 9, 1989, 103 Stat. 216; Pub. L. 102–242, title I, §161(d), Dec. 19, 1991, 105 Stat. 2286; Pub. L. 103–325, title III, §331(e), Sept. 23, 1994, 108 Stat. 2232.)
 
 #### Prior Provisions
 
@@ -98,7 +98,7 @@ Amendment effective upon expiration of 120 days after Nov. 10, 1978, see section
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which provided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed Pub. L. 89–695, title IV, §401, Oct. 19, 1966, 80 Stat. 1056, which provided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions oflaw enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
 
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 

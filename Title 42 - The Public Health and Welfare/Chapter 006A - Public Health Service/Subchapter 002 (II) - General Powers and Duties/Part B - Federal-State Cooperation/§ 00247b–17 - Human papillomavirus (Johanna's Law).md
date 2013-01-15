@@ -104,7 +104,7 @@
 
 #### (i) Development; submission to Congress
 
-&emsp;&emsp;&emsp;Not later than 3 months after submitting the report required by subparagraph (A),the Secretary shall develop and submit to the Congress a strategy for improving efforts to increase awareness and knowledge of the public and health care providers with respect to different types of cancer, including gynecological cancers.
+&emsp;&emsp;&emsp;Not later than 3 months after submitting the report required by subparagraph (A), the Secretary shall develop and submit to the Congress a strategy for improving efforts to increase awareness and knowledge of the public and health care providers with respect to different types of cancer, including gynecological cancers.
 
 #### (ii) Consultation
 
@@ -116,7 +116,7 @@
 
 In general.—Not later than March 1, 2008, the Secretary shall ensure that all provisions of this section, including activities directed to be carried out by the Centers for Disease Control and Prevention and the Food and Drug Administration, are fully implemented and being complied with. Not later than April 30, 2008, the Secretary shall submit to Congress a report that certifies compliance with the preceding sentence and that contains a description of all activities undertaken to achieve such compliance.
 
-&emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3 months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
+&emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
 
 #### (4) Consultation with nonprofit gynecologic cancer organizations
 

@@ -34,7 +34,7 @@ Subsec. (c)(3). Pub. L. 100–607, §156(2), substituted “1990” for “1988�
 
 #### Nullification of Certain Provisions
 
-Section 121(c) of Pub. L. 103–43 provided that: “The provisions of Executive Order 12806 (57 Fed. Reg. 21589 (May 21, 1992)) \[formerly set out below\] shall not have any legal effect. The provisions of section 204(d) of part 46 of title 45 of the Code of Federal Regulations (45 CFR 46.204(d)) shall not have any legal effect.”
+Pub. L. 103–43, title I, §121(c), June 10, 1993, 107 Stat. 133, provided that: “The provisions of Executive Order 12806 (57 Fed. Reg. 21589 (May 21, 1992)) \[formerly set out below\] shall not have any legal effect. The provisions of section 204(d) of part 46 of title 45 of the Code of Federal Regulations (45 CFR 46.204(d)) shall not have any legal effect.”
 
 #### Executive Order No. 12806. Establishment of Fetal Tissue Bank
 

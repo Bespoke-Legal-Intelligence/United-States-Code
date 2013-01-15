@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) be based on an analysis of the data reasonably available at the time, of the prevalence of risk factors, including high or increasing rates of reported cases of child abuse and domestic violence; protective factors, buffers, assets; or other variables in schools and communities in the State identified through scientifically based research; and
 
-&emsp;&emsp;(E) include meaningful and ongoing consultation with and input from parents in thedevelopment of the application and administration of the program or activity.
+&emsp;&emsp;(E) include meaningful and ongoing consultation with and input from parents in the development of the application and administration of the program or activity.
 
 #### (2) Periodic evaluation
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(vi) The hiring and mandatory training, based on scientific research, of school security personnel (including school resource officers) who interact with students in support of youth drug and violence prevention activities under this part that are implemented in the school.
 
-&emsp;&emsp;&emsp;(vii) Expanded and improved school-based mental health services related to illegal drug use and violence, including early identification of violence and illegal drug use, assessment, and direct or groupcounseling services provided to students, parents, families, and school personnel by qualified school-based mental health service providers.
+&emsp;&emsp;&emsp;(vii) Expanded and improved school-based mental health services related to illegal drug use and violence, including early identification of violence and illegal drug use, assessment, and direct or group counseling services provided to students, parents, families, and school personnel by qualified school-based mental health service providers.
 
 &emsp;&emsp;&emsp;(viii) Conflict resolution programs, including peer mediation programs that educate and train peer mediators and a designated faculty supervisor, and youth anti-crime and anti-drug councils and activities.
 

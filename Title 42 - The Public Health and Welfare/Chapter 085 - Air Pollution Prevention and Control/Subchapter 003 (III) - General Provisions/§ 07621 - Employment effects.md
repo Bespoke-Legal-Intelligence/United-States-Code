@@ -24,7 +24,7 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 
 #### Study of Potential Dislocation of Employees
 
-Section 403(e) of Pub. L. 95–95 provided that the Secretary of Labor, in consultation with the Administrator, conduct a study of potential dislocation of employees due to implementation of laws administered by the Administrator and that the Secretary submit to Congress the results of the study not more than one year after Aug. 7, 1977.
+Pub. L. 95–95, title IV, §403(e), Aug. 7, 1977, 91 Stat. 793, provided that the Secretary of Labor, in consultation with the Administrator, conduct a study of potential dislocation of employees due to implementation of laws administered by the Administrator and that the Secretary submit to Congress the results of the study not more than one year after Aug. 7, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection,”</i>
 

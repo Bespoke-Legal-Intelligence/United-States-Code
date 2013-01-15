@@ -4,7 +4,7 @@ The Secretary of Agriculture may purchase in the open market from applicable app
 
 (Sept. 21, 1944, ch. 412, title I, §101(d), 58 Stat. 734.)
 
-#### Appropriations
+#### Authorization of Appropriation
 
-Appropriations of funds necessary to accomplish the purpose of this section, see note under section 395 of this title.
+Authorization of appropriation of sums necessary for the purposes of this section, see note under section 395 of this title.
 

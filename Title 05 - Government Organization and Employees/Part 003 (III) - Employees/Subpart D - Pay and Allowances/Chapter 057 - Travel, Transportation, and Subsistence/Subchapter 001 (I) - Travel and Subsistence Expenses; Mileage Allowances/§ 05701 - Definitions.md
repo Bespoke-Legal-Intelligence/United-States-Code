@@ -84,7 +84,7 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 
 #### Effective Date of 1986 Amendment; Regulations
 
-Section 301 of Pub. L. 99–234 provided that:
+Pub. L. 99–234, title III, §301, Jan. 2, 1986, 99 Stat. 1760, provided that:
 
 “(a) The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act \[enacting sections 5706a and 5734 of this title and amending this section and sections 5702 and 5707 of this title\] not later than 150 days after the date of enactment of this Act \[Jan. 2, 1986\]. The amendments made by title I of this Act \[enacting sections 5706a and 5734 of this title and amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare\] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act \[Jan. 2, 1986\], whichever occurs first.
 
@@ -100,11 +100,45 @@ Pub. L. 104–201, div. A, title XVII, §1701, Sept. 23, 1996, 110 Stat. 2752, p
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Pub. L. 99–234, §1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act \[enacting sections 5706a and 5734 of thistitle and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Pub. L. 94–22, §1, May 19, 1975, 89 Stat. 84, provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
+
+#### Construction
+
+Pub. L. 112–194, §6, Oct. 5, 2012, 126 Stat. 1451, provided that:
+
+“(a)
+
+Executive Agency Accounting.—Nothing in this Act \[see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in section 3512 of title 31, United States Code, or in the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note).
+
+“(b)
+
+Personal Information.—Nothing in this Act, or the amendments made by this Act, shall be construed to require the disclosure of personally identifying information that is otherwise protected from disclosure under section 552a of title 5, United States Code (popularly known as the Privacy Act of 1974).”
+
+\[For definition of “executive agency” as used in section 6 of Pub. L. 112–194, set out above, see section 5 of Pub. L. 112–194, set out below.\]
+
+#### Management of Centrally Billed Accounts
+
+Pub. L. 112–194, §4, Oct. 5, 2012, 126 Stat. 1450, provided that:
+
+“(a)
+
+Required Internal Controls for Centrally Billed Accounts.—The head of an executive agency that has employees who use a travel charge card that is billed directly to the United States Government shall establish and maintain the following internal control activities:
+
+&emsp;“(1) The executive agency shall ensure that officials with the authority to approve official travel verify that centrally billed account charges are not reimbursed to an employee.
+
+&emsp;“(2) The executive agency shall dispute unallowable and erroneous charges and track the status of the disputed transactions to ensure appropriate resolution.
+
+&emsp;“(3) The executive agency shall submit requests to servicing airlines for refunds of fully or partially unused tickets, when entitled to such refunds, and track the status of unused tickets to ensure appropriate resolution.
+
+“(b)
+
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\], the Director of the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies implementing the requirements of subsection (a).”
+
+\[For definitions of “executive agency” and “employee” as used in section 4 of Pub. L. 112–194, set out above, see section 5 of Pub. L. 112–194, set out below.\]
 
 #### eTravel Service
 
@@ -112,7 +146,7 @@ Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provid
 
 #### Creditworthiness of Individuals To Be Issued Government Charge Cards
 
-Pub. L. 112–74, div. C, title VII, §736, Dec. 23, 2011, 125 Stat. 937, provided that: “Each executive departmentand agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+Pub. L. 112–74, div. C, title VII, §736, Dec. 23, 2011, 125 Stat. 937, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -130,7 +164,7 @@ Pub. L. 108–199, div. F, title VI, §638, Jan. 23, 2004, 118 Stat. 358.
 
 #### Requiring Use of Travel Charge Card
 
-Pub. L. 105–264, §2, Oct. 19, 1998, 112 Stat. 2350, provided that:
+Pub. L. 105–264, §2, Oct. 19, 1998, 112 Stat. 2350, as amended by Pub. L. 112–194, §3, Oct. 5, 2012, 126 Stat. 1448, provided that:
 
 “(a)
 
@@ -144,7 +178,7 @@ In General.—Under regulations issued by the Administrator of General Services 
 
 “(b)
 
-Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type or class of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
+Agency Exemption.—The head of a Federal agency or the designee of such head may exempt any payment, person, type or class of payments, or type orclass of agency personnel from subsection (a) if the agency head or the designee determines the exemption to be necessary in the interest of the agency. Not later than 30 days after granting such an exemption, the head of such agency or the designee shall notify the Administrator of General Services in writing of such exemption stating the reasons for the exemption.
 
 “(c)
 
@@ -216,9 +250,71 @@ Preparation.—Each report shall be based on a sampling survey of agencies that 
 
 “(g)
 
-Reimbursement of Travel Expenses.—In accordance with regulations prescribed by the Administrator of General Services, the head of an agency shall ensure that the agency reimburses an employee who submits a proper voucher for allowable travel expenses in accordance with applicable travel regulations within 30 days after submission of the voucher. If an agency fails to reimburse an employee who has submitted a proper voucher within 30 days after submission of the voucher, the agency shall pay the employee a late payment fee as prescribed by the Administrator.”
+Reimbursement of Travel Expenses.—In accordance with regulations prescribed by the Administrator of General Services, the head of an agency shall ensure that the agency reimburses an employee who submits a proper voucher for allowable travel expenses in accordance with applicable travel regulations within 30 days after submission of the voucher. If an agency fails to reimburse an employee who has submitted a proper voucher within 30 days after submission of the voucher, the agency shall pay the employee a late payment fee as prescribed by the Administrator.
+
+“(h)
+
+Management of Travel Charge Cards.—
+
+&emsp;“(1)
+
+Required safeguards and internal controls.—The head of each executive agency that has employees that use travel charge cards shall establish and maintain the following internal control activities to ensure the proper, efficient, and effective use of such travel charge cards:
+
+&emsp;&emsp;“(A) There is a record in each executive agency of each holder of a travel charge card issued on behalf of the agency for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that travel charge card holder.
+
+&emsp;&emsp;“(B) Rebates and refunds based on prompt payment, sales volume, or other actions by the agency on travel charge card accounts are monitored for accuracy and properly recorded as a receipt of the agency that employs the card holder.
+
+&emsp;&emsp;“(C) Periodic reviews are performed to determine whether each travel charge card holder has a need for the travel charge card.
+
+&emsp;&emsp;“(D) Appropriate training is provided to each travel charge card holder and each official with responsibility for overseeing the use of travel charge cards issued by the executive agency.
+
+&emsp;&emsp;“(E) Each executive agency has specific policies regarding travel charge cards issued for various component organizations and categories of component organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued travel charge cards, and designs those policies to minimize the financial risk to the Federal Government of the issuance of the travel charge cards and to ensure the integrity of travel charge card holders.
+
+&emsp;&emsp;“(F) Each executive agency has policies to ensure its contractual arrangement with each travel charge card issuing contractor contains a requirement that the creditworthiness of an individual be evaluated before the individual is issued a travel charge card, and that no individual be issued a travel charge card if that individual is found not creditworthy as a result of the evaluation (except that this paragraph shall not preclude issuance of a restricted use, prepaid, declining balance, controlled-spend, or stored value card when the individual lacks a credit history or has a credit score below the minimum credit score established by the Director of the Office of Management and Budget). The Director of the Office of Management andBudget shall establish a minimum credit score for determining the creditworthiness of an individual based on rigorous statistical analysis of the population of card holders and historical behaviors. Notwithstanding any other provision of law, such evaluation shall include an assessment of an individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a).
+
+&emsp;&emsp;“(G) Each executive agency uses effective systems, techniques, and technologies to prevent or identify improper purchases.
+
+&emsp;&emsp;“(H) Each executive agency ensures that the travel charge card of each employee who ceases to be employed by the agency is invalidated immediately upon termination of the employment of the employee (or, in the case of a member of the uniformed services, upon separation or release from active duty or full-time National Guard duty).
+
+&emsp;&emsp;“(I) Each executive agency shall ensure that, where appropriate, travel card payments are issued directly to the travel card-issuing bank for credit to the employee's individual travel card account.
+
+&emsp;“(2)
+
+Guidance on management of travel charge cards.—Not later than 180 days after the date of the enactment of the Government Charge Card Abuse Prevention Act of 2012 \[Oct. 5, 2012\], the Director of the Office of Management and Budget shall review the existing guidance and, as necessary, prescribe additional guidance for executive agencies governing the implementation of the requirements in paragraph (1).
+
+&emsp;“(3)
+
+Inspector general audit.—The Inspector General of each executive agency with more than $10,000,000 in travel card spending shall conduct periodic audits or reviews of travel card programs to analyze risks of illegal, improper, or erroneous purchases and payments. The findings of such audits or reviews along with recommendations to prevent improper use of travel cards shall be reported to the Director of the Office of Management and Budget and Congress.
+
+&emsp;“(4)
+
+Penalties for violations.—Consistent with the guidance prescribed under paragraph (2), each executive agency shall provide for appropriate adverse personnel actions to be imposed in cases in which employees of the executive agency fail to comply with applicable travel charge card terms and conditions or applicable agency regulations or commit fraud with respect to a travel charge card, including removal in appropriate cases.
+
+&emsp;“(5)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;“(A)
+
+Executive agency.—The term ‘executive agency’ means an agency as that term is defined in subparagraphs (A) and (B) of section 5701(1) of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Travel charge card.—The term ‘travel charge card’ means any Federal contractor-issued travel charge card that is individually billed to each card holder.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### Definitions
+
+Pub. L. 112–194, §5, Oct. 5, 2012, 126 Stat. 1451, provided that: “In this Act \[enacting section 1909 of Title 41, Public Contracts, amending section 2784 of Title 10, Armed Forces, enacting provisions set out as notes under this section and sections 101 and 1909 of Title 41, and amending provisions set out as a note under this section\]:
+
+&emsp;“(1)
+
+Executive agency.—The term ‘executive agency’ has the meaning given such term in section 133 of title 41, United States Code.
+
+&emsp;“(2)
+
+Employee.—The term ‘employee’ has the meaning given such term in section 2(d)(3) of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 5 U.S.C. 5701 note).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

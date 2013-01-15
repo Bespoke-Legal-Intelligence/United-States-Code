@@ -16,7 +16,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 #### (b) Payments; advances or reimbursements; installments; conditions
 
-Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
+Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement,and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
 #### (c) Child welfare traineeships
 
@@ -68,11 +68,11 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date of 1994 Amendment
 
-Section 205(c) of Pub. L. 103–432 provided that: “The amendments made by this section \[enacting section 628a of this title and amending this section\] shall apply to grants awarded on or after October 1, 1995.”
+Pub. L. 103–432, title II, §205(c), Oct. 31, 1994, 108 Stat. 4457, provided that: “The amendments made by this section \[enacting section 628a of this title and amending this section\] shall apply to grants awarded on or after October 1, 1995.”
 
 #### Appropriations or Grants
 
-Section 240(g) of Pub. L. 90–248 provided that any appropriations or grants made pursuant to section 726 of this title, as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
+Pub. L. 90–248, title II, §240(g), Jan. 2, 1968, 81 Stat. 916, provided that any appropriations or grants made pursuant to section 726 of this title, as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

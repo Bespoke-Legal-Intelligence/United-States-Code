@@ -10,7 +10,7 @@ To the extent that the taking of any action which is necessary or related to the
 
 #### (b) Expedition and precedence of actions on applications or requests
 
-All actions of a Federal officer or agency with respect to consideration of applications or requests for the issuance or grant of a certificate, right-of-way, permit, lease, or other authorization to which subsection (a) of this section applies shall be expedited and any such application or request shall take precedence over any similar applications or requests of the Federal officer or agency.
+All actions of a Federal officer or agency with respect to consideration of applications or requests for the issuance or grant of a certificate,right-of-way, permit, lease, or other authorization to which subsection (a) of this section applies shall be expedited and any such application or request shall take precedence over any similar applications or requests of the Federal officer or agency.
 
 #### (c) Required terms and conditions
 

@@ -28,5 +28,5 @@ Section is from the Supplemental Appropriations Act, 1987.
 
 #### Effective Date of 1997 Amendment
 
-Section 7003(b) of Pub. L. 105–18 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
+Pub. L. 105–18, title II, §7003(b), June 12, 1997, 111 Stat. 192, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
 

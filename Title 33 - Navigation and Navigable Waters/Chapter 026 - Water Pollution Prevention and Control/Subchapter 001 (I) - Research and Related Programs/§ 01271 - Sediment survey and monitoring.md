@@ -8,7 +8,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 24 months after October 31, 1992, the Administrator shall report to theCongress the findings, conclusions, and recommendations of such survey, including recommendations for actions necessary to prevent contamination of aquatic sediments and to control sources of contamination.
+&emsp;Not later than 24 months after October 31, 1992, the Administrator shall report to the Congress the findings, conclusions, and recommendations of such survey, including recommendations for actions necessary to prevent contamination of aquatic sediments and to control sources of contamination.
 
 #### (b) Monitoring
 
@@ -46,11 +46,11 @@ Section was enacted as part of the Water Resources Development Act of 1992 and a
 
 #### Availability of Contaminated Sediments Information
 
-Section 327 of Pub. L. 102–580 directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
+Pub. L. 102–580, title III, §327, Oct. 31, 1992, 106 Stat. 4851, directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
 
 #### National Contaminated Sediment Assessment and Management; Short Title; Definitions; Task Force
 
-Sections 501 and 502 of title V of Pub. L. 102–580 provided that:
+Pub. L. 102–580, title V, §§501, 502, Oct. 31, 1992, 106 Stat. 4864, provided that:
 
 #### “SEC. 501. SHORT TITLE AND DEFINITIONS.
 
@@ -148,7 +148,7 @@ Report.—Within 2 years after the date of the enactment of this Act \[Oct. 31, 
 
 #### Authorization of Appropriations
 
-Section 509(b) of Pub. L. 102–580 provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
+Pub. L. 102–580, title V, §509(b), Oct. 31, 1992, 106 Stat. 4870, provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
 
 #### “Secretary” Defined
 

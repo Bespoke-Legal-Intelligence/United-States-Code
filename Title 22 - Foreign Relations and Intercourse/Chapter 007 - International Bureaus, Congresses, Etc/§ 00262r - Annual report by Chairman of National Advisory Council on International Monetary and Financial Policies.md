@@ -30,7 +30,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
-&emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
+&emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency forInternational Development, an assessment of the progress being made to implement the objectives of title XIII; and
 
 &emsp;(11) a report on—
 
@@ -94,7 +94,7 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Contents of Reports; Applicability of Statutory Requirements
 
@@ -114,7 +114,7 @@ Pub. L. 105–277, div. A, §101(d) \[title V, §583\], Oct. 21, 1998, 112 Stat.
 
 &emsp;“(6) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate.
 
-“(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, as amended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286<i>ll</i>(b)) shall no longer apply to the contents of such annual reports.”
+“(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, as amended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286ll(b)) shall no longer apply to the contents of such annual reports.”
 
 #### International Financial Institution Advisory Commission
 
@@ -206,7 +206,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 “(h)
 
-Termination.—The Commission shall terminate 6 months after the first meeting of the Commission, which shall be not later than 30 days after the appointment of all members of the Commission.
+Termination.—The Commission shall terminate 6 months after the first meeting of the Commission,which shall be not later than 30 days after the appointment of all members of the Commission.
 
 “(i)
 
@@ -214,7 +214,7 @@ Reports by the Executive Branch.—
 
 &emsp;“(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;“(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implementsuch recommendations as are deemed feasible and desirable under paragraph (1).”
+&emsp;“(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1).”
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 

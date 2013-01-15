@@ -312,11 +312,11 @@ Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–210, §1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term “aggregate unpaid loan principal” and authorized the board to require members to submit reports and information for purposes of this subsection.
 
-Subsec. (<i>l</i>). Pub. L. 87–210, §2, repealed subsec. (<i>l</i>) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
+Subsec. (l). Pub. L. 87–210, §2, repealed subsec. (l) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member's home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
 <b>1955</b>—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 
-<b>1950</b>—Subsec. (<i>l</i>). Act June 27, 1950, added subsec. (<i>l</i>).
+<b>1950</b>—Subsec. (l). Act June 27, 1950, added subsec. (l).
 
 <b>1935</b>—Subsec. (k). Act May 28, 1935, omitted exception clause relating to stock held by the United States.
 
@@ -324,7 +324,7 @@ Subsec. (<i>l</i>). Pub. L. 87–210, §2, repealed subsec. (<i>l</i>) which req
 
 #### Effective Date of 1961 Amendment
 
-Section 7 of Pub. L. 87–210 provided that: “This Act \[amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] shall become effective on January 1 next following the date of its enactment \[Sept. 8, 1961\].”
+Pub. L. 87–210, §7, Sept. 8, 1961, 75 Stat. 485, provided that: “This Act \[amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title\] shall become effective on January 1 next following the date of its enactment \[Sept. 8, 1961\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Class B stock”.</i>
 

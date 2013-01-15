@@ -6,5 +6,5 @@ Section was formerly classified to section 445a of Title 48, Territories and Ins
 
 #### Effective Date of Repeal
 
-Repeal by Pub. L. 97–468 became effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
+Repeal by Pub. L. 97–468 became effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see Pub. L. 97–468, title VI, §615(a), Jan. 14, 1983, 96 Stat. 2577.
 

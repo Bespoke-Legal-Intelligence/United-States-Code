@@ -1,6 +1,6 @@
 ### §1979. Incontestability
 
-Subject to the provision of section 1973 of this title, insurance coverage granted under this subchapter shall be incontestable from the date ofissue, reinstatement, or conversion except for fraud or nonpayment of premium.
+Subject to the provision of section 1973 of this title, insurance coverage granted under this subchapter shall be incontestable from the date of issue, reinstatement, or conversion except for fraud or nonpayment of premium.
 
 (Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 172, §779; renumbered §1979 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

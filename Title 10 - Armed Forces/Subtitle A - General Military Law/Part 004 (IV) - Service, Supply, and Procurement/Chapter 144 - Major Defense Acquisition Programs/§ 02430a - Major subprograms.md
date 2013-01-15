@@ -26,7 +26,7 @@ Requirement to Cover Entire Major Defense Acquisition Program.—If a subprogram
 
 Definitions.—Notwithstanding paragraphs (1) and (2) of section 2432(a) of this title, in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this chapter—
 
-&emsp;(1) the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development andprocurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
+&emsp;(1) the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
 
 &emsp;(2) the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
 

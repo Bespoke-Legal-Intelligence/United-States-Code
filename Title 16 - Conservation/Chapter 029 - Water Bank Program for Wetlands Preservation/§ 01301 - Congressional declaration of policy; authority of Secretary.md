@@ -6,5 +6,5 @@ The Congress finds that it is in the public interest to preserve, restore, and i
 
 #### Short Title
 
-Section 1 of Pub. L. 91–559 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Water Bank Act’.”
+Pub. L. 91–559, §1, Dec. 19, 1970, 84 Stat. 1468, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Water Bank Act’.”
 

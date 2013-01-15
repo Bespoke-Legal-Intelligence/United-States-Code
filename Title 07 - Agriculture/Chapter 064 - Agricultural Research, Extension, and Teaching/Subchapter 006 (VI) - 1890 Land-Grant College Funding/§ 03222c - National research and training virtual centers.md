@@ -40,7 +40,7 @@ In making a grant determination under subsection (a) of this section, the Secret
 
 #### (d) Payments
 
-(1) Under the terms of a grant made under subsection (a) of this section, funds appropriated under subsection (f) of this section for a fiscal year shall be paid (upon vouchers approved by the Secretary) to a center receiving the grant in equal quarterly installments beginning on or about the first day of October of such year.
+(1) Under the terms of a grant made under subsection (a) of this section, funds appropriatedunder subsection (f) of this section for a fiscal year shall be paid (upon vouchers approved by the Secretary) to a center receiving the grant in equal quarterly installments beginning on or about the first day of October of such year.
 
 (2) Not later than 60 days after the end of each fiscal year for which funds are paid under this section to a center, the research director of such center shall submit to the Secretary a detailed statement of the disbursements in such fiscal year of funds received by such center under this section.
 
@@ -70,7 +70,7 @@ For purposes of this section, the term “center” means a national research an
 
 (1) The center designated under subsection (a)(2)(C) of this section shall coordinate its activities with the water quality research activities conducted under subtitle G of title XIV of the Food, Agriculture, Conservation, and Trade Act of 1990.<sup>1</sup>
 
-(2) The center designated under subsection (a)(2)(D) of this section shall coordinate its activities with the sustainable agriculture research and education program established undersubtitle B of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 \[7 U.S.C. 5801 et seq.\].
+(2) The center designated under subsection (a)(2)(D) of this section shall coordinate its activities with the sustainable agriculture research and education program established under subtitle B of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 \[7 U.S.C. 5801 et seq.\].
 
 (Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title XVI, §1612(c), Nov. 28, 1990, 104 Stat. 3723; amended Pub. L. 104–127, title VIII, §814, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(10), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7110, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7126, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, §4(a), title VII, §7126, June 18, 2008, 122 Stat. 1664, 1984.)
 

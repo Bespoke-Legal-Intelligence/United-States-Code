@@ -30,7 +30,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 (B) Subject to the limitations of subparagraph (C), for skilled nursing facilities located—
 
-&emsp;(i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels, and
+&emsp;(i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services forskilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels, and
 
 &emsp;(ii) in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels.
 
@@ -84,7 +84,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;&emsp;(I) Ambulance services furnished to an individual in conjunction with renal dialysis services described in section 1395x(s)(2)(F) of this title.
 
-&emsp;&emsp;&emsp;&emsp;(II) Chemotherapy items (identified as of July 1, 1999, by HCPCS codesJ9000–J9020; J9040–J9151; J9170–J9185; J9200–J9201; J9206–J9208; J9211; J9230–J9245; and J9265–J9600 (and as subsequently modified by the Secretary)) and any additional chemotherapy items identified by the Secretary.
+&emsp;&emsp;&emsp;&emsp;(II) Chemotherapy items (identified as of July 1, 1999, by HCPCS codes J9000–J9020; J9040–J9151; J9170–J9185; J9200–J9201; J9206–J9208; J9211; J9230–J9245; and J9265–J9600 (and as subsequently modified by the Secretary)) and any additional chemotherapy items identified by the Secretary.
 
 &emsp;&emsp;&emsp;&emsp;(III) Chemotherapy administration services (identified as of July 1, 1999, by HCPCS codes 36260–36262; 36489; 36530–36535; 36640; 36823; and 96405–96542 (and as subsequently modified by the Secretary)) and any additional chemotherapy administration services identified by the Secretary.
 
@@ -146,7 +146,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (B) Update to first cost reporting period
 
-&emsp;&emsp;The Secretary shall update the amount determined under subparagraph (A), for eachcost reporting period after the applicable cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1.0 percentage point.
+&emsp;&emsp;The Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the applicable cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1.0 percentage point.
 
 #### (C) Updating to applicable cost reporting period
 
@@ -270,7 +270,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) Transition
 
-&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
+&emsp;&emsp;Subject to subparagraph (C), the Secretary shall determine an appropriate manner inwhich to apply this subsection to the facilities described in subparagraph (B) (other than critical access hospitals), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
 
 #### (B) Facilities described
 
@@ -282,7 +282,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (8) Limitation on review
 
-&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of—
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise of—
 
 &emsp;&emsp;(A) the establishment of Federal per diem rates under paragraph (4), including the computation of the standardized per diem rates under paragraph (4)(C), adjustments and corrections for case mix under paragraphs (4)(F) and (4)(G)(i), adjustments for variations in labor-related costs under paragraph (4)(G)(ii), and adjustments under paragraph (4)(G)(iii);
 
@@ -292,7 +292,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (9) Payment for certain services
 
-&emsp;In the case of an item or service furnished to a resident of a skilled nursing facility or a part of a facility that includes a skilled nursing facility (as determined under regulations) for which payment would (but for this paragraph) be made under part B of this subchapter in an amount determined in accordance with section 1395<i>l</i>(a)(2)(B) of this title, the amount of the payment under such part shall be the amount provided under the fee schedule for such item or service. In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title).
+&emsp;In the case of an item or service furnished to a resident of a skilled nursing facility or a part of a facility that includes a skilled nursing facility (as determined under regulations) for which payment would (but for this paragraph) be made under part B of this subchapter in an amount determined in accordance with section 1395l(a)(2)(B) of this title, the amount of the payment under such part shall be the amount provided under the fee schedule for such item or service. In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title).
 
 #### (10) Required coding
 
@@ -320,11 +320,11 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (2) Modification of form
 
-&emsp;The Secretary, in consultation with private sector accountants experienced with Medicareand Medicaid nursing facility home cost reports, shall redesign such reports to meet the requirement of paragraph (1) not later than 1 year after March 23, 2010.
+&emsp;The Secretary, in consultation with private sector accountants experienced with Medicare and Medicaid nursing facility home cost reports, shall redesign such reports to meet the requirement of paragraph (1) not later than 1 year after March 23, 2010.
 
 #### (3) Categorization by functional accounts
 
-&emsp;Not later than 30 months after March 23, 2010, the Secretary, working in consultation with the Medicare Payment Advisory Commission, the Medicaid and CHIP Payment and Access Commission, the Inspector General of the Department of Health and Human Services, and other expert parties the Secretary determines appropriate, shall take the expenditures listed on cost reports, as modified under paragraph (1), submitted by skilled nursing facilities and categorize such expenditures, regardless of any source of payment for such expenditures, for each skilled nursing facility into the following functional accounts on an annual basis:
+&emsp;Not later than 30 months after March 23, 2010, the Secretary, working in consultation with the Medicare Payment Advisory Commission, the Medicaid and CHIP Payment and Access Commission, the Inspector General of theDepartment of Health and Human Services, and other expert parties the Secretary determines appropriate, shall take the expenditures listed on cost reports, as modified under paragraph (1), submitted by skilled nursing facilities and categorize such expenditures, regardless of any source of payment for such expenditures, for each skilled nursing facility into the following functional accounts on an annual basis:
 
 &emsp;&emsp;(A) Spending on direct care services (including nursing, therapy, and medical services).
 
@@ -370,7 +370,7 @@ Subsec. (e)(7). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(1)\], substitu
 
 Subsec. (e)(7)(A). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(2), (3)\], in heading substituted “Transition” for “In general” and in text substituted “Subject to subparagraph (C), the” for “The” and inserted “(other than critical access hospitals)” after “facilities described in subparagraph (B)”.
 
-Subsec. (e)(7)(B). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(4)\], struck out “, for which payment is made for the furnishing of extended care services on a reasonable cost basis under section 1395f(<i>l</i>) of this title (as in effect on and after such date)” before period at end.
+Subsec. (e)(7)(B). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(4)\], struck out “, for which payment is made for the furnishing of extended care services on a reasonable cost basis under section 1395f(l) of this title (as in effect on and after such date)” before period at end.
 
 Subsec. (e)(7)(C). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(5)\], added subpar. (C).
 
@@ -390,7 +390,7 @@ Subsec. (e)(3)(B). Pub. L. 106–113, §1000(a)(6) \[title I, §104(a)(2)\], add
 
 “(i)
 
-In general.—Subject to clause (ii), the Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the costreporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1 percentage point.
+In general.—Subject to clause (ii), the Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1 percentage point.
 
 “(ii)
 
@@ -470,17 +470,17 @@ Amendment by section 1000(a)(6) \[title III, §321(g)(1), (k)(18)\] of Pub. L. 1
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4432(a), (b)(3), (5)(H) of Pub. L. 105–33 effective for cost reporting periods beginning onor after July 1, 1998, except that amendment by section 4432(b) applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
+Amendment by section 4432(a), (b)(3), (5)(H) of Pub. L. 105–33 effective for cost reporting periods beginning on or after July 1, 1998, except that amendment by section 4432(b) applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
 Amendment by section 4511(a)(2)(E) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
 
 #### Effective Date of 1993 Amendment
 
-Section 13503(a)(3)(B) of Pub. L. 103–66 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1993.”
+Pub. L. 103–66, title XIII, §13503(a)(3)(B), Aug. 10, 1993, 107 Stat. 578, provided that: “The amendments made bysubparagraph (A) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1993.”
 
 #### Effective Date of 1990 Amendment
 
-Section 4008(e)(3) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Pub. L. 101–508, title IV, §4008(e)(3), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 Amendment by section 4008(h)(2)(A)(ii) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, see section 4008(h)(2)(P) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
 
@@ -488,13 +488,13 @@ Amendment by section 4008(h)(2)(A)(ii) of Pub. L. 101–508 effective as if incl
 
 Amendment by Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 1895(b)(7)(D) of Pub. L. 99–514 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section\] apply to cost reporting periods beginning on or after October 1, 1986.”
+Pub. L. 99–514, title XVIII, §1895(b)(7)(D), Oct. 22, 1986, 100 Stat. 2933, provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section\] apply to cost reporting periods beginning on or after October 1, 1986.”
 
 Amendment by section 9219(b)(1)(C) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D) of Pub. L. 99–272, set out as a note under section 1395u of this title.
 
-Section 9126(d) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII, §1895(b)(7)(C), Oct. 22, 1986, 100 Stat. 2933, provided that:
+Pub. L. 99–272, title IX, §9126(d), Apr. 7, 1986, 100 Stat. 170, as amended by Pub. L. 99–514, title XVIII, §1895(b)(7)(C), Oct. 22, 1986, 100 Stat. 2933, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1986.
 
@@ -502,7 +502,7 @@ Section 9126(d) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII
 
 #### Effective Date
 
-Section 2319(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984.”
+Pub. L. 98–369, div. B, title III, §2319(c), July 18, 1984, 98 Stat. 1083, provided that: “The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984.”
 
 #### Study on Portable Diagnostic Ultrasound Services for Beneficiaries in Skilled Nursing Facilities
 
@@ -544,11 +544,11 @@ Audit.—The Comptroller General of the United States shall conduct an audit of 
 
 “(2)
 
-Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle \[subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title\] on increased nursing staff ratios and shall make recommendations as to whether increased payments undersubsection (a) \[114 Stat. 2763A–498\] should be continued.”
+Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle \[subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title\] on increased nursing staff ratios and shall make recommendations as to whether increased payments under subsection (a) \[114 Stat. 2763A–498\] should be continued.”
 
 #### Oversight
 
-Pub. L. 106–554, §1(a)(6) \[title III, §313(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: “The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of the Social Security Act \[part B of this subchapter\] for items and services furnished to residents of skilled nursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided.”
+Pub. L. 106–554, §1(a)(6) \[title III, §313(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: “The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of theSocial Security Act \[part B of this subchapter\] for items and services furnished to residents of skilled nursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided.”
 
 #### Establishment of Process for Geographic Reclassification
 
@@ -568,7 +568,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §105(c)\], Nov. 29, 1999, 11
 
 #### Medical Review Process
 
-Section 4432(c) of Pub. L. 105–33 provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act \[this subchapter\].”
+Pub. L. 105–33, title IV, §4432(c), Aug. 5, 1997, 111 Stat. 422, provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act \[this subchapter\].”
 
 #### Construction of Wage Index for Skilled Nursing Facilities
 
@@ -576,15 +576,15 @@ Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided th
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
 
-Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
+Pub. L. 103–66, title XIII, §13503(a)(1), Aug. 10, 1993, 107 Stat. 578, provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
 
 #### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995
 
-Section 13503(b) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not change the amount of any prospective payment paid to a skilled nursing facility under section 1888(d) of the Social Security Act \[subsec. (d) of this section\] for services furnished during cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendment made by subsection (c)(1)(A) \[amending section 1395x of this title\].”
+Pub. L. 103–66, title XIII, §13503(b), Aug. 10, 1993, 107 Stat. 578, provided that: “The Secretary of Health and Human Services may not change the amount of any prospective payment paid to a skilled nursing facility under section 1888(d) of the Social Security Act \[subsec. (d) of this section\] for services furnished during cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendment made by subsection (c)(1)(A) \[amending section 1395x of this title\].”
 
 #### Prospective Payment System for Skilled Nursing Facility Services
 
-Section 4008(k) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title IV, §4008(k), Nov. 5, 1990, 104 Stat. 1388–52, provided that:
 
 “(1)
 

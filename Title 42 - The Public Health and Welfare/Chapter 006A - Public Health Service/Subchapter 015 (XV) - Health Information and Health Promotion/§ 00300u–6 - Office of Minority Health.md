@@ -8,7 +8,7 @@ There is established an Office of Minority Health. The Office of Minority Health
 
 With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the “Deputy Assistant Secretary”), shall carry out the following:
 
-&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult withthe Deputy Assistant Secretary to ensure the coordination of such activities.
 
 &emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
 
@@ -48,7 +48,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (3) Chair
 
-&emsp;The chairperson of the Committee shall be selected by the Secretary from among themembers of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
+&emsp;The chairperson of the Committee shall be selected by the Secretary from among the members of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
 
 #### (4) Composition
 
@@ -80,7 +80,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federalagencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
@@ -112,7 +112,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Agency reports
 
-&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the DeputyAssistant Secretary a report summarizing the minority health activities of each of the respective agencies.
+&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the Deputy Assistant Secretary a report summarizing the minority health activities of each of the respective agencies.
 
 #### (g) Definitions
 
@@ -174,7 +174,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1990 Amendment
 
-Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
+Pub. L. 101–557, title IV, §401(a)(2), Nov. 15, 1990, 104 Stat. 2771, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
 
 #### Transfer of Functions
 
@@ -182,7 +182,7 @@ Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provide
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
@@ -192,7 +192,7 @@ Pub. L. 111–148, title X, §10334(a)(3), Mar. 23, 2010, 124 Stat. 972, provide
 
 #### Congressional Findings
 
-Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
+Pub. L. 101–527, §1(b), Nov. 6, 1990, 104 Stat. 2311, provided that: “The Congress finds that—
 
 &emsp;“(1) racial and ethnic minorities are disproportionately represented among individuals from disadvantaged backgrounds;
 

@@ -62,13 +62,13 @@
 
 #### (4) Compensation
 
-&emsp;Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The remaining members of an advisory council shall receive, for each day (including travel time) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent to the annual ratein effect for grade GS–18 of the General Schedule.
+&emsp;Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The remaining members of an advisory council shall receive, for each day (including travel time) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent to the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Terms of office
 
 #### (1) In general
 
-&emsp;The term of office of a member of an advisory council appointed under subsection (b) of this section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
+&emsp;The term of office of a member of an advisory council appointed under subsection (b) ofthis section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
 
 #### (2) Reappointments
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
@@ -138,7 +138,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Existing Advisory Councils
 
-Section 4004(b) of Pub. L. 99–570 provided that: “The amendment made by subsection (a) \[enacting this section and renumbering this section and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
+Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: “The amendment made by subsection (a) \[enacting this section and renumbering this section and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
 
 &emsp;“(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 \[now 502\] of the Public Health Service Act \[this section\];
 

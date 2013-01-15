@@ -10,7 +10,7 @@
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this subtitle”, and was translated as reading “this title”, meaning title II of Pub. L. 95–266, to reflect the probable intent of Congress, because Pub. L. 95–266 does not contain subtitles.
+This subchapter, referred to in subsec. (a), was in the original “this subtitle”, and was translated as reading“this title”, meaning title II of Pub. L. 95–266, to reflect the probable intent of Congress, because Pub. L. 95–266 does not contain subtitles.
 
 #### Amendments
 

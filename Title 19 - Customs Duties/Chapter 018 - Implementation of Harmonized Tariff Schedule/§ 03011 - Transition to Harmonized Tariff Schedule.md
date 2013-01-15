@@ -8,7 +8,7 @@
 
 &emsp;(B) contain references to the tariff classification of articles under the old Schedules.
 
-(2) Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changes required under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
+(2) Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changesrequired under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
 
 #### (b) Generalized System of Preferences conversion
 

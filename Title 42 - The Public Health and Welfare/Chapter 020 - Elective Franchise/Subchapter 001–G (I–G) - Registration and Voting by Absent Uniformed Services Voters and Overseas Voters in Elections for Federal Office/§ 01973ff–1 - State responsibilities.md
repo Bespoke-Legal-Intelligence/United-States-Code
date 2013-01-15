@@ -48,7 +48,7 @@ Each State shall—
 
 #### (2) Recommendation regarding use of office to accept and process materials
 
-&emsp;Congress recommends that the State office designated under paragraph (1) be responsible for carrying out the State's duties under this Act, including accepting valid voter registration applications, absentee ballot applications, and absentee ballots (including Federal write-in absentee ballots) from all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
+&emsp;Congress recommends that the State office designated under paragraph (1) be responsible for carrying out the State's duties under this Act, including accepting valid voter registration applications, absentee ballot applications,and absentee ballots (including Federal write-in absentee ballots) from all absent uniformed services voters and overseas voters who wish to register to vote or vote in any jurisdiction in the State.
 
 #### (c) Report on number of absentee ballots transmitted and received
 
@@ -108,7 +108,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (2) Transmission if no preference indicated
 
-&emsp;In the case where an absent uniformed services voter or overseas voter does not designate a preference under paragraph (1)(B), the State shall transmit the ballot by any delivery method allowable in accordance with applicable State law, or if there is no applicable State law, by mail.
+&emsp;In the case where an absent uniformed services voter or overseas voter does not designatea preference under paragraph (1)(B), the State shall transmit the ballot by any delivery method allowable in accordance with applicable State law, or if there is no applicable State law, by mail.
 
 #### (3) Security and privacy protections
 

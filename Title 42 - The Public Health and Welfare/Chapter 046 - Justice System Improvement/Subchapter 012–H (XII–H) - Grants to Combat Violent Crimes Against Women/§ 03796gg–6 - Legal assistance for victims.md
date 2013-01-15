@@ -64,7 +64,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 &emsp;Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
 
-(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764;Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765.)
+(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765.)
 
 #### Codification
 

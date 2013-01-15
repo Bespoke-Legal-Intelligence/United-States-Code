@@ -26,13 +26,13 @@ Pub. L. 97–306, title IV, §405, Oct. 14, 1982, 96 Stat. 1443, provided that: 
 
 #### Matured Rights and Duties, Incurred Penalties, Liabilities, and Forfeitures, and Commenced Proceedings Excepted in Repeal of National Cemeteries Provisions
 
-Section 7(a) of Pub. L. 93–43 provided in part that sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title are repealed, except with respect to rights and duties that matured, penalties, liabilities, and forfeitures that were incurred, and proceedings that were begun before effective date of such section 7.
+Pub. L. 93–43, §7(a), June 18, 1973, 87 Stat. 82, provided in part that sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title are repealed, except with respect to rights and duties that matured, penalties, liabilities, and forfeitures that were incurred, and proceedings that were begun before effective date of such section 7.
 
 Section 7 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans’ Benefits.
 
 #### Functions, Powers, and Duties of Secretaries Unaffected
 
-Section 7(b) of Pub. L. 93–43 provided that: “Nothing in this section \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title and enacting provisions set out as a note under sections 271 to 276\] shall be deemed to affect in any manner the functions, powers, and duties of—
+Pub. L. 93–43, §7(b), June 18, 1973, 87 Stat. 88, provided that: “Nothing in this section \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of this title and enacting provisions set out as a note under sections 271 to 276\] shall be deemed to affect in any manner the functions, powers, and duties of—
 
 &emsp;“(1) the Secretary of the Interior with respect to those cemeteries, memorials, or monuments under his jurisdiction on the effective date of this section \[see note above\], or
 

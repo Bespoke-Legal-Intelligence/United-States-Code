@@ -18,7 +18,7 @@ Section 713, referred to in subsec. (b), is section 713 of Pub. L. 105–277, di
 
 #### Codification
 
-The repeal of this chapter and of the amendments made by this chapter, effective Sept. 30, 2003, by this section, as in effect on Sept. 30, 2003, has not been given effect in the Code, to reflect the probable intent of Congress, because of the amendment to this section by Pub. L. 109–469 which substituted “September 30, 2010” for “September 30, 2003” as the effective date of the repeal. See 2006 Amendment note below.
+The repeal of this chapter and of the amendments made by this chapter, effective Sept. 30, 2003, by this section, as in effect on Sept. 30, 2003, was not given effect in the Code, to reflect the probable intent of Congress, because of the amendment to this section by Pub. L. 109–469, enacted Dec. 29, 2006, which substituted “September 30, 2010” for “September 30, 2003” as the effective date of the repeal. See 2006 Amendment note below.
 
 #### Amendments
 

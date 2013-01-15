@@ -40,7 +40,7 @@ Additional compensation provided under this section may not exceed 25 percent of
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: “In addition to basic pay, additional compensation may be paid, in such amounts asthe head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: “In addition to basic pay, additional compensation may be paid, in such amounts as the head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
 
 &emsp;“(1) before October 1, 1979, was employed by the Panama Canal Company, by the Canal Zone Government, or by any other agency in the area then known as the Canal Zone;
 

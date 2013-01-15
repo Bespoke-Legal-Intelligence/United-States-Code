@@ -2,13 +2,13 @@
 
 #### (a) Appalachian and Pacific Crest National Scenic Trails
 
-(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
+(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460l–4 et seq.\], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
 
 (2) It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program necessary to insure the protection of the Appalachian Trail within three complete fiscal years following March 21, 1978.
 
 #### (b) Land deemed to qualify for funding
 
-For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act \[16 U.S.C. 460<i>l</i>–7\].
+For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act \[16 U.S.C. 460l–7\].
 
 #### (c) Authorization of appropriations
 
@@ -34,9 +34,9 @@ For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests t
 
 #### References in Text
 
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
-Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended sections 460<i>l</i>–5, 460<i>l</i>–7, and 460<i>l</i>–9 of this title. Section 1, clause 2 of said Act amended section 460<i>l</i>–7 of this title. Forcomplete classification of this Act to the Code, see Tables.
+Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended sections 460l–5, 460l–7, and 460l–9 of this title. Section 1, clause 2 of said Act amended section 460l–7 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -78,9 +78,9 @@ Subsec. (c). Pub. L. 95–625 added subsec. (c).
 
 #### Effective Date of Appropriation Authorizations Under Pub. L. 98–11; Contract Authority
 
-Section 101 of Pub. L. 98–11 provided that: “Authorizations of appropriations under this Act \[enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title\] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 98–11, title I, §101, Mar. 28, 1983, 97 Stat. 42, provided that: “Authorizations of appropriations under this Act \[enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title\] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority
 
-Section 2 of Pub. L. 96–370 provided that: “Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
+Pub. L. 96–370, §2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 

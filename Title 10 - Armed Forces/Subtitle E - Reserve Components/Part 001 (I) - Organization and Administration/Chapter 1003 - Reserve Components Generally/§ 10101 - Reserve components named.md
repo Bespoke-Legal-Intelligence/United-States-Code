@@ -42,6 +42,36 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Pilot Program on Enhancements of Department of Defense Efforts on Mental Health in the National Guard and Reserves Through Community Partnerships
+
+Pub. L. 112–239, div. A, title VII, §706, Jan. 2, 2013, 126 Stat. 1800, provided that:
+
+“(a)
+
+Program Authority.—The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense in research, treatment, education, and outreach on mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers through community partners.
+
+“(b)
+
+Agreements With Community Partners.—In carrying out the pilot program authorized by subsection (a), the Secretary may enter into partnership agreements with community partners described in subsection (c) using a competitive and merit-based award process.
+
+“(c)
+
+Community Partner Described.—A community partner described in this subsection is a private non-profit organization or institution that meets such qualifications as the Secretary shall establish for purposes of the pilot program and engages in one or more of the following:
+
+&emsp;“(1) Research on the causes, development, and innovative treatment of mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers.
+
+&emsp;“(2) Identifying and disseminating evidence-based treatments of mental health and substance use disorders and traumatic brain injury described in paragraph (1).
+
+&emsp;“(3) Outreach and education to such members, their families and caregivers, and the public about mental health and substance use disorders and traumatic brain injury described in paragraph (1).
+
+“(d)
+
+Duration.—The duration of the pilot program may not exceed three years.
+
+“(e)
+
+Report.—Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment,education, and outreach on mental health and substance use disorders and traumatic brain injury.”
+
 #### Behavioral Health Support
 
 Pub. L. 112–81, div. A, title VII, §703(b), Dec. 31, 2011, 125 Stat. 1471, provided that:
@@ -120,7 +150,7 @@ Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, prov
 
 &emsp;“(5) A description of current strategies to mitigate difficulties in sustaining attendance at events under the Yellow Ribbon Reintegration Program, and an explanation why funds, if any, that are available for the Yellow Ribbon Reintegration Program but remain unexpended have not been used for the Yellow Ribbon Reintegration Program.”
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438, provided that:
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766, provided that:
 
 “(a)
 
@@ -184,7 +214,7 @@ Schedule.—The advisory board shall meet on a schedule determined by the Secret
 
 &emsp;“(3)
 
-Initial reporting requirement.—The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end ofthe 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
+Initial reporting requirement.—The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end of the 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
 
 &emsp;&emsp;“(A) an evaluation of the implementation of the Yellow Ribbon Reintegration Program by State National Guard and Reserve organizations;
 
@@ -284,55 +314,7 @@ Outreach Services.—As part of the Yellow Ribbon Reintegration Program, the Off
 
 &emsp;“(15) Resiliency training to promote comprehensive programs for members of the Armed Forces to build mental and emotional resiliency for successfully meeting the demands of the deployment cycle.
 
-“(i)
-
-Suicide Prevention and Community Healing and Response Program.—
-
-&emsp;“(1)
-
-Establishment.—As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs shall establish a program to provide National Guard and Reserve members and their families, and in coordination with community programs, assist the communities, with training in suicide prevention and community healing and response to suicide.
-
-&emsp;“(2)
-
-Design.—In establishing the program under paragraph (1), the Office for Reintegration Programs shall consult with—
-
-&emsp;&emsp;“(A) persons that have experience and expertise with combining military and civilian intervention strategies that reduce risk and promote healing after a suicide attempt or suicide death for National Guard and Reserve members; and
-
-&emsp;&emsp;“(B) the adjutant general of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
-
-&emsp;“(3)
-
-Operation.—
-
-&emsp;&emsp;“(A)
-
-Suicide prevention training.—The Office for Reintegration Programs shall provide National Guard and Reserve members with training in suicide prevention. Such training shall include—
-
-&emsp;&emsp;&emsp;“(i) describing the warning signs for suicide and teaching effective strategies for prevention and intervention;
-
-&emsp;&emsp;&emsp;“(ii) examining the influence of military culture on risk and protective factors for suicide; and
-
-&emsp;&emsp;&emsp;“(iii) engaging in interactive case scenarios and role plays to practice effective intervention strategies.
-
-&emsp;&emsp;“(B)
-
-Community healing and response training.—The Office for Reintegration Programs shall provide the families and communities of National Guard and Reserve members with training in responses to suicide that promote individual and community healing. Such training shall include—
-
-&emsp;&emsp;&emsp;“(i) enhancing collaboration among community members and local service providers to create an integrated, coordinated community response to suicide;
-
-&emsp;&emsp;&emsp;“(ii) communicating best practices for preventing suicide, including safe messaging, appropriate memorial services, and media guidelines;
-
-&emsp;&emsp;&emsp;“(iii) addressing the impact of suicide on the military and the larger community, and the increased risk that can result; and
-
-&emsp;&emsp;&emsp;“(iv) managing resources to assist key community and military service providers in helping the families, friends, and fellow soldiers of a suicide victim through the processes of grieving and healing.
-
-&emsp;&emsp;“(C)
-
-Collaboration with centers of excellence.—The Office for Reintegration Programs, in consultation with the Defense Centers of Excellence for Psychological Health and Traumatic Brain Injury, shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
-
-&emsp;“(4)
-
-Termination.—The program established under this subsection shall terminate on October 1, 2012.
+“\[(i) Repealed. Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766.\]
 
 “(j)
 
@@ -392,7 +374,7 @@ Pub. L. 108–375, div. A, title V, §513(h), Oct. 28, 2004, 118 Stat. 1882, pro
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
-Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
+Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who wasinitially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 

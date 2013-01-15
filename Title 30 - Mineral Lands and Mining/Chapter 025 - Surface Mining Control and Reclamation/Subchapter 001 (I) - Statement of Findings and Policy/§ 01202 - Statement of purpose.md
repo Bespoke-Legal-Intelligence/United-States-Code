@@ -24,7 +24,7 @@ It is the purpose of this chapter to—
 
 &emsp;(k) encourage the full utilization of coal resources through the development and application of underground extraction technologies;
 
-&emsp;(<i>l</i>) stimulate, sponsor, provide for and/or supplement present programs for the conduct of research investigations, experiments, and demonstrations, in the exploration, extraction, processing, development, and production of minerals and the training of mineral engineers and scientists in the field of mining, minerals resources, and technology, and the establishment of an appropriate research and training center in various States; and
+&emsp;(l) stimulate, sponsor, provide for and/or supplement present programs for the conduct of research investigations, experiments, and demonstrations, in the exploration, extraction, processing, development, and production of minerals and the training of mineral engineers and scientists in the field of mining, minerals resources, and technology, and the establishment of an appropriate research and training center in various States; and
 
 &emsp;(m) wherever necessary, exercise the full reach of Federal constitutional powers to insure the protection of the public interest through effective control of surface coal mining operations.
 

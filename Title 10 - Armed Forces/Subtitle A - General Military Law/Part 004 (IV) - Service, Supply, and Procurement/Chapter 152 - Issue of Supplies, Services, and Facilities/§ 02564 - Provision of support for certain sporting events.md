@@ -66,7 +66,7 @@ Relationship to Other Laws.—Assistance provided under this section shall be su
 
 (g)
 
-Funding for Support of Certain Events.—(1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 (Public Law 104–208; 10 U.S.C. 2564 note), notwithstanding any limitation underthat section relating to the availability of funds in such account for the provision of support for international sporting competitions.
+Funding for Support of Certain Events.—(1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 (Public Law 104–208; 10 U.S.C. 2564 note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
 
 (2) The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 
@@ -86,7 +86,7 @@ Subsec. (c)(1). Pub. L. 105–85, §1073(a)(56), substituted “September 23, 19
 
 #### Effective Date of 1997 Amendment
 
-Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Support for International Sporting Competitions, Defense, Account
 

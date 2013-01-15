@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any officer or employee of the United States intentionally compromises the determination or collection of any tax due from an attorney, certified public accountant, or enrolled agent representing a taxpayer in exchange for information conveyed by the taxpayer to the attorney, certified public accountant, or enrolled agent for purposes of obtaining advice concerning the taxpayer's tax liability, such taxpayer may bring a civil action for damages against the United States in a district court of the United States. Such civil action shall be the exclusive remedy for recovering damages resulting from such actions.
+If any officer or employee of the United States intentionally compromises the determination or collection of any tax due from an attorney, certified public accountant, or enrolled agent representing a taxpayer in exchange for information conveyed by the taxpayer to the attorney, certified public accountant, or enrolled agent for purposes of obtaining advice concerning thetaxpayer's tax liability, such taxpayer may bring a civil action for damages against the United States in a district court of the United States. Such civil action shall be the exclusive remedy for recovering damages resulting from such actions.
 
 #### (b) Damages
 
@@ -20,7 +20,7 @@ Claims pursuant to this section shall be payable out of funds appropriated under
 
 #### (d) Period for bringing action
 
-Notwithstanding any other provision of law, an action to enforce liability created under thissection may be brought without regard to the amount in controversy and may be brought only within 2 years after the date the actions creating such liability would have been discovered by exercise of reasonable care.
+Notwithstanding any other provision of law, an action to enforce liability created under this section may be brought without regard to the amount in controversy and may be brought only within 2 years after the date the actions creating such liability would have been discovered by exercise of reasonable care.
 
 #### (e) Mandatory stay
 
@@ -38,5 +38,5 @@ A prior section 7435 was renumbered 7437 of this title.
 
 #### Effective Date
 
-Section 1203(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[enacting this section and renumbering former section 7435 as 7436 of this title\] shall apply to actions after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XII, §1203(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section \[enacting this section and renumbering former section 7435 as 7436 of this title\] shall apply to actions after the date of the enactment of this Act \[July 30, 1996\].”
 

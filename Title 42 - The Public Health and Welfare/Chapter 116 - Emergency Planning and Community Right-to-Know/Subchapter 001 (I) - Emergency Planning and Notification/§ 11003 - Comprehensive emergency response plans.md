@@ -46,7 +46,7 @@ After completion of an emergency plan under subsection (a) of this section for a
 
 #### (f) Guidance documents
 
-The national response team, as established pursuant to the National Contingency Plan as established under section 9605 of this title, shall publish guidance documents for preparation andimplementation of emergency plans. Such documents shall be published not later than five months after October 17, 1986.
+The national response team, as established pursuant to the National Contingency Plan as established under section 9605 of this title, shall publish guidance documents for preparation and implementation of emergency plans. Such documents shall be published not later than five months after October 17, 1986.
 
 #### (g) Review of plans by regional response teams
 

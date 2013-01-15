@@ -98,7 +98,7 @@ Supplemental Resources.—To carry out the Program in a State, the Governor of t
 
 Report.—Within 90 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the design, conduct, and effectiveness of the Program during the preceding fiscal year. In preparing the report, the Secretary shall coordinate with the Governor of each State in which the Program is carried out and, if the Program is carried out in the District of Columbia, with the commanding general of the District of Columbia National Guard.
 
-(<i>l</i>)
+(l)
 
 Definitions.—In this section:
 
@@ -176,7 +176,7 @@ Subsec. (j). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for 
 
 Subsec. (k). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “effectiveness of the” in first sentence and after “State in which the” in second sentence and substituted “Program” for “program” before “is carried out in the District of Columbia” in second sentence.
 
-Subsec. (<i>l</i>)(3). Pub. L. 108–375, §594(a)(4), added par. (3).
+Subsec. (l)(3). Pub. L. 108–375, §594(a)(4), added par. (3).
 
 Subsec. (m). Pub. L. 108–375, §594(a)(2), substituted “Program” for “National Guard Challenge Program” in introductory provisions.
 
@@ -204,7 +204,7 @@ Subsec. (b). Pub. L. 106–65, §579(b), substituted “$62,500,000” for “$5
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title V, §593(b), Oct. 28, 2009, 123 Stat. 2337, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2009, and shall apply with respect to fiscal years beginning on or after that date.”
+Pub. L. 111–84, div. A, title V, §593(b), Oct. 28, 2009, 123 Stat. 2337, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on October 1, 2009, and shall apply with respect to fiscal years beginning on or after that date.”
 
 #### Effective Date of 2008 Amendment
 

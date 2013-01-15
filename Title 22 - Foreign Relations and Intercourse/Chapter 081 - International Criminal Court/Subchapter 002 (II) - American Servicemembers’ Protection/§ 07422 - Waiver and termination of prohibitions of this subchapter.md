@@ -28,7 +28,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;(A) remains party to, and has continued to abide by, a binding agreement that—
 
-&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdictionover the following persons with respect to actions undertaken by them in an official capacity:
+&emsp;&emsp;&emsp;(i) prohibits the International Criminal Court from seeking to exercise jurisdiction over the following persons with respect to actions undertaken by them in an official capacity:
 
 &emsp;&emsp;&emsp;&emsp;(I) covered United States persons;
 
@@ -68,7 +68,7 @@ Any waiver or waivers exercised pursuant to subsection (c) of this section of th
 
 #### (e) Termination of prohibitions of this subchapter
 
-The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
+The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease toapply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
 
 (Pub. L. 107–206, title II, §2003, Aug. 2, 2002, 116 Stat. 901; Pub. L. 110–181, div. A, title XII, §1212(b)(1), Jan. 28, 2008, 122 Stat. 371.)
 

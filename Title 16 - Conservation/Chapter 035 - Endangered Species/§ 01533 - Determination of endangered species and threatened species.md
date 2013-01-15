@@ -74,7 +74,7 @@
 
 > &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
-(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
+(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall betreated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
@@ -138,7 +138,7 @@
 
 &emsp;(B) in the case such regulation applies to resident species of fish or wildlife, or plants, the Secretary gives actual notice of such regulation to the State agency in each State in which such species is believed to occur.
 
-> Such regulation shall, at the discretion of the Secretary, take effect immediately upon thepublication of the regulation in the Federal Register. Any regulation promulgated under the authority of this paragraph shall cease to have force and effect at the close of the 240-day period following the date of publication unless, during such 240-day period, the rulemaking procedures which would apply to such regulation without regard to this paragraph are complied with. If at any time after issuing an emergency regulation the Secretary determines, on the basis of the best appropriate data available to him, that substantial evidence does not exist to warrant such regulation, he shall withdraw it.
+> Such regulation shall, at the discretion of the Secretary, take effect immediately upon the publication of the regulation in the Federal Register. Any regulation promulgated under the authority of this paragraph shall cease to have force and effect at the close of the 240-day period following the date of publication unless, during such 240-day period, the rulemaking procedures which would apply to such regulation without regard to this paragraph are complied with. If at any time after issuing an emergency regulation the Secretary determines, on the basis of the best appropriate data available to him, that substantial evidence does not exist to warrant such regulation, he shall withdraw it.
 
 (8) The publication in the Federal Register of any proposed or final regulation which is necessary or appropriate to carry out the purposes of this chapter shall include a summary by the Secretary of the data on which such regulation is based and shall show the relationship of such data to such regulation; and if such regulation designates or revises critical habitat, such summary shall, to the maximum extent practicable, also include a brief description and evaluation of those activities (whether public or private) which, in the opinion of the Secretary, if undertaken may adversely modify such habitat, or may be affected by such designation.
 
@@ -304,7 +304,7 @@ Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
 #### Effective Date of 1982 Amendment
 
-Section 2(b) of Pub. L. 97–304 provided that:
+Pub. L. 97–304, §2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
 
 “(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a)); and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
 

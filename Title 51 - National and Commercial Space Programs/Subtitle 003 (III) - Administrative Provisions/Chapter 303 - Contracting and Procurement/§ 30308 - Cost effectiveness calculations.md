@@ -10,11 +10,11 @@ Commercial provider.—The term “commercial provider” means any person provi
 
 &emsp;(2)
 
-State.—The term “State” means each of the several States of the United States, theDistrict of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+State.—The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 (b)
 
-In General.—Except as otherwise required by law, in calculating the cost effectiveness of the cost of the Administration engaging in an activity as compared to a commercial provider, the Administrator shall compare the cost of the Administration engaging in the activity using full cost accounting principles with the price the commercial provider will charge for such activity.
+In General.—Except as otherwise required by law, in calculating the cost effectiveness of the cost of the Administration engaging in an activity as compared to a commercial provider, the Administrator shall compare the cost of theAdministration engaging in the activity using full cost accounting principles with the price the commercial provider will charge for such activity.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3366.)
 

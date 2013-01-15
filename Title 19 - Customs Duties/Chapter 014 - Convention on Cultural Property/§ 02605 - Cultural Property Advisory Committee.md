@@ -122,7 +122,7 @@ Subsec. (b)(3)(B). Pub. L. 100–204, §307(b), amended subpar. (B) generally. P
 
 #### Effective Date of 1987 Amendment
 
-Section 307(c) of Pub. L. 100–204 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title III, §307(c), Dec. 22, 1987, 101 Stat. 1380, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act \[Dec. 22, 1987\].”
 
 #### Transfer of Functions
 

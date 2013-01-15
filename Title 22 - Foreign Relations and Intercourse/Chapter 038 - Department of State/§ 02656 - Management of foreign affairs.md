@@ -1,6 +1,6 @@
 ### §2656. Management of foreign affairs
 
-The Secretary of State shall perform such duties as shall from time to time be enjoined on or intrusted to him by the President relative to correspondences, commissions, or instructions to or with public ministers or consuls from the United States, or to negotiations with public ministers from foreign states or princes, or to memorials or other applications from foreign public ministers or other foreigners, or to such other matters respecting foreign affairs as the President of the United States shall assign to the Department, and he shall conduct the business of the Department in such manner as the President shall direct.
+The Secretary of State shall perform such duties as shall from time to time be enjoined on or intrusted to him by the President relative to correspondences, commissions, or instructions to or with public ministers or consuls from the United States, or to negotiations with public ministers from foreign states or princes, or tomemorials or other applications from foreign public ministers or other foreigners, or to such other matters respecting foreign affairs as the President of the United States shall assign to the Department, and he shall conduct the business of the Department in such manner as the President shall direct.
 
 (R.S. §202.)
 
@@ -144,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
 
-&emsp;“(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the9/11 Commission), stated that ‘Targeting travel is at least as powerful a weapon against terrorists as targeting their money.’.
+&emsp;“(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the 9/11 Commission), stated that ‘Targeting travel is at least as powerful a weapon against terrorists as targeting their money.’.
 
 “(b)
 
@@ -274,7 +274,7 @@ Trade and Development Agency.—
 
 &emsp;“(1)
 
-In general.—The Director of the Trade and Development Agency is authorized to carry out projectsin East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
+In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
 
 &emsp;“(2)
 
@@ -384,7 +384,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Pacific Charter Commission
 
-Pub. L. 106–570, title IV, Dec. 27, 2000, 114 Stat. 3047, known as the Pacific Charter Commission Act of 2000, provided for the establishment of Pacific Charter Commission to promote United States foreign policy, support democratization, rule of law, and human rights, promote United States exports, assist in combating terrorism and spread of illicit narcotics, and advocate for United States diplomacy, all in the Asia-Pacific region, with authority to establish the Commission to expire Dec. 31, 2002, and termination of the Commission to occur not later than six years after the date of establishment.
+Pub. L. 106–570, title IV, Dec. 27, 2000, 114 Stat. 3047, known as the Pacific Charter Commission Act of 2000, provided for the establishment of the Pacific Charter Commission to promote United States foreign policy, support democratization, rule of law, and human rights, promote United States exports, assist in combating terrorism and spread of illicit narcotics, and advocate for United States diplomacy, all in the Asia-Pacific region, with authority to establish the Commission to expire Dec. 31, 2002, and termination of the Commission to occur not later than six years after the date of establishment.
 
 #### Record of War Criminals and Sanctioned Countries, Entities, and Municipalities; Role of Human Rights Organizations and Government Agencies
 
@@ -648,7 +648,7 @@ Definition.—As used in this section, the term ‘respect for freedom of the pr
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: “It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizenscan contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section.”
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: “It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section.”
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -734,7 +734,7 @@ The purpose of this Executive Order is to reinforce, integrate, and complement p
 
 Sec. 2. <i>Assigned Responsibilities to the Center for Strategic Counterterrorism Communications</i>.
 
-(a) Under the direction of the Secretary of State (Secretary), the Center for Strategic Counterterrorism Communications (Center) that has been established in the Department of State by the Secretary shall coordinate, orient, and inform Government-wide public communications activities directed at audiences abroad and targeted against violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, with the goal of using communication tools to reduce radicalization by terrorists and extremist violence and terrorism that threaten the interests and national security of the United States. Consistent with section 404<i>o</i> of title 50, United States Code, the Center shall coordinate its analysis, evaluation, and planning functions with the National Counterterrorism Center. The Center shall also coordinate these functions with other agencies, as appropriate.
+(a) Under the direction of the Secretary of State (Secretary), the Center for Strategic Counterterrorism Communications (Center) that has been established in the Department of State by the Secretary shall coordinate, orient, and inform Government-wide public communications activities directed at audiences abroad and targeted against violent extremists and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, with the goal of using communication tools to reduce radicalization by terrorists and extremist violence and terrorism that threaten the interests and national security of the United States. Consistent with section 404o of title 50, United States Code, the Center shall coordinate its analysis, evaluation, and planning functions with the National Counterterrorism Center. The Center shall also coordinate these functions with other agencies, as appropriate.
 
 Executive branch efforts undertaken through the Center shall draw on all agencies with relevant information or capabilities, to prepare, plan for, and conduct these communications efforts.
 
@@ -756,7 +756,7 @@ Executive branch efforts undertaken through the Center shall draw on all agencie
 
 Sec. 3. <i>Establishment of a Temporary Organization</i>.
 
-(a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known asthe Counterterrorism Communications Support Office (CCSO).
+(a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
 
 (b) The purpose of the CCSO shall be to perform the specific project of supporting agencies in Government-wide public communications activities targeted against violent extremism and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, to audiences abroad by using communication tools designed to counter violent extremism and terrorism that threaten the interests and national security of the United States.
 

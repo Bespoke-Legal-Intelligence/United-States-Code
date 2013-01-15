@@ -499,7 +499,7 @@
 | [14099\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014099%20-%20State%20plan%20requirements.md) | State plan requirements. |
 | [14100\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014100%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20I%2C%20%C2%A711006%284%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201817.md) | Repealed. |
 | [14101\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014101%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [14102\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014102%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [14102\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014102%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93189%2C%20%C2%A72%28b%29%281%29%2C%20Oct.%205%2C%202012%2C%20126%20Stat.%201435.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -541,6 +541,10 @@
 | [14136c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136c%20-%20National%20Forensic%20Science%20Commission.md) | National Forensic Science Commission. |
 | [14136d.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136d%20-%20DNA%20identification%20of%20missing%20persons.md) | DNA identification of missing persons. |
 | [14136e.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136e%20-%20Kirk%20Bloodsworth%20Post-Conviction%20DNA%20Testing%20Grant%20Program.md) | Kirk Bloodsworth Post-Conviction DNA Testing Grant Program. |
+| [14137\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014137%20-%20Definitions.md) | Definitions. |
+| [14137a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014137a%20-%20Grants%20to%20States%20to%20implement%20DNA%20arrestee%20collection%20processes.md) | Grants to States to implement DNA arrestee collection processes. |
+| [14137b.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014137b%20-%20Expungement%20of%20profiles.md) | Expungement of profiles. |
+| [14137c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014137c%20-%20Offset%20of%20funds%20appropriated.md) | Offset of funds appropriated. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

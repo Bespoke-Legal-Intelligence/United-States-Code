@@ -30,7 +30,7 @@
 
 (b) Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
 
-&emsp;(1) not more than two may be persons qualified in the administration of health services who are not doctors of medicine, dental surgery, or dental medicines;
+&emsp;(1) not more than two may be persons qualified in the administration of health serviceswho are not doctors of medicine, dental surgery, or dental medicines;
 
 &emsp;(2) one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and
 

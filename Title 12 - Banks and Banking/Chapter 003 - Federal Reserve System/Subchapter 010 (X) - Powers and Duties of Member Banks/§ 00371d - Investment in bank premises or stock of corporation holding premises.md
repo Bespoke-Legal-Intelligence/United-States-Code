@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;(1) the term “affiliate” has the same meaning as in section 221a of this title; and
 
-&emsp;(2) the term “well capitalized” has the same meaning as in section 1831<i>o</i>(b) of this title.
+&emsp;(2) the term “well capitalized” has the same meaning as in section 1831o(b) of this title.
 
 (Dec. 23, 1913, ch. 6, §24A, as added June 16, 1933, ch. 89, §14, 48 Stat. 184; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; June 30, 1954, ch. 434, §2, 68 Stat. 358; Pub. L. 104–208, div. A, title II, §2206, Sept. 30, 1996, 110 Stat. 3009–405.)
 

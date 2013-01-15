@@ -38,5 +38,5 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 #### Effective Date of 1965 Amendment
 
-Section 806(d)(2) of Pub. L. 89–44 provided that: “The amendments made by subsections (b) and (c) \[amending this section and sections 5382, 5384, 5385, and 5392\] shall take effect on January 1, 1966.”
+Pub. L. 89–44, title VIII, §806(d)(2), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (b) and (c) \[amending this section and sections 5382, 5384, 5385, and 5392\] shall take effect on January 1, 1966.”
 

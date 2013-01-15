@@ -30,7 +30,7 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 #### Effective Date
 
-Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note set out under section 1971 of this title\] shall take effect—
+Pub. L. 103–31, §13, May 20, 1993, 107 Stat. 89, provided that: “This Act \[see Short Title note set out under section 1971 of this title\] shall take effect—
 
 &emsp;“(1) with respect to a State that on the date of enactment of this Act \[May 20, 1993\] has a provision in the constitution of the State that would preclude compliance with this Act unless the State maintained separate Federal and State official lists of eligible voters, on the later of—
 

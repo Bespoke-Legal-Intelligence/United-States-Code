@@ -20,7 +20,7 @@ The treatment to be accorded to a foreign mission in the United States shall be 
 
 #### Effective Date
 
-Section 204 of title II of Pub. L. 97–241 provided that: “The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982.”
+Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: “The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982.”
 
 #### Short Title of 1983 Amendment
 
@@ -28,7 +28,7 @@ Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: 
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 97–241 provided that: “This title \[enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] may be cited as the ‘Foreign Missions Act’.”
+Pub. L. 97–241, title II, §201, Aug. 24, 1982, 96 Stat. 282, provided that: “This title \[enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] may be cited as the ‘Foreign Missions Act’.”
 
 #### United States Department of State Freedom of Expression
 

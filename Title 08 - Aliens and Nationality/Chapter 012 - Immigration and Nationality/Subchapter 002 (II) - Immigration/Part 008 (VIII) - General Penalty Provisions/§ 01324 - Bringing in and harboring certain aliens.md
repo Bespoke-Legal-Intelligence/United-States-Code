@@ -174,7 +174,7 @@ Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: “Except 
 
 #### Effective Date of 1996 Amendment
 
-Section 203(f) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title II, §203(f), Sept. 30, 1996, 110 Stat. 3009–567, provided that: “This section \[amending this section and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

@@ -4,7 +4,7 @@
 
 (1) Each small commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioningheat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 10.0.
+&emsp;(A) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 10.0.
 
 &emsp;(B) The minimum seasonal energy efficiency ratio of air-cooled three-phase electric central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 9.7.
 
@@ -52,7 +52,7 @@
 
 &emsp;(B) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of 155,000 Btu per hour or less shall be 1.30 + (114/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 
-&emsp;(C) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of more than 155,000 Btuper hour shall be 1.30 + (95/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
+&emsp;(C) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of more than 155,000 Btu per hour shall be 1.30 + (95/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 
 &emsp;(D) The minimum thermal efficiency of instantaneous water heaters with a storage volume of less than 10 gallons shall be 80 percent.
 
@@ -72,7 +72,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
+Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
 &emsp;&emsp;(ii)
 
@@ -88,11 +88,49 @@ More stringent standard.—Subclause (I) shall not apply if the Secretary determ
 
 &emsp;(B)
 
-Rule.—If the Secretary makes a determination described in clause (ii)(II) <sup>1</sup> for a product described in clause (i),<sup>1</sup> not later than 30 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for the product, the Secretary shall issue the rule establishing the amended standard.
+Rule.—
 
-&emsp;&emsp;(iii) <sup>2</sup>
+&emsp;&emsp;(i)
 
-Consideration of prices and operating patterns.—If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less <sup>3</sup> 65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
+In general.—If the Secretary makes a determination described in subparagraph (A)(ii)(II) for a product described in subparagraph (A)(i), not later than 30 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for the product, the Secretary shall issue the rule establishing the amended standard.
+
+&emsp;&emsp;(ii)
+
+Factors.—In determining whether a standard is economically justified for the purposes of subparagraph (A)(ii)(II), the Secretary shall, after receiving views and comments furnished with respect to the proposed standard, determine whether the benefits of the standard exceed the burden of the proposed standard by, to the maximum extent practicable, considering—
+
+&emsp;&emsp;&emsp;(I) the economic impact of the standard on the manufacturers and on the consumers of the products subject to the standard;
+
+&emsp;&emsp;&emsp;(II) the savings in operating costs throughout the estimated average life of the product in the type (or class) compared to any increase in the price of, or in the initial charges for, or maintenance expenses of, the products that are likely to result from the imposition of the standard;
+
+&emsp;&emsp;&emsp;(III) the total projected quantity of energy savings likely to result directly from the imposition of the standard;
+
+&emsp;&emsp;&emsp;(IV) any lessening of the utility or the performance of the products likely to result from the imposition of the standard;
+
+&emsp;&emsp;&emsp;(V) the impact of any lessening of competition, as determined in writing by the Attorney General, that is likely to result from the imposition of the standard;
+
+&emsp;&emsp;&emsp;(VI) the need for national energy conservation; and
+
+&emsp;&emsp;&emsp;(VII) other factors the Secretary considers relevant.
+
+&emsp;&emsp;(iii)
+
+Administration.—
+
+&emsp;&emsp;&emsp;(I)
+
+Energy use and efficiency.—The Secretary may not prescribe any amended standard under this paragraph that increases the maximum allowable energy use, or decreases the minimum required energy efficiency, of a covered product.
+
+&emsp;&emsp;&emsp;(II)
+
+Unavailability.—
+
+&emsp;&emsp;&emsp;&emsp;(aa)
+
+In general.—The Secretary may not prescribe an amended standard under this subparagraph if the Secretary finds (and publishes the finding) that interested persons have established by a preponderance of the evidence that a standard is likely to result in the unavailability in the United States in any product type (or class) of performance characteristics (including reliability, features, sizes, capacities, and volumes) that are substantially the same as those generally available in the United States at the time of the finding of the Secretary.
+
+&emsp;&emsp;&emsp;&emsp;(bb)
+
+Other types or classes.—The failure of some types (or classes) to meet the criterion established under this subclause shall not affect the determination of the Secretary on whether to prescribe a standard for the other types or classes.
 
 &emsp;(C)
 
@@ -100,7 +138,7 @@ Amendment of standard.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part, the Secretary shall publish—
+In general.—Every 6 years, the Secretary shall conduct an evaluation of each class of covered equipment and shall publish—
 
 &emsp;&emsp;&emsp;(I) a notice of the determination of the Secretary that standards for the product do not need to be amended, based on the criteria established under subparagraph (A); or
 
@@ -128,7 +166,7 @@ New determination.—Not later than 3 years after a determination under clause (
 
 &emsp;&emsp;(iv)
 
-Application to products.—An amendment prescribed under this subsection shall apply to products manufactured after a date that is the later of—
+Application to products.—Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph shall apply to products manufactured after a date that is the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 3 years after publication of the final rule establishing a new standard; or
 
@@ -136,7 +174,13 @@ Application to products.—An amendment prescribed under this subsection shall a
 
 &emsp;&emsp;(v)
 
-Reports.—The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlinesfor action established under this subparagraph.
+Reports.—The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.
+
+&emsp;&emsp;(vi) <sup>1</sup>
+
+Consideration of prices and operating patterns.—If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less <sup>2</sup> 65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
+
+&emsp;&emsp;(vi) <sup>1</sup> For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
 
 (D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
@@ -144,7 +188,7 @@ Reports.—The Secretary shall promptly submit to the Committee on Energy and Co
 
 &emsp;(ii) with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
 
-> except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
+> except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a datewhich is four years after the date such rule is published in the Federal Register.
 
 (7) Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) shall meet the following standards:
 
@@ -210,7 +254,7 @@ Single package vertical air conditioners and single package vertical heat pumps.
 
 &emsp;(A)
 
-In general.—Single package vertical air conditioners and single package vertical heat pumps manufactured on or after January 1, 2010, shall meet the following standards:
+In general.—Single package vertical air conditioners and single package vertical heatpumps manufactured on or after January 1, 2010, shall meet the following standards:
 
 &emsp;&emsp;(i) The minimum energy efficiency ratio of single package vertical air conditioners less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0.
 
@@ -234,7 +278,7 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 
 #### (b) Electric motors
 
-(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2),<sup>1</sup> each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
+(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2),<sup>3</sup> each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
 
 &nbsp;
 
@@ -277,7 +321,7 @@ Fire pump motors.—Each fire pump motor manufactured (alone or as a component o
 
 &emsp;(C)
 
-General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 
 &emsp;(D) NEMA
 
@@ -311,7 +355,15 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 &emsp;(B) The term “V” means the chilled or frozen compartment volume (ft<sup>3</sup>) (as defined in the Association of Home Appliance Manufacturers Standard HRF1–1979).
 
-&emsp;(C) Other terms have such meanings as may be established by the Secretary, based on industry-accepted definitions and practice.
+&emsp;(C) The term “service over the counter, self-contained, medium temperature commercial refrigerator” or “(SOC–SC–M)” means a medium temperature commercial refrigerator—
+
+&emsp;&emsp;(i) with a self-contained condensing unit and equipped with sliding or hinged doors in the back intended for use by sales personnel, and with glass or other transparent material in the front for displaying merchandise; and
+
+&emsp;&emsp;(ii) that has a height not greater than 66 inches and is intended to serve as a counter for transactions between sales personnel and customers.
+
+&emsp;(D) The term “TDA” means the total display area (ft<sup>2</sup>) of the refrigerated case, as defined in AHRI Standard 1200.
+
+&emsp;(E) Other terms have such meanings as may be established by the Secretary, based on industry-accepted definitions and practice.
 
 (2) Each commercial refrigerator, freezer, and refrigerator-freezer with a self-contained condensing unit designed for holding temperature applications manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) that does not exceed the following:
 
@@ -327,15 +379,29 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (3) Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparent doors manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
 
-(4)(A) Not later than January 1, 2009, the Secretary shall issue, by rule, standard levels for ice-cream freezers, self-contained commercial refrigerators, freezers, and refrigerator-freezers without doors, and remote condensing commercial refrigerators, freezers, and refrigerator-freezers, with the standard levels effective for equipment manufactured on or after January 1, 2012.
+(4)(A) Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6  ×  TDA + 1.0.
+
+(B) Not later than 3 years after December 18, 2012, the Secretary shall—
+
+&emsp;(i) determine whether the standard established under subparagraph (A) should be amended; and
+
+&emsp;(ii) if the Secretary determines that such standard should be amended, issue a final rule establishing an amended standard.
+
+(C) If the Secretary issues a final rule pursuant to subparagraph (B) establishing an amended standard, the final rule shall provide that the amended standard shall apply to products manufactured on or after the date that is—
+
+&emsp;(i) 3 years after the date on which the final amended standard is published; or
+
+&emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final rule is published.
+
+(5)(A) Not later than January 1, 2009, the Secretary shall issue, by rule, standard levels for ice-cream freezers, self-contained commercial refrigerators, freezers, and refrigerator-freezers without doors, and remote condensing commercial refrigerators, freezers, and refrigerator-freezers, with the standard levels effective for equipment manufactured on or after January 1, 2012.
 
 (B) The Secretary may issue, by rule, standard levels for other types of commercial refrigerators, freezers, and refrigerator-freezers not covered by paragraph (2)(A) with the standard levels effective for equipment manufactured 3 or more years after the date on which the final rule is published.
 
-(5)(A) Not later than January 1, 2013, the Secretary shall issue a final rule to determine whether the standards established under this subsection should be amended.
+(6)(A) Not later than January 1, 2013, the Secretary shall issue a final rule to determine whether the standards established under this subsection should be amended.
 
 (B) Not later than 3 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that the standards should not be amended, the Secretary shall issue a final rule to determine whether the standards established under this subsection or the amended standards, as applicable, should be amended.
 
-(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amendedstandards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
+(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amended standards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
@@ -395,7 +461,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final amended standard is published.
 
-(4) A final rule issued under paragraph (2) or (3) shall establish standards at the maximum level that is technically feasible and economically justified, as provided in subsections (<i>o</i>) and (p) of section 6295 of this title.
+(4) A final rule issued under paragraph (2) or (3) shall establish standards at the maximum level that is technically feasible and economically justified, as provided in subsections (o) and (p) of section 6295 of this title.
 
 #### (e) Commercial clothes washers
 
@@ -417,7 +483,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) through (5), each walk-in cooler or walk-in freezer manufactured on or after January 1, 2009, shall—
+&emsp;Subject to paragraphs (2) through (6), each walk-in cooler or walk-in freezer manufactured on or after January 1, 2009, shall—
 
 &emsp;&emsp;(A) have automatic door closers that firmly close all walk-in doors that have been closed to within 1 inch of full closure, except that this subparagraph shall not apply to doors wider than 3 feet 9 inches or taller than 7 feet;
 
@@ -505,15 +571,43 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;&emsp;&emsp;If the Secretary determines, by rule, that a 3-year period is inadequate, the Secretary may establish an effective date for products manufactured beginning on the date that is not more than 5 years after the date of publication of a final rule for the products.
 
-(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570.)
+#### (6) Innovative component technologies
+
+&emsp;Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
+
+(Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570; Pub. L. 112–210, §§2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, 126 Stat. 1514, 1516, 1518, 1522, 1524.)
 
 #### References in Text
-
-Clauses (i) and (ii)(II), referred to in subsec. (a)(6)(B), probably mean cls. (i) and (ii)(II) of subsec. (a)(6)(A) of this section.
 
 Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by Pub. L. 110–140, §313(b)(1)(A).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(6)(A)(i). Pub. L. 112–210, §5(b)(1), inserted “the standard levels or design requirements applicable under that standard to” before “any small commercial”.
+
+Subsec. (a)(6)(B). Pub. L. 112–210, §10(a)(3)(A)(i)–(iii), designated existing provisions as cl. (i), inserted cl. (i) heading, and substituted “subparagraph (A)(ii)(II)” for “clause (ii)(II)” and “subparagraph (A)(i)” for “clause (i)”.
+
+Subsec. (a)(6)(B)(ii). Pub. L. 112–210, §10(a)(3)(A)(iv), added cl. (ii).
+
+Subsec. (a)(6)(B)(iii). Pub. L. 112–210, §10(a)(4), redesignated cl. (iii), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
+
+Pub. L. 112–210, §10(a)(3)(A)(iv), added cl. (iii). Former cl. (iii) redesignated cl. (vi) of subsec. (a)(6)(C).
+
+Subsec. (a)(6)(C)(i). Pub. L. 112–210, §5(b)(2)(A), in introductory provisions, substituted “Every 6 years,” for “Not later than 6 years after issuance of any final rule establishing or amending a standard, as required for a product under this part,” and inserted “conduct an evaluation of each class of covered equipment and shall” after “the Secretary shall”.
+
+Subsec. (a)(6)(C)(iv). Pub. L. 112–210, §10(a)(3)(B), substituted “Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph” for “An amendment prescribed under this subsection” in introductory provisions.
+
+Subsec. (a)(6)(C)(vi). Pub. L. 112–210, §10(a)(4), redesignated cl. (iii) of subsec. (a)(6)(B), relating to consideration of prices and operating patterns, as cl. (vi) of subsec. (a)(6)(C).
+
+Pub. L. 112–210, §5(b)(2)(B), added cl. (vi) relating to notices for covered equipment for which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product.
+
+Subsec. (c)(1)(C) to (E). Pub. L. 112–210, §4(1), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+
+Subsec. (c)(4) to (6). Pub. L. 112–210, §4(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (f)(1). Pub. L. 112–210, §2(1), substituted “paragraphs (2) through (6)” for “paragraphs (2) through (5)” in introductory provisions.
+
+Subsec. (f)(6). Pub. L. 112–210, §2(2), added par. (6).
 
 <b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
 
@@ -553,15 +647,19 @@ Subsecs. (c) to (e). Pub. L. 109–58, §136(c)–(e), added subsecs. (c) to (e)
 
 <b>1992</b>—Pub. L. 102–486 amended section generally, substituting present provisions for former provisions requiring Secretary to conduct evaluations of electric motors and pumps and other industrial equipment for purposes of determining standards.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by section 10(a)(3), (4) of Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. There are two cls. designated (vi).</i>
 
-<i><sup>2</sup></i><i> So in original. No cls. (i) and (ii) have been enacted.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “than”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “than”.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

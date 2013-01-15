@@ -68,5 +68,5 @@ Staff; Services.—The Secretary shall furnish to the Committee the personnel an
 
 #### First Meeting
 
-Pub. L. 111–281, title II, §210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: “No later than six months after thedate of enactment of this Act \[Oct. 15, 2010\], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section \[enacting this section\] shall hold its first meeting.”
+Pub. L. 111–281, title II, §210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: “No later than six months after the date of enactment of this Act \[Oct. 15, 2010\], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section \[enacting this section\] shall hold its first meeting.”
 

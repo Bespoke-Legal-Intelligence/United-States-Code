@@ -8,7 +8,7 @@ Each officer or employee of the Department of the Interior who—
 
 &emsp;(2) has any known financial interest in any person who (A) applies for or receives any permit or lease under, or (B) is otherwise subject to the provisions of this chapter or the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\],
 
-> shall, beginning on February 1, 1979, annually file with the Secretary of the Interior a written statement concerning all such interests held by such officer or employee during the preceeding <sup>1</sup>calendar year. Such statement shall be available to the public.
+> shall, beginning on February 1, 1979, annually file with the Secretary of the Interior a written statement concerning all such interests held by such officer or employee during the preceeding <sup>1</sup> calendar year. Such statement shall be available to the public.
 
 #### (b) “Known financial interest” defined; enforcement; report to Congress
 
@@ -34,7 +34,7 @@ Any officer or employee who is subject to, and knowingly violates, this section 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), (2), was in the original “this Act”, meaning Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended, known as the Outer Continental Shelf Lands Act Amendments of 1978, which enacted this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amended sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 1348 and 1811 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), (2), was in the original “this Act”, meaning Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended, known as the Outer Continental Shelf Lands Act Amendments of 1978, which enacted this chapter, sections 1344 to 1356 of thistitle, and section 237 of Title 30, Mineral Lands and Mining, amended sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 1348 and 1811 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended. See note above.
 

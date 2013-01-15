@@ -6,7 +6,7 @@ Any State which seeks to administer and enforce the standards, regulations, or o
 
 #### (b) Approval or disapproval
 
-Within 180 days following submission of an application under subsection (a) of this section, the Administrator shall approve or disapprove the application. The Administrator may approvethe application only if, after notice and after opportunity for public hearing, the Administrator finds that—
+Within 180 days following submission of an application under subsection (a) of this section, the Administrator shall approve or disapprove the application. The Administrator may approve the application only if, after notice and after opportunity for public hearing, the Administrator finds that—
 
 &emsp;(1) the State program is at least as protective of human health and the environment as the Federal program under section 2682 or 2686 of this title, or both, as the case may be, and
 
@@ -28,7 +28,7 @@ Nothing in this subchapter shall be construed to prohibit any State or political
 
 #### (f) State and local certification
 
-The regulations under this subchapter shall, to the extent appropriate, encourage States to seek program authorization and to use existing State and local certification and accreditation procedures, except that a State or local government shall not require more than 1 certification under this section for any lead-based paint activities contractor to carry out lead-based paint activities in the State or political subdivision thereof.
+The regulations under this subchapter shall, to the extent appropriate, encourage States toseek program authorization and to use existing State and local certification and accreditation procedures, except that a State or local government shall not require more than 1 certification under this section for any lead-based paint activities contractor to carry out lead-based paint activities in the State or political subdivision thereof.
 
 #### (g) Grants to States
 

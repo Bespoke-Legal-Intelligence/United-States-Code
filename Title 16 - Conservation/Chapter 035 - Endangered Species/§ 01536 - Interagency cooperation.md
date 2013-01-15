@@ -8,7 +8,7 @@
 
 (3) Subject to such guidelines as the Secretary may establish, a Federal agency shall consult with the Secretary on any prospective agency action at the request of, and in cooperation with, the prospective permit or license applicant if the applicant has reason to believe that an endangered species or a threatened species may be present in the area affected by his project and that implementation of such action will likely affect such species.
 
-(4) Each Federal agency shall confer with the Secretary on any agency action which is likely to jeopardize the continued existence of any species proposed to be listed under section 1533 ofthis title or result in the destruction or adverse modification of critical habitat proposed to be designated for such species. This paragraph does not require a limitation on the commitment of resources as described in subsection (d) of this section.
+(4) Each Federal agency shall confer with the Secretary on any agency action which is likely to jeopardize the continued existence of any species proposed to be listed under section 1533 of this title or result in the destruction or adverse modification of critical habitat proposed to be designated for such species. This paragraph does not require a limitation on the commitment of resources as described in subsection (d) of this section.
 
 #### (b) Opinion of Secretary
 
@@ -148,7 +148,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 (5) Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit to the Committee a report discussing—
 
-&emsp;(A) the availability of reasonable and prudent alternatives to the agency action, and the nature and extent of the benefits of the agency action and of alternative courses of action consistent with conserving the species or the critical habitat;
+&emsp;(A) the availability of reasonable and prudent alternatives to the agency action, andthe nature and extent of the benefits of the agency action and of alternative courses of action consistent with conserving the species or the critical habitat;
 
 &emsp;(B) a summary of the evidence concerning whether or not the agency action is in the public interest and is of national or regional significance;
 
@@ -206,7 +206,7 @@ Notwithstanding any other provision of this chapter, the Committee shall grant a
 
 An exemption decision by the Committee under this section shall not be a major Federal action for purposes of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]: <i>Provided</i>, That an environmental impact statement which discusses the impacts upon endangered species or threatened species or their critical habitats shall have been previously prepared with respect to any agency action exempted by such order.
 
-#### (<i>l</i>) Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality
+#### (l) Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality
 
 (1) If the Committee determines under subsection (h) of this section that an exemption should be granted with respect to any agency action, the Committee shall issue an order granting the exemption and specifying the mitigation and enhancement measures established pursuant to subsection (h) of this section which shall be carried out and paid for by the exemption applicant in implementing the agency action. All necessary mitigation and enhancement measures shall be authorized prior to the implementing of the agency action and funded concurrently with all other project features.
 
@@ -220,7 +220,7 @@ The 60-day notice requirement of section 1540(g) of this title shall not apply w
 
 Any person, as defined by section 1532(13) of this title, may obtain judicial review, under chapter 7 of title 5, of any decision of the Endangered Species Committee under subsection (h) of this section in the United States Court of Appeals for (1) any circuit wherein the agency action concerned will be, or is being, carried out, or (2) in any case in which the agency action will be, or is being, carried out outside of any circuit, the District of Columbia, by filing in such court within 90 days after the date of issuance of the decision, a written petition for review. A copy of such petition shall be transmitted by the clerk of the court to the Committee and the Committee shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Attorneys designated by the Endangered Species Committee may appear for, and represent the Committee in any action for review under this subsection.
 
-#### (<i>o</i>) Exemption as providing exception on taking of endangered species
+#### (o) Exemption as providing exception on taking of endangered species
 
 Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sections 1371 and 1372 of this title, or any regulation promulgated to implement any such section—
 
@@ -244,15 +244,15 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is
 
 #### Amendments
 
-<b>1988</b>—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
+<b>1988</b>—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 ofthe Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
 
 <b>1986</b>—Subsec. (b)(4)(C). Pub. L. 99–659, §411(b)(1)–(3), added subpar. (C).
 
 Subsec. (b)(4)(iii), (iv). Pub. L. 99–659, §411(b)(4)–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
 
-Subsec. (<i>o</i>). Pub. L. 99–659, §411(c)(1), in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
+Subsec. (o). Pub. L. 99–659, §411(c)(1), in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
 
-Subsec. (<i>o</i>)(2). Pub. L. 99–659, §411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
+Subsec. (o)(2). Pub. L. 99–659, §411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
 
 <b>1982</b>—Subsec. (a)(3), (4). Pub. L. 97–304, §4(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
@@ -260,7 +260,7 @@ Subsec. (b). Pub. L. 97–304, §4(a)(2), incorporated existing provisions into 
 
 Subsec. (c)(1). Pub. L. 97–304, §4(a)(3), inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
 
-Subsec. (e)(10). Pub. L. 97–304, §4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, nomember could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
+Subsec. (e)(10). Pub. L. 97–304, §4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
 
 Subsec. (g)(1). Pub. L. 97–304, §4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) of this section after a report is made by the review board”.
 
@@ -272,7 +272,7 @@ Subsec. (g)(3). Pub. L. 97–304, §4(a)(5)(D), (E), redesignated par. (5) as (3
 
 Subsec. (g)(4). Pub. L. 97–304, §4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
 
-Subsec. (g)(5). Pub. L. 97–304, §4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
+Subsec. (g)(5). Pub. L. 97–304, §4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, theSecretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
 
 Subsec. (g)(6). Pub. L. 97–304, §4(a)(5)(H), redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
 
@@ -280,7 +280,7 @@ Subsec. (g)(7). Pub. L. 97–304, §4(a)(5)(I), redesignated par. (10) as (7) an
 
 Subsec. (g)(8). Pub. L. 97–304, §4(a)(5)(J), redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
 
-Subsec. (g)(9). Pub. L. 97–304, §4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, andupon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
+Subsec. (g)(9). Pub. L. 97–304, §4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
 
 Subsec. (g)(10). Pub. L. 97–304, §4(a)(5)(I), redesignated par. (10) as (7).
 
@@ -290,7 +290,7 @@ Subsec. (g)(12). Pub. L. 97–304, §4(a)(5)(J), redesignated par. (12) as (8).
 
 Subsec. (h)(1). Pub. L. 97–304, §4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section” for “within 90 days of receiving the report of the review board under subsection (g)(7) of this section” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
-Subsec. (<i>o</i>). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
+Subsec. (o). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
 Subsec. (q). Pub. L. 97–304, §8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See section 1542(c) of this title.
 
@@ -316,7 +316,7 @@ Subsec. (g)(6). Pub. L. 96–159, §4(10), substituted “subclauses (i), (ii), 
 
 Subsec. (h)(1). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-Subsec. (h)(2). Pub. L. 96–159, §4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary's finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
+Subsec. (h)(2). Pub. L. 96–159, §4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findingsprovision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary's finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
 
 Subsec. (m). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
@@ -402,7 +402,7 @@ Status of Members of the Experimental Population.—(1) Any member of the experi
 
 > For purposes of this paragraph, the term ‘defense-related agency action’ means an agency action proposed to be carried out directly by a military department.
 
-“(2) For purposes of section 7 of the Act \[16 U.S.C. 1536\], any member of the experimental population shall be treated while within the management zone as a member of a species that is proposed to be listed under section 4 of the Act \[16 U.S.C. 1533\]. Section 9 of the Act \[16 U.S.C. 1538\] applies to members of the experimental population; except that any incidental taking of such a member during the course of an otherwise lawful activity within the management zone, may not be treated as a violation of the Act or the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
+“(2) For purposes of section 7 of the Act \[16 U.S.C. 1536\], any member of the experimental population shall be treated while within the management zone as a member of a species that is proposed to be listed under section 4 of the Act \[16 U.S.C. 1533\]. Section 9 of the Act \[16 U.S.C. 1538\] applies to members of the experimental population; except that any incidental taking of such a member during the course of an otherwise lawful activity within the management zone, may not be treated asa violation of the Act or the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
 
 “(d)
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of Office
 
-&emsp;The Secretary shall establish within the Department of State an Office to Monitor andCombat anti-Semitism (in this section referred to as the “Office”).
+&emsp;The Secretary shall establish within the Department of State an Office to Monitor and Combat anti-Semitism (in this section referred to as the “Office”).
 
 #### (2) Head of Office
 

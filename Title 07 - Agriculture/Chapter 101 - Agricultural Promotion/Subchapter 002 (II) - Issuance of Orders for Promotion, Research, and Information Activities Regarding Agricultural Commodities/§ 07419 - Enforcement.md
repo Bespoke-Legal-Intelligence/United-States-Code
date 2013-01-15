@@ -24,7 +24,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (4) Notice and hearing
 
-&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
+&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretaryunder this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
 
 #### (5) Finality
 
@@ -68,5 +68,5 @@ The remedies provided in this section shall be in addition to, and not exclusive
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading“this subtitle”, meaning subtitle B (§§511–526) of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle B (§§511–526) of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, to reflect the probable intent of Congress.
 

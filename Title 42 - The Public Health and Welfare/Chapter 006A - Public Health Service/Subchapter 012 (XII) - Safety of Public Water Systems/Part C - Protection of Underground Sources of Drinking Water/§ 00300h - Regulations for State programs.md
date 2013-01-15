@@ -46,7 +46,7 @@
 
 &emsp;(C) such temporary permits will be issued only with respect to injection wells in operation on the date on which such State's permit program approved under this part first takes effect and for which there was inadequate time to process its permit application; and
 
-&emsp;(D) the Administrator determines the temporary permits require the use of adequatesafeguards established by rules adopted by him.
+&emsp;(D) the Administrator determines the temporary permits require the use of adequate safeguards established by rules adopted by him.
 
 (2) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i) of this section), but after reasonable notice and hearing, one or more temporary permits each of which is applicable to a particular injection well and to the underground injection of a particular fluid and which may be effective until the expiration of four years after December 16, 1974, if the State finds, on the record of such hearing—
 

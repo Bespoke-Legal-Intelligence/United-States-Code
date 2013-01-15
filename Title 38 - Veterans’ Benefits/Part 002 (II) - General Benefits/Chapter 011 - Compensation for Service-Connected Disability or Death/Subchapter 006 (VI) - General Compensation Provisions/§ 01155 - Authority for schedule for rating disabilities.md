@@ -16,7 +16,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 #### Effective Date of 1991 Amendment
 
-Section 103(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with regard to changes in rating schedules that take effect after the date of the enactment of this Act \[Aug. 14, 1991\].”
+Pub. L. 102–86, title I, §103(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with regard to changes in rating schedules that take effect after the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1984 Amendment
 

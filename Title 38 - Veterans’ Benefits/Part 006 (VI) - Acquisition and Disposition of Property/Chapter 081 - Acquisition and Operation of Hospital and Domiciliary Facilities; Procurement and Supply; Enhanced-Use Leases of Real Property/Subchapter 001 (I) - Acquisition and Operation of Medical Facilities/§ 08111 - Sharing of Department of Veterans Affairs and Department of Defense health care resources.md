@@ -6,7 +6,7 @@ Required Coordination and Sharing of Health Care Resources.—The Secretary of V
 
 (b)
 
-Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
+Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of thetwo Departments, the two Secretaries shall carry out the following functions:
 
 &emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31.
 
@@ -104,7 +104,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(4) The term “health-care resource” includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than undersection 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term “providing Department” means the Department of Veterans Affairs, in the case of care or services furnished by a facility of the Department of Veterans Affairs, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
@@ -164,7 +164,7 @@ Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) an
 
 Subsec. (f)(3), (4)(A), (B), (5). Pub. L. 108–136, §583(c), inserted “(Public Law 107–314)” after “for Fiscal Year 2003”.
 
-<b>2002</b>—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related to agreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
+<b>2002</b>—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related toagreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
 
 Subsec. (g)(4). Pub. L. 107–135, §208(e)(6)(A), inserted “services under sections 1782 and 1783 of this title” after “of this title,”.
 
@@ -354,7 +354,7 @@ Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreem
 
 “(2) Reimbursement under the agreement under paragraph (1) shall be in accordance with rates agreed upon by the Secretary of Defense and the Secretary of Veterans Affairs. Such reimbursement may be made by the Secretary of Defense or by the appropriate TRICARE Managed Care Support contractor, as determined in accordance with that agreement.
 
-“(3) In entering into the agreement under paragraph (1), particularly with respect to determination of the rates of reimbursement under paragraph (2), the Secretary of Defense shall consult with TRICARE Managed Care Support contractors.
+“(3) In entering into the agreement under paragraph (1), particularly with respect to determination of therates of reimbursement under paragraph (2), the Secretary of Defense shall consult with TRICARE Managed Care Support contractors.
 
 “(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provision of care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
 
@@ -438,7 +438,7 @@ Use of Funds.—Any amount received by the Secretary from a non-Federal entity a
 
 #### “SEC. 203. EXPANDED SHARING AGREEMENTS WITH DEPARTMENT OF DEFENSE.
 
-“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
+“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code,may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
 
 &emsp;“(1) without regard to any otherwise applicable requirement for the payment of a copayment or deductible; or
 
@@ -480,7 +480,7 @@ Enforcement.—The right of the United States to recover under such a beneficiar
 
 #### Congressional Findings
 
-Section 2(a) of Pub. L. 97–174 provided that: “The Congress makes the following findings:
+Pub. L. 97–174, §2(a), May 4, 1982, 96 Stat. 70, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) There are opportunities for greater sharing of the health-care resources of the Veterans’ Administration and the Department of Defense which would, if achieved, be beneficial to both veterans and members of the Armed Forces and could result in reduced costs to the Government by minimizing duplication and underuse of health-care resources.
 

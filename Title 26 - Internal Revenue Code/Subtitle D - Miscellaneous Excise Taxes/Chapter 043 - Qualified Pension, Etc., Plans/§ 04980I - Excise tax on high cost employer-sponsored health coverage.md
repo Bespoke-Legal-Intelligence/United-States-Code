@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any coverage under a separate policy, certificate, or contract of insurance which provides benefits substantially all of which are for treatment of the mouth (including any organ or structure within the mouth) or for treatment of the eye, or
 
-&emsp;&emsp;&emsp;(iii) any coverage described in section 9832(c)(3) the payment for which is not excludable from gross income and for which a deduction under section 162(<i>l</i>) is not allowable.
+&emsp;&emsp;&emsp;(iii) any coverage described in section 9832(c)(3) the payment for which is not excludable from gross income and for which a deduction under section 162(l) is not allowable.
 
 #### (C) Coverage includes employee paid portion
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (D) Self-employed individual
 
-&emsp;&emsp;In the case of an individual who is an employee within the meaning of section 401(c)(1), coverage under any group health plan providing health insurance coverage shall be treated as applicable employer-sponsored coverage if a deduction is allowable under section 162(<i>l</i>) with respect to all or any portion of the cost of the coverage.
+&emsp;&emsp;In the case of an individual who is an employee within the meaning of section 401(c)(1), coverage under any group health plan providing health insurance coverage shall be treated as applicable employer-sponsored coverage if a deduction is allowable under section 162(l) with respect to all or any portion of the cost of the coverage.
 
 #### (E) Governmental plans included
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (C) Archer MSAs and HSAs
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage underan arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
 #### (D) Allocation on a monthly basis
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (C) Waiver by Secretary
 
-&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to the extent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to theextent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (f) Other definitions and special rules
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 #### (9) Aggregation rules
 
-&emsp;All employers treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as a single employer.
+&emsp;All employers treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
 #### (10) Denial of deduction
 

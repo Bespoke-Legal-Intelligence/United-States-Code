@@ -6,7 +6,7 @@ When used in this subchapter—
 
 (b) The term “Secretary” means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term “Secretary” means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
 
-(c) The term “lease” means any form of authorization which is issued under section 1337 ofthis title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
+(c) The term “lease” means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
 
 (d) The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
 
@@ -34,7 +34,7 @@ When used in this subchapter—
 
 (k) The term “exploration” means the process of searching for minerals, including (1) geophysical surveys where magnetic, gravity, seismic, or other systems are used to detect or imply the presence of such minerals, and (2) any drilling, whether on or off known geological structures, including the drilling of a well in which a discovery of oil or natural gas in paying quantities is made and the drilling of any additional delineation well after such discovery which is needed to delineate any reservoir and to enable the lessee to determine whether to proceed with development and production;
 
-(<i>l</i>) The term “development” means those activities which take place following discovery of minerals in paying quantities, including geophysical activity, drilling, platform construction, and operation of all onshore support facilities, and which are for the purpose of ultimately producing the minerals discovered;
+(l) The term “development” means those activities which take place following discovery of minerals in paying quantities, including geophysical activity, drilling, platform construction, and operation of all onshore support facilities, and which are for the purpose of ultimately producing the minerals discovered;
 
 (m) The term “production” means those activities which take place after the successful completion of any means for the removal of minerals, including such removal, field operations, transfer of minerals to shore, operation monitoring, maintenance, and work-over drilling;
 
@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during suchperiod, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(o) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if therewere no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -94,7 +94,7 @@ For short title of act Aug. 7, 1953, which enacted this subchapter, as the “Ou
 
 #### Separability
 
-Section 17 of act Aug. 7, 1953, provided that: “If any provision of this Act \[enacting this subchapter\], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby.”
+Act Aug. 7, 1953, ch. 345, §17, 67 Stat. 471, provided that: “If any provision of this Act \[enacting this subchapter\], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -128,7 +128,7 @@ south area.—The term ‘181 South Area’ means any area—
 
 &emsp;&emsp;&emsp;“(iii) in the Central Planning Area;
 
-&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for1997–2002, dated August 1996, of the Minerals Management Service; and
+&emsp;&emsp;“(B) excluded from the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for 1997–2002, dated August 1996, of the Minerals Management Service; and
 
 &emsp;&emsp;“(C) included in the areas considered for oil and gas leasing, as identified in map 8, page 37 of the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
@@ -270,7 +270,7 @@ Exchange of Certain Leases.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas leasewith the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
+In general.—The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas lease with the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
 
 &emsp;“(2)
 
@@ -308,7 +308,7 @@ In General.—Notwithstanding section 9 of the Outer Continental Shelf Lands Act
 
 &emsp;&emsp;“(A) 75 percent to Gulf producing States in accordance with subsection (b); and
 
-&emsp;&emsp;“(B) 25 percent to provide financial assistance to States in accordance with section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–8), which shall be considered income to the Land and Water Conservation Fund for purposes of section 2 of that Act (16 U.S.C. 460<i>l</i>–5).
+&emsp;&emsp;“(B) 25 percent to provide financial assistance to States in accordance with section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8), which shall be considered income to the Land and Water Conservation Fund for purposes of section 2 of that Act (16 U.S.C. 460l–5).
 
 “(b)
 
@@ -404,7 +404,7 @@ Administration.—Amounts made available under subsection (a)(2) shall—
 
 &emsp;&emsp;“(A) the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
-&emsp;&emsp;“(B) the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.); or
+&emsp;&emsp;“(B) the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 et seq.); or
 
 &emsp;&emsp;“(C) any other provision of law.
 
@@ -428,6 +428,8 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 
 &emsp;&emsp;“(B) any remainder of the qualified outer Continental Shelf revenues shall revert to the general fund of the Treasury.”
 
+\[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
+
 Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: “That for fiscal year 2012 and each fiscal year thereafter, the term ‘qualified Outer Continental Shelf revenues’, as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act \[of 2006\], \[title I of\] division C of Public Law 109–432 \[set out above\], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993.”
 
 Similar provisions were contained in the following appropriation act:
@@ -436,11 +438,11 @@ Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 994.
 
 #### Naval Petroleum Reserve
 
-Section 13 of act Aug. 7, 1953, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, which had set aside certain submerged lands as a naval petroleum reserve and had transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
+Act Aug. 7, 1953, ch. 345, §13, 67 Stat. 470, revoked Ex. Ord. No. 10426, Jan. 16, 1953, 18 F.R. 405, which had set aside certain submerged lands as a naval petroleum reserve and had transferred functions with respect thereto from the Secretary of the Interior to the Secretary of the Navy.
 
 #### Authorization of Appropriations
 
-Section 16 of act Aug. 7, 1953, provided that: “There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\].”
+Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: “There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\].”
 
 #### Proc. No. 5928. Territorial Sea of United States
 
@@ -488,7 +490,7 @@ Nothing in this proclamation:
 
 &emsp;(a) amends existing Federal or State law;
 
-&emsp;(b) amends or otherwise alters the rights and duties of the United States or other nations in the ExclusiveEconomic Zone of the United States established by Proclamation 5030 of March 10, 1983 \[16 U.S.C. 1453 note\]; or
+&emsp;(b) amends or otherwise alters the rights and duties of the United States or other nations in the Exclusive Economic Zone of the United States established by Proclamation 5030 of March 10, 1983 \[16 U.S.C. 1453 note\]; or
 
 &emsp;(c) impairs the determination, in accordance with international law, of any maritime boundary of the United States with a foreign jurisdiction.
 

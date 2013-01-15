@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (6) Electric generation unit
 
-&emsp;The term “electric generation unit” means any facility at least 50 percent of the total annual net output of which is electrical power, including an otherwise eligible facility which is used in an industrial application.
+&emsp;The term “electric generation unit” means any facility at least 50 percent of the total annual net output of which is electrical power,including an otherwise eligible facility which is used in an industrial application.
 
 #### (7) Integrated gasification combined cycle
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (1) Requirements
 
-&emsp;For purposes of subsection (c)(1), a project shall be considered a qualifying advanced coal project that the Secretary may certify under subsection (d)(2) if the Secretary determines that, at a minimum—
+&emsp;For purposes of subsection (c)(1), a project shall be considered a qualifying advanced coalproject that the Secretary may certify under subsection (d)(2) if the Secretary determines that, at a minimum—
 
 &emsp;&emsp;(A) the project uses an advanced coal-based generation technology—
 

@@ -36,7 +36,7 @@ December 22, 1987, referred to in subsec. (d), was in the original “the date o
 
 #### Effective Date
 
-Section 128(b) of Pub. L. 100–204 provided that:
+Pub. L. 100–204, title I, §128(b), Dec. 22, 1987, 101 Stat. 1343, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[enacting this section\] shall apply to any foreign mission beginning on the date of enactment of this Act \[Dec. 22, 1987\].
 

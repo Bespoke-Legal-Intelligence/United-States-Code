@@ -158,7 +158,7 @@ Priority.—When making grants under this paragraph, the Secretary of the Interi
 
 &emsp;&emsp;(i) have the greatest impact on reducing future disaster losses; and
 
-&emsp;&emsp;(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where theproject is to be carried out for development or hazard mitigation for that insular area.
+&emsp;&emsp;(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where the project is to be carried out for development or hazard mitigation for that insular area.
 
 &emsp;(D)
 

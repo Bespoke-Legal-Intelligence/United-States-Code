@@ -60,7 +60,7 @@ Pub. L. 106–102, title VII, §729, Nov. 12, 1999, 113 Stat. 1476, provided tha
 
 “(a)
 
-Study Required.—The Federal banking agencies shall conduct a study of banking regulations regardingthe delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
+Study Required.—The Federal banking agencies shall conduct a study of banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
 
 “(b)
 
@@ -84,7 +84,7 @@ Pub. L. 105–219, title IV, §403, Aug. 7, 1998, 112 Stat. 935, provided that: 
 
 #### Study and Report on Capital Standards and Their Impact on Economy
 
-Section 328 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title III, §328, Sept. 23, 1994, 108 Stat. 2230, provided that:
 
 “(a)
 
@@ -110,7 +110,7 @@ Recommendations.—The report shall contain any recommendations with respect to 
 
 #### Study on Impact of Payment of Interest on Reserves
 
-Section 329 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title III, §329, Sept. 23, 1994, 108 Stat. 2230, provided that:
 
 “(a)
 
@@ -134,7 +134,7 @@ Budgetary Impact Study.—Not later than 180 days after the date of enactment of
 
 #### Study and Report on Consumer Credit System
 
-Section 330 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title III, §330, Sept. 23, 1994, 108 Stat. 2231, provided that:
 
 “(a)
 
@@ -164,7 +164,7 @@ Public Participation.—In conducting the study required by subsection (a), comm
 
 #### Study on Check-Related Fraud
 
-Section 333 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title III, §333, Sept. 23, 1994, 108 Stat. 2233, provided that:
 
 “(a)
 
@@ -184,7 +184,7 @@ Report to the Congress.—Not later than 2 years after the date of enactment of 
 
 #### Feasibility Study of Data Bank
 
-Section 341 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title III, §341, Sept. 23, 1994, 108 Stat. 2238, provided that:
 
 “(a)
 
@@ -204,9 +204,9 @@ Additional Factors.—The study required under subsection (a) shall consider the
 
 #### Timely Completion of CRA Review
 
-Section 342 of Pub. L. 103–325 provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
+Pub. L. 103–325, title III, §342, Sept. 23, 1994, 108 Stat. 2238, provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
 
 #### Waiver of Right of Rescission for Certain Refinancing Transactions
 
-Section 344 of Pub. L. 103–325 provided that: “Not later than 6 months after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act \[15 U.S.C. 1635\] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
+Pub. L. 103–325, title III, §344, Sept. 23, 1994, 108 Stat. 2239, provided that: “Not later than 6 months after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act \[15 U.S.C. 1635\] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
 

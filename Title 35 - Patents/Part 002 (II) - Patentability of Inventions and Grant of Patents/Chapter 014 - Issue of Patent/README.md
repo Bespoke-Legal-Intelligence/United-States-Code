@@ -6,18 +6,11 @@
 | [152\.](%C2%A7%2000152%20-%20Issue%20of%20patent%20to%20assignee.md) | Issue of patent to assignee. |
 | [153\.](%C2%A7%2000153%20-%20How%20issued.md) | How issued. |
 | [154\.](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent%3B%20provisional%20rights.md) | Contents and term of patent; provisional rights. |
-| [155\.](%C2%A7%2000155%20-%20Patent%20term%20extension.md) | Patent term extension. |
-| [155A.](%C2%A7%2000155A%20-%20Patent%20term%20restoration.md) | Patent term restoration. |
+| \[155, 155A. Repealed.\] |  |
 | [156\.](%C2%A7%2000156%20-%20Extension%20of%20patent%20term.md) | Extension of patent term. |
-| [157\.](%C2%A7%2000157%20-%20Statutory%20invention%20registration.md) | Statutory invention registration. |
+| \[157. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §20(k), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this analysis is amended by striking out items 155 and 155A. See 2011 Amendment notes below.</i>
-
-<i>Pub. L. 112–29, §3(e)(1), (3), Sept. 16, 2011, 125 Stat. 287, 288, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to any request for a statutory invention registration filed on or after that effective date, this analysis is amended by striking out item 157. See 2011 Amendment notes below.</i>
 
 #### Amendments
 
@@ -46,7 +39,6 @@ Pub. L. 97–414, §11(b), Jan. 4, 1983, 96 Stat. 2066, added item 155.
 - [&sect; 00152 - Issue of patent to assignee](%C2%A7%2000152%20-%20Issue%20of%20patent%20to%20assignee.md)
 - [&sect; 00153 - How issued](%C2%A7%2000153%20-%20How%20issued.md)
 - [&sect; 00154 - Contents and term of patent; provisional rights](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent%3B%20provisional%20rights.md)
-- [&sect; 00155 - Patent term extension](%C2%A7%2000155%20-%20Patent%20term%20extension.md)
-- [&sect; 00155A - Patent term restoration](%C2%A7%2000155A%20-%20Patent%20term%20restoration.md)
+- [&sect; 00155, 155A - Repealed. Pub. L. 112&#8211;29, &sect;20(k), Sept. 16, 2011, 125 Stat. 335](%C2%A7%2000155%2C%20155A%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9329%2C%20%C2%A720%28k%29%2C%20Sept.%2016%2C%202011%2C%20125%20Stat.%20335.md)
 - [&sect; 00156 - Extension of patent term](%C2%A7%2000156%20-%20Extension%20of%20patent%20term.md)
-- [&sect; 00157 - Statutory invention registration](%C2%A7%2000157%20-%20Statutory%20invention%20registration.md)
+- [&sect; 00157 - Repealed. Pub. L. 112&#8211;29, &sect;3(e)(1), Sept. 16, 2011, 125 Stat. 287](%C2%A7%2000157%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9329%2C%20%C2%A73%28e%29%281%29%2C%20Sept.%2016%2C%202011%2C%20125%20Stat.%20287.md)

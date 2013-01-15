@@ -1,6 +1,6 @@
 ### §282b. Compensation
 
-(a) The Legislative Counsel shall be paid at a per annum gross rate equal to the rate of basicpay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5.
+(a) The Legislative Counsel shall be paid at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5.
 
 (b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
 
@@ -24,5 +24,5 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 
 #### Increases in Compensation
 
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch AppropriationsAct, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 

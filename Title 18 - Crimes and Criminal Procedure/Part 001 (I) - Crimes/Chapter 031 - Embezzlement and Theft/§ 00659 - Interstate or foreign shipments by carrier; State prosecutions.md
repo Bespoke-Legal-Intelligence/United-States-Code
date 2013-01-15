@@ -8,7 +8,7 @@ Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or dec
 
 Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
-Shall be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both.
+Shall be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both. If the offense involves a pre-retail medical product (as defined in section 670), it shall be punished under section 670 unless the penalties provided for under this section are greater.
 
 The offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said money, baggage, goods, or chattels.
 
@@ -18,7 +18,7 @@ To establish the interstate or foreign commerce character of any shipment in any
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Pub. L. 89–654, §1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 109–177, title III, §307(a), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Pub. L. 89–654, §1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 109–177, title III, §307(a), Mar. 9, 2006, 120 Stat. 240; Pub. L. 112–186, §4(a), Oct. 5, 2012, 126 Stat. 1428.)
 
 #### Historical and Revision Notes
 
@@ -46,11 +46,13 @@ The “corrective legislation”, referred to in this paragraph, became Act Apri
 
 #### Amendments
 
+<b>2012</b>—Pub. L. 112–186 inserted at end of fifth par. “If the offense involves a pre-retail medical product (as defined in section 670), it shall be punished under section 670 unless the penalties provided for under this section are greater.”
+
 <b>2006</b>—Pub. L. 109–177, in first par., inserted “trailer,” after “motortruck,”, “air cargo container,” after “aircraft,”, and “, or from any intermodal container, trailer, container freight station, warehouse, or freight consolidation facility,” after “air navigation facility”, in fifth par., substituted “be fined under this title or imprisoned not more than 10 years, or both, but if the amount or value of such money, baggage, goods, or chattels is less than $1,000, shall be fined under this title or imprisoned for not more than 3 years, or both” for “in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both”, and, in eighth par., inserted “For purposes of this section, goods and chattel shall be construed to be moving as an interstate or foreign shipment at all points between the point of origin and the final destination (as evidenced by the waybill or other shipping document of the shipment), regardless of any temporary stop while awaiting transshipment or otherwise.” after first sentence.
 
 <b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100” in fifth par.
 
-<b>1994</b>—Pub. L. 103–322, in fifth par., substituted “fined under this title” for “fined not more than $5,000” after“Shall in each case be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, in fifth par., substituted “fined under this title” for “fined not more than $5,000” after “Shall in each case be” and for “fined not more than $1,000” after “he shall be”.
 
 <b>1966</b>—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in first par., provided in eighth par. that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in ninth par., prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 

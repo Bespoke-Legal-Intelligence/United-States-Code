@@ -12,7 +12,7 @@
 | [108\.](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md) | Pipeline and Hazardous Materials Safety Administration. |
 | [109\.](%C2%A7%2000109%20-%20Maritime%20Administration.md) | Maritime Administration. |
 | [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
-| [111\.](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md) | Bureau of Transportation Statistics. |
+| \[111. | Repealed.\] |
 | [112\.](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md) | Research and Innovative Technology Administration. |
 | [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 | [114\.](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. E, title II, §52011(c)(1), July 6, 2012, 126 Stat. 895, struck out item 111 “Bureau of Transportation Statistics”.
 
 <b>2004</b>—Pub. L. 108–426, §§2(c)(1), 4(e), Nov. 30, 2004, 118 Stat. 2424, 2426, substituted “Pipeline and Hazardous Materials Safety Administration” for “Coast Guard” in item 108 and “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in item 112.
 
@@ -49,7 +51,7 @@
 - [&sect; 00108 - Pipeline and Hazardous Materials Safety Administration](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md)
 - [&sect; 00109 - Maritime Administration](%C2%A7%2000109%20-%20Maritime%20Administration.md)
 - [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
-- [&sect; 00111 - Bureau of Transportation Statistics](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md)
+- [&sect; 00111 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52011(c)(1), July 6, 2012, 126 Stat. 895](%C2%A7%2000111%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752011%28c%29%281%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20895.md)
 - [&sect; 00112 - Research and Innovative Technology Administration](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md)
 - [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)
 - [&sect; 00114 - Transportation Security Administration](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md)

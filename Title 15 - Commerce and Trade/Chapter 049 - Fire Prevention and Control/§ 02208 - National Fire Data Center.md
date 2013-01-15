@@ -36,17 +36,13 @@ The Administrator shall insure dissemination to the maximum extent possible of f
 
 #### (d) National Fire Incident Reporting System update
 
-#### (1) In general
+The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
 
-&emsp;The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
-
-#### (2) Limitation
-
-&emsp;Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of section 2216(g)(1) of this title, the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).
-
-(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059.)
+(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059; Pub. L. 112–239, div. A, title XVIII, §1815, Jan. 2, 2013, 126 Stat. 2118.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of section 2216(g)(1) of this title, the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).”
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–376, §5(b), substituted “assist Federal, State,” for “assist State,”.
 

@@ -10,13 +10,13 @@ The amount of the rehabilitation subsidy shall be moderate and shall generally n
 
 #### (c) Additional restrictions
 
-The guidelines of the model program shall generally comport with the additional protections and restrictions specified under section 1437<i>o</i>(c) <sup>1</sup> of this title.
+The guidelines of the model program shall generally comport with the additional protections and restrictions specified under section 1437o(c) <sup>1</sup> of this title.
 
 (Pub. L. 101–625, title II, §253, Nov. 28, 1990, 104 Stat. 4121.)
 
 #### References in Text
 
-Section 1437<i>o</i> of this title, referred to in subsec. (c), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+Section 1437o of this title, referred to in subsec. (c), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

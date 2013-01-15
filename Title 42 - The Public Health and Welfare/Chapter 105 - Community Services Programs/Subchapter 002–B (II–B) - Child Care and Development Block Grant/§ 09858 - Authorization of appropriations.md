@@ -12,7 +12,7 @@ There is authorized to be appropriated to carry out this subchapter $1,000,000,0
 
 #### Effective Date of 1996 Amendment
 
-Section 615 of title VI of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title VI, §615, Aug. 22, 1996, 110 Stat. 2287, provided that:
 
 “(a)
 
@@ -182,7 +182,7 @@ Indian community.—The term ‘Indian community’ means a community served by 
 
 &emsp;“(3)
 
-Indian tribe; tribal organization.—The terms ‘Indian tribe’ and ‘tribal organization’ have the meanings given the terms in section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n).
+Indian tribe; tribal organization.—The terms ‘Indian tribe’ and ‘tribal organization’ have themeanings given the terms in section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n).
 
 &emsp;“(4)
 
@@ -208,7 +208,7 @@ Geographic references.—The term ‘State’ includes an Indian community in su
 
 State-level activities.—The term ‘State-level activities’ includes activities at the tribal level.
 
-“(<i>l</i>)
+“(l)
 
 Authorization of Appropriations.—
 
@@ -226,7 +226,7 @@ Termination of Program.—The program established under subsection (a) shall ter
 
 #### Goals of Subchapter
 
-Section 658A(b) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: “The goals of this subchapter are—
+Pub. L. 97–35, title VI, §658A(b), as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: “The goals of this subchapter \[subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, enacting this subchapter\] are—
 
 &emsp;“(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within such State;
 

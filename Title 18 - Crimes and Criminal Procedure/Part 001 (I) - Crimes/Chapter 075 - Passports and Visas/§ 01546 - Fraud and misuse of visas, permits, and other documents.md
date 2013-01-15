@@ -6,7 +6,7 @@ Whoever, except under direction of the Attorney General or the Commissioner of t
 
 Whoever, when applying for an immigrant or nonimmigrant visa, permit, or other document required for entry into the United States, or for admission to the United States personates another, or falsely appears in the name of a deceased individual, or evades or attempts to evade the immigration laws by appearing under an assumed or fictitious name without disclosing his true identity, or sells or otherwise disposes of, or offers to sell or otherwise dispose of, or utters, such visa, permit, or other document, to any person not authorized by law to receive such document; or
 
-Whoever knowingly makes under oath, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true, any false statement with respect to a material fact in any application, affidavit, or other document required by the immigration laws or regulations prescribed thereunder, or knowingly presents any such application, affidavit, or other document which contains any such false statement or which fails to contain any reasonable basis in law or fact—
+Whoever knowingly makes under oath, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true, any false statementwith respect to a material fact in any application, affidavit, or other document required by the immigration laws or regulations prescribed thereunder, or knowingly presents any such application, affidavit, or other document which contains any such false statement or which fails to contain any reasonable basis in law or fact—
 
 Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
@@ -20,7 +20,7 @@ Shall be fined under this title or imprisoned not more than 25 years (if the off
 
 > for the purpose of satisfying a requirement of section 274A(b) of the Immigration and Nationality Act, shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18U.S.C. note prec. 3481).<sup>1</sup> For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).<sup>1</sup> For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Pub. L. 94–550, §5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, §103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, §2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, §3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, §607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
@@ -72,7 +72,7 @@ Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to o
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(p) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 3550 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made bythat section is effective as of the date on which section 3550 of Pub. L. 101–647 took effect.
 
 #### Effective Date of 1988 Amendment
 

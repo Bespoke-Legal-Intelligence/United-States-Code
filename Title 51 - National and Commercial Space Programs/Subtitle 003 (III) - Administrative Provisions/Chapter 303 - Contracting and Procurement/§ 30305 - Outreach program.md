@@ -18,7 +18,7 @@ Creating network.—Creating a network of academic institutions, aerospace contr
 
 &emsp;(3)
 
-Creating network of economic development organizations.—Creating a network of economic development organizations to increase the awareness and enhance the effectiveness of the program nationwide.
+Creating network of economic development organizations.—Creating a network ofeconomic development organizations to increase the awareness and enhance the effectiveness of the program nationwide.
 
 (c)
 

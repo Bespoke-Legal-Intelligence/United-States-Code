@@ -132,5 +132,5 @@ Compromise, modification, and remittal.—The Secretary may compromise, modify, 
 
 #### International Convention for Safety of Life at Sea
 
-For International Conventions for the Safety of Life at Sea to which the United States has been a party, seesection 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 

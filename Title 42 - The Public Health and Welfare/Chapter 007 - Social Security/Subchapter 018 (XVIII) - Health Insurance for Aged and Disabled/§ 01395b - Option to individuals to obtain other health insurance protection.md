@@ -38,7 +38,7 @@ Railroad unemployment contributions.—For purposes of the Railroad Unemployment
 
 &emsp;“(3)
 
-Railroad unemployment repayment tax.—For purposes of chapter 23A of the Internal Revenue Code of 1986 \[26 U.S.C. 3321 et seq.\], the term ‘rail wages’shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
+Railroad unemployment repayment tax.—For purposes of chapter 23A of the Internal Revenue Code of 1986 \[26 U.S.C. 3321 et seq.\], the term ‘rail wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 “(d)
 

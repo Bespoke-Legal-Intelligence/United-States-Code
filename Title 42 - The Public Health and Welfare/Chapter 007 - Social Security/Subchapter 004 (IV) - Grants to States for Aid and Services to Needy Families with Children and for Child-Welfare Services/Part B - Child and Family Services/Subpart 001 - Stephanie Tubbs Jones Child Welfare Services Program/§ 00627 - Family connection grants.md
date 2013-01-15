@@ -110,5 +110,5 @@ A prior section 627, act Aug. 14, 1935, ch. 531, title IV, §427, as added June 
 
 #### Effective Date
 
-Section effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter forquarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as an Effective Date of 2008 Amendment note under section 671 of this title.
+Section effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as an Effective Date of 2008 Amendment note under section 671 of this title.
 

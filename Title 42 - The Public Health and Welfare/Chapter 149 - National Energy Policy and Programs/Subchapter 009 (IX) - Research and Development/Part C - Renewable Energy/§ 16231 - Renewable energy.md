@@ -24,7 +24,7 @@
 
 #### (A) Solar energy
 
-&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, andcommercial application for solar energy, including—
+&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for solar energy, including—
 
 &emsp;&emsp;&emsp;(i) photovoltaics;
 

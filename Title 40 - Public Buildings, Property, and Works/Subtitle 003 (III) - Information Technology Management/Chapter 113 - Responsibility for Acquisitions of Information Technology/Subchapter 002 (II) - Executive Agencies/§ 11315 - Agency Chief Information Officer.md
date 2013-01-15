@@ -26,7 +26,7 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
 
-&emsp;&emsp;(B) assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
+&emsp;&emsp;(B) assesses the extent to which the positions and personnel at the executive level ofthe agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 
 &emsp;&emsp;(C) develops strategies and specific plans for hiring, training, and professional development to rectify any deficiency in meeting those requirements; and
 

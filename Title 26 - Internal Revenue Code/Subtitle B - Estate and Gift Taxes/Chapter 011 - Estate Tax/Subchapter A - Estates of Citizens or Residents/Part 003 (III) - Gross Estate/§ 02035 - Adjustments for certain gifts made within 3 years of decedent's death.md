@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 97–34, §424(a), added subsec. (d).
 
 #### Effective Date of 1997 Amendment
 
-Section 1310(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1310(c), Aug. 5, 1997, 111 Stat. 1044, provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -84,11 +84,11 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by section 403(b)(3)(B) of Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
 
-Section 424(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1981.”
+Pub. L. 97–34, title IV, §424(b), Aug. 13, 1981, 95 Stat. 317, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 702(f)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976, except that it shall not apply to transfers made before January 1, 1977.”
+Pub. L. 95–600, title VII, §702(f)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976, except that it shall not apply to transfers made before January 1, 1977.”
 
 #### Effective Date of 1976 Amendment
 

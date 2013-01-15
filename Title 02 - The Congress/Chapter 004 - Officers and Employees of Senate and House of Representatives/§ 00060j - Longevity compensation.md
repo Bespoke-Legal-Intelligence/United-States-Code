@@ -50,7 +50,7 @@ Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 10
 
 <b>1982</b>—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub. L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
 
-<b>1981</b>—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, §4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
+<b>1981</b>—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, §4, see section 9 of Salary Directive ofPresident pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
 
 <b>1980</b>—Subsec. (b)(1). Figure “404” deemed to refer to the figure “441”, effective Oct. 1, 1980, pursuant to Pub. L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, set out as a note under section 60a–1 of this title.
 
@@ -92,13 +92,13 @@ Pub. L. 90–57 substituted in first sentence “gross compensation” and “$5
 
 #### Effective Date of 1980 Amendment
 
-Section 107(d) of Pub. L. 96–304 provided that: “The amendments made by this section \[amending this section and sections 60j–3 and 61–1 of this title\] shall take effect on October 1, 1980.”
+Pub. L. 96–304, title I, §107(d), July 8, 1980, 94 Stat. 890, provided that: “The amendments made by this section \[amending this section and sections 60j–3 and 61–1 of this title\] shall take effect on October 1, 1980.”
 
 #### Effective Date of 1978 Amendments
 
-Section 110(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
+Pub. L. 95–391, title I, §110(b), Sept. 30, 1978, 92 Stat. 775, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
 
-Section 205 of Pub. L. 95–240 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 #### Effective Date of 1967 Amendments
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 88–454 effective Sept. 1, 1964, see section 104(d) of Pub
 
 #### Effective Date
 
-Section 106(e) of Pub. L. 87–730 provided that: “This section \[enacting this section and amending section 60i of this title\] shall become effective on September 1, 1962.”
+Pub. L. 87–730, §106(e), Oct. 2, 1962, 76 Stat. 695, provided that: “This section \[enacting this section and amending section 60i of this title\] shall become effective on September 1, 1962.”
 
 #### Transfer of Functions
 

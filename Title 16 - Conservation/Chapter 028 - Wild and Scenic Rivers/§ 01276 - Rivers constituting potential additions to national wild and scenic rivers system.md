@@ -16,7 +16,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (6) Delaware, Pennsylvania and New York: The segment from Hancock, New York, to Matamoras, Pennsylvania.
 
-(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with the South Fork; and the South Fork from its origin to Hungry Horse Reservoir.
+(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with theSouth Fork; and the South Fork from its origin to Hungry Horse Reservoir.
 
 (8) Gasconade, Missouri: The entire river.
 
@@ -144,7 +144,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (70) Myakka, Florida: The segment south of the southern boundary of the Myakka River State Park.
 
-(71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point onthe south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
+(71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point on the south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
 
 (72) Red, Kentucky: The segment from Highway numbered 746 (also known as Spradlin Bridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
 
@@ -184,7 +184,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (90) Horsepasture, North Carolina: The segment from Bohaynee Road (N.C. 281) downstream to Lake Jocassee.
 
-(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section 1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
+(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
 
 (92) Farmington, West Branch, Connecticut and Massachusetts: The segment from the intersection of the New Hartford-Canton, Connecticut, town line upstream to the base of the West Branch Reservoir in Hartland, Connecticut; and the segment from the confluence with Thorp Brook in Sandisfield, Massachusetts, to Hayden Pond in Otis, Massachusetts.
 
@@ -276,7 +276,7 @@ Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the nort
 
 (115)
 
-Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26, township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
+Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26,township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
 
 (116)
 
@@ -428,7 +428,7 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later thanApril 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -442,7 +442,7 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgiaor their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -492,7 +492,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
 
-(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic andrecreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
@@ -668,7 +668,7 @@ The Delaware and Lehigh Navigation Canal National Heritage Corridor was redesign
 
 #### Effective Date of 1984 Amendment
 
-Section 6 of Pub. L. 98–484 provided that: “The provisions of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1984\].”
+Pub. L. 98–484, §6, Oct. 17, 1984, 98 Stat. 2260, provided that: “The provisions of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1984\].”
 
 #### Genesee River Protection
 

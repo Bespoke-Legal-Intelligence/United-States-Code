@@ -6,7 +6,7 @@ On December 20, 1974, and thereafter at intervals coinciding with anniversary da
 
 #### Codification
 
-Section is comprised of subsec. (c) of section 2 of Pub. L. 89–448, as added by Pub. L. 89–561. Subsecs. (a) and (b) of section 2 are classified to sections 835j and 835k, and 835<i>l</i> of this title, respectively.
+Section is comprised of subsec. (c) of section 2 of Pub. L. 89–448, as added by Pub. L. 89–561. Subsecs. (a) and (b) of section 2 are classified to sections 835j and 835k, and 835l of this title, respectively.
 
 #### Transfer of Functions
 

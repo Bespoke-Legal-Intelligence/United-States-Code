@@ -18,7 +18,7 @@ Act June 6, 1933, ch. 49, §16, formerly §15, as added by Pub. L. 97–300, tit
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
+Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription ofpersonnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
@@ -44,7 +44,7 @@ Pub. L. 93–198, title II, §204(a), Dec. 24, 1973, 87 Stat. 783, provided that
 
 Act July 3, 1948, ch. 823, §1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
 
-Section 2 of act July 3, 1948, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
+Act July 3, 1948, ch. 823, §2, 62 Stat. 1239, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
 
 #### Farm Placement Service
 

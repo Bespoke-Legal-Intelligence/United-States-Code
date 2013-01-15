@@ -130,7 +130,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 &emsp;(A) promptly following October 28, 1992, or upon application by any person, exercise the exemptive authority granted under paragraph (1) with respect to classes of hybrid instruments that are predominantly securities or depository instruments, to the extent that such instruments may be regarded as subject to the provisions of this chapter; or
 
-&emsp;(B) promptly following October 28, 1992, or upon application by any person, exercise the exemptive authority granted under paragraph (1) effective as of October 23, 1974, with respect to classes of swap agreements (as defined in section 101 of title 11) that are not part of afungible class of agreements that are standardized as to their material economic terms, to the extent that such agreements may be regarded as subject to the provisions of this chapter.
+&emsp;(B) promptly following October 28, 1992, or upon application by any person, exercise theexemptive authority granted under paragraph (1) effective as of October 23, 1974, with respect to classes of swap agreements (as defined in section 101 of title 11) that are not part of a fungible class of agreements that are standardized as to their material economic terms, to the extent that such agreements may be regarded as subject to the provisions of this chapter.
 
 > Any exemption pursuant to this paragraph shall be subject to such terms and conditions as the Commission shall determine to be appropriate pursuant to paragraph (1).
 
@@ -186,7 +186,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act Ju
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
+Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule orregulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
 
 Subsec. (b)(1). Pub. L. 111–203, §738(a)(4), added par. (1).
 

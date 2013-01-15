@@ -4,7 +4,7 @@
 
 #### (1) Development and assessment of projects
 
-&emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract,or cooperative agreement for a project under part B or C—
+&emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract, or cooperative agreement for a project under part B or C—
 
 &emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities ages birth through 26 in planning, implementing, and evaluating the project; and
 
@@ -124,11 +124,11 @@ A prior section 1485, Pub. L. 91–230, title VI, §685, as added Pub. L. 105–
 
 Another prior section 1485, Pub. L. 91–230, title VI, §686, formerly §685, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered §686 and amended Pub. L. 102–119, §§20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1486, Pub. L. 91–230, title VI, §686, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 154, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1486, Pub. L. 91–230, title VI, §686, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 154, which authorized appropriations, was omitted inthe general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 A prior section 1487, Pub. L. 91–230, title VI, §687, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 154, which related to technology development, demonstration, and utilization and media services, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Prior sections 1491 to 1491<i>o</i>, which comprised former subchapter IX of this chapter, were repealed by Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1998.
+Prior sections 1491 to 1491o, which comprised former subchapter IX of this chapter, were repealed by Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1998.
 
 Section 1491, Pub. L. 91–230, title VI, §701, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3937, provided that former subchapter IX of this chapter could be cited as the “Families of Children With Disabilities Support Act of 1994”.
 
@@ -154,11 +154,11 @@ Section 1491j, Pub. L. 91–230, title VI, §711, as added Pub. L. 103–382, ti
 
 Section 1491k, Pub. L. 91–230, title VI, §712, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3953, related to technical assistance.
 
-Section 1491<i>l</i>, Pub. L. 91–230, title VI, §713, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3954, related to program evaluation by Secretary.
+Section 1491l, Pub. L. 91–230, title VI, §713, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3954, related to program evaluation by Secretary.
 
 Section 1491m, Pub. L. 91–230, title VI, §714, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to projects of national significance.
 
 Section 1491n, Pub. L. 91–230, title VI, §715, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to construction of provisions of subchapters I through VIII of this chapter as being inapplicable to subchapter IX of this chapter.
 
-Section 1491<i>o</i>, Pub. L. 91–230, title VI, §716, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to authorization of appropriations.
+Section 1491o, Pub. L. 91–230, title VI, §716, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to authorization of appropriations.
 

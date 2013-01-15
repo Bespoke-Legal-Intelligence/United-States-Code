@@ -38,7 +38,7 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX,§902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, §4(b), Dec. 18, 2010, 124 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ In subsection (b)(1)(A), the words “through the day before the date” are sub
 
 #### References in Text
 
-Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, §139(<i>l</i>), Apr. 2, 1982, 96 Stat. 43.
+Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, §139(l), Apr. 2, 1982, 96 Stat. 43.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendment
 
-Section 2(m) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–258, §2(m), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 #### Transfer of Functions
 

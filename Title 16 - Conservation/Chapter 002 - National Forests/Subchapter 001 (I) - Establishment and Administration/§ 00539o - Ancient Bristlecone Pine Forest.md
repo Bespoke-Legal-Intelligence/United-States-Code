@@ -50,7 +50,7 @@ To conserve and protect the Ancient Bristlecone Pines by maintaining near-natura
 
 #### (B) Scientific research
 
-&emsp;&emsp;Scientific research shall be allowed in the Forest in accordance with the Inyo National Forest Land and Resource Management Plan (as in effect on March 30, 2009).
+&emsp;&emsp;Scientific research shall be allowed in the Forest in accordance with the Inyo NationalForest Land and Resource Management Plan (as in effect on March 30, 2009).
 
 #### (3) Withdrawal
 

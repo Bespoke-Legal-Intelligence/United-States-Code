@@ -1,6 +1,6 @@
 ### §582. Puerto Rico; application of forest protection laws
 
-The provisions of sections 515, 564, 565,<sup>1</sup> and 569 of this title are extended to the Territory of Puerto Rico, and the Secretary of Agriculture is authorized to cooperate with the appropriate officials of Puerto Rico on the same terms and conditions as with the States: <i>Provided</i>, That not to exceed fifty thousand acres of land may be acquired in Puerto Rico under section 515 of this title.
+The provisions of sections 515, 564, 565,<sup>1</sup> and 569 of this title are extended to the Territory of Puerto Rico, and the Secretary of Agriculture is authorized to cooperate with the appropriate officials of Puerto Rico on the same terms and conditions as with the States: <i>Provided</i>, That notto exceed fifty thousand acres of land may be acquired in Puerto Rico under section 515 of this title.
 
 (Mar. 3, 1931, ch. 452, 46 Stat. 1516; May 17, 1932, ch. 190, 47 Stat. 158.)
 

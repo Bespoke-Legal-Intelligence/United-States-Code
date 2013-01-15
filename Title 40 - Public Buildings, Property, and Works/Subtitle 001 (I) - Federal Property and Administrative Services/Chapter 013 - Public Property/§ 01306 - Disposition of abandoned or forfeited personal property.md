@@ -30,7 +30,7 @@ Agency retains property.—An agency that seizes property that has been forfeite
 
 &emsp;(2)
 
-Agency does not desire to retain property.—If the agency does not desire to retainthe property, the head of the agency immediately shall notify the Administrator to that effect, and the property—
+Agency does not desire to retain property.—If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator to that effect, and the property—
 
 &emsp;&emsp;(A) if not ordered by competent authority to be returned to any claimant, or disposed of as otherwise provided by law, shall be delivered by the agency, on order of the Administrator given within a reasonable time, to another agency that requests the property and that the Administrator believes should be given the property; or
 

@@ -112,7 +112,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
+(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(o)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Subsec. (f)(3)(B). Pub. L. 110–289, §1161(c)(3)(B)(iii), substituted “Direc
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–550, §1382(<i>o</i>), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
+<b>1992</b>—Subsec. (b). Pub. L. 102–550, §1382(o), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
 
 Subsecs. (c) to (g). Pub. L. 102–550, §1382(p)–(t), added subsecs. (c) to (g).
 
@@ -144,7 +144,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 1989 Amendment
 
-Section 731(j)(2) of Pub. L. 101–73 provided that: “The amendment made by this subsection \[amending this section\] shall not apply to any assertion of priority by the Federal Home Loan Mortgage Corporation with respect to any cause of action or claim filed before the date of the enactment of this Act \[Aug. 9, 1989\].”
+Pub. L. 101–73, title VII, §731(j)(2), Aug. 9, 1989, 103 Stat. 435, provided that: “The amendment made by this subsection \[amending this section\] shall not apply to any assertion of priority by the Federal Home Loan Mortgage Corporation with respect to any cause of action or claim filed before the date of the enactment of this Act \[Aug. 9, 1989\].”
 
 #### Termination of Advisory Councils
 

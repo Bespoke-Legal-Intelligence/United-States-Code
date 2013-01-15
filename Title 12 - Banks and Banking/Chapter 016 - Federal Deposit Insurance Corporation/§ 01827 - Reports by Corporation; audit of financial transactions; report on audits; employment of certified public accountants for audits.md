@@ -74,7 +74,7 @@ The financial transactions of the Corporation shall be audited by the Government
 
 #### (f) Report of audit
 
-A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary ofthe Treasury, and to the Corporation at the time submitted to the Congress.
+A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the closeof the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary of the Treasury, and to the Corporation at the time submitted to the Congress.
 
 #### (g) Assistance in audit; costs
 
@@ -156,7 +156,7 @@ RTC report.—The Chairperson of the Thrift Depositor Protection Oversight Board
 
 &emsp;“(2)
 
-SAIF report.—The Chairperson of the Federal Deposit Insurance Corporation shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a final report containing a detaileddescription of the purposes for which the funds made available to the Savings Association Insurance Fund under this Act were used.
+SAIF report.—The Chairperson of the Federal Deposit Insurance Corporation shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a final report containing a detailed description of the purposes for which the funds made available to the Savings Association Insurance Fund under this Act were used.
 
 “(b)
 
@@ -168,7 +168,7 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 
 #### Report to Congress on Risk-Based Assessments
 
-Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+Pub. L. 101–73, title II, §220(b)(1), Aug. 9, 1989, 103 Stat. 265, directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

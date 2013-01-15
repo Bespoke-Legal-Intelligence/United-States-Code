@@ -176,11 +176,11 @@ Subsec. (d)(2). Pub. L. 100–628, §501(4)(C), substituted “With respect to p
 
 #### Effective Date of 1990 Amendment
 
-Section 401(b) of Pub. L. 101–645 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective 90 days after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–645, title IV, §401(b), Nov. 29, 1990, 104 Stat. 4723, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective 90 days after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Regulations
 
-Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
+Pub. L. 101–645, title IV, §401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 
@@ -204,5 +204,5 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
-Section 401(c) of Pub. L. 101–645, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “For purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
+Pub. L. 101–645, title IV, §401(c), Nov. 29, 1990, 104 Stat. 4723, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “For purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
 

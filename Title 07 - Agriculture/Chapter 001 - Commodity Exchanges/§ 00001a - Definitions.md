@@ -6,7 +6,7 @@ As used in this chapter:
 
 &emsp;The term “alternative trading system” means an organization, association, or group of persons that—
 
-&emsp;&emsp;(A) is registered as a broker or dealer pursuant to section 15(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>(b)\] (except paragraph (11) thereof);
+&emsp;&emsp;(A) is registered as a broker or dealer pursuant to section 15(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78o(b)\] (except paragraph (11) thereof);
 
 &emsp;&emsp;(B) performs the functions commonly performed by an exchange (as defined in section 3(a)(1) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(1)\]);
 
@@ -278,7 +278,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii)(I) a broker or dealer subject to regulation under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation, except that, if the broker or dealer or foreign person is a natural person or proprietorship, the broker or dealer or foreign person shall not be considered to be an eligible contract participant unless the broker or dealer or foreign person also meets the requirements of clause (v) or (xi);
 
-&emsp;&emsp;&emsp;(II) an associated person of a registered broker or dealer concerning the financial or securities activities of which the registered person makes and keeps records under section 15C(b) or 17(h) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>–5(b), 78q(h));
+&emsp;&emsp;&emsp;(II) an associated person of a registered broker or dealer concerning the financial or securities activities of which the registered person makes and keeps records under section 15C(b) or 17(h) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–5(b), 78q(h));
 
 &emsp;&emsp;&emsp;(III) an investment bank holding company (as defined in section 17(i) <sup>2</sup> of the Securities Exchange Act of 1934 (15 U.S.C. 78q(i)); <sup>3</sup>
 
@@ -536,7 +536,7 @@ As used in this chapter:
 
 &emsp;&emsp;(III) each component security is—
 
-&emsp;&emsp;&emsp;(aa) registered pursuant to section 12 of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>l</i>\];
+&emsp;&emsp;&emsp;(aa) registered pursuant to section 12 of the Securities Exchange Act of 1934 \[15 U.S.C. 78l\];
 
 &emsp;&emsp;&emsp;(bb) one of 750 securities with the largest market capitalization; and
 
@@ -1058,7 +1058,7 @@ Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective 
 
 #### Effective Date
 
-Section 403 of Pub. L. 102–546 provided that: “Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title,repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–546, title IV, §403, Oct. 28, 1992, 106 Stat. 3625, provided that: “Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16,18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\].”
 
 #### Other Authority
 

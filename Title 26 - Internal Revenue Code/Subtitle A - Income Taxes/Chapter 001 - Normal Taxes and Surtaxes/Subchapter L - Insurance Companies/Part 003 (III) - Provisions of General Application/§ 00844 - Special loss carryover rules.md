@@ -62,7 +62,7 @@ Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable year
 
 #### Effective Date
 
-Section 907(d) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending sections 805 and 810 of this title\] shall apply to taxable years beginning after December 31, 1957. The amendments made by subsection (b) \[amending section 815 of this title\] shall apply to taxable years beginning after December 31, 1968. The amendments made by subsection (c) \[enacting this section and amending sections 809, 823, and 825 of this title\] shall apply with respect to losses incurred in taxable years beginning after December 31, 1962, but shall not affect any tax liability for any taxable year beginning before January 1, 1967.”
+Pub. L. 91–172, title IX, §907(d), Dec. 30, 1969, 83 Stat. 717, provided that: “The amendments made by subsection (a) \[amending sections 805 and 810 of this title\] shall apply to taxable years beginning after December 31, 1957. The amendments made by subsection (b) \[amending section 815 of this title\] shall apply to taxable years beginning after December 31, 1968. The amendments made by subsection (c) \[enacting this section and amending sections 809, 823, and 825 of this title\] shall apply with respect to losses incurred in taxable years beginning after December 31, 1962, but shall not affect any tax liability for any taxable year beginning before January 1, 1967.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

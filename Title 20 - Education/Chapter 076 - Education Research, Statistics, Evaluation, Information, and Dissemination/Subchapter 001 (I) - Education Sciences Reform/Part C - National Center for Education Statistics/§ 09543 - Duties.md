@@ -2,7 +2,7 @@
 
 #### (a) General duties
 
-The Statistics Center shall collect, report, analyze, and disseminate statistical data related to education in the United States and in other nations, including—
+The Statistics Center shall collect, report, analyze, and disseminate statistical data relatedto education in the United States and in other nations, including—
 
 &emsp;(1) collecting, acquiring, compiling (where appropriate, on a State-by-State basis), and disseminating full and complete statistics (disaggregated by the population characteristics described in paragraph (3)) on the condition and progress of education, at the preschool, elementary, secondary, postsecondary, and adult levels in the United States, including data on—
 
@@ -50,7 +50,7 @@ The Statistics Center shall collect, report, analyze, and disseminate statistica
 
 &emsp;(3) collecting, analyzing, cross-tabulating, and reporting, to the extent feasible, information by gender, race, ethnicity, socioeconomic status, limited English proficiency, mobility, disability, urban, rural, suburban districts, and other population characteristics, when such disaggregated information will facilitate educational and policy decisionmaking;
 
-&emsp;(4) assisting public and private educational agencies, organizations, and institutions in improving and automating statistical and data collection activities, which may include assisting State educational agencies and localeducational agencies with the disaggregation of data and with the development of longitudinal student data systems;
+&emsp;(4) assisting public and private educational agencies, organizations, and institutions in improving and automating statistical and data collection activities, which may include assisting State educational agencies and local educational agencies with the disaggregation of data and with the development of longitudinal student data systems;
 
 &emsp;(5) determining voluntary standards and guidelines to assist State educational agencies in developing statewide longitudinal data systems that link individual student data consistent with the requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), promote linkages across States, and protect student privacy consistent with section 9573 of this title, to improve student academic achievement and close achievement gaps;
 

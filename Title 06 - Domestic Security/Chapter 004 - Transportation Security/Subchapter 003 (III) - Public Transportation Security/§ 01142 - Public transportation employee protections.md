@@ -18,7 +18,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 &emsp;(4) to cooperate with a safety or security investigation by the Secretary of Transportation, the Secretary of Homeland Security, or the National Transportation Safety Board; or
 
-&emsp;(5) to furnish information to the Secretary of Transportation, the Secretary of Homeland Security, the National Transportation SafetyBoard, or any Federal, State, or local regulatory or law enforcement agency as to the facts relating to any accident or incident resulting in injury or death to an individual or damage to property occurring in connection with public transportation.
+&emsp;(5) to furnish information to the Secretary of Transportation, the Secretary of Homeland Security, the National Transportation Safety Board, or any Federal, State, or local regulatory or law enforcement agency as to the facts relating to any accident or incident resulting in injury or death to an individual or damage to property occurring in connection with public transportation.
 
 #### (b) Hazardous safety or security conditions
 
@@ -48,7 +48,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (1) Filing and notification
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) or (b) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination. Upon receipt of a complaint filed under this paragraph, the Secretary of Labor shall notify, in writing, the person named in the complaint and the person's employer of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) or (b) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination. Upon receipt of a complaint filed under thisparagraph, the Secretary of Labor shall notify, in writing, the person named in the complaint and the person's employer of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation; preliminary order
 
@@ -100,7 +100,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (A) Appeal to Court of Appeals
 
-&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit inwhich the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 #### (B) Limitation on collateral attack
 

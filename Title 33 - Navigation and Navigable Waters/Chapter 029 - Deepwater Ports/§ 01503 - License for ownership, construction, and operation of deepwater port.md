@@ -78,7 +78,7 @@ The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title andchapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
@@ -108,7 +108,7 @@ Subsec. (e)(2). Pub. L. 104–324, §504(d), substituted “his license” for �
 
 Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(<i>l</i>) of this title;”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(l) of this title;”.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 

@@ -48,7 +48,7 @@ No information shall be required to be furnished under this section with respect
 
 &emsp;&emsp;<b>For provisions relating to penalties for violations of this section, sections 6679 and 7203.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L. 87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L.87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 86–780 inserted the provisions defining United States sha
 
 #### Effective Date of 1997 Amendment
 
-Section 1146(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–34, title XI, §1146(b), Aug. 5, 1997, 111 Stat. 986, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1998.”
 
 #### Effective Date of 1988 Amendment
 
@@ -120,13 +120,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1982 Amendment
 
-Section 341(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and section 6048 of this title\] shall apply to returns filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §341(c), Sept. 3, 1982, 96 Stat. 635, provided that: “The amendments made by this section \[amending this section and section 6048 of this title\] shall apply to returns filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 20(e)(2) of Pub. L. 87–834 provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1963.”
+Pub. L. 87–834, §20(e)(2), Oct. 16, 1962, 76 Stat. 1063, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1963.”
 
 #### Effective Date of 1960 Amendment
 
-Section 8 of Pub. L. 86–780 provided that: “The amendments made by section 7 \[amending this section\] shall apply only with respect to foreign corporations created or organized, or reorganized, after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Pub. L. 86–780, §8, Sept. 14, 1960, 74 Stat. 1016, provided that: “The amendments made by section 7 \[amending this section\] shall apply only with respect to foreign corporations created or organized, or reorganized, after the date of the enactment of this Act \[Sept. 14, 1960\].”
 

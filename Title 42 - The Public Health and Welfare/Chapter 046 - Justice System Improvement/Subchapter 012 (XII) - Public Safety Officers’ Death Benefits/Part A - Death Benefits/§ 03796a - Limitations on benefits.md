@@ -2,17 +2,17 @@
 
 No benefit shall be paid under this subchapter—
 
-&emsp;(1) if the death or catastrophic injury was caused by the intentional misconduct of the public safety officer or by such officer's intention to bring about his death or catastrophic injury;
+&emsp;(1) if the fatal or catastrophic injury was caused by the intentional misconduct of the public safety officer or by such officer's intention to bring about his death, disability, or injury;
 
-&emsp;(2) if the public safety officer was voluntarily intoxicated at the time of his death or catastrophic injury;
+&emsp;(2) if the public safety officer was voluntarily intoxicated at the time of his fatal or catastrophic injury;
 
-&emsp;(3) if the public safety officer was performing his duties in a grossly negligent manner at the time of his death or catastrophic injury;
+&emsp;(3) if the public safety officer was performing his duties in a grossly negligent manner at the time of his fatal or catastrophic injury;
 
-&emsp;(4) to any individual who would otherwise be entitled to a benefit under this subchapter if such individual's actions were a substantial contributing factor to the death or catastrophic injury of the public safety officer; or
+&emsp;(4) to any individual who would otherwise be entitled to a benefit under this subchapter if such individual's actions were a substantial contributing factor to the fatal or catastrophic injury of the public safety officer; or
 
 &emsp;(5) with respect to any individual employed in a capacity other than a civilian capacity.
 
-(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, §1164(b), Jan. 5, 2006, 119 Stat. 3120.)
+(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, §1164(b), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 112–239, div. A, title X, §1086(b)(1)(C), Jan. 2, 2013, 126 Stat. 1966.)
 
 #### Prior Provisions
 
@@ -24,9 +24,17 @@ A prior section 1202 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 112–239, §1086(b)(1)(C)(i), substituted “fatal” for “death” wherever appearing except in par. (1) following “bring about his”.
+
+Par. (1). Pub. L. 112–239, §1086(b)(1)(C)(ii), substituted “bring about his death, disability, or injury” for “bring about his death or catastrophic injury”.
+
 <b>2006</b>—Par. (5). Pub. L. 109–162 inserted “with respect” before “to any individual”.
 
 <b>1990</b>—Pars. (1) to (4). Pub. L. 101–647 inserted “or catastrophic injury” after “death” wherever appearing.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of this title.
 
 #### Effective Date of 1990 Amendment
 

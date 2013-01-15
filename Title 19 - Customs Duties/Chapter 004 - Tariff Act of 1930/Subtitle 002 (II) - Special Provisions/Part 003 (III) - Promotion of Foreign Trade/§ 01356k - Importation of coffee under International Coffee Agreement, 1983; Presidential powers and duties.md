@@ -10,7 +10,7 @@ On and after the entry into force of the International Coffee Agreement, 1983, a
 
 &emsp;(4) to take such other action, and issue and enforce such rules and regulations, as he may consider necessary or appropriate in order to implement the obligations of the United States under the agreement.
 
-(Pub. L. 96–599, §2, Dec. 24, 1980, 94 Stat. 3491; Pub. L. 97–276, §161, Oct. 2, 1982, 96 Stat. 1204; Pub. L. 97–446, §154, Jan. 12, 1983, 96 Stat. 2345; Pub. L. 98–120, §1, Oct. 12, 1983, 97 Stat. 809; Pub. L. 100–418, title I, §1123(a), Aug. 23, 1988, 102 Stat. 1146.)
+(Pub. L. 96–599, §2, Dec. 24, 1980, 94 Stat. 3491; Pub. L. 97–276, §161, Oct. 2, 1982, 96 Stat. 1204; Pub. L. 97–446, §154, Jan. 12, 1983, 96 Stat. 2345;Pub. L. 98–120, §1, Oct. 12, 1983, 97 Stat. 809; Pub. L. 100–418, title I, §1123(a), Aug. 23, 1988, 102 Stat. 1146.)
 
 #### References in Text
 
@@ -32,9 +32,9 @@ Pub. L. 97–446 substituted “October 1, 1983” for “the expiration of this
 
 #### Effective Date of 1988 Amendment
 
-Section 1123(b) of Pub. L. 100–418 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1987.”
+Pub. L. 100–418, title I, §1123(b), Aug. 23, 1988, 102 Stat. 1146, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1987.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–599 provided that: “This Act \[enacting this section and sections 1356<i>l</i> to 1356n of this title\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
+Pub. L. 96–599, §1, Dec. 24, 1980, 94 Stat. 3491, provided that: “This Act \[enacting this section and sections 1356l to 1356n of this title\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
 

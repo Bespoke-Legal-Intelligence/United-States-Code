@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Fish and Wildlife Foundation (hereinafter in this chapterreferred to as the “Foundation”). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
+There is established the National Fish and Wildlife Foundation (hereinafter in this chapter referred to as the “Foundation”). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
 
 #### (b) Purposes
 
@@ -42,7 +42,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §901\], Oct. 21, 1998, 112 Stat
 
 #### Short Title of 1994 Amendment
 
-Section 101 of title I of Pub. L. 103–232 provided that: “This title \[amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
+Pub. L. 103–232, title I, §101, Apr. 11, 1994, 108 Stat. 336, provided that: “This title \[amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -50,5 +50,5 @@ Pub. L. 101–593, title I, §110(a), Nov. 16, 1990, 104 Stat. 2959, provided th
 
 #### Short Title
 
-Section 1 of Pub. L. 98–244 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act’.”
+Pub. L. 98–244, §1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act’.”
 

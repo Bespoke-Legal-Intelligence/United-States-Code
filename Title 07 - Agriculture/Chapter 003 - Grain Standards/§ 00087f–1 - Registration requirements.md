@@ -50,7 +50,7 @@ The Secretary may suspend or revoke any certificate of registration issued under
 
 The Secretary shall charge and collect fees from any person registered under this section. The amount of such fees shall be determined on the basis of the costs of the Secretary in administering the registration required by this section. Such fees shall be deposited in, and used as part of, the fund described in section 79(j) of this title.
 
-(Aug. 11, 1916, ch. 313, pt. B, §17A, as added Pub. L. 94–582, §22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, §1604(<i>l</i>), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, §12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §17A, as added Pub. L. 94–582, §22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, §1604(l), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, §12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

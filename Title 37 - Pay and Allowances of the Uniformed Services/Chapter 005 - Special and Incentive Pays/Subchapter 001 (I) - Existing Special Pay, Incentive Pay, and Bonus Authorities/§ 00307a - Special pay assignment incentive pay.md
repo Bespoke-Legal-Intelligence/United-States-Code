@@ -30,7 +30,7 @@ Maximum Rate or Amount.—(1) The maximum monthly rate of incentive pay payable 
 
 (d)
 
-Repayment.—A member who enters into an agreement under this section and receives incentive pay under the agreement in a lump sum or installments, but who fails to complete the period of service covered by the payment, whether voluntarily or because of misconduct, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A member who enters into an agreement under this section and receives incentive pay under the agreement in a lump sum or installments, but who fails to complete the period of service covered by the payment, whether voluntarily or because of misconduct, shall besubject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 
@@ -46,11 +46,13 @@ Status Not Affected by Temporary Duty or Leave.—The service of a member in an 
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2012.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -94,7 +96,7 @@ Subsec. (f). Pub. L. 108–375, §614(b), substituted “December 31, 2006” fo
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: “Paragraph (2) of section307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
+Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: “Paragraph (2) of section 307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
 #### Savings Provision
 
@@ -110,7 +112,7 @@ Payment.—The Secretary of a military department may pay assignment incentive p
 
 “(b)
 
-Eligibility Period.—The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active duty during the member's most recent period of mobilization to active duty began before January 19, 2007.
+Eligibility Period.—The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active dutyduring the member's most recent period of mobilization to active duty began before January 19, 2007.
 
 “(c)
 

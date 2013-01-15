@@ -2,7 +2,7 @@
 
 #### (a) Short-term and medium-term goals
 
-In conjunction with its review of the Economic Report, and the holding of hearings on the Economic Report under the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the Joint Economic Committee shall review and analyze theshort-term and medium-term goals set forth in the Economic Report pursuant to section 3(a)(2) and 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022(a)(2), 1022a(b)\].
+In conjunction with its review of the Economic Report, and the holding of hearings on the Economic Report under the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the Joint Economic Committee shall review and analyze the short-term and medium-term goals set forth in the Economic Report pursuant to section 3(a)(2) and 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022(a)(2), 1022a(b)\].
 
 #### (b) Hearings
 
@@ -20,5 +20,5 @@ On or before March 15 of each year, a majority of the members of the Joint Econo
 
 #### References in Text
 
-The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended,which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 

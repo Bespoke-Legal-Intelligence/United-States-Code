@@ -4,11 +4,11 @@
 
 #### (1) <sup>1</sup> In general
 
-&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
+&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program establishedunder this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
 
 &emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
 
-&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
+&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
 #### (b) Functions of system
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the first followup review conducted by the State educational agency of the local educational agency under this section after July 1, 2005, the date that is 60 days after the beginning of the period under clause (i); or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the State educational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the Stateeducational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
 
 #### (5) Use of retained funds
 
@@ -248,7 +248,7 @@ Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struc
 
 Subsec. (b)(6). Pub. L. 111–296, §304, added par. (6).
 
-Subsec. (d). Pub. L. 111–296, §408, substituted “$10,000,000 for each of fiscal years 2011 through 2015”for “$6,000,000 for each of fiscal years 2004 through 2009”.
+Subsec. (d). Pub. L. 111–296, §408, substituted “$10,000,000 for each of fiscal years 2011 through 2015” for “$6,000,000 for each of fiscal years 2004 through 2009”.
 
 Subsec. (e). Pub. L. 111–296, §303, added subsec. (e).
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Regulations
 
-Section 110(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 22 of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Pub. L. 101–147, title I, §110(b), Nov. 10, 1989, 103 Stat. 889, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 22 of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 
 #### Interpretation
 

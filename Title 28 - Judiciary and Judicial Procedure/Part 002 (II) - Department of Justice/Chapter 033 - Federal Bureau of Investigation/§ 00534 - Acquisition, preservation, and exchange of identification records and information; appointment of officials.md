@@ -80,7 +80,7 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 Subsec. (d). Pub. L. 111–211, §233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
 
-Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of “the second subsection (e)” as (f),could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
+Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
 
 Subsec. (f)(2). Pub. L. 111–211, §233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
 
@@ -344,7 +344,7 @@ In general.—Upon receipt of the criminal history record information from the A
 
 Terms.—In the case of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorizedemployer as to the fact of whether an employee has been—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
 
 &emsp;&emsp;&emsp;“(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
 
@@ -506,7 +506,7 @@ Sec. 2. (a) Congress finds that—
 
 #### Uniform Federal Crime Reporting Act of 1988
 
-Section 7332 of Pub. L. 100–690 provided that:
+Pub. L. 100–690, title VII, §7332, Nov. 18, 1988, 102 Stat. 4468, provided that:
 
 “(a)
 
@@ -550,7 +550,7 @@ Effective Date.—The provisions of this section shall be effective on January 1
 
 #### Family and Domestic Violence; Data Collection and Reporting
 
-Section 7609 of Pub. L. 100–690 provided that:
+Pub. L. 100–690, title VII, §7609, Nov. 18, 1988, 102 Stat. 4517, provided that:
 
 “(a)
 

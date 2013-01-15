@@ -50,7 +50,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 &emsp;(B) the entry into the United States, from any country when the vessels of such country are being used in the conduct of fishing operations in the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission, of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area.
 
-(5) In the case of repeated and flagrant fishing operations in the Convention area by the vessels of any country which seriously threaten the achievement of the objectives of the Commission's recommendations, the Secretary with the concurrence of the Secretary of State, may by regulations promulgated pursuant to paragraph (2) of this subsection prohibit the entry in any form from such country of other species covered by the Convention as may be under investigation by the Commission and which were taken in the Convention area. Any such prohibition shall continue until the Secretary is satisfied that the condition warranting the prohibition no longer exists, except that all fish in any form of the species under regulation which were previously prohibited from entry shall continue to be prohibited from entry.
+(5) In the case of repeated and flagrant fishing operations in the Convention area by the vessels of any country which seriously threaten the achievement of the objectives of the Commission's recommendations, the Secretary with the concurrence of the Secretary of State, may by regulations promulgated pursuant to paragraph\(2) of this subsection prohibit the entry in any form from such country of other species covered by the Convention as may be under investigation by the Commission and which were taken in the Convention area. Any such prohibition shall continue until the Secretary is satisfied that the condition warranting the prohibition no longer exists, except that all fish in any form of the species under regulation which were previously prohibited from entry shall continue to be prohibited from entry.
 
 (6)
 
@@ -86,7 +86,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 

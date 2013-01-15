@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility Requirements.—(1) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay, and (A) holds (or is in training leading to) a submarine duty designator, (B) is in and remains in the submarine service on a careerbasis, and (C) meets the requirements of paragraph (3), is entitled to continuous monthly submarine duty incentive pay in the amount prescribed pursuant to subsection (b).
+Eligibility Requirements.—(1) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay, and (A) holds (or is in training leading to) a submarine duty designator, (B) is in and remains in the submarine service on a career basis, and (C) meets the requirements of paragraph (3), is entitled to continuous monthly submarine duty incentive pay in the amount prescribed pursuant to subsection (b).
 
 (2) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay but is not entitled to continuous monthly submarine duty incentive pay under paragraph (1) is entitled to submarine duty incentive pay in the amount prescribed pursuant to subsection (b) for any period during which such member performs frequent and regular operational submarine duty (as defined in paragraph (5)) required by orders.
 
@@ -40,9 +40,9 @@ Exceptions.—(1) An officer who fails of selection for assignment as an executi
 
 (d)
 
-Applicability to Certain Navy Reserve Duty.—Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under section 206 of this title, performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member iseligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
+Applicability to Certain Navy Reserve Duty.—Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under section 206 of this title, performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
 
-(Added Pub. L. 96–579, §3(d), Dec. 23, 1980, 94 Stat. 3360; amended Pub. L. 97–39, title VII, §701(a), (b), Aug. 14, 1981, 95 Stat. 942; Pub. L. 97–60, title I, §114, Oct. 14, 1981, 95 Stat. 995; Pub. L. 99–145, title VI, §633(a), Nov. 8, 1985, 99 Stat. 646; Pub. L. 100–26, §8(e)(4), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §623(a), (b), Dec. 4, 1987, 101 Stat. 1101; Pub. L. 100–224, §5(a)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(2), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 107–107, div. A, title VI, §617(a), (b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3236.)
+(Added Pub. L. 96–579, §3(d), Dec. 23, 1980, 94 Stat. 3360; amended Pub. L. 97–39, title VII, §701(a), (b), Aug. 14, 1981, 95 Stat. 942; Pub. L. 97–60, title I, §114, Oct. 14, 1981, 95 Stat. 995; Pub. L. 99–145, title VI, §633(a), Nov. 8, 1985, 99 Stat. 646; Pub. L. 100–26, §8(e)(4), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §623(a), (b), Dec. 4, 1987, 101 Stat. 1101; Pub. L. 100–224, §5(a)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(l)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(2), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 107–107, div. A, title VI, §617(a), (b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Amendments
 
@@ -94,11 +94,11 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(<i>l</i>)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(l)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
 
 #### Effective Date of 1987 Amendment
 
-Section 623(c) of Pub. L. 100–180 provided that:
+Pub. L. 100–180, div. A, title VI, §623(c), Dec. 4, 1987, 101 Stat. 1103, provided that:
 
 “(1) Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply only with respect to duty performed on or after that date.
 
@@ -106,15 +106,15 @@ Section 623(c) of Pub. L. 100–180 provided that:
 
 #### Effective Date of 1985 Amendment
 
-Section 633(b) of Pub. L. 99–145 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §633(b), Nov. 8, 1985, 99 Stat. 646, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1981 Amendment
 
-Section 701(c) of Pub. L. 97–39 provided that: “The amendments made by this section \[amending this section\] shall take effect as of January 1, 1981.”
+Pub. L. 97–39, title VII, §701(c), Aug. 14, 1981, 95 Stat. 942, provided that: “The amendments made by this section \[amending this section\] shall take effect as of January 1, 1981.”
 
 #### Effective Date
 
-Section 3(g) of Pub. L. 96–579 provided: “The amendments made by this subsection \[probably means section 3 of Pub. L. 96–579, which enacted this section andamended sections 301 and 308 of this title\] shall become effective on the first day of the first month following the month in which this Act is enacted \[December, 1980\].”
+Pub. L. 96–579, §3(g), Dec. 23, 1980, 94 Stat. 3364, provided: “The amendments made by this subsection \[probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title\] shall become effective on the first day of the first month following the month in which this Act is enacted \[December, 1980\].”
 
 #### Delegation of Functions
 

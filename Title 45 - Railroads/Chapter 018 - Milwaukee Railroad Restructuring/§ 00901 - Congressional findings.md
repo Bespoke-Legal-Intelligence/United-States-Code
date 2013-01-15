@@ -32,7 +32,7 @@ Pub. L. 97–468, title II, §201, Jan. 14, 1983, 96 Stat. 2543, provided that: 
 
 #### Short Title
 
-Section 1 of Pub. L. 96–101 provided: “That this Act \[enacting this chapter and amending sections 231f, 662, 721, 821, and 825 of this title\] may be cited as the ‘Milwaukee Railroad Restructuring Act’.”
+Pub. L. 96–101, §1, Nov. 4, 1979, 93 Stat. 736, provided: “That this Act \[enacting this chapter and amending sections 231f, 662, 721, 821, and 825 of this title\] may be cited as the ‘Milwaukee Railroad Restructuring Act’.”
 
 #### Statement of Purpose
 

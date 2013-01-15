@@ -12,7 +12,7 @@ The stockpile consists of the following materials:
 
 &emsp;(4) Materials acquired by the United States under the provisions of section 2093 of the Appendix to this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
 
-&emsp;(5) Materials transferred to the United States under section 2423 of title 22 that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President under subsection (b) of such section for stockpiling in the stockpile.
+&emsp;(5) Materials transferred to the United States under section 2423 of title 22 that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President undersubsection (b) of such section for stockpiling in the stockpile.
 
 &emsp;(6) Materials acquired by the Commodity Credit Corporation and transferred to the stockpile under section 714b(h) of title 15.
 

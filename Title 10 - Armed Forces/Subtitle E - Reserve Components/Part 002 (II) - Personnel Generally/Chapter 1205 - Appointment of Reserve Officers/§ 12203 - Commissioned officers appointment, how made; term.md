@@ -86,7 +86,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1994 Amendment
 
-Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1632 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1632 of Pub.L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -98,5 +98,5 @@ For assignment of functions of President under first sentence of subsec. (a) of 
 
 #### Indefinite Appointments for Certain Reserve Officers
 
-Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
+Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
 

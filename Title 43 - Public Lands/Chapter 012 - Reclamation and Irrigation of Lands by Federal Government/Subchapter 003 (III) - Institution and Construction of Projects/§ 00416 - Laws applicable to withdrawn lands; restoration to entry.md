@@ -20,7 +20,7 @@ Section is comprised of part of section 3 of act June 17, 1902. Remainder of suc
 
 #### Effective Date of 1976 Amendment
 
-Section 704(a) of Pub. L. 94–579 provided that the amendment made by such section 704(a) is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

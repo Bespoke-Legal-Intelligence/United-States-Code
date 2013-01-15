@@ -6,7 +6,7 @@ The Commission is authorized and directed to monitor the acts of the signatories
 
 #### References in Text
 
-The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means part four of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states. The Conference on Security and Cooperation in Europe is now called the Organization for Security and Cooperation in Europe.
+The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means part four of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states. TheConference on Security and Cooperation in Europe is now called the Organization for Security and Cooperation in Europe.
 
 #### Amendments
 
@@ -18,7 +18,7 @@ The Conference on Security and Cooperation in Europe to be called the Organizati
 
 #### Effective Date of 1985 Amendment
 
-Section 6 of Pub. L. 99–7 provided that:
+Pub. L. 99–7, §6, Mar. 27, 1985, 99 Stat. 20, provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 3003, 3007, and 3008 of this title and enacting provisions set out as a note under section 3003 of this title\] shall take effect on the date of enactment of this Act \[Mar. 27, 1985\] or April 15, 1985, whichever is later.
 

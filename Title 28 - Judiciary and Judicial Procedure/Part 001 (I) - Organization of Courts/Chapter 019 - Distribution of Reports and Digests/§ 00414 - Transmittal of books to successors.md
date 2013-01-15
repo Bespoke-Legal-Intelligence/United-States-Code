@@ -30,5 +30,5 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, w
 
 #### Effective Date of 1962 Amendment
 
-Section 25 of Pub. L. 87–845 provided that: “This Act \[enacting section 4210 of Title 18, Crimes and Criminal Procedure, and section 858 of Title 50, War and National Defense, and amending this section, sections 547, 1404, and 1406 of this title, section 14 of Title 18, section 1934 of Title 22, Foreign Relations and Intercourse, section 196 of Title 24, Hospitals and Asylums, and sections 191a and 191b of Title 50\] takes effect January 2, 1963. Laws enacted after January 9, 1962, that are inconsistent with this Act, supersede it to the extent of the inconsistency.”
+Pub. L. 87–845, §25, Oct. 18, 1962, 76A Stat. 701, provided that: “This Act \[enacting section 4210 of Title 18, Crimes and Criminal Procedure, and section 858 of Title 50, War and National Defense, and amending this section, sections 547, 1404, and 1406 of this title, section 14 of Title 18, section 1934 of Title 22, Foreign Relations and Intercourse, section 196 of Title 24, Hospitals and Asylums, and sections 191a and 191b of Title 50\] takes effect January 2, 1963. Laws enacted after January 9, 1962, that are inconsistent with this Act, supersede it to the extent of the inconsistency.”
 

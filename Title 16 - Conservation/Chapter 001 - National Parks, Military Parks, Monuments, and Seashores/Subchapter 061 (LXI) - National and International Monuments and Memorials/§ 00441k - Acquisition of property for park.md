@@ -6,7 +6,7 @@ Subject to the provisions of subsection (b) of this section, the Secretary of th
 
 #### (b) Easements
 
-As to lands located within the boundaries of the park but outside the boundaries of the gunnery range referred to in section 441<i>l</i> of this title, the Secretary of the Interior may acquire only rights-of-way and scenic easements.
+As to lands located within the boundaries of the park but outside the boundaries of the gunnery range referred to in section 441l of this title, the Secretary of the Interior may acquire only rights-of-way and scenic easements.
 
 (Pub. L. 90–468, §2, Aug. 8, 1968, 82 Stat. 663; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 

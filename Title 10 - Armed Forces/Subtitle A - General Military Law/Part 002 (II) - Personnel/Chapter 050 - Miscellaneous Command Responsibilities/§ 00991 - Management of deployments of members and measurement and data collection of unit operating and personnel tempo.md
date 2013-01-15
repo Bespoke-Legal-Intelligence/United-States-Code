@@ -68,7 +68,7 @@ Recordkeeping.—(1) The Secretary of Defense shall—
 
 (3) For each of the armed forces, the data collection repository shall be able to indicate, for a fiscal year—
 
-&emsp;(A) the number of members who received the high-deployment allowance under section 436 of title 37 (or who would have been eligible to receive the allowance if the duty assignment was not excluded by the Secretary of Defense);
+&emsp;(A) the number of members who received the high-deployment allowance under section 436 of title 37 (or who would have been eligible toreceive the allowance if the duty assignment was not excluded by the Secretary of Defense);
 
 &emsp;(B) the number of members who received each rate of allowance paid (estimated in the case of members described in the parenthetical phrase in subparagraph (A));
 
@@ -80,7 +80,7 @@ Recordkeeping.—(1) The Secretary of Defense shall—
 
 (d)
 
-National Security Waiver Authority.—The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of membersunder the Secretary's jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
+National Security Waiver Authority.—The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary's jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
 
 (e)
 
@@ -158,7 +158,7 @@ Pub. L. 106–65, div. A, title V, §586(d)(1), Oct. 5, 1999, 113 Stat. 639, pro
 
 #### Regulations
 
-Pub. L. 106–65, div. A, title V, §586(e), Oct. 5, 1999, 113 Stat. 639, provided that: “Not later than June 1, 2000,the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
+Pub. L. 106–65, div. A, title V, §586(e), Oct. 5, 1999, 113 Stat. 639, provided that: “Not later than June 1, 2000, the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
 
 #### Transfer of Functions
 

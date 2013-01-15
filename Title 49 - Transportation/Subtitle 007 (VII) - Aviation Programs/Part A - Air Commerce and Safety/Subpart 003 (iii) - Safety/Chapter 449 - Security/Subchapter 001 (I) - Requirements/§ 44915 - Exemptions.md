@@ -32,7 +32,7 @@ Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistenc
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of theFederal Aviation Administration” in introductory provisions.
 
 #### Transfer of Functions
 

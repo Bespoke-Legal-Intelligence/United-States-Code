@@ -6,13 +6,13 @@ There is hereby established an Office of Juvenile Justice and Delinquency Preven
 
 #### (b) Administrator; head, appointment, authorities, etc.
 
-The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President, by and with the advice and consent of the Senate, from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have.
+The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have.
 
 #### (c) Deputy Administrator; appointment, functions, etc.
 
 There shall be in the Office a Deputy Administrator who shall be appointed by the Attorney General. The Deputy Administrator shall perform such functions as the Administrator may from time to time assign or delegate and shall act as the Administrator during the absence or disability of the Administrator.
 
-(Pub. L. 93–415, title II, §201(a)–(f), Sept. 7, 1974, 88 Stat. 1112, 1113; Pub. L. 95–115, §3(a)(1)–(3)(A), (4), (5), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§6, 19(b), Dec. 8, 1980, 94 Stat. 2752, 2762; Pub. L. 98–473, title II, §620, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §7252(a), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(a), Nov. 4, 1992, 106 Stat. 4984.)
+(Pub. L. 93–415, title II, §201(a)–(f), Sept. 7, 1974, 88 Stat. 1112, 1113; Pub. L. 95–115, §3(a)(1)–(3)(A), (4), (5), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§6, 19(b), Dec. 8, 1980, 94 Stat. 2752, 2762; Pub. L. 98–473, title II, §620, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §7252(a), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(a), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 112–166, §2(h)(4), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -21,6 +21,8 @@ This division, referred to in subsec. (a), probably means division II (§§610�
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
 
@@ -57,6 +59,10 @@ Subsec. (d). Pub. L. 95–115, §3(a)(3)(A), (4), inserted provisions relating t
 Subsec. (e). Pub. L. 95–115, §3(a)(3)(A), (5), substituted references to Deputy Associate Administrator and Associate Administrator for references to Deputy Assistant Administrator and Assistant Administrator, respectively, wherever appearing.
 
 Subsec. (f). Pub. L. 95–115, §3(a)(5), substituted “Associate” for “Assistant”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 1988 Amendment
 

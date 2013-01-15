@@ -8,7 +8,7 @@ The Secretary shall establish in the Department of Health and Human Services an 
 
 In connection with carrying out the provisions of this subchapter, the Secretary shall—
 
-&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social servicesagencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
+&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
 
 &emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, including efforts to promote the adoption of older children, minority children, and children with special needs, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
@@ -64,7 +64,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(B) shall be subject to the condition that such grants or contracts may be renewed if documentation is provided to the Secretary demonstrating that appropriate and sufficient placements of such children have occurred during the previous funding period; and
 
-&emsp;(11) provide (directly or by grant to or contract with States, local government entities, or public or private licensed child welfare or adoption agencies) for the implementation of programs that are intended to increase the number of older children (who are in foster care and with the goal of adoption) placed inadoptive families, with a special emphasis on child-specific recruitment strategies, including—
+&emsp;(11) provide (directly or by grant to or contract with States, local government entities, or public or private licensed child welfare or adoption agencies) for the implementation of programs that are intended to increase the number of older children (who are in foster care and with the goal of adoption) placed in adoptive families, with a special emphasis on child-specific recruitment strategies, including—
 
 &emsp;&emsp;(A) outreach, public education, or media campaigns to inform the public of the needs and numbers of older youth available for adoption;
 
@@ -146,7 +146,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to, or enter into contracts with, States, local government entities, public or private child welfare or adoption agencies, adoption exchanges,or adoption family groups to carry out initiatives to improve efforts to eliminate barriers to placing children for adoption across jurisdictional boundaries.
+&emsp;The Secretary shall award grants to, or enter into contracts with, States, local government entities, public or private child welfare or adoption agencies, adoption exchanges, or adoption family groups to carry out initiatives to improve efforts to eliminate barriers to placing children for adoption across jurisdictional boundaries.
 
 #### (2) Services to supplement not supplant
 

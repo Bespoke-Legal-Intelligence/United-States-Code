@@ -2,7 +2,7 @@
 
 (a) Subject to subsections (b) and (c), the Secretary concerned may carry out a military construction project not otherwise authorized by law if the Secretary determines (1) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and (2) that the requirement for the project is so urgent that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
 
-(b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the seven-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
+(b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried outonly after the end of the seven-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (c)(1) The maximum amount that the Secretary concerned may obligate in any fiscal year under this section is $50,000,000.
 
@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 102–190, §2870(2), as amended by Pub. L. 102–484, stru
 
 #### Effective Date of 1992 Amendment
 
-Section 1053(9) of Pub. L. 102–484 provided that the amendment made by that section is effective Dec. 5, 1991.
+Pub. L. 102–484, div. A, title X, §1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
 
 #### Effective Date
 

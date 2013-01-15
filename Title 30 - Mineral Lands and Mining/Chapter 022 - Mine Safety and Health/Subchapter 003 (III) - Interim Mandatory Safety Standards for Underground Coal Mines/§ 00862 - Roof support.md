@@ -22,7 +22,7 @@ Roof bolts shall not be recovered where complete extractions of pillars are atte
 
 #### (f) Safety inspections; correction of dangerous conditions
 
-Where miners are exposed to danger from falls of roof, face, and ribs the operator shall examine and test the roof, face, and ribs before any work or machine is started, and as frequently thereafter as may be necessary to insure safety. When dangerous conditions are found, they shall be corrected immediately.
+Where miners are exposed to danger from falls of roof, face, and ribs the operator shall examineand test the roof, face, and ribs before any work or machine is started, and as frequently thereafter as may be necessary to insure safety. When dangerous conditions are found, they shall be corrected immediately.
 
 (Pub. L. 91–173, title III, §302, Dec. 30, 1969, 83 Stat. 766.)
 

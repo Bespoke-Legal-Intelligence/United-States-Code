@@ -10,5 +10,5 @@ Section 3844, Pub. L. 96–70, title II, §2206, Sept. 27, 1979, 93 Stat. 494, r
 
 #### Effective Date
 
-Section 2203(b) of Pub. L. 96–70 provided that section 3843 of this title was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, §3546(a)(4), Sept. 23, 1996, 110 Stat. 2868.
+Pub. L. 96–70, title II, §2203(b), Sept. 27, 1979, 93 Stat. 494, provided that section 3843 of this title was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, §3546(a)(4), Sept. 23, 1996, 110 Stat. 2868.
 

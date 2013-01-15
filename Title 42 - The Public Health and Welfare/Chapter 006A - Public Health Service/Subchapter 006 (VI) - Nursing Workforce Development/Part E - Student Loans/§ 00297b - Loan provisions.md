@@ -22,7 +22,7 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 &emsp;(7) no note or other evidence of any such loan may be transferred or assigned by the school making the loan except that, if the borrower transfers to another school participating in the program under this part such note or other evidence of a loan may be transferred to such other school; and
 
-&emsp;(8) pursuant to uniform criteria established by the Secretary, the repayment period established under paragraph (2) for any student borrower who during the repayment period failed to make consecutive payments and who, during the last 12 months of the repayment period, has made at least 12 consecutive payments may be extended for a period not to exceed 10 years.
+&emsp;(8) pursuant to uniform criteria established by the Secretary, the repayment period established under paragraph (2) for any student borrower who during the repayment period failedto make consecutive payments and who, during the last 12 months of the repayment period, has made at least 12 consecutive payments may be extended for a period not to exceed 10 years.
 
 #### (c) Cancellation
 
@@ -76,7 +76,7 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 &emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school of nursing that has an agreement with the Secretary pursuant to section 297a of this title that is seeking the repayment of the amount due from a borrower on a loan made under this part after the default of the borrower on such loan.
 
-(July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 914; amended Pub. L. 89–290, §4(g)(2), Oct. 22, 1965, 79 Stat. 1058; Pub. L. 90–490, title II, §222(b), (c)(1), Aug. 16, 1968, 82 Stat. 783, 784; Pub.L. 92–158, §6(a), (b)(1), (e), Nov. 18, 1971, 85 Stat. 475, 476, 478; renumbered §836 and amended Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, 89 Stat. 363, 365; Pub. L. 96–76, title I, §112, Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(b), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(b)–(d), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), Nov. 4, 1988, 102 Stat. 3160, 3161; Pub. L. 101–93, §5(r), Aug. 16, 1989, 103 Stat. 614; Pub. L. 102–408, title II, §211(a)(1), Oct. 13, 1992, 106 Stat. 2078; Pub. L. 105–392, title I, §133(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3575; Pub. L. 111–148, title V, §§5202, 5310(b)(2)–(4), Mar. 23, 2010, 124 Stat. 607, 631.)
+(July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 914; amended Pub. L. 89–290, §4(g)(2), Oct. 22, 1965, 79 Stat. 1058; Pub. L. 90–490, title II, §222(b), (c)(1), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(a), (b)(1), (e), Nov. 18, 1971, 85 Stat. 475, 476, 478; renumbered §836 and amended Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, 89 Stat. 363, 365; Pub. L. 96–76, title I, §112, Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(b), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(b)–(d), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), Nov. 4, 1988, 102 Stat. 3160, 3161; Pub. L. 101–93, §5(r), Aug. 16, 1989, 103 Stat. 614; Pub. L. 102–408, title II, §211(a)(1), Oct. 13, 1992, 106 Stat. 2078; Pub. L. 105–392, title I, §133(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3575; Pub. L. 111–148, title V, §§5202, 5310(b)(2)–(4), Mar. 23, 2010, 124 Stat. 607, 631.)
 
 #### References in Text
 
@@ -106,9 +106,9 @@ Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart
 
 Subsec. (j). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart” wherever appearing.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 111–148, §5310(b)(4), redesignated subsec. (<i>l</i>) as (k).
+Subsecs. (k), (l). Pub. L. 111–148, §5310(b)(4), redesignated subsec. (l) as (k).
 
-Subsec. (<i>l</i>)(2). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
+Subsec. (l)(2). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–392, §133(a)(1), substituted semicolon for period at end.
 
@@ -118,7 +118,7 @@ Subsec. (b)(8). Pub. L. 105–392, §133(a)(3), (4), added par. (8).
 
 Subsec. (g). Pub. L. 105–392, §133(b), substituted “$40” for “$15”.
 
-Subsec. (<i>l</i>). Pub. L. 105–392, §133(c)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–392, §133(c)(1), added subsec. (l).
 
 <b>1992</b>—Subsecs. (h) to (k). Pub. L. 102–408 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for a loan repayment program. See section 297n of this title.
 
@@ -160,7 +160,7 @@ Subsec. (c). Pub. L. 94–63, §941(h)(2), struck out “of Health, Education, a
 
 Subsecs. (d) to (i). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part” whenever appearing.
 
-Subsec. (j). Pub. L. 94–63, §941(h)(5), added subsec. (j), formerly classified as section 297i of this title pursuantto enactment as section 830 of act July 1, 1944, ch. 373. Section 941(h)(5)(A) of Pub. L. 94–63 transferred such former section to this section and section 941(h)(5)(B) redesignated provision as subsec. (j).
+Subsec. (j). Pub. L. 94–63, §941(h)(5), added subsec. (j), formerly classified as section 297i of this title pursuant to enactment as section 830 of act July 1, 1944, ch. 373. Section 941(h)(5)(A) of Pub. L. 94–63 transferred such former section to this section and section 941(h)(5)(B) redesignated provision as subsec. (j).
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–158, §6(a), substituted “$2,500” for “$1,500” and “$10,000” for “$60,000”.
 
@@ -194,13 +194,13 @@ Amendment by Pub. L. 99–92 effective Oct. 1, 1985, see section 10(a) of Pub. L
 
 #### Effective Date of 1975 Amendment
 
-Section 936(b) of Pub. L. 94–63 provided that the amendment made by that section is effective with respect to periods of training to be a nurse anesthetist undertaken on or after July 29, 1975.
+Pub. L. 94–63, title IX, §936(b), July 29, 1975, 89 Stat. 363, provided that the amendment made by that section is effective with respect to periods of training to be a nurse anesthetist undertaken on or after July 29, 1975.
 
 Amendment by section 941(h)(1), (2), (5), (i)(1) of Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 94–63, set out as a note under section 297a of this title.
 
 #### Effective Date of 1971 Amendment
 
-Section 6(a)(1) of Pub. L. 92–158 provided that the amendment made by that section is effective with respect to academic years (or their equivalent as determined under regulations of the Secretary of Health, Education, and Welfare under this section) beginning after June 30, 1971.
+Pub. L. 92–158, §6(a)(1), Nov. 18, 1971, 85 Stat. 475, provided that the amendment made by that section is effective with respect to academic years (or their equivalent as determined under regulations of the Secretary of Health, Education, and Welfare under this section) beginning after June 30, 1971.
 
 #### Effective Date of 1968 Amendment
 
@@ -208,7 +208,7 @@ Pub. L. 90–490, title II, §222(i), Aug. 16, 1968, 82 Stat. 785, provided that
 
 #### Construction of 1992 Amendment
 
-Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: “With respect to section 836(h) of the Public Health Service Act \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
+Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: “With respect to section 836(h) ofthe Public Health Service Act \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

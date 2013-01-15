@@ -202,7 +202,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher.
 
 &emsp;&emsp;(iii) Any general service incandescent lamp (commonly referred to as a high- or higher-wattage lamp) that has a rated wattage above 199 watts (above 205 watts for a high wattage reflector lamp).
 
@@ -218,7 +218,7 @@ In general.—The term “general service incandescent lamp” means a standard 
 
 &emsp;&emsp;&emsp;(II) has a medium screw base;
 
-&emsp;&emsp;&emsp;(III) has a lumen range of not less than 310 lumens and not more than 2,600 lumens; and
+&emsp;&emsp;&emsp;(III) has a lumen range of not less than 310 lumens and not more than 2,600 lumens or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens; and
 
 &emsp;&emsp;&emsp;(IV) is capable of being operated at a voltage range at least partially within 110 and 130 volts.
 
@@ -264,9 +264,9 @@ Exclusions.—The term “general service incandescent lamp” does not include 
 
 &emsp;&emsp;&emsp;(XIX) A vibration service lamp.
 
-&emsp;&emsp;&emsp;(XX) A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 <sup>3</sup> with a diameter of 5 inches or more.
+&emsp;&emsp;&emsp;(XX) A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 <sup>2</sup> with a diameter of 5 inches or more.
 
-&emsp;&emsp;&emsp;(XXI) A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and <sup>4</sup> that uses not more than 40 watts or has a length of more than 10 inches.
+&emsp;&emsp;&emsp;(XXI) A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and <sup>3</sup> that uses not more than 40 watts or has a length of more than 10 inches.
 
 &emsp;&emsp;&emsp;(XXII) A B, BA, CA, F, G16–1/2, G–25, G30, S, or M–14 lamp (as defined in ANSI C79.1–2002 and ANSI C78.20–2003) of 40 watts or less.
 
@@ -318,9 +318,9 @@ Exclusions.—The term “general service incandescent lamp” does not include 
 
 Appliance lamp.—The term “appliance lamp” means any lamp that—
 
-&emsp;&emsp;(i) is specifically designed to operate in a household appliance, has a maximum wattage of 40 watts, and is sold at retail, including an oven lamp, refrigerator lamp, and vacuum cleaner lamp; and
+&emsp;&emsp;(i) is specifically designed to operate in a household appliance and has a maximum wattage of 40 watts, including an oven lamp, refrigerator lamp, and vacuum cleaner lamp; and
 
-&emsp;&emsp;(ii) is designated and marketed for the intended application, with—
+&emsp;&emsp;(ii) when sold at retail, is designated and marketed for the intended application, with—
 
 &emsp;&emsp;&emsp;(I) the designation on the lamp packaging; and
 
@@ -382,7 +382,7 @@ Shatter-resistant lamp, shatter-proof lamp, or shatter-protected lamp.—The ter
 
 Vibration service lamp.—The term “vibration service lamp” means a lamp that—
 
-&emsp;&emsp;(i) has filament configurations that are C–5, C–7A, or C–9, as listed in Figure 6–12 of the 9th Edition of the IESNA Lighting Handbook or similar configurations;
+&emsp;&emsp;(i) has filament configurations that are C–5, C–7A, or C–9, as listed in Figure 6–12 ofthe 9th Edition of the IESNA Lighting Handbook or similar configurations;
 
 &emsp;&emsp;(ii) has a maximum wattage of 60 watts;
 
@@ -476,7 +476,7 @@ Colored incandescent lamp.—The term “colored incandescent lamp” means an i
 
 &emsp;&emsp;&emsp;(II) the application of standards to which would result in significant energy savings; and
 
-&emsp;&emsp;&emsp;(III) the application of standards to which would meet the criteria specified in section 6295(<i>o</i>)(4) of this title; and
+&emsp;&emsp;&emsp;(III) the application of standards to which would meet the criteria specified in section 6295(o)(4) of this title; and
 
 &emsp;&emsp;(ii) to exclude products—
 
@@ -788,7 +788,7 @@ Starting process.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525.)
 
 #### References in Text
 
@@ -797,6 +797,14 @@ This chapter, referred to in pars. (3) and (59)(C), was in the original “this 
 Paragraph (19) of section 6292(a) of this title, referred to in par. (6)(B), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
 
 #### Amendments
+
+<b>2012</b>—Par. (30)(C)(ii). Pub. L. 112–210, §10(a)(10), inserted a period after “40 watts or higher”.
+
+Par. (30)(D)(i)(III). Pub. L. 112–210, §10(a)(6), inserted before the semicolon “or, in the case of a modified spectrum lamp, not less than 232 lumens and not more than 1,950 lumens”.
+
+Par. (30)(T)(i). Pub. L. 112–210, §10(a)(7)(A), substituted “and” for comma after “household appliance” and struck out “and is sold at retail,” after “40 watts,”.
+
+Par. (30)(T)(ii). Pub. L. 112–210, §10(a)(7)(B), inserted “when sold at retail,” before “is designated”.
 
 <b>2007</b>—Par. (29)(D)(ii). Pub. L. 110–140, §316(a)(1), made technical correction to directory language of Pub. L. 109–58, §135(a)(1)(A)(ii). See 2005 Amendment note below.
 
@@ -844,7 +852,7 @@ Par. (1). Pub. L. 102–486, §123(b)(2)(B), which directed amendment of par. (1
 
 Par. (1)(A). Pub. L. 102–486, §123(b)(2)(A), inserted “or, with respect to showerheads, faucets, water closets, and urinals, water” after “energy”.
 
-Par. (6). Pub. L. 102–486, §123(b)(3)(B)(ii), which directed amendment of par. (6)(B) by substituting “6295(r)” for “6295(<i>o</i>)”, was executed by making amendment in closing provisions of par. (6), to reflect the probable intent of Congress.
+Par. (6). Pub. L. 102–486, §123(b)(3)(B)(ii), which directed amendment of par. (6)(B) by substituting “6295(r)” for “6295(o)”, was executed by making amendment in closing provisions of par. (6), to reflect the probable intent of Congress.
 
 Par. (6)(A). Pub. L. 102–486, §123(b)(3)(A), inserted “, or, in the case of showerheads, faucets, water closets, and urinals, water use,” after “energy use”.
 
@@ -870,6 +878,10 @@ Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
 <b>1978</b>—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–210, §10(a)(13), Dec. 18, 2012, 126 Stat. 1525, provided that: “This subsection \[amending this section and sections 6294, 6295, 6297, 6313, 6314, and 6316 of this title\] and the amendments made by this subsection take effect as if included in the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1492).”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–140, title III, §316(a)(2), Dec. 19, 2007, 121 Stat. 1572, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on August 8, 2005.”
@@ -878,9 +890,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
-
-<i><sup>4</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

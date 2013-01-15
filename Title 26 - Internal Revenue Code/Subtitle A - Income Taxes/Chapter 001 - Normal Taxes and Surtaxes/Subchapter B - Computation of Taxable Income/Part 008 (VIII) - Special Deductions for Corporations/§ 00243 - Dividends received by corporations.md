@@ -44,7 +44,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
+&emsp;&emsp;In the case of an affiliated group which includes 1 or more insurance companies undersection 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
 
 #### (B) Effect of election
 
@@ -72,7 +72,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (2) 20-percent owned corporation
 
-&emsp;For purposes of this section, the term “20-percent owned corporation” means any corporation if 20 percent or more of the stock ofsuch corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
+&emsp;For purposes of this section, the term “20-percent owned corporation” means any corporation if 20 percent or more of the stock of such corporation (by vote and value) is owned by the taxpayer. For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.
 
 #### (d) Special rules for certain distributions
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Section 11814(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11814(c), Nov. 5, 1990, 104 Stat. 1388–557, provided that:
 
 “(1)
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10221(e) of Pub. L. 100–203, as amended by Pub. L. 100–647, title II, §2004(i)(1), Nov. 10, 1988, 102 Stat. 3603, provided that:
+Pub. L. 100–203, title X, §10221(e), Dec. 22, 1987, 101 Stat. 1330–409, as amended by Pub. L. 100–647, title II, §2004(i)(1), Nov. 10, 1988, 102 Stat. 3603, provided that:
 
 “(1)
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1969 Amendment
 
-Section 504(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title V, §504(d), Dec. 30, 1969, 83 Stat. 633, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -232,21 +232,21 @@ Presumption of election under section 617.—For purposes of section 617 of the 
 
 #### Effective Date of 1968 Amendment
 
-Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notesunder sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
+Pub. L. 90–364, title I, §103(f), June 28, 1968, 82 Stat. 264, provided that: “Except as provided by section 104 \[formerly set out as notes under sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
 
 #### Effective Date of 1964 Amendment
 
-Section 214(c) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending sections 244, 246, 804, and 809 of this title\] shall apply with respect to dividends received in taxable years ending after December 31, 1963.”
+Pub. L. 88–272, title II, §214(c), Feb. 26, 1964, 78 Stat. 55, provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending sections 244, 246, 804, and 809 of this title\] shall apply with respect to dividends received in taxable years ending after December 31, 1963.”
 
 #### Effective Date of 1960 Amendment
 
-Section 3(c) of Pub. L. 86–779 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 861 of this title\] shall apply to dividends received after December 31, 1959, in taxable years ending after such date.”
+Pub. L. 86–779, §3(c), Sept. 14, 1960, 74 Stat. 998, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 861 of this title\] shall apply to dividends received after December 31, 1959, in taxable years ending after such date.”
 
 Amendment by section 10(g) of Pub. L. 86–779 applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
 
 #### Effective Date of 1958 Amendment
 
-Section 57(d) of Pub. L. 85–866 provided that: “The amendments made by this section \[enacting sections 1242 and 1243 and amending this section and sections 165 and 246 of this title\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, §57(d), Sept. 2, 1958, 72 Stat. 1646, provided that: “The amendments made by this section \[enacting sections 1242 and 1243 and amending this section and sections 165 and 246 of this title\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
 #### Savings Provision
 

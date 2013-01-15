@@ -40,7 +40,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Staging of Certain Tariff Reductions
 
-Section 503 of Pub. L. 96–39 provided that:
+Pub. L. 96–39, title V, §503, July 26, 1979, 93 Stat. 251, provided that:
 
 “(a)
 
@@ -56,7 +56,7 @@ In General.—The aggregate reduction in the rate of duty applicable to items de
 
 &emsp;“(4) Items 132.50, 170.10, 170.15, 170.20, 177.62, 186.15, and 429.47.
 
-&emsp;“(5) Items 306.31, 306.32, 306.33, and 306.34. Notwithstanding subsection (a), the limitation in section 109(a) of the Trade Act of 1974 may be exceeded only to the extent necessary to permit the total reductionproclaimed under section 101 of the Trade Act of 1974 relating to such item to take effect within 2 years after the effective date of the first reduction in the rate of duty proclaimed for such item.
+&emsp;“(5) Items 306.31, 306.32, 306.33, and 306.34. Notwithstanding subsection (a), the limitation in section 109(a) of the Trade Act of 1974 may be exceeded only to the extent necessary to permit the total reduction proclaimed under section 101 of the Trade Act of 1974 relating to such item to take effect within 2 years after the effective date of the first reduction in the rate of duty proclaimed for such item.
 
 &emsp;“(6) Items for which the President determines the effective date of the first reduction will be after June 30, 1980, and before January 1, 1981, to the extent necessary to permit the second reduction to take effect on January 1, 1981.
 

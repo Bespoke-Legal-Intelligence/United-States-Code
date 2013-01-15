@@ -18,7 +18,7 @@
 
 #### (b) Employment programs
 
-For the purpose of performing functions abroad, any agency or other Government establishment (including any establishment in the legislative or judicial branch) may administer employment programs for its employees who are foreign nationals, are United States citizens employed in the Service abroad who were hired while residing abroad, or are family members of Government employees assigned abroad, in accordance with the applicable provisions of this chapter.
+For the purpose of performing functions abroad, any agency or other Government establishment (including any establishment in the legislative or judicial branch) may administer employment programs for its employees who areforeign nationals, are United States citizens employed in the Service abroad who were hired while residing abroad, or are family members of Government employees assigned abroad, in accordance with the applicable provisions of this chapter.
 
 #### (c) Regulations
 
@@ -28,7 +28,7 @@ The Secretary of State may prescribe regulations governing the establishment and
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.)of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 102–138, §152(b), inserted “, are United States citiz
 
 #### Date of Transfer From Civil Service Retirement and Disability Fund
 
-Section 141(c) of Pub. L. 101–246 provided that: “The transfer of an employee's interest in the Civil Service Retirement and Disability Fund shall occur after October 1, 1990.”
+Pub. L. 101–246, title I, §141(c), Feb. 16, 1990, 104 Stat. 35, provided that: “The transfer of an employee's interest in the Civil Service Retirement and Disability Fund shall occur after October 1, 1990.”
 
 #### Foreign National Pay Plans
 

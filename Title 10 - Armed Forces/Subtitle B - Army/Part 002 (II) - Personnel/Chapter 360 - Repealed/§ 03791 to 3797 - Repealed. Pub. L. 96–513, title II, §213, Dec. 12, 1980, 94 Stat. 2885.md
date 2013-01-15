@@ -2,7 +2,7 @@
 
 Section 3791, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 388, authorized Secretary of the Army to convene at any time a board of general officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with interests of national security, to show cause for his retention on active list. See section 1181(b) of this title.
 
-Section 3792, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 388, provided for boards of inquiry, composed ofthree or more general officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 3791 of this title, should be retained on active list of Regular Army. See section 1182 of this title.
+Section 3792, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 388, provided for boards of inquiry, composed of three or more general officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 3791 of this title, should be retained on active list of Regular Army. See section 1182 of this title.
 
 Section 3793, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 389, provided for boards of review, composed of three or more general officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army.
 

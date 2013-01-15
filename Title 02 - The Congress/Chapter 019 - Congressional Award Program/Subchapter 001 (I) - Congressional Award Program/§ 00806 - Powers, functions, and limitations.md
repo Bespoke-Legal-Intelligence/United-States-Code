@@ -130,7 +130,7 @@ Subsec. (i). Pub. L. 111–200, §2(g), added subsec. (i) and struck out former 
 
 &emsp;“(B) the extent of the authority of the corporation shall be the same as that of the Board.
 
-“(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
+“(3) No director, officer, or employee of any corporation established under this subsection may receivecompensation, travel expenses, or benefits from both the corporation and the Board.”
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 

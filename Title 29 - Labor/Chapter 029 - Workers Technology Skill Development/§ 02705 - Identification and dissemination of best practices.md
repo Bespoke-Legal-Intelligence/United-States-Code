@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) methods, techniques, and successful models for the design and implementation of advanced forms of work organization; and
 
-&emsp;&emsp;(D) methods, techniques, and successful models for the assessment of worker skillsand training needs relating to the effective development, evaluation, selection, and implementation of advanced workplace technologies, and advanced workplace practices.
+&emsp;&emsp;(D) methods, techniques, and successful models for the assessment of worker skills and training needs relating to the effective development, evaluation, selection, and implementation of advanced workplace technologies, and advanced workplace practices.
 
 #### (2) Contents
 

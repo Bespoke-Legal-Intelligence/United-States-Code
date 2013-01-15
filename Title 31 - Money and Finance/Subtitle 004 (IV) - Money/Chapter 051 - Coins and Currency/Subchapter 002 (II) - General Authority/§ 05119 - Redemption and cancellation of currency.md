@@ -1,6 +1,6 @@
 ### §5119. Redemption and cancellation of currency
 
-(a) Except to the extent authorized in regulations the Secretary of the Treasury prescribes with the approval of the President, the Secretary may not redeem United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) in gold. However, the Secretary shall redeem gold certificates owned by the Federal reserve banks at times and in amounts the Secretary decides are necessary to maintain the equal purchasing power of each kind of United States currency. When redemption in gold is authorized, the redemption may be made only in gold bullion bearing the stamp of a United States mint or assay office in an amount equal at the time of redemption to the currency presented for redemption.
+(a) Except to the extent authorized in regulations the Secretary of the Treasury prescribes with the approval of the President, the Secretary may not redeem United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) in gold. However, the Secretary shall redeem gold certificates owned by the Federal reserve banks at times and in amounts the Secretary decides are necessary to maintain the equal purchasing power of each kind of United States currency. When redemption in gold is authorized, the redemption may be made only in gold bullion bearing the stamp of a UnitedStates mint or assay office in an amount equal at the time of redemption to the currency presented for redemption.
 
 (b)(1) Except as provided in subsection (c)(1) of this section, the following are public debts bearing no interest:
 
@@ -122,7 +122,7 @@ In subsection (d), the word “paper” is omitted as surplus. The words “(inc
 
 #### References in Text
 
-Act of July 14, 1890, ch. 708, 26 Stat. 289, referred to in subsec. (b)(1)(C), which was known as the Sherman Purchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1069.
+Act of July 14, 1890, ch. 708, 26 Stat. 289, referred to in subsec. (b)(1)(C), which was known as the ShermanPurchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1069.
 
 Section 4 of the Old Series Currency Adjustment Act, referred to in subsec. (b)(1)(D), is section 4 of Pub. L. 87–66, June 30, 1961, 75 Stat. 146, which was classified to section 913 of former Title 31, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079.
 

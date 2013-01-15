@@ -50,7 +50,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -58,11 +58,31 @@ Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a Stat
 
 &emsp;(2)
 
-Fiscal year 2003 and fiscal years thereafter.—On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).
+Fiscal year 2012 and thereafter.—
+
+&emsp;&emsp;(A)
+
+Reservation of funds.—On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3).
+
+&emsp;&emsp;(B)
+
+Transfer of funds.—As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) transfer the reserved funds identified by the State for use as described in subparagraphs (A) and (B) of paragraph (1) to the apportionment of the State under section 402; and
+
+&emsp;&emsp;&emsp;(ii) release the reserved funds identified by the State as described in paragraph (3).
 
 &emsp;(3)
 
-Use for hazard elimination program.—A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.
+Use for highway safety improvement program.—
+
+&emsp;&emsp;(A)
+
+In general.—A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
+
+&emsp;&emsp;(B)
+
+State departments of transportation.—If the State makes an election under subparagraph (A), the funds shall be transferred to the department of transportation of the State, which shall be responsible for the administration of the funds.
 
 &emsp;(4)
 
@@ -70,13 +90,11 @@ Federal share.—The Federal share of the cost of a project carried out with fun
 
 &emsp;(5)
 
-Derivation of amount to be transferred.—The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+Derivation of amount to be transferred.—The amount to be transferred under paragraph (2) may be derived from the following:
 
-&emsp;&emsp;(A) The apportionment of the State under section 104(b)(1).
+&emsp;&emsp;(A) The apportionment of the State under section 104(b)(l).
 
-&emsp;&emsp;(B) The apportionment of the State under section 104(b)(3).
-
-&emsp;&emsp;(C) The apportionment of the State under section 104(b)(4).
+&emsp;&emsp;(B) The apportionment of the State under section 104(b)(2).
 
 &emsp;(6)
 
@@ -94,7 +112,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
@@ -102,7 +120,11 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225.)
+(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556.)
+
+#### References in Text
+
+Section 104, referred to in subsec. (c)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Prior Provisions
 
@@ -110,9 +132,27 @@ A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 22
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(2). Pub. L. 112–141, §1402(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).”
+
+Subsec. (c)(3). Pub. L. 112–141, §1402(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148.”
+
+Subsec. (c)(5). Pub. L. 112–141, §1402(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+
+&emsp;“(A) The apportionment of the State under section 104(b)(1).
+
+&emsp;“(B) The apportionment of the State under section 104(b)(3).
+
+&emsp;“(C) The apportionment of the State under section 104(b)(4).”
+
 <b>2005</b>—Subsec. (c)(3). Pub. L. 109–59 substituted “148” for “152”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date
 
 Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

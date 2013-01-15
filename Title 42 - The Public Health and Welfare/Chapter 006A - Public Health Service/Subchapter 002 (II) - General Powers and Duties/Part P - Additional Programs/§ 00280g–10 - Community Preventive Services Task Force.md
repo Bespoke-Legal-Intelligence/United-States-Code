@@ -22,7 +22,7 @@ The duties of the Task Force shall include—
 
 #### (c) Role of agency
 
-The Director shall provide ongoing administrative, research, and technical support for the operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to those organizations requesting it for implementation of Guide recommendations.
+The Director shall provide ongoing administrative, research, and technical support for the operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to thoseorganizations requesting it for implementation of Guide recommendations.
 
 #### (d) Coordination with Preventive Services Task Force
 

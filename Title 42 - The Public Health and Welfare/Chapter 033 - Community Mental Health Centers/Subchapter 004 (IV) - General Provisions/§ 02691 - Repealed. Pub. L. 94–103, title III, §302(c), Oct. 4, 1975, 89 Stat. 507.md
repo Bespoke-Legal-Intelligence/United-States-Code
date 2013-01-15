@@ -4,5 +4,5 @@ Section, Pub. L. 88–164, title IV, §401, Oct. 31, 1963, 77 Stat. 296; Pub. L.
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to appropriations under Pub. L. 94–103 for fiscal years beginning after June 30, 1975, see section 303 of Pub. L. 94–103.
+Repeal effective with respect to appropriations under Pub. L. 94–103 for fiscal years beginning after June 30, 1975, see Pub. L. 94–103, title III, §303, Oct. 4, 1975, 89 Stat. 507.
 

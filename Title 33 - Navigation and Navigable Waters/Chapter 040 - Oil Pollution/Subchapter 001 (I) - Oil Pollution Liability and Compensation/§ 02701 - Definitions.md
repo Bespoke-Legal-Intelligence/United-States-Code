@@ -50,7 +50,7 @@ For the purposes of this Act, the term—
 
 &emsp;(24) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
-&emsp;(25) the term “Outer Continental Shelf facility” means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
+&emsp;(25) the term “Outer Continental Shelf facility” means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one ormore of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
 
 &emsp;(26) “owner or operator”—
 
@@ -114,11 +114,11 @@ For the purposes of this Act, the term—
 
 &emsp;(28) “permittee” means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
 
-&emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivisionthereof, or by a foreign nation, except when the vessel is engaged in commerce;
+&emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
 
 &emsp;(30) “remove” or “removal” means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
 
-&emsp;(31) “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil, the costs to prevent, minimize, or mitigate oil pollution from such an incident;
+&emsp;(31) “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil,the costs to prevent, minimize, or mitigate oil pollution from such an incident;
 
 &emsp;(32) “responsible party” means the following:
 
@@ -230,7 +230,7 @@ Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 
 #### Effective Date
 
-Section 1020 of title I of Pub. L. 101–380 provided that: “This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\].”
+Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that: “This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\].”
 
 #### Short Title of 2006 Amendment
 
@@ -246,7 +246,7 @@ Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 1
 
 #### Short Title
 
-Section 1 of Pub. L. 101–380 provided that: “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions setout as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43\] may be cited as the ‘Oil Pollution Act of 1990’.”
+Pub. L. 101–380, §1, Aug. 18, 1990, 104 Stat. 484, provided that: “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43\] may be cited as the ‘Oil Pollution Act of 1990’.”
 
 #### Transfer of Functions
 

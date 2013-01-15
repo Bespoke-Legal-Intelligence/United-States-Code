@@ -2,7 +2,7 @@
 
 #### (a) Establishment and maintenance of special reserves
 
-(1) Each appropriate Federal banking agency shall require a banking institution to establishand maintain a special reserve whenever, in the judgment of such appropriate Federal banking agency—
+(1) Each appropriate Federal banking agency shall require a banking institution to establish and maintain a special reserve whenever, in the judgment of such appropriate Federal banking agency—
 
 &emsp;(A) the quality of such banking institution's assets has been impaired by a protracted inability of public or private borrowers in a foreign country to make payments on their external indebtedness as indicated by such factors, among others, as—
 
@@ -24,5 +24,5 @@ The appropriate Federal banking agencies shall analyze the results of foreign lo
 
 The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this section within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title IX, §905, Nov. 30, 1983, 97 Stat. 1279.)
+(Pub. L. 98–181, title I \[title IX, §905\], Nov. 30, 1983, 97 Stat. 1279.)
 

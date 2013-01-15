@@ -10,7 +10,7 @@
 
 (c) Authority under subsection (b) may be exercised with respect to any employee holding a position—
 
-&emsp;(1) to which chapter 51 applies, excluding any Senior Executive Service position and anyposition in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service; and
+&emsp;(1) to which chapter 51 applies, excluding any Senior Executive Service position and any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service; and
 
 &emsp;(2) which involves health care responsibilities.
 

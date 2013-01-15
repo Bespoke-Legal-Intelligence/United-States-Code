@@ -14,7 +14,7 @@
 
 #### (2) Environmental funds
 
-&emsp;For purposes of this section, the term “Environmental Fund” means an Environmental Fund established under section 1738g of this title. In the case of Mexico, such fund may bedesignated as the Good Neighbor Environmental Fund for the Border.
+&emsp;For purposes of this section, the term “Environmental Fund” means an Environmental Fund established under section 1738g of this title. In the case of Mexico, such fund may be designated as the Good Neighbor Environmental Fund for the Border.
 
 #### (3) Establishment and operation of environmental funds
 

@@ -76,7 +76,7 @@ A prior section 5013 was renumbered section 5063 of this title.
 
 #### Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations
 
-Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
+Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmentalliabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
 
 #### Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports
 
@@ -98,21 +98,15 @@ Prohibited Consideration.—Cash payments are not authorized to be made as consi
 
 #### Multi-Trades Demonstration Project
 
-Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, §329, Jan. 28, 2008, 122 Stat. 67, provided that:
+Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, §329, Jan. 28, 2008, 122 Stat. 67; Pub. L. 112–239, div. A, title III, §321, Jan. 2, 2013, 126 Stat. 1694, provided that:
 
 “(a)
 
-Demonstration Project Authorized.—In accordance with section 4703 of title 5, United States Code, the Secretary of a military department may carry out a demonstration project under which workers who are certified at the journey level as able to perform multiple trades may be promoted by one grade level. A demonstration project under this subsection may be carried out as follows:
-
-&emsp;“(1) In the case of the Secretary of the Army, at one Army depot.
-
-&emsp;“(2) In the case of the Secretary of the Navy, at one Navy Fleet Readiness Center.
-
-&emsp;“(3) In the case of the Secretary of the Air Force, at one Air Force Logistics Center.
+Demonstration Project Authorized.—In accordance with subsection 4703 of title 5, United States Code, the Secretary of a military department may carry out a demonstration project at facilities described in subsection (b) under which workers who are certified at the journey level as able to perform multiple trades shall be promoted by one grade level.
 
 “(b)
 
-Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air Logistics Center, Navy Fleet Readiness Center, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
+Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air Logistics Complex, Navy Fleet Readiness Center, Navy shipyard, Marine Corps Logistics Base, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
 
 &emsp;“(1) that, on the basis of the results of analysis of work processes, demonstrate that process improvements would result from the trade combinations proposed to be implemented under the demonstration project; and
 
@@ -126,11 +120,11 @@ Participating Workers.—(1) Actual worker participation in the demonstration pr
 
 “(d)
 
-Duration.—The demonstration project shall be conducted during fiscal years 2008 through 2013.
+Duration.—The demonstration project shall be conducted during fiscal years 2008 through 2018.
 
 “(e)
 
-Report.—Not later than January 15, 2014, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary's recommendation on whether permanent multi-trade authority should be authorized.
+Report.—Not later than January 15, 2019, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary's recommendation on whether permanent multi-trade authority should be authorized.
 
 “(f) GAO
 
@@ -180,5 +174,5 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, listed in a table under section 3345 of Title 5.
 

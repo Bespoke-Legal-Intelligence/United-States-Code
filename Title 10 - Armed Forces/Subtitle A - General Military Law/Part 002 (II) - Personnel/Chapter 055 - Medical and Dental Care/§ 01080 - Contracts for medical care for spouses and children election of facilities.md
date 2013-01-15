@@ -14,7 +14,7 @@ Waivers and Exceptions to Requirements.—(1) A covered beneficiary enrolled in 
 
 (2) The Secretary of Defense may waive the requirement to obtain nonavailability-of-health-care statements following an evaluation of the effectiveness of such statements in optimizing the use of facilities of the uniformed services.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, §19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, §716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII, §734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §712(c), Oct. 5, 1999, 113 Stat. 687.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–557, §19(8), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 103–160, div. A, title VII, §716(b)(1), Nov. 30, 1993, 107 Stat. 1692; Pub. L. 104–201, div. A, title VII,§734(a)(1), (b)(1), (c), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §712(c), Oct. 5, 1999, 113 Stat. 687.)
 
 Historical and Revision Notes
 

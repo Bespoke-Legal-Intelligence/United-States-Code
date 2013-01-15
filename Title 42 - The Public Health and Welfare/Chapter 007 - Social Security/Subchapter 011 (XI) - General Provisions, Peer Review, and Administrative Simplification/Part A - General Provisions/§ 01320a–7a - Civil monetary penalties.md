@@ -48,7 +48,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(10) knows of an overpayment (as defined in paragraph (4) of section 1320a–7k(d) of this title) and does not report and return the overpayment in accordance with such section;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statementor misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
@@ -118,7 +118,7 @@ Any person adversely affected by a determination of the Secretary under this sec
 
 #### (f) Compromise of penalties and assessments; recovery; use of funds recovered
 
-Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civilaction in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
+Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
 &emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
 
@@ -138,7 +138,7 @@ A determination by the Secretary to impose a penalty, assessment, or exclusion u
 
 #### (h) Notification of appropriate entities of finality of determination
 
-Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
+Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agenciesadministering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
 
 #### (i) Definitions
 
@@ -170,11 +170,11 @@ For the purposes of this section:
 
 &emsp;&emsp;(B) subject to subsection (n) of this section, any permissible practice described in any subparagraph of section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
 
-&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan designas long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996;
+&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan design as long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996;
 
 &emsp;&emsp;(D) incentives given to individuals to promote the delivery of preventive care as determined by the Secretary in regulations so promulgated;
 
-&emsp;&emsp;(E) a reduction in the copayment amount for covered OPD services under section 1395<i>l</i>(t)(5)(B) <sup>13</sup> of this title; or <sup>8</sup>
+&emsp;&emsp;(E) a reduction in the copayment amount for covered OPD services under section 1395l(t)(5)(B) <sup>13</sup> of this title; or <sup>8</sup>
 
 &emsp;&emsp;(F) any other remuneration which promotes access to care and poses a low risk of harm to patients and Federal health care programs (as defined in section 1320a–7b(f) of this title and designated by the Secretary under regulations);
 
@@ -216,7 +216,7 @@ For the purposes of this section:
 
 Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
 
-#### (<i>l</i>) Liability of principal for acts of agent
+#### (l) Liability of principal for acts of agent
 
 A principal is liable for penalties, assessments, and an exclusion under this section for the actions of the principal's agent acting within the scope of the agency.
 
@@ -252,7 +252,7 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 Division A of subchapter XX, referred to in subsec. (i)(1), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
-Section 1395<i>l</i>(t)(5)(B) of this title, referred to in subsec. (i)(6)(E), was redesignated section 1395<i>l</i>(t)(8)(B) of this title by Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)(1), 202(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
+Section 1395l(t)(5)(B) of this title, referred to in subsec. (i)(6)(E), was redesignated section 1395l(t)(8)(B) of this title by Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)(1), 202(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
 
 The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -364,7 +364,7 @@ Subsec. (a)(1)(D). Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100
 
 Pub. L. 100–360, §202(c)(2)(A), struck out “or” after semicolon.
 
-Subsec. (a)(2)(C). Pub. L. 100–360, §202(c)(2)(B), inserted “or to be a participating pharmacy under section 1395u(<i>o</i>) of this title” after “section 1395u(h)(1) of this title”.
+Subsec. (a)(2)(C). Pub. L. 100–360, §202(c)(2)(B), inserted “or to be a participating pharmacy under section 1395u(o) of this title” after “section 1395u(h)(1) of this title”.
 
 Subsec. (a)(3). Pub. L. 100–360, §411(k)(10)(B)(ii)(I), (II), as amended by Pub. L. 100–485, §608(d)(26)(H), made technical amendment to directory language of Pub. L. 100–203, §4118(e)(1)(A), see 1987 Amendment note below.
 
@@ -386,7 +386,7 @@ Subsec. (i)(5). Pub. L. 100–485, §608(d)(26)(J), amended directory language o
 
 Pub. L. 100–360, §411(k)(10)(D), added Pub. L. 100–203, §4118(e)(10)(C), see 1987 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 100–485, §608(d)(26)(I), inserted “for penalties, assessments, and an exclusion” after “liable”.
+Subsec. (l). Pub. L. 100–485, §608(d)(26)(I), inserted “for penalties, assessments, and an exclusion” after “liable”.
 
 Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added Pub. L. 100–203, §4118(e)(1)(B), see 1987 Amendment note below.
 
@@ -444,7 +444,7 @@ Subsec. (i)(5). Pub. L. 100–203, §4118(e)(10)(C), as added by Pub. L. 100–3
 
 Subsecs. (j), (k). Pub. L. 100–93, §3(f), added subsecs. (j) and (k).
 
-Subsec. (<i>l</i>). Pub. L. 100–203, §4118(e)(1)(B), as added by Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–203, §4118(e)(1)(B), as added by Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added subsec. (l).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–509, §9313(c)(1)(B), substituted “(i)(1)” and “(i)(2)” for “(h)(1)” and “(h)(2)”, respectively.
 
@@ -484,7 +484,7 @@ Pub. L. 105–277, div. J, title V, §5201(d), Oct. 21, 1998, 112 Stat. 2681–9
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Section 4304(c) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4304(c), Aug. 5, 1997, 111 Stat. 384, provided that:
 
 “(1)
 
@@ -498,15 +498,15 @@ Amendment by section 4331(e) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Section 231(i) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section and sections 1320c–5 and 1395mm of this title\] shall apply to acts or omissions occurring on or after January 1, 1997.”
+Pub. L. 104–191, title II, §231(i), Aug. 21, 1996, 110 Stat. 2015, provided that: “The amendments made by this section \[amending this section and sections 1320c–5 and 1395mm of this title\] shall apply to acts or omissions occurring on or after January 1, 1997.”
 
-Section 232(b) of Pub. L. 104–191 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to certifications made on or after the date of the enactment of this Act \[Aug. 21, 1996\].”
+Pub. L. 104–191, title II, §232(b), Aug. 21, 1996, 110 Stat. 2015, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to certifications made on or after the date of the enactment of this Act \[Aug. 21, 1996\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 201(c) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] shall take effect January 1, 1990.”
+Pub. L. 101–234, title II, §201(c), Dec. 13, 1989, 103 Stat. 1981, provided that: “The provisions of this section\[amending this section and sections 1320c–3, 1395h, 1395k, 1395l, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395ll, and 1395ww of this title\] shall take effect January 1, 1990.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -514,21 +514,21 @@ Amendment by section 202(c)(2) of Pub. L. 100–360 applicable to items dispense
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(3), (k)(10)(B)(ii), (D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-#### Effective Date of 1987 Amendments
+#### Effective Date of 1987 Amendment
 
-Section 4118(e)(14), formerly section 4118(e)(3), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4118(e)(14), formerly §4118(e)(3), Dec. 22, 1987, 101 Stat. 1330–155, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, except that amendment by section 3(a)(1) of Pub. L. 100–93 applicable to claims presented for services performed on or after date at end of fourteen-day period beginning Aug. 18, 1987, without regard to the date the physician's misrepresentation of fact was made, and amendment by section 3(f) of Pub. L. 100–93 effective Aug. 18, 1987, see section 15(a), (c)(3), and (d) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 9313(c)(2) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4016, Dec. 22, 1987, 101 Stat. 1330–64; Pub. L. 101–239, title VI, §6207(a), Dec. 19, 1989, 103 Stat. 2245, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to—
+Pub. L. 99–509, title IX, §9313(c)(2), Oct. 21, 1986, 100 Stat. 2003, as amended by Pub. L. 100–203, title IV, §4016, Dec. 22, 1987, 101 Stat. 1330–64; Pub. L. 101–239, title VI, §6207(a), Dec. 19, 1989, 103 Stat. 2245, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to—
 
 &emsp;“(A) payments by hospitals occurring more than 6 months after the date of the enactment of this Act \[Oct. 21, 1986\], and
 
 &emsp;“(B) payments by eligible organizations or entities occurring on or after April 1, 1991.”
 
-Section 9317(d)(1), (2) of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9317(d)(1), (2), Oct. 21, 1986, 100 Stat. 2009, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1986\], without regard to when the criminal conviction was obtained, but shall only apply to a conviction upon a plea of nolo contendere tendered after the date of the enactment of this Act.
 
@@ -536,7 +536,7 @@ Section 9317(d)(1), (2) of Pub. L. 99–509 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -552,11 +552,11 @@ Pub. L. 105–277, div. J, title V, §5201(b)(2), Oct. 21, 1998, 112 Stat. 2681�
 
 #### Repeal of 1988 Expansion of Medicare Part B Benefits
 
-Section 201(a) of Pub. L. 101–234 provided that:
+Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981, provided that:
 
 “(1)
 
-General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
+General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395l, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395ll, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
 
 “(2)
 
@@ -564,7 +564,7 @@ Exception.—Paragraph (1) shall not apply to subsections (g) and (m)(4) of sect
 
 #### Study and Report on Incentive Arrangements Offered to Physicians
 
-Section 9313(c)(3) of Pub. L. 99–509 directed Secretary of Health and Human Services to report to Congress, not later than Jan. 1, 1988, concerning incentive arrangements offered by health maintenance organizations and competitive medical plans to physicians.
+Pub. L. 99–509, title IX, §9313(c)(3), Oct. 21, 1986, 100 Stat. 2003, directed Secretary of Health and Human Services to report to Congress, not later than Jan. 1, 1988, concerning incentive arrangements offered by health maintenance organizations and competitive medical plans to physicians.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “law, or”.</i>
 

@@ -46,7 +46,7 @@ The Commission shall disclose information in its possession pursuant to a subpoe
 
 #### (g) Requests for information by State agencies or subdivisions; volunteering of information by Commission
 
-The Commission shall provide any registration information maintained by the Commission on any registrant upon reasonable request made by any department or agency of any State or any political subdivision thereof. Whenever the Commission determines that such information may be appropriate for use by any department or agency of a State or political subdivisionthereof, the Commission shall provide such information without request.
+The Commission shall provide any registration information maintained by the Commission on any registrant upon reasonable request made by any department or agency of any State or any political subdivision thereof. Whenever the Commission determines that such information may be appropriate for use by any department or agency of a State or political subdivision thereof, the Commission shall provide such information without request.
 
 #### (h) Omitted
 

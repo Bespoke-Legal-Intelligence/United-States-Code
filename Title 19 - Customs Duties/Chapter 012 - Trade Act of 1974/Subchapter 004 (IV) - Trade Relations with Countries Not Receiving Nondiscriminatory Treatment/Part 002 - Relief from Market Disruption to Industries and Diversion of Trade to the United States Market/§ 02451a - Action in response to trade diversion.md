@@ -82,7 +82,7 @@ Report by Commission.—
 
 #### (f) Public comment
 
-If consultations fail to lead to an agreement with the People's Republic of China or the WTO member concerned within 60 days, the Trade Representative shall promptly publish notice in the Federal Register of any proposed action to prevent or remedy the trade diversion, and provide an opportunity for interested persons to present views and evidence on whether the proposed action is in the public interest.
+If consultations fail to lead to an agreement with the People's Republic of China or the WTOmember concerned within 60 days, the Trade Representative shall promptly publish notice in the Federal Register of any proposed action to prevent or remedy the trade diversion, and provide an opportunity for interested persons to present views and evidence on whether the proposed action is in the public interest.
 
 #### (g) Recommendation to the President
 

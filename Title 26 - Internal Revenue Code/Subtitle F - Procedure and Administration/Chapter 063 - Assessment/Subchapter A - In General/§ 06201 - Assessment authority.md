@@ -104,11 +104,11 @@ Pub. L. 111–237, §3(c), Aug. 16, 2010, 124 Stat. 2498, provided that: “The 
 
 #### Effective Date of 1996 Amendment
 
-Section 602(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VI, §602(b), July 30, 1996, 110 Stat. 1463, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(r)(4) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section and sections 6211 and 6213 of this title\] shall apply to notices of deficiencies mailed after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(r)(4), Nov. 10, 1988, 102 Stat. 3573, provided that: “The amendments made by this subsection \[amending this section and sections 6211 and 6213 of this title\] shall apply to notices of deficiencies mailed after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 7106(c)(2) of Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) of Pub. L. 100–647, set out as a note under section 3321 of this title.
 

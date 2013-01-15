@@ -26,5 +26,5 @@ To the extent practicable and appropriate, the Secretary shall integrate the pro
 
 #### Codification
 
-Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of thePublic Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of the Public Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
 

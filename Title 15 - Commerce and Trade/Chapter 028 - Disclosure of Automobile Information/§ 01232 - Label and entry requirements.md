@@ -16,7 +16,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(1) the retail price of such automobile suggested by the manufacturer;
 
-&emsp;&emsp;(2) the retail delivered price suggested by the manufacturer for each accessory or itemof optional equipment, physically attached to such automobile at the time of its delivery to such dealer, which is not included within the price of such automobile as stated pursuant to paragraph (1);
+&emsp;&emsp;(2) the retail delivered price suggested by the manufacturer for each accessory or item of optional equipment, physically attached to such automobile at the time of its delivery to such dealer, which is not included within the price of such automobile as stated pursuant to paragraph (1);
 
 &emsp;&emsp;(3) the amount charged, if any, to such dealer for the transportation of such automobile to the location at which it is delivered to such dealer; and
 
@@ -26,9 +26,9 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(1) includes a graphic depiction of the number of stars, or other applicable rating, that corresponds to each such assigned safety rating displayed in a clearly differentiated fashion indicating the maximum possible safety rating;
 
-&emsp;&emsp;(2) refers to frontal impact crash tests, side impact crash tests, and rollover resistance tests (whether or not such automobile has been assigned a safety rating for such tests);
+&emsp;&emsp;(2) refers to safety rating categories that may include frontal impact crash tests, side impact crash tests, and rollover resistance tests (whether or not such automobile has been assigned a safety rating for such tests);
 
-&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehicle safety resources, including http://www.safecar.gov; and
+&emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehicle safety resources, including http://www.safecar.gov; <sup>1</sup> and
 
 &emsp;&emsp;(4) is presented in a legible, visible, and prominent fashion and covers at least—
 
@@ -38,15 +38,23 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;(h) if an automobile has not been tested by the National Highway Traffic Safety Administration under the New Car Assessment Program, or safety ratings for such automobile have not been assigned in one or more rating categories, a statement to that effect.
 
-(Pub. L. 85–506, §3, July 7, 1958, 72 Stat. 326; Pub. L. 109–59, title X, §10307(a), Aug. 10, 2005, 119 Stat. 1941.)
+(Pub. L. 85–506, §3, July 7, 1958, 72 Stat. 326; Pub. L. 109–59, title X, §10307(a), Aug. 10, 2005, 119 Stat. 1941; Pub. L. 112–141, div. C, title I, §31314, July 6, 2012, 126 Stat. 772.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (g)(2). Pub. L. 112–141 inserted “safety rating categories that may include” after “refers to”.
 
 <b>2005</b>—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted “and” at end.
 
 Subsecs. (g), (h). Pub. L. 109–59, §10307(a)(1), (3), (4), added subsecs. (g) and (h).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Regulations
 
 Pub. L. 109–59, title X, §10307(b), Aug. 10, 2005, 119 Stat. 1942, provided that: “The Secretary of Transportation shall issue regulations to ensure that the labeling requirements under subsections (g) and (h) of section 3 of the Automobile Information Disclosure Act \[15 U.S.C. 1232(g), (h)\], as added by subsection (a), are implemented by September 1, 2007.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “http://www.safercar.gov;”.</i>
 

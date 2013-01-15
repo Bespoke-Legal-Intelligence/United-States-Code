@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites for promulgation
 
-(1) Within six months from January 4, 1975, the Secretary shall, to the extent practicable, consult with national and regional Indian organizations with experiences in Indian education to consider and formulate appropriate rules andregulations to implement the provisions of this part.
+(1) Within six months from January 4, 1975, the Secretary shall, to the extent practicable, consult with national and regional Indian organizations with experiences in Indian education to consider and formulate appropriate rules and regulations to implement the provisions of this part.
 
 (2) Within seven months from January 4, 1975, the Secretary shall present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
 

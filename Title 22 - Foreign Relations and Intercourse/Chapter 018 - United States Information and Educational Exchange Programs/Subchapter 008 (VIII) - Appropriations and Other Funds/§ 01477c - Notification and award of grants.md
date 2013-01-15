@@ -24,7 +24,7 @@ The Department of State may award grants for overseas public diplomacy programs 
 
 Subsec. (b). Pub. L. 105–277, §1335(a)(3)(B), struck out subsec. (b) designation and substituted “The Department of State” for “In addition, the United States Information Agency” and “grants for overseas public diplomacy programs” for “program grants”.
 
-Subsec. (c). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (c) which read as follows: “Funds appropriated for the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.”
+Subsec. (c). Pub. L. 105–277, §1335(a)(3)(A), struck out subsec. (c) which read as follows: “Funds appropriatedfor the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.”
 
 <b>1991</b>—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1985 Amendment
 
-Section 214(b) of Pub. L. 99–93 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title II, §214(b), Aug. 16, 1985, 99 Stat. 434, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 

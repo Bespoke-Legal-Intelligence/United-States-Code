@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) an ongoing attack on a protected computer (as defined in section 1030) that constitutes a crime punishable by a term of imprisonment greater than one year;
 
-> &emsp;that requires the installation and use of a pen register or a trap and trace device before anorder authorizing such installation and use can, with due diligence, be obtained, and
+> &emsp;that requires the installation and use of a pen register or a trap and trace device before an order authorizing such installation and use can, with due diligence, be obtained, and
 
 &emsp;(2) there are grounds upon which an order could be entered under this chapter to authorize such installation and use;
 

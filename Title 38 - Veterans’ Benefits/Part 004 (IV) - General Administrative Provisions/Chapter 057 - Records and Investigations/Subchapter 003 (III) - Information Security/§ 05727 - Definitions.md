@@ -8,7 +8,7 @@ Availability.—The term “availability” means ensuring timely and reliable a
 
 &emsp;(2)
 
-Confidentiality.—The term “confidentiality” means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information.
+Confidentiality.—The term “confidentiality” means preserving authorized restrictions on access and disclosure, includingmeans for protecting personal privacy and proprietary information.
 
 &emsp;(3)
 
@@ -104,7 +104,7 @@ Subordinate plan.—The term “subordinate plan”, also referred to as a “sy
 
 &emsp;(21)
 
-Training.—The term “training” means a learning experience in which an individual is taught to execute a specific information security procedure or understand the information security common body of knowledge.
+Training.—The term “training” means a learning experience in which an individual istaught to execute a specific information security procedure or understand the information security common body of knowledge.
 
 &emsp;(22)
 

@@ -4,13 +4,13 @@
 | :--- | ---: |
 | [301\.](%C2%A7%2000301%20-%20Freedom%20from%20tolls.md) | Freedom from tolls. |
 | [302\.](%C2%A7%2000302%20-%20State%20transportation%20department.md) | State transportation department. |
-| [303\.](%C2%A7%2000303%20-%20Management%20systems.md) | Management systems. |
+| \[303. | Repealed.\] |
 | [304\.](%C2%A7%2000304%20-%20Participation%20by%20small%20business%20enterprises.md) | Participation by small business enterprises. |
 | [305\.](%C2%A7%2000305%20-%20Archeological%20and%20paleontological%20salvage.md) | Archeological and paleontological salvage. |
 | [306\.](%C2%A7%2000306%20-%20Mapping.md) | Mapping. |
 | \[307. | Repealed.\] |
 | [308\.](%C2%A7%2000308%20-%20Cooperation%20with%20Federal%20and%20State%20agencies%20and%20foreign%20countries.md) | Cooperation with Federal and State agencies and foreign countries. |
-| [309\.](%C2%A7%2000309%20-%20Cooperation%20with%20other%20American%20Republics.md) | Cooperation with other American Republics. |
+| \[309. | Repealed.\] |
 | [310\.](%C2%A7%2000310%20-%20Civil%20defense.md) | Civil defense. |
 | [311\.](%C2%A7%2000311%20-%20Highway%20improvements%20strategically%20important%20to%20the%20national%20defense.md) | Highway improvements strategically important to the national defense. |
 | [312\.](%C2%A7%2000312%20-%20Detail%20of%20Army%2C%20Navy%2C%20and%20Air%20Force%20officers.md) | Detail of Army, Navy, and Air Force officers. |
@@ -28,13 +28,17 @@
 | [324\.](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | Prohibition of discrimination on the basis of sex. |
 | [325\.](%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md) | State assumption of responsibilities for certain programs and projects. |
 | [326\.](%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md) | State assumption of responsibility for categorical exclusions. |
-| [327\.](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20pilot%20program.md) | Surface transportation project delivery pilot program. |
+| [327\.](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md) | Surface transportation project delivery program. |
 | [328\.](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md) | Eligibility for environmental restoration and pollution abatement. |
 | [329\.](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md) | Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. A, title I, §1519(c)(1)(C), July 6, 2012, 126 Stat. 575, struck out items 303 “Management systems” and 309 “Cooperation with other American Republics”.
+
+Pub. L. 112–141, div. A, title I, §1313(i), July 6, 2012, 126 Stat. 547, which directed amendment of item 327 in the analysis of title 23, United States Code, by substituting “Surface transportation project delivery program” for “Surface transportation project delivery pilot program”, was executed to the analysis for this chapter, to reflect the probable intent of Congress.
 
 <b>2005</b>—Pub. L. 109–59, title I, §§1901(b), 1903(b), title VI, §§6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, 119 Stat. 1464, 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
 
@@ -61,13 +65,13 @@
 
 - [&sect; 00301 - Freedom from tolls](%C2%A7%2000301%20-%20Freedom%20from%20tolls.md)
 - [&sect; 00302 - State transportation department](%C2%A7%2000302%20-%20State%20transportation%20department.md)
-- [&sect; 00303 - Management systems](%C2%A7%2000303%20-%20Management%20systems.md)
+- [&sect; 00303 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000303%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
 - [&sect; 00304 - Participation by small business enterprises](%C2%A7%2000304%20-%20Participation%20by%20small%20business%20enterprises.md)
 - [&sect; 00305 - Archeological and paleontological salvage](%C2%A7%2000305%20-%20Archeological%20and%20paleontological%20salvage.md)
 - [&sect; 00306 - Mapping](%C2%A7%2000306%20-%20Mapping.md)
 - [&sect; 00307 - Repealed. Pub. L. 105&#8211;178, title V, &sect;5119(b), June 9, 1998, 112 Stat. 452](%C2%A7%2000307%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20V%2C%20%C2%A75119%28b%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20452.md)
 - [&sect; 00308 - Cooperation with Federal and State agencies and foreign countries](%C2%A7%2000308%20-%20Cooperation%20with%20Federal%20and%20State%20agencies%20and%20foreign%20countries.md)
-- [&sect; 00309 - Cooperation with other American Republics](%C2%A7%2000309%20-%20Cooperation%20with%20other%20American%20Republics.md)
+- [&sect; 00309 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000309%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
 - [&sect; 00310 - Civil defense](%C2%A7%2000310%20-%20Civil%20defense.md)
 - [&sect; 00311 - Highway improvements strategically important to the national defense](%C2%A7%2000311%20-%20Highway%20improvements%20strategically%20important%20to%20the%20national%20defense.md)
 - [&sect; 00312 - Detail of Army, Navy, and Air Force officers](%C2%A7%2000312%20-%20Detail%20of%20Army%2C%20Navy%2C%20and%20Air%20Force%20officers.md)
@@ -85,6 +89,6 @@
 - [&sect; 00324 - Prohibition of discrimination on the basis of sex](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md)
 - [&sect; 00325 - State assumption of responsibilities for certain programs and projects](%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md)
 - [&sect; 00326 - State assumption of responsibility for categorical exclusions](%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md)
-- [&sect; 00327 - Surface transportation project delivery pilot program](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20pilot%20program.md)
+- [&sect; 00327 - Surface transportation project delivery program](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md)
 - [&sect; 00328 - Eligibility for environmental restoration and pollution abatement](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md)
 - [&sect; 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md)

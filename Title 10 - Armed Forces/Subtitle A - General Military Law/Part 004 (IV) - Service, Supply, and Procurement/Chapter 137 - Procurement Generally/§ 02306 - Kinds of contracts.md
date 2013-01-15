@@ -4,7 +4,7 @@
 
 (b) Each contract awarded under this chapter after using procedures other than sealed-bid procedures shall contain a warranty, determined to be suitable by the head of the agency, that the contractor has employed or retained no person or selling agency to solicit or obtain the contract under an understanding or agreement for a commission, percentage, brokerage, or contingent fee, except a bona fide employee or established commercial or selling agency maintained by him to obtain business. If a contractor breaks such a warranty the United States may annul the contract without liability or may deduct the commission, percentage, brokerage, or contingent fee from the contract price or consideration. This subsection does not apply to a contract that is for an amount not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial items.
 
-(c) A contract entered into by the United States in connection with a military construction project or a military family housing project may not use any form of cost-plus contracting. This prohibition is in addition to the prohibition specified in subsection (a) on the use of the cost-plus-a-percentage-of-cost system of contracting and applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act (50 U.S.C. 1621) that includes the use of the armed forces.
+(c) A contract entered into by the United States in connection with a military construction project or a military family housing projectmay not use any form of cost-plus contracting. This prohibition is in addition to the prohibition specified in subsection (a) on the use of the cost-plus-a-percentage-of-cost system of contracting and applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act (50 U.S.C. 1621) that includes the use of the armed forces.
 
 (d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
@@ -150,7 +150,7 @@ Subsec. (g)(1). Pub. L 97–86, §909(b)(1), struck out “to be performed outsi
 
 Subsec. (h). Pub. L. 97–86, §909(b)(2), added subsec. (h).
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–513, §511(77)(A), designated existing provisions as pars. (1) to (3) and in par.\(1), as so designated, substituted “(A)” to “(D)” for “(1)” to “(4)”, respectively, “prior” for “Prior” wherever appearing, and “clause (C)” for “(3) above”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–513, §511(77)(A), designated existing provisions as pars. (1) to (3) and in par. (1), as so designated, substituted “(A)” to “(D)” for “(1)” to “(4)”, respectively, “prior” for “Prior” wherever appearing, and “clause (C)” for “(3) above”.
 
 Subsec. (g). Pub. L. 96–513, §511(77)(B), in par. (1) substituted “that—” for “that:”, in par. (2) substituted “(A) The” for “(A) the”, “(B) Consideration” for “(B) consideration”, and “(C) Consideration” for “(C) consideration”, and in par. (3) substituted “from—” for “from:”.
 
@@ -188,7 +188,7 @@ For effective date of amendment by Pub. L. 87–653 see section 1(h) of Pub. L. 
 
 #### Transition Provision
 
-Section 805(c) of Pub. L. 101–189 provided that: “Subparagraph (C) of paragraph (9) of section 2306(h) of title 10, United States Code, as added by subsection (a), does not apply to programs that are under a multiyear contract on the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title VIII, §805(c), Nov. 29, 1989, 103 Stat. 1489, provided that: “Subparagraph (C) of paragraph (9) of section 2306(h) of title 10, United States Code, as added by subsection (a), does not apply to programs that are under a multiyear contract on the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Determination of Contract Type for Development Programs
 

@@ -86,7 +86,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201 inserted “and the provisions of section 5543(b)” after “the last two sentences of subsection (a)”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: “This section, otherthan the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
 Subsec. (a)(2), (3). Pub. L. 102–378, §2(42)(A), substituted “2,087” for “2,080”.
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 90–206 effective thirty days after Dec. 16, 1967, see sec
 
 #### Canal Zone Employees
 
-Section 17(3) of Pub. L. 85–550, July 25, 1958, 72 Stat. 411, provided that nothing in Pub. L. 85–550, which related to wage and employment practices of the Government of the United States in the Canal Zone, should affect the applicability of former sections 673c and 913 of this title \[covered by this section\] to those classes of employees, within the scope of former sections 673c and 913 of this title \[covered by this section\] on July 25, 1958.
+Pub. L. 85–550, §17(3), July 25, 1958, 72 Stat. 411, provided that nothing in Pub. L. 85–550, which related to wage and employment practices of the Government of the United States in the Canal Zone, should affect the applicability of former sections 673c and 913 of this title \[covered by this section\] to those classes of employees, within the scope of former sections 673c and 913 of this title \[covered by this section\] on July 25, 1958.
 

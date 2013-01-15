@@ -20,7 +20,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 &emsp;&emsp;(D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
 
-&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary forthe control of the vessel and the safety of the port or the marine environment; and
+&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
 
 &emsp;(6) may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
 
@@ -38,7 +38,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 (1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
 
-(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
+(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whoseauthority the lease was executed or the permit issued.
 
 (3) Prior to making a designation pursuant to paragraph (1) hereof, and in accordance with the requirements of section 1224 of this title, the Secretary shall—
 
@@ -62,7 +62,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### (d) Exception
 
-Except pursuant to international treaty, convention, or agreement, to which the UnitedStates is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
+Except pursuant to international treaty, convention, or agreement, to which the United States is a party, this chapter shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
 
 &emsp;(1) innocent passage through the territorial sea of the United States, or
 
@@ -90,7 +90,7 @@ The International Regulations for Preventing Collisions at Sea, 1972, referred t
 
 <b>2004</b>—Subsec. (a)(6). Pub. L. 108–293, §302(1), as amended by Pub. L. 109–241, added par. (6).
 
-Subsec. (e). Pub. L. 108–293, §302(2), as amended by Pub. L. 109–241, which directed the addition of subsec. (e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
+Subsec. (e). Pub. L. 108–293, §302(2), as amended by Pub. L. 109–241, which directed the addition of subsec.\(e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
@@ -118,6 +118,8 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Notice of Arrival for Foreign Vessels on the Outer Continental Shelf
 
+Pub. L. 112–213, title VII, §704, Dec. 20, 2012, 126 Stat. 1580, provided that: “The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 \[Pub. L. 109–347\] (33 U.S.C. 1223 note) dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under section 12105 of title 46, United States Code, unless the vessel arrives from a foreign port or place.”
+
 Pub. L. 109–347, title I, §109, Oct. 13, 2006, 120 Stat. 1893, provided that:
 
 “(a)
@@ -130,7 +132,7 @@ Content of Regulations.—The regulations promulgated pursuant to subsection (a)
 
 #### Direction of Vessel Movement Study; Submittal of Report to Congress
 
-Section 4107(b) of Pub. L. 101–380 provided that:
+Pub. L. 101–380, title IV, §4107(b), Aug. 18, 1990, 104 Stat. 514, provided that:
 
 “(1)
 

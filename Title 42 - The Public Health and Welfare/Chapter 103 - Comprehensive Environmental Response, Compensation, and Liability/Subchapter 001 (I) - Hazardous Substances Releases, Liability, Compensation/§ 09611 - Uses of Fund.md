@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and not more than $5,100,000,000 for the period commencing October 1, 1991, and ending September 30, 1994, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title IIof Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund). The President shall use the money in the Fund for the following purposes:
+For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and not more than $5,100,000,000 for the period commencing October 1, 1991, and ending September 30, 1994, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund). The President shall use the money in the Fund for the following purposes:
 
 &emsp;(1) Payment of governmental response costs incurred pursuant to section 9604 of this title, including costs incurred pursuant to the Intervention on the High Seas Act \[33 U.S.C. 1471 et seq.\].
 
@@ -26,7 +26,7 @@ Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of 
 
 #### (1) In general
 
-&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
+&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, orbelonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
 
 #### (2) Limitation on payment of natural resource claims
 
@@ -52,7 +52,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(5) Subject to such amounts as are provided in appropriation Acts, the costs of providing equipment and similar overhead, related to the purposes of this chapter and section 1321 of title 33, and needed to supplement equipment and services available through contractors or other non-Federal entities, and of establishing and maintaining damage assessment capability, for any Federal agency involved in strike forces, emergency task forces, or other response teams under the national contingency plan.
 
-&emsp;(6) Subject to such amounts as are provided in appropriation Acts, the costs of a program to protect the health and safety of employees involved in response to hazardous substance releases. Such program shall be developedjointly by the Environmental Protection Agency, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health and shall include, but not be limited to, measures for identifying and assessing hazards to which persons engaged in removal, remedy, or other response to hazardous substances may be exposed, methods to protect workers from such hazards, and necessary regulatory and enforcement measures to assure adequate protection of such employees.
+&emsp;(6) Subject to such amounts as are provided in appropriation Acts, the costs of a program to protect the health and safety of employees involved in response to hazardous substance releases. Such program shall be developed jointly by the Environmental Protection Agency, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health and shall include, but not be limited to, measures for identifying and assessing hazards to which persons engaged in removal, remedy, or other response to hazardous substances may be exposed, methods to protect workers from such hazards, and necessary regulatory and enforcement measures to assure adequate protection of such employees.
 
 &emsp;(7)
 
@@ -96,7 +96,7 @@ Lead poisoning study.—The cost of carrying out the study under subsection (f) 
 
 (1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
 
-(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
+(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>1</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
 
 (3) No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
 
@@ -108,7 +108,7 @@ The President is authorized to promulgate regulations designating one or more Fe
 
 #### (g) Notice to potential injured parties by owner and operator of vessel or facility causing release of substance; rules and regulations
 
-The President shall provide for the promulgation of rules and regulations with respect to the notice to be provided to potential injured parties by an owner and operator of any vessel, or facility from which a hazardous substance hasbeen released. Such rules and regulations shall consider the scope and form of the notice which would be appropriate to carry out the purposes of this subchapter. Upon promulgation of such rules and regulations, the owner and operator of any vessel or facility from which a hazardous substance has been released shall provide notice in accordance with such rules and regulations. With respect to releases from public vessels, the President shall provide such notification as is appropriate to potential injured parties. Until the promulgation of such rules and regulations, the owner and operator of any vessel or facility from which a hazardous substance has been released shall provide reasonable notice to potential injured parties by publication in local newspapers serving the affected area.
+The President shall provide for the promulgation of rules and regulations with respect to the notice to be provided to potential injured parties by an owner and operator of any vessel, or facility from which a hazardous substance has been released. Such rules and regulations shall consider the scope and form of the notice which would be appropriate to carry out the purposes of this subchapter. Upon promulgation of such rules and regulations, the owner and operator of any vessel or facility from which a hazardous substance has been released shall provide notice in accordance with such rules and regulations. With respect to releases from public vessels, the President shall provide such notification as is appropriate to potential injured parties. Until the promulgation of such rules and regulations, the owner and operator of any vessel or facility from which a hazardous substance has been released shall provide reasonable notice to potential injured parties by publication in local newspapers serving the affected area.
 
 #### (h) Repealed. Pub. L. 99–499, title I, §111(c)(2), Oct. 17, 1986, 100 Stat. 1643
 
@@ -122,9 +122,9 @@ The President shall use the money in the Post-closure Liability Fund for any of 
 
 #### (k) Inspector General
 
-In each fiscal year, the Inspector General of each department, agency, or instrumentality of the United States which is carrying out any authority of this chapter shall conduct an annual audit of all payments, obligations, reimbursements, or other uses of the Fund in the prior fiscal year, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The audit shall include an examination of a sample of agreements with States (in accordance with the provisions of the Single Audit Act \[31 U.S.C. 7501 et seq.\]) carrying out response actions under this subchapter and an examination of remedial investigations and feasibility studies prepared for remedial actions. The Inspector General shall submit to the Congress an annual report regarding the audit report required under this subsection. The report shall contain such recommendations as the Inspector General deems appropriate. Each department, agency, or instrumentality of the United States shall cooperate with its inspector general in carrying out this subsection.
+In each fiscal year, the Inspector General of each department, agency, or instrumentality of the United States which is carrying out any authority of this chapter shall conduct an annual audit of all payments, obligations, reimbursements, or other uses of the Fund in the prior fiscal year, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The audit shall include an examination of a sample of agreements with States (in accordance with the provisions of the Single Audit Act \[31 U.S.C. 7501 et seq.\]) carrying out response actions underthis subchapter and an examination of remedial investigations and feasibility studies prepared for remedial actions. The Inspector General shall submit to the Congress an annual report regarding the audit report required under this subsection. The report shall contain such recommendations as the Inspector General deems appropriate. Each department, agency, or instrumentality of the United States shall cooperate with its inspector general in carrying out this subsection.
 
-#### (<i>l</i>) Foreign claimants
+#### (l) Foreign claimants
 
 To the extent that the provisions of this chapter permit, a foreign claimant may assert a claim to the same extent that a United States claimant may assert a claim if—
 
@@ -144,7 +144,7 @@ There shall be directly available to the Agency for Toxic Substances and Disease
 
 #### (1) Section 9660(b)
 
-&emsp;For each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, not more than $20,000,000 of the amounts available in the Fund may be used for the purposes of carrying out the applied research, development, and demonstration program for alternative or innovative technologies and training program authorized under section 9660(b) of this title (relating to research, development, and demonstration) other than basic research. Suchamounts shall remain available until expended.
+&emsp;For each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, not more than $20,000,000 of the amounts available in the Fund may be used for the purposes of carrying out the applied research, development, and demonstration program for alternative or innovative technologies and training program authorized under section 9660(b) of this title (relating to research, development, and demonstration) other than basic research. Such amounts shall remain available until expended.
 
 #### (2) Section 9660(a)
 
@@ -166,7 +166,7 @@ There shall be directly available to the Agency for Toxic Substances and Disease
 
 &emsp;For each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, not more than $5,000,000 of the amounts available in the Fund may be used for the purposes of section 9660(d) of this title (relating to university hazardous substance research centers).
 
-#### (<i>o</i>) Notification procedures for limitations on certain payments
+#### (o) Notification procedures for limitations on certain payments
 
 Not later than 90 days after October 17, 1986, the President shall develop and implement procedures to adequately notify, as soon as practicable after a site is included on the National Priorities List, concerned local and State officials and other concerned persons of the limitations, set forth in subsection (a)(2) of this section, on the payment of claims for necessary response costs incurred with respect to such site.
 
@@ -192,13 +192,13 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 &emsp;&emsp;(H) For fiscal year 1994, $212,500,000.
 
-> &emsp;In addition there is authorized to be appropriated to the Hazardous Substance Superfund for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 9631(b) <sup>3</sup> of this title) as has not been appropriated before the beginning of the fiscal year involved.
+> &emsp;In addition there is authorized to be appropriated to the Hazardous Substance Superfund for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 9631(b) <sup>1</sup> of this title) as has not been appropriated before the beginning of the fiscal year involved.
 
 #### (2) Computation
 
 &emsp;The amounts authorized to be appropriated under paragraph (1) of this subsection in a given fiscal year shall be available only to the extent that such amount exceeds the amount determined by the Secretary under section 9507(b)(2) of title 26 for the prior fiscal year.
 
-(Pub. L. 96–510, title I, §111, Dec. 11, 1980, 94 Stat. 2788; Pub. L. 99–499, title I, §111, title II, §207(d), Oct. 17, 1986, 100 Stat. 1642, 1706; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 857; Pub. L. 101–508, title VI, §6301, Nov. 5, 1990, 104 Stat. 1388–319.)
+(Pub. L. 96–510, title I, §111, Dec. 11, 1980, 94 Stat. 2788; Pub. L. 99–499, title I, §111, title II, §207(d), Oct. 17, 1986, 100 Stat. 1642, 1706; Pub. L. 101–144,title III, Nov. 9, 1989, 103 Stat. 857; Pub. L. 101–508, title VI, §6301, Nov. 5, 1990, 104 Stat. 1388–319.)
 
 #### References in Text
 
@@ -212,7 +212,7 @@ Section 304 of this Act, referred to in subsec. (b), is section 304 of Pub. L. 9
 
 Fishery conservation zone, referred to in subsec. (b), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
 
-This chapter, referred to in subsecs. (c)(5), (i), (k), and (<i>l</i>), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (c)(5), (i), (k), and (l), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Subsection (f) of section 118 of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (c)(14), is section 118(f) of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1657, which is not classified to the Code.
 
@@ -220,9 +220,9 @@ Subchapter II of this chapter, referred to in subsec. (e)(2), was in the origina
 
 The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
-The Outer Continental Shelf Lands Act as amended, referred to in subsec. (<i>l</i>)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands.For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act as amended, referred to in subsec. (l)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
-The Deepwater Port Act of 1974, as amended, referred to in subsec. (<i>l</i>)(3), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, as amended, referred to in subsec. (l)(3), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 Section 9631(b) of this title, referred to in subsec. (p)(1), was repealed by Pub. L. 99–499, title V, §517(c)(1), Oct. 17, 1986, 100 Stat. 1774.
 
@@ -291,8 +291,4 @@ Reports to Congress on Audits.—The Inspector General shall submit to Congress 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

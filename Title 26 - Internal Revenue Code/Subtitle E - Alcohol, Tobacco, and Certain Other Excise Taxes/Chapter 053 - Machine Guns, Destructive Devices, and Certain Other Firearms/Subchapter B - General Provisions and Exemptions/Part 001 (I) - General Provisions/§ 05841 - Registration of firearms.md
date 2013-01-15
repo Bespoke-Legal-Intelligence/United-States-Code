@@ -20,7 +20,7 @@ Each manufacturer shall notify the Secretary of the manufacture of a firearm in 
 
 #### (d) Firearms registered on effective date of this Act
 
-A person shown as possessing a firearm by the records maintained by the Secretary pursuantto the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 <sup>1</sup> shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
+A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 <sup>1</sup> shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
 
 #### (e) Proof of registration
 

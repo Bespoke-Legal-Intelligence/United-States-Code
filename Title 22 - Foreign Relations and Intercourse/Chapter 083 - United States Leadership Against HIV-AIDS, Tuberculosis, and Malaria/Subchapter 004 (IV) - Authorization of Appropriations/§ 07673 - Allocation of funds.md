@@ -22,7 +22,7 @@
 
 #### (3) Exclusion
 
-&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promoting universal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
+&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promotinguniversal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
 
 #### (4) Report
 
@@ -38,7 +38,7 @@ For fiscal years 2009 through 2013, not less than 10 percent of the amounts appr
 
 #### (c) Funding allocation
 
-For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuantto section 7671 of this title shall be expended for—
+For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title shall be expended for—
 
 &emsp;(1) antiretroviral treatment for HIV/AIDS;
 

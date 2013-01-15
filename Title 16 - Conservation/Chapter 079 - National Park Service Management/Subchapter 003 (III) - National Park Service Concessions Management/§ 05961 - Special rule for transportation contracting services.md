@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, a service contract entered into by t
 
 #### (b) Obligation of funds
 
-Notwithstanding any other provision of law, with respect to a service contract for the provision solely of transportation services at Zion National Park, the Secretary may obligate the expenditure of fees received in fiscal year 2002under section 5981 of this title before the fees are received.
+Notwithstanding any other provision of law, with respect to a service contract for the provision solely of transportation services at ZionNational Park, the Secretary may obligate the expenditure of fees received in fiscal year 2002 under section 5981 of this title before the fees are received.
 
 (Pub. L. 105–391, title IV, §412, Nov. 13, 1998, 112 Stat. 3515; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §143\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–291, title I, §139, Oct. 11, 2000, 114 Stat. 949; Pub. L. 107–63, title I, §122, Nov. 5, 2001, 115 Stat. 440.)
 

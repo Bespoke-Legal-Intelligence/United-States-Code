@@ -20,7 +20,7 @@ This section shall not apply to service performed—
 
 &emsp;(2) by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order;
 
-&emsp;(3) in the employ of a governmental entity referred to in paragraph (7) of section 3306(c),if such service is performed by an individual in the exercise of his duties—
+&emsp;(3) in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such service is performed by an individual in the exercise of his duties—
 
 &emsp;&emsp;(A) as an elected official;
 
@@ -84,7 +84,7 @@ Subsec. (a)(1)(B). Pub. L. 94–566, §115(a), struck out “performed in the em
 
 Subsec. (a)(2). Pub. L. 94–566, §506(a), substituted “a governmental entity or any other organization” for “an organization”, “paragraph (1)” for “paragraph (1)(A)”, and “that governmental entities or other organizations” for “that organizations”.
 
-Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air NationalGuard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
+Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
 
 Subsec. (b)(6). Pub. L. 94–566, §115(b)(2), substituted “by an inmate of a custodial or penal institution” for “for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution”.
 
@@ -96,13 +96,13 @@ Amendment by Pub. L. 106–554 applicable to service performed on or after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Section 5405(b) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title V, §5405(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 5407(b) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title V, §5407(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 302(d)(2) of Pub. L. 95–19 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 506 of the Unemployment Compensation Amendments of 1976 \[which amended this section in 1976, see Effective Date of 1976 Amendment note below\].”
+Pub. L. 95–19, title III, §302(d)(2), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 506 of the Unemployment Compensation Amendments of 1976 \[which amended this section in 1976, see Effective Date of 1976 Amendment note below\].”
 
 #### Effective Date of 1976 Amendment
 

@@ -58,7 +58,7 @@ For rice of the 1959 and 1960 crops, the level of support shall be not less than
 
 &emsp;(5) price support may be made available to noncooperators at such levels, not in excess of the level of price support to cooperators, as the Secretary determines will facilitate the effective operation of the program.<sup>1</sup>
 
-&emsp;(6) Except <sup>2</sup> as provided in subsection (c) of this section and section 1422 of this title, thelevel of support to cooperators shall be not more than 90 per centum and not less than 82½ per centum of the parity price for the 1955 crop of any basic agricultural commodity with respect to which producers have not disapproved marketing quotas; within such limits, the minimum level of support shall be fixed as provided in subsections (a) and (b) of this section.<sup>1</sup>
+&emsp;(6) Except <sup>2</sup> as provided in subsection (c) of this section and section 1422 of this title, the level of support to cooperators shall be not more than 90 per centum and not less than 82½ per centum of the parity price for the 1955 crop of any basic agricultural commodity with respect to which producers have not disapproved marketing quotas; within such limits, the minimum level of support shall be fixed as provided in subsections (a) and (b) of this section.<sup>1</sup>
 
 &emsp;(7) Where a State is designated under section 1335(e) of this title, as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
 
@@ -104,11 +104,11 @@ Subsec. (i)(5)(B). Pub. L. 98–258, §402(4), inserted sentence providing that 
 
 Pub. L. 98–258, §402(5), substituted “Diversion payments made to producers under this subparagraph shall be made in an amount computed by multiplying” for “Such payments shall be made in an amount computed by multiplying”.
 
-Pub. L. 98–258, §402(6), substituted “$3.00 per hundredweight for the 1983 crop of rice, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate, and at not less than $2.70 per hundredweight for the 1985 crop of rice” for “$3.00 per hundredweight, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate” after “The diversion payment rate shall be established by the Secretary at not less than” and inserted a proviso that if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed (I) thirty-five million hundredweight, suchrate shall be established by the Secretary at not less than $3.25 per hundredweight, and (II) forty-two million five hundred thousand hundredweight, such rate shall be established by the Secretary at not less than $3.50 per hundredweight.
+Pub. L. 98–258, §402(6), substituted “$3.00 per hundredweight for the 1983 crop of rice, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate, and at not less than $2.70 per hundredweight for the 1985 crop of rice” for “$3.00 per hundredweight, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate” after “The diversion payment rate shall be established by the Secretary at not less than” and inserted a proviso that if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed (I) thirty-five million hundredweight, such rate shall be established by the Secretary at not less than $3.25 per hundredweight, and (II) forty-two million five hundred thousand hundredweight, such rate shall be established by the Secretary at not less than $3.50 per hundredweight.
 
 Pub. L. 98–258, §402(7), substituted “1983 and 1985 crops” for “1983 crop” after “The Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the”.
 
-<b>1983</b>—Subsec. (f). Pub. L. 98–88 struck out subsec. (f) which read as follows: “The provisions of this Act relating to price support for cotton shall apply severally to (1) American upland cotton and (2) extra long staple cotton described in subsection (a) of this section and ginned as required by subsection (e) of section 1347 of this title, except that, notwithstanding any other provision of this Act, price support shall be made available for the 1982 and each subsequent crop of extra long staple cotton through nonrecourse loans as provided in this subsection. If producers have not disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which is not less than 75 per centum or more than 125 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. If producers have disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which shall be 50 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. Nothing contained herein shall affect the authority of the Secretary to make price support available for extra long staple cotton in accordance with section 1422 of this title.” See section 1444(h) of this title.
+<b>1983</b>—Subsec. (f). Pub. L. 98–88 struck out subsec. (f) which read as follows: “The provisions of this Act relating to price support for cotton shall apply severally to (1) American upland cotton and (2) extra long staple cotton described in subsection (a) of this section and ginned as required by subsection (e) of section 1347 of this title, except that, notwithstanding any other provision of this Act, price support shall be made available for the 1982 and each subsequent crop of extra long staple cotton through nonrecourse loans as provided in this subsection. If producers have not disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which is not less than 75 per centum or more than 125 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5through 4.9) of such crop at average location in the United States. If producers have disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which shall be 50 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. Nothing contained herein shall affect the authority of the Secretary to make price support available for extra long staple cotton in accordance with section 1422 of this title.” See section 1444(h) of this title.
 
 <b>1982</b>—Subsec. (i)(5)(A). Pub. L. 97–253, §125(1)–(3), substituted “Notwithstanding any other provision of law, except as provided in the third and fourth sentences of this paragraph, the” for “Notwithstanding any other provision of this subsection, the”, following second sentence, inserted provision that for the 1983 crop of rice, the Secretary shall provide for a combination of (i) an acreage limitation program as described under this subparagraph and (ii) a diversion program as described under subpar. (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of 20 per centum, consisting of a reduction of 15 per centum under the acreage limitation program and a reduction of 5 per centum under the diversion program, and that as a condition of eligibility for loans, purchases, and payments on the 1983 crop of rice, the producers on a farm must comply with the terms and conditions of the combined acreage limitation and diversion program, and, following ninth sentence, inserted provision that notwithstanding the other provisions of this subparagraph, the acreage base to be used for the farm under the program for the 1983 crop of rice shall be the same as the acreage base applicable to the farm under the acreage limitation program for the 1982 crop, adjusted to reflect established crop-rotation practices and to reflect such other factors as the Secretary determines should be considered in determining a fair and equitable base.
 
@@ -164,17 +164,17 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 602 of Pub. L. 99–198 provided that the amendment made by that section is effective for 1985 crop of rice.
+Pub. L. 99–198, title VI, §602, Dec. 23, 1985, 99 Stat. 1427, provided that the amendment made by section 602 is effective for the 1985 crop of rice.
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 98–88 provided that the amendment made by that section is effective beginning with 1984 crop of extra long staple cotton.
+Pub. L. 98–88, §2, Aug. 26, 1983, 97 Stat. 494, provided that the amendment made by section 2 is effective beginning with the 1984 crop of extra long staple cotton.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 508 of Pub. L. 97–98 provided that the amendment made by that section is effective beginning with 1982 crop of extra long staple cotton.
+Pub. L. 97–98, title V, §508, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 508 is effective beginning with the 1982 crop of extra long staple cotton.
 
-Section 602 of Pub. L. 97–98 provided that the amendment made by that section is effective only for 1982 through 1985 crops of rice.
+Pub. L. 97–98, title VI, §602, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 602 is effective only for the 1982 through 1985 crops of rice.
 
 #### Effective Date of 1979 Amendment
 
@@ -182,19 +182,19 @@ Pub. L. 96–176 provided that the amendment made by that section is effective w
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Section 702 of Pub. L. 95–113 provided that the amendment made by that section is effective only for 1978 through 1981 crops of rice.
+Pub. L. 95–113, title VII, §702, Sept. 29, 1977, 91 Stat. 940, provided that the amendment made by section 702 is effective only for the 1978 through 1981 crops of rice.
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, except as otherwise provided, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
 #### Effective and Termination Dates of 1976 Amendment
 
-Section 102 of Pub. L. 94–214 provided that the amendment made by that section is effective for 1976 and 1977 crops of rice.
+Pub. L. 94–214, title I, §102, Feb. 16, 1976, 90 Stat. 183, provided that the amendment made by section 102 is effective for the 1976 and 1977 crops of rice.
 
 #### Effective Date of 1958 Amendment
 
-Section 104(b)(3) of act Oct. 31, 1949, as added by section 201 of Pub. L. 85–835, provided for repeal of subsec. (d)(4) of this section effective with 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
+Act Oct. 31, 1949, ch. 792, title I, §104(b)(3), as added by Pub. L. 85–835, title II, §201, Aug. 28, 1958, 72 Stat. 994, provided for repeal of subsec. (d)(4) of this section effective with the 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
 
-Section 302(a) of Pub. L. 85–835 provided in part that the amendment by Pub. L. 85–835 \[amending this section\] is effective beginning with the 1959 crop.
+Pub. L. 85–835, title III, §302(a), Aug. 28, 1958, 72 Stat. 994, provided that the amendment made by section 302(a) is effective beginning with the 1959 crop.
 
 #### Savings Provision
 
@@ -208,13 +208,13 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 Pub. L. 101–624, title VIII, §808, Nov. 28, 1990, 104 Stat. 3478, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1991 through 1995 crops of peanuts.”
 
-Section 707 of Pub. L. 99–198 provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1986 through 1990 crops of peanuts.”
+Pub. L. 99–198, title VII, §707, Dec. 23, 1985, 99 Stat. 1441, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1986 through 1990 crops of peanuts.”
 
-Section 707 of Pub. L. 97–98 provided that: “Section 101 of the Agricultural Act of 1949 \[this section\] shall not be applicable to the 1982 through 1985 crops of peanuts.”
+Pub. L. 97–98, title VII, §707, Dec. 22, 1981, 95 Stat. 1256, provided that: “Section 101 of the Agricultural Act of 1949 \[7 U.S.C. 1441\] shall not be applicable to the 1982 through 1985 crops of peanuts.”
 
 #### Report on Trading of Rice Futures
 
-Section 603 of Pub. L. 97–98 required Secretary of Agriculture to submit a report to Congress evaluating the trading of rice futures on commodity exchanges by July 31, 1983.
+Pub. L. 97–98, title VI, §603, Dec. 22, 1981, 95 Stat. 1248, required Secretary of Agriculture to submit a report to Congress evaluating the trading of rice futures on commodity exchanges by July 31, 1983.
 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 

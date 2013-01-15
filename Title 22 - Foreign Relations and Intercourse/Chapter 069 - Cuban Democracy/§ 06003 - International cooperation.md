@@ -32,7 +32,7 @@ The President should encourage the governments of countries that conduct trade w
 
 #### (3) Applicability of section
 
-&emsp;This section, and any sanctions imposed pursuant to this section, shall cease to apply atsuch time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
+&emsp;This section, and any sanctions imposed pursuant to this section, shall cease to apply at such time as the President makes and reports to the Congress a determination under section 6007(a) of this title.
 
 (Pub. L. 102–484, div. A, title XVII, §1704, Oct. 23, 1992, 106 Stat. 2576; Pub. L. 104–114, title I, §102(f), Mar. 12, 1996, 110 Stat. 793.)
 

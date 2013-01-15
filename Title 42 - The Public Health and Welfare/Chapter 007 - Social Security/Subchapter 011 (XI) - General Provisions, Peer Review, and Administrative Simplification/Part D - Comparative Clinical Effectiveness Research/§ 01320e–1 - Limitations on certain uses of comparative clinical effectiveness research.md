@@ -4,7 +4,7 @@
 
 (b) Nothing in section 1320e of this title shall be construed as—
 
-&emsp;(1) superceding or modifying the coverage of items or services under subchapter XVIII that the Secretary determines are reasonable and necessary under section 1395y(<i>l</i>)(1) of this title; or
+&emsp;(1) superceding or modifying the coverage of items or services under subchapter XVIII that the Secretary determines are reasonable and necessary under section 1395y(l)(1) of this title; or
 
 &emsp;(2) authorizing the Secretary to deny coverage of items or services under such subchapter solely on the basis of comparative clinical effectiveness research.
 

@@ -40,5 +40,5 @@ Funds so appropriated shall be available for administration, investigations, pla
 
 #### Contract Authority; Appropriations
 
-Pub. L. 85–740 provided in part that the contract authority and appropriations authorized by the amendment to clause (7) of this section shall be in addition to sums apportioned to Indian reservations or to the State of Arizona under the Federal Highway Act, as amended and supplemented.
+Pub. L. 85–740, Aug. 23, 1958, 72 Stat. 834, provided in part that the contract authority and appropriations authorized by the amendment to clause (7) of this section shall be in addition to sums apportioned to Indian reservations or to the State of Arizona under the Federal Highway Act, as amended and supplemented.
 

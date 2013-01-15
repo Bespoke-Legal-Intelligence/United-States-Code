@@ -42,7 +42,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 
 “Congress makes the following findings:
 
-&emsp;“(1) The American people abhor torture by any government or person. The existence of torture creates aclimate of fear and international insecurity that affects all people.
+&emsp;“(1) The American people abhor torture by any government or person. The existence of torture creates a climate of fear and international insecurity that affects all people.
 
 &emsp;“(2) Torture is the deliberate mental and physical damage caused by governments to individuals to destroy individual personality and terrorize society. The effects of torture are long term. Those effects can last a lifetime for the survivors and affect future generations.
 
@@ -56,7 +56,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 
 &emsp;“(7) There is a need for a comprehensive strategy to protect and support torture victims and their treatment providers, together with overall efforts to eliminate torture.
 
-&emsp;“(8) By acting to heal the survivors of torture and protect their families, the United States can help to heal the effects of torture and prevent its use around the world.
+&emsp;“(8) By acting to heal the survivors of torture and protect their families, the United States can help toheal the effects of torture and prevent its use around the world.
 
 #### “SEC. 3. DEFINITION.
 

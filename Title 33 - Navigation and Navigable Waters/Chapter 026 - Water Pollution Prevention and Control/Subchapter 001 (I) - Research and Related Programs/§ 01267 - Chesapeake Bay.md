@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantiallyall aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -230,7 +230,7 @@ There is authorized to be appropriated to carry out this section $40,000,000 for
 
 #### Codification
 
-November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 106–457, which amendedthis section generally, to reflect the probable intent of Congress.
+November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 106–457, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -360,7 +360,7 @@ Sec. 302. <i>Elements of EPA Reports</i>. The strategies and actions identified 
 
 #### PART 4—Agricultural Practices To Protect the Chesapeake Bay
 
-Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the reportrequired by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentrate the USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
+Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the report required by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentrate the USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
 
 #### PART 5—Reduce Water Pollution From Federal Lands and Facilities
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, of an asset-backed security\(as such term is defined in section 78c of this title, which for the purposes of this section shall include a synthetic asset-backed security), shall not, at any time for a period ending on the date that is one year after the date of the first closing of the sale of the asset-backed security, engage in any transaction that would involve or result in any material conflict of interest with respect to any investor in a transaction arising out of such activity.
+An underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, of an asset-backed security (as such term is defined in section 78c of this title, which for the purposes of this section shall include a synthetic asset-backed security), shall not, at any time for a period ending on the date that is one year after the date of the first closing of the sale of the asset-backed security, engage in any transaction that would involve or result in any material conflict of interest with respect to any investor in a transaction arising out of such activity.
 
 #### (b) Rulemaking
 
@@ -22,7 +22,7 @@ The prohibitions of subsection (a) shall not apply to—
 
 #### (d) Rule of construction
 
-This subsection <sup>1</sup> shall not otherwise limit the application of section 78<i>o</i>–11 of this title.
+This subsection <sup>1</sup> shall not otherwise limit the application of section 78o–11 of this title.
 
 (May 27, 1933, ch. 38, title I, §27B, as added Pub. L. 111–203, title VI, §621(a), July 21, 2010, 124 Stat. 1631.)
 

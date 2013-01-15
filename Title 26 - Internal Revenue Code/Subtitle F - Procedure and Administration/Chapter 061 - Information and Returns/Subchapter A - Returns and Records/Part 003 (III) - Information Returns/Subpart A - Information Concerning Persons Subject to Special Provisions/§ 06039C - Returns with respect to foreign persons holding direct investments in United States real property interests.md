@@ -50,7 +50,7 @@ For purposes of this section—
 
 A nonresident alien individual or foreign corporation subject to tax under section 897(a) (and any person required to withhold tax under section 1445) shall pay any tax and file any return required by this title—
 
-&emsp;(1) to the United States, in the case of any interest in real property located in the United States and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the United States) described in section 897(c)(1)(A)(ii), and
+&emsp;(1) to the United States, in the case of any interest in real property located in the United States and an interest (other than an interestsolely as a creditor) in a domestic corporation (with respect to the United States) described in section 897(c)(1)(A)(ii), and
 
 &emsp;(2) to the Virgin Islands, in the case of any interest in real property located in the Virgin Islands and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the Virgin Islands) described in section 897(c)(1)(A)(ii).
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 129(c)(2) of Pub. L. 98–369 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to calendar year 1980 and subsequent calendar years.”
+Pub. L. 98–369, div. A, title I, §129(c)(2), July 18, 1984, 98 Stat. 660, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to calendar year 1980 and subsequent calendar years.”
 
 #### Effective Date of 1981 Amendment
 

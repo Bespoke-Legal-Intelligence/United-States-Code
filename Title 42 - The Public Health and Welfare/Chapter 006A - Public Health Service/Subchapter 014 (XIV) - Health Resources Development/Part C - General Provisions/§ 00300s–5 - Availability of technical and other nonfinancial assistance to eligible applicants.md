@@ -6,7 +6,7 @@ The Secretary shall provide (either through the Department of Health and Human S
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–79, §203(f), substituted “other entity” for “other nonprofit entity” and “section 300s–1 or 300t–12 of this title” for “section 300<i>o</i>–3 of this title.”
+<b>1979</b>—Pub. L. 96–79, §203(f), substituted “other entity” for “other nonprofit entity” and “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title.”
 
 #### Change of Name
 

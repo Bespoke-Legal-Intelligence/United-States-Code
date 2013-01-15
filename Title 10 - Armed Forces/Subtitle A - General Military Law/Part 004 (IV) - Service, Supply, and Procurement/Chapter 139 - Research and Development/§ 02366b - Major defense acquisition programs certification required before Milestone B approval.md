@@ -24,11 +24,11 @@ Certification.—A major defense acquisition program may not receive Milestone B
 
 &emsp;&emsp;(C) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program;
 
-&emsp;&emsp;(D) the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering;
+&emsp;&emsp;(D) the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
 
 &emsp;&emsp;(E) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
 
-&emsp;&emsp;(F) an estimate has been made of the requirements for core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities and the associated sustaining workloads required to support such requirements; and
+&emsp;&emsp;(F) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements; and
 
 &emsp;&emsp;(G) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
 
@@ -90,7 +90,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “core logistics capabilities” means the core logistics capabilities identified under section 2464(a) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501.)
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII,§813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867.)
 
 #### Prior Provisions
 
@@ -98,9 +98,13 @@ A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(3)(D). Pub. L. 112–239, §904(e)(2), substituted “the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation” for “the Assistant Secretary of Defense for Research and Engineering”.
+
+Subsec. (a)(3)(F). Pub. L. 112–239, §322(e)(2), which directed amendment of subsec. (A)(3)(F) of this section by substituting “core logistics capabilities” for “core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities”, was executed by making the substitution in subsec. (a)(3)(F) of this section to reflect the probable intent of Congress.
+
 <b>2011</b>—Pub. L. 112–81, §801(e)(2)(A), struck out “or Key Decision Point B” after “Milestone B” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, §801(e)(2)(B), struck out “, or Key Decision Point B approval in the case of aspace program,” after “Milestone B approval” in introductory provisions.
+Subsec. (a). Pub. L. 112–81, §801(e)(2)(B), struck out “, or Key Decision Point B approval in the case of a space program,” after “Milestone B approval” in introductory provisions.
 
 Subsec. (a)(3)(D). Pub. L. 111–383, §901(j)(4), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
@@ -172,6 +176,10 @@ Subsec. (a)(10). Pub. L. 109–364, §805(a)(1), redesignated par. (7) as (10).
 
 Subsec. (c). Pub. L. 109–364, §805(b), substituted “(5), (6), (7), (8), or (9)” for “(5), or (6)”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by section 322(e)(2) of Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L. 112–81, see section 322(f) of Pub. L. 112–239, set out as an note under section 2366a of this title.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title VIII, §813(d)(1), Jan. 7, 2011, 124 Stat. 4265, provided that the amendment made by section 813(d)(1) is effective as of May 22, 2009.
@@ -182,23 +190,7 @@ Pub. L. 111–383, div. A, title X, §1075(k), Jan. 7, 2011, 124 Stat. 4378, pro
 
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 
-Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, provided that:
-
-“(1)
-
-Determination.—Not later than 270 days after the date of the enactment of this Act \[May 22, 2009\], for each major defense acquisition program that received Milestone B approval before January 6, 2006, and has not received Milestone C approval, and for each space program that received Key Decision Point B approval before January 6, 2006, and has not received Key Decision Point C approval, the Milestone Decision Authority shall determine whether or not such program satisfies all of the certification components specified in paragraphs (1), (2), and (3) of subsection (a) of section 2366b of title 10, United States Code (as amended by subsection (a) of this section).
-
-“(2)
-
-Annual review.—The Milestone Decision Authority shall review any program determined pursuant to paragraph (1) not to satisfy any of the certification components of subsection (a) of section 2366b of title 10,United States Code (as so amended), not less often than annually thereafter to determine the extent to which such program currently satisfies such certification components until such time as the Milestone Decision Authority determines that such program satisfies all such certification components.
-
-“(3)
-
-Designation of certification status in budget documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program which the Milestone Decision Authority determines under paragraph (1) does not satisfy all of the certification components of subsection (a) of section 2366b of title 10, United States Code, (as so amended) shall prominently and clearly indicate that such program has not fully satisfied such certification components until such time as the Milestone Decision Authority makes the determination that such program has satisfied all such certification components.”
-
-\[Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, provided that the amendment made by section 813(d)(2) to section 205(b) of Pub. L. 111–23, set out above, is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.\]
-
-\[For definition of “major defense acquisition program” as used in section 205(b) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note under section 2430 of this title.\]
+Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
 
 #### Formal Review Process for Bandwidth Requirements
 

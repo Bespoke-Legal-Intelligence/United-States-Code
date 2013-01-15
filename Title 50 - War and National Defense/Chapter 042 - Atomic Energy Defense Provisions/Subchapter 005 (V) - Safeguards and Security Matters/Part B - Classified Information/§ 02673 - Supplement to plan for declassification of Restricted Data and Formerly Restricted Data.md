@@ -16,7 +16,7 @@ All records referred to in subsection (b) shall be treated, for purposes of subs
 
 The Secretary of Energy shall submit the supplement required under subsection (a) to the recipients of the plan referred to in subsection (d) of section 2672 of this title.
 
-(Pub. L. 107–314, div. D, title XLV, §4523, formerly Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938; renumbered Pub. L. 107–314, div. D, title XLV, §4523, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(13), Nov. 24, 2003, 117 Stat. 1775.)
+(Pub. L. 107–314, div. D, title XLV, §4523, formerly Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938; renumbered Pub. L. 107–314, div. D, title XLV, §4523, and amendedPub. L. 108–136, div. C, title XXXI, §3141(h)(13), Nov. 24, 2003, 117 Stat. 1775.)
 
 #### References in Text
 

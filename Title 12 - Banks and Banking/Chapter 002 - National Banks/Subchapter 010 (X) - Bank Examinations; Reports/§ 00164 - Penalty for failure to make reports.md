@@ -34,7 +34,7 @@ Any penalty imposed under subsection (a), (b), or (c) of this section shall be a
 
 #### (e) Hearing
 
-Any association against which any penalty is assessed under this subsection <sup>1</sup> shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this section.
+Any association against which any penalty is assessed under this subsection <sup>1</sup> shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section1818(h) of this title shall apply to any proceeding under this section.
 
 (R.S. §5213; Pub. L. 86–230, §12, Sept. 8, 1959, 73 Stat. 458; Pub. L. 101–73, title IX, §911(b)(2), Aug. 9, 1989, 103 Stat. 478.)
 
@@ -44,7 +44,7 @@ R.S. §5213 derived from act Mar. 3, 1869, ch. 130, §§1, 2, 15 Stat. 326, 327.
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Every association which fails to make and transmit any report required under section 161 of this title shall be subject to a penalty of $100 for each day after the periods, respectively, therein mentioned, that it delays to make and transmit its report. Whenever any association delays or refuses to pay the penalty herein imposed, after it hasbeen assessed by the Comptroller of the Currency, the amount thereof may be retained by the Treasurer of the United States, upon the order of the Comptroller of the Currency, out of the interest, as it may become due to the association, on the bonds deposited with him to secure circulation. All sums of money collected for penalties under this section shall be paid into the Treasury of the United States.”
+<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Every association which fails to make and transmit any report required under section 161 of this title shall be subject to a penalty of $100 for each day after the periods, respectively, therein mentioned, that it delays to make and transmit its report. Whenever any association delays or refuses to pay the penalty herein imposed, after it has been assessed by the Comptroller of the Currency, the amount thereof may be retained by the Treasurer of the United States, upon the order of the Comptroller of the Currency, out of the interest, as it may become due to the association, on the bonds deposited with him to secure circulation. All sums of money collected for penalties under this section shall be paid into the Treasury of the United States.”
 
 <b>1959</b>—Pub. L. 86–230 substituted “section 161 of this title” for “either section 161 or 163 of this title”.
 

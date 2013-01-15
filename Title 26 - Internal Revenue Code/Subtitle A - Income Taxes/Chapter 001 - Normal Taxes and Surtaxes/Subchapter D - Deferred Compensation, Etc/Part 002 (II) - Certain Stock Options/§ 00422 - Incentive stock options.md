@@ -10,7 +10,7 @@ Section 421(a) shall apply with respect to the transfer of a share of stock to a
 
 #### (b) Incentive stock option
 
-For purposes of this part, the term “incentive stock option” means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiary corporation, to purchase stock of any of such corporations, but only if—
+For purposes of this part, the term “incentive stock option” means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiarycorporation, to purchase stock of any of such corporations, but only if—
 
 &emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
 
@@ -44,7 +44,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 #### (3) Certain transfers by insolvent individuals
 
-&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of anincentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
+&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
 
 #### (4) Permissible provisions
 
@@ -144,23 +144,23 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 321(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to options granted after December 31, 1986.”
+Pub. L. 99–514, title III, §321(c), Oct. 22, 1986, 100 Stat. 2220, provided that: “The amendments made by this section \[amending this section\] shall apply to options granted after December 31, 1986.”
 
 Amendment by section 1847(b)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 555(c)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
+Pub. L. 98–369, div. A, title V, §555(c)(1), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
 
 Amendment by section 2662 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Section 251(c) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §251(c), Aug. 13, 1981, 95 Stat. 259, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -184,7 +184,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Treatment of Options as Incentive Stock Options
 
-Section 1003(d)(1)(B) of Pub. L. 100–647 provided that: “In the case of an option granted after December 31, 1986, and on or before the date of the enactment of this Act \[Nov. 10, 1988\], such option shall not be treated as an incentive stock option if the terms of such option are amended before the date 90 days after such date of enactment to provide that such option will not be treated as an incentive stock option.”
+Pub. L. 100–647, title I, §1003(d)(1)(B), Nov. 10, 1988, 102 Stat. 3384, provided that: “In the case of an option granted after December 31, 1986, and on or before the date of the enactment of this Act \[Nov. 10, 1988\], such option shall not be treated as an incentive stock option if the terms of such option are amended before the date 90 days after such date of enactment to provide that such option will not be treated as an incentive stock option.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

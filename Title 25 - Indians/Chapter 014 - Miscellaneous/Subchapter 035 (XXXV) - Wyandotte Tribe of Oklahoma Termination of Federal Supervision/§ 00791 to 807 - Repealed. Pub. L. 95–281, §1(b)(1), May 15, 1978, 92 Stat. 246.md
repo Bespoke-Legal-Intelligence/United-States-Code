@@ -36,9 +36,9 @@ Section 807, act Aug. 1, 1956, ch. 843, §17, 70 Stat. 896, authorized Secretary
 
 #### Repeal of Inconsistent Laws
 
-Section 18 of act Aug. 1, 1956, which related to repeal of inconsistent Acts, etc., was repealed by Pub. L. 95–281, §1(b)(1), May 15, 1978, 92 Stat. 246.
+Act Aug. 1, 1956, ch. 843, §18, 70 Stat. 896, which related to repeal of inconsistent Acts, etc., was repealed by Pub. L. 95–281, §1(b)(1), May 15, 1978, 92 Stat. 246.
 
 #### Separability
 
-Section 19 of act Aug. 1, 1956, which provided for validity of remainder of act of Aug. 1, 1956, in event of determination of invalidity of any part of such act, was repealed by Pub. L. 95–281, §1(b)(1), May 15, 1978, 92 Stat. 246.
+Act Aug. 1, 1956, ch. 843, §19, 70 Stat. 897, which provided for validity of remainder of act of Aug. 1, 1956, in event of determination of invalidity of any part of such act, was repealed by Pub. L. 95–281, §1(b)(1), May 15, 1978, 92 Stat. 246.
 

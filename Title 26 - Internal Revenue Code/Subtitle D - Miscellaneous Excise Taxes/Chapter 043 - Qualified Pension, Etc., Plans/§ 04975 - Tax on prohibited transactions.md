@@ -52,7 +52,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (6) Special rule for health savings accounts
 
-&emsp;An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
+&emsp;An individual for whose benefit a health savings account (within the meaning of section223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
 
 #### (d) Exemptions
 
@@ -122,7 +122,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(14) any transaction required or permitted under part 1 of subtitle E of title IV or section 4223 of the Employee Retirement Income Security Act of 1974, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F);
 
-&emsp;(15) a merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 4231 of such Act, butthis paragraph shall not apply with respect to the application of subsection (c)(1)(E) or (F);
+&emsp;(15) a merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 4231 of such Act, but this paragraph shall not apply with respect to the application of subsection (c)(1)(E) or (F);
 
 &emsp;(16) a sale of stock held by a trust which constitutes an individual retirement account under section 408(a) to the individual for whose benefit such account is established if—
 
@@ -180,7 +180,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>4</sup>
 
-&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationshipto such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>4</sup>
+&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>4</sup>
 
 &emsp;(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person person,<sup>7</sup> if—
 
@@ -204,7 +204,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement Income Security Act of 1974), the master trust has assets of at least $100,000,000,
 
-&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
+&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the planparticipated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
 &emsp;&emsp;(G) the investment manager does not base its fee schedule on the plan's consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan's consent to cross trading,
 
@@ -214,7 +214,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 > &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>4</sup> or
 
-&emsp;(23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition ofany security or commodity, if the transaction is corrected before the end of the correction period.
+&emsp;(23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
 
 #### (e) Definitions
 
@@ -282,7 +282,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(A) exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets,
 
-&emsp;&emsp;(B) renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or
+&emsp;&emsp;(B) renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property ofsuch plan, or has any authority or responsibility to do so, or
 
 &emsp;&emsp;(C) has any discretionary authority or discretionary responsibility in the administration of such plan.
 
@@ -308,11 +308,11 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) which is otherwise defined in regulations prescribed by the Secretary.
 
-> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(<i>o</i>), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
+> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(o), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
 
 #### (8) Qualifying employer security
 
-&emsp;The term “qualifying employer security” means any employer security within the meaning of section 409(<i>l</i>). If any moneys or other property of a plan are invested in shares of an investment company registered under the Investment Company Act of 1940, the investment shall not cause that investment company or that investment company's investment adviser or principal underwriter to be treated as a fiduciary or a disqualified person for purposes of this section, except when an investment company or its investment adviser or principal underwriter acts in connection with a plan covering employees of the investment company, its investment adviser, or its principal underwriter.
+&emsp;The term “qualifying employer security” means any employer security within the meaning of section 409(l). If any moneys or other property of a plan are invested in shares of an investment company registered under the Investment Company Act of 1940, the investment shall not cause that investment company or that investment company's investment adviser or principal underwriter to be treated as a fiduciary or a disqualified person for purposes of this section, except when an investment company or its investment adviser or principal underwriter acts in connection with a plan covering employees of the investment company, its investment adviser, or its principal underwriter.
 
 #### (9) Section made applicable to withdrawal liability payment funds
 
@@ -424,7 +424,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An investment advice program meets the requirements of this subparagraph if the requirements of clauses (ii), (iii), and (iv) are met.
+&emsp;&emsp;&emsp;An investment advice program meets the requirements of this subparagraph if therequirements of clauses (ii), (iii), and (iv) are met.
 
 #### (ii) Computer model
 
@@ -448,7 +448,7 @@ For purposes of this section—
 
 #### (II) Renewal of certifications
 
-&emsp;&emsp;&emsp;&emsp;If, as determined under regulations prescribed by the Secretary of Labor,there are material modifications to a computer model, the requirements of this clause are met only if a certification described in subclause (I) is obtained with respect to the computer model as so modified.
+&emsp;&emsp;&emsp;&emsp;If, as determined under regulations prescribed by the Secretary of Labor, there are material modifications to a computer model, the requirements of this clause are met only if a certification described in subclause (I) is obtained with respect to the computer model as so modified.
 
 #### (III) Eligible investment expert
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
-&emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or a savings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
+&emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or asavings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
 &emsp;&emsp;&emsp;&emsp;(III) an insurance company qualified to do business under the laws of a State,
 
@@ -644,7 +644,7 @@ This section shall not apply—
 
 #### (h) Notification of Secretary of Labor
 
-Before sending a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunityto obtain a correction of the prohibited transaction or to comment on the imposition of such tax.
+Before sending a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity to obtain a correction of the prohibited transaction or to comment on the imposition of such tax.
 
 #### (i) Cross reference
 
@@ -770,15 +770,15 @@ Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change
 
 Subsec. (d)(1)(B). Pub. L. 99–514, §1114(b)(15)(A), substituted “highly compensated employees (within the meaning of section 414(q))” for “highly compensated employees, officers, or shareholders”.
 
-Subsec. (e)(7). Pub. L. 99–514, §1854(f)(3)(A), inserted “, section 409(<i>o</i>), and, if applicable, section 409(n)” in last sentence.
+Subsec. (e)(7). Pub. L. 99–514, §1854(f)(3)(A), inserted “, section 409(o), and, if applicable, section 409(n)” in last sentence.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) “or an individual retirement annuity (as defined in section 408)” for “, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) “or an individual retirement annuity (as defined in section 408)” for“, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)”.
 
 Subsec. (e)(1). Pub. L. 98–369, §491(d)(46), struck out “or 405(a)” after “section 403(a)” and “or a retirement bond described in section 409” after “section 408(b)”, and substituted “or annuity” for “annuity, or bond” and “or account” for “account, or bond”.
 
 Subsec. (e)(7). Pub. L. 98–369, §491(e)(7), substituted “section 409(h)” for “section 409A(h)”, “section 409(e)(4)” for “section 409A(e)(4)”, and “section 409(e)” for “section 409A(e)”.
 
-Subsec. (e)(8). Pub. L. 98–369, §491(e)(8), substituted “section 409(<i>l</i>)” for “section 409A(<i>l</i>)”.
+Subsec. (e)(8). Pub. L. 98–369, §491(e)(8), substituted “section 409(l)” for “section 409A(l)”.
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–448 inserted “, as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” after “section 1379” in last sentence.
 
@@ -788,7 +788,7 @@ Subsec. (d)(14), (15). Pub. L. 96–364, §208(b), added pars. (14) and (15).
 
 Subsec. (e)(7). Pub. L. 96–222, §101(a)(7)(K), (L)(iv)(III), (v)(XI), substituted references to an employee stock ownership plan, for references to a leveraged employee stock ownership plan wherever appearing therein, and substituted provisions relating to treatment of a plan as an employee stock ownership plan, for provisions relating to treatment of a plan as a leveraged employee stock ownership plan.
 
-Subsec. (e)(8). Pub. L. 96–222, §101(a)(7)(C), substituted provisions defining “qualifying employer security” within the meaning of section 409A(<i>l</i>), for provisions defining such term as stock, or otherwise an equity security, or within the meaning of section 503(e)(1) to (3).
+Subsec. (e)(8). Pub. L. 96–222, §101(a)(7)(C), substituted provisions defining “qualifying employer security” within the meaning of section 409A(l), for provisions defining such term as stock, or otherwise an equity security, or within the meaning of section 503(e)(1) to (3).
 
 Subsec. (e)(9). Pub. L. 96–364, §209(b), added par. (9).
 
@@ -838,9 +838,9 @@ Pub. L. 108–357, title II, §240(b), Oct. 22, 2004, 118 Stat. 1437, provided t
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
-#### Effective Date of 2001 Amendments
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as an Effective and Termination Dates of 2001 Amendment note under section 26 of this title.
+Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
 Pub. L. 107–16, title VI, §612(c), June 7, 2001, 115 Stat. 100, provided that: “The amendment made by this section \[amending this section and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 2001.”
 
@@ -850,11 +850,11 @@ Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginni
 
 Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-Section 1074(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1074(b), Aug. 5, 1997, 111 Stat. 949, provided that: “The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1506(b)(1) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 1506(c) of Pub. L. 105–34, set out as a note under section 409 of this title.
 
-Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the useof, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
@@ -862,7 +862,7 @@ Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in 
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Section 1453(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1453(b), Aug. 20, 1996, 110 Stat. 1817, provided that: “The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 Amendment by section 1702(g)(3) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
@@ -894,13 +894,13 @@ Amendment by section 208(b) of Pub. L. 96–364 effective Sept. 26, 1980, see se
 
 Amendment by section 209(b) of Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
 
-Section 101(b)(1)(C) of Pub. L. 96–222 provided that: “The amendment made by subparagraph (C) of subsection (a)(6) \[probably should be ‘(a)(7)’, which amended this section\] shall apply to stock acquired after December 31, 1979.”
+Pub. L. 96–222, title I, §101(b)(1)(C), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendment made by subparagraph (C) of subsection (a)(6) \[probably should be ‘(a)(7)’, which amended this section\] shall apply to stock acquired after December 31, 1979.”
 
 Amendment by section 101(a)(7)(K), (L)(iv)(III), (v)(XI) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provision of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 141(h) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §101(a)(7)(B), Apr. 1, 1980, 94 Stat. 197; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraphs (5) and (6) of subsection (f) \[section 141(f)(5), (6) of Pub. L. 95–600\] shall apply—
+Pub. L. 95–600, title I, §141(h), as added by Pub. L. 96–222, title I, §101(a)(7)(B), Apr. 1, 1980, 94 Stat. 197; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraphs (5) and (6) of subsection (f) \[section 141(f)(5), (6) of Pub. L. 95–600\] shall apply—
 
 &emsp;“(1) insofar as they make the requirements of subsections (e) and (h)(1)(B) of section 409A \[now section 409\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applicable to section 4975 of such Code, to stock acquired after December 31, 1979, and
 
@@ -908,7 +908,7 @@ Section 141(h) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §101
 
 #### Effective Date; Savings Provision
 
-Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)(A) The amendments made by this section \[enacting this section and amending section 503 of this title\] shall take effect on January 1, 1975.
 
@@ -922,7 +922,7 @@ Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(C) the sale, exchange, or other disposition of property described in subparagraph (B) between a plan and a disqualified person before June 30, 1984, if—
 
-&emsp;&emsp;“(i) in the case of a sale, exchange, or other disposition of the property by the plan to the disqualified person, the plan receives an amount which is not less than the fair market value of the property at the time of such disposition; and
+&emsp;&emsp;“(i) in the case of a sale, exchange, or other disposition of the property by the plan to the disqualified person, the plan receives an amount which isnot less than the fair market value of the property at the time of such disposition; and
 
 &emsp;&emsp;“(ii) in the case of the acquisition of the property by the plan, the plan pays an amount which is not in excess of the fair market value of the property at the time of such acquisition:
 
@@ -1006,7 +1006,7 @@ In general.—If the Secretary of Labor initially makes a determination describe
 
 &emsp;“(ii)
 
-Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
+Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If theSecretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
 
 “(E)
 
@@ -1026,7 +1026,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Intent of Congress Concerning Employee Stock Ownership Plans
 
-Section 803(h) of Pub. L. 94–455 provided that: “The Congress, in a series of laws (the Regional Rail Reorganization Act of 1973, the Employee Retirement Income Security Act of 1974, the Trade Act of 1974, and the Tax Reduction Act of 1975) and this Act has made clear its interest in encouraging employee stock ownership plans as a bold and innovative method of strengthening the free private enterprise system which will solve the dual problems of securing capital funds for necessary capital growth and of bringing about stock ownership by all corporate employees. The Congress is deeply concerned that the objectives sought by this series of laws will be made unattainable by regulations and rulings which treat employee stock ownership plans as conventional retirement plans, which reduce the freedom of the employee trusts and employers to take the necessary steps to implement the plans, and which otherwise block the establishment and success of these plans. Because of the special purposes for which employee stock ownership plans are established, it is consistent with the intent of Congress to permit these plans (whether structured as pension, stock bonus, or profit-sharing plans) to distribute income on employer securities currently.”
+Pub. L. 94–455, title VIII, §803(h), Oct. 4, 1976, 90 Stat. 1590, provided that: “The Congress, in a series of laws (the Regional Rail Reorganization Act of 1973, the Employee Retirement Income Security Act of 1974, the Trade Act of 1974, and the Tax Reduction Act of 1975) and this Act has made clear its interest in encouraging employee stock ownership plans as a bold and innovative method of strengthening the free private enterprise system which will solve the dual problems of securing capital funds for necessary capital growth and of bringing about stock ownership by all corporate employees. The Congress is deeply concerned that the objectives sought by this series of laws will be made unattainable by regulations and rulings which treat employee stock ownership plans as conventional retirement plans, which reduce the freedom of the employee trusts and employers to take the necessary steps to implement the plans, and which otherwise block the establishment and success of these plans. Because of the special purposes for which employee stock ownership plans are established, it is consistent with the intent of Congress to permit these plans (whether structured as pension, stock bonus, or profit-sharing plans) to distribute income on employer securities currently.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

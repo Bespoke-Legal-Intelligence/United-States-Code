@@ -34,5 +34,5 @@ Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and
 
 #### Definition of “Director”
 
-“Director” as meaning the Director of the National Institutes of Health, see section 284<i>o</i>(a) of this title.
+“Director” as meaning the Director of the National Institutes of Health, see section 284o(a) of this title.
 

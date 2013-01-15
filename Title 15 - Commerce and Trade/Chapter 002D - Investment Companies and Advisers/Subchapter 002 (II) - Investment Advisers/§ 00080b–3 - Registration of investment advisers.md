@@ -246,7 +246,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 &emsp;In any cease-and-desist proceeding under paragraph (1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-#### (<i>l</i>) Exemption of venture capital fund advisers
+#### (l) Exemption of venture capital fund advisers
 
 No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 
@@ -298,7 +298,7 @@ Subsec. (i)(1). Pub. L. 111–203, §929P(a)(4), designated existing provisions 
 
 Subsec. (k)(4)(B). Pub. L. 111–203, §985(e)(1)(B), substituted “principal office or place of business” for “principal place of business” in concluding provisions.
 
-Subsec. (<i>l</i>). Pub. L. 111–203, §407, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 111–203, §407, added subsec. (l).
 
 Subsecs. (m), (n). Pub. L. 111–203, §408, added subsecs. (m) and (n).
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
+Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1975 Amendment
 

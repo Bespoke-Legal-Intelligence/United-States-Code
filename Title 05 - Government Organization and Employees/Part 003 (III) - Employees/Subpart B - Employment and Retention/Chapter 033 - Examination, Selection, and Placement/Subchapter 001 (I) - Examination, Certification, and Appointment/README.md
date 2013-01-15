@@ -40,3 +40,4 @@
 - [&sect; 03330a - Preference eligibles; administrative redress](%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md)
 - [&sect; 03330b - Preference eligibles; judicial redress](%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md)
 - [&sect; 03330c - Preference eligibles; remedy](%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md)
+- [&sect; 03330d - Appointment of certain military spouses](%C2%A7%2003330d%20-%20Appointment%20of%20certain%20military%20spouses.md)

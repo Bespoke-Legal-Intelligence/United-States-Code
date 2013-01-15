@@ -262,11 +262,11 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to carry out this section, provided that no funds may be appropriated for land acquisition.
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out thissection, provided that no funds may be appropriated for land acquisition.
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar.The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
 

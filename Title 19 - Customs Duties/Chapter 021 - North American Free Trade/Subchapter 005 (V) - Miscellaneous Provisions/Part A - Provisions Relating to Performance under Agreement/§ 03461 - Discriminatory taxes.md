@@ -6,7 +6,7 @@ It is the sense of the Congress that when a State, province, or other government
 
 #### Effective Date
 
-Section 516 of title V of Pub. L. 103–182 provided that:
+Pub. L. 103–182, title V, §516, Dec. 8, 1993, 107 Stat. 2160, provided that:
 
 “(a)
 

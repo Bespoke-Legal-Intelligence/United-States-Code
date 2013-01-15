@@ -16,7 +16,7 @@ Every person disposing of any substance of the character used in the manufacture
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in prior section 5213, act Aug. 16, 1954, ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising this section were contained in prior section 5213, act Aug. 16, 1954,ch. 736, 68A Stat. 639, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

@@ -92,11 +92,11 @@ Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct
 
 Amendment by sections 1805(b) and 1812(c)(3)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1812(c)(3)(A) of Pub. L. 99–514 provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
+Pub. L. 99–514, title XVIII, §1812(c)(3)(A), Oct. 22, 1986, 100 Stat. 2834, provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
 
 #### Effective Date of 1984 Amendment
 
-Section 73(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §73(b), July 18, 1984, 98 Stat. 592, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

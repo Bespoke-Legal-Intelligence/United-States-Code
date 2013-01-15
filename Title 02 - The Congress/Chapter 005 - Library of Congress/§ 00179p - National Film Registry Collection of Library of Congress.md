@@ -6,7 +6,7 @@ The Librarian shall endeavor to obtain, by gift from the owner, an archival qual
 
 #### (b) Additional materials
 
-The Librarian shall endeavor to obtain, for educational and research purposes, additional materials related to each film included in the National Film Registry, such as background materials, production reports, shooting scripts (including continuity scripts) and other similar materials.
+The Librarian shall endeavor to obtain, for educational and research purposes, additionalmaterials related to each film included in the National Film Registry, such as background materials, production reports, shooting scripts (including continuity scripts) and other similar materials.
 
 #### (c) Property of United States
 
@@ -28,7 +28,7 @@ The Librarian shall utilize the National Audio-Visual Conservation Center of the
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179<i>l</i> to 179<i>o</i> and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179<i>l</i> of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179l to 179o and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179l of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

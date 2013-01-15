@@ -16,9 +16,9 @@
 
 &emsp;&emsp;Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) shall apply for purposes of this paragraph.
 
-#### (C) Gain after 2016 not qualified
+#### (C) Gain after 2018 not qualified
 
-&emsp;&emsp;Subparagraph (A) shall not apply to gain attributable to periods after December 31, 2016.
+&emsp;&emsp;Subparagraph (A) shall not apply to gain attributable to periods after December 31, 2018.
 
 #### (D) Treatment of DC zone
 
@@ -32,15 +32,19 @@
 
 &emsp;&emsp;(B) paragraph (2) shall not apply.
 
-#### (4) 100 percent exclusion for stock acquired during certain periods in 2010 and 2011
+> &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
 
-&emsp;In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2012—
+#### (4) 100 percent exclusion for stock acquired during certain periods in 2010, 2011, 2012, and 2013
+
+&emsp;In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2014—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied by substituting “100 percent” for “50 percent”,
 
 &emsp;&emsp;(B) paragraph (2) shall not apply, and
 
 &emsp;&emsp;(C) paragraph (7) of section 57(a) shall not apply.
+
+> &emsp;In the case of any stock which would be described in the preceding sentence (but for thissentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
 
 #### (b) Per-issuer limitation on taxpayer's eligible gain
 
@@ -212,7 +216,7 @@ For purposes of this section—
 
 #### (B) Portfolio stock or securities
 
-&emsp;&emsp;A corporation shall be treated as failing to meet the requirements of paragraph (1) for any period during which more than 10 percent of the value of its assets (in excess of liabilities) consists of stock or securities in other corporations which are not subsidiaries of such corporation (other than assets described in paragraph (6)).
+&emsp;&emsp;A corporation shall be treated as failing to meet the requirements of paragraph (1) forany period during which more than 10 percent of the value of its assets (in excess of liabilities) consists of stock or securities in other corporations which are not subsidiaries of such corporation (other than assets described in paragraph (6)).
 
 #### (C) Subsidiary
 
@@ -364,7 +368,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334.)
 
 #### References in Text
 
@@ -384,6 +388,14 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(2)(C). Pub. L. 112–240, §327(b), substituted “2018” for “2016” in heading and “December 31, 2018” for “December 31, 2016” in text.
+
+Subsec. (a)(3). Pub. L. 112–240, §324(b)(1), inserted concluding provisions.
+
+Subsec. (a)(4). Pub. L. 112–240, §324(b)(2), inserted concluding provisions.
+
+Pub. L. 112–240, §324(a), substituted “, 2011, 2012, and 2013” for “and 2011” in heading and “January 1, 2014” for “January 1, 2012” in introductory provisions.
+
 <b>2010</b>—Subsec. (a)(2)(C). Pub. L. 111–312, §753(b), substituted “2016” for “2014” in heading and “December 31, 2016” for “December 31, 2014” in text.
 
 Subsec. (a)(3). Pub. L. 111–240, §2011(b), inserted “certain periods in” before “2010” in heading and substituted “on or before the date of the enactment of the Creating Small Business Jobs Act of 2010” for “before January 1, 2011” in text.
@@ -401,6 +413,24 @@ Pub. L. 111–240, §2011(a), added par. (4).
 Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
 <b>1996</b>—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §324(c), Jan. 2, 2013, 126 Stat. 2333, provided that:
+
+“(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] shall apply to stock acquired after December 31, 2011.
+
+“(2)
+
+Subsection (b)(1).—The amendment made by subsection (b)(1) \[amending this section\] shall take effect as if included in section 1241(a) of division B of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5\].
+
+“(3)
+
+Subsection (b)(2).—The amendment made by subsection (b)(2) \[amending this section\] shall take effect as if included in section 2011(a) of the Creating Small Business Jobs Act of 2010 \[title II of Pub. L. 111–240\].”
+
+Pub. L. 112–240, title III, §327(d), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendments made by this section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

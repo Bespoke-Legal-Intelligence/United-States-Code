@@ -1,6 +1,6 @@
 ### §7221g. Records transfer
 
-State educational agencies and local educational agencies, to the extent practicable, shall ensure that a student's records and, if applicable, a student's individualized education program as defined in section 1401 of this title, are transferred to a charter school upon the transfer of the student to the charter school, and to another public school upon the transfer of the student from a charter school to another public school, in accordance with applicable State law.
+State educational agencies and local educational agencies, to the extent practicable,shall ensure that a student's records and, if applicable, a student's individualized education program as defined in section 1401 of this title, are transferred to a charter school upon the transfer of the student to the charter school, and to another public school upon the transfer of the student from a charter school to another public school, in accordance with applicable State law.
 
 (Pub. L. 89–10, title V, §5208, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1798; amended Pub. L. 108–446, title III, §305(g)(2), Dec. 3, 2004, 118 Stat. 2805.)
 

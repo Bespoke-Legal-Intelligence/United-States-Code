@@ -54,7 +54,7 @@ A copy of the complaint or notice of appeal in any action under this section sha
 
 &emsp;In the case of fraud or concealment, the period described in paragraph (1)(B) shall be extended to 6 years after the applicable date specified in paragraph (2).
 
-(Pub. L. 93–406, title IV, §4070, as added Pub. L. 99–272, title XI, §11014(a), Apr. 7, 1986, 100 Stat.261; amended Pub. L. 101–239, title VII, §7881(f)(8), Dec. 19, 1989, 103 Stat. 2440.)
+(Pub. L. 93–406, title IV, §4070, as added Pub. L. 99–272, title XI, §11014(a), Apr. 7, 1986, 100 Stat. 261; amended Pub. L. 101–239, title VII, §7881(f)(8), Dec. 19, 1989, 103 Stat. 2440.)
 
 #### Amendments
 

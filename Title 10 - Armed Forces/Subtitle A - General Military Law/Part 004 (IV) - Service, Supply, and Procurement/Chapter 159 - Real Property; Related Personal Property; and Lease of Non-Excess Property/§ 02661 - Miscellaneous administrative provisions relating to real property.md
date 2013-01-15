@@ -28,13 +28,13 @@ Prohibition on Naming Department of Defense Real Property After Member of Congre
 
 &emsp;(A) The term “Member of Congress” includes a Delegate or Resident Commissioner to the Congress.
 
-&emsp;(B) The term “real property” includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
+&emsp;(B) The term “real property” includes structures, buildings, or other infrastructure of amilitary installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
 (d)
 
 Treatment of Pentagon Reservation.—In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
 
-(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 112–81, div. B, title XXVIII, §2863(a), Dec. 31, 2011, 125 Stat. 1701.)
+(Added Pub. L. 100–370, §1(l)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 112–81, div. B, title XXVIII, §2863(a), Dec. 31, 2011, 125 Stat. 1701.)
 
 #### Historical and Revision Notes
 

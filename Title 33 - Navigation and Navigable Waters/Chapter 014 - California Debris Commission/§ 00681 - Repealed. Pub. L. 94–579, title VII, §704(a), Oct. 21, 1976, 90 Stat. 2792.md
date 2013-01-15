@@ -4,7 +4,7 @@ Section, act Mar. 1, 1893, ch. 183, §21, 27 Stat. 510; 1946 Reorg. Plan No. 3, 
 
 #### Effective Date of Repeal
 
-Section 704(a) of Pub. L. 94–579 provided that the repeal is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

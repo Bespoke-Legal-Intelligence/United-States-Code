@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) alcohol derived from flavors distilled at a distilled spirits plant, and
 
-&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
+&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proofgallon basis) 2½ percent of the finished product.
 
 (Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 #### Effective Date of 1988 Amendment
 
-Section 5063(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1985, see section 27(d)(1) of Pu
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 96–598 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980.”
+Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980.”
 

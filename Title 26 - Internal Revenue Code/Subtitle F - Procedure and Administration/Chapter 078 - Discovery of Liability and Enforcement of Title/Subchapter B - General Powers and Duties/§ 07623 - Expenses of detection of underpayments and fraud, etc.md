@@ -20,7 +20,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (A) In general
 
-&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any relatedactions) or from any settlement in response to such action, taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
+&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action, taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 109–432 applicable to information provided on or after De
 
 #### Effective Date of 1996 Amendment
 
-Section 1209(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date which is 6 months after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XII, §1209(c), July 30, 1996, 110 Stat. 1474, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date which is 6 months after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Whistleblower Office
 
@@ -110,5 +110,5 @@ Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided tha
 
 #### Annual Report to Congress on Payments Made Under This Section and Resultant Collections
 
-Section 1209(d) of Pub. L. 104–168 provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
+Pub. L. 104–168, title XII, §1209(d), July 30, 1996, 110 Stat. 1474, provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Permanent or temporary promotions; examination
 
-Promotions of officers of the Regular Corps to any grade up to and including the director grade shall be either permanent promotions based on length of service, other permanent promotions to fill vacancies, or temporary promotions. Permanent promotions shall be made by the President, by and with the advice and consent of the Senate, and temporary promotions shall be made by the President. Each permanent promotion shall be to the next higher grade, and shall be made only after examination given in accordance with regulations of the President.
+Promotions of officers of the Regular Corps to any grade up to and including the director grade shall be either permanent promotions based on length of service, other permanent promotions to fill vacancies, or temporary promotions. Permanent promotions shall be made by the President, and temporary promotions shall be made by the President. Each permanent promotion shall be to the next higher grade, and shall be made only after examination given in accordance with regulations of the President.
 
 #### (b) Promotion to certain grades only to fill vacancies; regulations; “restricted grade” defined
 
@@ -64,7 +64,7 @@ At the end of his first three years of service, the record of each officer of th
 
 Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
-#### (<i>l</i>) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
+#### (l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
 Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
 
@@ -72,13 +72,15 @@ Whenever the number of officers of the Regular Corps on active duty, plus the nu
 
 Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
-(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701.)
+(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290.)
 
 #### Codification
 
 In subsec. (m), “section 3332 of title 5” substituted for “the Act of December 11, 1926, as amended (5 U.S.C. 21a)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “Permanent promotions shall be made by the President”.
 
 <b>1986</b>—Subsec. (g)(3). Pub. L. 99–348 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -101,6 +103,10 @@ Subsec. (g). Pub. L. 96–76, §307(b), in provision before par. (1), inserted a
 <b>1949</b>—Subsec. (g). Act Oct. 12, 1949, struck out “incurred in line of duty” wherever appearing.
 
 <b>1948</b>—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 1979 Amendment
 

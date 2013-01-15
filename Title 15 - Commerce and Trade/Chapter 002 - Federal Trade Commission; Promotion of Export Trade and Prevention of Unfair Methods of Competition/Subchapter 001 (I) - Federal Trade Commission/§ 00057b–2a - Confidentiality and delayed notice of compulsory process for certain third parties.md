@@ -6,7 +6,7 @@ The Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) and chapter 121 of t
 
 #### (b) Procedures for delay of notification or prohibition of disclosure
 
-The procedures for delay of notification or prohibition of disclosure under the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) and chapter 121 of title 18, including procedures for extensions of such delays or prohibitions, shall be available to the Commission, provided that, notwithstanding any provision therein—
+The procedures for delay of notification or prohibition of disclosure under the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) andchapter 121 of title 18, including procedures for extensions of such delays or prohibitions, shall be available to the Commission, provided that, notwithstanding any provision therein—
 
 &emsp;(1) a court may issue an order delaying notification or prohibiting disclosure (including extending such an order) in accordance with the procedures of section 1109 of the Right to Financial Privacy Act (12 U.S.C. 3409) (if notification would otherwise be required under that Act), or section 2705 of title 18 (if notification would otherwise be required under chapter 121 of that title), if the presiding judge or magistrate judge finds that there is reason to believe that such notification or disclosure may cause an adverse result as defined in subsection (g) of this section; and
 
@@ -16,7 +16,7 @@ The procedures for delay of notification or prohibition of disclosure under the 
 
 #### (1) In general
 
-&emsp;If neither notification nor delayed notification by the Commission is required under the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) or chapter 121 of title 18, the Commission may apply ex parte to a presiding judge or magistrate judge for an order prohibiting the recipient of compulsory process issued by the Commission from disclosing to any other person the existence of the process, notwithstanding any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia. The presiding judge or magistrate judge may enter such an order granting the requested prohibition of disclosure for a period not to exceed 60 days if there is reason to believe that disclosure may cause an adverse result as defined in subsection (g). The presiding judge or magistratejudge may grant extensions of this order of up to 30 days each in accordance with this subsection, except that in no event shall the prohibition continue in force for more than a total of 9 months.
+&emsp;If neither notification nor delayed notification by the Commission is required under the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) or chapter 121 of title 18, the Commission may apply ex parte to a presiding judge or magistrate judge for an order prohibiting the recipient of compulsory process issued by the Commission from disclosing to any other person the existence of the process, notwithstanding any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia. The presiding judge or magistrate judge may enter such an order granting the requested prohibition of disclosure for a period not to exceed 60 days if there is reason to believe that disclosure may cause an adverse result as defined in subsection (g). The presiding judge or magistrate judge may grant extensions of this order of up to 30 days each in accordance with this subsection, except that in no event shall the prohibition continue in force for more than a total of 9 months.
 
 #### (2) Application
 
@@ -72,15 +72,15 @@ For purposes of this section the term “adverse result” means—
 
 (Sept. 26, 1914, ch. 311, §21A, as added Pub. L. 109–455, §7(a), Dec. 22, 2006, 120 Stat. 3377.)
 
-#### Termination of Section
+#### Repeal of Section
 
-<i>For termination of section by section 13 of Pub. L. 109–455, see Termination Date note below.</i>
+<i>For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.</i>
 
 #### References in Text
 
 The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, Pub. L. 95–630, title XI, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
-#### Termination Date
+#### Effective Date of Repeal
 
-Section to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
+Section repealed effective Sept. 30, 2020, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 

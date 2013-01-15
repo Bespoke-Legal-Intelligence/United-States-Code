@@ -10,7 +10,7 @@ All fees and other official monies received by diplomatic missions or consular o
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
-Section was formerly classified to section 814 of this title, and prior thereto to section 23<i>l</i> of this title.
+Section was formerly classified to section 814 of this title, and prior thereto to section 23l of this title.
 
 #### Effective Date
 

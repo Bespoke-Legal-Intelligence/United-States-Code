@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to, or enter into contracts with, any eligible entity to award scholarships to eligible individuals to enroll in degree or professional training programs for the purpose of enabling mid-career professionals in the public health and allied health workforce to receive additional training in the field of public health and allied health.
+The Secretary may make grants to, or enter into contracts with, any eligible entity to award scholarships to eligible individuals to enroll in degree or professional training programs for the purpose of enabling mid-career professionals inthe public health and allied health workforce to receive additional training in the field of public health and allied health.
 
 #### (b) Eligibility
 
@@ -16,7 +16,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible ent
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015. Fifty percent of appropriated funds shall be allotted to publichealth mid-career professionals and 50 percent shall be allotted to allied health mid-career professionals.
+There is authorized to be appropriated to carry out this section, $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015. Fifty percent of appropriated funds shall be allotted to public health mid-career professionals and 50 percent shall be allotted to allied health mid-career professionals.
 
 (July 1, 1944, ch. 373, title VII, §777, as added Pub. L. 111–148, title V, §5206(b), Mar. 23, 2010, 124 Stat. 612.)
 
@@ -26,7 +26,7 @@ A prior section 295f–2, act July 1, 1944, ch. 373, title VII, §772, formerly 
 
 Another prior section 295f–2, act July 1, 1944, ch. 373, title VII, §772, as added Oct. 22, 1965, Pub. L. 89–290, §2(a), 79 Stat. 1053; amended Aug. 16, 1968, Pub. L. 90–490, title I, §111(a), (e), 82 Stat. 776, 777; Nov. 2, 1970, Pub. L. 91–519, title I, §102(a), 84 Stat. 1343; Nov. 18, 1971, Pub. L. 92–157, title I, §104(a), 85 Stat. 444; Nov. 16, 1973, Pub. L. 93–154, §3(b), 87 Stat. 604; July 12, 1974, Pub. L. 93–348, title II, §215, 88 Stat. 354; Oct. 12, 1976, Pub. L. 94–484, title I, §101(m), 90 Stat. 2245, provided special project grants and contracts, prior to repeal by Pub. L. 94–484, title V, §502, Oct. 12, 1976, 90 Stat. 2293, effective with respect to fiscal years beginning after Sept. 30, 1977.
 
-A prior section 777 of act July 1, 1944, was classified to section 294<i>o</i> of this title prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 777 of act July 1, 1944, was classified to section 294o of this title prior to the general amendment of this part by Pub. L. 105–392.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

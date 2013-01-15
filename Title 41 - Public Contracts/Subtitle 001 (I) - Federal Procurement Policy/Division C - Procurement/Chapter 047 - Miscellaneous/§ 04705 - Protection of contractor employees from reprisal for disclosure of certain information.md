@@ -46,7 +46,7 @@ Payment.—Order the contractor to pay the complainant an amount equal to the ag
 
 &emsp;(2)
 
-Enforcement order.—When a contractor fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of the order in the United States district court for a district in which the reprisal was found to have occurred. In an action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
+Enforcement order.—When a contractor fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of the order in the United States district court for a district in which the reprisal was found to have occurred. In an action brought under this paragraph, the court may grant appropriaterelief, including injunctive relief and compensatory and exemplary damages.
 
 &emsp;(3)
 
@@ -60,7 +60,11 @@ Scope of Section.—This section does not—
 
 &emsp;(2) modify or derogate from a right or remedy otherwise available to the employee.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3796.)
+(f)
+
+Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—While section 4712 of this title is in effect, this section shall not be in effect.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3796; Pub. L. 112–239, div. A, title VIII, §828(c), Jan. 2, 2013, 126 Stat. 1841.)
 
 Historical and Revision Notes
 
@@ -99,4 +103,8 @@ In subsection (d)(2), the word “contractor” is substituted for “person” 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–239 added subsec. (f).
 

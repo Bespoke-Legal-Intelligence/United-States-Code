@@ -2,7 +2,7 @@
 
 The General Services Administration may take custody, for disposal as excess property under this subtitle and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, of land acquired by the Federal Government by devise.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1134; Pub. L. 111–350, §5(<i>l</i>)(12), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1134; Pub. L. 111–350, §5(l)(12), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

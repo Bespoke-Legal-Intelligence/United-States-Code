@@ -50,7 +50,7 @@
 
 (k) The interpretation provided by certified or otherwise qualified interpreters pursuant to this section shall be in the simultaneous mode for any party to a judicial proceeding instituted by the United States and in the consecutive mode for witnesses, except that the presiding judicial officer, sua sponte or on the motion of a party, may authorize a simultaneous, or consecutive interpretation when such officer determines after a hearing on the record that such interpretation will aid in the efficient administration of justice. The presiding judicial officer, on such officer's motion or on the motion of a party, may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.
 
-(<i>l</i>) Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer's own motion or on the motion of a party or other participant in the proceeding, that suchindividual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
+(l) Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer's own motion or on the motion of a party or other participant in the proceeding, that suchindividual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
 
 (Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–317, title III, §306, title IV, §402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
 
@@ -66,7 +66,7 @@ The effective date of this paragraph, referred to in subsec. (g)(5), is the effe
 
 <b>1996</b>—Subsec. (g)(5), (6). Pub. L. 104–317, §402(a), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (<i>l</i>). Pub. L. 104–317, §306, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–317, §306, added subsec. (l).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–702, §702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
 
@@ -102,7 +102,7 @@ Subsec. (k). Pub. L. 100–702, §709, amended subsec. (k) generally. Prior to a
 
 #### Effective Date of 1988 Amendment
 
-Section 712 of title VII of Pub. L. 100–702 provided that: “This title \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective upon the date of enactment \[Nov. 19, 1988\].”
+Pub. L. 100–702, title VII, §712, Nov. 19, 1988, 102 Stat. 4657, provided that: “This title \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective upon the date of enactment \[Nov. 19, 1988\].”
 
 #### Effective Date
 
@@ -114,9 +114,9 @@ For short title of Pub. L. 95–539 as “Court Interpreters Act”, see Short T
 
 #### Payment for Contractual Services
 
-Section 402(b) of Pub. L. 104–317 provided that: “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code.”
+Pub. L. 104–317, title IV, §402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code.”
 
 #### Impact on Existing Programs
 
-Section 711 of title VII of Pub. L. 100–702 provided that: “Nothing in this title \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\] shall be construed to terminate or diminish existing programs for the certification of interpreters.”
+Pub. L. 100–702, title VII, §711, Nov. 19, 1988, 102 Stat. 4657, provided that: “Nothing in this title \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\] shall be construed to terminate or diminish existing programs for the certification of interpreters.”
 

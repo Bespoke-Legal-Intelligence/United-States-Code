@@ -16,7 +16,7 @@ STARBASE Academies.—(1) The Secretary shall provide for the establishment of a
 
 (3)(A) Except as otherwise provided under subparagraph (B), the Secretary may not support the establishment in any State of more than four academies under the program.
 
-(B) The Secretary may support the establishment and operation of an academy in a State in excess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to thatState. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
+(B) The Secretary may support the establishment and operation of an academy in a State in excess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
 
 (d)
 

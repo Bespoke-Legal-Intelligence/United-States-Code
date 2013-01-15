@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office of the Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) is under the Executive Schedule, or for which the rate of basic pay is determined by reference to the Executive Schedule, and
 
-&emsp;(B) on the day before the date of the enactment of the Civil Service Reform Act of 1978 was specifically required under section 2102 of this title or otherwise required by law to be in the competitive service,
+&emsp;(B) on the day before the date of the enactment of the Civil Service Reform Act of 1978 was specifically required under section 2102 ofthis title or otherwise required by law to be in the competitive service,
 
 > shall be designated as a career reserved position if the position entails direct responsibility to the public for the management or operation of particular government programs or functions.
 
@@ -84,7 +84,7 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581;Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414; Pub. L. 112–277, title V, §505(b), Jan. 14, 2013, 126 Stat. 2478.)
 
 #### References in Text
 
@@ -93,6 +93,8 @@ Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(B). Pub. L. 112–277 inserted “the Office of the Director of National Intelligence,” after “the Central Intelligence Agency,”.
 
 <b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203 substituted “the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;” for “and the National Credit Union Administration;”.
 
@@ -171,6 +173,14 @@ Amendment by Pub. L. 96–187 effective on Jan. 8, 1980, see section 301(a) of P
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### Construction
+
+Pub. L. 112–166, §2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that: “Notwithstanding section 3132(a)(2) of title 5, United States Code, removal of Senate confirmation for any position in this section shall not—
+
+&emsp;“(1) result in any such position being placed in the Senior Executive Service; or
+
+&emsp;“(2) alter compensation for any such position under the Executive Schedule or other applicable compensation provisions of law.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

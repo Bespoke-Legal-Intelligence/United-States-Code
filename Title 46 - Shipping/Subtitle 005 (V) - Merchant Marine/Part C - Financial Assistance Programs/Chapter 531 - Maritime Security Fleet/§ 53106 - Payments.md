@@ -10,9 +10,13 @@ In general.—The Secretary, subject to the availability of appropriations and t
 
 &emsp;&emsp;(A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-&emsp;&emsp;(B) $2,900,000, for each of fiscal years 2009, 2010, and 2011; and
+&emsp;&emsp;(B) $2,900,000,<sup>1</sup> for each of fiscal years 2009, 2010, and 2011;
 
-&emsp;&emsp;(C) $3,100,000 for each of fiscal years 2012 though <sup>1</sup> 2025.
+&emsp;&emsp;(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+
+&emsp;&emsp;(D) $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
+
+&emsp;&emsp;(E) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
 &emsp;(2)
 
@@ -20,7 +24,7 @@ Timing.—The amount shall be paid in equal monthly installments at the end of e
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that thevessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 
@@ -46,7 +50,7 @@ Reductions in Payments.—With respect to payments under this chapter for a vess
 
 &emsp;(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
-&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days duringwhich the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+&emsp;(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 
 (e)
 
@@ -64,17 +68,19 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(f)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225.)
 
-Priority in Allocation of Available Amounts.—If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).
+#### Amendment of Subsection (c)(3)(C)
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518.)
-
-#### References in Text
-
-Section 3517 of the Maritime Security Act of 2003, referred to in subsec. (f), is section 3517 of Pub. L. 108–136, which is set out as a note under section 53101 of this title.
+<i>Pub. L. 112–239, div. C, title XXXV, §3508(f)(2), (j)(2), Jan. 2, 2013, 126 Stat. 2225, 2226, provided that, effective Dec. 31, 2014, subsection (c)(3)(C) of this section is amended by striking “a LASH vessel.” and inserting “a lighter aboard ship vessel.” See 2013 Amendment note below.</i>
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(B) to (E). Pub. L. 112–239, §3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.”
+
+Subsec. (c)(3)(C). Pub. L. 112–239, §3508(f)(2), substituted “a lighter aboard ship vessel.” for “a LASH vessel.”
+
+Subsec. (f). Pub. L. 112–239, §3508(f)(3), struck out subsec. (f). Text read as follows: “If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).”
 
 <b>2011</b>—Subsec. (a)(1)(C). Pub. L. 111–383 substituted “for each of fiscal years 2012 though 2025” for “for each fiscal years 2012, 2013, 2014, and 2015”.
 
@@ -86,5 +92,9 @@ Subsec. (e)(2). Pub. L. 109–304, §13(a)(5)(C), substituted “section 50501 o
 
 Subsec. (f). Pub. L. 109–364 added subsec. (f).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “through”.</i>
+#### Effective Date of 2013 Amendment
+
+Amendment by section 3508(f)(2) of Pub. L. 112–239 effective Dec. 31, 2014, see section 3508(j)(2) of Pub. L. 112–239, set out as a note under section 53101 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

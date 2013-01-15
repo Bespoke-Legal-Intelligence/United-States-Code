@@ -24,7 +24,15 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
-The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor VehicleSafety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: “This Act \[amending section 31311 of this title\] may be cited as the ‘Military Commercial Driver's License Act of 2012’.”
+
+Pub. L. 112–141, div. C, title II, §32001, July 6, 2012, 126 Stat. 776, provided that: “This title \[see Tables for classification\] may be cited as the ‘Commercial Motor Vehicle Safety Enhancement Act of 2012’.”
+
+Pub. L. 112–141, div. C, title II, §32401, July 6, 2012, 126 Stat. 795, provided that: “This subtitle \[subtitle D (§§32401, 32402) of title II of div. C of Pub. L. 112–141, enacting section 31306a of this title and amending section 31306 of this title\] may be cited as the ‘Safe Roads Act of 2012’.”
 
 #### Short Title of 2007 Amendment
 
@@ -36,7 +44,7 @@ Pub. L. 109–59, title IV, §4001, Aug. 10, 2005, 119 Stat. 1714, provided that
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
+Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -45,6 +53,10 @@ Pub. L. 105–178, title VII, §7101, June 9, 1998, 112 Stat. 465, provided that
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–152, §1, July 2, 1996, 110 Stat. 1384, provided that: “This Act \[amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under section 30502 of this title\] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
+
+#### National Highway Traffic Safety Administration Outreach to Manufacturer, Dealer, and Mechanic Personnel
+
+Pub. L. 112–141, div. C, title I, §31302, July 6, 2012, 126 Stat. 763, provided that: “The Secretary \[of Transportation\] shall publicize the means for contacting the National Highway Traffic Safety Administration in a manner that targets mechanics, passenger motor vehicle dealership personnel, and manufacturer personnel.”
 
 #### Side-Impact Crash Protection Rulemaking
 
@@ -140,7 +152,7 @@ Specific procedure.—
 
 &emsp;&emsp;“(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advancenotice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -192,7 +204,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### “SEC. 2507. BRAKE PERFORMANCE STANDARDS FOR PASSENGER CARS.
 
-“Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\], shall publish an advance notice of proposed rulemaking to consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the date of initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
+“Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\], shall publish an advance notice of proposed rulemakingto consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the date of initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
 
 #### “\[SEC. 2508. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.\]
 
@@ -216,7 +228,7 @@ Amendment or Repeal of Standard.—The Secretary may amend the standard describe
 
 Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\],and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

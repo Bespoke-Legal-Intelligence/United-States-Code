@@ -34,11 +34,19 @@ In carrying out this section, the Secretary shall give priority to projects that
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 through 2012.
+There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 107–171, title IX, §9012, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1331, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2093.)
+(Pub. L. 107–171, title IX, §9012, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1331, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2093; amended Pub. L. 112–240, title VII, §701(f)(11), Jan. 2, 2013, 126 Stat. 2366.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

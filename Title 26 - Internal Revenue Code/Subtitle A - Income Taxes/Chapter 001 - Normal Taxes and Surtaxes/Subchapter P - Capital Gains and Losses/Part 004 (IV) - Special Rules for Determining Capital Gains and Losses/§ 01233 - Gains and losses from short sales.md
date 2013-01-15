@@ -20,7 +20,7 @@ Subsection (b) shall not include an option to sell property at a fixed price acq
 
 #### (d) Long-term losses
 
-If on the date of such short sale substantially identical property has been held by the taxpayerfor more than 1 year, any loss on the closing of such short sale shall be considered as a loss on the sale or exchange of a capital asset held for more than 1 year (notwithstanding the period of time any property used to close such short sale has been held, and notwithstanding section 1234).
+If on the date of such short sale substantially identical property has been held by the taxpayer for more than 1 year, any loss on the closing of such short sale shall be considered as a loss on the sale or exchange of a capital asset held for more than 1 year (notwithstanding the period of time any property used to close such short sale has been held, and notwithstanding section 1234).
 
 #### (e) Rules for application of section
 
@@ -80,7 +80,7 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 &emsp;&emsp;(B) such property becomes substantially worthless,
 
-> &emsp;the taxpayer shall recognize gain in the same manner as if the short sale were closed when the property becomes substantially worthless.To the extent provided in regulations prescribed by the Secretary, the preceding sentence also shall apply with respect to any option with respect to property, any offsetting notional principal contract with respect to property, any futures or forward contract to deliver any property, and any other similar transaction.
+> &emsp;the taxpayer shall recognize gain in the same manner as if the short sale were closed when the property becomes substantially worthless. To the extent provided in regulations prescribed by the Secretary, the preceding sentence also shall apply with respect to any option with respect to property, any offsetting notional principal contract with respect to property, any futures or forward contract to deliver any property, and any other similar transaction.
 
 #### (2) Statute of limitations
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 1997 Amendment
 
-Section 1003(b)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to property which becomes substantially worthless after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1003(b)(2), Aug. 5, 1997, 111 Stat. 910, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to property which becomes substantially worthless after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -144,9 +144,9 @@ Amendment by Pub. L. 97–34 applicable to property acquired and positions estab
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(a)(137) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -154,9 +154,9 @@ Amendment by section 1901(a)(137) of Pub. L. 94–455 applicable with respect to
 
 Amendment by section 52(b) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 52(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to short sales made after December 31, 1957.”
+Pub. L. 85–866, title I, §52(c), Sept. 2, 1958, 72 Stat. 1644, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to short sales made after December 31, 1957.”
 
 #### Effective Date of 1955 Amendment
 
-Section 2 of act Aug. 12, 1955, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date.”
+Act Aug. 12, 1955, ch. 871, §2, 69 Stat. 718, provided that: “The amendment made by the first section of thisAct \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date.”
 

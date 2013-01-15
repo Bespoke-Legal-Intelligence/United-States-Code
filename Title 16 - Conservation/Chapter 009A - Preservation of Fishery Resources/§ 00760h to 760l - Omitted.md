@@ -10,5 +10,5 @@ Section 760j, Pub. L. 87–580, §1, Aug. 9, 1962, 76 Stat. 356, related to prop
 
 Section 760k, Pub. L. 87–580, §2, Aug. 9, 1962, 76 Stat. 356, authorized grants to States for research and other necessary activities in development and propagation of disease-resistant strains of oysters and conditions of such grants.
 
-Section 760<i>l</i>, Pub. L. 87–580, §3, Aug. 9, 1962, 76 Stat. 357, authorized appropriation of $100,000 to carry out sections 760j to 760<i>l</i> of this title.
+Section 760l, Pub. L. 87–580, §3, Aug. 9, 1962, 76 Stat. 357, authorized appropriation of $100,000 to carry out sections 760j to 760l of this title.
 

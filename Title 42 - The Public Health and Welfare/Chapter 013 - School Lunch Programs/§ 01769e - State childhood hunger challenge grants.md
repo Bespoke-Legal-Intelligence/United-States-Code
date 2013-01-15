@@ -22,7 +22,7 @@ State demonstration projects carried out under this section may include projects
 
 &emsp;(1) enhance benefits provided under the supplemental nutrition assistance program for eligible households with children;
 
-&emsp;(2) enhance benefits or provide for innovative program delivery models in the schoolmeals, afterschool snack, and child and adult care food programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+&emsp;(2) enhance benefits or provide for innovative program delivery models in the school meals, afterschool snack, and child and adult care food programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
 &emsp;(3) target Federal, State, or local assistance, including emergency housing, family preservation services, child care, or temporary assistance at households with children who are experiencing hunger or food insecurity, to the extent permitted by the legal authority establishing those assistance programs and services;
 

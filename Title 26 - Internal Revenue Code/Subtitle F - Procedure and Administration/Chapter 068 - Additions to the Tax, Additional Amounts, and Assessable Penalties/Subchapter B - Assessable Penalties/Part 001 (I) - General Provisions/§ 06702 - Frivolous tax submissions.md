@@ -80,5 +80,5 @@ Amendment by Pub. L. 109–432 applicable to submissions made and issues raised 
 
 #### Effective Date
 
-Section 326(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §326(c), Sept. 3, 1982, 96 Stat. 617, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

@@ -72,7 +72,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
 
-#### (<i>l</i>) Prohibition of discriminatory use of test scores
+#### (l) Prohibition of discriminatory use of test scores
 
 It shall be an unlawful employment practice for a respondent, in connection with the selection or referral of applicants or candidates for employment or promotion, to adjust the scores of, use different cutoff scores for, or otherwise alter the results of, employment related tests on the basis of race, color, religion, sex, or national origin.
 
@@ -120,7 +120,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (n)(2)(A), are set 
 
 <b>1991</b>—Subsec. (k). Pub. L. 102–166, §105(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 102–166, §106, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 102–166, §106, added subsec. (l).
 
 Subsec. (m). Pub. L. 102–166, §107(a), added subsec. (m).
 

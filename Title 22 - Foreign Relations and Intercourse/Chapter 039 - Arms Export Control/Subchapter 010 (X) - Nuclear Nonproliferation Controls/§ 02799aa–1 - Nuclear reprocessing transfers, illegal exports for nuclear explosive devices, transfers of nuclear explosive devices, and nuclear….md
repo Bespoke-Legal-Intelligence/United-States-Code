@@ -2,7 +2,7 @@
 
 #### (a) Prohibitions on assistance to countries involved in transfer of nuclear reprocessing equipment, materials, or technology; exceptions; procedures applicable
 
-(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
+(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
-(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
+(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period ofnot more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
 (B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
@@ -98,7 +98,7 @@ This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the o
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsecs. (a)(3)(B) and (b)(4)(C), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days afterApr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 The National Security Act of 1947, as amended, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
 
@@ -208,7 +208,7 @@ Matters to be included.—The report required under subsection (A) shall include
 
 &emsp;&emsp;&emsp;“(i) how the United States will confirm that North Korea has ‘provided a complete and correct declaration of all of its nuclear programs’;
 
-&emsp;&emsp;&emsp;“(ii) how the United States will maintain a high and ongoing level of confidence that North Koreahas fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
+&emsp;&emsp;&emsp;“(ii) how the United States will maintain a high and ongoing level of confidence that North Korea has fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
 
 &emsp;&emsp;&emsp;“(iii) any diplomatic agreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement (other than implementing arrangements made during on-site operations); and
 

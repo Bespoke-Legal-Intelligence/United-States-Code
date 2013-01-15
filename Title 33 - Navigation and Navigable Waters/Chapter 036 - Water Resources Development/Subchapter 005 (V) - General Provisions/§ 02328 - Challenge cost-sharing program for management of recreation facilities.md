@@ -24,7 +24,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 #### Recreation Partnership Initiative
 
-Section 519 of Pub. L. 104–303, as amended by Pub. L. 106–53, title III, §350(a), Aug. 17, 1999, 113 Stat. 310, provided that:
+Pub. L. 104–303, title V, §519, Oct. 12, 1996, 110 Stat. 3765, as amended by Pub. L. 106–53, title III, §350(a), Aug. 17, 1999, 113 Stat. 310, provided that:
 
 “(a)
 
@@ -44,7 +44,7 @@ Agreement.—The Secretary shall enter into an agreement with an appropriate non
 
 &emsp;“(3)
 
-Engineering and design services.—The Secretary may perform engineering and design services for project infrastructure expected to be associated with the development of the site at Raystown Lake, Hesston, Pennsylvania.
+Engineering and design services.—The Secretary may perform engineering and design servicesfor project infrastructure expected to be associated with the development of the site at Raystown Lake, Hesston, Pennsylvania.
 
 &emsp;“(4)
 

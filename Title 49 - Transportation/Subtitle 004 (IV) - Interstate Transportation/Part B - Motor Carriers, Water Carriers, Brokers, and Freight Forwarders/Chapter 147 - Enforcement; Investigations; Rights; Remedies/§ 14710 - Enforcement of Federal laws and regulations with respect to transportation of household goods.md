@@ -6,7 +6,7 @@ Enforcement by States.—Notwithstanding any other provision of this title, a St
 
 (b)
 
-Notice.—The State shall serve written notice to the Secretary or the Board, as the case may be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide the notice immediately upon instituting such civil action.
+Notice.—The State shall serve written notice to the Secretary or the Board, as the casemay be, of any civil action under subsection (a) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide the notice immediately upon instituting such civil action.
 
 (c)
 
@@ -36,7 +36,7 @@ General references to “this title” deemed to refer also to chapters 509 and 
 
 #### Working Group for Development of Practices and Procedures To Enhance Federal-State Relations
 
-Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, as amended by Pub. L. 111–147, title IV, §422(j), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(j), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(j), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(i), Sept. 16, 2011, 125 Stat. 349, provided that:
+Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, as amended by Pub. L. 111–147, title IV, §422(j), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(j), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(j), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(i), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(i), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(i), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. G, title II, §112002(f), July 6, 2012, 126 Stat. 983, provided that:
 
 “(a)
 
@@ -52,7 +52,7 @@ Federal Advisory Committee Act Exemption.—The Federal Advisory Committee Act (
 
 “(d)
 
-Termination Date.—The working group shall remain in effect until March 31, 2012.”
+Termination Date.—The working group shall remain in effect until September 30, 2012.”
 
 \[For definitions of “household goods”, “Secretary”, and “transportation” as used in section 4213 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

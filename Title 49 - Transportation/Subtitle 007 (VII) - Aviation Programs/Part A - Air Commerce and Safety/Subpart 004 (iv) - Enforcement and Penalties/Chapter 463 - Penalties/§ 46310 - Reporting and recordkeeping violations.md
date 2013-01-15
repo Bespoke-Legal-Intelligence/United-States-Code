@@ -2,7 +2,7 @@
 
 (a)
 
-General Criminal Penalty.—An air carrier or an officer, agent, or employee of an air carrier shall be fined under title 18 for intentionally—
+General Criminal Penalty.—An air carrier or an officer, agent, or employee of an aircarrier shall be fined under title 18 for intentionally—
 
 &emsp;(1) failing to make a report or keep a record under this part;
 

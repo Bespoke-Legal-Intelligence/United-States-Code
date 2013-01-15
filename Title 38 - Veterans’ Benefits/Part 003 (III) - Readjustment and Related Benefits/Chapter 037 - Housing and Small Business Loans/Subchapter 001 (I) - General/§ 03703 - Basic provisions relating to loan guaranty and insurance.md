@@ -22,7 +22,7 @@
 
 (b) The liability of the United States under any guaranty, within the limitations of this chapter, shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
-(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms and conditions as may be agreed upon by the parties thereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
+(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms andconditions as may be agreed upon by the parties thereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
 
 (2) The provisions of the Servicemen's Readjustment Act of 1944 which were in effect before April 1, 1958, with respect to the interest chargeable on loans made or guaranteed under such Act shall, notwithstanding the provisions of paragraph (1) of this subsection, continue to be applicable—
 
@@ -68,7 +68,7 @@
 
 (3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
 
-(e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
+(e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loanfor any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
 
 (2) The exemption from liability provided by paragraph (1) of this subsection shall not apply to—
 
@@ -78,13 +78,29 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, §403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, §504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, §102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, §701(d), Aug. 6, 2012, 126 Stat. 1204.)
+
+#### Amendment of Subsection (d)(3)
+
+<i>Pub. L. 112–154, title VII, §701(d), (g), Aug. 6, 2012, 126 Stat. 1204, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (d)(3) of this section is amended to read as follows:</i>
+
+<i>(3)(A) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:</i>
+
+&emsp;<i>(i) A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).</i>
+
+&emsp;<i>(ii) A private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.</i>
+
+<i>(B) With respect to any superior lien described in subparagraph (A) created after June 6, 1969, the Secretary's determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### References in Text
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.”
 
 <b>2009</b>—Subsec. (d)(1). Pub. L. 111–22 inserted “at the time of origination” after “loan”.
 
@@ -236,6 +252,10 @@ Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate
 
 <b>1959</b>—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans’ Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 4¾ to 5¼ percent.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under section 2109 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–330, title III, §308(f)(2), Dec. 6, 2002, 116 Stat. 2828, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 402 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1861).”
@@ -250,19 +270,19 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 #### Effective Date of 1989 Amendment
 
-Section 306(b) of Pub. L. 101–237 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date.”
+Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date.”
 
 #### Effective Date of 1988 Amendment
 
-Section 3(c) of Pub. L. 100–253 provided that: “The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
+Pub. L. 100–253, §3(c), Feb. 29, 1988, 102 Stat. 21, provided that: “The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
 
 #### Effective Date of 1987 Amendment
 
-Section 3(d) of Pub. L. 100–198 provided that: “The amendments made by this section \[amending this section and sections 1810, 1811, and 1819 \[now 3710, 3711, and 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
+Pub. L. 100–198, §3(d), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendments made by this section \[amending this section and sections 1810, 1811, and 1819 \[now 3710, 3711, and 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
 
 #### Effective Date of 1981 Amendments
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 
@@ -292,7 +312,7 @@ Pub. L. 111–22, div. A, title I, §102(b), May 20, 2009, 123 Stat. 1636, provi
 
 #### Temporary Increase in Maximum Loan Guaranty Amount for Certain Housing Loans Guaranteed by Secretary of Veterans Affairs
 
-Pub. L. 110–389, title V, §501, Oct. 10, 2008, 122 Stat. 4175, provided that: “Notwithstanding subparagraph (C) of section 3703(a)(1) of title 38, United States Code, for purposes of any loan described in subparagraph (A)(i)(IV) of such section that is originated during the period beginning on the date of the enactment of this Act \[Oct. 10, 2008\] and ending on December 31, 2011, the term ‘maximum guaranty amount’ shall mean an amount equal to 25 percent of the higher of—
+Pub. L. 110–389, title V, §501, Oct. 10, 2008, 122 Stat. 4175, as amended by Pub. L. 112–154, title VII, §702(c), Aug. 6, 2012, 126 Stat. 1205, provided that: “Notwithstanding subparagraph (C) of section 3703(a)(1) of title 38, United States Code, for purposes of any loan described in subparagraph (A)(i)(IV) of such section that is originated during the period beginning on the date of the enactment of this Act \[Oct. 10, 2008\] and ending on December 31, 2014, the term ‘maximum guaranty amount’ shall mean an amount equal to 25 percent of the higher of—
 
 &emsp;“(1) the limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for the calendar year in which the loan is originated for a single-family residence; or
 
@@ -304,9 +324,9 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Annual Reports on Guarantee and Insurance of Loans Bearing Negotiated Interest Rates and Points
 
-Section 10(b) of Pub. L. 102–547, as amended by Pub. L. 103–446, title XII, §1202(d), Nov. 2, 1994, 108 Stat. 4689, directed Secretary of Veterans Affairs to transmit report on guarantee and insurance of loans bearing negotiated interest rates and points to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §10(b), Oct. 28, 1992, 106 Stat. 3643, as amended by Pub. L. 103–446, title XII, §1202(d), Nov. 2, 1994, 108 Stat. 4689, directed Secretary of Veterans Affairs to transmit report on guarantee and insurance of loans bearing negotiated interest rates and points to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Expiration of Loan Benefit Entitlement of Certain World War II Veterans
 
-Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 \[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
+Pub. L. 90–77, title IV, §403(c), Aug. 31, 1967, 81 Stat. 190, provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 \[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
 

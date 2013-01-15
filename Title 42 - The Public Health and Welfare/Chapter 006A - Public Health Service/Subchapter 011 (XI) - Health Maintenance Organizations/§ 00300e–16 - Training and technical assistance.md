@@ -12,7 +12,7 @@
 
 #### (b) Technical assistance
 
-The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit privateentities and contracts with public and private entities.
+The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit private entities and contracts with public and private entities.
 
 #### (c) Amounts provided in advance in appropriation acts
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub.
 
 #### Effective Date
 
-Section 7(c) of Pub. L. 95–559 provided that: “The amendments made by this section \[enacting this section and amending section 300e–8 of this title\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
+Pub. L. 95–559, §7(c), Nov. 1, 1978, 92 Stat. 2135, provided that: “The amendments made by this section \[enacting this section and amending section 300e–8 of this title\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

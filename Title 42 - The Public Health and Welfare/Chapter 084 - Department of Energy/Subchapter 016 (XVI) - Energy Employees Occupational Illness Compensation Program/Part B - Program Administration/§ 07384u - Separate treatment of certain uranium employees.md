@@ -78,5 +78,5 @@ The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D) of Pub. L. 107–107, set out as a note under section 7384<i>l</i> of this title.
+Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D) of Pub. L. 107–107, set out as a note under section 7384l of this title.
 

@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes�
 
 Pub. L. 100–472, §104(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–472, §208, redesignated section 450<i>l</i> of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+Subsec. (f). Pub. L. 100–472, §208, redesignated section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

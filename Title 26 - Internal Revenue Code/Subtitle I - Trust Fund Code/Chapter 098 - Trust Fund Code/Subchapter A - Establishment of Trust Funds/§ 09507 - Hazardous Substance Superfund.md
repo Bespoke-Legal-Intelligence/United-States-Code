@@ -48,7 +48,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;&emsp;(A) the transfer or disposal, if made on December 13, 1985, would not comply with a State or local requirement,
 
-&emsp;&emsp;(B) the transfer is to a facility for which a final permit under section 3005(a) of the Solid Waste Disposal Act was issued after January 1, 1983, and before November 1, 1984, and
+&emsp;&emsp;(B) the transfer is to a facility for which a final permit under section 3005(a) of theSolid Waste Disposal Act was issued after January 1, 1983, and before November 1, 1984, and
 
 &emsp;&emsp;(C) the transfer is from a facility identified as the McColl Site in Fullerton, California.
 
@@ -66,7 +66,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (A) In general
 
-&emsp;&emsp;Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasurywhen the Secretary determines that moneys are available for such purposes in the Superfund.
+&emsp;&emsp;Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Superfund.
 
 #### (B) Final repayment
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 
 #### Effective Date
 
-Section 517(e) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title V, §517(e), Oct. 17, 1986, 100 Stat. 1774, provided that:
 
 “(1)
 
@@ -126,11 +126,11 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
+Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\].Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Authorization of Appropriations
 
-Section 517(b) of Pub. L. 99–499, as amended by Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—
+Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—
 
 &emsp;“(1) 1987, $250,000,000,
 
@@ -150,9 +150,9 @@ Section 517(b) of Pub. L. 99–499, as amended by Pub. L. 101–508, title XI, �
 
 &emsp;“(9) 1995, $250,000,000,
 
-> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal)as has not been appropriated before the beginning of the fiscal year involved.”
+> plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
 
-\[Section 11231(d) of Pub. L. 101–508 directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
+\[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

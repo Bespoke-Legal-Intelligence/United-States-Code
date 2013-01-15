@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-A prior section 280b, act July 1, 1944, ch. 373, title III, §390, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, §§4(b), 5(b), 6(b), 84 Stat. 64, 65; July 23, 1974, Pub. L. 93–353, title II, §§201(a), (b), 202(a), 88 Stat. 371, 372; Aug. 1, 1977, Pub. L. 95–83, title II, §202, 91 Stat. 386; Nov. 9, 1978, Pub. L. 95–622, title II, §211, 92 Stat. 3420; Aug. 13, 1981, Pub. L. 97–35, title IX, §925(a), 95 Stat. 569, set forth findings and declaration of policy and authorized appropriations with regard to assistance to medical libraries, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 280b, act July 1, 1944, ch. 373, title III, §390, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, §§4(b), 5(b), 6(b), 84 Stat. 64, 65; July 23, 1974, Pub. L. 93–353, title II, §§201(a), (b), 202(a), 88 Stat. 371, 372; Aug. 1, 1977, Pub. L.95–83, title II, §202, 91 Stat. 386; Nov. 9, 1978, Pub. L. 95–622, title II, §211, 92 Stat. 3420; Aug. 13, 1981, Pub. L. 97–35, title IX, §925(a), 95 Stat. 569, set forth findings and declaration of policy and authorized appropriations with regard to assistance to medical libraries, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 A prior section 391 of act July 1, 1944, ch. 373, title III, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(3), 84 Stat. 66; July 23, 1974, Pub. L. 93–353, title II, §202(b), 88 Stat. 372, which defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, was classified to section 280b–1 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
@@ -30,7 +30,7 @@ Subsec. (a)(3). Pub. L. 101–558, §2(a)(2), added par. (3).
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 99–649 provided that:
+Pub. L. 99–649, §2, Nov. 10, 1986, 100 Stat. 3633, provided that:
 
 “(a) The Congress finds and declares that:
 
@@ -40,7 +40,7 @@ Section 2 of Pub. L. 99–649 provided that:
 
 &emsp;“(3) Injury causes 50 percent of all deaths for children over the age of one year and two-thirds of all deaths for children over the age of 15 years, and is the leading cause of death for individuals under the age of 44 years. Individuals over the age of 65 years have the highest fatality rates for many injuries.
 
-&emsp;“(4) Injury control has not been given high priority in the United States, and the research being conducted on injury control and the number of personnelinvolved in injury control activities are not adequate.
+&emsp;“(4) Injury control has not been given high priority in the United States, and the research being conducted on injury control and the number of personnel involved in injury control activities are not adequate.
 
 “(b) The purposes of this Act \[enacting this part\] are—
 

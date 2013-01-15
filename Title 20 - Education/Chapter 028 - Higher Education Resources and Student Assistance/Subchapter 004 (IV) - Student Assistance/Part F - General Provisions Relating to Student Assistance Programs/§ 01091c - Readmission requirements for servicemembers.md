@@ -40,7 +40,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;(A) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
+&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed servicesbefore the expiration of such five-year period and such inability was through no fault of such student; or
 
 &emsp;&emsp;(C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 
@@ -48,7 +48,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;&emsp;(ii) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
-&emsp;&emsp;&emsp;(iii) ordered to active duty (other than for training) in support, as determined bythe Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
+&emsp;&emsp;&emsp;(iii) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
 &emsp;&emsp;&emsp;(iv) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
 

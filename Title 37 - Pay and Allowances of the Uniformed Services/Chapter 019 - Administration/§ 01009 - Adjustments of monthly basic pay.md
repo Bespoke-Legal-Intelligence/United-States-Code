@@ -10,7 +10,7 @@ Effectiveness of Adjustment.—An adjustment under this section shall have the f
 
 (c)
 
-Equal Percentage Increase for All Members.—(1) An adjustment made under thissection in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
+Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
 (2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall be one-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
 
@@ -98,7 +98,7 @@ Pub. L. 106–65, div. A, title VI, §602(b), Oct. 5, 1999, 113 Stat. 649, provi
 
 #### Effective Date of 1997 Amendment
 
-Section 604(b) of Pub. L. 105–85 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, §604(b), Nov. 18, 1997, 111 Stat. 1784, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1998.”
 
 #### Effective Date of 1980 Amendment
 
@@ -106,23 +106,25 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 
-Section 9 of Pub. L. 93–419 provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
+Pub. L. 93–419, §9, Sept. 19, 1974, 88 Stat. 1153, provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
 
-#### Increase in Basic Pay for Fiscal Year 2010
+#### Increase in Basic Pay for Fiscal Year 2013
 
-Pub. L. 111–84, div. A, title VI, §601, Oct. 28, 2009, 123 Stat. 2347, provided that:
+Pub. L. 112–239, div. A, title VI, §601, Jan. 2, 2013, 126 Stat. 1773, provided that:
 
 “(a)
 
 Waiver of Section 1009
 
-Adjustment.—The adjustment to become effective during fiscal year 2010 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
+Adjustment.—The adjustment to become effective during fiscal year 2013 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
 
 “(b)
 
-Increase in Basic Pay.—Effective on January 1, 2010, the rates of monthly basic pay for members of the uniformed services are increased by 3.4 percent.”
+Increase in Basic Pay.—Effective on January 1, 2013, the rates of monthly basic pay for members of the uniformed services are increased by 1.7 percent.”
 
 Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
+
+<b>2010</b>—Pub. L. 111–84, div. A, title VI, §601, Oct. 28, 2009, 123 Stat. 2347.
 
 <b>2009</b>—Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482.
 
@@ -194,7 +196,7 @@ Pub. L. 94–106, title VIII, §819, Oct. 7, 1975, 89 Stat. 544.
 
 #### Adjustment of Pay Rates
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 11812
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not less than 90 percent of the funds made available to a State under section 9905 or 9906of this title shall be used by the State to make grants for the purposes described in section 9901 of this title to eligible entities.
+&emsp;Not less than 90 percent of the funds made available to a State under section 9905 or 9906 of this title shall be used by the State to make grants for the purposes described in section 9901 of this title to eligible entities.
 
 #### (2) Obligational authority
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) that is certified by the appropriate State authority as meeting the requirements of clauses (iii) and (iv); and
 
-&emsp;&emsp;&emsp;&emsp;(III) if such organization is otherwise required to file a return under section 6033 of such title, that elects to treat the information required to be furnished byclause (v) as being specified in section 6033(b) of such title.
+&emsp;&emsp;&emsp;&emsp;(III) if such organization is otherwise required to file a return under section 6033 of such title, that elects to treat the information required to be furnished by clause (v) as being specified in section 6033(b) of such title.
 
 #### (ii) Certain contributions to collection organizations treated as contributions to qualified charity
 

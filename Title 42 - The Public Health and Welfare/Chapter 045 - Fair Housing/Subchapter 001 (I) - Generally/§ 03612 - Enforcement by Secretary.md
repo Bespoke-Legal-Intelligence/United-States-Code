@@ -2,7 +2,7 @@
 
 #### (a) Election of judicial determination
 
-When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (<i>o</i>) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
+When a charge is filed under section 3610 of this title, a complainant, a respondent, or an aggrieved person on whose behalf the complaint was filed, may elect to have the claims asserted in that charge decided in a civil action under subsection (o) of this section in lieu of a hearing under subsection (b) of this section. The election must be made not later than 20 days after the receipt by the electing person of service under section 3610(h) of this title or, in the case of the Secretary, not later than 20 days after such service. The person making such election shall give notice of doing so to the Secretary and to all other complainants and respondents to whom the charge relates.
 
 #### (b) Administrative law judge hearing in absence of election
 
@@ -38,7 +38,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 &emsp;(A) in an amount not exceeding $10,000 if the respondent has not been adjudged to have committed any prior discriminatory housing practice;
 
-&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practice during the 5-year period ending on the date of the filing of this charge; and
+&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practiceduring the 5-year period ending on the date of the filing of this charge; and
 
 &emsp;(C) in an amount not exceeding $50,000 if the respondent has been adjudged to have committed 2 or more discriminatory housing practices during the 7-year period ending on the date of the filing of this charge;
 
@@ -60,7 +60,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (1) The Secretary may review any finding, conclusion, or order issued under subsection (g) of this section. Such review shall be completed not later than 30 days after the finding, conclusion, or order is so issued; otherwise the finding, conclusion, or order becomes final.
 
-(2) The Secretary shall cause the findings of fact and conclusions of law made with respect to any final order for relief under this section, together with a copy of such order, to be served oneach aggrieved person and each respondent in the proceeding.
+(2) The Secretary shall cause the findings of fact and conclusions of law made with respect to any final order for relief under this section, together with a copy of such order, to be served on each aggrieved person and each respondent in the proceeding.
 
 #### (i) Judicial review
 
@@ -88,7 +88,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 (3) No objection not made before the administrative law judge shall be considered by the court, unless the failure or neglect to urge such objection is excused because of extraordinary circumstances.
 
-#### (<i>l</i>) Enforcement decree in absence of petition for review
+#### (l) Enforcement decree in absence of petition for review
 
 If no petition for review is filed under subsection (i) of this section before the expiration of 45 days after the date the administrative law judge's order is entered, the administrative law judge's findings of fact and order shall be conclusive in connection with any petition for enforcement—
 
@@ -102,9 +102,9 @@ If before the expiration of 60 days after the date the administrative law judge'
 
 #### (n) Entry of decree
 
-The clerk of the court of appeals in which a petition for enforcement is filed under subsection (<i>l</i>) or (m) of this section shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
+The clerk of the court of appeals in which a petition for enforcement is filed under subsection (l) or (m) of this section shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary, the respondent named in the petition, and to any other parties to the proceeding before the administrative law judge.
 
-#### (<i>o</i>) Civil action for enforcement when election is made for such civil action
+#### (o) Civil action for enforcement when election is made for such civil action
 
 (1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 

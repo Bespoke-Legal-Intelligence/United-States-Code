@@ -2,7 +2,7 @@
 
 This subchapter applies to a contract authorized by law that is made without regard to section 6101(b) to (d) of title 41, or on a cost-plus-a-fixed-fee basis or otherwise without advertising for proposals, if this subchapter otherwise would apply to the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1153; Pub. L. 111–350, §5(<i>l</i>)(14), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1153; Pub. L. 111–350, §5(l)(14), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

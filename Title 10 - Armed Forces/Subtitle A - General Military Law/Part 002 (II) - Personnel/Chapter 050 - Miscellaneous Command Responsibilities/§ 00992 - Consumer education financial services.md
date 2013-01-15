@@ -38,11 +38,11 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 &emsp;&emsp;(III) Through qualified representatives of nonprofit organizations and agencies under formal agreements with the Department of Defense to provide such counseling.
 
-(B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.
+(B) In the case of any military installation not described in subparagraph (A), the Secretaryconcerned shall provide counseling on financial services under this subsection at such installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces andtheir spouses with helpful information and counseling on financial services and related marketing practices.
+(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
 
 (c)
 
@@ -172,9 +172,9 @@ Technical Amendment.—\[Amended section 80a–27 of Title 15.\]
 
 “(c)
 
-Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—Not later than6 months after the date of enactment of this Act \[Sept. 29, 2006\], the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report describing—
+Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—Not later than 6 months after the date of enactment of this Act \[Sept. 29, 2006\], the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report describing—
 
-&emsp;“(1) any measures taken by a broker or dealer registered with the Securities and Exchange Commission pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(b)) to voluntarily refund payments made by military service members on any periodic payment plan certificate, and the amounts of such refunds;
+&emsp;“(1) any measures taken by a broker or dealer registered with the Securities and Exchange Commission pursuant to section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) to voluntarily refund payments made by military service members on any periodic payment plan certificate, and the amounts of such refunds;
 
 &emsp;“(2) after such consultation with the Secretary of Defense, as the Commission considers appropriate, the sales practices of such brokers or dealers on military installations over the 5 years preceding the date of submission of the report and any legislative or regulatory recommendations to improve such practices; and
 
@@ -182,11 +182,11 @@ Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—
 
 #### “SEC. 5. REQUIRED DISCLOSURES REGARDING OFFERS OR SALES OF SECURITIES ON MILITARY INSTALLATIONS.
 
-\[Amended section 78<i>o</i>–3 of Title 15.\]
+\[Amended section 78o–3 of Title 15.\]
 
 #### “SEC. 6. METHOD OF MAINTAINING BROKER AND DEALER REGISTRATION, DISCIPLINARY, AND OTHER DATA.
 
-\[Amended section 78<i>o</i>–3 of Title 15.\]
+\[Amended section 78o–3 of Title 15.\]
 
 #### “SEC. 7. FILING DEPOSITORIES FOR INVESTMENT ADVISERS.
 
@@ -358,7 +358,7 @@ Regulations.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Defense shall issue regulations in accordance with this subsection to provide for the establishment and maintenance of the list required by this section, including appropriate due process considerations.
+In general.—The Secretary of Defense shall issue regulations in accordance with this subsectionto provide for the establishment and maintenance of the list required by this section, including appropriate due process considerations.
 
 &emsp;“(2)
 

@@ -50,7 +50,7 @@ The following shall be exempt from the specific provisions of this chapter under
 
 #### Egg Promotion and Research Order
 
-Section 3(b) of Pub. L. 101–220 provided that:
+Pub. L. 101–220, §3(b), Dec. 12, 1989, 103 Stat. 1878, provided that:
 
 “(1)
 

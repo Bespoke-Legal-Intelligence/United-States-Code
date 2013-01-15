@@ -44,7 +44,7 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 &emsp;(E) A certification that the conveyance of the facility under the agreement is in the best interests of the United States and that the Secretary used competitive procedures to the maximum extent practicable to protect the interests of the United States.
 
-(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
+(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreementmade, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (3) Section 2662 of this title shall not apply to an exchange carried out using the authority provided by this section.
 

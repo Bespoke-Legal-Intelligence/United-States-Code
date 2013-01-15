@@ -74,9 +74,9 @@ Authority for Secretary of Defense Variances for Active-Duty and Selected Reserv
 
 &emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
-&emsp;(2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength;
+&emsp;(2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equalto not more than 2 percent of that end strength;
 
-&emsp;(3) vary the end strength authorized pursuant to subsection (a)(2) for a fiscal year for theSelected Reserve of any of the reserve components by a number equal to not more than 3 percent of that end strength; and
+&emsp;(3) vary the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of any of the reserve components by a number equal to not more than 3 percent of that end strength; and
 
 &emsp;(4) increase the maximum strength authorized pursuant to subsection (b)(1) for a fiscal year for certain reserves on active duty for any of the reserve components by a number equal to not more than 10 percent of that strength.
 
@@ -128,7 +128,7 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 #### Prior Provisions
 
-A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2),110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
+A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114;Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
 
@@ -236,9 +236,9 @@ Subsec. (f). Pub. L. 104–106, §1061(c)(3), struck out subsec. (f) which read 
 
 Subsec. (g). Pub. L. 104–106, §513(a)(1), added subsec. (g).
 
-<b>1991</b>—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength for civilian personnel for each component of the Department of Defense.”
+<b>1991</b>—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength forcivilian personnel for each component of the Department of Defense.”
 
-Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for“; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
+Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
 
 #### Effective Date of 2006 Amendment
 
@@ -250,9 +250,9 @@ Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 513(a)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] does not apply with respect to fiscal year 1995.”
+Pub. L. 104–106, div. A, title V, §513(a)(2), Feb. 10, 1996, 110 Stat. 305, provided that: “The amendment made by paragraph (1) \[amending this section\] does not apply with respect to fiscal year 1995.”
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Regulations
 
@@ -374,13 +374,13 @@ Pub. L. 92–436, title III, §301, Sept. 26, 1972, 86 Stat. 735.
 
 #### Minimum Number of Navy Health Professions Officers
 
-Section 718(b) of Pub. L. 102–190 provided that, of the total number of officers authorized to be serving on active duty in Navy on last day of a fiscal year, 12,510 were to be available only for assignment to duties in health profession specialties, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(2), Feb. 10, 1996, 110 Stat. 327.
+Pub. L. 102–190, div. A, title VII, §718(b), Dec. 5, 1991, 105 Stat. 1404, provided that, of the total number of officers authorized to be serving on active duty in Navy on last day of a fiscal year, 12,510 were to be available only for assignment to duties in health profession specialties, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(2), Feb. 10, 1996, 110 Stat. 327.
 
 #### Limitations on Reductions in Medical Personnel
 
-Section 711 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title VII, §718(a), Dec. 5, 1991, 105 Stat. 1404, prohibited Secretary of Defense from reducing number of medical personnel of Department of Defense below baseline number unless Secretary certified to Congress that number of such personnel being reduced was excess to current and projected needs of military departments, and such reduction would not result in increase in cost of health care services provided under Civilian Health and Medical Program of the Uniformed Services, and, in case of military medical personnel, included in certification information on strength levels for individual category of medical personnel involved in reduction as of Sept. 30, 1989, projected requirements of Department over 5-fiscal year period following fiscal year in which certification was submitted for medical personnel in category of medical personnel involved, and strength level recommended for each component of Armed Forces for most recent fiscal year for which Secretary submitted recommendations pursuant to section 115a(g)(1) of this title for personnel in category of medical personnel involved, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(1), Feb. 10, 1996, 110 Stat. 327. See section 129c of this title.
+Pub. L. 101–510, div. A, title VII, §711, Nov. 5, 1990, 104 Stat. 1582, as amended by Pub. L. 102–190, div. A, title VII, §718(a), Dec. 5, 1991, 105 Stat. 1404, prohibited Secretary of Defense from reducing number of medical personnel of Department of Defense below baseline number unless Secretary certified to Congress that number of such personnel being reduced was excess to current and projected needs of military departments, and such reduction would not result in increase in cost of health care services provided under Civilian Health and Medical Program of the Uniformed Services, and, in case of military medical personnel, included in certification information on strength levels for individual category of medical personnel involved in reduction as of Sept. 30, 1989, projected requirements of Department over 5-fiscal year period following fiscal year in which certification was submitted for medical personnel in category of medical personnel involved, and strength level recommended for each component of Armed Forces for most recent fiscal year for which Secretary submitted recommendations pursuant to former section 115a(g)(1) of this title for personnel in category of medical personnel involved, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(1), Feb. 10, 1996, 110 Stat. 327. See section 129c of this title.
 
 #### Operation Desert Shield Increase in End Strengths of Active Duty Personnel; Authority; Certification
 
-Section 1117 of Pub. L. 101–510, authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, prior to repeal by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
+Pub. L. 101–510, div. A, title XI, §1117, Nov. 5, 1990, 104 Stat. 1637, authorized Secretary of Defense, after determining that operational requirements of Operation Desert Shield so require, to increase the end strengths of active duty personnel for fiscal year 1991 by an amount not greater than 0.5 percent of the total end strengths authorized by section 401 of Pub. L. 101–510, set out above, and required certification by Secretary to Committees on Armed Services of Senate and House of Representatives of necessity of such increase, prior to repeal by Pub. L. 102–25, title II, §204, Apr. 6, 1991, 105 Stat. 80.
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a qualified professional asset manager described in subparagraph (A), (B), or (C); or
 
-&emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
+&emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
 &emsp;(9) the term “shareholder's or partner's equity”, as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
 
@@ -120,7 +120,7 @@
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
-&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of thepublic debt limit had been invested under the procedure set forth in paragraph (5), over
+&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of the public debt limit had been invested under the procedure set forth in paragraph (5), over
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
@@ -136,7 +136,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L.104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854.)
 
 #### Amendments
 
@@ -182,9 +182,9 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 #### Effective Date of 1988 Amendment
 
-Section 2(b) of Pub. L. 100–366 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
+Pub. L. 100–366, §2(b), July 13, 1988, 102 Stat. 826, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
 
 #### Removal of Investment Restrictions
 
-Section 3(b)(4) of Pub. L. 101–335 provided that: “Any other provision of law, in effect on the date of enactment of this Act \[July 17, 1990\], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of title 5, United States Code, shall cease to be effective.”
+Pub. L. 101–335, §3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “Any other provision of law, in effect on the date of enactment of this Act \[July 17, 1990\], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of title 5, United States Code, shall cease to be effective.”
 

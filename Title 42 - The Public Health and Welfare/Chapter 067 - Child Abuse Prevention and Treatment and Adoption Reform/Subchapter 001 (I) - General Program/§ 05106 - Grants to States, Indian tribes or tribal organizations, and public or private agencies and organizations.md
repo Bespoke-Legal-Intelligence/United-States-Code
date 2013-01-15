@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies,developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -180,7 +180,7 @@ Pub. L. 108–36, §113(a)(1), substituted “Grants for” for “Demonstration
 
 Subsec. (a)(1). Pub. L. 108–36, §113(a)(3)(A), struck out “nonprofit” after “public or private” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted “law enforcement, judiciary, social work andchild protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
+Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted “law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
 
 Subsec. (a)(1)(B). Pub. L. 108–36, §113(a)(3)(C), substituted “children, youth and family service organizations in order to prevent child abuse and neglect;” for “nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and”.
 

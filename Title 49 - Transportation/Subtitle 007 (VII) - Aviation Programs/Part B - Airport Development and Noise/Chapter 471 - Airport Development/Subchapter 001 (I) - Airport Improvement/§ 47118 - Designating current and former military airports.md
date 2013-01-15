@@ -22,13 +22,19 @@ Survey.—Not later than September 30, 1991, the Secretary shall complete a surv
 
 Considerations.—In carrying out this section, the Secretary shall consider only current or former military airports for designation under this section if a grant under section 47117(e)(1)(B) would—
 
-&emsp;(1) reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings; or
+&emsp;(1) reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings;
 
-&emsp;(2) enhance airport and air traffic control system capacity in a metropolitan area or reduce current and projected flight delays.
+&emsp;(2) enhance airport and air traffic control system capacity in a metropolitan area or reduce current and projected flight delays; or
+
+&emsp;(3) preserve or enhance minimum airfield infrastructure facilities at former military airports to support emergency diversionary operations for transoceanic flights in locations—
+
+&emsp;&emsp;(A) within United States jurisdiction or control; and
+
+&emsp;&emsp;(B) where there is a demonstrable lack of diversionary airports within the distance or flight-time required by regulations governing transoceanic flights.
 
 (d)
 
-Grants.—Grants under section 47117(e)(1)(B) of this title may be made for an airport designated under subsection (a) of this section for the 5 fiscal years following the designation, and for subsequent periods, each not to exceed 5 fiscal years, if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent period.
+Grants.—Grants under section 47117(e)(1)(B) of this title may be made for anairport designated under subsection (a) of this section for the 5 fiscal years following the designation, and for subsequent periods, each not to exceed 5 fiscal years, if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent period.
 
 (e)
 
@@ -52,9 +58,17 @@ Reimbursement.—Upon approval of the Secretary, the sponsor of a current or for
 
 (g)
 
-Designation of General Aviation Airport.—Notwithstanding any other provision of this section, one of the airports bearing a designation under subsection (a) may be a general aviation airport that was a former military installation closed or realigned under a section referred to in subsection (a)(1).
+Designation of General Aviation Airports.—Notwithstanding any other provision of this section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–176, title I, §153, Dec. 12, 2003, 117 Stat. 2507.)
+(h)
+
+Safety-Critical Airports.—Notwithstanding any other provision of this chapter, a grant under section 47117(e)(1)(B) may be made for a federally owned airport designated under subsection (a) if the grant is for a project that is—
+
+&emsp;(1) to preserve or enhance minimum airfield infrastructure facilities described in subsection (c)(3); and
+
+&emsp;(2) necessary to meet the minimum safety and emergency operational requirements established under part 139 of title 14, Code of Federal Regulations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–176, title I, §153, Dec. 12, 2003, 117 Stat. 2507; Pub. L. 112–95, title I, §146, Feb. 14, 2012, 126 Stat. 30.)
 
 Historical and Revision Notes
 
@@ -118,9 +132,15 @@ Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred t
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(3). Pub. L. 112–95, §146(a), added par. (3).
+
+Subsec. (g). Pub. L. 112–95, §146(b), substituted “Airports” for “Airport” in heading and “3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations” for “one of the airports bearing a designation under subsection (a) may be a general aviation airport that was a former military installation” in text.
+
+Subsec. (h). Pub. L. 112–95, §146(c), added subsec. (h).
+
 <b>2003</b>—Subsec. (e). Pub. L. 108–176, §153(1), substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available” in introductory provisions.
 
-Subsec. (f). Pub. L. 108–176, §153(2), (3), inserted par. (1) designation and heading, substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available”, and added par. (2).
+Subsec. (f). Pub. L. 108–176, §153(2), (3), inserted par. (1) designation and heading, substituted “Fromamounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available”, and added par. (2).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–181, §130(a)(1)(A), substituted “15” for “12” in introductory provisions.
 

@@ -144,7 +144,7 @@ Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Ac
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 97–459 provided that: “This title \[enacting this chapter\] may be cited as the ‘Indian Land Consolidation Act’.”
+Pub. L. 97–459, title II, §201, Jan. 12, 1983, 96 Stat. 2517, provided that: “This title \[enacting this chapter\] may be cited as the ‘Indian Land Consolidation Act’.”
 
 #### Regulations
 

@@ -36,5 +36,5 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Effective Date of 1990 Amendment
 
-Section 103(c) of Pub. L. 101–627 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1992.”
+Pub. L. 101–627, title I, §103(c), Nov. 28, 1990, 104 Stat. 4439, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1992.”
 

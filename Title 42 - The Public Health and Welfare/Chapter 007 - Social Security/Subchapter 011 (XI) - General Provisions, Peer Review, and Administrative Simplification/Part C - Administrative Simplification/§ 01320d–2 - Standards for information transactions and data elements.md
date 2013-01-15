@@ -176,7 +176,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;(C) determine whether such operating rules represent a consensus view of the health care stakeholders and are consistent with and do not conflict with other existing standards;
 
-&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standardsadopted for health information technology; and
+&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standards adopted for health information technology; and
 
 &emsp;&emsp;(E) submit to the Secretary a recommendation as to whether the Secretary should adopt such operating rules.
 
@@ -314,7 +314,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;&emsp;(i) the standards and associated operating rules described under paragraph (1) of such subsection; and
 
-&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operatingrules (as described under subsection (i)(5)) for any other financial and administrative transactions.
+&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operating rules (as described under subsection (i)(5)) for any other financial and administrative transactions.
 
 #### (B) Fee amount
 
@@ -346,7 +346,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (3) Penalty fee report
 
-&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide the Secretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
+&emsp;Not later than May 1, 2014, and annually thereafter, the Secretary shall provide theSecretary of the Treasury with a report identifying those health plans that have been assessed a penalty fee under this subsection.
 
 #### (4) Collection of penalty fee
 
@@ -428,7 +428,7 @@ Activities and Items for Initial Consideration.—For purposes of section 1173(a
 
 &emsp;“(3) Whether standardized forms could apply to financial audits required by health plans, Federal and State agencies (including State auditors, the Office of the Inspector General of the Department of Health and Human Services, and the Centers for Medicare \& Medicaid Services), and other relevant entities as determined appropriate by the Secretary.
 
-&emsp;“(4) Whether there could be greater transparency and consistency of methodologies and processes used to establish claim edits used by health plans (as described in section 1171(5) of the Social Security Act (42 U.S.C. 1320d(5))).
+&emsp;“(4) Whether there could be greater transparency and consistency of methodologies and processes usedto establish claim edits used by health plans (as described in section 1171(5) of the Social Security Act (42 U.S.C. 1320d(5))).
 
 &emsp;“(5) Whether health plans should be required to publish their timeliness of payment rules.
 
@@ -532,7 +532,7 @@ Sec. 3. <i>Implementation.</i>
 
 (iv) the uses for which the protected health information was authorized.
 
-(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and willforward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
+(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
 
 Sec. 4. <i>Exceptions.</i>
 

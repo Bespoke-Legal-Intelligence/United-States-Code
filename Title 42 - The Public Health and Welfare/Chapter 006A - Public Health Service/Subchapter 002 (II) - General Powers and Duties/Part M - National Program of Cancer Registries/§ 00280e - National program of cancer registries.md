@@ -54,7 +54,7 @@
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federalcontributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -130,7 +130,7 @@ Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: “The 
 
 #### Congressional Findings and Purpose
 
-Section 2 of Pub. L. 102–515 provided that:
+Pub. L. 102–515, §2, Oct. 24, 1992, 106 Stat. 3372, provided that:
 
 “(a)
 

@@ -16,7 +16,7 @@ Definitions.—In this subchapter:
 
 (b)
 
-Limitation.—Any civilian or military member of the Corps who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
+Limitation.—Any civilian or military member of the Corps who does not meet the education, training, and experience requirements for a critical acquisition position establishedunder this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
 
 (c)
 

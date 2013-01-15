@@ -34,7 +34,7 @@ Any spouse of an eligible Indian who is not an Indian, or who is of Indian desce
 
 #### (A) In general
 
-&emsp;&emsp;Persons receiving health services provided by the Service under this subsection shall beliable for payment of such health services under a schedule of charges prescribed by the Secretary which, in the judgment of the Secretary, results in reimbursement in an amount not less than the actual cost of providing the health services. Notwithstanding section 1621f of this title or any other provision of law, amounts collected under this subsection, including Medicare, Medicaid, or children's health insurance program reimbursements under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], shall be credited to the account of the program providing the service and shall be used for the purposes listed in section 1641(d)(2) of this title and amounts collected under this subsection shall be available for expenditure within such program.
+&emsp;&emsp;Persons receiving health services provided by the Service under this subsection shall be liable for payment of such health services under a schedule of charges prescribed by the Secretary which, in the judgment of the Secretary, results in reimbursement in an amount not less than the actual cost of providing the health services. Notwithstanding section 1621f of this title or any other provision of law, amounts collected under this subsection, including Medicare, Medicaid, or children's health insurance program reimbursements under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], shall be credited to the account of the program providing the service and shall be used for the purposes listed in section 1641(d)(2) of this title and amounts collected under this subsection shall be available for expenditure within such program.
 
 #### (B) Indigent people
 
@@ -84,7 +84,7 @@ For purposes of this section, the term “eligible Indian” means any Indian wh
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(2) and (e), is Pub.L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under section 450f of this title.
 

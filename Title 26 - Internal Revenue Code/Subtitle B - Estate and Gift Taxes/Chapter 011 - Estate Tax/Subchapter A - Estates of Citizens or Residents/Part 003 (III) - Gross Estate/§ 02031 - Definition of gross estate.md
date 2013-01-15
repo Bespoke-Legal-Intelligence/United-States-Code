@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservationeasement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 #### (3) Exclusion limitation
 
@@ -126,7 +126,7 @@ $500,000.
 
 &emsp;&emsp;&emsp;(ii) which was owned by the decedent or a member of the decedent's family at all times during the 3-year period ending on the date of the decedent's death, and
 
-&emsp;&emsp;&emsp;(iii) with respect to which a qualified conservation easement has been made by an individual described in subparagraph (C), as of the date of the election described in paragraph (6).
+&emsp;&emsp;&emsp;(iii) with respect to which a qualified conservation easement has been made by an individual described in subparagraph\(C), as of the date of the election described in paragraph (6).
 
 #### (B) Qualified conservation easement
 
@@ -154,7 +154,7 @@ $500,000.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 
-&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
+&emsp;This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
 
 #### (d) Cross reference
 
@@ -162,23 +162,17 @@ $500,000.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a), (b), June 7, 2001, 115 Stat. 86.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(2). Pub. L. 107–16, §§551(b), 901, temporarily inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–16, §551(b), inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).”
 
-Subsec. (c)(8)(A)(i). Pub. L. 107–16, §§551(a), 901, temporarily amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “which is located—
+Subsec. (c)(8)(A)(i). Pub. L. 107–16, §551(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “which is located—
 
 &emsp;“(I) in or within 25 miles of an area which, on the date of the decedent's death, is a metropolitan area (as defined by the Office of Management and Budget),
 
 &emsp;“(II) in or within 25 miles of an area which, on the date of the decedent's death, is a national park or wilderness area designated as part of the National Wilderness Preservation System (unless it is determined by the Secretary that land in or within 25 miles of such a park or wilderness area is not under significant development pressure), or
 
 &emsp;“(III) in or within 10 miles of an area which, on the date of the decedent's death, is an Urban National Forest (as designated by the Forest Service),”.
-
-> See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (c)(6). Pub. L. 105–206, §6007(g)(2), substituted “on or before the due date (including extensions) for filing the return of tax imposed by section 2001 and shall be made on such return.” for “on the return of the tax imposed by section 2001.”
 
@@ -194,11 +188,9 @@ Pub. L. 105–206, §6007(g)(1), redesignated par. (9) as (10).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §551(c), June 7, 2001, 115 Stat. 86, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2000.”
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -210,7 +202,7 @@ Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1962 Amendment
 
-Section 18(b) of Pub. L. 87–834 provided that:
+Pub. L. 87–834, §18(b), Oct. 16, 1962, 76 Stat. 1052, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section and sections 2033, 2034, 2035, 2036, 2037, 2038, 2040, and 2041 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Oct. 16, 1962\].
 

@@ -2,7 +2,7 @@
 
 #### (a) Detention, transportation, hospitalization, and all other expenses of detained aliens; expenses of landing stations
 
-All moneys paid into the Treasury to reimburse the Service for detention, transportation, hospitalization, and all other expenses of detained aliens paid from the appropriation for the enforcement of this chapter, and all moneys paid into the Treasury to reimburse the Service for expenses of landing stations referred to in section 1223(b) of this title paid by the Servicefrom the appropriation for the enforcement of this chapter, shall be credited to the appropriation for the enforcement of this chapter for the fiscal year in which the expenses were incurred.
+All moneys paid into the Treasury to reimburse the Service for detention, transportation, hospitalization, and all other expenses of detained aliens paid from the appropriation for the enforcement of this chapter, and all moneys paid into the Treasury to reimburse the Service for expenses of landing stations referred to in section 1223(b) of this title paid by the Service from the appropriation for the enforcement of this chapter, shall be credited to the appropriation for the enforcement of this chapter for the fiscal year in which the expenses were incurred.
 
 #### (b) Purchase of evidence
 
@@ -52,7 +52,7 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 > the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the United States and shall provide such passenger a receipt for the payment of such fee.
 
-(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect tosuch taxes do not conflict with the provisions of this section.
 
 #### (g) Provision of immigration inspection and preinspection services
 
@@ -64,7 +64,7 @@ Notwithstanding section 1353b of this title, or any other provision of law, the 
 
 #### (h) Disposition of receipts
 
-(1)(A) There is established in the general fund of the Treasury a separate account which shallbe known as the “Immigration User Fee Account”. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
+(1)(A) There is established in the general fund of the Treasury a separate account which shall be known as the “Immigration User Fee Account”. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
 
 (B) Notwithstanding any other provisions of law, all civil fines or penalties collected pursuant to sections 1253(c), 1321, and 1323 of this title and all liquidated damages and expenses collected pursuant to this chapter shall be deposited in the Immigration User Fee Account.
 
@@ -96,11 +96,11 @@ The Attorney General may prescribe such rules and regulations as may be necessar
 
 #### (k) Advisory committee
 
-In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
+In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, theproper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
 
-#### (<i>l</i>) Report to Congress
+#### (l) Report to Congress
 
-In addition to the reporting requirements established pursuant to subsection (h) of this section, the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration andNaturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
+In addition to the reporting requirements established pursuant to subsection (h) of this section, the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
 
 #### (m) Immigration Examinations Fee Account
 
@@ -110,13 +110,13 @@ Notwithstanding any other provisions of law, all adjudication fees as are design
 
 All deposits into the “Immigration Examinations Fee Account” shall remain available until expended to the Attorney General to reimburse any appropriation the amount paid out of such appropriation for expenses in providing immigration adjudication and naturalization services and the collection, safeguarding and accounting for fees deposited in and funds reimbursed from the “Immigration Examinations Fee Account”.
 
-#### (<i>o</i>) Annual financial reports to Congress
+#### (o) Annual financial reports to Congress
 
 The Attorney General shall prepare and submit annually to Congress statements of financial condition of the “Immigration Examinations Fee Account”, including beginning account balance, revenues, withdrawals, and ending account balance and projections for the ensuing fiscal year.
 
 #### (p) Additional effective dates
 
-The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section apply to adjudication and naturalization services performed and to related fees collected on or after October 1, 1988.
+The provisions set forth in subsections (m), (n), and (o) of this section apply to adjudication and naturalization services performed and to related fees collected on or after October 1, 1988.
 
 #### (q) Land Border Inspection Fee Account
 
@@ -150,7 +150,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (r) Breached Bond/Detention Fund
 
-(1) Notwithstanding any other provision of law, there is established in the general fund ofthe Treasury a separate account which shall be known as the Breached Bond/Detention Fund (in this subsection referred to as the “Fund”).
+(1) Notwithstanding any other provision of law, there is established in the general fund of the Treasury a separate account which shall be known as the Breached Bond/Detention Fund (in this subsection referred to as the “Fund”).
 
 (2) There shall be deposited as offsetting receipts into the Fund all breached cash and surety bonds, in excess of $8,000,000, posted under this chapter which are recovered by the Department of Justice, and amount <sup>3</sup> described in section 1255(i)(3)(b) <sup>4</sup> of this title.
 
@@ -196,7 +196,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (6) Use of fees for application processing and enforcement
 
-&emsp;For fiscal year 1999, 4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to theSecretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title.
+&emsp;For fiscal year 1999, 4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title.
 
 #### (t) Genealogy Fee
 
@@ -238,9 +238,9 @@ The Attorney General is authorized to establish and collect a premium fee for em
 
 #### (D) Consultation
 
-&emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
+&emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programsand activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283.)
 
 #### Amendment of Section
 
@@ -296,7 +296,7 @@ Subsec. (s)(4)(A). Pub. L. 108–447, §427(3), substituted “10 percent” for
 
 Subsec. (s)(5). Pub. L. 108–447, §427(4), substituted “5 percent” for “4 percent” and “Secretary of Homeland Security” for “Attorney General”.
 
-Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted “Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title” for “Beginning with fiscal year 2000, 2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title, and 2 percent of such amounts shall remain available to such Secretary until expended for carrying out section 1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period”.
+Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted “Beginning with fiscal year 2000, 5 percent of theamounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title” for “Beginning with fiscal year 2000, 2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title, and 2 percent of such amounts shall remain available to such Secretary until expended for carrying out section 1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period”.
 
 Subsec. (v). Pub. L. 108–447, §426(b), added subsec. (v).
 
@@ -360,7 +360,7 @@ Subsec. (s). Pub. L. 105–277, §414(b), added subsec. (s).
 
 Subsec. (r)(3). Pub. L. 105–119, §110(2)(B), substituted “Attorney General” for “Immigration and Naturalization Service” in introductory provisions.
 
-Subsec. (r)(4). Pub. L. 105–119, §110(2)(C), added par. (4) and struck out former par. (4) which read as follows: “The amount required to be refunded from the Fund for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 102–395.”
+Subsec. (r)(4). Pub. L. 105–119, §110(2)(C), added par. (4) and struck out former par. (4) which read as follows: “The amount required to be refunded from the Fund forfiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 102–395.”
 
 Subsec. (s). Pub. L. 105–119, §110(1), struck out heading and text of subsec. (s) which established Immigration Detention Account in general fund of the Treasury to be drawn upon to refund to any appropriation amounts paid out for expenses incurred by Attorney General for detention of aliens.
 
@@ -370,7 +370,7 @@ Subsec. (h)(1)(A). Pub. L. 104–208, §671(e)(5), inserted period after “expe
 
 Subsec. (h)(1)(B). Pub. L. 104–208, §382(b), substituted “1253(c), 1321,” for “1321”.
 
-Subsec. (h)(2)(A). Pub. L. 104–208, §124(a)(1)(B), inserted concluding provisions “The Attorney Generalshall provide for expenditures for training and assistance described in clause (iv) in an amount, for any fiscal year, not less than 5 percent of the total of the expenses incurred that are described in the previous sentence.”
+Subsec. (h)(2)(A). Pub. L. 104–208, §124(a)(1)(B), inserted concluding provisions “The Attorney General shall provide for expenditures for training and assistance described in clause (iv) in an amount, for any fiscal year, not less than 5 percent of the total of the expenses incurred that are described in the previous sentence.”
 
 Subsec. (h)(2)(A)(iv). Pub. L. 104–208, §671(e)(6)(A), struck out “and” at end.
 
@@ -436,7 +436,7 @@ Subsec. (n). Pub. L. 102–232, §309(a)(1)(B), amended directory language of Pu
 
 Pub. L. 102–232, §309(a)(1)(A)(i)(I), made technical correction to directory language of Pub. L. 100–459. See 1988 Amendment note below.
 
-Subsec. (<i>o</i>). Pub. L. 102–232, §309(a)(1)(A)(i)(II), substituted “shall” for “will”.
+Subsec. (o). Pub. L. 102–232, §309(a)(1)(A)(i)(II), substituted “shall” for “will”.
 
 Pub. L. 102–232, §309(a)(1)(A)(i)(I), made technical correction to directory language of Pub. L. 100–459. See 1988 Amendment note below.
 
@@ -454,19 +454,19 @@ Subsec. (f)(3). Pub. L. 101–515, §210(a)(2), as amended by Pub. L. 102–232,
 
 Subsec. (g). Pub. L. 101–515, §210(a)(3), inserted “, within forty-five minutes of their presentation for inspection,” before “when needed and”.
 
-Subsec. (h)(1)(A). Pub. L. 101–515, §210(a)(4), substituted “There is established in the general fund of the Treasury a separate account which shall be known as the ‘Immigration User Fee Account’. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended” for “All of the fees collected under subsection (d) of this section shall be deposited in a separate account within the general fund of the Treasury of the United States, to remain available until expended. Such account shall be known as the ‘Immigration User Fee Account’.”
+Subsec. (h)(1)(A). Pub. L. 101–515, §210(a)(4), substituted “There is established in the general fund of the Treasury a separate account which shall be known as the ‘Immigration User Fee Account’. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended” for“All of the fees collected under subsection (d) of this section shall be deposited in a separate account within the general fund of the Treasury of the United States, to remain available until expended. Such account shall be known as the ‘Immigration User Fee Account’.”
 
-Subsec. (<i>l</i>). Pub. L. 101–515, §210(a)(5), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–515, §210(a)(5), added subsec. (l).
 
 Subsec. (m). Pub. L. 101–515, §210(d)(1), (2), inserted “as offsetting receipts” after “shall be deposited” and inserted before period at end “: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additonal \[sic\] costs associated with the administration of the fees collected”.
 
 Subsec. (q). Pub. L. 101–515, §210(d)(3), added subsec. (q).
 
-<b>1989</b>—Subsec. (n). Pub. L. 101–162, as amended by Pub. L. 102–232, §309(a)(1)(B), struck out “in excess of$50,000,000” before “shall remain available” and struck out after first sentence “At least annually, deposits in the amount of $50,000,000 shall be transferred from the ‘Immigration Examinations Fee Account’ to the General Fund of the Treasury of the United States.”
+<b>1989</b>—Subsec. (n). Pub. L. 101–162, as amended by Pub. L. 102–232, §309(a)(1)(B), struck out “in excess of $50,000,000” before “shall remain available” and struck out after first sentence “At least annually, deposits in the amount of $50,000,000 shall be transferred from the ‘Immigration Examinations Fee Account’ to the General Fund of the Treasury of the United States.”
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–525, §8(f), added Pub. L. 99–653, §7(d)(1). See 1986 Amendment note below.
 
-Subsecs. (d) to (<i>l</i>). Pub. L. 100–525, §4(a)(2)(A), (d), amended Pub. L. 99–500 and Pub. L. 99–591. See 1986 Amendment note below.
+Subsecs. (d) to (l). Pub. L. 100–525, §4(a)(2)(A), (d), amended Pub. L. 99–500 and Pub. L. 99–591. See 1986 Amendment note below.
 
 Subsec. (f)(3). Pub. L. 100–525, §4(a)(1)(A), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -482,7 +482,7 @@ Subsec. (h)(2)(A). Pub. L. 100–525, §4(a)(1)(C)(vi), substituted “vessels a
 
 Subsec. (i). Pub. L. 100–525, §4(a)(1)(D), inserted “Reimbursement” as heading.
 
-Subsec. (<i>l</i>). Pub. L. 100–525, §4(a)(1)(E), struck out subsec. (<i>l</i>) which read as follows:
+Subsec. (l). Pub. L. 100–525, §4(a)(1)(E), struck out subsec. (l) which read as follows:
 
 “(1) The provisions of this section and the amendments made by this section, shall apply with respect to immigration inspection services rendered after November 30, 1986.
 
@@ -494,7 +494,7 @@ Subsecs. (m) to (p). Pub. L. 100–459, as amended by Pub. L. 102–232, §309(a
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–653, §7(d)(1), as added by Pub. L. 100–525, §8(f), substituted “section 1228(b) of this title” for “section 1228(c) of this title”.
 
-Subsecs. (d) to (<i>l</i>). Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], as redesignated by Pub. L. 100–525, §4(a)(2)(A), added subsecs. (d) to (<i>l</i>).
+Subsecs. (d) to (l). Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], as redesignated by Pub. L. 100–525, §4(a)(2)(A), added subsecs. (d) to (l).
 
 Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 99–500, §101(b) \[title II, §205(a)\], was repealed by Pub. L. 100–525, §4(d), effective as of Oct. 30, 1986.
 
@@ -522,27 +522,27 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Section 124(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to expenses incurred during or after fiscal year 1997.”
+Pub. L. 104–208, div. C, title I, §124(a)(2), Sept. 30, 1996, 110 Stat. 3009–562, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to expenses incurred during or after fiscal year 1997.”
 
 Amendment by section 308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 376(b) of Pub. L. 104–208 applicable to applications made on or after the end of the 90-day period beginning Sept. 30, 1996, see section 376(c) of Pub. L. 104–208, set out as a note under section 1255 of this title.
 
-Amendment by section 382(b) of Pub. L. 104–208 applicable to fines and penalties collected on or after Sept. 30, 1996, see section 382(c) of Pub. L. 104–208, set out as a note under section 1330 of this title.
+Amendment by section 382(b) of Pub. L. 104–208 applicable to fines and penalties collected on or after Sept.30, 1996, see section 382(c) of Pub. L. 104–208, set out as a note under section 1330 of this title.
 
 Amendment by section 671(b)(11) of Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Section 219(t) of Pub. L. 103–416 provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 102–395.
+Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 102–395.
 
 #### Effective Date of 1991 Amendment
 
-Section 309(a)(3) of Pub. L. 102–232, as amended by Pub. L. 103–416, title II, §219(z)(6), Oct. 25, 1994, 108 Stat. 4318, provided that: “The amendments made by paragraphs (1)(A) \[amending this section and section 1455 of this title\] and (1)(B) \[amending this section\] shall be effective as if they were included in the enactment of the Department of Justice Appropriations Act, 1989 \[Pub. L. 100–459, title II\] and the Department of Justice Appropriations Act, 1990 \[Pub. L. 101–162, title II\], respectively.”
+Pub. L. 102–232, title III, §309(a)(3), Dec. 12, 1991, 105 Stat. 1758, as amended by Pub. L. 103–416, title II, §219(z)(6), Oct. 25, 1994, 108 Stat. 4318, provided that: “The amendments made by paragraphs (1)(A) \[amending this section and section 1455 of this title\] and (1)(B) \[amending this section\] shall be effective as if they were included in the enactment of the Department of Justice Appropriations Act, 1989 \[Pub. L. 100–459, title II\] and the Department of Justice Appropriations Act, 1990 \[Pub. L. 101–162, title II\], respectively.”
 
 #### Effective Date of 1990 Amendment
 
-Section 210(b) of Pub. L. 101–515 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall apply to fees charged only with respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990.”
+Pub. L. 101–515, title II, §210(b), Nov. 5, 1990, 104 Stat. 2120, provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall apply to fees charged only with respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990.”
 
 #### Effective Date of 1988 Amendment
 

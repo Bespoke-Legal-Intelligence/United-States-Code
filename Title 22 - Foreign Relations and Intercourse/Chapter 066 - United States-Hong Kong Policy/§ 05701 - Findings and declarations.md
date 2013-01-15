@@ -8,7 +8,7 @@ The Congress makes the following findings and declarations:
 
 &emsp;&emsp;(B) The Hong Kong Special Administrative Region of the People's Republic of China, beginning on July 1, 1997, will continue to enjoy a high degree of autonomy on all matters other than defense and foreign affairs.
 
-&emsp;&emsp;(C) There is provision for implementation of a “one country, two systems” policy, under which Hong Kong will retain its current lifestyle and legal, social, and economic systems until at least the year 2047.
+&emsp;&emsp;(C) There is provision for implementation of a “one country, two systems” policy,under which Hong Kong will retain its current lifestyle and legal, social, and economic systems until at least the year 2047.
 
 &emsp;&emsp;(D) The legislature of the Hong Kong Special Administrative Region will be constituted by elections, and the provisions of the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights, as applied to Hong Kong, shall remain in force.
 
@@ -28,5 +28,5 @@ The Congress makes the following findings and declarations:
 
 #### Short Title
 
-Section 1 of Pub. L. 102–383 provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States-Hong Kong Policy Act of 1992’.”
+Pub. L. 102–383, §1, Oct. 5, 1992, 106 Stat. 1448, provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States-Hong Kong Policy Act of 1992’.”
 

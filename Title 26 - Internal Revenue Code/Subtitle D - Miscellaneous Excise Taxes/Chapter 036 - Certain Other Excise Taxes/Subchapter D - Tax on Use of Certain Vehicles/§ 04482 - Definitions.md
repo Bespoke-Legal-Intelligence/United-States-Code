@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (4) Taxable period
 
-&emsp;The term “taxable period” means any year beginning before July 1, 2012, and the period which begins on July 1, 2012, and ends at the close of September 30, 2012.
+&emsp;The term “taxable period” means any year beginning before July 1, 2017, and the period which begins on July 1, 2017, and ends at the close of September 30, 2017.
 
 #### (5) Customary use
 
@@ -44,11 +44,21 @@ For purposes of this subchapter—
 
 #### (d) Special rule for taxable period in which termination date occurs
 
-In the case of the taxable period which ends on September 30, 2012, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+In the case of the taxable period which ends on September 30, 2017, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, §9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(2), Sept. 16, 2011, 125 Stat. 356.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, §9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(2), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(b)(2), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(e), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, §40102(b)(1)(B), (2)(A), July 6, 2012, 126 Stat. 845.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(4). Pub. L. 112–141, §40102(b)(2)(A), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘taxable period’ means any year beginning before July 1, 2013, and the period which begins on July 1, 2013, and ends at the close of September 30, 2013.”
+
+Pub. L. 112–140, §§1(c), 402(e), temporarily amended par. (4) generally, resulting in text identical to that after amendment by Pub. L. 112–102. See Amendment and Effective and Termination Dates of 2012 Amendment notes below.
+
+Pub. L. 112–102 substituted “2013” for “2012” wherever appearing.
+
+Subsec. (d). Pub. L. 112–141, §40102(b)(1)(B), substituted “2017” for “2013”.
+
+Pub. L. 112–102 substituted “2013” for “2012”.
 
 <b>2011</b>—Subsecs. (c)(4), (d). Pub. L. 112–30 substituted “2012” for “2011” wherever appearing.
 
@@ -84,9 +94,21 @@ Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever 
 
 <b>1961</b>—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Pub. L. 112–141, div. D, title I, §40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II \[Pub. L. 112–30\].”
+
+Amendment by section 40102(b)(1)(B) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective as if included in section 402 of Pub. L. 112–102, see section 402(f)(2) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 1983 Amendment
 

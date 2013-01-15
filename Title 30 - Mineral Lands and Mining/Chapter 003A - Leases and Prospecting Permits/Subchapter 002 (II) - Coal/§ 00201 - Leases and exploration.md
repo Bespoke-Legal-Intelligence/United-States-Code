@@ -86,19 +86,19 @@ Pub. L. 99–190, §101(d) \[title III, §320\], Dec. 19, 1985, 99 Stat. 1224, 1
 
 #### Savings Provision
 
-Section 4 of Pub. L. 94–377 provided that the amendment made by that section is subject to valid existing rights.
+Pub. L. 94–377, §4, Aug. 4, 1976, 90 Stat. 1085, provided that the amendment made by that section is subject to valid existing rights.
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior, referred to subsec. (a)(3)(D), to promulgate regulations under this chapter relating to fostering of competition for Federal leases transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (a)(3)(D), to promulgate regulations under this chapter relating to fostering of competition for Federal leases transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Study of Coal Leases by Director of the Office of Technology Assessment
 
-Section 10 of Pub. L. 94–377 provided that the Director of the Office of Technology Assessment conduct a complete study of coal leases entered into by the United States under sections 201, 202, and 202a of this title, which study was to include an analysis of all mining activities, present and potential value of these leases, receipts to the Federal Government from these leases, and recommendations as to the feasibility of the use of deep mining technology in leased areas, with the results of his study to be submitted to Congress within one year after Aug. 4, 1976.
+Pub. L. 94–377, §10, Aug. 4, 1976, 90 Stat. 1090, provided that the Director of the Office of Technology Assessment conduct a complete study of coal leases entered into by the United States under sections 201, 202, and 202a of this title, which study was to include an analysis of all mining activities, present and potential value of these leases, receipts to the Federal Government from these leases, and recommendations as to the feasibility of the use of deep mining technology in leased areas, with the results of his study to be submitted to Congress within one year after Aug. 4, 1976.
 
 #### Coal Mining on Areas of National Park, Wildlife, Wilderness Preservation, Trail, Scenic Rivers, Systems Not Authorized
 
-Section 16 of Pub. L. 94–377 provided that: “Nothing in this Act \[see Short Title of 1976 Amendment note under section 181 of this title\], or the Mineral Lands Leasing Act \[this chapter\] and the Mineral Leasing Act for Acquired Lands \[section 351 et seq. of this title\] which are amended by this Act, shall be construed as authorizing coal mining on any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, and the Wild and Scenic Rivers System, including study rivers designated under section 5(a) of the Wild and Scenic Rivers Act \[section 1276(a) of Title 16, Conservation\].”
+Pub. L. 94–377, §16, Aug. 4, 1976, 90 Stat. 1092, provided that: “Nothing in this Act \[see Short Title of 1976 Amendment note under section 181 of this title\], or the Mineral Lands Leasing Act \[this chapter\] and the Mineral Leasing Act for Acquired Lands \[section 351 et seq. of this title\] which are amended by this Act, shall be construed as authorizing coal mining on any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, and the Wild and Scenic Rivers System, including study rivers designated under section 5(a) of the Wild and Scenic Rivers Act \[section 1276(a) of Title 16, Conservation\].”
 
 #### Admission of Alaska as State
 

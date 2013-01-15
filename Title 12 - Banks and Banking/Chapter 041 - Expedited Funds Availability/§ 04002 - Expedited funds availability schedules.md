@@ -14,7 +14,7 @@
 
 #### (2) Government checks; certain other checks
 
-&emsp;Funds deposited in an account at a depository institution by check shall be available forwithdrawal not later than the business day after the business day on which such funds are deposited in the case of—
+&emsp;Funds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—
 
 &emsp;&emsp;(A) a check which—
 
@@ -120,7 +120,7 @@
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
-&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extended by 1 business day in the case of any deposit which is both—
+&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extendedby 1 business day in the case of any deposit which is both—
 
 &emsp;&emsp;(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
 

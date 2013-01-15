@@ -24,5 +24,5 @@ Section 772j, act June 28, 1937, ch. 392, §11, as added Oct. 1, 1965, Pub. L. 8
 
 #### Effective Date of Repeal
 
-Section 14 of Pub. L. 97–176 provided that the Northern Pacific Halibut Act of 1937 \[sections 772 to 772j of this title\] is repealed effective as of the 90th day after the date of enactment of Pub. L. 97–176 \[May 17, 1982\].
+Pub. L. 97–176, §14, May 17, 1982, 96 Stat. 84, provided that the Northern Pacific Halibut Act of 1937 \[sections 772 to 772j of this title\] is repealed effective as of the 90th day after the date of enactment of Pub. L. 97–176 \[May 17, 1982\].
 

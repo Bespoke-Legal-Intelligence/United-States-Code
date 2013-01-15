@@ -66,7 +66,7 @@ The Secretary shall evaluate each project carried out under subsection (a) of th
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sumsas may be necessary for each of the fiscal years 2002 and 2003.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 #### (2) Allocation
 

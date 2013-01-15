@@ -302,7 +302,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (B) Special reviews of compliance
 
-&emsp;&emsp;Where the Secretary has reason to question the compliance of a provider of home orcommunity care with any of the requirements of subsection (f) of this section, the Secretary may conduct a review of the provider and, on the basis of that review, make independent and binding determinations concerning the extent to which the provider meets such requirements.
+&emsp;&emsp;Where the Secretary has reason to question the compliance of a provider of home or community care with any of the requirements of subsection (f) of this section, the Secretary may conduct a review of the provider and, on the basis of that review, make independent and binding determinations concerning the extent to which the provider meets such requirements.
 
 #### (3) Surveys of community care settings
 
@@ -376,7 +376,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (ii) Deadline and guidance
 
-&emsp;&emsp;&emsp;Each State which elects to provide home and community care under this section must establish the civil money penalty remedy described in clause (i) applicable to all providers of community care covered under this section. The Secretary shall provide, through regulations or otherwise by not later than July 1, 1990, guidance to States in establishing such remedy; but the failure of the Secretary to provide such guidance shall not relieve a State of the responsibility for establishing such remedy.
+&emsp;&emsp;&emsp;Each State which elects to provide home and community care under this section must establish the civil money penalty remedy described in clause (i) applicableto all providers of community care covered under this section. The Secretary shall provide, through regulations or otherwise by not later than July 1, 1990, guidance to States in establishing such remedy; but the failure of the Secretary to provide such guidance shall not relieve a State of the responsibility for establishing such remedy.
 
 #### (2) Secretarial authority
 
@@ -426,7 +426,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;Nothing in this section shall be construed as preventing States from imposing requirements that are more stringent than the requirements published or developed by the Secretary under this subsection.
 
-#### (<i>l</i>) Waiver of Statewideness
+#### (l) Waiver of Statewideness
 
 States may waive the requirement of section 1396a(a)(1) of this title (related to Statewideness) for a program of home and community care under this section.
 
@@ -460,7 +460,7 @@ Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, w
 
 Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
 
-Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted “Statewideness” for “State wideness”.
+Subsec. (l). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted “Statewideness” for “State wideness”.
 
 #### Effective Date
 

@@ -24,5 +24,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 1984 Amendment
 
-Section 4(c) of Pub. L. 98–216 provided that: “The amendments made by sections 1(3), (4), and (7) and 3(b)(1) of this Act \[amending this section and sections 3322, 3528, and 5132 of Title 31, Money and Finance\] are effective as of September 13, 1982.”
+Pub. L. 98–216, §4(c), Feb. 14, 1984, 98 Stat. 7, provided that: “The amendments made by sections 1(3), (4), and (7) and 3(b)(1) of this Act \[amending this section and sections 3322, 3528, and 5132 of Title 31, Money and Finance\] are effective as of September 13, 1982.”
 

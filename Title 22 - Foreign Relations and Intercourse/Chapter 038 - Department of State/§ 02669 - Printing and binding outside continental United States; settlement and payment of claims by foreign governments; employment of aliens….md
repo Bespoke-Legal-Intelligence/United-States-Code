@@ -24,13 +24,13 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(k) provide maximum physical security in Government-owned and leased properties and vehicles abroad;
 
-&emsp;(<i>l</i>) purchase special purpose passenger motor vehicles without regard to any price limitation otherwise established by law;
+&emsp;(l) purchase special purpose passenger motor vehicles without regard to any price limitation otherwise established by law;
 
 &emsp;(m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law;
 
 &emsp;(n) exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
 
-&emsp;(<i>o</i>) make administrative corrections or adjustments to an employee's pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under section 5596 of title 5, as part of the settlement or compromise of administrative claims or grievances filed against the Department.
+&emsp;(o) make administrative corrections or adjustments to an employee's pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under section 5596 of title 5, as part of the settlement or compromise of administrative claims or grievances filed against the Department.
 
 (Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191; Pub. L. 108–447, div. B, title IV, §413, Dec. 8, 2004, 118 Stat. 2906; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735.)
 
@@ -50,23 +50,23 @@ Section was formerly classified to section 170g of Title 5 prior to the general 
 
 <b>2004</b>—Subsec. (k). Pub. L. 108–447, §413(b)(1), which directed the striking out of “and”, was executed by striking out “and” after semicolon, to reflect the probable intent of Congress.
 
-Subsec. (<i>l</i>). Pub. L. 108–447, §413(b)(3), substituted semicolon for period at end.
+Subsec. (l). Pub. L. 108–447, §413(b)(3), substituted semicolon for period at end.
 
-Subsec. (m). Pub. L. 108–447, §413(b)(2), (3), transferred subsec. (m) to appear after subsec. (<i>l</i>) and substituted semicolon for period at end.
+Subsec. (m). Pub. L. 108–447, §413(b)(2), (3), transferred subsec. (m) to appear after subsec. (l) and substituted semicolon for period at end.
 
 Subsec. (n). Pub. L. 108–447, §413(b)(4), substituted “; and” for period at end.
 
-Subsec. (<i>o</i>). Pub. L. 108–447, §413(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 108–447, §413(a), added subsec. (o).
 
 <b>2001</b>—Subsec. (n). Pub. L. 107–107 added subsec. (n).
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236, §§137, 180(b), which identically directed amendment of subsec. (c) by inserting before the period “; and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States”, were executed by making the insertion before the semicolon at end to reflect the probable intent of Congress.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 103–236, §162(k)(4), redesignated subsec. (<i>l</i>) relating to paying obligations arising under international agreements, conventions, and binational contracts as (m).
+Subsecs. (l), (m). Pub. L. 103–236, §162(k)(4), redesignated subsec. (l) relating to paying obligations arising under international agreements, conventions, and binational contracts as (m).
 
-<b>1991</b>—Subsec. (<i>l</i>). Pub. L. 102–138 added subsec. (<i>l</i>) relating to paying obligations arising under international agreements, conventions, and binational contracts.
+<b>1991</b>—Subsec. (l). Pub. L. 102–138 added subsec. (l) relating to paying obligations arising under international agreements, conventions, and binational contracts.
 
-Pub. L. 102–20 added subsec. (<i>l</i>) relating to purchase of special purpose passenger motor vehicles.
+Pub. L. 102–20 added subsec. (l) relating to purchase of special purpose passenger motor vehicles.
 
 <b>1990</b>—Subsecs. (i) to (k). Pub. L. 101–246 added subsecs. (i) to (k).
 
@@ -74,7 +74,7 @@ Pub. L. 102–20 added subsec. (<i>l</i>) relating to purchase of special purpos
 
 Subsec. (c). Pub. L. 99–93, §118(a), inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue ofsuch employment be considered to be employees of the United States Government”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
 
 Subsecs. (g), (h). Pub. L. 98–533, §303(a)(2), added subsecs. (g) and (h).
 
@@ -94,7 +94,7 @@ Amendment by section 162(k)(4) of Pub. L. 103–236 applicable with respect to o
 
 #### Effective Date of 1985 Amendment
 
-Section 118(b) of Pub. L. 99–93 provided that: “Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
+Pub. L. 99–93, title I, §118(b), Aug. 16, 1985, 99 Stat. 412, provided that: “Authority provided by the amendmentmade by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

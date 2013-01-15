@@ -48,7 +48,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 > If it subsequently appears that the estimates under this paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Secretary of the Treasury in future payments.
 
-(3)(A) For purposes of paragraph (1)(A), the limitation on the amount authorized to be made available for any fiscal year after June 30, 1970, is, except as provided in subparagraph (B) and in the second sentence of subsection (f)(3)(A) of this section, an amount equal to 95 percent of the amount estimated and set forth in the budget of the United States Government for such fiscal year as the amount by which the net receiptsduring such year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] will exceed the amount transferred under section 1105(b) of this title during such year to the extended unemployment compensation account.
+(3)(A) For purposes of paragraph (1)(A), the limitation on the amount authorized to be made available for any fiscal year after June 30, 1970, is, except as provided in subparagraph (B) and in the second sentence of subsection (f)(3)(A) of this section, an amount equal to 95 percent of the amount estimated and set forth in the budget of the United States Government for such fiscal year as the amount by which the net receipts during such year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] will exceed the amount transferred under section 1105(b) of this title during such year to the extended unemployment compensation account.
 
 (B) The limitation established by subparagraph (A) is increased by any unexpended amount retained in the employment security administration account in accordance with subsection (f)(2)(B) of this section.
 
@@ -70,7 +70,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph, the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
 
-(C) For purposes of this paragraph, the term “program integrity activities” means initial claims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
+(C) For purposes of this paragraph, the term “program integrity activities” means initialclaims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
 
 #### (d) Additional tax attributable to reduced credits; transfer of funds
 
@@ -96,7 +96,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (3) Advances to the employment security administration account made under this subsection shall bear interest until repaid at a rate equal to the average rate of interest (computed as of the end of the calendar month next preceding the date of such advance) borne by all interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest shall be the multiple of one-eighth of 1 per centum next lower than such average rate.
 
-(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, from the employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultationwith the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
+(4) Advances to the employment security administration account made under this subsection, plus interest accrued thereon, shall be repaid by the transfer from time to time, from the employment security administration account to the revolving fund, of such amounts as the Secretary of the Treasury, in consultation with the Secretary of Labor, determines to be available in the employment security administration account for such repayment. Any amount transferred as a repayment under this paragraph shall be credited against, and shall operate to reduce, any balance of advances (plus accrued interest) repayable under this subsection.
 
 #### (f) Determination of excess in Account; limitation on amount to be retained; use of balance in Account during certain fiscal years; net balance
 
@@ -196,7 +196,7 @@ Subsecs. (c) to (f). Pub. L. 86–778 added subsecs. (c) to (f).
 
 #### Effective Date of 1987 Amendment
 
-Section 9154(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1102 and 1105 of this title\] shall become effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9154(d), Dec. 22, 1987, 101 Stat. 1330–326, provided that: “The amendments made by this section \[amending this section and sections 1102 and 1105 of this title\] shall become effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -204,27 +204,27 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, setout as a note under section 3301 of Title 26, Internal Revenue Code.
+Amendment by section 271(b)(2)(A) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, and amendment by section 271(c)(3)(D) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(1), (2) of Pub. L. 97–248, as amended, set out as a note under section 3301 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1976 Amendment
 
-Section 211(d)(3) of Pub. L. 94–566 provided that: “The amendments made by subsection (c) \[amending this section, section 1105 of this title, and section 6157 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act \[Oct. 20, 1976\].”
+Pub. L. 94–566, title II, §211(d)(3), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendments made by subsection (c) \[amending this section, section 1105 of this title, and section 6157 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act \[Oct. 20, 1976\].”
 
 #### Effective Date of 1970 Amendment
 
-Section 303(a) of Pub. L. 91–373 provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1970.
+Pub. L. 91–373, title III, §303(a), Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1970.
 
-Section 303(c) of Pub. L. 91–373 provided that the amendment made by that section is effective July 1, 1972.
+Pub. L. 91–373, title III, §303(c), Aug. 10, 1970, 84 Stat. 715, provided that the amendment made by that section is effective July 1, 1972.
 
-Section 303(d) of Pub. L. 91–373 provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1972.
+Pub. L. 91–373, title III, §303(d), Aug. 10, 1970, 84 Stat. 715, provided that the amendment made by that section is effective with respect to fiscal years after June 30, 1972.
 
 #### Effective Date of 1969 Amendment
 
-Section 4(b) of Pub. L. 91–53 provided that: “The amendments made by section 3 \[amending this section\] shall take effect upon enactment of this Act \[Aug. 7, 1969\].”
+Pub. L. 91–53, §4(b), Aug. 7, 1969, 83 Stat. 93, provided that: “The amendments made by section 3 \[amending this section\] shall take effect upon enactment of this Act \[Aug. 7, 1969\].”
 
 #### Increase in Administrative Expenditures Limitation for Fiscal Year 1963
 
-Section 4 of Pub. L. 88–31 provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $407,148,000.
+Pub. L. 88–31, §4, May 29, 1963, 77 Stat. 52, provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $407,148,000.
 
 Pub. L. 87–582, title I, §101, Aug. 14, 1962, 76 Stat. 363, provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal year ending June 30, 1963, for the purposes specified in subsec. (c)(1)(A), was increased to $400,000,000.
 

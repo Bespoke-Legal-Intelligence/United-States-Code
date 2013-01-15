@@ -18,13 +18,15 @@
 
 &emsp;(6) the judgment is based on an order confirming an arbitral award rendered against the foreign state, provided that attachment in aid of execution, or execution, would not be inconsistent with any provision in the arbitral agreement, or
 
-&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A, regardless of whether the property is or was involved with the act upon which the claim is based.
+&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008), regardless of whether the property is or was involved with the act upon which the claim is based.
 
 (b) In addition to subsection (a), any property in the United States of an agency or instrumentality of a foreign state engaged in commercial activity in the United States shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
 &emsp;(1) the agency or instrumentality has waived its immunity from attachment in aid of execution or from execution either explicitly or implicitly, notwithstanding any withdrawal of the waiver the agency or instrumentality may purport to effect except in accordance with the terms of the waiver, or
 
-&emsp;(2) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605(a)(2), (3), or (5), 1605(b), or 1605A of this chapter, regardless of whether the property is or was involved in the act upon which the claim is based.
+&emsp;(2) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605(a)(2), (3), or (5) or 1605(b) of this chapter, regardless of whether the property is or was involved in the act upon which the claim is based, or
+
+&emsp;(3) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605A of this chapter or section 1605(a)(7) of this chapter (as such section was in effect on January 27, 2008), regardless of whether the property is or was involved in the act upon which the claim is based.
 
 (c) No attachment or execution referred to in subsections (a) and (b) of this section shall be permitted until the court has ordered such attachment and execution after having determined that a reasonable period of time has elapsed following the entry of judgment and the giving of any notice required under section 1608(e) of this chapter.
 
@@ -78,7 +80,7 @@ United states sovereign immunity inapplicable.—Any property of a foreign state
 
 Third-party joint property holders.—Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341; Pub. L. 112–158, title V, §502(e)(1), Aug. 10, 2012, 126 Stat. 1260.)
 
 #### References in Text
 
@@ -91,6 +93,12 @@ The Trading with the Enemy Act, referred to in subsec. (g)(2), is act Oct. 6, 19
 The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(7). Pub. L. 112–158, §502(e)(1)(A), inserted “or section 1605(a)(7) (as such section was in effect on January 27, 2008)” after “section 1605A”.
+
+Subsec. (b)(2). Pub. L. 112–158, §502(e)(1)(B)(i)(I), substituted “(5) or 1605(b)” for “(5), 1605(b), or 1605A”.
+
+Subsec. (b)(3). Pub. L. 112–158, §502(e)(1)(B)(i)(II), (ii), added par. (3).
 
 <b>2008</b>—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
 
@@ -134,11 +142,11 @@ Amendment by Pub. L. 100–640 applicable to actions commenced on or after Nov. 
 
 #### Satisfaction of Judgments From Blocked Assets of Terrorists, Terrorist Organizations, and State Sponsors of Terrorism
 
-Pub. L. 107–297, title II, §201(a), (b), (d), Nov. 26, 2002, 116 Stat. 2337, 2339, provided that:
+Pub. L. 107–297, title II, §201(a), (b), (d), Nov. 26, 2002, 116 Stat. 2337, 2339, as amended by Pub. L. 112–158, title V, §502(e)(2), Aug. 10, 2012, 126 Stat. 1260, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, and except as provided in subsection (b), in every case in which a person has obtained a judgment against a terrorist party on a claim based upon an act of terrorism, or for which a terrorist party is not immune under section 1605(a)(7) of title 28, United States Code, the blocked assets of that terrorist party (including the blocked assets of any agency or instrumentality of that terrorist party) shall be subject to execution or attachment in aid of execution in order to satisfy such judgment to the extent of any compensatory damages for which such terrorist party has been adjudged liable.
+In General.—Notwithstanding any other provision of law, and except as provided in subsection (b), in every case in which a person has obtained a judgment against a terrorist party on a claim based upon an act of terrorism, or for which a terrorist party is not immune under section 1605A or 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28, United States Code, the blocked assets of that terrorist party (including the blocked assets of any agency or instrumentality of that terrorist party) shall be subject to execution or attachment in aid of execution in order to satisfy such judgment to the extent of any compensatory damages for which such terrorist party has been adjudged liable.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §216. Repealed. Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–426
 
-Section, act June 4, 1920, ch. 223, §4, 41 Stat. 751, authorized return of fees on refusal to vise�AE1.
+Section, act June 4, 1920, ch. 223, §4, 41 Stat. 751, authorized return of fees on refusal to visé.
 
 #### Effective Date of Repeal
 

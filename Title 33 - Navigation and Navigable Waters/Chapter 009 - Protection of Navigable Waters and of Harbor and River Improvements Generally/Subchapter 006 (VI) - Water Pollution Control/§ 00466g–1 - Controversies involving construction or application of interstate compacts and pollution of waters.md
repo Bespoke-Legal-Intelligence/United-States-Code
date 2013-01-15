@@ -28,5 +28,5 @@ The venue of such case or controversy shall be as prescribed by law: <i>Provided
 
 #### Separability
 
-Section 2 of Pub. L. 87–830 provided that: “If any part or application of this Act \[this section\] should be declared invalid by a court of competent jurisdiction, said invalidity shall not affect the other parts, or the other applications, of said Act.”
+Pub. L. 87–830, §2, Oct. 15, 1962, 76 Stat. 957, provided that: “If any part or application of this Act \[this section\] should be declared invalid by a court of competent jurisdiction, said invalidity shall not affect the other parts, or the other applications, of said Act.”
 

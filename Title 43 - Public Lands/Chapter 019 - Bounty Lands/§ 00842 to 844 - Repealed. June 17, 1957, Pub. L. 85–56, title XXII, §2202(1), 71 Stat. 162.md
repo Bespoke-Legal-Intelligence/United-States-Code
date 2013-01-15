@@ -1,6 +1,6 @@
 ### §§842 to 844. Repealed. June 17, 1957, Pub. L. 85–56, title XXII, §2202(1), 71 Stat. 162
 
-Section 842, R.S. §4785; acts July 4, 1884, ch. 181, §3, 23 Stat. 99; July 3, 1930, ch. 863, §2, 46 Stat. 1016, relatedto compensation of agent or attorney for services in prosecuting claim for bounty land.
+Section 842, R.S. §4785; acts July 4, 1884, ch. 181, §3, 23 Stat. 99; July 3, 1930, ch. 863, §2, 46 Stat. 1016, related to compensation of agent or attorney for services in prosecuting claim for bounty land.
 
 Section 843, R.S. §5485, related to punishment of agents or attorneys who contract for, demand, or receive greater compensation than $25 provided for in section 842 of this title.
 

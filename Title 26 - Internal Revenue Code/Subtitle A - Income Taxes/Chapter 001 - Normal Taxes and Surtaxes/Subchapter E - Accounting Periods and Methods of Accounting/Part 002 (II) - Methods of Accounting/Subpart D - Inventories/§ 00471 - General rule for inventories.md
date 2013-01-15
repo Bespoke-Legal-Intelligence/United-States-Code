@@ -6,7 +6,7 @@ Whenever in the opinion of the Secretary the use of inventories is necessary in 
 
 #### (b) Estimates of inventory shrinkage permitted
 
-A method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventoryshrinkage that are confirmed by a physical count only after the last day of the taxable year if—
+A method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventory shrinkage that are confirmed by a physical count only after the last day of the taxable year if—
 
 &emsp;(1) the taxpayer normally does a physical count of inventories at each location on a regular and consistent basis, and
 
@@ -28,7 +28,7 @@ A method of determining inventories shall not be treated as failing to clearly r
 
 #### Effective Date of 1997 Amendment
 
-Section 961(b)(1) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §961(b)(1), Aug. 5, 1997, 111 Stat. 891, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, 
 
 #### Coordination With Section 481
 
-Section 961(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer permitted by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting to a permissible method for any taxable year—
+Pub. L. 105–34, title IX, §961(b)(2), Aug. 5, 1997, 111 Stat. 891, provided that: “In the case of any taxpayer permitted by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting to a permissible method for any taxable year—
 
 &emsp;“(A) such changes shall be treated as initiated by the taxpayer,
 

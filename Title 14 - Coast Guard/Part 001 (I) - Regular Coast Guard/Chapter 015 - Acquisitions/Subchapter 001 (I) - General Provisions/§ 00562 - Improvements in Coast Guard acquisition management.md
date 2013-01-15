@@ -10,7 +10,7 @@ Level 1 projects.—An individual may not be assigned as the project or program 
 
 &emsp;(2)
 
-Level 2 projects.—An individual may not be assigned as the project or programmanager for a Level 2 acquisition unless the individual holds a Level II acquisition certification as a program manager.
+Level 2 projects.—An individual may not be assigned as the project or program manager for a Level 2 acquisition unless the individual holds a Level II acquisition certification as a program manager.
 
 (b)
 
@@ -108,21 +108,7 @@ Information maintained.—Information maintained with such capability shall incl
 
 &emsp;&emsp;(B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
 
-(e)
-
-Report on Adequacy of Acquisition Workforce.—
-
-&emsp;(1)
-
-In general.—The Commandant shall report to the appropriate congressional committees and the Committee on Homeland Security of the House of Representatives by July 1 of each year on the scope of the acquisition activities to be performed in the next fiscal yearand on the adequacy of the current acquisition workforce to meet that anticipated workload.
-
-&emsp;(2)
-
-Contents.—The report shall—
-
-&emsp;&emsp;(A) specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under subsection (c); and
-
-&emsp;&emsp;(B) identify positions that are understaffed to meet the anticipated acquisition workload, and actions that will be taken to correct such understaffing.
+\[(e) Repealed. Pub. L. 112–213, title II, §210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551.\]
 
 (f)
 
@@ -144,7 +130,7 @@ Identification of career paths.—To establish acquisition management as a core 
 
 Promotion parity.—The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2931; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2931; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, §210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551.)
 
 #### References in Text
 
@@ -155,6 +141,8 @@ The date of enactment of the Coast Guard Authorization Act of 2010 and the date 
 A prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, §27, 64 Stat. 407, related to deck courts, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–213 struck out subsec. (e) which related to annual report on adequacy of acquisition workforce.
 
 <b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §402(a), which enacted this section.
 

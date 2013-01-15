@@ -36,7 +36,7 @@ In conducting a pilot program established under subsection (b), the Presidential
 
 &emsp;(1) The transmission of electronic voting material across military networks.
 
-&emsp;(2) Virtual private networks, cryptographic voting systems, centrally controlled votingstations, and other information security techniques.
+&emsp;(2) Virtual private networks, cryptographic voting systems, centrally controlled voting stations, and other information security techniques.
 
 &emsp;(3) The transmission of ballot representations and scanned pictures in a secure manner.
 

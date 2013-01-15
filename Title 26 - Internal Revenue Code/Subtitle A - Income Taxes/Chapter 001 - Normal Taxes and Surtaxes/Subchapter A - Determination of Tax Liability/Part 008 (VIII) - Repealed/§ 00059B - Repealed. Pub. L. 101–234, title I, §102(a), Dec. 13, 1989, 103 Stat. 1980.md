@@ -4,7 +4,7 @@ Section, added Pub. L. 100–360, title I, §111(a), July 1, 1988, 102 Stat. 690
 
 #### Effective Date of Repeal
 
-Section 102(d) of Pub. L. 101–234 provided that:
+Pub. L. 101–234, title I, §102(d), Dec. 13, 1989, 103 Stat. 1981, provided that:
 
 “(1)
 
@@ -16,9 +16,9 @@ Repeal of supplemental medicare premium.—The repeal of section 111 of MCCA \[P
 
 #### Effective Date
 
-Section 111(e) of Pub. L. 100–360, which provided that the enactment of this section and the amendment of section 6050F of this title applied to taxable years beginning after December 31, 1988, and that in case of a taxable year beginning in 1989, the premium imposed by this section should not be treated as a tax for purposes of applying section 6654 of this title, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
+Pub. L. 100–360, title I, §111(e), July 1, 1988, 102 Stat. 698, which provided that the enactment of this section and the amendment of section 6050F of this title applied to taxable years beginning after December 31, 1988, and that in case of a taxable year beginning in 1989, the premium imposed by this section should not be treated as a tax for purposes of applying section 6654 of this title, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
 
 #### Announcement of Supplemental Premium Rate
 
-Section 111(d) of Pub. L. 100–360, which provided that in the case of calendar year 1993 or any calendar year thereafter (1) not later than July 1 of such calendar year, the Secretary of the Treasury or his delegate was required to make an announcement of the estimated supplemental premium rate under this section for taxable years beginning in the following calendar year, and (2) not later than October 1 of such calendar year, the Secretary of the Treasury or his delegate was required to make an announcement of the actual supplemental premium rate under this section for such taxable years, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
+Pub. L. 100–360, title I, §111(d), July 1, 1988, 102 Stat. 697, which provided that in the case of calendar year 1993 or any calendar year thereafter (1) not later than July 1 of such calendar year, the Secretary of the Treasury or his delegate was required to make an announcement of the estimated supplemental premium rate under this section for taxable years beginning in the following calendar year, and (2) not later than October 1 of such calendar year, the Secretary of the Treasury or his delegate was required to make an announcement of the actual supplemental premium rate under this section for such taxable years, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
 

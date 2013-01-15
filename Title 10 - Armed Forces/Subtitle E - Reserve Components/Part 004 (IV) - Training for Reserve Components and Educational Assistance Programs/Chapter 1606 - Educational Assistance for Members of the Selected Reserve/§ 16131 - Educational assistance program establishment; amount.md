@@ -34,7 +34,7 @@
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
 (d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistance allowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
 
@@ -84,7 +84,7 @@
 
 (B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
-(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under thisparagraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
@@ -214,7 +214,7 @@ Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Educati
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section \[amending this section and section 16162 ofthis title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
+Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section \[amending this section and section 16162 of this title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -230,33 +230,33 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1992 Amendment
 
-Section 301(e) of Pub. L. 102–568 provided that:
+Pub. L. 102–568, title III, §301(e), Oct. 29, 1992, 106 Stat. 4326, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 3015 of Title 38, Veterans’ Benefits\] shall take effect on April 1, 1993.
 
 “(2) The amendments made by this section shall not be construed to change the account from which payment is made for that portion of a payment under chapter 30 of title 38, United States Code, or chapter 106 \[now 1606\] of title 10, United States Code, which is a Montgomery GI bill rate increase and a title III benefit is paid. For the purposes of this subsection, the terms ‘Montgomery GI bill rate increase’ and ‘title III benefit’ have the meanings provided in section 393 of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (105 Stat. 99).”
 
-Section 310(d) of Pub. L. 102–568 provided that: “The amendments made by this section \[amending this section and sections 3032 and 3231 of Title 38\] shall apply to flight training received under chapters 30 and 32 of title 38, United States Code, and chapter 106 \[now 1606\] of title 10, United States Code, after September 30, 1992.”
+Pub. L. 102–568, title III, §310(d), Oct. 29, 1992, 106 Stat. 4330, provided that: “The amendments made by this section \[amending this section and sections 3032 and 3231 of Title 38\] shall apply to flight training received under chapters 30 and 32 of title 38, United States Code, and chapter 106 \[now 1606\] of title 10, United States Code, after September 30, 1992.”
 
 #### Effective Date of 1989 Amendments
 
-Section 422(d) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section, section 2136 \[now 16136\] of this title, and sections 1432 \[now 3032\] and 1434 \[now 3034\] of Title 38, Veterans’ Benefits\] shall take effect on September 30, 1990.”
+Pub. L. 101–237, title IV, §422(d), Dec. 18, 1989, 103 Stat. 2090, provided that: “The amendments made by this section \[amending this section, section 2136 \[now 16136\] of this title, and sections 1432 \[now 3032\] and 1434 \[now 3034\] of Title 38, Veterans’ Benefits\] shall take effect on September 30, 1990.”
 
-Section 642(d) of Pub. L. 101–189 provided that: “The amendments made by this section \[amending this section and section 2136 \[now 16136\] of this title\] shall apply with respect to any person who after September 30, 1990, meets the requirements set forth in subparagraph (A) or (B) of section 2132(a)(1) \[now 16132(a)(1)(A), (B)\] of title 10, United States Code.”
+Pub. L. 101–189, div. A, title VI, §642(d), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendments made by this section \[amending this section and section 2136 \[now 16136\] of this title\] shall apply with respect to any person who after September 30, 1990, meets the requirements set forth in subparagraph (A) or (B) of section 2132(a)(1) \[now 16132(a)(1)(A), (B)\] of title 10, United States Code.”
 
 #### Effective Date of 1984 Amendment
 
-Section 705(b) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this chapter\] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
+Pub. L. 98–525, title VII, §705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: “The amendments made by this section \[amending this chapter\] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
 
 #### Effective Date of 1980 Amendments
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-Section 906(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1980.”
+Pub. L. 96–342, title IX, §906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1980.”
 
 #### Effective Date of 1979 Amendment
 
-Section 402(c) of Pub. L. 96–107 provided that: “The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and 16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979.”
+Pub. L. 96–107, title IV, §402(c), Nov. 9, 1979, 93 Stat. 808, provided that: “The amendments made by this section \[amending sections 2131 and 2133 \[now 16131 and 16133\] of this title\] shall apply only to individuals enlisting in the Reserves after September 30, 1979.”
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Selected Reserve Montgomery GI Bill
 

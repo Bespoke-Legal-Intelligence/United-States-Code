@@ -68,7 +68,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 > Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unlesshe determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
+(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
 
 (j) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall develop and promulgate guidelines to assure that highways constructed pursuant to this title are consistent with any approved plan for—
 
@@ -78,7 +78,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (k) The Secretary shall not approve any project involving approaches to a bridge under this title, if such project and bridge will significantly affect the traffic volume and the highway system of a contiguous State without first taking into full consideration the views of that State.
 
-(<i>l</i>)(1) In determining whether any right-of-way on any Federal-aid highway should be used for accommodating any utility facility, the Secretary shall—
+(l)(1) In determining whether any right-of-way on any Federal-aid highway should be used for accommodating any utility facility, the Secretary shall—
 
 &emsp;(A) first ascertain the effect such use will have on highway and traffic safety, since in no case shall any use be authorized or otherwise permitted, under this or any other provision of law, which would adversely affect safety;
 
@@ -98,7 +98,7 @@ Protection of Nonmotorized Transportation Traffic.—The Secretary shall not app
 
 (n) It is the intent of Congress that any project for resurfacing, restoring, or rehabilitating any highway, other than a highway access to which is fully controlled, in which Federal funds participate shall be constructed in accordance with standards to preserve and extend the service life of highways and enhance highway safety.
 
-(<i>o</i>)
+(o)
 
 Compliance With State Laws for Non-NHS Projects.—Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
 
@@ -114,11 +114,19 @@ Scenic and Historic Values.—Notwithstanding subsections (b) and (c), the Secre
 
 (q)
 
-Phase Construction.—Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
+Phase Construction.—Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with a statewide transportation improvement program approved by the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229; Pub. L. 109–59, title I, §1110(a), (c), title VI, §6008, Aug. 10, 2005, 119 Stat. 1170, 1171, 1874.)
+(r)
+
+Pavement Markings.—The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229; Pub. L. 109–59, title I, §1110(a), (c), title VI, §6008, Aug. 10, 2005, 119 Stat. 1170, 1171, 1874; Pub. L. 112–141, div. A, title I, §§1504, 1519(c)(4), July 6, 2012, 126 Stat. 564, 575.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (q). Pub. L. 112–141, §1519(c)(4), struck out “in accordance with section 303 or” after “system established”.
+
+Subsec. (r). Pub. L. 112–141, §1504, added subsec. (r).
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–59, §6008, inserted dash after “Secretary shall consider” and subpar. (A) designation before “the results”, substituted semicolon for period, and added subpars. (B) to (D).
 
@@ -132,11 +140,11 @@ Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transpo
 
 Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m) which read as follows: “The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979.”
 
-Subsec. (n). Pub. L. 105–178, §1306(a)(2), redesignated subsec. (<i>o</i>) as (n). Former subsec. (n) redesignated (m).
+Subsec. (n). Pub. L. 105–178, §1306(a)(2), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
 Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment, text read as follows: “The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists.”
 
-Subsecs. (<i>o</i>) to (q). Pub. L. 105–178, §1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (<i>o</i>) and (p), respectively. Former subsec. (<i>o</i>) redesignated (n).
+Subsecs. (o) to (q). Pub. L. 105–178, §1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–59, §304(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
 
@@ -158,17 +166,17 @@ Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 13
 
 Subsec. (c). Pub. L. 102–240, §1016(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Projects on the Federal-aid secondary system in which Federal funds participate shall be constructed according to specifications that will provide all-weather service and permit maintenance at a reasonable cost.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–240, §1016(f)(1)(B), substituted “highway” for “system” in introductory provisions.
+Subsec. (l)(1). Pub. L. 102–240, §1016(f)(1)(B), substituted “highway” for “system” in introductory provisions.
 
 Subsecs. (p), (q). Pub. L. 102–240, §1016(d), (e), added subsecs. (p) and (q).
 
-<b>1983</b>—Subsec. (<i>o</i>). Pub. L. 97–424 added subsec. (<i>o</i>).
+<b>1983</b>—Subsec. (o). Pub. L. 97–424 added subsec. (o).
 
-<b>1979</b>—Subsec. (<i>l</i>)(1)(A). Pub. L. 96–106 struck out “any aspect of” after “adversely affect”.
+<b>1979</b>—Subsec. (l)(1)(A). Pub. L. 96–106 struck out “any aspect of” after “adversely affect”.
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–599, §141(f), inserted “bikeways” after “surfaces, median strips,”.
 
-Subsec. (<i>l</i>). Pub. L. 95–599, §113, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 95–599, §113, added subsec. (l).
 
 Subsec. (m). Pub. L. 95–599, §116(d), added subsec. (m).
 
@@ -190,9 +198,117 @@ Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Categorical Exclusions in Emergencies
+
+Pub. L. 112–141, div. A, title I, §1315, July 6, 2012, 126 Stat. 549, provided that:
+
+“(a)
+
+In General.—Not later than 30 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], for the repair or reconstruction of any road, highway, or bridge that is in operation or under construction when damaged by an emergency declared by the Governor of the State and concurred in by the Secretary \[of Transportation\], or for a disaster or emergency declared by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), the Secretary shall publish a notice of proposed rulemaking to treat any such repair or reconstruction activity as a class of action categorically excluded from the requirements relating toenvironmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act) if such repair or reconstruction activity is—
+
+&emsp;“(1) in the same location with the same capacity, dimensions, and design as the original road, highway, or bridge as before the declaration described in this section; and
+
+&emsp;“(2) commenced within a 2-year period beginning on the date of a declaration described in this section.
+
+“(b)
+
+Rulemaking.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall ensure that the rulemaking helps to conserve Federal resources and protects public safety and health by providing for periodic evaluations to determine if reasonable alternatives exist to roads, highways, or bridges that repeatedly require repair and reconstruction activities.
+
+&emsp;“(2)
+
+Reasonable alternatives.—The reasonable alternatives described in paragraph (1) include actions that could reduce the need for Federal funds to be expended on such repair and reconstruction activities, better protect public safety and health and the environment, and meet transportation needs as described in relevant and applicable Federal, State, local and tribal plans.”
+
+#### Categorical Exclusions for Projects Within the Right-of-way
+
+Pub. L. 112–141, div. A, title I, §1316, July 6, 2012, 126 Stat. 549, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall—
+
+&emsp;“(1) not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], designate any project (as defined in section 101(a) of title 23, United States Code) within an existing operational right-of-way as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(c) of title 23, Code of Federal Regulations; and
+
+&emsp;“(2) not later than 150 days after the date of enactment of this Act, promulgate regulations to carry out paragraph (1).
+
+“(b)
+
+Definition of an Operational Right-of-way.—In this section, the term ‘operational right-of-way’ means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in section 101(a) of title 23, United States Code), including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway.”
+
+#### Categorical Exclusion for Projects of Limited Federal Assistance
+
+Pub. L. 112–141, div. A, title I, §1317, July 6, 2012, 126 Stat. 550, provided that: “Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
+
+&emsp;“(1) designate as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(c) of title 23, Code of Federal Regulations, any project—
+
+&emsp;&emsp;“(A) that receives less than $5,000,000 of Federal funds; or
+
+&emsp;&emsp;“(B) with a total estimated cost of not more than $30,000,000 and Federal funds comprising less than 15 percent of the total estimated project cost; and
+
+&emsp;“(2) not later than 150 days after the date of enactment of this Act, promulgate regulations to carry out paragraph (1).”
+
+#### Programmatic Agreements and Additional Categorical Exclusions
+
+Pub. L. 112–141, div. A, title I, §1318, July 6, 2012, 126 Stat. 550, provided that:
+
+“(a)
+
+In General.—Not later than 60 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
+
+&emsp;“(1) survey the use by the Department \[of Transportation\] of categorical exclusions in transportation projects since 2005;
+
+&emsp;“(2) publish a review of the survey that includes a description of—
+
+&emsp;&emsp;“(A) the types of actions categorically excluded; and
+
+&emsp;&emsp;“(B) any requests previously received by the Secretary for new categorical exclusions; and
+
+&emsp;“(3) solicit requests from State departments of transportation, transit authorities, metropolitan planning organizations, or other government agencies for new categorical exclusions.
+
+“(b)
+
+New Categorical Exclusions.—Not later than 120 days after the date of enactment of this Act, the Secretary shall publish a notice of proposed rulemaking to propose new categorical exclusions received by the Secretary under subsection (a), to the extent that the categorical exclusions meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(a) of title 23, Code of Federal Regulations (as those regulations are in effect on the date of the notice).
+
+“(c)
+
+Additional Actions.—The Secretary shall issue a proposed rulemaking to move the following types of actions from subsection (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act), to subsection (c) of that section, to the extent that such movement complies with the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act):
+
+&emsp;“(1) Modernization of a highway by resurfacing, restoration, rehabilitation, reconstruction, adding shoulders, or adding auxiliary lanes (including parking, weaving, turning, and climbing).
+
+&emsp;“(2) Highway safety or traffic operations improvement projects, including the installation of ramp metering control devices and lighting.
+
+&emsp;“(3) Bridge rehabilitation, reconstruction, or replacement or the construction of grade separation to replace existing at-grade railroad crossings.
+
+“(d)
+
+Programmatic Agreements.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall seek opportunities to enter into programmatic agreements with the States that establish efficient administrative procedures for carrying out environmental and other required project reviews.
+
+&emsp;“(2)
+
+Inclusions.—Programmatic agreements authorized under paragraph (1) may include agreements that allow a State to determine on behalf of the Federal Highway Administration whether a project is categorically excluded from the preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;“(3)
+
+Determinations.—An agreement described in paragraph (2) may include determinations by the Secretary \[of Transportation\] of the types of projects categorically excluded (consistent with section 1508.4 of title 40, Code of Federal Regulations) in the State in addition to the types listed in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations (as in effect on the date of enactment of this Act).”
+
+#### Engineering Judgment
+
+Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: “Not later than 90 days afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment.”
 
 #### Highway Signs Relating to Veterans Cemeteries
 
@@ -298,7 +414,7 @@ Metric system.—The term ‘metric system’ has the meaning the term ‘metric
 
 #### Type II Noise Barriers
 
-Section 339(b) of Pub. L. 104–59 provided that:
+Pub. L. 104–59, title III, §339(b), Nov. 28, 1995, 109 Stat. 605, provided that:
 
 “(1)
 
@@ -306,11 +422,11 @@ General rule.—No funds made available out of the Highway Trust Fund may be use
 
 “(2)
 
-Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway.”
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands thatwere developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway.”
 
 #### Highway Signs for National Highway System
 
-Section 359(b) of Pub. L. 104–59 provided that:
+Pub. L. 104–59, title III, §359(b), Nov. 28, 1995, 109 Stat. 626, provided that:
 
 “(1)
 
@@ -322,7 +438,7 @@ Report.—Not later than March 1, 1997, the Secretary shall transmit to Congress
 
 #### Use of Recycled Paving Material
 
-Section 1038 of Pub. L. 102–240, as amended by Pub. L. 104–59, title II, §205(b), title III, §327, Nov. 28, 1995, 109 Stat. 577, 592, provided that:
+Pub. L. 102–240, title I, §1038, Dec. 18, 1991, 105 Stat. 1987, as amended by Pub. L. 104–59, title II, §205(b), title III, §327, Nov. 28, 1995, 109 Stat. 577, 592, provided that:
 
 “(a)
 
@@ -406,11 +522,11 @@ Definitions.—For purpose of this section—
 
 #### Survey and Report on Upgrading of Design Standards
 
-Section 1049 of Pub. L. 102–240 directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniform traffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
+Pub. L. 102–240, title I, §1049, Dec. 18, 1991, 105 Stat. 2000, directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniform traffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
 
 #### Erosion Control Guidelines
 
-Section 1057 of title I of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1057, Dec. 18, 1991, 105 Stat. 2002, provided that:
 
 “(a)
 
@@ -426,7 +542,7 @@ Consistency With Other Programs.—Guidelines developed under subsection (a) sha
 
 #### Roadside Barrier Technology
 
-Section 1058 of Pub. L. 102–240, as amended by Pub. L. 104–59, title III, §328, Nov. 28, 1995, 109 Stat. 593, provided that:
+Pub. L. 102–240, title I, §1058, Dec. 18, 1991, 105 Stat. 2003, as amended by Pub. L. 104–59, title III, §328, Nov. 28, 1995, 109 Stat. 593, provided that:
 
 “(a)
 
@@ -442,7 +558,7 @@ Definition of Innovative Crashworthy Safety Barrier.—For purposes of this sect
 
 #### Roadside Barriers and Safety Appurtenances
 
-Section 1073 of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1073, Dec. 18, 1991, 105 Stat. 2012, provided that:
 
 “(a)
 
@@ -454,7 +570,7 @@ Final Rule.—Not later than 1 year after the date of the enactment of this Act 
 
 #### Studies Relating to Establishment of Standards for Resurfacing, Restoration, and Rehabilitation of Highways and to Establishment of Uniform Standards and Criteria for Testing and Inspecting Highways and Bridges
 
-Section 110(b), (c) of Pub. L. 97–424 provided that:
+Pub. L. 97–424, title I, §110(b), (c), Jan. 6, 1983, 96 Stat. 2105, provided that:
 
 “(b) The Secretary of Transportation shall enter into appropriate arrangements with the National Academy of Sciences (1) to conduct a study of the safety cost-effectiveness of geometric design criteria of standards currently in effect for construction and reconstruction of highways, other than highways access to which is fully controlled, to determine the most appropriate minimum standards to apply to resurfacing, restoration, and rehabilitation projects on such highways, which study shall include a study of the cost effectiveness of the hot dip galvanizing process for the installation, repair, or replacement of exposed structural and miscellaneous steel, and (2) to propose standards to preserve and extend the service life of such highways and enhance highway safety. The National Academy of Sciences shall conduct such study in cooperation with the National Transportation Safety Board, the Congressional Budget Office, and the American Association of State Highway and Transportation Officials. Upon completion of such study, the National Academy of Sciences shall submit such study and its proposed standards to the Secretary of Transportation for review. Within ninety days after submission of such standards to the Secretary of Transportation, the Secretary shall submit such study and the proposed standards of the National Academy of Sciences, together with the recommendations of the Secretary, to Congress for approval.
 
@@ -464,7 +580,7 @@ Section 110(b), (c) of Pub. L. 97–424 provided that:
 
 #### Expenditure of Federal Funds for Highway Signs Using Metric System
 
-Section 144 of Pub. L. 95–599, as amended by Pub. L. 96–106, §14, Nov. 9, 1979, 93 Stat. 798, which prohibited use of Federal funds for signing solely in the metric system, was repealed by Pub. L. 102–240, title I, §1053, Dec. 18, 1991, 105 Stat. 2001.
+Pub. L. 95–599, title I, §144, Nov. 6, 1978, 92 Stat. 2713, as amended by Pub. L. 96–106, §14, Nov. 9, 1979, 93 Stat. 798, which prohibited use of Federal funds for signing solely in the metric system, was repealed by Pub. L. 102–240, title I, §1053, Dec. 18, 1991, 105 Stat. 2001.
 
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 

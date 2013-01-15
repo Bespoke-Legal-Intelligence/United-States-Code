@@ -2,11 +2,11 @@
 
 #### (a) Willful violations; false and misleading statements
 
-Any person who willfully violates any provision of this chapter (other than section 78dd–1 of this title), or any rule or regulation thereunder the violation of which is made unlawful or the observance of which is required under the terms of this chapter, or any person who willfully and knowingly makes, or causes to be made, any statement in any application, report, or document required to be filed under this chapter or any rule or regulation thereunder or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof which statement was false or misleading with respect to any material fact, shall upon conviction be fined not more than $5,000,000, or imprisoned not more than 20 years, or both, except that when such person is a person other than a natural person, a fine not exceeding $25,000,000 may be imposed; but no person shall be subject to imprisonment under this section for the violation of any rule or regulation if he proves that he had no knowledge of such rule or regulation.
+Any person who willfully violates any provision of this chapter (other than section 78dd–1 of this title), or any rule or regulation thereunder the violation of which is made unlawful or the observance of which is required under the terms of this chapter, or any person who willfully and knowingly makes, or causes to be made, any statement in any application, report, or document required to be filed under this chapter or any rule or regulation thereunder or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title, or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof which statement was false or misleading with respect to any material fact, shall upon conviction be fined not more than $5,000,000, or imprisoned not more than 20 years, or both, except that when such person is a person other than a natural person, a fine not exceeding $25,000,000 may be imposed; but no person shall be subject to imprisonment under this section for the violation of any rule or regulation if he proves that he had no knowledge of such rule or regulation.
 
 #### (b) Failure to file information, documents, or reports
 
-Any issuer which fails to file information, documents, or reports required to be filed under subsection (d) of section 78<i>o</i> of this title or any rule or regulation thereunder shall forfeit to the United States the sum of $100 for each and every day such failure to file shall continue. Such forfeiture, which shall be in lieu of any criminal penalty for such failure to file which might be deemed to arise under subsection (a) of this section, shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.
+Any issuer which fails to file information, documents, or reports required to be filed under subsection (d) of section 78o of this title or any rule or regulation thereunder shall forfeit to the United States the sum of $100 for each and every day such failure to file shall continue. Such forfeiture, which shall be in lieu of any criminal penalty for such failure to file which might be deemed to arise under subsection (a) of this section, shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.
 
 #### (c) Violations by issuers, officers, directors, stockholders, employees, or agents of issuers
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 “(1) Any issuer which violates section 78dd–1(a) of this title shall, upon conviction, be fined not more than $1,000,000.
 
-“(2) Any officer or director of an issuer, or any stockholder acting on behalf of such issuer, who willfully violates section 78dd–1(a) of this title shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
+“(2) Any officer or director of an issuer, or any stockholder acting on behalf of such issuer, who willfullyviolates section 78dd–1(a) of this title shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
 “(3) Whenever an issuer is found to have violated section 78dd–1(a) of this title, any employee or agent of such issuer who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder of such issuer), and who willfully carried out the act or practice constituting such violation shall, upon conviction, be fined not more than $10,000, or imprisoned not more than five years, or both.
 
@@ -54,25 +54,25 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–376 substituted “$100,000” for “$10,000”.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Anyperson who willfully violates any provision of this chapter”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Any person who willfully violates any provision of this chapter”.
 
 Subsec. (c). Pub. L. 95–213, §103(b)(2), added subsec. (c).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–29, §§23(1), 27(b), inserted “or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof,” and substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
 
-Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78<i>o</i> of this title.
+Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78o of this title.
 
-<b>1964</b>—Subsec. (b). Pub. L. 88–467 substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78<i>o</i> of this title.”
+<b>1964</b>—Subsec. (b). Pub. L. 88–467 substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78o of this title.”
 
 <b>1938</b>—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
-<b>1936</b>—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
+<b>1936</b>—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
 
 Subsec. (b). Act May 27, 1936, added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704, set out as a note under section 78<i>o</i> of this title.
+Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704, set out as a note under section 78o of this title.
 
 #### Effective Date of 1984 Amendment
 

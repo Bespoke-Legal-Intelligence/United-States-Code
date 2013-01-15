@@ -56,7 +56,7 @@ In developing standards and guidelines required by subsections (a) and (b) of th
 
 The Institute shall—
 
-&emsp;(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
+&emsp;(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which theseshould be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
 
 &emsp;(2) provide assistance to agencies regarding—
 
@@ -140,7 +140,7 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 &emsp;“(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
 
-&emsp;“(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertainingto training, as required by section 5 of the Computer Security Act of 1987;
+&emsp;“(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
 
 &emsp;“(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
 

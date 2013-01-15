@@ -22,7 +22,7 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 #### (A) Limited release of information
 
-&emsp;&emsp;If the Secretary determines that the information described in paragraph (2) will not besubsequently disclosed except in accordance with paragraph (4), the Secretary may release or disclose the information to a person or Federal, State, local, or tribal agency working in cooperation with the Secretary in any Department program—
+&emsp;&emsp;If the Secretary determines that the information described in paragraph (2) will not be subsequently disclosed except in accordance with paragraph (4), the Secretary may release or disclose the information to a person or Federal, State, local, or tribal agency working in cooperation with the Secretary in any Department program—
 
 &emsp;&emsp;&emsp;(i) when providing technical or financial assistance with respect to the agricultural operation, agricultural land, or farming or conservation practices; or
 

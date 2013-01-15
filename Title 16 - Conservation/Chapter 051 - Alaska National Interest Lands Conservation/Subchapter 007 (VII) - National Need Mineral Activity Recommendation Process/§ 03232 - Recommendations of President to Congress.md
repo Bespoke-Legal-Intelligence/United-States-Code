@@ -2,7 +2,7 @@
 
 #### (a) Recommendation
 
-At any time after December 2, 1980, the President may transmit a recommendation to the Congress that mineral exploration, development, or extraction not permitted under this Act or other applicable law shall be permitted in a specified area of the lands referred to in section 3231 of this title. Notice of such transmittal shall be published in the Federal Register. No recommendation of the President under this section may be transmitted to the Congress before ninety days after publication in the Federal Register of notice of his intention to submit such recommendation.
+At any time after December 2, 1980, the President may transmit a recommendation to the Congress that mineral exploration, development, or extraction not permitted under thisAct or other applicable law shall be permitted in a specified area of the lands referred to in section 3231 of this title. Notice of such transmittal shall be published in the Federal Register. No recommendation of the President under this section may be transmitted to the Congress before ninety days after publication in the Federal Register of notice of his intention to submit such recommendation.
 
 #### (b) Findings
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as theAlaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

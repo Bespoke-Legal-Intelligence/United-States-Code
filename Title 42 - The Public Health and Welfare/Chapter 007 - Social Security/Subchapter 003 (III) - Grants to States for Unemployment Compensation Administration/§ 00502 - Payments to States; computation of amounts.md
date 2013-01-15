@@ -34,11 +34,11 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 #### Effective Date of 1992 Amendment
 
-Section 302(b) of Pub. L. 102–318 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 3, 1992\].”
+Pub. L. 102–318, title III, §302(b), July 3, 1992, 106 Stat. 297, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 3, 1992\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 121(c)(2) of Pub. L. 99–603 provided that: “The amendments made by subsection (b) \[enacting section 1437r of this title, amending this section and sections 303, 603, 1203, 1353, and 1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
+Pub. L. 99–603, title I, §121(c)(2), Nov. 6, 1986, 100 Stat. 3391, provided that: “The amendments made by subsection (b) \[enacting section 1437r of this title, amending this section and sections 303, 603, 1203, 1353, and1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 

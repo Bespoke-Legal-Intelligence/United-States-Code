@@ -34,7 +34,7 @@
 
 #### (5) Part E
 
-&emsp;(A) There are authorized to be appropriated to carry out subpart 1 of part E, $12,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;(A) There are authorized to be appropriated to carry out subpart 1 of part E, $12,000,000 forfiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
 
 &emsp;(B) There are authorized to be appropriated to carry out subpart 2 of part E, such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 105–244, §308(h)(5), struck out heading and text of subs
 
 Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: “In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make the reservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation.”
 
-Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: “In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority of paragraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title.”
+Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: “In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority ofparagraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title.”
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325, §305(e), amended subsec. (a) generally, substituting present provisions for provisions authorizing appropriations for fiscal year 1987 and the four succeeding fiscal years.
 

@@ -106,7 +106,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(d)(2) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2326 of title 10, United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §908(d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(2), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2326 of title 10, United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Transfer of Functions
 
@@ -158,7 +158,7 @@ Reports.—
 
 &emsp;“(1)
 
-Report on guidance and instructions.—Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
+Report on guidance and instructions.—Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
 
 &emsp;“(2) GAO
 
@@ -174,7 +174,7 @@ report.—Not later than two years after the date of the enactment of this Act, 
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 

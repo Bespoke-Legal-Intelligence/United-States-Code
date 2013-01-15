@@ -5,10 +5,13 @@
 | [201\.](%C2%A7%2000201%20-%20Certain%20intelligence%20officials%20consultation%20and%20concurrence%20regarding%20appointments%3B%20evaluation%20of%20performance.md) | Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance. |
 | \[202. | Repealed.\] |
 | [203\.](%C2%A7%2000203%20-%20Director%20of%20Missile%20Defense%20Agency.md) | Director of Missile Defense Agency. |
+| [204\.](%C2%A7%2000204%20-%20Small%20Business%20Ombudsman%20for%20defense%20audit%20agencies.md) | Small Business Ombudsman for defense audit agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title XVI, §1612(b), Jan. 2, 2013, 126 Stat. 2065, added item 204.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title II, §225(b)(1)(B)(ii), Dec. 2, 2002, 116 Stat. 2486, substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization” in item 203.
 
@@ -30,3 +33,4 @@ Pub. L. 105–85, div. A, title II, §235(b), Nov. 18, 1997, 111 Stat. 1665, add
 - [&sect; 00201 - Certain intelligence officials consultation and concurrence regarding appointments; evaluation of performance](%C2%A7%2000201%20-%20Certain%20intelligence%20officials%20consultation%20and%20concurrence%20regarding%20appointments%3B%20evaluation%20of%20performance.md)
 - [&sect; 00202 - Repealed. Pub. L. 105&#8211;107, title V, &sect;503(c), Nov. 20, 1997, 111 Stat. 2262](%C2%A7%2000202%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93107%2C%20title%20V%2C%20%C2%A7503%28c%29%2C%20Nov.%2020%2C%201997%2C%20111%20Stat.%202262.md)
 - [&sect; 00203 - Director of Missile Defense Agency](%C2%A7%2000203%20-%20Director%20of%20Missile%20Defense%20Agency.md)
+- [&sect; 00204 - Small Business Ombudsman for defense audit agencies](%C2%A7%2000204%20-%20Small%20Business%20Ombudsman%20for%20defense%20audit%20agencies.md)

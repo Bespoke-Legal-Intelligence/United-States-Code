@@ -64,7 +64,7 @@ Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of res
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
 
-<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defenseand providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 90–137, §201(b)(3), struck out subsec. (e) which related
 
 #### Effective Date of 1988 Amendment
 
-Section 586(c) of Pub. L. 100–461 provided that: “This section \[amending this section\] shall be effective on October 1, 1989.”
+Pub. L. 100–461, title V, §586(c), Oct. 1, 1988, 102 Stat. 2268–50, provided that: “This section \[amending this section\] shall be effective on October 1, 1989.”
 
 #### Effective Date of 1985 Amendment
 
@@ -90,11 +90,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports to Congressional Committees
 
-Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
+Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–17 provided in part: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
 
 #### Findings by Secretary of State
 

@@ -38,5 +38,5 @@ Annual appropriations to meet the obligations of membership in various internati
 
 #### Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference
 
-Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
+Pub. L. 86–108, ch. VII, §702, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
 

@@ -6,5 +6,5 @@ In order to further the policy enunciated in sections 461 to 467 of this title, 
 
 #### Reservation of Rights
 
-Section 7 of act Oct. 26, 1949, provided that: “The right to repeal, alter or amend this Act \[sections 468 to 468d of this title\] at any time is hereby expressly reserved, but no contract or individual right made or acquired shall thereby be divested or impaired.”
+Act Oct. 26, 1949, ch. 755, §7, 63 Stat. 929, provided that: “The right to repeal, alter or amend this Act \[sections 468 to 468d of this title\] at any time is hereby expressly reserved, but no contract or individual right made or acquired shall thereby be divested or impaired.”
 

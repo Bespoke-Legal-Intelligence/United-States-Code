@@ -18,7 +18,7 @@ Certification provided under subsection (a) of this section shall be sufficient 
 
 &emsp;(B) for purposes of leave under section 2612(a)(1)(D) of this title, a statement that the employee is unable to perform the functions of the position of the employee;
 
-&emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dateson which such treatment is expected to be given and the duration of such treatment;
+&emsp;(5) in the case of certification for intermittent leave, or leave on a reduced leave schedule, for planned medical treatment, the dates on which such treatment is expected to be given and the duration of such treatment;
 
 &emsp;(6) in the case of certification for intermittent leave, or leave on a reduced leave schedule, under section 2612(a)(1)(D) of this title, a statement of the medical necessity for the intermittent leave or leave on a reduced leave schedule, and the expected duration of the intermittent leave or reduced leave schedule; and
 

@@ -56,7 +56,7 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Military installation.—The term “military installation” has the meaning given that term in section 2687(e)(1) of title 10.
+Military installation.—The term “military installation” has the meaning given that term in section 2687(e)(1) <sup>1</sup> of title 10.
 
 &emsp;&emsp;(B)
 
@@ -136,6 +136,10 @@ June 30, 1949, ch. 288, title II, §204(h), as added Pub. L. 101–510, div. B, 
 
 In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))” are omitted because 50 App.:1622(g) has been repealed.
 
+#### References in Text
+
+Section 2687(e)(1) of title 10, referred to in subsec. (b)(1)(A), was redesignated as section 2687(g)(1) by Pub. L. 112–239, div. B, title XXVII, §2712(a)(1), Jan. 2, 2013, 126 Stat. 2144.
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
@@ -143,4 +147,6 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 <b>2005</b>—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, §408. See 2004 Amendment note below.
 
 <b>2004</b>—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

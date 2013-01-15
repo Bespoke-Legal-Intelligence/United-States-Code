@@ -148,7 +148,7 @@ Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
 #### Effective Date of 1986 Amendment; Transitional Rule
 
-Section 1843(c)(2), (3) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1843(c)(2), (3), Oct. 22, 1986, 100 Stat. 2854, 2855, provided that:
 
 “(2)
 
@@ -168,7 +168,7 @@ Transitional rule.—In the case of any instrument to which the amendment made b
 
 #### Effective Date of 1984 Amendment
 
-Section 422(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title IV, §422(e), July 18, 1984, 98 Stat. 798, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -184,5 +184,5 @@ Requirement of identification number.—Section 215(c) of the Internal Revenue C
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

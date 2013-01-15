@@ -10,7 +10,7 @@ The Attorney General and the Director in the procurement of law books, books of 
 
 #### 1948 Act
 
-Based on section 1131 of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §§337, 530 (Mar. 3, 1911, ch. 231, §229, 36 Stat. 1155; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; May 10, 1934, ch. 277, §512, 48 Stat. 758; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1131, 53 Stat. 163; May 14, 1940, ch. 189, title IV, 54 Stat. 210; July 2, 1942, ch. 472, title IV, 56 Stat. 504; June 28, 1943, ch. 173, title II, §201, 57 Stat. 243; June 26, 1944, ch. 277, §203, 58 Stat. 358; May 21, 1945, ch. 129, title IV, 59 Stat. 200; July 5, 1946, ch. 541, title IV, 60 Stat. 480.)
+Based on section 1131 of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §§337, 530 (Mar. 3, 1911, ch. 231, §229, 36 Stat. 1155; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; May 10, 1934, ch. 277, §512, 48 Stat. 758; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1131, 53 Stat. 163; May 14, 1940, ch. 189, title IV, 54 Stat. 210; July 2, 1942, ch. 472, title IV, 56 Stat. 504; June 28, 1943, ch. 173, title II, §201, 57 Stat. 243; June 26, 1944, ch. 277, §203, 58 Stat.358; May 21, 1945, ch. 129, title IV, 59 Stat. 200; July 5, 1946, ch. 541, title IV, 60 Stat. 480.)
 
 Section consolidates provisions of section 1131 of title 26, U.S.C., 1940 ed., relating to expenditures for “lawbooks” for the Tax Court of the United States, with sections 337 and 530 of title 28, U.S.C., 1940 ed., relating to purchase and distribution of reporter and digest volumes.
 

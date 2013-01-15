@@ -28,7 +28,7 @@ Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, reque
 
 (3) The Secretary of Transportation shall include the findings required by subsection (b)(1) of this section in an order of the Secretary approving or disapproving an agreement, request, modification, or cancellation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129; Pub. L. 104–88, title III, §308(<i>l</i>), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–287, §5(71), Oct. 11, 1996, 110 Stat. 3396.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129; Pub. L. 104–88, title III, §308(l), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–287, §5(71), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 

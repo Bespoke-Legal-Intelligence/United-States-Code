@@ -36,7 +36,7 @@ The Secretary may provide for services and costs incidental to the utilization o
 
 &emsp;(B) subchapter I of chapter 81 of title 5; and
 
-&emsp;(C) claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
+&emsp;(C) claims relating to damage to, or loss of, personal property of a volunteer incident tovolunteer service, in which case the provisions of section 3721 of title 31 shall apply.
 
 (3) Volunteers under this Act shall be subject to chapter 11 of title 18, unless the Secretary, with the concurrence of the Director of the Office of Government Ethics, determines in writing published in the Federal Register that the provisions of that chapter, except section 201, shall not apply to the actions of a class or classes of volunteers who carry out only those duties or functions specified in the determination.
 

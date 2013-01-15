@@ -44,7 +44,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;(B) The Secretary shall establish the means for determining need and feasibility for the hospital, if the State does not have an official procedure for determining need for hospitals. If the State has an official procedure for determining need for hospitals, the Secretary shall require that such procedure be followed before the application for insurance is submitted, and the application shall document that need has also been established under that procedure.
 
-&emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
+&emsp;(5) The Secretary shall not insure any mortgage or approve any modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title if such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt fromFederal taxation or which is to be used to collateralize obligations which are so exempt, except that the Secretary shall not refuse to insure such a mortgage or approve such a modification solely on the basis that such insurance or modification is to be made in connection with a guarantee, as authorized pursuant to section 1721 of this title, of a trust certificate or other security which is exempt from Federal taxation or which is to be used to collateralize obligations which are so exempt if—
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
@@ -70,7 +70,7 @@ The activities and functions provided for in this section shall be carried out b
 
 #### (h) Applicability of other laws
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall apply to mortgages insured under this section and all references therein to section 1713 of this title shall be deemed to refer to this section.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall apply to mortgages insured under this section and all references therein to section 1713 of this title shall be deemed to refer to this section.
 
 #### (i) Termination of exemption for critical access hospitals
 
@@ -86,7 +86,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and
 
 &emsp;&emsp;(B) the General Insurance Fund established under section 1735c of this title.
 
-(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §§404(b)(15), 436, Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515.)
+(June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979,93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Subsec. (d)(4). Pub. L. 95–128, §308(a), inserted reference to section 1521.
 
 <b>1974</b>—Subsec. (d)(2). Pub. L. 93–383 struck out “not to exceed $50,000,000, and” after “an amount”.
 
-<b>1970</b>—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
+<b>1970</b>—Subsec. (b)(1)(C). Pub. L. 91–609, §110(a), substituted as definition of “hospital” a facility “which is a proprietary facility, or facility of a private nonprofitcorporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing or regulation by the State, by the municipality or other political subdivision in which the facility is located)” for “prior definition as a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual”.
 
 Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Regulations
 
-Section 411(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
+Pub. L. 100–242, title IV, §411(b), Feb. 5, 1988, 101 Stat. 1905, directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
 
 Secretary of Housing and Urban Development directed to issue regulations implementing amendments to this section by section 436 of Pub. L. 98–181, not later than Oct. 31, 1984, see section 104(f) of Pub. L. 98–479, set out as a note under section 1715b of this title.
 

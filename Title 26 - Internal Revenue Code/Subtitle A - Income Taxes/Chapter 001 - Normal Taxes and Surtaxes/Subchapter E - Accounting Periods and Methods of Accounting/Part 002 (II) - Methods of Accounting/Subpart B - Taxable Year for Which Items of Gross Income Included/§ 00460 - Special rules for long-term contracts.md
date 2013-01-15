@@ -14,7 +14,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extentnot previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interestsin such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -194,7 +194,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (2) Costs identified under cost-plus and certain Federal contracts
 
-&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost notallocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
+&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
 
 #### (3) Allocation of production period interest to contract
 
@@ -248,7 +248,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;(i) has a recovery period of 7 years or less, and
 
-&emsp;&emsp;&emsp;(ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)).
+&emsp;&emsp;&emsp;(ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)), or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B)).
 
 #### (d) Federal long-term contract
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) any predecessor of the taxpayer or a person described in subparagraph (A) or (B),
 
-> &emsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph\(1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
+> &emsp;for the 3 taxable years of such persons preceding the taxable year in which the contract described in paragraph (1) is entered into shall be included in the gross receipts of the taxpayer for the period described in paragraph (1)(B). The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who engage in construction contracts through partnerships, joint ventures, and corporations.
 
 #### (3) Controlled group of corporations
 
@@ -366,13 +366,15 @@ For purposes of this section, the term “contract commencement date” means, w
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V,§5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336.)
 
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(5), is the date of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(6)(B)(ii). Pub. L. 112–240 inserted “, or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B))” before period at end.
 
 <b>2010</b>—Subsec. (c)(6). Pub. L. 111–240 added par. (6).
 
@@ -482,7 +484,11 @@ Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).
 
 Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading andtext of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to property placed in service after Dec. 31, 2012, in taxable years ending after such date, see section 331(f) of Pub. L. 112–240, set out as a note under section 168 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -490,7 +496,7 @@ Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559, provided
 
 #### Effective Date of 1997 Amendment
 
-Section 1211(c) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XII, §1211(c), Aug. 5, 1997, 111 Stat. 1000, provided that:
 
 “(1)
 
@@ -510,7 +516,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after No
 
 #### Effective Date of 1989 Amendment
 
-Section 7621(d) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7621(d), Dec. 19, 1989, 103 Stat. 2376, provided that:
 
 “(1)
 
@@ -530,7 +536,7 @@ Amendment by sections 7811(e) and 7815(e)(1) of Pub. L. 101–239 effective, exc
 
 Amendment by section 1008(c)(1), (2), (4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 5041(e) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7815(e)(3), Dec. 19, 1989, 103 Stat. 2419, provided that:
+Pub. L. 100–647, title V, §5041(e), Nov. 10, 1988, 102 Stat. 3675, as amended by Pub. L. 101–239, title VII, §7815(e)(3), Dec. 19, 1989, 103 Stat. 2419, provided that:
 
 “(1)
 
@@ -556,7 +562,7 @@ Subsection (d).—The amendment made by subsection (d) \[amending this section\]
 
 #### Effective Date of 1987 Amendment
 
-Section 10203(b) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title X, §10203(b), Dec. 22, 1987, 101 Stat. 1330–394, provided that:
 
 “(1)
 
@@ -580,7 +586,7 @@ Qualified ship contract.—For purposes of subparagraph (A), the term ‘qualifi
 
 #### Effective Date of 1986 Amendment
 
-Section 804(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(c)(3), Nov. 10, 1988, 102 Stat. 3439, provided that:
+Pub. L. 99–514, title VIII, §804(d), Oct. 22, 1986, 100 Stat. 2361, as amended by Pub. L. 100–647, title I, §1008(c)(3), Nov. 10, 1988, 102 Stat. 3439, provided that:
 
 “(1)
 
@@ -604,11 +610,11 @@ Independent research and development expenses.—For purposes of subparagraph (A
 
 #### Regulations
 
-Section 804(b) of Pub. L. 99–514 provided that: “The Secretary of the Treasury or his delegate shall modify the income tax regulations relating to accounting for long-term contracts to carry out the provisions of section 460 of the Internal Revenue Code of 1986 (as added by subsection (a)).”
+Pub. L. 99–514, title VIII, §804(b), Oct. 22, 1986, 100 Stat. 2361, provided that: “The Secretary of the Treasury or his delegate shall modify the income tax regulations relating to accounting for long-term contracts to carry out the provisions of section 460 of the Internal Revenue Code of 1986 (as added by subsection (a)).”
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Method of Accounting for Naval Shipbuilders
 

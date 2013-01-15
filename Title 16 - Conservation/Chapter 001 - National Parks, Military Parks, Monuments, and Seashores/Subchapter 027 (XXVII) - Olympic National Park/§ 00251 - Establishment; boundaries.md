@@ -8,6 +8,10 @@ The Mount Olympus National Monument established pursuant to proclamation of the 
 
 Pub. L. 111–323, §1, Dec. 22, 2010, 124 Stat. 3532, provided that: “This Act \[enacting provisions set out as a note under this section\] may be cited as the ‘Hoh Indian Tribe Safe Homelands Act’.”
 
+#### Quileute Tribe—Redesignations and Conveyances
+
+Pub. L. 112–97, Feb. 27, 2012, 126 Stat. 257, provided for removal of certain Federal land in the Olympic National Park from the National Wilderness Preservation System and placement of certain land in trust for the benefit of the Quileute Indian Tribe to grant the Tribe access to land outside the tsunami zone and resolve a dispute over the northern boundary of their Reservation.
+
 #### Hoh Indian Tribe Safe Homelands
 
 Pub. L. 111–323, §§2, 3(a)(1), Dec. 22, 2010, 124 Stat. 3532, provided that, effective Dec. 22, 2010, a parcel of Federal land of approximately 37 acres, administered by the National Park Service, and depicted on the Hoh Indian Tribe Safe Homelands Act Land Acquisition Map, is considered held in trust by the United States for the benefit of the Tribe and shall be excluded from the boundaries of Olympic National Park.
@@ -16,7 +20,7 @@ Pub. L. 111–323, §§2, 3(a)(1), Dec. 22, 2010, 124 Stat. 3532, provided that,
 
 Pub. L. 102–436, title I, Oct. 23, 1992, 106 Stat. 2217, provided that if the city of Tacoma offered to convey to the United States approximately 45 acres of land located in the Soleduck and Quileute areas within the boundary of Olympic National Park, in exchange for approximately 30 acres of land adjacent to Lake Cushman as depicted on a map entitled “Proposed Boundary Revision Olympic National Park” and dated July 29, 1991, then the Secretary of the Interior was to carry out such exchange, provided Tacoma could deliver clear and unencumbered title, and subject to the laws and regulations applicable to exchanges of land in the National Park System, adjustment of the Olympic National Park boundaries, and additional provisions excluding such exchange from affecting the operating level of Cushman Reservoir, rights of possible intervenors in the Cushman Project, or fishing rights of the Skokomish Tribe or any other Indian tribe.
 
-\[Pub. L. 104–134, title I, §101(c) \[title I, §116\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–178; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “Within 30 days after the enactment of this Act \[Apr. 26, 1996\], the Department of the Interior shall issue a specific schedule for the completion of the Lake Cushman Land Exchange Act (Public Law 102–436) \[probably means title I of Pub. L. 102–436, set out above\] and shall complete the exchange not later than September 30, 1996.”\]
+\[Pub. L. 104–134, title I, §101(c) \[title I, §116\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–178; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, required the Department of the Interior to issue a specific schedule for the completion of title I of Pub. L. 102–436 (formerly set out above) within 30 days after Apr. 26, 1996, and to complete the land exchange not later than Sept. 30, 1996.\]
 
 #### Acquisition of Certain Buildings, Etc.; Appropriation
 

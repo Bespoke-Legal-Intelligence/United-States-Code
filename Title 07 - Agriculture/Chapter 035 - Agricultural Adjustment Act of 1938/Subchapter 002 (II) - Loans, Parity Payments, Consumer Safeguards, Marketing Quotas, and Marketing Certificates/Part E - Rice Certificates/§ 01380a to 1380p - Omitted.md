@@ -26,13 +26,13 @@ Section 1380j, act Feb. 16, 1938, ch. 30, title III, §380j, as added May 28, 19
 
 Section 1380k, act Feb. 16, 1938, ch. 30, title III, §380k, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 210, related to rice processing restrictions.
 
-Section 1380<i>l</i>, act Feb. 16, 1938, ch. 30, title III, §380<i>l</i>, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, related to rice import restrictions.
+Section 1380l, act Feb. 16, 1938, ch. 30, title III, §380l, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, related to rice import restrictions.
 
 Section 1380m, act Feb. 16, 1938, ch. 30, title III, §380m, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, directed the Secretary to prescribe regulations governing the issuance, redemption, acquisition, use, transfer, and disposition of certificates.
 
 Section 1380n, act Feb. 16, 1938, ch. 30, title III, §380n, as added May 28, 1956, ch 327, title V, §501(3), 70 Stat. 211, related to penalties for violations of import and processing restrictions of this part or regulations prescribed by the Secretary for enforcing such provisions.
 
-Section 1380<i>o</i>, act Feb. 16, 1938, ch. 30, title III, §380<i>o</i>, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, related to reports and records.
+Section 1380o, act Feb. 16, 1938, ch. 30, title III, §380o, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, related to reports and records.
 
 Section 1380p, act Feb. 16, 1938, ch. 30, title III, §380p, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, defined “cooperator”, “processing of rough rice”, “processed rice”, “United States”, “exporter”, “rough rice equivalent”, and “import”, for purposes of this part.
 

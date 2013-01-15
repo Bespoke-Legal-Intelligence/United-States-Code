@@ -24,7 +24,7 @@
 
 (2)(A) Determinations made under paragraph (1)(D) shall be based on information and data updated no less frequently than annually.
 
-(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section 1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
+(B) In determining an individual's earnings for purposes of paragraph (1)(D), there shall be excluded from such earnings an amount equal to the sum of any amounts which are or would be excluded under clauses (ii) and (iv) of section1382a(b)(4)(B) of this title (or under clauses (ii) and (iii) of section 1382a(b)(4)(A) of this title) in determining his or her income.
 
 (3) In the case of a State that exercises the option under section 1396a(f) of this title, any individual who—
 
@@ -44,7 +44,7 @@ Subsection (a)(2) of this section and section 1383(j)(2)(A) of this title shall 
 
 The Commissioner of Social Security and the Secretary of Education shall jointly develop and disseminate information, and establish training programs for staff personnel, with respect to the potential availability of benefits and services for disabled individuals under the provisions of this section. The Commissioner of Social Security shall provide such information to individuals who are applicants for and recipients of benefits based on disability under this subchapter and shall conduct such programs for the staffs of the district offices of the Social Security Administration. The Secretary of Education shall conduct such programs for the staffs of the State Vocational Rehabilitation agencies, and in cooperation with such agencies shall also provide such information to other appropriate individuals and to public and private organizations and agencies which are concerned with rehabilitation and social services or which represent the disabled.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1619, as added Pub. L. 96–265, title II, §201(a), June 9, 1980, 94 Stat. 445; amended Pub. L. 97–35, title XXIII, §2353(<i>o</i>), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–460, §14(b), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), Nov. 10, 1986, 100 Stat. 3575, 3577, 3579; Pub. L. 101–508, title V, §§5032(a), 5039(a), Nov. 5, 1990, 104 Stat. 1388–224, 1388–226; Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), Aug. 15, 1994, 108 Stat. 1477, 1478, 1509.)
+(Aug. 14, 1935, ch. 531, title XVI, §1619, as added Pub. L. 96–265, title II, §201(a), June 9, 1980, 94 Stat. 445; amended Pub. L. 97–35, title XXIII, §2353(o), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–460, §14(b), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), Nov. 10, 1986, 100 Stat. 3575, 3577, 3579; Pub. L. 101–508, title V, §§5032(a), 5039(a), Nov. 5, 1990, 104 Stat. 1388–224, 1388–226; Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), Aug. 15, 1994, 108 Stat. 1477, 1478, 1509.)
 
 #### Amendments
 
@@ -86,21 +86,21 @@ Subsec. (b)(3). Pub. L. 99–643, §7(a), added par. (3).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–460 added subsec. (c).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2353(<i>o</i>)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2353(o)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
 
-Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
+Subsec. (b). Pub. L. 97–35, §2353(o), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(1), (4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 205(b) of Pub. L. 103–296 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to eligibility determinations for months after December 1994.”
+Pub. L. 103–296, title II, §205(b), Aug. 15, 1994, 108 Stat. 1509, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to eligibility determinations for months after December 1994.”
 
 #### Effective Date of 1990 Amendment
 
-Section 5032(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
+Pub. L. 101–508, title V, §5032(b), Nov. 5, 1990, 104 Stat. 1388–224, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
-Section 5039(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5039(c), Nov. 5, 1990, 104 Stat. 1388–226, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -112,11 +112,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date
 
-Section 201(d) of Pub. L. 96–265, as amended by Pub. L. 98–460, §14(a), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §2, Nov. 10, 1986, 100 Stat. 3574, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 1382e of this title and provisions set out as a note under section 1382 of this title\] shall become effective on January 1, 1981.”
+Pub. L. 96–265, title II, §201(d), June 9, 1980, 94 Stat. 449, as amended by Pub. L. 98–460, §14(a), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §2, Nov. 10, 1986, 100 Stat. 3574, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 1382e of this title and provisions set out as a note under section 1382 of this title\] shall become effective on January 1, 1981.”
 
-\[Section 10(a) of Pub. L. 99–643 provided that: “The amendment made by section 2 \[amending section 201(d) of Pub. L. 96–265, set out above\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1986\].”\]
+\[Pub. L. 99–643, §10(a), Nov. 10, 1986, 100 Stat. 3580, provided that: “The amendment made by section 2 \[amending section 201(d) of Pub. L. 96–265, set out above\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1986\].”\]
 
 #### Separate Accounts With Respect to Benefits Payable; Evaluation of Program
 
-Section 201(e) of Pub. L. 96–265 provided that: “The Secretary shall provide for separate accounts with respect to the benefits payable by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending section 1382e of this title and provisions set out as a note under section 1382 of this title\] so as to provide for evaluation of the effects of such amendments on the programs established by titles II, XVI, XIX, and XX of the Social Security Act \[subchapters II, XVI, XIX, and XX of this chapter\].”
+Pub. L. 96–265, title II, §201(e), June 9, 1980, 94 Stat. 449, provided that: “The Secretary shall provide for separate accounts with respect to the benefits payable by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending section 1382e of this title and provisions set out as a note under section 1382 of this title\] so as to provide for evaluation of the effects of such amendments on the programs established by titles II, XVI, XIX, and XX of the Social Security Act \[subchapters II, XVI, XIX, and XX of this chapter\].”
 

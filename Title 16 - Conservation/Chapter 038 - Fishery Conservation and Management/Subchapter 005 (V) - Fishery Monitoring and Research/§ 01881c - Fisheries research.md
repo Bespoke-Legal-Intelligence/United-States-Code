@@ -54,7 +54,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Study of Contribution of Bycatch to Charitable Organizations
 
-Section 208 of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–297, title II, §208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 “(a)
 

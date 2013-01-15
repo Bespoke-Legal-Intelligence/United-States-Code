@@ -16,7 +16,7 @@ The Congress finds and declares—
 
 &emsp;&emsp;(4) insure that the handling of dangerous articles and substances on the structures in, on, or immediately adjacent to the navigable waters of the United States is conducted in accordance with established standards and requirements; and
 
-&emsp;(d) that advance planning is critical in determining proper and adequate protective measures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
+&emsp;(d) that advance planning is critical in determining proper and adequate protectivemeasures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
 
 (Pub. L. 92–340, §2, formerly title I, §101, July 10, 1972, 86 Stat. 424; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 107–295, title IV, §443(1), Nov. 25, 2002, 116 Stat. 2132.)
 
@@ -32,19 +32,19 @@ Pub. L. 99–399, title IX, §901, Aug. 27, 1986, 100 Stat. 889, provided that: 
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–474 provided: “That this Act \[enacting sections 1225, 1228 to 1231, and 1232 of this title, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and section 1224 of this title and section 391a of former Title 46\] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
+Pub. L. 95–474, §1, Oct. 17, 1978, 92 Stat. 1471, provided: “That this Act \[enacting sections 1225, 1228 to 1231, and 1232 of this title, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and section 1224 of this title and section 391a of former Title 46\] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 92–340, as amended by Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471, provided that: “This Act \[this chapter\] may be cited as the ‘Ports and Waterways Safety Act’.”
+Pub. L. 92–340, §1, July 10, 1972, 86 Stat. 424, as amended by Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471, provided that: “This Act \[this chapter\] may be cited as the ‘Ports and Waterways Safety Act’.”
 
 #### Savings Provision
 
-Section 6(a) of Pub. L. 95–474 provided that: “Regulations previously issued under statutory provisions which are amended by section 2 of this Act \[amending this section and sections 1222 to 1227, of this title\] shall continue in effect as though issued under the authority of the Ports and Waterways Safety Act of 1972, as amended by this Act \[this chapter\], until expressly abrogated, modified, or amended by the Secretary. Any proceeding under title I of Public Law 92–340 \[which enacted this section and sections 1222 to 1227 of this title\] for a violation which occurred before the effective date of this Act \[Oct. 17, 1978\] may be initiated or continued to conclusion as though such public law had not been amended by this Act \[amendment by section 2 of Pub. L. 95–474\].”
+Pub. L. 95–474, §6(a), Oct. 17, 1978, 92 Stat. 1492, provided that: “Regulations previously issued under statutory provisions which are amended by section 2 of this Act \[amending this section and sections 1222 to 1227, of this title\] shall continue in effect as though issued under the authority of the Ports and Waterways Safety Act of 1972, as amended by this Act \[this chapter\], until expressly abrogated, modified, or amended by the Secretary. Any proceeding under title I of Public Law 92–340 \[which enacted this section and sections 1222 to 1227 of this title\] for a violation which occurred before the effective date of this Act \[Oct. 17, 1978\] may be initiated or continued to conclusion as though such public law had not been amended by this Act \[amendment by section 2 of Pub. L. 95–474\].”
 
 #### Separability
 
-Section 6(c) of Pub. L. 95–474 provided that: “If a provision of this Act \[see Short Title of 1978 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
+Pub. L. 95–474, §6(c), Oct. 17, 1978, 92 Stat. 1493, provided that: “If a provision of this Act \[see Short Title of 1978 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
 
 #### Establishment of Vessel Traffic Control System for Prince William Sound and Valdez, Alaska
 

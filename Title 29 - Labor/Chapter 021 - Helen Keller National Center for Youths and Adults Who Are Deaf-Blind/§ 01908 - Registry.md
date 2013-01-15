@@ -10,7 +10,7 @@ No individual who is deaf-blind may be required to provide information to the Ce
 
 #### (c) Nondisclosure
 
-The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
+The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates providesspecific written authorization for the Center to disclose the information.
 
 #### (d) Privacy rights
 

@@ -16,5 +16,5 @@ The Secretary of the Interior, under such regulations as he may prescribe, is au
 
 #### Appropriations
 
-Section 2 of act June 30, 1948, authorized $25,000 for the Secretary of the Interior to be used to defray the expense incurred in revising the roll as provided for in this section.
+Act June 30, 1948, ch. 765, §2, 62 Stat. 1166, authorized $25,000 for the Secretary of the Interior to be used to defray the expense incurred in revising the roll as provided for in this section.
 

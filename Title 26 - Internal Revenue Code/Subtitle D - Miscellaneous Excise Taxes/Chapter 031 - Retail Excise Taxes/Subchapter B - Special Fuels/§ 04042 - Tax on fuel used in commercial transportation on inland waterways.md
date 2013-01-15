@@ -145,19 +145,19 @@ Amendment by Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Section 2002(d) of Pub. L. 100–647, as amended by Pub. L. 101–239, title VII, §7812(b), Dec. 19, 1989, 103 Stat. 2412, provided that: “The amendments made by subsections (b) and (c) \[amending section 4462 of this title and provisions set out as a note under section 4461 of this title\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\].”
+Pub. L. 100–647, title II, §2002(d), Nov. 10, 1988, 102 Stat. 3597, as amended by Pub. L. 101–239, title VII, §7812(b), Dec. 19, 1989, 103 Stat. 2412, provided that: “The amendments made by subsections (b) and (c) \[amending section 4462 of this title and provisions set out as a note under section 4461 of this title\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\].”
 
 #### Effective Date of 1986 Amendments
 
-Section 1404(c) of Pub. L. 99–662 provided that: “The amendments made by this section \[amending this section and section 1804 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.”
+Pub. L. 99–662, title XIV, §1404(c), Nov. 17, 1986, 100 Stat. 4271, provided that: “The amendments made by this section \[amending this section and section 1804 of Title 33, Navigation and Navigable Waters\] shall take effect on January 1, 1987.”
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 
 #### Effective Date
 
-Section 202(d) of Pub. L. 95–502 provided that: “The amendments made by this section \[enacting this section and amending section 4293 of this title\] shall take effect on October 1, 1980.”
+Pub. L. 95–502, title II, §202(d), Oct. 21, 1978, 92 Stat. 1697, provided that: “The amendments made by this section \[enacting this section and amending section 4293 of this title\] shall take effect on October 1, 1980.”
 
 #### Construction of 1986 Amendments
 
-Section 2002(a)(1) of Pub. L. 100–647 provided that: “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, amending this section\].”
+Pub. L. 100–647, title II, §2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provided that: “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, amending this section\].”
 

@@ -70,7 +70,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Deferment of Separation With Completion of 20 Years of Service or at Age 60
 
-Section 46 of act Aug. 10, 1956, provided that:
+Act Aug. 10, 1956, ch. 1041, §46, 70A Stat. 638, provided that:
 
 “(a) The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, formerly set out as a note under section 580 of this title\] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
 

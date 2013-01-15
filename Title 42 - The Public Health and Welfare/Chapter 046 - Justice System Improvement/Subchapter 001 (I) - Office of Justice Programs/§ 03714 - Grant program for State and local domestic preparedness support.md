@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Office for Domestic Preparedness of the Office of Justice Programs shall make a grant toeach State, which shall be used by the State, in conjunction with units of local government, to enhance the capability of State and local jurisdictions to prepare for and respond to terrorist acts including events of terrorism involving weapons of mass destruction and biological, nuclear, radiological, incendiary, chemical, and explosive devices.
+The Office for Domestic Preparedness of the Office of Justice Programs shall make a grant to each State, which shall be used by the State, in conjunction with units of local government, to enhance the capability of State and local jurisdictions to prepare for and respond to terrorist acts including events of terrorism involving weapons of mass destruction and biological, nuclear, radiological, incendiary, chemical, and explosive devices.
 
 #### (b) Use of grant amounts
 
@@ -26,7 +26,7 @@ Grants under this section may be used to purchase needed equipment and to provid
 
 #### Codification
 
-Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate ToolsRequired to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 #### Amendments
 

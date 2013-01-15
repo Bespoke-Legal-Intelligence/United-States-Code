@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 100–220, §2101(5), added subsec. (b).
 
 #### Effective Date of 1987 Amendment
 
-Section 2002 of title II of Pub. L. 100–220 provided that:
+Pub. L. 100–220, title II, §2002, Dec. 29, 1987, 101 Stat. 1460, provided that:
 
 “(a)
 
@@ -92,7 +92,7 @@ Effective date of regulations.—Any regulation prescribed pursuant to this titl
 
 #### Effective Date
 
-Section 14(a), (b) of Pub. L. 96–478 provided:
+Pub. L. 96–478, §14(a), (b), Oct. 21, 1980, 94 Stat. 2303, provided:
 
 “(a) Except as provided in subsection (b) of this section, this Act \[see Short Title note below\] is effective upon the date of enactment \[Oct. 21, 1980\], or on the date the MARPOL Protocol becomes effective as to the United States, whichever is later. \[The MARPOL Protocol became effective as to the United States Oct. 2, 1983.\]
 
@@ -104,15 +104,15 @@ Pub. L. 110–280, §1, July 21, 2008, 122 Stat. 2611, provided that: “This Ac
 
 #### Short Title of 1987 Amendment
 
-Section 2001 of title II of Pub. L. 100–220 provided that: “This title \[see Effective Date of 1987 Amendment note above\] may be cited as the ‘Marine Plastic Pollution Research and Control Act of 1987’.”
+Pub. L. 100–220, title II, §2001, Dec. 29, 1987, 101 Stat. 1460, provided that: “This title \[see Effective Date of 1987 Amendment note above\] may be cited as the ‘Marine Plastic Pollution Research and Control Act of 1987’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–478 provided: “That this Act \[enacting this chapter, amending section 1321 of this title and section 742c(c) of Title 16, Conservation, and section 391a of former Title 46, Shipping, repealing sections 1001 to 1011 and 1013 to 1016 of this title, and enacting provisions set out as notes under section 1001 of this title, and section 742c of Title 16\] may be cited as the ‘Act to Prevent Pollution from Ships’.”
+Pub. L. 96–478, §1, Oct. 21, 1980, 94 Stat. 2297, provided: “That this Act \[enacting this chapter, amending section 1321 of this title and section 742c(c) of Title 16, Conservation, and section 391a of former Title 46, Shipping, repealing sections 1001 to 1011 and 1013 to 1016 of this title, and enacting provisions set out as notes under section 1001 of this title, and section 742c of Title 16\] may be cited as the ‘Act to Prevent Pollution from Ships’.”
 
 #### Savings Provision: Regulations in Effect Until Superseded
 
-Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
+Pub. L. 96–478, §14(c), Oct. 21, 1980, 94 Stat. 2303, provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
 #### Transfer of Functions
 
@@ -214,7 +214,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;“(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing the times, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
 
-“(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
+“(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person incharge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
 
 #### “SEC. 1407. CRUISE VESSEL EFFLUENT STANDARDS.
 
@@ -286,7 +286,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;&emsp;“(A) after the assessment has become final, or
 
-&emsp;&emsp;“(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraphshall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
+&emsp;&emsp;“(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Anyperson who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
 &emsp;“(8)
 
@@ -358,7 +358,7 @@ Civil Actions.—The Administrator is authorized to commence a civil action for 
 
 #### “SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 
-“If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters. The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant tosection 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
+“If the State of Alaska determines that the protection and enhancement of the quality of some or all of the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve require greater environmental protection, the State of Alaska may petition the Administrator to prohibit the discharge of graywater and sewage from cruise vessels operating in such waters.The establishment of such a prohibition shall be achieved in the same manner as the petitioning process and prohibition of the discharge of sewage pursuant to section 312(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(f)\], as amended, and the regulations promulgated thereunder.
 
 #### “SEC. 1411. SAVINGS CLAUSE.
 
@@ -440,7 +440,7 @@ Waters of the Alexander Archipelago.—The term ‘waters of the Alexander Archi
 
 #### Preemption; Additional State Requirements
 
-Section 2003 of title II of Pub. L. 100–220 provided that:
+Pub. L. 100–220, title II, §2003, Dec. 29, 1987, 101 Stat. 1460, provided that:
 
 “(a)
 

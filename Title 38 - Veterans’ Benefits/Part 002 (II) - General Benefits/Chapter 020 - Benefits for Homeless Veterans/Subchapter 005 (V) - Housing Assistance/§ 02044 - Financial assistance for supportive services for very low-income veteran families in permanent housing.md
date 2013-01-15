@@ -72,7 +72,7 @@ Application for Financial Assistance.—(1) An eligible entity seeking financial
 
 &emsp;(E) a description of the managerial capacity of the eligible entity—
 
-&emsp;&emsp;(i) to coordinate the provision of supportive services with the provision of permanent housing by the eligible entity or by other organizations;
+&emsp;&emsp;(i) to coordinate the provision of supportive services with the provision of permanenthousing by the eligible entity or by other organizations;
 
 &emsp;&emsp;(ii) to assess continuously the needs of very low-income veteran families for supportive services;
 
@@ -101,6 +101,8 @@ Funding.—(1) From amounts appropriated to the Department for Medical Services,
 &emsp;(C) $25,000,000 for fiscal year 2011.
 
 &emsp;(D) $100,000,000 for fiscal year 2012.
+
+&emsp;(E) $300,000,000 for fiscal year 2013.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -146,13 +148,15 @@ Definitions.—In this section:
 
 &emsp;(7) The term “veteran family” includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187.)
 
 #### Codification
 
 Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(1)(E). Pub. L. 112–154 added subpar. (E).
 
 <b>2011</b>—Subsec. (e)(1). Pub. L. 112–37, §12(b), substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
 

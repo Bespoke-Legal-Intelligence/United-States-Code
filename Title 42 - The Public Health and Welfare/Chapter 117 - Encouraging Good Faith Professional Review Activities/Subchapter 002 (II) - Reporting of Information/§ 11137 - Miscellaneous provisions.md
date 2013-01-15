@@ -8,7 +8,7 @@ The Secretary (or the agency designated under section 11134(b) of this title) sh
 
 #### (1) In general
 
-&emsp;Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of section 11135 ofthis title (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a) of this section. Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
+&emsp;Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of section 11135 of this title (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a) of this section. Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under section 11134(b) of this title), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
 
 #### (2) Penalty for violations
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 100–177, §402(a)(2), inserted “(including the agency d
 
 #### Effective Date of 1987 Amendment
 
-Section 402(d), formerly section 402(c), of Pub. L. 100–177, as renumbered and amended by Pub. L. 101–239, title VI, §6103(e)(6), Dec. 19, 1989, 103 Stat. 2208, provided that:
+Pub. L. 100–177, title IV, §402(d), formerly §402(c), Dec. 1, 1987, 101 Stat. 1007, as renumbered and amended by Pub. L. 101–239, title VI, §6103(e)(6), Dec. 19, 1989, 103 Stat. 2208, provided that:
 
 “(1)
 

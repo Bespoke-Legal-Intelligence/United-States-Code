@@ -14,7 +14,7 @@ In this section:
 
 #### (B) Mental health
 
-&emsp;&emsp;Mental health and substance use disorder assessments, crisis intervention, counseling, treatment, and referral to a continuum of services including emergency psychiatric care, community support programs, inpatient care, and outpatient programs.
+&emsp;&emsp;Mental health and substance use disorder assessments, crisis intervention, counseling,treatment, and referral to a continuum of services including emergency psychiatric care, community support programs, inpatient care, and outpatient programs.
 
 #### (2) Medically underserved children and adolescents
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (b) Authority to award grants
 
-The Secretary shall award grants for the costs of the operation of school-based health centers\(referred to in this section as “SBHCs”) that meet the requirements of this section.
+The Secretary shall award grants for the costs of the operation of school-based health centers (referred to in this section as “SBHCs”) that meet the requirements of this section.
 
 #### (c) Applications
 
@@ -152,7 +152,7 @@ An eligible entity receiving funds under this section shall only provide age app
 
 An eligible entity receiving funds under this section shall not provide services through a <sup>1</sup> SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
 

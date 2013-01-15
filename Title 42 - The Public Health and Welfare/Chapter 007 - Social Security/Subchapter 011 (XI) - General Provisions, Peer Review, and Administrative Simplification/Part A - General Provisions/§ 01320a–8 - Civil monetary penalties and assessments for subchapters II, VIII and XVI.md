@@ -64,7 +64,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 (2) The findings of the Commissioner of Social Security with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive in the review described in paragraph (1). If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Commissioner of Social Security, the court may order such additional evidence to be taken before the Commissioner of Social Security and to be made a part of the record. The Commissioner of Social Security may modify such findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and the Commissioner of Social Security shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole shall be conclusive, and the Commissioner's recommendations, if any, for the modification or setting aside of the Commissioner's original order.
 
-(3) Upon the filing of the record and the Commissioner's original or modified order with thecourt, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
+(3) Upon the filing of the record and the Commissioner's original or modified order with the court, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
 
 #### (e) Compromise of money penalties and assessments; recovery; use of funds recovered
 
@@ -118,7 +118,7 @@ For purposes of this section, the term “State agency” shall have the same me
 
 A principal is liable for penalties and assessments under subsection (a) of this section, and for an exclusion under section 1320a–7 of this title based on a recommendation under subsection (a) of this section, for the actions of the principal's agent acting within the scope of the agency.
 
-#### (<i>l</i>) Protection of ongoing criminal investigations
+#### (l) Protection of ongoing criminal investigations
 
 As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II of this chapter or for benefits under subchapter VIII or XVI of this chapter, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
 
@@ -144,7 +144,7 @@ A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as adde
 
 &emsp;“(C) benefits or payments under subchapter XVI of this chapter,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.”
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a personwho is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.”
 
 Subsec. (a)(3). Pub. L. 108–203, §111(a), added par. (3).
 
@@ -166,7 +166,7 @@ Subsec. (e)(1)(C)(ii), (iii). Pub. L. 106–169, §251(b)(6)(D), added cl. (ii) 
 
 Subsec. (e)(2)(B). Pub. L. 106–169, §251(b)(6)(E), substituted “subchapter VIII or XVI” for “subchapter XVI”.
 
-Subsec. (<i>l</i>). Pub. L. 106–169, §251(b)(6)(F), substituted “subchapter VIII or XVI” for “subchapter XVI”.
+Subsec. (l). Pub. L. 106–169, §251(b)(6)(F), substituted “subchapter VIII or XVI” for “subchapter XVI”.
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–296, §108(b)(10)(A)(i), (ii), in closing provisions substituted “Commissioner of Social Security” for “Secretary”, inserted “recommend that the Secretary” before “exclude, as provided”, and struck out before period at end “and to direct the appropriate State agency to exclude the person from participation in any State health care program permanently or for such period as the Secretary determines”.
 
@@ -184,9 +184,9 @@ Subsecs. (h), (i). Pub. L. 103–296, §108(b)(10)(A)(i), substituted “Commiss
 
 Subsec. (k). Pub. L. 103–296, §108(b)(10)(A)(iv), inserted “based on a recommendation under subsection (a) of this section” after “section 1320a–7 of this title”.
 
-Subsec. (<i>l</i>). Pub. L. 103–296, §206(e)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 103–296, §206(e)(1), added subsec. (l).
 
-Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (<i>l</i>) as added by Pub. L. 103–296, §206(e)(1), substituted “SocialSecurity Administration” for “Department of Health and Human Services” and “Commissioner of Social Security” for “Secretary”.
+Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (l) as added by Pub. L. 103–296, §206(e)(1), substituted “Social Security Administration” for “Department of Health and Human Services” and “Commissioner of Social Security” for “Secretary”.
 
 #### Effective Date of 2004 Amendment
 
@@ -198,7 +198,7 @@ Pub. L. 108–203, title II, §201(d), Mar. 2, 2004, 118 Stat. 508, provided tha
 
 Amendment by section 108(b)(10)(A) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 206(e)(2) of Pub. L. 103–296 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1994.”
+Pub. L. 103–296, title II, §206(e)(2), Aug. 15, 1994, 108 Stat. 1515, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1994.”
 
 #### Effective Date
 

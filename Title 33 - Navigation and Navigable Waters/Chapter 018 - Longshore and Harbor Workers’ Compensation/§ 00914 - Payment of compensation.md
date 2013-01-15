@@ -6,7 +6,7 @@ Compensation under this chapter shall be paid periodically, promptly, and direct
 
 #### (b) Period of installment payments
 
-The first installment of compensation shall become due on the fourteenth day after the employer has been notified pursuant to section 912 of this title, or the employer has knowledge of the injury or death, on which date all compensation then due shall be paid. Thereafter compensation shall be paid in installments, semimonthly, except where the deputy commissioner determines that payment in installments should be made monthly or at some other period.
+The first installment of compensation shall become due on the fourteenth day after the employer has been notified pursuant to section 912of this title, or the employer has knowledge of the injury or death, on which date all compensation then due shall be paid. Thereafter compensation shall be paid in installments, semimonthly, except where the deputy commissioner determines that payment in installments should be made monthly or at some other period.
 
 #### (c) Notification of commencement or suspension of payment
 
@@ -52,7 +52,7 @@ An injured employee, or in case of death his dependents or personal representati
 
 Subsecs. (c), (d), (g). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 98–426, §13(b), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
+Subsecs. (j) to (l). Pub. L. 98–426, §13(b), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
 
 <b>1972</b>—Subsec. (f). Pub. L. 92–576, §15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 87–87 effective as to injuries sustained on or after July
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
+Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July 26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
 
 #### Effective Date of 1948 Amendment
 

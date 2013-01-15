@@ -6,7 +6,7 @@ A former President and the surviving spouse of a former President may send nonpo
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–61 struck out subsec. (a) designation, substituted “A former President” for “Subject to subsection (b), a former President”, and struck out subsec. (b) which read as follows: “Subsection (a) shall cease to apply—
+<b>1997</b>—Pub. L. 105–61 struck out subsec. (a) designation, substituted “A former President” for “Subject tosubsection (b), a former President”, and struck out subsec. (b) which read as follows: “Subsection (a) shall cease to apply—
 
 &emsp;“(1) 5 years after the effective date of this subsection, in the case of any individual who, on such effective date—
 
@@ -22,7 +22,7 @@ A former President and the surviving spouse of a former President may send nonpo
 
 #### Effective Date of 1993 Amendment
 
-Section 6(c) of Pub. L. 103–123 provided that: “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under section 102 of Title 3, The President\] shall take effect on October 1, 1993.”
+Pub. L. 103–123, title IV, §6(c), Oct. 28, 1993, 107 Stat. 1247, provided that: “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under section 102 of Title 3, The President\] shall take effect on October 1, 1993.”
 
 #### Effective Date of 1973 Amendment
 

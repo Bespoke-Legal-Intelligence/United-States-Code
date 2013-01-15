@@ -8,7 +8,7 @@
 
 &emsp;(B) the national average lunch payment prescribed in paragraph (2) of this subsection.
 
-(2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
+(2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjustedpursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
 (3)
 
@@ -20,7 +20,7 @@ Regulations.—
 
 &emsp;&emsp;(i)
 
-Proposed regulations.—Notwithstanding section 1758(f) of this title, not later than18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by section 1773 of this title based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
+Proposed regulations.—Notwithstanding section 1758(f) of this title, not later than 18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by section 1773 of this title based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
 
 &emsp;&emsp;(ii)
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise speci
 
 #### Effective Date of 1981 Amendment
 
-Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions of this title shall take effect as follows:
+Pub. L. 97–35, title VIII, §820(a), Aug. 13, 1981, 95 Stat. 534, provided that: “The provisions of this title shall take effect as follows:
 
 “(1) The amendments made by the following sections shall take effect on the first day of the month following the date of the enactment of this Act \[Aug. 13, 1981\] or on September 1, 1981, whichever is earlier:
 
@@ -158,27 +158,27 @@ Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions
 
 #### Effective Date of 1972 Amendment
 
-Section 4(c) of Pub. L. 92–433 provided that the amendment made by that section is effective after the fiscal year ending June 30, 1973.
+Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726, provided that the amendment made by that section is effective after the fiscal year ending June 30, 1973.
 
 #### Effective Date of 1962 Amendment
 
-Section 3(b) of Pub. L. 87–688 provided that: “The amendments made by this section \[amending this section and sections 1754 and 1760 of this title\] shall be applicable only with respect to funds appropriated after the date of enactment of this Act \[Sept. 25, 1962\].”
+Pub. L. 87–688, §3(b), Sept. 25, 1962, 76 Stat. 587, provided that: “The amendments made by this section \[amending this section and sections 1754 and 1760 of this title\] shall be applicable only with respect to funds appropriated after the date of enactment of this Act \[Sept. 25, 1962\].”
 
 #### Effective Date of 1952 Amendment
 
-Section 1(d) of act July 12, 1952, provided that: “The amendments made by this Act \[amending this section and sections 1754 and 1760 of this title\] shall be effective only with respect to funds appropriated after the date on which this Act is enacted \[July 12, 1952\].”
+Act July 12, 1952, ch. 699, §1(d), 66 Stat. 591, provided that: “The amendments made by this Act \[amending this section and sections 1754 and 1760 of this title\] shall be effective only with respect to funds appropriated after the date on which this Act is enacted \[July 12, 1952\].”
 
 #### Promulgation of Regulations
 
-Section 820(c) of title VIII of Pub. L. 97–35 provided that: “Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulations to implement the amendments made by this title \[see Tables for classification\].”
+Pub. L. 97–35, title VIII, §820(c), Aug. 13, 1981, 95 Stat. 535, provided that: “Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulationsto implement the amendments made by this title \[see Tables for classification\].”
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 
-Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal yearending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
+Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
 #### Use of Funds Appropriated Under Section 612c of Title 7 for Implementing This Section and Reimbursement of Such Funds
 
-Section 4(a) of Pub. L. 92–433 authorized Secretary of Agriculture to use so much of the funds appropriated by section 612(c) of title 7, as may be necessary, to carry out the purposes of this section and provide an average rate of reimbursement of not less than 8 cents per meal within each State during the fiscal year 1973 and provided for reimbursement of funds so used.
+Pub. L. 92–433, §4(a), Sept. 26, 1972, 86 Stat. 725, authorized Secretary of Agriculture to use so much of the funds appropriated by section 612(c) of title 7, as may be necessary, to carry out the purposes of this section and provide an average rate of reimbursement of not less than 8 cents per meal within each State during the fiscal year 1973 and provided for reimbursement of funds so used.
 
 #### Additional Funds for Apportionment to States and for Special Assistance; Consultation With Child Nutrition Council; Reimbursement of Separate Fund From Supplemental Appropriation
 
@@ -186,7 +186,7 @@ Pub. L. 92–153, §1, Nov. 5, 1971, 85 Stat. 419, provided: “That, notwithsta
 
 #### Apportionment of Additional Funds to States
 
-Section 4(b) of Pub. L. 92–433 provided that: “Funds made available pursuant to this section shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced-price lunches and to meet the objective of this section with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
+Pub. L. 92–433, §4(b), Sept. 26, 1972, 86 Stat. 726, provided that: “Funds made available pursuant to this section shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced-price lunches and to meet the objective of this section with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
 
 Pub. L. 92–153, §2, Nov. 5, 1971, 85 Stat. 420, provided that: “Funds made available by this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced price lunches and to meet the objective of this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
 

@@ -32,7 +32,3 @@ Subsec. (c). Pub. L. 106–120, §304(b)(2)(C), substituted “shall be fined un
 
 Subsec. (d). Pub. L. 106–120, §304(b)(1), added subsec. (d).
 
-#### Short Title
-
-For short title of this subchapter as the “Intelligence Identities Protection Act of 1982”, see section 1 of Pub. L. 97–200, set out as a Short Title of 1982 Amendment note under section 401 of this title.
-

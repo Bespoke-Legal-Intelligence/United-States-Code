@@ -186,7 +186,7 @@ The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act
 
 Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(B)(ii)(I), and (18)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(B)(ii)(II), and (18)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(B)(ii)(II), and (18)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 321 of this title and Tables.
 
 The Equity in Educational Land-Grant Status Act of 1994, referred to in par. (14)(B)(ii)(III), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, which is set out as a note under section 301 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -202,7 +202,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pars. (5) to (8). Pub. L. 110–246, §7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 110–246, §7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil andwater conservation and improvement.” Former par. (9) redesignated (11).
+Par. (9). Pub. L. 110–246, §7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil and water conservation and improvement.” Former par. (9) redesignated (11).
 
 Par. (10). Pub. L. 110–246, §7101(a)(4), added par. (10). Former par. (10) redesignated (12).
 
@@ -272,7 +272,7 @@ Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out “except as provided in subchapter VII of this chapter,” before “the term” and included within term “State” American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
-Par. (14). Pub. L. 97–98, §1404(4), struck out reference to laboratory training, inserted reference to practicum experience and matters relating to formal classroom instruction, laboratory instruction, and practicum experience, and substituted provision that the teaching be conducted at colleges or universities offering baccalaureate or higher degrees for provision that the teaching be conducted at colleges and universities leading to a baccalaureate and other recognized degrees.
+Par. (14). Pub. L. 97–98, §1404(4), struck out reference to laboratory training, inserted reference to practicum experience and matters relating to formal classroominstruction, laboratory instruction, and practicum experience, and substituted provision that the teaching be conducted at colleges or universities offering baccalaureate or higher degrees for provision that the teaching be conducted at colleges and universities leading to a baccalaureate and other recognized degrees.
 
 Pars. (15), (16). Pub. L. 97–98, §1404(5), added pars. (15) and (16).
 
@@ -294,7 +294,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Construction of 2002 Amendment
 
-Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made bysubsection (a) \[amending this section\] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act \[May 13, 2002\]) to—
+Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made by subsection (a) \[amending this section\] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act \[May 13, 2002\]) to—
 
 &emsp;“(1) the Federated States of Micronesia;
 

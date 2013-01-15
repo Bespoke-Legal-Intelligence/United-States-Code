@@ -22,7 +22,7 @@ The Secretary may issue regulations to implement subsection (a) of this section,
 
 #### (d) Notice
 
-Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment a notice describing the procedures and standards that govern the consideration of import requests. The notice shall—
+Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment anotice describing the procedures and standards that govern the consideration of import requests. The notice shall—
 
 &emsp;(1) specify how public input will be sought in advance of and during the process of promulgating regulations necessitating a risk assessment in order to ensure a fully transparent and publicly accessible process; and
 
@@ -88,5 +88,5 @@ This chapter, referred to in subsec. (d)(2)(E), was in the original “this titl
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of HomelandSecurity Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -50,13 +50,13 @@ Amounts appropriated or otherwise made available for any fiscal year for an inte
 
 #### (e) Limitation
 
-Nothing in this section shall be construed to authorize amounts made available under section 215 of title 23 or any other amounts made available for the construction of highways or amounts otherwise not eligible for making port improvements to be deposited into the Fund.
+Nothing in this section shall be construed to authorize amounts made available under section 165 of title 23 or any other amounts made available for the construction of highways or amounts otherwise not eligible for making port improvements to be deposited into the Fund.
 
 #### (f) Authorization of appropriations
 
 There are authorized to be appropriated to the Fund such sums as may be necessary to carry out this section.
 
-(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–383, div. A, title X, §1075(e)(20), Jan. 7, 2011, 124 Stat. 4375.)
+(Pub. L. 110–417, div. C, title XXXV, §3512, Oct. 14, 2008, 122 Stat. 4770; Pub. L. 111–383, div. A, title X, §1075(e)(20), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–141, div. A, title I, §1114(b)(2)(C), July 6, 2012, 126 Stat. 468.)
 
 #### References in Text
 
@@ -68,5 +68,11 @@ Section was enacted as part of the Duncan Hunter National Defense Authorization 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e). Pub. L. 112–141 substituted “section 165” for “section 215”.
+
 <b>2011</b>—Subsec. (f). Pub. L. 111–383 inserted period at end.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

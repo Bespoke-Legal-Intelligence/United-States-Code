@@ -86,7 +86,7 @@ Secretary To Act Through Comptroller.—(1) The Secretary of Defense shall carry
 
 &emsp;(A) the submission of proposals by the Secretaries concerned or heads of Defense Agencies or other elements of the Department of Defense to the Comptroller for the use of Defense Modernization Account funds for purposes set forth in subsection (d);
 
-&emsp;(B) the use of a competitive process for the evaluation of such proposals and the selection of programs, projects, and activities to befunded out of the Defense Modernization Account from among those proposed for such funding; and
+&emsp;(B) the use of a competitive process for the evaluation of such proposals and the selection of programs, projects, and activities to be funded out of the Defense Modernization Account from among those proposed for such funding; and
 
 &emsp;(C) the calculation of—
 
@@ -168,7 +168,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 #### Effective Date
 
-Section 912(b) of Pub. L. 104–106 provided that: “Section 2216 of title 10, United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
+Pub. L. 104–106, div. A, title IX, §912(b), Feb. 10, 1996, 110 Stat. 410, provided that: “Section 2216 of title 10, United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
 
 #### Expiration of Authority and Account
 
@@ -176,5 +176,5 @@ Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as 
 
 #### GAO Reviews
 
-Pub. L. 104–106, div. A, title IX, §912(d), Feb. 10, 1996, 110 Stat. 410, required Comptroller General of theUnited States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by Pub. L. 107–314, div. A, title VIII, §825(a)(2), Dec. 2, 2002, 116 Stat. 2615.
+Pub. L. 104–106, div. A, title IX, §912(d), Feb. 10, 1996, 110 Stat. 410, required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by Pub. L. 107–314, div. A, title VIII, §825(a)(2), Dec. 2, 2002, 116 Stat. 2615.
 

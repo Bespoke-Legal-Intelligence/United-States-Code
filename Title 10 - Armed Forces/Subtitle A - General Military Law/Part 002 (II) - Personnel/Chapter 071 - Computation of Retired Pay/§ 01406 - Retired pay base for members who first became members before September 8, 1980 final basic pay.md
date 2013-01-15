@@ -92,7 +92,7 @@ Voluntary Retirement for Members of the Air Force.—
 
 &emsp;(1)
 
-In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title, the retired pay base is determined in accordance with the following table.
+In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title,the retired pay base is determined in accordance with the following table.
 
 &nbsp;
 
@@ -112,7 +112,7 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (f)
 
-Coast Guard.—In the case of a member who is retired under any section of title 14, themember's retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
+Coast Guard.—In the case of a member who is retired under any section of title 14, the member's retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
 
 (g)
 
@@ -198,7 +198,7 @@ Pub. L. 109–163, §685(d), added cl. (vi).
 
 <b>2003</b>—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
 
-<b>2002</b>—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853<i>o</i>)”
+<b>2002</b>—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853o)”
 
 <b>1999</b>—Subsec. (i)(2). Pub. L. 106–65 substituted “after October 16, 1998” for “on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” in introductory provisions.
 
@@ -238,5 +238,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Grade on Transfer to Retired Reserve
 
-Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
+Pub. L. 103–337, div. A, title XVI, §1688, Oct. 5, 1994, 108 Stat. 3025, provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
 

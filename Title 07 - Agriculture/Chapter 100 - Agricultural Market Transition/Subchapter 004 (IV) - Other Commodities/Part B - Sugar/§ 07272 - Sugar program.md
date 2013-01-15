@@ -128,7 +128,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (C) Additional authority
 
-&emsp;&emsp;The authority provided under this paragraph is in addition to any authority of the Commodity Credit Corporation under any other law.
+&emsp;&emsp;The authority provided under this paragraph is in addition to any authority of theCommodity Credit Corporation under any other law.
 
 #### (g) Information reporting
 
@@ -206,7 +206,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted “nonrecourse” for “recourse”.
 
-Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted “The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
+Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted“The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
 
 #### Effective Date of 2008 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The amount of any deduction or credit allowed by this subtitle shall be taken for the taxable year which is the proper taxable year under the method of accounting used in computing taxable income.
+The amount of any deduction or credit allowed by this subtitle shall be taken for the taxableyear which is the proper taxable year under the method of accounting used in computing taxable income.
 
 #### (b) Special rule in case of death
 
@@ -200,7 +200,7 @@ If—
 
 #### (1) Limitation
 
-&emsp;If a taxpayer other than a C corporation receives any applicable subsidy for any taxableyear, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
+&emsp;If a taxpayer other than a C corporation receives any applicable subsidy for any taxable year, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
 
 #### (2) Disallowed loss carried to next taxable year
 
@@ -264,7 +264,7 @@ If—
 
 #### (D) Certain losses disregarded
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), there shall not be taken into account any deduction for any loss arising by reason of fire, storm, or other casualty, or by reason of disease or drought, involving any farming business.
+&emsp;&emsp;For purposes of subparagraph (A)(i), there shall not be taken into account any deduction for any loss arising by reason of fire,storm, or other casualty, or by reason of disease or drought, involving any farming business.
 
 #### (5) Application of subsection in case of partnerships and S corporations
 
@@ -284,7 +284,7 @@ If—
 
 &emsp;This subsection shall be applied before the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L.88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
 
 #### References in Text
 
@@ -334,7 +334,7 @@ Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted “Special rules for tax
 
 Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted “Recurring item exception not to apply” for “In general” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof).”
 
-Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurs on or before 90th day after close of the taxable year to the extent of cash basis.
+Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurson or before 90th day after close of the taxable year to the extent of cash basis.
 
 Pub. L. 99–514, §1807(a)(1), substituted “on or before the 90th day” for “within 90 days” in heading and substituted “before the close of the 90th day after the close of the taxable year” for “within 90 days after the close of the taxable year” in subpar. (A).
 
@@ -374,7 +374,7 @@ Pub. L. 110–234, title XV, §15351(b), May 22, 2008, 122 Stat. 1525, and Pub. 
 
 #### Effective Date of 1989 Amendment
 
-Section 7721(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7721(d), Dec. 19, 1989, 103 Stat. 2400, provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -396,7 +396,7 @@ Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Section 91(g)–(i) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
+Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, title XVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
 
 “(g)
 
@@ -504,7 +504,7 @@ Vested accrued vacation pay.—For purposes of this subsection, the term ‘vest
 
 Amendment by section 1901(a)(69) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 208(b) of Pub. L. 94–455 provided that:
+Pub. L. 94–455, title II, §208(b), Oct. 4, 1976, 90 Stat. 1542, provided that:
 
 &emsp;“(1)
 
@@ -516,7 +516,7 @@ Certain amounts paid before 1977.—The amendment made by subsection (a) \[amend
 
 #### Effective Date of 1964 Amendment
 
-Section 223(b) of Pub. L. 88–272 provided that: “Except as provided in subsections (c) and (d) \[set out below\]—
+Pub. L. 88–272, title II, §223(b), Feb. 26, 1964, 78 Stat. 76, provided that: “Except as provided in subsections (c) and (d) \[set out below\]—
 
 &emsp;“(1) the amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, and
 
@@ -524,11 +524,11 @@ Section 223(b) of Pub. L. 88–272 provided that: “Except as provided in subse
 
 #### Effective Date of 1962 Amendment
 
-Section 3(b) of Pub. L. 87–876 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962.”
+Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962.”
 
 #### Effective Date of 1960 Amendment
 
-Section 6(b) of Pub. L. 86–781 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960.”
+Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -536,7 +536,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule for Certain Amounts
 
-Section 1807(a)(8) of Pub. L. 99–514 provided that: “For purposes of section 461(h) of the Internal Revenue Code of 1954 \[now 1986\], economic performance shall be treated as occurring on the date of a payment to an insurance company if—
+Pub. L. 99–514, title XVIII, §1807(a)(8), Oct. 22, 1986, 100 Stat. 2816, provided that: “For purposes of section 461(h) of the Internal Revenue Code of 1954 \[now 1986\], economic performance shall be treated as occurring on the date of a payment to an insurance company if—
 
 &emsp;“(A) such payment was made before November 23, 1985, for indemnification against a tort liability relating to personal injury or death caused by inhalation or ingestion of dust from asbestos-containing insulation products,
 
@@ -548,7 +548,7 @@ Section 1807(a)(8) of Pub. L. 99–514 provided that: “For purposes of section
 
 #### Transition Rule
 
-Section 1807(c) of Pub. L. 99–514 provided that: “A taxpayer shall be allowed to use the cash receipts and disbursements method of accounting for taxable years ending after January 1, 1982, if such taxpayer—
+Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provided that: “A taxpayer shall be allowed to use the cash receipts and disbursements method of accounting for taxable years ending after January 1, 1982, if such taxpayer—
 
 &emsp;“(1) is a partnership which was founded in 1936,
 
@@ -560,7 +560,7 @@ Section 1807(c) of Pub. L. 99–514 provided that: “A taxpayer shall be allowe
 
 #### Election as to Transfers in Taxable Years Beginning Before Jan. 1, 1964
 
-Section 223(c) of Pub. L. 88–272 provided that:
+Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
@@ -578,7 +578,7 @@ Section 223(c) of Pub. L. 88–272 provided that:
 
 #### Certain Other Transfers in Taxable Years Beginning Before Jan. 1, 1964
 
-Section 223(d) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if—
+Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that: “The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if—
 
 &emsp;“(1) no deduction has been allowed in respect of such transfer for any taxable year before the taxable year in which the contest with respect to such transfer is settled, and
 

@@ -18,7 +18,7 @@ This section shall apply to the portion of any underpayment which is attributabl
 
 &emsp;(5) Any substantial estate or gift tax valuation understatement.
 
-&emsp;(6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(<i>o</i>)) or failing to meet the requirements of any similar rule of law.
+&emsp;(6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(o)) or failing to meet the requirements of any similar rule of law.
 
 &emsp;(7) Any undisclosed foreign financial asset understatement.
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;&emsp;(i) Any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if—
 
-&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordancewith a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
+&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordance with a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
 
 &emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
 
@@ -384,17 +384,17 @@ Amendment by Pub. L. 105–34 applicable to items with respect to transactions e
 
 #### Effective Date of 1994 Amendment
 
-Section 744(c) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section\] shall apply to items related to transactions occurring after the date of the enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §744(c), Dec. 8, 1994, 108 Stat. 5011, provided that: “The amendments made by this section \[amending this section\] shall apply to items related to transactions occurring after the date of the enactment of this Act \[Dec. 8, 1994\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 13236(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13236(e), Aug. 10, 1993, 107 Stat. 506, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
-Section 13251(b) of Pub. L. 103–66 provided that: “The amendment made by this section \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13251(b), Aug. 10, 1993, 107 Stat. 531, provided that: “The amendment made by this section \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11312(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title XI, §11312(c), Nov. 5, 1990, 104 Stat. 1388–455, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date
 

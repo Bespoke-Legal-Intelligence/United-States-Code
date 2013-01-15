@@ -58,11 +58,11 @@ In addition to the visitors center, the Secretary may provide for visitor use of
 
 (1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatible with such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
 
-(2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs on such lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the “Taylor Grazing Act”), section 1752 of title 43, other laws applicable to such use and programs on the public lands, and the management plan for the conservation area.
+(2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs on such lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the “Taylor Grazing Act”), section 1752 of title 43, other laws applicable to such use and programs on the publiclands, and the management plan for the conservation area.
 
 #### (g) Cooperative agreements
 
-The Secretary is authorized to provide technical assistance to, and to enter into such cooperative agreements and contracts with, the State of Idaho and with local governments andprivate entities as the Secretary deems necessary or desirable to carry out the purposes and policies of this subchapter.
+The Secretary is authorized to provide technical assistance to, and to enter into such cooperative agreements and contracts with, the State of Idaho and with local governments and private entities as the Secretary deems necessary or desirable to carry out the purposes and policies of this subchapter.
 
 #### (h) Agricultural practices
 

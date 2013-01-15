@@ -26,7 +26,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(8) Communicating or threatening to communicate to any person credit information which is known or which should be known to be false, including the failure to communicate that a disputed debt is disputed.
 
-&emsp;(9) The use or distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, orwhich creates a false impression as to its source, authorization, or approval.
+&emsp;(9) The use or distribution of any written communication which simulates or is falsely represented to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, or which creates a false impression as to its source, authorization, or approval.
 
 &emsp;(10) The use of any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer.
 
@@ -50,5 +50,5 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 #### Effective Date of 1996 Amendment
 
-Section 2305(b) of div. A of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 1996\] and shall apply to all communications made after that date of enactment.”
+Pub. L. 104–208, div. A, title II, §2305(b), Sept. 30, 1996, 110 Stat. 3009–425, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 1996\] and shall apply to all communications made after that date of enactment.”
 

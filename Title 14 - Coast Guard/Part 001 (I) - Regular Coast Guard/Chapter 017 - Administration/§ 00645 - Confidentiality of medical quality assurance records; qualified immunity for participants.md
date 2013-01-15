@@ -52,7 +52,7 @@
 
 #### Prior Provisions
 
-A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, §34, 68 Stat. 1239; Aug. 23, 1958, Pub. L. 85–738, §§4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal, effective two years after Sept.26, 1968, by Pub. L. 90–525, §2, Sept. 26, 1968, 82 Stat. 877. See section 2733 of Title 10, Armed Forces.
+A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, §34, 68 Stat. 1239; Aug. 23, 1958, Pub. L. 85–738, §§4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal, effective two years after Sept. 26, 1968, by Pub. L. 90–525, §2, Sept. 26, 1968, 82 Stat. 877. See section 2733 of Title 10, Armed Forces.
 
 #### Amendments
 

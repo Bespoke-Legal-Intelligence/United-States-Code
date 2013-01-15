@@ -2,7 +2,7 @@
 
 #### (a) Applicants to import or export controlled substances in schedule I or II
 
-The Attorney General shall register an applicant to import or export a controlled substance in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations underinternational treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
+The Attorney General shall register an applicant to import or export a controlled substance in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
 
 #### (b) Activity limited to specified substances
 
@@ -24,7 +24,7 @@ Registration granted under this section shall not entitle a registrant to import
 
 (3) The Attorney General may limit the revocation or suspension of a registration to the particular controlled substance, or substances, or list I chemical or chemicals, with respect to which grounds for revocation or suspension exist.
 
-(4) Before taking action pursuant to this subsection, the Attorney General shall serve upon the applicant or registrant an order to show cause as to why the registration should not be denied, revoked, or suspended. The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General, or his designee, at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this subsection in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.
+(4) Before taking action pursuant to this subsection, the Attorney General shall serve upon the applicant or registrant an order to show cause as to why the registration should not be denied, revoked, or suspended. The order to show cause shall contain a statement of thebasis thereof and shall call upon the applicant or registrant to appear before the Attorney General, or his designee, at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this subsection in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.
 
 (5) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this subsection, in cases where he finds that there is an imminent danger to the public health and safety. Such suspension shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 

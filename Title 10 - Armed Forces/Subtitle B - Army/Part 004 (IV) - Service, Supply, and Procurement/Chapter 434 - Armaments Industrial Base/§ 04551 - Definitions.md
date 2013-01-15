@@ -38,7 +38,7 @@ Purposes of Demonstration Program.—The purposes of the demonstration program a
 
 &emsp;“(4) To increase the opportunities for small businesses (including socially and economically disadvantaged small business concerns and new small businesses) to use these Army arsenals for those purposes.
 
-&emsp;“(5) To maintain in the United States a work force having the skills in manufacturing processes that arenecessary to meet industrial emergency planned requirements for national security purposes.
+&emsp;“(5) To maintain in the United States a work force having the skills in manufacturing processes that are necessary to meet industrial emergency planned requirements for national security purposes.
 
 &emsp;“(6) To demonstrate innovative business practices, to support Department of Defense acquisition reform, and to serve as both a model and a laboratory for future defense conversion initiatives of the Department of Defense.
 

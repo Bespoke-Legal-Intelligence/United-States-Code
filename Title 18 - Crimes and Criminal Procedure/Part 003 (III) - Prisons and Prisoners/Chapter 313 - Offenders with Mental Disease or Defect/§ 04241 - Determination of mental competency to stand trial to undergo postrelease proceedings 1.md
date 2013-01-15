@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted “or other proceedings”
 
 #### Short Title of 1984 Amendment
 
-Section 401 of chapter IV (§§401–406) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
+Pub. L. 98–473, title II, §401, Oct. 12, 1984, 98 Stat. 2057, provided that: “This chapter \[chapter IV (§§401–406) of title II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “stand trial or to undergo postrelease proceedings”.</i>
 

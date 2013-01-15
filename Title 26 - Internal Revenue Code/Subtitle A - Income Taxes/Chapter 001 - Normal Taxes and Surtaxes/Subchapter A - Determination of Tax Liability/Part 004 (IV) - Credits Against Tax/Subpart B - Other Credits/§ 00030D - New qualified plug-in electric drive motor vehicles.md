@@ -26,17 +26,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (2) Personal credit
 
-#### (A) In general
-
-&emsp;&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
-
-#### (B) Limitation based on amount of tax
-
-&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall not exceed the excess of—
-
-&emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23 and 25D) and section 27 for the taxable year.
+&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
 
 #### (d) New qualified plug-in electric drive motor vehicle
 
@@ -106,7 +96,7 @@ For purposes of this section—
 
 #### (2) No double benefit
 
-&emsp;The amount of any deduction or other credit allowable under this chapter for a new qualified plug-in electric drive motor vehicle shall be reduced by the amount of credit allowed under subsection (a) for such vehicle.
+&emsp;The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle.
 
 #### (3) Property used by tax-exempt entity
 
@@ -126,17 +116,45 @@ For purposes of this section—
 
 #### (7) Interaction with air quality and motor vehicle safety standards
 
-&emsp;A motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
+&emsp;A vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
 
-&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and modelyear of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
+&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
 
 &emsp;&emsp;(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 
-(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+#### (g) Credit allowed for 2- and 3-wheeled plug-in electric vehicles
 
-#### Amendment of Section
+#### (1) In general
 
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
+&emsp;In the case of a qualified 2- or 3-wheeled plug-in electric vehicle—
+
+&emsp;&emsp;(A) there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable amount with respect to each such qualified 2- or 3-wheeled plug-in electric vehicle placed in service by the taxpayer during the taxable year, and
+
+&emsp;&emsp;(B) the amount of the credit allowed under subparagraph (A) shall be treated as a credit allowed under subsection (a).
+
+#### (2) Applicable amount
+
+&emsp;For purposes of paragraph (1), the applicable amount is an amount equal to the lesser of—
+
+&emsp;&emsp;(A) 10 percent of the cost of the qualified 2- or 3-wheeled plug-in electric vehicle, or
+
+&emsp;&emsp;(B) $2,500.
+
+#### (3) Qualified 2- or 3-wheeled plug-in electric vehicle
+
+&emsp;The term “qualified 2- or 3-wheeled plug-in electric vehicle” means any vehicle which—
+
+&emsp;&emsp;(A) has 2 or 3 wheels,
+
+&emsp;&emsp;(B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting “2.5 kilowatt hours” for “4 kilowatt hours” in subparagraph (F)(i)),
+
+&emsp;&emsp;(C) is manufactured primarily for use on public streets, roads, and highways,
+
+&emsp;&emsp;(D) is capable of achieving a speed of 45 miles per hour or greater, and
+
+&emsp;&emsp;(E) is acquired after December 31, 2011, and before January 1, 2014.
+
+(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338.)
 
 #### References in Text
 
@@ -144,9 +162,23 @@ The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act Jul
 
 #### Amendments
 
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–240, §104(c)(2)(I), amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
+
+Subsec. (f)(2). Pub. L. 112–240, §403(b)(1), substituted “vehicle for which a credit is allowable under subsection (a)” for “new qualified plug-in electric drive motor vehicle” and “allowed under such subsection” for “allowed under subsection (a)”.
+
+Subsec. (f)(7). Pub. L. 112–240, §403(b)(2), substituted “A vehicle” for “A motor vehicle” in introductory provisions.
+
+Subsec. (g). Pub. L. 112–240, §403(a), added subsec. (g).
+
 <b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by section 104(c)(2)(I) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+
+Pub. L. 112–240, title IV, §403(c), Jan. 2, 2013, 126 Stat. 2338, provided that: “The amendments made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2011.”
 
 #### Effective and Termination Dates of 2010 Amendment
 

@@ -18,17 +18,17 @@ For the purpose of carrying out his duties, the Sergeant at Arms and Doorkeeper 
 
 #### Effective Date of 1990 Amendment
 
-Section 6 of Pub. L. 101–520 provided that the amendment made by that section is effective in the case of fiscal years which begin after Sept. 30, 1990.
+Pub. L. 101–520, title I, §6, Nov. 5, 1990, 104 Stat. 2258, provided that the amendment made by section 6 is effective in the case of fiscal years which begin after Sept. 30, 1990.
 
 #### Effective Date of 1988 Amendment
 
-Section 6 of Pub. L. 100–458 provided that the amendment made by that section is effective with fiscal year ending Sept. 30, 1988.
+Pub. L. 100–458, title I, §6, Oct. 1, 1988, 102 Stat. 2161, provided that the amendment made by section 6 is effective with fiscal year ending Sept. 30, 1988.
 
 #### Effective Date of 1981 Amendment
 
-Section 108 of Pub. L. 97–12 provided that the amendment made by that section is effective with the fiscal year ending Sept. 30, 1981.
+Pub. L. 97–12, title I, §108, June 5, 1981, 95 Stat. 62, provided that the amendment made by section 108 is effective with the fiscal year ending Sept. 30, 1981.
 
 #### Effective Date of 1979 Amendment
 
-Section 111(c) of Pub. L. 96–86 provided that the amendment made by that section is effective with the fiscal year ending Sept. 30, 1980.
+Pub. L. 96–86, §111(c), Oct. 12, 1979, 93 Stat. 661, provided that the amendment made by section 111(c) is effective with the fiscal year ending Sept. 30, 1980.
 

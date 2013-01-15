@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–58 to be implemented in all States by July 1, 1980, bu
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 #### Effective Date of 1972 Amendment
 
@@ -88,9 +88,9 @@ Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub.
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
 
-#### Promulgation of Regulations Regarding Charges for Redemption of Coupons
+#### Regulations
 
-Section 1523(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture, in consultation with the Board of Governors of the Federal Reserve System, shall issue regulations implementing the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 99–198, title XV, §1523(b), Dec. 23, 1985, 99 Stat. 1580, provided that: “The Secretary of Agriculture, in consultation with the Board of Governors of the Federal Reserve System, shall issue regulations implementing the amendment made by subsection (a) \[amending this section\].”
 
 #### Publicly Operated Community Health Centers
 

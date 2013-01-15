@@ -36,7 +36,7 @@ Any determination concerning the location of a chancery under subsection (b)(2) 
 
 &emsp;(3) The adequacy of off-street or other parking and the extent to which the area will be served by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 
-&emsp;(4) The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with Federalagencies authorized to perform protective services.
+&emsp;(4) The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 
 &emsp;(5) The municipal interest, as determined by the Mayor of the District of Columbia.
 

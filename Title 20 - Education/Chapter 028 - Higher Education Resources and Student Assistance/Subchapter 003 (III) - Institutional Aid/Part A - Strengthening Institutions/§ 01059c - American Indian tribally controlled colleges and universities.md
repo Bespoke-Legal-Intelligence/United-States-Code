@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Institution of higher education
 
-&emsp;The term “institution of higher education” means an institution of higher education as defined in section 1001(a) of this title, except that paragraph (2) of such section shall not apply.
+&emsp;The term “institution of higher education” means an institution of higher education asdefined in section 1001(a) of this title, except that paragraph (2) of such section shall not apply.
 
 #### (c) Authorized activities
 
@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;(K) establishing or enhancing a program of teacher education designed to qualify students to teach in elementary schools or secondary schools, with a particular emphasis on teaching Indian children and youth, that shall include, as part of such program, preparation for teacher certification;
 
-&emsp;&emsp;(L) establishing community outreach programs that encourage Indian elementaryschool and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
+&emsp;&emsp;(L) establishing community outreach programs that encourage Indian elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
 
 &emsp;&emsp;(M) developing or improving facilities for Internet use or other distance education technologies; and
 
@@ -110,7 +110,7 @@ In this section:
 
 #### (ii) Preference
 
-&emsp;&emsp;&emsp;In providing grants under clause (i) for any fiscal year, the Secretary shall give preference to eligible institutions that have not received an award under this section for a previous fiscal year.
+&emsp;&emsp;&emsp;In providing grants under clause (i) for any fiscal year, the Secretary shall give preference to eligible institutions thathave not received an award under this section for a previous fiscal year.
 
 #### (B) Allotment of remaining funds
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date
 

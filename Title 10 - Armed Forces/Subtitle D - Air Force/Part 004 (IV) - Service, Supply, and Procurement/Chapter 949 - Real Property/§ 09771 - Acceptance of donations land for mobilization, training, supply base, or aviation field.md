@@ -4,7 +4,7 @@ The Secretary of the Air Force may accept for the United States a gift of—
 
 &emsp;(1) land that he considers suitable and desirable for a permanent mobilization, training, or supply base; and
 
-&emsp;(2) land that he considers suitable and desirable for an aviation field, if the gift is from a citizen of the United States and its terms authorize the use of the property by the United States for any purpose.
+&emsp;(2) land that he considers suitable and desirable for an aviation field, if the gift is from acitizen of the United States and its terms authorize the use of the property by the United States for any purpose.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 588.)
 

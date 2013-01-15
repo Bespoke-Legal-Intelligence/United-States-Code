@@ -18,7 +18,7 @@ Under such conditions and regulations as the Secretary may prescribe, beer may b
 
 #### (e) Beer for personal or family use
 
-Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exemptfrom tax under this subsection with respect to any household shall not exceed—
+Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exempt from tax under this subsection with respect to any household shall not exceed—
 
 &emsp;(1) 200 gallons per calendar year if there are 2 or more adults in such household, or
 
@@ -80,11 +80,11 @@ Subsec. (i). Pub. L. 105–34, §1414(b), redesignated subsec. (f) as (i).
 
 #### Effective Date of 1997 Amendment
 
-Section 1414(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1418(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1419(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1419(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1978 Amendment
 

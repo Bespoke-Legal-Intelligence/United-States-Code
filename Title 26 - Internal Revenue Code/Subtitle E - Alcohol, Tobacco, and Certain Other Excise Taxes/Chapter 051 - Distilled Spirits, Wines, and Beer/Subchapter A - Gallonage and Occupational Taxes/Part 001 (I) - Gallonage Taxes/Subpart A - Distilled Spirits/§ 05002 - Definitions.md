@@ -158,5 +158,5 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1965 Amendment
 
-Section 807(c) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5053 of this title\] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, §807(c), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5053 of this title\] shall take effect on July 1, 1965.”
 

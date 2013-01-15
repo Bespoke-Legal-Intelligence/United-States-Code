@@ -22,7 +22,7 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 &emsp;&emsp;(A) subsection (a) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (a) of this section, or 1 year after August 21, 2002, whichever occurs first; and
 
-&emsp;&emsp;(B) subsection (b) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (b) of this section, or 1 year after August 21, 2002, whichever occurs first.
+&emsp;&emsp;(B) subsection (b) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to insubsection (b) of this section, or 1 year after August 21, 2002, whichever occurs first.
 
 #### (2) Funding information
 
@@ -36,7 +36,7 @@ Any lands within the James Peak Wilderness or the Protection Area acquired by th
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(2), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539<i>l</i> of this title and Tables.
+This Act, referred to in subsec. (b)(2), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539l of this title and Tables.
 
 #### Change of Name
 

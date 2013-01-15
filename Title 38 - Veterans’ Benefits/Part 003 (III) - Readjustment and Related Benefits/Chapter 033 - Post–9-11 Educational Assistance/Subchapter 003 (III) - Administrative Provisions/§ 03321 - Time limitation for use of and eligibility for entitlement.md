@@ -14,7 +14,7 @@ Applicability of section 3031 to running of period.—Subsections (b), (c), and 
 
 &emsp;(2)
 
-Applicability of section 3031 to termination.—Section 3031(f) shall apply with respect to the termination of an individual's entitlement to educational assistance under thischapter in the same manner as such section applies to the termination of an individual's entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to section 3312 of this title.
+Applicability of section 3031 to termination.—Section 3031(f) shall apply with respect to the termination of an individual's entitlement to educational assistance under this chapter in the same manner as such section applies to the termination of an individual's entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to section 3312 of this title.
 
 &emsp;(3)
 

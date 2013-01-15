@@ -26,7 +26,7 @@
 
 &emsp;(B) the first date during the 90 days immediately preceding the date of the filing of the petition on which there is an insufficiency.
 
-(2) In this subsection, “insufficiency” means amount, if any, by which a claim against the debtor exceeds a mutual debt owing to the debtor by the holder of such claim.
+(2) In this subsection, “insufficiency” means amount, if any, by which a claim against thedebtor exceeds a mutual debt owing to the debtor by the holder of such claim.
 
 (c) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 

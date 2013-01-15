@@ -46,7 +46,7 @@ In selecting among applicants for grants under subsection (a), the Secretary sha
 
 &emsp;&emsp;(B) carry out projects that serve diverse populations of runaway or homeless youth.
 
-(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §5, Oct. 8, 2008, 122 Stat. 4069.)
+(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023;amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §5, Oct. 8, 2008, 122 Stat. 4069.)
 
 #### Amendments
 

@@ -100,7 +100,7 @@ As used in this chapter—
 
 #### References in Text
 
-Section 3 of the Communications Act of 1934, referred to in par. (10), is classified to section 153 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 3 of the Communications Act of 1934, referred to in par. (10), is classified to section 153 of Title 47, Telecommunications.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Par. (16)(F). Pub. L. 104–132, §731(2), struck out subpar. (F) which read as 
 
 <b>1994</b>—Par. (1). Pub. L. 103–414, §202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
-Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
+Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struckout former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
 
 Par. (16)(F). Pub. L. 103–414, §203, added subpar. (F).
 
@@ -146,7 +146,7 @@ Pub. L. 107–56, title II, §224, Oct. 26, 2001, 115 Stat. 295, as amended by P
 
 #### Effective Date of 1986 Amendment
 
-Section 111 of title I of Pub. L. 99–508 provided that:
+Pub. L. 99–508, title I, §111, Oct. 21, 1986, 100 Stat. 1859, provided that:
 
 “(a)
 
@@ -170,11 +170,11 @@ Pub. L. 105–112, §1, Nov. 21, 1997, 111 Stat. 2273, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–508 provided that: “This Act \[enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title\] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
+Pub. L. 99–508, §1, Oct. 21, 1986, 100 Stat. 1848, provided that: “This Act \[enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title\] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
 
 #### Intelligence Activities
 
-Section 107 of Pub. L. 99–508 provided that:
+Pub. L. 99–508, title I, §107, Oct. 21, 1986, 100 Stat. 1858, provided that:
 
 “(a)
 
@@ -192,19 +192,19 @@ Certain Activities Under Procedures Approved by the Attorney General.—Nothing 
 
 #### Congressional Findings
 
-Section 801 of Pub. L. 90–351 provided that: “On the basis of its own investigations and of published studies, the Congress makes the following findings:
+Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
 “(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
 “(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
-“(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
+“(c) Organized criminals make extensive use of wire and oral communications in their criminal activities.The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 
 “(d) To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused.”
 
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 
-Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
+Pub. L. 90–351, title III, §804, June 19, 1968, 82 Stat. 223, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

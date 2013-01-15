@@ -56,7 +56,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(A) with a contract under section 1395mm of this title to an individual enrolled with the organization,
 
-&emsp;&emsp;(B) described in section 1395<i>l</i>(a)(1)(A) of this title to an individual enrolled with the organization,
+&emsp;&emsp;(B) described in section 1395l(a)(1)(A) of this title to an individual enrolled with the organization,
 
 &emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization,
 
@@ -156,7 +156,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (2) Bona fide employment relationships
 
-&emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
+&emsp;Any amount paid by an employer to a physician (or an immediate family member of suchphysician) who has a bona fide employment relationship with the employer for the provision of services if—
 
 &emsp;&emsp;(A) the employment is for identifiable services,
 
@@ -226,7 +226,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;In the case of an isolated financial transaction, such as a one-time sale of property or practice, if—
 
-&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are met with respect to the entity in the same manner as they apply to an employer, and
+&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are metwith respect to the entity in the same manner as they apply to an employer, and
 
 &emsp;&emsp;(B) the transaction meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -260,7 +260,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (f) Reporting requirements
 
-Each entity providing covered items or services for which payment may be made under thissubchapter shall provide the Secretary with the information concerning the entity's ownership, investment, and compensation arrangements, including—
+Each entity providing covered items or services for which payment may be made under this subchapter shall provide the Secretary with the information concerning the entity's ownership, investment, and compensation arrangements, including—
 
 &emsp;(1) the covered items and services provided by the entity, and
 
@@ -284,7 +284,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
-&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penaltyor proceeding under section 1320a–7a(a) of this title.
 
 #### (5) Failure to report information
 
@@ -444,7 +444,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) for which the type of categories described in subparagraph (A) at any time on or after such date is no different than the type of such categories as of such date;
 
-&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does not exceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
+&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on themain campus of the hospital and does not exceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
 
 &emsp;&emsp;&emsp;(v) that meets such other requirements as the Secretary may specify.
 
@@ -524,7 +524,7 @@ For purposes of this section:
 
 #### (2) Publication of information reported
 
-&emsp;The Secretary shall publish, and update on an annual basis, the information submitted by hospitals under paragraph (1)(C)(i) on the public Internet website of the Centers for Medicare \& Medicaid Services.
+&emsp;The Secretary shall publish, and update on an annual basis, the information submitted byhospitals under paragraph (1)(C)(i) on the public Internet website of the Centers for Medicare \& Medicaid Services.
 
 #### (3) Exception to prohibition on expansion of facility capacity
 
@@ -594,7 +594,7 @@ For purposes of this section:
 
 #### (G) Procedure rooms
 
-&emsp;&emsp;In this subsection, the term “procedure rooms” includes rooms in which catheterizations, angiographies, angiograms, and endoscopies are performed, except such term shall not include emergency rooms or departments (exclusive of rooms in which catheterizations, angiographies, angiograms, and endoscopies are performed).
+&emsp;&emsp;In this subsection, the term “procedure rooms” includes rooms in which catheterizations, angiographies, angiograms, andendoscopies are performed, except such term shall not include emergency rooms or departments (exclusive of rooms in which catheterizations, angiographies, angiograms, and endoscopies are performed).
 
 #### (H) Publication of final decisions
 
@@ -602,7 +602,7 @@ For purposes of this section:
 
 #### (I) Limitation on review
 
-&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of the process under this paragraph (including the establishment of such process).
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise of the process under this paragraph (including the establishment of such process).
 
 #### (4) Collection of ownership and investment information
 
@@ -620,7 +620,7 @@ For purposes of this section:
 
 #### References in Text
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) ofPub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
@@ -686,7 +686,7 @@ Subsec. (f). Pub. L. 103–66, §13562(a)(3), substituted “designated health s
 
 Subsec. (g)(1). Pub. L. 103–66, §13562(a)(4), substituted “designated health service” for “clinical laboratory service”.
 
-Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars.\(1) to (6) for former pars. (1) to (7) which defined “compensation arrangement”, “remuneration”, “employee”, “fair market value”, “group practice”, “investor”, “interested investor”, “disinterested investor”, “referral”, and “referring physician”.
+Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars. (1) to (6) for former pars. (1) to (7) which defined “compensation arrangement”, “remuneration”, “employee”, “fair market value”, “group practice”, “investor”, “interested investor”, “disinterested investor”, “referral”, and “referring physician”.
 
 <b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -716,15 +716,15 @@ Amendment by Pub. L. 110–275 applicable to services furnished on or after July
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, provided that: “The amendment made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, provided that: “The amendment made by this section \[amending thissection\] shall apply to services furnished on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
 #### Effective Date of 1994 Amendment
 
-Section 152(d)(1) of Pub. L. 103–432 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to referrals made on or after January 1, 1995.”
+Pub. L. 103–432, title I, §152(d)(1), Oct. 31, 1994, 108 Stat. 4437, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to referrals made on or after January 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13562(b) of Pub. L. 103–66, as amended by Pub. L. 103–432, title I, §152(c), Oct. 31, 1994, 108 Stat. 4437, provided that:
+Pub. L. 103–66, title XIII, §13562(b), Aug. 10, 1993, 107 Stat. 604, as amended by Pub. L. 103–432, title I, §152(c), Oct. 31, 1994, 108 Stat. 4437, provided that:
 
 “(1)
 
@@ -750,23 +750,23 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 &emsp;“(F) section 1877(h)(4)(B) of the Social Security Act \[subsec. (h)(4)(B) of this section\] (as in effect on the day before the date of the enactment of this Act) shall apply instead of section 1877(h)(4)(A)(ii) of such Act (as amended by this Act).”
 
-\[Section 152(d)(2) of Pub. L. 103–432 provided that: “The amendment made by subsection (c) \[amending section 13562(b) of Pub. L. 103–66, set out above\] shall apply as if included in the enactment of OBRA–1993 \[Pub. L. 103–66\].”\]
+\[Pub. L. 103–432, title I, §152(d)(2), Oct. 31, 1994, 108 Stat. 4437, provided that: “The amendment made by subsection (c) \[amending section 13562(b) of Pub. L. 103–66, set out above\] shall apply as if included in the enactment of OBRA–1993 \[Pub. L. 103–66\].”\]
 
 #### Effective Date of 1990 Amendment
 
-Section 4207(e)(5), formerly 4027(e)(5), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:“The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Pub. L. 101–508, title IV, §4207(e)(5), formerly §4027(e)(5), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date
 
-Section 6204(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6204(c), Dec. 19, 1989, 103 Stat. 2242, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1395<i>l</i> of this title\] shall become effective with respect to referrals made on or after January 1, 1992.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1395l of this title\] shall become effective with respect to referrals made on or after January 1, 1992.
 
 “(2) The reporting requirement of section 1877(f) of the Social Security Act \[subsec. (f) of this section\] shall take effect on October 1, 1990.”
 
 #### Deadline for Certain Regulations
 
-Section 6204(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
+Pub. L. 101–239, title VI, §6204(d), Dec. 19, 1989, 103 Stat. 2242, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
 
 #### Enforcement
 
@@ -872,11 +872,11 @@ Reports.—Not later than 15 months after the date of the enactment of this Act 
 
 #### GAO Study of Ownership by Referring Physicians
 
-Section 6204(e) of Pub. L. 101–239 directed Comptroller General to conduct a study of ownership of hospitals and other providers of medicare services by referring physicians and, by not later than Feb. 1, 1991, report to Congress on results of such study, prior to repeal by Pub. L. 104–316, title I, §122(h)(1), Oct. 19, 1996, 110 Stat. 3837.
+Pub. L. 101–239, title VI, §6204(e), Dec. 19, 1989, 103 Stat. 2242, directed Comptroller General to conduct a study of ownership of hospitals and other providers of medicare services by referring physicians and, by not later than Feb. 1, 1991, report to Congress on results of such study, prior to repeal by Pub. L. 104–316, title I, §122(h)(1), Oct. 19, 1996, 110 Stat. 3837.
 
 #### Statistical Summary of Comparative Utilization
 
-Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly §4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–316, title I, §122(h)(2), Oct. 19, 1996, 110 Stat. 3837, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
+Pub. L. 101–239, title VI, §6204(f), Dec. 19, 1989, 103 Stat. 2243, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly §4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–316, title I, §122(h)(2), Oct. 19, 1996, 110 Stat. 3837, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

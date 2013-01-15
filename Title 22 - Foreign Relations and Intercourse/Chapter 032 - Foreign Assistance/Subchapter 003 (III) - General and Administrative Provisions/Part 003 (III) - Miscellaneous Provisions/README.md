@@ -33,6 +33,7 @@ Part III—Miscellaneous Provisions
 - [&sect; 02421c - Coordination](%C2%A7%2002421c%20-%20Coordination.md)
 - [&sect; 02421d - Funding for capital projects](%C2%A7%2002421d%20-%20Funding%20for%20capital%20projects.md)
 - [&sect; 02421e - Definitions](%C2%A7%2002421e%20-%20Definitions.md)
+- [&sect; 02421f - Sustainability requirements for certain capital projects in connection with overseas contingency operations](%C2%A7%2002421f%20-%20Sustainability%20requirements%20for%20certain%20capital%20projects%20in%20connection%20with%20overseas%20contingency%20operations.md)
 - [&sect; 02422 - Repealed. Pub. L. 102&#8211;88, title VI, &sect;601, Aug. 14, 1991, 105 Stat. 441](%C2%A7%2002422%20-%20Repealed.%20Pub.%20L.%20102%E2%80%9388%2C%20title%20VI%2C%20%C2%A7601%2C%20Aug.%2014%2C%201991%2C%20105%20Stat.%20441.md)
 - [&sect; 02423 - Exchanges of certain materials](%C2%A7%2002423%20-%20Exchanges%20of%20certain%20materials.md)
 - [&sect; 02424 - Repealed. Pub. L. 95&#8211;88, title I, &sect;123(c), Aug. 3, 1977, 91 Stat. 541](%C2%A7%2002424%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9388%2C%20title%20I%2C%20%C2%A7123%28c%29%2C%20Aug.%203%2C%201977%2C%2091%20Stat.%20541.md)

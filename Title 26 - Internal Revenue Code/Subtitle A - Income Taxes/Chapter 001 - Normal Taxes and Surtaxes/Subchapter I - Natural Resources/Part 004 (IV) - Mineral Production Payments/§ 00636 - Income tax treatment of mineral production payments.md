@@ -28,7 +28,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Effective Date
 
-Section 503(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title V, §503(c), Dec. 30, 1969, 83 Stat. 631, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

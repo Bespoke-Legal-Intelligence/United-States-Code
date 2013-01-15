@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(i) guarantees, arranges, participates in, or assists with the issuance (or pays any portion of the cost of issuance) of any bond the proceeds of which are to be used to finance or refinance such facility, and
 
-&emsp;&emsp;&emsp;(ii) provides any property, or any franchise, trademark, or trade name (withinthe meaning of section 1253), which is to be used in connection with such facility.
+&emsp;&emsp;&emsp;(ii) provides any property, or any franchise, trademark, or trade name (within the meaning of section 1253), which is to be used in connection with such facility.
 
 #### (7) Subsection not to apply if bonds issued with certain other tax-exempt bonds
 
@@ -110,7 +110,7 @@
 
 &emsp;This subsection shall not apply to an issue if—
 
-&emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which is one of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
+&emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which isone of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
 
 &emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard, and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
 
@@ -256,7 +256,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the student borrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
 
-> &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations asgovernmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
+> &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
 
 #### (2) Applicable percentage
 
@@ -352,7 +352,7 @@ For purposes of this part—
 
 #### (ii) Designation percentage
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of thetotal assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
 
 #### (iii) Exception where bonds not outstanding
 
@@ -410,7 +410,7 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related tomethod for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 
@@ -458,21 +458,21 @@ Pub. L. 111–5, div. B, title I, §1301(b), Feb. 17, 2009, 123 Stat. 345, provi
 
 #### Effective Date of 1993 Amendment
 
-Section 13122(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13122(b), Aug. 10, 1993, 107 Stat. 433, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 109(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 1991.”
+Pub. L. 102–227, title I, §109(b), Dec. 11, 1991, 105 Stat. 1688, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11409(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after September 30, 1990.”
+Pub. L. 101–508, title XI, §11409(b), Nov. 5, 1990, 104 Stat. 1388–478, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after September 30, 1990.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1013(a)(4)(A), (B)(i), (ii), (C), (5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6176(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6176(b), Nov. 10, 1988, 102 Stat. 3726, provided that:
 
 “(1)
 
@@ -490,11 +490,11 @@ Refundings.—The amendment made by subsection (a) shall not apply to any bond i
 
 #### Application of Subsection (a)(12)(A)(ii)(I) to Refunding Bonds Issued Before July 1, 1987
 
-Section 1013(a)(4)(B)(iii) of Pub. L. 100–647 provided that: “A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\].”
+Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: “A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\].”
 
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 
-Section 1013(c)(12)(B) of Pub. L. 100–647 provided that: “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
+Pub. L. 100–647, title I, §1013(c)(12)(B), Nov. 10, 1988, 102 Stat. 3547, provided that: “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

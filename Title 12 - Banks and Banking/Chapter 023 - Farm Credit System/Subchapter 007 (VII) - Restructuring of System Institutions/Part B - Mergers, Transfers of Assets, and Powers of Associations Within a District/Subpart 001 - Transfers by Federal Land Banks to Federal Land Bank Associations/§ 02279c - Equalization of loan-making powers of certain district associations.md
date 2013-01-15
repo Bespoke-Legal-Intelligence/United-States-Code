@@ -6,7 +6,7 @@
 
 #### (A) Federal land bank associations
 
-&emsp;&emsp;Subject to paragraph (2), any association that owns a Federal land bank association authorized as of January 1, 2007, to make long-term loans under subchapter I in itschartered territory within the geographic area described in subsection (b) may make short- and intermediate-term loans and otherwise operate as a production credit association under subchapter II within that same chartered territory.
+&emsp;&emsp;Subject to paragraph (2), any association that owns a Federal land bank association authorized as of January 1, 2007, to make long-term loans under subchapter I in its chartered territory within the geographic area described in subsection (b) may make short- and intermediate-term loans and otherwise operate as a production credit association under subchapter II within that same chartered territory.
 
 #### (B) Production credit associations
 

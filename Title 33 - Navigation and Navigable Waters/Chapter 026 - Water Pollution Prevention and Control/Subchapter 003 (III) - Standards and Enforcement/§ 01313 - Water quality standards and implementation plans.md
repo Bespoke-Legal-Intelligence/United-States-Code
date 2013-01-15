@@ -20,7 +20,7 @@
 
 &emsp;(B) a water quality standard submitted by such State under subsection (a) of this section is determined by the Administrator not to be consistent with the applicable requirements of subsection (a) of this section.
 
-(2) The Administrator shall promulgate any water quality standard published in a proposedregulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
+(2) The Administrator shall promulgate any water quality standard published in a proposed regulation not later than one hundred and ninety days after the date he publishes any such proposed standard, unless prior to such promulgation, such State has adopted a water quality standard which the Administrator determines to be in accordance with subsection (a) of this section.
 
 #### (c) Review; revised standards; publication
 
@@ -118,7 +118,7 @@ For the purposes of this chapter the term “water quality standards” includes
 
 #### (A) In general
 
-&emsp;&emsp;If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
+&emsp;&emsp;If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised ornew water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
 
 #### (B) Exception
 

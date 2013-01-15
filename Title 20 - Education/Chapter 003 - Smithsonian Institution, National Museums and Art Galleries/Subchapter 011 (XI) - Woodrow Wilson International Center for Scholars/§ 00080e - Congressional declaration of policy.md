@@ -14,5 +14,5 @@ The Congress hereby finds and declares—
 
 #### Short Title
 
-Section 1 of Pub. L. 90–637 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Woodrow Wilson Memorial Act of 1968’.”
+Pub. L. 90–637, §1, Oct. 24, 1968, 82 Stat. 1356, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Woodrow Wilson Memorial Act of 1968’.”
 

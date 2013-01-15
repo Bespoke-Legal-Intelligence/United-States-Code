@@ -58,11 +58,11 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 
 
 For effective date of amendment by section 307(c), (d) of Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
-For effective date of amendment by section 409 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
+For effective date of amendment by section 409 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set outas an Effective Date note under section 1665a of this title.
 
 #### Effective Date
 
-Section 504(b) of Pub. L. 90–321 provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
+Pub. L. 90–321, title V, §504(b), May 29, 1968, 82 Stat. 167, provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
 
 #### Real Estate Settlement Procedures
 

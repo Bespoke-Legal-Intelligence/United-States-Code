@@ -26,7 +26,7 @@ Nothing in this chapter shall affect in any way the authority of the Secretary o
 
 #### (c) Cooperation
 
-To the greatest extent practicable each Federal agency shall cooperate with the Secretary and the States in carrying out the provisions of this chapter.
+To the greatest extent practicable each Federal agency shall cooperate with the Secretaryand the States in carrying out the provisions of this chapter.
 
 #### (d) Major Federal action
 
@@ -34,7 +34,7 @@ Approval of the State programs, pursuant to section 1253(b) of this title, promu
 
 (Pub. L. 95–87, title VII, §702, Aug. 3, 1977, 91 Stat. 519.)
 
-#### References In Text
+#### References in Text
 
 The Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted section 21a of this title and provisions set out as a note under section 21a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 21a of this title and Tables.
 

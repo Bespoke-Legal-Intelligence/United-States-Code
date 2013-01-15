@@ -16,11 +16,11 @@
 
 #### (2) Employment statistics
 
-&emsp;The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49<i>l</i>–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 #### (b) Treatment of information
 
-For purposes of the exchange described in subsection (a)(1) of this section, the data described in subsection (a)(1)(B)(ii) of this section shall not be considered return information (as defined in section 6103(b)(2) of title 26) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
+For purposes of the exchange described in subsection (a)(1) of this section, the data described in subsection (a)(1)(B)(ii) of this section shallnot be considered return information (as defined in section 6103(b)(2) of title 26) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
 
 (Pub. L. 93–112, title I, §131, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1167.)
 

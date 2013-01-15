@@ -48,5 +48,5 @@ Another section 7520 was renumbered section 7521 of this title.
 
 #### Effective Date
 
-Section 5031(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 

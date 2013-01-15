@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) Aggregation rules
 
-&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (<i>o</i>) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
+&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
 
 #### (2) Disallowance of deduction
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date
 
-Section applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, as amended, set out as an Effective and Termination Dates of 2001 Amendment note under section 38 of this title.
+Section applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, as amended, set out as an Effective Date of 2001 Amendment note under section 38 of this title.
 

@@ -98,7 +98,7 @@ Reporting Requirement.—Not later than January 1, 2012, the Secretary of Defens
 
 #### Continuation of Delegation of Authority With Respect to Hiring Preference for Qualified Military Spouses
 
-Section 568(d) of Pub. L. 104–106 provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) \[set out below\], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 104–106, div. A, title V, §568(d), Feb. 10, 1996, 110 Stat. 336, provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) \[set out below\], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
 
 #### Ex. Ord. No. 12568. Employment Opportunities for Military Spouses at Nonappropriated Fund Activities
 

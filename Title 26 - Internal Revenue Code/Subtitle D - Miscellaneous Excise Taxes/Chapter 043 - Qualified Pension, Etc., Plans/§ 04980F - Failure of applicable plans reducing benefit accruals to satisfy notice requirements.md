@@ -40,7 +40,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (4) Waiver by Secretary
 
-&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, theSecretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (d) Liability for tax
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) each participant in the plan, and
 
-&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section 414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
+&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
 
 > &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
 
@@ -134,7 +134,7 @@ Pub. L. 107–16, title VI, §659(c), June 7, 2001, 115 Stat. 141, as amended by
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments takingeffect on or after the date of the enactment of this Act \[June 7, 2001\].
+In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments taking effect on or after the date of the enactment of this Act \[June 7, 2001\].
 
 “(2)
 

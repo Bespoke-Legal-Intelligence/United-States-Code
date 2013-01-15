@@ -8,7 +8,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (1) In general
 
-&emsp;The Secretary shall determine the appropriate number of individuals to serve on theAdvisory Committee. Such individuals shall not be officers or employees of the Federal Government.
+&emsp;The Secretary shall determine the appropriate number of individuals to serve on the Advisory Committee. Such individuals shall not be officers or employees of the Federal Government.
 
 #### (2) Appointment
 
@@ -78,7 +78,7 @@ The Advisory Committee shall—
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
+(July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov.13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D oftitle VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
+Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
 
 November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 

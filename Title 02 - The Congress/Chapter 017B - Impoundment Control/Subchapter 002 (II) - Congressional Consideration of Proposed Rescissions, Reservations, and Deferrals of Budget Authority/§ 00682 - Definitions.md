@@ -6,7 +6,7 @@ For purposes of sections 682 to 688 of this title—
 
 &emsp;&emsp;(A) withholding or delaying the obligation or expenditure of budget authority (whether by establishing reserves or otherwise) provided for projects or activities; or
 
-&emsp;&emsp;(B) any other type of Executive action or inaction which effectively precludes the obligation or expenditure of budget authority, including authority to obligate by contract in advance of appropriations as specifically authorized by law;
+&emsp;&emsp;(B) any other type of Executive action or inaction which effectively precludes the obligation or expenditure of budget authority,including authority to obligate by contract in advance of appropriations as specifically authorized by law;
 
 &emsp;(2) “Comptroller General” means the Comptroller General of the United States;
 

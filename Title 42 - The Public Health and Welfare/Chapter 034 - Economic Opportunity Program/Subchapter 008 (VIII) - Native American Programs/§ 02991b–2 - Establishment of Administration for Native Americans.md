@@ -34,7 +34,7 @@ The Commissioner shall—
 
 #### (e) Staffing levels
 
-The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
+The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, andthe staffing levels previously maintained in support of the Administration.
 
 (Pub. L. 88–452, title VIII, §803B, as added Pub. L. 102–375, title VIII, §822(3), Sept. 30, 1992, 106 Stat. 1296; amended Pub. L. 103–171, §5(4), Dec. 2, 1993, 107 Stat. 1992.)
 

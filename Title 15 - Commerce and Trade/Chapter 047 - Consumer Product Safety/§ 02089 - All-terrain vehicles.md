@@ -8,7 +8,7 @@
 
 #### (2) Compliance with standard
 
-&emsp;After the standard takes effect, it shall be unlawful for any manufacturer or distributor to import into or distribute in commerce in the United States any new assembled or unassembled all-terrain vehicle unless—
+&emsp;After the standard takes effect, it shall be unlawful for any manufacturer or distributorto import into or distribute in commerce in the United States any new assembled or unassembled all-terrain vehicle unless—
 
 &emsp;&emsp;(A) the all-terrain vehicle complies with each applicable provision of the standard;
 

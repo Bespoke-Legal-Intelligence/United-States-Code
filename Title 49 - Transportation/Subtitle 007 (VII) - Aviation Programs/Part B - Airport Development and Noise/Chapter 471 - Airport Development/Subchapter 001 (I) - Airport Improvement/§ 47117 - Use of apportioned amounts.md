@@ -14,7 +14,7 @@ Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport 
 
 (2)
 
-Waiver.—A sponsor of an airport may make an agreement with the Secretary of Transportation waiving the sponsor's claim to any part of the amount apportioned for the airport under sections 47114(c) and 47114(d)(3)(A) if the Secretary agrees to make the waived amount available for a grant for another public-use airport in the same State or geographical area as the airport, as determined by the Secretary.
+Waiver.—A sponsor of an airport may make an agreement with the Secretary of Transportation waiving the sponsor's claim to any part of the amount apportioned for the airport under sections 47114(c) and 47114(d)(3)(A) if the Secretary agrees to make the waived amount available for a grant for another public-use airport in the same State or geographicalarea as the airport, as determined by the Secretary.
 
 (d)
 
@@ -28,7 +28,7 @@ State Use.—An amount apportioned to a State under—
 
 Special Apportionment Categories.—(1) The Secretary shall use amounts available to the discretionary fund under section 47115 of this title for each fiscal year as follows:
 
-&emsp;(A) At least 35 percent for grants for airport noise compatibility planning under section 47505(a)(2), for carrying out noise compatibility programs under section 47504(c), for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.). The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 35 percent requirement is being met in that fiscal year.
+&emsp;(A) At least 35 percent, but not more than $300,000,000, for grants for airport noise compatibility planning under section 47505(a)(2), for carrying out noise compatibility programs under section 47504(c), for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.), and for water quality mitigation projects to comply with the Act of June 30, 1948 (33 U.S.C. 1251 et seq.), approved in an environmental record of decision for an airport development project under this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not the requirements of the preceding sentence are being met in that fiscal year.
 
 &emsp;(B) at <sup>1</sup> least 4 percent to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
@@ -98,7 +98,7 @@ Limitations on obligations apply.—Nothing in this subsection shall be construe
 
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129, title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114; Pub. L. 108–176, title I, §§149(c), 150, 151, Dec. 12, 2003, 117 Stat. 2505, 2506.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129, title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114; Pub. L. 108–176, title I, §§149(c), 150, 151, Dec. 12, 2003, 117 Stat. 2505, 2506; Pub. L. 112–95, title I, §145, Feb. 14, 2012, 126 Stat. 30.)
 
 Historical and Revision Notes
 
@@ -186,7 +186,7 @@ In subsection (e)(1), the words “The Secretary shall use . . . (A) . . . f
 
 In subsection (e)(2), the words “for each fiscal year” are omitted as surplus.
 
-In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “forwhich amounts are” are added for clarity and consistency in this chapter.
+In subsection (e)(3), the words “an amount required to be used for grants under paragraph (1) of this subsection cannot be used” are substituted for “he will not be able to distribute the amount of funds required to be distributed under paragraph (1), (2), (3), or (4) of this subsection” for consistency. The words “submitted in compliance with this chapter” are omitted as surplus. The words “cannot be used” are substituted for “will not be distributed” for consistency. The words “for which amounts are” are added for clarity and consistency in this chapter.
 
 Subsection (f) is substituted for 49 App.:2206(b)(5)(D) for clarity and consistency in the revised title.
 
@@ -222,9 +222,13 @@ This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:471
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+The Act of June 30, 1948, referred to in subsec. (e)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(1)(A). Pub. L. 112–95 substituted “At least 35 percent, but not more than $300,000,000,” for “At least 35 percent”, “et seq.), and for water quality mitigation projects to comply with the Act of June 30, 1948 (33 U.S.C. 1251 et seq.), approved in an environmental record of decision for an airport development project under this title.” for “et seq.).”, and “the requirements of the preceding sentence are” for “such 35 percent requirement is” and struck out “and” after “47141,”.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–176, §150, substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
 

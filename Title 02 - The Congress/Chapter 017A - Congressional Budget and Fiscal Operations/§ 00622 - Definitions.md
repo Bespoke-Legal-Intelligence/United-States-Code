@@ -128,7 +128,7 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 #### Effective Date of 1990 Amendment
 
-Section 13211(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal year 1992 and subsequent fiscal years.”
+Pub. L. 101–508, title XIII, §13211(b), Nov. 5, 1990, 104 Stat. 1388–620, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal year 1992 and subsequent fiscal years.”
 
 #### Effective Date of 1985 Amendment
 

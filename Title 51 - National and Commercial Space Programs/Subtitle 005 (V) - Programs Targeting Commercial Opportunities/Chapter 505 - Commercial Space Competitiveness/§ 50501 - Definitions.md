@@ -104,5 +104,5 @@ Pub. L. 102–588, title V, §501, Nov. 4, 1992, 106 Stat. 5122, provided that: 
 
 &emsp;“(10) the provision of compensation to commercial providers of space goods and services for termination of contracts at the convenience of the Government assists in enabling the private sector to invest in space activities which are initially dependent on Government purchases.”
 
-\[For definition of terms used in section 501 of Pub. L. 102–588, set out above, see section 502 of Pub. L. 102–588, title V, Nov. 4, 1992, 106 Stat. 5123, which was classified to former section 5802 of Title 15, Commerce and Trade, and was repealed and reenacted as this section by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444.\]
+\[For definition of terms used in section 501 of Pub. L. 102–588, set out above, see section 502 of Pub. L. 102–588, title V, Nov. 4, 1992, 106 Stat. 5123, which was classified to former section 5802 of Title 15, Commerce and Trade,and was repealed and reenacted as this section by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444.\]
 

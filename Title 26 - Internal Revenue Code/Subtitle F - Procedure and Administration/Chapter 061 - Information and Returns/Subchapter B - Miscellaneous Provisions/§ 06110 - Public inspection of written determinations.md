@@ -50,7 +50,7 @@ Before making any written determination or background file document open or avai
 
 &emsp;(7) geological and geophysical information and data, including maps, concerning wells.
 
-> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in a proceeding under subsection (f)(3)) to make such deletions.
+> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in aproceeding under subsection (f)(3)) to make such deletions.
 
 #### (d) Procedures with regard to third party contacts
 
@@ -292,7 +292,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;Unless the Secretary otherwise establishes by regulations, a written determination may not be used or cited as precedent. The preceding sentence shall not apply to change the precedential status (if any) of written determinations with regard to taxes imposed by subtitle D of this title.
 
-#### (<i>l</i>) Section not to apply
+#### (l) Section not to apply
 
 This section shall not apply to—
 
@@ -332,7 +332,7 @@ A prior section 6110 was renumbered 6116 of this title.
 
 Subsec. (g)(5)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(e)\], inserted “, any Chief Counsel advice,” after “technical advice memorandum”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(2)\], inserted “or 6105” after “6104”.
+Subsec. (l)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(2)\], inserted “or 6105” after “6104”.
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–170 inserted at end “Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.”
 
@@ -346,11 +346,11 @@ Subsec. (j). Pub. L. 105–206, §3509(b), redesignated subsec. (i) as (j). Form
 
 Subsec. (j)(1)(B), (2). Pub. L. 105–206, §3509(c)(2), substituted “subsection (g) or (i)(4)(B)” for “subsection (g)”.
 
-Subsec. (k). Pub. L. 105–206, §3509(b), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 105–206, §3509(b), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
 Subsec. (k)(1)(B). Pub. L. 105–206, §3509(c)(3), substituted “subsection (c)(1) or (i)(3)” for “subsection (c)”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 105–206, §3509(b), redesignated subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+Subsecs. (l), (m). Pub. L. 105–206, §3509(b), redesignated subsecs. (k) and (l) as (l) and (m), respectively.
 
 <b>1992</b>—Subsec. (i)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -410,9 +410,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date
 
-Section 1201(e) of Pub. L. 94–455 provided that: “Except as otherwise provided in this section \[enacting this section and provisions set out below\], the amendments made by this section shall take effect on November 1, 1976.”
+Pub. L. 94–455, title XII, §1201(e), Oct. 4, 1976, 90 Stat. 1667, provided that: “Except as otherwise provided in this section \[enacting this section and provisions set out below\], the amendments made by this section shall take effect on November 1, 1976.”
 
 #### Pending Requests
 
-Section 1201(b) of Pub. L. 94–455 provided that: “Any written determination or background file document which is the subject of a judicial proceeding pursuant to section 552 of title 5, United States Code, commenced before January 1, 1976, shall not be treated as a written determination subject to subsection (h)(1) \[subsec. (h)(1) of this section\], but shall be available to the complainant along with the background file document, if requested, as soon as practicable after July 1, 1976.”
+Pub. L. 94–455, title XII, §1201(b), Oct. 4, 1976, 90 Stat. 1667, provided that: “Any written determination or background file document which is the subject of a judicial proceeding pursuant to section 552 of title 5, United States Code, commenced before January 1, 1976, shall not be treated as a written determination subject to subsection (h)(1) \[subsec. (h)(1) of this section\], but shall be available to the complainant along with the background file document, if requested, as soon as practicable after July 1, 1976.”
 

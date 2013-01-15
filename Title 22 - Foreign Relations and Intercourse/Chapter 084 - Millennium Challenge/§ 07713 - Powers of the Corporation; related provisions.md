@@ -10,7 +10,7 @@ The Corporation—
 
 &emsp;(3) may make and perform such contracts, grants, and other agreements with any person or government however designated and wherever situated, as may be necessary for carrying out the functions of the Corporation;
 
-&emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid, including expenses for representation;
+&emsp;(4) may determine and prescribe the manner in which its obligations shall be incurred andits expenses allowed and paid, including expenses for representation;
 
 &emsp;(5) may lease, purchase, or otherwise acquire, improve, and use such real property wherever situated, as may be necessary for carrying out the functions of the Corporation;
 

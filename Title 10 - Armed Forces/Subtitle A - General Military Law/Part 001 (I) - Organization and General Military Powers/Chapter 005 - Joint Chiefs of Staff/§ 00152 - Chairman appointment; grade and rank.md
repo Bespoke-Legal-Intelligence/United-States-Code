@@ -10,7 +10,7 @@ Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of St
 
 (b)
 
-Requirement for Appointment.—(1) The President may appoint an officer as Chairman of the Joint Chiefs of Staff only if the officer has served as—
+Requirement for Appointment.—(1) The President may appoint an officer as Chairman ofthe Joint Chiefs of Staff only if the officer has served as—
 
 &emsp;(A) the Vice Chairman of the Joint Chiefs of Staff;
 

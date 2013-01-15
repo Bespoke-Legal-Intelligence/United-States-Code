@@ -118,7 +118,7 @@ Par. (24). Pub. L. 100–399, §401(d)(8), added par. (24).
 
 #### Effective Date of 1996 Amendment
 
-Section 302 of Pub. L. 104–105 provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1996 Amendment note set out under section 2001 of this title\] and the amendments made by this Act shall become effective on the date of enactment \[Feb. 10, 1996\].”
+Pub. L. 104–105, title III, §302, Feb. 10, 1996, 110 Stat. 185, provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1996 Amendment note set out under section 2001 of this title\] and the amendments made by this Act shall become effective on the date of enactment \[Feb. 10, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

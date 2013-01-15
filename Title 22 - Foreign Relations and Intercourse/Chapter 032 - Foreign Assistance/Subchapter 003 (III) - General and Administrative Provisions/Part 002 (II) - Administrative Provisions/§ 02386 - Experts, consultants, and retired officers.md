@@ -42,7 +42,7 @@ Pub. L. 88–633, §302(b)(2), substituted “section 101(3) of Title 37” for 
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
+Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see Pub. L. 88–448, title IV, §403(a), Aug. 19, 1964, 78 Stat. 496.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -66,7 +66,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(iv) technological adaptability;
 
-&emsp;&emsp;&emsp;(v) the demonstrated capacity of at least 1 university to replicate lessons learnedamong nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
+&emsp;&emsp;&emsp;(v) the demonstrated capacity of at least 1 university to replicate lessons learned among nearby or sister universities, preferably by participation in groups or consortia that promote sustainability;
 
 &emsp;&emsp;&emsp;(vi) the demonstrated capacity of at least 1 university to have officially-adopted, institution-wide “high-performance green building” guidelines for all campus building projects; and
 

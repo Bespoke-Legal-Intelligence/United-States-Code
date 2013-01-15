@@ -64,6 +64,20 @@
 
 &emsp;&emsp;The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
 
+#### (E) Periodic reaccreditation
+
+#### (i) Period
+
+&emsp;&emsp;&emsp;Subject to suspension or withdrawal under subparagraph (B), any accreditation under this section shall be valid for a period of 3 years after its issuance.
+
+#### (ii) Response to reaccreditation request
+
+&emsp;&emsp;&emsp;Upon the submission of a request by an accredited person for reaccreditation under this section, the Secretary shall approve or deny such request not later than 60 days after receipt of the request.
+
+#### (iii) Criteria
+
+&emsp;&emsp;&emsp;Not later than 120 days after July 9, 2012, the Secretary shall establish and publish in the Federal Register criteria to reaccredit or deny reaccreditation to persons under this section. The reaccreditation of persons under this section shall specify the particular activities under subsection (a), and the devices, for which such persons are reaccredited.
+
 #### (3) Qualifications
 
 &emsp;An accredited person shall, at a minimum, meet the following requirements:
@@ -98,7 +112,7 @@
 
 #### (c) Duration
 
-The authority provided by this section terminates October 1, 2012.
+The authority provided by this section terminates October 1, 2017.
 
 #### (d) Report
 
@@ -126,9 +140,13 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(E). Pub. L. 112–144, §611(a), added subpar. (E).
+
+Subsec. (c). Pub. L. 112–144, §611(b), substituted “October 1, 2017” for “October 1, 2012”.
 
 <b>2009</b>—Subsec. (b)(2)(D). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 393(g) of this title.
 
@@ -158,7 +176,7 @@ Comptroller general.—
 
 &emsp;“(A)
 
-Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee onHealth, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
+Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
 
 &emsp;“(B)
 

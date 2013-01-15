@@ -10,7 +10,7 @@ If a fiduciary (not including a fiduciary in respect of the estate of a nonresid
 
 #### (c) Special lien under section 6324A
 
-For purposes of the second sentence of subsection (a) and the last sentence of subsection\(b), an agreement which meets the requirements of section 6324A (relating to special lien for estate tax deferred under section 6166) shall be treated as the furnishing of bond with respect to the amount for which the time for payment has been extended under section 6166.
+For purposes of the second sentence of subsection (a) and the last sentence of subsection (b), an agreement which meets the requirements of section 6324A (relating to special lien for estate tax deferred under section 6166) shall be treated as the furnishing of bond with respect to the amount for which the time for payment has been extended under section 6166.
 
 #### (d) Good faith reliance on gift tax returns
 
@@ -42,11 +42,11 @@ Subsec. (b). Pub. L. 91–614, §101(d)(1)(D), added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1)of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 702(p)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(p)(2), Nov. 6, 1978, 92 Stat. 2937, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
@@ -58,5 +58,5 @@ Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of dec
 
 Amendment by section 101(d)(1) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
-Section 101(f) of Pub. L. 91–614 provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
+Pub. L. 91–614, title I, §101(f), Dec. 31, 1970, 84 Stat. 1838, provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 

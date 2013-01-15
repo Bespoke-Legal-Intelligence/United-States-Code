@@ -32,7 +32,7 @@ Subsecs. (c), (d). Act Feb. 28, 1948, added subsec. (c) and redesignated former 
 
 #### Effective Date of 1979 Amendment
 
-Section 314 of Pub. L. 96–76 provided that: “The amendments made by sections 303, 304, 305, 306, 307, and 313 \[amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979.”
+Pub. L. 96–76, title III, §314, Sept. 29, 1979, 93 Stat. 587, provided that: “The amendments made by sections 303, 304, 305, 306, 307, and 313 \[amending this section, sections 207, 209, 210b, and 211 of this title, and sections 201, 415, and 1006 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on October 1, 1979.”
 
 #### Transfer of Functions
 

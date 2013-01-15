@@ -30,7 +30,7 @@ Funds appropriated under subsection (a) of this section shall remain available u
 
 #### Effective Date of 1987 Amendment
 
-Section 2 of Pub. L. 100–134 provided that:
+Pub. L. 100–134, §2, Oct. 16, 1987, 101 Stat. 810, provided that:
 
 “(a)
 

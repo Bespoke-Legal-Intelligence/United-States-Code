@@ -56,7 +56,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (3) Reports
 
-&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data andrecords required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
 #### (f) Caregiver allotment
 

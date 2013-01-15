@@ -18,7 +18,7 @@
 - [&sect; 04631 - Federal share of costs](%C2%A7%2004631%20-%20Federal%20share%20of%20costs.md)
 - [&sect; 04632 - Administration; relocation assistance in programs receiving Federal financial assistance](%C2%A7%2004632%20-%20Administration%3B%20relocation%20assistance%20in%20programs%20receiving%20Federal%20financial%20assistance.md)
 - [&sect; 04633 - Duties of lead agency](%C2%A7%2004633%20-%20Duties%20of%20lead%20agency.md)
-- [&sect; 04634 - Repealed. Pub. L. 100&#8211;17, title IV, &sect;415, Apr. 2, 1987, 100 Stat. 255](%C2%A7%2004634%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20IV%2C%20%C2%A7415%2C%20Apr.%202%2C%201987%2C%20100%20Stat.%20255.md)
+- [&sect; 04634 - Agency coordination](%C2%A7%2004634%20-%20Agency%20coordination.md)
 - [&sect; 04635 - Planning and other preliminary expenses for additional housing](%C2%A7%2004635%20-%20Planning%20and%20other%20preliminary%20expenses%20for%20additional%20housing.md)
 - [&sect; 04636 - Payments not to be considered as income for revenue purposes or for eligibility for assistance under Social Security Act or other Federal&#8230;](%C2%A7%2004636%20-%20Payments%20not%20to%20be%20considered%20as%20income%20for%20revenue%20purposes%20or%20for%20eligibility%20for%20assistance%20under%20Social%20Security%20Act%20or%20other%20Federal%E2%80%A6.md)
 - [&sect; 04637 - Repealed. Pub. L. 100&#8211;17, title IV, &sect;415, Apr. 2, 1987, 101 Stat. 255](%C2%A7%2004637%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20IV%2C%20%C2%A7415%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20255.md)

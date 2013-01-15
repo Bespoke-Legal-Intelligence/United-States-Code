@@ -14,7 +14,7 @@ Annual appropriation for hispanic-serving agricultural colleges and universities
 
 &emsp;(A)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-servingagricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-serving agricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
 
 &emsp;(B)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
+In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) of this section during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as “multistate activities”).
 
 &emsp;(2)
 
@@ -234,7 +234,7 @@ Pub. L. 105–277, div. A, §101(a) \[title VII, §753(f)\], Oct. 21, 1998, 112 
 
 #### Effective Date of 1985 Amendment
 
-Section 1435(d) of Pub. L. 99–198 provided that: “This section and the amendments made by this section \[amending this section and section 342 of this title\] shall become effective on October 1, 1985.”
+Pub. L. 99–198, title XIV, §1435(d), Dec. 23, 1985, 99 Stat. 1558, provided that: “This section and the amendments made by this section \[amending this section and section 342 of this title\] shall become effective on October 1, 1985.”
 
 #### Effective Date of 1977 Amendment
 

@@ -6,7 +6,7 @@ In General.—The Secretary of Commerce shall encourage and promote the developm
 
 (b)
 
-Technical and Financial Assistance.—When the Secretary determines that a mobiletrade fair provides an economical and effective means of promoting export sales, the Secretary may provide to the operator of the fair—
+Technical and Financial Assistance.—When the Secretary determines that a mobile trade fair provides an economical and effective means of promoting export sales, the Secretary may provide to the operator of the fair—
 
 &emsp;(1) technical assistance and support; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse,there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
+Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
 
 #### (b) Life estate or other terminable interest
 
@@ -182,19 +182,19 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Section 7815(d)(1)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989.”
+Pub. L. 101–239, title VII, §7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989.”
 
 Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 5033(d)(2) of Pub. L. 100–647 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988.”
+Pub. L. 100–647, title V, §5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988.”
 
 Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 1879(n)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers made after December 31, 1985.”
+Pub. L. 99–514, title XVIII, §1879(n)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers made after December 31, 1985.”
 
 #### Effective Date of 1983 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see s
 
 #### Effective Date of 1976 Amendment
 
-Section 2002(d)(2) of Pub. L. 94–455 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to gifts made after December 31, 1976.”
+Pub. L. 94–455, title XX, §2002(d)(2), Oct. 4, 1976, 90 Stat. 1856, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to gifts made after December 31, 1976.”
 
 #### Effective Date of 1970 Amendment
 
@@ -218,11 +218,11 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Certain Transfers in October 1984
 
-Section 1879(n)(3) of Pub. L. 99–514 provided that: “An election under section 2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
+Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: “An election under section2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
 
 &emsp;“(A) was transferred during October 1984, and
 

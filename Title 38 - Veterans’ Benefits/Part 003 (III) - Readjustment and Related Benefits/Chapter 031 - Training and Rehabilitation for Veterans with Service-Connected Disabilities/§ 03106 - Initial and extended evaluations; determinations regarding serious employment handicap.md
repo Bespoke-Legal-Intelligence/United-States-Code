@@ -16,7 +16,7 @@
 
 (f) In connection with each period of extended evaluation of a veteran and each rehabilitation program for a veteran who is determined to have a serious employment handicap, the Secretary shall assign a Department of Veterans Affairs employee to be responsible for the management and followup of the provision of all services (including appropriate coordination of employment assistance under section 3117 of this title) and assistance under this chapter to such veteran.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1506; amended Pub. L. 99–576, title III, §333(b)(4), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3106 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(9), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(f)(1), Oct. 9, 1996, 110 Stat. 3324.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1506; amended Pub. L. 99–576, title III, §333(b)(4), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3106 and amendedPub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(9), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(f)(1), Oct. 9, 1996, 110 Stat. 3324.)
 
 #### Prior Provisions
 

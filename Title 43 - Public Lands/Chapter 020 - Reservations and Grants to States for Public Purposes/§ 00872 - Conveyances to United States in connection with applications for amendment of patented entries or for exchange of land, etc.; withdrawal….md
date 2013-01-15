@@ -6,7 +6,7 @@ Where a conveyance of land has been made or may hereafter be made to the United 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior under this section, with respect to execution of quitclaim deeds for lands conveyed to United States in connection with exchange transactions involving lands under jurisdiction of Secretary of Agriculture, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat.205, set out as a note under section 2201 of Title 7, Agriculture.
+Functions of Secretary of the Interior under this section, with respect to execution of quitclaim deeds for lands conveyed to United States in connection with exchange transactions involving lands under jurisdictionof Secretary of Agriculture, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a note under section 2201 of Title 7, Agriculture.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 

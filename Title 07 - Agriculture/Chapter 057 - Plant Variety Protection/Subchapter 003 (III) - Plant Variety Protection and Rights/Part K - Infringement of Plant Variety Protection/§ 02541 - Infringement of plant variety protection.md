@@ -106,5 +106,5 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 #### Effective Date of 1992 Amendment
 
-Section 4 of Pub. L. 102–560 provided that: “The amendments made by this Act \[enacting section 2570 of this title and section 296 of Title 35, Patents, and amending this section and section 271 of Title 35\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–560, §4, Oct. 28, 1992, 106 Stat. 4232, provided that: “The amendments made by this Act \[enacting section 2570 of this title and section 296 of Title 35, Patents, and amending this section and section 271 of Title 35\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
 

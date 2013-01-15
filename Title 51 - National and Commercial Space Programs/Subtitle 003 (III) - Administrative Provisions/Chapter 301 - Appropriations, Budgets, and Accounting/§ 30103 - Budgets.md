@@ -70,7 +70,7 @@ Information in Annual Budget Justification.—The Administration shall provide, 
 
 &emsp;&emsp;(C) the civil service full time equivalent assignments per headquarters office, and any division thereof, including the number of Senior Executive Service, noncareer, detailee, and contract personnel per office.
 
-&emsp;(4) Within 14 days of the submission of the budget to Congress an accompanying volume shall be provided to the Committees on Appropriations containing the following information for each center, facility managed by any center, and federally funded research and development center operated on behalf of the Administration:
+&emsp;(4) Within 14 days of the submission of the budget to Congress an accompanying volumeshall be provided to the Committees on Appropriations containing the following information for each center, facility managed by any center, and federally funded research and development center operated on behalf of the Administration:
 
 &emsp;&emsp;(A) The actual, current, proposed funding level, and estimated budgets for the next 5 fiscal years by directorate, theme, program, project, and activity.
 
@@ -124,7 +124,7 @@ Pub. L. 111–8, div. B, title III, (3d proviso in par. under heading “Cross A
 
 In subsection (a)(5), the source law's reference to “section 104” of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2910) is translated as “section 20144” of title 51. Section 104 of the National Aeronautics and Space Administration Authorization Act of 2005 amended the National Aeronautics and Space Act of 1958 (Public Law 85–568, 72 Stat. 426) by inserting a new section 314, which is restated as section 20144 of title 51.
 
-In subsection (b), in the matter before paragraph (1), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), in the matter before paragraph (1), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 In subsection (c), in the matter before paragraph (1), the words “For fiscal year 2009 and hereafter” are omitted as unnecessary.
 

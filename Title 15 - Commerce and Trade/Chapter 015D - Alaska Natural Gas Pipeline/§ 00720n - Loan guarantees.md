@@ -12,7 +12,7 @@
 
 (1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
 
-(2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
+(2) The Secretary may issue a Federal guarantee instrument under this section for a qualifiedinfrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
 (3) The Secretary shall not require as a condition of issuing a Federal guarantee instrument under this section any contractual commitment or other form of credit support of the sponsors (other than equity contribution commitments and completion guarantees), or any throughput or other guarantee from prospective shippers greater than such guarantees as shall be required by the project owners.
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (2) Eligible lender
 
-&emsp;The term “eligible lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued underthe Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), including—
+&emsp;The term “eligible lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of title 26) that is a qualified institutional buyer; and
 
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub.L. 108–199, §146(2), as amended by Pub. L. 108–447, §1
 
 Subsec. (b)(4). Pub. L. 108–447, §114(b), added par. (4).
 
-Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteedfor a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
 Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
 

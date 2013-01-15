@@ -40,7 +40,7 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–195 substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, orboth, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–195 substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.”
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–12, §1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
 
@@ -62,7 +62,7 @@ Pub. L. 95–384, §27, Sept. 26, 1978, 92 Stat. 746, which related to enforceme
 
 #### Suspension of Amendment Operation by President; Report to Congress
 
-Section 2 of Pub. L. 95–12 provided that:
+Pub. L. 95–12, §2, Mar. 18, 1977, 91 Stat. 23, provided that:
 
 “(a) Upon the enactment of this Act \[Mar. 18, 1977\], the President may suspend the operation of the amendments contained in this Act \[amending this section\] if he determines that such suspension would encourage meaningful negotiations and further the peaceful transfer of governing power from minority rule to majority rule in Southern Rhodesia. Such suspension shall remain in effect for such duration as deemed necessary by the President.
 
@@ -82,7 +82,7 @@ Ex. Ord. No. 11419, July 29, 1968, 33 F.R. 10837, which related to trade and oth
 
 Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relating to trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relating to trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
 
 1–101. (a) Subject to the provisions of this order, the following are hereby revoked with respect to transactions occurring after the effective date of this order:
 

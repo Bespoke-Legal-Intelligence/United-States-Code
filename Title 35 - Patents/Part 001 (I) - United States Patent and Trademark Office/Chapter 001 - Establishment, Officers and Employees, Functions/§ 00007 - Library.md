@@ -2,7 +2,7 @@
 
 The Director shall maintain a library of scientific and other works and periodicals, both foreign and domestic, in the Patent and Trademark Office to aid the officers in the discharge of their duties.
 
-(July 19, 1952, ch. 950, 66 Stat. 793, §8; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered§7 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 793, §8; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered §7 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Some change in language has been made. “Purchased” is changed to “maintain
 
 #### Prior Provisions
 
-A prior section 7, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 85–933, §2, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(b), Sept. 23, 1959, 73 Stat. 650; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §2, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 98–622, title II, §201(a), Nov. 8, 1984, 98 Stat. 3386, established the Board of Patent Appeals and Interferences, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4717(1), 4731\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
+A prior section 7, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 85–933, §2, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(b), Sept. 23, 1959, 73 Stat. 650; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §2, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 98–622, title II, §201(a), Nov. 8, 1984, 98 Stat. 3386, established the Board of Patent Appeals and Interferences, prior to repeal by Pub.L. 106–113, div. B, §1000(a)(9) \[title IV, §§4717(1), 4731\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
 
 #### Amendments
 

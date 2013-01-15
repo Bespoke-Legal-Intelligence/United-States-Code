@@ -4,7 +4,7 @@
 
 (2) The right to take possession and to enforce the other rights and remedies described in paragraph (1) shall be subject to section 362 if—
 
-&emsp;(A) before the date that is 60 days after the date of the order for relief under this chapter, the trustee, subject to the approval of the court, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
+&emsp;(A) before the date that is 60 days after the date of the order for relief under this chapter, the trustee, subject to the approval of the court, agrees to perform all obligations of thedebtor under such security agreement, lease, or conditional sale contract; and
 
 &emsp;(B) any default, other than a default of a kind specified in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
 

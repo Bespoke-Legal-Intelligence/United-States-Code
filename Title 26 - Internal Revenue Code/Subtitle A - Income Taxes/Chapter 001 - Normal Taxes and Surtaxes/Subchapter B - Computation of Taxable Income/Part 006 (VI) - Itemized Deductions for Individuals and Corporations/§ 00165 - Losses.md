@@ -170,7 +170,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) In general
 
-&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to providea deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
+&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
 
 #### (2) Definitions
 
@@ -186,7 +186,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Exceptions
 
-&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall not apply with respect to obligations held by any person if—
+&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall notapply with respect to obligations held by any person if—
 
 &emsp;&emsp;(A) such person holds such obligations in connection with a trade or business outside the United States,
 
@@ -208,7 +208,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 > any loss attributable to such disaster shall be treated as a loss which arises from a casualty and which is described in subsection (i).
 
-#### (<i>l</i>) Treatment of certain losses in insolvent financial institutions
+#### (l) Treatment of certain losses in insolvent financial institutions
 
 #### (1) In general
 
@@ -288,7 +288,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
 
 #### References in Text
 
@@ -322,13 +322,13 @@ Subsec. (g)(3)(A). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1)\], amen
 
 <b>1988</b>—Subsecs. (i)(1), (k). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-Subsec. (<i>l</i>)(5) to (7). Pub. L. 100–647 added pars. (5) and (6), redesignated former par. (6) as (7), and struck out former par. (5) which read as follows: “
+Subsec. (l)(5) to (7). Pub. L. 100–647 added pars. (5) and (6), redesignated former par. (6) as (7), and struck out former par. (5) which read as follows: “
 
 Election.—Any election by the taxpayer under this subsection may be revoked only with the consent of the Secretary and shall apply to all losses of the taxpayer on deposits in the institution with respect to which such election was made.”
 
 <b>1986</b>—Subsec. (h)(4)(E). Pub. L. 99–514, §1004(a), added subpar. (E).
 
-Subsecs. (<i>l</i>), (m). Pub. L. 99–514, §905(a), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+Subsecs. (l), (m). Pub. L. 99–514, §905(a), added subsec. (l) and redesignated former subsec. (l) as (m).
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–369, §711(c)(2)(A)(i), extended limitation to losses of property not connected with a transaction entered into for profit.
 
@@ -344,7 +344,7 @@ Pub. L. 98–369, §711(c)(1), amended par. (2) by redesignating subpar. (B) as 
 
 Subsec. (j)(3). Pub. L. 98–369, §42(a)(4), substituted “section 1287” for “subsection (d) of section 1232”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 98–369, §1051(a), added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §203(b), inserted “except as provided in subsection (h),” before “losses of property” and struck out provisions that a loss described in this paragraph would be allowed only to the extent that the amount of loss to such individual arising from each casualty, or from each theft, exceeded $100, that, for purposes of the $100 limitation, a husband and wife making a joint return under section 6013 for the taxable year in which the loss was allowed as a deduction would be treated as one individual, and that no loss described in this paragraph would be allowed if, at the time of filing the return, such loss had been claimed for estate tax purposes in the estate tax return.
 
@@ -408,17 +408,17 @@ Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(3)\], Dec. 21, 2000, 114 Stat
 
 #### Effective Date of 1997 Amendment
 
-Section 912(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §912(b), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 905(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1981, see section 905(c)(1) of Pub. L. 99–514, as amended, set out as a note under section 451 of this title.
 
-Section 1004(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1004(b), Oct. 22, 1986, 100 Stat. 2388, provided that: “The amendment made by this section \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -426,13 +426,13 @@ Amendment by section 42(a)(4) of Pub. L. 98–369 applicable to taxable years en
 
 Amendment by section 711(c)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Section 711(c)(2)(A)(v) of Pub. L. 98–369 provided that: “The amendments made by this subparagraph \[amending this section and sections 873, 931, and 1231 of this title\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(v), July 18, 1984, 98 Stat. 945, provided that: “The amendments made by this subparagraph \[amending this section and sections 873, 931, and 1231 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
-Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Government under the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
+Pub. L. 98–369, div. A, title X, §1051(b), July 18, 1984, 98 Stat. 1045, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Government under the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
+Pub. L. 97–248, title II, §203(c), Sept. 3, 1982, 96 Stat. 422, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
 
 Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
@@ -444,37 +444,37 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of Title 42, The Public Health and Welfare.
 
-#### Effective Date of 1972 Amendments
+#### Effective Date of 1972 Amendment
 
-Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
+Pub. L. 92–418, §2(c), Aug. 30, 1972, 86 Stat. 657, provided in part that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
-Section 2(b) of Pub. L. 92–336 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
+Pub. L. 92–336, §2(b), July 1, 1972, 86 Stat. 406, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
-#### Effective Date of 1971 Amendments
+#### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 91–687 provided that: “The amendments made by this Act \[amending this section\] shall apply with respect to taxable years beginning on or after January 1, 1970.”
+Pub. L. 91–687, §2, Jan. 12, 1971, 84 Stat. 2071, provided that: “The amendments made by this Act \[amending this section\] shall apply with respect to taxable years beginning on or after January 1, 1970.”
 
-Section 1(b)(1) of Pub. L. 91–677 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in respect of losses sustained in taxable years ending after December 31, 1958.”
+Pub. L. 91–677, §1(b)(1), Jan. 12, 1971, 84 Stat. 2061, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in respect of losses sustained in taxable years ending after December 31, 1958.”
 
 #### Effective Date of 1970 Amendment
 
-Section 304 of Pub. L. 91–606 provided that: “This Act \[enacting sections 4401 to 4485 of Title 42, The Public Health and Welfare, amending this section, sections 5064 and 5708 of this title, sections 1706e, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646 and 758 of Title 20, Education, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, section 1681 note of Title 42, repealing sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of Title 42, and section 1926 of Title 7, Agriculture, and enacting provisions set out as notes under section 4401 and section 4434 of Title 42\] shall take effect immediately upon its enactment \[Dec. 31, 1970\], except that sections 226(b), 237, 241, 252(a), and 254 \[sections 4436(b), 4456, 4460, 4482(a), and 4484 of Title 42, respectively\] shall take effect as of August 1, 1969, and sections 231, 232, and 233 \[sections 4451, 4452 of Title 42 and amendments to section 1820 \[now 3720\] of Title 38, respectively\] shall take effect as of April 1, 1970.”
+Pub. L. 91–606, title III, §304, Dec. 31, 1970, 84 Stat. 1760, provided that: “This Act \[enacting sections 4401 to 4485 of Title 42, The Public Health and Welfare, amending this section, sections 5064 and 5708 of this title, sections 1706e, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646 and 758 of Title 20, Education, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, section 1681 note of Title 42, repealing sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of Title 42, and section 1926 of Title 7, Agriculture, and enacting provisions set out as notes under section 4401 and section 4434 of Title 42\] shall take effect immediately upon its enactment \[Dec. 31, 1970\], except that sections 226(b), 237, 241, 252(a), and 254 \[sections 4436(b), 4456, 4460, 4482(a), and 4484 of Title 42, respectively\] shall take effect as of August 1, 1969, and sections 231, 232, and 233 \[sections 4451, 4452 of Title 42 and amendments to section 1820 \[now 3720\] of Title 38, respectively\] shall take effect as of April 1, 1970.”
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
-Section 208(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to losses sustained after December 31, 1963, in taxable years ending after such date.”
+Pub. L. 88–272, title II, §208(b), Feb. 26, 1964, 78 Stat. 43, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to losses sustained after December 31, 1963, in taxable years ending after such date.”
 
-Section 3(b) of Pub. L. 88–348 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in respect of losses sustained in taxable years ending after December 31, 1958.”
+Pub. L. 88–348, §3(b), June 30, 1964, 78 Stat. 238, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in respect of losses sustained in taxable years ending after December 31, 1958.”
 
 #### Effective Date of 1962 Amendment
 
-Section 2(b) of Pub. L. 87–426 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to any disaster occurring after December 31, 1961.”
+Pub. L. 87–426, §2(b), Mar. 31, 1962, 76 Stat. 51, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to any disaster occurring after December 31, 1961.”
 
 #### Effective Date of 1958 Amendment
 
-Section 1(c) of title I of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as otherwise expressly provided—
+Pub. L. 85–866, title I, §1(c), Sept. 2, 1958, 72 Stat. 1606, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except as otherwise expressly provided—
 
-&emsp;“(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234,1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
+&emsp;“(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234, 1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
 
 &emsp;“(2) amendments made by this title to subtitle F of such Code (relating to procedure and administration) \[enacting sections 7513 and 7514 of this title and amending sections 6013, 6015, 6212, 6325, 6338, 6339, 6501, 6504, 6511, 6601, 6652, 6653, 6851, 6871, 7213, 7324, 7325, and 7422 of this title\] shall take effect as of August 17, 1954, and such subtitle, as so amended, shall apply as provided in section 7851 of the Internal Revenue Code of 1986”.
 
@@ -482,7 +482,7 @@ Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to tax
 
 #### Transitional Rule for 1984 Amendment
 
-Section 711(c)(2)(B) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of taxable years beginning before January 1, 1984—
+Pub. L. 98–369, div. A, title VII, §711(c)(2)(B), July 18, 1984, 98 Stat. 945, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of taxable years beginning before January 1, 1984—
 
 &emsp;“(i) For purposes of paragraph (1)(B) of section 165(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], adjusted gross income shall be determined without regard to the application of section 1231 of such Code to any gain or loss from an involuntary conversion of property described in subsection (c)(3) of section 165 of such Code arising from fire, storm, shipwreck, or other casualty or from theft.
 
@@ -522,7 +522,7 @@ Exceptions.—The provisions of this section shall not apply to any assistance t
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
-Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
+Pub. L. 100–647, title I, §1009(d)(4), Nov. 10, 1988, 102 Stat. 3450, provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
 
 &emsp;“(A) credit or refund of any such overpayment may nevertheless be made if claim therefore \[sic\] is filed before the date 1 year after such date of enactment, and
 
@@ -530,7 +530,7 @@ Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the 
 
 #### Deduction for Bus and Freight Forwarder Operating Authority
 
-Section 243 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1002(j), Nov. 10, 1988, 102 Stat. 3371, provided that:
+Pub. L. 99–514, title II, §243, Oct. 22, 1986, 100 Stat. 2182, as amended by Pub. L. 100–647, title I, §1002(j), Nov. 10, 1988, 102 Stat. 3371, provided that:
 
 “(a)
 
@@ -672,11 +672,11 @@ Section 381 of the internal revenue code of 1986 to apply.—For purposes of sec
 
 Effective Date.—The provisions of this section shall apply to taxable years ending after June 30, 1980.”
 
-\[Section 517(b) of Pub. L. 97–424 provided that: “The amendment made by subsection (a) \[adding subsec. (c)(2)(B) of this note\] shall apply to taxable years ending after July 30, 1980.”\]
+\[Pub. L. 97–424, title V, §517(b), Jan. 6, 1983, 96 Stat. 2184, provided that: “The amendment made by subsection (a) \[adding subsec. (c)(2)(B) of this note\] shall apply to taxable years ending after July 30, 1980.”\]
 
 #### Tax Treatment of Certain 1972 Disaster Loans
 
-Section 2103 of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XXI, §2103, Oct. 4, 1976, 90 Stat. 1900, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -720,7 +720,7 @@ Statute of Limitations.—If refund or credit of any overpayment of income tax r
 
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 
-Section 1(b)(2) of Pub. L. 91–677 authorized refund or credit of overpayment attributable to the amendments made by subsec. (a) to subsec. (i) of this section if claim therefor was filed after Jan. 12, 1971, and before July 1, 1971, without interest for any period before Jan. 1, 1972.
+Pub. L. 91–677, §1(b)(2), Jan. 12, 1971, 84 Stat. 2061, authorized refund or credit of overpayment attributable to the amendments made by subsec. (a) to subsec. (i) of this section if claim therefor was filed after Jan. 12, 1971, and before July 1, 1971, without interest for any period before Jan. 1, 1972.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

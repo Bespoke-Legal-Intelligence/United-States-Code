@@ -6,7 +6,7 @@ For purposes of carrying out the provisions of this subchapter for salmon enhanc
 
 #### (b) Steelhead enhancement
 
-In addition to the amounts authorized under subsection (a) of this section, there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
+In addition to the amounts authorized under subsection (a) of this section, there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservationarea; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
 
 #### (c) Limitation
 

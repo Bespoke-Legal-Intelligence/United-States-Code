@@ -52,9 +52,9 @@ Amendment by Pub. L. 86–3 effective on admission of Hawaii into the Union, see
 
 #### Tenure and Salary Rights of Judges in Puerto Rico in Office on September 12, 1966
 
-Section 4 of Pub. L. 89–571 provided that: “The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue to receive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\].”
+Pub. L. 89–571, §4, Sept. 12, 1966, 80 Stat. 764, provided that: “The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue to receive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\].”
 
 #### Applicability of Orders Under 1954 Amendment
 
-Section 2(b)(13)(b) of act Feb. 10, 1954, provided: “Orders made by the judicial councils of the circuits under the second sentence of subsection (c) of section 134 of Title 28, as amended by this section, determining that a specified district judge shall maintain his abode at or near a place or within an area which the council has theretofore designated for the abode of a district judge under the first sentence of such subsection, shall be applicable only to district judges appointed after the enactment of this act \[Feb. 10, 1954\].”
+Act Feb. 10, 1954, ch. 6, §2(b)(13)(b), 68 Stat. 12, provided: “Orders made by the judicial councils of the circuits under the second sentence of subsection (c) of section 134 of Title 28, as amended by this section, determining that a specified district judge shall maintain his abode at or near a place or within an area which the council has theretofore designated for the abode of a district judge under the first sentence of such subsection, shall be applicable only to district judges appointed after the enactment of this act \[Feb. 10, 1954\].”
 

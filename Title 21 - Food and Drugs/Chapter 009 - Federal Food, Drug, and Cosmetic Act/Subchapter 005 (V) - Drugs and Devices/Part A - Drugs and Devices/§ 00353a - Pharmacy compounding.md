@@ -94,7 +94,11 @@ As used in this section, the term “compounding” does not include mixing, rec
 
 (June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328.)
 
+#### Constitutionality
+
+For information regarding constitutionality of section 503A of act June 25, 1938, as added by section 127(a) of Pub. L. 105–115, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Effective Date
 
-Section 127(b) of Pub. L. 105–115 provided that: “Section 503A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353a\], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Nov. 21, 1997\].”
+Pub. L. 105–115, title I, §127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: “Section 503A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353a\], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Nov. 21, 1997\].”
 

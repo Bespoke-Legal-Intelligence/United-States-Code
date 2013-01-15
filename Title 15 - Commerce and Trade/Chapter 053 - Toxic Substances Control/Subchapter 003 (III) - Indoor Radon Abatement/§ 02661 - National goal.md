@@ -32,7 +32,7 @@ Applicability.—The housing covered by this section is—
 
 &emsp;&emsp;“(D) housing assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; and
 
-&emsp;&emsp;“(E) housing assisted under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\].
+&emsp;&emsp;“(E) housing assisted under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\].
 
 &emsp;“(2)
 

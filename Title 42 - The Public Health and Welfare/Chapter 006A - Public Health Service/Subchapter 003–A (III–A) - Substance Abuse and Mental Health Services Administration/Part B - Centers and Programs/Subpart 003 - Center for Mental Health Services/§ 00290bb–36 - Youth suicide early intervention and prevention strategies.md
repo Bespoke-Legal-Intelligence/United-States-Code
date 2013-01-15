@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall award grants or cooperative agreements to eligible entities to—
+The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, shall award grants or cooperative agreements to eligible entities to—
 
 &emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
 
@@ -134,9 +134,9 @@ States and entities receiving funding under this section and section 290bb–36a
 
 #### (k) Relation to education provisions
 
-Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
+Nothing in this section or section 290bb–36a of this title shall be construed to supersede section1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section:
 

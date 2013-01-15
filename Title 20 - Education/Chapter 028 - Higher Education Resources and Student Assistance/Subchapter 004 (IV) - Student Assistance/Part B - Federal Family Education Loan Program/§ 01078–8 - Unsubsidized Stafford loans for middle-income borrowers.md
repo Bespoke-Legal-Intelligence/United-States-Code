@@ -8,7 +8,7 @@ It is the purpose of this section to authorize insured loans under this part tha
 
 Prior to July 1, 2010, any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Federal Stafford Loan for which the first disbursement is made before such date if the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, has—
 
-&emsp;(1) determined and documented the student's need for the loan based on the student's estimated cost of attendance (as determined under section 1087<i>ll</i> of this title) and the student's estimated financial assistance, including a loan which qualifies for interest subsidy payments under section 1078 of this title; and
+&emsp;(1) determined and documented the student's need for the loan based on the student's estimated cost of attendance (as determined under section 1087ll of this title) and the student's estimated financial assistance, including a loan which qualifies for interest subsidy payments under section 1078 of this title; and
 
 &emsp;(2) provided the lender a statement—
 
@@ -96,7 +96,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (2) Capitalization of interest
 
-&emsp;(A) Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of thistitle shall, if agreed upon by the borrower and the lender—
+&emsp;(A) Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
 
 &emsp;&emsp;(i) be paid monthly or quarterly; or
 
@@ -136,7 +136,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (7) Qualification for forbearance
 
-&emsp;A lender may grant the borrower of a loan under this section a forbearance for a period not to exceed 60 days if the lender reasonably determines that such a forbearance from collection activity is warranted following a borrower's request for forbearance, deferment, or a change in repayment plan, or a request to consolidate loans in order to collect or process appropriate supporting documentation related to the request. During any such period, interest on the loan shall accrue but not be capitalized.
+&emsp;A lender may grant the borrower of a loan under this section a forbearance for a period not to exceed 60 days if the lender reasonably determines that such a forbearance from collection activity is warranted following a borrower's request for forbearance, deferment, or a change in repayment plan, or a request to consolidate loans in order to collect or process appropriate supporting documentation relatedto the request. During any such period, interest on the loan shall accrue but not be capitalized.
 
 #### (f) Repealed. Pub. L. 105–244, title IV, §423(f), Oct. 7, 1998, 112 Stat. 1698
 
@@ -164,7 +164,7 @@ Subsec. (h). Pub. L. 111–152, §2207(3), inserted “and that are first disbur
 
 <b>2009</b>—Subsec. (d)(2). Pub. L. 111–39, §402(f)(5)(A), amended heading generally, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §428(a)(1)(A). See 2008 Amendment note below.
 
-Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, resulting in text identical to thatafter execution of the amendment by Pub. L. 105–244, §423(d). See 1998 Amendment note below.
+Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §423(d). See 1998 Amendment note below.
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–227 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to loan limits.
 
@@ -184,7 +184,7 @@ Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end “Effective for l
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
-&emsp;“(1) sets forth such student's estimated cost of attendance (as determined under section 1087<i>ll</i> of this title);
+&emsp;“(1) sets forth such student's estimated cost of attendance (as determined under section 1087ll of this title);
 
 &emsp;“(2) sets forth such student's estimated financial assistance, including a loan which qualifies for subsidy payments under section 1078 of this title; and
 
@@ -242,11 +242,11 @@ Subsec. (f)(4). Pub. L. 103–66, §4102(b)(1)(F), in heading substituted “ori
 
 Subsec. (f)(5). Pub. L. 103–66, §4102(b)(1)(G), inserted “origination fee and” in heading and in text substituted “do not exceed the combined origination fee under this subsection and the insurance premium under subsection (h) of this section, the Secretary is directed to lower the origination fee and insurance premium accordingly” for “do not exceed the 6.5 percent insurance premium, the Secretary is directed to lower the insurance premium accordingly”.
 
-Subsec. (h). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
+Subsec. (h). Pub. L. 103–208, §2(c)(45), redesignated subsec. (l) as (h). See Codification note above.
 
-Subsec. (<i>l</i>). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
+Subsec. (l). Pub. L. 103–208, §2(c)(45), redesignated subsec. (l) as (h). See Codification note above.
 
-Pub. L. 103–66, §4102(b)(2), added subsec. (<i>l</i>).
+Pub. L. 103–66, §4102(b)(2), added subsec. (l).
 
 #### Effective Date of 2009 Amendment
 
@@ -270,13 +270,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1996 Amendment
 
-Section 101(d) \[title V, §514(b)\] of Pub. L. 104–134 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for loans made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1996.”
+Pub. L. 104–134, title I, §101(d) \[title V, §514(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for loans made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1996.”
 
 #### Effective Date of 1993 Amendments
 
 Amendment by section 2(c)(42)–(43)(A), (44), (45) of Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, and amendment by section 2(c)(43)(B) of Pub. L. 103–208 effective on and after Apr. 1, 1994, see section 5(a), (b)(5) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
-Section 4047(d) of Pub. L. 103–66 provided that: “Except as otherwise provided herein \[see section 4047(c) of Pub. L. 103–66, set out below\], the amendments made by this section \[amending this section and repealing section 1078–1 of this title\] shall take effect on July 1, 1994.”
+Pub. L. 103–66, title IV, §4047(d), Aug. 10, 1993, 107 Stat. 364, provided that: “Except as otherwise provided herein \[see section 4047(c) of Pub. L. 103–66, set out below\], the amendments made by this section \[amending this section and repealing section 1078–1 of this title\] shall take effect on July 1, 1994.”
 
 Amendment by section 4102(b) of Pub. L. 103–66 effective July 1, 1994, see section 4102(d) of Pub. L. 103–66, set out as a note under section 1078 of this title.
 
@@ -290,5 +290,5 @@ Pub. L. 110–227, §2(b), May 7, 2008, 122 Stat. 742, provided that: “Loan li
 
 #### Continuing Applicability of Terms, Conditions, and Benefits of Loans
 
-Section 4047(c) of Pub. L. 103–66 provided that: “Notwithstanding the amendments made by this section \[amending this section and repealing section 1078–1 of this section\], with respect to loans provided under sections 428A \[former 20 U.S.C. 1078–1\] and 428H of the Act \[20 U.S.C. 1078–8\] (as such sections existed on the date preceding the date of enactment of this Act \[Aug. 10, 1993\]) the terms, conditions and benefits applicable to such loans under such sections shall continue to apply to such loans after the date of enactment of this Act.”
+Pub. L. 103–66, title IV, §4047(c), Aug. 10, 1993, 107 Stat. 364, provided that: “Notwithstanding the amendments made by this section \[amending this section and repealing section 1078–1 of this section\], with respect to loans provided under sections 428A \[former 20 U.S.C. 1078–1\] and 428H of the Act \[20 U.S.C. 1078–8\] (as such sections existed on the date preceding the date of enactment of this Act \[Aug. 10, 1993\]) the terms, conditions and benefits applicable to such loans under such sections shall continue to apply to such loans after the date of enactment of this Act.”
 

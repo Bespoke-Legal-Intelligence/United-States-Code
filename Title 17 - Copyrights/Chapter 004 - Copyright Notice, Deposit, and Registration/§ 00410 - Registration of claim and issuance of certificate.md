@@ -24,5 +24,5 @@ Section 410(d), which is in accord with the present practice of the Copyright Of
 
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 
-Section 109 of Pub. L. 94–553 provided that: “The registration of claims to copyright for which the required deposit, application, and fee were received in the Copyright Office before January 1, 1978, and the recordation of assignments of copyright or other instruments received in the Copyright Office before January 1, 1978, shall be made in accordance with title 17 as it existed on December 31, 1977.”
+Pub. L. 94–553, title I, §109, Oct. 19, 1976, 90 Stat. 2600, provided that: “The registration of claims to copyright for which the required deposit, application, and fee were received in the Copyright Office before January 1, 1978, and the recordation of assignments of copyright or other instruments received in the Copyright Office before January 1, 1978, shall be made in accordance with title 17 as it existed on December 31, 1977.”
 

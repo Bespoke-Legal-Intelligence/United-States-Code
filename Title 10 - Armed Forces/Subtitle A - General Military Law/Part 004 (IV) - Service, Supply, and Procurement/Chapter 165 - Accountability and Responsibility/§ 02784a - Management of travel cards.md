@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” means—
 
-&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and Disability Fund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
+&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and DisabilityFund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
 
 &emsp;&emsp;(B) in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 
@@ -64,15 +64,13 @@ Definitions.—In this section:
 
 Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 107–314, div. A, title X, §1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, §1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, §1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81 substituted “474” for “404”. See Codification note above.
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
 
@@ -81,6 +79,10 @@ Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amen
 Subsec. (a)(2), (3). Pub. L. 108–136, §1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
 Subsecs. (d) to (g). Pub. L. 108–136, §1009(b), (c)(1), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Transfer of Functions
 

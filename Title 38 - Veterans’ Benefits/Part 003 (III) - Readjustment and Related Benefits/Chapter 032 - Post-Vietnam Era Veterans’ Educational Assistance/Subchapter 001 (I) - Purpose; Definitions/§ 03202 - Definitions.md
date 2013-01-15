@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 (B) The requirement of discharge or release, prescribed in subparagraph (A), shall be waived in the case of any participant who has completed his or her first obligated period of active duty (which began after December 31, 1976) or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
-(C) For the purposes of subparagraphs (A) and (B), the term “active duty” does not include any period during which an individual (i) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (ii) served as a cadet or midshipman at one of the service academies, or (iii) served under the provisions of section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
+(C) For the purposes of subparagraphs (A) and (B), the term “active duty” does not include any period during which an individual (i) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (ii) served as a cadet or midshipman at one of the service academies, or (iii) served under the provisions of section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air NationalGuard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
 (D)(i) The requirement of ineligibility for educational assistance under chapter 34 of this title, prescribed in subparagraph (A), shall be waived in the case of a veteran described in division (ii) of this subparagraph who elects to receive benefits under this chapter instead of assistance under such chapter 34. A veteran who makes such an election shall be ineligible for assistance under such chapter. Such an election is irrevocable.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 100–689 effective Jan. 1, 1989, see section 108(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Section 802(d)(1) of Pub. L. 96–466 provided that: “The amendments made by section 401 \[amending this section\] shall take effect as of January 1, 1977.”
+Pub. L. 96–466, title VIII, §802(d)(1), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by section 401 \[amending this section\] shall take effect as of January 1, 1977.”
 
 #### Transfer of Functions
 

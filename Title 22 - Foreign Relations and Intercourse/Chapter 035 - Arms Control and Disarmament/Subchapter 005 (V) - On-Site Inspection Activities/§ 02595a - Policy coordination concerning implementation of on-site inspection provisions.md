@@ -10,7 +10,7 @@ The Secretary of Defense should provide to OSIA appropriate policy guidance form
 
 #### (c) Role of Secretary of State
 
-The Secretary of State should provide to the interagency mechanism described in subsection (a) of this section appropriate recommendations for policy guidance to OSIA consistent with sections 2551(3) and 2574(b) of this title.
+The Secretary of State should provide to the interagency mechanism described in subsection (a) of this section appropriate recommendationsfor policy guidance to OSIA consistent with sections 2551(3) and 2574(b) of this title.
 
 (Pub. L. 87–297, title V, §502, formerly §62, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855; renumbered §502 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(18), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
 

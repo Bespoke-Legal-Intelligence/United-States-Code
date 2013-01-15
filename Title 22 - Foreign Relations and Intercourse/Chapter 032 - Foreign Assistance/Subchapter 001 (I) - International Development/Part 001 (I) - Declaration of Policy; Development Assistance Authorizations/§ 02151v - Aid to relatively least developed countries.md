@@ -14,7 +14,7 @@ For the purpose of promoting economic growth in these countries, the President i
 
 &emsp;(A) may permit a relatively least developed country to place amounts, which would otherwise be paid to the United States as payments on principal or interest on liability incurred by that country under subchapter I of this chapter (or any predecessor legislation) into local currency accounts (in equivalent amounts of local currencies as determined by the official exchange rate for United States dollars) for use by the relatively least developed country, with the concurrence of the Administrator of the agency primarily responsible for administering subchapter I of this chapter, for activities which are consistent with section 2151–1 of this title; and
 
-&emsp;(B) may waive interest payments on liability incurred by a relatively least developed country under subchapter I of this chapter (or any predecessor legislation) if the President determines that that country would be unable touse for development purposes the equivalent amounts of local currencies which could be made available under subparagraph (A).
+&emsp;(B) may waive interest payments on liability incurred by a relatively least developed country under subchapter I of this chapter (or any predecessor legislation) if the President determines that that country would be unable to use for development purposes the equivalent amounts of local currencies which could be made available under subparagraph (A).
 
 (2) The aggregate amount of interest waived and interest and principal paid into local currency accounts under this subsection in any fiscal year may not exceed the amount approved for such purpose in an Act appropriating funds to carry out this part for that fiscal year, which amount may not exceed the amount authorized to be so approved by the annual authorizing legislation for development assistance programs. Amounts due and payable during fiscal year 1981 to the United States from relatively least developed countries on loans made under this subchapter (or any predecessor legislation) are authorized to be approved for use, in accordance with the provisions of paragraph (1) of this subsection, in an amount not to exceed $10,845,000.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date
 
-Section 112(a)(2) of Pub. L. 94–424 provided that: “The authority granted by section 124(c) of the Foreign Assistance Act of 1961 \[subsec. (c) of this section\] shall not become effective until October 1, 1979.”
+Pub. L. 95–424, title I, §112(a)(2), Oct. 6, 1978, 92 Stat. 949, provided that: “The authority granted by section 124(c) of the Foreign Assistance Act of 1961 \[subsec. (c) of this section\] shall not become effective until October 1, 1979.”
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 

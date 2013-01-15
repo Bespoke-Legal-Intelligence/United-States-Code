@@ -1,26 +1,30 @@
 ### §2460. Definition of depot-level maintenance and repair
 
-In this chapter, the term “depot-level maintenance and repair”—
+(a)
 
-&emsp;(1) means any action performed on materiel or software in the conduct of inspection, repair, overhaul, or the modification or rebuild of end-items, assemblies, subassemblies, and parts, that—
+In General.—In this chapter, the term “depot-level maintenance and repair” means (except as provided in subsection (b)) material maintenance or repair requiring the overhaul, upgrading, or rebuilding of parts, assemblies, or subassemblies, and the testing and reclamation of equipment as necessary, regardless of the source of funds for the maintenance or repair or the location at which the maintenance or repair is performed. The term includes (1) all aspects of software maintenance classified by the Department of Defense as of July 1, 1995, as depot-level maintenance and repair, and (2) interim contractor support or contractor logistics support (or any similar contractor support), to the extent that such support is for the performance of services described in the preceding sentence.
 
-&emsp;&emsp;(A) requires extensive industrial facilities, specialized tools and equipment, or uniquely experienced and trained personnel that are not available in lower echelon-level maintenance activities; and
+(b)
 
-&emsp;&emsp;(B) is a function and, as such, is independent of any location or funding source and may be performed in the public or private sectors (including the performance of interim contract support or contract logistic support arrangements); and
+Exceptions.—(1) The term does not include the procurement of major modifications or upgrades of weapon systems that are designed to improve program performance or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul. A major upgrade program covered by this exception could continue to be performed by private or public sector activities.
 
-&emsp;(2) includes—
+(2) The term also does not include the procurement of parts for safety modifications. However, the term does include the installation of parts for that purpose.
 
-&emsp;&emsp;(A) the fabrication of parts, testing, and reclamation, as necessary;
+(Added and amended Pub. L. 112–239, div. A, title III, §322(b)(1), (c), Jan. 2, 2013, 126 Stat. 1694, 1695.)
 
-&emsp;&emsp;(B) the repair, adaptive modifications or upgrades, change events made to operational software, integration and testing; and
+#### Codification
 
-&emsp;&emsp;(C) in the case of either hardware or software modifications or upgrades, the labor associated with the application of the modification.
+Section 322(b)(1) of Pub. L. 112–239, cited as a credit to this section, revived section 2460 of this title as in effect the day before the date of the enactment of Pub. L. 112–81, Dec. 31, 2011. See Prior Provisions note below.
 
-(Added Pub. L. 105–85, div. A, title III, §355(a), Nov. 18, 1997, 111 Stat. 1693; amended Pub. L. 105–261, div. A, title III, §341, Oct. 17, 1998, 112 Stat. 1973; Pub. L. 112–81, div. A, title III, §321, Dec. 31, 2011, 125 Stat. 1361.)
+#### Prior Provisions
+
+A prior section 2460, added Pub. L. 105–85, div. A, title III, §355(a), Nov. 18, 1997, 111 Stat. 1693; amended Pub. L. 105–261, div. A, title III, §341, Oct. 17, 1998, 112 Stat. 1973; Pub. L. 112–81, div. A, title III, §321, Dec. 31, 2011, 125 Stat. 1361, defined “depot-level maintenance and repair” for this chapter prior to repeal by Pub. L. 112–239, div. A, title III, §322(a)(1), Jan. 2, 2013, 126 Stat. 1694.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to definition of depot-level maintenance and repair and provided for certain exceptions.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §322(c), substituted “or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul” for “or the nuclear refueling of an aircraft carrier”.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–261 inserted “or the location at which the maintenance or repair is performed” before period at end of first sentence.
+#### Effective Date
+
+Section and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L.112–81, see section 322(f) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 2366a of this title.
 

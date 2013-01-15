@@ -14,7 +14,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 #### (3) Capital gains and losses
 
-&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
+&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid,credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
 
 #### (4) Extraordinary dividends and taxable stock dividends
 
@@ -28,7 +28,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 &emsp;In the case of a foreign trust—
 
-&emsp;&emsp;(A) There shall be included the amounts of gross income from sources without theUnited States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
+&emsp;&emsp;(A) There shall be included the amounts of gross income from sources without the United States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
 
 &emsp;&emsp;(B) Gross income from sources within the United States shall be determined without regard to section 894 (relating to income exempt under treaty).
 
@@ -188,7 +188,7 @@ For purposes of subparts B, C, and D—
 
 &emsp;If any loan (or use of property) is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) or the return of such property shall be disregarded for purposes of this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a), Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, title I, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat. 2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915; Pub. L. 111–147, title V, §533(a), (b), (d), Mar. 18, 2010, 124 Stat. 114.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a), Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, titleI, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat. 2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915; Pub. L. 111–147, title V, §533(a), (b), (d), Mar. 18, 2010, 124 Stat. 114.)
 
 #### Amendments
 
@@ -268,7 +268,7 @@ Pub. L. 111–147, title V, §533(e), Mar. 18, 2010, 124 Stat. 114, provided tha
 
 #### Effective Date of 1996 Amendment
 
-Section 1904(d) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1904(d), Aug. 20, 1996, 110 Stat. 1912, provided that:
 
 “(1)
 
@@ -284,7 +284,7 @@ Exception for certain trusts.—The amendments made by this section shall not ap
 
 > The preceding sentence shall not apply to the portion of any such trust attributable to any transfer to such trust after September 19, 1995.”
 
-Section 1906(d)(2), (3) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1906(d)(2), (3), Aug. 20, 1996, 110 Stat. 1916, provided that:
 
 “(2)
 
@@ -312,13 +312,13 @@ Amendment by section 301(b)(7) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 612(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
-Section 1404(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 6215, 6601, and 6654 of this title and repealing section 6152 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XIV, §1404(d), Oct. 22, 1986, 100 Stat. 2714, provided that: “The amendments made by this section \[amending this section and sections 6215, 6601, and 6654 of this title and repealing section 6152 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1806(a), (c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 81(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §81(b), July 18, 1984, 98 Stat. 598, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -332,9 +332,9 @@ Time for making election.—In the case of any distribution before the date of t
 
 &emsp;“(B) the requirement that such election be made on the return of the estate or trust shall not apply.”
 
-Section 82(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1806(b), Oct. 22, 1986, 100 Stat. 2811, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after March 1, 1984; except that, in the case of a trust which was irrevocable on March 1, 1984, such amendment shall so apply only to that portion of the trust which is attributable to contributions to corpus after March 1, 1984.”
+Pub. L. 98–369, div. A, title I, §82(b), July 18, 1984, 98 Stat. 598, as amended by Pub. L. 99–514, title XVIII, §1806(b), Oct. 22, 1986, 100 Stat. 2811, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after March 1, 1984; except that, in the case of a trust which was irrevocable on March 1, 1984, such amendment shall so apply only to that portion of the trust which is attributable to contributions to corpus after March 1, 1984.”
 
-Section 722(h)(5) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title VII, §722(h)(5), July 18, 1984, 98 Stat. 976, provided that:
 
 “(A) Except as provided in this paragraph, the amendments made by this subsection \[amending this section and sections 3405, 3406, and 6041 of this title\] shall apply as if included in the amendments made by the Interest and Dividend Tax Compliance Act of 1983 \[Pub. L. 98–67\].
 
@@ -356,17 +356,17 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 For effective date of amendment by section 1013(e)(2) of Pub. L. 94–455, see section 1013(f)(1) of Pub. L. 94–455, set out as an Effective Date note under section 679 of this title.
 
-Section 1013(f)(2) of Pub. L. 94–455 provided that: “The amendments made by subsection (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title X, §1013(f)(2), Oct. 4, 1976, 90 Stat. 1617, provided that: “The amendments made by subsection (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1962 Amendment
 
-Section 7(j) of Pub. L. 87–834 provided that: “The amendments made by this section \[amending this section and sections 665, 666, and 668 of this title and enacting section 669 of this title\] (other than by subsections (f), (g) and (h) \[enacting sections 6048 and 6677 of this title and amending section 7701 of this title\]), shall apply with respect to distributions made after December 31, 1962.”
+Pub. L. 87–834, §7(j), Oct. 16, 1962, 76 Stat. 989, provided that: “The amendments made by this section \[amending this section and sections 665, 666, and 668 of this title and enacting section 669 of this title\] (other than by subsections (f), (g) and (h) \[enacting sections 6048 and 6677 of this title and amending section 7701 of this title\]), shall apply with respect to distributions made after December 31, 1962.”
 
 #### Treatment as Single Trust
 
-Section 1018(e) of Pub. L. 100–647 provided that: “If—
+Pub. L. 100–647, title X, §1018(e), Nov. 10, 1988, 102 Stat. 3581, provided that: “If—
 
-&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 or more trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
+&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 ormore trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
 
 &emsp;“(2) such trusts would have been required to be so treated but for the amendment made by section 1806(b) of the Reform Act \[Pub. L. 99–514, which amended provisions set out as an Effective Date of 1984 Amendment note above\], and
 

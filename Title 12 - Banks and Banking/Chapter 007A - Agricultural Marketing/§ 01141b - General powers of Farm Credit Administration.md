@@ -48,7 +48,7 @@ Repeal of authority of the Farm Credit Administration to make emergency crop pro
 
 #### Separability
 
-Section 40 of act Aug. 19, 1937, provided as follows:
+Act Aug. 19, 1937, ch. 704, §40, 50 Stat. 718, provided as follows:
 
 “Sec. 40. (a) If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
 

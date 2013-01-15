@@ -22,11 +22,27 @@ The Congress finds that it is in the national security interest of the United St
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–136, div. C, title XXXVI, §3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title \[enactingprovisions set out as notes under this section and sections 1928, 5959, and 6321 of this title\] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
+Pub. L. 108–136, div. C, title XXXVI, §3601, Nov. 24, 2003, 117 Stat. 1822, provided that: “This title \[enacting provisions set out as notes under this section and sections 1928, 5959, and 6321 of this title\] may be cited as the ‘Nuclear Security Initiative Act of 2003’.”
 
 #### Short Title
 
-Section 1201 of title XII of div. A of Pub. L. 103–160 provided that: “This title \[enacting this chapter\] may be cited as the ‘Cooperative Threat Reduction Act of 1993’.”
+Pub. L. 103–160, div. A, title XII, §1201, Nov. 30, 1993, 107 Stat. 1777, provided that: “This title \[enacting this chapter\] may be cited as the ‘Cooperative Threat Reduction Act of 1993’.”
+
+#### Briefings on Dialogue Between the United States and the Russian Federation on Nuclear Arms, Missile Defense Systems, and Long-Range Conventional Strike Systems
+
+Pub. L. 112–239, div. A, title XII, §1282, Jan. 2, 2013, 126 Stat. 2034, provided that:
+
+“(a)
+
+Briefings.—Not later than 60 days after the date of the enactment of this Act \[Jan. 2, 2013\], and not less than twice each year thereafter, the President, or the President's designee, shall brief the Committee on Foreign Relations and the Committee on Armed Services of the Senate on the dialogue between the United States and the Russian Federation on issues related to limits or controls on nuclear arms, missile defense systems, or long-range conventional strike systems.
+
+“(b)
+
+Sense of Congress on Certain Agreements.—It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.
+
+“(c)
+
+Rule of Construction.—Nothing in this section shall be construed to be inconsistent with or to interfere with the practices, precedents, or oversight of the House of Representatives.”
 
 #### Establishment of Interparliamentary Threat Reduction Working Group
 

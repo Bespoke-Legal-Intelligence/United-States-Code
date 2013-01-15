@@ -2,7 +2,7 @@
 
 #### (a) Congressional finding of importance of participation by private and voluntary organizations
 
-The Congress finds that the participation of rural and urban poor people in their countries’ development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance to others to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forth in section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
+The Congress finds that the participation of rural and urban poor people in their countries’ development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance toothers to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forth in section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
 
 #### (b) Payment of transportation charges on shipments by American National Red Cross and United States voluntary agencies
 
@@ -30,7 +30,7 @@ For each of the fiscal years 1986 through 1989, funds in an amount not less than
 
 The Congress recognizes that, in addition to their role in social and economic development, cooperatives provide an opportunity for people to participate directly in democratic decisionmaking. Therefore, assistance under this part shall be provided to rural and urban cooperatives which offer large numbers of low- and middle-income people in developing countries an opportunity to participate directly in democratic decisionmaking. Such assistance shall be designed to encourage the adoption of self-help, private sector cooperative techniques and practices which have been successful in the United States.
 
-(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941; amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
+(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941; amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III,§§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Pub. L. 107–206, title I, §602, Aug. 2, 2002, 116 Stat. 859.
 
 #### Study and Report Concerning Use of Private and Voluntary Organizations, Cooperatives, and Private Sector
 
-Section 311 of Pub. L. 99–83 provided that:
+Pub. L. 99–83, title III, §311, Aug. 8, 1985, 99 Stat. 216, provided that:
 
 “(a)
 
@@ -154,7 +154,7 @@ Report.—The Administrator shall report the results of this study to the Congre
 
 #### African Development Foundation
 
-Section 122 of Pub. L. 95–424, as amended by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560, provided that:
+Pub. L. 95–424, title I, §122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
 “(a) The Congress declares that the United States should place higher priority on the formulation and implementation of policies and programs to enable the people of African nations to develop their potential, fulfill their aspirations, and enjoy better, more productive lives. In furtherance of these objectives, the Congress finds that additional support is needed for community-based self-help activities in Africa and that an African Development Foundation, organized to further the purposes set forth in section 123 of the Foreign Assistance Act of 1961 \[this section\], can complement current United States development programs in Africa.
 

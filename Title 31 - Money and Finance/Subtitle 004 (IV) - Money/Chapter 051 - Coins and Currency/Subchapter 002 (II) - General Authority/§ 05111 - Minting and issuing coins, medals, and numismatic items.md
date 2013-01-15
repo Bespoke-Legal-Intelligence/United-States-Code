@@ -4,7 +4,7 @@
 
 &emsp;(1) shall mint and issue coins described in section 5112 of this title in amounts the Secretary decides are necessary to meet the needs of the United States;
 
-&emsp;(2) may prepare national medal dies and strike national and other medals if it does notinterfere with regular minting operations but may not prepare private medal dies;
+&emsp;(2) may prepare national medal dies and strike national and other medals if it does not interfere with regular minting operations but may not prepare private medal dies;
 
 &emsp;(3) may prepare and distribute numismatic items; and
 
@@ -167,6 +167,8 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 112–148, July 26, 2012, 126 Stat. 1140, recognizing Raoul Wallenberg.
 
 Pub. L. 112–76, Dec. 23, 2011, 125 Stat. 1275, recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
 

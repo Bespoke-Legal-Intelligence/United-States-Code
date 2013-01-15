@@ -32,7 +32,7 @@ Subsecs. (d), (e). Pub. L. 97–35, §986(b)(2), redesignated subsecs. (d) and (
 
 #### Effective Date of 1981 Amendment
 
-Section 986(c) of Pub. L. 97–35 provided that: “The amendments and repeals made by this section \[amending this section and sections 201 and 254e of this title\] shall take effect on October 1, 1981.”
+Pub. L. 97–35, title IX, §986(c), Aug. 13, 1981, 95 Stat. 603, provided that: “The amendments and repeals made by this section \[amending this section and sections 201 and 254e of this title\] shall take effect on October 1, 1981.”
 
 #### Transfer of Functions
 
@@ -46,7 +46,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Continued Care for Merchant Seamen Hospitalized in Public Health Service Hospitals
 
-Section 988 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title IX, §988, Aug. 13, 1981, 95 Stat. 604, provided that:
 
 “(a) The Secretary shall provide, by contract or other arrangement with a Federal entity and without charge but subject to subsection (b), for the continuation of inpatient hospital services (and outpatient services related to the condition of hospitalization) to any individual who—
 
@@ -66,5 +66,5 @@ Section 988 of Pub. L. 97–35 provided that:
 
 #### Foreign Seamen
 
-Section 810(c), formerly §710(c), of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; July 30, 1956, ch. 779, §3(b), 70 Stat. 720, which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. July 25, 1947, ch. 327, §2(b), 61 Stat. 451.
+Section 810(c), formerly §710(c), of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, §5, 60 Stat.1049; July 30, 1956, ch. 779, §3(b), 70 Stat. 720, which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. July 25, 1947, ch. 327, §2(b), 61 Stat. 451.
 

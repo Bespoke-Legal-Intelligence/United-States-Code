@@ -2,7 +2,19 @@
 
 #### (a) In general
 
-The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.
+The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purposes of determining whether such agency—
+
+&emsp;(1) has policies, practices, funding, staffing, and procedures that are consistent with this chapter;
+
+&emsp;(2) processes complaints and completes investigations in a reasonable time period;
+
+&emsp;(3) appropriately disciplines sanctioned appraisers and appraisal management companies;
+
+&emsp;(4) maintains an effective regulatory program; and
+
+&emsp;(5) reports complaints and disciplinary actions on a timely basis to the national registries on appraisers and appraisal management companies maintained by the Appraisal Subcommittee.
+
+> The Appraisal Subcommittee shall have the authority to remove a State licensed or certified appraiser or a registered appraisal management company from a national registry on an interim basis, not to exceed 90 days, pending State agency action on licensing, certification, registration, and disciplinary proceedings. The Appraisal Subcommittee and all agencies, instrumentalities, and Federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, funding, staffing, or procedures are found to be inconsistent with this chapter. The Appraisal Subcommittee shall have the authority to impose sanctions, as described in this section, against a State agency that fails to have an effective appraiser regulatory program. In determining whether such a program is effective, the Appraisal Subcommittee shall include an analysis of the licensing and certification of appraisers, the registration of appraisal management companies, the issuance of temporary licenses and certifications for appraisers, the receiving and tracking of submitted complaints against appraisers and appraisal management companies, the investigation of complaints, and enforcement actions against appraisers and appraisal management companies. The Appraisal Subcommittee shall have the authority to impose interim actions and suspensions against a State agency as an alternative to, or in advance of, the derecognition of a State agency.
 
 #### (b) Disapproval by Appraisal Subcommittee
 
@@ -10,7 +22,7 @@ The Federal financial institutions, <sup>1</sup> regulatory agencies, the Feder
 
 &emsp;(1) the State agency fails to recognize and enforce the standards, requirements, and procedures prescribed pursuant to this chapter;
 
-&emsp;(2) the State agency is not granted authority by the State which is adequate to permit the agency to carry out its functions under this chapter; or
+&emsp;(2) the State agency is not granted authority or sufficient funding by the State which is adequate to permit the agency to carry out its functions under this chapter; or
 
 &emsp;(3) decisions concerning appraisal standards, appraiser qualifications and supervision of appraiser practices are not made in a manner that carries out the purposes of this chapter.
 
@@ -30,35 +42,15 @@ The Federal financial institutions, <sup>1</sup> regulatory agencies, the Feder
 
 (Pub. L. 101–73, title XI, §1118, Aug. 9, 1989, 103 Stat. 515; Pub. L. 111–203, title XIV, §1473(k), July 21, 2010, 124 Stat. 2196.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(k), July 21, 2010, 124 Stat. 2136, 2196, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
-
-<i>(1) by amending subsection (a) to read as follows:</i>
-
-#### <i>“(a) In general</i>
-
-<i>“The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purposes of determining whether such agency—</i>
-
-&emsp;<i>“(1) has policies, practices, funding, staffing, and procedures that are consistent with this chapter;</i>
-
-&emsp;<i>“(2) processes complaints and completes investigations in a reasonable time period;</i>
-
-&emsp;<i>“(3) appropriately disciplines sanctioned appraisers and appraisal management companies;</i>
-
-&emsp;<i>“(4) maintains an effective regulatory program; and</i>
-
-&emsp;<i>“(5) reports complaints and disciplinary actions on a timely basis to the national registries on appraisers and appraisal management companies maintained by the Appraisal Subcommittee.</i>
-
-> <i>The Appraisal Subcommittee shall have the authority to remove a State licensed or certified appraiser or a registered appraisal management company from a national registry on an interim basis, not to exceed 90 days, pending State agency action on licensing, certification, registration, and disciplinary proceedings. The Appraisal Subcommittee and all agencies, instrumentalities, and Federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, funding, staffing, or procedures are found to be inconsistent with this chapter. The Appraisal Subcommittee shall have the authority to impose sanctions, as described in this section, against a State agency that fails to have an effective appraiser regulatory program. In determining whether such a program is effective, the Appraisal Subcommittee shall include an analysis of the licensing and certification of appraisers, the registration of appraisal management companies, the issuance of temporary licenses and certifications for appraisers, the receiving and tracking of submitted complaints against appraisers and appraisal management companies, the investigation of complaints, and enforcement actions against appraisers and appraisal management companies. The Appraisal Subcommittee shall have the authority to impose interim actions and suspensions against a State agency as an alternative to, or in advance of, the derecognition of a State agency.”; and</i>
-
-<i>(2) in subsection (b)(2), by inserting “or sufficient funding” after “authority”.</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XI of Pub. L. 101–73, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1473(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Appraisal Subcommittee shall monitor State appraiser certifying and licensing agencies for the purpose of determining whether a State agency's policies, practices, and procedures are consistent with this chapter. The Appraisal Subcommittee and all agencies, instrumentalities, and federally recognized entities under this chapter shall not recognize appraiser certifications and licenses from States whose appraisal policies, practices, or procedures are found to be inconsistent with this chapter.”
+
+Subsec. (b)(2). Pub. L. 111–203, §1473(k)(2), inserted “or sufficient funding” after “authority”.
 
 #### Effective Date of 2010 Amendment
 

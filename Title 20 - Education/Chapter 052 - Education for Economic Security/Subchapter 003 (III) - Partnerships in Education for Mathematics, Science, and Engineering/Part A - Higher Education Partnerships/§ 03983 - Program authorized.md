@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary is authorized, in accordance with the provisions of this part, to make grants to applicants to pay the Federal share of the costs of the activities described in section 3984 of this title.
+The Secretary is authorized, in accordance with the provisions of this part, to make grantsto applicants to pay the Federal share of the costs of the activities described in section 3984 of this title.
 
 #### (b) Authorization of appropriations
 

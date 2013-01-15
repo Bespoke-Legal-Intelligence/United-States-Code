@@ -26,7 +26,7 @@ The cooperative agreement referred to in subsection (a) of this section shall in
 
 #### (c) Matching grants-in-aid to Committee; limitation on amounts
 
-The Secretary is authorized and directed to provide matching grants-in-aid to the Committee referred to in subsection (a) of this section for its programs related to historic preservation. The Committee shall match such grants-in-aid in a manner and with such funds and services as shall be satisfactory to the Secretary, except that no more than $500,000 may be provided to the Committee in any one fiscal year.
+The Secretary is authorized and directed to provide matching grants-in-aid to the Committee referred to in subsection (a) of this section for its programs related to historic preservation. The Committee shall match such grants-in-aid in a manner and with such funds and services as shall be satisfactory to the Secretary, exceptthat no more than $500,000 may be provided to the Committee in any one fiscal year.
 
 #### (d) Renovation of site
 
@@ -44,7 +44,7 @@ The Committee shall submit an annual report to the Secretary and the Administrat
 
 #### (f) “Building arts” defined
 
-For purposes of this section, the term “building arts” includes, but shall not be limited to,all practical and scholarly aspects of prehistoric, historic, and contemporary architecture, archaeology, construction, building technology and skills, landscape architecture, preservation and conservation, building and construction, engineering, urban and community design and renewal, city and regional planning, and related professions, skills, trades, and crafts.
+For purposes of this section, the term “building arts” includes, but shall not be limited to, all practical and scholarly aspects of prehistoric, historic, and contemporary architecture, archaeology, construction, building technology and skills, landscape architecture, preservation and conservation, building and construction, engineering, urban and community design and renewal, city and regional planning, and related professions, skills, trades, and crafts.
 
 (Pub. L. 89–665, title III, §306, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3002.)
 

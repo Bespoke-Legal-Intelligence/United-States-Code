@@ -2,7 +2,7 @@
 
 #### (a) Deduction from basic pay
 
-An annuitant who has retired under this subchapter and who is reemployed in the Federal Government service in any appointive position (either on a part-time or full-time basis) shall be entitled to receive the annuity payable under this subchapter, but there shall be deducted from the annuitant's basic pay a sum equal to the annuity allocable to the period of actual employment.
+An annuitant who has retired under this subchapter and who is reemployed in the Federal Government service in any appointive position\(either on a part-time or full-time basis) shall be entitled to receive the annuity payable under this subchapter, but there shall be deducted from the annuitant's basic pay a sum equal to the annuity allocable to the period of actual employment.
 
 #### (b) Recovery of overpayments
 

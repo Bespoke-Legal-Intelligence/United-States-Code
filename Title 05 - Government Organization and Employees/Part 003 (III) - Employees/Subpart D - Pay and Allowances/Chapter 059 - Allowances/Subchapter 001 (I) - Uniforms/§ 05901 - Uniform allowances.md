@@ -8,7 +8,7 @@
 
 > The allowance may be paid only at the times and in the amounts authorized by the regulations prescribed under section 5903 of this title. When the agency pays direct to the uniform vendor, the head of the agency may deduct a service charge of not more than 4 percent.
 
-(b) When the furnishing of a uniform or the payment of a uniform allowance is authorizedunder another statute or regulation existing on September 1, 1954, the head of the agency concerned may continue the furnishing of the uniform or the payment of the uniform allowance under that statute or regulation, but in that event a uniform may not be furnished or allowance paid under this section.
+(b) When the furnishing of a uniform or the payment of a uniform allowance is authorized under another statute or regulation existing on September 1, 1954, the head of the agency concerned may continue the furnishing of the uniform or the payment of the uniform allowance under that statute or regulation, but in that event a uniform may not be furnished or allowance paid under this section.
 
 (c) An allowance paid under this section is not wages within the meaning of section 409 of title 42 or chapters 21 and 24 of title 26.
 
@@ -84,7 +84,7 @@ Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substit
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Availability of Appropriations for Uniforms and Uniform Allowances
 

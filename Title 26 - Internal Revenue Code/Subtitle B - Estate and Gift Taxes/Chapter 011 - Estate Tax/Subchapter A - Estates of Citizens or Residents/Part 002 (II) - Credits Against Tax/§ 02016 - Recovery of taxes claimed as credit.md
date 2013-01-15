@@ -4,15 +4,11 @@ If any tax claimed as a credit under section 2014 is recovered from any foreign 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 94–455, title XIX, §§1902(a)(12)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 107–16, title V, §532(c)(4), June 7, 2001, 115 Stat. 74; Pub. L. 107–147, title IV, §411(h), Mar. 9, 2002, 116 Stat. 46.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–147 struck out “any State, any possession of the United States, or the District of Columbia,” after “any foreign country,”.
 
-<b>2001</b>—Pub. L. 107–16, §§532(c)(4), 901, temporarily struck out “2011 or” before “2014 is recovered”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16 struck out “2011 or” before “2014 is recovered”.
 
 <b>1976</b>—Pub. L. 94–455 struck out “Territory or” after “any State, any” and “or his delegate” after “Secretary”.
 
@@ -20,9 +16,7 @@ If any tax claimed as a credit under section 2014 is recovered from any foreign 
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

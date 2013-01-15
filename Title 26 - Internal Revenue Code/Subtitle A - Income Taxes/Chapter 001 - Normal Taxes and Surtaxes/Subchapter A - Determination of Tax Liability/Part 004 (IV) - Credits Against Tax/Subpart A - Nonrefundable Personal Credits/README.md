@@ -15,13 +15,9 @@ Subpart A—Nonrefundable Personal Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(O), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily struck out item 23 “Adoption expenses”.
+<b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(O), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily struck out item 23 “Adoption expenses”. See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 
 <b>2005</b>—Pub. L. 109–58, title XIII, §§1333(b)(2), 1335(b)(5), Aug. 8, 2005, 119 Stat. 1030, 1036, added items 25C and 25D.
 
@@ -55,7 +51,7 @@ Pub. L. 97–414, §4(c)(1), Jan. 4, 1983, 96 Stat. 2056, added item 44H.
 
 <b>1978</b>—Pub. L. 95–618, title I, §101(b)(1), Nov. 9, 1978, 92 Stat. 3179, added item 44C.
 
-<b>1977</b>—Pub. L. 95–30, title I, §101(e)(1), title II, §202(d)(1)(A), May 23, 1977, 91 Stat. 134, 147, added item 44B and struck out item 36 “Credit not allowed to individuals taking standard deduction”.
+<b>1977</b>—Pub. L. 95–30, title I, §101(e)(1), title II, §202(d)(1)(A), May 23, 1977, 91 Stat. 134, 147, added item44B and struck out item 36 “Credit not allowed to individuals taking standard deduction”.
 
 <b>1976</b>—Pub. L. 94–455, title IV, §401(a)(2)(D), title V, §§501(c)(2), 503(b)(5), 504(a)(2), title XIX, §1901(b)(1)(Z), Oct. 4, 1976, 90 Stat. 1555, 1559, 1562, 1565, 1792, substituted in item 42 “General tax credit” for “Taxable income credit”, struck out in item 36 “pay optional tax or”, inserted in item 33 “possession tax credit”, substituted in item 37 “Credit of the elderly” for “Retirement income”, added item 44A, and struck out item 35 “Partially tax-exempt interest received by individuals”.
 

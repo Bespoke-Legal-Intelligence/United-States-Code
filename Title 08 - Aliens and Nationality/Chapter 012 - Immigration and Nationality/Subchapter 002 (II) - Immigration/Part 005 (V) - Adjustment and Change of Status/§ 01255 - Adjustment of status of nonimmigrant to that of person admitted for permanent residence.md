@@ -10,7 +10,7 @@ Upon the approval of an application for adjustment made under subsection (a) of 
 
 #### (c) Alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa
 
-Other than an alien having an approved petition for classification as a VAWA self-petitioner, subsection (a) of this section shall not be applicable to (1) an alien crewman; (2) subject to subsection (k) of this section, an alien (other than an immediate relative as defined in section 1151(b) of this title or a special immigrant described in section 1101(a)(27)(H), (I), (J), or (K) of this title) who hereafter continues in or accepts unauthorized employment prior to filing an application for adjustment of status or who is in unlawful immigration status on the date of filing the application for adjustment of status or who has failed (other than through no fault of his own or for technical reasons) to maintain continuously a lawful status since entry into the United States; (3) any alien admitted in transit without visa under section 1182(d)(4)(C) of this title; (4) an alien (other than an immediate relative as defined in section 1151(b) of this title) who was admitted as a nonimmigrant visitor without a visa under section 1182(<i>l</i>) of this title or section 1187 of this title; (5) an alien who was admitted as a nonimmigrant described in section 1101(a)(15)(S) of this title,<sup>1</sup> (6) an alien who is deportable under section 1227(a)(4)(B) of this title; (7) any alien who seeks adjustment of status to that of an immigrant under section 1153(b) of this title and is not in a lawful nonimmigrant status; or (8) any alien who was employed while the alien was an unauthorized alien, as defined in section 1324a(h)(3) of this title, or who has otherwise violated the terms of a nonimmigrant visa.
+Other than an alien having an approved petition for classification as a VAWA self-petitioner, subsection (a) of this section shall not be applicable to (1) an alien crewman; (2) subject to subsection (k) of this section, an alien (other than an immediate relative as defined in section 1151(b) of this title or a special immigrant described in section 1101(a)(27)(H), (I), (J), or (K) of this title) who hereafter continues in or accepts unauthorized employment prior to filing an application for adjustment of status or who is in unlawful immigration status on the date of filing the application for adjustment of status or who has failed (other than through no fault of his own or for technical reasons) to maintain continuously a lawful status since entry into the United States; (3) any alien admitted in transit without visa under section 1182(d)(4)(C) of this title; (4) an alien (other than an immediate relative as defined in section 1151(b) of this title) who was admitted as a nonimmigrant visitor without a visa under section 1182(l) of this title or section 1187 of this title; (5) an alien who was admitted as a nonimmigrant described in section 1101(a)(15)(S) of this title,<sup>1</sup> (6) an alien who is deportable under section 1227(a)(4)(B) of this title; (7) any alien who seeks adjustment of status to that of an immigrant under section 1153(b) of this title and is not in a lawful nonimmigrant status; or (8) any alien who was employed while the alien was an unauthorized alien, as defined in section 1324a(h)(3) of this title, or who has otherwise violated the terms of a nonimmigrant visa.
 
 #### (d) Alien admitted for permanent residence on conditional basis; fiancee or fiance of citizen
 
@@ -78,7 +78,7 @@ In applying this section to a special immigrant described in section 1101(a)(27)
 
 &emsp;(B) an immigrant visa is immediately available to the alien at the time the application is filed.
 
-(3)(A) The portion of each application fee (not to exceed $200) that the Attorney General determines is required to process an application under this section and is remitted to the Attorney General pursuant to paragraphs (1) and (2) of this subsection shall be disposed of by the Attorney General as provided in subsections (m), (n), and (<i>o</i>) of section 1356 of this title.
+(3)(A) The portion of each application fee (not to exceed $200) that the Attorney General determines is required to process an application under this section and is remitted to the Attorney General pursuant to paragraphs (1) and (2) of this subsection shall be disposed of by the Attorney General as provided in subsections (m), (n), and (o) of section 1356 of this title.
 
 (B) Any remaining portion of such fees remitted under such paragraphs shall be deposited by the Attorney General into the Breached Bond/Detention Fund established under section 1356(r) of this title, except that in the case of fees attributable to applications for a beneficiary with respect to whom a petition for classification, or an application for labor certification, described in paragraph (1)(B) was filed after January 14, 1998, one-half of such remaining portion shall be deposited by the Attorney General into the Immigration Examinations Fee Account established under section 1356(m) of this title.
 
@@ -122,7 +122,7 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 
 &emsp;&emsp;(C) otherwise violated the terms and conditions of the alien's admission.
 
-#### (<i>l</i>) Adjustment of status for victims of trafficking
+#### (l) Adjustment of status for victims of trafficking
 
 (1) If, in the opinion of the Secretary of Homeland Security, or in the case of subparagraph (C)(i), in the opinion of the Secretary of Homeland Security, in consultation with the Attorney General, as appropriate <sup>3</sup> a nonimmigrant admitted into the United States under section 1101(a)(15)(T)(i) of this title—
 
@@ -138,7 +138,7 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 
 > the Secretary of Homeland Security may adjust the status of the alien (and any person admitted under section 1101(a)(15)(T)(ii) of this title as the spouse, parent, sibling, or child of the alien) to that of an alien lawfully admitted for permanent residence.
 
-(2) Paragraph (1) shall not apply to an alien admitted under section 1101(a)(15)(T) of this title who is inadmissible to the United States by reason of a ground that has not been waived under section 1182 of this title, except that, if the Secretary of Homeland Security considers it to be in the national interest to do so, the Secretary of Homeland Security, in the Attorney General's <sup>6</sup> discretion, may waive the application of—
+(2) Paragraph (1) shall not apply to an alien admitted under section 1101(a)(15)(T) of this titlewho is inadmissible to the United States by reason of a ground that has not been waived under section 1182 of this title, except that, if the Secretary of Homeland Security considers it to be in the national interest to do so, the Secretary of Homeland Security, in the Attorney General's <sup>6</sup> discretion, may waive the application of—
 
 &emsp;(A) paragraphs (1) and (4) of section 1182(a) of this title; and
 
@@ -178,7 +178,7 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 
 (B) Nothing in paragraph (1)(B) may be construed to prevent the Secretary from consulting with the Attorney General in making a determination whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a State or local law enforcement official, State or local prosecutor, State or local judge, or other State or local authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245, 66 Stat. 217; Pub. L. 85–700, §1, Aug. 21, 1958, 72 Stat. 699;Pub. L. 86–648, §10, July 14, 1960, 74 Stat. 505; Pub. L. 89–236, §13, Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §6, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 97–116, §5(d)(2), Dec. 29, 1981, 95 Stat. 1614; Pub. L. 99–603, title I, §117, title III, §313(c), Nov. 6, 1986, 100 Stat. 3384, 3438; Pub. L. 99–639, §§2(e), 3(b), 5(a), Nov. 10, 1986, 100 Stat. 3542, 3543; Pub. L. 100–525, §§2(f)(1), (p)(3), 7(b), Oct. 24, 1988, 102 Stat. 2611, 2613, 2616; Pub. L. 101–649, title I, §§121(b)(4), 162(e)(3), title VII, §702(a), Nov. 29, 1990, 104 Stat. 5011, 5086; Pub. L. 102–110, §2(c), Oct. 1, 1991, 105 Stat. 556; Pub. L. 102–232, title III, §§302(d)(2), (e)(7), 308(a), Dec. 12, 1991, 105 Stat. 1744, 1746, 1757; Pub. L. 103–317, title V, §506(b), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(c), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §219(k), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–132, title IV, §413(d), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §§308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, §671(a)(4)(A), (5), Sept. 30, 1996, 110 Stat. 3009–621, 3009–625, 3009–648, 3009–721; Pub. L. 105–119, title I, §§110(3), 111(a), (c), Nov. 26, 1997, 111 Stat. 2458; Pub. L. 106–386, div. A, §107(f), div. B, title V, §§1506(a)(1), 1513(f), Oct. 28, 2000, 114 Stat. 1479, 1527, 1536; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(c), (d)(2), 1103(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–143 to 2762A–145; Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–324; Pub. L. 108–193, §§4(b)(3), 8(a)(4), Dec. 19, 2003, 117 Stat. 2879, 2886; Pub. L. 109–162, title VIII, §803, Jan. 5, 2006, 119 Stat. 3054; Pub. L. 109–271, §6(f), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §§201(d), (e), 235(d)(3), Dec. 23, 2008, 122 Stat. 5053, 5054, 5080.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245, 66 Stat. 217; Pub. L. 85–700, §1, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–648, §10, July 14, 1960, 74 Stat. 505; Pub. L. 89–236, §13, Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §6, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 97–116, §5(d)(2), Dec. 29, 1981, 95 Stat. 1614; Pub. L. 99–603, title I, §117, title III, §313(c), Nov. 6, 1986, 100 Stat. 3384, 3438; Pub. L. 99–639, §§2(e), 3(b), 5(a), Nov. 10, 1986, 100 Stat. 3542, 3543; Pub. L. 100–525, §§2(f)(1), (p)(3), 7(b), Oct. 24, 1988, 102 Stat. 2611, 2613, 2616; Pub. L. 101–649, title I, §§121(b)(4), 162(e)(3), title VII, §702(a), Nov. 29,1990, 104 Stat. 5011, 5086; Pub. L. 102–110, §2(c), Oct. 1, 1991, 105 Stat. 556; Pub. L. 102–232, title III, §§302(d)(2), (e)(7), 308(a), Dec. 12, 1991, 105 Stat. 1744, 1746, 1757; Pub. L. 103–317, title V, §506(b), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(c), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §219(k), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–132, title IV, §413(d), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §§308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, §671(a)(4)(A), (5), Sept. 30, 1996, 110 Stat. 3009–621, 3009–625, 3009–648, 3009–721; Pub. L. 105–119, title I, §§110(3), 111(a), (c), Nov. 26, 1997, 111 Stat. 2458; Pub. L. 106–386, div. A, §107(f), div. B, title V, §§1506(a)(1), 1513(f), Oct. 28, 2000, 114 Stat. 1479, 1527, 1536; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(c), (d)(2), 1103(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–143 to 2762A–145; Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–324; Pub. L. 108–193, §§4(b)(3), 8(a)(4), Dec. 19, 2003, 117 Stat. 2879, 2886; Pub. L. 109–162, title VIII, §803, Jan. 5, 2006, 119 Stat. 3054; Pub. L. 109–271, §6(f), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §§201(d), (e), 235(d)(3), Dec. 23, 2008, 122 Stat. 5053, 5054, 5080.)
 
 #### References in Text
 
@@ -192,19 +192,19 @@ Section 301 of the Immigration Act of 1990, referred to in subsec. (i)(1)(iii), 
 
 <b>2008</b>—Subsec. (h)(2)(A). Pub. L. 110–457, §235(d)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “paragraphs (4), (5)(A), and (7)(A) of section 1182(a) of this title shall not apply, and”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 110–457, §201(d)(1)(C)(ii), which directed amendment of subpar. (C)(ii) by striking out “, or in the case of subparagraph (C)(i), the Attorney General, as appropriate”, was executed by striking out “, or in the case of subparagraph (C)(i), the Attorney General,” before “may adjust” in concluding provisions of par. (1), to reflect the probable intent of Congress.
+Subsec. (l)(1). Pub. L. 110–457, §201(d)(1)(C)(ii), which directed amendment of subpar. (C)(ii) by striking out “, or in the case of subparagraph (C)(i), the Attorney General, as appropriate”, was executed by striking out “, or in the case of subparagraph (C)(i), the Attorney General,” before “may adjust” in concluding provisions of par. (1), to reflect the probable intent of Congress.
 
 Pub. L. 110–457, §201(d)(1)(A), substituted “in the opinion of the Secretary of Homeland Security, in consultation with the Attorney General, as appropriate” for “the Attorney General,,” in introductory provisions.
 
-Subsec. (<i>l</i>)(1)(B). Pub. L. 110–457, §201(d)(1)(B), inserted “subject to paragraph (6),” after subpar. designation and substituted “; and” for “, and”.
+Subsec. (l)(1)(B). Pub. L. 110–457, §201(d)(1)(B), inserted “subject to paragraph (6),” after subpar. designation and substituted “; and” for “, and”.
 
-Subsec. (<i>l</i>)(1)(C)(i). Pub. L. 110–457, §201(d)(1)(C)(i), substituted semicolon for “, or”.
+Subsec. (l)(1)(C)(i). Pub. L. 110–457, §201(d)(1)(C)(i), substituted semicolon for “, or”.
 
-Subsec. (<i>l</i>)(1)(C)(ii), (iii). Pub. L. 110–457, §201(d)(1)(C)(iii), which directed amendment of subpar. (C) by substituting “; or” for period at end and adding cl. (iii), was executed by making the substitution for comma at end of cl. (ii) and adding cl. (iii), to reflect the probable intent of Congress.
+Subsec. (l)(1)(C)(ii), (iii). Pub. L. 110–457, §201(d)(1)(C)(iii), which directed amendment of subpar. (C) by substituting “; or” for period at end and adding cl. (iii), was executed by making the substitution for comma at end of cl. (ii) and adding cl. (iii), to reflect the probable intent of Congress.
 
-Subsec. (<i>l</i>)(3). Pub. L. 110–457, §201(d)(2), substituted “, unless—” for period at end and added subpars. (A) and (B).
+Subsec. (l)(3). Pub. L. 110–457, §201(d)(2), substituted “, unless—” for period at end and added subpars. (A) and (B).
 
-Subsec. (<i>l</i>)(6), (7). Pub. L. 110–457, §201(d)(3), added pars. (6) and (7).
+Subsec. (l)(6), (7). Pub. L. 110–457, §201(d)(3), added pars. (6) and (7).
 
 Subsec. (m)(1). Pub. L. 110–457, §201(e)(1), substituted “unless the Secretary” for “unless the Attorney General” in introductory provisions.
 
@@ -214,13 +214,13 @@ Subsec. (m)(5). Pub. L. 110–457, §201(e)(2), added par. (5).
 
 Subsec. (c). Pub. L. 109–271, §6(f)(2), substituted “as a VAWA self-petitioner” for “under subparagraph (A)(iii), (A)(iv), (A)(v), (A)(vi), (B)(ii), (B)(iii), or (B)(iv) of section 1154(a)(1) of this title”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 109–162, §803(a)(1)(A), substituted “Secretary of Homeland Security, or in the case of subparagraph (C)(i), the Attorney General,” for “Attorney General” in two places.
+Subsec. (l)(1). Pub. L. 109–162, §803(a)(1)(A), substituted “Secretary of Homeland Security, or in the case of subparagraph (C)(i), the Attorney General,” for “Attorney General” in two places.
 
-Subsec. (<i>l</i>)(1)(A), Pub. L. 109–162, §803(a)(1)(B), inserted at end “or has been physically present in the United States for a continuous period during the investigation or prosecution of acts of trafficking and that, in the opinion of the Attorney General, the investigation or prosecution is complete, whichever period of time is less;”.
+Subsec. (l)(1)(A), Pub. L. 109–162, §803(a)(1)(B), inserted at end “or has been physically present in the United States for a continuous period during the investigation or prosecution of acts of trafficking and that, in the opinion of the Attorney General, the investigation or prosecution is complete, whichever period of time is less;”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 109–162, §803(a)(2), substituted “Secretary of Homeland Security” for “Attorney General” in two places.
+Subsec. (l)(2). Pub. L. 109–162, §803(a)(2), substituted “Secretary of Homeland Security” for “Attorney General” in two places.
 
-Subsec. (<i>l</i>)(5). Pub. L. 109–162, §803(a)(3), substituted “Secretary of Homeland Security” for “Attorney General”.
+Subsec. (l)(5). Pub. L. 109–162, §803(a)(3), substituted “Secretary of Homeland Security” for “Attorney General”.
 
 Subsec. (m)(1). Pub. L. 109–162, §803(b)(1)(A), substituted “Secretary of Homeland Security may adjust” for “Attorney General may adjust” in introductory provisions.
 
@@ -230,21 +230,21 @@ Subsec. (m)(3). Pub. L. 109–162, §803(b)(2), substituted “Secretary of Home
 
 Subsec. (m)(4). Pub. L. 109–162, §803(b)(3), substituted “Secretary of Homeland Security” for “Attorney General”.
 
-<b>2003</b>—Subsec. (<i>l</i>). Pub. L. 108–193, §8(a)(4)(B), redesignated subsec. (<i>l</i>), relating to adjustment of status for victims of crimes against women, as (m).
+<b>2003</b>—Subsec. (l). Pub. L. 108–193, §8(a)(4)(B), redesignated subsec. (l), relating to adjustment of status for victims of crimes against women, as (m).
 
-Subsec. (<i>l</i>)(1). Pub. L. 108–193, §4(b)(3)(A), in concluding provisions, substituted “admitted under section 1101(a)(15)(T)(ii) of this title” for “admitted under that section” and inserted “sibling,” after “parent,”.
+Subsec. (l)(1). Pub. L. 108–193, §4(b)(3)(A), in concluding provisions, substituted “admitted under section 1101(a)(15)(T)(ii) of this title” for “admitted under that section” and inserted “sibling,” after “parent,”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 108–193, §8(a)(4)(A), redesignated par. (2), relating to alien's maintenance of continuous physical presence, as (3).
+Subsec. (l)(2). Pub. L. 108–193, §8(a)(4)(A), redesignated par. (2), relating to alien's maintenance of continuous physical presence, as (3).
 
-Subsec. (<i>l</i>)(3). Pub. L. 108–193, §8(a)(4)(A), redesignated par. (2), relating to alien's maintenance of continuous physical presence, as (3). Former par. (3) redesignated (4).
+Subsec. (l)(3). Pub. L. 108–193, §8(a)(4)(A), redesignated par. (2), relating to alien's maintenance of continuous physical presence, as (3). Former par. (3) redesignated (4).
 
-Subsec. (<i>l</i>)(3)(B). Pub. L. 108–193, §4(b)(3)(B), inserted “siblings,” after “daughters,”.
+Subsec. (l)(3)(B). Pub. L. 108–193, §4(b)(3)(B), inserted “siblings,” after “daughters,”.
 
-Subsec. (<i>l</i>)(4), (5). Pub. L. 108–193, §8(a)(4)(A), redesignated pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (l)(4), (5). Pub. L. 108–193, §8(a)(4)(A), redesignated pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (m). Pub. L. 108–193, §8(a)(4)(B), redesignated subsec. (<i>l</i>), relating to adjustment of status for victims of crimes against women, as (m).
+Subsec. (m). Pub. L. 108–193, §8(a)(4)(B), redesignated subsec. (l), relating to adjustment of status for victims of crimes against women, as (m).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–386, §1506(a)(1)(A), which directed the insertion of “or the status of any other alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) of section 1154(a)(1) of this title or” after “into the United States.”, was executed by making the insertion after“into the United States” to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a). Pub. L. 106–386, §1506(a)(1)(A), which directed the insertion of “or the status of any other alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) of section 1154(a)(1) of this title or” after “into the United States.”, was executed by making the insertion after “into the United States” to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 106–386, §1506(a)(1)(B), substituted “Other than an alien having an approved petition for classification under subparagraph (A)(iii), (A)(iv), (A)(v), (A)(vi), (B)(ii), (B)(iii), or (B)(iv) of section 1154(a)(1) of this title, subsection (a) of this section shall not be applicable to” for “Subsection (a) of this section shall not be applicable to”.
 
@@ -270,9 +270,9 @@ Subsec. (i)(1)(C). Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502(a)(1)
 
 Subsec. (i)(3)(B). Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502(a)(2)\], inserted before period at end “, except that in the case of fees attributable to applications for a beneficiary with respect to whom a petition for classification, or an application for labor certification, described in paragraph (1)(B) was filed after January 14, 1998, one-half of such remaining portion shall be deposited by the Attorney General into the Immigration Examinations Fee Account established under section 1356(m) of this title”.
 
-Subsec. (<i>l</i>). Pub. L. 106–386, §1513(f), added subsec. (<i>l</i>) relating to adjustment of status for victims of crimes against women.
+Subsec. (l). Pub. L. 106–386, §1513(f), added subsec. (l) relating to adjustment of status for victims of crimes against women.
 
-Pub. L. 106–386, §107(f), added subsec. (<i>l</i>) relating to adjustment of status for victims of trafficking.
+Pub. L. 106–386, §107(f), added subsec. (l) relating to adjustment of status for victims of trafficking.
 
 Subsec. (m). Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502(b)(1)\], struck out subsec. (m), which related to adjustment of status of nonimmigrant described in section 1101(a)(15)(V) of this title who was determined to have been physically present in the United States at any time during period beginning July 1, 2000, and ending Oct. 1, 2000.
 
@@ -306,7 +306,7 @@ Subsec. (i). Pub. L. 104–208, §671(a)(4)(A), redesignated subsec. (i), relati
 
 Subsec. (i)(1). Pub. L. 104–208, §376(a)(1), substituted “$1,000” for “five times the fee required for the processing of applications under this section”.
 
-Subsec. (i)(3). Pub. L. 104–208, §376(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Sums remitted to the Attorney General pursuant to paragraphs (1) and (2) of this subsection shall be disposed of by the Attorney General as provided in sections 1356(m), (n), and (<i>o</i>) of this title.”
+Subsec. (i)(3). Pub. L. 104–208, §376(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Sums remitted to the Attorney General pursuant to paragraphs (1) and (2) of this subsection shall be disposed of by the Attorney General as provided in sections 1356(m), (n), and (o) of this title.”
 
 Subsec. (j). Pub. L. 104–208, §671(a)(4)(A), redesignated subsec. (i), relating to adjustment to permanent resident status, as (j).
 
@@ -348,11 +348,11 @@ Subsec. (d). Pub. L. 100–525, §7(b), amended Pub. L. 99–639, §3(b). See 19
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–639, §5(a)(1), substituted “Subsection (a) of this section” for “The provisions of this section”.
 
-Subsec. (c)(2). Pub. L. 99–603, §117, inserted “or who is not in legal immigration status on the date of filingthe application for adjustment or who has failed (other than through no fault of his own for technical reasons) to maintain continuously a legal status since entry into the United States”.
+Subsec. (c)(2). Pub. L. 99–603, §117, inserted “or who is not in legal immigration status on the date of filing the application for adjustment or who has failed (other than through no fault of his own for technical reasons) to maintain continuously a legal status since entry into the United States”.
 
 Subsec. (c)(4). Pub. L. 99–603, §313(c), as amended by Pub. L. 100–525, §2(p)(3), added cl. (4).
 
-Subsec. (d). Pub. L. 99–639, §3(b), as amended by Pub. L. 100–525, §7(b), inserted “The Attorney General may not adjust, under subsection (a) of this section, the status of a nonimmigrant alien described in section 1101(a)(15)(K) of this title (relating to an alien fiancee or fiance or the minor child of such alien) except to that of an alien lawfully admitted to the United States on a conditional basis under section 1186a of this title as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien's nonimmigrant status under section 1101(a)(15)(K) of this title.”
+Subsec. (d). Pub. L. 99–639, §3(b), as amended by Pub. L. 100–525, §7(b), inserted “The Attorney General may not adjust, under subsection (a) of this section, the status of a nonimmigrant alien described in section 1101(a)(15)(K) of this title (relating to an alien fianceeor fiance or the minor child of such alien) except to that of an alien lawfully admitted to the United States on a conditional basis under section 1186a of this title as a result of the marriage of the nonimmigrant (or, in the case of a minor child, the parent) to the citizen who filed the petition to accord that alien's nonimmigrant status under section 1101(a)(15)(K) of this title.”
 
 Pub. L. 99–639, §2(e), added subsec. (d).
 
@@ -392,7 +392,7 @@ Pub. L. 106–386, div. B, title V, §1506(a)(2), Oct. 28, 2000, 114 Stat. 1527,
 
 Amendment by section 308(f)(1)(O), (2)(C), (g)(10)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 376(c) of div. C of Pub. L. 104–208 provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to applications made on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title III, §376(c), Sept. 30, 1996, 110 Stat. 3009–649, provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to applications made on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by section 671(a)(4)(A), (5) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 103–317 effective Oct. 1, 1994, see section 506(c) of Pub
 
 Amendment by section 302(d)(2), (e)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
-Section 308(a) of Pub. L. 102–232 provided that the amendment made by that section is effective Oct. 1, 1991.
+Pub. L. 102–232, title III, §308(a), Dec. 12, 1991, 105 Stat. 1757, provided that the amendment made by section 308(a) is effective Oct. 1, 1991.
 
 Amendment by Pub. L. 102–110 effective 60 days after Oct. 1, 1991, see section 2(d) of Pub. L. 102–110, set out as a note under section 1101 of this title.
 
@@ -420,7 +420,7 @@ Amendment by section 702(a) of Pub. L. 101–649 applicable to marriages entered
 
 #### Effective Date of 1988 Amendment
 
-Section 2(f)(2) of Pub. L. 100–525 provided that: “The amendments made by paragraph (1) \[amending this section\] and by section 117 of IRCA \[section 117 of Pub. L. 99–603, amending this section\] shall apply to applications for adjustment of status filed on or after November 6, 1986.”
+Pub. L. 100–525, §2(f)(2), Oct. 24, 1988, 102 Stat. 2611, provided that: “The amendments made by paragraph (1) \[amending this section\] and by section 117 of IRCA \[section 117 of Pub. L. 99–603, amending this section\] shall apply to applications for adjustment of status filed on or after November 6, 1986.”
 
 Amendment by section 2(f)(1), (p)(3) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
@@ -428,7 +428,7 @@ Amendment by section 7(b) of Pub. L. 100–525 effective as if included in enact
 
 #### Effective Date of 1986 Amendments
 
-Section 3(d)(2) of Pub. L. 99–639 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to adjustments occurring on or after the date of the enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–639, §3(d)(2), Nov. 10, 1986, 100 Stat. 3542, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to adjustments occurring on or after the date of the enactment of this Act \[Nov. 10, 1986\].”
 
 Amendment by section 5(a) of Pub. L. 99–639 applicable to marriages entered into on or after Nov. 10, 1986, see section 5(c) of Pub. L. 99–639, set out as a note under section 1154 of this title.
 
@@ -508,7 +508,7 @@ No Immigration Benefits for Birth Parents.—No birth parent of an alien who obt
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1505(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–326, provided that: “Notwithstanding any time and number limitations imposed by law on motions to reopen exclusion, removal, or deportation proceedings (except limitations premised on an alien's conviction of an aggravated felony (as defined by section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\])), a national of Cuba or Nicaragua who has become eligible for adjustment of status under the Nicaraguan Adjustment and Central American Relief Act \[see Short Title of 1997 Amendments note set out under section 1101 of this title\] as a result of the amendments made by paragraph (1) \[amending section 202 of Pub. L. 105–100, set out below\], may file one motion to reopen exclusion, deportation, or removal proceedings to apply for such adjustment under that Act. The scope of any proceeding reopened on this basis shall be limited to a determination of the alien's eligibility for adjustment of status under that Act. All such motions shall be filed within 180 days of the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1505(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–327, provided that: “Notwithstanding any time and number limitations imposed by law on motions to reopen exclusion, removal, or deportation proceedings (except limitations premised on an alien's conviction of an aggravated felony (as defined by section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\])), a national of Haiti who has become eligible for adjustment of status under the Haitian Refugee Immigration Fairness Act of 1998 \[see Short Title of 1998 Amendments note set out under section 1101 of this title\] as a result of the amendments made by paragraph (1) \[amending section 902 of section 101(h) of div. A of Pub. L. 105–277, set out below\], may file one motion to reopen exclusion, deportation, or removal proceedings to apply for such adjustment under that Act. The scope of any proceeding reopened on this basis shall be limited to a determination of the alien's eligibility for adjustment of status under that Act. All such motions shall be filed within 180 days of the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1505(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–327, provided that: “Notwithstanding any time and number limitations imposed by law on motions to reopen exclusion, removal, or deportation proceedings (except limitations premised on an alien's conviction of an aggravated felony (as defined by section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\])), a national of Haiti who has become eligible for adjustment of status under the Haitian Refugee Immigration Fairness Act of 1998 \[see Short Title of 1998 Amendments note set outunder section 1101 of this title\] as a result of the amendments made by paragraph (1) \[amending section 902 of section 101(h) of div. A of Pub. L. 105–277, set out below\], may file one motion to reopen exclusion, deportation, or removal proceedings to apply for such adjustment under that Act. The scope of any proceeding reopened on this basis shall be limited to a determination of the alien's eligibility for adjustment of status under that Act. All such motions shall be filed within 180 days of the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Adjustment of Status of Certain Jewish Syrian Nationals
 
@@ -590,7 +590,7 @@ In general.—The status of an alien shall be adjusted by the Attorney General t
 
 &emsp;&emsp;“(A) the alien is a national of Haiti;
 
-&emsp;&emsp;“(B)(i) the alien is the spouse, child, or unmarried son or daughter of an alien who is or was eligible for classification under subsection (a), except that, in the case of such an unmarried son or daughter, the son or daughter shall be required to establish that the son or daughter has been physically present in the United States for a continuous period beginning not later than December 1, 1995, and ending not earlier than the date on which the application for such adjustment is filed;
+&emsp;&emsp;“(B)(i) the alien is the spouse, child, or unmarried son or daughter of an alien who is or was eligible for classification under subsection (a), except that, in the case of such an unmarried son or daughter,the son or daughter shall be required to establish that the son or daughter has been physically present in the United States for a continuous period beginning not later than December 1, 1995, and ending not earlier than the date on which the application for such adjustment is filed;
 
 &emsp;&emsp;“(ii) at the time of filing of the application for adjustment under subsection (a), the alien is the spouse or child of an alien who is or was eligible for classification under subsection (a) and the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the individual described in subsection (a); and
 
@@ -664,7 +664,7 @@ Rules in applying certain provisions.—In the case of an alien described in sub
 
 &emsp;“(3)
 
-Relationship of application to certain orders.—An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition of submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate suchorder. If the Attorney General grants the application, the Attorney General shall cancel the order. If the Attorney General renders a final administrative decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.
+Relationship of application to certain orders.—An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition of submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate such order. If the Attorney General grants the application, the Attorney General shall cancel the order. If the Attorney General renders a final administrative decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.
 
 “(b)
 
@@ -764,13 +764,13 @@ No Offset in Number of Visas Available.—When an alien is granted the status of
 
 “(h)
 
-Application of Immigration and Nationality Act Provisions.—Except as otherwise specifically provided in this section, the definitions contained in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]shall apply in the administration of this section. Nothing contained in this section shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.”
+Application of Immigration and Nationality Act Provisions.—Except as otherwise specifically provided in this section, the definitions contained in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall apply in the administration of this section. Nothing contained in this section shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or anyother law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.”
 
 \[Pub. L. 109–162, title VIII, §815(c), Jan. 5, 2006, 119 Stat. 3060, provided that: “The amendment made by subsection (b) \[amending section 202(d)(3) of Pub. L. 105–100, set out above\] shall take effect as if included in the enactment of the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491).”\]
 
 #### Adjustment of Status for Certain Polish and Hungarian Parolees
 
-Section 646 of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title VI, §646, Sept. 30, 1996, 110 Stat. 3009–709, provided that:
 
 “(a)
 
@@ -806,7 +806,7 @@ No Offset in Number of Visas Available.—When an alien is granted the status of
 
 #### Fingerprint Checks
 
-Section 506(d) of Pub. L. 103–317 provided that: “The Immigration and Naturalization Service shall conduct full fingerprint identification checks through the Federal Bureau of Investigation for all individuals over sixteen years of age adjusting immigration status in the United States pursuant to this section \[amending this section and section 1182 of this title and enacting provisions set out as a note under section 1182 of this title\].”
+Pub. L. 103–317, title V, §506(d), Aug. 26, 1994, 108 Stat. 1766, provided that: “The Immigration and Naturalization Service shall conduct full fingerprint identification checks through the Federal Bureau of Investigation for all individuals over sixteen years of age adjusting immigration status in the United States pursuant to this section \[amending this section and section 1182 of this title and enacting provisions set out as a note under section 1182 of this title\].”
 
 #### Adjustment of Status of Certain Nationals of People's Republic of China
 
@@ -898,7 +898,7 @@ Application Period Defined.—In this section, the term ‘application period’
 
 #### Adjustment of Status for Certain H–1 Nonimmigrant Nurses
 
-Pub. L. 101–238, §2, Dec. 18, 1989, 103 Stat. 2099, as amended by Pub. L. 101–649, title I, §162(f)(1), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–232, title III, §§302(e)(10), 307(<i>l</i>)(10), Dec. 12, 1991, 105 Stat. 1746, 1757, provided that:
+Pub. L. 101–238, §2, Dec. 18, 1989, 103 Stat. 2099, as amended by Pub. L. 101–649, title I, §162(f)(1), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–232, title III, §§302(e)(10), 307(l)(10), Dec. 12, 1991, 105 Stat. 1746, 1757, provided that:
 
 “(a)
 
@@ -924,9 +924,9 @@ Application of Immigration and Nationality Act Provisions.—The definitions con
 
 Application Period.—The alien, and accompanying spouse and children, must apply for such adjustment within the 5-year period beginning on the date the Attorney General promulgates regulations required under subsection (a).”
 
-\[Section 302(e)(10) of Pub. L. 102–232 provided that the amendment made by that section to section 2(b) of Pub. L. 101–238, set out above, is effective as if included in the Immigration Nursing Relief Act of 1989, Pub. L. 101–238.\]
+\[Pub. L. 102–232, title III, §302(e)(10), Dec. 12, 1991, 105 Stat. 1746, provided that the amendment made by section 302(e)(10) to section 2(b) of Pub. L. 101–238, set out above, is effective as if included in the Immigration Nursing Relief Act of 1989, Pub. L. 101–238.\]
 
-\[Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section to section 2(a)(3) of Pub. L. 101–238, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
+\[Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) to section 2(a)(3) of Pub. L. 101–238, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
 
 #### Adjustment of Status for Certain Soviet and Indochinese Parolees
 
@@ -954,7 +954,7 @@ Waiver of Certain Grounds for Inadmissibility.—The provisions of paragraphs (4
 
 “(d)
 
-Date of Approval.—Upon the approval of such an application for adjustment of status, the Secretaryof Homeland Security shall create a record of the alien's admission as a lawful permanent resident as of the date of the alien's inspection and parole described in subsection (b)(1), (b)(2) and (b)(3).
+Date of Approval.—Upon the approval of such an application for adjustment of status, the Secretary of Homeland Security shall create a record of the alien's admission as a lawful permanent resident as of the date of the alien's inspection and parole described in subsection (b)(1), (b)(2) and (b)(3).
 
 “(e)
 
@@ -970,7 +970,7 @@ Adjudication of Applications.—The Secretary of Homeland Security shall—
 
 \[Pub. L. 108–447, div. D, title V, §534(m)(7), Dec. 8, 2004, 118 Stat. 3007, provided that: “The amendments made by this subsection \[amending section 101(a) \[title V, §586\] of Pub. L. 106–429, set out above\] shall take effect as if enacted as part of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001 \[Pub. L. 106–429\].”\]
 
-Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(<i>l</i>)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, §534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(2), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(2), Dec. 23, 2011, 125 Stat. 1218, provided that:
+Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(l)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, §534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(2), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(2), Dec. 23, 2011, 125 Stat. 1218, provided that:
 
 “(a)
 
@@ -1004,7 +1004,7 @@ Date of Approval.—Upon the approval of such an application for adjustment of s
 
 No Offset in Number of Visas Available.—When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].”
 
-\[Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section to section 599E of Pub. L. 101–167, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
+\[Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) to section 599E of Pub. L. 101–167, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
 
 Pub. L. 95–145, title I, §§101–107, Oct. 28, 1977, 91 Stat. 1223, as amended by Pub. L. 96–212, title II, §203(i), Mar. 17, 1980, 94 Stat. 108, provided that status of alien who was native or citizen of Vietnam, Laos, or Cambodia, and was paroled into United States as refugee between Mar. 31, 1975, and Jan. 1, 1979, or was inspected and admitted or paroled into United States on or before Mar. 31, 1975, and was physically present in United States on Mar. 31, 1975, could be adjusted by Attorney General to that of an alien lawfully admitted for permanent residence if alien applied for such adjustment within six years after Oct. 28, 1977, and met certain other eligibility requirements.
 
@@ -1018,7 +1018,7 @@ Pub. L. 95–624, §16, Nov. 9, 1978, 92 Stat. 3465, provided that: “The Attor
 
 #### Cuban Refugees: Adjustment of Status
 
-Section 606 of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title VI, §606, Sept. 30, 1996, 110 Stat. 3009–695 provided that:
 
 “(a)
 
@@ -1028,7 +1028,7 @@ In General.—Public Law 89–732 \[set out below\] is repealed effective only u
 
 Limitation.—Subsection (a) shall not apply to aliens for whom an application for adjustment of status is pending on such effective date.”
 
-Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended by Pub. L. 94–571, §8, Oct. 20, 1976, 90 Stat. 2706; Pub. L. 96–212, title II, §203(i), Mar. 17, 1980, 94 Stat. 108; Pub. L. 106–386, div. B, title V, §1509(a), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 109–162, title VIII, §823(a), Jan. 5, 2006, 119 Stat. 3063, provided: “That, notwithstanding the provisions of section 245(c) of the Immigration and Nationality Act \[subsec. (c) of this section\], the status of any alien who is a native or citizen of Cuba and who has been inspected and admitted or paroled into the United States subsequent to January 1, 1959 and has been physically present in the United States for at least one year, may be adjusted by the Attorney General, in his discretion and under such regulations as he may prescribe, to that of an alien lawfully admitted for permanent residence if the alien makes an application for such adjustment, and the alien is eligible to receive an immigrant visa and is admissible to the United States for permanent residence. Upon approval of such an application for adjustment of status, the Attorney General shall create a record of the alien's admission for permanent residence as of a date thirty months prior to the filing of such an application or the date of his last arrival into the United States, whichever date is later. The provisions of this Act shall be applicable to the spouse and child of any alien described in this subsection, regardless of their citizenship and place of birth, who are residing with such alien in the United States, except that such spouse or child who has been battered or subjected to extreme cruelty may adjust to permanent resident status under this Act without demonstrating that he or she is residing with the Cuban spouse or parent in the United States. In acting on applications under this section with respect to spouses or children who have been battered or subjected to extreme cruelty, the Attorney General shall apply the provisions of section 204(a)(1)(J) \[probably means section 204(a)(1)(J) of the Immigration and Nationality Act, which is classified to section 1154(a)(1)(J) of this title\]. An alien who was the spouse of any Cuban alien described in this section and has resided with such spouse shall continue to be treated as such a spouse for 2 years after the date on which the Cuban alien dies (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) \[Jan. 5, 2006\], or for 2 years after the date of termination of the marriage (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) if there is demonstrated a connection between the termination of the marriage and the battering or extreme cruelty by the Cuban alien.
+Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended by Pub. L. 94–571, §8, Oct. 20, 1976, 90 Stat. 2706; Pub. L.96–212, title II, §203(i), Mar. 17, 1980, 94 Stat. 108; Pub. L. 106–386, div. B, title V, §1509(a), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 109–162, title VIII, §823(a), Jan. 5, 2006, 119 Stat. 3063, provided: “That, notwithstanding the provisions of section 245(c) of the Immigration and Nationality Act \[subsec. (c) of this section\], the status of any alien who is a native or citizen of Cuba and who has been inspected and admitted or paroled into the United States subsequent to January 1, 1959 and has been physically present in the United States for at least one year, may be adjusted by the Attorney General, in his discretion and under such regulations as he may prescribe, to that of an alien lawfully admitted for permanent residence if the alien makes an application for such adjustment, and the alien is eligible to receive an immigrant visa and is admissible to the United States for permanent residence. Upon approval of such an application for adjustment of status, the Attorney General shall create a record of the alien's admission for permanent residence as of a date thirty months prior to the filing of such an application or the date of his last arrival into the United States, whichever date is later. The provisions of this Act shall be applicable to the spouse and child of any alien described in this subsection, regardless of their citizenship and place of birth, who are residing with such alien in the United States, except that such spouse or child who has been battered or subjected to extreme cruelty may adjust to permanent resident status under this Act without demonstrating that he or she is residing with the Cuban spouse or parent in the United States. In acting on applications under this section with respect to spouses or children who have been battered or subjected to extreme cruelty, the Attorney General shall apply the provisions of section 204(a)(1)(J) \[probably means section 204(a)(1)(J) of the Immigration and Nationality Act, which is classified to section 1154(a)(1)(J) of this title\]. An alien who was the spouse of any Cuban alien described in this section and has resided with such spouse shall continue to be treated as such a spouse for 2 years after the date on which the Cuban alien dies (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) \[Jan. 5, 2006\], or for 2 years after the date of termination of the marriage (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) if there is demonstrated a connection between the termination of the marriage and the battering or extreme cruelty by the Cuban alien.
 
 “
 
@@ -1052,7 +1052,7 @@ Sec. 5. The approval of an application for adjustment of status to that of lawfu
 
 \[Pub. L. 106–386, div. B, title V, §1509(b), Oct. 28, 2000, 114 Stat. 1531, provided that: “The amendment made by subsection (a) \[amending Pub. L. 89–732 set out above\] shall be effective as if included in subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq. \[see Tables for classification\].)”\]
 
-\[Section 204(b)(1)(C) of Pub. L. 96–212 provided that the amendment of section 1 of Pub. L. 89–732, set out above, by Pub. L. 96–212 is effective immediately before Apr. 1, 1980.\]
+\[Pub. L. 96–212, title II, §204(b)(1)(C), Mar. 17, 1980, 94 Stat. 108, provided that the amendment made by section 204(b)(1)(C) to section 1 of Pub. L. 89–732, set out above, is effective immediately before Apr. 1, 1980.\]
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

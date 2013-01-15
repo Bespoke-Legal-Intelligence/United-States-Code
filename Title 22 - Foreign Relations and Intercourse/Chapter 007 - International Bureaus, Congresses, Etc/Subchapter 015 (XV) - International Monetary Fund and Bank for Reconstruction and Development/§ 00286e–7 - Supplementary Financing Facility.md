@@ -16,5 +16,5 @@ Notwithstanding any other provision of this section, the authority of the Secret
 
 #### Codification
 
-In subsec. (b), “section 5302 of title 31” substituted for “section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “section 5302 of title 31” substituted for “section 10 of the Gold Reserve Act of 1934, asamended (31 U.S.C. 822a)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

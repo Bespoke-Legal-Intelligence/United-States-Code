@@ -60,7 +60,7 @@
 
 &emsp;(i) on its own motion or on the request of a party, determines that a circumstance specified in clause (i), (ii), or (iii) of subparagraph (A) exists; or
 
-&emsp;(ii) receives a request made by a majority of the appellants and a majority of appellees (if any) to make the certification described in subparagraph (A);
+&emsp;(ii) receives a request made by a majority of the appellants and a majority of appellees (ifany) to make the certification described in subparagraph (A);
 
 > then the bankruptcy court, the district court, or the bankruptcy appellate panel shall make the certification described in subparagraph (A).
 

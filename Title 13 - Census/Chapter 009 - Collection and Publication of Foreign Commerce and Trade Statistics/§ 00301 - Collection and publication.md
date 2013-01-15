@@ -1,6 +1,6 @@
 ### §301. Collection and publication
 
-(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and furtherthe commerce, domestic and foreign, of the United States and for other lawful purposes.
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
 
 (b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product. Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
 
@@ -30,7 +30,7 @@
 
 (d) To assist the Secretary to carry out the provisions of subsections (b) and (c)—
 
-&emsp;(1) the Secretary of Agriculture shall furnish information to the Secretary concerning the value of agricultural commodities exported under provisions of the Food for Peace Act, as amended, and the total amounts of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
+&emsp;(1) the Secretary of Agriculture shall furnish information to the Secretary concerning the value of agricultural commodities exported under provisions of the Food for Peace Act, asamended, and the total amounts of all export subsidies paid to exporters by the United States under such Act for the exportation of such commodities; and
 
 &emsp;(2) the Secretary of State shall furnish information to the Secretary concerning the value of goods exported under the provisions of the Foreign Assistance Act of 1961, as amended.
 
@@ -58,7 +58,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is P
 
 <b>1999</b>—Subsec. (h). Pub. L. 106–113 added subsec. (h).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “TariffSchedules of the United States Annotated and general statistical headnote 1 thereof”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
 Subsec. (e). Pub. L. 100–418, §1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) \[set out below\], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.” \[The Automated Export System Certification Report was submitted to the Committee on Foreign Relations of the Senate on June 11, 2001, and to the Committee on International Relations of the House of Representatives on May 31, 2001. See 66 F.R. 39006.\]
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) \[setout below\], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.” \[The Automated Export System Certification Report was submitted to the Committee on Foreign Relations of the Senate on June 11, 2001, and to the Committee on International Relations of the House of Representatives on May 31, 2001. See 66 F.R. 39006.\]
 
 #### Effective Date of 1988 Amendment
 
@@ -162,7 +162,7 @@ Pub. L. 100–418, title I, §1931(b), Aug. 23, 1988, 102 Stat. 1320, provided t
 
 #### Congressional Access to Information
 
-Pub. L. 96–275, §3, June 17, 1980, 94 Stat. 540, provided that: “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
+Pub. L. 96–275, §3, June 17, 1980, 94 Stat. 540, provided that: “Nothing in this Act \[enacting subsec. (g) of thissection, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
 
 #### Definitions
 

@@ -54,5 +54,5 @@ Subsec. (b)(2)(F). Pub. L. 112–81, §2814(2), added subpar. (F).
 
 #### Effective Date
 
-Section 332(b) of Pub. L. 104–201 provided that: “Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, §332(b), Sept. 23, 1996, 110 Stat. 2485, provided that: “Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 

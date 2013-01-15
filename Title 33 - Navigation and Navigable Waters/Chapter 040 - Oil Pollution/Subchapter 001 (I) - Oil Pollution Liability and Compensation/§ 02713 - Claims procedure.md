@@ -44,7 +44,7 @@ The President shall promulgate, and may from time to time amend, regulations for
 
 #### (1) In general
 
-&emsp;The President shall establish a loan program under the Fund to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
+&emsp;The President shall establish a loan program under the Fund to provide interim assistanceto fishermen and aquaculture producer claimants during the claims procedure.
 
 #### (2) Eligibility for loan
 

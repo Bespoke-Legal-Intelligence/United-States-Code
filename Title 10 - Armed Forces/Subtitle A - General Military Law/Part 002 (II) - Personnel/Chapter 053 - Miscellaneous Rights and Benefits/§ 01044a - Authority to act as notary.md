@@ -20,7 +20,7 @@
 
 &emsp;(4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
 
-&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
+&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations ofthe Secretary concerned or by statute to have those powers for exercise outside the United States.
 
 (c) No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 

@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (3) Lead insured depository institution
 
-&emsp;The term “lead insured depository institution” has the same meaning as in section 1841(<i>o</i>)(8) <sup>1</sup> of this title.
+&emsp;The term “lead insured depository institution” has the same meaning as in section 1841(o)(8) <sup>1</sup> of this title.
 
 #### (b) Examination requirements
 
@@ -34,7 +34,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (1) In general
 
-&emsp;In the event that the Board does not conduct examinations required under subsection (b) in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted by the lead insured depository institution subsidiary of the depository institution holding company, the appropriate Federal banking agency for the lead insured depository institution may recommend in writing (which shall include a written explanation of the concerns giving rise to the recommendation) that the Board perform the examination required under subsection (b).
+&emsp;In the event that the Board does not conduct examinations required under subsection (b) in the same manner, subject to the same standards, and with the same frequency as would be required if such activities were conducted by the lead insured depository institution subsidiary of the depository institution holdingcompany, the appropriate Federal banking agency for the lead insured depository institution may recommend in writing (which shall include a written explanation of the concerns giving rise to the recommendation) that the Board perform the examination required under subsection (b).
 
 #### (2) Examination by an appropriate Federal banking agency
 
@@ -84,7 +84,7 @@ Each Federal banking agency, prior to or when exercising authority under subsect
 
 &emsp;&emsp;(B) avoid duplication of examination activities, reporting requirements, and requests for information; and
 
-&emsp;&emsp;(C) ensure that the depository institution holding company and the subsidiaries of the depository institution holding company are not subject to conflicting supervisory demands by the appropriate Federal banking agencies.
+&emsp;&emsp;(C) ensure that the depository institution holding company and the subsidiaries of thedepository institution holding company are not subject to conflicting supervisory demands by the appropriate Federal banking agencies.
 
 #### (g) Rule of construction
 
@@ -96,7 +96,7 @@ No provision of this section shall be construed as limiting any authority of the
 
 Section 1844(c)(5) of this title, referred to in subsec. (a)(2), was in the original “section 5(c)(5) of the Bank Holding Company Act” and was translated as reading “section 5(c)(5) of the Bank Holding Company Act of 1956” to reflect the probable intent of Congress.
 
-Section 1841(<i>o</i>)(8) of this title, referred to in subsec. (a)(3), was in the original “section 2(<i>o</i>)(8) of the Bank Holding Company Act” and was translated as reading “section 2(<i>o</i>)(8) of the Bank Holding Company Act of 1956” to reflect the probable intent of Congress.
+Section 1841(o)(8) of this title, referred to in subsec. (a)(3), was in the original “section 2(o)(8) of the Bank Holding Company Act” and was translated as reading “section 2(o)(8) of the Bank Holding Company Act of 1956” to reflect the probable intent of Congress.
 
 The Consumer Financial Protection Act of 2010, referred to in subsecs. (b) and (d)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -106,7 +106,7 @@ A prior section 1831c, act Sept. 21, 1950, ch. 967, §2\[26\], as added Nov. 10,
 
 #### Effective Date
 
-Pub. L. 111–203, title VI, §605(b), July 21, 2010, 124 Stat. 1607, provided that: “The amendment made bysubsection (a) \[enacting this section\] shall take effect on the transfer date.”
+Pub. L. 111–203, title VI, §605(b), July 21, 2010, 124 Stat. 1607, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the transfer date.”
 
 \[For definition of “transfer date” as used in section 605(b) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

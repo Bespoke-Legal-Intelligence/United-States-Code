@@ -50,7 +50,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 Each loan guaranteed pursuant to this section shall—
 
-&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date theloan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
+&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
 
 &emsp;(2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
 
@@ -96,7 +96,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Indemnification
 
-&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
+&emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordancewith the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
 
 &emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
 
@@ -110,7 +110,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
 
-#### (<i>l</i>) Geographical targeting
+#### (l) Geographical targeting
 
 #### (1) Study
 
@@ -128,7 +128,7 @@ Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed
 
 The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
-#### (<i>o</i>) Housing standards
+#### (o) Housing standards
 
 The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this title shall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
 
@@ -152,11 +152,11 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;The report shall—
 
-&emsp;&emsp;(A) describe the types of borrowers providing housing with loans guaranteed under this section, the areas served by the housing provided and the geographical distribution of the housing, the levels of income of the residents of the housing, the number of dwelling units provided, the extent to which borrowers under such loans have obtained other financial assistance for development costs of housing provided with the loans, and the extent to which borrowers under such loans have used low-income housing tax credits provided under section 42 of title 26 in connection with the housing provided with the loans;
+&emsp;&emsp;(A) describe the types of borrowers providing housing with loans guaranteed under this section, the areas served by the housing provided and the geographical distribution of the housing, the levels of income of the residents of the housing, the number of dwelling units provided, the extent to which borrowers under such loans have obtained other financial assistance for development costs of housing provided with the loans, and the extent to which borrowers under such loans have used low-income housing tax credits provided under section 42 of title 26in connection with the housing provided with the loans;
 
 &emsp;&emsp;(B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
 
-&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving theprogram under this section for guaranteeing loans; and
+&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving the program under this section for guaranteeing loans; and
 
 &emsp;&emsp;(D) include any other information regarding the program for guaranteeing loans under this section that the Secretary considers appropriate.
 
@@ -220,9 +220,9 @@ Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out forme
 
 Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted “(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment” for “(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment”.
 
-Subsec. (<i>l</i>). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “The borrower under a loan that is guaranteed under this section andunder which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
+Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: “The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made.”
 
-Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (<i>l</i>).
+Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
 
 Subsec. (s). Pub. L. 106–569, §707(7), redesignated subsec. (t) as (s). Former subsec. (s) redesignated (r).
 

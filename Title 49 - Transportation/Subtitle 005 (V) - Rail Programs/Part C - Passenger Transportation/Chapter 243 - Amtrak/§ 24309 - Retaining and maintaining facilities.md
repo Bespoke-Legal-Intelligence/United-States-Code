@@ -102,7 +102,7 @@ In subsection (c)(1), the words “first” and “to take such action” are om
 
 In subsection (c)(2), before clause (A), the words “need for the” are added for clarity. The words “necessary or” are omitted as surplus. The words “Within 90 days after September 29, 1979” and 45:566(d)(2)(A)(i) are omitted as executed. The word “maintain” is substituted for “take steps to prepare” for clarity. The words “survey plan which shall provide for” and “compilation, and storage” are omitted as surplus. In clause (F), the words “over time” are omitted as surplus.
 
-In subsection (d)(2), before clause (A), the word “timely” is omitted as surplus. In clause (F), the words“rail line” are substituted for “lines of railroad” for consistency in the revised title and with other titles of the Code.
+In subsection (d)(2), before clause (A), the word “timely” is omitted as surplus. In clause (F), the words “rail line” are substituted for “lines of railroad” for consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words “approval of” are omitted as surplus.
 

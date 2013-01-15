@@ -118,5 +118,5 @@ Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(6)\], substituted
 
 #### Effective Date
 
-Section 4006(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[enacting this section, amending sections 220 and 4973 of this title, and renumbering former section 138 of this title as section 139 of this title\] shall apply to taxable years beginning after December 31, 1998.”
+Pub. L. 105–33, title IV, §4006(c), Aug. 5, 1997, 111 Stat. 334, provided that: “The amendments made by this section \[enacting this section, amending sections 220 and 4973 of this title, and renumbering former section 138 of this title as section 139 of this title\] shall apply to taxable years beginning after December 31, 1998.”
 

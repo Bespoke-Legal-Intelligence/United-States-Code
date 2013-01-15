@@ -14,7 +14,7 @@ Congress finds and declares that—
 
 #### Short Title
 
-Section 1 of Pub. L. 95–395 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Rhode Island Indian Claims Settlement Act’.”
+Pub. L. 95–395, §1, Sept. 30, 1978, 92 Stat. 813, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Rhode Island Indian Claims Settlement Act’.”
 
 For short title of Pub. L. 96–420, which enacted subchapter II of this chapter, as the “Maine Indian Claims Settlement Act of 1980”, see section 1 of Pub. L. 96–420, set out as a note under section 1721 of this title.
 
@@ -24,7 +24,7 @@ For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter
 
 For short title of Pub. L. 100–95, which enacted subchapter V of this chapter, as the “Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–95, set out as a note under section 1771 of this title.
 
-For short title of Pub. L. 100–228, which enacted subchapter VI of this chapter, as the “Seminole Indian Land Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–228, set out as a note under section 1772 of this title.
+For short title of Pub. L. 100–228, which enacted subchapter VI of this chapter, as the “Seminole Indian Land Claims Settlement Act of 1987”, see section 1 ofPub. L. 100–228, set out as a note under section 1772 of this title.
 
 For short title of Pub. L. 101–41, which enacted subchapter VII of this chapter, as the “Puyallup Tribe of Indians Settlement Act of 1989”, see section 1 of Pub. L. 101–41, set out as a note under section 1773 of this title.
 
@@ -36,7 +36,7 @@ For short title of Pub. L. 103–444, which enacted subchapter X of this chapter
 
 For short title of Pub. L. 106–425, which enacted subchapter XI of this chapter, as the “Santo Domingo Pueblo Claims Settlement Act of 2000”, see section 1 of Pub. L. 106–425, set out as a note under section 1777 of this title.
 
-For short title of title VI of Pub. L. 106–568, which enacted subchapter XII of this chapter, as the “Torres-Martinez Desert Cahuilla Indians Claims SettlementAct”, see section 601 of Pub. L. 106–568, set out as a note under section 1778 of this title.
+For short title of title VI of Pub. L. 106–568, which enacted subchapter XII of this chapter, as the “Torres-Martinez Desert Cahuilla Indians Claims Settlement Act”, see section 601 of Pub. L. 106–568, set out as a note under section 1778 of this title.
 
 For short title of title VI of Pub. L. 107–331, which enacted subchapter XIII of this chapter, as the “Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act”, see section 601 of Pub. L. 107–331, set out as a note under section 1779 of this title.
 

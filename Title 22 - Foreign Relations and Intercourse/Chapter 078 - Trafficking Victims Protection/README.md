@@ -6,6 +6,10 @@
 | [7102\.](%C2%A7%2007102%20-%20Definitions.md) | Definitions. |
 | [7103\.](%C2%A7%2007103%20-%20Interagency%20Task%20Force%20to%20Monitor%20and%20Combat%20Trafficking.md) | Interagency Task Force to Monitor and Combat Trafficking. |
 | [7104\.](%C2%A7%2007104%20-%20Prevention%20of%20trafficking.md) | Prevention of trafficking. |
+| [7104a.](%C2%A7%2007104a%20-%20Compliance%20plan%20and%20certification%20requirement.md) | Compliance plan and certification requirement. |
+| [7104b.](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md) | Monitoring and investigation of trafficking in persons. |
+| [7104c.](%C2%A7%2007104c%20-%20Notification%20to%20Inspectors%20General%20and%20cooperation%20with%20government.md) | Notification to Inspectors General and cooperation with government. |
+| [7104d.](%C2%A7%2007104d%20-%20Rules%20of%20construction%3B%20effective%20date.md) | Rules of construction; effective date. |
 | [7105\.](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md) | Protection and assistance for victims of trafficking. |
 | [7105a.](%C2%A7%2007105a%20-%20Increasing%20effectiveness%20of%20anti-trafficking%20programs.md) | Increasing effectiveness of anti-trafficking programs. |
 | [7106\.](%C2%A7%2007106%20-%20Minimum%20standards%20for%20the%20elimination%20of%20trafficking.md) | Minimum standards for the elimination of trafficking. |
@@ -29,6 +33,10 @@
 - [&sect; 07102 - Definitions](%C2%A7%2007102%20-%20Definitions.md)
 - [&sect; 07103 - Interagency Task Force to Monitor and Combat Trafficking](%C2%A7%2007103%20-%20Interagency%20Task%20Force%20to%20Monitor%20and%20Combat%20Trafficking.md)
 - [&sect; 07104 - Prevention of trafficking](%C2%A7%2007104%20-%20Prevention%20of%20trafficking.md)
+- [&sect; 07104a - Compliance plan and certification requirement](%C2%A7%2007104a%20-%20Compliance%20plan%20and%20certification%20requirement.md)
+- [&sect; 07104b - Monitoring and investigation of trafficking in persons](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md)
+- [&sect; 07104c - Notification to Inspectors General and cooperation with government](%C2%A7%2007104c%20-%20Notification%20to%20Inspectors%20General%20and%20cooperation%20with%20government.md)
+- [&sect; 07104d - Rules of construction; effective date](%C2%A7%2007104d%20-%20Rules%20of%20construction%3B%20effective%20date.md)
 - [&sect; 07105 - Protection and assistance for victims of trafficking](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md)
 - [&sect; 07105a - Increasing effectiveness of anti-trafficking programs](%C2%A7%2007105a%20-%20Increasing%20effectiveness%20of%20anti-trafficking%20programs.md)
 - [&sect; 07106 - Minimum standards for the elimination of trafficking](%C2%A7%2007106%20-%20Minimum%20standards%20for%20the%20elimination%20of%20trafficking.md)

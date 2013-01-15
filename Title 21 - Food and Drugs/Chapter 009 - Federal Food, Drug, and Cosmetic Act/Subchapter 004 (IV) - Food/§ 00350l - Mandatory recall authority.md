@@ -8,7 +8,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (1) In general
 
-&emsp;If the responsible party refuses to or does not voluntarily cease distribution or recallsuch article within the time and in the manner prescribed by the Secretary (if so prescribed), the Secretary may, by order require, as the Secretary deems necessary, such person to—
+&emsp;If the responsible party refuses to or does not voluntarily cease distribution or recall such article within the time and in the manner prescribed by the Secretary (if so prescribed), the Secretary may, by order require, as the Secretary deems necessary, such person to—
 
 &emsp;&emsp;(A) immediately cease distribution of such article; and
 
@@ -34,7 +34,7 @@ If the Secretary determines, based on information gathered through the reportabl
 
 #### (3) Determination to limit areas affected
 
-&emsp;If the Secretary requires a responsible party to cease distribution under paragraph (1)(A) of an article of food identified in subsection (a), the Secretary may limit the size of the geographic area and the markets affected by such cessation if such limitation would not compromise the public health.
+&emsp;If the Secretary requires a responsible party to cease distribution under paragraph (1)(A) of an article of food identified in subsection (a), the Secretary may limit the size of the geographic area and the markets affected by suchcessation if such limitation would not compromise the public health.
 
 #### (c) Hearing on order
 
@@ -134,7 +134,7 @@ Pub. L. 111–353, title II, §206(b), Jan. 4, 2011, 124 Stat. 3942, provided th
 
 &emsp;“(1) is consumer-friendly, as determined by the Secretary; and
 
-&emsp;“(2) provides a means by which an individual may locate relevant information regarding each article of food subject to a recall under section 423 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350<i>l</i>\] and the status of such recall (such as whether a recall is ongoing or has been completed).”
+&emsp;“(2) provides a means by which an individual may locate relevant information regarding each article of food subject to a recall under section 423 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350l\] and the status of such recall (such as whether a recall is ongoing or has been completed).”
 
 <i><sup>1</sup></i><i> So in original. The words “to immediately cease distribution of such article.” probably should follow cl. (ii).</i>
 

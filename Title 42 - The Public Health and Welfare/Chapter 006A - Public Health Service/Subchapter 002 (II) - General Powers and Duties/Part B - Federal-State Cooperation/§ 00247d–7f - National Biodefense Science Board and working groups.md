@@ -4,7 +4,7 @@
 
 #### (1) Establishment and function
 
-&emsp;The Secretary shall establish the National Biodefense Science Board (referred to in this section as the “Board”) to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
+&emsp;The Secretary shall establish the National Biodefense Science Board (referred to in this section as the “Board”) to provide expert advice and guidance to the Secretary on scientific, technical and other matters of specialinterest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
 
 #### (2) Membership
 
@@ -84,7 +84,7 @@
 
 #### (D) Detail of Government employees
 
-&emsp;&emsp;Any Federal Government employee may be detailed to the Board with the approval forthe contributing agency without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;&emsp;Any Federal Government employee may be detailed to the Board with the approval for the contributing agency without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (b) Other working groups
 
@@ -94,7 +94,7 @@ The Secretary may establish a working group of experts, or may use an existing w
 
 &emsp;(2) identify accepted animal models for particular diseases and conditions associated with any biological, chemical, radiological, or nuclear agent, any toxin, or any potential pandemic infectious disease, and identify strategies to accelerate animal model and research tool development and validation; and
 
-&emsp;(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
+&emsp;(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products thatare likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
 
 #### (c) Definitions
 

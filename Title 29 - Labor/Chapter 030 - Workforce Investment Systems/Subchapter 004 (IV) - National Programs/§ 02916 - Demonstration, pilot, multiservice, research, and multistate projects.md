@@ -210,7 +210,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award National Energy Training Partnerships Grants on a competitive basis to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency and to develop an energy efficiency and renewable energy industries workforce. Grants shall be awarded under this subparagraph so as to ensure geographic diversity with at least 2 grants awarded to entities located in each of the 4 Petroleum Administration for Defense Districts with no subdistricts, and at least 1 grant awarded to an entity located in each of the subdistricts of the Petroleum Administration for Defense District with subdistricts.
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall awardNational Energy Training Partnerships Grants on a competitive basis to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency and to develop an energy efficiency and renewable energy industries workforce. Grants shall be awarded under this subparagraph so as to ensure geographic diversity with at least 2 grants awarded to entities located in each of the 4 Petroleum Administration for Defense Districts with no subdistricts, and at least 1 grant awarded to an entity located in each of the subdistricts of the Petroleum Administration for Defense District with subdistricts.
 
 #### (ii) Eligibility
 
@@ -238,7 +238,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (ii) Activities
 
-&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to provide funding to the State agency that administers the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] and State unemployment compensation programs to carry out thefollowing activities using State agency merit staff:
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to provide funding to the State agency that administers the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] and State unemployment compensation programs to carry out the following activities using State agency merit staff:
 
 &emsp;&emsp;&emsp;&emsp;(I) The identification of job openings in the renewable energy and energy efficiency sector.
 
@@ -414,7 +414,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original “this title” meaningtitle I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (e)(2)(C)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

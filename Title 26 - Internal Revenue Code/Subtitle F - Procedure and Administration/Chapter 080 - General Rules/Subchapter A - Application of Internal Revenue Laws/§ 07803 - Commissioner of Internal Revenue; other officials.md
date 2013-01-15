@@ -36,7 +36,7 @@
 
 #### (3) Consultation with Board
 
-&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth inparagraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
+&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 
 #### (b) Chief Counsel for the Internal Revenue Service
 

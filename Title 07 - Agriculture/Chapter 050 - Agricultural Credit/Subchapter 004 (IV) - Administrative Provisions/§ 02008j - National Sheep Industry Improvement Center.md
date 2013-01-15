@@ -318,7 +318,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to any participation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
+&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to anyparticipation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
 
 #### (ii) Vote
 
@@ -382,7 +382,7 @@ The purposes of the Center shall be to—
 
 #### (2) Other officers and employees
 
-&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall bevested with such powers and duties as the Board may determine.
+&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall be vested with such powers and duties as the Board may determine.
 
 #### (3) Delegation
 

@@ -226,7 +226,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §501(8), (9); added Dec. 22, 197
 
 In this chapter, the word “model” is substituted for “model type” for consistency in this part.
 
-In subsection (a)(3), before clause (A), the words “except as provided in section 32908 of this title” are added for clarity. The word “line” is added for consistency in the revised title and with other titles of the United States Code. The words “or rails” are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
+In subsection (a)(3), before clause (A), the words “except as provided in section 32908 of this title” are addedfor clarity. The word “line” is added for consistency in the revised title and with other titles of the United States Code. The words “or rails” are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
 
 In subsection (a)(4), the words “ ‘automobile manufactured by a manufacturer’ includes” are substituted for “Any reference in this subchapter to automobiles manufactured by a manufacturer shall be deemed—(1) to include” to eliminate unnecessary words. The word “every” is substituted for “all” because of the restatement. The words “but does not include” are substituted for “to exclude” for consistency. The words “manufactured by the person” are substituted for “manufactured (within the meaning of paragraph (1))” to eliminate unnecessary words.
 
@@ -308,7 +308,7 @@ Establishment.—There is established in the National Highway Traffic Safety Adm
 
 &emsp;“(3) in consultation with the Secretary of the Treasury, make electronic payments to dealers for eligible transactions by such dealers, in accordance with the regulations issued under subsection (d); and
 
-&emsp;“(4) in consultation with the Secretary of the Treasury and the Inspector General of the Department of Transportation, establish and provide for the enforcement of measures to prevent and penalize fraud under the program.
+&emsp;“(4) in consultation with the Secretary of the Treasury and the Inspector General of the Department of Transportation, establish and provide for theenforcement of measures to prevent and penalize fraud under the program.
 
 “(b)
 
@@ -414,7 +414,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;“(3) require the dealer to use the voucher in addition to any other rebate or discount advertised by the dealer or offered by the manufacturer for the new fuel efficient automobile and prohibit the dealer from using the voucher to offset any such other rebate or discount;
 
-&emsp;“(4) require dealers to disclose to the person trading in an eligible trade-in vehicle the best estimate of the scrappage value of such vehicle and to permit the dealer to retain $50 of any amounts paid to the dealer for scrappage of the automobile as payment for any administrative costs to the dealer associated with participation in the Program;
+&emsp;“(4) require dealers to disclose to the person trading in an eligible trade-in vehicle the best estimate of the scrappage value of such vehicle and to permit the dealer to retain $50 of any amounts paid to the dealerfor scrappage of the automobile as payment for any administrative costs to the dealer associated with participation in the Program;
 
 &emsp;“(5) consistent with subsection (c)(2), establish requirements and procedures for the disposal of eligible trade-in vehicles and provide such information as may be necessary to entities engaged in such disposal to ensure that such vehicles are disposed of in accordance with such requirements and procedures, including—
 
@@ -508,7 +508,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;“(A) with respect to a new fuel efficient automobile, the number, expressed in miles per gallon, centered below the words ‘Combined Fuel Economy’ on the label required to be affixed or caused to be affixed on a new automobile pursuant to subpart D of part 600 of title 40, Code of Federal Regulations;
 
-&emsp;&emsp;“(B) with respect to an eligible trade-in vehicle, the equivalent of the number described in subparagraph (A), and posted under the words ‘Estimated New EPA MPG’ and above the word ‘Combined’ for vehicles of model year 1984 through 2007, or posted under the words ‘New EPA MPG’ and above the word ‘Combined’ for vehicles of model year 2008 or later on the fueleconomy.gov website of the Environmental Protection Agency for the make, model, and year of such vehicle; or
+&emsp;&emsp;“(B) with respect to an eligible trade-in vehicle, the equivalent of the number described in subparagraph (A), and posted under the words ‘EstimatedNew EPA MPG’ and above the word ‘Combined’ for vehicles of model year 1984 through 2007, or posted under the words ‘New EPA MPG’ and above the word ‘Combined’ for vehicles of model year 2008 or later on the fueleconomy.gov website of the Environmental Protection Agency for the make, model, and year of such vehicle; or
 
 &emsp;&emsp;“(C) with respect to an eligible trade-in vehicle manufactured between model years 1978 through 1985, the equivalent of the number described in subparagraph (A) as determined by the Secretary (and posted on the website of the National Highway Traffic Safety Administration) using data maintained by the Environmental Protection Agency for the make, model, and year of such vehicle.
 

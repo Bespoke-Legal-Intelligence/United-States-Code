@@ -34,5 +34,5 @@ The words “but not in the name of Congress” are omitted as surplusage, since
 
 #### References to Distinguished-Service Cross and Soldier's Medal Considered Made to Air Force Cross and Airman's Medal
 
-Section 3 of Pub. L. 86–593 provided that: “References that other laws, regulations, and orders make, with respect to the Air Force, to the distinguished-service cross and the Soldier's Medal shall be considered to be made to the Air Force cross and the Airman's Medal, respectively.”
+Pub. L. 86–593, §3, July 6, 1960, 74 Stat. 332, provided that: “References that other laws, regulations, and orders make, with respect to the Air Force, to the distinguished-service cross and the Soldier's Medal shall be considered to be made to the Air Force cross and the Airman's Medal, respectively.”
 

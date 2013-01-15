@@ -46,7 +46,7 @@ The mines, wells, and other natural deposits, and the percentages, referred to i
 
 #### (7) 14 percent
 
-&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or sold for use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as riprap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term “all other minerals” does not include—
+&emsp;All other minerals, including, but not limited to, aplite, barite, borax, calcium carbonates, diatomaceous earth, dolomite, feldspar, fullers earth, garnet, gilsonite, granite, limestone, magnesite, magnesium carbonates, marble, mollusk shells (including clam shells and oyster shells), phosphate rock, potash, quartzite, slate, soapstone, stone (used or soldfor use by the mine owner or operator as dimension stone or ornamental stone), thenardite, tripoli, trona, and (if paragraph (1)(B) does not apply) bauxite, flake graphite, fluorspar, lepidolite, mica, spodumene, and talc (including pyrophyllite), except that, unless sold on bid in direct competition with a bona fide bid to sell a mineral listed in paragraph (3), the percentage shall be 5 percent for any such other mineral (other than slate to which paragraph (5) applies) when used, or sold for use, by the mine owner or operator as rip rap, ballast, road material, rubble, concrete aggregates, or for similar purposes. For purposes of this paragraph, the term “all other minerals” does not include—
 
 &emsp;&emsp;(A) soil, sod, dirt, turf, water, or mosses;
 
@@ -174,11 +174,11 @@ Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted “paragraph (5) or (
 
 <b>1964</b>—Subsec. (b)(2)(B), (6). Pub. L. 88–571 inserted “beryllium” after “antimony” in par. (2)(B), and deleted “beryl” after “bauxite” in pars. (2)(B) and (6).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor propertydescribed in section 1231, and is properly allocable to the property.
 
 <b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
-Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building orpaving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
+Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
 Subsec. (b)(6). Pub. L. 86–564, §302(a)(3), struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
 
@@ -196,15 +196,15 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1990 Amendment
 
-Section 11522(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11522(c), Nov. 5, 1990, 104 Stat. 1388–486, provided that: “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall apply to taxable years beginning after December 31, 1990.”
 
 #### Effective Date of 1986 Amendment
 
-Section 412(a)(3) of Pub. L. 99–514 provided that: “The amendment made by this subsection \[amending this section and section 613A of this title\] shall apply to amounts received or accrued after August 16, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title IV, §412(a)(3), Oct. 22, 1986, 100 Stat. 2227, provided that: “The amendment made by this subsection \[amending this section and section 613A of this title\] shall apply to amounts received or accrued after August 16, 1986, in taxable years ending after such date.”
 
 #### Effective Date of 1978 Amendment
 
-Section 403(c) of Pub. L. 95–618 provided that: “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall take effect on October 1, 1978, and shall apply to taxable years ending on or after such date.”
+Pub. L. 95–618, title IV, §403(c), Nov. 9, 1978, 92 Stat. 3204, provided that: “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall take effect on October 1, 1978, and shall apply to taxable years ending on or after such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -216,25 +216,25 @@ Amendment by Pub. L. 94–12 effective Jan. 1, 1975, applicable to taxable years
 
 #### Effective Date of 1974 Amendment
 
-Section 2(b) of Pub. L. 93–499 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
+Pub. L. 93–499, §2(b), Oct. 29, 1974, 88 Stat. 1550, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 
 #### Effective Date of 1969 Amendment
 
-Section 501(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 9, 1969.”
+Pub. L. 91–172, title V, §501(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 9, 1969.”
 
-Section 502(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title V, §502(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1966 Amendment
 
-Section 207(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
+Pub. L. 89–809, title II, §207(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
-Section 208(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
+Pub. L. 89–809, title II, §208(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
-Section 209(c) of Pub. L. 89–809 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
+Pub. L. 89–809, title II, §209(c), Nov. 13, 1966, 80 Stat. 1580, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
 #### Effective Date of 1964 Amendment
 
-Section 6(b) of Pub. L. 88–571 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–571, §6(b), Sept. 2, 1964, 78 Stat. 860, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1962 Amendment
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1960 Amendment
 
-Section 302(c) of Pub. L. 86–564, as amended by Pub. L. 86–781, §4, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–564, title III, §302(c), June 30, 1960, 74 Stat. 293, as amended by Pub. L. 86–781, §4, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(c)
 
@@ -262,7 +262,7 @@ Election for past years.—In the case of calcium carbonates or other minerals w
 
 &emsp;&emsp;&emsp;“(i) the amendments made by subsection (b) \[amending this section\] shall apply to taxable years with respect to which such election is effective and
 
-&emsp;&emsp;&emsp;“(ii) provisions having the same effect as the amendments made by subsection (b) \[amending this section\] shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to taxable years with respect to which such election is effective in lieu of the corresponding provisions of such Code.
+&emsp;&emsp;&emsp;“(ii) provisions having the same effect as the amendments made by subsection (b) \[amending this section\] shall be deemed to be included in theInternal Revenue Code of 1939 and shall apply to taxable years with respect to which such election is effective in lieu of the corresponding provisions of such Code.
 
 &emsp;&emsp;“(B)
 
@@ -274,7 +274,7 @@ Years to which applicable.—An election made under subparagraph (C) to have the
 
 &emsp;&emsp;&emsp;“(iii) the commencement of a suit for recovery of a refund under section 7405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 7405 of this title\],
 
-&nbsp;&nbsp;is not prevented on the date of the enactment of this paragraph \[Sept. 14, 1960\] by the operation ofany law or rule of law. Such election shall also be effective for any taxable year beginning before January 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before the date of the enactment of this paragraph.
+&nbsp;&nbsp;is not prevented on the date of the enactment of this paragraph \[Sept. 14, 1960\] by the operation of any law or rule of law. Such election shall also be effective for any taxable year beginning before January 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before the date of the enactment of this paragraph.
 
 &emsp;&emsp;“(C)
 
@@ -310,5 +310,5 @@ Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 
-Section 36(b) of Pub. L. 85–866 provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
+Pub. L. 85–866, title I, §36(b), Sept. 2, 1958, 72 Stat. 1633, provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
 

@@ -6,7 +6,7 @@
 
 (c) If a person acting under subsection (a) of this section makes a prima facie showing of facts needing proof, the Secretary may direct that the reexamination include such interparty proceedings as the Secretary shall establish.
 
-(Pub. L. 91–577, title II, §91, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, §17, Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, §13(<i>o</i>), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title II, §91, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, §17, Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, §13(o), Oct. 6, 1994, 108 Stat. 3144.)
 
 #### Amendments
 

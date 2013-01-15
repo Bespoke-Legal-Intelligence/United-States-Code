@@ -72,7 +72,7 @@ Estimates for Program Baseline and Analyses and Targets for Contract Negotiation
 
 (3) The Program Manager and contracting officer for each major defense acquisition program and major automated information system program shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2).
 
-(4) Funds that are made available for a major defense acquisition program or major automated information system program in accordance witha cost estimate conducted pursuant to subsection (a)(6), but are excess to a cost analysis or target developed pursuant to paragraph (2), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
+(4) Funds that are made available for a major defense acquisition program or major automated information system program in accordance with a cost estimate conducted pursuant to subsection (a)(6), but are excess to a cost analysis or target developed pursuant to paragraph (2), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
 (5) Funds described in paragraph (4)—
 

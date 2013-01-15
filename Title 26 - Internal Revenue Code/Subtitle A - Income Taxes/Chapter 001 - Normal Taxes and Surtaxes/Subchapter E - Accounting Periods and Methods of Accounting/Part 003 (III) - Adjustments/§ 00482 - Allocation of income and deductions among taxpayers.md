@@ -1,6 +1,6 @@
 ### §482. Allocation of income and deductions among taxpayers
 
-In any case of two or more organizations, trades, or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, the Secretary may distribute, apportion, or allocate gross income, deductions, credits, or allowances between or among such organizations, trades, or businesses, if he determines that such distribution, apportionment, or allocation is necessary in order to prevent evasion of taxes or clearly to reflect the income of any of such organizations, trades, or businesses. In the case of any transfer (or license) of intangible property (within the meaning of section 936(h)(3)(B)), the income with respect to such transfer or license shall be commensurate with the income attributable to the intangible.
+In any case of two or more organizations, trades, or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, the Secretary may distribute, apportion, or allocate gross income, deductions, credits, or allowances between or among such organizations, trades, or businesses, if he determines that such distribution, apportionment, or allocation is necessary in order to prevent evasion of taxes or clearly to reflect the income of anyof such organizations, trades, or businesses. In the case of any transfer (or license) of intangible property (within the meaning of section 936(h)(3)(B)), the income with respect to such transfer or license shall be commensurate with the income attributable to the intangible.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 162; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §1231(e)(1), Oct. 22, 1986, 100 Stat. 2562.)
 
@@ -16,7 +16,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Regulations
 
-For requirement that, not later than 180 days after July 18, 1984, the Secretary of the Treasury modify thesafe harbor interest rates applicable under the regulations prescribed under this section so that such rates are consistent with the rates applicable under section 483 of this title by reason of the amendments made by Pub. L. 98–369, see section 44(b)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+For requirement that, not later than 180 days after July 18, 1984, the Secretary of the Treasury modify the safe harbor interest rates applicable under the regulations prescribed under this section so that such rates are consistent with the rates applicable under section 483 of this title by reason of the amendments made by Pub. L. 98–369, see section 44(b)(2) of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 #### Study of Application and Administration of This Section
 

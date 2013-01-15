@@ -164,7 +164,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (D) Parent
 
-&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent withwhom the child lives, or a person who is legally responsible for the welfare of the child).
+&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the welfare of the child).
 
 #### (E) Personal information
 
@@ -208,7 +208,7 @@ The Secretary shall establish or designate an office and review board within the
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title Vof the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -248,5 +248,5 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 #### Effective Date
 
-Section 514(b) of Pub. L. 93–380 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §514(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
 

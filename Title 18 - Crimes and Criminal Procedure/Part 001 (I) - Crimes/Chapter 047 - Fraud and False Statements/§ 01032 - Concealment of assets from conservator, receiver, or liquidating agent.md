@@ -22,7 +22,7 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in pa
 
 <b>2010</b>—Pub. L. 111–203, §211(b), struck out “of financial institution” after “agent” in section catchline.
 
-Par. (1). Pub. L. 111–203, §377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office ofThrift Supervision” after “Comptroller of the Currency”.
+Par. (1). Pub. L. 111–203, §377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office of Thrift Supervision” after “Comptroller of the Currency”.
 
 Pub. L. 111–203, §211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
 

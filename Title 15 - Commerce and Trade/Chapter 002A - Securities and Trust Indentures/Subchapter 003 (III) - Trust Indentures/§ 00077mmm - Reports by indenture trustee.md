@@ -2,7 +2,7 @@
 
 #### (a) Report to security holders; time; contents
 
-The indenture trustee shall transmit to the indenture security holders as hereinafter provided, at stated intervals of not more than 12 months, a brief report with respect to any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):— <sup>1</sup>
+The indenture trustee shall transmit to the indenture security holders as hereinafter provided,at stated intervals of not more than 12 months, a brief report with respect to any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):— <sup>1</sup>
 
 &emsp;(1) any change to its eligibility and its qualifications under section 77jjj of this title;
 
@@ -18,7 +18,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(7) any additional issue of indenture securities which it has not previously reported; and
 
-&emsp;(8) any action taken by it in the performance of its duties under the indenture which it has not previously reported and which in its opinion materially affects the indenture securities or the trust estate, except action in respect of a default, notice of which has been or is to be withheld by it in accordance with an indenture provision authorized by subsection (b) of section 77<i>ooo</i> of this title.
+&emsp;(8) any action taken by it in the performance of its duties under the indenture which it has not previously reported and which in its opinion materially affects the indenture securities or the trust estate, except action in respect of a default, notice of which has been or is to be withheld by it in accordance with an indenture provision authorized by subsection (b) of section 77ooo of this title.
 
 #### (b) Additional reports to security holders
 
@@ -26,7 +26,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(1) the release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) unless the fair value of such property, as set forth in the certificate or opinion required by paragraph (1) of subsection (d) of section 77nnn of this title, is less than 10 per centum of the principal amount of indenture securities outstanding at the time of such release, or such release and substitution, such report to be so transmitted within 90 days after such time; and
 
-&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or onproperty or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
+&emsp;(2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) of this section (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
 
 #### (c) Additional parties to whom reports to be transmitted
 
@@ -36,7 +36,7 @@ Reports pursuant to this section shall be transmitted by mail—
 
 &emsp;(2) to such holders of indenture securities as have, within the two years preceding such transmission, filed their names and addresses with the indenture trustee for that purpose; and
 
-&emsp;(3) except in the case of reports pursuant to subsection (b) of this section, to all holders of indenture securities whose names and addresses have been furnished to or received by the indenture trustee pursuant to section 77<i>lll</i> of this title.
+&emsp;(3) except in the case of reports pursuant to subsection (b) of this section, to all holders of indenture securities whose names and addresses have been furnished to or received by the indenture trustee pursuant to section 77lll of this title.
 
 #### (d) Filing of report with stock exchanges
 

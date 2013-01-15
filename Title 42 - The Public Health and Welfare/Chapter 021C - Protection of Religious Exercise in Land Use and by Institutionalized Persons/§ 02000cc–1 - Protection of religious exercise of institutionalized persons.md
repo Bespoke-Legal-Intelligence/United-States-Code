@@ -14,7 +14,7 @@ This section applies in any case in which—
 
 &emsp;(1) the substantial burden is imposed in a program or activity that receives Federal financial assistance; or
 
-&emsp;(2) the substantial burden affects, or removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes.
+&emsp;(2) the substantial burden affects, or removal of that substantial burden would affect,commerce with foreign nations, among the several States, or with Indian tribes.
 
 (Pub. L. 106–274, §3, Sept. 22, 2000, 114 Stat. 804.)
 

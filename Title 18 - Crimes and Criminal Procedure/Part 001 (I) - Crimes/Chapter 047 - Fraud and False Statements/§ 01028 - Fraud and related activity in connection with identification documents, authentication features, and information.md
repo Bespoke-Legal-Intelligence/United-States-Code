@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(A) is not issued by or under the authority of a governmental entity or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit; and
 
-&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, oran international governmental or quasi-governmental organization;
+&emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
 
 &emsp;(5) the term “false authentication feature” means an authentication feature that—
 
@@ -146,7 +146,7 @@ Rule of Construction.—For purpose of subsection (a)(7), a single identificatio
 
 Subsec. (d)(3). Pub. L. 109–177, §603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
 
-Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated bythe President as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
 
 <b>2005</b>—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
 
@@ -254,7 +254,7 @@ Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Ac
 
 #### Effective Date of 1996 Amendment
 
-Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title II, §211(c), Sept. 30, 1996, 110 Stat. 3009–570, provided that: “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Coordinating Committee on False Identification
 

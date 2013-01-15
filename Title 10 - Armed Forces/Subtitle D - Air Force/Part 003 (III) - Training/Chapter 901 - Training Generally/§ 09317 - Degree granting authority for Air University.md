@@ -38,7 +38,7 @@ Subsec. (a). Pub. L. 108–375, §556(a), substituted “may confer academic deg
 
 <b>1999</b>—Pub. L. 106–65, §543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, §543(a), amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
+Subsec. (a). Pub. L. 106–65, §543(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
 
 #### Effective Date of 2008 Amendment
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 
 #### Effective Date
 
-Section 913(b) of Pub. L. 103–337 provided that: “The authority provided by section 9317(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science.”
+Pub. L. 103–337, div. A, title IX, §913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: “The authority provided by section 9317(a) of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science.”
 

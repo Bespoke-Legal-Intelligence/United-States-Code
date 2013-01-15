@@ -12,7 +12,7 @@ In this chapter:
 
 #### Amendments
 
-<b>1996</b>—Par. (3). Pub. L. 104–201 inserted “students enrolled in an advanced education program beyond thebaccalaureate degree level or to” after “Training Corps to”.
+<b>1996</b>—Par. (3). Pub. L. 104–201 inserted “students enrolled in an advanced education program beyond the baccalaureate degree level or to” after “Training Corps to”.
 
 <b>1987</b>—Pub. L. 100–180, in pars. (1) to (3), inserted “The term” after each par. designation, and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 

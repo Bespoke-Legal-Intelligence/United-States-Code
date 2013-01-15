@@ -2,7 +2,7 @@
 
 (a)(1) Subject to the provisions of section 3695 of this title limiting the aggregate period for which any person may receive assistance under two or more programs of educational or vocational assistance administered by the Department of Veterans Affairs, a participant shall be entitled to a maximum of 36 monthly benefit payments (or their equivalent in the event of part-time benefits).
 
-(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (e) of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for such veteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
+(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (e) of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for suchveteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
@@ -44,7 +44,7 @@
 
 (e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
-(2) No payment may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
+(2) No payment may be paid under this chapter to an individual for any month during whichsuch individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
 (3) The entitlement of an eligible veteran pursuing a program of education described in paragraph (1) of this subsection shall be charged at the rate of one month for each amount of educational assistance paid which is equal to the monthly benefit otherwise payable to such veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 102–568 applicable to flight training received under this
 
 #### Effective Date of 1991 Amendment
 
-Section 7(c) of Pub. L. 102–16 provided that: “The amendments made by this section \[amending this section and section 1641 \[now 3241\] of this title\] shall take effect on April 1, 1991.”
+Pub. L. 102–16, §7(c), Mar. 22, 1991, 105 Stat. 52, provided that: “The amendments made by this section \[amending this section and section 1641 \[now 3241\] of this title\] shall take effect on April 1, 1991.”
 
 #### Effective Date of 1988 Amendment
 
@@ -130,7 +130,7 @@ Amendment by section 108(b)(2) of Pub. L. 100–689 effective Jan. 1, 1989, see 
 
 #### Effective Date of 1981 Amendment
 
-Section 2006 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XX, §2006, Aug. 13, 1981, 95 Stat. 783, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by sections 2003 \[amending this section and sections 1641, 1662, 1673, 1681, 1682, and 1780 \[now 3241, 3462, 3473, 3481, 3482, and 3680\] of this title and repealing section 1677 of this title\] and 2005 \[amending this section and sections 1686 \[repealed\], 1737 \[repealed\], and 1798 \[now 3698\] of this title\] shall take effect on October 1, 1981.
 

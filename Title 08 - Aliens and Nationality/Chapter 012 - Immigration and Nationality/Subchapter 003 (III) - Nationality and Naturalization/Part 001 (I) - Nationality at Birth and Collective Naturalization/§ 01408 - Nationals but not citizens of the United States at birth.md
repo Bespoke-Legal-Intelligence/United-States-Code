@@ -26,11 +26,11 @@ Unless otherwise provided in section 1401 of this title, the following shall be 
 
 #### Effective Date of 1988 Amendment
 
-Section 3 of Pub. L. 100–525 provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 99–396.
+Pub. L. 100–525, §3, Oct. 24, 1988, 102 Stat. 2614, provided that the amendment made by section 3 is effective as if included in the enactment of Pub. L. 99–396.
 
 #### Effective Date of 1986 Amendment
 
-Section 15(b) of Pub. L. 99–396 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to persons born before, on, or after the date of the enactment of this Act \[Aug. 27, 1986\]. In the case of a person born before the date of the enactment of this Act—
+Pub. L. 99–396, §15(b), Aug. 27, 1986, 100 Stat. 843, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to persons born before, on, or after the date of the enactment of this Act \[Aug. 27, 1986\]. In the case of a person born before the date of the enactment of this Act—
 
 &emsp;“(1) the status of a national of the United States shall not be considered to be conferred upon the person until the date the person establishes to the satisfaction of the Secretary of State that the person meets the requirements of section 308(4) of the Immigration and Nationality Act \[par. (4) of this section\], and
 

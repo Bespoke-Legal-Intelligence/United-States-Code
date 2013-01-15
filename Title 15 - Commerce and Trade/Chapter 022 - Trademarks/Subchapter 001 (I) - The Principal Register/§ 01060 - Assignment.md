@@ -6,7 +6,7 @@
 
 (3) Assignments shall be by instruments in writing duly executed. Acknowledgment shall be prima facie evidence of the execution of an assignment, and when the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office, the record shall be prima facie evidence of execution.
 
-(4) An assignment shall be void against any subsequent purchaser for valuable consideration without notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
+(4) An assignment shall be void against any subsequent purchaser for valuable considerationwithout notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
 
 (5) The United States Patent and Trademark Office shall maintain a record of information on assignments, in such form as may be prescribed by the Director.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], subs
 
 “An assignee not domiciled in the United States shall be subject to and comply with the provisions of section 1051(e) of this title.”
 
-<b>1988</b>—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of thistitle, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
+<b>1988</b>—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
 
 <b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

@@ -22,7 +22,7 @@
 
 &emsp;(3) after approval of the plans or recommendations of the Office of the Chief of Naval Operations by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
-&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unifiedor specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
+&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
 
 &emsp;(5) perform the duties prescribed for him by section 171 of this title and other provisions of law; and
 
@@ -44,7 +44,7 @@ A prior section 5033, acts Aug. 10, 1956, ch. 1041, 70A Stat. 279; Sept. 2, 1958
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on theactive-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
 
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
 

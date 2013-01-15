@@ -128,7 +128,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 &emsp;&emsp;&emsp;(ii) are best able to incorporate existing infrastructure while maximizing, to the extent practicable, the use of advanced biofuels;
 
-&emsp;&emsp;&emsp;(iii) demonstrate the greatest commitment on the part of the applicant to ensure funding for the proposed project andthe greatest likelihood that the project will be maintained or expanded after Federal assistance under this subsection is completed;
+&emsp;&emsp;&emsp;(iii) demonstrate the greatest commitment on the part of the applicant to ensure funding for the proposed project and the greatest likelihood that the project will be maintained or expanded after Federal assistance under this subsection is completed;
 
 &emsp;&emsp;&emsp;(iv) represent a partnership of public and private entities; and
 

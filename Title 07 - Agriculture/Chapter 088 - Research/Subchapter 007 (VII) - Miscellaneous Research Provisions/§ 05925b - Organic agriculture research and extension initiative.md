@@ -22,7 +22,7 @@ In consultation with the National Agricultural Research, Extension, Education, a
 
 #### (b) Grant types and process, prohibition on construction
 
-Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall applywith respect to the making of grants under this section.
 
 #### (c) Matching funds required
 
@@ -48,7 +48,7 @@ On October 1, 2003, and each October 1 thereafter through October 1, 2007, out o
 
 #### (f) Funding
 
-#### (1) In general
+#### (1) Mandatory funding for fiscal years 2009 through 2012
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
@@ -56,17 +56,27 @@ On October 1, 2003, and each October 1 thereafter through October 1, 2007, out o
 
 &emsp;&emsp;(B) $20,000,000 for each of fiscal years 2010 through 2012.
 
-#### (2) Additional funding
+#### (2) Discretionary funding for fiscal years 2009 through 2012
 
 &emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2012.
 
-(Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449; Pub. L. 110–234, title VII, §§7206(a), 7406(d)(3), May 22, 2008, 122 Stat. 1238, 1252; Pub. L. 110–246, §4(a), title VII, §§7206(a), 7406(d)(3), June 18, 2008, 122 Stat. 1664, 1999, 2013.)
+#### (3) Fiscal year 2013
+
+&emsp;There is authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2013.
+
+(Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449; Pub. L. 110–234, title VII, §§7206(a), 7406(d)(3), May 22, 2008, 122 Stat. 1238, 1252; Pub. L. 110–246, §4(a), title VII, §§7206(a), 7406(d)(3), June 18, 2008, 122 Stat. 1664, 1999, 2013; Pub. L. 112–240, title VII, §701(e)(1), Jan. 2, 2013, 126 Stat. 2364.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1). Pub. L. 112–240, §701(e)(1)(A), substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
+
+Subsec. (f)(2). Pub. L. 112–240, §701(e)(1)(B), substituted “Discretionary funding for fiscal years 2009 through 2012” for “Additional funding” in heading.
+
+Subsec. (f)(3). Pub. L. 112–240, §701(e)(1)(C), added par. (3).
 
 <b>2008</b>—Subsec. (a)(7), (8). Pub. L. 110–246, §7206(a)(1), added pars. (7) and (8).
 
@@ -79,6 +89,10 @@ Subsec. (f). Pub. L. 110–246, §7206(a)(2), added subsec. (f).
 Subsec. (a)(4) to (6). Pub. L. 107–171, §7218(1)(B)–(D), added pars. (4) to (6).
 
 Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -94,7 +108,7 @@ Pub. L. 110–234, title VII, §7206(b), May 22, 2008, 122 Stat. 1239, and Pub. 
 
 #### Report on Producers and Handlers of Organic Agricultural Products
 
-Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: “Not later than 1 year after fundsare made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
+Pub. L. 107–171, title VII, §7409, May 13, 2002, 116 Stat. 461, provided that: “Not later than 1 year after funds are made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
 
 &emsp;“(1) describes—
 

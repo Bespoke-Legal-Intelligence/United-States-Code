@@ -4,5 +4,5 @@ Section, acts Aug. 2, 1954, ch. 649, title III, §314, 68 Stat. 629; Sept. 2, 19
 
 #### Effective Date of Repeal
 
-Section 503 of Pub. L. 91–609 provided that the repeal of this section is effective July 1, 1971, except that such repeal shall not affect contracts, commitments, reservations, or other obligations entered into pursuant to this section prior to that date.
+Pub. L. 91–609, title V, §503, Dec. 31, 1970, 84 Stat. 1785, provided that the repeal of this section is effective July 1, 1971, except that such repeal shall not affect contracts, commitments, reservations, or other obligations entered into pursuant to this section prior to that date.
 

@@ -24,7 +24,7 @@ Pub. L. 109–435, title V, §505(b), Dec. 20, 2006, 120 Stat. 3236, provided th
 
 #### Labor Agreements
 
-Section 10 of Pub. L. 91–375 provided that:
+Pub. L. 91–375, §10, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 “(a) \[<i>Wages, Hours, and Working Conditions; Parties to Agreement</i>\] As soon as practicable after the enactment of this Act \[Aug. 12, 1970\], the Postmaster General and the labor organizations which as of the effective date of this section \[see note below\] hold national exclusive recognition rights granted by the Post Office Department, shall negotiate an agreement or agreements covering wages, hours, and working conditions of the employees represented by such labor organizations. The parties shall commence bargaining for such agreement or agreements not later than 30 days following delivery of a written request therefor by a labor organization to the Postmaster General or by the Postmaster General to a labor organization. Any agreement made pursuant to this section shall continue in force after the commencement of operations of the United States Postal Service in the same manner and to the same extent as if entered into between the Postal Service and recognized collective-bargaining representatives under chapter 12 of title 39, United States Code.
 

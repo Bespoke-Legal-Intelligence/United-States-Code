@@ -56,9 +56,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendment
 
-Section 2(g)(5) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–258, §2(g)(5), Sept. 13, 1982, 96 Stat. 1061, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 #### Repeal
 
-Section 302(d) of Pub. L. 97–164, cited as a credit to this section, was repealed by Pub. L. 97–258, §2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
+Pub. L. 97–164, title III, §302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed by Pub. L. 97–258, §2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
 

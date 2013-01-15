@@ -10,6 +10,7 @@
 - [&sect; 00077b&#8211;1 - Swap agreements](%C2%A7%2000077b%E2%80%931%20-%20Swap%20agreements.md)
 - [&sect; 00077c - Classes of securities under this subchapter](%C2%A7%2000077c%20-%20Classes%20of%20securities%20under%20this%20subchapter.md)
 - [&sect; 00077d - Exempted transactions](%C2%A7%2000077d%20-%20Exempted%20transactions.md)
+- [&sect; 00077d&#8211;1 - Requirements with respect to certain small transactions](%C2%A7%2000077d%E2%80%931%20-%20Requirements%20with%20respect%20to%20certain%20small%20transactions.md)
 - [&sect; 00077e - Prohibitions relating to interstate commerce and the mails](%C2%A7%2000077e%20-%20Prohibitions%20relating%20to%20interstate%20commerce%20and%20the%20mails.md)
 - [&sect; 00077f - Registration of securities](%C2%A7%2000077f%20-%20Registration%20of%20securities.md)
 - [&sect; 00077g - Information required in registration statement](%C2%A7%2000077g%20-%20Information%20required%20in%20registration%20statement.md)

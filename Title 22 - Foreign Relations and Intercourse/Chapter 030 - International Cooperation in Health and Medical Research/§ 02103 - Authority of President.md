@@ -6,7 +6,7 @@ It is the sense of Congress that the President should use his authority under th
 
 #### (b) Disease and health deficiency investigations, experiments, and studies; rehabilitation
 
-To carry out the purposes of section 2101 of this title the President, in cooperation with participating foreign countries, is authorized to encourage, support, and promote the planning and conduct of, and training for, research investigations, experiments, and studies in the United States and in participating foreign countries relating to the causes, diagnosis, treatment, control, and prevention of diseases and impairments of mankind (including nutritional and other health deficiencies) or to the rehabilitation of the handicapped.
+To carry out the purposes of section 2101 of this title the President, in cooperation with participating foreign countries, is authorized to encourage, support, and promote the planning and conduct of, and training for, research investigations, experiments, and studies in the UnitedStates and in participating foreign countries relating to the causes, diagnosis, treatment, control, and prevention of diseases and impairments of mankind (including nutritional and other health deficiencies) or to the rehabilitation of the handicapped.
 
 #### (c) Fellowships; equipment; technical assistance; interchange of scientists and experts; compensation and travel expenses; health science programs and projects; meetings and conferences; scientific publications
 
@@ -48,7 +48,7 @@ In order to carry out the purposes of section 2101 of this title, and subject to
 
 For the purposes of this section—
 
-&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations,and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
+&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
 
 &emsp;(2) the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
@@ -56,7 +56,7 @@ For the purposes of this section—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
+This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242l of Title 42, The Public Health and Welfare.
 
 The Food for Peace Act, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 

@@ -44,7 +44,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (2) Duties
 
-&emsp;The telehealth network and telehealth resource centers grant programs established under section 241 of this title shall be administered by the Director, in consultation with the State offices of rural health, State offices concerning primary care, or other appropriate State government entities.
+&emsp;The telehealth network and telehealth resource centers grant programs establishedunder section 241 of this title shall be administered by the Director, in consultation with the State offices of rural health, State offices concerning primary care, or other appropriate State government entities.
 
 #### (d) Grants
 
@@ -236,7 +236,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(E)(i) providing for transmission of medical data, and maintenance of equipment; and
 
-&emsp;&emsp;(ii) providing for compensation (including travel expenses) of specialists, and referring health care providers, who are providing telehealth services through the telehealth network, if no third party payment is available for the telehealth services delivered through the telehealth network;
+&emsp;&emsp;(ii) providing for compensation (including travel expenses) of specialists, and referringhealth care providers, who are providing telehealth services through the telehealth network, if no third party payment is available for the telehealth services delivered through the telehealth network;
 
 &emsp;&emsp;(F) developing projects to use telehealth technology to facilitate collaboration between health care providers;
 
@@ -262,7 +262,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(G) implementing special projects or studies under the direction of the Office.
 
-#### (<i>l</i>) Prohibited uses of funds
+#### (l) Prohibited uses of funds
 
 An entity that receives a grant under this section may not use funds made available through the grant—
 
@@ -294,7 +294,7 @@ In providing services under this section, an eligible entity shall collaborate, 
 
 The Secretary shall coordinate activities carried out under grant programs described in subsection (b) of this section, to the extent practicable, with Federal and State agencies and nonprofit organizations that are operating similar programs, to maximize the effect of public dollars in funding meritorious proposals.
 
-#### (<i>o</i>) Outreach activities
+#### (o) Outreach activities
 
 The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
 
@@ -314,7 +314,7 @@ The Secretary shall issue regulations specifying, for purposes of this section, 
 
 There are authorized to be appropriated to carry out this section—
 
-&emsp;(1) for grants under subsection (d)(1) of this section, $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
+&emsp;(1) for grants under subsection (d)(1) of this section, $40,000,000 for fiscal year 2002, andsuch sums as may be necessary for each of fiscal years 2003 through 2006; and
 
 &emsp;(2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 

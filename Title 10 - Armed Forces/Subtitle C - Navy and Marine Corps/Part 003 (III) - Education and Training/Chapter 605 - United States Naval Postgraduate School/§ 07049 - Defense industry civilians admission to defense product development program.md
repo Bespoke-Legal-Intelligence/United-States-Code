@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Admission.—The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master's degree in a curriculum related to defense product development and systems engineering. No more than 125 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 7048 of this title.
+Authority for Admission.—The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master's degree or professional continuing education certificate in a curriculum related to defense product development and systems engineering. No more than 125 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 7048 of this title or an appropriate professional continuing education certificate, as applicable.
 
 (b)
 
@@ -38,9 +38,11 @@ Standards of Conduct.—While receiving instruction at the school, students enro
 
 Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, \[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417,\[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, §589(a), Jan. 2, 2013, 126 Stat. 1769.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted “or professional continuing education certificate” after “master's degree” and “or an appropriate professional continuing education certificate, as applicable” before period at end.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted “125” for “25”.
 
@@ -49,6 +51,10 @@ Use of Funds.—Amounts received by the school for instruction of students enrol
 <b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “President” for “Superintendent”.
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
+
+#### Request for Increase in Number of Defense Industry Civilians Authorized for Admission
+
+Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, provided that: “If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 7049(a) and 9314a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase.”
 
 #### Program Evaluation and Report
 

@@ -22,7 +22,7 @@
 
 &emsp;(D) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consignee, of a semiconductor chip product in a manner that constitutes infringement of a mask work registered under chapter 9 of title 17.
 
-&emsp;(E) The importation into the United States, the sale for importation, or the sale within theUnited States after importation by the owner, importer, or consigner, of an article that constitutes infringement of the exclusive rights in a design protected under chapter 13 of title 17.
+&emsp;(E) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consigner, of an article that constitutes infringement of the exclusive rights in a design protected under chapter 13 of title 17.
 
 (2) Subparagraphs (B), (C), (D), and (E) of paragraph (1) apply only if an industry in the United States, relating to the articles protected by the patent, copyright, trademark, mask work, or design concerned, exists or is in the process of being established.
 
@@ -46,7 +46,7 @@
 
 #### (c) Determinations; review
 
-The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
+The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raisedby the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
 
 #### (d) Exclusion of articles from entry
 
@@ -70,9 +70,9 @@ The Commission shall determine, with respect to each investigation conducted by 
 
 #### (f) Cease and desist orders; civil penalty for violation of orders
 
-(1) In addition to, or in lieu of, taking action under subsection (d) or (e) of this section, the Commission may issue and cause to be served on any person violating this section, or believed to be violating this section, as the case may be, an order directing such person to cease and desist from engaging in the unfair methods or acts involved, unless after considering the effect of such order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such order should not be issued. The Commission may at any time, upon such notice and in such manner as it deems proper, modify or revoke any such order, and, in the case of a revocation, may take action under subsection (d) or (e) of this section, as the case may be. If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e) of this section, the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.
+(1) In addition to, or in lieu of, taking action under subsection (d) or (e) of this section, the Commission may issue and cause to be served on any person violating this section, or believed to be violating this section, as the case may be, an order directing such person to cease and desist from engaging in the unfair methods or acts involved, unless after considering the effect of such order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such order should not be issued. The Commission may at any time, upon such notice and in such manner as it deems proper, modify or revoke any such order, and, in the case of a revocation, maytake action under subsection (d) or (e) of this section, as the case may be. If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e) of this section, the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.
 
-(2) Any person who violates an order issued by the Commission under paragraph (1) after it has become final shall forfeit and pay to the United States a civil penalty for each day on which an importation of articles, or their sale, occurs in violation of the order of not more than the greater of $100,000 or twice the domestic value of the articles entered or sold on such day in violation of the order. Such penalty shall accrue to the United States and may be recovered for the United States in a civil action brought by the Commission in the Federal District Court for the District of Columbia or for the district in which the violation occurs. In such actions, theUnited States district courts may issue mandatory injunctions incorporating the relief sought by the Commission as they deem appropriate in the enforcement of such final orders of the Commission.
+(2) Any person who violates an order issued by the Commission under paragraph (1) after it has become final shall forfeit and pay to the United States a civil penalty for each day on which an importation of articles, or their sale, occurs in violation of the order of not more than the greater of $100,000 or twice the domestic value of the articles entered or sold on such day in violation of the order. Such penalty shall accrue to the United States and may be recovered for the United States in a civil action brought by the Commission in the Federal District Court for the District of Columbia or for the district in which the violation occurs. In such actions, the United States district courts may issue mandatory injunctions incorporating the relief sought by the Commission as they deem appropriate in the enforcement of such final orders of the Commission.
 
 #### (g) Exclusion from entry or cease and desist order; conditions and procedures applicable
 
@@ -138,7 +138,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 (3) Subject to the provisions of paragraph (2), such determination shall, except for purposes of subsection (c) of this section, be effective upon publication thereof in the Federal Register, and the action taken under subsection (d), (e), (f), (g), or (i) of this section, with respect thereto shall be effective as provided in such subsections, except that articles directed to be excluded from entry under subsection (d) of this section or subject to a cease and desist order under subsection (f) of this section shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.
 
-(4) If the President does not disapprove such determination within such 60-day period, or if henotifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) of this section such determination shall become final on the day after the close of such period or the day on which the President notifies the Commission of his approval, as the case may be.
+(4) If the President does not disapprove such determination within such 60-day period, or if he notifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) of this section such determination shall become final on the day after the close of such period or the day on which the President notifies the Commission of his approval, as the case may be.
 
 #### (k) Period of effectiveness; termination of violation or modification or rescission of exclusion or order
 
@@ -154,7 +154,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 &emsp;&emsp;(ii) on grounds which would permit relief from a judgment or order under the Federal Rules of Civil Procedure.
 
-#### (<i>l</i>) Importation by or for United States
+#### (l) Importation by or for United States
 
 Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of section 1498 of title 28.
 
@@ -182,13 +182,13 @@ For purposes of this section and sections 1338 and 1340 <sup>1</sup> of this ti
 
 &emsp;(B) an officer or employee of the United States Government who is directly involved in the review under subsection (j) of this section, or
 
-&emsp;(C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) of this section resulting from the investigation or related proceeding in connection with which the information is submitted.
+&emsp;(C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) of thissection resulting from the investigation or related proceeding in connection with which the information is submitted.
 
 (June 17, 1930, ch. 497, title III, §337, 46 Stat. 703; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 85–686, §9(c)(1), Aug. 20, 1958, 72 Stat. 679; Pub. L. 93–618, title III, §341(a), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 96–39, title I, §106(b)(1), title XI, §1105, July 26, 1979, 93 Stat. 193, 310; Pub. L. 96–417, title VI, §604, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §§160(a)(5), 163(a)(4), Apr. 2, 1982, 96 Stat. 48, 49; Pub. L. 98–620, title IV, §413, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–418, title I, §§1214(h)(3), 1342(a), (b), Aug. 23, 1988, 102 Stat. 1157, 1212, 1215; Pub. L. 100–647, title IX, §9001(a)(7), (12), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 102–563, §3(d), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 103–465, title II, §261(d)(1)(B)(ii), title III, §321(a), Dec. 8, 1994, 108 Stat. 4909, 4943; Pub. L. 104–295, §20(b)(11), (12), (c)(2), Oct. 11, 1996, 110 Stat. 3527, 3528; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594; Pub. L. 108–429, title II, §2004(d)(5), Dec. 3, 2004, 118 Stat. 2592.)
 
 #### References in Text
 
-The Trademark Act of 1946, referred to in subsec. (a)(1)(C), is act July 5, 1946, ch. 540, 60 Stat. 427, asamended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (a)(1)(C), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (e)(3), (h), and (k)(2)(B)(ii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -216,7 +216,7 @@ Subsec. (a)(1)(E). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(ii
 
 Subsec. (a)(2), (3). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(B)\], substituted “mask work, or design” for “or mask work”.
 
-Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
+Subsec. (l). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–295, §20(c)(2), amended Pub. L. 103–465, §321(a)(1)(C)(i). See 1994 Amendment note below.
 
@@ -250,9 +250,9 @@ Subsec. (f)(1). Pub. L. 103–465, §321(a)(4), inserted at end “If a temporar
 
 Subsec. (g)(2)(C). Pub. L. 103–465, §321(a)(5)(B), added subpar. (C).
 
-Subsec. (j)(3). Pub. L. 103–465, §321(a)(6), substituted “shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. Ifthe determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.” for “shall be entitled to entry under bond determined by the Commission and prescribed by the Secretary until such determination becomes final.”
+Subsec. (j)(3). Pub. L. 103–465, §321(a)(6), substituted “shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.” for “shall be entitled to entry under bond determined by the Commission and prescribed by the Secretary until such determination becomes final.”
 
-Subsec. (<i>l</i>). Pub. L. 103–465, §321(a)(8), substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (l). Pub. L. 103–465, §321(a)(8), substituted “Court of Federal Claims” for “Claims Court”.
 
 Subsec. (n)(2)(A). Pub. L. 103–465, §321(a)(7)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an officer or employee of the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted,”.
 
@@ -276,7 +276,7 @@ Subsec. (f)(1). Pub. L. 100–418, §1342(a)(4)(A), substituted “In addition t
 
 Subsec. (f)(2). Pub. L. 100–418, §1342(a)(4)(B), substituted “$100,000 or twice” for “$10,000 or”.
 
-Subsecs. (g) to (i). Pub. L. 100–418, §1342(a)(5), added subsecs. (g) to (i). Former subsecs. (g) to (i) redesignated (j) to (<i>l</i>), respectively.
+Subsecs. (g) to (i). Pub. L. 100–418, §1342(a)(5), added subsecs. (g) to (i). Former subsecs. (g) to (i) redesignated (j) to (l), respectively.
 
 Subsec. (j). Pub. L. 100–418, §1342(a)(5)(A), redesignated former subsec. (g) as (j). Former subsec. (j) redesignated (m).
 
@@ -288,11 +288,11 @@ Pub. L. 100–418, §1342(a)(6), as amended by Pub. L. 100–647, §9001(a)(7), 
 
 Pub. L. 100–418, §1342(a)(5)(A), redesignated former subsec. (h) as (k).
 
-Subsec. (<i>l</i>). Pub. L. 100–418, §1342(b)(5), inserted reference to subsecs. (g) and (i).
+Subsec. (l). Pub. L. 100–418, §1342(b)(5), inserted reference to subsecs. (g) and (i).
 
 Pub. L. 100–418, §1342(a)(7), substituted “a proceeding involving a patent, copyright, or mask work under subsection (a)(1)” for “claims of United States letters patent” and “an owner of the patent, copyright, or mask work” for “a patent owner”.
 
-Pub. L. 100–418, §1342(a)(5)(A), redesignated former subsec. (i) as (<i>l</i>).
+Pub. L. 100–418, §1342(a)(5)(A), redesignated former subsec. (i) as (l).
 
 Subsec. (m). Pub. L. 100–418, §1342(a)(5)(A), redesignated former subsec. (j) as (m).
 
@@ -344,7 +344,7 @@ Subsec. (j). Pub. L. 93–618 added subsec. (j) defining “United States”, fo
 
 Amendment by section 261(d)(1)(B)(ii) of Pub. L. 103–465 effective on effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
 
-Section 322 of title III of Pub. L. 103–465 provided that: “The amendments made by this subtitle \[subtitle C (§§321, 322) of title III of Pub. L. 103–465, enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1446 of Title 28\] apply—
+Pub. L. 103–465, title III, §322, Dec. 8, 1994, 108 Stat. 4947, provided that: “The amendments made by this subtitle \[subtitle C (§§321, 322) of title III of Pub. L. 103–465, enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1446 of Title 28\] apply—
 
 &emsp;“(1) with respect to complaints filed under section 337 of the Tariff Act of 1930 \[19 U.S.C. 1337\] on or after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 Amendment by section 1214(h)(3) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
-Section 1342(d) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1342(d), Aug. 23, 1988, 102 Stat. 1216, provided that:
 
 “(1)(A) Subject to subparagraph (B), the amendments made by this section \[amending this section and repealing section 1337a of this title\] shall take effect on the date of the enactment of this Act \[Aug. 23, 1988\].
 
@@ -388,15 +388,15 @@ Amendment by section 1105 of Pub. L. 96–39 effective July 26, 1979, see sectio
 
 #### Effective Date of 1975 Amendment
 
-Section 341(c) of Pub. L. 93–618 provided that: “The amendments made by this section \[amending this section and section 1337 of this title\] shall take effect on the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], except that, for purposes of issuing regulations under section 337 of the Tariff Act of 1930 \[this section\], such amendments shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\]. For purposes of applying section 337(b) of the Tariff Act of 1930 \[subsec. (b) of this section\] (as amended by subsection (a) \[as amended by section 341(a) of Pub. L. 93–618\]) with respect to investigations being conducted by the International Trade Commission under section 337 of the Tariff Act \[this section\] on the day prior to the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], such investigations shall be considered as having been commenced on such 90th day.”
+Pub. L. 93–618, title III, §341(c), Jan. 3, 1975, 88 Stat. 2056, provided that: “The amendments made by this section \[amending this section and section 1337 of this title\] shall take effect on the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], except that, for purposes of issuing regulations under section 337 of the Tariff Act of 1930 \[this section\], such amendments shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\]. For purposes of applying section 337(b) of the Tariff Act of 1930 \[subsec. (b) of this section\] (as amended by subsection (a) \[as amended by section 341(a) of Pub. L. 93–618\]) with respect to investigations being conducted by the International Trade Commission under section 337 of the Tariff Act \[this section\] on the day prior to the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], such investigations shall be considered as having been commenced on such 90th day.”
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Findings and Purposes Respecting Part 3 of Pub. L. 100–418
 
-Section 1341 of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title I, §1341, Aug. 23, 1988, 102 Stat. 1211, provided that:
 
 “(a)
 
@@ -416,7 +416,7 @@ Memorandum of President of the United States, July 21, 2005, 70 F.R. 43251, prov
 
 Memorandum for the United States Trade Representative
 
-By the authority vested in me by the Constitution and the laws of the United States of America, includingsection 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 337(j)(1)(B), section 337(j)(2), and section 337(j)(4) of the Tariff Act of 1930, as amended (19 U.S.C. 1337(j)(1), (j)(2), and (j)(4)).
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 337(j)(1)(B), section 337(j)(2), and section 337(j)(4) of the Tariff Act of 1930, as amended (19 U.S.C. 1337(j)(1), (j)(2), and (j)(4)).
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

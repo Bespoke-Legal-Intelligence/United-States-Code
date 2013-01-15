@@ -42,7 +42,7 @@
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
-&emsp;(7) charge such fees for professional services furnished by the Foundation as the ExecutiveDirector determines reasonable and appropriate.
+&emsp;(7) charge such fees for professional services furnished by the Foundation as the Executive Director determines reasonable and appropriate.
 
 (h) A person who is a full-time or part-time employee of the Foundation may not be an employee (full-time or part-time) of the Federal Government.
 
@@ -64,7 +64,7 @@ Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
 
 #### Change of Name
 
-Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
+Pub. L. 98–132, §1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
 
 “(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take such action as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
 

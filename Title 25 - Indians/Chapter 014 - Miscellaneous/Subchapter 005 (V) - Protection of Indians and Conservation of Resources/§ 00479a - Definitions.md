@@ -16,11 +16,11 @@ This title, referred to in introductory provisions, is title I of Pub. L. 103–
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 103–454 provided that: “This title \[enacting this section and section 479a–1 of this title and provisions set out below\] may be cited as the ‘Federally Recognized Indian Tribe List Act of 1994’.”
+Pub. L. 103–454, title I, §101, Nov. 2, 1994, 108 Stat. 4791, provided that: “This title \[enacting this section and section 479a–1 of this title and provisions set out below\] may be cited as the ‘Federally Recognized Indian Tribe List Act of 1994’.”
 
 #### Congressional Findings
 
-Section 103 of Pub. L. 103–454 provided that: “The Congress finds that—
+Pub. L. 103–454, title I, §103, Nov. 2, 1994, 108 Stat. 4791, provided that: “The Congress finds that—
 
 &emsp;“(1) the Constitution, as interpreted by Federal case law, invests Congress with plenary authority over Indian Affairs;
 

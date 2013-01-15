@@ -2,11 +2,11 @@
 
 (a) The Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, shall prescribe regulations for the administration of sections 301d, 302 through 302j, and 303 of this title.
 
-(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
+(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regularor Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
 (2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
 
-&emsp;(A) Section 338B of the Public Health Service Act (42 U.S.C. 254<i>l</i>–1).
+&emsp;(A) Section 338B of the Public Health Service Act (42 U.S.C. 254l–1).
 
 &emsp;(B) Section 225(e) of the Public Health Service Act, as that section was in effect before October 1, 1977.
 
@@ -28,7 +28,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 &emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of amember who is the only surviving child in a family in which—
+(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
 &emsp;(i) the father or mother or one or more siblings—
 
@@ -46,7 +46,7 @@ Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of P
 
 (B) Subparagraph (A) does not apply if the death or disability of the member is the result of the member's misconduct.
 
-(C) The amount to be paid under subparagraph (A)(ii) shall be equal to the full amount specified by the agreement or contract applicable to the bonus or similar benefit as if the member continued to be entitled to the bonus or similar benefit following the death, retirement, or separation.
+(C) The amount to be paid under subparagraph (A)(ii) shall be equal to the full amount specified by the agreement or contract applicable to the bonus or similar benefit as if the member continued to be entitled to the bonus or similarbenefit following the death, retirement, or separation.
 
 (D) Amounts to be paid to a member or the member's estate under subparagraph (A)(ii) shall be paid in a lump sum not later than 90 days after the date of the death, retirement, or separation of the member, whichever applies.
 
@@ -88,7 +88,7 @@ Section 752 of the Public Health Service Act, as that section was in effect betw
 
 Subsec. (e)(1)(B), (2). Pub. L. 111–84, §617(a)(5), redesignated subpar. (B), relating to sole survivorship discharge, as par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and,in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
+Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
 

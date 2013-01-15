@@ -6,11 +6,11 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 &emsp;(b) such additional sums as may be necessary to pay the expenses incident to participation by the United States in the activities of the Organization, including—
 
-&emsp;&emsp;(1) salaries of the representative or representatives and alternates and appropriate staff, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; services as authorized by section 3109 of title 5; under such rules and regulations as the Secretary of State may prescribe, allowances for living quarters, including heat, fuel, and light and cost-of-living allowances to persons temporarily stationed abroad; printing and binding without regard to section 501 of title 44 and section 6101 of title 41; and
+&emsp;&emsp;(1) salaries of the representative or representatives and alternates and appropriate staff, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; services as authorized by section 3109 of title 5; under such rules and regulations as theSecretary of State may prescribe, allowances for living quarters, including heat, fuel, and light and cost-of-living allowances to persons temporarily stationed abroad; printing and binding without regard to section 501 of title 44 and section 6101 of title 41; and
 
 &emsp;&emsp;(2) such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization: <i>Provided</i>, That the provisions of section 287r of this title, and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
 
-(June 30, 1948, ch. 756, §2, 62 Stat. 1151; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(e), 64 Stat. 903; Pub. L. 85–477, ch. V, §502(f), June 30, 1958, 72 Stat. 273.)
+(June 30, 1948, ch. 756, §2, 62 Stat. 1151; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(e), 64 Stat. 903; Pub. L. 85–477, ch. V, §502(f), June 30, 1958, 72 Stat. 273.)
 
 #### References in Text
 

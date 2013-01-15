@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person that violates this chapter, or any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, shall be subject to a civil penalty of not more than $1,000,000 per day per violation for as long as the violation continues.
+Any person that violates this chapter, or any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, shall be subject to acivil penalty of not more than $1,000,000 per day per violation for as long as the violation continues.
 
 #### (b) Notice
 

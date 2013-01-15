@@ -1,6 +1,6 @@
 ### §2157. Additional export criterion and procedures
 
-(a)(1) As a condition of continued United States export of source material, special nuclear material, production or utilization facilities,and any sensitive nuclear technology to non-nuclear-weapon states, no such export shall be made unless IAEA safeguards are maintained with respect to all peaceful nuclear activities in, under the jurisdiction of, or carried out under the control of such state at the time of the export.
+(a)(1) As a condition of continued United States export of source material, special nuclear material, production or utilization facilities, and any sensitive nuclear technology to non-nuclear-weapon states, no such export shall be made unless IAEA safeguards are maintained with respect to all peaceful nuclear activities in, under the jurisdiction of, or carried out under the control of such state at the time of the export.
 
 (2) The President shall seek to achieve adherence to the foregoing criterion by recipient non-nuclear-weapon states.
 

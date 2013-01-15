@@ -18,5 +18,5 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 #### Effective Date of 1947 Amendment
 
-Section 104 of title I of act June 23, 1947, provided: “The amendments made by this title \[amending this subchapter\] shall take effect sixty days after the date of the enactment of this Act \[June 23, 1947\], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title \[section 153 of this title\] may be exercised forthwith.”
+Act June 23, 1947, ch. 120, title I, §104, 61 Stat. 152, provided that: “The amendments made by this title\[amending this subchapter\] shall take effect sixty days after the date of the enactment of this Act \[June 23, 1947\], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title \[section 153 of this title\] may be exercised forthwith.”
 

@@ -116,13 +116,13 @@ Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secret
 
 “(2) The report for a fiscal year shall contain, at a minimum, the following:
 
-&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amountappropriated for the applied research programs in the Department of Defense for that fiscal year.
+&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
 
 &emsp;“(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
 
 &emsp;“(C) A summary of the cost-sharing arrangements in dual-use projects that were initiated during the fiscal year and are counted toward reaching an objective under this section.
 
-&emsp;“(D) A description of the regulations, directives, or other procedures that have been issued by the Secretary of Defense or the Secretary of a military department to increase the percentage of the total value of the dual-use projects undertaken to meet or exceed an objective under this section.
+&emsp;“(D) A description of the regulations, directives, or other procedures that have been issued by the Secretary of Defense or the Secretary of a military department to increase the percentage of the totalvalue of the dual-use projects undertaken to meet or exceed an objective under this section.
 
 &emsp;“(E) Any recommended legislation to facilitate achievement of objectives under this section.
 
@@ -150,5 +150,5 @@ Definitions.—In this section:
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
-Section 1315(g) of Pub. L. 103–160 provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by section 1315 of Pub. L. 103–160 would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
+Pub. L. 103–160, div. A, title XIII, §1315(g), Nov. 30, 1993, 107 Stat. 1789, provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by section 1315 of Pub. L. 103–160 would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
 

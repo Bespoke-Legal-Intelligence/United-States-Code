@@ -2,7 +2,7 @@
 
 Sections 3345 through 3349b shall not apply to—
 
-&emsp;(1) any member who is appointed by the President, by and with the advice and consent of the Senate to any board, commission, or similar entity that—
+&emsp;(1) any member who is appointed by the President, by and with the advice and consentof the Senate to any board, commission, or similar entity that—
 
 &emsp;&emsp;(A) is composed of multiple members; and
 

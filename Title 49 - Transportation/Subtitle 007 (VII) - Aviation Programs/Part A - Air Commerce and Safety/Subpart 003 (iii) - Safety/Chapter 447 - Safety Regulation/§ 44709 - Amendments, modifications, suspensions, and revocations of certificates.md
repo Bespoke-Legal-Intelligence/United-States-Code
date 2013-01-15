@@ -18,7 +18,7 @@ Actions of the Administrator.—The Administrator may issue an order amending, m
 
 (c)
 
-Advice to Certificate Holders and Opportunity To Answer.—Before acting undersubsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
+Advice to Certificate Holders and Opportunity To Answer.—Before acting under subsection (b) of this section, the Administrator shall advise the holder of the certificate of the charges or other reasons on which the Administrator relies for the proposed action. Except in an emergency, the Administrator shall provide the holder an opportunity to answer the charges and be heard why the certificate should not be amended, modified, suspended, or revoked.
 
 (d)
 
@@ -34,7 +34,7 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 (2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
 
-(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator.
 
 (e)
 
@@ -60,7 +60,7 @@ Final disposition.—The Board shall make a final disposition of an appeal under
 
 Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–153, §2(c)(2), Aug. 3, 2012, 126 Stat. 1161.)
 
 Historical and Revision Notes
 
@@ -156,7 +156,7 @@ In this section, the word “Administrator” in section 609(a) of the Federal A
 
 In subsection (a), the words “airman holding a certificate issued under section 44703 of this title” are substituted for “civil airman” for clarity.
 
-In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substitutedfor “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
+In subsection (b)(1), before subclause (A), the words “certificate issued under this chapter” are substituted for “type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate (including airport operating certificate), or air agency certificate” to eliminate unnecessary words.
 
 In subsection (b)(2), the words “in his discretion” and “regarding the use or operation of an aircraft” in 49 App.:1429(b) are omitted as surplus.
 
@@ -171,6 +171,8 @@ In subsection (d)(3), the word “Administrator” is substituted for “Federal
 In subsection (e), before clause (1), the words “the effectiveness of” are omitted as surplus.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “Administrator”.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted “design organization, production certificate holder,” after “appliance,”.
 

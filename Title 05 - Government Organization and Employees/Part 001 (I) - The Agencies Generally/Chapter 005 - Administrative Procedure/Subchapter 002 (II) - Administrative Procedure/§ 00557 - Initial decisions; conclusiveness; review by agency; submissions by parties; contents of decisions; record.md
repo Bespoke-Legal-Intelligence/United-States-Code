@@ -8,7 +8,7 @@
 
 &emsp;(2) this procedure may be omitted in a case in which the agency finds on the record that due and timely execution of its functions imperatively and unavoidably so requires.
 
-(c) Before a recommended, initial, or tentative decision, or a decision on agency review of the decision of subordinate employees, the parties are entitled to a reasonable opportunity to submit for the consideration of the employees participating in the decisions—
+(c) Before a recommended, initial, or tentative decision, or a decision on agency review of thedecision of subordinate employees, the parties are entitled to a reasonable opportunity to submit for the consideration of the employees participating in the decisions—
 
 &emsp;(1) proposed findings and conclusions; or
 

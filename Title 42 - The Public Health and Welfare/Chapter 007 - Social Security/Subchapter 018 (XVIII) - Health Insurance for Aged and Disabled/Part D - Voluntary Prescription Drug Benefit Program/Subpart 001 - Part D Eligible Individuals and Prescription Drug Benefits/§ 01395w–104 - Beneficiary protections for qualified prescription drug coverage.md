@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomized clinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
 
-&emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugs has therapeutic advantages in terms of safety and efficacy.
+&emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugshas therapeutic advantages in terms of safety and efficacy.
 
 #### (C) Inclusion of drugs in all therapeutic categories and classes
 
@@ -140,7 +140,7 @@
 
 #### (ii) Model guidelines
 
-&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classificationfrom time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
 
 #### (iii) Limitation on changes in therapeutic classification
 
@@ -214,7 +214,7 @@
 
 &emsp;The PDP sponsor shall have in place, directly or through appropriate arrangements, with respect to covered part D drugs, the following:
 
-&emsp;&emsp;(A) A cost-effective drug utilization management program, including incentives to reduce costs when medically appropriate, such as through the use of multiple source drugs (as defined in section 1396r–8(k)(7)(A)(i) of this title).
+&emsp;&emsp;(A) A cost-effective drug utilization management program, including incentives to reduce costs when medically appropriate, such as through the use of multiple sourcedrugs (as defined in section 1396r–8(k)(7)(A)(i) of this title).
 
 &emsp;&emsp;(B) Quality assurance measures and systems to reduce medication errors and adverse drug interactions and improve medication use.
 
@@ -230,7 +230,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and thatis designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
+&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and that is designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
 
 #### (ii) Targeted beneficiaries described
 
@@ -350,7 +350,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;&emsp;(i) be designed so that, to the extent practicable, the standards do not impose an undue administrative burden on prescribing health care professionals and dispensing pharmacies and pharmacists;
 
-&emsp;&emsp;&emsp;(ii) be compatible with standards established under part C of subchapter XI of this chapter, standards established under subsection (b)(2)(B)(i) of this section, and with general health information technology standards; and
+&emsp;&emsp;&emsp;(ii) be compatible with standards established under part C of subchapter XI ofthis chapter, standards established under subsection (b)(2)(B)(i) of this section, and with general health information technology standards; and
 
 &emsp;&emsp;&emsp;(iii) be designed so that they permit electronic exchange of drug labeling and drug listing information maintained by the Food and Drug Administration and the National Library of Medicine.
 
@@ -440,7 +440,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (6) Establishment of safe harbor
 
-&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordance with the standards promulgated under this subsection—
+&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordancewith the standards promulgated under this subsection—
 
 &emsp;&emsp;(A) in the case of a hospital, by the hospital to members of its medical staff;
 
@@ -450,7 +450,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (f) Grievance mechanism
 
-Each PDP sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor providescovered benefits) and enrollees with prescription drug plans of the sponsor under this part in accordance with section 1395w–22(f) of this title.
+Each PDP sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor provides covered benefits) and enrollees with prescription drug plans of the sponsor under this part in accordance with section 1395w–22(f) of this title.
 
 #### (g) Coverage determinations and reconsiderations
 
@@ -500,13 +500,13 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the information under paragraph (1) shall be provided at the time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
+&emsp;&emsp;Subject to subparagraph (B), the information under paragraph (1) shall be provided atthe time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
 
 #### (B) Waiver
 
 &emsp;&emsp;The Secretary may waive subparagraph (A) in such circumstances as the Secretary may specify.
 
-#### (<i>l</i>) Requirements with respect to sales and marketing activities
+#### (l) Requirements with respect to sales and marketing activities
 
 The following provisions shall apply to a PDP sponsor (and the agents, brokers, and other third parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
 
@@ -538,13 +538,13 @@ Subsec. (c)(3). Pub. L. 111–148, §3310(a), added par. (3).
 
 Subsec. (b)(3)(G). Pub. L. 110–275, §176(2), added subpar. (G).
 
-Subsec. (<i>l</i>). Pub. L. 110–275, §103(a)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 110–275, §103(a)(2), added subsec. (l).
 
-Subsec. (<i>l</i>)(2). Pub. L. 110–275, §103(b)(2), added par. (2).
+Subsec. (l)(2). Pub. L. 110–275, §103(b)(2), added par. (2).
 
-Subsec. (<i>l</i>)(3). Pub. L. 110–275, §103(c)(2), added par. (3).
+Subsec. (l)(3). Pub. L. 110–275, §103(c)(2), added par. (3).
 
-Subsec. (<i>l</i>)(4). Pub. L. 110–275, §103(d)(2), added par. (4).
+Subsec. (l)(4). Pub. L. 110–275, §103(d)(2), added par. (4).
 
 #### Effective Date of 2010 Amendment
 
@@ -626,7 +626,7 @@ Audit.—The Secretary shall conduct appropriate audits of grants under this sec
 
 &emsp;“(5)
 
-Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributionsunder the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
+Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributions under the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
 “(d)
 

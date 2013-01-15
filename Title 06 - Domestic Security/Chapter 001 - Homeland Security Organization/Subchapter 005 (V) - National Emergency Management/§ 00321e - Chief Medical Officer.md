@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is in the Department a Chief Medical Officer, who shall be appointed by the President, by and with the advice and consent of the Senate.
+There is in the Department a Chief Medical Officer, who shall be appointed by the President.
 
 #### (b) Qualifications
 
@@ -20,15 +20,23 @@ The Chief Medical Officer shall have the primary responsibility within the Depar
 
 &emsp;(4) serving as the Department's primary point of contact with the Department of Agriculture, the Department of Defense, the Department of Health and Human Services, the Department of Transportation, the Department of Veterans Affairs, and other Federal departments or agencies, on medical and public health issues;
 
-&emsp;(5) serving as the Department's primary point of contact for State, local, and tribal governments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
+&emsp;(5) serving as the Department's primary point of contact for State, local, and tribalgovernments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
 
 &emsp;(6) discharging, in coordination with the Under Secretary for Science and Technology, the responsibilities of the Department related to Project Bioshield; and
 
 &emsp;(7) performing such other duties relating to such responsibilities as the Secretary may require.
 
-(Pub. L. 107–296, title V, §516, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1409.)
+(Pub. L. 107–296, title V, §516, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1409; amended Pub. L. 112–166, §2(f)(4), Aug. 10, 2012, 126 Stat. 1285.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 #### Change of Name
 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of this title.
 

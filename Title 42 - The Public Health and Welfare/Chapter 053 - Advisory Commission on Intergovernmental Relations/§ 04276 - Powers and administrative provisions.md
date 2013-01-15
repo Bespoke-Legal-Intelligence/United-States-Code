@@ -14,7 +14,7 @@ The Commission shall have power to appoint, fix the compensation of, and remove 
 
 #### (d) Appointment and compensation of other personnel; temporary and intermittent services
 
-Subject to such rules and regulations as may be adopted by the Commission, the Chairman,without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
+Subject to such rules and regulations as may be adopted by the Commission, the Chairman, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
 
 &emsp;(1) to appoint, fix the compensation of, and remove such other personnel as he deems necessary,
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 89–733, §4, authorized the executive director of the Com
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

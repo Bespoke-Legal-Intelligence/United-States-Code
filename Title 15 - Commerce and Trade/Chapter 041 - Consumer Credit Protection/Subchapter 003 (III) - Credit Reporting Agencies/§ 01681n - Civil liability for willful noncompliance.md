@@ -44,7 +44,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Construction
 
-Pub. L. 108–159, title III, §312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681<i>o</i>) that existed on the day before the date of enactment of this Act \[Dec. 4, 2003\].”
+Pub. L. 108–159, title III, §312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681o) that existed on the day before the date of enactment of this Act \[Dec. 4, 2003\].”
 
 #### Statement of Findings and Purpose for 2008 Amendment
 

@@ -214,7 +214,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(i) focus on quantitative and qualitative data elements;
 
-&emsp;&emsp;&emsp;(ii) measure the outcomes of the required activities described in section 3003of this title that are implemented by the States and the progress of the States toward achieving the measurable goals described in section 3003(d)(3) of this title;
+&emsp;&emsp;&emsp;(ii) measure the outcomes of the required activities described in section 3003 of this title that are implemented by the States and the progress of the States toward achieving the measurable goals described in section 3003(d)(3) of this title;
 
 &emsp;&emsp;&emsp;(iii) provide States with the necessary information required under this chapter or by the Secretary for reports described in section 3003(f)(2) of this title; and
 
@@ -256,7 +256,7 @@ With respect to the activities described in subsection (b) to be funded under th
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), isPub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 #### Amendments
 

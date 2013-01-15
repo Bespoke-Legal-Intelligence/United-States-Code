@@ -92,11 +92,11 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
-&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than theparent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
+&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than the parent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
 
 #### (B) Brother-sister controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as “common owners”) own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as“common owners”) own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in such corporation held by an employees’ trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
@@ -154,7 +154,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxable year was derived from royalties, rents, dividends, interest, and annuities; and
 
-&emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of the individual or his children who have not attained the age of 21 years.
+&emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of theindividual or his children who have not attained the age of 21 years.
 
 #### (6) Children, grandchildren, parents, and grandparents
 
@@ -266,7 +266,7 @@ Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(s)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 

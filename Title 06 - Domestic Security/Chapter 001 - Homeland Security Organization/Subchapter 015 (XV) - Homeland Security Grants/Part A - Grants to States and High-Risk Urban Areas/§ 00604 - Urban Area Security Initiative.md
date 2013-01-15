@@ -122,7 +122,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (3) Interstate urban areas
 
-&emsp;If parts of a high-risk urban area awarded a grant under this section are located in 2 or more States, the Administrator shall distribute to each such State—
+&emsp;If parts of a high-risk urban area awarded a grant under this section are located in 2 ormore States, the Administrator shall distribute to each such State—
 
 &emsp;&emsp;(A) a portion of the grant funds in accordance with the proposed distribution set forth in the application; or
 

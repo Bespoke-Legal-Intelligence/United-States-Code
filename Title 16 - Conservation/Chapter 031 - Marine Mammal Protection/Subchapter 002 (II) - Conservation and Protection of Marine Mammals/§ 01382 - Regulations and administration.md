@@ -14,7 +14,7 @@ The Secretary may enter into such contracts, leases, cooperative agreements, or 
 
 #### (d) Annual review; suspension of program
 
-The Secretary shall review annually the operation of each program in which the UnitedStates participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
+The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 
 #### (e) Measures to alleviate impacts on strategic stocks
 
@@ -24,7 +24,7 @@ If the Secretary determines, based on a stock assessment under section 1386 of t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–238, §24(c)(11), made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+<b>1994</b>—Subsec. (c). Pub. L. 103–238, §24(c)(11), made technical amendment to reference to subchapter V ofthis chapter to reflect renumbering of corresponding title of original act.
 
 Subsec. (e). Pub. L. 103–238, §7(a), added subsec. (e).
 

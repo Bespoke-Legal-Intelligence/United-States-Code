@@ -114,6 +114,18 @@ Subsec. (e). Pub. L. 109–364, §738(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364, §738(c), added subsec. (f).
 
+#### Sharing Between Department of Defense and Department of Veterans Affairs of Records and Information Retained Under the Medical Tracking System for Members of the Armed Forces Deployed Overseas
+
+Pub. L. 112–239, div. A, title VII, §723, Jan. 2, 2013, 126 Stat. 1805, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for the sharing by the Department of Defense with the Department of Veterans Affairs of the results of examinations and other records on members of the Armed Forces that are retained and maintained with respect to the medical tracking system for members deployed overseas under section 1074f(c) of title 10, United States Code.
+
+“(b)
+
+Cessation Upon Implementation of Electronic Health Record.—The sharing required pursuant to subsection (a) shall cease on the date on which the Secretary of Defense and the Secretary of Veterans Affairs jointly certify to Congress that the Secretaries have fully implemented an integrated electronic health record for members of the Armed Forces that is fully interoperable between the Department of Defense and the Department of Veterans Affairs.”
+
 #### Comprehensive Policy on Consistent Neurological Cognitive Assessments of Members of the Armed Forces Before and After Deployment
 
 Pub. L. 111–383, div. A, title VII, §722, Jan. 7, 2011, 124 Stat. 4251, provided that:
@@ -160,7 +172,7 @@ Pub. L. 110–181, div. A, title XVI, §1673(a)(2), Jan. 28, 2008, 122 Stat. 482
 
 &emsp;“(ii) Pre-deployment assessments to establish a neurocognitive baseline for members of the Armed Forces for future treatment.
 
-“(B) Not later than 60 days after the completion of the pilot projects conducted under this paragraph, the Secretary shall submit to the appropriate committeesof Congress \[Committees on Armed Services, Veterans’ Affairs, and Appropriations of the Senate and the House of Representatives\] a report on the pilot projects. The report shall include—
+“(B) Not later than 60 days after the completion of the pilot projects conducted under this paragraph, the Secretary shall submit to the appropriate committees of Congress \[Committees on Armed Services, Veterans’ Affairs, and Appropriations of the Senate and the House of Representatives\] a report on the pilot projects. The report shall include—
 
 &emsp;“(i) a description of the pilot projects so conducted;
 

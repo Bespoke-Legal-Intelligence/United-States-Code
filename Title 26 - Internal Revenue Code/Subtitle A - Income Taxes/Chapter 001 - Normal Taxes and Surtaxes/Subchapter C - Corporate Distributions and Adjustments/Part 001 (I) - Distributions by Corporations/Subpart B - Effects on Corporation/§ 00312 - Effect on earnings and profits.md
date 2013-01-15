@@ -78,7 +78,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 #### (1) Section 355
 
-&emsp;In the case of a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applies, proper allocation with respect to the earnings and profits of the distributing corporation and the controlled corporation (or corporations) shall be made under regulations prescribed by the Secretary.
+&emsp;In the case of a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applies, proper allocation with respect to the earnings and profits ofthe distributing corporation and the controlled corporation (or corporations) shall be made under regulations prescribed by the Secretary.
 
 #### (2) Section 368(a)(1)(C) or (D)
 
@@ -124,7 +124,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 &emsp;In computing the earnings and profits of a corporation for any taxable year, the allowance for depreciation (and amortization, if any) shall be computed without regard to any basis adjustment under section 50(c).
 
-#### (<i>l</i>) Discharge of indebtedness income
+#### (l) Discharge of indebtedness income
 
 #### (1) Does not increase earnings and profits if applied to reduce basis
 
@@ -254,7 +254,7 @@ For purposes of computing the earnings and profits of a corporation, the followi
 
 &emsp;&emsp;(B) paragraph (5) shall apply only in the case of taxable years beginning after December 31, 1987.
 
-#### (<i>o</i>) Definition of original issue discount and issue price for purposes of subsection (a)(2)
+#### (o) Definition of original issue discount and issue price for purposes of subsection (a)(2)
 
 For purposes of subsection (a)(2), the terms “original issue discount” and “issue price” have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
 
@@ -342,7 +342,7 @@ Pub. L. 98–369, §61(b), substituted “40 years” for “35 years” in tabl
 
 Subsec. (n). Pub. L. 98–369, §61(a)(1), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 98–369, §61(c)(1)(B), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 98–369, §61(c)(1)(B), added subsec. (o).
 
 <b>1983</b>—Subsec. (j)(3). Pub. L. 97–448 substituted “Redemptions” for “Partial liquidations and redemptions” in heading, and in text struck out “in partial liquidation or” after “distributes amounts”.
 
@@ -354,7 +354,7 @@ Subsec. (m). Pub. L. 97–248, §310(b)(3), added subsec. (m).
 
 <b>1981</b>—Subsec. (k)(3), (4). Pub. L. 97–34 added par. (3), redesignated former par. (3) as (4) substituted “The provisions of paragraphs (1) and (3)” for “The provisions of paragraph (1)”, and inserted provision that the rules of section 168(f)(2) shall apply in determining the earnings and profits of the corporation in the case of recovery property (within the meaning of section 168).
 
-<b>1980</b>—Subsec. (<i>l</i>). Pub. L. 96–589 added subsec. (<i>l</i>).
+<b>1980</b>—Subsec. (l). Pub. L. 96–589 added subsec. (l).
 
 <b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted “gain recognized to the corporation on the distribution” for “gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
@@ -366,11 +366,11 @@ Subsec. (h). Pub. L. 94–455, §§1901(a)(43)(B), 1906(b)(13)(A), redesignated 
 
 Subsec. (i). Pub. L. 94–455, §1901(a)(43)(B), (C), redesignated subsec. (j) as (i), and, among other changes, substituted “paragraph (2)” for “subparagraph (B) of the preceding sentence” and “of this subsection” for “of this paragraph”, and struck out provisions relating to the effective date of this subsec. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 94–455, §§1901(a)(43)(D), (b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (<i>l</i>) as (j), struck out “or his delegate” after “Secretary” in par. (1) and in par. (3) provision relating to the effective date of such paragraph. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 94–455, §§1901(a)(43)(D), (b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (l) as (j), struck out “or his delegate” after “Secretary” in par. (1) and in par. (3) provision relating to the effective date of such paragraph. Former subsec. (j) redesignated (i).
 
 Subsec. (k). Pub. L. 94–455, §§1901(b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (m) as (k) and struck out “or his delegate” after “Secretary” in par. (2). Former subsec. (k), relating to special adjustment on disposition of antitrust stock received as a dividend, was struck out.
 
-Subsec. (<i>l</i>). Pub. L. 94–455, §1901(b)(32)(B)(i), redesignated subsec. (<i>l</i>) as (j).
+Subsec. (l). Pub. L. 94–455, §1901(b)(32)(B)(i), redesignated subsec. (l) as (j).
 
 Subsec. (m). Pub. L. 94–455, §1901(b)(32)(B)(i), redesignated subsec. (m) as (k).
 
@@ -388,7 +388,7 @@ Pub. L. 88–272 inserted reference to section 1250(a).
 
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 87–834, §14(b)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 87–834, §14(b)(1), added subsec. (l).
 
 #### Effective Date of 2006 Amendment
 
@@ -402,7 +402,7 @@ Amendment by section 1331(b)(5) of Pub. L. 109–58 applicable to property place
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 338(b)(3) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+Amendment by section 338(b)(3) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
 
 Amendment by section 413(c)(4), (5) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
@@ -442,7 +442,7 @@ Amendment by section 803(b)(3) of Pub. L. 99–514 applicable to costs incurred 
 
 Amendment by sections 1804(f)(1)(A)–(E) and 1809(a)(2)(C)(ii) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1804(f)(3) of Pub. L. 99–514 provided that: “Paragraph (7) of section 312(n) of the Internal Revenue Code of 1954 \[now 1986\] (as redesignated by paragraph (1)(D) of this subsection), and the amendments made by section 61(a)(2) of the Tax Reform Act of 1984 \[amending this section\], shall apply to distributions in taxable years beginning after September 30, 1984.”
+Pub. L. 99–514, title XVIII, §1804(f)(3), Oct. 22, 1986, 100 Stat. 2805, provided that: “Paragraph (7) of section 312(n) of the Internal Revenue Code of 1954 \[now 1986\] (as redesignated by paragraph (1)(D) of this subsection), and the amendments made by section 61(a)(2) of the Tax Reform Act of 1984 \[amending this section\], shall apply to distributions in taxable years beginning after September 30, 1984.”
 
 #### Effective Date of 1985 Amendment
 
@@ -450,7 +450,7 @@ Amendment by Pub. L. 99–121 applicable with respect to property placed in serv
 
 #### Effective Date of 1984 Amendment
 
-Section 61(e)(1)–(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §61(e)(1)–(3), July 18, 1984, 98 Stat. 582, 583, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -486,9 +486,9 @@ Subsection (c).—The amendments made by subsection (c) \[amending this section 
 
 Amendment by section 61(a)(2) of Pub. L. 98–369 applicable to distributions in taxable years beginning after Sept. 30, 1984, see section 1804(f)(3) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note above.
 
-Section 1804(f)(1)(F) of Pub. L. 99–514 provided that: “Any reference in subsection (e) of section 61 of the Tax Reform Act of 1984 \[set out above\] to a paragraph of section 312(n) of the Internal Revenue Code of 1954 \[now 1986\] shall be treated as a reference to such paragraph as in effect before its redesignation by subparagraph (D) \[see 1986 Amendment note above\].”
+Pub. L. 99–514, title XVIII, §1804(f)(1)(F), Oct. 22, 1986, 100 Stat. 2805, provided that: “Any reference in subsection (e) of section 61 of the Tax Reform Act of 1984 \[set out above\] to a paragraph of section 312(n) of the Internal Revenue Code of 1954 \[now 1986\] shall be treated as a reference to such paragraph as in effect before its redesignation by subparagraph (D) \[see 1986 Amendment note above\].”
 
-Section 63(c) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section and section 368 of this title\] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §63(c), July 18, 1984, 98 Stat. 584, provided that: “The amendment made by this section \[amending this section and section 368 of this title\] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 111(e)(5) of Pub. L. 98–369 applicable with respect to property placed in service by the taxpayer after Mar. 15, 1984, subject to certain exceptions, see section 111(g) of Pub. L. 98–369, set out as a note under section 168 of this title.
 
@@ -534,19 +534,19 @@ Amendment by section 905(b)(2) Pub. L. 91–172 effective with respect to distri
 
 Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect of expenditures paid or incurred after such date, see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
 
-#### Effective Date of 1964 Amendments
+#### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–484 applicable with respect to transactions after Aug. 22, 1964 in taxable years ending after such date, see section 2 of Pub. L. 88–484, set out as a note under section 301 of this title.
 
 Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 231(c) of Pub. L. 88–272, set out as an Effective Date note under section 1250 of this title.
 
-#### Effective Date of 1962 Amendments
+#### Effective Date of 1962 Amendment
 
 Amendment by section 13(f)(3) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 Pub. L. 87–834, §14(c), Oct. 16, 1962, 76 Stat. 1041, provided that: “The amendments made by this section \[enacting sections 1246 and 1247 of this title and amending this section and sections 751 and 1223 of this title\] shall apply with respect to taxable years beginning after December 31, 1962.”
 
-Section 3(g) of Pub. L. 87–403 provided that: “The amendments made by this section \[amending this section and sections 535, 543, 545, 556 and 561 of this title\] shall apply only with respect to distributions made after the date of the enactment of this Act \[Feb. 2, 1962\].”
+Pub. L. 87–403, §3(g), Feb. 2, 1962, 76 Stat. 8, provided that: “The amendments made by this section \[amending this section and sections 535, 543, 545, 556 and 561 of this title\] shall apply only with respect to distributions made after the date of the enactment of this Act \[Feb. 2, 1962\].”
 
 #### Savings Provision
 

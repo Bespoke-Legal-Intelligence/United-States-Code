@@ -2,7 +2,7 @@
 
 (a)
 
-Issuance of Orders.—The following actions are not required for issuance of a task ordelivery order under a task or delivery order contract:
+Issuance of Orders.—The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
 
 &emsp;(1) A separate notice for such order under section 1708 of title 41 or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
 
@@ -22,7 +22,7 @@ Multiple Award Contracts.—When multiple task or delivery order contracts are a
 
 (c)
 
-Statement of Work.—A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
+Statement of Work.—A task or delivery order shall include a statement of work thatclearly specifies all tasks to be performed or property to be delivered under the order.
 
 (d)
 
@@ -48,8 +48,6 @@ Protests.—(1) A protest is not authorized in connection with the issuance or p
 
 (2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-(3) Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
-
 (f)
 
 Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
@@ -58,9 +56,11 @@ Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple 
 
 Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; amended Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237; Pub. L. 111–350, §5(b)(14), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 111–383, div. A, title VIII, §825, title X, §1075(f)(5)(A), Jan. 7, 2011, 124 Stat. 4270, 4376; Pub. L. 112–239, div. A, title VIII, §830, Jan. 2, 2013, 126 Stat. 1842.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(3). Pub. L. 112–239 struck out par. (3) which read as follows: “Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.”
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
 

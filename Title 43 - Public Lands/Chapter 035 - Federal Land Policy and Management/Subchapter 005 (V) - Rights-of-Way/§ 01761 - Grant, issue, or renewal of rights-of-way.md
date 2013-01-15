@@ -6,7 +6,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 &emsp;(1) reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, tunnels, and other facilities and systems for the impoundment, storage, transportation, or distribution of water;
 
-&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases,other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or any refined product produced therefrom, and for storage and terminal facilities in connection therewith;
+&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases, other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or any refined product produced therefrom, and for storage and terminal facilities in connection therewith;
 
 &emsp;(3) pipelines, slurry and emulsion systems, and conveyor belts for transportation and distribution of solid materials, and facilities for the storage of such materials in connection therewith;
 
@@ -46,7 +46,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (2)(A) Nothing in this subsection shall be construed as affecting any grants made by any previous Act. To the extent any such previous grant of right-of-way is a valid existing right, it shall remain in full force and effect unless an owner thereof notifies the Secretary of Agriculture that such owner elects to have a water system on such right-of-way governed by the provisions of this subsection and submits a written application for issuance of an easement pursuant to this subsection, in which case upon the issuance of an easement pursuant to this subsection such previous grant shall be deemed to have been relinquished and shall terminate.
 
-(B) Easements issued under the authority of this subsection shall be fully transferable with all existing conditions and without the imposition of fees or new conditions or stipulations at the time of transfer. The holder shall notify the Secretary of Agriculture within sixty days ofany address change of the holder or change in ownership of the facilities.
+(B) Easements issued under the authority of this subsection shall be fully transferable with all existing conditions and without the imposition of fees or new conditions or stipulations at the time of transfer. The holder shall notify the Secretary of Agriculture within sixty days of any address change of the holder or change in ownership of the facilities.
 
 (C) Easements issued under the authority of this subsection shall include all changes or modifications to the original facilities in existence as of October 21, 1976, the date of enactment of this Act.
 
@@ -58,7 +58,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (C) Except as otherwise provided in this subsection, all rights-of-way issued pursuant to this subsection are subject to all conditions and requirements of this Act.
 
-(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refuses to perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
+(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refusesto perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
 
 #### (d) Rights-of-way on certain Federal lands
 

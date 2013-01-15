@@ -90,7 +90,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (1) Filing
 
-&emsp;If a participating financial institution charges off all or part of an enrolled loan, such participating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
+&emsp;If a participating financial institution charges off all or part of an enrolled loan, suchparticipating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
 
 &emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the terms of the applicable participation agreement; and
 
@@ -100,7 +100,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 &emsp;Any claim filed under paragraph (1) shall be filed contemporaneously with the action of the participating financial institution to charge off all or part of an enrolled loan. The participating financial institution shall determine when and how much to charge off on an enrolled loan, in a manner consistent with its usual method for making such determinations on business loans that are not enrolled loans under this subchapter.
 
-#### (<i>l</i>) Elements of claims
+#### (l) Elements of claims
 
 A claim filed by a participating financial institution may include the amount of principal charged off, not to exceed the covered amount of the loan. Such claim may also include accrued interest and out-of-pocket expenses, if and to the extent provided for under the participation agreement.
 
@@ -122,7 +122,7 @@ A claim filed by a participating financial institution may include the amount of
 
 A participating State may deny a claim if a representation or warranty made by the participating financial institution to the participating State at the time that the loan was filed for enrollment or at the time that the claim was submitted was known by the participating financial institution to be false.
 
-#### (<i>o</i>) Subsequent recovery of claim amount
+#### (o) Subsequent recovery of claim amount
 
 If, subsequent to payment of a claim by the participating State, a participating financial institution recovers from a borrower any amount for which payment of the claim was made, the participating financial institution shall promptly pay to the participating State for deposit into the reserve fund the amount recovered, less any expenses incurred by the institution in collection of such amount.
 

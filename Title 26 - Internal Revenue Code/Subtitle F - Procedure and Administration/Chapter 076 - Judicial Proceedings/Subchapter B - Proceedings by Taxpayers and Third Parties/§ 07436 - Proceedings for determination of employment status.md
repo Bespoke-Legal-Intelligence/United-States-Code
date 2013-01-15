@@ -42,7 +42,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (1) Restrictions on assessment and collection pending action, etc.
 
-&emsp;The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section 6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary's determination described in subsection (a) were a notice of deficiency.
+&emsp;The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary's determination described in subsection (a) were a notice of deficiency.
 
 #### (2) Awarding of costs and certain fees
 

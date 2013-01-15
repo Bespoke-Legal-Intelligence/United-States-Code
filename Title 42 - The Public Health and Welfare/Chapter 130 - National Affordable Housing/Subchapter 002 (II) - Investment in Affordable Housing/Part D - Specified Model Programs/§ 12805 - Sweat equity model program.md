@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide grants to public and private nonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
+The Secretary shall make available a model program to provide grants to public and privatenonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
 
 #### (b) Rehabilitation of properties
 
@@ -136,13 +136,13 @@ Fulfillment of Grant Agreement.—If the Secretary determines that an organizati
 
 “(k)
 
-Records and Audits.—During the period beginning upon the making of a grant under this section and ending upon close-out of the grant under subsection (<i>l</i>)—
+Records and Audits.—During the period beginning upon the making of a grant under this section and ending upon close-out of the grant under subsection (l)—
 
 &emsp;“(1) the organization awarded the grant shall keep such records and adopt such administrative practices as the Secretary may require to ensure compliance with the provisions of this section and the grant agreement; and
 
 &emsp;“(2) the Secretary and the Comptroller General of the United States, and any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
 
-“(<i>l</i>)
+“(l)
 
 Close-Out.—The Secretary shall close out a grant made under this section upon determining that the aggregate amount of any assistance provided from the fund established under subsection (e)(1) by the grantee organization or consortium exceeds the amount of the grant. For purposes of this paragraph, any interest, fees, and other earnings of the fund shall be excluded from the amount of the grant.
 
@@ -154,7 +154,7 @@ Environmental Review.—A grant under this section shall be considered to be fun
 
 Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made under this section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
 
-“(<i>o</i>)
+“(o)
 
 Definitions.—For purposes of this section, the following definitions shall apply:
 
@@ -168,7 +168,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban D
 
 &emsp;“(3)
 
-United states.—The term ‘United States’ includes the States of the United States, the District ofColumbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+United states.—The term ‘United States’ includes the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 “(p)
 

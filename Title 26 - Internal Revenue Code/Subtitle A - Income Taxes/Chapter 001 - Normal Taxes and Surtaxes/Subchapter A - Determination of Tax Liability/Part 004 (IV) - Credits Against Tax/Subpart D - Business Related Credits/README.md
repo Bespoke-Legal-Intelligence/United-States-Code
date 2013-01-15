@@ -44,15 +44,11 @@ Subpart D—Business Related Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, title I, §1421(e), Mar. 23, 2010, 124 Stat. 242, added item 45R.
 
-<b>2008</b>—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sections for this subpart to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sectionsfor this subpart to reflect the probable intent of Congress.
 
 Pub. L. 110–245, title I, §111(d), June 17, 2008, 122 Stat. 1635, added item 45P.
 
@@ -68,7 +64,7 @@ Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, amended 
 
 <b>2001</b>—Pub. L. 107–16, title VI, §619(c)(3), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, added item 45E.
 
-Pub. L. 107–16, title II, §205(b)(2), title IX, §901, June 7, 2001, 115 Stat. 53, 150, temporarily added item 45F.
+Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 45F.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, added item 45D.
 

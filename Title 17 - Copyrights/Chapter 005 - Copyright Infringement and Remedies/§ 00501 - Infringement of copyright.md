@@ -4,7 +4,7 @@
 
 (b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright.
 
-(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform thesame version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station.
+(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station.
 
 (d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs.
 
@@ -38,7 +38,7 @@ Section 501 contains two provisions conferring standing to sue under the statue 
 
 Section 119(a)(5) of this title, referred to in subsec. (e), was redesignated as section 119(a)(4) of this title by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
 
-Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a)of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a) of Title 47, Telecommunications.
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Amendment by section 1000(a)(9) \[title I, §1002(b)\] of Pub. L. 106–113 effe
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-Section 3 of Pub. L. 101–553 provided that: “The amendments made by this Act \[enacting section 511 of this title and amending this section and sections 910 and 911 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Nov. 15, 1990\].”
+Pub. L. 101–553, §3, Nov. 15, 1990, 104 Stat. 2750, provided that: “The amendments made by this Act \[enacting section 511 of this title and amending this section and sections 910 and 911 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Nov. 15, 1990\].”
 
 #### Effective Date of 1988 Amendments
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 #### Causes of Action Arising Under Predecessor Provisions
 
-Section 112 of Pub. L. 94–553 provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
+Pub. L. 94–553, title I, §112, Oct. 19, 1976, 90 Stat. 2600, provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

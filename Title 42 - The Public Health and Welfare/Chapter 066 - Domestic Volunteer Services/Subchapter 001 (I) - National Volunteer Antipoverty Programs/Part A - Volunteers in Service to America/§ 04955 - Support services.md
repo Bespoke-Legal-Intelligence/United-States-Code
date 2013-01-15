@@ -4,7 +4,7 @@
 
 (1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend to a volunteer enrolled under this part for an extended period of service not totaling one year.
 
-(B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
+(B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month,subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Additional Appropriations Authorization
 
-Section 5(b) of Pub. L. 94–130, as amended by Pub. L. 96–143, §17, Dec. 13, 1979, 93 Stat. 1082, provided that: “There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act \[section 5081 of this title\], such additional sums as may be necessary to carry out theamendments made by subsection (a) of this section \[amending this section\].”
+Pub. L. 94–130, §5(b), Nov. 14, 1975, 89 Stat. 684, as amended by Pub. L. 96–143, §17, Dec. 13, 1979, 93 Stat. 1082, provided that: “There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act \[section 5081 of this title\], such additional sums as may be necessary to carry out the amendments made by subsection (a) of this section \[amending this section\].”
 

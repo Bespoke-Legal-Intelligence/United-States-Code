@@ -10,7 +10,7 @@ The amount of $50,000,000 of fees accumulated under prior investment guaranty pr
 
 #### (c) Priorities of funds for guaranty payments
 
-Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes otherthan the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
+Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
 
 #### (d) Guaranties as obligations backed by full faith and credit of United States
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 93–559, §7(2), substituted “June 30, 1976” for “Ju
 
 #### Effective Date of 1984 Amendment
 
-Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by section 101(1) \[title V, §541(a)\] of Pub. L. 98–473 provided that: “The amendment made by subsection (c) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 12, 1984\].”
+Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by Pub. L. 98–473, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903, provided that: “The amendment made by subsection (c) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 12, 1984\].”
 
 #### Effective Date of 1979 Amendment
 

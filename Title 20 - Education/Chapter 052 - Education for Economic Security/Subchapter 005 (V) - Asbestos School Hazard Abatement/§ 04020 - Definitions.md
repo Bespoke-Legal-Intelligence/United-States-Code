@@ -40,13 +40,13 @@ For purposes of this subchapter:
 
 &emsp;(9) The term “response action” has the meaning given such term by section 2642(11) of title 15.
 
-(Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(<i>l</i>)(2), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(l)(2), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Amendments
 
-<b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
+<b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
 
-Par. (5)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
+Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
 
 <b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 

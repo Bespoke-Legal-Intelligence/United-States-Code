@@ -6,7 +6,7 @@ There is established within the Department of Justice, under the general authori
 
 #### (b) Appointment of Director; experience; authority; restrictions
 
-The Bureau shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in statistical programs. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
+The Bureau shall be headed by a Director appointed by the President. The Director shall have had experience in statistical programs. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
 
 #### (c) Duties and functions of Bureau
 
@@ -92,7 +92,7 @@ In recommending standards for gathering justice statistics under this section, t
 
 Not later than 1 year after July 29, 2010, and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
 
-(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297.)
+(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297; Pub. L. 112–166, §2(h)(1), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ This Act, referred to in subsecs. (b) and (c)(11), is Pub. L. 90–351, June 19,
 A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 <b>2010</b>—Subsec. (c)(3) to (6). Pub. L. 111–211, §251(b)(1)(A), inserted “tribal,” after “State,” wherever appearing.
 
@@ -161,6 +163,10 @@ Subsec. (c)(19). Pub. L. 98–473, §605(b)(2)(B), redesignated former par. (17)
 Subsec. (d)(1). Pub. L. 98–473, §605(b)(3)(A), inserted “, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis”.
 
 Subsec. (d)(5). Pub. L. 98–473, §605(b)(3)(B)–(D), added par. (5).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 1984 Amendment
 
@@ -264,7 +270,7 @@ Purposes.—The purposes of this Act are—
 
 “(a)
 
-In General.—The Attorney General shall conduct a study to increase knowledge and information about crimes against individuals with developmental disabilities that will be useful in developing new strategies to reduce the incidence of crimes against those individuals.
+In General.—The Attorney General shall conduct a study to increase knowledge and informationabout crimes against individuals with developmental disabilities that will be useful in developing new strategies to reduce the incidence of crimes against those individuals.
 
 “(b)
 

@@ -24,7 +24,7 @@ For assignment of certain emergency preparedness functions to Secretary of Healt
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Health and Human Services are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Health and Human Services are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Data Collection Relating to Race or Ethnicity
 
@@ -272,13 +272,13 @@ Establishment of the Consumer Affairs Council
 
 (k) Department of Transportation.
 
-(<i>l</i>) Department of the Treasury.
+(l) Department of the Treasury.
 
 (m) Department of Homeland Security.
 
 (n) ACTION Agency \[now Corporation for National and Community Service\].
 
-(<i>o</i>) Administrative Conference of the United States.
+(o) Administrative Conference of the United States.
 
 (p) Community Services Administration.
 

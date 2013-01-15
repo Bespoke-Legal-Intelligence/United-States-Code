@@ -28,5 +28,5 @@ Par. (4). Pub. L. 103–183, §101(g)(2)(B), inserted “will” after “grant 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 

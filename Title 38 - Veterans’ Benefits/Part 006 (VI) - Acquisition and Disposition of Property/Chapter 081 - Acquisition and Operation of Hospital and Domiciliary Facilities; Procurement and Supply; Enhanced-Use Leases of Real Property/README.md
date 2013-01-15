@@ -83,7 +83,7 @@
 | [8165\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008165%20-%20Use%20of%20proceeds.md) | Use of proceeds. |
 | [8166\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008166%20-%20Construction%20standards.md) | Construction standards. |
 | [8167\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008167%20-%20Exemption%20from%20State%20and%20local%20taxes.md) | Exemption from State and local taxes. |
-| \[8168. | Repealed.\] |
+| [8168\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008168%20-%20Annual%20reports.md) | Annual reports. |
 | [8169\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008169%20-%20Expiration.md) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -93,6 +93,8 @@
 <i>Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.</i>
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112—154, title II, §211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
 
 <b>2010</b>—Pub. L. 111–163, title V, §501(b)(2), May 5, 2010, 124 Stat. 1157, struck out item 8107 “Operational and construction plans for medical facilities”.
 
@@ -122,7 +124,7 @@ Pub. L. 102–405, title I, §103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added ite
 
 Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
 
-Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
+Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015and by substituting “payments” for “Payments” in item 5035.
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
 
@@ -138,7 +140,7 @@ Pub. L. 100–322, title IV, §403(a)(2), May 20, 1988, 102 Stat. 545, added ite
 
 <b>1979</b>—Pub. L. 96–22, title III, §301(c), June 13, 1979, 93 Stat. 61, substituted “ACQUISITION AND OPERATION OF MEDICAL FACILITIES” for “PROVISIONS RELATING TO HOSPITALS AND HOMES” in heading for subchapter I, substituted “Definitions” for “Hospital and domiciliary facilities” in item 5001, “Acquisition of medical facilities” for “Construction and repair of buildings” in item 5002, “Authority to construct and alter, and acquire sites for, medical facilities” for “Use of Armed Forces facilities” in item 5003, “Congressional approval of certain medical facility acquisitions” for “Garages and parking facilities” in item 5004, “Structural requirements” for “Acceptance of certain property” in item 5005, “Construction contracts” for “Property formerly owned by National Home for Disabled Volunteer Soldiers” in item 5006, and “Reports to congressional committees” for “Partial relinquishment of legislative jurisdiction” in item 5007, added items 5008 to 5015, and redesignated former items 5011 to 5014 as 5021 to 5024, respectively.
 
-<b>1977</b>—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, ANDHOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
+<b>1977</b>—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
 
 <b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in item 5056.
 

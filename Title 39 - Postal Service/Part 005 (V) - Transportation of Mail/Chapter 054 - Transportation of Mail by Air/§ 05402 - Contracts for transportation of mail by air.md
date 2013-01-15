@@ -216,7 +216,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;&emsp;(iv) such tender will result in reduced payments to the carrier by the Postal Service over flying the entire route; and
 
-&emsp;(G) notwithstanding subparagraph (F), shall offer equitable tender of nonpriority bypass mail in proportion to passenger and nonmail freight mail pools described in this section between qualified passenger and nonmail freight carriers on a route from an acceptance point to a bush destination in the State of Alaska at a composite rate if—
+&emsp;(G) notwithstanding subparagraph (F), shall offer equitable tender of nonpriority bypassmail in proportion to passenger and nonmail freight mail pools described in this section between qualified passenger and nonmail freight carriers on a route from an acceptance point to a bush destination in the State of Alaska at a composite rate if—
 
 &emsp;&emsp;(i)(I) for a passenger carrier, the carrier receiving the composite rate provided 20 percent of the passenger service on the city pair route for the 12 months immediately preceding the date on which the carrier seeks tender of such mail; or
 
@@ -326,7 +326,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (6)(A) The Secretary shall establish new bush rates for passenger carriers operating in the State of Alaska receiving tender of nonpriority bypass mail under this subsection.
 
-(B) The Secretary shall establish a bush rate based on data collected under subsection (k) from 121 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on city pair routes in the State of Alaska where a 121 bush passenger carrier is tendered nonpriority bypass mail.
+(B) The Secretary shall establish a bush rate based on data collected under subsection (k)from 121 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on city pair routes in the State of Alaska where a 121 bush passenger carrier is tendered nonpriority bypass mail.
 
 (C) The Secretary shall establish a bush rate based on data collected under subsection (k) from 135 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on bush city pair routes in the State of Alaska where no 121 bush passenger carrier is tendered nonpriority bypass mail.
 
@@ -368,7 +368,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;(iv) has invested at least $500,000 in a physical hanger facility prior to January 1, 2002 in such a hub city.
 
-(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted to the Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier's hanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
+(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted to the Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier'shanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
 
 (k)(1) At least once every 2 years, in conjunction with annual updates, the Secretary shall review the need for a bush mail rate investigation. The Secretary shall use show cause procedures to speedily and more accurately determine the cost of providing bush mail service. In determining such rates, the Secretary shall not take into account the cost of passenger insurance rates or premiums paid by the passenger carriers or other costs associated with passenger service.
 
@@ -382,7 +382,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (4) Carriers qualified to be tendered nonpriority bypass mail shall submit to the Secretary the number and type of aircraft in the carrier's fleet, the level of passenger insurance covering its fleet, and the name of the insurance company providing such coverage.
 
-(<i>l</i>) No qualified carrier may be tendered nonpriority bypass mail under subsections (h) and (i) simultaneously on a route unless no other carrier is tendered mail under either subsection.
+(l) No qualified carrier may be tendered nonpriority bypass mail under subsections (h) and (i) simultaneously on a route unless no other carrier is tendered mail under either subsection.
 
 (m)(1) Carriers qualifying for tender of nonpriority bypass mail under subsections (h) and (i) simultaneously shall be tendered such mail under subsection (h).
 
@@ -396,7 +396,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (2) After the 12-month period described under paragraph (1), the carrier resulting from the merger or acquisition shall demonstrate that the carrier meets the minimum passenger or nonmail freight carriage requirements of this section to continue receiving tender of such mail.
 
-(<i>o</i>) In addition to any penalties applied to a carrier by the Federal Aviation Administration or the Secretary, any carrier that significantly misstates passenger or nonmail freight data required to be reported under this section on any route, in an attempt to qualify for tender of nonpriority bypass mail, shall receive—
+(o) In addition to any penalties applied to a carrier by the Federal Aviation Administration or the Secretary, any carrier that significantly misstates passenger or nonmail freight data required to be reported under this section on any route, in an attempt to qualify for tender of nonpriority bypass mail, shall receive—
 
 &emsp;(1) a 1-month suspension of tender of nonpriority bypass mail on the route where the data was misstated for the first offense;
 
@@ -434,7 +434,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19,1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
 
 #### References in Text
 
@@ -520,7 +520,7 @@ Pub. L. 107–206, §3002(c)(1)(B), redesignated subsec. (c) as (d). Former subs
 
 Subsec. (d)(2)(A). Pub. L. 107–171, §10501(1), inserted “, honeybees,” after “poultry”.
 
-Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of thePostal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
+Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
 
 Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
 
@@ -596,7 +596,7 @@ Selection of carriers.—The amendment made by subsection (c)(5) \[amending this
 
 #### Effective Date of 1995 Amendment
 
-Section 631(b) of Pub. L. 104–52 provided that:
+Pub. L. 104–52, title VI, §631(b), Nov. 19, 1995, 109 Stat. 505, provided that:
 
 “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective on and after August 1, 1995.
 

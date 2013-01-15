@@ -38,7 +38,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 
 
 #### Effective Date
 
-Section 17(c) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 87–834, §17(c), Oct. 16, 1962, 76 Stat. 1051, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

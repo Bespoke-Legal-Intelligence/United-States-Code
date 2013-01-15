@@ -6,7 +6,7 @@ Submission of Applications.—If a sponsor intends to sell or lease a general av
 
 (b)
 
-Approval of Applications.—The Secretary may approve, with respect to not more than 5 airports, applications submitted under subsection (a) granting exemptions from the following provisions:
+Approval of Applications.—The Secretary may approve, with respect to not more than 10 airports, applications submitted under subsection (a) granting exemptions from the following provisions:
 
 &emsp;(1)
 
@@ -16,7 +16,7 @@ Use of revenues.—
 
 In general.—The Secretary may grant an exemption to a sponsor from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the sponsor to recover from the sale or lease of the airport such amount as may be approved—
 
-&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduled and nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
+&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduled and nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar yearof at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a nonprimary airport, by the Secretary after the airport has consulted with at least 65 percent of the owners of aircraft based at that airport, as determined by the Secretary.
 
@@ -86,7 +86,7 @@ Interests of General Aviation Users.—In approving an application of an airport
 
 Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
 
-&emsp;(1) imposing a passenger facility fee under section 40117 of this title;
+&emsp;(1) imposing a passenger facility charge under section 40117 of this title;
 
 &emsp;(2) receiving apportionments under section 47114 of this title; or
 
@@ -108,7 +108,7 @@ Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisi
 
 Audits.—The Secretary may conduct periodic audits of the financial records and operations of an airport receiving an exemption under this section.
 
-(<i>l</i>)
+(l)
 
 Report.—Not later than 2 years after the date of the initial approval of an application under this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on implementation of the program under this section.
 
@@ -116,13 +116,17 @@ Report.—Not later than 2 years after the date of the initial approval of an ap
 
 General Aviation Airport Defined.—In this section, the term “general aviation airport” means an airport that is not a commercial service airport.
 
-(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508.)
+(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508; Pub. L. 112–95, title I, §§111(c)(2)(A)(iv), 156, Feb. 14, 2012, 126 Stat. 18, 36.)
 
 #### References in Text
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–95, §156, substituted “10 airports” for “5 airports” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 112–95, §111(c)(2)(A)(iv), substituted “charge” for “fee”.
 
 <b>2003</b>—Subsec. (b)(1)(A). Pub. L. 108–176, §155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 

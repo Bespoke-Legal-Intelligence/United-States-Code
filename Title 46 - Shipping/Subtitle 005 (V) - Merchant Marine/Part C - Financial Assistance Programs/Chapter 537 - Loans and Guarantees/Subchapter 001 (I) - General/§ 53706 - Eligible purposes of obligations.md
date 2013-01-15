@@ -4,7 +4,7 @@
 
 In General.—To be eligible for a guarantee under this chapter, an obligation must aid in any of the following:
 
-&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously madefor) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
+&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
 
 &emsp;&emsp;(i) in the coastwise or intercoastal trade;
 
@@ -140,5 +140,5 @@ Priorities for Certain Vessels.—In guaranteeing or making a commitment to guar
 
 Pub. L. 104–297, title III, §302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, §212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, provided that: “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in section 2101 of title 46, United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery or in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty.”
 
-\[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
+\[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
 

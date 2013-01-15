@@ -96,7 +96,7 @@ Par. (5)(B). Pub. L. 109–74, §103(3)(B), substituted “subsection (c) of tha
 
 #### Effective Date
 
-From Aug. 10, 2005, to the end of fiscal year 2005, the provisions of law amended by section 10119 of Pub. L. 109–59, which added section 15 (this section) to the Dingell-Johnson Sport Fish Restoration Act, to be considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as an Effective Date of 2005 Amendment note under section 777b of this title.
+From Aug. 10, 2005, to the end of fiscal year 2005, the provisions of law amended by section 10119 of Pub. L.109–59, which added section 15 (this section) to the Dingell-Johnson Sport Fish Restoration Act, to be considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as an Effective Date of 2005 Amendment note under section 777b of this title.
 
 Section effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as an Effective Date of 2005 Amendments note under section 777b of this title.
 

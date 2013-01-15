@@ -64,7 +64,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1981 Amendment
 
-Section 2334(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and section 523 of Title 11, Bankruptcy\] shall become effective on the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXIII, §2334(c), Aug. 13, 1981, 95 Stat. 863, provided that: “The amendments made by this section \[amending this section and section 523 of Title 11, Bankruptcy\] shall become effective on the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1978 Amendment
 

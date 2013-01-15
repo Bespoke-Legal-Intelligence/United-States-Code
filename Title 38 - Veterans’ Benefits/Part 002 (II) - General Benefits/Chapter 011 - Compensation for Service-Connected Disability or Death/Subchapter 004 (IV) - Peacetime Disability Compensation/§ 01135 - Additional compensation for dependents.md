@@ -16,7 +16,7 @@ Pub. L. 102–83, §5(c)(1), substituted “1134” for “334” and “1115”
 
 #### Effective Date of 1984 Amendment
 
-Section 112(b) of Pub. L. 98–543 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1978.”
+Pub. L. 98–543, title I, §112(b), Oct. 24, 1984, 98 Stat. 2740, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1978.”
 
 #### Effective Date of 1972 Amendment
 

@@ -208,7 +208,7 @@ Initial terms.—Notwithstanding section 2(d) of the Tennessee Valley Authority 
 
 “(b)
 
-Effective Date.—The amendments made by this title \[enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831<i>l</i>, 831n, 831<i>o</i>, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior section 831a of this title\] take effect on the later of—
+Effective Date.—The amendments made by this title \[enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831l, 831n, 831o, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior section 831a of this title\] take effect on the later of—
 
 &emsp;“(1) the date on which at least three persons nominated under subsection (a) take office; or
 

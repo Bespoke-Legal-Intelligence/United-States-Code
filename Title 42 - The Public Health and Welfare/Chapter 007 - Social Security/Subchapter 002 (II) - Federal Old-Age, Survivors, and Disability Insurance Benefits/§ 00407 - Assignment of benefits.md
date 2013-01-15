@@ -6,7 +6,7 @@ The right of any person to any future payment under this subchapter shall not be
 
 #### (b) Amendment of section
 
-No other provision of law, enacted before, on, or after April 20, 1983, may be construed to limit,supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
+No other provision of law, enacted before, on, or after April 20, 1983, may be construed to limit, supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
 
 #### (c) Withholding of taxes
 
@@ -32,9 +32,9 @@ In subsec. (b), “April 20, 1983” substituted for “the date of the enactmen
 
 #### Effective Date of 1983 Amendment
 
-Section 335(c) of Pub. L. 98–21 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable or rights existing under the Social Security Act \[this chapter\] on or after the date of the enactment of this Act \[Apr. 20, 1983\].”
+Pub. L. 98–21, title III, §335(c), Apr. 20, 1983, 97 Stat. 130, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to benefits payable or rights existing under the Social Security Act \[this chapter\] on or after the date of the enactment of this Act \[Apr. 20, 1983\].”
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 

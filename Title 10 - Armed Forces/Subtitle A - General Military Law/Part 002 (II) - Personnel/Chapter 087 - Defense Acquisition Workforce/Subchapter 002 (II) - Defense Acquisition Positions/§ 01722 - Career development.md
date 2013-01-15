@@ -8,7 +8,7 @@ Career Paths.—The Secretary of Defense, acting through the Under Secretary of 
 
 Limitation on Preference for Military Personnel.—(1) The Secretary of Defense shall ensure that no requirement or preference for a member of the armed forces is used in the consideration of persons for acquisition positions, except as provided in the policy established under paragraph (2).
 
-(2)(A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member ofthe armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
+(2)(A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member of the armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
 
 (B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
 
@@ -48,13 +48,13 @@ Subsec. (e). Pub. L. 107–107, §1048(e)(3), struck out heading and text of sub
 
 #### Military Positions and Assignments Policy Deadlines
 
-Section 1209(c), (d) of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title XII, §1209(c), (d), Nov. 5, 1990, 104 Stat. 1666, provided that:
 
 “(c)
 
 Military Positions Policy Deadlines.—(1) The policy required by paragraph (2) of section 1722(b) of title 10, United States Code (as added by section 1202), shall be established by the Secretary of Defense not later than October 1, 1991.
 
-“(2) The first report required by section 1722(b)(2)(B) of title 10, United States Code (as added by section 1202), shall be submitted to the Secretary of Defense not later than September 30, 1993.
+“(2) The first report required by section 1722(b)(2)(B) of title 10, United States Code (as added by section1202), shall be submitted to the Secretary of Defense not later than September 30, 1993.
 
 “(d)
 

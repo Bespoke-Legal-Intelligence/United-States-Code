@@ -4,7 +4,7 @@
 
 (b) The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in the Inspector General Act of 1978.
 
-(Added Pub. L. 99–433, title I, §108, Oct. 1, 1986, 100 Stat. 998, §140; renumbered §141, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
+(Added Pub. L. 99–433, title I, §108, Oct. 1, 1986, 100 Stat. 998, §140; renumbered §141, Pub. L.103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
 
 #### References in Text
 

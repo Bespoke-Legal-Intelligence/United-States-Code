@@ -40,7 +40,7 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 (3) Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 
-(4) The Secretary of Energy also shall include in the report required by section 2709(a) of thistitle a detailed discussion of how each research and development contract, grant, or project funded under the authority of this Act satisfies the requirement of this subsection.
+(4) The Secretary of Energy also shall include in the report required by section 2709(a) of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this Act satisfies the requirement of this subsection.
 
 (5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this Act shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 

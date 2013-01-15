@@ -24,7 +24,7 @@
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
-(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
+(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the timeof the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
 
 (d) In the audit and settlement of the accounts of any accountable official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see sectio
 
 #### Effective Date of 1988 Amendment
 
-Section 1009(b) of Pub. L. 100–702 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any claim arising before the date of the enactment of this Act \[Nov. 19, 1988\] which is pending on such date, and to any claim which arises on or after such date of enactment.”
+Pub. L. 100–702, title X, §1009(b), Nov. 19, 1988, 102 Stat. 4668, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any claim arising before the date of the enactment of this Act \[Nov. 19, 1988\] which is pending on such date, and to any claim which arises on or after such date of enactment.”
 
 #### Effective Date of 1985 Amendment
 
-Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act.”
+Pub. L. 99–224, §4, Dec. 28, 1985, 99 Stat. 1742, provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act.”
 
 #### Effective Date of 1979 Amendment
 

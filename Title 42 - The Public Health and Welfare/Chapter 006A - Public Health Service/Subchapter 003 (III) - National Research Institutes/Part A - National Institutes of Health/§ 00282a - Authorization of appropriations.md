@@ -54,7 +54,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (A) Limitation
 
-&emsp;&emsp;With respect to the total amount appropriated under subsection (a) for fiscal year 2008 or any subsequent fiscal year, if the head of a national research institute or national center fails to submit the report required by subparagraph (B) for the preceding fiscal year, the amount made available for the institute or center for the fiscal year involved may not exceed the amount made available for the institute or center for fiscal year 2006.
+&emsp;&emsp;With respect to the total amount appropriated under subsection (a) for fiscal year 2008 or any subsequent fiscal year, if the head of a national research institute or national center fails to submit the report required by subparagraph (B) for the precedingfiscal year, the amount made available for the institute or center for the fiscal year involved may not exceed the amount made available for the institute or center for fiscal year 2006.
 
 #### (B) Reporting
 

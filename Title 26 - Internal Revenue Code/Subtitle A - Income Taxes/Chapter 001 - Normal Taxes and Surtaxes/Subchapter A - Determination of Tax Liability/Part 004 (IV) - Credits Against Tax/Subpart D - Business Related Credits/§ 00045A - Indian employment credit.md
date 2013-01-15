@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Carrybacks and carryovers adjusted
 
-&emsp;In the case of any termination of employment to which paragraph (1) applies, thecarrybacks and carryovers under section 39 shall be properly adjusted.
+&emsp;In the case of any termination of employment to which paragraph (1) applies, the carrybacks and carryovers under section 39 shall be properly adjusted.
 
 #### (3) Subsection not to apply in certain cases
 
@@ -154,9 +154,9 @@ For purposes of this section—
 
 #### (f) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2011.
+This section shall not apply to taxable years beginning after December 31, 2013.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §304(a), Jan. 2, 2013, 126 Stat. 2329.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -169,6 +169,8 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -186,6 +188,10 @@ Subsec. (f). Pub. L. 108–311, §315, substituted “December 31, 2005” for �
 
 <b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §304(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §732(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
@@ -200,7 +206,7 @@ Pub. L. 109–432, div. A, title I, §111(b), Dec. 20, 2006, 120 Stat. 2940, pro
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided that: “The amendments made by this section \[amending this section and sections 403, 408, 415, 530, and 4972 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
+Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided that: “The amendments made by thissection \[amending this section and sections 403, 408, 415, 530, and 4972 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
 
 #### Effective Date of 1996 Amendment
 

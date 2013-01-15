@@ -44,7 +44,9 @@ Appeals.—(1) An individual whose application for the issuance or renewal of an
 
 &emsp;(B) was revoked within one year from the date of the denial.
 
-(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law. At the end of the hearing, the Board shall decide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
+(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration. At the end of the hearing, the Board shall decide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
+
+(3) A person who is substantially affected by an order of the Board under this subsection, or the Administrator if the Administrator decides that an order of the Board will have a significant adverse impact on carrying out this subtitle, may seek judicial review of the order under section 46110. The Administrator shall be made a party to the judicial review proceedings. The findings of fact of the Board in any such case are conclusive if supported by substantial evidence.
 
 (e)
 
@@ -140,7 +142,7 @@ year reporting period.—A person shall not furnish a record in response to a re
 
 &emsp;(4)
 
-Requirement to maintain records.—The Administrator and air carriers shall maintainpilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
+Requirement to maintain records.—The Administrator and air carriers shall maintain pilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
 
 &emsp;(5)
 
@@ -218,7 +220,7 @@ Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrie
 
 &emsp;&emsp;(B)
 
-Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employedthe individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
+Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists or from a foreign government or entity that employed the individual, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
 
 &emsp;(15)
 
@@ -362,7 +364,7 @@ Disclosure of information.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552 of title 5.
+In general.—Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552(b)(3)(B) of title 5.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -416,7 +418,7 @@ Access by individuals designated by air carriers.—For the purpose of increasin
 
 &emsp;&emsp;(B)
 
-Terms.—The terms established by the Administrator under subparagraph (A) forallowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
+Terms.—The terms established by the Administrator under subparagraph (A) for allowing a designated individual to have electronic access to the database shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that—
 
 &emsp;&emsp;&emsp;(i) the designated individual has received the written consent of the pilot applicant to access the information; and
 
@@ -488,7 +490,7 @@ Prohibition on actions and proceedings against air carriers.—
 
 &emsp;&emsp;(A)
 
-Hiring decisions.—An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+Hiring decisions.—An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did notexecute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 
 &emsp;&emsp;(B)
 
@@ -498,7 +500,7 @@ Actions and proceedings.—No action or proceeding may be brought against an air
 
 Limitation on Statutory Construction.—Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 106–181, title VII, §715, Apr. 5, 2000, 114 Stat. 162; Pub. L. 107–71, title I, §§129, 138(b), 140(a), Nov. 19, 2001, 115 Stat. 633, 640, 641; Pub. L. 111–216, title II, §203, Aug. 1, 2010, 124 Stat. 2352; Pub. L. 111–249, §6(3), (4), Sept. 30, 2010, 124 Stat. 2629; Pub. L. 112–95, title III, §§301(a), 310(c), Feb. 14, 2012, 126 Stat. 56, 65; Pub. L. 112–153, §2(c)(1), Aug. 3, 2012, 126 Stat. 1160.)
 
 Historical and Revision Notes
 
@@ -606,6 +608,12 @@ The text of section 44936(f) to (h) of this title, which was transferred to the 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–153 struck out “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “Federal Aviation Administration”.
+
+Subsec. (d)(3). Pub. L. 112–95, §301(a), added par. (3).
+
+Subsec. (i)(9)(B)(i). Pub. L. 112–95, §310(c), substituted “section 552(b)(3)(B) of title 5” for “section 552 of title 5”.
+
 <b>2010</b>—Subsec. (h)(16). Pub. L. 111–216, §203(a), added par. (16).
 
 Subsec. (i). Pub. L. 111–216, §203(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
@@ -652,7 +660,241 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
+#### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
+
+Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, provided that:
+
+“(a)
+
+In General.—Any proceeding conducted under subpart C, D, or F of part 821 of title 49, Code of Federal Regulations, relating to denial, amendment, modification, suspension, or revocation of an airman certificate, shall be conducted, to the extent practicable, in accordance with the Federal Rules of Civil Procedure \[28 U.S.C. App.\] and the Federal Rules of Evidence \[28 U.S.C. App.\].
+
+“(b)
+
+Access to Information.—
+
+&emsp;“(1)
+
+In general.—Except as provided under paragraph (3), the Administrator of the Federal Aviation Administration (referred to in this section as the ‘Administrator’) shall provide timely, written notification to an individual who is the subject of an investigation relating to the approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code.
+
+&emsp;“(2)
+
+Information required.—The notification required under paragraph (1) shall inform the individual—
+
+&emsp;&emsp;“(A) of the nature of the investigation;
+
+&emsp;&emsp;“(B) that an oral or written response to a Letter of Investigation from the Administrator is not required;
+
+&emsp;&emsp;“(C) that no action or adverse inference can be taken against the individual for declining to respond to a Letter of Investigation from the Administrator;
+
+&emsp;&emsp;“(D) that any response to a Letter of Investigation from the Administrator or to an inquiry made by a representative of the Administrator by the individual may be used as evidence against the individual;
+
+&emsp;&emsp;“(E) that the releasable portions of the Administrator's investigative report will be available to the individual; and
+
+&emsp;&emsp;“(F) that the individual is entitled to access or otherwise obtain air traffic data described in paragraph (4).
+
+&emsp;“(3)
+
+Exception.—The Administrator may delay timely notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
+
+&emsp;“(4)
+
+Access to air traffic data.—
+
+&emsp;&emsp;“(A)
+
+FAA air traffic data.—The Administrator shall provide an individual described in paragraph (1) with timely access to any air traffic data in the possession of the Federal Aviation Administration that would facilitate the individual's ability to productively participate in a proceeding relating to an investigation described in such paragraph.
+
+&emsp;&emsp;“(B)
+
+Air traffic data defined.—As used in subparagraph (A), the term ‘air traffic data’ includes—
+
+&emsp;&emsp;&emsp;“(i) relevant air traffic communication tapes;
+
+&emsp;&emsp;&emsp;“(ii) radar information;
+
+&emsp;&emsp;&emsp;“(iii) air traffic controller statements;
+
+&emsp;&emsp;&emsp;“(iv) flight data;
+
+&emsp;&emsp;&emsp;“(v) investigative reports; and
+
+&emsp;&emsp;&emsp;“(vi) any other air traffic or flight data in the Federal Aviation Administration's possession that would facilitate the individual's ability to productively participate in the proceeding.
+
+&emsp;&emsp;“(C)
+
+Government contractor air traffic data.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Any individual described in paragraph (1) is entitled to obtain any air traffic data that would facilitate the individual's ability to productively participate in a proceeding relating to an investigation described in such paragraph from a government contractor that provides operational services to the Federal Aviation Administration, including control towers and flight service stations.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Required information from individual.—The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) describes the facility at which such information is located; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) identifies the date on which such information was generated.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) request the contractor to provide the requested information; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) upon receiving such information, transmitting the information to the requesting individual in a timely manner.
+
+&emsp;“(5)
+
+Timing.—Except when the Administrator determines that an emergency exists under section 44709(c)(2) \[probably should be 44709(e)(2)\] or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
+
+“(c)
+
+Amendments to Title 49.—
+
+&emsp;“(1)
+
+Airman certificates.—\[Amended this section.\]
+
+&emsp;“(2)
+
+Amendments, modifications, suspensions, and revocations of certificates.—\[Amended section 44709 of this title.\]
+
+&emsp;“(3)
+
+Revocation of airman certificates for controlled substance violations.—\[Amended section 44710 of this title.\]
+
+“(d)
+
+Appeal From Certificate Actions.—
+
+&emsp;“(1)
+
+In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
+
+&emsp;“(2)
+
+Emergency order pending judicial review.—Subsequent to a decision by the Board to uphold an Administrator's emergency order under section 44709(e)(2) of title 49, United States Code, and absent a stay of the enforcement of that order by the Board, the emergency order of amendment, modification, suspension, or revocation of a certificate shall remain in effect, pending the exhaustion of an appeal to a Federal district court as provided in this Act \[amending this section and sections 44709 and 44710 of this title and enacting provisions set out as notes under this section and sections 40101 and 44701 of this title\].
+
+“(e)
+
+Standard of Review.—
+
+&emsp;“(1)
+
+In general.—In an appeal filed under subsection (d) in a United States district court, the district court shall give full independent review of a denial, suspension, or revocation ordered by the Administrator, including substantive independent and expedited review of any decision by the Administrator to make such order effective immediately.
+
+&emsp;“(2)
+
+Evidence.—A United States district court's review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties.”
+
+#### Medical Certification
+
+Pub. L. 112–153, §4, Aug. 3, 2012, 126 Stat. 1162, provided that:
+
+“(a)
+
+Assessment.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2012\], the Comptroller General of the United States shall initiate an assessment of the Federal Aviation Administration's medical certification process and the associated medical standards and forms.
+
+&emsp;“(2)
+
+Report.—The Comptroller General shall submit a report to Congress based on the assessment required under paragraph (1) that examines—
+
+&emsp;&emsp;“(A) revisions to the medical application form that would provide greater clarity and guidance to applicants;
+
+&emsp;&emsp;“(B) the alignment of medical qualification policies with present-day qualified medical judgment and practices, as applied to an individual's medically relevant circumstances; and
+
+&emsp;&emsp;“(C) steps that could be taken to promote the public's understanding of the medical requirements that determine an airman's medical certificate eligibility.
+
+“(b)
+
+Goals of the Federal Aviation Administration's Medical Certification Process.—The goals of the Federal Aviation Administration's medical certification process are—
+
+&emsp;“(1) to provide questions in the medical application form that—
+
+&emsp;&emsp;“(A) are appropriate without being overly broad;
+
+&emsp;&emsp;“(B) are subject to a minimum amount of misinterpretation and mistaken responses;
+
+&emsp;&emsp;“(C) allow for consistent treatment and responses during the medical application process; and
+
+&emsp;&emsp;“(D) avoid unnecessary allegations that an individual has intentionally falsified answers on the form;
+
+&emsp;“(2) to provide questions that elicit information that is relevant to making a determination of an individual's medical qualifications within the standards identified in the Administrator's regulations;
+
+&emsp;“(3) to give medical standards greater meaning by ensuring the information requested aligns with present-day medical judgment and practices; and
+
+&emsp;“(4) to ensure that—
+
+&emsp;&emsp;“(A) the application of such medical standards provides an appropriate and fair evaluation of an individual's qualifications; and
+
+&emsp;&emsp;“(B) the individual understands the basis for determining medical qualifications.
+
+“(c)
+
+Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
+
+“(d)
+
+Federal Aviation Administration Response.—Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report.”
+
 #### Improved Pilot Licenses
+
+Pub. L. 112–95, title III, §321, Feb. 14, 2012, 126 Stat. 71, provided that:
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall issue improved pilot licenses consistent with requirements under this section.
+
+“(b)
+
+Timing.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall—
+
+&emsp;“(1) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+
+&emsp;&emsp;“(A) a timeline for the phased issuance of improved pilot licenses under this section that ensures all pilots are issued such licenses not later than 2 years after the initial issuance of such licenses under paragraph (2); and
+
+&emsp;&emsp;“(B) recommendations for the Federal installation of infrastructure necessary to take advantage of information contained on improved pilot licenses issued under this section, which identify the necessary infrastructure, indicate the Federal entity that should be responsible for installing, funding, and operating the infrastructure at airport sterile areas, and provide an estimate of the costs of the infrastructure; and
+
+&emsp;“(2) begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
+
+“(c)
+
+Requirements.—Improved pilot licenses issued under this section shall—
+
+&emsp;“(1) be resistant to tampering, alteration, and counterfeiting;
+
+&emsp;“(2) include a photograph of the individual to whom the license is issued for identification purposes; and
+
+&emsp;“(3) be smart cards that—
+
+&emsp;&emsp;“(A) accommodate iris and fingerprint biometric identifiers; and
+
+&emsp;&emsp;“(B) are compliant with Federal Information Processing Standards-201 (FIPS–201) or Personal Identity Verification-Interoperability Standards (PIV–I) for processing through security checkpoints into airport sterile areas.
+
+“(d)
+
+Tampering.—To the extent practicable, the Administrator shall develop methods to determine or reveal whether any component or security feature of an improved pilot license issued under this section has been tampered with, altered, or counterfeited.
+
+“(e)
+
+Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent practicable in order to minimize the burdens on pilots.
+
+“(f)
+
+Report to Congress.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
+
+&emsp;“(2)
+
+Expiration.—The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots.”
 
 Pub. L. 108–458, title IV, §4022, Dec. 17, 2004, 118 Stat. 3723, provided that:
 

@@ -12,7 +12,7 @@ It is the sense of the Congress that the appropriation targets for such fiscal y
 
 Notwithstanding the limitation otherwise imposed by subsection (a) of this section—
 
-&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) of this section by such amount as permanent and annual indefinite appropriations exceed the estimates for such appropriations as contained in “The Budget of the United States Government, Fiscal Year 1982,” as revised by the March 1981, publication of the Office of Management and Budget entitled “Fiscal Year 1982 Budget Revisions”, when receipts available to be appropriated equal or exceed such appropriations, and
+&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) of this section by such amount aspermanent and annual indefinite appropriations exceed the estimates for such appropriations as contained in “The Budget of the United States Government, Fiscal Year 1982,” as revised by the March 1981, publication of the Office of Management and Budget entitled “Fiscal Year 1982 Budget Revisions”, when receipts available to be appropriated equal or exceed such appropriations, and
 
 &emsp;(2) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) of this section by such amounts as may be required for emergency firefighting and for increased pay costs authorized by law.
 
@@ -44,7 +44,7 @@ For the purposes of this section, the term “Department of the Interior program
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965 (78 Stat. 897; 16 U.S.C. 460z), referred to in subsec. (b),is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
+The Land and Water Conservation Fund Act of 1965 (78 Stat. 897; 16 U.S.C. 460z), referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
 The National Historic Preservation Act of 1966 (80 Stat. 915; 16 U.S.C. 470), referred to in subsec. (b), probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
@@ -84,7 +84,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 &emsp;“(6) management and regulation of natural resources on Federal lands are inherently Government functions and should be performed by Federal employees.
 
-“(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in any other order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
+“(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in anyother order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
 
 “(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management and Budget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
 

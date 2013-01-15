@@ -10,7 +10,7 @@
 
 &emsp;(1) the responsibility to perform an investigation with respect thereto is specifically assigned otherwise by another provision of law; or
 
-&emsp;(2) as to any department or agency of the Government, the Attorney General directs otherwise with respect to a specified class of information, allegation, or complaint.
+&emsp;(2) as to any department or agency of the Government, the Attorney General directsotherwise with respect to a specified class of information, allegation, or complaint.
 
 (c) This section does not limit—
 

@@ -90,5 +90,5 @@ Subsec. (d)(1). Pub. L. 104–53, §309(b), substituted “Board” for “Admin
 
 #### Effective Date of 1995 Amendment
 
-Section 309(c) of Pub. L. 104–53 provided that: “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). \[See provision of title II of Pub. L. 104–52, set out as a note preceding section591 of Title 5, Government Organization and Employees.\]”
+Pub. L. 104–53, title III, §309(c), Nov. 19, 1995, 109 Stat. 538, provided that: “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 (2 U.S.C. 1371). \[See provision of title II of Pub. L. 104–52, set outas a note preceding section 591 of Title 5, Government Organization and Employees.\]”
 

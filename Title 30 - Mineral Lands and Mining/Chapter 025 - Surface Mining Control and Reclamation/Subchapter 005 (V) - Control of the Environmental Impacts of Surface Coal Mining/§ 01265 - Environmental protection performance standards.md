@@ -16,7 +16,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coal mining and reclamation operation to effectively control erosion and attendant air and water pollution;
 
-&emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, or if not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
+&emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, orif not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
 
 &emsp;(6) restore the topsoil or the best available subsoil which is best able to support vegetation;
 
@@ -24,7 +24,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) segregate the A horizon of the natural soil, except where it can be shown that other available soil materials will create a final soil having a greater productive capacity; and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
 
-&emsp;&emsp;(B) segregate the B horizon of the natural soil, or underlying C horizons or other strata, or a combination of such horizons or other strata that are shown to be both texturally and chemically suitable for plant growth and that can be shown to be equally or more favorable for plant growth than the B horizon, in sufficient quantities to create in the regraded final soil a root zone of comparable depth and quality to that which existed in the natural soil; and if not utilized immediately, stockpile this material separately from other spoil, and provide neededprotection from wind and water erosion or contamination by other acid or toxic material;
+&emsp;&emsp;(B) segregate the B horizon of the natural soil, or underlying C horizons or other strata, or a combination of such horizons or other strata that are shown to be both texturally and chemically suitable for plant growth and that can be shown to be equally or more favorable for plant growth than the B horizon, in sufficient quantities to create in the regraded final soil a root zone of comparable depth and quality to that which existed in the natural soil; and if not utilized immediately, stockpile this material separately from other spoil, and provide needed protection from wind and water erosion or contamination by other acid or toxic material;
 
 &emsp;&emsp;(C) replace and regrade the root zone material described in (B) above with proper compaction and uniform depth over the regraded spoil material; and
 
@@ -58,7 +58,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(B)(i) conducting surface coal mining operations so as to prevent, to the extent possible using the best technology currently available, additional contributions of suspended solids to streamflow, or runoff outside the permit area, but in no event shall contributions be in excess of requirements set by applicable State or Federal law;
 
-&emsp;&emsp;(ii) constructing any siltation structures pursuant to subparagraph (B)(i) of this subsection prior to commencement of surface coal mining operations, such structures to be certified by a qualified registered engineer or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans to be constructed as designed and as approved in the reclamation plan;
+&emsp;&emsp;(ii) constructing any siltation structures pursuant to subparagraph (B)(i) of this subsection prior to commencement of surfacecoal mining operations, such structures to be certified by a qualified registered engineer or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans to be constructed as designed and as approved in the reclamation plan;
 
 &emsp;&emsp;(C) cleaning out and removing temporary or large settling ponds or other siltation structures from drainways after disturbed areas are revegetated and stabilized; and depositing the silt and debris at a site and in a manner approved by the regulatory authority;
 
@@ -72,7 +72,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(11) with respect to surface disposal of mine wastes, tailings, coal processing wastes, and other wastes in areas other than the mine working or excavations, stabilize all waste piles in designated areas through construction in compacted layers including the use of incombustible and impervious materials if necessary and assure the final contour of the waste pile will be compatible with natural surroundings and that the site can and will be stabilized and revegetated according to the provisions of this chapter;
 
-&emsp;(12) refrain from surface coal mining within five hundred feet from active and abandoned underground mines in order to prevent breakthroughs and to protect health or safety of miners: <i>Provided</i>, That the regulatory authority shall permit an operator to mine near, through or partially through an abandoned underground mine or closer to an active underground mine if (A) the nature, timing, and sequencing of the approximate coincidence of specific surface mine activities with specificunderground mine activities are jointly approved by the regulatory authorities concerned with surface mine regulation and the health and safety of underground miners, and (B) such operations will result in improved resource recovery, abatement of water pollution, or elimination of hazards to the health and safety of the public;
+&emsp;(12) refrain from surface coal mining within five hundred feet from active and abandoned underground mines in order to prevent breakthroughs and to protect health or safety of miners: <i>Provided</i>, That the regulatory authority shall permit an operator to mine near, through or partially through an abandoned underground mine or closer to an active underground mine if (A) the nature, timing, and sequencing of the approximate coincidence of specific surface mine activities with specific underground mine activities are jointly approved by the regulatory authorities concerned with surface mine regulation and the health and safety of underground miners, and (B) such operations will result in improved resource recovery, abatement of water pollution, or elimination of hazards to the health and safety of the public;
 
 &emsp;(13) design, locate, construct, operate, maintain, enlarge, modify, and remove or abandon, in accordance with the standards and criteria developed pursuant to subsection (f) of this section, all existing and new coal mine waste piles consisting of mine wastes, tailings, coal processing wastes, or other liquid and solid wastes, and used either temporarily or permanently as dams or embankments;
 
@@ -94,7 +94,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) if the regulatory authority finds in writing that:
 
-&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasible plans for the proposed underground mining operations;
+&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasibleplans for the proposed underground mining operations;
 
 &emsp;&emsp;&emsp;(ii) the proposed underground mining operations are necessary or desirable to assure maximum practical recovery of the mineral resource and will avoid multiple disturbance of the surface;
 
@@ -136,7 +136,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
 
-&emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficient size to prevent mass movement, is constructed;
+&emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficientsize to prevent mass movement, is constructed;
 
 &emsp;&emsp;(G) the final configuration is compatible with the natural drainage pattern and surroundings and suitable for intended uses;
 
@@ -202,7 +202,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 #### (d) Steep-slope surface coal mining standards
 
-The following performance standards shall be applicable to steep-slope surface coal mining and shall be in addition to those general performance standards required by this section: <i>Provided, however</i>, That the provisions of this subsection (d) shall not apply to those situations in which an operator is mining on flat or gently rolling terrain, on which an occasional steep slope is encountered through which the mining operation is to proceed, leaving a plain or predominantly flat area or where an operator is in compliance with provisions of subsection (c) hereof:
+The following performance standards shall be applicable to steep-slope surface coal miningand shall be in addition to those general performance standards required by this section: <i>Provided, however</i>, That the provisions of this subsection (d) shall not apply to those situations in which an operator is mining on flat or gently rolling terrain, on which an occasional steep slope is encountered through which the mining operation is to proceed, leaving a plain or predominantly flat area or where an operator is in compliance with provisions of subsection (c) hereof:
 
 (1) Insure that when performing surface coal mining on steep slopes, no debris, abandoned or disabled equipment, spoil material, or waste mineral matter be placed on the downslope below the bench or mining cut: <i>Provided</i>, That spoil material in excess of that required for the reconstruction of the approximate original contour under the provisions of subsection (b)(3) or (d)(2) of this section shall be permanently stored pursuant to subsection (b)(22) of this section.
 
@@ -214,7 +214,7 @@ The following performance standards shall be applicable to steep-slope surface c
 
 #### (e) Variances to original contour restoration requirements
 
-(1) Each State program may and each Federal program shall include procedures pursuant to which the regulatory authority may permitvariances for the purposes set forth in paragraph (3) of this subsection, provided that the watershed control of the area is improved; and further provided complete backfilling with spoil material shall be required to cover completely the highwall which material will maintain stability following mining and reclamation.
+(1) Each State program may and each Federal program shall include procedures pursuant to which the regulatory authority may permit variances for the purposes set forth in paragraph (3) of this subsection, provided that the watershed control of the area is improved; and further provided complete backfilling with spoil material shall be required to cover completely the highwall which material will maintain stability following mining and reclamation.
 
 (2) Where an applicant meets the requirements of paragraphs (3) and (4) of this subsection a variance from the requirement to restore to approximate original contour set forth in subsection (d)(2) of this section may be granted for the surface mining of coal where the owner of the surface knowingly requests in writing, as a part of the permit application that such a variance be granted so as to render the land, after reclamation, suitable for an industrial, commercial, residential, or public use (including recreational facilities) in accord with the further provisions of (3) and (4) of this subsection.
 

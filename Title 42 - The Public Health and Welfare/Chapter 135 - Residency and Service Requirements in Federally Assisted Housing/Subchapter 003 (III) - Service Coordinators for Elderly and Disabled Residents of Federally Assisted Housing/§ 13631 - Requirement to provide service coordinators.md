@@ -8,7 +8,7 @@ To the extent that amounts are made available for providing service coordinators
 
 Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
 
-&emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
+&emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, anyresident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
 
 &emsp;(2) shall manage and coordinate the provision of such services for residents of the project;
 

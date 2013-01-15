@@ -106,7 +106,7 @@ $1,000.
 
 &emsp;&emsp;&emsp;An employer is described in this clause if, in any taxable year preceding the taxable year described in clause (ii)—
 
-&emsp;&emsp;&emsp;&emsp;(I) such employer (or any controlling corporation of such employer) was a debtor in a case under title 11 of the United States Code, or similar Federal or State law, and
+&emsp;&emsp;&emsp;&emsp;(I) such employer (or any controlling corporation of such employer) was adebtor in a case under title 11 of the United States Code, or similar Federal or State law, and
 
 &emsp;&emsp;&emsp;&emsp;(II) such employer (or any other person) was subject to an indictment or conviction resulting from business transactions related to such case.
 
@@ -148,7 +148,7 @@ $1,000.
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount allowed as a deduction under subsection (a) to such spouse for such taxable year,
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of any designated nondeductible contribution (as defined in section 408(<i>o</i>)) on behalf of such spouse for such taxable year, and
+&emsp;&emsp;&emsp;&emsp;(II) the amount of any designated nondeductible contribution (as defined in section 408(o)) on behalf of such spouse for such taxable year, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the amount of any contribution on behalf of such spouse to a Roth IRA under section 408A for such taxable year.
 
@@ -236,7 +236,7 @@ For purposes of this section, the term “qualified retirement contribution” m
 
 #### (8) Election not to deduct contributions
 
-&emsp;&emsp;<b>For election not to deduct contributions to individual retirement plans, see section 408(</b><b><i>o</i></b><b>)(2)(B)(ii).</b>
+&emsp;&emsp;<b>For election not to deduct contributions to individual retirement plans, see section 408(o)(2)(B)(ii).</b>
 
 #### (g) Limitation on deduction for active participants in certain pension plans
 
@@ -466,15 +466,11 @@ $50,000.
 
 &emsp;&emsp;<b>For failure to provide required reports, see section 6652(g).</b>
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I,§101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -498,7 +494,7 @@ Subsec. (b)(5). Pub. L. 107–16, §601(a)(2), added par. (5).
 
 Subsec. (d)(2). Pub. L. 107–16, §641(e)(2), substituted “408(d)(3), or 457(e)(16)” for “or 408(d)(3)”.
 
-Subsec. (g)(3)(A)(ii). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted “222,” after “221,”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (g)(3)(A)(ii). Pub. L. 107–16, §431(c)(1), inserted “222,” after “221,”.
 
 <b>2000</b>—Subsec. (c)(1)(B)(ii)(II), (III). Pub. L. 106–554 added subcl. (II) and redesignated former subcl. (II) as (III).
 
@@ -608,7 +604,7 @@ Subsec. (f)(3)(A). Pub. L. 98–369, §147(c), substituted “not including” f
 
 Subsec. (c)(2)(B). Pub. L. 97–448, §103(c)(1), substituted “the amount allowable as a deduction under subsection (a) for the taxable year (determined without regard to so much of the employer contributions to a simplified employee pension as is allowable by reason of paragraph (2) of subsection (b))” for “the amount allowed as a deduction under subsection (a) for the taxable year”.
 
-Subsec. (d)(1). Pub. L. 97–448, §103(c)(2), substituted “Beneficiary must be under age 70½” for “Individuals who have attained age 70½” as par. (1) heading and, in text, substituted “qualified retirement contribution forthe benefit of an individual if such individual has attained age 70½ before the close of such individual's taxable year for which the contribution was made” for “qualified retirement contribution which is made for a taxable year of an individual if such individual has attained age 70½ before the close of such taxable year”.
+Subsec. (d)(1). Pub. L. 97–448, §103(c)(2), substituted “Beneficiary must be under age 70½” for “Individuals who have attained age 70½” as par. (1) heading and, in text, substituted “qualified retirement contribution for the benefit of an individual if such individual has attained age 70½ before the close of such individual's taxable year for which the contribution was made” for “qualified retirement contribution which is made for a taxable year of an individual if such individual has attained age 70½ before the close of such taxable year”.
 
 Subsec. (e)(3)(D), (E). Pub. L. 97–448, §103(c)(3)(A), redesignated subpar. (E) as (D). Former subpar. (D), which related to simplified employee pension (within the meaning of section 408(k)), was struck out.
 
@@ -706,15 +702,13 @@ Pub. L. 109–227, §2(b), May 29, 2006, 120 Stat. 385, provided that: “The am
 
 Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 Pub. L. 107–16, title VI, §601(c), June 7, 2001, 115 Stat. 95, provided that: “The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
-Amendment by section 641(e)(2) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 402 of this title.
-
-Amendment by section 431(c)(1) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 641(e)(2) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -722,7 +716,7 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by section 6018(f)(2) of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 23 of this title.
 
@@ -730,15 +724,15 @@ Amendment by section 6005(a) of Pub. L. 105–206 effective, except as otherwise
 
 #### Effective Date of 1997 Amendment
 
-Section 301(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title III, §301(c), Aug. 5, 1997, 111 Stat. 825, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 302(f) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 408A of this title and amending this section and sections 408 and 4973 of this title\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title III, §302(f), Aug. 5, 1997, 111 Stat. 829, provided that: “The amendments made by this section \[enacting section 408A of this title and amending this section and sections 408 and 4973 of this title\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
 Amendment by section 1421(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
-Section 1427(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–188, title I, §1427(c), Aug. 20, 1996, 110 Stat. 1802, provided that: “The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
 Amendment by section 1807(c)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
@@ -754,11 +748,11 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7816(c)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Section 7841(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
+Pub. L. 101–239, title VII, §7841(c)(2), Dec. 19, 1989, 103 Stat. 2428, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1011(a)(2) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1011(a)(2), Nov. 10, 1988, 102 Stat. 3456, provided that:
 
 “(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.
 
@@ -772,11 +766,11 @@ Amendment by section 301(b)(4) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1101(a), (b)(1), (2)(A) of Pub. L. 99–514 applicable to contributions for taxable years beginning after Dec. 31, 1986, see section 1101(c) of Pub. L. 99–514, set out as a note under section 72 of this title.
 
-Section 1102(g) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 408, 3405, 4973, and 6693 of this title\] shall apply to contributions and distributions for taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XI, §1102(g), Oct. 22, 1986, 100 Stat. 2417, provided that: “The amendments made by this section \[amending this section and sections 408, 3405, 4973, and 6693 of this title\] shall apply to contributions and distributions for taxable years beginning after December 31, 1986.”
 
-Section 1103(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning before, on, or after December 31, 1985.”
+Pub. L. 99–514, title XI, §1103(b), Oct. 22, 1986, 100 Stat. 2417, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning before, on, or after December 31, 1985.”
 
-Section 1108(h) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(f)(7), Nov. 10, 1988, 102 Stat. 3463, provided that:
+Pub. L. 99–514, title XI, §1108(h), Oct. 22, 1986, 100 Stat. 2435, as amended by Pub. L. 100–647, title I, §1011(f)(7), Nov. 10, 1988, 102 Stat. 3463, provided that:
 
 “(1)
 
@@ -784,9 +778,9 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954 (as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
+Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954\(as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
 
-Section 1109(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XI, §1109(c), Oct. 22, 1986, 100 Stat. 2435, provided that: “The amendments made by this section \[amending this section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1501(d)(1)(B) of Pub. L. 99–514, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
@@ -794,7 +788,7 @@ Amendment by section 1875(c)(4), (6)(B) of Pub. L. 99–514 effective as if incl
 
 #### Effective Date of 1984 Amendment
 
-Section 147(d) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title I, §147(d), July 18, 1984, 98 Stat. 687, provided that:
 
 “(1)
 
@@ -808,7 +802,7 @@ Amendment by section 422(d)(1) of Pub. L. 98–369 applicable with respect to di
 
 Amendment by section 491(d)(6)–(8) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Section 529(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title V, §529(c), July 18, 1984, 98 Stat. 877, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 Amendment by section 713(d)(2) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -822,7 +816,7 @@ Amendment by Pub. L. 97–248 applicable to with respect to individuals dying af
 
 #### Effective Date of 1981 Amendment
 
-Section 311(i) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §103(c)(11), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title III, §311(i), Aug. 13, 1981, 95 Stat. 282, as amended by Pub. L. 97–448, title I, §103(c)(11), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -854,7 +848,7 @@ Gift tax.—The amendments made by subsections (d)(2) and (h)(5) \[amending sect
 
 Amendment by section 312(c)(1) of Pub. L. 97–34 applicable to plans which include employees within the meaning of section 401(c)(1) of this title with respect to taxable years beginning after Dec. 31, 1981, see section 312(f)(1) of Pub. L. 97–34, set out as a note under section 72 of this title.
 
-Section 313(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 405, 408, 2039, and 4973 of this title\] shall apply to redemptions after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.”
+Pub. L. 97–34, title III, §313(c), Aug. 13, 1981, 95 Stat. 286, provided that: “The amendments made by this section \[amending this section and sections 405, 408, 2039, and 4973 of this title\] shall apply to redemptions after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.”
 
 #### Effective Date of 1980 Amendment
 
@@ -866,23 +860,23 @@ Amendment by section 152(c) of Pub. L. 95–600 applicable to taxable years begi
 
 Amendment by section 156(c)(3) of Pub. L. 95–600 applicable to distributions or transfers made after Dec. 31, 1977, in taxable years beginning after such date, see section 156(d) of Pub. L. 95–600 set out as a note under section 403 of this title.
 
-Section 157(a)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and section 220 of this title\] shall apply to taxable years beginning after December 31, 1977.”
+Pub. L. 95–600, title I, §157(a)(3), Nov. 6, 1978, 92 Stat. 2803, provided that: “The amendments made by this subsection \[amending this section and section 220 of this title\] shall apply to taxable years beginning after December 31, 1977.”
 
-Section 157(b)(4)(A) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 220 and 4973 of this title\] shall apply to the determination of deductions for taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title I, §157(b)(4)(A), Nov. 6, 1978, 92 Stat. 2805, provided that: “The amendments made by this subsection \[amending this section and sections 220 and 4973 of this title\] shall apply to the determination of deductions for taxable years beginning after December 31, 1975.”
 
-Section 703(c)(5) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 220 and 408 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 95–600, title VII, §703(c)(5), Nov. 6, 1978, 92 Stat. 2939, provided that: “The amendments made by this subsection \[amending this section and sections 220 and 408 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1501(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1501(d) of Pub. L. 94–455, set out as an Effective Date note under section 62 of this title.
 
-Section 1503(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XV, §1503(b), Oct. 4, 1976, 90 Stat. 1738, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 Amendment by section 1901(a)(32) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
 #### Effective Date
 
-Section 2002(i)(1) of Pub. L. 93–406 provided that: “The amendments made by subsections (a), (b), and (c) \[of section 2002 of Pub. L. 93–406, enacting this section and sections 408 and 409 of this title and amending section 62 of this title\] apply to taxable years beginning after December 31, 1974.”
+Pub. L. 93–406, title II, §2002(i)(1), Sept. 2, 1974, 88 Stat. 971, provided that: “The amendments made by subsections (a), (b), and (c) \[of section 2002 of Pub. L. 93–406, enacting this section and sections 408 and 409 of this title and amending section 62 of this title\] apply to taxable years beginning after December 31, 1974.”
 
 #### Contributions for Taxable Years Ending Before May 29, 2006
 
@@ -938,7 +932,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rules for Allowable Deductions for First Taxable Year Beginning in 1978
 
-Section 157(b)(4)(B) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, but for this subparagraph, an amount would be allowable as a deduction by reason of section 219(c)(5) or 220(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before January 1, 1978, such amount shall be allowable only for the taxpayer's first taxable year beginning in 1978.”
+Pub. L. 95–600, title I, §157(b)(4)(B), Nov. 6, 1978, 92 Stat. 2805, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, but for this subparagraph, an amount would be allowable as a deduction by reason of section 219(c)(5) or 220(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before January 1, 1978, such amount shall be allowable only for the taxpayer's first taxable year beginning in 1978.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
 

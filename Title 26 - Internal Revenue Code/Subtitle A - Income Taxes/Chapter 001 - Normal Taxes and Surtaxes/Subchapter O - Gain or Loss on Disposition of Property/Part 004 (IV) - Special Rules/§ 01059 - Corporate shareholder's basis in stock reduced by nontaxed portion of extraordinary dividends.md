@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (5) Dividend announcement date
 
-&emsp;The term “dividend announcement date” means, with respect to any dividend, the dateon which the corporation declares, announces, or agrees to the amount or payment of such dividend, whichever is the earliest.
+&emsp;The term “dividend announcement date” means, with respect to any dividend, the date on which the corporation declares, announces, or agrees to the amount or payment of such dividend, whichever is the earliest.
 
 #### (6) Exception where stock held during entire existence of corporation
 
@@ -354,7 +354,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1011(d) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1011(d), Aug. 5, 1997, 111 Stat. 913, provided that:
 
 “(1)
 
@@ -376,7 +376,7 @@ Amendment by section 1013(b) of Pub. L. 105–34 applicable to distributions and
 
 #### Effective Date of 1989 Amendment
 
-Section 7206(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7206(b), Dec. 19, 1989, 103 Stat. 2337, provided that:
 
 “(1)
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 614(f) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §614(f), Oct. 22, 1986, 100 Stat. 2254, provided that:
 
 “(1)
 
@@ -408,7 +408,7 @@ Redemptions.—Section 1059(e)(1) of the Internal Revenue Code of 1986 (as added
 
 #### Effective Date
 
-Section 53(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1804(b)(2), Oct. 22, 1986, 100 Stat. 2095, 2798, provided that:
+Pub. L. 98–369, div. A, title I, §53(e), July 18, 1984, 98 Stat. 568, as amended by Pub. L. 99–514, §2, title XVIII, §1804(b)(2), Oct. 22, 1986, 100 Stat. 2095, 2798, provided that:
 
 “(1)
 

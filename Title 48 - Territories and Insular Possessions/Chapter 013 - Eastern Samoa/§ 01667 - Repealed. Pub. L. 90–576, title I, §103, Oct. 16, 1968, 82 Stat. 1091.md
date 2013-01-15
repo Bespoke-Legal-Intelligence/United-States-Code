@@ -4,5 +4,5 @@ Section, Pub. L. 87–688, §2, Sept. 25, 1962, 76 Stat. 586, extended to Americ
 
 #### Effective Date of Repeal
 
-Section 103 of Pub. L. 90–576 provided that repeal of this section is effective July 1, 1969.
+Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, provided that the repeal of this section is effective July 1, 1969.
 

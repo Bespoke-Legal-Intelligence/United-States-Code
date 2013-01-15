@@ -36,7 +36,7 @@
 
 (b) The limitations of subsection (a) do not include the following:
 
-&emsp;(1) An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forces may be on active duty who are excluded under this paragraph.
+&emsp;(1) An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forcesmay be on active duty who are excluded under this paragraph.
 
 &emsp;(2) The number of officers required to serve in joint duty assignments as authorized by the Secretary of Defense under section 526(b) for each military service.
 
@@ -64,7 +64,7 @@
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
-(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a jointduty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
+(g)(1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
 (2) Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.
 
@@ -172,9 +172,17 @@ Subsec. (b)(4). Pub. L. 101–510, §405(a), added par. (4).
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title V, §502(a)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2012.”
+Pub. L. 112–81, div. A, title V, §502(a)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made byparagraph (1) \[amending this section\] shall take effect on January 1, 2012.”
 
-Pub. L. 112–81, div. A, title V, §502(b)(3), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendments made by this subsection \[amending this section and section 526 of this title\] shall take effect on October 1, 2013.”
+Pub. L. 112–81, div. A, title V, §502(b)(3), Dec. 31, 2011, 125 Stat. 1387, as amended by Pub. L. 112–239, div. A, title V, §501(c), Jan. 2, 2013, 126 Stat. 1714, provided that:
+
+“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and section 526 of this title\] shall take effect on October 1, 2013.
+
+“(B)
+
+Marine corps officers.—The amendments made by paragraphs (1)(A)(iv) \[amending section 526 of this title\] and (2)(D) \[amending this section\] shall take effect on October 1, 2012.”
 
 Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(2) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
@@ -202,7 +210,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 #### Savings Provision
 
-Section 511(b) of Pub. L. 100–180 provided that: “An officer of the Armed Forces on active duty holding an appointment in the grade of lieutenant general or vice admiral or general or admiral on September 30, 1987, shall not have that appointment terminated by reason of the numerical limitations determined under section 525(b) of title 10, United States Code. In the case of an officer of the Marine Corps serving in the grade of general by reason of an appointment authorized by section 511(3) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3869) \[see below\], that appointment shall not be terminated except as provided in section 601 of title 10, United States Code.”
+Pub. L. 100–180, div. A, title V, §511(b), Dec. 4, 1987, 101 Stat. 1088, provided that: “An officer of the Armed Forces on active duty holding an appointment in the grade of lieutenant general or vice admiral or general or admiral on September 30, 1987, shall not have that appointment terminated by reason of the numerical limitations determined under section 525(b) of title 10, United States Code. In the case of an officer of the Marine Corps serving in the grade of general by reason of an appointment authorized by section 511(3) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3869) \[see below\], that appointment shall not be terminated except as provided in section 601 of title 10, United States Code.”
 
 #### Transfer of Functions
 
@@ -230,7 +238,7 @@ Pub. L. 103–337, div. A, title IV, §405(d), Oct. 5, 1994, 108 Stat. 2745, dir
 
 #### Temporary Exclusion of Superintendent of Naval Academy From Counting Toward Number of Senior Admirals Authorized To Be on Active Duty
 
-Section 406 of Pub. L. 103–337 provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act \[Oct. 5, 1994\], while so serving, shall not be counted for purposes of the limitations contained in \[former\] section 525(b)(2) of title 10, United States Code.”
+Pub. L. 103–337, div. A, title IV, §406, Oct. 5, 1994, 108 Stat. 2746, provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act \[Oct. 5, 1994\], while so serving, shall not be counted for purposes of the limitations contained in \[former\] section 525(b)(2) of title 10, United States Code.”
 
 #### Temporary Increase in Number of General and Flag Officers Authorized To Be on Active Duty
 

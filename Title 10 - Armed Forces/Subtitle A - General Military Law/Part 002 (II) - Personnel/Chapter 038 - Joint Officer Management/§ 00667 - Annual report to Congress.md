@@ -32,7 +32,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;&emsp;(C) the number of times in which action was taken without exercise of the waiver authority compared with the number of times waiver authority was exercised (in the case of each waiver authority under this chapter or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments).
 
-&emsp;(8) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation and policy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
+&emsp;(8) The number of officers in the grade of captain (or in the case of the Navy, lieutenant) and above certified at each level of joint qualification as established in regulation andpolicy by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Such numbers shall be reported by service and grade of the officer.
 
 &emsp;(9) With regard to the principal courses of instruction for Joint Professional Military Education Level II, the number of officers graduating from each of the following:
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub
 
 #### Effective Date of 1987 Amendment
 
-Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
+Pub. L. 100–180, div. A, title XIII, §1304(b), Dec. 4, 1987, 101 Stat. 1173, provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
 
 #### Additional Information To Be Included in Five Annual Joint Officer Policy Reports After November 30, 1993
 

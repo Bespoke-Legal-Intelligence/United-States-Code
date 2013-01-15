@@ -6,7 +6,7 @@ The Statistics Commissioner,<sup>1</sup> shall establish procedures, in accordan
 
 #### (b) Report on condition and progress of education
 
-Not later than June 1, 2003, and each June 1 thereafter, the Statistics Commissioner,<sup>1</sup> shallsubmit to the President and the appropriate congressional committees a statistical report on the condition and progress of education in the United States.
+Not later than June 1, 2003, and each June 1 thereafter, the Statistics Commissioner,<sup>1</sup> shall submit to the President and the appropriate congressional committees a statistical report on the condition and progress of education in the United States.
 
 #### (c) Statistical reports
 

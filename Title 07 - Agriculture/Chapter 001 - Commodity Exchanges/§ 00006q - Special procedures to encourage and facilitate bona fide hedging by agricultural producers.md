@@ -14,7 +14,7 @@ The Commission shall consider issuing rules or orders which—
 
 #### (b) Report
 
-Within 1 year after December 21, 2000, the Commission shall submit to the Committee on Agriculture of the House of Representatives andthe Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the steps it has taken to implement this section and on the activities of contract markets pursuant to this section.
+Within 1 year after December 21, 2000, the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the steps it has taken to implement this section and on the activities of contract markets pursuant to this section.
 
 (Sept. 21, 1922, ch. 369, §4q, formerly §4p, as added Pub. L. 106–554, §1(a)(5) \[title I, §121\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404; renumbered §4q, Pub. L. 110–234, title XIII, §13105(d), May 22, 2008, 122 Stat. 1434, and Pub. L. 110–246, §4(a), title XIII, §13105(d), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §721(e)(3), July 21, 2010, 124 Stat. 1671.)
 
@@ -22,7 +22,7 @@ Within 1 year after December 21, 2000, the Commission shall submit to the Commit
 
 Pub. L. 110–234 and Pub. L. 110–246 both renumbered this section as section 4q of act Sept. 21, 1922. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.
 
-Section was formerly classified to section 6<i>o</i>–1 of this title.
+Section was formerly classified to section 6o–1 of this title.
 
 #### Amendments
 

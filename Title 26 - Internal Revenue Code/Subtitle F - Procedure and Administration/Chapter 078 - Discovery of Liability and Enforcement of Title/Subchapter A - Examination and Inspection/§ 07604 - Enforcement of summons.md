@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of district court
 
-If any person is summoned under the internal revenue laws to appear, to testify, or to producebooks, papers, records, or other data, the United States district court for the district in which such person resides or is found shall have jurisdiction by appropriate process to compel such attendance, testimony, or production of books, papers, records, or other data.
+If any person is summoned under the internal revenue laws to appear, to testify, or to produce books, papers, records, or other data, the United States district court for the district in which such person resides or is found shall have jurisdiction by appropriate process to compel such attendance, testimony, or production of books, papers, records, or other data.
 
 #### (b) Enforcement
 

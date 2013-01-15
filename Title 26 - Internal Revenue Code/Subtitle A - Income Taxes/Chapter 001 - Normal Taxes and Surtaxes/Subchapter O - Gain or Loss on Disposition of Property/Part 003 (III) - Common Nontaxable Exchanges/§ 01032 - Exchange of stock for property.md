@@ -22,5 +22,5 @@ Pub. L. 106–554, §1(a)(7) \[title IV, §401(j)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1984 Amendment
 
-Section 57(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options acquired or lapsed after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §57(b), July 18, 1984, 1984, 98 Stat. 574, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to options acquired or lapsed after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 

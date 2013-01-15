@@ -4,11 +4,29 @@
 
 (b) Any person eligible for a payment under subsection (a) of this section may elect to apply such payment to a down payment on, and other incidental expenses pursuant to, the purchase of a decent, safe, and sanitary replacement dwelling. Any such person may, at the discretion of the head of the displacing agency, be eligible under this subsection for the maximum payment allowed under subsection (a) of this section, except that, in the case of a displaced homeowner who has owned and occupied the displacement dwelling for at least 90 days but not more than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling, such payment shall not exceed the payment such person would otherwise have received under section 4623(a) of this title had the person owned and occupied the displacement dwelling 180 days immediately prior to the initiation of such negotiations.
 
-(Pub. L. 91–646, title II, §204, Jan. 2, 1971, 84 Stat. 1897; Pub. L. 100–17, title IV, §407, Apr. 2, 1987, 101 Stat. 251.)
+(Pub. L. 91–646, title II, §204, Jan. 2, 1971, 84 Stat. 1897; Pub. L. 100–17, title IV, §407, Apr. 2, 1987, 101 Stat. 251; Pub. L. 112–141, div. A, title I, §1521(c), July 6, 2012, 126 Stat. 578.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–141, div. A, title I, §1521(c), (g), July 6, 2012, 126 Stat. 578, 579, provided that, effective 2 years after the date of enactment of Pub. L. 112–141, this section is amended as follows:</i>
+
+<i>(1) in the second sentence of subsection (a), by striking “$5,250” and inserting “$7,200, as adjusted by regulation, in accordance with section 4633(d) of this title”; and</i>
+
+<i>(2) in the second sentence of subsection (b), by striking “, except” and all that follows through the end of the subsection and inserting a period.</i>
+
+<i>See 2012 Amendment notes below.</i>
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1521(c)(1), in second sentence, substituted “$7,200, as adjusted by regulation, in accordance with section 4633(d) of this title” for “$5,250”.
+
+Subsec. (b). Pub. L. 112–141, §1521(c)(2), substituted period at end of second sentence for “, except that, in the case of a displaced homeowner who has owned and occupied the displacement dwelling for at least 90 days but not more than 180 days immediately prior to the initiation of negotiations for the acquisition of such dwelling, such payment shall not exceed the payment such person would otherwise have received under section 4623(a) of this title had the person owned and occupied the displacement dwelling 180 days immediately prior to the initiation of such negotiations.”
+
 <b>1987</b>—Pub. L. 100–17 amended section generally, revising and restating as subsecs. (a) and (b) provisions formerly contained in introductory provisions and in pars. (1) and (2).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective 2 years after the date of enactment of Pub. L. 112–141, see section 1521(g) of Pub. L. 112–141, set out as a note under section 308 of Title 23, Highways.
 
 #### Effective Date of 1987 Amendment
 

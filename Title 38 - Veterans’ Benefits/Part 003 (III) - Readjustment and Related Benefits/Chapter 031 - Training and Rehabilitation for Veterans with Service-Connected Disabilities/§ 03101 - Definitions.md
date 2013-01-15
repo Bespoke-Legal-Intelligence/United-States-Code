@@ -52,7 +52,7 @@ Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)�
 
 #### Effective Date of 1996 Amendment
 
-Section 101(j) of Pub. L. 104–275 provided that:
+Pub. L. 104–275, title I, §101(j), Oct. 9, 1996, 110 Stat. 3325, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
 

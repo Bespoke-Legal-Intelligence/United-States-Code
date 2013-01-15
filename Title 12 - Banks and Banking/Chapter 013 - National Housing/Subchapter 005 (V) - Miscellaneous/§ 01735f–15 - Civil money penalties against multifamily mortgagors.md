@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) Authority
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, asa condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount of penalty
 
@@ -62,7 +62,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 > &emsp;&emsp;The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this clause is due to events beyond the control of the mortgagor.
 
-&emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information issought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
+&emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information is sought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
 
 &emsp;&emsp;(xii) Failure to make promptly all payments due under the note and mortgage, including mortgage insurance premiums, tax and insurance escrow payments, and payments to the reserve for replacements when there is adequate project income available to make such payments.
 
@@ -86,7 +86,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(A) shall provide for the Secretary or other department official (such as the Assistant Secretary for Housing) to make the determination to impose a penalty;
 
-&emsp;&emsp;(B) shall provide for the imposition of a penalty only after the mortgagor, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property has been given an opportunity for a hearing on the record; and
+&emsp;&emsp;(B) shall provide for the imposition of a penalty only after the mortgagor, generalpartner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property has been given an opportunity for a hearing on the record; and
 
 &emsp;&emsp;(C) may provide for review by the Secretary of any determination or order, or interlocutory ruling, arising from a hearing.
 
@@ -184,7 +184,7 @@ Subsec. (k). Pub. L. 105–65, §561(a)(7), added subsec. (k).
 
 #### Effective Date of 1997 Amendment
 
-Section 561(c) of Pub. L. 105–65 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to—
+Pub. L. 105–65, title V, §561(c), Oct. 27, 1997, 111 Stat. 1416, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to—
 
 &emsp;“(1) violations that occur on or after the effective date of the final regulations implementing the amendments made by this section; and
 
@@ -192,11 +192,11 @@ Section 561(c) of Pub. L. 105–65 provided that: “The amendments made by subs
 
 #### Effective Date
 
-Section 108(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
+Pub. L. 101–235, title I, §108(b), Dec. 15, 1989, 103 Stat. 2007, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
 
 #### Implementation
 
-Section 561(b) of Pub. L. 105–65 provided that:
+Pub. L. 105–65, title V, §561(b), Oct. 27, 1997, 111 Stat. 1416, provided that:
 
 “(1)
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) knowingly use any official grade designation or official mark on any container of grain by means of a tag, label, or otherwise, unless the grain in such container was officially inspected on the basis of an official sample taken while the grain was being loaded into or was in such container or officially weighed, respectively, and the grain was found to qualify for such designation or mark;
 
-&emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been establishedwith respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
+&emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been established with respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
 
 &emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
 
@@ -92,7 +92,7 @@
 
 (5) In implementing paragraph (1)(C), the Secretary shall report any prohibitions to other appropriate public health agencies.
 
-(Aug. 11, 1916, ch. 313, pt. B, §13, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, §15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, §303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§7, 12(<i>l</i>), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §107, Nov. 9, 2000, 114 Stat. 2060.)
+(Aug. 11, 1916, ch. 313, pt. B, §13, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, §15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, §303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§7, 12(l), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §107, Nov. 9, 2000, 114 Stat. 2060.)
 
 #### Amendments
 
@@ -100,13 +100,13 @@
 
 <b>1994</b>—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-<b>1993</b>—Pub. L. 103–156, §12(<i>l</i>), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(l), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section,which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 103–156, §12(<i>l</i>)(1), substituted “the representative of the Administrator” for “his representative”.
+Subsec. (a)(2). Pub. L. 103–156, §12(l)(1), substituted “the representative of the Administrator” for “his representative”.
 
-Subsec. (a)(7), (8). Pub. L. 103–156, §12(<i>l</i>)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
+Subsec. (a)(7), (8). Pub. L. 103–156, §12(l)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
 
-Subsec. (a)(9). Pub. L. 103–156, §12(<i>l</i>)(3), substituted “the person” for “he”.
+Subsec. (a)(9). Pub. L. 103–156, §12(l)(3), substituted “the person” for “he”.
 
 Subsec. (a)(11). Pub. L. 103–156, §7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
 
@@ -144,7 +144,7 @@ Subsec. (b)(2). Pub. L. 94–582, §15(b), substituted “inspection or weighing
 
 #### Effective Date of 1986 Amendment
 
-Section 303(b) of Pub. L. 99–641 provided that: “The amendments made by this section \[amending this section\] shall become effective on May 1, 1987.”
+Pub. L. 99–641, title III, §303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section \[amending this section\] shall become effective on May 1, 1987.”
 
 #### Effective Date of 1977 Amendment
 

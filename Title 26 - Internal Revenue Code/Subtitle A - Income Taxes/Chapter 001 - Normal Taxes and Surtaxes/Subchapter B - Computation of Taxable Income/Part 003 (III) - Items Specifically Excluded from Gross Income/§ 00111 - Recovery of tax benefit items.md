@@ -36,7 +36,7 @@ In applying subsection (a) for the purpose of determining the accumulated earnin
 
 &emsp;(2) where any excluded amount under subsection (a) was not allowable as a deduction for the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the same taxable year under section 531 or section 541, then such excluded amount shall be allowable if it did not result in a reduction of the tax under section 531 or the tax under section 541.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 33; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §2(c), Dec. 24, 1980, 94 Stat.3396; Pub. L. 98–369, div. A, title I, §171(a), July 18, 1984, 98 Stat. 698; Pub. L. 99–514, title XVIII, §1812(a)(1), (2), Oct. 22, 1986, 100 Stat. 2833.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 33; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §2(c), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 98–369, div. A, title I, §171(a), July 18, 1984, 98 Stat. 698; Pub. L. 99–514, title XVIII, §1812(a)(1), (2), Oct. 22, 1986, 100 Stat. 2833.)
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Section 171(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts recovered after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §171(c), July 18, 1984, 98 Stat. 699, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts recovered after December 31, 1983, in taxable years ending after such date.”
 
 #### Effective Date of 1980 Amendment
 

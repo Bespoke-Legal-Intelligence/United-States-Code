@@ -4,7 +4,7 @@ For the purposes of this Act—
 
 (a) A commodity shall be considered storable upon determination by the Secretary that, in normal trade practice, it is stored for substantial periods of time and that it can be stored under the price-support program without excessive loss through deterioration or spoilage or without excessive cost for storage for such periods as will permit its disposition without substantial impairment of the effectiveness of the price-support program.
 
-(b) A “cooperator” with respect to any basic agricultural commodity shall be a producer on whose farm the acreage planted to the commodity does not exceed the farm acreage allotment for the commodity under subchapter II of chapter 35 of this title, or in the case of price support for corn or wheat to a producer outside the commercial corn-producing or wheat-producing area, a producer who complies with conditions of eligibility prescribed by the Secretary: <i>Provided</i>, That for upland cotton a cooperator shall be a producer on whose farm the acreage planted to such cotton does not exceed the cooperator percentage, which shall be in the case of the 1966 crop, 87.5 per centum of such farm acreage allotment and, in the case of each of the 1967 through 1970 crops, such percentage, not less than 87.5 or more than 100 per centum, of such farm acreage allotment as the Secretary may specify for such crop, except that in the case of small farms (i.e. farms on which the acreage allotment is 10 acres or less, or on which the projected farm yield times the acreage allotment is 3,600 pounds or less, and the acreage allotment has not been reduced under section 1344(m) of this title) the acreage of cotton on the farm shall not be required to be reduced below the farm acreage allotment: <i>And provided</i>, That for the 1971 through 1977 crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title: <i>Provided further</i>, That for the 1976 through 1981 crops of rice, a cooperator shall be a person who produces rice on a farm for which a farm acreage allotment has been established or to which a producer acreage allotment has been allocated and, if a set-aside is in effect, who has set aside any acreage required under section 1441(g) of this title: <i>Provided further</i>, That for the 1978 through 1981 crops of upland cotton, a cooperator shall be a producer on a farm who has set aside the acreage required under section 1444(f) of this title. For the purpose of this subsection, a producer shall not bedeemed to have exceeded his farm acreage allotment unless such producer knowingly exceeded such allotment.
+(b) A “cooperator” with respect to any basic agricultural commodity shall be a producer on whose farm the acreage planted to the commodity does not exceed the farm acreage allotment for the commodity under subchapter II of chapter 35 of this title, or in the case of price support for corn or wheat to a producer outside the commercial corn-producing or wheat-producing area, a producer who complies with conditions of eligibility prescribed by the Secretary: <i>Provided</i>, That for upland cotton a cooperator shall be a producer on whose farm the acreage planted to such cotton does not exceed the cooperator percentage, which shall be in the case of the 1966 crop, 87.5 per centum of such farm acreage allotment and, in the case of each of the 1967 through 1970 crops, such percentage, not less than 87.5 or more than 100 per centum, of such farm acreage allotment as the Secretary may specify for such crop, except that in the case of small farms (i.e. farms on which the acreage allotment is 10 acres or less, or on which the projected farm yield times the acreage allotment is 3,600 pounds or less, and the acreage allotment has not been reduced under section 1344(m) of this title) the acreage of cotton on the farm shall not be required to be reduced below the farm acreage allotment: <i>And provided</i>, That for the 1971 through 1977 crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title: <i>Provided further</i>, That for the 1976 through 1981 crops of rice, a cooperator shall be a person who produces rice on a farm for which a farm acreage allotment has been established or to which a producer acreage allotment has been allocated and, if a set-aside is in effect, who has set aside any acreage required under section 1441(g) of this title: <i>Provided further</i>, That for the 1978 through 1981 crops of upland cotton, a cooperator shall be a producer on a farm who has set aside the acreage required under section 1444(f) of this title. For the purpose of this subsection, a producer shall not be deemed to have exceeded his farm acreage allotment unless such producer knowingly exceeded such allotment.
 
 (c) A “basic agricultural commodity” shall mean corn, cotton, rice, and wheat, respectively.
 
@@ -14,7 +14,7 @@ For the purposes of this Act—
 
 (f) “Total supply” of any nonbasic agricultural commodity for any marketing year shall be the carry-over at the beginning of such marketing year, plus the estimated production of the commodity in the United States during the calendar year in which such marketing year begins and the estimated imports of the commodity into the United States during such marketing year.
 
-(g) “Carry-over” of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop or production of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
+(g) “Carry-over” of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop orproduction of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
 
 (h) “Normal supply” of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
@@ -28,7 +28,7 @@ For the purposes of this Act—
 
 (3) Notwithstanding any other provision of law, this subsection shall be effective only for the 1991 through 1995 crops of wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice.
 
-(<i>l</i>) “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+(l) “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
 (Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
 
@@ -52,7 +52,7 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb.
 
 “(2) References made to the terms ‘price support’, ‘price support operations’, and ‘price support program’ in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, and rice under this Act.”
 
-Subsecs. (<i>l</i>), (m). Pub. L. 101–624, §1131(b), added subsec. (<i>l</i>) and struck out former subsecs. (<i>l</i>) and (m). See 1977 Amendment note below.
+Subsecs. (l), (m). Pub. L. 101–624, §1131(b), added subsec. (l) and struck out former subsecs. (l) and (m). See 1977 Amendment note below.
 
 <b>1985</b>—Subsec. (k). Pub. L. 99–198 temporarily amended subsec. (k) generally, designating provisions before the semicolon as par. (1) and substituting “loan and purchase level” for “level of loans and purchases”, and designating provisions after the semicolon as par. (2). See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -70,7 +70,7 @@ Subsec. (m). Pub. L. 94–214, §304, temporarily added subsec. (m). See Effecti
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k) and (<i>l</i>). See Effective and Termination Dates of 1970 Amendment note below.
+Subsecs. (k), (l). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k) and (l). See Effective and Termination Dates of 1970 Amendment note below.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–559 provided for a one year extension, substituting “1967 through 1970” for “1967, 1968, and 1969”.
 
@@ -88,27 +88,27 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 1018 of Pub. L. 99–198 provided that the amendment made by that section is effective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459, provided that the amendment made by section 1018 is effective only for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 1104 of Pub. L. 97–98 provided that the amendment made by that section is effective only for 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1104 is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Sections 407, 604(b), and 705 of Pub. L. 95–113 provided that the amendments made by those sections are effective for 1978 through 1981 crops.
+Pub. L. 95–113, title IV, §407, title VI, §604(b), title VII, §705, Sept. 29, 1977, 91 Stat. 927, 939, 944, provided that the provisions amended by sections 407, 604(b), and 705 were effective for the 1978 through 1981 crops.
 
 #### Effective and Termination Dates of 1976 Amendment
 
-Section 304 of Pub. L. 94–214 provided that the amendment made by that section is effective only with respect to 1976 and 1977 crops of rice.
+Pub. L. 94–214, title III, §304, Feb. 16, 1976, 90 Stat. 188, provided that the amendment made by section 304 is effective only with respect to the 1976 and 1977 crops of rice.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Sections 408 and 607 of Pub. L. 91–524, as amended by section 1(15), (22) of Pub. L. 93–86, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §408, title VI, §607, Nov. 30, 1970, 84 Stat. 1367, 1378, as amended by Pub. L. 93–86, §1(15), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 408 and 607 are effective only with respect to the 1971 through 1977 crops of the commodity.
 
 #### Effective and Termination Dates of 1965 Amendment
 
-Section 402(b) of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only for 1966 through 1970 crops.
+Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 402(b) is effective only for the 1966 through 1970 crops.
 
 #### Savings Provision
 

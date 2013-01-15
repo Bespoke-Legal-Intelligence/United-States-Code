@@ -26,7 +26,7 @@ No accrued benefit of a participant or beneficiary may be lower immediately afte
 
 (3) A multiemployer plan shall not be liable to the corporation as provided in paragraph (1) in the case of a transfer from the multiemployer plan to a single-employer plan of liabilities which accrued under a single-employer plan which merged with the multiemployer plan, if, the value of liabilities transferred to the single-employer plan does not exceed the value of the liabilities for benefits which accrued before the merger, and the value of the assets transferred to the single-employer plan is substantially equal to the value of the assets which would have been in the single-employer plan if the employer had maintained and funded it as a separate plan under which no benefits accrued after the date of the merger.
 
-(4) The corporation may make equitable arrangements with multiemployer plans which areliable under this subsection for satisfaction of their liability.
+(4) The corporation may make equitable arrangements with multiemployer plans which are liable under this subsection for satisfaction of their liability.
 
 #### (d) Guarantee of benefits under single-employer plan
 

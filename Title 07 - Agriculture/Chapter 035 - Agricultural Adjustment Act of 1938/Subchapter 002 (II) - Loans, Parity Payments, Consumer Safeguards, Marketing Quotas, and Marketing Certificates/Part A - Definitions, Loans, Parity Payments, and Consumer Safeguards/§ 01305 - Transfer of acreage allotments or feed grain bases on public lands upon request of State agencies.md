@@ -10,15 +10,21 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–86 struck out provision that term “acreage allotments” as used in this section includes the domestic allotment for wheat.
+<b>1973</b>—Pub. L. 93–86 amended Pub. L. 91–524. See 1970 Amendment notes below.
 
-<b>1970</b>—Pub. L. 91–524 temporarily inserted reference to the Agricultural Act of 1949, as amended, and provided that “acreage allotments” includes farm base acreage allotments for upland cotton and domestic allotment for wheat. See Effective and Termination Dates of 1970 Amendment note below.
+<b>1970</b>—Pub. L. 91–524, §606, temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the farm base acreage allotments for upland cotton.” See Effective and Termination Dates of 1970 Amendment note below.
+
+Pub. L. 91–524, §405(2), which temporarily inserted at end “The term ‘acreage allotments’ as used in this section includes the domestic allotment for wheat.”, was repealed by Pub. L. 93–86.
+
+Pub. L. 91–524, §405(a), formerly §405, as renumbered and amended by Pub. L. 93–86, temporarily inserted “or the Agricultural Act of 1949, as amended,” after “title 16,”. See Effective and Termination Dates of 1970 Amendment note below.
 
 #### Effective Date of 1973 Amendment
 
-Section 1(12) of Pub. L. 93–86 provided that the amendment made by that section is effective with 1974 crop.
+Pub. L. 93–86, §1(12)(a), Aug. 10, 1978, 87 Stat. 229, provided that the repeal of section 405(2) of Pub. L. 91–524 is effective with the 1974 crop.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Sections 405(a) and 606 of Pub. L. 91–524, as amended by section 1(12), (22) of Pub. L. 93–86, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
+Pub. L. 91–524, title IV, §405(a), formerly §405, Nov. 30, 1970, 84 Stat. 1366, as renumbered and amended by Pub. L. 93–86, §1(12)(a), Aug. 10, 1973, 87 Stat. 229, provided that the amendment made by section 405(a) of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops of wheat.
+
+Pub. L. 91–524, title VI, §606, Nov. 30, 1970, 84 Stat. 1378, as amended by Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 606 of Pub. L. 91–524 is effective only with respect to the 1971 through 1977 crops.
 

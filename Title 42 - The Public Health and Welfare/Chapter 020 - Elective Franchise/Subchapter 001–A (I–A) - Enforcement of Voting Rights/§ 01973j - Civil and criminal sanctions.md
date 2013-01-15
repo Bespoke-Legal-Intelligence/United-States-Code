@@ -2,7 +2,7 @@
 
 #### (a) Depriving or attempting to deprive persons of secured rights
 
-Whoever shall deprive or attempt to deprive any person of any right secured by section 1973, 1973a, 1973b, 1973c, or 1973h of this title or shall violate section 1973i(a) of this title, shall be fined not more than $5,000, or imprisoned not more than five years, or both.
+Whoever shall deprive or attempt to deprive any person of any right secured by section 1973, 1973a, 1973b, 1973c, or 1973h of this title or shall violate section 1973i(a) of this title, shall befined not more than $5,000, or imprisoned not more than five years, or both.
 
 #### (b) Destroying, defacing, mutilating, or altering ballots or official voting records
 

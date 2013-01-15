@@ -10,7 +10,7 @@ In the case of any individual—
 
 &emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup>2</sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
-> the Secretary shall make payments in accordance with subsection (b) of this section, for andon behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+> the Secretary shall make payments in accordance with subsection (b) of this section, for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
 
 #### (b) Manner of payments
 
@@ -136,7 +136,7 @@ Section 298b–7(c) of this title, referred to in subsec. (f), was repealed by P
 
 #### Prior Provisions
 
-A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, title VII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
+A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, titleVII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
 
 A prior section 846 of act July 1, 1944, was classified to section 297k of this title and was repealed by Pub. L. 97–35.
 

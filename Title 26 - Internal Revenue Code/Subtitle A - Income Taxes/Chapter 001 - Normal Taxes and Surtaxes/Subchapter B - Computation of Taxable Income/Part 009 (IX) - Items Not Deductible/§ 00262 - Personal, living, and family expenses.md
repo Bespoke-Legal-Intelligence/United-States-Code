@@ -16,5 +16,5 @@ For purposes of subsection (a), in the case of an individual, any charge (includ
 
 #### Effective Date of 1988 Amendment
 
-Section 5073(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–647, title V, §5073(b), Nov. 10, 1988, 102 Stat. 3682, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 

@@ -8,7 +8,7 @@
 
 #### Effective Date; Special Rules
 
-Section 2 of Pub. L. 101–580 provided that:
+Pub. L. 101–580, §2, Nov. 15, 1990, 104 Stat. 2863, provided that:
 
 “(a)
 

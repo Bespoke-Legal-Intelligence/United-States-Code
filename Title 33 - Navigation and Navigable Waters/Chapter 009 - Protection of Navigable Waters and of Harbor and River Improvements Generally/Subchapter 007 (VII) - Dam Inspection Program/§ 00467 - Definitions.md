@@ -106,11 +106,11 @@ Pub. L. 107–310, §1(a), Dec. 2, 2002, 116 Stat. 2450, provided that: “This 
 
 #### Short Title of 1986 Amendment
 
-Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
+Pub. L. 99–662, title XII, §1206, Nov. 17, 1986, 100 Stat. 4264, provided that: “This title \[enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 92–367, as added by Pub. L. 104–303, title II, §215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Dam Safety Program Act’.”
+Pub. L. 92–367, §1, as added by Pub. L. 104–303, title II, §215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Dam Safety Program Act’.”
 
 #### Transfer of Functions
 
@@ -120,9 +120,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Congressional Statement of Purpose; National Dam Safety Program
 
-Section 215(a) of Pub. L. 104–303 provided that: “The purpose of this section \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
+Pub. L. 104–303, title II, §215(a), Oct. 12, 1996, 110 Stat. 3685, provided that: “The purpose of this section \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
 
 #### Effect on Other Dam Safety Programs
 
-Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+Pub. L. 104–303, title II, §215(b), Oct. 12, 1996, 110 Stat. 3685, provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
 

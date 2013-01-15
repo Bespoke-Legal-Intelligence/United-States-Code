@@ -10,7 +10,7 @@ Any person who violates the provisions of section 9035 shall be fined not more t
 
 &emsp;(A) to defray qualified campaign expenses, or
 
-&emsp;(B) to repay loans the proceeds of which were used, or otherwise to restore funds (otherthan contributions to defray qualified campaign expenses which were received and expended) which were used, to defray qualified campaign expenses.
+&emsp;(B) to repay loans the proceeds of which were used, or otherwise to restore funds (other than contributions to defray qualified campaign expenses which were received and expended) which were used, to defray qualified campaign expenses.
 
 (2) Any person who violates the provisions of paragraph (1) shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
 

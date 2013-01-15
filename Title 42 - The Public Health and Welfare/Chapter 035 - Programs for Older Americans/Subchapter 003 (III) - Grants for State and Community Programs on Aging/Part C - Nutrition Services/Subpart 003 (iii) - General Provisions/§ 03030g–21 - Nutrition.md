@@ -28,7 +28,7 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(E) provides that meals, other than in-home meals, are provided in settings in as close proximity to the majority of eligible older individuals’ residences as feasible,
 
-&emsp;&emsp;(F) comply <sup>2</sup> with applicable provisions of State or local laws regarding the safe and sanitary handling of food, equipment, and supplies used in the storage, preparation, service, and delivery of meals to an older individual,
+&emsp;&emsp;(F) comply <sup>2</sup> with applicable provisions of State or local laws regarding the safe andsanitary handling of food, equipment, and supplies used in the storage, preparation, service, and delivery of meals to an older individual,
 
 &emsp;&emsp;(G) ensures that meal providers solicit the advice and expertise of—
 

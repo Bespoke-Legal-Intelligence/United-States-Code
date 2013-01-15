@@ -22,7 +22,7 @@ Together with specific policy recommendations provided under subsections (b) and
 
 #### (e) Monitoring
 
-The Commission shall, on an ongoing basis, monitor facts and circumstances of violations ofreligious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
+The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
 
 (Pub. L. 105–292, title II, §202, Oct. 27, 1998, 112 Stat. 2798; Pub. L. 106–55, §1(b)(1), Aug. 17, 1999, 113 Stat. 401.)
 

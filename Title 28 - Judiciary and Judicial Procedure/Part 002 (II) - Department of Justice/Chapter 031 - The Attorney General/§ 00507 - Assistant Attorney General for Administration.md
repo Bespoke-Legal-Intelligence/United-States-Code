@@ -6,7 +6,7 @@
 
 (c) Notwithstanding the provisions of section 901 of title 31, United States Code, the Assistant Attorney General for Administration shall be the Chief Financial Officer of the Department of Justice.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §111\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, §1000(a)(1)\[title I, §111\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
 
 Historical and Revision Notes
 

@@ -26,7 +26,7 @@ Place of Imprisonment.—The Bureau of Prisons shall designate the place of the 
 
 (c)
 
-Delivery of Order of Commitment.—When a prisoner, pursuant to a court order, is placed in the custody of a person in charge of a penal or correctional facility, a copy of theorder shall be delivered to such person as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall be returned to the court that issued it.
+Delivery of Order of Commitment.—When a prisoner, pursuant to a court order, is placed in the custody of a person in charge of a penal or correctional facility, a copy of the order shall be delivered to such person as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall be returned to the court that issued it.
 
 (d)
 
@@ -124,7 +124,7 @@ In general.—In order to ensure a minimum standard of health and habitability, 
 
 &emsp;(2)
 
-Definition.—In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+Definition.—In this subsection, the term “community confinement” has the meaning given that term in the application notes undersection 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693.)
 

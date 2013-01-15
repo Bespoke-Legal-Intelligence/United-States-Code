@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -48,7 +48,7 @@
 
 (d) The personnel management system shall provide—
 
-&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirementsof section 4302 of title 5 and in addition includes—
+&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirements of section 4302 of title 5 and in addition includes—
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 
@@ -208,7 +208,7 @@ In the section, the words “officers and” are added for consistency in the re
 
 In subsection (a), the words “not later than October 1, 1980” and 31:52–5(b) are omitted as executed. The word “maintain” is substituted for “establish by regulation” to omit executed words. The words “for the General Accounting Office (hereinafter referred to as the ‘personnel system’) which shall meet the requirements of subsections (b) through (h)”, and “or any amendment” are omitted as surplus. The words “about the system” are substituted for “thereto” for clarity.
 
-In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of theUnited States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
+In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of the United States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
 
 In subsection (c)(2), the words “payable . . . under the General Schedule” are omitted as surplus. In clause (4), the words “not more than 100 positions” are substituted for “up to one hundred employees” for consistency. The words “payable . . . grade . . . of the General Schedule” are omitted as surplus. In clause (5), the words “the principles of” are omitted as surplus.
 
@@ -344,7 +344,7 @@ Lump-Sum Payment.—Not later than 6 months after the date of the enactment of t
 
 Conditions.—Nothing in subsection (c) or (d) shall be considered to permit or require—
 
-&emsp;“(1) the payment of any rate (or portion of the lump-sum amount as calculated under subsection (d)(1) based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or that applied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
+&emsp;“(1) the payment of any rate (or portion of the lump-sum amount as calculated under subsection (d)(1) based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or thatapplied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
 
 &emsp;“(2) the payment of any rate or amount based on the pay increase for 2006 or 2007 (as the case may be), if—
 
@@ -388,7 +388,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 “(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 undersection 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 

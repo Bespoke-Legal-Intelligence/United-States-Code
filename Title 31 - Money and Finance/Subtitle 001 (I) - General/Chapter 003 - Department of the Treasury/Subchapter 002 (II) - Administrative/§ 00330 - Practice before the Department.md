@@ -82,5 +82,5 @@ Pub. L. 108–357, title VIII, §822(a)(2), Oct. 22, 2004, 118 Stat. 1587, provi
 
 #### Effective Date of 1984 Amendment
 
-Section 156(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §156(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 18, 1984\].”
 

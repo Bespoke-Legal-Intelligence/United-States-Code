@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;(2) The term “off-site incineration” means any incineration of radioactive materials at a facility that is located off the site where such materials were generated.
 
-&emsp;(3) The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;(3) The term “State” means each of the several States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
 
 (Aug. 1, 1946, ch. 724, title I, §276, as added Pub. L. 102–486, title XXIX, §2901(a), Oct. 24, 1992, 106 Stat. 3122.)
 

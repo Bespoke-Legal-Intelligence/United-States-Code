@@ -14,13 +14,13 @@ In the case of any facility for which a grant, loan, or loan guarantee has been 
 
 Sections 291p to 291z were omitted in the general amendment of this subchapter by Pub. L. 88–443, Aug. 18, 1964, 78 Stat. 447.
 
-Section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to appropriations to States for carrying out purposes of section 291<i>o</i>(a) of this title.
+Section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to appropriations to States for carrying out purposes of section 291o(a) of this title.
 
-Section 291q, act July 1, 1944, ch. 373, title VI, §647, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to State application for funds for carrying out purposes of section 291<i>o</i>(a) of this title.
+Section 291q, act July 1, 1944, ch. 373, title VI, §647, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to State application for funds for carrying out purposes of section 291o(a) of this title.
 
 Section 291r, act July 1, 1944, ch. 373, title VI, §648, as added July 12, 1954, ch. 471, §2, 68 Stat. 462, related to allotments to States of appropriations made pursuant to section 291p of this title.
 
-Section 291s, act July 1, 1944, ch. 373, title VI, §651, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 2, 1956, ch. 871, title IV, §402, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(b), 72 Stat. 616; Oct. 5, 1961, Pub. L. 87–395, §3(a), 75 Stat. 825, related to appropriations for assistance to States in carrying out purposes of section 291<i>o</i>(b) of this title.
+Section 291s, act July 1, 1944, ch. 373, title VI, §651, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 2, 1956, ch. 871, title IV, §402, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(b), 72 Stat. 616; Oct. 5, 1961, Pub. L. 87–395, §3(a), 75 Stat. 825, related to appropriations for assistance to States in carrying out purposes of section 291o(b) of this title.
 
 Section 291t, act July 1, 1944, ch. 373, title VI, 652, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Oct. 5, 1961, Pub. L. 87–395, §3(b), 75 Stat. 825; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to allotments to States of sums appropriated under section 291s of this title.
 

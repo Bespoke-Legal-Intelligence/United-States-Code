@@ -166,7 +166,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&nbsp;For purposes of this clause, the term “objective criteria or conditions” means criteria or conditions that are neutral and that do not favor one enterprise or industry over another.
 
-&emsp;&emsp;&emsp;(iii) Where there are reasons to believe that a subsidy may be specific as a matterof fact, the subsidy is specific if one or more of the following factors exist:
+&emsp;&emsp;&emsp;(iii) Where there are reasons to believe that a subsidy may be specific as a matter of fact, the subsidy is specific if one or more of the following factors exist:
 
 &emsp;&emsp;&emsp;&emsp;(I) The actual recipients of the subsidy, whether considered on an enterprise or industry basis, are limited in number.
 
@@ -230,7 +230,7 @@ For purposes of this subtitle—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A subsidy provided, pursuant to a general framework of regional development,to a person located in a disadvantaged region within a country shall be treated as noncountervailable, if it is not specific (within the meaning of paragraph (5A)) within eligible regions and if the following conditions are met:
+&emsp;&emsp;&emsp;A subsidy provided, pursuant to a general framework of regional development, to a person located in a disadvantaged region within a country shall be treated as noncountervailable, if it is not specific (within the meaning of paragraph (5A)) within eligible regions and if the following conditions are met:
 
 &emsp;&emsp;&emsp;&emsp;(I) Each region identified as disadvantaged within the territory of a country is a clearly designated, contiguous geographical area with a definable economic and administrative identity.
 
@@ -298,7 +298,7 @@ For purposes of this subtitle—
 
 #### (F) Certain subsidies on agricultural products
 
-&emsp;&emsp;Domestic support measures that are provided with respect to products listed inAnnex 1 to the Agreement on Agriculture, and that the administering authority determines conform fully to the provisions of Annex 2 to that Agreement, shall be treated as noncountervailable. Upon request by the administering authority, the Trade Representative shall provide advice regarding the interpretation and application of Annex 2.
+&emsp;&emsp;Domestic support measures that are provided with respect to products listed in Annex 1 to the Agreement on Agriculture, and that the administering authority determines conform fully to the provisions of Annex 2 to that Agreement, shall be treated as noncountervailable. Upon request by the administering authority, the Trade Representative shall provide advice regarding the interpretation and application of Annex 2.
 
 #### (G) Provisional application
 
@@ -562,7 +562,7 @@ For purposes of this subtitle—
 
 #### (15) Ordinary course of trade
 
-&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of thesubject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
+&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of the subject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
 
 &emsp;&emsp;(A) Sales disregarded under section 1677b(b)(1) of this title.
 
@@ -650,7 +650,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for the use of, a department or agency of the United States Government (including merchandiseprovided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
+&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for the use of, a department or agency of the United States Government (including merchandise provided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
 
 #### (B) Exceptions
 
@@ -718,11 +718,11 @@ For purposes of this subtitle—
 
 #### (26) Section 1303
 
-&emsp;The terms “section 1303” and “1303” mean section 1303 of this title as in effect on the daybefore the effective date of title II of the Uruguay Round Agreements Act.
+&emsp;The terms “section 1303” and “1303” mean section 1303 of this title as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act.
 
 #### (27) Suspension agreement
 
-&emsp;The term “suspension agreement” means an agreement described in section 1671c(b), 1671c(c), 1673c(b), 1673c(c), or 1673c(<i>l</i>) of this title.
+&emsp;The term “suspension agreement” means an agreement described in section 1671c(b), 1671c(c), 1673c(b), 1673c(c), or 1673c(l) of this title.
 
 #### (28) Exporter or producer
 
@@ -822,9 +822,13 @@ For purposes of this subtitle—
 
 (June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
 
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
-The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 2701 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -866,7 +870,7 @@ Par. (7)(C)(iii)(IV). Pub. L. 103–465, §233(a)(3)(A)(ii), substituted “dome
 
 Par. (7)(C)(iii)(V). Pub. L. 103–465, §222(b)(1), added subcl. (V).
 
-Par. (7)(C)(iv). Pub. L. 103–465, §222(b)(2), added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for importswhich are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
+Par. (7)(C)(iv). Pub. L. 103–465, §222(b)(2), added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for imports which are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
 
 Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of cl. (v). Prior to amendment, text read as follows: “The Commission is not required to apply clause (iv) or subparagraph (F)(iv) in any case in which the Commission determines that imports of the merchandise subject to investigation are negligible and have no discernable adverse impact on the domestic industry. For purposes of making such determination, the Commission shall evaluate all relevant economic factors regarding the imports, including, but not limited to, whether—
 
@@ -994,7 +998,7 @@ Par. (7)(F)(iv). Pub. L. 100–418, §1330(a), added cl. (iv).
 
 Par. (9)(G). Pub. L. 100–418, §1326(c), added subpar. (G).
 
-Par. (18). Pub. L. 100–449 added par. (18) relating to United States-Canada Agreement.
+Par. (18). Pub. L. 100–449 temporarily added par. (18) relating to United States-Canada Agreement. See Effective and Termination Dates of 1988 Amendment note below.
 
 Pub. L. 100–418, §1316(b), added par. (18) relating to nonmarket economy country.
 
@@ -1030,13 +1034,13 @@ Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North
 
 #### Effective Date of 1990 Amendment
 
-Section 224(c) of Pub. L. 101–382 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations (including investigations regarding products of Canadian origin) initiated under section 702 or 732 of the Tariff Act of 1930 \[19 U.S.C. 1671a, 1673a\] on or after the date of the enactment of this Act \[Aug. 20, 1990\].”
+Pub. L. 101–382, title II, §224(c), Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations (including investigations regarding products of Canadian origin) initiated under section 702 or 732 of the Tariff Act of 1930 \[19 U.S.C. 1671a, 1673a\] on or after the date of the enactment of this Act \[Aug. 20, 1990\].”
 
-#### Effective and Termination Dates of 1988 Amendments
+#### Effective and Termination Dates of 1988 Amendment
 
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as a note under section 58c of this title.
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Amendment by sections 1312, 1316(b), 1326(a)–(c), and 1327–1329 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
 
@@ -1056,7 +1060,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
+All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of thistitle, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
 
 #### Uruguay Round Agreements: Entry Into Force
 

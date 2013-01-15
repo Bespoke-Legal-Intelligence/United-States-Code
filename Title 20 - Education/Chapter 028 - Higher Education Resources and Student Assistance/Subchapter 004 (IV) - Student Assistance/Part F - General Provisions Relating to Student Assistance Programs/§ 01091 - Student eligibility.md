@@ -8,7 +8,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c) of this section;
 
-&emsp;(3) not owe a refund on grants previously received at any institution under this subchapter and part C of subchapter I of chapter34 of title 42, or be in default on any loan from a student loan fund at any institution provided for in part D of this subchapter, or a loan made, insured, or guaranteed by the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42 for attendance at any institution;
+&emsp;(3) not owe a refund on grants previously received at any institution under this subchapter and part C of subchapter I of chapter 34 of title 42, or be in default on any loan from a student loan fund at any institution provided for in part D of this subchapter, or a loan made, insured, or guaranteed by the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42 for attendance at any institution;
 
 &emsp;(4) file with the Secretary, as part of the original financial aid application process, a certification, which need not be notarized, but which shall include—
 
@@ -120,7 +120,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 &emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
 
-&emsp;&emsp;&emsp;(ii) pending such verification, the institution may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on the basis of the individual's immigration status, and
+&emsp;&emsp;&emsp;(ii) pending such verification, the institution may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on thebasis of the individual's immigration status, and
 
 &emsp;&emsp;&emsp;(iii) the institution shall not be liable for the consequences of any action, delay, or failure of the Service to conduct such verification.
 
@@ -154,7 +154,7 @@ Notwithstanding subsection (h) <sup>1</sup> of this section, if—
 
 A student shall not be eligible to receive grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for a correspondence course unless such course is part of a program leading to an associate, bachelor or graduate degree.
 
-#### (<i>l</i>) Courses offered through distance education
+#### (l) Courses offered through distance education
 
 #### (1) Relation to correspondence courses
 
@@ -182,15 +182,15 @@ A student shall not be ineligible for assistance under parts B, C, and D of this
 
 To enforce the Selective Service registration provisions of section 462(f) of title 50, Appendix, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
 
-#### (<i>o</i>) Study abroad
+#### (o) Study abroad
 
-Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit or otherwise prohibit access to study abroad programs approved by the home institution at which a student is enrolled. An otherwise eligible student who is engaged in a program of study abroad approved for academic credit by the home institution at which the student is enrolled shall be eligible to receive grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, without regard to whether such study abroad program is required as part of the student's degree program.
+Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit or otherwise prohibit access to study abroad programs approved by the homeinstitution at which a student is enrolled. An otherwise eligible student who is engaged in a program of study abroad approved for academic credit by the home institution at which the student is enrolled shall be eligible to receive grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, without regard to whether such study abroad program is required as part of the student's degree program.
 
 #### (p) Verification of social security number
 
 The Secretary of Education, in cooperation with the Commissioner of the Social Security Administration, shall verify any social security number provided by a student to an eligible institution under subsection (a)(4) of this section and shall enforce the following conditions:
 
-&emsp;(1) Except as provided in paragraphs (2) and (3), an institution shall not deny, reduce, delay, or terminate a student's eligibility forassistance under this part because social security number verification is pending.
+&emsp;(1) Except as provided in paragraphs (2) and (3), an institution shall not deny, reduce, delay, or terminate a student's eligibility for assistance under this part because social security number verification is pending.
 
 &emsp;(2) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, the institution shall deny or terminate the student's eligibility for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 until such time as the student provides documented evidence of a social security number that is determined by the institution to be correct.
 
@@ -307,7 +307,7 @@ Subsection (h) of this section, referred to in subsec. (i), was redesignated sub
 
 A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
 
-Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
+Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for educationprofessions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
 
@@ -337,7 +337,7 @@ Subsec. (j). Pub. L. 110–315, §485(a)(4), struck out subsec. (j). Text read a
 
 &emsp;“(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in any one of the Freely Associated States.”
 
-Subsec. (<i>l</i>). Pub. L. 110–315, §485(a)(5), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to courses offered through telecommunications.
+Subsec. (l). Pub. L. 110–315, §485(a)(5), added subsec. (l) and struck out former subsec. (l) which related to courses offered through telecommunications.
 
 Subsec. (q). Pub. L. 110–315, §485(a)(6), added subsec. (q) and struck out former subsec. (q) which related to verification of income data.
 
@@ -349,15 +349,15 @@ Subsec. (t). Pub. L. 110–315, §485(a)(9), added subsec. (t).
 
 <b>2006</b>—Subsec. (a)(6). Pub. L. 109–171, §8021(a), added par. (6).
 
-Subsec. (<i>l</i>)(1)(A). Pub. L. 109–171, §8020(c)(1), struck out “for a program of study of 1 year or longer” after “recognized certificate” and “unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution” before period at end.
+Subsec. (l)(1)(A). Pub. L. 109–171, §8020(c)(1), struck out “for a program of study of 1 year or longer” after “recognized certificate” and “unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution” before period at end.
 
-Subsec. (<i>l</i>)(1)(B). Pub. L. 109–171, §8020(c)(2), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An institution of higher education referred to in subparagraph (A) is an institution of higher education—
+Subsec. (l)(1)(B). Pub. L. 109–171, §8020(c)(2), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An institution of higher education referred to in subparagraph (A) is an institution of higher education—
 
 &emsp;“(i) that is not an institute or school described in section 2471(4)(C) of this title; and
 
 &emsp;“(ii) for which at least 50 percent of the programs of study offered by the institution lead to the award of a recognized associate, baccalaureate, or graduate degree.”
 
-Subsec. (<i>l</i>)(1)(B)(i). Pub. L. 109–270, which directed substitution of reference to section 2302(C) of this title for reference to section 2471(4)(C) of this title in cl. (i), could not be executed due to general amendment of subpar. (B) by Pub. L. 109–171. See above.
+Subsec. (l)(1)(B)(i). Pub. L. 109–270, which directed substitution of reference to section 2302(C) of this title for reference to section 2471(4)(C) of this title in cl. (i), could not be executed due to general amendment of subpar. (B) by Pub. L. 109–171. See above.
 
 Subsec. (q)(1). Pub. L. 109–171, §8021(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the adjusted gross income, Federal income taxes paid, filing status, and exemptions reported by applicants (including parents) under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.”
 
@@ -375,7 +375,7 @@ Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j
 
 &emsp;“(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
+Subsec. (l)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment,text read as follows: “A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
 
 Subsec. (q). Pub. L. 105–244, §483(e), added subsec. (q).
 
@@ -413,11 +413,11 @@ Pub. L. 103–208, §2(h)(20), inserted “or” after “documentation,” and 
 
 Subsecs. (j) to (m). Pub. L. 103–208, §2(h)(25), redesignated subsecs. (k) to (n) as (j) to (m), respectively. Former subsec. (j) redesignated (i).
 
-Subsec. (n). Pub. L. 103–208, §2(h)(25), redesignated subsec. (<i>o</i>) as (n). Former subsec. (n) redesignated (m).
+Subsec. (n). Pub. L. 103–208, §2(h)(25), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
 Pub. L. 103–208, §2(h)(23), substituted “parts B, C,” for “part B, C,”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 103–208, §2(h)(25), redesignated subsecs. (p) and (q) as (<i>o</i>) and (p), respectively. Former subsec. (<i>o</i>) redesignated (n).
+Subsecs. (o), (p). Pub. L. 103–208, §2(h)(25), redesignated subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
 Subsec. (q). Pub. L. 103–208, §2(h)(25), redesignated subsec. (q) as (p).
 
@@ -441,7 +441,7 @@ Subsec. (h). Pub. L. 102–325, §484(f), amended subsec. (h) generally. Prior t
 
 Subsec. (k). Pub. L. 102–325, §484(h), made technical amendment to directory language of Pub. L. 102–73, §801(a). See 1991 Amendment note below.
 
-Subsecs. (<i>l</i>) to (q). Pub. L. 102–325, §484(g), added subsecs. (<i>l</i>) to (q).
+Subsecs. (l) to (q). Pub. L. 102–325, §484(g), added subsecs. (l) to (q).
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–26, §2(c)(2), inserted before semicolon at end “, and not be enrolled in an elementary or secondary school”.
 
@@ -453,7 +453,7 @@ Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, sub
 
 &emsp;“(2) be counseled prior to admission and be enrolled in and successfully complete the institutionally prescribed program of remedial or developmental education not to exceed one academic year or its equivalent; or
 
-&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject tocriteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
+&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject to criteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
 
 &emsp;“(B) with respect to applicants who are unable to satisfy the institutions’ admissions testing requirements specified in subparagraph (A), be enrolled in and successfully complete an institutionally prescribed program or course of remedial or developmental education not to exceed one academic year or its equivalent.
 
@@ -523,9 +523,9 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 484(a), (b)(1)(B), and (c) to (h) of Pub. L. 102–325 effective July 23, 1992, except that subsec. (m)(1) of this section, relating to proportion of courses permitted to be correspondence courses, as added by such amendment, effective on and after Oct. 1, 1992, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title, and subsec. (n) of this section, relating to eligibility of students with first baccalaureate or professional degree for assistance, as added by such amendment, effective on and after Dec. 1, 1987, see section 484(i) of Pub. L. 102–325, set out below.
+Amendment by section 484(a), (b)(1)(B), and (c) to (h) of Pub. L. 102–325 effective July 23, 1992, except that subsec. (m)(1) of this section, relating to proportion of courses permitted to be correspondence courses, as added by such amendment, effective on and after Oct. 1, 1992, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title, and subsec. (n) of this section, relating to eligibility of students withfirst baccalaureate or professional degree for assistance, as added by such amendment, effective on and after Dec. 1, 1987, see section 484(i) of Pub. L. 102–325, set out below.
 
-Section 484(b)(2) of Pub. L. 102–325 provided that: “The amendments made by paragraph (1)(A) of this subsection \[amending this section\] shall be effective on and after December 1, 1987.”
+Pub. L. 102–325, title IV, §484(b)(2), July 23, 1992, 106 Stat. 615, provided that: “The amendments made by paragraph (1)(A) of this subsection \[amending this section\] shall be effective on and after December 1, 1987.”
 
 Section 484(i) of Pub. L. 102–325, as added by Pub. L. 103–208, §2(k)(8), Dec. 20, 1993, 107 Stat. 2486, provided that: “The amendments made by subsection (g) \[section 484(g) of Pub. L. 102–325\] with respect to the addition of subsection (n) \[adding subsec. (n) of this section\] shall be effective on and after December 1, 1987.”
 
@@ -537,7 +537,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-Section 13 of Pub. L. 100–369 provided that:
+Pub. L. 100–369, §13, July 18, 1988, 102 Stat. 838, provided that:
 
 “(a)
 
@@ -561,7 +561,7 @@ Amendment by Pub. L. 99–603 effective Oct. 1, 1988, with certain exceptions an
 
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Section 407(b) of Pub. L. 99–498 provided that:
+Pub. L. 99–498, title IV, §407(b), Oct. 17, 1986, 100 Stat. 1494, provided that:
 
 “(1) Sections 483(e) and 484(d) of the Act \[20 U.S.C. 1090(e), 1091(d)\] as amended by this section shall apply to student assistance awarded for periods of enrollment beginning on or after July 1, 1987.
 
@@ -581,11 +581,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Satisfactory Progress
 
-Section 1301 of Pub. L. 99–498, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office of Educational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office of Educational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Denial of Student Assistance to Certain Noncitizens
 
-Section 1361 of Pub. L. 99–498 established in Department of Education the Alien Youth Education Opportunity Panel and provided for Panel's composition, duties, reports, administrative and clerical support, compensation and expenses, and access to information, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1361, Oct. 17, 1986, 100 Stat. 1588, established in Department of Education the Alien Youth Education Opportunity Panel and provided for Panel's composition, duties, reports, administrative and clerical support, compensation and expenses, and access to information, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 

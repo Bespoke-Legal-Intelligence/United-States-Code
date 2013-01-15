@@ -82,7 +82,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 96–609 added subsec. (g).
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–39 added subsec. (f).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount upto the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
 
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1990 Amendment
 
-Section 484E(b), (c) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 104–295, §27, Oct. 11, 1996, 110 Stat. 3533, provided that:
+Pub. L. 101–382, title III, §484E(b), (c), Aug. 20, 1990, 104 Stat. 710, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 104–295, §27, Oct. 11, 1996, 110 Stat. 3533, provided that:
 
 “(b)
 
@@ -238,15 +238,15 @@ Amendment by Pub. L. 98–573 applicable with respect to entries made in connect
 
 #### Effective Date of 1980 Amendment
 
-Section 14(b) of Pub. L. 96–467 provided in part that: “The amendment made by paragraph (3) of subsection (a) \[amending this section\] shall apply with respect to entries made under section 466 of the Tariff Act of 1930 \[this section\] on or after January 1, 1980.”
+Pub. L. 96–467, §14(b), Oct. 17, 1980, 94 Stat. 2226, provided in part that: “The amendment made by paragraph (3) of subsection (a) \[amending this section\] shall apply with respect to entries made under section 466 of the Tariff Act of 1930 \[this section\] on or after January 1, 1980.”
 
 #### Effective Date of 1979 Amendment
 
-Section 601(a) of Pub. L. 96–39 provided that the amendment made by that section is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under section 2503(b) of this title on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
+Pub. L. 96–39, title VI, §601(a), July 26, 1979, 93 Stat. 267, provided that the amendment made by section 601(a)(3) is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under section 2503(b) of this title on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
 
 #### Entries Made in Connection With Arrival of Vessels On or After October 1, 1979, and Before December 28, 1980
 
-Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act \[Dec. 28, 1980\], the entry of any article to which section 466(a) of the Tariff Act of 1930 \[subsec. (a) of this section\] applied and—
+Pub. L. 96–609, title I, §115(b), Dec. 28, 1980, 94 Stat. 3558, provided that: “Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act \[Dec. 28, 1980\], the entry of any article to which section 466(a) of the Tariff Act of 1930 \[subsec. (a) of this section\] applied and—
 
 &emsp;“(1) that was made on or after October 1, 1979, and before the date of the enactment of this Act; and
 
@@ -256,7 +256,7 @@ Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 
-Section 2 of Pub. L. 91–654 provided that:
+Pub. L. 91–654, §2, Jan. 5, 1971, 84 Stat. 1945, provided that:
 
 “(a) The amendment made by the first section of this Act \[amending this section\] shall apply with respect to entries made in connection with arrivals of vessels on or after the date of the enactment of this Act \[Jan. 5, 1971\].
 

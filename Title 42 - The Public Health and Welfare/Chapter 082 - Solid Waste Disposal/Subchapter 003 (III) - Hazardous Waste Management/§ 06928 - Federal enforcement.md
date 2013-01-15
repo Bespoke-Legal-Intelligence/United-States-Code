@@ -2,7 +2,7 @@
 
 #### (a) Compliance orders
 
-(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
+(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violatedor is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
 (2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
@@ -14,7 +14,7 @@ Any order issued under this section shall become final unless, no later than thi
 
 #### (c) Violation of compliance orders
 
-If a violator fails to take corrective action within the time specified in a compliance order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order and the Administrator may suspend or revoke any permit issuedto the violator (whether issued by the Administrator or the State).
+If a violator fails to take corrective action within the time specified in a compliance order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order and the Administrator may suspend or revoke any permit issued to the violator (whether issued by the Administrator or the State).
 
 #### (d) Criminal penalties
 
@@ -48,7 +48,7 @@ Any person who—
 
 #### (e) Knowing endangerment
 
-Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
+Any person who knowingly transports, treats, stores, disposes of, or exports any hazardouswaste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
 
 #### (f) Special rules
 

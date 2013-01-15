@@ -8,11 +8,7 @@ The Secretary of Energy shall ensure that, before a document of the Department o
 
 The Secretary may not implement the automatic declassification provisions of Executive Order 12958 if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing restricted data.
 
-#### (c) Restricted data defined
-
-In this section, the term “restricted data” has the meaning provided by section 2014(y) of title 42.
-
-(Pub. L. 107–314, div. D, title XLV, §4521, formerly Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625; renumbered Pub. L. 107–314, div. D, title XLV, §4521, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(11), Nov. 24, 2003, 117 Stat. 1774.)
+(Pub. L. 107–314, div. D, title XLV, §4521, formerly Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625; renumbered Pub. L. 107–314, div. D, title XLV, §4521, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(11), Nov. 24, 2003, 117 Stat. 1774; amended Pub. L. 112–239, div. C, title XXXI, §3131(p), Jan. 2, 2013, 126 Stat. 2183.)
 
 #### References in Text
 
@@ -21,4 +17,8 @@ Executive Order 12958, referred to in subsec. (b), which was formerly set out as
 #### Codification
 
 Section was formerly set out as a note under section 2162 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out subsec. (c), which defined “restricted data”.
 

@@ -10,7 +10,7 @@ Pub. L. 99–159, §1, Nov. 22, 1985, 99 Stat. 887, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 98–377 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Education for Economic Security Act’.”
+Pub. L. 98–377, §1, Aug. 11, 1984, 98 Stat. 1267, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Education for Economic Security Act’.”
 
 Part A of title III of Pub. L. 98–377, as amended, which enacted part A of subchapter III of this chapter, is known as “Partnerships in Education for Mathematics, Science, and Engineering Act”, see note set out under section 3981 of this title.
 

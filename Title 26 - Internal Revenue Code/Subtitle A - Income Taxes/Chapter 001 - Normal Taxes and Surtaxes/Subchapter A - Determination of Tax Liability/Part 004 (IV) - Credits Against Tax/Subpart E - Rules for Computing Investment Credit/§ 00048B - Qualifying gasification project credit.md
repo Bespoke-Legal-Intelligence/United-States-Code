@@ -168,7 +168,7 @@ Amendment by Pub. L. 111–5 applicable to periods after Dec. 31, 2008, under ru
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title I, §112(f), Oct. 3, 2008, 122 Stat. 3824, provided that: “The amendments made by this section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title I, §112(f), Oct. 3, 2008, 122 Stat. 3824, provided that: “The amendments made bythis section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date
 

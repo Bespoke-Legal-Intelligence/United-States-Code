@@ -30,9 +30,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Short Title
 
-Act June 20, 1949, ch. 227, §10, formerly §12, 63 Stat. 212; renumbered §10, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: “This Act \[enacting section 403a et seq. of this title\] may be cited as the ‘Central Intelligence Agency Act of 1949’.”
+Act June 20, 1949, ch. 227, §10, formerly §12, 63 Stat. 213; renumbered §10, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: “This Act \[enacting section 403a et seq. of this title\] may be cited as the ‘Central Intelligence Agency Act of 1949’.”
 
 #### Separability
 
-Act June 20, 1949, §9, formerly §11, 63 Stat. 212; renumbered §9, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: “If any provision of this Act \[enacting sections 403a et seq. of this title\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Act June 20, 1949, §9, formerly §11, 63 Stat. 213; renumbered §9, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337, provided that: “If any provision of this Act \[enacting sections 403a et seq. of this title\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 

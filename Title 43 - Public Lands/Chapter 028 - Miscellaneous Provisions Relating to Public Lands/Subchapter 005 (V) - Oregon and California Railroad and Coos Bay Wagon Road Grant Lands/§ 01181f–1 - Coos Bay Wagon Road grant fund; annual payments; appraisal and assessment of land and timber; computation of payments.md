@@ -10,5 +10,5 @@ Act of February 26, 1919, referred to in text, is act Feb. 26, 1919, ch. 47, 40 
 
 #### Repeals
 
-Section 5 of act May 24, 1939, provided that: “All Acts or parts of Acts inconsistent with this Act \[sections 1181f–1 to 1181f–4 of this title\] are hereby repealed.”
+Act May 24, 1939, ch. 144, §5, 53 Stat. 754, provided that: “All Acts or parts of Acts inconsistent with this Act \[sections 1181f–1 to 1181f–4 of this title\] are hereby repealed.”
 

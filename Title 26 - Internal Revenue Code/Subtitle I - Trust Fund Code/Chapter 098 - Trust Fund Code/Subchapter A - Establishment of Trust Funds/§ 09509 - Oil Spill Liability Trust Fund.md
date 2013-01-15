@@ -36,7 +36,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;&emsp;(C) for the payment of liabilities incurred by the revolving fund established by section 311(k) of the Federal Water Pollution Control Act,
 
-&emsp;&emsp;(D) to carry out subsections (b), (c), (d), (j), and (<i>l</i>) of section 311 of the Federal Water Pollution Control Act with respect to prevention, removal, and enforcement related to oil discharges (as defined in such section),
+&emsp;&emsp;(D) to carry out subsections (b), (c), (d), (j), and (l) of section 311 of the Federal Water Pollution Control Act with respect to prevention, removal, and enforcement related to oil discharges (as defined in such section),
 
 &emsp;&emsp;(E) for the payment of liabilities incurred by the Deepwater Port Liability Fund, and
 
@@ -96,7 +96,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable byreason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
 
 #### (f) References to Oil Pollution Act of 1990
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 8033(c)(1) of Pub. L. 99–509 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 \[now 1986\], as amended by this part).”
+Pub. L. 99–509, title VIII, §8033(c)(1), Oct. 21, 1986, 100 Stat. 1961, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 \[now 1986\], as amended by this part).”
 
 \[For purposes of section 8033(c) of Pub. L. 99–509, set out as notes above and below, the commencement date is Jan. 1, 1990, see section 7505(d)(1) of Pub. L. 101–239, set out as an Effective Date of 1986 Amendment note under section 4611 of this title.\]
 
@@ -186,19 +186,19 @@ Pub. L. 104–66, title I, §1122(a), Dec. 21, 1995, 109 Stat. 724, provided tha
 
 #### Deepwater Port Liability Fund
 
-Section 2003(b) of Pub. L. 101–380 provided that: “Any amounts remaining in the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974 (33 U.S.C. \[former\] 1517(f)) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Deepwater Port Liability Fund.”
+Pub. L. 101–380, title II, §2003(b), Aug. 18, 1990, 104 Stat. 507, provided that: “Any amounts remaining in the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974 (33 U.S.C. \[former\] 1517(f)) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Deepwater Port Liability Fund.”
 
 #### Offshore Oil Pollution Compensation Fund
 
-Section 2004 of Pub. L. 101–380 provided that: “Title III of the Outer Continental Shelf Lands Act Amendments of 1978 (43 U.S.C. 1811–1824) is repealed. Any amounts remaining in the Offshore Oil Pollution Compensation Fund established under section 302 of that title (43 U.S.C. 1812) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Offshore Oil Pollution Compensation Fund.”
+Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507, provided that: “Title III of the Outer Continental Shelf Lands Act Amendments of 1978 (43 U.S.C. 1811–1824) is repealed. Any amounts remaining in the Offshore Oil Pollution Compensation Fund established under section 302 of that title (43 U.S.C. 1812) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Offshore Oil Pollution Compensation Fund.”
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Section 4304 of Pub. L. 101–380 provided that: “Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509).”
+Pub. L. 101–380, title IV, §4304, Aug. 18, 1990, 104 Stat. 540, provided that: “Penalties paid pursuant to section311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509).”
 
 #### Coordination With Superfund Reauthorization
 
-Section 8033(c)(2) of Pub. L. 99–509 provided that: “If the Superfund Amendments and Reauthorization Act of 1986 is enacted—
+Pub. L. 99–509, title VIII, §8033(c)(2), Oct. 21, 1986, 100 Stat. 1961, provided that: “If the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499, see Short Title of 1986 Amendment note set out under section 9601 of Title 42, The Public Health and Welfare\] is enacted—
 
 &emsp;“(A) subsection (a) of this section shall be applied by substituting ‘section 9508’ for ‘section 9506’,
 

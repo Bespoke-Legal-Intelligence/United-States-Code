@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites
 
-(1) The Secretary shall, after adequate notice and an opportunity for a hearing conducted within the affected State, withhold funds from any State which does not use its allotment inaccordance with the requirements of this part or the certification provided under section 300w–4 of this title. The Secretary shall withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
+(1) The Secretary shall, after adequate notice and an opportunity for a hearing conducted within the affected State, withhold funds from any State which does not use its allotment in accordance with the requirements of this part or the certification provided under section 300w–4 of this title. The Secretary shall withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
 (2) The Secretary may not institute proceedings to withhold funds under paragraph (1) unless the Secretary has conducted an investigation concerning whether the State has used its allotment in accordance with the requirements of this part or the certification provided under section 300w–4 of this title. Investigations required by this paragraph shall be conducted within the affected State by qualified investigators.
 
@@ -18,7 +18,7 @@
 
 #### (c) Availability of books, documents, papers, and records
 
-Each State, and each entity which has received funds from an allotment made to a State under this part, shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
+Each State, and each entity which has received funds from an allotment made to a Stateunder this part, shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
 
 #### (d) Information not readily available
 

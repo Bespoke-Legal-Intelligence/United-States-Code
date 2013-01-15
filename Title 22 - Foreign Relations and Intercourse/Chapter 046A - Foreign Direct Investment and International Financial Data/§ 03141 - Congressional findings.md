@@ -26,5 +26,5 @@ Executive Order Numbered 11961, referred to in par. (4), is set out as a note un
 
 #### Short Title
 
-Section 1 of Pub. L. 101–533 provided that: “This Act \[enacting this chapter and section 401 of Title 13, Census, and amending sections 3101 and 3103 to 3105 of this title and section 9 of Title 13\] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”
+Pub. L. 101–533, §1, Nov. 7, 1990, 104 Stat. 2344, provided that: “This Act \[enacting this chapter and section 401 of Title 13, Census, and amending sections 3101 and 3103 to 3105 of this title and section 9 of Title 13\] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”
 

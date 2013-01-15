@@ -71,17 +71,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note set out under section 121 of this title.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–325, title V, §501(a), Dec. 22, 2010, 124 Stat. 3554, struck out item 6697 “Assessable penalties with respect to liability for tax of regulated investment companies”.
 
-Pub. L. 111–312, title III, §§301(a), 304, Dec. 17, 2010, 124 Stat. 3300, 3304, temporarily amended analysis to read as if amendment by Pub. L. 107–16, §542(b)(5)(A), had never been enacted. See 2001 Amendment note below.
+Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(b)(5)(A), had never been enacted. See 2001 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–5, div. B, title III, §3001(a)(13)(B), Feb. 17, 2009, 123 Stat. 465, added item 6720C.
 
@@ -99,7 +93,7 @@ Pub. L. 109–59, title XI, §§11164(b)(4), 11167(c), Aug. 10, 2005, 119 Stat. 
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §§811(b), 815(b)(5)(B), 816(b), 854(c)(2), 859(b)(2), 861(b)(2), 863(c)(2), 884(b)(2), Oct. 22, 2004, 118 Stat. 1577, 1583, 1584, 1616, 1618–1620, 1634, added items 6707A, 6715A, and 6717 to 6720 and substituted “reportable transactions” for “tax shelters” in item 6707 and “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in item 6708.
 
-<b>2001</b>—Pub. L. 107–16, title V, §542(b)(5)(A), title IX, §901, June 7, 2001, 115 Stat. 83, 150, temporarily added item 6716 “Failure to file information with respect to certain transfers at death and gifts”.
+<b>2001</b>—Pub. L. 107–16, title V, §542(b)(5)(A), June 7, 2001, 115 Stat. 83, added item 6716 “Failure to file information with respect to certain transfers at death and gifts”.
 
 <b>1997</b>—Pub. L. 105–34, title II, §211(e)(2)(D), Aug. 5, 1997, 111 Stat. 812, substituted “certain tax-favored” for “individual retirement” in item 6693.
 

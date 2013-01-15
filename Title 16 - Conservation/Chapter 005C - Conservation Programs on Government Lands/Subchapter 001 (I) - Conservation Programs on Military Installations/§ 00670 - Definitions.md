@@ -28,21 +28,31 @@ In this subchapter:
 
 &emsp;The term “United States” means the States, the District of Columbia, and the territories and possessions of the United States.
 
-(Pub. L. 86–797, title I, §100, as added Pub. L. 105–85, div. B, title XXIX, §2911, Nov. 18, 1997, 111 Stat. 2021; amended Pub. L. 112–81, div. A, title III, §312(a)(1), Dec. 31, 2011, 125 Stat. 1351.)
+#### (6) Indian tribe
+
+&emsp;The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(Pub. L. 86–797, title I, §100, as added Pub. L. 105–85, div. B, title XXIX, §2911, Nov. 18, 1997, 111Stat. 2021; amended Pub. L. 112–81, div. A, title III, §312(a)(1), Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title III, §312(b), Jan. 2, 2013, 126 Stat. 1691.)
+
+#### References in Text
+
+The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Par. (6). Pub. L. 112–239 added par. (6).
 
 <b>2011</b>—Pars. (2) to (5). Pub. L. 112–81 added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
 
 #### Short Title of 1997 Amendment
 
-Section 2901 of title XXIX of Pub. L. 105–85 provided that: “This title \[enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670<i>o</i> of this title, repealing section 670a–1 of this title, and enacting provisions set out as notes under this section and section 670a of this title\] may be cited as the ‘Sikes Act Improvement Act of 1997’.”
+Pub. L. 105–85, div. B, title XXIX, §2901, Nov. 18, 1997, 111 Stat. 2016, provided that: “This title \[enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670o of this title, repealing section 670a–1 of this title, and enacting provisions set out as notes under this section and section 670a of this title\] may be cited as the ‘Sikes Act Improvement Act of 1997’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–420, §1, Oct. 5, 1978, 92 Stat. 921, provided: “That this Act \[amending sections 670f and 670<i>o</i> of this title\] may be cited as the ‘Sikes Act Amendments of 1978’.”
+Pub. L. 95–420, §1, Oct. 5, 1978, 92 Stat. 921, provided: “That this Act \[amending sections 670f and 670o of this title\] may be cited as the ‘Sikes Act Amendments of 1978’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 86–797, as added by Pub. L. 105–85, div. B, title XXIX, §2903, Nov. 18, 1997, 111 Stat. 2016,provided that: “This Act \[enacting this chapter\] may be cited as the ‘Sikes Act’.”
+Pub. L. 86–797, §1, as added by Pub. L. 105–85, div. B, title XXIX, §2903, Nov. 18, 1997, 111 Stat. 2016, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Sikes Act’.”
 

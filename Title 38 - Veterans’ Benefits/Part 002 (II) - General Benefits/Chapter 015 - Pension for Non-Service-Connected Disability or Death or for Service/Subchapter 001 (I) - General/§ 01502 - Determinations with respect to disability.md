@@ -18,7 +18,7 @@
 
 (c) For the purposes of this chapter, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L.107–103, title II, §206(a), Dec. 27, 2001, 115 Stat. 990; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §206(a), Dec. 27, 2001, 115 Stat. 990; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
 
 #### Prior Provisions
 
@@ -62,7 +62,7 @@ Pub. L. 107–103, title II, §206(b), Dec. 27, 2001, 115 Stat. 991, provided th
 
 #### Effective Date of 1990 Amendment
 
-Section 8002(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990.”
+Pub. L. 101–508, title VIII, §8002(b), Nov. 5, 1990, 104 Stat. 1388–342, provided that: “The amendment made bysubsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990.”
 
 #### Effective Date of 1976 Amendment
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1967 Amendment
 

@@ -32,9 +32,9 @@ Subsec. (b). Pub. L. 104–227, §101(b), substituted “Treaty and the Protocol
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–227 provided that: “This Act \[enacting sections 2403a and 2413 of this title, amending this section, sections 2402 to 2405, and 2463 of this title, and sections 1901 to 1903, 1905, 1907, and 1908 of Title 33, Navigation and Navigable Waters, and repealing sections 2464 and 2466 of this title\] may be cited as the ‘Antarctic Science, Tourism, and Conservation Act of 1996’.”
+Pub. L. 104–227, §1, Oct. 2, 1996, 110 Stat. 3034, provided that: “This Act \[enacting sections 2403a and 2413 of this title, amending this section, sections 2402 to 2405, and 2463 of this title, and sections 1901 to 1903, 1905, 1907, and 1908 of Title 33, Navigation and Navigable Waters, and repealing sections 2464 and 2466 of this title\] may be cited as the ‘Antarctic Science, Tourism, and Conservation Act of 1996’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–541 provided: “That this Act \[enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting a provision set out as a note under section 1971 of Title 22\] may be cited as the ‘Antarctic Conservation Act of 1978’.”
+Pub. L. 95–541, §1, Oct. 28, 1978, 92 Stat. 2048, provided: “That this Act \[enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting a provision set out as a note under section 1971 of Title 22\] may be cited as the ‘Antarctic Conservation Act of 1978’.”
 

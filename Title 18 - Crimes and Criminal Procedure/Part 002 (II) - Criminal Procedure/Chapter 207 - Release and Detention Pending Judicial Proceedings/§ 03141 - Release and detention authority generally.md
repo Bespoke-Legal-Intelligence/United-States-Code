@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 99–646, §55(a), substituted “under this chapter” for
 
 #### Effective Date of 1986 Amendment
 
-Section 55(j) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–646, §55(j), Nov. 10, 1986, 100 Stat. 3611, provided that: “The amendments made by this section \[amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
 #### Short Title of 2004 Amendment
 
@@ -34,17 +34,17 @@ Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that
 
 #### Short Title of 1984 Amendment
 
-Section 202 of chapter I (§§202–210) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the ‘Bail Reform Act of 1984’.”
+Pub. L. 98–473, title II, §202, Oct. 12, 1984, 98 Stat. 1976, provided that: “This chapter \[chapter I (§§202–210) of title II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28\] may be cited as the ‘Bail Reform Act of 1984’.”
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act \[amending sections 3152 to 3155 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title\] may be cited as the ‘Pretrial Services Act of 1982’.”
+Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act \[amending sections 3152 to 3155 ofthis title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title\] may be cited as the ‘Pretrial Services Act of 1982’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Bail Reform Act of 1966’.”
+Pub. L. 89–465, §1, June 22, 1966, 80 Stat. 214, provided: “That this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Bail Reform Act of 1966’.”
 
 #### Purpose of Bail Reform Act of 1966
 
-Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
+Pub. L. 89–465, §2, June 22, 1966, 80 Stat. 214, provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
 

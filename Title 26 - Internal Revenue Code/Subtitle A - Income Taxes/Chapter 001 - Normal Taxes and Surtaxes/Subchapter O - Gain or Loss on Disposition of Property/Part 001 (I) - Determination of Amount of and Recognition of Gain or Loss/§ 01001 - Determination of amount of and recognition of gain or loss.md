@@ -82,7 +82,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 Amendment by section 231(c)(2) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 231(d) of Pub. L. 91–172, set out as a note under section 217 of this title.
 
-Section 516(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title V, §516(d), Dec. 30, 1969, 83 Stat. 648, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to sales or other dispositions after October 9, 1969.
 

@@ -20,5 +20,5 @@ Section 7, act May 24, 1924, ch. 182, §14, as added Feb. 23, 1931, ch. 276, §7
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

@@ -74,9 +74,9 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 101 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §101, Dec. 23, 1975, 89 Stat. 1013, provided that the amendment made by that section is effective Jan. 1, 1976.
 
-Section 104 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §104, Dec. 23, 1975, 89 Stat. 1016, as amended by Pub. L. 94–432, title I, §101, Sept. 30, 1976, 90 Stat. 1369, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

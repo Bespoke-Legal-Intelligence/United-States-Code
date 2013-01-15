@@ -142,7 +142,7 @@ For purposes of this subchapter:
 
 (30) The term “unfunded accrued liability” means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(31) The term “advance funding actuarial cost method” or “actuarial cost method” means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
+(31) The term “advance funding actuarial cost method” or “actuarial cost method” means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium costmethod, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
 (32) The term “governmental plan” means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term “governmental plan” also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term “governmental plan” includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
@@ -182,7 +182,7 @@ For purposes of this subchapter:
 
 (iii) For purposes of this subparagraph, the term “correction period” means—
 
-&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury of a notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
+&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury ofa notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
 
 &emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not less than 270 days after the determination has become final; or
 
@@ -240,7 +240,7 @@ For purposes of this subchapter:
 
 &emsp;(II) a plan that meets the criteria in clauses (i) and (ii) of subparagraph (A) of this paragraph or that is described in clause (vi) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
-&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
+&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year forwhich the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
 
 &emsp;&emsp;(bb) substantially all of the plan's employer contributions for each of those plan years were made or required to be made by organizations that were exempt from tax under section 501 of title 26, and
 
@@ -348,7 +348,7 @@ Par. (37)(G)(vi). Pub. L. 110–28, §6611(b)(1), substituted “if it is a plan
 
 Par. (37)(G)(vii). Pub. L. 110–28, §6611(a)(1)(C), added cl. (vii).
 
-<b>2006</b>—Par. (2)(A). Pub. L. 109–280, §905(a), inserted at end “A distribution from a plan, fund, or program shallnot be treated as made in a form other than retirement income or as a distribution prior to termination of covered employment solely because such distribution is made to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.”
+<b>2006</b>—Par. (2)(A). Pub. L. 109–280, §905(a), inserted at end “A distribution from a plan, fund, or program shall not be treated as made in a form other than retirement income or as a distribution prior to termination of covered employment solely because such distribution is made to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.”
 
 Par. (2)(B). Pub. L. 109–280, §1104(c), inserted at end “An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements.”
 
@@ -408,7 +408,7 @@ Pub. L. 99–272, which, eff. Jan. 1, 1986, directed the substitution of “mean
 
 Par. (14). Pub. L. 96–364, §305, inserted provisions respecting a trust described in section 501(c)(22) of title 26.
 
-Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining “church plan” as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining “church plan” as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
+Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining “church plan” as a plan established andmaintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining “church plan” as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, §302(a), substantially revised definition of term “multiemployer plan” by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
 
@@ -432,17 +432,17 @@ Amendment by section 1104(c) of Pub. L. 109–280 effective Aug. 17, 2006, and a
 
 #### Effective Date of 1997 Amendment
 
-Section 1(c) of Pub. L. 105–72 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 8, 1997, except that the requirement of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[section 1002(38)(B)(ii) of this title\] (as amended by this Act) for filing with the Secretary of Labor of a copy of a registration form which has been filed with a State before the date of the enactment of this Act \[Nov. 10, 1997\], or is to be filed with a State during the 1-year period beginning with such date, shall be treated as satisfied upon the filing of such a copy with the Secretary at any time during such 1-year period. This section shall supersede section 308(b) of the National Securities Markets Improvement Act of 1996 \[Pub. L. 104–290, amending this section and enacting provisions set out as an Effective and Termination Dates of 1996 Amendment note below\] (and the amendment made thereby).”
+Pub. L. 105–72, §1(c), Nov. 10, 1997, 111 Stat. 1457, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 8, 1997, except that the requirement of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[section 1002(38)(B)(ii) of this title\] (as amended by this Act) for filing with the Secretary of Labor of a copy of a registration form which has been filed with a State before the date of the enactment of this Act \[Nov. 10, 1997\], or is to be filed with a State during the 1-year period beginning with such date, shall be treated as satisfied upon the filing of such a copy with the Secretary at any time during such 1-year period. This section shall supersede section 308(b) of the National Securities Markets Improvement Act of 1996 \[Pub. L. 104–290, amending this section and enacting provisions set out as an Effective and Termination Dates of 1996 Amendment note below\] (and the amendment made thereby).”
 
 #### Effective and Termination Dates of 1996 Amendment
 
 Amendment by Pub. L. 104–290 effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, as amended, set out as a note under section 80b–2 of Title 15, Commerce and Trade.
 
-Section 308(b)(2) of Pub. L. 104–290 which provided that the amendment made by paragraph (1), amending this section, ceased to be effective 2 years after Oct. 11, 1996, was superseded by section 1(c) of Pub. L. 105–72, set out as an Effective Date of 1997 Amendment note above.
+Pub. L. 104–290, title III, §308(b)(2), Oct. 11, 1996, 110 Stat. 3440, which provided that the amendment made by paragraph (1), amending this section, ceased to be effective 2 years after Oct. 11, 1996, was superseded by section 1(c) of Pub. L. 105–72, set out as an Effective Date of 1997 Amendment note above.
 
 #### Effective Date of 1991 Amendment
 
-Section 3 of Pub. L. 102–89 provided that: “The amendments made by section 2 \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
+Pub. L. 102–89, §3, Aug. 14, 1991, 105 Stat. 446, provided that: “The amendments made by section 2 \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -454,19 +454,19 @@ Amendment by section 7871(b)(2) of Pub. L. 101–239 effective as if included in
 
 Amendment by section 7881(m)(2)(D) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26.
 
-Section 7891(f) of Pub. L. 101–239 provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 1003, 1025, 1051 to 1056, 1060, 1061, 1081 to 1084, 1085a, 1101, 1103, 1107, 1108, 1132, 1134, 1137, 1161, 1166, 1167, 1201 to 1203, 1222, 1301, 1302, 1307, 1309, 1321 to 1322a, 1342 to 1345, 1362, 1368, 1384, 1385, 1390, 1391, 1393, 1403, 1421, 1423, 1425, and 1453 of this title, and section 4980B of Title 26\] shall take effect as if included in the provision of the Reform Act \[probably means Tax Reform Act of 1986, Pub. L. 99–514\] to which such amendment relates.”
+Pub. L. 101–239, title VII, §7891(f), Dec. 19, 1989, 103 Stat. 2447, provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 1003, 1025, 1051 to 1056, 1060, 1061, 1081 to 1084, 1085a, 1101, 1103, 1107, 1108, 1132, 1134, 1137, 1161, 1166, 1167, 1201 to 1203, 1222, 1301, 1302, 1307, 1309, 1321 to 1322a, 1342 to 1345, 1362, 1368, 1384, 1385, 1390, 1391, 1393, 1403, 1421, 1423, 1425, and 1453 of this title, and section 4980B of Title 26\] shall take effect as if included in the provision of the Reform Act \[probably means Tax Reform Act of 1986, Pub. L. 99–514\] to which such amendment relates.”
 
-Section 7893(h) of Pub. L. 101–239 provided that: “Any amendment made by this section \[amending this section and sections 1322a, 1341, 1342, 1347, 1366, 1367, and 1398 of this title\] shall take effect as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\] to which such amendment relates.”
+Pub. L. 101–239, title VII, §7893(h), Dec. 19, 1989, 103 Stat. 2448, provided that: “Any amendment made by this section \[amending this section and sections 1322a, 1341, 1342, 1347, 1366, 1367, and 1398 of this title\] shall take effect as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\] to which such amendment relates.”
 
-Section 7894(a)(1)(B) of Pub. L. 101–239 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in section 407 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
+Pub. L. 101–239, title VII, §7894(a)(1)(B), Dec. 19, 1989, 103 Stat. 2448, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in section 407 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
 
-Section 7894(a)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 136 of Public Law 100–202.”
+Pub. L. 101–239, title VII, §7894(a)(2)(B), Dec. 19, 1989, 103 Stat. 2448, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 136 of Public Law 100–202.”
 
-Section 7894(i) of Pub. L. 101–239 provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344, 1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates.”
+Pub. L. 101–239, title VII, §7894(i), Dec. 19, 1989, 103 Stat. 2452, provided that: “Except as otherwise provided in this section, any amendment made by this section\[amending this section and sections 1021, 1024 to 1026, 1028, 1031, 1051 to 1056, 1060, 1061, 1081, 1082, 1084, 1086, 1103, 1107, 1108, 1113, 1114, 1132, 1144, 1321 to 1322a, 1344, 1368, and 1461 of this title\] shall take effect as if originally included in the provision of the Employee Retirement Income Security Act of 1974 \[Pub. L. 93–406\] to which such amendment relates.”
 
 #### Effective Date of 1987 Amendment
 
-Section 136(b) of Pub. L. 100–202 provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after the date of the enactment of this joint resolution \[Dec. 22, 1987\].”
+Pub. L. 100–202, §136(b), Dec. 22, 1987, 101 Stat. 1329–442, provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after the date of the enactment of this joint resolution \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendments
 
@@ -478,7 +478,7 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 #### Effective Date of 1983 Amendment
 
-Section 302(c) of Pub. L. 97–473 provided that: “The amendments made by this section \[amending this section and section 1144 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\].”
+Pub. L. 97–473, title III, §302(c), Jan. 14, 1983, 96 Stat. 2612, provided that: “The amendments made by this section \[amending this section and section 1144 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 14, 1983\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -488,11 +488,11 @@ Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 4
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry outamendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 #### Availability of Documents Via Filing Depository
 
-Section 1(b) of Pub. L. 105–72 provided that: “A fiduciary shall be treated as meeting the requirements of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(38)(B)(ii)\] (as amended by subsection (a)) relating to provision to the Secretary of Labor of a copy of the form referred to therein, if a copy of such form (or substantially similar information) is available to the Secretary of Labor from a centralized electronic or other record-keeping database.”
+Pub. L. 105–72, §1(b), Nov. 10, 1997, 111 Stat. 1457, provided that: “A fiduciary shall be treated as meeting the requirements of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(38)(B)(ii)\] (as amended by subsection (a)) relating to provision to the Secretary of Labor of a copy of the form referred to therein, if a copy of such form (or substantially similar information) is available to the Secretary of Labor from a centralized electronic or other record-keeping database.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

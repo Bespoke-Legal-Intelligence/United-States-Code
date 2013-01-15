@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the executive branch a corporation to be known as the “MillenniumChallenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
+There is established in the executive branch a corporation to be known as the “Millennium Challenge Corporation” that shall be responsible for carrying out this chapter. The Corporation shall be a government corporation, as defined in section 103 of title 5.
 
 #### (b) Chief Executive Officer
 
@@ -74,7 +74,7 @@ There is established in the executive branch a corporation to be known as the �
 
 #### (B) Other members
 
-&emsp;&emsp;Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.
+&emsp;&emsp;Each member of the Board described in paragraph (3)(B) shall be appointed for aterm of 3 years and may be reappointed for a term of an additional 2 years.
 
 #### (C) Vacancies
 

@@ -18,7 +18,7 @@ The park shall consist of the historic districts established under this subchapt
 
 #### (c) Boundaries; map
 
-The Secretary shall prepare a map of the lands included within the park. Such map shall be on file and available for public inspection in the offices of the National Park Service at the park and at the Department of the Interior in the District of Columbia. The Secretary may from time to time make minor revisions in the boundary of the park in accordance with section 460<i>l</i>–9(c) of this title.
+The Secretary shall prepare a map of the lands included within the park. Such map shall be on file and available for public inspection in the offices of the National Park Service at the park and at the Department of the Interior in the District of Columbia. The Secretary may from time to time make minor revisions in the boundary of the park in accordance with section 460l–9(c) of this title.
 
 (Pub. L. 100–479, §2, Oct. 7, 1988, 102 Stat. 2324; Pub. L. 101–399, §1(a), Sept. 28, 1990, 104 Stat. 860.)
 

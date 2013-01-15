@@ -14,7 +14,7 @@ Fellowships under this chapter shall be provided in order to allow the recipient
 
 #### (d) Individuals who may receive a fellowship
 
-To receive a fellowship under this chapter, an individual must be a United States citizen who is an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in international affairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of the principal language of the country in which he or she would serve.
+To receive a fellowship under this chapter, an individual must be a United States citizen who is an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in internationalaffairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of the principal language of the country in which he or she would serve.
 
 #### (e) Women and members of minority groups
 
@@ -34,9 +34,9 @@ Subsec. (d). Pub. L. 101–454, §9(b)(3), substituted “international affairs,
 
 #### Short Title of 1990 Amendment
 
-Section 9(a) of Pub. L. 101–454 provided that: “This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
+Pub. L. 101–454, §9(a), Oct. 24, 1990, 104 Stat. 1065, provided that: “This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
 
 #### Short Title
 
-Section 1001 of title X of Pub. L. 99–399 provided that: “This title \[enacting this chapter\] may be cited as the ‘Fascell Fellowship Act’.”
+Pub. L. 99–399, title X, §1001, Aug. 27, 1986, 100 Stat. 893, provided that: “This title \[enacting this chapter\] may be cited as the ‘Fascell Fellowship Act’.”
 

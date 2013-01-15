@@ -1,6 +1,6 @@
 ### §3112. Disabled veterans; noncompetitive appointment
 
-Under such regulations as the Office of Personnel Management shall prescribe, an agencymay make a noncompetitive appointment leading to conversion to career or career-conditional employment of a disabled veteran who has a compensable service-connected disability of 30 percent or more.
+Under such regulations as the Office of Personnel Management shall prescribe, an agency may make a noncompetitive appointment leading to conversion to career or career-conditional employment of a disabled veteran who has a compensable service-connected disability of 30 percent or more.
 
 (Added Pub. L. 95–454, title III, §307(b)(1), Oct. 13, 1978, 92 Stat. 1147.)
 

@@ -14,11 +14,17 @@ General.—In this subchapter—
 
 &emsp;&emsp;(ii) was determined, on or after October 1, 1988, and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, under this subchapter by the Secretary of Transportation to be eligible to receive subsidized small community air service under section 41736(a);
 
-&emsp;&emsp;(B) is located not less than 90 miles from the nearest medium or large hub airport; and
+&emsp;&emsp;(B) had an average of 10 enplanements per service day or more, as determined by the Secretary, during the most recent fiscal year beginning after September 30, 2012;
 
-&emsp;&emsp;(C) had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary.
+&emsp;&emsp;(C) had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and
 
-&emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligibleplace of a higher level or quality than basic essential air service described in section 41732 of this title.
+&emsp;&emsp;(D) is a community that, at any time during the period between September 30, 2010, and September 30, 2011, inclusive—
+
+&emsp;&emsp;&emsp;(i) received essential air service for which compensation was provided to an air carrier under this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) received a 90-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
+
+&emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in section 41732 of this title.
 
 (b)
 
@@ -26,13 +32,21 @@ Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary
 
 (c)
 
-Exceptions for Locations in Alaska.—Subsections (a)(1)(B) and (a)(1)(C) shall not apply with respect to a location in the State of Alaska.
+Exception for Locations in Alaska and Hawaii.—Subparagraphs (B), (C), and (D) of subsection (a)(1) shall not apply with respect to locations in the State of Alaska or the State of Hawaii.
 
 (d)
 
-Waivers.—The Secretary may waive subsection (a)(1)(B) with respect to a location if the Secretary determines that the geographic characteristics of the location result in undue difficulty in accessing the nearest medium or large hub airport.
+Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport.—Subsection (a)(1)(B) shall not apply with respect to locations that are more than 175 driving miles from the nearest large or medium hub airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 112–27, §6, Aug. 5, 2011, 125 Stat. 271.)
+(e)
+
+Waivers.—For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary's satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
+
+(f)
+
+Definition.—For purposes of subsection (a)(1)(B), the term “enplanements” means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 112–27, §6, Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–95, title IV, §§421, 422, Feb. 14, 2012, 126 Stat. 96, 97.)
 
 Historical and Revision Notes
 
@@ -82,13 +96,23 @@ In subsection (a)(3)–(5), the word “boardings” is substituted for “enpla
 
 #### References in Text
 
-Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i)(I), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
 
-The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (a)(1)(A)(ii), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–27, §6(a), redesignated cls. (i) to (iii) of subpar. (A) as subcls. (I) to (III), respectively, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “(A)” before “(i)(I)” in subcl. (I) of cl. (i), substituted “was determined” for “determined”, “Secretary of Transportation” for “Secretary”, and semicolon for period at end in cl. (ii) of subpar. (A), and added subpars. (B) and (C).
+<b>2012</b>—Subsec. (a)(1)(B). Pub. L. 112–95, §421(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “is located not less than 90 miles from the nearest medium or large hub airport; and”.
+
+Subsec. (a)(1)(D). Pub. L. 112–95, §422, added subpar. (D).
+
+Subsec. (c). Pub. L. 112–95, §421(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Subsections (a)(1)(B) and (a)(1)(C) shall not apply with respect to a location in the State of Alaska.”
+
+Subsec. (d). Pub. L. 112–95, §421(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary may waive subsection (a)(1)(B) with respect to a location if the Secretary determines that the geographic characteristics of the location result in undue difficulty in accessing the nearest medium or large hub airport.”
+
+Subsecs. (e), (f). Pub. L. 112–95, §421(4), added subsecs. (e) and (f).
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–27, §6(a), redesignated cls. (i) to (iii) of subpar. (A) as subcls. (I) to (III), respectively, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “(A)” before “(i)(I)” in subcl. (I) of cl. (i), substituted “was determined” for“determined”, “Secretary of Transportation” for “Secretary”, and semicolon for period at end in cl. (ii) of subpar. (A), and added subpars. (B) and (C).
 
 Subsec. (b). Pub. L. 112–27, §6(b), substituted “Secretary” for “Secretary of Transportation” and “on any basis” for “on the basis of a passenger subsidy at that place or on another basis”.
 
@@ -120,11 +144,11 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100, provided that:
 
 “(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 “(b)
 
@@ -144,7 +168,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 “(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on January 31, 2012.”
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2015.”
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: “The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date.”\]
 
@@ -180,7 +204,9 @@ Statutory Construction.—Nothing in this section expands the authority or juris
 
 Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: “The Secretary \[of Transportation\] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles.”
 
-Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: “Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport.”
+Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: “Hereafter, notwithstanding 49U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport.”
+
+\[Pub. L. 112–95, title IV, §426(c), Feb. 14, 2012, 126 Stat. 99, provided that: “Subject to the availability of funds, the Secretary may waive, on a case-by-case basis, the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022) \[set out above\]. A waiver issued under this subsection shall remain in effect for a limited period of time, as determined by the Secretary.”\]
 
 Similar provisions were contained in the following prior appropriation act:
 

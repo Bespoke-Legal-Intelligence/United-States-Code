@@ -14,19 +14,19 @@ In addition to other taxes, there is hereby imposed on the income of every indiv
 
 #### (b) Hospital insurance
 
-In addition to the tax imposed by the preceding subsection, there is hereby imposed on the income of every individual a tax equal to the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—
+#### (1) In general
 
-&emsp;(1) with respect to wages received during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
+&emsp;In addition to the tax imposed by the preceding subsection, there is hereby imposed on the income of every individual a tax equal to 1.45 percent of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b)).
 
-&emsp;(2) with respect to wages received during the calendar year 1978, the rate shall be 1.00 percent;
+#### (2) Additional tax
 
-&emsp;(3) with respect to wages received during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
+&emsp;In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) a tax equal to 0.9 percent of wages which are received with respect to employment (as defined in section 3121(b)) during any taxable year beginning after December 31, 2012, and which are in excess of—
 
-&emsp;(4) with respect to wages received during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
+&emsp;&emsp;(A) in the case of a joint return, $250,000,
 
-&emsp;(5) with respect to wages received during the calendar year 1985, the rate shall be 1.35 percent; and
+&emsp;&emsp;(B) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under subparagraph (A), and
 
-&emsp;(6) with respect to wages received after December 31, 1985, the rate shall be 1.45 percent.
+&emsp;&emsp;(C) in any other case, $200,000.
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
@@ -34,27 +34,17 @@ During any period in which there is in effect an agreement entered into pursuant
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, §208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, §202(b), 70 Stat. 845; Pub. L. 85–840, title IV, §401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(5), title III, §321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, §109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, §204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, §204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, §135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(1), (b)(1), title III, §317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, §123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, §9015(a)(1), title X, §10906(a), Mar. 23, 2010, 124 Stat. 870, 1020; Pub. L. 111–152, title I, §1402(b)(1)(A), Mar. 30, 2010, 124 Stat. 1063.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 111–152, title I, §1402(b)(1)(A), (3), Mar. 30, 2010, 124 Stat. 1063, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b)(2) of this section, as added and amended by sections 9015 and 10906 of Pub. L. 111–148, is amended by striking “and” at the end of subparagraph (A), redesignating subparagraph (B) as (C), and adding after subparagraph (A) the following new subparagraph: “(B) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under subparagraph (A), and”.</i>
-
-<i>Pub. L. 111–148, title X, §10906(a), (c), Mar. 23, 2010, 124 Stat. 1020, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b)(2) of this section, as added by section 9015(a)(1) of Pub. L. 111–148, is amended by striking “0.5 percent” and inserting “0.9 percent”.</i>
-
-<i>Pub. L. 111–148, title IX, §9015(a)(1), (c), Mar. 23, 2010, 124 Stat. 870, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (b) of this section is amended (1) by inserting “(1) In general” before “In addition”; (2) by striking “the following percentages of the” and inserting “1.45 percent of the”; (3) by striking “(as defined in section 3121(b))—” and all that follows and inserting “(as defined in section 3121(b)).”; and (4) by adding at the end a new paragraph (2), to read as follows:</i>
-
-#### <i>(2) Additional tax</i>
-
-&emsp;<i>In addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) a tax equal to 0.5 percent of wages which are received with respect to employment (as defined in section 3121(b)) during any taxable year beginning after December 31, 2012, and which are in excess of—</i>
-
-&emsp;&emsp;<i>(A) in the case of a joint return, $250,000, and</i>
-
-&emsp;&emsp;<i>(B) in any other case, $200,000.</i>
-
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–148, §9015(a)(1), designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
+
+Subsec. (b)(2). Pub. L. 111–152, §1402(b)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Pub. L. 111–148, §10906(a), substituted “0.9 percent” for “0.5 percent” in introductory provisions.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
@@ -114,7 +104,7 @@ Subsec. (a)(5). Pub. L. 92–5 added par. (5).
 
 Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(2), struck out par. (1) provision for employee rate of 0.35 percent of wages received with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-<b>1965</b>—Pub. L. 89–97, §321(b), divided the total tax imposed under the entire section upon income through a tax equal to percentages of wages into two separatetaxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 41/8 percent to 4.20 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 41/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 45/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1968, (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 4.90 percent the rate for calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975, (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 45/8 percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 45/8 percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate for calendar years after Dec. 31, 1986, to 5.65 percent (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
+<b>1965</b>—Pub. L. 89–97, §321(b), divided the total tax imposed under the entire section upon income through a tax equal to percentages of wages into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 41/8 percent to 4.20 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 41/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 45/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1968, (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 4.90 percent the rate for calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975, (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 45/8 percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 45/8 percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate for calendar years after Dec. 31, 1986, to 5.65 percent (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
 
 Subsec. (b). Pub. L. 89–97, §111(c)(5), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
 
@@ -136,7 +126,7 @@ Amendment by section 10906(a) of Pub. L. 111–148 applicable with respect to re
 
 #### Effective Date of 1983 Amendment
 
-Section 123(a)(3) of Pub. L. 98–21 provided that: “The amendments made by this subsection \[amending this section and section 3111 of this title\] shall apply to remuneration paid after December 31, 1983.”
+Pub. L. 98–21, title I, §123(a)(3), Apr. 20, 1983, 97 Stat. 88, provided that: “The amendments made by this subsection \[amending this section and section 3111 of this title\] shall apply to remuneration paid after December 31, 1983.”
 
 #### Effective Date of 1977 Amendment
 
@@ -144,7 +134,7 @@ Amendment by Pub. L. 95–216 applicable with respect to remuneration paid or re
 
 #### Effective Date of 1976 Amendment
 
-Section 1903(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[see Tables for classification of section 1903 of Pub. L. 94–455\] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3201 et seq. of this title\] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
+Pub. L. 94–455, title XIX, §1903(d), Oct. 4, 1976, 90 Stat. 1810, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[see Tables for classification of section 1903 of Pub. L. 94–455\] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3201 et seq. of this title\] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
 
 #### Effective Date of 1973 Amendment
 
@@ -158,7 +148,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1971 Amendment
 
-Section 204(b) of Pub. L. 92–5 provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section \[amending section 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1971.”
+Pub. L. 92–5, title II, §204(b), Mar. 17, 1971, 85 Stat. 12, provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section \[amending section 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1971.”
 
 #### Effective Date of 1968 Amendment
 
@@ -184,7 +174,7 @@ Amendment by act Aug. 1, 1956, applicable with respect to remuneration paid afte
 
 #### Temporary Employee Payroll Tax Cut
 
-Notwithstanding any other provision of law, with respect to remuneration received during calendar year 2011, the rate of tax under 26 U.S.C. 3101(a) to be 4.2 percent, see section 601 of Pub. L. 111–312, set out as a note under section 1401 of this title.
+Notwithstanding any other provision of law, with respect to remuneration received during calendar years 2011 and 2012, the rate of tax under 26 U.S.C. 3101(a) to be 4.2 percent, see section 601 of Pub. L. 111–312, set out as a note under section 1401 of this title.
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
@@ -192,5 +182,5 @@ Pub. L. 97–123, §3(f), Dec. 29, 1981, 95 Stat. 1663; Pub. L. 99–514, §2, O
 
 #### References to Social Security Act
 
-Section 402 of act Sept. 1, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “References in the Internal Revenue Code of 1939 \[former Title 26, Internal Revenue Code\], the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Railroad Retirement Act of 1937, as amended \[section 231 et seq. of Title 45, Railroads\], or any other law of the United States to any section or subdivision of a section of the Social Security Act \[section 301 et seq. of Title 42, The Public Health and Welfare\] redesignated by this Act shall be deemed to refer to such section or subdivision of a section as so redesignated.”
+Act Sept. 1, 1954, ch. 1206, title IV, §402, 68 Stat. 1098, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “References in the Internal Revenue Code of 1939 \[former Title 26, Internal Revenue Code\], the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Railroad Retirement Act of 1937, as amended \[section 231 et seq. of Title 45, Railroads\], or any other law of the United States to any section or subdivision of a section of the Social Security Act \[section 301 et seq. of Title 42, The Public Health and Welfare\] redesignated by this Act shall be deemed to refer to such section or subdivision of a section as so redesignated.”
 

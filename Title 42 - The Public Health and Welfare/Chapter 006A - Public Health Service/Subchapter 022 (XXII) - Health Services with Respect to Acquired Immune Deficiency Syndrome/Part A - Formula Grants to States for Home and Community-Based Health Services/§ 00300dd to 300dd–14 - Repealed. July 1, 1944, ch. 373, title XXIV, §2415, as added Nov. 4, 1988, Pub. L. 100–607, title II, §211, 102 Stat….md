@@ -32,5 +32,5 @@ Section 300dd–14, act July 1, 1944, ch. 373, title XXIV, §2415, as added Nov.
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to appropriations made for any period after fiscal year 1990, see section 2415 of act July 1, 1944, which was classified to former section 300dd–14 of this title.
+Repeal effective with respect to appropriations made for any period after fiscal year 1990, see section 2415 ofact July 1, 1944, which was classified to former section 300dd–14 of this title.
 

@@ -28,13 +28,13 @@ Sections related to protection of fur seals and other fur-bearing animals as fol
 
 631k, Punishment for violation of law; forfeiture,
 
-631<i>l</i>, Duties of collectors of customs regarding importation of skins of fur seal and see otter,
+631l, Duties of collectors of customs regarding importation of skins of fur seal and see otter,
 
 631m, Seizure of persons or vessels outside of jurisdiction of signatory powers; procedure,
 
 631n, Guard or patrol of waters; composition,
 
-631<i>o</i>, Receipt and disposal of skins by United States,
+631o, Receipt and disposal of skins by United States,
 
 631p, Killing, capturing, etc., certain fur-bearing animals for scientific purposes,
 

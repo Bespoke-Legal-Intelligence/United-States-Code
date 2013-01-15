@@ -4,9 +4,9 @@
 
 There are authorized to be appropriated for fiscal years after the fiscal year 1986 such sums as are described below; <sup>1</sup>
 
-&emsp;(1) For the purpose of acquisition of lands, water and interests therein pursuant to sections 544 to 544p of this title: $40,000,000: <i>Provided</i>, That of this amount no more than $10,000,000 shall be available to acquire lands, water, and interests therein pursuant to section 544h of this title. Such amounts are authorized to be appropriated from amounts covered into the Land and Water Conservation Fund notwithstanding any allocation, apportionment, or limitation contained in the Land and Water Conservation Fund (16 U.S.C. 460<i>l</i>–4 and following).
+&emsp;(1) For the purpose of acquisition of lands, water and interests therein pursuant to sections 544 to 544p of this title: $40,000,000: <i>Provided</i>, That of this amount no more than $10,000,000 shall be available to acquire lands, water, and interests therein pursuant to section 544h of this title. Such amounts are authorized to be appropriated from amounts covered into the Land and Water Conservation Fund notwithstanding any allocation, apportionment, or limitation contained in the Land and Water Conservation Fund (16 U.S.C. 460l–4 and following).
 
-&emsp;(2) For the purpose of providing payments to local governments pursuant to section 544<i>l</i>(c) of this title: $2,000,000.
+&emsp;(2) For the purpose of providing payments to local governments pursuant to section 544l(c) of this title: $2,000,000.
 
 #### (b) Specific authorizations
 
@@ -28,7 +28,7 @@ Funds appropriated under subsections (a)(2) and (b) of this section shall not be
 
 #### References in Text
 
-The Land and Water Conservation Fund (16 U.S.C. 460<i>l</i>–4 and following), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund (16 U.S.C. 460l–4 and following), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 

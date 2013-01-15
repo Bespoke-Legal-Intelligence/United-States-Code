@@ -16,7 +16,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;&emsp;(A) funds will be allocated on the basis of the relative need for weatherization assistance among the low-income persons within such State or area, taking into account appropriate climatic and energy conservation factors; and
 
-&emsp;&emsp;(B) due consideration will be given to the results of periodic evaluations of theprojects carried out under this part in light of available information regarding the current and anticipated energy and weatherization needs of low-income persons within the State; and
+&emsp;&emsp;(B) due consideration will be given to the results of periodic evaluations of the projects carried out under this part in light of available information regarding the current and anticipated energy and weatherization needs of low-income persons within the State; and
 
 &emsp;(3) be terminated or discontinued during the application period only in accordance with policies and procedures consistent with the policies and procedures set forth in section 6868 of this title.
 
@@ -30,9 +30,9 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;(C) the cost of having onsite supervisory personnel;
 
-&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary to make the installation of weatherization materials effective, and
+&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary to make the installation of weatherization materials effective,<sup>1</sup> and
 
-&emsp;(E) the cost of making heating and cooling modifications, including replacement <sup>1</sup>
+&emsp;(E) the cost of making heating and cooling modifications, including replacement <sup>2</sup>
 
 (2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1994, may receive further financial assistance for weatherization under this part.
 
@@ -82,7 +82,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 #### (d) Supplementary financial assistance to States
 
-Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
+Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) <sup>3</sup> of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
 
 &emsp;(1) consult with the State Energy Advisory Board established under section 6325(g) of this title; and
 
@@ -90,7 +90,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>3</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
@@ -168,7 +168,9 @@ Subsec. (c). Pub. L. 95–619, §231(c)(2), included expenditure of financial as
 
 Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 1253, provided: “That section 404 of Public Law 98–558 \[enacting subsec. (d) of this section\] shall not be effective in any fiscal year in which the amount made available for low income weatherization assistance from appropriations under this head is less than 5 per centum above the amount made available in fiscal year 1985.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

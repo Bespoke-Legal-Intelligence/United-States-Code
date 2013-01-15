@@ -6,7 +6,7 @@ The Secretary, acting through the Director for Domestic Nuclear Detection, in ca
 
 &emsp;(2) ensure that activities under paragraphs (6) and (7) of section 592(a) of this title include investigations of radiation detection equipment in configurations suitable for deployment at seaports, which may include underwater or water surface detection equipment and detection equipment that can be mounted on cranes and straddle cars used to move shipping containers; and
 
-&emsp;(3) have the authority to establish or contract with 1 or more federally funded research and development centers to provide independent analysis of homeland security issues and carry out other responsibilities under this subchapter.
+&emsp;(3) have the authority to establish or contract with 1 or more federally funded researchand development centers to provide independent analysis of homeland security issues and carry out other responsibilities under this subchapter.
 
 (Pub. L. 107–296, title XIX, §1906, formerly title XVIII, §1806, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1935; renumbered title XIX, §1906, and amended Pub. L. 110–53, title I, §104(a)(1), (2), (4), Aug. 3, 2007, 121 Stat. 294.)
 

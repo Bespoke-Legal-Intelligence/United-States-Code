@@ -70,7 +70,7 @@ Pub. L. 102–190, div. A, title IX, §921, Dec. 5, 1991, 105 Stat. 1452, as ame
 
 #### Joint Intelligence Center
 
-Section 923 of Pub. L. 102–190 provided that:
+Pub. L. 102–190, div. A, title IX, §923, Dec. 5, 1991, 105 Stat. 1453, provided that:
 
 “(a)
 

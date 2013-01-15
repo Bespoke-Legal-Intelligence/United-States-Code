@@ -176,5 +176,5 @@ Limitation on Expenditures.—The Secretary of Defense and the Secretaries of th
 
 #### Reports Relating to Military Construction for Facilities Supporting New Weapon Systems
 
-Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, whichrequired the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, §1062(m), Dec. 31, 2011, 125 Stat. 1586.
+Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, §1062(m), Dec. 31, 2011, 125 Stat. 1586.
 

@@ -10,7 +10,7 @@ Public Hearing Requirement.—The Secretary of Transportation may approve an app
 
 (c)
 
-Compliance With Air and Water Quality Standards.—(1) The Secretary of Transportation may approve an application only if the chief executive officer of the State in which theproject is located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated to comply with applicable air and water quality standards. If the Administrator has not prescribed those standards, certification shall be obtained from the Administrator. Notice of certification or refusal to certify shall be provided not later than 60 days after the Secretary receives the application.
+Compliance With Air and Water Quality Standards.—(1) The Secretary of Transportation may approve an application only if the chief executive officer of the State in which the project is located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated to comply with applicable air and water quality standards. If the Administrator has not prescribed those standards, certification shall be obtained from the Administrator. Notice of certification or refusal to certify shall be provided not later than 60 days after the Secretary receives the application.
 
 (2) The Secretary of Transportation shall condition the approval of an application on compliance with applicable air and water quality standards during construction and operation.
 
@@ -46,7 +46,7 @@ Historical and Revision Notes
 
 Nov. 4, 1992, Pub. L. 102–588, §505(e), 106 Stat. 5126.
 
-In subsection (a), the words “policy of the United States” are substituted for “national policy”, and the words “of the United States” are substituted for “of the Nation”, for consistency. The words “included in a project grant application” and “full and” are omitted as surplus.
+In subsection (a), the words “policy of the United States” are substituted for “national policy”, and thewords “of the United States” are substituted for “of the Nation”, for consistency. The words “included in a project grant application” and “full and” are omitted as surplus.
 
 In subsection (b), the words “of objectives” are omitted as surplus.
 

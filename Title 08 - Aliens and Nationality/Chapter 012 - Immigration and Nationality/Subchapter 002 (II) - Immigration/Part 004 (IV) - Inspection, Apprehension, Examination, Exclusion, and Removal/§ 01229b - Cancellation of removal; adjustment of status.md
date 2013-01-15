@@ -32,7 +32,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
-&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanentresident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
+&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
 &emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
@@ -90,7 +90,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an alien granted continued presence who is 21 years of age or older, the spouse or child of the alien; or
 
-&emsp;&emsp;&emsp;(ii) is a parent or sibling of the alien who the requesting law enforcement official, in consultation with the Secretary of Homeland Security, as appropriate, determines to be in present danger of retaliation as a result of the alien's escape from the severe form of trafficking or cooperation with law enforcement, irrespective of age.
+&emsp;&emsp;&emsp;(ii) is a parent or sibling of the alien who the requesting law enforcement official, inconsultation with the Secretary of Homeland Security, as appropriate, determines to be in present danger of retaliation as a result of the alien's escape from the severe form of trafficking or cooperation with law enforcement, irrespective of age.
 
 #### (B) Duration of parole
 
@@ -148,7 +148,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (2) Treatment of certain breaks in presence
 
-&emsp;An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
@@ -162,7 +162,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (1) Aggregate limitation
 
-&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
+&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effectbefore September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
 
 #### (2) Fiscal year 1997
 
@@ -238,7 +238,7 @@ Pub. L. 106–386, div. B, title V, §1506(b)(2), Oct. 28, 2000, 114 Stat. 1527,
 
 #### Effective Date of 1997 Amendment
 
-Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–546).”
+Pub. L. 105–100, title II, §204(e), Nov. 19, 1997, 111 Stat. 2201, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–546).”
 
 #### Effective Date
 

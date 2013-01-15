@@ -30,7 +30,7 @@ Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629
 
 #### Limitation on Appropriations
 
-Act Apr. 28, 1942, ch. 247, title II, §201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply toall appropriations made to the Navy Department since Mar. 11, 1941.
+Act Apr. 28, 1942, ch. 247, title II, §201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply to all appropriations made to the Navy Department since Mar. 11, 1941.
 
 #### Reduction in Value of Defense Articles
 

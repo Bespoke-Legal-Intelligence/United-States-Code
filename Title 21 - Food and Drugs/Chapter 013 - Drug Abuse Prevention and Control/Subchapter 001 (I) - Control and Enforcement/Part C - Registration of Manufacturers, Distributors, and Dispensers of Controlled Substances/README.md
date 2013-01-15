@@ -11,6 +11,7 @@ Part C—Registration of Manufacturers, Distributors, and Dispensers of Controll
 - [&sect; 00824 - Denial, revocation, or suspension of registration](%C2%A7%2000824%20-%20Denial%2C%20revocation%2C%20or%20suspension%20of%20registration.md)
 - [&sect; 00825 - Labeling and packaging](%C2%A7%2000825%20-%20Labeling%20and%20packaging.md)
 - [&sect; 00826 - Production quotas for controlled substances](%C2%A7%2000826%20-%20Production%20quotas%20for%20controlled%20substances.md)
+- [&sect; 00826a - Attorney General report on drug shortages](%C2%A7%2000826a%20-%20Attorney%20General%20report%20on%20drug%20shortages.md)
 - [&sect; 00827 - Records and reports of registrants](%C2%A7%2000827%20-%20Records%20and%20reports%20of%20registrants.md)
 - [&sect; 00828 - Order forms](%C2%A7%2000828%20-%20Order%20forms.md)
 - [&sect; 00829 - Prescriptions](%C2%A7%2000829%20-%20Prescriptions.md)

@@ -50,7 +50,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 The Secretary shall give written notice of the designation of a health professional shortage area, not later than 60 days from the date of such designation, to—
 
-&emsp;(1) the Governor of each State in which the area, population group, medical facility, orother public facility so designated is in whole or part located; and
+&emsp;(1) the Governor of each State in which the area, population group, medical facility, or other public facility so designated is in whole or part located; and
 
 &emsp;(2) appropriate public or nonprofit private entities which are located or which have a demonstrated interest in the area so designated.
 
@@ -144,7 +144,7 @@ Pub. L. 101–597, §102(c)(1), struck out “, promulgated not later than May 
 
 Subsec. (c). Pub. L. 101–597, §102(c)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:
 
-“(A) The recommendations of each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
+“(A) The recommendations of each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
 
 “(B) The recommendations of the State health planning and development agency (designated under section 300m of this title) if such area, population group, medical facility, or other public facility is within a health service area for which no health systems agency has been designated.”
 
@@ -158,7 +158,7 @@ Subsec. (f). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health
 
 Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
-“(A) each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
+“(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
 
 “(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
 
@@ -190,9 +190,9 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 #### Effective Date of 1988 Amendments
 
-Section 631 of title VI of Pub. L. 100–628 provided that: “The amendments made by subsection (a) of section 601 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later.”
+Pub. L. 100–628, title VI, §631, Nov. 7, 1988, 102 Stat. 3244, provided that: “The amendments made by subsection (a) of section 601 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later.”
 
-Section 831 of title VIII of Pub. L. 100–607 provided that: “The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later.”
+Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: “The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later.”
 
 #### Effective Date of 1981 Amendment
 
@@ -200,7 +200,7 @@ Amendment by section 986(b)(4) of Pub. L. 97–35 effective Oct. 1, 1981, see se
 
 #### Effective Date of 1977 Amendment
 
-Section 7(e)(1) of Pub. L. 95–142 provided that: “The amendment made by subsection (d) \[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Regulations
 
@@ -208,7 +208,7 @@ Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which req
 
 #### Improvement of Site Designation Process
 
-Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of theHealth Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
+Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
 
 #### GAO Study
 
@@ -220,5 +220,5 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Evaluation of Criteria Used To Designate Health Manpower Shortage Areas; Report to Congress
 
-Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
+Pub. L. 97–35, title XXVII, §2702(c), Aug. 13, 1981, 95 Stat. 903, directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
 

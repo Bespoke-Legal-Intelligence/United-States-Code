@@ -28,7 +28,7 @@ An agreement with a hospital under this section shall, except as otherwise provi
 
 #### (d) Post-hospital extended care services
 
-Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes ofthis subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
+Any agreement with a hospital under this section shall provide that payment for services willbe made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
 
 #### (e) Reimbursement for routine hospital services
 
@@ -42,7 +42,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(6) \[title IV, §408(b)\], struck out 
 
 Subsec. (d)(3). Pub. L. 100–360, §411(b)(4)(D), inserted before period at end “, except that such payment shall continue to be made in the period for those patients who are receiving extended care services at the time the hospital reaches the limit specified in this paragraph”.
 
-Subsec. (f). Pub. L. 100–360, §411(<i>l</i>)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(3), see 1987 Amendment note below.
+Subsec. (f). Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(3), see 1987 Amendment note below.
 
 Pub. L. 100–360, §104(d)(6), struck out “post-hospital” before “extended care services”.
 
@@ -82,7 +82,7 @@ Pub. L. 100–360, §104(d)(6), struck out “post-hospital” before “extende
 
 Subsec. (d). Pub. L. 100–203, §4005(b)(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §411(<i>l</i>)(1)(C), and Pub. L. 100–485, §608(d)(27)(B), substituted “section 1395i–3” for “section 1395x(j)(15)”.
+Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §411(l)(1)(C), and Pub. L. 100–485, §608(d)(27)(B), substituted “section 1395i–3” for “section 1395x(j)(15)”.
 
 #### Effective Date of 2003 Amendment
 
@@ -102,43 +102,43 @@ Amendment by Pub. L. 105–33 applicable to items and services furnished on or a
 
 #### Effective Date of 1990 Amendment
 
-Section 4008(j)(4) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to services furnished on or after October 1, 1990.”
+Pub. L. 101–508, title IV, §4008(j)(4), Nov. 5, 1990, 104 Stat. 1388–52, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to services furnished on or after October 1, 1990.”
 
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub. L. 101–234, set out as a note under section 1395c of this title.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
 Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(4)(D), (<i>l</i>)(1)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(4)(D), (l)(1)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
-Section 4005(b)(4) of Pub. L. 100–203 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[this section\] entered into after March 31, 1988.”
+Pub. L. 100–203, title IV, §4005(b)(4), Dec. 22, 1987, 101 Stat. 1330–49, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[this section\] entered into after March 31, 1988.”
 
 Amendment by section 4201(d)(3) of Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations to implement such amendment are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
 
 #### Effective Date
 
-Section 904(d) of Pub. L. 96–499 provided that: “The amendments made by this section \[enacting this section and section 1396<i>l</i> of this title\] shall become effective on the date on which final regulations, promulgated by the Secretary to implement such amendments, are first issued; and those regulations shall be issued not later than the first day of the sixth month following the month in which this Act is enacted \[December 1980\].”
+Pub. L. 96–499, title IX, §904(d), Dec. 5, 1980, 94 Stat. 2617, provided that: “The amendments made by this section \[enacting this section and section 1396l of this title\] shall become effective on the date on which final regulations, promulgated by the Secretary to implement such amendments, are first issued; and those regulations shall be issued not later than the first day of the sixth month following the month in which this Act is enacted \[December 1980\].”
 
 #### Hold Harmless for Amendment by Pub. L. 101–508
 
-Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+Pub. L. 101–508, title IV, §4008(j)(2), Nov. 5, 1990, 104 Stat. 1388–51, provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
 #### Swing Beds Certified Prior to May 1, 1987
 
-Section 4008(j)(3) of Pub. L. 101–508 provided that: “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
+Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
 
 #### Report of Hospital Admissions for Extended Care Services
 
-Section 4005(b)(3) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(b)(4)(E), as added by Pub. L. 100–485, title VI, §608(d)(18)(C), Oct. 13, 1988, 102 Stat. 2419, directed Secretary of Health and Human Services to report to Congress, not later than Feb. 1, 1989, concerning the proportion of admissions to hospitals for extended care services under this section which are denied or approved by a peer review organization, and recommendations for methods of encouraging hospitals that have a low occupancy rate, are eligible to enter (but have not entered) into an agreement under this section, and are located in areas with a need for additional providers of extended care services, to enter into such agreements.
+Pub. L. 100–203, title IV, §4005(b)(3), Dec. 22, 1987, 101 Stat. 1330–49, as amended by Pub. L. 100–360, title IV, §411(b)(4)(E), as added by Pub. L. 100–485, title VI, §608(d)(18)(C), Oct. 13, 1988, 102 Stat. 2419, directed Secretary of Health and Human Services to report to Congress, not later than Feb. 1, 1989, concerning the proportion of admissions to hospitals for extended care services under this section which are denied or approved by a peer review organization, and recommendations for methods of encouraging hospitals that have a low occupancy rate, are eligible to enter (but have not entered) into an agreement under this section, and are located in areas with a need for additional providers of extended care services, to enter into such agreements.
 
 #### Report on Hospital Providers of Extended Care, Skilled Nursing, and Intermediate Care Services
 
-Section 904(c) of Pub. L. 96–499 directed Secretary of Health and Human Services, within three years after Dec. 5, 1980, to submit to Congress a report evaluating programs established by the amendments made by this section (enacting this section and section 1396<i>l</i> of this title), including in such report an analysis of the extent and effect of the agreements under such programs on availability and effective and economical provision of long-term care services, whether such programs should be continued, the results of any demonstration projects conducted under such programs, and whether eligibility to participate in such programs should be extended toother hospitals, regardless of bed size or geographic location, where there is a shortage of long-term care beds.
+Pub. L. 96–499, title IX, §904(c), Dec. 5, 1980, 94 Stat. 2617, directed Secretary of Health and Human Services, within three years after Dec. 5, 1980, to submit to Congress a report evaluating programs established by the amendments made by this section (enacting this section and section 1396l of this title), including in such report an analysis of the extent and effect of the agreements under such programs on availability and effective and economical provision of long-term care services, whether such programs should be continued, the results of any demonstration projects conducted under such programs, and whether eligibility to participate in such programs should be extended to other hospitals, regardless of bed size or geographic location, where there is a shortage of long-term care beds.
 

@@ -138,15 +138,45 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
-&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, onwhich the requirements specified in paragraph (1) shall take effect; and
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based oncost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
 &emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
 
 #### (3) Plan
 
-&emsp;Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.
+&emsp;Not later than 180 days after the date on which guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
 
-#### (f) <sup>1</sup> Use of energy and water efficiency measures in Federal buildings
+&emsp;&emsp;(A) how the agency will designate personnel primarily responsible for achieving the requirements; and
+
+&emsp;&emsp;(B) a demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices (as those terms are used in paragraph (1)), are not practicable.
+
+#### (4) Best practices report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after December 18,2012, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.
+
+#### (B) Components
+
+&emsp;&emsp;The report shall include, at a minimum—
+
+&emsp;&emsp;&emsp;(i) summaries and analysis of the reports by agencies under paragraph (3);
+
+&emsp;&emsp;&emsp;(ii) recommendations on standard requirements or guidelines for automated energy management systems, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) potential common communications standards to allow data sharing and reporting;
+
+&emsp;&emsp;&emsp;&emsp;(II) means of facilitating continuous commissioning of buildings and evidence-based maintenance of buildings and building systems; and
+
+&emsp;&emsp;&emsp;&emsp;(III) standards for sufficient levels of security and protection against cyber threats to ensure systems cannot be controlled by unauthorized persons; and
+
+&emsp;&emsp;&emsp;(iii) an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the types of advanced metering and monitoring systems being piloted, tested, or installed in Federal buildings; and
+
+&emsp;&emsp;&emsp;&emsp;(II) existing techniques used within the private sector or other non-Federal government buildings.
+
+#### (f) Use of energy and water efficiency measures in Federal buildings
 
 #### (1) Definitions
 
@@ -240,7 +270,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (A) In general
 
-&emsp;&emsp;Each Federal agency shall designate an energy manager responsible for implementingthis subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
+&emsp;&emsp;Each Federal agency shall designate an energy manager responsible for implementing this subsection and reducing energy use at each facility that meets criteria under subparagraph (B).
 
 #### (B) Covered facilities
 
@@ -288,19 +318,23 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Relationship to funding source
 
-&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>2</sup> project size, and other criteria the Secretary determines are relevant.
+&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>1</sup> project size, and other criteria the Secretary determines are relevant.
 
 #### (7) Web-based certification
 
 #### (A) In general
 
-&emsp;&emsp;For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
+&emsp;&emsp;For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) energy and water evaluations under paragraph (3);
+&emsp;&emsp;&emsp;(i) to certify compliance with the requirements for—
 
-&emsp;&emsp;&emsp;(ii) implementation of identified energy and water measures under paragraph (4); and
+&emsp;&emsp;&emsp;&emsp;(I) energy and water evaluations under paragraph (3);
 
-&emsp;&emsp;&emsp;(iii) follow-up on implemented measures under paragraph (5).
+&emsp;&emsp;&emsp;&emsp;(II) implementation of identified energy and water measures under paragraph (4); and
+
+&emsp;&emsp;&emsp;&emsp;(III) follow-up on implemented measures under paragraph (5); and
+
+&emsp;&emsp;&emsp;(ii) to publish energy and water consumption data on an individual facility basis.
 
 #### (B) Deployment
 
@@ -334,7 +368,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (ii) Exemptions
 
-&emsp;&emsp;&emsp;At the request of a Federal agency, the Secretary may exempt specific data forspecific facilities from disclosure under clause (i) for national security purposes.
+&emsp;&emsp;&emsp;At the request of a Federal agency, the Secretary may exempt specific data for specific facilities from disclosure under clause (i) for national security purposes.
 
 #### (8) Benchmarking of Federal facilities
 
@@ -396,11 +430,11 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;This subsection shall not be construed to require or to obviate any contractor savings guarantees.
 
-#### (f) <sup>1</sup> Large capital energy investments
+#### (g) Large capital energy investments
 
 #### (1) In general
 
-&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs the most energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
+&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs themost energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
 
 #### (2) Process for review of investment decisions
 
@@ -414,7 +448,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;Not later than 1 year after December 19, 2007, the Director of the Office of Management and Budget shall evaluate and report to Congress on the compliance of each agency with this subsection.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614.)
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614; Pub. L. 112–210, §§8, 9, Dec. 18, 2012, 126 Stat. 1521, 1522.)
 
 #### References in Text
 
@@ -424,7 +458,21 @@ The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percentfor fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
+<b>2012</b>—Subsec. (e)(3), (4). Pub. L. 112–210, §8, added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text read as follows: “Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.”
+
+Subsec. (f). Pub. L. 112–210, §9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
+
+Subsec. (f)(7)(A). Pub. L. 112–210, §9(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B) to certify compliance with the requirements for—
+
+&emsp;“(i) energy and water evaluations under paragraph (3);
+
+&emsp;“(ii) implementation of identified energy and water measures under paragraph (4); and
+
+&emsp;“(iii) follow-up on implemented measures under paragraph (5).”
+
+Subsec. (g). Pub. L. 112–210, §9(1), redesignated subsec. (f) relating to large capital energy investments as (g).
+
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §431, added table and struck out former table which listed percentage reductions for fiscal years as follows: 2 percent for fiscal year 2006, 4 percent for fiscal year 2007, 6 percent for fiscal year 2008, 8 percent for fiscal year 2009, 10 percent for fiscal year 2010, 12 percent for fiscal year 2011, 14 percent for fiscal year 2012, 16 percent for fiscal year 2013, 18 percent for fiscal year 2014, and 20 percent for fiscal year 2015.
 
 Subsec. (e)(1). Pub. L. 110–140, §434(b), inserted after second sentence “Not later than October 1, 2016, each agency shall provide for equivalent metering of natural gas and steam, in accordance with guidelines established by the Secretary under paragraph (2).”
 
@@ -454,7 +502,7 @@ Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). F
 
 Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
 
-Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
+Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows:“prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
 
 Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title”.
 
@@ -472,9 +520,7 @@ Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided th
 
 #### Survey of Energy Saving Potential
 
-Section 3 of Pub. L. 100–615, which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by Pub. L. 102–486, title I, §152(i)(3), Oct. 24, 1992, 106 Stat. 2851.
+Pub. L. 100–615, §3, Nov. 5, 1988, 102 Stat. 3189, which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by Pub. L. 102–486, title I, §152(i)(3), Oct. 24, 1992, 106 Stat. 2851.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. A comma probably should appear.</i>
+<i><sup>1</sup></i><i> So in original. A comma probably should appear.</i>
 

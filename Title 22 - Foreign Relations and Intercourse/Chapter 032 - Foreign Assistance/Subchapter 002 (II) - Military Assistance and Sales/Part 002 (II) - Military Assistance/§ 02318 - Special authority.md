@@ -10,7 +10,7 @@
 
 > he may direct, for the purposes of subchapter II of this chapter, the drawdown of defense articles from the stocks of the Department of Defense, defense services of the Department of Defense, and military education and training, of an aggregate value of not to exceed $100,000,000 in any fiscal year.
 
-(2)(A) If the President determines and reports to the Congress in accordance with section 2411 of this title that it is in the national interest of the United States to draw down articles and services from the inventory and resources of any agency of the United States Government and military education and training from the Department of Defense, the President may direct the drawdown of such articles, services, and military education and training—
+(2)(A) If the President determines and reports to the Congress in accordance with section 2411of this title that it is in the national interest of the United States to draw down articles and services from the inventory and resources of any agency of the United States Government and military education and training from the Department of Defense, the President may direct the drawdown of such articles, services, and military education and training—
 
 &emsp;(i) for the purposes and under the authorities of—
 

@@ -8,7 +8,7 @@ No compensation shall be allowed for the first three days of the disability, exc
 
 (1) Compensation for disability or death (other than compensation for death required by this chapter to be paid in a lump sum) shall not exceed an amount equal to 200 per centum of the applicable national average weekly wage, as determined by the Secretary under paragraph (3).
 
-(2) Compensation for total disability shall not be less than 50 per centum of the applicable national average weekly wage determined by the Secretary under paragraph (3), except that if the employee's average weekly wages as computed under section 910 of this title are less than 50 per centum of such national average weekly wage, he shall receive his average weekly wages as compensation for total disability.
+(2) Compensation for total disability shall not be less than 50 per centum of the applicable national average weekly wage determined by the Secretary under paragraph (3), except that if theemployee's average weekly wages as computed under section 910 of this title are less than 50 per centum of such national average weekly wage, he shall receive his average weekly wages as compensation for total disability.
 
 (3) As soon as practicable after June 30 of each year, and in any event prior to October 1 of such year, the Secretary shall determine the national average weekly wage for the three consecutive calendar quarters ending June 30. Such determination shall be the applicable national average weekly wage for the period beginning with October 1 of that year and ending with September 30 of the next year. The initial determination under this paragraph shall be made as soon as practicable after October 27, 1972.
 
@@ -46,13 +46,13 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Effective Date of 1961 Amendment
 
-Section 4 of Pub. L. 87–87 provided that: “The amendments made by the foregoing provisions of this Act \[amending this section and sections 909 and 914 of this title\] shall become effective as to injuries or death sustained on or after the date of enactment \[July 14, 1961\].”
+Pub. L. 87–87, §4, July 14, 1961, 75 Stat. 204, provided that: “The amendments made by the foregoing provisions of this Act \[amending this section and sections 909 and 914 of this title\] shall become effective as to injuries or death sustained on or after the date of enactment \[July 14, 1961\].”
 
 #### Effective Date of 1956 Amendment
 
-Section 9 of act July 26, 1956, provided that: “The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
+Act July 26, 1956, ch. 735, §9, 70 Stat. 656, provided that: “The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
 
 #### Effective Date of 1948 Amendment
 
-Section 6 of act June 24, 1948, provided that: “The provisions of this Act \[amending this section and sections 908, 909, 910, and 914 of this title\] shall be applicable only to injuries or deaths occurring on or after the effective date hereof \[June 24, 1948\].”
+Act June 24, 1948, ch. 623, §6, 62 Stat. 604, provided that: “The provisions of this Act \[amending this section and sections 908, 909, 910, and 914 of this title\] shall be applicable only to injuries or deaths occurring on or after the effective date hereof \[June 24, 1948\].”
 

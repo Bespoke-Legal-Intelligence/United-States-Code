@@ -24,6 +24,10 @@ The authority to carry out programs established under this section shall termina
 
 (July 10, 1954, ch. 469, title IV, §415, as added Pub. L. 104–127, title II, §222, Apr. 4, 1996, 110 Stat. 958; amended Pub. L. 107–171, title III, §3013, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §3023, June 18, 2008, 122 Stat. 1830.)
 
+#### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
 #### Amendments
 
 Subsec. (a)(1). Pub. L. 110–246, §3023(1)(A), substituted “2008” for “2003”.

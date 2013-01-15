@@ -76,5 +76,5 @@ In subsection (d), the second sentence is substituted for 10:21a(d) (last 31 wor
 
 #### Effective Date of 1984 Amendment
 
-Section 515 of Pub. L. 98–525 provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522, provided that the amendment made by that section is effective Oct. 1, 1984.
 

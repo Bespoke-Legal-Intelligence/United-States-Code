@@ -186,11 +186,11 @@ Amendment by section 529 \[title I, §101(b)(3)(E), title II, §210(1)\] of Pub.
 
 #### Effective Date of 1968 Amendment
 
-Section 3 of Pub. L. 90–556 provided that: “The amendments made by this Act \[amending this section and section 5545 of this title\] shall take effect on the first day of the first pay period which begins on or after the thirtieth day after the date of enactment of this Act \[Oct. 10, 1968\].”
+Pub. L. 90–556, §3, Oct. 10, 1968, 82 Stat. 969, provided that: “The amendments made by this Act \[amending this section and section 5545 of this title\] shall take effect on the first day of the first pay period which begins on or after the thirtieth day after the date of enactment of this Act \[Oct. 10, 1968\].”
 
 #### Effective Date of 1967 Amendment
 
-Section 220(a)(4) of title II of Pub. L. 90–206 provided that, except as otherwise expressly provided: “Sections 222 \[enacting section 5733 of this title and amending this section, section 5544 of this title, section 3571 of Title 39, The Postal Service\], and 223 \[enacting section 5345 of this title\] shall become effective thirty days after the date of enactment of this title \[Dec. 16, 1967\].”
+Pub. L. 90–206, title II, §220(a)(4), Dec. 16, 1967, 81 Stat. 639, provided that, except as otherwise expressly provided: “Sections 222 \[enacting section 5733 of this title and amending this section, section 5544 of this title, section 3571 of Title 39, The Postal Service\], and 223 \[enacting section 5345 of this title\] shall become effective thirty days after the date of enactment of this title \[Dec. 16, 1967\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

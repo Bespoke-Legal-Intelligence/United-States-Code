@@ -52,7 +52,7 @@ In subsection (a), the words “On and after July 13, 1955” are omitted as exe
 
 In subsection (b), the words “armed force of the United States” are substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard” because of 10:101(4) and to avoid confusion with the phrase “armed force of a friendly foreign country”.
 
-In subsection (b)(1), before clause (A), the words “the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” are substituted for “the Secretary of the Treasury in their respective areas of responsibility” because of 14:3 and 49:1655(b)(1) and (2). The words “disbursing official” are substituted for “cashiers, disbursing officers” for consistency with other titles of the United States Code and to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words “the Secretary of Transportation with respect to the CoastGuard when it is not operating as a service in the Navy” are substituted for “the Secretary of the Treasury in their respective areas of responsibility” because of 14:3 and 49:1655(b)(1) and (2). The words “disbursing official” are substituted for “cashiers, disbursing officers” for consistency with other titles of the United States Code and to eliminate unnecessary words.
 
 1982
 

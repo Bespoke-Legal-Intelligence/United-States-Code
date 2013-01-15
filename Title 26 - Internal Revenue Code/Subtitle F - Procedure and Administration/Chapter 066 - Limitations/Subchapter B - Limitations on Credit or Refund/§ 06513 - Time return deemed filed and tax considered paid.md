@@ -12,11 +12,11 @@ For purposes of section 6511 or 6512—
 
 &emsp;(2) Any amount paid as estimated income tax for any taxable year shall be deemed to have been paid on the last day prescribed for filing the return under section 6012 for such taxable year (determined without regard to any extension of time for filing such return).
 
-&emsp;(3) Any tax withheld at the source under chapter 3 shall, in respect of the recipient of the income, be deemed to have been paid by such recipient on the last day prescribed for filing the return under section 6012 for the taxable year (determined without regard to any extension of time for filing) with respect to which such tax is allowable as a credit under section 1462. For this purpose, any exemption granted under section 6012 from the requirement of filing a return shall be disregarded.
+&emsp;(3) Any tax withheld at the source under chapter 3 or 4 shall, in respect of the recipient of the income, be deemed to have been paid by such recipient on the last day prescribed for filing the return under section 6012 for the taxable year (determined without regard to any extension of time for filing) with respect to which such tax is allowable as a credit under section 1462 or 1474(b). For this purpose, any exemption granted under section 6012 from the requirement of filing a return shall be disregarded.
 
 #### (c) Return and payment of social security taxes and income tax withholding
 
-Notwithstanding subsection (a), for purposes of section 6511 with respect to any tax imposed by chapter 3, 21, or 24—
+Notwithstanding subsection (a), for purposes of section 6511 with respect to any tax imposed by chapter 3, 4, 21, or 24—
 
 &emsp;(1) If a return for any period ending with or within a calendar year is filed before April 15 of the succeeding calendar year, such return shall be considered filed on April 15 of such succeeding calendar year; and
 
@@ -32,11 +32,11 @@ Notwithstanding subsection (a), for purposes of section 6511 any payment of tax 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 812; Pub. L. 89–809, title I, §105(f)(1), (2), Nov. 13, 1966, 80 Stat. 1567, 1568; Pub. L. 91–53, §2(d), Aug. 7, 1969, 83 Stat. 92; Pub. L. 98–76, title II, §231(b)(2)(C), Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(4), Nov. 10, 1988, 102 Stat. 3774; Pub. L. 111–147, title V, §501(c)(4), (5), Mar. 18, 2010, 124 Stat. 106.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–147, title V, §501(c)(4), (5), (d)(1), (2), Mar. 18, 2010, 124 Stat. 106, provided that, applicable to payments made after Dec. 31, 2012, with certain exceptions, this section is amended (1) by inserting “or 4” after “chapter 3” and “or 1474(b)” after “section 1462” in subsection (b)(3); and (2) by inserting “4,” after “chapter 3,” in subsection (c).</i>
-
 #### Amendments
+
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–147, §501(c)(4), inserted “or 4” after “chapter 3” and “or 1474(b)” after “section 1462”.
+
+Subsec. (c). Pub. L. 111–147, §501(c)(5), inserted “4,” after “chapter 3,” in introductory provisions.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 struck out last sentence which read as follows: “Notwithstanding subsection (a), for purposes of section 6511, any payment of tax imposed by chapter 23A which, pursuant to section 6157, is made for a calendar quarter within a taxable period shall, if made before the last day prescribed for filing the return for the taxable period (determined without regard to any extension of time for filing), be considered made on such last day.”
 

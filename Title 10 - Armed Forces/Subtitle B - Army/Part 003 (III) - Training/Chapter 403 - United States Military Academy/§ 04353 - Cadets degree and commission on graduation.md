@@ -1,6 +1,6 @@
 ### §4353. Cadets: degree and commission on graduation
 
-(a) Under such conditions as the Secretary of the Army may prescribe, the Superintendent ofthe Academy may confer the degree of bachelor of science upon graduates of the Academy.
+(a) Under such conditions as the Secretary of the Army may prescribe, the Superintendent of the Academy may confer the degree of bachelor of science upon graduates of the Academy.
 
 (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Army under section 531 of this title.
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Degrees for Persons Who Graduated Before Accrediting of Military Academy
 
-Section 35 of act Aug. 10, 1956, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
+Act Aug. 10, 1956, ch. 1041, §35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
 

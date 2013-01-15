@@ -28,13 +28,13 @@ The Secretary shall—
 
 #### (c) Availability of information to appropriate agencies and organizations
 
-The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) of this section in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300<i>l</i>–4 <sup>1</sup> of this title) and State health planning and development agencies (designated under section 300m <sup>1</sup> of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
+The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) of this section in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300l–4 <sup>1</sup> of this title) and State health planning and development agencies (designated under section 300m <sup>1</sup> of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
 
 (Aug. 14, 1935, ch. 531, title XI, §1121, as added Pub. L. 95–142, §19(a), Oct. 25, 1977, 91 Stat. 1203.)
 
 #### References in Text
 
-Section 300<i>l</i>–4 of this title, referred to in subsec. (c), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Section 300l–4 of this title, referred to in subsec. (c), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 Section 300m of this title, referred to in subsec. (c), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
 
@@ -46,7 +46,7 @@ Section was additionally amended by Pub. L. 92–603, title II, §278(a)(24), Oc
 
 #### Time Periods for Establishment of Uniform Reporting Systems; Consultations With Interested Parties
 
-Section 19(c)(1) of Pub. L. 95–142 directed Secretary of Health, Education, and Welfare to establish the systems described in subsec. (a) of this section only after consultation with interested parties and for hospitals, skilled nursing facilities, and intermediate care facilities, not later than the end of the one year period beginning on Oct. 25, 1977, and for other types of health services facilities and organizations, not later than the end of the two-year period beginning on Oct. 25, 1977.
+Pub. L. 95–142, §19(c)(1), Oct. 25, 1977, 91 Stat. 1205, directed Secretary of Health, Education, and Welfare to establish the systems described in subsec. (a) of this section only after consultation with interested parties and for hospitals, skilled nursing facilities, and intermediate care facilities, not later than the end of the one year period beginning on Oct. 25, 1977, and for other types of health services facilities and organizations, not later than the end of the two-year period beginning on Oct. 25, 1977.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

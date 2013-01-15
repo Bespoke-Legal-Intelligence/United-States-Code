@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of such year, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
 
-&emsp;&emsp;(ii) the treasurer of the other principal campaign committees of a candidate for the office of President shall file a pre-electionreport or reports in accordance with paragraph (2)(A)(i), a post-general election report in accordance with paragraph (2)(A)(ii), and quarterly reports in accordance with paragraph (2)(A)(iii); and
+&emsp;&emsp;(ii) the treasurer of the other principal campaign committees of a candidate for the office of President shall file a pre-election report or reports in accordance with paragraph (2)(A)(i), a post-general election report in accordance with paragraph (2)(A)(ii), and quarterly reports in accordance with paragraph (2)(A)(iii); and
 
 &emsp;&emsp;(iii) if at any time during the election year a committee filing under paragraph (3)(A)(ii) receives contributions in excess of $100,000 or makes expenditures in excess of $100,000, the treasurer shall begin filing monthly reports under paragraph (3)(A)(i) at the next reporting period; and
 
@@ -42,7 +42,7 @@
 
 &emsp;(iv) in any other calendar year, a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31 and a report covering the period beginning July 1 and ending December 31, which shall be filed no later than January 31 of the following calendar year; or
 
-&emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
+&emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph\(2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
 
 > Notwithstanding the preceding sentence, a national committee of a political party shall file the reports required under subparagraph (B).
 
@@ -80,7 +80,7 @@ Initial notification.—Not later than 24 hours after a candidate described in c
 
 &emsp;(iv)
 
-Additional notification.—After a candidate files an initial notification under clause\(iii), the candidate shall file an additional notification each time expenditures from personal funds are made or obligated to be made in an aggregate amount that exceed <sup>2</sup> $10,000 with—
+Additional notification.—After a candidate files an initial notification under clause (iii), the candidate shall file an additional notification each time expenditures from personal funds are made or obligated to be made in an aggregate amount that exceed <sup>2</sup> $10,000 with—
 
 &emsp;&emsp;(I) the Commission; and
 
@@ -112,7 +112,7 @@ Enforcement.—For provisions providing for the enforcement of the reporting req
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to befiled within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
@@ -148,7 +148,7 @@ In general.—The Commission shall—
 
 &emsp;(B)
 
-Additional information.—To the extent feasible, the Commission shall require vendorsto include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
+Additional information.—To the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
 
 &emsp;(C)
 
@@ -308,7 +308,7 @@ Each report under this section shall disclose—
 
 #### (4) Reporting periods
 
-&emsp;Reports required to be filed under this subsection shall be filed for the same time periods required for political committees under subsection (a)(4)(B) of this section.
+&emsp;Reports required to be filed under this subsection shall be filed for the same time periodsrequired for political committees under subsection (a)(4)(B) of this section.
 
 #### (f) Disclosure of electioneering communications
 
@@ -412,7 +412,7 @@ Each report under this section shall disclose—
 
 #### (B) Additional reports
 
-&emsp;&emsp;After a person files a report under subparagraph (A), the person shall file an additionalreport within 48 hours after each time the person makes or contracts to make independent expenditures aggregating an additional $10,000 with respect to the same election as that to which the initial report relates.
+&emsp;&emsp;After a person files a report under subparagraph (A), the person shall file an additional report within 48 hours after each time the person makes or contracts to make independent expenditures aggregating an additional $10,000 with respect to the same election as that to which the initial report relates.
 
 #### (3) Place of filing; contents
 
@@ -450,7 +450,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the “applicable threshold” is $15,000, except that in determining whether the amount of bundled contributions provided to a committee by a person described in paragraph (7) exceeds the applicable threshold, there shall be excluded any contribution made to the committee by the person or the person's spouse.
+&emsp;&emsp;In this subsection, the “applicable threshold” is $15,000, except that in determining whether the amount of bundled contributions provided to a committee by a person described in paragraph (7) exceeds the applicable threshold, there shall be excluded anycontribution made to the committee by the person or the person's spouse.
 
 #### (B) Indexing
 
@@ -542,7 +542,7 @@ Subsec. (a)(11)(B). Pub. L. 107–155, §501, amended subpar. (B) generally. Pri
 
 Subsec. (a)(12). Pub. L. 107–155, §306, added par. (12).
 
-Subsec. (c)(2). Pub. L. 107–155, §212(a)(1), struck out concluding provisions which read as follows: “Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be filed within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved. Notwithstanding subsection (a)(5) of this section, the time at which the statement underthis subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
+Subsec. (c)(2). Pub. L. 107–155, §212(a)(1), struck out concluding provisions which read as follows: “Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be filed within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved. Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
 
 Subsec. (d)(1). Pub. L. 107–155, §212(b)(2)(B), inserted “or (g)” after “subsection (c)”.
 
@@ -648,7 +648,7 @@ Pub. L. 107–155, title II, §201(b), Mar. 27, 2002, 116 Stat. 90, provided tha
 
 #### Report Required To Be Filed By January 31, 1975
 
-Section 204(e) of Pub. L. 93–443 provided that notwithstanding the amendment to this section as to the time to file reports, nothing in Pub. L. 93–443 \[see Short Title note set out under section 431 of this title\] is to be construed as waiving the report required to be filed by Jan. 31, 1975 under the provisions of this section as in effect on Oct. 15, 1974, the date of enactment of Pub. L. 93–443.
+Pub. L. 93–443, title II, §204(e), Oct. 15, 1974, 88 Stat. 1278, provided that notwithstanding the amendment to this section as to the time to file reports, nothing in Pub. L. 93–443 \[see Short Title note set out under section 431 of this title\] is to be construed as waiving the report required to be filed by Jan. 31, 1975 under the provisions of this section as in effect on Oct. 15, 1974, the date of enactment of Pub. L. 93–443.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

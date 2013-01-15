@@ -80,7 +80,7 @@ The Investment Company Act of 1940, referred to in subsec. (b)(1), is title I of
 
 #### Effective Date of 1996 Amendment
 
-Section 1460(b) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1460(b), Aug. 20, 1996, 110 Stat. 1822, provided that:
 
 “(1)
 

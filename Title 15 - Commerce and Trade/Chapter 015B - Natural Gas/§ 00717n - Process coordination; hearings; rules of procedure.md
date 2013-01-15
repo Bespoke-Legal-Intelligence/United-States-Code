@@ -12,7 +12,7 @@ In this section, the term “Federal authorization”—
 
 #### (1) In general
 
-&emsp;The Commission shall act as the lead agency for the purposes of coordinating all applicable Federal authorizations and for the purposes of complying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;The Commission shall act as the lead agency for the purposes of coordinating all applicable Federal authorizations and for the purposes ofcomplying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Other agencies
 

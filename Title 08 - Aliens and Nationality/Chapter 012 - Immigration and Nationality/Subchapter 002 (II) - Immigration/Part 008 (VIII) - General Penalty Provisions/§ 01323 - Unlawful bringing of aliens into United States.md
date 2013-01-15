@@ -78,7 +78,7 @@ Amendment by section 671(b)(6), (7) of Pub. L. 104–208 effective as if include
 
 #### Effective Date of 1994 Amendment
 
-Section 209(b) of Pub. L. 103–416, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(8), Sept. 30, 1996, 110 Stat. 3009–722, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to aliens brought to the United States more than 60 days after the date of enactment of this Act \[Oct. 25, 1994\].”
+Pub. L. 103–416, title II, §209(b), Oct. 25, 1994, 108 Stat. 4312, as amended by Pub. L. 104–208, div. C, title VI, §671(b)(8), Sept. 30, 1996, 110 Stat. 3009–722, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to aliens brought to the United States more than 60 days after the date of enactment of this Act \[Oct. 25, 1994\].”
 
 Amendment by section 219(p) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 

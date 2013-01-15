@@ -88,7 +88,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 #### (B) Additional indicators
 
-&emsp;&emsp;The Secretary and a cooperating State or cooperating State agency may agree upon additional indicators of performance for the trade adjustment assistance program under this part, as appropriate.
+&emsp;&emsp;The Secretary and a cooperating State or cooperating State agency may agree uponadditional indicators of performance for the trade adjustment assistance program under this part, as appropriate.
 
 #### (3) Standards with respect to reliability of data
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated sub
 
 Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out “and” at end. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “as soon as practicable, interview the adversely affected worker regarding suitabletraining opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

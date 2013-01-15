@@ -12,7 +12,7 @@ A provision making it the duty of the Secretary of the Interior, as soon as prac
 
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Haleakala�AE8 National Park
+#### Haleakalā National Park
 
-Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
+Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakalā National Park, effective July 1, 1961, see section 396b of this title.
 

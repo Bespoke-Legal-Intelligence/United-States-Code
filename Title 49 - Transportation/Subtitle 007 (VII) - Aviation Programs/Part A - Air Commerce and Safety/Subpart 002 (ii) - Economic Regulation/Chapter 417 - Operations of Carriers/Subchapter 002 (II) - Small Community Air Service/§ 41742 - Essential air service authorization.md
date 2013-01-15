@@ -6,11 +6,11 @@ In General.—
 
 &emsp;(1)
 
-Authorization.—Out of the amounts received by the Federal Aviation Administration credited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter for each fiscal year.
+Authorization.—Out of the amounts received by the Federal Aviation Administration credited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 for each fiscal year is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter.
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
@@ -18,9 +18,13 @@ Authorization for additional employees.—In addition to amounts authorized unde
 
 (b)
 
-Funding for Small Community Air Service.—Notwithstanding any other provision of law, moneys credited to the account established under section 45303(a) of this title, including the funds derived from fees imposed under the authority contained in section 45301(a) of this title, shall be used to carry out the essential air service program under this subchapter. Notwithstanding section 47114(g) <sup>1</sup> of this title, any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.
+Distribution of Additional Funds.—Notwithstanding any other provision of law, in any fiscal year in which funds credited to the account established under section 45303, including the funds derived from fees imposed under the authority contained in section 45301(a), exceed the $50,000,000 made available under subsection (a)(1), such funds shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359.)
+(c)
+
+Availability of Funds.—The funds made available under this section shall remain available until expended.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99.)
 
 Historical and Revision Notes
 
@@ -42,13 +46,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(m); added Oct. 24, 1978, Pu
 
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 9502 of Title 26, Internal Revenue Code.
 
-Section 47114 of this title, referred to in subsec. (b), does not contain a subsec. (g).
-
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–95, §428(a)(1), inserted “for each fiscal year” before “is authorized” and substituted “under this subchapter” for “under this subchapter for each fiscal year”.
+
+Subsec. (a)(2). Pub. L. 112–95, §428(a)(2), substituted “, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015” for “and $54,699,454 for the period beginning on October 1, 2011, and ending on February 17, 2012,”.
+
+Pub. L. 112–91 substituted “and $54,699,454 for the period beginning on October 1, 2011, and ending on February 17, 2012,” for “and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,”.
+
+Subsec. (b). Pub. L. 112–95, §428(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, moneys credited to the account established under section 45303(a) of this title, including the funds derived from fees imposed under the authority contained in section 45301(a) of this title, shall be used to carry out the essential air service program under this subchapter. Notwithstanding section 47114(g) of this title, any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.”
+
+Subsec. (c). Pub. L. 112–95, §428(c), added subsec. (c).
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–30 substituted “there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011 and $50,309,016 for the period beginning on October 1, 2011, and ending on January 31, 2012,” for “there is authorized to be appropriated $77,000,000 for each fiscal year”.
 
-<b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “ofwhich not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
 
 Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
 
@@ -78,7 +90,7 @@ Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 644, provided in par
 
 #### Findings
 
-Section 278(b) of Pub. L. 104–264 provided that: “Congress finds that—
+Pub. L. 104–264, title II, §278(b), Oct. 9, 1996, 110 Stat. 3249, provided that: “Congress finds that—
 
 &emsp;“(1) air service in rural areas is essential to a national and international transportation network;
 
@@ -99,6 +111,4 @@ Section 278(b) of Pub. L. 104–264 provided that: “Congress finds that—
 &emsp;&emsp;“(D) has endured serious funding cuts in recent years; and
 
 &emsp;“(6) a reliable source of funding must be established to maintain air service in rural areas and the essential air service program.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

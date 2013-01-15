@@ -30,7 +30,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified 
 
 #### Codification
 
-Section was enacted as part of the Health Insurance Portability and Accountability Act of 1996, and not aspart of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Health Insurance Portability and Accountability Act of 1996, and not as part of the Social Security Act which comprises this chapter.
 
 #### Amendments
 

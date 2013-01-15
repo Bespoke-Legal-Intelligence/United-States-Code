@@ -1,6 +1,6 @@
 ### §3195. Cooperative information and education centers
 
-The Secretary is authorized in consultation with other Federal agencies, to investigate andplan for an information and education center for visitors to Alaska on not to exceed one thousand acres of Federal land at a site adjacent to the Alaska Highway, and to investigate and plan for similar centers in Anchorage and Fairbanks, Alaska. For the purposes of this investigation, the Secretary shall seek participation in the program planning and/or operation of such centers from appropriate agencies of the State of Alaska, and he is authorized to accept contributions of funds, personnel, and planning and program assistance from such State agencies, other Federal agencies, and Native representatives. The Secretary of Agriculture is authorized to investigate and plan for, in a similar manner, an information and education center for visitors to Alaska in either Juneau, Ketchikan, or Sitka, Alaska. No information center shall be developed pursuant to investigations and plans conducted under authority of this section unless and until such development is specifically authorized by Congress.
+The Secretary is authorized in consultation with other Federal agencies, to investigate and plan for an information and education center for visitors to Alaska on not to exceed one thousand acres of Federal land at a site adjacent to the Alaska Highway, and to investigate and plan for similar centers in Anchorage and Fairbanks, Alaska. For the purposes of this investigation, the Secretary shall seek participation in the program planning and/or operation of such centers from appropriate agencies of the State of Alaska, and he is authorized to accept contributions of funds, personnel, and planning and program assistance from such State agencies, other Federal agencies, and Native representatives. The Secretary of Agriculture is authorized to investigate and plan for, in a similar manner, an information and education center for visitors to Alaska in either Juneau, Ketchikan, or Sitka, Alaska. No information center shall be developed pursuant to investigations and plans conducted under authority of this section unless and until such development is specifically authorized by Congress.
 
 (Pub. L. 96–487, title XIII, §1305, Dec. 2, 1980, 94 Stat. 2478.)
 
@@ -28,7 +28,7 @@ Design.—Design of the center in subsection (a) shall be developed in consultat
 
 “(d)
 
-Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska colleges and universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
+Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska collegesand universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
 
 “(e)
 

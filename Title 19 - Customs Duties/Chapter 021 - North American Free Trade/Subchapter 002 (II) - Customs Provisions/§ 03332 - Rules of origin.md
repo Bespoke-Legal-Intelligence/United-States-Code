@@ -122,7 +122,7 @@ nc
 
 #### (5) Net cost method must be used in certain cases
 
-&emsp;An exporter or producer shall calculate the regional value-content of a good solely on thebasis of the net cost method described in paragraph (3), if—
+&emsp;An exporter or producer shall calculate the regional value-content of a good solely on the basis of the net cost method described in paragraph (3), if—
 
 &emsp;&emsp;(A) there is no transaction value for the good;
 
@@ -194,7 +194,7 @@ nc
 
 &emsp;&emsp;(A) the total cost incurred with respect to all goods produced by the producer of the good that can be reasonably allocated to the intermediate material; or
 
-&emsp;&emsp;(B) the aggregate of each cost that is part of the total cost incurred with respect to the intermediate material that can be reasonably allocated to that intermediate material.
+&emsp;&emsp;(B) the aggregate of each cost that is part of the total cost incurred with respect to theintermediate material that can be reasonably allocated to that intermediate material.
 
 #### (12) Indirect material
 
@@ -264,7 +264,7 @@ nc
 
 &emsp;&emsp;(A) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 56 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 62.5 percent calculated under the net cost method, for—
 
-&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
+&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons providedfor in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
@@ -318,9 +318,9 @@ nc
 
 &emsp;Except as provided in paragraphs (3), (4), (5), and (6), a good shall be considered to be an originating good if—
 
-&emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good thatdo not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
+&emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good that do not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
 
-&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of the Customs Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
+&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of theCustoms Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
 
 > &emsp;provided that the good satisfies all other applicable requirements of this section and, if the good is subject to a regional value-content requirement, the value of such nonoriginating materials is taken into account in calculating the regional value-content of the good.
 
@@ -392,7 +392,7 @@ nc
 
 #### (5) Goods provided for in chapters 1 through 27 of the HTS
 
-&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 of the HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 ofthe HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
@@ -446,7 +446,7 @@ Packing materials and containers in which a good is packed for shipment shall be
 
 A good shall not be considered to be an originating good by reason of having undergone production that satisfies the requirements of subsection (a) of this section if, subsequent to that production, the good undergoes further production or any other operation outside the territories of the NAFTA countries, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the territory of a NAFTA country.
 
-#### (<i>l</i>) Nonqualifying operations
+#### (l) Nonqualifying operations
 
 A good shall not be considered to be an originating good merely by reason of—
 
@@ -478,7 +478,7 @@ For purposes of this section:
 
 Notwithstanding any other provision of this section, when the NAFTA countries apply the rate of duty described in paragraph 1 of section A of Annex 308.1 of the Agreement to a good provided for under the tariff provisions set out in Table 308.1.1 of such Annex, the good shall, upon importation from a NAFTA country, be deemed to originate in the territory of a NAFTA country for purposes of this section.
 
-#### (<i>o</i>) Special rule for certain agricultural products
+#### (o) Special rule for certain agricultural products
 
 Notwithstanding any other provision of this section, for purposes of applying a rate of duty to a good provided for in—
 
@@ -546,7 +546,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) production in the territory of one or more of the NAFTA countries; or
 
-&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, if such goods are fit only for the recovery of raw materials; and
+&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, ifsuch goods are fit only for the recovery of raw materials; and
 
 &emsp;&emsp;(J) goods produced in the territory of one or more of the NAFTA countries exclusively from goods referred to in subparagraphs (A) through (I), or from their derivatives, at any stage of production.
 
@@ -782,7 +782,7 @@ This title, referred to in subsec. (q)(1)(B), is title II of Pub. L. 103–182, 
 
 <b>1998</b>—Subsec. (n). Pub. L. 105–206 struck out “most-favored-nation” before “rate of duty”.
 
-<b>1996</b>—Subsec. (m)(4)(C). Pub. L. 104–295, §21(a)(2)(A), substituted “subsection (p)” for “subsection (<i>o</i>)”.
+<b>1996</b>—Subsec. (m)(4)(C). Pub. L. 104–295, §21(a)(2)(A), substituted “subsection (p)” for “subsection (o)”.
 
 Subsec. (p)(18). Pub. L. 104–295, §21(a)(2)(B), substituted “Federal Government” for “federal government”.
 

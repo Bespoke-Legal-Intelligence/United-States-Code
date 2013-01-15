@@ -36,7 +36,7 @@ The provisions of subsection (b)(2) of this section shall not apply in any case 
 
 &emsp;(3) other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2) of this section.
 
-(July 31, 1945, ch. 339, §45, as added Pub. L. 98–181, title VIII, §806, Nov. 30, 1983, 97 Stat. 1272.)
+(July 31, 1945, ch. 339, §45, as added Pub. L. 98–181, title I \[title VIII, §806\], Nov. 30, 1983, 97 Stat. 1272.)
 
 #### Change of Name
 

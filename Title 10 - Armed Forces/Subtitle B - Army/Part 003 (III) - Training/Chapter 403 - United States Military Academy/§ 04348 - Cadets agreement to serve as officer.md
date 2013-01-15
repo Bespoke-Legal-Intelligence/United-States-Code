@@ -18,7 +18,7 @@
 
 &emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title, the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
 
-(b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+(b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to activeduty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
@@ -96,7 +96,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
 #### Effective Date of 1996 Amendment
 
-Section 531(e) of Pub. L. 104–106 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
+Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: “The amendments made bythis section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
 
 #### Effective Date of 1989 Amendment
 
@@ -104,7 +104,7 @@ Amendment by section 511(b) of Pub. L. 101–189 applicable to persons who are f
 
 #### Effective Date of 1985 Amendment
 
-Section 512(e) of Pub. L. 99–145 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6959 and 9348 of this title\] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
+Pub. L. 99–145, title V, §512(e), Nov. 8, 1985, 99 Stat. 626, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6959 and 9348 of this title\] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
 
 &emsp;“(1) shall take effect with respect to each military department on the date on which regulations prescribed by the Secretary of that military department in accordance with subsection (d) \[set out below\] take effect; and
 
@@ -112,15 +112,15 @@ Section 512(e) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Section 541(d) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title V, §541(d), Oct. 19, 1984, 98 Stat. 2529, provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
-Section 5(c) of Pub. L. 88–276 provided that: “The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act.”
+Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: “The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act.”
 
 #### Regulations Implementing 1985 Amendment
 
-Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
+Pub. L. 99–145, title V, §512(d), Nov. 8, 1985, 99 Stat. 626, provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
 
 #### Savings Provision
 
@@ -144,7 +144,7 @@ In general.—Not later than July 1, 2007, the Secretary of Defense shall prescr
 
 &emsp;“(2)
 
-Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ TrainingCorps, including policies on authorized leaves of absence and policies under excess leave programs.
+Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
 
 &emsp;“(3)
 

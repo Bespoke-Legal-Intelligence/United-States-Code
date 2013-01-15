@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There is established, as an independent establishment of the executive branch of the United States Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
+There is established, as an independent establishment of the executive branch of the UnitedStates Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
 
 #### (b) Board of Trustees
 
-The Foundation shall be subject to the supervision and direction of the Board of Trustees.The Board shall be composed of 13 members, as follows:
+The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be composed of 13 members, as follows:
 
 &emsp;(1) Two members from the Senate, one appointed by the majority leader and one appointed by the minority leader of the Senate.
 

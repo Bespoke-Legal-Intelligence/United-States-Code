@@ -10,11 +10,18 @@
 | [53106\.](%C2%A7%2053106%20-%20Payments.md) | Payments. |
 | [53107\.](%C2%A7%2053107%20-%20National%20security%20requirements.md) | National security requirements. |
 | [53108\.](%C2%A7%2053108%20-%20Regulatory%20relief.md) | Regulatory relief. |
-| [53109\.](%C2%A7%2053109%20-%20Special%20rule%20regarding%20age%20of%20participating%20fleet%20vessel.md) | Special rule regarding age of participating fleet vessel. |
+| [53109\.](%C2%A7%2053109%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73508%28h%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202225.md) | Special rule regarding age of participating fleet vessel.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [53110\.](%C2%A7%2053110%20-%20Regulations.md) | Regulations. |
 | [53111\.](%C2%A7%2053111%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> Section repealed by Pub. L. 112–239 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -29,6 +36,6 @@
 - [&sect; 53106 - Payments](%C2%A7%2053106%20-%20Payments.md)
 - [&sect; 53107 - National security requirements](%C2%A7%2053107%20-%20National%20security%20requirements.md)
 - [&sect; 53108 - Regulatory relief](%C2%A7%2053108%20-%20Regulatory%20relief.md)
-- [&sect; 53109 - Special rule regarding age of participating fleet vessel](%C2%A7%2053109%20-%20Special%20rule%20regarding%20age%20of%20participating%20fleet%20vessel.md)
+- [&sect; 53109 - Repealed. Pub. L. 112&#8211;239, div. C, title XXXV, &sect;3508(h), Jan. 2, 2013, 126 Stat. 2225](%C2%A7%2053109%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73508%28h%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202225.md)
 - [&sect; 53110 - Regulations](%C2%A7%2053110%20-%20Regulations.md)
 - [&sect; 53111 - Authorization of appropriations](%C2%A7%2053111%20-%20Authorization%20of%20appropriations.md)

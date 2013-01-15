@@ -56,7 +56,7 @@ Subsecs. (d), (e). Pub. L. 100–687, §205, added subsecs. (d) and (e) and stru
 
 #### Effective Date of 1991 Amendment
 
-Section 14(g)(2) of Pub. L. 102–54 provided that the amendment made by that section is effective Nov. 18, 1988.
+Pub. L. 102–54, §14(g)(2), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective Nov. 18, 1988.
 
 #### Effective Date of 1988 Amendment
 
@@ -64,5 +64,5 @@ Amendment by sections 101(b) and 204 of Pub. L. 100–687 effective Sept. 1, 198
 
 #### Effective Date of 1961 Amendment
 
-Section 2 of Pub. L. 87–97 provided that: “The amendment made by this Act \[amending this section\] shall take effect as of January 1, 1962.”
+Pub. L. 87–97, §2, July 20, 1961, 75 Stat. 215, provided that: “The amendment made by this Act \[amending this section\] shall take effect as of January 1, 1962.”
 

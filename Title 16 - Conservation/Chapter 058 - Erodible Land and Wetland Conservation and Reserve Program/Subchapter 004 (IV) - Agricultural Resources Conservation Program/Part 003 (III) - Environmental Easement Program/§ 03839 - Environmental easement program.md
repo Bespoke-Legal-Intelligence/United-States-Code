@@ -26,7 +26,7 @@ The Secretary shall, during the 1991 through 1995 calendar years, formulate and 
 
 #### (3) Termination of existing contract
 
-&emsp;The Secretary may terminate or modify any existing contract entered into under section 3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this part.
+&emsp;The Secretary may terminate or modify any existing contract entered into under section3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this part.
 
 (Pub. L. 99–198, title XII, §1239, as added Pub. L. 101–624, title XIV, §1440, Nov. 28, 1990, 104 Stat. 3597; amended Pub. L. 102–237, title II, §204(7), Dec. 13, 1991, 105 Stat. 1855.)
 

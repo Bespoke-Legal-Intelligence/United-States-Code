@@ -16,7 +16,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 (2) This subsection shall not apply to an event if the contributing sponsor, or the member of the contributing sponsor's controlled group to which the event relates, is—
 
-&emsp;(A) a person subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m, 78<i>o</i>(d)\], or
+&emsp;(A) a person subject to the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m, 78o(d)\], or
 
 &emsp;(B) a subsidiary (as defined for purposes of such Act \[15 U.S.C. 78a et seq.\]) of a person subject to such reporting requirements.
 
@@ -92,7 +92,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act Ju
 
 <b>2006</b>—Subsec. (c)(7). Pub. L. 109–280 substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465, §771(a), (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which section 1321 of this title applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §771(a), (e)(1), in first sentence, inserted “or the contributing sponsor”after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which section 1321 of this title applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
 
 Subsec. (b). Pub. L. 103–465, §771(b), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -104,7 +104,7 @@ Subsecs. (d), (e). Pub. L. 103–465, §771(b), (e)(1), redesignated subsecs. (c
 
 Subsec. (f). Pub. L. 103–465, §771(d), added subsec. (f).
 
-<b>1989</b>—Subsec. (b)(4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2006 Amendment
 

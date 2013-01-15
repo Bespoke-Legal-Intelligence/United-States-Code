@@ -58,7 +58,7 @@ For purposes of this section—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&emsp;(3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
+&emsp;(3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Courtfor 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
 
 &emsp;(4) Any judge who becomes permanently disabled from performing his duties shall retire.
 
@@ -188,7 +188,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(ii) section 7448(g) shall not apply, and the amount credited to such individual's account (together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount requiredby the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
 &emsp;&emsp;(D) the Tax Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (e), and
 
@@ -208,7 +208,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Applicability of title 5 provisions
 
-&emsp;Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of title 5, United States Code,shall apply with respect to a judge who makes an election under paragraph (1).
+&emsp;Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of title 5, United States Code, shall apply with respect to a judge who makes an election under paragraph (1).
 
 #### (3) Special rules
 
@@ -278,7 +278,7 @@ Subsec. (b). Pub. L. 91–172, §954(a), substituted provisions authorizing reti
 
 Subsec. (d). Pub. L. 91–172, §954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
 
-Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted “civil service retirement laws” and “such civil serviceretirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
+Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
 
 Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
@@ -296,11 +296,11 @@ Pub. L. 109–280, title VIII, §853(b), Aug. 17, 2006, 120 Stat. 1017, provided
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(k)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act \[Nov. 10, 1988\] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
+Pub. L. 100–647, title I, §1015(k)(2), Nov. 10, 1988, 102 Stat. 3571, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act \[Nov. 10, 1988\] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1557(e) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1557(e), Oct. 22, 1986, 100 Stat. 2757, provided that:
 
 “(1)
 
@@ -312,27 +312,27 @@ Forfeiture of retired pay.—The amendments made by this section shall not apply
 
 #### Effective Date of 1978 Amendment
 
-Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
+Pub. L. 95–472, §2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
+Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
 
 #### Effective Date of 1969 Amendment
 
 Amendment by sections 954(c), (e) and 960(c), (d) of Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
 
-Section 962(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
+Pub. L. 91–172, title IX, §962(d), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
 
 &emsp;“(1) all judges of the Tax Court retiring on or after the date of enactment of this Act \[Dec. 30, 1969\], and
 
 &emsp;“(2) all individuals performing judicial duties pursuant to section 7447(c) or receiving retired pay pursuant to section 7447(d) on the day preceding the date of enactment of this Act \[Dec. 30, 1969\].
 
-> Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act \[Dec. 30, 1969\] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bears the same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the Tax Court shall be determined in the manner set forth in section 7447(d) of such Code.”
+> Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act \[Dec. 30, 1969\] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bears the same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the TaxCourt shall be determined in the manner set forth in section 7447(d) of such Code.”
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–354, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act \[amending this section and section 1106 of I.R.C. 1939\] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on or after the first day of the first calendar month which begins after the date of enactment of this Act \[Feb. 2, 1966\].”
+Pub. L. 89–354, §2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act \[amending this section and section 1106 of I.R.C. 1939\] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on or after the first day of the first calendar month which begins after the date of enactment of this Act \[Feb. 2, 1966\].”
 
 #### Transfer of Functions
 
@@ -340,5 +340,5 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 
 #### Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service
 
-Section 2(b) of Pub. L. 95–472, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] within one year after the date of enactment of this Act \[Oct. 17, 1978\] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
+Pub. L. 95–472, §2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] within one year after the date of enactment of this Act \[Oct. 17, 1978\] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
 

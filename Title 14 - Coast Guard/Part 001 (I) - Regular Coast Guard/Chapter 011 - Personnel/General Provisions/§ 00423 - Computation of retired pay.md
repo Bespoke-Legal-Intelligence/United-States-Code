@@ -72,5 +72,5 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see Pub. L. 85–422, §9, May 20, 1958, 72 Stat. 130.
 

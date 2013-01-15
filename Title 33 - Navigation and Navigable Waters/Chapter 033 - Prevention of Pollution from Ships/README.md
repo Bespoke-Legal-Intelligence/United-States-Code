@@ -16,8 +16,8 @@
 | [1911\.](%C2%A7%2001911%20-%20Effect%20on%20other%20laws.md) | Effect on other laws. |
 | [1912\.](%C2%A7%2001912%20-%20International%20law.md) | International law. |
 | [1913\.](%C2%A7%2001913%20-%20Compliance%20reports.md) | Compliance reports. |
-| [1914\.](%C2%A7%2001914%20-%20Coordination.md) | Coordination. |
-| [1915\.](%C2%A7%2001915%20-%20Plastic%20pollution%20public%20education%20program.md) | Plastic pollution public education program. |
+| [1914\.](%C2%A7%2001914%20-%20Transferred.md) | Transferred. |
+| [1915\.](%C2%A7%2001915%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20VI%2C%20%C2%A7604%28d%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201577.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,5 +40,5 @@
 - [&sect; 01911 - Effect on other laws](%C2%A7%2001911%20-%20Effect%20on%20other%20laws.md)
 - [&sect; 01912 - International law](%C2%A7%2001912%20-%20International%20law.md)
 - [&sect; 01913 - Compliance reports](%C2%A7%2001913%20-%20Compliance%20reports.md)
-- [&sect; 01914 - Coordination](%C2%A7%2001914%20-%20Coordination.md)
-- [&sect; 01915 - Plastic pollution public education program](%C2%A7%2001915%20-%20Plastic%20pollution%20public%20education%20program.md)
+- [&sect; 01914 - Transferred](%C2%A7%2001914%20-%20Transferred.md)
+- [&sect; 01915 - Repealed. Pub. L. 112&#8211;213, title VI, &sect;604(d), Dec. 20, 2012, 126 Stat. 1577](%C2%A7%2001915%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20VI%2C%20%C2%A7604%28d%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201577.md)

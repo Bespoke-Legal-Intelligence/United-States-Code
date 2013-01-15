@@ -2,7 +2,7 @@
 
 (a) Subject to regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled to incentive pay, in the amount set forth in subsection (b) or (c), for the performance of hazardous duty required by orders. In this subsection, the term “hazardous duty” means duty—
 
-&emsp;(1) involving frequent and regular participation in aerial flight as a crew member, as determined by the Secretary concerned, exceptfor a member who is entitled to incentive pay under section 301a of this title;
+&emsp;(1) involving frequent and regular participation in aerial flight as a crew member, as determined by the Secretary concerned, except for a member who is entitled to incentive pay under section 301a of this title;
 
 &emsp;(2) involving frequent and regular participation in aerial flight, not as a crew member under paragraph (1);
 
@@ -162,7 +162,6 @@ $150&nbsp;&nbsp;
 | &nbsp; | Over | Over | Over | Over | Over | Over | Over |  |
 | &nbsp; | 14 | 16 | 18 | 20 | 22 | 24 | 25 |  |
 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 | O–7 and above | $200 | $200 | $200 | $200 | $200 | $200 | $150 | &nbsp; |
 | O–6 | 350 | 350 | 350 | 300 | 250 | 250 | 225 | &nbsp; |
 | O–5 | 350 | 350 | 350 | 300 | 250 | 250 | 225 | &nbsp; |
@@ -185,7 +184,7 @@ $150&nbsp;&nbsp;
 
 (d)(1) In time of war, the President may suspend the payment of incentive pay for any hazardous duty described in subsection (a).
 
-(2) A member is entitled to not more than two payments of incentive pay, authorized by thissection, for a period of time during which he qualifies for more than one payment of that pay.
+(2) A member is entitled to not more than two payments of incentive pay, authorized by this section, for a period of time during which he qualifies for more than one payment of that pay.
 
 (e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.
 
@@ -251,7 +250,7 @@ In subsection (b), the words preceding the tables are substituted for section 23
 
 In subsection (f), the words “a member of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned in section 301(d) of existing title 37. The words “when . . . performs, under orders, any duty described in subsection (a)(1)–(11) for members entitled to basic pay” are substituted for the words “when required by competent orders to perform any hazardous duty prescribed by or pursuant to section 235 of this title for members of the uniformed services entitled to receive basic pay and when in consequence of such orders they do perform any hazardous duty so prescribed”. The last sentence is substituted for section 301(e) (as applicable to (d)) of existing title 37.
 
-In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substitutedfor the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
+In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substituted for the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
 
 #### Amendments
 
@@ -345,7 +344,7 @@ Subsec. (c)(2). Pub. L. 98–525, §624(a)(3), substituted “(11)” for “(13
 
 Subsec. (b). Pub. L. 97–60, §111(b), amended table to reflect an upward adjustment in the monthly incentive pay.
 
-Subsec. (c). Pub. L. 97–60, §111(c), designated existing provisions as par. (1), inserted reference to cls. (11) and\(12) of subsec. (a) of this section and substituted “$83” for “$55”, and added par. (2).
+Subsec. (c). Pub. L. 97–60, §111(c), designated existing provisions as par. (1), inserted reference to cls. (11) and (12) of subsec. (a) of this section and substituted “$83” for “$55”, and added par. (2).
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–579, §3(a), redesignated cl. (4) as (2) and struck out former cl. (2) defining “hazardous duty” as including submarine duty. See section 301c(a)(5) of this title.
 
@@ -401,29 +400,29 @@ Amendment by section 1111(d)(1) of Pub. L. 102–190 effective Feb. 1, 1992, see
 
 #### Effective Date of 1986 Amendment
 
-Section 1342(h)(1) of Pub. L. 99–661 provided that: “The amendments made by subsections (a) through (d) \[amending this section and section 302 of this title and provisions set out as notes under sections 302b and 403 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Nov. 14, 1986\], whichever is later.”
+Pub. L. 99–661, div. A, title XIII, §1342(h)(1), Nov. 14, 1986, 100 Stat. 3992, provided that: “The amendments made by subsections (a) through (d) \[amending this section and section 302 of this title and provisions set out as notes under sections 302b and 403 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Nov. 14, 1986\], whichever is later.”
 
 #### Effective Date of 1985 Amendment
 
-Section 635(b) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §635(b), Nov. 8, 1985, 99 Stat. 648, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
-Section 647(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments of incentive pay for hazardous duty performed after September 30, 1985.”
+Pub. L. 99–145, title VI, §647(b), Nov. 8, 1985, 99 Stat. 655, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments of incentive pay for hazardous duty performed after September 30, 1985.”
 
 #### Effective Date of 1983 Amendment
 
-Section 903(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, §903(b), Sept. 24, 1983, 97 Stat. 635, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1983.”
 
 #### Effective Date of 1981 Amendment
 
-Section 111(d) of Pub. L. 97–60 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
+Pub. L. 97–60, title I, §111(d), Oct. 14, 1981, 95 Stat. 994, provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–579 effective Jan. 1, 1981, see section 3(g) of Pub. L. 96–579, set out as an Effective Date note under section 301c of this title.
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Section 2(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to incentive pay payable for months after August 1980.”
+Pub. L. 96–343, §2(c), Sept. 8, 1980, 94 Stat. 1124, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to incentive pay payable for months after August 1980.”
 
 #### Effective Date of 1974 Amendment
 
@@ -491,7 +490,7 @@ Coordination.—The Secretary of Defense shall prepare the implementation plan i
 
 No Effect on Fiscal Year 2008
 
-Obligations.—During fiscal year 2008, obligations incurred under subchapters I, II, and III of chapter 5 of title 37, United States Code, as amended by section 661, to provide bonuses, incentive pays, special pays, and similar payments to members of the uniformed services under such subchapters may not exceed the obligations that would be incurred in the absence of the amendments made by such section.”
+Obligations.—During fiscal year 2008, obligations incurred under subchapters I, II, and III of chapter 5 of title 37, United States Code, as amended by section 661, to provide bonuses, incentive pays, special pays, and similar payments to members of the uniformed services under such subchapters may not exceed the obligations that wouldbe incurred in the absence of the amendments made by such section.”
 
 #### Retention Incentives Initiative for Critically Short Military Occupational Specialties
 
@@ -527,13 +526,13 @@ Relationship to Other Incentives.—Incentives provided under this section are i
 
 “(e)
 
-Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
+Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 
 “(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the Armed Forces, the incentives that are to be provided under this section.”
 
 #### Persons Entitled To Receive Incentive Pay for Duty Involving Contact With Persons Afflicted With Leprosy
 
-Section 624(b) of Pub. L. 98–525 provided that: “A member of the uniformed services who is entitled on the day before the date of the enactment of this Act \[Oct. 19, 1984\] to receive incentive pay under section 301(a)(5) \[subsec. (a)(5) of this section\] (for the performance of duty involving intimate contact with persons afflicted with leprosy) shall continue to be entitled to such pay under such section as in effect on that day so long as the member continues (without a break) to be assigned to perform such duties on and after that day.”
+Pub. L. 98–525, title VI, §624(b), Oct. 19, 1984, 98 Stat. 2542, provided that: “A member of the uniformed services who is entitled on the day before the date of the enactment of this Act \[Oct. 19, 1984\] to receive incentive pay under section 301(a)(5) \[subsec. (a)(5) of this section\] (for the performance of duty involving intimate contact with persons afflicted with leprosy) shall continue to be entitled to such pay under such section as in effect on that day so long as the member continues (without a break) to be assigned to perform such duties on and after that day.”
 
 #### Executive Order No. 10152
 

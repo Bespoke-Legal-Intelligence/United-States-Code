@@ -28,7 +28,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the Protection Area shall be managed and administered by the Secretary in the same manner as the management area prescription designations identified for these lands in the 1997 Revision of the Land and Resource Management Plan for the Arapaho/Roosevelt National Forest and the Pawnee National Grasslands.Such management and administration shall be in accordance with the following:
+&emsp;Except as otherwise provided in this section, the Protection Area shall be managed and administered by the Secretary in the same manner as the management area prescription designations identified for these lands in the 1997 Revision of the Land and Resource Management Plan for the Arapaho/Roosevelt National Forest and the Pawnee National Grasslands. Such management and administration shall be in accordance with the following:
 
 #### (A) Grazing
 
@@ -68,9 +68,9 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;&emsp;(ii) Nonpermanent roads as needed for hazardous fuels reduction or other control of fire, insect or disease control projects, or other management purposes.
 
-&emsp;&emsp;&emsp;(iii) Roads determined to be appropriate for reasonable access under section 539<i>l</i>–1(b)(2) of this title.
+&emsp;&emsp;&emsp;(iii) Roads determined to be appropriate for reasonable access under section 539l–1(b)(2) of this title.
 
-&emsp;&emsp;&emsp;(iv) A loop trail established pursuant to section 539<i>l</i>–3 of this title.
+&emsp;&emsp;&emsp;(iv) A loop trail established pursuant to section 539l–3 of this title.
 
 &emsp;&emsp;&emsp;(v) Construction of a trail for nonmotorized use following the corridor designated as the Continental Divide Trail.
 
@@ -80,7 +80,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (F) Special interest area
 
-&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
+&emsp;&emsp;The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
 
 #### (2) Natural gas pipeline
 
@@ -114,7 +114,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Change of Name
 
@@ -122,9 +122,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title
 
-Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act \[enacting this section and sections 539<i>l</i>–1 to 539<i>l</i>–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
+Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act \[enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
 
 #### “Secretary” Defined
 
-Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539<i>l</i> to 539<i>l</i>–5 of this title “Secretary” means the Secretary of Agriculture.
+Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539l to 539l–5 of this title “Secretary” means the Secretary of Agriculture.
 

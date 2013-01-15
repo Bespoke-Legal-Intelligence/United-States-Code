@@ -30,7 +30,7 @@ Section 35j, Pub. L. 88–210, §12, Dec. 18, 1963, 77 Stat. 411, established Ad
 
 Section 35k, Pub. L. 88–210, §13, Dec. 18, 1963, 77 Stat. 412, provided for creation and funding of work-study programs.
 
-Section 35<i>l</i>, Pub. L. 88–210, §14, Dec. 18, 1963, 77 Stat. 414, authorized grants for residential vocational education schools.
+Section 35l, Pub. L. 88–210, §14, Dec. 18, 1963, 77 Stat. 414, authorized grants for residential vocational education schools.
 
 Section 35m, Pub. L. 88–210, §15, Dec. 18, 1963, 77 Stat. 415, authorized appropriations for work-study and residential schools.
 

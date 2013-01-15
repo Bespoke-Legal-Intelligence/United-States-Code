@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Short Title
 
-Section 1 of Pub. L. 86–565 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘International Development Association Act’.”
+Pub. L. 86–565, §1, June 30, 1960, 74 Stat. 293, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘International Development Association Act’.”
 
 #### Par Value Modification
 

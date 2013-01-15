@@ -18,7 +18,7 @@ The amounts authorized to be appropriated to carry out the purposes of this subc
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–259 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The authority of the Secretary to perform remedial action under this subchapter shall terminate onSeptember 30, 1996, except that the authority of the Secretary to perform groundwater restoration activities under this subchapter is without limitation.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–259 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The authority of the Secretary to perform remedial action under this subchapter shall terminate on September 30, 1996, except that the authority of the Secretary to perform groundwater restoration activities under this subchapter is without limitation.”
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486 substituted “1996” for “1994”.
 

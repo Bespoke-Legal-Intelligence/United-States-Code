@@ -14,7 +14,7 @@ General.—To carry out this chapter and the Regional Rail Reorganization Act of
 
 &emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
-&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.); and
+&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.); and
 
 &emsp;(7) appoint a general manager of the Northeast Corridor improvement program.
 
@@ -26,11 +26,11 @@ Compensatory Agreements.—Rail freight and commuter rail passenger transportati
 
 Compensation for Transportation Over Certain Rights of Way and Facilities.—(1) An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
 
-(2) If the parties do not agree, the Interstate Commerce Commission shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Commission shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
+(2) If the parties do not agree, the Surface Transportation Board shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Board shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
 
-(3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Commission makes a decision under this subsection.
+(3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Board makes a decision under this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 934; Pub. L. 103–429, §6(22), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–134, title IV, §405(b)(2), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §212(b)(2), Oct. 16, 2008, 122 Stat. 4924.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 934; Pub. L. 103–429, §6(22), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–134, title IV, §405(b)(2), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §212(b)(2), Oct. 16, 2008, 122 Stat. 4924; Pub. L. 112–141, div. C, title II, §32932(c)(4), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -130,11 +130,15 @@ This amends 49:24904(a)(2) to correct an error in the codification enacted by se
 
 #### References in Text
 
-The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan.2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), isPub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(2). Pub. L. 112–141 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission”.
+
+Subsec. (c)(3). Pub. L. 112–141, §32932(c)(4)(B), substituted “Board” for “Commission”.
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
 
@@ -142,11 +146,11 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 inserted “, by condemnation or otherwise,” after “acquire”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
-
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
 

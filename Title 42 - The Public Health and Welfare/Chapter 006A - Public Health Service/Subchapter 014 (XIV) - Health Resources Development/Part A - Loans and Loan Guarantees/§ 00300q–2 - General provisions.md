@@ -10,7 +10,7 @@
 
 (C) Any loan guarantee made by the Secretary under this part shall be incontestable (i) in the hands of an applicant on whose behalf such guarantee is made unless the applicant engaged in fraud or misrepresentation in securing such guarantee, and (ii) as to any person (or his successor in interest) who makes or contracts to make a loan to such applicant in reliance thereon unless such person (or his successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
 
-(D) Guarantees of loans under this part shall be subject to such further terms and conditionsas the Secretary determines to be necessary to assure that the purposes of this subchapter will be achieved.
+(D) Guarantees of loans under this part shall be subject to such further terms and conditions as the Secretary determines to be necessary to assure that the purposes of this subchapter will be achieved.
 
 #### (b) Loans; criteria for approval; terms and conditions; waiver of recovery of payments by United States
 
@@ -34,7 +34,7 @@
 
 &emsp;(i) to guarantee to such purchaser (and any successor in interest to such purchaser) payments of the principal and interest payable under such loan, and
 
-&emsp;(ii) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which, when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
+&emsp;(ii) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which, when added to theamount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
 
 (B) Any agreement under subparagraph (A)—
 
@@ -104,7 +104,7 @@ In subsec. (d), “chapter 31 of title 31” and “that chapter” substituted 
 
 #### Prior Provisions
 
-A prior section 1602 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat.2258; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(r), (s), 91 Stat. 385, was classified to section 300<i>o</i>–1 of this title, prior to repeal by Pub. L. 96–79, title II, §202(a), Oct. 4, 1979, 93 Stat. 632.
+A prior section 1602 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2258; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(r), (s), 91 Stat. 385, was classified to section 300o–1 of this title, prior to repeal by Pub. L. 96–79, title II, §202(a), Oct. 4, 1979, 93 Stat. 632.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Transportation shall establish a short sea transportation program and designate short sea transportation projects to be conducted under the program to mitigate landside congestion.
+Establishment.—The Secretary of Transportation shall establish a short sea transportation program and designate short sea transportation projects to be conducted under the program to mitigate landside congestion or to promote short sea transportation.
 
 (b)
 
@@ -18,15 +18,15 @@ Program Elements.—The program shall encourage the use of short sea transportat
 
 (c)
 
-Short Sea Transportation Routes.—The Secretary shall designate short sea transportation routes as extensions of the surface transportation system to focus public and private efforts to use the waterways to relieve landside congestion along coastal corridors. The Secretary may collect and disseminate data for the designation and delineation of short sea transportation routes.
+Short Sea Transportation Routes.—The Secretary shall designate short sea transportation routes as extensions of the surface transportation system to focus public and private efforts to use the waterways to relieve landside congestion along coastal corridors or to promote short sea transportation. The Secretary may collect and disseminate data for the designation and delineation of short sea transportation routes.
 
 (d)
 
-Project Designation.—The Secretary may designate a project to be a short sea transportation project if the Secretary determines that the project may—
+Project Designation.—The Secretary may designate a project to be a short sea transportation project if the Secretary determines that the project uses documented vessels and—
 
-&emsp;(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
+&emsp;(1) mitigates landside congestion; or
 
-&emsp;(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels.
+&emsp;(2) promotes short sea transportation.
 
 (e)
 
@@ -40,11 +40,11 @@ Elements of Program.—For a short sea transportation project designated under t
 
 (f)
 
-Multistate, State and Regional Transportation Planning.—The Secretary, in consultation with Federal entities and State and local governments, shall develop strategies to encourage the use of short sea transportation for transportation of passengers and cargo. The Secretary shall—
+Multistate, State and Regional Transportation Planning.—The Secretary, in consultation with Federal entities and State and local governments, may develop strategies to encourage the use of short sea transportation for transportation of passengers and cargo. The Secretary may—
 
 &emsp;(1) assess the extent to which States and local governments include short sea transportation and other marine transportation solutions in their transportation planning;
 
-&emsp;(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstate transport of freight and passengers in their transportation planning; and
+&emsp;(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstatetransport of freight and passengers in their transportation planning; and
 
 &emsp;(3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
 
@@ -74,9 +74,21 @@ Applications.—In order to receive a grant under the program, an applicant shal
 
 Non-federal share.—An applicant shall provide at least 20 percent of the project costs from non-Federal sources. In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760; amended Pub. L. 111–84, div. C, title XXXV, §3515, Oct. 28, 2009, 123 Stat. 2724.)
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760; amended Pub. L. 111–84, div. C, title XXXV, §3515, Oct. 28, 2009, 123 Stat. 2724; Pub. L. 112–213, title IV, §405(a), Dec. 20, 2012, 126 Stat. 1571.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–213, §405(a)(1), substituted “landside congestion or to promote short sea transportation.” for “landside congestion.”
+
+Subsec. (c). Pub. L. 112–213, §405(a)(2), substituted “coastal corridors or to promote short sea transportation” for “coastal corridors”.
+
+Subsec. (d). Pub. L. 112–213, §405(a)(3), substituted “that the project uses documented vessels and—” for “that the project may—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) offer a waterborne alternative to available landside transportation services using documented vessels; and
+
+“(2) provide transportation services for passengers or freight (or both) that may reduce congestion on landside infrastructure using documented vessels.”
+
+Subsec. (f). Pub. L. 112–213, §405(a)(4), substituted “may” for “shall” in two places in introductory provisions.
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 

@@ -22,5 +22,5 @@
 
 #### Effective Date of 1986 Amendment
 
-Section 1514(f) of Pub. L. 99–498 provided that amendment made by Pub. L. 99–498 is effective Oct. 1, 1986.
+Pub. L. 99–498, title XV, §1514(f), Oct. 17, 1986, 100 Stat. 1608, provided that amendment made by Pub. L. 99–498 is effective Oct. 1, 1986.
 

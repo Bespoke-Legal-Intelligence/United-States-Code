@@ -96,7 +96,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affectedby illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
@@ -200,7 +200,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(E) an assurance or certification that the programs or projects relating to child abuse and neglect carried out under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] comply with the requirements set forth in paragraph (1) and this paragraph;
 
-&emsp;&emsp;(F) an assurance or certification that programs and training conducted under this subchapter address the unique needs of unaccompanied homeless youth, including accessto enrollment and support services and that such youth are eligible for under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] and meet the requirements of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
+&emsp;&emsp;(F) an assurance or certification that programs and training conducted under this subchapter address the unique needs of unaccompanied homeless youth, including access to enrollment and support services and that such youth are eligible for under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] and meet the requirements of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
 &emsp;&emsp;(G) an assurance that the State, in developing the State plan described in paragraph (1), has collaborated with community-based prevention agencies and with families affected by child abuse or neglect.
 
@@ -408,7 +408,7 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 #### (B) Allotment adjustment
 
-&emsp;&emsp;In the case of a fiscal year for which subparagraph (A) applies and the grant funds are insufficient to satisfy the requirements of such subparagraph (A), paragraph (2), and paragraph (5), the Secretary shall, subject to paragraph (5), ratably reduce the allotment of each State for which the allotment under paragraph (2) is an amount that exceeds the applicable minimum under subparagraph (A), as necessary to ensure that each State receives the applicable minimum allotment under subparagraph (A).
+&emsp;&emsp;In the case of a fiscal year for which subparagraph (A) applies and the grant funds are insufficient to satisfy the requirements of such subparagraph (A), paragraph (2), and paragraph (5), the Secretary shall, subject toparagraph (5), ratably reduce the allotment of each State for which the allotment under paragraph (2) is an amount that exceeds the applicable minimum under subparagraph (A), as necessary to ensure that each State receives the applicable minimum allotment under subparagraph (A).
 
 #### (5) Hold harmless
 
@@ -522,7 +522,7 @@ Subsec. (d)(7). Pub. L. 111–320, §115(e)(3), added par. (7) and struck out fo
 
 Subsec. (d)(9). Pub. L. 111–320, §115(e)(4), substituted “child abuse or neglect” for “abuse or neglect”.
 
-Subsec. (d)(10). Pub. L. 111–320, §115(e)(5), added par. (10) and struck out former par. (10) which read as follows: “The number of child protective services workersresponsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.”
+Subsec. (d)(10). Pub. L. 111–320, §115(e)(5), added par. (10) and struck out former par. (10) which read as follows: “The number of child protective services workers responsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.”
 
 Subsec. (d)(11). Pub. L. 111–320, §115(e)(6), substituted “or neglect” for “and neglect”.
 
@@ -628,7 +628,7 @@ Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 1992 Amendment
 
-Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
+Pub. L. 102–295, title I, §114(d), May 28, 1992, 106 Stat. 195, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 \[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993.”\]
 
@@ -638,7 +638,7 @@ Pub. L. 108–36, title I, §114(e), June 25, 2003, 117 Stat. 812, required the 
 
 #### Congressional Findings
 
-Section 9(a) of Pub. L. 102–586 provided that: “The Congress finds that—
+Pub. L. 102–586, §9(a), Nov. 4, 1992, 106 Stat. 5036, provided that: “The Congress finds that—
 
 &emsp;“(1) circumstances surrounding the death of a young boy named Adam Mann in New York City prompted a shocking documentary focusing on the inability of child protection services to protect suffering children;
 

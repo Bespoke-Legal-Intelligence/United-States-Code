@@ -184,7 +184,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (2) Maximum amount
 
-&emsp;The Secretary shall not forgive more than $10,000 in the aggregate for any borrower underthis section, and no borrower shall receive loan forgiveness under this section for more than five years of service.
+&emsp;The Secretary shall not forgive more than $10,000 in the aggregate for any borrower under this section, and no borrower shall receive loan forgiveness under this section for more than five years of service.
 
 #### (d) Priority
 
@@ -216,9 +216,9 @@ In this section:
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
-&emsp;&emsp;(B)(i) provides audiology services under subsection (<i>ll</i>)(2) of section 1395x of title 42; or
+&emsp;&emsp;(B)(i) provides audiology services under subsection (ll)(2) of section 1395x of title 42; or
 
-&emsp;&emsp;(ii) meets or exceeds the qualifications for a qualified audiologist under subsection (<i>ll</i>)(4) of such section.
+&emsp;&emsp;(ii) meets or exceeds the qualifications for a qualified audiologist under subsection (ll)(4) of such section.
 
 #### (3) Early childhood educator
 
@@ -320,13 +320,13 @@ In this section:
 
 &emsp;&emsp;(A) has received, at a minimum, a graduate degree in speech-language pathology or communication sciences and disorders from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
-&emsp;&emsp;(B) provides speech-language pathology services under section 1395x(<i>ll</i>)(1) of title 42, or meets or exceeds the qualifications for a qualified speech-language pathologist under subsection (<i>ll</i>)(4) of such section.
+&emsp;&emsp;(B) provides speech-language pathology services under section 1395x(ll)(1) of title 42, or meets or exceeds the qualifications for a qualified speech-language pathologist under subsection (ll)(4) of such section.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
 
-(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
+(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV,§402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
 
 #### References in Text
 
@@ -338,7 +338,7 @@ The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter 
 
 Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
 
-<b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (<i>ll</i>)(4) of such section” for “under subsection (<i>ll</i>)(3) of such section”.
+<b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (ll)(4) of such section” for “under subsection (ll)(3) of such section”.
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
 

@@ -4,7 +4,7 @@ The conditions upon which a national banking association may retain or establish
 
 #### (a) Lawful and continuous operation
 
-A national banking association may retain and operate such branch or branches as it mayhave had in lawful operation on February 25, 1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
+A national banking association may retain and operate such branch or branches as it may have had in lawful operation on February 25, 1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
 
 #### (b) Converted State banks
 
@@ -36,13 +36,13 @@ A national banking association may, with the approval of the Comptroller of the 
 
 #### (d) Branches resulting from interstate merger transactions
 
-A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of this section) of such bank in accordance with section 1831u of this title.
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of thissection) of such bank in accordance with section 1831u of this title.
 
 #### (e) Exclusive authority for additional branches
 
 #### (1) In general
 
-&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorizedunder this section or section 1823(f), 1823(k), or 1831u of this title.
+&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
 
 #### (2) Retention of branches
 
@@ -116,7 +116,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 &emsp;&emsp;&emsp;(ii) does not become a branch of such bank as a result of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the acquisition by the bank of an insured depository institution or abranch of an insured depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) the acquisition by the bank of an insured depository institution or a branch of an insured depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the conversion, merger, or consolidation of any such institution or branch.
 
@@ -142,7 +142,7 @@ The term “branch” as used in this section shall be held to include any branc
 
 This section shall not be construed to amend or repeal section 25 of the Federal Reserve Act, as amended \[12 U.S.C. 601 et seq.\], authorizing the establishment by national banking associations of branches in foreign countries, or dependencies, or insular possessions of the United States.
 
-#### (<i>l</i>) “State bank” and “bank” defined
+#### (l) “State bank” and “bank” defined
 
 The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
@@ -178,7 +178,7 @@ Subsec. (g). Pub. L. 103–328, §103(a), added subsec. (g).
 
 Pub. L. 103–328, §102(b)(1)(A), redesignated subsec. (g) as (k).
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (<i>l</i>), respectively.
+Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (l), respectively.
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 

@@ -30,7 +30,7 @@
 
 &emsp;(ii)(I) if the term of office of such judge expires before the first day of the open enrollment period referred to in subparagraph (B)(i), the period of continued eligibility for enrollment shall be as described in subparagraph (B)(ii); but
 
-&emsp;(II) if the term of office of such judge expires on or after the first day of the open enrollment period referred to in subparagraph (B)(i),the period of continued eligibility shall not end until the last day of the calendar year next beginning after the end of the next full open enrollment period beginning after the date on which the term expires.
+&emsp;(II) if the term of office of such judge expires on or after the first day of the open enrollment period referred to in subparagraph (B)(i), the period of continued eligibility shall not end until the last day of the calendar year next beginning after the end of the next full open enrollment period beginning after the date on which the term expires.
 
 (2) In the event that a retired judge remains enrolled under chapter 89 of title 5 for a period of 5 consecutive years by virtue of paragraph (1) (taking into account only periods of coverage as an active judge immediately before retirement and as a retired judge pursuant to paragraph (1)), then, effective as of the day following the last day of that 5-year period—
 

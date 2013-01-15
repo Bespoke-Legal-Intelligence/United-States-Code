@@ -40,7 +40,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (A) Information regarding income and family size
 
-&emsp;&emsp;The information described in section 6103(<i>l</i>)(21) of title 26 <sup>1</sup> for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
+&emsp;&emsp;The information described in section 6103(l)(21) of title 26 <sup>1</sup> for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
 
 #### (B) Changes in circumstances
 
@@ -112,7 +112,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Secretary of the Treasury, the Secretary ofHomeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
+&emsp;&emsp;The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
 
 &emsp;&emsp;&emsp;(i) through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
 
@@ -158,7 +158,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) Reasonable effort
 
-&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
+&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm theaccuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
 
 #### (ii) Notice and opportunity to correct
 
@@ -174,7 +174,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a)on the basis of the information contained on the application.
+&emsp;&emsp;&emsp;Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a) on the basis of the information contained on the application.
 
 #### (ii) Eligibility or amount of credit or reduction
 
@@ -290,7 +290,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### References in Text
 
-Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(<i>l</i>)(21) of title 26, and section 5000A of title 26, referred to in subsecs. (a)(3) and (b)(3)(A), (5), were in the original “sections 36B(c)(2)(C) and 5000A(e)(2)”, “section 6103(<i>l</i>)(21)”, and “section 5000A”, respectively, and were translated as if they had been followed by “of the Internal Revenue Code of 1986”, to reflect the probable intent of Congress.
+Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(l)(21) of title 26, and section 5000A of title 26, referred to in subsecs. (a)(3) and (b)(3)(A), (5), were in the original “sections 36B(c)(2)(C) and 5000A(e)(2)”, “section 6103(l)(21)”, and “section 5000A”, respectively, and were translated as if they had been followed by “of the Internal Revenue Code of 1986”, to reflect the probable intent of Congress.
 
 This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 

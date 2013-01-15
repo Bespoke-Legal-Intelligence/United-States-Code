@@ -106,25 +106,25 @@ Amendment by Pub. L. 105–33 applicable to cost reporting periods beginning on 
 
 #### Effective Date of 1989 Amendment
 
-Section 6021(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments made for discharges occurring on or after the expiration of the 30-day period that begins on the date of the enactment of this Act \[Dec. 19, 1989\], regardless of the date of the merger or consolidation involved.”
+Pub. L. 101–239, title VI, §6021(b), Dec. 19, 1989, 103 Stat. 2167, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments made for discharges occurring on or after the expiration of the 30-day period that begins on the date of the enactment of this Act \[Dec. 19, 1989\], regardless of the date of the merger or consolidation involved.”
 
 #### Effective Date of 1986 Amendment
 
-Section 9311(a)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987.”
+Pub. L. 99–509, title IX, §9311(a)(2), Oct. 21, 1986, 100 Stat. 1997, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987.”
 
 #### Effective Date of 1982 Amendment
 
-Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title I, §117(b), Sept. 3, 1982, 96 Stat. 355, provided that: “The amendments made by subsection (a) \[amending this section and section 1395l of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
 
 #### Effective Date of 1977 Amendment
 
-Section 2(a)(4) of Pub. L. 95–142 provided that: “The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and services furnished on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: “The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and services furnished on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
+Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
 
 #### Development of Alternative Timing Methods of Periodic Interim Payments
 
@@ -132,7 +132,7 @@ Pub. L. 108–173, title IV, §405(c)(2), Dec. 8, 2003, 117 Stat. 2267, provided
 
 #### Transition
 
-Section 9311(a)(3) of Pub. L. 99–509 provided that: “Upon the request of a hospital which—
+Pub. L. 99–509, title IX, §9311(a)(3), Oct. 21, 1986, 100 Stat. 1997, provided that: “Upon the request of a hospital which—
 
 &emsp;“(A) as of June 30, 1987, is receiving payments under part A of title XVIII of such Act \[this part\] for inpatient hospital services on a periodic interim payment basis,
 
@@ -144,7 +144,7 @@ Section 9311(a)(3) of Pub. L. 99–509 provided that: “Upon the request of a h
 
 #### Delay in Periodic Interim Payments
 
-Section 120 of Pub. L. 97–248 provided that: “Notwithstanding section 1815(a) of the Social Security Act \[subsec. (a) of this section\], in the case of a hospital which is paid periodic interim payments under such section, the Secretary of Health and Human Services shall provide that—
+Pub. L. 97–248, title I, §120, Sept. 3, 1982, 96 Stat. 355, provided that: “Notwithstanding section 1815(a) of the Social Security Act \[subsec. (a) of this section\], in the case of a hospital which is paid periodic interim payments under such section, the Secretary of Health and Human Services shall provide that—
 
 &emsp;“(1) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1983, such payments shall be deferred until fiscal year 1984; and
 

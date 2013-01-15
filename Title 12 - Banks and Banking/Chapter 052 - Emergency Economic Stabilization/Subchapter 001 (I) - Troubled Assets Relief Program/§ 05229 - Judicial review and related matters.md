@@ -10,7 +10,7 @@
 
 #### (A) Injunction
 
-&emsp;&emsp;No injunction or other form of equitable relief shall be issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, other than to remedy a violation of the Constitution.
+&emsp;&emsp;No injunction or other form of equitable relief shall be issued against the Secretaryfor actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, other than to remedy a violation of the Constitution.
 
 #### (B) Temporary restraining order
 
@@ -46,7 +46,7 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(C), (D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

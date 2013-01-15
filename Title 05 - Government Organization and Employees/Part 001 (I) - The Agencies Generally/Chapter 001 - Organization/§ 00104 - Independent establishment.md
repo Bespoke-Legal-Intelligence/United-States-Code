@@ -12,7 +12,7 @@ For the purpose of this title, “independent establishment” means—
 
 The section is supplied to avoid the necessity for defining “independent establishment” each time it is used in this title.
 
-Certain agencies are not independent establishments under the definition since they are constituent agencies or parts of an independent establishment. However, these agencies would continue to be subject to the provisions of this title applicable to the independent establishment of which they are a constituent or part. Also, the definition does not expand or abridge any rights or authority possessed by these agencies as nosubstantive changes are intended, see section 7(a) of the bill.
+Certain agencies are not independent establishments under the definition since they are constituent agencies or parts of an independent establishment. However, these agencies would continue to be subject to the provisions of this title applicable to the independent establishment of which they are a constituent or part. Also, the definition does not expand or abridge any rights or authority possessed by these agencies as no substantive changes are intended, see section 7(a) of the bill.
 
 #### Amendments
 

@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
@@ -224,7 +224,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) if the alien is physically present in the United States at the time of filing the motion.
 
-&emsp;&emsp;&nbsp;The filing of a motion to reopen under this clause shall only stay the removal of a qualified alien (as defined in section 1641(c)(1)(B) of this title <sup>2</sup> pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
+&emsp;&emsp;&nbsp;The filing of a motion to reopen under this clause shall only stay the removal of aqualified alien (as defined in section 1641(c)(1)(B) of this title <sup>2</sup> pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
 
 #### (d) Stipulated removal
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and ImmigrantResponsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\].”
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\].”
 
 #### Effective Date
 
@@ -304,7 +304,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(2), Oct. 28, 2000, 114 Stat. 1528,
 
 In general.—Notwithstanding any limitation imposed by law on motions to reopen or rescind deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1101 note))—
 
-&emsp;“(I) there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specified in section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
+&emsp;“(I) there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specifiedin section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
 
 &emsp;&emsp;“(aa) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
 

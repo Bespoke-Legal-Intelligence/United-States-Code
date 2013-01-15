@@ -34,7 +34,7 @@
 
 (1) The Secretary may not approve an application for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title to an entity unless the application of the entity contains assurances satisfactory to the Secretary that the entity (A) has sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, or (B) would have such financial resources if a grant was made to the entity under paragraph (2).
 
-(2)(A) If in approving an application of an entity for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title the Secretary determines that the entity does not have sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, the Secretary may make a grant to the entity to assure that the member of the Corps assigned to it will receive during the period of assignment to the entity such an income.
+(2)(A) If in approving an application of an entity for the assignment of a member of the Corps described in subparagraph (C) of section 254d(a)(1) of this title the Secretary determines that the entity does not have sufficient financial resources to provide the member of the Corps with an income of not less than the income to which the member would be entitled if the member was a member described in subparagraph (B) of section 254d(a)(1) of this title, theSecretary may make a grant to the entity to assure that the member of the Corps assigned to it will receive during the period of assignment to the entity such an income.
 
 (B) The amount of any grant under subparagraph (A) shall be determined by the Secretary. Payments under such a grant may be made in advance or by way of reimbursement, and at such intervals and on such conditions, as the Secretary finds necessary. No grant may be made unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.
 
@@ -78,7 +78,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
+(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988,102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### Amendments
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1981 Amendment
 
-Section 2703(d) of Pub. L. 97–35 provided that the amendment made by that section is effective Oct. 1, 1981.
+Pub. L. 97–35, title XXVII, §2703(d), Aug. 13, 1981, 95 Stat. 905, provided that the amendment made by that section is effective Oct. 1, 1981.
 

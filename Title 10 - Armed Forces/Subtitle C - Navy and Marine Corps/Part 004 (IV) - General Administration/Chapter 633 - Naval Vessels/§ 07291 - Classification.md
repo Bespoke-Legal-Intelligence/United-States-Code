@@ -68,7 +68,7 @@ Limitation on Availability of Funds Pending Reports About Surface Combatant Ship
 
 &emsp;&emsp;“(D) The differences in cost and schedule arising from the need to accommodate new sensors and weapons in surface combatants to be constructed after fiscal year 2011 to counter the future threats referred to in paragraph (2), when compared with the cost and schedule arising from the need to accommodate sensors and weapons on surface combatants as contemplated by the 2009 shipbuilding plan for the vessels concerned.
 
-&emsp;“(4) The conclusions of a joint review by the Secretary of the Navy and the Director of the Missile Defense Agency setting forth additional requirements for investment in Aegis ballistic missile defense beyond the number of DDG–51 and CG–47 vessels planned to be equipped for this mission area in the budget of the President for fiscal year 2010 (as submitted to Congress pursuant to section 1105 of title 31, United States Code).
+&emsp;“(4) The conclusions of a joint review by the Secretary of the Navy and the Director of the Missile Defense Agency setting forth additional requirementsfor investment in Aegis ballistic missile defense beyond the number of DDG–51 and CG–47 vessels planned to be equipped for this mission area in the budget of the President for fiscal year 2010 (as submitted to Congress pursuant to section 1105 of title 31, United States Code).
 
 “(b)
 
@@ -162,7 +162,7 @@ Production readiness review.—The term ‘production readiness review’ means 
 
 #### Policy Relating to Major Combatant Vessels of the Strike Forces of the United States Navy
 
-Pub. L. 110–181, div. A, title X, §1012, Jan. 28, 2008, 122 Stat. 303, as amended by Pub. L. 110–417, \[div. A\], title X, §1015, Oct. 14, 2008, 122 Stat. 4586, provided that:
+Pub. L. 110–181, div. A, title X, §1012, Jan. 28, 2008, 122 Stat. 303, as amended by Pub. L. 110–417, \[div. A\], title X, §1015, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 112–239, div. A, title X, §1013, Jan. 2, 2013, 126 Stat. 1908, provided that:
 
 “(a)
 
@@ -170,7 +170,7 @@ Integrated Nuclear Power Systems.—It is the policy of the United States to con
 
 “(b)
 
-Requirement To Request Nuclear Vessels.—If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall be for such a vessel with an integrated nuclear power system, unless the Secretary of Defense submits with the request a notification to Congress that the inclusion of an integrated nuclear power system in such vessel is not in the national interest.
+Requirement To Request Nuclear Vessels.—If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall be for such a vessel with an integrated nuclear power system, unless the Secretary of the Navy notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that, as a result of a cost-benefit analysis, it would not be practical for the Navy to design the class of ships with an integrated nuclear power system.
 
 “(c)
 
@@ -186,7 +186,7 @@ Major combatant vessels of the strike forces of the united states navy.—The te
 
 &emsp;&emsp;“(C) Cruisers, battleships, or other large surface combatants whose primary mission includes protection of carrier strike groups, expeditionary strike groups, and vessels comprising a sea base.
 
-&emsp;&emsp;“(D) Amphibious assault ships, including dock landing ships (LSD), amphibious transport–dock ships (LPD), helicopter assault ships (LHA/LHD), and amphibious command ships (LCC), if such vessels exceed 15,000 dead weight ton light ship displacement.
+&emsp;&emsp;“(D) Amphibious assault ships, including dock landing ships (LSD), amphibious transport–dockships (LPD), helicopter assault ships (LHA/LHD), and amphibious command ships (LCC), if such vessels exceed 15,000 dead weight ton light ship displacement.
 
 &emsp;“(2)
 
@@ -296,7 +296,7 @@ Submission of Reports.—The reports under subsections (c), (d), and (e) shall b
 
 “(g)
 
-Penalty for Failure to Comply.—(1) Except as provided in paragraph (2), if the President fails to submit to Congress a comprehensive plan as required by subsection (b) by October 1, 1993, no funds appropriated to the Department of Defense for fiscal year 1994 may be used to enter into a contract for the construction, repair, or purchase of any product or service with any company that has headquarters in any country that continues to provide a subsidy to a foreign shipyard for the construction or repair of vessels or that engages in ship dumping practices.
+Penalty for Failure to Comply.—(1) Except as provided in paragraph (2), if the President fails to submit to Congress a comprehensive plan as required by subsection (b) by October 1, 1993, no funds appropriatedto the Department of Defense for fiscal year 1994 may be used to enter into a contract for the construction, repair, or purchase of any product or service with any company that has headquarters in any country that continues to provide a subsidy to a foreign shipyard for the construction or repair of vessels or that engages in ship dumping practices.
 
 “(2) Paragraph (1) shall not apply if the President—
 
@@ -470,7 +470,7 @@ Definition.—For the purposes of this section, the term ‘sensitive warship te
 
 Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that: “It is the sense of the Congress that—
 
-&emsp;“(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing to serve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
+&emsp;“(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing toserve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
 
 &emsp;“(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 

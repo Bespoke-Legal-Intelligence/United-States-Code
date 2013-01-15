@@ -2,7 +2,7 @@
 
 The Secretary of the Interior may, in his discretion, accept title to certain land in the town of Bar Harbor, Hancock County, Maine, held by the Jackson Laboratory, a nonprofit corporation organized and existing under the laws of the State of Maine, said land being more particularly described as follows:
 
-Beginning at a stone bound set in the ground in the southerly side of State Highway Numbered 3 leading from Bar Harbor to Seal Harbor, said stone bound also marking the northeasterly corner of land of the United States of Americaand the northwesterly corner of land of the Jackson Laboratory;
+Beginning at a stone bound set in the ground in the southerly side of State Highway Numbered 3 leading from Bar Harbor to Seal Harbor, said stone bound also marking the northeasterly corner of land of the United States of America and the northwesterly corner of land of the Jackson Laboratory;
 
 &emsp;thence north 72 degrees 58 minutes east and following the southerly side of State Highway Numbered 3, 80 feet to a stone bound set in the ground;
 

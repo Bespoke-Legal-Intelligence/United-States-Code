@@ -44,7 +44,7 @@ $2,500.
 
 #### (B) Amount of reduction
 
-&emsp;&emsp;The amount determined under this subparagraph is the amount which bears the same ratio to the amount which would be so taken into account as—
+&emsp;&emsp;The amount determined under this subparagraph is the amount which bears thesame ratio to the amount which would be so taken into account as—
 
 &emsp;&emsp;&emsp;(i) the excess of—
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (2) Qualified higher education expenses
 
-&emsp;The term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087<i>ll</i>, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of—
+&emsp;The term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount excluded from gross income under section 127, 135, 529, or 530 by reason of such expenses, and
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (1) Denial of double benefit
 
-&emsp;No deduction shall be allowed under this section for any amount for which a deduction isallowable under any other provision of this chapter.
+&emsp;No deduction shall be allowed under this section for any amount for which a deduction is allowable under any other provision of this chapter.
 
 #### (2) Married couples must file joint return
 
@@ -134,10 +134,6 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of the Taxpayer Relief Act of 1997, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
@@ -158,7 +154,7 @@ Subsec. (d)(4). Pub. L. 108–311, §207(20), inserted “(determined without re
 
 Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pub. L. 107–16, §412(b)(2). See 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §§412(b)(1), 901, temporarily amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+<b>2001</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §412(b)(1), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
 “(i) the excess of—
 
@@ -168,21 +164,19 @@ Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pu
 
 “(ii) $15,000.”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2)(C)(i). Pub. L. 107–16, §431(c)(2), inserted “222,” before “911”.
 
-Subsec. (b)(2)(C)(i). Pub. L. 107–16, §§431(c)(2), 901, temporarily inserted “222,” before “911”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d). Pub. L. 107–16, §412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
 
-Subsec. (d). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.” See Effective and Termination Dates of 2001 Amendment note below.
-
-Subsec. (e). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (e). Pub. L. 107–16, §412(a)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
 Subsec. (e)(2)(A). Pub. L. 107–16, §402(b)(2)(B), inserted “529,” after “135,”.
 
-Subsec. (f). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated former subsec. (g) as (f). Former subsec. (f) redesignated (e). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f). Pub. L. 107–16, §412(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 107–16, §§412(b)(2), 901, as amended by Pub. L. 108–311, §408(b)(5), temporarily substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”. See above and Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f)(1). Pub. L. 107–16, §412(b)(2), as amended by Pub. L. 108–311, §408(b)(5), substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”.
 
-Subsec. (g). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated former subsec. (g) as (f). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (g). Pub. L. 107–16, §412(a)(1), redesignated subsec. (g) as (f).
 
 <b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277, §4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
 
@@ -202,9 +196,9 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 Amendment by section 207(20) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendment by section 402(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 72 of this title.
+Amendment by section 402(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
 Pub. L. 107–16, title IV, §412(a)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by this subsection \[amending this section and section 6050S of this title\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date.”
 
@@ -212,11 +206,9 @@ Pub. L. 107–16, title IV, §412(b)(3), June 7, 2001, 115 Stat. 64, provided th
 
 Amendment by section 431(c)(2) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by sections 412(a)(1), (b)(1), (2) and 431(c)(2) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

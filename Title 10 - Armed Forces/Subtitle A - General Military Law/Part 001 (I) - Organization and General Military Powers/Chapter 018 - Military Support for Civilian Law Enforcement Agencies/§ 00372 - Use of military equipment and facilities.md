@@ -1,26 +1,14 @@
 ### §372. Use of military equipment and facilities
 
-(a)
+The Secretary of Defense may, in accordance with other applicable law, make available any equipment (including associated supplies or spare parts), base facility, or research facility of the Department of Defense to any Federal, State, or local civilian law enforcement official for law enforcement purposes.
 
-In General.—The Secretary of Defense may, in accordance with other applicable law, make available any equipment (including associated supplies or spare parts), base facility, or research facility of the Department of Defense to any Federal, State, or local civilian law enforcement official for law enforcement purposes.
-
-(b)
-
-Emergencies Involving Chemical and Biological Agents.—(1) In addition to equipment and facilities described in subsection (a), the Secretary may provide an item referred to in paragraph (2) to a Federal, State, or local law enforcement or emergency response agency to prepare for or respond to an emergency involving chemical or biological agents if the Secretary determines that the item is not reasonably available from another source. The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.
-
-(2) An item referred to in paragraph (1) is any material or expertise of the Department of Defense appropriate for use in preparing for or responding to an emergency involving chemical or biological agents, including the following:
-
-&emsp;(A) Training facilities.
-
-&emsp;(B) Sensors.
-
-&emsp;(C) Protective clothing.
-
-&emsp;(D) Antidotes.
-
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, §378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, §1416(b), Sept. 23, 1996, 110 Stat. 2723.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, §378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, §1416(b), Sept. 23, 1996, 110 Stat. 2723; Pub. L. 112–239, div. A, title III, §351, Jan. 2, 2013, 126 Stat. 1701.)
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239 struck out “(a)
+
+In General.—” before “The Secretary” and subsec. (b) which related to emergencies involving chemical and biological agents.
 
 <b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -8,7 +8,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(2) designing, conducting, and evaluating training and exercises, including training and exercises conducted under section 321a of this title and section 748 of this title;
 
-&emsp;(3) protecting a system or asset included on the prioritized critical infrastructure list established under section 124<i>l</i>(a)(2) of this title;
+&emsp;(3) protecting a system or asset included on the prioritized critical infrastructure list established under section 124l(a)(2) of this title;
 
 &emsp;(4) purchasing, upgrading, storing, or maintaining equipment, including computer hardware and software;
 
@@ -22,7 +22,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(9) supporting public safety answering points;
 
-&emsp;(10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
+&emsp;(10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether suchanalysts are current or new full-time employees or contract employees;
 
 &emsp;(11) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
@@ -62,7 +62,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 #### (B) Analysts
 
-&emsp;&emsp;If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed onthe period of time that the analyst can serve under the grant.
+&emsp;&emsp;If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
 
 #### (4) Construction
 
@@ -102,7 +102,7 @@ Nothing in this part shall be construed to prohibit State, local, or tribal gove
 
 #### (2) Performance of Federal duty
 
-&emsp;An applicant for a grant under section 604 or 605 of this title may petition the Administrator to use the funds from its grants under those sections for the reimbursement of the cost of any activity relating to preventing, preparing for, protecting against, or responding to acts of terrorism that is a Federal duty and usually performed by a Federal agency, and that is being performed by a State or local government under agreement with a Federal agency.
+&emsp;An applicant for a grant under section 604 or 605 of this title may petition the Administrator to use the funds from its grants underthose sections for the reimbursement of the cost of any activity relating to preventing, preparing for, protecting against, or responding to acts of terrorism that is a Federal duty and usually performed by a Federal agency, and that is being performed by a State or local government under agreement with a Federal agency.
 
 #### (e) Flexibility in unspent homeland security grant funds
 

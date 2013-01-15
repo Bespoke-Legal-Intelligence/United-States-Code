@@ -40,7 +40,7 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 &emsp;&emsp;&emsp;(i) the amount of the tax for such taxable year computed without regard to the deduction described in section 1341(a)(2),
 
-&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in taxprovided in section 1341(a)(5)(B) was computed,
+&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in tax provided in section 1341(a)(5)(B) was computed,
 
 &emsp;&emsp;&emsp;(iii) the amount determined under section 1341(a)(5)(B),
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, n
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–225 inserted “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year)” after “within a period of 12 months from the end of such taxable year”.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–721, §2(a)–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in section 46(b) of this title and and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–721, §2(a)–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in section 46(b) of this title and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
 
 Subsec. (b). Pub. L. 89–721, §2(d), inserted “or unused investment credit” after “net operating loss” in two places.
 
@@ -162,7 +162,7 @@ Notwithstanding section 715 of Pub. L. 98–369, amendment by section 714(n)(2)(
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 221(b)(2)(B) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981,see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
+Amendment by section 221(b)(2)(B) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981, see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
 
 Amendment by section 331(d)(2)(B) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 504(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 6213 and 6501 of this title\] shall apply to tentative refund claims filed on and after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §504(c), Nov. 6, 1978, 92 Stat. 2881, provided that: “The amendments made by this section \[amending this section and sections 6213 and 6501 of this title\] shall apply to tentative refund claims filed on and after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Effective Date of 1977 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 #### Effective Date of 1966 Amendment
 
-Section 2(g) of Pub. L. 89–721, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentative carryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966.”
+Pub. L. 89–721, §2(g), Nov. 2, 1966, 80 Stat. 1150, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentative carryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

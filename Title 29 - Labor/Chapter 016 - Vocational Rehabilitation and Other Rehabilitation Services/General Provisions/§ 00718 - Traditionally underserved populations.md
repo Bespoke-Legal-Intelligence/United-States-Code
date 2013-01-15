@@ -6,7 +6,7 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 #### (1) Racial profile
 
-&emsp;The racial profile of America is rapidly changing. While the rate of increase for white Americans is 3.2 percent, the rate of increase for racial and ethnic minorities is much higher: 38.6 percent for Latinos, 14.6 percent for African-Americans, and 40.1 percent for Asian-Americans and other ethnic groups. By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.
+&emsp;The racial profile of America is rapidly changing. While the rate of increase for whiteAmericans is 3.2 percent, the rate of increase for racial and ethnic minorities is much higher: 38.6 percent for Latinos, 14.6 percent for African-Americans, and 40.1 percent for Asian-Americans and other ethnic groups. By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.
 
 #### (2) Rate of disability
 
@@ -32,7 +32,7 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 &emsp;&emsp;(A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII of this chapter.
 
-&emsp;&emsp;(B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under thischapter, especially services provided to individuals from minority backgrounds.
+&emsp;&emsp;(B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under this chapter, especially services provided to individuals from minority backgrounds.
 
 &emsp;&emsp;(C) Making awards to entities described in paragraph (3) to provide outreach and technical assistance to minority entities and Indian tribes to promote their participation in activities funded under this chapter, including assistance to enhance their capacity to carry out such activities.
 

@@ -18,13 +18,13 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 #### Effective Date; Conversion and Savings Provisions
 
-Section 529 \[title I, §109(c)\] of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title V, §529 \[title I, §109(c)\], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that:
 
 “(1) This section and the amendments made by this section \[enacting this section, amending section 5102 of this title, and enacting provisions set out as a note below\] shall become effective on the first day of the first applicable pay period beginning on or after the 30th day following the date of enactment of this Act \[Nov. 5, 1990\].
 
 “(2)(A) A special pay rate (as defined in subparagraph (B)) shall apply to an individual holding a position if—
 
-&emsp;“(i) as a result of the initial exercise of authority with respect to such position under the amendmentmade by subsection (a)(1)(A) \[enacting this section\], such individual would (but for this paragraph) be paid—
+&emsp;“(i) as a result of the initial exercise of authority with respect to such position under the amendment made by subsection (a)(1)(A) \[enacting this section\], such individual would (but for this paragraph) be paid—
 
 &emsp;&emsp;“(I) at the step of the grade for which such special pay rate is then in effect; or
 
@@ -46,7 +46,7 @@ Section 529 \[title I, §109(c)\] of Pub. L. 101–509 provided that:
 
 #### Special Pay Rates Not Affected
 
-Section 529 \[title I, §109(b)\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(1), Oct. 2, 1992, 106 Stat. 1355, provided that: “Nothing in this section or in any amendment made by this section \[enacting this section, amending section 5102 of this title, and enacting provisions set out as a note above\] shall—
+Pub. L. 101–509, title V, §529 \[title I, §109(b)\], Nov. 5, 1990, 104 Stat. 1427, 1451, as amended by Pub. L. 102–378, §3(1), Oct. 2, 1992, 106 Stat. 1355, provided that: “Nothing in this section or in any amendment made by this section \[enacting this section, amending section 5102 of this title, and enacting provisions set out as a note above\] shall—
 
 &emsp;“(1) affect any special pay rate under section 5303 of title 5, United States Code, established before this section takes effect; or
 

@@ -58,5 +58,5 @@ In subsection (b)(2)(B), the words “When a carrier transfers a motor vehicle f
 
 #### Effective Date
 
-Section 4(u) of Pub. L. 103–272 provided that: “Not later than April 25, 1993, the Attorney General shall prescribe the regulations required under section 33110(c) of title 49, United States Code, as enacted by section 1 of this Act. Section 33110(b) of title 49 is effective not later than 3 months after those regulations are prescribed but not before the date on which the National Stolen Passenger Motor Vehicle Information System established under section 33109 of title 49 is operational.”
+Pub. L. 103–272, §4(u), July 5, 1994, 108 Stat. 1372, provided that: “Not later than April 25, 1993, the Attorney General shall prescribe the regulations required under section 33110(c) of title 49, United States Code, as enacted by section 1 of this Act. Section 33110(b) of title 49 is effective not later than 3 months after those regulations are prescribed but not before the date on which the National Stolen Passenger Motor Vehicle Information System established under section 33109 of title 49 is operational.”
 

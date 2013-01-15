@@ -48,7 +48,7 @@ Support.—In carrying out the program under this section, the Secretary is enco
 
 #### Alternatives to Mud Dump Site for Disposal of Dredged Material
 
-Section 412 of Pub. L. 101–640 provided that:
+Pub. L. 101–640, title IV, §412, Nov. 28, 1990, 104 Stat. 4650, provided that:
 
 “(a)
 
@@ -76,7 +76,7 @@ Demonstration Project.—The Secretary, in consultation with the Administrator o
 
 “(d)
 
-Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North,73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
 “(e)
 

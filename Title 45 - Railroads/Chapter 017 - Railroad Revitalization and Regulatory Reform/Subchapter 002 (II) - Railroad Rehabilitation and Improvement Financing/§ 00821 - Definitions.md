@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 &emsp;(3) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a Government asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims.
 
-&emsp;(4) The term “direct loan obligation” means a binding agreement by the Secretary to make a direct loan when specified conditions are fulfilled by the borrower.
+&emsp;(4) The term “direct loan obligation” means a binding agreement by the Secretary to makea direct loan when specified conditions are fulfilled by the borrower.
 
 &emsp;(5) The term “intermodal” means of or relating to the connection between rail service and other modes of transportation, including all parts of facilities at which such connection is made.
 

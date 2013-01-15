@@ -176,7 +176,7 @@ Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made af
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(h)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
+Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
 
 Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

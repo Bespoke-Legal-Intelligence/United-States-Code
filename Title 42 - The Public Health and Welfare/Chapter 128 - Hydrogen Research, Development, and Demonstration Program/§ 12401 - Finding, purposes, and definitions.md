@@ -34,9 +34,9 @@ Subsec. (c). Pub. L. 104–271, §101(b), added par. (2) and redesignated former
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–271 provided that: “This Act \[enacting section 7238 of this title, amending this section and sections 12402 to 12405, 12407, 12408, and 13436 of this title, and enacting provisions set out as notes under sections 7238, 12403, and 13436 of this title\] may be cited as the ‘Hydrogen Future Act of 1996’.”
+Pub. L. 104–271, §1, Oct. 9, 1996, 110 Stat. 3304, provided that: “This Act \[enacting section 7238 of this title, amending this section and sections 12402 to 12405, 12407, 12408, and 13436 of this title, and enacting provisions set out as notes under sections 7238, 12403, and 13436 of this title\] may be cited as the ‘Hydrogen Future Act of 1996’.”
 
 #### Short Title
 
-Section 101 of Pub. L. 101–566 provided that: “This Act \[enacting this chapter\] may be referred to as the ‘Spark M. Matsunaga Hydrogen Research, Development, and Demonstration Act of 1990’.”
+Pub. L. 101–566, title I, §101, Nov. 15, 1990, 104 Stat. 2797, provided that: “This Act \[enacting this chapter\] may be referred to as the ‘Spark M. Matsunaga Hydrogen Research, Development, and Demonstration Act of 1990’.”
 

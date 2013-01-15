@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–63 effective Oct. 1, 1981, see section 6 of Pub. L. 97
 
 Pub. L. 108–7, div. B, title II, §210, Feb. 20, 2003, 117 Stat. 78, provided that:
 
-“(a) The Secretary of Commerce is authorized to award grants and make direct lump sum payments insupport of an international advertising and promotional campaign developed in consultation with the private sector to encourage individuals to travel to the United States consisting of radio, television, and print advertising and marketing programs.
+“(a) The Secretary of Commerce is authorized to award grants and make direct lump sum payments in support of an international advertising and promotional campaign developed in consultation with the private sector to encourage individuals to travel to the United States consisting of radio, television, and print advertising and marketing programs.
 
 “(b) The United States Travel and Tourism Promotion Advisory Board (hereinafter ‘Board’) is established to recommend the appropriate coordinated activities to the Secretary for funding.
 
@@ -60,7 +60,7 @@ Pub. L. 108–7, div. B, title II, §210, Feb. 20, 2003, 117 Stat. 78, provided 
 
 #### Survey of International Air Travelers
 
-Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
+Pub. L. 102–372, §3, Sept. 30, 1992, 106 Stat. 1171, provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
 
 &emsp;“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
 
@@ -70,5 +70,5 @@ Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to t
 
 #### Report on Tourism and Travel Activities
 
-Section 18 of Pub. L. 102–372 directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary's actions under 22 U.S.C. 2122(8) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under 22 U.S.C. 2123c to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
+Pub. L. 102–372, §18, Sept. 30, 1992, 106 Stat. 1182, directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary's actions under 22 U.S.C. 2122(8) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under 22 U.S.C. 2123c to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
 

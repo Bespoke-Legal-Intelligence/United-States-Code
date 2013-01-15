@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Section 3311(a) of this title may not be construed as conferring Congressional approval of the entry into force of the Agreement for the United States with respect to countries other than Canada and Mexico.
+Section 3311(a) of this title may not be construed as conferring Congressional approval ofthe entry into force of the Agreement for the United States with respect to countries other than Canada and Mexico.
 
 #### (b) Future free trade area negotiations
 

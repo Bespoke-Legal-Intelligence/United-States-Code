@@ -22,7 +22,7 @@ Officers Serving in Office of DNI.—When a position in the Office of the Direct
 
 (e)
 
-Effect of Appointment.—Except as provided in subsection (a), the appointment or assignment of an officer of the armed forces to a position covered by this section shall not affect—
+Effect of Appointment.—Except as provided in subsection (a), the appointment or assignment of an officer of the armed forces to aposition covered by this section shall not affect—
 
 &emsp;(1) the status, position, rank, or grade of such officer in the armed forces; or
 

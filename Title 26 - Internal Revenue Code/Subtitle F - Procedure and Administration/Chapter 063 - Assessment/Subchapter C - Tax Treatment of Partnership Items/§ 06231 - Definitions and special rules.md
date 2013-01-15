@@ -134,9 +134,9 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;For purposes of section 6223(b) (relating to special rules for partnerships with more than100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
+&emsp;For purposes of section 6223(b) (relating to special rules for partnerships with more than 100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
 
-&emsp;&emsp;(A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as of the moment immediately before such disposition, or
+&emsp;&emsp;(A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as ofthe moment immediately before such disposition, or
 
 &emsp;&emsp;(B) in the case of any other partner, as of the close of the partnership taxable year.
 
@@ -218,9 +218,9 @@ Pub. L. 105–206, title III, §3507(b), July 22, 1998, 112 Stat. 772, provided 
 
 Amendment by section 1141(b) of Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1141(c) of Pub. L. 105–34, set out as a note under section 6031 of this title.
 
-Section 1232(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1232(b), Aug. 5, 1997, 111 Stat. 1023, provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1234(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1234(b), Aug. 5, 1997, 111 Stat. 1024, provided that: “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -228,5 +228,5 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Special Rule for Certain International Satellite Partnerships
 
-Section 406 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
+Pub. L. 97–248, title IV, §406, Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
 

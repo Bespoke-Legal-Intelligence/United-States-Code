@@ -2,7 +2,7 @@
 
 Subject to applicable regulations under this subtitle and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, horses and mules belonging to the Federal Government that have become unfit for service may be destroyed or put out to pasture, either on pastures belonging to the Government or those belonging to financially sound and reputable humane organizations whose facilities permit them to care for the horses and mules during the remainder of their natural lives, at no cost to the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1137; Pub. L. 111–350, §5(<i>l</i>)(13), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1137; Pub. L. 111–350, §5(l)(13), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

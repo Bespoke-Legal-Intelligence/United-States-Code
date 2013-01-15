@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 86–435, §1(d), added par. (4), and inserted reference to
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>)(1) of Pub. L. 88–272 set out as a note under section 316 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l)(1) of Pub. L. 88–272 set out as a note under section 316 of this title.
 
 #### Effective Date of 1960 Amendment
 

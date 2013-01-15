@@ -22,5 +22,5 @@ Congress finds that:
 
 #### Short Title
 
-Section 701 of title VII of Pub. L. 105–83 provided that: “This title \[enacting this part\] may be cited as the ‘Miccosukee Settlement Act of 1997’.”
+Pub. L. 105–83, title VII, §701, Nov. 14, 1997, 111 Stat. 1624, provided that: “This title \[enacting this part\] may be cited as the ‘Miccosukee Settlement Act of 1997’.”
 

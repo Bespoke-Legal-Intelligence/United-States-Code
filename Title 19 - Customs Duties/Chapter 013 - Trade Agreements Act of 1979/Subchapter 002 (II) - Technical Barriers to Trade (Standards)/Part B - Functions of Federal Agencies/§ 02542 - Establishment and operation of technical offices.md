@@ -12,7 +12,7 @@
 
 #### (b) Functions of offices
 
-The President shall prescribe for each technical office established under subsection (a) of this section such functions as the President deems necessary or appropriate to implement this subchapter.
+The President shall prescribe for each technical office established under subsection (a) ofthis section such functions as the President deems necessary or appropriate to implement this subchapter.
 
 (Pub. L. 96–39, title IV, §412, July 26, 1979, 93 Stat. 244.)
 

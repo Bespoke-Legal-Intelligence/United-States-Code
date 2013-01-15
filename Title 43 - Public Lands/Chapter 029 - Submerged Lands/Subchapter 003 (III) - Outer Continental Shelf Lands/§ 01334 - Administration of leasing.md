@@ -16,7 +16,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;&emsp;&emsp;(iii) the advantages of cancellation outweigh the advantages of continuing such lease or permit force;
 
-&emsp;&emsp;(B) that such cancellation shall not occur unless and until operations under such lease or permit shall have been under suspension, or temporary prohibition, by the Secretary, with due extension of any lease or permitterm continuously for a period of five years, or for a lesser period upon request of the lessee;
+&emsp;&emsp;(B) that such cancellation shall not occur unless and until operations under such lease or permit shall have been under suspension, or temporary prohibition, by the Secretary, with due extension of any lease or permit term continuously for a period of five years, or for a lesser period upon request of the lessee;
 
 &emsp;&emsp;(C) that such cancellation shall entitle the lessee to receive such compensation as he shows to the Secretary as being equal to the lesser of (i) the fair value of the canceled rights as of the date of cancellation, taking account of both anticipated revenues from the lease and anticipated costs, including costs of compliance with all applicable regulations and operating orders, liability for cleanup costs or damages, or both, in the case of an oilspill, and all other costs reasonably anticipated on the lease, or (ii) the excess, if any, over the lessee's revenues, from the lease (plus interest thereon from the date of receipt to date of reimbursement) of all consideration paid for the lease and all direct expenditures made by the lessee after the date of issuance of such lease and in connection with exploration or development, or both, pursuant to the lease (plus interest on such consideration and such expenditures from date of payment to date of reimbursement), except that (I) with respect to leases issued before September 18, 1978, such compensation shall be equal to the amount specified in clause (i) of this subparagraph; and (II) in the case of joint leases which are canceled due to the failure of one or more partners to exercise due diligence, the innocent parties shall have the right to seek damages for such loss from the responsible party or parties and the right to acquire the interests of the negligent party or parties and be issued the lease in question;
 
@@ -50,11 +50,11 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 #### (f) Competitive principles governing pipeline operation
 
-(1) Except as provided in paragraph (2), every permit, license, easement, right-of-way, or other grant of authority for the transportation by pipeline on or across the outer Continental Shelf of oil or gas shall require that the pipeline be operated in accordance with the following competitive principles:
+(1) Except as provided in paragraph (2), every permit, license, easement, right-of-way, or other grant of authority for the transportation by pipeline on or across the outer Continental Shelfof oil or gas shall require that the pipeline be operated in accordance with the following competitive principles:
 
 &emsp;(A) The pipeline must provide open and nondiscriminatory access to both owner and nonowner shippers.
 
-&emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion iswithin technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
+&emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
 
 (2) The Federal Energy Regulatory Commission may, by order or regulation, exempt from any or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
 
@@ -106,7 +106,7 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
 
-Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that hadset a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
+Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 
 Subsec. (c). Pub. L. 95–372 redesignated as subsec. (c) provisions formerly contained in subsec. (b)(1) covering the cancellation of nonproducing leases for failure of the owner to comply with any of the provisions of this subchapter, or of the lease, or of the regulations issued under this subchapter.
 
@@ -128,7 +128,7 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 
 #### West Delta Field
 
-Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
+Pub. L. 101–380, title VI, §6004(b), Aug. 18, 1990, 104 Stat. 558, provided that: “Section 5(j) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(j)\], as added by this section, shall not be applicable with respect to Blocks 17 and 18 of the West Delta Field offshore Louisiana.”
 
 #### Key Largo Coral Reef Preserve
 

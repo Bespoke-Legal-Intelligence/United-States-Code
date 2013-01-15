@@ -8,7 +8,7 @@
 
 &emsp;(2) extensive practical experience in financial management in large governmental or business entities.
 
-(c) The Controller of the Office of Federal Financial Management shall be the deputy and principal advisor to the Deputy Director for Management in the performance by the Deputy Director for Management of functions described in section 503(a).
+(c) The Controller of the Office of Federal Financial Management shall be the deputy and principal advisor to the Deputy Director for Management in the performance by the DeputyDirector for Management of functions described in section 503(a).
 
 (Added Pub. L. 101–576, title II, §203(a), Nov. 15, 1990, 104 Stat. 2841.)
 

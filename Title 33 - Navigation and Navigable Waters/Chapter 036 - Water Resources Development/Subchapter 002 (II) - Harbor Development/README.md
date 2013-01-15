@@ -13,6 +13,7 @@
 - [&sect; 02236 - Port or harbor dues](%C2%A7%2002236%20-%20Port%20or%20harbor%20dues.md)
 - [&sect; 02237 - Information for national security](%C2%A7%2002237%20-%20Information%20for%20national%20security.md)
 - [&sect; 02238 - Authorization of appropriations](%C2%A7%2002238%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 02238a - Estimate of harbor maintenance needs](%C2%A7%2002238a%20-%20Estimate%20of%20harbor%20maintenance%20needs.md)
 - [&sect; 02239 - Repealed. Pub. L. 101&#8211;640, title IV, &sect;412(f), Nov. 28, 1990, 104 Stat. 4650](%C2%A7%2002239%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20IV%2C%20%C2%A7412%28f%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204650.md)
 - [&sect; 02240 - Emergency response services](%C2%A7%2002240%20-%20Emergency%20response%20services.md)
 - [&sect; 02241 - Definitions](%C2%A7%2002241%20-%20Definitions.md)

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be, in the Department, an Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students through which the Secretary shall carry out functions relating to bilingual education.
+There shall be, in the Department, an Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students throughwhich the Secretary shall carry out functions relating to bilingual education.
 
 #### (b) Director
 

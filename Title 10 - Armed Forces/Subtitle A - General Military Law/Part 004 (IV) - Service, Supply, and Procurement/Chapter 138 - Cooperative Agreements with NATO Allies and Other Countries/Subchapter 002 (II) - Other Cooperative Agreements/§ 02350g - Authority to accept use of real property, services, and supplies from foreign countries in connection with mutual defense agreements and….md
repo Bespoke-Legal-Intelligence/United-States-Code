@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 <b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–65 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1) Not later than 30 days after the end of each quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on property, services, and supplies accepted by the Secretary under this section during the preceding quarter. The Secretary shall include in each such report a description of all property, services, and supplies having a value of more than $1,000,000.
+“(1) Not later than 30 days after the end of each quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on property, services, andsupplies accepted by the Secretary under this section during the preceding quarter. The Secretary shall include in each such report a description of all property, services, and supplies having a value of more than $1,000,000.
 
 “(2) In computing the value of any property, services, and supplies referred to in paragraph (1), the Secretary shall aggregate the value of—
 

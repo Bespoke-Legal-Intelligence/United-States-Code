@@ -50,7 +50,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(ii) a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
 
-&emsp;&emsp;(E) the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each ofthe services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers; and
+&emsp;&emsp;(E) the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers; and
 
 &emsp;&emsp;(F) the Secretary finds that granting such a waiver to a State will not adversely affect the quality of each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title.
 
@@ -132,7 +132,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 Prior sections 300m to 300m–6 were repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
-Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(<i>l</i>), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
+Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(l), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
 
 A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
 
@@ -144,7 +144,7 @@ Section 300m–3, act July 1, 1944, ch. 373, title XV, §1524, as added Jan. 4, 
 
 Section 300m–4, act July 1, 1944, ch. 373, title XV, §1525, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title I, §102(b), 91 Stat. 383; Oct. 4, 1979, Pub. L. 96–79, title I, §§107(c), 127(b), 93 Stat. 600, 629; Aug. 13, 1981, Pub. L. 97–35, title IX, §933(a)(2), 95 Stat. 570, provided for grants for State health planning and development.
 
-Section 300m–5, act July 1, 1944, ch. 373, title XV, §1526, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title I, §§102(c), 106(<i>o</i>), 91 Stat. 383, 385; Oct. 4, 1979, Pub. L. 96–79, title I, §§107(d), 120(c), 127(c), 93 Stat. 600, 622, 629, provided for grants for rate regulation.
+Section 300m–5, act July 1, 1944, ch. 373, title XV, §1526, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title I, §§102(c), 106(o), 91 Stat. 383, 385; Oct. 4, 1979, Pub. L. 96–79, title I, §§107(d), 120(c), 127(c), 93 Stat. 600, 622, 629, provided for grants for rate regulation.
 
 Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 1979, Pub. L. 96–79, title I, §117(a), 93 Stat. 614; amended Dec. 17, 1980, Pub. L. 96–538, title III, §§306, 307, 94 Stat. 3191; Aug. 13, 1981, Pub. L. 97–35, title IX, §949(c), 95 Stat. 578, related to certificate of need program.
 
@@ -156,7 +156,7 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies
 
-Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “non-Federal”.</i>
 

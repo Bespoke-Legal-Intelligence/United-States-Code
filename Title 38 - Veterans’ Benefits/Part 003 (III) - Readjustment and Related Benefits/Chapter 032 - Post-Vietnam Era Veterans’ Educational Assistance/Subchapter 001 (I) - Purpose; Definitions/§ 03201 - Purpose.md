@@ -24,7 +24,7 @@ For short titles of Pub. L. 94–502, and title IV of Pub. L. 94–502, which en
 
 #### Enrollment in Program Before April 1, 1987
 
-Section 309(c), (d) of Pub. L. 99–576 provided that:
+Pub. L. 99–576, title III, §309(c), (d), Oct. 28, 1986, 100 Stat. 3270, provided that:
 
 “(c)
 

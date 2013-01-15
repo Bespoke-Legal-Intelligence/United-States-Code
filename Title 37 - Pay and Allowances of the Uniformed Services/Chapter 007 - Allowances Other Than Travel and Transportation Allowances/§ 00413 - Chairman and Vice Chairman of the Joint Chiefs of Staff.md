@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 #### Effective Date of 1987 Amendment
 
-Section 1314(e)(2) of Pub. L. 100–180 provided that: “The amendments made by subsections (c)(1), (d)(3), and (d)(4) \[amending this section and provisions set out as notes under sections 431 and 1009 of this title\] shall take effect as of October 1, 1986.”
+Pub. L. 100–180, div. A, title XIII, §1314(e)(2), Dec. 4, 1987, 101 Stat. 1176, provided that: “The amendments made by subsections (c)(1), (d)(3), and (d)(4) \[amending this section and provisions set out as notes under sections 431 and 1009 of this title\] shall take effect as of October 1, 1986.”
 

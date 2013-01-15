@@ -52,7 +52,7 @@ The Secretary or agency head shall grant or renew a right-of-way or permit under
 
 The Secretary or agency head by regulation shall establish procedures, including public hearings where appropriate, to give Federal, State, and local government agencies and the public adequate notice and an opportunity to comment upon right-of-way applications filed after the date of enactment of this subsection.
 
-#### (<i>l</i>) Reimbursement of costs
+#### (l) Reimbursement of costs
 
 The applicant for a right-of-way or permit shall reimburse the United States for administrative and other costs incurred in processing the application, and the holder of a right-of-way or permit shall reimburse the United States for the costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities on such right-of-way or permit area and shall pay annually in advance the fair market rental value of the right-of-way or permit, as determined by the Secretary or agency head.
 
@@ -64,7 +64,7 @@ Where he deems it appropriate the Secretary or agency head may require a holder 
 
 Each right-of-way or permit granted or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project, but in no event more than thirty years. In determining the duration of a right-of-way the Secretary or agency head shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The Secretary or agency head shall renew any right-of-way, in accordance with the provisions of this section,so long as the project is in commercial operation and is operated and maintained in accordance with all of the provisions of this section.
 
-#### (<i>o</i>) Suspension or termination of right-of-way
+#### (o) Suspension or termination of right-of-way
 
 (1) Abandonment of a right-of-way or noncompliance with any provision of this section may be grounds for suspension or termination of the right-of-way if (A) after due notice to the holder of the right-of-way, (B) a reasonable opportunity to comply with this section, and (C) an appropriate administrative proceeding pursuant to section 554 of title 5, the Secretary or agency head determines that any such ground exists and that suspension or termination is justified. No administrative proceeding shall be required where the right-of-way by its terms provides that it terminates on the occurrence of a fixed or agreed upon condition, event, or time.
 
@@ -210,7 +210,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 #### Reimbursement of Administrative and Other Costs
 
-Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272, provided that: “Notwithstanding any other provision of law, hereafter money collected, in advance or otherwise, by the Forest Service under authority of section 101 of Public Law 93–153 (30 U.S.C. 185(1)\[(<i>l</i>)\]) as reimbursement of administrative and other costs incurred in processing pipeline right-of-way or permit applications and for costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities, may be used to reimburse the applicable appropriation to which such costs were originally charged.”
+Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272, provided that: “Notwithstanding any other provision of law, hereafter money collected, in advance or otherwise, by the Forest Service under authority of section 101 of Public Law 93–153 (30 U.S.C. 185(1)\[(l)\]) as reimbursement of administrative and other costs incurred in processing pipeline right-of-way or permit applications and for costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities, may be used to reimburse the applicable appropriation to which such costs were originally charged.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -230,7 +230,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 #### GAO Report
 
-Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production inCalifornia and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
+Pub. L. 104–58, title II, §202, Nov. 28, 1995, 109 Stat. 562, directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a reviewof energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
 
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 

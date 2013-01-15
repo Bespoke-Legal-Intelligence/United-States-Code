@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 &emsp;(13) the term “non-native species” means any species of animal or plant which is not indigenous to Antarctica and does not occur there seasonally through natural migrations;
 
-&emsp;(14) the term “person” has the meaning given that term in section 1 of title 1 and includes any person subject to the jurisdiction of the United States and any department,agency, or other instrumentality of the Federal Government or of any State or local government;
+&emsp;(14) the term “person” has the meaning given that term in section 1 of title 1 and includes any person subject to the jurisdiction of the United States and any department, agency, or other instrumentality of the Federal Government or of any State or local government;
 
 &emsp;(15) the term “prohibited product” means any substance banned from introduction onto land or ice shelves or into water in Antarctica pursuant to Annex III to the Protocol;
 

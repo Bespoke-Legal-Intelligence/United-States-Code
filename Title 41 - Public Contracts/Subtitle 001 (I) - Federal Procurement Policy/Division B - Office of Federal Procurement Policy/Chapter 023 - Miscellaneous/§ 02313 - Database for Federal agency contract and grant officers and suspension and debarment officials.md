@@ -30,6 +30,12 @@ Information Included.—With respect to a covered person, the database shall inc
 
 &emsp;&emsp;(D) To the maximum extent practicable and consistent with applicable laws and regulations, in a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in subparagraph (A), (B), or (C).
 
+&emsp;&emsp;(E) In an administrative proceeding—
+
+&emsp;&emsp;&emsp;(i) a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note; Public Law 111–84); or
+
+&emsp;&emsp;&emsp;(ii) a substantiated allegation, pursuant to section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, that the contractor, a subcontractor, or an agent of the contractor or subcontractor engaged in any of the activities described in section 106(g) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104(g)).
+
 &emsp;(2) Each Federal contract and grant awarded to the person that was terminated in the period due to default.
 
 &emsp;(3) Each Federal suspension and debarment of the person.
@@ -59,6 +65,10 @@ Timeliness and accuracy.—The Administrator of General Services shall develop p
 &emsp;&emsp;(B) the timely notification of any covered person when information relevant to the person is entered into the database; and
 
 &emsp;&emsp;(C) opportunities for any covered person to submit comments pertaining to information about the person for inclusion in the database.
+
+&emsp;(3)
+
+Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
 
 (e)
 
@@ -92,7 +102,7 @@ Disclosure in Applications.—The Federal Acquisition Regulation shall require t
 
 Rulemaking.—The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, §852, title XVII, §1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096.)
 
 #### Amendments Not Shown in Text
 
@@ -123,6 +133,16 @@ In subsection (c)(7), the word “practicable” is substituted for “practical
 In subsection (f), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall require” are substituted for “shall be amended to require” to reflect the permanence of the provision.
 
 In subsection (f)(2), the words “the information submitted under paragraph (1)” are substituted for “such information” for clarity.
+
+#### References in Text
+
+Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to section 7104b(b) of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (c)(1)(E). Pub. L. 112–239, §1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, §834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note).” See Amendments Not Shown in Text note above.
+
+Subsec. (d)(3). Pub. L. 112–239, §852, added par. (3).
 
 #### Deadline for Establishing Database
 

@@ -24,7 +24,7 @@ Payment Amount.—Payments made under subsection (a) may not exceed the unpaid c
 
 (d)
 
-Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Security for Advance Payments.—Advance payments made under subsection (a) maybe made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 (e)
 
@@ -36,7 +36,7 @@ Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure th
 
 (f)
 
-Conditions for Payments for Commercial Items.—(1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for suchpayments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+Conditions for Payments for Commercial Items.—(1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
@@ -76,7 +76,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 &emsp;(B) transmit a recommendation to the head of such agency whether the suspension or reduction should continue.
 
-(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
+(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of suchactions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
 
 (8) This subsection applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 2303(a) of this title.
 
@@ -160,13 +160,13 @@ Subsecs. (f), (g). Pub. L. 103–355, §2001(f), (g), added subsecs. (f) and (g)
 
 Subsec. (h). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (e) as (h).
 
-<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(<i>l</i>)” as par. designation after “(e)”.
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(l)” as par. designation after “(e)”.
 
 <b>1991</b>—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
 
 Subsec. (e). Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for “(<i>l</i>)” as par. designation after “(f)”, could not be executed because “(<i>l</i>)” did not appear after “(f)”.
+Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for “(l)” as par. designation after “(f)”, could not be executed because “(l)” did not appear after “(f)”.
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
@@ -190,17 +190,17 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 of title 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
+Pub. L. 101–510, div. A, title VIII, §836(c), Nov. 5, 1990, 104 Stat. 1616, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 of title 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 
-Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
+Pub. L. 103–355, title II, §2001(h), Oct. 13, 1994, 108 Stat. 3303, provided that: “The amendments made by this section \[amending this section and section 7522 of this title and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
 #### Limitations on Progress Payments
 
-Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that anyprogress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
+Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
 
 #### Obligations Entered Into Before November 16, 1973
 
-Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
+Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
 

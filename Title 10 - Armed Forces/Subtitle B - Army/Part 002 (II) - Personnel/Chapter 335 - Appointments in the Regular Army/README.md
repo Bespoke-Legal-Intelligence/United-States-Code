@@ -21,7 +21,7 @@
 
 <b>1958</b>—Pub. L. 85–861, §1(79)(B), Sept. 2, 1958, 72 Stat. 1468, added item 3314.
 
-<b>1957</b>—Pub. L. 85–155, title I, §101(9), (15), (17), Aug. 21, 1957, 71 Stat. 377, 379, substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in item 3291, “Army Medical Specialist” for “Women'sMedical Specialist Corps” and “promotion to lieutenant colonel or colonel” for “promotion to first lieutenant, captain, major, or lieutenant colonel” in item 3304, and “Commissioned officers other than officers in Army Nurse Corps and Army Medical Specialist Corps” for “Commissioned officers” in item 3305.
+<b>1957</b>—Pub. L. 85–155, title I, §101(9), (15), (17), Aug. 21, 1957, 71 Stat. 377, 379, substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in item 3291, “Army Medical Specialist” for “Women's Medical Specialist Corps” and “promotion to lieutenant colonel or colonel” for “promotion to first lieutenant, captain, major, or lieutenant colonel” in item 3304, and “Commissioned officers other than officers in Army Nurse Corps and Army Medical Specialist Corps” for “Commissioned officers” in item 3305.
 
 
 ---

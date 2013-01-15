@@ -30,7 +30,7 @@ United states person.—The term “United States person” means—
 
 &emsp;&emsp;(B) an alien lawfully admitted for permanent residence to the United States;
 
-&emsp;&emsp;(C) an alien lawfully residing in the United States at the time that the speech that isthe subject of the foreign defamation action was researched, prepared, or disseminated; or
+&emsp;&emsp;(C) an alien lawfully residing in the United States at the time that the speech that is the subject of the foreign defamation action was researched, prepared, or disseminated; or
 
 &emsp;&emsp;(D) a business entity incorporated in, or with its primary location or place of operation in, the United States.
 

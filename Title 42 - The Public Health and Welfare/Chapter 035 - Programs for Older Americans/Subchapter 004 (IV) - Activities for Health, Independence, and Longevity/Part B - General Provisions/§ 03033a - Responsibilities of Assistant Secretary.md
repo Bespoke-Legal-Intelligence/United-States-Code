@@ -60,7 +60,7 @@ Section 3035, Pub. L. 89–73, title IV, §421, as added Pub. L. 97–115, §11(
 
 Another prior section 3035, Pub. L. 89–73, title IV, §411, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47; amended Pub. L. 95–478, title I, §104(b)(1), (2), title V, §503(c)(3), Oct. 18, 1978, 92 Stat. 1538, 1559, related to grants and contracts for research and development projects, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
-Section 3035a, Pub. L. 89–73, title IV, §422, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1602; amended Pub. L. 98–459, title IV, §407, Oct. 9, 1984, 98 Stat. 1784; Pub. L. 100–175, title I, §§152, 153, 156(c), 182(<i>o</i>), Nov. 29, 1987, 101 Stat. 951, 954, 967; Pub. L. 100–628, title VII, §705(8), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), title IV, §406, title IX, §904(a)(19), Sept. 30, 1992, 106 Stat. 1201, 1245, 1308; Pub. L. 103–82, title IV, §405(g)(3), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to demonstration projects.
+Section 3035a, Pub. L. 89–73, title IV, §422, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1602; amended Pub. L. 98–459, title IV, §407, Oct. 9, 1984, 98 Stat. 1784; Pub. L. 100–175, title I, §§152, 153, 156(c), 182(o), Nov. 29, 1987, 101 Stat. 951, 954, 967; Pub. L. 100–628, title VII, §705(8), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), title IV, §406, title IX, §904(a)(19), Sept. 30, 1992, 106 Stat. 1201, 1245, 1308; Pub. L. 103–82, title IV, §405(g)(3), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to demonstration projects.
 
 Another prior section 3035a, Pub. L. 89–73, title IV, §412, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47, related to special comprehensive study and demonstration projects on transportation problems of older Americans, prior to repeal by Pub. L. 95–478, title I, §104(b)(3), Oct. 18, 1978, 92 Stat. 1539.
 
@@ -98,19 +98,19 @@ Section 3035j, Pub. L. 89–73, title IV, §429B, as added Pub. L. 102–375, ti
 
 Section 3035k, Pub. L. 89–73, title IV, §429C, as added Pub. L. 102–375, title IV, §412, Sept. 30, 1992, 106 Stat. 1253; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to information and assistance systems development projects.
 
-Section 3035<i>l</i>, Pub. L. 89–73, title IV, §429D, as added Pub. L. 102–375, title IV, §413, Sept. 30, 1992, 106 Stat. 1254; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to senior transportation demonstration program grants.
+Section 3035l, Pub. L. 89–73, title IV, §429D, as added Pub. L. 102–375, title IV, §413, Sept. 30, 1992, 106 Stat. 1254; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to senior transportation demonstration program grants.
 
 Section 3035m, Pub. L. 89–73, title IV, §429E, as added Pub. L. 102–375, title IV, §414, Sept. 30, 1992, 106 Stat. 1256; amended Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107 Stat. 1990, related to Resource Centers on Native American Elders.
 
 Section 3035n, Pub. L. 89–73, title IV, §429F, as added Pub. L. 102–375, title IV, §415, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(C), Oct. 30, 2000, 114 Stat. 1739, related to demonstration programs for older individuals with developmental disabilities.
 
-Section 3035<i>o</i>, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
+Section 3035o, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
 
 Section 3035p, Pub. L. 89–73, title IV, §429H, as added Pub. L. 102–375, title IV, §417, Sept. 30, 1992, 106 Stat. 1260; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to private resource enhancement projects.
 
 Section 3035q, Pub. L. 89–73, title IV, §429I, as added Pub. L. 102–375, title IV, §418, Sept. 30, 1992, 106 Stat. 1261; amended Pub. L. 103–171, §§2(18), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to career preparation for the field of aging.
 
-Section 3035r, Pub. L. 89–73, title IV, §429J, as added Pub. L. 102–375, title IV, §419, Sept. 30, 1992, 106 Stat. 1261; amended Pub. L. 103–171, §§2(19), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to pension rights demonstration projects.
+Section 3035r, Pub. L. 89–73, title IV, §429J, as added Pub. L. 102–375, title IV, §419, Sept. 30, 1992, 106 Stat.1261; amended Pub. L. 103–171, §§2(19), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to pension rights demonstration projects.
 
 A prior section 3036, Pub. L. 89–73, title IV, §441, formerly §421, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 48; renumbered and amended Pub. L. 95–478, title I, §104(c)(1)(B), (d), Oct. 18, 1978, 92 Stat. 1539, 1546, related to applications for grants for establishment or support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by Pub. L. 97–115.
 

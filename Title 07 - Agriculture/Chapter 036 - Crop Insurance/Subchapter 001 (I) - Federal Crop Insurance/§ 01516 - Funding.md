@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title, to be available without fiscal year limitation.
+&emsp;There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section1515(h) of this title, to be available without fiscal year limitation.
 
 #### (2) Commodity Credit Corporation funds
 
@@ -68,7 +68,7 @@
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted “years the following:” for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
 
-Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted “including the following:” for“including—”, in subpar. (A), substituted “Premium” for “premium” and a period for the semicolon at end, in subpar. (B), substituted “Administrative” for “administrative” and a period for “; and” at end, in subpar. (C), substituted “All” for “all”, and added subpars. (D) and (E).
+Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted “including the following:” for “including—”, in subpar. (A), substituted “Premium” for “premium” and a period for the semicolon at end, in subpar. (B), substituted “Administrative” for “administrative” and a period for “; and” at end, in subpar. (C), substituted “All” for “all”, and added subpars. (D) and (E).
 
 Subsec. (b)(2). Pub. L. 106–224, §147(c)(1), substituted “Policy consideration and implementation” for “Research and development expenses” in heading.
 
@@ -136,9 +136,9 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 
 #### Effective Date of 1980 Amendment
 
-Section 109 of Pub. L. 96–365 provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 96–365, title I, §109, Sept. 26, 1980, 94 Stat. 1317, provided that the amendment made by that section is effective Oct. 1, 1980.
 
-Section 110 of Pub. L. 96–365 provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 96–365, title I, §110, Sept. 26, 1980, 94 Stat. 1318, provided that the amendment made by that section is effective Oct. 1, 1980.
 
 #### Transfer of Functions
 

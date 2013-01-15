@@ -8,7 +8,7 @@
 
 #### (2) Limit on loan guarantees
 
-&emsp;The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, any part of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
+&emsp;The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, anypart of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
 
 #### (3) Fiduciary responsibility
 
@@ -74,7 +74,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(4) Not more than 8 members of the Advisory Board may be from any one political party.
 
-&emsp;(5) Membership of the Advisory Board shall not include any person who, during the previous 24-month period, was required to register with the Secretary under section 3537b(c) <sup>1</sup> of title 42 or employed a person for purposes that required such person to so register.
+&emsp;(5) Membership of the Advisory Board shall not include any person who, during the previous 24-month period, was required to registerwith the Secretary under section 3537b(c) <sup>1</sup> of title 42 or employed a person for purposes that required such person to so register.
 
 &emsp;(6) Of the members of the Advisory Board first appointed, 5 shall have terms of l year, and 5 shall have terms of 2 years. Their successors and all other appointees shall have terms of 3 years.
 
@@ -124,7 +124,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (C) Suspension
 
-&emsp;&emsp;The Board may issue an order temporarily suspending a mortgagee's approval for doing business with the Federal Housing Administration if (i) there exists adequate evidence of a violation or violations and (ii) continuation of the mortgagee's approval, pending or at the completion of any audit, investigation, or other review, or such administrative or other legal proceedings as may ensue, would not be in the public interest or in the best interests of the Department. Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public. A suspension shall last for not less than 6 months, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is in the public interest. If the Board and the mortgagee agree, these time limits may be extended. During the period of suspension, the Federal Housing Administration shall not commit to insure any mortgage originated by the suspended mortgagee.
+&emsp;&emsp;The Board may issue an order temporarily suspending a mortgagee's approval for doing business with the Federal Housing Administration if (i) there exists adequate evidence of a violation or violations and (ii) continuation of the mortgagee's approval, pending or at the completion of any audit, investigation, or other review, or such administrative or other legal proceedings as may ensue, would not be in the public interest or in the best interests of the Department. Notwithstanding paragraph (4)(A), a suspension shall be effective upon issuance by the Board if the Board determines that there exists adequate evidence that immediate action is required to protect the financial interests of the Department or the public. A suspension shall last for not less than 6 months, and for not longer than 1 year. The Board may extend the suspension for an additional 6 months if it determines the extension is inthe public interest. If the Board and the mortgagee agree, these time limits may be extended. During the period of suspension, the Federal Housing Administration shall not commit to insure any mortgage originated by the suspended mortgagee.
 
 #### (D) Withdrawal
 
@@ -152,7 +152,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (4) Notice and hearing
 
-&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to taking any action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations whichhave been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
+&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to taking any action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
 
 &emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
@@ -200,7 +200,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;In order to be eligible for approval by the Secretary, an applicant mortgagee shall not be, and shall not have any officer, partner, director, principal, manager, supervisor, loan processor, loan underwriter, or loan originator of the applicant mortgagee who is—
 
-&emsp;&emsp;(A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other Federal agency;
+&emsp;&emsp;(A) currently suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under part 25 of title 24 of the Code of Federal Regulations, 2 Code of Federal Regulations, part 180 as implemented by part 2424, or any successor regulations to such parts, or under similar provisions of any other Federal agency;
 
 &emsp;&emsp;(B) under indictment for, or has been convicted of, an offense that reflects adversely upon the applicant's integrity, competence or fitness to meet the responsibilities of an approved mortgagee;
 
@@ -252,7 +252,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 &emsp;(4) the Secretary of Agriculture;
 
-&emsp;(5) if the mortgagee is a national bank, a subsidiary or affiliate of such bank, a Federal savings association or a subsidiary or affiliate of a savings association, the Comptroller of the Currency;
+&emsp;(5) if the mortgagee is a national bank, a subsidiary or affiliate of such bank, a Federal savings association or a subsidiary or affiliateof a savings association, the Comptroller of the Currency;
 
 &emsp;(6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System; and
 
@@ -272,7 +272,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 Direct Endorsement Program.—
 
-&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsementprogram established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisal companies organized as corporations, partnerships, or sole proprietorships.
+&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisal companies organized as corporations, partnerships, or sole proprietorships.
 
 &emsp;(B) Any appraisal conducted pursuant to subparagraph (A) shall be conducted by an individual who complies with the qualifications or standards for appraisers established by the Secretary pursuant to this subsection.
 
@@ -310,7 +310,7 @@ The Secretary shall, by regulation, require each mortgagee approved by the Secre
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -330,7 +330,7 @@ The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (d)(2)(F), i
 
 #### Codification
 
-Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat.2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
+Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
 
 #### Amendments
 

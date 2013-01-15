@@ -10,5 +10,5 @@ Section 130b, acts Apr. 27, 1938, ch. 180, title I, 52 Stat. 250; June 29, 1939,
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

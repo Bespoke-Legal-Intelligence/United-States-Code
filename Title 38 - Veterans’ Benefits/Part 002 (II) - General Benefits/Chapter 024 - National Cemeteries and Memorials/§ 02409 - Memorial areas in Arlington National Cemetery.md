@@ -12,11 +12,59 @@
 
 &emsp;(5) whose remains were cremated and whose ashes were scattered without interment of any portion of the ashes.
 
-(b) Under regulations prescribed by the Secretary of the Army, appropriate memorials or markers may be erected in Arlington National Cemetery to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.
+(b)(1) Under regulations prescribed by the Secretary of the Army and subject to paragraph (2), appropriate memorials or markers may be erected in Arlington National Cemetery to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.
 
-(Added Pub. L. 99–576, title IV, §413(a), Oct. 28, 1986, 100 Stat. 3284, §1009; amended Pub. L. 101–237, title III, §313(b)(5), Dec. 18, 1989, 103 Stat. 2077; renumbered §2409, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(2)(A) Except for a monument containing or marking interred remains, no monument (or similar structure, as determined by the Secretary of the Army in regulations) may be placed in Arlington National Cemetery except pursuant to the provisions of this subsection.
+
+(B) A monument may be placed in Arlington National Cemetery if the monument commemorates—
+
+&emsp;(i) the service in the Armed Forces of the individual, or group of individuals, whose memory is to be honored by the monument; or
+
+&emsp;(ii) a particular military event.
+
+(C) No monument may be placed in Arlington National Cemetery until the end of the 25-year period beginning—
+
+&emsp;(i) in the case of the commemoration of service under subparagraph (B)(i), on the last day of the period of service so commemorated; and
+
+&emsp;(ii) in the case of the commemoration of a particular military event under subparagraph (B)(ii), on the last day of the period of the event.
+
+(D) A monument may be placed only in those sections of Arlington National Cemetery designated by the Secretary of the Army for such placement and only on land the Secretary determines is not suitable for burial.
+
+(E) A monument may only be placed in Arlington National Cemetery if an appropriate nongovernmental entity has agreed to act as a sponsoring organization to coordinate the placement of the monument and—
+
+&emsp;(i) the construction and placement of the monument are paid for only using funds from private sources;
+
+&emsp;(ii) the Secretary of the Army consults with the Commission of Fine Arts and the Advisory Committee on Arlington National Cemetery before approving the design of the monument; and
+
+&emsp;(iii) the sponsoring organization provides for an independent study on the availability and suitability of alternative locations for the proposed monument outside of Arlington National Cemetery.
+
+(3)(A) The Secretary of the Army may waive the requirement under paragraph (2)(C) in a case in which the monument would commemorate a group of individuals who the Secretary determines—
+
+&emsp;(i) has made valuable contributions to the Armed Forces that have been ongoing and perpetual for longer than 25 years and are expected to continue on indefinitely; and
+
+&emsp;(ii) has provided service that is of such a character that the failure to place a monument to the group in Arlington National Cemetery would present a manifest injustice.
+
+(B) If the Secretary waives such requirement under subparagraph (A), the Secretary shall—
+
+&emsp;(i) make available on an Internet website notification of the waiver and the rationale for the waiver; and
+
+&emsp;(ii) submit to the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives written notice of the waiver and the rationale for the waiver.
+
+(4) The Secretary of the Army shall provide notice to the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives of any monument proposed to be placed in Arlington National Cemetery. During the 60-day period beginning on thedate on which such notice is received, Congress may pass a joint resolution of disapproval of the placement of the monument. The proposed monument may not be placed in Arlington National Cemetery until the later of—
+
+&emsp;(A) if Congress does not pass a joint resolution of disapproval of the placement of the monument, the date that is 60 days after the date on which notice is received under this paragraph; or
+
+&emsp;(B) if Congress passes a joint resolution of disapproval of the placement of the monument, and the President signs a veto of such resolution, the earlier of—
+
+&emsp;&emsp;(i) the date on which either House of Congress votes and fails to override the veto of the President; or
+
+&emsp;&emsp;(ii) the date that is 30 session days after the date on which Congress received the veto and objections of the President.
+
+(Added Pub. L. 99–576, title IV, §413(a), Oct. 28, 1986, 100 Stat. 3284, §1009; amended Pub. L. 101–237, title III, §313(b)(5), Dec. 18, 1989, 103 Stat. 2077; renumbered §2409, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–154, title VI, §604, Aug. 6, 2012, 126 Stat. 1201.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–154 designated existing provisions as par. (1), inserted “and subject to paragraph (2)” after “Secretary of the Army”, and added pars. (2) to (4).
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1009 of this title as this section.
 

@@ -2,7 +2,7 @@
 
 #### (a) Contents of label
 
-No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity unless in conformity with regulations which shall be established bythe promulgating authority pursuant to section 1455 of this title which shall provide that—
+No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity unless in conformity with regulations which shall be established by the promulgating authority pursuant to section 1455 of this title which shall provide that—
 
 &emsp;(1) The commodity shall bear a label specifying the identity of the commodity and the name and place of business of the manufacturer, packer, or distributor;
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 102–329, §1(1), substituted “weight or mass” for “
 
 #### Effective Date of 1992 Amendments
 
-Section 2 of Pub. L. 102–329 provided that: “The amendments made by section 1 \[amending this section and section 1454 of this title\] shall take effect on February 14, 1994. The amendments made by section 1 shall have no effect on the sale or distribution of products whose labels have been printed before such effective date. Nothing in the amendments made by section 1 shall apply to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information. Nothing in the amendments made by section 1 shall be construed to require changes in package size or to affect in any way the size of packages.”
+Pub. L. 102–329, §2, Aug. 3, 1992, 106 Stat. 847, provided that: “The amendments made by section 1 \[amending this section and section 1454 of this title\] shall take effect on February 14, 1994. The amendments made by section 1 shall have no effect on the sale or distribution of products whose labels have been printed before such effective date. Nothing in the amendments made by section 1 shall apply to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information. Nothing in the amendments made by section 1 shall be construed to require changes in package size or to affect in any way the size of packages.”
 
 Section 107(b) of Pub. L. 102–245, which provided that section 107 of Pub. L. 102–245 which amended this section and section 1454 of this title was to take effect 2 years after Feb. 14, 1992, was repealed by Pub. L. 102–329, §3, Aug. 3, 1992, 106 Stat. 848.
 

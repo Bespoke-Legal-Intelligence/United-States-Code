@@ -10,7 +10,7 @@ The application of nondiscriminatory treatment shall be limited to the period of
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
-The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
+The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause allproducts of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
 (Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
 
@@ -31,6 +31,190 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
+
+#### Extension of Nondiscriminatory Treatment to Products of the Russian Federation; Trade Enforcement Measures
+
+Pub. L. 112–208, titles I, II, Dec. 14, 2012, 126 Stat. 1497, 1498, provided that:
+
+#### “TITLE I—PERMANENT NORMAL TRADE RELATIONS FOR THE RUSSIAN FEDERATION
+
+#### “SEC. 101. FINDINGS.
+
+“Congress finds the following:
+
+&emsp;“(1) The Russian Federation allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of those citizens to emigrate to the country of their choice.
+
+&emsp;“(2) The Russian Federation has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) since 1994.
+
+&emsp;“(3) The Russian Federation has received normal trade relations treatment since concluding a bilateral trade agreement with the United States that entered into force in 1992.
+
+&emsp;“(4) On December 16, 2011, the Ministerial Conference of the World Trade Organization invited the Russian Federation to accede to the World Trade Organization.
+
+#### “SEC. 102. TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF THE RUSSIAN FEDERATION.
+
+“(a)
+
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+
+&emsp;“(1) determine that such title should no longer apply to the Russian Federation; and
+
+&emsp;“(2) after making a determination under paragraph (1) with respect to the Russian Federation, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of the Russian Federation.
+
+“(b)
+
+Effective Date of Nondiscriminatory Treatment.—The extension of nondiscriminatory treatment to the products of the Russian Federation pursuant to subsection (a) shall be effective not sooner than the effective date of the accession of the Russian Federation to the World Trade Organization \[Aug. 22, 2012\].
+
+“(c)
+
+Termination of Applicability of Title IV.—On and after the effective date under subsection (b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) shall cease to apply to the Russian Federation.
+
+#### “TITLE II—TRADE ENFORCEMENT MEASURES RELATING TO THE RUSSIAN FEDERATION
+
+#### “SEC. 201. REPORTS ON IMPLEMENTATION BY THE RUSSIAN FEDERATION OF OBLIGATIONS AS A MEMBER OF THE WORLD TRADE ORGANIZATION AND ENFORCEMENT ACTIONS BY THE UNITED STATES TRADE REPRESENTATIVE.
+
+“(a)
+
+Reports on Implementation.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing the following:
+
+&emsp;&emsp;“(A) The extent to which the Russian Federation is implementing the WTO Agreement (as defined in section 2 of the Uruguay Round Agreements Act (19 U.S.C. 3501)) and the following agreements annexed to that Agreement:
+
+&emsp;&emsp;&emsp;“(i) The Agreement on the Application of Sanitary and Phytosanitary Measures (referred to in section 101(d)(3) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(3))).
+
+&emsp;&emsp;&emsp;“(ii) The Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15))).
+
+&emsp;&emsp;“(B) The progress made by the Russian Federation in acceding to, and the extent to which the Russian Federation is implementing, the following:
+
+&emsp;&emsp;&emsp;“(i) The Ministerial Declaration on Trade in Information Technology Products of the World Trade Organization, agreed to at Singapore December 13, 1996 (commonly referred to as the ‘Information Technology Agreement’) (or a successor agreement).
+
+&emsp;&emsp;&emsp;“(ii) The Agreement on Government Procurement (referred to in section 101(d)(17) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(17))).
+
+&emsp;“(2)
+
+Plan for action by trade representative.—
+
+&emsp;&emsp;“(A)
+
+In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
+
+&emsp;&emsp;“(B)
+
+Classified information.—If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[50 U.S.C. 435 note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee onWays and Means of the House of Representatives by—
+
+&emsp;&emsp;&emsp;“(i) including the information in a classified annex to the report required by paragraph (1); or
+
+&emsp;&emsp;&emsp;“(ii) consulting with the Committee on Finance and the Committee on Ways and Means with respect to the information instead of including the information in the report or a classified annex to the report.
+
+&emsp;“(3)
+
+Public comments.—
+
+&emsp;&emsp;“(A)
+
+In general.—In developing the report required by paragraph (1), the Trade Representative shall provide an opportunity for the public to comment, including by holding a public hearing.
+
+&emsp;&emsp;“(B)
+
+Publication in federal register.—The Trade Representative shall publish notice of the opportunity to comment and hearing required by subparagraph (A) in the Federal Register.
+
+“(b)
+
+Report on Enforcement Actions Taken by Trade Representative.—Not later than 180 days after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report describing the enforcement actions taken by the Trade Representative against the Russian Federation to ensure the full compliance of the Russian Federation with its obligations as a member of the World Trade Organization, including obligations under agreements with members of the Working Party on the accession of the Russian Federation to the World Trade Organization.
+
+#### “SEC. 202. PROMOTION OF THE RULE OF LAW IN THE RUSSIAN FEDERATION TO SUPPORT UNITED STATES TRADE AND INVESTMENT.
+
+“(a)
+
+Reports on Promotion of Rule of Law.—Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative and the Secretary of State shall jointly submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report—
+
+&emsp;“(1) on the measures taken by the Trade Representative and the Secretary and the results achieved during the year preceding the submission of the report with respect to promoting the rule of law in the Russian Federation, including with respect to—
+
+&emsp;&emsp;“(A) strengthening formal protections for United States investors in the Russian Federation, including through the negotiation of a new bilateral investment treaty;
+
+&emsp;&emsp;“(B) advocating for United States investors in the Russian Federation, including by promoting the claims of United States investors in Yukos Oil Company;
+
+&emsp;&emsp;“(C) encouraging all countries that are parties to the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organisation for Economic Co-operation and Development, done at Paris December 17, 1997 (commonly referred to as the ‘OECD Anti-Bribery Convention’), including the Russian Federation, to fully implement their commitments under the Convention to prevent overseas business bribery by the nationals of those countries;
+
+&emsp;&emsp;“(D) promoting a customs administration, tax administration, and judiciary in the Russia Federation that are free of corruption; and
+
+&emsp;&emsp;“(E) increasing cooperation between the United States and the Russian Federation to expand the capacity for civil society organizations to monitor, investigate, and report on suspected instances of corruption; and
+
+&emsp;“(2) that discloses the status of any pending petition for espousal filed with the Secretary by a United States investor in the Russian Federation.
+
+“(b)
+
+Anti-Bribery Reporting and Assistance.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Commerce shall establish and maintain a dedicated phone hotline and secure website, accessible from within and outside the Russian Federation, for the purpose of allowing United States entities—
+
+&emsp;&emsp;“(A) to report instances of bribery, attempted bribery, or other forms of corruption in the Russian Federation that impact or potentially impact their operations; and
+
+&emsp;&emsp;“(B) to request the assistance of the United States with respect to issues relating to corruption in the Russian Federation.
+
+&emsp;“(2)
+
+Report required.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the Secretary of Commerce shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that includes the following:
+
+&emsp;&emsp;&emsp;“(i) The number of instances in which bribery, attempted bribery, or other forms of corruption have been reported using the hotline or website established pursuant to paragraph (1).
+
+&emsp;&emsp;&emsp;“(ii) A description of the regions in the Russian Federation in which those instances are alleged to have occurred.
+
+&emsp;&emsp;&emsp;“(iii) A summary of actions taken by the United States to provide assistance to United States entities pursuant to paragraph (1)(B).
+
+&emsp;&emsp;&emsp;“(iv) A description of the efforts taken by the Secretary to inform United States entities conducting business in the Russian Federation or considering conducting business in the Russian Federation of the availability of assistance through the hotline and website.
+
+&emsp;&emsp;“(B)
+
+Confidentiality.—The Secretary shall not include in the report required by subparagraph (A) the identity of a United States entity that reports instances of bribery, attempted bribery, or other forms of corruption in the Russian Federation or requests assistance pursuant to paragraph (1).
+
+#### “SEC. 203. REPORTS ON LAWS, POLICIES, AND PRACTICES OF THE RUSSIAN FEDERATION THAT DISCRIMINATE AGAINST UNITED STATES DIGITAL TRADE.
+
+\[Amended section 2241 of this title.\]
+
+#### “SEC. 204. EFFORTS TO REDUCE BARRIERS TO TRADE IMPOSED BY THE RUSSIAN FEDERATION.
+
+“The United States Trade Representative shall continue to pursue the reduction of barriers to trade imposed by the Russian Federation on articles exported from the United States to the Russian Federation through efforts—
+
+&emsp;“(1) to negotiate a bilateral agreement under which the Russian Federation will accept the sanitary and phytosanitary measures of the United States as equivalent to the sanitary and phytosanitary measures of the Russian Federation; and
+
+&emsp;“(2) to obtain the adoption by the Russian Federation of an action plan for providing greater protections for intellectual property rights than the protections required by the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15))).”
+
+#### Extension of Nondiscriminatory Treatment to Products of Moldova
+
+Pub. L. 112–208, title III, Dec. 14, 2012, 126 Stat. 1501, provided that:
+
+#### “SEC. 301. FINDINGS.
+
+“Congress finds the following:
+
+&emsp;“(1) Moldova allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of those citizens to emigrate to the country of their choice.
+
+&emsp;“(2) Moldova has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) since 1997.
+
+&emsp;“(3) Moldova acceded to the World Trade Organization on July 26, 2001.
+
+#### “SEC. 302. TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF MOLDOVA.
+
+“(a)
+
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+
+&emsp;“(1) determine that such title should no longer apply to Moldova; and
+
+&emsp;“(2) after making a determination under paragraph (1) with respect to Moldova, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Moldova.
+
+“(b)
+
+Termination of Applicability of Title IV.—On and after the date on which the President extends nondiscriminatory treatment to the products of Moldova pursuant to subsection (a), title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) shall cease to apply to Moldova.”
 
 #### Extension of Nondiscriminatory Treatment to Products of Ukraine
 
@@ -198,7 +382,7 @@ Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notw
 
 &emsp;“(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
-&emsp;“(2) after making a determination under paragraph (1) with respect to the People's Republic of China,proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;“(2) after making a determination under paragraph (1) with respect to the People's Republic of China, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 “(b)
 
@@ -300,7 +484,7 @@ Findings.—The Congress finds that Mongolia—
 
 &emsp;“(3) has held four national elections under the new constitution, two presidential and two parliamentary, thereby solidifying the nation's transition to democracy;
 
-&emsp;“(4) has undertaken significant market-based economic reforms, including privatization, the reduction of government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
+&emsp;“(4) has undertaken significant market-based economic reforms, including privatization, the reductionof government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
 
 &emsp;“(5) has concluded a bilateral trade treaty with the United States in 1991, and a bilateral investment treaty in 1994;
 
@@ -500,7 +684,7 @@ Congressional Findings.—The Congress finds that Bulgaria—
 
 &emsp;“(2) has reversed many years of Communist dictatorship and instituted a constitutional republic ruled by a democratically elected government as well as basic market-oriented reforms, including privatization;
 
-&emsp;“(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and theWorld Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
+&emsp;“(3) is in the process of acceding to the General Agreement on Tariffs and Trade (GATT) and the World Trade Organization (WTO), and extension of unconditional most-favored-nation treatment would enable the United States to avail itself of all rights under the GATT and the WTO with respect to Bulgaria; and
 
 &emsp;“(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 
@@ -614,7 +798,9 @@ Kyrgyzstan.—Proc. No. 7326, June 29, 2000, 65 F.R. 41547.
 
 Determination of President of the United States, No. 96–45, Aug. 27, 1996, 61 F.R. 45861.
 
-Moldova.—Determination of President of the United States, No. 96–48, Aug. 27, 1996, 61 F.R. 45867.
+Moldova.—Proc. No. 8920, Dec. 20, 2012, 77 F.R. 76797.
+
+Determination of President of the United States, No. 96–48, Aug. 27, 1996, 61 F.R. 45867.
 
 Mongolia.—Proc. No. 7207, July 1, 1999, 64 F.R. 36549.
 
@@ -643,6 +829,8 @@ Determination of President of the United States, No. 84–10, May 31, 1984, 49 F
 Determination of President of the United States, No. 81–9, June 2, 1981, 46 F.R. 29921.
 
 Proc. No. 4369, Apr. 24, 1975, 40 F.R. 18389.
+
+Russia.—Proc. No. 8920, Dec. 20, 2012, 77 F.R. 76797.
 
 Tajikistan.—Determination of President of the United States, No. 97–7, Nov. 26, 1996, 61 F.R. 63695.
 

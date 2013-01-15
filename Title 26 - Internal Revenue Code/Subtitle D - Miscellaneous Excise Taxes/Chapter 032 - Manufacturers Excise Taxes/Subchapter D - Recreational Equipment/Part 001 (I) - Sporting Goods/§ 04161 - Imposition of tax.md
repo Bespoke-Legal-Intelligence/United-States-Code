@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by themanufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by the manufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
 
 #### (B) Limitation on tax imposed on fishing rods and poles
 
@@ -56,7 +56,7 @@
 
 #### (B) Exemption for certain wooden arrow shafts
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any shaft consisting of all natural wood with no laminations or artificial means of enhancing the spine of such shaft (whether sold separately or incorporated as part of a finished or unfinished product) of a type used in the manufacture of any arrow which after its assembly—
+&emsp;&emsp;Subparagraph (A) shall not apply to any shaft consisting of all natural wood with no laminations or artificial means of enhancing the spine of such shaft (whether sold separately or incorporated as part of a finished or unfinished product) of a type used in themanufacture of any arrow which after its assembly—
 
 &emsp;&emsp;&emsp;(i) measures 5/16 of an inch or less in diameter, and
 
@@ -154,21 +154,21 @@ Pub. L. 108–357, title III, §333(b), Oct. 22, 2004, 118 Stat. 1478, provided 
 
 #### Effective Date of 1997 Amendment
 
-Section 1433(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 1997.”
+Pub. L. 105–34, title XIV, §1433(b), Aug. 5, 1997, 111 Stat. 1052, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 1997.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
-Section 1017(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
+Pub. L. 98–369, div. A, title X, §1017(c), July 18, 1984, 98 Stat. 1021, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
 
 #### Effective Date of 1972 Amendment
 
-Section 201(b) of Pub. L. 92–558, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer thereof on or after January 1, 1975.”
+Pub. L. 92–558, title II, §201(b), Oct. 25, 1972, 86 Stat. 1173, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer thereof on or after January 1, 1975.”
 
 #### Effective Date of 1965 Amendment
 
-Section 701(a) of Pub. L. 89–44 provided that:
+Pub. L. 89–44, title VII, §701(a), June 21, 1965, 79 Stat. 155, provided that:
 
 “(1)
 

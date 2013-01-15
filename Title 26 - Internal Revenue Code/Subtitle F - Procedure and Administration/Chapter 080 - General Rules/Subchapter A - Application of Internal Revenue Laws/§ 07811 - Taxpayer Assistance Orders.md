@@ -102,7 +102,7 @@ Subsec. (b)(2). Pub. L. 104–168, §102(a)(2), inserted “take any action as p
 
 Subsec. (b)(2)(D). Pub. L. 104–168, §101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman”.
 
-Subsec. (c). Pub. L. 104–168, §102(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any Taxpayer Assistance Order issued by the Ombudsman under this section may be modified or rescinded only by the Ombudsman, a district director, a service center director, a compliance center director, a regional director of appeals, or any superior of any such person.”
+Subsec. (c). Pub. L. 104–168, §102(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Any Taxpayer Assistance Order issued by the Ombudsman under this section may be modified or rescinded only by the Ombudsman, a district director, a service center director, a compliance center director, a regional director of appeals, or any superior of any such person.”
 
 Subsecs. (d)(2) to (f). Pub. L. 104–168, §101(b)(1)(B), substituted “Taxpayer Advocate” for “Ombudsman” wherever appearing.
 
@@ -110,13 +110,13 @@ Subsecs. (d)(2) to (f). Pub. L. 104–168, §101(b)(1)(B), substituted “Taxpay
 
 Amendment by section 101(b)(1) of Pub. L. 104–168 effective July 30, 1996, see section 101(c) of Pub. L. 104–168, set out as a note under section 7802 of this title.
 
-Section 102(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title I, §102(c), July 30, 1996, 110 Stat. 1456, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date
 
-Section 6230(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1989.”
+Pub. L. 100–647, title VI, §6230(d), Nov. 10, 1988, 102 Stat. 3734, provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1989.”
 
 #### Regulations
 
-Section 6230(c) of Pub. L. 100–647 provided that: “The Secretary of the Treasury or the Secretary's delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act \[Nov. 10, 1988\] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures.”
+Pub. L. 100–647, title VI, §6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: “The Secretary of the Treasury or the Secretary's delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act \[Nov. 10, 1988\] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures.”
 

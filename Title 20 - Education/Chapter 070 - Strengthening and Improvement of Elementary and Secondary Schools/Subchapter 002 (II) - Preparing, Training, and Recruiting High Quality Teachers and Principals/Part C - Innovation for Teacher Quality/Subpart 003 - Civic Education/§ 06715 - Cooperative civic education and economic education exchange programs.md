@@ -14,7 +14,7 @@ The purpose of the cooperative education exchange programs carried out under thi
 
 &emsp;(3) to create and implement civics and government education, and economic education, programs for students that draw upon the experiences of the participating eligible countries;
 
-&emsp;(4) to provide a means for the exchange of ideas and experiences in civics and government education, and economic education, among political, educational, governmental, and private sector leaders of participating eligible countries; and
+&emsp;(4) to provide a means for the exchange of ideas and experiences in civics and government education, and economic education,among political, educational, governmental, and private sector leaders of participating eligible countries; and
 
 &emsp;(5) to provide support for—
 
@@ -36,7 +36,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;&emsp;(D) independent research and evaluation assistance—
 
-&emsp;&emsp;&emsp;(i) to determine the effects of the cooperative education exchange programs on students’ development of the knowledge,skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
+&emsp;&emsp;&emsp;(i) to determine the effects of the cooperative education exchange programs on students’ development of the knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
 
 &emsp;&emsp;&emsp;(ii) to identify effective participation in, and the preservation and improvement of, an efficient market economy;
 

@@ -46,7 +46,7 @@
 
 &emsp;(3) do not affect a check or warrant issued for the payment of pay or goods bought by the United States Government in a foreign country.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, §13(<i>l</i>)(2), June 13, 1991, 105 Stat. 277; Pub. L. 104–316, title I, §115(e), Oct. 19, 1996, 110 Stat. 3834.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, §13(l)(2), June 13, 1991, 105 Stat. 277; Pub. L. 104–316, title I, §115(e), Oct. 19, 1996, 110 Stat. 3834.)
 
 Historical and Revision Notes
 

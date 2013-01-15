@@ -48,9 +48,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, the words “the term” are omitted as surplus.
 
-In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
+In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the complete name of the Secretary ofTransportation is used the first time the term appears in a section.
 
 In clause (2), the word “valid” is omitted as surplus.
+
+#### Aviation Noise Complaints
+
+Pub. L. 112–95, title V, §510, Feb. 14, 2012, 126 Stat. 107, provided that: “Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], each owner or operator of a large hub airport (as defined in section 40102(a) of title 49, United States Code) shall publish on an Internet Web site of the airport a telephone number to receive aviation noise complaints related to the airport.”
 
 #### Airport Noise Study
 

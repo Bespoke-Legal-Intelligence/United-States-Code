@@ -16,7 +16,7 @@ Not later than 1 year after the designated transfer date, the Director shall sub
 
 #### (c) Program
 
-Not later than 2 years after the date of the submission of the report under subsection (b), the Bureau shall, consistent with part B, propose regulations or otherwise establish a program to protect consumers who use exchange facilitators.
+Not later than 2 years after the date of the submission of the report under subsection (b),the Bureau shall, consistent with part B, propose regulations or otherwise establish a program to protect consumers who use exchange facilitators.
 
 #### (d) Exchange facilitator defined
 

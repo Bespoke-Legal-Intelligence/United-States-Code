@@ -130,7 +130,7 @@ The Commission shall submit the plan to the Secretary and the Governor of Minnes
 
 > If the Secretary disapproves the plan, he shall, within 60 days after the date of such disapproval advise the Governor and Commission in writing of the reasons therefor, together with his recommendations for revision. The Commission shall within 90 days of receipt of such notice of disapproval revise and resubmit the plan to the Governor for his review. Following his review, the Governor shall submit the revised plan, together with any recommendations he may have, to the Secretary who shall approve or disapprove the revision within 60 days.
 
-#### (<i>l</i>) Interim program
+#### (l) Interim program
 
 Prior to the adoption of the Commission's plan, the Secretary and the Commission shall monitor all land and water use activities within the Area to ensure that said activities are in keeping with the purposes of this part, and shall advise and cooperate with the appropriate Federal, State, and local governmental entities to minimize adverse impacts on the values for which the Area is established.
 

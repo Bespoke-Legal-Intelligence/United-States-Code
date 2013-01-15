@@ -16,7 +16,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Special Rule Relating to Comparability Payments in 1994
 
-Section 634 of Pub. L. 101–509 provided that:
+Pub. L. 101–509, title VI, §634, Nov. 5, 1990, 104 Stat. 1482, provided that:
 
 “Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under section 5301 of this title\] and any provision of law amended by such Act), for purposes of any comparability payments scheduled to take effect under section 5304 of title 5, United States Code (as amended by such Act) during calendar year 1994—
 

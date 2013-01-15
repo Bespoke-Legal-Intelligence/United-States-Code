@@ -102,7 +102,7 @@ Subsection (c) makes an offer or sale of securities under the plan in an exempt 
 
 Section 5 of the Securities Act of 1933, referred to in subsec. (a), is classified to section 77e of Title 15, Commerce and Trade.
 
-Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
+Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78o(d), respectively, of Title 15, Commerce and Trade.
 
 The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
@@ -110,13 +110,13 @@ The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78o(d))” after “Act of 1934”.
 
 Subsec. (b)(1). Pub. L. 103–394, §501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
 
 Subsec. (d). Pub. L. 103–394, §501(d)(33)(C), struck out “(15 U.S.C. 77aaa et seq.)” after “Act of 1939”.
 
-<b>1984</b>—Subsec. (a)(3)(B)(i). Pub. L. 98–353, §516(a)(1), inserted “or 15(d)” after “13”, and “or 78<i>o</i>(d)” after “78m”.
+<b>1984</b>—Subsec. (a)(3)(B)(i). Pub. L. 98–353, §516(a)(1), inserted “or 15(d)” after “13”, and “or 78o(d)” after “78m”.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 98–353, §516(a)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in compliance with all applicable requirements for the continuance of trading in such security on the date of such offer or sale; and”.
 

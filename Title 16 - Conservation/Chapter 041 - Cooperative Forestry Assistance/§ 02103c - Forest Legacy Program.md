@@ -10,7 +10,7 @@ The Secretary shall exercise the authority under subsection (a) of this section 
 
 #### (c) Interests in land
 
-In addition to the authorities granted under section 515 of this title and section 428a(a) oftitle 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+In addition to the authorities granted under section 515 of this title and section 428a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
 
 #### (d) Implementation
 
@@ -28,7 +28,7 @@ Not later than November 28, 1991, and in consultation with State Forest Stewards
 
 #### (f) Application
 
-For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+For areas included in the Forest Legacy Program, an owner of lands or interests in landswho wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
 
 #### (g) State consent
 
@@ -62,7 +62,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (1) Reserved interest deeds
 
-&emsp;As used in this section, the term “conservation easement” includes an easement utilizinga reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
+&emsp;As used in this section, the term “conservation easement” includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
 
 #### (2) Prohibitions on limitations
 
@@ -80,7 +80,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;Notwithstanding any provision of State law, conservation easements shall be construed to effect the Federal purposes for which they were acquired and, in interpreting their terms, there shall be no presumption favoring the conservation easement holder or fee owner.
 
-#### (<i>l</i>) Optional State grants
+#### (l) Optional State grants
 
 #### (1) In general
 
@@ -136,9 +136,9 @@ A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classifie
 
 #### Amendments
 
-<b>2003</b>—Subsec. (<i>l</i>)(3). Pub. L. 108–108 added par. (3).
+<b>2003</b>—Subsec. (l)(3). Pub. L. 108–108 added par. (3).
 
-<b>1996</b>—Subsecs. (<i>l</i>), (m). Pub. L. 104–127 added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+<b>1996</b>—Subsecs. (l), (m). Pub. L. 104–127 added subsec. (l) and redesignated former subsec. (l) as (m).
 
 <b>1991</b>—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
 

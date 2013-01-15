@@ -70,7 +70,7 @@ Property.—The term “property” means any interest in property except—
 
 Surplus property.—The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(<i>l</i>)(2), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(l)(2), Jan. 4, 2011, 124 Stat. 3850.)
 
 Historical and Revision Notes
 

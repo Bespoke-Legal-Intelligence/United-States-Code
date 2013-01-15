@@ -32,7 +32,7 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 &emsp;&emsp;&emsp;(i) the Tanana Chiefs Conference, Incorporated, for the purpose of leasing, constructing, renovating, operating, and maintaining a residential youth treatment facility in Fairbanks, Alaska; and
 
-&emsp;&emsp;&emsp;(ii) the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)).
+&emsp;&emsp;&emsp;(ii) the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
 
 #### (B) Provision of services to eligible youths
 
@@ -70,7 +70,7 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 #### (3) Criteria
 
-&emsp;The Secretary, acting through the Service, shall, in consultation with Indian tribes and tribal organizations, establish criteria for the review and approval of applications or proposals for funding made available pursuant to this subsection.
+&emsp;The Secretary, acting through the Service, shall, in consultation with Indian tribes andtribal organizations, establish criteria for the review and approval of applications or proposals for funding made available pursuant to this subsection.
 
 #### (d) Federally owned structures
 

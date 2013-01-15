@@ -48,7 +48,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (ii) Procedure
 
-&emsp;&emsp;&emsp;Any election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extension of time) for filing the return for the taxpayer's last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
+&emsp;&emsp;&emsp;Any election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensionof time) for filing the return for the taxpayer's last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
 
 #### (D) Limitation on amount of loss carryback to 5th preceding taxable year
 

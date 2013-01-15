@@ -94,7 +94,7 @@ $110.00&nbsp;
 
 &emsp;&emsp;14,000
 
-68\.00&nbsp;
+68\.00 
 
 &emsp;&emsp;15,000
 
@@ -338,15 +338,15 @@ Subsec. (d). Pub. L. 103–397, §3, added subsec. (d).
 
 Amendment by sections 2(a), (b)(1), and 3 of Pub. L. 103–397 effective Oct. 1, 1994, and amendment by section 2(b)(2) of Pub. L. 103–397 effective Oct. 1, 1998, see section 5(a) of Pub. L. 103–397, set out as a note under section 6902 of this title.
 
-Section 5(b)(1) of Pub. L. 103–397 provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1995.
+Pub. L. 103–397, §5(b)(1), Oct. 22, 1994, 108 Stat. 4158, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1995.
 
-Section 5(b)(2) of Pub. L. 103–397 provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1996.
+Pub. L. 103–397, §5(b)(2), Oct. 22, 1994, 108 Stat. 4159, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1996.
 
-Section 5(b)(3) of Pub. L. 103–397 provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1997.
+Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1997.
 
-Section 5(b)(4) of Pub. L. 103–397 provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
+Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
 
 #### Payments Made Prior to January 1, 1983
 
-Section 101(3) of Pub. L. 98–63 provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto.”
+Pub. L. 98–63, title I, §101(3), July 30, 1983, 97 Stat. 324, provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto.”
 

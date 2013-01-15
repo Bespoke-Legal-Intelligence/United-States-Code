@@ -10,7 +10,7 @@ In approving applications for grants for demonstration projects for services und
 
 &emsp;(3) show evidence—
 
-&emsp;&emsp;(A) in the case of an applicant who will provide care services, of having the ability to bring together a wide range of neededcore services and, as appropriate, supplemental services in comprehensive single-site projects, or to establish a well-integrated network of such services (appropriate for the target population and geographic area to be served including the special needs of rural areas) for pregnant adolescents or adolescent parents; or
+&emsp;&emsp;(A) in the case of an applicant who will provide care services, of having the ability to bring together a wide range of needed core services and, as appropriate, supplemental services in comprehensive single-site projects, or to establish a well-integrated network of such services (appropriate for the target population and geographic area to be served including the special needs of rural areas) for pregnant adolescents or adolescent parents; or
 
 &emsp;&emsp;(B) in the case of an applicant who will provide prevention services, of having the ability to provide prevention services for adolescents and their families which are appropriate for the target population and the geographic area to be served, including the special needs of rural areas;
 

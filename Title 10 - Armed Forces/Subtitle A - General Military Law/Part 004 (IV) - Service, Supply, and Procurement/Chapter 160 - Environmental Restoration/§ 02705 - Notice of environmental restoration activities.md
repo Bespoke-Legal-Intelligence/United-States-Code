@@ -46,7 +46,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technicalexpertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -76,13 +76,19 @@ Funding.—The Secretary shall, to the extent provided in appropriations Acts, m
 
 &emsp;(2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account 1990 established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144.)
+
+#### Amendment of Subsection (g)(2)
+
+<i>Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), (d), Jan. 2, 2013, 126 Stat. 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (g)(2) of this section is amended by striking “Closure Account 1990” and inserting “Closure Account”. See 2013 Amendment note below.</i>
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(2)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(2). Pub. L. 112–239 substituted “Closure Account” for “Closure Account 1990”.
 
 <b>2003</b>—Subsec. (d)(2)(C). Pub. L. 108–136, §317(b), added subpar. (C).
 
@@ -108,13 +114,17 @@ Subsec. (h). Pub. L. 104–106, §324(e), added subsec. (h).
 
 <b>1994</b>—Subsecs. (d) to (f). Pub. L. 103–337 added subsecs. (d) to (f).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by section 2711 of Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, see section 2711(d) of Pub. L. 112–239, set out as a note under section 2701 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 322(e) of Pub. L. 104–201, set out as a note under section 2703 of this title.
 
 #### Requirements for Restoration Advisory Boards and Exemption From Federal Advisory Committee Act
 
-Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, provided that: “The Secretary of Defense shall amend the regulations required by section 2705(d)(2) of title 10, United States Code, relating to the establishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
+Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, provided that: “The Secretary of Defense shall amend the regulations required by section 2705(d)(2) of title 10, United States Code, relating to theestablishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
 
 &emsp;“(1) Each restoration advisory board shall be fairly balanced in its membership in terms of the points of view represented and the functions to be performed.
 
@@ -134,7 +144,7 @@ Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, p
 
 #### Implementation Requirements for Restoration Advisory Boards
 
-Section 326(d) of Pub. L. 103–337 provided that: “Not later than 180 days after the date on which the Secretary of Defense announces a decision to establish restoration advisory boards, the Secretary shall—
+Pub. L. 103–337, div. A, title III, §326(d), Oct. 5, 1994, 108 Stat. 2713, provided that: “Not later than 180 days after the date on which the Secretary of Defense announces a decision to establish restoration advisory boards, the Secretary shall—
 
 &emsp;“(1) prescribe the regulations required under subsection (d)(2) of section 2705 of title 10, United States Code, as added by subsection (a); and
 
@@ -142,11 +152,11 @@ Section 326(d) of Pub. L. 103–337 provided that: “Not later than 180 days af
 
 #### Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards
 
-Section 326(e) of Pub. L. 103–337 directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
+Pub. L. 103–337, div. A, title III, §326(e), Oct. 5, 1994, 108 Stat. 2713, directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
 
 #### Restrictions on Administrative and Technical Assistance Funding
 
-Section 324(d)(2) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title III, §324(d)(2), Feb. 10, 1996, 110 Stat. 254, provided that:
 
 “(2)(A) Subject to subparagraph (B), the total amount of funds made available under section 2705(g) of title 10, United States Code, as added by paragraph (1), for fiscal year 1996 may not exceed $6,000,000.
 

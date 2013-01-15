@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(II) the expiration of such 60-day period; and
 
-&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement, lease, or conditional sale contract, if cure is permitted under that agreement, lease, or conditional sale contract.
+&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement, lease, or conditional sale contract, if cure ispermitted under that agreement, lease, or conditional sale contract.
 
 (2) The equipment described in this paragraph—
 
@@ -74,7 +74,7 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 &emsp;&emsp;&emsp;“(ii) the expiration of such 60-day period.
 
-“(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section, may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section.”
+“(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right totake possession is protected under subsection (a) of this section, may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section.”
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 inserted a comma after “approval”.
 

@@ -4,7 +4,7 @@ Not more than 180 days after November 16, 1990, the President shall, in consulta
 
 &emsp;(1) reducing energy consumption through conservation and energy efficiency;
 
-&emsp;(2) promoting the use of solar and renewable energy sources which reduce the amount of greenhouse gases released into the atmosphere;
+&emsp;(2) promoting the use of solar and renewable energy sources which reduce the amount ofgreenhouse gases released into the atmosphere;
 
 &emsp;(3) developing replacements for chlorofluorocarbons, halons, and other ozone-depleting substances which exhibit a significantly reduced potential for depleting stratospheric ozone;
 

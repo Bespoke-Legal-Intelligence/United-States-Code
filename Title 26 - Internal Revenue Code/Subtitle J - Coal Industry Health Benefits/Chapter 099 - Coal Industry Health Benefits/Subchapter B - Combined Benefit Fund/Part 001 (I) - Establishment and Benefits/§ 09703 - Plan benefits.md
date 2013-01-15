@@ -66,7 +66,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (d) Reserves for administration
 
-The trustees of the Combined Fund may reserve for each plan year, for use in payment ofthe administrative costs of the Combined Fund, an amount not to exceed 5 percent of the premiums to be paid to the Combined Fund under section 9704(a) during the plan year.
+The trustees of the Combined Fund may reserve for each plan year, for use in payment of the administrative costs of the Combined Fund, an amount not to exceed 5 percent of the premiums to be paid to the Combined Fund under section 9704(a) during the plan year.
 
 #### (e) Limitation on enrollment
 

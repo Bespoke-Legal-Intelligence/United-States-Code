@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (4) Contribution arrangement
 
-&emsp;An arrangement is described in this paragraph if it requires an eligible small employerto make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan.
+&emsp;An arrangement is described in this paragraph if it requires an eligible small employer to make a nonelective contribution on behalf of each employee who enrolls in a qualified health plan offered to employees by the employer through an exchange in an amount equal to a uniform percentage (not less than 50 percent) of the premium cost of the qualified health plan.
 
 #### (5) Seasonal worker hours and wages not counted
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (A) Aggregation rules
 
-&emsp;&emsp;All employers treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as a single employer for purposes of this section.
+&emsp;&emsp;All employers treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer for purposes of this section.
 
 #### (B) Other rules
 

@@ -38,7 +38,7 @@
 | [701i.](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md) | Elimination from protection of areas subject to evacuation. |
 | [701j.](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md) | Installation in dams of facilities for future development of hydroelectric power. |
 | [701k.](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md) | Crediting reimbursements for lost, stolen, or damaged property. |
-| 701<i>l</i>, 701<i>l</i>–1. Repealed. |  |
+| 701l, 701l–1. Repealed. |  |
 | [701m.](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md) | Insufficient Congressional authorization; preparations for and modification of project. |
 | [701n.](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md) | Emergency response to natural disasters. |
 | 701<i>o.</i> | Omitted. |

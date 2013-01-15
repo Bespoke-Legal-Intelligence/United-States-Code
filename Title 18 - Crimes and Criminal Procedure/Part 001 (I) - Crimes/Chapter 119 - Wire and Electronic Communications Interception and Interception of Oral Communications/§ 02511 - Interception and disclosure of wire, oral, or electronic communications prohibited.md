@@ -32,7 +32,7 @@
 
 &emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
-> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has beenfurnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order, statutory authorization, or certification under this chapter.
+> setting forth the period of time during which the provision of the information, facilities, ortechnical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order, statutory authorization, or certification under this chapter.
 
 (iii) If a certification under subparagraph (ii)(B) for assistance to obtain foreign intelligence information is based on statutory authority, the certification shall identify the specific statutory provision and shall certify that the statutory requirements have been met.
 
@@ -128,13 +128,17 @@
 
 #### Amendment of Paragraph (2)(a)(ii)(A)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2012, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.</i>
 
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
-Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, respectively.
+Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telecommunications, respectively.
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as amended by section 101(c)(1)(A) of Pub. L. 99–508, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -204,9 +208,9 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 #### Effective Date of 2008 Amendment
 
-Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
+Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwiseprovided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, provided that except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2012.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
 
 #### Effective Date of 2002 Amendment
 
@@ -222,7 +226,7 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of Title 47, Telecommunications.
 
 #### Effective Date of 1978 Amendment
 

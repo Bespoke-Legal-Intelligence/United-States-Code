@@ -28,7 +28,7 @@ There is established a Department of Homeland Security, as an executive departme
 
 #### (2) Responsibility for investigating and prosecuting terrorism
 
-&emsp;Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and local law enforcement agencies with jurisdiction over the acts in question.
+&emsp;Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and locallaw enforcement agencies with jurisdiction over the acts in question.
 
 (Pub. L. 107–296, title I, §101, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VIII, §8302, Dec. 17, 2004, 118 Stat. 3867.)
 
@@ -104,7 +104,7 @@ Sec. 22. \[Amended Ex. Ord. No. 12978, listed in a table under section 1701 of T
 
 Sec. 23. \[Amended Ex. Ord. No. 12977, set out as a note under section 121 of Title 40, Public Buildings, Property, and Works.\]
 
-Sec. 24. \[Amended Ex. Ord. No. 12919, set out as a note under section 2153 of Title 50, Appendix, War and National Defense.\]
+Sec. 24. \[Amended Ex. Ord. No. 12919, formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense.\]
 
 Sec. 25. \[Amended Ex. Ord. No. 12906, set out as a note under section 1457 of Title 43, Public Lands.\]
 
@@ -142,7 +142,7 @@ Sec. 41. \[Amended Ex. Ord. No. 12657, set out as a note under section 5195 of T
 
 Sec. 42. \[(a) to (i) amended Ex. Ord. No. 12656, set out as a note under section 5195 of Title 42, The Public Health and Welfare.\]
 
-Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specificFederal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of Homeland Security pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
+Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specific Federal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of Homeland Security pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
 
 Sec. 43. \[Amended Ex. Ord. No. 12580, set out as a note under section 9615 of Title 42, The Public Health and Welfare.\]
 
@@ -150,9 +150,9 @@ Sec. 44. \[Amended Ex. Ord. No. 12555, set out as a note under section 2602 of T
 
 Sec. 45. \[Amended Ex. Ord. No. 12501, set out as a note under section 4101 of Title 15, Commerce and Trade.\]
 
-Sec. 46. \[Amended Ex. Ord. No. 12472, set out as a note under section 5195 of Title 42, The Public Health and Welfare.\]
+Sec. 46. \[Amended Ex. Ord. No. 12472, formerly set out as a note under section 5195 of Title 42, The Public Health and Welfare.\]
 
-Sec. 47. \[Amended Ex. Ord. No. 12382, set out as a note under section 901 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.\]
+Sec. 47. \[Amended Ex. Ord. No. 12382, set out as a note under section 901 of Title 47, Telecommunications.\]
 
 Sec. 48. \[Amended Ex. Ord. No. 12341, set out as a note under section 1522 of Title 8, Aliens and Nationality.\]
 
@@ -242,7 +242,7 @@ The Commandant and the Assistant Commandant for Intelligence of the Coast Guard 
 
 Sec. 88. <i>Order of Succession.</i>
 
-Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
+Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible toact as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
 
 (a) Order of Succession.
 

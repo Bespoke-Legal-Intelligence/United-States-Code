@@ -12,7 +12,7 @@
 
 #### (3) Specification of budget function
 
-&emsp;The authorizations of appropriations contained in this subsection shall be considered to be a component of budget function 500 as used by the Office of Management and Budget to cover education, training, employment, and social services, and, as such, shall be considered to be related to the programs of the Departments of Labor, Health and Human Services, and Education for budgetary purposes.
+&emsp;The authorizations of appropriations contained in this subsection shall be considered tobe a component of budget function 500 as used by the Office of Management and Budget to cover education, training, employment, and social services, and, as such, shall be considered to be related to the programs of the Departments of Labor, Health and Human Services, and Education for budgetary purposes.
 
 #### (b) Subsistence
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 99–570 inserted at end “In addition to the amounts auth
 
 Pub. L. 99–551 added subsec. (c) and struck out former subsec. (c) which read as follows: “There is authorized to be appropriated to carry out part C of subchapter I of this chapter $1,984,000 for the fiscal year 1984 and for each of the fiscal years 1985 and 1986.”
 
-Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) which read as follows: “Of the amounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, there shall first be available for part A of subchapter I of this chapter an amount not less than the amount necessary to provide—
+Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) which read as follows: “Of theamounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, there shall first be available for part A of subchapter I of this chapter an amount not less than the amount necessary to provide—
 
 &emsp;“(A) 2,000 years of volunteer service in fiscal year 1984;
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Additional Appropriations Authorization
 
-Additional appropriations authorization for meeting increase in stipend to volunteers under section4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
+Additional appropriations authorization for meeting increase in stipend to volunteers under section 4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
 

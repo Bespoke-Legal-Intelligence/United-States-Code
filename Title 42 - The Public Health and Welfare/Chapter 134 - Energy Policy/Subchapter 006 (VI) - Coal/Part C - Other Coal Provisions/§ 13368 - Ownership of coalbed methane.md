@@ -16,7 +16,7 @@ Not later than 180 days after October 24, 1992, the Secretary of the Interior, w
 
 &emsp;(4) which do not have extensive development of coalbed methane gas.
 
-> The Secretary of the Interior, with the participation of the Secretary of Energy, shall revise such list of Affected States from time to time. Any Affected State shall be deleted from the list of Affected States upon the receipt by the Secretary of the Interior of a Governor's petition requesting such deletion, a State law requesting such deletion, or a resolution requesting such deletion enacted by the legislative body of the State. A Governor intending to petition the Secretary of the Interior to delete a State from the list of Affected States shall provide the State's legislative body with 6 months notice of such petition during a legislative session. At the end of such 6-month period, the Governor may petition the Secretary of the Interior to delete a Statefrom the list of Affected States, unless during such 6-month period, the State's legislative body has enacted a law or resolution disapproving the Governor's petition. Until the Secretary of the Interior, with the participation of the Secretary of Energy, publishes a different list, the States of West Virginia, Pennsylvania, Kentucky, Ohio, Tennessee, Indiana, and Illinois shall be the Affected States, effective on October 24, 1992. The States of Colorado, Montana, New Mexico, Wyoming, Utah, Virginia, Washington, Mississippi, Louisiana, and Alabama shall not be included on the Secretary of the Interior's list of Affected States or any extension or revision thereof.
+> The Secretary of the Interior, with the participation of the Secretary of Energy, shall revise such list of Affected States from time to time. Any Affected State shall be deleted from the list of Affected States upon the receipt by the Secretary of the Interior of a Governor's petition requesting such deletion, a State law requesting such deletion, or a resolution requesting such deletion enacted by the legislative body of the State. A Governor intending to petition the Secretary of the Interior to delete a State from the list of Affected States shall provide the State's legislative body with 6 months notice of such petition during a legislative session. At the end of such 6-month period, the Governor may petition the Secretary of the Interior to delete a State from the list of Affected States, unless during such 6-month period, the State's legislative body has enacted a law or resolution disapproving the Governor's petition. Until the Secretary of the Interior, with the participation of the Secretary of Energy, publishes a different list, the States of West Virginia, Pennsylvania, Kentucky, Ohio, Tennessee, Indiana, and Illinois shall be the Affected States, effective on October 24, 1992. The States of Colorado, Montana, New Mexico, Wyoming, Utah, Virginia, Washington, Mississippi, Louisiana, and Alabama shall not be included on the Secretary of the Interior's list of Affected States or any extension or revision thereof.
 
 #### (c) Failure to adopt statutory or regulatory procedure
 
@@ -58,7 +58,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 &emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in the pooling order issued by the Secretary of the Interior.
 
-&emsp;(B) The unit operator shall deposit in the escrow account all proceeds attributable to theconflicting interests of lessees, plus all proceeds in excess of ongoing operational expenses (including reasonable overhead costs) attributable to conflicting working interests.
+&emsp;(B) The unit operator shall deposit in the escrow account all proceeds attributable to the conflicting interests of lessees, plus all proceeds in excess of ongoing operational expenses (including reasonable overhead costs) attributable to conflicting working interests.
 
 (2) The Secretary of the Interior shall order payment of principal and accrued interest from the escrow account to all legally entitled entities within 30 days of receipt by the Secretary of the Interior of notification of the final legal determination of entitlement or upon agreement of all entities claiming an ownership interest in the coalbed methane gas. Upon such final determination—
 
@@ -122,7 +122,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 &emsp;(D) The practicality of locating the proposed spacing unit or well on a uniform pattern with other spacing units or wells.
 
-#### (<i>l</i>) Plugging
+#### (l) Plugging
 
 All coalbed methane wells drilled after October 24, 1992, that penetrate coal seams with remaining reserves shall provide for subsequent safe mining through the well in accordance with standards prescribed by the Secretary of the Interior, in consultation with any Federal and State agencies having authority over coal mine safety. Well plugging costs should be allocated in accordance with State law or private contractual arrangement, as the case may be.
 
@@ -140,7 +140,7 @@ The Secretary of the Interior shall not approve the drilling of any coalbed meth
 
 Nothing in this section shall be construed to prevent or inhibit the entity which has the right to develop and mine coal in any mine from venting coalbed methane gas to ensure safe mine operations.
 
-#### (<i>o</i>) Other laws
+#### (o) Other laws
 
 The Secretary of the Interior shall comply with all applicable Federal and State coal mine safety laws and regulations.
 
@@ -156,7 +156,7 @@ As used in this section—
 
 &emsp;(4) The term “nonparticipating working interest owner” means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3) of this section.
 
-&emsp;(5) The term “participating working interest owner” means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) <sup>2</sup>plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
+&emsp;(5) The term “participating working interest owner” means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) <sup>2</sup> plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
 
 &emsp;(6) The term “coal seam” means any stratum of coal 20 inches or more in thickness, unless a stratum of less thickness is being commercially worked, or can in the judgment of the Secretary of the Interior forseeably <sup>3</sup> be commercially worked and will require protection if wells are being drilled through it.
 

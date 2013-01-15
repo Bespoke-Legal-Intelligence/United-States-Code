@@ -28,7 +28,7 @@
 
 (1) Not later than 1 year after the effective date of this Act,<sup>1</sup> the Director of the National Institute of Justice shall certify to the Committees on the Judiciary of the House and Senate that—
 
-&emsp;(A) the Institute has entered into a contract with, or made a grant to, an appropriate entity for establishing, or has taken other appropriate action to ensure that there is established, not later than 2 years after September 13, 1994, a blind external proficiency testing program for DNA analyses, which shall be available to public and private laboratories performing forensic DNA analyses;
+&emsp;(A) the Institute has entered into a contract with, or made a grant to, an appropriate entity for establishing, or has taken other appropriate action to ensure that there is established, not later than 2 years after September 13, 1994, a blind external proficiency testingprogram for DNA analyses, which shall be available to public and private laboratories performing forensic DNA analyses;
 
 &emsp;(B) a blind external proficiency testing program for DNA analyses is already readily available to public and private laboratories performing forensic DNA analyses; or
 

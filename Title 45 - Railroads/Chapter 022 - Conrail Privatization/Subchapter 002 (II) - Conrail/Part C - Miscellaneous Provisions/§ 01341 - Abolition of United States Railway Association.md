@@ -4,7 +4,7 @@
 
 (1) Effective April 1, 1987, the United States Railway Association is abolished.
 
-(2) On January 1, 1987, all powers, duties, rights, and obligations of such association relating to the Corporation under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) shall be transferred to the Secretary of Transportation.
+(2) On January 1, 1987, all powers, duties, rights, and obligations of such association relating to the Corporation under the Regional RailReorganization Act of 1973 (45 U.S.C. 701 et seq.) shall be transferred to the Secretary of Transportation.
 
 (3) The sole function of the United States Railway Association after January 1, 1987, shall be the termination of its affairs and the liquidation of its assets.
 
@@ -12,7 +12,7 @@
 
 (1) Any securities of the Corporation held by the United States Railway Association shall, upon <sup>1</sup> October 21, 1986, be transferred to the Secretary of Transportation.
 
-(2) If, on the date the United States Railway Association is abolished under subsection (a) of this section, such association shall not have completed the termination of its affairs and theliquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
+(2) If, on the date the United States Railway Association is abolished under subsection (a) of this section, such association shall not have completed the termination of its affairs and the liquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
 
 #### (c) Financing agreement
 

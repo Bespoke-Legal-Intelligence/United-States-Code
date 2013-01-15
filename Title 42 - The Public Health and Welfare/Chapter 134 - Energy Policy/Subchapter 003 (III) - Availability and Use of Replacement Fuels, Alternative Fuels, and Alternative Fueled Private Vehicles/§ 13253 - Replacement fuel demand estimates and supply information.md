@@ -2,7 +2,7 @@
 
 #### (a) Estimates
 
-Not later than October 1, 1993, and annually thereafter, the Secretary, in consultation with the Administrator, the Secretary of Transportation, and other appropriate State and Federal officials, shall estimate for the following calendar year—
+Not later than October 1, 1993, and annually thereafter, the Secretary, in consultation with the Administrator, the Secretary of Transportation, and other appropriate State and Federalofficials, shall estimate for the following calendar year—
 
 &emsp;(1) the number of each type of alternative fueled vehicle likely to be in use in the United States;
 

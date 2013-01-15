@@ -12,7 +12,7 @@ Limitations on Uses.—(1) Amounts in the Fund may be appropriated only to carry
 
 (c)
 
-Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1998, the Secretary of Transportationmay obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
+Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1998, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1297; Pub. L. 103–305, title I, §102(c), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(c), Oct. 9, 1996, 110 Stat. 3216.)
 
@@ -58,7 +58,7 @@ Sept. 3, 1982, Pub. L. 97–248, §506(e)(5), 96 Stat. 679; Dec. 30, 1987, Pub. 
 
 In subsection (a), the words “for each fiscal year” are omitted as surplus.
 
-In subsection (b)(1), the words “Notwithstanding any other provision of law to the contrary” are omitted as surplus. The reference to “this chapter” is intended to include sections 48106 and 48107 of the revised title for accuracy because the source provisions for those sections were enacted after the source provisions being restated in this section.
+In subsection (b)(1), the words “Notwithstanding any other provision of law to the contrary” are omitted assurplus. The reference to “this chapter” is intended to include sections 48106 and 48107 of the revised title for accuracy because the source provisions for those sections were enacted after the source provisions being restated in this section.
 
 In subsection (b)(2), the words “for any fiscal year” are omitted as surplus.
 

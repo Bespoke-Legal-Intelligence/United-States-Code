@@ -46,7 +46,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 The benefit to which any individual is entitled under this section for any month shall not be paid for such month if—
 
-&emsp;(1) such individual receives aid or assistance in the form of money payments in such monthunder a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
+&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
@@ -54,7 +54,7 @@ The benefit to which any individual is entitled under this section for any month
 
 #### (e) Suspension where individual is residing outside United States
 
-The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposes of this subsection, the term “United States” means the 50 States and the District of Columbia.
+The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposesof this subsection, the term “United States” means the 50 States and the District of Columbia.
 
 #### (f) Treatment as monthly insurance benefits
 
@@ -76,7 +76,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 For purposes of this section—
 
-&emsp;(1) The term “quarter of coverage” includes a quarter of coverage as defined in section 228e(<i>l</i>) of title 45.
+&emsp;(1) The term “quarter of coverage” includes a quarter of coverage as defined in section 228e(l) of title 45.
 
 &emsp;(2) The term “governmental pension system” means the insurance system established by this subchapter or any other system or fund established by the United States, a State, any political subdivision of a State, or any wholly owned instrumentality of any one or more of the foregoing which provides for payment of (A) pensions, (B) retirement or retired pay, or (C) annuities or similar amounts payable on account of personal services performed by any individual (not including any payment under any workmen's compensation law or any payment by the Secretary of Veterans Affairs as compensation for service-connected disability or death).
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to section 5(l) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Section 5114(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect \[to\] benefits payable on the basis of applications filed after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5114(b), Nov. 5, 1990, 104 Stat. 1388–274, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect \[to\] benefits payable on the basis of applications filed after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 98–21 applicable only with respect to monthly payments pa
 
 #### Effective Date of 1973 Amendment
 
-Section 2(b)(1) of Pub. L. 93–233 provided that the amendment made by that section is effective June 1, 1974.
+Pub. L. 93–233, §2(b)(1), Dec. 31, 1973, 87 Stat. 952, provided that the amendment made by that section is effective June 1, 1974.
 
 Amendment by section 2(b)(1) of Pub. L. 93–233 applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title, see section 2(c) of Pub. L. 93–233, set out as a note under section 415 of this title.
 
@@ -212,7 +212,7 @@ Amendment by section 102(b) of Pub. L. 90–248 applicable with respect to month
 
 #### Repeal of Amendment of Subsecs. (b)(1), (2) and (c)(3)(A), (B) Prior to Effective Date
 
-Section 202(a)(4) of Pub. L. 92–336, title II, July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount mostrecently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 #### Application to Northern Mariana Islands
 
@@ -220,7 +220,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 #### Increases To Take Into Account General Benefit Increases
 
-Section 305(e) of Pub. L. 98–21 provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
+Pub. L. 98–21, title III, §305(e), Apr. 20, 1983, 97 Stat. 113, provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
@@ -228,5 +228,5 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by Secretary 
 
 #### Applications for Transitional Coverage of Uninsured Individuals for Hospital Insurance Benefits
 
-Section 302(b) of Pub. L. 89–368 provided that: “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
+Pub. L. 89–368, title III, §302(b), Mar. 15, 1966, 80 Stat. 70, provided that: “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
 

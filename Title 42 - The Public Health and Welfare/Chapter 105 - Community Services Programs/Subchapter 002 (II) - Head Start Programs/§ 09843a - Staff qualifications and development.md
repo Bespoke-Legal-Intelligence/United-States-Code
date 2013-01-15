@@ -130,7 +130,7 @@
 
 #### (1) “Mentor teacher” defined; function
 
-&emsp;For purposes of this subsection, the term “mentor teacher” means an individual responsible for observing and assessing the classroom activities of a Head Start program and providing on-the-job guidance and training to theHead Start program staff and volunteers, in order to improve the qualifications and training of classroom staff, to maintain high quality education services, and to promote career development, in Head Start programs.
+&emsp;For purposes of this subsection, the term “mentor teacher” means an individual responsible for observing and assessing the classroom activities of a Head Start program and providing on-the-job guidance and training to the Head Start program staff and volunteers, in order to improve the qualifications and training of classroom staff, to maintain high quality education services, and to promote career development, in Head Start programs.
 
 #### (2) Requirement
 
@@ -206,7 +206,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 #### (7) Status of Fellows
 
-&emsp;Except as otherwise provided in this paragraph, Head Start Fellows shall not be considered to be employees or otherwise in the service or employment of the Federal Government. Head Start Fellows shall be considered to be employees for purposes of compensation for injuries under chapter 81 of title 5. Head Start Fellows assigned to positions located in agencies specified in paragraph (3)(A)(i) shall beconsidered employees in the executive branch of the Federal Government for the purposes of chapter 11 of title 18 and for purposes of any administrative standards of conduct applicable to the employees of the agency to which they are assigned.
+&emsp;Except as otherwise provided in this paragraph, Head Start Fellows shall not be considered to be employees or otherwise in the service or employment of the Federal Government. Head Start Fellows shall be considered to be employees for purposes of compensation for injuries under chapter 81 of title 5. Head Start Fellows assigned to positions located in agencies specified in paragraph (3)(A)(i) shall be considered employees in the executive branch of the Federal Government for the purposes of chapter 11 of title 18 and for purposes of any administrative standards of conduct applicable to the employees of the agency to which they are assigned.
 
 #### (8) Regulations
 

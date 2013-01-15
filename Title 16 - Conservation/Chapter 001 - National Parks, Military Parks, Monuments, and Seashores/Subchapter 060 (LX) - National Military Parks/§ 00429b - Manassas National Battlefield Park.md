@@ -2,7 +2,7 @@
 
 #### (a) Establishment; boundaries
 
-There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460<i>l</i>–9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
+There is established as a unit of the national park system in the Commonwealth of Virginia the Manassas National Battlefield Park, which shall contain within its boundaries the important historical lands relating to the two battles of Manassas. The total area of the park shall not be greater than four thousand five hundred and twenty-five acres. The boundaries of the park shall be the boundaries depicted on the map entitled “Boundary Map, Manassas National Battlefield Park”, dated October 1980, and numbered 379/80,009, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary shall publish in the Federal Register, as soon as practicable after the date of the enactment of this Act, but no later than one year from the effective date of this section, a detailed description and map of the boundaries. Notwithstanding section 460l–9(c) of this title, the Secretary may not make any changes in the boundaries of the park. The Secretary shall administer the park in accordance with laws, rules, and regulations applicable to the national park system.
 
 #### (b) Addition to park
 
@@ -34,15 +34,15 @@ The date of the enactment of this Act and effective date of this Act, referred t
 
 #### Short Title of 1988 Amendment
 
-Section 10001 of title X of Pub. L. 100–647 provided that: “This title \[amending this section and section 429b–1 of this title and enacting provisions set out as a note below\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1988’.”
+Pub. L. 100–647, title X, §10001, Nov. 10, 1988, 102 Stat. 3810, provided that: “This title \[amending this section and section 429b–1 of this title and enacting provisions set out as a note below\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1988’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–442 provided: “That this Act \[enacting sections 429b–1 to 429b–5 of this title, amending this section, and enacting provisions set out as a note under section 460cc of this title\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1980’.”
+Pub. L. 96–442, §1, Oct. 13, 1980, 94 Stat. 1885, provided: “That this Act \[enacting sections 429b–1 to 429b–5 of this title, amending this section, and enacting provisions set out as a note under section 460cc of this title\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1980’.”
 
 #### Highway Relocation
 
-Section 10004 of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title X, §10004, Nov. 10, 1988, 102 Stat. 3811, provided that:
 
 “(a)
 
@@ -54,7 +54,7 @@ Determination.—Within 1 year after the enactment of this Act \[Nov. 10, 1988\]
 
 “(c)
 
-Assistance.—The Secretary shall provide funds to the appropriate construction agency for the construction and improvement of the highways to be used for the rerouting of traffic now utilizing highways (known as routes 29 and 234) to be closed pursuant to subsection (b) if the construction and improvement of such alternatives are deemed by the Secretary to be in the interest of protecting the integrity of the park. Not more than 75 percent of the costs of such construction and improvement shall be provided by the Secretary and at least 25 percent shall be provided by State or local governments from any source other than Federal funds. Such construction and improvement shall be approved by the Secretary of Transportation.
+Assistance.—The Secretary shall provide funds to the appropriate construction agency for the construction and improvement of the highways to be used for the rerouting of traffic now utilizing highways (known as routes 29 and 234) to be closed pursuant to subsection (b) if the construction and improvement of such alternatives are deemed by the Secretary to be in the interest of protecting the integrity of the park. Not more than 75 percent of the costs of such construction and improvement shall be provided by the Secretary and at least 25 percent shall be provided by State or local governments from any source other than Federalfunds. Such construction and improvement shall be approved by the Secretary of Transportation.
 
 “(d)
 

@@ -46,7 +46,7 @@ Independent Analysis.—The Secretary or Administrator may make a determination 
 
 (e)
 
-Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administrator may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
+Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administratormay make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(4), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 
@@ -88,7 +88,7 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purposeand Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (b). Pub. L. 110–181, §3522(a)(4)(C), (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
 

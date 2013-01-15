@@ -2,7 +2,7 @@
 
 #### (a) Year in which partnership income is includible
 
-In computing the taxable income of a partner for a taxable year, the inclusions required bysection 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.
+In computing the taxable income of a partner for a taxable year, the inclusions required by section 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.
 
 #### (b) Taxable year
 
@@ -162,7 +162,7 @@ Subsec. (b)(4). Pub. L. 100–647, §1008(e)(1)(B), substituted “Majority inte
 
 &emsp;“(B) if the partnership has not been in existence during all of such 3-taxable year period, the taxable years of such partner or partners ending with or within the period of existence.
 
-> This paragraph shall apply without regard to whether the same partners or interests are taken into accountin determining the 50 percent interest during any period.”
+> This paragraph shall apply without regard to whether the same partners or interests are taken into account in determining the 50 percent interest during any period.”
 
 Subsec. (b)(5). Pub. L. 100–647, §1008(e)(3), added par. (5).
 
@@ -192,7 +192,7 @@ Subsec. (c)(2). Pub. L. 94–455, §§213(c)(1), 1906(b)(13)(A), substituted “
 
 Amendment by section 507(b)(2) of Pub. L. 105–34 applicable to sales or exchanges after Aug. 5, 1997, see section 507(c)(2) of Pub. L. 105–34, set out as a note under section 644 of this title.
 
-Section 1246(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to partnership taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, §1246(c), Aug. 5, 1997, 111 Stat. 1030, provided that: “The amendments made by this section \[amending this section\] shall apply to partnership taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1988 Amendment
 
@@ -206,7 +206,7 @@ Amendment by section 1805(a) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Section 72(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply—
+Pub. L. 98–369, div. A, title I, §72(c), July 18, 1984, 98 Stat. 591, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply—
 
 &emsp;“(1) in the case of items described in section 706(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), to amounts attributable to periods after March 31, 1984, and
 

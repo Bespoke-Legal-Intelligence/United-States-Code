@@ -40,7 +40,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;(3) require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
 
-&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, exceptthat nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
+&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
 
 #### (b) Scope of exemptions
 

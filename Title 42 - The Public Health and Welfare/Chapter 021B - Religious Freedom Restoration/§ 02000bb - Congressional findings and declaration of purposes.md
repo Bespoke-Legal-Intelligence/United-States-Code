@@ -28,7 +28,11 @@ The purposes of this chapter are—
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Constitutionality
+
+For constitutionality of section 2 of Pub. L. 103–141, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Short Title
 
-Section 1 of Pub. L. 103–141 provided that: “This Act \[enacting this chapter and amending section 1988 of this title and section 504 of Title 5, Government Organization and Employees\] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”
+Pub. L. 103–141, §1, Nov. 16, 1993, 107 Stat. 1488, provided that: “This Act \[enacting this chapter and amending section 1988 of this title and section 504 of Title 5, Government Organization and Employees\] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”
 

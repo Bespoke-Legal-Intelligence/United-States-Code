@@ -4,7 +4,7 @@
 
 &emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fishery resources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
 
-&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservationmeasures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
+&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
 
 &emsp;(3) Improved management and enhancement planning and coordination among salmon and steelhead managers will help prevent a further decline of salmon and steelhead stocks and will assist in increasing the supply of these stocks.
 
@@ -30,7 +30,7 @@
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
+Pub. L. 96–561, title I, §101, Dec. 22, 1980, 94 Stat. 3275, provided that: “This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
 
 #### Research and Development Program To Improve Salmon Survival
 

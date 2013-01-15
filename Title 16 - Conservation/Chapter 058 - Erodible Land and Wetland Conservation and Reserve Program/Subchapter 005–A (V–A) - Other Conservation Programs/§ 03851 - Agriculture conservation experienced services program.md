@@ -8,7 +8,7 @@ The Secretary shall establish a conservation experienced services program (in th
 
 #### (1) Relation to older American community service employment program
 
-&emsp;Notwithstanding any other provision of law relating to Federal grants, cooperative agreements, or contracts, to carry out the ACES program during a fiscal year, the Secretary may enter into agreements with nonprofit private agencies and organizations eligible to receive grants for that fiscal year under the Community Service Senior Opportunities Act (42 U.S.C. 3056 et seq.) to secure participantsfor the ACES program who will provide technical services under the ACES program.
+&emsp;Notwithstanding any other provision of law relating to Federal grants, cooperative agreements, or contracts, to carry out the ACES program during a fiscal year, the Secretary may enter into agreements with nonprofit private agencies and organizations eligible to receive grants for that fiscal year under the Community Service Senior Opportunities Act (42 U.S.C. 3056 et seq.) to secure participants for the ACES program who will provide technical services under the ACES program.
 
 #### (2) Required determination
 

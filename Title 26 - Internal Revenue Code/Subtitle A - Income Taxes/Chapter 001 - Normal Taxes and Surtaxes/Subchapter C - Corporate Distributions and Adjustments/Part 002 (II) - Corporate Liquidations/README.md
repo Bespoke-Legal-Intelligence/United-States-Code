@@ -9,13 +9,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by Pub. L. 108–27, see section 303 of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.</i>
-
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–27, title III, §§302(e)(4)(B)(iii), 303, May 28, 2003, 117 Stat. 764, temporarily struck out item for subpart C “Collapsible corporations”.
+<b>2003</b>—Pub. L. 108–27, title III, §302(e)(4)(B)(iii), May 28, 2003, 117 Stat. 764, struck out item for subpart C “Collapsible corporations”.
 
 <b>1982</b>—Pub. L. 97–248, title II, §222(e)(8)(B), Sept. 3, 1982, 96 Stat. 481, inserted “and special rule” in item for subpart D.
 

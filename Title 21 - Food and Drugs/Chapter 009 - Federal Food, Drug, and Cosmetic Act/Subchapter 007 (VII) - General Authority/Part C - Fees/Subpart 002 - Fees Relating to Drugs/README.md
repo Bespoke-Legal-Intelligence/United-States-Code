@@ -1,9 +1,5 @@
 subpart 2—fees relating to drugs
 
-#### Termination of Subpart
-
-<i>For termination of subpart by section 105 of Pub. L. 102–571, see Termination Date note set out under section 379g of this title.</i>
-
 
 ---
 

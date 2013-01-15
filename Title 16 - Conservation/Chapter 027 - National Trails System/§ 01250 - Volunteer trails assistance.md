@@ -4,7 +4,7 @@
 
 (1) In addition to the cooperative agreement and other authorities contained in this chapter, the Secretary of the Interior, the Secretary of Agriculture, and the head of any Federal agency administering Federal lands, are authorized to encourage volunteers and volunteer organizations to plan, develop, maintain, and manage, where appropriate, trails throughout the Nation.
 
-(2) Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize the Volunteers in the Parks Act of 1969 \[16 U.S.C. 18g et seq.\], the Volunteers in the Forests Act of 1972 \[16 U.S.C. 558a et seq.\], and section 460<i>l</i>–8 of this title (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
+(2) Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize the Volunteers in the Parks Act of 1969 \[16 U.S.C. 18g et seq.\], the Volunteers in the Forests Act of 1972 \[16 U.S.C. 558a et seq.\], and section 460l–8 of this title (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
 
 #### (b) Scope of volunteer work
 

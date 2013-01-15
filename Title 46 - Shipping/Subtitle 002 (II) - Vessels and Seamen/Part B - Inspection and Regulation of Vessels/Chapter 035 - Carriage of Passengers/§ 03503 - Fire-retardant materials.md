@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 46:369(b)
 
-Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least 50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensive and additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
+Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensive and additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
 
 #### Amendments
 

@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 100–696, §901(b)(1), inserted “The Secretary of the Se
 
 #### Senate Rulemaking Power
 
-Section 901(d) of Pub. L. 100–696 provided that: “The provisions of this section \[enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title\] are enacted by the Congress—
+Pub. L. 100–696, title IX, §901(d), Nov. 18, 1988, 102 Stat. 4611, provided that: “The provisions of this section \[enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title\] are enacted by the Congress—
 
 &emsp;“(1) as an exercise of the rulemaking power of the Senate, and as such they shall be considered as part of the rules of the Senate, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 

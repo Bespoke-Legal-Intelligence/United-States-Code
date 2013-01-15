@@ -6,7 +6,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 #### (b) Students
 
-(1)(A) The Secretary, to the extent necessary in order to prevent curtailment of opportunitiesfor employment, shall by special certificate issued under a regulation or order provide, in accordance with subparagraph (B), for the employment, at a wage rate not less than 85 per centum of the otherwise applicable wage rate in effect under section 206 of this title or not less than $1.60 an hour, whichever is the higher, of full-time students (regardless of age but in compliance with applicable child labor laws) in retail or service establishments.
+(1)(A) The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by special certificate issued under a regulation or order provide, in accordance with subparagraph (B), for the employment, at a wage rate not less than 85 per centum of the otherwise applicable wage rate in effect under section 206 of this title or not less than $1.60 an hour, whichever is the higher, of full-time students (regardless of age but in compliance with applicable child labor laws) in retail or service establishments.
 
 (B) Except as provided in paragraph (4)(B), during any month in which full-time students are to be employed in any retail or service establishment under certificates issued under this subsection the proportion of student hours of employment to the total hours of employment of all employees in such establishment may not exceed—
 
@@ -90,7 +90,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(ii) the productivity of other employees performing work of essentially the same type and quality for other employers in the same vicinity.
 
-(E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants arequest to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
+(E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants a request to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
 
 (F) The Secretary, within thirty days after receiving a request for review, shall review the record and either adopt the decision of the administrative law judge or issue exceptions. The decision of the administrative law judge, together with any exceptions, shall be deemed to be a final agency action.
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 93–259, §24(a), added subsec. (b) and struck out former 
 
 Subsecs. (c), (d). Pub. L. 93–259, §24(a), (b), struck out subsec. (c) and redesignated subsec. (d) as (c). Former subsec. (c) had provided: “The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by certificate or order provide for the employment of full-time students, regardless of age but in compliance with applicable child labor laws, on a part-time basis in agriculture (not to exceed twenty hours in any workweek) or on a part-time or full-time basis in agriculture during school vacations, at a wage rate not less than 85 per centum of the minimum wage applicable under section 206 of this title. Before the Secretary may issue a certificate or order under this subsection he must find that such employment will not create a substantial probability of reducing the full-time employment opportunities of persons other than those employed under this subsection.”
 
-<b>1966</b>—Pub. L. 89–601 provided for employment of full-time students regardless of age but in compliance with applicable child labor laws outside of their school hours in retail or service establishments or in agriculture at not less than 85 percent of the minimum wage in full-time positions during school vacations or in part-time positions not to exceed 20 hours in any workweek under certificates issued by the Secretary, set out the formula for the allowable proportion of student hours ofemployment to total hours of employment, provided for the employment of handicapped workers at rates down to 50 percent of the applicable minimum wage and at even lower rates for persons suffering severe impairment, authorized the establishment of special rates for handicapped workers employed in work activities centers, and defined work activity centers.
+<b>1966</b>—Pub. L. 89–601 provided for employment of full-time students regardless of age but in compliance with applicable child labor laws outside of their school hours in retail or service establishments or in agriculture at not less than 85 percent of the minimum wage in full-time positions during school vacations or in part-time positions not to exceed 20 hours in any workweek under certificates issued by the Secretary, set out the formula for the allowable proportion of student hours of employment to total hours of employment, provided for the employment of handicapped workers at rates down to 50 percent of the applicable minimum wage and at even lower rates for persons suffering severe impairment, authorized the establishment of special rates for handicapped workers employed in work activities centers, and defined work activity centers.
 
 <b>1961</b>—Pub. L. 87–30 provided for employment of students in cl. (1).
 
@@ -162,7 +162,7 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Study of Wages Paid Handicapped Clients in Sheltered Workshops
 
-Section 605 of Pub. L. 89–601 instructed Secretary of Labor to commence a complete study of wage payments to handicapped clients of sheltered workshops and of feasibility of raising existing wage standards in such workshops. The Secretary was directed to report to Congress by July 1, 1967, findings of such study with appropriate recommendations.
+Pub. L. 89–601, title VI, §605, Sept. 23, 1966, 80 Stat. 845, instructed Secretary of Labor to commence a complete study of wage payments to handicapped clients of sheltered workshops and of feasibility of raising existing wage standards in such workshops. The Secretary was directed to report to Congress by July 1, 1967, findings of such study with appropriate recommendations.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

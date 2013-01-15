@@ -18,7 +18,7 @@
 
 #### Effective Date
 
-Section 1(c) of Pub. L. 95–67 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding section 101 of this title\] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act \[July 19, 1977\].”
+Pub. L. 95–67, §1(c), July 19, 1977, 91 Stat. 271, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending analysis preceding section 101 of this title\] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act \[July 19, 1977\].”
 
 #### Residence of Members of Congress for State Personal Property Tax on Motor Vehicles
 

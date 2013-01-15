@@ -28,11 +28,11 @@ As used in this chapter unless the context otherwise requires:
 
 #### Short Title of 1976 Amendment
 
-Section 1(a) of Pub. L. 94–360 provided that: “This Act \[amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of thistitle\] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
+Pub. L. 94–360, §1(a), July 13, 1976, 90 Stat. 915, provided that: “This Act \[amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of this title\] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 91–540, as amended by Pub. L. 94–360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act of 1970’.”
+Pub. L. 91–540, §1, Dec. 9, 1970, 84 Stat. 1404, as amended by Pub. L. 94–360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

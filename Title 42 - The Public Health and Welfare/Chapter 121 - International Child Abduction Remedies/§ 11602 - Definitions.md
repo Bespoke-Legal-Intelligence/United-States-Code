@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 &emsp;(5) the term “person” includes any individual, institution, or other legal entity or body;
 
-&emsp;(6) the term “respondent” means any person against whose interests a petition is filed incourt, in accordance with this chapter, which seeks relief under the Convention;
+&emsp;(6) the term “respondent” means any person against whose interests a petition is filed in court, in accordance with this chapter, which seeks relief under the Convention;
 
 &emsp;(7) the term “rights of access” means visitation rights;
 

@@ -10,5 +10,5 @@ A prior section 2417 was renumbered section 2419 of this title.
 
 #### Effective Date
 
-Section 814(b) of Pub. L. 101–510 provided that: “Section 2417 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
+Pub. L. 101–510, div. A, title VIII, §814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “Section 2417 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
 

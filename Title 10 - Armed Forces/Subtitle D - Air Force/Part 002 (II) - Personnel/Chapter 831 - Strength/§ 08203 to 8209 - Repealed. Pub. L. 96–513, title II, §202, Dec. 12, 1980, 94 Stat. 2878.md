@@ -6,7 +6,7 @@ Section 8204, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L.
 
 Section 8205, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L. 85–600, §1(15), 72 Stat. 523; Sept. 2, 1958, Pub. L. 85–861, §1(160), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in commissioned officers on active list, exclusive of certain categories.
 
-Section 8206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, §301(1), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, §1(26)(A), 81 Stat. 382, prescribed authorized strength of Air Force nurses in commissioned officers on active list of Regular Air Force.
+Section 8206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, §301(1), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, §1(26)(A), 81 Stat. 382, prescribed authorized strength of Air Force nurses incommissioned officers on active list of Regular Air Force.
 
 Section 8207, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, §301(2), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, §1(26)(B), 81 Stat. 382, prescribed authorized strength of Air Force medical specialists in commissioned officers on active list of Regular Air Force.
 

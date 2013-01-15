@@ -106,7 +106,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;(B) to develop and provide training, education, and professional development programs, including faculty development, to increase the use of, and usefulness of, digital and wireless networking technology;
 
-&emsp;&emsp;(C) to provide teacher education, including the provision of preservice teacher training and in-service professional development at eligible institutions, library and media specialist training, and preschool and teacher aid certification to individuals who seek to acquire or enhance technology skills in order to use digital and wireless networking technology in the classroom or instructional process, including instruction in science, mathematics, engineering, and technology subjects;
+&emsp;&emsp;(C) to provide teacher education, including the provision of preservice teacher training and in-service professional development at eligible institutions, library and media specialist training, and preschool and teacher aid certification to individuals who seek to acquire or enhance technology skills in order to use digital and wireless networking technology in the classroom or instructional process, including instruction in science,mathematics, engineering, and technology subjects;
 
 &emsp;&emsp;(D) to obtain capacity-building technical assistance, including through remote technical support, technical assistance workshops, and distance learning services; or
 
@@ -244,7 +244,7 @@ Subsec. (c). Pub. L. 100–519, §201(c)(2), substituted “Under Secretary, as 
 
 Subsec. (c)(1) to (9). Pub. L. 100–519, §201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
 
-Subsec. (c)(10). Pub. L. 100–519, §201(c)(1), (3), redesignated former par. (6) as (10) and substituted “UnderSecretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
+Subsec. (c)(10). Pub. L. 100–519, §201(c)(1), (3), redesignated former par. (6) as (10) and substituted “Under Secretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
 
 Subsec. (c)(11) to (14). Pub. L. 100–519, §201(c)(1), redesignated former pars. (7) to (10) as (11) to (14), respectively.
 

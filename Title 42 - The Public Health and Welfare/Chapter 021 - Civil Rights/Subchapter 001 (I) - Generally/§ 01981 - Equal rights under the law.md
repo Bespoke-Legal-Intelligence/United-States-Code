@@ -26,7 +26,7 @@ Section was formerly classified to section 41 of Title 8, Aliens and Nationality
 
 #### Effective Date of 1991 Amendment
 
-Section 402 of Pub. L. 102–166 provided that:
+Pub. L. 102–166, title IV, §402, Nov. 21, 1991, 105 Stat. 1099, provided that:
 
 “(a)
 
@@ -38,7 +38,7 @@ Certain Disparate Impact Cases.—Notwithstanding any other provision of this Ac
 
 #### Short Title of 1991 Amendment
 
-Section 1 of Pub. L. 102–166 provided that: “This Act \[enacting section 1981a of this title and sections 60<i>l</i> and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the ‘Civil Rights Act of 1991’.”
+Pub. L. 102–166, §1, Nov. 21, 1991, 105 Stat. 1071, provided that: “This Act \[enacting section 1981a of this title and sections 60l and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the ‘Civil Rights Act of 1991’.”
 
 #### Short Title of 1976 Amendment
 
@@ -46,11 +46,11 @@ Pub. L. 94–559, which amended section 1988 of this title, is known as “The C
 
 #### Severability
 
-Section 401 of Pub. L. 102–166 provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected.”
+Pub. L. 102–166, title IV, §401, Nov. 21, 1991, 105 Stat. 1099, provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected.”
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 102–166 provided that: “The Congress finds that—
+Pub. L. 102–166, §2, Nov. 21, 1991, 105 Stat. 1071, provided that: “The Congress finds that—
 
 &emsp;“(1) additional remedies under Federal law are needed to deter unlawful harassment and intentional discrimination in the workplace;
 
@@ -60,7 +60,7 @@ Section 2 of Pub. L. 102–166 provided that: “The Congress finds that—
 
 #### Purposes of 1991 Amendment
 
-Section 3 of Pub. L. 102–166 provided that: “The purposes of this Act \[see Short Title of 1991 Amendment note above\] are—
+Pub. L. 102–166, §3, Nov. 21, 1991, 105 Stat. 1071, provided that: “The purposes of this Act \[see Short Title of 1991 Amendment note above\] are—
 
 &emsp;“(1) to provide appropriate remedies for intentional discrimination and unlawful harassment in the workplace;
 
@@ -72,15 +72,15 @@ Section 3 of Pub. L. 102–166 provided that: “The purposes of this Act \[see 
 
 #### Legislative History for 1991 Amendment
 
-Section 105(b) of Pub. L. 102–166 provided that: “No statements other than the interpretive memorandum appearing at Vol. 137 Congressional Record S 15276 (daily ed. Oct. 25, 1991) shall be considered legislative history of, or relied upon in any way as legislative history in construing or applying, any provision of this Act \[see Short Title of 1991 Amendment note above\] that relates to Wards Cove—Business necessity/cumulation/alternative business practice.”
+Pub. L. 102–166, title I, §105(b), Nov. 21, 1991, 105 Stat. 1075, provided that: “No statements other than the interpretive memorandum appearing at Vol. 137 Congressional Record S 15276 (daily ed. Oct. 25, 1991) shall be considered legislative history of, or relied upon in any way as legislative history in construing or applying, any provision of this Act \[see Short Title of 1991 Amendment note above\] that relates to Wards Cove—Business necessity/cumulation/alternative business practice.”
 
 #### Construction of 1991 Amendment
 
-Section 116 of title I of Pub. L. 102–166 provided that: “Nothing in the amendments made by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\] shall be construed to affect court-ordered remedies, affirmative action, or conciliation agreements, that are in accordance with the law.”
+Pub. L. 102–166, title I, §116, Nov. 21, 1991, 105 Stat. 1079, provided that: “Nothing in the amendments made by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\] shall be construed to affect court-ordered remedies, affirmative action, or conciliation agreements, that are in accordance with the law.”
 
 #### Alternative Means of Dispute Resolution
 
-Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\].”
+Pub. L. 102–166, title I, §118, Nov. 21, 1991, 105 Stat. 1081, provided that: “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\].”
 
 #### Executive Order No. 13050
 

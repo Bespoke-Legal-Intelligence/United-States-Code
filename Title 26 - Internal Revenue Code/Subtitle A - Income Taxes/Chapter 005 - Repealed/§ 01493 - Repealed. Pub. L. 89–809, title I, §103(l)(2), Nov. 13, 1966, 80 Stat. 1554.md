@@ -1,4 +1,4 @@
-### \[§1493. Repealed. Pub. L. 89–809, title I, §103(<i>l</i>)(2), Nov. 13, 1966, 80 Stat. 1554\]
+### \[§1493. Repealed. Pub. L. 89–809, title I, §103(l)(2), Nov. 13, 1966, 80 Stat. 1554\]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 365, defined foreign trust.
 

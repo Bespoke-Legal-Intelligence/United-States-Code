@@ -30,7 +30,7 @@ Data or information may be conveyed pursuant to subsection (a) only if the follo
 
 #### (2) Criminal penalty
 
-&emsp;A private entity described in the <sup>1</sup> subsection (a) that willfully publishes, discloses, or makes known in any manner, or to any extent not authorized by Federal law, any information obtained under this section shall be fined not more than $10,000 or imprisoned not more than 1 year, or both, for each such unauthorized publication or disclosure.
+&emsp;A private entity described in the <sup>1</sup> subsection (a) that willfully publishes, discloses, or makes known in any manner, or to any extentnot authorized by Federal law, any information obtained under this section shall be fined not more than $10,000 or imprisoned not more than 1 year, or both, for each such unauthorized publication or disclosure.
 
 #### (d) Rule of construction
 

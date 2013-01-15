@@ -80,7 +80,7 @@ Section 16(c) of the Office of Federal Procurement Policy Act, referred to in su
 
 <b>2008</b>—Subsec. (f)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of funds provided to a project under paragraph (1) shall be not less than the amount equal to 50 percent of the total cost of the project.”
 
-Subsecs. (h), (i). Pub. L. 110–417 redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than March 31 of each year, the Under Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on the activities carried out by the Initiative during the preceding fiscal year.”
+Subsecs. (h), (i). Pub. L. 110–417 redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than March 31 of each year, the Under Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriationsof the House of Representatives a report on the activities carried out by the Initiative during the preceding fiscal year.”
 
 <b>2006</b>—Subsec. (g)(2). Pub. L. 109–163 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The duty of the Council shall be to provide advice and assistance to the Manager under this section.”
 

@@ -16,7 +16,7 @@ Pub. L. 108–219, title III, §301, Apr. 13, 2004, 118 Stat. 616, provided that
 
 #### Short Title
 
-Section 701 of title VII of Pub. L. 104–43 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Yukon River Salmon Act of 1995’.”
+Pub. L. 104–43, title VII, §701, Nov. 3, 1995, 109 Stat. 392, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Yukon River Salmon Act of 1995’.”
 
 Pub. L. 106–450, title II, §201, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Yukon River Salmon Act of 2000’.”
 

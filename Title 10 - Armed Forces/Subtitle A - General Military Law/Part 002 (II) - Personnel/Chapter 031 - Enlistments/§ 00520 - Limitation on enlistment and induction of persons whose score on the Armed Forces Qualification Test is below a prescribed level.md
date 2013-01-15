@@ -4,7 +4,7 @@
 
 (b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
-(Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L.98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840.)
+(Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Amendment of subsection (b) is based on Pub. L. 93–307, title IV, §401, June 
 
 #### Effective Date of 1981 Amendment
 
-Section 402(b)(2) of Pub. L. 97–86 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 1, 1981\].”
+Pub. L. 97–86, title IV, §402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 1, 1981\].”
 
 #### Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed Forces
 

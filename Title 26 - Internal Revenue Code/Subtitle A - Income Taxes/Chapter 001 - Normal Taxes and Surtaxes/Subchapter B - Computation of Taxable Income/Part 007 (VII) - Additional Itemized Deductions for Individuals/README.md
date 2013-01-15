@@ -19,15 +19,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination</i><i>Dates of 2001 Amendment note set out under section 1 of this title.</i>
-
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–173, title XII, §1201(j), Dec. 8, 2003, 117 Stat. 2479, added items 223 and 224 and struck out former item 223 “Cross reference”.
 
-<b>2001</b>—Pub. L. 107–16, title IV, §431(c)(4), title IX, §901, June 7, 2001, 115 Stat. 68, 150, temporarily added items 222 and 223 and struck out former item 222 “Cross reference”.
+<b>2001</b>—Pub. L. 107–16, title IV, §431(c)(4), June 7, 2001, 115 Stat. 68, added items 222 and 223 and struck out former item 222 “Cross reference”.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, substituted “Archer MSAs” for “Medical savings accounts” in item 220.
 

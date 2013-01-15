@@ -76,7 +76,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (2) Plan of work
 
-&emsp;The State shall include in the plan of work of the State required under section 361g of thistitle a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
+&emsp;The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
 
 #### (i) Integration of research and extension
 
@@ -88,7 +88,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (A) 1997 expenditures on multistate activities
 
-&emsp;&emsp;Of the Federal formula funds that were paid to each State for fiscal year 1997 under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title, the Secretary of Agriculture shall determine the percentage that the State expended for integrated activities.
+&emsp;&emsp;Of the Federal formula funds that were paid to each State for fiscal year 1997 undersections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title, the Secretary of Agriculture shall determine the percentage that the State expended for integrated activities.
 
 #### (B) Required expenditures on multistate activities
 
@@ -120,7 +120,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 &emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008.)
+(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted “or the District 
 
 Subsec. (c)(1), (2). Pub. L. 105–185, §104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
 
-Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection\(b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
+Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
 
 Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 

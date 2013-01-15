@@ -48,7 +48,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(A) the identity and current address in the United States of the alien;
 
-&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under theclassification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
+&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under the classification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
 
 &emsp;&emsp;(C) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the current academic status of the alien, including whether the alien is maintaining status as a full-time student or, in the case of a participant in a designated exchange visitor program, whether the alien is satisfying the terms and conditions of such program;
 
@@ -110,7 +110,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (3) Aliens described
 
-&emsp;An alien referred to in paragraph (1) is an alien who seeks nonimmigrant status under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title (other than a nonimmigrant under section 1101(a)(15)(J) of this title who seeks to come to the United States as a participant in a program sponsored by the Federal Government).
+&emsp;An alien referred to in paragraph (1) is an alien who seeks nonimmigrant status under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title (other than a nonimmigrant under section 1101(a)(15)(J) of this title who seeks to come to the United Statesas a participant in a program sponsored by the Federal Government).
 
 #### (4) Amount and use of fees
 

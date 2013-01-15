@@ -98,7 +98,7 @@ Pub. L. 106–117, title V, §502(c), Nov. 30, 1999, 113 Stat. 1574, provided th
 
 #### Effective Date of 1990 Amendment
 
-Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
+Pub. L. 101–508, title VIII, §8004(b), Nov. 5, 1990, 104 Stat. 1388–343, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
 
 #### Effective Date of 1974 Amendment
 
@@ -120,7 +120,7 @@ Pub. L. 108–183, title I, §101(d), Dec. 16, 2003, 117 Stat. 2653, provided th
 
 Pub. L. 108–183, title I, §101(e), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for benefits under title 38, United States Code, by reason of the amendment made by subsection (a) \[amending this section\] and whose remarriage was before the date of the enactment of this Act \[Dec. 16, 2003\] and after the individual had attained age 57, the individual shall be eligible for such benefits by reason of such amendment only if the individual submits an application for such benefits to the Secretary of Veterans Affairs not later than the end of the one-year period beginning on the date of the enactment of this Act.”
 
-Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended by Pub. L. 108–183, title I, §101(f), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was before the date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs beforethe end of the one-year period beginning on the date of the enactment of the Veterans Benefits Act of 2003 \[Dec. 16, 2003\].”
+Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended by Pub. L. 108–183, title I, §101(f), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was before the date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs before the end of the one-year period beginning on the date of the enactment of the Veterans Benefits Act of 2003 \[Dec. 16, 2003\].”
 
 #### Limitation on Payments
 
@@ -142,7 +142,7 @@ Pub. L. 102–86, title V, §502, Aug. 14, 1991, 105 Stat. 424, provided that: �
 
 #### Reinstatement of Benefits Subsequent to Termination of Relationship or Conduct Restricting Payment of Benefits; Effective Date of Award
 
-Section 5 of Pub. L. 91–376, effective January 1, 1971, provided that:
+Pub. L. 91–376, §5, Aug. 12, 1970, 84 Stat. 789, effective January 1, 1971, provided that:
 
 “(a) If a widow terminates a relationship or conduct which resulted in imposition of a prior restriction on payment of benefits, in the nature of inference or presumption of remarriage, or relating to open and notorious adulterous cohabitation or similar conduct, she shall not be denied any benefits by the Veterans’ Administration, other than insurance, solely because of such prior relationship or conduct.
 

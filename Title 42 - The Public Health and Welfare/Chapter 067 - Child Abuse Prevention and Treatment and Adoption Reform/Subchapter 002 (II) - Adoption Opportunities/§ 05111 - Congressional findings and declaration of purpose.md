@@ -50,7 +50,7 @@ Congress finds that—
 
 It is the purpose of this subchapter to facilitate the elimination of barriers, including geographic barriers, to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly older children, minority children, and children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—
 
-&emsp;(1) promote quality standards for adoption services, pre-placement, post-placement, and post-legal adoption counseling, and standards to protect the rights of children in need of adoption;
+&emsp;(1) promote quality standards for adoption services, pre-placement, post-placement, andpost-legal adoption counseling, and standards to protect the rights of children in need of adoption;
 
 &emsp;(2) maintain an Internet-based national adoption information exchange system to—
 

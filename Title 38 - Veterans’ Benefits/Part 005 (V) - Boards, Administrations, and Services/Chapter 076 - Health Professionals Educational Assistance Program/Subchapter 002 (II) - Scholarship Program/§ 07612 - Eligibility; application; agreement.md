@@ -34,7 +34,7 @@
 
 &emsp;(B) the agreement shall include the participant's agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
 
-(4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligatedservice that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
+(4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, §603(b), May 5, 2010, 124 Stat. 1173.)
 
@@ -88,9 +88,9 @@ Pub. L. 102–40, §402(d)(1), substituted “7616(b)(3)(A)(i)” for “4316(b)
 
 #### Effective Date of 1992 Amendment
 
-Section 202(b) of Pub. L. 102–405 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to scholarship agreements entered into after the date of the enactment of this Act \[Oct. 9, 1992\].”
+Pub. L. 102–405, title II, §202(b), Oct. 9, 1992, 106 Stat. 1983, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to scholarship agreements entered into after the date of the enactment of this Act \[Oct. 9, 1992\].”
 
 #### Implementation of Equitable Allocation Provisions
 
-Section 207(b) of Pub. L. 101–237 provided that: “The Secretary of Veterans Affairs shall provide for the implementation of the amendment made by subsection (a) \[amending this section\] beginning with scholarships awarded under section 4312 \[now 7612\] of title 38, United States Code, during 1990.”
+Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068, provided that: “The Secretary of Veterans Affairs shall provide for the implementation of the amendment made by subsection (a) \[amending this section\] beginning with scholarships awarded under section 4312 \[now 7612\] of title 38, United States Code, during 1990.”
 

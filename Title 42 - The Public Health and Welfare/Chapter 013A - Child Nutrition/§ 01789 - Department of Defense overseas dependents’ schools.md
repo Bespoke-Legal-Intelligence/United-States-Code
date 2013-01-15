@@ -14,7 +14,7 @@ The Secretary of Defense shall be required to offer meals meeting nutritional st
 
 #### (d) Authorization of appropriations
 
-Funds are hereby authorized to be appropriated for any fiscal year in such amounts as may be necessary for the administrative expenses of the Department of Defense under this section.
+Funds are hereby authorized to be appropriated for any fiscal year in such amounts asmay be necessary for the administrative expenses of the Department of Defense under this section.
 
 #### (e) Technical assistance for administration of program
 
@@ -28,7 +28,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (d) identically, strikingout “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each breakfast for each student eligible for a free breakfast, and (2) the full cost of each breakfast, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price breakfast” after “this section”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each breakfast for each student eligible for a free breakfast, and (2) the full cost of each breakfast, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price breakfast” after “this section”.
 
 #### Effective Date
 

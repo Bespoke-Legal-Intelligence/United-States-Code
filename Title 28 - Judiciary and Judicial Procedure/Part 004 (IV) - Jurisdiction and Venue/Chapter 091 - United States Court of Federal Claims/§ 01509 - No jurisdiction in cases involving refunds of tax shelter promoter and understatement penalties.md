@@ -20,5 +20,5 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date
 
-Section 714(g)(4) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[enacting this section and amending section 7422 of Title 26, Internal Revenue Code\] shall apply to any claim for refund or credit filed after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title VII, §714(g)(4), July 18, 1984, 98 Stat. 962, provided that: “The amendments made by this subsection \[enacting this section and amending section 7422 of Title 26, Internal Revenue Code\] shall apply to any claim for refund or credit filed after the date of the enactment of this Act \[July 18, 1984\].”
 

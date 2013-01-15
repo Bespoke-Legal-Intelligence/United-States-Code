@@ -40,7 +40,7 @@ Subsec. (b)(3) of this section, which required the Secretary to transmit to Cong
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–150, §5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–150, §5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
 
 &emsp;“(i) $5,000,000 for fiscal year 1991;
 

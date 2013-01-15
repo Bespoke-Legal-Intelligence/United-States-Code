@@ -12,15 +12,15 @@ Uniform Implementation.—The Secretary shall ensure that, to the maximum extent
 
 #### Effective Date
 
-Section 1211 of title XII of Pub. L. 101–510 provided that: “Except as otherwise provided in this title \[seeShort Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, provided that: “Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Short Title
 
-Section 1201 of title XII of Pub. L. 101–510 provided that: “This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the ‘Defense Acquisition Workforce Improvement Act’.”
+Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: “This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the ‘Defense Acquisition Workforce Improvement Act’.”
 
 #### Regulations
 
-Section 1210(a) of title XII of Pub. L. 101–510 provided that: “Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–510, div. A, title XII, §1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: “Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Coordination of Human Systems Integration Activities Related to Acquisition Programs
 
@@ -112,41 +112,7 @@ Definition.—In this section, the term ‘post-employment restrictions’ inclu
 
 #### Government Performance of Critical Acquisition Functions
 
-Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as amended by Pub. L. 111–84, div. A, title VIII, §805(c), Oct. 28, 2009, 123 Stat. 2403; Pub. L. 112–81, div. A, title VIII, §835(a), Dec. 31, 2011, 125 Stat. 1507, provided that:
-
-“(a)
-
-Goal.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, within five years after the date of the enactment of this Act \[Oct. 17, 2006\], for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the Armed Forces or full-time employee of the Department of Defense:
-
-&emsp;“(1) Program manager.
-
-&emsp;“(2) Deputy program manager.
-
-&emsp;“(3) Product support manager.
-
-&emsp;“(4) Chief engineer.
-
-&emsp;“(5) Systems engineer.
-
-&emsp;“(6) Chief developmental tester.
-
-&emsp;“(7) Cost estimator.
-
-“(b)
-
-Plan of Action.—Not later than six months after the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall develop and begin implementation of a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a). The plan of action required by this subsection shall include specific, measurable interim milestones.
-
-“(c)
-
-Reports.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\] and each year thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made by the Department of Defense and the military departments toward achieving the goal established in subsection (a).
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘major defense acquisition program’ has the meaning given such term in section 2430(a) of title 10, United States Code.
-
-&emsp;“(2) The term ‘major automated information system program’ has the meaning given such term in section 2445a(a) of title 10, United States Code (as added by section 816 of this Act).”
+Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, as amended by Pub. L. 111–84, div. A, title VIII, §805(c), Oct. 28, 2009, 123 Stat. 2403; Pub. L. 112–81, div. A, title VIII, §835(a), Dec. 31, 2011, 125 Stat. 1507, which related to government performance of critical acquisition functions, was repealed by Pub. L. 112–239, div. A, title VIII, §824(b), Jan. 2, 2013, 126 Stat. 1833.
 
 #### Demonstration Project Relating to Certain Personnel Management Policies and Procedures
 
@@ -154,9 +120,9 @@ Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as
 
 #### Evaluation by Comptroller General
 
-Section 1208 of title XII of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
+Pub. L. 101–510, div. A, title XII, §1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
 
 #### Deadlines for Qualification Requirements
 
-Section 1210(b) of Pub. L. 101–510 provided that: “Not later than October 1, 1992, the Secretary of Defense shall prescribe regulations to implement sections 1723, 1724, and 1732 of title 10, United States Code (as added by section 1202).”
+Pub. L. 101–510, div. A, title XII, §1210(b), Nov. 5, 1990, 104 Stat. 1667, provided that: “Not later than October 1, 1992, the Secretary of Defense shall prescribe regulations to implement sections 1723, 1724, and 1732 of title 10, United States Code (as added by section 1202).”
 

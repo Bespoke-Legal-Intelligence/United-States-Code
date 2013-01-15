@@ -126,7 +126,7 @@ Acquisition of property.—The Contractor is granted the authority to acquire su
 
 &emsp;&emsp;“(E)
 
-Confiscated or excess property.—The Secretary shall assist the Contractor inobtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
+Confiscated or excess property.—The Secretary shall assist the Contractor in obtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
 
 &emsp;&emsp;“(F)
 
@@ -340,7 +340,7 @@ The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the pr
 
 #### Prior Provisions
 
-A prior section 450<i>l</i>, Pub. L. 93–638, title I, §108, Jan. 4, 1975, 88 Stat. 2212, which related to report by tribe requesting contract or grant, was renumbered section 5(f) of Pub. L. 93–638, by Pub. L. 100–472, title II, §208, Oct. 5, 1988, 102 Stat. 2296, and is classified to section 450c(f) of this title.
+A prior section 450l, Pub. L. 93–638, title I, §108, Jan. 4, 1975, 88 Stat. 2212, which related to report by tribe requesting contract or grant, was renumbered section 5(f) of Pub. L. 93–638, by Pub. L. 100–472, title II, §208, Oct. 5, 1988, 102 Stat. 2296, and is classified to section 450c(f) of this title.
 
 #### Amendments
 
@@ -348,7 +348,7 @@ A prior section 450<i>l</i>, Pub. L. 93–638, title I, §108, Jan. 4, 1975, 88 
 
 #### Quarterly Payments of Funds to Tribes
 
-Pub. L. 105–83, title III, §311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 \[see Short Title of 1994 Amendment note set out under section 450 of this title\], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 \[25 U.S.C. 450<i>l</i>\], as amended, beginning in fiscal year 1998 and therafter, \[sic\] may be made on the first business day following the first day of a fiscal quarter.”
+Pub. L. 105–83, title III, §311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 \[see Short Title of 1994 Amendment note set out under section 450 of this title\], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 \[25 U.S.C. 450l\], as amended, beginning in fiscal year 1998 and therafter, \[sic\] may be made on the first business day following the first day of a fiscal quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

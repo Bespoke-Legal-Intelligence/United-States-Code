@@ -1,6 +1,6 @@
 ### §1084. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section, act Aug. 13, 1946, ch. 957, title VIII, §834, as added Sept. 8, 1960, Pub. L. 86–723, §37, 74 Stat. 842; amended July 12, 1976, Pub. L. 94–350, title V, §509, 90 Stat. 840, related to discontinued service retirement.
+Section, act Aug. 13, 1946, ch. 957, title VIII, §834, as added Sept. 8, 1960, Pub. L. 86–723, §37, 74 Stat. 842;amended July 12, 1976, Pub. L. 94–350, title V, §509, 90 Stat. 840, related to discontinued service retirement.
 
 #### Effective Date of Repeal
 

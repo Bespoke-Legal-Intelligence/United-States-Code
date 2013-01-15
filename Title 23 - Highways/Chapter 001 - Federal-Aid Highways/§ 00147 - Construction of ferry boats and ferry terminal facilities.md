@@ -10,51 +10,57 @@ Federal Share.—The Federal share of the cost of construction of ferry boats, f
 
 (c)
 
-Allocation of Funds.—The Secretary shall give priority in the allocation of funds under this section to those ferry systems, and public entities responsible for developing ferries, that—
-
-&emsp;(1) provide critical access to areas that are not well-served by other modes of surface transportation;
-
-&emsp;(2) carry the greatest number of passengers and vehicles; or
-
-&emsp;(3) carry the greatest number of passengers in passenger-only service.
+Distribution of Funds.—Of the amounts made available to ferry systems and public entities responsible for developing ferries under this section for a fiscal year, 100 percent shall be allocated in accordance with the formula set forth in subsection (d).
 
 (d)
 
-Set-Aside for Projects on NHS.—
+Formula.—Of the amounts allocated pursuant to subsection (c)—
 
-&emsp;(1)
+&emsp;(1) 20 percent shall be allocated among eligible entities in the proportion that—
 
-In general.—$20,000,000 of the amount made available to carry out this section for each of fiscal years 2005 through 2009 shall be obligated for the construction or refurbishment of ferry boats and ferry terminal facilities and approaches to such facilities within marine highway systems that are part of the National Highway System.
+&emsp;&emsp;(A) the number of ferry passengers carried by each ferry system in the most recent fiscal year; bears to
 
-&emsp;(2)
+&emsp;&emsp;(B) the number of ferry passengers carried by all ferry systems in the most recent fiscal year;
 
-Alaska.—$10,000,000 of the $20,000,000 for a fiscal year made available under paragraph (1) shall be made available to the State of Alaska.
+&emsp;(2) 45 percent shall be allocated among eligible entities in the proportion that—
 
-&emsp;(3)
+&emsp;&emsp;(A) the number of vehicles carried by each ferry system in the most recent fiscal year; bears to
 
-New jersey.—$5,000,000 of the $20,000,000 for a fiscal year made available under paragraph (1) shall be made available to the State of New Jersey.
+&emsp;&emsp;(B) the number of vehicles carried by all ferry systems in the most recent fiscal year; and
 
-&emsp;(4)
+&emsp;(3) 35 percent shall be allocated among eligible entities in the proportion that—
 
-Washington.—$5,000,000 of the $20,000,000 for a fiscal year made available under paragraph (1) shall be made available to the State of Washington.
+&emsp;&emsp;(A) the total route miles serviced by each ferry system; bears to
+
+&emsp;&emsp;(B) the total route miles serviced by all ferry systems.
 
 (e)
 
-Period of Availability.—Notwithstanding section 118(b), funds made available to carry out this section shall remain available until expended.
+Authorization of Appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $67,000,000 for each of fiscal years 2013 and 2014.
 
 (f)
 
+Period of Availability.—Notwithstanding section 118(b), funds made available to carry out this section shall remain available until expended.
+
+(g)
+
 Applicability.—All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
 
-(Added Pub. L. 93–87, title I, §126(a), Aug. 13, 1973, 87 Stat. 263; amended Pub. L. 94–280, title I, §130, May 5, 1976, 90 Stat. 440; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1801(a), Aug. 10, 2005, 119 Stat. 1455.)
+(Added Pub. L. 93–87, title I, §126(a), Aug. 13, 1973, 87 Stat. 263; amended Pub. L. 94–280, title I,§130, May 5, 1976, 90 Stat. 440; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1801(a), Aug. 10, 2005, 119 Stat. 1455; Pub. L. 112–141, div. A, title I, §1121(a), July 6, 2012, 126 Stat. 493.)
 
 #### Amendments
+
+<b>2012</b>—Subsecs. (c) to (g). Pub. L. 112–141 added subsecs. (c) to (e), redesignated former subsecs. (e) and (f) as (f) and (g), respectively, and struck out former subsecs. (c) and (d) which related to allocation of funds and set-aside for projects on National Highway System, respectively.
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to program for construction of ferry boats and ferry terminal facilities for provisions relating to selection of high traffic sections of highways as priority primary routes for priority of improvement to supplement the service provided by the Interstate System by furnishing needed adequate traffic collector and distributor facilities.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–280 amended subsec. (b) generally, striking out apportionment provisions.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Authorization of Appropriations
 

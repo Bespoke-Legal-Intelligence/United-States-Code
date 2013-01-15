@@ -84,13 +84,13 @@ This chapter, referred to in subsec. (d)(1)(C), probably should have been “thi
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–348, §301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
 
-Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment,text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
 &emsp;“(A) injury compensation under chapter 81 of title 5;
 

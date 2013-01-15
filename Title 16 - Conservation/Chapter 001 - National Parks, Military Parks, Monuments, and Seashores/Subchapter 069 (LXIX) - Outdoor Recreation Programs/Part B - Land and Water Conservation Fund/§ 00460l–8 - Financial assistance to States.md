@@ -16,7 +16,7 @@ Sums appropriated and available for State purposes for each fiscal year shall be
 
 &emsp;(4) The Secretary shall notify each State of its apportionments; and the amounts thereof shall be available thereafter for payment to such State for planning, acquisition, or development projects as hereafter prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which such notification is given and for two fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) of this subsection, without regard to the 10 per centum limitation to an individual State specified in this subsection.
 
-&emsp;(5) For the purposes of paragraph (1) of this subsection, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (when such islands achieve Commonwealth status) shall be treated collectively as one State, and shall receive shares of such apportionment in proportion to their populations. The above listed areas shall be treated as States for all other purposes of sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title.
+&emsp;(5) For the purposes of paragraph (1) of this subsection, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (when such islands achieve Commonwealth status) shall be treated collectively as one State, and shall receive shares of such apportionment in proportion to their populations. The above listed areas shall be treated as States for all other purposes of sections 460l–4 to 460l–6a and 460l–7 to 460l–10e of this title.
 
 #### (c) Matching requirements
 
@@ -98,7 +98,7 @@ In order to assure consistency in policies and actions under this part with othe
 
 #### References in Text
 
-This part, referred to in text, was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+This part, referred to in text, was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Housing Act of 1961, referred to in subsec. (g), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under title VII of that Act after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title of 1961 Amendment note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
@@ -106,7 +106,7 @@ Section 701 of the Housing Act of 1954, referred to in subsec. (g), is section 7
 
 #### Prior Provisions
 
-A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified to section 460<i>l</i>–9 of this title.
+A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified to section 460l–9 of this title.
 
 #### Amendments
 

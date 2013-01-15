@@ -1,0 +1,34 @@
+### §516. Research and development
+
+(a)
+
+In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research and development, and operational tests of intelligent vehicles, intelligent infrastructure systems, and other similar activities that are necessary to carry out this chapter.
+
+(b)
+
+Priority Areas.—Under the program, the Secretary shall give higher priority to funding projects that—
+
+&emsp;(1) enhance mobility and productivity through improved traffic management, incident management, transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
+
+&emsp;(2) use interdisciplinary approaches to develop traffic management strategies and tools to address multiple impacts of congestion concurrently;
+
+&emsp;(3) address traffic management, incident management, transit management, toll collection traveler information, or highway operations systems;
+
+&emsp;(4) incorporate research on the potential impact of environmental, weather, and natural conditions on intelligent transportation systems, including the effects of cold climates;
+
+&emsp;(5) enhance intermodal use of intelligent transportation systems for diverse groups, including for emergency and health-related services;
+
+&emsp;(6) enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems; or
+
+&emsp;(7) facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
+
+(c)
+
+Federal Share.—The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
+
+(Added Pub. L. 112–141, div. E, title III, §53004(a), July 6, 2012, 126 Stat. 902.)
+
+#### Effective Date
+
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+

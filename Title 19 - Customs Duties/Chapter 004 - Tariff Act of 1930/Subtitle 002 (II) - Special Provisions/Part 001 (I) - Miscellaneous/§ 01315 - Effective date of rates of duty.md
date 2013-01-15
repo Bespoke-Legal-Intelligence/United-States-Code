@@ -22,7 +22,7 @@ Insofar as duties are based upon the quantity of any merchandise, such duties sh
 
 No administrative ruling resulting in the imposition of a higher rate of duty or charge than the Secretary of the Treasury shall find to have been applicable to imported merchandise under an established and uniform practice shall be effective with respect to articles entered for consumption or withdrawn from warehouse for consumption prior to the expiration of thirty days after the date of publication in the Federal Register of notice of such ruling; but this provision shall not apply with respect to the imposition of antidumping duties, or the imposition of countervailing duties under section 1303 of this title (as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title. This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.
 
-(June 17, 1930, ch. 497, title III, §315, 46 Stat. 695; June 25, 1938, ch. 679, §6, 52 Stat. 1081; Aug. 8, 1953, ch. 397, §3(a), 67 Stat. 508; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 93–618, title III, §331(c), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 95–410, title I, §101, title II, §204, Oct. 3, 1978, 92 Stat. 888, 900; Pub. L. 96–39, title XI, §1106(e), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1213(c), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 103–182, title VI, §633, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 103–465, title II, §261(d)(1)(B)(i), Dec. 8, 1994, 108 Stat. 4909.)
+(June 17, 1930, ch. 497, title III, §315, 46 Stat. 695; June 25, 1938, ch. 679, §6, 52 Stat. 1081; Aug. 8, 1953, ch. 397, §3(a), 67 Stat. 508; Pub. L. 91–271,title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 93–618, title III, §331(c), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 95–410, title I, §101, title II, §204, Oct. 3, 1978, 92 Stat. 888, 900; Pub. L. 96–39, title XI, §1106(e), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1213(c), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 103–182, title VI, §633, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 103–465, title II, §261(d)(1)(B)(i), Dec. 8, 1994, 108 Stat. 4909.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ For the effective date of title II of the Uruguay Round Agreements Act \[Pub. L.
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–465 inserted “(as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title” after “section 1303 of this title”.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such othermeans as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–182, §633(2), substituted “custody of the Customs Service” for “customs custody”.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 95–410, §204, substituted “publication in the Federal 
 
 #### Effective Date of 1994 Amendment
 
-Section 261(d)(2) of title II of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section and sections 1337, 1671, 1677i, 2192, and 2194 of this title and provisions set out as a note under section 1303 of this title\] shall take effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\].
+Pub. L. 103–465, title II, §261(d)(2), Dec. 8, 1994, 108 Stat. 4910, provided that: “The amendments made by this subsection \[amending this section and sections 1337, 1671, 1677i, 2192, and 2194 of this title and provisions set out as a note under section 1303 of this title\] shall take effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\].
 
 #### Effective Date of 1988 Amendment
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Effective Date of 1975 Amendment
 
-Section 331(d) of Pub. L. 93–618, as amended by Pub. L. 103–465, title II, §261(d)(1)(A)(i), Dec. 8, 1994, 108 Stat. 4909, provided that:
+Pub. L. 93–618, title III, §331(d), Jan. 3, 1975, 88 Stat. 2053, as amended by Pub. L. 103–465, title II, §261(d)(1)(A)(i), Dec. 8, 1994, 108 Stat. 4909, provided that:
 
 “(1) The amendments made by this section \[amending this section and sections 1303 and 1516 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975.\]
 

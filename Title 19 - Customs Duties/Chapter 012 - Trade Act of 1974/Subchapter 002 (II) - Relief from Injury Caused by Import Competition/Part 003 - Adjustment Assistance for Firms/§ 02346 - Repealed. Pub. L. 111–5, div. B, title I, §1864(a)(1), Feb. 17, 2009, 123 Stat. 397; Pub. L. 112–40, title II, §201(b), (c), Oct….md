@@ -8,7 +8,7 @@ Section, Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L.
 
 #### Effective and Termination Dates of Repeal
 
-For temporary revival and applicability of repeal, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as Effective and Termination Dates of 2011 Revival notes preceding section 2271 of this title. For termination of repeal and reinstatement of former section 2346 of this title beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
+For temporary revival and applicability of repeal, as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233of Pub. L. 112–40, set out as Effective and Termination Dates of 2011 Revival notes preceding section 2271 of this title. For termination of repeal and reinstatement of former section 2346 of this title beginning on Jan. 1, 2014, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
 Repeal effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title.
 

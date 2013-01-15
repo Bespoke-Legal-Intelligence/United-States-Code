@@ -30,7 +30,7 @@
 
 #### (4) Reviewability of imposition of penalty
 
-&emsp;The Secretary's <sup>1</sup> determination or order imposing a penalty under subsection (a) of thissection shall not be subject to review, except as provided in subsection (c) of this section.
+&emsp;The Secretary's <sup>1</sup> determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (c) of this section.
 
 #### (c) Judicial review of agency determination
 
@@ -44,7 +44,7 @@
 
 #### (d) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of thissection, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's <sup>1</sup> determination or order imposing the penalty shall not be subject to review.
 
 #### (e) Settlement by Director
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date
 
-Section 111(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §111(b), Dec. 15, 1989, 103 Stat. 2016, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
 &emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 

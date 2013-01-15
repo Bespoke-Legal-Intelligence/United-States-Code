@@ -10,13 +10,13 @@
 
 &emsp;(4) leave required to be taken under section 876a of this title.
 
-> Full-time training, or other full-time duty for a period of more than 29 days, performed under section 316, 502, 503, 504, or 505 of title 32 by amember of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
+> Full-time training, or other full-time duty for a period of more than 29 days, performed under section 316, 502, 503, 504, or 505 of title 32 by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
 
 (b) Except as provided in subsections (d), (f), and (g), a member may not accumulate more than 60 days’ leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
 
 (c) A member who retired after August 9, 1946, who is continued on, or is recalled to active duty, may have his leave which accumulated during his service before retirement carried over to his period of service after retirement.
 
-(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2013, a member may accumulate up to 75 days of leave.
+(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2015, a member may accumulate up to 75 days of leave.
 
 (e) Leave taken before discharge is considered to be active service.
 
@@ -30,7 +30,7 @@
 
 &emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense as qualifying duty for purposes of this subsection.
 
-(C) Except as provided in paragraph (2), leave in excess of the days of leave authorized to be accumulated under subsection (b) or (d) that are accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year (or fourth fiscal year, if accumulated while subsection (d) is in effect) after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
+(C) Except as provided in paragraph (2), leave in excess of the days of leave authorized to beaccumulated under subsection (b) or (d) that are accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year (or fourth fiscal year, if accumulated while subsection (d) is in effect) after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
 
 (2) Under the uniform regulations referred to in paragraph (1), a member of an armed force who serves on active duty in a duty assignment in support of a contingency operation during a fiscal year and who, except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated.
 
@@ -56,9 +56,9 @@
 
 (2) Leave under paragraph (1) is in addition to other leave authorized under this section.
 
-(k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation orrelease is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
+(k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213.)
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722.)
 
 Historical and Revision Notes
 
@@ -101,6 +101,8 @@ In subsections (b) and (c), the word “accrued” is omitted as covered by the 
 In subsection (e), the words “before or after August 9, 1946” and section 31a(a) (words after semicolon in 9th sentence) of existing title 37 are omitted as executed.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 substituted “September 30, 2015” for “September 30, 2013”.
 
 <b>2011</b>—Subsec. (k). Pub. L. 111–383 added subsec. (k).
 
@@ -166,7 +168,7 @@ Pub. L. 110–417, \[div. A\], title V, §532(b), Oct. 14, 2008, 122 Stat. 4449,
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §593(b), Jan. 6, 2006, 119 Stat. 3281, provided that: “Subsection (i) of section 701of title 10, United States Code (as added by subsection (a)), shall take effect on January 1, 2006, and shall apply only with respect to adoptions completed on or after that date.”
+Pub. L. 109–163, div. A, title V, §593(b), Jan. 6, 2006, 119 Stat. 3281, provided that: “Subsection (i) of section 701 of title 10, United States Code (as added by subsection (a)), shall take effect on January 1, 2006, and shall apply only with respect to adoptions completed on or after that date.”
 
 #### Effective Date of 2003 Amendment
 
@@ -174,7 +176,7 @@ Pub. L. 108–136, div. A, title V, §542(b), Nov. 24, 2003, 117 Stat. 1478, pro
 
 #### Effective Date of 1983 Amendment
 
-Section 1031(b)(1), (2) of Pub. L. 98–94 provided that:
+Pub. L. 98–94, title X, §1031(b)(1), (2), Sept. 24, 1983, 97 Stat. 671, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to leave accumulated under section 701(f) of such title \[this title\] after September 30, 1980.
 
@@ -186,11 +188,11 @@ Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period begi
 
 #### Effective Date of 1972 Amendment
 
-Section 3 of Pub. L. 92–596 provided that: “The first and second sections of this Act \[amending this section and section 501 of Title 37, Pay and Allowances of the Uniformed Services\] become effective as of February 28, 1961.”
+Pub. L. 92–596, §3, Oct. 27, 1972, 86 Stat. 1318, provided that: “The first and second sections of this Act \[amending this section and section 501 of Title 37, Pay and Allowances of the Uniformed Services\] become effective as of February 28, 1961.”
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–245 provided that: “Section 1 of this Act \[amending this section\] applies only to active duty performed after January 1, 1968.”
+Pub. L. 90–245, §2, Jan. 2, 1968, 81 Stat. 782, provided that: “Section 1 of this Act \[amending this section\] applies only to active duty performed after January 1, 1968.”
 
 #### Effective Date of 1965 Amendment
 

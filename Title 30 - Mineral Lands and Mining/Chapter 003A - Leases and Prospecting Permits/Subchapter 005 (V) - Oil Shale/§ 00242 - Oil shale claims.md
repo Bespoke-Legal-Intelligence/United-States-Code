@@ -40,11 +40,11 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 #### (f) Reclamation
 
-In addition to other applicable requirements, any person who holds a limited patent or maintains a claim pursuant to this section shall be required to carry out reclamation as prescribed by the Secretary and to furnish a bond or other appropriate financial guarantee in an amount sufficient to ensure adequate reclamation of the lands to be disturbed by any aspect of the proposed mining activities.
+In addition to other applicable requirements, any person who holds a limited patent or maintains a claim pursuant to this section shall be required to carry out reclamation as prescribed by the Secretary and to furnish a bond or other appropriate financial guarantee in an amountsufficient to ensure adequate reclamation of the lands to be disturbed by any aspect of the proposed mining activities.
 
 #### (g) Reaffirmation of requirements
 
-Without comment on the adequacy of current or former standards for determining validity of oil shale claims, Congress reaffirms the requirements of law that a patent may issue only topersons who hold valid claims and the need for careful review of any applications.
+Without comment on the adequacy of current or former standards for determining validity of oil shale claims, Congress reaffirms the requirements of law that a patent may issue only to persons who hold valid claims and the need for careful review of any applications.
 
 #### (h) Issuance of patents
 

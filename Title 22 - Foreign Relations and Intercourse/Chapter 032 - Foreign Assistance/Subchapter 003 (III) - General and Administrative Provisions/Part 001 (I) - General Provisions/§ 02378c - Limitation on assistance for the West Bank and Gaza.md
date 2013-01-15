@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Foreign terrorist organization
 
-&emsp;The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary ofState in accordance with section 1189(a) of title 8.
+&emsp;The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary of State in accordance with section 1189(a) of title 8.
 
 (Pub. L. 87–195, pt. III, §620L, as added Pub. L. 109–446, §3(a), Dec. 21, 2006, 120 Stat. 3320.)
 

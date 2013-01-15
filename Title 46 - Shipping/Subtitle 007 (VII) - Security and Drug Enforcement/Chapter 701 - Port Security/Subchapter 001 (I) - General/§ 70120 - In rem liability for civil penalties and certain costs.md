@@ -20,19 +20,19 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(B) required handling of cargo or other items on board the vessel.
 
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(l)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–304, §15(33)(B), (C). See 2006 Amendment notes below.
 
-<b>2006</b>—Pub. L. 109–304, §15(33)(B), which directed renumbering identical to that made by Pub. L. 109–241, §901(<i>l</i>)(2), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
+<b>2006</b>—Pub. L. 109–304, §15(33)(B), which directed renumbering identical to that made by Pub. L. 109–241, §901(l)(2), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
-Pub. L. 109–241, §901(<i>l</i>)(2), renumbered section 70117 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
+Pub. L. 109–241, §901(l)(2), renumbered section 70117 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
 
-Subsec. (a). Pub. L. 109–304, §15(33)(C), which directed amendment identical to that made by Pub. L. 109–241, §901(<i>l</i>)(3), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
+Subsec. (a). Pub. L. 109–304, §15(33)(C), which directed amendment identical to that made by Pub. L. 109–241, §901(l)(3), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
-Pub. L. 109–241, §901(<i>l</i>)(3), substituted “section 70119” for “section 70120”.
+Pub. L. 109–241, §901(l)(3), substituted “section 70119” for “section 70120”.
 
 #### Construction of 2006 Amendment
 

@@ -2,7 +2,31 @@
 
 (a)
 
-Triennial State Management Reviews.—At least once every 3 years the Secretary shall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs.
+Triennial State Management Reviews.—
+
+&emsp;(1)
+
+In general.—Except as provided under paragraph (2), the Secretary shall conduct a review of each State highway safety program at least once every 3 years.
+
+&emsp;(2)
+
+Exceptions.—The Secretary may conduct reviews of the highway safety programs of the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands as often as the Secretary determines to be appropriate.
+
+&emsp;(3)
+
+Components.—Reviews under this subsection shall include—
+
+&emsp;&emsp;(A) a management evaluation of all grant programs funded under this chapter;
+
+&emsp;&emsp;(B) an assessment of State data collection and evaluation relating to performance measures established by the Secretary;
+
+&emsp;&emsp;(C) a comparison of State efforts under subparagraphs (A) and (B) to best practices and programs that have been evaluated for effectiveness; and
+
+&emsp;&emsp;(D) the development of recommendations on how each State could—
+
+&emsp;&emsp;&emsp;(i) improve the management and oversight of its grant activities; and
+
+&emsp;&emsp;&emsp;(ii) provide a management and oversight plan for such grant programs.
 
 (b)
 
@@ -44,21 +68,19 @@ Publication.—The Secretary shall make publicly available on the Web site (or s
 
 Reports to state highway safety agencies.—The Secretary may not make publicly available a program, report, or review under paragraph (2) that is directed to a State highway safety agency until after the date on which the program, report, or review is submitted to that agency under this chapter.
 
-(f) GAO
-
-Review.—
-
-&emsp;(1)
-
-Analysis.—The Comptroller General shall analyze the effectiveness of the Administration's oversight of traffic safety grants under this chapter by determining the usefulness of the Administration's advice to the States regarding administration and State activities under this chapter, the extent to which the States incorporate the Administration's recommendations into their highway safety programs, and the improvements that result in a State's highway safety program that may be attributable to the Administration's recommendations.
-
-&emsp;(2)
-
-Report.—Not later than September 30, 2008, the Comptroller General shall submit a report on the results of the analysis to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-
-(Added Pub. L. 109–59, title II, §2008(a), Aug. 10, 2005, 119 Stat. 1533.)
+(Added Pub. L. 109–59, title II, §2008(a), Aug. 10, 2005, 119 Stat. 1533; amended Pub. L. 112–141, div. C, title I, §31107, July 6, 2012, 126 Stat. 755.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §31107(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “At least once every 3 years the Secretary shall conduct a review of each State highway safety program. The review shall include a management evaluation of all grant programs funded under this chapter. The Secretary shall provide review-based recommendations on how each State could improve the management and oversight of its grant activities and may provide a management and oversight plan for such grant programs.”
+
+Subsec. (f). Pub. L. 112–141, §31107(2), struck out subsec. (f) which related to GAO review.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

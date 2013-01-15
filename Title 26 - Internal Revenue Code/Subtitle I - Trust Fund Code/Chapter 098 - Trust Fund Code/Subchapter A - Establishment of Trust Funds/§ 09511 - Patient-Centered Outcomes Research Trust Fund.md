@@ -32,7 +32,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Trust Fund transfers
 
-&emsp;In addition to the amounts appropriated under paragraph (1), there shall be credited to the PCORTF the amounts transferred under section 1183 of the Social Security Act.
+&emsp;In addition to the amounts appropriated under paragraph (1), there shall be credited tothe PCORTF the amounts transferred under section 1183 of the Social Security Act.
 
 #### (3) Limitation on transfers to PCORTF
 

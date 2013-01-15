@@ -24,7 +24,7 @@
 
 (d) This section does not apply in a case to which section 1502 of title 10 applies.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1),\(c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 

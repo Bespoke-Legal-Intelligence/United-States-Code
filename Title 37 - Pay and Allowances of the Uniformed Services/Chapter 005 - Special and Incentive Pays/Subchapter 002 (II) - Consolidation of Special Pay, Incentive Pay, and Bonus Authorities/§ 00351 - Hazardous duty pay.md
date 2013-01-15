@@ -66,11 +66,13 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2012.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2013.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (c)(2). Pub. L. 112–81, §616(b), substituted “receipt of hazardous duty pay—” for “receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.” and added subpars. (A) and (B).
 

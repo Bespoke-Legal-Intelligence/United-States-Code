@@ -40,7 +40,7 @@ In general.—Notwithstanding any other provision of law, regulations issued und
 
 &emsp;&emsp;(B) physical testing, reporting, or recordkeeping, and
 
-&emsp;&emsp;(C) the installation of automatic recording devices associated with establishing the maximum driving and on-duty times referred to in subparagraph (A),
+&emsp;&emsp;(C) the installation of automatic recording devices associated with establishing themaximum driving and on-duty times referred to in subparagraph (A),
 
 > &emsp;shall not apply to any driver of a utility service vehicle during an emergency period of not more than 30 days declared by an elected State or local government official under paragraph (2) in the area covered by the declaration.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Savings Provision
 
-Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
+Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having anyeffect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
 
 #### Continued Application of Safety and Maintenance Requirements
 
@@ -182,19 +182,7 @@ Utility service vehicle.—The term ‘utility service vehicle’ has the meanin
 
 #### Study of Adequacy of Parking Facilities
 
-Pub. L. 105–178, title IV, §4027, June 9, 1998, 112 Stat. 417, provided that:
-
-“(a)
-
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System, analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
-
-“(b)
-
-Report.—Not later than the 3 years after the date of the enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any recommendations the Secretary determines appropriate as a result of the study.
-
-“(c)
-
-Funding.—From amounts set aside under section 104(a) of title 23, United States Code, for each of fiscal years 1999, 2000, and 2001, the Secretary may use not to exceed $500,000 per fiscal year to carry out this section.”
+Pub. L. 105–178, title IV, §4027, June 9, 1998, 112 Stat. 417, directed the Secretary to conduct a study on the adequacy of parking facilities at commercial truck stops and to transmit a report on the study and authorized appropriations for fiscal years 1999, 2000, and 2001.
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 

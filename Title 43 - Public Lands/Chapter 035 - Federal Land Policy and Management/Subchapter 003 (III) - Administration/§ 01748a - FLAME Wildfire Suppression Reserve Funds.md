@@ -90,7 +90,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (4) Notice of insufficient funds
 
-&emsp;The Secretary concerned shall notify the relevant congressional committees if the Secretary estimates that only 60 days worth offunds remain in the FLAME Fund administered by that Secretary.
+&emsp;The Secretary concerned shall notify the relevant congressional committees if the Secretary estimates that only 60 days worth of funds remain in the FLAME Fund administered by that Secretary.
 
 #### (5) Transfer authority
 
@@ -118,7 +118,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary concerned determines that the fire has required an emergency Federal response based on the significant complexity, severity, or threat posed by the fire to human life, property, or resources; or
 
-&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (including amounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
+&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (includingamounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
 
 #### (3) State, private, and tribal land
 

@@ -30,7 +30,7 @@ Funds made available to local educational agencies under section 7211a of this t
 
 &emsp;(13) Programs to hire and support school nurses.
 
-&emsp;(14) Expansion and improvement of school-based mental health services, including early identification of drug use and violence, assessment, and direct individual or group counseling services provided to students, parents, and school personnel by qualified school-based mental health services personnel.
+&emsp;(14) Expansion and improvement of school-based mental health services, including early identification of drug use and violence, assessment, and direct individual or group counseling services provided to students, parents, andschool personnel by qualified school-based mental health services personnel.
 
 &emsp;(15) Alternative educational programs for those students who have been expelled or suspended from their regular educational setting, including programs to assist students to reenter the regular educational setting upon return from treatment or alternative educational programs.
 
@@ -52,7 +52,7 @@ Funds made available to local educational agencies under section 7211a of this t
 
 &emsp;(24) Service learning activities.
 
-&emsp;(25) School safety programs, including programs to implement the policy described in section 9507 <sup>1</sup> and which may include paymentof reasonable transportation costs and tuition costs for such students.
+&emsp;(25) School safety programs, including programs to implement the policy described in section 9507 <sup>1</sup> and which may include payment of reasonable transportation costs and tuition costs for such students.
 
 &emsp;(26) Programs that employ research-based cognitive and perceptual development approaches and rely on a diagnostic-prescriptive model to improve students’ learning of academic content at the preschool, elementary, and secondary levels.
 

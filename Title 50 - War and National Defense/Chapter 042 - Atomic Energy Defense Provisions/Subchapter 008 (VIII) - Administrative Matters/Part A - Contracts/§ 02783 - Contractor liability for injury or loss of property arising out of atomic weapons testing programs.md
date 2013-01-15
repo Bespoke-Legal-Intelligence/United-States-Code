@@ -12,7 +12,7 @@ This section may be cited as the “Atomic Testing Liability Act”.
 
 #### (2) Exclusivity
 
-&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
+&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civilliability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
 
 #### (c) Procedure
 

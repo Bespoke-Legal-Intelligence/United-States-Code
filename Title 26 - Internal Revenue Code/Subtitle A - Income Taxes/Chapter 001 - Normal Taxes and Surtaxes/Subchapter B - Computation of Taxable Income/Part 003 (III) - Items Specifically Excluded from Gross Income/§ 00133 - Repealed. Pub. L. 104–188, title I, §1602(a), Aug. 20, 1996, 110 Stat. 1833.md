@@ -34,7 +34,7 @@ In general
 
 &emsp;&emsp;(B) any loan to a corporation to the extent that, within 30 days, employer securities are transferred to the plan in an amount equal to the proceeds of such loan and such securities are allocable to accounts of plan participants within 1 year of the date of such loan.
 
-> &emsp;For purposes of this paragraph, the term “employer securities” has the meaning given such term by section 409(<i>l</i>). The term “securities acquisition loan” shall not include a loan with a term greater than 15 years.
+> &emsp;For purposes of this paragraph, the term “employer securities” has the meaning given such term by section 409(l). The term “securities acquisition loan” shall not include a loan with a term greater than 15 years.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Terms applicable to certain securities acquisition loans
 
 Controlled group of corporations
 
-&emsp;For purposes of this paragraph, the term “controlled group of corporations” has the meaning given such term by section 409(<i>l</i>)(4).
+&emsp;For purposes of this paragraph, the term “controlled group of corporations” has the meaning given such term by section 409(l)(4).
 
 &emsp;(5)
 
@@ -134,7 +134,7 @@ Aggregation rule
 
 &emsp;&emsp;&emsp;(i) the employer maintaining the plan, or
 
-&emsp;&emsp;&emsp;(ii) any member of a controlled group of corporations (within the meaning of section 409(<i>l</i>)(4)) of which the employer described in clause (i) is a member.
+&emsp;&emsp;&emsp;(ii) any member of a controlled group of corporations (within the meaning of section 409(l)(4)) of which the employer described in clause (i) is a member.
 
 &emsp;(7)
 
@@ -144,7 +144,7 @@ Voting rights of employer securities
 
 &emsp;&emsp;(A) the employee stock ownership plan meets the requirements of section 409(e)(2) with respect to all employer securities acquired by, or transferred to, the plan in connection with such loan (without regard to whether or not the employer has a registration-type class of securities), and
 
-&emsp;&emsp;(B) no stock described in section 409(<i>l</i>)(3) is acquired by, or transferred to, the plan in connection with such loan unless—
+&emsp;&emsp;(B) no stock described in section 409(l)(3) is acquired by, or transferred to, the plan in connection with such loan unless—
 
 &emsp;&emsp;&emsp;(i) such stock has voting rights equivalent to the stock to which it may be converted, and
 
@@ -208,7 +208,7 @@ A prior section 133 was renumbered section 140 of this title.
 
 #### Effective Date of Repeal
 
-Section 1602(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1602(c), Aug. 20, 1996, 110 Stat. 1834, provided that:
 
 “(1)
 

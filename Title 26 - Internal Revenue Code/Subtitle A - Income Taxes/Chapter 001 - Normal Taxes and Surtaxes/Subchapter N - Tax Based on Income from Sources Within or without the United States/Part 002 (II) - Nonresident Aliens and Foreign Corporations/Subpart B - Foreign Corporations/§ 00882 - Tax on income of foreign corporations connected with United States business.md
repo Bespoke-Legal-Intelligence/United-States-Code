@@ -74,7 +74,7 @@ In the case of a corporation created or organized in, or under the law of, a pos
 
 If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(b)(1), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(13), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 96–499, title XI, §1122(c)(2), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 97–424, title V, §515(b)(6)(F), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IV, §474(r)(19), July 18, 1984, 98 Stat. 843; Pub. L.99–514, title VII, §701(e)(4)(F), title XII, §1236(a), Oct. 22, 1986, 100 Stat. 2343, 2576; Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), Nov. 10, 1988, 102 Stat. 3527, 3594, 3721.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(b)(1), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(13), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 96–499, title XI, §1122(c)(2), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 97–424, title V, §515(b)(6)(F), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IV, §474(r)(19), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title VII, §701(e)(4)(F), title XII, §1236(a), Oct. 22, 1986, 100 Stat. 2343, 2576; Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), Nov. 10, 1988, 102 Stat. 3527, 3594, 3721.)
 
 #### Amendments
 
@@ -106,13 +106,13 @@ Amendment by section 701(e)(4)(F) of Pub. L. 100–647 effective, except as othe
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Section 6133(c) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[probably means ‘this section’, which amended sections 882 and 884 of this title\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–647, title VI, §6133(c), Nov. 10, 1988, 102 Stat. 3721, provided that: “The amendments made by this subsection \[probably means ‘this section’, which amended sections 882 and 884 of this title\] shall apply to taxable years beginning after December 31, 1988.”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 701(e)(4)(F) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Section 1236(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after November 16, 1985.”
+Pub. L. 99–514, title XII, §1236(b), Oct. 22, 1986, 100 Stat. 2576, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after November 16, 1985.”
 
 #### Effective Date of 1984 Amendment
 

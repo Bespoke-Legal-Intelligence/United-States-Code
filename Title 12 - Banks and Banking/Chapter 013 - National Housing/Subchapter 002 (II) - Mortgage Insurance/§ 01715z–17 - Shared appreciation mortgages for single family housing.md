@@ -14,7 +14,7 @@ Notwithstanding any provision of this subchapter that is inconsistent with this 
 
 #### (b) Payment of mortgagee's share of net appreciated value; “net appreciated value” defined
 
-The mortgagee's share of a property's or stock's net appreciated value shall be payable upon sale or transfer (as defined by the Secretary) of the property or stock or payment in full of the mortgage, whichever occurs first. For purposes of this section, the term “net appreciated value” means the amount by which the sales price of the property or stock (less the mortgagor's selling costs) exceeds the value of the property or stock at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract). If there has been no sale or transfer at the time the mortgagee's share of net appreciated value becomes payable, the sales price for purposes of this section shall be determined by means of an appraisal conducted in accordance with procedures approved by the Secretary and provided for in the mortgage.
+The mortgagee's share of a property's or stock's net appreciated value shall be payable upon sale or transfer (as defined by the Secretary) of the property or stock or payment infull of the mortgage, whichever occurs first. For purposes of this section, the term “net appreciated value” means the amount by which the sales price of the property or stock (less the mortgagor's selling costs) exceeds the value of the property or stock at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract). If there has been no sale or transfer at the time the mortgagee's share of net appreciated value becomes payable, the sales price for purposes of this section shall be determined by means of an appraisal conducted in accordance with procedures approved by the Secretary and provided for in the mortgage.
 
 #### (c) Entitlement of mortgagee upon default
 
@@ -36,7 +36,7 @@ The Secretary shall prescribe adequate consumer protections and disclosure requi
 
 The aggregate number of mortgages and loans insured under this section and section 1715z–10(c) <sup>1</sup> of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
-(June 27, 1934, ch. 847, title II, §252, as added Pub. L. 98–181, title IV, §444, Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(b)(2), Feb. 5, 1988, 101 Stat. 1907.)
+(June 27, 1934, ch. 847, title II, §252, as added Pub. L. 98–181, title I \[title IV, §444\], Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(b)(2), Feb. 5, 1988, 101 Stat. 1907.)
 
 #### References in Text
 

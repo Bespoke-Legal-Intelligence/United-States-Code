@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary shall develop and carry out a comprehensive programdesigned to reduce the incidence of suicide among veterans incorporating the components described in this section.
+Establishment.—The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among veterans incorporating the components described in this section.
 
 (b)
 
@@ -20,7 +20,7 @@ Health Assessments of Veterans.—In carrying out the comprehensive program, the
 
 (d)
 
-Designation of Suicide Prevention Counselors.—In carrying out the comprehensive program, the Secretary shall designate a suicide prevention counselor at each Department medical facility other than centers established under section 1712A of this title. Each counselor shall work with local emergency rooms, police departments, mental health organizations, and veterans service organizations to engage in outreach to veterans and improve the coordination of mental health care to veterans.
+Designation of Suicide Prevention Counselors.—In carrying out the comprehensive program, the Secretary shall designate a suicide prevention counselor at each Department medical facility other than centers established under section 1712A of this title. Each counselor shall work with local emergency rooms, police departments, mental health organizations, and veterans service organizations to engage in outreachto veterans and improve the coordination of mental health care to veterans.
 
 (e)
 
@@ -66,23 +66,41 @@ Outreach and Education for Veterans and Families.—In carrying out the comprehe
 
 (j)
 
-Peer Support Counseling Program.—(1) In carrying out the comprehensive program, the Secretary may establish and carry out a peer support counseling program, under which veterans shall be permitted to volunteer as peer counselors—
+Peer Support Counseling Program.—(1) In carrying out the comprehensive program, the Secretary shall establish and carry out a peer support counseling program, under which veterans shall be permitted to volunteer as peer counselors—
 
 &emsp;(A) to assist other veterans with issues related to mental health and readjustment; and
 
 &emsp;(B) to conduct outreach to veterans and the families of veterans.
 
-(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors.
+(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
+
+(3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
 (k)
 
 Other Components.—In carrying out the comprehensive program, the Secretary may provide for other actions to reduce the incidence of suicide among veterans that the Secretary considers appropriate.
 
-(Added Pub. L. 110–110, §3(a)(1), Nov. 5, 2007, 121 Stat. 1031.)
+(Added Pub. L. 110–110, §3(a)(1), Nov. 5, 2007, 121 Stat. 1031; amended Pub. L. 112–239, div. A, title VII, §730(a)(1)–(3), Jan. 2, 2013, 126 Stat. 1814.)
+
+#### References in Text
+
+Section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (j)(2), is section 304(c) of Pub. L. 111–163, which is set out as a note under section 1712A of this title.
 
 #### Codification
 
 Section 3(a)(1) of Pub. L. 110–110, which directed that this section be added at the end of this chapter, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (j)(1). Pub. L. 112–239, §730(a)(1), substituted “shall establish” for “may establish” in introductory provisions.
+
+Subsec. (j)(2). Pub. L. 112–239, §730(a)(2), inserted “, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note)” after “peer counselors”.
+
+Subsec. (j)(3). Pub. L. 112–239, §730(a)(3), added par. (3).
+
+#### Deadline for Commencement of Program
+
+Pub. L. 112–239, div. A, title VII, §730(a)(4), Jan. 2, 2013, 126 Stat. 1814, provided that: “The Secretary of Veterans Affairs shall ensure that the peer support counseling program required by section 1720F(j) of title 38, United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
 #### Sense of Congress
 

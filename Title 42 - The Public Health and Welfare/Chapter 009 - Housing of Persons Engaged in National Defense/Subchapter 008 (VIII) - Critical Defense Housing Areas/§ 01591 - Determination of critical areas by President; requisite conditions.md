@@ -22,9 +22,9 @@ This Act, referred to in subsecs. (a), (c), and (d), means act Sept. 1, 1951, ch
 
 #### Inconsistent Laws
 
-Section 617 of act Sept. 1, 1951, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], the provisions of this Act shall be controlling.”
+Act Sept. 1, 1951, ch. 378, title VI, §617, 65 Stat. 317, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], the provisions of this Act shall be controlling.”
 
 #### Separability
 
-Second sentence of section 618 of act Sept. 1, 1951, provided that: “Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.”
+Act Sept. 1, 1951, ch. 378, title VI, §618, 65 Stat. 317, provided in second sentence that: “Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.”
 

@@ -34,7 +34,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (D) In developing the strategy, the Board shall consider weather problems and related costs and marketing problems resulting from the late harvest of agricultural commodities (including wheat and sunflower seeds) in the Great Lakes region.
 
-(E) In developing the strategy, the Board shall consult United States ports on the Great Lakes and their users, including farm organizations (such as wheat growers and soybean growers), port authorities, water carrier organizations, and other interested persons.
+(E) In developing the strategy, the Board shall consult United States ports on the Great Lakesand their users, including farm organizations (such as wheat growers and soybean growers), port authorities, water carrier organizations, and other interested persons.
 
 (3) The Board shall be composed of seven members as follows:
 

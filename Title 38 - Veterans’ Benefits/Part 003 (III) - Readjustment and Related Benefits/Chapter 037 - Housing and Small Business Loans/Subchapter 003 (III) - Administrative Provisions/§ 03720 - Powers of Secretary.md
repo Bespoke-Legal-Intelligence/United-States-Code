@@ -28,15 +28,17 @@
 
 (h)(1) The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
 
-(2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2011.
+(2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2016.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, §1820; Pub. L. 88–151, §1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, §701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, §3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, §807(h), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–606, title II, §233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, §205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, §702(<i>l</i>), formerly title VI, §602(<i>l</i>), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(<i>l</i>), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, §7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, §403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, §3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, §4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, §702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, §404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, §109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §4(a), June 13, 1991, 105 Stat. 268; renumbered §3720 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, §4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, §201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, §405(b), Dec. 27, 2001, 115 Stat. 994; Pub. L. 111–350, §5(j)(3), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, §1820; Pub. L. 88–151, §1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, §701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, §3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, §807(h), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–606, title II, §233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, §205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, §702(l), formerly title VI, §602(l), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(l), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, §7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, §403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, §3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, §4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, §702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, §404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, §109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §4(a), June 13, 1991, 105 Stat. 268; renumbered §3720 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, §4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, §201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, §405(b), Dec. 27, 2001, 115 Stat. 994; Pub. L. 111–350, §5(j)(3), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title VII, §702(a), Aug. 6, 2012, 126 Stat. 1205.)
 
 #### References in Text
 
 The Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(2). Pub. L. 112–154 substituted “December 31, 2016” for “December 31, 2011”.
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
@@ -116,7 +118,7 @@ Pub. L. 105–368, title VI, §604(b), Nov. 11, 1998, 112 Stat. 3348, provided t
 
 #### Effective Date of 1977 Amendment
 
-Section 403(b) of Pub. L. 95–117 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
+Pub. L. 95–117, title IV, §403(b), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -124,7 +126,7 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as anEffective Date note under section 5121 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1972 Amendment
 
@@ -148,7 +150,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Property Management
 
-Pub. L. 100–198, §9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter forhomeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
+Pub. L. 100–198, §9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter for homeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
 
 #### Housing Solar Energy and Weatherization Study; Report Not Later Than March 1, 1978
 
@@ -156,7 +158,7 @@ Pub. L. 95–202, title III, §311, Nov. 23, 1977, 91 Stat. 1449, directed Admin
 
 #### Waiver of Indebtedness; Report to Congress
 
-Section 2 of Pub. L. 88–151 provided that: “The Administrator of Veterans’ Affairs shall submit to the Committee on Labor and Public Welfare of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, not later than December 31 of each year, a written report concerning each case in which a waiver of indebtedness has been made under the authority of the amendment made by the first section of this Act \[amending subsec. (a)(4) of this section\]. Such report shall include, together with such other information as the Administrator deems appropriate, the name and address of each person with respect to which a waiver of indebtedness has been made and the total amount of such waiver.”
+Pub. L. 88–151, §2, Oct. 17, 1963, 77 Stat. 271, provided that: “The Administrator of Veterans’ Affairs shall submit to the Committee on Labor and Public Welfare of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, not later than December 31 of each year, a written report concerning each case in which a waiver of indebtedness has been made under the authority of the amendment made by the first section of this Act \[amending subsec. (a)(4) of this section\]. Such report shall include, together with such other information as the Administrator deems appropriate, the name and address of each person with respect to which a waiver of indebtedness has been made and the total amount of such waiver.”
 
 #### Administration of Trusts by Federal National Mortgage Association
 

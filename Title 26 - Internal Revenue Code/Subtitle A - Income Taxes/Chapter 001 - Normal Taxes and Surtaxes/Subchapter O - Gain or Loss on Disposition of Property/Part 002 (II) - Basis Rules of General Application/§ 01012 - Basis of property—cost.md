@@ -58,7 +58,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (B) Initial stock acquisition treated as acquired in connection with plan
 
-&emsp;&emsp;Stock shall be treated as acquired in connection with a dividend reinvestment plan if such stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
+&emsp;&emsp;Stock shall be treated as acquired in connection with a dividend reinvestment plan ifsuch stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 110–343, div. B, title IV, §403(b), Oct. 3, 2008, 122 Stat. 3857.)
 
@@ -76,5 +76,5 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Extension of period for statements sent to customers.—The amendments made by subsection\(a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
+Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
 

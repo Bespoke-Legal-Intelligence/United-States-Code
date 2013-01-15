@@ -20,7 +20,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (B) Carryover
 
-&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who were provided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
+&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who wereprovided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
 
 #### (3) Limit on number of individuals based on allocation
 
@@ -114,13 +114,19 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(O) for the period that begins on January 1, 2011, and ends on September 30, 2011, the total allocation amount is $720,000,000;
 
-&emsp;&emsp;(P) for the period that begins on October 1, 2011, and ends on December 31, 2011, the total allocation amount is $280,000,000; and
+&emsp;&emsp;(P) for the period that begins on October 1, 2011, and ends on December 31, 2011, the total allocation amount is $280,000,000;
 
-&emsp;&emsp;(Q) for the period that begins on January 1, 2012, and ends on February 29, 2012, the total allocation amount is $150,000,000.
+&emsp;&emsp;(Q) for the period that begins on January 1, 2012, and ends on September 30, 2012, the total allocation amount is $450,000,000;
+
+&emsp;&emsp;(R) for the period that begins on October 1, 2012, and ends on December 31, 2012, the total allocation amount is $280,000,000;
+
+&emsp;&emsp;(S) for the period that begins on January 1, 2013, and ends on September 30, 2013, the total allocation amount is $485,000,000; and
+
+&emsp;&emsp;(T) for the period that begins on October 1, 2013, and ends on December 31, 2013, the total allocation amount is $300,000,000.
 
 #### (3) Rules for periods that begin after January 1
 
-&emsp;For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), (N), or (P) of paragraph (2), the following applies:
+&emsp;For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), (N), (P), (R), or (T) of paragraph (2), the following applies:
 
 &emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
 
@@ -128,13 +134,21 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005,119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3101(b), Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §621(b), Jan. 2, 2013, 126 Stat. 2352.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(2)(S), (T). Pub. L. 112–240, §621(b)(1), added subpars. (S) and (T).
+
+Subsec. (g)(3). Pub. L. 112–240, §621(b)(2), substituted “(R), or (T)” for “or (R)” in introductory provisions.
+
+<b>2012</b>—Subsec. (g)(2)(Q), (R). Pub. L. 112–96, §3101(b)(1), substituted “September 30, 2012, the total allocation amount is $450,000,000; and” for “February 29, 2012, the total allocation amount is $150,000,000.” in subpar. (Q) and added subpar. (R).
+
+Subsec. (g)(3). Pub. L. 112–96, §3101(b)(2), substituted “(P), or (R)” for “or (P)” in introductory provisions.
 
 <b>2011</b>—Subsec. (g)(2)(Q). Pub. L. 112–78 added subpar. (Q).
 
@@ -180,7 +194,7 @@ Subsec. (g)(3). Pub. L. 109–91, §101(b)(2), inserted “, (D), or (F)” aft
 
 <b>2003</b>—Subsec. (c)(1)(E). Pub. L. 108–89, §401(b)(1), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
-Subsec. (c)(2)(A). Pub. L. 108–89, §401(b)(2), substituted “the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to” for “the sum of—
+Subsec. (c)(2)(A). Pub. L. 108–89, §401(b)(2), substituted “the total number of individuals described in section1396a(a)(10)(E)(iv) of this title in the State; to” for “the sum of—
 
 &emsp;“(i) twice the total number of individuals described in section 1396a(a)(10)(E)(iv)(I) of this title in the State, and
 

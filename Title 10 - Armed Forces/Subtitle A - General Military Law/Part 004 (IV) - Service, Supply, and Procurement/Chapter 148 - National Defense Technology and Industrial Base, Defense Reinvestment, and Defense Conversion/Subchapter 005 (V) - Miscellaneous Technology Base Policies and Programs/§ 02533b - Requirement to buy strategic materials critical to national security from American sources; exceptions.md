@@ -108,7 +108,7 @@ National Security Waiver.—(1) Notwithstanding subsection (a), the Secretary of
 
 &emsp;(ii) consider suspending or debarring the contractor or subcontractor until such time as the contractor or subcontractor has effectively addressed the issues that lead to such noncompliance.
 
-(<i>l</i>)
+(l)
 
 Specialty Metal Defined.—In this section, the term “specialty metal” means any of the following:
 
@@ -144,7 +144,7 @@ Additional Definitions.—In this section:
 
 &emsp;(6) The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
-&emsp;(7) The term “commercial derivative military article” means an item procured by theDepartment of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
+&emsp;(7) The term “commercial derivative military article” means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
 
 &emsp;(8) The term “subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
 
@@ -188,7 +188,7 @@ Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted “acquisitions”
 
 Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: “This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430).”
 
-Subsecs. (i) to (m). Pub. L. 110–181, §804(d), added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (<i>l</i>) and (m), respectively.
+Subsecs. (i) to (m). Pub. L. 110–181, §804(d), added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (l) and (m), respectively.
 
 Subsec. (m)(3) to (10). Pub. L. 110–181, §804(e), as amended by Pub. L. 111—383, §1075(f)(2)(B), added pars. (3) to (10).
 
@@ -214,7 +214,7 @@ Review Required.—The Secretary of Defense shall review the regulations specifi
 
 “(b)
 
-Regulations Specified.—The regulations referred to in subsection (a) are any portion of subpart 252.2 of the defense supplement to the Federal Acquisition Regulation that includes a definition of the term ‘produce’ for purposes of implementing section 2533b of title 10, United States Code.
+Regulations Specified.—The regulations referred to in subsection (a) are any portion of subpart252.2 of the defense supplement to the Federal Acquisition Regulation that includes a definition of the term ‘produce’ for purposes of implementing section 2533b of title 10, United States Code.
 
 “(c)
 

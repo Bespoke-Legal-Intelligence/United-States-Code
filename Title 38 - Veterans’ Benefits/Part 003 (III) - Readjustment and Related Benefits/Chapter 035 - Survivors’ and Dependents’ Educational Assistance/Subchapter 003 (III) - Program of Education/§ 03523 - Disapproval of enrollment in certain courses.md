@@ -18,7 +18,7 @@
 
 (e) An eligible person may not enroll in any course at an educational institution which is not located in a State or in the Republic of the Philippines, unless such course is pursued at an approved institution of higher learning and the course is approved by the Secretary. The Secretary, in the Secretary's discretion, may deny or discontinue educational assistance under this chapter in the case of any eligible person in such an institution if the Secretary determines that such enrollment is not in the best interest of the eligible person or the Federal Government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, §1723; Pub. L. 86–785, §4, Sept. 14, 1960, 74 Stat. 1024; Pub. L. 87–546, July 25, 1962, 76 Stat. 216; Pub. L. 91–219, title II, §209, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §311, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–508, title II, §207, Dec. 3, 1974, 88 Stat. 1583; Pub. L. 94–502, title III, §§306, 310(12)–(14), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub. L. 96–466, title III, §§325, 326, 327(b), Oct. 17, 1980, 94 Stat. 2196, 2197; Pub. L. 97–306, title II, §202(b),Oct. 14, 1982, 96 Stat. 1433; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3523 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(7), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 104–275, title I, §104(b), Oct. 9, 1996, 110 Stat. 3327.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, §1723; Pub. L. 86–785, §4, Sept. 14, 1960, 74 Stat. 1024; Pub. L. 87–546, July 25, 1962, 76 Stat. 216; Pub. L. 91–219, title II, §209, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §311, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–508, title II, §207, Dec. 3, 1974, 88 Stat. 1583; Pub. L. 94–502, title III, §§306, 310(12)–(14), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub.L. 96–466, title III, §§325, 326, 327(b), Oct. 17, 1980, 94 Stat. 2196, 2197; Pub. L. 97–306, title II, §202(b), Oct. 14, 1982, 96 Stat. 1433; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3523 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(7), Oct. 29, 1992, 106 Stat. 4333; Pub. L. 104–275, title I, §104(b), Oct. 9, 1996, 110 Stat. 3327.)
 
 #### Amendments
 
@@ -64,11 +64,11 @@ Subsec. (d). Pub. L. 92–540, §311(2), inserted “(except as provided in sect
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–546 authorized the Administrator to approve enrollment in foreign educational institutions if the subjects to be taken are part of and creditable towards completion of an approved course in a “principal institution”, the tuition and fees of the foreign institution are paid by the “principal institution”, and such institution agrees to submit enrollment certificates and monthly certifications as to attendance, conduct, and progress to the Veterans’ Administration.
 
-<b>1960</b>—Subsec. (c). Pub. L. 86–785 substituted “open circuit television (except as herein provided)” for “television”, and authorized the Administrator to approve enrollment in a course pursued in residence, leading to a standard college degree, which utilizes open circuit televised instruction, if the major portion of the course requires conventional classroom or laboratory attendance.
+<b>1960</b>—Subsec. (c). Pub. L. 86–785 substituted “open circuit television (except as herein provided)” for “television”, and authorized the Administrator to approve enrollment in a course pursued in residence, leading to a standard college degree, which utilizes open circuittelevised instruction, if the major portion of the course requires conventional classroom or laboratory attendance.
 
 #### Effective Date of 1982 Amendment
 
-Section 202(c) of Pub. L. 97–306 provided that: “The amendments made by this section \[amending this section and section 1673 \[renumbered 3473\] of this title\] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title II, §202(c), Oct. 14, 1982, 96 Stat. 1433, provided that: “The amendments made by this section \[amending this section and section 1673 \[renumbered 3473\] of this title\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1980 Amendment
 

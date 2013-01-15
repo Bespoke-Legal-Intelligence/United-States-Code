@@ -38,7 +38,7 @@ Effective Date.—(1) Licenses for the launch or reentry of launch vehicles or r
 
 (2) As soon as practicable after the date of enactment of the Commercial Space Launch Amendments Act of 2004, the Secretary shall issue guidelines or advisory circulars to guide the implementation of that Act until regulations are issued.
 
-(3) Notwithstanding paragraphs (1) and (2), no licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board or permits may be issued starting threeyears after the date of enactment of the Commercial Space Launch Amendments Act of 2004 unless the final regulations described in subsection (c) have been issued.
+(3) Notwithstanding paragraphs (1) and (2), no licenses for the launch or reentry of launch vehicles or reentry vehicles with human beings on board or permits may be issued starting three years after the date of enactment of the Commercial Space Launch Amendments Act of 2004 unless the final regulations described in subsection (c) have been issued.
 
 (Added Pub. L. 105–303, title I, §102(a)(16), Oct. 28, 1998, 112 Stat. 2850, §70120 of title 49; amended Pub. L. 108–492, §2(c)(25), Dec. 23, 2004, 118 Stat. 3981; renumbered §70120 then §50922 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(V), (5)(U), Dec. 18, 2010, 124 Stat. 3440–3442.)
 

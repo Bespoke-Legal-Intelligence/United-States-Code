@@ -85,7 +85,7 @@
 | [1141i.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141i%20-%20Effect%20of%20extension%20of%20protection.md) | Effect of extension of protection. |
 | [1141j.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141j%20-%20Dependence%20of%20extension%20of%20protection%20to%20the%20United%20States%20on%20the%20underlying%20international%20registration.md) | Dependence of extension of protection to the United States on the underlying international registration. |
 | [1141k.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141k%20-%20Duration%2C%20affidavits%20and%20fees.md) | Duration, affidavits and fees. |
-| 1141<i>l</i>. | Assignment of an extension of protection. |
+| [1141l.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141l%20-%20Assignment%20of%20an%20extension%20of%20protection.md) | Assignment of an extension of protection. |
 | [1141m.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141m%20-%20Incontestability.md) | Incontestability. |
 | [1141n.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141n%20-%20Rights%20of%20extension%20of%20protection.md) | Rights of extension of protection. |
 

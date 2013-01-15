@@ -8,15 +8,9 @@ The Secretary shall establish and maintain within the Department the Rural Utili
 
 #### (1) Appointment
 
-&emsp;The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.
 
-#### (2) Succession
-
-&emsp;Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
-
-&emsp;&emsp;(A) may be considered to be serving in the successor position established under paragraph (1); and
-
-&emsp;&emsp;(B) shall not be required to be reappointed to that position by reason of the enactment of this Act.
+#### (2) Omitted
 
 #### (c) Functions
 
@@ -34,11 +28,9 @@ The Secretary shall carry out through the Rural Utilities Service the following 
 
 &emsp;&emsp;(B) section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 <sup>1</sup> (7 U.S.C. 1926 note).
 
-(Pub. L. 103–354, title II, §232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §747(b)(2), Apr. 4, 1996, 110 Stat. 1128.)
+(Pub. L. 103–354, title II, §232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, §2(a)(2), Aug. 10, 2012, 126 Stat. 1283.)
 
 #### References in Text
-
-This Act, referred to in subsec. (b)(2)(B), is Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3178, known as the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
@@ -50,11 +42,23 @@ Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
 #### Codification
 
-Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(3) of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees.
+Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–166, §2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
+
+Subsec. (b)(2). Pub. L. 112–166, §2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
+
+&emsp;“(A) may be considered to be serving in the successor position established under paragraph (1); and
+
+&emsp;“(B) shall not be required to be reappointed to that position by reason of the enactment of this Act.”
+
 <b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ Every distilled spirits plant proprietor shall keep records in such form and man
 
 #### (b) Reports
 
-Every person required to keep records under subsection (a) shall render such reports covering his operations, at such times and in such form and manner and containing such information, as the Secretary shall by regulations prescribe.
+Every person required to keep records under subsection (a) shall render such reports coveringhis operations, at such times and in such form and manner and containing such information, as the Secretary shall by regulations prescribe.
 
 #### (c) Preservation and inspection
 
@@ -88,7 +88,7 @@ Subsecs. (d), (e). Pub. L. 96–39 redesignated subsec. (e) as (d). Former subse
 
 #### Effective Date of 1997 Amendment
 
-Section 1413(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1413(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1984 Amendment
 

@@ -30,7 +30,7 @@
 
 #### (ii) Secretarial authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged and in which the payment of the accrued amounts occurs within 8½ months after accrual or within such other period as the Secretary may prescribe.
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which thepayor is predominantly engaged and in which the payment of the accrued amounts occurs within 8½ months after accrual or within such other period as the Secretary may prescribe.
 
 #### (b) Relationships
 
@@ -88,7 +88,7 @@ If—
 
 &emsp;(2) after December 31, 1953, the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 
-> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsectionshall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
+> then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
 
 #### (e) Special rules for pass-thru entities
 
@@ -254,7 +254,7 @@ Subsec. (a)(3). Pub. L. 99–514, §1812(c)(1), added par. (3).
 
 Subsec. (b)(12). Pub. L. 99–514, §1812(c)(4)(A), substituted “same persons own” for “same persons owns”.
 
-Subsec. (e)(5)(D). Pub. L. 99–514, §803(b)(5), substituted in cl. (i) “interest in property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B)” for “interest inlow-income housing (as defined in paragraph (5) of section 189(e))” and in cl. (ii) “such property” for “low-income housing (as so defined)”.
+Subsec. (e)(5)(D). Pub. L. 99–514, §803(b)(5), substituted in cl. (i) “interest in property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B)” for “interest in low-income housing (as defined in paragraph (5) of section 189(e))” and in cl. (ii) “such property” for “low-income housing (as so defined)”.
 
 Subsec. (e)(6). Pub. L. 99–514, §1812(c)(3)(C), added par. (6).
 
@@ -272,7 +272,7 @@ Subsec. (b)(12). Pub. L. 98–369, §174(b)(4), substituted “the same persons�
 
 Subsec. (e). Pub. L. 98–369, §174(b)(1), added subsec. (e).
 
-Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated as falling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
+Pub. L. 98–369, §174(a)(2), struck out subsec. (e) which provided that for purposes of subsection (a)(2) where the last day of the 2½ month period falls on Saturday, Sunday, or a legal holiday, such last day be treated asfalling on the next succeeding day which is not a Saturday, Sunday, or a legal holiday, and the determination of what constitutes a legal holiday be made under section 7503 with respect to the payor's return of tax under this chapter for the preceding taxable year.
 
 Subsec. (f). Pub. L. 98–369, §174(b)(2)(B), added subsec. (f).
 
@@ -300,9 +300,9 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Section 1308(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 1239 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1308(c), Aug. 5, 1997, 111 Stat. 1042, provided that: “The amendments made by this section \[amending this section and section 1239 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1604(e)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 174(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
+Pub. L. 105–34, title XVI, §1604(e)(2), Aug. 5, 1997, 111 Stat. 1098, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 174(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -320,7 +320,7 @@ Amendment by sections 1812(c)(1), (2), (3)(C), (4)(A) and 1842(a) of Pub. L. 99�
 
 #### Effective Date of 1984 Amendment
 
-Section 174(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §174(c), July 18, 1984, 98 Stat. 707, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -366,7 +366,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–628 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payments made after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §2(b), Nov. 10, 1978, 92 Stat. 3627, provided that: “The amendment made by subsection (a)\[amending this section\] shall apply with respect to payments made after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
 #### Construction of Section 806 of Pub. L. 99–514
 
@@ -378,5 +378,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Exception for Certain Indebtedness
 
-Section 1812(c)(5) of Pub. L. 99–514 provided that: “Clause (i) of section 174(c)(3)(A) of the Tax Reform Act of 1984 \[section 174(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\] shall be applied by substituting ‘December 31, 1983’ for ‘September 29, 1983’ in the case of indebtedness which matures on January 1, 1999, the payments on which from January 1989 through November 1993 equal U/L plus $77,600, the payments on which from December 1993 to maturity equal U/L plus $50,100, and which accrued interest at 13.75 percent through December 31, 1989.”
+Pub. L. 99–514, title XVIII, §1812(c)(5), Oct. 22, 1986, 100 Stat. 2835, provided that: “Clause (i) of section 174(c)(3)(A) of the Tax Reform Act of 1984 \[section 174(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\] shall be applied by substituting ‘December 31, 1983’ for ‘September 29, 1983’ in the case of indebtedness which matures on January 1, 1999, the payments on which from January 1989 through November 1993 equal U/L plus $77,600, the payments on which from December 1993 to maturity equal U/L plus $50,100, and which accrued interest at 13.75 percent through December 31, 1989.”
 

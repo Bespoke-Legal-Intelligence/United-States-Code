@@ -16,7 +16,7 @@ If any failure to which subsection (a) applies is due to intentional disregard o
 
 &emsp;&emsp;(A) $1,000, or
 
-&emsp;&emsp;(B) 50 percent of the aggregate cost of the solicitations which occurred on such day and with respect to which there was such a failure,
+&emsp;&emsp;(B) 50 percent of the aggregate cost of the solicitations which occurred on such day andwith respect to which there was such a failure,
 
 &emsp;(2) the $10,000 limitation of subsection (a) shall not apply to any penalty under subsection (a) for the day on which such failure occurred, and
 

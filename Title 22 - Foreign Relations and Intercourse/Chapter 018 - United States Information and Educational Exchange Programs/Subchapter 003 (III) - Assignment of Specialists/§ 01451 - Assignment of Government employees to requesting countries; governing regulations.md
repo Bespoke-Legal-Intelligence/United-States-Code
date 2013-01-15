@@ -14,9 +14,9 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### References to Act May 25, 1938
 
-Subsec. (c) of section 1004 of act Jan. 27, 1948, provided that: “Any reference in the Foreign Service Act of 1946 (60 Stat. 999) \[section 801 et seq. of this title\], or in any other law, to provisions of such Act of May 25, 1938, as amended \[section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall be construed to be applicable to the appropriate provisions of titles III and IX of this Act \[sections 1451 to 1453, 1478, and 1479 of this title\].”
+Act Jan. 27, 1948, ch. 36, title X, §1004(c), 62 Stat. 14, provided that: “Any reference in the Foreign Service Act of 1946 (60 Stat. 999) \[section 801 et seq. of thistitle\], or in any other law, to provisions of such Act of May 25, 1938, as amended \[section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall be construed to be applicable to the appropriate provisions of titles III and IX of this Act \[sections 1451 to 1453, 1478, and 1479 of this title\].”
 
 #### Effectiveness of Executive Orders and Regulations Under Act May 25, 1938, Ch. 277, 52 Stat. 442
 
-Subsec. (b) of section 1004 of act Jan. 27, 1948, provided that: “Existing Executive orders and regulationspertaining to the administration of such Act of May 25, 1938, as amended \[former section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall remain in effect until superseded by regulations prescribed under the provisions of this Act \[this chapter\].”
+Act Jan. 27, 1948, ch. 36, title X, §1004(b), 62 Stat. 14, provided that: “Existing Executive orders and regulations pertaining to the administration of such Act of May 25, 1938, as amended \[former section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall remain in effect until superseded by regulations prescribed under the provisions of this Act \[this chapter\].”
 

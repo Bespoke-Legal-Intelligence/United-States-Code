@@ -60,7 +60,7 @@ In general.—Subject to the availability of funds under section 5128(c), the Se
 
 &emsp;(2)
 
-Eligibility.—A grant under this subsection shall be made to a nonprofit hazmat employee organization that demonstrates—
+Eligibility.—A grant under this subsection shall be made through a competitive process to a nonprofit organization that demonstrates—
 
 &emsp;&emsp;(A) expertise in conducting a training program for hazmat employees; and
 
@@ -80,7 +80,7 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 Existing Effort.—No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763; Pub. L. 103–311, title I, §§106, 119(c)(1)–(3), Aug. 26, 1994, 108 Stat. 1674, 1680; Pub. L. 109–59, titleVII, §§7108, 7126, Aug. 10, 2005, 119 Stat. 1897, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763; Pub. L. 103–311, title I, §§106, 119(c)(1)–(3), Aug. 26, 1994, 108 Stat. 1674, 1680; Pub. L. 109–59, title VII, §§7108, 7126, Aug. 10, 2005, 119 Stat. 1897, 1909; Pub. L. 112–141, div. C, title III, §33016, July 6, 2012, 126 Stat. 841.)
 
 Historical and Revision Notes
 
@@ -140,6 +140,8 @@ In subsection (f)(1), the words “(relating to coordination of Federal informat
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e)(2). Pub. L. 112–141 inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
+
 <b>2005</b>—Subsecs. (a) to (d). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
 
 Subsec. (e). Pub. L. 109–59, §7108(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section. A grant under this subsection shall be made to a nonprofit hazmat employee organization that demonstrates—
@@ -165,4 +167,8 @@ Subsec. (h). Pub. L. 109–59, §7108(2), redesignated subsec. (g) as (h).
 Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 
 Subsec. (g). Pub. L. 103–311, §119(c)(3), added subsec. (g).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

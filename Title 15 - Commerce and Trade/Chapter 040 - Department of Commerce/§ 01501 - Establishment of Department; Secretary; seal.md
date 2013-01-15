@@ -26,7 +26,7 @@ Creation of the Office of Deputy Secretary of Commerce by section 2(b)(1) of 197
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 5 OF 1950</b>
 
@@ -60,7 +60,7 @@ The Secretary of Commerce may from time to time effect such transfers within the
 
 I transmit herewith Reorganization Plan No. 5 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Department of Commerce. My reasons for transmitting this plan are stated in an accompanying general message.
 
-After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
 I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 
@@ -100,7 +100,7 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans and Pacific Island
 
 (d) <i>Termination Date</i>. The Commission shall terminate 2 years from the date of this order, unless renewed by the President.
 
-Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. There is established the White House Initiative on Asian Americans and Pacific Islanders (Initiative), a Federal interagency working group whose members shall be selected by their respectiveagencies. The Secretary of Education and a senior official to be designated by the President from the membership of the Initiative shall serve as Co-Chairs of the Initiative. The Executive Director of the Commission established in section 2 of this order shall also serve as the Executive Director of the Initiative and shall report to the Co-Chairs on Initiative matters.
+Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. There is established the White House Initiative on Asian Americans and Pacific Islanders (Initiative), a Federal interagency working group whose members shall be selected by their respective agencies. The Secretary of Education and a senior official to be designated by the President from the membership of the Initiative shall serve as Co-Chairs of the Initiative. The Executive Director of the Commission established in section 2 of this order shall also serve as the Executive Director of the Initiative and shall report to the Co-Chairs on Initiative matters.
 
 (a) <i>Mission and Function of the Initiative</i>. The Initiative shall work to improve the quality of life of AAPIs through increased participation in Federal programs in which AAPIs may be underserved. The Initiative shall advise the Co-Chairs on the implementation and coordination of Federal programs as they relate to AAPIs across executive departments and agencies.
 

@@ -414,7 +414,7 @@ Duration of Pilot Programs.—The pilot programs required by this section shall 
 
 “(f)
 
-Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate andthe Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
 “(g)
 
@@ -490,7 +490,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;“(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
 
-&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program.”
+&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical trainingprograms for new recruits in the Delayed Entry Program.”
 
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 
@@ -502,7 +502,7 @@ Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amen
 
 #### Military Recruiting Information
 
-Section 1114(a) of Pub. L. 97–252 provided that: “The Congress finds that in order for Congress to carry out effectively its constitutional authority to raise and support armies, it is essential—
+Pub. L. 97–252, title XI, §1114(a), Sept. 8, 1982, 96 Stat. 748, provided that: “The Congress finds that in order for Congress to carry out effectively its constitutional authority to raise and support armies, it is essential—
 
 &emsp;“(1) that the Secretary of Defense obtain and compile directory information pertaining to students enrolled in secondary schools throughout the United States; and
 

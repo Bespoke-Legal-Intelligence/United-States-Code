@@ -37,7 +37,7 @@
 
 (4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing <sup>1</sup> rehabilitation program concerned.
 
-(c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
+(c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteranto an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
 
 (2) A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribe under the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.
 
@@ -69,7 +69,19 @@
 
 (i) Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, §205(a), Jan. 4, 2011, 124 Stat. 4126.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, §205(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–154, title VII, §701(b), Aug. 6, 2012, 126 Stat. 1203.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 112–154, title VII, §701(b), (g), Aug. 6, 2012, 126 Stat. 1203, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a)(2) of this section is amended as follows:</i>
+
+<i>(1) by inserting “(A)” before “In”; and</i>
+
+<i>(2) by adding at the end the following new subparagraph:</i>
+
+<i>(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a</i><i>subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -78,6 +90,8 @@ Prior section 3108 was renumbered section 5308 of this title.
 Provisions similar to those comprising this section were contained in former section 1504 of this title prior to the general revision of this chapter by Pub. L. 96–466.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–154 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>2011</b>—Subsec. (b)(4). Pub. L. 111–377 added par. (4).
 
@@ -125,21 +139,25 @@ Subsec. (f)(1)(A), (B). Pub. L. 98–525 inserted references to chapter 30 of th
 
 <b>1982</b>—Subsec. (g)(2). Pub. L. 97–306 inserted “not” after “shall” and struck out “if the Administrator determines that all the veteran's living expenses are being defrayed by a Federal, State, or local government” at end.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under section 2109 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–377, title II, §205(b), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendment made by this section \[amending this section\] shall take effect on August 1, 2011.”
 
 #### Effective Date of 1992 Amendment
 
-Section 405(c) of Pub. L. 102–568 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1993.”
+Pub. L. 102–568, title IV, §405(c), Oct. 29, 1992, 106 Stat. 4339, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1993.”
 
 #### Effective Date of 1989 Amendment
 
-Section 402(b) of Pub. L. 101–237 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, §402(b), Dec. 18, 1989, 103 Stat. 2078, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1990.”
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–543 provided that: “The amendments made by this part \[part A (§§201–205) of title II of Pub. L. 98–543, see Tables for classification\] shall take effect as of October 1, 1984.”
+Pub. L. 98–543, title II, §205, Oct. 24, 1984, 98 Stat. 2743, provided that: “The amendments made by this part \[part A (§§201–205) of title II of Pub. L. 98–543, see Tables for classification\] shall take effect as of October 1, 1984.”
 
 #### Effective Date; Veterans Pursuing Program of Vocational Rehabilitation Under This Chapter
 
@@ -147,7 +165,7 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 
-Section 101(c) of Pub. L. 96–466 provided that: “The provisions of section 1508(g)(1) \[now 3108(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
+Pub. L. 96–466, title I, §101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: “The provisions of section 1508(g)(1) \[now 3108(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

@@ -186,13 +186,13 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 #### Prior Provisions
 
-A prior section 805, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 118; amended Pub. L. 87–792, §7(g), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–571, §5(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title IX, §907(a)(1), Dec. 30, 1969, 83 Stat. 715; Pub. L. 93–406, title II, §§1016(a)(6), 2002(g)(9), 2004(c)(3), Sept. 2, 1974, 88 Stat. 929, 970, 986; Pub. L. 94–267, §(1)(c)(4), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XIX, §1901(a)(97), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 95–600, title I, §§141(f)(9), 155(a), Nov. 6, 1978, 92 Stat. 2795, 2801; Pub. L. 97–248, title II, §§257(a), 260(b), 261, 264(a)–(c)(1), Sept. 3, 1982, 96 Stat. 537, 540, 543, 544, related to policy and other contract liability requirements, prior to general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 805, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 118; amended Pub. L. 87–792, §7(g), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–571, §5(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title IX, §907(a)(1), Dec. 30, 1969, 83 Stat. 715; Pub. L. 93–406, title II, §§1016(a)(6), 2002(g)(9), 2004(c)(3), Sept. 2, 1974, 88 Stat. 929, 970, 986; Pub. L. 94–267, §(1)(c)(4), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XIX, §1901(a)(97), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 95–600, title I, §§141(f)(9), 155(a), Nov. 6,1978, 92 Stat. 2795, 2801; Pub. L. 97–248, title II, §§257(a), 260(b), 261, 264(a)–(c)(1), Sept. 3, 1982, 96 Stat. 537, 540, 543, 544, related to policy and other contract liability requirements, prior to general revision of this part by Pub. L. 98–369, §211(a).
 
 Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, §2, 70 Stat. 43, authorized a special interest deduction, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for thetaxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
+<b>1997</b>—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, §1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
 Subsec. (a)(4)(D)(iii). Pub. L. 105–34, §1084(b)(1)(B), substituted “, the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, and” for “and”.
 

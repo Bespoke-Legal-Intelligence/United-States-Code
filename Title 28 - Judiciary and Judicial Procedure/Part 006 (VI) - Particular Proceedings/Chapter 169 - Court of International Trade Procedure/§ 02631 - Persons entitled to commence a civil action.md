@@ -14,7 +14,7 @@
 
 (e) A civil action to review a final determination made under section 305(b)(1) of the Trade Agreements Act of 1979 may be commenced in the Court of International Trade by any person who was a party-at-interest with respect to such determination.
 
-(f) A civil action involving an application for the issuance of an order directing the administering authority or the International Trade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930 may be commenced in the Court of International Trade by any interested party whose application for disclosure of such confidentialinformation was denied under section 777(c)(1) of such Act.
+(f) A civil action involving an application for the issuance of an order directing the administering authority or the International TradeCommission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930 may be commenced in the Court of International Trade by any interested party whose application for disclosure of such confidential information was denied under section 777(c)(1) of such Act.
 
 (g)(1) A civil action to review any decision of the Secretary of the Treasury to deny a customs broker's license under section 641(b)(2) or (3) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke such license or permit under section 641(b)(5) or (c)(2) of such Act, may be commenced in the Court of International Trade by the person whose license or permit was denied or revoked.
 

@@ -28,5 +28,5 @@ A prior section 322 of Pub. L. 92–225 was renumbered section 317, and is class
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an EffectiveDate of 2002 Amendment; Regulations note under section 431 of this title.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
 

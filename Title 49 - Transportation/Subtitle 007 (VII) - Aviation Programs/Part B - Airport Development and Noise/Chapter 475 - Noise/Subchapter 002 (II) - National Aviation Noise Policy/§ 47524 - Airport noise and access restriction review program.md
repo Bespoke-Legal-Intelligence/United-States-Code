@@ -76,7 +76,7 @@ Nonapplication.—Subsections (b) and (c) of this section do not apply to—
 
 (e)
 
-Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor of a facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after October 1, 1990, is eligible for a grant under section 47104 of this title and is eligible to impose a passenger facility fee under section 40117 of this title only if the restriction has been—
+Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a regulation under subsection (a) of this section, a sponsor ofa facility operating under an airport noise or access restriction on the operation of stage 3 aircraft that first became effective after October 1, 1990, is eligible for a grant under section 47104 of this title and is eligible to impose a passenger facility charge under section 40117 of this title only if the restriction has been—
 
 &emsp;(1) agreed to by the airport proprietor and aircraft operators;
 
@@ -84,7 +84,7 @@ Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a 
 
 &emsp;(3) rescinded.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1288.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1288; Pub. L. 112–95, title I, §111(c)(2)(A)(vii), Feb. 14, 2012, 126 Stat. 18.)
 
 Historical and Revision Notes
 
@@ -143,4 +143,8 @@ In subsection (c)(2)(A)–(D) and (F), the word “proposed” is omitted as sur
 In subsection (c)(4), the words “that justifies a reevaluation” are substituted for “and that a review and reevaluation . . . of the previously approved or agreed to noise restriction is therefore justified” to eliminate unnecessary words.
 
 In subsection (d)(6), the words “calendar year” are omitted as surplus.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 substituted “charge” for “fee” in introductory provisions.
 

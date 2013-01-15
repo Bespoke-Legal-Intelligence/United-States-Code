@@ -68,7 +68,7 @@
 
 &emsp;Each report under this subsection shall be published in the Federal Register.
 
-(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250; amended Pub. L. 106–569, title XII, §§1221, 1223, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 109–173, §8(a)(35), Feb. 15, 2006, 119 Stat. 3615.)
+(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat.2250; amended Pub. L. 106–569, title XII, §§1221, 1223, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 109–173, §8(a)(35), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Requirements.—Subparagraph (A) shall apply to any construction loan—
 
 &emsp;&emsp;&emsp;“(ii) under which the lender has acquired from the lender originating the mortgage loan for purchase of the residence, before the making of the construction loan—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase theresidence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase the residence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any other documentation from the mortgage lender that the appropriate Federal banking agency may consider appropriate to provide assurance of the buyer's intent to purchase the property (including written commitments and letters of intent);
 
@@ -162,7 +162,7 @@ Requirements.—Subparagraph (A) shall apply to any loan—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the minimum maturity for repayment of principal is not less than 7 years; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) timely payment of all principal and interest, in accordance with the terms of the loan, occurs for a period of not less than 1 year; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) timely payment of all principal and interest, in accordance with the terms of theloan, occurs for a period of not less than 1 year; and
 
 &emsp;&emsp;&emsp;“(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions.
 

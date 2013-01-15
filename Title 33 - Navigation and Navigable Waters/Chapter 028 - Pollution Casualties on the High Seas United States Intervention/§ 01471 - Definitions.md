@@ -40,7 +40,7 @@ For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95
 
 #### Short Title
 
-Section 1 of Pub. L. 93–248 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Intervention on the High Seas Act’.”
+Pub. L. 93–248, §1, Feb. 5, 1974, 88 Stat. 8, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Intervention on the High Seas Act’.”
 
 #### Transfer of Functions
 

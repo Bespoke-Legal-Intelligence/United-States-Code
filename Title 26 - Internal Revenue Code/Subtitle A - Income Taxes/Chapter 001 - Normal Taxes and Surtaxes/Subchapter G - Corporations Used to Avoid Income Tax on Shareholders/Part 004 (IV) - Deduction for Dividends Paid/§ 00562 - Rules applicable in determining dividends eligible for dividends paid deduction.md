@@ -52,13 +52,13 @@ Pub. L. 111–325, title III, §307(c), Dec. 22, 2010, 124 Stat. 3550, provided 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 657(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title VI, §657(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1804(d)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after September 27, 1985.”
+Pub. L. 99–514, title XVIII, §1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after September 27, 1985.”
 
 #### Effective Date of 1983 Amendment
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, w
 
 #### Effective Date of 1964 Amendment
 
-Amendment Pub. L. 88–272 applicable to distributions made in any taxable year of the distributing corporation beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
+Amendment Pub. L. 88–272 applicable to distributions made in any taxable year of the distributing corporation beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

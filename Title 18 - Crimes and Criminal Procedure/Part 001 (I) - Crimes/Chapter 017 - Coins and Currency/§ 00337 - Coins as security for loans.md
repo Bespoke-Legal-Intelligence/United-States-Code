@@ -10,5 +10,5 @@ Whoever lends or borrows money or credit upon the security of such coins of the 
 
 #### Effective Date
 
-Section 212(c) of Pub. L. 89–81 provided that: “The amendments made by this section \[enacting this section\] shall apply only with respect to loans made, renewed, or increased on or after the 31st day after the date of enactment of this Act \[July 23, 1965\].”
+Pub. L. 89–81, title II, §212(c), July 23, 1965, 79 Stat. 257, provided that: “The amendments made by this section \[enacting this section\] shall apply only with respect to loans made, renewed, or increased on or after the 31st day after the date of enactment of this Act \[July 23, 1965\].”
 

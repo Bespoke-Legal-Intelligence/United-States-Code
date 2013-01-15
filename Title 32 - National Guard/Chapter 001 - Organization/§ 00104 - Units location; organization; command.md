@@ -2,7 +2,7 @@
 
 (a) Each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands may fix the location of the units and headquarters of its National Guard.
 
-(b) Except as otherwise specifically provided in this title, the organization of the Army National Guard and the composition of its units shall be the same as those prescribed for theArmy, subject, in time of peace, to such general exceptions as the Secretary of the Army may authorize; and the organization of the Air National Guard and the composition of its units shall be the same as those prescribed for the Air Force, subject, in time of peace, to such general exceptions as the Secretary of the Air Force may authorize.
+(b) Except as otherwise specifically provided in this title, the organization of the Army National Guard and the composition of its units shall be the same as those prescribed for the Army, subject, in time of peace, to such general exceptions as the Secretary of the Army may authorize; and the organization of the Air National Guard and the composition of its units shall be the same as those prescribed for the Air Force, subject, in time of peace, to such general exceptions as the Secretary of the Air Force may authorize.
 
 (c) To secure a force the units of which when combined will form complete higher tactical units, the President may designate the units of the National Guard, by branch of the Army or organization of the Air Force, to be maintained in each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands. However, no change in the branch, organization, or allotment of a unit located entirely within a State may be made without the approval of its governor.
 
@@ -102,7 +102,7 @@ Pub. L. 103–160, div. A, title V, §522, Nov. 30, 1993, 107 Stat. 1655, direct
 
 #### Retention of Ancient Privileges and Organization
 
-Section 32 of act Aug. 10, 1956, provided that:
+Act Aug. 10, 1956, ch. 1041, §32, 70A Stat. 633, provided that:
 
 “(a) Any corps of artillery, cavalry, or infantry existing in any of the States on the passage of the Act of May 8, 1792, which by the laws, customs, or usages of those States has been in continuous existence since the passage of that Act, shall be allowed to retain its ancient privileges, subject, nevertheless to all duties required by law of militia: <i>Provided</i>, That those organizations may be a part of the National Guard and entitled to all the privileges thereof, and shall conform in all respects to the organization, discipline, and training to the National Guard in time of war: <i>Provided further</i>, That for purposes of training and when on active duty in the service of the United States they may be assigned to higher units, as the President may direct, and shall be subject to the orders of officers under whom they shall be serving.
 
@@ -116,7 +116,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Council of Governors.</i>
 
-(a) There is established a Council of Governors (Council). The Council shall consist of 10 State Governors appointed by the President (Members), of whom no more than five shall be of the same political party. The term of service for each Member appointed to serve on the Council shall be 2 years, but a Member may be reappointed for additional terms.
+(a) There is established a Council of Governors (Council). The Council shall consist of 10 State Governors appointed by the President (Members), of whom no more than five shall be of the same political party. The term of service for each Member appointed to serve on theCouncil shall be 2 years, but a Member may be reappointed for additional terms.
 
 (b) The President shall designate two Members, who shall not be members of the same political party, to serve as Co-Chairs of the Council.
 

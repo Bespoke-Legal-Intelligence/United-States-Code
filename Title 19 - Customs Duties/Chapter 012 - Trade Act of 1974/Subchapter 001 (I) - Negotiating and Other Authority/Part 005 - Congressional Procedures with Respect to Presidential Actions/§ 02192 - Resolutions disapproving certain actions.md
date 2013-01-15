@@ -56,7 +56,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(B) If the Senate passes a resolution before receiving from the House of Representatives a joint resolution that contains the identical matter, the joint resolution shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of the joint resolution from the House of Representatives, such joint resolution shall be deemed to be read twice, considered, read the third time, and passed.
 
-(2) If the texts of joint resolutions described in this section or section 2193(a) of this title, whichever is applicable, concerning any matter are not identical—
+(2) If the texts of joint resolutions described in this section or section 2193(a) of this title,whichever is applicable, concerning any matter are not identical—
 
 &emsp;(A) the Senate shall vote passage on the resolution introduced in the Senate, and
 

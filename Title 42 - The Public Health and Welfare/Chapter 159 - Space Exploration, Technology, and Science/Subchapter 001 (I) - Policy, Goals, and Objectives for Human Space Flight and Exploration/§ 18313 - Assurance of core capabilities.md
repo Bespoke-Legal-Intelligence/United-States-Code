@@ -18,5 +18,29 @@ It is the sense of Congress that—
 
 &emsp;In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured external tank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).
 
-(Pub. L. 111–267, title II, §203, Oct. 11, 2010, 124 Stat. 2812.)
+#### (c) Sense of Congress regarding human space flight capability assurance
+
+It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, and commercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
+
+&emsp;(1) that these capabilities remain inherently complementary and interrelated;
+
+&emsp;(2) a balance of the development, sustainment, and use of each of these capabilities, which are of critical importance to the viability and sustainability of the U.S. space program; and
+
+&emsp;(3) that resources required to support the timely and sustainable development of these capabilities authorized in either subchapter II or subchapter III of this chapter are not derived from a reduction in resources for the capabilities authorized in the other subchapter.
+
+#### (d) Limitation
+
+Nothing in subsection (c) shall apply to or affect any capability authorized by any other subchapter of this chapter <sup>1</sup>
+
+(Pub. L. 111–267, title II, §203, Oct. 11, 2010, 124 Stat. 2812; Pub. L. 112–273, §2, Jan. 14, 2013, 126 Stat. 2454.)
+
+#### References in Text
+
+Any other subchapter of this chapter, referred to in subsec. (d), was in the original “any other title of this Act”, meaning any other title of Pub.L. 111–267, Oct. 11,2010, 124 Stat. 2805. In addition to title II which is classified generally to this subchapter, Pub. L. 111–267 contains titles III to XII which are classified generally to subchapters II to XI, respectively, of this chapter and titles I and XIII, 126 Stat. 2809, 2846, which are not classified to the Code.
+
+#### Amendments
+
+<b>2013</b>—Subsecs. (c), (d). Pub. L. 112–273 added subsecs. (c) and (d).
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

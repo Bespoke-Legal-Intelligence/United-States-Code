@@ -6,7 +6,7 @@
 
 (2) The amount of any such grant shall be determined by the Secretary. The recipient of such a grant may use the grant—
 
-&emsp;(A) in the case of a grantee which discontinues the provision of all hospital services or all inpatient hospital services or an identifiable part of a hospital facility which providesinpatient hospital services, for the liquidation of the outstanding debt on the facilities of the grantee used for the provision of the services or for the liquidation of the outstanding debt of the grantee on such identifiable part;
+&emsp;(A) in the case of a grantee which discontinues the provision of all hospital services or all inpatient hospital services or an identifiable part of a hospital facility which provides inpatient hospital services, for the liquidation of the outstanding debt on the facilities of the grantee used for the provision of the services or for the liquidation of the outstanding debt of the grantee on such identifiable part;
 
 &emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service to the delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
 
@@ -28,7 +28,7 @@
 
 &emsp;(E) such other information as the Secretary may require.
 
-(2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300<i>l</i>–2(e) <sup>1</sup> of this title, determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
+(2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300l–2(e) <sup>1</sup> of this title,determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
 
 (B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion of a facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary may prescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
 
@@ -44,7 +44,7 @@
 
 #### (c) Certification of protective arrangements for employment benefits and interests; guidelines; satisfactory arrangement determinations
 
-(1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) of this section unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisionsof the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
+(1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) of this section unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
 
 (2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
 
@@ -72,11 +72,11 @@ For purposes of this part, the term “hospital” means, with respect to any fi
 
 > but such term does not include a Federal hospital or a psychiatric hospital (as described in section 1861(f)(1) of the Social Security Act \[42 U.S.C. 1395x(f)(1)\]).
 
-(July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References In Text
 
-Section 300<i>l</i>–2, of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Section 300l–2, of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 

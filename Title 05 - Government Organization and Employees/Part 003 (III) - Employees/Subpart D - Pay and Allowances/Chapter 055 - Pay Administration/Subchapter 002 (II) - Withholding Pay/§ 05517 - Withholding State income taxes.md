@@ -74,7 +74,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by section 1207(a)(1) of Pub. L. 94–455 applicable to wages withheld after the 120-day period following any request for an agreement after Oct. 4, 1976, see section 1207(f)(1) of Pub. L. 94–455, set out as a note under section 5516 of this title.
 
-Section 1207(f)(2) of Pub. L. 94–455 provided that: “The amendments made by subsections (b) and (c) \[amending this section\] shall apply to wages withheld after the 120-day period following the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XII, §1207(f)(2), Oct. 4, 1976, 90 Stat. 1708, provided that: “The amendments made by subsections (b) and (c) \[amending this section\] shall apply to wages withheld after the 120-day period following the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Executive Order No. 10407
 

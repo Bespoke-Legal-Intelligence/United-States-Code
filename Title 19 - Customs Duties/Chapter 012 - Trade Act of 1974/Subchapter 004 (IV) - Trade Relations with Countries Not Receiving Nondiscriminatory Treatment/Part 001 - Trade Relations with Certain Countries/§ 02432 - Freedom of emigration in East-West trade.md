@@ -42,13 +42,13 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 &emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
 
-> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
+> If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-monthextension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
 (2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
 &emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
-&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to overridesuch veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
+&emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
 
 (B) If a joint resolution is enacted into law under the provisions of this paragraph, the waiver authority applicable to any country with respect to which the joint resolution disapproves of the extension of such authority shall cease to be effective as of the day after the 60-day period beginning on the date of the enactment of the joint resolution.
 
@@ -86,7 +86,7 @@ Subsec. (d)(5). Pub. L. 101–382, §132(a)(2)(B), redesignated par. (5) as (1).
 
 #### Effective Date of 1990 Amendment
 
-Section 132(d) of Pub. L. 101–382 provided that:
+Pub. L. 101–382, title I, §132(d), Aug. 20, 1990, 104 Stat. 647, provided that:
 
 “(1)
 
@@ -104,7 +104,7 @@ Extension of waiver authority.—
 
 &emsp;&emsp;“(ii) paragraph (2)(A)(ii) of subsection (d) of such section 402 (as amended by subsection (a)) shall be treated as reading as follows:
 
-&emsp;&emsp;“ ‘(ii) if the President vetoes the joint resolution, each House of Congress votes to override such vetoon or before the last day of the 60-day period referred to in clause (i).’;
+&emsp;&emsp;“ ‘(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the last day of the 60-day period referred to in clause (i).’;
 
 &emsp;&emsp;“(iii) if the waiver authority granted under such subsection (c) is extended after application of clauses (i) and (ii), the expiration date for such authority is July 3, 1991; and
 
@@ -226,7 +226,7 @@ Determination No. 95–24, June 2, 1995, 60 F.R. 31049.—Albania, Armenia, Azer
 
 Determination No. 96–29, May 31, 1996, 61 F.R. 29455.—People's Republic of China.
 
-Determination No. 96–30, June 3, 1996, 61 F.R. 29457.—Albania, Armenia, Azerbaijan, Belarus, Georgia,Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
+Determination No. 96–30, June 3, 1996, 61 F.R. 29457.—Albania, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
 Determination No. 97–25, May 29, 1997, 62 F.R. 31313.—People's Republic of China.
 

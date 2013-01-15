@@ -6,7 +6,7 @@ Subject to the availability of appropriations to carry out this part, the amount
 
 #### (b) Use of additional amounts appropriated
 
-If the funds appropriated to carry out this part in a fiscal year subsequent to fiscal year 1991 exceed the funds appropriated to carry out this part in fiscal year 1991, then the amount of the grant (if any) made under this part to a tribal organization for the subsequent fiscal year shall be—
+If the funds appropriated to carry out this part in a fiscal year subsequent to fiscal year 1991 exceed the funds appropriated to carry out this part in fiscal year 1991, then the amount of thegrant (if any) made under this part to a tribal organization for the subsequent fiscal year shall be—
 
 &emsp;(1) increased by such amount as the Assistant Secretary considers to be appropriate, in addition to the amount of any increase required by subsection (a) of this section, so that the grant equals or more closely approaches the amount of the grant made under this part to the tribal organization for fiscal year 1980; or
 

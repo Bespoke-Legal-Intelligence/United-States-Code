@@ -38,7 +38,7 @@ Pub. L. 105–368, title V, §513, Nov. 11, 1998, 112 Stat. 3342, provided that:
 
 #### Effective Date
 
-Section 401 of Pub. L. 100–687, as amended by Pub. L. 101–94, title III, §301, Aug. 16, 1989, 103 Stat. 628, provided that:
+Pub. L. 100–687, div. A, title IV, §401, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 101–94, title III, §301, Aug. 16, 1989, 103 Stat. 628, provided that:
 
 “(a)
 
@@ -66,5 +66,5 @@ Pub. L. 105–111, §1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: “N
 
 #### Chapter Applicable to Cases Filed On or After November 18, 1988
 
-Section 402 of Pub. L. 100–687, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, which provided that this chapter applied to any case in which a notice of disagreement was filed under section 7105 of this title on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(a), Dec. 27, 2001, 115 Stat. 999.
+Pub. L. 100–687, div. A, title IV, §402, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, which provided that this chapter applied to any case in which a notice of disagreement was filed under section 7105 of this title on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(a), Dec. 27, 2001, 115 Stat. 999.
 

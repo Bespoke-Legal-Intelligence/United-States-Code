@@ -32,7 +32,7 @@
 
 (1) The Attorney General may contract for or buy any interest in land, including temporary use rights, adjacent to or in the vicinity of an international land border when the Attorney General deems the land essential to control and guard the boundaries and borders of the United States against any violation of this chapter.
 
-(2) The Attorney General may contract for or buy any interest in land identified pursuant to paragraph (1) as soon as the lawful owner of that interest fixes a price for it and the Attorney General considers that price to be reasonable.
+(2) The Attorney General may contract for or buy any interest in land identified pursuant toparagraph (1) as soon as the lawful owner of that interest fixes a price for it and the Attorney General considers that price to be reasonable.
 
 (3) When the Attorney General and the lawful owner of an interest identified pursuant to paragraph (1) are unable to agree upon a reasonable price, the Attorney General may commence condemnation proceedings pursuant to section 3113 of title 40.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–296 effective on the date of the transfer of function
 
 #### Effective Date of 1996 Amendment
 
-Section 134(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -212,7 +212,7 @@ Prompt acquisition of necessary easements.—The Attorney General, acting under 
 
 &emsp;“(3)
 
-Safety features.—The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety featuresinto the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
+Safety features.—The Attorney General, while constructing the additional fencing under this subsection, shall incorporate such safety features into the design of the fence system as are necessary to ensure the well-being of border patrol agents deployed within or in near proximity to the system.
 
 &emsp;“(4)
 
@@ -244,11 +244,11 @@ Ability to seek appellate review.—An interlocutory or final judgment, decree, 
 
 #### Improved Border Equipment and Technology
 
-Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
+Pub. L. 104–208, div. C, title I, §103, Sept. 30, 1996, 110 Stat. 3009–555, provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
 
 #### Hiring and Training Standards
 
-Section 106(a), (b) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title I, §106(a), (b), Sept. 30, 1996, 110 Stat. 3009–556, provided that:
 
 “(a)
 
@@ -260,7 +260,7 @@ Certification.—At the conclusion of each of fiscal years 1997, 1998, 1999, 200
 
 #### Report on Border Strategy
 
-Section 107 of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title I, §107, Sept. 30, 1996, 110 Stat. 3009–557, provided that:
 
 “(a)
 
@@ -276,7 +276,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 #### Compensation for Immigration Judges
 
-Section 371(c) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title III, §371(c), Sept. 30, 1996, 110 Stat. 3009–645, provided that:
 
 “(1)
 
@@ -311,7 +311,7 @@ Appointment.—
 
 Transition.—Immigration judges serving as of the effective date shall be paid at the rate that corresponds to the amount of time, as provided under paragraph (3)(A), that they have served as an immigration judge, and in no case shall be paid less after the effective date than the rate of pay prior to the effective date.”
 
-\[Section 371(d)(2) of div. C of Pub. L. 104–208 provided that: “Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
+\[Pub. L. 104–208, div. C, title III, §371(d)(2), Sept. 30, 1996, 110 Stat. 3009–646, provided that: “Subsection (c) \[set out above\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
 
 #### Machine-Readable Document Border Security Program
 

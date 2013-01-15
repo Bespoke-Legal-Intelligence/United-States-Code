@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (6) Relationship to other authorities
 
-&emsp;A debarment imposed under this section shall not reduce or diminish the authority of a Federal, State, or local government agency or court to penalize, imprison, fine, suspend,debar, or take other adverse action against a person in a civil, criminal, or administrative proceeding.
+&emsp;A debarment imposed under this section shall not reduce or diminish the authority ofa Federal, State, or local government agency or court to penalize, imprison, fine, suspend, debar, or take other adverse action against a person in a civil, criminal, or administrative proceeding.
 
 #### (7) Regulations
 
@@ -162,9 +162,9 @@ Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of 
 
 Section effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as an Effective Date of 1994 Amendment note under section 1755 of this title.
 
-Section 122(b) of Pub. L. 103–448 provided that: “Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\].”
+Pub. L. 103–448, title I, §122(b), Nov. 2, 1994, 108 Stat. 4730, provided that: “Section 25 of the \[Richard B. Russell\] National School Lunch Act \[42 U.S.C. 1769f\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\].”
 
 #### No Reduction in Authority of Secretary of Agriculture To Debar or Suspend a Person From Federal Financial and Nonfinancial Assistance and Benefits
 
-Section 122(c) of Pub. L. 103–448 provided that: “The authority of the Secretary of Agriculture that exists on the day before the date of enactment of this Act \[Nov. 2, 1994\] to debar or suspend a person from Federal financial and nonfinancial assistance and benefits under Federal programs and activities shall not be diminished or reduced by subsection (a) \[enacting this section\] or the amendment made by subsection (a).”
+Pub. L. 103–448, title I, §122(c), Nov. 2, 1994, 108 Stat. 4731, provided that: “The authority of the Secretary of Agriculture that exists on the day before the date of enactment of this Act \[Nov. 2, 1994\] to debar or suspend a person from Federal financial and nonfinancial assistance and benefits under Federal programs and activities shall not be diminished or reduced by subsection (a) \[enacting this section\] or the amendment made by subsection (a).”
 

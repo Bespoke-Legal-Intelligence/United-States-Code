@@ -4,7 +4,7 @@
 
 #### (1) Choice of at least two plans in each area
 
-&emsp;The Secretary shall ensure that each part D eligible individual has available, consistent with paragraph (2), a choice of enrollment in at least 2 qualifying plans (as defined in paragraph (3)) in the area in which the individual resides, at least one of which is a prescription drug plan. In any such case in which such plans are not available, the part D eligible individual shall be given the opportunity to enroll in a fallback prescription drug plan.
+&emsp;The Secretary shall ensure that each part D eligible individual has available, consistentwith paragraph (2), a choice of enrollment in at least 2 qualifying plans (as defined in paragraph (3)) in the area in which the individual resides, at least one of which is a prescription drug plan. In any such case in which such plans are not available, the part D eligible individual shall be given the opportunity to enroll in a fallback prescription drug plan.
 
 #### (2) Requirement for different plan sponsors
 

@@ -23,9 +23,9 @@
 | 262k–1. | Transparency of budgets. |
 | 262k–2. | Female genital mutilation. |
 | 262<i>l.</i> | Environmental reform measures and remedial measures; Committee on Health and the Environment. |
-| 262<i>l</i>–1. | Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”. |
-| 262<i>l</i>–2. | Sustainable use of natural resources; use of agricultural and industrial chemicals. |
-| 262<i>l</i>–3. | Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations. |
+| 262l–1. | Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”. |
+| 262l–2. | Sustainable use of natural resources; use of agricultural and industrial chemicals. |
+| 262l–3. | Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations. |
 | [262m.](%C2%A7%2000262m%20-%20Congressional%20findings%20and%20policies%20for%20multilateral%20development%20banks%20respecting%20environment%2C%20public%20health%2C%20natural%20resources%2C%20and%E2%80%A6.md) | Congressional findings and policies for multilateral development banks respecting environment, public health, natural resources, and indigenous peoples. |
 | 262m–1. | Environmental performance of banks; mechanisms for improvement. |
 | 262m–2. | Environmental impact of assistance proposals. |
@@ -40,10 +40,10 @@
 | 262n–2. | Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors. |
 | 262n–3. | Reduction of barriers to agricultural trade. |
 | 262<i>o.</i> | Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals. |
-| 262<i>o</i>–1. | Military spending by recipient countries; military involvement in economies of recipient countries. |
-| 262<i>o</i>–2. | Advocacy of policies to enhance general effectiveness of International Monetary Fund. |
-| 262<i>o</i>–3. | Administrative provisions. |
-| 262<i>o</i>–4. | Promotion of policy goals. |
+| 262o–1. | Military spending by recipient countries; military involvement in economies of recipient countries. |
+| 262o–2. | Advocacy of policies to enhance general effectiveness of International Monetary Fund. |
+| 262o–3. | Administrative provisions. |
+| 262o–4. | Promotion of policy goals. |
 | [262p.](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md) | Impact adjustment lending programs. |
 | 262p–1. | Grassroots Collaboration Program. |
 | 262p–2. | Instructions to United States Executive Directors for extension of credit. |
@@ -122,7 +122,7 @@
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
 | 276a to 276b. Repealed. |  |
 | [276c.](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md) | Designation of Senate delegates to Conferences of the Interparliamentary Union. |
-| 276c–1. | Reports of expenditures by members of American groups or delegations and employees; consolidated reports by Congressional committees; public inspection. |
+| 276c–1. | Reports of expenditures by members of American groups or delegations and employees; consolidated reports by congressional committees; public inspection. |
 | 276c–2. | Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds. |
 | 276c–3. | Repealed. |
 | 276c–4. | Employment of United States citizens by certain international organizations. |
@@ -323,7 +323,7 @@
 
 |  |
 | :--- |
-| 281 to 281<i>l</i>. Omitted or Repealed. |
+| 281 to 281l. Omitted or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -771,15 +771,15 @@
 |  |  |
 | :--- | ---: |
 | 290<i>l.</i> | Acceptance of membership. |
-| 290<i>l</i>–1. | Governor and alternate Governor. |
-| 290<i>l</i>–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
-| 290<i>l</i>–3. | Federal Reserve banks as depositories. |
-| 290<i>l</i>–4. | Subscription of stock. |
-| 290<i>l</i>–5. | Jurisdiction and venue of civil actions by or against Bank. |
-| 290<i>l</i>–6. | Effectiveness of Agreement. |
-| 290<i>l</i>–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
-| 290<i>l</i>–8. | Congressional consultations. |
-| 290<i>l</i>–9. | Capital increase. |
+| 290l–1. | Governor and alternate Governor. |
+| 290l–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
+| 290l–3. | Federal Reserve banks as depositories. |
+| 290l–4. | Subscription of stock. |
+| 290l–5. | Jurisdiction and venue of civil actions by or against Bank. |
+| 290l–6. | Effectiveness of Agreement. |
+| 290l–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
+| 290l–8. | Congressional consultations. |
+| 290l–9. | Capital increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -816,13 +816,13 @@
 |  |  |
 | :--- | ---: |
 | 290<i>o.</i> | Acceptance of membership. |
-| 290<i>o</i>–1. | Governor and alternate Governor. |
-| 290<i>o</i>–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
-| 290<i>o</i>–3. | Federal Reserve Banks as depositories. |
-| 290<i>o</i>–4. | Subscription of stock. |
-| 290<i>o</i>–5. | Jurisdiction and venue of civil actions by or against Bank. |
-| 290<i>o</i>–6. | Effectiveness of Agreement. |
-| 290<i>o</i>–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
+| 290o–1. | Governor and alternate Governor. |
+| 290o–2. | Applicability of certain provisions of Bretton Woods Agreements Act. |
+| 290o–3. | Federal Reserve Banks as depositories. |
+| 290o–4. | Subscription of stock. |
+| 290o–5. | Jurisdiction and venue of civil actions by or against Bank. |
+| 290o–6. | Effectiveness of Agreement. |
+| 290o–7. | Exemption from securities laws for certain securities issued by Bank; reports required. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -961,7 +961,7 @@
 - [&sect; 00276 to 276a&#8211;4 - Repealed. Pub. L. 105&#8211;277, div. G, subdiv. B, title XXV, &sect;2503(d), Oct. 21, 1998, 112 Stat. 2681&#8211;837](%C2%A7%2000276%20to%20276a%E2%80%934%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20B%2C%20title%20XXV%2C%20%C2%A72503%28d%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93837.md)
 - [&sect; 00276b - Repealed. Pub. L. 95&#8211;45, &sect;4(d)(4), June 15, 1977, 91 Stat. 223](%C2%A7%2000276b%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9345%2C%20%C2%A74%28d%29%284%29%2C%20June%2015%2C%201977%2C%2091%20Stat.%20223.md)
 - [&sect; 00276c - Designation of Senate delegates to Conferences of the Interparliamentary Union](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md)
-- [&sect; 00276c&#8211;1 - Reports of expenditures by members of American groups or delegations and employees; consolidated reports by Congressional committees&#8230;](%C2%A7%2000276c%E2%80%931%20-%20Reports%20of%20expenditures%20by%20members%20of%20American%20groups%20or%20delegations%20and%20employees%3B%20consolidated%20reports%20by%20Congressional%20committees%E2%80%A6.md)
+- [&sect; 00276c&#8211;1 - Reports of expenditures by members of American groups or delegations and employees; consolidated reports by congressional committees&#8230;](%C2%A7%2000276c%E2%80%931%20-%20Reports%20of%20expenditures%20by%20members%20of%20American%20groups%20or%20delegations%20and%20employees%3B%20consolidated%20reports%20by%20congressional%20committees%E2%80%A6.md)
 - [&sect; 00276c&#8211;2 - Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as&#8230;](%C2%A7%2000276c%E2%80%932%20-%20Employee%20benefits%20for%20United%20States%20citizen-representatives%20to%20international%20financial%20institutions%3B%20Treasury%20Department%20as%E2%80%A6.md)
 - [&sect; 00276c&#8211;3 - Repealed. Pub. L. 101&#8211;240, title V, &sect;541(d)(7), Dec. 19, 1989, 103 Stat. 2518](%C2%A7%2000276c%E2%80%933%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%287%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md)
 - [&sect; 00276c&#8211;4 - Employment of United States citizens by certain international organizations](%C2%A7%2000276c%E2%80%934%20-%20Employment%20of%20United%20States%20citizens%20by%20certain%20international%20organizations.md)

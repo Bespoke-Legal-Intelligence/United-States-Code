@@ -26,13 +26,13 @@ For the purpose of this chapter, the term—
 
 &emsp;(k) “accident” includes a mine explosion, mine ignition, mine fire, or mine inundation, or injury to, or death of, any person;
 
-&emsp;(<i>l</i>) “mandatory health or safety standard” means the interim mandatory health or safety standards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
+&emsp;(l) “mandatory health or safety standard” means the interim mandatory health or safety standards established by subchapters II and III of this chapter, and the standards promulgated pursuant to subchapter I of this chapter;
 
 &emsp;(m) “Panel” means the Interim Compliance Panel established by this chapter; and
 
 &emsp;(n) “Administration” means the Mine Safety and Health Administration in the Department of Labor.
 
-&emsp;(<i>o</i>) “Commission” means the Federal Mine Safety and Health Review Commission.
+&emsp;(o) “Commission” means the Federal Mine Safety and Health Review Commission.
 
 (Pub. L. 91–173, §3, Dec. 30, 1969, 83 Stat. 743; Pub. L. 95–164, title I, §102(b), Nov. 9, 1977, 91 Stat. 1290.)
 
@@ -52,7 +52,7 @@ Par. (h). Pub. L. 95–164, §102(b)(3), added subpar. (1), designated existing 
 
 Par. (j). Pub. L. 95–164, §102(b)(4), inserted “or other” after “coal”.
 
-Pars. (n), (<i>o</i>). Pub. L. 95–164, §102(b)(5), added pars. (n) and (<i>o</i>).
+Pars. (n), (o). Pub. L. 95–164, §102(b)(5), added pars. (n) and (o).
 
 #### Effective Date of 1977 Amendment
 

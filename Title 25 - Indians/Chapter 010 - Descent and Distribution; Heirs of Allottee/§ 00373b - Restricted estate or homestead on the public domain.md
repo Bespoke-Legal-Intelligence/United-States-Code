@@ -12,7 +12,7 @@ Pub. L. 98–25, §3, substituted “$50,000” for “$2,000”.
 
 #### Non-Indian Lands in Harney County, Oregon
 
-Section 2 of Pub. L. 98–25 provided in part that no non-Indian lands in Harney County, Oregon, shall be considered Indian country as defined in section 1151 of Title 18, Crimes and Criminal Procedure.
+Pub. L. 98–25, §2, May 2, 1983, 97 Stat. 185, provided in part that no non-Indian lands in Harney County, Oregon, shall be considered Indian country as defined in section 1151 of Title 18, Crimes and Criminal Procedure.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
 

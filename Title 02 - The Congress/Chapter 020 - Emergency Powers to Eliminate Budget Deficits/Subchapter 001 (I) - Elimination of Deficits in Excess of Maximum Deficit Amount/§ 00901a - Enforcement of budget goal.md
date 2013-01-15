@@ -74,13 +74,15 @@ Unless a joint committee bill achieving an amount greater than $1,200,000,000,00
 
 &emsp;&emsp;(B) subtracting the amount of deficit reduction achieved by the enactment of a joint committee bill, as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011;
 
-&emsp;&emsp;(C) reducing the difference by 18 percent to account for debt service; and
+&emsp;&emsp;(C) reducing the difference by 18 percent to account for debt service;
 
-&emsp;&emsp;(D) dividing the result by 9.
+&emsp;&emsp;(D) dividing the result by 9; and
+
+&emsp;&emsp;(E) for fiscal year 2013, reducing the amount calculated under subparagraphs (A) through (D) by $24,000,000,000.
 
 #### (4) Allocation to functions
 
-&emsp;On January 2, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title, OMB shall allocate half of the total reduction calculated pursuant to paragraph (3) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
+&emsp;On March 1, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title, OMB shall allocate half of the total reduction calculated pursuant to paragraph (3) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
 
 #### (5) Defense function reduction
 
@@ -122,7 +124,7 @@ Unless a joint committee bill achieving an amount greater than $1,200,000,000,00
 
 #### (A) Fiscal year 2013
 
-&emsp;&emsp;On January 2, 2013, for fiscal year 2013, OMB shall calculate and the President shall order a sequestration, effective upon issuance and under the procedures set forth in section 903(f) of this title, to reduce each account within the security category or nonsecurity category by a dollar amount calculated by multiplying the baseline level of budgetary resources in that account at that time by a uniform percentage necessary to achieve—
+&emsp;&emsp;On March 1, 2013, for fiscal year 2013, OMB shall calculate and the President shall order a sequestration, effective upon issuance and under the procedures set forth in section 903(f) of this title, to reduce each account within the security category or nonsecurity category by a dollar amount calculated by multiplying the baseline level of budgetary resources in that account at that time by a uniform percentage necessary to achieve—
 
 &emsp;&emsp;&emsp;(i) for the revised security category, an amount equal to the defense function discretionary reduction calculated pursuant to paragraph (5); and
 
@@ -152,7 +154,7 @@ Unless a joint committee bill achieving an amount greater than $1,200,000,000,00
 
 &emsp;On the dates specified in paragraph (4), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title and actions taken under it.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370.)
 
 #### References in Text
 
@@ -161,4 +163,22 @@ Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in te
 #### Prior Provisions
 
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
+
+#### Amendments
+
+<b>2013</b>—Par. (3)(E). Pub. L. 112–240, §901(a), added subpar. (E).
+
+Par. (4). Pub. L. 112–240, §901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+
+Par. (7)(A). Pub. L. 112–240, §901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
+
+#### 2013 Sequester
+
+Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901a\], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) \[2 U.S.C. 901(c)(2)\] shall be applied as if it read as follows:
+
+&emsp;“ ‘(2) For fiscal year 2013—
+
+&emsp;&emsp;“ ‘(A) for the security category, $544,000,000,000 in budget authority; and
+
+&emsp;&emsp;“ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 

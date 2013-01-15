@@ -17,10 +17,13 @@
 | [14913\.](%C2%A7%2014913%20-%20Conclusiveness%20of%20rates%20in%20certain%20prosecutions.md) | Conclusiveness of rates in certain prosecutions. |
 | [14914\.](%C2%A7%2014914%20-%20Civil%20penalty%20procedures.md) | Civil penalty procedures. |
 | [14915\.](%C2%A7%2014915%20-%20Penalties%20for%20failure%20to%20give%20up%20possession%20of%20household%20goods.md) | Penalties for failure to give up possession of household goods. |
+| [14916\.](%C2%A7%2014916%20-%20Unlawful%20brokerage%20activities.md) | Unlawful brokerage activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title II, §32919(b), July 6, 2012, 126 Stat. 827, added item 14916.
 
 <b>2005</b>—Pub. L. 109–59, title IV, §4210(b), Aug. 10, 2005, 119 Stat. 1759, added item 14915.
 
@@ -44,3 +47,4 @@
 - [&sect; 14913 - Conclusiveness of rates in certain prosecutions](%C2%A7%2014913%20-%20Conclusiveness%20of%20rates%20in%20certain%20prosecutions.md)
 - [&sect; 14914 - Civil penalty procedures](%C2%A7%2014914%20-%20Civil%20penalty%20procedures.md)
 - [&sect; 14915 - Penalties for failure to give up possession of household goods](%C2%A7%2014915%20-%20Penalties%20for%20failure%20to%20give%20up%20possession%20of%20household%20goods.md)
+- [&sect; 14916 - Unlawful brokerage activities](%C2%A7%2014916%20-%20Unlawful%20brokerage%20activities.md)

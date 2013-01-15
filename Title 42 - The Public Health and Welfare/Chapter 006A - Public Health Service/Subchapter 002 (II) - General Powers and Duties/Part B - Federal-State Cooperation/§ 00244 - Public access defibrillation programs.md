@@ -18,7 +18,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 #### (b) Preference
 
-In awarding grants under subsection (a) of this section, the Secretary shall give a preference toa State, political subdivision of a State, Indian tribe, or tribal organization that—
+In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
 
 &emsp;(1) has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
 
@@ -72,7 +72,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Prior Provisions
 
-A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242<i>o</i>(a) of this title.
+A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242o(a) of this title.
 
 A prior section 312 of act July 1, 1944, was classified to section 244–1 of this title prior to repeal by Pub. L. 94–484.
 
@@ -96,7 +96,7 @@ Pub. L. 107–188, title I, §159(b), June 12, 2002, 116 Stat. 634, provided tha
 
 &emsp;“(4) Sixty percent of all cardiac arrests occur outside the hospital. The average national survival rate for out-of-hospital cardiac arrest is only 5 percent.
 
-&emsp;“(5) Communities that have established and implemented public access defibrillation programs haveachieved average survival rates for out-of-hospital cardiac arrest as high as 50 percent.
+&emsp;“(5) Communities that have established and implemented public access defibrillation programs have achieved average survival rates for out-of-hospital cardiac arrest as high as 50 percent.
 
 &emsp;“(6) According to the American Heart Association, wide use of defibrillators could save as many as 50,000 lives nationally each year.
 

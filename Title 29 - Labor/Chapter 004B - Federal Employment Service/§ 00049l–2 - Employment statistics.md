@@ -108,7 +108,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 &emsp;(3) evaluate the performance of the system and recommend needed improvements, taking into consideration the results of the consumer satisfaction review, with particular attention to the improvements needed at the State and local levels;
 
-&emsp;(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in which the plan is developed and priorities for the 5 subsequent fiscal years for the system;
+&emsp;(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in whichthe plan is developed and priorities for the 5 subsequent fiscal years for the system;
 
 &emsp;(5) describe current (as of the date of the submission of the plan) spending and spending needs to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
 
@@ -186,7 +186,7 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006”for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 <b>1998</b>—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
 

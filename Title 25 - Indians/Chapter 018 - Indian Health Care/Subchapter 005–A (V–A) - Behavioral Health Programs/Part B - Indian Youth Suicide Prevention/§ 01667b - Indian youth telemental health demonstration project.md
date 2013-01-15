@@ -40,7 +40,7 @@
 
 #### (5) Consultation with Administration
 
-&emsp;In developing and carrying out the demonstration project under this subsection, the Secretary shall consult with the Administration as the Federal agency focused on mental health issues, including suicide.
+&emsp;In developing and carrying out the demonstration project under this subsection, theSecretary shall consult with the Administration as the Federal agency focused on mental health issues, including suicide.
 
 #### (b) Use of funds
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) psychotherapy;
 
-&emsp;&emsp;&emsp;(ii) psychiatric assessments and diagnostic interviews, therapies for mentalhealth conditions predisposing to suicide, and treatment; and
+&emsp;&emsp;&emsp;(ii) psychiatric assessments and diagnostic interviews, therapies for mental health conditions predisposing to suicide, and treatment; and
 
 &emsp;&emsp;&emsp;(iii) alcohol and substance abuse treatment.
 
@@ -134,7 +134,7 @@ Each grant recipient shall submit to the Secretary an annual report that—
 
 #### (2) Final report
 
-&emsp;Not later than 270 days after the date of termination of funding for the demonstrationproject under subsection (g), the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a final report that—
+&emsp;Not later than 270 days after the date of termination of funding for the demonstration project under subsection (g), the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a final report that—
 
 &emsp;&emsp;(A) describes the results of the projects funded by grants awarded under this section, including any data available that indicate the number of attempted suicides;
 

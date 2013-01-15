@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(III) the strategy of the Administrator of the Environmental Protection Agency entitled “Strategy for Reducing Lead Exposures”, dated February 21, 1991;
 
-&emsp;&emsp;(ii) develop a unified implementation plan for programs that receive Federal financial assistance for activities related to the prevention of lead poisoning;
+&emsp;&emsp;(ii) develop a unified implementation plan for programs that receive Federal financialassistance for activities related to the prevention of lead poisoning;
 
 &emsp;&emsp;(iii) establish a mechanism for sharing and disseminating information among the agencies represented on the Task Force;
 

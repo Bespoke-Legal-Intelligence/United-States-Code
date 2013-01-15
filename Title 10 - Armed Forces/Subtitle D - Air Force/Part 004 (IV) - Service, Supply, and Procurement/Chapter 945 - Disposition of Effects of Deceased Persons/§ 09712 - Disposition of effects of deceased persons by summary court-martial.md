@@ -10,7 +10,7 @@
 
 (b) If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collect the effects of the deceased that are then at the air base or in quarters.
 
-(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased tothe extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
+(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
 
 (d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 
@@ -92,7 +92,7 @@ In subsection (f), the words “Soldiers’ Home” are inserted, since, as prov
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
 
-Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
+Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force”and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 

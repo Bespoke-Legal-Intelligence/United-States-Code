@@ -26,7 +26,7 @@
 
 &emsp;&emsp;The Committee shall be composed of the following voting members:
 
-&emsp;&emsp;&emsp;(i) Not more than 7 voting Federal representatives appoint <sup>1</sup> by the Secretary from agencies that conduct pain care research and treatment.
+&emsp;&emsp;&emsp;(i) Not more than 7 voting Federal representatives appoint <sup>1</sup> by the Secretaryfrom agencies that conduct pain care research and treatment.
 
 &emsp;&emsp;&emsp;(ii) 12 additional voting members appointed under subparagraph (B).
 

@@ -32,7 +32,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–163, §687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to theamount of the loan repayments made on behalf of the person in connection with the agreement.”
 
 #### Savings Provision
 

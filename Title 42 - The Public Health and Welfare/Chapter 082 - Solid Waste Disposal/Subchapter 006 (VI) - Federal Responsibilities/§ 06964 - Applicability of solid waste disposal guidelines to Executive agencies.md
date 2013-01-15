@@ -26,7 +26,7 @@
 
 Each Executive agency which issues any license or permit for disposal of solid waste shall, prior to the issuance of such license or permit, consult with the Administrator to insure compliance with guidelines recommended under section 6907 of this title and the purposes of this chapter.
 
-(Pub. L. 89–272, title II, §6004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amended Pub. L. 95–609, §7(<i>o</i>), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §23, Oct. 21, 1980, 94 Stat. 2347; Pub. L. 104–186, title II, §222(2), Aug. 20, 1996, 110 Stat. 1751.)
+(Pub. L. 89–272, title II, §6004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amendedPub. L. 95–609, §7(o), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §23, Oct. 21, 1980, 94 Stat. 2347; Pub. L. 104–186, title II, §222(2), Aug. 20, 1996, 110 Stat. 1751.)
 
 #### Prior Provisions
 
@@ -42,9 +42,9 @@ Subsec. (a)(2). Pub. L. 96–482, §23(2), required any unit of the legislative 
 
 Subsec. (a)(4). Pub. L. 96–482, §23(3), required House Committee on House Administration and Senate Committee on Rules and Administration with regard to any unit of the legislative branch of the Federal Government to prescribe implementing regulations.
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609, §7(<i>o</i>)(1), (2), substituted “management” for “disposal” in two places.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609, §7(o)(1), (2), substituted “management” for “disposal” in two places.
 
-Subsec. (b). Pub. L. 95–609, §7(<i>o</i>)(3), substituted “Administrator” for “Secretary”.
+Subsec. (b). Pub. L. 95–609, §7(o)(3), substituted “Administrator” for “Secretary”.
 
 #### Change of Name
 

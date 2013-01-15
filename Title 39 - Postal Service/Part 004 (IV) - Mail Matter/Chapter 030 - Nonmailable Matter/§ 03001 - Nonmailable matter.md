@@ -62,7 +62,7 @@
 
 &emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous andlegible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
 &emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any contribution or noncontribution; or
 
@@ -170,7 +170,7 @@
 
 (6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
 
-(<i>l</i>)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
+(l)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
 
 &emsp;(A) submits to the mailer of such matter a written request that such matter should not be mailed to such person; or
 
@@ -186,7 +186,7 @@
 
 (2) In this subsection, the term “hazardous material” means a substance or material designated by the Secretary of Transportation under section 5103(a) of title 49.
 
-(<i>o</i>) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
+(o) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, and renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, §2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, §1, May 24, 2010, 124 Stat. 1193.)
 
@@ -202,6 +202,10 @@ Section 2 of the Poison Prevention Packaging Act of 1970, referred to in subsec.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89–544 included in the credit of this section. The amendment by Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub. L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitutionof the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (h). Pub. L. 111–155, §2(a)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
@@ -214,7 +218,7 @@ Subsec. (h)(2). Pub. L. 111–170, §1(a)(2), inserted “or matter on which the
 
 Subsec. (i). Pub. L. 111–155, §2(b)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
 
-Pub. L. 111–155, §2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover orwrapper” after “such matter by the Federal Government” in introductory provisions.
+Pub. L. 111–155, §2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
 
 Subsec. (i)(1). Pub. L. 111–170, §1(b)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper”.
 
@@ -222,7 +226,7 @@ Subsec. (i)(2). Pub. L. 111–170, §1(b)(2), inserted “or matter on which the
 
 <b>2008</b>—Pub. L. 110–246, §14207(a)(8), renumbered Pub. L. 89–544, §26(h)(2), as §26(i)(2). See 1976 Amendment note below.
 
-<b>2006</b>—Subsecs. (n), (<i>o</i>). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+<b>2006</b>—Subsecs. (n), (o). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–168, §110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
 
@@ -238,7 +242,7 @@ Subsec. (j). Pub. L. 106–168, §102(3), (4), added subsec. (j). Former subsec.
 
 Subsec. (k). Pub. L. 106–168, §§102(3), 103, added subsec. (k). Former subsec. (k) redesignated (n).
 
-Subsec. (<i>l</i>). Pub. L. 106–168, §103, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 106–168, §103, added subsec. (l).
 
 Subsecs. (m), (n). Pub. L. 106–168, §102(3), redesignated subsecs. (j) and (k) as (m) and (n), respectively.
 
@@ -276,17 +280,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that: “Except as provided in section 108 or 110(b) \[enacting section 3017 of this title, amending section 3013 of this title, and enacting provisions set out as notes under sections 3013 and 3017 of this title\], this title \[see Short Title of 1999 Amendment note below\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 12, 1999\].”
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
-Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
+Pub. L. 101–524, §6, Nov. 6, 1990, 104 Stat. 2304, provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited formailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
-Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
+Pub. L. 101–493, §3, Oct. 31, 1990, 104 Stat. 1184, provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
 
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
-Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Effective Date
 
@@ -294,13 +298,13 @@ Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–168, title I, §101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title \[enacting sections 3016and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title\] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
+Pub. L. 106–168, title I, §101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title \[enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title\] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
 
 #### Short Title of 1990 Amendments
 
-Section 1 of Pub. L. 101–524 provided that: “This Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
+Pub. L. 101–524, §1, Nov. 6, 1990, 104 Stat. 2301, provided that: “This Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
 
-Section 1 of Pub. L. 101–493 provided that: “This Act \[amending this section and enacting provisions set out above\] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
+Pub. L. 101–493, §1, Oct. 31, 1990, 104 Stat. 1184, provided that: “This Act \[amending this section and enacting provisions set out above\] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
 
 #### Short Title of 1983 Amendment
 
@@ -320,7 +324,7 @@ Effect on State Court Proceedings.—Nothing contained in this section shall be 
 
 #### Coordination of Functions With Department of Health and Human Services
 
-Section 4 of Pub. L. 101–524 provided that: “The United States Postal Service shall consult and coordinate the functions and administration of the provisions of this Act and the amendments made by this Act \[see Short Title of 1990 Amendments note above\] with the Secretary of the Department of Health and Human Services and the functions of the Secretary in the administration of section 428 of the Medicare Catastrophic Coverage Act of 1988 (42 U.S.C. 1320b–10) \[Pub. L. 100–360, which enacted section 1320b–10 of Title 42, The Public Health and Welfare, amended section 1395ss of Title 42, and enacted provisions set out as a note under section 1320b–10 of Title 42\].”
+Pub. L. 101–524, §4, Nov. 6, 1990, 104 Stat. 2303, provided that: “The United States Postal Service shall consult and coordinate the functions and administration of the provisions of this Act and the amendments made by this Act \[see Short Title of 1990 Amendments note above\] with the Secretary of the Department of Health and Human Services and the functions of the Secretary in the administration of section 428 of the Medicare Catastrophic Coverage Act of 1988 (42 U.S.C. 1320b–10) \[Pub. L. 100–360, which enacted section 1320b–10 of Title 42, The Public Health and Welfare, amended section 1395ss of Title 42, and enacted provisions set out as a note under section 1320b–10 of Title 42\].”
 
 #### Notice With Respect to Obscene Matter Distributed by Mail and Detention Thereof
 

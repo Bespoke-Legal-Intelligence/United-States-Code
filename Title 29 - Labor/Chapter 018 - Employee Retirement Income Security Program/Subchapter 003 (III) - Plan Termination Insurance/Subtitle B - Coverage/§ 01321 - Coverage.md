@@ -38,7 +38,7 @@ This section does not apply to any plan—
 
 &emsp;(7) which is established and maintained outside of the United States primarily for the benefit of individuals substantially all of whom are nonresident aliens;
 
-&emsp;(8) which is maintained by an employer solely for the purpose of providing benefits for certain employees in excess of the limitations oncontributions and benefits imposed by section 415 of title 26 on plans to which that section applies, without regard to whether the plan is funded, and, to the extent that a separable part of a plan (as determined by the corporation) maintained by an employer is maintained for such purpose, that part shall be treated for purposes of this subchapter, as a separate plan which is an excess benefit plan;
+&emsp;(8) which is maintained by an employer solely for the purpose of providing benefits for certain employees in excess of the limitations on contributions and benefits imposed by section 415 of title 26 on plans to which that section applies, without regard to whether the plan is funded, and, to the extent that a separable part of a plan (as determined by the corporation) maintained by an employer is maintained for such purpose, that part shall be treated for purposes of this subchapter, as a separate plan which is an excess benefit plan;
 
 &emsp;(9) which is established and maintained exclusively for substantial owners;
 

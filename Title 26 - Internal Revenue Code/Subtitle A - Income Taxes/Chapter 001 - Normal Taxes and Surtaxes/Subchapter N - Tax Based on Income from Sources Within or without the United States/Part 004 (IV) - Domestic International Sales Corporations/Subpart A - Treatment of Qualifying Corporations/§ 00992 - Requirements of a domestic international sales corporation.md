@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the adjusted basis of the qualified export assets (as defined in section 993(b)) of the corporation at the close of the taxable year equals or exceeds 95 percent of the sum of the adjusted basis of all assets of the corporation at the close of the taxable year,
 
-&emsp;&emsp;(C) such corporation does not have more than one class of stock and the par or statedvalue of its outstanding stock is at least $2,500 on each day of the taxable year, and
+&emsp;&emsp;(C) such corporation does not have more than one class of stock and the par or stated value of its outstanding stock is at least $2,500 on each day of the taxable year, and
 
 &emsp;&emsp;(D) the corporation has made an election pursuant to subsection (b) to be treated as a DISC and such election is in effect for the taxable year.
 
@@ -66,7 +66,7 @@
 
 &emsp;The conditions under paragraph (1) shall be deemed satisfied in the case of a distribution made under such paragraph—
 
-&emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failure to make such distribution prior to the date on which made, are due to reasonable cause; and
+&emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failureto make such distribution prior to the date on which made, are due to reasonable cause; and
 
 &emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 4½ percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
 

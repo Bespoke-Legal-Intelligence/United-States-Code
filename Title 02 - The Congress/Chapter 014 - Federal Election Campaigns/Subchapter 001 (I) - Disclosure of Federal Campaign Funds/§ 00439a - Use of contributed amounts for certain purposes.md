@@ -52,7 +52,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 &emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
 
-&emsp;&emsp;(B) the candidate, the authorized committee, or other political committee pays to the owner, lessee, or other person who provides the airplane the pro rata share of the fair market value of such flight (as determined by dividing the fair market value of the normal and usual charter fare or rental chargefor a comparable plane of comparable size by the number of candidates on the flight) within a commercially reasonable time frame after the date on which the flight is taken.
+&emsp;&emsp;(B) the candidate, the authorized committee, or other political committee pays to the owner, lessee, or other person who provides the airplane the pro rata share of the fair market value of such flight (as determined by dividing the fair market value of the normal and usual charter fare or rental charge for a comparable plane of comparable size by the number of candidates on the flight) within a commercially reasonable time frame after the date on which the flight is taken.
 
 #### (2) House candidates
 
@@ -84,7 +84,7 @@ This Act, referred to in subsec. (c)(1), (2), means the Federal Election Campaig
 
 #### Prior Provisions
 
-A prior section 439a, Pub. L. 92–225, title III, §313, formerly §318, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1288; renumbered §317, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §313 and amended Pub. L. 96–187, title I, §§105(4), 113, Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–194, title V, §504(a), Nov. 30, 1989, 103 Stat. 1755, also related to use of contributed amounts for certain purposes, prior to repeal by Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95.
+A prior section 439a, Pub. L. 92–225, title III, §313, formerly §318, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1288; renumbered §317, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §313 and amended Pub. L. 96–187, title I, §§105(4), 113, Jan. 8,1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–194, title V, §504(a), Nov. 30, 1989, 103 Stat. 1755, also related to use of contributed amounts for certain purposes, prior to repeal by Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95.
 
 A prior section 313 of Pub. L. 92–225 was renumbered section 309, and is classified to section 437g of this title.
 

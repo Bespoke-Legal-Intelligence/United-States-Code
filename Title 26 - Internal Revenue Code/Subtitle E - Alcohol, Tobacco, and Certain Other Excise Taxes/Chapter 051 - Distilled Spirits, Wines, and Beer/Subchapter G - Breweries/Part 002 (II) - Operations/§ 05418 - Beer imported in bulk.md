@@ -6,5 +6,5 @@ Beer imported or brought into the United States in bulk containers may, under su
 
 #### Effective Date
 
-Section 1421(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1421(c), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

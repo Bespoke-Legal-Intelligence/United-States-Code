@@ -44,7 +44,7 @@ For effective date of this section, referred to in subsec. (b)(2), see section 2
 
 #### Effective Date
 
-Section 2 of Pub. L. 98–600 provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1984, and shall apply with respect to utility costs incurred, and rent payable for any period beginning, on or after that date.”
+Pub. L. 98–600, §2, Oct. 30, 1984, 98 Stat. 3146, provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1984, and shall apply with respect to utility costs incurred, and rent payable for any period beginning, on or after that date.”
 
 #### Ex. Ord. No. 12520. Quarters Allowance to Department of Defense Employees in Panama
 

@@ -38,11 +38,11 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 #### Effective Date of 1993 Amendment
 
-Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
+Pub. L. 103–204, §22(b), Dec. 17, 1993, 107 Stat. 2407, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–203, title VI, §601, July 21, 2010, 124 Stat. 1596, provided that: “This title \[enacting sections 214d, 1467b, 1831c, 1831<i>o</i>–1, 1850a, 1851, and 1852 of this title and section 77z–2a of Title 15, Commerce and Trade, amending sections 35, 36, 84, 371a, 371c, 371c–1, 375, 375b, 1462, 1464, 1467a, 1468, 1828, 1831u, 1841 to 1844, 1848a, and 3907 of this title and section 78q of Title 15, and enacting provisions set out as notes under sections 35, 84, 371a, 371c, 375, 375b, 1462, 1467a, 1815, 1828, 1831c, and 1831u of this title and sections 77z–2a and 78q of Title 15\] may be cited as the ‘Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010’.”
+Pub. L. 111–203, title VI, §601, July 21, 2010, 124 Stat. 1596, provided that: “This title \[enacting sections 214d, 1467b, 1831c, 1831o–1, 1850a, 1851, and 1852 of this title and section 77z–2a of Title 15, Commerce and Trade, amending sections 35, 36, 84, 371a, 371c, 371c–1, 375, 375b, 1462, 1464, 1467a, 1468, 1828, 1831u, 1841 to 1844, 1848a, and 3907 of this title and section 78q of Title 15, and enacting provisions set out as notes under sections 35, 84, 371a, 371c, 375, 375b, 1462, 1467a, 1815, 1828, 1831c, and 1831u of this title and sections 77z–2a and 78q of Title 15\] may be cited as the ‘Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010’.”
 
 #### Short Title of 2006 Amendment
 
@@ -50,15 +50,15 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: “This
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Reform Conforming Amendments Act of 2005’.”
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: “This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the ‘Federal Deposit Insurance Reform Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: “This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78<i>l</i>, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the ‘2004 District of Columbia Omnibus Authorization Act’.”
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: “This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the ‘2004 District of Columbia Omnibus Authorization Act’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -72,11 +72,11 @@ Pub. L. 105–277, div. H, §1, Oct. 21, 1998, 112 Stat. 2681–854, provided th
 
 Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: “This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note under section 1831a of this title\] may be cited as the ‘Riegle-Neal Amendments Act of 1997’.”
 
-Pub. L. 105–18, title V, §50001, June 12, 1997, 111 Stat. 211, provided that: “This title \[enacting provisions set out as notes under this section and sections 1828, 1831<i>o</i>, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1997’.”
+Pub. L. 105–18, title V, §50001, June 12, 1997, 111 Stat. 211, provided that: “This title \[enacting provisions set out as notes under this section and sections 1828, 1831o, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–479, provided that: “This subtitle \[subtitle G (§§2701–2711) of title II of div. A of Pub. L. 104–208 amending sections 24, 338a, 347b, 1431, 1441 to 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831<i>o</i>, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, repealing section 1831h of this title, and enacting provisions set out as notes under sections 1441, 1817, and 1821 of this title and section 162 of Title 26, Internal Revenue Code\] may be cited as the ‘Deposit Insurance Funds Act of 1996’.”
+Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–479, provided that: “This subtitle \[subtitle G (§§2701–2711) of title II of div. A of Pub. L. 104–208 amending sections 24, 338a, 347b, 1431, 1441 to 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, repealing section 1831h of this title, and enacting provisions set out as notes under sections 1441, 1817, and 1821 of this title and section 162 of Title 26, Internal Revenue Code\] may be cited as the ‘Deposit Insurance Funds Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -84,17 +84,17 @@ Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: “Thi
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–76, §1, Aug. 12, 1993, 107 Stat. 752, provided that: “This Act \[enacting provisions set out as notes under this section and sections 1828, 1831<i>o</i>, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1993’.”
+Pub. L. 103–76, §1, Aug. 12, 1993, 107 Stat. 752, provided that: “This Act \[enacting provisions set out as notes under this section and sections 1828, 1831o, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1993’.”
 
 #### Short Title of 1992 Amendments
 
 Pub. L. 102–550, title XV, §1500, Oct. 28, 1992, 106 Stat. 4044, provided that: “This title \[see Tables for classification\] may be cited as the ‘Annunzio-Wylie Anti-Money Laundering Act’.”
 
-Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: “This Act \[enacting sections 338a and 3352 of this title, amending section 24 of this title, and enacting provisions set out as notes under this section and sections 1811, 1828, 1831<i>o</i>, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1992’.”
+Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: “This Act \[enacting sections 338a and 3352 of this title, amending section 24 of this title, and enacting provisions set out as notes under this section and sections 1811, 1828, 1831o, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: “This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the ‘Bank Enterprise Act of 1991’.”
 
@@ -104,7 +104,7 @@ Pub. L. 101–508, title II, §2001, Nov. 5, 1990, 104 Stat. 1388–14, provided
 
 #### Short Title of 1989 Amendment
 
-Section 1(a) of Pub. L. 101–73 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Financial Institutions Reform, Recovery, and Enforcement Act of 1989’.”
+Pub. L. 101–73, §1(a), Aug. 9, 1989, 103 Stat. 183, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Financial Institutions Reform, Recovery, and Enforcement Act of 1989’.”
 
 #### Short Title of 1987 Amendment
 
@@ -126,13 +126,13 @@ Pub. L. 95–630, title VI, §601, Nov. 10, 1978, 92 Stat. 3683, provided that: 
 
 #### Short Title
 
-Section 1 of act Sept. 21, 1950, provided: “That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the ‘Federal Deposit Insurance Act’.”
+Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: “That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the ‘Federal Deposit Insurance Act’.”
 
 #### Separability
 
-Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[seeShort Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
+Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
 
-Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
+Pub. L. 101–73, title XII, §1221, Aug. 9, 1989, 103 Stat. 547, provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
 #### Construction of 1999 Amendments
 
@@ -234,7 +234,7 @@ Variety of approaches.—In developing model approaches to the Year 2000 compute
 
 &emsp;“(3)
 
-Cooperation.—In carrying out this section, the Federal banking agencies and the National CreditUnion Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
+Cooperation.—In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
 #### Study and Report on United States Financial Services System
 
@@ -362,7 +362,7 @@ Pub. L. 102–242, title III, §322, Dec. 19, 1991, 105 Stat. 2370, directed Boa
 
 #### Purposes of 1989 Amendment
 
-Section 101 of Pub. L. 101–73 provided that: “The purposes of this Act \[see Short Title of 1989 Amendment note above\] are as follows:
+Pub. L. 101–73, title I, §101, Aug. 9, 1989, 103 Stat. 187, provided that: “The purposes of this Act \[see Short Title of 1989 Amendment note above\] are as follows:
 
 &emsp;“(1) To promote, through regulatory reform, a safe and stable system of affordable housing finance.
 
@@ -568,13 +568,13 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 “(f)
 
-Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banksfor Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
+Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
 \[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
 
 #### Expansion of Use of Underutilized Minority Banks, Women's Banks, and Low-Income Credit Unions
 
-Section 1204 of Pub. L. 101–73 provided that:
+Pub. L. 101–73, title XII, §1204, Aug. 9, 1989, 103 Stat. 520, provided that:
 
 “(a)
 
@@ -620,19 +620,19 @@ Women's bank.—The term ‘women's bank’ means any depository institution des
 
 #### Small Investor Participation in United States Government Securities Offerings; Study by Secretary of the Treasury
 
-Section 1207 of Pub. L. 101–73 provided that: “Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall conduct a study and report to the Congress on—
+Pub. L. 101–73, title XII, §1207, Aug. 9, 1989, 103 Stat. 523, provided that: “Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall conduct a study and report to the Congress on—
 
 &emsp;“(1) whether, and to what extent, the issuance of securities by the United States Government in small denominations benefits small investors, increases the participation of small investors in United States Government securities offerings, and promotes savings and thrift by the average United States taxpayer; and
 
-&emsp;“(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, and to promote savings and thrift by the average United States taxpayer.”
+&emsp;“(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, andto promote savings and thrift by the average United States taxpayer.”
 
 #### Expenditure of Taxpayer Money Only for Deposit Insurance Purposes
 
-Section 1208 of Pub. L. 101–73 provided that: “Funds appropriated to the Secretary of the Treasury pursuant to an authorization contained in this Act \[see Short Title of 1989 Amendment note above\], and any amount authorized to be borrowed from the Secretary of the Treasury by any entity pursuant to this Act, may only be used as permitted by law, and may not otherwise be used for making any payment to any shareholder in, or creditor to, any insured depository institution.”
+Pub. L. 101–73, title XII, §1208, Aug. 9, 1989, 103 Stat. 523, provided that: “Funds appropriated to the Secretary of the Treasury pursuant to an authorization contained in this Act \[see Short Title of 1989 Amendment note above\], and any amount authorized to be borrowed from the Secretary of the Treasury by any entity pursuant to this Act, may only be used as permitted by law, and may not otherwise be used for making any payment to any shareholder in, or creditor to, any insured depository institution.”
 
 #### Studies of Relationship Between Public Debt and Activities of Government-Sponsored Enterprises
 
-Section 1404 of Pub. L. 101–73 provided that:
+Pub. L. 101–73, title XIV, §1404, Aug. 9, 1989, 103 Stat. 551, provided that:
 
 “(a)
 

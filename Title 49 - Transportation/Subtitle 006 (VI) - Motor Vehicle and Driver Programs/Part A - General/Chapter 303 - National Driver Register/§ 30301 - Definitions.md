@@ -120,7 +120,7 @@ State certifications.—The Secretary shall determine whether a State is meeting
 
 “(b)
 
-Minimum Document Requirements.—To meet the requirements of this section, a State shall include,at a minimum, the following information and features on each driver's license and identification card issued to a person by the State:
+Minimum Document Requirements.—To meet the requirements of this section, a State shall include, at a minimum, the following information and features on each driver's license and identification card issued to a person by the State:
 
 &emsp;“(1) The person's full legal name.
 

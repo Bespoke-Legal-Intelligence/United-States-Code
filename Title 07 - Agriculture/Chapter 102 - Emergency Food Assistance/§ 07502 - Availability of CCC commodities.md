@@ -66,7 +66,7 @@ Subsecs. (c) to (e). Pub. L. 99–198, §1564(a), added subsecs. (c) to (e).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the ‘Secretary’) without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use.”
 
-Subsec. (b). Pub. L. 98–92, §2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which wasexecuted by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 98–92, §2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which was executed by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
 
 #### Effective Date of 1988 Amendment
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 98–92 provided in part that the amendment made by that section is effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
 <i><sup>1</sup></i><i> So in original. The word “be” probably should not appear.</i>
 

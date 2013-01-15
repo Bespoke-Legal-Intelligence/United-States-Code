@@ -74,13 +74,13 @@ Subsec. (f). Pub. L. 94–460, §108(d)(2), added subsec. (f).
 
 #### Effective Date of 1986 Amendment
 
-Section 804(b) of Pub. L. 99–660 provided that: “The amendment made by subsection (a) \[amending this section\] does not apply to any loan or loan guarantee for the initial costs of operation of a health maintenance organization made under title XIII of the Public Health Service Act \[this subchapter\] before October 1, 1985.”
+Pub. L. 99–660, title VIII, §804(b), Nov. 14, 1986, 100 Stat. 3800, provided that: “The amendment made by subsection (a) \[amending this section\] does not apply to any loan or loan guarantee for the initial costs of operation of a health maintenance organization made under title XIII of the Public Health Service Act \[this subchapter\] before October 1, 1985.”
 
 Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub. L. 99–660, set out as an Effective and Termination Dates of 1986 Amendment note under section 300e–1 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 4(d) of Pub. L. 95–559 provided that: “The amendments made by this section \[amending this section and section 300e–7 of this title\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
+Pub. L. 95–559, §4(d), Nov. 1, 1978, 92 Stat. 2133, provided that: “The amendments made by this section \[amending this section and section 300e–7 of this title\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
 
 #### Effective Date of 1976 Amendment
 

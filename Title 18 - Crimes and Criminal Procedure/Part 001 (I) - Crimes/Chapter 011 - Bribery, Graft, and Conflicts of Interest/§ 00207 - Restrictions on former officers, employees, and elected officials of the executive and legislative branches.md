@@ -196,7 +196,7 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(G) the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
 
-&emsp;&emsp;(H) the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representatives described in subparagraph (L), and any elected minority employee of the House of Representatives;
+&emsp;&emsp;(H) the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representativesdescribed in subparagraph (L), and any elected minority employee of the House of Representatives;
 
 &emsp;&emsp;(I) the term “employee on the leadership staff of the Senate” means an employee of the office of a Member of the leadership of the Senate described in subparagraph (M);
 
@@ -244,7 +244,7 @@ Designations.—For purposes of subsection (c) and except as provided in paragra
 
 &emsp;(2)
 
-Inapplicability of designations.—No agency or bureau within the Executive Officeof the President may be designated under paragraph (1) as a separate department or agency. No designation under paragraph (1) shall apply to persons referred to in subsection (c)(2)(A)(i) or (iii).
+Inapplicability of designations.—No agency or bureau within the Executive Office of the President may be designated under paragraph (1) as a separate department or agency. No designation under paragraph (1) shall apply to persons referred to in subsection (c)(2)(A)(i) or (iii).
 
 (i)
 
@@ -362,11 +362,11 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 (E) As used in this subsection, the term “civil service” has the meaning given that term in section 2101 of title 5.
 
-(<i>l</i>)
+(l)
 
-Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids,counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
+Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, §3403(a)(2), title X, §10320(b), Mar. 23, 2010, 124 Stat. 506, 952.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div.A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, §3403(a)(2), title X, §10320(b), Mar. 23, 2010, 124 Stat. 506, 952.)
 
 #### References in Text
 
@@ -462,7 +462,7 @@ Subsec. (j)(1). Pub. L. 110–81, §104(a), inserted subpar. (A) designation and
 
 <b>2002</b>—Subsec. (c)(2)(A)(v). Pub. L. 107–347, §209(d)(1), added cl. (v).
 
-Subsec. (<i>l</i>). Pub. L. 107–347, §209(d)(3), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–347, §209(d)(3), added subsec. (l).
 
 <b>1998</b>—Subsec. (j)(2)(B). Pub. L. 105–244 substituted “section 101” for “section 1201(a)”.
 
@@ -508,7 +508,7 @@ Subsec. (d)(1)(B). Pub. L. 101–280, §2(a)(6)(A), amended subsec. (d)(1)(B), a
 
 Subsec. (d)(2). Pub. L. 101–280, §2(a)(6)(B), amended subsec. (d)(2), as amended by Pub. L. 101–194, by substituting “Persons who may not be contacted” for “Entities to which restrictions apply” in heading, and striking out “other” after “any” in subpar. (B).
 
-Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out formerpar. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
+Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out former par. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
 
 Pub. L. 101–280, §2(a)(7)(A), amended subsec. (e)(6), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
 
@@ -520,7 +520,7 @@ Subsec. (f)(1)(A). Pub. L. 101–280, §2(a)(8)(B), amended subsec. (f)(1)(A), a
 
 Subsec. (f)(1)(B). Pub. L. 101–280, §2(a)(8)(C), amended subsec. (f)(1)(B), as amended by Pub. L. 101–194, by striking out “of the Government” after “department or agency”.
 
-Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
+Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intentto affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
 
@@ -566,27 +566,27 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1995 Amendment
 
-Section 21(c) of Pub. L. 104–65 provided that: “The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\].”
+Pub. L. 104–65, §21(c), Dec. 19, 1995, 109 Stat. 705, provided that: “The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\].”
 
 #### Effective Date of 1992 Amendment
 
-Section 609(b) of Pub. L. 102–395 provided that: “This section \[amending this section\] shall not apply to the person serving as the United States Trade Representative at the date of enactment of this Act \[Oct. 6, 1992\].”
+Pub. L. 102–395, title VI, §609(b), Oct. 6, 1992, 106 Stat. 1873, provided that: “This section \[amending this section\] shall not apply to the person serving as the United States Trade Representative at the date of enactment of this Act \[Oct. 6, 1992\].”
 
 #### Effective Date of 1991 Amendments
 
-Section 3138(b) of Pub. L. 102–190 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
+Pub. L. 102–190, div. C, title XXXI, §3138(b), Dec. 5, 1991, 105 Stat. 1580, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
 
-Section 705(a) of Pub. L. 102–25 provided that subsec. (k), added by Pub. L. 101–189 and omitted in the general amendment of this section by Pub. L. 101–194, is reinstated as originally enacted, effective as of Jan. 1, 1991.
+Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120, provided that subsec. (k), added by Pub. L. 101–189 and omitted in the general amendment of this section by Pub. L. 101–194, is reinstated as originally enacted, effective as of Jan. 1, 1991.
 
 #### Effective Date of 1990 Amendments
 
-Section 529 \[title I, §101(b)(8)(B)\] of Pub. L. 101–509 provided that: “The amendments made by subparagraph (A) \[amending this section\] take effect on January 1, 1991.”
+Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1441, provided that: “Theamendments made by subparagraph (A) \[amending this section\] take effect on January 1, 1991.”
 
 Amendment by Pub. L. 101–280 effective May 4, 1990, see section 11 of Pub. L. 101–280, set out as a note under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment; Effect on Employment
 
-Section 102 of Pub. L. 101–194, as amended by Pub. L. 101–280, §2(b), May 4, 1990, 104 Stat. 152, provided that:
+Pub. L. 101–194, title I, §102, Nov. 30, 1989, 103 Stat. 1724, as amended by Pub. L. 101–280, §2(b), May 4, 1990, 104 Stat. 152, provided that:
 
 “(a)
 
@@ -636,7 +636,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(B) on active duty as a commissioned officer of a uniformed service assigned to pay grade of O–9 or above as described in section 201 of title 37, United States Code; or
 
-&emsp;“(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation with the department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B)above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
+&emsp;“(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation with the department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B) above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
 
 “(2) The prohibition of subsection (c) shall not apply to appearances, communications, or representation by a former officer or employee, who is—
 
@@ -684,9 +684,9 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### Effective Date of 1978 Amendment
 
-Section 503 of Pub. L. 95–521, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
-Section 502 of Pub. L. 95–521, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Pub. L. 95–521, title V, §503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date
 

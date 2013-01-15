@@ -4,7 +4,7 @@ Section, acts Dec. 29, 1916, ch. 9, §10, 39 Stat. 865; Jan. 29, 1929, ch. 114, 
 
 #### Effective Date of Repeal
 
-Section 704(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
 

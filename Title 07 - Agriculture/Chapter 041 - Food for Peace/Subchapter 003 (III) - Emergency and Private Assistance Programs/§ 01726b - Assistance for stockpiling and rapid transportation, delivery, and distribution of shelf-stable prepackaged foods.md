@@ -12,7 +12,7 @@ The Administrator may provide grants to—
 
 #### (1) In general
 
-&emsp;Not more than 70 percent of the amount made available to carry out this section shall be used to provide grants under subsection (a)(1) of this section.
+&emsp;Not more than 70 percent of the amount made available to carry out this section shallbe used to provide grants under subsection (a)(1) of this section.
 
 #### (2) Priority
 

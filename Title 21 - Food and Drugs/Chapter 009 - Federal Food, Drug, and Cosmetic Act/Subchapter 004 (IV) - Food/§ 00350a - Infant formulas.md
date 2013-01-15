@@ -32,7 +32,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (B) Each nutrient premix used in the manufacture of an infant formula shall be tested for each relied upon nutrient required by subsection (i) of this section which is contained in such premix to ensure that such premix is in compliance with its specifications or certifications by a premix supplier.
 
-(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) of this section for which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
+(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) of this sectionfor which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
 
 &emsp;(i) ensure that each batch of such infant formula is in compliance with the requirements of subsection (i) of this section relating to such nutrients, and
 
@@ -68,7 +68,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (1) No person shall introduce or deliver for introduction into interstate commerce any new infant formula unless—
 
-&emsp;(A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at whichsuch person intends to manufacture such new infant formula, and
+&emsp;(A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at which such person intends to manufacture such new infant formula, and
 
 &emsp;(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1) of this section.
 
@@ -94,7 +94,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (2) After the first production of an infant formula subject to subsection (c) of this section, and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i) of this section.
 
-(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a changein the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
 
 #### (e) Additional notice requirements for manufacturer
 
@@ -124,7 +124,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (1) Each manufacturer of an infant formula shall make and retain such records respecting the distribution of the infant formula through any establishment owned or operated by such manufacturer as may be necessary to effect and monitor recalls of the formula. Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula.
 
-(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), theSecretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180th day after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
+(2) To the extent that the Secretary determines that records are not being made or maintained in accordance with paragraph (1), the Secretary may by regulation prescribe the records required to be made under paragraph (1) and requirements respecting the retention of such records under such paragraph. Such regulations shall take effect on such date as the Secretary prescribes but not sooner than the 180th day after the date such regulations are promulgated. Such regulations shall apply only with respect to distributions of infant formulas made after such effective date.
 
 #### (h) Exemptions; regulatory oversight
 
@@ -198,7 +198,7 @@ NUTRIENTS
 
 <sup>e</sup> Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
 
-(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(<i>l</i>), Aug. 13, 1993, 107 Stat. 777.)
+(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777.)
 
 #### Amendments
 
@@ -218,9 +218,9 @@ Pub. L. 99–570, §4014(a)(5), which directed that “(d)(1)(B)” be substitut
 
 Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted “(a), (b), and (c)” for “(a) and (b)”.
 
-Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisionsas par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
+Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
 
 #### Effective Date of 1980 Amendment
 
-Section 6 of Pub. L. 96–359 provided that: “Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) \[this section\] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act \[Sept. 26, 1980\].”
+Pub. L. 96–359, §6, Sept. 26, 1980, 94 Stat. 1193, provided that: “Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) \[this section\] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act \[Sept. 26, 1980\].”
 

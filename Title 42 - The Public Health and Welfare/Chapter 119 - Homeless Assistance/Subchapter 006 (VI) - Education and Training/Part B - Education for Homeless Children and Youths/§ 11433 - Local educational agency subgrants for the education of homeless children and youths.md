@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The State educational agency shall, in accordance with section 11432(e) of this title, andfrom amounts made available to such agency under section 11435 of this title, make subgrants to local educational agencies for the purpose of facilitating the enrollment, attendance, and success in school of homeless children and youths.
+&emsp;The State educational agency shall, in accordance with section 11432(e) of this title, and from amounts made available to such agency under section 11435 of this title, make subgrants to local educational agencies for the purpose of facilitating the enrollment, attendance, and success in school of homeless children and youths.
 
 #### (2) Services
 
@@ -56,7 +56,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (2) Need
 
-&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in preschool, elementary, and secondary schools within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
+&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in preschool, elementary, and secondary schools within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meetsuch needs. The State educational agency may also consider the following:
 
 &emsp;&emsp;(A) The extent to which the proposed use of funds will facilitate the enrollment, retention, and educational success of homeless children and youths.
 

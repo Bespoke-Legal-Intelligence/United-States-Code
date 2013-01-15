@@ -33,7 +33,9 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 | Over $100,000 but not over $150,000 | $23,800, plus 30 percent of the excess of such amount over $100,000. |
 | Over $150,000 but not over $250,000 | $38,800, plus 32 percent of the excess of such amount over $150,000. |
 | Over $250,000 but not over $500,000 | $70,800, plus 34 percent of the excess of such amount over $250,000. |
-| Over $500,000 | $155,800, plus 35 percent of the excess of such amount over $500,000. |
+| Over $500,000 but not over $750,000 | $155,800, plus 37 percent of the excess of such amount over $500,000. |
+| Over $750,000 but not over $1,000,000 | $248,300, plus 39 percent of the excess of such amount over $750,000. |
+| Over $1,000,000 | $345,800, plus 40 percent of the excess of such amount over $1,000,000. |
 
 #### (d) Adjustment for gift tax paid by spouse
 
@@ -91,27 +93,23 @@ For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the 
 
 &emsp;&emsp;(B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–312, §§302(d)(1)(A), 304, temporarily substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent's death)”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2013</b>—Subsec. (c). Pub. L. 112–240 substituted in table separate tentative tax rates for amounts over $500,000 but not over $750,000, over $750,000 but not over $1,000,000, and over $1,000,000, respectively, for single tentative tax rate for amounts over $500,000.
 
-Subsec. (c). Pub. L. 111–312, §§302(a)(2), 304, temporarily struck out par. (1) designation and heading preceding table, substituted in table a single tentative tax rate for any amount over $500,000 for separate tentative tax rates for amounts ranging from over $500,000 to over $2,500,000, and struck out par. (2) which related to phasedown of maximum rate of tax. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–312, §302(d)(1)(A), substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent's death)”.
 
-Subsec. (g). Pub. L. 111–312, §§302(d)(1)(B), 304, temporarily added subsec. (g). See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (c). Pub. L. 111–312, §302(a)(2), struck out par. (1) designation and heading preceding table, substituted in table a single tentative tax rate for any amount over $500,000 for separate tentative tax rates for amounts ranging from over $500,000 to over $2,500,000, and struck out par. (2) which related to phasedown of maximum rate of tax.
 
-<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (g). Pub. L. 111–312, §302(d)(1)(B), added subsec. (g).
 
-Subsec. (c)(2). Pub. L. 107–16, §§511(c), 901, temporarily added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §511(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000.
 
-Pub. L. 107–16, §§511(b), 901, temporarily struck out heading and text of par. (2). Text read as follows: “The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(2). Pub. L. 107–16, §511(c), added par. (2).
+
+Pub. L. 107–16, §511(b), struck out heading and text of par. (2). Text read as follows: “The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.”
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–206, §6007(e)(2)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If—
 
@@ -151,13 +149,23 @@ Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as
 
 <b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title I, §101(c)(3), Jan. 2, 2013, 126 Stat. 2318, provided that:
+
+“(A)
+
+In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012.
+
+“(B)
+
+Technical correction.—The amendment made by paragraph (2) \[amending section 2010 of this title\] shall take effect as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[Pub. L. 111–312\].”
+
+#### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title III, §302(f), Dec. 17, 2010, 124 Stat. 3302, provided that: “Except as otherwise provided in this subsection \[probably should be “section”\], the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
 
-Section 901 of Pub. L. 107–16 applicable to amendments by section 302(a)(2), (d)(1) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §511(f)(1), (2), June 7, 2001, 115 Stat. 71, provided that:
 
@@ -171,43 +179,41 @@ and (b).—The amendments made by subsections (a) and (b) \[amending this sectio
 
 Subsection (c).—The amendment made by subsection (c) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2002.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 501(f) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: “The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997.”
+Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: “The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997.”
 
-Section 506(e)(1) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6007(e)(1), July 22, 1998, 112 Stat. 809, provided that: “The amendments made by subsections (a), (c), and (d) \[enacting section 7477 of this title and amending this section and section 2504 of this title\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title V, §506(e)(1), Aug. 5, 1997, 111 Stat. 856, as amended by Pub. L. 105–206, title VI, §6007(e)(1), July 22, 1998, 112 Stat. 809, provided that: “The amendments made by subsections (a), (c), and (d) \[enacting section 7477 of this title and amending this section and section 2504 of this title\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
+Pub. L. 103–66, title XIII, §13208(c), Aug. 10, 1993, 107 Stat. 469, provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
 
 #### Effective Date of 1987 Amendment
 
-Section 10401(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and section 2502 of this title\] shall apply in the case of decedents dying, and gifts made, after December 31, 1987.”
+Pub. L. 100–203, title X, §10401(c), Dec. 22, 1987, 101 Stat. 1330–431, provided that: “The amendments made by this section \[amending this section and section 2502 of this title\] shall apply in the case of decedents dying, and gifts made, after December 31, 1987.”
 
 #### Effective Date of 1984 Amendment
 
-Section 21(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after, and gifts made after, December 31, 1983.”
+Pub. L. 98–369, div. A, title I, §21(b), July 18, 1984, 98 Stat. 506, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after, and gifts made after, December 31, 1983.”
 
 #### Effective Date of 1981 Amendment
 
-Section 402(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after, and gifts made after, December 31, 1981.”
+Pub. L. 97–34, title IV, §402(d), Aug. 13, 1981, 95 Stat. 301, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after, and gifts made after, December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 702(h)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and section 2602 of this title\] shall apply with respect to the estates of decedents dying after December 31, 1976, except that such amendments shall not apply to transfers made before January 1, 1977.”
+Pub. L. 95–600, title VII, §702(h)(3), Nov. 6, 1978, 92 Stat. 2931, provided that: “The amendments made by this subsection \[amending this section and section 2602 of this title\] shall apply with respect to the estates of decedents dying after December 31, 1976, except that such amendments shall not apply to transfers made before January 1, 1977.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments madeby subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
+Pub. L. 94–455, title XX, §2001(d)(1), Oct. 4, 1976, 90 Stat. 1854, provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L)of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
 
 #### Short Title
 
@@ -219,7 +225,7 @@ Pub. L. 111–312, title III, §301(c), Dec. 17, 2010, 124 Stat. 3300, provided 
 
 #### Clarification of Treatment of Certain Exemptions for Purposes of Federal Estate and Gift Taxes
 
-Section 641 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VI, §641, July 18, 1984, 98 Stat. 939, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -243,7 +249,7 @@ No inference.—No inference shall arise from paragraphs (1) and (2) that any tr
 
 #### Reports With Transfers of Public Housing Bonds
 
-Section 642 of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title VI, §642, July 18, 1984, 98 Stat. 939, provided that:
 
 “(a)
 

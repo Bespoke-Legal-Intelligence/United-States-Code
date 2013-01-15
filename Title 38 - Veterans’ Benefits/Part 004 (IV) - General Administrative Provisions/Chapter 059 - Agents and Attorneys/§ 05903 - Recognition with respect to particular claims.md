@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary may recognize any individual for the preparation, presentation,and prosecution of any particular claim for benefits under any of the laws administered by the Secretary if—
+In General.—The Secretary may recognize any individual for the preparation, presentation, and prosecution of any particular claim for benefits under any of the laws administered by the Secretary if—
 
 &emsp;(1) such individual has certified to the Secretary that no fee or compensation of any nature will be charged any individual for services rendered in connection with such claim; and
 

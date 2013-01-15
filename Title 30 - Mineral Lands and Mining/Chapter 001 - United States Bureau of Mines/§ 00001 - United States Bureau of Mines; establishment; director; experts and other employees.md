@@ -8,7 +8,7 @@ There is hereby established in the Department of the Interior a bureau of mining
 
 “United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out below.
 
-Section 10(b) of Pub. L. 102–285 provided that: “The Bureau of Mines established by the Act of May 16, 1910 (30 U.S.C. 1), is designated as and shall hereafter \[on and after May 18, 1992\] be known as the United States Bureau of Mines.”
+Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “The Bureau of Mines established by the Act of May 16, 1910 (30 U.S.C. 1), is designated as and shall hereafter \[on and after May 18, 1992\] be known as the United States Bureau of Mines.”
 
 #### Transfer of Functions
 

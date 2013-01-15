@@ -22,5 +22,5 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–623 provided that: “This title \[enacting this chapter and section 1220d of Title 16, Conservation, and amending sections 1220 to 1220c of Title 16\] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
+Pub. L. 98–623, title II, §201, Nov. 8, 1984, 98 Stat. 3394, provided that: “This title \[enacting this chapter and section 1220d of Title 16, Conservation, and amending sections 1220 to 1220c of Title 16\] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
 

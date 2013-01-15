@@ -54,49 +54,41 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 (6) For purposes of this subsection, the term “adverse action” means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
 
-#### (e) Appraisals; copies of reports to applicants; costs
+#### (e) Copies furnished to applicants
 
-Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditormay require the applicant to reimburse the creditor for the cost of the appraisal.
+#### (1) In general
+
+&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion,but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
+
+#### (2) Waiver
+
+&emsp;The applicant may waive the 3 day requirement provided for in paragraph (1), except where otherwise required in law.
+
+#### (3) Reimbursement
+
+&emsp;The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
+
+#### (4) Free copy
+
+&emsp;Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.
+
+#### (5) Notification to applicants
+
+&emsp;At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.
+
+#### (6) Valuation defined
+
+&emsp;For purposes of this subsection, the term “valuation” shall include any estimate of the value of a dwelling developed in connection with a creditor's decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
 
 (Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§1071(b), 1085(1), title XIV, §1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1474, July 21, 2010, 124 Stat. 2136, 2199, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, subsection (e) of this section is amended to read as follows:</i>
-
-#### <i>“(e) Copies furnished to applicants</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.</i>
-
-#### <i>“(2) Waiver</i>
-
-&emsp;<i>“The applicant may waive the 3 day requirement provided for in paragraph (1), except where otherwise required in law.</i>
-
-#### <i>“(3) Reimbursement</i>
-
-&emsp;<i>“The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.</i>
-
-#### <i>“(4) Free copy</i>
-
-&emsp;<i>“Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.</i>
-
-#### <i>“(5) Notification to applicants</i>
-
-&emsp;<i>“At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.</i>
-
-#### <i>“(6) Valuation defined</i>
-
-&emsp;<i>“For purposes of this subsection, the term ‘valuation’ shall include any estimate of the value of a dwelling developed in connection with a creditor's decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.”</i>
-
-<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1085(1), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (b)(5). Pub. L. 111–203, §1071(b), added par. (5).
+
+Subsec. (e). Pub. L. 111–203, §1474, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.”
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–242 added subsec. (e).
 
@@ -126,5 +118,5 @@ This subchapter known as the “Equal Credit Opportunity Act”, see Short Title
 
 #### Congressional Findings and Statement of Purpose
 
-Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
+Pub. L. 93–495, title V, §502, Oct. 28, 1974, 88 Stat. 1521, provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
 

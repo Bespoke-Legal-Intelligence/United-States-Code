@@ -1,6 +1,6 @@
 ### §316. Detail of members of Army National Guard for rifle instruction of civilians
 
-The President may detail officers and noncommissioned officers of the Army NationalGuard to duty as instructors at rifle ranges for the training of civilians in the use of military arms.
+The President may detail officers and noncommissioned officers of the Army National Guard to duty as instructors at rifle ranges for the training of civilians in the use of military arms.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 605.)
 

@@ -64,7 +64,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Commission To Assess Veterans’ Education Policy
 
-Section 320 of Pub. L. 99–576, as amended by Pub. L. 100–323, §14, May 20, 1988, 102 Stat. 574, provided for establishment of a Commission on Veterans’ Education Policy, provided for appointment of members of Commission not later than Mar. 1, 1987, directed Commission to submit a report, not later than 18 months after at least 8 members had been appointed, to Committees on Veterans’ Affairs of Senate and House of Representatives, containing the Commission's findings and recommendations on various matters relating to veterans’ education, directed Administrator of Veterans Affairs to file interim and final reports, not later than 2 years after Commission's report, to those Committees responding to Commission's report, and provided for termination of Commission 90 days after Administrator submitted final report.
+Pub. L. 99–576, title III, §320, Oct. 28, 1986, 100 Stat. 3275, as amended by Pub. L. 100–323, §14, May 20, 1988, 102 Stat. 574, provided for establishment of a Commission on Veterans’ Education Policy, provided for appointment of members of Commission not later than Mar. 1, 1987, directed Commission to submit a report, not later than 18 months after at least 8 members had been appointed, to Committees on Veterans’ Affairs of Senate and House of Representatives, containing the Commission's findings and recommendations on various matters relating to veterans’ education, directed Administrator of Veterans Affairs to file interim and final reports, not later than 2 years after Commission's report, to those Committees responding to Commission's report, and provided for termination of Commission 90 days after Administrator submitted final report.
 
 #### Study of Educational Assistance Programs for Veterans, Survivors, and Dependents; Submission to Congress and President by September 30, 1979
 
@@ -72,5 +72,5 @@ Pub. L. 95–202, title III, §304(b), Nov. 23, 1977, 91 Stat. 1442, directed Ad
 
 #### Study of Operation of Post-Korean Conflict Programs of Educational Assistance
 
-Section 413 of Pub. L. 92–540 provided for a comparative study of operation of post-Korean conflict program of educational assistance with similar prior programs available to veterans of World War II and Korean conflict, the results of such study and recommendations for improvement to be transmitted to President and Congress within six months of Oct. 24, 1972.
+Pub. L. 92–540, title IV, §413, Oct. 24, 1972, 86 Stat. 1093, provided for a comparative study of operation of post-Korean conflict program of educational assistance with similar prior programs available to veterans of World War II and Korean conflict, the results of such study and recommendations for improvement to be transmitted to President and Congress within six months of Oct. 24, 1972.
 

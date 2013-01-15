@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 &emsp;(3) to make clear that the United States decision to establish diplomatic relations with the People's Republic of China rests upon the expectation that the future of Taiwan will be determined by peaceful means;
 
-&emsp;(4) to consider any effort to determine the future of Taiwan by other than peacefulmeans, including by boycotts or embargoes, a threat to the peace and security of the Western Pacific area and of grave concern to the United States;
+&emsp;(4) to consider any effort to determine the future of Taiwan by other than peaceful means, including by boycotts or embargoes, a threat to the peace and security of the Western Pacific area and of grave concern to the United States;
 
 &emsp;(5) to provide Taiwan with arms of a defensive character; and
 
@@ -32,11 +32,11 @@ Nothing contained in this chapter shall contravene the interest of the United St
 
 #### Effective Date
 
-Section 18 of Pub. L. 96–8 provided that: “This Act \[enacting this chapter\] shall be effective as of January 1, 1979.”
+Pub. L. 96–8, §18, Apr. 10, 1979, 93 Stat. 21, provided that: “This Act \[enacting this chapter\] shall be effective as of January 1, 1979.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–8 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Taiwan Relations Act’.”
+Pub. L. 96–8, §1, Apr. 10, 1979, 93 Stat. 14, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Taiwan Relations Act’.”
 
 #### Executive Order No. 12143
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) over all claims or causes of action that involve construction of section 327 of title 11, United States Code, or rules relating to disclosure requirements under section 327.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, §238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L. 98–353, title I, §101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, §144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, §309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I, §104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, §324(a), title VIII, §802(c)(2), title XII, §1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–598, title II, §238(a), Nov. 6, 1978, 92 Stat. 2667; Pub. L.98–353, title I, §101(a), July 10, 1984, 98 Stat. 333; Pub. L. 99–554, title I, §144(e), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, §309(b), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 103–394, title I, §104(b), Oct. 22, 1994, 108 Stat. 4109; Pub. L. 109–8, title III, §324(a), title VIII, §802(c)(2), title XII, §1219, Apr. 20, 2005, 119 Stat. 98, 145, 195.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Subsec. (e). Pub. L. 103–394, §104(b)(1), redesignated subsec. (d) as (e).
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–554 substituted “and of property of the estate” for “and of the estate”.
 
-<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction,exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted “cases” for “matters” in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted “Except as provided in subsection (b) of this section, the district” for “The district” and “original and exclusive jurisdiction of all cases under title 11” for “original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy”, and added subsecs. (b) to (d).
 
 <b>1978</b>—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, except that subsec. (c)(2
 
 #### Jurisdiction Over and Transfer of Bankruptcy Cases and Proceedings
 
-Section 115 of Pub. L. 98–353 provided that:
+Pub. L. 98–353, title I, §115, July 10, 1984, 98 Stat. 343, provided that:
 
 “(a) On the date of the enactment of this Act \[July 10, 1984\] the appropriate district court of the United States shall have jurisdiction of—
 

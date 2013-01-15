@@ -54,7 +54,7 @@ As used in this section—
 
 &emsp;(3) the term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-(Pub. L. 96–88, title II, §212, formerly §214, as added Pub. L. 101–392, title VI, §602(a)(3), Sept. 25, 1990, 104 Stat. 840; amended Pub. L. 103–322, title II, §20408(a), Sept. 13, 1994, 108 Stat. 1827; renumbered §212, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title II, §212, formerly §214, as added Pub. L. 101–392, title VI, §602(a)(3), Sept.25, 1990, 104 Stat. 840; amended Pub. L. 103–322, title II, §20408(a), Sept. 13, 1994, 108 Stat. 1827; renumbered §212, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 #### Prior Provisions
 
@@ -66,7 +66,7 @@ A prior section 212 of Pub. L. 96–88 was renumbered section 211 and is classif
 
 #### Effective Date
 
-Section 702 of Pub. L. 101–392 provided that:
+Pub. L. 101–392, title VII, §702, Sept. 25, 1990, 104 Stat. 843, provided that:
 
 “(a)
 

@@ -94,7 +94,7 @@ On the same date that the Administrator notifies any committee of the Senate or 
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of theSenate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
+&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
 
 #### (2) Contents
 
@@ -130,7 +130,7 @@ On the same date that the Administrator notifies any committee of the Senate or 
 
 &emsp;&emsp;&emsp;(v) legislative changes, if any, needed to implement findings from the Accelerated Disaster Response Initiative of the Administration; and
 
-&emsp;&emsp;&emsp;(vi) a description of how the Administration plans to integrate and coordinate the response to a major disaster with the technical assistance programs of the Administration; and
+&emsp;&emsp;&emsp;(vi) a description of how the Administration plans to integrate and coordinate theresponse to a major disaster with the technical assistance programs of the Administration; and
 
 &emsp;&emsp;(B) the plans of the Administrator for implementing any recommendation made under subparagraph (A).
 
@@ -146,7 +146,7 @@ The date of enactment of this Act, referred to in subsec. (f)(1), is the date of
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-Section is comprised of section 12091 of Pub. L. 110–246. Subsec. (g) of section 12091 of Pub. L. 110–246 enacted section 657<i>o</i> of this title.
+Section is comprised of section 12091 of Pub. L. 110–246. Subsec. (g) of section 12091 of Pub. L. 110–246 enacted section 657o of this title.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
 

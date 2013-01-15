@@ -12,7 +12,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (2) Program
 
-&emsp;A State agency may elect to use an amount equal to the allotment that would otherwise be issued to a household under the supplemental nutrition assistance program, but for the operation of this subsection, for the purpose of subsidizing or supporting a job under a work supplementation or support program established by the State.
+&emsp;A State agency may elect to use an amount equal to the allotment that would otherwisebe issued to a household under the supplemental nutrition assistance program, but for the operation of this subsection, for the purpose of subsidizing or supporting a job under a work supplementation or support program established by the State.
 
 #### (3) Procedure
 
@@ -80,7 +80,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 &emsp;&emsp;&emsp;(i)(I) waive the responsibility of the State agency to pay all or any portion of the liability amount established for the fiscal year (referred to in this paragraph as the “waiver amount”);
 
-&emsp;&emsp;&emsp;(II) require that a portion, not to exceed 50 percent, of the liability amount established for the fiscal year be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the supplemental nutrition assistance program (referred to in this paragraph as the “new investment amount”), which new investment amount shall not be matched by Federal funds;
+&emsp;&emsp;&emsp;(II) require that a portion, not to exceed 50 percent, of the liability amount established for the fiscal year be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the supplemental nutrition assistance program (referred to in this paragraph as the“new investment amount”), which new investment amount shall not be matched by Federal funds;
 
 &emsp;&emsp;&emsp;(III) designate a portion, not to exceed 50 percent, of the amount established for the fiscal year for payment to the Secretary in accordance with subparagraph (E) (referred to in this paragraph as the “at-risk amount”); or
 
@@ -114,7 +114,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (i) Reduction of other amounts due to State agency
 
-&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by theportion of the liability amount that has not been used in accordance with that requirement.
+&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
 
 #### (ii) Effect of State agency's wholly prevailing on appeal
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of law, counsel may be employed and counsel 
 
 &emsp;&emsp;(C) are likely to provide more efficient and effective administration of the supplemental nutrition assistance program;
 
-&emsp;&emsp;(D) would be compatible with other systems used in the administration of State programs, including the program fundedunder part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+&emsp;&emsp;(D) would be compatible with other systems used in the administration of State programs, including the program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
 &emsp;&emsp;(E) would be tested adequately before and after implementation, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which shall be thoroughly evaluated before the Secretary approves the system to be implemented more broadly; and
 
@@ -348,7 +348,7 @@ In general.—
 
 &emsp;(A)
 
-Amounts.—To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 15 months, from funds made available for each fiscal year under section 2027(a)(1) of this title, $90,000,000 for each fiscal year.
+Amounts.—To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 15 months, from funds made available for each fiscal year under section 2027(a)(1) of this title, $90,000,000 for each fiscal year, except that for fiscal year 2013, the amount shall be $79,000,000.
 
 &emsp;(B)
 
@@ -356,7 +356,7 @@ Allocation.—Funds made available under subparagraph (A) shall be made availabl
 
 &emsp;&emsp;(i) is determined and adjusted by the Secretary; and
 
-&emsp;&emsp;(ii) takes into account the number of individuals who are not exempt from the work requirement under section 2015(<i>o</i>) of this title.
+&emsp;&emsp;(ii) takes into account the number of individuals who are not exempt from the work requirement under section 2015(o) of this title.
 
 &emsp;(C)
 
@@ -372,23 +372,23 @@ Additional allocations for states that ensure availability of work opportunities
 
 &emsp;&emsp;(i)
 
-In general.—In addition to the allocations under subparagraph (A), from funds made available under section 2027(a)(1) of this title, the Secretary shall allocate not more than $20,000,000 for each fiscal year to reimburse a State agency that is eligible under clause (ii) for the costs incurred in serving members of households receiving supplemental nutrition assistance program benefits who—
+In general.—In addition to the allocations under subparagraph (A), from funds made available under section 2027(a)(1) of this title, the Secretary shall allocate not more than $20,000,000 for each fiscal year to reimburse a State agency that is eligibleunder clause (ii) for the costs incurred in serving members of households receiving supplemental nutrition assistance program benefits who—
 
-&emsp;&emsp;&emsp;(I) are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
+&emsp;&emsp;&emsp;(I) are not eligible for an exception under section 2015(o)(3) of this title; and
 
-&emsp;&emsp;&emsp;(II) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(<i>o</i>)(2) of this title.
+&emsp;&emsp;&emsp;(II) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(o)(2) of this title.
 
 &emsp;&emsp;(ii)
 
-Eligibility.—To be eligible for an additional allocation under clause (i), a State agency shall make and comply with a commitment to offer a position in a program described in subparagraph (B) or (C) of section 2015(<i>o</i>)(2) of this title to each applicant or recipient who—
+Eligibility.—To be eligible for an additional allocation under clause (i), a State agency shall make and comply with a commitment to offer a position in a program described in subparagraph (B) or (C) of section 2015(o)(2) of this title to each applicant or recipient who—
 
-&emsp;&emsp;&emsp;(I) is in the last month of the 3-month period described in section 2015(<i>o</i>)(2) of this title;
+&emsp;&emsp;&emsp;(I) is in the last month of the 3-month period described in section 2015(o)(2) of this title;
 
-&emsp;&emsp;&emsp;(II) is not eligible for an exception under section 2015(<i>o</i>)(3) of this title;
+&emsp;&emsp;&emsp;(II) is not eligible for an exception under section 2015(o)(3) of this title;
 
-&emsp;&emsp;&emsp;(III) is not eligible for a waiver under section 2015(<i>o</i>)(4) of this title; and
+&emsp;&emsp;&emsp;(III) is not eligible for a waiver under section 2015(o)(4) of this title; and
 
-&emsp;&emsp;&emsp;(IV) is not exempt under section 2015(<i>o</i>)(6) of this title.
+&emsp;&emsp;&emsp;(IV) is not exempt under section 2015(o)(6) of this title.
 
 (2) If, in carrying out such program during such fiscal year, a State agency incurs costs that exceed the amount allocated to the State agency under paragraph (1), the Secretary shall pay such State agency an amount equal to 50 per centum of such additional costs, subject to the first limitation in paragraph (3), including the costs for case management and casework to facilitate the transition from economic dependency to self-sufficiency through work.
 
@@ -400,7 +400,7 @@ Eligibility.—To be eligible for an additional allocation under clause (i), a S
 
 #### (i) Geographical error-prone profiles
 
-(1) The Department of Agriculture may use quality control information made available under this section to determine which project areas have payment error rates (as defined in subsection (d)(1) of this section) that impair theintegrity of the supplemental nutrition assistance program.
+(1) The Department of Agriculture may use quality control information made available under this section to determine which project areas have payment error rates (as defined in subsection (d)(1) of this section) that impair the integrity of the supplemental nutrition assistance program.
 
 (2) The Secretary may require a State agency to carry out new or modified procedures for the certification of households in areas identified under paragraph (1) if the Secretary determines such procedures would improve the integrity of the supplemental nutrition assistance program and be cost effective.
 
@@ -528,7 +528,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 &emsp;&emsp;&emsp;&emsp;(II) used to match Federal funds under a Federal program other than the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, §758, Oct. 22, 1999, 113 Stat. 1172; Pub. L. 107–171, title IV, §§4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, 116 Stat. 316, 321, 323, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1113, 1140, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1874, 1875, 1902.)
+(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, §758, Oct. 22, 1999, 113 Stat. 1172; Pub. L. 107–171, title IV, §§4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, 116 Stat. 316, 321, 323, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1113, 1140, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1874, 1875, 1902; Pub. L. 112–240, title VII, §701(d)(1), Jan. 2, 2013, 126 Stat. 2363.)
 
 #### References in Text
 
@@ -539,6 +539,8 @@ The Social Security Act, referred to in subsecs. (e), (g)(1)(D), and (k), is act
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h)(1)(A). Pub. L. 112–240 inserted “, except that for fiscal year 2013, the amount shall be $79,000,000” before period at end.
 
 <b>2008</b>—Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (a) to (c), (e), (i), and (k).
 
@@ -606,19 +608,19 @@ Subsec. (h)(1)(B). Pub. L. 107–171, §4121(a)(2), added subpar. (B) and struck
 
 Allocation formula.—The Secretary shall allocate the amounts reserved under subparagraph (A) among the State agencies using a reasonable formula, as determined and adjusted by the Secretary each fiscal year, to reflect—
 
-&emsp;“(I) changes in each State's caseload (as defined in section 2015(<i>o</i>)(6)(A) of this title);
+&emsp;“(I) changes in each State's caseload (as defined in section 2015(o)(6)(A) of this title);
 
-&emsp;“(II) for fiscal year 1998, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
+&emsp;“(II) for fiscal year 1998, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(o)(3) of this title; and
 
-&emsp;“(III) for each of fiscal years 1999 through 2002, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title and who—
+&emsp;“(III) for each of fiscal years 1999 through 2002, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(o)(3) of this title and who—
 
-&emsp;&emsp;“(aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title; or
+&emsp;&emsp;“(aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(o)(4) of this title; or
 
-&emsp;&emsp;“(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title.
+&emsp;&emsp;“(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(o)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(o)(3) of this title.
 
 “(ii)
 
-Estimated factors.—The Secretary shall estimate the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title based on the survey conducted to carry out subsection (c) of this section for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+Estimated factors.—The Secretary shall estimate the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(o)(3) of this title based on the survey conducted to carry out subsection (c) of this section for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
 
 “(iii)
 
@@ -632,7 +634,7 @@ Subsec. (k)(3)(A). Pub. L. 107–171, §4122(a)(1), substituted “2007” for �
 
 Subsec. (k)(3)(B)(ii). Pub. L. 107–171, §4122(a)(2), substituted “2007” for “2002”.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law 95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–185, §502(a)(1), substituted “Subject to subsection (k) of this section, the Secretary” for “The Secretary” in first sentence.
 
@@ -662,7 +664,7 @@ Subsec. (h)(2). Pub. L. 104–193, §817(c), inserted before period at end “,�
 
 Subsec. (h)(5). Pub. L. 104–193, §817(d)(1), struck out “(A)” before “The Secretary shall” and struck out subpar. (B) which read as follows: “The Secretary shall, not later than January 1, 1989, report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of such employment and training programs.”
 
-Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal paymentsunder this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
+Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal payments under this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
 
 <b>1995</b>—Subsec. (i)(3). Pub. L. 104–66 struck out par. (3) which read as follows: “Not later than 12 months after December 23, 1985, and each 12 months thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that lists project areas identified under paragraph (1) and describes any procedures required to be carried out under paragraph (2).”
 
@@ -778,6 +780,10 @@ Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–91 provided for appropriations for the fiscal years ending June 30, 1968 and 1969, and inserted provision dealing with the carrying out of this chapter only with funds appropriated from the general fund of the Treasury for the purposes of this chapter.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -818,7 +824,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Section 13971 of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13971, Aug. 10, 1993, 107 Stat. 680, provided that:
 
 “(a)
 
@@ -826,7 +832,7 @@ General Effective Date and Implementation.—Except as provided in subsection (b
 
 “(b)
 
-Special Effective Dates and Implementation.—(1)(A) Except as provided in subparagraph (B), section 13951 \[amending this section and sections 2022 and 2023 of this title\] shall take effect on October 1, 1991.
+Special Effective Dates and Implementation.—(1)(A) Except as provided in subparagraph (B),section 13951 \[amending this section and sections 2022 and 2023 of this title\] shall take effect on October 1, 1991.
 
 “(B) The amendment made by section 13951(c)(2) \[amending this section\] shall take effect on October 1, 1992.
 
@@ -860,11 +866,11 @@ Amendment by sections 204(b), 321(b), and 404(e) of Pub. L. 100–435 to be effe
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a noteunder section 502 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a note under section 502 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1985 Amendment
 
-Section 1537(a) of Pub. L. 99–198 provided that the amendment made by that section is effective with respect to the fiscal year beginning Oct. 1, 1985, and each fiscal year thereafter.
+Pub. L. 99–198, title XV, §1537(a), Dec. 23, 1985, 99 Stat. 1585, provided that the amendment made by section 1537(a) is effective with respect to the fiscal year beginning Oct. 1, 1985, and each fiscal year thereafter.
 
 #### Effective Date of 1982 Amendment
 
@@ -888,7 +894,7 @@ Secretary of Agriculture to issue final regulations implementing the amendment o
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 #### Regulations
 
@@ -896,7 +902,7 @@ Secretary of Agriculture to promulgate regulations necessary to implement amendm
 
 #### Carryover Funds
 
-Pub. L. 107–171, title IV, §4121(b), May 13, 2002, 116 Stat. 323, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Notwithstanding any other provision of law, funds provided under section 16(h)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(1)(A)) for any fiscal year before fiscal year 2002 shall be rescinded on the date of enactment of this Act \[May 13, 2002\], unless obligated by a State agency before that date.”
+Pub. L. 107–171, title IV, §4121(b), May 13, 2002, 116 Stat. 323, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Notwithstanding any other provision of law, funds provided under section 16(h)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(1)(A)) for any fiscal year before fiscal year 2002 shall be rescinded on the date of enactment of this Act \[May 13, 2002\], unless obligated by a State agency before that date.”
 
 #### Review of Methodology Used To Make Certain Determinations
 
@@ -908,11 +914,11 @@ Pub. L. 105–185, title V, §502(b), June 23, 1998, 112 Stat. 578, as amended b
 
 #### Report to Congress
 
-Pub. L. 105–33, title I, §1002(b), Aug. 5, 1997, 111 Stat. 254, provided that: “Not later than 30 months after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2025(h)(1)(A)\] (as a result of the amendment made by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
+Pub. L. 105–33, title I, §1002(b), Aug. 5, 1997, 111 Stat. 254, provided that: “Not later than 30 months after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2025(h)(1)(A)\] (as a result of the amendment made by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(o) of the Food Stamp Act of 1977 (7 U.S.C. 2015(o)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
 
 #### Quality Control Sanctions
 
-Section 1751 of Pub. L. 101–624 provided that:
+Pub. L. 101–624, title XVII, §1751, Nov. 28, 1990, 104 Stat. 3797, provided that:
 
 “(a)
 

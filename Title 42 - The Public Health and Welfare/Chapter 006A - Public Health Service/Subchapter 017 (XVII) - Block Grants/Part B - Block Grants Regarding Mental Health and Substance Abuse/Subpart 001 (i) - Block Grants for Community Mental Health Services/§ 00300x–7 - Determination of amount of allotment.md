@@ -64,7 +64,7 @@
 
 #### (6) Determination of term “R%”
 
-&emsp;(A) For purposes of paragraph (4), the term “R%”, except as provided in subparagraph (D), means the percentage constituted by the ratio of the amount determined under subparagraph (B) for the State involved to the amount determined under subparagraph (C).
+&emsp;(A) For purposes of paragraph (4), the term “R%”, except as provided in subparagraph (D),means the percentage constituted by the ratio of the amount determined under subparagraph (B) for the State involved to the amount determined under subparagraph (C).
 
 &emsp;(B) The amount determined under this subparagraph for the State involved is the quotient of—
 
@@ -134,7 +134,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 #### (4) Availability of data on population
 
-&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory, the Secretary shall for such purposes estimate the civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
+&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory, the Secretary shall for such purposes estimatethe civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
 
 #### (5) Applicability of certain provisions
 

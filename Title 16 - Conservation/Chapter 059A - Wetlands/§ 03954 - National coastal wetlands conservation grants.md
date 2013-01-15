@@ -6,7 +6,7 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### (b) Priority
 
-Subject to the cost-sharing requirements of this section, the Director may grant or otherwise provide any matching moneys to any coastal State which submits a proposal substantial in character and design to carry out a coastal wetlands conservation project. In awarding such matching grants, the Director shall give priority to coastal wetlands conservation projects that are—
+Subject to the cost-sharing requirements of this section, the Director may grant or otherwise provide any matching moneys to any coastal State which submits a proposal substantial incharacter and design to carry out a coastal wetlands conservation project. In awarding such matching grants, the Director shall give priority to coastal wetlands conservation projects that are—
 
 &emsp;(1) consistent with the National Wetlands Priority Conservation Plan developed under section 3921 of this title; and
 
@@ -58,5 +58,5 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### Effective Date of 1991 Amendment
 
-Section 302(b) of Pub. L. 102–212 provided that: “This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
+Pub. L. 102–212, title III, §302(b), Dec. 11, 1991, 105 Stat. 1661, provided that: “This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
 

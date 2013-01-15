@@ -14,7 +14,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 #### (c) Services
 
-(1) The services provided under each demonstration project shall be designed to meet thespecific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
+(1) The services provided under each demonstration project shall be designed to meet the specific needs of individuals infected with the etiologic agent for acquired immune deficiency syndrome, and shall include—
 
 &emsp;(A) the care and treatment of such individuals by providing—
 
@@ -80,7 +80,7 @@ Each demonstration project shall provide for other research to be carried out at
 
 The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to section 1720 of title 38.
 
-(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

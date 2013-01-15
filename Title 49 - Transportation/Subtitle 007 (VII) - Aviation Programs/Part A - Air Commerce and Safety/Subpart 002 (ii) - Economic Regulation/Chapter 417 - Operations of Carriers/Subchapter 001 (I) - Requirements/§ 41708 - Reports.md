@@ -16,7 +16,63 @@ Requirements.—The Secretary may require an air carrier or foreign air carrier�
 
 &emsp;(3) to file with the Secretary a copy of each agreement, arrangement, contract, or understanding between the carrier and another carrier or person related to transportation affected by this subpart.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141.)
+(c)
+
+Diverted and Cancelled Flights.—
+
+&emsp;(1)
+
+Monthly reports.—The Secretary shall require an air carrier referred to in paragraph (2) to file with the Secretary a monthly report on each flight of the air carrier that is diverted from its scheduled destination to another airport and each flight of the air carrier that departs the gate at the airport at which the flight originates but is cancelled before wheels-off time.
+
+&emsp;(2)
+
+Applicability.—An air carrier that is required to file a monthly airline service quality performance report pursuant to part 234 of title 14, Code of Federal Regulations, shall be subject to the requirement of paragraph (1).
+
+&emsp;(3)
+
+Contents.—A monthly report filed by an air carrier under paragraph (1) shall include, at a minimum, the following information:
+
+&emsp;&emsp;(A) For a diverted flight—
+
+&emsp;&emsp;&emsp;(i) the flight number of the diverted flight;
+
+&emsp;&emsp;&emsp;(ii) the scheduled destination of the flight;
+
+&emsp;&emsp;&emsp;(iii) the date and time of the flight;
+
+&emsp;&emsp;&emsp;(iv) the airport to which the flight was diverted;
+
+&emsp;&emsp;&emsp;(v) wheels-on time at the diverted airport;
+
+&emsp;&emsp;&emsp;(vi) the time, if any, passengers deplaned the aircraft at the diverted airport; and
+
+&emsp;&emsp;&emsp;(vii) if the flight arrives at the scheduled destination airport—
+
+&emsp;&emsp;&emsp;&emsp;(I) the gate-departure time at the diverted airport;
+
+&emsp;&emsp;&emsp;&emsp;(II) the wheels-off time at the diverted airport;
+
+&emsp;&emsp;&emsp;&emsp;(III) the wheels-on time at the scheduled arrival airport; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the gate-arrival time at the scheduled arrival airport.
+
+&emsp;&emsp;(B) For flights cancelled after gate departure—
+
+&emsp;&emsp;&emsp;(i) the flight number of the cancelled flight;
+
+&emsp;&emsp;&emsp;(ii) the scheduled origin and destination airports of the cancelled flight;
+
+&emsp;&emsp;&emsp;(iii) the date and time of the cancelled flight;
+
+&emsp;&emsp;&emsp;(iv) the gate-departure time of the cancelled flight; and
+
+&emsp;&emsp;&emsp;(v) the time the aircraft returned to the gate.
+
+&emsp;(4)
+
+Publication.—The Secretary shall compile the information provided in the monthly reports filed pursuant to paragraph (1) in a single monthly report and publish such report on the Internet Web site of the Department of Transportation.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 112–95, title IV, §402(a), Feb. 14, 2012, 126 Stat. 83.)
 
 Historical and Revision Notes
 
@@ -53,4 +109,12 @@ Aug. 23, 1958, Pub. L. 85–726, §407(a), 72 Stat. 766; Feb. 15, 1980, Pub. L. 
 In subsection (a), the word “reasonably” is omitted as surplus. The words “carry out” are substituted for “administration” for consistency in the revised title. The words “section 11343(c) of this title” are substituted for “section 5(8) of the Interstate Commerce Act, as amended” in section 407(e) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 766), to cite the corresponding section of the revised title and correct the inaccurate reference to the definition of “affiliate”.
 
 In subsection (b)(3), the word “copy” is substituted for “true copy” to eliminate an unnecessary word. The word “transportation” is substituted for “traffic” for consistency in the revised title.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–95 added subsec. (c).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–95, title IV, §402(b), Feb. 14, 2012, 126 Stat. 84, provided that: “Beginning not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall require monthly reports pursuant to the amendment made by subsection (a) \[amending this section\].”
 

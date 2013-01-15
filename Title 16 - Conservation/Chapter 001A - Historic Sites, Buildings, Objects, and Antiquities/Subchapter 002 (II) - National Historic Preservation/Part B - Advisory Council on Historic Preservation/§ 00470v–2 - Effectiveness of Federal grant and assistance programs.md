@@ -12,7 +12,7 @@ The Council may—
 
 &emsp;(2) make recommendations to the head of any Federal agency that administers such program to further the consistency of the program with the purposes and policies of the subchapter and to improve its effectiveness in carrying out those purposes and policies; and
 
-&emsp;(3) make recommendations to the President and Congress regarding the effectiveness ofFederal grant and assistance programs in meeting the purposes and policies of this subchapter, including recommendations with regard to appropriate funding levels.
+&emsp;(3) make recommendations to the President and Congress regarding the effectiveness of Federal grant and assistance programs in meeting the purposes and policies of this subchapter, including recommendations with regard to appropriate funding levels.
 
 (Pub. L. 89–665, title II, §216, as added Pub. L. 109–453, §1(g), Dec. 22, 2006, 120 Stat. 3368.)
 

@@ -30,7 +30,7 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 #### Regulations
 
-Section 210(b) of Pub. L. 102–546 provided that: “The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act \[7 U.S.C. 6p(b)\], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–546, title II, §210(b), Oct. 28, 1992, 106 Stat. 3607, provided that: “The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act \[7 U.S.C. 6p(b)\], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

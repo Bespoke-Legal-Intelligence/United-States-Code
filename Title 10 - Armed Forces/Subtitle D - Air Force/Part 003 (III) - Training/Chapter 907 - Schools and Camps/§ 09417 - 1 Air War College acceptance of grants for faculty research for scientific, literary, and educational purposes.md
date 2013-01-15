@@ -14,7 +14,7 @@ Entities From Which Grants May Be Accepted.—A grant may be accepted under this
 
 (d)
 
-Administration of Grant Funds.—The Secretary shall establish an account for administering funds received as research grants under this section. The Commandant shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+Administration of Grant Funds.—The Secretary shall establish an account for administering funds received as research grants underthis section. The Commandant shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 
 (e)
 

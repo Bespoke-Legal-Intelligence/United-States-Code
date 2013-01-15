@@ -56,7 +56,7 @@ Acceptance of Support.—(1) The Secretary of Defense may accept from any person
 
 Limitations.—(1) A vessel built in a foreign ship yard may not be purchased with funds in the National Defense Sealift Fund pursuant to subsection (c)(1), unless specifically authorized by law.
 
-(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall be conducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
+(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall beconducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
 
 (g)
 
@@ -140,7 +140,7 @@ Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (j), (k). Pub. L. 110–417, §1407(1), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively, and struck out heading and text of former subsec. (j). Text read as follows: “Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).”
+<b>2008</b>—Subsecs. (j), (k). Pub. L. 110–417, §1407(1), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out heading and text of former subsec. (j). Text read as follows: “Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).”
 
 Subsec. (k)(2)(B) to (I). Pub. L. 110–417, §1407(2), added subpar. (B) and struck out former subpars. (B) to (I) which read as follows:
 
@@ -160,13 +160,13 @@ Subsec. (k)(2)(B) to (I). Pub. L. 110–417, §1407(2), added subpar. (B) and st
 
 “(I) Any other auxiliary support vessel.”
 
-Subsec. (<i>l</i>). Pub. L. 110–417, §1407(1), redesignated subsec. (<i>l</i>) as (k).
+Subsec. (l). Pub. L. 110–417, §1407(1), redesignated subsec. (l) as (k).
 
 <b>2006</b>—Subsec. (d)(2). Pub. L. 109–304 substituted “sections 57101–57104 and chapter 573 of title 46” for “sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund”.
 
 Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign ship yard may not be” for “Not more than a total of five vessels built in foreign ship yards may be” and inserted “, unless specifically authorized by law” before period at end.
 
-<b>2003</b>—Subsec. (<i>l</i>)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘congressional defense committees’ means—
+<b>2003</b>—Subsec. (l)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘congressional defense committees’ means—
 
 &emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
@@ -180,15 +180,15 @@ Subsec. (k)(2)(E). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(2)\], ad
 
 Subsec. (k)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(3)\], added par. (6).
 
-<b>1999</b>—Subsec. (k). Pub. L. 106–65, §1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+<b>1999</b>—Subsec. (k). Pub. L. 106–65, §1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (l).
 
 Subsec. (k)(2). Pub. L. 106–65, §1014(b), substituted “that is any of the following:” for “that is—” in introductory provisions, substituted “A” for “a” and a period for the semicolon in subpars. (A) and (B), “An” for “an” and a period for the semicolon in subpar. (C), “An” for “an” and a period for “; or” in subpar. (D), and “A” for “a” in subpar. (E), and added subpars. (F) to (I).
 
-Subsec. (<i>l</i>). Pub. L. 106–65, §1015(a)(1), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 106–65, §1015(a)(1), redesignated subsec. (k) as (l).
 
-Subsec. (<i>l</i>)(4)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (l)(4)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-Subsec. (<i>l</i>)(5). Pub. L. 106–65, §1015(b), added par. (5).
+Subsec. (l)(5). Pub. L. 106–65, §1015(b), added par. (5).
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–106, §1014(a)(1)(A), substituted “only for the following purposes:” for “only for—”.
 

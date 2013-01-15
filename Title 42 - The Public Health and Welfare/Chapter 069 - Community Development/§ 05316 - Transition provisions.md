@@ -8,11 +8,11 @@ Except with respect to projects and programs for which funds have been previousl
 
 In the case of funds available for any fiscal year, the Secretary shall not consider any statement under section 5304(a) of this title, unless such statement is submitted on or prior to such date as the Secretary shall establish as the final date for submission of statements for that year.
 
-(Pub. L. 93–383, title I, §116, Aug. 22, 1974, 88 Stat. 652; Pub. L. 94–375, §15(d), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 96–399, title I, §111(h), Oct. 8, 1980, 94 Stat. 1622; Pub. L. 97–35, title III, §309(m), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I, §110(a), Nov. 30, 1983, 97 Stat. 1168.)
+(Pub. L. 93–383, title I, §116, Aug. 22, 1974, 88 Stat. 652; Pub. L. 94–375, §15(d), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 96–399, title I, §111(h), Oct. 8, 1980, 94 Stat. 1622; Pub. L. 97–35, title III, §309(m), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I \[title I, §110(a)\], Nov. 30, 1983, 97 Stat. 1168.)
 
 #### References in Text
 
-The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a), is Pub. L.89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title I of the Act was classified principally to subchapter I (§3301 et seq.) of chapter 41 of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of this title and Tables.
+The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title I of the Act was classified principally to subchapter I (§3301 et seq.) of chapter 41 of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
@@ -24,7 +24,7 @@ The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30
 
 #### Codification
 
-Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from this section. Subsec. (c) amended section 1453(b) of this title, subsec. (d) amended section 3311(b) and (c) of this title, and subsec. (e) amended section 1452b(a) and (h) of this title.
+Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from this section. Subsec. (c)amended section 1453(b) of this title, subsec. (d) amended section 3311(b) and (c) of this title, and subsec. (e) amended section 1452b(a) and (h) of this title.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Subsec. (h). Pub. L. 96–399, §111(h)(1), struck out subsec. (h) relating to s
 
 #### Effective Date of 1983 Amendment
 
-Section 110(b) of Pub. L. 98–181, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
+Pub. L. 98–181, title I \[title I, §110(b)\], Nov. 30, 1983, 97 Stat. 1168, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, title I, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
 
 #### Effective Date of 1981 Amendment
 

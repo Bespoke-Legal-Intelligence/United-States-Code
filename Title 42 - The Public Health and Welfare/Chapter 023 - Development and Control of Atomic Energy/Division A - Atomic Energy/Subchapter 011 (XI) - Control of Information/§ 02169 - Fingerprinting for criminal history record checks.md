@@ -92,5 +92,5 @@ Subsecs. (d), (e). Pub. L. 109–58, §652(3), (4), added subsec. (d) and redesi
 
 #### Effective Date
 
-Section 606(b) of Pub. L. 99–399 provided that: “The provisions of subsection a. of section 149 of the Atomic Energy Act of 1954 \[subsec. (a) of this section\], as added by this Act, shall take effect upon the promulgation of regulations by the Nuclear Regulatory Commission as set forth in subsection c. of such section \[subsec. (c) of this section\]. Such regulations shall be promulgated not later than 6 months after the date of the enactment of this Act \[Aug. 27, 1986\].”
+Pub. L. 99–399, title VI, §606(b), Aug. 27, 1986, 100 Stat. 877, provided that: “The provisions of subsection a. of section 149 of the Atomic Energy Act of 1954 \[subsec. (a) of this section\], as added by this Act, shall take effect upon the promulgation of regulations by the Nuclear Regulatory Commission as set forth in subsection c. of such section \[subsec. (c) of this section\]. Such regulations shall be promulgated not later than 6 months after the date of the enactment of this Act \[Aug. 27, 1986\].”
 

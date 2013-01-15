@@ -174,7 +174,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(v) the amount of the qualified preretirement survivor annuity under the plan is equal to the amount of the survivor annuity payable under the minimum-required qualified joint and survivor annuity.
 
-(B) For purposes of this paragraph, the term “minimum-required qualified joint and survivor annuity” means the qualified joint and survivor annuity which is the actuarial equivalent of the participant's accrued benefit (within the meaning of section 1002(23) of this title) and under which the survivor annuity is 50 percent of the amount of the annuity which is payable during the joint lives of the participant and the spouse.
+(B) For purposes of this paragraph, the term “minimum-required qualified joint and survivor annuity” means the qualified joint and survivor annuity which is the actuarial equivalent of the participant's accrued benefit (within the meaning of section 1002(23) of this title) and under which the survivor annuity is 50 percent of theamount of the annuity which is payable during the joint lives of the participant and the spouse.
 
 #### (e) Limitation on distributions other than life annuities paid by plan
 
@@ -186,7 +186,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;For purposes of paragraph (1), the term “prohibited payment” means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -334,7 +334,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) the date on which the plan terminates,
 
-&emsp;&emsp;&emsp;&emsp;(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date forthe payment under section 1083(j) of this title, or
+&emsp;&emsp;&emsp;&emsp;(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date for the payment under section 1083(j) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(III) if the adjusted funding target attainment percentage is less than 60 percent for a consecutive period of 7 years, the valuation date for the last year in the period.
 
@@ -382,7 +382,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 
-> &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
+> &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes ofsuch paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
 
 #### (8) Treatment of plan as of close of prohibited or cessation period
 
@@ -394,7 +394,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (B) Treatment of affected benefits
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the plan's treatment ofbenefits which would have been paid or accrued but for this subsection.
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this subsection.
 
 #### (9) Terms relating to funding target attainment percentage
 
@@ -478,7 +478,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (11) Special rule for 2008
 
-&emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+&emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the fundingtarget attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
 
 (Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299.)
 
@@ -570,17 +570,17 @@ Amendment by Pub. L. 105–34 applicable to judgments, orders, and decrees issue
 
 #### Effective Date of 1994 Amendment
 
-Section 761(b) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §761(b), Dec. 8, 1994, 108 Stat. 5034, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
 
 “(2)
 
 Contributing sponsor.—The amendment made by subsection (a)(11) \[amending section 1301 of this title\] shall be effective as if included in the Pension Protection Act \[Pub. L. 100–203, title IX, subtitle D, part II, §§9302–9346\].”
 
-Section 776(e) of Pub. L. 103–465 provided that: “The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation.” \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
+Pub. L. 103–465, title VII, §776(e), Dec. 8, 1994, 108 Stat. 5048, provided that: “The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation.” \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
 
 #### Effective Date of 1989 Amendment
 
@@ -588,7 +588,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 Amendment by section 7894(c)(8) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Section 7894(c)(9)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in section 104 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\].”
+Pub. L. 101–239, title VII, §7894(c)(9)(B), Dec. 19, 1989, 103 Stat. 2449, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in section 104 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\].”
 
 #### Effective Date of 1986 Amendment
 

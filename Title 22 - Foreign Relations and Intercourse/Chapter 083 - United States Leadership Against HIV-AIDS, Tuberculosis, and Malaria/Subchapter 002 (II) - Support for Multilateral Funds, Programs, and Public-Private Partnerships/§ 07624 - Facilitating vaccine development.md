@@ -2,7 +2,7 @@
 
 #### (a) Technical assistance for developing countries
 
-The Administrator of the United States Agency for International Development, utilizing public-private partners, as appropriate, and working in coordination with other international development agencies, is authorized to strengthen the capacity of developing countries’ governmental institutions to—
+The Administrator of the United States Agency for International Development, utilizing public-private partners, as appropriate, and working in coordination with other international development agencies, is authorized to strengthenthe capacity of developing countries’ governmental institutions to—
 
 &emsp;(1) collect evidence for informed decision-making and introduction of new vaccines, including potential HIV/AIDS, tuberculosis, and malaria vaccines, if such vaccines are determined to be safe and effective;
 
@@ -24,7 +24,7 @@ The Administrator of the United States Agency for International Development, uti
 
 &emsp;In negotiating the United States participation in programs for advanced market commitments, the Secretary of the Treasury shall take into account whether programs for advance market commitments include—
 
-&emsp;&emsp;(A) legally binding contracts for product purchase that include a fair market price forup to a maximum number of treatments, creating a strong market incentive;
+&emsp;&emsp;(A) legally binding contracts for product purchase that include a fair market price for up to a maximum number of treatments, creating a strong market incentive;
 
 &emsp;&emsp;(B) clearly defined and transparent rules of program participation for qualified developers and suppliers of the product;
 

@@ -34,7 +34,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (5) Personal property subject to possessory lien
 
-&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvement of such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
+&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvementof such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
 
 #### (6) Real property tax and special assessment liens
 
@@ -108,7 +108,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (D) Purchaser treated as acquiring security interest
 
-&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treatedas having acquired a security interest in commercial financing security
+&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treated as having acquired a security interest in commercial financing security
 
 #### (3) Real property construction or improvement financing agreement
 
@@ -192,7 +192,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 #### (i) Real property
 
-&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or other governmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
+&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or othergovernmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
 
 #### (ii) Personal property
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term “security interest” means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against lossor liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term “security interest” means any interest in property acquired by contract for thepurpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -442,11 +442,11 @@ Pub. L. 105–206, title III, §3435(c), July 22, 1998, 112 Stat. 761, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 501(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 6343 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title V, §501(d), July 30, 1996, 110 Stat. 1461, provided that: “The amendments made by this section \[amending this section and section 6343 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 11317(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 6502 of this title\] shall apply to—
+Pub. L. 101–508, title XI, §11317(c), Nov. 5, 1990, 104 Stat. 1388–458, provided that: “The amendments made by this section \[amending this section and section 6502 of this title\] shall apply to—
 
 &emsp;“(1) taxes assessed after the date of the enactment of this Act \[Nov. 5, 1990\], and
 
@@ -454,15 +454,15 @@ Section 11317(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(s)(2) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(s)(2), Nov. 10, 1988, 102 Stat. 3573, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1569(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1569(b), Oct. 22, 1986, 100 Stat. 2764, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 702(q)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, §702(q)(3), Nov. 6, 1978, 92 Stat. 2938, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) The amendments made by this subsection \[amending this section\] shall apply with respect to liens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
 
@@ -472,7 +472,7 @@ Section 702(q)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 Amendment by section 1202(h)(2) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 
-Section 2008(d)(3) of Pub. L. 94–455 provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect—
+Pub. L. 94–455, title XX, §2008(d)(3), Oct. 4, 1976, 90 Stat. 1893, provided that: “The amendment made by subsection (c) \[amending this section\] shall take effect—
 
 &emsp;“(A) in the case of liens filed before the date of the enactment of this Act \[Oct. 4, 1976\], on the 270th day after such date of enactment, or
 
@@ -480,7 +480,7 @@ Section 2008(d)(3) of Pub. L. 94–455 provided that: “The amendment made by s
 
 #### Effective Date of 1966 Amendments
 
-Section 114(a)–(c) of title I of Pub. L. 89–719 provided that:
+Pub. L. 89–719, title I, §114(a)–(c), Nov. 2, 1966, 80 Stat. 1146, 1147, provided that:
 
 “(a)
 
@@ -508,9 +508,9 @@ Liability for Withheld Taxes.—
 
 &emsp;“(2) The amendments made by section 105(b) (relating to performance bonds of contractors for public buildings or works) \[amending section 270a of former Title 40\] shall apply to contracts entered into pursuant to invitations for bids issued after June 30, 1967.”
 
-Section 21 of Pub. L. 89–493 provided that: “This Act \[amending this section\] shall take effect on the first day of the first month which is at least ninety days after the date of approval of this Act \[July 5, 1966\].”
+Pub. L. 89–493, §21, July 5, 1966, 80 Stat. 266, provided that: “This Act \[amending this section\] shall take effect on the first day of the first month which is at least ninety days after the date of approval of this Act \[July 5, 1966\].”
 
 #### Effective Date of 1964 Amendment
 
-Section 236(d) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section and section 6324 of this title\] shall apply only with respect to purchases made after the date of the enactment of this Act \[Feb. 26, 1964.\]”
+Pub. L. 88–272, title II, §236(d), Feb. 26, 1964, 78 Stat. 128, provided that: “The amendments made by this section \[amending this section and section 6324 of this title\] shall apply only with respect to purchases made after the date of the enactment of this Act \[Feb. 26, 1964.\]”
 

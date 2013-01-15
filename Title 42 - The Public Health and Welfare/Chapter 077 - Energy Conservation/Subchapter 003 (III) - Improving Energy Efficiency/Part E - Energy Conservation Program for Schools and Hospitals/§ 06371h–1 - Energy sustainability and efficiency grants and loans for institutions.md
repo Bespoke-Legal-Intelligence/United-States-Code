@@ -32,7 +32,7 @@ In this section:
 
 &emsp;The term “sustainable energy infrastructure” means—
 
-&emsp;&emsp;(A) facilities for production of energy from renewable energy sources, thermal energysources, or highly efficient technologies, including combined heat and power or other waste heat use; and
+&emsp;&emsp;(A) facilities for production of energy from renewable energy sources, thermal energy sources, or highly efficient technologies, including combined heat and power or other waste heat use; and
 
 &emsp;&emsp;(B) district energy systems.
 
@@ -254,7 +254,7 @@ In this section:
 
 #### (F) Advance budget authority required
 
-&emsp;&emsp;New direct loans may not be obligated under this subsection except to the extentthat appropriations of budget authority to cover the costs of the new direct loans are made in advance, as required by section 661c of title 2.
+&emsp;&emsp;New direct loans may not be obligated under this subsection except to the extent that appropriations of budget authority to cover the costs of the new direct loans are made in advance, as required by section 661c of title 2.
 
 #### (3) Criteria
 

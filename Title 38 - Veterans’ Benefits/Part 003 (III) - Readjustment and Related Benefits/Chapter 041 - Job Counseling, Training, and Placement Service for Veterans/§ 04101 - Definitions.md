@@ -30,13 +30,13 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which isclassified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (9), is classified to section 2864(d)(3) of Title 29, Labor.
 
 #### Prior Provisions
 
-Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
+Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Pub. L. 107–288, §5(c)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “Th
 
 #### Effective Date of 1980 Amendment
 
-Section 802(e) of Pub. L. 96–466 provided that: “The amendments made by title V \[see Tables for classification\] and the provisions of sections 512 and 513 \[set out as notes under sections 4106 and 4107 of this title\] shall become effective on October 1, 1980.”
+Pub. L. 96–466, title VIII, §802(e), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by title V \[see Tables for classification\] and the provisions of sections 512 and 513 \[set out as notes under sections 4106 and 4107 of this title\] shall become effective on October 1, 1980.”
 
 Amendment by section 801(h) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
@@ -82,11 +82,11 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date of 1972 Amendment
 
-Section 601(b) of Pub. L. 92–540 provided that: “The provisions of title V of this Act \[see Tables for classification\] shall become effective 90 days after the date of enactment of this Act \[Oct. 24, 1972\].”
+Pub. L. 92–540, title VI, §601(b), Oct. 24, 1972, 86 Stat. 1099, provided that: “The provisions of title V of this Act \[see Tables for classification\] shall become effective 90 days after the date of enactment of this Act \[Oct. 24, 1972\].”
 
 #### Savings Provision
 
-Section 1(e) of Pub. L. 87–675 provided that: “Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
+Pub. L. 87–675, §1(e), Sept. 19, 1962, 76 Stat. 559, provided that: “Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

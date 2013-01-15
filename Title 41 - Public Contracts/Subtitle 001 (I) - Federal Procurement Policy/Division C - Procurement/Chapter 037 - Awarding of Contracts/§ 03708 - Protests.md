@@ -6,7 +6,7 @@ Protest File.—
 
 &emsp;(1)
 
-Establishment and access.—If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contractby, the head of an executive agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31, and an actual or prospective offeror requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
+Establishment and access.—If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contract by, the head of an executive agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31, and an actual or prospective offeror requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
 
 &emsp;(2)
 

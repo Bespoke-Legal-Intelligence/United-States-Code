@@ -2,7 +2,7 @@
 
 The Farm Credit Banks and the capital, reserves, and surplus thereof, and the income derived therefrom, shall be exempt from Federal, State, municipal, and local taxation, except taxes on real estate held by a Farm Credit Bank to the same extent, according to its value, as other similar property held by other persons is taxed. The mortgages held by the Farm Credit Banks and the notes, bonds, debentures, and other obligations issued by the banks shall be considered and held to be instrumentalities of the United States and, as such, they and the income therefrom shall be exempt from all Federal, State, municipal, and local taxation, other than Federal income tax liability of the holder thereof under the Public Debt Act of 1941 (31 U.S.C. 3124).
 
-(Pub. L. 92–181, title I, §1.15, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, §401(<i>l</i>), Aug. 17, 1988, 102 Stat. 997.)
+(Pub. L. 92–181, title I, §1.15, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, §401(l), Aug. 17, 1988, 102 Stat. 997.)
 
 #### Prior Provisions
 
@@ -22,7 +22,7 @@ A prior section 2052, Pub. L. 92–181, title I, §1.18, Dec. 10, 1971, 85 Stat.
 
 A prior section 2053, Pub. L. 92–181, title I, §1.19, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §114, Dec. 24, 1980, 94 Stat. 3439, related to agreements for sharing gains or losses, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
-A prior section 2054, Pub. L. 92–181, title I, §1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §115, Dec. 24,1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2054, Pub. L. 92–181, title I, §1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §115, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 A prior section 2055, Pub. L. 92–181, title I, §1.21, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–399, title IX, §901(a), Aug. 17, 1988, 102 Stat. 1007, related to tax exempt status, prior to the general amendment of this subchapter by Pub. L. 100–233, §401. See section 2023 of this title.
 

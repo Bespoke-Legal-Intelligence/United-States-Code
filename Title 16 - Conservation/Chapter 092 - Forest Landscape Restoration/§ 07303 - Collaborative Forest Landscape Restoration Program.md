@@ -84,7 +84,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;(A) participation by or consultation with State, local, and Tribal governments; and
 
-&emsp;&emsp;(B) any established record of successful collaborative planning and implementationof ecological restoration projects on National Forest System land and other land included in the proposal by the collaborators; and
+&emsp;&emsp;(B) any established record of successful collaborative planning and implementation of ecological restoration projects on National Forest System land and other land included in the proposal by the collaborators; and
 
 &emsp;(7) benefit local economies by providing local employment or training opportunities through contracts, grants, or agreements for restoration planning, design, implementation, or monitoring with—
 
@@ -208,7 +208,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (2) Inclusion
 
-&emsp;The cost of carrying out ecological restoration treatments as provided in paragraph (1) may, as the Secretary determines to be appropriate, include cancellation and termination costs required to be obligated for contracts to carry out ecological restoration treatments on National Forest System land for each proposal selected to be carried out under subsection (d).
+&emsp;The cost of carrying out ecological restoration treatments as provided in paragraph (1)may, as the Secretary determines to be appropriate, include cancellation and termination costs required to be obligated for contracts to carry out ecological restoration treatments on National Forest System land for each proposal selected to be carried out under subsection (d).
 
 #### (3) Contents
 
@@ -286,7 +286,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (4) Multiparty monitoring
 
-&emsp;The Secretary shall, in collaboration with the Secretary of the Interior and interested persons, use a multiparty monitoring, evaluation, and accountability process to assess the positive or negative ecological, social, andeconomic effects of projects implementing a selected proposal for not less than 15 years after project implementation commences.
+&emsp;The Secretary shall, in collaboration with the Secretary of the Interior and interested persons, use a multiparty monitoring, evaluation, and accountability process to assess the positive or negative ecological, social, and economic effects of projects implementing a selected proposal for not less than 15 years after project implementation commences.
 
 #### (h) Report
 

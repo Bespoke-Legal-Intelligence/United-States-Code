@@ -16,7 +16,7 @@ The report under subsection (a)(2) of this section shall include the following m
 
 &emsp;The Comptroller General's assessment of—
 
-&emsp;&emsp;(A) the extent to which property and services procured in accordance with this subchapter have contributed to the capacity of the workforce of Federal Government employees within each executive agency tocarry out the mission of the executive agency; and
+&emsp;&emsp;(A) the extent to which property and services procured in accordance with this subchapter have contributed to the capacity of the workforce of Federal Government employees within each executive agency to carry out the mission of the executive agency; and
 
 &emsp;&emsp;(B) the extent to which Federal Government employees have been trained on the use of technology.
 

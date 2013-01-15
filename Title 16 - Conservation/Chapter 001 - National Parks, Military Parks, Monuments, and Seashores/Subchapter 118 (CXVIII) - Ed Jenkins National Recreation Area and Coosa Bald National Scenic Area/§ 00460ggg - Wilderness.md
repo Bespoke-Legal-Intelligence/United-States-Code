@@ -26,11 +26,11 @@ The effective date of the Wilderness Act, referred to in subsec. (b), means Sept
 
 #### Short Title
 
-Section 1 of Pub. L. 102–217 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Chattahoochee National Forest Protection Act of 1991’.”
+Pub. L. 102–217, §1, Dec. 11, 1991, 105 Stat. 1667, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Chattahoochee National Forest Protection Act of 1991’.”
 
 #### Savings Provision
 
-Section 6 of Pub. L. 102–217 provided that: “Privately held lands within the areas designated by this Act \[enacting this subchapter\] will not be administered as wilderness, a national scenic area, or a national recreation area, as appropriate, unless such lands are acquired by the Secretary.”
+Pub. L. 102–217, §6, Dec. 11, 1991, 105 Stat. 1670, provided that: “Privately held lands within the areas designated by this Act \[enacting this subchapter\] will not be administered as wilderness, a national scenic area, or a national recreation area, as appropriate, unless such lands are acquired by the Secretary.”
 
 #### Redesignation of National Recreation Area
 

@@ -6,7 +6,7 @@ To carry out the purposes of this chapter, the Association is authorized to issu
 
 #### (b) Maximum obligational authority
 
-The aggregate principal amount (exclusive of interest or additions to principal on account ofaccrual of interest) of obligations issued by the Association under this section which may be outstanding at any one time shall not exceed $395,000,000. No obligations or proceeds thereof shall be issued or made available after February 5, 1976, except—
+The aggregate principal amount (exclusive of interest or additions to principal on account of accrual of interest) of obligations issued by the Association under this section which may be outstanding at any one time shall not exceed $395,000,000. No obligations or proceeds thereof shall be issued or made available after February 5, 1976, except—
 
 &emsp;(1) to meet existing or potential commitments for loans under section 721 of this title made or applied for prior to January 1, 1976; and
 
@@ -36,7 +36,7 @@ All obligations issued by the Association shall be lawful investments and may be
 
 #### Codification
 
-In subsec. (e), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, thefirst section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

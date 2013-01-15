@@ -8,7 +8,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Integrated Data Repository of the Centers for Medicare \& Medicaid Servicesshall include, at a minimum, claims and payment data from the following:
+&emsp;&emsp;&emsp;The Integrated Data Repository of the Centers for Medicare \& Medicaid Services shall include, at a minimum, claims and payment data from the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The programs under subchapters XVIII and XIX (including parts A, B, C, and D of subchapter XVIII).
 
@@ -50,7 +50,7 @@
 
 #### (2) Access to claims and payment databases
 
-&emsp;For purposes of conducting law enforcement and oversight activities and to the extent consistent with applicable information, privacy, security, and disclosure laws, including the regulations promulgated under the Health Insurance Portability and Accountability Act of 1996 and section 552a of title 5, and subject to any information systems security requirements under such laws or otherwise required by the Secretary, the Inspector General of the Department of Health and Human Services and the Attorney General shall have access to claims and payment data of the Department of Health and Human Services and its contractors related to subchapters XVIII, XIX, and XXI.
+&emsp;For purposes of conducting law enforcement and oversight activities and to the extent consistent with applicable information, privacy, security, and disclosure laws, including theregulations promulgated under the Health Insurance Portability and Accountability Act of 1996 and section 552a of title 5, and subject to any information systems security requirements under such laws or otherwise required by the Secretary, the Inspector General of the Department of Health and Human Services and the Attorney General shall have access to claims and payment data of the Department of Health and Human Services and its contractors related to subchapters XVIII, XIX, and XXI.
 
 #### (b) OIG authority to obtain information
 

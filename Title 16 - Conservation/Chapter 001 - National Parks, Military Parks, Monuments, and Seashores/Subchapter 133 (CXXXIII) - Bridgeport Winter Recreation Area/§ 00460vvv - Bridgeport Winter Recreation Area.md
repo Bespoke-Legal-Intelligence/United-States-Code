@@ -84,7 +84,7 @@ The designation of the Bridgeport Winter Recreation Area by this section is not 
 
 #### References in Text
 
-This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1052, which enacted this subchapter and section 539<i>o</i> of this title, amended section 1274 of this title, enacted provisions set out as a note under section 1274 of this title, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle K to the Code, see Tables.
+This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1052, which enacted this subchapter and section 539o of this title, amended section 1274 of this title, enacted provisions set out as a note under section 1274 of this title, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle K to the Code, see Tables.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Pub. L. 111–11, title I, §1801, Mar. 30, 2009, 123 Stat. 1052, provided that:
 
 &emsp;“(1)
 
-Forest.—The term ‘Forest’ means the Ancient Bristlecone Pine Forest designated by section 1808(a) \[16 U.S.C. 539<i>o</i>(a)\].
+Forest.—The term ‘Forest’ means the Ancient Bristlecone Pine Forest designated by section 1808(a) \[16 U.S.C. 539o(a)\].
 
 &emsp;“(2)
 

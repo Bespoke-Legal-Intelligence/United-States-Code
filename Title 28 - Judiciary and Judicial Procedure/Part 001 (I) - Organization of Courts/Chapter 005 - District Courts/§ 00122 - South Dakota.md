@@ -26,7 +26,7 @@ Based on title 28, U.S.C., 1940 ed., §187 (Mar. 3, 1911, ch. 231, §106, 36 Sta
 
 A provision relating to maintenance of offices by the clerk was omitted as covered by sections 452 and 751 of this title.
 
-Provisions that the Northern Division included Lake Traverse Indian Reservation and that part of Standing Rock Indian Reservation lying in South Dakota; that the Southern Division included the Yorkton Indian Reservation; that the Central Division included theCheyenne River, Lower Brule, and Crow Creek Indian Reservations; and that the Western Division included Rosebud and Pine Ridge Indian Reservations, were all omitted as surplusage. (See Reviser's Note under section 114 of this title.)
+Provisions that the Northern Division included Lake Traverse Indian Reservation and that part of Standing Rock Indian Reservation lying in South Dakota; that the Southern Division included the Yorkton Indian Reservation; that the Central Division included the Cheyenne River, Lower Brule, and Crow Creek Indian Reservations; and that the Western Division included Rosebud and Pine Ridge Indian Reservations, were all omitted as surplusage. (See Reviser's Note under section 114 of this title.)
 
 Changes in arrangement and phraseology were made.
 

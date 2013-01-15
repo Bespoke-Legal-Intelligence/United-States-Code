@@ -6,7 +6,7 @@ To be sold or labeled as an organically produced agricultural product under this
 
 &emsp;(2) except as otherwise provided in this chapter and excluding livestock, not be produced on land to which any prohibited substances, including synthetic chemicals, have been applied during the 3 years immediately preceding the harvest of the agricultural products; and
 
-&emsp;(3) be produced and handled in compliance with an organic plan agreed to by the producer and handler of such product and the certifying agent.
+&emsp;(3) be produced and handled in compliance with an organic plan agreed to by the producerand handler of such product and the certifying agent.
 
 (Pub. L. 101–624, title XXI, §2105, Nov. 28, 1990, 104 Stat. 3937; Pub. L. 102–237, title X, §1001(1), Dec. 13, 1991, 105 Stat. 1893.)
 

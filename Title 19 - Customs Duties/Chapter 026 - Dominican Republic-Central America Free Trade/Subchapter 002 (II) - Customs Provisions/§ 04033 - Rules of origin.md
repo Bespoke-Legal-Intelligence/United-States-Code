@@ -130,7 +130,7 @@ av
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreementmay be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
+&emsp;&emsp;For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 4.1 of the Agreement may be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
 
 &nbsp;
 
@@ -327,7 +327,7 @@ nc
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification, set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if—
+&emsp;&emsp;Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component ofthe good that determines the tariff classification of the good do not undergo an applicable change in tariff classification, set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if—
 
 &emsp;&emsp;&emsp;(i) the total weight of all such fibers or yarns in that component is not more than 10 percent of the total weight of that component; or
 
@@ -393,7 +393,7 @@ nc
 
 #### (i) Packaging materials and containers for retail sale
 
-Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materialsused in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4.1 of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
 
 #### (j) Packing materials and containers for shipment
 
@@ -403,7 +403,7 @@ Packing materials and containers for shipment shall be disregarded in determinin
 
 An indirect material shall be treated as an originating material without regard to where it is produced.
 
-#### (<i>l</i>) Transit and transhipment
+#### (l) Transit and transhipment
 
 A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good—
 
@@ -589,7 +589,7 @@ In this section:
 
 &emsp;The term “used” means used or consumed in the production of goods.
 
-#### (<i>o</i>) Presidential proclamation authority
+#### (o) Presidential proclamation authority
 
 #### (1) In general
 
@@ -601,7 +601,7 @@ In this section:
 
 #### (2) Fabrics and yarns not available in commercial quantities in the United States
 
-&emsp;The President is authorized to proclaim that a fabric or yarn is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, as provided in article 3.25.4(e) of the Agreement.
+&emsp;The President is authorized to proclaim that a fabric or yarn is added to the list in Annex3.25 of the Agreement in an unrestricted quantity, as provided in article 3.25.4(e) of the Agreement.
 
 #### (3) Modifications
 
@@ -651,7 +651,7 @@ In this section:
 
 &emsp;&emsp;(v) Notwithstanding section 4013(a)(2) of this title, a proclamation made under clause (iii) shall take effect on the date on which the text of the proclamation is published in the Federal Register.
 
-&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available incommercial quantities in a timely manner in the CAFTA–DR countries.
+&emsp;&emsp;(vi) Not later than 6 months after proclaiming under clause (iii) that a fabric, yarn, or fiber is added to the list in Annex 3.25 of the Agreement in a restricted quantity, the President may eliminate the restriction if the President determines that the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries.
 
 #### (D) Deemed approval of request
 
@@ -693,7 +693,7 @@ In this section:
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (o)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
@@ -841,7 +841,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 #### Delegation of Functions
 
-Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73556, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to implement Appendix 4.1–B of the Dominican Republic-Central America-United States Free Trade Agreement by determining whether and, if so, by what amount to increase, in accordance with paragraph 3 or footnote 2 of that Appendix, the quantitative limits in the provisions of the Harmonized Tariff Schedule set out in section D of the Annex to this proclamation (not set out in the Code).
+Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73556, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (o) of this section to implement Appendix 4.1–B of the Dominican Republic-Central America-United States Free Trade Agreement by determining whether and, if so, by what amount to increase, in accordance with paragraph 3 or footnote 2 of that Appendix, the quantitative limits in the provisions of the Harmonized Tariff Schedule set out in section D of the Annex to this proclamation (not set out in the Code).
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 monthsafter adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (o) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
 

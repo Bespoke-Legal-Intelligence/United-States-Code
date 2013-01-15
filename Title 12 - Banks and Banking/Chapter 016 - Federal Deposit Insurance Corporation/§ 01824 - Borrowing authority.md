@@ -8,7 +8,7 @@
 
 #### (2) Funding
 
-&emsp;There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+&emsp;There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal yearthereafter, such sums as may be necessary to carry out this subsection.
 
 #### (3) Temporary increases authorized
 
@@ -128,7 +128,7 @@ The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 9
 
 #### Prior Provisions
 
-Section is derived from subsec. (<i>o</i>) of former section 264 of this title. See Codification note set out under section 1811 of this title.
+Section is derived from subsec. (o) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsec. (d)(1). Pub. L. 109–173, §8(a)(23)(B), (C), substituted “insured de
 
 Subsec. (d)(2)(D). Pub. L. 109–173, §8(a)(23)(A), substituted “insured depository institution” for “Bank Insurance Fund member”.
 
-Subsec. (d)(3). Pub. L. 109–173, §8(a)(23)(C), (E), substituted “the Deposit Insurance Fund” for “BIF” inheading and “Deposit Insurance Fund” for “Bank Insurance Fund” in text.
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(23)(C), (E), substituted “the Deposit Insurance Fund” for “BIF” in heading and “Deposit Insurance Fund” for “Bank Insurance Fund” in text.
 
 Subsec. (d)(5). Pub. L. 109–173, §8(a)(23)(A), (F), substituted “insured depository institutions” for “BIF members” in heading and “insured depository institution” for “Bank Insurance Fund member” in subpars. (A) and (B).
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Retirement and Cancellation of Capital Stock; Payments of Capital and Surplus to Secretary of the Treasury
 
-Section 1 of act Aug. 5, 1947, ch. 492, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount received therefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
+Act Aug. 5, 1947, ch. 492, §1, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount received therefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “insured depository institutions”.</i>
 

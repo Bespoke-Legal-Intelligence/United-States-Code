@@ -54,7 +54,7 @@ Pub. L. 100–180, §632(b)(1), inserted “(other than section 2830)” after �
 
 #### Effective Date
 
-Section 12 of Pub. L. 97–214 provided:
+Pub. L. 97–214, §12, July 12, 1982, 96 Stat. 176, provided:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1982 Amendment note below\] shall take effect on October 1, 1982, and shall apply to military construction projects, and to construction and acquisition of military family housing, authorized before, on, or after such date.
 
@@ -62,7 +62,7 @@ Section 12 of Pub. L. 97–214 provided:
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–214 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Military Construction Codification Act’.”
+Pub. L. 97–214, §1, July 12, 1982, 96 Stat. 153, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Military Construction Codification Act’.”
 
 #### Transfer of Functions
 

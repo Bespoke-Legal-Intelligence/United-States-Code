@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-Not later than April 1 of each year, the Director of the Office of Management and Budget shall submit an annual Government efficiency report to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate, which shall contain—
+Not later than April 1 of each year, the Director of the Office of Management and Budget shall submit an annual Government efficiency report to the Committee on Oversight and Government Reform of the House of Representativesand the Committee on Governmental Affairs of the Senate, which shall contain—
 
 &emsp;(1) a summary of the information reported by agencies under section 17143 of this title;
 

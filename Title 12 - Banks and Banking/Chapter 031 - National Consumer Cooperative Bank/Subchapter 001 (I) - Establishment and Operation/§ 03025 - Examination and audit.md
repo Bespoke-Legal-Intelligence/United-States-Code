@@ -12,5 +12,5 @@ The Farm Credit Administration and the Government Accountability Office are here
 
 #### Effective Date of 1981 Amendment
 
-Section 394(a)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §394(a)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 

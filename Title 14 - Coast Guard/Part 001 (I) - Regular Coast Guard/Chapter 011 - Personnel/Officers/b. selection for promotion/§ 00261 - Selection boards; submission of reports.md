@@ -6,7 +6,15 @@
 
 (c) Upon approval by the President the names of officers selected for promotion by a board convened under section 251 of this title shall be promptly disseminated to the service at large.
 
-(d) Except as required by this section, the proceedings of a selection board shall not be disclosed to any person not a member of the board.
+(d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 263, shall not be disclosed to any person not a member of the board.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181; amended Pub. L. 112–213, title II, §208(b), Dec. 20, 2012, 126 Stat. 1549.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–213 substituted “selection board, including a special selection board convened under section 263,” for “selection board”.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–213, title II, §208(e)(1), Dec. 20, 2012, 126 Stat. 1549, provided that: “The amendments made by this section \[enacting section 263 of this title and amending this section and section 262 of this title\] shall take effect on the date of enactment of this Act \[Dec. 20, 2012\] and the Secretary may convene a special selection board on or after that date under section 263 of title 14, United States Code, with respect to any error or other action for which such a board may be convened if that error or other action occurred on or after the date that is 1 year before the date of enactment of this Act.”
 

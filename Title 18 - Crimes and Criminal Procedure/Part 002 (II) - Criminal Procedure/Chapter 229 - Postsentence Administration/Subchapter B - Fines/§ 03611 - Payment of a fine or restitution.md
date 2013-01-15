@@ -10,7 +10,7 @@ For a prior section 3611, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in sectioncatchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
+<b>1996</b>—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in section catchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
 
 <b>1990</b>—Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)”.
 
@@ -22,7 +22,7 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 #### Effective Date of 1987 Amendment
 
-Section 10(b) of Pub. L. 100–185 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any fine imposed after October 31, 1988. Such amendment shall also apply with respect to any fine imposed on or before October 31, 1988, if the fine remains uncollected as of February 1, 1989, unless the Director of the Administrative Office of the United States Courts determines further delay is necessary. If the Director so determines, the amendment made by this section shall apply with respect to any such fine imposed on or before October 31, 1988, if the fine remains uncollected as of May 1, 1989.”
+Pub. L. 100–185, §10(b), Dec. 11, 1987, 101 Stat. 1283, provided that: “The amendment made by this section\[amending this section\] shall apply with respect to any fine imposed after October 31, 1988. Such amendment shall also apply with respect to any fine imposed on or before October 31, 1988, if the fine remains uncollected as of February 1, 1989, unless the Director of the Administrative Office of the United States Courts determines further delay is necessary. If the Director so determines, the amendment made by this section shall apply with respect to any such fine imposed on or before October 31, 1988, if the fine remains uncollected as of May 1, 1989.”
 
 #### Effective Date
 
@@ -30,7 +30,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Receipt of Fines—Interim Provisions
 
-Section 9 of Pub. L. 100–185 provided that:
+Pub. L. 100–185, §9, Dec. 11, 1987, 101 Stat. 1282, provided that:
 
 “(a)
 

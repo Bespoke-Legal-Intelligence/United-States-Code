@@ -8,7 +8,7 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### (1) Emerging communities
 
-&emsp;Of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall reserve $5,000,000 for grants under section 300ff–30 of this title.
+&emsp;Of the amount appropriated under subsection (a) for a fiscal year, the Secretaryshall reserve $5,000,000 for grants under section 300ff–30 of this title.
 
 #### (2) Supplemental grants
 

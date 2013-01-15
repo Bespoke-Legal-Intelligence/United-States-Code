@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museum or Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
+Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museumor Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
 
 #### (b) Requirements
 
@@ -12,7 +12,7 @@ Each Federal agency and each museum which has possession or control over holding
 
 &emsp;(B) completed by not later than the date that is 5 years after November 16, 1990, and
 
-&emsp;(C) made available both during the time they are being conducted and afterward to areview committee established under section 3006 of this title.
+&emsp;(C) made available both during the time they are being conducted and afterward to a review committee established under section 3006 of this title.
 
 (2) Upon request by an Indian tribe or Native Hawaiian organization which receives or should have received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term “documentation” means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
 

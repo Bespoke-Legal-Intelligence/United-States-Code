@@ -56,7 +56,7 @@ No Payment for Meals Received at Military Treatment Facilities.—(1) A member o
 
 &emsp;(A) in support of Operation Iraqi Freedom or Operation Enduring Freedom; or
 
-&emsp;(B) in any other operation designated by the Secretary of Defense as a combat operation or in an area designated by the Secretary as a combat zone.
+&emsp;(B) in any other operation designated by the Secretary of Defense as a combat operation orin an area designated by the Secretary as a combat zone.
 
 (i)
 
@@ -230,11 +230,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, §602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: “This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
 
 #### Effective Date of 1984 Amendment
 
-Section 605 of Pub. L. 98–525 provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 #### Effective Date of 1980 Amendment
 
@@ -252,7 +252,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 107–107, div. A, title VI, §604(b), Dec. 28, 2001, 115 Stat. 1133, provided that:
 
-“(1) Notwithstanding section 402 of title 37, United States Code, the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe a rate of basic allowance for subsistence to apply to enlisted members of the uniformed services when messing facilities of the United States are not available. The rate may be higher than the rate of basic allowance for subsistence that would otherwise be applicable to the members under that section, but may not be higher than the highest rate that was in effect for enlisted members of the uniformed services under those circumstances before the date of the enactment of this Act \[Dec. 28, 2001\].
+“(1) Notwithstanding section 402 of title 37, United States Code, the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe a rate of basic allowance for subsistence to apply to enlisted members of the uniformed services when messing facilities of the United States are not available. The rate may be higher than the rate of basic allowance for subsistence that would otherwise be applicable to the members under that section, but may not be higher than the highest rate that was in effect for enlisted members of the uniformed services underthose circumstances before the date of the enactment of this Act \[Dec. 28, 2001\].
 
 “(2) Paragraph (1) shall cease to be effective on the first day of the first month for which the basic allowance for subsistence calculated for enlisted members of the uniformed services under section 402 of title 37, United States Code, exceeds the rate of the basic allowance for subsistence prescribed under paragraph (1).”
 
@@ -268,9 +268,9 @@ Pub. L. 96–343, §7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective
 
 #### Regulations Relating to Subsistence Allowance
 
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973,formerly set out as a note under section 301 of this title.
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
 #### Executive Order No. 10119
 
-Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
+Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 

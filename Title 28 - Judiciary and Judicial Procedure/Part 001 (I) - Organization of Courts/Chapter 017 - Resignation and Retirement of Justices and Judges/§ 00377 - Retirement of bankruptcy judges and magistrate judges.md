@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of thejudge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
+Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
 (b)
 
@@ -10,7 +10,7 @@ Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate jud
 
 &emsp;(1) such judge or magistrate judge has served at least 1 full term as a bankruptcy judge or magistrate judge, and
 
-&emsp;(2) not earlier than 9 months before the date on which the term of office of such judge or magistrate judge expires, and not later than 6 months before such date, such judge or magistrate judge notified the appointing authority in writing that such judge or magistrate judge was willing to accept reappointment to the position in which such judge or magistrate judge was serving.
+&emsp;(2) not earlier than 9 months before the date on which the term of office of such judge or magistrate judge expires, and not later than 6months before such date, such judge or magistrate judge notified the appointing authority in writing that such judge or magistrate judge was willing to accept reappointment to the position in which such judge or magistrate judge was serving.
 
 > For purposes of this subsection, in the case of a bankruptcy judge, the written notice required by paragraph (2) shall be given to the chief judge of the circuit in which such bankruptcy judge is serving and, in the case of a magistrate judge, such notice shall be given to the chief judge of the district court in which the magistrate judge is serving.
 
@@ -70,7 +70,7 @@ Covered Positions and Service.—This section applies to—
 
 (i)
 
-Payments Pursuant to Court Order.—(1) Payments under this section which would otherwise be made to a bankruptcy judge or magistrate judge based upon his or her service shall be paid (in whole or in part) by the Director of the Administrative Office of the United States Courts to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.
+Payments Pursuant to Court Order.—(1) Payments under this section which would otherwise be made to a bankruptcy judge or magistrate judge based upon his or her service shallbe paid (in whole or in part) by the Director of the Administrative Office of the United States Courts to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.
 
 (2) Paragraph (1) shall apply only to payments made by the Director of the Administrative Office of the United States Courts after the date of receipt by the Director of written notice of such decree, order, or agreement, and such additional information as the Director may prescribe.
 
@@ -92,7 +92,7 @@ Consent to Deductions; Discharge of Claims.—Each bankruptcy judge or magistrat
 
 Deposits for Prior Service.—Each bankruptcy judge or magistrate judge who makes an election under subsection (f) may deposit, for service performed before such election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for that service. Credit for any period covered by that service may not be allowed for purposes of an annuity under this section until a deposit under this subsection has been made for that period.
 
-(<i>l</i>)
+(l)
 
 Individual Retirement Records.—The amounts deducted and withheld under subsection (j), and the amounts deposited under subsection (k), shall be credited to individual accounts in the name of each bankruptcy judge or magistrate judge from whom such amounts are received, for credit to the Judicial Officers’ Retirement Fund.
 
@@ -124,7 +124,7 @@ Forfeiture not to apply where individual elects to freeze amount of annuity.—(
 
 > &emsp;&emsp;Such an election, once it takes effect, shall be irrevocable.
 
-&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the firstmonth following the month in which the election is made.
+&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the first month following the month in which the election is made.
 
 &emsp;(2)
 
@@ -152,7 +152,7 @@ Eligibility.—(A) Subject to paragraph (2), an individual who serves as a bankr
 
 > &emsp;is entitled to be paid the lump-sum credit. Payment of the lump-sum credit voids all rights to an annuity under this section based on the service on which the lump-sum credit is based, until that individual resumes office as a bankruptcy judge or magistrate judge.
 
-&emsp;(B) Lump-sum benefits authorized by subparagraphs (C), (D), and (E) of this paragraph shall be paid to the person or persons surviving the bankruptcy judge or magistrate judge and alive on the date title to the payment arises, in the order of precedence set forth in subsection (<i>o</i>) of section 376 of this title, and in accordance with the last two sentences of that subsection. For purposes of the preceding sentence, the term “judicial official” as used in subsection (<i>o</i>) of section 376 shall be deemed to mean “bankruptcy judge or magistrate judge”.
+&emsp;(B) Lump-sum benefits authorized by subparagraphs (C), (D), and (E) of this paragraph shall be paid to the person or persons surviving the bankruptcy judge or magistrate judge and alive on the date title to the payment arises, in the order of precedence set forth in subsection (o) of section 376 of this title, and in accordance with the last two sentences of that subsection. For purposes of the preceding sentence, the term “judicial official” as used in subsection (o) of section 376 shall be deemed to mean “bankruptcy judge or magistrate judge”.
 
 &emsp;(C) If a bankruptcy judge or magistrate judge dies before receiving an annuity under this section, the lump-sum credit shall be paid.
 
@@ -188,7 +188,7 @@ Definition.—For purposes of this subsection, the term “lump-sum credit” me
 
 &emsp;&emsp;(B) amounts deposited under subsection (k) by a bankruptcy judge or magistrate judge covering earlier service; and
 
-&emsp;&emsp;(C) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Judicial Officers’ Retirement Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under subsection (<i>o</i>);
+&emsp;&emsp;(C) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Judicial Officers’ Retirement Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under subsection (o);
 
 > &emsp;but does not include interest—
 
@@ -196,7 +196,7 @@ Definition.—For purposes of this subsection, the term “lump-sum credit” me
 
 &emsp;&emsp;(ii) for the fractional part of a month in the total service.
 
-(<i>o</i>)
+(o)
 
 Judicial Officers’ Retirement Fund.—
 
@@ -210,7 +210,7 @@ Investment of fund.—The Secretary of the Treasury shall invest, in interest be
 
 &emsp;(3)
 
-Unfunded liability.—(A) There are authorized to be appropriated to the Judicial Officers’ Retirement Fund amounts required to reduce to zero the unfunded liability of the Fund.
+Unfunded liability.—(A) There are authorized to be appropriated to the Judicial Officers’ Retirement Fund amounts required toreduce to zero the unfunded liability of the Fund.
 
 &emsp;(B) For purposes of subparagraph (A), the term “unfunded liability” means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31, of the present value of all benefits payable from the Judicial Officers’ Retirement Fund over the sum of—
 
@@ -246,7 +246,7 @@ Words “magistrate judge”, “magistrate judges”, and “magistrate judge's
 
 #### Effective Date
 
-Section 9 of Pub. L. 100–659, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that:
+Pub. L. 100–659, §9, Nov. 15, 1988, 102 Stat. 3921, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that:
 
 “(a)
 
@@ -282,7 +282,7 @@ Pub. L. 107–116, title V, §515, Jan. 10, 2002, 115 Stat. 2220, provided that:
 
 #### Retirement Annuities for Incumbent Bankruptcy Judges and Magistrate Judges
 
-Section 2(c) of Pub. L. 100–659, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that:
+Pub. L. 100–659, §2(c), Nov. 15, 1988, 102 Stat. 3916, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that:
 
 “(1)
 
@@ -290,7 +290,7 @@ Retirement annuity under title 5 and section 377 of title 28.—A bankruptcy jud
 
 &emsp;“(A) an annuity under subchapter III of chapter 83, or under chapter 84, of title 5, United States Code, as the case may be, for creditable service before the date on which service would begin to be credited for purposes of subparagraph (B), and
 
-&emsp;“(B) an annuity calculated under subsection (b) or (c) and subsection (g) of section 377 of title 28, United States Code, as added by this section, for any service as a full-time bankruptcy judge or magistrate judge on or after October 1, 1979 (as specified in the election pursuant to paragraph (2)) for which deductions and deposits are made under subsections (j) and (k) of such section 377, as applicable, without regard to the minimum number of years of service as such a bankruptcy judge or magistrate judge, except that—
+&emsp;“(B) an annuity calculated under subsection (b) or (c) and subsection (g) of section 377 of title 28, United States Code, as added by this section, for any service as a full-time bankruptcy judge or magistrate judge on or after October 1, 1979 (as specified in the electionpursuant to paragraph (2)) for which deductions and deposits are made under subsections (j) and (k) of such section 377, as applicable, without regard to the minimum number of years of service as such a bankruptcy judge or magistrate judge, except that—
 
 &emsp;&emsp;“(i) in the case of a judge or magistrate judge who retires with less than 8 years of service, the annuity under subsection (c) of section 377 of title 28, United States Code, shall be equal to that proportion of the salary being received at the time the judge or magistrate judge leaves office which the years of service bears to 14, subject to a reduction in accordance with subsection (c) of such section 377 if the bankruptcy judge or magistrate judge is under age 65 at the time he or she leaves office, and
 
@@ -316,7 +316,7 @@ Recall.—With respect to any bankruptcy judge or magistrate judge receiving an 
 
 #### Report to Congress on Financial Operation of Retirement Annuity Program
 
-Section 8 of Pub. L. 100–659 provided that: “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act \[Nov. 15, 1988\], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act \[see Effective Date note above\]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”
+Pub. L. 100–659, §8, Nov. 15, 1988, 102 Stat. 3920, provided that: “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act \[Nov. 15, 1988\], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act \[see Effective Date note above\]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “receive—”.</i>
 

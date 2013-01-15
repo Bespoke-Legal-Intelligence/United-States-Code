@@ -148,7 +148,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 #### (E) Adjustment period
 
-&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
+&emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding5) beginning after December 31, 1975, and immediately preceding the taxable year.
 
 > &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B), for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
 
@@ -340,11 +340,11 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 #### Effective Date of 1984 Amendment
 
-Section 304(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, §304(c), July 18, 1984, 98 Stat. 783, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
 
-Section 314(a)(4) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section and section 6501 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”.
+Pub. L. 98–369, div. A, title III, §314(a)(4), July 18, 1984, 98 Stat. 787, provided that: “The amendments made by this subsection \[amending this section and section 6501 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”.
 
 #### Effective Date of 1983 Amendment
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 823(b) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title VIII, §823(b), Aug. 13, 1981, 95 Stat. 352, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1980 Amendment
 
@@ -360,17 +360,17 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 #### Effective Date of 1978 Amendment
 
-Section 522(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 95–600, title V, §522(b), Nov. 6, 1978, 92 Stat. 2885, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1302(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 94–455, title XIII, §1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974.”
 
-Section 1303(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XIII, §1303(b), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975.”
 
-Section 1310(b) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIII, §1310(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendments made by thissection \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Savings Provision
 
-Applicability of section to organizations organized before May 27, 1969, see section 101(<i>l</i>)(3) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of section to organizations organized before May 27, 1969, see section 101(l)(3) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

@@ -4,25 +4,23 @@
 
 The Secretary of Energy may not provide any bonuses, award fees, or other form of performance- or production-based awards to a contractor operating a Department of Energy defense nuclear facility unless, in evaluating the performance or production under the contract, the Secretary considers the contractor's compliance with all applicable environmental, safety, and health statutes, regulations, and practices for determining both the size of, and the contractor's qualification for, such bonus, award fee, or other award. The prohibition in this subsection applies with respect to contracts entered into, or contract options exercised, after November 29, 1989.
 
-#### (b) Report on Rocky Flats bonuses
-
-The Secretary of Energy shall investigate the payment, from 1981 to 1988, of production bonuses to Rockwell International, the contractor operating the Rocky Flats Plant (Golden, Colorado), for purposes of determining whether the payment of such bonuses was made under fraudulent circumstances. Not later than May 29, 1990, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of that investigation, including the Secretary's conclusions and recommendations.
-
-#### (c) “Department of Energy defense nuclear facility” defined
+#### (b) “Department of Energy defense nuclear facility” defined
 
 In this section, the term “Department of Energy defense nuclear facility” has the meaning given such term by section 2286g of title 42.
 
-#### (d) Regulations
+#### (c) Regulations
 
 The Secretary of Energy shall promulgate regulations to implement subsection (a) not later than March 1, 1990.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4802, formerly Pub. L. 101–189, div. C, title XXXI, §3151, Nov. 29, 1989, 103 Stat. 1682; renumbered Pub. L. 107–314, div. D, title XLVIII, §4802, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(3), Nov. 24, 2003, 117 Stat. 1783.)
+(Pub. L. 107–314, div. D, title XLVIII, §4802, formerly Pub. L. 101–189, div. C, title XXXI, §3151, Nov. 29, 1989, 103 Stat. 1682; renumbered Pub. L. 107–314, div. D, title XLVIII, §4802, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(3), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 112–239, div. C, title XXXI, §3131(v), Jan. 2, 2013, 126 Stat. 2184.)
 
 #### Codification
 
 Section was formerly classified to section 7256b of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (b) to (d). Pub. L. 112–239 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b), which related to a report on Rocky Flats bonuses.
 
 <b>2003</b>—Pub. L. 108–136, §3141(k)(3)(D)(i), made technical amendment to section catchline.
 

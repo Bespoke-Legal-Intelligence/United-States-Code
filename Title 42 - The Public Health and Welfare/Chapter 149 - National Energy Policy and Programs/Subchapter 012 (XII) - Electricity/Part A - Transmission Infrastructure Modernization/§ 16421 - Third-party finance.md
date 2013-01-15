@@ -88,5 +88,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is
 
 For short title of title XII of Pub. L. 109–58, which enacted this subchapter, as the “Electricity Modernization Act of 2005”, see section 1201 of Pub. L. 109–58, set out as a note under section 15801 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be singular.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

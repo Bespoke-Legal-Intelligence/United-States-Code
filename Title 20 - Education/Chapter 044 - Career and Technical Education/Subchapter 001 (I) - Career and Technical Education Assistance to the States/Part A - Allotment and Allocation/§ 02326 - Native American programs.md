@@ -88,7 +88,7 @@ The Secretary may not place upon grants awarded or contracts entered into under 
 
 #### (f) Consolidation of funds
 
-Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
+Each organization, tribe, or entity receiving assistance under this section may consolidatesuch assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
 
 #### (g) Nonduplicative and nonexclusive services
 

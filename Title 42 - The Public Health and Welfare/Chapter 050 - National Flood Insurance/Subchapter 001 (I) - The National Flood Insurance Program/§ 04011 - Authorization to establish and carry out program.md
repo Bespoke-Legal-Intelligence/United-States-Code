@@ -6,31 +6,29 @@ To carry out the purposes of this chapter, the Administrator of the Federal Emer
 
 #### (b) Additional coverage for compliance with land use and control measures
 
-The national flood insurance program established pursuant to subsection (a) of this sectionshall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
+The national flood insurance program established pursuant to subsection (a) of this section shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
 
 &emsp;(1) properties that are repetitive loss structures;
 
 &emsp;(2) properties that are substantially damaged structures;
 
-&emsp;(3) properties that have sustained flood damage on multiple occasions, if the Director determines that it is cost-effective and in the best interests of the National Flood Insurance Fund to require the implementation of such measures; and
+&emsp;(3) properties that have sustained flood damage on multiple occasions, if the Administrator determines that it is cost-effective and in the best interests of the National Flood Insurance Fund to require the implementation of such measures; and
 
 &emsp;(4) properties for which an offer of mitigation assistance is made under—
 
 &emsp;&emsp;(A) section 4104c of this title (Flood Mitigation Assistance Program);
 
-&emsp;&emsp;(B) section 1368 <sup>1</sup> (Repetitive Loss Priority Program and Individual Priority Property Program);
+&emsp;&emsp;(B) the Hazard Mitigation Grant Program authorized under section 5170c of this title;
 
-&emsp;&emsp;(C) the Hazard Mitigation Grant Program authorized under section 5170c of this title;
+&emsp;&emsp;(C) the Predisaster Hazard Mitigation Program under section 5133 of this title; and
 
-&emsp;&emsp;(D) the Predisaster Hazard Mitigation Program under section 5133 of this title; and
+&emsp;&emsp;(D) any programs authorized or for which funds are appropriated to address any unmet needs or for which supplemental funds are made available.
 
-&emsp;&emsp;(E) any programs authorized or for which funds are appropriated to address any unmet needs or for which supplemental funds are made available.
-
-> The Director shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.
+> The Administrator shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.
 
 #### (c) Participation and risk sharing by insurers
 
-In carrying out the flood insurance program the Director shall, to the maximum extent practicable, encourage and arrange for—
+In carrying out the flood insurance program the Administrator shall, to the maximum extent practicable, encourage and arrange for—
 
 &emsp;(1) appropriate financial participation and risk sharing in the program by insurance companies and other insurers, and
 
@@ -38,13 +36,23 @@ In carrying out the flood insurance program the Director shall, to the maximum e
 
 > in accordance with the provisions of subchapter II of this chapter.
 
-(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title IV, §451(d)(1), (2), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in concluding provisions.
+
+Subsec. (b)(3). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(4)(B) to (E). Pub. L. 112–141, §100225(f), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out former subpar. (B) which read as follows: “section 1368 (Repetitive Loss Priority Program and Individual Priority Property Program);”.
+
+Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–264, §105(a)(1)(B), which directed insertion of “by the community” after “established” in introductory provisions, was executed by making the insertion after “established” the second time appearing to reflect the probable intent of Congress.
 
@@ -62,19 +70,65 @@ Subsec. (b)(4). Pub. L. 108–264, §105(a)(4), added par. (4).
 
 Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
-
 #### Effective Date of 1994 Amendment
 
-Section 555(b) of Pub. L. 103–325 provided that: “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: “The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Flood in Progress Determinations
+
+Pub. L. 112–141, div. F, title II, §100227, July 6, 2012, 126 Stat. 943, provided that:
+
+“(a)
+
+Report.—
+
+&emsp;“(1)
+
+Review.—The Administrator shall review—
+
+&emsp;&emsp;“(A) the processes and procedures for determining that a flood event has commenced or is in progress for purposes of flood insurance coverage made available under the National Flood Insurance Program;
+
+&emsp;&emsp;“(B) the processes and procedures for providing public notification that such a flood event has commenced or is in progress;
+
+&emsp;&emsp;“(C) the processes and procedures regarding the timing of public notification of flood insurance requirements and availability; and
+
+&emsp;&emsp;“(D) the effects and implications that weather conditions, including rainfall, snowfall, projected snowmelt, existing water levels, and other conditions, have on the determination that a flood event has commenced or is in progress.
+
+&emsp;“(2)
+
+Report.—Not later than 6 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall submit a report to Congress that describes—
+
+&emsp;&emsp;“(A) the results and conclusions of the review under paragraph (1); and
+
+&emsp;&emsp;“(B) any actions taken, or proposed actions to be taken, by the Administrator to provide for more precise and technical processes and procedures for determining that a flood event has commenced or is in progress.
+
+“(b)
+
+Effective Date of Policies Covering Properties Affected by Flooding of the Missouri River in 2011.—
+
+&emsp;“(1)
+
+Eligible coverage.—For purposes of this subsection, the term ‘eligible coverage’ means coverage under a new contract for flood insurance coverage under the National Flood Insurance Program, or a modification to coverage under an existing flood insurance contract, for property damaged by the flooding of the Missouri River that commenced on June 1, 2011, that was purchased or made during the period beginning May 1, 2011, and ending June 6, 2011.
+
+&emsp;“(2)
+
+Effective dates.—Notwithstanding section 1306(c) of the National Flood Insurance Act of 1968 (42 U.S.C. 4013(c)), or any other provision of law, any eligible coverage shall—
+
+&emsp;&emsp;“(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
+
+&emsp;&emsp;“(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+
+“(c)
+
+Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage.”
+
+\[For definitions of terms used in section 100227 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
 #### Congressional Findings
 
@@ -246,7 +300,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### Flood Insurance Interagency Task Force
 
-Section 561 of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title V, §561, Sept. 23, 1994, 108 Stat. 2275, provided that:
 
 “(a)
 
@@ -330,7 +384,7 @@ Officers.—The chairperson of the Task Force may appoint any officers to carry 
 
 “(h)
 
-Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis,any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
+Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis, any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
 
 “(i)
 
@@ -339,6 +393,4 @@ Powers.—In carrying out this section, the Task Force may hold hearings, sit an
 “(j)
 
 Termination.—The Task Force shall terminate upon the expiration of the 24-month period beginning upon the designation of the last member to be designated under subsection (b)(1).”
-
-<i><sup>1</sup></i><i> So in original. Pub. L. 90–448 does not contain a section 1368.</i>
 

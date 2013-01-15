@@ -46,7 +46,7 @@ Outreach.—The Secretary of each military department, or the Presidential desig
 
 (e)
 
-Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C.1973gg–5(a)(2)) for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
+Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
 
 (f)
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to insubsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (a)(4), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 

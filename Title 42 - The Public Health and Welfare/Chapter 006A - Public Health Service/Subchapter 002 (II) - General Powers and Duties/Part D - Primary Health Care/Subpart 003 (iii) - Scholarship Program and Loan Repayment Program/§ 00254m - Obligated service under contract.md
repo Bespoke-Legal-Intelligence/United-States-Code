@@ -2,11 +2,11 @@
 
 #### (a) Service in full-time clinical practice
 
-Except as provided in section 254n of this title, each individual who has entered into a written contract with the Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract. The Secretary may treat teaching as clinical practice for up to 20 percent of such period of obligated service. Notwithstanding the preceding sentence, with respect to a member of the Corps participating in the teaching health centers graduate medical education program under section 256h of this title, for the purpose of calculating time spent in full-time clinical practice under this section, up to 50 percent of time spent teaching by such member may be counted toward his or her service obligation.
+Except as provided in section 254n of this title, each individual who has entered into a written contract with the Secretary under section 254l or 254l–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract. The Secretary may treat teaching as clinical practice for up to 20 percent of such period of obligated service. Notwithstanding the preceding sentence, with respect to a member of the Corps participating in the teaching health centers graduate medical education program under section 256h of this title, for the purpose of calculating time spent in full-time clinical practice under this section, up to 50 percent of time spent teaching by such member may be counted toward his or her service obligation.
 
 #### (b) Notice to individual; information for informed decision; eligibility; notice to Secretary; qualification and appointment as commissioned officer; appointment as civilian member; designation of non-United States employee as member; deferment of obligated service
 
-(1) If an individual is required under subsection (a) of this section to provide service as specified in section 254<i>l</i>(f)(1)(B)(v) or 254<i>l</i>–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as “obligated service”), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
+(1) If an individual is required under subsection (a) of this section to provide service as specified in section 254l(f)(1)(B)(v) or 254l–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as “obligated service”), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
 
 &emsp;(A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps of the Service or who is a civilian employee of the United States, or
 
@@ -34,13 +34,13 @@ Except as provided in section 254n of this title, each individual who has entere
 
 &emsp;(ii) shall, in the case of an individual who is enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession, be the date the individual completes such training program; and
 
-&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession and who has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254<i>l</i>–1 of this title.
+&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession and who has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254l–1 of this title.
 
 #### (c) Obligated service period; commencement
 
 An individual shall be considered to have begun serving a period of obligated service—
 
-&emsp;(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member ofthe Corps under subsection (b)(3) or (b)(4) of this section, or
+&emsp;(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4) of this section, or
 
 &emsp;(2) in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title, on the date specified in such agreement,
 
@@ -64,15 +64,15 @@ A prior section 338C of act July 1, 1944, was renumbered section 338D by section
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §10501(n)(5), in second sentence, substituted “The Secretary may treat teaching as clinical practice for up to 20 percent of such period of obligated service” for “For the purpose of calculating time spent in full-time clinical practice under this subsection, up to 50 percent of time spent teaching by a member of the Corps may be counted toward his or her service obligation” and inserted at end “Notwithstanding the preceding sentence, with respect to a member of the Corps participating in the teaching health centers graduate medical education program under section 256h of this title, for the purpose of calculating time spent in full-time clinical practice under this section, up to 50 percent of time spent teaching by such member may be counted toward his or her service obligation.”
 
-Pub. L. 111–148, §5508(b), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in section 254n of this title, each individual who has entered into a written contract with the Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract.”
+Pub. L. 111–148, §5508(b), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in section 254n of this title, each individual who has entered into a written contract with the Secretary under section 254l or 254l–1 of this title shall provide service in the full-time clinical practice of such individual's profession as a member of the Corps for the period of obligated service provided in such contract.”
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–251, §311(1)(A), substituted “section 254<i>l</i>(f)(1)(B)(v)” for “254<i>l</i>(f)(1)(B)(iv)” in introductory provisions.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–251, §311(1)(A), substituted “section 254l(f)(1)(B)(v)” for “254l(f)(1)(B)(iv)” in introductory provisions.
 
 Subsec. (b)(5)(A). Pub. L. 107–251, §311(1)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatry, or pharmacy, the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the training required for such degree, except that—
 
-&emsp;“(i) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title prior to October 1, 1985, the Secretary shall defer such date until the end of the period of time (not to exceed the number of years specified in subparagraph (B) or such greater period as the Secretary, consistent with the needs of the Corps, may authorize) required for the individual to complete an internship, residency, or other advanced clinical training; and
+&emsp;“(i) at the request of such an individual with whom the Secretary has entered into a contract under section 254l of this title prior to October 1, 1985, the Secretary shall defer such date until the end of the period of time (not to exceed the number of years specified in subparagraph (B) or such greater period as the Secretary, consistent with the needs of the Corps, may authorize) required for the individual to complete an internship, residency, or other advanced clinical training; and
 
-&emsp;“(ii) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title on or after October 1, 1985, the Secretary may defer such date in accordance with clause (i).”
+&emsp;“(ii) at the request of such an individual with whom the Secretary has entered into a contract under section 254l of this title on or after October 1, 1985, the Secretary may defer such date in accordance with clause (i).”
 
 Subsec. (b)(5)(B). Pub. L. 107–251, §311(1)(B)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows:
 
@@ -94,9 +94,9 @@ Subsec. (e). Pub. L. 107–251, §311(2), struck out subsec. (e) which related t
 
 <b>1988</b>—Subsec. (b)(5). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–177, §306(1), inserted “or 254<i>l</i>–1”, and made technical amendment to reference to section 254n of this title to reflect renumbering of corresponding section of original act.
+<b>1987</b>—Subsec. (a). Pub. L. 100–177, §306(1), inserted “or 254l–1”, and made technical amendment to reference to section 254n of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (b)(1). Pub. L. 100–177, §306(2), inserted reference to section 254<i>l</i>–l(f)(1)(B)(iv).
+Subsec. (b)(1). Pub. L. 100–177, §306(2), inserted reference to section 254l–l(f)(1)(B)(iv).
 
 Subsec. (b)(5). Pub. L. 100–177, §306(3), substituted par. (5) consisting of subpars. (A) to (E) for former par. (5) consisting of subpars. (A) and (B).
 
@@ -104,7 +104,7 @@ Subsec. (c)(2). Pub. L. 100–177, §306(4), made technical amendment to referen
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–414 inserted “or under section 234 of this title as in effect on September 30, 1977” after “Scholarship Program”.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(c)(1), substituted “254n” for “294v” and “254<i>l</i>” for “294t”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(c)(1), substituted “254n” for “294v” and “254l” for “294t”.
 
 Subsec. (b). Pub. L. 97–35, §2709(c)(2), substituted provisions relating to notice, information, etc., for individuals required to give obligated service, for provisions relating to notice, information, etc., for individuals required to provide service under the Scholarship Program.
 
@@ -126,13 +126,13 @@ Pub. L. 97–35, title XXVII, §2709(h), Aug. 13, 1981, 95 Stat. 912, provided t
 
 #### Effective Date
 
-Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254<i>l</i> of this title.
+Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254l of this title.
 
 #### Effective Date; Savings Provision; Credit for Period of Internship or Residency Before September 30, 1977,
 
 Towards Service Obligation
 
-See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i>l</i> of this title.
+See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254l of this title.
 
 #### Special Retention Pay for Regular or Reserve Officers for Period Officer Is Obligated Under This Section
 

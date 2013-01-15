@@ -16,7 +16,7 @@ The Secretary may exclude from the aggregate State expenditures under subsection
 
 #### (2) Date certain for acting upon request
 
-&emsp;The Secretary shall approve or deny a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
+&emsp;The Secretary shall approve or deny a request for a waiver under paragraph (1) notlater than 120 days after the date on which the request is made.
 
 #### (3) Applicability of waiver
 

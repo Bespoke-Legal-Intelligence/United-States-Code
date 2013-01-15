@@ -16,7 +16,7 @@ The actuarial report of a plan required by subsection (a) shall be prepared and 
 
 &emsp;&emsp;(A) that to the best of his knowledge the report is complete and accurate, and
 
-&emsp;&emsp;(B) the requirements for reasonable actuarial assumptions under section 430(h)(1) or 431(c)(3), whichever are applicable, have been complied with.<sup>1</sup>
+&emsp;&emsp;(B) the requirements for reasonable actuarial assumptions under section 430(h)(1) or431(c)(3), whichever are applicable, have been complied with.<sup>1</sup>
 
 &emsp;(4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 
@@ -58,7 +58,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Consolidation of Actuarial Reports
 
-Section 1033(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
+Pub. L. 93–406, title X, §1033(c), Sept. 2, 1974, 88 Stat. 948, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

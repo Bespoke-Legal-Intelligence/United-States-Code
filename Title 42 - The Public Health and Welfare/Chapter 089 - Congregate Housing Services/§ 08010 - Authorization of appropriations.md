@@ -4,7 +4,7 @@
 
 (b) Sums appropriated pursuant to this section shall remain available until expended.
 
-(Pub. L. 95–557, title IV, §411, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 98–181, title II, §224(b), Nov. 30, 1983, 97 Stat. 1191; Pub. L. 98–479, title I, §102(f), Oct. 17, 1984, 98 Stat. 2222; Pub. L. 100–242, title I, §163(a), Feb. 5, 1988, 101 Stat. 1860.)
+(Pub. L. 95–557, title IV, §411, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 98–181, title I \[title II, §224(b)\], Nov. 30, 1983, 97 Stat. 1191; Pub. L. 98–479, title I, §102(f), Oct. 17, 1984, 98 Stat. 2222; Pub. L. 100–242, title I, §163(a), Feb. 5, 1988, 101 Stat. 1860.)
 
 #### Amendments
 

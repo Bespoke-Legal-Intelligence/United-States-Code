@@ -6,7 +6,7 @@ The term “export price” means the price at which the subject merchandise is 
 
 #### (b) Constructed export price
 
-The term “constructed export price” means the price at which the subject merchandise isfirst sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
 
 #### (c) Adjustments for export price and constructed export price
 

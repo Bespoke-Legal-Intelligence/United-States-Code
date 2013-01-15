@@ -46,7 +46,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (b)
 
-Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adopts that definition or in which that definition applies, including—
+Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adoptsthat definition or in which that definition applies, including—
 
 &emsp;(1) the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.);
 
@@ -138,9 +138,7 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 
 Section 24102(4) of this title, referred to in subsecs. (e)(1) and (f), was redesignated section 24102(3) of this title by Pub. L. 110–432, div. B, title II, §201(a)(2), Oct. 16, 2008, 122 Stat. 4909.
 
-Section 5302(11) of this title, referred to in subsec. (e)(1), probably means section 5302(a)(13) of this title, which defines “State”.
-
-Section 5302(6) of this title, referred to in subsec. (e)(1), probably means section 5302(a)(6), which defines “local governmental authority”.
+Section 5302 of this title, referred to in subsec. (e)(1), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, defines the terms “State” and “local governmental authority” in other pars.
 
 #### Assistance With Buy America Waiver Requests
 

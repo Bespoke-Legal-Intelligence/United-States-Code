@@ -6,7 +6,7 @@ In the case of a corporation, gross income does not include any contribution to 
 
 #### (b) Contributions in aid of construction, etc.
 
-For purposes of subsection (a), except as provided in subsection (c), the term “contribution to the capital of the taxpayer” does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
+For purposes of subsection (a), except as provided in subsection (c), the term “contributionto the capital of the taxpayer” does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
 
 #### (c) Special rules for water and sewerage disposal utilities
 
@@ -86,7 +86,7 @@ Subsecs. (c) to (e). Pub. L. 104–188, §1613(a)(1), added subsecs. (c) and (d)
 
 Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: “If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
 
-&emsp;“(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+&emsp;“(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years fromthe date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
 &emsp;&emsp;“(A) the amount of the expenditure referred to in subparagraph (A) of subsection (b)(2),
 
@@ -112,11 +112,11 @@ Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted “electric energy
 
 #### Effective Date of 1996 Amendment
 
-Section 1613(a)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts received after June 12, 1996.”
+Pub. L. 104–188, title I, §1613(a)(3), Aug. 20, 1996, 110 Stat. 1850, provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts received after June 12, 1996.”
 
 #### Effective Date of 1986 Amendment
 
-Section 824(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(j)(2), Nov. 10, 1988, 102 Stat. 3445, provided that:
+Pub. L. 99–514, title VIII, §824(c), Oct. 22, 1986, 100 Stat. 2374, as amended by Pub. L. 100–647, title I, §1008(j)(2), Nov. 10, 1988, 102 Stat. 3445, provided that:
 
 “(1)
 
@@ -136,7 +136,7 @@ Treatment of certain partnerships.—In the case of a partnership with a taxable
 
 #### Effective Date of 1984 Amendment
 
-Section 163(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 6501 and 6511 of this title\] shall apply to expenditures with respect to which the second taxable year described in section 118(b)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] ends after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §163(c), July 18, 1984, 98 Stat. 698, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 6501 and 6511 of this title\] shall apply to expenditures with respect to which the second taxable year described in section 118(b)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] ends after December 31, 1984.”
 
 #### Effective Date of 1980 Amendment
 
@@ -144,9 +144,9 @@ Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 
 
 #### Effective Date of 1978 Amendment
 
-Section 364(b) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made after January 31, 1976.”
+Pub. L. 95–600, title III, §364(b), Nov. 6, 1978, 92 Stat. 2854, provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made after January 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2120(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 362 of this title\] apply to contributions made after January 31, 1976.”
+Pub. L. 94–455, title XXI, §2120(c), Oct. 4, 1976, 90 Stat. 1913, provided that: “The amendments made by this section \[amending this section and section 362 of this title\] apply to contributions made after January 31, 1976.”
 

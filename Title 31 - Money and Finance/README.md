@@ -1,6 +1,4 @@
 
-31 U.S.C.<br>United States Code, 2011 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 31—MONEY AND FINANCE
 
 <i>This title was enacted by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877</i>
@@ -3888,45 +3886,45 @@ Rep.
 
 #### Enacting Clause
 
-Section 1 of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, provided in part that: “Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, ‘Money and Finance’. . . .”
+Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877, provided in part that: “Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, ‘Money and Finance’. . . .”
 
 #### Legislative Purpose; Inconsistent Provisions
 
-Section 4(a) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1067, provided that: “Sections 1–3 of this Act restate, without substantive change, laws enacted before April 16, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after April 15, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.”
+Pub. L. 97–258, §4(a), Sept. 13, 1982, 96 Stat. 1067, provided that: “Sections 1–3 of this Act restate, without substantive change, laws enacted before April 16, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after April 15, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.”
 
 #### References to Other Laws
 
-Section 4(b) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1067, provided that: “A reference to a law replaced by sections 1–3 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
+Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, provided that: “A reference to a law replaced by sections 1–3 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
 
 #### Outstanding Orders, Rules, and Regulations
 
-Section 4(c) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1067, provided that: “An order, rule, or regulation in effect under a law replaced by sections 1–3 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
+Pub. L. 97–258, §4(c), Sept. 13, 1982, 96 Stat. 1067, provided that: “An order, rule, or regulation in effect under a law replaced by sections 1–3 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
 
 #### Savings Provision
 
-Section 4(d) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1067, provided that: “An action taken or an offense committed under a law replaced by sections 1–3 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+Pub. L. 97–258, §4(d), Sept. 13, 1982, 96 Stat. 1067, provided that: “An action taken or an offense committed under a law replaced by sections 1–3 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 
 #### Legislative Construction
 
-Section 4(e) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1067, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.”
+Pub. L. 97–258, §4(e), Sept. 13, 1982, 96 Stat. 1067, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.”
 
 #### Severability
 
-Section 4(f) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Pub. L. 97–258, §4(f), Sept. 13, 1982, 96 Stat. 1067, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 #### Repeals
 
-Section 6(a) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 98–216, §6(a), Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 6(b) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
+Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-Section 4(a) of Pub. L. 97–452, Jan. 12, 1983, 96 Stat. 2479, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–452, §4(a), Jan. 12, 1983, 96 Stat. 2479, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 4(b) of Pub. L. 97–452, Jan. 12, 1983, 96 Stat. 2480, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+Pub. L. 97–452, §4(b), Jan. 12, 1983, 96 Stat. 2480, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
-Section 5(a) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1068, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–258, §5(a), Sept. 13, 1982, 96 Stat. 1068, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 5(b) of Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1068, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
+Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
 
 #### Improvement of United States Code by Pub. L. 98–216; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions
 

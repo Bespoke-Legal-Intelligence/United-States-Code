@@ -1,20 +1,16 @@
 ### §541. Imposition of personal holding company tax
 
-In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the undistributed personal holding company income (as defined in section 545) of every personal holding company (as defined in section 542) a personal holding company tax equal to 15 percent of the undistributed personal holding company income.
+In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the undistributed personal holding company income (as defined in section 545) of every personal holding company (as defined in section 542) a personal holding company tax equal to 20 percent of the undistributed personal holding company income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, §225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, §101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, §104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, §11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub.L. 103–66, title XIII, §§13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(6), May 28, 2003, 117 Stat. 764.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 88–272, title II, §225(a), Feb. 26, 1964, 78 Stat. 79; Pub. L. 97–34, title I, §101(d)(2), Aug. 13, 1981, 95 Stat. 184; Pub. L. 99–514, title I, §104(b)(8), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 101–508, title XI, §11802(f)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 103–66, title XIII, §§13201(b)(2), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(5), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(6), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, §102(c)(1)(B), Jan. 2, 2013, 126 Stat. 2319.)
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–27, §§302(e)(6), 303, temporarily substituted “equal to 15 percent of the undistributed personal holding company income.” for “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2013</b>—Pub. L. 112–240 substituted “20 percent” for “15 percent”.
 
-<b>2001</b>—Pub. L. 107–16, §§101(c)(5), 901, temporarily substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2003</b>—Pub. L. 108–27 substituted “equal to 15 percent of the undistributed personal holding company income.” for “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.”
+
+<b>2001</b>—Pub. L. 107–16 substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.”
 
 <b>1993</b>—Pub. L. 103–66, §13202(b), substituted “39.6 percent” for “36 percent”.
 
@@ -28,17 +24,17 @@ Pub. L. 103–66, §13201(b)(2), substituted “36 percent” for “28 percent�
 
 <b>1964</b>—Pub. L. 88–272 reduced the tax from 75 percent of undistributed income not in excess of $2,000, and 85 percent when in excess of $2,000, to 70 percent.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+#### Effective Date of 2003 Amendment
 
-#### Effective and Termination Dates of 2001 Amendment
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2000, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -54,7 +50,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272 set out as a note under section 316 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272 set out as a note under section 316 of this title.
 
 #### Savings Provision
 

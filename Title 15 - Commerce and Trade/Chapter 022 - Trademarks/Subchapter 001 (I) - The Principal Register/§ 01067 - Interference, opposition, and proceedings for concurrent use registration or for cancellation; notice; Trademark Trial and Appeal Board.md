@@ -10,7 +10,7 @@ Authority of the Secretary.—The Secretary of Commerce may, in his or her discr
 
 (d)
 
-Defense to challenge of appointment.—It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge's having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
+Defense to Challenge of Appointment.—It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge's having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
 
 (July 5, 1946, ch. 540, title I, §17, 60 Stat. 434; Pub. L. 85–609, §1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, §1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4716\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, §13203(a)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, §1(b), Aug. 12, 2008, 122 Stat. 3014.)
 
@@ -28,7 +28,7 @@ Subsecs. (c), (d). Pub. L. 110–313, §1(b)(2), added subsecs. (c) and (d).
 
 <b>1999</b>—Pub. L. 106–113 amended section generally. Prior to amendment, section read as follows:
 
-“In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of amark, the Commissioner shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
+“In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Commissioner shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
 “The Trademark Trial and Appeal Board shall include the Commissioner, the Deputy Commissioner, the Assistant Commissioners, and members appointed by the Commissioner. Employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members. Each case shall be heard by at least three members of the Board, the members hearing such case to be designated by the Commissioner.”
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1980 Amendment; Board Membership as of October 15, 1980, Unaffected
 
-Section 2 of Pub. L. 96–455 provided that: “This amendment \[amending this section\] shall become effective on the date of its enactment \[Oct. 15, 1980\]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended \[this section\], in effect immediately preceding the date of enactment.”
+Pub. L. 96–455, §2, Oct. 15, 1980, 94 Stat. 2024, provided that: “This amendment \[amending this section\] shallbecome effective on the date of its enactment \[Oct. 15, 1980\]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended \[this section\], in effect immediately preceding the date of enactment.”
 
 #### Effective Date of 1975 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–609 provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
+Pub. L. 85–609, §3, Aug. 8, 1958, 72 Stat. 541, provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
 
 #### Repeal and Effect on Existing Rights
 
@@ -64,7 +64,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Reorganization Plan No. 5 of 1950
 
-Section 2 of Pub. L. 85–609 provided that: “The provisions of this Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
+Pub. L. 85–609, §2, Aug. 8, 1958, 72 Stat. 540, provided that: “The provisions of this Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

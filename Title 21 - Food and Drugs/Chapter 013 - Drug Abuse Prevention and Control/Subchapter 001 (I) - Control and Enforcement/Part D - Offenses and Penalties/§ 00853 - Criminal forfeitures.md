@@ -10,7 +10,7 @@ Any person convicted of a violation of this subchapter or subchapter II of this 
 
 &emsp;(3) in the case of a person convicted of engaging in a continuing criminal enterprise in violation of section 848 of this title, the person shall forfeit, in addition to any property described in paragraph (1) or (2), any of his interest in, claims against, and property or contractual rights affording a source of control over, the continuing criminal enterprise.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II of this chapter, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II of this chapter, that the person forfeitto the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 #### (b) Meaning of term “property”
 
@@ -40,7 +40,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 &emsp;(B) prior to the filing of such an indictment or information, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
 
-&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed,removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
+&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
 
 &emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered:
 
@@ -64,7 +64,7 @@ Failure to comply.—Failure to comply with an order under this subsection, or a
 
 #### (f) Warrant of seizure
 
-The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture,the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
@@ -100,7 +100,7 @@ Except as provided in subsection (n) of this section, no party claiming an inter
 
 &emsp;(2) commence an action at law or equity against the United States concerning the validity of his alleged interest in the property subsequent to the filing of an indictment or information alleging that the property is subject to forfeiture under this section.
 
-#### (<i>l</i>) Jurisdiction to enter orders
+#### (l) Jurisdiction to enter orders
 
 The district courts of the United States shall have jurisdiction to enter orders as provided in this section without regard to the location of any property which may be subject to forfeiture under this section or which has been ordered forfeited under this section.
 
@@ -114,7 +114,7 @@ In order to facilitate the identification and location of property declared forf
 
 (2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
-(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
+(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner'sright, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
 (4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
@@ -130,7 +130,7 @@ In order to facilitate the identification and location of property declared forf
 
 (7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
 
-#### (<i>o</i>) Construction
+#### (o) Construction
 
 The provisions of this section shall be liberally construed to effectuate its remedial purposes.
 
@@ -182,7 +182,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out
 
 <b>2006</b>—Subsec. (q). Pub. L. 109–177, §743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
 
-Subsec. (q)(2). Pub. L. 109–177, §743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
+Subsec. (q)(2). Pub. L. 109–177, §743(a)(2), inserted “, or on premises or in property that the defendantowns, resides, or does business in” after “by the defendant”.
 
 <b>2001</b>—Subsec. (e)(4). Pub. L. 107–56, §319(d)(2), added par. (4).
 
@@ -208,21 +208,21 @@ Subsec. (q)(3). Pub. L. 106–310, §3613(a)(4), substituted “section 3663A of
 
 <b>1996</b>—Subsec. (q). Pub. L. 104–237 added subsec. (q).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (<i>o</i>)”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (o)”.
 
 Subsec. (f). Pub. L. 99–570, §1864(2), substituted “subsection (e)” for “subsection (f)”.
 
 Subsec. (i)(1). Pub. L. 99–570, §1864(3), substituted “this subchapter” for “this chapter”.
 
-Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (<i>o</i>)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
+Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (o)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
-Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
+Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (o) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473, §2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
 
 Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
 
-Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (<i>l</i>), (m), (n), (<i>o</i>), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (<i>l</i>), (m), (n), and (<i>o</i>), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (<i>o</i>), respectively, to give effect to the probable intent of Congress.
+Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (l), (m), (n), (o), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (l), (m), (n), and (o), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (o), respectively, to give effect to the probable intent of Congress.
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
 

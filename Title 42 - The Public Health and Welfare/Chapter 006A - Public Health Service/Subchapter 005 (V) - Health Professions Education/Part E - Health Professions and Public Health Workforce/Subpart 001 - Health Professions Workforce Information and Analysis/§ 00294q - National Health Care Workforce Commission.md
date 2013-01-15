@@ -66,7 +66,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members ofthe Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms
 
@@ -126,7 +126,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 &emsp;&emsp;(B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 etseq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq\[., 42 U.S.C. 2751 et seq.\]);
+&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq\[., 42 U.S.C. 2751 et seq.\]);
 
 &emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.\[, 42 U.S.C. 2751 et seq.\]), and any other Federal health care workforce programs;
 
@@ -260,13 +260,13 @@ In this section:
 
 #### (1) Health care workforce
 
-&emsp;The term “health care workforce” includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
+&emsp;The term “health care workforce” includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrativehealth practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
 
 #### (2) Health professionals
 
 &emsp;The term “health professionals” includes—
 
-&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup>public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>4</sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
@@ -326,7 +326,7 @@ Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed inserti
 
 Pub. L. 111–148, title V, §5001, Mar. 23, 2010, 124 Stat. 588, provided that: “The purpose of this title \[see Tables for classification\] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by—
 
-&emsp;“(1) gathering and assessing comprehensive data in order for the health care workforce to meet the health care needs of individuals, including research on the supply, demand, distribution, diversity, and skills needs of the health care workforce;
+&emsp;“(1) gathering and assessing comprehensive data in order for the health care workforce to meet thehealth care needs of individuals, including research on the supply, demand, distribution, diversity, and skills needs of the health care workforce;
 
 &emsp;“(2) increasing the supply of a qualified health care workforce to improve access to and the delivery of health care services for all individuals;
 

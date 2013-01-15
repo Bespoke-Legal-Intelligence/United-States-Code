@@ -22,7 +22,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 &emsp;(B) procedures and techniques for qualifying for and applying for jobs in such organizations.
 
-(3) The Secretary may provide personnel registered under subsection (b) with access to theinterstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
+(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
 
 (e)
 
@@ -54,11 +54,13 @@ Definitions.—In this section, the term “public service and community service
 
 (h)
 
-Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall implement the requirements of this section for the Coast Guard.
+Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall implement the requirements of this section for the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, §542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, §542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, §1076(f)(14), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “for the Coast Guard”.
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -76,11 +78,11 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Program of Educational Leave Relating to Continuing Public and Community Service
 
-Pub. L. 102–484, div. D, title XLIV, §4463, Oct. 23, 1992, 106 Stat. 2740, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, §1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
+Pub. L. 102–484, div. D, title XLIV, §4463, Oct. 23, 1992, 106 Stat. 2740, as amended by Pub. L. 103–160, div. A, title V, §561(o), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, §1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
 
 #### Increased Early Retirement Retired Pay for Public or Community Service
 
-Section 4464 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. D, title XLIV, §4464, Oct. 23, 1992, 106 Stat. 2741, provided that:
 
 “(a)
 
@@ -98,7 +100,7 @@ Recomputation of Retired Pay.—(1) If a member or former member of the Armed Fo
 
 “(b)
 
-SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when themember or former member became eligible for retired pay under this section.
+SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
 
 “(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
 

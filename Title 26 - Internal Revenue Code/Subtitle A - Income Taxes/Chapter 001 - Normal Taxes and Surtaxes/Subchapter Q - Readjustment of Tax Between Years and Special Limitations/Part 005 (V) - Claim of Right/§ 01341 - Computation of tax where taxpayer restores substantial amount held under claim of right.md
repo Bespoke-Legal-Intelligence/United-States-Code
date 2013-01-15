@@ -24,7 +24,7 @@ If—
 
 #### (b) Special rules
 
-(1) If the decrease in tax ascertained under subsection (a)(5)(B) exceeds the tax imposed bythis chapter for the taxable year (computed without the deduction) such excess shall be considered to be a payment of tax on the last day prescribed by law for the payment of tax for the taxable year, and shall be refunded or credited in the same manner as if it were an overpayment for such taxable year.
+(1) If the decrease in tax ascertained under subsection (a)(5)(B) exceeds the tax imposed by this chapter for the taxable year (computed without the deduction) such excess shall be considered to be a payment of tax on the last day prescribed by law for the payment of tax for the taxable year, and shall be refunded or credited in the same manner as if it were an overpayment for such taxable year.
 
 (2) Subsection (a) does not apply to any deduction allowable with respect to an item which was included in gross income by reason of the sale or other disposition of stock in trade of the taxpayer (or other property of a kind which would properly have been included in the inventory of the taxpayer if on hand at the close of the prior taxable year) or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business. This paragraph shall not apply if the deduction arises out of refunds or repayments with respect to rates made by a regulated public utility (as defined in section 7701(a)(33) without regard to the limitation contained in the last two sentences thereof) if such refunds or repayments are required to be made by the Government, political subdivision, agency, or instrumentality referred to in such section, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation.
 
@@ -74,11 +74,11 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendment
 
-Section 5(b) of Pub. L. 87–863 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962.”
+Pub. L. 87–863, §5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962.”
 
 #### Effective Date of 1958 Amendment
 
 Amendment by section 60(a), (c), (d) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 60(e) of Pub. L. 85–866 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) \[amending this section\].”
+Pub. L. 85–866, title I, §60(e), Sept. 2, 1958, 72 Stat. 1647, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) \[amending this section\].”
 

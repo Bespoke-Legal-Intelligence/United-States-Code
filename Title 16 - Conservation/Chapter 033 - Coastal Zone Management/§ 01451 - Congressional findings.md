@@ -24,11 +24,11 @@ The Congress finds that—
 
 (k) Land uses in the coastal zone, and the uses of adjacent lands which drain into the coastal zone, may significantly affect the quality of coastal waters and habitats, and efforts to control coastal water pollution from land use activities must be improved.
 
-(<i>l</i>) Because global warming may result in a substantial sea level rise with serious adverse effects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
+(l) Because global warming may result in a substantial sea level rise with serious adverse effects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
 
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
-(Pub. L. 89–454, title III, §302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, §2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §2, Oct. 17, 1980, 94 Stat. 2060; Pub. L.101–508, title VI, §6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
+(Pub. L. 89–454, title III, §302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, §2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §2, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, §6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Pub. L. 104–150, §1, June 3, 1996, 110 Stat. 1380, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Section 6201 of title VI of Pub. L. 101–508 provided that: “This subtitle \[subtitle C (§§6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title\] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
+Pub. L. 101–508, title VI, §6201, Nov. 5, 1990, 104 Stat. 1388–299, provided that: “This subtitle \[subtitle C (§§6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title\] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
 
 #### Short Title of 1986 Amendment
 
@@ -66,15 +66,15 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Pub. L. 96–464, §1, Oct. 17, 1980, 94 Stat. 2060, provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
+Pub. L. 94–370, §1, July 26, 1976, 90 Stat. 1013, provided: “That this Act \[enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 89–454, as added by Pub. L. 92–583, provided that: “This title \[enacting this chapter\] may be cited as the ‘Coastal Zone Management Act of 1972’.”
+Pub. L. 89–454, title III, §301, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, provided that: “This title \[enacting this chapter\] may be cited as the ‘Coastal Zone Management Act of 1972’.”
 
 #### Hypoxia Assessment
 
@@ -122,7 +122,7 @@ Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L
 
 “(a)
 
-Establishment of Inter-Agency Task Force.—The President, through the Committee on Environment and Natural Resources of the National Science and Technology Council, shall establish an Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia (hereinafter referred to as the ‘Task Force’). The Task Force shall consist of the following representatives from—
+Establishment of Inter-Agency Task Force.—The President, through the Committee on Environment and Natural Resources of the National Science and Technology Council, shall establish an Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia (hereinafter referred to as the ‘Task Force’). The TaskForce shall consist of the following representatives from—
 
 &emsp;“(1) the Department of Commerce (who shall serve as Chairman of the Task Force);
 
@@ -284,13 +284,13 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 #### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscalyear 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
+“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
 &emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2010 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
 &emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, $5,500,000 for fiscal year 2001, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2010 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
 
-&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $3,000,000 for each of fiscal years 2005 through 2010 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms and to carry out section 603(d);
+&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $3,000,000for each of fiscal years 2005 through 2010 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms and to carry out section 603(d);
 
 &emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, 2001, and $6,000,000 for each of fiscal years 2005 through 2010 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration;
 
@@ -306,7 +306,7 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 #### Findings and Purpose of Coastal Zone Act Reauthorization Amendments of 1990
 
-Section 6202 of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title VI, §6202, Nov. 5, 1990, 104 Stat. 1388–299, provided that:
 
 “(a)
 
@@ -336,139 +336,15 @@ Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1
 
 #### Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments
 
-Section 15(c) of Pub. L. 94–370 related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, §6045(3), Apr. 7, 1986, 100 Stat. 127.
+Pub. L. 94–370, §15(c), July 26, 1976, 90 Stat. 1032, related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, §6045(3), Apr. 7, 1986, 100 Stat. 127.
 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Ex. Ord. No. 13554. Establishing the Gulf Coast Ecosystem Restoration Task Force
+#### Executive Order No. 13554
 
-Ex. Ord. No. 13554, Oct. 5, 2010, 75 F.R. 62313, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Purpose</i>. The Gulf Coast is a national treasure. Its natural resources are an important economic engine for the entire United States; its waters sustain a diverse and vibrant ecosystem; and the Gulf's culture, natural beauty, and historic significance are unique. Each year, millions of tourists visit the Gulf to vacation, swim, boat, fish, hunt, and bird-watch; and, together, the Gulf's tourism and commercial and recreational fishing industries make a significant contribution to the United States economy. More than 90 percent of the Nation's offshore oil and gas is produced in the Gulf, and it is where nearly one-third of seafood production in the continental United States is harvested.
-
-The United States needs a vibrant Gulf Coast, and the Federal Government is committed to helping Gulf Coast residents conserve and restore resilient and healthy ecosystems in the Gulf of Mexico and surrounding regions that support the diverse economies, communities, and cultures of the region. To effectively address the damage caused by the BP Deepwater Horizon Oil Spill, address the longstanding ecological decline, and begin moving toward a more resilient Gulf Coast ecosystem, ecosystem restoration is needed. Ecosystem restoration will support economic vitality, enhance human health and safety, protect infrastructure, enable communities to better withstand impact from storms and climate change, sustain safe seafood and clean water, provide recreational and cultural opportunities, protect and preserve sites that are of historical and cultural significance, and contribute to the overall resilience of our coastal communities and Nation.
-
-In order to achieve these objectives, it is necessary that Federal efforts be efficiently integrated with those of local stakeholders and that particular focus be given to innovative solutions and complex, large-scale restoration projects. Efforts must be science-based and well-coordinated to minimize duplication and ensure effective delivery of services. This order establishes a Gulf Coast Ecosystem Restoration Task Force to coordinate intergovernmental responsibilities, planning, and exchange of information so as to better implement Gulf Coast ecosystem restoration and to facilitate appropriate accountability and support throughout the restoration process.
-
-Sec. 2. <i>Establishment of the Gulf Coast Ecosystem Restoration Task Force</i>. There is established the Gulf Coast Ecosystem Restoration Task Force (Task Force).
-
-(a) The Task Force shall consist of:
-
-(1) A senior official from each of the following executive departments, agencies, and offices, selected by the head of the respective department, agency, or office:
-
-&emsp;a. the Department of Defense;
-
-&emsp;b. the Department of Justice;
-
-&emsp;c. the Department of the Interior;
-
-&emsp;d. the Department of Agriculture;
-
-&emsp;e. the Department of Commerce;
-
-&emsp;f. the Department of Transportation;
-
-&emsp;g. the Environmental Protection Agency;
-
-&emsp;h. the Office of Management and Budget;
-
-&emsp;i. the Council on Environmental Quality;
-
-&emsp;j. the Office of Science and Technology Policy;
-
-&emsp;k. the Domestic Policy Council; and
-
-&emsp;l. other executive departments, agencies, and offices as the President may, from time to time, designate.
-
-(2) Five State representatives, appointed by the President upon recommendation of the Governors of each Gulf State, who shall be elected officers of State governments (or their designated employees with authority to act on their behalf) acting in their official capacities.
-
-(b) The Task Force may include representatives from affected tribes, who shall be elected officers of those tribes (or their designated employees with authority to act on their behalf) acting in their official capacities. The Task Force shall, in collaboration with affected tribes, determine an appropriate structure for tribal participation in matters within the scope of the Task Force's responsibilities.
-
-(c) The President shall designate a Chair of the Task Force from among senior officials of executive departments, agencies, and offices represented on the Task Force. The Chair shall lead the coordination of intergovernmental Gulf Coast ecosystem restoration efforts and oversee the work of the Task Force. The Chair shall regularly convene and preside at meetings of the Task Force, determine its agenda, and direct its work. The Chair's duties shall also include:
-
-(1) facilitating a smooth transition from the response phase of addressing the BP Deepwater Horizon Oil Spill to the restoration phase;
-
-(2) communicating and engaging with States, tribes, local governments, other stakeholders in the Gulf Coast region, and the public on ecosystem restoration, as well as other aspects of Gulf recovery, including economic recovery and public health efforts; and
-
-(3) coordinating the efforts of executive departments, agencies, and offices related to the functions of the Task Force.
-
-(d) Representatives of the Gulf States under subsection (a)(2) of this section shall select from among themselves a Vice-Chair of the Task Force.
-
-Sec. 3. <i>Functions of the Task Force</i>. The Task Force shall be an advisory body to:
-
-(a) coordinate intergovernmental efforts to improve efficiency and effectiveness in the implementation of Gulf Coast ecosystem restoration actions;
-
-(b) support the Natural Resource Damage Assessment process by referring potential ecosystem restoration actions to the Natural Resource Damage Assessment Trustee Council for consideration and facilitating coordination among the relevant departments, agencies, and offices, as appropriate, subject to the independent statutory responsibilities of the trustees;
-
-(c) present to the President a Gulf of Mexico Regional Ecosystem Restoration Strategy (Strategy) as provided in section 4 of this order;
-
-(d) engage local stakeholders, communities, the public, and other officials throughout the Gulf Coast region to ensure that they have an opportunity to share their needs and viewpoints to inform the work of the Task Force, including the development of the Strategy;
-
-(e) provide leadership and coordination of research needs in support of ecosystem restoration planning and decisionmaking in the Gulf Coast region, and work with existing Federal and State advisory committees, as appropriate, to facilitate consideration of relevant scientific and technical knowledge;
-
-(f) prepare a biennial update for the President on progress toward the goals of Gulf Coast ecosystem restoration, as outlined in the Strategy;
-
-(g) communicate with affected tribes in a manner consistent with Executive Order 13175 of November 6, 2000, on consultation and coordination with Indian tribal governments; and
-
-(h) coordinate with relevant executive departments, agencies, and offices on ways to encourage health and economic benefits associated with proposed ecosystem restoration actions.
-
-Sec. 4. <i>Gulf of Mexico Regional Ecosystem Restoration Strategy</i>. (a) Within 1 year of the date of this order, the Task Force shall prepare a Strategy that proposes a Gulf Coast ecosystem restoration agenda, including goals for ecosystem restoration, development of a set of performance indicators to track progress, and means of coordinating intergovernmental restoration efforts guided by shared priorities. In developing the Strategy, the Task Force shall:
-
-(1) define ecosystem restoration goals and describe milestones for making progress toward attainment of those goals;
-
-(2) consider existing research and ecosystem restoration planning efforts in the region, including initiatives undertaken by the National Ocean Council and the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force (Gulf Hypoxia Task Force), in order toidentify planning and restoration needs and ways under existing authorities to address those needs;
-
-(3) identify major policy areas where coordinated intergovernmental action is necessary;
-
-(4) propose new programs or actions to implement elements of the Strategy where existing authorities are not sufficient;
-
-(5) identify monitoring, research, and scientific assessments needed to support decisionmaking for ecosystem restoration efforts and evaluate existing monitoring programs and gaps in current data collection; and
-
-(6) describe the circumstances under which termination of the Task Force would be appropriate.
-
-(b) The executive departments, agencies, and offices enumerated in section 2(a)(1) of this order shall, to the extent permitted by law, consider ways to align their relevant programs and authorities with the Strategy.
-
-Sec. 5. <i>Administration</i>. (a) The Task Force shall have a staff, headed by an Executive Director, which shall provide support for the functions of the Task Force.
-
-(b) The Executive Director shall be selected by the Chair and shall supervise, direct, and be accountable for the administration and operation of the Task Force.
-
-(c) The Departments of Commerce (through the National Oceanic and Atmospheric Administration), the Interior (through the Fish and Wildlife Service), and Justice shall identify linkages and opportunities for the Task Force to complement the restoration progress of the Natural Resource Damage Assessment Trustee Council.
-
-(d) At the request of the Chair, executive departments and agencies, including the Departments of Labor, Health and Human Services, Energy, and Homeland Security, the Small Business Administration, and the National Science Foundation, shall serve in an advisory role to the Task Force on issues within their expertise.
-
-(e) The Task Force may establish such technical working groups as necessary to support its function. These working groups may include additional representatives from State and tribal governments, as appropriate, to provide for greater collaboration.
-
-(f) The first meeting of the Task Force shall be held within 90 days of the date of this order.
-
-Sec. 6. <i>Definitions</i>. (a) “Affected tribe” means any Indian tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe as defined in \[section 102(2) of\] the Federally Recognized \[Indian\] Tribe List Act of 1994 (25 U.S.C. 479a(2)), physically located in a Gulf State.
-
-(b) “Ecosystem restoration” means all activities, projects, methods, and procedures appropriate to enhance the health and resilience of the Gulf Coast ecosystem, as measured in terms of the physical, biological, or chemical properties of the ecosystem, or the services it provides, and to strengthen its ability to support the diverse economies, communities, and cultures of the region. It includes activity that initiates or accelerates the recovery of an ecosystem with respect to its health, integrity, and sustainability. It also includes protecting and conserving ecosystems so they can continue to reduce impacts from tropical storms and other disasters, support robust economies, and assist in mitigating and adapting to the impacts of climate change.
-
-(c) “Gulf State” means any of the States of Texas, Louisiana, Mississippi, Alabama, and Florida.
-
-(d) “Natural Resource Damage Assessment” means the process of collecting and analyzing information to evaluate the nature and extent of natural resource injuries resulting from the BP Deepwater Horizon Oil Spill and to determine the restoration actions needed to bring injured natural resources and services back to baseline conditions and make the environment and public whole for interim losses as defined in 15 CFR 990.30.
-
-(e) “Natural Resource Damage Assessment Trustee Council” means the designated Federal, State, local, and tribal trustees as provided in 33 U.S.C. 2706, with trusteeship over natural resources injured, lost, or destroyed as a result of the BP Deepwater Horizon Oil Spill.
-
-Sec. 7. <i>General Provisions</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the department, agency, or office represented by the Chair shall provide the Task Force with such administrative services, funds, facilities, staff, and other support services as may be necessary for the Task Force to carry out its function.
-
-(b) In addition to staff provided by the department, agency, or office represented by the Chair, other executive departments, agencies, and offices represented on the Task Force are requested to make services, staff, and facilities available to the Task Force for the performance of its function to the maximum extent practicable, to the extent permitted by law and subject to the availability of appropriations.
-
-(c) Members of the Task Force shall serve without any additional compensation for their work on the Task Force.
-
-(d) Nothing in this order shall be construed to impair or otherwise affect: (i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(e) Nothing in this order shall interfere with the statutory responsibilities and authority of the Natural Resource Damage Assessment Trustee Council or the individual trustees to carry out their statutory responsibilities to assess natural resource damages and implement restoration actions under 33 U.S.C. 2706 and other applicable law.
-
-(f) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(g) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13554, Oct. 5, 2010, 75 F.R. 62313, which established the Gulf Coast Ecosystem Restoration Task Force, was revoked, concurrent with the termination of the Task Force, by Ex. Ord. No. 13626, §6(d), Sept. 10, 2012, 77 F.R. 56752, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

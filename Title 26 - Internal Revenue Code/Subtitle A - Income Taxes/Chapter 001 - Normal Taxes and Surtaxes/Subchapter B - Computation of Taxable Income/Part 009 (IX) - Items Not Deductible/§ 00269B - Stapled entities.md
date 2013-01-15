@@ -12,7 +12,7 @@ Except as otherwise provided by regulations, for purposes of this title—
 
 #### (b) Secretary to prescribe regulations
 
-The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulationsproviding the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation.
+The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulations providing the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation.
 
 #### (c) Definitions
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 136(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §136(c), July 18, 1984, 98 Stat. 670, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -112,7 +112,7 @@ Election.—Any election under subparagraph (A) shall be made not later than 180
 
 &emsp;“(C)
 
-Election irrevocable.—Any election under subparagraph (A), once made, may be revoked onlywith the consent of the Secretary of the Treasury or his delegate.
+Election irrevocable.—Any election under subparagraph (A), once made, may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
 “(7)
 
@@ -142,7 +142,7 @@ Pub. L. 105–206, title VII, §7002, July 22, 1998, 112 Stat. 827, provided tha
 
 “(a)
 
-In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
+In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L.98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
 
 “(b)
 

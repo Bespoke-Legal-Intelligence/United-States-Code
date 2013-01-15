@@ -1,12 +1,8 @@
 ### §306. Appeal
 
-The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134 of this title, and may seek court review under the provisions of sections 141 to 144 of this title, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
+The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134, and may seek court review under the provisions of sections 141 to 144, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
 
 (Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 112–29, §§6(h)(2)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -18,5 +14,5 @@ Pub. L. 112–29, §6(h)(2)(A), substituted “144” for “145”.
 
 Pub. L. 112–29, §6(h)(2)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any appeal of a reexamination before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board that is pending on, or brought on or after, the date of the enactment of this Act.”
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

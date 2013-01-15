@@ -16,7 +16,7 @@ Limitation.—The authority under subsection (a) may not be used to pay the expe
 
 #### Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties
 
-Pub. L. 112–81, div. A, title V, §558, Dec. 31, 2011, 125 Stat. 1418, provided that:
+Pub. L. 112–81, div. A, title V, §558, Dec. 31, 2011, 125 Stat. 1418, as amended by Pub. L. 112–239, div. A, title V, §543, Jan. 2, 2013, 126 Stat. 1737, provided that:
 
 “(a)
 
@@ -26,9 +26,11 @@ Pilot Program Required.—Commencing not later than nine months after the date o
 
 Elements.—In carrying out the pilot program, the Secretary shall—
 
-&emsp;“(1) designate not less than three or more than five military occupational specialities or duty speciality codes for coverage under the pilot program; and
+&emsp;“(1) designate not less than three military occupational specialities or duty speciality codes for coverage under the pilot program;
 
-&emsp;“(2) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both.
+&emsp;“(2) consider utilizing industry-recognized certifications or licensing standards for civilian occupational skills comparable to the specialties or codes so designated; and
+
+&emsp;“(3) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both.
 
 “(c)
 

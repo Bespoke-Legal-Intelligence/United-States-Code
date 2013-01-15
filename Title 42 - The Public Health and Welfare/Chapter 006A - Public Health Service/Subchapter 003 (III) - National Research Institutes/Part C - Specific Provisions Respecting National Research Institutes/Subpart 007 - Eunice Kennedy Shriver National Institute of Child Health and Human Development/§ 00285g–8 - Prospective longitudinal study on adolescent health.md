@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than October 1, 1993, the Director of the Institute shall commence a study for the purpose of providing information on the general health and well-being of adolescents in the United States, including, with respect to such adolescents, information on—
+Not later than October 1, 1993, the Director of the Institute shall commence a study for thepurpose of providing information on the general health and well-being of adolescents in the United States, including, with respect to such adolescents, information on—
 
 &emsp;(1) the behaviors that promote health and the behaviors that are detrimental to health; and
 

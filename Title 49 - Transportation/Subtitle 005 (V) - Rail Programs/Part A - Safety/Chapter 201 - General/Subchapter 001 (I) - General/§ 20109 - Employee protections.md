@@ -14,7 +14,7 @@ In General.—A railroad carrier engaged in interstate or foreign commerce, a co
 
 &emsp;(2) to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security;
 
-&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
+&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroadsafety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
 
 &emsp;(4) to notify, or attempt to notify, the railroad carrier or the Secretary of Transportation of a work-related personal injury or work-related illness of an employee;
 

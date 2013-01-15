@@ -12,5 +12,5 @@ In providing services under subsection (a) of this section, a tribal organizatio
 
 #### Prior Provisions
 
-A prior section 631 of Pub. L. 89–73 was renumbered section 641 and is classified to section 3057<i>l</i> of this title.
+A prior section 631 of Pub. L. 89–73 was renumbered section 641 and is classified to section 3057l of this title.
 

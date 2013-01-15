@@ -54,7 +54,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(f)(1) The administering Secretaries shall furnish an eligible dependent a physical examination that is required by a school in connectionwith the enrollment of the dependent as a student in that school.
+(f)(1) The administering Secretaries shall furnish an eligible dependent a physical examination that is required by a school in connection with the enrollment of the dependent as a student in that school.
 
 (2) A dependent is eligible for a physical examination under paragraph (1) if the dependent—
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) is at least 5 years of age and less than 12 years of age.
 
-(3) Nothing in paragraph (2) may be construed to prohibit the furnishing of a school-required physical examination to any dependent who, except for not satisfying the age requirement under that paragraph, would otherwise be eligible for a physical examination required to be furnished under this subsection.
+(3) Nothing in paragraph (2) may be construed to prohibit the furnishing of a school-required physical examination to any dependent who, except for not satisfying the age requirementunder that paragraph, would otherwise be eligible for a physical examination required to be furnished under this subsection.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, §578(i)(2), title VII, §705(c), Oct. 5, 1999, 113 Stat. 629, 684; Pub. L. 106–398, §1 \[\[div. A\], title VII, §703\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093.)
 
@@ -144,13 +144,13 @@ Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar
 
 &emsp;&emsp;“(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
 
-&emsp;&emsp;“(ii) while traveling to or from the place at which the member is to perform, or has performed, suchactive duty, active duty for training, or inactive duty training.”
+&emsp;&emsp;“(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.”
 
 Subsec. (b). Pub. L. 105–85, §1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, §703(b). See 1996 Amendment note below.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106, §703(b), as amended by Pub. L. 105–85, §1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
 
-Subsec. (b)(2). Pub. L. 104–106, §703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
+Subsec. (b)(2). Pub. L. 104–106, §703(a), substituted “death would” for “death (A) would” and struck out“, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
 
 Pub. L. 104–106, §1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
 
@@ -200,11 +200,11 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
-Section 1073(d)(1) of Pub. L. 105–85 provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, Pub. L. 104–106, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(d)(1), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, Pub. L. 104–106, as enacted.
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -212,21 +212,21 @@ Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d)of Pub. L. 101–189, set out as a note under section 1072 of this title.
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 651(d) of Pub. L. 100–456 provided that: “Section 1076(f) of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act \[Sept. 29, 1988\] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
+Pub. L. 100–456, div. A, title VI, §651(d), Sept. 29, 1988, 102 Stat. 1990, provided that: “Section 1076(f) of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act \[Sept. 29, 1988\] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-Section 652(e)(3) of Pub. L. 99–661 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §652(e)(3), Nov. 14, 1986, 100 Stat. 3890, provided that: “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1985 Amendment
 
-Section 652(c) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
+Pub. L. 99–145, title VI, §652(c), Nov. 8, 1985, 99 Stat. 657, provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1978 Amendment
 
-Section 302 of Pub. L. 95–397 provided that: “The amendment made by section 301 \[amending this section\] shall become effective on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later.”
+Pub. L. 95–397, title III, §302, Sept. 30, 1978, 92 Stat. 849, provided that: “The amendment made by section 301 \[amending this section\] shall become effective on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later.”
 
 #### Effective Date of 1966 Amendment
 
@@ -288,5 +288,5 @@ Dependent Defined.—For purposes of this section, the term ‘dependent’ has 
 
 #### Dependent; Qualification As; Transition
 
-Section 651(c) of Pub. L. 100–456 provided that: “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 \[Pub. L. 98–525, formerly set out as a note under section 1072 of this title\], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with section 1076(f) of title 10, United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
+Pub. L. 100–456, div. A, title VI, §651(c), Sept. 29, 1988, 102 Stat. 1990, provided that: “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 \[Pub. L. 98–525, formerly set out as a note under section 1072 of this title\], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with section 1076(f) of title 10, United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
 

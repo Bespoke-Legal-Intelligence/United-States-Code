@@ -24,5 +24,5 @@ Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as
 
 #### Extension of House Resolution No. 1238, 91st Congress, to Former Speakers of House of Representatives
 
-Section 1(a) of Pub. L. 93–532 provided that: “The provisions of H. Res. 1238, Ninety-first Congress, as enacted into permanent law by the Supplemental Appropriations Act, 1971 (84 Stat. 1989) \[enacting sections 31b–1 to 31b–6 of this title and provision set out as a note under this section\], are hereby extended to, and made applicable with respect to, each former Speaker of the House of Representatives, as long as he determines there is need therefor, commencing at the expiration of his term of office as Representative in Congress.”
+Pub. L. 93–532, §1(a), Dec. 22, 1974, 88 Stat. 1723, provided that: “The provisions of H. Res. 1238, Ninety-first Congress, as enacted into permanent law by the Supplemental Appropriations Act, 1971 (84 Stat. 1989) \[enacting sections 31b–1 to 31b–6 of this title and provision set out as a note under this section\], are hereby extended to, and made applicable with respect to, each former Speaker of the House of Representatives, as long as he determines there is need therefor, commencing at the expiration of his term of office as Representative in Congress.”
 

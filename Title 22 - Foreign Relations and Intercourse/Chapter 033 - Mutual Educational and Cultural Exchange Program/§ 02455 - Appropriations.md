@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the origi
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classificationof this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, §542(a), 68 Stat. 861.
 
@@ -78,7 +78,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 
-Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would atleast double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

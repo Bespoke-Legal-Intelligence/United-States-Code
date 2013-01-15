@@ -134,7 +134,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note set out under section2151 of this title\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
+Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note set out under section 2151 of this title\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
 
 #### Deadline for Initial Report
 

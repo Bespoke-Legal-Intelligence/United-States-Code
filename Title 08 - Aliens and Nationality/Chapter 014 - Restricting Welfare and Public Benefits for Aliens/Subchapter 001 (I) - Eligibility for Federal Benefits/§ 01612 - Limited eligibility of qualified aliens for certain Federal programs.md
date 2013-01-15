@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law and except as provided in paragraph (2), analien who is a qualified alien (as defined in section 1641 of this title) is not eligible for any specified Federal program (as defined in paragraph (3)).
+&emsp;Notwithstanding any other provision of law and except as provided in paragraph (2), an alien who is a qualified alien (as defined in section 1641 of this title) is not eligible for any specified Federal program (as defined in paragraph (3)).
 
 #### (2) Exceptions
 
@@ -74,7 +74,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I)shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
 
 #### (E) Aliens receiving SSI on August 22, 1996
 
@@ -194,7 +194,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (B) Food stamps
 
-&emsp;&emsp;The food stamp program as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 <sup>1</sup> \[7 U.S.C. 2012(<i>l</i>)\].
+&emsp;&emsp;The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 <sup>1</sup> \[7 U.S.C. 2012(l)\].
 
 #### (b) Limited eligibility for designated Federal programs
 
@@ -286,8 +286,6 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
-
 Section 243 of such Act and section 243 of the Immigration and Nationality Act, referred to in subsecs. (a)(2)(A)(iii), (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv), (M)(i)(III)(cc) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
@@ -312,7 +310,7 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -320,7 +318,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
 
-Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted “section 3(l)” for “section 3(h)”.
 
 <b>2002</b>—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
 
@@ -440,15 +438,15 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–33, title V, §5308, Aug. 5, 1997, 111 Stat. 603, provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-Section 6005(b) of Pub. L. 105–18 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[this section\].”
+Pub. L. 105–18, title II, §6005(b), June 12, 1997, 111 Stat. 191, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[this section\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 510 of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
+Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673, provided that the amendment made by section 510 is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

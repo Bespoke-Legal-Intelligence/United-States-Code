@@ -14,7 +14,7 @@ In General.—The functions of the Administrator include—
 
 &emsp;(B) ensuring executive agency compliance with the record requirements of section 1712 of this title;
 
-&emsp;(5) providing for and directing the activities of the Federal Acquisition Institute established under section 1201 of this title, including recommending to the Administrator of General Services a sufficient budget for such activities.
+&emsp;(5) providing for and directing the activities of the Federal Acquisition Institute established under section 1201 of this title, including recommending to the Administrator of General Services a sufficient budget for such activities.<sup>1</sup>
 
 &emsp;(6) administering section 1703(a) to (i) of this title;
 
@@ -122,7 +122,7 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 
 “(b)
 
-Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
+Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(o) of the Small Business Act (15 U.S.C. 632(o)) (as added by section 412 of this subtitle).”
 
 #### Results-Oriented Acquisition Process
 
@@ -157,4 +157,6 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 “(b)
 
 Definition.—In this section, the term ‘simplified acquisition threshold’ has the meaning given such term in section 4(11) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(11)) \[now 41 U.S.C. 134\].”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

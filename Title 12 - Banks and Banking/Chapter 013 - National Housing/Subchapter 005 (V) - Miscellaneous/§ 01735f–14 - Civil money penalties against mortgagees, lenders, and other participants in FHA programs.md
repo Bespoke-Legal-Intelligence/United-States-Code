@@ -146,7 +146,7 @@ Subsec. (b)(2)(D). Pub. L. 111–22, §203(f)(1)(B), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 111–22, §203(f)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States.”
 
-Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ meanshaving actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
+Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
 
 <b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations”.
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date
 
-Section 107(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §107(b), Dec. 15, 1989, 103 Stat. 2003, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
 &emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 
@@ -196,11 +196,11 @@ Section 107(b) of Pub. L. 101–235 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 541 of title V of Pub. L. 105–65 provided that:
+Pub. L. 105–65, title V, §541, Oct. 27, 1997, 111 Stat. 1412, provided that:
 
 “(a)
 
-Issuance of Necessary Regulations.—Notwithstanding section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§541–564) of title V of Pub. L. 105–65, enacting section 1437z–1 of Title 42, The Public Health and Welfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under section 1735f–15 of this title and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
+Issuance of Necessary Regulations.—Notwithstanding section 7(o) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(o)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§541–564) of title V of Pub. L. 105–65, enacting section 1437z–1 of Title 42, The Public Health and Welfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under section 1735f–15 of this title and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
 
 “(b)
 

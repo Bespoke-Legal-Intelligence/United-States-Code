@@ -70,7 +70,7 @@
 
 (j)(1) If a victim has received compensation from insurance or any other source with respect to a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
 
-(2) Any amount paid to a victim under an order of restitution shall be reduced by anyamount later recovered as compensatory damages for the same loss by the victim in—
+(2) Any amount paid to a victim under an order of restitution shall be reduced by any amount later recovered as compensatory damages for the same loss by the victim in—
 
 &emsp;(A) any Federal civil proceeding; and
 
@@ -78,7 +78,7 @@
 
 (k) A restitution order shall provide that the defendant shall notify the court and the Attorney General of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution. The court may also accept notification of a material change in the defendant's economic circumstances from the United States or from the victim. The Attorney General shall certify to the court that the victim or victims owed restitution by the defendant have been notified of the change in circumstances. Upon receipt of the notification, the court may, on its own motion, or the motion of any party, including the victim, adjust the payment schedule, or require immediate payment in full, as the interests of justice require.
 
-(<i>l</i>) A conviction of a defendant for an offense involving the act giving rise to an order of restitution shall estop the defendant from denying the essential allegations of that offense in any subsequent Federal civil proceeding or State civil proceeding, to the extent consistent with State law, brought by the victim.
+(l) A conviction of a defendant for an offense involving the act giving rise to an order of restitution shall estop the defendant from denying the essential allegations of that offense in any subsequent Federal civil proceeding or State civil proceeding, to the extent consistent with State law, brought by the victim.
 
 (m)(1)(A)(i) An order of restitution may be enforced by the United States in the manner provided for in subchapter C of chapter 227 and subchapter B of chapter 229 of this title; or
 
@@ -90,7 +90,7 @@
 
 (n) If a person obligated to provide restitution, or pay a fine, receives substantial resources from any source, including inheritance, settlement, or other judgment, during a period of incarceration, such person shall be required to apply the value of such resources to any restitution or fine still owed.
 
-(<i>o</i>) A sentence that imposes an order of restitution is a final judgment notwithstanding the fact that—
+(o) A sentence that imposes an order of restitution is a final judgment notwithstanding the fact that—
 
 &emsp;(1) such a sentence can subsequently be—
 
@@ -110,11 +110,11 @@
 
 #### References in Text
 
-The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (<i>o</i>)(1)(A), are set out in the Appendix to this title.
+The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (o)(1)(A), are set out in the Appendix to this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (<i>o</i>)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
+<b>2002</b>—Subsec. (o)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
 
 <b>1996</b>—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 

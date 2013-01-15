@@ -32,5 +32,5 @@
 
 #### Effective Date
 
-Section 2(b) of Pub. L. 101–335 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to lost earnings attributable to errors made before, on, or after the date of enactment of this Act \[July 17, 1990\].”
+Pub. L. 101–335, §2(b), July 17, 1990, 104 Stat. 320, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to lost earnings attributable to errors made before, on, or after the date of enactment of this Act \[July 17, 1990\].”
 

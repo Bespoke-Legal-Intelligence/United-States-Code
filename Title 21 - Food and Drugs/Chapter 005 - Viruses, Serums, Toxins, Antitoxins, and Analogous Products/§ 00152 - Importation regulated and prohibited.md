@@ -4,13 +4,17 @@ The importation into the United States of any virus, serum, toxin, or analogous 
 
 (Mar. 4, 1913, ch. 145, §1 (part), 37 Stat. 832; Pub. L. 100–449, title III, §301(d), Sept. 28, 1988, 102 Stat. 1868.)
 
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### Codification
 
 See note set out under section 151 of this title.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–449 amended section generally. Prior to amendment, section read as follows: “The importation into the United States, without a permit from the Secretary of Agriculture, of any virus, serum, toxin, or analogous product for use in the treatment of domestic animals, and the importation of any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product for use in the treatment of domestic animals, are prohibited.”
+<b>1988</b>—Pub. L. 100–449 temporarily amended section generally. Prior to amendment, section read as follows: “The importation into the United States, without a permit from the Secretary of Agriculture, of any virus, serum, toxin, or analogous product for use in the treatment of domestic animals, and the importation of any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product for use in the treatment of domestic animals, are prohibited.” See Effective and Termination Dates of 1988 Amendment note below.
 
 #### Effective and Termination Dates of 1988 Amendment
 

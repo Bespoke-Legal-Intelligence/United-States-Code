@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary may undertake activities for the improvement, adaptation, and integration of proven technologies for commercial application in high-speed rail service in the United States.
+Authority.—The Secretary may undertake activities for the improvement, adaptation, andintegration of proven technologies for commercial application in high-speed rail service in the United States.
 
 (b)
 

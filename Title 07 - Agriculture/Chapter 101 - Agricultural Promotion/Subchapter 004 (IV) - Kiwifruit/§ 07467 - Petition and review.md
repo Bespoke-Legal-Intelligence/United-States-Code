@@ -42,7 +42,7 @@
 
 #### (4) Enforcement
 
-&emsp;The pendency of a proceeding instituted pursuant to subsection (a) of this section shallnot impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title.
+&emsp;The pendency of a proceeding instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title.
 
 (Pub. L. 104–127, title V, §558, Apr. 4, 1996, 110 Stat. 1070.)
 

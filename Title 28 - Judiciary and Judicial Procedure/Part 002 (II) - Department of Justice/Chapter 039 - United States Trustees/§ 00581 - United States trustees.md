@@ -414,7 +414,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 &emsp;“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
-&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
+&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303,2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
 “(b)
 
@@ -504,7 +504,7 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–554 provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, set out in the Appendix to Title 11, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the “Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
 
 #### Bankruptcy Crimes
 
@@ -516,5 +516,5 @@ Pub. L. 109–162, title XI, §1175, Jan. 5, 2006, 119 Stat. 3125, provided that
 
 &emsp;“(3) for any year in which the number of criminal referrals is less than for the prior year, an explanation of the decrease; and
 
-&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularlywith respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
+&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
 

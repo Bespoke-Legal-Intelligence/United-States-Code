@@ -2,163 +2,209 @@
 
 #### (a) Authority
 
-The Director shall carry out a program to provide financial assistance to States and communities, using amounts made available from the National Flood Mitigation Fund under section 4104d of this title, for planning and carrying out activities designed to reduce the risk of flood damage to structures covered under contracts for flood insurance under this chapter. Such financial assistance shall be made available to States and communities in the form of grants under subsection (b) of this section for planning assistance and in the form of grants under this section for carrying out mitigation activities.
+The Administrator shall carry out a program to provide financial assistance to States and communities, using amounts made available from the National Flood Mitigation Fund under section 4104d of this title, for planning and carrying out activities designed to reduce the risk of flood damage to structures covered under contracts for flood insurance under this chapter. Such financial assistance shall be made available—
 
-#### (b) Planning assistance grants
+&emsp;(1) to States and communities in the form of grants under this section for carrying out mitigation activities;
 
-#### (1) In general
+&emsp;(2) to States and communities in the form of grants under this section for carrying out mitigation activities that reduce flood damage to severe repetitive loss structures; and
 
-&emsp;The Director may make grants under this subsection to States and communities to assist in developing mitigation plans under subsection (c) of this section.
+&emsp;(3) to property owners in the form of direct grants under this section for carrying out mitigation activities that reduce flood damage to individual structures for which 2 or more claim payments for losses have been made under flood insurance coverage under this chapter if the Administrator, after consultation with the State and community, determines that neither the State nor community in which such a structure is located has the capacity to manage such grants.
 
-#### (2) Funding
+#### (b) Eligibility for mitigation assistance
 
-&emsp;Of any amounts made available from the National Flood Mitigation Fund for use under this section in any fiscal year, the Director may use not more than 7.5 percent of the available funds under this section to provide planning assistance grants under this subsection.
+To be eligible to receive financial assistance under this section for mitigation activities, a State or community shall develop, and have approved by the Administrator, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Administrator under section 4102 of this title, provides for reduction of flood losses to structures for which contracts for flood insurance are available under this chapter, and may be included in a multihazard mitigation plan. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
 
-#### (3) Limitations
+#### (c) Eligible mitigation activities
 
-#### (A) Timing
+#### (1) Requirement of consistency with approved mitigation plan
 
-&emsp;&emsp;A grant under this subsection may be awarded to a State or community not more than once every 5 years and each grant may cover a period of 1 to 3 years.
+&emsp;Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4). The Administrator shall provide assistance under this section to the extent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
 
-#### (B) Single grantee amount
+#### (2) Requirements of technical feasibility, cost effectiveness, and interest of National Flood Insurance Fund
 
-&emsp;&emsp;A grant for planning assistance may not exceed—
+#### (A) In general
 
-&emsp;&emsp;&emsp;(i) $150,000, to any State; or
+&emsp;&emsp;The Administrator may approve only mitigation activities that the Administrator determines—
 
-&emsp;&emsp;&emsp;(ii) $50,000, to any community.
+&emsp;&emsp;&emsp;(i) are technically feasible and cost-effective; or
 
-#### (C) Cumulative State grant amount
+&emsp;&emsp;&emsp;(ii) will eliminate future payments from the National Flood Insurance Fund for severe repetitive loss structures through an acquisition or relocation activity.
 
-&emsp;&emsp;The sum of the amounts of grants made under this subsection in any fiscal year to any one State and all communities located in such State may not exceed $300,000.
+#### (B) Considerations
 
-#### (c) Eligibility for mitigation assistance
+&emsp;&emsp;In making a determination under subparagraph (A), the Administrator shall take into consideration recognized ancillary benefits.
 
-To be eligible to receive financial assistance under this section for mitigation activities, a State or community shall develop, and have approved by the Director, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Director under section 4102 of this title, and provides protection against flood losses to structures for which contracts for flood insurance are available under this chapter. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
+#### (3) Eligible activities
 
-#### (d) Notification of approval and grant award
-
-#### (1) In general
-
-&emsp;The Director shall notify a State or community submitting a mitigation plan of the approval or disapproval of the plan not later than 120 days after submission of the plan.
-
-#### (2) Notification of disapproval
-
-&emsp;If the Director does not approve a mitigation plan submitted under this subsection, the Director shall notify, in writing, the State or community submitting the plan of the reasons for such disapproval.
-
-#### (e) Eligible mitigation activities
-
-#### (1) Use of amounts
-
-&emsp;Amounts provided under this section (other than under subsection (b) of this section) may be used only for mitigation activities specified in a mitigation plan approved by the Director under subsection (d) of this section. The Director shall provide assistance under this section to the extent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
-
-#### (2) Determination of eligible plans
-
-&emsp;The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plans that propose activities that are cost-beneficial to the National Flood Mitigation Fund.
-
-#### (3) Standard for approval
-
-&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
-
-#### (4) Priority for mitigation assistance
-
-&emsp;In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available.
-
-#### (5) Eligible activities
-
-&emsp;The Director shall determine whether mitigation activities described in a mitigation plan submitted under subsection (d) of this section comply with the requirements under paragraph (1). Such activities may include—
+&emsp;Eligible activities under a mitigation plan may include—
 
 &emsp;&emsp;(A) demolition or relocation of any structure located on land that is along the shore of a lake or other body of water and is certified by an appropriate State or local land use authority to be subject to imminent collapse or subsidence as a result of erosion or flooding;
 
 &emsp;&emsp;(B) elevation, relocation, demolition, or floodproofing of structures (including public structures) located in areas having special flood hazards or other areas of flood risk;
 
-&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazards or other areas of flood risk and properties substantially damaged by flood, for public use, as the Director determines is consistent with sound land management and use in such area;
+&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazards or other areas of flood risk and properties substantially damaged by flood, for public use, as the Administrator determines is consistent with sound land management and use in such area;
 
-&emsp;&emsp;(D) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Director specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
+&emsp;&emsp;(D) elevation, relocation, or floodproofing of utilities (including equipment that serves structures);
 
-&emsp;&emsp;(E) beach nourishment activities;
+&emsp;&emsp;(E) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Administrator specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
-&emsp;&emsp;(F) the provision of technical assistance by States to communities and individuals to conduct eligible mitigation activities;
+&emsp;&emsp;(F) the development or update of mitigation plans by a State or community which meet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
 
-&emsp;&emsp;(G) other activities that the Director considers appropriate and specifies in regulation; and
+&emsp;&emsp;(G) the provision of technical assistance by States to communities and individuals to conduct eligible mitigation activities;
 
-&emsp;&emsp;(H) other mitigation activities not described in subparagraphs (A) through (F) or the regulations issued under subparagraph (G), that are described in the mitigation plan of a State or community.
+&emsp;&emsp;(H) other activities that the Administrator considers appropriate and specifies in regulation;
 
-#### (f) Limitations on amount of assistance
+&emsp;&emsp;(I) other mitigation activities not described in subparagraphs (A) through (G) or the regulations issued under subparagraph (H), that are described in the mitigation plan of a State or community; and
 
-#### (1) Amount
+&emsp;&emsp;(J) without regard to the requirements under paragraphs (1) and (2) of subsection (d), and if the State applied for and was awarded at least $1,000,000 in grants available under this section in the prior fiscal year, technical assistance to communities to identify eligible activities, to develop grant applications, and to implement grants awarded under this section, not to exceed $50,000 to any 1 State in any fiscal year.
 
-&emsp;The sum of the amounts of mitigation assistance provided under this section during any 5-year period may not exceed—
+#### (4) Eligibility of demolition and rebuilding of properties
 
-&emsp;&emsp;(A) $10,000,000, to any State; or
+&emsp;The Administrator shall consider as an eligible activity the demolition and rebuilding of properties to at least base flood elevation or greater, if required by the Administrator or if required by any State regulation or local ordinance, and in accordance with criteria established by the Administrator.
 
-&emsp;&emsp;(B) $3,300,000, to any community.
+#### (d) Matching requirement
 
-#### (2) Geographic
+The Administrator may provide grants for eligible mitigation activities as follows:
 
-&emsp;The sum of the amounts of mitigation assistance provided under this section during any 5-year period to any one State and all communities located in such State may not exceed $20,000,000.
+#### (1) Severe repetitive loss structures
 
-#### (3) Waiver
+&emsp;In the case of mitigation activities to severe repetitive loss structures, in an amount up to—
 
-&emsp;The Director may waive the dollar amount limitations under paragraphs (1) and (2) for any State or community for any 5-year period during which a major disaster or emergency declared by the President (pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]) as a result of flood conditions is in effect with respect to areas in the State or community.
+&emsp;&emsp;(A) 100 percent of all eligible costs, if the activities are approved under subsection (c)(2)(A)(i); or
 
-#### (g) Matching requirement
+&emsp;&emsp;(B) the expected savings to the National Flood Insurance Fund from expected avoided damages through acquisition or relocation activities, if the activities are approved under subsection (c)(2)(A)(ii).
 
-#### (1) In general
+#### (2) Repetitive loss structures
 
-&emsp;The Director may not provide mitigation assistance under this section to a State or community in an amount exceeding 3 times the amount that the State or community certifies, as the Director shall require, that the State or community will contribute from non-Federal funds to develop a mitigation plan under subsection (c) of this section and to carry out mitigation activities under the approved mitigation plan. In no case shall any in-kind contribution by any State or community exceed one-half of the amount of non-Federal funds contributed by the State or community.
+&emsp;In the case of mitigation activities to repetitive loss structures, in an amount up to 90 percent of all eligible costs.
 
-#### (2) Reduced community match
+#### (3) Other mitigation activities
 
-&emsp;With respect to any 1-year period in which assistance is made available under this section, the Director may adjust the contribution required under paragraph (1) by any State, and for the communities located in that State, to not less than 10 percent of the cost of the activities for each severe repetitive loss property for which grant amounts are provided if, for such year—
+&emsp;In the case of all other mitigation activities, in an amount up to 75 percent of all eligible costs.
 
-&emsp;&emsp;(A) the State has an approved State mitigation plan meeting the requirements for hazard mitigation planning under section 322 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165) that specifies how the State intends to reduce the number of severe repetitive loss properties; and
-
-&emsp;&emsp;(B) the Director determines, after consultation with the State, that the State has taken actions to reduce the number of such properties.
-
-#### (3) Non-Federal funds
-
-&emsp;For purposes of this subsection, the term “non-Federal funds” includes State or local agency funds, in-kind contributions, any salary paid to staff to carry out the mitigation activities of the recipient, the value of the time and services contributed by volunteers to carry out such activities (at a rate determined by the Director), and the value of any donated material or building and the value of any lease on a building.
-
-#### (h) Oversight of mitigation plans
-
-The Director shall conduct oversight of recipients of mitigation assistance under this section to ensure that the assistance is used in compliance with the approved mitigation plans of the recipients and that matching funds certified under subsection (g) of this section are used in accordance with such certification.
-
-#### (i) Recapture
+#### (e) Recapture
 
 #### (1) Noncompliance with plan
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not carried out the mitigation activities as set forth in the mitigation plan, the Director shall recapture any unexpended amounts and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Administrator determines that a State or community that has received mitigation assistance under this section has not carried out the mitigation activities as set forth in the mitigation plan, the Administrator shall recapture any unexpended amounts and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d) of this section, the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
-#### (j) Reports
+#### (f) Reports
 
-Not later than 1 year after September 23, 1994, and biennially thereafter, the Director shall submit a report to the Congress describing the status of mitigation activities carried out with assistance provided under this section.
+Not later than 1 year after July 6, 2012, and biennially thereafter, the Administrator shall submit a report to the Congress describing the status of mitigation activities carried out with assistance provided under this section.
 
-#### (k) “Community” defined
+#### (g) Failure to make grant award within 5 years
 
-For purposes of this section, the term “community” means—
+For any application for a grant under this section for which the Administrator fails to make a grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
 
-&emsp;(1) a political subdivision that (A) has zoning and building code jurisdiction over a particular area having special flood hazards, and (B) is participating in the national flood insurance program; or
+#### (h) Definitions
 
-&emsp;(2) a political subdivision of a State, or other authority, that is designated to develop and administer a mitigation plan by political subdivisions, all of which meet the requirements of paragraph (1).
+For purposes of this section, the following definitions shall apply:
 
-#### (m) <sup>1</sup> Coordination with States and communities
+#### (1) Community
 
-The Director shall, in consultation and coordination with States and communities take such actions as are appropriate to encourage and improve participation in the national flood insurance program of owners of properties, including owners of properties that are not located in areas having special flood hazards (the 100-year floodplain), but are located within flood prone areas.
+&emsp;The term “community” means—
 
-(Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270; amended Pub. L. 108–264, title I, §103(a)–(c), (e), (f), June 30, 2004, 118 Stat. 721, 722.)
+&emsp;&emsp;(A) a political subdivision that—
+
+&emsp;&emsp;&emsp;(i) has zoning and building code jurisdiction over a particular area having special flood hazards; and
+
+&emsp;&emsp;&emsp;(ii) is participating in the national flood insurance program; or
+
+&emsp;&emsp;(B) a political subdivision of a State, or other authority, that is designated by political subdivisions, all of which meet the requirements of subparagraph (A), to administer grants for mitigation activities for such political subdivisions.
+
+#### (2) Repetitive loss structure
+
+&emsp;The term “repetitive loss structure” has the meaning given such term in section 4121 of this title.
+
+#### (3) Severe repetitive loss structure
+
+&emsp;The term “severe repetitive loss structure” means a structure that—
+
+&emsp;&emsp;(A) is covered under a contract for flood insurance made available under this chapter; and
+
+&emsp;&emsp;(B) has incurred flood-related damage—
+
+&emsp;&emsp;&emsp;(i) for which 4 or more separate claims payments have been made under flood insurance coverage under this chapter, with the amount of each such claim exceeding $5,000, and with the cumulative amount of such claims payments exceeding $20,000; or
+
+&emsp;&emsp;&emsp;(ii) for which at least 2 separate claims payments have been made under such coverage, with the cumulative amount of such claims exceeding the value of the insured structure.
+
+(Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270; amended Pub. L. 108–264, title I, §103(a)–(c), (e), (f), June 30, 2004, 118 Stat. 721, 722; Pub. L. 112–95, title VIII, §815(b), Feb. 14, 2012, 126 Stat. 125; Pub. L. 112–141, div. F, title II, §§100225(a), 100238(b)(1), July 6, 2012, 126 Stat. 938, 958.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
-
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), and (h)(3)(A), (B)(i), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+
+Pub. L. 112–141, §100225(a)(3), substituted “Such financial assistance shall be made available—” for “Such financial assistance shall be made available to States and communities in the form of grants under subsection (b) of this section for planning assistance and in the form of grants under this section for carrying out mitigation activities.” and added pars. (1) to (3).
+
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+
+Pub. L. 112–141, §100225(a)(4), substituted “provides for reduction of” for “and provides protection against” and inserted “, and may be included in a multihazard mitigation plan” after “under this chapter”.
+
+Pub. L. 112–141, §100225(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to mitigation planning assistance grants.
+
+Subsec. (c). Pub. L. 112–141, §100225(a)(2), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(1). Pub. L. 112–141, §100238(b)(1), substituted “Administrator shall” for “Director shall”.
+
+Pub. L. 112–141, §100225(a)(5)(A), substituted “Requirement of consistency with approved mitigation plan” for “Use of amounts” in heading and “Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4).” for “Amounts provided under this section (other than under subsection (b) of this section) may be used only for mitigation activities specified in a mitigation plan approved by the Director under subsection (d) of this section.” in text.
+
+Subsec. (c)(2). Pub. L. 112–141, §100225(a)(5)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plans that propose activities that are cost-beneficial to the National Flood Mitigation Fund.”
+
+Subsec. (c)(3). Pub. L. 112–141, §100225(a)(5)(D)(i), substituted “Eligible activities under a mitigation plan may” for “The Director shall determine whether mitigation activities described in a mitigation plan submitted under subsection (d) of this section comply with the requirements under paragraph (1). Such activities may” in introductory provisions.
+
+Pub. L. 112–141, §100225(a)(5)(B), (C), redesignated par. (5) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.”
+
+Subsec. (c)(3)(C). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (c)(3)(D). Pub. L. 112–141, §100225(a)(5)(D)(iv), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (c)(3)(E). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Pub. L. 112–141, §100225(a)(5)(D)(ii), (iii), redesignated subpar. (D) as (E) and struck out former subpar. (E) which read as follows: “beach nourishment activities;”.
+
+Subsec. (c)(3)(F), (G). Pub. L. 112–141, §100225(a)(5)(D)(iii), (v), added subpar. (F) and redesignated former subpar. (F) as (G). Former subpar. (G) redesignated (H).
+
+Subsec. (c)(3)(H). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Pub. L. 112–141, §100225(a)(5)(D)(ii), (iii), redesignated subpar. (G) as (H) and struck out former subpar. (H) which read as follows: “other mitigation activities not described in subparagraphs (A) through (F) or the regulations issued under subparagraph (G), that are described in the mitigation plan of a State or community.”
+
+Subsec. (c)(3)(I), (J). Pub. L. 112–141, §100225(a)(5)(D)(vi), (vii), added subpars. (I) and (J).
+
+Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available.”
+
+Subsec. (c)(5). Pub. L. 112–141, §100225(a)(5)(C), redesignated par. (5) as (3).
+
+Subsec. (c)(6). Pub. L. 112–141, §100225(a)(5)(E), struck out par. (6). Text read as follows: “The Director shallconsider as an eligible activity the demolition and rebuilding of properties to at least base flood levels or higher, if required by the Director or if required by any State or local ordinance, and in accordance with project implementation criteria established by the Director.”
+
+Subsec. (d). Pub. L. 112–141, §100225(a)(1), (6), added subsec. (d) and struck out former subsec. (d) which related to notification of mitigation plan approval and grant award.
+
+Subsec. (e). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+
+Pub. L. 112–141, §100225(a)(2), redesignated subsec. (i) as (e). Former subsec. (e) redesignated (c).
+
+Subsec. (e)(2). Pub. L. 112–141, §100225(a)(7), substituted “required under subsection (d)” for “certified under subsection (g)” and “the amount” for “3 times the amount”.
+
+Subsec. (e)(6). Pub. L. 112–95 added par. (6).
+
+Subsec. (f). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Pub. L. 112–141, §100225(a)(8), substituted “July 6, 2012” for “September 23, 1994”.
+
+Pub. L. 112–141, §100225(a)(1), (2), redesignated subsec. (j) as (f) and struck out former subsec. (f) which related to limitations on amount of mitigation assistance during any 5-year period.
+
+Subsecs. (g), (h). Pub. L. 112–141, §100225(a)(1), (9), added subsecs. (g) and (h) and struck out former subsecs. (g) and (h) which related to the matching requirement for mitigation assistance and oversight of recipients of mitigation assistance, respectively.
+
+Subsecs. (i), (j). Pub. L. 112–141, §100225(a)(2), redesignated subsecs. (i) and (j) as (e) and (f), respectively.
+
+Subsecs. (k), (m). Pub. L. 112–141, §100225(a)(1), struck out subsecs. (k) and (m) which defined “community” for purposes of this section and which related to encouraging and improving participation in the national flood insurance program, respectively.
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–264, §103(f), substituted “7.5 percent of the available funds under this section” for “$1,500,000”.
 
@@ -176,9 +222,7 @@ Pub. L. 103–325, title V, §553(b), Sept. 23, 1994, 108 Stat. 2273, required t
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (l) has been enacted.</i>
 

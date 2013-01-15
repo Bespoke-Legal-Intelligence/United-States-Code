@@ -10,7 +10,7 @@
 
 &emsp;(C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days.
 
-(2)(A) Except as otherwise authorized by law, an officer to whom this subsection applies maynot hold, or exercise the functions of, a civil office in the Government of the United States—
+(2)(A) Except as otherwise authorized by law, an officer to whom this subsection applies may not hold, or exercise the functions of, a civil office in the Government of the United States—
 
 &emsp;(i) that is an elective office;
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Construction and Applicability of Section 973(b)
 
-Section 1002(b), (c) of Pub. L. 98–94 provided that:
+Pub. L. 98–94, title X, §1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, provided that:
 
 “(b) Nothing in section 973(b) of title 10, United States Code, as in effect before the date of the enactment of this Act \[Sept. 24, 1983\], shall be construed—
 

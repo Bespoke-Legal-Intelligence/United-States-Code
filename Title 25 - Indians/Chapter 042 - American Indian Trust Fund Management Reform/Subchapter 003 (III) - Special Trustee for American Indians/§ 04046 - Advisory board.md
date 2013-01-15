@@ -36,5 +36,5 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Appointment of New Members
 
-Pub. L. 108–7, div. F, title I, §133, Feb. 20, 2003, 117 Stat. 243, provided that: “Within 90 days of enactment of this Act \[Feb. 20, 2003\] the Special Trustee for American Indians, in consultation with the Secretary of the Interior and the Tribes, shall appoint new members to the Special Trustee Advisory Board.”
+Pub. L. 108–7, div. F, title I, §133, Feb. 20, 2003, 117 Stat. 243, provided that: “Within 90 days of enactmentof this Act \[Feb. 20, 2003\] the Special Trustee for American Indians, in consultation with the Secretary of the Interior and the Tribes, shall appoint new members to the Special Trustee Advisory Board.”
 

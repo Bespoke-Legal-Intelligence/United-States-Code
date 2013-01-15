@@ -13,6 +13,7 @@
 | [109\.](%C2%A7%2000109%20-%20Benefits%20for%20discharged%20members%20of%20allied%20forces.md) | Benefits for discharged members of allied forces. |
 | [110\.](%C2%A7%2000110%20-%20Preservation%20of%20disability%20ratings.md) | Preservation of disability ratings. |
 | [111\.](%C2%A7%2000111%20-%20Payments%20or%20allowances%20for%20beneficiary%20travel.md) | Payments or allowances for beneficiary travel. |
+| [111A.](%C2%A7%2000111A%20-%20Transportation%20of%20individuals%20to%20and%20from%20Department%20facilities.md) | Transportation of individuals to and from Department facilities. |
 | [112\.](%C2%A7%2000112%20-%20Presidential%20memorial%20certificate%20program.md) | Presidential memorial certificate program. |
 | [113\.](%C2%A7%2000113%20-%20Treatment%20of%20certain%20programs%20under%20sequestration%20procedures.md) | Treatment of certain programs under sequestration procedures. |
 | [114\.](%C2%A7%2000114%20-%20Multiyear%20procurement.md) | Multiyear procurement. |
@@ -24,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–260, title II, §202(c), Jan. 10, 2013, 126 Stat. 2424, added item 111A.
 
 <b>2010</b>—Pub. L. 111–275, title X, §1001(a), Oct. 13, 2010, 124 Stat. 2896, added item 118 and struck out former item 118 “Reports to Congress: submission in electronic form”.
 
@@ -63,6 +66,7 @@ Pub. L. 111–163, title X, §1003(b), May 5, 2010, 124 Stat. 1183, added items 
 - [&sect; 00109 - Benefits for discharged members of allied forces](%C2%A7%2000109%20-%20Benefits%20for%20discharged%20members%20of%20allied%20forces.md)
 - [&sect; 00110 - Preservation of disability ratings](%C2%A7%2000110%20-%20Preservation%20of%20disability%20ratings.md)
 - [&sect; 00111 - Payments or allowances for beneficiary travel](%C2%A7%2000111%20-%20Payments%20or%20allowances%20for%20beneficiary%20travel.md)
+- [&sect; 00111A - Transportation of individuals to and from Department facilities](%C2%A7%2000111A%20-%20Transportation%20of%20individuals%20to%20and%20from%20Department%20facilities.md)
 - [&sect; 00112 - Presidential memorial certificate program](%C2%A7%2000112%20-%20Presidential%20memorial%20certificate%20program.md)
 - [&sect; 00113 - Treatment of certain programs under sequestration procedures](%C2%A7%2000113%20-%20Treatment%20of%20certain%20programs%20under%20sequestration%20procedures.md)
 - [&sect; 00114 - Multiyear procurement](%C2%A7%2000114%20-%20Multiyear%20procurement.md)

@@ -178,11 +178,11 @@ Amendment by Pub. L. 103–446 applicable with respect to payments made after De
 
 #### Effective Date of 1992 Amendment
 
-Section 316(c) of Pub. L. 102–568 provided that: “The amendments made by this section \[amending this section and section 3688 of this title\] apply to enrollments in courses beginning on or after July 1, 1993.”
+Pub. L. 102–568, title III, §316(c), Oct. 29, 1992, 106 Stat. 4334, provided that: “The amendments made by this section \[amending this section and section 3688 of this title\] apply to enrollments in courses beginning on or after July 1, 1993.”
 
 #### Effective Date of 1989 Amendment
 
-Section 403(c) of Pub. L. 101–237 provided that: “The amendments made by this section \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title IV, §403(c), Dec. 18, 1989, 103 Stat. 2080, provided that: “The amendments made by this section \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990.”
 
 #### Effective Date of 1984 Amendment
 
@@ -228,5 +228,5 @@ Amendment by section 104(a), (b) of Pub. L. 91–219 effective Feb. 1, 1970, see
 
 #### Effective Date of 1965 Amendment
 
-Section 4 of Pub. L. 89–222 provided that: “The amendments made by the first and second sections of this Act \[amending this section and section 1742 \[now 3542\] of this title\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Sept. 30, 1965\].”
+Pub. L. 89–222, §4, Sept. 30, 1965, 79 Stat. 896, provided that: “The amendments made by the first and second sections of this Act \[amending this section and section 1742 \[now 3542\] of this title\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Sept. 30, 1965\].”
 

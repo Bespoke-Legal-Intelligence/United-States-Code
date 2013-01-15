@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent,construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>1</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>1</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -14,7 +14,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(6) to create such advisory committees as the Secretary may decide to be of assistance in formulating his policies for carrying out the purposes of this chapter. No committee member shall be allowed any salary or other compensation for services; but he may be paid his transportation and other expenses, as authorized by section 5703 of title 5; and
 
-&emsp;(7) notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for overseas public diplomacy facilities not physically located together with other Department of State facilities abroad.
+&emsp;(7) notwithstanding any other provision of law, to carry out projects involving securityconstruction and related improvements for overseas public diplomacy facilities not physically located together with other Department of State facilities abroad.
 
 (Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Pub. L. 87–139, §11, Aug. 14, 1961, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), Aug. 15, 1979, 93 Stat. 398–400; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title II, §217, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 100–204, title II, §205, Dec. 22, 1987, 101 Stat. 1374; Pub. L. 102–138, title II, §203, Oct. 28, 1991, 105 Stat. 692; Pub. L. 103–236, title II, §222, Apr. 30, 1994, 108 Stat. 421; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(4), Oct. 21, 1998, 112 Stat. 2681–787.)
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of former Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
+Pub. L. 96–60, title II, §209, Aug. 15, 1979, 93 Stat. 402, provided that: “The amendments made by sections 203 and 204 \[enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of former Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
 
 #### Transfer of Functions
 
@@ -72,7 +72,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Contractor Requirements
 
-Section 403 of Pub. L. 100–204 provided that:
+Pub. L. 100–204, title IV, §403, Dec. 22, 1987, 101 Stat. 1381, provided that:
 
 “(a)
 

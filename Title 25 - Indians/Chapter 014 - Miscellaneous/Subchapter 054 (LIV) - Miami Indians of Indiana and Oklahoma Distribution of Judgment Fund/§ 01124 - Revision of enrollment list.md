@@ -6,5 +6,5 @@ The Secretary of the Interior shall bring current to June 2, 1972, the roll prep
 
 #### Codification
 
-Section was not enacted as part of Pub. L. 89–659. Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
+Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
 

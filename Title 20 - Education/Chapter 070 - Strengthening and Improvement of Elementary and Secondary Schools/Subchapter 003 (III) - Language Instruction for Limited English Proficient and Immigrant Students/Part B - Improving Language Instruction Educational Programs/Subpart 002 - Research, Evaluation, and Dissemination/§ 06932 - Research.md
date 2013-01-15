@@ -20,7 +20,7 @@ Such research activities—
 
 #### (1) In general
 
-&emsp;The Secretary shall reserve not less than 5 percent of the funds made available to carryout this section for field-initiated research conducted by recipients of grants under subpart 1 of this part or this subpart who have received such grants within the previous 5 years. Such research may provide for longitudinal studies of limited English proficient children or teachers who serve such children, monitoring the education of such children from entry into language instruction educational programs through secondary school completion.
+&emsp;The Secretary shall reserve not less than 5 percent of the funds made available to carry out this section for field-initiated research conducted by recipients of grants under subpart 1 of this part or this subpart who have received such grants within the previous 5 years. Such research may provide for longitudinal studies of limited English proficient children or teachers who serve such children, monitoring the education of such children from entry into language instruction educational programs through secondary school completion.
 
 #### (2) Applications
 
@@ -66,7 +66,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;“(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
 
-&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
+&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, takinginto account the language and cultural differences of their students;
 
 &emsp;“(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this \[such\] title; and
 

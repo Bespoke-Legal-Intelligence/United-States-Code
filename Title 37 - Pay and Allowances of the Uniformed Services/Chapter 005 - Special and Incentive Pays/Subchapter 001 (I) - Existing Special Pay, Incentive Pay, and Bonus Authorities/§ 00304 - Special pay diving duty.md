@@ -74,5 +74,5 @@ Pub. L. 105–261, div. A, title VI, §616(b), Oct. 17, 1998, 112 Stat. 2041, pr
 
 #### Effective Date of 1987 Amendment
 
-Section 624(b) of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date.”
+Pub. L. 100–180, div. A, title VI, §624(b), Dec. 4, 1987, 101 Stat. 1104, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date.”
 

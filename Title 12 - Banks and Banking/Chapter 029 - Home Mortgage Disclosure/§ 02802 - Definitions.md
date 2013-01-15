@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 > &emsp;&emsp;which makes federally related mortgage loans as determined by the Board; and
 
-&emsp;&emsp;(B) includes any other lending institution (as defined in paragraph (4)) other than any institution described in subparagraph (A);
+&emsp;&emsp;(B) includes any other lending institution (as defined in paragraph (4) <sup>1</sup>) other than any institution described in subparagraph (A);
 
 &emsp;(4) the term “completed application” means an application in which the creditor has received the information that is regularly obtained in evaluating applications for the amount and type of credit requested;
 
@@ -46,9 +46,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1989 Amendment
 
-Section 1211(k) of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 2803, 2804, 2807, and 2810 of this title\] shall apply to each calendar year beginning after December 31, 1989.”
+Pub. L. 101–73, title XII, §1211(k), Aug. 9, 1989, 103 Stat. 526, provided that: “The amendments made by this section \[amending this section and sections 2803, 2804, 2807, and 2810 of this title\] shall apply to each calendar year beginning after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Section 565(a)(4) of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection \[amending sections 2802, 2803, and 2810 of this title\] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
+Pub. L. 100–242, title V, §565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amended by Pub. L. 100–628, title X, §1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection \[amending sections 2802, 2803, and 2810 of this title\] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (5)”.</i>
 

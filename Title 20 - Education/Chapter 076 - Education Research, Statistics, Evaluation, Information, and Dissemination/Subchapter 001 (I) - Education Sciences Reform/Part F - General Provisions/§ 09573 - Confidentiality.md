@@ -44,7 +44,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (2) Employee or staff violations
 
-&emsp;Whoever, being or having been an employee or staff member of the Department, havingtaken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2) of this section, knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2) of this section, and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2) of this section, knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2) of this section, and that comes into such employee or staff's possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (3) Temporary staff
 
@@ -58,7 +58,7 @@ The Director shall ensure that all individually identifiable information about s
 
 &emsp;For the purposes of this section—
 
-&emsp;&emsp;(A) the term “individually identifiable information” means any record, response form, completed survey, or aggregation thereof from which information about particular individuals may be revealed; and
+&emsp;&emsp;(A) the term “individually identifiable information” means any record, responseform, completed survey, or aggregation thereof from which information about particular individuals may be revealed; and
 
 &emsp;&emsp;(B) the term “report” means a response provided by or about an individual to an inquiry from the Director and does not include a statistical aggregation from which individually identifiable information cannot be revealed.
 

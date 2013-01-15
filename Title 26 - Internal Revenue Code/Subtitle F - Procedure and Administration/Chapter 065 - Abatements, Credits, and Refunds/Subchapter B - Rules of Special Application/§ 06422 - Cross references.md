@@ -80,7 +80,7 @@ Amendment by section 1906(a)(28) of Pub. L. 94–455 effective on first day of f
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–36 applicable only with respect to transfers after June 4, 1963, see section 202 of Pub. L. 88–36.
+Amendment by Pub. L. 88–36 applicable only with respect to transfers after June 4, 1963, see section 202 of Pub. L. 88–36, title II, June 4, 1963, 77 Stat. 54.
 
 #### Effective Date of 1958 Amendment
 

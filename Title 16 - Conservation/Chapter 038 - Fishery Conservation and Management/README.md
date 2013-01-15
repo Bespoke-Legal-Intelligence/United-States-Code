@@ -42,6 +42,7 @@
 | [1826j.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001826j%20-%20Illegal%2C%20unreported%2C%20or%20unregulated%20fishing.md) | Illegal, unreported, or unregulated fishing. |
 | [1826k.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001826k%20-%20Equivalent%20conservation%20measures.md) | Equivalent conservation measures. |
 | [1827\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001827%20-%20Observer%20program%20regarding%20certain%20foreign%20fishing.md) | Observer program regarding certain foreign fishing. |
+| [1827a.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001827a%20-%20Prohibition%20on%20sale%20of%20billfish.md) | Prohibition on sale of billfish. |
 | [1828\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001828%20-%20Foreign%20fishing%20incursions.md) | Foreign fishing incursions. |
 | [1829\.](Subchapter%20003%20%28III%29%20-%20Foreign%20Fishing%20and%20International%20Fishery%20Agreements/%C2%A7%2001829%20-%20International%20monitoring%20and%20compliance.md) | International monitoring and compliance. |
 

@@ -33,7 +33,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 32,000 | 2,500 | 760&nbsp;&nbsp; |
 | 34,000 | 2,600 | 780&nbsp;&nbsp; |
 | 36,000 | 2,700 | 800&nbsp;&nbsp; |
-| 38,000 | 2,800 | 820   |
+| 38,000 | 2,800 | 820&nbsp;&nbsp; |
 | 40,000 | 2,900 | 830&nbsp;&nbsp; |
 | 42,000 | 3,000 | 840&nbsp;&nbsp; |
 | &nbsp; |  |  |
@@ -84,7 +84,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 4,500 | 495 | 230&nbsp;&nbsp; |
 | 5,000 | 530 | 250&nbsp;&nbsp; |
 | 5,500 | 565 | 270&nbsp;&nbsp; |
-| 6,000 | 600 | 290&nbsp;&nbsp; |
+| 6,000 | 600 | 290   |
 | 7,000 | 670 | 330&nbsp;&nbsp; |
 | 8,000 | 740 | 370&nbsp;&nbsp; |
 | 10,000 | 800 | 400&nbsp;&nbsp; |
@@ -149,7 +149,7 @@ Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) 
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscalyear limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added subsec. (c).
 

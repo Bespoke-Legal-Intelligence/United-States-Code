@@ -12,9 +12,9 @@ The Secretary is authorized, notwithstanding any other provision of this chapter
 
 #### (b) Approval by Secretary of financial settlement of urban renewal project
 
-Upon application by any local public agency carrying out an urban renewal project under title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\], which application is approved by the governing body of the unit of general local government in which the project is located, the Secretary may approve a financial settlement of such project if he finds that a surplus of capital grant funds after full repayment of temporary loan indebtedness will result and may authorize the unit of general local government to use such surplus funds, without deduction or offset, in accordance with the provisions of this chapter.
+Upon application by any local public agency carrying out an urban renewal project under title I of the Housing Act of 1949 \[42 U.S.C. 1450et seq.\], which application is approved by the governing body of the unit of general local government in which the project is located, the Secretary may approve a financial settlement of such project if he finds that a surplus of capital grant funds after full repayment of temporary loan indebtedness will result and may authorize the unit of general local government to use such surplus funds, without deduction or offset, in accordance with the provisions of this chapter.
 
-(Pub. L. 93–383, title I, §112, Aug. 22, 1974, 88 Stat. 650; Pub. L. 97–35, title III, §309(k), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I, §109, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title I, §101(a)(13)(A), Oct. 17, 1984, 98 Stat. 2220.)
+(Pub. L. 93–383, title I, §112, Aug. 22, 1974, 88 Stat. 650; Pub. L. 97–35, title III, §309(k), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I \[title I, §109\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title I, §101(a)(13)(A), Oct. 17, 1984, 98 Stat. 2220.)
 
 #### References in Text
 

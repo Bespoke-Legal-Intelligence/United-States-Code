@@ -6,7 +6,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 #### (b) Consultation by Secretary with other Federal departments and agencies on development and publication in Federal Register of proposed regulations; required regulatory provisions; standards and procedures; rental units
 
-(1) The Secretary, after consultation with the Director, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Labor, andthe heads of such other Federal departments and agencies as the Secretary deems appropriate, shall develop and publish in the Federal Register for public comment, not later than 60 days after August 14, 1976, proposed regulations to carry out the provisions of this part. The Secretary shall take into consideration comments submitted regarding such proposed regulations and shall promulgate and publish final regulations for such purpose not later than 90 days after August 14, 1976. The development of regulations under this part shall be fully coordinated with the Director.
+(1) The Secretary, after consultation with the Director, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Labor, and the heads of such other Federal departments and agencies as the Secretary deems appropriate, shall develop and publish in the Federal Register for public comment, not later than 60 days after August 14, 1976, proposed regulations to carry out the provisions of this part. The Secretary shall take into consideration comments submitted regarding such proposed regulations and shall promulgate and publish final regulations for such purpose not later than 90 days after August 14, 1976. The development of regulations under this part shall be fully coordinated with the Director.
 
 (2) The regulations promulgated pursuant to this section shall include provisions—
 
@@ -56,7 +56,7 @@ If a State does not, within 90 days after the date on which final regulations ar
 
 Notwithstanding any other provision of law, the Secretary may transfer to the Director sums appropriated under this part to be utilized in order to carry out programs, under section 222(a)(12) of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], which further the purpose of this part.
 
-(Pub. L. 94–385, title IV, §413, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–619, title II, §231(a)(2), (b)(1), Nov. 9, 1978, 92 Stat. 3224; Pub. L. 96–294, title V, §§573(b), 574, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–479, title II, §201(h), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–440, §7(b), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 103–82, title IV, §405(<i>l</i>), Sept. 21, 1993, 107 Stat. 922.)
+(Pub. L. 94–385, title IV, §413, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–619, title II, §231(a)(2), (b)(1), Nov. 9, 1978, 92 Stat. 3224; Pub. L. 96–294, title V, §§573(b), 574, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–479, title II, §201(h), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–440, §7(b), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 103–82, title IV, §405(l), Sept. 21, 1993, 107 Stat. 922.)
 
 #### References in Text
 

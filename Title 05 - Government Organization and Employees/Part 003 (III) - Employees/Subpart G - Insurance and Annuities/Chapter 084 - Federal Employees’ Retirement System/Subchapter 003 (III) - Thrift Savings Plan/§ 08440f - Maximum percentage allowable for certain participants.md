@@ -38,7 +38,7 @@
 
 (b) Notwithstanding any limitation under this section, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 
-(Added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(7)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; amended Pub. L. 107–304, §1(b)(2), Nov. 27, 2002, 116 Stat. 2363.)
+(Added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(7)(A)\], Dec. 21, 2000, 114 Stat. 2763,2763A–234; amended Pub. L. 107–304, §1(b)(2), Nov. 27, 2002, 116 Stat. 2363.)
 
 #### References in Text
 

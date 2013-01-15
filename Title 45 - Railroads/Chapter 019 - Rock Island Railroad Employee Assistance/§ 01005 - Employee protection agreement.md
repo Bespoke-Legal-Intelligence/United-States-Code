@@ -2,7 +2,7 @@
 
 #### (a) Authorization; time for agreement; use of funds
 
-The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affected as a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
+The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affectedas a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
 
 &emsp;(1) Subsistence allowances to employees.
 
@@ -22,7 +22,7 @@ If the parties are unable to reach agreement within the time period specified in
 
 #### (c) Limitations on funds
 
-Any agreement entered into under subsection (a) of this section, and any benefit schedule prescribed under subsection (b) of this section, shall not require the expenditure of funds in excess of amounts authorized to be appropriated under section 727(f)(1)(C) of this title, nor shall any individual employee receive benefits in excess of$20,000 under such agreement or benefit schedule. No benefits or assistance may be provided under any agreement entered into or benefit schedule prescribed under this section after April 1, 1984.
+Any agreement entered into under subsection (a) of this section, and any benefit schedule prescribed under subsection (b) of this section, shall not require the expenditure of funds in excess of amounts authorized to be appropriated under section 727(f)(1)(C) of this title, nor shall any individual employee receive benefits in excess of $20,000 under such agreement or benefit schedule. No benefits or assistance may be provided under any agreement entered into or benefit schedule prescribed under this section after April 1, 1984.
 
 #### (d) Administration of funds; promulgation of regulations
 

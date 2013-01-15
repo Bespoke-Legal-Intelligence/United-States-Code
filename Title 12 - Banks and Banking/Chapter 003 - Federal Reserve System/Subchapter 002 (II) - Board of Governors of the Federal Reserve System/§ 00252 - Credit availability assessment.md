@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) the range of credit options available to small businesses, such as those available from insured depository institutions and other providers of credit;
 
-&emsp;&emsp;(D) the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines ofcredit, home equity loans, credit cards, and other sources of financing;
+&emsp;&emsp;(D) the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines of credit, home equity loans, credit cards, and other sources of financing;
 
 &emsp;&emsp;(E) the credit needs of small businesses, including, if appropriate, the extent to which such needs differ, based upon product type, size of business, cash flow requirements, characteristics of ownership or investors, or other aspects of such business;
 
@@ -52,7 +52,7 @@ Report.—Before the end of the 5-year period beginning on the date of the enact
 
 #### Definitions
 
-Section 2001(c) of title II of div. A of Pub. L. 104–208, provided that: “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
+Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
 
 &emsp;“(1)
 

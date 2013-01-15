@@ -6,7 +6,7 @@ Prohibition on Disclosure.—The proceedings of a selection board convened under
 
 (b)
 
-Prohibited Uses of Board Discussions, Deliberations, Notes, and Records.—The discussions and deliberations of a selection boarddescribed in subsection (a) and any written or documentary record of such discussions and deliberations—
+Prohibited Uses of Board Discussions, Deliberations, Notes, and Records.—The discussions and deliberations of a selection board described in subsection (a) and any written or documentary record of such discussions and deliberations—
 
 &emsp;(1) are immune from legal process;
 

@@ -10,5 +10,5 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 #### Short Title
 
-Section 1 of Pub. L. 101–446 provided that: “This Act \[enacting this section and sections 2223b to 2223e of this title\] may be cited as the ‘Firefighters’ Safety Study Act’.”
+Pub. L. 101–446, §1, Oct. 22, 1990, 104 Stat. 1045, provided that: “This Act \[enacting this section and sections 2223b to 2223e of this title\] may be cited as the ‘Firefighters’ Safety Study Act’.”
 

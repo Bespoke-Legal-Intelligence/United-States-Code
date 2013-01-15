@@ -54,7 +54,7 @@
 | :--- | ---: |
 | [1461\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461%20-%20General%20authorization.md) | General authorization. |
 | 1461–1. | Mission of United States Information Agency. |
-| 1461–1a. | Ban on domestic activities by United States Information Agency. |
+| 1461–1a. | Clarification on domestic distribution of program material. |
 | [1461a.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461a%20-%20Omitted.md) | Omitted. |
 | [1461b.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461b%20-%20Indemnification%20of%20owners%20of%20short-wave%20radio%20facilities%20against%20loss%20or%20damage.md) | Indemnification of owners of short-wave radio facilities against loss or damage. |
 | [1461c.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461c%20-%20Omitted.md) | Omitted. |

@@ -1,6 +1,6 @@
 ### §4126. Prison Industries Fund; use and settlement of accounts
 
-(a) All moneys under the control of Federal Prison Industries, or received from the sale ofthe products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the Government Accountability Office.
+(a) All moneys under the control of Federal Prison Industries, or received from the sale of the products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the Government Accountability Office.
 
 (b) All valid claims and obligations payable out of said fund shall be assumed by the corporation.
 
@@ -28,11 +28,11 @@
 
 #### 1948 Act
 
-Based on title 18, U.S.C., 1940 ed., §§744d, 744e, 744f, 744<i>l</i> (May 27, 1930, ch. 340, §§4–6, 46 Stat. 391, 392; June 23, 1934, ch. 736, §4, 48 Stat. 1211).
+Based on title 18, U.S.C., 1940 ed., §§744d, 744e, 744f, 744l (May 27, 1930, ch. 340, §§4–6, 46 Stat. 391, 392; June 23, 1934, ch. 736, §4, 48 Stat. 1211).
 
-This section is a restatement of section 744<i>l</i> of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of section 744e of title 18, U.S.C., 1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744<i>l</i> of title 18, U.S.C., 1940 ed., in connection with other provisions of the act of June 23, 1934, ch. 736, 48 Stat. 1211.
+This section is a restatement of section 744l of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of section 744e of title 18, U.S.C., 1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744l of title 18, U.S.C., 1940 ed., in connection with other provisions of the act of June 23, 1934, ch. 736, 48 Stat. 1211.
 
-The first sentence of section 744<i>l</i> of title 18, U.S.C., 1940 ed., authorizing replacement of the prison industries working capital fund by the prison industries fund was omitted, as executed. That provision superseded section 744d of title 18, U.S.C., 1940 ed., which authorized creation of the prison industries working capital fund and the first sentence of section 744e of title 18, U.S.C., 1940 ed., directing that certain funds should be credited to the consolidated prison industries working capital fund.
+The first sentence of section 744l of title 18, U.S.C., 1940 ed., authorizing replacement of the prison industries working capital fund by the prison industries fund was omitted, as executed. That provision superseded section 744d of title 18, U.S.C., 1940 ed., which authorized creation of the prison industries working capital fund and the first sentence of section 744e of title 18, U.S.C., 1940 ed., directing that certain funds should be credited to the consolidated prison industries working capital fund.
 
 The phrase “or received from the sale of the products or by-products of such Industries, or for the services of Federal prisoners,” was inserted to make the first paragraph of this section complete, and required the Federal Prison Industries to account for all moneys under its control.
 

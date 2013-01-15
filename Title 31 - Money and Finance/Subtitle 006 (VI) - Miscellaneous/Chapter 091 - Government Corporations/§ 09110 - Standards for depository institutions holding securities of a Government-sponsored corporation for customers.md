@@ -34,7 +34,7 @@ Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec.
 
 Clauses (i) through (vi) of subparagraph \[section\] 19(b)(1)(A) of the Federal Reserve Act, referred to in subsec. (e)(1), are classified to section 461(b)(1)(A)(i) to (vi) of Title 12.
 
-The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat.607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
+The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
 #### Amendments
 
@@ -42,11 +42,11 @@ The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L.
 
 #### Effective Date; Promulgation of Regulations
 
-Section effective 270 days after Oct. 28, 1986, except that the Secretary of the Treasury and each appropriate regulatory agency shall publish for notice and public comment within 120 days after Oct. 28, 1986, initial implementing regulations to become effective as temporary regulations 210 days after Oct. 28, 1986, and as final regulations not later than 270 days after Oct. 28, 1986, see title IV of Pub. L. 99–571, set out as a note under section 78<i>o</i>–5 of Title 15, Commerce and Trade.
+Section effective 270 days after Oct. 28, 1986, except that the Secretary of the Treasury and each appropriate regulatory agency shall publish for notice and public comment within 120 days after Oct. 28, 1986, initial implementing regulations to become effective as temporary regulations 210 days after Oct. 28, 1986, and as final regulations not later than 270 days after Oct. 28, 1986, see title IV of Pub. L. 99–571, set out as a note under section 78o–5 of Title 15, Commerce and Trade.
 
 #### Transitional and Savings Provisions
 
-For transitional and savings provisions of Pub. L. 99–571, see section 301 of Pub. L. 99–571, set out as a note under section 78<i>o</i>–5 of Title 15, Commerce and Trade.
+For transitional and savings provisions of Pub. L. 99–571, see section 301 of Pub. L. 99–571, set out as a note under section 78o–5 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

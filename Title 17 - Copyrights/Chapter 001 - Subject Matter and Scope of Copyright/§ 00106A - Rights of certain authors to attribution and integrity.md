@@ -42,7 +42,7 @@ Duration of Rights.—(1) With respect to works of visual art created on or afte
 
 (e)
 
-Transfer and Waiver.—(1) The rights conferred by subsection (a) may not be transferred, but those rights may be waived if the author expressly agrees to such waiver in a written instrument signed by the author. Such instrument shall specifically identify the work, and uses of that work, to which the waiver applies, and the waiver shall apply only to the work and uses so identified. In the case of a joint work preparedby two or more authors, a waiver of rights under this paragraph made by one such author waives such rights for all such authors.
+Transfer and Waiver.—(1) The rights conferred by subsection (a) may not be transferred, but those rights may be waived if the author expressly agrees to such waiver in a written instrument signed by the author. Such instrument shall specifically identify the work, and uses of that work, to which the waiver applies, and the waiver shall apply only to the work and uses so identified. In the case of a joint work prepared by two or more authors, a waiver of rights under this paragraph made by one such author waives such rights for all such authors.
 
 (2) Ownership of the rights conferred by subsection (a) with respect to a work of visual art is distinct from ownership of any copy of that work, or of a copyright or any exclusive right under a copyright in that work. Transfer of ownership of any copy of a work of visual art, or of a copyright or any exclusive right under a copyright, shall not constitute a waiver of the rights conferred by subsection (a). Except as may otherwise be agreed by the author in a written instrument signed by the author, a waiver of the rights conferred by subsection (a) with respect to a work of visual art shall not constitute a transfer of ownership of any copy of that work, or of ownership of a copyright or of any exclusive right under a copyright in that work.
 
@@ -54,7 +54,7 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 
 #### Effective Date
 
-Section 610 of title VI of Pub. L. 101–650 provided that:
+Pub. L. 101–650, title VI, §610, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
 “(a)
 
@@ -74,7 +74,7 @@ Section 608.—Section 608 \[set out below\] takes effect on the date of the ena
 
 #### Studies by Copyright Office
 
-Section 608 of Pub. L. 101–650 provided that:
+Pub. L. 101–650, title VI, §608, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
 “(a)
 

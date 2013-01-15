@@ -42,7 +42,7 @@ In determining whether or not probable cause exists for purposes of an order und
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy andproduce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
 &emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
 
@@ -92,7 +92,7 @@ In determining whether or not probable cause exists for purposes of an order und
 
 #### (f) Testing of electronic equipment; discovering unauthorized electronic surveillance; training of intelligence personnel
 
-Notwithstanding any other provision of this subchapter, officers, employees, or agents of theUnited States are authorized in the normal course of their official duties to conduct electronic surveillance not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to—
+Notwithstanding any other provision of this subchapter, officers, employees, or agents of the United States are authorized in the normal course of their official duties to conduct electronic surveillance not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to—
 
 &emsp;(1) test the capability of electronic equipment, if—
 
@@ -148,7 +148,7 @@ In any case in which the Government makes an application to a judge under this s
 
 &emsp;&emsp;<i>(A) that the minimization procedures be followed;</i>
 
-&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
+&emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified per</i><i>son furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
 
 &emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
 
@@ -206,7 +206,7 @@ Subsec. (c)(1)(F). Pub. L. 109–177, §108(b)(2), substituted period for “; 
 
 Subsec. (c)(2). Pub. L. 109–177, §108(b)(3), inserted par. heading and substituted “An order approving an electronic surveillance under this section shall direct” for “direct” in introductory provisions.
 
-<b>2006</b>—Subsec. (c)(2). Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended par. (2), effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
+Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended par. (2), effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
 
 Subsec. (c)(2)(B). Pub. L. 109–177, §108(a)(2)(B), substituted “where the Court finds, based upon specific facts provided in the application,” for “where the Court finds”.
 
@@ -278,7 +278,7 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of Title 47, Telecommunications.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

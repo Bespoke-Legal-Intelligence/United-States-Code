@@ -52,7 +52,7 @@
 
 #### (B) Multistate employers
 
-&emsp;&emsp;An employer that has employees who are employed in 2 or more States and that transmits reports magnetically or electronically may comply with subparagraph (A) by designating 1 State in which such employer has employees to which the employer will transmit the report described in subparagraph (A), and transmitting such report to such State. Any employer that transmits reports pursuant to this subparagraph shall notify the Secretary in writing as to which State such employer designates for the purpose of sending reports.
+&emsp;&emsp;An employer that has employees who are employed in 2 or more States and that transmits reports magnetically or electronically may comply with subparagraph (A) by designating 1 State in which such employer has employees to which the employer will transmit the report described in subparagraph (A), and transmitting such report to such State. Any employer that transmits reports pursuant to this subparagraph shall notify the Secretary in writing as to which Statesuch employer designates for the purpose of sending reports.
 
 #### (C) Federal Government employers
 
@@ -124,7 +124,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (3) Administration of employment security and workers’ compensation
 
-&emsp;State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
+&emsp;State agencies operating employment security and workers’ compensation programsshall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
 (Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, §253(a), Oct. 21, 2011, 125 Stat. 422.)
 
@@ -142,7 +142,7 @@ Subsec. (c). Pub. L. 111–291, §802(b), inserted “, to the extent practicab
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
-Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports requiredunder section 503(a)(6) of this title to be made to the Secretary of Labor”.
+Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
 
 #### Effective Date of 2011 Amendment
 

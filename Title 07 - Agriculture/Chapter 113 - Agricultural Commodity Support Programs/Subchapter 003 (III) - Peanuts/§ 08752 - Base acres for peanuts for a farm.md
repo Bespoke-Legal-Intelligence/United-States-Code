@@ -16,7 +16,7 @@
 
 #### (2) Special conservation reserve acreage payment rules
 
-&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or\(B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+&emsp;For the crop year in which a base acres for peanuts adjustment under subparagraph (A) or (B) of paragraph (1) is first made, the owner of the farm shall elect to receive either direct payments and counter-cyclical payments with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
 
 #### (b) Prevention of excess base acres for peanuts
 

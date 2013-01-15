@@ -2,7 +2,7 @@
 
 #### (a) Purpose; authorization of grants and loans; considerations; conditions on loans; appropriations
 
-(1) For the purpose of encouraging the establishment and initial operation of home health programs to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
+(1) For the purpose of encouraging the establishment and initial operation of home healthprograms to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
 
 (2) In making grants and loans under this subsection, the Secretary shall—
 
@@ -70,7 +70,7 @@ Subsections (a) and (b) of this section (as such subsections were in effect prio
 
 #### Prior Provisions
 
-A prior section 255, act July 1, 1944, ch. 373, title III, §339, as added Nov. 10, 1978, Pub. L. 95–626, title II, §207(a), 92 Stat. 3585, related to grant authority, etc., for home health services, prior to repeal by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
+A prior section 255, act July 1, 1944, ch. 373, title III, §339, as added Nov. 10, 1978, Pub. L. 95–626, title II, §207(a), 92 Stat. 3585, related to grant authority, etc.,for home health services, prior to repeal by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 Another prior section 339 of act July 1, 1944, ch. 373, title III, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; July 12, 1960, Pub. L. 86–624, §29(b), 74 Stat. 419; renumbered §339, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268, which related to reception of persons suffering from leprosy in any hospital, was renumbered section 320 of act July 1, 1944, and transferred to section 247e of this title.
 

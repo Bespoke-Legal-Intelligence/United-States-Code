@@ -2,7 +2,7 @@
 
 The names of applicants who have qualified in examinations for the competitive service shall be entered on appropriate registers or lists of eligibles in the following order—
 
-&emsp;(1) for scientific and professional positions in GS–9 or higher, in the order of their ratings, including points added under section 3309 of this title; and
+&emsp;(1) for scientific and professional positions in GS–9 or higher, in the order of their ratings,including points added under section 3309 of this title; and
 
 &emsp;(2) for all other positions—
 

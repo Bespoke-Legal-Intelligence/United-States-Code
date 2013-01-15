@@ -38,7 +38,7 @@ As used in this subchapter—
 
 #### (7) Import
 
-&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on,bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 #### (8) Medical device
 
@@ -50,7 +50,7 @@ As used in this subchapter—
 
 #### (9) Montreal Protocol
 
-&emsp;The terms “Montreal Protocol” and “the Protocol” mean the Montreal Protocol on Substances that Deplete the Ozone Layer, a protocol to the Vienna Convention for the Protection of the Ozone Layer, including adjustments adopted by Parties thereto and amendments that have entered into force.
+&emsp;The terms “Montreal Protocol” and “the Protocol” mean the Montreal Protocol onSubstances that Deplete the Ozone Layer, a protocol to the Vienna Convention for the Protection of the Ozone Layer, including adjustments adopted by Parties thereto and amendments that have entered into force.
 
 #### (10) Ozone-depletion potential
 

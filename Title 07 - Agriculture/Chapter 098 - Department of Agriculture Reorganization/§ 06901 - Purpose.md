@@ -14,7 +14,7 @@ Pub. L. 106–222, §1, June 20, 2000, 114 Stat. 353, provided that: “This Act
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–354 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994’.”
+Pub. L. 103–354, §1(a), Oct. 13, 1994, 108 Stat. 3178, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994’.”
 
-Section 201(a) of title II of Pub. L. 103–354 provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Agriculture Reorganization Act of 1994’.”
+Pub. L. 103–354, title II, §201(a), Oct. 13, 1994, 108 Stat. 3209, provided that: “This title \[see Tables for classification\] may be cited as the ‘Department of Agriculture Reorganization Act of 1994’.”
 

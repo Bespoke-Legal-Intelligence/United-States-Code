@@ -10,11 +10,9 @@ The Secretary shall establish under this subchapter a Medicare Improvement Fund 
 
 &emsp;There shall be available to the Fund, for expenditures from the Fund for services furnished during—
 
-&emsp;&emsp;(A) fiscal year 2014, $0;
+&emsp;&emsp;(A) fiscal year 2014, $0; and
 
-&emsp;&emsp;(B) fiscal year 2015, $275,000,000; and
-
-&emsp;&emsp;(C) fiscal year 2020 and each subsequent fiscal year, the Secretary's estimate, as of July 1 of the fiscal year, of the aggregate reduction in expenditures under this subchapter during the preceding fiscal year directly resulting from the reduction in payment amounts under sections 1395w–4(a)(7), 1395w–23(<i>l</i>)(4), 1395w–23(m)(4), and 1395ww(b)(3)(B)(ix) of this title.
+&emsp;&emsp;(B) fiscal year 2015, $0.
 
 #### (2) Payment from Trust Funds
 
@@ -28,9 +26,17 @@ The Secretary shall establish under this subchapter a Medicare Improvement Fund 
 
 &emsp;In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–240 added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) fiscal year 2014, $0;
+
+“(B) fiscal year 2015, $275,000,000; and
+
+“(C) fiscal year 2020 and each subsequent fiscal year, the Secretary's estimate, as of July 1 of the fiscal year, of the aggregate reduction in expenditures under this subchapter during the preceding fiscal year directly resulting from the reduction in payment amounts under sections 1395w–4(a)(7), 1395w–23(l)(4), 1395w–23(m)(4), and 1395ww(b)(3)(B)(ix) of this title.”
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–148, which directed substitution of “$0” for “$22,290,000,000”, was executed by making the substitution for “$20,740,000,000” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–118, §1011(b)(1)(A). See 2009 Amendment note below.
 

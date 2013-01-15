@@ -4,7 +4,7 @@
 
 (b) Nothing in this section may be considered to authorize the conducting of any demonstration program by the Secretary of Housing and Urban Development.
 
-(Pub. L. 98–181, title IV, §470, Nov. 30, 1983, 97 Stat. 1237.)
+(Pub. L. 98–181, title I \[title IV, §470\], Nov. 30, 1983, 97 Stat. 1237.)
 
 #### Codification
 

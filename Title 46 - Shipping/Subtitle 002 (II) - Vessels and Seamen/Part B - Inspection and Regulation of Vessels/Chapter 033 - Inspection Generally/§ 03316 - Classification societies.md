@@ -12,9 +12,11 @@
 
 (2) The Secretary may make a delegation under paragraph (1) to a foreign classification society only—
 
-&emsp;(A) to the extent that the government of the foreign country in which the society is headquartered delegates authority and provides access to the American Bureau of Shipping to inspect, certify, and provide related services to vessels documented in that country; and
+&emsp;(A) to the extent that the government of the foreign country in which the society is headquartered delegates authority and provides access to the American Bureau of Shipping to inspect, certify, and provide related services to vessels documented in that country;
 
-&emsp;(B) if the foreign classification society has offices and maintains records in the United States.
+&emsp;(B) if the foreign classification society has offices and maintains records in the United States; and
+
+&emsp;(C) if the Secretary of State determines that the foreign classification society does not provide comparable services in or for a state sponsor of terrorism.
 
 (3) When an inspection or examination has been delegated under this subsection, the Secretary's delegate—
 
@@ -26,7 +28,7 @@
 
 &emsp;&emsp;(ii) in writing by the Secretary to have access to those files.
 
-(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
+(c)(1) A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in theUnited States unless the society has applied for approval under this subsection and the Secretary has reviewed and approved that society with respect to the conduct of that society under paragraph (2).
 
 (2) The Secretary may approve a person for purposes of paragraph (1) only if the Secretary determines that—
 
@@ -50,7 +52,7 @@
 
 (2) The Secretary may make a delegation under paragraph (1) to a foreign classification society only if—
 
-&emsp;(A) the foreign society has offices and maintains records in the United States; and
+&emsp;(A) the foreign society has offices and maintains records in the United States;
 
 &emsp;(B)(i) the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
 
@@ -58,7 +60,9 @@
 
 &emsp;&emsp;(I) ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
 
-&emsp;&emsp;(II) is in full accord with principles of reciprocity in regards to any delegation contemplated by the Secretary under paragraph (1).
+&emsp;&emsp;(II) is in full accord with principles of reciprocity in regards to any delegation contemplated by the Secretary under paragraph (1); and
+
+&emsp;(C) the Secretary of State determines that the foreign classification society does not provide comparable services in or for a state sponsor of terrorism.
 
 (3) If an inspection or examination is conducted under authority delegated under this subsection, the person to which the authority was delegated—
 
@@ -76,7 +80,11 @@
 
 &emsp;(B) the term “United States offshore facility” means any offshore facility, fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the territorial sea of the United States or the outer Continental Shelf (as that term is defined in section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331)), including any vessel, rig, platform, or other vehicle or structure subject to regulation under section 30 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978.)
+(e) The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
+
+(f) In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563.)
 
 Historical and Revision Notes
 
@@ -92,11 +100,27 @@ Historical and Revision Notes
 
 46:881
 
-Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodicsurvey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
+Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safetyand the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
 
 The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a “similar classification society” continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
+#### References in Text
+
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (f), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+
+The International Emergency Economic Powers Act, referred to in subsec. (f), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (f), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+
+Section 40 of the Arms Export Control Act, referred to in subsec. (f), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(C). Pub. L. 112–213, §304(1), added subpar. (C).
+
+Subsec. (d)(2)(C). Pub. L. 112–213, §304(2), added subpar. (C).
+
+Subsecs. (e), (f). Pub. L. 112–213, §304(3), added subsecs. (e) and (f).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–281, §622(b), added par. (1) and struck out former par. (1) which read as follows: “A classification society (including an employee or agent of that society) may not review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States unless—
 

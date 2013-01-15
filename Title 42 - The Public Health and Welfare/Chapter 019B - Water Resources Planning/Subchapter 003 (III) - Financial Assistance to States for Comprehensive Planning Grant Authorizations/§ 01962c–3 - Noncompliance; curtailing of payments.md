@@ -6,7 +6,7 @@ Whenever the Council after reasonable notice and opportunity for hearing to a St
 
 &emsp;(b) in the administration of the program there is a failure to comply substantially with such a requirement,
 
-> the Council shall notify such agency that no further payments will be made to the State underthis subchapter until it is satisfied that there will no longer be any such failure. Until the Council is so satisfied, it shall make no further payments to such State under this subchapter.
+> the Council shall notify such agency that no further payments will be made to the State under this subchapter until it is satisfied that there will no longer be any such failure. Until the Council is so satisfied, it shall make no further payments to such State under this subchapter.
 
 (Pub. L. 89–80, title III, §304, July 22, 1965, 79 Stat. 252.)
 

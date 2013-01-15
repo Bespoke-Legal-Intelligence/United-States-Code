@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;The term “eligible program” means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into the curriculum for 1 or more grades at 2 or more eligible schools; or
+&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into thecurriculum for 1 or more grades at 2 or more eligible schools; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a community-based summer program with hands-on vegetable gardening and nutrition education that is part of, or coordinated with, a summer enrichment program at 2 or more eligible schools.
 
@@ -220,7 +220,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shall conduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
+&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shallconduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
 
 #### (B) Impact assessment
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;&emsp;The evaluation shall assess the impact of this subsection separately on—
 
-&emsp;&emsp;&emsp;&emsp;(I) children in households with incomes less than 130 percent of the applicable family income levels contained in thenonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) children in households with incomes less than 130 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) children in households with incomes greater than 130 percent and not greater than 185 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
 
@@ -304,7 +304,7 @@
 
 &emsp;&emsp;There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156;Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
 
 #### References in Text
 
@@ -480,7 +480,7 @@ Pub. L. 109–97, title VII, §777(b), Nov. 10, 2005, 119 Stat. 2161, provided t
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005, and amendment by sections 116(f)(2), (4), (5) and 120 to 124 of Pub. L. 108–265 effectiveJune 30, 2004, see section 502(a), (b)(3) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
+Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005, and amendment by sections 116(f)(2), (4), (5) and 120 to 124 of Pub. L. 108–265 effective June 30, 2004, see section 502(a), (b)(3) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1992 Amendment
 
-Section 104 of title I of Pub. L. 102–512 provided that: “This title \[amending this section and section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992.”
+Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that: “This title \[amending this section and section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992.”
 
 #### Effective Date of 1978 Amendment
 
@@ -508,7 +508,7 @@ Pub. L. 102–342, title I, §101(b), Aug. 14, 1992, 106 Stat. 911, as amended b
 
 #### Alternative Counting and Claiming Procedures; Promulgation of Regulations
 
-Section 205(b) of Pub. L. 101–147 provided that not later than July 1, 1990, Secretary of Agriculture was to issue final regulations to implement subsec. (g) of this section.
+Pub. L. 101–147, title II, §205(b), Nov. 10, 1989, 103 Stat. 911, provided that not later than July 1, 1990, Secretary of Agriculture was to issue final regulations to implement subsec. (g) of this section.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

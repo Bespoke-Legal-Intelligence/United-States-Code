@@ -28,7 +28,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (c) Criteria
 
-The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
+The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection\(b)(2)(A) of this section on the basis of thresholds or criteria such as—
 
 &emsp;(1) the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
 
@@ -62,7 +62,7 @@ Section 1504 of title 21, referred to in subsec. (e), was repealed by Pub. L. 10
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted “recipient of assistance under the NativeAmerican Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title”.
 
 Pub. L. 105–276, §220(3), inserted “an Indian tribe” after “resident management corporation,”.
 

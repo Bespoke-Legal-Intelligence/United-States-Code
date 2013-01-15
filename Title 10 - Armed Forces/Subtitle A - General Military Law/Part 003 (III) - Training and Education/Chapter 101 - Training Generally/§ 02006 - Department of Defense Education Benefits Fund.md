@@ -20,9 +20,9 @@
 
 &emsp;&emsp;(D) The present value of future benefits payable from the Fund for the Department of Defense portion of payments of educational assistance under subchapter II of chapter 30 of title 38 attributable to increased usage of benefits as a result of transfers of entitlement to basic educational assistance under section 3020 of that title during such period.
 
-&emsp;&emsp;(E) <sup>1</sup> The present value of future benefits payable from the Fund for educational assistance under paragraphs (3) and (4) of section 510(e) of this title to persons who during such period become entitled to such assistance.
+&emsp;&emsp;(E) The present value of future benefits payable from the Fund for educational assistance under paragraphs (3) and (4) of section 510(e) of this title to persons who during such period become entitled to such assistance.
 
-&emsp;&emsp;(E) <sup>1</sup> The present value of any future benefits payable from the Fund for amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
+&emsp;&emsp;(F) The present value of any future benefits payable from the Fund for amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38.
 
 (c) There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
@@ -42,7 +42,7 @@
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
 
-(5) Based on the determinations under paragraphs (2), (3), and (4) the Secretary of Defense shall determine the amount needed to be appropriated to the Department of Defense and the Department in which the Coast Guard is operating for the next fiscal year for payments to be made to the Fund under subsection (f). The President shall include not less than the full amount so determined in the budget transmitted to Congress for the next fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
+(5) Based on the determinations under paragraphs (2), (3), and (4) the Secretary of Defense shall determine the amount needed to be appropriated to the Department of Defense and the Department in which the Coast Guard is operating for the next fiscal year for payments to bemade to the Fund under subsection (f). The President shall include not less than the full amount so determined in the budget transmitted to Congress for the next fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 
 (6) All determinations under this subsection shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
@@ -56,11 +56,13 @@
 
 (3) Amounts paid into the Fund under this subsection shall be paid from appropriations available for the pay of members of the armed forces under the jurisdiction of the Secretary concerned.
 
-(g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparablematurities. The income on such investments shall be credited to and form a part of the Fund.
+(g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, §109(b)(2), Jan. 4, 2011, 124 Stat. 4120.)
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–377, title I, §109(b)(2), Jan. 4, 2011, 124 Stat. 4120; Pub. L. 112–239, div. A, title X, §1076(f)(23), Jan. 2, 2013, 126 Stat. 1953.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(F). Pub. L. 112–239 redesignated subpar. (E) relating to amounts attributable to increased amounts of educational assistance authorized by section 3316 of title 38 as (F).
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 111–377, §109(b)(2)(A), inserted “or 33” after “chapter 30”.
 
@@ -126,7 +128,7 @@ Pub. L. 111–377, title I, §109(c), Jan. 4, 2011, 124 Stat. 4120, provided tha
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Transfer of Functions
 
@@ -134,11 +136,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### First Payment Into Fund
 
-Section 706(b) of Pub. L. 98–525 directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
-
-<i><sup>1</sup></i><i> So in original. Two subpars. (E) have been enacted.</i>
+Pub. L. 98–525, title VII, §706(b), Oct. 19, 1984, 98 Stat. 2570, directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
 

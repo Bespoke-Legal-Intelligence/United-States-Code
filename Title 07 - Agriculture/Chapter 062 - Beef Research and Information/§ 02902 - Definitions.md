@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) the term “beef” means flesh of cattle;
 
-&emsp;(2) the term “beef products” means edible products produced in whole or in part from beef, exclusive of milk and products made therefrom;
+&emsp;(2) the term “beef products” means edible products produced in whole or in part frombeef, exclusive of milk and products made therefrom;
 
 &emsp;(3) the term “Board” means the Cattlemen's Beef Promotion and Research Board established under section 2904(1) of this title;
 
@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “Committee” means the Beef Promotion Operating Committee established under section 2904(5) of this title;
 
-&emsp;(6) the term “consumer information” means nutritional data and other information thatwill assist consumers and other persons in making evaluations and decisions regarding the purchasing, preparing, and use of beef and beef products;
+&emsp;(6) the term “consumer information” means nutritional data and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchasing, preparing, and use of beef and beef products;
 
 &emsp;(7) the term “Department” means the Department of Agriculture.<sup>1</sup>
 

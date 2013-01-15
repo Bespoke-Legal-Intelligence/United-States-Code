@@ -34,7 +34,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(C) For purposes of this paragraph—
 
-&emsp;&emsp;(i) a “spoken word recording” is a sound recording in which are fixed only a series of spoken words, except that the spoken words may be accompanied by incidental musical or other sounds, and
+&emsp;&emsp;(i) a “spoken word recording” is a sound recording in which are fixed only a series of spoken words, except that the spoken wordsmay be accompanied by incidental musical or other sounds, and
 
 &emsp;&emsp;(ii) the term “incidental” means related to and relatively minor by comparison.
 
@@ -44,7 +44,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) the owner of the exclusive right under section 106(1) of this title to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
-&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has beenembodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
+&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
 &emsp;&emsp;(C) a featured recording artist who performs on a sound recording that has been distributed; or
 
@@ -82,5 +82,5 @@ Section 482 of the Internal Revenue Code of 1986, referred to in par. (12)(B), i
 
 #### Effective Date
 
-Pub. L. 102–563, §4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act \[see Short Title of 1992 Amendments note set out under section 101 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–563, §4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
 

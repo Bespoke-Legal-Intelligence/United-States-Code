@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes describedin subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
+&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
 
 #### (ii) Allocation
 
@@ -66,7 +66,7 @@ If for reasons beyond the control of a producer on a farm, the producer is unabl
 
 #### (c) Revisions of allocations and proportionate shares
 
-The Secretary, after such notice as the Secretary by regulation may prescribe, may revise or amend any allocation of a marketing allotment under section 1359dd of this title, or any proportionate share established or adjusted for a farm under section 1359ff(c) of this title, on the same basis as the initial allocation or proportionate share was required to be established.
+The Secretary, after such notice as the Secretary by regulation may prescribe, may revise or amend any allocation of a marketing allotment under section 1359dd of this title, or any proportionate share established or adjusted for afarm under section 1359ff(c) of this title, on the same basis as the initial allocation or proportionate share was required to be established.
 
 #### (d) Transfers of mill allocations
 

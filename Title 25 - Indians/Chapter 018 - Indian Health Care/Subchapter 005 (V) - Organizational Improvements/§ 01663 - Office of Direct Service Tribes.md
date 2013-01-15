@@ -16,7 +16,7 @@ The Office of Direct Service Tribes shall be responsible for—
 
 &emsp;(2) ensuring maximum flexibility to tribal health and related support systems for Indian beneficiaries;
 
-&emsp;(3) serving as the focal point for consultation and participation between direct servicetribes and organizations and the Service in the development of Service policy;
+&emsp;(3) serving as the focal point for consultation and participation between direct service tribes and organizations and the Service in the development of Service policy;
 
 &emsp;(4) holding no less than biannual consultations with direct service tribes in appropriate locations to gather information and aid in the development of health policy; and
 

@@ -32,7 +32,7 @@ Technical assistance made available under title III of the United States Housing
 
 #### References in Text
 
-This title, referred to in introductory provisions of subsecs. (a) and (b), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enactedthis subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
+This title, referred to in introductory provisions of subsecs. (a) and (b), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b)(1), and (c), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. Title III of the Act is classified generally to subchapter II–A (§1437aaa et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 109–281 struck out the second sentence, which read as fol
 
 #### GAO Audit of Technical Assistance Contracts
 
-Section 181(a)(3) of Pub. L. 102–550 provided that: “The Comptroller General of the United States shall conduct an audit of all of the technical assistance contracts awarded for fiscal years 1993 and 1994 pursuant to section 402 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12870\]. The Comptroller General shall submit a report to the Congress describing the results of such audit not later than September 30, 1994.”
+Pub. L. 102–550, title I, §181(a)(3), Oct. 28, 1992, 106 Stat. 3735, provided that: “The Comptroller General of the United States shall conduct an audit of all of the technical assistance contracts awarded for fiscal years 1993 and 1994 pursuant to section 402 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12870\]. The Comptroller General shall submit a report to the Congress describing the results of such audit not later than September 30, 1994.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

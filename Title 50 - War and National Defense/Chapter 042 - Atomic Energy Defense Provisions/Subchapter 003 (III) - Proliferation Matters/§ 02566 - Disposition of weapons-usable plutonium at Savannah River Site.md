@@ -2,7 +2,7 @@
 
 #### (a) Plan for construction and operation of MOX facility
 
-(1) Not later than February 1, 2003, the Secretary of Energy shall submit to Congress a planfor the construction and operation of the MOX facility at the Savannah River Site, Aiken, South Carolina.
+(1) Not later than February 1, 2003, the Secretary of Energy shall submit to Congress a plan for the construction and operation of the MOX facility at the Savannah River Site, Aiken, South Carolina.
 
 (2) The plan under paragraph (1) shall include—
 
@@ -18,13 +18,13 @@
 
 &emsp;(ii) a certification by the Secretary whether or not the MOX production objective can be met by January 2012.
 
-(C) Each report under subparagraph (A) for years after 2012 shall—
+(C) Each report under subparagraph (A) for years after 2014 shall—
 
 &emsp;(i) address whether the MOX production objective has been met; and
 
 &emsp;(ii) assess progress toward meeting the obligations of the United States under the Plutonium Management and Disposition Agreement.
 
-(D) Each report under subparagraph (A) for years after 2017 shall also include an assessment of compliance with the MOX production objective and, if not in compliance, the plan of the Secretary for achieving one of the following:
+(D) Each report under subparagraph (A) for years after 2019 shall also include an assessment of compliance with the MOX production objective and, if not in compliance, the plan of the Secretary for achieving one of the following:
 
 &emsp;(i) Compliance with such objective.
 
@@ -32,7 +32,7 @@
 
 #### (b) Corrective actions
 
-(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretary shall submit to Congress, not later than August 15 of the year in which such report is submitted, a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective by January 1, 2012.
+(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretary shall submit to Congress, not later than August 15 of the year in which such report is submitted,a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective.
 
 (2) If a plan is submitted under paragraph (1) in any year after 2008, the plan shall include corrective actions to be implemented by the Secretary to ensure that the MOX production objective is met.
 
@@ -40,7 +40,7 @@
 
 (4) If, before January 1, 2012, the Secretary determines that there is a substantial and material risk that the MOX production objective will not be achieved by 2012 because of a failure to achieve milestones set forth in the most recent corrective action plan under this subsection, the Secretary shall suspend further transfers of defense plutonium and defense plutonium materials to be processed by the MOX facility until such risk is addressed and the Secretary certifies that the MOX production objective can be met by 2012.
 
-(5) If, after January 1, 2012, the Secretary determines that the MOX production objective has not been achieved because of a failure to achieve milestones set forth in the most recent corrective action plan under this subsection, the Secretary shall suspend further transfers of defense plutonium and defense plutonium materials to be processed by the MOX facility until the Secretary certifies that the MOX production objective can be met.
+(5) If, after January 1, 2014, the Secretary determines that the MOX production objective has not been achieved because of a failure to achieve milestones set forth in the most recent corrective action plan under this subsection, the Secretary shall suspend further transfers of defense plutonium and defense plutonium materials to be processed by the MOX facility until the Secretary certifies that the MOX production objective can be met.
 
 (6)(A) Upon making a determination under paragraph (4) or (5), the Secretary shall submit to Congress a report on the options for removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the State of South Carolina after April 15, 2002.
 
@@ -50,27 +50,27 @@
 
 #### (c) Contingent requirement for removal of plutonium and materials from Savannah River Site
 
-If the MOX production objective is not achieved as of January 1, 2012, the Secretary shall, consistent with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other applicable laws, remove from the State of South Carolina, for storage or disposal elsewhere—
+If the MOX production objective is not achieved as of January 1, 2014, the Secretary shall, consistent with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other applicable laws, remove from the State of South Carolina, for storage or disposal elsewhere—
 
-&emsp;(1) not later than January 1, 2014, not less than 1 metric ton of defense plutonium or defense plutonium materials; and
+&emsp;(1) not later than January 1, 2016, not less than 1 metric ton of defense plutonium or defense plutonium materials; and
 
-&emsp;(2) not later than January 1, 2020, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2020, but not processed by the MOX facility.
+&emsp;(2) not later than January 1, 2022, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2022, but not processed by the MOX facility.
 
 #### (d) Economic and impact assistance
 
-(1) If the MOX production objective is not achieved as of January 1, 2014, the Secretary shall, subject to the availability of appropriations, pay to the State of South Carolina each year beginning on or after that date through 2019 for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the later of—
+(1) If the MOX production objective is not achieved as of January 1, 2016, the Secretary shall, subject to the availability of appropriations, pay to the State of South Carolina each year beginning on or after that date through 2021 for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the later of—
 
 &emsp;(A) the date on which the MOX production objective is achieved in such year; or
 
 &emsp;(B) the date on which the Secretary has removed from the State of South Carolina in such year at least 1 metric ton of defense plutonium or defense plutonium materials.
 
-(2)(A) If, as of January 1, 2020, the MOX facility has not processed mixed-oxide fuel from defense plutonium and defense plutonium materials in the amount of not less than—
+(2)(A) If, as of January 1, 2022, the MOX facility has not processed mixed-oxide fuel from defense plutonium and defense plutonium materials in the amount of not less than—
 
 &emsp;(i) one metric ton, in each of any two consecutive calendar years; and
 
 &emsp;(ii) three metric tons total,
 
-> the Secretary shall, from funds available to the Secretary, pay to the State of South Carolina for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the removal by the Secretary from the State of South Carolina of an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002, and January 1, 2020, but not processed by the MOX facility.
+> the Secretary shall, from funds available to the Secretary, pay to the State of South Carolina for economic and impact assistance an amount equal to $1,000,000 per day, not to exceed $100,000,000 per year, until the removal by the Secretary from the State of South Carolina of an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002, and January 1, 2022, but not processed by the MOX facility.
 
 (B) Nothing in this paragraph may be construed to terminate, supersede, or otherwise affect any other requirements of this section.
 
@@ -78,7 +78,7 @@ If the MOX production objective is not achieved as of January 1, 2012, the Secre
 
 #### (e) Failure to complete planned disposition program
 
-If on July 1 each year beginning in 2023 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility, the Secretary shall submit to Congress a plan for—
+If on July 1 each year beginning in 2025 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility, the Secretary shall submit to Congress a plan for—
 
 &emsp;(1) completing the processing of 34 metric tons of defense plutonium and defense plutonium material by the MOX facility; or
 
@@ -112,13 +112,33 @@ In this section:
 
 &emsp;The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
 
-(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280.)
+(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280; Pub. L. 112–239, div. C, title XXXI, §3116, Jan. 2, 2013, 126 Stat. 2172.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(3)(C). Pub. L. 112–239, §3116(1)(A), substituted “2014” for “2012” in introductory provisions.
+
+Subsec. (a)(3)(D). Pub. L. 112–239, §3116(1)(B), substituted “2019” for “2017” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 112–239, §3116(2)(A), struck out “by January 1, 2012” before period at end.
+
+Subsec. (b)(5). Pub. L. 112–239, §3116(2)(B), substituted “2014” for “2012”.
+
+Subsec. (c). Pub. L. 112–239, §3116(3)(A), substituted “2014” for “2012” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 112–239, §3116(3)(B), substituted “2016” for “2014”.
+
+Subsec. (c)(2). Pub. L. 112–239, §3116(3)(C), substituted “2022” for “2020” in two places.
+
+Subsec. (d)(1). Pub. L. 112–239, §3116(4)(A), substituted “2016” for “2014” and “2021” for “2019” in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 112–239, §3116(4)(B), substituted “2022” for “2020” in two places.
+
+Subsec. (e). Pub. L. 112–239, §3116(5), substituted “2025” for “2023” in introductory provisions.
 
 <b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–103, §313(1)(A), substituted “2012” for “2009” in two places.
 

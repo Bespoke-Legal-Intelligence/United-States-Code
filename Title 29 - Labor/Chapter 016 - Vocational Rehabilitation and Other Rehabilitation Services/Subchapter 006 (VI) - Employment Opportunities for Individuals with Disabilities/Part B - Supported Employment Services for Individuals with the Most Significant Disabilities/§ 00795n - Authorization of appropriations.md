@@ -14,9 +14,9 @@ Section 795n, Pub. L. 93–112, title VI, §635, as added Pub. L. 102–569, tit
 
 Another prior section 795n, Pub. L. 93–112, title VI, §635, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1836; amended Pub. L. 100–630, title II, §207(g), Nov. 7, 1988, 102 Stat. 3314, related to availability and comparability of services under former part C of this subchapter, prior to repeal by Pub. L. 102–569, §621(a).
 
-Section 795<i>o</i>, Pub. L. 93–112, title VI, §636, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4442, related to collection of client information. See section 795<i>l</i> of this title.
+Section 795o, Pub. L. 93–112, title VI, §636, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4442, related to collection of client information. See section 795l of this title.
 
-Another prior section 795<i>o</i>, Pub. L. 93–112, title VI, §636, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1836, related to collection of client information, prior to repeal by Pub. L. 102–569, §621(a).
+Another prior section 795o, Pub. L. 93–112, title VI, §636, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1836, related to collection of client information, prior to repeal by Pub. L. 102–569, §621(a).
 
 Section 795p, Pub. L. 93–112, title VI, §637, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4442, contained savings provision. See section 795m of this title.
 

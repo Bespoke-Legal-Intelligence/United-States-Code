@@ -6,7 +6,7 @@
 
 &emsp;(1) The amount deducted under this section for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual.
 
-&emsp;(2) The individual shall be provided written notice, sent by mail to the individual's lastknown address, a minimum of 30 days prior to the initiation of proceedings, from the head of the executive, judicial, or legislative agency, informing the individual of—
+&emsp;(2) The individual shall be provided written notice, sent by mail to the individual's last known address, a minimum of 30 days prior to the initiation of proceedings, from the head of the executive, judicial, or legislative agency, informing the individual of—
 
 &emsp;&emsp;(A) the nature and amount of the debt to be collected;
 
@@ -34,7 +34,7 @@
 
 (d) The notice to the employer of the withholding order shall contain only such information as may be necessary for the employer to comply with the withholding order.
 
-(e)(1) An employer may not discharge from employment, refuse to employ, or take disciplinary action against an individual subject to wage withholding in accordance with this section by reason of the fact that the individual's wages have been subject to garnishment under this section, and such individual may sue in a State or Federal court of competent jurisdiction any employer who takes such action.
+(e)(1) An employer may not discharge from employment, refuse to employ, or take disciplinary action against an individual subject towage withholding in accordance with this section by reason of the fact that the individual's wages have been subject to garnishment under this section, and such individual may sue in a State or Federal court of competent jurisdiction any employer who takes such action.
 
 (2) The court shall award attorneys’ fees to a prevailing employee and, in its discretion, may order reinstatement of the individual, award punitive damages and back pay to the employee, or order such other remedy as may be reasonably necessary.
 
@@ -54,7 +54,7 @@
 
 (h) The Secretary of the Treasury shall issue regulations to implement this section.
 
-(Added Pub. L. 104–134, title III, §31001(<i>o</i>)(1), Apr. 26, 1996, 110 Stat. 1321–369.)
+(Added Pub. L. 104–134, title III, §31001(o)(1), Apr. 26, 1996, 110 Stat. 1321–369.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(5)”.</i>
 

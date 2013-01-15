@@ -2,7 +2,7 @@
 
 #### (a) Election; time and procedure
 
-Upon the completion of the tribal membership roll under section 1300<i>l</i>–3(a) of this title and upon the written request of the Interim Council, the Secretary shall conduct, by secret ballot, an election for the purpose of adopting a constitution and bylaws for the Tribe. The election shall be held according to section 476 of this title, except that absentee balloting shall be permitted regardless of voter residence.
+Upon the completion of the tribal membership roll under section 1300l–3(a) of this title and upon the written request of the Interim Council, the Secretary shall conduct, by secret ballot, an election for the purpose of adopting a constitution and bylaws for the Tribe. The election shall be held according to section 476 of this title, except that absentee balloting shall be permitted regardless of voter residence.
 
 #### (b) Election of tribal officials; procedures
 

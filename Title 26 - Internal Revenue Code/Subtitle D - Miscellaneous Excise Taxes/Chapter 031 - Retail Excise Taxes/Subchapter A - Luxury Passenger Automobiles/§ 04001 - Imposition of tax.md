@@ -156,29 +156,29 @@ Pub. L. 104–188, §1607(a), substituted “December 31, 2002” for “Decembe
 
 Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
 
-<b>1993</b>—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles”in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
 
 #### Effective Date of 1997 Amendment
 
-Section 906(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 4003 of this title\] shall apply to sales and installations occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §906(c), Aug. 5, 1997, 111 Stat. 875, provided that: “The amendments made by this section \[amending this section and section 4003 of this title\] shall apply to sales and installations occurring after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1601(f)(3)(C) of Pub. L. 105–34 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XVI, §1601(f)(3)(C), Aug. 5, 1997, 111 Stat. 1090, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 1607(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to sales occurring after the date which is 7 days after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title XVI, §1607(c), Aug. 20, 1996, 110 Stat. 1840, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to sales occurring after the date which is 7 days after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
-Section 1703(c)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title XVII, §1703(c)(2), Aug. 20, 1996, 110 Stat. 1875, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 13161(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 4002, 4003, 4221, and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title\] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13161(c), Aug. 10, 1993, 107 Stat. 453, provided that: “The amendments made by this section \[amending this section and sections 4002, 4003, 4221, and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title\] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date
 
-Section 11221(f) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11221(f), Nov. 5, 1990, 104 Stat. 1388–444, provided that:
 
 “(1)
 

@@ -10,5 +10,5 @@ Act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified to this chapter, is p
 
 #### Separability
 
-Section 6 of act Mar. 9, 1945, provided: “If any provision of this Act \[this chapter\], or the application ofsuch provision to any person or circumstances, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected.”
+Act Mar. 9, 1945, ch. 20, §6, 59 Stat. 34, provided: “If any provision of this Act \[this chapter\], or the application of such provision to any person or circumstances, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected.”
 

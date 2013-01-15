@@ -6,7 +6,7 @@ The Postal Service shall make available to a State or local voting registration 
 
 #### References in Text
 
-The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77,as amended, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
 #### Effective Date
 

@@ -24,7 +24,7 @@ The Secretary of Defense shall establish and operate a school system for depende
 
 (2) For purposes of paragraph (1), the term “auxiliary services” includes use of academic resources, access to the library of the school, after hours use of school facilities, and participation in music, sports, and other extracurricular and interscholastic activities.
 
-(Pub. L. 95–561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(k), title VI, §657, Oct. 17, 1998, 112 Stat. 2026, 2054; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(k)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, titleIII, §353, Dec. 28, 2001, 115 Stat. 1063; Pub. L. 107–296, title XVII, §1704(e)(7), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 110–181, div. A, title V, §574, Jan. 28, 2008, 122 Stat. 120.)
+(Pub. L. 95–561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(k), title VI, §657, Oct. 17, 1998, 112 Stat. 2026, 2054; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(k)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title III, §353, Dec. 28, 2001, 115 Stat. 1063; Pub. L. 107–296, title XVII, §1704(e)(7), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 110–181, div. A, title V, §574, Jan. 28, 2008, 122 Stat. 120.)
 
 #### Codification
 

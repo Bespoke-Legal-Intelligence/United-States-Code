@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(E) the amount of the shareholder's deduction for depletion for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(11)(B).
 
-> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined insection 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property. The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2011.
+> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined in section 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property. The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2013.
 
 #### (b) Special rules
 
@@ -52,15 +52,17 @@
 
 #### (A) In general
 
-&emsp;&emsp;If any person acquires stock in an S corporation by reason of the death of a decedent or by bequest, devise, or inheritance, section 691 shall be applied with respect to any item of income of the S corporation in the same manner as if the decedent had held directly his pro rata share of such item.
+&emsp;&emsp;If any person acquires stock in an S corporation by reason of the death of a decedentor by bequest, devise, or inheritance, section 691 shall be applied with respect to any item of income of the S corporation in the same manner as if the decedent had held directly his pro rata share of such item.
 
 #### (B) Adjustments to basis
 
 &emsp;&emsp;The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §325(a), Jan. 2, 2013, 126 Stat. 2333.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011” in concluding provisions.
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009” in concluding provisions.
 
@@ -78,6 +80,10 @@ Subsec. (b)(2)(B). Pub. L. 98–369, §721(w), substituted “for any taxable ye
 
 Subsec. (b)(3). Pub. L. 98–369, §721(d), inserted “and 166(d)” in heading and text.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §325(b), Jan. 2, 2013, 126 Stat. 2333, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2011.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §752(b), Dec. 17, 2010, 124 Stat. 3321, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2009.”
@@ -92,7 +98,7 @@ Pub. L. 109–280, title XII, §1203(b), Aug. 17, 2006, 120 Stat. 1066, provided
 
 #### Effective Date of 1996 Amendment
 
-Section 1313(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1313(b), Aug. 20, 1996, 110 Stat. 1785, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
@@ -100,7 +106,7 @@ Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as other
 
 Amendment by section 721(d), (w) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
-Section 722(b)(3)(B) of Pub. L. 98–369 provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 98–369, div. A, title VII, §722(e)(3)(B), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date
 

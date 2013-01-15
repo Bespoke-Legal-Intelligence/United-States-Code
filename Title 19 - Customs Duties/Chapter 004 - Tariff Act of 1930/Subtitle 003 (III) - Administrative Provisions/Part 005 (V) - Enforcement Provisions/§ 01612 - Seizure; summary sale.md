@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §612, 42 Stat. 986. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §612, 42Stat. 986. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions concerning the sale of property liable to perish or waste, etc., were contained in R.S. §3080, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -32,7 +32,7 @@ Pub. L. 98–473 amended section in manner substantially identical to amendment 
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States districtattorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
 
 #### Effective Date of 1984 Amendment
 

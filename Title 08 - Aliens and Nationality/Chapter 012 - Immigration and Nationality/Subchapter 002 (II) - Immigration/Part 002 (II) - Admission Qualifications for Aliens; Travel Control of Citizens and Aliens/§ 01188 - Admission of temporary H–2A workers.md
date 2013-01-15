@@ -34,7 +34,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (2) Notice within seven days of deficiencies
 
-&emsp;(A) The employer shall be notified in writing within seven days of the date of filing if theapplication does not meet the standards (other than that described in subsection (a)(1)(A) of this section) for approval.
+&emsp;(A) The employer shall be notified in writing within seven days of the date of filing if the application does not meet the standards (other than that described in subsection (a)(1)(A) of this section) for approval.
 
 &emsp;(B) If the application does not meet such standards, the notice shall include the reasons therefor and the Secretary shall provide an opportunity for the prompt resubmission of a modified application.
 
@@ -48,7 +48,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 > &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
-&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
+&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from thetime the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
 &emsp;(ii) The requirement of clause (i) shall not apply to any employer who—
 
@@ -72,7 +72,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (4) Housing
 
-&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Pro</i><i>vided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
+&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
 
 #### (d) Roles of agricultural associations
 
@@ -114,7 +114,7 @@ An alien may not be admitted to the United States as a temporary agricultural wo
 
 &emsp;(B) of monitoring terms and conditions under which such nonimmigrants (and domestic workers employed by the same employers) are employed in the United States.
 
-(2) The Secretary of Labor is authorized to take such actions, including imposing appropriate penalties and seeking appropriate injunctive relief and specific performance of contractual obligations, as may be necessary to assureemployer compliance with terms and conditions of employment under this section.
+(2) The Secretary of Labor is authorized to take such actions, including imposing appropriate penalties and seeking appropriate injunctive relief and specific performance of contractual obligations, as may be necessary to assure employer compliance with terms and conditions of employment under this section.
 
 (3) There are authorized to be appropriated for each fiscal year, beginning with fiscal year 1987, such sums as may be necessary for the purpose of enabling the Secretary of Labor to make determinations and certifications under this section and under section 1182(a)(5)(A)(i) of this title.
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 &emsp;(2) The term “H–2A worker” means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(<i>l</i>)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(<i>l</i>)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
+(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(l)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(l)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167; Pub. L. 106–554, §1(a)(1) \[title I, §105\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
 
 #### References in Text
 
@@ -154,21 +154,21 @@ Subsec. (c)(3)(A). Pub. L. 106–78, §748(2), substituted “30 days” for “
 
 <b>1994</b>—Subsec. (i)(1). Pub. L. 103–416 made technical correction to directory language of Pub. L. 102–232, §309(b)(8). See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (g)(3). Pub. L. 102–232, §307(<i>l</i>)(4), substituted “section 1182(a)(5)(A)(i)” for “section 1182(a)(14)”.
+<b>1991</b>—Subsec. (g)(3). Pub. L. 102–232, §307(l)(4), substituted “section 1182(a)(5)(A)(i)” for “section 1182(a)(14)”.
 
 Subsec. (i)(1). Pub. L. 102–232, §309(b)(8), as amended by Pub. L. 103–416, substituted “1324a(h)(3)” for “1324a(h)”.
 
-<b>1988</b>—Pub. L. 100–525, §2(<i>l</i>)(2)(A), made technical amendment to directory language of Pub. L. 99–603, §301(c), which enacted this section.
+<b>1988</b>—Pub. L. 100–525, §2(l)(2)(A), made technical amendment to directory language of Pub. L. 99–603, §301(c), which enacted this section.
 
-Subsec. (c)(4). Pub. L. 100–525, §2(<i>l</i>)(3), substituted “accommodations” for “accomodations” wherever appearing.
+Subsec. (c)(4). Pub. L. 100–525, §2(l)(3), substituted “accommodations” for “accomodations” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 
-Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(8) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
+Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by subsec. (z)(8) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1988 Amendment
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Effective Date; Regulations
 
-Section 301(d), (e) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(<i>l</i>)(4), Oct. 24, 1988, 102 Stat. 2612, provided that:
+Pub. L. 99–603, title III, §301(d), (e), Nov. 6, 1986, 100 Stat. 3416, as amended by Pub. L. 100–525, §2(l)(4), Oct. 24, 1988, 102 Stat. 2612, provided that:
 
 “(d)
 
@@ -192,11 +192,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Sense of Congress Respecting Consultation With Mexico
 
-Section 301(f) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(<i>l</i>)(4), Oct. 24, 1988, 102 Stat. 2612, provided that: “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[8 U.S.C. 1188\].”
+Pub. L. 99–603, title III, §301(f), Nov. 6, 1986, 100 Stat. 3416, as amended by Pub. L. 100–525, §2(l)(4), Oct. 24, 1988, 102 Stat. 2612, provided that: “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[8 U.S.C. 1188\].”
 
 #### Reports on H–2A Program
 
-Section 403 of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title IV, §403, Nov. 6, 1986, 100 Stat. 3441, provided that:
 
 “(a)
 
@@ -218,7 +218,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;“(D) the relative benefits to domestic workers and burdens upon employers of a policy which requires employers, as a condition for certification under the program, to continue to accept qualified United States workers for employment after the date the H–2A workers depart for work with the employer.
 
-> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
+> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment ofthe alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
 
 “(b)
 

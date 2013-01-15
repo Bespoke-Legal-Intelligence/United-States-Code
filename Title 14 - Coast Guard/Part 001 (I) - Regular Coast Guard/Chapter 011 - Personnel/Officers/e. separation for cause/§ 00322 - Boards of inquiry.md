@@ -1,6 +1,6 @@
 ### §322. Boards of inquiry
 
-(a) Boards of inquiry shall be convened at such places as the Secretary may prescribe to receive evidence and make findings and recommendations whether an officer who is required to show cause for retention under section 321 of this title should be retained on active duty.
+(a) Boards of inquiry shall be convened at such places as the Secretary may prescribe to receive evidence and make findings and recommendations whether an officer who is required to showcause for retention under section 321 of this title should be retained on active duty.
 
 (b) A fair and impartial hearing before a board of inquiry shall be given to each officer so required to show cause for retention.
 

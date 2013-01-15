@@ -22,7 +22,7 @@ Unless otherwise prohibited by law, before promulgating any general notice of pr
 
 &emsp;(5)(A) a description of the extent of the agency's prior consultation with elected representatives (under section 1534 of this title) of the affected State, local, and tribal governments;
 
-&emsp;(B) a summary of the comments and concerns that were presented by State, local, ortribal governments either orally or in writing to the agency; and
+&emsp;(B) a summary of the comments and concerns that were presented by State, local, or tribal governments either orally or in writing to the agency; and
 
 &emsp;(C) a summary of the agency's evaluation of those comments and concerns.
 

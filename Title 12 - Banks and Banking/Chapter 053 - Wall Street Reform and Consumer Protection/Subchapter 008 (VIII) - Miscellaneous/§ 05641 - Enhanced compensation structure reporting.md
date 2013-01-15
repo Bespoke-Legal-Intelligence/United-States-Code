@@ -18,7 +18,7 @@
 
 Not later than 9 months after July 21, 2010, the appropriate Federal regulators shall jointly prescribe regulations or guidelines that prohibit any types of incentive-based payment arrangement, or any feature of any such arrangement, that the regulators determine encourages inappropriate risks by covered financial institutions—
 
-&emsp;(1) by providing an executive officer, employee, director, or principal shareholder of the covered financial institution with excessive compensation, fees, or benefits; or
+&emsp;(1) by providing an executive officer, employee, director, or principal shareholder ofthe covered financial institution with excessive compensation, fees, or benefits; or
 
 &emsp;(2) that could lead to material financial loss to the covered financial institution.
 
@@ -44,7 +44,7 @@ As used in this section—
 
 &emsp;&emsp;(A) a depository institution or depository institution holding company, as such terms are defined in section 1813 of this title;
 
-&emsp;&emsp;(B) a broker-dealer registered under section 78<i>o</i> of title 15;
+&emsp;&emsp;(B) a broker-dealer registered under section 78o of title 15;
 
 &emsp;&emsp;(C) a credit union, as described in section 461(b)(1)(A)(iv) of this title;
 

@@ -89,7 +89,7 @@ Pub. L. 105–178, title IV, §4026, June 9, 1998, 112 Stat. 416, provided that:
 
 “(a)
 
-Assessment.—Not later than 18 months after the date of enactment of this section \[June 9, 1998\], the Secretary \[of Transportation\] shall assess the scope ofthe problem of shippers, freight forwarders, brokers, consignees, or other persons (other than rail carriers, motor carriers, motor carriers of migrant workers, or motor private carriers) encouraging violations of chapter 5 of title 49, United States Code, or a regulation or order issued by the Secretary under such chapter.
+Assessment.—Not later than 18 months after the date of enactment of this section \[June 9, 1998\], the Secretary \[of Transportation\] shall assess the scope of the problem of shippers, freight forwarders, brokers, consignees, or other persons (other than rail carriers, motor carriers, motor carriers of migrant workers, or motor private carriers) encouraging violations of chapter 5 of title 49, United States Code, or a regulation or order issued by the Secretary under such chapter.
 
 “(b)
 

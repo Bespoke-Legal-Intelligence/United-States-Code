@@ -84,7 +84,7 @@ Pub. L. 107–273, div. B, title IV, §4002(e)(4), Nov. 2, 2002, 116 Stat. 1810,
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 104–155 provided that: “The Congress finds the following:
+Pub. L. 104–155, §2, July 3, 1996, 110 Stat. 1392, provided that: “The Congress finds the following:
 
 &emsp;“(1) The incidence of arson or other destruction or vandalism of places of religious worship, and the incidence of violent interference with an individual's lawful exercise or attempted exercise of the right of religious freedom at a place of religious worship pose a serious national problem.
 

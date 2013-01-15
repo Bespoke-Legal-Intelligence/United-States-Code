@@ -102,7 +102,7 @@
 
 (k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Section 9 of Pub. L. 97–291 provided that:
+Pub. L. 97–291, §9, Oct. 12, 1982, 96 Stat. 1258, provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting this section and sections 1513 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Criminal Procedure, and enacting provisions set out as notes under this section and sections 1501 and 3579 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 12, 1982\].
 
@@ -174,7 +174,7 @@ Section 9 of Pub. L. 97–291 provided that:
 
 #### Congressional Findings and Declaration of Purposes
 
-Section 2 of Pub. L. 97–291 provided that:
+Pub. L. 97–291, §2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 “(a) The Congress finds and declares that:
 
@@ -202,7 +202,7 @@ Section 2 of Pub. L. 97–291 provided that:
 
 #### Federal Guidelines for Treatment of Crime Victims and Witnesses in the Criminal Justice System
 
-Section 6 of Pub. L. 97–291, as amended by Pub. L. 98–473, title II, §1408(b), Oct. 12, 1984, 98 Stat. 2177, provided that:
+Pub. L. 97–291, §6, Oct. 12, 1982, 96 Stat. 1256, as amended by Pub. L. 98–473, title II, §1408(b), Oct. 12, 1984, 98 Stat. 2177, provided that:
 
 “(a) Within two hundred and seventy days after the date of enactment of this Act \[Oct. 12, 1982\], the Attorney General shall develop and implement guidelines for the Department of Justice consistent with the purposes of this Act \[see Short Title of 1982 Amendment note set out under section 1501 of this title\]. In preparing the guidelines the Attorney General shall consider the following objectives:
 

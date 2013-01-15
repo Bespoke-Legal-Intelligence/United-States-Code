@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(G) whose activities do not include the provision of insurance other than—
 
-&emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similaror related liability exposure of its group members; and
+&emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similar or related liability exposure of its group members; and
 
 &emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group (or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 99–563, §12(b), substituted “liability, personal risk 
 
 #### Effective Date of 1986 Amendment; Applicability
 
-Section 11(a), (b), and (c)(2) of Pub. L. 99–563 provided that:
+Pub. L. 99–563, §11(a), (b), and (c)(2), Oct. 27, 1986, 100 Stat. 3177, provided that:
 
 “(a)
 
@@ -120,19 +120,19 @@ Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of th
 
 Rule Regarding Pollution Liability.—
 
-&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of anyperson to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
+&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of any person to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–563 provided that: “This Act \[enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section\] may be cited as the ‘Risk Retention Amendments of 1986’.”
+Pub. L. 99–563, §1, Oct. 27, 1986, 100 Stat. 3170, provided that: “This Act \[enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section\] may be cited as the ‘Risk Retention Amendments of 1986’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 97–45, as amended by Pub. L. 99–563, §12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Liability Risk Retention Act of 1986’.”
+Pub. L. 97–45, §1, Sept. 25, 1981, 95 Stat. 949, as amended by Pub. L. 99–563, §12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Liability Risk Retention Act of 1986’.”
 
 #### Oversight of Implementation; Report to Congress
 
-Section 10 of Pub. L. 99–563 provided that:
+Pub. L. 99–563, §10, Oct. 27, 1986, 100 Stat. 3176, provided that:
 
 “(a)
 

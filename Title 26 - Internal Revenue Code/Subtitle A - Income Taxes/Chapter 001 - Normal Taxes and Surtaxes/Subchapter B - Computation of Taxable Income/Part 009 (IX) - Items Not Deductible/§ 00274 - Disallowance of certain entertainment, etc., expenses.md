@@ -8,7 +8,7 @@
 
 #### (A) Activity
 
-&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business, or
+&emsp;&emsp;With respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a conventionor otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business, or
 
 #### (B) Facility
 
@@ -90,7 +90,7 @@ Subsection (a) shall not apply to—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), expenses for goods, services, and facilities, to the extent that the expenses are treated by the taxpayer, with respect to the recipient of the entertainment, amusement, or recreation, as compensation to an employee on the taxpayer's return of tax under this chapter and as wages to such employee for purposes of chapter 24 (relating to withholding of income tax at source on wages).
+&emsp;&emsp;Except as provided in subparagraph (B), expenses for goods, services, and facilities,to the extent that the expenses are treated by the taxpayer, with respect to the recipient of the entertainment, amusement, or recreation, as compensation to an employee on the taxpayer's return of tax under this chapter and as wages to such employee for purposes of chapter 24 (relating to withholding of income tax at source on wages).
 
 #### (B) Specified individuals
 
@@ -138,7 +138,7 @@ Subsection (a) shall not apply to—
 
 #### (9) Expenses includible in income of persons who are not employees
 
-&emsp;Expenses paid or incurred by the taxpayer for goods, services, and facilities to the extent that the expenses are includible in the gross income of a recipient of the entertainment, amusement, or recreation who is not an employee of the taxpayer as compensation for services rendered or as a prize or award undersection 74. The preceding sentence shall not apply to any amount paid or incurred by the taxpayer if such amount is required to be included (or would be so required except that the amount is less than $600) in any information return filed by such taxpayer under part III of subchapter A of chapter 61 and is not so included.
+&emsp;Expenses paid or incurred by the taxpayer for goods, services, and facilities to the extent that the expenses are includible in the gross income of a recipient of the entertainment, amusement, or recreation who is not an employee of the taxpayer as compensation for services rendered or as a prize or award under section 74. The preceding sentence shall not apply to any amount paid or incurred by the taxpayer if such amount is required to be included (or would be so required except that the amount is less than $600) in any information return filed by such taxpayer under part III of subchapter A of chapter 61 and is not so included.
 
 > For purposes of this subsection, any item referred to in subsection (a) shall be treated as an expense.
 
@@ -154,7 +154,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (1) In general
 
-&emsp;In the case of any individual who attends a convention, seminar, or similar meeting which is held outside the North American area, no deduction shall be allowed under section 162 for expenses allocable to such meeting unless the taxpayer establishes that the meeting is directly related to the active conduct of his trade or business and that, after taking into account in the manner provided by regulations prescribed by the Secretary—
+&emsp;In the case of any individual who attends a convention, seminar, or similar meeting which is held outside the North American area, no deduction shall be allowed under section 162 for expenses allocable to such meeting unlessthe taxpayer establishes that the meeting is directly related to the active conduct of his trade or business and that, after taking into account in the manner provided by regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) the purpose of such meeting and the activities taking place at such meeting,
 
@@ -232,7 +232,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary is authorized to negotiate and conclude an agreement for the exchange of information with any beneficiary country. Except as provided in clause (ii), an exchange of information agreement shall provide for the exchange of such information (not limited to information concerning nationals or residents of the United States or the beneficiary country) as may be necessary or appropriate to carry out and enforce the tax laws of the United States and the beneficiary country (whether criminal or civil proceedings), including information which may otherwise be subject to nondisclosure provisions of the local law of the beneficiary country such as provisions respecting bank secrecy and bearer shares. The exchange of information agreement shall be terminable by either country on reasonable notice and shall provide that information received by either country will be disclosed only to persons or authorities (including courts and administrative bodies) involved in the administration or oversight of, or in the determination of appeals in respect of, taxes of the United States or the beneficiary country and will be used by such persons or authorities only for such purposes.
+&emsp;&emsp;&emsp;The Secretary is authorized to negotiate and conclude an agreement for the exchange of information with any beneficiary country. Except as provided inclause (ii), an exchange of information agreement shall provide for the exchange of such information (not limited to information concerning nationals or residents of the United States or the beneficiary country) as may be necessary or appropriate to carry out and enforce the tax laws of the United States and the beneficiary country (whether criminal or civil proceedings), including information which may otherwise be subject to nondisclosure provisions of the local law of the beneficiary country such as provisions respecting bank secrecy and bearer shares. The exchange of information agreement shall be terminable by either country on reasonable notice and shall provide that information received by either country will be disclosed only to persons or authorities (including courts and administrative bodies) involved in the administration or oversight of, or in the determination of appeals in respect of, taxes of the United States or the beneficiary country and will be used by such persons or authorities only for such purposes.
 
 #### (ii) Nondisclosure of qualified confidential information sought for civil tax purposes
 
@@ -304,7 +304,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “qualified plan award” means an employee achievement award awarded as part of an established written plan or program of the taxpayer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)) as to eligibility or benefits.
+&emsp;&emsp;&emsp;The term “qualified plan award” means an employee achievement award awardedas part of an established written plan or program of the taxpayer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)) as to eligibility or benefits.
 
 #### (ii) Limitation
 
@@ -348,7 +348,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &emsp;&emsp;(B) any other expense to the extent provided in regulations.
 
-#### (<i>l</i>) Additional limitations on entertainment tickets
+#### (l) Additional limitations on entertainment tickets
 
 #### (1) Entertainment tickets
 
@@ -420,7 +420,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &emsp;&emsp;(B) in the case of an expense for food or beverages, such expense is excludable from the gross income of the recipient under section 132 by reason of subsection (e) thereof (relating to de minimis fringes),
 
-&emsp;&emsp;(C) such expense is covered by a package involving a ticket described in subsection (<i>l</i>)(1)(B),
+&emsp;&emsp;(C) such expense is covered by a package involving a ticket described in subsection (l)(1)(B),
 
 &emsp;&emsp;(D) in the case of an employer who pays or reimburses moving expenses of an employee, such expenses are includible in the income of the employee under section 82, or
 
@@ -484,11 +484,11 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### (<i>o</i>) Regulatory authority
+#### (o) Regulatory authority
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993,107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### References in Text
 
@@ -512,7 +512,7 @@ Subsec. (m)(3). Pub. L. 103–66, §13272(a), added par. (3).
 
 Subsec. (n). Pub. L. 103–66, §13209(a), (b), substituted “50” for “80” in heading and in concluding provisions of par. (1).
 
-<b>1990</b>—Subsec. (<i>l</i>)(2). Pub. L. 101–508, §11802(b)(1), in amending par. (2) generally, struck out “(A) In general” and subpar. (B) which provided for phasein deductions of skybox tickets in the 1987 and 1988 taxable years.
+<b>1990</b>—Subsec. (l)(2). Pub. L. 101–508, §11802(b)(1), in amending par. (2) generally, struck out “(A) In general” and subpar. (B) which provided for phasein deductions of skybox tickets in the 1987 and 1988 taxable years.
 
 Subsec. (n)(2). Pub. L. 101–508, §11802(b)(2)(A)(ii), (iii), substituted “described in subparagraph (D)” for “described in subparagraph (E)” and “of subparagraph (E)” for “of subparagraph (F)” in concluding provisions.
 
@@ -570,11 +570,11 @@ Subsec. (h). Pub. L. 99–514, §142(c), struck out “or 212” after “sectio
 
 Subsec. (j). Pub. L. 99–514, §122(d), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 99–514, §142(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>o</i>).
+Subsec. (k). Pub. L. 99–514, §142(a)(1), added subsec. (k). Former subsec. (k) redesignated (o).
 
-Subsecs. (<i>l</i>) to (n). Pub. L. 99–514, §142(b), added subsecs. (<i>l</i>) to (n).
+Subsecs. (l) to (n). Pub. L. 99–514, §142(b), added subsecs. (l) to (n).
 
-Subsec. (<i>o</i>). Pub. L. 99–514, §142(a)(1), redesignated former subsec. (k) as (<i>o</i>).
+Subsec. (o). Pub. L. 99–514, §142(a)(1), redesignated former subsec. (k) as (o).
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–44, §2(a), inserted at end “This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).”
 
@@ -626,7 +626,7 @@ Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former s
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -634,25 +634,25 @@ Pub. L. 108–357, title VIII, §907(b), Oct. 22, 2004, 118 Stat. 1655, provided
 
 #### Effective Date of 1997 Amendment
 
-Section 969(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §969(b), Aug. 5, 1997, 111 Stat. 897, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13209(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13209(c), Aug. 10, 1993, 107 Stat. 469, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
-Section 13210(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13210(c), Aug. 10, 1993, 107 Stat. 469, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 1993.”
 
-Section 13272(b) of Pub. L. 103–66 provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13272(b), Aug. 10, 1993, 107 Stat. 542, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 1993.”
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7816(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7816(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendmentrelates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1001(g)(1)–(4)(A), (5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6003(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6003(b), Nov. 10, 1988, 102 Stat. 3685, provided that:
 
 “(1) Clauses (i) and (ii) of section 274(n)(2)(F) of the 1986 Code, as added by subsection (a), shall apply to taxable years beginning after December 31, 1988.
 
@@ -668,7 +668,7 @@ Amendment by section 1114(b)(6) of Pub. L. 99–514 applicable to years beginnin
 
 #### Effective Date of 1985 Amendment
 
-Section 6(a)–(c) of Pub. L. 99–44, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–44, §6(a)–(c), May 24, 1985, 99 Stat. 78, 79, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -688,37 +688,37 @@ Amendment by section 179(b)(1) of Pub. L. 98–369 applicable to taxable years b
 
 Amendment by section 801(c) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
-Section 222(b) of Pub. L. 98–67 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to conventions, seminars, or other meetings which begin after June 30, 1983.”
+Pub. L. 98–67, title II, §222(b), Aug. 5, 1983, 97 Stat. 397, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to conventions, seminars, or other meetings which begin after June 30, 1983.”
 
-Section 543(b) of Pub. L. 97–424 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–424, title V, §543(b), Jan. 6, 1983, 96 Stat. 2196, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1981 Amendment
 
-Section 265(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–34, title II, §265(c), Aug. 13, 1981, 95 Stat. 265, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 4(b) of Pub. L. 96–608, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment.”
+Pub. L. 96–608, §4(b), Dec. 28, 1980, 94 Stat. 3552, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment.”
 
-Section 5(b) of Pub. L. 96–598 and section 108(b) of Pub. L. 96–605 provided that: “The amendment made by this section \[amending this section\] shall apply to any expenses paid or incurred after December 31, 1980, in taxable years ending after such date.”
+Pub. L. 96–598, §5(b), Dec. 24, 1980, 94 Stat. 3488, and Pub. L. 96–605, title I, §108(b), Dec. 28, 1980, 94 Stat. 3525, provided that: “The amendment made by this section \[amending this section\] shall apply to any expenses paid or incurred after December 31, 1980, in taxable years ending after such date.”
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 361(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to items paid or incurred after December 31, 1978, in taxable years ending after such date.”
+Pub. L. 95–600, title III, §361(c), Nov. 6, 1978, 92 Stat. 2847, provided that: “The amendments made by this section \[amending this section\] shall apply to items paid or incurred after December 31, 1978, in taxable years ending after such date.”
 
-Section 701(g)(4) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section\] shall apply to conventions beginning after December 31, 1976.”
+Pub. L. 95–600, title VII, §701(g)(4), Nov. 6, 1978, 92 Stat. 2904, provided that: “The amendments made by this subsection \[amending this section\] shall apply to conventions beginning after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
-Section 602(b) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] shall apply to conventions beginning after December 31, 1976.”
+Pub. L. 94–455, title VI, §602(b), Oct. 4, 1976, 90 Stat. 1574, provided that: “The amendments made by this section \[amending this section\] shall apply to conventions beginning after December 31, 1976.”
 
 #### Effective Date of 1964 Amendment
 
-Section 217(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1962, but only in respect of periods after such date.”
+Pub. L. 88–272, title II, §217(b), Feb. 26, 1964, 78 Stat. 57, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1962, but only in respect of periods after such date.”
 
 #### Effective Date
 
@@ -728,9 +728,9 @@ Section applicable with respect to taxable years ending after Dec. 31, 1962, but
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Section 5 of Pub. L. 99–44 provided that: “Not later than October 1, 1985, the Secretary of the Treasury or his delegate shall prescribe regulations to carry out the provisions of this Act \[amending sections 274, 280F, 3402, 6653, and 6695 of this title, and enacting provisions set out as notes under sections 274, 280F, 3402, and 6653 of this title\] which shall fully reflect such provisions.”
+Pub. L. 99–44, §5, May 24, 1985, 99 Stat. 78, provided that: “Not later than October 1, 1985, the Secretary of the Treasury or his delegate shall prescribe regulations to carry out the provisions of this Act \[amending sections 274, 280F, 3402, 6653, and 6695 of this title, and enacting provisions set out as notes under sections 274, 280F, 3402, and 6653 of this title\] which shall fully reflect such provisions.”
 
-Section 1(c) of Pub. L. 99–44 provided that: “Regulations issued before the date of the enactment of this Act \[May 24, 1985\] to carry out the amendments made by paragraphs (1)(C), (2), and (3) of section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending sections 274, 6653, and 6695 of this title\] shall have no force and effect.”
+Pub. L. 99–44, §1(c), May 24, 1985, 99 Stat. 77, provided that: “Regulations issued before the date of the enactment of this Act \[May 24, 1985\] to carry out the amendments made by paragraphs (1)(C), (2), and (3) of section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369, amending sections 274, 6653, and 6695 of this title\] shall have no force and effect.”
 
 #### Savings Provision
 
@@ -750,11 +750,11 @@ For treatment of use of automobile by I.R.S. special agent for purposes of this 
 
 #### Substantiation by Adequate Contemporaneous Records
 
-Section 1(a) of Pub. L. 99–44, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: “the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word ‘contemporaneous’ had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\].”
+Pub. L. 99–44, §1(a), May 24, 1985, 99 Stat. 77, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: “the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word ‘contemporaneous’ had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\].”
 
 #### Use of Facilities in Case of Independent Contractors, Etc.
 
-Section 103(a)(10)(C) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–222, title I, §103(a)(10)(C), Apr. 1, 1980, 94 Stat. 212, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(i)
 

@@ -16,5 +16,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of Title 7, Agriculture.
+Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as anEffective Date note under section 326a of Title 7, Agriculture.
 

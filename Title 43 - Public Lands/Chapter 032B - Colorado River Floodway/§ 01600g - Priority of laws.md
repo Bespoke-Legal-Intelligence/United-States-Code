@@ -12,7 +12,7 @@ The Flood Control Act of 1944, referred to in text, is act Dec. 22, 1944, ch. 66
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618<i>o</i> of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
 The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 

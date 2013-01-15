@@ -38,7 +38,7 @@ The Office shall—
 
 #### (d) Reports to Congress
 
-Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Foreign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office's work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
+Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee onForeign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office's work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
 
 (Pub. L. 87–63, title II, §202, as added Pub. L. 111–145, §9(g), Mar. 4, 2010, 124 Stat. 63.)
 
@@ -48,7 +48,7 @@ Subsection (b) of section 11 of the Travel Promotion Act of 2009, referred to in
 
 #### Prior Provisions
 
-A prior section 2123, Pub. L. 87–63, title II, §202, formerly §3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§1, 2, Oct. 21, 1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, §3(c), (d), (e)(1), Oct. 16, 1981, 95Stat. 1012, 1013; Pub. L. 102–372, §§4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by Pub. L. 104–288, §9(a), Oct. 11, 1996, 110 Stat. 3407.
+A prior section 2123, Pub. L. 87–63, title II, §202, formerly §3, June 29, 1961, 75 Stat. 130; Pub. L. 91–477, §§1, 2, Oct. 21, 1970, 84 Stat. 1071, 1072; renumbered and amended Pub. L. 97–63, §3(c), (d), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §§4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, 106 Stat. 1174, 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by Pub. L. 104–288, §9(a), Oct. 11, 1996, 110 Stat. 3407.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

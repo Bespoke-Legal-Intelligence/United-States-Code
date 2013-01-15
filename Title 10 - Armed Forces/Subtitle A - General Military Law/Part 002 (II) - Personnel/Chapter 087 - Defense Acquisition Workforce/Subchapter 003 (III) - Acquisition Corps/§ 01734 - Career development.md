@@ -30,7 +30,7 @@ Major Milestone Regulations.—(1) The Secretary of Defense shall issue regulati
 
 (d)
 
-Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
+Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in whicha waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
 
 (2) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver.
 
@@ -46,7 +46,7 @@ Centralized Job Referral System.—The Secretary of Defense shall prescribe regu
 
 (g)
 
-Exchange Program.—The Secretary of Defense shall establish, for purposes of broadening the experience of members of the Acquisition Corps, a test program in which members of the Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretaryof Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
+Exchange Program.—The Secretary of Defense shall establish, for purposes of broadening the experience of members of the Acquisition Corps, a test program in which members of the Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
 (h)
 
@@ -92,5 +92,5 @@ Subsec. (e)(2). Pub. L. 102–484, §812(a), inserted at end “Reviews under th
 
 #### Job Referral System Deadline
 
-Section 1209(e) of Pub. L. 101–510 provided that: “Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202).”
+Pub. L. 101–510, div. A, title XII, §1209(e), Nov. 5, 1990, 104 Stat. 1666, provided that: “Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202).”
 

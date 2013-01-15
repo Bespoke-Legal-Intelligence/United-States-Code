@@ -26,7 +26,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
 
-&emsp;(8) Under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of the Bureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.
+&emsp;(8) Under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of theBureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.
 
 #### (b) Enforcement of section 6801
 
@@ -66,7 +66,7 @@ The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to theirjurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
 
 Subsec. (a)(1). Pub. L. 111–203, §1093(4)(B)(i), inserted “by the appropriate Federal banking agency, as defined in section 1813(q) of title 12,” before “in the case of—”.
 

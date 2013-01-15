@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Director ofthe National Institute of Food and Agriculture.
+&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture.
 
 #### (5) Small business
 

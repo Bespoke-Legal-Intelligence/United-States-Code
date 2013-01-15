@@ -24,13 +24,13 @@
 
 (e) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 105–85, div. A, title X, §1073(h)(5)(C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(7), Aug. 21, 2002, 116 Stat. 1302.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 105–85, div. A, title X, §1073(h)(5)(C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(7), Aug. 21, 2002, 116 Stat. 1302.)
 
 #### References in Text
 
 Reorganization Plan No. 1 of 1977, referred to in subsec. (b), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Executive order, referred to in subsec. (b), probably means Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which is set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Executive order, referred to in subsec. (b), probably means Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which is set out as a note under section 305 of Title 47, Telecommunications.
 
 The Antitrust Civil Process Act, referred to in subsec. (c)(1)(C), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 

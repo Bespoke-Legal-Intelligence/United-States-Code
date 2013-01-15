@@ -138,7 +138,7 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 &emsp;(2) an assessment and consideration of the construction of Federal detention facilities in Indian country; and
 
-&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General andin consultation with Indian tribes, determines to be necessary.
+&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
 

@@ -66,7 +66,7 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
 
 Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
@@ -76,11 +76,11 @@ Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par.
 
 #### Effective Date of 1994 Amendment
 
-Section 101(c) of Pub. L. 103–236 provided that the amendment made by that section is effective Oct. 1, 1995.
+Pub. L. 103–236, title I, §101(c), Apr. 30, 1994, 108 Stat. 388, provided that the amendment made by that section is effective Oct. 1, 1995.
 
 #### Construction Security Certification
 
-Section 160 of Pub. L. 100–204, as amended by Pub. L. 101–246, title I, §135, Feb. 16, 1990, 104 Stat. 33, provided that:
+Pub. L. 100–204, title I, §160, Dec. 22, 1987, 101 Stat. 1356, as amended by Pub. L. 101–246, title I, §135, Feb. 16, 1990, 104 Stat. 33, provided that:
 
 “(a)
 

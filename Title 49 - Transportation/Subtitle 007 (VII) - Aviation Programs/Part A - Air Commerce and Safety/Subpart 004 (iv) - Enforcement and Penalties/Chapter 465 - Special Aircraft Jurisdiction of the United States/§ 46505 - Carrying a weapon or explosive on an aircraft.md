@@ -12,7 +12,7 @@ General Criminal Penalty.—An individual shall be fined under title 18, impriso
 
 &emsp;(2) has placed, attempted to place, or attempted to have placed a loaded firearm on that aircraft in property not accessible to passengers in flight; or
 
-&emsp;(3) has on or about the individual, or has placed, attempted to place, or attempted tohave placed on that aircraft, an explosive or incendiary device.
+&emsp;(3) has on or about the individual, or has placed, attempted to place, or attempted to have placed on that aircraft, an explosive or incendiary device.
 
 (c)
 

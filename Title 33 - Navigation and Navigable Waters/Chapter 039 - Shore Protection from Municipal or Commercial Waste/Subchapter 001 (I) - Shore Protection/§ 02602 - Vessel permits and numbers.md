@@ -62,7 +62,7 @@ The Secretary may, or at the request of the Administrator shall, deny the issuan
 
 #### (e) Permit decision
 
-The Secretary, after consultation with the Administrator, shall issue or deny a vessel permitunder this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
+The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
 
 &emsp;(1) notify the applicant of the denial and the reasons for the denial; and
 
@@ -96,9 +96,9 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act J
 
 #### Effective Date
 
-Section 4204(b) of Pub. L. 100–688 provided that: “Section 4102(a) of this Act \[33 U.S.C. 2602(a)\] is effective 240 days after the date of enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–688, title IV, §4204(b), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4102(a) of this Act \[33 U.S.C. 2602(a)\] is effective 240 days after the date of enactment of this Act \[Nov. 18, 1988\].”
 
 #### Availability of Applications
 
-Section 4204(a) of Pub. L. 100–688 provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act \[33 U.S.C. 2602\] publicly available within 60 days after the date of enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–688, title IV, §4204(a), Nov. 18, 1988, 102 Stat. 4160, provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act \[33 U.S.C. 2602\] publicly available within 60 days after the date of enactment of this Act \[Nov. 18, 1988\].”
 

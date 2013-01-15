@@ -112,6 +112,26 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
+#### Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements
+
+Pub. L. 112–239, div. A, title XII, §1204, Jan. 2, 2013, 126 Stat. 1982, provided that:
+
+“(a)
+
+Limitation.—If both requirements specified in subsection (b) are not met as of February 28, 2013, no activities may be carried out under the State Partnership Program after that date until both requirements are met.
+
+“(b)
+
+Requirements.—The requirements specified in this subsection are the following:
+
+&emsp;“(1) The requirement for the Secretary of Defense to submit to the appropriate congressional committees the final regulations required by subsection (a) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2517; 32 U.S.C. 107 note).
+
+&emsp;“(2) A requirement for the Secretary of Defense to certify to the appropriate congressional committees that appropriate modifications have been made, and appropriate controls have been instituted, to ensure the compliance of the Program with section 1341 of title 31, United States Code (commonly referred to as the ‘Anti-Deficiency Act’), in the future.
+
+“(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010.”
+
 #### Availability of Appropriated Funds for the State Partnership Program
 
 Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, provided that:

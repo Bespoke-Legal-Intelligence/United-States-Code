@@ -54,5 +54,5 @@ Subsec. (d). Pub. L. 98–525 added subsec. (d).
 
 #### Effective Date of 1984 Amendment
 
-Section 612(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to transportation begun after September 30, 1984.”
+Pub. L. 98–525, title VI, §612(b), Oct. 19, 1984, 98 Stat. 2539, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to transportation begun after September 30, 1984.”
 

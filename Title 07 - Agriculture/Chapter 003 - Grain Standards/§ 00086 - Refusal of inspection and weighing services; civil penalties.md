@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (
 
 Subsec. (e). Pub. L. 94–582 added subsec. (e).
 
-<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, forprovisions setting the penalty for interference with the execution of official duties.
+<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, for provisions setting the penalty for interference with the execution of official duties.
 
 #### Effective Date of 1976 Amendment
 

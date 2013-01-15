@@ -18,7 +18,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(4) assess and specify—
 
-&emsp;&emsp;(A) the capacity and the extent to which fishing vessels of the United States, on an annual basis, will harvest the optimum yield specified under paragraph (3),
+&emsp;&emsp;(A) the capacity and the extent to which fishing vessels of the United States, on anannual basis, will harvest the optimum yield specified under paragraph (3),
 
 &emsp;&emsp;(B) the portion of such optimum yield which, on an annual basis, will not be harvested by fishing vessels of the United States and can be made available for foreign fishing, and
 
@@ -62,7 +62,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(1) require a permit to be obtained from, and fees to be paid to, the Secretary, with respect to—
 
-&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
+&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusiveeconomic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
 
 &emsp;&emsp;(B) the operator of any such vessel; or
 
@@ -160,7 +160,7 @@ Subsec. (b)(2). Pub. L. 109–479, §105(1), (2), designated existing provisions
 
 Subsec. (b)(5). Pub. L. 109–479, §105(3), substituted “fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;” for “fishery;”.
 
-Subsec. (b)(6). Pub. L. 109–479, §105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing suchsystem, the Council and the Secretary take into account—
+Subsec. (b)(6). Pub. L. 109–479, §105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
 
 &emsp;“(A) present participation in the fishery,
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date of 1986 Amendment
 
-Section 105(a)(2) of Pub. L. 99–659 provided that: “The amendments made by paragraph (1) \[amending this section\] apply to each fishery management plan that—
+Pub. L. 99–659, title I, §105(a)(2), Nov. 14, 1986, 100 Stat. 3711, provided that: “The amendments made by paragraph (1) \[amending this section\] apply to each fishery management plan that—
 
 &emsp;“(A) is submitted to the Secretary of Commerce for review under section 304(a) of the Act \[16 U.S.C. 1854(a)\], or that is prepared by the Secretary, after January 1, 1987; or
 
@@ -280,7 +280,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 S
 
 #### Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297
 
-Section 108(b) of Pub. L. 104–297 provided that: “Not later than 24 months after the date of enactment of this Act \[Oct. 11, 1996\], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section \[amending this section\].”
+Pub. L. 104–297, title I, §108(b), Oct. 11, 1996, 110 Stat. 3575, provided that: “Not later than 24 months after the date of enactment of this Act \[Oct. 11, 1996\], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section \[amending this section\].”
 
 #### Individual Fishing Quota Report
 
@@ -306,7 +306,7 @@ Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 
-&emsp;“(J) the value created for recipients of individual fishing quotas, including a comparison of such value to the value of the fish harvested under such quotas and to the value of permits created by other types oflimited access systems, and the effects of creating such value on fishery management and conservation; and
+&emsp;“(J) the value created for recipients of individual fishing quotas, including a comparison of such value to the value of the fish harvested under such quotas and to the value of permits created by other types of limited access systems, and the effects of creating such value on fishery management and conservation; and
 
 &emsp;“(K) such other matters as the National Academy of Sciences deems appropriate.
 
@@ -320,7 +320,7 @@ Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3
 
 #### Existing Quota Plans
 
-Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
+Pub. L. 104–297, title I, §108(i), Oct. 11, 1996, 110 Stat. 3581, provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

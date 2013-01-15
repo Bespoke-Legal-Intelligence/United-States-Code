@@ -7,7 +7,7 @@
 
 - [&sect; 01461 - General authorization](%C2%A7%2001461%20-%20General%20authorization.md)
 - [&sect; 01461&#8211;1 - Mission of United States Information Agency](%C2%A7%2001461%E2%80%931%20-%20Mission%20of%20United%20States%20Information%20Agency.md)
-- [&sect; 01461&#8211;1a - Ban on domestic activities by United States Information Agency](%C2%A7%2001461%E2%80%931a%20-%20Ban%20on%20domestic%20activities%20by%20United%20States%20Information%20Agency.md)
+- [&sect; 01461&#8211;1a - Clarification on domestic distribution of program material](%C2%A7%2001461%E2%80%931a%20-%20Clarification%20on%20domestic%20distribution%20of%20program%20material.md)
 - [&sect; 01461a - Omitted](%C2%A7%2001461a%20-%20Omitted.md)
 - [&sect; 01461b - Indemnification of owners of short-wave radio facilities against loss or damage](%C2%A7%2001461b%20-%20Indemnification%20of%20owners%20of%20short-wave%20radio%20facilities%20against%20loss%20or%20damage.md)
 - [&sect; 01461c - Omitted](%C2%A7%2001461c%20-%20Omitted.md)

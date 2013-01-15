@@ -54,7 +54,7 @@ Report.—Not later than February 1, 2005, the Secretary shall submit to Congres
 
 #### Pilot Program To Use National Guard Personnel in Medically Underserved Communities
 
-Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, titleIII, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
+Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
 
 “(a)
 
@@ -114,7 +114,7 @@ Termination.—The authority under subsection (a) of section 1091 of the Nationa
 
 Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
-Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
+Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(o), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -176,7 +176,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which a N
 
 “(2) For fiscal year 1993, personnel so serving may not be counted for the purposes of—
 
-&emsp;“(A) any provision of law limiting the number of personnel that may be serving on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components; or
+&emsp;“(A) any provision of law limiting the number of personnel that may be serving on full-time active duty or full-time National Guard duty for the purposeof organizing, administering, recruiting, instructing, or training the reserve components; or
 
 &emsp;“(B) section 524 \[now 12011\] of title 10, United States Code, relating to the number of reserve component officers who may be on active duty or full-time National Guard duty in certain grades.
 
@@ -220,7 +220,7 @@ Report.—(1) Within 90 days after the end of the one-year period beginning on t
 
 “(2) In preparing the report required by paragraph (1), the Secretary shall coordinate with the Governor of each State in which a National Guard civilian youth opportunities program is carried out under the pilot program and, if such a program is carried out in the District of Columbia, with the commanding general of the District of Columbia National Guard.
 
-“(<i>l</i>)
+“(l)
 
 Definitions.—In this section:
 

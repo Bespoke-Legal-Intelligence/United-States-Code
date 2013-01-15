@@ -4,9 +4,9 @@ Section, Pub. L. 91–695, title I, §101, Jan. 13, 1971, 84 Stat. 2078; Pub. L.
 
 #### Effective Date of Repeal
 
-Section 208(b) of Pub. L. 95–626 provided that the repeal of this section is effective Oct. 1, 1979.
+Pub. L. 95–626, title II, §208(b), Nov. 10, 1978, 92 Stat. 3588, provided that the repeal of this section is effective Oct. 1, 1979.
 
 #### Short Title
 
-Section 1 of Pub. L. 91–695 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Lead-Based Paint Poisoning Prevention Act’.”
+Pub. L. 91–695, §1, Jan. 13, 1971, 84 Stat. 2078, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Lead-Based Paint Poisoning Prevention Act’.”
 

@@ -8,7 +8,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 &emsp;(2) provide suitable quarters and provide for the safekeeping, care, and subsistence of all persons charged with or convicted of offenses against the United States, or held as witnesses or otherwise;
 
-&emsp;(3) provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
+&emsp;(3) provide for the protection, instruction, and discipline of all persons charged with orconvicted of offenses against the United States;
 
 &emsp;(4) provide technical assistance to State, tribal, and local governments in the improvement of their correctional systems;
 
@@ -76,7 +76,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h),July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, §261(a), July 29, 2010, 124 Stat. 2299.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685; Pub. L. 111–211, title II, §261(a), July 29, 2010, 124 Stat. 2299.)
 
 #### Historical and Revision Notes
 
@@ -198,7 +198,7 @@ Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided th
 
 #### Application to Prisoners to Which Prior Law Applies
 
-Section 20404 of Pub. L. 103–322 provided that: “In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole.”
+Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: “In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole.”
 
 #### Cost Savings Measures
 

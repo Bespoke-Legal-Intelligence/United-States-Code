@@ -272,7 +272,7 @@ In General.—The Secretary of Health and Human Services, acting through the Rur
 
 Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-&emsp;“(1) is composed of local emergency response entities such as community training facilities, localemergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+&emsp;“(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
 &emsp;“(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 

@@ -14,11 +14,11 @@ Applicant.—The term “applicant” means a State, a group of States, an Inter
 
 &emsp;(2)
 
-Corridor.—The term “corridor” means a corridor designated by the Secretary pursuant to section 104(d)(2) of title 23.
+Corridor.—The term “corridor” means a corridor designated by the Secretary pursuant to section 104(d)(2) <sup>1</sup> of title 23.
 
 &emsp;(3)
 
-Capital project.—The term “capital project” means a project or program in aState rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
+Capital project.—The term “capital project” means a project or program in a State rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
 
 &emsp;(4)
 
@@ -114,7 +114,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;&emsp;(VI) encouragement of State and private contributions toward station development, energy and environmental efficiency, and economic benefits; and
 
-&emsp;&emsp;&emsp;&emsp;(VII) falling under the description in section 5302(a)(1)(G) of this title as defined to support intercity passenger rail service; and
+&emsp;&emsp;&emsp;&emsp;(VII) falling under the description in section 5302(a)(1)(G) <sup>1</sup> of this title as defined to support intercity passenger rail service; and
 
 &emsp;&emsp;&emsp;(ii) that incorporate equitable financial participation in the project's financing, including, but not limited to, consideration of—
 
@@ -158,9 +158,13 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### References in Text
 
+Section 104 of title 23, referred to in subsec. (b)(2), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+
 Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(2)(A)(i), is section 211 of Pub. L. 110–432, which is set out as a note under section 24902 of this title.
 
 Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to subsec. (e)(2)(B)(i)(I), is section 207 of Pub. L. 110–432, which is set out in a note under section 24101 of this title.
+
+Section 5302 of this title, referred to in subsec. (e)(2)(C)(i)(VII), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
 
 The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
@@ -356,7 +360,7 @@ Selection by Secretary.—
 
 &emsp;&emsp;“(B) issue a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing any proposal with respect to subsection (a)(1)(A) that is selected by the Secretary under subparagraph (A) of this paragraph, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
-&emsp;“(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to theCommittee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph (1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
+&emsp;“(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph\(1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
 &emsp;“(3) The report required under paragraph (2) shall not be submitted by the Secretary until the report submitted under paragraph (1) has been considered through a hearing by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the report submitted under paragraph (1)(B).
 
@@ -386,7 +390,7 @@ Northeast corridor.—The term ‘Northeast Corridor’ has the meaning given un
 
 &emsp;“(4)
 
-High-speed rail corridor.—The terms ‘high-speed rail corridor’ and ‘corridor’ mean a corridor designated by the Secretary pursuant to section 104(d)(2) of title 23, United States Code, and the Northeast Corridor.”
+High-speed rail corridor.—The terms ‘high-speed rail corridor’ and ‘corridor’ mean a corridor designated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

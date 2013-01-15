@@ -26,11 +26,11 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Delegation of Functions
 
-Authority of President under this section to fix the compensation of and to define authorities and duties ofDeputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
 #### Savings Provision
 
-Section 3524(b) of Pub. L. 104–201 provided that: “Nothing in this section \[amending this section\] shall be considered to affect—
+Pub. L. 104–201, div. C, title XXXV, §3524(b), Sept. 23, 1996, 110 Stat. 2861, provided that: “Nothing in this section \[amending this section\] shall be considered to affect—
 
 &emsp;“(1) the tenure of the individual serving as Deputy Administrator of the Commission on the day before subsection (a) takes effect \[section 3524(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
 

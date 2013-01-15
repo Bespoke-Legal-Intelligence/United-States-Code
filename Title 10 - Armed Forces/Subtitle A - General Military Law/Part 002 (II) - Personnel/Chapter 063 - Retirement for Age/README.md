@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364, div. A, title V, §502(c), Oct. 17, 2006, 120 Stat. 2177, inserted “in grades below general and flag officer grades” after “officers” in item 1251 and added item 1253.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §502(c), Oct. 17, 2006, 120 Stat. 2177, inserted “in grades below generaland flag officer grades” after “officers” in item 1251 and added item 1253.
 
 Pub. L. 109–163, div. A, title V, §509(c)(2), Jan. 6, 2006, 119 Stat. 3231, added item 1252.
 

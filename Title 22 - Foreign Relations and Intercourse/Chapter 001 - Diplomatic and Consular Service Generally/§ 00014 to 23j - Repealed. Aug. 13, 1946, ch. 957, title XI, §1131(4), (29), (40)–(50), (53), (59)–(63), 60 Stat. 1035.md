@@ -12,9 +12,9 @@ Section 17a, act May 24, 1924, ch. 182, §22, as added Feb. 23, 1931, ch. 276, �
 
 Section 18, acts July 1, 1916, ch. 208, 39 Stat. 252; May 24, 1924, ch. 182, §23, formerly §16, 43 Stat. 143; renumbered §23 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to appointment of Foreign Service officer as counselor of embassy or legation.
 
-Section 19, act May 24, 1924, ch. 182, §24, formerly §17, 43 Stat. 143; renumbered §24 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to Foreign Service officers acting as commissioner, charge�AE1 d'affaires, etc.
+Section 19, act May 24, 1924, ch. 182, §24, formerly §17, 43 Stat. 143; renumbered §24 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to Foreign Service officers acting as commissioner, chargé d'affaires, etc.
 
-Section 20, R.S. §1685; acts Mar. 2, 1909, ch. 235, 35 Stat. 673; Feb. 5, 1915, ch. 23, §3, 38 Stat. 805; May 24, 1924, ch. 182, §17(25), 43 Stat. 143; Feb. 27, 1925, ch. 364, title I, 43 Stat. 1016; Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to compensation of officer acting as charge�AE1 d'affaires ad interim.
+Section 20, R.S. §1685; acts Mar. 2, 1909, ch. 235, 35 Stat. 673; Feb. 5, 1915, ch. 23, §3, 38 Stat. 805; May 24, 1924, ch. 182, §17(25), 43 Stat. 143; Feb. 27, 1925, ch. 364, title I, 43 Stat. 1016; Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to compensation of officer acting as chargé d'affaires ad interim.
 
 Section 21, acts May 24, 1924, ch. 182, §26, formerly §18, 43 Stat. 144; July 3, 1926, ch. 798, §1, 44 Stat. 902; renumbered §26 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1211; Apr. 24, 1939, ch. 84, §3, 53 Stat. 584; July 19, 1939, ch. 330, 53 Stat. 1067; Aug. 5, 1939, ch. 441, 53 Stat. 1208; Apr. 20, 1940, ch. 118, §1, 54 Stat. 143; Oct. 14, 1940, ch. 859, §4, 54 Stat. 1118; May 13, 1941, ch. 115, §1, 55 Stat. 189, eff. Aug. 1, 1941, related to retirement and disability system.
 
@@ -46,5 +46,5 @@ Section 23j, act May 24, 1924, ch. 182, §34, as added Feb. 23, 1931, ch. 276, �
 
 #### Effective Date of Repeal
 
-Repeal effective three months after Aug. 13, 1946, see section 1141 of act Aug. 13, 1946.
+Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.
 

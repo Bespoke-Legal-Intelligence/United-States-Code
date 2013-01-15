@@ -4,7 +4,7 @@
 
 #### (1) Subgrants
 
-&emsp;A local educational agency may receive a subgrant under this part for any fiscal yearonly if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
+&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Careerand Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
 
 #### (2) Consolidated application
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(J) a description of how the local educational agency will ensure that migratory children and formerly migratory children who are eligible to receive services under this part are selected to receive such services on the same basis as other children who are selected to receive services under this part;
 
-&emsp;&emsp;(K) if appropriate, a description of how the local educational agency will use funds under this part to support preschool programs for children, particularly children participating in Early Reading First, or in a Head Start or Even Start program, which services may be provided directly by the local educational agency or through a subcontract with the local Head Start agency designated by the Secretary of Health and Human Services under section 9836 of title 42, or an agency operating an Even Startprogram, an Early Reading First program, or another comparable public early childhood development program;
+&emsp;&emsp;(K) if appropriate, a description of how the local educational agency will use funds under this part to support preschool programs for children, particularly children participating in Early Reading First, or in a Head Start or Even Start program, which services may be provided directly by the local educational agency or through a subcontract with the local Head Start agency designated by the Secretary of Health and Human Services under section 9836 of title 42, or an agency operating an Even Start program, an Early Reading First program, or another comparable public early childhood development program;
 
 &emsp;&emsp;(L) a description of the actions the local educational agency will take to assist its low-achieving schools identified under section 6316 of this title as in need of improvement;
 

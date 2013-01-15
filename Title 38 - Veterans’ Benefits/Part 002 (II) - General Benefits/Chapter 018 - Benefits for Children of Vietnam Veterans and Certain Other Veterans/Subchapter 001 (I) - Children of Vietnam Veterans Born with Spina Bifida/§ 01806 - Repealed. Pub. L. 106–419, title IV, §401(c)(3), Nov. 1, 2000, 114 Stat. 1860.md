@@ -10,5 +10,5 @@ Prior section 1810 was renumbered section 3710 of this title.
 
 #### Effective Date of Repeal
 
-Repeal effective on the first day of the first month beginning more than one year after Nov. 1, 2000, seesection 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.
+Repeal effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.
 

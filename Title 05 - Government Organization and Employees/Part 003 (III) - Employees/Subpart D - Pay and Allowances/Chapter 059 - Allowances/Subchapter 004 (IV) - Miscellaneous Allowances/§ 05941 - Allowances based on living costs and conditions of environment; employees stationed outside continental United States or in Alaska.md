@@ -236,7 +236,7 @@ Temporary Regulations. During the period commencing with the date of this order 
 
 Sec. 601.
 
-Publication. This order, and the places designated, the rates fixed, and the regulations prescribed by the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
+Publication. This order, and the places designated, the rates fixed, and the regulations prescribedby the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
 
 #### Executive Order No. 12070
 

@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1970 Amendment
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 #### Effective Date
 
-Section 10 of Pub. L. 86–211 provided that: “This Act \[see Tables for classification\] shall take effect on July 1, 1960.”
+Pub. L. 86–211, §10, Aug. 29, 1959, 73 Stat. 436, provided that: “This Act \[see Tables for classification\] shall take effect on July 1, 1960.”
 

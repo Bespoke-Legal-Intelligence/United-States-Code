@@ -6,7 +6,7 @@
 
 &emsp;(2) may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive or legislative agency for further collection action, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official; and
 
-&emsp;(3) may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liable on the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered.
+&emsp;(3) may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liableon the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered.
 
 (b)(1) The head of an executive, judicial, or legislative agency may not act under subsection (a)(2) or (3) of this section on a claim that appears to be fraudulent, false, or misrepresented by a party with an interest in the claim, or that is based on conduct in violation of the antitrust laws.
 
@@ -68,7 +68,7 @@
 
 (f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
-(2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(2) The Secretary of Homeland Security may suspend or terminate an action by the Secretaryunder subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -158,7 +158,7 @@
 
 (i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
 
-(2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed tothe United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
+(2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed to the United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
 
 (3) Sales of nontax debt under this subsection—
 
@@ -182,7 +182,7 @@
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
-&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
+&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to suchloan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
 &emsp;(v) The marketability of all debts.
 
@@ -238,7 +238,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Ge
 
 In subsection (c)(1), the words “that appears to be fraudulent, false, or misrepresented by” are substituted for “as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of” to eliminate unnecessary words. The words “the debtor or . . . other” and “in whole or in part” are omitted as surplus.
 
-In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966”are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
+In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966” are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
 
 In subsection (d), the words “effected . . . authority conferred by”, “on the debtor and on all officials, agencies, and courts of the United States”, “destroyed”, and “with a person primarily responsible” are omitted as surplus.
 
@@ -344,19 +344,19 @@ Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 
 #### Savings Provision
 
-Section 31001(n) of Pub. L. 104–134 provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\].”
+Pub. L. 104–134, title III, §31001(n), Apr. 26, 1996, 110 Stat. 1321–369, provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\].”
 
 #### Guidelines
 
-Section 31001(aa)(1) of Pub. L. 104–134 provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
+Pub. L. 104–134, title III, §31001(aa)(1), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
 
 #### Report
 
-Section 31001(aa)(2) of Pub. L. 104–134 provided that: “Not later than 3 years after the date of enactment of this Act \[Apr. 26, 1996\], the Secretary of the Treasury shall report to the Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in section 3711(g) of title 31, United States Code, as added by subsection (m) of this section.”
+Pub. L. 104–134, title III, §31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “Not later than 3 years after the date of enactment of this Act \[Apr. 26, 1996\], the Secretary of the Treasury shall report to the Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in section 3711(g) of title 31, United States Code, as added by subsection (m) of this section.”
 
 #### Standards and Policies for Compromising, Writing-Down, Forgiving, or Discharging Indebtedness
 
-Section 31001(bb) of Pub. L. 104–134 provided that: “The Director of the Office of Management and Budget shall—
+Pub. L. 104–134, title III, §31001(bb), Apr. 26, 1996, 110 Stat. 1321–380, provided that: “The Director of the Office of Management and Budget shall—
 
 &emsp;“(1) review the standards and policies of each Federal agency for compromising, writing-down, forgiving, or discharging indebtedness arising from programs of the agency;
 

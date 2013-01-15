@@ -28,7 +28,7 @@ Background checks of current employees.—
 
 (D)
 
-Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under thissubparagraph do not pose a threat to aviation or national security.
+Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
 
 (2) An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Under Secretary requires is conducted.
 
@@ -294,11 +294,11 @@ Subsecs. (f) to (h). Pub. L. 104–264, §502(a), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 304(b) of Pub. L. 104–264 provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall apply to individuals hired to perform functions described in section 44936(a)(1)(B) of title 49, United States Code, after the date of the enactment of this Act \[Oct. 9, 1996\]; except that the Administrator of the Federal Aviation Administration may, as the Administrator determines to be appropriate, require such employment investigations or criminal history records checks for individuals performing those functions on the date of the enactment of this Act.”
+Pub. L. 104–264, title III, §304(b), Oct. 9, 1996, 110 Stat. 3252, provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall apply to individuals hired to perform functions described in section 44936(a)(1)(B) of title 49, United States Code, after the date of the enactment of this Act \[Oct. 9, 1996\]; except that the Administrator of the Federal Aviation Administration may, as the Administrator determines to be appropriate, require such employment investigations or criminal history records checks for individuals performing those functions on the date of the enactment of this Act.”
 
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 

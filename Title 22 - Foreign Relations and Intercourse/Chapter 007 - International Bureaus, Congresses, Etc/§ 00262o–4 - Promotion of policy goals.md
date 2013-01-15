@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States as set out in this section and to actively promote this policy and the goals set forth in section 262<i>o</i>–3 of this title. It is the policy of the United States that each bank should—
+The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States as set out in this section and to actively promote this policy and the goals set forth in section 262o–3 of this title. It is the policy of the United States that each bank should—
 
 &emsp;(1) require the bank's employees, officers and consultants to make an annual disclosure of their financial interests and income and of any other potential source of conflict of interest;
 
@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(4) ensure that all loan, credit, guarantee, and grant documents and other agreements with borrowers include provisions for the financial resources and conditionality necessary to ensure that a person or country that obtains financial support from a bank complies with applicable bank policies and national and international laws in carrying out the terms and conditions of such documents and agreements, including bank policies and national and international laws pertaining to the comprehensive assessment and transparency of the activities related to access to information, public health, safety, and environmental protection;
 
-&emsp;(5) implement clear anti-corruption procedures setting forth the circumstances under which a person will be barred from receiving a loan, contract, grant, guarantee or credit from such bank, make such procedures available to the public, and make the identity of such person available to the public;
+&emsp;(5) implement clear anti-corruption procedures setting forth the circumstances under which a person will be barred from receiving a loan, contract, grant, guarantee or credit from such bank, make such procedures available tothe public, and make the identity of such person available to the public;
 
 &emsp;(6) coordinate policies across multilateral development banks on issues including debarment, cross-debarment, procurement guidelines, consultant guidelines, and fiduciary standards so that a person that is debarred by one such bank is subject to a rebuttable presumption of ineligibility to conduct business with any other such bank during the specific ineligibility period;
 

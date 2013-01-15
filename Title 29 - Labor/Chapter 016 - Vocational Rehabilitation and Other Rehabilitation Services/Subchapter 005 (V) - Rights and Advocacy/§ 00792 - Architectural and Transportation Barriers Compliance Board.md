@@ -64,7 +64,7 @@
 
 It shall be the function of the Access Board to—
 
-&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
+&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring thatall waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
 &emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
@@ -242,7 +242,7 @@ Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 throu
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) readas follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
 
 Subsec. (a)(3). Pub. L. 100–630, §206(b)(2), substituted “the member” for “he”.
 
@@ -270,7 +270,7 @@ Subsecs. (b)(2), (c). Pub. L. 99–506, §103(d)(2)(C), substituted “individua
 
 Subsec. (d)(2)(A). Pub. L. 99–506, §1002(e)(2)(B), substituted “any final order” for “any, final order”.
 
-Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted “Department of Education” for “Department of Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
+Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted “Department of Education” for “Departmentof Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
 
 Subsec. (e)(2). Pub. L. 99–506, §1002(e)(2)(D), substituted “alleged noncompliance and in” for “alleged noncompliance in”.
 
@@ -304,7 +304,7 @@ Subsec. (e). Pub. L. 95–602, §118(d), designated existing provisions as par. 
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
-Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations forcarrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
+Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
 Subsec. (i). Pub. L. 95–602, §118(e), added subsec. (i).
 
@@ -316,9 +316,9 @@ Pub. L. 94–230, §11(b)(13), authorized appropriation of $1,500,000 for fiscal
 
 Pub. L. 93–651, §111(n), amended subsec. (a) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (d). Pub. L. 93–516, §111(<i>o</i>), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
+Subsec. (d). Pub. L. 93–516, §111(o), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
 
-Pub. L. 93–651, 111(<i>o</i>), amended subsec. (d) in exactly the same manner as it was amended by Pub. L. 93–516.
+Pub. L. 93–651, 111(o), amended subsec. (d) in exactly the same manner as it was amended by Pub. L. 93–516.
 
 Subsec. (e). Pub. L. 93–516, §111(p), inserted provisions relating to appointment of an executive director and other professional and clerical personnel.
 
@@ -338,11 +338,103 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-For contingency provisions relating to the extensions of program authorizations and to the effective date of such extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
+Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in theabsence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
 #### Termination of Advisory Panels
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers
+
+Pub. L. 112–144, title IX, §904, July 9, 2012, 126 Stat. 1090, provided that:
+
+“(a)
+
+Establishment of Working Group.—
+
+&emsp;“(1)
+
+In general.—The Architectural and Transportation Barriers Compliance Board (referred to in this section as the ‘Access Board’) shall convene a stakeholder working group (referred to in this section as the ‘working group’) to develop best practices on access to information on prescription drug container labels for individuals who are blind or visually impaired.
+
+&emsp;“(2)
+
+Members.—The working group shall be comprised of representatives of national organizations representing blind and visually impaired individuals, national organizations representing the elderly, and industry groups representing stakeholders, including retail, mail-order, and independent community pharmacies, who would be impacted by such best practices. Representation within the working group shall be divided equally between consumer and industry advocates.
+
+&emsp;“(3)
+
+Best practices.—
+
+&emsp;&emsp;“(A)
+
+In general.—The working group shall develop, not later than 1 year after the date of the enactment of this Act \[July 9, 2012\], best practices for pharmacies to ensure that blind and visually impaired individuals have safe, consistent, reliable, and independent access to the information on prescription drug container labels.
+
+&emsp;&emsp;“(B)
+
+Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities.
+
+&emsp;&emsp;“(C)
+
+Limitations.—The best practices developed under subparagraph (A) shall not be construed as accessibility guidelines or standards of the Access Board, and shall not confer any rights or impose any obligations on working group participants or other persons. Nothing in this section shall be construed to limit or condition any right, obligation, or remedy available under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) or any other Federal or State law requiring effective communication, barrier removal, or nondiscrimination on the basis of disability.
+
+&emsp;“(4)
+
+Considerations.—In developing and issuing the best practices under paragraph (3)(A), the working group shall consider—
+
+&emsp;&emsp;“(A) the use of—
+
+&emsp;&emsp;&emsp;“(i) Braille;
+
+&emsp;&emsp;&emsp;“(ii) auditory means, such as—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) ‘talking bottles’ that provide audible container label information;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) digital voice recorders attached to the prescription drug container; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) radio frequency identification tags;
+
+&emsp;&emsp;&emsp;“(iii) enhanced visual means, such as—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) large font labels or large font ‘duplicate’ labels that are affixed or matched to a prescription drug container;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) high-contrast printing; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) sans-serif font; and
+
+&emsp;&emsp;&emsp;“(iv) other relevant alternatives as determined by the working group;
+
+&emsp;&emsp;“(B) whether there are technical, financial, manpower, or other factors unique to pharmacies with 20 or fewer retail locations which may pose significant challenges to the adoption of the best practices; and
+
+&emsp;&emsp;“(C) such other factors as the working group determines to be appropriate.
+
+&emsp;“(5)
+
+Information campaign.—Upon completion of development of the best practices under subsection (a)(3), the National Council on Disability, in consultation with the working group, shall conduct an informational and educational campaign designed to inform individuals with disabilities, pharmacists, and the public about such best practices.
+
+&emsp;“(6)
+
+FACA waiver.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group.
+
+“(b)
+
+GAO Study.—
+
+&emsp;“(1)
+
+In general.—Beginning 18 months after the completion of the development of best practices under subsection (a)(3)(A), the Comptroller General of the United States shall conduct a review of the extent to which pharmacies are utilizing such best practices, and the extent to which barriers to accessible information on prescription drug container labels for blind and visually impaired individuals continue.
+
+&emsp;“(2)
+
+Report.—Not later than September 30, 2016, the Comptroller General of the United States shall submit to Congress a report on the review conducted under paragraph (1). Such report shall include recommendations about how best to reduce the barriers experienced by blind and visually impaired individuals to independently accessing information on prescription drug container labels.
+
+“(c)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘pharmacy’ includes a pharmacy that receives prescriptions and dispenses prescription drugs through an Internet Web site or by mail;
+
+&emsp;“(2) the term ‘prescription drug’ means a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)(1)); and
+
+&emsp;“(3) the term ‘prescription drug container label’ means the label with the directions for use that is affixed to the prescription drug container by the pharmacist and dispensed to the consumer.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Access Board”.</i>
 

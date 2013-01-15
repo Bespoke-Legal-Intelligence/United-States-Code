@@ -1,6 +1,6 @@
 ### §3001. Congressional declaration of objectives
 
-The Congress hereby finds and declares that, in keeping with the traditional American concept of the inherent dignity of the individual in our democratic society, the older people of our Nation are entitled to, and it is the joint and several duty and responsibility of the governments of the United States, of the several States and their political subdivisions, and of Indian tribes to assist our older people to secure equal opportunity to the full and free enjoyment of the following objectives:
+The Congress hereby finds and declares that, in keeping with the traditional American concept of the inherent dignity of the individual in our democratic society, the older people of our Nation are entitled to, and it is the joint and several duty and responsibility of the governments of the United States, of the several Statesand their political subdivisions, and of Indian tribes to assist our older people to secure equal opportunity to the full and free enjoyment of the following objectives:
 
 &emsp;(1) An adequate income in retirement in accordance with the American standard of living.
 
@@ -56,15 +56,15 @@ Pub. L. 103–171, §4(b), Dec. 2, 1993, 107 Stat. 1991, provided that: “The a
 
 &emsp;“(1) sections 303(a)(2), 303(a)(3), 304 (excluding paragraphs (1) and (2) of subsection (a)), 305, 306, 307, and 317 \[enacting sections 3030g–21 and 3030g–22 of this title and amending sections 3023 to 3027 of this title\], and
 
-&emsp;“(2) title VII \[enacting sections 3058 to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030<i>l</i> of this title\],
+&emsp;“(2) title VII \[enacting sections 3058 to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030l of this title\],
 
 > of the Older Americans Act Amendments of 1992 (Public Law 102–375; 106 Stat. 1221 et seq.) shall not apply with respect to fiscal year 1993.”
 
-Section 905 of Pub. L. 102–375 provided that:
+Pub. L. 102–375, title IX, §905, Sept. 30, 1992, 106 Stat. 1309, provided that:
 
 “(a)
 
-In General.—Except as provided in section 811(b) \[42 U.S.C. 1766 note\], any other provision of this Act \[see Tables for classification\] (other than this section), and in subsection (b) of this section, this Act and theamendments made by this Act shall take effect on the date of the enactment of this Act \[Sept. 30, 1992\].
+In General.—Except as provided in section 811(b) \[42 U.S.C. 1766 note\], any other provision of this Act \[see Tables for classification\] (other than this section), and in subsection (b) of this section, this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Sept. 30, 1992\].
 
 “(b)
 
@@ -80,7 +80,7 @@ State and community programs on aging.—The amendments made by sections 303(a)(
 
 &emsp;“(3)
 
-Project reports.—The amendments made by sections 410, 411, 413, 414, 415, 416, 418, and 419 \[enacting sections 3035i, 3035j, 3035<i>l</i> to 3035<i>o</i>, 3035q, and 3035r of this title\] shall not apply with respect to fiscal year 1992.
+Project reports.—The amendments made by sections 410, 411, 413, 414, 415, 416, 418, and 419 \[enacting sections 3035i, 3035j, 3035l to 3035o, 3035q, and 3035r of this title\] shall not apply with respect to fiscal year 1992.
 
 &emsp;“(4)
 
@@ -92,11 +92,11 @@ Indian and native hawaiian programs.—The amendments made by sections 601 and 6
 
 &emsp;“(6)
 
-Vulnerable elder rights protection activities.—The amendments made by title VII \[enacting sections 3058 to 3058k and 3058aa to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030<i>l</i> of this title\] shall not apply with respect to fiscal year 1992.”
+Vulnerable elder rights protection activities.—The amendments made by title VII \[enacting sections 3058 to 3058k and 3058aa to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030l of this title\] shall not apply with respect to fiscal year 1992.”
 
 #### Effective Date of 1987 Amendment
 
-Section 701 of Pub. L. 100–175 provided that:
+Pub. L. 100–175, title VII, §701, Nov. 29, 1987, 101 Stat. 983, provided that:
 
 “(a)
 
@@ -118,7 +118,7 @@ Effective Date of Section 506.—The amendments made by section 506 of this Act 
 
 #### Effective Date of 1984 Amendment
 
-Section 803 of Pub. L. 98–459 provided that:
+Pub. L. 98–459, title VIII, §803, Oct. 9, 1984, 98 Stat. 1793, provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
 
@@ -132,7 +132,7 @@ Section 803 of Pub. L. 98–459 provided that:
 
 #### Effective Date of 1978 Amendment
 
-Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
+Pub. L. 95–478, title V, §504, Oct. 18, 1978, 92 Stat. 1559, provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
 #### Short Title of 2007 Amendment
 
@@ -152,11 +152,11 @@ Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: “This Act
 
 #### Short Title of 1992 Amendment
 
-Section 1(a) of Pub. L. 102–375 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 1992’.”
+Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 1992’.”
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
+Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -164,15 +164,15 @@ Pub. L. 99–269, §1, Apr. 1, 1986, 100 Stat. 78, provided: “That this Act \[
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and 3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
+Pub. L. 98–459, §1, Oct. 9, 1984, 98 Stat. 1767, provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and 3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
 
 #### Short Title of 1981 Amendment
 
-Section 1(a) of Pub. L. 97–115 provided that: “This act \[enacting sections 3031, 3032, 3035 to 3035e, 3037, and 3037a of this title, amending this section, sections 3002 to 3003, 3012, 3013, 3015 to 3020d, 3021 to 3028, 3030, 3030a, 3030d, 3030g, 3035b, 3035e, 3036, 3056, 3056a, 3056c, 3056d, 3056f, 3057 to 3057g, 8622, 9902 to 9904, and 9911 of this title, and section 1087–2 of Title 20, Education, repealing section 3014 of this title, and enacting a provision set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1981’.”
+Pub. L. 97–115, §1(a), Dec. 29, 1981, 95 Stat. 1595, provided that: “This act \[enacting sections 3031, 3032, 3035 to 3035e, 3037, and 3037a of this title, amending this section, sections 3002 to 3003, 3012, 3013, 3015 to 3020d, 3021 to 3028, 3030, 3030a, 3030d, 3030g, 3035b, 3035e, 3036, 3056, 3056a, 3056c, 3056d, 3056f, 3057 to 3057g, 8622, 9902 to 9904, and 9911 of this title, and section 1087–2 of Title 20, Education, repealing section 3014 of this title, and enacting a provision set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1981’.”
 
 #### Short Title of 1978 Amendment
 
-Section 1(a) of Pub. L. 95–478 provided that: “This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the ‘Comprehensive Older Americans Act Amendments of 1978’.”
+Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: “This Act \[enacting sections 3020b to 3020d,3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under section 3056 of this title\] may be cited as the ‘Comprehensive Older Americans Act Amendments of 1978’.”
 
 #### Short Title of 1975 Amendment
 
@@ -180,7 +180,7 @@ Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–29 provided: “That this Act \[enacting chapter 35A of this title, subchs. III to V of this chapter, sections 3003, 3012, 3013 to 3020, 3044, 3045 of this title, and sections 351, 351c, 361 to 364, 1008a, and 1208a of Title 20, Education, amending this section, sections 3011, 3012, 3044a, 3044b, 3044e, and 3045a to 3045f of this title, and sections 351c, 351d, 351e, 1211, 1504, and 1505 of Title 20, repealing former subchs. III (sections 3021 to 3024a, and 3025 of this title), IV (sections 3031 and 3032 of this title), V (sections 3041 to 3043 of this title), and VIII (sections 3051 to 3055 of this title) of this chapter, and enacting provisions set out as notes under sections 2809, 3044b, and 3061 of this title and section 361 of Title 20\] may be cited as the ‘Older Americans Comprehensive Services Amendments of 1973’.”
+Pub. L. 93–29, §1, May 3, 1973, 87 Stat. 30, provided: “That this Act \[enacting chapter 35A of this title, subchs. III to V of this chapter, sections 3003, 3012, 3013 to 3020, 3044, 3045 of this title, and sections 351, 351c, 361 to 364, 1008a, and 1208a of Title 20, Education, amending this section, sections 3011, 3012, 3044a, 3044b, 3044e, and 3045a to 3045f of this title, and sections 351c, 351d, 351e, 1211, 1504, and 1505 of Title 20, repealing former subchs. III (sections 3021 to 3024a, and 3025 of this title), IV (sections 3031 and 3032 of this title), V (sections 3041 to 3043 of this title), and VIII (sections 3051 to 3055 of this title) of this chapter, and enacting provisions set out as notes under sections 2809, 3044b, and 3061 of this title and section 361 of Title 20\] may be cited as the ‘Older Americans Comprehensive Services Amendments of 1973’.”
 
 #### Short Title of 1967 Amendment
 
@@ -188,7 +188,7 @@ Pub. L. 90–42, §1, July 1, 1967, 81 Stat. 106, provided: “That this Act \[e
 
 #### Short Title
 
-Section 1 of Pub. L. 89–73 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Older Americans Act of 1965’.”
+Pub. L. 89–73, §1, July 14, 1965, 79 Stat. 218, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Older Americans Act of 1965’.”
 
 Pub. L. 89–73, title III, §371, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2253, provided that: “This part \[part E (§§371–376) of title III of Pub. L. 89–73, enacting part E of subchapter III of this chapter\] may be cited as the ‘National Family Caregiver Support Act’.”
 
@@ -200,15 +200,15 @@ Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 9
 
 #### Regulations
 
-Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
+Pub. L. 102–375, title IX, §902, Sept. 30, 1992, 106 Stat. 1305, provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
-Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
+Pub. L. 102–375, title II, §211, Sept. 30, 1992, 106 Stat. 1215, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
 #### Study on Board and Care Facility Quality
 
-Section 212 of Pub. L. 102–375 provided that:
+Pub. L. 102–375, title II, §212, Sept. 30, 1992, 106 Stat. 1216, provided that:
 
 “(a)
 
@@ -308,7 +308,7 @@ Authorization.—There are authorized to be appropriated to carry out this secti
 
 #### Study on Home Care Quality
 
-Section 213 of Pub. L. 102–375 provided that:
+Pub. L. 102–375, title II, §213, Sept. 30, 1992, 106 Stat. 1218, provided that:
 
 “(a)
 
@@ -364,7 +364,7 @@ Authorization.—There are authorized to be appropriated to carry out this secti
 
 #### Long-Term Health Care Workers
 
-Subtitle A of title VIII of Pub. L. 102–375 provided that:
+Pub. L. 102–375, title VIII, subtitle A, Sept. 30, 1992, 106 Stat. 1293–1295, provided that:
 
 #### “SEC. 801. DEFINITIONS.
 
@@ -380,7 +380,7 @@ Home health care aide.—The term ‘home health care aide’ means an individua
 
 &emsp;&emsp;“(A) is employed by a government, charitable, nonprofit, or proprietary agency; and
 
-&emsp;&emsp;“(B) cares for elderly, convalescent, or handicapped individuals in the home of the individuals by performing routine home assistance (such as housecleaning, cooking, and laundry) and assisting in the health care of such individuals under the direction of a physician or nurse.
+&emsp;&emsp;“(B) cares for elderly, convalescent, or handicapped individuals in the home of the individualsby performing routine home assistance (such as housecleaning, cooking, and laundry) and assisting in the health care of such individuals under the direction of a physician or nurse.
 
 #### “SEC. 802. INFORMATION REQUIREMENTS.
 
@@ -514,11 +514,11 @@ Report to Congress.—The Commissioner on Aging \[now Assistant Secretary for Ag
 
 #### Limitation on Authority To Enter Into Contracts
 
-Section 901 of Pub. L. 102–375 provided that: “Any authority to enter into contracts under this Act \[see Tables for classification\] or an amendment made by this Act shall be effective only to the extent or in such amounts as are provided in advance in appropriations Acts.”
+Pub. L. 102–375, title IX, §901, Sept. 30, 1992, 106 Stat. 1305, provided that: “Any authority to enter into contracts under this Act \[see Tables for classification\] or an amendment made by this Act shall be effective only to the extent or in such amounts as are provided in advance in appropriations Acts.”
 
 #### White House Conference on Aging
 
-Title II of Pub. L. 100–175, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235; Pub. L. 109–365, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2598, provided that:
+Pub. L. 100–175, title II, Nov. 29, 1987, 101 Stat. 967–971, as amended by Pub. L. 102–375, title VIII, §§831–836, 839(a), Sept. 30, 1992, 106 Stat. 1300–1305; Pub. L. 103–171, §6, Dec. 2, 1993, 107 Stat. 1992; Pub. L. 106–501, §211, Nov. 13, 2000, 114 Stat. 2235; Pub. L. 109–365, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2598, provided that:
 
 #### “SEC. 201. AUTHORIZATION OF THE CONFERENCE.
 
@@ -730,15 +730,15 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 
-\[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an EffectiveDate of 2008 Amendment note under section 5376 of Title 5.\]
+\[For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
+\[Pub. L. 102–375, title VIII, §837, Sept. 30, 1992, 106 Stat. 1304, provided that: “All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 
 #### Executive Order No. 11022
 
-Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053,which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

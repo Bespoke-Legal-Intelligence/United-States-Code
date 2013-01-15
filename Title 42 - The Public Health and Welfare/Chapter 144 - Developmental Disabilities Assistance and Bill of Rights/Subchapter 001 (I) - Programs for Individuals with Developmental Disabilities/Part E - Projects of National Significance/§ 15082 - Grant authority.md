@@ -18,7 +18,7 @@ The Secretary shall award grants, contracts, or cooperative agreements to public
 
 #### (B) Relation to program purposes
 
-&emsp;&emsp;Funds transferred or received pursuant to this paragraph shall be used only in accordance with statutes authorizing the appropriation of such funds. Such funds shall be made available through grants, contracts, or cooperative agreements only to recipientseligible to receive such funds under such statutes.
+&emsp;&emsp;Funds transferred or received pursuant to this paragraph shall be used only in accordance with statutes authorizing the appropriation of such funds. Such funds shall be made available through grants, contracts, or cooperative agreements only to recipients eligible to receive such funds under such statutes.
 
 #### (C) Procedures and criteria
 

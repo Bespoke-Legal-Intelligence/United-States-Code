@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 109–177, §123(4), substituted “paragraphs (1) through 
 
 <b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” andinserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
+Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
 
 Subsec. (b)(4). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 

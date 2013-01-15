@@ -92,11 +92,15 @@ In this section:
 
 &emsp;The term “country of proliferation concern” means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
 
-&emsp;&emsp;(A) in the most recent report under section 2366 of this title; or
+&emsp;&emsp;(A) in the most recent report under section 2366 <sup>2</sup> of this title; or
 
 &emsp;&emsp;(B) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.
 
 (Pub. L. 111–84, div. A, title X, §1055, Oct. 28, 2009, 123 Stat. 2461; Pub. L. 111–383, div. A, title X, §1075(d)(13), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title X, §1071, Dec. 31, 2011, 125 Stat. 1592.)
+
+#### References in Text
+
+Section 2366 of this title, referred to in subsec. (g)(2)(A), was repealed by Pub. L. 112–239, div. A, title X, §1065(c), Jan. 2, 2013, 126 Stat. 1943, and Pub. L. 112–277, title III, §310(a)(1), Jan. 14, 2013, 126 Stat. 2474.
 
 #### Codification
 
@@ -119,4 +123,6 @@ Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, pro
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 111–84, 123 Stat. 2208. See note under section 101 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “A”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

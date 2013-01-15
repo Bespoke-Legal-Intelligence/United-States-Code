@@ -28,7 +28,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 (1) In operating the National Atomic Museum, the Secretary of Energy may—
 
-&emsp;(A) accept and use donations of money or gifts pursuant to section 7262 <sup>1</sup> of this title, if such gifts or money are designated in a written document signed by the donor as intended for the museum, and such donations or giftsare determined by the Secretary to be suitable and beneficial for use by the museum;
+&emsp;(A) accept and use donations of money or gifts pursuant to section 7262 <sup>1</sup> of this title, if such gifts or money are designated in a written document signed by the donor as intended for the museum, and such donations or gifts are determined by the Secretary to be suitable and beneficial for use by the museum;
 
 &emsp;(B) operate a retail outlet on the premises of the museum for the purpose of selling or distributing mementos, replicas of memorabilia, literature, materials, and other items of an informative, educational, and tasteful nature relevant to the contents of the museum; and
 

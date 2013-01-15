@@ -10,5 +10,5 @@ A search warrant relating to offenses involving controlled substances may be ser
 
 #### Change of Name
 
-“United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

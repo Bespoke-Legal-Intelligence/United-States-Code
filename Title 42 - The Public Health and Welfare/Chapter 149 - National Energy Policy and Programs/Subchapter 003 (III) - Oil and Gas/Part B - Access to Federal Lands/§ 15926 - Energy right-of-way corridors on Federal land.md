@@ -4,7 +4,7 @@
 
 Not later than 2 years after August 8, 2005, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Defense, the Secretary of Energy, and the Secretary of the Interior (in this section referred to collectively as “the Secretaries”), in consultation with the Federal Energy Regulatory Commission, States, tribal or local units of governments as appropriate, affected utility industries, and other interested persons, shall consult with each other and shall—
 
-&emsp;(1) designate, under their respective authorities, corridors for oil, gas, and hydrogen pipelines and electricity transmission and distribution facilities on Federal land in the eleven contiguous Western States (as defined in section 1702(<i>o</i>) of title 43; <sup>1</sup>
+&emsp;(1) designate, under their respective authorities, corridors for oil, gas, and hydrogen pipelines and electricity transmission and distribution facilities on Federal land in the eleven contiguous Western States (as defined in section 1702(o) of title 43; <sup>1</sup>
 
 &emsp;(2) perform any environmental reviews that may be required to complete the designation of such corridors; and
 

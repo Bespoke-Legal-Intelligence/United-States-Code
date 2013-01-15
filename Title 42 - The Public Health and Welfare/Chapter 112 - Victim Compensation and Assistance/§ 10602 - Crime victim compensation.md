@@ -130,7 +130,7 @@ Subsec. (d)(3). Pub. L. 100–690, §7125(c)(2), inserted reference to driving w
 
 #### Effective Date of 1996 Amendment
 
-Section 233(d) of Pub. L. 104–132, as amended by Pub. L. 105–119, title I, §120, Nov. 26, 1997, 111 Stat. 2468, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect October 1, 1999.”
+Pub. L. 104–132, title II, §233(d), Apr. 24, 1996, 110 Stat. 1245, as amended by Pub. L. 105–119, title I, §120, Nov. 26, 1997, 111 Stat. 2468, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect October 1, 1999.”
 
 #### Effective Date of 1988 Amendment
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 100–690 not applicable with respect to a State compensati
 
 #### Application of Amendment by Section 234(a)(1) of Pub. L. 104–132
 
-Section 234(a)(2) of Pub. L. 104–132 provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 \[42 U.S.C. 10602(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
+Pub. L. 104–132, title II, §234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 \[42 U.S.C. 10602(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

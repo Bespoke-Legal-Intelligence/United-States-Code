@@ -26,7 +26,7 @@ This section shall be applicable with regard to any amounts received, or payment
 
 #### (d) Related persons
 
-Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specifiedwithin any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
+Subsection (a) shall not apply to any transfer, directly or indirectly, between persons specified within any one of the paragraphs of section 267(b) or persons described in section 707(b); except that, in applying section 267(b) and (c) and section 707(b) for purposes of this section—
 
 &emsp;(1) the phrase “25 percent or more” shall be substituted for the phrase “more than 50 percent” each place it appears in section 267(b) or 707(b), and
 
@@ -68,11 +68,11 @@ Amendment by section 1001(b)(19) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 #### Effective Date of 1958 Amendment
 
-Section 54(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to transfers after such date.”
+Pub. L. 85–866, title I, §54(b), Sept. 2, 1958, 72 Stat. 1644, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to transfers after such date.”
 

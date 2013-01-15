@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (A) Net reductions
 
-&emsp;The term “net reductions” refers to the extent to which a project or program supported under this section results in lower greenhouse gas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund's project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
+&emsp;The term “net reductions” refers to the extent to which a project or program supported under this section results in lower greenhousegas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund's project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
 
 #### (B) Public sector activities
 

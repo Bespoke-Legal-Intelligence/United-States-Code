@@ -18,7 +18,7 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (1) Advertisements and applications
 
-&emsp;(A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored orfunded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a) of this section.
+&emsp;(A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored or funded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a) of this section.
 
 &emsp;(B) The requirement described in subparagraph (A) shall not apply in the case of an event for which a head of an agency of the Federal Government, pursuant to subsection (b) of this section, waives the prohibition described in subsection (a) of this section.
 

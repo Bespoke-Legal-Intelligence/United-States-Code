@@ -44,7 +44,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (7) This subsection shall only apply to advances made on or after April 1, 1982.
 
-(8)(A) With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of atleast 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.
+(8)(A) With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of at least 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.
 
 (B) To meet the criteria of this subparagraph a State must—
 
@@ -118,17 +118,17 @@ Subsec. (b). Pub. L. 97–35, §2407(a), added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 
-Section 5404(b) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title V, §5404(b), Aug. 5, 1997, 111 Stat. 604, provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9156(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest paid on advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9156(b), Dec. 22, 1987, 101 Stat. 1330–327, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest paid on advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1983 Amendment
 
-Section 5(b) of Pub. L. 98–118 provided that: “The amendments made by this section \[amending this section\] shall apply to advances made on or after April 1, 1982.”
+Pub. L. 98–118, §5(b), Oct. 11, 1983, 97 Stat. 804, provided that: “The amendments made by this section \[amending this section\] shall apply to advances made on or after April 1, 1982.”
 
 #### Effective Date of 1982 Amendment
 
-Section 274(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest required to be paid after December 31, 1982.”
+Pub. L. 97–248, title II, §274(b), Sept. 3, 1982, 96 Stat. 558, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interest required to be paid after December 31, 1982.”
 

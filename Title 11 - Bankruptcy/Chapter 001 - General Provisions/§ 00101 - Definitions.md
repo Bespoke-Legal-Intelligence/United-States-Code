@@ -784,7 +784,7 @@ The Investment Company Act of 1940, referred to in par. (22)(B), is title I of a
 
 Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
 
-The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78<i>o</i>–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78o–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade.Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
@@ -1282,7 +1282,7 @@ Certain limitations applicable to debtors.—The amendments made by sections 308
 
 #### Effective Date of 1994 Amendment
 
-Section 702 of Pub. L. 103–394 provided that:
+Pub. L. 103–394, title VII, §702, Oct. 22, 1994, 108 Stat. 4150, provided that:
 
 “(a)
 
@@ -1302,15 +1302,15 @@ Application of Amendments.—(1) Except as provided in paragraph (2), the amendm
 
 #### Effective Date of 1992 Amendment
 
-Section 3017(c) of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title XXX, §3017(c), Oct. 24, 1992, 106 Stat. 3131, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 541 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 24, 1992\].
 
 “(2) The amendments made by this section shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
-Section 12 of Pub. L. 100–597 provided that:
+Pub. L. 100–597, §12, Nov. 3, 1988, 102 Stat. 3030, provided that:
 
 “(a)
 
@@ -1320,7 +1320,7 @@ Effective Date.—Except as provided in subsection (b), this Act and the amendme
 
 Application of Amendments.—The amendments made by this Act shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act \[Nov. 3, 1988\].”
 
-Section 2 of Pub. L. 100–506 provided that:
+Pub. L. 100–506, §2, Oct. 18, 1988, 102 Stat. 2539, provided that:
 
 “(a)
 
@@ -1340,7 +1340,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 
-Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, as renumbered by Pub. L. 98–531, §1(2), Oct. 19, 1984, 98 Stat. 2704, provided that:
+Pub. L. 98–353, title III, §552, formerly §553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, §1(2), Oct. 19, 1984, 98 Stat. 2704, provided that:
 
 “(a) Except as otherwise provided in this section the amendments made by this title \[see Tables for classification\] shall become effective to cases filed 90 days after the date of enactment of this Act \[July 10, 1984\].
 
@@ -1394,11 +1394,11 @@ Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Section 1(a) of Pub. L. 103–394 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Bankruptcy Reform Act of 1994’.”
+Pub. L. 103–394, §1(a), Oct. 22, 1994, 108 Stat. 4106, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Bankruptcy Reform Act of 1994’.”
 
-#### Short Title of 1990 Amendments
+#### Short Title of 1990 Amendment
 
-Pub. L. 101–581, §1, Nov. 15, 1990, 104 Stat. 2865, and section 3101 of title XXXI of Pub. L. 101–647, providedrespectively that such Act and such title \[amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title\] may be cited as the “Criminal Victims Protection Act of 1990”.
+Pub. L. 101–581, §1, Nov. 15, 1990, 104 Stat. 2865, and Pub. L. 101–647, title XXXI, §3101, Nov. 29, 1990, 104 Stat. 4916, provided respectively that such Act and such title \[amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title\] may be cited as the “Criminal Victims Protection Act of 1990”.
 
 #### Short Title of 1988 Amendment
 
@@ -1406,7 +1406,7 @@ Pub. L. 100–334, §1, June 16, 1988, 102 Stat. 610, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 361 of subtitle C (§§361–363) of title III of Pub. L. 98–353 provided that: “This subtitle \[amending sections 362, 365, and 541 of this title\] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
+Pub. L. 98–353, title III, §361, July 10, 1984, 98 Stat. 361, provided that: “This subtitle \[subtitle C (§§361–363) of title III of Pub. L. 98–353, amending sections 362, 365, and 541 of this title\] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
 
 #### Savings Provision
 
@@ -1414,9 +1414,9 @@ Pub. L. 109–8, title IX, §912, as added Pub. L. 109–390, §5(d), Dec. 12, 2
 
 #### Separability
 
-Section 701 of Pub. L. 103–394 provided that: “If any provision of this Act \[see Tables for classification\] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
+Pub. L. 103–394, title VII, §701, Oct. 22, 1994, 108 Stat. 4150, provided that: “If any provision of this Act \[see Tables for classification\] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
 
-Section 551 of title III (§§301–553) of Pub. L. 98–353 provided that: “If any provision of this title or any amendment made by this title \[see Tables for classification\], or the application thereof to any person or circumstance is held invalid, the provisions of every other part, and their application shall not be affected thereby.”
+Pub. L. 98–353, title III, §551, July 10, 1984, 98 Stat. 391, provided that: “If any provision of this title \[title III (§§301–553) of Pub. L. 98–353, see Tables for classification\] or any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of every other part, and their application shall not be affected thereby.”
 
 #### Construction
 
@@ -1436,7 +1436,9 @@ Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that:
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount “164,250” was adjusted to “175,750”; in par. (18)(A), (B)(ii), dollar amount “3,544,525” was adjusted to “3,792,650” each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount “1,642,500” was adjusted to “1,757,475” each time it appeared; and, in par. (51D)(A), (B), dollar amount “2,190,000” was adjusted to “2,343,300” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount “175,750” was adjusted to “186,825”; in par. (18), dollar amount “3,792,650” was adjusted to “4,031,575” each time it appeared; in par. (19A), dollar amount “1,757,475” was adjusted to “1,868,200” each time it appeared; and, in par. (51D), dollar amount “2,343,300” was adjusted to “2,490,925” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount “164,250” was adjusted to “175,750”; in par. (18)(A), (B)(ii), dollar amount “3,544,525” was adjusted to “3,792,650” each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount “1,642,500” was adjusted to “1,757,475” each time it appeared; and, in par. (51D)(A), (B), dollar amount “2,190,000” was adjusted to “2,343,300” each time it appeared.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount “150,000” was adjusted to “164,250”; in par. (18), dollar amount “3,237,000” was adjusted to “3,544,525” each time it appeared; in par. (19A), dollar amount “1,500,000” was adjusted to “1,642,500” each time it appeared; and, in par. (51D), dollar amount “2,000,000” was adjusted to “2,190,000” each time it appeared.
 

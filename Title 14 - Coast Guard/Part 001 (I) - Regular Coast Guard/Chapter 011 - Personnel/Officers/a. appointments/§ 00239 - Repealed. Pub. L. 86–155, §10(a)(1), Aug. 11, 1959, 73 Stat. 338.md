@@ -4,7 +4,7 @@ Section, acts Aug. 4, 1949, ch. 393, 63 Stat. 516; Aug. 3, 1950, ch. 536, §6, 6
 
 #### Effective Date of Repeal
 
-Section 10(b) of Pub. L. 86–155 provided that repeal of this section and section 309 of this title shall become effective on Nov. 1, 1959.
+Pub. L. 86–155, §10(b), Aug. 11, 1959, 73 Stat. 338, provided that repeal of this section and section 309 of this title shall become effective on Nov. 1, 1959.
 
 #### Additional Repeal
 

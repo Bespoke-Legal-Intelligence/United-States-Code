@@ -22,5 +22,5 @@ Subsec. (b). Pub. L. 97–320, as amended by Pub. L. 97–457, added subsec. (b)
 
 #### Effective Date of 1983 Amendment
 
-Section 23(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending section 412 of Pub. L. 97–320, which amended this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+Pub. L. 97–457, §23(b), Jan. 12, 1983, 96 Stat. 2510, provided that: “The amendment made by subsection (a) \[amending section 412 of Pub. L. 97–320, which amended this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
 

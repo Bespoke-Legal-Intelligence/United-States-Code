@@ -12,7 +12,7 @@ Employment on Permanent Basis Not Permitted.—A corporation, firm, or individua
 
 Responsibility of Administrator.—Notwithstanding any other provision of this section, the Administrator is responsible for all construction authorized by this chapter, including the interpretation of construction contracts, approval of material and workmanship supplied under a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1163; Pub. L. 111–350, §5(<i>l</i>)(17), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1163; Pub. L. 111–350, §5(l)(17), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

@@ -36,7 +36,7 @@ In any case in which an individual ceases to be a candidate as a result of the o
 
 &emsp;(1) shall no longer be eligible to receive any payments under section 9006, except that such individual shall be eligible to receive payments under such section to defray qualified campaign expenses incurred while actively seeking election to the office of President of the United States or to the office of Vice President of the United States in more than one State; and
 
-&emsp;(2) shall pay to the Secretary, as soon as practicable after the date upon which such individual ceases to be a candidate, an amount equal to the amount of payments received by such individual under section 9006 which arenot used to defray qualified campaign expenses.
+&emsp;(2) shall pay to the Secretary, as soon as practicable after the date upon which such individual ceases to be a candidate, an amount equal to the amount of payments received by such individual under section 9006 which are not used to defray qualified campaign expenses.
 
 #### (e) Closed captioning requirement
 
@@ -60,7 +60,7 @@ Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted “Commission” f
 
 #### Effective Date of 1992 Amendment
 
-Section 534(b) of Pub. L. 102–393 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\].”
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\].”
 
 #### Effective Date of 1976 Amendment
 

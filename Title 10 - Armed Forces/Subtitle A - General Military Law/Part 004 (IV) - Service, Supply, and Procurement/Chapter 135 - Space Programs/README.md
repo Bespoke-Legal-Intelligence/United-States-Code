@@ -7,10 +7,15 @@
 | [2273\.](%C2%A7%2002273%20-%20Policy%20regarding%20assured%20access%20to%20space%20national%20security%20payloads.md) | Policy regarding assured access to space: national security payloads. |
 | [2273a.](%C2%A7%2002273a%20-%20Operationally%20Responsive%20Space%20Program%20Office.md) | Operationally Responsive Space Program Office. |
 | [2274\.](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md) | Space situational awareness services and information: provision to non-United States Government entities. |
+| [2275\.](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md) | Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. |
+| [2276\.](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md) | Commercial space launch cooperation. |
+| [2277\.](%C2%A7%2002277%20-%20Report%20on%20foreign%20counter-space%20programs.md) | Report on foreign counter-space programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title IX, §912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 “Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government”.
 
@@ -30,3 +35,6 @@
 - [&sect; 02273 - Policy regarding assured access to space national security payloads](%C2%A7%2002273%20-%20Policy%20regarding%20assured%20access%20to%20space%20national%20security%20payloads.md)
 - [&sect; 02273a - Operationally Responsive Space Program Office](%C2%A7%2002273a%20-%20Operationally%20Responsive%20Space%20Program%20Office.md)
 - [&sect; 02274 - Space situational awareness services and information provision to non-United States Government entities](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md)
+- [&sect; 02275 - Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding&#8230;](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md)
+- [&sect; 02276 - Commercial space launch cooperation](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md)
+- [&sect; 02277 - Report on foreign counter-space programs](%C2%A7%2002277%20-%20Report%20on%20foreign%20counter-space%20programs.md)

@@ -26,7 +26,7 @@ Section was enacted as part of the Elementary and Secondary Education Amendments
 
 #### Effective Date
 
-Section 191 of Pub. L. 89–750 provided that: “The provisions of this title \[enacting this section and sections 241m, 871 to 880, and 886 of Title 20, Education, amending sections 241b, 241c, 241e, 241f, 241g, 241h, 241j, 241k, 241<i>l</i>, 244, 331a, 332a, 332b, 821, 822, 823, 841, 842, 843, 844, 861, 862, 863, 864, 883, and 884 of Title 20, repealing section 241d of Title 20, and enacting provisions set out as notes under sections 241a, 241b, and 241c of Title 20\] shall be effective with respect to fiscal years beginning after June 30, 1966, except as specifically provided otherwise.”
+Pub. L. 89–750, title I, §191, Nov. 3, 1966, 80 Stat. 1210, provided that: “The provisions of this title \[enacting this section and sections 241m, 871 to 880, and 886 of Title 20, Education, amending sections 241b, 241c, 241e, 241f, 241g, 241h, 241j, 241k, 241l, 244, 331a, 332a, 332b, 821, 822, 823, 841, 842, 843, 844, 861, 862, 863, 864, 883, and 884 of Title 20, repealing section 241d of Title 20, and enacting provisions set out as notes under sections 241a, 241b, and 241c of Title 20\] shall be effective with respect to fiscal years beginning after June 30, 1966, except as specifically provided otherwise.”
 
 #### Transfer of Functions
 

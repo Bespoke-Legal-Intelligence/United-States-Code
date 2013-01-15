@@ -6,7 +6,7 @@ Whenever the Commission begins an investigation under section 2252 of this title
 
 &emsp;(1) the number of firms in the domestic industry producing the like or directly competitive article which have been or are likely to be certified as eligible for adjustment assistance, and
 
-&emsp;(2) the extent to which the orderly adjustment of such firms to the import competitionmay be facilitated through the use of existing programs.
+&emsp;(2) the extent to which the orderly adjustment of such firms to the import competition may be facilitated through the use of existing programs.
 
 #### (b) Report; publication
 

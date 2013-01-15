@@ -1,0 +1,210 @@
+### §165. Territorial and Puerto Rico highway program
+
+(a)
+
+Division of Funds.—Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
+
+&emsp;(1) $150,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+
+&emsp;(2) $40,000,000 shall be for the territorial highway program under subsection (c).
+
+(b)
+
+Puerto Rico Highway Program.—
+
+&emsp;(1)
+
+In general.—The Secretary shall allocate funds made available to carry out this subsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
+
+&emsp;(2)
+
+Treatment of funds.—Amounts made available to carry out this subsection for a fiscal year shall be administered as follows:
+
+&emsp;&emsp;(A)
+
+Apportionment.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate of the amounts for the fiscal year; by
+
+&emsp;&emsp;&emsp;&emsp;(II) the proportion that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount of funds apportioned to Puerto Rico for each such program for fiscal year 1997; bears to
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount of funds apportioned to Puerto Rico for all such programs for fiscal year 1997.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exception.—Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
+
+&emsp;&emsp;(B)
+
+Penalty.—The amounts treated as being apportioned to Puerto Rico under each section referred to in subparagraph (A) shall be deemed to be required to be apportioned to Puerto Rico under that section for purposes of the imposition of any penalty under this title or title 49.
+
+&emsp;&emsp;(C)
+
+Eligible uses of funds.—Of amounts allocated to Puerto Rico for the Puerto Rico Highway Program for a fiscal year—
+
+&emsp;&emsp;&emsp;(i) at least 50 percent shall be available only for purposes eligible under section 119;
+
+&emsp;&emsp;&emsp;(ii) at least 25 percent shall be available only for purposes eligible under section 148; and
+
+&emsp;&emsp;&emsp;(iii) any remaining funds may be obligated for activities eligible under chapter 1.
+
+&emsp;(3)
+
+Effect on apportionments.—Except as otherwise specifically provided, Puerto Rico shall not be eligible to receive funds apportioned to States under this title.
+
+(c)
+
+Territorial Highway Program.—
+
+&emsp;(1)
+
+Territory defined.—In this subsection, the term “territory” means any of the following territories of the United States:
+
+&emsp;&emsp;(A) American Samoa.
+
+&emsp;&emsp;(B) The Commonwealth of the Northern Mariana Islands.
+
+&emsp;&emsp;(C) Guam.
+
+&emsp;&emsp;(D) The United States Virgin Islands.
+
+&emsp;(2)
+
+Program.—
+
+&emsp;&emsp;(A)
+
+In general.—Recognizing the mutual benefits that will accrue to the territories and the United States from the improvement of highways in the territories, the Secretary may carry out a program to assist each government of a territory in the construction and improvement of a system of arterial and collector highways, and necessary inter-island connectors, that is—
+
+&emsp;&emsp;&emsp;(i) designated by the Governor or chief executive officer of each territory; and
+
+&emsp;&emsp;&emsp;(ii) approved by the Secretary.
+
+&emsp;&emsp;(B)
+
+Federal share.—The Federal share of Federal financial assistance provided to territories under this subsection shall be in accordance with section 120(g).
+
+&emsp;(3)
+
+Technical assistance.—
+
+&emsp;&emsp;(A)
+
+In general.—To continue a long-range highway development program, the Secretary may provide technical assistance to the governments of the territories to enable the territories, on a continuing basis—
+
+&emsp;&emsp;&emsp;(i) to engage in highway planning;
+
+&emsp;&emsp;&emsp;(ii) to conduct environmental evaluations;
+
+&emsp;&emsp;&emsp;(iii) to administer right-of-way acquisition and relocation assistance programs; and
+
+&emsp;&emsp;&emsp;(iv) to design, construct, operate, and maintain a system of arterial and collector highways, including necessary inter-island connectors.
+
+&emsp;&emsp;(B)
+
+Form and terms of assistance.—Technical assistance provided under subparagraph (A), and the terms for the sharing of information among territories receiving the technical assistance, shall be included in the agreement required by paragraph (5).
+
+&emsp;(4)
+
+Nonapplicability of certain provisions.—
+
+&emsp;&emsp;(A)
+
+In general.—Except to the extent that provisions of this chapter are determined by the Secretary to be inconsistent with the needs of the territories and the intent of this subsection, this chapter (other than provisions of this chapter relating to the apportionment and allocation of funds) shall apply to funds made available under this subsection.
+
+&emsp;&emsp;(B)
+
+Applicable provisions.—The agreement required by paragraph (5) for each territory shall identify the sections of this chapter that are applicable to that territory and the extent of the applicability of those sections.
+
+&emsp;(5)
+
+Agreement.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (D), none of the funds made available under this subsection shall be available for obligation or expenditure with respect to any territory until the chief executive officer of the territory has entered into an agreement (including an agreement entered into under section 215 as in effect on the day before the enactment of this section) with the Secretary providing that the government of the territory shall—
+
+&emsp;&emsp;&emsp;(i) implement the program in accordance with applicable provisions of this chapter and paragraph (4);
+
+&emsp;&emsp;&emsp;(ii) design and construct a system of arterial and collector highways, including necessary inter-island connectors, in accordance with standards that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) appropriate for each territory; and
+
+&emsp;&emsp;&emsp;&emsp;(II) approved by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) provide for the maintenance of facilities constructed or operated under this subsection in a condition to adequately serve the needs of present and future traffic; and
+
+&emsp;&emsp;&emsp;(iv) implement standards for traffic operations and uniform traffic control devices that are approved by the Secretary.
+
+&emsp;&emsp;(B)
+
+Technical assistance.—The agreement required by subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) specify the kind of technical assistance to be provided under the program;
+
+&emsp;&emsp;&emsp;(ii) include appropriate provisions regarding information sharing among the territories; and
+
+&emsp;&emsp;&emsp;(iii) delineate the oversight role and responsibilities of the territories and the Secretary.
+
+&emsp;&emsp;(C)
+
+Review and revision of agreement.—The agreement entered into under subparagraph (A) shall be reevaluated and, as necessary, revised, at least every 2 years.
+
+&emsp;&emsp;(D)
+
+Existing agreements.—With respect to an agreement under this subsection or an agreement entered into under section 215 of this title as in effect on the day before the date of enactment of this subsection—
+
+&emsp;&emsp;&emsp;(i) the agreement shall continue in force until replaced by an agreement entered into in accordance with subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) amounts made available under this subsection under the existing agreement shall be available for obligation or expenditure so long as the agreement, or the existing agreement entered into under subparagraph (A), is in effect.
+
+&emsp;(6)
+
+Eligible uses of funds.—
+
+&emsp;&emsp;(A)
+
+In general.—Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
+
+&emsp;&emsp;&emsp;(i) Eligible surface transportation program projects described in section 133(b).
+
+&emsp;&emsp;&emsp;(ii) Cost-effective, preventive maintenance consistent with section 116(e).
+
+&emsp;&emsp;&emsp;(iii) Ferry boats, terminal facilities, and approaches, in accordance with subsections (b) and (c) of section 129.
+
+&emsp;&emsp;&emsp;(iv) Engineering and economic surveys and investigations for the planning, and the financing, of future highway programs.
+
+&emsp;&emsp;&emsp;(v) Studies of the economy, safety, and convenience of highway use.
+
+&emsp;&emsp;&emsp;(vi) The regulation and equitable taxation of highway use.
+
+&emsp;&emsp;&emsp;(vii) Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
+
+&emsp;&emsp;(B)
+
+Prohibition on use of funds for routine maintenance.—None of the funds made available under this subsection shall be obligated or expended for routine maintenance.
+
+&emsp;(7)
+
+Location of projects.—Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.
+
+(Added Pub. L. 109–59, title I, §1120(a), Aug. 10, 2005, 119 Stat. 1191; amended Pub. L. 112–141, div. A, title I, §1114(a), July 6, 2012, 126 Stat. 464.)
+
+#### References in Text
+
+Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probably mean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
+
+#### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to Puerto Rico highway program.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+

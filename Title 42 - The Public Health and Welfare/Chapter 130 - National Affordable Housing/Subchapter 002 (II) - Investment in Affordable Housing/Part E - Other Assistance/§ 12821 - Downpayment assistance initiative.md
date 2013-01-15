@@ -34,7 +34,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) Downpayment assistance
 
-&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with a term equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
+&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with aterm equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
 
 #### (B) Home repairs
 

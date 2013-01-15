@@ -10,5 +10,5 @@ The Secretary may furnish persons discharged pursuant to the sentence of a Coast
 
 #### Effective Date
 
-Section effective May 31, 1951, see section 5 of act May 5, 1950.
+Section effective May 31, 1951, see act May 5, 1950, ch. 169, §5, 64 Stat. 145.
 

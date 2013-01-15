@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-If any portion of the qualified business credits determined for any taxable year has not, after the application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
+If any portion of the qualified business credits determined for any taxable year has not, afterthe application of section 38(c), been allowed to the taxpayer as a credit under section 38 for any taxable year, an amount equal to the credit not so allowed shall be allowed to the taxpayer as a deduction for the first taxable year following the last taxable year for which such credit could, under section 39, have been allowed as a credit.
 
 #### (b) Taxpayer's dying or ceasing to exist
 
@@ -110,7 +110,7 @@ Amendment by section 339(e) of Pub. L. 108–357 applicable to expenses paid or 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 38 of this title.
+Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Section 205(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §205(c)(1), Sept. 3, 1982, 96 Stat. 430, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -166,7 +166,7 @@ Exception.—The amendments made by subsection (a) shall not apply to any proper
 
 &emsp;“(iii) with respect to which an election under section 168(f)(8)(A) of such Code is not in effect at any time, and
 
-&emsp;“(iv) is not described in section 167(<i>l</i>)(3)(A) of such Code.
+&emsp;“(iv) is not described in section 167(l)(3)(A) of such Code.
 
 “(C)
 
@@ -202,7 +202,7 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 &emsp;&emsp;“(I) before July 1, 1982, a public offering with respect to interests in such property was registered with the Securities and Exchange Commission,
 
-&emsp;&emsp;“(II) before such date an application with respect to such property was filed under section 8 of the United States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
+&emsp;&emsp;“(II) before such date an application with respect to such property was filed under section 8 of theUnited States Housing Act of 1937 \[section 1437f of Title 42, The Public Health and Welfare\], and
 
 &emsp;&emsp;“(III) such property is placed in service before July 1, 1984.”
 

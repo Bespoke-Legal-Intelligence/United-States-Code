@@ -4,13 +4,13 @@
 
 In General.—
 
-&emsp;(1)
+&emsp;(1) $900
 
-$900 billion.—
+billion.—
 
 &emsp;&emsp;(A)
 
-Certification.—If, not later than December 31, 2011, the President submits a written certification to Congress that the President has determined that the debt subject to limit is within $100,000,000,000 of the limit in section 3101(b) and that further borrowing is required to meet existing commitments, the Secretary of the Treasury may exercise authority to borrow an additional $900,000,000,000, subject to the enactment of a joint resolution of disapproval enacted pursuant to this section. Upon submission of such certification, the limit on debt provided in section 3101(b) (referred to in this section as the “debt limit”) is increased by $400,000,000,000.
+Certification.—If, not later than December 31, 2011, the President submits a written certification to Congress that the President has determined that the debt subject to limit is within $100,000,000,000 of the limit in section 3101(b) and that further borrowing is required to meet existing commitments, the Secretary of the Treasury may exercise authority to borrow an additional $900,000,000,000, subject to the enactment of a joint resolution of disapproval enacted pursuant to this section. Upon submission ofsuch certification, the limit on debt provided in section 3101(b) (referred to in this section as the “debt limit”) is increased by $400,000,000,000.
 
 &emsp;&emsp;(B)
 
@@ -74,7 +74,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;(4)
 
-Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of orderagainst the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 (d)
 
@@ -106,7 +106,7 @@ Vote on passage.—If the Senate has voted to proceed to a joint resolution, the
 
 &emsp;&emsp;(D)
 
-Rulings of the chair on procedure.—Appeals from the decisions of the Chair relating to the application of the rules of theSenate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+Rulings of the chair on procedure.—Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
 
 (e)
 
@@ -146,7 +146,7 @@ Veto override.—If within the appropriate calendar day period described in subs
 
 Sequestration.—(A) If within the 50-calendar day period described in subsection (b)(1), the President signs the joint resolution, the President allows the joint resolution to become law without his signature, or Congress overrides a veto of the joint resolution with respect to authority exercised pursuant to paragraph (1) of subsection (a), there shall be a sequestration to reduce spending by $400,000,000,000. OMB shall implement the sequestration forthwith.
 
-&emsp;(B) OMB shall implement each half of such sequestration in accordance with section 255, section 256, and subsections (c), (d), (e), and (f) of section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985, and for the purpose of such implementation the term “excess deficit” means the amount specified in subparagraph (A).
+&emsp;(B) OMB shall implement each half of such sequestration in accordance with section 255, section 256, and subsections (c), (d), (e), and (f)of section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985, and for the purpose of such implementation the term “excess deficit” means the amount specified in subparagraph (A).
 
 (g)
 

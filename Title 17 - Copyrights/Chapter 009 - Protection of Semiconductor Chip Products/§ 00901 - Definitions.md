@@ -34,5 +34,5 @@
 
 #### Authorization of Appropriations
 
-Section 304 of title III of Pub. L. 98–620 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title \[enacting this chapter\].”
+Pub. L. 98–620, title III, §304, Nov. 8, 1984, 98 Stat. 3356, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title \[enacting this chapter\].”
 

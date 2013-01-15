@@ -46,7 +46,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–465, §431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
 
-&emsp;“(A) be subject to the same inspection, sanitary, quality, species verification, and residue standardsapplied to products produced in the United States; and
+&emsp;“(A) be subject to the same inspection, sanitary, quality, species verification, and residue standards applied to products produced in the United States; and
 
 &emsp;“(B) have been processed in facilities and under conditions that are the same as those under which similar products are processed in the United States.”
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1985 Amendment
 
-Section 1701(b) of Pub. L. 99–198 proved that: “The amendment made by this section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–198, title XVII, §1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: “The amendment made by this section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\].”
 

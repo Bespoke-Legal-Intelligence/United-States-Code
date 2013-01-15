@@ -18,5 +18,5 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Authorization of Appropriations
 
-Section 2 of Pub. L. 87–639 provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act \[this section\], such sums to remain available until expended.”
+Pub. L. 87–639, §2, Sept. 5, 1962, 76 Stat. 438, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act \[this section\], such sums to remain available until expended.”
 

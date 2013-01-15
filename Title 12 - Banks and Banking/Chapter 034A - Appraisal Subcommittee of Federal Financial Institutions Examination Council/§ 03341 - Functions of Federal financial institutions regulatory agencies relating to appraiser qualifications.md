@@ -6,7 +6,7 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 #### (b) Threshold level
 
-Each Federal financial institutions regulatory agency and the Resolution Trust Corporation may establish a threshold level at or below which a certified or licensed appraiser is not required to perform appraisals in connection with federally related transactions, if such agency determines in writing that such threshold level does not represent a threat to the safety and soundness of financial institutions.
+Each Federal financial institutions regulatory agency and the Resolution Trust Corporation may establish a threshold level at or below which a certified or licensed appraiser is not required to perform appraisals in connection with federally related transactions, if such agency determines in writing that such threshold level does not represent a threat to the safety and soundness of financial institutions, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences.
 
 #### (c) GAO study of appraisals in connection with real estate related financial transactions below threshold level
 
@@ -26,13 +26,11 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, titleII, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, §1473(a), July 21, 2010, 124 Stat. 2190.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(a), July 21, 2010, 124 Stat. 2136, 2190, provided that subsection (b) of this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by inserting “, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences” before the period. See Effective Date of 2010 Amendment note below.</i>
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, §1473(a), July 21, 2010, 124 Stat. 2190.)
 
 #### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 inserted “, and receives concurrence from the Bureau of Consumer Financial Protection that such threshold level provides reasonable protection for consumers who purchase 1–4 unit single-family residences” before the period.
 
 <b>2006</b>—Subsec. (c)(1)(B). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”.
 

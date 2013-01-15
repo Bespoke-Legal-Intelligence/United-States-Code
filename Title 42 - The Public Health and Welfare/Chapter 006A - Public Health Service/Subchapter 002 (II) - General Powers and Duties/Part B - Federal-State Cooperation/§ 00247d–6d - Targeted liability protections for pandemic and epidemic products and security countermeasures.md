@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) was in a population specified by the declaration; and
 
-&emsp;&emsp;&emsp;(ii) was at the time of administration physically present in a geographic areaspecified by the declaration or had a connection to such area specified in the declaration.
+&emsp;&emsp;&emsp;(ii) was at the time of administration physically present in a geographic area specified by the declaration or had a connection to such area specified in the declaration.
 
 #### (4) Applicability of certain conditions
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(A) In the case of a covered person who is a manufacturer or distributor of the covered countermeasure involved, the immunity applies without regard to whether such countermeasure was administered to or used by an individual in accordance with the conditions described in paragraph (3)(C).
 
-&emsp;&emsp;(B) In the case of a covered person who is a program planner or qualified person with respect to the administration or use of the covered countermeasure, the scope of immunity includes circumstances in which the countermeasure was administered to or used by an individual in circumstances in which the covered person reasonably could have believed that the countermeasure was administered or used in accordance with the conditions described in paragraph (3)(C).
+&emsp;&emsp;(B) In the case of a covered person who is a program planner or qualified person with respect to the administration or use of the covered countermeasure, the scope of immunity includes circumstances in which the countermeasure was administered to or usedby an individual in circumstances in which the covered person reasonably could have believed that the countermeasure was administered or used in accordance with the conditions described in paragraph (3)(C).
 
 #### (5) Effect of distribution method
 
@@ -92,7 +92,7 @@
 
 #### (C) Additional period for certain strategic national stockpile countermeasures
 
-&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1)at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
+&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
 
 #### (4) Amendments to declaration
 
@@ -160,7 +160,7 @@
 
 #### (3) Proof of willful misconduct
 
-&emsp;In an action under subsection (d) of this section, the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person suedand that such willful misconduct caused death or serious physical injury.
+&emsp;In an action under subsection (d) of this section, the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willful misconduct caused death or serious physical injury.
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
@@ -288,7 +288,7 @@
 
 #### (B) Standard
 
-&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection\(d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
+&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
 
 #### (7) Reduction in award of damages for collateral source benefits
 
@@ -348,7 +348,7 @@ In this section:
 
 &emsp;&emsp;(B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title); or
 
-&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biologicalproduct (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
+&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
 
 #### (2) Covered person
 

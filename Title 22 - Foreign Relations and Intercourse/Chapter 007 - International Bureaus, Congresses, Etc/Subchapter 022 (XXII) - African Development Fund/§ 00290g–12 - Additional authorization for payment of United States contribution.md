@@ -6,5 +6,5 @@
 
 (b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $150,000,000 for payment by the Secretary of the Treasury.
 
-(Pub. L. 94–302, title II, §213, as added Pub. L. 98–181, title X, §1003, Nov. 30, 1983, 97 Stat. 1286.)
+(Pub. L. 94–302, title II, §213, as added Pub. L. 98–181, title I \[title X, §1003\], Nov. 30, 1983, 97 Stat. 1286.)
 

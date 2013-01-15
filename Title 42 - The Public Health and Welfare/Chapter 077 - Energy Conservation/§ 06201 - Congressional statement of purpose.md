@@ -34,6 +34,10 @@ Par. (6). Pub. L. 106–469, §102(2), struck out par. (6) which read as follows
 
 <b>1992</b>—Par. (8). Pub. L. 102–486 added par. (8).
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–210, §1, Dec. 18, 2012, 126 Stat. 1514, provided that: “This Act \[enacting section 6351 of this title, amending sections 6291, 6294, 6295, 6297, 6311, 6313, 6314, 6316, and 8253 of this title, and enacting provisions set out as notes under sections 6291 and 6295 of this title\] may be cited as the ‘American Energy Manufacturing Technical Corrections Act’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–469, §1, Nov. 9, 2000, 114 Stat. 2029, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Act of 2000’.”
@@ -44,13 +48,13 @@ Pub. L. 106–469, title I, §101, Nov. 9, 2000, 114 Stat. 2029, provided that: 
 
 Pub. L. 105–388, §1, Nov. 13, 1998, 112 Stat. 3477, provided that: “This Act \[enacting section 13220 of this title, amending sections 2296a, 2296a–2, 2297g–1, 6241, 6291, 6292, 6294, 6295, 6306, 6316, 6322, 6325, 6371, 6371c, 6371f, 6371i, 6372c, 6372h, 6374, 6383, 6422, 6802, 6872, 8217, 8231, 8235e, 8259, 8287, 8287c, and 13218 of this title and section 3503 of Title 25, Indians, enacting provisions set out as notes under section 6241 of this title, and amending and repealing provisions set out as notes under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy Conservation Reauthorization Act of 1998’.”
 
-#### Short Title of 1994 Amendments
+#### Short Title of 1994 Amendment
 
 Pub. L. 103–406, §1, Oct. 22, 1994, 108 Stat. 4209, provided: “That this Act \[amending sections 6251 and 6285 of this title and enacting provisions set out as a note below\] may be cited as the ‘Energy Policy and Conservation Act Amendments Act of 1994’.”
 
 Pub. L. 103–406, title I, §101, Oct. 22, 1994, 108 Stat. 4209, provided that: “This title \[amending sections 6251 and 6285 of this title\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 1994’.”
 
-#### Short Title of 1990 Amendments
+#### Short Title of 1990 Amendment
 
 Pub. L. 101–440, §1, Oct. 18, 1990, 104 Stat. 1006, provided that: “This Act \[amending sections 6322, 6323, 6324 to 6326, 6371, 6371e, 6371f, 6861 to 6865, 6871, and 6872 of this title and repealing section 6327 of this title\] may be cited as the ‘State Energy Efficiency Programs Improvement Act of 1990’.”
 
@@ -60,7 +64,7 @@ Pub. L. 101–360, §1, Aug. 10, 1990, 104 Stat. 421, provided: “That this Act
 
 Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Extension Amendment of 1990’.”
 
-#### Short Title of 1988 Amendments
+#### Short Title of 1988 Amendment
 
 Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: “This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section 6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the ‘Alternative Motor Fuels Act of 1988’.”
 
@@ -72,7 +76,7 @@ Pub. L. 100–12, §1, Mar. 17, 1987, 101 Stat. 103, provided that: “This Act 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–58, §1, July 2, 1985, 99 Stat. 102, provided that: “This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing section 6401 of this title, enacting provisions set out as notes under section 7277 of this title, and amending provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy and Conservation Amendments Act of 1985’.”
+Pub. L. 99–58, §1, July 2, 1985, 99 Stat. 102, provided that: “This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing section 6401 of this title, enacting provisions set out as notes under section 7277of this title, and amending provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy and Conservation Amendments Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 
@@ -88,7 +92,7 @@ Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: �
 
 #### Short Title
 
-Section 1 of Pub. L. 94–163 provided in part: “That this Act \[enacting this chapter and sections 757 to 760h and 2001 to 2012 of Title 15, Commerce and Trade, amending sections 753, 754, 755, 792, 796, and 1901 of Title 15 and section 2071 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under this section, sections 753 and 796 of Title 15, and section 2071 of Title 50 App., and repealing provisions formerly set out as a note under section 1904 of Title 12, Banks and Banking\] may be cited as the ‘Energy Policy and Conservation Act’.”
+Pub. L. 94–163, §1, Dec. 22, 1975, 89 Stat. 871, provided in part: “That this Act \[enacting this chapter and sections 757 to 760h and 2001 to 2012 of Title 15, Commerce and Trade, amending sections 753, 754, 755, 792, 796, and 1901 of Title 15 and section 2071 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes under this section, sections 753 and 796 of Title 15, and section 2071 of Title 50 App., and repealing provisions formerly set out as a note under section 1904 of Title 12, Banks and Banking\] may be cited as the ‘Energy Policy and Conservation Act’.”
 
 #### National Oilheat Research Alliance
 
@@ -148,7 +152,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (d) Not later than November 1, 1977, the Secretary, with the concurrence of the Director of the Office of Management and Budget, and after consultation with the Administrator of General Services and the heads of the Executive agencies specified in subsection (a) shall issue guidelines for the plans to be submitted pursuant to subsection (e).
 
-(e)(1) The head of each Executive agency that maintains any existing building or will maintain any new building shall submit no later than six months after the issuance of guidelines pursuant to subsection (d), to the Secretary a ten-year plan designed to the maximum extent practicable to meet the goals in subsection (b) for the total of existing or new Federal buildings. Such ten-year plans shall only consider improvements that are cost-effective consistent with the criteria established by the Director of the Office of Management and Budget (OMB Circular A–94) and the method established pursuant to subsection (c) of this Section. The plan submitted shall specify appropriate energy-saving initiatives and shall estimate the expected improvements by fiscal year in terms of specific accomplishments—energy savings and cost savings—together with the estimated costs of achieving the savings.
+(e)(1) The head of each Executive agency that maintains any existing building or will maintain any new building shall submit no later than six months after the issuance of guidelines pursuant to subsection (d), tothe Secretary a ten-year plan designed to the maximum extent practicable to meet the goals in subsection (b) for the total of existing or new Federal buildings. Such ten-year plans shall only consider improvements that are cost-effective consistent with the criteria established by the Director of the Office of Management and Budget (OMB Circular A–94) and the method established pursuant to subsection (c) of this Section. The plan submitted shall specify appropriate energy-saving initiatives and shall estimate the expected improvements by fiscal year in terms of specific accomplishments—energy savings and cost savings—together with the estimated costs of achieving the savings.
 
 (2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy use level and major energy using systems of existing Federal buildings.
 

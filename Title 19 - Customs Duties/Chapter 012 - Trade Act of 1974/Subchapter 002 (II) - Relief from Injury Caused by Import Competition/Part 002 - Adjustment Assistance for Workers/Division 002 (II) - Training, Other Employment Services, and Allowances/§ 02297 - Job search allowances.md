@@ -16,7 +16,7 @@
 
 #### (B) Local employment not available
 
-&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to secure suitable employment in the commuting area in which the worker resides.
+&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to securesuitable employment in the commuting area in which the worker resides.
 
 #### (C) Application
 

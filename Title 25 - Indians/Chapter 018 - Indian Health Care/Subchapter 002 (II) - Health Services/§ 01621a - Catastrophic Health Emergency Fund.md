@@ -70,5 +70,5 @@ Subsec. (e). Pub. L. 102–573, §217(b)(2), struck out subsec. (e) which author
 
 #### Effective Date of 1992 Amendment
 
-Section 202(b) of Pub. L. 102–573 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993.”
+Pub. L. 102–573, title II, §202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993.”
 

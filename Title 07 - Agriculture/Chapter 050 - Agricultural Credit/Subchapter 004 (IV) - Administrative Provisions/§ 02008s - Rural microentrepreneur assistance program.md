@@ -98,7 +98,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary shall make grants to microenterprise development organizations to—
 
-&emsp;&emsp;&emsp;&emsp;(I) provide training, operational support, business planning, and market development assistance, and other related services to rural microentrepreneurs; and
+&emsp;&emsp;&emsp;&emsp;(I) provide training, operational support, business planning, and market development assistance, and other relatedservices to rural microentrepreneurs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) carry out such other projects and activities as the Secretary determines appropriate to further the purposes of the program.
 

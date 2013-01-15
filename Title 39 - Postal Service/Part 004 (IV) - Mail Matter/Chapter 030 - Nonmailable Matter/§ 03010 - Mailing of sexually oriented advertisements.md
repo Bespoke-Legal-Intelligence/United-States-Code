@@ -16,7 +16,7 @@ Section effective first day of sixth month which begins after Aug. 12, 1970, see
 
 #### Invasion of Privacy by Mailing of Sexually Oriented Advertisements
 
-Section 14 of Pub. L. 91–375 provided that:
+Pub. L. 91–375, §14, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 “(a) \[<i>Congressional findings</i>\] The Congress finds—
 

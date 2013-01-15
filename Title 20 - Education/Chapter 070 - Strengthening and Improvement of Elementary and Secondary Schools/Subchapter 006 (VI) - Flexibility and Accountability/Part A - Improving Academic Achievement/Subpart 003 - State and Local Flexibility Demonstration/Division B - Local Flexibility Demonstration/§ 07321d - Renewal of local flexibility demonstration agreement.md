@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in section 7321c of this title and in accordance with this section, the Secretary shall renew for one additional 5-yearterm a local flexibility demonstration agreement entered into under this division if the local educational agency has met, by the end of the original term of the agreement, the requirements described in section 7321(c) of this title.
+Except as provided in section 7321c of this title and in accordance with this section, the Secretary shall renew for one additional 5-year term a local flexibility demonstration agreement entered into under this division if the local educational agency has met, by the end of the original term of the agreement, the requirements described in section 7321(c) of this title.
 
 #### (b) Notification
 

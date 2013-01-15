@@ -48,7 +48,7 @@ If the Secretary determines that use of a market mechanism under subsection (b) 
 
 &emsp;&emsp;Such terms and conditions shall, at a minimum, be designed—
 
-&emsp;&emsp;&emsp;(i) to provide for reasonable participation by the Secretary, for the benefit of taxpayers, in equity appreciation in the case of a warrant or other equity security, or a reasonable interest rate premium, in the case of a debt instrument; and
+&emsp;&emsp;&emsp;(i) to provide for reasonable participation by the Secretary, for the benefit oftaxpayers, in equity appreciation in the case of a warrant or other equity security, or a reasonable interest rate premium, in the case of a debt instrument; and
 
 &emsp;&emsp;&emsp;(ii) to provide additional protection for the taxpayer against losses from sale of assets by the Secretary under this chapter and the administrative expenses of the TARP.
 

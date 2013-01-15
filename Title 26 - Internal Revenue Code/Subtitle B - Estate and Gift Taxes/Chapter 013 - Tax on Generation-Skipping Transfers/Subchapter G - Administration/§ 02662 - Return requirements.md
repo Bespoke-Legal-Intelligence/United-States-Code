@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall prescribe by regulations the person who is required to make the return with respect to the tax imposed by this chapter and the time by which any such return must be filed. To the extent practicable, such regulations shall provide that—
+The Secretary shall prescribe by regulations the person who is required to make the return with respect to the tax imposed by this chapter and the time by which any such return must befiled. To the extent practicable, such regulations shall provide that—
 
 &emsp;(1) the person who is required to make such return shall be the person liable under section 2603(a) for payment of such tax, and
 

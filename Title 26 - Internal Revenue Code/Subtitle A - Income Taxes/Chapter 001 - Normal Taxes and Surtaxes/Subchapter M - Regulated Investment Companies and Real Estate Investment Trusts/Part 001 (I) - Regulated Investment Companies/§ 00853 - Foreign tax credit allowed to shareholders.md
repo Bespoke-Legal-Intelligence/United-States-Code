@@ -24,7 +24,7 @@ If the election provided in subsection (a) is effective for a taxable year—
 
 &emsp;&emsp;(A) include in gross income and treat as paid by him his proportionate share of such taxes, and
 
-&emsp;&emsp;(B) treat as gross income from sources within the respective foreign countries and possessions of the United States, for purposes of applying subpart A of part III of subchapter N, the sum of his proportionate share of such taxes and the portion of any dividend paid by such investment company which represents income derived from sources within foreign countries or possessions of the United States.
+&emsp;&emsp;(B) treat as gross income from sources within the respective foreign countries andpossessions of the United States, for purposes of applying subpart A of part III of subchapter N, the sum of his proportionate share of such taxes and the portion of any dividend paid by such investment company which represents income derived from sources within foreign countries or possessions of the United States.
 
 #### (c) Statements to shareholders
 
@@ -42,7 +42,7 @@ The election provided in subsection (a) shall be made in such manner as the Secr
 
 #### (e) Treatment of certain taxes not allowed as a credit under section 901
 
-This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of subsection (k) or (<i>l</i>) of such section.
+This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of subsection (k) or (l) of such section.
 
 #### (f) Cross references
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1053(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 901 of this title\] shall apply to dividends paid or accrued more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1053(c), Aug. 5, 1997, 111 Stat. 943, provided that: “The amendments made by this section \[amending this section and section 901 of this title\] shall apply to dividends paid or accrued more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 

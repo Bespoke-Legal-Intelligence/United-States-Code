@@ -8,7 +8,7 @@ The Secretary may not make payments under section 290cc–21 of this title to a 
 
 &emsp;&emsp;(A) describes the coordinated and comprehensive means of providing services and housing to homeless individuals; and
 
-&emsp;&emsp;(B) includes documentation that suitable housing for eligible homeless individuals will accompany the provision of services to such individuals;
+&emsp;&emsp;(B) includes documentation that suitable housing for eligible homeless individualswill accompany the provision of services to such individuals;
 
 &emsp;(3) describes the source of the non-Federal contributions described in section 290cc–23 of this title;
 

@@ -50,11 +50,11 @@ Fourth par. Pub. L. 91–644, §14(a), in revising the provisions, had the effec
 
 Fifth par. Pub. L. 91–644, §14(a)(3), substituted as a fifth par. provision for liberal construction of this section for prior eleventh par. provision respecting remand of case by Supreme Court to court of appeals that should have been taken to such court and treatment of the court's jurisdiction to hear and determine the case as if the appeal were so taken in the first instance and for prior twelfth par. provision respecting certification of case to Supreme Court that should have been taken directly to such Court and treatment of the Court's jurisdiction to hear and determine the case as if the appeal were taken directly to such Court.
 
-<b>1968</b>—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. “defendant shall be released in accordance with chapter 207 of this title” for “defendant shall be admitted to bail on his own recognizance”, respectively.
+<b>1968</b>—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. “defendant shall be released in accordance with chapter 207 of this title” for “defendant shall beadmitted to bail on his own recognizance”, respectively.
 
 <b>1949</b>—Act May 24, 1949, substituted “invalidity” for “validity” after “upon the” in second par., and conformed language of fifth, tenth, and eleventh pars. to the changed nomenclature of the courts.
 
 #### Savings Provision
 
-Section 14(b) of Pub. L. 91–644 provided that: “The amendments made by this section \[amending this section\] shall not apply with respect to any criminal case begun in any district court before the effective date of this section \[Jan. 2, 1971\].”
+Pub. L. 91–644, title III, §14(b), Jan. 2, 1971, 84 Stat. 1890, provided that: “The amendments made by this section \[amending this section\] shall not apply with respect to any criminal case begun in any district court before the effective date of this section \[Jan. 2, 1971\].”
 

@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(C) The inclusion in the State plan under section 671 of this title of an amendment implementing the option under subsection (a)(28) of that section to enter into kinship guardianship assistance agreements.
 
-&emsp;&emsp;(D) The election under the State plan under section 671 of this title to define a “child” for purposes of the provision of foster care maintenance payments, adoption assistance payments, and kinship guardianship assistance payments, so as to includeindividuals described in each of subclauses (I), (II), and (III) of section 675(8)(B)(i) of this title who have not attained age 21.
+&emsp;&emsp;(D) The election under the State plan under section 671 of this title to define a “child” for purposes of the provision of foster care maintenance payments, adoption assistance payments, and kinship guardianship assistance payments, so as to include individuals described in each of subclauses (I), (II), and (III) of section 675(8)(B)(i) of this title who have not attained age 21.
 
 &emsp;&emsp;(E) The development and implementation of a plan that ensures congregate care is used appropriately and reduces the placement of children and youth in such care.
 
@@ -172,7 +172,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 &emsp;Each State authorized to conduct a demonstration project under this section shall—
 
-&emsp;&emsp;(A) submit periodic reports to the Secretary on the specific programs, activities, and strategies used to improve outcomes for infants, children, youth, and families and the results achieved for infants, children, and youth during the conduct of the demonstration project, including with respect to those infants, children, and youth who are prevented from entering foster care, infants, children, and youth in foster care, and infants, children, and youth who move from foster care to permanent families; and
+&emsp;&emsp;(A) submit periodic reports to the Secretary on the specific programs, activities, and strategies used to improve outcomes for infants, children, youth, and families and the results achieved for infants, children,and youth during the conduct of the demonstration project, including with respect to those infants, children, and youth who are prevented from entering foster care, infants, children, and youth in foster care, and infants, children, and youth who move from foster care to permanent families; and
 
 &emsp;&emsp;(B) post a copy of each such report on the website for the State child welfare program concurrent with the submission of the report to the Secretary.
 
@@ -208,7 +208,7 @@ Subsec. (a)(5). Pub. L. 112–34, §201(1)(C), inserted “and the ability of th
 
 Subsec. (a)(6) to (8). Pub. L. 112–34, §201(1)(D), added pars. (6) to (8).
 
-Subsec. (d). Pub. L. 112–34, §201(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “A demonstration project underthis section may be conducted for not more than 5 years, unless in the judgment of the Secretary, the demonstration project should be allowed to continue.”
+Subsec. (d). Pub. L. 112–34, §201(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “A demonstration project under this section may be conducted for not more than 5 years, unless in the judgment of the Secretary, the demonstration project should be allowed to continue.”
 
 Subsec. (e)(1). Pub. L. 112–34, §201(3)(A), struck out “(which shall provide, where appropriate, for random assignment of children and families to groups served under the project and to control groups)” before the semicolon.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 #### Construction of 1997 Amendment
 
-Section 301(b) of Pub. L. 105–89 provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act (42 U.S.C. 1320a–9) before the date of the enactment of this Act \[Nov. 19, 1997\].”
+Pub. L. 105–89, title III, §301(b), Nov. 19, 1997, 111 Stat. 2128, provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act (42 U.S.C. 1320a–9) before the date of the enactment of this Act \[Nov. 19, 1997\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “who”.</i>
 

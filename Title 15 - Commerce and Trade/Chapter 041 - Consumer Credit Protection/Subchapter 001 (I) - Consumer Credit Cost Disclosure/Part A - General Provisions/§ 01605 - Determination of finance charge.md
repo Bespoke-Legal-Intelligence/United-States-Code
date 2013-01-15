@@ -66,7 +66,7 @@ In connection with credit transactions not under an open end credit plan that ar
 
 &emsp;(2) shall be treated as being accurate for purposes of section 1635 of this title if—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), the amount disclosed as the finance charge does not vary from the actual finance chargeby more than an amount equal to one-half of one percent of the total amount of credit extended; or
+&emsp;&emsp;(A) except as provided in subparagraph (B), the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one-half of one percent of the total amount of credit extended; or
 
 &emsp;&emsp;(B) in the case of a transaction, other than a mortgage referred to in section 1602(aa) <sup>1</sup> of this title, which—
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1995 Amendment
 
-Section 2(b)(2) of Pub. L. 104–29 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the earlier of—
+Pub. L. 104–29, §2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the earlier of—
 
 &emsp;“(A) 60 days after the date on which the Board of Governors of the Federal Reserve System issues final regulations under paragraph (3) \[set out below\]; or
 
@@ -116,15 +116,15 @@ Section 2(b)(2) of Pub. L. 104–29 provided that: “The amendment made by para
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 
-Section 2(b)(3) of Pub. L. 104–29 provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
+Pub. L. 104–29, §2(b)(3), Sept. 30, 1995, 109 Stat. 271, provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
 
 #### Ensuring That Finance Charges Reflect Cost of Credit
 
-Section 2(f) of Pub. L. 104–29 provided that:
+Pub. L. 104–29, §2(f), Sept. 30, 1995, 109 Stat. 272, provided that:
 
 “(1)
 

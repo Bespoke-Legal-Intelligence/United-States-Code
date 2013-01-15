@@ -32,7 +32,7 @@ Any Federal agency may provide the Council, with or without reimbursement as may
 
 #### Codification
 
-In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the ClassificationAct of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

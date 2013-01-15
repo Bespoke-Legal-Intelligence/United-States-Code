@@ -4,7 +4,7 @@ Section, Pub. L. 95–626, title VII, §701, Nov. 10, 1978, 92 Stat. 3601; Pub. 
 
 #### Effective Date of Repeal
 
-Section 955(b) of Pub. L. 97–35 provided that the repeal of this section is effective Oct. 1, 1981.
+Pub. L. 97–35, title IX, §955(b), Aug. 13, 1981, 95 Stat. 592, provided that the repeal of this section is effective Oct. 1, 1981.
 
 For effective date, savings, and transitional provisions relating to the repeal of this section by section 2193(f) of Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 

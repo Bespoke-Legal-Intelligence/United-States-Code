@@ -8,7 +8,7 @@ As used in this part—
 
 #### (2) Lead free
 
-&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surface which may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of a drinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
+&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surfacewhich may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of a drinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
 
 #### (3) Local educational agency
 

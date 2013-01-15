@@ -10,7 +10,7 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 #### (c) Investigations; hearings; failure to obey order; contempt
 
-(1) The Secretary may investigate any facts, conditions, practices, or matters that may be deemed necessary or proper to aid in the enforcement of the provisions of this chapter, in prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning real estate settlement practices. To aid in the investigations, the Bureau is authorized to hold such hearings, administer such oaths, and require by subpena the attendance and testimony of such witnesses and production of such documents as the Bureau deems advisable.
+(1) The Secretary <sup>1</sup> may investigate any facts, conditions, practices, or matters that may be deemed necessary or proper to aid in the enforcement of the provisions of this chapter, in prescribing of rules and regulations thereunder, or in securing information to serve as a basis for recommending further legislation concerning real estate settlement practices. To aid in the investigations, the Bureau is authorized to hold such hearings, administer such oaths, and require by subpena the attendance and testimony of such witnesses and production of such documents as the Bureau deems advisable.
 
 (2) Any district court of the United States within the jurisdiction of which an inquiry is carried on may, in the case of contumacy or refusal to obey a subpena of the Bureau issued under this section, issue an order requiring compliance therewith; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
@@ -32,9 +32,9 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 #### (3) Public notice of effective date
 
-&emsp;The Secretary shall provide public notice of the date on which the amendment referred toin paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
+&emsp;The Secretary shall provide public notice of the date on which the amendment referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
 
-(Pub. L. 93–533, §19, as added Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title IV, §461(e), Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, §2103(f), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, §1098(11), July 21, 2010, 124 Stat. 2104.)
+(Pub. L. 93–533, §19, as added Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title I \[title IV, §461(e)\], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, §2103(f), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, §1098(11), July 21, 2010, 124 Stat. 2104.)
 
 #### Amendments
 
@@ -59,4 +59,6 @@ Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub.
 #### Effective Date
 
 Section effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as an Effective Date of 1976 Amendment note under section 2602 of this title.
+
+<i><sup>1</sup></i><i> Probably should be “The Bureau”.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is in the Director <sup>1</sup> of the Secretary of Defense an Office of Family Policy (hereinafter in this section referred to as the “Office”). The office <sup>2</sup> shall be headed by the Director of Family Policy, who shall serve within the office <sup>2</sup> of the Under Secretary of Defense for Personnel and Readiness.
+Establishment.—There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -16,13 +16,15 @@ Duties.—The Office—
 
 Staff.—The Office shall have not less than five professional staff members.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323.)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, §1076(f)(21), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted “in the Office” for “in the Director” and struck out “hereinafter” before “in this section”, and in second sentence, substituted “Office” for “office” in two places.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “the Director” for “the Office” before “of the Secretary” and “The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness.” for “The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.”
 
@@ -182,7 +184,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) Without the continued support of military families, the Nation's ability to sustain a high quality all-volunteer military force would be undermined.
 
-&emsp;“(3) In the perilous and challenging times of the global war on terrorism, with hundreds of thousands of active and reserve component military personnel deployed overseas in places of combat and other imminent danger, military families are making extraordinary sacrifices and will be required to do so for the foreseeable future.
+&emsp;“(3) In the perilous and challenging times of the global war on terrorism, with hundreds of thousands of active and reserve component military personneldeployed overseas in places of combat and other imminent danger, military families are making extraordinary sacrifices and will be required to do so for the foreseeable future.
 
 &emsp;“(4) Beginning in 1997, military family service and support centers have responded to the encouragement and support of private, non-profit organizations to recognize and honor the American military family during the Thanksgiving period each November.
 
@@ -199,8 +201,4 @@ Department of Defense Programs and Activities.—The Secretary of Defense shall�
 &emsp;“(2) focus the celebration of the American military family during a specific period of each year to give full and proper recognition to those families; and
 
 &emsp;“(3) seek the assistance and support of appropriate civilian organizations, associations, and other entities (A) in carrying out the annual celebration of the American military family, and (B) in sustaining other, longer-term efforts to support the American military family.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Office”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

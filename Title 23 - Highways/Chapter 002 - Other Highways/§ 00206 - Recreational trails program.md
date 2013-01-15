@@ -48,7 +48,7 @@ In general.—Funds apportioned to a State to carry out this section shall be ob
 
 &emsp;&emsp;(A) have been planned and developed under the laws, policies, and administrative procedures of the State; and
 
-&emsp;&emsp;(B) are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.), that is in effect.
+&emsp;&emsp;(B) are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 et seq.), that is in effect.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;&emsp;(i) permissible under other law;
 
-&emsp;&emsp;&emsp;(ii) necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.) and that is in effect;
+&emsp;&emsp;&emsp;(ii) necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 et seq.) and that is in effect;
 
 &emsp;&emsp;&emsp;(iii) approved by the administering agency of the State designated under subsection (c)(1); and
 
@@ -198,7 +198,7 @@ Recreational purpose.—A project funded under this section is intended to enhan
 
 &emsp;(3)
 
-Continuing recreational use.—At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–8(f)(3)).
+Continuing recreational use.—At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8(f)(3)).
 
 &emsp;(4)
 
@@ -220,7 +220,7 @@ Contract Authority.—Funds authorized to carry out this section shall be availa
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (d)(1)(B), (2)(D)(ii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (d)(1)(B), (2)(D)(ii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(D)(iv), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -250,11 +250,29 @@ Subsec. (f)(4), (5). Pub. L. 109–59, §1109(d)(4)–(7), added par. (4), redes
 
 Subsec. (h)(1)(C). Pub. L. 109–59, §1109(e), added subpar. (C).
 
-#### Encouragement of Use of Youth Conservation or Service Corps
+#### Use of Youth Service and Conservation Corps
 
-Pub. L. 109–59, title I, §1109(f), Aug. 10, 2005, 119 Stat. 1170, provided that: “The Secretary \[of Transportation\] shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform construction and maintenance of recreational trails under section 206 of title 23, United States Code.”
+Pub. L. 112–141, div. A, title I, §1524, July 6, 2012, 126 Stat. 580, provided that:
 
-Similar provisions were contained in the following prior act:
+“(a)
+
+In General.—The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of Public Law 101–610 (42 U.S.C. 12572(a)(2)) and 106(c)(3) of Public Law 103–82 (42 U.S.C. 12656(c)(3)) to perform appropriate projects eligible under sections 162, 206, 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU (119 Stat. 1228).
+
+“(b)
+
+Requirements.—Under any contract or cooperative agreement entered into with a qualified youth service or conservation corps under this section, the Secretary shall—
+
+&emsp;“(1) set the amount of a living allowance or rate of pay for each participant in such corps at—
+
+&emsp;&emsp;“(A) such amount or rate as required under State law in a State with such requirements; or
+
+&emsp;&emsp;“(B) for corps in States not described in subparagraph (A), at such amount or rate as determined by the Secretary, not to exceed the maximum living allowance authorized by section 140 of Public Law 101–610 (42 U.S.C. 12594); and
+
+&emsp;“(2) not subject such corps to the requirements of section 112 of title 23, United States Code.”
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 109–59, title I, §1109(f), Aug. 10, 2005, 119 Stat. 1170.
 
 Pub. L. 105–178, title I, §1112(e), June 9, 1998, 112 Stat. 151.
 

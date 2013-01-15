@@ -14,7 +14,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 > shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription or by oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
-(2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (<i>l</i>), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
+(2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (l), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
 
 (3) The Secretary may by regulation remove drugs subject to section 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
@@ -50,7 +50,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
 
-> For purposes of this paragraph, the term “entity” does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term “emergency medical reasons” includes transfers of a drug between health careentities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
+> For purposes of this paragraph, the term “entity” does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term “emergency medical reasons” includes transfers of a drug between health care entities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
 
 #### (d) Distribution of drug samples
 
@@ -92,7 +92,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(B) Drug manufacturers or authorized distributors of record shall store drug samples under conditions that will maintain their stability, integrity, and effectiveness and will assure that the drug samples will be free of contamination, deterioration, and adulteration.
 
-&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
+&emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address ofeach of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
 
 &emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
 
@@ -102,7 +102,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (e) Wholesale distributors; guidelines for licensing; definitions
 
-(1)(A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesaledistribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
+(1)(A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
 
 (B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
 
@@ -298,11 +298,11 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Termination Date of 1992 Amendment
 
-Section 2(d) of Pub. L. 102–353 provided that: “Effective September 14, 1994, the amendments made by subsections (a) and (b) \[amending this section\] shall no longer be in effect.”
+Pub. L. 102–353, §2(d), Aug. 26, 1992, 106 Stat. 941, provided that: “Effective September 14, 1994, the amendments made by subsections (a) and (b) \[amending this section\] shall no longer be in effect.”
 
 #### Effective Date of 1988 Amendment
 
-Section 8 of Pub. L. 100–293 provided that:
+Pub. L. 100–293, §8, Apr. 22, 1988, 102 Stat. 100, provided that:
 
 “(a)
 
@@ -362,7 +362,7 @@ Plan.—The plan described in subsection (a) shall—
 
 “(d)
 
-Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails totake any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
 “(e)
 
@@ -370,7 +370,7 @@ Secretary Review.—Not later than January 1, 2001, the Secretary of the Departm
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 100–293 provided that: “The Congress finds the following:
+Pub. L. 100–293, §2, Apr. 22, 1988, 102 Stat. 95, provided that: “The Congress finds the following:
 
 &emsp;“(1) American consumers cannot purchase prescription drugs with the certainty that the products are safe and effective.
 
@@ -380,7 +380,7 @@ Section 2 of Pub. L. 100–293 provided that: “The Congress finds the followin
 
 &emsp;“(4) Large amounts of drugs are being reimported to the United States as American goods returned. These imports are a health and safety risk to American consumers because they may have become subpotent or adulterated during foreign handling and shipping.
 
-&emsp;“(5) The ready market for prescription drug reimports has been the catalyst for a continuing seriesof frauds against American manufacturers and has provided the cover for the importation of foreign counterfeit drugs.
+&emsp;“(5) The ready market for prescription drug reimports has been the catalyst for a continuing series of frauds against American manufacturers and has provided the cover for the importation of foreign counterfeit drugs.
 
 &emsp;“(6) The existing system of providing drug samples to physicians through manufacturer's representatives has been abused for decades and has resulted in the sale to consumers of misbranded, expired, and adulterated pharmaceuticals.
 

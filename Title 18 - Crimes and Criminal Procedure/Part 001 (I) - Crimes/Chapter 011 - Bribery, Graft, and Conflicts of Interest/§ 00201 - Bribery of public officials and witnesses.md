@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) being influenced in the performance of any official act;
 
-&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, anyfraud, or make opportunity for the commission of any fraud, on the United States; or
+&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
 
 &emsp;&emsp;(C) being induced to do or omit to do any act in violation of the official duty of such official or person;
 
@@ -50,7 +50,7 @@
 
 (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, §204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §46(a)–(<i>l</i>), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, §204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §46(a)–(l), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148.)
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ Pub. L. 103–322, §330011(b)(A), amended Pub. L. 99–646, §46(b)(1). See 198
 
 Subsec. (b)(1). Pub. L. 103–322, §330011(b), amended Pub. L. 99–646, §46(b). See 1986 Amendment note below.
 
-<b>1986</b>—Pub. L. 99–646, §46(<i>l</i>), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+<b>1986</b>—Pub. L. 99–646, §46(l), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
 Subsec. (a). Pub. L. 99–646, §46(a), substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official's official capacity, or in such official's” for “in his official capacity, or in his”.
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 99–646, §46(b)(1), as amended by Pub. L. 103–322, §33
 
 Pub. L. 99–646, §46(e)(5), redesignated the undesignated par. which followed former subsec. (e) as concluding par. of subsec. (b) and substituted “shall be fined not more than” for “Shall be fined not more than $20,000 or” and “thing of value,” for “thing of value, whichever is greater,”.
 
-Subsec. (b)(1). Pub. L. 99–646, §46(b), as amended by Pub. L. 103–322, §330011(b), redesignated former subsec.\(b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
+Subsec. (b)(1). Pub. L. 99–646, §46(b), as amended by Pub. L. 103–322, §330011(b), redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
 
 Subsec. (b)(2). Pub. L. 99–646, §46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
 
@@ -98,11 +98,11 @@ Subsecs. (e) to (k). Pub. L. 99–646, §46(f)–(k), redesignated former subsec
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(b) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 46(b) of Pub. L. 99–646 took effect.
+Pub. L. 103–322, title XXXIII, §330011(b), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 46(b) of Pub. L. 99–646 took effect.
 
 #### Effective Date of 1986 Amendment
 
-Section 46(m) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–646, §46(m), Nov. 10, 1986, 100 Stat. 3604, provided that: “The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
 #### Effective Date of 1970 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 #### Effective Date
 
-Section 4 of Pub. L. 87–849 provided that: “This Act \[enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
+Pub. L. 87–849, §4, Oct. 23, 1962, 76 Stat. 1126, provided that: “This Act \[enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
 
 #### Short Title of 2003 Amendment
 
@@ -230,7 +230,7 @@ Finally, section 205 gives the head of a department or agency the power, notwith
 
 The restraint of subsection (a) is against a former officer or employee's acting as agent or attorney for anyone other than the United States in connection with certain matters, whether pending in the courts or elsewhere. The matters are those involving a specific party or parties in which the United States is one of the parties or has a direct and substantial interest and in which the former officer or employee participated personally and substantially while holding a Government position.
 
-Subsection (b) sets forth a 1-year postemployment prohibition in respect of those matters which were within the area of official responsibility of a former officer or employee at any time during the last year of his service but which do not come within subsection (a) because he did not participate in them personally and substantially. More particularly, the prohibition of subsection (b) prevents his personal appearance in such matters before a court or a department or agency of the Government as agent or attorney for anyone other than the United States.<sup>7</sup> Where, in the year prior to theend of his service, a former officer or employee has changed areas of responsibility by transferring from one agency to another, the period of his postemployment ineligibility as to matters in a particular area ends 1 year after his responsibility for that area ends. For example, if an individual transfers from a supervisory position in the Internal Revenue Service to a supervisory position in the Post Office Department and leaves that department for private employment 9 months later, he will be free of the restriction of subsection (b) in 3 months insofar as Internal Revenue matters are concerned. He will of course be bound by it for a year in respect of Post Office Department matters.
+Subsection (b) sets forth a 1-year postemployment prohibition in respect of those matters which were within the area of official responsibility of a former officer or employee at any time during the last year of his service but which do not come within subsection (a) because he did not participate in them personally and substantially. More particularly, the prohibition of subsection (b) prevents his personal appearance in such matters before a court or a department or agency of the Government as agent or attorney for anyone other than the United States.<sup>7</sup> Where, in the year prior to the end of his service, a former officer or employee has changed areas of responsibility by transferring from one agency to another, the period of his postemployment ineligibility as to matters in a particular area ends 1 year after his responsibility for that area ends. For example, if an individual transfers from a supervisory position in the Internal Revenue Service to a supervisory position in the Post Office Department and leaves that department for private employment 9 months later, he will be free of the restriction of subsection (b) in 3 months insofar as Internal Revenue matters are concerned. He will of course be bound by it for a year in respect of Post Office Department matters.
 
 The proviso following subsections (a) and (b) authorizes an agency head, notwithstanding anything to the contrary in their provisions, to permit a former officer or employee with outstanding scientific qualifications to act as attorney or agent or appear personally before the agency for another in a matter in a scientific field. This authority may be exercised by the agency head upon a “national interest” certification published in the
 
@@ -264,7 +264,7 @@ Subsection (b) specifically authorizes an officer or employee covered by subsect
 
 Subsection (c) provides that section 209 does not apply to a special Government employee or to anyone serving the Government without compensation whether or not he is a special Government employee.
 
-Subsection (d) provides that the section does not prohibit the payment or acceptance of contributions,awards or other expenses under the terms of the Government Employees Training Act. (72 Stat. 327, 5 U.S.C. 2301–2319).
+Subsection (d) provides that the section does not prohibit the payment or acceptance of contributions, awards or other expenses under the terms of the Government Employees Training Act. (72 Stat. 327, 5 U.S.C. 2301–2319).
 
 #### Statutory Exemptions From Conflict of Interest Laws
 

@@ -26,7 +26,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(4)(A) After December 31, 1979, a plan may not hold any employer securities or employer real property in excess of the amount specified in regulations under subparagraph (B). This subparagraph shall not apply to a plan after the earliest date after December 31, 1974, on which it complies with such regulations.
 
-&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph\(2) or subsection (c) of this section (whichever is applicable).
+&emsp;(B) Not later than December 31, 1976, the Secretary shall prescribe regulations which shall have the effect of requiring that a plan divest itself of 50 percent of the holdings of employer securities and employer real property which the plan would be required to divest before January 1, 1985, under paragraph (2) or subsection (c) of this section (whichever is applicable).
 
 #### (b) Exception
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;(2) The term “employer real property” means real property (and related personal property) which is leased to an employer of employees covered by the plan, or to an affiliate of such employer. For purposes of determining the time at which a plan acquires employer real property for purposes of this section, such property shall be deemed to be acquired by the plan on the date on which the plan acquires the property or on the date on which the lease to the employer (or affiliate) is entered into, whichever is later.
 
-&emsp;(3)(A) The term “eligible individual account plan” means an individual account plan which is (i) a profit-sharing, stock bonus, thrift, or savings plan; (ii) an employee stock ownership plan; or (iii) a money purchase plan which was in existence on September 2, 1974, and which on such date invested primarily in qualifyingemployer securities. Such term excludes an individual retirement account or annuity described in section 408 of title 26.
+&emsp;(3)(A) The term “eligible individual account plan” means an individual account plan which is (i) a profit-sharing, stock bonus, thrift, or savings plan; (ii) an employee stock ownership plan; or (iii) a money purchase plan which was in existence on September 2, 1974, and which on such date invested primarily in qualifying employer securities. Such term excludes an individual retirement account or annuity described in section 408 of title 26.
 
 &emsp;(B) Notwithstanding subparagraph (A), a plan shall be treated as an eligible individual account plan with respect to the acquisition or holding of qualifying employer real property or qualifying employer securities only if such plan explicitly provides for acquisition and holding of qualifying employer securities or qualifying employer real property (as the case may be). In the case of a plan in existence on September 2, 1974, this subparagraph shall not take effect until January 1, 1976.
 
@@ -156,7 +156,7 @@ For purposes of subsection (d)(5) of this section, the term “marketable obliga
 
 &emsp;(B) was acquired after December 17, 1987, pursuant to a legally binding contract in effect on December 17, 1987, and has been so held at all times after the acquisition.
 
-(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
+(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
 
 #### References in Text
 
@@ -168,19 +168,19 @@ Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referr
 
 <b>1997</b>—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stocksatisfies the requirements of subsection (f)(1) of this section.”
 
 <b>1989</b>—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (d)(3)(C). Pub. L. 101–239, §7881(<i>l</i>)(1), realigned margin.
+Subsec. (d)(3)(C). Pub. L. 101–239, §7881(l)(1), realigned margin.
 
 Subsec. (d)(6)(A). Pub. L. 101–239, §7894(e)(2), substituted “money purchase plan” for “money purchase” and “employer securities” for “employee securities”.
 
-Subsec. (d)(9). Pub. L. 101–239, §7881(<i>l</i>)(2), substituted “such individual account plan” for “such arrangement” and realigned margin.
+Subsec. (d)(9). Pub. L. 101–239, §7881(l)(2), substituted “such individual account plan” for “such arrangement” and realigned margin.
 
-Subsec. (f)(1). Pub. L. 101–239, §7881(<i>l</i>)(3)(A), (4), substituted “paragraph” for “subsection” and “if, immediately following the acquisition of such stock” for “if”.
+Subsec. (f)(1). Pub. L. 101–239, §7881(l)(3)(A), (4), substituted “paragraph” for “subsection” and “if, immediately following the acquisition of such stock” for “if”.
 
-Subsec. (f)(3). Pub. L. 101–239, §7881(<i>l</i>)(3)(B), struck out par. (3) which read as follows: “After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date.”
+Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which read as follows: “After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date.”
 
 <b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1997 Amendment
 
-Section 1524(b) of Pub. L. 105–34, as amended by Pub. L. 107–16, title VI, §655(a), June 7, 2001, 115 Stat. 131, provided that:
+Pub. L. 105–34, title XV, §1524(b), Aug. 5, 1997, 111 Stat. 1072, as amended by Pub. L. 107–16, title VI, §655(a), June 7, 2001, 115 Stat. 131, provided that:
 
 “(1)
 
@@ -210,11 +210,11 @@ Nonapplication to previously acquired property.—The amendments made by this se
 
 #### Effective Date of 1990 Amendment
 
-Section 2 of Pub. L. 101–540 provided that: “The amendment made by section 1 \[amending this section\] shall apply to interests in publicly traded partnerships acquired before, on, or after January 1, 1987.”
+Pub. L. 101–540, §2, Nov. 8, 1990, 104 Stat. 2379, provided that: “The amendment made by section 1 \[amending this section\] shall apply to interests in publicly traded partnerships acquired before, on, or after January 1, 1987.”
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(l)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -222,7 +222,7 @@ Amendment by section 7894(e)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Section 9345(a)(3) of Pub. L. 100–203 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to arrangements established after December 17, 1987.”
+Pub. L. 100–203, title IX, §9345(a)(3), Dec. 22, 1987, 101 Stat. 1330–373, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to arrangements established after December 17, 1987.”
 
 #### Regulations
 

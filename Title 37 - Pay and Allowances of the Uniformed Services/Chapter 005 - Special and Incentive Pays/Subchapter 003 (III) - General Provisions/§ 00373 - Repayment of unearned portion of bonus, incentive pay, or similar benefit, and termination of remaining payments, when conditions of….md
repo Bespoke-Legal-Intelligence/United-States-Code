@@ -10,7 +10,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Discretion to provide exception to termination and repayment requirements.—Pursuant to the regulations prescribed to administer this section, the Secretary concernedmay grant an exception to the repayment requirement and requirement to terminate the payment of unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that the imposition of the repayment and termination requirements with regard to a member of the uniformed services would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+Discretion to provide exception to termination and repayment requirements.—Pursuant to the regulations prescribed to administer this section, the Secretary concerned may grant an exception to the repayment requirement and requirement to terminate the payment of unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that the imposition of the repayment and termination requirements with regard to a member of the uniformed services would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
 &emsp;(2)
 

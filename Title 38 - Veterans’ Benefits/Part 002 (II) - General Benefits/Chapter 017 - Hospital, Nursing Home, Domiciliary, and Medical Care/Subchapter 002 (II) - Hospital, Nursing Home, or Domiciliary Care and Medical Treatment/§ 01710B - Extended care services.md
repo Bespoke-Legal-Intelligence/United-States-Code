@@ -196,7 +196,7 @@ Limitation.—In providing for the furnishing of services in carrying out a pilo
 
 Duration of Programs.—(1) The authority of the Secretary to provide services under a pilot program under this section shall cease on the date that is three years after the date of the commencement of that pilot program.
 
-“(2) In the case of a veteran who is participating in a pilot program under this section as of the end of the three-year period applicable to that pilot program under paragraph (1), the Secretary may continue to provide to that veteran any of the services that could be provided under the pilot program. The authority to provide services to any veteran under the preceding sentence applies during the period beginning on the date specified in paragraph (1) with respect to that pilot program and ending on December 31, 2005.
+“(2) In the case of a veteran who is participating in a pilot program under this section as of the end of the three-year period applicable to that pilot program under paragraph (1), the Secretary may continue to provide to that veteran any of the services that could be provided under the pilot program. The authority to provide services to any veteran under the preceding sentence applies during the period beginning on thedate specified in paragraph (1) with respect to that pilot program and ending on December 31, 2005.
 
 “(i)
 

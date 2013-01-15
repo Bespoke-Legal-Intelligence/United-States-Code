@@ -38,7 +38,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1402(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XIV, §1402(c), Oct. 22, 1986, 100 Stat. 2712, provided that:
 
 “(1)
 

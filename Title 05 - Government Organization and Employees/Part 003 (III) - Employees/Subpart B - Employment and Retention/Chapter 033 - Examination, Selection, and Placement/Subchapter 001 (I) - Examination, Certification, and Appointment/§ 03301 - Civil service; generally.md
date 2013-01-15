@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. §1753 (less last 16 words).
 
-The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of serviceinto which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
+The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -132,7 +132,7 @@ Number and Appointment.—The Council shall be composed of 15 members as follows
 
 “(b)
 
-Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer thanthe 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
+Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
 “(c)
 
@@ -272,7 +272,7 @@ Ex. Ord. No. 9367, Aug. 4, 1943, 8 F.R. 11017, which prohibited, with certain ex
 
 #### Ex. Ord. No. 10577. Civil Service Rules
 
-Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R.10025; Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, amended generally the Civil Service Rules, provided for transition from the indefinite appointment system to the career-conditional appointment system, and revoked Ex. Ord. No. 9830, Feb. 24, 1947, 12 F.R. 1259; Ex. Ord. No. 9973, June 28, 1948, 13 F.R. 3600; Ex. Ord. No. 10180, Nov. 13, 1950, 15 F.R. 7745; Ex. Ord. No. 10440, Mar. 31, 1953, 18 F.R. 1823; and Ex. Ord. No. 10463, June 25, 1953, 18 F.R. 3655. The Civil Service Rules are set out in Parts 1 to 10 of Title 5, Code of Federal Regulations. The Civil Service Rules were also amended by the following Executive Orders:
+Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055, amended generally the Civil Service Rules, provided for transition from the indefinite appointment system to the career-conditional appointment system, and revoked Ex. Ord. No. 9830, Feb. 24, 1947, 12 F.R. 1259; Ex. Ord. No. 9973, June 28, 1948, 13 F.R. 3600; Ex. Ord. No. 10180, Nov. 13, 1950, 15 F.R. 7745; Ex. Ord. No. 10440, Mar. 31, 1953, 18 F.R. 1823; and Ex. Ord. No. 10463, June 25, 1953, 18 F.R. 3655. The Civil Service Rules are set out in Parts 1 to 10 of Title 5, Code of Federal Regulations. The Civil Service Rules were also amended by the following Executive Orders:
 
 Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137, as amended by Ex. Ord. No. 12107, §2–101(a), Dec. 28, 1978, 44 F.R. 1055.
 
@@ -386,7 +386,7 @@ Ex. Ord. No. 11219, May 6, 1965, 30 F.R. 6381, as amended by Ex. Ord. No. 12107,
 
 By virtue of the authority vested in me by section 1753 of the Revised Statutes \[sections 3301 and 7301 of this title\] and the Civil Service Act (22 Stat. 403), and as President of the United States, it is hereby ordered as follows:
 
-Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, a present or former member of the Foreign Service may be appointed in the competitive service if he:
+Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, apresent or former member of the Foreign Service may be appointed in the competitive service if he:
 
 (a) Is qualified for the position in the competitive service;
 
@@ -424,7 +424,7 @@ Ex. Ord. No. 11598, June 16, 1971, 36 F.R. 11711, formerly set out as a note und
 
 #### Executive Order No. 11813
 
-Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, which related to career or career-conditional appointments for cooperative education students, was revoked by Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, set out below.
+Ex. Ord. No. 11813, Oct. 7, 1974, 39 F.R. 36317, which related to career or career-conditional appointments for cooperative education students, was revoked by Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, formerly set out below.
 
 #### Ex. Ord. No. 11955. Career or Career-Conditional Appointment to Certain Qualified Employees of National Aeronautics and Space Administration
 
@@ -450,31 +450,9 @@ Sec. 3. The Office of Personnel Management shall prescribe such regulations as m
 
 Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established a Presidential Management Intern Program, was revoked by Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, formerly set out below.
 
-#### Ex. Ord. No. 12015. Career or Career-Conditional Appointments in Competitive Service for Students Completing Approved Career-Related Work-Study Programs
+#### Executive Order No. 12015
 
-Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, provided:
-
-By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
-
-Section 1. As used in this order “career-related work-study programs” are those programs established by the Office of Personnel Management which provide for a formally-arranged schedule of periods of attendance at an accredited school combined with periods of career-related work in a Federal agency under a Schedule B appointment.
-
-Sec. 2. The appointment of a student to a position in a career-related work-study program may be converted noncompetitively to a term, career, or career-conditional appointment if the student:
-
-(a) has completed within the preceding 120 days an educational program that meets the provisions established by the Office of Personnel Management;
-
-(b) has satisfied all course requirements leading to completion of the related curriculum at an accredited school;
-
-(c) is recommended for such an appointment by the employing agency in which the career-related work was performed; and,
-
-(d) satisfies such other requirements and conditions as the Office of Personnel Management may prescribe for term, career, or career-conditional appointment of an individual in career-related work-study programs.
-
-Sec. 3. The Office of Personnel Management shall prescribe such regulations as it deems necessary to carry out the provisions of this order and to provide for the continuation of planning, implementation and evaluation of employment programs for students throughout the Government. These regulations shall provide for the periodic evaluation of the work of each student and require that each student's continuation in the program shall be dependent upon a finding of satisfactory performance.
-
-Sec. 4. Students converted to term appointment under section 2 may subsequently be converted noncompetitively to a career or career-conditional appointment before the term appointment expires.
-
-Sec. 5. Executive Order No. 11813 of October 7, 1974, is hereby revoked.
-
-\[Ex. Ord. No. 12015, set out above, is revoked on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program, see Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
+Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, which related to career or career-conditional appointments in competitive service for students completing approved career-related work-study programs, was revoked by Ex. Ord. No. 13562, §8(b), Dec. 27, 2010, 75 F.R. 82588, setout below, on the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program \[July 10, 2012, see 77 F.R. 28194\].
 
 #### Executive Order No. 12026
 
@@ -490,7 +468,7 @@ Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 1258
 
 #### Executive Order No. 12364
 
-Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, set out below.
+Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, which related to the Presidential Management Intern Program, was superseded by Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, formerly set out below.
 
 #### Ex. Ord. No. 12505. Career Appointments to Certain Office of Management and Budget Employees
 
@@ -606,57 +584,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, which established the Federal Career Intern Program and provided for its oversight by the Office of Personnel Management, was revoked, effective Mar. 1, 2011, by Ex. Ord. No. 13562, §8(a), Dec. 27, 2010, 75 F.R. 82588, set out as a note below.
 
-#### Ex. Ord. No. 13318. Presidential Management Fellows Program
+#### Executive Order No. 13318
 
-Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of outstanding employees for service in public sector management, it is hereby ordered as follows:
-
-Section 1. There is hereby constituted the Presidential Management Fellows Program. The purpose of the Program is to attract to the Federal service outstanding men and women from a variety of academic disciplines and career paths who have a clear interest in, and commitment to, excellence in the leadership and management of public policies and programs. Individuals selected for the Program shall be known as Presidential Management Fellows (PMFs) or Senior Presidential Management Fellows (Senior PMFs).
-
-Sec. 2. (a) Individuals eligible for appointment as a PMF under this order are those who, in pursuing a course of study at the graduate level, have demonstrated both exceptional ability and the commitment to which section 1 refers. Such individuals at the time of application must have received, or must expect to receive soon thereafter, an appropriate advanced degree as defined by the Director of the Office of Personnel Management (OPM).
-
-(b) Individuals eligible for appointment as a Senior PMF under this order are those who have, through extensive work experience, demonstrated both exceptional leadership or analytical ability and the commitment to which section 1 refers.
-
-Sec. 3. The Director of OPM shall prescribe appropriate merit-based rules for the recruitment, nomination, assessment, selection, appointment, placement, and continuing career development of fellows, including rules that:
-
-(a) reserve to the head of a department or agency or component within the Executive Office of the President (EOP) the authority to appoint a fellow who is to be employed in that department, agency, or component;
-
-(b) provide for nomination by universities and colleges, through competitive selection processes, of eligible individuals for consideration for appointment as PMFs;
-
-(c) carry out the policy of the United States to ensure equal employment opportunities for employees without discrimination because of race, color, religion, sex, or national origin; and
-
-(d) ensure the application of appropriate veterans’ preference criteria.
-
-Sec. 4. (a) Fellows shall be appointed to positions in either:
-
-(1) Schedule A of the excepted service; or
-
-(2) an agency or component within the EOP excepted from the competitive service.
-
-(b) Appointments under subsection (a) shall not exceed 2 years in duration unless extended by the head of the department or agency or component within the EOP, with the concurrence of the Director of OPM, for a period not to exceed 1 additional year.
-
-(c) The following principles and policies shall govern service and tenure by fellows:
-
-(1) responsibilities assigned to a PMF shall be consistent with the PMF's educational background and career interests, and the purposes of the Program; and responsibilities assigned to a Senior PMF shall be consistent with the Senior PMF's experience and career interests, and the purposes of the Program;
-
-(2) continuation of a fellow's appointment shall be contingent upon satisfactory performance by the fellow throughout the fellowship appointment;
-
-(3) except as provided in paragraph (4) of this subsection, service as a fellow shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the fellow's appointment; and
-
-(4) competitive civil service status may be granted to a fellow who satisfactorily completes the Program and meets such other requirements as the Director of OPM may prescribe. A fellow appointed by an agency excepted from the competitive service may also be appointed to a permanent position in an excepted service agency without further competition.
-
-Sec. 5. The Director of OPM shall provide for an orderly transition, including with respect to nominations, selection processes, and appointments, from the Presidential Management Intern Program established by Executive Order 12364 \[formerly set out above\] of May 24, 1982, to the Presidential Management Fellows Program established by this order. Until that transition is provided for, individuals who were selected or appointed under the provisions of Executive Order 12364 and who have not completed their scheduled periods of excepted service are hereby redesignated as Presidential Management Fellows, and continue their internships under the terms of Executive Order 12364.
-
-Sec. 6. The Director of OPM shall prescribe such regulations as may be necessary to carry out the purposes of this order.
-
-Sec. 7. Executive Order 12364 \[formerly set out above\] is superseded, except as provided in section 5 of this order.
-
-Sec. 8. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[Ex. Ord. No. 13318, set out above, is revoked on the effective date of final regulations promulgated by the Director of OPM to implement required changes to the PMF Program, see Ex. Ord. No. 13562, §8(c), Dec. 27, 2010, 75 F.R. 82588, set out below.\]
+Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, which related to the Presidential Management Fellows Program, was revoked by Ex. Ord. No. 13562, §8(c), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement required changes to the PMF Program \[July 10, 2012, see 77 F.R. 28194\].
 
 #### Ex. Ord. No. 13473. To Authorize Certain Noncompetitive Appointments in the Civil Service for Spouses of Certain Members of the Armed Forces
 
@@ -712,7 +642,7 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 Section 1. <i>Policy</i>. Veterans have served and sacrificed in defense of our Nation. When they complete their service, we must do everything in our power to assist them in re-entering civilian life and finding employment. Government as well as private employers should play a prominent role in helping veterans who may be struggling to find jobs. As one of the Nation's leading employers, the Federal Government is in need of highly skilled individuals to meet agency staffing needs and to support mission objectives. Our veterans, who have benefited from training and development during their military service, possess a wide variety of skills and experiences, as well as the motivation for public service, that will help fulfill Federal agencies’ staffing needs. It is therefore the policy of my Administration to enhance recruitment of and promote employment opportunities for veterans within the executive branch, consistent with merit system principles and veterans’ preferences prescribed by law. The Federal Government will thereby help lead by example in promoting veterans’ employment.
 
-Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretariesof Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
+Sec. 2. <i>Council on Veterans Employment</i>. There is hereby established an interagency Council on Veterans Employment (Council), to be co-chaired by the Secretaries of Labor and Veterans Affairs. The Director of the Office of Personnel Management (OPM) shall serve as Vice Chair of the Council.
 
 (a) Mission and Function of the Council. The Council shall:
 
@@ -852,7 +782,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The Federal Government benefits from a diverse workforce that includes students and recent graduates, who infuse the workplace with their enthusiasm, talents, and unique perspectives. The existing competitive hiring process for the Federal civil service, however, is structured in a manner that, even at the entry level, favors job applicants who have significant previous work experience. This structure, along with the complexity of the rules governing admission to the career civil service, creates a barrier to recruiting and hiring students and recent graduates. It places the Federal Government at a competitive disadvantage compared to private-sector employers when it comes to hiring qualified applicants for entry-level positions.
 
-To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attracts them to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
+To compete effectively for students and recent graduates, the Federal Government must improve its recruiting efforts; offer clear paths to Federal internships for students from high school through post-graduate school; offer clear paths to civil service careers for recent graduates; and provide meaningful training, mentoring, and career-development opportunities. Further, exposing students and recent graduates to Federal jobs through internships and similar programs attractsthem to careers in the Federal Government and enables agency employers to evaluate them on the job to determine whether they are likely to have successful careers in Government.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that represents all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -914,7 +844,7 @@ Sec. 7. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
 
 (v) provide guidance on conducting an orderly transition from existing student and internship programs to the Pathways Programs established pursuant to this order; and
 
-(vi) consider for publication in the Federal Register at an appropriate time a proposed rule seeking public comment on the elimination of the Student Temporary Employment Program, established through OPM regulations at 5 CFR 213.3202(a).
+(vi) consider for publication in the Federal Register at an appropriate time a proposed rule seeking publiccomment on the elimination of the Student Temporary Employment Program, established through OPM regulations at 5 CFR 213.3202(a).
 
 (c) In accordance with regulations prescribed pursuant to this order and applicable law, agencies shall:
 

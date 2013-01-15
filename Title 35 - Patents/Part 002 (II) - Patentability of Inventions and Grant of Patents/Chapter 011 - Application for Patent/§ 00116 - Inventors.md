@@ -1,36 +1,26 @@
 ### §116. Inventors
 
-When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
+(a)
 
-If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Director, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
+Joint Inventions.—When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
 
-Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
+(b)
+
+Omitted Inventor.—If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Director, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
+
+(c)
+
+Correction of Errors in Application.—Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
 (July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(a), Sept. 16, 2011, 125 Stat. 333.)
 
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(a), (l), Sept. 16, 2011, 125 Stat. 333, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
-
-<i>(1) in the first undesignated paragraph, by striking “When” and inserting “(a) JOINT INVENTIONS.—When”;</i>
-
-<i>(2) in the second undesignated paragraph, by striking “If a joint inventor” and inserting “(b) OMITTED INVENTOR.—If a joint inventor”; and</i>
-
-<i>(3) in the third undesignated paragraph—</i>
-
-<i>(A) by striking “Whenever” and inserting “(c) CORRECTION OF ERRORS IN APPLICATION.—Whenever”; and</i>
-
-<i>(B) by striking “and such error arose without any deceptive intention on his part,”.</i>
-
-<i>See 2011 Amendment note below.</i>
-
 #### Historical and Revision Notes
 
-The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a personas inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
+The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c), struck out “and such error arose without any deceptive intention on his part,” before “the Director”.
+<b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, and, in subsec. (c), struck out “and such error arose without any deceptive intention on his part,” before “the Director”.
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -42,7 +32,7 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

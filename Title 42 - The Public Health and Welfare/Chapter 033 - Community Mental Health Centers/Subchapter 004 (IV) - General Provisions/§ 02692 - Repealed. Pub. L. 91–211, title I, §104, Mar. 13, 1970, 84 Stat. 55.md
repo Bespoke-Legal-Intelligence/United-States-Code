@@ -4,5 +4,5 @@ Section, Pub. L. 88–164, title IV, §402, Oct. 31, 1963, 77 Stat. 297; Pub. L.
 
 #### Effective Date of Repeal
 
-Section 104 of Pub. L. 91–211 provided that the repeal by that section is effective with respect to projects under subchapter II of this chapter or part A of subchapter III of this chapter approved after June 30, 1970.
+Pub. L. 91–211, title I, §104, Mar. 13, 1970, 84 Stat. 55, provided that the repeal by that section is effective with respect to projects under subchapter II of this chapter or part A of subchapter III of this chapter approved after June 30, 1970.
 

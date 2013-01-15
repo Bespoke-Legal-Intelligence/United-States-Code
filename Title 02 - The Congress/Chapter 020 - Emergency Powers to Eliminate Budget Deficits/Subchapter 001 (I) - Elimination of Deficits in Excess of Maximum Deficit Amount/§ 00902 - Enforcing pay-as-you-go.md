@@ -48,7 +48,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (2) OMB estimates
 
-&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) afterthe date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
+&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
 
 &emsp;&emsp;(A) the CBO estimate of that legislation;
 
@@ -62,7 +62,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (4) Scope of estimates
 
-&emsp;The estimates under this section shall include the amount of change in outlays or receipts for the current year (if applicable), the budget year, and each outyear excluding any amounts resulting from—
+&emsp;The estimates under this section shall include the amount of change in outlays or receipts for the current year (if applicable), thebudget year, and each outyear excluding any amounts resulting from—
 
 &emsp;&emsp;(A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
 
@@ -116,7 +116,7 @@ Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” 
 
 #### Effective Date of 1994 Amendment
 
-Section 119(d)(2) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
 
 #### Congressional Budget Office Excepted From Certain Requirements
 
@@ -132,11 +132,11 @@ Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that: 
 
 #### Conforming Paygo Scorecard With Transportation Equity Act for 21st Century
 
-Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[23 U.S.C. 104 note\].”
+Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[former 23 U.S.C. 104 note\].”
 
 #### Reduction of Preexisting Balances and Exclusion of Effects of Pub. L. 105–33 From Paygo Scorecard
 
-Section 10213 of Pub. L. 105–33 provided that: “Upon the enactment of this Act \[Aug. 5, 1997\], the Director of the Office of Management and Budget shall—
+Pub. L. 105–33, title X, §10213, Aug. 5, 1997, 111 Stat. 712, provided that: “Upon the enactment of this Act \[Aug. 5, 1997\], the Director of the Office of Management and Budget shall—
 
 &emsp;“(1) reduce any balances of direct spending and receipts legislation for any fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero; and
 
@@ -144,7 +144,7 @@ Section 10213 of Pub. L. 105–33 provided that: “Upon the enactment of this A
 
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
-Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year.”
+Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: “Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

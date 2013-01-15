@@ -28,5 +28,5 @@ In the case of any performing rights society subject to a consent decree which p
 
 #### Effective Date
 
-Section effective 90 days after Oct. 27, 1998, see section 207 of Pub. L. 105–298, set out as an Effective Date of 1998 Amendments note under section 101 of this title.
+Section effective 90 days after Oct. 27, 1998, see section 207 of Pub. L. 105–298, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
 

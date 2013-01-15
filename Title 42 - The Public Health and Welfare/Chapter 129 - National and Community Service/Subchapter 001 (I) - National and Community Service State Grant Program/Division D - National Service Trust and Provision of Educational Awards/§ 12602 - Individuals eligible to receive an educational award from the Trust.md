@@ -46,7 +46,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (2) Exception
 
-&emsp;The Corporation may extend the period within which an individual may use a national service educational award, summer of service educational award, or silver scholar educational award if the Corporation determines that the individual—
+&emsp;The Corporation may extend the period within which an individual may use a nationalservice educational award, summer of service educational award, or silver scholar educational award if the Corporation determines that the individual—
 
 &emsp;&emsp;(A) was unavoidably prevented from using the national service educational award, summer of service educational award, or silver scholar educational award during the original 7-year period, or 10-year period, as appropriate; or
 
@@ -125,7 +125,7 @@ Subsec. (a)(3), (4). Pub. L. 111–13, §1402(2)(B), (C), redesignated par. (4) 
 
 Subsec. (b). Pub. L. 111–13, §1402(3), designated existing provisions as par. (1), inserted par. (1) heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 111–13, §1402(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Although an individual may serve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service.”
+Subsec. (c). Pub. L. 111–13, §1402(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Although an individual mayserve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service.”
 
 Subsec. (d)(1). Pub. L. 111–13, §1402(5)(A)(i), substituted “In general” for “Seven-year requirement” in heading.
 

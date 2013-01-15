@@ -40,7 +40,7 @@
 
 &emsp;(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2).
 
-(g) If the Commandant approves the Board's recommendation, the enlisted member shall be notified of the Commandant's decision and shallbe retired from the service within ninety days of the notification.
+(g) If the Commandant approves the Board's recommendation, the enlisted member shall be notified of the Commandant's decision and shall be retired from the service within ninety days of the notification.
 
 (h) An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
 

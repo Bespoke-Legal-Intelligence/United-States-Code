@@ -6,11 +6,11 @@ Nothing in this Act shall preclude or restrict the authority of the Secretary to
 
 #### (b) Evaluation of certain lands
 
-In connection with the first revision of the land and resources management plan for the Arapaho/Roosevelt National Forest after August 21, 2002, the Secretary shall evaluate the suitability of the lands managed under the management prescription referred to in section 539<i>l</i>(d)(1)(F) of this title for inclusion in the National Wilderness Preservation System and make recommendations to Congress regarding such inclusion.
+In connection with the first revision of the land and resources management plan for the Arapaho/Roosevelt National Forest after August 21, 2002, the Secretary shall evaluate the suitability of the lands managed under the management prescription referred to in section 539l(d)(1)(F) of this title for inclusion in the National Wilderness Preservation System and make recommendations to Congress regarding such inclusion.
 
 (Pub. L. 107–216, §8, Aug. 21, 2002, 116 Stat. 1061.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539<i>l</i> of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539l of this title and Tables.
 

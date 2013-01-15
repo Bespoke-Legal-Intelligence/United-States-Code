@@ -50,13 +50,13 @@ A prior section 339 of act June 17, 1930, related to effect of repeal and reenac
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418, §1614(1), substituted “a separate office to be known as the Trade” for “a Trade”, and “upon request and shall, to the extent feasible, provide assistance and advice to interested parties” for “, upon request,” in introductory provisions.
 
-Subsec. (b). Pub. L. 100–418, §1614(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each agency responsible for administering a trade law shall provide technical assistance to eligiblesmall businesses to enable them to prepare and file petitions and applications (other than those which, in the opinion of the agency, are frivolous) to obtain the remedies and benefits that may be available under that law.”
+Subsec. (b). Pub. L. 100–418, §1614(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each agency responsible for administering a trade law shall provide technical assistance to eligible small businesses to enable them to prepare and file petitions and applications (other than those which, in the opinion of the agency, are frivolous) to obtain the remedies and benefits that may be available under that law.”
 
 <b>1986</b>—Subsec. (c)(2)(A). Pub. L. 99–514 substituted “injury” for “relief”.
 
 #### Effective Date
 
-Section 221(b) of Pub. L. 98–573 provided that: “Section 339 of the Tariff Act of 1930 \[this section\] (as added by subsection (a)) shall take effect on the 90th day after the date of the enactment of this Act \[Oct. 30, 1984\].”
+Pub. L. 98–573, title II, §221(b), Oct. 30, 1984, 98 Stat. 2990, provided that: “Section 339 of the Tariff Act of 1930 \[this section\] (as added by subsection (a)) shall take effect on the 90th day after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

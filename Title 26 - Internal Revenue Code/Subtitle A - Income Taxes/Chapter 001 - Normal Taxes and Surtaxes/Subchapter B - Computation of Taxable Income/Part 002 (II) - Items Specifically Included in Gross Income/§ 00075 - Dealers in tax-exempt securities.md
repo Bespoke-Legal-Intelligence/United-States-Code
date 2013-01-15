@@ -6,7 +6,7 @@ In computing the gross income of a taxpayer who holds during the taxable year a 
 
 &emsp;(1) if the gross income of the taxpayer from such trade or business is computed by the use of inventories and his inventories are valued on any basis other than cost, the cost of securities sold (as defined in subsection (b)(2) during such year shall be reduced by an amount equal to the amortizable bond premium which would be disallowed as a deduction for such year by section 171(a)(2) (relating to deduction for amortizable bond premium) if the definition in section 171(d) of the term “bond” did not exclude such municipal bond; or
 
-&emsp;(2) if the gross income of the taxpayer from such trade or business is computed without the use of inventories, or by use of inventories valued at cost, and the municipal bond is sold or otherwise disposed of during such year, the adjusted basis (computed without regard to this paragraph) of the municipal bond shall be reduced by the amount of the adjustment which would be required under section 1016(a)(5) (relating to adjustment to basis for amortizable bond premium) if the definition in section 171(d) of the term “bond” did not exclude such municipal bond.
+&emsp;(2) if the gross income of the taxpayer from such trade or business is computed without the use of inventories, or by use of inventoriesvalued at cost, and the municipal bond is sold or otherwise disposed of during such year, the adjusted basis (computed without regard to this paragraph) of the municipal bond shall be reduced by the amount of the adjustment which would be required under section 1016(a)(5) (relating to adjustment to basis for amortizable bond premium) if the definition in section 171(d) of the term “bond” did not exclude such municipal bond.
 
 > Notwithstanding the provisions of paragraph (1), no reduction to the cost of securities sold during the taxable year shall be made in respect of any obligation described in subsection (b)(1)(A)(ii) which is held by the taxpayer at the close of the taxable year; but in the taxable year in which any such obligation is sold or otherwise disposed of, if such obligation is a municipal bond (as defined in subsection (b)(1)), the cost of securities sold during such year shall be reduced by an amount equal to the adjustment described in paragraph (2), without regard to the fact that the taxpayer values his inventories on any basis other than cost.
 
@@ -46,5 +46,5 @@ Subsec. (b)(1). Pub. L. 85–866, §2(a)(1), substituted “municipal bond” fo
 
 #### Effective Date of 1958 Amendment
 
-Section 2(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1016 of this title\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to obligations acquired after such date.”
+Pub. L. 85–866, §2(c), Sept. 2, 1958, 72 Stat. 1607, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1016 of this title\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to obligations acquired after such date.”
 

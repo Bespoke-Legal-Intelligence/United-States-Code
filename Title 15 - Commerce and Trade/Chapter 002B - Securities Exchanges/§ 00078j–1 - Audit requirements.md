@@ -20,7 +20,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 &emsp;&emsp;(ii) if so, determine and consider the possible effect of the illegal act on the financial statements of the issuer, including any contingent monetary effects, such as fines, penalties, and damages; and
 
-&emsp;&emsp;(B) as soon as practicable, inform the appropriate level of the management of the issuer and assure that the audit committee of the issuer, or the board of directors of the issuer in the absence of such a committee, is adequately informed with respect to illegal acts that have been detected or have otherwise come to the attention of such firm inthe course of the audit, unless the illegal act is clearly inconsequential.
+&emsp;&emsp;(B) as soon as practicable, inform the appropriate level of the management of the issuer and assure that the audit committee of the issuer, or the board of directors of the issuer in the absence of such a committee, is adequately informed with respect to illegal acts that have been detected or have otherwise come to the attention of such firm in the course of the audit, unless the illegal act is clearly inconsequential.
 
 #### (2) Response to failure to take remedial action
 
@@ -36,7 +36,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (3) Notice to Commission; response to failure to notify
 
-&emsp;An issuer whose board of directors receives a report under paragraph (2) shall inform the Commission by notice not later than 1 business day after the receipt of such report and shall furnish the registered public accounting firm making such report with a copy of the notice furnished to the Commission. If the registered public accounting firm fails to receive a copy of the notice before the expiration of the required 1-business-day period, the registered public accounting firm shall—
+&emsp;An issuer whose board of directors receives a report under paragraph (2) shall inform theCommission by notice not later than 1 business day after the receipt of such report and shall furnish the registered public accounting firm making such report with a copy of the notice furnished to the Commission. If the registered public accounting firm fails to receive a copy of the notice before the expiration of the required 1-business-day period, the registered public accounting firm shall—
 
 &emsp;&emsp;(A) resign from the engagement; or
 
@@ -60,7 +60,7 @@ Except as provided in subsection (d) of this section, nothing in this section sh
 
 #### (f) Definitions
 
-As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force of law. As used in this section, the term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force of law. As used in this section, the term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (g) Prohibited activities
 
@@ -132,7 +132,7 @@ Each registered public accounting firm that performs for any issuer any audit re
 
 &emsp;(3) other material written communications between the registered public accounting firm and the management of the issuer, such as any management letter or schedule of unadjusted differences.
 
-#### (<i>l</i>) Conflicts of interest
+#### (l) Conflicts of interest
 
 It shall be unlawful for a registered public accounting firm to perform for an issuer any audit service required by this chapter, if a chief executive officer, controller, chief financial officer, chief accounting officer, or any person serving in an equivalent position for the issuer, was employed by that registered independent public accounting firm and participated in any capacity in the audit of that issuer during the 1-year period preceding the date of the initiation of the audit.
 
@@ -194,7 +194,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (<i>l</i>), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -218,7 +218,7 @@ Subsec. (c). Pub. L. 107–204, §205(b)(3), substituted “No registered public
 
 Subsec. (d). Pub. L. 107–204, §205(b)(1), (2), substituted “a registered public accounting firm” for “an independent public accountant” and “the registered public accounting firm” for “the independent public accountant”.
 
-Subsec. (f). Pub. L. 107–204, §205(d), substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.”
+Subsec. (f). Pub. L. 107–204, §205(d), substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.”
 
 Subsecs. (g), (h). Pub. L. 107–204, §201(a), added subsecs. (g) and (h).
 
@@ -228,7 +228,7 @@ Subsec. (j). Pub. L. 107–204, §203, added subsec. (j).
 
 Subsec. (k). Pub. L. 107–204, §204, added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 107–204, §206, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–204, §206, added subsec. (l).
 
 Subsec. (m). Pub. L. 107–204, §301, added subsec. (m).
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date
 
-Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 764, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
+Pub. L. 104–67, title III, §301(b), Dec. 22, 1995, 109 Stat. 764, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
 
 &emsp;“(1) for any period beginning on or after January 1, 1996, with respect to any registrant that is required to file selected quarterly financial data pursuant to the rules or regulations of the Securities and Exchange Commission; and
 
@@ -246,5 +246,5 @@ Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 764, provided th
 
 #### Construction
 
-Pub. L. 104–67, title II, §203, Dec. 22, 1995, 109 Stat. 762, provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of thistitle\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
+Pub. L. 104–67, title II, §203, Dec. 22, 1995, 109 Stat. 762, provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
 

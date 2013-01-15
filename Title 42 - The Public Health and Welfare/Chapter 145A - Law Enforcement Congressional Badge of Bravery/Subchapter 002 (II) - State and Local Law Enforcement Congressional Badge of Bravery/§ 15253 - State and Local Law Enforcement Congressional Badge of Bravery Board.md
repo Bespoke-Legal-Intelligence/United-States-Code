@@ -20,7 +20,7 @@ The State and Local Board shall do the following:
 
 &emsp;&emsp;(A) procure the State and Local Law Enforcement Badges from the engraver selected under paragraph (2);
 
-&emsp;&emsp;(B) send a letter announcing the award of each State and Local Law Enforcement Badge to the State or local agency head who nominated the recipient of such State and Local Law Enforcement Badge;
+&emsp;&emsp;(B) send a letter announcing the award of each State and Local Law EnforcementBadge to the State or local agency head who nominated the recipient of such State and Local Law Enforcement Badge;
 
 &emsp;&emsp;(C) send a letter to each Member of Congress representing the congressional district where the recipient of each State and Local Law Enforcement Badge resides to offer such Member an opportunity to present such State and Local Law Enforcement Badge; and
 
@@ -82,7 +82,7 @@ The State and Local Board shall do the following:
 
 #### (A) In general
 
-&emsp;&emsp;The State and Local Board may hold hearings, sit and act at times and places, take testimony, and receive evidence as the State and Local Board considers appropriate to carry out the duties of the State and LocalBoard under this subchapter. The State and Local Board may administer oaths or affirmations to witnesses appearing before it.
+&emsp;&emsp;The State and Local Board may hold hearings, sit and act at times and places, take testimony, and receive evidence as the State and Local Board considers appropriate to carry out the duties of the State and Local Board under this subchapter. The State and Local Board may administer oaths or affirmations to witnesses appearing before it.
 
 #### (B) Witness expenses
 
@@ -104,7 +104,7 @@ The State and Local Board shall do the following:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), each State and Local Board member shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such State and Local Board member is engaged in the performance of the duties of the State and Local Board.
+&emsp;Except as provided in paragraph (2), each State and Local Board member shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule undersection 5315 of title 5 for each day (including travel time) during which such State and Local Board member is engaged in the performance of the duties of the State and Local Board.
 
 #### (2) Prohibition of compensation for government employees
 

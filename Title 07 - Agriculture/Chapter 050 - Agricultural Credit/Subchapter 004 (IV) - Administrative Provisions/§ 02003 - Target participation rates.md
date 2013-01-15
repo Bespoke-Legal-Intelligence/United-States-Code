@@ -18,7 +18,7 @@
 
 #### (1) Reservation
 
-&emsp;The Secretary shall, to the greatest extent practicable, reserve sufficient loan funds made available under subchapter I of this chapter, for use by members of socially disadvantaged groups identified under target participation rates established under subsection (a) of this section.
+&emsp;The Secretary shall, to the greatest extent practicable, reserve sufficient loan funds made available under subchapter I of this chapter,for use by members of socially disadvantaged groups identified under target participation rates established under subsection (a) of this section.
 
 #### (2) Allocation
 

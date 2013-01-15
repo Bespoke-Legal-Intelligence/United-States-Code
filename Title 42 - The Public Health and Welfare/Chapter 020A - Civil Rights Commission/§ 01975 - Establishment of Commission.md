@@ -50,7 +50,7 @@ A prior section 1975, Pub. L. 85–315, pt. I, §101, Sept. 9, 1957, 71 Stat. 63
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–419 provided that: “This Act \[amending this section and sections 1975a to 1975d of this title, omitting former sections 1975e and 1975f of this title, and amending provisions set out as a note below\] may be cited as the ‘Civil Rights Commission Amendments Act of 1994’.”
+Pub. L. 103–419, §1, Oct. 25, 1994, 108 Stat. 4338, provided that: “This Act \[amending this section and sections 1975a to 1975d of this title, omitting former sections 1975e and 1975f of this title, and amending provisions set out as a note below\] may be cited as the ‘Civil Rights Commission Amendments Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 102–400, §1, Oct. 7, 1992, 106 Stat. 1955, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Section 1 of Pub. L. 102–167 provided that: “This Act \[amending this section and sections 1975a and 1975c to 1975f of this title\] may be cited as the ‘United States Commission on Civil Rights Reauthorization Act of 1991’.”
+Pub. L. 102–167, §1, Nov. 26, 1991, 105 Stat. 1101, provided that: “This Act \[amending this section and sections 1975a and 1975c to 1975f of this title\] may be cited as the ‘United States Commission on Civil Rights Reauthorization Act of 1991’.”
 
 #### Short Title of 1989 Amendment
 
@@ -66,5 +66,5 @@ Pub. L. 101–180, §1, Nov. 28, 1989, 103 Stat. 1325, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 98–183, as amended by Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4338, provided that:“This Act \[enacting this chapter\] may be cited as the ‘Civil Rights Commission Act of 1983’.”
+Pub. L. 98–183, §1, Nov. 30, 1983, 97 Stat. 1301, as amended by Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat.4338, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Civil Rights Commission Act of 1983’.”
 

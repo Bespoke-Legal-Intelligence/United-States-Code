@@ -24,7 +24,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;(7) The term “executive part of the department” means the executive part of the Department of Defense, Department of the Army, Department of the Navy, or Department of the Air Force, as the case may be, at the seat of government.
 
-&emsp;(8) The term “military departments” means the Department of the Army, the Department of the Navy, and the Department of the Air Force.
+&emsp;(8) The term “military departments” means the Department of the Army, the Departmentof the Navy, and the Department of the Air Force.
 
 &emsp;(9) The term “Secretary concerned” means—
 
@@ -54,7 +54,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, section 712 of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 &emsp;(14) The term “supplies” includes material, equipment, and stores of all kinds.
 
@@ -100,11 +100,11 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(10) The term “original”, with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member's most recent appointment in that component that is neither a promotion nor a demotion.
 
-&emsp;(11) The term “authorized strength” means the largest number of members authorized to be in an armed force, a component, a branch, a grade, or any other category of the armed forces.
+&emsp;(11) The term “authorized strength” means the largest number of members authorized tobe in an armed force, a component, a branch, a grade, or any other category of the armed forces.
 
 &emsp;(12) The term “regular”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office in a regular component of an armed force.
 
-&emsp;(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title) which contains thenames of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
+&emsp;(13) The term “active-duty list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 620 of this title) which contains the names of all officers of that armed force, other than officers described in section 641 of this title, who are serving on active duty.
 
 &emsp;(14) The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 
@@ -262,7 +262,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div.A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L.102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795.)
 
 Historical and Revision Notes<br>1956
 
@@ -494,7 +494,7 @@ In clauses (11) and (13), only that much of the description of the composition o
 
 In clause (12)(A), the words “an air force” are substituted for the words “for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law”, in 10:1835, and for 32:2 (as applicable to Air National Guard), to make the definition of “Air National Guard” parallel with the definition of “Army National Guard”, and to make explicit the intent of Congress, in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
 
-In clause (14), the definition of “officer” is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words “commissioned warrant officer”, “flight officer”, and “either permanent or temporary”, in 37:231(c) (1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
+In clause (14), the definition of “officer” is based on the source statutes instead of 50:551(5), which excludes warrant officers. The reference to appointment in 10:1a(b) (2d sentence and 10:1801(b) (2d sentence), and the words “commissioned warrant officer”, “flight officer”, and “either permanent or temporary”, in 37:231(c)\(1st sentence), are omitted as surplusage. 5:181–3(b) (1st sentence), 10:1a(b) (1st sentence), and 10:1801(b) (1st sentence) are omitted as covered by the definitions in clauses (14) and (16) of the revised section and by section 3062(c) and section 8062(d) of this title.
 
 In clause (16), the words “unless otherwise qualified”, “permanent or temporary”, and “in the Army, Navy, Air Force, Marine Corps, or Coast Guard, including any component thereof” are omitted as surplusage. The word “person” is substituted for the word “officer”.
 
@@ -535,6 +535,8 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of this title by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(13)(B). Pub. L. 112–239 inserted “section 712 of title 14,” after “chapter 15 of this title,”.
 
 <b>2011</b>—Subsec. (a)(13)(B). Pub. L. 112–81 inserted “12304a,” after “12304,”.
 
@@ -638,13 +640,31 @@ Par. 36. Pub. L. 90–235 added par. (36).
 
 Par. (35). Pub. L. 85–861, §33(a)(1), added par. (35).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title VI, §681(d), Jan. 2, 2013, 126 Stat. 1795, provided that:
+
+“(1)
+
+Inclusion of prior orders.—The amendments made by this section \[amending this section, section 12731 of this title, and section 3301 of Title 38, Veterans’ Benefits\] shall apply to any call or order to active duty authorized under section 712 of title 14, United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating.
+
+“(2)
+
+Credit for prior service.—The amendments made by this section shall be deemed to have been enacted on December 31, 2011, for purposes of applying the amendments to the following provisions of law:
+
+&emsp;“(A) Section 5538 of title 5, United States Code, relating to nonreduction in pay.
+
+&emsp;“(B) Section 701 of title 10, United States Code, relating to the accumulation and retention of leave.
+
+&emsp;“(C) Section 12731 of title 10, United States Code, relating to age and service requirements for receipt of retired pay for non-regular service.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–296, title XVII, §1704(g), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section (other than subsection (f)) \[see Tables for classification\] shall take effect on the date of transfer of the Coast Guard to the Department \[of Homeland Security\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -652,15 +672,15 @@ Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1987 Amendment
 
-Section 1233(c)\[(1)\] of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
+Pub. L. 100–180, div. A, title XII, §1233(c)\[(1)\], Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
 
 #### Effective Date of 1981 Amendment
 
-Section 405(f) of Pub. L. 97–86 provided that: “The amendments made by this section \[amending this section, sections 525, 601, 611, 612, 619, 625, 634, 635, 637, 638, 645, 741, 5138, 5149, 5155, 5442, 5444, 5457, 5501, and 6389 of this title, section 201 of Title 37, Pay and Allowances of the Uniformed Services, and a provision set out as a note under section 611 of this title\] shall take effect as of September 15, 1981.”
+Pub. L. 97–86, title IV, §405(f), Dec. 1, 1981, 95 Stat. 1106, provided that: “The amendments made by this section \[amending this section, sections 525, 601, 611, 612, 619, 625, 634, 635, 637, 638, 645, 741, 5138, 5149, 5155, 5442, 5444, 5457, 5501, and 6389 of this title, section 201 of Title 37, Pay and Allowances of the Uniformed Services, and a provision set out as a note under section 611 of this title\] shall take effect as of September 15, 1981.”
 
 #### Effective Date of 1980 Amendment
 
-Section 701 of Pub. L. 96–513 provided that:
+Pub. L. 96–513, title VII, §701, Dec. 12, 1980, 94 Stat. 2955, provided that:
 
 “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on September 15, 1981.
 
@@ -682,7 +702,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
+Pub. L. 85–861, §33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
 
 #### Short Title of 2009 Amendment
 
@@ -690,7 +710,7 @@ Pub. L. 111–23, §1(a), May 22, 2009, 123 Stat. 1704, provided that: “This A
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–317, §1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act \[amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26\] may be cited as the ‘Hubbard Act’.”
+Pub. L. 110–317, §1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act \[amending sections 1145, 1146, and1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26\] may be cited as the ‘Hubbard Act’.”
 
 Pub. L. 110–181, div. A, title VIII, §800, Jan. 28, 2008, 122 Stat. 202, provided that: “This title \[see Tables for classification\] may be cited as the ‘Acquisition Improvement and Accountability Act of 2007’.”
 
@@ -706,23 +726,23 @@ Pub. L. 106–38, §1, July 22, 1999, 113 Stat. 205, provided that: “This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–25, §1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act \[see Tables for classification\] may becited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
+Pub. L. 102–25, §1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–26 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Defense Technical Corrections Act of 1987’.”
+Pub. L. 100–26, §1, Apr. 21, 1987, 101 Stat. 273, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Defense Technical Corrections Act of 1987’.”
 
 #### Short Title of 1981 Amendment
 
-Section 1(a) of Pub. L. 97–22 provided that: “this Act \[see Tables for classification\] may be cited as the ‘Defense Officer Personnel Management Act Technical Corrections Act’.”
+Pub. L. 97–22, §1(a), July 10, 1981, 95 Stat. 124, provided that: “this Act \[see Tables for classification\] may be cited as the ‘Defense Officer Personnel Management Act Technical Corrections Act’.”
 
 #### Short Title of 1980 Amendment
 
-Section 1(a) of Pub. L. 96–513 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Defense Officer Personnel Management Act’.”
+Pub. L. 96–513, §1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Defense Officer Personnel Management Act’.”
 
 #### Savings Provision
 
-Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
+Pub. L. 96–513, title VII, §703, Dec. 12, 1980, 94 Stat. 2956, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
 
 #### Transfer of Functions
 
@@ -730,7 +750,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Laws in Suspended Status Prior to 1980 Amendment by Pub. L. 96–513
 
-Section 702 of Pub. L. 96–513 provided that: “If a provision of law that is in a suspended status on the day before the effective date of this Act \[see Effective Date of 1980 Amendment note above\] is amended by this Act \[see Tables for classification\], the suspended status of that provision is not affected by that amendment.”
+Pub. L. 96–513, title VII, §702, Dec. 12, 1980, 94 Stat. 2955, provided that: “If a provision of law that is in a suspended status on the day before the effective date of this Act \[see Effective Date of 1980 Amendment note above\] is amended by this Act \[see Tables for classification\], the suspended status of that provision is not affected by that amendment.”
 
 #### National Oceanic and Atmospheric Administration
 
@@ -742,6 +762,8 @@ Authority vested by this title in “military departments”, “the Secretary c
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
+Pub. L. 112–239, div. A, title X, §1076(m), Jan. 2, 2013, 126 Stat. 1956, provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
+
 Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 107–107, div. A, title X, §1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
@@ -752,21 +774,23 @@ Pub. L. 106–65, div. A, title X, §1066(e), Oct. 5, 1999, 113 Stat. 773, provi
 
 Pub. L. 105–261, div. A, title X, §1069(e), Oct. 17, 1998, 112 Stat. 2137, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Pub. L. 105–85, div. A, title X, §1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 105–85, div. A, title X, §1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: “For purposes of applying amendments made by provisions of this Act other thanprovisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 104–201, div. A, title X, §1074(e), Sept. 23, 1996, 110 Stat. 2661, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1506 of title XV of div. A of Pub. L. 104–106 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 104–106, div. A, title XV, §1506, Feb. 10, 1996, 110 Stat. 515, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 103–337, div. A, title X, §1070(h), Oct. 5, 1994, 108 Stat. 2859, provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 103–160, div. A, title XI, §1182(h), Nov. 30, 1993, 107 Stat. 1774, provided that: “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 102–484, div. A, title X, §1055, Oct. 23, 1992, 106 Stat. 2503, provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 112–239, §3, Jan. 2, 2013, 126 Stat. 1652.
 
 Pub. L. 112–81, §3, Dec. 31, 2011, 125 Stat. 1316.
 
@@ -784,7 +808,7 @@ Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
 
 Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 
-Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilitiessustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
+Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
 
@@ -864,7 +888,7 @@ Pub. L. 102–172, title VIII, §8116, Nov. 26, 1991, 105 Stat. 1203.
 
 #### Definitions for Purposes of Pub. L. 102–25
 
-Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–190, div. A, title XII, §1203(a), Dec. 5, 1991, 105 Stat. 1508, provided that: “For the purposes of this Act \[see Short Title of 1991 Amendment note above\]:
+Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–190, div. A, title XII, §1203(a), Dec. 5,1991, 105 Stat. 1508, provided that: “For the purposes of this Act \[see Short Title of 1991 Amendment note above\]:
 
 &emsp;“(1) The term ‘Operation Desert Storm’ means operations of United States Armed Forces conducted as a consequence of the invasion of Kuwait by Iraq (including operations known as Operation Desert Shield, Operation Desert Storm, and Operation Provide Comfort).
 

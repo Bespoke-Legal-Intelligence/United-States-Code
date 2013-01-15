@@ -199,7 +199,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (ii) Secretarial authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinarycourse of a trade or business in which the payor is predominantly engaged.
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged.
 
 #### (C) Related foreign person
 
@@ -277,7 +277,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (iii) Secretarial authority to suspend application
 
-&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued inperiods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
+&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued in periods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
 
 #### (G) Cross reference
 
@@ -313,7 +313,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) shall not apply to any obligation if—
 
-&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and
+&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulationsto be used frequently in avoiding Federal taxes, and
 
 &emsp;&emsp;&emsp;(ii) such obligation is issued after the date on which the regulations referred to in clause (i) take effect.
 
@@ -439,7 +439,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to amounts—
 
-&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2011, or
+&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2013, or
 
 &emsp;&emsp;&emsp;&emsp;(II) properly allocable to any period after such date.
 
@@ -471,7 +471,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (B) Special rule for cooperative housing corporations
 
-&emsp;&emsp;Any indebtedness secured by stock held by the taxpayer as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treatedas secured by the house or apartment which the taxpayer is entitled to occupy as such a tenant-stockholder. If stock described in the preceding sentence may not be used to secure indebtedness, indebtedness shall be treated as so secured if the taxpayer establishes to the satisfaction of the Secretary that such indebtedness was incurred to acquire such stock.
+&emsp;&emsp;Any indebtedness secured by stock held by the taxpayer as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by the house or apartment which the taxpayer is entitled to occupy as such a tenant-stockholder. If stock described in the preceding sentence may not be used to secure indebtedness, indebtedness shall be treated as so secured if the taxpayer establishes to the satisfaction of the Secretary that such indebtedness was incurred to acquire such stock.
 
 #### (C) Unenforceable security interests
 
@@ -485,7 +485,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;The term “qualified mortgage insurance” means—
 
-&emsp;&emsp;&emsp;(i) mortgage insurance provided by the Veterans Administration, the Federal Housing Administration, or the Rural Housing Administration, and
+&emsp;&emsp;&emsp;(i) mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
 
 &emsp;&emsp;&emsp;(ii) private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901), as in effect on the date of the enactment of this subparagraph).
 
@@ -539,7 +539,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (4) Debt instrument
 
-&emsp;For purposes of this subsection, the term “debt instrument” means any instrumentwhich is a debt instrument as defined in section 1275(a).
+&emsp;For purposes of this subsection, the term “debt instrument” means any instrument which is a debt instrument as defined in section 1275(a).
 
 #### (5) Regulations
 
@@ -559,7 +559,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (B) Disallowed amount carried to succeeding taxable year
 
-&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
+&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued inthe succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
 
 #### (2) Corporations to which subsection applies
 
@@ -615,7 +615,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;(ii) no gross basis tax is imposed by this subtitle with respect to such interest, and
 
-&emsp;&emsp;(C) any interest paid or accrued (directly or indirectly) by a taxable REIT subsidiary (as defined in section 856(<i>l</i>)) of a real estate investment trust to such trust.
+&emsp;&emsp;(C) any interest paid or accrued (directly or indirectly) by a taxable REIT subsidiary (as defined in section 856(l)) of a real estate investment trust to such trust.
 
 #### (4) Related person
 
@@ -623,7 +623,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -747,7 +747,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 No deduction shall be allowed under this section for any interest payable under section 6601 on any unpaid portion of the tax imposed by section 2001 for the period during which an extension of time for payment of such tax is in effect under section 6166.
 
-#### (<i>l</i>) Disallowance of deduction on certain debt instruments of corporations
+#### (l) Disallowance of deduction on certain debt instruments of corporations
 
 #### (1) In general
 
@@ -801,11 +801,7 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1),Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323.)
 
 #### References in Text
 
@@ -815,9 +811,13 @@ Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6
 
 #### Amendments
 
+<b>2013</b>—Subsec. (h)(3)(E)(iv)(I). Pub. L. 112–240, §204(a), substituted “December 31, 2013” for “December 31, 2011”.
+
+Subsec. (h)(4)(E)(i). Pub. L. 112–240, §204(b), substituted “Department of Veterans Affairs” for “Veterans Administration” and “Rural Housing Service” for “Rural Housing Administration”.
+
 <b>2010</b>—Subsec. (f)(2)(A)(ii) to (iv). Pub. L. 111–147, §502(a)(2)(B), inserted “or” at end of cl. (ii), substituted period for “, or” in cl. (iii), and struck out cl. (iv), which read as follows: “is described in subparagraph (B).”
 
-Subsec. (f)(2)(B). Pub. L. 111–147, §502(a)(1), (2)(C)(i), redesignated subpar. (C) as (B), struck out “, and subparagraph (B),” after “subparagraph (A)” in introductory provisions, and struck out former subpar. (B) which related to certain obligations not included as registration-required obligations..
+Subsec. (f)(2)(B). Pub. L. 111–147, §502(a)(1), (2)(C)(i), redesignated subpar. (C) as (B), struck out “, and subparagraph (B),” after “subparagraph (A)” in introductory provisions, and struck out former subpar. (B) which related to certain obligations not included as registration-required obligations.
 
 Subsec. (f)(2)(B)(i). Pub. L. 111–147, §502(a)(2)(C)(ii), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of—
 
@@ -849,33 +849,33 @@ Subsec. (j)(9). Pub. L. 109–222 redesignated par. (8) as (9) and added subpar.
 
 <b>2004</b>—Subsec. (e)(3)(B), (C). Pub. L. 108–357, §841(a), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (<i>l</i>)(2). Pub. L. 108–357, §845(a), inserted “or equity held by the issuer (or any related party) in any other person” after “or a related party”.
+Subsec. (l)(2). Pub. L. 108–357, §845(a), inserted “or equity held by the issuer (or any related party) in any other person” after “or a related party”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 108–357, §845(d), substituted “or any other person” for “or a related party” in introductory provisions.
+Subsec. (l)(3). Pub. L. 108–357, §845(d), substituted “or any other person” for “or a related party” in introductory provisions.
 
-Subsec. (<i>l</i>)(4) to (7). Pub. L. 108–357, §845(b), (c), added pars. (4) and (5) and redesignated former pars. (4) and (5) as (6) and (7), respectively.
+Subsec. (l)(4) to (7). Pub. L. 108–357, §845(b), (c), added pars. (4) and (5) and redesignated former pars. (4) and (5) as (6) and (7), respectively.
 
 Subsecs. (m), (n). Pub. L. 108–357, §838(a), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-<b>2003</b>—Subsec. (d)(4)(B). Pub. L. 108–27, §§302(b), 303, temporarily inserted at end “Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (d)(4)(B). Pub. L. 108–27 inserted at end “Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.”
 
 <b>1999</b>—Subsec. (j)(3)(C). Pub. L. 106–170 added subpar. (C).
 
 <b>1998</b>—Subsec. (h)(2)(F). Pub. L. 105–277 added subpar. (F).
 
-<b>1997</b>—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effectbefore its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
+<b>1997</b>—Subsec. (h)(2)(E). Pub. L. 105–34, §503(b)(2)(B), struck out “or 6166 or under section 6166A (as in effect before its repeal by the Economic Recovery Tax Act of 1981)” after “section 6163”.
 
 Subsec. (h)(4)(A)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
 Subsec. (j)(2)(B)(iii). Pub. L. 105–34, §1604(g)(1), substituted “clause (ii)” for “clause (i)” in introductory provisions.
 
-Subsec. (k). Pub. L. 105–34, §503(b)(2)(A), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 105–34, §503(b)(2)(A), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 105–34, §1005(a), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 105–34, §1005(a), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Pub. L. 105–34, §503(b)(2)(A), redesignated subsec. (k) as (<i>l</i>).
+Pub. L. 105–34, §503(b)(2)(A), redesignated subsec. (k) as (l).
 
-Subsec. (m). Pub. L. 105–34, §1005(a), redesignated subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 105–34, §1005(a), redesignated subsec. (l) as (m).
 
 <b>1996</b>—Subsec. (j)(1)(B). Pub. L. 104–188, §1704(f)(2)(A), inserted before period at end “(and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated)”.
 
@@ -895,7 +895,7 @@ Subsec. (j)(3). Pub. L. 103–66, §13228(a), amended heading and text of par. (
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the term ‘disqualified interest’ means any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
+In general.—Except as provided in subparagraph (B), the term ‘disqualified interest’ means any interest paid or accrued by the taxpayer (directly orindirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
 
 &emsp;“(B)
 
@@ -963,7 +963,7 @@ Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if e
 
 Subsec. (h)(4)(B). Pub. L. 100–647, §1005(c)(6)(B)(ii), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (B) by substituting “Any” for “For purposes of this paragraph, any”.
 
-Subsec. (h)(4)(C), (D). Pub. L. 100–647, §1005(c)(8), effective as if enacted immediately before enactment ofPub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), par. (4) added subpars. (C) and (D).
+Subsec. (h)(4)(C), (D). Pub. L. 100–647, §1005(c)(8), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), par. (4) added subpars. (C) and (D).
 
 Subsec. (h)(5). Pub. L. 100–647, §2004(b)(1), redesignated par. (6) as (5).
 
@@ -973,7 +973,7 @@ Pub. L. 100–647, §1005(c)(9), substituted “but for this paragraph” for �
 
 Subsec. (i)(2). Pub. L. 100–647, §1009(b)(6), made technical correction to directory language of Pub. L. 99–514, §902(e)(1), see 1986 Amendment note below.
 
-<b>1987</b>—Subsec. (d)(4)(E). Pub. L. 100–203, §10212(b), substituted “section 469(m)” for “section 469(<i>l</i>)”.
+<b>1987</b>—Subsec. (d)(4)(E). Pub. L. 100–203, §10212(b), substituted “section 469(m)” for “section 469(l)”.
 
 Subsec. (h)(3). Pub. L. 100–203, §10102(a), amended par. (3) generally. Prior to amendment (see 1988 Amendment note above), par. (3) read as follows: “For purposes of this subsection—
 
@@ -1099,6 +1099,14 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 <b>1963</b>—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
+#### Change of Name
+
+The Veterans’ Administration was redesignated the Department of Veterans Affairs by Pub. L. 100–527 which also provided that references to the Veterans’ Administration were deemed to refer to the Department of Veterans Affairs. See sections 2 and 10 of Pub. L. 100–527, set out in a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title II, §204(c), Jan. 2, 2013, 126 Stat. 2323, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2011.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §759(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2010.”
@@ -1139,11 +1147,9 @@ Pub. L. 108–357, title VIII, §841(c), Oct. 22, 2004, 118 Stat. 1598, provided
 
 Pub. L. 108–357, title VIII, §845(e), Oct. 22, 2004, 118 Stat. 1601, provided that: “The amendments made by this section \[amending this section\] shall apply to debt instruments issued after October 3, 2004.”
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -1151,13 +1157,13 @@ Amendment by Pub. L. 106–170 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, withcertain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 503(d) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title V, §503(d), Aug. 5, 1997, 111 Stat. 853, provided that:
 
 “(1)
 
@@ -1167,7 +1173,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Election.—In the case of the estate of any decedent dying before January 1, 1998, with respect to which there is an election under section 6166 of the Internal Revenue Code of 1986, the executor of the estate may elect to have the amendments made by this section apply with respect to installments due after the effective date of the election; except that the 2-percent portion of such installments shall be equal to the amount which would be the 4-percent portion of such installments without regard to such election. Such an election shall be made before January 1, 1999 in the manner prescribed by the Secretary of the Treasury and, once made, is irrevocable.”
 
-Section 1005(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1005(b), Aug. 5, 1997, 111 Stat. 912, provided that:
 
 “(1)
 
@@ -1185,15 +1191,15 @@ Transition rule.—The amendment made by this section shall not apply to any ins
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1703(n)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(n)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-Section 1704(f)(2)(C) of Pub. L. 104–188 provided that: “The amendments made by this paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Pub. L. 104–188, title I, §1704(f)(2)(C), Aug. 20, 1996, 110 Stat. 1879, provided that: “The amendments made by this paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13206(d)(1) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13206(d)(3) of Pub. L. 103–66 set out as a note under section 1 of this title.
 
-Section 13228(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to interest paid or accrued in taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13228(d), Aug. 10, 1993, 107 Stat. 495, provided that: “The amendments made by this section \[amending this section\] shall apply to interest paid or accrued in taxable years beginning after December 31, 1993.”
 
 #### Effective Date of 1990 Amendment
 
@@ -1201,7 +1207,7 @@ Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1989 Amendment
 
-Section 7202(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7202(c), Dec. 19, 1989, 103 Stat. 2332, provided that:
 
 “(1)
 
@@ -1247,7 +1253,7 @@ Exceptions.—
 
 &emsp;“(D) The amendments made by this section shall not apply to instruments issued after July 10, 1989, pursuant to a reorganization plan in a title 11 or similar case (as defined in section 368(a)(3) of the Internal Revenue Code of 1986) if the amount of proceeds of such instruments, and the maturities of such instruments, do not exceed the amount or maturities specified in the last reorganization plan filed in such case on or before July 10, 1989.”
 
-Section 7210(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7210(b), Dec. 19, 1989, 103 Stat. 2342, provided that:
 
 “(1)
 
@@ -1259,21 +1265,21 @@ Special rule for demand loans, etc.—In the case of any demand loan (or other l
 
 #### Effective Date of 1988 Amendment
 
-Section 1005(c)(13) of Pub. L. 100–647 provided that: “For purposes of applying the amendments made by this subsection \[amending this section and sections 467, 1255, and 7872 of this title\] and the amendments made by section 10102 of the Revenue Act of 1987 \[section 10102 of Pub. L. 100–203, amending this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987.”
+Pub. L. 100–647, title I, §1005(c)(13), Nov. 10, 1988, 102 Stat. 3392, provided that: “For purposes of applying the amendments made by this subsection \[amending this section and sections 467, 1255, and 7872 of this title\] and the amendments made by section 10102 of the Revenue Act of 1987 \[section 10102 of Pub. L. 100–203, amending this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987.”
 
-Amendment by sections 1006(u)(1) and 1009(b)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Actof 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1006(u)(1) and 1009(b)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(b)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 10102(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10102(c), Dec. 22, 1987, 101 Stat. 1330–386, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 Amendment by section 10212(b) of Pub. L. 100–203 effective as if included in the amendments made by section 501 of the Tax Reform Act of 1986, Pub. L. 99–514, see section 10212(c) of Pub. L. 100–203, set out as a note under section 58 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 511(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 467, 703, 1255, 1363, and 7872 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title V, §511(e), Oct. 22, 1986, 100 Stat. 2249, provided that: “The amendments made by this section \[amending this section and sections 467, 703, 1255, 1363, and 7872 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 902(e)(1) of Pub. L. 99–514 applicable to taxable years ending after Dec. 31, 1986, with certain exceptions and qualifications, see section 902(f) of Pub. L. 99–514, set out as a note under section 265 of this title.
 
@@ -1285,7 +1291,7 @@ Amendment by sections 1803(a)(4) and 1810(e)(1) of Pub. L. 99–514 effective, e
 
 Amendment by section 42(a)(3) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Section 56(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 263 and 265 of this title\] shall apply to short sales after the date of enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §56(d), July 18, 1984, 98 Stat. 574, provided that: “The amendments made by this section \[amending this section and sections 263 and 265 of this title\] shall apply to short sales after the date of enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 Amendment by section 127(f) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
@@ -1293,7 +1299,7 @@ Amendment by section 128(c) of Pub. L. 98–369 applicable to obligations issued
 
 Amendment by section 612(c) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
@@ -1303,7 +1309,7 @@ Amendment by Pub. L. 97–248 applicable to obligations issued after Dec. 31, 19
 
 Amendment by section 205(c)(3) of Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section 205(e) of Pub. L. 94–455, set out as an Effective Date note under section 1254 of this title.
 
-Section 209(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title II, §209(b), Oct. 4, 1976, 90 Stat. 1543, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1323,15 +1329,15 @@ Amendment by section 1901(b)(8)(C), (3)(K) of Pub. L. 94–455 applicable with r
 
 #### Effective Date of 1971 Amendment
 
-Section 304(e) of Pub. L. 92–178 provided that: “The amendments made by this section to section 57 of the Internal Revenue Code of 1954 shall apply to taxable years beginning after December 31, 1969. The amendments made by this section to section 163 of such Code shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 92–178, title III, §304(e), Dec. 10, 1971, 85 Stat. 524, provided that: “The amendments made by this section to section 57 of the Internal Revenue Code of 1954 shall apply to taxable years beginning after December 31, 1969. The amendments made by this section to section 163 of such Code shall apply to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1969 Amendment
 
-Section 221(b) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 91–172, title II, §221(b), Dec. 30, 1969, 83 Stat. 576, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1964 Amendment
 
-Section 224(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting section 483 of this title\] and (b) \[amending the analysis preceding section 481 of this title\] shall apply to payments made after December 31, 1963, on account of sales or exchanges of property occurring after June 30, 1963, other than any sale or exchange made pursuant to a binding written contract (including an irrevocable written option) entered into before July 1, 1963. The amendments made by subsection (c) \[amending this section\] shall apply to payments made during taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §224(d), Feb. 26, 1964, 78 Stat. 79, provided that: “The amendments made by subsections (a) \[enacting section 483 of this title\] and (b) \[amending the analysis preceding section 481 of this title\] shall apply to payments made after December 31, 1963, on account of sales or exchanges of property occurring after June 30, 1963, other than any sale or exchange made pursuant to a binding written contract (including an irrevocable written option) entered into before July 1, 1963. The amendments made by subsection (c) \[amending this section\] shall apply to payments made during taxable years beginning after December 31, 1963.”
 
 #### Effective Date of 1963 Amendment
 
@@ -1339,7 +1345,7 @@ Subsec. (c) effective as of Jan. 1, 1962, and applicable with respect to taxable
 
 #### Application of Subsection (h) to Taxable Years Beginning in 1987
 
-Section 1005(c)(14) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1005(c)(14), Nov. 10, 1988, 102 Stat. 3392, provided that:
 
 “(A) For purposes of applying section 163(h) of the 1986 Code to any taxable year beginning during 1987, if, incident to a divorce or legal separation—
 
@@ -1357,11 +1363,11 @@ Section 1005(c)(14) of Pub. L. 100–647 provided that:
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Treatment of Certain Income From S Corporations
 
-Section 1066 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1066, July 18, 1984, 98 Stat. 1048, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 

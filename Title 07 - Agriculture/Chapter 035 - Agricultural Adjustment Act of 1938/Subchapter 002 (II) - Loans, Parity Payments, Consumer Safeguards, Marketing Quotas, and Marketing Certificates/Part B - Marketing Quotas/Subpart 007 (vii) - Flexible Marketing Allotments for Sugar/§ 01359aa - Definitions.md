@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Human consumption
 
-&emsp;The term “human consumption”, when used in the context of a reference to sugar (whetherin the form of sugar, in-process sugar, syrup, molasses, or in some other form) for human consumption, includes sugar for use in human food, beverages, or similar products.
+&emsp;The term “human consumption”, when used in the context of a reference to sugar (whether in the form of sugar, in-process sugar, syrup, molasses, or in some other form) for human consumption, includes sugar for use in human food, beverages, or similar products.
 
 #### (2) Mainland State
 
@@ -52,7 +52,7 @@ In this subpart:
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

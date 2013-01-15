@@ -126,7 +126,7 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 &emsp;“(2) 4 of whom must be educated and experienced in the principles of fish and wildlife management.
 
-> The membership of the Board, to the extent practicable, shall represent diverse points of view relatingto fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.”
+> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.”
 
 Subsec. (b). Pub. L. 106–408, §203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
@@ -138,11 +138,11 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Pub. L. 103–232, title I, §103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 
-Section 103(c) of Pub. L. 103–232 provided that: “Of the Directors on the Board of Directors of the National Fish and Wildlife Foundation first appointed pursuant to the amendment made by subsection (b)(1) \[amending this section\], notwithstanding the second sentence of section 3(b) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3702(b))—
+Pub. L. 103–232, title I, §103(c), Apr. 11, 1994, 108 Stat. 336, provided that: “Of the Directors on the Board of Directors of the National Fish and Wildlife Foundation first appointed pursuant to the amendment made by subsection (b)(1) \[amending this section\], notwithstanding the second sentence of section 3(b) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3702(b))—
 
 &emsp;“(1) 2 shall be appointed to a term of 2 years;
 
@@ -154,9 +154,9 @@ Section 103(c) of Pub. L. 103–232 provided that: “Of the Directors on the Bo
 
 #### Completion of Appointments
 
-Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Pub. L. 103–232, title I, §103(d), Apr. 11, 1994, 108 Stat. 337, provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Authority of Board Not Affected
 
-Section 103(e) of Pub. L. 103–232 provided that: “The authority of the Board of Directors of the National Fish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) \[amending this section\].”
+Pub. L. 103–232, title I, §103(e), Apr. 11, 1994, 108 Stat. 337, provided that: “The authority of the Board of Directors of the National Fish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) \[amending this section\].”
 

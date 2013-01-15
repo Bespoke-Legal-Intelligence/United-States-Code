@@ -18,11 +18,11 @@
 
 #### Effective Date of 1987 Amendment
 
-Section 101(a) \[title IV, §408(d)\] of Pub. L. 100–202 provided that: “This section \[amending this section, section 634 of this title, and section 356 of Title 2, The Congress\] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment \[probably should read “such date”, meaning Oct. 1, 1988\].”
+Pub. L. 100–202, §101(a) \[title IV, §408(d)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27, provided that: “This section \[amending this section, section 634 of this title, and section 356 of Title 2, The Congress\] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment \[probably should read “such date”, meaning Oct. 1, 1988\].”
 
 #### Transition Provisions
 
-Section 1003(b) of Pub. L. 100–702 provided that:
+Pub. L. 100–702, title X, §1003(b), Nov. 19, 1988, 102 Stat. 4665, provided that:
 
 “(1) If an individual who is exempted from the Leave Act by operation of amendments under this section \[amending this section and sections 156, 631, 634, 712, 752, and 794 of this title\] and who was previously subject to the provisions of subchapter I of chapter 63 of title 5, United States Code, without a break in service, again becomes subject to this subchapter on completion of his service as an exempted officer, the unused annual leave and sick leave standing to his credit when he was exempted from this subchapter is deemed to have remained to his credit.
 
@@ -30,7 +30,7 @@ Section 1003(b) of Pub. L. 100–702 provided that:
 
 #### Continuation of Salaries of Bankruptcy Judges in Effect on June 27, 1984
 
-Section 105(a) of Pub. L. 98–353 provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
+Pub. L. 98–353, title I, §105(a), July 10, 1984, 98 Stat. 342, provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
 
 #### Part-Time Bankruptcy Judges
 
@@ -48,7 +48,7 @@ Salaries of bankruptcy judges increased to $70,500 effective on first day of fir
 
 <b>1984</b>—Salaries of bankruptcy judges (full-time) and bankruptcy judges (part-time) (maximum rate) increased to $66,100 and $33,100, respectively, effective on first day of first pay period beginning on or after Jan. 1, 1984, by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 
-<b>1982</b>—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $63,600 and $31,800, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, whichwas $58,500 for bankruptcy judges and referees in bankruptcy (full-time), and $30,600 for referees in bankruptcy (part-time) (maximum rate).
+<b>1982</b>—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $63,600 and $31,800, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500 for bankruptcy judges and referees in bankruptcy (full-time), and $30,600 for referees in bankruptcy (part-time) (maximum rate).
 
 Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $58,500 to $63,600, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
 

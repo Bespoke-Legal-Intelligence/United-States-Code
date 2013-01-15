@@ -26,9 +26,25 @@
 
 (g) Notwithstanding any other provision of law, the Secretary may at such time as the Secretary deems desirable, relinquish to the State in which any cemetery, monument, or memorial under the Secretary's jurisdiction is located, such portion of legislative jurisdiction over the lands involved as is necessary to establish concurrent jurisdiction between the Federal Government and the State concerned. Such partial relinquishment of jurisdiction under the authority of this subsection may be made by filing with the Governor of the State involved a notice of such relinquishment and shall take effect upon acceptance thereof by the State in such manner as its laws may prescribe.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(h)(1) With respect to the interment or funeral, memorial service, or ceremony of a deceased veteran at a national cemetery, the Secretary shall ensure that—
+
+&emsp;(A) the expressed wishes of the next of kin or other agent of the deceased veteran are respected and given appropriate deference when evaluating whether the proposed interment or funeral, memorial service, or ceremony affects the safety and security of the national cemetery and visitors to the cemetery;
+
+&emsp;(B) to the extent possible, all appropriate public areas of the cemetery, including committal shelters, chapels, and benches, may be used by the family of the deceased veteran for contemplation, prayer, mourning, or reflection; and
+
+&emsp;(C) during such interment or funeral, memorial service, or ceremony, the family of the deceased veteran may display any religious or other symbols chosen by the family.
+
+(2) Subject to regulations prescribed by the Secretary under paragraph (4), including such regulations ensuring the security of a national cemetery, the Secretary shall, to the maximum extent practicable, provide to any military or volunteer veterans honor guard, including such guards belonging to a veterans service organization or other nongovernmental group that provides services to veterans, access to public areas of a national cemetery if such access is requested by the next of kin or other agent of a deceased veteran whose interment or funeral, memorial service, or ceremony is being held in such cemetery.
+
+(3) With respect to the interment or funeral, memorial service, or ceremony of a deceased veteran at a national cemetery, the Secretary shall notify the next of kin or other agent of the deceased veteran of funeral honors available to the deceased veteran, including such honors provided by any military or volunteer veterans honor guard described in paragraph (2).
+
+(4) The Secretary shall prescribe regulations to carry out this subsection.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–260 added subsec. (h).
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1004 of this title as this section.
 
@@ -56,7 +72,7 @@ Subsecs. (e), (g). Pub. L. 99–576, §701(55)(B), (C), substituted “the Admin
 
 #### Transfer of Functions
 
-Section 6 of Pub. L. 93–43 provided that:
+Pub. L. 93–43, §6, June 18, 1973, 87 Stat. 81, provided that:
 
 “\[<i>Jurisdiction</i>\] (a)(1) There are hereby transferred from the Secretary of the Army to the Administrator of Veterans’ Affairs all jurisdiction over, and responsibility for, (A) all national cemeteries (except the cemetery at the United States Soldiers’ and Airmen's Home and Arlington National Cemetery), and (B) any other cemetery (including burial plots), memorial, or monument under the jurisdiction of the Secretary of the Army immediately preceding the effective date of this section \[see note hereunder\] (except the cemetery located at the United States Military Academy at West Point) which the President determines would be appropriate in carrying out the purposes of this Act \[see Tables for classification\].
 
@@ -73,6 +89,10 @@ Section 6 of Pub. L. 93–43 provided that:
 \[Section 6 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as an Effective Date note under section 2306 of this title.\]
 
 \[The United States Soldiers’ and Airmen's Home and the United States Naval Home were incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.\]
+
+#### Interim Implementation of 2013 Amendment
+
+Pub. L. 112–260, title I, §102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: “The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title \[38 U.S.C. 2404(h)\], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added.”
 
 #### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
 
@@ -108,7 +128,7 @@ Matters Studied.—(1) The study conducted pursuant to the contract entered into
 
 “(c)
 
-Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shallsubmit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
+Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
 
 “(2) Not later than 120 days after the date on which a report is submitted under paragraph (1), the Secretary shall transmit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a copy of the report, together with any comments on the report that the Secretary considers appropriate.”
 
@@ -116,9 +136,9 @@ Report.—(1) Not later than one year after the date on which a qualified organi
 
 Pub. L. 103–446, title VIII, §804, Nov. 2, 1994, 108 Stat. 4675, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary of Veterans Affairs may provide for flat grave markers at the Willamette National Cemetery, Oregon.”
 
-Section 11 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988.”
+Pub. L. 102–54, §11, June 13, 1991, 105 Stat. 273, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988.”
 
-Section 341(b) of Pub. L. 100–322, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Administrator may provide for flat grave markers in the cases of the national cemeteries in Riverside, California; Bourne, Massachusetts; Augusta, Michigan; and Indiantown Gap, Pennsylvania; and the proposed national cemetery approved by the Administrator, as of July 31, 1987, for Northern California.”
+Pub. L. 100–322, title III, §341(b), May 20, 1988, 102 Stat. 539, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Administrator may provide for flat grave markers in the cases of the national cemeteries in Riverside, California; Bourne, Massachusetts; Augusta, Michigan; and Indiantown Gap, Pennsylvania; and the proposed national cemetery approved by the Administrator, as of July 31, 1987, for Northern California.”
 
 #### Functions, Powers, and Duties of Secretaries Unaffected
 
@@ -126,5 +146,5 @@ Repeal of sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of T
 
 #### Studies; Recommendations to Congress
 
-Section 3 of Pub. L. 93–43 authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
+Pub. L. 93–43, §3, June 18, 1973, 87 Stat. 78, authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
 

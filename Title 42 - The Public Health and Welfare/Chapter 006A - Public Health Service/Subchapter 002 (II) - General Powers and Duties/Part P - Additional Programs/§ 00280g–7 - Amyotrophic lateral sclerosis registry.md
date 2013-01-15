@@ -102,7 +102,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;&emsp;(vii) any other existing or relevant databases that collect or maintain information on those motor neuron diseases recommended by the Advisory Committee established in subsection (b); and
 
-&emsp;&emsp;(B) provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protects personal privacy consistent with applicable privacy statutes and regulations.
+&emsp;&emsp;(B) provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protectspersonal privacy consistent with applicable privacy statutes and regulations.
 
 &emsp;&emsp;(C)
 

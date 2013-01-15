@@ -38,7 +38,7 @@
 
 #### (A) Competitively biddable drugs and biologicals defined
 
-&emsp;&emsp;The term “competitively biddable drugs and biologicals” means a drug or biological described in section 1395u(<i>o</i>)(1)(C) of this title and furnished on or after January 1, 2006.
+&emsp;&emsp;The term “competitively biddable drugs and biologicals” means a drug or biological described in section 1395u(o)(1)(C) of this title and furnished on or after January 1, 2006.
 
 #### (B) Program
 
@@ -284,7 +284,7 @@
 
 #### (2) Deductible
 
-&emsp;Before applying paragraph (1), the individual shall be required to meet the deductible described in section 1395<i>l</i>(b) of this title.
+&emsp;Before applying paragraph (1), the individual shall be required to meet the deductible described in section 1395l(b) of this title.
 
 #### (3) Collection
 
@@ -298,7 +298,7 @@
 
 #### (2) Application of requirement for assignment
 
-&emsp;For provision requiring assignment of claims for competitively biddable drugs and biologicals, see section 1395u(<i>o</i>)(3) of this title.
+&emsp;For provision requiring assignment of claims for competitively biddable drugs and biologicals, see section 1395u(o)(3) of this title.
 
 #### (3) Protection for beneficiary in case of medical necessity denial
 
@@ -306,7 +306,7 @@
 
 #### (g) Judicial review
 
-There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
 &emsp;(1) the establishment of payment amounts under subsection (d)(1) of this section;
 

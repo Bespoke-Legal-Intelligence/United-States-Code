@@ -136,7 +136,7 @@ Subsec. (a)(2)(B). Pub. L. 107–171, §6009(2)(B)(ii), substituted “decline, 
 
 Subsec. (c)(2). Pub. L. 107–171, §6009(3), substituted “occurred, or will occur,” for “occurred”.
 
-Subsec. (d)(1). Pub. L. 107–171, §6009(4), added par. (1) and struck out heading and text of former par. (1). Textread as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
+Subsec. (d)(1). Pub. L. 107–171, §6009(4), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
 
 Subsec. (f)(2). Pub. L. 107–171, §6009(5), substituted “$150,000” for “$75,000”.
 
@@ -158,7 +158,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Implementation
 
-Section 501(b) of Pub. L. 101–82 provided that:
+Pub. L. 101–82, title V, §501(b), Aug. 14, 1989, 103 Stat. 585, provided that:
 
 “(1)
 

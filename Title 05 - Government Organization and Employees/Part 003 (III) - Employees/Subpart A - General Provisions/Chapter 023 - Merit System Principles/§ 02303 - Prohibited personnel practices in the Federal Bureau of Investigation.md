@@ -8,9 +8,9 @@
 
 > For the purpose of this subsection, “personnel action” means any action described in clauses (i) through (x) of section 2302(a)(2)(A) of this title with respect to an employee in, or applicant for, a position in the Bureau (other than a position of a confidential, policy-determining, policymaking, or policy-advocating character).
 
-(b) The Attorney General shall prescribe regulations to ensure that such a personnel actionshall not be taken against an employee of the Bureau as a reprisal for any disclosure of information described in subsection (a) of this section.
+(b) The Attorney General shall prescribe regulations to ensure that such a personnel action shall not be taken against an employee of the Bureau as a reprisal for any disclosure of information described in subsection (a) of this section.
 
-(c) The President shall provide for the enforcement of this section in a manner consistent with applicable provisions of sections 1214 and 1221 of this title.
+(c) The President shall provide for the enforcement of this section in a manner consistent withapplicable provisions of sections 1214 and 1221 of this title.
 
 (Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1117; amended Pub. L. 101–12, §9(a)(1), Apr. 10, 1989, 103 Stat. 34.)
 

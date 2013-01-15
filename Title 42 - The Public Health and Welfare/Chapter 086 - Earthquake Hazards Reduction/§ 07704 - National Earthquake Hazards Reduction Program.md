@@ -152,7 +152,7 @@
 
 #### (C) Non-Federal cost sharing
 
-&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant fromthe Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
+&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
 
 &emsp;&emsp;(ii) In the case of any State which has not received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
 
@@ -200,7 +200,7 @@
 
 &emsp;The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response to earthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
 
-&emsp;&emsp;(A) encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used byappropriate organizations to mitigate earthquake damage;
+&emsp;&emsp;(A) encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used by appropriate organizations to mitigate earthquake damage;
 
 &emsp;&emsp;(B) in addition to supporting individual investigators, support university research consortia and centers for research in geosciences and in earthquake engineering;
 
@@ -256,13 +256,13 @@ Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in s
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
 
-Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director ofthe Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
+Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
 
 Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;”.
 
 Subsec. (b)(1)(C). Pub. L. 108–360, §103(2)(A)(ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;”.
 
-Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted “Federal Emergency Management Agency, the National Science Foundation” for “National Science Foundation, the National Institute of Standards and Technology”. Former subpar. (D) redesignated (C).
+Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted “Federal Emergency Management Agency, the National Science Foundation” for “National ScienceFoundation, the National Institute of Standards and Technology”. Former subpar. (D) redesignated (C).
 
 Subsec. (b)(2). Pub. L. 108–360, §103(2)(B), inserted heading, struck out former heading “Federal Emergency Management Agency”, added subpar. (A), and struck out heading and text of former subpar. (A) which related to earthquake program responsibilities of the Director of the Federal Emergency Management Agency.
 
@@ -320,7 +320,7 @@ Subsec. (d). Pub. L. 96–472, §101(c), substituted “(1)(A)” for “(3)(B)�
 
 Subsec. (e)(6). Pub. L. 96–472, §101(d), substituted “potential” for “political”.
 
-Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees ofCongress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
+Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
 
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
 
@@ -346,7 +346,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
-Section 2 of Pub. L. 105–47, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305; Pub. L. 107–110, title X, §1076(cc), Jan. 8, 2002, 115 Stat. 2093, provided that:
+Pub. L. 105–47, §2, Oct. 1, 1997, 111 Stat. 1160, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305; Pub. L. 107–110, title X, §1076(cc), Jan. 8, 2002, 115 Stat. 2093, provided that:
 
 “(a)
 
@@ -452,7 +452,7 @@ School.—The term ‘school’ means a nonprofit institutional day or residenti
 
 &emsp;“(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) todevelop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 “(d)
 
@@ -498,7 +498,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Oct.
 
 #### Studies on Economic Impact of Catastrophic Earthquakes and Improving Earthquake Mitigation
 
-Section 14 of Pub. L. 101–614 directed Director of Federal Emergency Management Agency to submit two reports to Congress within 12 months after Nov. 16, 1990, one report outlining results of a study on impact and repercussions of a catastrophic earthquake on local, regional, and national economies, and the other report outlining results of a study on adequacy of preparation and response capabilities for reducing and recovering from losses caused by a catastrophic earthquake.
+Pub. L. 101–614, §14, Nov. 16, 1990, 104 Stat. 3242, directed Director of Federal Emergency Management Agency to submit two reports to Congress within 12 months after Nov. 16, 1990, one report outlining results of a study on impact and repercussions of a catastrophic earthquake on local, regional, and national economies, and the other report outlining results of a study on adequacy of preparation and response capabilities for reducing and recovering from losses caused by a catastrophic earthquake.
 
 #### Earthquake Engineering Research
 
@@ -518,11 +518,11 @@ Each Federal agency responsible for the design and construction of each new Fede
 
 Sec. 2. Federally Leased, Assisted, or Regulated Buildings.
 
-The purposes of these requirements are to reduce risks to the lives of occupants of buildings leased for Federal uses or purchased or constructed with Federalassistance, to reduce risks to the lives of persons who would be affected by earthquake failures of federally assisted or regulated buildings, and to protect public investments, all in a cost-effective manner. The provisions of this order shall apply to all the new construction activities specified in the subsections below.
+The purposes of these requirements are to reduce risks to the lives of occupants of buildings leased for Federal uses or purchased or constructed with Federal assistance, to reduce risks to the lives of persons who would be affected by earthquake failures of federally assisted or regulated buildings, and to protect public investments, all in a cost-effective manner. The provisions of this order shall apply to all the new construction activities specified in the subsections below.
 
 (a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
 
-(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
+(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order,measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
 (c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 

@@ -50,7 +50,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section 19 of Pub. L. 91–138 provided that: “The provisions of, and the repeals made by, this Act \[enacting this chapter and repealing sections 201 to 226 of this title\] shall apply with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after the date of enactment of this Act \[Dec. 5, 1969\].”
+Pub. L. 91–138, §19, Dec. 5, 1969, 83 Stat. 291, provided that: “The provisions of, and the repeals made by, this Act \[enacting this chapter and repealing sections 201 to 226 of this title\] shall apply with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after the date of enactment of this Act \[Dec. 5, 1969\].”
 
 #### Short Title
 

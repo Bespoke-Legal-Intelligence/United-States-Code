@@ -16,7 +16,7 @@ Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any e
 
 #### Short Title
 
-Section 106 of title I of act Oct. 27, 1949, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Unitary Wind Tunnel Plan Act of 1949’.”
+Act Oct. 27, 1949, ch. 766, title I, §106, 63 Stat. 937, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Unitary Wind Tunnel Plan Act of 1949’.”
 
-Section 205 of title II of act Oct. 27, 1949, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Air Engineering Development Center Act of 1949’.”
+Act Oct. 27, 1949, ch. 766, title II, §205, 63 Stat. 938, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Air Engineering Development Center Act of 1949’.”
 

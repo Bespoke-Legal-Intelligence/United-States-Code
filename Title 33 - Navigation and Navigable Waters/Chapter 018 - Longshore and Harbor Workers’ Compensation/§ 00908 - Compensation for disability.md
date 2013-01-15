@@ -56,7 +56,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(19) Partial loss or partial loss of use: Compensation for permanent partial loss or loss of use of a member may be for proportionate loss or loss of use of the member.
 
-&emsp;(20) Disfigurement: Proper and equitable compensation not to exceed $7,500 shall be awarded for serious disfigurement of the face, head, or neck or of other normally exposed areas likely to handicap the employee in securing or maintaining employment.
+&emsp;(20) Disfigurement: Proper and equitable compensation not to exceed $7,500 shall be awarded for serious disfigurement of the face,head, or neck or of other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
 &emsp;(21) Other cases: In all other cases in the class of disability, the compensation shall be 662/3 per centum of the difference between the average weekly wages of the employee and the employee's wage-earning capacity thereafter in the same employment or otherwise, payable during the continuance of partial disability.
 
@@ -96,7 +96,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (h) The wage-earning capacity of an injured employee in cases of partial disability under subsection (c)(21) of this section or under subsection (e) of this section shall be determined by his actual earnings if such actual earnings fairly and reasonably represent his wage-earning capacity: <i>Provided, however</i>, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future.
 
-(i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty daysunless it is found to be inadequate or procured by duress. Such settlement may include future medical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
+(i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty days unless it is found to be inadequate or procured by duress. Such settlement may include future medical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
 
 (2) If the deputy commissioner disapproves an application for settlement under paragraph (1), the deputy commissioner shall issue a written statement within thirty days containing the reasons for disapproval. Any party to the settlement may request a hearing before an administrative law judge in the manner prescribed by this chapter. Following such hearing, the administrative law judge shall enter an order approving or rejecting the settlement.
 
@@ -124,7 +124,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 Subsec. (c)(20). Pub. L. 98–426, §8(b), substituted “$7,500” for “$3,500”.
 
-Subsec. (c)(21). Pub. L. 98–426, §8(c)(1), substituted “the average weekly wages of the employee and the employee's” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
+Subsec. (c)(21). Pub. L. 98–426, §8(c)(1), substituted “the average weekly wages of the employee and theemployee's” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
 
 Subsec. (c)(23). Pub. L. 98–426, §8(c)(2), added par. (23).
 

@@ -4,5 +4,5 @@ Section, acts Aug. 13, 1946, ch. 957, title VIII, §852, 60 Stat. 1023; Apr. 5, 
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1976, see section 524(a) of Pub. L. 94–350.
+Repeal effective Oct. 1, 1976, see Pub. L. 94–350, title V, §524(a), July 12, 1976, 90 Stat. 848.
 

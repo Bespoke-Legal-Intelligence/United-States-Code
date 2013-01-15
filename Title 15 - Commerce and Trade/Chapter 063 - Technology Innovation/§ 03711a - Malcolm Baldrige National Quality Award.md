@@ -86,7 +86,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;“(1) the leadership of the United States in product and process quality has been challenged strongly (and sometimes successfully) by foreign competition, and our Nation's productivity growth has improved less than our competitors over the last two decades;
 
-&emsp;“(2) American business and industry are beginning to understand that poor quality costs companies as much as 20 percent of sales revenues nationally, and that improved quality of goods and services goeshand in hand with improved productivity, lower costs, and increased profitability;
+&emsp;“(2) American business and industry are beginning to understand that poor quality costs companies as much as 20 percent of sales revenues nationally, and that improved quality of goods and services goes hand in hand with improved productivity, lower costs, and increased profitability;
 
 &emsp;“(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
@@ -110,5 +110,5 @@ Findings.—The Congress finds and declares that—
 
 “(b)
 
-Purpose.—It is the purpose of this Act \[enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
+Purpose.—It is the purpose of this Act \[enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practiceeffective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
 

@@ -12,7 +12,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 > &emsp;and is not primarily for the care and treatment of mental diseases;
 
-&emsp;(2) has in effect a transfer agreement (meeting the requirements of section 1395x(<i>l</i>) of this title) with one or more hospitals having agreements in effect under section 1395cc of this title; and
+&emsp;(2) has in effect a transfer agreement (meeting the requirements of section 1395x(l) of this title) with one or more hospitals having agreements in effect under section 1395cc of this title; and
 
 &emsp;(3) meets the requirements for a skilled nursing facility described in subsections (b), (c), and (d) of this section.
 
@@ -152,7 +152,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
-&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on any basis other than as a permanent employee any individual as a nurse aide in the facility on or after January 1, 1991, unless the individual meets the requirements described in clause (i).
+&emsp;&emsp;(ii) A skilled nursing facility must not use on a temporary, per diem, leased, or on any basis other than as a permanent employee any individual as a nurse aide in the facilityon or after January 1, 1991, unless the individual meets the requirements described in clause (i).
 
 #### (B) Offering competency evaluation programs for current employees
 
@@ -448,7 +448,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Skilled nursing facility administrator
 
-&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
+&emsp;&emsp;The administrator of a skilled nursing facility must meet standards established bythe Secretary under subsection (f)(4) of this section.
 
 #### (2) Licensing and Life Safety Code
 
@@ -476,7 +476,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) Compliance with Federal, State, and local laws and professional standards
 
-&emsp;&emsp;A skilled nursing facility must operate and provide services in compliance with allapplicable Federal, State, and local laws and regulations (including the requirements of section 1320a–3 of this title) and with accepted professional standards and principles which apply to professionals providing services in such a facility.
+&emsp;&emsp;A skilled nursing facility must operate and provide services in compliance with all applicable Federal, State, and local laws and regulations (including the requirements of section 1320a–3 of this title) and with accepted professional standards and principles which apply to professionals providing services in such a facility.
 
 #### (B) Other
 
@@ -512,7 +512,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3) of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
+&emsp;The State, for transfers and discharges from skilled nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism for hearing appeals on transfers and discharges of residents of such facilities. Such mechanism must meet the guidelines established by the Secretary under subsection (f)(3)of this section; but the failure of the Secretary to establish such guidelines shall not relieve any State of its responsibility to provide for such a fair mechanism.
 
 #### (4) Skilled nursing facility administrator standards
 
@@ -536,7 +536,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shallestablish, by not later than September 1, 1988—
+&emsp;&emsp;For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shall establish, by not later than September 1, 1988—
 
 &emsp;&emsp;&emsp;(i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training,<sup>4</sup> (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
@@ -630,7 +630,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Rule if failure to publish regulations
 
-&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
+&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or beforethe date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
 
 #### (8) Special focus facility program
 
@@ -688,7 +688,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;Each standard survey shall include, for a case-mix stratified sample of residents—
 
-&emsp;&emsp;&emsp;&emsp;(I) a survey of the quality of care furnished, as measured by indicators of medical, nursing, and rehabilitative care, dietary and nutrition services, activities and social participation, and sanitation, infection control, and the physical environment,
+&emsp;&emsp;&emsp;&emsp;(I) a survey of the quality of care furnished, as measured by indicators ofmedical, nursing, and rehabilitative care, dietary and nutrition services, activities and social participation, and sanitation, infection control, and the physical environment,
 
 &emsp;&emsp;&emsp;&emsp;(II) written plans of care provided under subsection (b)(2) of this section and an audit of the residents’ assessments under subsection (b)(3) of this section to determine the accuracy of such assessments and the adequacy of such plans of care, and
 
@@ -754,7 +754,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
+&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use underparagraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
 
 #### (B) Scope
 
@@ -816,7 +816,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (E) Submission of survey and certification information to the Secretary
 
-&emsp;&emsp;In order to improve the timeliness of information made available to the public under subparagraph (A) and provided on the Nursing Home Compare Medicare website under subsection (i), each State shall submit information respecting any survey or certification made respecting a skilled nursing facility (including any enforcement actions taken by the State) to the Secretary not later than the date on which the State sends such information to the facility. The Secretary shall use the information submitted under the preceding sentence to update the information provided on the Nursing Home Compare Medicare website as expeditiously as practicable but not less frequently than quarterly.
+&emsp;&emsp;In order to improve the timeliness of information made available to the public under subparagraph (A) and provided on the Nursing Home Compare Medicare website under subsection (i), each State shall submit information respecting any survey or certification made respecting a skilled nursing facility (including any enforcement actions taken by the State) to the Secretary not later than the date on which the State sends such information to the facility. The Secretary shall use the information submitted under the preceding sentence to update the information provided on the Nursing Home Compare Medicare website as expeditiouslyas practicable but not less frequently than quarterly.
 
 #### (h) Enforcement process
 
@@ -980,7 +980,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Secretary shall ensure that the information described in subparagraph (A)(i) is included on such website (or a successor website) not later than the date on which the requirements under section 1320a–7j(g) of this title are implemented.
+&emsp;&emsp;&emsp;The Secretary shall ensure that the information described in subparagraph (A)(i)is included on such website (or a successor website) not later than the date on which the requirements under section 1320a–7j(g) of this title are implemented.
 
 #### (2) Review and modification of website
 
@@ -1008,7 +1008,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 Where requirements or obligations under this section are identical to those provided under section 1396r of this title, the fulfillment of those requirements or obligations under section 1396r of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat.1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401; Pub. L. 111–148, title VI, §§6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, 124 Stat. 702, 704, 706, 709, 713, 719, 720.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401; Pub. L. 111–148, title VI, §§6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, 124 Stat. 702, 704, 706, 709, 713, 719, 720.)
 
 #### Amendment of Subsection (d)(1)
 
@@ -1024,7 +1024,9 @@ Where requirements or obligations under this section are identical to those prov
 
 > &emsp;&emsp;<i>The facility shall not make available under clause (i) identifying information about complainants or residents.</i>
 
-<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See Effective Date of 2010 Amendment note below.</i>
+<i>See 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–148, title VI, §6101(c)(1)(A), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -1037,6 +1039,10 @@ Section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, 
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(5)(F). Pub. L. 111–148, §6121(a)(2), inserted concluding provisions.
+
+Subsec. (d)(1)(B). Pub. L. 111–148, §6101(c)(1)(A), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to required notice to a State licensing agency of change in ownership, control interest, management, or certain positions of responsibility for a skilled nursing facility.
+
+Subsec. (d)(1)(C). Pub. L. 111–148, §6103(c)(1), added subpar. (C). Former subpar. (C) redesignated (B).
 
 Subsec. (f)(2)(A)(i)(I). Pub. L. 111–148, §6121(a)(1), inserted “(including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training” after “curriculum”.
 
@@ -1134,7 +1140,7 @@ Subsec. (f)(2)(A)(iv). Pub. L. 101–508, §4008(h)(1)(E), struck out “and” 
 
 Subsec. (f)(2)(B). Pub. L. 101–508, §4008(h)(1)(G), inserted “(through subcontract or otherwise)” after “may not delegate” in second sentence.
 
-Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
+Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
 
 Subsec. (g)(1)(C). Pub. L. 101–508, §4008(h)(2)(L), inserted at end “A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.”
 
@@ -1160,77 +1166,77 @@ Subsec. (f)(2)(A)(iv). Pub. L. 101–239, §6901(b)(3)(C), (D), added cl. (iv).
 
 Subsec. (h)(2)(C). Pub. L. 101–239, §6901(d)(4)(D), inserted “after the effective date of the findings” after “6 months” in introductory provisions.
 
-<b>1988</b>—Subsec. (b)(3)(A)(iii). Pub. L. 100–360, §411(<i>l</i>)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
+<b>1988</b>—Subsec. (b)(3)(A)(iii). Pub. L. 100–360, §411(l)(2)(B), struck out “in the case of a resident eligible for benefits under subchapter XIX of this chapter,” before “uses an instrument”.
 
-Subsec. (b)(3)(A)(iv). Pub. L. 100–360, §411(<i>l</i>)(2)(A), as amended by Pub. L. 100–485, §608(d)(27)(C), struck out “in the case of a resident eligible for benefits under this part,” before “includes the identification”.
+Subsec. (b)(3)(A)(iv). Pub. L. 100–360, §411(l)(2)(A), as amended by Pub. L. 100–485, §608(d)(27)(C), struck out “in the case of a resident eligible for benefits under this part,” before “includes the identification”.
 
-Subsec. (b)(3)(B)(ii)(III). Pub. L. 100–360, §411(<i>l</i>)(2)(C), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
+Subsec. (b)(3)(B)(ii)(III). Pub. L. 100–360, §411(l)(2)(C), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
 
-Subsec. (b)(3)(C)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(i), substituted “than January 1, 1991” for “than October 1, 1990”.
+Subsec. (b)(3)(C)(i)(I). Pub. L. 100–360, §411(l)(1)(A)(i), substituted “than January 1, 1991” for “than October 1, 1990”.
 
-Subsec. (b)(4)(C)(i). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(ii), substituted “24-hour licensed nursing” for “24-hour nursing”, “must use” for “must employ”, and “at least 8 consecutive hours a day,” for “during the day tour of duty (of at least 8 hours a day)”.
+Subsec. (b)(4)(C)(i). Pub. L. 100–360, §411(l)(1)(A)(ii), substituted “24-hour licensed nursing” for “24-hour nursing”, “must use” for “must employ”, and “at least 8 consecutive hours a day,” for “during the day tour of duty (of at least 8 hours a day)”.
 
-Subsec. (b)(5)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(D)(i), as amended by Pub. L. 100–485, §608(d)(27)(D), struck out “, who is not a licensed health professional (as defined in subparagraph (E)),” after “any individual”.
+Subsec. (b)(5)(A). Pub. L. 100–360, §411(l)(2)(D)(i), as amended by Pub. L. 100–485, §608(d)(27)(D), struck out “, who is not a licensed health professional (as defined in subparagraph (E)),” after “any individual”.
 
-Pub. L. 100–360, §411(<i>l</i>)(1)(A)(iii), substituted “January 1, 1990” for “October 1, 1989, (or January 1, 1990, in the case of an individual used by the facility as a nurse aide before July 1, 1989)”.
+Pub. L. 100–360, §411(l)(1)(A)(iii), substituted “January 1, 1990” for “October 1, 1989, (or January 1, 1990, in the case of an individual used by the facility as a nurse aide before July 1, 1989)”.
 
-Subsec. (b)(5)(A)(ii). Pub. L. 100–360, §411(<i>l</i>)(2)(D)(ii), substituted “nursing or nursing-related services” for “such services”.
+Subsec. (b)(5)(A)(ii). Pub. L. 100–360, §411(l)(2)(D)(ii), substituted “nursing or nursing-related services” for “such services”.
 
-Subsec. (b)(5)(G). Pub. L. 100–360, §411(<i>l</i>)(2)(D)(iii), inserted “physical or occupational therapy assistant,” after “occupational therapist,”.
+Subsec. (b)(5)(G). Pub. L. 100–360, §411(l)(2)(D)(iii), inserted “physical or occupational therapy assistant,” after “occupational therapist,”.
 
-Subsec. (c)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(iv), as added by Pub. L. 100–485, §608(d)(27)(A), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 100–360, §411(l)(1)(A)(iv), as added by Pub. L. 100–485, §608(d)(27)(A), added subpar. (D).
 
-Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
+Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(l)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
 
-Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
+Subsec. (c)(6). Pub. L. 100–360, §411(l)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
-Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(1)(A). Pub. L. 100–360, §411(l)(1)(A)(v), formerly §411(l)(1)(A)(iv), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
-Subsec. (e)(1)(B). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(vi), formerly §411(<i>l</i>)(1)(A)(v), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(1)(B). Pub. L. 100–360, §411(l)(1)(A)(vi), formerly §411(l)(1)(A)(v), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
-Subsec. (e)(2)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(vii), formerly §411(<i>l</i>)(1)(A)(vi), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(2)(A). Pub. L. 100–360, §411(l)(1)(A)(vii), formerly §411(l)(1)(A)(vi), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
-Subsec. (e)(2)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(H), inserted after first sentence “The State shall make available to the public information in the registry.”
+Subsec. (e)(2)(B). Pub. L. 100–360, §411(l)(2)(H), inserted after first sentence “The State shall make available to the public information in the registry.”
 
-Subsec. (e)(3). Pub. L. 100–360, §411(<i>l</i>)(2)(I), inserted “and discharges” after “transfers” in heading and in two places in text.
+Subsec. (e)(3). Pub. L. 100–360, §411(l)(2)(I), inserted “and discharges” after “transfers” in heading and in two places in text.
 
-Pub. L. 100–360, §411(<i>l</i>)(1)(A)(viii), formerly §411(<i>l</i>)(1)(A)(vii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1989” for “1990”.
+Pub. L. 100–360, §411(l)(1)(A)(viii), formerly §411(l)(1)(A)(vii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1989” for “1990”.
 
-Subsec. (e)(5). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(ix), formerly §411(<i>l</i>)(1)(A)(viii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1990” for “1989” in introductory provisions.
+Subsec. (e)(5). Pub. L. 100–360, §411(l)(1)(A)(ix), formerly §411(l)(1)(A)(viii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1990” for “1989” in introductory provisions.
 
-Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
+Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(l)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
 
-Subsec. (f)(3). Pub. L. 100–360, §411(<i>l</i>)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
+Subsec. (f)(3). Pub. L. 100–360, §411(l)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
 
-Pub. L. 100–360, §411(<i>l</i>)(1)(A)(x), formerly §411(<i>l</i>)(1)(A)(ix), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1988” for “1989”.
+Pub. L. 100–360, §411(l)(1)(A)(x), formerly §411(l)(1)(A)(ix), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1988” for “1989”.
 
-Subsec. (f)(6)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(xi), formerly §411(<i>l</i>)(1)(A)(x), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “July”.
+Subsec. (f)(6)(A). Pub. L. 100–360, §411(l)(1)(A)(xi), formerly §411(l)(1)(A)(x), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “July”.
 
-Subsec. (f)(6)(B). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(xii), formerly §411(<i>l</i>)(1)(A)(xi), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “April” for “October”.
+Subsec. (f)(6)(B). Pub. L. 100–360, §411(l)(1)(A)(xii), formerly §411(l)(1)(A)(xi), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “April” for “October”.
 
-Subsec. (f)(7)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(K), substituted “residents” for “patients”.
+Subsec. (f)(7)(A). Pub. L. 100–360, §411(l)(2)(K), substituted “residents” for “patients”.
 
-Subsec. (f)(7)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(L)(i), substituted “shall include” for “shall not include”.
+Subsec. (f)(7)(B). Pub. L. 100–360, §411(l)(2)(L)(i), substituted “shall include” for “shall not include”.
 
-Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
+Subsec. (g)(1)(C). Pub. L. 100–360, §411(l)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after noticeto the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
 
-Subsec. (g)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
+Subsec. (g)(1)(D). Pub. L. 100–360, §411(l)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
-Subsec. (g)(2)(A)(i). Pub. L. 100–360, §411(<i>l</i>)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
+Subsec. (g)(2)(A)(i). Pub. L. 100–360, §411(l)(5)(E), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
 
-Subsec. (g)(2)(B)(ii). Pub. L. 100–360, §411(<i>l</i>)(5)(F), as added by Pub. L. 100–485, §608(d)(27)(I), substituted “practicable” for “practical”.
+Subsec. (g)(2)(B)(ii). Pub. L. 100–360, §411(l)(5)(F), as added by Pub. L. 100–485, §608(d)(27)(I), substituted “practicable” for “practical”.
 
-Subsec. (g)(2)(C)(i). Pub. L. 100–360, §411(<i>l</i>)(4), substituted “January” for “October”.
+Subsec. (g)(2)(C)(i). Pub. L. 100–360, §411(l)(4), substituted “January” for “October”.
 
-Subsec. (g)(3)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(G), formerly §411(<i>l</i>)(5)(F), as redesignated by Pub. L. 100–485, §608(d)(27)(I), substituted “on the basis of that survey” for “on that basis”.
+Subsec. (g)(3)(D). Pub. L. 100–360, §411(l)(5)(G), formerly §411(l)(5)(F), as redesignated by Pub. L. 100–485, §608(d)(27)(I), substituted “on the basis of that survey” for “on that basis”.
 
-Subsec. (g)(4). Pub. L. 100–360, §411(<i>l</i>)(5)(H), formerly §411(<i>l</i>)(5)(G), as redesignated by Pub. L. 100–485, §608(d)(27)(I), struck out “chronically” after “enforcement actions against” in last sentence.
+Subsec. (g)(4). Pub. L. 100–360, §411(l)(5)(H), formerly §411(l)(5)(G), as redesignated by Pub. L. 100–485, §608(d)(27)(I), struck out “chronically” after “enforcement actions against” in last sentence.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 100–360, §411(<i>l</i>)(7)(A), substituted “. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.” for “and the Secretary shall impose and collect such a penalty in the same manner as civil money penalties are imposed and collected under section 1320a–7a of this title.”
+Subsec. (h)(2)(B)(ii). Pub. L. 100–360, §411(l)(7)(A), substituted “. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.” for “and the Secretary shall impose and collect such a penalty in the same manner as civil money penalties are imposed and collected under section 1320a–7a of this title.”
 
-Subsec. (h)(5). Pub. L. 100–360, §411(<i>l</i>)(11), as added by Pub. L. 100–485, §608(d)(27)(L), substituted “clauses (i), and (iii) of paragraph (2)(B)” for “clauses (i), (iii), and (iv) of paragraph (2)(A)”.
+Subsec. (h)(5). Pub. L. 100–360, §411(l)(11), as added by Pub. L. 100–485, §608(d)(27)(L), substituted “clauses (i), and (iii) of paragraph (2)(B)” for “clauses (i), (iii), and (iv) of paragraph (2)(A)”.
 
-Subsec. (h)(6). Pub. L. 100–360, §411(<i>l</i>)(7)(B), inserted “by such facilities” after “be made available”.
+Subsec. (h)(6). Pub. L. 100–360, §411(l)(7)(B), inserted “by such facilities” after “be made available”.
 
 <b>1987</b>—Subsecs. (g) to (i). Pub. L. 100–203, §§4202(a)(2), 4203(a)(2), 4206, added subsecs. (g), (h), and (i), respectively.
 
@@ -1240,7 +1246,7 @@ Pub. L. 111–148, title VI, §6101(c)(2), Mar. 23, 2010, 124 Stat. 702, provide
 
 Pub. L. 111–148, title VI, §6103(a)(2)(B), Mar. 23, 2010, 124 Stat. 706, provided that: “The amendment made by this paragraph \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
-Pub. L. 111–148, title VI, §6103(c)(3), Mar. 23, 2010, 124 Stat. 710, provided that: “The amendments made by this subsection \[amending this section and section 1396rof this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
+Pub. L. 111–148, title VI, §6103(c)(3), Mar. 23, 2010, 124 Stat. 710, provided that: “The amendments made by this subsection \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
 Pub. L. 111–148, title VI, §6111(c), Mar. 23, 2010, 124 Stat. 716, provided that: “The amendments made by this section \[amending this section and section 1396r of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
@@ -1258,19 +1264,19 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §941(c)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1997 Amendment
 
-Section 4432(d) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] are effective for cost reporting periods beginning on or after July 1, 1998; except that the amendments made by subsection (b) \[amending this section and sections 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] shall apply to items and services furnished on or after July 1, 1998.”
+Pub. L. 105–33, title IV, §4432(d), Aug. 5, 1997, 111 Stat. 422, provided that: “The amendments made by this section \[amending this section and sections 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] are effective for cost reporting periods beginning on or after July 1, 1998; except that the amendments made by subsection (b) \[amending this section and sections 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, 1395tt, and 1395yy of this title\] shall apply to items and services furnished on or after July 1, 1998.”
 
 #### Effective Date of 1994 Amendment
 
-Section 106(c)(1)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Pub. L. 103–432, title I, §106(c)(1)(B), Oct. 31, 1994, 108 Stat. 4406, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
-Section 106(c)(2)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1987 \[Pub. L. 100–203\].”
+Pub. L. 103–432, title I, §106(c)(2)(B), Oct. 31, 1994, 108 Stat. 4406, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1987 \[Pub. L. 100–203\].”
 
-Section 106(c)(3)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1995.”
+Pub. L. 103–432, title I, §106(c)(3)(B), Oct. 31, 1994, 108 Stat. 4406, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1995.”
 
-Section 106(c)(4)(C) of Pub. L. 103–432 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect January 1, 1995.”
+Pub. L. 103–432, title I, §106(c)(4)(C), Oct. 31, 1994, 108 Stat. 4407, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect January 1, 1995.”
 
-Section 106(d)(7) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Pub. L. 103–432, title I, §106(d)(7), Oct. 31, 1994, 108 Stat. 4407, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -1280,7 +1286,7 @@ Amendment by Pub. L. 102–375 inapplicable with respect to fiscal year 1992, se
 
 #### Effective Date of 1990 Amendment
 
-Section 4008(h)(1)(F)(ii) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §106(d)(6), Oct. 31, 1994, 108 Stat. 4407, provided that:
+Pub. L. 101–508, title IV, §4008(h)(1)(F)(ii), Nov. 5, 1990, 104 Stat. 1388–47, as amended by Pub. L. 103–432, title I, §106(d)(6), Oct. 31, 1994, 108 Stat. 4407, provided that:
 
 “(I) The amendments made by clause (i) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\], except that a State may not approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
@@ -1296,15 +1302,15 @@ Section 4008(h)(1)(F)(ii) of Pub. L. 101–508, as amended by Pub. L. 103–432,
 
 “(II) Notwithstanding subclause (I) and subject to section 1819(f)(2)(B)(iii)(I) of the Social Security Act \[subsec. (f)(2)(B)(iii)(I) of this section\] (as amended by clause (i)), a State may approve a training and competency evaluation program or a competency evaluation program offered by or in a skilled nursing facility described in subclause (I) if, during the previous 2 years, item (aa), (bb), (cc), (dd), or (ee) of subclause (I) did not apply to the facility.”
 
-Section 4008(h)(1)(H) of Pub. L. 101–508 provided that: “Except as provided in subparagraph (F) \[amending this section and enacting provisions set out as a note above\], the amendments made by this subsection \[probably means this paragraph, amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Pub. L. 101–508, title IV, §4008(h)(1)(H), Nov. 5, 1990, 104 Stat. 1388–48, provided that: “Except as provided in subparagraph (F) \[amending this section and enacting provisions set out as a note above\], the amendments made by this subsection \[probably means this paragraph, amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
-Section 4008(h)(2)(P) of Pub. L. 101–508 provided that: “The amendments made by this paragraph \[amending this section and sections 1395x and 1395yy of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Pub. L. 101–508, title IV, §4008(h)(2)(P), Nov. 5, 1990, 104 Stat. 1388–50, provided that: “The amendments made by this paragraph \[amending this section and sections 1395x and 1395yy of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
-Section 4206(e)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (d) \[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4206(e)(1), Nov. 5, 1990, 104 Stat. 1388–117, provided that: “The amendments made by subsections (a) and (d) \[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 6901(b)(6) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6901(b)(6), Dec. 19, 1989, 103 Stat. 2300, provided that:
 
 “(A)
 
@@ -1314,7 +1320,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 Exception.—The amendments made by paragraph (3) \[amending this section and section 1396r of this title\] shall apply to nurse aide training and competency evaluation programs, and nurse aide competency evaluation programs, offered on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not affect competency evaluations conducted under programs offered before the end of such period.”
 
-Section 6901(d)(6) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6901(d)(6), Dec. 19, 1989, 103 Stat. 2301, provided that:
 
 “(A)
 
@@ -1324,7 +1330,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 Exception.—The amendment made by paragraph (1) \[amending section 1396r of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -1332,7 +1338,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date
 
-Section 4204 of title IV of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(<i>l</i>)(9), July 1, 1988, 102 Stat. 805; Pub. L. 100–485, title VI, §608(d)(27)(K), Oct. 13, 1988, 102 Stat. 2423, provided that:
+Pub. L. 100–203, title IV, §4204, Dec. 22, 1987, 101 Stat. 1330–182, as amended by Pub. L. 100–360, title IV, §411(l)(9), July 1, 1988, 102 Stat. 805; Pub. L. 100–485, title VI, §608(d)(27)(K), Oct. 13, 1988, 102 Stat. 2423, provided that:
 
 “(a)
 
@@ -1498,7 +1504,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Nov
 
 #### Retroactive Review
 
-Section 4755(c) of Pub. L. 105–33 provided that: “The procedures developed by a State under the amendments made by subsection\[s\] (a) and (b) \[amending this section and section 1396r of this title\] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
+Pub. L. 105–33, title IV, §4755(c), Aug. 5, 1997, 111 Stat. 527, provided that: “The procedures developed by aState under the amendments made by subsection\[s\] (a) and (b) \[amending this section and section 1396r of this title\] shall permit an individual to petition for a review of any finding made by a State under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i-3(g)(1)(C) or 1396r(g)(1)(C)) after January 1, 1995.”
 
 #### Study and Report on Deeming for Nursing Facilities and Renal Dialysis Facilities
 
@@ -1518,17 +1524,17 @@ Report.—Not later than July 1, 1997, the Secretary shall transmit to Congress 
 
 #### Maintaining Regulatory Standards for Certain Services
 
-Section 4008(h)(2)(O) of Pub. L. 101–508 provided that: “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A)(ii), (iv), and (v) of this section\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
+Pub. L. 101–508, title IV, §4008(h)(2)(O), Nov. 5, 1990, 104 Stat. 1388–50, provided that: “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A)(ii), (iv), and (v) of this section\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
 
 #### Nurse Aide Training and Competency Evaluation Programs; Publication of Proposed Regulations
 
-Section 6901(b)(2) of Pub. L. 101–239 provided that: “The Secretary of Health and Human Services shall issue proposed regulations to establish the requirements described in sections 1819(f)(2) and 1919(f)(2) of the Social Security Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6901(b)(2), Dec. 19, 1989, 103 Stat. 2298, provided that: “The Secretary of Health and Human Services shall issue proposed regulations to establish the requirements described in sections 1819(f)(2) and 1919(f)(2) of the Social Security Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\] by not later than 90 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Nurse Aide Training and Competency Evaluation; Satisfaction of Requirements; Waiver
 
-Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VI, §6901(b)(4)(B)–(D), Dec. 19, 1989, 103 Stat. 2299, provided that:
 
-“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1,1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 
@@ -1536,11 +1542,11 @@ Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
 #### Evaluation and Report on Implementation of Resident Assessment Process
 
-Section 4201(c) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall evaluate, and report to Congress by not later than January 1, 1992, on the implementation of the resident assessment process for residents of skilled nursing facilities under the amendments made by this section \[enacting this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\].”
+Pub. L. 100–203, title IV, §4201(c), Dec. 22, 1987, 101 Stat. 1330–174, provided that: “The Secretary of Health and Human Services shall evaluate, and report to Congress by not later than January 1, 1992, on the implementation of the resident assessment process for residents of skilled nursing facilities under the amendments made by this section \[enacting this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\].”
 
 #### Annual Report on Statutory Compliance and Enforcement Actions
 
-Section 4205 of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[subsecs. (b), (c), and (d) of this section\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
+Pub. L. 100–203, title IV, §4205, Dec. 22, 1987, 101 Stat. 1330–182, provided that: “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[subsecs. (b), (c), and (d) of this section\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

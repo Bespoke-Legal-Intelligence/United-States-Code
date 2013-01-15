@@ -18,7 +18,7 @@ As used in this chapter the term “energy information” shall have the meaning
 
 #### Effective Date
 
-Section 143 of Pub. L. 94–385 provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 \[enacting this subchapter\] shall take effect 150 days after the date of enactment of this Act \[Aug. 14, 1976\], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) \[section 790e(c) of this title\] shall take effect on the date of enactment of this Act \[Aug. 14, 1976\].”
+Pub. L. 94–385, title I, §143, Aug. 14, 1976, 90 Stat. 1140, provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 \[enacting this subchapter\] shall take effect 150 days after the date of enactment of this Act \[Aug. 14, 1976\], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) \[section 790e(c) of this title\] shall take effect on the date of enactment of this Act \[Aug. 14, 1976\].”
 
 #### Transfer of Functions
 
@@ -28,7 +28,7 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 #### Congressional Findings and Purpose
 
-Section 141 of Pub. L. 94–385 provided that:
+Pub. L. 94–385, title I, §141, Aug. 14, 1976, 90 Stat. 1135, provided that:
 
 “(a) The Congress finds that the public interest requires that decisionmaking, with respect to this Nation's energy requirements and the sufficiency and availability of energy resources and supplies, be based on adequate, accurate, comparable, coordinated, and credible energy information.
 

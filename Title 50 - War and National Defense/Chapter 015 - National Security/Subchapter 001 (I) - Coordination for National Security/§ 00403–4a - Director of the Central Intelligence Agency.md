@@ -36,7 +36,7 @@ The Director of the Central Intelligence Agency shall—
 
 #### (f) Coordination with foreign governments
 
-Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security orinvolving intelligence acquired through clandestine means.
 
 #### (g) Foreign language proficiency for certain senior level positions in Central Intelligence Agency
 
@@ -138,5 +138,5 @@ Disciplinary Actions.—The regulations shall specify appropriate disciplinary a
 
 #### Executive Order No. 13355
 
-Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333,§3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
+Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, which related to strengthened management of the Intelligence Community, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341, set out as a note under section 401 of this title.
 

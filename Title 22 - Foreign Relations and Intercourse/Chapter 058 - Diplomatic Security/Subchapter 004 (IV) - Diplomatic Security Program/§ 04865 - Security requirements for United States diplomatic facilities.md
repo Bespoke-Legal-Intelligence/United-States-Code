@@ -110,7 +110,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Authority to lease aircraft to respond to a terrorist attack abroad
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of theDepartment of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
 #### (7) Rapid response procedures
 
@@ -190,7 +190,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 19
 
 “(a)
 
-Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—
+Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated bythis or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—
 
 &emsp;“(1) for fiscal year 2000, $900,000,000;
 

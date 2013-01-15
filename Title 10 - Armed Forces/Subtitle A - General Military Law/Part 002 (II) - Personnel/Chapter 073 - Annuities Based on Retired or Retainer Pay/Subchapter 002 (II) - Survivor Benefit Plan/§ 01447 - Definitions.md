@@ -20,7 +20,7 @@ Retired pay.—The term “retired pay” includes retainer pay paid under secti
 
 &emsp;(5)
 
-Reserve-component retired pay.—The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
+Reserve-component retired pay.—The term “reserve-component retired pay” meansretired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
 
 &emsp;(6)
 
@@ -60,7 +60,7 @@ Widow.—The term “widow” means the surviving wife of a person who, if not m
 
 &emsp;(8)
 
-Widower.—The term “widower” means the surviving husband of a person who, if notmarried to the person at the time she became eligible for retired pay—
+Widower.—The term “widower” means the surviving husband of a person who, if not married to the person at the time she became eligible for retired pay—
 
 &emsp;&emsp;(A) was married to her for at least one year immediately before her death; or
 
@@ -116,7 +116,7 @@ Final decree.—The term “final decree” means a decree from which no appeal 
 
 Regular on its face.—The term “regular on its face”, when used in connection with a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551.)
 
 #### References in Text
 
@@ -176,11 +176,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1990 Amendment
 
-Section 1484(<i>l</i>)(4)(C) of Pub. L. 101–510 provided that the amendment made by that section is effective Nov. 29, 1989.
+Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C), Nov. 5, 1990, 104 Stat. 1720, provided that the amendment made by that section is effective Nov. 29, 1989.
 
 #### Effective Date of 1985 Amendment
 
-Section 731 of title VII of Pub. L. 99–145 provided that:
+Pub. L. 99–145, title VII, §731, Nov. 8, 1985, 99 Stat. 678, provided that:
 
 “(a)
 
@@ -196,11 +196,11 @@ Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable to persons 
 
 #### Effective Date of 1980 Amendment
 
-Section 7 of Pub. L. 96–402 provided that: “The amendments made by sections 2, 3, and 4 of this Act \[amending this section and sections 1451 and 1452 of this title\] and the provisions of section 5 of this Act \[set out as a note under section 1448 of this title\] shall be effective on the first day of the second calendar month following the month in which this Act is enacted \[October 1980\] and shall apply to annuities payable by virtue of such amendments and provisions for months beginning on or after such date. No benefits shall accrue to any person by virtue of the enactment of this Act \[Pub. L. 96–402\] for any period before the date of the enactment of this Act \[Oct. 9, 1980\].”
+Pub. L. 96–402, §7, Oct. 9, 1980, 94 Stat. 1708, provided that: “The amendments made by sections 2, 3, and 4 of this Act \[amending this section and sections 1451 and 1452 of this title\] and the provisions of section 5 of this Act \[set out as a note under section 1448 of this title\] shall be effective on the first day of the second calendar month following the month in which this Act is enacted \[October 1980\] and shall apply to annuities payable by virtue of such amendments and provisions for months beginning on or after such date. No benefits shall accrue to any person by virtue of the enactment of this Act \[Pub. L. 96–402\] for any period before the date of the enactment of this Act \[Oct. 9, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 210 of title II of Pub. L. 95–397 provided that:
+Pub. L. 95–397, title II, §210, Sept. 30, 1978, 92 Stat. 848, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of this title \[amending this section and sections 1331 \[now 12731\] and 1448 to 1452 of this title and enacting provisions set out as notes under this section and section 1448 of this title\] and the amendments made by this title shall take effect on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later, and shall apply to annuities payable by virtue of such amendments for months beginning on or after such date.
 
@@ -208,21 +208,21 @@ Section 210 of title II of Pub. L. 95–397 provided that:
 
 #### Effective Date of 1976 Amendment
 
-Section 3 of Pub. L. 94–496 provided that: “This Act \[amending this section and sections 1448, 1450, 1451, and 1452 of this title, and amending provisions set out as a note under section 1448 of this title\] shall be effective as of September 21, 1972. No pay shall accrue to any person by virtue of the enactment of this Act for any period prior to October 1, 1976.”
+Pub. L. 94–496, §3, Oct. 14, 1976, 90 Stat. 2376, provided that: “This Act \[amending this section and sections 1448, 1450, 1451, and 1452 of this title, and amending provisions set out as a note under section 1448 of this title\] shall be effective as of September 21, 1972. No pay shall accrue to any person by virtue of the enactment of this Act for any period prior to October 1, 1976.”
 
 #### Short Title of 1989 Amendment
 
-Section 1401 of title XIV of Pub. L. 101–189 provided that: “This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under sections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the ‘Military Survivor Benefits Improvement Act of 1989’.”
+Pub. L. 101–189, div. A, title XIV, §1401, Nov. 29, 1989, 103 Stat. 1577, provided that: “This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under sections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the ‘Military Survivor Benefits Improvement Act of 1989’.”
 
 #### Short Title of 1985 Amendment
 
-Section 701 of title VII of Pub. L. 99–145 provided that: “This title \[amending this section and sections 1448, 1450 to 1452, and 1455 of this title, enacting provisions set out as notes under this section and sections 1448 and 1452 of this title, and repealing a provision set out as anote under section 1451 of this title\] may be cited as the ‘Survivor Benefit Plan Amendments of 1985’.”
+Pub. L. 99–145, title VII, §701, Nov. 8, 1985, 99 Stat. 666, provided that: “This title \[amending this section and sections 1448, 1450 to 1452, and 1455 of this title, enacting provisions set out as notes under this section and sections 1448 and 1452 of this title, and repealing a provision set out as a note under section 1451 of this title\] may be cited as the ‘Survivor Benefit Plan Amendments of 1985’.”
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–402 provided: “That this Act \[amending this section and sections 1451 and 1452 of this title, enacting provisions set out as notes under this section and section 1448 of this title, and amending provisions set out as a note under section 1448 of this title\] may be cited as the ‘Uniformed Services Survivor Benefits Amendments of 1980’.”
+Pub. L. 96–402, §1, Oct. 9, 1980, 94 Stat. 1705, provided: “That this Act \[amending this section and sections 1451 and 1452 of this title, enacting provisions set out as notes under this section and section 1448 of this title, and amending provisions set out as a note under section 1448 of this title\] may be cited as the ‘Uniformed Services Survivor Benefits Amendments of 1980’.”
 
 #### End of 90-Day Period With Respect to Certain Individuals
 
-Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
+Pub. L. 95–397, title II, §208, Sept. 30, 1978, 92 Stat. 848, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
 

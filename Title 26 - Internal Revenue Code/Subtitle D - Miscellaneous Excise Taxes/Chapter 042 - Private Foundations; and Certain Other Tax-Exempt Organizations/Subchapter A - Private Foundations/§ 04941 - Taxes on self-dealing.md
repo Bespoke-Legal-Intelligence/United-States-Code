@@ -178,7 +178,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 #### Savings Provision
 
-Exceptions to applicability of section, see section 101(<i>l</i>)(2) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Exceptions to applicability of section, see section 101(l)(2) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

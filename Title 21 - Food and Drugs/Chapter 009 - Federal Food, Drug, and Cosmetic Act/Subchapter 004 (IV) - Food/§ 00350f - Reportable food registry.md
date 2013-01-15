@@ -212,13 +212,13 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (j) Maintenance and inspection of records
 
-The responsible party shall maintain records related to each report received, notification made, and report submitted to the Food and Drug Administration under this section for 2 years. A responsible party shall, at the requestof the Secretary, permit inspection of such records as provided for section <sup>3</sup> 350c of this title.
+The responsible party shall maintain records related to each report received, notification made, and report submitted to the Food and Drug Administration under this section for 2 years. A responsible party shall, at the request of the Secretary, permit inspection of such records as provided for section <sup>3</sup> 350c of this title.
 
 #### (k) Request for information
 
 Except as provided by section 350d(a)(4) <sup>1</sup> of this title, section 552 of title 5 shall apply to any request for information regarding a record in the Reportable Food Registry.
 
-#### (<i>l</i>) Safety report
+#### (l) Safety report
 
 A report or notification under subsection (d) shall be considered to be a safety report under section 379v of this title and may be accompanied by a statement, which shall be part of any report released for public disclosure, that denies that the report or the notification constitutes an admission that the product involved caused or contributed to a death, serious injury, or serious illness.
 
@@ -242,7 +242,7 @@ Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), w
 
 #### Effective Date
 
-Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
+Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C.350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
 
 #### Construction of 2011 Amendment
 

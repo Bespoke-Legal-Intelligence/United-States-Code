@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 27
 
 #### Short Title
 
-Section 1(a) of Pub. L. 102–486 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Policy Act of 1992’.”
+Pub. L. 102–486, §1(a), Oct. 24, 1992, 106 Stat. 2776, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Policy Act of 1992’.”
 
 #### Ex. Ord. No. 13211. Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use
 
@@ -56,7 +56,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13212, May 18, 2001, 66 F.R. 28357, as amended by Ex. Ord. No. 13286, §10, Feb. 28, 2003, 68 F.R. 10622; Ex. Ord. No. 13302, §1, May 15, 2003, 68 F.R. 27429, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take additional steps to expedite the increased supply and availability of energy to our Nation, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to take additional steps to expedite the increased supply and availability of energy to our Nation, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The increased production and transmission of energy in a safe and environmentally sound manner is essential to the well-being of the American people. In general, it is the policy of this Administration that executive departments and agencies (agencies) shall take appropriate actions, to the extent consistent with applicable law, to expedite projects that will increase the production, transmission, or conservation of energy and projects that will strengthen pipeline safety.
 

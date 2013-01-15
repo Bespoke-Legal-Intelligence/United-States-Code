@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date
 
-Section 11 of Pub. L. 105–12 provided that:
+Pub. L. 105–12, §11, Apr. 30, 1997, 111 Stat. 29, provided that:
 
 “(a)
 
@@ -36,9 +36,9 @@ Application to Contracts.—Such provisions shall apply with respect to contract
 
 #### Short Title
 
-Section 1(a) of Pub. L. 105–12 provided that: “This Act \[enacting this chapter, section 238<i>o</i> of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 295, 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor, and enacting provisions set out as notes under this section and section 295 of this title\] may be cited as the ‘Assisted Suicide Funding Restriction Act of 1997’.”
+Pub. L. 105–12, §1(a), Apr. 30, 1997, 111 Stat. 23, provided that: “This Act \[enacting this chapter, section 238o of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 295, 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor, and enacting provisions set out as notes under this section and section 295 of this title\] may be cited as the ‘Assisted Suicide Funding Restriction Act of 1997’.”
 
 #### Construction of Conforming Amendments
 
-Section 9(p) of Pub. L. 105–12 provided that: “The fact that a law is not amended under this section \[enacting section 238<i>o</i> of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor\] shall not be construed as indicating that the provisions of this Act \[see Short Title note above\] do not apply to such a law.”
+Pub. L. 105–12, §9(p), Apr. 30, 1997, 111 Stat. 29, provided that: “The fact that a law is not amended under this section \[enacting section 238o of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor\] shall not be construed as indicating that the provisions of this Act \[see Short Title note above\] do not apply to such a law.”
 

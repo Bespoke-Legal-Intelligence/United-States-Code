@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-To the extent that funds are appropriated under subsection (e), the Secretary shall establish a demonstration project to provide for the participation of individuals who are eligible for the Loan Repayment Program described in section 254<i>l</i>–1 of this title and who agree to complete their service obligation in a State health department that provides a significant amount of service to health professional shortage areas or areas at risk of a public health emergency, as determined by the Secretary, or in a local or tribal health department that serves a health professional shortage area or an area at risk of a public health emergency.
+To the extent that funds are appropriated under subsection (e), the Secretary shall establish a demonstration project to provide for the participation of individuals who are eligible for the Loan Repayment Program described in section 254l–1 of this title and who agree to complete their service obligation in a State health department that provides a significant amount of service to health professional shortage areas or areas at risk of a public health emergency, as determined by the Secretary, or in a local or tribal health department that serves a health professional shortage area or an area at risk of a public health emergency.
 
 #### (b) Procedure
 
-To be eligible to receive assistance under subsection (a), with respect to the program described in section 254<i>l</i>–1 of this title, an individual shall—
+To be eligible to receive assistance under subsection (a), with respect to the program described in section 254l–1 of this title, an individual shall—
 
-&emsp;(1) comply with all rules and requirements described in such section (other than section 254<i>l</i>–1(f)(1)(B)(iv) of this title); and
+&emsp;(1) comply with all rules and requirements described in such section (other than section 254l–1(f)(1)(B)(iv) of this title); and
 
 &emsp;(2) agree to serve for a time period equal to 2 years, or such longer period as the individual may agree to, in a State, local, or tribal health department, described in subsection (a).
 

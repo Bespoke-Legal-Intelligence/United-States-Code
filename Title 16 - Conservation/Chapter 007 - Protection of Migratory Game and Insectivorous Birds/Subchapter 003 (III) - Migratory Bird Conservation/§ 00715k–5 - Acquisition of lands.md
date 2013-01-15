@@ -2,7 +2,7 @@
 
 No land shall be acquired with moneys from the migratory bird conservation fund <sup>1</sup> unless the acquisition thereof has been approved by the Governor of the State or appropriate State agency.
 
-(Pub. L. 87–383, §3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, §2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(b), Nov. 10, 1986, 100 Stat. 3584.)
+(Pub. L. 87–383, §3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L.94–215, §2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(b), Nov. 10, 1986, 100 Stat. 3584.)
 
 #### Codification
 

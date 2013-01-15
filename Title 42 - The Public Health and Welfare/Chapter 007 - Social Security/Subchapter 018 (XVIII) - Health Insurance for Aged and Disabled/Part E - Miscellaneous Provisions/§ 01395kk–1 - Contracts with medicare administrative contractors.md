@@ -36,7 +36,7 @@
 
 #### (A) Determination of payment amounts
 
-&emsp;&emsp;Determining (subject to the provisions of section 1395<i>oo</i> of this title and to such review by the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
+&emsp;&emsp;Determining (subject to the provisions of section 1395oo of this title and to such review by the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
 
 #### (B) Making payments
 
@@ -202,7 +202,7 @@
 
 #### (1) Development of information security program
 
-&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) of title 44 (other than the requirements underparagraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
+&emsp;A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b) of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
 
 #### (2) Independent audits
 
@@ -250,7 +250,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (2) Response to written inquiries
 
-&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear, concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
+&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear,concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
 
 #### (3) Response to toll-free lines
 
@@ -340,7 +340,7 @@ Construction for current contracts.—Such amendments shall not apply to contrac
 
 &emsp;“(C)
 
-Deadline for competitive bidding.—The Secretary shall provide for the letting by competitive bidding of all contracts for functions of medicare administrative contractors for annual contract periods that begin on or after October 1, 2011.
+Deadline for competitive bidding.—The Secretary shall provide for the letting by competitivebidding of all contracts for functions of medicare administrative contractors for annual contract periods that begin on or after October 1, 2011.
 
 “(2)
 
@@ -412,7 +412,7 @@ In general.—The provisions of section 1874A(e)(2) of the Social Security Act \
 
 Deadline for initial evaluation.—In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[subsec. (e)(2)(A) of this section\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date.”
 
-Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: “The provisions of section 1874A(f) of the Social Security Act \[subsec. (f) of this section\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
+Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: “The provisions of section 1874A(f) of the Social Security Act \[subsec. (f) of this section\], as added by paragraph (1), shall apply to eachfiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
 
 Pub. L. 108–173, title IX, §921(c)(3), Dec. 8, 2003, 117 Stat. 2390, provided that: “The provisions of section 1874A(g) of the Social Security Act \[subsec. (g) of this section\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
 
@@ -522,7 +522,7 @@ Report to congress.—
 
 &emsp;&emsp;“(A) Not later than October 1, 2005, the Secretary shall submit to Congress a report on the results of the study conducted under paragraph (1).
 
-&emsp;&emsp;“(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of the study included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
+&emsp;&emsp;“(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of thestudy included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
 
 “(e)
 

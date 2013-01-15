@@ -38,7 +38,7 @@
 
 #### (4) Treatment in relation to part B premium
 
-&emsp;Amounts payable from the Account shall not be taken into account in computing actuarial rates or premium amounts under section 1395r of this title.
+&emsp;Amounts payable from the Account shall not be taken into account in computing actuarialrates or premium amounts under section 1395r of this title.
 
 #### (c) Deposits into Account
 
@@ -60,7 +60,7 @@
 
 #### (5) Transfer of any remaining balance from Transitional Assistance Account
 
-&emsp;Any balance in the Transitional Assistance Account that is transferred under section1395w–141(k)(5) of this title shall be deposited into the Account.
+&emsp;Any balance in the Transitional Assistance Account that is transferred under section 1395w–141(k)(5) of this title shall be deposited into the Account.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–16, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2120.)
 

@@ -82,7 +82,7 @@
 
 (g) Any employee who—
 
-&emsp;(1) served in a position in which the employee was excluded from coverage under this subchapter because the employee was coveredunder a retirement system established under section 10 of the Federal Reserve Act; and
+&emsp;(1) served in a position in which the employee was excluded from coverage under this subchapter because the employee was covered under a retirement system established under section 10 of the Federal Reserve Act; and
 
 &emsp;(2) transferred without a break in service to a position to which the employee was appointed by the President, with the advice and consent of the Senate, and in which position the employee is subject to this subchapter,
 
@@ -106,13 +106,13 @@
 
 (2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
 
-(<i>l</i>)(1) Notwithstanding any other provision of this chapter, the service of an individual finally convicted of an offense described in paragraph (2) shall not be taken into account for purposes of this chapter, except that this sentence applies only to service rendered as a Member (irrespective of when rendered). Any such individual (or other person determined under section 8424(d), if applicable) shall be entitled to be paid so much of such individual's lump-sum credit as is attributable to service to which the preceding sentence applies.
+(l)(1) Notwithstanding any other provision of this chapter, the service of an individual finally convicted of an offense described in paragraph (2) shall not be taken into account for purposes of this chapter, except that this sentence applies only to service rendered as a Member (irrespective of when rendered). Any such individual (or other person determined under section 8424(d), if applicable) shall be entitled to be paid so much of such individual's lump-sum credit as is attributable to service to which the preceding sentence applies.
 
-(2) An offense described in this paragraph is any offense described in section 8332(<i>o</i>)(2)(B) for which the following apply:
+(2) An offense described in this paragraph is any offense described in section 8332(o)(2)(B) for which the following apply:
 
-&emsp;(A) Every act or omission of the individual (referred to in paragraph (1)) that is needed to satisfy the elements of the offense occurs while the individual is a Member.
+&emsp;(A) Every act or omission of the individual (referred to in paragraph (1)) that is needed to satisfy the elements of the offense occurs while the individual is a Member, the President, the Vice President, or an elected official of a State or local government.
 
-&emsp;(B) Every act or omission of the individual that is needed to satisfy the elements of the offense directly relates to the performance of the individual's official duties as a Member.
+&emsp;(B) Every act or omission of the individual that is needed to satisfy the elements of the offense directly relates to the performance of the individual's official duties as a Member, the President, the Vice President, or an elected official of a State or local government.
 
 &emsp;(C) The offense is committed after the date of enactment of this subsection.
 
@@ -138,7 +138,7 @@
 
 &emsp;(C) the term “child” has the meaning given such term by section 8441.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, §401(b), Sept. 14, 2007, 121 Stat. 756.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, §401(b), Sept. 14, 2007, 121 Stat. 756; Pub. L. 112–105, §15(a)(2), Apr. 4, 2012, 126 Stat. 301.)
 
 #### References in Text
 
@@ -160,11 +160,13 @@ The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 
 
 The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
-The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(2)(C), is the date of enactment of Pub. L. 110–81, which was approved Sept. 14, 2007.
+The date of enactment of this subsection, referred to in subsec. (l)(2)(C), is the date of enactment of Pub. L. 110–81, which was approved Sept. 14, 2007.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (<i>l</i>). Pub. L. 110–81 added subsec. (<i>l</i>).
+<b>2012</b>—Subsec. (l)(2)(A), (B). Pub. L. 112–105 inserted “, the President, the Vice President, or an elected official of a State or local government” after “Member”.
+
+<b>2007</b>—Subsec. (l). Pub. L. 110–81 added subsec. (l).
 
 <b>2001</b>—Subsec. (b)(6). Pub. L. 107–107, §1132(b)(1)(A), added par. (6).
 
@@ -386,7 +388,7 @@ Retroactive effect.—Any computation or recomputation of an annuity or survivor
 
 &emsp;&emsp;“(D)
 
-Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (asthe case may be) shall be payable in the form of a lump-sum payment.
 
 &emsp;&emsp;“(E)
 

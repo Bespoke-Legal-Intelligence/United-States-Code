@@ -28,7 +28,7 @@
 
 &emsp;(A) Furnishing medical care and services under this chapter, to be available during any fiscal year for the same purposes and subject to the same limitations (other than with respect to the period of availability for obligation) as apply to amounts appropriated from the general fund of the Treasury for that fiscal year for medical care.
 
-&emsp;(B) Expenses of the Department for the identification, billing, auditing, and collection of amounts owed the United States by reason of medical care and services furnished under this chapter.
+&emsp;(B) Expenses of the Department for the identification, billing, auditing, and collection ofamounts owed the United States by reason of medical care and services furnished under this chapter.
 
 (2) Amounts available under paragraph (1) may not be used for any purpose other than a purpose set forth in subparagraph (A) or (B) of that paragraph.
 
@@ -66,6 +66,36 @@ Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov
 
 Section effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1710 of this title.
 
+#### Improvements for Recovery and Collection of Amounts for Department of Veterans Affairs Medical Care Collections Fund
+
+Pub. L. 112–154, title I, §111, Aug. 6, 2012, 126 Stat. 1175, provided that:
+
+“(a)
+
+Development and Implementation of Plan for Recovery and Collection.—
+
+&emsp;“(1)
+
+In general.—Not later than 270 days after the date of the enactment of this Act \[Aug. 6, 2012\], the Secretary of Veterans Affairs shall develop and implement a plan to ensure the recovery and collection of amounts under the provisions of law described in section 1729A(b) of title 38, United States Code, for deposit in the Department of Veterans Affairs Medical Care Collections Fund.
+
+&emsp;“(2)
+
+Elements.—The plan required by paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) An effective process to identify billable fee claims.
+
+&emsp;&emsp;“(B) Effective and practicable policies and procedures that ensure recovery and collection of amounts described in section 1729A(b) of such title.
+
+&emsp;&emsp;“(C) The training of employees of the Department, on or before September 30, 2013, who are responsible for the recovery or collection of such amounts to enable such employees to comply with the process required by subparagraph (A) and the policies and procedures required by subparagraph (B).
+
+&emsp;&emsp;“(D) Fee revenue goals for the Department.
+
+&emsp;&emsp;“(E) An effective monitoring system to ensure achievement of goals described in subparagraph (D) and compliance with the policies and procedures described in subparagraph (B).
+
+“(b)
+
+Monitoring of Third-party Collections.—The Secretary shall monitor the recovery and collection of amounts from third parties (as defined in section 1729(i) of such title) for deposit in such fund.”
+
 #### Medical Services Accounts
 
 Pub. L. 108–447, div. I, title I, §115, Dec. 8, 2004, 118 Stat. 3293, provided that:
@@ -82,5 +112,5 @@ Pub. L. 108–199, div. G, title I, §115, Jan. 23, 2004, 118 Stat. 370.
 
 #### Report on Implementation of Section 8023 of Pub. L. 105–33
 
-Section 8023(f) of Pub. L. 105–33 provided that: “Not later than January 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section \[enacting this section, amending sections 712, 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 712 and 1729 of this title\]. The report shall describe the collections under each of the provisions specified in section 1729A(b) of title 38, United States Code, as added by subsection (a). Information on such collections shall be shown for each of the health service networks (known as Veterans Integrated Service Networks) and, to the extent practicable for each facility within each such network. The Secretary shall include in the report an analysis of differences among the networks with respect to (A) the market in which the networks operates, (B) the effort expended to achieve collections, (C) the efficiency of such effort, and (D) any other relevant information.”
+Pub. L. 105–33, title VIII, §8023(f), Aug. 5, 1997, 111 Stat. 667, provided that: “Not later than January 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section \[enacting this section, amending sections 712, 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 712 and 1729 of this title\]. The report shall describe the collections under each of the provisions specified in section 1729A(b) of title 38, United States Code, as added by subsection (a). Information on such collections shall be shown for each of the health service networks (known as Veterans Integrated Service Networks) and, to the extent practicable for each facility within each such network. The Secretary shall include in the report an analysis of differences among the networks with respect to (A) the market in which the networks operates, (B) the effort expended to achieve collections, (C) the efficiency of such effort, and (D) any other relevant information.”
 

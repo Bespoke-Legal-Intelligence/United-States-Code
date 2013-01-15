@@ -4,7 +4,7 @@
 
 #### (1) Policies and procedures
 
-&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the AttorneyGeneral, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
+&emsp;In order to enhance the efforts of the United States to prevent trafficking in persons, the Secretary of Homeland Security, in conjunction with the Secretary of State, the Attorney General, and the Secretary of Health and Human Services, shall develop policies and procedures to ensure that unaccompanied alien children in the United States are safely repatriated to their country of nationality or of last habitual residence.
 
 #### (2) Special rules for children from contiguous countries
 
@@ -20,7 +20,7 @@
 
 #### (B) Return
 
-&emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry of the United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
+&emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry ofthe United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
 
 &emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuant to section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
 
@@ -84,7 +84,7 @@
 
 #### (1) Care and custody of unaccompanied alien children
 
-&emsp;Consistent with section 279 of title 6, and except as otherwise provided under subsection (a), the care and custody of all unaccompanied alien children, including responsibility for their detention, where appropriate, shall be the responsibility of the Secretary of Health and Human Services.
+&emsp;Consistent with section 279 of title 6, and except as otherwise provided under subsection\(a), the care and custody of all unaccompanied alien children, including responsibility for their detention, where appropriate, shall be the responsibility of the Secretary of Health and Human Services.
 
 #### (2) Notification
 
@@ -120,7 +120,7 @@
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuseunder circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -128,7 +128,7 @@
 
 #### (4) Legal orientation presentations
 
-&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child's appearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
+&emsp;The Secretary of Health and Human Services shall cooperate with the Executive Office for Immigration Review to ensure that custodians receive legal orientation presentations provided through the Legal Orientation Program administered by the Executive Office for Immigration Review. At a minimum, such presentations shall address the custodian's responsibility to attempt to ensure the child'sappearance at all immigration proceedings and to protect the child from mistreatment, exploitation, and trafficking.
 
 #### (5) Access to counsel
 

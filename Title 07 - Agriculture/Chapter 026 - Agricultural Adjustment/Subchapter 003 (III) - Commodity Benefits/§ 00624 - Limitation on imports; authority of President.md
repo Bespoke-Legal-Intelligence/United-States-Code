@@ -6,7 +6,7 @@
 
 In any case where the Secretary of Agriculture determines and reports to the President with regard to any article or articles that a condition exists requiring emergency treatment, the President may take immediate action under this section without awaiting the recommendations of the International Trade Commission, such action to continue in effect pending the report and recommendations of the International Trade Commission and action thereon by the President.
 
-(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
+(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
 
 (d) After investigation, report, finding, and declaration in the manner provided in the case of a proclamation issued pursuant to subsection (b) of this section, any proclamation or provision of such proclamation may be suspended or terminated by the President whenever he finds and proclaims that the circumstances requiring the proclamation or provision thereof no longer exist or may be modified by the President whenever he finds and proclaims that changed circumstances require such modification to carry out the purposes of this section.
 
@@ -14,7 +14,11 @@ In any case where the Secretary of Agriculture determines and reports to the Pre
 
 (f) No quantitative limitation or fee shall be imposed under this section with respect to any article that is the product of a WTO member (as defined in section 3501(10) of title 19).
 
-(May 12, 1933, ch. 25, title I, §22, as added Aug. 24, 1935, ch. 641, §31, 49 Stat. 773; amended Feb. 29, 1936, ch. 104, §5, 49 Stat. 1152; June 3, 1937, ch. 296, §1, 50 Stat. 246; Jan. 25, 1940, ch. 13, 54 Stat.17; July 3, 1948, ch. 827, title I, §3, 62 Stat. 1248; June 28, 1950, ch. 381, §3, 64 Stat. 261; June 16, 1951, ch. 141, §8(b), 65 Stat. 75; Aug. 7, 1953, ch. 348, title I, §104, 67 Stat. 472; Pub. L. 93–618, title I, §171(b), Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–449, title III, §301(c), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–465, title IV, §401(a)(1), Dec. 8, 1994, 108 Stat. 4957.)
+(May 12, 1933, ch. 25, title I, §22, as added Aug. 24, 1935, ch. 641, §31, 49 Stat. 773; amended Feb. 29, 1936, ch. 104, §5, 49 Stat. 1152; June 3, 1937, ch. 296, §1, 50 Stat. 246; Jan. 25, 1940, ch. 13, 54 Stat. 17; July 3, 1948, ch. 827, title I, §3, 62 Stat. 1248; June 28, 1950, ch. 381, §3, 64 Stat. 261; June 16, 1951, ch. 141, §8(b), 65 Stat. 75; Aug. 7, 1953, ch. 348, title I, §104, 67 Stat. 472; Pub. L. 93–618, title I, §171(b), Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–449, title III, §301(c), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–465, title IV, §401(a)(1), Dec. 8, 1994, 108 Stat. 4957.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### References in Text
 
@@ -26,11 +30,15 @@ The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 49
 
 Another section 22 of act May 12, 1933, amended section 781 of Title 12, Banks and Banking.
 
+#### Constitutionality
+
+Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
+
 #### Amendments
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–465 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “No trade agreement or other international agreement heretofore or hereafter entered into by the United States shall be applied in a manner inconsistent with the requirements of this section; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section.”
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–449 inserted before period at end “; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section”.
+<b>1988</b>—Subsec. (f). Pub. L. 100–449 temporarily inserted before period at end “; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section”. See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1975</b>—Subsecs. (a), (b). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
@@ -52,7 +60,7 @@ Subsec. (f). Act June 28, 1950, made certain that future international agreement
 
 #### Effective Date of 1994 Amendment
 
-Section 401(a)(2) of Pub. L. 103–465 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
+Pub. L. 103–465, title IV, §401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -60,11 +68,7 @@ Amendment by Pub. L. 100–449 effective on the date the United States-Canada Fr
 
 #### Effective Date of 1948 Amendment
 
-Section 6 of title I of act July 3, 1948, provided that: “This title \[enacting provisions set out as notes under sections 1281, 1282, and 1312 of this title and section 713a–8 of Title 15, Commerce and Trade\] shall take effect on January 1, 1949, except that sections 3 and 4 \[amending this section and section 590h of Title 16, Conservation\] shall take effect on the date of enactment of this Act \[July 3, 1948\].”
-
-#### Constitutionality
-
-Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
+Act July 3, 1948, ch. 827, title I, §6, 62 Stat. 1250, provided that: “This title \[amending this section and section 590h of Title 16, Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under section 713a–8 of Title 15, Commerce and Trade\] shall take effect on January 1, 1949, except that sections 3 and 4 \[amending this section and section 590h of Title 16\] shall take effect on the date of enactment of this Act \[July 3, 1948\].”
 
 #### Validity of Section Affirmed
 
@@ -76,7 +80,7 @@ Pub. L. 101–624, title XV, §1554, Nov. 28, 1990, 104 Stat. 3697, directed Sec
 
 #### Interference With Tobacco Price Support Program
 
-Pub. L. 100–418, title IV, §4609, Aug. 23, 1988, 102 Stat. 1411, provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commissionwould take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
+Pub. L. 100–418, title IV, §4609, Aug. 23, 1988, 102 Stat. 1411, provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commission would take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
 
 #### Dairy Import Study by Secretary of Agriculture; Report to Congress by Jan. 1, 1975
 
@@ -128,7 +132,7 @@ WHEREAS, on January 18, 1961, under the authority of the said section 22, the Pr
 
 WHEREAS, in accordance with the said section 22, as implemented by Executive Order No. 7233 of November 23, 1935, the Tariff Commission has made such investigation and has reported to me its findings and recommendations made in connection therewith; and
 
-WHEREAS, on the basis of the investigation and report of the Tariff Commission, I find that the articles with respect to which import restrictions are hereinafter proclaimed are being or are practically certain tobe imported into the United States under such conditions and in such quantities as to render or tend to render ineffective, or materially interfere with, the price-support program and other programs or operations undertaken by the Department of Agriculture with respect to cotton or products thereof; and
+WHEREAS, on the basis of the investigation and report of the Tariff Commission, I find that the articles with respect to which import restrictions are hereinafter proclaimed are being or are practically certain to be imported into the United States under such conditions and in such quantities as to render or tend to render ineffective, or materially interfere with, the price-support program and other programs or operations undertaken by the Department of Agriculture with respect to cotton or products thereof; and
 
 WHEREAS I find and declare that the important restrictions hereinafter proclaimed are shown by such investigation of the Tariff Commission to be necessary in order that the entry, or withdrawal from warehouse, for consumption of the said articles will not render or tend to render ineffective, or materially interfere with, the price-support program and other programs or operations undertaken by the Department of Agriculture with respect to cotton or products thereof;
 

@@ -42,7 +42,7 @@ Completion.—The Commission shall—
 
 &emsp;&emsp;(aa) complete the rulemaking not later than the date that is 30 months after December 19, 2007; and
 
-&emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
+&emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effectivedates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
 
 (E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
@@ -154,7 +154,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 (1) Subject to paragraph (6), a rule prescribed under this section shall require that each covered product in the type or class of covered products to which the rule applies bear a label which discloses—
 
-&emsp;(A) the estimated annual operating cost of such product (determined in accordance with test procedures prescribed under section 6293 of this title), except that if—
+&emsp;(A) the estimated annual operating cost of such product (determined in accordance withtest procedures prescribed under section 6293 of this title), except that if—
 
 &emsp;&emsp;(i) the Secretary determines that disclosure of estimated annual operating cost is not technologically feasible, or
 
@@ -214,23 +214,25 @@ The Secretary, in consultation with the Commission, shall study consumer product
 
 #### (f) Consultation
 
-The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1) of this section, it shall obtain the views of the Secretary and shall take such views into account in making such determination.
+The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1) of this section, itshall obtain the views of the Secretary and shall take such views into account in making such determination.
 
 #### (g) Other authority of the Commission
 
 Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
-(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §137, Aug. 8, 2005, 119 Stat. 645; Pub. L. 110–140, title III, §§321(b), 324(d), 325, Dec. 19, 2007, 121 Stat. 1584, 1593, 1595.)
+(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §137, Aug. 8, 2005, 119 Stat. 645; Pub. L. 110–140, title III, §§321(b), 324(d), 325, Dec. 19, 2007, 121 Stat. 1584, 1593, 1595; Pub. L. 112–210, §10(a)(12), Dec. 18, 2012, 126 Stat. 1525.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, asamended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Paragraph (19) of section 6292(a) of this title, referred to in subsecs. (a)(3), (b)(1)(B), (3), (5), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
 
 The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(9). Pub. L. 112–210, §10(a)(12), made technical amendment to directory language of Pub. L. 110–140, §325(b). See 2007 Amendment note below.
 
 <b>2007</b>—Subsec. (a)(2)(C). Pub. L. 110–140, §324(d)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -242,7 +244,7 @@ Subsec. (a)(2)(I). Pub. L. 110–140, §325(a)(1), added subpar. (I).
 
 Subsec. (a)(6). Pub. L. 110–140, §325(a)(2), added par. (6).
 
-Subsec. (c)(9). Pub. L. 110–140, §325(b), added par. (9).
+Subsec. (c)(9). Pub. L. 110–140, §325(b), as amended by Pub. L. 112–210, §10(a)(12), added par. (9).
 
 <b>2005</b>—Subsec. (a)(2)(F), (G). Pub. L. 109–58, §137(a), added subpars. (F) and (G).
 
@@ -310,9 +312,13 @@ Subsec. (c)(5). Pub. L. 95–619, §425(c), inserted “including instructions f
 
 Subsecs. (e), (f). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–210 effective as if included in the Energy Independence and Security Act of 2007, Pub. L. 110–140, see section 10(a)(13) of Pub. L. 112–210, set out as a note under section 6291 of this title.
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Market Assessments and Consumer Awareness Program
 

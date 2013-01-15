@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a group of physicians that is organized at least in part for the purpose of providing physician's services under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) an integrated health care delivery system that delivers care through coordinated hospitals, clinics, home health agencies, ambulatory surgery centers, skilled nursing facilities, rehabilitation facilitiesand clinics, and employed, independent, or contracted physicians; or
+&emsp;&emsp;&emsp;(ii) an integrated health care delivery system that delivers care through coordinated hospitals, clinics, home health agencies, ambulatory surgery centers, skilled nursing facilities, rehabilitation facilities and clinics, and employed, independent, or contracted physicians; or
 
 &emsp;&emsp;&emsp;(iii) an organization representing regional coalitions of groups or systems described in clause (i) or (ii).
 

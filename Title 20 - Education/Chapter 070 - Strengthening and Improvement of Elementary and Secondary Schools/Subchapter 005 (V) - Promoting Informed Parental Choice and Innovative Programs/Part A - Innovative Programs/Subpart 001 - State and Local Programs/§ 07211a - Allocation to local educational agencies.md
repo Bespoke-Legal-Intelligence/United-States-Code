@@ -48,7 +48,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (B) Review of criteria
 
-&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjusted allocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
+&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjustedallocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
 
 #### (d) Payment of allocations
 
@@ -68,7 +68,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (C) Rule of construction
 
-&emsp;&emsp;Subparagraphs (A) and (B) may not be construed to require any school to limit the useof the additional funds described in subparagraph (A) to the provision of services to specific students or categories of students.
+&emsp;&emsp;Subparagraphs (A) and (B) may not be construed to require any school to limit the use of the additional funds described in subparagraph (A) to the provision of services to specific students or categories of students.
 
 (Pub. L. 89–10, title V, §5112, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1777.)
 

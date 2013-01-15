@@ -4,7 +4,7 @@
 
 (b) In addition to employees of the Department of Commerce, employees of other departments and independent offices of the Government may, with the consent of the head of the respective department or office, be employed and compensated for field work in connection with the work provided for by law without regard to section 301 of the Dual Compensation Act.
 
-(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
+(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees ofprivate organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 86–769, §2, Sept. 13, 1960, 74 Stat. 911; Pub. L. 88–448, title IV, §401(p), Aug. 19, 1964, 78 Stat. 492; Pub. L. 94–521, §12(b), Oct. 17, 1976, 90 Stat. 2465.)
 
@@ -30,7 +30,7 @@ Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this 
 
 #### References in Text
 
-The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended,which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
+Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Temporary Positions Relating to Decennial Censuses
 
@@ -96,7 +96,7 @@ Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 215, provided that: “Serv
 
 Pub. L. 101–86, Aug. 16, 1989, 103 Stat. 593, as amended by Pub. L. 101–293, §1, May 17, 1990, 104 Stat. 192, provided that Federal annuitants or former members of the uniformed services who return to Government service under temporary appointments to assist in carrying out the 1990 decennial census of population would be exempt from certain provisions of Title 5, Government Organization and Employees, relating to offsets from pay and other benefits.
 
-\[Section 2 of Pub. L. 101–293 provided that amendment of Pub. L. 101–86 by Pub. L. 101–293 may not be considered to make an exemption under Pub. L. 101–86 applicable to any service performed before May 17, 1990, which was in excess of that allowable under Pub. L. 101–86 (as then in effect).\]
+\[Pub. L. 101–293, §2, May 17, 1990, 104 Stat. 192, provided that amendment of Pub. L. 101–86 by Pub. L. 101–293 may not be considered to make an exemption under Pub. L. 101–86 applicable to any service performed before May 17, 1990, which was in excess of that allowable under Pub. L. 101–86 (as then in effect).\]
 
 #### Policy and Practices of Bureau of Census Regarding Use of Temporary Staff; Publication
 

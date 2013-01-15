@@ -10,7 +10,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(A)(i) to finance the non-Federal share of construction and operation and maintenance costs of a navigation project for a harbor under the requirements of section 2211 of this title; or
 
-&emsp;&emsp;(ii) to finance the cost of construction and operation and maintenance of a navigationproject for a harbor under section 2232 or 2233 of this title; and
+&emsp;&emsp;(ii) to finance the cost of construction and operation and maintenance of a navigation project for a harbor under section 2232 or 2233 of this title; and
 
 &emsp;&emsp;(B) provide emergency response services in the harbor, including contingency planning, necessary personnel training, and the procurement of equipment and facilities.
 
@@ -44,7 +44,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;Port or harbor dues may be levied only on a vessel entering or departing from a harbor and its cargo on a fair and equitable basis. In formulating port and harbor dues, the non-Federal interest shall consider—
 
-&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, and providing the facilities and services under paragraph (1) of this subsection;
+&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, andproviding the facilities and services under paragraph (1) of this subsection;
 
 &emsp;&emsp;(B) the value of those facilities and services to the vessel and cargo;
 

@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, orhas the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 
@@ -80,7 +80,7 @@ Transition rule for well capitalized savings associations.—
 
 &emsp;“(i)
 
-In general.—A savings association that is well capitalized (as defined in section 1831<i>o</i> of this title), as determined without including goodwill in calculating core capital, shall be treated as a bank for purposes of section 371c(d)(1) of this title and section 371c–1 of this title.
+In general.—A savings association that is well capitalized (as defined in section 1831o of this title), as determined without including goodwill in calculating core capital, shall be treated as a bank for purposes of section 371c(d)(1) of this title and section 371c–1 of this title.
 
 &emsp;“(ii)
 
@@ -102,15 +102,15 @@ Amendment by section 608(c) of Pub. L. 111–203 effective 1 year after the tran
 
 #### Effective Date of 1994 Amendment
 
-Section 316(b) of Pub. L. 103–325 provided that amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–325, title III, §316(b), Sept. 23, 1994, 108 Stat. 2223, provided that amendment made by that section is effective Jan. 1, 1995.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(<i>l</i>) of Pub. L. 102–242, set out as a note under section 375b of this title.
+Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
 
 #### Transitional Rule for Certain Transactions With Affiliates
 
-Section 304 of Pub. L. 101–73 provided that:
+Pub. L. 101–73, title III, §304, Aug. 9, 1989, 103 Stat. 351, provided that:
 
 “(a)
 

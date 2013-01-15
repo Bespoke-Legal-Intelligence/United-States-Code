@@ -76,7 +76,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[titleVIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
 
 #### References in Text
 
@@ -122,9 +122,9 @@ Pub. L. 109–58, title VI, §637(c), Aug. 8, 2005, 119 Stat. 791, provided that
 
 #### Effective Date of 1992 Amendment
 
-Section 2903(b) of Pub. L. 102–486 provided that: “The amendments made \[by\] subsection (a) \[amending this section\] shall apply to annual charges assessed under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 \[42 U.S.C. 2214(c)\] for fiscal year 1992 or any succeeding fiscal year.”
+Pub. L. 102–486, title XXIX, §2903(b), Oct. 24, 1992, 106 Stat. 3125, provided that: “The amendments made \[by\] subsection (a) \[amending this section\] shall apply to annual charges assessed under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 \[42 U.S.C. 2214(c)\] for fiscal year 1992 or any succeeding fiscal year.”
 
 #### Policy Review
 
-Section 2903(c) of Pub. L. 102–486 provided that: “The Nuclear Regulatory Commission shall review its policy for assessment of annual charges under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 \[42 U.S.C. 2214(c)\], solicit public comment on the need for changes to such policy, and recommend to the Congress such changes in existing law as the Commission finds are needed to prevent the placement of an unfair burden on certain licensees of the Commission, in particular those that hold licenses to operate federally owned research reactors used primarily for educational training and academic research purposes.”
+Pub. L. 102–486, title XXIX, §2903(c), Oct. 24, 1992, 106 Stat. 3125, provided that: “The Nuclear Regulatory Commission shall review its policy for assessment of annual charges under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 \[42 U.S.C. 2214(c)\], solicit public comment on the need for changes to such policy, and recommend to the Congress such changes in existing law as the Commission finds are needed to prevent the placement of an unfair burden on certain licensees of the Commission, in particular those that hold licenses to operate federally owned research reactors used primarily for educational training and academic research purposes.”
 

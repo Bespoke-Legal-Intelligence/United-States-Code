@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Effective Date of 1993 Amendment
 
-Section 3506 of title XXXV of div. C of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. C, title XXXV, §3506, Nov. 30, 1993, 107 Stat. 1966, provided that:
 
 “(a)
 

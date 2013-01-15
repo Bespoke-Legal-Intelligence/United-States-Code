@@ -4,7 +4,7 @@ Section, Pub. L. 91–524, title VIII, §812, as added Pub. L. 93–86, §1(27)(
 
 #### Effective Date of Repeal
 
-Section 1578 of Pub. L. 101–624 provided that the repeal is effective on the effective date of regulations promulgated under section 5664 of this title. Implementing regulations were promulgated and published in the Federal Register as follows:
+Pub. L. 101–624, title XV, §1578, Nov. 28, 1990, 104 Stat. 3702, provided that the repeal of this section is effective upon the effective date of regulations promulgated under former section 5664 of this title, as amended by title XV of Pub. L. 101–624. Implementing regulations were promulgated and published in the Federal Register as follows:
 
 May 30, 1991, eff. July 8, 1991, 56 F.R. 25998.
 

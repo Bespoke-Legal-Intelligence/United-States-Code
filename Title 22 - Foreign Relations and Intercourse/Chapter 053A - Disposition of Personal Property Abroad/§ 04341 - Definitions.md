@@ -38,7 +38,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 #### Effective Date
 
-Section 186(b) of Pub. L. 100–204 provided that: “This section \[enacting this chapter\] shall take effect 180 days after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title I, §186(b), Dec. 22, 1987, 101 Stat. 1368, provided that: “This section \[enacting this chapter\] shall take effect 180 days after the date of enactment of this Act \[Dec. 22, 1987\].”
 
 #### Termination of Trust Territory of the Pacific Islands
 

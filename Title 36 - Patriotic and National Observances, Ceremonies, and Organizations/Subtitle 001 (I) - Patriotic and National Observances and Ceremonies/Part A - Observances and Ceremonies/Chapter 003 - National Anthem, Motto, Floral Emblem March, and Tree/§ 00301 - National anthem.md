@@ -14,7 +14,7 @@ Conduct During Playing.—During a rendition of the national anthem—
 
 &emsp;&emsp;(B) members of the Armed Forces and veterans who are present but not in uniform may render the military salute in the manner provided for individuals in uniform; and
 
-&emsp;&emsp;(C) all other persons present should face the flag and stand at attention with their right hand over the heart, and men not in uniform, if applicable, should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart; and
+&emsp;&emsp;(C) all other persons present should face the flag and stand at attention with theirright hand over the heart, and men not in uniform, if applicable, should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart; and
 
 &emsp;(2) when the flag is not displayed, all present should face toward the music and act in the same manner they would if the flag were displayed.
 

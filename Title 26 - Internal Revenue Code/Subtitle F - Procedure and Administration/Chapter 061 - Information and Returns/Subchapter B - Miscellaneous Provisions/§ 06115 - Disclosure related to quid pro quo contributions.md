@@ -20,5 +20,5 @@ A prior section 6115 was renumbered section 6116 of this title.
 
 #### Effective Date
 
-Section 13173(d) of Pub. L. 103–66 provided that: “The provisions of this section \[enacting this section and section 6714 of this title and renumbering former section 6115 as 6116 of this title\] shall apply to quid pro quo contributions made on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13173(d), Aug. 10, 1993, 107 Stat. 457, provided that: “The provisions of this section \[enacting this section and section 6714 of this title and renumbering former section 6115 as 6116 of this title\] shall apply to quid pro quo contributions made on or after January 1, 1994.”
 

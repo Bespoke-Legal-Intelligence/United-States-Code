@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 
-&emsp;&emsp;&emsp;(ii) the vehicle is transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and is not otherwise regulated by the Secretary or is transporting a consumer commodity or limited quantity of hazardous material as definedin section 171.8 of title 49, Code of Federal Regulations; and
+&emsp;&emsp;&emsp;(ii) the vehicle is transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and is not otherwise regulated by the Secretary or is transporting a consumer commodity or limited quantity of hazardous material as defined in section 171.8 of title 49, Code of Federal Regulations; and
 
 &emsp;&emsp;&emsp;(iii) the Secretary does not deny the application of this exception to the vehicle (individually or as part of a class of motor vehicles) in the interest of safety.
 
@@ -36,11 +36,13 @@ In this chapter—
 
 &emsp;(9) “felony” means an offense under a law of the United States or a State that is punishable by death or imprisonment for more than one year.
 
-&emsp;(10) “hazardous material” has the same meaning given that term in section 5102 of this title.
+&emsp;(10) “foreign commercial driver” means an individual licensed to operate a commercial motor vehicle by an authority outside the United States, or a citizen of a foreign country who operates a commercial motor vehicle in the United States.
 
-&emsp;(11) “motor vehicle” means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on public streets, roads, or highways, but does not include a vehicle, machine, tractor, trailer, or semitrailer operated only on a rail line or custom harvesting farm machinery.
+&emsp;(11) “hazardous material” has the same meaning given that term in section 5102 of this title.
 
-&emsp;(12) “serious traffic violation” means—
+&emsp;(12) “motor vehicle” means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on public streets, roads, or highways, but does not include a vehicle, machine, tractor, trailer, or semitrailer operated only on a rail line or custom harvesting farm machinery.
+
+&emsp;(13) “serious traffic violation” means—
 
 &emsp;&emsp;(A) excessive speeding, as defined by the Secretary by regulation;
 
@@ -60,11 +62,11 @@ In this chapter—
 
 &emsp;&emsp;(G) any other similar violation of a State or local law on motor vehicle traffic control (except a parking violation) that the Secretary designates by regulation as serious.
 
-&emsp;(13) “State” means a State of the United States and the District of Columbia.
+&emsp;(14) “State” means a State of the United States and the District of Columbia.
 
-&emsp;(14) “United States” means the States of the United States and the District of Columbia.
+&emsp;(15) “United States” means the States of the United States and the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014; Pub. L. 105–178, title IV, §4011(a), June 9, 1998, 112 Stat. 407; Pub. L. 106–159, title II, §201(a)(3), (c), Dec. 9, 1999, 113 Stat. 1759, 1760.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014; Pub. L. 105–178, title IV, §4011(a), June 9, 1998, 112 Stat. 407; Pub. L. 106–159, title II, §201(a)(3), (c), Dec. 9, 1999, 113 Stat. 1759, 1760; Pub. L. 112–141, div. C, title II, §32203(a), July 6, 2012, 126 Stat. 784.)
 
 Historical and Revision Notes
 
@@ -150,6 +152,8 @@ In clause (12)(C), the words “involving a fatality” are substituted for “a
 
 #### Amendments
 
+<b>2012</b>—Pars. (10) to (15). Pub. L. 112–141 added par. (10) and redesignated former pars. (10) to (14) as (11) to (15), respectively.
+
 <b>1999</b>—Par. (12)(C). Pub. L. 106–159, §201(a)(3), inserted “, other than a violation to which section 31310(b)(1)(E) or 31310(c)(1)(E) applies” after “a fatality”.
 
 Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
@@ -158,9 +162,91 @@ Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and 
 
 Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “transporting” in two places and before “not otherwise regulated”.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Program To Assist Veterans To Acquire Commercial Driver's Licenses
+
+Pub. L. 112–141, div. C, title II, §32308, July 6, 2012, 126 Stat. 794, provided that:
+
+“(a)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\], in coordination with the Secretary of Defense, and in consultation with the States and other relevant stakeholders, shall commence a study to assess Federal and State regulatory, economic, and administrative challenges faced by members and former members of the Armed Forces, who received safety training and operated qualifying motor vehicles during their service, in obtaining commercial driver's licenses (as defined in section 31301(3) of title 49, United States Code).
+
+&emsp;“(2)
+
+Requirements.—The study under this subsection shall—
+
+&emsp;&emsp;“(A) identify written and behind-the-wheel safety training, qualification standards, knowledge and skills tests, or other operating experience members of the Armed Forces must meet that satisfy the minimum standards prescribed by the Secretary of Transportation for the operation of commercial motor vehicles under section 31305 of title 49, United States Code;
+
+&emsp;&emsp;“(B) compare the alcohol and controlled substances testing requirements for members of the Armed Forces with those required for holders of a commercial driver's license;
+
+&emsp;&emsp;“(C) evaluate the cause of delays in reviewing applications for commercial driver's licenses of members and former members of the Armed Forces;
+
+&emsp;&emsp;“(D) identify duplicative application costs;
+
+&emsp;&emsp;“(E) identify residency, domicile, training and testing requirements, and other safety or health assessments that affect or delay the issuance of commercial driver's licenses to members and former members of the Armed Forces; and
+
+&emsp;&emsp;“(F) include other factors that the Secretary determines to be appropriate to meet the requirements of the study.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the commencement of the study under subsection (a), the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Financial Services of the House of Representatives that contains the findings and recommendations from the study.
+
+&emsp;“(2)
+
+Elements.—The report under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) findings related to the study requirements under subsection (a)(2);
+
+&emsp;&emsp;“(B) recommendations for the Federal and State legislative, regulatory, and administrative actions necessary to address challenges identified in subparagraph (A); and
+
+&emsp;&emsp;“(C) a plan to implement the recommendations for which the Secretary has authority.
+
+“(c)
+
+Implementation.—Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Defense and in cooperation with the States, shall implement the recommendations identified in subsection (b) and establish accelerated licensing procedures to assist veterans to acquire commercial driver's licenses.
+
+“(d)
+
+Accelerated Licensing Procedures.—The procedures established under subsection (a) shall be designed to be applicable to any veteran who—
+
+&emsp;“(1) is attempting to acquire a commercial driver's license; and
+
+&emsp;“(2) obtained, during military service, documented driving experience that, in the determination of the Secretary, makes the use of accelerated licensing procedures appropriate.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Commercial driver's license.—The term ‘commercial driver's license’ has the meaning given that term in section 31301 of title 49, United States Code.
+
+&emsp;“(2)
+
+State.—The term ‘State’ has the meaning given that term in section 31301 of title 49, United States Code.
+
+&emsp;“(3)
+
+Veteran.—The term ‘veteran’ has the meaning given that term in section 101 of title 38, United States Code.”
+
+#### Exemptions From Requirements of This Chapter for Certain Farm Vehicles
+
+For provisions relating to exemptions from certain requirements of this chapter with respect to certain farm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
+
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h),Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349, provided that:
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808, provided that:
 
 “(a)
 
@@ -172,7 +258,7 @@ Federal Share.—The Federal share of the cost for which a grant is made under t
 
 “(c)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2011 and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012, to carry out this section.”
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2014 to carry out this section.”
 
 #### CDL Task Force
 

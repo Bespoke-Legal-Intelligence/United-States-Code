@@ -28,7 +28,7 @@ Congressional medal of honor defined.—In this subsection, the term “Congress
 
 (d)
 
-Enhanced Penalty for Offenses Involving Certain Other Medals.—If a decoration or medal involved in an offense described in subsection (a) or (b) is a distinguished-service cross awarded under section 3742 of title 10, a Navy cross awarded under section 6242 of title 10, an Air Force cross awarded under section 8742 of section 10, a silver star awarded under section 3746, 6244, or 8746 of title 10, a Purple Heart awarded under section 1129 of title 10, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
+Enhanced Penalty for Offenses Involving Certain Other Medals.—If a decoration or medal involved in an offense described in subsection (a) or (b) is a distinguished-service cross awarded under section 3742 of title 10, a Navy cross awarded under section 6242 of title 10, an Air Force cross awarded under section 8742 of section <sup>1</sup> 10, a silver star awarded under section 3746, 6244, or 8746 of title 10, a Purple Heart awarded under section 1129 of title 10, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, §604(b)(16), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–107, div. A, title V, §553(e), Dec. 28, 2001, 115 Stat. 1117; Pub. L. 109–437, §3, Dec. 20, 2006, 120 Stat. 3266.)
 
@@ -44,7 +44,11 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
+This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch ofsuch forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as added and amended by section 3 of Pub. L. 109–437, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -60,7 +64,7 @@ Subsec. (c)(2). Pub. L. 109–437, §3(d)(2), added par. (2) and struck out form
 
 Subsec. (d). Pub. L. 109–437, §3(c), added subsec. (d).
 
-<b>2001</b>—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
+<b>2001</b>—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, §320109(1). See 1994 Amendment note below.
 
@@ -87,4 +91,6 @@ Pub. L. 109–437, §2, Dec. 20, 2006, 120 Stat. 3266, provided that: “Congres
 &emsp;“(2) Federal law enforcement officers have limited ability to prosecute fraudulent claims of receipt of military decorations and medals.
 
 &emsp;“(3) Legislative action is necessary to permit law enforcement officers to protect the reputation and meaning of military decorations and medals.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
 

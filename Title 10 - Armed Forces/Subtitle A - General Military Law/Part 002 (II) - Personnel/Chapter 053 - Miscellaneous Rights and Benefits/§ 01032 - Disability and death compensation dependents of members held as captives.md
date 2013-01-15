@@ -36,13 +36,13 @@ Subsec. (d)(1), (2). Pub. L. 100–26, §3(8), amended directory language of Pub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted onNov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date
 
-Section 806(b)(3) of Pub. L. 99–399 provided that: “Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
+Pub. L. 99–399, title VIII, §806(b)(3), Aug. 27, 1986, 100 Stat. 886, provided that: “Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 4 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+Functions of President under this section delegated to Secretary of Defense, see section 4 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 

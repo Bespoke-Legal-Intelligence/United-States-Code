@@ -72,7 +72,7 @@ This subchapter, referred to in subsec. (b)(4), was in the original “this Act�
 
 #### Effective Date
 
-Section 12, formerly §11, of Pub. L. 98–621, renumbered §12, Pub. L. 102–150, §4(1), Oct. 31, 1991, 105 Stat. 981, provided that:
+Pub. L. 98–621, §12, formerly §11, Nov. 8, 1984, 98 Stat. 3382, renumbered §12, Pub. L. 102–150, §4(1), Oct. 31, 1991, 105 Stat. 981, provided that:
 
 “(a) Except as provided in subsection (b), this Act \[see Short Title note below\] shall take effect on October 1, 1985.”
 
@@ -80,9 +80,9 @@ Section 12, formerly §11, of Pub. L. 98–621, renumbered §12, Pub. L. 102–1
 
 #### Short Title of 1991 Amendment
 
-Section 1 of Pub. L. 102–150 provided that: “This Act \[enacting section 225h of this title, amending this section and sections 225b and 225f of this title, and renumbering provisions set out as a note under this section\] may be cited as the ‘District of Columbia Mental Health Program Assistance Act of 1991’.”
+Pub. L. 102–150, §1, Oct. 31, 1991, 105 Stat. 980, provided that: “This Act \[enacting section 225h of this title, amending this section and sections 225b and 225f of this title, and renumbering provisions set out as a note under this section\] may be cited as the ‘District of Columbia Mental Health Program Assistance Act of 1991’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 98–621 provided that: “This Act \[enacting this subchapter, amending section 324 of this title, repealing sections 161, 164 to 166, 168, 168a, 169, 169a, 170 to 172, 175 to 177, 180 to 185, 191, 192, 194, 195, 195a, 196, 196b, 197 to 204, 206, 211 to 214, 221, and 222 of this title and section 300aa–3 of Title 42, The Public Health and Welfare\] may be cited as the ‘Saint Elizabeths Hospital and District of Columbia Mental Health Services Act’.”
+Pub. L. 98–621, §1, Nov. 8, 1984, 98 Stat. 3369, provided that: “This Act \[enacting this subchapter, amending section 324 of this title, repealing sections 161, 164 to 166, 168, 168a, 169, 169a, 170 to 172, 175 to 177, 180 to 185, 191, 192, 194, 195, 195a, 196, 196b, 197 to 204, 206, 211 to 214, 221, and 222 of this title and section 300aa–3 of Title 42, The Public Health and Welfare\] may be cited as the ‘Saint Elizabeths Hospital and District of Columbia Mental Health Services Act’.”
 

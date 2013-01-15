@@ -22,7 +22,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Chapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-#### Soybean Research Advisory Institute; Establishment, Composition, Etc.
+#### Soybean Research Advisory Institute
 
-Section 1446 of Pub. L. 97–98 provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by Pub. L. 99–198, title XIV, §1434, Dec. 23, 1985, 99 Stat. 1557.
+Pub. L. 97–98, title XIV, §1446, Dec. 22, 1981, 95 Stat. 1327, provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by Pub. L. 99–198, title XIV, §1434, Dec. 23, 1985, 99 Stat. 1557.
 

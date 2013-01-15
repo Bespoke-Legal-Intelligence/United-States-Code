@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 96–374 substituted provisions authorizing appropriations 
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–318, §135, substituted “with great financial need” for “from low-income families”.
 
-Subsec. (b). Pub. L. 92–318, §135A(a), authorized appropriations of $330,000,000, $360,000,000, $390,000,000, and $420,000,000 for fiscal years ending June 30, 1972, 1973, 1974, and 1975, respectively.
+Subsec. (b). Pub. L. 92–318, §135A(a), authorized appropriations of $330,000,000, $360,000,000, $390,000,000, and$420,000,000 for fiscal years ending June 30, 1972, 1973, 1974, and 1975, respectively.
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–95 increased general authorization of appropriations for fiscal years ending June 30, 1970, and June 30, 1971.
 
@@ -106,11 +106,11 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 #### Effective Date of 1972 Amendment
 
-Section 135A(b) of Pub. L. 92–318 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective after June 30, 1971.”
+Pub. L. 92–318, title I, §135A(b), June 23, 1972, 86 Stat. 270, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective after June 30, 1971.”
 
 #### References to Part C of Title I of the Economic Opportunity Act of 1964
 
-Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
+Pub. L. 90–575, title I, §131(c), Oct. 16, 1968, 82 Stat. 1028, provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

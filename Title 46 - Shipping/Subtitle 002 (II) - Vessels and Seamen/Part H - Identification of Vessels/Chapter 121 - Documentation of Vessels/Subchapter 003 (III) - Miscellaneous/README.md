@@ -14,3 +14,4 @@
 - [&sect; 12137 - Recording of vessels built in the United States](%C2%A7%2012137%20-%20Recording%20of%20vessels%20built%20in%20the%20United%20States.md)
 - [&sect; 12138 - List of documented vessels](%C2%A7%2012138%20-%20List%20of%20documented%20vessels.md)
 - [&sect; 12139 - Reports](%C2%A7%2012139%20-%20Reports.md)
+- [&sect; 12140 - Investigations by Secretary](%C2%A7%2012140%20-%20Investigations%20by%20Secretary.md)

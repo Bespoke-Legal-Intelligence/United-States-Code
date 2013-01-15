@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may byregulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 96–39, §807(a)(15)(B), substituted “from bonded premis
 
 #### Effective Date of 1997 Amendment
 
-Section 1412(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1412(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Continuation of Distiller's Notice and Bond
 
-Section 210(f) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any provision of section 5175 or 5176(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Secretary of the Treasury or his delegate may waive, as to registered distillers or registered fruit distillers qualified to operate under bond on April 30, 1959, requirements for filing notice and executing new bond on May 1, 1959, if the distiller and the surety have executed consent to continuation of the terms of the existing bond to cover operations from May 1, 1959, to June 30, 1959, both dates inclusive. Nothing in this subsection shall be construed as limiting the authority of the Secretary of the Treasury or his delegate under section 5176(b) or (c) of the Internal Revenue Code of 1986.”
+Pub. L. 85–859, title II, §210(f), Sept. 2, 1958, 72 Stat. 1436, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any provision of section 5175 or 5176(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Secretary of the Treasury or his delegate may waive, as to registered distillers or registered fruit distillers qualified to operate under bond on April 30, 1959, requirements for filing notice and executing new bond on May 1, 1959, if the distiller and the surety have executed consent to continuation of the terms of the existing bond to cover operations from May 1, 1959, to June 30, 1959, both dates inclusive. Nothing in this subsection shall be construed as limiting the authority of the Secretary of the Treasury or his delegate under section 5176(b) or (c) of the Internal Revenue Code of 1986.”
 

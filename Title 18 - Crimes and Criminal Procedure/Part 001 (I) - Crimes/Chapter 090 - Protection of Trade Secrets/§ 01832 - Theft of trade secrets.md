@@ -1,6 +1,6 @@
 ### §1832. Theft of trade secrets
 
-(a) Whoever, with intent to convert a trade secret, that is related to or included in a productthat is produced for or placed in interstate or foreign commerce, to the economic benefit of anyone other than the owner thereof, and intending or knowing that the offense will, injure any owner of that trade secret, knowingly—
+(a) Whoever, with intent to convert a trade secret, that is related to a product or service used in or intended for use in interstate or foreign commerce, to the economic benefit of anyone other than the owner thereof, and intending or knowing that the offense will, injure any owner of that trade secret, knowingly—
 
 &emsp;(1) steals, or without authorization appropriates, takes, carries away, or conceals, or by fraud, artifice, or deception obtains such information;
 
@@ -16,5 +16,9 @@
 
 (b) Any organization that commits any offense described in subsection (a) shall be fined not more than $5,000,000.
 
-(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489.)
+(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 112–236, §2, Dec. 28, 2012, 126 Stat. 1627.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–236 substituted “a product or service used in or intended for use in” for “or included in a product that is produced for or placed in” in introductory provisions.
 

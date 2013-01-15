@@ -80,7 +80,7 @@ The following Federal standards are hereby established:
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 
-&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
+&emsp;(A) To the extent that a State regulatory authority requires or allows electric utilitiesfor which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
 
 &emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
@@ -124,7 +124,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(iv) credits for consumers with large loads who enter into pre-established peak load reduction agreements that reduce a utility's planned capacity obligations.
 
-&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based meter capable of enabling the utility and customer to offer and receive such rate, respectively.
+&emsp;(C) Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based metercapable of enabling the utility and customer to offer and receive such rate, respectively.
 
 &emsp;(D) For purposes of implementing this paragraph, any reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005.
 
@@ -268,7 +268,7 @@ Nothing in amendment by section 712 of Pub. L. 102–486 to be construed as affe
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 
-Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit a report to the President and to the Congress containing—
+Pub. L. 102–486, title I, §111(e), Oct. 24, 1992, 106 Stat. 2796, provided that: “Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit a report to the President and to the Congress containing—
 
 &emsp;“(1) a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (7), (8), and (9) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 2621(d)(7)–(9)\];
 
@@ -288,7 +288,7 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 
 #### Study Concerning Electric Rates of State Utility Agencies
 
-Section 601 of Pub. L. 95–617 directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
+Pub. L. 95–617, title VI, §601, Nov. 9, 1978, 92 Stat. 3164, directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

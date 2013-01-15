@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Skills Verification.—The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (b)
 
@@ -28,9 +28,11 @@ Employment Skills Training.—(1) The Secretary of a military department may car
 
 (3) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
@@ -74,7 +76,7 @@ Report.—Not later than 540 days after the date of the commencement of the pilo
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
-Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, authorized the Secretary of Defense to establish a demonstration program to promote training and employment of veterans in construction and hazardous waste remediation industries and to make grants under the program to organizations that had met certain eligibility criteria, and directed the Secretary to obligate the funds to carry out the program not later than Oct. 1, 1994, and to submit to Congress interim and final reports not later than Dec. 31, 1995.
+Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, authorized the Secretary of Defense to establish a demonstration program to promote training and employment of veterans in construction and hazardous waste remediation industries and to make grants under the program to organizations that had met certain eligibility criteria, and directed the Secretary to obligate the funds to carry out the programnot later than Oct. 1, 1994, and to submit to Congress interim and final reports not later than Dec. 31, 1995.
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
@@ -134,7 +136,7 @@ Reimbursement.—Upon submission to the Secretary of Defense of a request for re
 
 “(g)
 
-Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat.2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
+Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
 
 “(h)
 
@@ -142,7 +144,7 @@ Application to Coast Guard.—The Secretary of Homeland Security may implement t
 
 #### Service Members Occupational Conversion and Training
 
-Section 543(g)(2) of Pub. L. 103–337 provided that: “As soon as possible after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of the Service Members Occupational Conversion and Training Act of 1992 (subtitle G of title XLIV of Public Law 102–484; 10 U.S.C. 1143 note) for the Coast Guard.”
+Pub. L. 103–337, div. A, title V, §543(g)(2), Oct. 5, 1994, 108 Stat. 2772, provided that: “As soon as possible after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of the Service Members Occupational Conversion and Training Act of 1992 (subtitle G of title XLIV of Public Law 102–484; 10 U.S.C. 1143 note) for the Coast Guard.”
 
 Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757, as amended by Pub. L. 103–160, div. A, title XIII, §1338, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title V, §543(g)(1), Oct. 5, 1994, 108 Stat. 2772; Pub. L. 103–446, title VI, §610(a)(1), (2)(A), (b), (c), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(D), (f)(6)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
 
@@ -332,7 +334,7 @@ Withholding Approval; Disapproval.—In accordance with regulations which the Se
 
 “(h)
 
-On-Job Training.—For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of section 3687 of title 38, United States Code, shall be considered to meet all requirements established under the provisions of this subtitle (other than subsection (b) and (d)(3)) for approval of a program of job training.
+On-Job Training.—For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of section 3687 of title38, United States Code, shall be considered to meet all requirements established under the provisions of this subtitle (other than subsection (b) and (d)(3)) for approval of a program of job training.
 
 #### “SEC. 4487. PAYMENTS TO EMPLOYERS; OVERPAYMENT.
 
@@ -450,7 +452,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
-“(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of jobtraining of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
+“(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
 “(b)
 
@@ -522,7 +524,7 @@ Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and th
 
 “(d)
 
-Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small businessconcerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
+Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
 
 “(e)
 
@@ -536,7 +538,7 @@ Collection of Certain Information.—The Secretary of Labor shall, on a not less
 
 “(a)
 
-In General.—(1) Of the amounts authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $75,000,000 shall be made available for the purpose of making payments to employers under this subtitle. Of the amounts made available pursuant to section 1302(a) of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160, 107 Stat. 1783\], $25,000,000 shall be made available for the purpose of making payments to employers under this subtitle. The Secretary of Veterans Affairs and the Secretary of Labor shall submit an estimate to the Secretary of the amount needed to carry out any agreement entered into under section 4484(a), including administrative costs referred to in paragraph (3). Such agreements shall include administrative procedures to ensure the prompt and timely payments to employers by the implementing official.
+In General.—(1) Of the amounts authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $75,000,000 shall be made available for the purpose of making payments to employers under this subtitle. Of the amounts made available pursuant to section 1302(a) of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160, 107 Stat. 1783\], $25,000,000 shall be made available for the purpose of making payments to employers under this subtitle. The Secretary of Veterans Affairs and the Secretary of Labor shall submit an estimate to the Secretary of the amount needed to carry out any agreement entered into under section 4484(a), including administrative costs referred to in paragraph (3). Such agreementsshall include administrative procedures to ensure the prompt and timely payments to employers by the implementing official.
 
 “(2) Amounts made available pursuant to this section for a fiscal year shall remain available until the end of the second fiscal year following the fiscal year in which such amounts were appropriated.
 
@@ -564,7 +566,7 @@ Contingent Amendment.—If a transfer is made in accordance with section 4501(c)
 
 Publication in the Federal Register.—If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred.”
 
-\[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
+\[Pub. L. 103–446, title VI, §610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -120,7 +120,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) In general
 
-&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part of the application process for the next program funding year under this subchapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
+&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part ofthe application process for the next program funding year under this subchapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
 
 #### (B) Process
 
@@ -140,7 +140,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certificationotherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
@@ -228,7 +228,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that:“The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
 
@@ -240,7 +240,7 @@ In general.—Notwithstanding any other provision of law, funds available under 
 
 “(2)
 
-Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
+Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telecommunications\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
 

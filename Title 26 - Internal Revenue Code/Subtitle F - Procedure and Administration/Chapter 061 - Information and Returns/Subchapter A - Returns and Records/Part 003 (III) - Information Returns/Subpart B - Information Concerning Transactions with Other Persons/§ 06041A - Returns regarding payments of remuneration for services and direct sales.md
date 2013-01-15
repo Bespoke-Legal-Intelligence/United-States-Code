@@ -100,7 +100,7 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(3), is t
 
 #### Effective Date of 1997 Amendment
 
-Section 1022(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) is more than 90 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1022(b), Aug. 5, 1997, 111 Stat. 923, provided that: “The amendment made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) is more than 90 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date
 
-Section 312(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section and amending section 6678 of this title\] shall apply to payments and sales made after December 31, 1982.”
+Pub. L. 97–248, title III, §312(c), Sept. 3, 1982, 96 Stat. 603, provided that: “The amendments made by this section \[enacting this section and amending section 6678 of this title\] shall apply to payments and sales made after December 31, 1982.”
 

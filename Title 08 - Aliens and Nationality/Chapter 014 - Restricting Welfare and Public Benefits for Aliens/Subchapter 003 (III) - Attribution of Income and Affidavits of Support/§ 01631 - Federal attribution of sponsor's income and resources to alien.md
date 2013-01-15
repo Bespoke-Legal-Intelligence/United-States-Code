@@ -32,7 +32,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 #### (1) In general
 
-&emsp;For an alien for whom an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income andresources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
+&emsp;For an alien for whom an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
 
 #### (2) Determination described
 

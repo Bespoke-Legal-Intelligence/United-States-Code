@@ -98,31 +98,47 @@ Funds made available under this section shall not be used for the construction o
 
 #### (h) Funding
 
-#### (1) In general
+#### (1) Mandatory funding for fiscal years 2008 through 2012
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
 
-#### (2) Authorization of appropriations
+#### (2) Authorization of appropriations for fiscal years 2008 through 2012
 
 &emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2008 through 2012.
 
-#### (3) Transfer
+#### (3) Fiscal year 2013
 
-&emsp;Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title, the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental Protection Agency for use in conducting a meta-analysis relating to methyl bromide.
+&emsp;There is authorized to be appropriated to carry out this section $100,000,000 for fiscal year 2013.
 
-#### (4) Availability
+#### (4) Transfer
+
+&emsp;Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title, the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental ProtectionAgency for use in conducting a meta-analysis relating to methyl bromide.
+
+#### (5) Availability
 
 &emsp;Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.
 
-(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004.)
+(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub. L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364.)
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (h)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this section, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (h)(1). Pub. L. 112–240, §701(e)(2)(A), substituted “Mandatory funding for fiscal years 2008 through 2012” for “In general” in heading.
+
+Subsec. (h)(2). Pub. L. 112–240, §701(e)(2)(B), inserted “for fiscal years 2008 through 2012” after “appropriations” in heading.
+
+Subsec. (h)(3) to (5). Pub. L. 112–240, §701(e)(2)(C), (D), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 

@@ -58,9 +58,9 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 #### Effective Date of 1984 Amendment
 
-Section 1023(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title X, §1023(b), July 18, 1984, 98 Stat. 1030, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 1024(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1024(b), July 18, 1984, 98 Stat. 1030, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -80,5 +80,5 @@ Transitional rule.—In the case of an estate of a decedent dying before the dat
 
 #### Effective Date of 1970 Amendment
 
-Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
+Pub. L. 91–614, title I, §101(j), Dec. 31, 1970, 84 Stat. 1838, provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
 

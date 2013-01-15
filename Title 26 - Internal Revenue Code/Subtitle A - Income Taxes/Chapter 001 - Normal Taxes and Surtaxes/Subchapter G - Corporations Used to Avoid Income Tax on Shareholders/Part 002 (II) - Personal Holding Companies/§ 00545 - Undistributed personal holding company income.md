@@ -26,7 +26,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (5) Net capital gains
 
-&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minus the taxes imposed by this subtitle attributable to such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
+&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minusthe taxes imposed by this subtitle attributable to such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
 
 &emsp;&emsp;(A) the taxes imposed by this subtitle (except the tax imposed by this part) for such year, and
 
@@ -34,7 +34,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (6) Expenses and depreciation applicable to property of the taxpayer
 
-&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or businessexpenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
+&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) that the rent or other compensation received was the highest obtainable, or, if none was received, that none was obtainable;
 
@@ -84,7 +84,7 @@ Subsec. (c)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (c)(5). Pub. L. 94–455, §1901(b)(20)(B)(iii), substituted “subsection (b)(6)” for “subsection (b)(8)” after “company income under”.
 
-<b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted “section 170(b)(1)(A), (B), and (D)”, “section 170(b)(2) and (d)(1)” for “section 170(b)(1)(A) and (B)” and “section 170(b)(2) and (5)”, respectively, in provisions of first sentence setting out the sections appropriate to the computation of the deduction, and in provisions of second sentence describing applicability of terms for purposes of this paragraph, substituted “contribution base” and “section 170(b)(2) and (d)(1)” for “adjusted gross income” and “the first sentence of section 170(b)(2) and (5),” respectively.
+<b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted “section 170(b)(1)(A), (B), and (D)”, “section 170(b)(2) and (d)(1)” for “section 170(b)(1)(A) and (B)” and “section 170(b)(2) and (5)”, respectively, in provisions of first sentence setting out the sections appropriate to the computation of the deduction, and in provisions of second sentence describing applicability of terms for purposes of this paragraph, substituted “contribution base” and “section 170(b)(2) and (d)(1)” for “adjustedgross income” and “the first sentence of section 170(b)(2) and (5),” respectively.
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(h)(3)(A), substituted “in the manner provided in subsections (b), (c), and (d)” for “in the manner provided in subsection (b) and (c)” and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
 
@@ -142,7 +142,7 @@ Amendment by section 207(b)(5) of Pub. L. 88–272 applicable to taxable years b
 
 Amendment by section 209(c)(2) of Pub. L. 88–272 applicable to contributions paid in taxable years beginning after Dec. 31, 1963, see section 209(f)(1) of Pub. L. 88–272, set out as a note under section 170 of this title.
 
-Amendment by section 225(i)(1), (2) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>)(1) of Pub. L. 88–272 set out as a note under section 316 of this title.
+Amendment by section 225(i)(1), (2) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l)(1) of Pub. L. 88–272 set out as a note under section 316 of this title.
 
 #### Effective Date of 1962 Amendments
 
@@ -154,11 +154,11 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 Amendment by section 32(a) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 32(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §32(c), Sept. 2, 1958, 72 Stat. 1632, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1957.”
 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Section 1951(b)(9)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its income by reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
+Pub. L. 94–455, title XIX, §1951(b)(9)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: “Notwithstanding subparagraph (A) \[amending this section\], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its income by reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
 

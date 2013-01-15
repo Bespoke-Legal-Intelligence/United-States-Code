@@ -6,7 +6,11 @@
 
 (c) The Secretary of the Navy may change the name of any vessel bought for the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 448.)
+(d)(1) The Secretary of the Navy may not announce or implement any proposal to name a vessel of the Navy until 30 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such proposal.
+
+(2) Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1024(a) of the National Defense Authorization Act for Fiscal Year 2013.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 448; Pub. L. 112–239, div. A, title X, §1018(b), Jan. 2, 2013, 126 Stat. 1910.)
 
 Historical and Revision Notes
 
@@ -39,4 +43,26 @@ In subsection (a) the words “care shall be taken that” are omitted as surplu
 In subsection (b) the words “first class” are omitted as obsolete.
 
 In subsection (c) the words “by authority of law” are omitted as surplusage.
+
+#### References in Text
+
+Section 1024(a) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d)(2), is section 1024(a) of Pub. L. 112–239, which is set out as a note under section 801 of this title.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 added subsec. (d).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1018(c), Jan. 2, 2013, 126 Stat. 1911, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section shall go into effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 2, 2013\].”
+
+#### Findings
+
+Pub. L. 112–239, div. A, title X, §1018(a), Jan. 2, 2013, 126 Stat. 1910, provided that: “Congress makes the following findings:
+
+&emsp;“(1) The Navy traces its ancestry to October 13, 1775, when an Act of the Continental Congress authorized the first vessel of a navy for the United Colonies. Vessels of the Continental Navy were named for early patriots and military heroes, Federal institutions, colonial cities, and positive character traits representative of naval and military virtues.
+
+&emsp;“(2) An Act of Congress on March 3, 1819, made the Secretary of the Navy responsible for assigning names to vessels of the Navy. Traditional sources for vessel names customarily encompassed such categories as geographic locations in the United States; historic sites, battles, and ships; naval and military heroes and leaders; and noted individuals who made distinguished contributions to United States national security.
+
+&emsp;“(3) These customs and traditions provide appropriate and necessary standards for the naming of vessels of the Navy.”
 

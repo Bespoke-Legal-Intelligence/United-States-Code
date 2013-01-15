@@ -1,6 +1,6 @@
 ### §1621. Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation
 
-(a) With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency. Such proclamation shall immediately be transmitted to the Congress and published in the Federal Register.
+(a) With respect to Acts of Congress authorizing the exercise, during the period of a nationalemergency, of any special or extraordinary power, the President is authorized to declare such national emergency. Such proclamation shall immediately be transmitted to the Congress and published in the Federal Register.
 
 (b) Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms, referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
 
@@ -24,17 +24,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 9, 2011, 76 F.R. 56633, provided:
+Notice of President of the United States, dated Sept. 11, 2012, 77 F.R. 56517, provided:
 
-Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
+Consistent with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2011. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2012. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2011, 76 F.R. 56633.
 
 Notice of President of the United States, dated Sept. 10, 2010, 75 F.R. 55661.
 

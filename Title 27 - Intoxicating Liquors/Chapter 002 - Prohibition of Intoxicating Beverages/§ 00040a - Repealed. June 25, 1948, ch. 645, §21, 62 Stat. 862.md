@@ -4,5 +4,5 @@ Section, act Aug. 27, 1935, ch. 740, §204, 49 Stat. 878, related to remission o
 
 #### Effective Date of Repeal
 
-Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.
 

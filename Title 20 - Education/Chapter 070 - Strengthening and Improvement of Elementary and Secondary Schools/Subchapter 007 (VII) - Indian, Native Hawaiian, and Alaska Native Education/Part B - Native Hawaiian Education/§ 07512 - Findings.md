@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) A unified monarchal government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
-&emsp;(4) From 1826 until 1893, the United States recognized the sovereignty and independence of the Kingdom of Hawaii, which was established in 1810 under Kamehameha I, extended full and complete diplomatic recognition tothe Kingdom of Hawaii, and entered into treaties and conventions with the Kingdom of Hawaii to govern friendship, commerce and navigation in 1826, 1842, 1849, 1875, and 1887.
+&emsp;(4) From 1826 until 1893, the United States recognized the sovereignty and independence of the Kingdom of Hawaii, which was established in 1810 under Kamehameha I, extended full and complete diplomatic recognition to the Kingdom of Hawaii, and entered into treaties and conventions with the Kingdom of Hawaii to govern friendship, commerce and navigation in 1826, 1842, 1849, 1875, and 1887.
 
 &emsp;(5) In 1893, the sovereign, independent, internationally recognized, and indigenous government of Hawaii, the Kingdom of Hawaii, was overthrown by a small group of non-Hawaiians, including United States citizens, who were assisted in their efforts by the United States Minister, a United States naval representative, and armed naval forces of the United States. Because of the participation of United States agents and citizens in the overthrow of the Kingdom of Hawaii, in 1993 the United States apologized to Native Hawaiians for the overthrow and the deprivation of the rights of Native Hawaiians to self-determination through Public Law 103–150 (107 Stat. 1510).
 
@@ -106,11 +106,11 @@ Congress finds the following:
 
 &emsp;&emsp;(A) reaffirms and protects the unique right of the Native Hawaiian people to practice and perpetuate their culture and religious customs, beliefs, practices, and language;
 
-&emsp;&emsp;(B) recognizes the traditional language of the Native Hawaiian people as an official language of the State of Hawaii, which may be used as the language of instruction for all subjects and grades in the public school system; and
+&emsp;&emsp;(B) recognizes the traditional language of the Native Hawaiian people as an official language of the State of Hawaii, which maybe used as the language of instruction for all subjects and grades in the public school system; and
 
 &emsp;&emsp;(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932;amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
+(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to acquire on behalf of the United S
 
 #### References in Text
 
-Hereunder, referred to in text, means act Aug. 29, 1935, which is classified to sections 450<i>o</i> to 450q of this title. For complete classification of this Act to the Code, see Tables.
+Hereunder, referred to in text, means act Aug. 29, 1935, which is classified to sections 450o to 450q of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

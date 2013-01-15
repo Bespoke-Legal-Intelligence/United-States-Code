@@ -82,7 +82,7 @@ Embassy and consulate locations.—The owner of a vessel to which this section a
 
 Sexual Assault.—The owner of a vessel to which this section applies shall—
 
-&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications andother medications designed to prevent sexually transmitted diseases after a sexual assault;
 
 &emsp;(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
 
@@ -268,7 +268,7 @@ In general.—This section and section 3508 apply to a passenger vessel (as defi
 
 Federal and state vessels.—This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 
-(<i>l</i>)
+(l)
 
 Definitions.—In this section and section 3508:
 

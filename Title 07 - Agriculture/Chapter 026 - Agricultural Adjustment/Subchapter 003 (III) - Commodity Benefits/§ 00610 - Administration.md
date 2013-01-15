@@ -12,7 +12,7 @@ The Secretary of Agriculture may appoint such officers and employees, subject to
 
 (ii) Each order relating to any other commodity or product issued by the Secretary under this chapter shall provide that each handler subject thereto shall pay to any authority or agency established under such order such handler's pro rata share (as approved by the Secretary) of such expenses as the Secretary may find are reasonable and are likely to be incurred by such authority or agency, during any period specified by him, for such purposes as the Secretary may, pursuant to such order, determine to be appropriate, and for the maintenance and functioning of such authority or agency, other than expenses incurred in receiving, handling, holding, or disposing of any quantity of a commodity received, handled, held, or disposed of by such authority or agency for the benefit or account of persons other than handlers subject to such order. The pro rata share of the expenses payable by a cooperative association of producers shall be computed on the basis of the quantity of the agricultural commodity or product thereof covered by such order which is distributed, processed, or shipped by such cooperative association of producers. The payment of assessments for the maintenance and functioning of such authority or agency, as provided for herein, may be required under a marketing agreement or marketing order throughout the period the marketing agreement or order is in effect and irrespective of whether particular provisions thereof are suspended or become inoperative.
 
-(iii) Any authority or agency established under an order may maintain in its own name, or in the name of its members, a suit against any handler subject to an order for the collection of such handler's pro rata share of expenses. The several district courts of the United States are vested with jurisdiction to entertain such suits regardless of the amount in controversy.
+(iii) Any authority or agency established under an order may maintain in its own name, or in the name of its members, a suit against any handler subject to an order for the collection of such handler's pro rata share of expenses.The several district courts of the United States are vested with jurisdiction to entertain such suits regardless of the amount in controversy.
 
 #### (c) Regulations; penalty for violation
 
@@ -110,7 +110,7 @@ Act June 3, 1937, §1, affirmed, validated, and reenacted without change the pro
 
 #### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
 
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
 #### Ex. Ord. No. 10199. Regulations Without Approval of President
 

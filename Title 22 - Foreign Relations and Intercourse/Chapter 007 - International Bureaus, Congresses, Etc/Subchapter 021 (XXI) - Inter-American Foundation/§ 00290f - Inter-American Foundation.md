@@ -76,7 +76,7 @@ The Board may prescribe, amend, and repeal bylaws, rules, and regulations govern
 
 In furtherance and not in limitation of the powers conferred upon it, the Board may appoint such committees for the carrying out of the work of the Foundation as the Board finds to be for the best interests of the Foundation, each committee to consist of two or more members of the Board, which committees, together with officers and agents duly authorized by the Board and to the extent provided by the Board, shall have and may exercise the powers of the Board in the management of the business and affairs of the Foundation.
 
-#### (<i>l</i>) President of Foundation: appointment and compensation; employment of experts and consultants
+#### (l) President of Foundation: appointment and compensation; employment of experts and consultants
 
 (1) The chief executive officer of the Foundation shall be a President who shall be appointed by the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
@@ -88,9 +88,9 @@ In order to further the purposes of the Foundation there shall be established a 
 
 #### (n) Nonprofit nature of the Foundation; conflict of interests
 
-The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors, officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
+The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors,officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
 
-#### (<i>o</i>) Personnel; service in foreign governments or agencies
+#### (o) Personnel; service in foreign governments or agencies
 
 When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold offices or positions to which no compensation is attached with governments or governmental agencies of foreign countries.
 
@@ -118,7 +118,7 @@ The Foundation shall be subject to the provisions of chapter 91 of title 31.
 
 #### (u) Interest on funds invested pending disbursement
 
-When, with the permission of the Foundation, funds made available to a grantee under thissection are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
+When, with the permission of the Foundation, funds made available to a grantee under this section are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
 
 #### (v) Travel expenses
 
@@ -176,11 +176,11 @@ Subsec. (a). Pub. L. 92–226, §406(2), substituted “Inter-American Foundatio
 
 Subsec. (e)(4). Pub. L. 92–226, §406(4), inserted “, including expenses for representation (not to exceed $10,000 in any fiscal year),”.
 
-Subsec. (<i>l</i>). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted “Foundation” for “Institute” and “President” for “Executive Director” in two places, and added par. (2).
+Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted “Foundation” for “Institute” and “President” for “Executive Director” in two places, and added par. (2).
 
 #### Effective Date of 1986 Amendment
 
-Section 403(b) of Pub. L. 99–529 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
+Pub. L. 99–529, title IV, §403(b), Oct. 24, 1986, 100 Stat. 3019, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -188,15 +188,15 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Short Title
 
-Part IV of Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, which enacted this section, designated as the “Inter-American Foundation Act”.
+Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, which enacted this section, designated as the “Inter-American Foundation Act”.
 
 #### Abolition of Inter-American Foundation
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L.106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L. 106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
 
 #### Transition Rule for Board Appointments
 
-Section 173(b)(2) of Pub. L. 102–138 provided that: “The requirements established by the amendment made by paragraph (1) \[amending this section\] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act \[Oct. 28, 1991\].”
+Pub. L. 102–138, title I, §173(b)(2), Oct. 28, 1991, 105 Stat. 680, provided that: “The requirements established by the amendment made by paragraph (1) \[amending this section\] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act \[Oct. 28, 1991\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “devise,”.</i>
 

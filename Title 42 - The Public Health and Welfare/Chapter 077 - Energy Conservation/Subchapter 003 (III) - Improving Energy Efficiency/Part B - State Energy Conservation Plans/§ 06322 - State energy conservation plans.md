@@ -112,7 +112,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (3) Each State energy technology commercialization services program shall develop and maintain a data base of engineering and scientific experts in energy technologies and product commercialization interested in participating in the service. Such data base shall, at a minimum, include faculty of institutions of higher education, retired manufacturing experts, and national laboratory personnel.
 
-(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
+(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, whichshall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
 
 (5) For the purposes of this subsection, the term—
 
@@ -158,11 +158,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1992 Amendment
 
-Section 141(c)(2) of Pub. L. 102–486 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995.”
+Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995.”
 
 #### Study Regarding Impact of Permitting Right and Left Turns on Red Lights
 
-Section 141(d) of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §141(d), Oct. 24, 1992, 106 Stat. 2841, provided that:
 
 “(1)
 

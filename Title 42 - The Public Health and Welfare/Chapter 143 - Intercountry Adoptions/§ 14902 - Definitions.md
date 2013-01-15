@@ -24,7 +24,7 @@ As used in this chapter:
 
 &emsp;&emsp;(E) post-placement monitoring of a case until final adoption; and
 
-&emsp;&emsp;(F) where made necessary by disruption before final adoption, assuming custody and providing child care or any other social service pending an alternative placement.
+&emsp;&emsp;(F) where made necessary by disruption before final adoption, assuming custody andproviding child care or any other social service pending an alternative placement.
 
 > &emsp;The term “providing”, with respect to an adoption service, includes facilitating the provision of the service.
 

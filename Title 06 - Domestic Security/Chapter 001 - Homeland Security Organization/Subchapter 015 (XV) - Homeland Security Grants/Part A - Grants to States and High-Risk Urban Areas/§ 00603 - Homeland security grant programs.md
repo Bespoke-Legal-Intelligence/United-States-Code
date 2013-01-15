@@ -36,7 +36,7 @@ This part shall not be construed to affect any of the following Federal programs
 
 #### References in Text
 
-The Federal Fire Prevention and Control Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–498, Oct. 29,1974, 88 Stat. 1535, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
+The Federal Fire Prevention and Control Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 

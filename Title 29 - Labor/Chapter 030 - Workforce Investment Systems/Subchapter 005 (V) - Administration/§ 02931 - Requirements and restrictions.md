@@ -48,7 +48,7 @@
 
 #### (4) Health and safety
 
-&emsp;Health and safety standards established under Federal and State law otherwise applicable to working conditions of employees shall be equally applicable to working conditions of participants engaged in specified activities. To the extent that a State workers’ compensation law applies, workers’ compensation shall be provided to participants on the same basis as the compensation is provided to other individuals in the State in similar employment.
+&emsp;Health and safety standards established under Federal and State law otherwise applicable to working conditions of employees shallbe equally applicable to working conditions of participants engaged in specified activities. To the extent that a State workers’ compensation law applies, workers’ compensation shall be provided to participants on the same basis as the compensation is provided to other individuals in the State in similar employment.
 
 #### (5) Employment conditions
 

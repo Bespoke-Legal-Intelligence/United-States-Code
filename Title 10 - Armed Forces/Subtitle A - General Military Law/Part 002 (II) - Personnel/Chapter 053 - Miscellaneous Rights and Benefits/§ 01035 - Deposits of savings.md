@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 89–538 reenacted subsec. (d) substantially without change
 
 #### Effective Date of 1967 Amendment
 
-Section 2 of Pub. L. 90–122 provided that: “This Act \[amending this section\] becomes effective as of September 1, 1966.”
+Pub. L. 90–122, §2, Nov. 3, 1967, 81 Stat. 361, provided that: “This Act \[amending this section\] becomes effective as of September 1, 1966.”
 
 #### Savings Program for Overseas Personnel
 
@@ -128,15 +128,15 @@ Sec. 3. All payments heretofore made which would, but for the fact of such payme
 
 #### Rates of Interest on Deposits Made Before Aug. 14, 1966
 
-Section 2 of Pub. L. 89–538 provided that:
+Pub. L. 89–538, §2, Aug. 14, 1966, 80 Stat. 347, provided that:
 
-“(a) Notwithstanding the first section of this Act \[amending this section\], an amount on deposit under section 1035 of title 10, United States Code, on the date of enactment of this Act \[Aug. 14, 1966\], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act \[Aug. 14, 1966\], until the member's current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act \[Aug. 14, 1966\], or who reports for that duty on or afterthat date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 \[amending this section\]. Payments of deposits, and interest thereon, may be made to the member's heirs or legal representatives.
+“(a) Notwithstanding the first section of this Act \[amending this section\], an amount on deposit under section 1035 of title 10, United States Code, on the date of enactment of this Act \[Aug. 14, 1966\], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act \[Aug. 14, 1966\], until the member's current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act \[Aug. 14, 1966\], or who reports for that duty on or after that date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 \[amending this section\]. Payments of deposits, and interest thereon, may be made to the member's heirs or legal representatives.
 
 “(b) Any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] while a member was assigned to permanent duty within the United States and its possessions, and any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] by a member on permanent duty assignment outside the United States and its possessions which are in excess of his unallotted pay and allowances for that period, shall accrue interest at the rate in effect before enactment of this Act.”
 
 #### Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations
 
-Section 3(c) of Pub. L. 89–538 provided that: “Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code.”
+Pub. L. 89–538, §3(c), Aug. 14, 1966, 80 Stat. 348, provided that: “Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code.”
 
 #### Public Health Service
 

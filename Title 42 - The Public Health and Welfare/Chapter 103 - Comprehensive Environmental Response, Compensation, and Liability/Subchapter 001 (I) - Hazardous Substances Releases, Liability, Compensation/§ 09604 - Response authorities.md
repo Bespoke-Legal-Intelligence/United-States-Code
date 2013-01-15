@@ -66,7 +66,7 @@ Response actions between 1978 and 1980.—The credit under this paragraph shall 
 
 &emsp;(D)
 
-State expenses after december 11, 1980, in excess of 10 percent of costs.—The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980, but before October 17, 1986.
+State expenses after december 11, 1980, in excess of 10 percent of costs.—The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expensesincurred after December 11, 1980, but before October 17, 1986.
 
 &emsp;(E)
 
@@ -120,7 +120,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 (2) If the President enters into a cost-sharing agreement pursuant to subsection (c) of this section or a contract or cooperative agreement pursuant to this subsection, and the State or political subdivision thereof fails to comply with any requirements of the contract, the President may, after providing sixty days notice, seek in the appropriate Federal district court to enforce the contract or to recover any funds advanced or any costs incurred because of the breach of the contract by the State or political subdivision.
 
-(3) Where a State or a political subdivision thereof is acting in behalf of the President, the President is authorized to provide technical and legal assistance in the administration and enforcement of any contract or subcontract in connection with response actions assisted under this subchapter, and to intervene in any civil action involving the enforcement of such contract or subcontract.
+(3) Where a State or a political subdivision thereof is acting in behalf of the President, the President is authorized to provide technical and legal assistance in the administration and enforcement of any contract or subcontract in connection with response actions assisted underthis subchapter, and to intervene in any civil action involving the enforcement of such contract or subcontract.
 
 (4) Where two or more noncontiguous facilities are reasonably related on the basis of geography, or on the basis of the threat, or potential threat to the public health or welfare or the environment, the President may, in his discretion, treat these related facilities as one for purposes of this section.
 
@@ -192,7 +192,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;(C) In submitting data under this chapter, a person required to provide such data may (i) designate the data which such person believes is entitled to protection under this subsection and (ii) submit such designated data separately from other data submitted under this chapter. A designation under this paragraph shall be made in writing and in such manner as the President may prescribe by regulation.
 
-&emsp;(D) Notwithstanding any limitation contained in this section or any other provision oflaw, all information reported to or otherwise obtained by the President (or any representative of the President) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
+&emsp;(D) Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the President (or any representative of the President) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
 
 &emsp;(E) No person required to provide information under this chapter may claim that the information is entitled to protection under this paragraph unless such person shows each of the following:
 
@@ -224,7 +224,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (f) Contracts for response actions; compliance with Federal health and safety standards
 
-In awarding contracts to any person engaged in response actions, the President or the State, in any case where it is awarding contracts pursuant to a contract entered into under subsection (d) of this section, shall require compliance with Federal health and safety standards established under section 9651(f) of this title by contractors and subcontractors as a condition of such contracts.
+In awarding contracts to any person engaged in response actions, the President or the State, in any case where it is awarding contracts pursuant to a contract entered into under subsection (d) of this section, shall require compliance with Federal health and safety standardsestablished under section 9651(f) of this title by contractors and subcontractors as a condition of such contracts.
 
 #### (g) Rates for wages and labor standards applicable to covered work
 
@@ -244,7 +244,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(B) establish and maintain inventory of literature, research, and studies on the health effects of toxic substances;
 
-&emsp;(C) in cooperation with the States, and other agencies of the Federal Government, establish and maintain a complete listing of areasclosed to the public or otherwise restricted in use because of toxic substance contamination;
+&emsp;(C) in cooperation with the States, and other agencies of the Federal Government, establish and maintain a complete listing of areas closed to the public or otherwise restricted in use because of toxic substance contamination;
 
 &emsp;(D) in cases of public health emergencies caused or believed to be caused by exposure to toxic substances, provide medical care and testing to exposed individuals, including but not limited to tissue sampling, chromosomal testing where appropriate, epidemiological studies, or any other assistance appropriate under the circumstances; and
 
@@ -298,7 +298,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (E) Any State or political subdivision carrying out a health assessment for a facility shall report the results of the assessment to the Administrator of ATSDR and the Administrator of EPA and shall include recommendations with respect to further activities which need to be carried out under this section. The Administrator of ATSDR shall state such recommendation in any report on the results of any assessment carried out directly by the Administrator of ATSDR for such facility and shall issue periodic reports which include the results of all the assessments carried out under this subsection.
 
-(F) For the purposes of this subsection and section 9611(c)(4) of this title, the term “health assessments” shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities, based on such factors as the nature and extent of contamination, the existence of potential pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified hazardous substances and any available recommended exposure or tolerance limitsfor such hazardous substances, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The Administrator of ATSDR shall use appropriate data, risk assessments, risk evaluations and studies available from the Administrator of EPA.
+(F) For the purposes of this subsection and section 9611(c)(4) of this title, the term “health assessments” shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities, based on such factors as the nature and extent of contamination, the existence of potential pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified hazardous substances and any available recommended exposure or tolerance limits for such hazardous substances, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The Administrator of ATSDR shall use appropriate data, risk assessments, risk evaluations and studies available from the Administrator of EPA.
 
 (G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing a registry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources of such hazardous substances including known point or nonpoint sources other than those from the facility in question.
 
@@ -464,7 +464,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;&emsp;(II) the demand for funding by eligible entities that have not previously received a grant under this subsection;
 
-&emsp;&emsp;&emsp;&emsp;(III) the demonstrated ability of the eligible entity to use the revolving loanfund to enhance remediation and provide funds on a continuing basis; and
+&emsp;&emsp;&emsp;&emsp;(III) the demonstrated ability of the eligible entity to use the revolving loan fund to enhance remediation and provide funds on a continuing basis; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such other similar factors as the Administrator considers appropriate to carry out this subsection.
 
@@ -518,7 +518,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (I) Application
 
-&emsp;&emsp;&emsp;&emsp;An eligible entity may submit to the Administrator, through a regional office of the Environmental Protection Agency and in such form as the Administrator may require, an application for a grant under this subsection for one or more brownfield sites (including information on the criteria used by the Administrator to rank applications under subparagraph (C), to the extent that the information is available).
+&emsp;&emsp;&emsp;&emsp;An eligible entity may submit to the Administrator, through a regional officeof the Environmental Protection Agency and in such form as the Administrator may require, an application for a grant under this subsection for one or more brownfield sites (including information on the criteria used by the Administrator to rank applications under subparagraph (C), to the extent that the information is available).
 
 #### (II) NCP requirements
 
@@ -714,7 +714,7 @@ Subsec. (c)(8). Pub. L. 99–499, §104(j), added par. (8).
 
 Subsec. (c)(9). Pub. L. 99–499, §104(k), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–499, §104(<i>l</i>), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Where the President determines that a State or political subdivision thereof has the capability to carry out any or all of the actions authorized in this section, the President may, in his discretion, enter into a contract or cooperative agreement with such State or political subdivision to take such actions in accordance with criteria and priorities established pursuant to section 9605(8) of this title and to be reimbursed for the reasonable response costs thereof from the Fund. Any contract made hereunder shall be subject to the cost-sharing provisions of subsection (c) of this section.”
+Subsec. (d)(1). Pub. L. 99–499, §104(l), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Where the President determines that a State or political subdivision thereof has the capability to carry out any or all of the actions authorized in this section, the President may, in his discretion, enter into a contract or cooperative agreement with such State or political subdivision to take such actions in accordance with criteria and priorities established pursuant to section 9605(8) of this title and to be reimbursed for the reasonable response costs thereof from the Fund. Any contract made hereunder shall be subject to the cost-sharing provisions of subsection (c) of this section.”
 
 Subsec. (e)(1). Pub. L. 99–499, §104(m), added par. (1), and struck out former par. (1) which provided for access to, and copying of, records relating to covered substances, and entry by officers, employees or representatives of the President or a State into places where hazardous substances were or had been generated, stored, treated or disposed of, or transported from, and inspection and obtaining of samples of such substances and samples of containers or labeling for such substances.
 
@@ -724,7 +724,7 @@ Subsec. (e)(7). Pub. L. 99–499, §104(m), (n), redesignated par. (2) as (7), a
 
 Subsec. (i). Pub. L. 99–499, §110, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in introductory provisions of par. (1), struck out “and” after “Health Administration,” and inserted “the Secretary of Transportation, and appropriate State and local health officials,” in par. (1)(D), inserted “where appropriate”, and added pars. (2) to (18).
 
-Subsec. (j). Pub. L. 99–499, §104(<i>o</i>)(1), added subsec. (j).
+Subsec. (j). Pub. L. 99–499, §104(o)(1), added subsec. (j).
 
 #### Termination of Reporting Requirements
 

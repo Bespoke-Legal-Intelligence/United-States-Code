@@ -1,6 +1,6 @@
 ### §28i. Failure to pay
 
-Failure to pay the claim maintenance fee or the location fee as required by sections 28f to 28<i>l</i> of this title shall conclusively constitute a forfeiture of the unpatented mining claim, mill or tunnel site by the claimant and the claim shall be deemed null and void by operation of law.
+Failure to pay the claim maintenance fee or the location fee as required by sections 28f to 28l of this title shall conclusively constitute a forfeiture of the unpatented mining claim, mill or tunnel site by the claimant and the claim shall be deemed null and void by operation of law.
 
 (Pub. L. 103–66, title X, §10104, Aug. 10, 1993, 107 Stat. 406; Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2908.)
 
@@ -14,5 +14,5 @@ Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 1
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–88 substituted “28<i>l</i>” for “28k”. See Codification note above.
+<b>2009</b>—Pub. L. 111–88 substituted “28l” for “28k”. See Codification note above.
 

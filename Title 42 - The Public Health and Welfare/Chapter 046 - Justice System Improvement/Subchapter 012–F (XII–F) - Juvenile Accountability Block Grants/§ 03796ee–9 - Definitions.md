@@ -14,7 +14,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) has the authority, in a manner independent of other State entities, to establish a budget and raise revenues; and
 
-&emsp;&emsp;(C) the District of Columbia and the recognized governing body of an Indian tribe orAlaskan Native village that carries out substantial governmental duties and powers.
+&emsp;&emsp;(C) the District of Columbia and the recognized governing body of an Indian tribe or Alaskan Native village that carries out substantial governmental duties and powers.
 
 #### (2) Specially qualified unit
 

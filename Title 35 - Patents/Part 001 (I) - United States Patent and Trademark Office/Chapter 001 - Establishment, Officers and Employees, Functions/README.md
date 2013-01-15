@@ -7,7 +7,7 @@
 | [3\.](%C2%A7%2000003%20-%20Officers%20and%20employees.md) | Officers and employees. |
 | [4\.](%C2%A7%2000004%20-%20Restrictions%20on%20officers%20and%20employees%20as%20to%20interest%20in%20patents.md) | Restrictions on officers and employees as to interest in patents. |
 | [5\.](%C2%A7%2000005%20-%20Patent%20and%20Trademark%20Office%20Public%20Advisory%20Committees.md) | Patent and Trademark Office Public Advisory Committees. |
-| [6\.](%C2%A7%2000006%20-%20Board%20of%20Patent%20Appeals%20and%20Interferences.md) | Board of Patent Appeals and Interferences. |
+| [6\.](%C2%A7%2000006%20-%20Patent%20Trial%20and%20Appeal%20Board.md) | Patent Trial and Appeal Board. |
 | [7\.](%C2%A7%2000007%20-%20Library.md) | Library. |
 | [8\.](%C2%A7%2000008%20-%20Classification%20of%20patents.md) | Classification of patents. |
 | [9\.](%C2%A7%2000009%20-%20Certified%20copies%20of%20records.md) | Certified copies of records. |
@@ -18,10 +18,6 @@
 | \[14. | Renumbered 13.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §7(a)(2), (e), Sept. 16, 2011, 125 Stat. 313, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, item 6 of this analysis is amended to read “Patent Trial and Appeal Board.” See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -47,7 +43,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(4), 4508\], Nov. 29
 - [&sect; 00003 - Officers and employees](%C2%A7%2000003%20-%20Officers%20and%20employees.md)
 - [&sect; 00004 - Restrictions on officers and employees as to interest in patents](%C2%A7%2000004%20-%20Restrictions%20on%20officers%20and%20employees%20as%20to%20interest%20in%20patents.md)
 - [&sect; 00005 - Patent and Trademark Office Public Advisory Committees](%C2%A7%2000005%20-%20Patent%20and%20Trademark%20Office%20Public%20Advisory%20Committees.md)
-- [&sect; 00006 - Board of Patent Appeals and Interferences](%C2%A7%2000006%20-%20Board%20of%20Patent%20Appeals%20and%20Interferences.md)
+- [&sect; 00006 - Patent Trial and Appeal Board](%C2%A7%2000006%20-%20Patent%20Trial%20and%20Appeal%20Board.md)
 - [&sect; 00007 - Library](%C2%A7%2000007%20-%20Library.md)
 - [&sect; 00008 - Classification of patents](%C2%A7%2000008%20-%20Classification%20of%20patents.md)
 - [&sect; 00009 - Certified copies of records](%C2%A7%2000009%20-%20Certified%20copies%20of%20records.md)

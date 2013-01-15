@@ -26,7 +26,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (2) Exemption
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultationswith representatives of the United States cotton industry under this section.
+&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations with representatives of the United States cotton industry under this section.
 
 #### (d) Crediting of fees
 
@@ -102,7 +102,7 @@ That part of Pub. L. 98–403, \[§1\], Aug. 28, 1984, 98 Stat. 1479, which prov
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 156(b) of Pub. L. 97–35 provided that the amendment made by that section is effective only for the fiscal years ending Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
+Pub. L. 97–35, title I, §156(b), Aug. 13, 1981, 95 Stat. 373, provided that the amendment made by that section is effective only for the fiscal years ending Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
 \[Provisions of section 156 of Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. L. 97–35, set out as an Effective Date note under section 61a of this title.\]
 
@@ -112,5 +112,5 @@ Act Apr. 13, 1937, which enacted sections 473a to 473c of this title, is popular
 
 #### Study on Processing Certain Cotton Grades
 
-Section 3 of Pub. L. 100–108, which directed Secretary of Agriculture to conduct a study of differences between processing efficiency and product quality for Light Spotted and White grade cottons and also conduct a survey and research to determine why an increasing proportion of cotton crop was being classified as Light Spotted, with an initial report describing results of studies to be submitted not later than Oct. 1, 1988, to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate, and a final report to be submitted to such committees as soon as practicable after submission of initial report, was repealed by Pub. L. 102–237, title I, §120(d), Dec. 13, 1991, 105 Stat. 1843.
+Pub. L. 100–108, §3, Aug. 20, 1987, 101 Stat. 729, which directed Secretary of Agriculture to conduct a study of differences between processing efficiency and product quality for Light Spotted and White grade cottons and also conduct a survey and research to determine why an increasing proportion of cotton crop was being classified as Light Spotted, with an initial report describing results of studies to be submitted not later than Oct. 1, 1988, to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate, and a final report to be submitted to such committees as soon as practicable after submission of initial report, was repealed by Pub. L. 102–237, title I, §120(d), Dec. 13, 1991, 105 Stat. 1843.
 

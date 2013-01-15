@@ -32,7 +32,7 @@ This subchapter does not—
 
 &emsp;&emsp;&emsp;(iii) describing the procedures the consumer must use to withdraw consent as provided in clause (i) and to update information needed to contact the consumer electronically; and
 
-&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, upon request, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
+&emsp;&emsp;&emsp;(iv) informing the consumer (I) how, after the consent, the consumer may, uponrequest, obtain a paper copy of an electronic record, and (II) whether any fee will be charged for such copy;
 
 &emsp;&emsp;(C) the consumer—
 
@@ -66,7 +66,7 @@ This subchapter does not—
 
 #### (5) Prior consent
 
-&emsp;This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this subchapter to receive suchrecords in electronic form as permitted by any statute, regulation, or other rule of law.
+&emsp;This subsection does not apply to any records that are provided or made available to a consumer who has consented prior to the effective date of this subchapter to receive such records in electronic form as permitted by any statute, regulation, or other rule of law.
 
 #### (6) Oral communications
 
@@ -174,5 +174,5 @@ Student loans.—With respect to any records that are provided or made available
 
 #### Short Title
 
-Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: “This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
+Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: “This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telecommunications\] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
 

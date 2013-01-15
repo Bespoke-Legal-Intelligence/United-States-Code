@@ -44,7 +44,7 @@ Not later than 1 year after December 19, 2007, as part of the program carried ou
 
 &emsp;&emsp;(E) having a correlated color coordinate temperature of not less than 2,750, and not more than 3,000, degrees Kelvin;
 
-&emsp;&emsp;(F) having 70 percent of the lumen value under subparagraph (A) exceeding 25,000 hours under typical conditions expected in residential use;
+&emsp;&emsp;(F) having 70 percent of the lumen value under subparagraph (A) exceeding 25,000hours under typical conditions expected in residential use;
 
 &emsp;&emsp;(G) having a light distribution pattern similar to a PAR 38 halogen lamp;
 
@@ -116,7 +116,7 @@ Subject to the availability of funds to carry out this section, the amount of—
 
 #### (2) PAR 38 halogen replacement lamp replacement <sup>1</sup>
 
-&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the PAR Type 38 Halogen Replacement Lamp Prizeunder subsection (b)(2), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with the goal of replacing the use of PAR 38 halogen lamps in Federal Government buildings with a solid-state-light package described in subsection (b)(2) by not later than the date that is 5 years after the date the award is made.
+&emsp;Subject to paragraph (3), as soon as practicable after the successful award of the PAR Type 38 Halogen Replacement Lamp Prize under subsection (b)(2), the Secretary (in consultation with the Administrator of General Services) shall develop governmentwide Federal purchase guidelines with the goal of replacing the use of PAR 38 halogen lamps in Federal Government buildings with a solid-state-light package described in subsection (b)(2) by not later than the date that is 5 years after the date the award is made.
 
 #### (3) Waivers
 

@@ -14,5 +14,5 @@ The Federal Tort Claims Act, referred to in text, is title IV of act Aug. 2, 194
 
 #### Effective Date
 
-Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946.
+Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
 

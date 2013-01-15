@@ -10,7 +10,7 @@ Section 189, act May 15, 1936, ch. 405, §1, 49 Stat. 1335, which authorized Sec
 
 &emsp;July 1, 1932, ch. 361, 47 Stat. 501.
 
-&emsp;June 30, 1932, ch. 314, title III, §310, 47 Stat. 410.
+&emsp;June 30, 1932, ch. 314, pt. II, title III, §310, 47 Stat. 410.
 
 &emsp;Feb. 23, 1931, ch. 280, 46 Stat. 1333.
 

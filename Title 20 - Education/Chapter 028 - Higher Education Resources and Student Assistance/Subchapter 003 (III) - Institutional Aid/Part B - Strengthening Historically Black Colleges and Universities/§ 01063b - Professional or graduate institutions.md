@@ -266,7 +266,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Congressional Findings
 
-Section 1 of Pub. L. 104–141 provided that: “The Congress finds the following:
+Pub. L. 104–141, §1, May 6, 1996, 110 Stat. 1328, provided that: “The Congress finds the following:
 
 &emsp;“(1) The Historically Black Graduate Professional Schools identified under section 326 of the Higher Education Act \[20 U.S.C. 1063b\] may receive grant funds if the Secretary of Education determines that such institutions make a substantial contribution to the legal, medical, dental, veterinary, or other graduate opportunity for African Americans.
 

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
+&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate andreliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
@@ -88,7 +88,7 @@
 
 #### (II) Adjustment rate
 
-&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the State.
+&emsp;&emsp;&emsp;&emsp;The adjustment rate under subclause (I) for a State shall be a reduction of 5 percent for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012) in the number of living non-AIDS cases of HIV reported for the State.
 
 #### (III) Increased adjustment for certain States previously using code-based reporting
 
@@ -192,7 +192,7 @@
 
 #### (ii) Fiscal years 2011 and 2012
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
+&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the totalfor a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
 
 #### (iii) Fiscal year 2013
 
@@ -206,7 +206,7 @@
 
 #### (II) Pro rata reduction
 
-&emsp;&emsp;&emsp;&emsp;If the amounts referred to in subclause (I) for a fiscal year are insufficient to fully comply with clause (i) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to paragraph (1) for the fiscal year, other than grants for States for which increases under clause (i) apply and other than States described in paragraph (1)(A)(i)(I). A reduction under the preceding sentence may not be made in an amountthat would result in the State involved becoming eligible for such an increase.
+&emsp;&emsp;&emsp;&emsp;If the amounts referred to in subclause (I) for a fiscal year are insufficient to fully comply with clause (i) for the year, the Secretary, in order to provide the additional funds necessary for such compliance, shall reduce on a pro rata basis the amount of each grant pursuant to paragraph (1) for the fiscal year, other than grants for States for which increases under clause (i) apply and other than States described in paragraph (1)(A)(i)(I). A reduction under the preceding sentence may not be made in an amount that would result in the State involved becoming eligible for such an increase.
 
 #### (v) Applicability
 
@@ -268,7 +268,7 @@
 
 #### (4) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded under section 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
+&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded undersection 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
 
 #### (5) Exception
 
@@ -352,7 +352,7 @@ Pub. L. 109–415, §203(g)(2)(B)(ii), substituted “covered State” for “St
 
 Subsec. (a)(1)(B). Pub. L. 109–415, §203(g)(3), substituted “each territory other than Guam and the Virgin Islands” for “each territory of the United States, as defined in paragraph (3),”.
 
-Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
+Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is,subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
 
 “(i) an amount equal to the amount appropriated under section 300ff–77 of this title for the fiscal year involved for grants under this part, subject to subparagraphs (H) and (I); and”.
 
@@ -374,7 +374,7 @@ Subsec. (a)(2)(D). Pub. L. 109–415, §203(a)(1)(B), amended subpar. (D) genera
 
 Subsec. (a)(2)(E). Pub. L. 109–415, §203(b)(3), added subpar (E).
 
-Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text read as follows: “If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficientlyaccurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
+Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text read as follows: “If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.”
 
 Subsec. (a)(2)(F). Pub. L. 109–415, §203(b)(4), redesignated subpar. (I) as (F).
 

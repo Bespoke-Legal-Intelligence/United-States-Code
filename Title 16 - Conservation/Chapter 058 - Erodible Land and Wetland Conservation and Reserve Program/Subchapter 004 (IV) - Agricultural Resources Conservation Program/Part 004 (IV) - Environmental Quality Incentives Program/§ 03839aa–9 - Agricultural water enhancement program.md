@@ -146,7 +146,7 @@ To assist in the implementation of agricultural water enhancement activities und
 
 #### (2) Payments to producers in States with water quantity concerns
 
-&emsp;The Secretary shall provide payments for a period of five years to producers participating in agricultural water enhancement activities under proposals described in subsection (e)(3) in an amount sufficient to encourage producers to convert from irrigated farming to dryland farming.
+&emsp;The Secretary shall provide payments for a period of five years to producers participatingin agricultural water enhancement activities under proposals described in subsection (e)(3) in an amount sufficient to encourage producers to convert from irrigated farming to dryland farming.
 
 #### (i) Consistency with State law
 

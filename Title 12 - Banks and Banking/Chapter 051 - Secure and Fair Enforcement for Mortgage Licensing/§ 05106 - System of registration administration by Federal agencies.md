@@ -22,7 +22,7 @@
 
 #### (2) Nationwide Mortgage Licensing System and Registry development
 
-&emsp;To facilitate the transfer of information required by subsection (a)(2), the Nationwide Mortgage Licensing System and Registry shallcoordinate with the Bureau,<sup>1</sup> and the Bureau of Consumer Financial Protection concerning the development and operation, by such System and Registry, of the registration functionality and data requirements for loan originators.
+&emsp;To facilitate the transfer of information required by subsection (a)(2), the Nationwide Mortgage Licensing System and Registry shall coordinate with the Bureau,<sup>1</sup> and the Bureau of Consumer Financial Protection concerning the development and operation, by such System and Registry, of the registration functionality and data requirements for loan originators.
 
 #### (c) Consideration of factors and procedures
 
@@ -32,7 +32,7 @@ In establishing the registration procedures under subsection (a) and the protoco
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1100(5)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Federal banking agencies shall jointly, through the Federal Financial Institutions Examination Council, and together with the Farm Credit Administration, develop and maintain a system for registering employees of a depository institution, employees of a subsidiary that is owned and controlled by a depository institution and regulated by a Federal banking agency, or employees of an institution regulated by the Farm Credit Administration, as registered loan originators with the Nationwide Mortgage Licensing System and Registry. The system shall be implemented before the end of the 1-year period beginning on July 30, 2008.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1100(5)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Federal banking agencies shall jointly, through the Federal Financial Institutions Examination Council, and together with the Farm Credit Administration, develop and maintain a system for registering employees of a depository institution, employees of a subsidiary that is owned and controlled by a depository institution and regulated bya Federal banking agency, or employees of an institution regulated by the Farm Credit Administration, as registered loan originators with the Nationwide Mortgage Licensing System and Registry. The system shall be implemented before the end of the 1-year period beginning on July 30, 2008.”
 
 Subsec. (a)(2). Pub. L. 111–203, §1100(5)(A)(ii), in introductory provisions, substituted “Bureau” for “appropriate Federal banking agency and the Farm Credit Administration” and “identity of the employee” for “employees's identity”.
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 17 - Copyrights
 
-GPO's 2011 edition (laws in effect as of 2012-01-03), from its printed page marks. The exact position of
+GPO's 2012 edition (laws in effect as of 2013-01-15), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title17.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -53,8 +53,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00405 - Notice of copyright Omission of notice on certain copies and phonorecords](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000405%20-%20Notice%20of%20copyright%20Omission%20of%20notice%20on%20certain%20copies%20and%20phonorecords.md) | 130–132 |
 | [&sect; 00406 - Notice of copyright Error in name or date on certain copies and phonorecords](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000406%20-%20Notice%20of%20copyright%20Error%20in%20name%20or%20date%20on%20certain%20copies%20and%20phonorecords.md) | 132–133 |
 | [&sect; 00407 - Deposit of copies or phonorecords for Library of Congress](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000407%20-%20Deposit%20of%20copies%20or%20phonorecords%20for%20Library%20of%20Congress.md) | 133–135 |
-| [&sect; 00408 - Copyright registration in general](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000408%20-%20Copyright%20registration%20in%20general.md) | 135–137 |
-| [&sect; 00409 - Application for copyright registration](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000409%20-%20Application%20for%20copyright%20registration.md) | 137–138 |
+| [&sect; 00408 - Copyright registration in general](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000408%20-%20Copyright%20registration%20in%20general.md) | 135–138 |
+| [&sect; 00409 - Application for copyright registration](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000409%20-%20Application%20for%20copyright%20registration.md) | 138 |
 | [&sect; 00410 - Registration of claim and issuance of certificate](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000410%20-%20Registration%20of%20claim%20and%20issuance%20of%20certificate.md) | 138–139 |
 | [&sect; 00411 - Registration and civil infringement actions](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000411%20-%20Registration%20and%20civil%20infringement%20actions.md) | 139–140 |
 | [&sect; 00412 - Registration as prerequisite to certain remedies for infringement](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/%C2%A7%2000412%20-%20Registration%20as%20prerequisite%20to%20certain%20remedies%20for%20infringement.md) | 140–141 |
@@ -88,33 +88,33 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00709 - Delay in delivery caused by disruption of postal or other services](Chapter%20007%20-%20Copyright%20Office/%C2%A7%2000709%20-%20Delay%20in%20delivery%20caused%20by%20disruption%20of%20postal%20or%20other%20services.md) | 162 |
 | [&sect; 00710 - Repealed. Pub. L. 106&#8211;379, &sect;3(a)(1), Oct. 27, 2000, 114 Stat. 1445](Chapter%20007%20-%20Copyright%20Office/%C2%A7%2000710%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93379%2C%20%C2%A73%28a%29%281%29%2C%20Oct.%2027%2C%202000%2C%20114%20Stat.%201445.md) | 162 |
 | [Chapter 008 - Proceedings by Copyright Royalty Judges](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/README.md) | 162–163 |
-| [&sect; 00801 - Copyright Royalty Judges; appointment and functions](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000801%20-%20Copyright%20Royalty%20Judges%3B%20appointment%20and%20functions.md) | 163–165 |
-| [&sect; 00802 - Copyright Royalty Judgeships; staff](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000802%20-%20Copyright%20Royalty%20Judgeships%3B%20staff.md) | 165–168 |
+| [&sect; 00801 - Copyright Royalty Judges; appointment and functions](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000801%20-%20Copyright%20Royalty%20Judges%3B%20appointment%20and%20functions.md) | 163–166 |
+| [&sect; 00802 - Copyright Royalty Judgeships; staff](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000802%20-%20Copyright%20Royalty%20Judgeships%3B%20staff.md) | 166–168 |
 | [&sect; 00803 - Proceedings of Copyright Royalty Judges](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000803%20-%20Proceedings%20of%20Copyright%20Royalty%20Judges.md) | 168–174 |
-| [&sect; 00804 - Institution of proceedings](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000804%20-%20Institution%20of%20proceedings.md) | 174–175 |
-| [&sect; 00805 - General rule for voluntarily negotiated agreements](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000805%20-%20General%20rule%20for%20voluntarily%20negotiated%20agreements.md) | 175–176 |
+| [&sect; 00804 - Institution of proceedings](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000804%20-%20Institution%20of%20proceedings.md) | 174–176 |
+| [&sect; 00805 - General rule for voluntarily negotiated agreements](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/%C2%A7%2000805%20-%20General%20rule%20for%20voluntarily%20negotiated%20agreements.md) | 176 |
 | [Chapter 009 - Protection of Semiconductor Chip Products](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | 176 |
-| [&sect; 00901 - Definitions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000901%20-%20Definitions.md) | 176 |
-| [&sect; 00902 - Subject matter of protection](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000902%20-%20Subject%20matter%20of%20protection.md) | 176–177 |
-| [&sect; 00903 - Ownership, transfer, licensing, and recordation](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | 177 |
-| [&sect; 00904 - Duration of protection](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000904%20-%20Duration%20of%20protection.md) | 177–178 |
+| [&sect; 00901 - Definitions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000901%20-%20Definitions.md) | 176–177 |
+| [&sect; 00902 - Subject matter of protection](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000902%20-%20Subject%20matter%20of%20protection.md) | 177 |
+| [&sect; 00903 - Ownership, transfer, licensing, and recordation](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | 177–178 |
+| [&sect; 00904 - Duration of protection](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000904%20-%20Duration%20of%20protection.md) | 178 |
 | [&sect; 00905 - Exclusive rights in mask works](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000905%20-%20Exclusive%20rights%20in%20mask%20works.md) | 178 |
 | [&sect; 00906 - Limitation on exclusive rights reverse engineering; first sale](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000906%20-%20Limitation%20on%20exclusive%20rights%20reverse%20engineering%3B%20first%20sale.md) | 178 |
 | [&sect; 00907 - Limitation on exclusive rights innocent infringement](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000907%20-%20Limitation%20on%20exclusive%20rights%20innocent%20infringement.md) | 178 |
 | [&sect; 00908 - Registration of claims of protection](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000908%20-%20Registration%20of%20claims%20of%20protection.md) | 178–179 |
 | [&sect; 00909 - Mask work notice](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000909%20-%20Mask%20work%20notice.md) | 179 |
 | [&sect; 00910 - Enforcement of exclusive rights](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000910%20-%20Enforcement%20of%20exclusive%20rights.md) | 179–180 |
-| [&sect; 00911 - Civil actions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000911%20-%20Civil%20actions.md) | 180 |
-| [&sect; 00912 - Relation to other laws](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000912%20-%20Relation%20to%20other%20laws.md) | 180–181 |
+| [&sect; 00911 - Civil actions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000911%20-%20Civil%20actions.md) | 180–181 |
+| [&sect; 00912 - Relation to other laws](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000912%20-%20Relation%20to%20other%20laws.md) | 181 |
 | [&sect; 00913 - Transitional provisions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000913%20-%20Transitional%20provisions.md) | 181 |
 | [&sect; 00914 - International transitional provisions](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/%C2%A7%2000914%20-%20International%20transitional%20provisions.md) | 181–183 |
 | [Chapter 010 - Digital Audio Recording Devices and Media](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md) | 183 |
 | [Subchapter A - Definitions](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20A%20-%20Definitions/README.md) | 183 |
 | [&sect; 01001 - Definitions](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20A%20-%20Definitions/%C2%A7%2001001%20-%20Definitions.md) | 183–184 |
 | [Subchapter B - Copying Controls](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20B%20-%20Copying%20Controls/README.md) | 184 |
-| [&sect; 01002 - Incorporation of copying controls](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20B%20-%20Copying%20Controls/%C2%A7%2001002%20-%20Incorporation%20of%20copying%20controls.md) | 184 |
-| [Subchapter C - Royalty Payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/README.md) | 184 |
-| [&sect; 01003 - Obligation to make royalty payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/%C2%A7%2001003%20-%20Obligation%20to%20make%20royalty%20payments.md) | 184–185 |
+| [&sect; 01002 - Incorporation of copying controls](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20B%20-%20Copying%20Controls/%C2%A7%2001002%20-%20Incorporation%20of%20copying%20controls.md) | 184–185 |
+| [Subchapter C - Royalty Payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/README.md) | 185 |
+| [&sect; 01003 - Obligation to make royalty payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/%C2%A7%2001003%20-%20Obligation%20to%20make%20royalty%20payments.md) | 185 |
 | [&sect; 01004 - Royalty payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/%C2%A7%2001004%20-%20Royalty%20payments.md) | 185–186 |
 | [&sect; 01005 - Deposit of royalty payments and deduction of expenses](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/%C2%A7%2001005%20-%20Deposit%20of%20royalty%20payments%20and%20deduction%20of%20expenses.md) | 186 |
 | [&sect; 01006 - Entitlement to royalty payments](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/Subchapter%20C%20-%20Royalty%20Payments/%C2%A7%2001006%20-%20Entitlement%20to%20royalty%20payments.md) | 186–187 |
@@ -126,17 +126,17 @@ from edition to edition; the section files hold the text only.
 | [Chapter 011 - Sound Recordings and Music Videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md) | 189 |
 | [&sect; 01101 - Unauthorized fixation and trafficking in sound recordings and music videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/%C2%A7%2001101%20-%20Unauthorized%20fixation%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos.md) | 189–190 |
 | [Chapter 012 - Copyright Protection and Management Systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md) | 190 |
-| [&sect; 01201 - Circumvention of copyright protection systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001201%20-%20Circumvention%20of%20copyright%20protection%20systems.md) | 190–194 |
-| [&sect; 01202 - Integrity of copyright management information](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001202%20-%20Integrity%20of%20copyright%20management%20information.md) | 194–196 |
+| [&sect; 01201 - Circumvention of copyright protection systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001201%20-%20Circumvention%20of%20copyright%20protection%20systems.md) | 190–195 |
+| [&sect; 01202 - Integrity of copyright management information](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001202%20-%20Integrity%20of%20copyright%20management%20information.md) | 195–196 |
 | [&sect; 01203 - Civil remedies](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001203%20-%20Civil%20remedies.md) | 196–197 |
 | [&sect; 01204 - Criminal offenses and penalties](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001204%20-%20Criminal%20offenses%20and%20penalties.md) | 197 |
 | [&sect; 01205 - Savings clause](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/%C2%A7%2001205%20-%20Savings%20clause.md) | 197 |
 | [Chapter 013 - Protection of Original Designs](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md) | 197 |
 | [&sect; 01301 - Designs protected](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001301%20-%20Designs%20protected.md) | 197–198 |
 | [&sect; 01302 - Designs not subject to protection](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001302%20-%20Designs%20not%20subject%20to%20protection.md) | 198 |
-| [&sect; 01303 - Revisions, adaptations, and rearrangements](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001303%20-%20Revisions%2C%20adaptations%2C%20and%20rearrangements.md) | 198 |
-| [&sect; 01304 - Commencement of protection](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001304%20-%20Commencement%20of%20protection.md) | 198 |
-| [&sect; 01305 - Term of protection](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001305%20-%20Term%20of%20protection.md) | 198–199 |
+| [&sect; 01303 - Revisions, adaptations, and rearrangements](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001303%20-%20Revisions%2C%20adaptations%2C%20and%20rearrangements.md) | 198–199 |
+| [&sect; 01304 - Commencement of protection](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001304%20-%20Commencement%20of%20protection.md) | 199 |
+| [&sect; 01305 - Term of protection](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001305%20-%20Term%20of%20protection.md) | 199 |
 | [&sect; 01306 - Design notice](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001306%20-%20Design%20notice.md) | 199 |
 | [&sect; 01307 - Effect of omission of notice](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001307%20-%20Effect%20of%20omission%20of%20notice.md) | 199 |
 | [&sect; 01308 - Exclusive rights](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001308%20-%20Exclusive%20rights.md) | 199 |
@@ -144,8 +144,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01310 - Application for registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001310%20-%20Application%20for%20registration.md) | 200–201 |
 | [&sect; 01311 - Benefit of earlier filing date in foreign country](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001311%20-%20Benefit%20of%20earlier%20filing%20date%20in%20foreign%20country.md) | 201 |
 | [&sect; 01312 - Oaths and acknowledgments](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001312%20-%20Oaths%20and%20acknowledgments.md) | 201 |
-| [&sect; 01313 - Examination of application and issue or refusal of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001313%20-%20Examination%20of%20application%20and%20issue%20or%20refusal%20of%20registration.md) | 201 |
-| [&sect; 01314 - Certification of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001314%20-%20Certification%20of%20registration.md) | 201–202 |
+| [&sect; 01313 - Examination of application and issue or refusal of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001313%20-%20Examination%20of%20application%20and%20issue%20or%20refusal%20of%20registration.md) | 201–202 |
+| [&sect; 01314 - Certification of registration](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001314%20-%20Certification%20of%20registration.md) | 202 |
 | [&sect; 01315 - Publication of announcements and indexes](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001315%20-%20Publication%20of%20announcements%20and%20indexes.md) | 202 |
 | [&sect; 01316 - Fees](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001316%20-%20Fees.md) | 202 |
 | [&sect; 01317 - Regulations](Chapter%20013%20-%20Protection%20of%20Original%20Designs/%C2%A7%2001317%20-%20Regulations.md) | 202 |

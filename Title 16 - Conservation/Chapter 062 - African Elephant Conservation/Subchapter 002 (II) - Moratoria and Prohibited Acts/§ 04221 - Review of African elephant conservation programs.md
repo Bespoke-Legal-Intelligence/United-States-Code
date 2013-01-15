@@ -22,7 +22,7 @@ Within one month after October 7, 1988, the Secretary shall issue a call for inf
 
 &emsp;&emsp;(D) The country's ivory quota is determined on the basis of information referred to in subparagraph (B) and reflects the amount of ivory which is confiscated or consumed domestically by the country.
 
-&emsp;&emsp;(E) The country has not authorized or allowed the export of amounts of raw ivorywhich exceed its ivory quota under the CITES Ivory Control System.
+&emsp;&emsp;(E) The country has not authorized or allowed the export of amounts of raw ivory which exceed its ivory quota under the CITES Ivory Control System.
 
 #### (2) Delay in issuing determination
 

@@ -10,7 +10,7 @@ In awarding grants under this part the Secretary shall give priority to applican
 
 #### (c) Planning grants
 
-Notwithstanding subsection (a) of this section, the Secretary may award a grant to an eligible institution under this part for a period of one year for the purpose of preparation of plans and applications for a grant under this part.
+Notwithstanding subsection (a) of this section, the Secretary may award a grant to an eligibleinstitution under this part for a period of one year for the purpose of preparation of plans and applications for a grant under this part.
 
 #### (d) Wait-out-period
 

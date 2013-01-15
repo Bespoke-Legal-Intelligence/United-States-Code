@@ -62,7 +62,7 @@ Provisions similar to those in this section were contained in section 4107(e) of
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–163, §601(k)(1)(A), substituted “a full-time nurse or part-time nurse” for “a nurse”.
 
-Subsec. (b). Pub. L. 111–163, §601(k)(1)(B), struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service on such tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
+Subsec. (b). Pub. L. 111–163, §601(k)(1)(B), struck out “on a tour of duty” after “performing service” and substituted “hour of such service” for “hour of service onsuch tour”, “at least four hours of such service” for “at least four hours of such tour”, and “less than four hours of such service” for “less than four hours of such tour”.
 
 Subsec. (c). Pub. L. 111–163, §601(k)(1)(C), struck out “on a tour of duty” after “performing service” and substituted “such service” for “service on such tour”.
 

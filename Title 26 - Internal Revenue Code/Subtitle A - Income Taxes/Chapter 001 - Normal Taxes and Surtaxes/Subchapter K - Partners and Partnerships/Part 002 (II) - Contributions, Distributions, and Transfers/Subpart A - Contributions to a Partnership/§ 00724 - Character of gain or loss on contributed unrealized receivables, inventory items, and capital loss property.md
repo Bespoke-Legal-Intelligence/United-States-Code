@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### Effective Date of 1997 Amendment
 
-Section 1062(c) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1062(c), Aug. 5, 1997, 111 Stat. 947, provided that:
 
 “(1)
 
@@ -74,5 +74,5 @@ Binding contracts.—The amendments made by this section shall not apply to any 
 
 #### Effective Date
 
-Section 74(d)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to property contributed to a partnership after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §74(d)(1), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to property contributed to a partnership after March 31, 1984, in taxable years ending after such date.”
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Department of the Interior during
 
 #### (b) Cost-sharing
 
-(1) 50 percent of the cost of the development and implementation of the program must be provided by one or more non-Federal sources on a basis considered by the Secretary to be timely and appropriate. For purposes of this subsection, the term “non-Federal source” includes a Stateor local government, any private entity, and any individual.
+(1) 50 percent of the cost of the development and implementation of the program must be provided by one or more non-Federal sources on a basis considered by the Secretary to be timely and appropriate. For purposes of this subsection,the term “non-Federal source” includes a State or local government, any private entity, and any individual.
 
 (2) In addition to cash outlays, the Secretary shall consider as financial contributions by a non-Federal source the value of inkind contributions and real and personal property provided by the source for purposes of implementing the program. Valuations made by the Secretary under this paragraph are final and not subject to judicial review.
 

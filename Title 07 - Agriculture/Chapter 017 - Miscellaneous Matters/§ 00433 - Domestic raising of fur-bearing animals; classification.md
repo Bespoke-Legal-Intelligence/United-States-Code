@@ -12,5 +12,5 @@ For the purposes of all classification and administration of Acts of Congress, E
 
 #### Effective Date
 
-Section 3 of act Apr. 30, 1946, provided that this section and section 434 of this title shall become effective sixty days after Apr. 30, 1946.
+Act Apr. 30, 1946, ch. 242, §3, 60 Stat. 128, provided that: “This Act \[enacting this section and section 434 of this title\] shall take effect sixty days after the date of its enactment \[Apr. 30, 1946\].”
 

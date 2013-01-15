@@ -26,7 +26,7 @@ A loan may be insured under this section only if—
 
 #### (c) Limitation on amount of unpaid principal balance of loans
 
-The aggregate unpaid principal balance of loans insured under this section and outstanding at any one time may not exceed the amount which has been covered into the Historic Preservation Fund pursuant to section 470h of this title and subsections (g) and (i) of this section, as in effect on December 12, 1980, but which has not been appropriated for any purpose.
+The aggregate unpaid principal balance of loans insured under this section and outstanding at any one time may not exceed the amount which has been covered into the Historic Preservation Fund pursuant to section 470h of this title and subsections (g) and (i) <sup>1</sup> of this section, as in effect on December 12, 1980, but which has not been appropriated for any purpose.
 
 #### (d) Assignability of insurance contracts; contract as obligation of United States; contestability
 
@@ -48,7 +48,7 @@ In entering into any contract to insure a loan under this section, the Secretary
 
 (1) In any case in which a historic property is obtained pursuant to subsection (f) of this section, the Secretary shall attempt to convey such property to any governmental or nongovernmental entity under such conditions as will ensure the property's continued preservation and use; except that if, after a reasonable time, the Secretary, in consultation with the Advisory Council on Historic Preservation, determines that there is no feasible and prudent means to convey such property and to ensure its continued preservation and use, then the Secretary may convey the property at the fair market value of its interest in such property to any entity without restriction.
 
-(2) Any funds obtained by the Secretary in connection with the conveyance of any property pursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
+(2) Any funds obtained by the Secretary in connection with the conveyance of any property pursuant to paragraph (1) shall be covered into the historic preservation fund, in addition to the amounts covered into such fund pursuant to section 470h of this title and subsection (i) <sup>2</sup> of this section, and shall remain available in such fund until appropriated by the Congress to carry out the purposes of this subchapter.
 
 #### (h) Assessment of fees in connection with loans
 
@@ -56,7 +56,7 @@ The Secretary may assess appropriate and reasonable fees in connection with insu
 
 #### (i) Treatment of loans as non-Federal funds
 
-Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient forpayment of any portion of the costs of such project or activity.
+Notwithstanding any other provision of law, any loan insured under this section shall be treated as non-Federal funds for the purposes of satisfying any requirement of any other provision of law under which Federal funds to be used for any project or activity are conditioned upon the use of non-Federal funds by the recipient for payment of any portion of the costs of such project or activity.
 
 #### (j) Authorization of appropriations for payment of losses
 
@@ -83,4 +83,8 @@ Subsecs. (c) to (k). Pub. L. 96–515 added subsecs. (c) to (k).
 #### Transfer of Functions
 
 Enforcement functions of Secretary or other official in Department of the Interior and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with historic preservation under sections 470 to 470a, 470b, and 470c to 470w–6 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsections (g) and (h)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection (h)”.</i>
 

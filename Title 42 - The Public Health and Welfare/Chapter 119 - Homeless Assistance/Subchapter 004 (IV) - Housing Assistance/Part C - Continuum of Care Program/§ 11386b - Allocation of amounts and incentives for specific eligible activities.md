@@ -20,7 +20,7 @@
 
 #### (5) Termination
 
-&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing for homeless individuals and families with disabilities have been funded under this part.
+&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing forhomeless individuals and families with disabilities have been funded under this part.
 
 #### (b) Set-aside for permanent housing for homeless families with children
 
@@ -34,7 +34,7 @@ Nothing in this chapter may be construed to establish a limit on the amount of f
 
 #### (1) In general
 
-&emsp;The Secretary shall provide bonuses or other incentives to geographic areas for using funding under this part for activities that havebeen proven to be effective at reducing homelessness generally, reducing homelessness for a specific subpopulation, or achieving homeless prevention and independent living goals as set forth in section 11386a(b)(1)(F) of this title.
+&emsp;The Secretary shall provide bonuses or other incentives to geographic areas for using funding under this part for activities that have been proven to be effective at reducing homelessness generally, reducing homelessness for a specific subpopulation, or achieving homeless prevention and independent living goals as set forth in section 11386a(b)(1)(F) of this title.
 
 #### (2) Rule of construction
 

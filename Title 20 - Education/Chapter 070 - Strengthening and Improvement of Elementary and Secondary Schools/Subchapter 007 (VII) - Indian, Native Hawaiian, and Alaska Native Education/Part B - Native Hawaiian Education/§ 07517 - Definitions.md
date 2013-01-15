@@ -18,7 +18,7 @@ In this part:
 
 #### (2) Native Hawaiian community-based organization
 
-&emsp;The term “Native Hawaiian community-based organization” means any organizationthat is composed primarily of Native Hawaiians from a specific community and that assists in the social, cultural, and educational development of Native Hawaiians in that community.
+&emsp;The term “Native Hawaiian community-based organization” means any organization that is composed primarily of Native Hawaiians from a specific community and that assists in the social, cultural, and educational development of Native Hawaiians in that community.
 
 #### (3) Native Hawaiian educational organization
 

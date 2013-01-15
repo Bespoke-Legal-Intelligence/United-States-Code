@@ -4,7 +4,7 @@
 
 The purposes of this section are to promote—
 
-&emsp;(1) development of the Polish and Hungarian private sectors, including small businesses, the agricultural sector, and joint ventures with United States and host country participants, and
+&emsp;(1) development of the Polish and Hungarian private sectors, including small businesses,the agricultural sector, and joint ventures with United States and host country participants, and
 
 &emsp;(2) policies and practices conducive to private sector development in Poland and Hungary,
 
@@ -52,7 +52,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 #### (e) Grants to Enterprise Funds
 
-Funds appropriated to the President pursuant to subsection (b) of this section shall be grantedto the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
+Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
 
 #### (f) Eligible programs and projects
 
@@ -76,9 +76,9 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 &emsp;The Polish-American Enterprise Fund may use up to $25,000,000 for grants for projects providing for the early introduction in Poland of modern telephone systems and telecommunications technology, which are crucial in establishing the conditions for successful transition to political democracy and economic pluralism.
 
-#### (5) Economic foundation of NSZZ Solidarnos�AE1c�AE1
+#### (5) Economic foundation of NSZZ Solidarność
 
-&emsp;Funds available to the Polish-American Enterprise Fund may be used to support the Economic Foundation of NSZZ Solidarnos�AE1c�AE1.
+&emsp;Funds available to the Polish-American Enterprise Fund may be used to support the Economic Foundation of NSZZ Solidarność.
 
 #### (g) Matters to be considered by Enterprise Funds
 
@@ -100,7 +100,7 @@ In order to maximize the effectiveness of the activities of the Polish-American 
 
 Executive branch agencies may conduct programs and activities and provide services in support of the activities of the Enterprise Funds notwithstanding any other provision of law.
 
-#### (<i>l</i>) Limitation on payments to Enterprise Fund personnel
+#### (l) Limitation on payments to Enterprise Fund personnel
 
 (1) No part of the funds of an Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services subject to paragraph (2).
 
@@ -118,9 +118,9 @@ The accounts of each Enterprise Fund shall be audited annually in accordance wit
 
 #### (n) GAO audits
 
-The financial transactions undertaken pursuant to this section by each Enterprise Fund maybe audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
 
-#### (<i>o</i>) Recordkeeping requirements
+#### (o) Recordkeeping requirements
 
 The Enterprise Funds shall ensure—
 
@@ -144,13 +144,13 @@ Each Enterprise Fund shall publish an annual report, which shall include a compr
 
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(3), probably means the date of enactment of Pub. L. 105–118 which amended subsec. (<i>l</i>) generally and was approved Nov. 26, 1997.
+The date of enactment of this subsection, referred to in subsec. (l)(3), probably means the date of enactment of Pub. L. 105–118 which amended subsec. (l) generally and was approved Nov. 26, 1997.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (n). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-<b>1997</b>—Subsec. (<i>l</i>). Pub. L. 105–118, which directed the general amendment of section 201(<i>l</i>) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(<i>l</i>) of the Support for East European Democracy (SEED) Act of 1989, subsec. (<i>l</i>) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.”
+<b>1997</b>—Subsec. (l). Pub. L. 105–118, which directed the general amendment of section 201(l) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(l) of the Support for East European Democracy (SEED) Act of 1989, subsec. (l) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.”
 
 <b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
 

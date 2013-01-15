@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;(3) to provide for vocational readjustment and to restore lost educational opportunities to those service men and women who served on active duty after June 30, 1985;
 
-&emsp;(4) to promote and assist the All-Volunteer Force program and the Total Force Concept ofthe Armed Forces by establishing a new program of educational assistance based upon service on active duty or a combination of service on active duty and in the Selected Reserve (including the National Guard) to aid in the recruitment and retention of highly qualified personnel for both the active and reserve components of the Armed Forces;
+&emsp;(4) to promote and assist the All-Volunteer Force program and the Total Force Concept of the Armed Forces by establishing a new program of educational assistance based upon service on active duty or a combination of service on active duty and in the Selected Reserve (including the National Guard) to aid in the recruitment and retention of highly qualified personnel for both the active and reserve components of the Armed Forces;
 
 &emsp;(5) to give special emphasis to providing educational assistance benefits to aid in the retention of personnel in the Armed Forces; and
 

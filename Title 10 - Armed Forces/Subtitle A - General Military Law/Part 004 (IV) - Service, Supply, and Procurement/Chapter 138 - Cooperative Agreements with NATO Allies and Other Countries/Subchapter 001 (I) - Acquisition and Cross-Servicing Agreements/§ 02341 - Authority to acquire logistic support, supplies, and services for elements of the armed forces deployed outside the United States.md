@@ -34,19 +34,19 @@ Pub. L. 99–661 amended section generally, restating existing provisions into i
 
 #### Effective Date of 1994 Amendment
 
-Section 1317(j) of Pub. L. 103–337 provided that: “The amendments made by this section \[enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title\] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title XIII, §1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: “The amendments made by this section \[enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title\] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date of 1992 Amendment
 
-Section 1312(c) of Pub. L. 102–484 provided that: “The amendments made by this section \[amending this section and section 2347 of this title\] shall take effect on the date of enactment of this Act \[Oct. 23, 1992\] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act.”
+Pub. L. 102–484, div. A, title XIII, §1312(c), Oct. 23, 1992, 106 Stat. 2548, provided that: “The amendments made by this section \[amending this section and section 2347 of this title\] shall take effect on the date of enactment of this Act \[Oct. 23, 1992\] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–323 provided: “That this Act \[enacting this chapter\] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
+Pub. L. 96–323, §1, Aug. 4, 1980, 94 Stat. 1016, provided: “That this Act \[enacting this chapter\] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
 
 #### Acceptance of Real Property, Services, and Commodities From Foreign Countries by Agencies of Department of Defense
 
-Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas without specific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, §1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
+Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas withoutspecific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, §1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
 
 #### Overseas Workload Program
 

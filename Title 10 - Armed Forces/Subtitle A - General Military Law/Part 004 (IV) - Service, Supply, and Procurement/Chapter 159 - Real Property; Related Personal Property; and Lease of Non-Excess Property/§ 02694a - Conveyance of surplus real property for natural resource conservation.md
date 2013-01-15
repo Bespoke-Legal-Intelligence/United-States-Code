@@ -28,7 +28,7 @@ Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance 
 
 &emsp;(A) to convey the property to another eligible entity, subject to the approval of the Secretary concerned and subject to the same covenants and terms and conditions as provided in the deed from the United States; and
 
-&emsp;(B) to conduct incidental revenue-producing activities on the property that are compatible with the use of the property for conservation purposes.
+&emsp;(B) to conduct incidental revenue-producing activities on the property that are compatiblewith the use of the property for conservation purposes.
 
 (3) The deed of conveyance may contain such additional terms, reservations, restrictions, and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 
@@ -76,5 +76,5 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.
 
-Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and AmericanSamoa” for “and the territories and possessions of the United States”.
+Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
 

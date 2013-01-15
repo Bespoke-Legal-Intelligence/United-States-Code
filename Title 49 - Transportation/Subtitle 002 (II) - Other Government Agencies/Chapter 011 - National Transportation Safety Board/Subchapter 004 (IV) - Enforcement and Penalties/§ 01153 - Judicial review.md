@@ -6,7 +6,7 @@ General.—The appropriate court of appeals of the United States or the United S
 
 (b)
 
-Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 daysafter the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
+Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to anaviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
@@ -18,13 +18,13 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (c)
 
-Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44703(d), 44709, or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (d)
 
 Commandant Seeking Judicial Review of Maritime Matters.—If the Commandant of the Coast Guard decides that an order of the Board issued pursuant to a review of a Coast Guard action under section 1133 of this title will have an adverse impact on maritime safety or security, the Commandant may obtain judicial review of the order under subsection (a). The Commandant, in the official capacity of the Commandant, shall be a party to the judicial review proceedings.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756; Pub. L. 108–293, title VI, §622, Aug. 9, 2004, 118 Stat. 1063.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756; Pub. L. 108–293, title VI, §622, Aug. 9, 2004, 118 Stat. 1063; Pub. L. 112–95, title III, §301(b), Feb. 14, 2012, 126 Stat. 56.)
 
 Historical and Revision Notes
 
@@ -125,6 +125,8 @@ In subsection (b)(4), the words “made in the proceeding conducted by” are su
 In subsection (c), the source provisions are combined to eliminate unnecessary words and are restated in this chapter to alert the reader to the authority of the Administrator of the Federal Aviation Administration to seek judicial review of an order of the National Transportation Safety Board under section 44709 or 46301(d) of the revised title that the Administrator decides will have a significant adverse impact on carrying out source provisions restated in this chapter that are derived from title VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 781).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–95 substituted “section 44703(d), 44709, or” for “section 44709 or”.
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 

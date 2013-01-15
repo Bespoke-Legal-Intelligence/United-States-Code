@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The board of directors of each qualified lender shall establish one or more credit reviewcommittees, which shall include farmer board representation.
+&emsp;The board of directors of each qualified lender shall establish one or more credit review committees, which shall include farmer board representation.
 
 #### (2) Membership
 
@@ -32,7 +32,7 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 #### (2) Arrangement and cost
 
-&emsp;Within 30 days after a request for an appraisal under paragraph (1), the credit review committee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
+&emsp;Within 30 days after a request for an appraisal under paragraph (1), the credit reviewcommittee shall present the borrower with a list of three appraisers approved by the appropriate qualified lender from which the borrower shall select an appraiser to conduct the appraisal the cost of which shall be borne by the borrower, and shall consider the results of such appraisal in any final determination with respect to the loan.
 
 #### (3) Copy to borrower
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Construction of 1988 Amendment
 
-Section 702(b) of Pub. L. 100–399 provided that section 805(s) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(s) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 

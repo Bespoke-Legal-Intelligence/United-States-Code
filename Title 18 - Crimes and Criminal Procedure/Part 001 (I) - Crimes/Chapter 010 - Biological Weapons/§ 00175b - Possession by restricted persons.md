@@ -56,7 +56,7 @@ Certain other biological agents and toxins.—Whoever knowingly possesses a biol
 
 &emsp;(4) The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
-(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
+(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, titleII, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
 
 #### References in Text
 

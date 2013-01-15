@@ -14,7 +14,7 @@
 
 #### (b) Status as Government employee
 
-A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with section 5536 of title 5.
+A fellow detailed under subsection (a) of this section is deemed, for the purpose of preservingallowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with section 5536 of title 5.
 
 #### (c) Reimbursement
 

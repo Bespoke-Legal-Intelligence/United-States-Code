@@ -12,7 +12,7 @@ Section 363, act June 19, 1956, ch. 407, title IV, §403, as added Oct. 17, 1984
 
 A prior section 363, act June 19, 1956, ch. 407, title IV, §403, as added May 3, 1973, Pub. L. 93–29, title VIII, §801(a), 87 Stat. 58; amended Oct. 17, 1984, Pub. L. 98–480, title I, §103(b)(1), 98 Stat. 2237, related to State annual programs for library services for the elderly, prior to the general amendment of this subchapter by section 114 of Pub. L. 98–480.
 
-Section 364, act June 19, 1956, ch. 407, title IV, §404, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat. 2244, required submission of plans for library services, on or near Indian reservation, by Indian tribes desiring to receive special project grant.
+Section 364, act June 19, 1956, ch. 407, title IV, §404, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat.2244, required submission of plans for library services, on or near Indian reservation, by Indian tribes desiring to receive special project grant.
 
 A prior section 364, act June 19, 1956, ch. 407, title IV, §404, as added May 3, 1973, Pub. L. 93–29, title VIII, §801(a), 87 Stat. 58; amended Oct. 1, 1973, Pub. L. 93–113, title VI, §601(d), 87 Stat. 416; Oct. 17, 1984, Pub. L. 98–480, title I, §103(b)(1), 98 Stat. 2237, related to administrative coordination between programs for older readers services under this subchapter with other programs for older Americans, prior to the general amendment of this subchapter by section 114 of Pub. L. 98–480.
 

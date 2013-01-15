@@ -62,7 +62,7 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 
 &emsp;&emsp;&emsp;&emsp;(II) the date on which the funding agreement expires; or
 
-&emsp;&emsp;&emsp;(ii) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian tribe, and the participating tribal organization or inter-tribal consortium that has signed the compact or funding agreement on behalf of the withdrawing Indian tribe, inter-tribal consortium, or tribal organization.
+&emsp;&emsp;&emsp;(ii) such date as may be mutually agreed upon by the Secretary, the withdrawing Indian tribe, and the participating tribal organization or inter-tribal consortium that has signed the compact or funding agreement on behalf of the withdrawingIndian tribe, inter-tribal consortium, or tribal organization.
 
 #### (2) Distribution of funds
 

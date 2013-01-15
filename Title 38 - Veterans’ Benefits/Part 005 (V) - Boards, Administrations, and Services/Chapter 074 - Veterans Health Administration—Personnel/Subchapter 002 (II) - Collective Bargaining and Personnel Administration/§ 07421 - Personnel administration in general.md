@@ -36,7 +36,7 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 #### Preservation of Existing Collective-Bargaining Arrangements and Pending Actions
 
-Section 205 of Pub. L. 102–40 provided that:
+Pub. L. 102–40, title II, §205, May 7, 1991, 105 Stat. 207, provided that:
 
 “(a)
 

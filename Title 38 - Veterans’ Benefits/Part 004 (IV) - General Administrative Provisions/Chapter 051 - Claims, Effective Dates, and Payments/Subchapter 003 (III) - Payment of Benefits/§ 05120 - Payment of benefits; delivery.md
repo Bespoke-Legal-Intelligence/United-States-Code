@@ -54,9 +54,9 @@ Subsecs. (d), (e). Pub. L. 95–117, §402(a), added subsecs. (d) and (e).
 
 #### Effective Date of 1986 Amendment
 
-Section 11007(b)(2) of Pub. L. 99–570 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect with respect to payments made on or after October 1, 1986.”
+Pub. L. 99–570, title XI, §11007(b)(2), Oct. 27, 1986, 100 Stat. 3207–170, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect with respect to payments made on or after October 1, 1986.”
 
 #### Effective Date of 1977 Amendment
 
-Section 402(c) of Pub. L. 95–117 provided that: “The amendments made by this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
+Pub. L. 95–117, title IV, §402(c), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendments made by this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
 

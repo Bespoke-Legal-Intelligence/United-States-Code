@@ -12,5 +12,5 @@
 
 (3) The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this subsection within one hundred and twenty days after November 30, 1983.
 
-(Pub. L. 98–181, title IX, §906, Nov. 30, 1983, 97 Stat. 1279.)
+(Pub. L. 98–181, title I \[title IX, §906\], Nov. 30, 1983, 97 Stat. 1279.)
 

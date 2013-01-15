@@ -32,7 +32,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(C) the type of information, material, or property to be seized, altered, or reproduced;
 
-&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and, whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
+&emsp;&emsp;(D) a statement of the manner in which the physical search is to be conducted and,whenever more than one physical search is authorized under the order, the authorized scope of each search and what minimization procedures shall apply to the information acquired by each search; and
 
 &emsp;&emsp;(E) the period of time during which physical searches are approved; and
 
@@ -40,7 +40,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical searchin such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
+&emsp;&emsp;(B) that, upon the request of the applicant, a specified landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
 
 &emsp;&emsp;(C) that such landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the search or the aid furnished that such person wishes to retain;
 
@@ -80,7 +80,7 @@ An order approving a physical search under this section shall—
 
 #### (f) Retention of applications and orders
 
-Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
+Applications made and orders granted under this subchapter shall be retained for a period ofat least 10 years from the date of the application.
 
 (Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §105(b), Mar. 9, 2006, 120 Stat. 195; Pub. L. 110–261, title I, §§107(b), (c)(1), 110(c)(3), July 10, 2008, 122 Stat. 2463, 2464, 2467; Pub. L. 111–259, title VIII, §§801(5), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748.)
 

@@ -12,5 +12,5 @@ For the purposes of this chapter, the term—
 
 #### Short Title
 
-Section 1 of Pub. L. 97–382 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Mineral Development Act of 1982’.”
+Pub. L. 97–382, §1, Dec. 22, 1982, 96 Stat. 1938, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Mineral Development Act of 1982’.”
 

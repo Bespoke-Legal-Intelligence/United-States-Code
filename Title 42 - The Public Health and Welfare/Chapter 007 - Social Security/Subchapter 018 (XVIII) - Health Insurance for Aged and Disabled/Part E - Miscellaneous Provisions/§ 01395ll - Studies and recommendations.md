@@ -2,7 +2,7 @@
 
 #### (a) Health care of the aged and disabled
 
-The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are aconstructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
+The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are a constructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
 
 #### (b) Operation and administration of insurance programs
 
@@ -12,7 +12,7 @@ The Secretary shall make a continuing study of the operation and administration 
 
 #### References in Text
 
-Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b), is section 226 of Pub. L. 92–603, which enacted section 1395mm of this title and provisions set out as notes under that section and amended this section and sections 1395f, 1395<i>l</i>, and 1396b of this title.
+Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b), is section 226 of Pub. L. 92–603, which enacted section 1395mm of this title and provisions set out as notes under that section and amended this section and sections 1395f, 1395l, and 1396b of this title.
 
 Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b), is section 402 of Pub. L. 90–248, which enacted section 1395b–1 of this title and amended this section.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 110–275 applicable with respect to accreditations of hosp
 
 #### Effective Date of 1989 Amendment
 
-Section 6103(b)(3)(A) of Pub. L. 101–239 provided that the amendment made by that section is effective for fiscal years beginning after fiscal year 1990.
+Pub. L. 101–239, title VI, §6103(b)(3)(A), Dec. 19, 1989, 103 Stat. 2199, provided that the amendment made by that section is effective for fiscal years beginning after fiscal year 1990.
 
 #### Effective Date of 1984 Amendment
 
@@ -72,7 +72,7 @@ Evaluation.—
 
 &emsp;“(1)
 
-In general.—Not later than the date that is 2 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public andprivate sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+In general.—Not later than the date that is 2 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public and private sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
 &emsp;“(2)
 
@@ -158,7 +158,7 @@ Study on HCFA Post-Payment Audit Process.—
 
 &emsp;“(1)
 
-Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[this subchapter\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
+Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[this subchapter\] as such process applies to physicians, including theproper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
 
 &emsp;&emsp;“(A) coding and billing;
 
@@ -230,7 +230,7 @@ Pub. L. 100–360, title II, §208, July 1, 1988, 102 Stat. 732, as amended by P
 
 #### Study To Develop a Strategy for Quality Review and Assurance
 
-Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurances and review activities for services furnished under the medicare program.
+Pub. L. 99–509, title IX, §9313(d), Oct. 21, 1986, 100 Stat. 2004, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurances and review activities for services furnished under the medicare program.
 
 #### Special Treatment of States Formerly Under Waiver
 
@@ -246,11 +246,11 @@ Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
-Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of this subchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title.
+Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects withrespect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of this subchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title.
 
 #### Demonstration Project Relating to the Terminally Ill
 
-Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secretary of Health and Human Services toprovide for participation, by Social Security Administration, in a demonstration project relating to the terminally ill then being conducted within the Department of Health and Human Services, the purpose of such participation to be to study impact on terminally ill of provisions of disability programs administered by Social Security Administration and to determine how best to provide services needed by persons who were terminally ill through programs over which the Social Security Administration had administrative responsibility, and authorized to be appropriated necessary sums not in excess of $2,000,000 for any fiscal year.
+Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secretary of Health and Human Services to provide for participation, by Social Security Administration, in a demonstration project relating to the terminally ill then being conducted within the Department of Health and Human Services, the purpose of such participation to be to study impact on terminally ill of provisions of disability programs administered by Social Security Administration and to determine how best to provide services needed by persons who were terminally ill through programs over which the Social Security Administration had administrative responsibility, and authorized to be appropriated necessary sums not in excess of $2,000,000 for any fiscal year.
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 

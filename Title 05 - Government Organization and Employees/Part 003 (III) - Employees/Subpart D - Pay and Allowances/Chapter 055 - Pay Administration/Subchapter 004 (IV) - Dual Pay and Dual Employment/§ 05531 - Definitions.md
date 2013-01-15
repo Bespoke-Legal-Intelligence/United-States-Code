@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Aug. 19, 1964, Pub. L. 88–448, §101 (as applicable to §§201(a)–(e) and 301 (less (e))), 78 Stat. 484.
 
-In paragraph (2), the defined word “position” is substituted for “civilian office.” The words “Government corporation” are substituted for “corporation owned or controlled by such Government” in view of the definition in section 103.
+In paragraph (2), the defined word “position” is substituted for “civilian office.” The words “Governmentcorporation” are substituted for “corporation owned or controlled by such Government” in view of the definition in section 103.
 
 The definitions of “uniformed services” and “armed forces” are omitted as unnecessary in view of the definitions in section 2101.
 
@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
+Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section 7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
 
 #### Effective Date of 1978 Amendment
 

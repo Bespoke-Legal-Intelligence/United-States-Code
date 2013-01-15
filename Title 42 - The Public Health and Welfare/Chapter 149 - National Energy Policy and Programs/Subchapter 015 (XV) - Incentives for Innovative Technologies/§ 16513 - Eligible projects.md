@@ -54,7 +54,7 @@ The Secretary may make guarantees for the following gasification projects:
 
 &emsp;&emsp;&emsp;(iv) on which construction commences not later than the date that is 3 years after the date of the issuance of the guarantee;
 
-&emsp;&emsp;(B) a project to produce energy from coal (of not more than 13,000 Btu/lb and mined in the western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
+&emsp;&emsp;(B) a project to produce energy from coal (of not more than 13,000 Btu/lb and mined inthe western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
 
 &emsp;&emsp;&emsp;(i) may include repowering of existing facilities;
 

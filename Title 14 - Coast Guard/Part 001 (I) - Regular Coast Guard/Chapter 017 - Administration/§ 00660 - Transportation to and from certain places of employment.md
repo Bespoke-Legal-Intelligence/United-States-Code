@@ -1,6 +1,6 @@
 ### §660. Transportation to and from certain places of employment
 
-(a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonablerates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
+(a) Whenever the Secretary determines that it is necessary for the effective conduct of the affairs of the Coast Guard, he may, at reasonable rates of fare fixed under regulations to be prescribed by him, provide assured and adequate transportation by motor vehicle or water carrier to and from their places of employment for persons attached to, or employed by, the Coast Guard; and during a war or during a national emergency declared by Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for the Coast Guard.
 
 (b) Transportation may not be provided under subsection (a) unless the Secretary or an officer designated by the Secretary, determines that—
 
@@ -30,5 +30,5 @@
 
 #### Effective Date of 1985 Amendment
 
-Section 1623 of Pub. L. 99–145 provided that the amendment made by that section is effective Oct. 1, 1985.
+Pub. L. 99–145, title XVI, §1623, Nov. 8, 1985, 99 Stat. 778, provided that the amendment made by that section is effective Oct. 1, 1985.
 

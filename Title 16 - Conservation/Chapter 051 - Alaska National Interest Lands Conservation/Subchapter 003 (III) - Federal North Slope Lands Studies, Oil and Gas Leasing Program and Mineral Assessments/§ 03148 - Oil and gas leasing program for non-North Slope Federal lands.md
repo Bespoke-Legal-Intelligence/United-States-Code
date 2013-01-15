@@ -24,7 +24,7 @@ Pursuant to the Mineral Leasing Act of 1920, as amended \[30 U.S.C. 181 et seq.\
 
 #### (f) Exploration plan
 
-Prior to any exploration activities on a lease issued pursuant to this section, the Secretaryshall require the lessee to describe exploration activities in an exploration plan. He shall approve such plan if such activities can be conducted in conformity with such requirements as may be made by the Secretary for the protection and use of the land for the purpose for which it is managed under applicable law.
+Prior to any exploration activities on a lease issued pursuant to this section, the Secretary shall require the lessee to describe exploration activities in an exploration plan. He shall approve such plan if such activities can be conducted in conformity with such requirements as may be made by the Secretary for the protection and use of the land for the purpose for which it is managed under applicable law.
 
 #### (g) Development and production plan
 

@@ -38,9 +38,13 @@ The first report under this section shall be submitted at the time the budget fo
 
 #### (d) Consultation
 
-During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
+During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) <sup>1</sup> of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
 
 (Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667; Pub. L. 105–272, title III, §305(a)(4), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 107–306, title VIII, §811(b)(7)(A), Nov. 27, 2002, 116 Stat. 2425.)
+
+#### References in Text
+
+Section 1903(b) of this title, referred to in subsec. (d), was amended and now specifies members of the Board in paragraphs (1) to (9).
 
 #### Amendments
 
@@ -51,4 +55,6 @@ During the preparation of each report required by subsection (a) of this section
 <b>1996</b>—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–178 added subsec. (d).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

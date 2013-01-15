@@ -24,7 +24,7 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(C) an individual, other than a United States citizen, whose past or present intelligence relationship to the United States is classified information and who is a present or former agent of, or a present or former informant or source of operational assistance to, an intelligence agency.
 
-&emsp;(5) The term “intelligence agency” means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.
+&emsp;(5) The term “intelligence agency” means the elements of the intelligence community, as that term is defined in section 401a(4) of this title.
 
 &emsp;(6) The term “informant” means any individual who furnishes information to an intelligence agency in the course of a confidential relationship protecting the identity of such individual from public disclosure.
 
@@ -36,9 +36,15 @@ For the purposes of this subchapter:
 
 &emsp;(10) The term “pattern of activities” requires a series of acts with a common purpose or objective.
 
-(July 26, 1947, ch. 343, title VI, §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, §304(a), Dec. 3, 1999, 113 Stat. 1611.)
+(July 26, 1947, ch. 343, title VI, §605, formerly §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, §304(a), Dec. 3, 1999, 113 Stat. 1611; renumbered §605 and amended Pub. L. 112–277, title III, §310(a)(4)(B), title V, §506, Jan. 14, 2013, 126 Stat. 2475, 2478.)
+
+#### Prior Provisions
+
+A prior section 605 of act July 26, 1947, was renumbered section 604 and is classified to section 425 of this title.
 
 #### Amendments
+
+<b>2013</b>—Par. (5). Pub. L. 112–277, §506, which directed amendment of section 606 of the National Security Act of 1947 by amending par. (5) generally, was executed to this section, which is section 605 of that act, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by Pub. L. 112–277, §310(a)(4)(B). Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.”
 
 <b>1999</b>—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
 

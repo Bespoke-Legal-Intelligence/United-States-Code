@@ -18,7 +18,7 @@ The following producers and owners shall be eligible to enter into a contract:
 
 &emsp;(1) An owner of eligible cropland who assumes all or a part of the risk of producing a crop.
 
-&emsp;(2) A producer (other than an owner) on eligible cropland with a share-rent lease of the eligible cropland, regardless of the length of the lease, if the owner enters into the same contract.
+&emsp;(2) A producer (other than an owner) on eligible cropland with a share-rent lease of theeligible cropland, regardless of the length of the lease, if the owner enters into the same contract.
 
 &emsp;(3) A producer (other than an owner) on eligible cropland who cash rents the eligible cropland under a lease expiring on or after September 30, 2002, in which case the owner is not required to enter into the contract.
 

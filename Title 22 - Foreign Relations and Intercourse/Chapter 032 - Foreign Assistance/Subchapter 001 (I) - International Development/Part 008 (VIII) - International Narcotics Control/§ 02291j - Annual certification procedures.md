@@ -8,7 +8,7 @@
 
 #### (2) Multilateral assistance
 
-&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section) or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title, except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
+&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section) or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title, except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and theEuropean Bank for Reconstruction and Development.
 
 #### (b) Certification procedures
 
@@ -132,7 +132,7 @@ By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign A
 
 &emsp;The Bahamas, Bolivia, Brazil, People's Republic of China, Colombia, Dominican Republic, Ecuador, Guatemala, India, Jamaica, Laos, Mexico, Nigeria, Pakistan, Panama, Paraguay, Peru, Thailand, Venezuela, and Vietnam
 
-By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine and certify that, for the following major illicit drug producing and/or major illicit drug transit countries that do not qualify for certification under section 490(b)(1)(A), the vitalnational interests of the United States require that assistance not be withheld and that the United States not vote against multilateral development bank assistance:
+By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine and certify that, for the following major illicit drug producing and/or major illicit drug transit countries that do not qualify for certification under section 490(b)(1)(A), the vital national interests of the United States require that assistance not be withheld and that the United States not vote against multilateral development bank assistance:
 
 &emsp;Cambodia and Haiti
 

@@ -6,7 +6,7 @@ Within 1 year after October 24, 1992, the Administrator shall, by regulation, re
 
 #### (b) Certain small customers
 
-Notwithstanding subsection (a) of this section, for customers with total annual energy sales or usage of 25 Gigawatt Hours or less which are not members of a joint action agency or a generation and transmission cooperative with power supply responsibility, the Administrator may establish different regulations and apply such regulations to customers that the Administrator finds have limited economic, managerial, and resource capability to conduct integrated resource planning. The regulations under this subsection shall require such customers to consider all reasonable opportunities to meet their future energy service requirements using demand-side techniques, new renewable resources and other programs that will provide retail customers with electricity at the lowest possible cost, and minimize, to the extent practicable, adverse environmental effects.
+Notwithstanding subsection (a) of this section, for customers with total annual energy sales or usage of 25 Gigawatt Hours or less which are notmembers of a joint action agency or a generation and transmission cooperative with power supply responsibility, the Administrator may establish different regulations and apply such regulations to customers that the Administrator finds have limited economic, managerial, and resource capability to conduct integrated resource planning. The regulations under this subsection shall require such customers to consider all reasonable opportunities to meet their future energy service requirements using demand-side techniques, new renewable resources and other programs that will provide retail customers with electricity at the lowest possible cost, and minimize, to the extent practicable, adverse environmental effects.
 
 (Pub. L. 98–381, title II, §202, as added Pub. L. 102–486, title I, §114, Oct. 24, 1992, 106 Stat. 2800.)
 
@@ -16,5 +16,5 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 
 #### Prior Provisions
 
-A prior section 7276, Pub. L. 98–381, title II, §202, Aug. 17, 1984, 98 Stat. 1341, related to regulations of WesternArea Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of Pub. L. 98–381 by section 114 of Pub. L. 102–486.
+A prior section 7276, Pub. L. 98–381, title II, §202, Aug. 17, 1984, 98 Stat. 1341, related to regulations of Western Area Power Administration, including amendment of regulations after notice and comment, evaluation of energy conservation programs, and allowance by Western for incorporation of elements of such programs, prior to the general amendment of title II of Pub. L. 98–381 by section 114 of Pub. L. 102–486.
 

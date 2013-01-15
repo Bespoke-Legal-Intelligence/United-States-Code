@@ -54,3 +54,5 @@ Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, pro
 
 Functions of President under subsec. (a) to remove name of any officer from a promotion list to any grade below commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
+Functions of President under subsec. (c)(2) delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
+

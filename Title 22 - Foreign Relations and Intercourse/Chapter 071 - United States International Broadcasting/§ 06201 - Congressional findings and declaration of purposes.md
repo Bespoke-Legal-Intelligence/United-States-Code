@@ -28,5 +28,5 @@ Pub. L. 107–148, §1, Mar. 11, 2002, 116 Stat. 64, provided that: “This Act 
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 103–236 provided that: “This title \[enacting this chapter, amending sections 1465b, 1465c, and 2873 of this title and section 5315 of Title 5, Government Organization and Employees, and repealing sections 1463, 2871 to 2877, and 2878 to 2883 of this title and provisions set out as a note under section 2871 of this title\] may be cited as the ‘United States International Broadcasting Act of 1994’.”
+Pub. L. 103–236, title III, §301, Apr. 30, 1994, 108 Stat. 432, provided that: “This title \[enacting this chapter, amending sections 1465b, 1465c, and 2873 of this title and section 5315 of Title 5, Government Organization and Employees, and repealing sections 1463, 2871 to 2877, and 2878 to 2883 of this title and provisions set out as a note under section 2871 of this title\] may be cited as the ‘United States International Broadcasting Act of 1994’.”
 

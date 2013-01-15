@@ -12,5 +12,5 @@ Lesser Included Offense.—Any reviewing authority with the power to approve or 
 
 #### Prior Provisions
 
-A prior section 950a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to error of law andlesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to error of law and lesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
 

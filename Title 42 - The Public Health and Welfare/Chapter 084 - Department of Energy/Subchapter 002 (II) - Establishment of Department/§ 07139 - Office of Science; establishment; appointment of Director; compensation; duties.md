@@ -12,7 +12,7 @@
 
 &emsp;(4) to advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
 
-&emsp;(5) to advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department; and
+&emsp;(5) to advise the Secretary with respect to grants and other forms of financial assistancerequired for effective short- and long-term basic and applied research activities of the Department; and
 
 &emsp;(6) to carry out such additional duties assigned to the Office by the Secretary.
 

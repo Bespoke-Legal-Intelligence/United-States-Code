@@ -6,7 +6,7 @@ The purpose of this section is to establish a demonstration program to test the 
 
 #### (b) Housing assistance
 
-In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(<i>o</i>) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give each frail elderly person the option to continue to receive assistance under the housing certificate or voucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title.
+In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(o) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give each frail elderly person the option to continue to receive assistance under the housing certificate or voucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(o) of this title.
 
 #### (c) Supportive services requirements and matching funding
 
@@ -164,13 +164,13 @@ The Secretary shall submit to Congress an annual report evaluating the effective
 
 #### (j) Section 1437f funding
 
-The budget authority available under section 1437c(c) of this title for assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title is authorized to be increased by $38,288,000 on or after October 1, 1992, and by $39,896,096 on or after October 1, 1993. The amounts made available under this subsection shall be used only in connection with the demonstration under this section.
+The budget authority available under section 1437c(c) of this title for assistance under sections 1437f(b) and 1437f(o) of this title is authorized to be increased by $38,288,000 on or after October 1, 1992, and by $39,896,096 on or after October 1, 1993. The amounts made available under this subsection shall be used only in connection with the demonstration under this section.
 
 #### (k) Funding for services
 
 There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section $10,000,000 to become available in fiscal year 1993, and $10,420,000 to become available in fiscal year 1994. Any such amounts appropriated under this subsection shall remain available until expended.
 
-#### (<i>l</i>) Implementation
+#### (l) Implementation
 
 Not later than the expiration of the 180-day period beginning on the date that funds authorized for the demonstrations under this section first become available for obligation, the Secretary shall by notice establish such requirements as may be necessary to carry out the demonstration programs authorized under this section.
 
@@ -192,7 +192,7 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out former par. (1) which read as follows: “The term ‘demonstration period’ means the period beginning on November 28, 1990, and ending upon the termination date under subsection (a) of this section.”
 
-Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title.”
+Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(o) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title.”
 
 Subsec. (k). Pub. L. 102–550, §605(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended.”
 

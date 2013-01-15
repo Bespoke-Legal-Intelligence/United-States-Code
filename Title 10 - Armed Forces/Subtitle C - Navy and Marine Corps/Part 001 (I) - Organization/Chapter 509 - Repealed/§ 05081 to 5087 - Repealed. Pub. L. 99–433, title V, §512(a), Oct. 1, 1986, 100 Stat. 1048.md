@@ -12,5 +12,5 @@ Section 5085, acts Aug. 10, 1956, ch. 1041, 70A Stat. 283; Aug. 6, 1958, Pub. L.
 
 Section 5086, acts Aug. 10, 1956, ch. 1041, 70A Stat. 283; Dec. 12, 1980, Pub. L. 96–513, title V, §503(5), 94 Stat. 2911, related to detail and duties of Deputy Chiefs of Naval Operations. See section 5036 of this title.
 
-Section 5087, acts Aug. 10, 1956, ch. 1041, 70A Stat. 283; Dec. 12, 1980, Pub. L. 96–513, title V, §503(6), 94 Stat. 2911, related to detail and duties of Assistant Chiefs of Naval Operations. See section 5037 of this title.
+Section 5087, acts Aug. 10, 1956, ch. 1041, 70A Stat. 283; Dec. 12, 1980, Pub. L. 96–513, title V, §503(6), 94 Stat.2911, related to detail and duties of Assistant Chiefs of Naval Operations. See section 5037 of this title.
 

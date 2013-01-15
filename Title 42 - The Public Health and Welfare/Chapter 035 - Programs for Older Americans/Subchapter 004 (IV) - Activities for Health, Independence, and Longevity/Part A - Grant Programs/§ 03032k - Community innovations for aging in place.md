@@ -42,7 +42,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under subsection (b) for a project, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containingsuch information as the Assistant Secretary may require.
+&emsp;To be eligible to receive a grant under subsection (b) for a project, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
 
 #### (2) Contents
 

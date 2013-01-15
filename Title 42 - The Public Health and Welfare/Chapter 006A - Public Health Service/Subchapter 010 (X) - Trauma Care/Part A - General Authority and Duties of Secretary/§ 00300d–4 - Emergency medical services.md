@@ -1,10 +1,10 @@
 ### §300d–4. Emergency medical services
 
-#### (a) <sup>1</sup> Federal Interagency Committee on Emergency Medical Services
+#### (a) Federal Interagency Committee on Emergency Medical Services
 
 #### (1) Establishment
 
-&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and the Secretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
+&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and theSecretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
 
 #### (2) Membership
 
@@ -64,7 +64,45 @@
 
 &emsp;The Interagency Committee shall prepare an annual report to Congress regarding the Committee's activities, actions, and recommendations.
 
-(Pub. L. 109–59, title X, §10202, Aug. 10, 2005, 119 Stat. 1932.)
+#### (b) National Emergency Medical Services Advisory Council
+
+#### (1) Establishment
+
+&emsp;The Secretary of Transportation, in coordination with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall establish a National Emergency Medical Services Advisory Council (referred to in this subsection as the “Advisory Council”).
+
+#### (2) Membership
+
+&emsp;The Advisory Council shall be composed of 25 members, who—
+
+&emsp;&emsp;(A) shall be appointed by the Secretary of Transportation; and
+
+&emsp;&emsp;(B) shall collectively be representative of all sectors of the emergency medical services community.
+
+#### (3) Purposes
+
+&emsp;The purposes of the Advisory Council are to advise and consult with—
+
+&emsp;&emsp;(A) the Federal Interagency Committee on Emergency Medical Services on matters relating to emergency medical services issues; and
+
+&emsp;&emsp;(B) the Secretary of Transportation on matters relating to emergency medical services issues affecting the Department of Transportation.
+
+#### (4) Administration
+
+&emsp;The Administrator of the National Highway Traffic Safety Administration shall provide administrative support to the Advisory Council, including scheduling meetings, setting agendas, keeping minutes and records, and producing reports.
+
+#### (5) Leadership
+
+&emsp;The members of the Advisory Council shall annually select a chairperson of the Advisory Council.
+
+#### (6) Meetings
+
+&emsp;The Advisory Council shall meet as frequently as is determined necessary by the chairperson of the Advisory Council.
+
+#### (7) Annual reports
+
+&emsp;The Advisory Council shall prepare an annual report to the Secretary of Transportation regarding the Advisory Council's actions and recommendations.
+
+(Pub. L. 109–59, title X, §10202, Aug. 10, 2005, 119 Stat. 1932; Pub. L. 112–141, div. C, title I, §31108, July 6, 2012, 126 Stat. 756.)
 
 #### Codification
 
@@ -74,5 +112,11 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 
 A prior section 300d–4, act July 1, 1944, ch. 373, title XII, §1201, formerly §1205, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 597; amended Oct. 21, 1976, Pub. L. 94–573, §6, 90 Stat. 2713, renumbered §1201 and amended Aug. 13, 1981, Pub. L. 97–35, title IX, §902(d)(1), (3), 95 Stat. 560, authorized Secretary to make grants and enter into contracts to support research in emergency medical techniques, methods, devices, and delivery, prior to repeal by Pub. L. 99–117, §12(e), Oct. 7, 1985, 99 Stat. 495.
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 added subsec. (b).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

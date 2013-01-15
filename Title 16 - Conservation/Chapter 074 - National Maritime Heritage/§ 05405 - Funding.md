@@ -134,11 +134,11 @@ Construction.—Nothing in this section shall be construed to establish a prefer
 
 #### Scrapping of National Defense Reserve Fleet Vessels
 
-Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, §3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, §3504, Dec. 31, 2011, 125 Stat. 1717, provided that:
+Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, §3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, §3504, Dec. 31, 2011, 125 Stat. 1717; Pub. L. 112–239, div. C, title XXXV, §3502, Jan. 2, 2013, 126 Stat. 2222, provided that:
 
 “(b)
 
-Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (16 U.S.C. 5405(c)(1)) through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of the enactment of this Act \[Oct. 30, 2000\], without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
+Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 (16 U.S.C. 5405(c)(1)) through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
 
 &emsp;“(1) at least cost to the Government;
 

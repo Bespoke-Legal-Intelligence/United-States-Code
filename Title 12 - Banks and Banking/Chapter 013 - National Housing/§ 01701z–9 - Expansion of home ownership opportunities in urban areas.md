@@ -10,5 +10,5 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Study To Determine Feasibility of Underground Construction of Residential Housing
 
-Section 305(c) of Pub. L. 95–557 required the Secretary to study the feasibility of underground construction of residential housing and necessary changes in housing codes and financing, and report to Congress no later than one year after Oct. 31, 1978 as to the findings and recommendations of legislative enactments as a result of the study.
+Pub. L. 95–557, title III, §305(c), Oct. 31, 1978, 92 Stat. 2097, required the Secretary to study the feasibility of underground construction of residential housing and necessary changes in housing codes and financing, and report to Congress no later than one year after Oct. 31, 1978 as to the findings and recommendations of legislative enactments as a result of the study.
 

@@ -318,7 +318,7 @@ Automatic approval.—If the Administrator does not approve or deny a request fo
 
 &emsp;&emsp;(iv) such assistance is of such sound value as reasonably to assure that the terms under which it is provided will not be breached by the small business concern.
 
-&emsp;(B)(i) No loan shall be made under this paragraph if the total amount outstanding and committed (by participation or otherwise) to the borrower would exceed $750,000.
+&emsp;(B)(i) No loan shall be made under this paragraph if the total amount outstanding andcommitted (by participation or otherwise) to the borrower would exceed $750,000.
 
 &emsp;(ii) Subject to the provisions of clause (i), in agreements to participate in loans on a deferred (guaranteed) basis, participation by the Administration shall be not less than 85 per centum of the balance of the financing outstanding at the time of disbursement.
 
@@ -334,7 +334,7 @@ Automatic approval.—If the Administrator does not approve or deny a request fo
 
 &emsp;&emsp;(i) that is subordinated by its terms to all other borrowings of the issuer;
 
-&emsp;&emsp;(ii) the rate of interest on which shall not exceed the current average market yield on outstanding marketable obligations of theUnited States with remaining periods to maturity comparable to the average maturities of such loan and adjusted to the nearest one-eighth of 1 per centum;
+&emsp;&emsp;(ii) the rate of interest on which shall not exceed the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loan and adjusted to the nearest one-eighth of 1 per centum;
 
 &emsp;&emsp;(iii) the term of which is not more than twenty-five years; and
 
@@ -390,7 +390,7 @@ Payer.—The yearly fee assessed under subparagraph (A) shall be payable by the 
 
 &emsp;&emsp;(C)
 
-Lowering of borrower fees.—If the Administration determines that fees paid by lenders and by small business borrowers for guarantees under this subsection may be reduced, consistent with reducing to zero the cost to the Administration of making such guarantees—
+Lowering of borrower fees.—If the Administration determines that fees paid by lenders and by small business borrowers for guarantees under this subsection may be reduced, consistent with reducing to zero thecost to the Administration of making such guarantees—
 
 &emsp;&emsp;&emsp;(i) the Administration shall first consider reducing fees paid by small business borrowers under clauses (i) through (iii) of paragraph (18)(A), to the maximum extent possible; and
 
@@ -616,7 +616,7 @@ Definitions.—In this paragraph—
 
 &emsp;&emsp;(B)
 
-Establishment.—The Administrator shall establish and carry out a pilot program under which the Administrator shall reduce the fees for veteran participation loans.
+Establishment.—The Administrator shall establish and carry out a pilot programunder which the Administrator shall reduce the fees for veteran participation loans.
 
 &emsp;&emsp;(C)
 
@@ -642,7 +642,7 @@ Waiver.—The Administrator may waive clause (i) for a fiscal year if—
 
 &emsp;&emsp;&emsp;&emsp;(II) the cost to the Administration of making loans under this subsection is greater than zero and such cost is directly attributable to the cost of making veteran participation loans; and
 
-&emsp;&emsp;&emsp;&emsp;(III) no additional sources of revenue authority are available to reduce thecost of making loans under this subsection to zero.
+&emsp;&emsp;&emsp;&emsp;(III) no additional sources of revenue authority are available to reduce the cost of making loans under this subsection to zero.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -786,7 +786,7 @@ Except as to agricultural enterprises as defined in section 647(b)(1) of this ti
 
 &emsp;(3)(A) In this paragraph—
 
-&emsp;&emsp;(i) the term “essential employee” means an individual who is employed by a small business concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern;
+&emsp;&emsp;(i) the term “essential employee” means an individual who is employed by a smallbusiness concern and whose managerial or technical expertise is critical to the successful day-to-day operations of that small business concern;
 
 &emsp;&emsp;(ii) the term “period of military conflict” has the meaning given the term in subsection (n)(1) of this section; and
 
@@ -798,7 +798,7 @@ Except as to agricultural enterprises as defined in section 647(b)(1) of this ti
 
 &emsp;&emsp;&emsp;(III) to market, produce, or provide a product or service ordinarily marketed, produced, or provided by the business concern.
 
-&emsp;(B) The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury asthe result of an essential employee of such small business concern being ordered to active military duty during a period of military conflict.
+&emsp;(B) The Administration may make such disaster loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis) to assist a small business concern that has suffered or that is likely to suffer substantial economic injury as the result of an essential employee of such small business concern being ordered to active military duty during a period of military conflict.
 
 &emsp;(C) A small business concern described in subparagraph (B) shall be eligible to apply for assistance under this paragraph during the period beginning on the date on which the essential employee is ordered to active duty and ending on the date that is 1 year after the date on which such essential employee is discharged or released from active duty. The Administrator may, when appropriate (as determined by the Administrator), extend the ending date specified in the preceding sentence by not more than 1 year.
 
@@ -860,7 +860,7 @@ Authority for qualified private contractors.—
 
 &emsp;&emsp;(A)
 
-Disaster loan processing.—The Administrator may enter into an agreement with a qualified private contractor, as determined by the Administrator, to process loans under this subsection in the event of a major disaster (including any major disaster relating to which the Administrator declareseligibility for additional disaster assistance under paragraph (9)), under which the Administrator shall pay the contractor a fee for each loan processed.
+Disaster loan processing.—The Administrator may enter into an agreement with a qualified private contractor, as determined by the Administrator, to process loans under this subsection in the event of a major disaster (including any major disaster relating to which the Administrator declares eligibility for additional disaster assistance under paragraph (9)), under which the Administrator shall pay the contractor a fee for each loan processed.
 
 &emsp;&emsp;(B)
 
@@ -936,7 +936,7 @@ Processing time.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—If the Administrator determines that the average processing time for applications for disaster loans under this subparagraph relating to a specific major disaster is more than 15 days, the Administrator shall give priority to the processing of such applications submitted by eligible small business concerns located inside the disaster area, until the Administrator determines that the average processing time for such applications is not more than 15 days.
+In general.—If the Administrator determines that the average processing time for applications for disaster loansunder this subparagraph relating to a specific major disaster is more than 15 days, the Administrator shall give priority to the processing of such applications submitted by eligible small business concerns located inside the disaster area, until the Administrator determines that the average processing time for such applications is not more than 15 days.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -970,7 +970,7 @@ Definitions.—In this paragraph—
 
 &emsp;&emsp;&emsp;&emsp;(cc) that relies on a provider located in the disaster area for a service that is not readily available elsewhere.
 
-No loan under this subsection, including renewals and extensions thereof, may be made for a period or periods exceeding thirty years: <i>Provided</i>, That the Administrator may consent to a suspension in the payment of principal and interest charges on, and to an extension in the maturity of, the Federal share of any loan under this subsection for a period not to exceed five years, if (A) the borrower under such loan is a homeowner or a small business concern, (B) the loan was made to enable (i) such homeowner to repair or replace his home, or (ii) such concern to repair or replace plant or equipment which was damaged or destroyed as the result of a disaster meeting the requirements of clause (A) or (B) of paragraph (2) of this subsection, and (C) the Administrator determines such action is necessary to avoid severe financial hardship: <i>Provided further</i>, That the provisions of paragraph (1) of subsection (d) of this section shall not be applicable to any such loan having a maturity in excess of twenty years. Notwithstanding any other provision of law, and except as provided in subsection (d), the interest rate on the Administration's share of any loan made under subsection (b) shall not exceed the average annual interest rate on all interest-bearing obligations of the United States then forming a part of the public debt as computed at the end of the fiscal year next preceding the date of the loan and adjusted to the nearest one-eighth of 1 per centum plus one-quarter of 1 per centum: <i>Provided, however</i>, That the interest rate for loans made under paragraphs (1) and (2) hereof shall not exceed the rate of interest which is in effect at the time of the occurrence of the disaster. In agreements to participate in loans on a deferred basis under this subsection, such participation by the Administration shall not be in excess of 90 per centum of the balance of the loan outstanding at the time of disbursement. Notwithstanding any other provision of law, the interest rate on the Administration's share of any loan made pursuant to paragraph (1) of this subsection to repair or replace a primary residence and/or replace or repair damaged or destroyed personal property, less the amount of compensation by insurance or otherwise, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be: 1 per centum on the amount of such loan not exceeding $10,000, and 3 per centum on the amount of such loan over $10,000 but not exceeding $40,000. The interest rate on the Administration's share of the first $250,000 of all other loans made pursuant to paragraph (1) of this subsection, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be 3 per centum. All repayments of principal on the Administration's share of any loan made under the above provisions shall first be applied to reduce the principal sum of such loan which bears interest at the lower rates provided in this paragraph. The principal amount of any loan made pursuant to paragraph (1) in connection with a disaster which occurs on or after April 1, 1977, but prior to January 1, 1978, may be increased by such amount, but not more than $2,000, as the Administration determines to be reasonable in light of the amount and nature of loss, damage, or injury sustained in order to finance the installation of insulation in the property which was lost, damaged, or injured, if the uninsured, damaged portion of the property is 10 per centum or more of the market value of the property at the time of the disaster. Not later than June 1, 1978, the Administration shall prepare and transmit to the Select Committee on Small Business of the Senate, the Committee on Small Business of the House of Representatives, and the Committees of the Senate and House of Representatives having jurisdiction over measures relating to energy conservation, a report on its activities under this paragraph, including therein an evaluation of the effect of such activities on encouraging the installation of insulation in property which is repaired or replaced after a disaster which is subject to this paragraph, and its recommendations with respect to the continuation, modification, or termination of such activities.
+No loan under this subsection, including renewals and extensions thereof, may be made for a period or periods exceeding thirty years: <i>Provided</i>, That the Administrator may consent to a suspension in the payment of principal and interest charges on, and to an extension in the maturity of, the Federal share of any loan under this subsection for a period not to exceed five years, if (A) the borrower under such loan is a homeowner or a small business concern, (B) the loan was made to enable (i) such homeowner to repair or replace his home, or (ii) such concern to repair or replace plant or equipment which was damaged or destroyed as the result of a disaster meeting the requirements of clause (A) or (B) of paragraph (2) of this subsection, and (C) the Administrator determines such action is necessary to avoid severe financial hardship: <i>Provided further</i>, That the provisions of paragraph (1) of subsection (d) of this section shall not be applicable to any such loan having a maturity in excess of twenty years. Notwithstanding any other provision of law, and except as provided in subsection (d), the interest rate on the Administration's share of any loan made under subsection (b) shall not exceed the average annual interest rate on all interest-bearing obligations of the United States then forming a part of the public debt as computed at the end of the fiscal year next preceding the date of the loan and adjusted to the nearest one-eighth of 1 per centum plus one-quarter of 1 per centum: <i>Provided, however</i>, That the interest rate for loans made under paragraphs (1) and (2) hereof shall not exceed the rate of interest which is in effect at the time of the occurrence of the disaster. In agreements to participate in loans on a deferred basis under this subsection, such participation by the Administration shall not be in excess of 90 per centum of the balance of the loan outstanding at the time of disbursement. Notwithstanding any other provision of law, the interest rate on the Administration's share of any loan made pursuant to paragraph (1) of this subsection to repair or replace a primary residence and/or replace or repair damaged or destroyed personal property, less the amount of compensation by insurance or otherwise, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be: 1 per centum on the amount of such loan not exceeding $10,000, and 3 per centum on the amount of such loan over $10,000 but not exceeding $40,000. The interest rate on the Administration's share of the first $250,000 of all other loans made pursuant to paragraph (1) of this subsection, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be 3 per centum. All repayments of principal on the Administration's share of any loan made under the above provisions shall first be applied to reduce the principal sum of such loan which bears interest at the lower rates provided in this paragraph. The principal amount of any loan made pursuant to paragraph (1) in connection with a disaster which occurs on or after April 1, 1977, but prior to January 1, 1978, may be increased by such amount, but not more than $2,000, as the Administration determines to be reasonable in light of the amount and nature of loss, damage, or injury sustained in order to finance the installation of insulation in the property which was lost, damaged, or injured, if the uninsured, damaged portion of the property is 10 per centum or more of the market value of the property at the time of the disaster. Not later than June 1, 1978, the Administration shall prepare and transmit to the Select Committee on Small Business of the Senate, the Committee on Small Business of the House of Representatives,and the Committees of the Senate and House of Representatives having jurisdiction over measures relating to energy conservation, a report on its activities under this paragraph, including therein an evaluation of the effect of such activities on encouraging the installation of insulation in property which is repaired or replaced after a disaster which is subject to this paragraph, and its recommendations with respect to the continuation, modification, or termination of such activities.
 
 In the administration of the disaster loan program under paragraphs (1) and (2) of this subsection, in the case of property loss or damage or injury resulting from a major disaster as determined by the President or a disaster as determined by the Administrator which occurs on or after January 1, 1971, and prior to July 1, 1973, the Small Business Administration, to the extent such loss or damage or injury is not compensated for by insurance or otherwise—
 
@@ -1038,7 +1038,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
 #### (B) Other Federal assistance
 
-&emsp;&emsp;The Administrator may coordinate with the head of any other appropriate Federalagency so that any application submitted through an online application process established under this paragraph may be considered for any other Federal assistance program for disaster relief.
+&emsp;&emsp;The Administrator may coordinate with the head of any other appropriate Federal agency so that any application submitted through an online application process established under this paragraph may be considered for any other Federal assistance program for disaster relief.
 
 #### (C) Consultation
 
@@ -1118,7 +1118,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
 &emsp;(1) The Administration may further extend the maturity of or renew any loan made pursuant to this section, or any loan transferred to the Administration pursuant to Reorganization Plan Numbered 2 of 1954, or Reorganization Plan Numbered 1 of 1957, for additional periods not to exceed ten years beyond the period stated therein, if such extension or renewal will aid in the orderly liquidation of such loan.
 
-&emsp;(2) During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b) of this section, the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: <i>Provided</i>, That no such payments shall be made by the Administrator in behalf of any borrower unless\(i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
+&emsp;(2) During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b) of this section, the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: <i>Provided</i>, That no such payments shall be made by the Administrator in behalf of any borrower unless (i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
 
 &emsp;(3) With respect to a disaster occurring on or after October 1, 1978, and prior <sup>10</sup> August 13, 1981, on the Administration's share of loans made pursuant to paragraph (1) of subsection (b) of this section—
 
@@ -1142,7 +1142,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
 &emsp;&emsp;(A) in the case of a homeowner unable to secure credit elsewhere, the rate prescribed by the Administration but not more than one-half the rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loan plus an additional charge of not to exceed 1 per centum per annum as determined by the Administrator, and adjusted to the nearest one-eighth of 1 per centum, but not to exceed 4 per centum per annum;
 
-&emsp;&emsp;(B) in the case of a homeowner able to secure credit elsewhere, the rate prescribed by the Administration but not more than the rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans plus an additional charge of not to exceed 1 per centum per annum as determined by the Administrator, and adjusted to thenearest one-eighth of 1 per centum, but not to exceed 8 per centum per annum;
+&emsp;&emsp;(B) in the case of a homeowner able to secure credit elsewhere, the rate prescribed by the Administration but not more than the rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans plus an additional charge of not to exceed 1 per centum per annum as determined by the Administrator, and adjusted to the nearest one-eighth of 1 per centum, but not to exceed 8 per centum per annum;
 
 &emsp;&emsp;(C) in the case of a business, private nonprofit organization, or other concern, including agricultural cooperatives, unable to obtain credit elsewhere, not to exceed 4 per centum per annum;
 
@@ -1188,7 +1188,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;(B) to assist any handicapped individual in establishing, acquiring, or operating a small business concern.
 
-(2) The Administration's share of any loan made under this subsection shall not exceed$350,000, nor may any such loan be made if the total amount outstanding and committed (by participation or otherwise) to the borrower from the business loan and investment fund established by section 633(c)(1)(B) of this title would exceed $350,000. In agreements to participate in loans on a deferred basis under this subsection, the Administration's participation may total 100 per centum of the balance of the loan at the time of disbursement. The Administration's share of any loan made under this subsection shall bear interest at the rate of 3 per centum per annum. The maximum term of any such loan, including extensions and renewals thereof, may not exceed fifteen years. All loans made under this subsection shall be of such sound value or so secured as reasonably to assure repayment: <i>Provided, however</i>, That any reasonable doubt shall be resolved in favor of the applicant.
+(2) The Administration's share of any loan made under this subsection shall not exceed $350,000, nor may any such loan be made if the total amount outstanding and committed (by participation or otherwise) to the borrower from the business loan and investment fund established by section 633(c)(1)(B) of this title would exceed $350,000. In agreements to participate in loans on a deferred basis under this subsection, the Administration's participation may total 100 per centum of the balance of the loan at the time of disbursement. The Administration's share of any loan made under this subsection shall bear interest at the rate of 3 per centum per annum. The maximum term of any such loan, including extensions and renewals thereof, may not exceed fifteen years. All loans made under this subsection shall be of such sound value or so secured as reasonably to assure repayment: <i>Provided, however</i>, That any reasonable doubt shall be resolved in favor of the applicant.
 
 (3) For purposes of this subsection, the term “handicapped individual” means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.
 
@@ -1210,7 +1210,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;(C) the amount of the loan, together with other funds available, is adequate to assure completion of the project or achievement of the purposes for which the loan is made;
 
-&emsp;(D) the loan bears interest at a rate not less than (i) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus (ii) such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes: <i>Provided, however</i>, That the rate of interest charged on loans made in redevelopment areas designated under the Public Works and Economic Development Act of 1965 \[42 U.S.C. 3121 et seq.\] shall not exceed the rate currently applicable to new loans made under section 201 of that Act \[42 U.S.C. 3141\]; and
+&emsp;(D) the loan bears interest at a rate not less than (i) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus (ii) such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes: <i>Provided, however</i>, That the rateof interest charged on loans made in redevelopment areas designated under the Public Works and Economic Development Act of 1965 \[42 U.S.C. 3121 et seq.\] shall not exceed the rate currently applicable to new loans made under section 201 of that Act \[42 U.S.C. 3141\]; and
 
 &emsp;(E) fees not in excess of amounts necessary to cover administrative expenses and probable losses may be required on loan guarantees.
 
@@ -1252,7 +1252,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;(A) The Program shall—
 
-&emsp;&emsp;(i) assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant's specific business targets, objectives, and goals developed and maintained in conformity with subparagraph (D).<sup>12</sup>
+&emsp;&emsp;(i) assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant's specific business targets, objectives, andgoals developed and maintained in conformity with subparagraph (D).<sup>12</sup>
 
 &emsp;&emsp;(ii) provide for such other nonfinancial services as deemed necessary for the establishment, preservation, and growth of small business concerns participating in the Program, including but not limited to (I) loan packaging, (II) financial counseling, (III) accounting and bookkeeping assistance, (IV) marketing assistance, and (V) management assistance;
 
@@ -1274,7 +1274,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;(ii) Nothing contained in this subparagraph shall be deemed to prevent the Administration from instituting a termination or graduation pursuant to subparagraph (F) or (H) for issues unrelated to the expiration of any time period limitation.
 
-&emsp;(D)(i) Promptly after certification under paragraph (11) a Program Participant shall submit a business plan (hereinafter referred to as the “plan”) as described in clause (ii) of this subparagraph for review by the Business Opportunity Specialist assigned to assist such Program Participant. The plan may be a revision of a preliminary business plan submitted by the Program Participant or required by the Administration as a part of the application for certification under this section and shall be designed to result in the Program Participant eliminating the conditions or circumstances upon which the Administration determined eligibility pursuant to section 637(a)(6) of this title. Such plan, and subsequent modifications submitted under clause (iii) of this subparagraph, shall be approved by the business opportunity specialist prior to the Program Participant being eligible for award of a contract pursuant to section 637(a) of this title.
+&emsp;(D)(i) Promptly after certification under paragraph (11) a Program Participant shall submit a business plan (hereinafter referred to as the “plan”) as described in clause (ii) of this subparagraph for review by the Business Opportunity Specialist assigned to assist such Program Participant. The Business Opportunity Specialist shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist serving at the time of the date of enactment of the National Defense Authorization Act for Fiscal Year 2013 may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on that date of enactment without such a certification. The plan may be a revision of a preliminary business plan submitted by the Program Participant or required by the Administration as a part of the application for certification under this section and shall be designed to result in the Program Participant eliminating the conditions or circumstances upon which the Administration determined eligibility pursuant to section 637(a)(6) of this title. Such plan, and subsequent modifications submitted under clause (iii) of this subparagraph, shall be approved by the business opportunity specialist prior to the Program Participant being eligible for award of a contract pursuant to section 637(a) of this title.
 
 &emsp;(ii) The plans submitted under this subparagraph shall include the following:
 
@@ -1288,7 +1288,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;&emsp;(V) Estimates of contract awards pursuant to section 637(a) of this title and from other sources, which the Program Participant will require to meet the specific targets, objectives, and goals for the years covered by its plan. The estimates established shall be consistent with the provisions of subparagraph (I) and section 637(a) of this title.
 
-&emsp;(iii) Each Program Participant shall annually review its currently approved plan with its Business Opportunity Specialist and modify such plan as may be appropriate. Any modified plan shall be submitted to the Administration for approval. The currently approved plan shall be considered valid until such time as a modified plan is approved by the Business Opportunity Specialist. Annual reviews pertaining to years in the transitional stage of program participation shall require, as appropriate, a written verification that such Program Participant has complied with the requirements of subparagraph (I) relating to attaining business activity from sources other than contracts awarded pursuant to section 637(a) of this title.
+&emsp;(iii) Each Program Participant shall annually review its currently approved plan with its Business Opportunity Specialist and modify such plan as may be appropriate. Any modified plan shall be submitted to the Administration for approval. The currently approved plan shall be considered valid until such time as a modified plan is approved by the Business Opportunity Specialist. Annualreviews pertaining to years in the transitional stage of program participation shall require, as appropriate, a written verification that such Program Participant has complied with the requirements of subparagraph (I) relating to attaining business activity from sources other than contracts awarded pursuant to section 637(a) of this title.
 
 &emsp;(iv) Each Program Participant shall annually forecast its needs for contract awards under section 637(a) of this title for the next program year and the succeeding program year during the review of its business plan, conducted pursuant to clause (iii). Such forecast shall be known as the section 8(a) \[15 U.S.C. 637(a)\] contract support level and shall be included in the Program Participant's business plan. Such forecast shall include—
 
@@ -1300,7 +1300,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;&emsp;(IV) such other information as may be requested by the Business Opportunity Specialist to provide effective business development assistance to the Program Participant.
 
-&emsp;(E) A small business concern participating in the program conducted under the authority of this paragraph and eligible for the award ofcontracts pursuant to section 637(a) of this title shall be denied all such assistance if such concern—
+&emsp;(E) A small business concern participating in the program conducted under the authority of this paragraph and eligible for the award of contracts pursuant to section 637(a) of this title shall be denied all such assistance if such concern—
 
 &emsp;&emsp;(i) voluntarily elects not to continue participation;
 
@@ -1342,7 +1342,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;&emsp;(IV) require the Administration to review each Program Participant's performance regarding attainment of business activity targets during periodic reviews of such Participant's business plan; and
 
-&emsp;&emsp;(V) authorize the Administration to take appropriate remedial measures with respect to a Program Participant that has failed to attain a required business activity target for the purpose of reducing such Participant's dependence on contracts awarded pursuantto section 637(a) of this title; such remedial actions may include, but are not limited to assisting the Program Participant to expand the dollar volume of its competitive business activity or limiting the dollar volume of contracts awarded to the Program Participant pursuant to section 637(a) of this title; except for actions that would constitute a termination, remedial measures taken pursuant to this subclause shall not be reviewable pursuant to section 637(a)(9) of this title.
+&emsp;&emsp;(V) authorize the Administration to take appropriate remedial measures with respect to a Program Participant that has failed to attain a required business activity target for the purpose of reducing such Participant's dependence on contracts awarded pursuant to section 637(a) of this title; such remedial actions may include, but are not limited to assisting the Program Participant to expand the dollar volume of its competitive business activity or limiting the dollar volume of contracts awarded to the Program Participant pursuant to section 637(a) of this title; except for actions that would constitute a termination, remedial measures taken pursuant to this subclause shall not be reviewable pursuant to section 637(a)(9) of this title.
 
 &emsp;(J)(i) The Administration shall conduct an evaluation of a Program Participant's eligibility for continued participation in the Program whenever it receives specific and credible information alleging that such Program Participant no longer meets the requirements for Program eligibility. Upon making a finding that a Program Participant is no longer eligible, the Administration shall initiate a termination proceeding in accordance with subparagraph (F). A Program Participant's eligibility for award of any contract under the authority of section 637(a) of this title may be suspended pursuant to subpart 9.4 of title 48, Code of Federal Regulations (or any successor regulation).
 
@@ -1410,7 +1410,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 (C) The transitional stage of program participation shall be designed to overcome, insofar as practicable, the remaining elements of economic disadvantage and to prepare such concern for graduation from the program.
 
-(13) A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: <sup>13</sup>
+(13) A Program Participant, if otherwise eligible, shall be qualified to receive the followingassistance during the stages of program participation specified in paragraph 12: <sup>13</sup>
 
 &emsp;(A) Contract support pursuant to section 637(a) of this title.
 
@@ -1422,7 +1422,7 @@ In making loans under subsection (b), the Administrator shall not require the bo
 
 &emsp;&emsp;(i) the Administration finds that such concern is unable to obtain the requisite bond or bonds from a surety and that no surety is willing to issue a bond subject to the guarantee provision of title IV of the Small Business Investment Act of 1958 (15 U.S.C. 692 et seq.);
 
-&emsp;&emsp;(ii) the Administration and the agency providing the contracting opportunity have provided for the protection of persons furnishing materials or labor to the Program Participant by arranging for the direct disbursement of funds due to such persons bythe procuring agency or through any bank the deposits of which are insured by the Federal Deposit Insurance Corporation; and
+&emsp;&emsp;(ii) the Administration and the agency providing the contracting opportunity have provided for the protection of persons furnishing materials or labor to the Program Participant by arranging for the direct disbursement of funds due to such persons by the procuring agency or through any bank the deposits of which are insured by the Federal Deposit Insurance Corporation; and
 
 &emsp;&emsp;(iii) the contract to which it pertains does not exceed $3,000,000 in amount. This subparagraph shall cease to be effective on October 1, 1994.
 
@@ -1486,13 +1486,13 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 &emsp;(1) to utilize, with their consent, the services and facilities of Federal agencies without reimbursement, and, with the consent of any State or political subdivision of a State, accept and utilize the services and facilities of such State or subdivision without reimbursement;
 
-&emsp;(2) to accept, in the name of the Administration, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible, or intangible, received by gift, devise, bequest, or otherwise;
+&emsp;(2) to accept, in the name of the Administration, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible, orintangible, received by gift, devise, bequest, or otherwise;
 
 &emsp;(3) to accept voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31; and
 
 &emsp;(4) to employ experts and consultants or organizations thereof as authorized by section 3109 of title 5, except that no individual may be employed under the authority of this subsection for more than one hundred days in any fiscal year; to compensate individuals so employed at rates not in excess of the daily equivalent of the highest rate payable under section 5332 of title 5, including traveltime; and to allow them, while away from their homes or regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed: <i>Provided, however</i>, That contracts for such employment may be renewed annually.
 
-#### (<i>l</i>) Small business intermediary lending pilot program
+#### (l) Small business intermediary lending pilot program
 
 #### (1) Definitions
 
@@ -1654,7 +1654,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 &emsp;&emsp;&emsp;&emsp;(III) the geographic area to be served and its economic, poverty, and unemployment characteristics;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the status of small business concerns in the area to be served and an analysis of their credit and technical assistance needs;
+&emsp;&emsp;&emsp;&emsp;(IV) the status of small business concerns in the area to be served and ananalysis of their credit and technical assistance needs;
 
 &emsp;&emsp;&emsp;&emsp;(V) any marketing, management, and technical assistance to be provided in connection with a loan made under this subsection;
 
@@ -1670,37 +1670,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (B) Intermediary contribution
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;Subject to clause (ii), as a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
-
-#### (ii) Waiver of non-Federal share
-
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;Upon request by an intermediary, and in accordance with this clause, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under clause (i) for a fiscal year. The Administrator may waive the requirement to obtain non-Federal funds under this clause for successive fiscal years.
-
-#### (II) Considerations
-
-&emsp;&emsp;&emsp;&emsp;In determining whether to waive the requirement to obtain non-Federal funds under this clause, the Administrator shall consider—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the economic conditions affecting the intermediary;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the impact a waiver under this clause would have on the credibility of the microloan program under this subsection;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the demonstrated ability of the intermediary to raise non-Federal funds; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the performance of the intermediary.
-
-#### (III) Limitations
-
-#### (aa) In general
-
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this clause if granting the waiver would undermine the credibility of the microloan program under this subsection.
-
-#### (bb) Sunset
-
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this clause for fiscal year 2013 or any fiscal year thereafter.
+&emsp;&emsp;As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
 
 #### (C) Loan limits
 
@@ -1748,7 +1718,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (iii) Rates applicable to certain small loans
 
-&emsp;&emsp;&emsp;Loans made by the Administration to an intermediary that makes loans to small business concerns and entrepreneurs averaging not more than $7,500, shall bear an interest rate that is 2 percentage points below the rate determined by the Secretary of the Treasury for obligations of the United States with a period of maturity of 5 years, adjusted to the nearest one-eighth of 1 percent.
+&emsp;&emsp;&emsp;Loans made by the Administration to an intermediary that makes loans to small business concerns and entrepreneurs averaging not more than $7,500, shall bear an interest rate that is 2 percentage points below the rate determined by the Secretary of the Treasury for obligations ofthe United States with a period of maturity of 5 years, adjusted to the nearest one-eighth of 1 percent.
 
 #### (iv) Rates applicable to multiple sites or offices
 
@@ -1784,43 +1754,13 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (B) Contribution
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;Subject to clause (ii), as a condition of a grant made under subparagraph (A), the Administrator shall require the intermediary to contribute an amount equal to 25 percent of the amount of the grant, obtained solely from non-Federal sources. In addition to cash or other direct funding, the contribution may include indirect costs or in-kind contributions paid for under non-Federal programs.
-
-#### (ii) Waiver of non-Federal share
-
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;Upon request by an intermediary, and in accordance with this clause, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under clause (i) for a fiscal year. The Administrator may waive the requirement to obtain non-Federal funds under this clause for successive fiscal years.
-
-#### (II) Considerations
-
-&emsp;&emsp;&emsp;&emsp;In determining whether to waive the requirement to obtain non-Federal funds under this clause, the Administrator shall consider—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the economic conditions affecting the intermediary;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the impact a waiver under this clause would have on the credibility of the microloan program under this subsection;
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the demonstrated ability of the intermediary to raise non-Federal funds; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the performance of the intermediary.
-
-#### (III) Limitations
-
-#### (aa) In general
-
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this clause if granting the waiver would undermine the credibility of the microloan program under this subsection.
-
-#### (bb) Sunset
-
-&emsp;&emsp;&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this clause for fiscal year 2013 or any fiscal year thereafter.
+&emsp;&emsp;As a condition of a grant made under subparagraph (A), the Administrator shall require the intermediary to contribute an amount equal to 25 percent of the amount of the grant, obtained solely from non-Federal sources. In addition to cash or other direct funding, the contribution may include indirect costs or in-kind contributions paid for under non-Federal programs.
 
 #### (C) Additional technical assistance grants for making certain loans
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each intermediary that has a portfolio of loans made under this subsection that averages not more than $10,000 during the period of the intermediary's participation in the program shall be eligible to receivea grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection, in addition to grants made under subparagraph (A).
+&emsp;&emsp;&emsp;Each intermediary that has a portfolio of loans made under this subsection that averages not more than $10,000 during the period of the intermediary's participation in the program shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection, in addition to grants made under subparagraph (A).
 
 #### (ii) Purposes
 
@@ -1848,7 +1788,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administration may accept any funds transferred to the Administration from other departments or agencies of the Federal Government to make grants in accordance with this subparagraph and section 202(b) of the Small Business Reauthorization Act of 1997 to participating intermediaries and technical assistance providers under paragraph (5), for use in accordance with clause (iii) to provide additional technical assistance and related services to recipients of assistance under a State program described in paragraph (1)(A)(iv) at the time they initially apply for assistance under this subparagraph.
+&emsp;&emsp;&emsp;The Administration may accept any funds transferred to the Administration from other departments or agencies of the Federal Government to make grants in accordance with this subparagraph and section 202(b) of the Small Business Reauthorization Act of 1997 to participating intermediaries and technical assistance providers under paragraph (5), for use in accordance with clause (iii) to provide additional technical assistance and related services to recipients of assistance under a Stateprogram described in paragraph (1)(A)(iv) at the time they initially apply for assistance under this subparagraph.
 
 #### (ii) Eligible recipients; grant amounts
 
@@ -1890,7 +1830,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (A) In general
 
-&emsp;&emsp;An eligible intermediary shall make short-term, fixed rate loans to startup, newly established, and growing small business concerns from the funds made available to it under subparagraph (B)(i) of paragraph (1)for working capital and the acquisition of materials, supplies, furniture, fixtures, and equipment.
+&emsp;&emsp;An eligible intermediary shall make short-term, fixed rate loans to startup, newly established, and growing small business concerns from the funds made available to it under subparagraph (B)(i) of paragraph (1) for working capital and the acquisition of materials, supplies, furniture, fixtures, and equipment.
 
 #### (B) Portfolio requirement
 
@@ -1922,7 +1862,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 #### (i) Minimum allocation
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, of the total amount of new loan funds made available for award under this subsection in each fiscal year, the Administration shall make available for award in each State (including the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa) an amount equal to the sum of—
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, of the total amount of new loanfunds made available for award under this subsection in each fiscal year, the Administration shall make available for award in each State (including the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa) an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the lesser of—
 
@@ -2050,7 +1990,7 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 &emsp;&emsp;The term “qualified borrower” means—
 
-&emsp;&emsp;&emsp;(i) an individual who is an eligible reservist and who received a direct loanunder subsection (a) or (b) of this section before being ordered to active duty; or
+&emsp;&emsp;&emsp;(i) an individual who is an eligible reservist and who received a direct loan under subsection (a) or (b) of this section before being ordered to active duty; or
 
 &emsp;&emsp;&emsp;(ii) a small business concern that received a direct loan under subsection (a) or (b) of this section before an eligible reservist, who is an essential employee, was ordered to active duty.
 
@@ -2076,25 +2016,15 @@ In carrying out its functions under subsections (i) and (j) of this section and 
 
 &emsp;&emsp;(B) not later than 30 days after August 17, 1999, establish guidelines to—
 
-&emsp;&emsp;&emsp;(i) encourage lenders and other intermediaries to defer repayment of, or provide other relief relating to, loan guarantees under subsection (a) of this section and financings under section 697a of this title that were incurred by small business concerns that are eligible to apply for assistance under subsection (b)(3) of this section, and loan guarantees provided under subsection (m) of this section if the intermediary provides relief to a small business concern under this paragraph; and
+&emsp;&emsp;&emsp;(i) encourage lenders and other intermediaries to defer repayment of, or provide other relief relating to, loan guarantees under subsection (a) of this section and financings under section 697a of this title that were incurred by small business concerns that are eligible to apply for assistance under subsection (b)(3) of this section, and loan guarantees provided undersubsection (m) of this section if the intermediary provides relief to a small business concern under this paragraph; and
 
 &emsp;&emsp;&emsp;(ii) implement a program to provide for the deferral of repayment or other relief to any intermediary providing relief to a small business borrower under this paragraph.
 
-(Pub. L. 85–536, §2\[7\], July 18, 1958, 72 Stat. 387; Pub. L. 85–699, title VI, §602(c), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–367, §2, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305\[a\], June 30, 1961, 75 Stat. 167; Pub. L. 87–305, §9, Sept. 26, 1961, 75 Stat. 668; Pub. L. 88–264, §1, Feb. 5, 1964, 78 Stat. 7; Pub. L. 88–560, title III, §319, Sept. 2, 1964, 78 Stat. 794; Pub. L. 89–59, §1(a), (b), June 30, 1965, 79 Stat. 206; Pub. L. 89–409, §3(a), May 2, 1966, 80 Stat. 133; Pub. L. 89–769, §7(b), Nov. 6, 1966, 80 Stat. 1319; Pub. L. 90–104, title I, §§103, 104, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XI, §1106(a), Aug. 1, 1968, 82 Stat. 567; Pub. L. 90–495, §31, Aug. 23, 1968, 82 Stat. 835; Pub. L. 91–173, title V, §504(a), (b), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–596, §28(a), (b), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(a), (b), Dec. 29, 1970, 84 Stat. 1633, 1634; Pub. L. 92–385, §§1(a), 2(a), Aug. 16, 1972, 86 Stat. 554, 555; Pub. L. 92–500, §8(a), Oct. 18, 1972, 86 Stat. 898; Pub. L. 92–595, §3(b), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§2(a), (b), 3(a), 5, 6, Jan. 2, 1974, 87 Stat. 1023, 1024; Pub. L. 93–386, §§2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, 88 Stat. 742, 746, 748, 749; Pub. L. 94–305, title I, §§108(b), 109, 111, 112(c), (d), 114, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–89, title I, §101(d), (e), title III, §§301, 302, title IV, §§402–405, Aug. 4, 1977, 91 Stat. 553, 558–560; Pub. L. 95–315, §§2, 3, July 4, 1978, 92 Stat. 377, 378; Pub. L. 95–507, title II, §§204, 205, 231, Oct. 24, 1978, 92 Stat. 1764, 1766, 1772; Pub. L. 95–510, §104, Oct. 24, 1978, 92 Stat. 1782; Pub. L. 96–38, title I, §101(a), (b), July 25, 1979, 93 Stat. 118; Pub. L. 96–302, title I, §§119(a), (b), 122–124, title II, §203, title V, §505, July 2, 1980, 94 Stat. 840, 841, 843, 848, 852; Pub. L. 96–481, title I, §§104, 106(a), 107, 112, Oct. 21, 1980, 94 Stat. 2322, 2323; Pub. L. 97–35, title XIX, §§1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, 95 Stat. 767, 778–780; Pub. L. 98–270, title III, §§301, 304, 308, 309, 311, Apr. 18, 1984, 98 Stat. 159–161; Pub. L. 98–395, §5, Aug. 21, 1984, 98 Stat. 1368; Pub. L. 99–272, title XVIII, §§18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, 100 Stat. 366, 370; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title VIII, §§8005, 8007(a), Aug. 23, 1988, 102 Stat. 1557, 1559; Pub. L. 100–533, title III, §302(a), Oct. 25, 1988, 102 Stat. 2693; Pub. L. 100–590, title I, §§102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, 102 Stat. 2992, 2995, 2999, 3000; Pub. L. 100–656, title II, §§201(a), 202, 203, 205, 206, 208, title III, §§301–303(a), title IV, §408, title V, §505(h), Nov. 15, 1988, 102 Stat. 3856, 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; Pub. L. 100–707, title I, §109(f), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–37, §§4–6(a), 7(a), 8–10(b), June 15, 1989, 103 Stat. 70–73; Pub. L. 101–162, title V, (1), (2), Nov. 21, 1989, 103 Stat. 1024, 1025; Pub. L. 101–574, title II, §§202, 204(a), 206, 242, 245, title III, §307, Nov. 15, 1990, 104 Stat. 2818–2820, 2827, 2830; Pub. L. 102–140, title VI, §609(b), (h), Oct. 28, 1991, 105 Stat. 825, 827; Pub. L. 102–191, §4, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title I, §§104, 113(a), title II, §211, Sept. 4, 1992, 106 Stat. 988, 989, 997; Pub. L. 102–564, title III, §307(b), (c), Oct. 28, 1992, 106 Stat. 4263, 4264; Pub. L. 103–81, §§4, 5(a), 8, Aug. 13, 1993, 107 Stat. 781, 782; Pub. L. 103–403, title II, §§201, 202, 204–208(b), 209–211, title VI, §§603–605(a), Oct. 22, 1994, 108 Stat. 4180–4183, 4202, 4203; Pub. L. 104–36, §§2–4(a), 5, Oct. 12, 1995, 109 Stat. 295–297; Pub. L. 104–208, div. D, title I, §§103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, 110 Stat. 3009–726, 3009–727, 3009–731 to 3009–733; Pub. L. 105–135, title II, §§201, 202(a), 231, title VII, §706, Dec. 2, 1997, 111 Stat. 2597, 2598, 2606, 2637; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(10), (f)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 106–8, §3(a), (c), Apr. 2, 1999, 113 Stat. 13, 16; Pub. L. 106–22, §§2, 3, Apr. 27, 1999, 113 Stat. 36, 37; Pub. L. 106–24, §1(a), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–50, title IV,§§401(b), 402(a), (b), 403, 404, Aug. 17, 1999, 113 Stat. 244–246; Pub. L. 106–554, §1(a)(9) \[title II, §§202–208(a), 210, title VIII, §802(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–681 to 2763A–684, 2763A–702; Pub. L. 107–100, §6(a), Dec. 21, 2001, 115 Stat. 970; Pub. L. 108–447, div. K, title I, §§101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, 118 Stat. 3442–3446; Pub. L. 109–163, div. A, title VIII, §845(a)(2), (c), Jan. 6, 2006, 119 Stat. 3390, 3391; Pub. L. 110–140, title XII, §§1201, 1202, Dec. 19, 2007, 121 Stat. 1764, 1765; Pub. L. 110–186, title II, §§201(a), 203, 204, 208, Feb. 14, 2008, 122 Stat. 627, 629, 631; Pub. L. 110–234, title XII, §§12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, 122 Stat. 1406, 1407, 1409–1411, 1414–1418; Pub. L. 110–246, §4(a), title XII, §§12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, 122 Stat. 1664, 2168, 2169, 2171–2173, 2176–2180; Pub. L. 111–240, title I, §§1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, 124 Stat. 2507, 2508, 2512, 2514,2520, 2530–2532, 2547, 2549; Pub. L. 112–74, div. C, title V, §531, Dec. 23, 2011, 125 Stat. 922.)
+(Pub. L. 85–536, §2\[7\], July 18, 1958, 72 Stat. 387; Pub. L. 85–699, title VI, §602(c), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–367, §2, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305\[a\], June 30, 1961, 75 Stat. 167; Pub. L. 87–305, §9, Sept. 26, 1961, 75 Stat. 668; Pub. L. 88–264, §1, Feb. 5, 1964, 78 Stat. 7; Pub. L. 88–560, title III, §319, Sept. 2, 1964, 78 Stat. 794; Pub. L. 89–59, §1(a), (b), June 30, 1965, 79 Stat. 206; Pub. L. 89–409, §3(a), May 2, 1966, 80 Stat. 133; Pub. L. 89–769, §7(b), Nov. 6, 1966, 80 Stat. 1319; Pub. L. 90–104, title I, §§103, 104, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XI, §1106(a), Aug. 1, 1968, 82 Stat. 567; Pub. L. 90–495, §31, Aug. 23, 1968, 82 Stat. 835; Pub. L. 91–173, title V, §504(a), (b), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–596, §28(a), (b), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(a), (b), Dec. 29, 1970, 84 Stat. 1633, 1634; Pub. L. 92–385, §§1(a), 2(a), Aug. 16, 1972, 86 Stat. 554, 555; Pub. L. 92–500, §8(a), Oct. 18, 1972, 86 Stat. 898; Pub. L. 92–595, §3(b), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§2(a), (b), 3(a), 5, 6, Jan. 2, 1974, 87 Stat. 1023, 1024; Pub. L. 93–386, §§2(a)(4), 3(2), 8, 9, 12, Aug. 23, 1974, 88 Stat. 742, 746, 748, 749; Pub. L. 94–305, title I, §§108(b), 109, 111, 112(c), (d), 114, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–89, title I, §101(d), (e), title III, §§301, 302, title IV, §§402–405, Aug. 4, 1977, 91 Stat. 553, 558–560; Pub. L. 95–315, §§2, 3, July 4, 1978, 92 Stat. 377, 378; Pub. L. 95–507, title II, §§204, 205, 231, Oct. 24, 1978, 92 Stat. 1764, 1766, 1772; Pub. L. 95–510, §104, Oct. 24, 1978, 92 Stat. 1782; Pub. L. 96–38, title I, §101(a), (b), July 25, 1979, 93 Stat. 118; Pub. L. 96–302, title I, §§119(a), (b), 122–124, title II, §203, title V, §505, July 2, 1980, 94 Stat. 840, 841, 843, 848, 852; Pub. L. 96–481, title I, §§104, 106(a), 107, 112, Oct. 21, 1980, 94 Stat. 2322, 2323; Pub. L. 97–35, title XIX, §§1902, 1910–1912, 1913(a), (c), 1914, Aug. 13, 1981, 95 Stat. 767, 778–780; Pub. L. 98–270, title III, §§301, 304, 308, 309, 311, Apr. 18, 1984, 98 Stat. 159–161; Pub. L. 98–395, §5, Aug. 21, 1984, 98 Stat. 1368; Pub. L. 99–272, title XVIII, §§18006(a)(1), (2), 18007, 18013, Apr. 7, 1986, 100 Stat. 366, 370; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title VIII, §§8005, 8007(a), Aug. 23, 1988, 102 Stat. 1557, 1559; Pub. L. 100–533, title III, §302(a), Oct. 25, 1988, 102 Stat. 2693; Pub. L. 100–590, title I, §§102(a), 103, 111(c), 119(a), 120–122, Nov. 3, 1988, 102 Stat. 2992, 2995, 2999, 3000; Pub. L. 100–656, title II, §§201(a), 202, 203, 205, 206, 208, title III, §§301–303(a), title IV, §408, title V, §505(h), Nov. 15, 1988, 102 Stat. 3856, 3858, 3859, 3861, 3862, 3865–3868, 3877, 3887; Pub. L. 100–707, title I, §109(f), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–37, §§4–6(a), 7(a), 8–10(b), June 15, 1989, 103 Stat. 70–73; Pub. L. 101–162, title V, (1), (2), Nov. 21, 1989, 103 Stat. 1024, 1025; Pub. L. 101–574, title II, §§202, 204(a), 206, 242, 245, title III, §307, Nov. 15, 1990, 104 Stat. 2818–2820, 2827, 2830; Pub. L. 102–140, title VI, §609(b), (h), Oct. 28, 1991, 105 Stat. 825, 827; Pub. L. 102–191, §4, Dec. 5, 1991, 105 Stat. 1591; Pub. L. 102–366, title I, §§104, 113(a), title II, §211, Sept. 4, 1992, 106 Stat. 988, 989, 997; Pub. L. 102–564, title III, §307(b), (c), Oct. 28, 1992, 106 Stat. 4263, 4264; Pub. L. 103–81, §§4, 5(a), 8, Aug. 13, 1993, 107 Stat. 781, 782; Pub. L. 103–403, title II, §§201, 202, 204–208(b), 209–211, title VI, §§603–605(a), Oct. 22, 1994, 108 Stat. 4180–4183, 4202, 4203; Pub. L. 104–36, §§2–4(a), 5, Oct. 12, 1995, 109 Stat. 295–297; Pub. L. 104–208, div. D, title I, §§103(a)–(d), (f), 105, 107, 111, Sept. 30, 1996, 110 Stat. 3009–726, 3009–727, 3009–731 to 3009–733; Pub. L. 105–135, title II, §§201, 202(a), 231, title VII, §706, Dec. 2, 1997, 111 Stat. 2597, 2598, 2606, 2637; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(10), (f)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 106–8, §3(a), (c), Apr. 2, 1999, 113 Stat. 13, 16; Pub. L. 106–22, §§2, 3, Apr. 27, 1999, 113 Stat. 36, 37; Pub. L. 106–24, §1(a), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–50, title IV, §§401(b), 402(a), (b), 403, 404, Aug. 17, 1999, 113 Stat. 244–246; Pub. L. 106–554, §1(a)(9) \[title II, §§202–208(a), 210, title VIII, §802(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–681 to 2763A–684, 2763A–702; Pub. L. 107–100, §6(a), Dec. 21, 2001, 115 Stat. 970; Pub. L. 108–447, div. K, title I, §§101(a), 102, 103(a), 107(a), (b), Dec. 8, 2004, 118 Stat. 3442–3446; Pub. L. 109–163, div. A, title VIII, §845(a)(2), (c), Jan. 6, 2006, 119 Stat. 3390, 3391; Pub. L. 110–140, title XII, §§1201, 1202, Dec. 19, 2007, 121 Stat. 1764, 1765; Pub. L. 110–186, title II, §§201(a), 203, 204, 208, Feb. 14, 2008, 122 Stat. 627, 629, 631; Pub. L. 110–234, title XII, §§12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), May 22, 2008, 122 Stat. 1406, 1407, 1409–1411, 1414–1418; Pub. L. 110–246, §4(a), title XII, §§12061, 12063(a), (c)(2), 12065, 12066(a), 12068(a), (b)(2), 12070, 12074(a), 12077–12078(b)(1), (c), 12081–12083(a), June 18, 2008, 122 Stat. 1664, 2168, 2169, 2171–2173, 2176–2180; Pub. L. 111–240, title I, §§1111, 1113, 1131(a), 1133, 1135, 1206(a)–(g), 1401(a), (c)(1), Sept. 27, 2010, 124 Stat. 2507, 2508, 2512, 2514, 2520, 2530–2532, 2547, 2549; Pub. L. 112–74, div. C, title V, §531, Dec. 23, 2011, 125 Stat. 922; Pub. L. 112–239, div. A, title XVI, §1622(c), Jan. 2, 2013, 126 Stat. 2069.)
 
 #### Amendment of Subsection (a)
 
 <i>Pub. L. 111–240, title I, §1133(b), Sept. 27, 2010, 124 Stat. 2515, provided that, effective Sept. 30, 2013, subsection (a) of this section is amended by striking paragraph (34) and redesignating paragraph (35), as added by section 1206 of Pub. L. 111–240, as paragraph (34). See 2010 Amendment notes below.</i>
-
-#### Amendment of Subsection (m)
-
-<i>Pub. L. 111–240, title I, §1401(c), Sept. 27, 2010, 124 Stat. 2549, provided that, effective Oct. 1, 2012, subsection (m) of this section is amended in paragraphs (3)(B) and (4)(B):</i>
-
-<i>(1) by striking “(i) In general” and all that follows through “Subject to clause (ii), as” and inserting “As”; and</i>
-
-<i>(2) by striking clause (ii).</i>
-
-<i>See 2010 Amendment notes below.</i>
 
 #### References in Text
 
@@ -2117,6 +2047,8 @@ Reorganization Plan Numbered 1 of 1957, referred to in subsec. (d)(1), is set ou
 The Economic Opportunity Act of 1964, referred to in subsec. (i)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title III of the Act was classified generally to subchapter III (§2841 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (i)(5)(D), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§3121 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (j)(10)(D)(i), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 Section 602(b) of Public Law 100–656, the “Business Opportunity Development Reform Act of 1988”, referred to in subsec. (j)(10)(J)(ii)(III), is set out as a note under section 637 of this title.
 
@@ -2157,6 +2089,8 @@ Provisions similar to those comprising subsec. (e) of this section were containe
 Prior similar provisions were contained in section 207 of act July 30, 1953, ch. 282, title II, 67 Stat. 235, as amended by acts Aug. 9, 1955, ch. 628, §§2, 5, 69 Stat. 547; Feb. 2, 1956, ch. 29, §§2, 3, 70 Stat. 10; Pub. L. 85–335, Feb. 22, 1958, 72 Stat. 27, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (j)(10)(D)(i). Pub. L. 112–239 inserted “The Business Opportunity Specialist shall have a Level I Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that a Business Opportunity Specialist serving at the time of the date of enactment of the National Defense Authorization Act for Fiscal Year 2013 may continue to serve as a Business Opportunity Specialist for a period of 5 years beginning on that date of enactment without such a certification.” after “to assist such Program Participant.”
 
 <b>2011</b>—Subsec. (d)(5)(D). Pub. L. 112–74 substituted “7 years” for “three years”.
 
@@ -2212,7 +2146,7 @@ Subsec. (a)(35). Pub. L. 111–240, §1206(f), added par. (35).
 
 Pub. L. 111–240, §1133(b)(2), redesignated par. (35) as (34).
 
-Subsec. (<i>l</i>). Pub. L. 111–240, §1131(a), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which read “\[RESERVED\]”.
+Subsec. (l). Pub. L. 111–240, §1131(a), added subsec. (l) and struck out former subsec. (l) which read “\[RESERVED\]”.
 
 Subsec. (m)(1)(B)(iii). Pub. L. 111–240, §1113(1), substituted “$50,000” for “$35,000”.
 
@@ -2224,7 +2158,7 @@ Subsec. (m)(3)(C). Pub. L. 111–240, §1113(2)(A), substituted “$5,000,000”
 
 Subsec. (m)(3)(E). Pub. L. 111–240, §1113(2)(B), substituted “$50,000” for “$35,000” in two places.
 
-Subsec. (m)(4)(B). Pub. L. 111–240, §1401(c)(1)(B), struck out cl. (i) designation and heading, substituted“As” for “Subject to clause (ii), as”, and struck out cl. (ii) relating to waiver of non-Federal share.
+Subsec. (m)(4)(B). Pub. L. 111–240, §1401(c)(1)(B), struck out cl. (i) designation and heading, substituted “As” for “Subject to clause (ii), as”, and struck out cl. (ii) relating to waiver of non-Federal share.
 
 Pub. L. 111–240, §1401(a)(2), designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), as a condition of a grant made under subparagraph (A), the Administrator shall require” for “As a condition of any grant made under subparagraph (A), the Administration shall require”, and added cl. (ii).
 
@@ -2336,7 +2270,7 @@ Subsec. (a)(4)(B)(iii). Pub. L. 106–554, §1(a)(9) \[title II, §204\], added 
 
 Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title II, §205(2)\], added subpar. (C).
 
-Subsec. (a)(18). Pub. L. 106–554, §1(a)(9) \[title II, §206\], amended heading and text of par. (18) generally, substituting present provisions for provisions which had authorized guarantee fee in an amount equal to sum of 3 percent of amount of deferred participation share of loan that was less than or equal to $250,000, if deferred participation share of loan exceeded $250,000, plus 3.5 percent of difference between $500,000 or total deferred participation share of loan, whichever was less, and $250,000, plus, if deferred participation share of loan exceeded $500,000, 3.875 percent of difference between total deferred participation share of loan and $500,000, and set forth provisions relating to exception for certain loans.
+Subsec. (a)(18). Pub. L. 106–554, §1(a)(9) \[title II, §206\], amended heading and text of par. (18) generally, substituting present provisions for provisions which had authorized guarantee fee in an amount equal to sum of 3 percent of amount of deferred participation share of loan that was less than or equal to $250,000, if deferred participation share of loan exceeded $250,000, plus 3.5percent of difference between $500,000 or total deferred participation share of loan, whichever was less, and $250,000, plus, if deferred participation share of loan exceeded $500,000, 3.875 percent of difference between total deferred participation share of loan and $500,000, and set forth provisions relating to exception for certain loans.
 
 Subsec. (a)(28). Pub. L. 106–554, §1(a)(9) \[title II, §207\], added par. (28).
 
@@ -2428,7 +2362,7 @@ Subsec. (m)(12). Pub. L. 105–135, §201(c)(4), substituted “1998 through 200
 
 Subsec. (m)(13). Pub. L. 105–135, §202(a)(5), added par. (13).
 
-<b>1996</b>—Subsec. (a)(2)(C)(ii)(II). Pub. L. 104–208, §103(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “authority to service and liquidate such loans.”
+<b>1996</b>—Subsec. (a)(2)(C)(ii)(II). Pub. L. 104–208, §103(a), amended subcl. (II) generally. Prior to amendment,subcl. (II) read as follows: “authority to service and liquidate such loans.”
 
 Subsec. (a)(2)(D). Pub. L. 104–208, §111, added subpar. (D).
 
@@ -2446,7 +2380,7 @@ Subsec. (e). Pub. L. 104–208, §107(b), amended subsec. (e) generally, substit
 
 Subsec. (f). Pub. L. 104–208, §107(c), amended subsec. (f) generally, substituting “(f) \[RESERVED\]” for prior provisions of subsec. (f) which read as follows: “In the administration of the disaster loan program under subsection (b)(1) of this section, in the case of property loss or damage as a result of a disaster which is a ‘major disaster’ as defined in section 102(2) of the Disaster Relief and Emergency Assistance Act, the Small Business Administration, to the extent such loss or damage is not compensated for by insurance or otherwise, may lend to a privately owned college or university without regard to whether the required financial assistance is otherwise available from private sources, and may waive interest payments and defer principal payments on such a loan for the first three years of the term of the loan.”
 
-Subsec. (<i>l</i>). Pub. L. 104–208, §107(c), amended subsec. (<i>l</i>) generally, substituting “(<i>l</i>) \[RESERVED\]” for prior provisions of subsec. (<i>l</i>) which consisted of 9 pars. authorizing loans to small business concerns for solar energy and energy conservation measures.
+Subsec. (l). Pub. L. 104–208, §107(c), amended subsec. (l) generally, substituting “(l) \[RESERVED\]” for prior provisions of subsec. (l) which consisted of 9 pars. authorizing loans to small business concerns for solar energy and energy conservation measures.
 
 Subsec. (m)(7)(B). Pub. L. 104–208, §105, inserted at end “If, however, at the beginning of the fourth quarter of a fiscal year the Administration determines that a portion of appropriated microloan funds are unlikely to be awarded during that year, the Administration may make additional funds available to a State in excess of 125 percent of the pro rata share of that State.”
 
@@ -2478,7 +2412,7 @@ Subsec. (m)(4)(B). Pub. L. 103–403, §208(a)(1), (c), temporarily inserted “
 
 Subsec. (m)(4)(C)(i). Pub. L. 103–403, §208(a)(2), (c), temporarily added cl. (i) which read as follows: “In addition to grants made under subparagraph (A), each intermediary shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection if—
 
-&emsp;“(I) the intermediary provides not less than 25 percent of its loans to small business concerns located in or owned by one or more residents of an economically distressed area; or
+&emsp;“(I) the intermediary provides not less than 25 percent of its loans to small business concerns located inor owned by one or more residents of an economically distressed area; or
 
 &emsp;“(II) the intermediary has a portfolio of loans made under this subsection that averages not more than $7,500 during the period of the intermediary's participation in the program.”
 
@@ -2646,7 +2580,7 @@ Subsec. (a)(3). Pub. L. 100–418, §8007(a)(2), amended par. (3) generally. Pri
 
 Subsec. (a)(12). Pub. L. 100–590, §111(c), designated existing provisions as subpar. (A) and added subpar. (b)\[(B)\].
 
-Subsec. (a)(14). Pub. L. 100–418, §8005, amended par. (14) generally. Prior to amendment, par. (14) read as follows: “The Administration under this subsection may provide extensions and revolving lines of credit forexport purposes to enable small business concerns to develop foreign markets and for preexport financing: <i>Provided, however</i>, That no such extension or revolving line of credit may be made for a period or periods exceeding eighteen months. A bank or participating lending institution may establish the rate of interest on extensions and revolving lines of credit as may be legal and reasonable.”
+Subsec. (a)(14). Pub. L. 100–418, §8005, amended par. (14) generally. Prior to amendment, par. (14) read as follows: “The Administration under this subsection may provide extensions and revolving lines of credit for export purposes to enable small business concerns to develop foreign markets and for preexport financing: <i>Provided, however</i>, That no such extension or revolving line of credit may be made for a period or periods exceeding eighteen months. A bank or participating lending institution may establish the rate of interest on extensions and revolving lines of credit as may be legal and reasonable.”
 
 Subsec. (a)(16) to (18). Pub. L. 100–418, §8007(a)(3), (4), added pars. (16) and (17) and redesignated former par. (16) as (18).
 
@@ -2670,7 +2604,7 @@ Subsec. (f). Pub. L. 100–707, §109(f)(3), substituted “section 102(2) of th
 
 Subsec. (j)(3)(A). Pub. L. 100–656, §505(h), struck out subpar. (A) which read as follows: “An advisory committee composed of five high-level officers from five United States businesses and five representatives of minority small businesses shall be created to facilitate the achievement of the purposes of this paragraph. The members of the advisory committee shall be appointed by the President. The chairman of the advisory committee, who shall be designated by the President shall report annually to the President and to the Congress on the activities of the advisory committee.”
 
-Subsec. (j)(10)(A)(i). Pub. L. 100–656, §205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “assist small business concerns participating in the Program to develop comprehensive business plans with specific business targets, objectives, and goals for correcting the impairment of such concern's ability to compete, as determined for such concern pursuant to section 637(a)(6) of this title, within a fixed period of time as mutually agreed upon by the applicant and the Administrator prior to acceptance in such program: <i>Provided</i>, That not less than one year prior to the expiration of such period, and upon the request of such concern, the Administration shall review such period and may extend such period as necessary and appropriate: <i>Provided further</i>, That no determination made under this paragraph shall be considered a denial of total participation for the purposes of section 637(a)(9) of this title;”.
+Subsec. (j)(10)(A)(i). Pub. L. 100–656, §205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “assist small business concerns participating inthe Program to develop comprehensive business plans with specific business targets, objectives, and goals for correcting the impairment of such concern's ability to compete, as determined for such concern pursuant to section 637(a)(6) of this title, within a fixed period of time as mutually agreed upon by the applicant and the Administrator prior to acceptance in such program: <i>Provided</i>, That not less than one year prior to the expiration of such period, and upon the request of such concern, the Administration shall review such period and may extend such period as necessary and appropriate: <i>Provided further</i>, That no determination made under this paragraph shall be considered a denial of total participation for the purposes of section 637(a)(9) of this title;”.
 
 Subsec. (j)(10)(C). Pub. L. 100–656, §205(b)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “No small business concern shall receive a contract pursuant to section 637(a) of this title unless—
 
@@ -2714,7 +2648,7 @@ Subsec. (c)(4). Pub. L. 99–272, §18006(a)(2), struck out provision following 
 
 Subsec. (b)(2)(D). Pub. L. 98–270, §311(2), substituted “small business concerns or small agricultural cooperatives” for “small business concerns”.
 
-Subsec. (b)(3). Pub. L. 98–270, §308, inserted “continuation of,” after “in effecting” and inserted provision directing that, for purposes of this paragraph, the impact of the 1983 Payment-in-Kind Land Diversion program,or any successor Payment-in-Kind program with a similar impact on the small business community, be deemed to be a consequence of Federal Government action.
+Subsec. (b)(3). Pub. L. 98–270, §308, inserted “continuation of,” after “in effecting” and inserted provision directing that, for purposes of this paragraph, the impact of the 1983 Payment-in-Kind Land Diversion program, or any successor Payment-in-Kind program with a similar impact on the small business community, be deemed to be a consequence of Federal Government action.
 
 Subsec. (b)(4). Pub. L. 98–270, §304(2), added par. (4).
 
@@ -2782,13 +2716,13 @@ Subsec. (c)(3). Pub. L. 96–38 added par. (3).
 
 Subsec. (d). Pub. L. 95–315, §3, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j). Pub. L. 95–507, §204, included individuals and enterprises eligible for assistance under par. (10) of this subsection and section 637(a) of this title among those eligible for assistance under this section, provided for the establishment of the small business and capital ownership development program, and provided for the coordination of certain Federal policies under this section by the Associate Administrator for Minority Small Business and Capital Ownership Development.
+Subsec. (j). Pub. L. 95–507, §204, included individuals and enterprises eligible for assistance under par. (10) of this subsection and section 637(a) of this title amongthose eligible for assistance under this section, provided for the establishment of the small business and capital ownership development program, and provided for the coordination of certain Federal policies under this section by the Associate Administrator for Minority Small Business and Capital Ownership Development.
 
 Subsec. (k). Pub. L. 95–507, §205, inserted reference to section 637(a).
 
 Subsec. (k)(4). Pub. L. 95–510 substituted “the daily equivalent of the highest rate payable under section 5332 of title 5” for “$100 per diem”.
 
-Subsec. (<i>l</i>). Pub. L. 95–315, §2, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 95–315, §2, added subsec. (l).
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–89, §301, authorized loans to finance residential or commercial construction or rehabilitation for sale, subject to restriction that such loans be not used primarily for the acquisition of land.
 
@@ -2904,7 +2838,7 @@ Pub. L. 110–234, title XII, §12078(b)(2), May 22, 2008, 122 Stat. 1415, and P
 
 Pub. L. 110–234, title XII, §12083(b), May 22, 2008, 122 Stat. 1420, and Pub. L. 110–246, §4(a), title XII, §12083(b), June 18, 2008, 122 Stat. 1664, 2182, provided that: “The amendments made by this section \[amending this section\] shall apply to any major disaster declared on or after the date of enactment of this Act \[June 18, 2008\].”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2007 Amendment
 
@@ -3028,7 +2962,7 @@ Pub. L. 89–409, §3(c), May 2, 1966, 80 Stat. 133, provided that: “This sect
 
 #### Regulations
 
-Pub. L. 111–240, title I, §1131(b), Sept. 27, 2010, 124 Stat. 2514, provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator \[of the Small Business Administration\] shall issue regulations to carry out section 7(<i>l</i>) of the Small Business Act \[15 U.S.C. 636(<i>l</i>)\], as amended by subsection (a).”
+Pub. L. 111–240, title I, §1131(b), Sept. 27, 2010, 124 Stat. 2514, provided that: “Not later than 180 days afterthe date of enactment of this Act \[Sept. 27, 2010\], the Administrator \[of the Small Business Administration\] shall issue regulations to carry out section 7(l) of the Small Business Act \[15 U.S.C. 636(l)\], as amended by subsection (a).”
 
 Pub. L. 106–50, title IV, §402(d), Aug. 17, 1999, 113 Stat. 246, provided that: “Not later than 30 days after the date of the enactment of this section \[Aug. 17, 1999\], the Administrator of the Small Business Administration shall issue such guidelines as the Administrator determines to be necessary to carry out this section \[amending this section and enacting provisions set out as notes under this section\] and the amendments made by this section.”
 
@@ -3058,11 +2992,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Availability of Funds
 
-Pub. L. 111–240, title I, §1131(c), Sept. 27, 2010, 124 Stat. 2514, provided that: “Any amounts provided to the Administrator \[of the Small Business Administration\] for the purposes of carrying out section 7(<i>l</i>) of the Small Business Act \[15 U.S.C. 636(<i>l</i>)\], as amended by subsection (a), shall remain available until expended.”
+Pub. L. 111–240, title I, §1131(c), Sept. 27, 2010, 124 Stat. 2514, provided that: “Any amounts provided to the Administrator \[of the Small Business Administration\] for the purposes of carrying out section 7(l) of the Small Business Act \[15 U.S.C. 636(l)\], as amended by subsection (a), shall remain available until expended.”
 
 #### Marketing and Outreach
 
-Pub. L. 110–234, title XII, §12063(b), May 22, 2008, 122 Stat. 1408, and Pub. L. 110–246, §4(a), title XII, §12063(b), June 18, 2008, 122 Stat. 1664, 2170, provided that: “Notlater than 90 days after the date of enactment of this Act \[June 18, 2008\], the Administrator shall create a marketing and outreach plan that—
+Pub. L. 110–234, title XII, §12063(b), May 22, 2008, 122 Stat. 1408, and Pub. L. 110–246, §4(a), title XII, §12063(b), June 18, 2008, 122 Stat. 1664, 2170, provided that: “Not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Administrator shall create a marketing and outreach plan that—
 
 &emsp;“(1) encourages a proactive approach to the disaster relief efforts of the Administration;
 
@@ -3320,7 +3254,7 @@ Option to Participate.—Except as otherwise provided in this section, the Admin
 
 &emsp;“(2) limiting or modifying any term or condition of deferred participation loans made under such section (other than Express Loans) unless the Administrator imposes the same limit or modification on Express Loans;
 
-&emsp;“(3) transferring or re-allocating staff, staff responsibilities, resources, or funding, if the result of suchtransfer or re-allocation would be to increase the average loan processing, approval, or disbursement time above the averages for those functions as of October 1, 2003, for loan guarantees approved under such section by employees of the Administration or through the Preferred Lenders Program; or
+&emsp;“(3) transferring or re-allocating staff, staff responsibilities, resources, or funding, if the result of such transfer or re-allocation would be to increase the average loan processing, approval, or disbursement time above the averages for those functions as of October 1, 2003, for loan guarantees approved under such section by employees of the Administration or through the Preferred Lenders Program; or
 
 &emsp;“(4) otherwise providing any incentive or disincentive which encourages lenders or borrowers to make or obtain loans under the Express Loan Pilot Program instead of under the general loan authority of section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
 
@@ -3348,7 +3282,7 @@ Temporary Guarantee Fee on Deferred Participation Share Over $1,000,000.—With 
 
 #### Budgetary Treatment of Loans and Financings
 
-Pub. L. 107–100, §6(c), Dec. 21, 2001, 115 Stat. 971, provided that: “Assistance made available under any loan made or approved by the Small Business Administration under section 7(a) of the Small Business Act (15 U.S.C. 636(a)) or financings made under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), during the 2-year period beginning on October 1, 2002, shall be treated as separate programs of the Small Business Administration for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\] only.”
+Pub. L. 107–100, §6(c), Dec. 21, 2001, 115 Stat. 971, provided that: “Assistance made available under any loanmade or approved by the Small Business Administration under section 7(a) of the Small Business Act (15 U.S.C. 636(a)) or financings made under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), during the 2-year period beginning on October 1, 2002, shall be treated as separate programs of the Small Business Administration for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\] only.”
 
 #### Enhanced Publicity During Operation Allied Force
 
@@ -3616,7 +3550,7 @@ Pub. L. 102–140, title VI, §609(j), Oct. 28, 1991, 105 Stat. 831, as amended 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Test Program for Use of Bond Waiver Authority To Assist Certain Small Disadvantaged Business Concerns
 
@@ -3690,7 +3624,7 @@ Pub. L. 100–656, title IV, §410, Nov. 15, 1988, 102 Stat. 3879, as amended by
 
 “(a)
 
-Training Requirements for Business Opportunity Specialists.—(1) In each Small Business Administration field office responsible for assisting one ormore Program Participants there shall be a position designated as a Business Opportunity Specialist. To the maximum extent practicable the Administration shall assure that an adequate number of Business Opportunity Specialists are assigned to each district office to carry out the responsibilities of sections 7(j) and 8(a) of the Small Business Act (15 U.S.C. 636(j), 637(a)) and to assist Program Participants.
+Training Requirements for Business Opportunity Specialists.—(1) In each Small Business Administration field office responsible for assisting one or more Program Participants there shall be a position designated as a Business Opportunity Specialist. To the maximum extent practicable the Administration shall assure that an adequate number of Business Opportunity Specialists are assigned to each district office to carry out the responsibilities of sections 7(j) and 8(a) of the Small Business Act (15 U.S.C. 636(j), 637(a)) and to assist Program Participants.
 
 “(2) The Administration shall take such actions as may be appropriate to ensure that any person employed as a Business Opportunity Specialist receives adequate periodic training to assure such employee is capable of assisting Program Participants to fully utilize the Program and to meet the requirements of the Small Business Act \[15 U.S.C. 631 et seq.\], as amended by this Act.
 
@@ -3714,7 +3648,7 @@ Pilot Program.—(1) Within 180 days after the effective date of this subsection
 
 Report and Pilot Program Termination.—(1) Within 120 days after the termination of the pilot program conducted pursuant to subsection (b), the Administration shall issue a report to the Committees on Small Business of the Senate and of the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] on the effectiveness of the pilot. Such report shall contain such recommendations for administrative or legislative change as may be appropriate.
 
-“(2) The pilot program conducted pursuant to subsection (b) shall be terminated three years after the date on which the Committees on Small Business of the Senate and of the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] receive written notification from the Administrator that the pilot is in full operation in each of the three designated pilot regions.”
+“(2) The pilot program conducted pursuant to subsection (b) shall be terminated three years after the date on which the Committees on Small Business of the Senate and of the House of Representatives \[Committeeon Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] receive written notification from the Administrator that the pilot is in full operation in each of the three designated pilot regions.”
 
 #### General Accounting Office Report
 
@@ -3740,7 +3674,7 @@ Similar provisions were contained in Pub. L. 100–533, title III, §302(b), Oct
 
 #### Pipeline Loans or Previous Disasters
 
-Pub. L. 99–272, title XVIII, §18006(b), Apr. 7, 1986, 100 Stat. 366, as amended by Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: “Notwithstanding the amendments made by this section \[amending sections 636 and 647 of this title\], sections 18002 \[amending provisions set out as a note under section 631 of this title\] and 18016 \[amending section 632 of this title\], or any other provision of law, the Small Business Administration shall continue to accept, process, and approve loan applications under paragraphs (1) through (4) of subsection \[section\] 7(b) of the Small Business Act \[15 U.S.C. 636(b)(1) to (4)\] and shall obligate and disburse loan funds on account of disasters which occurred prior to October 1, 1985, and with respect to which a disaster declaration application was submitted prior to October1, 1985, even if any such application is filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XVIII, §18006(b), Apr. 7, 1986, 100 Stat. 366, as amended by Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: “Notwithstanding the amendments made by this section \[amending sections 636 and 647 of this title\], sections 18002 \[amending provisions set out as a note under section 631 of this title\] and 18016 \[amending section 632 of this title\], or any other provision of law, the Small Business Administration shall continue to accept, process, and approve loan applications under paragraphs (1) through (4) of subsection \[section\] 7(b) of the Small Business Act \[15 U.S.C. 636(b)(1) to (4)\] and shall obligate and disburse loan funds on account of disasters which occurred prior to October 1, 1985, and with respect to which a disaster declaration application was submitted prior to October 1, 1985, even if any such application is filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Determination of Natural Disaster by Secretary of Agriculture To Be Deemed Disaster Declaration by Administrator of Small Business Administration; Disasters Commencing Between January 1, 1983, and September 30, 1983
 
@@ -3796,7 +3730,7 @@ Pub. L. 94–305, title I, §101, June 4, 1976, 90 Stat. 663, provided that: “
 
 Pub. L. 97–35, title XIX, §1916, Aug. 13, 1981, 95 Stat. 780, provided that:
 
-“(a) Notwithstanding section 5(b)(6) of the Small Business Act \[section 634(b)(6) of this title\], or anyother provision of law, any business concern applicant for assistance made pursuant to paragraph (1), (2), or (4) of subsection 7(b) of the Small Business Act \[subsec. (b)(1), (2), or (4) of this section\] whose application was received but not approved by the Small Business Administration on or before March 19, 1981, shall be offered loan assistance by the Small Business Administration as provided in this section.
+“(a) Notwithstanding section 5(b)(6) of the Small Business Act \[section 634(b)(6) of this title\], or any other provision of law, any business concern applicant for assistance made pursuant to paragraph (1), (2), or (4) of subsection 7(b) of the Small Business Act \[subsec. (b)(1), (2), or (4) of this section\] whose application was received but not approved by the Small Business Administration on or before March 19, 1981, shall be offered loan assistance by the Small Business Administration as provided in this section.
 
 “(b) The Small Business Administration is specifically directed to reconsider and act upon any such application and to make, remake, obligate, reobligate, commit or recommit such financing as provided herein.
 

@@ -102,7 +102,7 @@ Exclusion of Certain Costs.—For purposes of calculating the limitation in subs
 
 &emsp;“(2) any increase in costs for wedges 2 through 5 attributable to compliance with new requirements of Federal, State, or local laws; and
 
-&emsp;“(3) any increase in costs attributable to additional security requirements that the Secretary of Defense considers essential to provide a safe and secure working environment.
+&emsp;“(3) any increase in costs attributable to additional security requirements that the Secretary of Defenseconsiders essential to provide a safe and secure working environment.
 
 “(d)
 

@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section,or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -154,11 +154,11 @@
 
 &emsp;The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of any nationally recognized statistical rating organization, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, bar or revocation is necessary for the protection of investors and in the public interest and that such nationally recognized statistical rating organization, or any person associated with such an organization, whether prior to or subsequent to becoming so associated—
 
-&emsp;&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of section 78<i>o</i>(b)(4) of this title, has been convicted of any offense specified in section 78<i>o</i>(b)(4)(B) of this title, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of section 78<i>o</i>(b)(4) of this title, during the 10-year period preceding the date of commencement of the proceedings under this subsection, or at any time thereafter;
+&emsp;&emsp;(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of section 78o(b)(4) of this title, has been convicted of any offense specified in section 78o(b)(4)(B) of this title, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of section 78o(b)(4) of this title, during the 10-year period preceding the date of commencement of the proceedings under this subsection, or at any time thereafter;
 
 &emsp;&emsp;(B) has been convicted during the 10-year period preceding the date on which an application for registration is filed with the Commission under this section, or at any time thereafter, of—
 
-&emsp;&emsp;&emsp;(i) any crime that is punishable by imprisonment for 1 or more years, and that is not described in section 78<i>o</i>(b)(4)(B) of this title; or
+&emsp;&emsp;&emsp;(i) any crime that is punishable by imprisonment for 1 or more years, and that is not described in section 78o(b)(4)(B) of this title; or
 
 &emsp;&emsp;&emsp;(ii) a substantially equivalent crime by a foreign court of competent jurisdiction;
 
@@ -366,7 +366,7 @@
 
 Each nationally recognized statistical rating organization shall, on a confidential basis, file with the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-#### (<i>l</i>) Sole method of registration
+#### (l) Sole method of registration
 
 #### (1) In general
 
@@ -392,7 +392,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) In general
 
-&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statementsshall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
+&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
 
 #### (2) Rulemaking
 
@@ -416,7 +416,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;&emsp;(B) amend or revise such rules and regulations in accordance with the purposes of this section, as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-#### (<i>o</i>) NRSROs subject to Commission authority
+#### (o) NRSROs subject to Commission authority
 
 #### (1) In general
 
@@ -502,7 +502,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
 
-&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare the performance of credit ratings across nationally recognized statistical rating organizations;
+&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare theperformance of credit ratings across nationally recognized statistical rating organizations;
 
 &emsp;&emsp;(B) are clear and informative for investors having a wide range of sophistication who use or might use credit ratings;
 
@@ -640,7 +640,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (D) Disclosure of certification
 
-&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical ratingorganization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
+&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical rating organization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
 
 #### (t) Corporate governance, organization, and management of conflicts of interest
 
@@ -712,7 +712,7 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original“this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
@@ -728,7 +728,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted “any other provisi
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationallyrecognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 
@@ -736,7 +736,7 @@ Subsec. (j). Pub. L. 111–203, §932(a)(5), designated existing provisions as p
 
 Subsec. (k). Pub. L. 111–203, §932(a)(6), substituted “file with” for “furnish to”.
 
-Subsec. (<i>l</i>)(2)(A)(i). Pub. L. 111–203, §932(a)(7), substituted “filed” for “furnished”.
+Subsec. (l)(2)(A)(i). Pub. L. 111–203, §932(a)(7), substituted “filed” for “furnished”.
 
 Subsec. (m). Pub. L. 111–203, §933(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) provided that registration did not constitute a waiver of rights, privileges, or defenses and that this section could not be construed as creating any private right of action.
 
@@ -752,7 +752,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Regulations
 
-Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: “Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78<i>o</i>–8 and 78<i>o</i>–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78<i>o</i>–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\].”
+Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: “Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\].”
 
 #### Qualification Standards for Credit Rating Analysts
 
@@ -788,7 +788,7 @@ Report.—Upon conclusion of the review required under subsection (a), each Fede
 
 #### Representations and Warranties in Asset-backed Offerings
 
-Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that: “Not later than 180 days after the date of enactment of this Act \[July 21, 2010\], the Securities and Exchange Commission shall prescribe regulations on the use of representations and warranties in the market for asset-backed securities (as that term is defined in section 3(a)(77) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(77)\], as added by this subtitle) that—
+Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that: “Not later than 180 days after the date of enactment of this Act \[July 21, 2010\], the Securities and Exchange Commission shall prescribe regulations on the use of representations and warranties in the market for asset-backed securities (as that term is defined in section 3(a)(77) \[now 3(a)(79)\] of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(79)\], as added by this subtitle) that—
 
 &emsp;“(1) require each national \[sic\] recognized statistical rating organization to include in any report accompanying a credit rating a description of—
 
@@ -796,7 +796,7 @@ Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that
 
 &emsp;&emsp;“(B) how they differ from the representations, warranties, and enforcement mechanisms in issuances of similar securities; and
 
-&emsp;“(2) require any securitizer (as that term is defined in section 15G(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–11(a)\], as added by this subtitle) to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies.”
+&emsp;“(2) require any securitizer (as that term is defined in section 15G(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–11(a)\], as added by this subtitle) to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies.”
 
 \[For definitions of terms used in section 943 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
@@ -834,7 +834,7 @@ Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: “Upon t
 
 Pub. L. 109–291, §6, Sept. 29, 2006, 120 Stat. 1338, provided that: “The Commission shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that, with respect to the year to which the report relates—
 
-&emsp;“(1) identifies applicants for registration under section 15E of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–7\], as added by this Act;
+&emsp;“(1) identifies applicants for registration under section 15E of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–7\], as added by this Act;
 
 &emsp;“(2) specifies the number of and actions taken on such applications; and
 

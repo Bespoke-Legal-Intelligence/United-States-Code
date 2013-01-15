@@ -46,5 +46,5 @@ A prior section 7434 was renumbered 7437 of this title.
 
 #### Effective Date
 
-Section 601(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[enacting this section and renumbering former section 7434 as 7435 of this title\] shall apply to fraudulent information returns filed after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VI, §601(c), July 30, 1996, 110 Stat. 1462, provided that: “The amendments made by this section \[enacting this section and renumbering former section 7434 as 7435 of this title\] shall apply to fraudulent information returns filed after the date of the enactment of this Act \[July 30, 1996\].”
 

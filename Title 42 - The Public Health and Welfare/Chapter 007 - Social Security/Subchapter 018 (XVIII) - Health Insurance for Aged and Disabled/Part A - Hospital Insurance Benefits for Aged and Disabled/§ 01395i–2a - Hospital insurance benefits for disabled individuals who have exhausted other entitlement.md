@@ -22,7 +22,7 @@ Every individual who—
 
 (2) The individual's initial enrollment period shall begin with the month in which the individual receives notice that the individual's entitlement to benefits under section 426(b) of this title will end due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title and shall end 7 months later.
 
-(3) There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year (beginning with 1990).
+(3) There shall be a general enrollment period during the period beginning on January 1 andending on March 31 of each year (beginning with 1990).
 
 #### (c) Coverage period
 
@@ -72,5 +72,5 @@ Subsec. (d)(1)(C). Pub. L. 101–508, §4008(m)(3)(C)(ii), struck out subpar. (C
 
 #### Effective Date
 
-Section 6012(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting this section and amending section 1395i–2 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[this part\] for any month before July 1990.”
+Pub. L. 101–239, title VI, §6012(b), Dec. 19, 1989, 103 Stat. 2163, provided that: “The amendments made by this section \[enacting this section and amending section 1395i–2 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[this part\] for any month before July 1990.”
 

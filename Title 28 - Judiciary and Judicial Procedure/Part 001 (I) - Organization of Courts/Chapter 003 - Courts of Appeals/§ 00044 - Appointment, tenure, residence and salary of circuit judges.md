@@ -38,11 +38,11 @@ Act February 9, 1893, established a court of appeals for the District of Columbi
 
 The Judiciary Appropriation Act, 1945, Act June 26, 1944, ch. 277, §202, 58 Stat. 358, provided that as used in that Act, “the term ‘circuit court of appeals’ includes the United States Court of Appeals for the District of Columbia; the term ‘senior circuit judge’ includes the Chief Justice of the United States Court of Appeals for the District of Columbia; and the term ‘circuit judge’ includes associate justice of the United States Court of Appeals for the District of Columbia; and the term ‘judge’ includes justice.”
 
-Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and section 213 of title 28, U.S.C., 1940 ed., for payment of salaries in monthly installments were omitted, since time of payment is a matter of administrative convenience (20 Comp. Gen. 834).
+Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and section 213 of title 28, U.S.C., 1940ed., for payment of salaries in monthly installments were omitted, since time of payment is a matter of administrative convenience (20 Comp. Gen. 834).
 
 The exception in subsection (c) extends to circuit judges in the District of Columbia the effect of the recent decision in <i>U.S. ex rel. Laughlin v. Eicher</i>, D.C. 1944, 56 F.Supp. 972, holding that residence requirement of section 1 of title 28, U.S.C., 1940 ed., did not apply to district judges in the District of Columbia. (See Reviser's Note under section 134 of this title.)
 
-The provision in section 213 of the title 28, U.S.C., 1940 ed., that “it shall be the duty of each circuit judgein each circuit to sit as one of the judges of the circuit court of appeals in that circuit from time to time according to law,” was omitted as unnecessary since the duty to serve is implied by the creation and composition of the court in section 43 of this title.
+The provision in section 213 of the title 28, U.S.C., 1940 ed., that “it shall be the duty of each circuit judge in each circuit to sit as one of the judges of the circuit court of appeals in that circuit from time to time according to law,” was omitted as unnecessary since the duty to serve is implied by the creation and composition of the court in section 43 of this title.
 
 Last sentence, providing that nothing in section 213 of title 28, U.S.C., 1940 ed., should prevent a circuit judge from holding district court as provided by law, was omitted as unnecessary. (See section 291 of this title authorizing assignments to district courts.)
 
@@ -145,7 +145,7 @@ Pub. L. 110–177, title V, §509(b), Jan. 7, 2008, 121 Stat. 2543, provided tha
 
 #### Effective Date of 1990 Amendment
 
-Section 206 of title II of Pub. L. 101–650 provided that: “This title \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and sections 133 and 331 of this title\] shall take effect on the date of the enactment of this title \[Dec. 1, 1990\].”
+Pub. L. 101–650, title II, §206, Dec. 1, 1990, 104 Stat. 5104, provided that: “This title \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and sections 133 and 331 of this title\] shall take effect on the date of the enactment of this title \[Dec. 1, 1990\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -165,15 +165,15 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Nomination to Federal Judgeship on Nondiscriminatory Basis
 
-Section 211 of Pub. L. 98–353 provided that: “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
+Pub. L. 98–353, title II, §211, July 10, 1984, 98 Stat. 351, provided that: “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under section 151 of this title\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
 
 #### Continued Service of Judges
 
-Section 165 of Pub. L. 97–164 provided that judges of United States Court of Claims and of United States Court of Customs and Patent Appeals in regular active service on Oct. 1, 1982, would continue in office as judges of United States Court of Appeals for the Federal Circuit and senior judges of United States Court of Claims and of United States Court of Customs and Patent Appeals on Oct. 1, 1982, would continue in office as senior judges of United States Court of Appeals for the Federal Circuit.
+Pub. L. 97–164, title I, §165, Apr. 2, 1982, 96 Stat. 50, provided that judges of United States Court of Claims and of United States Court of Customs and Patent Appeals in regular active service on Oct. 1, 1982, would continue in office as judges of United States Court of Appeals for the Federal Circuit and senior judges of United States Court of Claims and of United States Court of Customs and Patent Appeals on Oct. 1, 1982, would continue in office as senior judges of United States Court of Appeals for the Federal Circuit.
 
 #### Congressional Statement Regarding Appointment of Judges
 
-Section 168 of Pub. L. 97–164 provided that: “The Congress—
+Pub. L. 97–164, title I, §168, Apr. 2, 1982, 96 Stat. 51, provided that: “The Congress—
 
 &emsp;“(1) takes notice of the fact that the quality of the Federal judiciary is determined by the competence and experience of its judges; and
 
@@ -219,25 +219,25 @@ District of Columbia Court of Appeals. Act Aug. 3, 1949, ch. 387, §1, 63 Stat. 
 
 Act Feb. 28, 1929, ch. 363, §2, 45 Stat. 1346, 1347 provided that “There shall be in the sixth, seventh, and tenth circuits, respectively, four circuit judges; and in the second and eighth circuits, respectively, five circuit judges; and, in each of the other circuits three circuit judges, to be appointed by the President, by and with the advice and consent of the Senate.”
 
-Another part of section 1 of act Feb. 10, 1954, which amended subsec. (a) of this section, provided for the appointment by the President, by and with the advice and consent of the Senate, of the additional judges for the Fifth and Ninth Circuits, provided for in such amendment.
+Another part of act Feb. 10, 1954, ch. 6, §1, 68 Stat. 8, which amended subsec. (a) of this section, provided for the appointment by the President, by and with the advice and consent of the Senate, of the additional judges for the Fifth and Ninth Circuits, provided for in such amendment.
 
-Section 1(a) of Pub. L. 87–36 provided that: “The President shall appoint, by and with the advice and consent of the Senate, three additional circuit judges for the second circuit, one additional circuit judge for the third circuit, two additional circuit judges for the fourth circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the tenth circuit.”
+Pub. L. 87–36, §1(a), May 19, 1961, 75 Stat. 80, provided that: “The President shall appoint, by and with the advice and consent of the Senate, three additional circuit judges for the second circuit, one additional circuit judge for the third circuit, two additional circuit judges for the fourth circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the tenth circuit.”
 
-Section 1(a) of Pub. L. 89–372 provided that: “The President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the fourth circuit, two additional circuit judges for the sixth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the eighth circuit.”
+Pub. L. 89–372, §1(a), Mar. 18, 1966, 80 Stat. 75, provided that: “The President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the fourth circuit, two additional circuit judges for the sixth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the eighth circuit.”
 
-Section 1(c) of Pub. L. 89–372, as amended by Pub. L. 90–347, §2, June 18, 1968, 82 Stat. 183, provided that: “The President shall appoint, by and with the advice and consent of the Senate, four additional circuit judges for the fifth circuit.” The second sentence of section 1(c) of Pub. L. 89–372 which provided that the first four vacancies occurring in the office of circuit judge in the fifth circuit shall not be filled was deleted by section 2 of Pub. L. 90–347, which also made those judgeships permanent and further provided that the present incumbents of such judgeships shall henceforth hold their offices under this section.
+Pub. L. 89–372, §1(c), Mar. 18, 1966, 80 Stat. 75, as amended by Pub. L. 90–347, §2, June 18, 1968, 82 Stat. 183, provided that: “The President shall appoint, by and with the advice and consent of the Senate, four additional circuit judges for the fifth circuit.” The second sentence of section 1(c) of Pub. L. 89–372 which provided that the first four vacancies occurring in the office of circuit judge in the fifth circuit shall not be filled was deleted by section 2 of Pub. L. 90–347, which also made those judgeships permanent and further provided that the present incumbents of such judgeships shall henceforth hold their offices under this section.
 
-Section 1 of Pub. L. 90–347 provided: “That the President shall appoint, by and with the advice and consent of the Senate, one additional circuit judge for the third circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the sixth circuit, four additional circuit judges for the ninth circuit, and one additional circuit judge for the tenth circuit.”
+Pub. L. 90–347, §1, June 18, 1968, 82 Stat. 184, provided: “That the President shall appoint, by and with the advice and consent of the Senate, one additional circuit judge for the third circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the sixth circuit, four additional circuit judges for the ninth circuit, and one additional circuit judge for the tenth circuit.”
 
-Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeships for the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
+Pub. L. 95–486, §3(a), Oct. 20, 1978, 92 Stat. 1632, provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeships for the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
 
-Section 201(a) of Pub. L. 98–353 provided that:
+Pub. L. 98–353, title II, §201(a), July 10, 1984, 98 Stat. 346, provided that:
 
-“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuitjudges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
+“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 
-Section 202(a) of Pub. L. 101–650 provided that: “The President shall appoint, by and with the advice and consent of the Senate—
+Pub. L. 101–650, title II, §202(a), Dec. 1, 1990, 104 Stat. 5098, provided that: “The President shall appoint, by and with the advice and consent of the Senate—
 
 &emsp;“(1) 2 additional circuit judges for the third circuit court of appeals;
 

@@ -42,5 +42,5 @@ Nothing in this section or in the Settlement Agreement shall be construed to imp
 
 #### Effective Date
 
-Section 13 of Pub. L. 101–41 provided that: “Sections 3 and 9 \[this section and section 1773g of this title\] shall take effect on the effective date of the Settlement Agreement and when all terms are met as stated under section X of the Settlement Agreement.”
+Pub. L. 101–41, §13, June 21, 1989, 103 Stat. 90, provided that: “Sections 3 and 9 \[this section and section 1773g of this title\] shall take effect on the effective date of the Settlement Agreement and when all terms are met as stated under section X of the Settlement Agreement.”
 

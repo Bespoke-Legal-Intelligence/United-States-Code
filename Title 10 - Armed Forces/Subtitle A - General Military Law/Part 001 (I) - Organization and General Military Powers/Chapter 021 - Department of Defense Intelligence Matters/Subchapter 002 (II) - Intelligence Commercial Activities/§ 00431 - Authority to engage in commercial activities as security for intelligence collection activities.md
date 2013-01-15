@@ -30,7 +30,7 @@ Definitions.—In this subchapter:
 
 &emsp;(2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931,Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, §931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(7), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title IX, §921, Jan. 7, 2011, 124 Stat. 4330.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931, Oct. 17, 2006, 120 Stat. 2362; Pub. L. 110–181, div. A, title IX, §931(b)(1), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(7), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title IX, §921, Jan. 7, 2011, 124 Stat. 4330.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Effective Date
 
-Section 504(b) of Pub. L. 102–88 provided that: “The Secretary of Defense may not authorize any activity under section 431 of title 10, United States Code, as added by subsection (a), until the later of—
+Pub. L. 102–88, title V, §504(b), Aug. 14, 1991, 105 Stat. 440, provided that: “The Secretary of Defense may not authorize any activity under section 431 of title 10, United States Code, as added by subsection (a), until the later of—
 
 &emsp;“(1) the end of the 90-day period beginning on the date of the enactment of this Act \[Aug. 14, 1991\]; or
 

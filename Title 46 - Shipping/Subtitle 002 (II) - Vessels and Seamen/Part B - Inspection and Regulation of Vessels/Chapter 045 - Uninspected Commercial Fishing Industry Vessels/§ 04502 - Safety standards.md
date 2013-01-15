@@ -78,9 +78,11 @@
 
 (f) To ensure compliance with the requirements of this chapter, the Secretary—
 
-&emsp;(1) shall require the individual in charge of a vessel described in subsection (b) to keep arecord of equipment maintenance, and required instruction and drills; and
+&emsp;(1) shall require the individual in charge of a vessel described in subsection (b) to keep a record of equipment maintenance, and required instruction and drills;
 
-&emsp;(2) shall examine at dockside a vessel described in subsection (b) at least once every 2 years, and shall issue a certificate of compliance to a vessel meeting the requirements of this chapter.
+&emsp;(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, and shall issue a certificate of compliance to a vessel meeting the requirements of this chapter; and
+
+&emsp;(3) shall complete the first dockside examination of a vessel under this subsection not later than October 15, 2015.
 
 (g)(1) The individual in charge of a vessel described in subsection (b) must pass a training program approved by the Secretary that meets the requirements in paragraph (2) of this subsection and hold a valid certificate issued under that program.
 
@@ -96,7 +98,7 @@
 
 (3) The Secretary shall prescribe regulations implementing this subsection. The regulations shall require that individuals who are issued a certificate under paragraph (2)(D) must complete refresher training at least once every 5 years as a condition of maintaining the validity of the certificate.
 
-(4) The Secretary shall establish a publicly accessible electronic database listing the names of individuals who have participated in and received a certificate confirming successful completion of a training program approved by the Secretary under this section.
+(4) The Secretary shall establish an electronic database listing the names of individuals who have participated in and received a certificate confirming successful completion of a training program approved by the Secretary under this section.
 
 (h) A vessel to which this chapter applies shall be constructed in a manner that provides a level of safety equivalent to the minimum safety standards the Secretary may establish for recreational vessels under section 4302, if—
 
@@ -130,9 +132,15 @@
 
 (4) There is authorized to be appropriated $3,000,000 for each fiscal years 2010 through 2014 for activities under this subsection.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f)(2). Pub. L. 112–213, §305(a)(2)(A), substituted “at least once every 5 years” for “at least once every 2 years”.
+
+Subsec. (f)(3). Pub. L. 112–213, §305(a)(1), (2)(B), (3), added par. (3).
+
+Subsec. (g)(4). Pub. L. 112–213, §305(b), substituted “an electronic” for “a publicly accessible electronic”.
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–281, §604(a)(1)(A), added par. (6) and struck out former par. (6) which read as follows: “a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;”.
 
@@ -148,7 +156,7 @@ Subsec. (b)(2)(D). Pub. L. 111–281, §604(a)(2)(D), inserted “marine” befo
 
 Subsec. (b)(2)(E). Pub. L. 111–281, §604(a)(2)(E), substituted “nautical charts, and publications” for “radar reflectors, nautical charts, and anchors”.
 
-Subsec. (b)(2)(F). Pub. L. 111–281, §604(a)(2)(F), substituted “and medical supplies sufficient for the sizeand area of operation of the vessel” for “, including medicine chests”.
+Subsec. (b)(2)(F). Pub. L. 111–281, §604(a)(2)(F), substituted “and medical supplies sufficient for the size and area of operation of the vessel” for “, including medicine chests”.
 
 Subsec. (b)(2)(G). Pub. L. 111–281, §604(a)(2)(G), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “other equipment required to minimize the risk of injury to the crew during vessel operations, if the Secretary determines that a risk of serious injury exists that can be eliminated or mitigated by that equipment.”
 
@@ -230,7 +238,7 @@ Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided t
 
 Pub. L. 100–424, §5(a), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
-Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyedand classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
 
 #### Territorial Sea of United States
 

@@ -24,7 +24,7 @@ A prior section 2 of act June 30, 1876, was classified to section 65 of this tit
 
 Subsec. (b). Pub. L. 109–351, §701(a)(2), added subsec. (b).
 
-<b>1992</b>—Pub. L. 102–550, §1603(d)(7)(B), substituted “appoint a receiver for any national bank (and such receiver shall be the Federal Deposit Insurance Corporation if the national bank is an insured bank (as defined in section 1813(h) of this title))” for “appoint the Federal Deposit Insurance Corporation as receiver for anynational banking association” in introductory provisions.
+<b>1992</b>—Pub. L. 102–550, §1603(d)(7)(B), substituted “appoint a receiver for any national bank (and such receiver shall be the Federal Deposit Insurance Corporation if the national bank is an insured bank (as defined in section 1813(h) of this title))” for “appoint the Federal Deposit Insurance Corporation as receiver for any national banking association” in introductory provisions.
 
 Pub. L. 102–550, §1603(d)(6), amended directory language of Pub. L. 102–242, §133(b). See 1991 Amendment note below.
 
@@ -38,7 +38,7 @@ Pub. L. 109–351, title VII, §701(c), Oct. 13, 2006, 120 Stat. 1985, provided 
 
 #### Effective Date of 1992 Amendment
 
-Section 1609 of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title XVI, §1609, Oct. 28, 1992, 106 Stat. 4090, provided that:
 
 “(a)
 
@@ -50,11 +50,11 @@ Effective Date of Certain Amendments.—In the case of any amendment made by thi
 
 #### Effective Date of 1991 Amendment
 
-Section 133(g) of Pub. L. 102–242 provided that: “The amendments made by this section \[amending this section and sections 203, 248, 1464, and 1821 of this title\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title I, §133(g), Dec. 19, 1991, 105 Stat. 2273, provided that: “The amendments made by this section \[amending this section and sections 203, 248, 1464, and 1821 of this title\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
 
 #### Short Title
 
-Section 1 of act June 30, 1876, as added by act Oct. 28, 1992, Pub. L. 102–550, title XVI, §1603(d)(7)(A), 106 Stat. 4080, provided that: “This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the ‘National Bank Receivership Act’.”
+Act June 30, 1876, ch. 156, §1, as added by Pub. L. 102–550, title XVI, §1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: “This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the ‘National Bank Receivership Act’.”
 
 #### Exception as to Transfer of Functions
 
@@ -96,7 +96,7 @@ Sec. 723. (a) The Comptroller shall publish notice once a week for four weeks in
 
 “(b) The Comptroller shall pay the principal amount of a liquidating dividend, exclusive of any income earned thereon, to a claimant presenting a valid claim, if the claimant applies to collect within twelve months following the last date notice is published.
 
-“(c) If a creditor shall fail to apply to collect a liquidating dividend within twelve months after the last date notice is published, all rights of the claimant against the closed receivership fund with respect to the liquidating dividend shall be barred.
+“(c) If a creditor shall fail to apply to collect a liquidating dividend within twelve months after the lastdate notice is published, all rights of the claimant against the closed receivership fund with respect to the liquidating dividend shall be barred.
 
 “(d) The principal amount of any liquidating dividends (1) for which claims have not been asserted within twelve months following the last date notice is published or (2) for which the Comptroller has determined a valid claim has not been submitted shall, together with any income earned on liquidating dividends and other moneys, if any, remaining in the closed receivership fund, be covered into the general funds of the Comptroller.”
 

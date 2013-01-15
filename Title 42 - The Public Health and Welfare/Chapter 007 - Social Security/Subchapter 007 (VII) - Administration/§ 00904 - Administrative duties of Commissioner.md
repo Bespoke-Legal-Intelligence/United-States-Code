@@ -34,23 +34,23 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 #### (e) Data exchanges
 
-(1) Notwithstanding any other provision of law (including subsections (b), (<i>o</i>), (p), (q), (r), and (u) of section 552a of title 5—
+(1) Notwithstanding any other provision of law (including subsections (b), (o), (p), (q), (r), and (u) of section 552a of title 5—
 
 &emsp;(A) the Secretary shall disclose to the Commissioner any record or information requested in writing by the Commissioner for the purpose of administering any program administered by the Commissioner, if records or information of such type were disclosed to the Commissioner of Social Security in the Department of Health and Human Services under applicable rules, regulations, and procedures in effect before August 15, 1994; and
 
 &emsp;(B) the Commissioner shall disclose to the Secretary or to any State any record or information requested in writing by the Secretary to be so disclosed for the purpose of administering any program administered by the Secretary, if records or information of such type were so disclosed under applicable rules, regulations, and procedures in effect before August 15, 1994.
 
-(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
+(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms andconditions under which the data are to be provided.
 
 (3) The Commissioner and the Secretary shall periodically review the need for exchanges of information not referred to in paragraph (1) or (2) and shall enter into such agreements as may be necessary and appropriate to provide information to each other or to States in order to meet the programmatic needs of the requesting agencies.
 
 (4)(A) Any disclosure from a system of records (as defined in section 552a(a)(5) of title 5) pursuant to this subsection shall be made as a routine use under subsection (b)(3) of section 552a of such title (unless otherwise authorized under such section 552a).
 
-(B) Any computerized comparison of records, including matching programs, between the Commissioner and the Secretary shall be conducted in accordance with subsections (<i>o</i>), (p), (q), (r), and (u) of section 552a of title 5.
+(B) Any computerized comparison of records, including matching programs, between the Commissioner and the Secretary shall be conducted in accordance with subsections (o), (p), (q), (r), and (u) of section 552a of title 5.
 
 (5) The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
 
-(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470; Pub. L. 106–169, title II, §211(a), Dec. 14, 1999, 113 Stat. 1842.)
+(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(l)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470; Pub. L. 106–169, title II, §211(a), Dec. 14, 1999, 113 Stat. 1842.)
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Pub. L. 106–169, title II, §211(b), Dec. 14, 1999, 113 Stat. 1842, provided t
 
 #### Effective Date of 1994 Amendment
 
-Section 104(c) of Pub. L. 103–296 provided that:
+Pub. L. 103–296, title I, §104(c), Aug. 15, 1994, 108 Stat. 1472, provided that:
 
 “(1)
 
@@ -78,7 +78,7 @@ Effective date.—Section 704(e)(4) of the Social Security Act \[subsec. (e)(4) 
 
 “(2)
 
-Transition rule.—Notwithstanding any other provision of law (including subsections (b), (<i>o</i>), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue betweenthe Social Security Administration established under section 701 of the Social Security Act \[section 901 of this title\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
+Transition rule.—Notwithstanding any other provision of law (including subsections (b), (o), (p), (q), (r), and (u) of section 552a of title 5, United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[section 901 of this title\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
 
 Amendment by section 104(a) of Pub. L. 103–296 effective Mar. 31, 1995, except as otherwise provided, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Report on SES Positions Under Comprehensive Work Force Plan
 
-Section 104(b) of Pub. L. 103–296 provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
+Pub. L. 103–296, title I, §104(b), Aug. 15, 1994, 108 Stat. 1472, provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
 

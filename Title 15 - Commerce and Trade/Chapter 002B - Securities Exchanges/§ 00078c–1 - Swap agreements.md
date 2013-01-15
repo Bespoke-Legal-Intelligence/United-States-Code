@@ -18,7 +18,7 @@
 
 (4) References in this chapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement, as the context may require.
 
-(June 6, 1934, ch. 404, title I, §3A, as added Pub. L. 106–554, §1(a)(5) \[title III, §303(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; amended Pub. L. 111–203, title VII, §762(d)(1), July 21, 2010, 124 Stat. 1760.)
+(June 6, 1934, ch. 404, title I, §3A, as added Pub. L. 106–554, §1(a)(5) \[title III, §303(a)\], Dec. 21,2000, 114 Stat. 2763, 2763A–452; amended Pub. L. 111–203, title VII, §762(d)(1), July 21, 2010, 124 Stat. 1760.)
 
 #### Amendment of Section
 
@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b)(2) to (4), was in the original “this 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §762(d)(1)(A), struck out subsec. (a) and reserved that subsec.. Prior to amendment, text read as follows: “The definition of ‘security’ in section 78c(a)(10) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §762(d)(1)(A), struck out subsec. (a) and reserved that subsec. Prior to amendment, text read as follows: “The definition of ‘security’ in section 78c(a)(10) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
 
 Subsec. (b). Pub. L. 111–203, §762(d)(1)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” wherever appearing.
 

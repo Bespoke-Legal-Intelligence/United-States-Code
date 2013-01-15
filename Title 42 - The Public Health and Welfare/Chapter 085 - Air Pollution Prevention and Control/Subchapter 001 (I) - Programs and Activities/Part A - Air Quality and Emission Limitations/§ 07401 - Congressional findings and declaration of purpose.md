@@ -4,7 +4,7 @@
 
 The Congress finds—
 
-&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, whichgenerally cross the boundary lines of local jurisdictions and often extend into two or more States;
+&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
 &emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 101–549, §108(k)(3), added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
-Section 711(b) of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title VII, §711(b), Nov. 15, 1990, 104 Stat. 2684, provided that:
 
 “(1) Except as otherwise expressly provided, the amendments made by this Act \[see Tables for classification\] shall be effective on the date of enactment of this Act \[Nov. 15, 1990\].
 
@@ -64,13 +64,13 @@ Section 711(b) of Pub. L. 101–549 provided that:
 
 #### Effective Date of 1977 Amendment; Pending Actions; Continuation of Rules, Contracts, Authorizations, Etc.; Implementation Plans
 
-Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov. 16, 1977, 91 Stat. 1405, provided that:
+Pub. L. 95–95, title IV, §406, Aug. 7, 1977, 91 Stat. 795, as amended by Pub. L. 95–190, §14(b)(6), Nov. 16, 1977, 91 Stat. 1405, provided that:
 
 “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
-“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\]or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
+“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
@@ -106,7 +106,7 @@ Pub. L. 91–604, §1, Dec. 31, 1970, 84 Stat. 1676, provided: “That this Act 
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–148 provided: “That this Act \[amending this chapter generally\] may be cited as the ‘Air Quality Act of 1967’.”
+Pub. L. 90–148, §1, Nov. 21, 1967, 81 Stat. 485, provided: “That this Act \[amending this chapter generally\] may be cited as the ‘Air Quality Act of 1967’.”
 
 #### Short Title of 1966 Amendment
 
@@ -114,15 +114,15 @@ Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \
 
 #### Short Title
 
-Section 317, formerly section 14, of act July 14, 1955, as added by section 1 of Pub. L. 88–206, renumbered section 307 by section 101(4) of Pub. L. 89–272, renumbered section 310 by section 2 of Pub. L. 90–148, and renumbered section 317 by Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1705, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
+Act July 14, 1955, ch. 360, title III, §317, formerly §14, as added by Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 401; renumbered §307 by Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; renumbered §310 by Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; renumbered §317 by Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1705, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
 
-Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992, and amended by Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
+Act July 14, 1955, ch. 360, title II, §201, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992, and amended by Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
 
-Section 401 of title IV of act July 14, 1955, as added Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1709, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
+Act July 14, 1955, ch. 360, title IV, §401, as added by Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1709, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
 
 #### Savings Provision
 
-Section 711(a) of Pub. L. 101–549 provided that: “Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[42 U.S.C. 7401 et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act.”
+Pub. L. 101–549, title VII, §711(a), Nov. 15, 1990, 104 Stat. 2684, provided that: “Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[42 U.S.C. 7401 et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act.”
 
 #### Transfer of Functions
 
@@ -130,7 +130,7 @@ Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat.
 
 #### Impact on Small Communities
 
-Section 810 of Pub. L. 101–549 provided that: “Before implementing a provision of this Act \[see Tables for classification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
+Pub. L. 101–549, title VIII, §810, Nov. 15, 1990, 104 Stat. 2690, provided that: “Before implementing a provisionof this Act \[see Tables for classification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
 
 #### Radon Assessment and Mitigation
 
@@ -308,7 +308,7 @@ For provisions relating to responsibility of head of each Executive agency for c
 
 #### Executive Order No. 10779
 
-Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State and local authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
+Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State andlocal authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
 
 #### Executive Order No. 11507
 

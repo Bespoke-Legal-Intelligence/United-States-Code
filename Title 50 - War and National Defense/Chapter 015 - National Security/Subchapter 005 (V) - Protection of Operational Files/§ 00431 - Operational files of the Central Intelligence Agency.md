@@ -20,7 +20,7 @@ In this section, the term “operational files” means—
 
 Notwithstanding subsection (a) of this section, exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuantto the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
+&emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 of title 5 (Freedom of Information Act) or section 552a of title 5 (Privacy Act of 1974);
 
 &emsp;(2) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5 (Freedom of Information Act); or
 
@@ -52,7 +52,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
 
-&emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
+&emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 
 &emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
 
@@ -60,11 +60,11 @@ Whenever any person who has requested agency records under section 552 of title 
 
 #### (g) Decennial review of exempted operational files
 
-Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
+(1) Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
 
-The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
+(2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
-A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
+(3) A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
 &emsp;(A) Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994, or before the expiration of the 10-year period beginning on the date of the most recent review.
 
@@ -118,5 +118,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date
 
-Section 4 of Pub. L. 98–477 provided that: “The amendments made by subsections (a) and (b) of section 2 \[enacting this subchapter and amending section 552a of Title 5, Government Organization and Employees\] shall be effective upon enactment of this Act \[Oct. 15, 1984\] and shall apply with respect to any requests for records, whether or not such request was made prior to such enactment, and shall apply to all civil actions not commenced prior to February 7, 1984.”
+Pub. L. 98–477, §4, Oct. 15, 1984, 98 Stat. 2212, provided that: “The amendments made by subsections (a) and (b) of section 2 \[enacting this subchapter and amending section 552a of Title 5, Government Organization and Employees\] shall be effective upon enactment of this Act \[Oct. 15, 1984\] and shall apply with respect to any requests for records, whether or not such request was made prior to such enactment, and shall apply to all civil actions not commenced prior to February 7, 1984.”
 

@@ -28,26 +28,6 @@ Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Tr
 
 (d)
 
-Biennial Report.—(1) Not later than 30 days after the end of each even-numbered fiscal year, the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing, shall submit to the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives a report on the Global Positioning System. The report shall include a discussion of the following matters:
-
-&emsp;(A) The operational status of the system.
-
-&emsp;(B) The capability of the system to satisfy effectively (i) the military requirements for the system that are current as of the date of the report, and (ii) the validated performance requirements of the Federal Radionavigation Plan in accordance with Office of Management and Budget Circular A–109.
-
-&emsp;(C) The status of cooperative activities undertaken by the United States with the governments of other countries concerning the capability of the system or any augmentation of the system to satisfy civil, commercial, scientific, and military requirements, including a discussion of the status and results of activities undertaken under any regional international agreement.
-
-&emsp;(D) Progress and challenges in establishing GPS as an international standard for consistency of navigational service.
-
-&emsp;(E) Progress and challenges in protecting GPS from jamming, disruption, and interference.
-
-&emsp;(F) Progress and challenges in developing the enhanced Global Positioning System required by section 218(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1951; 10 U.S.C. 2281 note).
-
-&emsp;(G) The effects of use of the system on national security, regional security, and the economic competitiveness of United States industry, including the Global Positioning System equipment and service industry and user industries.
-
-(2) In preparing each report required under paragraph (1), the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing, shall consult with the Secretary of Defense, the Secretary of State, the Secretary of Transportation, and the Secretary of Homeland Security.
-
-(e)
-
 Definitions.—In this section:
 
 &emsp;(1) The term “basic GPS services” means the following components of the Global Positioning System that are operated and maintained by the Department of Defense:
@@ -60,19 +40,21 @@ Definitions.—In this section:
 
 &emsp;(2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, §914, Nov. 24, 2003, 117 Stat. 1567; Pub. L. 111–84, div. A, title X, §1032, Oct. 28, 2009, 123 Stat. 2448.)
+(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, §914, Nov. 24, 2003, 117 Stat. 1567; Pub. L. 111–84, div. A, title X, §1032, Oct. 28, 2009, 123 Stat. 2448; Pub. L. 112–239, div. A, title X, §1064, Jan. 2, 2013, 126 Stat. 1941.)
 
 #### References in Text
 
-Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, prior to repeal by Pub. L. 103–414, title III, §304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
+Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telecommunications, prior to repeal by Pub. L. 103–414, title III, §304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239 redesignated subsec. (e) as (d) and struck out former subsec. (d)which related to biennial reports on the Global Positioning System.
 
 <b>2009</b>—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
 
 Subsec. (d)(1)(B)(ii). Pub. L. 111–84, §1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
 
-Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows:“In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+Subsec. (d)(2). Pub. L. 111–84, §1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
 
 <b>2003</b>—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
@@ -160,7 +142,7 @@ Funding From Authorized Appropriations for Fiscal Year 1999.—Of the amounts au
 
 #### Sustainment and Operation of Global Positioning System
 
-Section 1074(a), (b) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title X, §1074(a), (b), Nov. 18, 1997, 111 Stat. 1907, provided that:
 
 “(a)
 
@@ -168,7 +150,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) The Global Positioning System (consisting of a constellation of satellites and associated facilities capable of providing users on earth with a highly precise statement of their location on earth) makes significant contributions to the attainment of the national security and foreign policy goals of the United States, the safety and efficiency of international transportation, and the economic growth, trade, and productivity of the United States.
 
-&emsp;“(2) The infrastructure for the Global Positioning System (including both space and ground segments of the infrastructure) is vital to the effectiveness ofUnited States and allied military forces and to the protection of the national security interests of the United States.
+&emsp;“(2) The infrastructure for the Global Positioning System (including both space and ground segments of the infrastructure) is vital to the effectiveness of United States and allied military forces and to the protection of the national security interests of the United States.
 
 &emsp;“(3) In addition to having military uses, the Global Positioning System has essential civil, commercial, and scientific uses.
 

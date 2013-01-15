@@ -8,7 +8,7 @@ Nothing in this subchapter shall be construed as—
 
 &emsp;(3) authorizing a restriction on the taking of fish and wildlife for nonsubsistence uses on the public lands (other than national parks and park monuments) unless necessary for the conservation of healthy populations of fish and wildlife, for the reasons set forth in section 3126 of this title, to continue subsistence uses of such populations, or pursuant to other applicable law; or
 
-&emsp;(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; 16 U.S.C. 668dd–jj), the National Park Service Organic Act (39 Stat. 535, 16 U.S.C. 1, 2, 3, 4), the Fur Seal Act of 1966 (80 Stat. 1091; 16 U.S.C. 1187) \[16 U.S.C. 1151 et seq.\], the Endangered Species Act of 1973 (87 Stat. 884; 16 U.S.C. 1531–1543), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; 16 U.S.C. 1361–1407), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 (54 Stat. 250; 16 U.S.C. 742a–754) \[16 U.S.C. 668 et seq.\], the Migratory Bird Treaty Act (40 Stat. 755; 16 U.S.C. 703–711), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; 16 U.S.C. 669–669i), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; 16 U.S.C. 1801–1882), the Federal Aid in Fish Restoration Act (64 Stat. 430; 16 U.S.C. 777–777k), or any amendments to any one or more of such Acts.
+&emsp;(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; 16 U.S.C. 668dd–jj), the National Park Service Organic Act (39 Stat. 535, 16 U.S.C. 1, 2, 3, 4), the Fur Seal Act of 1966 (80 Stat. 1091; 16 U.S.C. 1187)\[16 U.S.C. 1151 et seq.\], the Endangered Species Act of 1973 (87 Stat. 884; 16 U.S.C. 1531–1543), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; 16 U.S.C. 1361–1407), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 (54 Stat. 250; 16 U.S.C. 742a–754) \[16 U.S.C. 668 et seq.\], the Migratory Bird Treaty Act (40 Stat. 755; 16 U.S.C. 703–711), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; 16 U.S.C. 669–669i), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; 16 U.S.C. 1801–1882), the Federal Aid in Fish Restoration Act (64 Stat. 430; 16 U.S.C. 777–777k), or any amendments to any one or more of such Acts.
 
 (Pub. L. 96–487, title VIII, §815, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–83, title III, §316(b)(9), (d), Nov. 14, 1997, 111 Stat. 1594, 1595.)
 
@@ -36,7 +36,7 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 
 #### Amendments
 
-<b>1997</b>—Par. (5). Pub. L. 105–83, §316(b)(9), which directed amendment of section by adding par. (5) readingas follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (5). Pub. L. 105–83, §316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 <b>1996</b>—Par. (4). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -48,9 +48,9 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 

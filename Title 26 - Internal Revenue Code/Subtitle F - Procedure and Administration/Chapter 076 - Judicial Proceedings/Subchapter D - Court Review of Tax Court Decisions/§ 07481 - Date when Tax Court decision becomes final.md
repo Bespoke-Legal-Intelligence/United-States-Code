@@ -48,7 +48,7 @@ Except as provided in subsections (b), (c), and (d), the decision of the Tax Cou
 
 &emsp;&emsp;(C) the decision of the United States Court of Appeals has been affirmed by the Supreme Court,
 
-> &emsp;then the decision of the Tax Court rendered upon such rehearing shall become final in the same manner as though no prior decision of the Tax Court has been rendered.
+> &emsp;then the decision of the Tax Court rendered upon such rehearing shall become final in thesame manner as though no prior decision of the Tax Court has been rendered.
 
 #### (5) Definition of “mandate”
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 100–647, §6247(a), added subsec. (d).
 
 #### Effective Date of 1997 Amendment
 
-Section 1452(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1452(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1454(b)(3) of Pub. L. 105–34 effective Aug. 5, 1997, see section 1454(c) of Pub. L. 105–34, set out as a note under section 6511 of this title.
 

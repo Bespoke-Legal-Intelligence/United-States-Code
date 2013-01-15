@@ -10,7 +10,7 @@ Pub. L. 108–343, Oct. 18, 2004, 118 Stat. 1372, known as the “Tapoco Project
 
 #### Land Exchange in Great Smoky Mountains National Park
 
-For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section 138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
+For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
 
 #### Right-of-way Permits for Natural Gas Pipelines in Great Smoky Mountains National Park
 
@@ -18,7 +18,7 @@ Pub. L. 107–223, Aug. 21, 2002, 116 Stat. 1338, authorized the Secretary of th
 
 #### Shenandoah National Park; Roads on Federal Land; Transfer of County Road Corridors
 
-Pub. L. 104–59, title III, §349(b), Nov. 28, 1995, 109 Stat. 618, permitted State of Virginia to maintain and provide for safe public use of certain roads that State donated to United States at time of establishment of Shenandoah National Park; established transfer from United States to State of county road corridors for that purpose; defined “county road corridor” and “Shenandoah county road”; and provided for reversionof corridors should they be withdrawn from use as public roadways.
+Pub. L. 104–59, title III, §349(b), Nov. 28, 1995, 109 Stat. 618, permitted State of Virginia to maintain and provide for safe public use of certain roads that State donated to United States at time of establishment of Shenandoah National Park; established transfer from United States to State of county road corridors for that purpose; defined “county road corridor” and “Shenandoah county road”; and provided for reversion of corridors should they be withdrawn from use as public roadways.
 
 #### Transfer of Land for Use as Customs Service Canine Enforcement Training Center
 

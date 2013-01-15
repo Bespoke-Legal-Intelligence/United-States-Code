@@ -150,7 +150,7 @@ Subsecs. (e) to (h). Pub. L. 101–218, §7(c), added subsecs. (e) to (h).
 
 #### Effective Date
 
-Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this section and a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–370, §3, July 18, 1984, 98 Stat. 1212, provided that: “The amendments made by this Act \[enacting this section and a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

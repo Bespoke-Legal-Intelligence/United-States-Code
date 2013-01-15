@@ -2,7 +2,7 @@
 
 (a)
 
-Allowances Authorized.—Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service stationed outside the continental United States who is ordered to a consecutive tour of duty at the same duty station or who is ordered to make a change of permanent station to another duty station outside the continental United States may be paid travel and transportation allowances in connection with authorized leave from his last duty station to a place approved by the Secretary concerned and from that place to his designated post of duty. Such allowances may be paid for the member and for the dependents of the member who are authorized to, and do, accompany him at his duty stations.
+Allowances Authorized.—Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service stationed outside the continental United States who is ordered to a consecutive tour of duty at the same duty station or who is ordered to make a change of permanent station to another duty station outside the continental United States may be paid travel and transportation allowances in connection with authorized leave from his last duty station to a place approved by the Secretary concerned and from that place to hisdesignated post of duty. Such allowances may be paid for the member and for the dependents of the member who are authorized to, and do, accompany him at his duty stations.
 
 (b)
 
@@ -18,17 +18,15 @@ Limitation on Allowance Rate.—The allowances prescribed under this section may
 
 Termination.—No travel and transportation allowance may be provided under this section for travel that is authorized after the travel authorities transition expiration date.
 
-(Added Pub. L. 93–213, §1(1), Dec. 28, 1973, 87 Stat. 910, §411b; amended Pub. L. 97–60, title I, §125, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §615(a), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §614(d)(1), (2), Dec. 4, 1987, 101 Stat. 1095; Pub. L. 102–190, div. A, title VI, §624, Dec. 5, 1991, 105 Stat. 1379; Pub. L. 104–201, div. A, title VI, §623(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 107–107, div. A, title VI, §637, Dec. 28, 2001, 115 Stat. 1146; Pub. L. 107–314, div. A, title VI, §§621(a), (b), 654(b)(4), Dec. 2, 2002, 116 Stat. 2570, 2571, 2582; renumbered §481b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(16), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 93–213, §1(1), Dec. 28, 1973, 87 Stat. 910, §411b; amended Pub. L. 97–60, title I, §125, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §615(a), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §614(d)(1), (2), Dec. 4, 1987, 101 Stat. 1095; Pub. L. 102–190, div. A, title VI, §624, Dec. 5, 1991, 105 Stat. 1379; Pub. L. 104–201, div. A, title VI, §623(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 107–107, div. A, title VI, §637, Dec. 28, 2001, 115 Stat. 1146; Pub. L. 107–314, div. A, title VI, §§621(a), (b), 654(b)(4), Dec. 2, 2002, 116 Stat. 2570, 2571, 2582; renumbered §481b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(16), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (c). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 411b of this title as this section.
 
-Subsec. (c). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404”. See Codification note above.
+Subsec. (c). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 Subsec. (d). Pub. L. 112–81, §631(e)(16), added subsec. (d).
 
@@ -56,17 +54,19 @@ Subsec. (a)(2). Pub. L. 100–180, §614(d)(1), substituted “the time the memb
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–60 designated existing provisions as par. (1), inserted “who is ordered to a consecutive tour of duty at the same duty station or” after “District of Columbia”, and added par. (2).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §621(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “Subsection (b) of section 481b of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services in a deferred leave travel status under such section as of the date of the enactment of this Act \[Dec. 2, 2002\] or becomes entitled \[sic\] to travel and transportation allowances under such section on or after that date.”
-
-\[Amendment by Pub. L. 112–81 to section 621(c) of Pub. L. 107–314, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 107–314, div. A, title VI, §621(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Subsection (b) of section 481b of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services in a deferred leave travel status under such section as of the date of the enactment of this Act \[Dec. 2, 2002\] or becomes entitled \[sic\] to travel and transportation allowances under such section on or after that date.”
 
 #### Effective Date of 1996 Amendment
 
-Section 623(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of November 1, 1995.”
+Pub. L. 104–201, div. A, title VI, §623(b), Sept. 23, 1996, 110 Stat. 2548, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of November 1, 1995.”
 
 #### Effective Date of 1985 Amendment
 
-Section 615(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
+Pub. L. 99–145, title VI, §615(b), Nov. 8, 1985, 99 Stat. 641, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
 

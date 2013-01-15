@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
+In General.—The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on thebasis of the number of hours of services provided.
 
 (b)
 
@@ -46,7 +46,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Regulations
 
-Section 834(b) of Pub. L. 101–510 provided that: “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Defense shall publish for public comment new regulations to carry out the requirements in this section \[enacting this section\]. The Secretary shall promulgate final regulations to carry out such requirements not later than 270 days after the date of the enactment of this Act.”
+Pub. L. 101–510, div. A, title VIII, §834(b), Nov. 5, 1990, 104 Stat. 1614, provided that: “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Defense shall publish for public comment new regulations to carry out the requirements in this section \[enacting this section\]. The Secretary shall promulgate final regulations to carry out such requirements not later than 270 days after the date of the enactment of this Act.”
 
 #### Provisions Not Affected by Pub. L. 103–355
 

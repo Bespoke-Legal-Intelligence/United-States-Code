@@ -4,7 +4,7 @@
 
 Authority.—(1) The Secretary concerned may pay in accordance with this section the interest and any special allowances that accrue on one or more student loans of an eligible member of the armed forces.
 
-(2) The Secretary of a military department may exercise the authority under paragraph (1)only if approved by the Secretary of Defense and subject to such requirements, conditions, and restrictions as the Secretary of Defense may prescribe.
+(2) The Secretary of a military department may exercise the authority under paragraph (1) only if approved by the Secretary of Defense and subject to such requirements, conditions, and restrictions as the Secretary of Defense may prescribe.
 
 (b)
 
@@ -40,7 +40,7 @@ Coordination.—(1) The Secretary of Defense and, with respect to the Coast Guar
 
 (2) The Secretary concerned shall transfer to the Secretary of Education the funds necessary—
 
-&emsp;(A) to pay interest and special allowances on student loans under this section (in accordance with sections 428(<i>o</i>), 455(<i>l</i>), and 464(j) of the Higher Education Act of 1965 (20 U.S.C. 1078(<i>o</i>), 1087e(<i>l</i>), and 1087dd(j)); and
+&emsp;(A) to pay interest and special allowances on student loans under this section (in accordance with sections 428(o), 455(l), and 464(j) of the Higher Education Act of 1965 (20 U.S.C. 1078(o), 1087e(l), and 1087dd(j)); and
 
 &emsp;(B) to reimburse the Secretary of Education for any reasonable administrative costs incurred by the Secretary in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965.
 
@@ -60,5 +60,5 @@ Pub. L. 107–314, div. A, title VI, §651(e), Dec. 2, 2002, 116 Stat. 2581, pro
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

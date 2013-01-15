@@ -18,7 +18,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (1) In general
 
-&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sumcredit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
+&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
 
 #### (2) Pro rata share for former spouse
 
@@ -92,7 +92,7 @@ An annuity accrued and unpaid on the termination, except by death, of the annuit
 
 #### Prior Provisions
 
-A prior section 241 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Pub. L. 94–522, title II, §209, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §5, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to disposition of contributions and interest in excess of benefits received and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 241 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Pub. L. 94–522, title II, §209, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §5, Sept. 27, 1983,48 F.R. 44752; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to disposition of contributions and interest in excess of benefits received and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

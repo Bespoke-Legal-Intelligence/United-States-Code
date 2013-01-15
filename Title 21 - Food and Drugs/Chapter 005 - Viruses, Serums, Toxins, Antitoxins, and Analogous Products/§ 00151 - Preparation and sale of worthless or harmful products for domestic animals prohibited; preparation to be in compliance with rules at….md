@@ -16,7 +16,7 @@ Another section 1768 of Pub. L. 99–198, cited as a credit to this section, ame
 
 #### Effective Date of 1985 Amendment
 
-Section 1768(f) of Pub. L. 99–198 provided that:
+Pub. L. 99–198, title XVII, §1768(f), Dec. 23, 1985, 99 Stat. 1655, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 154a and 159 of this title and amending this section and sections 154 and 157 of this title\] shall become effective on the date of enactment of this Act \[Dec. 23, 1985\].
 

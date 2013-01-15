@@ -90,7 +90,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;(A) the insured depository institution has total assets of less than $500,000,000;
 
-&emsp;&emsp;(B) the institution is well capitalized, as defined in section 1831<i>o</i> of this title;
+&emsp;&emsp;(B) the institution is well capitalized, as defined in section 1831o of this title;
 
 &emsp;&emsp;(C) when the institution was most recently examined, it was found to be well managed, and its composite condition—
 
@@ -136,7 +136,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (8) Report
 
-&emsp;At the time the system provided for in paragraph (6) is established, the Federal banking agencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
+&emsp;At the time the system provided for in paragraph (6) is established, the Federal bankingagencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
 
 #### (9) Standards for determining adequacy of State examinations
 
@@ -212,7 +212,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (3) Authority of the Federal banking agencies
 
-&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
+&emsp;Any photographs, microphotographs, or photographic film or copies thereof described inparagraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
 
 #### (g) Authority to prescribe regulations and definitions
 
@@ -308,7 +308,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (D) Final determination
 
-&emsp;&emsp;For purposes of paragraph (2)(B), the term “final determination” means the transmittal of a report of examination to the bank ortransmittal of official notice of proceedings to the bank.
+&emsp;&emsp;For purposes of paragraph (2)(B), the term “final determination” means the transmittal of a report of examination to the bank or transmittal of official notice of proceedings to the bank.
 
 #### (i) Flood insurance compliance by insured depository institutions
 
@@ -382,7 +382,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (A) Agency authority
 
-&emsp;&emsp;A Federal banking agency may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any specialGovernment employee) of that agency, and the Board of Governors of the Federal Reserve System may grant a waiver of the restriction imposed by this subsection to any officer or employee of a Federal reserve bank, if the head of such agency certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the relevant Federal banking agency.
+&emsp;&emsp;A Federal banking agency may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any special Government employee) of that agency, and the Board of Governors of the Federal Reserve System may grant a waiver of the restriction imposed by this subsection to any officer or employee of a Federal reserve bank, if the head of such agency certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the relevant Federal banking agency.
 
 #### (B) Definition
 
@@ -410,7 +410,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (ii) Civil monetary penalty
 
-&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil actionunder this clause in the appropriate United States district court.
 
 #### (B) Scope of prohibition order
 
@@ -432,7 +432,7 @@ Subsecs. (a), (b), \[former\] (e), and \[former\] (f) are derived from subsec. (
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(3). Pub. L. 111–203, §172(a)(2), which directed substitution of “or nonbank financial company supervised by the Board of Governors or a bankholding company described in section 165(a) of the Financial Stability Act of 2010, whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010, for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–203, §172(a)(2), which directed substitution of “or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010, for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
 
 &emsp;“(B)
 
@@ -582,7 +582,7 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1991 Amendment
 
-Section 111(b) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title I, §111(b), Dec. 19, 1991, 105 Stat. 2241, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\].”
 
 Amendment by section 302(d) of Pub. L. 102–242 effective on earlier of 180 days after date on which final regulations promulgated in accordance with section 302(c) of Pub. L. 102–242, set out as a note under section 1817 of this title, become effective or Jan. 1, 1994, see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title.
 
@@ -596,7 +596,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed Pub. L. 89–695, title IV, §401, Oct. 19, 1966, 80 Stat. 1056, which had provided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
 
 #### Effective Date of 1960 Amendment
 
@@ -604,11 +604,11 @@ Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 8
 
 #### Effective Date of Initial Guidelines
 
-Section 349(b) of Pub. L. 103–325 provided that: “The initial guidelines required to be issued pursuant to the amendment made by subsection (a) \[amending this section\] shall become effective not later than 1 year after the date of enactment of this Act \[Sept. 23, 1994\].”
+Pub. L. 103–325, title III, §349(b), Sept. 23, 1994, 108 Stat. 2242, provided that: “The initial guidelines required to be issued pursuant to the amendment made by subsection (a) \[amending this section\] shall become effective not later than 1 year after the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Transition Rule
 
-Section 111(c) of Pub. L. 102–242 provided that: “Notwithstanding section 10(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(d)\] (as added by subsection (a)), during the period beginning on the date of enactment of this Act \[Dec. 19, 1991\] and ending on December 31, 1993, a full-scope, on-site examination of an insured depository institution is not required more often than once during every 18-month period, unless—
+Pub. L. 102–242, title I, §111(c), Dec. 19, 1991, 105 Stat. 2241, provided that: “Notwithstanding section 10(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1820(d)\] (as added by subsection (a)), during the period beginning on the date of enactment of this Act \[Dec. 19, 1991\] and ending on December 31, 1993, a full-scope, on-site examination of an insured depository institution is not required more often than once during every 18-month period, unless—
 
 &emsp;“(1) the institution, when most recently examined, was found to be in a less than satisfactory condition; or
 

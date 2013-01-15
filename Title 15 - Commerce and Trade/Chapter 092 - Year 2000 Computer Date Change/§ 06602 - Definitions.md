@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;The term “Y2K action”—
 
-&emsp;&emsp;(A) means a civil action commenced in any Federal or State court, or an agency board of contract appeal proceeding, in which the plaintiff's alleged harm or injury arises from or is related to an actual or potential Y2K failure, or a claim or defense arises from or is related to an actual or potential Y2K failure;
+&emsp;&emsp;(A) means a civil action commenced in any Federal or State court, or an agency board of contract appeal proceeding, in which the plaintiff's alleged harm or injury arises from or is related to an actual or potential Y2Kfailure, or a claim or defense arises from or is related to an actual or potential Y2K failure;
 
 &emsp;&emsp;(B) includes a civil action commenced in any Federal or State court by a government entity when acting in a commercial or contracting capacity; but
 

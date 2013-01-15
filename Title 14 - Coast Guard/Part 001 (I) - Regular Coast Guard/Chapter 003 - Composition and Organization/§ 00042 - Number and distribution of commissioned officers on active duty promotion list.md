@@ -10,7 +10,7 @@ Distribution Percentages by Grade.—
 
 &emsp;(1)
 
-Required.—The total number of commissioned officers authorized by this section shall be distributed in grade in the following percentages: 0.375 percent for rear admiral; 0.375 percent for rear admiral (lower half); 6.0 percent for captain; 15.0 percent for commander; and 22.0 percent for lieutenant commander.
+Required.—The total number of commissioned officers authorized by this section shallbe distributed in grade in the following percentages: 0.375 percent for rear admiral; 0.375 percent for rear admiral (lower half); 6.0 percent for captain; 15.0 percent for commander; and 22.0 percent for lieutenant commander.
 
 &emsp;(2)
 

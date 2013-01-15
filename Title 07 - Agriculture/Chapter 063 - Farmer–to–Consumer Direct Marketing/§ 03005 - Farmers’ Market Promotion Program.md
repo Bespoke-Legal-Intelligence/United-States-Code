@@ -42,7 +42,7 @@ The Secretary shall establish criteria and guidelines for the submission, evalua
 
 #### (e) Funding
 
-#### (1) In general
+#### (1) Fiscal years 2008 through 2012
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
 
@@ -52,23 +52,27 @@ The Secretary shall establish criteria and guidelines for the submission, evalua
 
 &emsp;&emsp;(C) $10,000,000 for each of fiscal years 2011 and 2012.
 
-#### (2) Use of funds
+#### (2) Fiscal year 2013
 
-&emsp;Not less than 10 percent of the funds used to carry out this section in a fiscal year under paragraph (1) shall be used to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets.
+&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.
 
-#### (3) Interdepartmental coordination
+#### (3) Use of funds
+
+&emsp;Not less than 10 percent of the funds used to carry out this section in a fiscal year under paragraph (1) or (2) shall be used to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets.
+
+#### (4) Interdepartmental coordination
 
 &emsp;In carrying out this subsection, the Secretary shall ensure coordination between the various agencies to the maximum extent practicable.
 
-#### (4) Limitation
+#### (5) Limitation
 
-&emsp;Funds described in paragraph (2)—
+&emsp;Funds described in paragraph (3)—
 
 &emsp;&emsp;(A) may not be used for the ongoing cost of carrying out any project; and
 
 &emsp;&emsp;(B) shall only be provided to eligible entities that demonstrate a plan to continue to provide EBT card access at 1 or more farmers’ markets following the receipt of the grant.
 
-(Pub. L. 94–463, §6, as added Pub. L. 107–171, title X, §10605(a), May 13, 2002, 116 Stat. 513; amended Pub. L. 110–234, title X, §10106, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, §4(a), title X, §10106, June 18, 2008, 122 Stat. 1664, 2098.)
+(Pub. L. 94–463, §6, as added Pub. L. 107–171, title X, §10605(a), May 13, 2002, 116 Stat. 513; amended Pub. L. 110–234, title X, §10106, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, §4(a), title X, §10106, June 18, 2008, 122 Stat. 1664, 2098; Pub. L. 112–240, title VII, §701(g)(1), Jan. 2, 2013, 126 Stat. 2366.)
 
 #### Codification
 
@@ -80,6 +84,10 @@ A prior section 3005, Pub. L. 94–463, §6, Oct. 8, 1976, 90 Stat. 1983; Pub. L
 
 #### Amendments
 
+<b>2013</b>—Subsec. (e)(1). Pub. L. 112–240, §701(g)(1)(A), substituted “Fiscal years 2008 through 2012” for “In general” in heading.
+
+Subsec. (e)(2) to (5). Pub. L. 112–240, §701(g)(1)(B)–(E), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “paragraph (1) or (2)” for “paragraph (1)” in par. (3) and “paragraph (3)” for “paragraph (2)” in introductory provisions of par. (5).
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §10106(1), inserted “and to promote direct producer-to-consumer marketing” before period at end.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §10106(2)(A), inserted “agri-tourism activities,” after “programs,”.
@@ -89,6 +97,10 @@ Subsec. (b)(1)(B). Pub. L. 110–246, §10106(2)(B), inserted “agri-tourism ac
 Subsec. (c)(1). Pub. L. 110–246, §10106(3), inserted “or a producer network or association” after “cooperative”.
 
 Subsec. (e). Pub. L. 110–246, §10106(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date of 2008 Amendment
 

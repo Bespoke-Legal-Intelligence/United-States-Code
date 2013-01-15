@@ -18,9 +18,9 @@
 
 (2) The Commission may exercise any power under the following sections to the extent the Commission determines such power to be necessary to the exercise of any function within the jurisdiction of the Commission:
 
-&emsp;(A) sections 4, 301, 302, 306 through 309, and 312 through 316 of the Federal Power Act \[16 U.S.C. 797, 825, 825a, 825e to 825h, 825k to 825<i>o</i>\]; and
+&emsp;(A) sections 4, 301, 302, 306 through 309, and 312 through 316 of the Federal Power Act \[16 U.S.C. 797, 825, 825a, 825e to 825h, 825k to 825o\]; and
 
-&emsp;(B) sections 8, 9, 13 through 17, 20, and 21 of the Natural Gas Act \[15 U.S.C. 717g, 717h, 717<i>l</i> to 717p, 717s, 717t\].
+&emsp;(B) sections 8, 9, 13 through 17, 20, and 21 of the Natural Gas Act \[15 U.S.C. 717g, 717h, 717l to 717p, 717s, 717t\].
 
 #### (b) Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
@@ -156,7 +156,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 &emsp;“(2) the person filing the complaint was under a contractual prohibition against the filing of a complaint which was in effect on the date of enactment of this Act and had been in effect prior to January 1, 1991, provided that a complaint by a party bound by such prohibition is brought within 30 days after the expiration of such prohibition.
 
-> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
+> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 ofthe Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
 
 “(c)
 

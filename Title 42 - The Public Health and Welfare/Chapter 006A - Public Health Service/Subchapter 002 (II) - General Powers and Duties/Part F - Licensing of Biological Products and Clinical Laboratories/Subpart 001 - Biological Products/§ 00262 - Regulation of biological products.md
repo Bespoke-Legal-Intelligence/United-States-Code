@@ -32,7 +32,7 @@ Pediatric studies.—A person that submits an application for a license under th
 
 (D)
 
-Postmarket studies and clinical trials; labeling; risk evaluation and mitigation strategy.—A person that submits an application for a license under this paragraph is subject to sections 505(<i>o</i>), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(<i>o</i>), (p), 355–1\].
+Postmarket studies and clinical trials; labeling; risk evaluation and mitigation strategy.—A person that submits an application for a license under this paragraph is subject to sections 505(o), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(o), (p), 355–1\].
 
 (3) The Secretary shall prescribe requirements under which a biological product undergoing investigation shall be exempt from the requirements of paragraph (1).
 
@@ -72,7 +72,7 @@ A partially processed biological product which—
 
 &emsp;(3) is intended for further manufacture into final dosage form outside the United States,
 
-> shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et. seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(e)).
+> shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(e)).
 
 #### (i) “Biological product” defined
 
@@ -92,7 +92,7 @@ In this section:
 
 #### (j) Application of Federal Food, Drug, and Cosmetic Act
 
-The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including the requirements under sections 505(<i>o</i>), 505(p), and 505–1 of such Act \[21 U.S.C. 355(<i>o</i>), (p), 355–1\], applies to a biological product subject to regulation under this section, except that a product for which a license has been approved under subsection (a) shall not be required to have an approved application under section 505 of such Act.
+The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including the requirements under sections 505(o), 505(p), and 505–1 of such Act \[21 U.S.C. 355(o), (p), 355–1\], applies to a biological product subject to regulation under this section, except that a product for which a license has been approved under subsection (a) shall not be required to have an approved application under section 505 of such Act.
 
 #### (k) Licensure of biological products as biosimilar or interchangeable
 
@@ -186,13 +186,13 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) 18 months after—
 
-&emsp;&emsp;&emsp;(i) a final court decision on all patents in suit in an action instituted under subsection (<i>l</i>)(6) against the applicant that submitted the application for the first approved interchangeable biosimilar biological product; or
+&emsp;&emsp;&emsp;(i) a final court decision on all patents in suit in an action instituted under subsection (l)(6) against the applicant that submitted the application for the first approved interchangeable biosimilar biological product; or
 
-&emsp;&emsp;&emsp;(ii) the dismissal with or without prejudice of an action instituted under subsection (<i>l</i>)(6) against the applicant that submitted the application for the first approved interchangeable biosimilar biological product; or
+&emsp;&emsp;&emsp;(ii) the dismissal with or without prejudice of an action instituted under subsection (l)(6) against the applicant that submitted the application for the first approved interchangeable biosimilar biological product; or
 
-&emsp;&emsp;(C)(i) 42 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has been sued under subsection (<i>l</i>)(6) and such litigation is still ongoing within such 42-month period; or
+&emsp;&emsp;(C)(i) 42 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has been sued under subsection (l)(6) and such litigation is still ongoing within such 42-month period; or
 
-&emsp;&emsp;(ii) 18 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has not been sued under subsection (<i>l</i>)(6).
+&emsp;&emsp;(ii) 18 months after approval of the first interchangeable biosimilar biological product if the applicant that submitted such application has not been sued under subsection (l)(6).
 
 > &emsp;For purposes of this paragraph, the term “final court decision” means a final decision of a court from which no appeal (other than a petition to the United States Supreme Court for a writ of certiorari) has been or can be taken.
 
@@ -260,7 +260,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a product with respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
 
-#### (<i>l</i>) Patents
+#### (l) Patents
 
 #### (1) Confidential access to subsection (k) application
 
@@ -460,7 +460,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (1) Application of certain provisions
 
-&emsp;The provisions of subsections (a), (d), (e), (f), (i), (j), (k), (<i>l</i>), (p), and (q) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(a), (d), (e), (f), (i), (j), (k), (<i>l</i>), (p), (q)\] shall apply with respect to the extension of a period under paragraphs (2) and (3) to the same extent and in the same manner as such provisions apply with respect to the extension of a period under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(b), (c)\].
+&emsp;The provisions of subsections (a), (d), (e), (f), (h), (i), (j), (k), (l), (n), and (p) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(a), (d), (e), (f), (h), (i), (j), (k), (l), (n), (p)\] shall apply with respect to the extension of a period under paragraphs (2) and (3) to the same extent and in the same manner as such provisions apply with respect to the extension of a period under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(b), (c)\].
 
 #### (2) Market exclusivity for new biological products
 
@@ -482,7 +482,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(3) <sup>1</sup> \[21 U.S.C. 355a(d)(3)\] is made later than 9 months prior to the expiration of such period.
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040.)
 
 #### References in Text
 
@@ -494,17 +494,19 @@ Sections 526, 527(a), and 505A(d)(3), referred to in subsec. (m)(2)(B), (3)(B), 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (m)(1). Pub. L. 112–144 substituted “(f), (h), (i), (j), (k), (l), (n), and (p)” for “(f), (i), (j), (k), (l), (p), and (q)”.
+
 <b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §7002(a)(1), inserted “under this subsection or subsection (k)” after “biologics license”.
 
 Subsec. (i). Pub. L. 111–148, §7002(b), substituted “In this section:” for “In this section,”, designated remainder of existing provisions as par. (1), substituted “The term” for “the term”, inserted “protein (except any chemically synthesized polypeptide),” after “allergenic product,”, and added pars. (2) to (4).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 111–148, §7002(a)(2), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 111–148, §7002(a)(2), added subsecs. (k) and (l).
 
 Subsec. (m). Pub. L. 111–148, §7002(g)(1), added subsec. (m).
 
 <b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–85, §901(c)(1), added subpar. (D).
 
-Subsec. (j). Pub. L. 110–85, §901(c)(2), inserted “, including the requirements under sections 505(<i>o</i>), 505(p), and 505–1 of such Act,” after “and Cosmetic Act”.
+Subsec. (j). Pub. L. 110–85, §901(c)(2), inserted “, including the requirements under sections 505(o), 505(p), and 505–1 of such Act,” after “and Cosmetic Act”.
 
 <b>2003</b>—Subsec. (a)(2)(B), (C). Pub. L. 108–155 added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -524,7 +526,7 @@ Subsec. (j). Pub. L. 105–115, §123(g), added subsec. (j).
 
 Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
+<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, referencesto Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–660, §315, designated existing provisions as par. (1) and added par. (2).
 
@@ -548,7 +550,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1986 Amendment
 
-Section 105(b) of Pub. L. 99–660 provided that: “Paragraph (1) of section 351(h) of the Public Health Service Act \[former subsec. (h)(1) of this section\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–660, title I, §105(b), Nov. 14, 1986, 100 Stat. 3752, provided that: “Paragraph (1) of section 351(h) of the Public Health Service Act \[former subsec. (h)(1) of this section\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 Amendment by section 315 of Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
@@ -614,11 +616,11 @@ In general.—On the date that is 2 years after first receiving a user fee appli
 
 &emsp;“(ii)
 
-Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
+Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to moreappropriately account for the costs of reviewing such applications.
 
 &emsp;“(iii)
 
-Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General ofthe United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability.”
+Accounting standards.—The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under section 3511 of title 31, United State Code, to ensure the validity of any potential variability.”
 
 #### Licensing of Orphan Products
 

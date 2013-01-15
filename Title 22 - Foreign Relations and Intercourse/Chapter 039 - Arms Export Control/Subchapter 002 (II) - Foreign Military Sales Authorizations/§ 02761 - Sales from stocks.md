@@ -20,7 +20,7 @@ Except as provided by subsection (d) of this section, payment shall be made in a
 
 (1) Personnel performing defense services sold under this chapter may not perform any duties of a combatant nature, including any duties related to training and advising that may engage United States personnel in combat activities, outside the United States in connection with the performance of those defense services.
 
-(2) Within forty-eight hours of the existence of, or a change in status of significant hostilities or terrorist acts or a series of such acts, which may endanger American lives or property, involving a country in which United States personnel are performing defense services pursuant to this chapter or the Foreign Assistance Act of1961 \[22 U.S.C. 2151 et seq.\], the President shall submit to the Speaker of the House of Representatives and to the President pro tempore of the Senate a report, in writing, classified if necessary, setting forth—
+(2) Within forty-eight hours of the existence of, or a change in status of significant hostilities or terrorist acts or a series of such acts, which may endanger American lives or property, involving a country in which United States personnel are performing defense services pursuant to this chapter or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], the President shall submit to the Speaker of the House of Representatives and to the President pro tempore of the Senate a report, in writing, classified if necessary, setting forth—
 
 &emsp;(A) the identity of such country;
 
@@ -52,7 +52,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) The President may waive, for particular sales of major defense equipment, any increase in a charge or charges previously considered appropriate under paragraph (1)(B) if the increase results from a correction of an estimate (reasonable when made) of the production quantity base that was used for calculating the charge or charges for purposes of such paragraph.
 
-(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and Supply Agency of the North Atlantic Treaty Organization in support of—
+(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and SupplyAgency of the North Atlantic Treaty Organization in support of—
 
 &emsp;(i) a weapon system partnership agreement; or
 
@@ -112,7 +112,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 Before entering into the sale under this chapter of defense articles that are excess to the stocks of the Department of Defense, the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.
 
-#### (<i>l</i>) Repair of defense articles
+#### (l) Repair of defense articles
 
 #### (1) In general
 
@@ -178,11 +178,11 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(<i>l</i>)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I,§101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -202,9 +202,9 @@ Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted “the Republic of K
 
 Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted “, to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel” for “or to any member government of that Organization if that Organization or member government”.
 
-<b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(<i>l</i>)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
+<b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(l)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
 
-Subsec. (h)(2). Pub. L. 109–102, §534(<i>l</i>)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
+Subsec. (h)(2). Pub. L. 109–102, §534(l)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
 
 <b>1999</b>—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
 
@@ -228,7 +228,7 @@ Subsec. (j). Pub. L. 104–106, §112, struck out heading and text of subsec. (j
 
 Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted “the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.” for “the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.”
 
-Subsec. (<i>l</i>). Pub. L. 104–164, §152(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 104–164, §152(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 104–164, §152(b), added subsec. (m).
 
@@ -248,7 +248,7 @@ Subsec. (e)(2). Pub. L. 101–165, §9104(c)(4), substituted reference to par. (
 
 <b>1988</b>—Subsec. (e)(3). Pub. L. 100–456 added par. (3).
 
-<b>1987</b>—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,” after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,”after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §107(a)(1), (2), designated existing provisions as par. (1), and substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
 
@@ -292,7 +292,7 @@ Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 
 #### Effective Date of 1996 Amendment
 
-Section 4303(b)–(d) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. D, title XLIII, §4303(b)–(d), Feb. 10, 1996, 110 Stat. 659, provided that:
 
 “(b)
 
@@ -328,7 +328,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Regulations
 
-Section 152(c) of Pub. L. 104–164 provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (<i>l</i>) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(<i>l</i>), (m)\], as added by this section.”
+Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (l) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(l), (m)\], as added by this section.”
 
 #### Transfer of Functions
 

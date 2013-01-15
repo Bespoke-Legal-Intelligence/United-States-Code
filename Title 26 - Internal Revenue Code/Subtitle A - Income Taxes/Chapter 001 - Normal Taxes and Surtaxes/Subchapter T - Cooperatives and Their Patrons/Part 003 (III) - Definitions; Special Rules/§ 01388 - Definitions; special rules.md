@@ -10,7 +10,7 @@ For purposes of this subchapter, the term “patronage dividend” means an amou
 
 &emsp;(3) which is determined by reference to the net earnings of the organization from business done with or for its patrons.
 
-> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business done with or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
+> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business donewith or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
 
 #### (b) Written notice of allocation
 
@@ -60,7 +60,7 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (4) Qualified check
 
-&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment whichdoes not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
+&emsp;For purposes of this subchapter, the term “qualified check” means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment which does not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
 
 #### (d) Nonqualified written notice of allocation
 
@@ -134,7 +134,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;&emsp;(A) such earnings are properly allocable to periods after the date of acquisition, and
 
-&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses hadbeen derived from allocation units of the same organization.
+&emsp;&emsp;(B) such earnings could have been offset by such losses if such earnings and losses had been derived from allocation units of the same organization.
 
 #### (3) Notice requirements
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1986 Amendment
 
-Section 13210(c) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XIII, §13210(c), Apr. 7, 1986, 100 Stat. 324, provided that:
 
 “(1)
 
@@ -246,5 +246,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Per-Unit Retain Certificates Covered by Written Agreements Between Oct. 14, 1965, and Nov. 13, 1966: Transition Treatment of By-Law Provisions
 
-Section 211(f) of Pub. L. 89–809 provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
+Pub. L. 89–809, title II, §211(f), Nov. 13, 1966, 80 Stat. 1584, provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
 

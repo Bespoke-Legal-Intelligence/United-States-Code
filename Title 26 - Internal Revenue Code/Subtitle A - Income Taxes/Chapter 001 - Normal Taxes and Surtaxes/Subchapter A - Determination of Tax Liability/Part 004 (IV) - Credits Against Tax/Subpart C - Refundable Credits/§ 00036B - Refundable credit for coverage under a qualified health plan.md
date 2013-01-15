@@ -287,7 +287,7 @@ For purposes of this section—
 
 #### (3) Information requirement
 
-&emsp;Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the Patient Protection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
+&emsp;Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the PatientProtection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
 
 &emsp;&emsp;(A) The level of coverage described in section 1302(d) of the Patient Protection and Affordable Care Act and the period such coverage was in effect.
 
@@ -315,7 +315,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
-Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(<i>l</i>), which relates to wellness program demonstration project and is classified to section 300gg–4(<i>l</i>) of Title 42.
+Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 
 Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
 
@@ -327,7 +327,7 @@ The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1
 
 Subsec. (d)(2)(B)(iii). Pub. L. 112–56 added cl. (iii).
 
-Subsec. (f)(2)(B)(i). Pub. L. 112–9 amended cl. (i) generally. Prior to amendment, cl. (i) consisted of text and a table limiting increase in amount recovered on reconciliation of health insurance tax credit and advance of that credit for households with income below 500 percent of federal poverty line.
+Subsec. (f)(2)(B)(i). Pub. L. 112–9 amended cl. (i) generally. Prior to amendment, cl. (i) consisted of text and a table limiting increase in amount recovered on reconciliation of health insurance tax credit and advance of that credit for households with income below 500 percent of Federal poverty line.
 
 <b>2010</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–152, §1001(a)(1)(A), substituted “for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:” for “with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—” in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
 

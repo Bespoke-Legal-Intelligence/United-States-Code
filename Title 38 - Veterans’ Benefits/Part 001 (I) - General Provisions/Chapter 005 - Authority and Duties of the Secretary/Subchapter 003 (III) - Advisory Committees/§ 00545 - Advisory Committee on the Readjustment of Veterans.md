@@ -242,7 +242,7 @@ Compensation of Members.—Each member of the Commission may be compensated at a
 
 Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Commission except when the cost of commercial transportation is less expensive.
 
-“(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+“(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, UnitedStates Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 “(c)
 
@@ -290,7 +290,7 @@ Availability.—Any sums made available to the Commission under subsection (a) s
 
 #### Original Members of Advisory Committee
 
-Section 333(b) of Pub. L. 104–262 provided that:
+Pub. L. 104–262, title III, §333(b), Oct. 9, 1996, 110 Stat. 3200, provided that:
 
 “(1) Notwithstanding subsection (a)(2) of section 545 of title 38, United States Code (as added by subsection (a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act \[Oct. 9, 1996\] shall be the original members of the advisory committee recognized under such section.
 

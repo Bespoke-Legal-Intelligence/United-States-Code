@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(ii) the vote on final passage shall be on the joint resolution of the other House.
 
-> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall causethe joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
+> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
 
 &emsp;(B)(i) In the Senate, a joint resolution under this paragraph shall be privileged. It shall not be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 &emsp;(ii) Debate in the Senate on a joint resolution under this paragraph, and all debatable motions and appeals in connection therewith, shall be limited to not more than five hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equally divided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee.
+&emsp;(iii) Debate in the Senate on any debatable motion or appeal in connection with a joint resolution under this paragraph shall be limited to not more than one hour, to be equallydivided between, and controlled by, the mover and the manager of the joint resolution, except that in the event the manager of the joint resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee.
 
 &emsp;(iv) A motion in the Senate to further limit debate on a joint resolution under this paragraph is not debatable. A motion to table or to recommit a joint resolution under this paragraph is not in order.
 

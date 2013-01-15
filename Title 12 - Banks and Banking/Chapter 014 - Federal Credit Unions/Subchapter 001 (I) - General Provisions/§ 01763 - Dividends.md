@@ -24,7 +24,7 @@ Pub. L. 96–221, §305(c), inserted provisions relating to share draft accounts
 
 #### Effective Date of 1980 Amendment
 
-Section 207(b) of Pub. L. 96–221 provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+Pub. L. 96–221, title II, §207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
 Amendment by section 305(c) of Pub. L. 96–221 effective at close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 

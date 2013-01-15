@@ -18,7 +18,7 @@ Maximum period for state agencies.—In the case of a State agency certified as 
 
 &emsp;(3)
 
-Local share.—The contributions of a local development district for administrative expenses may be in cash or in kind, fairlyevaluated, including space, equipment, and services.
+Local share.—The contributions of a local development district for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services.
 
 (c)
 
@@ -26,7 +26,7 @@ Duties of Local Development Districts.—A local development district shall—
 
 &emsp;(1) operate as a lead organization serving multicounty areas in the region at the local level;
 
-&emsp;(2) assist the Commission in carrying out outreach activities for local governments, community development groups, the business community, and the public;
+&emsp;(2) assist the Commission in carrying out outreach activities for local governments,community development groups, the business community, and the public;
 
 &emsp;(3) serve as a liaison between State and local governments, nonprofit organizations (including community-based groups and educational institutions), the business community, and citizens; and
 

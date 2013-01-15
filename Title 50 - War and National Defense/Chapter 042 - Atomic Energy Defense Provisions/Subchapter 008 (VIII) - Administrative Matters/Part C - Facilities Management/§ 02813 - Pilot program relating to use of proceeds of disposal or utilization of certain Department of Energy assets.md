@@ -34,19 +34,17 @@ Subsection (b) applies to the following transactions:
 
 #### (d) Applicability of disposal authority
 
-Nothing in this section shall be construed to limit the application of subchapter II of chapter5 and section 549 of title 40 to the disposal of equipment and other personal property covered by this section.
+Nothing in this section shall be construed to limit the application of subchapter II of chapter 5 and section 549 of title 40 to the disposal of equipment and other personal property covered by this section.
 
-#### (e) Report
-
-Not later than January 31, 1999, the Secretary shall submit to the congressional defense committees a report on amounts retained by the Secretary under subsection (b) during fiscal year 1998.
-
-(Pub. L. 107–314, div. D, title XLVIII, §4833, formerly Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039; renumbered Pub. L. 107–314, div. D, title XLVIII, §4833, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(13), Nov. 24, 2003, 117 Stat. 1786.)
+(Pub. L. 107–314, div. D, title XLVIII, §4833, formerly Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039; renumbered Pub. L. 107–314, div. D, title XLVIII, §4833, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(13), Nov. 24, 2003, 117 Stat. 1786; Pub. L. 112–239, div. C, title XXXI, §3131(aa), Jan. 2, 2013, 126 Stat. 2185.)
 
 #### Codification
 
 Section was formerly set out as a note under section 7256 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 struck out subsec. (e). Prior to amendment, text read as follows: “Not later than January 31, 1999, the Secretary shall submit to the congressional defense committees a report on amounts retained by the Secretary under subsection (b) during fiscal year 1998.”
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(k)(13)(D), substituted “subchapter II of chapter 5 and section 549 of title 40” for “sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j))”.
 

@@ -96,7 +96,7 @@ Pub. L. 105–206, title VI, §6023(32), July 22, 1998, 112 Stat. 826, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 1606(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to vehicles purchased after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1606(c), Aug. 20, 1996, 110 Stat. 1839, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to vehicles purchased after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -114,15 +114,15 @@ Amendment by section 911(d)(2)(A) of Pub. L. 98–369 effective Aug. 1, 1984, se
 
 #### Effective Date of 1983 Amendment
 
-Section 515(c) of Pub. L. 97–424 provided that: “The amendments made by this section \[amending sections 39 \[now 34\], 874, 882, 4101, 4102, 4221, 4222, 6201, 6206, 6416, 6421, 6504, 6675, 7210, 7603 to 7605, 7609, and 7610 of this title and repealing sections 4091 to 4094 and 6424 of this title\] shall apply with respect to articles sold after the date of the enactment of this Act \[Jan. 6, 1983\].”
+Pub. L. 97–424, title V, §515(c), Jan. 6, 1983, 96 Stat. 2182, provided that: “The amendments made by this section \[amending sections 39 \[now 34\], 874, 882, 4101, 4102, 4221, 4222, 6201, 6206, 6416, 6421, 6504, 6675, 7210, 7603 to 7605, 7609, and 7610 of this title and repealing sections 4091 to 4094 and 6424 of this title\] shall apply with respect to articles sold after the date of the enactment of this Act \[Jan. 6, 1983\].”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–223 effective on Jan. 1, 1979, see section 232(h)(2) of Pub. L. 96–223, set out as a note under section 6427 of this title.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 233(d) of Pub. L. 95–618 provided that: “The amendments made by this section \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\].”
+Pub. L. 95–618, title II, §233(d), Nov. 9, 1978, 92 Stat. 3192, provided that: “The amendments made by this section \[amending sections 39 \[now 34\], 4041, 4221, 4483, 6416, 6421, 6424, 6427, 6504, and 6675 of this title and amending a provision set out as a note under section 120 of Title 23, Highways\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Nov. 9, 1978\].”
 
 Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub. L. 95–599, set out as a note under section 6427 of this title.
 

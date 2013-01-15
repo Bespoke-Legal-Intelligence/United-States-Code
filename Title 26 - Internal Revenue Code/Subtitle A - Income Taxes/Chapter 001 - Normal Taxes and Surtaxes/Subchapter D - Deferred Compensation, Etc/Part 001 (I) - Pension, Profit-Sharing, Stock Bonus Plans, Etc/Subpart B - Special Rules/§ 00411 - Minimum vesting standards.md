@@ -124,7 +124,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
 
-&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment\(computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
 &emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
@@ -326,7 +326,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) disability benefits not in excess of the qualified disability benefit.
 
-> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefit which would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefits commencing before benefits payable under title II of the Social Security Act become payable which—
+> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefitwhich would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefits commencing before benefits payable under title II of the Social Security Act become payable which—
 
 &emsp;&emsp;(i) do not exceed such social security benefits, and
 
@@ -336,7 +336,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) General rule
 
-&emsp;&emsp;A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the datesuch amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+&emsp;&emsp;A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
 #### (B) Election of former schedule
 
@@ -508,7 +508,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Less than full time service
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (C), in the case ofany employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 #### (C) Less than 1,000 hours of service during year
 
@@ -608,7 +608,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Permitted disparities in plan contributions or benefits
 
-&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(<i>l</i>) are met.
+&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(l) are met.
 
 #### (E) Indexing permitted
 
@@ -698,7 +698,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) in the case of a plan to which section 412 does not apply, upon complete discontinuance of contributions under the plan,
 
-> &emsp;the rights of all affected employees to benefits accrued to the date of such termination, partial termination, or discontinuance, to the extent funded as of such date, or the amounts credited to the employees’ accounts, are nonforfeitable. This paragraph shall not apply to benefits or contributions which, under provisions of the plan adopted pursuant to regulations prescribed by the Secretary to preclude the discrimination prohibited by section 401(a)(4), may not be used for designated employees in the event of early termination of the plan. For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.
+> &emsp;the rights of all affected employees to benefits accrued to the date of such termination, partial termination, or discontinuance, to the extent funded as of such date, or the amounts credited to the employees’ accounts, are nonforfeitable. This paragraph shall not apply to benefits or contributions which, under provisions of the plan adopted pursuant to regulations prescribed by the Secretary to preclude the discrimination prohibited by section 401(a)(4), may not be used for designated employees in the event of early termination of the plan. For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stockbonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.
 
 #### \[(4) Repealed. Pub. L. 99–514, title XI, §1113(b), Oct. 22, 1986, 100 Stat. 2447\]
 
@@ -774,7 +774,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 (2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the vesting requirements resulting from the application of sections 401(a)(4) and 401(a)(7) as in effect on September 1, 1974.
 
-(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III,§301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, 115 Stat. 115, 123, 125, 127; Pub. L. 108–311, title IV, §408(a)(14), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(b), title VII, 701(b), title IX, §§902(d)(2)(A), (B), 904(a), Aug. 17, 2006, 120 Stat. 853, 984, 1038, 1048; Pub. L. 110–458, title I, §§101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, 122 Stat. 5099, 5107, 5111.)
+(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, 115 Stat. 115, 123, 125, 127; Pub. L. 108–311, title IV, §408(a)(14), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(b), title VII, 701(b), title IX, §§902(d)(2)(A), (B), 904(a), Aug. 17, 2006, 120 Stat. 853, 984, 1038, 1048; Pub. L. 110–458, title I, §§101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, 122 Stat. 5099, 5107, 5111.)
 
 #### References in Text
 
@@ -856,7 +856,7 @@ In general.—For purposes of subparagraph (A), the present value shall be calcu
 
 &emsp;“(I) by using an interest rate no greater than the applicable interest rate if the vested accrued benefit (using such rate) is not in excess of $25,000, and
 
-&emsp;“(II) by using an interest rate no greater than 120 percent of the applicable interest rate if the vestedaccrued benefit exceeds $25,000 (as determined under subclause (I)).
+&emsp;“(II) by using an interest rate no greater than 120 percent of the applicable interest rate if the vested accrued benefit exceeds $25,000 (as determined under subclause (I)).
 
 > In no event shall the present value determined under subclause (II) be less than $25,000.
 
@@ -918,7 +918,7 @@ Pub. L. 99–509, §9202(b)(3), substituted “subsection (b)(3), and also satis
 
 Subsec. (a)(2). Pub. L. 99–514, §1113(a), amended par. (2) generally, substituting provisions covering 5-year vesting, 3 to 7 year vesting, and multiemployer plans, for former provisions which had covered 10-year vesting, 5- to 15-year vesting, and the “rule of 45”.
 
-Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(A)(i), substituted last sentence for former last sentence which read as follows: “In the case of a defined contribution plan, the plan provision required under this clause may provide that such repayment must be made before the participant has any one-year break in service commencing after the withdrawal.”
+Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(A)(i), substituted last sentence for former last sentencewhich read as follows: “In the case of a defined contribution plan, the plan provision required under this clause may provide that such repayment must be made before the participant has any one-year break in service commencing after the withdrawal.”
 
 Subsec. (a)(7)(C). Pub. L. 99–514, §1898(a)(4)(A)(ii), substituted last sentence for former last sentence which read as follows: “In the case of a defined contribution plan, the plan provision required under this subparagraph may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal.”
 
@@ -1000,7 +1000,7 @@ Present value of accrued benefit.—The amendments made by subsections (a)(2) an
 
 “(3)
 
-Vesting and interest credit requirements.—In the case of a plan in existence on June 29, 2005, the requirements of clause (i) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (i) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(b)(5)(B)\], and clause (i) of section 4(i)(10)(B) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(i)(10)(B)\] (as added by this Act) and the requirements of 203(f)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1053(f)(2)\] and section 411(a)(13)(B) of the Internal Revenue Code of 1986 (as so added) shall, for purposes of applying the amendments made by subsections (a) and (b) \[amending this section and sections 1053 and 1054 of Title 29\], apply to years beginning after December 31, 2007, unless the plan sponsor elects the application of such requirements for any period on or after June 29, 2005, and before the first year beginning after December 31, 2007.
+Vesting and interest credit requirements.—In the case of a plan in existence on June 29, 2005, the requirements of clause (i) of section 411(b)(5)(B) of the Internal Revenue Code of 1986, clause (i) of section 204(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(b)(5)(B)\], and clause (i) of section 4(i)(10)(B) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(i)(10)(B)\] (as added by this Act) and the requirements of 203(f)(2) of the Employee Retirement Income Security Act of 1974 \[29U.S.C. 1053(f)(2)\] and section 411(a)(13)(B) of the Internal Revenue Code of 1986 (as so added) shall, for purposes of applying the amendments made by subsections (a) and (b) \[amending this section and sections 1053 and 1054 of Title 29\], apply to years beginning after December 31, 2007, unless the plan sponsor elects the application of such requirements for any period on or after June 29, 2005, and before the first year beginning after December 31, 2007.
 
 “(4)
 
@@ -1090,11 +1090,11 @@ Pub. L. 107–16, title VI, §648(c), June 7, 2001, 115 Stat. 128, provided that
 
 #### Effective Date of 1997 Amendment
 
-Section 1071(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section, sections 417 and 457 of this title, and sections 1053 to 1055 of Title 29, Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1071(c), Aug. 5, 1997, 111 Stat. 948, provided that: “The amendments made by this section \[amending this section, sections 417 and 457 of this title, and sections 1053 to 1055 of Title 29, Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 1442(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 1053 of Title 29, Labor\] shall apply to plan years beginning on or after the earlier of—
+Pub. L. 104–188, title I, §1442(c), Aug. 20, 1996, 110 Stat. 1808, provided that: “The amendments made by this section \[amending this section and section 1053 of Title 29, Labor\] shall apply to plan years beginning on or after the earlier of—
 
 &emsp;“(1) the later of—
 
@@ -1108,7 +1108,7 @@ Section 1442(c) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1994 Amendment
 
-Section 767(d) of Pub. L. 103–465, as amended by Pub. L. 104–188, title I, §1449(a), Aug. 20, 1996, 110 Stat. 1813; Pub. L. 105–34, title XVI, §1604(b)(3), Aug. 5, 1997, 111 Stat. 1097, provided that:
+Pub. L. 103–465, title VII, §767(d), Dec. 8, 1994, 108 Stat. 5040, as amended by Pub. L. 104–188, title I, §1449(a), Aug. 20, 1996, 110 Stat. 1813; Pub. L. 105–34, title XVI, §1604(b)(3), Aug. 5, 1997, 111 Stat. 1097, provided that:
 
 “(1)
 
@@ -1116,7 +1116,7 @@ In general.—The amendments made by this section \[amending this section, secti
 
 “(2)
 
-No reduction in accrued benefits.—A participant's accrued benefit shall not be considered to be reduced in violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C.1054(g)\] merely because (A) the benefit is determined in accordance with section 417(e)(3)(A) of such Code, as amended by this Act, or section 205(g)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055(g)(3)\], as amended by this Act, or (B) the plan applies section 415(b)(2)(E) of such Code, as amended by this Act.
+No reduction in accrued benefits.—A participant's accrued benefit shall not be considered to be reduced in violation of section 411(d)(6) of the Internal Revenue Code of 1986 or section 204(g) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(g)\] merely because (A) the benefit is determined in accordance with section 417(e)(3)(A) of such Code, as amended by this Act, or section 205(g)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055(g)(3)\], as amended by this Act, or (B) the plan applies section 415(b)(2)(E) of such Code, as amended by this Act.
 
 “(3)
 
@@ -1144,9 +1144,9 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7861(a)(5)(A), (6)(A) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of this title.
 
-Section 7871(a)(4) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 101–239, title VII, §7871(a)(4), Dec. 19, 1989, 103 Stat. 2435, provided that: “The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9202 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
-Section 7871(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 101–239, title VII, §7871(b)(3), Dec. 19, 1989, 103 Stat. 2435, provided that: “The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 Amendment by section 7881(m)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of this title.
 
@@ -1158,9 +1158,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, with plan amendments not required to be made before first plan year beginning on or after Jan. 1, 1989, if certain conditions are met, see section 9346(c) of Pub. L. 100–203, set out as a note under section 1054 of Title 29, Labor.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 1113(f), formerly §1113(e), of Pub. L. 99–514, as redesignated and amended by Pub. L. 101–239, title VII, §7861(a)(3), (4), Dec. 19, 1989, 103 Stat. 2430, provided that:
+Pub. L. 99–514, title XI, §1113(f), formerly §1113(e), Oct. 22, 1986, 100 Stat. 2447, as redesignated and amended by Pub. L. 101–239, title VII, §7861(a)(3), (4), Dec. 19, 1989, 103 Stat. 2430, provided that:
 
 “(1)
 
@@ -1194,7 +1194,7 @@ Repeal of class year vesting.—If a plan amendment repealing class year vesting
 
 Amendment by section 1114(b)(10) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Section 1139(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011A(k), Nov. 10, 1988, 102 Stat. 3483, provided that:
+Pub. L. 99–514, title XI, §1139(d), Oct. 22, 1986, 100 Stat. 2488, as amended by Pub. L. 100–647, title I, §1011A(k), Nov. 10, 1988, 102 Stat. 3483, provided that:
 
 “(1)
 
@@ -1226,7 +1226,7 @@ Special rule.—In the case of a plan maintained by a corporation incorporated o
 
 &emsp;&emsp;“(ii) the present value of any vested accrued benefit of such plan determined during the 3-year period beginning on the date of the enactment of this Act shall be determined under the applicable interest rate (within the meaning of section 411(a)(11)(B)(ii) of such Code), except that if such value (as so determined) exceeds $50,000, then the value of any excess over $50,000 shall be determined by using the interest rate specified in the plan as of August 16, 1986.”
 
-Section 1898(a)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions made for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]; except that, in the case of a plan described in section 302(b) of the Retirement Equity Act of 1984 \[section 302(b) of Pub. L. 98–397, set out as a note under section 1001 of Title 29\], such amendments shall not apply to any plan year to which the amendments made by such Act \[see Short Title of 1984 Amendment note set out under section 1001 of Title 29\] do not apply by reason of such section 302(b).”
+Pub. L. 99–514, title XVIII, §1898(a)(1)(C), Oct. 22, 1986, 100 Stat. 2942, provided that: “The amendments made by this paragraph \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions made for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]; except that, in the case of a plan described in section 302(b) of the Retirement Equity Act of 1984 \[section 302(b) of Pub. L. 98–397, set out as a note under section 1001 of Title 29\], such amendments shall not apply to any plan year to which the amendments made by such Act \[see Short Title of 1984 Amendment note set out under section 1001 of Title 29\] do not apply by reason of such section 302(b).”
 
 Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -1358,7 +1358,7 @@ Conditions.—This subsection shall not apply to any plan or annuity contract am
 
 &emsp;&emsp;“(ii) such plan or contract amendment applies retroactively for such period.”
 
-Section 1541 of title XV of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title XV, §1541, Aug. 5, 1997, 111 Stat. 1085, provided that:
 
 “(a)
 
@@ -1376,7 +1376,7 @@ Amendments to Which Section Applies.—
 
 In general.—This section shall apply to any amendment to any plan or annuity contract which is made—
 
-&emsp;&emsp;“(A) pursuant to any amendment made by this title \[enacting sections 9811 and 9812 of this title, amending sections 101, 401 to 404, 408, 409, 410, 412, 414, 415, 512, 664, 674, 2055, 2056, 4947, 4972, 4975, 4978, 4979A, 4980D, 9801, 9802, and 9831 of this title, sections 1021, 1022, 1024, 1026 to 1028, 1056, 1082, 1107, 1108, and 1132 of Title 29, Labor, and section 1320b–14 of Title 42, The Public Health and Welfare, renumbering sections 9804 to 9806 of this title as sections 9831 to 9833, respectively, of this title, and amending provisions set out as a note under section 412 of this title\] or subtitle H of title X \[§§1071–1075, amending this section, sections 72, 132, 417, 457, 691, 2013, 2053, 4975, and 6018 of this title, and sections 1053 to 1055 of Title 29 and repealing section 4980A of this title\], and
+&emsp;&emsp;“(A) pursuant to any amendment made by this title \[enacting sections 9811 and 9812 of this title, amending sections 101, 401 to 404, 408, 409, 410, 412, 414, 415, 512, 664, 674, 2055, 2056, 4947, 4972, 4975, 4978,4979A, 4980D, 9801, 9802, and 9831 of this title, sections 1021, 1022, 1024, 1026 to 1028, 1056, 1082, 1107, 1108, and 1132 of Title 29, Labor, and section 1320b–14 of Title 42, The Public Health and Welfare, renumbering sections 9804 to 9806 of this title as sections 9831 to 9833, respectively, of this title, and amending provisions set out as a note under section 412 of this title\] or subtitle H of title X \[§§1071–1075, amending this section, sections 72, 132, 417, 457, 691, 2013, 2053, 4975, and 6018 of this title, and sections 1053 to 1055 of Title 29 and repealing section 4980A of this title\], and
 
 &emsp;&emsp;“(B) before the first day of the first plan year beginning on or after January 1, 1999.
 
@@ -1398,7 +1398,7 @@ Conditions.—This section shall not apply to any amendment unless—
 
 #### Transitional Rule: Certain Plan Amendments Adopted or Effective On or Before August 20, 1996
 
-Section 1449(d) of Pub. L. 104–188 provided that: “In the case of a plan that was adopted and in effect before December 8, 1994, if—
+Pub. L. 104–188, title I, §1449(d), Aug. 20, 1996, 110 Stat. 1814, provided that: “In the case of a plan that was adopted and in effect before December 8, 1994, if—
 
 &emsp;“(1) a plan amendment was adopted or made effective on or before the date of the enactment of this Act \[Aug. 20, 1996\] applying the amendments made by section 767 of the Uruguay Round Agreements Act \[Pub. L. 103–465, see Effective Date of 1994 Amendment note set out above\], and
 

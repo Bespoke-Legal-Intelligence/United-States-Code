@@ -2,7 +2,7 @@
 
 In the absence of specific agreement to the contrary, additional facilities, including equipment, purchased pursuant to the performance of services authorized by section 273 of this title shall become the property of the Department of Commerce.
 
-(Mar. 3, 1901, ch. 872, §8, 31 Stat. 1450; June 30, 1932, ch. 314, title III, §312, 47 Stat. 410; Aug. 3, 1956, ch. 906, §1, 70 Stat. 959.)
+(Mar. 3, 1901, ch. 872, §8, 31 Stat. 1450; June 30, 1932, ch. 314, pt. II, title III, §312, 47 Stat. 410; Aug. 3, 1956, ch. 906, §1, 70 Stat. 959.)
 
 #### Amendments
 

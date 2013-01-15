@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (i) Straight line depreciation must be used
 
-&emsp;&emsp;&emsp;Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determined under subsection (c) or (g) of section 168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section 168(g) applies to such expenditure by reason of subparagraph (B) or (C) of section 168(g)(1).
+&emsp;&emsp;&emsp;Any expenditure with respect to which the taxpayer does not use the straight line method over a recovery period determinedunder subsection (c) or (g) of section 168. The preceding sentence shall not apply to any expenditure to the extent the alternative depreciation system of section 168(g) applies to such expenditure by reason of subparagraph (B) or (C) of section 168(g)(1).
 
 #### (ii) Cost of acquisition
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (vi) Expenditures of lessee
 
-&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease\(determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
+&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
 
 #### (C) Certified rehabilitation
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) it is reasonable to expect that such building will be a qualified rehabilitated building in the hands of the taxpayer when it is placed in service.
 
-> &emsp;&emsp;Clauses (i) and (ii) shall be applied on the basis of facts known as of the close of the taxable year of the taxpayer in which the rehabilitation begins (or, if later, at the close of the first taxable year to which an election under this subsection applies).
+> &emsp;&emsp;Clauses (i) and (ii) shall be applied on the basis of facts known as of the close of thetaxable year of the taxpayer in which the rehabilitation begins (or, if later, at the close of the first taxable year to which an election under this subsection applies).
 
 #### (B) Normal rehabilitation period
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan.12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
 
 #### Amendments
 
@@ -270,7 +270,7 @@ Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class lif
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessationrules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
+Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
 
 Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1844(b)(4), inserted “reduced by the sum of the credit recapture amounts with respect to such property for all preceding years”.
 
@@ -280,11 +280,11 @@ Subsec. (d)(3)(G). Pub. L. 99–514, §1511(c)(2), substituted “determined at 
 
 <b>1985</b>—Subsec. (a)(5)(B). Pub. L. 99–121 substituted “For property other than 3-year property” for “For 15-year, 10-year, and 5-year property” in table heading.
 
-<b>1984</b>—Subsec. (a)(5)(D), (6). Pub. L. 98–369, §474(<i>o</i>)(8), substituted “under section 39” for “under section 46(b)”.
+<b>1984</b>—Subsec. (a)(5)(D), (6). Pub. L. 98–369, §474(o)(8), substituted “under section 39” for “under section 46(b)”.
 
 Subsec. (a)(7)(C). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-Subsec. (c). Pub. L. 98–369, §474(<i>o</i>)(9), substituted “subpart A, B, or D” for “subpart A”.
+Subsec. (c). Pub. L. 98–369, §474(o)(9), substituted “subpart A, B, or D” for “subpart A”.
 
 Subsec. (d). Pub. L. 98–369, §431(b)(2), substituted “Increases in nonqualified nonrecourse financing” for “Property ceasing to be at risk” in heading.
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1511(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 48, 167, 644, 852, 4497, 6214, 6332, 6343, 6601, 6602, 6611, 6621, 6654, 6655, and 7426 of this title and sections 1961 and 2411 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 6621 of this title\] shall apply for purposes of determining interest for periods after December 31, 1986.”
+Pub. L. 99–514, title XV, §1511(d), Oct. 22, 1986, 100 Stat. 2746, provided that: “The amendments made by this section \[amending this section and sections 48, 167, 644, 852, 4497, 6214, 6332, 6343, 6601, 6602, 6611, 6621, 6654, 6655, and 7426 of this title and sections 1961 and 2411 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 6621 of this title\] shall apply for purposes of determining interest for periods after December 31, 1986.”
 
 Amendment by sections 1802(a)(5)(A) and 1844(b)(1), (2), (4) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -360,7 +360,7 @@ Amendment by sections 1802(a)(5)(A) and 1844(b)(1), (2), (4) of Pub. L. 99–514
 
 Amendment by Pub. L. 99–121 applicable as if included in the amendments made by section 111 of the Tax Reform Act of 1984, Pub. L. 98–369, see section 105(b)(4) of Pub. L. 99–121, set out as a note under section 168 of this title, and section 111(g) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 168 of this title.
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
@@ -368,7 +368,7 @@ Amendment by section 421(b)(7) of Pub. L. 98–369 applicable to transfers after
 
 Amendment by section 431(b)(2), (d)(4), (5) of Pub. L. 98–369 applicable to property placed in service after July 18, 1984, in taxable years ending after such date, but not applicable to property to which subsec. (d) of this section and section 46(c)(8), (9) of this title, as enacted by section 211(f) of Pub. L. 97–34, do not apply, with the taxpayer having an option to elect retroactive application of amendment by Pub. L. 98–369, see section 431(e) of Pub. L. 98–369, set out as a note under section 46 of this title.
 
-Amendment by section 474(<i>o</i>)(8), (9) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(o)(8), (9) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -386,7 +386,7 @@ Amendment by section 211(f)(2) of Pub. L. 97–34 not to apply to property place
 
 #### Effective Date of 1978 Amendment
 
-Section 317(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after March 31, 1976.”
+Pub. L. 95–600, title III, §317(b), Nov. 6, 1978, 92 Stat. 2830, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after March 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
@@ -396,17 +396,17 @@ Amendment by section 804(b) of Pub. L. 94–455 applicable to taxable years begi
 
 Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, see section 305(a) of Pub. L. 94–12, set out as a note under section 46 of this title.
 
-#### Effective Date of 1971 Amendments
+#### Effective Date of 1971 Amendment
 
 In redetermining qualified investment for purposes of subsec. (a) of this section in the case of any property which ceases to be section 38 property with respect to the taxpayer after Aug. 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of this title as amended by section 102(a) of Pub. L. 92–178 as applicable, see section 102(d)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
 Amendment by section 107(a)(1) of Pub. L. 92–178 applicable to casualties and thefts occurring after Aug. 15, 1971, see section 107(a)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
-Section 107(b)(2) of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The repeal made by paragraph (1) \[repealing subsec. (a)(5) of this section\] shall not apply if replacement property described in subparagraph (B) of such section 47(a)(5) is not property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Pub. L. 92–178, title I, §107(b)(2), Dec. 10, 1971, 85 Stat. 507, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The repeal made by paragraph (1) \[repealing subsec. (a)(5) of this section\] shall not apply if replacement property described in subparagraph (B) of such section 47(a)(5) is not property described in section 50 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
-Section 102(d)(3) of Pub. L. 92–178 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply to leases executed after April 18, 1969.”
+Pub. L. 92–178, title I, §102(d)(3), Dec. 10, 1971, 85 Stat. 500, provided that: “The amendment made by subsection (c) \[amending this section\] shall apply to leases executed after April 18, 1969.”
 
-Section 2 of Pub. L. 91–676 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after April 18, 1969.”
+Pub. L. 91–676, §2, Jan. 12, 1971, 84 Stat. 2060, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after April 18, 1969.”
 
 #### Effective Date
 
@@ -422,7 +422,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
-For provision that nothing in the amendments made by section 474(<i>o</i>) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, see section 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
+For provision that nothing in the amendments made by section 474(o) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, see section 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
 
 #### Transfer of Functions
 

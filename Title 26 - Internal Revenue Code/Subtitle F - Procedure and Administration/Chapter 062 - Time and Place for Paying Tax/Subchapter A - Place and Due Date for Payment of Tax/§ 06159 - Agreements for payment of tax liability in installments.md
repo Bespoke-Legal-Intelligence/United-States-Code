@@ -44,7 +44,7 @@ The Secretary is authorized to enter into written agreements with any taxpayer u
 
 #### (c) Secretary required to enter into installment agreements in certain cases
 
-In the case of a liability for tax of an individual under subtitle A, the Secretary shall enterinto an agreement to accept the full payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
+In the case of a liability for tax of an individual under subtitle A, the Secretary shall enter into an agreement to accept the full payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
 
 &emsp;(1) the aggregate amount of such liability (determined without regard to interest, penalties, additions to the tax, and additional amounts) does not exceed $10,000;
 
@@ -132,15 +132,15 @@ Pub. L. 105–206, title III, §3467(b), July 22, 1998, 112 Stat. 770, provided 
 
 #### Effective Date of 1996 Amendment
 
-Section 201(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date 6 months after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title II, §201(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date 6 months after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 202(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
+Pub. L. 104–168, title II, §202(b), July 30, 1996, 110 Stat. 1457, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
 
 #### Effective Date
 
-Section 6234(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section and amending section 6601 of this title\] shall apply to agreements entered into after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6234(c), Nov. 10, 1988, 102 Stat. 3736, provided that: “The amendments made bythis section \[enacting this section and amending section 6601 of this title\] shall apply to agreements entered into after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Statements Regarding Installment Agreements
 
-Pub. L. 105–206, title III, §3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, providedthat: “The Secretary of the Treasury or the Secretary's delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
+Pub. L. 105–206, title III, §3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
 

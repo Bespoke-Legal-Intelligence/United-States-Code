@@ -4,7 +4,7 @@
 
 No deduction otherwise allowable under this chapter shall be allowed for any amount paid or incurred for—
 
-&emsp;(1) advertising in a convention program of a political party, or in any other publication if any part of the proceeds of such publication directly or indirectly inures (or is intended to inure) to or for the use of a political party or a political candidate,
+&emsp;(1) advertising in a convention program of a political party, or in any other publication if any part of the proceeds of such publication directly or indirectly inures (or is intended toinure) to or for the use of a political party or a political candidate,
 
 &emsp;(2) admission to any dinner or program, if any part of the proceeds of such dinner or program directly or indirectly inures (or is intended to inure) to or for the use of a political party or a political candidate, or
 
@@ -50,11 +50,11 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 #### Effective Date of 1968 Amendment
 
-Section 108(b) of Pub. L. 90–364 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to amounts paid or incurred on or after January 1, 1968.”
+Pub. L. 90–364, title I, §108(b), June 28, 1968, 82 Stat. 269, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to amounts paid or incurred on or after January 1, 1968.”
 
 #### Effective Date
 
-Section 301(c) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to amounts paid or incurred after the date of the enactment of this Act \[Mar. 15, 1966\].”
+Pub. L. 89–368, title III, §301(c), Mar. 15, 1966, 80 Stat. 67, provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to amounts paid or incurred after the date of the enactment of this Act \[Mar. 15, 1966\].”
 
 #### Program Advertising for Presidential and Vice-Presidential Nominating Conventions
 

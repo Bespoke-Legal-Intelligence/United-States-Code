@@ -14,7 +14,7 @@ Pub. L. 90–497, §8(b), struck out provision that, if Congress did not annul l
 
 #### Effective Date of 1968 Amendment
 
-Section 8(b) of Pub. L. 90–497 provided that the amendment made by that section is effective on date ofenactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+Pub. L. 90–497, §8(b), Sept. 11, 1968, 82 Stat. 847, provided that the amendment made by that section is effective on the date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 
 Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
 

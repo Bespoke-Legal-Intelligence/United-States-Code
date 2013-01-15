@@ -20,5 +20,5 @@ Pub. L. 103–465, title IV, §411(a)(1), Dec. 8, 1994, 108 Stat. 4962, provided
 
 #### Short Title
 
-Section 1 of Pub. L. 95–501, as added by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3669, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Trade Act of 1978’.”
+Pub. L. 95–501, §1, as added by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3669, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Trade Act of 1978’.”
 

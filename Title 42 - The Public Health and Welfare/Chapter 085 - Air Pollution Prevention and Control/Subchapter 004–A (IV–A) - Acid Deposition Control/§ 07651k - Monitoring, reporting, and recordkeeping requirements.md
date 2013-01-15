@@ -24,7 +24,7 @@ It shall be unlawful for the owner or operator of any source subject to this sub
 
 #### Information Gathering on Greenhouse Gases Contributing to Global Climate Change
 
-Section 821 of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title VIII, §821, Nov. 15, 1990, 104 Stat. 2699, provided that:
 
 “(a)
 

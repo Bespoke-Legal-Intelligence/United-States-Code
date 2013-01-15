@@ -10,7 +10,7 @@ For the effect of an authorization under subsection (a) of this section, see sec
 
 #### (c) Surplus natural gas
 
-For purposes of this section, the term “surplus natural gas” means any natural gas which is determined, by the State agency having regulatory jurisdiction over the intrastate pipeline which would be entitled to receive such natural gas in the absence of any assignment to exceedthe then current demands on such pipeline for natural gas.
+For purposes of this section, the term “surplus natural gas” means any natural gas which is determined, by the State agency having regulatory jurisdiction over the intrastate pipeline which would be entitled to receive such natural gas in the absence of any assignment to exceed the then current demands on such pipeline for natural gas.
 
 (Pub. L. 95–621, title III, §312, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101–60, §3(b)(2), July 26, 1989, 103 Stat. 158.)
 

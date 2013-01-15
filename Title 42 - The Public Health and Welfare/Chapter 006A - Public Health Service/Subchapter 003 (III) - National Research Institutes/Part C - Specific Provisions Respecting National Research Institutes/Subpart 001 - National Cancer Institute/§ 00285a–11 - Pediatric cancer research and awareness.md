@@ -26,7 +26,7 @@
 
 #### (2) Performance measurement, transparency, and accountability
 
-&emsp;For each grant awarded under this subsection, the Secretary shall develop and implement metrics-based performance measures to assess the effectiveness of activities funded under such grant.
+&emsp;For each grant awarded under this subsection, the Secretary shall develop and implement metrics-based performance measures toassess the effectiveness of activities funded under such grant.
 
 #### (3) Informational requirements
 

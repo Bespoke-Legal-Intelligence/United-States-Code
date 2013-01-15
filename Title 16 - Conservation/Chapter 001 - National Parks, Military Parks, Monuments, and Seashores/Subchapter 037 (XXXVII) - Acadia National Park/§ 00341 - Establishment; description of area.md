@@ -20,7 +20,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 #### “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.
 
-“In order to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
+“In order to protect and conserve the land and water resources of Acadia National Park in the State ofMaine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
 
 #### “SEC. 102. LANDS WITHIN BOUNDARIES.
 
@@ -146,7 +146,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 
 
 “(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
-“(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460<i>l</i>–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
+“(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460l–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
 “(c)
 

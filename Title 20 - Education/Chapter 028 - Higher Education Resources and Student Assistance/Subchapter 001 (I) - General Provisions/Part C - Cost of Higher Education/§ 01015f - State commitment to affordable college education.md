@@ -4,7 +4,7 @@
 
 A State shall provide—
 
-&emsp;(1) for public institutions of higher education in such State for any academic year beginning on or after July 1, 2008, an amountwhich is equal to or greater than the average amount provided for non-capital and non-direct research and development expenses or costs by such State to such institutions of higher education during the five most recent preceding academic years for which satisfactory data are available; and
+&emsp;(1) for public institutions of higher education in such State for any academic year beginning on or after July 1, 2008, an amount which is equal to or greater than the average amount provided for non-capital and non-direct research and development expenses or costs by such State to such institutions of higher education during the five most recent preceding academic years for which satisfactory data are available; and
 
 &emsp;(2) for private institutions of higher education in such State for any academic year beginning on or after July 1, 2008, an amount which is equal to or greater than the average amount provided for student financial aid for paying costs associated with postsecondary education by such State to such institutions during the five most recent preceding academic years for which satisfactory data are available.
 

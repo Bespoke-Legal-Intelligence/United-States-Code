@@ -32,7 +32,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Congressional Findings
 
-Section 324 of Pub. L. 104–132 provided that: “The Congress finds that—
+Pub. L. 104–132, title III, §324, Apr. 24, 1996, 110 Stat. 1255, provided that: “The Congress finds that—
 
 &emsp;“(1) international terrorism is among the most serious transnational threats faced by the United States and its allies, far eclipsing the dangers posed by population growth or pollution;
 

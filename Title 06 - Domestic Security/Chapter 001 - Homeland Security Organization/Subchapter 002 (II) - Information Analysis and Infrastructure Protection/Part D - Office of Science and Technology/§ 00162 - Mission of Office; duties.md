@@ -46,7 +46,7 @@ In carrying out its mission, the Office shall have the following duties:
 
 &emsp;(7) To administer a program of research, development, testing, and demonstration to improve the interoperability of voice and data public safety communications.
 
-&emsp;(8) To serve on the Technical Support Working Group of the Department of Defense, andon other relevant interagency panels, as requested.
+&emsp;(8) To serve on the Technical Support Working Group of the Department of Defense, and on other relevant interagency panels, as requested.
 
 &emsp;(9) To develop, and disseminate to State and local law enforcement agencies, technical assistance and training materials for law enforcement personnel, including prosecutors.
 
@@ -82,7 +82,7 @@ The Office may transfer funds to other Federal agencies or provide funding to no
 
 #### (g) Annual report
 
-The Director of the Office shall include with the budget justification materials submitted to Congress in support of the Department of Justice budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report on the activities of the Office. Each such report shall include the following:
+The Director of the Office shall include with the budget justification materials submitted toCongress in support of the Department of Justice budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report on the activities of the Office. Each such report shall include the following:
 
 &emsp;(1) For the period of 5 fiscal years beginning with the fiscal year for which the budget is submitted—
 

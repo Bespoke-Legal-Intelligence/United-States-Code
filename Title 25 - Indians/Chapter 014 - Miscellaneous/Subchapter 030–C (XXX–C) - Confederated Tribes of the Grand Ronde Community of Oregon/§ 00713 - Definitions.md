@@ -16,5 +16,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 98–165 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Grand Ronde Restoration Act’.”
+Pub. L. 98–165, §1, Nov. 22, 1983, 97 Stat. 1064, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Grand Ronde Restoration Act’.”
 

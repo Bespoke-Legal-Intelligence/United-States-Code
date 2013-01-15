@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the amount described in this subparagraph is $100 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $25,000;
 
-&emsp;&emsp;(B) the amount described in this subparagraph is $1,000 for each such violation, except that the total amount imposed on the person for all such violations of an identicalrequirement or prohibition during a calendar year may not exceed $100,000;
+&emsp;&emsp;(B) the amount described in this subparagraph is $1,000 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $100,000;
 
 &emsp;&emsp;(C) the amount described in this subparagraph is $10,000 for each such violation, except that the total amount imposed on the person for all such violations of an identical requirement or prohibition during a calendar year may not exceed $250,000; and
 

@@ -232,7 +232,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 &emsp;As part of the program established under subsection (a), the Secretary shall establish a regional innovation research and information program—
 
-&emsp;&emsp;(A) to gather, analyze, and disseminate information on best practices for regional innovation strategies (including regional innovation clusters), including information relating to how innovation, productivity, andeconomic development can be maximized through such strategies;
+&emsp;&emsp;(A) to gather, analyze, and disseminate information on best practices for regional innovation strategies (including regional innovation clusters), including information relating to how innovation, productivity, and economic development can be maximized through such strategies;
 
 &emsp;&emsp;(B) to provide technical assistance, including through the development of technical assistance guides, for the development and implementation of regional innovation strategies (including regional innovation clusters);
 
@@ -262,7 +262,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (1) In general
 
-&emsp;To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other programs at the Department of Commerce or other Federal agencies.
+&emsp;To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinatedwith, and do not duplicate the efforts of, other programs at the Department of Commerce or other Federal agencies.
 
 #### (2) Collaboration
 

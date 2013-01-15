@@ -2,7 +2,7 @@
 
 #### (a) Development plan
 
-The Secretary shall develop a plan for the creation of a national magnetic fusion engineeringcenter for the purpose of accelerating fusion technology development via the concentration and coordination of major magnetic fusion engineering devices and associated activities at such a national center.
+The Secretary shall develop a plan for the creation of a national magnetic fusion engineering center for the purpose of accelerating fusion technology development via the concentration and coordination of major magnetic fusion engineering devices and associated activities at such a national center.
 
 #### (b) Factors considered in formulation of development plan
 

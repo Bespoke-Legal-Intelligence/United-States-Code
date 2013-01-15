@@ -14,13 +14,13 @@ Except as provided in subsection (c) of this section, the Federal share of the c
 
 #### (b) Non-Federal share
 
-In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share for all contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
+In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share forall contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
 
 #### (c) Increase in Federal share
 
 #### (1) Indian tribes
 
-&emsp;In the case of a grant to an Indian tribe for a project under this subchapter, the Secretarymay increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project.
+&emsp;In the case of a grant to an Indian tribe for a project under this subchapter, the Secretary may increase the Federal share above the percentage specified in subsection (a) of this section up to 100 percent of the cost of the project.
 
 #### (2) Certain States, political subdivisions, and nonprofit organizations
 

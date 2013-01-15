@@ -26,7 +26,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (2) For purposes of this subsection, the term “resolution of disapproval” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the \_\_\_\_ does not favor the taking effect of the regulations transmitted to the Congress by the Secretary of Labor on \_\_\_\_”, the first blank space therein being filled with the name of the resolving House and the second blank space therein being filled with the day and year.
 
-(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution ofdisapproval in the Senate shall be referred to the Committee on Labor and Public Welfare.
+(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution of disapproval in the Senate shall be referred to the Committee on Labor and Public Welfare.
 
 (4)(A) If the committee to which a resolution of disapproval has been referred has not reported it at the end of 7 calendar days after its introduction, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution of disapproval which has been referred to the committee.
 
@@ -34,7 +34,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
 
-(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion isnot in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (B) Debate on the resolution of disapproval shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 

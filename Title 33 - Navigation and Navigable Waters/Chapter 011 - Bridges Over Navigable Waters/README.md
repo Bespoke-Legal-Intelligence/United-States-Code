@@ -78,6 +78,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Bridge Permits
+
+Pub. L. 112–213, title VII, §712(a), Dec. 20, 2012, 126 Stat. 1582, provided that:
+
+“(a)
+
+In General.—For the purposes of reviewing a permit application pursuant to section 9 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriation Act of 1899 (33 U.S.C. 401), the Act of March 23, 1906, popularly known as the Bridge Act of 1906 (33 U.S.C. 491 et seq.), the Act of June 21, 1940, popularly known as the Truman-Hobbs Act (33 U.S.C. 511 et seq.), or the General Bridge Act of 1946 (33 U.S.C. 525 et seq.), the Secretary of the department in which the Coast Guard is operating may—
+
+&emsp;“(1) accept voluntary services from one or more owners of a bridge; and
+
+&emsp;“(2) accept and credit to Coast Guard operating expenses any amounts received from one or more owners of a bridge.”
+
 
 ---
 

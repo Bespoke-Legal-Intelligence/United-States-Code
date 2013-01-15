@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certifiedmail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -154,7 +154,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) the capitalized value of the real property, as of the date of the transfer to the Secretary of the Interior.
 
-(viii) When the total amount that is required to be deposited under clause (vii) with respect to any real property has been deposited into the Treasury of the United States, title to the real property shall be held in trust by the United States for the benefit of the Indian tribe havingjurisdiction over the Indian reservation within which the real property is located.
+(viii) When the total amount that is required to be deposited under clause (vii) with respect to any real property has been deposited into the Treasury of the United States, title to the real property shall be held in trust by the United States for the benefit of the Indian tribe having jurisdiction over the Indian reservation within which the real property is located.
 
 (ix) Notwithstanding any other clause of this subparagraph, the Indian tribe having jurisdiction over the Indian reservation within which the real property described in clause (i) is located may, at any time after the real property has been transferred to the Secretary of the Interior under clause (v), offer to pay the remaining amount on the lien, or the fair market value of the real property, whichever is less. Upon payment of such amount, title to such real property shall be held by the United States in trust for the tribe and such trust or restricted lands that have been acquired by the Secretary under foreclosure or voluntary transfer under a loan made or insured under this chapter and transferred to an Indian person, entity, or tribe under the provisions of this subparagraph shall be deemed to have never lost trust or restricted status.
 
@@ -176,7 +176,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) the borrower-owner has obtained a loan made, insured, or guaranteed under this chapter; and
 
-&emsp;(IV) the borrower-owner and the Secretary have exhausted all of the procedures provided for in this chapter to permit a borrower-owner to retain title to the real property, such that it is necessary for the borrower-owner to relinquish title,
+&emsp;(IV) the borrower-owner and the Secretary have exhausted all of the procedures provided for in this chapter to permit a borrower-ownerto retain title to the real property, such that it is necessary for the borrower-owner to relinquish title,
 
 > the Secretary shall dispose of or administer the property only as provided in subparagraph (A), as modified by this subparagraph.
 
@@ -278,7 +278,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (B) Releases under such paragraph shall be made to qualified borrowers who have responded to the notice within 30 days after receipt.
 
-(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
+(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
 
 (6) If a borrower is required to plan for or to report on how proceeds from the sale of collateral property will be used, the Secretary shall—
 
@@ -314,7 +314,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
+(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), titleXXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
 #### References in Text
 
@@ -342,7 +342,7 @@ Subsec. (c)(5)(B)(ii). Pub. L. 110–246, §5302(a)(2)(B), in introductory provi
 
 Subsec. (c)(6)(A). Pub. L. 110–246, §5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-Subsec. (c)(6)(C). Pub. L. 110–246, §5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “orsocially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
+Subsec. (c)(6)(C). Pub. L. 110–246, §5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
 
 <b>2002</b>—Subsec. (c)(1)(B)(i). Pub. L. 107–171, §5308(1)(A)(i), substituted “135 days” for “75 days”.
 
@@ -410,7 +410,7 @@ Subsec. (g). Pub. L. 104–127, §639(1)(A), inserted heading.
 
 Subsec. (g)(1). Pub. L. 104–127, §639(1), inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.)” after “inventoried property”.
 
-Subsec. (g)(2). Pub. L. 104–127, §639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extentpracticable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
+Subsec. (g)(2). Pub. L. 104–127, §639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
 
 Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
 
@@ -522,7 +522,7 @@ Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not ap
 
 #### Effective Date of 1992 Amendment
 
-Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
+Pub. L. 102–552, title V, §516(h)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
 
 #### Effective Date of 1990 Amendment
 
@@ -530,7 +530,7 @@ Amendment by section 1816 of Pub. L. 101–624 applicable to new applications su
 
 #### Effective Date of 1985 Amendment
 
-Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] not later than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–198, title XIII, §1314(b), Dec. 23, 1985, 99 Stat. 1528, provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] not later than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
 
 #### Completion of Sales of Farmers Home Administration Inventory Farms
 
@@ -538,7 +538,7 @@ Pub. L. 102–142, title VII, §740, Oct. 28, 1991, 105 Stat. 915, provided that
 
 #### Farm Ownership Outreach Program to Socially Disadvantaged Individuals
 
-Section 623 of Pub. L. 100–233, as amended by Pub. L. 101–624, title XVIII, §1852, Nov. 28, 1990, 104 Stat. 3837, provided that:
+Pub. L. 100–233, title VI, §623, Jan. 6, 1988, 101 Stat. 1685, as amended by Pub. L. 101–624, title XVIII, §1852, Nov. 28, 1990, 104 Stat. 3837, provided that:
 
 “(a)
 

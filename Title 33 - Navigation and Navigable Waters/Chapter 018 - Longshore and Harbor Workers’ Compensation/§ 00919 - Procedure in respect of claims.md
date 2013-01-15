@@ -2,7 +2,7 @@
 
 #### (a) Filing of claim
 
-Subject to the provisions of section 913 of this title a claim for compensation may be filed with the deputy commissioner in accordance with regulations prescribed by the Secretary at any time after the first seven days of disability following any injury, or at any time after death, and the deputy commissioner shall have full power and authority to hear and determine all questions in respect of such claim.
+Subject to the provisions of section 913 of this title a claim for compensation may be filed with the deputy commissioner in accordance with regulations prescribed by the Secretary at anytime after the first seven days of disability following any injury, or at any time after death, and the deputy commissioner shall have full power and authority to hear and determine all questions in respect of such claim.
 
 #### (b) Notice of claim
 
@@ -26,7 +26,7 @@ An award of compensation for disability may be made after the death of an injure
 
 #### (g) Transfer of case
 
-At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case toany other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
+At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case to any other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
 
 #### (h) Physical examination of injured employee
 

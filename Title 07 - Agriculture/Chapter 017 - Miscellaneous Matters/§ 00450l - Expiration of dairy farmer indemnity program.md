@@ -1,10 +1,12 @@
 ### §450<i>l</i>. Expiration of dairy farmer indemnity program
 
-The authority granted under sections 450j to 450<i>l</i> of this title shall expire on September 30, 2012.
+The authority granted under sections 450j to 450l of this title shall expire on September 30, 2012.
 
 (Pub. L. 90–484, §3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, §204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, §205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, §105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, §152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, §110, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 107–171, title I, §1503(b), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, §1505, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, §4(a), title I, §1505, June 18, 2008, 122 Stat. 1664, 1723.)
 
 #### Codification
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

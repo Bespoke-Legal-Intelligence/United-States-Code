@@ -10,11 +10,15 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(A) designate the elements of the Agency that are to provide items or services under the program (in this section referred to as “central service providers”);
 
-&emsp;(B) specify the items or services to be provided under the program by such providers; and
+&emsp;(B) specify the items or services to be provided under the program by such providers;
 
-&emsp;(C) assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program.
+&emsp;(C) assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
 
-(2) The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
+&emsp;(D) authorize such providers to make known their services to the entities specified in section <sup>1</sup> (a) through Government communication channels.
+
+(2) The designation of elements and the specification of items and services under paragraph\(1) shall be subject to the approval of the Director of the Office of Management and Budget.
+
+(3) The authority in paragraph (1)(D) does not include the authority to distribute gifts or promotional items.
 
 #### (c) Central Services Working Capital Fund
 
@@ -30,7 +34,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
-&emsp;(E) Other receipts from the sale or exchange of equipment or property of a central service provider as a result of activities under the program.
+&emsp;(E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider.<sup>2</sup> as a result of activities under the program.
 
 &emsp;(F) Receipts from individuals in reimbursement for utility services and meals provided under the program.
 
@@ -42,7 +46,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 &emsp;(A) To pay the costs of providing items or services under the program.
 
-&emsp;(B) To pay the costs of carrying out activities under subsection (f)(2) of this section.
+&emsp;(B) To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2) of this section.
 
 #### (d) Limitation on amount of orders
 
@@ -70,13 +74,21 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1)(D). Pub. L. 112–277, §401(1)(A), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 112–277, §401(1)(B), added par. (3).
+
+Subsec. (c)(2)(E). Pub. L. 112–277, §401(2)(A), substituted “from the sale or exchange of equipment,recyclable materials, or property of a central service provider.” for “from the sale or exchange of equipment or property of a central service provider”.
+
+Subsec. (c)(3)(B). Pub. L. 112–277, §401(2)(B), substituted “subsections (b)(1)(D) and (f)(2)” for “subsection (f)(2)”.
 
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–458, §1071(b)(3)(D), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
 
@@ -147,4 +159,8 @@ Pub. L. 106–259, title VIII, §8045, Aug. 9, 2000, 114 Stat. 684.
 Pub. L. 106–79, title VIII, §8048, Oct. 25, 1999, 113 Stat. 1241.
 
 Pub. L. 105–262, title VIII, §8048, Oct. 17, 1998, 112 Stat. 2307.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
 

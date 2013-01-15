@@ -186,7 +186,7 @@ Certain offsets permitted.—A plan shall not be treated as failing to meet the 
 
 &emsp;(D)
 
-Permitted disparities in plan contributions or benefits.—A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(<i>l</i>) of title 26 are met.
+Permitted disparities in plan contributions or benefits.—A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(l) of title 26 are met.
 
 &emsp;(E)
 
@@ -438,7 +438,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;&emsp;(i) there are no contributions to such plan (or earnings thereunder) which are held within such plan and are subject to subsection (k) or (m) of section 401 of title 26, and
 
-&emsp;&emsp;&emsp;(ii) such plan is a separate plan (for purposes of section 414(<i>l</i>) of title 26) with respect to any other defined benefit plan or individual account plan maintained by the same employer or employers.
+&emsp;&emsp;&emsp;(ii) such plan is a separate plan (for purposes of section 414(l) of title 26) with respect to any other defined benefit plan or individual account plan maintained by the same employer or employers.
 
 #### (C) Exception for one participant plans
 
@@ -710,7 +710,7 @@ Amendment by section 7894(c)(4)–(6) of Pub. L. 101–239 effective, except as 
 
 #### Effective Date of 1987 Amendment
 
-Section 9346(c) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title IX, §9346(c), Dec. 22, 1987, 101 Stat. 1330–374, provided that:
 
 “(1)
 
@@ -730,7 +730,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Section 1879(u)(5), formerly section 1879(u)(4), of Pub. L. 99–514, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
+Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 
 “(A)
 
@@ -744,7 +744,7 @@ Amendment by section 1898(a)(4)(B)(ii), (f)(1)(B), (2) of Pub. L. 99–514 effec
 
 Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
-Section 11006(b) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act.”
+Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1984 Amendment
 
@@ -764,7 +764,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefit
 
-Section 7881(m)(3) of Pub. L. 101–239 provided that:“If—
+Pub. L. 101–239, title VII, §7881(m)(3), Dec. 19, 1989, 103 Stat. 2444, provided that:“If—
 
 &emsp;“(A) during the period beginning December 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments made by section 9346 of the Pension Protection Act \[Pub. L. 100–203, amending this section and section 411 of Title 26, Internal Revenue Code\], and
 

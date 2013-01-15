@@ -146,7 +146,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
 
-> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at atime consistent with notices required under any applicable COBRA continuation provision.
+> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
 
 #### (B) Certification
 
@@ -250,13 +250,13 @@ For purposes of this part—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of an enrollee in a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance <sup>3</sup> Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of an enrollee in a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance <sup>3</sup> Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act \[42 U.S.C. 1397ee(c)(2)(B), (3), (10)\] or otherwise) concerning the cost-effectiveness of the State providing medical or childhealth assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 #### (g) Use of affiliation period by HMOs as alternative to preexisting condition exclusion
 
 #### (1) In general
 
-&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section withrespect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 &emsp;&emsp;(A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -330,7 +330,7 @@ Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–40 applicable to plan years beginning after Feb. 12, 2011, with transitional rules,see section 242(b) of Pub. L. 112–40, set out as a note under section 9801 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–40 applicable to plan years beginning after Feb. 12, 2011, with transitional rules, see section 242(b) of Pub. L. 112–40, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 

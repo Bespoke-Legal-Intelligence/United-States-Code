@@ -32,7 +32,7 @@ Taking hostages.—Any person subject to this chapter who, having knowingly seiz
 
 &emsp;(8)
 
-Employing poison or similar weapons.—Any person subject to this chapter who intentionally, as a method of warfare, employs a substance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Employing poison or similar weapons.—Any person subject to this chapter who intentionally, as a method of warfare, employs asubstance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(9)
 
@@ -48,7 +48,7 @@ Torture.—
 
 &emsp;&emsp;(A)
 
-Offense.—Any person subject to this chapter who commits an act specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physicalcontrol for the purpose of obtaining information or a confession, punishment, intimidation, coercion, or any reason based on discrimination of any kind, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Offense.—Any person subject to this chapter who commits an act specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physical control for the purpose of obtaining information or a confession, punishment, intimidation, coercion, or any reason based on discrimination of any kind, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;&emsp;(B)
 
@@ -96,7 +96,7 @@ Using treachery or perfidy.—Any person subject to this chapter who, after invi
 
 &emsp;(18)
 
-Improperly using a flag of truce.—Any person subject to this chapter who uses a flag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
+Improperly using a flag of truce.—Any person subject to this chapter who uses aflag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
 
 &emsp;(19)
 

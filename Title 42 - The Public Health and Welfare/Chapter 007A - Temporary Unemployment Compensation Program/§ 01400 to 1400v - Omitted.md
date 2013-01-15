@@ -24,25 +24,25 @@ Section 1400j, Pub. L. 85–441, title II, §207, June 4, 1958, 72 Stat. 176, au
 
 Section 1400k, Pub. L. 85–441, title II, §208, June 4, 1958, 72 Stat. 176, authorized appropriation of funds necessary to carry out sections 1400 to 1400k of this title.
 
-Section 1400<i>l</i>, Pub. L. 87–6, §2, Mar. 24, 1961, 75 Stat. 8, defined “compensation period”, “first claim”, “State unemployment compensation”, “Secretary”, “State”, “State agency”, “State law”, “temporary extended unemployment compensation”, “title XV”, and “week” as used in sections 1400<i>l</i> to 1400v of this title.
+Section 1400l, Pub. L. 87–6, §2, Mar. 24, 1961, 75 Stat. 8, defined “compensation period”, “first claim”, “State unemployment compensation”, “Secretary”, “State”, “State agency”, “State law”, “temporary extended unemployment compensation”, “title XV”, and “week” as used in sections 1400l to 1400v of this title.
 
-Section 1400m, Pub. L. 87–6, §3, Mar. 24, 1961, 75 Stat. 8, provided for payment of temporary extended unemployment compensation benefits under sections 1400<i>l</i> to 1400v of this title for any period of unemployment between March 24, 1961, and June 30, 1962.
+Section 1400m, Pub. L. 87–6, §3, Mar. 24, 1961, 75 Stat. 8, provided for payment of temporary extended unemployment compensation benefits under sections 1400l to 1400v of this title for any period of unemployment between March 24, 1961, and June 30, 1962.
 
-Section 1400n, Pub. L. 87–6, §4, Mar. 24, 1961, 75 Stat. 9, provided for reimbursement by the Federal government of any State unemployment compensation paid under sections 1400<i>l</i> to 1400v of this title in excess of formula amount.
+Section 1400n, Pub. L. 87–6, §4, Mar. 24, 1961, 75 Stat. 9, provided for reimbursement by the Federal government of any State unemployment compensation paid under sections 1400l to 1400v of this title in excess of formula amount.
 
-Section 1400<i>o</i>, Pub. L. 87–6, §5, Mar. 24, 1961, 75 Stat. 9, placed limitations on total payments and reimbursements under sections 1400<i>l</i> to 1400v of this title.
+Section 1400o, Pub. L. 87–6, §5, Mar. 24, 1961, 75 Stat. 9, placed limitations on total payments and reimbursements under sections 1400l to 1400v of this title.
 
-Section 1400p, Pub. L. 87–6, §6, Mar. 24, 1961, 75 Stat. 10, set out the covered period for benefits under sections 1400<i>l</i> to 1400v of this title as Mar. 24, 1961, to June 30, 1962.
+Section 1400p, Pub. L. 87–6, §6, Mar. 24, 1961, 75 Stat. 10, set out the covered period for benefits under sections 1400l to 1400v of this title as Mar. 24, 1961, to June 30, 1962.
 
-Section 1400q, Pub. L. 87–6, §7, Mar. 24, 1961, 75 Stat. 10, covered agreements with States for payment and reimbursement of temporary unemployment compensation under sections 1400<i>l</i> to 1400v of this title, amendment, suspension, or termination of such an agreement, denial of benefits, review of determinations by State agencies, and reduction of benefits in certain cases.
+Section 1400q, Pub. L. 87–6, §7, Mar. 24, 1961, 75 Stat. 10, covered agreements with States for payment and reimbursement of temporary unemployment compensation under sections 1400l to 1400v of this title, amendment, suspension, or termination of such an agreement, denial of benefits, review of determinations by State agencies, and reduction of benefits in certain cases.
 
-Section 1400r, Pub. L. 87–6, §8, Mar. 24, 1961, 75 Stat. 12, provided for payment of benefits under sections 1400<i>l</i> to 1400v of this title to veterans and Federal employees.
+Section 1400r, Pub. L. 87–6, §8, Mar. 24, 1961, 75 Stat. 12, provided for payment of benefits under sections 1400l to 1400v of this title to veterans and Federal employees.
 
-Section 1400s, Pub. L. 87–6, §9, Mar. 24, 1961, 75 Stat. 12, set out penalties for making false statements or representations in connection with benefits under sections 1400<i>l</i> to 1400v of this title and provided for recovery of overpayments.
+Section 1400s, Pub. L. 87–6, §9, Mar. 24, 1961, 75 Stat. 12, set out penalties for making false statements or representations in connection with benefits under sections 1400l to 1400v of this title and provided for recovery of overpayments.
 
-Section 1400t, Pub. L. 87–6, §10, Mar. 24, 1961, 75 Stat. 13, required each State to furnish Secretary with information required to administer program under sections 1400<i>l</i> to 1400v of this title.
+Section 1400t, Pub. L. 87–6, §10, Mar. 24, 1961, 75 Stat. 13, required each State to furnish Secretary with information required to administer program under sections 1400l to 1400v of this title.
 
-Section 1400u, Pub. L. 87–6, §11, Mar. 24, 1961, 75 Stat. 13, made provision for payments to States under sections 1400<i>l</i> to 1400v of this title, certification by Secretary to Secretary of the Treasury for payment of sums to each State, surety bonds, liability of certifying and disbursing officers, and costs of administration.
+Section 1400u, Pub. L. 87–6, §11, Mar. 24, 1961, 75 Stat. 13, made provision for payments to States under sections 1400l to 1400v of this title, certification by Secretary to Secretary of the Treasury for payment of sums to each State, surety bonds, liability of certifying and disbursing officers, and costs of administration.
 
-Section 1400v, Pub. L. 87–6, §12, Mar. 24, 1961, 75 Stat. 14, authorized promulgation by Secretary of rules and regulations necessary to carry out sections 1400<i>l</i> to 1400v of this title.
+Section 1400v, Pub. L. 87–6, §12, Mar. 24, 1961, 75 Stat. 14, authorized promulgation by Secretary of rules and regulations necessary to carry out sections 1400l to 1400v of this title.
 

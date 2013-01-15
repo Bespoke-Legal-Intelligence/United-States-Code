@@ -2,7 +2,7 @@
 
 #### (a) Violations
 
-After the effective date of any permit program approved or promulgated under this subchapter, it shall be unlawful for any person to violate any requirement of a permit issued under this subchapter, or to operate an affected source (as provided in subchapter IV–A of this chapter), a major source, any other source (including an area source) subject to standards or regulations under section 7411 or 7412 of this title, any other source required to have a permit under parts <sup>1</sup> C or D of subchapter I of this chapter, or any other stationary source in a category designated (in whole or in part) by regulations promulgated by the Administrator (after notice and public comment) which shall include a finding setting forth the basis for such designation, except in compliance with a permit issued by a permitting authority under this subchapter. (Nothing in this subsection shall be construed to alter the applicable requirements of this chapter that a permit be obtained before construction or modification.) The Administrator may, in the Administrator's discretion and consistent with the applicable provisions of this chapter, promulgate regulations to exempt one or more source categories (in whole or in part) from the requirements of this subsection if the Administratorfinds that compliance with such requirements is impracticable, infeasible, or unnecessarily burdensome on such categories, except that the Administrator may not exempt any major source from such requirements.
+After the effective date of any permit program approved or promulgated under this subchapter, it shall be unlawful for any person to violate any requirement of a permit issued under this subchapter, or to operate an affected source (as provided in subchapter IV–A of this chapter), a major source, any other source (including an area source) subject to standards or regulations under section 7411 or 7412 of this title, any other source required to have a permit under parts <sup>1</sup> C or D of subchapter I of this chapter, or any other stationary source in a category designated (in whole or in part) by regulations promulgated by the Administrator (after notice and public comment) which shall include a finding setting forth the basis for such designation, except in compliance with a permit issued by a permitting authority under this subchapter. (Nothing in this subsection shall be construed to alter the applicable requirements of this chapter that a permit be obtained before construction or modification.) The Administrator may, in the Administrator's discretion and consistent with the applicable provisions of this chapter, promulgate regulations to exempt one or more source categories (in whole or in part) from the requirements of this subsection if the Administrator finds that compliance with such requirements is impracticable, infeasible, or unnecessarily burdensome on such categories, except that the Administrator may not exempt any major source from such requirements.
 
 #### (b) Regulations
 
@@ -16,7 +16,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) reviewing and acting upon any application for such a permit,
 
-&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
+&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or afterNovember 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
 &emsp;&emsp;(iii) emissions and ambient monitoring,
 
@@ -92,7 +92,7 @@ A single permit may be issued for a facility with multiple sources.
 
 #### (e) Suspension
 
-The Administrator shall suspend the issuance of permits promptly upon publication of notice of approval of a permit program under this section, but may, in such notice, retain jurisdiction over permits that have been federally issued, but for which the administrative or judicial review process is not complete. The Administrator shall continue to administer and enforce federally issued permits under this subchapter until they are replaced by a permit issued by a permitting program. Nothing in this subsection should be construed to limit the Administrator's ability to enforce permits issued by a State.
+The Administrator shall suspend the issuance of permits promptly upon publication of notice of approval of a permit program under this section, but may, in such notice, retain jurisdiction over permits that have been federally issued, but for which the administrative or judicial review process is not complete. The Administratorshall continue to administer and enforce federally issued permits under this subchapter until they are replaced by a permit issued by a permitting program. Nothing in this subsection should be construed to limit the Administrator's ability to enforce permits issued by a State.
 
 #### (f) Prohibition
 

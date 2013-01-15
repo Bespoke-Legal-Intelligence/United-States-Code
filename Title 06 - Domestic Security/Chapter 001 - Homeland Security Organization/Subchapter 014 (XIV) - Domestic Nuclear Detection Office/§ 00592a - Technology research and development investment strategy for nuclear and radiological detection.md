@@ -24,7 +24,7 @@ Not later than 1 year after October 13, 2006, the Secretary shall submit a repor
 
 #### (d) Annual report
 
-The Director for Domestic Nuclear Detection and the Under Secretary for Science and Technology shall jointly and annually notify Congress that the strategy and technology road map for nuclear and radiological detection developed under subsections (a) and (b) is consistent with the national policy and strategic plan for identifying priorities, goals, objectives, and policies for coordinating the Federal Government's civilian efforts to identify and develop countermeasures to terrorist threats from weapons of mass destruction that are required under section 182(2) of this title.
+The Director for Domestic Nuclear Detection and the Under Secretary for Science and Technology shall jointly and annually notify Congress that the strategy and technology road map for nuclear and radiological detection developedunder subsections (a) and (b) is consistent with the national policy and strategic plan for identifying priorities, goals, objectives, and policies for coordinating the Federal Government's civilian efforts to identify and develop countermeasures to terrorist threats from weapons of mass destruction that are required under section 182(2) of this title.
 
 (Pub. L. 109–347, title V, §502, Oct. 13, 2006, 120 Stat. 1935.)
 

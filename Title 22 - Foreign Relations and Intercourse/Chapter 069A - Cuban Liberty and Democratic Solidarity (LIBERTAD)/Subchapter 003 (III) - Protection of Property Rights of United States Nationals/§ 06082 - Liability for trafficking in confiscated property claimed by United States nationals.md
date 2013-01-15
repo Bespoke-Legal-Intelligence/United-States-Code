@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(II) the amount determined under section 6083(a)(2) of this title, plus interest; or
 
-&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value ofthe property when confiscated plus interest, whichever is greater; and
+&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value of the property when confiscated plus interest, whichever is greater; and
 
 &emsp;&emsp;(ii) court costs and reasonable attorneys’ fees.
 
@@ -130,7 +130,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 #### (g) Deposit of excess payments by Cuba under claims agreement
 
-Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claimsafter the application of subsection (f) of this section shall be deposited into the United States Treasury.
+Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claims after the application of subsection (f) of this section shall be deposited into the United States Treasury.
 
 #### (h) Termination of rights
 
@@ -154,11 +154,11 @@ The Judicial Conference of the United States shall establish a uniform fee that 
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determined pursuant to suspension authority of President see section 6085 of this title.
+For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determinedpursuant to suspension authority of President see section 6085 of this title.
 
 The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
-This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original “this title”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643<i>l</i> and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original “this title”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
 #### Codification
 

@@ -8,7 +8,7 @@ After January 8, 2002, no person shall permit smoking within any indoor facility
 
 #### (1) In general
 
-&emsp;After January 8, 2002, no person shall permit smoking within any indoor facility (or portion of such a facility) owned or leased or contracted for, and utilized by, such person for the provision of regular or routine health care or day care or early childhood development (Head Start) services.
+&emsp;After January 8, 2002, no person shall permit smoking within any indoor facility (or portionof such a facility) owned or leased or contracted for, and utilized by, such person for the provision of regular or routine health care or day care or early childhood development (Head Start) services.
 
 #### (2) Exception
 
@@ -68,7 +68,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (4) Modification
 
-&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or the agencies or instrumentalities of the United States owe to the person against whom the penalty is assessed.
+&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, maybe deducted from any sums that the United States or the agencies or instrumentalities of the United States owe to the person against whom the penalty is assessed.
 
 #### (5) Petition for review
 

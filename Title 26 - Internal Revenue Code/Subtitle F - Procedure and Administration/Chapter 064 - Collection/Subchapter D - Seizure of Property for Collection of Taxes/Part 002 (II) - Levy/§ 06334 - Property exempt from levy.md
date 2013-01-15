@@ -150,7 +150,7 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 &emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(<i>l</i>)(3), formerly §110(<i>l</i>)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(o)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(o), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110Stat. 1461; Pub. L. 104–193, title I, §110(l)(3), formerly §110(l)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -158,7 +158,7 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 #### References in Text
 
-The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which isclassified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
@@ -184,7 +184,7 @@ Subsec. (g)(1). Pub. L. 105–206, §3431(c)(1), substituted “1999” for “1
 
 Subsec. (g)(1)(B). Pub. L. 105–206, §3431(c)(2), substituted “1998” for “1996”.
 
-<b>1997</b>—Subsec. (a)(11)(A). Pub. L. 105–33, §5514(a)(3), made technical amendment to directory language of Pub. L. 104–193, §110(<i>l</i>)(3). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (a)(11)(A). Pub. L. 105–33, §5514(a)(3), made technical amendment to directory language of Pub. L. 104–193, §110(l)(3). See 1996 Amendment note below.
 
 Subsec. (a)(13). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -194,7 +194,7 @@ Subsecs. (f), (g). Pub. L. 105–34 added subsec. (f) and redesignated former su
 
 Subsec. (a)(3). Pub. L. 104–168, §502(b), substituted “$1,250” for “$1,100 ($1,050 in the case of levies issued during 1989)”.
 
-Subsec. (a)(11)(A). Pub. L. 104–193, §110(<i>l</i>)(3), formerly §110(<i>l</i>)(6), as renumbered and amended by Pub. L. 105–33, struck out “(relating to aid to families with dependent children)” after “title IV”.
+Subsec. (a)(11)(A). Pub. L. 104–193, §110(l)(3), formerly §110(l)(6), as renumbered and amended by Pub. L. 105–33, struck out “(relating to aid to families with dependent children)” after “title IV”.
 
 Subsec. (f). Pub. L. 104–168, §502(c), added subsec. (f).
 
@@ -204,9 +204,9 @@ Subsec. (f). Pub. L. 104–168, §502(c), added subsec. (f).
 
 Subsec. (a)(3). Pub. L. 100–647, §6236(c)(2), substituted “$1,100 ($1,050 in the case of levies issued during 1989)” for “$1,000”.
 
-Subsec. (a)(10)(A). Pub. L. 100–647, §1015(<i>o</i>)(1), substituted “III, IV, V,” for “IV” and added “or” at end.
+Subsec. (a)(10)(A). Pub. L. 100–647, §1015(o)(1), substituted “III, IV, V,” for “IV” and added “or” at end.
 
-Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(<i>o</i>)(2), (3), redesignated subpar. (C) as (B) and substituted “13, 21, 23” for “21”, and struck out former subpar. (B), which read as follows: “subchapter I, II, or III of chapter 19 of such title 38, or”.
+Subsec. (a)(10)(B), (C). Pub. L. 100–647, §1015(o)(2), (3), redesignated subpar. (C) as (B) and substituted “13, 21, 23” for “21”, and struck out former subpar. (B), which read as follows: “subchapter I, II, or III of chapter 19 of such title 38, or”.
 
 Subsec. (a)(11) to (13). Pub. L. 100–647, §6236(c)(4)(A), added pars. (11) to (13).
 
@@ -264,7 +264,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made bythis section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
 
 Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -272,25 +272,25 @@ Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided 
 
 Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 1025(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1025(b), Aug. 5, 1997, 111 Stat. 924, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by Pub. L. 105–33 effective as if included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 110 became law, see section 5518(c) of Pub. L. 105–33, set out as a note under section 51 of this title.
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 110(<i>l</i>)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
-Section 502(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996.”
+Pub. L. 104–168, title V, §502(d), July 30, 1996, 110 Stat. 1461, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(<i>o</i>) of Pub. L. 100–647 provided that the amendment made by that section is effective with respect to levies made after Dec. 31, 1988.
+Pub. L. 100–647, title I, §1015(o), Nov. 10, 1988, 102 Stat. 3572, provided that the amendment made by that section is effective with respect to levies made after Dec. 31, 1988.
 
 Amendment by section 6236(c) of Pub. L. 100–647 applicable to levies issued on or after July 1, 1989, see section 6236(h)(1) of Pub. L. 100–647, set out as a note under section 6331 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 1565(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to amounts payable after December 31, 1986.”
+Pub. L. 99–514, title XV, §1565(b), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts payable after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -298,15 +298,15 @@ Amendment by Pub. L. 98–369 effective as though included in the enactment of t
 
 #### Effective Date of 1982 Amendment
 
-Section 347(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982.”
+Pub. L. 97–248, title III, §347(b), Sept. 3, 1982, 96 Stat. 638, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to levies made after December 31, 1982.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1209(e) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977.”
+Pub. L. 94–455, title XII, §1209(e), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977.”
 
 #### Effective Date of 1969 Amendment
 
-Section 945(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to levies made 30 days or more after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §945(b), Dec. 30, 1969, 83 Stat. 729, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to levies made 30 days or more after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1966 Amendment
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Effective Date of 1965 Amendment
 
-Section 812(b) of Pub. L. 89–44 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 21, 1965\].”
+Pub. L. 89–44, title VIII, §812(b), June 21, 1965, 79 Stat. 170, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 21, 1965\].”
 
 #### Transfer of Functions
 

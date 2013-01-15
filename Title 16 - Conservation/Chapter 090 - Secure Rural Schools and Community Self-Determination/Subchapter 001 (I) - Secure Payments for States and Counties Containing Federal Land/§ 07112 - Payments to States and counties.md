@@ -22,7 +22,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+&emsp;&emsp;The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2012 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
 
 #### (B) Failure to transmit
 
@@ -36,7 +36,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (B) Full funding amount
 
-&emsp;&emsp;If a county elects to receive a share of the State payment or the county payment, the election shall be effective for all subsequent fiscal years through fiscal year 2011.
+&emsp;&emsp;If a county elects to receive a share of the State payment or the county payment in 2012, the election shall be effective for all subsequent fiscal years through fiscal year 2012.
 
 #### (3) Source of payment amounts
 
@@ -68,7 +68,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Use of portion in same manner as 25-percent payment or 50-percent payment, as applicable
 
-&emsp;&emsp;Except as provided in paragraph (3)(B), if an eligible county elects to receive its share of the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
+&emsp;&emsp;Except as provided in subparagraph (D), if an eligible county elects to receive its share of the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
 
 #### (B) Election as to use of balance
 
@@ -94,6 +94,10 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(ii) return the portion of the balance not reserved under clause (i) to the Treasury of the United States.
 
+#### (D) Counties with minor distributions
+
+&emsp;&emsp;In the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county may elect to expend all the funds in the same manner in which the 25-percent payments or 50-percent payments, as applicable, are required to be expended.
+
 #### (2) Distribution of funds
 
 #### (A) In general
@@ -112,27 +116,21 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Notification
 
-#### (i) In general
+&emsp;&emsp;The Governor of each eligible State shall notify the Secretary concerned of an election by an eligible county under this subsection not later than September 30, 2012, and each September 30 thereafter for each succeeding fiscal year.
 
-&emsp;&emsp;&emsp;An eligible county shall notify the Secretary concerned of an election by the eligible county under this subsection not later than September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year.
+#### (B) Failure to elect
 
-#### (ii) Failure to elect
+&emsp;&emsp;If the Governor of an eligible State fails to notify the Secretary concerned of the election for an eligible county by the date specified in subparagraph (A)—
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), if the eligible county fails to make an election by the date specified in clause (i), the eligible county shall—
+&emsp;&emsp;&emsp;(i) the eligible county shall be considered to have elected to expend 80 percent of the funds in accordance with paragraph (1)(A); and
 
-&emsp;&emsp;&emsp;&emsp;(I) be considered to have elected to expend 85 percent of the funds in accordance with paragraph (1)(A); and
-
-&emsp;&emsp;&emsp;&emsp;(II) return the balance to the Treasury of the United States.
-
-#### (B) Counties with minor distributions
-
-&emsp;&emsp;In the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county may elect to expend all the funds in the same manner in which the 25-percent payments or 50-percent payments, as applicable, are required to be expended.
+&emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purpose described in section 7122(b) of this title.
 
 #### (e) Time for payment
 
 The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
-(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896.)
+(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905.)
 
 #### References in Text
 
@@ -141,4 +139,20 @@ This chapter, referred to in subsec. (b)(3)(A), was in the original “this Act�
 #### Prior Provisions
 
 A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b)(1)(A). Pub. L. 112–141, §100101(a)(3)(A), substituted “2012” for “2008”.
+
+Subsec. (b)(2)(B). Pub. L. 112–141, §100101(a)(3)(B), inserted “in 2012” before “, the election”.
+
+Pub. L. 112–141, §100101(a)(2), substituted “fiscal year 2012” for “fiscal year 2011”.
+
+Subsec. (d)(1)(A). Pub. L. 112–141, §100101(a)(3)(C)(i), substituted “subparagraph (D)” for “paragraph (3)(B)”.
+
+Subsec. (d)(1)(D). Pub. L. 112–141, §100101(a)(3)(C)(ii)(II), redesignated subsec. (d)(3)(B) as subpar. (D).
+
+Subsec. (d)(3)(A). Pub. L. 112–141, §100101(a)(3)(C)(ii)(I), added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
+
+Subsec. (d)(3)(B). Pub. L. 112–141, §100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
 

@@ -62,7 +62,7 @@ The Foundation shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be fromlists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
+&emsp;&emsp;&emsp;The ex officio members of the Board under subparagraph (B) shall, by majority vote, appoint to the Board 14 individuals, of which 9 shall be from a list of candidates to be provided by the National Academy of Sciences and 5 shall be from lists of candidates provided by patient and consumer advocacy groups, professional scientific and medical societies, and industry trade organizations. Of such appointed members—
 
 &emsp;&emsp;&emsp;&emsp;(I) 4 shall be representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries;
 
@@ -144,7 +144,7 @@ The Foundation shall—
 
 #### (A) Term
 
-&emsp;&emsp;The term of office of each member of the Board appointed under paragraph (1)(C) shallbe 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
+&emsp;&emsp;The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
 
 #### (B) Vacancy
 
@@ -212,7 +212,7 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;(7) enter into such other contracts, leases, cooperative agreements, and other transactions as the Board considers appropriate to conduct the activities of the Foundation;
 
-&emsp;(8) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
+&emsp;(8) modify or consent to the modification of any contract or agreement to which it is aparty or in which it has an interest under this part;
 
 &emsp;(9) take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
 
@@ -234,7 +234,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 #### (1) Detail from Federal agencies
 
-&emsp;Federal Government employees may be detailed from Federal agencies with or without reimbursement to those agencies to the Foundation at any time, and such detail shall be without interruption or loss of civil service status or privilege. Each such employee shall abide by the statutory, regulatory, ethical,and procedural standards applicable to the employees of the agency from which such employee is detailed and those of the Foundation.
+&emsp;Federal Government employees may be detailed from Federal agencies with or without reimbursement to those agencies to the Foundation at any time, and such detail shall be without interruption or loss of civil service status or privilege. Each such employee shall abide by the statutory, regulatory, ethical, and procedural standards applicable to the employees of the agency from which such employee is detailed and those of the Foundation.
 
 #### (2) Voluntary service; acceptance of Federal employees
 
@@ -246,7 +246,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 &emsp;&emsp;The Commissioner may accept the uncompensated services of Foundation fellows or trainees. Such services shall be considered to be undertaking an activity under contract with the Secretary as described in section 379 of this title.
 
-#### (<i>l</i>) Annual reports
+#### (l) Annual reports
 
 #### (1) Reports to Foundation
 

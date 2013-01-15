@@ -148,7 +148,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(A) uses a base period that includes the most recently completed calendar quarter before the start of the benefit year for purposes of determining eligibility for unemployment compensation; or
 
-&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefit year, eligibility shall be determined using a base period that includes such calendar quarter.
+&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefityear, eligibility shall be determined using a base period that includes such calendar quarter.
 
 (3) The State law of a State meets the requirements of this paragraph if such State law includes provisions to carry out at least 2 of the following subparagraphs:
 
@@ -186,7 +186,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (4)(A) Any State seeking an incentive payment under this subsection shall submit an application therefor at such time, in such manner, and complete with such information as the Secretary of Labor may within 60 days after February 17, 2009, prescribe (whether by regulation or otherwise), including information relating to compliance with the requirements of paragraph (2) or (3), as well as how the State intends to use the incentive payment to improve or strengthen the State's unemployment compensation program. The Secretary of Labor shall, within 30 days after receiving a complete application, notify the State agency of the State of the Secretary's findings with respect to the requirements of paragraph (2) or (3) (or both).
 
-(B)(i) If the Secretary of Labor finds that the State law provisions (disregarding any State law provisions which are not then currently in effect as permanent law or which are subject to discontinuation) meet the requirements of paragraph (2) or (3), as the case may be, the Secretary of Labor shall thereupon make a certification to that effect to the Secretary of the Treasury, together with a certification as to the amount of the incentive payment to be transferred to the State account pursuant to that finding. The Secretary of the Treasury shall make the appropriate transfer within 7 days after receiving such certification.
+(B)(i) If the Secretary of Labor finds that the State law provisions (disregarding any State law provisions which are not then currently in effect as permanent law or which are subject to discontinuation) meet the requirements of paragraph (2) or (3), as the case may be, the Secretary of Labor shall thereupon make a certification to that effect to the Secretary of the Treasury, together with a certification as to theamount of the incentive payment to be transferred to the State account pursuant to that finding. The Secretary of the Treasury shall make the appropriate transfer within 7 days after receiving such certification.
 
 (ii) For purposes of clause (i), State law provisions which are to take effect within 12 months after the date of their certification under this subparagraph shall be considered to be in effect as of the date of such certification.
 
@@ -230,7 +230,7 @@ The Temporary Extended Unemployment Compensation Act of 2002, referred to in sub
 
 Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
 
-The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
@@ -308,11 +308,11 @@ Pub. L. 111–92, §7(b), Nov. 6, 2009, 123 Stat. 2988, provided that: “The am
 
 #### Effective Date of 1990 Amendment
 
-Section 5021(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5021(c), Nov. 5, 1990, 104 Stat. 1388–223, provided that: “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9155(d), Dec. 22, 1987, 101 Stat. 1330–327, provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Regulations
 

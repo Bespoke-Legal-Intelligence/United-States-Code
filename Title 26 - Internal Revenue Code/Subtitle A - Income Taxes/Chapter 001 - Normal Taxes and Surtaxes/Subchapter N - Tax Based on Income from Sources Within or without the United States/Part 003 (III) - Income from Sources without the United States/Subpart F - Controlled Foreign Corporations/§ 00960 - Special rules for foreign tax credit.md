@@ -38,7 +38,7 @@
 
 &emsp;&emsp;For each taxable year beginning after September 30, 1993, the taxpayer shall increase the amount in the excess limitation account by the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the amount by which the limitation under section 904(a) for such taxable year was increased by reason of the totalamount of the inclusions in gross income under section 951(a) for such taxable year, over
+&emsp;&emsp;&emsp;(i) the amount by which the limitation under section 904(a) for such taxable year was increased by reason of the total amount of the inclusions in gross income under section 951(a) for such taxable year, over
 
 &emsp;&emsp;&emsp;(ii) the amount of any income, war profits, and excess profits taxes paid, or deemed paid, or accrued to any foreign country or possession of the United States which were allowable as a credit under section 901 for such taxable year and which would not have been allowable but for the inclusions in gross income described in clause (i).
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 105–34 applicable, with special rule, to taxes of foreign
 
 #### Effective Date of 1993 Amendment
 
-Section 13233(b)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after September 30, 1993.”
+Pub. L. 103–66, title XIII, §13233(b)(2), Aug. 10, 1993, 107 Stat. 504, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after September 30, 1993.”
 
 #### Effective Date of 1986 Amendment
 
@@ -126,7 +126,7 @@ Amendment by section 1031(b)(1) of Pub. L. 94–455 applicable to taxable years 
 
 Amendment by section 1033(b)(2) of Pub. L. 94–455 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1977, and in respect of any distribution received by a domestic corporation before Jan. 1, 1978, in a taxable year of such corporation beginning after Dec. 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year beginning after Dec. 31, 1975, see section 1033(c) of Pub. L. 94–455, set out as a note under section 902 of this title.
 
-Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title X, §1037(b), Oct. 4, 1976, 90 Stat. 1634, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
 

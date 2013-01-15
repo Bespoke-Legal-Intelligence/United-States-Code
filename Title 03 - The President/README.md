@@ -1,6 +1,4 @@
 
-3 U.S.C.<br>United States Code, 2011 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 3—THE PRESIDENT
 
 <i>This title was enacted by act June 25, 1948, ch. 644, §1, 62 Stat. 672</i>

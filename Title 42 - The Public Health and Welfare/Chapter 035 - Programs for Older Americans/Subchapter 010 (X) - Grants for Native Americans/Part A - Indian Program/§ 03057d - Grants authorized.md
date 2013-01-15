@@ -6,7 +6,7 @@ The Assistant Secretary may make grants to eligible tribal organizations to pay 
 
 #### Prior Provisions
 
-A prior section 3057d, Pub. L. 89–73, title VI, §605, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §13(c), Dec. 29, 1981, 95 Stat. 1608, provided that in establishing administrative regulations the Commissioner consult with the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057<i>l</i> of this title.
+A prior section 3057d, Pub. L. 89–73, title VI, §605, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §13(c), Dec. 29, 1981, 95 Stat. 1608, provided that in establishing administrative regulations the Commissioner consult with the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057l of this title.
 
 #### Amendments
 

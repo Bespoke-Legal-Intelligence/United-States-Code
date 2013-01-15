@@ -4,7 +4,7 @@
 
 The Association shall be established without NAIC oversight and the provisions set forth in section 6754 of this title, subsections (a), (b), (c), and (e) of section 6758 of this title, and sections 6759(b) and 6760 of this title shall cease to be effective if, at the end of the 2-year period beginning on the date on which the provisions of this subchapter take effect pursuant to section 6751 of this title—
 
-&emsp;(1) at least a majority of the States representing at least 50 percent of the total United States commercial-lines insurance premiums have not satisfied the uniformity orreciprocity requirements of subsections (a), (b), and (c) of section 6751 of this title; and
+&emsp;(1) at least a majority of the States representing at least 50 percent of the total United States commercial-lines insurance premiums have not satisfied the uniformity or reciprocity requirements of subsections (a), (b), and (c) of section 6751 of this title; and
 
 &emsp;(2) the NAIC has not approved the Association's bylaws as required by section 6758 of this title or is unable to operate or supervise the Association, or the Association is not conducting its activities as required under this Act.
 
@@ -24,7 +24,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (B) Subsequent appointments
 
-&emsp;&emsp;After the initial appointments, the NAIC shall provide a list of at least six recommended candidates for the Board to the President by January 15 of each subsequent year. If the NAIC fails to provide a list by that date, or if any list that is provided does not include at least six recommended candidates or comply with the requirements of section 6756(c) of this title, the President, with the advice and consent of the Senate, shall make the requisite appointments without considering the views of the NAIC.
+&emsp;&emsp;After the initial appointments, the NAIC shall provide a list of at least six recommended candidates for the Board to the President by January 15 of each subsequent year. If the NAIC fails to provide a list by that date, or if any list that is provided does not include at least six recommended candidates or comply with the requirements of section 6756(c) of this title, the President, with the advice and consent of the Senate,shall make the requisite appointments without considering the views of the NAIC.
 
 #### (C) Presidential oversight
 

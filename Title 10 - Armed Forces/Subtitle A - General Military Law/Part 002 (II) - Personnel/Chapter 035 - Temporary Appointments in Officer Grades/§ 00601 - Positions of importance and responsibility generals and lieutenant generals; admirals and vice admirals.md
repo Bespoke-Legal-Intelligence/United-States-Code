@@ -48,7 +48,7 @@ Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted “under subsection (a)
 
 #### Effective Date of 1991 Amendment
 
-Section 502(b) of Pub. L. 102–190 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title V, §502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Effective Date of 1981 Amendment
 

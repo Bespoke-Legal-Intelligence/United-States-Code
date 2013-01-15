@@ -6,7 +6,7 @@
 
 #### (A) Development, procurement, maintenance, or use of electronic and information technology
 
-&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service,shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
+&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 
@@ -62,7 +62,7 @@ The Administrator of General Services and the Access Board shall provide technic
 
 #### (c) Agency evaluations
 
-Not later than 6 months after August 7, 1998, the head of each Federal department or agencyshall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 #### (d) Reports
 

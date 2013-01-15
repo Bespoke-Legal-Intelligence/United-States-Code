@@ -12,7 +12,7 @@ Class C shall consist of three members who shall be designated by the Board of G
 
 #### Codification
 
-Section is comprised of pars. 9 to 12 of section 4 of act Dec. 23, 1913. For classification to this title of otherpars. of section 4, see Codification note set out under section 301 of this title.
+Section is comprised of pars. 9 to 12 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under section 301 of this title.
 
 Provisions of section which related to appointment of Class C directors when the necessary subscriptions to the capital stock have been obtained for the organization of any Federal Reserve Bank and which required the organization committee to exercise the powers and duties appertaining to the office of chairman in the organization of such Federal Reserve Bank pending the designation of a chairman, were omitted as obsolete.
 

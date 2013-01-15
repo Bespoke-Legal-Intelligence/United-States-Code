@@ -4,7 +4,7 @@ Section, Pub. L. 93–236, title VII, §701, as added Pub. L. 97–35, title XI,
 
 #### Repeal of Section; Continuing Responsibilities of Consolidated Rail Corporation After Sale Date
 
-Section 4024(c)–(f) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title IV, §4024(c)–(f), Oct. 21, 1986, 100 Stat. 1904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(c)
 

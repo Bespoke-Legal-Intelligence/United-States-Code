@@ -24,7 +24,7 @@ Ineligibility by Reason of Previous Consideration of Same Officer.—No person m
 
 (d)
 
-Exclusion From Strength Limitation.—A retired general or flag officer who is on active duty for the purpose of serving on a board convened under this chapter shall not, while so serving, be counted against any limitation on the number of general and flag officers who may be on active duty.
+Exclusion From Strength Limitation.—A retired general or flag officer who is on active duty for the purpose of serving on a board convened under this chapter shall not, while so serving, be counted against any limitation onthe number of general and flag officers who may be on active duty.
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 106–65, div. A, title V, §504(a), Oct. 5, 1999, 113 Stat. 590; Pub. L. 110–417, \[div. A\], title V, §505, Oct. 14, 2008, 122 Stat. 4434.)
 

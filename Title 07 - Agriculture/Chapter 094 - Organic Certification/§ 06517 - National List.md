@@ -6,7 +6,7 @@ The Secretary shall establish a National List of approved and prohibited substan
 
 #### (b) Content of list
 
-The list established under subsection (a) of this section shall contain an itemization, by specific use or application, of each synthetic substance permitted under subsection (c)(1) of this section or each natural substance prohibited under subsection (c)(2) of this section.
+The list established under subsection (a) of this section shall contain an itemization, byspecific use or application, of each synthetic substance permitted under subsection (c)(1) of this section or each natural substance prohibited under subsection (c)(2) of this section.
 
 #### (c) Guidelines for prohibitions or exemptions
 

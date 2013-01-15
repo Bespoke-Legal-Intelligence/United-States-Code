@@ -32,7 +32,7 @@ A prior section 9901, Pub. L. 97–35, title VI, §672, Aug. 13, 1981, 95 Stat. 
 
 #### Short Title of 1994 Amendment
 
-Section 201(a) of title II of Pub. L. 103–252 provided that: “This title \[enacting section 9910c of this title, amending this section and sections 9903, 9904, 9910, 9910a, 9910b, 9911, 9912, and 11464 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Community Services Block Grant Amendments of 1994’.”
+Pub. L. 103–252, title II, §201(a), May 18, 1994, 108 Stat. 651, provided that: “This title \[enacting section 9910c of this title, amending this section and sections 9903, 9904, 9910, 9910a, 9910b, 9911, 9912, and 11464 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Community Services Block Grant Amendments of 1994’.”
 
 #### Short Title
 

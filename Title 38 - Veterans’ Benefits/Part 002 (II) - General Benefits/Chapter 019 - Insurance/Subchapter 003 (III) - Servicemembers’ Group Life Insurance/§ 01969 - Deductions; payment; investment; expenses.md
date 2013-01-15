@@ -34,11 +34,11 @@
 
 (B) The premium amounts shall be determined on the basis of sound actuarial principles and shall include an amount necessary to cover the administrative costs to the insurer or insurers providing such insurance.
 
-(C) Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for any such subsequent policy year on the basis of the experience under the policy, as determined by the Secretary in advance of that policy year.
+(C) Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for any such subsequent policy year on the basis of theexperience under the policy, as determined by the Secretary in advance of that policy year.
 
 (h) Any overpayment of a premium for insurance coverage for an insurable dependent of a member that is terminated under section 1968(a)(5) of this title shall be refunded to the member.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §769; amended Pub. L. 91–291, §4, June 25, 1970, 84 Stat. 329; Pub. L. 93–289, §§6, 10(2), May 24, 1974, 88 Stat. 168, 172; Pub. L. 97–66, title IV, §402, Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, §701(39), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 100–322, title III, §332(a), May 20, 1988, 102 Stat. 537; renumbered §1969 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(d), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 103–446, title XII, §1201(e)(8), (i)(3), Nov. 2, 1994, 108 Stat. 4685, 4688; Pub. L. 104–106, div. A, title VI, §647(a), Feb. 10, 1996, 110Stat. 370; Pub. L. 104–275, title IV, §§402(d), 405(b)(1)(C), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(d), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, §1012(c)(2), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045; Pub. L. 110–389, title IV, §403(a)(2)(B), (c), Oct. 10, 2008, 122 Stat. 4174.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §769; amended Pub. L. 91–291, §4, June 25, 1970, 84 Stat. 329; Pub. L. 93–289, §§6, 10(2), May 24, 1974, 88 Stat. 168, 172; Pub. L. 97–66, title IV, §402, Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, §701(39), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 100–322, title III, §332(a), May 20, 1988, 102 Stat. 537; renumbered §1969 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(d), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 103–446, title XII, §1201(e)(8), (i)(3), Nov. 2, 1994, 108 Stat. 4685, 4688; Pub. L. 104–106, div. A, title VI, §647(a), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(d), 405(b)(1)(C), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(d), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, §1012(c)(2), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045; Pub. L. 110–389, title IV, §403(a)(2)(B), (c), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Subsec. (a)(2). Pub. L. 93–289, §6(2), added par. (2). Former par. (2) redesi
 
 Subsec. (a)(3). Pub. L. 93–289, §6(1), (2), redesignated former par. (2) as (3), and substituted “is insured under Servicemen's Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under section 766 of this title.” Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 93–289, §6(2), (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or (2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen's Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
+Subsec. (a)(4). Pub. L. 93–289, §6(2), (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or\(2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen's Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
 
 Subsec. (b). Pub. L. 93–289, §6(4), substituted “Servicemen's Group Life Insurance” for “such insurance” in first sentence, and “Servicemen's Group Life Insurance” for “this subchapter” in second sentence.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 104–106 effective Apr. 1, 1996, see section 647(c) of Pub
 
 #### Effective Date of 1988 Amendment
 
-Section 332(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to premiums paid for periods beginning after June 30, 1988.”
+Pub. L. 100–322, title III, §332(b), May 20, 1988, 102 Stat. 537, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to premiums paid for periods beginning after June 30, 1988.”
 
 #### Effective Date of 1981 Amendment
 

@@ -40,5 +40,5 @@ Pub. L. 109–166, §1, Jan. 10, 2006, 119 Stat. 3576, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 103–340 provided that: “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title\] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”
+Pub. L. 103–340, §1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title\] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”
 

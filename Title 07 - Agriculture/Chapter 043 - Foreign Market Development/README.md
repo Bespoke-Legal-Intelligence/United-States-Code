@@ -1,14 +1,14 @@
 ### <b>CHAPTER 43—FOREIGN MARKET DEVELOPMENT</b>
 
-#### SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTACHE�AE1S
+#### SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTACHÉS
 
 | Sec. |  |
 | :--- | ---: |
-| [1761\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001761%20-%20Foreign%20markets%3B%20collection%20of%20information.md) | Foreign markets; collection of information. |
-| [1762\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001762%20-%20Personnel.md) | Personnel. |
-| [1763\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001763%20-%20Transferred.md) | Transferred. |
-| [1764\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001764%20-%20Reports%20and%20dispatches.md) | Reports and dispatches. |
-| [1765\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/%C2%A7%2001765%20-%20Foreign%20service%20appropriations%3B%20applicability.md) | Foreign service appropriations; applicability. |
+| [1761\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/%C2%A7%2001761%20-%20Foreign%20markets%3B%20collection%20of%20information.md) | Foreign markets; collection of information. |
+| [1762\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/%C2%A7%2001762%20-%20Personnel.md) | Personnel. |
+| [1763\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/%C2%A7%2001763%20-%20Transferred.md) | Transferred. |
+| [1764\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/%C2%A7%2001764%20-%20Reports%20and%20dispatches.md) | Reports and dispatches. |
+| [1765\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/%C2%A7%2001765%20-%20Foreign%20service%20appropriations%3B%20applicability.md) | Foreign service appropriations; applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +48,6 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - General Provisions; Agricultural Counselors and Agricultural Attache&#65533;AE1S](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attache%EF%BF%BDAE1S/README.md)
+- [Subchapter 001 (I) - General Provisions; Agricultural Counselors and Agricultural Attach&#201;S](Subchapter%20001%20%28I%29%20-%20General%20Provisions%3B%20Agricultural%20Counselors%20and%20Agricultural%20Attach%C3%89S/README.md)
 - [Subchapter 002 (II) - United States Agricultural Trade Offices](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/README.md)
 - [Subchapter 003 (III) - Representation Allowances, Regulations, General Provisions, and Authorization for Appropriations](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/README.md)

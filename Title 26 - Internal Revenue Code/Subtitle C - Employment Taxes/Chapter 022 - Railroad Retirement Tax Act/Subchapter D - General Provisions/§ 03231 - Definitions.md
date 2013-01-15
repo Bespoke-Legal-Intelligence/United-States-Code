@@ -2,7 +2,7 @@
 
 #### (a) Employer
 
-For purposes of this chapter, the term “employer” means any carrier (as defined in subsection (g)), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer; except that the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is hereby authorized and directed upon request of the Secretary, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this exception. The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended (45 U.S.C., chapter 8), and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to theconstitutions and bylaws of such organizations. The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
+For purposes of this chapter, the term “employer” means any carrier (as defined in subsection (g)), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer; except that the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is hereby authorized and directed upon request of the Secretary, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this exception. The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended (45 U.S.C., chapter 8), and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to the constitutions and bylaws of such organizations. The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
 
 #### (b) Employee
 
@@ -26,7 +26,7 @@ For purposes of this chapter, the term “employee” means any individual in th
 
 #### (c) Employee representative
 
-For purposes of this chapter, the term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a), who before or after June 29, 1937, was in the service of an employer as defined in subsection (a) and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act (45 U.S.C., chapter 8), as amended, and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
+For purposes of this chapter, the term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a), who before or after June 29, 1937, was in the service of an employer as defined in subsection (a) and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act (45 U.S.C., chapter 8), asamended, and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
 
 #### (d) Service
 
@@ -48,7 +48,7 @@ For purposes of this chapter, an individual is in the service of an employer whe
 
 &emsp;(6) all, or substantially all, the individuals represented by it are employees of an employer conducting the principal part of its business in the United States; or
 
-&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of ageneral committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
+&emsp;(7) he acts in the capacity of a general chairman or an assistant general chairman of a general committee which represents individuals rendering service in the United States to an employer, but in such case if his office or headquarters is not located in the United States and the individuals represented by such general committee are employees of an employer not conducting the principal part of its business in the United States, only such proportion of the remuneration for such service shall be regarded as compensation as the proportion which the mileage in the United States under the jurisdiction of such general committee bears to the total mileage under its jurisdiction, unless such mileage formula is inapplicable, in which case such other formula as the Railroad Retirement Board may have prescribed pursuant to section 1(c) of the Railroad Retirement Act of 1937 (45 U.S.C. 228a) shall be applicable, and if the application of such mileage formula, or such other formula as the Board may prescribe, would result in the compensation of the individual being less than 10 percent of his remuneration for such service, no part of such remuneration shall be regarded as compensation;
 
 > <i>Provided however</i>, That an individual not a citizen or resident of the United States shall not be deemed to be in the service of an employer when rendering service outside the United States to an employer who is required under the laws applicable in the place where the service is rendered to employ therein, in whole or in part, citizens or residents thereof; and the laws applicable on August 29, 1935, in the place where the service is rendered shall be deemed to have been applicable there at all times prior to that date.
 
@@ -56,7 +56,7 @@ For purposes of this chapter, an individual is in the service of an employer whe
 
 For purposes of this chapter—
 
-&emsp;(1) The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers. Such term does not include (i) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee, (ii) tips (except as is provided under paragraph (3)), (iii) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5). Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be. For the purpose of determining the amount of taxes under sections 3201 and 3221, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $25. Compensation for service as a delegate to a national or international convention of a railway labor organization defined as an “employer” in subsection (a) of this section shall be disregarded for purposes of determining the amount of taxes due pursuant to this chapter if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act. Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “compensation” in regulations prescribed for purposes of this chapter.
+&emsp;(1) The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers. Such term does not include (i) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee, (ii) tips (except as is provided under paragraph (3)), (iii) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5). Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be. For the purpose of determining the amount of taxes under sections 3201 and 3221, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $25. Compensation for service as a delegate to a national or international convention of a railway labor organization defined as an “employer” in subsection (a) of this section shall be disregarded for purposesof determining the amount of taxes due pursuant to this chapter if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act. Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “compensation” in regulations prescribed for purposes of this chapter.
 
 #### (2) Application of contribution bases
 
@@ -122,7 +122,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-&emsp;(7) The term “compensation” shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
+&emsp;(7) The term “compensation” shall not include any contribution, payment, or serviceprovided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
 
 #### (8) Treatment of certain deferred compensation and salary reduction arrangements
 
@@ -176,7 +176,7 @@ For purposes of this chapter, if 2 or more related corporations which are employ
 
 The Railway Labor Act, referred to in subsecs. (a) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-Sections 1 and 6 of the Railroad Retirement Act of 1937, referred to in subsecs. (b) and (d)(7), were classified to sections 228a and 228f of Title 45. The subject matter of sections 228a and 228f is covered by sections 231 and 231<i>o</i> of Title 45.
+Sections 1 and 6 of the Railroad Retirement Act of 1937, referred to in subsecs. (b) and (d)(7), were classified to sections 228a and 228f of Title 45. The subject matter of sections 228a and 228f is covered by sections 231 and 231o of Title 45.
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(2)(B), is classified to section 430 of Title 42, The Public Health and Welfare.
 
@@ -218,7 +218,7 @@ Subsec. (e)(2)(B)(i). Pub. L. 103–66, §13207(c)(2), amended heading and text 
 
 “(I)
 
-In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term ‘applicablebase’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
+In general.—Except as provided in subclause (II) of this clause and in clause (ii), the term ‘applicable base’ means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
 “(II)
 
@@ -316,7 +316,7 @@ Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
+Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -340,7 +340,7 @@ Amendment by section 11331(c) of Pub. L. 101–508 applicable to 1991 and later 
 
 #### Effective Date of 1989 Amendments
 
-Section 10205(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title X, §10205(b), Dec. 19, 1989, 103 Stat. 2474 provided that:
 
 “(1)
 
@@ -358,7 +358,7 @@ Exception.—The amendment made by subsection (a) shall not apply with respect t
 
 Benefit determinations to take into account remuneration on which tax paid.—The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 \[45 U.S.C. 231(h)\] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (a).”
 
-Section 10206(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title X, §10206(c), Dec. 19, 1989, 103 Stat. 2475, provided that:
 
 “(1)
 
@@ -398,7 +398,7 @@ contributions.—The amendment made by subsection (b) shall not apply to employe
 
 Special rule with respect to nonqualified deferred compensation plans.—In the case of an agreement in existence on June 15, 1989, between a nonqualified deferred compensation plan (as defined in section 3121(v)(2)(C) of such Code) and an individual, the amendment made by subsection (b) shall apply with respect to services performed by the individual after December 31, 1989. The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies.”
 
-Section 10207(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to remuneration paid after December 31, 1989.”
+Pub. L. 101–239, title X, §10207(c), Dec. 19, 1989, 103 Stat. 2476, provided that: “The amendments made by this section \[amending this section\] shall apply to remuneration paid after December 31, 1989.”
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -414,7 +414,7 @@ Amendment by section 122(e)(2) of Pub. L. 99–514 applicable to prizes and awar
 
 #### Effective Date of 1984 Amendments
 
-Section 1(d)(3) of Pub. L. 98–612 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply to remuneration paid after December 31, 1984.”
+Pub. L. 98–612, §1(d)(3), Oct. 31, 1984, 98 Stat. 3181, provided that: “The amendment made by subsection (c) \[amending this section\] shall apply to remuneration paid after December 31, 1984.”
 
 Amendment by Pub. L. 98–611 applicable to remuneration paid after Dec. 31, 1984, see section 1(g)(3) of Pub. L. 98–611, set out as a note under section 127 of this title.
 
@@ -430,11 +430,11 @@ Amendment by Pub. L. 97–123 applicable to remuneration paid after Dec. 31, 198
 
 Amendment by section 741(d)(2) of Pub. L. 97–34 applicable to compensation paid for services rendered after Sept. 30, 1981, see section 741(e) of Pub. L. 97–34, set out as a note under section 3201 of this title.
 
-Section 743(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply for taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title VII, §743(d), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendments made by this section \[amending this section\] shall apply for taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 
-Section 4(c)(2) of Pub. L. 94–547 provided that: “The amendments made by subsection (b) of this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953: <i>Provided, however</i>, That any taxes paid under the Railroad Retirement Tax Act \[this chapter\] prior to the date on which this Act is enacted \[Oct. 18, 1976\] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period.”
+Pub. L. 94–547, §4(c)(2), Oct. 18, 1976, 90 Stat. 2527, provided that: “The amendments made by subsection (b) of this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953: <i>Provided, however</i>, That any taxes paid under the Railroad Retirement Tax Act \[this chapter\] prior to the date on which this Act is enacted \[Oct. 18, 1976\] shall not be affected or adjusted by reason of the amendments made by such subsection (b) except to the extent that the applicable period of limitation for the assessment of tax and the filing of a claim for credit or refund has not expired prior to the date on which this Act is enacted. If the applicable period of limitation for the filing of a claim for credit or refund would expire within the six-month period following the date on which this Act is enacted, the applicable period for the filing of such a claim for credit or refund shall be extended to include such six-month period.”
 
 #### Effective Date of 1975 Amendments
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 94–92 effective Jan. 1, 1975, and applicable only with re
 
 #### Effective Date of 1968 Amendment
 
-Section 4(a) of Pub. L. 90–624, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–624, §4(a), Oct. 22, 1968, 82 Stat. 1316, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendments made by the first two sections of this Act \[amending this section and section 228a of Title 45, Railroads\] shall apply with respect to service performed after December 31, 1961.
 

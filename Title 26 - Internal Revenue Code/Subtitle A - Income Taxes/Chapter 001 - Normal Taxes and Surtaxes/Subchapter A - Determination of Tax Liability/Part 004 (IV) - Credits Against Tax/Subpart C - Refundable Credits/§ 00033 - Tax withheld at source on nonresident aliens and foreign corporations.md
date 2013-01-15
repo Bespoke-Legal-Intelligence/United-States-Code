@@ -16,5 +16,5 @@ Pub. L. 98–369, §474(j), amended section generally, striking out “and on ta
 
 #### Effective Date of 1984 Amendment
 
-Section 475(b) of Pub. L. 98–369 provided that: “The amendments made by subsections (j) and (r)(29) \[amending this section and sections 12, 164, 1441, 1442, 6049, and 7701 of this title and repealing section 1451 of this title\] shall not apply with respect to obligations issued before January 1, 1984.”
+Pub. L. 98–369, div. A, title IV, §475(b), July 18, 1984, 98 Stat. 847, provided that: “The amendments made by subsections (j) and (r)(29) \[amending this section and sections 12, 164, 1441, 1442, 6049, and 7701 of this title and repealing section 1451 of this title\] shall not apply with respect to obligations issued before January 1, 1984.”
 

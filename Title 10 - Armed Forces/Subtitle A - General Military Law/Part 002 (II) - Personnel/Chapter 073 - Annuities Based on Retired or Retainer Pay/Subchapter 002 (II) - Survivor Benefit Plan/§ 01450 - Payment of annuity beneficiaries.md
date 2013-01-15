@@ -64,7 +64,7 @@ Limitation on recoupment of offset amount.—Any amount subject to offset under 
 
 (d)
 
-Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected.—If, upon the death of a person to whom section 1448 of this title applies, that person had in effect a waiver of that person's retired pay for the purposes of subchapter III of chapter 83 of title 5, an annuity under this section shall not be payable unless, in accordance with section 8339(j) of title 5, that person notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) of that title.
+Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected.—If, upon the death of a person to whom section 1448 of this title applies, that person had in effect a waiver of that person's retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, an annuity under this section shall not be payable unless, in accordance with section 8339(j) or 8416(a) of title 5, that person notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of that title.
 
 (e)
 
@@ -172,11 +172,11 @@ Exceptions.—Paragraph (1) does not apply to—
 
 (h)
 
-Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
+Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Suchannuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 
 (i)
 
-Annuities Exempt From Certain Legal Process.—Except as provided in subsection (<i>l</i>)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+Annuities Exempt From Certain Legal Process.—Except as provided in subsection (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
 (j)
 
@@ -222,7 +222,7 @@ Manner of repayment; rate of interest.—The manner in which such repayment shal
 
 Deposit of amounts repaid.—An amount repaid under this paragraph (including any such interest) received by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other amount repaid under this paragraph shall be deposited into the Treasury as miscellaneous receipts.
 
-(<i>l</i>)
+(l)
 
 Participants in the Plan Who Are Missing.—
 
@@ -278,7 +278,7 @@ Collection from participant of annuity amounts erroneously paid.—A debt under 
 
 &emsp;&emsp;(C)
 
-Collection from beneficiary.—If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
+Collection from beneficiary.—If the participant dies before the full recovery ofthe amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
 (m)
 
@@ -332,9 +332,11 @@ Source of funds.—The special survivor indemnity allowance shall be paid from a
 
 Effective date and duration.—This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3),643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492; Pub. L. 111–31, div. B, title II, §201, June 22, 2009, 123 Stat. 1857; Pub. L. 112–239, div. A, title VI, §641(b), Jan. 2, 2013, 126 Stat. 1783.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 inserted “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
 
 <b>2009</b>—Subsec. (m)(2)(F) to (I). Pub. L. 111–31, §201(a), added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
 
@@ -352,7 +354,7 @@ Subsec. (m)(1)(B). Pub. L. 110–417 substituted “subsection (a)(1) of section
 
 <b>1997</b>—Subsec. (f)(1)(C). Pub. L. 105–85 inserted at end “Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in section 1448(a)(5)(B) of this title.”
 
-<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to payment of annuities and beneficiaries and inserting subsec., par., and subpar. headings.
+<b>1996</b>—Pub. L. 104–201 amended section generally, revising and restating provisions relating to payment ofannuities and beneficiaries and inserting subsec., par., and subpar. headings.
 
 <b>1994</b>—Subsecs. (c), (k)(1). Pub. L. 103–337 substituted “section 1311(a) of title 38” for “section 411(a) of title 38”.
 
@@ -360,9 +362,9 @@ Subsec. (m)(1)(B). Pub. L. 110–417 substituted “subsection (a)(1) of section
 
 Subsec. (h). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+Subsec. (l)(1). Pub. L. 101–189, §1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “of which the retired”.
+Subsec. (l)(2). Pub. L. 101–189, §1407(a)(3), struck out “or retainer” after “of which the retired”.
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §643(a). See 1986 Amendment note below.
 
@@ -410,7 +412,7 @@ Subsec. (f)(3)(A). Pub. L. 99–145, §722(1), inserted “or has been filed wit
 
 Subsec. (f)(3)(B), (C). Pub. L. 99–145, §722(2), inserted “or filing” after “court order”.
 
-Subsec. (i). Pub. L. 99–145, §1303(a)(11)(A), substituted “subsection (<i>l</i>)(3)(B)” for “subsection (<i>l</i>)”.
+Subsec. (i). Pub. L. 99–145, §1303(a)(11)(A), substituted “subsection (l)(3)(B)” for “subsection (l)”.
 
 Subsec. (j). Pub. L. 99–145, §719(5), substituted “a person providing a reserve-component annuity” for “any person providing an annuity by virtue of eligibility under section 1448(a)(1)(B) of this title”.
 
@@ -422,19 +424,19 @@ Subsec. (k)(1). Pub. L. 99–145, §717(1), (2), designated existing provisions 
 
 Subsec. (k)(2). Pub. L. 99–145, §717(3), added par. (2).
 
-Subsec. (<i>l</i>)(1). Pub. L. 99–145, §719(6)(A), (8)(A), substituted in first sentence “the Plan” for “the plan” in two places, and substituted “retired pay” for “retired or retainer pay” before “has been suspended”.
+Subsec. (l)(1). Pub. L. 99–145, §719(6)(A), (8)(A), substituted in first sentence “the Plan” for “the plan” in two places, and substituted “retired pay” for “retired or retainer pay” before “has been suspended”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 99–145, §719(6)(B), struck out “the provision of” before “this subchapter”.
+Subsec. (l)(2). Pub. L. 99–145, §719(6)(B), struck out “the provision of” before “this subchapter”.
 
-Subsec. (<i>l</i>)(3)(A). Pub. L. 99–145, §1303(a)(11)(B), struck out “(notwithstanding subsection (h))” before “may be collected”.
+Subsec. (l)(3)(A). Pub. L. 99–145, §1303(a)(11)(B), struck out “(notwithstanding subsection (h))” before “may be collected”.
 
-Subsec. (<i>l</i>)(3)(A)(i). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retried or retainer pay”.
+Subsec. (l)(3)(A)(i). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retried or retainer pay”.
 
 <b>1984</b>—Subsec. (f)(3), (4). Pub. L. 98–525, §644, added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i). Pub. L. 98–525, §642(b)(1), substituted “Except as provided in subsection (<i>l</i>), an” for “An”.
+Subsec. (i). Pub. L. 98–525, §642(b)(1), substituted “Except as provided in subsection (l), an” for “An”.
 
-Subsec. (<i>l</i>). Pub. L. 98–525, §642(b)(2), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 98–525, §642(b)(2), added subsec. (l).
 
 <b>1983</b>—Subsec. (a)(4). Pub. L. 98–94, §941(a)(3)(A), struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “section 1448(b) of this title”.
 
@@ -446,7 +448,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted “or annulment,”
 
 <b>1982</b>—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person whoelects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -462,6 +464,10 @@ Subsecs. (j), (k). Pub. L. 95–397, §203(2), added subsecs. (j) and (k).
 
 Subsec. (f). Pub. L. 94–496, §1(4), substituted “(a)(4)” for “(a)(3)”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title VI, §641(c), Jan. 2, 2013, 126 Stat. 1783, provided that: “The amendments made by this section \[amending this section and section 1452 of this title\] shall apply with respect to any participant electing an annuity for survivors under chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title VI, §631(b), Oct. 14, 2008, 122 Stat. 4492, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the month beginning on October 1, 2008, and subsequent months as provided by paragraph (6) of subsection (m) of section 1450 of title 10, United States Code, as added by section 644 of the National Defense Authorization Act for Fiscal Year 2008 \[Pub. L. 110–181\].”
@@ -470,19 +476,19 @@ Pub. L. 110–181, div. A, title VI, §643(b), Jan. 28, 2008, 122 Stat. 157, pro
 
 #### Effective Date of 1997 Amendment
 
-Section 642(b) of Pub. L. 105–85 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to marriages occurring before, on, or after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title VI, §642(b), Nov. 18, 1997, 111 Stat. 1799, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to marriages occurring before, on, or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Effective Date of 1987 Amendments
 
-Section 636(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendments made by section 643(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3886) \[amending this section\].”
+Pub. L. 100–180, div. A, title VI, §636(b), Dec. 4, 1987, 101 Stat. 1106, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendments made by section 643(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3886) \[amending this section\].”
 
 Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 641(c) of Pub. L. 99–661 provided that: “The amendments made by this section \[amending this section and section 1448 of this title\] apply to court orders issued on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §641(c), Nov. 14, 1986, 100 Stat. 3886, provided that: “The amendments made by this section \[amending this section and section 1448 of this title\] apply to court orders issued on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
-Section 643(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], but only with respect to payments for periods after the date of the enactment of this Act.”
+Pub. L. 99–661, div. A, title VI, §643(b), Nov. 14, 1986, 100 Stat. 3886, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], but only with respect to payments for periods after the date of the enactment of this Act.”
 
 #### Effective Date of 1985 Amendment
 

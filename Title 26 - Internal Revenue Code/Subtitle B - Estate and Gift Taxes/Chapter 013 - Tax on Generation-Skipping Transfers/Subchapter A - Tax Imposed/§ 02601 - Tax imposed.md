@@ -10,7 +10,7 @@ A tax is hereby imposed on every generation-skipping transfer (within the meanin
 
 #### Effective Date of 1986 Amendment
 
-Section 1433 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1014(h)(1)–(3)(A), (4), Nov. 10, 1988, 102 Stat. 3567, 3568, provided that:
+Pub. L. 99–514, title XIV, §1433, Oct. 22, 1986, 100 Stat. 2731, as amended by Pub. L. 100–647, title I, §1014(h)(1)–(3)(A), (4), Nov. 10, 1988, 102 Stat. 3567, 3568, provided that:
 
 “(a)
 
@@ -108,9 +108,9 @@ Election.—An election under paragraph (1) shall be made at such time and in su
 
 \[Pub. L. 101–508, title XI, §11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out above\] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act \[probably means subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990.”\]
 
-\[Section 1014(h)(3)(B) of Pub. L. 100–647 provided that: “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.”\]
+\[Pub. L. 100–647, title I, §1014(h)(3)(B), Nov. 10, 1988, 102 Stat. 3568, provided that: “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.”\]
 
-\[Section 1014(h)(5) of Pub. L. 100–647 provided that: “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[Pub. L. 99–514, set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
+\[Pub. L. 100–647, title I, §1014(h)(5), Nov. 10, 1988, 102 Stat. 3568, provided that: “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[Pub. L. 99–514, set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
 
 &emsp;\[“(A) such direct skip results from the application of section 2044 of the 1986 Code, and
 
@@ -118,7 +118,7 @@ Election.—An election under paragraph (1) shall be made at such time and in su
 
 #### Effective Date
 
-Section 2006(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §702(n)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, §428, Aug. 13, 1981, 95 Stat. 319; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XX, §2006(c), Oct. 4, 1976, 90 Stat. 1889, as amended by Pub. L. 95–600, title VII, §702(n)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, §428, Aug. 13, 1981, 95 Stat. 319; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

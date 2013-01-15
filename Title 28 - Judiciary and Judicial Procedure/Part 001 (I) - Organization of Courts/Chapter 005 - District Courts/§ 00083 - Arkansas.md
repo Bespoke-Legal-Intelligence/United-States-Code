@@ -60,7 +60,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 Based on title 28, U.S.C., 1940 ed., §144 (Mar. 3, 1911, ch. 231, §71, 36 Stat. 1106; Apr. 12, 1924, ch. 87, §1, 43 Stat. 90; Feb. 17, 1925, ch. 252, 43 Stat. 948; Apr. 16, 1926, ch. 147, §1, 44 Stat. 296; Apr. 21, 1926, ch. 168, 44 Stat. 304; Feb. 7, 1928, ch. 29, §1, 45 Stat. 58; Apr. 17, 1940, ch. 100, 54 Stat. 109; June 11, 1940, ch. 321, §1, 54 Stat. 302).
 
-A provision making inoperative the terms of the last paragraph of this section, whenever court accommodations shall be provided in Federal buildings was omitted as unnecessary. When such buildings become available the Director of the Administrative Office of the United States Courts will, under section 604 of this title, provide court accommodations therein.
+A provision making inoperative the terms of the last paragraph of this section, whenever court accommodations shall be provided in Federal buildings was omitted as unnecessary. When such buildings become available the Director of the Administrative Office of theUnited States Courts will, under section 604 of this title, provide court accommodations therein.
 
 Provisions relating to places for maintenance of clerks’ offices and requiring said offices to be kept open at all times were omitted as covered by sections 452 and 751 of this title.
 

@@ -38,7 +38,7 @@ Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as a
 
 #### Amendment of Food for Development Agreements; Disaster Assistance for Bangladesh
 
-Section 4(a)(2), (3) of Pub. L. 100–576 provided that:
+Pub. L. 100–576, §4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2898, provided that:
 
 “(2) Food for Development agreements entered into under title III of that Act \[this subchapter\] before the date of enactment of this Act \[Oct. 31, 1988\] may be amended in order to implement the amendment made by paragraph (1) \[amending this section\].
 

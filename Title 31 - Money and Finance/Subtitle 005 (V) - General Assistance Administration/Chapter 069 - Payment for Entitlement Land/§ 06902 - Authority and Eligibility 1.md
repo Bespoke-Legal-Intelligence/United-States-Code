@@ -64,11 +64,11 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 “(d) If the total payment to a unit of general local government for a fiscal year would be less than $100, the Secretary may not make the payment.”
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–93 substituted “acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made underState law if such lands had not been acquired” for “acquisition”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–93 substituted “acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made under State law if such lands had not been acquired” for “acquisition”.
 
 #### Effective Date of 1994 Amendment
 
-Section 5(a) of Pub. L. 103–397 provided that:
+Pub. L. 103–397, §5(a), Oct. 22, 1994, 108 Stat. 4158, provided that:
 
 “(1)
 

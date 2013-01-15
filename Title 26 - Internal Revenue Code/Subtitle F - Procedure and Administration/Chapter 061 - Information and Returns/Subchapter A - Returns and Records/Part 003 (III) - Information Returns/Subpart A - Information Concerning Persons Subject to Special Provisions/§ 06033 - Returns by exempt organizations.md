@@ -28,7 +28,7 @@
 
 #### (B) Discretionary exceptions
 
-&emsp;&emsp;The Secretary may relieve any organization required under paragraph (1) (other than an organization described in section 509(a)(3)) to file an information return from filing such a return where he determines that such filing is not necessary to the efficient administration of the internal revenue laws.
+&emsp;&emsp;The Secretary may relieve any organization required under paragraph (1) (other than an organization described in section509(a)(3)) to file an information return from filing such a return where he determines that such filing is not necessary to the efficient administration of the internal revenue laws.
 
 #### (C) Certain organizations
 
@@ -184,7 +184,7 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;&emsp;&emsp;(ii) fails to include in such notices the amount allocable to expenditures to which section 162(e)(1) applies (determined on the basis of actual amounts rather than the reasonable estimates under paragraph (1)(A)(ii)),
 
-> &emsp;&emsp;then there is hereby imposed on such organization for such taxable year a tax in an amount equal to the product of the highest rate of tax imposed by section 11 for the taxable year and the aggregate amount not included in such notices by reason of such election or failure.
+> &emsp;&emsp;then there is hereby imposed on such organization for such taxable year a tax in anamount equal to the product of the highest rate of tax imposed by section 11 for the taxable year and the aggregate amount not included in such notices by reason of such election or failure.
 
 #### (B) Waiver where future adjustments made
 
@@ -272,7 +272,7 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 #### (1) In general
 
-&emsp;If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization's status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
+&emsp;If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization's status asan organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
 
 #### (2) Application necessary for reinstatement
 
@@ -292,7 +292,7 @@ Every organization described in section 4966(d)(1) shall, on the return required
 
 &emsp;(3) indicate the aggregate contributions to and grants made from such funds during such taxable year.
 
-#### (<i>l</i>) Additional provisions relating to supporting organizations
+#### (l) Additional provisions relating to supporting organizations
 
 Every organization described in section 509(a)(3) shall, on the return required under subsection (a)—
 
@@ -362,15 +362,15 @@ Subsec. (j). Pub. L. 109–280, §1223(b), added subsec. (j). Former subsec. (j)
 
 Pub. L. 109–280, §1223(a), redesignated subsec. (i) as (j). See Codification note above.
 
-Subsec. (k). Pub. L. 109–280, §1235(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Codification note above.
+Subsec. (k). Pub. L. 109–280, §1235(a)(1), added subsec. (k). Former subsec. (k) redesignated (l). See Codification note above.
 
 Pub. L. 109–280, §1223(b), redesignated subsec. (j) as (k). See Codification note above.
 
-Subsec. (<i>l</i>). Pub. L. 109–280, §1245(b), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m). See Codification note above.
+Subsec. (l). Pub. L. 109–280, §1245(b), added subsec. (l). Former subsec. (l) redesignated (m). See Codification note above.
 
-Pub. L. 109–280, §1235(a)(1), redesignated subsec. (k) as (<i>l</i>). See Codification note above.
+Pub. L. 109–280, §1235(a)(1), redesignated subsec. (k) as (l). See Codification note above.
 
-Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m). See Codification note above.
+Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (l) as (m). See Codification note above.
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–276 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of a political organization required to file a return under section 6012(a)(6)—
 
@@ -390,7 +390,7 @@ Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m
 
 Subsec. (b)(10)(C). Pub. L. 105–34, §1603(b)(1)(B), inserted at end “except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,”.
 
-Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) readas follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
+Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
 
 <b>1996</b>—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
 
@@ -470,9 +470,9 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-Section 1312(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XIII, §1312(c), July 30, 1996, 110 Stat. 1479, provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -480,15 +480,15 @@ Amendment by Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 
 
 #### Effective Date of 1987 Amendment
 
-Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns for years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10703(b), Dec. 22, 1987, 101 Stat. 1330–461, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns for years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Section 1(f) of Pub. L. 96–603 provided that: “The amendments made by this section \[amending this section and sections 6034, 6104, 6652, 6685, and 7207 of this title and repealing section 6056 of this title\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 96–603, §1(f), Dec. 28, 1980, 94 Stat. 3505, provided that: “The amendments made by this section \[amending this section and sections 6034, 6104, 6652, 6685, and 7207 of this title and repealing section 6056 of this title\] shall apply to taxable years beginning after December 31, 1980.”
 
 #### Effective Date of 1976 Amendment
 

@@ -30,7 +30,7 @@ The purposes of this subchapter are to—
 
 &emsp;(11) improve the responsibility and accountability of the Office of Management and Budget and all other Federal agencies to Congress and to the public for implementing the information collection review process, information resources management, and related policies and guidelines established under this subchapter.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(3), Aug. 21, 2002, 116 Stat. 1301.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(3), Aug. 21, 2002, 116 Stat. 1301.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 #### Effective Date
 
-Section 4 of Pub. L. 104–13 provided that:
+Pub. L. 104–13, §4, May 22, 1995, 109 Stat. 185, provided that:
 
 “(a)
 

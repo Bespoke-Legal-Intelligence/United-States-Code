@@ -6,7 +6,7 @@ The Secretary of the Interior be, and he is empowered to grant rights-of-way for
 
 #### Effective Date
 
-Section 7 of act Feb. 5, 1948, provided that sections 323 to 328 should not become operative until 30 days after Feb. 5, 1948.
+Act Feb. 5, 1948, ch. 45, §7, 62 Stat. 18, provided that sections 323 to 328 should not become operative until 30 days after Feb. 5, 1948.
 
 #### Transfer of Functions
 

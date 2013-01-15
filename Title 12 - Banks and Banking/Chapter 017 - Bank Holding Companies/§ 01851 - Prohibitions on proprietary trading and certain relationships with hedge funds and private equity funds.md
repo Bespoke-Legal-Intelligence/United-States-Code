@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) reduce conflicts of interest between the self-interest of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
 
-&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expected to create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
+&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expectedto create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
 
 &emsp;&emsp;(F) appropriately accommodate the business of insurance within an insurance company, subject to regulation in accordance with the relevant insurance company investment laws, while protecting the safety and soundness of any banking entity with which such insurance company is affiliated and of the United States financial system; and
 
@@ -56,7 +56,7 @@
 
 #### (ii) Coordination, consistency, and comparability
 
-&emsp;&emsp;&emsp;In developing and issuing regulations pursuant to this section, the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission shall consult and coordinate with each other, as appropriate, for the purposes of assuring,to the extent possible, that such regulations are comparable and provide for consistent application and implementation of the applicable provisions of this section to avoid providing advantages or imposing disadvantages to the companies affected by this subsection and to protect the safety and soundness of banking entities and nonbank financial companies supervised by the Board.
+&emsp;&emsp;&emsp;In developing and issuing regulations pursuant to this section, the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission shall consult and coordinate with each other, as appropriate, for the purposes of assuring, to the extent possible, that such regulations are comparable and provide for consistent application and implementation of the applicable provisions of this section to avoid providing advantages or imposing disadvantages to the companies affected by this subsection and to protect the safety and soundness of banking entities and nonbank financial companies supervised by the Board.
 
 #### (iii) Council role
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(D) The purchase, sale, acquisition, or disposition of securities and other instruments described in subsection (h)(4) on behalf of customers.
 
-&emsp;&emsp;(E) Investments in one or more small business investment companies, as defined in section 102 <sup>1</sup> of the Small Business Investment Act of 1958 (15 U.S.C. 662), investmentsdesigned primarily to promote the public welfare, of the type permitted under paragraph (11) of section 24 of this title, or investments that are qualified rehabilitation expenditures with respect to a qualified rehabilitated building or certified historic structure, as such terms are defined in section 47 of title 26 or a similar State historic tax credit program.
+&emsp;&emsp;(E) Investments in one or more small business investment companies, as defined in section 102 <sup>1</sup> of the Small Business Investment Act of 1958 (15 U.S.C. 662), investments designed primarily to promote the public welfare, of the type permitted under paragraph (11) of section 24 of this title, or investments that are qualified rehabilitation expenditures with respect to a qualified rehabilitated building or certified historic structure, as such terms are defined in section 47 of title 26 or a similar State historic tax credit program.
 
 &emsp;&emsp;(F) The purchase, sale, acquisition, or disposition of securities and other instruments described in subsection (h)(4) by a regulated insurance company directly engaged in the business of insurance for the general account of the company and by any affiliate of such regulated insurance company, provided that such activities by any affiliate are solely for the general account of the regulated insurance company, if—
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) not later than 1 year after the date of establishment of the fund, be reduced through redemption, sale, or dilution to an amount that is not more than 3 percent of the total ownership interests of the fund;
 
-&emsp;&emsp;&emsp;&emsp;(II) be immaterial to the banking entity, as defined, by rule, pursuant to subsection (b)(2), but in no case may the aggregate of all of the interests of the banking entity in all such funds exceed 3 percent of the Tier 1 capital of the banking entity.
+&emsp;&emsp;&emsp;&emsp;(II) be immaterial to the banking entity, as defined, by rule, pursuant to subsection (b)(2), but in no case may the aggregate of all of the interests of thebanking entity in all such funds exceed 3 percent of the Tier 1 capital of the banking entity.
 
 #### (iii) Capital
 
@@ -278,7 +278,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Hedge fund; private equity fund
 
-&emsp;The terms “hedge fund” and “private equity fund” mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act \[15 U.S.C. 80a–3(c)(1), (7)\], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and theCommodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
+&emsp;The terms “hedge fund” and “private equity fund” mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act \[15 U.S.C. 80a–3(c)(1), (7)\], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
 
 #### (3) Nonbank financial company supervised by the Board
 
@@ -310,7 +310,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) as of May 1, 2010, was principally invested in, or was invested and contractually committed to principally invest in, illiquid assets, such as portfolio companies, real estate investments, and venture capital investments; and
 
-&emsp;&emsp;&emsp;(ii) makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets. In issuing rules regarding this subparagraph, the Board shall take into consideration the terms of investment for the hedge fund or private equity fund, including contractual obligations, the ability of the fund to divest of assets held by the fund, and any other factors that the Board determines are appropriate.
+&emsp;&emsp;&emsp;(ii) makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets.In issuing rules regarding this subparagraph, the Board shall take into consideration the terms of investment for the hedge fund or private equity fund, including contractual obligations, the ability of the fund to divest of assets held by the fund, and any other factors that the Board determines are appropriate.
 
 #### (B) Hedge fund
 

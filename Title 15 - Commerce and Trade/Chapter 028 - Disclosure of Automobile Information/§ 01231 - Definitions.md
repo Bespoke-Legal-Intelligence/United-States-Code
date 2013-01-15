@@ -34,11 +34,11 @@ For definition of Canal Zone, referred to in subsec. (h), see section 3602(b) of
 
 #### Effective Date
 
-Section 5 of Pub. L. 85–506 provided that: “This Act \[enacting this chapter\] shall take effect on the first day of October 1958 or on the first day of the introduction of any new model of automobile in any line of automobile beginning after the date of enactment of this Act \[July 7, 1958\], whichever date shall last occur.”
+Pub. L. 85–506, §5, July 7, 1958, 72 Stat. 327, provided that: “This Act \[enacting this chapter\] shall take effect on the first day of October 1958 or on the first day of the introduction of any new model of automobile in any line of automobile beginning after the date of enactment of this Act \[July 7, 1958\], whichever date shall last occur.”
 
 #### Short Title
 
-Section 1 of Pub. L. 85–506 provided: “This Act \[enacting this chapter\] may be cited as the ‘Automobile Information Disclosure Act’.”
+Pub. L. 85–506, §1, July 7, 1958, 72 Stat. 325, provided: “This Act \[enacting this chapter\] may be cited as the ‘Automobile Information Disclosure Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

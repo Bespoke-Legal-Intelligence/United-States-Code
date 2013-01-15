@@ -2,7 +2,7 @@
 
 (a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Homeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
 
-(2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
+(2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal totwice the number of years of service of the member, computed as provided in subsection (e)(5).
 
 (B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive under this section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
 
@@ -50,7 +50,7 @@
 
 (f) The member's right to incentive payments shall not be transferable, except that the member may designate beneficiaries to receive the payments in the event of the member's death.
 
-(g) Subject to subsection (h), payments under this provision shall be paid from appropriationsavailable to the Department of Defense and the Department of Homeland Security for the Coast Guard.
+(g) Subject to subsection (h), payments under this provision shall be paid from appropriations available to the Department of Defense and the Department of Homeland Security for the Coast Guard.
 
 (h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
 
@@ -94,17 +94,15 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of title 37, United States Code, which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (j). Pub. L. 112–81 substituted “474” for “404” and substituted “476” for “406” in two places. See Codification note above.
+<b>2013</b>—Subsec. (j). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2009</b>—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read asfollows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
+<b>2011</b>—Subsec. (j). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
+
+<b>2009</b>—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted fromeach payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
 <b>2008</b>—Subsec. (h)(4). Pub. L. 110–181 struck out “Retirement” before “Board of Actuaries”.
 
@@ -152,6 +150,10 @@ Subsec. (e)(6). Pub. L. 102–484, §4406(b), struck out par. (6) which read as 
 
 Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–32 applicable to any repayments of separation pay, severance pay, readjustment pay, special separation benefit, or voluntary separation incentive, that occur on or after June 24, 2009, including any ongoing repayment actions that were initiated prior to such amendment, see section 318(c) of Pub. L. 111–32, set out as a note under section 1174 of this title.
@@ -176,7 +178,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 Amendment by section 4405(b) of Pub. L. 102–484 applicable as if included in this section as enacted Dec. 5, 1991, with any benefits or services payable by reason of applicability of that amendment during the period beginning Dec. 5, 1991, and ending Oct. 23, 1992, to be subject to availability of appropriations, see section 4405(c) of Pub. L. 102–484, set out as a note under section 1174a of this title.
 
-Section 4406(c) of Pub. L. 102–484 provided that: “The amendments to section 1175 of title 10, United States Code, made by subsections (a) and (b) shall apply as if included in section 1175 of title 10, United States Code, as enacted on December 5, 1991.”
+Pub. L. 102–484, div. D, title XLIV, §4406(c), Oct. 23, 1992, 106 Stat. 2707, provided that: “The amendments to section 1175 of title 10, United States Code, made by subsections (a) and (b) shall apply as if included in section 1175 of title 10, United States Code, as enacted on December 5, 1991.”
 
 #### Payment of Incentives From Voluntary Separation Incentive Fund
 
@@ -198,5 +200,5 @@ For provisions reducing, with certain exceptions, amounts received under this se
 
 #### Tax Treatment of Incentive Payment
 
-Section 662(b) of Pub. L. 102–190 provided that: “Notwithstanding the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
+Pub. L. 102–190, div. A, title VI, §662(b), Dec. 5, 1991, 105 Stat. 1398, provided that: “Notwithstanding the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
 

@@ -7,10 +7,13 @@
 | [653\.](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md) | Minimum service requirement for certain flight crew positions. |
 | \[654. | Repealed.\] |
 | [655\.](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md) | Designation of persons having interest in status of a missing member. |
+| [656\.](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan.md) | Diversity in military leadership: plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
 
 <b>2010</b>—Pub. L. 111–321, §2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
 
@@ -42,3 +45,4 @@ Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provide
 - [&sect; 00653 - Minimum service requirement for certain flight crew positions](%C2%A7%2000653%20-%20Minimum%20service%20requirement%20for%20certain%20flight%20crew%20positions.md)
 - [&sect; 00654 - Repealed. Pub. L. 111&#8211;321, &sect;2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516](%C2%A7%2000654%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93321%2C%20%C2%A72%28f%29%281%29%28A%29%2C%20Dec.%2022%2C%202010%2C%20124%20Stat.%203516.md)
 - [&sect; 00655 - Designation of persons having interest in status of a missing member](%C2%A7%2000655%20-%20Designation%20of%20persons%20having%20interest%20in%20status%20of%20a%20missing%20member.md)
+- [&sect; 00656 - Diversity in military leadership plan](%C2%A7%2000656%20-%20Diversity%20in%20military%20leadership%20plan.md)

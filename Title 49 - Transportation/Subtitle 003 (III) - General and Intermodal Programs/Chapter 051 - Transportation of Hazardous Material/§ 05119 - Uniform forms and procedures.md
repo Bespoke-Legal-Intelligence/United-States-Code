@@ -18,7 +18,7 @@ Procedure.—The Secretary shall develop a procedure for the working group to em
 
 (e)
 
-Report of Working Group.—Not later than 18 months after the date of enactment ofthis subsection, the working group shall transmit to the Secretary a report containing recommendations for establishing uniform forms and procedures described in subsection (b).
+Report of Working Group.—Not later than 18 months after the date of enactment of this subsection, the working group shall transmit to the Secretary a report containing recommendations for establishing uniform forms and procedures described in subsection (b).
 
 (f)
 

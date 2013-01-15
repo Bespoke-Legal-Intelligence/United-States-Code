@@ -46,5 +46,29 @@ Offices redesignated.—The following offices within the Department of Defense a
 
 “(3)
 
-References.—Any reference in any law, regulation, document, paper, or other record of the UnitedStates to a position or office redesignated by paragraph (1) or (2) shall be deemed to be a reference to the position or office as so redesignated.”
+References.—Any reference in any law, regulation, document, paper, or other record of the United States to a position or office redesignated by paragraph (1) or (2) shall be deemed to be a reference to the position or office as so redesignated.”
+
+#### Role of the Directors of Small Business Programs in Acquisition Processes of the Department of Defense
+
+Pub. L. 112–239, div. A, title XVI, §1611, Jan. 2, 2013, 126 Stat. 2063, provided that:
+
+“(a)
+
+Guidance Required.—The Secretary of Defense shall develop and issue guidance to ensure that the head of each Office of Small Business Programs of the Department of Defense is a participant as early as practicable in the acquisition processes—
+
+&emsp;“(1) of the Department, in the case of the Director of Small Business Programs in the Department of Defense; and
+
+&emsp;“(2) of the military department concerned, in the case of the Director of Small Business Programs in the Department of the Army, in the Department of the Navy, and in the Department of the Air Force.
+
+“(b)
+
+Matters To Be Included.—Such guidance shall, at a minimum—
+
+&emsp;“(1) require the Director of Small Business Programs in the Department of Defense—
+
+&emsp;&emsp;“(A) to provide advice to the Defense Acquisition Board; and
+
+&emsp;&emsp;“(B) to provide advice to the Information Technology Acquisition Board; and
+
+&emsp;“(2) require coordination between the chiefs of staff of the Armed Forces and the service acquisition executives, as appropriate (or their designees), and the Director of Small Business Programs in each military department as early as practical in the relevant acquisition processes.”
 

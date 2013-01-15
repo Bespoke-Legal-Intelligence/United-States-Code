@@ -16,7 +16,7 @@ Each recipient of a grant or other payment made under this chapter shall keep su
 
 #### (3) Mandatory audit
 
-&emsp;In addition to audits conducted pursuant to paragraph (1), all funds provided under this chapter shall be subject to mandatory audit bythe Comptroller General at least once during the lifetime of the program involved. For purposes of an audit under this paragraph, the Comptroller General shall have access to books, documents, papers, and records of recipients of funds in the same manner as the office making the grant or payment involved has access to such books, documents, papers, and records under paragraph (1).
+&emsp;In addition to audits conducted pursuant to paragraph (1), all funds provided under this chapter shall be subject to mandatory audit by the Comptroller General at least once during the lifetime of the program involved. For purposes of an audit under this paragraph, the Comptroller General shall have access to books, documents, papers, and records of recipients of funds in the same manner as the office making the grant or payment involved has access to such books, documents, papers, and records under paragraph (1).
 
 #### (4) Special rule for payments by General Services Administration
 

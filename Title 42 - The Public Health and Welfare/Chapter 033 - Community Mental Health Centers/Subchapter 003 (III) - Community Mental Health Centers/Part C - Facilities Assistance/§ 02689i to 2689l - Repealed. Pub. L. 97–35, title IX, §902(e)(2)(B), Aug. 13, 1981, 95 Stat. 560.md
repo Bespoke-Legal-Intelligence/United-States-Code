@@ -12,11 +12,11 @@ Section 2689k, Pub. L. 88–164, title II, §223, as added Pub. L. 94–63, titl
 
 A prior section 223 of Pub. L. 88–164, title II, was classified to section 2688c of this title.
 
-Section 2689<i>l</i>, Pub. L. 88–164, title II, §224, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326, related to judicial review of projects.
+Section 2689l, Pub. L. 88–164, title II, §224, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326, related to judicial review of projects.
 
 A prior section 224 of Pub. L. 88–164, title II, was classified to section 2688d of this title.
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238<i>l</i> of this title.
+Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.
 

@@ -206,7 +206,7 @@ Treatment of certain facilities.—All of the incarceration facilities within th
 
 #### Criminal Alien Tracking Center
 
-Section 130002 of Pub. L. 103–322, as amended by Pub. L. 104–132, title IV, §432, Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–208, div. C, title III, §§308(g)(5)(B), 326, 327, Sept. 30, 1996, 110 Stat. 3009–623, 3009–630, provided that:
+Pub. L. 103–322, title XIII, §130002, Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–132, title IV, §432, Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–208, div. C, title III, §§308(g)(5)(B), 326, 327, Sept. 30, 1996, 110 Stat. 3009–623, 3009–630, provided that:
 
 “(a)
 

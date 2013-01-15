@@ -102,13 +102,13 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(A) the claims have been submitted to the State agencies not later than 60 days after the last day of the month for which the reimbursement is claimed; and
 
-&emsp;(B) the final program operations report for the month is submitted to the Secretary not later than 90 days after the last day of the month.
+&emsp;(B) the final program operations report for the month is submitted to the Secretary notlater than 90 days after the last day of the month.
 
 (2) The Secretary may waive the requirements of paragraph (1) at the discretion of the Secretary.
 
 #### (k) Repealed. Pub. L. 111–296, title IV, §441(a)(4), Dec. 13, 2010, 124 Stat. 3261
 
-#### (<i>l</i>) Waiver of statutory and regulatory requirements
+#### (l) Waiver of statutory and regulatory requirements
 
 (1)(A) Except as provided in paragraph (4), the Secretary may waive any requirement under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or any regulation issued under either this chapter or such Act, for a State or eligible service provider that requests a waiver if—
 
@@ -198,7 +198,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds made available under paragraph (4), the Secretaryshall provide technical assistance and training to States, State agencies, schools, and school food authorities in the procurement of goods and services for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)).
+&emsp;Subject to the availability of funds made available under paragraph (4), the Secretary shall provide technical assistance and training to States, State agencies, schools, and school food authorities in the procurement of goods and services for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)).
 
 #### (2) Buy American training
 
@@ -244,7 +244,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;Paragraph (2)(A) shall apply to a school food authority in the Commonwealth of Puerto Rico with respect to domestic commodities or products that are produced in the Commonwealth of Puerto Rico in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
-#### (<i>o</i>) Procurement contracts
+#### (o) Procurement contracts
 
 In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
 
@@ -352,7 +352,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 Any school, institution, service institution, facility, or individual that has been terminated from any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and is on a list of disqualified institutions and individuals under section 1761 of this title or section 1766(d)(5)(E) of this title may not be approved to participate in or administer any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13,2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996,110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261.)
 
 #### References in Text
 
@@ -362,15 +362,15 @@ The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–1
 
 The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (l)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (<i>l</i>)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (<i>l</i>)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (l)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (<i>l</i>)(4)(M)(v), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (l)(4)(M)(v), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (<i>l</i>)(4)(M)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (l)(4)(M)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Codification
 
@@ -414,7 +414,7 @@ Subsec. (m)(3), (5). Pub. L. 105–336, §104(c), substituted “2003” for “
 
 Subsec. (n). Pub. L. 105–336, §104(d), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 105–336, §104(e), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 105–336, §104(e), added subsec. (o).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193, §705(a), substituted “be available at any reasonable time” for “at all times be available”.
 
@@ -428,7 +428,7 @@ Subsec. (d)(2). Pub. L. 104–193, §705(c)(3), redesignated par. (7) as (2). Fo
 
 Subsec. (d)(3). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “ ‘Participation rate’ for a State means a number equal to the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the fiscal year beginning two years immediately prior to the fiscal year for which the Federal funds are appropriated by schools participating in the program under this chapter in the State, as determined by the Secretary.”
 
-Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the averageannual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
+Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shallbe determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
 
 Subsec. (d)(5). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5). Former par. (5) redesignated (3).
 
@@ -458,7 +458,7 @@ Subsec. (k)(3), (4). Pub. L. 104–193, §705(e)(2), redesignated pars. (3) and 
 
 Subsec. (k)(5). Pub. L. 104–193, §705(e)(1), struck out par. (5) which read as follows: “The final regulations shall reflect comments made at each phase of the proposed rulemaking process, including the public meeting required under paragraph (2).”
 
-Subsec. (<i>l</i>)(2)(A)(iii) to (vii). Pub. L. 104–193, §705(f)(1), struck out “and” at end of cl. (iii), substituted period for semicolon at end of cl. (iv), and struck out cls. (v) to (vii) which read as follows:
+Subsec. (l)(2)(A)(iii) to (vii). Pub. L. 104–193, §705(f)(1), struck out “and” at end of cl. (iii), substituted period for semicolon at end of cl. (iv), and struck out cls. (v) to (vii) which read as follows:
 
 “(v) describes the management goals to be achieved, such as fewer hours devoted to, or fewer number of personnel involved in, the administration of the program;
 
@@ -466,7 +466,7 @@ Subsec. (<i>l</i>)(2)(A)(iii) to (vii). Pub. L. 104–193, §705(f)(1), struck o
 
 “(vii) describes the process the State or eligible service provider will use to monitor the progress in implementing the waiver, including the process for monitoring the cost implications of the waiver to the Federal Government.”
 
-Subsec. (<i>l</i>)(3). Pub. L. 104–193, §705(f)(2), designated subpar. (A) as par. (3) and struck out subpars. (B) to (D) which read as follows:
+Subsec. (l)(3). Pub. L. 104–193, §705(f)(2), designated subpar. (A) as par. (3) and struck out subpars. (B) to (D) which read as follows:
 
 “(B) If the Secretary grants a waiver request, the Secretary shall state in writing the expected outcome of granting the waiver.
 
@@ -476,17 +476,17 @@ Subsec. (<i>l</i>)(3). Pub. L. 104–193, §705(f)(2), designated subpar. (A) as
 
 “(ii) The Secretary may extend the period if the Secretary determines that the waiver has been effective in enabling the State or eligible service provider to carry out the purposes of the program.”
 
-Subsec. (<i>l</i>)(4). Pub. L. 104–193, §705(f)(3)(A), substituted “that increases Federal costs or that relates to” for “of any requirement relating to” in introductory provisions.
+Subsec. (l)(4). Pub. L. 104–193, §705(f)(3)(A), substituted “that increases Federal costs or that relates to” for “of any requirement relating to” in introductory provisions.
 
-Subsec. (<i>l</i>)(4)(D) to (K). Pub. L. 104–193, §705(f)(3)(B), (C), redesignated subpars. (E) to (L) as (D) to (K), respectively, and struck out former subpar. (D) which read as follows: “offer versus serve provisions;”.
+Subsec. (l)(4)(D) to (K). Pub. L. 104–193, §705(f)(3)(B), (C), redesignated subpars. (E) to (L) as (D) to (K), respectively, and struck out former subpar. (D) which read as follows: “offer versus serve provisions;”.
 
-Subsec. (<i>l</i>)(4)(L). Pub. L. 104–193, §705(f)(3)(D), substituted “or” for “and” at end.
+Subsec. (l)(4)(L). Pub. L. 104–193, §705(f)(3)(D), substituted “or” for “and” at end.
 
 Pub. L. 104–193, §705(f)(3)(C), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
 
-Subsec. (<i>l</i>)(4)(M), (N). Pub. L. 104–193, §705(f)(3)(C), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
+Subsec. (l)(4)(M), (N). Pub. L. 104–193, §705(f)(3)(C), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
 
-Subsec. (<i>l</i>)(6). Pub. L. 104–193, §705(f)(4), struck out subpar. (A) and designation of subpar. (B) and redesignated cls. (i) to (iv) of former subpar. (B) as subpars. (A) to (D). Prior to amendment, subpar. (A) read as follows:
+Subsec. (l)(6). Pub. L. 104–193, §705(f)(4), struck out subpar. (A) and designation of subpar. (B) and redesignated cls. (i) to (iv) of former subpar. (B) as subpars. (A) to (D). Prior to amendment, subpar. (A) read as follows:
 
 “(A)(i) An eligible service provider that receives a waiver under this subsection shall annually submit to the State a report that—
 
@@ -514,7 +514,7 @@ Subsec. (i). Pub. L. 101–147, §306(b)(4), struck out “(42 U.S.C. 1771 et se
 
 Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by Pub. L. 99–500 and 99–591, §326, and Pub. L. 99–661, §4206, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
-<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘School’ means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages andhomes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term ‘nonprofit’, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
+<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘School’ means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term ‘nonprofit’, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
 <b>1986</b>—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
@@ -584,27 +584,27 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1994 Amendment
 
-Section 112(a)(2) of Pub. L. 103–448 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1995.”
+Pub. L. 103–448, title I, §112(a)(2), Nov. 2, 1994, 108 Stat. 4708, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1995.”
 
 Amendment by sections 112(b)–(d) and 113 of Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Section 101(c) of Pub. L. 100–71 provided that: “The amendments made by subsections (a) and (b) \[amending sections 1760 and 1784 of this title\] shall take effect on July 1, 1987.”
+Pub. L. 100–71, title I, §101(c), July 11, 1987, 101 Stat. 430, provided that: “The amendments made by subsections (a) and (b) \[amending sections 1760 and 1784 of this title\] shall take effect on July 1, 1987.”
 
 #### Effective Date of 1986 Amendments
 
-Section 4205(c) of Pub. L. 99–661 provided that:
+Pub. L. 99–661, div. D, title II, §4205(c), Nov. 14, 1986, 100 Stat. 4073, provided that:
 
 “(1) The amendments made by subsections (a)(1) and (b)(1) \[amending sections 1760 and 1784 of this title\] shall apply for the fiscal year beginning on October 1, 1986, and each school year thereafter.
 
 “(2) The amendments made by subsections (a)(2) and (b)(2) \[amending sections 1760 and 1784 of this title\] shall apply for the school year beginning on July 1, 1988, and each school year thereafter.”
 
-Section 325(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that: “The amendments made by this section \[amending sections 1760 and 1784 of this title\] shall take effect July 1, 1987.”
+Pub. L. 99–500, title III, §325(c), Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §325(c), Oct. 30, 1986, 100 Stat. 3341–365, provided that: “The amendments made by this section \[amending sections 1760 and 1784 of this title\] shall take effect July 1, 1987.”
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 ofPub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -612,7 +612,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 19 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
+Pub. L. 95–166, §19, Nov. 10, 1977, 91 Stat. 1345, provided that the amendment made by that section is effective July 1, 1977.
 
 #### Effective Date of 1962 Amendment
 
@@ -624,5 +624,5 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 
 #### Study of Cost Accounting Requirements
 
-Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

@@ -20,7 +20,7 @@ In making a decision under this section, the Secretary shall consider, in additi
 
 &emsp;(4) whether failure to assert such a claim will adversely affect the operation of the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy.
 
-(Pub. L. 99–661, div. C, title I, §3131, Nov. 14, 1986, 100 Stat. 4062; Pub. L. 100–180, div. C, title III, §3135(a), Dec. 4, 1987, 101 Stat. 1240.)
+(Pub. L. 99–661, div. C, title I, §3131, Nov. 14, 1986, 100 Stat. 4062; Pub. L. 100–180, div. C, title I, §3135(a), Dec. 4, 1987, 101 Stat. 1240.)
 
 #### Codification
 
@@ -32,5 +32,5 @@ Section was enacted as part of the Department of Energy National Security and Mi
 
 #### Effective Date of 1987 Amendment
 
-Section 3135(b) of Pub. L. 100–180 provided that: “Paragraphs (2) and (3) of section 3131(a) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1987 \[subsec. (a)(2), (3) of this section\] (as added by subsection (a)) shall apply with respect to waiver requests submitted by contractors under that section after March 1, 1988.”
+Pub. L. 100–180, div. C, title I, §3135(b), Dec. 4, 1987, 101 Stat. 1241, provided that: “Paragraphs (2) and (3) of section 3131(a) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1987 \[subsec. (a)(2), (3) of this section\] (as added by subsection (a)) shall apply with respect to waiver requests submitted by contractors under that section after March 1, 1988.”
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Restriction on Use of Funds.—Funds available to the Department of Defense may not be used to perform abortions except where the life of the mother would be endangered if the fetus were carried to term.
+Restriction on Use of Funds.—Funds available to the Department of Defense may not be used to perform abortions except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
 
 (b)
 
 Restriction on Use of Facilities.—No medical treatment facility or other facility of the Department of Defense may be used to perform an abortion except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
 
-(Added Pub. L. 98–525, title XIV, §1401(e)(5)(A), Oct. 19, 1984, 98 Stat. 2617; amended Pub. L. 104–106, div. A, title VII, §738(a), (b)(1), Feb. 10, 1996, 110 Stat. 383.)
+(Added Pub. L. 98–525, title XIV, §1401(e)(5)(A), Oct. 19, 1984, 98 Stat. 2617; amended Pub. L. 104–106, div. A, title VII, §738(a), (b)(1), Feb. 10, 1996, 110 Stat. 383; Pub. L. 112–239, div. A, title VII, §704, Jan. 2, 2013, 126 Stat. 1800.)
 
 #### Prior Provisions
 
@@ -29,6 +29,8 @@ Pub. L. 96–154, title VII, §762, Dec. 21, 1979, 93 Stat. 1162.
 Pub. L. 95–457, title VIII, §863, Oct. 13, 1978, 92 Stat. 1254.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted “or in a case in which the pregnancy is the result of an act of rape or incest” before period at end.
 
 <b>1996</b>—Pub. L. 104–106, §738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
 

@@ -6,7 +6,7 @@ Section 2, R.S. §517, provided for appointment of a Commissioner of Education t
 
 #### Effective Date of Repeal
 
-Section 301(b)(2)(A) of Pub. L. 92–318 provided that the repeal is effective July 1, 1972.
+Pub. L. 92–318, title III, §301(b)(2)(A), June 23, 1972, 86 Stat. 332, provided that the repeal is effective July 1, 1972.
 
 #### Executive Order No. 11185
 

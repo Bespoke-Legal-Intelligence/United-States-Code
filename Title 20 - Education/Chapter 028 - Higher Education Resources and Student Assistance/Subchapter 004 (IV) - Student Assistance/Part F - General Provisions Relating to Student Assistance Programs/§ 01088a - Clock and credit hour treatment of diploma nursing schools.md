@@ -32,5 +32,5 @@ Section 1088g, Pub. L. 89–329, title IV, §498, as added Pub. L. 92–318, tit
 
 #### Effective Date
 
-Section 360(b) of Pub. L. 103–382 provided that: “Subsection (a) \[enacting this section\] and the amendment made by subsection (a) shall take effect on July 1, 1994.”
+Pub. L. 103–382, title III, §360(b), Oct. 20, 1994, 108 Stat. 3969, provided that: “Subsection (a) \[enacting this section\] and the amendment made by subsection (a) shall take effect on July 1, 1994.”
 

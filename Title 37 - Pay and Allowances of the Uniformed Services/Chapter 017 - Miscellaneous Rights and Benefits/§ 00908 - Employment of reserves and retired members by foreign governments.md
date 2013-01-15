@@ -2,7 +2,7 @@
 
 (a)
 
-Congressional Consent.—Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
+Congressional Consent.—Subject to subsection (b), Congress consents to the followingpersons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
 &emsp;(1) Retired members of the uniformed services.
 

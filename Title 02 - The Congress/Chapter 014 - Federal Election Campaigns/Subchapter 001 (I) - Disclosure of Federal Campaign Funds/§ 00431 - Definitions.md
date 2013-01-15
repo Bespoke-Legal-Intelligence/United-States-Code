@@ -26,7 +26,7 @@ When used in this Act:
 
 &emsp;(B) any separate segregated fund established under the provisions of section 441b(b) of this title; or
 
-&emsp;(C) any local committee of a political party which receives contributions aggregating in excess of $5,000 during a calendar year, ormakes payments exempted from the definition of contribution or expenditure as defined in paragraphs (8) and (9) aggregating in excess of $5,000 during a calendar year, or makes contributions aggregating in excess of $1,000 during a calendar year or makes expenditures aggregating in excess of $1,000 during a calendar year.
+&emsp;(C) any local committee of a political party which receives contributions aggregating in excess of $5,000 during a calendar year, or makes payments exempted from the definition of contribution or expenditure as defined in paragraphs (8) and (9) aggregating in excess of $5,000 during a calendar year, or makes contributions aggregating in excess of $1,000 during a calendar year or makes expenditures aggregating in excess of $1,000 during a calendar year.
 
 (5) The term “principal campaign committee” means a political committee designated and authorized by a candidate under section 432(e)(1) of this title.
 
@@ -48,7 +48,7 @@ When used in this Act:
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf ofany candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(v) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to any cost incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -92,7 +92,7 @@ When used in this Act:
 
 &emsp;(xiii) any honorarium (within the meaning of section 441i of this title); and
 
-&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
+&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card,home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term “expenditure” includes—
 
@@ -188,7 +188,7 @@ In general.—The term “Federal election activity” means—
 
 &emsp;&emsp;(ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election in which a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
 
-&emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned oridentified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
+&emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
 
 &emsp;&emsp;(iv) services provided during any month by an employee of a State, district, or local committee of a political party who spends more than 25 percent of that individual's compensated time during that month on activities in connection with a Federal election.
 
@@ -286,7 +286,7 @@ Subsec. (f)(4). Pub. L. 94–283, §§102(f), 115(d)(2), inserted provisions in 
 
 Subsec. (n). Pub. L. 94–283, §115(h), substituted “section 432(e) (1) of this title” for “section 432(f)(1) of this title”.
 
-Subsec. (<i>o</i>) to (q). Pub. L. 94–283, §102(g)(3), added subsecs. (<i>o</i>) to (q).
+Subsec. (o) to (q). Pub. L. 94–283, §102(g)(3), added subsecs. (o) to (q).
 
 <b>1974</b>—Pub. L. 93–443, §201(a) (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
 
@@ -328,7 +328,7 @@ Severability; effective dates and regulations; judicial review.—Title IV \[ena
 
 &emsp;“(4)
 
-Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(b)\] (as added by section 101(a)), section 103(a) \[amending section 434 of this title\], title II \[amending this section and sections 434, 441a, and 441b of this title and enacting provisions set out as notes under sections 434 and 441a of this title\], sections 304 \[amending this section and sections 434 and 441a of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[2 U.S.C. 441a(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 441d of this title\], 316 \[amending section 441a of this title\], 318 \[enacting section 441k of this title\], and 319 \[enacting section 441a–1 of this title and amending section 441a of this title\], and title V \[enacting section 438a of this title and amending section 434 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
+Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(b)\] (as added by section 101(a)), section 103(a) \[amending section 434 of this title\], title II \[amending this section and sections 434, 441a, and 441b of this title and enacting provisions set out as notes under sections 434 and 441a of this title\], sections 304 \[amending this section and sections 434 and 441a of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[2 U.S.C. 441a(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telecommunications, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 441d of this title\], 316 \[amending section 441a of this title\], 318 \[enacting section 441k of this title\], and 319 \[enacting section 441a–1 of this title and amending section 441a of this title\], and title V \[enacting section 438a of this title and amending section 434 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
 
 “(b)
 
@@ -384,7 +384,7 @@ Pub. L. 106–346, §101(a) \[title V, §502(d)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Effective Date of 1980 Amendment
 
-Section 301 of Pub. L. 96–187 provided that:
+Pub. L. 96–187, title III, §301, Jan. 8, 1980, 93 Stat. 1368, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1980 Amendment note set out below\] are effective upon enactment \[Jan. 8, 1980\].
 
@@ -392,39 +392,39 @@ Section 301 of Pub. L. 96–187 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Section 410 of Pub. L. 93–443 provided that:
+Pub. L. 93–443, title IV, §410, Oct. 15, 1974, 88 Stat. 1304, provided that:
 
-“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions set out as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
+“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telecommunications, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions set out as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
 
 “(b) Section 104 \[set out as a note under section 591 of Title 18\] and the amendment made by section 301 \[amending section 453 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 15, 1974\].
 
-“(c)(1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042, amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012, and repealing section 9021 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1974.
+“(c)(1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042,amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012, and repealing section 9021 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1974.
 
 “(2) The amendment made by section 407 \[amending section 6012 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
 #### Effective Date
 
-Section 408, formerly §406, of Pub. L. 92–225 as renumbered Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289, provided that: “Except as provided in section 401 of this Act \[section 451 of this title\], the provisions of this Act \[see Short Title note set out below\] shall become effective on December 31, 1971, or sixty days after the date of enactment of this Act \[Feb. 7, 1972\], whichever is later.”
+Pub. L. 92–225, title IV, §406, Feb. 7, 1972, 86 Stat. 20, renumbered §408, Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289, provided that: “Except as provided in section 401 of this Act \[section 451 of this title\], the provisions of this Act \[see Short Title note set out below\] shall become effective on December 31, 1971, or sixty days after the date of enactment of this Act \[Feb. 7, 1972\], whichever is later.”
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81, provided that: “This Act \[enacting sections 438a, 439a, 441a–1, 441i, and 441k of this title and section 510 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending this section, sections 434, 437g, 441a, 441b, 441d, 441e, 441h, 453, and 455 of this title, section 607 of Title 18, Crimes and Criminal Procedure, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, transferring section 510 of Title 36 to section 511 of Title 36, repealing section 439a of this title, enacting provisions set out as notes under this section, sections 434, 437g, 437h, 441a, 454, and 455 of this title, and section 315 of Title 47, and amending provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Bipartisan Campaign Reform Act of 2002’.”
+Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81, provided that: “This Act \[enacting sections 438a, 439a, 441a–1, 441i, and 441k of this title and section 510 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending this section, sections 434, 437g, 441a, 441b, 441d, 441e, 441h, 453, and 455 of this title, section 607 of Title 18, Crimes and Criminal Procedure, and section 315 of Title 47, Telecommunications, transferring section 510 of Title 36 to section 511 of Title 36, repealing section 439a of this title, enacting provisions set out as notes under this section, sections 434, 437g, 437h, 441a, 454, and 455 of this title, and section 315 of Title 47, and amending provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Bipartisan Campaign Reform Act of 2002’.”
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–187 provided: “That this Act \[amending this section and sections 432 to 434, 437, 437c, 437d, 437f to 439a, 439c, 441a to 441i of this title, section 3132 of Title 5, Government Organization and Employees, sections 602, 603, and 607 of Title 18, Crimes and Criminal Procedure, section 901a of Title 22, Foreign Relations and Intercourse, section 9008 of Title 26, Internal Revenue Code, and section 5043 of Title 42, The Public Health and Welfare; repealing sections 435, 436, 437b, 437e, 439b, and 441j of this title and section 591 of Title 18; and enacting provisions set out as notes under this section\] may be cited as the ‘Federal Election Campaign Act Amendments of 1979’.”
+Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: “That this Act \[amending this section and sections 432 to 434, 437, 437c, 437d, 437f to 439a, 439c, 441a to 441i of this title, section 3132 of Title 5, Government Organization and Employees, sections 602, 603, and 607 of Title 18, Crimes and Criminal Procedure, section 901a of Title 22, Foreign Relations and Intercourse, section 9008 of Title 26, Internal Revenue Code, and section 5043 of Title 42, The Public Health and Welfare; repealing sections 435, 436, 437b, 437e, 439b, and 441j of this title and section 591 of Title 18; and enacting provisions set out as notes under this section\] may be cited as the ‘Federal Election Campaign Act Amendments of 1979’.”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and 455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
+Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475, provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and 455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–443 provided: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47;and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
+Pub. L. 93–443, Oct. 15, 1974, 88 Stat. 1263, provided in part: “That this Act \[enacting sections 437a to 437h, 439a to 439c, 455, and 456 of this title, sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code; amending this section and sections 432 to 437, 438, 439 and 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, 9002 to 9012 of Title 26, and section 315 of Title 47, Telecommunications; repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47; and enacting provisions set out as notes under this section and sections 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1974’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 92–225 provided: “That this Act \[enacting this chapter and chapter 7 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 591, 600, 608, 610, and 611 of Title 18, Crimes and Criminal Procedure, and sections 312 and 315 of Title 47, repealing sections 241 to 256 of this title and section 609 of Title 18, and enacting provisions set out as notes under this section and section 801 of Title 47\] may be cited as the ‘Federal Election Campaign Act of 1971’.”
+Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, provided in part: “That this Act \[enacting this chapter and chapter 7 of Title 47, Telecommunications, amending sections 591, 600, 608, 610, and 611 of Title 18, Crimes and Criminal Procedure, and sections 312 and 315 of Title 47, repealing sections 241 to 256 of this title and section 609 of Title 18, and enacting provisions set out as notes under this section and section 801 of Title 47\] may be cited as the ‘Federal Election Campaign Act of 1971’.”
 
 #### Transfer of Functions
 
@@ -432,7 +432,7 @@ Federal Savings and Loan Insurance Corporation abolished and functions transferr
 
 #### Transition Provisions
 
-Section 303 of Pub. L. 96–187 provided that:
+Pub. L. 96–187, title III, §303, Jan. 8, 1980, 93 Stat. 1368, provided that:
 
 “(a) The Federal Election Commission shall transmit to the Congress proposed rules and regulations necessary for the purpose of implementing the provisions of this Act, and the amendments made by this Act \[see Short Title of 1980 Amendment note set out above\], prior to February 29, 1980.
 
@@ -482,5 +482,5 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Mar. 2
 
 #### Voting System Study; Report to Congress; Cost of Study
 
-Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
+Pub. L. 96–187, title III, §302, Jan. 8, 1980, 93 Stat. 1368, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
 

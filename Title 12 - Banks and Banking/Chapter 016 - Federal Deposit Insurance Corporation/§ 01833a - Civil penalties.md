@@ -46,7 +46,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (1) In general
 
-&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceeding under this section, the Attorney General may—
+&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceedingunder this section, the Attorney General may—
 
 &emsp;&emsp;(A) administer oaths and affirmations;
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1994 Amendment
 
-Section 330003(g) of Pub. L. 103–322 provided that the amendment made by that section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141, provided that the amendment made by that section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
 
 <i><sup>1</sup></i><i> See 1990 Amendment note below.</i>
 

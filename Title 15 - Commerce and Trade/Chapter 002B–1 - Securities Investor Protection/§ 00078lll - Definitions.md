@@ -38,13 +38,13 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “customer property” means cash and securities (except customer name securities delivered to the customer) at any time received, acquired, or held by or for the account of a debtor from or for the securities accounts of a customer, and the proceeds of any such property transferred by the debtor, including property unlawfully converted. The term “customer property” includes—
 
-&emsp;&emsp;(A) securities held as property of the debtor to the extent that the inability of the debtor to meet its obligations to customers for their net equity claims based on securities of the same class and series of an issuer is attributable to the debtor's noncompliance with the requirements of section 78<i>o</i>(c)(3) of this title and the rules prescribed under such section;
+&emsp;&emsp;(A) securities held as property of the debtor to the extent that the inability of the debtor to meet its obligations to customers for their net equity claims based on securities of the same class and series of an issuer is attributable to the debtor's noncompliance with the requirements of section 78o(c)(3) of this title and the rules prescribed under such section;
 
 &emsp;&emsp;(B) resources provided through the use or realization of customers’ debit cash balances and other customer-related debit items as defined by the Commission by rule;
 
 &emsp;&emsp;(C) any cash or securities apportioned to customer property pursuant to section 78fff(d) of this title;
 
-&emsp;&emsp;(D) in the case of a portfolio margining account of a customer that is carried as a securities account pursuant to a portfolio margining program approved by the Commission, a futures contract or an option on a futures contract received, acquired, or held byor for the account of a debtor from or for such portfolio margining account, and the proceeds thereof; and
+&emsp;&emsp;(D) in the case of a portfolio margining account of a customer that is carried as a securities account pursuant to a portfolio margining program approved by the Commission, a futures contract or an option on a futures contract received, acquired, or held by or for the account of a debtor from or for such portfolio margining account, and the proceeds thereof; and
 
 &emsp;&emsp;(E) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines that including such property within the meaning of such term would not significantly increase customer property.
 
@@ -122,7 +122,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (12) Persons registered as brokers or dealers
 
-&emsp;The term “persons registered as brokers or dealers” includes any person who is a member of a national securities exchange other than a government securities broker or government securities dealer registered under section 78<i>o</i>–5(a)(1)(A) of this title.
+&emsp;The term “persons registered as brokers or dealers” includes any person who is a member of a national securities exchange other than a government securities broker or government securities dealer registered under section 78o–5(a)(1)(A) of this title.
 
 #### (13) Protective decree
 
@@ -132,7 +132,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(<i>o</i>), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
+(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
 
 #### References in Text
 
@@ -150,23 +150,23 @@ Par. (4)(D), (E). Pub. L. 111–203, §983(b)(2), added subpar. (D) and redesign
 
 Par. (9). Pub. L. 111–203, §983(b)(3), in concluding provisions, inserted “includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term” before “does not include”.
 
-Par. (11). Pub. L. 111–203, §983(b)(4)(B), in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
+Par. (11). Pub. L. 111–203, §983(b)(4)(B), in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claimwith respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
 
 Par. (11)(A). Pub. L. 111–203, §983(b)(4)(A), substituted “by sale or purchase on the filing date—” for “by sale or purchase on the filing date, all securities positions of such customer (other than customer name securities reclaimed by such customer); minus” and added cls. (i) and (ii).
 
 <b>2000</b>—Par. (14). Pub. L. 106–554 inserted “or any security future as that term is defined in section 78c(a)(55)(A) of this title,” after “certificate of deposit for a security,”.
 
-<b>1987</b>—Par. (12). Pub. L. 100–181 inserted “other than a government securities broker or government securities dealer registered under section 78<i>o</i>–5(a)(1)(A) of this title”.
+<b>1987</b>—Par. (12). Pub. L. 100–181 inserted “other than a government securities broker or government securities dealer registered under section 78o–5(a)(1)(A) of this title”.
 
 <b>1982</b>—Par. (14). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “the Securities Act of 1933 \[15 U.S.C.A. §77a et seq.\]),” and substituted “Except as specifically provided above, the term ‘security’ does not include” for “The term ‘security’ does not include”.
 
-<b>1978</b>—Par. (1). Pub. L. 95–598, §308(<i>o</i>)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
+<b>1978</b>—Par. (1). Pub. L. 95–598, §308(o)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
 
-Pars. (2) to (6). Pub. L. 95–598, §309(<i>o</i>)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
+Pars. (2) to (6). Pub. L. 95–598, §309(o)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
 
-Par. (7). Pub. L. 95–598, §308(<i>o</i>)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 95–598, §308(o)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
 
-Pars. (8) to (15). Pub. L. 95–598, §308(<i>o</i>)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
+Pars. (8) to (15). Pub. L. 95–598, §308(o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
 Pub. L. 95–283 in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted “Bankruptcy Act” for “Self-regulatory organization”, and in text substituted provisions defining such terms, in par. (2) heading substituted “Commission” for “Financial responsibility rules”, and in text substituted provisions defining such terms, in par. (3) heading substituted “Customer” for “Examining authority”, and in text substituted provisions defining such terms, and added pars. (4) to (15).
 

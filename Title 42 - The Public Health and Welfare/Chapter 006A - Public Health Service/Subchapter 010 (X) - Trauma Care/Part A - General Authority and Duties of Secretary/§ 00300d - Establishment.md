@@ -44,7 +44,7 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 #### Congressional Statement of Findings
 
-Section 2 of Pub. L. 101–590 provided that: “The Congress finds that—
+Pub. L. 101–590, §2, Nov. 16, 1990, 104 Stat. 2915, provided that: “The Congress finds that—
 
 &emsp;“(1) the Federal Government and the governments of the States have established a history of cooperation in the development, implementation, and monitoring of integrated, comprehensive systems for the provision of emergency medical services throughout the United States;
 

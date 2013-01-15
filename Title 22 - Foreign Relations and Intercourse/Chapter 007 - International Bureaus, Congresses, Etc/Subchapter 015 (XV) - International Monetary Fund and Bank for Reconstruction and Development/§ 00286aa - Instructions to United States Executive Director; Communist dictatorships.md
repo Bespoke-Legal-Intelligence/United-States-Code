@@ -10,7 +10,7 @@ The Congress hereby finds that Communist dictatorships result in severe constrai
 
 > Should the Secretary not meet a request to appear before the aforementioned committees at least twenty-one days in advance of any vote on any facility involving use of Fund credit by any communist dictatorship and certify and document in writing that these three conditions have been met, the United States Executive Director shall vote against such program.
 
-(July 31, 1945, ch. 339, §43, as added Pub. L. 98–181, title VIII, §804, Nov. 30, 1983, 97 Stat. 1270; amended Pub. L. 103–149, §4(b)(6), Nov. 23, 1993, 107 Stat. 1505.)
+(July 31, 1945, ch. 339, §43, as added Pub. L. 98–181, title I \[title VIII, §804\], Nov. 30, 1983, 97 Stat. 1270; amended Pub. L. 103–149, §4(b)(6), Nov. 23, 1993, 107 Stat. 1505.)
 
 #### Amendments
 

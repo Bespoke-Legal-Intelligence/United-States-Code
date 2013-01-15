@@ -146,7 +146,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: “Congress 
 
 &emsp;“(2) It is estimated that 121,000,000 children worldwide do not attend school and that the majority of such children are young girls. According to the United Nations Children's Fund (UNICEF), orphans are less likely to be in school and more likely to be working full time.
 
-&emsp;“(3) School food programs, including take-home rations, in developing countries provide strong incentives for children to remain in school and continue their education. School food programs can reduce short-term hunger, improve cognitive functions, and enhance learning, behavior, and achievement.
+&emsp;“(3) School food programs, including take-home rations, in developing countries provide strong incentives for children to remain in school and continuetheir education. School food programs can reduce short-term hunger, improve cognitive functions, and enhance learning, behavior, and achievement.
 
 &emsp;“(4) Financial barriers, such as school fees and other costs of education, prevent many orphans and other vulnerable children in developing countries from attending school. Providing children with free primary school education, while simultaneously ensuring that adequate resources exist for teacher training and infrastructure, would help more orphans and other vulnerable children obtain a quality education.
 

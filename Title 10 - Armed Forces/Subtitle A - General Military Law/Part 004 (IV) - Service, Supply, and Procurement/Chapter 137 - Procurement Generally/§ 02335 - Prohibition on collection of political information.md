@@ -6,7 +6,7 @@ Prohibition on Requiring Submission of Political Information.—The head of an a
 
 &emsp;(1) as part of a solicitation, request for bid, request for proposal, or any other form of communication designed to solicit offers in connection with the award of a contract for procurement of property or services; or
 
-&emsp;(2) during the course of contract performance as part of the process associated withmodifying a contract or exercising a contract option.
+&emsp;(2) during the course of contract performance as part of the process associated with modifying a contract or exercising a contract option.
 
 (b)
 

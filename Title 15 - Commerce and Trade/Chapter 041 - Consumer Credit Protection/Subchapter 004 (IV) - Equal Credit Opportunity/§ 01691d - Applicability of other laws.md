@@ -28,7 +28,7 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 The Bureau shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of section 1691e of this title.
 
-(Pub. L. 90–321, title VII, §705, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1523;amended Pub. L. 94–239, §5, Mar. 23, 1976, 90 Stat. 253; Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, §705, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1523; amended Pub. L. 94–239, §5, Mar. 23, 1976, 90 Stat. 253; Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
 
 #### Amendments
 

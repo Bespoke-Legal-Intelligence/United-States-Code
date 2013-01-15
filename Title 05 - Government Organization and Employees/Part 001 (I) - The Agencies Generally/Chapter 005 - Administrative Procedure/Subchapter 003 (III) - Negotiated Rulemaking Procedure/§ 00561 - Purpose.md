@@ -10,19 +10,19 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 #### Effective Date of Repeal; Savings Provision
 
-Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, §11(a), Oct. 19, 1996, 110 Stat. 3873.
+Pub. L. 101–648, §5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding tosuch subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, §11(a), Oct. 19, 1996, 110 Stat. 3873.
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–354 provided that: “This Act \[amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title\] may be cited as the ‘Administrative Procedure Technical Amendments Act of 1991’.”
+Pub. L. 102–354, §1, Aug. 26, 1992, 106 Stat. 944, provided that: “This Act \[amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title\] may be cited as the ‘Administrative Procedure Technical Amendments Act of 1991’.”
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–648 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Negotiated Rulemaking Act of 1990’.”
+Pub. L. 101–648, §1, Nov. 29, 1990, 104 Stat. 4969, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Negotiated Rulemaking Act of 1990’.”
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 101–648 provided that: “The Congress makes the following findings:
+Pub. L. 101–648, §2, Nov. 29, 1990, 104 Stat. 4969, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) Government regulation has increased substantially since the enactment of the Administrative Procedure Act \[see Short Title note set out preceding section 551 of this title\].
 
@@ -38,5 +38,5 @@ Section 2 of Pub. L. 101–648 provided that: “The Congress makes the followin
 
 #### Authorization of Appropriations
 
-Section 4 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(1), Aug. 26, 1992, 106 Stat. 945, authorized additional appropriations to Administrative Conference of the United States to carry out Pub. L. 101–648 in fiscal years 1991, 1992, and 1993.
+Pub. L. 101–648, §4, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, §5(a)(1), Aug. 26, 1992, 106 Stat. 945, authorized additional appropriations to Administrative Conference of the United States to carry out Pub. L. 101–648 in fiscal years 1991, 1992, and 1993.
 

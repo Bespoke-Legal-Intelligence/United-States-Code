@@ -12,5 +12,5 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) As a part of its annual report, and at such times as it may consider desirable, the Fund should publish its evaluation of the trend and volume of international lending as it affects the economic situation of lenders, borrowers, and the smooth functioning of the international monetary system.
 
-(July 31, 1945, ch. 339, §47, as added Pub. L. 98–181, title VIII, §809, Nov. 30, 1983, 97 Stat. 1274.)
+(July 31, 1945, ch. 339, §47, as added Pub. L. 98–181, title I \[title VIII, §809\], Nov. 30, 1983, 97 Stat. 1274.)
 

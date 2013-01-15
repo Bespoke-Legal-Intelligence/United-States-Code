@@ -40,7 +40,7 @@ The Institute is empowered to award grants and enter into cooperative agreements
 
 &emsp;&emsp;(D) private agencies with expertise in judicial administration.
 
-&emsp;(3) Upon application by an appropriate State or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperativeagreement or contract with a unit of State or local government other than a court.
+&emsp;(3) Upon application by an appropriate State or local agency or institution and if the arrangements to be made by such agency or institution will provide services which could not be provided adequately through nongovernmental arrangements, the Institute may award a grant or enter into a cooperative agreement or contract with a unit of State or local government other than a court.
 
 &emsp;(4) The Institute may enter into contracts with Federal agencies to carry out the purposes of this chapter.
 
@@ -52,7 +52,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(1) to assist State and local court systems in establishing appropriate procedures for the selection and removal of judges and other court personnel and in determining appropriate levels of compensation;
 
-&emsp;(2) to support education and training programs for judges and other court personnel, for the performance of their general duties and for specialized functions, and to support national and regional conferences and seminars for the dissemination of information on new developments and innovative techniques;
+&emsp;(2) to support education and training programs for judges and other court personnel, for the performance of their general duties andfor specialized functions, and to support national and regional conferences and seminars for the dissemination of information on new developments and innovative techniques;
 
 &emsp;(3) to conduct research on alternative means for using judicial and nonjudicial personnel in court decisionmaking activities, to implement demonstration programs to test innovative approaches, and to conduct evaluations of their effectiveness;
 

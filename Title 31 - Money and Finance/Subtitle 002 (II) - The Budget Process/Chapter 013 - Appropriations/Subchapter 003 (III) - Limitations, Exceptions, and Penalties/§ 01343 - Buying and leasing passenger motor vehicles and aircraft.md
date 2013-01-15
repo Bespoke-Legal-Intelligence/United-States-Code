@@ -34,7 +34,7 @@
 
 &emsp;(2) buying, maintaining, and repairing vehicles necessary to carry out projects to improve, preserve, and protect rivers and harbors; or
 
-&emsp;(3) leasing, maintaining, repairing, or operating motor passenger vehicles necessary inthe field work of the Department of Agriculture.
+&emsp;(3) leasing, maintaining, repairing, or operating motor passenger vehicles necessary in the field work of the Department of Agriculture.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924.)
 

@@ -12,7 +12,7 @@ It is the purpose of this chapter to prohibit discrimination on the basis of age
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
+Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272, title XIV, Apr. 7, 1986, 100 Stat. 329.
 
 #### Effective Date of 1978 Amendment
 

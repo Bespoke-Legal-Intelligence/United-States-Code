@@ -2,37 +2,71 @@
 
 #### (a) Establishment and availability
 
-The Director shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) of this section and shall be available, to the extent provided in appropriation Acts, for providing assistance under section 4104c of this title.
+The Administrator shall establish in the Treasury of the United States a fund to be known as the National Flood Mitigation Fund, which shall be credited with amounts described in subsection (b) of this section and shall be available, to the extent provided in appropriation Acts, for providing assistance under section 4104c of this title.
 
 #### (b) Credits
 
 The National Flood Mitigation Fund shall be credited with—
 
-&emsp;(1) in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;
+&emsp;(1) in each fiscal year, amounts from the National Flood Insurance Fund not to exceed $90,000,000 and to remain available until expended, of which—
+
+&emsp;&emsp;(A) not more than $40,000,000 shall be available pursuant to subsection (a) of this section for assistance described in section 4104c(a)(1) of this title;
+
+&emsp;&emsp;(B) not more than $40,000,000 shall be available pursuant to subsection (a) of this section for assistance described in section 4104c(a)(2) of this title; and
+
+&emsp;&emsp;(C) not more than $10,000,000 shall be available pursuant to subsection (a) of this section for assistance described in section 4104c(a)(3) of this title;
 
 &emsp;(2) any penalties collected under section 4012a(f) of this title; and
 
-&emsp;(3) any amounts recaptured under section 4104c(i) of this title.
+&emsp;(3) any amounts recaptured under section 4104c(e) of this title.
 
 #### (c) Administrative expenses
 
-The Director may use not more than 5 percent of amounts made available under subsection (b) of this section to cover salaries, expenses, and other administrative costs incurred by the Director to make grants and provide assistance under sections 4104c and 4030 of this title.
+The Administrator may use not more than 5 percent of amounts made available under subsection (b) of this section to cover salaries, expenses, and other administrative costs incurred by the Administrator to make grants and provide assistance under section 4104c of this title.
 
-#### (d) Investment
+#### (d) Prohibition on offsetting collections
 
-If the Director determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Director may invest any excess amounts the Director determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+Notwithstanding any other provision of this chapter, amounts made available pursuant to this section shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.
 
-#### (e) Report
+#### (e) Continued availability and reallocation
 
-The Director shall submit a report to the Congress not later than the expiration of the 1-year period beginning on September 23, 1994, and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.
+Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsection (b)(1) that are not used in any fiscal year shall continue to be available for the purposes specified in the subparagraph of subsection (b)(1) pursuant to which such amounts were made available, unless the Administrator determines that reallocation of such unused amounts to meet demonstrated need for other mitigation activities under section 4104c of this title is in the best interest of the National Flood Insurance Fund.
 
-(Pub. L. 90–448, title XIII, §1367, as added Pub. L. 103–325, title V, §554(a), Sept. 23, 1994, 108 Stat. 2273; amended Pub. L. 108–264, title I, §103(d), June 30, 2004, 118 Stat. 721.)
+#### (f) Investment
+
+If the Administrator determines that the amounts in the National Flood Mitigation Fundare in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+
+#### (g) Report
+
+The Administrator shall submit a report to the Congress not later than the expiration of the 1-year period beginning on September 23, 1994, and not less than once during each successive 2-year period thereafter. The report shall describe the status of the Fund and any activities carried out with amounts from the Fund.
+
+(Pub. L. 90–448, title XIII, §1367, as added Pub. L. 103–325, title V, §554(a), Sept. 23, 1994, 108 Stat. 2273; amended Pub. L. 108–264, title I, §103(d), June 30, 2004, 118 Stat. 721; Pub. L. 112–141, div. F, title II, §§100225(e), 100238(b)(1), July 6, 2012, 126 Stat. 941, 958.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (d), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-September 23, 1994, referred to in subsec. (e), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
+September 23, 1994, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b)(1). Pub. L. 112–141, §100225(e)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “in each fiscal year, amounts from the National Flood Insurance Fund not exceeding $40,000,000, to remain available until expended;”.
+
+Subsec. (b)(3). Pub. L. 112–141, §100225(e)(1)(B), substituted “section 4104c(e)” for “section 4104c(i)”.
+
+Subsec. (c). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+
+Pub. L. 112–141, §100225(e)(2), substituted “section 4104c” for “sections 4104c and 4030”.
+
+Subsecs. (d), (e). Pub. L. 112–141, §100225(e)(4), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+
+Subsecs. (f), (g). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+
+Pub. L. 112–141, §100225(e)(3), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
 <b>2004</b>—Subsec. (b)(1). Pub. L 108–264, §103(d)(1), added par. (1) and struck out former par. (1) which read as follows: “amounts from the National Flood Insurance Fund, in amounts not exceeding—
 

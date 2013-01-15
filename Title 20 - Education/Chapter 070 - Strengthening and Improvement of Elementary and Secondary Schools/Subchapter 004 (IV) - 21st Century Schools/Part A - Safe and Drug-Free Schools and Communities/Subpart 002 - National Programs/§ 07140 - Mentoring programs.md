@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(I) information on the training that will be provided to mentors; and
 
-&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitor information relating to the mentoring program's—
+&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitorinformation relating to the mentoring program's—
 
 &emsp;&emsp;&emsp;(i) reference checks;
 

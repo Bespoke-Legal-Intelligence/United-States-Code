@@ -72,7 +72,7 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 The Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 
-(Dec. 23, 1913, ch. 6, §19(<i>l</i>), formerly §19(j), as added Pub. L. 95–630, title I, §102, Nov. 10, 1978, 92 Stat. 3642; renumbered §19(<i>l</i>), Pub. L. 96–221, title I, §105(f), Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 97–320, title IV, §424(a), (d)(2), (e), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §907(h), Aug. 9, 1989, 103 Stat. 472.)
+(Dec. 23, 1913, ch. 6, §19(l), formerly §19(j), as added Pub. L. 95–630, title I, §102, Nov. 10, 1978, 92 Stat. 3642; renumbered §19(l), Pub. L. 96–221, title I, §105(f), Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 97–320, title IV, §424(a), (d)(2), (e), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §907(h), Aug. 9, 1989, 103 Stat. 472.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Par. (4). Pub. L. 97–320, §424(e), substituted “twenty days from the servic
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 

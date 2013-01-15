@@ -18,7 +18,7 @@ Subject to valid existing rights, Federal lands and interests therein, within th
 
 #### (e) Grazing
 
-Subject to such limitations, conditions, or regulations as he may prescribe, the Secretary may permit grazing on lands within the park to the same extent as was permitted on such landsas of July 1, 1985. Grazing within the park shall be administered by the National Park Service.
+Subject to such limitations, conditions, or regulations as he may prescribe, the Secretary may permit grazing on lands within the park to the same extent as was permitted on such lands as of July 1, 1985. Grazing within the park shall be administered by the National Park Service.
 
 #### (f) Exchange of park grazing allotment for grazing allotment outside park
 

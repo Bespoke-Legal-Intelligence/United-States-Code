@@ -8,7 +8,7 @@ If—
 
 &emsp;(2) the portion of the recovery received in money is less than 25 percent of the amount of such recovery (as defined in section 1351(c)) and is not greater than the tax attributable to such recovery,
 
-> the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If anelection is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
+> the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If an election is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
 
 #### (b) Extension permitted by Secretary
 

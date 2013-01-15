@@ -36,7 +36,7 @@ The Board shall issue a notice of disapproval with respect to a notice submitted
 
 #### (f) Definition regulations
 
-The Board shall prescribe by regulation a definition for the terms “troubled condition” and“senior executive officer” for purposes of subsection (a) of this section.
+The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
 
 (June 26, 1934, ch. 750, title II, §212, as added Pub. L. 101–73, title IX, §914(b), Aug. 9, 1989, 103 Stat. 485.)
 

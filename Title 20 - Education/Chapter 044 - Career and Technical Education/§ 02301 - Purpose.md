@@ -38,7 +38,7 @@ Pub. L. 105–332, §1(a), Oct. 31, 1998, 112 Stat. 3076, provided that: “This
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990’.”
+Pub. L. 101–392, §1(a), Sept. 25, 1990, 104 Stat. 753, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990’.”
 
 #### Short Title of 1968 Amendment
 
@@ -52,5 +52,5 @@ Pub. L. 88–210, title II, §201, as added by Pub. L. 105–332, §1(b), Oct. 3
 
 #### Vocational Education Policy
 
-Section 6 of Pub. L. 98–524 provided that: “It is the sense of the Congress that effective vocational education programs are essential to our future as a free and democratic society; that such programs are best administered by local communities, and community colleges school boards, where the primacy of parental control can be emphasized with a minimum of Federal interference; and that as a means to strengthening vocational education and training programs, nongovernmental alternatives promoting links between public school needs and private sector sources of support should be encouraged and implemented.”
+Pub. L. 98–524, §6, Oct. 19, 1984, 98 Stat. 2491, provided that: “It is the sense of the Congress that effective vocational education programs are essential to our future as a free and democratic society; that such programs are best administered by local communities, and community colleges school boards, where the primacy of parental control can be emphasized with a minimum of Federal interference; and that as a means to strengthening vocational education and training programs, nongovernmental alternatives promoting links between public school needs and private sector sources of support should be encouraged and implemented.”
 

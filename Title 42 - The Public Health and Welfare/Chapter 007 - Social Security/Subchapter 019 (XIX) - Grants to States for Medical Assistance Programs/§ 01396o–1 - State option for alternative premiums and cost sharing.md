@@ -4,17 +4,17 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 1396<i>o</i> and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option and through a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g), (i), or (j) of section 1396<i>o</i> of this title.
+&emsp;Notwithstanding sections 1396o and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option and through a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g), (i), or (j) of section 1396o of this title.
 
 #### (2) Exemption for individuals with family income not exceeding 100 percent of the poverty line
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) and subsection (d) shall not apply, and sections 1396<i>o</i> and 1396a(a)(10)(B) of this title shall continue to apply, in the case of an individual whose family income does not exceed 100 percent of the poverty line applicable to a family of the size involved.
+&emsp;&emsp;Paragraph (1) and subsection (d) shall not apply, and sections 1396o and 1396a(a)(10)(B) of this title shall continue to apply, in the case of an individual whose family income does not exceed 100 percent of the poverty line applicable to a family of the size involved.
 
 #### (B) Limit on aggregate cost sharing
 
-&emsp;&emsp;To the extent cost sharing under subsections (c) and (e) or under section 1396<i>o</i> of this title is imposed against individuals described in subparagraph (A), the limitation under subsection (b)(1)(B)(ii) on the total aggregate amount of cost sharing shall apply to such cost sharing for all individuals in a family described in subparagraph (A) in the same manner as such limitations apply to cost sharing and families described in subsection (b)(1)(B)(ii).
+&emsp;&emsp;To the extent cost sharing under subsections (c) and (e) or under section 1396o of this title is imposed against individuals described in subparagraph (A), the limitation under subsection (b)(1)(B)(ii) on the total aggregate amount of cost sharing shall apply to such cost sharing for all individuals in a family described in subparagraph (A) in the same manner as such limitations apply to cost sharing and families described in subsection (b)(1)(B)(ii).
 
 #### (3) Definitions
 
@@ -46,7 +46,7 @@
 
 &emsp;In the case of an individual whose family income exceeds 150 percent of the poverty line applicable to a family of the size involved—
 
-&emsp;&emsp;(A) the total aggregate amount of premiums and cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percentof the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State); and
+&emsp;&emsp;(A) the total aggregate amount of premiums and cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percent of the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State); and
 
 &emsp;&emsp;(B) with respect to cost sharing, the cost sharing imposed with respect to any item or service under subsection (a) may not exceed 20 percent of the cost of such item or service.
 
@@ -56,11 +56,11 @@
 
 &emsp;&emsp;No premiums shall be imposed under this section with respect to the following:
 
-&emsp;&emsp;&emsp;(i) Individuals under 18 years of age that are required to be provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including individuals with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care and individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+&emsp;&emsp;&emsp;(i) Individuals under 18 years of age that are required to be provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including individuals with respect to whom child welfare services aremade available under part B of subchapter IV on the basis of being a child in foster care and individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
 
 &emsp;&emsp;&emsp;(ii) Pregnant women.
 
-&emsp;&emsp;&emsp;(iii) Any terminally ill individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title).
+&emsp;&emsp;&emsp;(iii) Any terminally ill individual who is receiving hospice care (as defined in section 1396d(o) of this title).
 
 &emsp;&emsp;&emsp;(iv) Any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of the individual's income required for personal needs.
 
@@ -80,11 +80,11 @@
 
 &emsp;&emsp;&emsp;(iii) Services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title).
 
-&emsp;&emsp;&emsp;(iv) Services furnished to a terminally ill individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title).
+&emsp;&emsp;&emsp;(iv) Services furnished to a terminally ill individual who is receiving hospice care (as defined in section 1396d(o) of this title).
 
 &emsp;&emsp;&emsp;(v) Services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of the individual's income required for personal needs.
 
-&emsp;&emsp;&emsp;(vi) Emergency services (as defined by the Secretary for purposes of section 1396<i>o</i>(a)(2)(D) of this title).
+&emsp;&emsp;&emsp;(vi) Emergency services (as defined by the Secretary for purposes of section 1396o(a)(2)(D) of this title).
 
 &emsp;&emsp;&emsp;(vii) Family planning services and supplies described in section 1396d(a)(4)(C) of this title.
 
@@ -122,7 +122,7 @@
 
 &emsp;In order to encourage beneficiaries to use drugs (in this subsection referred to as “preferred drugs”) identified by the State as the most (or more) cost effective prescription drugs within a class of drugs (as defined by the State), with respect to one or more groups of beneficiaries specified by the State, subject to paragraph (2), the State may—
 
-&emsp;&emsp;(A) provide cost sharing (instead of the level of cost sharing otherwise permitted under section 1396<i>o</i> of this title, but subject to paragraphs (2) and (3)) with respect to drugs that are not preferred drugs within a class; and
+&emsp;&emsp;(A) provide cost sharing (instead of the level of cost sharing otherwise permitted under section 1396o of this title, but subject to paragraphs (2) and (3)) with respect to drugs that are not preferred drugs within a class; and
 
 &emsp;&emsp;(B) waive or reduce the cost sharing otherwise applicable for preferred drugs within such class and shall not apply any such cost sharing for such preferred drugs for individuals for whom cost sharing may not be imposed under subsection (a) due to the application of subsection (b)(3)(B).
 
@@ -132,13 +132,13 @@
 
 &emsp;&emsp;In no case may the cost sharing under paragraph (1)(A) with respect to a non-preferred drug exceed—
 
-&emsp;&emsp;&emsp;(i) in the case of an individual whose family income does not exceed 150 percent of the poverty line applicable to a family of the size involved, the amount of nominal cost sharing (as otherwise determined under section 1396<i>o</i> of this title); or
+&emsp;&emsp;&emsp;(i) in the case of an individual whose family income does not exceed 150 percent of the poverty line applicable to a family of the size involved, the amount of nominal cost sharing (as otherwise determined under section 1396o of this title); or
 
 &emsp;&emsp;&emsp;(ii) in the case of an individual whose family income exceeds 150 percent of the poverty line applicable to a family of the size involved, 20 percent of the cost of the drug.
 
 #### (B) Limitation to nominal for exempt populations
 
-&emsp;&emsp;In the case of an individual who is not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B), any cost sharing under paragraph (1)(A) with respect to a non-preferred drug may not exceed a nominal amount (as otherwise determined under section 1396<i>o</i> of this title).
+&emsp;&emsp;In the case of an individual who is not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B), any cost sharing under paragraph (1)(A) with respect to a non-preferred drug may not exceed a nominal amount (as otherwise determined under section 1396o of this title).
 
 #### (C) Continued application of aggregate cap
 
@@ -156,21 +156,21 @@
 
 #### (1) Premiums
 
-&emsp;Notwithstanding section 1396<i>o</i>(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium but shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
+&emsp;Notwithstanding section 1396o(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium but shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
 #### (2) Cost sharing
 
-&emsp;Notwithstanding section 1396<i>o</i>(e) of this title or any other provision of law, a State may permit a provider participating under the State plan to require, as a condition for the provision of care, items, or services to an individual entitled to medical assistance under this subchapter for such care, items, or services, the payment of any cost sharing authorized to be imposed under this section with respect to such care, items, or services. Nothing in this paragraph shall be construed as preventing a provider from reducing or waiving the application of such cost sharing on a case-by-case basis.
+&emsp;Notwithstanding section 1396o(e) of this title or any other provision of law, a State may permit a provider participating under the State plan to require, as a condition for the provision of care, items, or services to an individual entitled to medical assistance under this subchapter for such care, items, or services, the payment of any cost sharing authorized to be imposed under this section with respect to such care, items, or services. Nothing in this paragraph shall be construed as preventing a provider from reducing or waiving the application of such cost sharing on a case-by-case basis.
 
 #### (e) State option for permitting hospitals to impose cost sharing for non-emergency care furnished in an emergency department
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1396<i>o</i> of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose cost sharing for non-emergency services furnishedto an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
+&emsp;Notwithstanding section 1396o of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose cost sharing for non-emergency services furnished to an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
 
 #### (A) Access to non-emergency room provider
 
-&emsp;&emsp;The individual has actually available and accessible (as such terms are applied by the Secretary under section 1396<i>o</i>(b)(3) of this title) an alternate non-emergency services provider with respect to such services.
+&emsp;&emsp;The individual has actually available and accessible (as such terms are applied by the Secretary under section 1396o(b)(3) of this title) an alternate non-emergency services provider with respect to such services.
 
 #### (B) Notice
 
@@ -190,15 +190,15 @@
 
 #### (A) Individuals with family income between 100 and 150 percent of the poverty line
 
-&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal under section 1396<i>o</i> of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
+&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal under section 1396o of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
 
 #### (B) Application to exempt populations
 
-&emsp;&emsp;In the case of an individual described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1), a State may impose cost sharing under paragraph (1) for care in an amount that does not exceed a nominal amount (as otherwise determined under section 1396<i>o</i> of this title) so long as no cost sharing is imposed to receive such care through an outpatient department or other alternative health care provider in the geographic area of the hospital emergency department involved.
+&emsp;&emsp;In the case of an individual described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1), a State may impose cost sharing under paragraph (1) for care in an amount that does not exceed a nominal amount (as otherwise determined under section 1396o of this title) so long as no cost sharing is imposed to receive such care through an outpatient department or other alternative health care provider in the geographic area of the hospital emergency department involved.
 
 #### (C) Continued application of aggregate cap; relation to other cost sharing
 
-&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or (2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396<i>o</i> of this title.
+&emsp;&emsp;In addition to the limitations imposed under subparagraphs (A) and (B), any cost sharing under paragraph (1) is subject to the aggregate cap on cost sharing applied under subsection (a)(2)(B) or under paragraph (1) or (2) of subsection (b), as the case may be. Cost sharing imposed for services under this subsection shall be instead of any cost sharing that may be imposed for such services under subsection (a) or section 1396o of this title.
 
 #### (3) Construction
 
@@ -232,7 +232,7 @@ Subsec. (b)(3)(B)(iii). Pub. L. 111–148, §4107(c)(2), inserted “, and coun
 
 Subsec. (b)(3)(B)(x). Pub. L. 111–5, §5006(a)(2)(B), added cl. (x).
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted “subsection (g) or (i) of section 1396<i>o</i>” for “section 1396<i>o</i>(g)” in second sentence.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted “subsection (g) or (i) of section 1396o” for “section 1396o(g)” in second sentence.
 
 Pub. L. 109–432, §405(a)(1)(A), inserted “but subject to paragraph (2),” after “1396a(a)(10)(B) of this title,” and “and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)” after “subsection (c)”.
 
@@ -244,7 +244,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 109–432, §405(a)(4)(A), substituted “child we
 
 Subsec. (b)(3)(A)(vi). Pub. L. 109–432, §405(a)(3)(B)(i), added cl. (vi).
 
-Subsec. (b)(3)(B)(i). Pub. L. 109–432, §405(a)(4)(B), substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
+Subsec. (b)(3)(B)(i). Pub. L. 109–432, §405(a)(4)(B), substituted “child welfare services are made available under part B of subchapter IV on the basis of being achild in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
 
 Subsec. (b)(3)(B)(ix). Pub. L. 109–432, §405(a)(3)(B)(ii), added cl. (ix).
 
@@ -266,7 +266,7 @@ Pub. L. 109–432, §405(a)(1)(E), inserted “who is not described in subparagr
 
 Subsec. (e)(2)(B). Pub. L. 109–432, §405(a)(2)(F), substituted “described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)” for “who is otherwise not subject to cost sharing under subsection (b)(3)”.
 
-Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted “or section 1396<i>o</i> of this title” after “subsection (a)”.
+Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted “or section 1396o of this title” after “subsection (a)”.
 
 Pub. L. 109–432, §405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
 
@@ -292,7 +292,7 @@ Amendment by section 6043(a) of Pub. L. 109–171 applicable to non-emergency se
 
 #### Effective Date
 
-Section applicable to cost sharing imposed for items and services furnished on or after Mar. 31, 2006, see section 6041(c) of Pub. L. 109–171, set out as an Effective Date of 2006 Amendment note under section 1396<i>o</i> of this title.
+Section applicable to cost sharing imposed for items and services furnished on or after Mar. 31, 2006, see section 6041(c) of Pub. L. 109–171, set out as an Effective Date of 2006 Amendment note under section 1396o of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -22,15 +22,33 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
 
-&emsp;(D) if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) <sup>2</sup> and shall not depend upon the date of execution of a grant agreement made under this subchapter;
+&emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
+
+&emsp;&emsp;(i) the cost was incurred before execution of the grant agreement because the airport has a shortened construction season due to climactic conditions in the vicinity of the airport;
+
+&emsp;&emsp;(ii) the cost is in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after execution of the grant agreement, including submission of a complete grant application to the appropriate regional or district office of the Federal Aviation Administration;
+
+&emsp;&emsp;(iii) the sponsor notifies the Secretary before authorizing work to commence on the project;
+
+&emsp;&emsp;(iv) the sponsor has an alternative funding source available to fund the project; and
+
+&emsp;&emsp;(v) the sponsor's decision to proceed with the project in advance of execution of the grant agreement does not affect the priority assigned to the project by the Secretary for the allocation of discretionary funds;
 
 &emsp;(3) to the extent the cost is reasonable in amount;
 
 &emsp;(4) if the cost is not incurred in a project for airport development or airport planning for which other Government assistance has been granted;
 
-&emsp;(5) if the total costs allowed for the project are not more than the amount stated in the grant agreement as the maximum the Government will pay (except as provided in section 47108(b) of this title); and
+&emsp;(5) if the total costs allowed for the project are not more than the amount stated in the grant agreement as the maximum the Government will pay (except as provided in section 47108(b) of this title);
 
-&emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles andground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary.
+&emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles and ground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary; and
+
+&emsp;(7) if the cost is incurred on a measure to improve the efficiency of an airport building (such as a measure designed to meet one or more of the criteria for being considered a high-performance green building as set forth under section 401(13) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17061(13))) and—
+
+&emsp;&emsp;(A) the measure is for a project for airport development;
+
+&emsp;&emsp;(B) the measure is for an airport building that is otherwise eligible for construction assistance under this subchapter; and
+
+&emsp;&emsp;(C) if the measure results in an increase in initial project costs, the increase is justified by expected savings over the life cycle of the project.
 
 (c)
 
@@ -42,25 +60,13 @@ Certain Prior Costs as Allowable Costs.—The Secretary may decide that a projec
 
 (d)
 
-Terminal Development Costs.—(1) The Secretary may decide that the cost of terminal development (including multi-modal terminal development) in a nonrevenue-producing public-use area of a commercial service airport is allowable for an airport development project at the airport—
+Relocation of Airport-Owned Facilities.—The Secretary may determine that the costs of relocating or replacing an airport-owned facility are allowable for an airport development project at an airport only if—
 
-&emsp;(A) if the sponsor certifies that the airport, on the date the grant application is submitted to the Secretary, has—
+&emsp;(1) the Government's share of such costs will be paid with funds apportioned to the airport sponsor under section 47114(c)(1) or 47114(d);
 
-&emsp;&emsp;(i) all the safety equipment required for certification of the airport under section 44706 of this title;
+&emsp;(2) the Secretary determines that the relocation or replacement is required due to a change in the Secretary's design standards; and
 
-&emsp;&emsp;(ii) all the security equipment required by regulation; and
-
-&emsp;&emsp;(iii) provided for access, to the area of the airport for passengers for boarding or exiting aircraft, to those passengers boarding or exiting aircraft, except air carrier aircraft;
-
-&emsp;(B) if the cost is directly related to moving passengers and baggage in air commerce within the airport, including vehicles for moving passengers between terminal facilities and between terminal facilities and aircraft; and
-
-&emsp;(C) under terms necessary to protect the interests of the Government.
-
-(2) In making a decision under paragraph (1) of this subsection, the Secretary may approve as allowable costs the expenses of terminal development in a revenue-producing area and construction, reconstruction, repair, and improvement in a nonrevenue-producing parking lot if—
-
-&emsp;(A) except as provided in section 47108(e)(3), the airport does not have more than .05 percent of the total annual passenger boardings in the United States; and
-
-&emsp;(B) the sponsor certifies that any needed airport development project affecting safety, security, or capacity will not be deferred because of the Secretary's approval.
+&emsp;(3) the Secretary determines that the change is beyond the control of the airport sponsor.
 
 (e)
 
@@ -80,7 +86,7 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 (5)
 
-Letters of intent.—The Secretary may not require an eligible agency to impose a passenger facility fee under section 40117 in order to obtain a letter of intent under this section.
+Letters of intent.—The Secretary may not require an eligible agency to impose a passenger facility charge under section 40117 in order to obtain a letter of intent under this section.
 
 (6)
 
@@ -100,13 +106,21 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 (g)
 
-Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to coverthe Government's share of the cost of the project.
+Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to cover the Government's share of the cost of the project.
 
 (h)
 
-Nonprimary Airports.—The Secretary may decide that the costs of revenue producing aeronautical support facilities, including fuel farms and hangars, are allowable for an airport development project at a nonprimary airport if the Government's share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(d)(3)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
+Nonprimary Airports.—The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government's share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(d)(3)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427.)
+(i)
+
+Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Administration, upon the conclusion of all planned research by the Administration regarding avian radar systems, shall—
+
+&emsp;(1) update Advisory Circular No. 150/5220–25 to specify which systems have been studied; and
+
+&emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25.)
 
 Historical and Revision Notes
 
@@ -189,11 +203,19 @@ The source credits for all of subsection (b) are included for clarity though onl
 
 In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are added for clarity.
 
-#### References in Text
-
-Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (b)(2)(D), were repealed and new subpars. (J), (K), and (L) were added or designated, by Pub. L. 108–176, title I, §159(b)(1), Dec. 12, 2003, 117 Stat. 2510.
-
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2)(D). Pub. L. 112–95, §138(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;”.
+
+Subsec. (b)(7). Pub. L. 112–95, §138(b), added par. (7).
+
+Subsec. (d). Pub. L. 112–95, §138(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to terminal development costs.
+
+Subsec. (e)(5). Pub. L. 112–95, §111(c)(2)(A)(ii), substituted “charge” for “fee”.
+
+Subsec. (h). Pub. L. 112–95, §138(d), inserted “construction” before “costs of revenue producing” and struck out “, including fuel farms and hangars,” before “are allowable”.
+
+Subsec. (i). Pub. L. 112–95, §138(e), added subsec. (i).
 
 <b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–115, which directed amendment of section 47110(d)(2)(A), without specifying the title to be amended, by substituting “(A) except as provided in section 47108(e)(3), the” for “(A) the”, was executed to this section, to reflect the probable intent of Congress.
 
@@ -269,7 +291,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
-Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]:<i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: “The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–143, title III, §320, Oct. 28, 1991, 105 Stat. 942.
 
@@ -280,6 +302,4 @@ Pub. L. 101–164 title III, §326, Nov. 21, 1989, 103 Stat. 1096.
 Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “compatibility”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

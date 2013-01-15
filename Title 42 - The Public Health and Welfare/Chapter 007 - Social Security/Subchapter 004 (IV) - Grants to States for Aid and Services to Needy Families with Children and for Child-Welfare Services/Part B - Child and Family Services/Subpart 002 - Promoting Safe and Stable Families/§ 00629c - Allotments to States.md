@@ -12,7 +12,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (1) In general
 
-&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remainsafter applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
+&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remains after applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
 
 #### (2) Supplemental nutrition assistance program benefits percentage defined
 

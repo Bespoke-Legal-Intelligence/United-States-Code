@@ -96,11 +96,11 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (B) Limitation on reduction
 
-&emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes under part I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
+&emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes underpart I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
 
 #### (3) Data used in determining domestic asset/liability percentages and domestic investment yields
 
-&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurancecompanies for the second preceding taxable year as the Secretary considers appropriate.
+&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
 
 #### (d) Regulations
 
@@ -176,5 +176,5 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Study of United States Reinsurance Industry
 
-Section 1244 of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
+Pub. L. 99–514, title XII, §1244, Oct. 22, 1986, 100 Stat. 2581, directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
 

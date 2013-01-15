@@ -16,7 +16,7 @@
 
 (3) The amount of the loan payment to be disbursed under this subsection for any year with respect to each type of biomass energy produced and sold by an existing municipal waste energy project shall be equal to—
 
-&emsp;(A)(i) the standard support price reduced by the cost of the fuel displaced by the biomass energy sold, or (ii) $2.00, whichever is lower, multiplied by
+&emsp;(A)(i) the standard support price reduced by the cost of the fuel displaced by the biomassenergy sold, or (ii) $2.00, whichever is lower, multiplied by
 
 &emsp;(B) the amount of such biomass energy sold (in millions of Btu's).
 

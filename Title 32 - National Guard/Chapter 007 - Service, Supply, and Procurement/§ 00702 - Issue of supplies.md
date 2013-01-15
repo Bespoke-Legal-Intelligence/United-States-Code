@@ -1,6 +1,6 @@
 ### §702. Issue of supplies
 
-(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force may buy or manufacture and, upon requisition of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or the commanding general of the National Guard of the District of Columbia, issue to its Army National Guardand Air National Guard, respectively, the supplies necessary to uniform, arm, and equip that Army National Guard or Air National Guard for field duty.
+(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force may buy or manufacture and, upon requisition of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or the commanding general of the National Guard of the District of Columbia, issue to its Army National Guard and Air National Guard, respectively, the supplies necessary to uniform, arm, and equip that Army National Guard or Air National Guard for field duty.
 
 (b) Whenever the Secretary concerned is satisfied that the Army National Guard or the Air National Guard, as the case may be, of any State or Territory, Puerto Rico, or the District of Columbia is properly organized, armed, and equipped for field duty, funds allotted to that jurisdiction for its Army National Guard or Air National Guard may be used to buy any article issued by the Army or the Air Force, as the case may be.
 
@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §§83, 84, 39 Stat. 203, 204.
 
-In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment. The words “may buy or manufacture” are substituted for the words “is authorized to procure \* \* \* by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
+In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, andequipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment. The words “may buy or manufacture” are substituted for the words “is authorized to procure \* \* \* by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
 
 In subsection (b), the words “the Secretary concerned is satisfied” are substituted for the words “it shall be shown to the satisfaction of the Secretary of the Army”. The words “buy any article issued by the Army or the Air Force” are substituted for the words “purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army”.
 

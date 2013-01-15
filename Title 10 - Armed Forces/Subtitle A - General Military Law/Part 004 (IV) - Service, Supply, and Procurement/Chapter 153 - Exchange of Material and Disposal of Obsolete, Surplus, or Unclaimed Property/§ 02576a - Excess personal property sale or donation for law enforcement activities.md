@@ -34,5 +34,5 @@ Preference for Certain Transfers.—In considering applications for the transfer
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, §1208, Nov.29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, §1033(b)(1).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, §1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under section 372 of this title, prior to repeal by Pub. L. 104–201, §1033(b)(1).
 

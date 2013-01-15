@@ -4,5 +4,5 @@ Section, Pub. L. 106–58, title VI, §653, Sept. 29, 1999, 113 Stat. 480; Pub. 
 
 #### Effective Date of Repeal
 
-Pub. L. 110–403, title III, §305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record. The Senate confirmed the first Intellectual Property Enforcement Coordinator on Dec. 3, 2009, as reflected in that day's Congressional Record. See 155 Cong. Rec. 178 at S12351, S12353 (daily ed. Dec. 3, 2009).
+Pub. L. 110–403, title III, §305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record. The Senate confirmed the first Intellectual Property Enforcement Coordinator on Dec. 3, 2009, as reflected in that day's Congressional Record. See 155 Cong. Rec. 29389 (2009).
 

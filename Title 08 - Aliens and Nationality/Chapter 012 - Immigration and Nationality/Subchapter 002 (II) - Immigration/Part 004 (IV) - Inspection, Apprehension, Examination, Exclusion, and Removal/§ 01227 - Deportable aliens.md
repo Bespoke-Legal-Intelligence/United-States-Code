@@ -136,11 +136,11 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Domestic violence, stalking, and child abuse
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of a crime of domesticviolence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term “crime of domestic violence” means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual's acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term “crime of domestic violence” means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual's acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
 
 #### (ii) Violators of protection orders
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts\(other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
 
 #### (F) Trafficking
 
@@ -206,7 +206,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An alien whose presence or activities in the United States the Secretary of Statehas reasonable ground to believe would have potentially serious adverse foreign policy consequences for the United States is deportable.
+&emsp;&emsp;&emsp;An alien whose presence or activities in the United States the Secretary of State has reasonable ground to believe would have potentially serious adverse foreign policy consequences for the United States is deportable.
 
 #### (ii) Exceptions
 
@@ -232,7 +232,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (A) In general
 
-&emsp;&emsp;Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+&emsp;&emsp;Any alien who has voted in violation of any Federal, State, or local constitutionalprovision, statute, ordinance, or regulation is deportable.
 
 #### (B) Exception
 
@@ -282,7 +282,7 @@ Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this 
 
 (4) Nothing in this subsection may be construed to limit the authority of the Secretary of Homeland Security or the Attorney General to grant a stay of removal or deportation in any case not described in this subsection.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B),\(d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
 
 #### References in Text
 
@@ -306,7 +306,7 @@ Section was formerly classified to section 1251 of this title prior to renumberi
 
 #### Prior Provisions
 
-A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 Stat. 201; Dec. 29, 1981, Pub. L. 97–116, §7, 95 Stat. 1615; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §206(b)(2)\], as added Oct. 24, 1988, Pub. L. 100–525, §4(b)(4), 102 Stat. 2615; Oct. 24, 1988, Pub. L. 100–525, §9(<i>l</i>), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(2), 104 Stat. 5057; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(B), 105 Stat. 1752; Apr. 24, 1996, Pub. L. 104–132, title IV, §422(b), 110 Stat. 1272; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(5), 110 Stat. 3009–619, related to immediate deportation of aliens excluded from admission or entering in violation of law, prior to repeal by Pub. L. 104–208, div. C, title III, §§305(a)(1), 309, Sept. 30, 1996, 110 Stat. 3009–597, 3009–625, effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996. See section 1231 of this title.
+A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 Stat. 201; Dec. 29, 1981, Pub. L. 97–116, §7, 95 Stat. 1615; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §206(b)(2)\], as added Oct. 24, 1988, Pub. L. 100–525, §4(b)(4), 102 Stat. 2615; Oct. 24, 1988, Pub. L. 100–525, §9(l), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(2), 104 Stat. 5057; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(B), 105 Stat. 1752; Apr. 24, 1996, Pub. L. 104–132, title IV, §422(b), 110 Stat. 1272; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(5), 110 Stat. 3009–619, related to immediate deportation of aliens excluded from admission or entering in violation of law, prior to repeal by Pub. L. 104–208, div. C, title III, §§305(a)(1), 309, Sept. 30, 1996, 110 Stat. 3009–597, 3009–625, effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996. See section 1231 of this title.
 
 #### Amendments
 
@@ -352,7 +352,7 @@ Subsec. (a)(1)(A). Pub. L. 104–208, §§301(d)(3), 308(d)(3)(A), amended subpa
 
 Pub. L. 104–208, §301(d)(2), substituted “Inadmissible” for “Excludable” in subpar. heading.
 
-Subsec. (a)(1)(B). Pub. L. 104–208, §301(d)(4), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Any alien who entered the United States without inspection or at any time or place other than as designated by the Attorney General or is in the United States in violation of this chapter or any other law of the United States is deportable.”
+Subsec. (a)(1)(B). Pub. L. 104–208, §301(d)(4), amended heading and text of subpar. (B) generally. Prior toamendment, text read as follows: “Any alien who entered the United States without inspection or at any time or place other than as designated by the Attorney General or is in the United States in violation of this chapter or any other law of the United States is deportable.”
 
 Subsec. (a)(1)(E)(iii). Pub. L. 104–208, §351(b), inserted “an individual who at the time of the offense was” after “aided only”.
 
@@ -502,7 +502,7 @@ Amendment by Pub. L. 110–340 applicable to offenses committed before, on, or a
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–13, div. B, title I, §105(a)(2), May 11, 2005, 119 Stat. 309, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\], and the amendment, and section 237(a)(4)(B) ofthe Immigration and Nationality Act (8 U.S.C. 1227(a)(4)(B)), as amended by such paragraph, shall apply to—
+Pub. L. 109–13, div. B, title I, §105(a)(2), May 11, 2005, 119 Stat. 309, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\], and the amendment, and section 237(a)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(4)(B)), as amended by such paragraph, shall apply to—
 
 &emsp;“(A) removal proceedings instituted before, on, or after the date of the enactment of this division \[May 11, 2005\]; and
 
@@ -518,7 +518,7 @@ Amendment by section 5501(b) of Pub. L. 108–458 applicable to offenses committ
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) ofPub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -528,21 +528,21 @@ Pub. L. 106–395, title II, §201(c)(3), Oct. 30, 2000, 114 Stat. 1635, provide
 
 Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 308(d)(2)(D) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective Sept. 30, 1996.
+Pub. L. 104–208, div. C, title III, §308(d)(2)(D), Sept. 30, 1996, 110 Stat. 3009–617, provided that the amendment made by section 308(d)(2)(D) is effective Sept. 30, 1996.
 
 Amendment by section 344(b) of Pub. L. 104–208 applicable to representations made on or after Sept. 30, 1996, see section 344(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
 Amendment by section 347(b) of Pub. L. 104–208 applicable to voting occurring before, on, or after Sept. 30, 1996, see section 347(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
-Section 350(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions, or violations of court orders, occurring after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title III, §350(b), Sept. 30, 1996, 110 Stat. 3009–640, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions, or violations of court orders, occurring after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 Amendment by section 351(b) of Pub. L. 104–208 applicable to applications for waivers filed before, on, or after Sept. 30, 1996, but not applicable to such an application for which a final determination has been made as of Sept. 30, 1996, see section 351(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
 Amendment by section 671(a)(4)(B) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 414(b) of Pub. L. 104–132 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title IV, §414(b), Apr. 24, 1996, 110 Stat. 1270, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
-Section 435(b) of Pub. L. 104–132 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to aliens against whom deportation proceedings are initiated after the date of the enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title IV, §435(b), Apr. 24, 1996, 110 Stat. 1275, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to aliens against whom deportation proceedings are initiated after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -554,27 +554,27 @@ Amendment by section 219(g) of Pub. L. 103–416 effective as if included in the
 
 Amendment by sections 302(d)(3), 307(h) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
-Section 307(k) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 602(b) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(k), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(k) is effective as if included in section 602(b) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 153(b)(1) of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
-Section 153(b)(2) of Pub. L. 101–649 provided that the amendment of the subsec. (h) added by section 153(b)(1) of Pub. L. 101–649 is effective on the date the amendments by section 602 of Pub. L. 101–649 become effective. See section 602(d) of Pub. L. 101–649, set out below.
+Pub. L. 101–649, title I, §153(b)(2), Nov. 29, 1990, 104 Stat. 5006, provided that the amendment of subsec. (h) as added by section 153(b)(1) of Pub. L. 101–649 is effective on the date that the amendments made by section 602 of Pub. L. 101–649 become effective. See section 602(d) of Pub. L. 101–649, set out below.
 
-Section 505(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to convictions entered before, on, or after such date.”
+Pub. L. 101–649, title V, §505(b), Nov. 29, 1990, 104 Stat. 5050, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to convictions entered before, on, or after such date.”
 
-Section 508(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §508(b), Nov. 29, 1990, 104 Stat. 5051, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 544(d), formerly (c), of Pub. L. 101–649, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §544(d), formerly §544(c), Nov. 29, 1990, 104 Stat. 5061, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 602(d) of Pub. L. 101–649 provided that: “The amendments made by this section, and by section 603(b) of this Act \[amending this section, sections 1161, 1252, 1253, and 1254 of this title, and section 402 of Title 42, The Public Health and Welfare\], shall not apply to deportation proceedings for which notice has been provided to the alien before March 1, 1991.”
+Pub. L. 101–649, title VI, §602(d), Nov. 29, 1990, 104 Stat. 5082, provided that: “The amendments made by this section, and by section 603(b) of this Act \[amending this section, sections 1161, 1252, 1253, and 1254 of this title, and section 402 of Title 42, The Public Health and Welfare\], shall not apply to deportation proceedings for which notice has been provided to the alien before March 1, 1991.”
 
 #### Effective Date of 1988 Amendments
 
-Section 7344(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
+Pub. L. 100–690, title VII, §7344(b), Nov. 18, 1988, 102 Stat. 4471, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
 
-Section 7348(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any alien convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of possessing any firearm or destructive device referred to in such subsection.”
+Pub. L. 100–690, title VII, §7348(b), Nov. 18, 1988, 102 Stat. 4473, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any alien convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of possessing any firearm or destructive device referred to in such subsection.”
 
 Amendment by section 2(n)(2) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
@@ -602,7 +602,7 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 #### Savings Provision
 
-Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
+Pub. L. 101–649, title VI, §602(c), Nov. 29, 1990, 104 Stat. 5081, provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -610,7 +610,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Criminal Aliens
 
-Section 510 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(8), (9), Dec. 12, 1991, 105 Stat. 1751, provided that the Attorney General was to submit to appropriate Committees of Congress, by not later than Dec. 1, 1991, a report describing efforts of Immigration and Naturalization Service to identify, apprehend, detain, and remove from the United States aliens who have been convicted of crimes in the United States and including a criminal alien census and removal plan.
+Pub. L. 101–649, title V, §510, Nov. 29, 1990, 104 Stat. 5051, as amended by Pub. L. 102–232, title III, §306(a)(8), (9), Dec. 12, 1991, 105 Stat. 1751, provided that the Attorney General was to submit to appropriate Committees of Congress, by not later than Dec. 1, 1991, a report describing efforts of Immigration and Naturalization Service to identify, apprehend, detain, and remove from the United States aliens who have been convicted of crimes in the United States and including a criminal alien census and removal plan.
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

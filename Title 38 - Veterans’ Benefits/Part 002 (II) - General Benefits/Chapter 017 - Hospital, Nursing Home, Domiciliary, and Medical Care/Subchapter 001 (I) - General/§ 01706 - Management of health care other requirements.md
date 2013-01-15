@@ -40,7 +40,7 @@
 
 (4) In carrying out paragraph (1), the Secretary may not use patient outcome data as a substitute for, or the equivalent of, compliance with the requirement under that paragraph for maintenance of capacity.
 
-(5)(A) Not later than April 1 of each year through 2008, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
+(5)(A) Not later than April 1 of each year through 2008, the Secretary shall submit to theCommittees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
 
 (B) In preparing each report under subparagraph (A), the Secretary shall use standardized data and data definitions.
 

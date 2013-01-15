@@ -14,9 +14,9 @@ Certain funds to be administered as a single Indian Revolving Loan Fund after Ap
 
 #### Repeals; Recoupment of Funds Expended for Klamath County School Board
 
-Section 24 of act Aug. 13, 1954, as amended by Pub. L. 85–72, June 29, 1957, 71 Stat. 243, provided that: “All Acts or parts of Acts inconsistent with this Act \[this subchapter\] are hereby repealed insofar as they affect the tribe or its members. Effective on July 1, 1957, section 2 of the Act of August 19, 1949 (63 Stat. 621, ch. 488) shall become inapplicable to the unrecouped balance of funds expended in cooperation with the school board of Klamath County, Oregon, pursuant to said Act.”
+Act Aug. 13, 1954, ch. 732, §24, 68 Stat. 723, as amended by Pub. L. 85–72, June 29, 1957, 71 Stat. 243, provided that: “All Acts or parts of Acts inconsistent with this Act \[this subchapter\] are hereby repealed insofar as they affect the tribe or its members. Effective on July 1, 1957, section 2 of the Act of August 19, 1949 (63 Stat. 621, ch. 488) shall become inapplicable to the unrecouped balance of funds expended in cooperation with the school board of Klamath County, Oregon, pursuant to said Act.”
 
 #### Separability
 
-Section 25 of act Aug. 13, 1954, provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Act Aug. 13, 1954, ch. 732, §25, 68 Stat. 723, provided that: “If any provision of this Act \[this subchapter\], orthe application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

@@ -56,7 +56,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) is not necessary or appropriate in furtherance of this Act or the securities laws; or
 
-&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
+&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding orthe basis on which the sanction was imposed.
 
 #### (d) Censure of the Board; other sanctions
 
@@ -87,6 +87,10 @@ The Commission shall have oversight and enforcement authority over the Board, as
 #### References in Text
 
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of section 107 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

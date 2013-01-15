@@ -30,7 +30,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made or other similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
+&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made orother similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
 
 #### (B) Limitation on national bank
 
@@ -66,7 +66,7 @@
 
 &emsp;Nothing in this section shall require termination of discount relationships in existence on December 24, 1980.
 
-(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625;amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
+(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
 
 #### Codification
 

@@ -24,7 +24,7 @@
 
 #### (3) Terms and conditions; repayment
 
-&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid withinsuch period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
+&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
 
 #### (b) Limitations on total advances
 
@@ -150,7 +150,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(C) the Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activities involving expenditure, use or transfer of the guaranty agency's reserve funds or assets which the Secretary determines is a misapplication, misuse, or improper expenditure of such funds or assets; and
 
-&emsp;&emsp;(D) any such determination under subparagraph (A) or (B) shall be based on standards prescribed by regulations that are developed through negotiated rulemaking and that include procedures for administrative due process.
+&emsp;&emsp;(D) any such determination under subparagraph (A) or (B) shall be based on standards prescribed by regulations that are developedthrough negotiated rulemaking and that include procedures for administrative due process.
 
 #### (2) Termination provisions in contracts
 
@@ -240,7 +240,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Use of termination collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary undersubsection (g)(1)(B) of this section during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) of this section during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's required share of recalled reserve funds; and
 
@@ -382,5 +382,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1987 Amendment
 
-Section 3002(a) of Pub. L. 100–203 provided that the amendment made by that section 3002(a) is effective Sept. 30, 1989.
+Pub. L. 100–203, title III, §3002(a), Dec. 22, 1987, 101 Stat. 1330–38, provided that the amendment made by that section is effective Sept. 30, 1989.
 

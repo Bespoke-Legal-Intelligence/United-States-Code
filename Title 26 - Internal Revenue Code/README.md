@@ -1,9 +1,7 @@
 
-26 U.S.C.<br>United States Code, 2011 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 26—INTERNAL REVENUE CODE
 
-### Act Aug. 16, 1954, ch. 736, 68A Stat. 3
+#### Act Aug. 16, 1954, ch. 736, 68A Stat. 3
 
 The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
 

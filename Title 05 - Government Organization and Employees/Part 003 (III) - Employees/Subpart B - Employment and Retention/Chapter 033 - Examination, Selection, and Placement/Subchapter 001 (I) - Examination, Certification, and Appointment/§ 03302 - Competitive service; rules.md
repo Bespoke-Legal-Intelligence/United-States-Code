@@ -8,7 +8,7 @@ The President may prescribe rules governing the competitive service. The rules s
 
 > Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L.95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 417; Pub. L. 95–228, §2(b), Feb. 10, 1978, 92 Stat. 25; Pub. L. 95–454, title VII, §703(c)(1), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 96–54, §2(a)(16), Aug. 14, 1979, 93 Stat. 382; Pub. L. 103–94, §2(b)(1), Oct. 6, 1993, 107 Stat. 1004.)
 
 Historical and Revision Notes
 

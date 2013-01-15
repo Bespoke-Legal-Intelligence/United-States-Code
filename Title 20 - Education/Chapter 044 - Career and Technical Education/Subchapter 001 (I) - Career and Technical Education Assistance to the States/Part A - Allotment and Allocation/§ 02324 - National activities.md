@@ -112,7 +112,7 @@
 
 #### (ii) Prohibition
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the reports required by this subsection shall not be subject to any review outside the Department of Education before their transmittal to the relevant committees of Congress and the Secretary, but the President, the Secretary, and the independent advisory panel established under paragraph (1) may make such additional recommendations to Congress with respect to the assessment as the President, the Secretary, or the panel determine to be appropriate.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the reports required by this subsection shall not be subject to any reviewoutside the Department of Education before their transmittal to the relevant committees of Congress and the Secretary, but the President, the Secretary, and the independent advisory panel established under paragraph (1) may make such additional recommendations to Congress with respect to the assessment as the President, the Secretary, or the panel determine to be appropriate.
 
 #### (3) Collection of State information and report
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 

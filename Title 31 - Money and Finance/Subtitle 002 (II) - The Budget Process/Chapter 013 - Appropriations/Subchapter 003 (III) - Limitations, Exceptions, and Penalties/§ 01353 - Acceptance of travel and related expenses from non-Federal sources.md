@@ -1,6 +1,6 @@
 ### §1353. Acceptance of travel and related expenses from non-Federal sources
 
-(a) Notwithstanding any other provision of law, the Administrator of General Services, in consultation with the Director of the Office ofGovernment Ethics, shall prescribe by regulation the conditions under which an agency in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency's behalf, from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the official duties of the employee. Any cash payment so accepted shall be credited to the appropriation applicable to such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
+(a) Notwithstanding any other provision of law, the Administrator of General Services, in consultation with the Director of the Office of Government Ethics, shall prescribe by regulation the conditions under which an agency in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency's behalf, from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the official duties of the employee. Any cash payment so accepted shall be credited to the appropriation applicable to such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
 
 (b) Except as provided in this section or section 4111 or 7342 of title 5, an agency or employee may not accept payment for expenses referred to in subsection (a). An employee who accepts any payment in violation of the preceding sentence—
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
-(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 and amended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
+(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 andamended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
 
 #### Amendments
 

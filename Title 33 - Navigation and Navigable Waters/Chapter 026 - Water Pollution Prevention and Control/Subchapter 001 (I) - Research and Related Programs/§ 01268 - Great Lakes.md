@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border);
 
-&emsp;&emsp;(C) “Great Lakes System” means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes;
+&emsp;&emsp;(C) “Great Lakes System” means all the streams, rivers, lakes, and other bodies ofwater within the drainage basin of the Great Lakes;
 
 &emsp;&emsp;(D) “Program Office” means the Great Lakes National Program Office established by this section;
 
@@ -62,7 +62,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(D) coordinate actions of the Agency (including actions by headquarters and regional offices thereof) aimed at improving Great Lakes water quality; and
 
-&emsp;&emsp;(E) coordinate actions of the Agency with the actions of other Federal agencies and State and local authorities, so as to ensure the input of those agencies and authorities in developing water quality strategies andobtain the support of those agencies and authorities in achieving the objectives of such agreement.
+&emsp;&emsp;(E) coordinate actions of the Agency with the actions of other Federal agencies and State and local authorities, so as to ensure the input of those agencies and authorities in developing water quality strategies and obtain the support of those agencies and authorities in achieving the objectives of such agreement.
 
 #### (2) Great Lakes water quality guidance
 
@@ -74,7 +74,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (3) Remedial Action Plans
 
-&emsp;(A) For each area of concern for which the United States has agreed to draft a Remedial Action Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
+&emsp;(A) For each area of concern for which the United States has agreed to draft a RemedialAction Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
 
 &emsp;&emsp;(i) submits a Remedial Action Plan to the Program Office by June 30, 1991;
 
@@ -256,7 +256,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (iii) Treatment of credit between projects
 
-&emsp;&emsp;&emsp;Any credit provided under this subparagraph towards the non-Federal share of thecost of a project carried out under this paragraph may be applied towards the non-Federal share of the cost of any other project carried out under this paragraph by the same non-Federal sponsor for a site within the same area of concern.
+&emsp;&emsp;&emsp;Any credit provided under this subparagraph towards the non-Federal share of the cost of a project carried out under this paragraph may be applied towards the non-Federal share of the cost of any other project carried out under this paragraph by the same non-Federal sponsor for a site within the same area of concern.
 
 #### (iv) Non-Federal share
 
@@ -342,7 +342,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (1) Joint plan
 
-&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare ajoint research plan for the fiscal year which begins in the following calendar year.
+&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
 
 #### (2) Contents of plan
 
@@ -362,7 +362,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmentalquality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -440,7 +440,7 @@ Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds Contributed by a Non-Federal Sponsor
 
@@ -496,7 +496,7 @@ Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to help establish a regional collaboration of national significance for the Great Lakes, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Great Lakes are a national treasure constituting the largest freshwater system in the world. The United States and Canada have made great progress addressing past and current environmental impacts to the Great Lakes ecology. The Federal Government is committed to making progress on the many significant challenges that remain. Along with numerous State, tribal, and local programs, over 140 Federal programs help fund and implement environmental restoration and management activities throughout the Great Lakes system. A number of intergovernmental bodies are providing leadership in the region to address environmental and resource management issues in the Great Lakes system. These activities would benefit substantially from more systematic collaboration and better integration of effort. It is the policy of the Federal Government to support local and regional efforts to address environmental challenges and to encourage local citizen and community stewardship. To this end, the Federal Government will partner with the Great Lakes States, tribal and local governments, communities, and other interests to establish a regional collaboration to address nationally significant environmental and natural resource issues involvingthe Great Lakes. It is the further policy of the Federal Government that its executive departments and agencies will ensure that their programs are funding effective, coordinated, and environmentally sound activities in the Great Lakes system.
+Section 1. <i>Policy</i>. The Great Lakes are a national treasure constituting the largest freshwater system in the world. The United States and Canada have made great progress addressing past and current environmental impacts to the Great Lakes ecology. The Federal Government is committed to making progress on the many significant challenges that remain. Along with numerous State, tribal, and local programs, over 140 Federal programs help fund and implement environmental restoration and management activities throughout the Great Lakes system. A number of intergovernmental bodies are providing leadership in the region to address environmental and resource management issues in the Great Lakes system. These activities would benefit substantially from more systematic collaboration and better integration of effort. It is the policy of the Federal Government to support local and regional efforts to address environmental challenges and to encourage local citizen and community stewardship. To this end, the Federal Government will partner with the Great Lakes States, tribal and local governments, communities, and other interests to establish a regional collaboration to address nationally significant environmental and natural resource issues involving the Great Lakes. It is the further policy of the Federal Government that its executive departments and agencies will ensure that their programs are funding effective, coordinated, and environmentally sound activities in the Great Lakes system.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 

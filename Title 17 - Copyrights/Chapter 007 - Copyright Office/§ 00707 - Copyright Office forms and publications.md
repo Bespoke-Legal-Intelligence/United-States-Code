@@ -6,7 +6,7 @@ Catalog of Copyright Entries.—The Register of Copyrights shall compile and pub
 
 (b)
 
-Other Publications.—The Register shall furnish, free of charge upon request, application forms for copyright registration and general informational material in connection with the functions of the Copyright Office. The Register also has the authority to publish compilations of information, bibliographies, and other material he or she considers to be of value to the public.
+Other Publications.—The Register shall furnish, free of charge upon request, application forms for copyright registration and general informational material in connection with the functions of the Copyright Office. The Registeralso has the authority to publish compilations of information, bibliographies, and other material he or she considers to be of value to the public.
 
 (c)
 

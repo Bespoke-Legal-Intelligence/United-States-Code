@@ -24,15 +24,19 @@ Not later than 180 days after the date of enactment of this subsection, the Secr
 
 #### (d) Funding
 
-#### (1) In general
+#### (1) Mandatory funding through fiscal year 2012
 
 &emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $5,000,000, to remain available until expended.
 
-#### (2) Additional funding
+#### (2) Discretionary funding for fiscal years 2008 through 2012
 
 &emsp;In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
-(Pub. L. 107–171, title VII, §7407, May 13, 2002, 116 Stat. 461; Pub. L. 110–234, title X, §10302, May 22, 2008, 122 Stat. 1347; Pub. L. 110–246, §4(a), title X, §10302, June 18, 2008, 122 Stat. 1664, 2108.)
+#### (3) Fiscal year 2013
+
+&emsp;There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.
+
+(Pub. L. 107–171, title VII, §7407, May 13, 2002, 116 Stat. 461; Pub. L. 110–234, title X, §10302, May 22, 2008, 122 Stat. 1347; Pub. L. 110–246, §4(a), title X, §10302, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, §701(g)(4), Jan. 2, 2013, 126 Stat. 2366.)
 
 #### References in Text
 
@@ -46,7 +50,17 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
+<b>2013</b>—Subsec. (d)(1). Pub. L. 112–240, §701(g)(4)(A), substituted “Mandatory funding through fiscal year 2012” for “In general” in heading.
+
+Subsec. (d)(2). Pub. L. 112–240, §701(g)(4)(B), substituted “Discretionary funding for fiscal years 2008 through 2012” for “Additional funding” in heading.
+
+Subsec. (d)(3). Pub. L. 112–240, §701(g)(4)(C), added par. (3)
+
 <b>2008</b>—Pub. L. 110–246, §10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date of 2008 Amendment
 

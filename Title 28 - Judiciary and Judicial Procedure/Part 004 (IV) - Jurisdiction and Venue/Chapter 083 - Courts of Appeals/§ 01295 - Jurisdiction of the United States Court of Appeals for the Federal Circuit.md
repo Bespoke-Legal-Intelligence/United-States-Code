@@ -4,13 +4,13 @@
 
 &emsp;(1) of an appeal from a final decision of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court of the Northern Mariana Islands, in any civil action arising under, or in any civil action in which a party has asserted a compulsory counterclaim arising under, any Act of Congress relating to patents or plant variety protection;
 
-&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
+&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or theDistrict Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
 
 &emsp;(3) of an appeal from a final decision of the United States Court of Federal Claims;
 
 &emsp;(4) of an appeal from a decision of—
 
-&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+&emsp;&emsp;(A) the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to a patent application, derivation proceeding, reexamination, post-grant review, or inter partes review under title 35, at the instance of a party who exercised that party's right to participate in the applicable proceeding before or appeal to the Board, except that an applicant or a party to a derivation proceeding may also have remedy by civil action pursuant to section 145 or 146 of title 35; an appeal under this subparagraph of a decision of the Board with respect to an application or derivation proceeding shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
 &emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
@@ -36,15 +36,11 @@
 
 &emsp;(14) of an appeal under section 523 of the Energy Policy and Conservation Act.
 
-(b) The head of any executive department or agency may, with the approval of the Attorney General, refer to the Court of Appeals for the Federal Circuit for judicial review any final decision rendered by a board of contract appeals pursuant to the terms of any contract with theUnited States awarded by that department or agency which the head of such department or agency has concluded is not entitled to finality pursuant to the review standards specified in section 7107(b) of title 41. The head of each executive department or agency shall make any referral under this section within one hundred and twenty days after the receipt of a copy of the final appeal decision.
+(b) The head of any executive department or agency may, with the approval of the Attorney General, refer to the Court of Appeals for the Federal Circuit for judicial review any final decision rendered by a board of contract appeals pursuant to the terms of any contract with the United States awarded by that department or agency which the head of such department or agency has concluded is not entitled to finality pursuant to the review standards specified in section 7107(b) of title 41. The head of each executive department or agency shall make any referral under this section within one hundred and twenty days after the receipt of a copy of the final appeal decision.
 
 (c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 7107(b) of title 41. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
 (Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, §5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
-
-#### Amendment of Subsection (a)(4)(A)
-
-<i>Pub. L. 112–29, §7(c)(2), (e), Sept. 16, 2011, 125 Stat. 314, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, subsection (a)(4)(A) of this section is amended to read as follows: “the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to a patent application, derivation proceeding, reexamination, post-grant review, or inter partes review under title 35, at the instance of a party who exercised that party's right to participate in the applicable proceeding before or appeal to the Board, except that an applicant or a party to a derivation proceeding may also have remedy by civil action pursuant to section 145 or 146 of title 35; an appeal under this subparagraph of a decision of the Board with respect to an application or derivation proceeding shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;”. See 2011 Amendment notes below.</i>
 
 #### References in Text
 
@@ -60,7 +56,7 @@ Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–29, §19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–29, §19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a caseinvolving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;”.
 
 Subsec. (a)(4)(A). Pub. L. 112–29, §7(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;”.
 
@@ -120,7 +116,7 @@ Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as 
 
 #### Abolition of Temporary Emergency Court of Appeals
 
-Section 102(d), (e) of Pub. L. 102–572 provided that:
+Pub. L. 102–572, title I, §102(d), (e), Oct. 29, 1992, 106 Stat. 4507, provided that:
 
 “(d)
 

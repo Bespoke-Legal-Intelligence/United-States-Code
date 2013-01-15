@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 #### Effective Date of 1984 Amendment
 
-Section 722(e)(3)(A) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1975.”
+Pub. L. 98–369, div. A, title VII, §722(e)(3)(A), July 18, 1984, 98 Stat. 974, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1975.”
 
 #### Effective Date of 1976 Amendment
 

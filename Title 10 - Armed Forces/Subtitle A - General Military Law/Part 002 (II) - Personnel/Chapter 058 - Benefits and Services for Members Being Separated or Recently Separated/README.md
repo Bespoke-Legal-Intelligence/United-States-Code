@@ -16,10 +16,13 @@
 | [1151\.](%C2%A7%2001151%20-%20Retention%20of%20assistive%20technology%20and%20services%20provided%20before%20separation.md) | Retention of assistive technology and services provided before separation. |
 | [1152\.](%C2%A7%2001152%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20with%20law%20enforcement%20agencies.md) | Assistance to eligible members and former members to obtain employment with law enforcement agencies. |
 | [1153\.](%C2%A7%2001153%20-%20Assistance%20to%20separated%20members%20to%20obtain%20employment%20with%20health%20care%20providers.md) | Assistance to separated members to obtain employment with health care providers. |
+| [1154\.](%C2%A7%2001154%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20as%20teachers%20Troops-to-Teachers%20Program.md) | Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §541(b)(2), Jan. 2, 2013, 126 Stat. 1735, added item 1154.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §561(b), Oct. 17, 2006, 120 Stat. 2220, added item 1151.
 
@@ -50,3 +53,4 @@
 - [&sect; 01151 - Retention of assistive technology and services provided before separation](%C2%A7%2001151%20-%20Retention%20of%20assistive%20technology%20and%20services%20provided%20before%20separation.md)
 - [&sect; 01152 - Assistance to eligible members and former members to obtain employment with law enforcement agencies](%C2%A7%2001152%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20with%20law%20enforcement%20agencies.md)
 - [&sect; 01153 - Assistance to separated members to obtain employment with health care providers](%C2%A7%2001153%20-%20Assistance%20to%20separated%20members%20to%20obtain%20employment%20with%20health%20care%20providers.md)
+- [&sect; 01154 - Assistance to eligible members and former members to obtain employment as teachers Troops-to-Teachers Program](%C2%A7%2001154%20-%20Assistance%20to%20eligible%20members%20and%20former%20members%20to%20obtain%20employment%20as%20teachers%20Troops-to-Teachers%20Program.md)

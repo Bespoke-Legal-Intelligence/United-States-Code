@@ -2,7 +2,7 @@
 
 #### (a) Submission
 
-Any State containing an area designated or redesignated under section 7407(d) of this title asnonattainment with respect to the national primary ambient air quality standards for sulfur oxides, nitrogen dioxide, or lead subsequent to November 15, 1990, shall submit to the Administrator, within 18 months of the designation, an applicable implementation plan meeting the requirements of this part.
+Any State containing an area designated or redesignated under section 7407(d) of this title as nonattainment with respect to the national primary ambient air quality standards for sulfur oxides, nitrogen dioxide, or lead subsequent to November 15, 1990, shall submit to the Administrator, within 18 months of the designation, an applicable implementation plan meeting the requirements of this part.
 
 #### (b) States lacking fully approved State implementation plans
 

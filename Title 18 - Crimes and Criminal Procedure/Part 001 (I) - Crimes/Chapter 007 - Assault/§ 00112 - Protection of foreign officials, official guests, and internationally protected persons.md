@@ -8,7 +8,7 @@
 
 &emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guest or obstruct a foreign official in the performance of his duties; or
 
-&emsp;(3) within the United States and within one hundred feet of any building or premises in whole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
+&emsp;(3) within the United States and within one hundred feet of any building or premises inwhole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
 
 &emsp;&emsp;(A) a foreign government, including such use as a mission to an international organization;
 
@@ -84,19 +84,19 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–467 provided: “That this Act \[enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons’.”
+Pub. L. 94–467, §1, Oct. 8, 1976, 90 Stat. 1997, provided: “That this Act \[enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons’.”
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–539 provided: “That this Act \[enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Act for the Protection of Foreign Officials and Official Guests of the United States’.”
+Pub. L. 92–539, §1, Oct. 24, 1972, 86 Stat. 1070, provided: “That this Act \[enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Act for the Protection of Foreign Officials and Official Guests of the United States’.”
 
 #### State and Local Laws Not Superseded
 
-Section 10 of Pub. L. 94–467 provided that: “Nothing contained in this Act \[see Short Title of 1976 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia, on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia, including the obligation of all persons having official law enforcement powers to take appropriate action, such as effecting arrests, for Federal as well as non-Federal violations.”
+Pub. L. 94–467, §10, Oct. 8, 1976, 90 Stat. 2001, provided that: “Nothing contained in this Act \[see Short Title of 1976 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia, on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia, including the obligation of all persons having official law enforcement powers to take appropriate action, such as effecting arrests, for Federal as well as non-Federal violations.”
 
 #### Congressional Findings and Declaration of Policy
 
-Section 2 of Pub. L. 92–539 provided that:
+Pub. L. 92–539, §2, Oct. 24, 1972, 86 Stat. 1070, provided that:
 
 “The Congress recognizes that from the beginning of our history as a nation, the police power to investigate, prosecute, and punish common crimes such as murder, kidnaping, and assault has resided in the several States, and that such power should remain with the States.
 
@@ -106,9 +106,9 @@ Section 2 of Pub. L. 92–539 provided that:
 
 #### Federal Preemption
 
-Section 3 of Pub. L. 92–539 provided that: “Nothing contained in this Act \[see Short Title of 1972 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia.”
+Pub. L. 92–539, §3, Oct. 24, 1972, 86 Stat. 1073, provided that: “Nothing contained in this Act \[see Short Title of 1972 Amendment note above\] shall be construed to indicate an intent on the part of Congress to occupy the field in which its provisions operate to the exclusion of the laws of any State, Commonwealth, territory, possession, or the District of Columbia on the same subject matter, nor to relieve any person of any obligation imposed by any law of any State, Commonwealth, territory, possession, or the District of Columbia.”
 
 #### Immunity From Criminal Prosecution
 
-Section 5 of Pub. L. 88–493 provided that: “Nothing contained in this Act \[amending this section and section 1114 of this title, and enacting section 170e–1 of former Title 5, Executive Departments and Government Officers and Employees\] shall create immunity from criminal prosecution under any laws in any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.”
+Pub. L. 88–493, §5, Aug. 27, 1964, 78 Stat. 610, provided that: “Nothing contained in this Act \[amending this section and section 1114 of this title, and enacting section 170e–1 of former Title 5, Executive Departments and Government Officers and Employees\] shall create immunity from criminal prosecution under any laws in any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.”
 

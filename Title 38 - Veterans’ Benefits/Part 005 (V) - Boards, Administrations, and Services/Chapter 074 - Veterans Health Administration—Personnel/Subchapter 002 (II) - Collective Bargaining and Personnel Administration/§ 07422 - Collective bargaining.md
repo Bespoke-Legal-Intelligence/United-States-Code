@@ -2,7 +2,7 @@
 
 (a) Except as otherwise specifically provided in this title, the authority of the Secretary to prescribe regulations under section 7421 of this title is subject to the right of Federal employees to engage in collective bargaining with respect to conditions of employment through representatives chosen by them in accordance with chapter 71 of title 5 (relating to labor-management relations).
 
-(b) Such collective bargaining (and any grievance procedures provided under a collective bargaining agreement) in the case of employees described in section 7421(b) of this title may not cover, or have any applicability to, any matter or question concerning or arising out of (1) professional conduct or competence, (2) peer review, or (3) the establishment, determination, or adjustment of employee compensation under this title.
+(b) Such collective bargaining (and any grievance procedures provided under a collective bargaining agreement) in the case of employees described in section 7421(b) of this title may notcover, or have any applicability to, any matter or question concerning or arising out of (1) professional conduct or competence, (2) peer review, or (3) the establishment, determination, or adjustment of employee compensation under this title.
 
 (c) For purposes of this section, the term “professional conduct or competence” means any of the following:
 

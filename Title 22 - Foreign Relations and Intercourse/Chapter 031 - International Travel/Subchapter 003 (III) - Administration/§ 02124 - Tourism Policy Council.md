@@ -36,7 +36,7 @@ Members of the Council shall serve without additional compensation.
 
 #### (d) Council meetings
 
-The Council shall conduct its first meeting not later than 6 months after October 11, 1996. Thereafter the Council shall meet not less than 2 times each year.
+The Council shall conduct its first meeting not later than 6 months after October 11, 1996.Thereafter the Council shall meet not less than 2 times each year.
 
 #### (e) Involvement of Federal agencies and departments
 
@@ -44,7 +44,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 (2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extent permitted by law and within the limits of available funds.
 
-(3) Federal departments and agencies may, in their discretion, detail to temporary duty with the Council such personnel as the Chairman may request for carrying out the functions ofthe Council. Each such detail of personnel shall be without loss of seniority, pay, or other employee status.
+(3) Federal departments and agencies may, in their discretion, detail to temporary duty with the Council such personnel as the Chairman may request for carrying out the functions of the Council. Each such detail of personnel shall be without loss of seniority, pay, or other employee status.
 
 #### (f) Closed meetings
 

@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a personmust have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -104,7 +104,7 @@ Introduction of classified information; precautions by court.—
 
 &emsp;&emsp;(A)
 
-Exhibits.—To prevent unnecessary or inadvertent disclosure of classified information in a civil proceeding brought by the United States under this section, the United States may petition the court ex parte toadmit, in lieu of classified writings, recordings, or photographs, one or more of the following:
+Exhibits.—To prevent unnecessary or inadvertent disclosure of classified information in a civil proceeding brought by the United States under this section, the United States may petition the court ex parte to admit, in lieu of classified writings, recordings, or photographs, one or more of the following:
 
 &emsp;&emsp;&emsp;(i) Copies of items from which classified information has been redacted.
 
@@ -204,7 +204,7 @@ Definitions.—As used in this section—
 
 (h)
 
-Provision of Personnel.—No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
+Provision of Personnel.—No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may beor include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
 
 (i)
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Findings and Purpose
 
-Section 301 of title III of Pub. L. 104–132 provided that:
+Pub. L. 104–132, title III, §301, Apr. 24, 1996, 110 Stat. 1247, provided that:
 
 “(a)
 

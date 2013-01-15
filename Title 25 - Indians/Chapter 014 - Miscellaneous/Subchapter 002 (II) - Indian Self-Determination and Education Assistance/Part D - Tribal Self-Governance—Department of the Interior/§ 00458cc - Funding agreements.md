@@ -8,7 +8,7 @@ The Secretary shall negotiate and enter into an annual written funding agreement
 
 Each funding agreement shall—
 
-&emsp;(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services,functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
+&emsp;(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
 
 &emsp;&emsp;(A) the Act of April 16, 1934 (25 U.S.C. 452 et seq.);
 
@@ -16,7 +16,7 @@ Each funding agreement shall—
 
 &emsp;&emsp;(C) programs, services, functions, and activities or portions thereof administered by the Secretary of the Interior that are otherwise available to Indian tribes or Indians for which appropriations are made to agencies other than the Department of the Interior;
 
-&emsp;(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available to Indian tribes or Indians, as identified in section 458ee(c) of this title, except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law;
+&emsp;(2) subject to such terms as may be negotiated, authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior, other than through the Bureau of Indian Affairs, that are otherwise available toIndian tribes or Indians, as identified in section 458ee(c) of this title, except that nothing in this subsection may be construed to provide any tribe with a preference with respect to the opportunity of the tribe to administer programs, services, functions, and activities, or portions thereof, unless such preference is otherwise provided for by law;
 
 &emsp;(3) subject to the terms of the agreement, authorize the tribe to redesign or consolidate programs, services, functions, and activities, or portions thereof, and reallocate funds for such programs, services, functions, and activities, or portions thereof, except that, with respect to the reallocation, consolidation, and redesign of programs described in paragraph (2), a joint agreement between the Secretary and the tribe shall be required;
 
@@ -78,7 +78,7 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 (3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
 
-(4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
+(4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extentthat the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
 
 #### (h) Civil actions
 
@@ -106,7 +106,7 @@ All funds provided under funding agreements entered into pursuant to this subcha
 
 Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: <i>Provided</i>, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
 
-#### (<i>l</i>) Incorporate self-determination provisions
+#### (l) Incorporate self-determination provisions
 
 At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered into under title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
 
@@ -120,11 +120,11 @@ The Tribally Controlled Colleges and Universities Assistance Act of 1978, referr
 
 This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Title III of this Act, referred to in subsecs. (g)(2) and (<i>l</i>), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+Title III of this Act, referred to in subsecs. (g)(2) and (l), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
 The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the original “title I of this Act”, meaning titleI of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+Part A of this subchapter, referred to in subsec. (l), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 
@@ -138,7 +138,7 @@ In subsec. (e)(1), “division B (except sections 1123, 2303, 2304, and 2313) of
 
 <b>1998</b>—Subsec. (b)(4)(A). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
 
-<b>1996</b>—Subsec. (<i>l</i>). Pub. L. 104–109 added subsec. (<i>l</i>).
+<b>1996</b>—Subsec. (l). Pub. L. 104–109 added subsec. (l).
 
 #### Effective Date of 1998 Amendment
 

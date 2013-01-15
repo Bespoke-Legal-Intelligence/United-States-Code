@@ -30,9 +30,9 @@ Changes were made in arrangement and phraseology.
 
 #### Effective Date of 1980 Amendment; Applicability
 
-Section 4 of Pub. L. 96–486 provided: “This Act \[amending this section and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1 of this title\] shall apply to any civil action pending on the date of enactment of this Act \[Dec. 1, 1980\].”
+Pub. L. 96–486, §4, Dec. 1, 1980, 94 Stat. 2370, provided: “This Act \[amending this section and section 2072 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 1 of this title\] shall apply to any civil action pending on the date of enactment of this Act \[Dec. 1, 1980\].”
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
+Pub. L. 85–554, §3, July 25, 1958, 72 Stat. 415, provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
 

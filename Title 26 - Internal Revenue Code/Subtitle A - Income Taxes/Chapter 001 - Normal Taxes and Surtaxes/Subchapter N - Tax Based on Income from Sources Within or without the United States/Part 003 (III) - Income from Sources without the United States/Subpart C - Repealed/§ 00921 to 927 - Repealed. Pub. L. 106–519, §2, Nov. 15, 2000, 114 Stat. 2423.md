@@ -10,7 +10,7 @@ A prior section 922, acts Aug. 16, 1954, ch. 736, 68A Stat. 291; Dec. 10, 1971, 
 
 Section 923, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 986; amended Pub. L. 99–514, title XVIII, §1876(b)(3), Oct. 22, 1986, 100 Stat. 2898, related to exempt foreign trade income.
 
-Section 924, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 987; amended Pub. L. 99–514, title XVIII, §1876(e)(2), (<i>l</i>), Oct. 22, 1986, 100 Stat. 2899, 2901, related to foreign trading gross receipts.
+Section 924, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 987; amended Pub. L. 99–514, title XVIII, §1876(e)(2), (l), Oct. 22, 1986, 100 Stat. 2899, 2901, related to foreign trading gross receipts.
 
 Section 925, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 990, related to transfer pricing rules.
 

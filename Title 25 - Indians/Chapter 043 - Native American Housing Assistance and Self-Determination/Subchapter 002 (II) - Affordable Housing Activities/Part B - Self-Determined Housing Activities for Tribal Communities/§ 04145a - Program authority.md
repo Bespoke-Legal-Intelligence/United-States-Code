@@ -20,7 +20,7 @@ Under the program under this part, for each of fiscal years 2009 through 2013, t
 
 #### (c) Amounts
 
-With respect to a fiscal year and a recipient, the amounts referred to in subsection (b) are amounts from any grant provided under section 4111 of this title to the recipient for the fiscal year, as determined by the recipient, but in no case exceeding the lesser of—
+With respect to a fiscal year and a recipient, the amounts referred to in subsection (b) areamounts from any grant provided under section 4111 of this title to the recipient for the fiscal year, as determined by the recipient, but in no case exceeding the lesser of—
 
 &emsp;(1) an amount equal to 20 percent of the total grant amount for the recipient for that fiscal year; and
 

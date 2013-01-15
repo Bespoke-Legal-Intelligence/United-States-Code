@@ -1,6 +1,6 @@
 ### §79m. Annual reporting requirements; contents; comprehensive general management plan; submission date and scope
 
-(a) The Secretary shall submit an annual written report to the Congress on January 1, 1979, and annually thereafter for ten years, reporting on the status of payment by the Secretary for real property acquired pursuant to section 79c(b)(1) and section 79b of this title; the status of the actions taken regarding land management practices and watershed rehabilitation efforts authorized by section 79c(e) and section 79k(b) of this title; the status of the efforts to mitigate adverse economic impacts as directed by this Act; this <sup>1</sup> status of National Park Service employment requirements as authorized by section 79<i>l</i> of this title; the status of the new bypass highway and of the agreement for the donation of the State park lands as contemplated by section 79c(b)(2) of this title; and, the status of the National Park Service general management plan for the park.
+(a) The Secretary shall submit an annual written report to the Congress on January 1, 1979, and annually thereafter for ten years, reporting on the status of payment by the Secretary for real property acquired pursuant to section 79c(b)(1) and section 79b of this title; the status of the actions taken regarding land management practices and watershed rehabilitation efforts authorized by section 79c(e) and section 79k(b) of this title; the status of the efforts to mitigate adverse economic impacts as directed by this Act; this <sup>1</sup> status of National Park Service employment requirements as authorized by section 79l of this title; the status of the new bypass highway and of the agreement for the donation of the State park lands as contemplated by section 79c(b)(2) of this title; and, the status of the National Park Service general management plan for the park.
 
 (b) No later than January 1, 1980, the Secretary shall submit to the Committee on Interior and Insular Affairs of the House of Representatives, and to the Committee on Energy and Natural Resources of the Senate, a comprehensive general management plan for Redwood National Park, to include but not be limited to the following:
 
@@ -26,7 +26,7 @@ Section 79k(b) of this title, referred to in subsec. (a), was in the original �
 
 This Act, referred to in subsec. (a), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 79<i>l</i> of this title, referred to in subsec. (a), was in the original “section 102 of this amendment”, meaning section 103 of Pub. L. 95–250, which enacted section 79<i>l</i> of this title.
+Section 79l of this title, referred to in subsec. (a), was in the original “section 102 of this amendment”, meaning section 103 of Pub. L. 95–250, which enacted section 79l of this title.
 
 Section 79c(b)(2) of this title, referred to in subsec. (a), was in the original “section 101(a)(5) of this amendment”, meaning section 101(a)(5) of Pub. L. 95–250, which amended section 79c(b)(2) of this title.
 

@@ -64,7 +64,7 @@ Pub. L. 110–181, div. B, title XXVIII, §2822(b)(2), Jan. 28, 2008, 122 Stat. 
 
 <b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §§2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in item 2696, and struck out items 2669 “Easements for rights-of-way: gas, water, sewer pipe lines”, 2689 “Development of geothermal energy on military lands”, 2690 “Fuel sources for heating systems; prohibition on converting certain heating facilities”, and 2693 “Conveyance of certain property: Department of Justice correctional options program”.
 
-Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struckout former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
+Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
 
 <b>2004</b>—Pub. L. 108–375, div. B, title XXVIII, §2821(e)(3), Oct. 28, 2004, 118 Stat. 2130, substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in item 2670 and struck out items 2664 “Acquisition of property for lumber production”, 2666 “Acquisition: land purchase contracts; limitation on commission”, 2673 “Acquisition of certain interests in land: availability of funds”, and 2679 “Representatives of veterans’ organizations: use of space and equipment”.
 
@@ -90,7 +90,7 @@ Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513
 
 Pub. L. 101–510, div. A, title XIV, §1481(h)(2), div. B, title XXVIII, §2804(a)(2), Nov. 5, 1990, 104 Stat. 1708, 1785, added items 2674 and 2678.
 
-<b>1988</b>—Pub. L. 100–370, §§1(<i>l</i>)(4), 2(b)(2), July 19, 1988, 102 Stat. 849, 854, added items 2661 and 2673 and struck out item 2693 “Prohibition on contracts for performance of firefighting or security-guard functions”.
+<b>1988</b>—Pub. L. 100–370, §§1(l)(4), 2(b)(2), July 19, 1988, 102 Stat. 849, 854, added items 2661 and 2673 and struck out item 2693 “Prohibition on contracts for performance of firefighting or security-guard functions”.
 
 <b>1987</b>—Pub. L. 100–224, §5(b)(3), Dec. 30, 1987, 101 Stat. 1538, inserted “; prohibition on converting certain heating facilities” after “systems” in item 2690.
 

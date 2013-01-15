@@ -10,7 +10,7 @@ An agreement described in subsection (a) of this section shall—
 
 &emsp;(1) provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) of this section after completion of the scholarship recipient's academic courses leading to an associate, bachelor, or graduate degree;
 
-&emsp;(2) provide assurances that the scholarship recipient will repay the entire scholarship in accordance with such terms and conditions as the Director shall prescribe if the requirements of the agreement are not complied with, unless the scholarship recipient—
+&emsp;(2) provide assurances that the scholarship recipient will repay the entire scholarship in accordance with such terms and conditions asthe Director shall prescribe if the requirements of the agreement are not complied with, unless the scholarship recipient—
 
 &emsp;&emsp;(A) dies;
 

@@ -60,7 +60,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferredpayment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferred payment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
 
 #### (B) No application after limit exceeded
 
@@ -86,7 +86,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (6) Special rule where due date falls on Saturday, Sunday, or holiday
 
-&emsp;Notwithstanding section 7503, if, but for this paragraph, the due date under this subsection for payment of tax would fall on a Saturday, Sunday, or a legal holiday (within the meaning of section 7503), such due date shall be the immediately preceding day which is not a Saturday, Sunday, or such a holiday (or the immediately following day where the due date described in paragraph (5) falls on a Sunday).
+&emsp;Notwithstanding section 7503, if, but for this paragraph, the due date under this subsectionfor payment of tax would fall on a Saturday, Sunday, or a legal holiday (within the meaning of section 7503), such due date shall be the immediately preceding day which is not a Saturday, Sunday, or such a holiday (or the immediately following day where the due date described in paragraph (5) falls on a Sunday).
 
 #### (e) Payment by electronic fund transfer
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 94–455, §1905(b)(2)(E)(iii), struck out subsec. (d) whic
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
+Pub. L. 109–59, title XI, §11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made bythis section \[amending this section\] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
 
 #### Effective Date of 1996 Amendment
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 Amendment by section 136(c)(5) of Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
 
-Section 712(e) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section and sections 5703 and 6302 of this title\] shall take effect on January 1, 1995.”
+Pub. L. 103–465, title VII, §712(e), Dec. 8, 1994, 108 Stat. 5001, provided that: “The amendments made by this section \[amending this section and sections 5703 and 6302 of this title\] shall take effect on January 1, 1995.”
 
 #### Effective Date of 1990 Amendment
 
@@ -172,13 +172,13 @@ Amendment by section 11201(b)(3) of Pub. L. 101–508 effective Jan. 1, 1991, se
 
 #### Effective Date of 1988 Amendment
 
-Section 2003(b)(2) of Pub. L. 100–647 provided that: “The amendments made by paragraph (1) \[amending this section and section 5703 of this title\] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 100–647, title II, §2003(b)(2), Nov. 10, 1988, 102 Stat. 3598, provided that: “The amendments made by paragraph (1) \[amending this section and section 5703 of this title\] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 #### Effective Date of 1986 Amendments
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 8011(c) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title VIII, §8011(c), Oct. 21, 1986, 100 Stat. 1953, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -228,7 +228,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rules Relating to Determination and Payment of Tax
 
-Section 808 of Pub. L. 96–39, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–39, title VIII, §808, July 26, 1979, 93 Stat. 291, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 

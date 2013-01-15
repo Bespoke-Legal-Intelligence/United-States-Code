@@ -38,7 +38,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 #### Effective Date of 1992 Amendment
 
-Section 8(d) of Pub. L. 102–586 provided that:
+Pub. L. 102–586, §8(d), Nov. 4, 1992, 106 Stat. 5036, provided that:
 
 “(1)
 

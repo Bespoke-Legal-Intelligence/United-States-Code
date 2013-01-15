@@ -38,7 +38,7 @@ In this section—
 
 &emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
+&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20,and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
@@ -108,7 +108,7 @@ In this section—
 
 #### (1) Identification
 
-&emsp;To be eligible to receive a grant under this section, a community-based organization shall identify an eligible community to be assisted under this section.
+&emsp;To be eligible to receive a grant under this section, a community-based organization shallidentify an eligible community to be assisted under this section.
 
 #### (2) Criteria
 
@@ -176,7 +176,7 @@ In this section—
 
 &emsp;&emsp;(M) contain an assurance that the program will maintain an average attendance rate of not less than 75 percent of the participants enrolled in the program, or will enroll additional participants in the program;
 
-&emsp;&emsp;(N) contain an assurance that the community-based organization will comply withany evaluation under subsection (m) <sup>4</sup> of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
+&emsp;&emsp;(N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m) <sup>4</sup> of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
 
 &emsp;&emsp;(O) contain an assurance that the community-based organization shall prepare and submit to the Secretary an annual report regarding any program conducted under this section;
 
@@ -278,7 +278,7 @@ The Secretary shall conduct a thorough evaluation of the programs assisted under
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836, which enacted this subchapter, sections 3796ff to 3796ff–4 of this title, andsections 6701 to 6720 of Title 31, Money and Finance, amended sections 3791, 3793, and 3797 of this title, sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation, and section 3621 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as notes under section 13701 of this title and sections 6701 and 6702 of Title 31. For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836, which enacted this subchapter, sections 3796ff to 3796ff–4 of this title, and sections 6701 to 6720 of Title 31, Money and Finance, amended sections 3791, 3793, and 3797 of this title, sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation, and section 3621 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as notes under section 13701 of this title and sections 6701 and 6702 of Title 31. For complete classification of title III to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

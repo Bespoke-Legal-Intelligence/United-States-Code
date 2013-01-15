@@ -10,15 +10,25 @@ Airport and airway trust fund guarantee.—
 
 &emsp;&emsp;(A)
 
-In general.—The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2007 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).
+In general.—The total budget resources made available from the Airport and Airway Trust Fund each fiscal year pursuant to sections 48101, 48102, 48103, and 106(k) shall—
+
+&emsp;&emsp;&emsp;(i) in fiscal year 2013, be equal to 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) in fiscal year 2014 and each fiscal year thereafter, be equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the actual level of receipts plus interest credited to the Airport and Airway Trust Fund for the second preceding fiscal year minus the total amount made available for obligation from the Airport and Airway Trust Fund for the second preceding fiscal year.
+
+> &emsp;&emsp;Such amounts may be used only for the aviation investment programs listed in subsection (b)(1).
 
 &emsp;&emsp;(B)
 
-Guarantee.—No funds may be appropriated or limited for aviation investment programs listed in subsection (b) unless the amount described in subparagraph (A) has been provided.
+Guarantee.—No funds may be appropriated or limited for aviation investment programs listed in subsection (b)(1) unless the amount described in subparagraph (A) has been provided.
 
 &emsp;(2)
 
-Additional authorizations of appropriations from the general fund.—In any fiscal year through fiscal year 2007, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
+Additional authorizations of appropriations from the general fund.—In any fiscal year through fiscal year 2015, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
 
 (b)
 
@@ -38,7 +48,7 @@ Total budget resources.—The term “total budget resources” means the total 
 
 &emsp;(2)
 
-Level of receipts plus interest.—The term “level of receipts plus interest” meansthe level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
+Estimated level of receipts plus interest.—The term “estimated level of receipts plus interest” means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
 
 (c)
 
@@ -46,19 +56,31 @@ Enforcement of Guarantees.—
 
 &emsp;(1)
 
-Total airport and airway trust fund funding.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
+Total airport and airway trust fund funding.—It shall not be in order in the Houseof Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
 
 &emsp;(2)
 
-Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2007 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
+Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2015 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
-(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496.)
+(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16.)
 
 #### References in Text
 
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified to section 9502 of Title 26, Internal Revenue Code.
 
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is classified to section 907 of Title 2, The Congress.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–95, §104(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2007 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).”
+
+Subsec. (a)(1)(B). Pub. L. 112–95, §104(b), substituted “subsection (b)(1)” for “subsection (b)”.
+
+Subsec. (a)(2). Pub. L. 112–95, §104(c), substituted “2015” for “2007”.
+
+Subsec. (b)(2). Pub. L. 112–95, §104(d), substituted “Estimated level” for “Level” in heading and “estimated level of receipts plus interest” for “level of receipts plus interest” in text.
+
+Subsec. (c)(2). Pub. L. 112–95, §104(e), substituted “2015” for “2007”.
 
 #### Effective Date
 

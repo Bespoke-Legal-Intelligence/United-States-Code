@@ -50,7 +50,7 @@
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
-&emsp;The Secretary shall, subject to the provisions of subsection (b) of this section, pay tothe Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
+&emsp;The Secretary shall, subject to the provisions of subsection (b) of this section, pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
 
 #### (b) Plan for provision of assistance; approval; noncompliance
 
@@ -66,7 +66,7 @@
 
 &emsp;(v) includes such other information as the Secretary may require.
 
-(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
+(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any ofthe requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
 
 (ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
@@ -98,19 +98,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(<i>o</i>)(4)”.
+<b>2008</b>—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(o)(4)”.
 
 <b>2002</b>—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 
-“(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions of this section, pay to the Commonwealth of Puerto Rico—
+“(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions ofthis section, pay to the Commonwealth of Puerto Rico—
 
 &emsp;“(i) for fiscal year 2000, $1,268,000,000;
 
 &emsp;“(ii) for fiscal year 2001, the amount required to be paid under clause (i) for fiscal year 2000, as adjusted by the change in the Food at Home series of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June; and
 
-&emsp;“(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(<i>o</i>)(4) of this title;
+&emsp;“(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(o)(4) of this title;
 
 > to finance 100 percent of the expenditures for food assistance provided to needy persons and 50 percent of the administrative expenses related to the provision of the assistance.
 
@@ -144,7 +144,7 @@ Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted “the agency or 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 ofPub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 
@@ -166,14 +166,6 @@ Exceptions.—Subparagraphs (B)(ii) and (D) of section 19(a)(2) of the Food and 
 
 Effective Date.—The amendments made by this section \[amending this section and repealing section 2033 of this title\] take effect on the date of enactment of this Act \[May 13, 2002\].”
 
-#### Effective and Termination Dates of 1985 Amendments
-
-Section 3 of Pub. L. 99–182 provided that the amendment made by that section is effective for the period beginning Dec. 14, 1985, and ending Dec. 31, 1985.
-
-Section 3 of Pub. L. 99–157 provided that the amendment made by that section is effective for the period beginning Nov. 16, 1985, and ending Dec. 13, 1985.
-
-Section 2 of Pub. L. 99–114 provided that the amendment made by that section is effective for the period beginning Oct. 1, 1985, and ending Nov. 15, 1985.
-
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Oct. 1, 1993, see section 13971(a) of Pub. L. 103–66, set out as a note under section 2025 of this title.
@@ -186,9 +178,17 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
+#### Effective and Termination Dates of 1985 Amendments
+
+Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173, provided that the amendment made by section 3 is effective for the period beginning Dec. 14, 1985, and ending Dec. 31, 1985.
+
+Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818, provided that the amendment made by section 3 is effective for the period beginning Nov. 16, 1985, and ending Dec. 13, 1985.
+
+Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488, provided that the amendment made by section 2 is effective for the period beginning Oct. 1, 1985, and ending Nov. 15, 1985.
+
 #### Effective and Termination Dates of 1983 Amendment
 
-Section 1 of Pub. L. 98–204 provided that the amendment made by that section is effective for the period beginning Jan. 1, 1984, and ending Sept. 30, 1985.
+Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385, provided that the amendment made by that section is effective for the period beginning Jan. 1, 1984, and ending Sept. 30, 1985.
 
 #### Effective Date of 1982 Amendment
 
@@ -198,11 +198,11 @@ Pub. L. 97–253, title I, §184(b), Sept. 8, 1982, 96 Stat. 785, as amended by 
 
 #### Effective Date
 
-Section 116(a) of Pub. L. 97–35 provided that this section is effective July 1, 1982.
+Pub. L. 97–35, title I, §116(a), Aug. 13, 1981, 95 Stat. 364, provided that this section is effective July 1, 1982.
 
 #### Nutrition Assistance Program in Puerto Rico
 
-Section 1762(a) of Pub. L. 101–624 provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
+Pub. L. 101–624, title XVII, §1762(a), Nov. 28, 1990, 104 Stat. 3804, provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
 
 #### Nutritional Needs of Puerto Ricans; Study and Report to Congress
 

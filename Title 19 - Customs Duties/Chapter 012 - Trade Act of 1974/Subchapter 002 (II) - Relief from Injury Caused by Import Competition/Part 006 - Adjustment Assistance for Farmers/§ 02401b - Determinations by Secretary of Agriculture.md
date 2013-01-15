@@ -10,7 +10,7 @@ Upon making a determination on a petition, the Secretary shall promptly publish 
 
 #### (c) Termination of certification
 
-Whenever the Secretary determines, with respect to any certification of eligibility under this part, that the decrease in the national average price, quantity of production, or value of production of, or cash receipts for, the agricultural commodity covered by the certification is no longer attributable to the conditions described in section 2401a of this title, the Secretary shall terminate such certification and promptly cause notice of such termination to bepublished in the Federal Register, together with the Secretary's reasons for making such determination.
+Whenever the Secretary determines, with respect to any certification of eligibility underthis part, that the decrease in the national average price, quantity of production, or value of production of, or cash receipts for, the agricultural commodity covered by the certification is no longer attributable to the conditions described in section 2401a of this title, the Secretary shall terminate such certification and promptly cause notice of such termination to be published in the Federal Register, together with the Secretary's reasons for making such determination.
 
 #### (d) Annual report
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 111–5, §§1884, 1893, temporarily added subsec. (d). See
 
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 2011 Amendment
 

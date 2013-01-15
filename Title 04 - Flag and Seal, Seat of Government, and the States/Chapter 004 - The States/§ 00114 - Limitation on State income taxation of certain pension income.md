@@ -64,7 +64,7 @@ Pub. L. 109–264, §1(b), Aug. 3, 2006, 120 Stat. 667, provided that: “The am
 
 #### Effective Date
 
-Section 1(c) of Pub. L. 104–95 provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after December 31, 1995.”
+Pub. L. 104–95, §1(c), Jan. 10, 1996, 109 Stat. 980, provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after December 31, 1995.”
 
 <i><sup>1</sup></i><i> So in original. No subsecs. (c) and (d) have been enacted.</i>
 

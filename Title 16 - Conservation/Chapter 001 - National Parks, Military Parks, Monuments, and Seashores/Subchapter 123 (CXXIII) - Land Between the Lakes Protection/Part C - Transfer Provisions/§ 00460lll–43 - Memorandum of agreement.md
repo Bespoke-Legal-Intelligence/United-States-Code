@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 30 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Secretary and the Tennessee Valley Authority shall enter into a memorandum of agreement concerning implementation of this subchapter.
+Not later than 30 days after the date of transfer pursuant to section 460lll–41 of this title, the Secretary and the Tennessee Valley Authority shall enter into a memorandum of agreement concerning implementation of this subchapter.
 
 #### (b) Provisions
 

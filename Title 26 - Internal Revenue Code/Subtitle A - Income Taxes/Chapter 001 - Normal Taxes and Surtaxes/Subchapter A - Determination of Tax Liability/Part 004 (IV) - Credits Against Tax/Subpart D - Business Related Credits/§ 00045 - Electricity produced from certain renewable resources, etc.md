@@ -52,7 +52,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (A) Credit rate
 
-&emsp;&emsp;In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
+&emsp;&emsp;In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), theamount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
 
 #### (B) Credit period
 
@@ -62,7 +62,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (ii) Certain open-loop biomass facilities
 
-&emsp;&emsp;&emsp;In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of thisparagraph, the 5-year period beginning on January 1, 2005, shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+&emsp;&emsp;&emsp;In the case of any facility described in subsection (d)(3)(A)(ii) placed in service before the date of the enactment of this paragraph, the 5-year period beginning on January 1, 2005, shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
 
 #### (iii) Termination
 
@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (6) Municipal solid waste
 
-&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” under section 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903).
+&emsp;The term “municipal solid waste” has the meaning given the term “solid waste” under section 2(27) <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6903), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
 
 #### (7) Refined coal
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (B) Qualified emission reduction
 
-&emsp;&emsp;The term “qualified emission reduction” means a reduction of at least 20 percent of the emissions of nitrogen oxide and at least 40 percent of the emissions of either sulfur dioxide or mercury released when burning the refined coal (excluding any dilution caused by materials combined or added during the production process), as compared to the emissions released when burning the feedstock coal or comparable coal predominantly available in the marketplace as of January 1, 2003.
+&emsp;&emsp;The term “qualified emission reduction” means a reduction of at least 20 percent ofthe emissions of nitrogen oxide and at least 40 percent of the emissions of either sulfur dioxide or mercury released when burning the refined coal (excluding any dilution caused by materials combined or added during the production process), as compared to the emissions released when burning the feedstock coal or comparable coal predominantly available in the marketplace as of January 1, 2003.
 
 #### (C) Steel industry fuel
 
@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (ii) Coal waste sludge
 
-&emsp;&emsp;&emsp;The term “coal waste sludge” means the tar decanter sludge and related byproductsof the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.
+&emsp;&emsp;&emsp;The term “coal waste sludge” means the tar decanter sludge and related byproducts of the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.
 
 #### (8) Qualified hydropower production
 
@@ -238,7 +238,7 @@ For purposes of this section:
 
 #### (B) Exceptions
 
-&emsp;&emsp;Such term shall not include any energy which is derived from any source which utilizes a dam, diversionary structure (except as provided in subparagraph (A)(iii)), or impoundment for electric power production purposes.
+&emsp;&emsp;Such term shall not include any energy which is derived from any source which utilizes a dam, diversionary structure (exceptas provided in subparagraph (A)(iii)), or impoundment for electric power production purposes.
 
 #### (d) Qualified facilities
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 #### (1) Wind facility
 
-&emsp;In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and before January 1, 2013. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+&emsp;In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2014. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 #### (2) Closed-loop biomass facility
 
@@ -254,9 +254,11 @@ For purposes of this section:
 
 &emsp;&emsp;In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
 
-&emsp;&emsp;&emsp;(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and before January 1, 2014, or
+&emsp;&emsp;&emsp;(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2014, or
 
 &emsp;&emsp;&emsp;(ii) owned by the taxpayer which before January 1, 2014, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+
+> &emsp;&emsp;For purposes of clause (ii), a facility shall be treated as modified before January 1, 2014, if the construction of such modification begins before such date.
 
 #### (B) Expansion of facility
 
@@ -278,11 +280,11 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) in the case of a facility using agricultural livestock waste nutrients—
 
-&emsp;&emsp;&emsp;&emsp;(I) is originally placed in service after the date of the enactment of this subclause and before January 1, 2014, and
+&emsp;&emsp;&emsp;&emsp;(I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2014, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-&emsp;&emsp;&emsp;(ii) in the case of any other facility, is originally placed in service before January 1, 2014.
+&emsp;&emsp;&emsp;(ii) in the case of any other facility, the construction of which begins before January 1, 2014.
 
 #### (B) Expansion of facility
 
@@ -294,7 +296,13 @@ For purposes of this section:
 
 #### (4) Geothermal or solar energy facility
 
-&emsp;In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before January 1, 2014 (January 1, 2006, in the case of a facility using solar energy). Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
+&emsp;In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and which—
+
+&emsp;&emsp;(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
+
+&emsp;&emsp;(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2014.
+
+> &emsp;Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
 #### (5) Small irrigation power facility
 
@@ -302,11 +310,11 @@ For purposes of this section:
 
 #### (6) Landfill gas facilities
 
-&emsp;In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before January 1, 2014.
+&emsp;In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
 
 #### (7) Trash facilities
 
-&emsp;In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before January 1, 2014. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+&emsp;In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originallyplaced in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 #### (8) Refined coal production facility
 
@@ -318,15 +326,21 @@ For purposes of this section:
 
 #### (9) Qualified hydropower facility
 
-&emsp;In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
+#### (A) In general
 
-&emsp;&emsp;(A) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2014, and
+&emsp;&emsp;In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
 
-&emsp;&emsp;(B) any other facility placed in service after the date of the enactment of this paragraph and before January 1, 2014.
+&emsp;&emsp;&emsp;(i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2014, and
 
-&emsp;&emsp;(C)
+&emsp;&emsp;&emsp;(ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
 
-Credit period.—In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
+#### (B) Credit period
+
+&emsp;&emsp;In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
+
+#### (C) Special rule
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2014, if the construction of such improvement or addition begins before such date.
 
 #### (10) Indian coal production facility
 
@@ -338,7 +352,7 @@ Credit period.—In the case of a qualified facility described in subparagraph (
 
 &emsp;&emsp;(A) which has a nameplate capacity rating of at least 150 kilowatts, and
 
-&emsp;&emsp;(B) which is originally placed in service on or after the date of the enactment of this paragraph and before January 1, 2014.
+&emsp;&emsp;(B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
 
 #### (e) Definitions and special rules
 
@@ -490,13 +504,13 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
 
-&emsp;&emsp;&emsp;(i) produced by the taxpayer at an Indian coal production facility during the 7-year period beginning on January 1, 2006, and
+&emsp;&emsp;&emsp;(i) produced by the taxpayer at an Indian coal production facility during the 8-year period beginning on January 1, 2006, and
 
 &emsp;&emsp;&emsp;(ii) sold by the taxpayer—
 
 &emsp;&emsp;&emsp;&emsp;(I) to an unrelated person, and
 
-&emsp;&emsp;&emsp;&emsp;(II) during such 7-year period and such taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) during such 8-year period and such taxable year.
 
 #### (B) Applicable dollar amount
 
@@ -554,7 +568,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -564,9 +578,9 @@ For purposes of this section—
 
 The date of the enactment of this paragraph, the date of the enactment of this clause, the date of the enactment of this subclause, and the date of the enactment of the American Jobs Creation Act of 2004, referred to in subsecs. (b)(4)(B)(ii) and (d)(2)(C)(i), (3)(A)(i), (4) to (8), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
-The date of the enactment of this clause and the date of the enactment of this paragraph, referred to in subsecs. (b)(4)(B)(iii), (c)(8), and (d)(9)(A), (B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
+The date of the enactment of this clause and the date of the enactment of this paragraph, referred to in subsecs. (b)(4)(B)(iii), (c)(8), and (d)(9)(A), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-Section 2(27) of the Solid Waste Disposal Act, referred to in subsec. (c)(6), probably should be section 1004(27)of such Act which is classified to section 6903(27) of Title 42, The Public Health and Welfare.
+Section 2(27) of the Solid Waste Disposal Act, referred to in subsec. (c)(6), probably should be section 1004(27) of such Act which is classified to section 6903(27) of Title 42, The Public Health and Welfare.
 
 The Federal Power Act, referred to in subsec. (c)(8)(C), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
@@ -581,6 +595,34 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(6). Pub. L. 112–240, §407(a)(2), inserted “, except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined)” after “(42 U.S.C. 6903)”.
+
+Subsec. (d)(1). Pub. L. 112–240, §407(a)(3)(A)(i), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Pub. L. 112–240, §407(a)(1), substituted “January 1, 2014” for “January 1, 2013”.
+
+Subsec. (d)(2)(A). Pub. L. 112–240, §407(a)(3)(B), inserted concluding provisions.
+
+Subsec. (d)(2)(A)(i). Pub. L. 112–240, §407(a)(3)(A)(ii), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (d)(3)(A)(i)(I). Pub. L. 112–240, §407(a)(3)(A)(iii), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (d)(3)(A)(ii). Pub. L. 112–240, §407(a)(3)(C), substituted “the construction of which begins” for “is originally placed in service”.
+
+Subsec. (d)(4). Pub. L. 112–240, §407(a)(3)(D)(i), substituted “and which—”, subpars. (A) and (B), and concluding provisions for “and before January 1, 2014 (January 1, 2006, in the case of a facility using solar energy). Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.”
+
+Subsec. (d)(6). Pub. L. 112–240, §407(a)(3)(A)(iv), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (d)(7). Pub. L. 112–240, §407(a)(3)(A)(v), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (d)(9). Pub. L. 112–240, §407(a)(3)(E), designated introductory provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, added subpar. (C), and redesignated former subpar. (C) as (B).
+
+Subsec. (d)(9)(B). Pub. L. 112–240, §407(a)(3)(A)(vi), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (d)(11)(B). Pub. L. 112–240, §407(a)(3)(A)(vii), substituted “the construction of which begins before January 1, 2014” for “before January 1, 2014”.
+
+Subsec. (e)(10)(A)(i), (ii)(II). Pub. L. 112–240, §406(a), substituted “8-year period” for “7-year period”.
 
 <b>2010</b>—Subsec. (d)(8)(B). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
 
@@ -602,7 +644,7 @@ Subsec. (c)(1)(I). Pub. L. 110–343, §102(a), added subpar. (I).
 
 Subsec. (c)(7)(A). Pub. L. 110–343, §108(a)(1), reenacted heading without change and amended text generally. Prior to amendment, subpar. (A) defined “refined coal”.
 
-Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting “and” at end of subcl. (II), substituting period for “, and” at end of subcl. (III), and striking out subcl. (IV) which read as follows: “is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or”.
+Subsec. (c)(7)(A)(i). Pub. L. 110–343, §101(b)(1), amended subsec. (c)(7)(A)(i) as amended by Pub. L. 110–348, §108(a)(1), by inserting “and” at end of subcl. (II), substituting period for “, and” at end of subcl. (III), andstriking out subcl. (IV) which read as follows: “is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal, or”.
 
 Subsec. (c)(7)(B). Pub. L. 110–343, §101(b)(2), inserted “at least 40 percent of the emissions of” after “nitrogen oxide and”.
 
@@ -744,6 +786,24 @@ Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §406(b), Jan. 2, 2013, 126 Stat. 2340, provided that: “The amendment made by this section \[amending this section\] shall apply to coal produced after December 31, 2012.”
+
+Pub. L. 112–240, title IV, §407(d), Jan. 2, 2013, 126 Stat. 2342, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section, section 48 of this title, and provisions set out as a note under section 48 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 2, 2013\].
+
+“(2)
+
+Modification to definition of municipal solid waste.—The amendments made by subsection (a)(2) \[amending this section\] shall apply to electricity produced and sold after the date of the enactment of this Act, in taxable years ending after such date.
+
+“(3)
+
+Technical corrections.—The amendments made by subsection (c) \[amending section 48 of this title and provisions set out as a note under section 48 of this title\] shall apply as if included in the enactment of the provisions of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5\] to which they relate.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §702(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section \[amending this section\] shall apply to facilities placed in service after December 31, 2009.”
@@ -784,7 +844,7 @@ Pub. L. 110–343, div. B, title I, §102(f), Oct. 3, 2008, 122 Stat. 3811, prov
 
 Amendment by section 106(c)(3)(B) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
-Pub. L. 110–343, div. B, title I, §108(e), Oct. 3, 2008, 122 Stat. 3821, provided that: “The amendments made by this section \[amending this section and section 45K ofthis title\] shall apply to fuel produced and sold after September 30, 2008.”
+Pub. L. 110–343, div. B, title I, §108(e), Oct. 3, 2008, 122 Stat. 3821, provided that: “The amendments made by this section \[amending this section and section 45K of this title\] shall apply to fuel produced and sold after September 30, 2008.”
 
 #### Effective Date of 2007 Amendment
 
@@ -853,6 +913,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Tax Years
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+<b>2012</b>—Internal Revenue Notice 2012–35.
 
 <b>2011</b>—Internal Revenue Notice 2011–40.
 

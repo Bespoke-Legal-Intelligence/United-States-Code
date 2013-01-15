@@ -8,7 +8,7 @@ The President may enter into a cooperative project agreement with the North Atla
 
 As used in this section—
 
-&emsp;(1) the term “cooperative project”, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization, meansa jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to further the objectives of standardization, rationalization, and interoperability of the armed forces of North Atlantic Treaty Organization member countries and which provides—
+&emsp;(1) the term “cooperative project”, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to further the objectives of standardization, rationalization, and interoperability of the armed forces of North Atlantic Treaty Organization member countries and which provides—
 
 &emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
@@ -48,7 +48,7 @@ Not less than 30 days before a cooperative project agreement is signed on behalf
 
 &emsp;(2) an estimate of the quantity of the defense articles expected to be produced in furtherance of such cooperative project;
 
-&emsp;(3) an estimate of the full cost of the cooperative project, with an estimate of the part of the full cost to be incurred by the United States Government, including an estimate of the costs as a result of waivers of section <sup>2</sup>2761(e)(1)(A) and 2792(b) of this title, for its participation in such cooperative project and an estimate of that part of the full costs to be incurred by the other participants;
+&emsp;(3) an estimate of the full cost of the cooperative project, with an estimate of the part of the full cost to be incurred by the United States Government, including an estimate of the costs as a result of waivers of section <sup>2</sup> 2761(e)(1)(A) and 2792(b) of this title, for its participation in such cooperative project and an estimate of that part of the full costs to be incurred by the other participants;
 
 &emsp;(4) an estimate of the dollar value of the funds to be contributed by the United States and each of the other participants on behalf of such cooperative project;
 

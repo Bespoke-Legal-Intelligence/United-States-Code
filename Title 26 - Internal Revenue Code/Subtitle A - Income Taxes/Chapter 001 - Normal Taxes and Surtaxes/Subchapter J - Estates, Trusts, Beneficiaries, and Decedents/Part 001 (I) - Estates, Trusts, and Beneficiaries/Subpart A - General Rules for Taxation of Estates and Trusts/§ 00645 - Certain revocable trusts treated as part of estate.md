@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) if no return of tax imposed by chapter 11 is required to be filed, the date which is 2 years after the date of the decedent's death, and
 
-&emsp;&emsp;(B) if such a return is required to be filed, the date which is 6 months after the date of the final determination of the liability for tax imposed by chapter 11.
+&emsp;&emsp;(B) if such a return is required to be filed, the date which is 6 months after the date ofthe final determination of the liability for tax imposed by chapter 11.
 
 #### (c) Election
 
@@ -36,5 +36,5 @@ A prior section 645 was renumbered section 644 of this title.
 
 #### Effective Date
 
-Section 1305(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section and amending section 2652 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1305(d), Aug. 5, 1997, 111 Stat. 1041, provided that: “The amendments made by this section \[enacting this section and amending section 2652 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

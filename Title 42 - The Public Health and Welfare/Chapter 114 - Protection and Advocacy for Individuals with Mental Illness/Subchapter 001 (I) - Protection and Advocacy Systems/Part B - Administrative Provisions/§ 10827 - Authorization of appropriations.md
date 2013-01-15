@@ -14,7 +14,7 @@ There are authorized to be appropriated for allotments under this subchapter, $1
 
 #### Effective Date of 1988 Amendment
 
-Section 8 of Pub. L. 100–509 provided that:
+Pub. L. 100–509, §8, Oct. 20, 1988, 102 Stat. 2546, provided that:
 
 “(a)
 

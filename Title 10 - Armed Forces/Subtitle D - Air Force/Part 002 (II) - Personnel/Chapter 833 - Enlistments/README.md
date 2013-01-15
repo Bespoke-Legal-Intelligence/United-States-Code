@@ -19,7 +19,7 @@
 
 <b>1988</b>—Pub. L. 100–456, div. A, title V, §522(a)(2), Sept. 29, 1988, 102 Stat. 1973, added item 8252.
 
-<b>1968</b>—Pub. L. 90–235, §2(a)(4)(C), Jan. 2, 1968, 81 Stat. 756, struck out item 8252 “Temporary enlistments”,item 8254 “Air Force: during war or emergency”, item 8255 “Regular Air Force: recruiting campaigns”, item 8256 “Regular Air Force: qualifications, term, grade”, item 8262 “Extension of enlistment for members needing medical care or hospitalization”, and item 8263 “Voluntary extension of enlistment”.
+<b>1968</b>—Pub. L. 90–235, §2(a)(4)(C), Jan. 2, 1968, 81 Stat. 756, struck out item 8252 “Temporary enlistments”, item 8254 “Air Force: during war or emergency”, item 8255 “Regular Air Force: recruiting campaigns”, item 8256 “Regular Air Force: qualifications, term, grade”, item 8262 “Extension of enlistment for members needing medical care or hospitalization”, and item 8263 “Voluntary extension of enlistment”.
 
 <b>1958</b>—Pub. L. 85–861, §1(166)(C), (D), Sept. 2, 1958, 72 Stat. 1516, struck out “: enlistment” after “United States” in item 8261, and added item 8263.
 

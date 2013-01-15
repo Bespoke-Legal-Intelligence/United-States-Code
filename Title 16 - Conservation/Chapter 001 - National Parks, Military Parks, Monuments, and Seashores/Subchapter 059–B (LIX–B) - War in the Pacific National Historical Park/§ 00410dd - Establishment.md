@@ -42,7 +42,7 @@ Notwithstanding any provision of law to the contrary, no fee or charge shall be 
 
 For the purposes of the park established under this section, effective October 1, 1978, there are authorized to be appropriated such sums as may be necessary, but not to exceed $16,000,000 for the acquisition of lands or interests in lands and $8,000,000 for development.
 
-#### (<i>l</i>) Monument
+#### (l) Monument
 
 Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
 
@@ -52,9 +52,9 @@ Within the boundaries of the park, the Secretary is authorized to implement prog
 
 #### (n) Report on projected development costs
 
-Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (<i>l</i>) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>2</sup> (<i>l</i>) of this section.
+Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (l) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>2</sup> (l) of this section.
 
-#### (<i>o</i>) Protection of vintage weapons and fortifications
+#### (o) Protection of vintage weapons and fortifications
 
 The Secretary may take such steps as may be necessary to preserve and protect various World War II vintage weapons and fortifications which exist within the boundaries of the park.
 
@@ -68,11 +68,11 @@ Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed
 
 <b>1993</b>—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
 
-Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i>l</i>) to (<i>o</i>).
+Subsecs. (l) to (o). Pub. L. 103–197, §3(b), added subsecs. (l) to (o).
 
 #### Congressional Findings
 
-Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
+Pub. L. 103–197, §1, Dec. 17, 1993, 107 Stat. 2301, provided that: “Congress finds that—
 
 &emsp;“(1) June 15 through August 10, 1994, marks the 50th anniversary of the Mariana campaign of World War II in which American forces captured the islands of Saipan and Tinian in the Northern Marianas and liberated the United States Territory of Guam from Japanese occupation;
 

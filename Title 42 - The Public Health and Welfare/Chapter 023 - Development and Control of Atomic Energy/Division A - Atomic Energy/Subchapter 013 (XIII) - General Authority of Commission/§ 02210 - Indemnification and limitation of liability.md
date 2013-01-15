@@ -2,11 +2,11 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission mayrequire, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required,it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
-(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: <i>Provided</i>, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: <i>Provided</i>, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: <i>And provided further</i>, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: <i>And provided further</i>, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee's pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (<i>o</i>)(1)(D) of this section, payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
+(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: <i>Provided</i>, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: <i>Provided</i>, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: <i>And provided further</i>, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: <i>And provided further</i>, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee's pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
 
 (2)(A) The Commission may, on a case by case basis, assess annual deferred premium amounts less than the standard annual deferred premium amount assessed under paragraph (1)—
 
@@ -22,7 +22,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(i) request the Congress to appropriate sufficient funds to satisfy such payments; or
 
-&emsp;(ii) to the extent approved in appropriation Acts, issue to the Secretary of the Treasuryobligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Commission and the Secretary of the Treasury.
+&emsp;(ii) to the extent approved in appropriation Acts, issue to the Secretary of the Treasury obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be agreed to by the Commission and the Secretary of the Treasury.
 
 (B) Except for funds appropriated for purposes of making reinsurance or guaranteed payments under paragraph (3), any funds appropriated under subparagraph (A)(i) shall be repaid to the general fund of the United States Treasury from amounts made available by standard deferred premium assessments, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the funds appropriated under such subparagraph are made available.
 
@@ -50,7 +50,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 &emsp;(A) may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity; and
 
-&emsp;(B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of$10,000,000,000 (subject to adjustment for inflation under subsection (t) of this section), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
+&emsp;(B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of $10,000,000,000 (subject to adjustment for inflation under subsection (t) of this section), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
 
 (3) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person under this section shall be deemed to be amended, on August 8, 2005, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection.
 
@@ -64,9 +64,9 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (e) Limitation on aggregate public liability
 
-(1) The aggregate public liability for a single nuclear incident of persons indemnified, including such legal costs as are authorized to be paid under subsection (<i>o</i>)(1)(D) of this section, shall not exceed—
+(1) The aggregate public liability for a single nuclear incident of persons indemnified, including such legal costs as are authorized to be paid under subsection (o)(1)(D) of this section, shall not exceed—
 
-&emsp;(A) in the case of facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the maximum amount of financial protection required of such facilities under subsection (b) of this section (plus any surcharge assessed under subsection (<i>o</i>)(1)(E) of this section);
+&emsp;(A) in the case of facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the maximum amount of financial protection required of such facilities under subsection (b) of this section (plus any surcharge assessed under subsection (o)(1)(E) of this section);
 
 &emsp;(B) in the case of contractors with whom the Secretary has entered into an agreement of indemnification under subsection (d) of this section, the amount of indemnity and financial protection that may be required under paragraph (2) of subsection (d) of this section; and
 
@@ -88,7 +88,7 @@ The Commission or the Secretary, as appropriate, is authorized to collect a fee 
 
 #### (g) Use of services of private insurers
 
-In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission or the Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions ofthis subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
+In administering the provisions of this section, the Commission or the Secretary, as appropriate, shall use, to the maximum extent practicable, the facilities and services of private insurance organizations, and the Commission orthe Secretary, as appropriate, may contract to pay a reasonable compensation for such services. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41 upon a showing by the Commission or the Secretary, as appropriate, that advertising is not reasonably practicable and advance payments may be made.
 
 #### (h) Conditions of agreements of indemnification
 
@@ -102,7 +102,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 &emsp;(B) expeditiously submit a report setting forth the results of such survey to the Congress, to the Representatives of the affected districts, to the Senators of the affected States, and (except for information that will cause serious damage to the national defense of the United States) to the public, to the parties involved, and to the courts.
 
-(2) Not later than 90 days after any determination by a court, pursuant to subsection (<i>o</i>) of this section, that the public liability from a single nuclear incident may exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section the President shall submit to the Congress—
+(2) Not later than 90 days after any determination by a court, pursuant to subsection (o) of this section, that the public liability from a single nuclear incident may exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section the President shall submit to the Congress—
 
 &emsp;(A) an estimate of the aggregate dollar value of personal injuries and property damage that arises from the nuclear incident and exceeds the amount of aggregate public liability under subsection (e)(1) of this section;
 
@@ -164,7 +164,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 > Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
 
-#### (<i>l</i>) Presidential commission on catastrophic nuclear accidents
+#### (l) Presidential commission on catastrophic nuclear accidents
 
 (1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
 
@@ -174,9 +174,9 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 &emsp;(ii) shall be representative of a broad range of views and interests.
 
-(B) The members of the study commission shall be appointed in a manner that ensures that not more than a mere majority of the members are of the same political party.
+(B) The members of the study commission shall be appointed in a manner that ensures thatnot more than a mere majority of the members are of the same political party.
 
-(C) Each member of the study commission shall hold office until the termination of thestudy commission, but may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
+(C) Each member of the study commission shall hold office until the termination of the study commission, but may be removed by the President for inefficiency, neglect of duty, or malfeasance in office.
 
 (D) Any vacancy in the study commission shall be filled in the manner in which the original appointment was made.
 
@@ -222,7 +222,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(D) arises out of, results from, or occurs in the course of, the construction, possession, or operation of any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section,
 
-&emsp;(E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclear material to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
+&emsp;(E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclearmaterial to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
 
 &emsp;(F) arises out of, results from, or occurs in the course of nuclear waste activities.<sup>3</sup>
 
@@ -232,7 +232,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 (3)(A) Following any nuclear incident, the chief judge of the United States district court having jurisdiction under paragraph (2) with respect to public liability actions (or the judicial council of the judicial circuit in which the nuclear incident occurs) may appoint a special caseload management panel (in this paragraph referred to as the “management panel”) to coordinate and assign (but not necessarily hear themselves) cases arising out of the nuclear incident, if—
 
-&emsp;(i) a court, acting pursuant to subsection (<i>o</i>) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section (or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
+&emsp;(i) a court, acting pursuant to subsection (o) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section (or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
 
 &emsp;(ii) the chief judge of the United States district court (or the judicial council of the judicial circuit) determines that cases arising out of the nuclear incident will have an unusual impact on the work of the court.
 
@@ -256,11 +256,11 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(vii) to assemble and submit to the President such data, available to the court, as may be useful in estimating the aggregate damages from the nuclear incident.
 
-#### (<i>o</i>) Plan for distribution of funds
+#### (o) Plan for distribution of funds
 
 (1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
 
-&emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incidentshall not exceed 15 per centum of such limit of liability without the prior approval of such court;
+&emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
 &emsp;(B) The court shall not authorize payments in excess of 15 per centum of such limit of liability unless the court determines that such payments are or will be in accordance with a plan of distribution which has been approved by the court or such payments are not likely to prejudice the subsequent adoption and implementation by the court of a plan of distribution pursuant to subparagraph (C); and
 
@@ -318,7 +318,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 &emsp;(B) the previous adjustment under this paragraph.
 
-(3) For purposes of this subsection, the term “Consumer Price Index” means the ConsumerPrice Index for all urban consumers published by the Secretary of Labor.
+(3) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
 (Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551; Pub. L. 108–375, div. C, title XXXI, §3141, Oct. 28, 2004, 118 Stat. 2171; Pub. L. 109–58, title VI, §§602–608, Aug. 8, 2005, 119 Stat. 779–781; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
@@ -326,7 +326,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 Public Law 85–804, referred to in subsec. (d)(1)(B)(i)(I), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A), (E), (F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (l)(1), (4)(A), (E), (F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -384,7 +384,7 @@ Pub. L. 100–408, §16(a)(2), substituted “the Nuclear Regulatory Commission 
 
 Subsec. (b). Pub. L. 100–408, §16(e)(2), inserted “Amount and type of financial protection for licensees” as heading.
 
-Subsec. (b)(1). Pub. L. 100–408, §2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (<i>o</i>)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility's size, location, and other factors pertaining to the hazard.”
+Subsec. (b)(1). Pub. L. 100–408, §2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility's size, location, and other factors pertaining to the hazard.”
 
 Subsec. (b)(2). Pub. L. 100–408, §2(c)(4), added par. (2).
 
@@ -430,7 +430,7 @@ Pub. L. 100–408, §8(1), substituted “August 1, 2002” for “August 1, 198
 
 Subsec. (k)(1). Pub. L. 100–408, §8(2), substituted “including such legal costs of the licensee as are approved by the Commission” for “excluding cost of investigating and settling claims and defending suits for damage”.
 
-Subsec. (<i>l</i>). Pub. L. 100–408, §9, inserted “Presidential commission on catastrophic nuclear accidents” as heading and completely revised and expanded subsec. (<i>l</i>), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
+Subsec. (l). Pub. L. 100–408, §9, inserted “Presidential commission on catastrophic nuclear accidents” as heading and completely revised and expanded subsec. (l), changing its structure from a single unnumbered subsection to one consisting of six numbered paragraphs.
 
 Subsec. (m). Pub. L. 100–408, §16(e)(9), inserted “Coordinated procedures for prompt settlement of claims and emergency assistance” as heading.
 
@@ -446,15 +446,15 @@ Pub. L. 100–408, §11(a), substituted “a nuclear incident” for “an extra
 
 Subsec. (n)(3). Pub. L. 100–408, §11(c), added par. (3).
 
-Subsec. (<i>o</i>). Pub. L. 100–408, §11(d)(1), inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
+Subsec. (o). Pub. L. 100–408, §11(d)(1), inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
 
-Subsec. (<i>o</i>)(1). Pub. L. 100–408, §7(b)(1), substituted “the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
+Subsec. (o)(1). Pub. L. 100–408, §7(b)(1), substituted “the applicable limit of liability under subparagraph\(A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
 
-Subsec. (<i>o</i>)(1)(B). Pub. L. 100–408, §16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (<i>o</i>)”.
+Subsec. (o)(1)(B). Pub. L. 100–408, §16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (o)”.
 
-Subsec. (<i>o</i>)(1)(C). Pub. L. 100–408, §16(b)(6), inserted “or the Secretary, as appropriate,” after first referenceto “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
+Subsec. (o)(1)(C). Pub. L. 100–408, §16(b)(6), inserted “or the Secretary, as appropriate,” after first reference to “Commission” and “or the Secretary as appropriate” after second reference to “Commission”.
 
-Subsec. (<i>o</i>)(4). Pub. L. 100–408, §7(b)(2), struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
+Subsec. (o)(4). Pub. L. 100–408, §7(b)(2), struck out par. (4) which read as follows: “The Commission shall, within ninety days after a court shall have made such determination, deliver to the Joint Committee a supplement to the report prepared in accordance with subsection (i) of this section setting forth the estimated requirements for full compensation and relief of all claimants, and recommendations as to the relief to be provided.”
 
 Subsec. (p). Pub. L. 100–408, §16(e)(11), inserted “Reports to Congress” as heading.
 
@@ -486,17 +486,17 @@ Subsec. (i). Pub. L. 94–197, §9, inserted “or which will probably result in
 
 Subsec. (k). Pub. L. 94–197, §10, substituted “August 1, 1987” for “August 1, 1977” wherever appearing and substituted “excluding” for “including the reasonable” in par. (1).
 
-Subsec. (<i>l</i>). Pub. L. 94–197, §11, substituted “excluding” for “including the reasonable”.
+Subsec. (l). Pub. L. 94–197, §11, substituted “excluding” for “including the reasonable”.
 
 Subsec. (n)(1)(iii). Pub. L. 94–197, §12, substituted “twenty years” for “ten years”.
 
-Subsec. (<i>o</i>)(3), (4). Pub. L. 94–197, §13, in par. (3) inserted provisions authorizing the establishment, in any plan for disposition of claims, of priorities between classes of claims and claimants to extent necessary to ensure the most equitable allocation of available funds, and added par. (4).
+Subsec. (o)(3), (4). Pub. L. 94–197, §13, in par. (3) inserted provisions authorizing the establishment, in any plan for disposition of claims, of priorities between classes of claims and claimants to extent necessary to ensure the most equitable allocation of available funds, and added par. (4).
 
 Subsec. (p). Pub. L. 94–197, §14, added subsec. (p).
 
-<b>1966</b>—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (<i>o</i>) of this section.
+<b>1966</b>—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (o) of this section.
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 89–645, §3, added subsecs. (m) to (<i>o</i>).
+Subsecs. (m) to (o). Pub. L. 89–645, §3, added subsecs. (m) to (o).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted “August 1, 1977” for “August 1, 1967” wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
@@ -506,7 +506,7 @@ Subsec. (e). Pub. L. 89–210, §3, inserted proviso prohibiting the aggregate l
 
 Subsec. (k). Pub. L. 89–210, §4, substituted “August 1, 1977” for “August 1, 1967” wherever appearing.
 
-Subsec. (<i>l</i>). Pub. L. 89–210, §5, substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+Subsec. (l). Pub. L. 89–210, §5, substituted “August 1, 1977” for “August 1, 1967” and “in the amount of $500,000,000” for “in the maximum amount provided by subsection (e) of this section”, inserted “in the aggregate for all persons indemnified in connection with each nuclear incident”, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–394, §2, provided that with respect to any facility for which a permit is issued between Aug. 30, 1954, and Aug. 1, 1967, the requirements of the subsection shall apply to any license issued subsequent to Aug. 1, 1967.
 
@@ -514,7 +514,7 @@ Subsec. (k). Pub. L. 88–394, §3, provided that with respect to any facility f
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–615, §6, limited the amount of indemnity provided by the Commission for nuclear incidents occurring outside the United States to $100,000,000.
 
-Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liability in cases of nuclear incidents occurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
+Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liability in cases of nuclear incidentsoccurring outside the United States to which an indemnification agreement entered into under subsec. (d) of this section is applicable, to $100,000,000, and substituted “occurring outside the United States, the Commission or any person indemnified may apply to the United States District Court for the District of Columbia” for “caused by ships of the United States outside of the United States, the Commission or any person indemnified may apply to the appropriate district court of the United States having venue in bankruptcy matters over the location of the principal place of business of the shipping company owning or operating the ship”.
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–206 inserted provision for liability of contractor to extent of indemnification under this section free of defense of sovereign immunity.
 
@@ -522,11 +522,11 @@ Subsec. (e). Pub. L. 87–615, §7, inserted proviso limiting the aggregate liab
 
 Subsec. (k). Pub. L. 85–744 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 85–602, §2, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 85–602, §2, added subsec. (l).
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (<i>l</i>)(4)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (l)(4)(C) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2005 Amendment
 
@@ -710,7 +710,7 @@ Claims Relating to Specified Diseases.—Any individual who—
 
 &emsp;&emsp;“(C) participated onsite in a test involving the atmospheric detonation of a nuclear device,
 
-> &emsp;and who submits written medical documentation that he or she, after such period of physical presence or such participation (as the case may be), contracted aspecified disease, shall receive $50,000 (in the case of an individual described in subparagraph (A) or (B)) or $75,000 (in the case of an individual described in subparagraph (C)), if—
+> &emsp;and who submits written medical documentation that he or she, after such period of physical presence or such participation (as the case may be), contracted a specified disease, shall receive $50,000 (in the case of an individual described in subparagraph (A) or (B)) or $75,000 (in the case of an individual described in subparagraph (C)), if—
 
 &emsp;&emsp;“(i) the claim for such payment is filed with the Attorney General by or on behalf of such individual, and
 
@@ -946,7 +946,7 @@ In general.—In the case of an individual who is deceased at the time of paymen
 
 &emsp;&emsp;&emsp;“(iv) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii) or parents described in clause (iii), such payment shall be made in equal shares to all grandchildren of the individual who are living at the time of payment.
 
-&emsp;&emsp;&emsp;“(v) If there is no surviving spouse described in clause (i), and if there are no children described inclause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
+&emsp;&emsp;&emsp;“(v) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
 
 &emsp;&emsp;“(B)
 
@@ -1038,7 +1038,7 @@ Regulatory Authority.—The Attorney General may issue such regulations as are n
 
 Issuance of Regulations, Guidelines, and Procedures.—Regulations, guidelines, and procedures to carry out this Act shall be issued not later than 180 days after the date of the enactment of this Act \[Oct. 15, 1990\]. Not later than 180 days after the date of enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], the Attorney General shall issue revised regulations to carry out this Act.
 
-“(<i>l</i>)
+“(l)
 
 Judicial Review.—An individual whose claim for compensation under this Act is denied may seek judicial review solely in a district court of the United States. The court shall review the denial on the administrative record and shall hold unlawful and set aside the denial if it is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
@@ -1108,7 +1108,7 @@ Completion.—Such report shall be completed not later than September 30, 1992.
 
 #### Negotiated Rulemaking on Financial Protection for Radiopharmaceutical Licensees
 
-Section 19 of Pub. L. 100–408 provided that:
+Pub. L. 100–408, §19, Aug. 20, 1988, 102 Stat. 1083, provided that:
 
 “(a)
 
@@ -1148,11 +1148,11 @@ Administrative procedures.—To the extent consistent with the provisions of thi
 
 #### Executive Order No. 12658
 
-Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President's Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, §3(c), Sept. 27, 1991, 56 F.R. 49836, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President's Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, §3(c), Sept. 27, 1991, 56 F.R. 49836, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12891
 
-Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human Radiation Experiments, was revoked by Ex. Ord. No. 13062, §3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human RadiationExperiments, was revoked by Ex. Ord. No. 13062, §3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commission,”.</i>
 

@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(b) the term “National Register” means the National Register of Historic Places maintained by the Secretary of the Interior under section 470a of title 16;
 
-&emsp;(c) the terms “public lands”, “Indian lands”, and “Indian tribe” have the same meaning given the terms in the Archaeological Resource <sup>1</sup> Protection Act of 1979 (16 U.S.C. 470aa–470<i>ll</i>);
+&emsp;(c) the terms “public lands”, “Indian lands”, and “Indian tribe” have the same meaning given the terms in the Archaeological Resource <sup>1</sup> Protection Act of 1979 (16 U.S.C. 470aa–470ll);
 
 &emsp;(d) the term “shipwreck” means a vessel or wreck, its cargo, and other contents;
 

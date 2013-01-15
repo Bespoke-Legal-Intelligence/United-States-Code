@@ -14,5 +14,5 @@ The Congress makes the following findings:
 
 #### Short Title
 
-Section 1401 of title XIV of div. A of Pub. L. 99–661 provided that: “This title \[enacting this chapter\] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
+Pub. L. 99–661, div. A, title XIV, §1401, Nov. 14, 1986, 100 Stat. 4007, provided that: “This title \[enacting this chapter\] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
 

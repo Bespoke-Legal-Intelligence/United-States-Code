@@ -70,7 +70,7 @@ The Tennessee Valley Authority—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority Retirement System shall enter into a memorandum of understanding providing for the transition for all eligible employees of compensation made available through the Tennessee Valley Authority Retirement System.
+&emsp;&emsp;The Secretary and the heads of the Office of Personnel Management, the TennesseeValley Authority and the Tennessee Valley Authority Retirement System shall enter into a memorandum of understanding providing for the transition for all eligible employees of compensation made available through the Tennessee Valley Authority Retirement System.
 
 #### (B) Employee participation
 
@@ -140,7 +140,7 @@ The Tennessee Valley Authority—
 
 &emsp;&emsp;&emsp;&emsp;(III) the deemed addition of 5 years to the age and the years of service of an eligible employee;
 
-&emsp;&emsp;&emsp;(ii) 15 months of health benefits for employees and dependents at the same level provided as of the date of transfer pursuant to section 460<i>lll</i>–41 of this title;
+&emsp;&emsp;&emsp;(ii) 15 months of health benefits for employees and dependents at the same levelprovided as of the date of transfer pursuant to section 460lll–41 of this title;
 
 &emsp;&emsp;&emsp;(iii) 1 week of pay per year of service as provided by the Tennessee Valley Authority Retirement System;
 

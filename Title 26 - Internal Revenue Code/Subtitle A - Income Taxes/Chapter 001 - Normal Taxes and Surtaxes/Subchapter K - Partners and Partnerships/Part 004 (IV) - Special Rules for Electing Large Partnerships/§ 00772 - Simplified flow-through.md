@@ -58,7 +58,7 @@ In determining the amounts required under subsection (a) to be separately taken 
 
 #### (4) Treatment of net capital gain or loss
 
-&emsp;For purposes of this chapter, any partner's distributive share of any gain or loss described in subsection (a)(3) shall be treated as a long-term capital gain or loss, as the case may be.
+&emsp;For purposes of this chapter, any partner's distributive share of any gain or loss describedin subsection (a)(3) shall be treated as a long-term capital gain or loss, as the case may be.
 
 #### (5) Minimum tax treatment
 

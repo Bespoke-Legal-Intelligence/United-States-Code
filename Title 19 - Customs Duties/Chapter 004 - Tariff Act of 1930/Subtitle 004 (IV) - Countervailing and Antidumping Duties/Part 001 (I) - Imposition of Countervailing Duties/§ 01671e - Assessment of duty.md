@@ -4,7 +4,7 @@
 
 Within 7 days after being notified by the Commission of an affirmative determination under section 1671d(b) of this title, the administering authority shall publish a countervailing duty order which—
 
-&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the dateon which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
+&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Special rule
 
-&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds threat of material injury, other than threat of material injury described in paragraph (1), or material retardation of the establishment of an industry in the United States, then merchandise subject to a countervailing duty order which is entered, or withdrawn from warehouse, for consumption on or after the date of publication of notice of an affirmative determination of the Commission under section 1671d(b) of this title shall be subject to the imposition of countervailing duties under section 1671(a) of this title, and the administering authority shall release any bond or other security, and refund any cash deposit made, to secure the payment of countervailing duties with respect to entries of the merchandise entered, or withdrawn from warehouse, for consumption before that date.
+&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds threat of material injury, other than threat of material injury described in paragraph (1), or material retardation of the establishment of an industry in the United States, then merchandise subject to a countervailing duty order which is entered, or withdrawn from warehouse, for consumption on or after the date of publication of notice of an affirmative determination of the Commission under section 1671d(b) of this title shall be subject to the imposition ofcountervailing duties under section 1671(a) of this title, and the administering authority shall release any bond or other security, and refund any cash deposit made, to secure the payment of countervailing duties with respect to entries of the merchandise entered, or withdrawn from warehouse, for consumption before that date.
 
 #### (c) Special rule for regional industries
 

@@ -1,12 +1,8 @@
 ### §32. Suspension or exclusion from practice
 
-The Director may, after notice and opportunity for a hearing, suspend or exclude, eithergenerally or in any particular case, from further practice before the Patent and Trademark Office, any person, agent, or attorney shown to be incompetent or disreputable, or guilty of gross misconduct, or who does not comply with the regulations established under section 2(b)(2)(D) of this title, or who shall, by word, circular, letter, or advertising, with intent to defraud in any manner, deceive, mislead, or threaten any applicant or prospective applicant, or other person having immediate or prospective business before the Office. The reasons for any such suspension or exclusion shall be duly recorded. The Director shall have the discretion to designate any attorney who is an officer or employee of the United States Patent and Trademark Office to conduct the hearing required by this section. A proceeding under this section shall be commenced not later than the earlier of either the date that is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D). The United States District Court for the Eastern District of Virginia, under such conditions and upon such proceedings as it by its rules determines, may review the action of the Director upon the petition of the person so refused recognition or so suspended or excluded.
+The Director may, after notice and opportunity for a hearing, suspend or exclude, either generally or in any particular case, from further practice before the Patent and Trademark Office, any person, agent, or attorney shown to be incompetent or disreputable, or guilty of gross misconduct, or who does not comply with the regulations established under section 2(b)(2)(D), or who shall, by word, circular, letter, or advertising, with intent to defraud in any manner, deceive, mislead, or threaten any applicant or prospective applicant, or other person having immediate or prospective business before the Office. The reasons for any such suspension or exclusion shall be duly recorded. The Director shall have the discretion to designate any attorney who is an officer or employee of the United States Patent and Trademark Office to conduct the hearing required by this section. A proceeding under this section shall be commenced not later than the earlier of either the date that is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D). The United States District Court for the Eastern District of Virginia, under such conditions and upon such proceedings as it by its rules determines, may review the action of the Director upon the petition of the person so refused recognition or so suspended or excluded.
 
 (July 19, 1952, ch. 950, 66 Stat. 795; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4715(c), 4719, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580 to 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(k)(1), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 291, 316, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -16,7 +12,7 @@ See note under section 31.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “2(b)(2)(D)” first time appearing.
+<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “2(b)(2)(D)” the first time appearing.
 
 Pub. L. 112–29, §9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
@@ -38,7 +34,7 @@ Pub. L. 112–29, §3(k)(3), Sept. 16, 2011, 125 Stat. 291, provided that: “Th
 
 Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

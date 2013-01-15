@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(7) increasing the volume and value of exports is important to the financial well-being of the farm sector in the United States and to increasing farm income in the United States;
 
-&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers in the United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Food for Peace Act (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
+&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers inthe United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Food for Peace Act (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
 
 &emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for Peace Act of 1966 (7 U.S.C. 1707a), the Food for Peace Act (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Short Title
 
-Section 4001 of title IV of Pub. L. 100–418 provided that: “This title \[enacting this chapter, section 2112 of Title 16, Conservation, and sections 1401, 1402, and 1403 of Title 21, Food and Drugs, amending sections 608c, 608e–1, 626, 1704, 1707a, 1726, 1736<i>o</i>, 1736s, 1736t, 1736v, 1736x, 1736bb, and 1736bb–3 to 1736bb–6 of this title, section 713a–14 of Title 15, Commerce and Trade, and section 620 of Title 21, and enacting provisions set out as notes under sections 624, 1431, 1446, 1691, and 1736t of this title and section 1401 of Title 21\] may be cited as the ‘Agricultural Competitiveness and Trade Act of 1988’.”
+Pub. L. 100–418, title IV, §4001, Aug. 23, 1988, 102 Stat. 1388, provided that: “This title \[enacting this chapter, section 2112 of Title 16, Conservation, and sections 1401, 1402, and 1403 of Title 21, Food and Drugs, amending sections 608c, 608e–1, 626, 1704, 1707a, 1726, 1736o, 1736s, 1736t, 1736v, 1736x, 1736bb, and 1736bb–3 to 1736bb–6 of this title, section 713a–14 of Title 15, Commerce and Trade, and section 620 of Title 21, and enacting provisions set out as notes under sections 624, 1431, 1446, 1691, and 1736t of this title and section 1401 of Title 21\] may be cited as the ‘Agricultural Competitiveness and Trade Act of 1988’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

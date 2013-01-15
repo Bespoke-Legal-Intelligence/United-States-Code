@@ -8,11 +8,11 @@
 
 #### (2) Special rule for certain State <sup>1</sup>
 
-&emsp;With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if theperson knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
+&emsp;With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
 
 #### (b) Buying, selling, delivering, possessing, training, or transporting animals for participation in animal fighting venture
 
-It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver, or receive any animal for purposes of having the animal participate in an animal fighting venture.
+It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver,or receive any animal for purposes of having the animal participate in an animal fighting venture.
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
@@ -58,11 +58,11 @@ The conduct by any person of any activity prohibited by this section shall not r
 
 The criminal penalties for violations of subsection (a), (b), (c), or (e) are provided in section 49 of title 18.
 
-(Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L.101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, §14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, §4(a), title XIV, §14207(a), June 18, 2008, 122 Stat. 1664, 2223.)
+(Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, §14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, §4(a), title XIV, §14207(a), June 18, 2008, 122 Stat. 1664, 2223.)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (i)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 

@@ -10,7 +10,7 @@ In connection with its examination of a financial institution, the appropriate F
 
 #### (b) Majority-owned institutions
 
-In assessing and taking into account, under subsection (a) of this section, the record of anonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
+In assessing and taking into account, under subsection (a) of this section, the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
 
 #### (c) Financial holding company requirement
 
@@ -18,13 +18,13 @@ In assessing and taking into account, under subsection (a) of this section, the 
 
 &emsp;An election by a bank holding company to become a financial holding company under section 1843 of this title shall not be effective if—
 
-&emsp;&emsp;(A) the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(<i>l</i>)(1)(C) <sup>1</sup> of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of “satisfactory record of meeting community credit needs”, or better, at the most recent examination of each such institution; and
+&emsp;&emsp;(A) the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(l)(1)(C) <sup>1</sup> of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of “satisfactory record of meeting community credit needs”, or better, at the most recent examination of each such institution; and
 
 &emsp;&emsp;(B) the Board notifies the company of such finding before the end of the 30-day period beginning on such date.
 
 #### (2) Limited exclusions for newly acquired insured depository institutions
 
-&emsp;Any insured depository institution acquired by a bank holding company during the 12-month period preceding the date of the submission to the Board of the declaration and certification under section 1843(<i>l</i>)(1)(C) <sup>1</sup> of this title may be excluded for purposes of paragraph (1) during the 12-month period beginning on the date of such acquisition if—
+&emsp;Any insured depository institution acquired by a bank holding company during the 12-month period preceding the date of the submission to the Board of the declaration and certification under section 1843(l)(1)(C) <sup>1</sup> of this title may be excluded for purposes of paragraph (1) during the 12-month period beginning on the date of such acquisition if—
 
 &emsp;&emsp;(A) the bank holding company has submitted an affirmative plan to the appropriate Federal financial supervisory agency to take such action as may be necessary in order for such institution to achieve a rating of “satisfactory record of meeting community credit needs”, or better, at the next examination of the institution; and
 
@@ -54,7 +54,7 @@ In assessing and taking into account, under subsection (a), the record of a fina
 
 #### References in Text
 
-Section 1843(<i>l</i>)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(<i>l</i>)(1)(D) of this title by Pub. L. 111–203, title VI, §606(a)(2), July 21, 2010, 124 Stat. 1607.
+Section 1843(l)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(l)(1)(D) of this title by Pub. L. 111–203, title VI, §606(a)(2), July 21, 2010, 124 Stat. 1607.
 
 #### Amendments
 

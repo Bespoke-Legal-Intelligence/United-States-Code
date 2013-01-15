@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 103–66, §13231(c)(2)(B), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31,1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -100,15 +100,15 @@ Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(7)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply in the case of transactions to which section 1248(e) of the 1986 Code applies and which occur after December 31, 1986.”
+Pub. L. 100–647, title I, §1012(bb)(7)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply in the case of transactions to which section 1248(e) of the 1986 Code applies and which occur after December 31, 1986.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1226(c)(2) of Pub. L. 99–514 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XII, §1226(c)(2), Oct. 22, 1986, 100 Stat. 2560, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 133(d)(2), (3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1810(i)(2), Oct. 22, 1986, 100 Stat. 2095, 2829; Pub. L. 100–647, title I, §1018(g)(2), Nov. 10, 1988, 102 Stat. 3582, provided that:
+Pub. L. 98–369, div. A, title I, §133(d)(2), (3), July 18, 1984, 98 Stat. 668, as amended by Pub. L. 99–514, §2, title XVIII, §1810(i)(2), Oct. 22, 1986, 100 Stat. 2095, 2829; Pub. L. 100–647, title I, §1018(g)(2), Nov. 10, 1988, 102 Stat. 3582, provided that:
 
 “(2)
 

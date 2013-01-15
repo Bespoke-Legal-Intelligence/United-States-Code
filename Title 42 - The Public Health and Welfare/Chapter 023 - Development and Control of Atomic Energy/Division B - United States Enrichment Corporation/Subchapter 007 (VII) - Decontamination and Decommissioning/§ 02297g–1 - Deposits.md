@@ -14,7 +14,7 @@ Deposits described in subsection (a) of this section shall be from the following
 
 #### (c) Special assessment
 
-The Secretary shall collect a special assessment from domestic utilities. The total amount collected for a fiscal year shall not exceed $150,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor). The amount collected from each utility pursuant to this subsection for a fiscal year shall be in the same ratio to the amount required under subsection (a) of this section to be deposited for such fiscal year as the total amount of separative work units such utility has purchased from the Department of Energy for the purpose of commercial electricity generation, before October 24, 1992, bears to the total amount of separative work units purchased from the Department of Energy for all purposes (including units purchased or producedfor defense purposes) before October 24, 1992. For purposes of this subsection—
+The Secretary shall collect a special assessment from domestic utilities. The total amount collected for a fiscal year shall not exceed $150,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor). The amount collected from each utility pursuant to this subsection for a fiscal year shall be in the same ratio to the amount required under subsection (a) of this section to be deposited for such fiscal year as the total amount of separative work units such utility has purchased from the Department of Energy for the purpose of commercial electricity generation, before October 24, 1992, bears to the total amount of separative work units purchased from the Department of Energy for all purposes (including units purchased or produced for defense purposes) before October 24, 1992. For purposes of this subsection—
 
 &emsp;(1) a utility shall be considered to have purchased a separative work unit from the Department if such separative work unit was produced by the Department, but purchased by the utility from another source; and
 
@@ -40,7 +40,7 @@ Except as provided in subsection (e) of this section, deposits shall continue to
 
 Any special assessment levied under this section on domestic utilities for the decontamination and decommissioning of the Department's gaseous diffusion enrichment facilities shall be deemed a necessary and reasonable current cost of fuel and shall be fully recoverable in rates in all jurisdictions in the same manner as the utility's other fuel cost.
 
-(Aug. 1, 1946, ch. 724, title II, §1802, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953; amended Pub. L. 105–388, §11(c), Nov. 13, 1998, 112 Stat. 3485; Pub. L. 107–222, §1(c), Aug. 21, 2002, 116 Stat. 1336.)
+(Aug. 1, 1946, ch. 724, title II, §1802, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat.2953; amended Pub. L. 105–388, §11(c), Nov. 13, 1998, 112 Stat. 3485; Pub. L. 107–222, §1(c), Aug. 21, 2002, 116 Stat. 1336.)
 
 #### Amendments
 

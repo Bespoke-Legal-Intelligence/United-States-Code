@@ -48,7 +48,7 @@
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section ifa charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) of this section if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -190,7 +190,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (k) Termination dates
 
-(1) This section shall not apply to discrimination in hiring, recruiting, or referring, or discharging of individuals occurring after the date of any termination of the provisions of section 1324a of this title, under subsection (<i>l</i>) <sup>2</sup> of that section.
+(1) This section shall not apply to discrimination in hiring, recruiting, or referring, or discharging of individuals occurring after the date of any termination of the provisions of section 1324a of this title, under subsection (l) <sup>2</sup> of that section.
 
 (2) The provisions of this section shall terminate 30 calendar days after receipt of the last report required to be transmitted under section 1324a(j) <sup>2</sup> of this title if—
 
@@ -202,9 +202,9 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 &emsp;(B) there has been enacted, within such period of 30 calendar days, a joint resolution stating in substance that the Congress approves the findings of the Comptroller General contained in such report.
 
-> The provisions of subsections (m) and (n) <sup>2</sup> of section 1324a of this title shall apply to any joint resolution under subparagraph (B) in the same manner as they apply to a joint resolution under subsection (<i>l</i>) <sup>2</sup> of such section.
+> The provisions of subsections (m) and (n) <sup>2</sup> of section 1324a of this title shall apply to any joint resolution under subparagraph (B) in the same manner as they apply to a joint resolution under subsection (l) <sup>2</sup> of such section.
 
-#### (<i>l</i>) Dissemination of information concerning anti-discrimination provisions
+#### (l) Dissemination of information concerning anti-discrimination provisions
 
 (1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation with the chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employee rights, responsibilities, and remedies under this section and such title.
 
@@ -220,9 +220,9 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (<i>l</i>)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-Subsections (j), (<i>l</i>), (m), and (n) of section 1324a of this title, referred to in subsec. (k), were repealed by Pub. L. 104–208, div. C, title IV, §412(c), Sept. 30, 1996, 110 Stat. 3009–668.
+Subsections (j), (l), (m), and (n) of section 1324a of this title, referred to in subsec. (k), were repealed by Pub. L. 104–208, div. C, title IV, §412(c), Sept. 30, 1996, 110 Stat. 3009–668.
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Pub. L. 101–649, §536(a), amended cl. (iv) generally. Prior to amendment, cl.
 
 Subsec. (g)(2)(B)(v) to (viii). Pub. L. 101–649, §539(a)(3), added cls. (v) to (viii).
 
-Subsec. (<i>l</i>). Pub. L. 101–649, §531, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 101–649, §531, added subsec. (l).
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §2(b)(1), inserted reference to section 1324a(h)(3) of this title.
 
@@ -292,7 +292,7 @@ Subsec. (h). Pub. L. 100–525, §2(b)(6), substituted “attorney's” for “a
 
 #### Effective Date of 1996 Amendment
 
-Section 421(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title IV, §421(b), Sept. 30, 1996, 110 Stat. 3009–670, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -304,19 +304,19 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Section 532(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §532(b), Nov. 29, 1990, 104 Stat. 5054, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 533(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to unfair immigration-related employment practices occurring before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §533(b), Nov. 29, 1990, 104 Stat. 5055, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to unfair immigration-related employment practices occurring before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 534(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §534(b), Nov. 29, 1990, 104 Stat. 5055, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 535(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\], but shall apply to actions occurring on or after such date.”
+Pub. L. 101–649, title V, §535(b), Nov. 29, 1990, 104 Stat. 5055, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect onthe date of the enactment of this Act \[Nov. 29, 1990\], but shall apply to actions occurring on or after such date.”
 
-Section 536(b) of Pub. L. 101–649 provided that: “The amendments made by this section \[amending this section\] shall apply to unfair immigration-related employment practices occurring after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §536(b), Nov. 29, 1990, 104 Stat. 5056, provided that: “The amendments made by this section \[amending this section\] shall apply to unfair immigration-related employment practices occurring after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 537(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to charges received on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §537(b), Nov. 29, 1990, 104 Stat. 5056, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to charges received on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 539(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to orders with respect to unfair immigration-related employment practices occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §539(b), Nov. 29, 1990, 104 Stat. 5057, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to orders with respect to unfair immigration-related employment practices occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -332,7 +332,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### No Effect on EEOC Authority
 
-Section 102(b) of Pub. L. 99–603 provided that: “Except as may be specifically provided in this section, nothing in this section shall be construed to restrict the authority of the Equal Employment Opportunity Commission to investigate allegations, in writing and under oath or affirmation, of unlawful employment practices, as provided in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5), or any other authority provided therein.”
+Pub. L. 99–603, title I, §102(b), Nov. 6, 1986, 100 Stat. 3379, provided that: “Except as may be specifically provided in this section, nothing in this section shall be construed to restrict the authority of the Equal Employment Opportunity Commission to investigate allegations, in writing and under oath or affirmation, of unlawful employment practices, as provided in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5), or any other authority provided therein.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

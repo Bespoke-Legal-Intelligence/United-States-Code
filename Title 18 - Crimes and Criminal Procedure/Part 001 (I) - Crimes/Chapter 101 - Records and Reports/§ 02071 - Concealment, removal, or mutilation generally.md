@@ -24,5 +24,5 @@ Minor changes were made in phraseology.
 
 #### Effective Date of 1990 Amendment
 
-Section 552(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1989.”
+Pub. L. 101–510, div. A, title V, §552(b), Nov. 5, 1990, 104 Stat. 1567, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1989.”
 

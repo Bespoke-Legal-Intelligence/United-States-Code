@@ -28,5 +28,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1982 Amendment
 
-Section 6(b) of Pub. L. 97–221 provided that: “The amendment made by this section \[amending this section\] shall take effect October 1, 1982. Section 5 of this Act \[set out in the Termination Date of 1982 Amendment note under section 6101 of this title\] shall not apply to the amendment made by this section.”
+Pub. L. 97–221, §6(b), July 23, 1982, 96 Stat. 234, provided that: “The amendment made by this section \[amending this section\] shall take effect October 1, 1982. Section 5 of this Act \[set out in the Termination Date of 1982 Amendment note under section 6101 of this title\] shall not apply to the amendment made by this section.”
 

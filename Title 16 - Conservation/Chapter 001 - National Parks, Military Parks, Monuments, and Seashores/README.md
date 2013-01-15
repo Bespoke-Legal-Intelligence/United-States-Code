@@ -124,7 +124,7 @@
 | 19<i>l.</i> | Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States. |
 | [19m.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019m%20-%20Liability%20of%20United%20States.md) | Liability of United States. |
 | [19n.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019n%20-%20Omitted.md) | Omitted. |
-| 19<i>o</i>. | Promotion of local fundraising support. |
+| [19o.](Subchapter%20003%20%28III%29%20-%20National%20Park%20Foundation/%C2%A7%2000019o%20-%20Promotion%20of%20local%20fundraising%20support.md) | Promotion of local fundraising support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -955,12 +955,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XLII—HALEAKALA�AE8 NATIONAL PARK
+#### SUBCHAPTER XLII—HALEAKALĀ NATIONAL PARK
 
 |  |  |
 | :--- | ---: |
-| [396b.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/%C2%A7%2000396b%20-%20Establishment%3B%20boundaries%3B%20administration.md) | Establishment; boundaries; administration. |
-| [396c.](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/%C2%A7%2000396c%20-%20Land%20acquisition%3B%20authorization%20of%20appropriations.md) | Land acquisition; authorization of appropriations. |
+| [396b.](Subchapter%20042%20%28XLII%29%20-%20Haleakal%C4%80%20National%20Park/%C2%A7%2000396b%20-%20Establishment%3B%20boundaries%3B%20administration.md) | Establishment; boundaries; administration. |
+| [396c.](Subchapter%20042%20%28XLII%29%20-%20Haleakal%C4%80%20National%20Park/%C2%A7%2000396c%20-%20Land%20acquisition%3B%20authorization%20of%20appropriations.md) | Land acquisition; authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1439,7 +1439,7 @@
 |  |  |
 | :--- | ---: |
 | 410<i>ll.</i> | Establishment. |
-| 410<i>ll</i>–1. | Votes for Women Trail. |
+| 410ll–1. | Votes for Women Trail. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1471,12 +1471,12 @@
 |  |  |
 | :--- | ---: |
 | 410<i>oo.</i> | Purposes. |
-| 410<i>oo</i>–1. | Establishment. |
-| 410<i>oo</i>–2. | Acquisition of property. |
-| 410<i>oo</i>–3. | Administration. |
-| 410<i>oo</i>–4. | Natchez Trace study. |
-| 410<i>oo</i>–5. | Advisory Commission. |
-| 410<i>oo</i>–6. | Authorization of appropriations. |
+| 410oo–1. | Establishment. |
+| 410oo–2. | Acquisition of property. |
+| 410oo–3. | Administration. |
+| 410oo–4. | Natchez Trace study. |
+| 410oo–5. | Advisory Commission. |
+| 410oo–6. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1867,7 +1867,7 @@
 
 |  |  |
 | :--- | ---: |
-| 410<i>lll</i>. | Paterson Great Falls National Historical Park, New Jersey. |
+| [410lll.](Subchapter%20059%E2%80%93JJ%20%28LIX%E2%80%93JJ%29%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park/%C2%A7%2000410lll%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park%2C%20New%20Jersey.md) | Paterson Great Falls National Historical Park, New Jersey. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1890,6 +1890,15 @@
 | 410nnn–4. | Cooperative agreements. |
 | 410nnn–5. | Management plan. |
 | 410nnn–6. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–MM—PINNACLES NATIONAL PARK
+
+|  |  |
+| :--- | ---: |
+| 410<i>ooo.</i> | Findings. |
+| 410ooo–1. | Establishment of Pinnacles National Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1928,12 +1937,12 @@
 | 423h–2. | Acquisition of lands; publication in Federal Register; administration. |
 | 423h–3. | Authorization of appropriation. |
 | 423i to 423<i>l.</i> | Omitted or Repealed. |
-| 423<i>l</i>–1. | Short title; definitions. |
-| 423<i>l</i>–2. | Findings and purpose. |
-| 423<i>l</i>–3. | Richmond National Battlefield Park; boundaries. |
-| 423<i>l</i>–4. | Land acquisition. |
-| 423<i>l</i>–5. | Park administration. |
-| 423<i>l</i>–6. | Authorization of appropriations. |
+| 423l–1. | Short title; definitions. |
+| 423l–2. | Findings and purpose. |
+| 423l–3. | Richmond National Battlefield Park; boundaries. |
+| 423l–4. | Land acquisition. |
+| 423l–5. | Park administration. |
+| 423l–6. | Authorization of appropriations. |
 | [423m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423m%20-%20Eutaw%20Springs%20Battlefield%20Site%3B%20establishment%3B%20purpose.md) | Eutaw Springs Battlefield Site; establishment; purpose. |
 | [423n.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000423n%20-%20Acceptance%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md) | Acceptance of lands and funds; acquisition of lands. |
 | 423<i>o.</i> | Administration, protection, and development. |
@@ -1978,7 +1987,7 @@
 | [426m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426m%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
 | [426n.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426n%20-%20Boundary%20revision%20of%20Stones%20River%20National%20Battlefield.md) | Boundary revision of Stones River National Battlefield. |
 | 426<i>o.</i> | Agreement with Murfreesboro, Tennessee, respecting battlefield. |
-| 426<i>o</i>–1. | Planning. |
+| 426o–1. | Planning. |
 | [426p.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000426p%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [427\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000427%20-%20Site%20of%20battle%20with%20Sioux%20Indians%3B%20purchase%3B%20erection%20of%20monument.md) | Site of battle with Sioux Indians; purchase; erection of monument. |
 | [427a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000427a%20-%20Omitted.md) | Omitted. |
@@ -2247,22 +2256,22 @@
 | [450kk.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450kk%20-%20Fort%20Union%20National%20Monument%3B%20acquisition%20of%20site%20and%20other%20lands%3B%20reversions%20and%20reservations.md) | Fort Union National Monument; acquisition of site and other lands; reversions and reservations. |
 | 450kk–1. | Establishment; publication in Federal Register; additional properties. |
 | 450<i>ll.</i> | Booker T. Washington National Monument; acquisition of site. |
-| 450<i>ll</i>–1. | Establishment and supervision. |
-| 450<i>ll</i>–2. | Maintenance of museum; provision for parks, construction of roads and use of markers. |
-| 450<i>ll</i>–3. | Additional lands. |
+| 450ll–1. | Establishment and supervision. |
+| 450ll–2. | Maintenance of museum; provision for parks, construction of roads and use of markers. |
+| 450ll–3. | Additional lands. |
 | 450mm to 450mm–3. Repealed. |  |
 | [450nn.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450nn%20-%20General%20Grant%20National%20Memorial%3B%20establishment.md) | General Grant National Memorial; establishment. |
 | 450<i>oo.</i> | Grand Portage National Monument; establishment; effective date. |
-| 450<i>oo</i>–1. | Acceptance of donations of land; instruments of relinquishment; life assignments. |
-| 450<i>oo</i>–2. | Procurement of other lands within monument. |
-| 450<i>oo</i>–3. | Visitor accommodations and services. |
-| 450<i>oo</i>–4. | Employment preferences. |
-| 450<i>oo</i>–5. | Production and sale of handicraft objects; noninterference with trade or business outside monument. |
-| 450<i>oo</i>–6. | Traversing privileges; regulations. |
-| 450<i>oo</i>–7. | Docking facilities. |
-| 450<i>oo</i>–8. | Advisory assistance for developments upon adjacent lands. |
-| 450<i>oo</i>–9. | Administration, protection, and development. |
-| 450<i>oo</i>–10. | Reversion upon abandonment. |
+| 450oo–1. | Acceptance of donations of land; instruments of relinquishment; life assignments. |
+| 450oo–2. | Procurement of other lands within monument. |
+| 450oo–3. | Visitor accommodations and services. |
+| 450oo–4. | Employment preferences. |
+| 450oo–5. | Production and sale of handicraft objects; noninterference with trade or business outside monument. |
+| 450oo–6. | Traversing privileges; regulations. |
+| 450oo–7. | Docking facilities. |
+| 450oo–8. | Advisory assistance for developments upon adjacent lands. |
+| 450oo–9. | Administration, protection, and development. |
+| 450oo–10. | Reversion upon abandonment. |
 | [450pp.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450pp%20-%20Roger%20Williams%20National%20Memorial%3B%20acquisition%20of%20site.md) | Roger Williams National Memorial; acquisition of site. |
 | 450pp–1. | Establishment; notice of establishment; administration. |
 | 450pp–2. | Cooperation with city of Providence and local historical and preservation societies. |
@@ -2494,9 +2503,9 @@
 |  |  |
 | :--- | ---: |
 | 460<i>l.</i> | Congressional findings and declaration of policy. |
-| 460<i>l</i>–1. | Powers and duties of Secretary of the Interior. |
-| 460<i>l</i>–2. | Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan. |
-| 460<i>l</i>–3. | Definitions. |
+| 460l–1. | Powers and duties of Secretary of the Interior. |
+| 460l–2. | Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan. |
+| 460l–3. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2504,24 +2513,24 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>l</i>–4. | Land and water conservation provisions; statement of purposes. |
-| 460<i>l</i>–5. | Land and water conservation fund; establishment; covering certain revenues and collections into fund. |
-| 460<i>l</i>–5a. | Repealed. |
-| 460<i>l</i>–6. | Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury. |
-| 460<i>l</i>–6a. | Admission and special recreation use fees. |
-| 460<i>l</i>–6b. | Repealed. |
-| 460<i>l</i>–6c. | Admission, entrance, and recreation fees. |
-| 460<i>l</i>–6d. | Commercial filming. |
-| 460<i>l</i>–7. | Allocation of land and water conservation fund for State and Federal purposes. |
-| 460<i>l</i>–8. | Financial assistance to States. |
-| 460<i>l</i>–9. | Allocation of land and water conservation fund moneys for Federal purposes. |
-| 460<i>l</i>–10. | Availability of land and water conservation fund for publicity purposes; standardized temporary signing; standards and guidelines. |
-| 460<i>l</i>–10a. | Contracts for acquisition of lands and waters. |
-| 460<i>l</i>–10b. | Contracts for options to acquire lands and waters in national park system. |
-| 460<i>l</i>–10c. | Repeal of provisions prohibiting collection of recreation fees or user charges. |
-| 460<i>l</i>–10d. | Review and report; submittal to Congressional committees; contents. |
-| 460<i>l</i>–10e. | Advisory Commission on water-based recreation. |
-| 460<i>l</i>–11. | Transfers to and from land and water conservation fund. |
+| 460l–4. | Land and water conservation provisions; statement of purposes. |
+| 460l–5. | Land and water conservation fund; establishment; covering certain revenues and collections into fund. |
+| 460l–5a. | Repealed. |
+| 460l–6. | Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury. |
+| 460l–6a. | Admission and special recreation use fees. |
+| 460l–6b. | Repealed. |
+| 460l–6c. | Admission, entrance, and recreation fees. |
+| 460l–6d. | Commercial filming. |
+| 460l–7. | Allocation of land and water conservation fund for State and Federal purposes. |
+| 460l–8. | Financial assistance to States. |
+| 460l–9. | Allocation of land and water conservation fund moneys for Federal purposes. |
+| 460l–10. | Availability of land and water conservation fund for publicity purposes; standardized temporary signing; standards and guidelines. |
+| 460l–10a. | Contracts for acquisition of lands and waters. |
+| 460l–10b. | Contracts for options to acquire lands and waters in national park system. |
+| 460l–10c. | Repeal of provisions prohibiting collection of recreation fees or user charges. |
+| 460l–10d. | Review and report; submittal to Congressional committees; contents. |
+| 460l–10e. | Advisory Commission on water-based recreation. |
+| 460l–11. | Transfers to and from land and water conservation fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2529,16 +2538,16 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>l</i>–12. | Recreation and fish and wildlife benefits of Federal multiple-purpose water resources projects; Congressional declaration of policy. |
-| 460<i>l</i>–13. | Non-Federal administration of project land and water areas. |
-| 460<i>l</i>–14. | Facilities or project modifications to be provided without written indication of intent. |
-| 460<i>l</i>–15. | Lease of facilities and lands to non-Federal public bodies. |
-| 460<i>l</i>–16. | Postauthorization development of projects without allocation or reallocation of costs. |
-| 460<i>l</i>–17. | Miscellaneous provisions. |
-| 460<i>l</i>–18. | Authority of Secretary of the Interior. |
-| 460<i>l</i>–19. | Feasibility reports. |
-| 460<i>l</i>–20. | Construction of projects under certain laws with allocations to recreation and fish and wildlife enhancement exceeding allocations to other functions unauthorized; exception. |
-| 460<i>l</i>–21. | Definitions. |
+| 460l–12. | Recreation and fish and wildlife benefits of Federal multiple-purpose water resources projects; Congressional declaration of policy. |
+| 460l–13. | Non-Federal administration of project land and water areas. |
+| 460l–14. | Facilities or project modifications to be provided without written indication of intent. |
+| 460l–15. | Lease of facilities and lands to non-Federal public bodies. |
+| 460l–16. | Postauthorization development of projects without allocation or reallocation of costs. |
+| 460l–17. | Miscellaneous provisions. |
+| 460l–18. | Authority of Secretary of the Interior. |
+| 460l–19. | Feasibility reports. |
+| 460l–20. | Construction of projects under certain laws with allocations to recreation and fish and wildlife enhancement exceeding allocations to other functions unauthorized; exception. |
+| 460l–21. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2546,7 +2555,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>l</i>–22. | Conveyance of property and interests in property in national park system and miscellaneous areas. |
+| 460l–22. | Conveyance of property and interests in property in national park system and miscellaneous areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2554,10 +2563,10 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>l</i>–31. | Findings. |
-| 460<i>l</i>–32. | Definitions. |
-| 460<i>l</i>–33. | Management of reclamation lands. |
-| 460<i>l</i>–34. | Protection of authorized purposes of reclamation projects. |
+| 460l–31. | Findings. |
+| 460l–32. | Definitions. |
+| 460l–33. | Management of reclamation lands. |
+| 460l–34. | Protection of authorized purposes of reclamation projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2636,13 +2645,13 @@
 |  |  |
 | :--- | ---: |
 | 460<i>o.</i> | Establishment. |
-| 460<i>o</i>–1. | Acquisition of lands. |
-| 460<i>o</i>–2. | Designation of area; boundaries. |
-| 460<i>o</i>–3. | Administration authorities for conservation, management, or disposal of natural resources; coordination of administrative responsibilities of the Secretary of the Interior and the Secretary of the Army. |
-| 460<i>o</i>–4. | Land and water use management plan; adoption, implementation, and revision; provisions. |
-| 460<i>o</i>–5. | Hunting and fishing. |
-| 460<i>o</i>–6. | Civil and criminal jurisdiction and taxing power of State. |
-| 460<i>o</i>–7. | Authorization of appropriations. |
+| 460o–1. | Acquisition of lands. |
+| 460o–2. | Designation of area; boundaries. |
+| 460o–3. | Administration authorities for conservation, management, or disposal of natural resources; coordination of administrative responsibilities of the Secretary of the Interior and the Secretary of the Army. |
+| 460o–4. | Land and water use management plan; adoption, implementation, and revision; provisions. |
+| 460o–5. | Hunting and fishing. |
+| 460o–6. | Civil and criminal jurisdiction and taxing power of State. |
+| 460o–7. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3011,11 +3020,11 @@
 |  |  |
 | :--- | ---: |
 | 460<i>ll.</i> | Findings and declaration of policy. |
-| 460<i>ll</i>–1. | Rattlesnake Wilderness. |
-| 460<i>ll</i>–2. | Rattlesnake National Recreation Area. |
-| 460<i>ll</i>–3. | Land acquisition and exchange. |
-| 460<i>ll</i>–4. | Filing of maps and descriptions. |
-| 460<i>ll</i>–5. | Authorization of appropriations. |
+| 460ll–1. | Rattlesnake Wilderness. |
+| 460ll–2. | Rattlesnake National Recreation Area. |
+| 460ll–3. | Land acquisition and exchange. |
+| 460ll–4. | Filing of maps and descriptions. |
+| 460ll–5. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3394,7 +3403,7 @@
 |  |  |
 | :--- | ---: |
 | 460<i>lll.</i> | Definitions. |
-| 460<i>lll</i>–1. | Purposes. |
+| 460lll–1. | Purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3402,10 +3411,10 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>lll</i>–11. | Establishment. |
-| 460<i>lll</i>–12. | Civil and criminal jurisdiction. |
-| 460<i>lll</i>–13. | Payments to States and counties. |
-| 460<i>lll</i>–14. | Forest highways. |
+| 460lll–11. | Establishment. |
+| 460lll–12. | Civil and criminal jurisdiction. |
+| 460lll–13. | Payments to States and counties. |
+| 460lll–14. | Forest highways. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3413,17 +3422,17 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>lll</i>–21. | Land and resource management plan. |
-| 460<i>lll</i>–22. | Advisory Board. |
-| 460<i>lll</i>–23. | Fees. |
-| 460<i>lll</i>–24. | Disposition of receipts. |
-| 460<i>lll</i>–25. | Special use authorizations. |
-| 460<i>lll</i>–26. | Cooperative authorities and gifts. |
-| 460<i>lll</i>–27. | Designation of national recreation trail. |
-| 460<i>lll</i>–28. | Cemeteries. |
-| 460<i>lll</i>–29. | Resource management. |
-| 460<i>lll</i>–30. | Hematite Dam. |
-| 460<i>lll</i>–31. | Trust Fund. |
+| 460lll–21. | Land and resource management plan. |
+| 460lll–22. | Advisory Board. |
+| 460lll–23. | Fees. |
+| 460lll–24. | Disposition of receipts. |
+| 460lll–25. | Special use authorizations. |
+| 460lll–26. | Cooperative authorities and gifts. |
+| 460lll–27. | Designation of national recreation trail. |
+| 460lll–28. | Cemeteries. |
+| 460lll–29. | Resource management. |
+| 460lll–30. | Hematite Dam. |
+| 460lll–31. | Trust Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3431,15 +3440,15 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>lll</i>–41. | Effective date of transfer. |
-| 460<i>lll</i>–42. | Statement of policy. |
-| 460<i>lll</i>–43. | Memorandum of agreement. |
-| 460<i>lll</i>–44. | Records. |
-| 460<i>lll</i>–45. | Transfer of personal property. |
-| 460<i>lll</i>–46. | Compliance with environmental laws. |
-| 460<i>lll</i>–47. | Personnel. |
-| 460<i>lll</i>–48. | Tennessee Valley Authority transfer costs. |
-| 460<i>lll</i>–49. | Tennessee Valley Authority transfer funding. |
+| 460lll–41. | Effective date of transfer. |
+| 460lll–42. | Statement of policy. |
+| 460lll–43. | Memorandum of agreement. |
+| 460lll–44. | Records. |
+| 460lll–45. | Transfer of personal property. |
+| 460lll–46. | Compliance with environmental laws. |
+| 460lll–47. | Personnel. |
+| 460lll–48. | Tennessee Valley Authority transfer costs. |
+| 460lll–49. | Tennessee Valley Authority transfer funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3447,7 +3456,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460<i>lll</i>–61. | Authorization of appropriations. |
+| 460lll–61. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3583,13 +3592,13 @@
 |  |  |
 | :--- | ---: |
 | 460<i>ooo.</i> | Definitions. |
-| 460<i>ooo</i>–1. | Establishment of the Sonoita Valley Acquisition Planning District. |
-| 460<i>ooo</i>–2. | Purposes of the Acquisition Planning District. |
-| 460<i>ooo</i>–3. | Establishment of the Las Cienegas National Conservation Area. |
-| 460<i>ooo</i>–4. | Management of the Las Cienegas National Conservation Area. |
-| 460<i>ooo</i>–5. | Management plan. |
-| 460<i>ooo</i>–6. | Land acquisition. |
-| 460<i>ooo</i>–7. | Reports to Congress. |
+| 460ooo–1. | Establishment of the Sonoita Valley Acquisition Planning District. |
+| 460ooo–2. | Purposes of the Acquisition Planning District. |
+| 460ooo–3. | Establishment of the Las Cienegas National Conservation Area. |
+| 460ooo–4. | Management of the Las Cienegas National Conservation Area. |
+| 460ooo–5. | Management plan. |
+| 460ooo–6. | Land acquisition. |
+| 460ooo–7. | Reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3761,7 +3770,7 @@
 - [Subchapter 039 (XXXIX) - Denali National Park](Subchapter%20039%20%28XXXIX%29%20-%20Denali%20National%20Park/README.md)
 - [Subchapter 040 (XL) - Hot Springs National Park](Subchapter%20040%20%28XL%29%20-%20Hot%20Springs%20National%20Park/README.md)
 - [Subchapter 041 (XLI) - Hawaii National Park](Subchapter%20041%20%28XLI%29%20-%20Hawaii%20National%20Park/README.md)
-- [Subchapter 042 (XLII) - Haleakala&#65533;AE8 National Park](Subchapter%20042%20%28XLII%29%20-%20Haleakala%EF%BF%BDAE8%20National%20Park/README.md)
+- [Subchapter 042 (XLII) - Haleakal&#256; National Park](Subchapter%20042%20%28XLII%29%20-%20Haleakal%C4%80%20National%20Park/README.md)
 - [Subchapter 042&#8211;A (XLII&#8211;A) - Kaloko-Honok&#332;Hau National Historical Park](Subchapter%20042%E2%80%93A%20%28XLII%E2%80%93A%29%20-%20Kaloko-Honok%C5%8CHau%20National%20Historical%20Park/README.md)
 - [Subchapter 043 (XLIII) - Pu&#8216;Uhonua O H&#332;Naunau National Historical Park](Subchapter%20043%20%28XLIII%29%20-%20Pu%E2%80%98Uhonua%20O%20H%C5%8CNaunau%20National%20Historical%20Park/README.md)
 - [Subchapter 044 (XLIV) - Virgin Islands National Park](Subchapter%20044%20%28XLIV%29%20-%20Virgin%20Islands%20National%20Park/README.md)
@@ -3819,6 +3828,7 @@
 - [Subchapter 059&#8211;JJ (LIX&#8211;JJ) - Paterson Great Falls National Historical Park](Subchapter%20059%E2%80%93JJ%20%28LIX%E2%80%93JJ%29%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;KK (LIX&#8211;KK) - Thomas Edison National Historical Park](Subchapter%20059%E2%80%93KK%20%28LIX%E2%80%93KK%29%20-%20Thomas%20Edison%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;LL (LIX&#8211;LL) - Palo Alto Battlefield National Historical Park](Subchapter%20059%E2%80%93LL%20%28LIX%E2%80%93LL%29%20-%20Palo%20Alto%20Battlefield%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;MM (LIX&#8211;MM) - Pinnacles National Park](Subchapter%20059%E2%80%93MM%20%28LIX%E2%80%93MM%29%20-%20Pinnacles%20National%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)

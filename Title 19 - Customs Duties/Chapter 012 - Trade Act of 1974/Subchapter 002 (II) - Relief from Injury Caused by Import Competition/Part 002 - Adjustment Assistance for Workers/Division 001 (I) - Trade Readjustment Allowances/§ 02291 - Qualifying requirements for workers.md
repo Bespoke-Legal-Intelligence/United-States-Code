@@ -220,7 +220,7 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1992 Amendment
 
-Section 106(b) of Pub. L. 102–318 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to weeks beginning after August 1, 1990.”
+Pub. L. 102–318, title I, §106(b), July 3, 1992, 106 Stat. 295, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to weeks beginning after August 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
@@ -288,7 +288,7 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 &emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to the individual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
 
-&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, andwhich are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
+&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
 
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 

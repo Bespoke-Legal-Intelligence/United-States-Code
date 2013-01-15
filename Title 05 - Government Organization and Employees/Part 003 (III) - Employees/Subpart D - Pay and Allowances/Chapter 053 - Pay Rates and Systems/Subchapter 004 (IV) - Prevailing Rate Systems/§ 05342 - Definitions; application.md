@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) an individual employed in or under an agency in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement;
 
-&emsp;&emsp;(B) an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement; and
+&emsp;&emsp;(B) an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft,or laboring experience and knowledge as the paramount requirement; and
 
 &emsp;&emsp;(C) an employee of the Veterans’ Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
 
@@ -102,7 +102,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Dissolution of Virgin Islands Corporation
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat.350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved byAct of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

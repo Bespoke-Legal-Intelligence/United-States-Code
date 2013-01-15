@@ -190,7 +190,7 @@ Compliance With Environmental Laws.—In carrying out this subtitle \[subtitle B
 
 #### Definitions
 
-Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: “In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620<i>o</i> of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
+Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: “In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
 
 &emsp;“(1)
 

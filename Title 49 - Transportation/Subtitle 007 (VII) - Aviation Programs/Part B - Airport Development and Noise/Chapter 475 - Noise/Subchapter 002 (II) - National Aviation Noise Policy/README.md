@@ -15,6 +15,7 @@
 - [&sect; 47528 - Prohibition on operating certain aircraft not complying with stage 3 noise levels](%C2%A7%2047528%20-%20Prohibition%20on%20operating%20certain%20aircraft%20not%20complying%20with%20stage%203%20noise%20levels.md)
 - [&sect; 47529 - Nonaddition rule](%C2%A7%2047529%20-%20Nonaddition%20rule.md)
 - [&sect; 47530 - Nonapplication of sections 47528(a)&#8211;(d) and 47529 to aircraft outside the 48 contiguous States](%C2%A7%2047530%20-%20Nonapplication%20of%20sections%2047528%28a%29%E2%80%93%28d%29%20and%2047529%20to%20aircraft%20outside%20the%2048%20contiguous%20States.md)
-- [&sect; 47531 - Penalties for violating sections 47528&#8211;47530](%C2%A7%2047531%20-%20Penalties%20for%20violating%20sections%2047528%E2%80%9347530.md)
+- [&sect; 47531 - Penalties](%C2%A7%2047531%20-%20Penalties.md)
 - [&sect; 47532 - Judicial review](%C2%A7%2047532%20-%20Judicial%20review.md)
 - [&sect; 47533 - Relationship to other laws](%C2%A7%2047533%20-%20Relationship%20to%20other%20laws.md)
+- [&sect; 47534 - Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels](%C2%A7%2047534%20-%20Prohibition%20on%20operating%20certain%20aircraft%20weighing%2075%2C000%20pounds%20or%20less%20not%20complying%20with%20stage%203%20noise%20levels.md)

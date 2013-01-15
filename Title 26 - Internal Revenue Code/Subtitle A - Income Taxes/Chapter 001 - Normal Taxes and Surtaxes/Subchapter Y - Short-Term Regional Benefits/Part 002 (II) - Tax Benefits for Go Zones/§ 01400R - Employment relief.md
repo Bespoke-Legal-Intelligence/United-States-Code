@@ -64,7 +64,7 @@
 
 #### (C) Qualified wages
 
-&emsp;&emsp;The term “qualified wages” means wages (as defined in section 51(c)(1), but without regard to section 3306(b)(2)(B)) paid or incurred by an eligible employer with respect to an eligible employee on any day afterSeptember 23, 2005, and before January 1, 2006, which occurs during the period—
+&emsp;&emsp;The term “qualified wages” means wages (as defined in section 51(c)(1), but without regard to section 3306(b)(2)(B)) paid or incurred by an eligible employer with respect to an eligible employee on any day after September 23, 2005, and before January 1, 2006, which occurs during the period—
 
 &emsp;&emsp;&emsp;(i) beginning on the date on which the trade or business described in subparagraph (A) first became inoperable at the principal place of employment of the employee immediately before Hurricane Rita, and
 

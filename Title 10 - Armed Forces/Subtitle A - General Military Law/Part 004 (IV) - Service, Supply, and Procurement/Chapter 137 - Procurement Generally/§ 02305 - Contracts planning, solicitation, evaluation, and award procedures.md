@@ -102,7 +102,7 @@
 
 (D) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
 
-(E) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(E) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offersor on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -358,7 +358,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 802(e) of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title VIII, §802(e), Nov. 5, 1990, 104 Stat. 1589, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 5, 1990\].
 
@@ -366,11 +366,11 @@ Section 802(e) of Pub. L. 101–510 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 924(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §924(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, Pub. L. 99–591, §101(c) \[title X, §924(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153, and Pub. L. 99–661, div. A, title IX, formerly title IV, §924(c), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Effective Date of 1984 Amendments
 
-Section 1213(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title XII, §1213(b), Oct. 19, 1984, 98 Stat. 2592, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
 

@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (ii) Wells not in production entire year
 
-&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears to the total number of days in the taxable year.
+&emsp;&emsp;&emsp;In the case of a well which is not capable of production during each day of a taxable year, the limitations under this paragraph applicable to the well shall be proportionately reduced to reflect the ratio which the number of days of production bears tothe total number of days in the taxable year.
 
 #### (3) Definitions
 

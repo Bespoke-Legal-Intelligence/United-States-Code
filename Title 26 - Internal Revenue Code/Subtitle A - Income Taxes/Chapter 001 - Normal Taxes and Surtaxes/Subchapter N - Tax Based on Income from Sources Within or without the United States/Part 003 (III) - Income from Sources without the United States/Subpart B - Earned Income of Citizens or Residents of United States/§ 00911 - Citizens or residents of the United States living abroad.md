@@ -68,7 +68,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 &emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
 
-&emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100,such increase shall be rounded to the next lowest multiple of $100.
+&emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
 #### (c) Housing cost amount
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) 30 percent (adjusted as may be provided under subparagraph (B)) of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which the taxable year of the individual begins, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
+&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period describedin subparagraph (A) or (B) of subsection (d)(1).
 
 #### (B) Regulations
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
@@ -454,11 +454,11 @@ Pub. L. 109–222, title V, §515(d), May 17, 2006, 120 Stat. 368, provided that
 
 #### Effective Date of 1997 Amendment
 
-Section 1172(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1172(b), Aug. 5, 1997, 111 Stat. 988, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1986 Amendment
 
-Section 1233(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1233(c), Oct. 22, 1986, 100 Stat. 2565, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -470,11 +470,11 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 115 of subtitle B (§§111–115) of title I of Pub. L. 97–34 provided that: “The amendments made by this subtitle \[amending this section and sections 37, 43, 62, 63, 105, 119, 410, 879, 1034, 1302, 1303, 1304, 1402, 3401, 6012, and 6091 of this title and repealing section 913 of this title\] (other than section 114 \[amending section 208 of Pub. L. 95–615, set out below\]) shall apply with respect to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title I, §115, Aug. 13, 1981, 95 Stat. 196, provided that: “The amendments made by this subtitle \[subtitle B (§§111–115) of title I of Pub. L. 97–34, amending this section and sections 37, 43, 62, 63, 105, 119, 410, 879, 1034, 1302, 1303, 1304, 1402, 3401, 6012, and 6091 of this title and repealing section 913 of this title\] (other than section 114 \[amending section 208 of Pub. L. 95–615, set out below\]) shall apply with respect to taxable years beginning after December 31, 1981.”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 4(d) of Pub. L. 96–595 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 96–595, §4(d), Dec. 24, 1980, 94 Stat. 3467, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
 Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
@@ -482,15 +482,15 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
-Section 701(u)(10)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
+Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
 
 Amendment by section 703(e) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
-Section 209 of Pub. L. 95–615 provided that:
+Pub. L. 95–615, title II, §209, Nov. 8, 1978, 92 Stat. 3109, provided that:
 
 “(a)
 
@@ -514,17 +514,17 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 1011(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: “The amendments made by this section \[amending this section and section 36 of this title\] shall apply to taxable years beginning after December 31, 1977.”
+Pub. L. 94–455, title X, §1011(d), Oct. 4, 1976, 90 Stat. 1611, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: “The amendments made by this section \[amending this section and section 36 of this title\] shall apply to taxable years beginning after December 31, 1977.”
 
 Amendment by section 1901(a)(115) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1964 Amendment
 
-Section 237(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1964.”
+Pub. L. 88–272, title II, §237(b), Feb. 26, 1964, 78 Stat. 128, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1964.”
 
 #### Effective Date of 1962 Amendment
 
-Section 11(c)(1) of Pub. L. 87–834 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after September 4, 1962, but only with respect to amounts—
+Pub. L. 87–834, §11(c)(1), Oct. 16, 1962, 76 Stat. 1005, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after September 4, 1962, but only with respect to amounts—
 
 &emsp;“(A) received after March 12, 1962, which are attributable to services performed after December 31, 1962, or
 
@@ -540,15 +540,15 @@ Section 703(e) of Pub. L. 95–600, cited as a credit to this section, was repea
 
 #### Treatment of Certain Persons in Panama
 
-Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Canal Treaty (or in any agreement implementing such Treaty) shall be construed as exempting (in whole or in part) any citizen or resident of the United States from any tax under the Internal Revenue Code of 1954 or 1986. The preceding sentence shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 1986\] (or in the case of any tax not imposed with respect to a taxable year, to taxable events after the date of enactment of this Act.)”
+Pub. L. 99–514, title XII, §1232(a), Oct. 22, 1986, 100 Stat. 2563, provided that: “Nothing in the Panama Canal Treaty (or in any agreement implementing such Treaty) shall be construed as exempting (in whole or in part) any citizen or resident of the United States from any tax under the Internal Revenue Code of 1954 or 1986. The preceding sentence shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 1986\] (or in the case of any tax not imposed with respect to a taxable year, to taxable events after the date of enactment of this Act.)”
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as anEffective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 
-Section 4(b) of Pub. L. 95–615, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If for any taxable year beginning in 1977—
+Pub. L. 95–615, §4(b), Nov. 8, 1978, 92 Stat. 3097, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If for any taxable year beginning in 1977—
 
 &emsp;“(1) an individual is entitled to the benefits of section 911 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and
 
@@ -558,7 +558,7 @@ Section 4(b) of Pub. L. 95–615, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Reports to Congressional Committees; Information From Federal Agencies
 
-Section 208 of Pub. L. 95–615, as amended by Pub. L. 97–34, title I, §114, Aug. 13, 1981, 95 Stat. 195; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XI, §11833, Nov. 5, 1990, 104 Stat. 1388–560, provided that:
+Pub. L. 95–615, title II, §208, Nov. 8, 1978, 92 Stat. 3108, as amended by Pub. L. 97–34, title I, §114, Aug. 13, 1981, 95 Stat. 195; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XI, §11833, Nov. 5, 1990, 104 Stat. 1388–560, provided that:
 
 “(a)
 

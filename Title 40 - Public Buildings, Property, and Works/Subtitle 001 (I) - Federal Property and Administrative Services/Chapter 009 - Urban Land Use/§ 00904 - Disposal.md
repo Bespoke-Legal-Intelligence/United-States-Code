@@ -2,7 +2,7 @@
 
 (a)
 
-Notice to Local Government.—Before offering real property situated in an urban area for sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
+Notice to Local Government.—Before offering real property situated in an urban areafor sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
 
 (b)
 

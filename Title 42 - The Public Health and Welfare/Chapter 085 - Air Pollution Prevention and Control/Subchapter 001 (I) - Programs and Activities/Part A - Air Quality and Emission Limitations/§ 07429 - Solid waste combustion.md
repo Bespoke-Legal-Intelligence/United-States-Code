@@ -16,7 +16,7 @@
 
 #### (2) Emissions standard
 
-&emsp;Standards applicable to solid waste incineration units promulgated under section 7411 of this title and this section shall reflect the maximum degree of reduction in emissions of air pollutants listed under section <sup>1</sup> (a)(4) that the Administrator, taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impacts and energy requirements, determines is achievable for new or existing units in each category. The Administrator may distinguish among classes, types (including mass-burn, refuse-derived fuel, modular and other types of units), and sizes of units within a category in establishing such standards. The degree of reduction in emissions that is deemed achievable for new units in acategory shall not be less stringent than the emissions control that is achieved in practice by the best controlled similar unit, as determined by the Administrator. Emissions standards for existing units in a category may be less stringent than standards for new units in the same category but shall not be less stringent than the average emissions limitation achieved by the best performing 12 percent of units in the category (excluding units which first met lowest achievable emissions rates 18 months before the date such standards are proposed or 30 months before the date such standards are promulgated, whichever is later).
+&emsp;Standards applicable to solid waste incineration units promulgated under section 7411 of this title and this section shall reflect the maximum degree of reduction in emissions of air pollutants listed under section <sup>1</sup> (a)(4) that the Administrator, taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impacts and energy requirements, determines is achievable for new or existing units in each category. The Administrator may distinguish among classes, types (including mass-burn, refuse-derived fuel, modular and other types of units), and sizes of units within a category in establishing such standards. The degree of reduction in emissions that is deemed achievable for new units in a category shall not be less stringent than the emissions control that is achieved in practice by the best controlled similar unit, as determined by the Administrator. Emissions standards for existing units in a category may be less stringent than standards for new units in the same category but shall not be less stringent than the average emissions limitation achieved by the best performing 12 percent of units in the category (excluding units which first met lowest achievable emissions rates 18 months before the date such standards are proposed or 30 months before the date such standards are promulgated, whichever is later).
 
 #### (3) Control methods and technologies
 
@@ -46,7 +46,7 @@
 
 #### (c) Monitoring
 
-The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 of this title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
+The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 ofthis title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
 
 &emsp;(1) to monitor emissions from the unit at the point at which such emissions are emitted into the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
 
@@ -54,7 +54,7 @@ The Administrator shall, as part of each performance standard promulgated pursua
 
 &emsp;(3) to report the results of such monitoring.
 
-> Such regulations shall contain provisions regarding the frequency of monitoring, test methods and procedures validated on solid waste incineration units, and the form and frequency of reports containing the results of monitoring and shall require that any monitoring reports or test results indicating an exceedance of any standard under this section shall be reported separately and in a manner that facilitates review for purposes of enforcement actions. Such regulationsshall require that copies of the results of such monitoring be maintained on file at the facility concerned and that copies shall be made available for inspection and copying by interested members of the public during business hours.
+> Such regulations shall contain provisions regarding the frequency of monitoring, test methods and procedures validated on solid waste incineration units, and the form and frequency of reports containing the results of monitoring and shall require that any monitoring reports or test results indicating an exceedance of any standard under this section shall be reported separately and in a manner that facilitates review for purposes of enforcement actions. Such regulations shall require that copies of the results of such monitoring be maintained on file at the facility concerned and that copies shall be made available for inspection and copying by interested members of the public during business hours.
 
 #### (d) Operator training
 
@@ -80,7 +80,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (4) Coordination with other authorities
 
-&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or a State or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
+&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or aState or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
 
 #### (g) Definitions
 
@@ -126,7 +126,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 &emsp;&emsp;(A) the performance standards under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units shall be deemed standards under section 7412(d)(2) of this title, and
 
-&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listed under subsection (a)(4) of this section and no others.
+&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listedunder subsection (a)(4) of this section and no others.
 
 #### (4) Acid rain
 
@@ -140,13 +140,13 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### References in Text
 
-Section 306 of the Clean Air Act Amendments of 1990, referred to in subsec. (g), probably means section 306 ofPub. L. 101–549, which is set out as a note under section 6921 of this title.
+Section 306 of the Clean Air Act Amendments of 1990, referred to in subsec. (g), probably means section 306 of Pub. L. 101–549, which is set out as a note under section 6921 of this title.
 
 The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 #### Review of Acid Gas Scrubbing Requirements
 
-Section 305(c) of Pub. L. 101–549 provided that: “Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[42 U.S.C. 7411, 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act.”
+Pub. L. 101–549, title III, §305(c), Nov. 15, 1990, 104 Stat. 2583, provided that: “Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[42 U.S.C. 7411, 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

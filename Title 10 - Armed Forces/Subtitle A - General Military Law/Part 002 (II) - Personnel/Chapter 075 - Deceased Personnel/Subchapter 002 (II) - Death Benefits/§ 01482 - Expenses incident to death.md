@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -180,7 +180,7 @@ Pub. L. 111–84, div. A, title V, §542(a), Oct. 28, 2009, 123 Stat. 2299, prov
 
 “(1)
 
-Policy required.—Not later than April 1, 2010, the Secretary of Defense shall prescribe a policy guaranteeing media access at ceremonies for the dignified transfer of remains of members of the Armed Forces who die while located or serving overseas (in this section referred to as ‘military decedents’) when approved by the primary next of kin of such military decedents.
+Policy required.—Not later than April 1, 2010, the Secretary of Defense shall prescribe a policy guaranteeing media access at ceremonies for the dignified transfer of remains of members of the Armed Forceswho die while located or serving overseas (in this section referred to as ‘military decedents’) when approved by the primary next of kin of such military decedents.
 
 “(2)
 

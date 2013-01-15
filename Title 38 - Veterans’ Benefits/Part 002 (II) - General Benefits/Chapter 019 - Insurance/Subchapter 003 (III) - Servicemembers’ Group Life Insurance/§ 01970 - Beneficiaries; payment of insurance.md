@@ -16,11 +16,11 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (b) If any person otherwise entitled to payment under this section does not make claim therefor within one year after the death of the member or former member, or if payment to such person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if such person had predeceased the member or former member, and any such payment shall be a bar to recovery by any other person.
 
-(c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled under the order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any such claim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
+(c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled underthe order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any such claim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
 
 (d) The member may elect settlement of insurance under this subchapter either in a lump sum or in thirty-six equal monthly installments. If no such election is made by the member the beneficiary or beneficiaries may elect settlement either in a lump sum or in thirty-six equal monthly installments. If the member has elected settlement in a lump sum, the beneficiary or beneficiaries may elect settlement in thirty-six equal monthly installments.
 
-(e) Until and unless otherwise changed, a beneficiary designation and settlement option filed by a member with the member's uniformed service under prior provisions of law will be effectivewith respect to the increased insurance authorized under the Veterans’ Insurance Act of 1974 and the insurance shall be settled in the same proportionate amount as the portion designated for such beneficiary or beneficiaries bore to the amount of insurance heretofore in effect.
+(e) Until and unless otherwise changed, a beneficiary designation and settlement option filed by a member with the member's uniformed service under prior provisions of law will be effective with respect to the increased insurance authorized under the Veterans’ Insurance Act of 1974 and the insurance shall be settled in the same proportionate amount as the portion designated for such beneficiary or beneficiaries bore to the amount of insurance heretofore in effect.
 
 (f) Notwithstanding the provisions of any other law, payment of matured Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance benefits may be made directly to a minor widow or widower on his or her own behalf, and payment in such case shall be a complete acquittance to the insurer.
 
@@ -64,7 +64,7 @@ Subsec. (g)(2). Pub. L. 102–54 substituted “Internal Revenue Code of 1986”
 
 Subsec. (e). Pub. L. 99–576, §701(40)(B), substituted “the member's” for “his”.
 
-<b>1982</b>—Subsec. (c). Pub L. 97–306, §401(a)(1), struck out provision that if, within four years after the death of the member or former member, payment had not been made pursuant to this section and no claim for payment by any person entitled under this section was pending, the amount payable would escheat to the credit of the revolving fund referred to in section 769(d) of this title.
+<b>1982</b>—Subsec. (c). Pub L. 97–306, §401(a)(1), struck out provision that if, within four years after the death ofthe member or former member, payment had not been made pursuant to this section and no claim for payment by any person entitled under this section was pending, the amount payable would escheat to the credit of the revolving fund referred to in section 769(d) of this title.
 
 Subsec. (g). Pub. L. 97–295 inserted “(26 U.S.C. 6331 et seq.)” after “Code of 1954”.
 
@@ -94,7 +94,7 @@ Pub. L. 105–368, title III, §302(c), Nov. 11, 1998, 112 Stat. 3333, provided 
 
 #### Effective Date of 1982 Amendment
 
-Section 401(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title IV, §401(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1970 Amendment
 

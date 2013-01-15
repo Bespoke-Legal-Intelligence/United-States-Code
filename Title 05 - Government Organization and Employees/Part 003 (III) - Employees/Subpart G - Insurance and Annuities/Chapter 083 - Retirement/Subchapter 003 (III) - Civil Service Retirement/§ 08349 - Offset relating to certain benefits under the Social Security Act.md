@@ -14,13 +14,13 @@
 
 &emsp;(II) the old-age insurance benefit which would be so payable, excluding all wages derived from Federal service of the individual, and assuming the individual were fully insured (as defined by section 214(a) of the Social Security Act).
 
-(ii) For purposes of this subsection, the amount of a benefit referred to in subclause (I) or (II) of clause (i) shall be determined without regard to subsections (b) through (<i>l</i>) of section 203 of the Social Security Act, and without regard to the requirement that an application for such benefit be filed.
+(ii) For purposes of this subsection, the amount of a benefit referred to in subclause (I) or (II) of clause (i) shall be determined without regard to subsections (b) through (l) of section 203 of the Social Security Act, and without regard to the requirement that an application for such benefit be filed.
 
 (B) A reduction under this subsection—
 
 &emsp;(i) may not exceed an amount equal to the product of—
 
-&emsp;&emsp;(I) the old-age insurance benefit to which the individual is entitled (or would on proper application be entitled) for the month referred to in paragraph (2), determined without regard to subsections (b) through (<i>l</i>) of section 203 of the Social Security Act; and
+&emsp;&emsp;(I) the old-age insurance benefit to which the individual is entitled (or would on proper application be entitled) for the month referred to in paragraph (2), determined without regard to subsections (b) through (l) of section 203 of the Social Security Act; and
 
 &emsp;&emsp;(II) a fraction, as determined under section 8421(b)(3) with respect to the individual, except that the reference to “service” in subparagraph (A) of such section shall be considered to mean Federal service; and
 
@@ -58,9 +58,9 @@
 
 &emsp;(1) the terms “an individual under section 8402(b)(2)” and “an individual described in section 8402(b)(2)” shall each be considered to include any individual—
 
-&emsp;&emsp;(A) who is subject to this subchapter as a result of any provision of law described in section 8347(<i>o</i>), and
+&emsp;&emsp;(A) who is subject to this subchapter as a result of any provision of law described in section 8347(o), and
 
-&emsp;&emsp;(B) whose employment (as described in section 8347(<i>o</i>)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
+&emsp;&emsp;(B) whose employment (as described in section 8347(o)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
 
 &emsp;(2) the term “Federal service”, as applied with respect to any individual to whom this section applies as a result of paragraph (1), means any employment referred to in paragraph (1)(B) performed after December 31, 1983.
 

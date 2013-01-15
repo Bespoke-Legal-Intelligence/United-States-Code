@@ -2,7 +2,7 @@
 
 #### (a) Integrated natural resources management plan
 
-The Secretary of Defense in cooperation with the Secretary of the Interior and the appropriate State agency is authorized to carry out a program for the conservation, restoration and management of migratory game birds on military installations, including the issuance of special hunting permits and the collection of fees therefor, in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior and the appropriate State agency.
+The Secretary of Defense in cooperation with the Secretary of the Interior and the appropriate State agency is authorized to carry out a program for the conservation, restoration and management of migratory game birds on military installations, including the issuance of special hunting permits and the collection of fees therefor, in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense, the Secretaryof the Interior and the appropriate State agency.
 
 #### (b) Applicability of other laws
 
@@ -20,7 +20,7 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 <b>2011</b>—Pub. L. 112–81 inserted section catchline and subsec. (a) designation and heading, and substituted “agency.”, subsec. (b) designation and heading, and “Possession” for “agency: Provided, That possession”.
 
-<b>1997</b>—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integratednatural resources management plan” for “a cooperative plan”.
+<b>1997</b>—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
 
 <b>1974</b>—Pub. L. 93–452, §3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
 

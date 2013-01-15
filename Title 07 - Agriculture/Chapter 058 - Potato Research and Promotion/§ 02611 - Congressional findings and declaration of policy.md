@@ -16,11 +16,11 @@ Therefore, it is the declared policy of the Congress and the purpose of this cha
 
 #### Effective Date
 
-Section 319 of title III of Pub. L. 91–670 provided that: “This title \[this chapter\] shall take effect upon enactment \[Jan. 11, 1971\]”.
+Pub. L. 91–670, title III, §319, Jan. 11, 1971, 84 Stat. 2047, provided that: “This title \[see Short Title note below\] shall take effect upon enactment \[Jan. 11, 1971\]”.
 
 #### Short Title of 1990 Amendment
 
-Section 1935 of Pub. L. 101–624 provided that: “This subtitle \[subtitle C (§§1935–1946) of title XIX of Pub. L. 101–624, amending this section and sections 2612 to 2614, 2617 to 2619, and 2622 to 2624 of this title, and enacting provisions set out as a note under section 2625 of this title\] may be cited as the ‘Potato Research and Promotion Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, §1935, Nov. 28, 1990, 104 Stat. 3865, provided that: “This subtitle \[subtitle C (§§1935–1946) of title XIX of Pub. L. 101–624, amending this section and sections 2612 to 2614, 2617 to 2619, and 2622 to 2624 of this title, and enacting provisions set out as a note under section 2625 of this title\] may be cited as the ‘Potato Research and Promotion Act Amendments of 1990’.”
 
 #### Short Title of 1982 Amendment
 
@@ -28,5 +28,5 @@ Pub. L. 97–244, §1, Aug. 26, 1982, 96 Stat. 310, provided: “That this Act \
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 91–670 provided that: “This title \[enacting this chapter\] may be cited as the ‘Potato Research and Promotion Act’.”
+Pub. L. 91–670, title III, §301, Jan. 11, 1971, 84 Stat. 2041, provided that: “This title \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Potato Research and Promotion Act’.”
 

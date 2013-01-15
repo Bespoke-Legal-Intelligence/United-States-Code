@@ -151,7 +151,7 @@ Controlled groups.—
 
 &emsp;&emsp;“(A)
 
-In general.—For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (<i>o</i>) of section 414 of such Code shall be treated as a single covered entity.
+In general.—For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as a single covered entity.
 
 &emsp;&emsp;“(B)
 
@@ -363,7 +363,7 @@ Controlled groups.—
 
 &emsp;&emsp;“(A)
 
-In general.—For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (<i>o</i>) of section 414 of such Code shall be treated as a single covered entity (or employer for purposes of paragraph (2)).
+In general.—For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as a single covered entity (or employer for purposes of paragraph (2)).
 
 &emsp;&emsp;“(B)
 

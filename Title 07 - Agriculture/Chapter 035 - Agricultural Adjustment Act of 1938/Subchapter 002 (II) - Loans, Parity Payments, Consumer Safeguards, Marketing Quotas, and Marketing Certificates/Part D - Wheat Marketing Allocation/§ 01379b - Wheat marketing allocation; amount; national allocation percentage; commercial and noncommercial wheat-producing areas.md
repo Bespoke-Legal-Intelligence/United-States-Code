@@ -6,7 +6,7 @@ During any marketing year for which a marketing quota is in effect for wheat, be
 
 #### Amendments
 
-<b>1973</b>—Subsec. (c)(1). Pub. L. 91–524, §402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates on wheat”, “wheat allotment” for “domestic wheat allotment”, “thirteen and three-tenths million” for “13.3 million”, “1971 crop; plus, if required by the Secretary, (ii) the acreage” for “1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage”, “The Secretary is authorized for the 1974 through 1977 crops to limit” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit”, “such percentage of the acreage allotment” for “such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section”, “The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and” for “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to”, and “flaxseed, triticale, oats, rye, or other commodity” for “flaxseed, or other commodity”. SeeEffective and Termination Dates of 1973 Amendment note below.
+<b>1973</b>—Subsec. (c)(1). Pub. L. 91–524, §402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates on wheat”, “wheat allotment” for “domestic wheat allotment”, “thirteen and three-tenths million” for “13.3 million”, “1971 crop; plus, if required by the Secretary, (ii) the acreage” for “1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage”, “The Secretary is authorized for the 1974 through 1977 crops to limit” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit”, “such percentage of the acreage allotment” for “such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section”, “The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and” for “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to”, and “flaxseed, triticale, oats, rye, or other commodity” for “flaxseed, or other commodity”. See Effective and Termination Dates of 1973 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 91–524, §402(b)(B)(i), as added by Pub. L. 93–86, temporarily substituted “payments authorized by section 1445a(c) of this title” for “certificates authorized in subsection (b) of this section”. See Effective and Termination Dates of 1973 Amendment note below.
 
@@ -36,25 +36,25 @@ Pub. L. 88–297, §202(11), substituted “food products for consumption in the
 
 #### Effective and Termination Dates of 1973 Amendment
 
-Section 402(b)(B) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–86, provided that the amendment made by that section is effective with respect to 1974 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, §402(b)(B), as added by Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsec. (c) of this section, as amended by section 402(a), (b)(B) of Pub. L. 91–524, is effective with respect to the 1974 through 1977 crops of wheat.
 
-Section 402(b)(C) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–86, provided that the amendment made by that section is effective for 1974 through 1977 crops.
+Pub. L. 91–524, title IV, §402(b)(C), as added by Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsecs. (d), (e), (g), and (i) of this section, as amended by section 402(a), (b)(C) of Pub. L. 91–524, is effective for the 1974 through 1977 crops.
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 402(a), formerly section 402, of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to 1971, 1972, and 1973 crops of wheat.
+Pub. L. 91–524, title IV, §402(a), formerly §402, Nov. 30, 1970, 84 Stat. 1362, as renumbered by Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 225, provided that the amendment made by section 402(a) of Pub. L. 91–524 is effective only with respect to the 1971, 1972, and 1973 crops of wheat.
 
 #### Effective and Termination Dates of 1965 Amendment
 
-Section 502 of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only with respect to crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
+Pub. L. 89–321, title V, §502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
 
-Section 503 of Pub. L. 89–321 provided that the amendment made by that section is effective beginning with 1970 crop.
+Pub. L. 89–321, title V, §503, Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 503 of Pub. L. 89–321 is effective beginning with the 1970 crop.
 
 #### Effective and Termination Dates of 1964 Amendment
 
-Section 202(10) of Pub. L. 88–297 provided that the amendment made by that section is effective only with respect to crops planted for harvest in 1964 and 1965.
+Pub. L. 88–297, title II, §202(10), Apr. 11, 1964, 78 Stat. 179, provided that the amendment made by section 202(10) of Pub. L. 88–297 is effective only with respect to crops planted for harvest in 1964 and 1965.
 
-Section 202(11) of Pub. L. 88–297 provided that the amendment made by that section is effective with respect to crops planted for harvest in calendar year 1966 and any subsequent year.
+Pub. L. 88–297, title II, §202(11), Apr. 11, 1964, 78 Stat. 180, provided that the amendment made by section 202(11) of Pub. L. 88–297 is effective with respect to the crops planted for harvest in calendar year 1966 and any subsequent year.
 
 #### Inapplicability of Section
 
@@ -70,5 +70,5 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Section 402(b)(A) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–86, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 (which provides for a wheat marketing certificate program) \[this section\] shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection \[amending this section and section 1379c of this title\].”
+Pub. L. 91–524, title IV, §402(b)(A), as added by Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 226, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1379b\] (which provides for a wheat marketing certificate program) shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection \[amending this section and enacting provisions set out as notes under this section\].”
 

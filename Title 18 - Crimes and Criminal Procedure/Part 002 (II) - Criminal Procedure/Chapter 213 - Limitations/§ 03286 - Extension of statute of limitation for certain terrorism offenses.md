@@ -34,7 +34,7 @@ Pub. L. 107–56, title VIII, §809(b), Oct. 26, 2001, 115 Stat. 380, provided t
 
 #### Effective Date
 
-Section 120001(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[enacting this section\] shall not apply to any offense committed more than 5 years prior to the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title XII, §120001(b), Sept. 13, 1994, 108 Stat. 2021, provided that: “The amendment made by subsection (a) \[enacting this section\] shall not apply to any offense committed more than 5 years prior to the date of enactment of this Act \[Sept. 13, 1994\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “foreseeable”.</i>
 

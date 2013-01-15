@@ -2,7 +2,7 @@
 
 The failure of a registered entity to comply with any provision of this chapter, or any regulation or order of the Commission under this chapter, shall be cause for the suspension of the registered entity for a period not to exceed 180 days, or revocation of designation as a registered entity, in accordance with the procedures and subject to the judicial review provided in section 8(b) of this title.
 
-(Sept. 21, 1922, ch. 369, §5e, formerly §5b, as added June 15, 1936, ch. 545, §7, 49 Stat. 1498; amended Pub. L. 90–258, §13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, §209(b)(3), Oct. 28, 1992, 106 Stat. 3607; renumbered §5e and amended Pub. L. 106–554, §1(a)(5) \[title I, §§110(1), 115\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384, 2763A–402; Pub. L. 110–234, title XIII, §13203(<i>l</i>), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, §4(a), title XIII, §13203(<i>l</i>), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, §749(d), July 21, 2010, 124 Stat. 1747.)
+(Sept. 21, 1922, ch. 369, §5e, formerly §5b, as added June 15, 1936, ch. 545, §7, 49 Stat. 1498; amended Pub. L. 90–258, §13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, §209(b)(3), Oct. 28, 1992, 106 Stat. 3607; renumbered §5e and amended Pub. L. 106–554, §1(a)(5) \[title I, §§110(1), 115\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384, 2763A–402; Pub. L. 110–234, title XIII, §13203(l), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, §4(a), title XIII, §13203(l), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, §749(d), July 21, 2010, 124 Stat. 1747.)
 
 #### Codification
 
@@ -12,7 +12,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2010</b>—Pub. L. 111–203 struck out “or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “or revocation of designation as a registered entity,”.
 
-<b>2008</b>—Pub. L. 110–246, §13203(<i>l</i>), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “designation as a registered entity”.
+<b>2008</b>—Pub. L. 110–246, §13203(l), inserted “, or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) of this title with respect to a significant price discovery contract,” after “designation as a registered entity”.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §115\], amended section generally. Prior to amendment, section read as follows: “The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a ‘contract market’ in accordance with the procedure and subject to the judicial review provided in section 8(b) of this title.”
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Amendment by section 13203(<i>l</i>) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
+Amendment by section 13203(l) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
 
 #### Effective Date of 1974 Amendment
 

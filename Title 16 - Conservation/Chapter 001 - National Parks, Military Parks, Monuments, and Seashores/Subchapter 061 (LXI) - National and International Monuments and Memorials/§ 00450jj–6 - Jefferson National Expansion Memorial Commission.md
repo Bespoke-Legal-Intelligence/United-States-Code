@@ -46,7 +46,7 @@ The Commission shall be composed of twenty members as follows:
 
 (1) Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
 
-(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c) of this section—
+(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c) <sup>1</sup> of this section—
 
 &emsp;(A) two shall be appointed for terms of one year;
 
@@ -60,7 +60,7 @@ The Commission shall be composed of twenty members as follows:
 
 #### (d) Compensation of members; travel expenses and per diem
 
-Members of the Commission shall receive no pay on account of their service on the Commission, but while away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+Members of the Commission shall receive no pay on account of their service on the Commission, but while away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the samemanner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (e) Chairperson
 
@@ -68,7 +68,7 @@ The chairperson of the Commission shall be elected by the members of the Commiss
 
 #### (f) Assistance from Federal agencies
 
-Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup>1</sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
+Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup>2</sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
 
 #### (g) Gifts, bequests, or donations
 
@@ -82,5 +82,7 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “of”.</i>
 

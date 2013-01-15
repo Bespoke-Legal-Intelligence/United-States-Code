@@ -22,7 +22,7 @@ The Secretary may make grants and provide technical assistance to States and oth
 
 #### (d) Accessibility
 
-The Secretary shall ensure that the verification network is electronically accessible by State, local, and tribal health departments andcan be linked with the identification cards under section 300hh–15 of this title.
+The Secretary shall ensure that the verification network is electronically accessible by State, local, and tribal health departments and can be linked with the identification cards under section 300hh–15 of this title.
 
 #### (e) Confidentiality
 
@@ -34,7 +34,7 @@ The Secretary shall coordinate with the Secretary of Veterans Affairs and the Se
 
 #### (g) Updating of information
 
-The States that are participants in the verification network shall, on at least a quarterly basis, work with the Director to provide for the updating of the information contained in the verification network.
+The States that are participants in the verification network shall, on at least a quarterly basis, work with the Director to provide for theupdating of the information contained in the verification network.
 
 #### (h) Clarification
 

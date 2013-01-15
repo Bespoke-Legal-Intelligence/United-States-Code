@@ -62,7 +62,7 @@ Provisions to Ensure Collaboration With Employee Representatives.—
 
 &emsp;(1)
 
-In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources managementsystem or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
+In general.—In order to ensure that the authority of this section is exercised in collaboration with, and in a manner that ensures the participation of employee representatives in the planning, development, and implementation of any human resources management system or adjustments to such system under this section, the Secretary of Homeland Security and the Director of the Office of Personnel Management shall provide for the following:
 
 &emsp;&emsp;(A)
 

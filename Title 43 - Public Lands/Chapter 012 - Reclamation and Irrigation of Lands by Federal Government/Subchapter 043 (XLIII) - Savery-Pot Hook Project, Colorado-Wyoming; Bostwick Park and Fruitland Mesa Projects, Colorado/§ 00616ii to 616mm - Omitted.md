@@ -8,7 +8,7 @@ Section 616jj, Pub. L. 88–568, §3, Sept. 2, 1964, 78 Stat. 852, provided that
 
 Section 616kk, Pub. L. 88–568, §4, Sept. 2, 1964, 78 Stat. 852, related to recreational and fish and wildlife facilities and transfer of lands to be administered by Secretary of Agriculture as a national forest.
 
-Section 616<i>ll</i>, Pub. L. 88–568, §5, Sept. 2, 1964, 78 Stat. 853, related to restriction on delivery of water for production of excessive basic commodities.
+Section 616ll, Pub. L. 88–568, §5, Sept. 2, 1964, 78 Stat. 853, related to restriction on delivery of water for production of excessive basic commodities.
 
 Section 616mm, Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852, authorized appropriations for these projects.
 

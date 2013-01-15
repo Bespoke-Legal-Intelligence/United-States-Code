@@ -24,11 +24,11 @@ Section 178j, Pub. L. 100–446, title I, §11, Sept. 27, 1988, 102 Stat. 1787, 
 
 Section 178k, Pub. L. 100–446, title I, §12, Sept. 27, 1988, 102 Stat. 1788, authorized appropriations.
 
-Section 178<i>l</i>, Pub. L. 100–446, title I, §13, Sept. 27, 1988, 102 Stat. 1788, provided effective date, sunset, and savings provisions for former sections 178 to 178<i>l</i> of this title.
+Section 178l, Pub. L. 100–446, title I, §13, Sept. 27, 1988, 102 Stat. 1788, provided effective date, sunset, and savings provisions for former sections 178 to 178l of this title.
 
-For similar provisions, see section 179<i>l</i> et seq. of this title.
+For similar provisions, see section 179l et seq. of this title.
 
 #### Short Title
 
-Pub. L. 100–446, title I, §1, Sept. 27, 1988, 102 Stat. 1782, which provided that sections 178 to 178<i>l</i> of this title were to be cited as the “National Film Preservation Act of 1988” was repealed by Pub. L. 102–307, title III, §214, June 26, 1992, 106 Stat. 272.
+Pub. L. 100–446, title I, §1, Sept. 27, 1988, 102 Stat. 1782, which provided that sections 178 to 178l of this title were to be cited as the “National Film Preservation Act of 1988” was repealed by Pub. L. 102–307, title III, §214, June 26, 1992, 106 Stat. 272.
 

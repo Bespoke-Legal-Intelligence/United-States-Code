@@ -18,7 +18,7 @@
 
 > &emsp;within a food to which this section applies.
 
-(2) Paragraph (1) shall not apply in the case of a vitamin, mineral, other ingredient of food, orfood, which is represented for use by individuals in the treatment or management of specific diseases or disorders, by children, or by pregnant or lactating women. For purposes of this subparagraph,<sup>1</sup> the term “children” means individuals who are under the age of twelve years.
+(2) Paragraph (1) shall not apply in the case of a vitamin, mineral, other ingredient of food, or food, which is represented for use by individuals in the treatment or management of specific diseases or disorders, by children, or by pregnant or lactating women. For purposes of this subparagraph,<sup>1</sup> the term “children” means individuals who are under the age of twelve years.
 
 #### (b) Labeling and advertising requirements for foods
 
@@ -70,7 +70,7 @@ For provision that dietary supplements may be labeled after Oct. 25, 1994, in ac
 
 #### Amendment of Inconsistent Regulations by Secretary
 
-Section 501(b) of Pub. L. 94–278, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “The Secretary of Health and Human Services shall amend any regulation promulgated under the Federal Food, Drug, and Cosmetic Act \[this chapter\] which is inconsistent with section 411 of such Act \[section 350 of this title\] (as added by subsection (a)) and such amendments shall be promulgated in accordance with section 553 of title 5, United States Code.”
+Pub. L. 94–278, title V, §501(b), Apr. 22, 1976, 90 Stat. 411, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “The Secretary of Health and Human Services shall amend any regulation promulgated under the Federal Food, Drug, and Cosmetic Act \[this chapter\] which is inconsistent with section 411 of such Act \[section 350 of this title\] (as added by subsection (a)) and such amendments shall be promulgated in accordance with section 553 of title 5, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -68,7 +68,7 @@ Motion by the united states.—Upon any determination by the military judge auth
 
 &emsp;(2)
 
-Action on motion.—The military judge shall grant such a motion of the trial counsel if the military judge finds that the statement, summary, or other procedure or redaction will provide the defendant with substantially the same ability to make his defense as would disclosure of the specific classified information.
+Action on motion.—The military judge shall grant such a motion of the trial counsel if the military judge finds that the statement, summary, or other procedure or redaction willprovide the defendant with substantially the same ability to make his defense as would disclosure of the specific classified information.
 
 &emsp;(3)
 
@@ -88,7 +88,7 @@ Prohibition on Disclosure of Classified Information by the Accused; Relief for A
 
 &emsp;(1)
 
-Order to prevent disclosure by accused.—Whenever the military judge denies a motion by the trial counsel that the judge issue an order under subsection (a), (c), or (d)and the trial counsel files with the military judge a declaration signed by a knowledgeable United States official possessing authority to classify information objecting to disclosure of the classified information at issue, the military judge shall order that the accused not disclose or cause the disclosure of such information.
+Order to prevent disclosure by accused.—Whenever the military judge denies a motion by the trial counsel that the judge issue an order under subsection (a), (c), or (d) and the trial counsel files with the military judge a declaration signed by a knowledgeable United States official possessing authority to classify information objecting to disclosure of the classified information at issue, the military judge shall order that the accused not disclose or cause the disclosure of such information.
 
 &emsp;(2)
 

@@ -98,7 +98,7 @@ Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (
 
 #### Information on Telephone Counseling Availability; Personnel Training; Client Confidentiality; Publicity; Report
 
-Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
+Pub. L. 103–452, title I, §101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, provided that:
 
 “(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
@@ -116,13 +116,13 @@ Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
 #### Transition Period for Eligibility for Counseling
 
-Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
+Pub. L. 102–585, title I, §102(b), Nov. 4, 1992, 106 Stat. 4946, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
 
 #### Commencement of Provision of Information on Services
 
-Section 104 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under 38 U.S.C. 1720D.
+Pub. L. 102–585, title I, §104, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under 38 U.S.C. 1720D.
 
 #### Report on Implementation of Sexual Trauma Counseling Program
 
-Section 105 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
+Pub. L. 102–585, title I, §105, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
 

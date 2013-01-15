@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Financial Assistance Corporation shall establish an account called the Farm Credit Assistance Fund (referred to in this chapter as the “Assistance Fund”) which shall be available to the Financial Assistance Corporation as a revolving fund to carry out this part. The moneys of such Assistance Fund shall be invested in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof.
+&emsp;The Financial Assistance Corporation shall establish an account called the Farm CreditAssistance Fund (referred to in this chapter as the “Assistance Fund”) which shall be available to the Financial Assistance Corporation as a revolving fund to carry out this part. The moneys of such Assistance Fund shall be invested in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof.
 
 #### (2) Funding
 

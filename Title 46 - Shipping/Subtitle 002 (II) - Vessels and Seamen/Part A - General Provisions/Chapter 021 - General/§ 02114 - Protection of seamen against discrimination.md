@@ -16,7 +16,7 @@
 
 &emsp;(G) the seaman accurately reported hours of duty under this part.
 
-(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
+(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury orserious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
 
 (3) To qualify for protection against the seaman's employer under paragraph (1)(B), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 111–281, §611(a)(4), amended subsec. (b) generally. Prio
 
 &emsp;“(4) an award of costs and reasonable attorney's fees to a prevailing employer not exceeding $1,000 if the court finds that a complaint filed under this section is frivolous or has been brought in bad faith.”
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–295, §428(a), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: “An owner, charterer, managing operator, agent, master, or individual in charge of a vessel may not discharge or in any manner discriminate against a seaman because the seaman in good faith has reported or is about to report to the Coast Guard that the seaman believes that a violation of this subtitle, or a regulation issued under this subtitle, has occurred.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–295, §428(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “An owner, charterer, managing operator, agent, master, or individual in charge of a vessel may not discharge or in any manner discriminate against a seaman because the seaman in good faith has reported or is about to report to the Coast Guard that the seaman believes that a violation of this subtitle, or a regulation issued under this subtitle, has occurred.”
 
 Subsec. (b)(3), (4). Pub. L. 107–295, §428(b), added pars. (3) and (4).
 

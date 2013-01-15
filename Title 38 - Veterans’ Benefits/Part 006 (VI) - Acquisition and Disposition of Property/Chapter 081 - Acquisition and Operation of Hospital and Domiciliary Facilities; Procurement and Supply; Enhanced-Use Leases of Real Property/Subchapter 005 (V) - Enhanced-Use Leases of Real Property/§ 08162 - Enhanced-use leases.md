@@ -2,67 +2,75 @@
 
 (a)(1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title. The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title, subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
 
-(2) The Secretary may enter into an enhanced-use lease only if—
-
-&emsp;(A) the Secretary determines that—
-
-&emsp;&emsp;(i) at least part of the use of the property under the lease will be to provide appropriate space for an activity contributing to the mission of the Department;
-
-&emsp;&emsp;(ii) the lease will not be inconsistent with and will not adversely affect the mission of the Department; and
-
-&emsp;&emsp;(iii) the lease will enhance the use of the property; or
-
-&emsp;(B) the Secretary determines that the implementation of a business plan proposed by the Under Secretary for Health for applying the consideration under such a lease to the provision of medical care and services would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
+(2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and the <sup>1</sup> lease is not inconsistent withand will not adversely affect the mission of the Department.
 
 (3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
 (4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-(b)(1)(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
-
-(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A).
+(b)(1) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall, at the Secretary's discretion, select the party with whom the lease will be entered into using such selection procedures as the Secretary considers appropriate.
 
 (2) The term of an enhanced-use lease may not exceed 75 years.
 
-(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
+(3)(A) For any enhanced-use lease entered into by the Secretary, the lease consideration provided to the Secretary shall consist solely of cash at fair value as determined by the Secretary.
 
-(B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.
+(B) The Secretary shall receive no other type of consideration for an enhanced-use lease besides cash.
 
-(4) The terms of an enhanced-use lease may provide for the Secretary to—
+(C) The Secretary may enter into an enhanced-use lease without receiving consideration.
 
-&emsp;(A) obtain facilities, space, or services on the leased property; and
+(4) The terms of an enhanced-use lease may provide for the Secretary to use minor construction funds for capital contribution payments.
 
-&emsp;(B) use minor construction funds for capital contribution payments.
+(5) The terms of an enhanced-use lease may not provide for any acquisition, contract, demonstration, exchange, grant, incentive, procurement, sale, other transaction authority, service agreement, use agreement, lease, or lease-back by the Secretary or Federal Government.
 
-(c)(1) Subject to paragraph (2), the entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 shall be considered to be prohibited by such sections unless specifically authorized by law.
+(6) The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter.
 
-(2) The entering into an enhanced-use lease by the Secretary covering any land or improvement described in such section 421(b)(2) shall not be considered to be prohibited under that section if under the lease—
+(c) The entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 shall be considered to be prohibited by such sections unless specifically authorized by law.
 
-&emsp;(A) the designated property is to be used only for child-care services;
-
-&emsp;(B) those services are to be provided only for the benefit of—
-
-&emsp;&emsp;(i) employees of the Department;
-
-&emsp;&emsp;(ii) individuals employed on the premises of such property; and
-
-&emsp;&emsp;(iii) employees of a health-personnel educational institution that is affiliated with a Department facility;
-
-&emsp;(C) over one-half of the employees benefited by the child-care services provided are required to be employees of the Department; and
-
-&emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
-
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, §211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181.)
 
 #### References in Text
 
 Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to in subsecs. (a)(1) and (c), is section 421(b) of Pub. L. 100–322, title IV, May 20, 1988, 102 Stat. 553, which is not classified to the Code.
 
-Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c)(1), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
+Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008”after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–154, §211(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only if—
+
+&emsp;“(A) the Secretary determines that—
+
+&emsp;&emsp;“(i) at least part of the use of the property under the lease will be to provide appropriate space for an activity contributing to the mission of the Department;
+
+&emsp;&emsp;“(ii) the lease will not be inconsistent with and will not adversely affect the mission of the Department; and
+
+&emsp;&emsp;“(iii) the lease will enhance the use of the property; or
+
+&emsp;“(B) the Secretary determines that the implementation of a business plan proposed by the Under Secretary for Health for applying the consideration under such a lease to the provision of medical care and services would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.”
+
+Subsec. (b)(1). Pub. L. 112–154, §211(c)(1)(A), substituted “If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall, at the Secretary's discretion, select the party with whom the lease will be entered into using such selection procedures as the Secretary considers appropriate.” for subpars. (A) and (B) which read as follows:
+
+“(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
+
+“(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A).”
+
+Subsec. (b)(3). Pub. L. 112–154, §211(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+
+“(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
+
+“(B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.”
+
+Subsec. (b)(4). Pub. L. 112–154, §211(c)(1)(C), substituted “Secretary to use minor” for “Secretary to—
+
+&emsp;“(A) obtain facilities, space, or services on the leased property; and
+
+&emsp;“(B) use minor”.
+
+Subsec. (b)(5), (6). Pub. L. 112–154, §211(c)(1)(D), added pars. (5) and (6).
+
+Subsec. (c). Pub. L. 112–154, §211(d), struck out par. (1) designation, substituted “The” for “Subject to paragraph (2), the” and struck out par. (2) which provided conditions under which entering into enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Pub. L. 100–322) would not be considered prohibited under such section.
+
+<b>2007</b>—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and VeteransAffairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
 
 <b>2003</b>—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 
@@ -84,6 +92,20 @@ Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted “may not exceed 75
 
 Subsec. (b)(4). Pub. L. 106–117, §208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112—154, title II, §211(b)(2), Aug. 6, 2012, 126 Stat. 1180, provided that:
+
+“(A)
+
+In general.—Paragraph (2) of section 8162(a) of title 38, United States Code, as amended by paragraph (1), shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.
+
+“(B)
+
+Previous leases.—Any enhanced-use lease that the Secretary has entered into prior to the date described in subparagraph (A) shall be subject to the provisions of subchapter V of chapter 81 of such title, as in effect on the day before the date of the enactment of this Act \[Aug. 6, 2012\].”
+
+Pub. L. 112—154, title II, §211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: “Paragraph (3) of section 8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–161, div. I, title II, §224(d), Dec. 26, 2007, 121 Stat. 2272, provided that: “This section \[amending this section\], including the amendment made by this section, shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
@@ -95,4 +117,6 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–95, §10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to leases entered into on or after the date of the enactment of this Act \[Dec. 21, 2001\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “only if”.</i>
 

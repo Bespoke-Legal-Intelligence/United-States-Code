@@ -58,9 +58,9 @@ Pub. L. 108–307, §1, Sept. 24, 2004, 118 Stat. 1133, provided that: “This A
 
 #### Acquisition of Clear and Marketable Title to Additional Park Lands
 
-Section 1(b) of Pub. L. 101–109 provided that: “Nothing in this Act \[amending this section\] shall be deemed to prohibit the Secretary from using such measures as may be necessary to acquire a clear and marketable title, free of any and all encumbrances, to the lands identified for acquisition in paragraph (a)(2) of this Act.”
+Pub. L. 101–109, §1(b), Oct. 6, 1989, 103 Stat. 681, provided that: “Nothing in this Act \[amending this section\] shall be deemed to prohibit the Secretary from using such measures as may be necessary to acquire a clear and marketable title, free of any and all encumbrances, to the lands identified for acquisition in paragraph (a)(2) of this Act.”
 
 #### Authorization of Appropriations
 
-Section 4 of act June 30, 1944, as amended by Pub. L. 93–466, §1(3), Oct. 24, 1974, 88 Stat. 1420; Pub. L. 95–625, title I, §101(14), Nov. 10, 1978, 92 Stat. 3471; Pub. L. 96–199, title I, §108(2), Mar. 5, 1980, 94 Stat. 69, provided that: “In addition to such sums as have heretofore been appropriated, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this act \[sections 450bb to 450bb–2 of this title\], but not more than $1,600,000 for the acquisition of lands and interests in lands, and not more than $12,385,000 for development.”
+Act June 30, 1944, ch. 328, §4, 58 Stat. 646, as amended by Pub. L. 93–466, §1(3), Oct. 24, 1974, 88 Stat. 1420; Pub. L. 95–625, title I, §101(14), Nov. 10, 1978, 92 Stat. 3471; Pub. L. 96–199, title I, §108(2), Mar. 5, 1980, 94 Stat. 69, provided that: “In addition to such sums as have heretofore been appropriated, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this act \[sections 450bb to 450bb–2 of this title\], but not more than $1,600,000 for the acquisition of lands and interests in lands, and not more than $12,385,000 for development.”
 

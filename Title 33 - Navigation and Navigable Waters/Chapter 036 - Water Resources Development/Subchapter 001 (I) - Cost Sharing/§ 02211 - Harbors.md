@@ -26,7 +26,7 @@
 
 #### (5) Dredged material disposal facilities for project construction
 
-&emsp;In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
+&emsp;In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposalfacilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
 
 #### (b) Operation and maintenance
 
@@ -52,7 +52,7 @@ Before initiation of construction of a project to which this section applies, th
 
 &emsp;(1) provide to the Federal Government lands, easements, and rights-of-way, including those necessary for dredged material disposal facilities, and perform the necessary relocations required for construction, operation, and maintenance of such project;
 
-&emsp;(2) hold and save the United States free from damages due to the construction or operationand maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
+&emsp;(2) hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
 
 &emsp;(3) provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 #### Effective Date of 1988 Amendment
 
-Section 13(b) of Pub. L. 100–676 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986.”
+Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986.”
 
 #### Deep Draft Harbor Cost Sharing
 
@@ -126,11 +126,11 @@ Considerations.—In making recommendations, the Secretary shall consider—
 
 #### Amendment of Cooperation Agreement
 
-Section 201(f) of Pub. L. 104–303 provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendments made by this section \[amending this section and section 2241 of this title\] to any project for which a contract for construction has not been awarded on or before that date.”
+Pub. L. 104–303, title II, §201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendments made by this section \[amending this section and section 2241 of this title\] to any project for which a contract for construction has not been awarded on or before that date.”
 
 #### Increases in Non-Federal Share of Costs
 
-Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
+Pub. L. 104–303, title II, §201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: “Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
 
 &emsp;“(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls;
 
@@ -140,5 +140,5 @@ Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[
 
 #### Dredged Material Disposal Areas Study
 
-Section 216 of Pub. L. 102–580 directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
+Pub. L. 102–580, title II, §216, Oct. 31, 1992, 106 Stat. 4832, directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
 

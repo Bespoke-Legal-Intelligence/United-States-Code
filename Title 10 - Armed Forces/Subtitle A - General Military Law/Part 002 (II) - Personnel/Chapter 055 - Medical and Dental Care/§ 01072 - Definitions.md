@@ -168,11 +168,11 @@ Pub. L. 89–614 substituted “1087” for “1085” in introductory phrase.
 
 #### Effective Date of 1993 Amendment
 
-Section 702(b) of Pub. L. 103–160 provided that: “Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
+Pub. L. 103–160, div. A, title VII, §702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: “Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 #### Effective Date of 1989 Amendment
 
-Section 731(d) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VII, §731(d), Nov. 29, 1989, 103 Stat. 1482, provided that:
 
 “(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act \[Nov. 29, 1989\].
 
@@ -180,7 +180,7 @@ Section 731(d) of Pub. L. 101–189 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Section 645(d) of Pub. L. 98–525 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and provisions set out as a note under section 1408 of this title and enacting provisions set out as a note under this section\] shall be effective on January 1, 1985, and shall apply with respect to health care furnished on or after that date.”
+Pub. L. 98–525, title VI, §645(d), Oct. 19, 1984, 98 Stat. 2549, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and provisions set out as a note under section 1408 of this title and enacting provisions set out as a note under this section\] shall be effective on January 1, 1985, and shall apply with respect to health care furnished on or after that date.”
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
@@ -218,7 +218,7 @@ Pub. L. 107–107, div. A, title VII, §708(a), Dec. 28, 2001, 115 Stat. 1164, p
 
 #### Transitional Provisions for Qualification for Conversion Health Policies; Preexisting Conditions
 
-Section 731(e) of Pub. L. 101–189 provided that:
+Pub. L. 101–189, div. A, title VII, §731(e), Nov. 29, 1989, 103 Stat. 1483, provided that:
 
 “(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat. 2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
 
@@ -232,5 +232,5 @@ Section 731(e) of Pub. L. 101–189 provided that:
 
 #### Dependent; Qualification as; Effective Date
 
-Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
+Pub. L. 98–525, title VI, §645(c), Oct. 19, 1984, 98 Stat. 2549, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
 

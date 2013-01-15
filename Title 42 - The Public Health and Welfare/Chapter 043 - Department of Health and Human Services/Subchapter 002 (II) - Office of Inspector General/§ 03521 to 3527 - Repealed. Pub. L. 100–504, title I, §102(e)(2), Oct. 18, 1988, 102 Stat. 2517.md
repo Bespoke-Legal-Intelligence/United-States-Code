@@ -2,7 +2,7 @@
 
 Section 3521, Pub. L. 94–505, title II, §201, Oct. 15, 1976, 90 Stat. 2429; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, established Office of Inspector General.
 
-Section 3522, Pub. L. 94–505, title II, §202, Oct. 15, 1976, 90 Stat. 2430; Pub. L. 95–452, §10(c), Oct. 12, 1978, 92 Stat. 1109, provided for Inspector General and Deputy Inspector General, removal of such officers, political activities restriction, and appointment of Assistant Inspector General for Auditing and Assistant Inspector General for Investigations.
+Section 3522, Pub. L. 94–505, title II, §202, Oct. 15, 1976, 90 Stat. 2430; Pub. L. 95–452, §10(c), Oct. 12, 1978, 92 Stat.1109, provided for Inspector General and Deputy Inspector General, removal of such officers, political activities restriction, and appointment of Assistant Inspector General for Auditing and Assistant Inspector General for Investigations.
 
 Section 3523, Pub. L. 94–505, title II, §203, Oct. 15, 1976, 90 Stat. 2430; Pub. L. 96–226, title II, §201, Apr. 3, 1980, 94 Stat. 315, prescribed duties and responsibilities of Inspector General.
 

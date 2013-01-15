@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (B) Controlled groups
 
-&emsp;&emsp;For purposes of subparagraph (A), all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as a single employer.
+&emsp;&emsp;For purposes of subparagraph (A), all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
 #### (c) Coordination with other credits
 
@@ -48,9 +48,9 @@ For purposes of this section, rules similar to the rules of subsections (c), (d)
 
 #### (f) Termination
 
-This section shall not apply to any payments made after December 31, 2011.
+This section shall not apply to any payments made after December 31, 2013.
 
-(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318.)
+(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §308(a), Jan. 2, 2013, 126 Stat. 2329.)
 
 #### References in Text
 
@@ -58,7 +58,13 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 
 #### Amendments
 
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+
 <b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §308(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

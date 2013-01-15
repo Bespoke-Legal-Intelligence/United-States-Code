@@ -6,7 +6,7 @@ The Archivist shall provide for the preservation, arrangement, repair and rehabi
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §397(c) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; July 12, 1952, ch. 703, §1(<i>o</i>), 66 Stat. 594).
+Based on 44 U.S. Code, 1964 ed., §397(c) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; July 12, 1952, ch. 703, §1(o), 66 Stat. 594).
 
 #### Prior Provisions
 

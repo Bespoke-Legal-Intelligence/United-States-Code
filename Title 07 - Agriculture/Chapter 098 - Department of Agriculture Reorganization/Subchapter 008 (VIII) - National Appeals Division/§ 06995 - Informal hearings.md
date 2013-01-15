@@ -16,7 +16,7 @@ If a mediation program is available under title V of the Agricultural Credit Act
 
 &emsp;(2) to the maximum extent practicable, be allowed to use both informal agency review and mediation to resolve disputes under that title.
 
-(Pub. L. 103–354, title II, §275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, §12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, §4(a), title XII, §12032, June 18, 2008, 122 Stat. 1664, 2153.)
+(Pub. L. 103–354, title II, §275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, §12032, May22, 2008, 122 Stat. 1391; Pub. L. 110–246, §4(a), title XII, §12032, June 18, 2008, 122 Stat. 1664, 2153.)
 
 #### References in Text
 

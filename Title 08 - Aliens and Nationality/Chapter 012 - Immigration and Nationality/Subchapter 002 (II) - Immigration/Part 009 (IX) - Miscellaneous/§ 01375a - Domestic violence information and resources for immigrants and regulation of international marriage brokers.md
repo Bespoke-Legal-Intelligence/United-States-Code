@@ -28,7 +28,7 @@
 
 #### (3) Summaries
 
-&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and theSecretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b) of this section.
+&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b) of this section.
 
 #### (4) Translation
 
@@ -70,7 +70,7 @@
 
 #### (b) Visa and adjustment interviews
 
-#### (1) Fiance�AE1(e)s, spouses and their derivatives
+#### (1) Fiancé(e)s, spouses and their derivatives
 
 &emsp;During an interview with an applicant for a K nonimmigrant visa, a consular officers shall—
 
@@ -82,7 +82,7 @@
 
 #### (2) Family-based applicants
 
-&emsp;The pamphlet developed under subsection (a)(1) of this section shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicantorally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
+&emsp;The pamphlet developed under subsection (a)(1) of this section shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
 
 #### (c) Confidentiality
 
@@ -146,13 +146,13 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the background information collected by the international marriage broker under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primary language), the pamphlet developed under subsection (a)(1) of this section; and
+&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primarylanguage), the pamphlet developed under subsection (a)(1) of this section; and
 
 &emsp;&emsp;&emsp;(iv) received from the foreign national client a signed, written consent, in the foreign national client's primary language, to release the foreign national client's personal contact information to the specific United States client.
 
 #### (B) Confidentiality
 
-&emsp;&emsp;In fulfilling the requirements of this paragraph, an international marriage brokershall disclose the relationship of the United States client to individuals who were issued a protection order or restraining order as described in clause (i) of paragraph (2)(B), or of any other victims of crimes as described in clauses (ii) through (iv) of such paragraph, but shall not disclose the name or location information of such individuals.
+&emsp;&emsp;In fulfilling the requirements of this paragraph, an international marriage broker shall disclose the relationship of the United States client to individuals who were issued a protection order or restraining order as described in clause (i) of paragraph (2)(B), or of any other victims of crimes as described in clauses (ii) through (iv) of such paragraph, but shall not disclose the name or location information of such individuals.
 
 #### (C) Penalty for misuse of information
 
@@ -220,7 +220,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “international marriage broker” means a corporation, partnership, business, individual, or other legal entity, whether or not organized under any law of the United States, that charges fees for providing dating, matrimonial, matchmaking services, or social referrals between United States citizens or nationals or aliens lawfully admitted to the United States as permanent residents and foreign national clients by providing personal contact information or otherwise facilitating communication between individuals.
+&emsp;&emsp;The term “international marriage broker” means a corporation, partnership, business, individual, or other legal entity, whether or not organized under any law of the United States, that charges fees for providing dating, matrimonial, matchmaking services, or social referrals between United States citizens or nationals or aliens lawfully admittedto the United States as permanent residents and foreign national clients by providing personal contact information or otherwise facilitating communication between individuals.
 
 #### (B) Exceptions
 
@@ -284,9 +284,9 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) the annual number and percentage of cases described in clause (iv) that were granted or were denied waivers under section 1184(d)(2) of this title, as amended by this Act;
 
-&emsp;&emsp;&emsp;(vi) the annual number of fiance�AE1(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have previously filed other fiance�AE1(e) or spousal K nonimmigrant visa petitions or family-based immigration petitions;
+&emsp;&emsp;&emsp;(vi) the annual number of fiancé(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have previously filed other fiancé(e) or spousal K nonimmigrant visa petitions or family-based immigration petitions;
 
-&emsp;&emsp;&emsp;(vii) the annual number of fiance�AE1(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have concurrently filed other fiance�AE1(e) or spousal K nonimmigrant visa petitioners or family-based immigration petitions; and
+&emsp;&emsp;&emsp;(vii) the annual number of fiancé(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have concurrently filed other fiancé(e) or spousal K nonimmigrant visa petitioners or family-based immigration petitions; and
 
 &emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked in the multiple filings database established under paragraph (4) of section 1184(r) of this title, as added by this Act;
 
@@ -300,7 +300,7 @@ In this section:
 
 #### (2) Report
 
-&emsp;Not later than 2 years after January 5, 2006, the Comptroller General shall submit to theCommittee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under paragraph (1).
+&emsp;Not later than 2 years after January 5, 2006, the Comptroller General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under paragraph (1).
 
 #### (3) Data collection
 

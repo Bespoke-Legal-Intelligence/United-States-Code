@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), this section applies to the transportation of any migrant or seasonal agricultural worker.
 
-(2) This section does not apply to the transportation of any migrant or seasonal agricultural worker on a tractor, combine, harvester, picker, or other similar machinery and equipment while such worker is actually engaged in the planting, cultivating, or harvesting of any agricultural commodity or the care of livestock or poultry.
+(2) This section does not apply to the transportation of any migrant or seasonal agriculturalworker on a tractor, combine, harvester, picker, or other similar machinery and equipment while such worker is actually engaged in the planting, cultivating, or harvesting of any agricultural commodity or the care of livestock or poultry.
 
 #### (b) Applicability of standards, licensing, and insurance requirements; promulgation of regulations for standards; criteria, etc., for regulations; amount of insurance required
 
@@ -62,15 +62,15 @@ In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section
 
 <b>1995</b>—Subsec. (b)(2)(C). Pub. L. 104–88 substituted “part B of subtitle IV of title 49” for “part II of the Interstate Commerce Act, or any successor provision of subtitle IV of title 49”.
 
-Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The level of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder.”
+Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Thelevel of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder.”
 
 #### Effective Date of 1995 Amendments
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-Section 5(c) of Pub. L. 104–49 provided that: “The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first.”
+Pub. L. 104–49, §5(c), Nov. 15, 1995, 109 Stat. 435, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first.”
 
 #### Regulations
 
-Section 5(b) of Pub. L. 104–49 provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
+Pub. L. 104–49, §5(b), Nov. 15, 1995, 109 Stat. 435, provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
 

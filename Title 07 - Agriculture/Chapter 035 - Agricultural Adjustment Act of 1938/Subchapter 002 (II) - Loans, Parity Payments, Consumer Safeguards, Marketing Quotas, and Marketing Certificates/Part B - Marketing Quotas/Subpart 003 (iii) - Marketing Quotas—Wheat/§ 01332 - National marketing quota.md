@@ -42,11 +42,11 @@ Subsec. (d). Pub. L. 89–321 added subsec. (d).
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Section 302 of Pub. L. 99–198 provided that the amendment made by that section is effective only for 1987 through 1990 crops of wheat.
+Pub. L. 99–198, title III, §302, Dec. 23, 1985, 99 Stat. 1378, provided that the amendment made by that section is effective only for the 1987 through 1990 crops of wheat.
 
 #### Effective Date of 1965 Amendment
 
-Section 501 of Pub. L. 89–321 provided that the amendments made by that section \[amending this section and sections 1333, 1334, 1335, and 1339 of this title\] are “effective beginning with the crop planted for harvest in the calendar year 1966”.
+Pub. L. 89–321, title V, §501, Nov. 3, 1965, 79 Stat. 1199, provided that the amendments made by section 501 (amending this section and sections 1333, 1334, 1335, and 1339 of this title) are effective beginning with the crop planted for harvest in the calendar year 1966.
 
 #### Effective Date of 1962 Amendment
 
@@ -62,7 +62,7 @@ Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub
 
 Pub. L. 101–270, Apr. 10, 1990, 104 Stat. 134, provided: “That section 332 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332) shall not be applicable to the 1991 crop of wheat.”
 
-Section 310(a) of Pub. L. 99–198 provided that: “Sections 332, 333, 334, 335, 336, and 338 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332–1336 and 1338) shall not be applicable to the 1986 crop of wheat.”
+Pub. L. 99–198, title III, §310(a), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 332, 333, 334, 335, 336, and 338 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332–1336 and 1338) shall not be applicable to the 1986 crop of wheat.”
 
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
 
@@ -72,7 +72,7 @@ Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended b
 
 #### 1965 Crop National Marketing Quota and Crop Acreage Allotment
 
-Section 201 of Pub. L. 88–297, title II, Apr. 11, 1964, 78 Stat. 178, directed Secretary to not proclaim a national marketing quota for 1965 crop of wheat and that farm marketing quotas shall not be in effect for such crop of wheat, and required Secretary to proclaim a national acreage allotment for 1965 crop of wheat which shall be the number of acres which he determined would make available an adequate supply of wheat, but not less than forty-nine million five hundred thousand acres.
+Pub. L. 88–297, title II, §201, Apr. 11, 1964, 78 Stat. 178, directed Secretary to not proclaim a national marketing quota for 1965 crop of wheat and that farm marketing quotas shall not be in effect for such crop of wheat, and required Secretary to proclaim a national acreage allotment for 1965 crop of wheat which shall be the number of acres which he determined would make available an adequate supply of wheat, but not less than forty-nine million five hundred thousand acres.
 
 #### Deferral of Proclamation for 1963 Crop
 

@@ -42,17 +42,17 @@ The intent of Congress in the definitions as given in this section should be con
 
 (k) The term “financial protection” means the ability to respond in damages for public liability and to meet the costs of investigating and defending claims and settling suits for such damages.
 
-(<i>l</i>) The term “Government agency” means any executive department, commission, independent establishment, corporation, wholly or partly owned by the United States of America which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Government.
+(l) The term “Government agency” means any executive department, commission, independent establishment, corporation, wholly or partly owned by the United States of America which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of the Government.
 
 (m) The term “indemnitor” means (1) any insurer with respect to his obligations under a policy of insurance furnished as proof of financial protection; (2) any licensee, contractor or other person who is obligated under any other form of financial protection, with respect to such obligations; and (3) the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, with respect to any obligation undertaken by it in indemnity agreement entered into pursuant to section 2210 of this title.
 
 (n) The term “international arrangement” means any international agreement hereafter approved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
 
-(<i>o</i>) The term “Energy Committees” means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+(o) The term “Energy Committees” means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 (p) The term “licensed activity” means an activity licensed pursuant to this chapter and covered by the provisions of section 2210(a) of this title.
 
-(q) The term “nuclear incident” means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: <i>Provided, however</i>, That as the term is used in section 2210(<i>l</i>) of this title, it shall include any such occurrence outside the United States: <i>And provided further</i>, That as the term is used in section 2210(d) of this title, it shall include any such occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States: <i>And provided further</i>, That as the term is used in section 2210(c) of this title, it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
+(q) The term “nuclear incident” means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property,arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: <i>Provided, however</i>, That as the term is used in section 2210(l) of this title, it shall include any such occurrence outside the United States: <i>And provided further</i>, That as the term is used in section 2210(d) of this title, it shall include any such occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States: <i>And provided further</i>, That as the term is used in section 2210(c) of this title, it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
 
 (r) The term “operator” means any individual who manipulates the controls of a utilization or production facility.
 
@@ -72,7 +72,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (z) The term “source material” means (1) uranium, thorium, or any other material which is determined by the Commission pursuant to the provisions of section 2091 of this title to be source material; or (2) ores containing one or more of the foregoing materials, in such concentration as the Commission may by regulation determine from time to time.
 
-(aa) The term “special nuclear material” means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source material; or (2) any material artificially enriched by any of the foregoing, but does not include source material.
+(aa) The term “special nuclear material” means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source material; or (2) any materialartificially enriched by any of the foregoing, but does not include source material.
 
 (bb) The term “United States” when used in a geographical sense includes all territories and possessions of the United States, the Canal Zone and Puerto Rico.
 
@@ -80,7 +80,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (dd) The terms “high-level radioactive waste” and “spent nuclear fuel” have the meanings given such terms in section 10101 of this title.
 
-(ee) The term “transuranic waste” means material contaminated with elements that have anatomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
+(ee) The term “transuranic waste” means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
 
 (ff) The term “nuclear waste activities”, as used in section 2210 of this title, means activities subject to an agreement of indemnification under subsection (d) of such section, that the Secretary of Energy is authorized to undertake, under this chapter or any other law, involving the storage, handling, transportation, treatment, or disposal of, or research and development on, spent nuclear fuel, high-level radioactive waste, or transuranic waste, including (but not limited to) activities authorized to be carried out under the Waste Isolation Pilot Project under section 213 of Public Law 96–164 (93 Stat. 1265).
 
@@ -114,9 +114,9 @@ Provisions similar to those comprising this section were contained in section 18
 
 <b>1996</b>—Subsec. (v). Pub. L. 104–134, which directed the amendment of subsec. (v) by striking out “or the construction and operation of a uranium enrichment facility using Atomic Vapor Laser Isotope Separation technology”, was executed by striking out “or the construction and operation of a uranium enrichment production facility using Atomic Vapor Laser Isotope Separation technology” before “, such term as used”, to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (<i>o</i>). Pub. L. 103–437 substituted “ ‘Energy Committees’ means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “ ‘Joint Committee’ means the Joint Committee on Atomic Energy”.
+<b>1994</b>—Subsec. (o). Pub. L. 103–437 substituted “ ‘Energy Committees’ means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “ ‘Joint Committee’ means the Joint Committee on Atomic Energy”.
 
-<b>1992</b>—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
+<b>1992</b>—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export ofa uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
 <b>1990</b>—Subsec. (v). Pub. L. 101–575 inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this chapter shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
@@ -150,17 +150,17 @@ Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents o
 
 <b>1966</b>—Subsec. (j). Pub. L. 89–645, §1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively. Former subsec. (<i>l</i>) redesignated (n).
+Subsecs. (k), (l). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (n).
 
-Subsec. (m). Pub. L. 89–645, §1(a)(3), added subsec. (m). Former subsec. (m) redesignated (<i>o</i>).
+Subsec. (m). Pub. L. 89–645, §1(a)(3), added subsec. (m). Former subsec. (m) redesignated (o).
 
-Subsecs. (n) to (p). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (<i>l</i>) to (n) as (n) to (p), respectively. Former subsecs. (n) to (p) redesignated (p) to (r), respectively.
+Subsecs. (n) to (p). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (l) to (n) as (n) to (p), respectively. Former subsecs. (n) to (p) redesignated (p) to (r), respectively.
 
-Subsec. (q). Pub. L. 89–645, §1(a)(1), (4), redesignated former subsec. (<i>o</i>) as (q) and inserted “, including an extraordinary nuclear occurrence,” between “occurrence” and “within”, respectively. Former subsec. (q) redesignated (s).
+Subsec. (q). Pub. L. 89–645, §1(a)(1), (4), redesignated former subsec. (o) as (q) and inserted “, including an extraordinary nuclear occurrence,” between “occurrence” and “within”, respectively. Former subsec. (q) redesignated (s).
 
 Subsecs. (r) to (cc). Pub. L. 89–645, §1(a)(1), redesignated former subsecs. (p) to (aa) as (r) to (cc), respectively.
 
-<b>1962</b>—Subsec. (<i>o</i>). Pub. L. 87–615, §4, enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(<i>l</i>) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in section 2210(d) of this title, the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
+<b>1962</b>—Subsec. (o). Pub. L. 87–615, §4, enlarged definition of “nuclear incident” to include any occurrence within the United States causing any of the listed injuries and damages within or outside the United States, provided that as used in section 2210(l) of this title, term shall “include” instead of “mean” any such occurrence outside the United States, and that as used in section 2210(d) of this title, the term shall include any such occurrence outside the United States if such occurrence involves a facility or devise owned by, and used by or under contract with, the United States.
 
 Subsec. (r). Pub. L. 87–615, §5, limited definition of “person indemnified” to nuclear incidents occurring within the United States, or in connection with the nuclear ship Savannah, and inserted provisions with respect to nuclear incidents occurring outside the United States.
 
@@ -168,21 +168,21 @@ Subsec. (r). Pub. L. 87–615, §5, limited definition of “person indemnified�
 
 Subsec. (u). Pub. L. 87–206, §3, designated existing provisions as cls. (i) and (ii) and added cl. (iii).
 
-<b>1958</b>—Subsec. (<i>o</i>). Pub. L. 85–602 inserted proviso defining “nuclear incident” as it is used in section 2210(<i>l</i>) of this title.
+<b>1958</b>—Subsec. (o). Pub. L. 85–602 inserted proviso defining “nuclear incident” as it is used in section 2210(l) of this title.
 
 <b>1957</b>—Subsec. (j). Pub. L. 85–256 added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsecs. (k) to (m). Pub. L. 85–256, redesignated former subsecs. (j) to (<i>l</i>) as (k) to (m), respectively. Former subsec. (m) redesignated (p).
+Subsecs. (k) to (m). Pub. L. 85–256, redesignated former subsecs. (j) to (l) as (k) to (m), respectively. Former subsec. (m) redesignated (p).
 
 Subsec. (n). Pub. L. 85–256 added subsec. (n). Former subsec. (n) redesignated (q).
 
-Subsec. (<i>o</i>). Pub. L. 85–256 added subsec. (<i>o</i>). Former subsec. (<i>o</i>) redesignated (s).
+Subsec. (o). Pub. L. 85–256 added subsec. (o). Former subsec. (o) redesignated (s).
 
 Subsecs. (p), (q). Pub. L. 85–256 redesignated former subsecs. (m) and (n) as (p) and (q), respectively. Former subsecs. (p) and (q) redesignated (t) and (u), respectively.
 
 Subsec. (r). Pub. L. 85–256 added subsec. (r). Former subsec. (r) redesignated (w).
 
-Subsecs. (s), (t). Pub. L. 85–256 redesignated former subsecs. (<i>o</i>) and (p) as (s) and (t), respectively. Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
+Subsecs. (s), (t). Pub. L. 85–256 redesignated former subsecs. (o) and (p) as (s) and (t), respectively. Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
 
 Subsec. (u). Pub. L. 85–256 added subsec. (u). Former subsec. (u) redesignated (z).
 
@@ -196,7 +196,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1988 Amendment
 
-Section 20 of Pub. L. 100–408 provided that:
+Pub. L. 100–408, §20, Aug. 20, 1988, 102 Stat. 1084, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act \[enacting section 2282a of this title and amending this section and sections 2210 and 2273 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 20, 1988\] and shall be applicable with respect to nuclear incidents occurring on or after such date.
 
@@ -208,7 +208,7 @@ Section 20 of Pub. L. 100–408 provided that:
 
 #### Effective Date of 1978 Amendment
 
-Section 208 of Pub. L. 95–604 provided that: “Except as otherwise provided in this title \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\].”
+Pub. L. 95–604, title II, §208, Nov. 8, 1978, 92 Stat. 3041, provided that: “Except as otherwise provided in this title \[see section 202(b) of Pub. L. 95–604, set out as an Effective Date note under section 2113 of this title\] the amendments made by this title \[enacting sections 2022 and 2114 of this title, amending this section and sections 2021, 2111, and 2201 of this title, and enacting provisions set out as notes under sections 2021 and 2113 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1978\].”
 
 #### Transfer of Functions
 

@@ -64,11 +64,13 @@ Amount of Payment.—(1) Payment to a spouse or former spouse under this section
 
 (3) If compensation is paid under this section to a child or children pursuant to subsection (d)(2) or (d)(3), such compensation shall be paid in equal shares, with the amount of such compensation for any month determined in accordance with the rates in effect for that month under section 1313 of title 38.
 
+(4) Payment to a child under this section shall not cover any period before the birth of the child.
+
 (g)
 
 Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receiving compensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
 
-(2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
+(2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse orformer spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
 (3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (k)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
 
@@ -88,7 +90,7 @@ Coordination of Benefits.—The Secretary concerned may not make payments to a s
 
 Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to use commissary and exchange stores to the same extent and in the same manner as a dependent of a member of the armed forces on active duty for a period of more than 30 days.
 
-(2) If a dependent or former dependent eligible or entitled to use commissary and exchangestores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
+(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
 (k)
 
@@ -96,9 +98,9 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
-(<i>l</i>)
+(l)
 
-Dependent Child Defined.—In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member at the time of the dependent-abuse offense resulting in the separation of the former member and—
+Dependent Child Defined.—In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse and—
 
 &emsp;(1) who is under 18 years of age;
 
@@ -114,9 +116,13 @@ Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary co
 
 (3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486.)
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(4). Pub. L. 112–239, §564(a)(1), added par. (4).
+
+Subsec. (l). Pub. L. 112–239, §564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
 
@@ -174,7 +180,11 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;“(B) 12 months.”
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 103–337, §535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+Subsecs. (j) to (l). Pub. L. 103–337, §535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title V, §564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Jan. 2, 2013\].”
 
 #### Effective Date of 2003 Amendment
 
@@ -192,7 +202,7 @@ Pub. L. 105–261, div. A, title V, §570(c), Oct. 17, 1998, 112 Stat. 2032, pro
 
 #### Effective Date
 
-Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, §636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
+Pub. L. 103–160, div. A, title V, §554(b), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, §636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
 
 “(1) The section of title 10, United States Code, added by subsection (a)(1) \[this section\] shall apply with respect to a member of the Armed Forces who, after November 29, 1993—
 

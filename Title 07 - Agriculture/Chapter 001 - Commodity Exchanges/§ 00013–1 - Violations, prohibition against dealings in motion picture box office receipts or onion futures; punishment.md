@@ -20,5 +20,5 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date
 
-Section 2 of Pub. L. 85–839 provided that: “This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\].”
+Pub. L. 85–839, §2, Aug. 28, 1958, 72 Stat. 1013, provided that: “This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\].”
 

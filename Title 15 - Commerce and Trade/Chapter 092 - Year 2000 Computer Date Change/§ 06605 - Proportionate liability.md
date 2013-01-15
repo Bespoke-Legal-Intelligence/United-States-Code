@@ -78,7 +78,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (ii) Other plaintiffs
 
-&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), each of the other defendants is liable for the uncollectible share in proportion to the percentage of responsibility of that defendant.
+&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), each of the other defendants is liable forthe uncollectible share in proportion to the percentage of responsibility of that defendant.
 
 #### (iii) Additional liability
 
@@ -132,7 +132,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (1) In general
 
-&emsp;A defendant who settles a Y2K action that is not a contract action at any time before finalverdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter an order constituting the final discharge of all obligations to the plaintiff of the settling defendant arising out of the action. The order shall bar all future claims for contribution arising out of the action—
+&emsp;A defendant who settles a Y2K action that is not a contract action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter an order constituting the final discharge of all obligations to the plaintiff of the settling defendant arising out of the action. The order shall bar all future claims for contribution arising out of the action—
 
 &emsp;&emsp;(A) by any person against the settling defendant; and
 

@@ -30,5 +30,5 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 
-Section 3(a) of Pub. L. 88–130 excluded officers subject to retirement under this section during the fiscal year the selection board convened from being continued on active duty.
+Pub. L. 88–130, §3(a), Sept. 24, 1963, 77 Stat. 191, excluded officers subject to retirement under this section during the fiscal year the selection board convened from being continued on active duty.
 

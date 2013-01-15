@@ -14,9 +14,9 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 #### Law Library
 
-Section 2 of act July 1, 1902, made an appropriation for the purchase of a law library for the use of the United States District Court for Puerto Rico.
+Act July 1, 1902, ch. 1383, §2, 32 Stat. 732, made an appropriation for the purchase of a law library for the use of the United States District Court for Puerto Rico.
 
 #### Expenses and Term of Resident Commissioner
 
-Section 3 of act July 1, 1902, related to allowance of traveling expenses in addition to salary to the resident commissioner from Puerto Rico, and to the commencement of his term.
+Act July 1, 1902, ch. 1383, §3, 32 Stat. 732, related to allowance of traveling expenses in addition to salary to the resident commissioner from Puerto Rico, and to the commencement of his term.
 

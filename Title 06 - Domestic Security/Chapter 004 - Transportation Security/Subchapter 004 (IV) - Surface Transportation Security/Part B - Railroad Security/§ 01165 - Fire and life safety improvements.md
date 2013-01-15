@@ -74,7 +74,7 @@ The Secretary of Transportation may not make amounts available to Amtrak for obl
 
 #### (f) Financial contribution from other tunnel users
 
-The Secretary of Transportation, taking into account the need for the timely completion ofall portions of the tunnel projects described in subsection (a), shall—
+The Secretary of Transportation, taking into account the need for the timely completion of all portions of the tunnel projects described in subsection (a), shall—
 
 &emsp;(1) consider the extent to which railroad carriers other than Amtrak use or plan to use the tunnels;
 

@@ -6,13 +6,13 @@ The Council shall select the Chairperson of the subcommittee. The term of the Ch
 
 #### (b) Meetings; quorum; voting
 
-The Appraisal Subcommittee shall meet at the call of the Chairperson or a majority of its members when there is business to be conducted. A majority of members of the Appraisal Subcommittee shall constitute a quorum but 2 or more members may hold hearings. Decisions of the Appraisal Subcommittee shall be made by the vote of a majority of its members.
+The Appraisal Subcommittee shall meet in public session after notice in the Federal Register, but may close certain portions of these meetings related to personnel and review of preliminary State audit reports, at the call of the Chairperson or a majority of its members when there is business to be conducted. A majority of members of the Appraisal Subcommittee shall constitute a quorum but 2 or more members may hold hearings. Decisions of the Appraisal Subcommittee shall be made by the vote of a majority of its members. The subject matter discussed in any closed or executive session shall be described in the Federal Register notice of the meeting.
 
 (Pub. L. 101–73, title XI, §1104, Aug. 9, 1989, 103 Stat. 512; Pub. L. 111–203, title XIV, §1473(c), July 21, 2010, 124 Stat. 2191.)
 
-#### Amendment of Subsection (b)
+#### Amendments
 
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(c), July 21, 2010, 124 Stat. 2136, 2191, provided that subsection (b) of this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, by inserting “in public session after notice in the Federal Register, but may close certain portions of these meetings related to personnel and review of preliminary State audit reports,” after “shall meet” and “The subject matter discussed in any closed or executive session shall be described in the Federal Register notice of the meeting.” after the final period. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 inserted “in public session after notice in the Federal Register, but may close certain portions of these meetings related to personnel and review of preliminary State audit reports,” after “shall meet” and “The subject matter discussed in any closed or executive session shall be described in the Federal Register notice of the meeting.” at the end.
 
 #### Effective Date of 2010 Amendment
 

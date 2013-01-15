@@ -38,7 +38,7 @@ This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 St
 
 #### Definitions
 
-Section 1(b) of Pub. L. 103–77 provided that:
+Pub. L. 103–77, §1(b), Aug. 13, 1993, 107 Stat. 756, provided that:
 
 “(1) As used in this Act \[see Short Title note set out under section 539i of this title\] with reference to lands in the National Forest System, the term ‘the Secretary’ means the Secretary of Agriculture.
 

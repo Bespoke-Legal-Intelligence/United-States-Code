@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantialcontributor” also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantial contributor” also means the creator of the trust.
 
 #### (B) Special rules
 
@@ -118,7 +118,7 @@ The Secretary may abate the unpaid portion of the assessment of any tax imposed 
 
 #### Effective Date of 1984 Amendment
 
-Section 313(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, §313(b), July 18, 1984, 98 Stat. 787, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date
 

@@ -14,5 +14,5 @@ The General Schedule, referred to in text, is set out under section 5332 of Titl
 
 #### Effective Date of 1988 Amendment
 
-Section 304(c) of Pub. L. 100–702 provided that: “The amendment made by subsection (b) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1988.”
+Pub. L. 100–702, title III, §304(c), Nov. 19, 1988, 102 Stat. 4648, provided that: “The amendment made by subsection (b) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1988.”
 

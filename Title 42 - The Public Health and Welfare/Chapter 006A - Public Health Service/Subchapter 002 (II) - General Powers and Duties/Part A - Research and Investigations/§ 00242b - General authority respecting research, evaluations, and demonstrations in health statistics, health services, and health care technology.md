@@ -14,7 +14,7 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 &emsp;(3) Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5, the assistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c,<sup>1</sup> 242k, and 242n <sup>1</sup> of this title, obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.
 
-&emsp;(4) Acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary; and acquire, without regard to section 8141 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia.
+&emsp;(4) Acquire, construct, improve, repair, operate, and maintain laboratory, research, andother necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary; and acquire, without regard to section 8141 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia.
 
 #### (c) Coordination of activities through units of Department
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted “subsection (a) o
 
 Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment”.
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and theNational Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
 
 Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted “the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology”.
 
@@ -102,9 +102,9 @@ Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for
 
 #### Effective Date of 1970 Amendments
 
-Section 201(d) of Pub. L. 91–515 provided that: “The amendments made by subsection (c) of this section\[amending this section\] shall be effective only with respect to fiscal years ending after June 30, 1970.”
+Pub. L. 91–515, title II, §201(d), Oct. 30, 1970, 84 Stat. 1303, provided that: “The amendments made by subsection (c) of this section \[amending this section\] shall be effective only with respect to fiscal years ending after June 30, 1970.”
 
-Section 401(b)(1) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title IV, §401(b)(1), June 30, 1970, 84 Stat. 352, provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
 #### Effective Date of 1956 Amendment
 
@@ -124,11 +124,11 @@ Pub. L. 95–83, title III, §314, Aug. 1, 1977, 91 Stat. 398, required the Secr
 
 #### Transfer of Equipment
 
-Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
+Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, theSecretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
 
 #### Congressional Declaration of Purpose
 
-Section 2 of Joint Res. July 28, 1955, provides a Congressional statement of the critical need for an analysis and reevaluation of the human and economic problems of mental illness and of the resources, methods, and practices utilized in diagnosing, treating, caring for, and rehabilitating the mentally ill, both within and outside of institutions, as might lead to the development of recommendations for such better utilization of those resources or such improvements on and new developments in methods of diagnosis, treatment, care, and rehabilitation as give promise of resulting in a marked reduction in the incidence or duration of mental illness and, in consequence, a lessening of the appalling emotional and financial drain on the families of those afflicted or on the economic resources of the States and of the Nation and a declaration of the policy to promote mental health and to help solve the complex and the interrelated problems posed by mental illness by encouraging the undertaking of nongovernmental, multidisciplinary research into and reevaluation of all aspects of our resources, methods, and practices for diagnosing, treating, caring for, and rehabilitating the mentally ill, including research aimed at the prevention of mental illness.
+Joint Res. July 28, 1955, ch. 417, §2, 69 Stat. 382, provided a Congressional statement of the critical need for an analysis and reevaluation of the human and economic problems of mental illness and of the resources, methods, and practices utilized in diagnosing, treating, caring for, and rehabilitating the mentally ill, both within and outside of institutions, as might lead to the development of recommendations for such better utilization of those resources or such improvements on and new developments in methods of diagnosis, treatment, care, and rehabilitation as give promise of resulting in a marked reduction in the incidence or duration of mental illness and, in consequence, a lessening of the appalling emotional and financial drain on the families of those afflicted or on the economic resources of the States and of the Nation and a declaration of the policy to promote mental health and to help solve the complex and the interrelated problems posed by mental illness by encouraging the undertaking of nongovernmental, multidisciplinary research into and reevaluation of all aspects of our resources, methods, and practices for diagnosing, treating, caring for, and rehabilitating the mentally ill, including research aimed at the prevention of mental illness.
 
 #### Children's Emotional Illness Study; Program Grants; Conditions; Definitions; Appropriations; Terms of Grant
 

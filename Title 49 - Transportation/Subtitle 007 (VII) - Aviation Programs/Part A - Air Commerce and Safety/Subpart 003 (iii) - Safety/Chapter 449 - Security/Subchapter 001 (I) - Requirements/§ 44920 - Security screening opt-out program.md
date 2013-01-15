@@ -6,7 +6,33 @@ In General.—On or after the last day of the 2-year period beginning on the dat
 
 (b)
 
-Approval of Applications.—The Under Secretary may approve any application submitted under subsection (a).
+Approval of Applications.—
+
+&emsp;(1)
+
+In general.—Not later than 120 days after the date of receipt of an application submitted by an airport operator under subsection (a), the Under Secretary shall approve or deny the application.
+
+&emsp;(2)
+
+Standards.—The Under Secretary shall approve an application submitted by an airport operator under subsection (a) if the Under Secretary determines that the approval would not compromise security or detrimentally affect the cost-efficiency or the effectiveness of the screening of passengers or property at the airport.
+
+&emsp;(3)
+
+Reports on denials of applications.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Under Secretary denies an application submitted by an airport operator under subsection (a), the Under Secretary shall provide to the airport operator, not later than 60 days following the date of the denial, a written report that sets forth—
+
+&emsp;&emsp;&emsp;(i) the findings that served as the basis for the denial;
+
+&emsp;&emsp;&emsp;(ii) the results of any cost or security analysis conducted in considering the application; and
+
+&emsp;&emsp;&emsp;(iii) recommendations on how the airport operator can address the reasons for the denial.
+
+&emsp;&emsp;(B)
+
+Submission to congress.—The Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a copy of any report provided to an airport operator under subparagraph (A).
 
 (c)
 
@@ -14,11 +40,19 @@ Qualified Private Screening Company.—A private screening company is qualified 
 
 (d)
 
-Standards for Private Screening Companies.—The Under Secretary may enter into a contract with a private screening company to provide screening at an airport under this section only if the Under Secretary determines and certifies to Congress that—
+Standards for Private Screening Companies.—
 
-&emsp;(1) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter; and
+&emsp;(1)
 
-&emsp;(2) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
+In general.—The Under Secretary may enter into a contract with a private screening company to provide screening at an airport under this section only if the Under Secretary determines and certifies to Congress that—
+
+&emsp;&emsp;(A) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter; and
+
+&emsp;&emsp;(B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are privatescreening companies owned and controlled by such citizens.
+
+&emsp;(2)
+
+Waivers.—The Under Secretary may waive the requirement of paragraph (1)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Under Secretary has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
 (e)
 
@@ -26,7 +60,7 @@ Supervision of Screened Personnel.—The Under Secretary shall provide Federal G
 
 (f)
 
-Termination of Contracts.—The Under Secretary may terminate any contract entered into with a private screening company to provide screening services at an airport under this section if the Under Secretary finds that the company has failed repeatedly to comply with any standard, regulation, directive, order, law, or contract applicable to the hiring or trainingof personnel to provide such services or to the provision of screening at the airport.
+Termination of Contracts.—The Under Secretary may terminate any contract entered into with a private screening company to provide screening services at an airport under this section if the Under Secretary finds that the company has failed repeatedly to comply with any standard, regulation, directive, order, law, or contract applicable to the hiring or training of personnel to provide such services or to the provision of screening at the airport.
 
 (g)
 
@@ -42,7 +76,11 @@ Operator of Airport.—Notwithstanding any other provision of law, an operator o
 
 &emsp;(3) Nothing in this section shall relieve any airport operator from liability for its own acts or omissions related to its security responsibilities, nor except as may be provided by the Support Anti-Terrorism by Fostering Effective Technologies Act of 2002 shall it relieve any qualified private screening company or its employees from any liability related to its own acts of negligence, gross negligence, or intentional wrongdoing.
 
-(Added Pub. L. 107–71, title I, §108(a), Nov. 19, 2001, 115 Stat. 612; amended Pub. L. 109–90, title V, §547, Oct. 18, 2005, 119 Stat. 2089.)
+(h)
+
+Recommendations of Airport Operator.—As part of any submission of an application for a private screening company to provide screening services at an airport, the airport operator shall provide to the Under Secretary a recommendation as to which company would best serve the security screening and passenger needs of the airport, along with a statement explaining the basis of the operator's recommendation.
+
+(Added Pub. L. 107–71, title I, §108(a), Nov. 19, 2001, 115 Stat. 612; amended Pub. L. 109–90, title V, §547, Oct. 18, 2005, 119 Stat. 2089; Pub. L. 112–95, title VIII, §830(a)–(c), Feb. 14, 2012, 126 Stat. 135.)
 
 #### References in Text
 
@@ -51,6 +89,12 @@ Section 110(c) of the Aviation and Transportation Security Act, referred to in s
 The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (g)(3), is subtitle G (§§861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§441 et seq.) of subchapter VIII of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–95, §830(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Under Secretary may approve any application submitted under subsection (a).”
+
+Subsec. (d). Pub. L. 112–95, §830(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+
+Subsec. (h). Pub. L. 112–95, §830(c), added subsec. (h).
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–90 added subsec. (g).
 

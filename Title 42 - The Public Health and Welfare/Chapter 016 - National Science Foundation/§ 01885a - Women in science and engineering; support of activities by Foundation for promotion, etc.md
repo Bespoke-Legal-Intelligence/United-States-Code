@@ -270,7 +270,7 @@ Contract Authority.—To the extent provided in advance in appropriations Acts, 
 
 “(a)
 
-In General.—Nothing in this Act shall be construed to require any non-Federal entity (such as a business, college or university, foundation, or research organization) to provide information to the Commission concerning such entity's personnel policies, including salaries and benefits, promotion criteria, and affirmative action plans.
+In General.—Nothing in this Act shall be construed to require any non-Federal entity (such as abusiness, college or university, foundation, or research organization) to provide information to the Commission concerning such entity's personnel policies, including salaries and benefits, promotion criteria, and affirmative action plans.
 
 “(b)
 
@@ -284,7 +284,7 @@ Termination.—The Commission shall terminate 30 days after submitting the repor
 
 “(b)
 
-Access to Information.—On or before the date of the termination of the Commission under subsection (a), the Commission shall provide to the National Science Foundation the information gathered by the Commission in the process of carrying out its dutiesunder this Act. The National Science Foundation shall act as a central repository for such information and shall make such information available to the public, including making such information available through the Internet.
+Access to Information.—On or before the date of the termination of the Commission under subsection (a), the Commission shall provide to the National Science Foundation the information gathered by the Commission in the process of carrying out its duties under this Act. The National Science Foundation shall act as a central repository for such information and shall make such information available to the public, including making such information available through the Internet.
 
 #### “SEC. 11. REVIEW OF INFORMATION PROVIDED BY THE NATIONAL SCIENCE FOUNDATION AND OTHER AGENCIES.
 

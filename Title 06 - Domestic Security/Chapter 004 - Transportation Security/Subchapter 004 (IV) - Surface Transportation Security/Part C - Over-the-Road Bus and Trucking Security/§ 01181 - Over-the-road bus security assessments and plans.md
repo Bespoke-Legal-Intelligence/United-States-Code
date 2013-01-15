@@ -162,7 +162,7 @@ The Secretary shall assign each over-the-road bus operator to a risk-based tier 
 
 The Secretary may permit under this section the development and implementation of coordinated vulnerability assessments and security plans to the extent that an over-the-road bus operator shares facilities with, or is colocated with, other transportation entities or providers that are required to develop vulnerability assessments and security plans under Federal law.
 
-#### (<i>l</i>) Nondisclosure of information
+#### (l) Nondisclosure of information
 
 #### (1) Submission of information to Congress
 

@@ -1,6 +1,6 @@
 ### §1461–1. Mission of United States Information Agency
 
-The mission of the United States Information Agency shall be to further the national interestby improving United States relations with other countries and peoples through the broadest possible sharing of ideas, information, and educational and cultural activities. In carrying out this mission, the United States Information Agency shall, among other activities—
+The mission of the United States Information Agency shall be to further the national interest by improving United States relations with other countries and peoples through the broadest possible sharing of ideas, information, and educational and cultural activities. In carrying out this mission, the United States Information Agency shall, among other activities—
 
 &emsp;(1) conduct Government-sponsored information, educational, and cultural activities designed—
 
@@ -28,5 +28,5 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Increase in Financial Resources of Agency for Exchange-of-Persons Activities
 
-Section 203 of Pub. L. 95–426, as amended by Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291, provided that: “The President shall, by a process of gradual expansion during the four-year period beginning October 1, 1979, increase significantly the financial resources expended annually by the United States Information Agency for exchange-of-persons activities. The President shall prepare at an early date a general plan for the accomplishment of this goal and shall adjust that plan annually, as he finds appropriate, in consultation with the Congress.”
+Pub. L. 95–426, title II, §203, Oct. 7, 1978, 92 Stat. 973, as amended by Pub. L. 97–241, title III, §303(b), Aug. 24,1982, 96 Stat. 291, provided that: “The President shall, by a process of gradual expansion during the four-year period beginning October 1, 1979, increase significantly the financial resources expended annually by the United States Information Agency for exchange-of-persons activities. The President shall prepare at an early date a general plan for the accomplishment of this goal and shall adjust that plan annually, as he finds appropriate, in consultation with the Congress.”
 

@@ -24,7 +24,7 @@ Except as may be expressly provided to the contrary in this chapter, all determi
 
 #### (c) Use of personnel
 
-Personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau charged with carrying out this chapter.
+Personnel funded pursuant to this section are authorized to provide administrative assistanceto personnel assigned to the bureau charged with carrying out this chapter.
 
 (Pub. L. 87–510, §5, June 28, 1962, 76 Stat. 123; Pub. L. 96–465, title II, §2206(a)(10), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 99–93, title I, §112(a), Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title I, §164(b), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–415, §1(ff), Oct. 25, 1994, 108 Stat. 4303.)
 
@@ -52,7 +52,7 @@ Subsec. (a)(4). Pub. L. 96–465, §2206(a)(10)(C), substituted reference to the
 
 #### Effective Date of 1985 Amendment
 
-Section 112(b) of Pub. L. 99–93 provided that: “Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
+Pub. L. 99–93, title I, §112(b), Aug. 16, 1985, 99 Stat. 411, provided that: “Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
 
 #### Effective Date of 1980 Amendment
 

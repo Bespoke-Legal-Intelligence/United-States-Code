@@ -40,7 +40,7 @@ An agreement entered into under this chapter shall—
 
 #### (d) Review of agreements
 
-The Secretary or the Administrator, as appropriate, may make a determination to terminate, or refuse to enter into, a multi-year agreement with respect to a recipient country if the Secretary or the Administrator determines that such country is not fulfilling the objectives or requirements of this chapter. In making such a determination, the Secretary or the Administrator, as appropriate, may consider the extent to which the country is—
+The Secretary or the Administrator, as appropriate, may make a determination to terminate, or refuse to enter into, a multi-year agreementwith respect to a recipient country if the Secretary or the Administrator determines that such country is not fulfilling the objectives or requirements of this chapter. In making such a determination, the Secretary or the Administrator, as appropriate, may consider the extent to which the country is—
 
 &emsp;(1) making significant economic development reforms;
 

@@ -4,7 +4,7 @@
 
 Not later than thirty days after—
 
-&emsp;(1) the promulgation of a regulation under section 360c of this title classifying a device in class I or changing the classification of a device to class I or an order under subsection (f)(2) of such section reclassifying a device or denying a petition for reclassification of a device,
+&emsp;(1) the promulgation of a regulation under section 360c of this title classifying a device in class I, an administrative order changing the classification of a device to class I, or an order under subsection (f)(2) of such section reclassifying a device or denying a petition for reclassification of a device,
 
 &emsp;(2) the promulgation of a regulation under section 360d of this title establishing, amending, or revoking a performance standard for a device,
 
@@ -20,9 +20,9 @@ Not later than thirty days after—
 
 &emsp;(8) an order pursuant to section 360c(i) of this title, or
 
-&emsp;(9) a regulation under section 360e(i)(2) or 360j(<i>l</i>)(5)(B) of this title,
+&emsp;(9) a regulation under section 360e(i)(2) or 360j(l)(5)(B) of this title,
 
-> any person adversely affected by such regulation or order may file a petition with the United States Court of Appeals for the District of Columbia or for the circuit wherein such person resides or has his principal place of business for judicial review of such regulation or order. A copy of the petition shall be transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary shall file in the court the record of the proceedings on which the Secretary based his regulation or order as provided in section 2112 of title 28. For purposes of this section, the term “record” means all notices and other matter published in the Federal Register with respect to the regulation or order reviewed, all information submitted to the Secretary with respect to such regulation or order, proceedings of any panel or advisory committee with respect to such regulation or order, any hearing held with respect to such regulation or order, and any other information identified by the Secretary, in the administrative proceeding held with respect to such regulation or order, as being relevant to such regulation or order.
+> any person adversely affected by such regulation or order may file a petition with the United States Court of Appeals for the District of Columbia or for the circuit wherein such person resides or has his principal place of business for judicial review of such regulation or order. A copy of the petition shall be transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary shall file in the court the record of the proceedings on which the Secretary based his regulation or order as provided in section 2112 oftitle 28. For purposes of this section, the term “record” means all notices and other matter published in the Federal Register with respect to the regulation or order reviewed, all information submitted to the Secretary with respect to such regulation or order, proceedings of any panel or advisory committee with respect to such regulation or order, any hearing held with respect to such regulation or order, and any other information identified by the Secretary, in the administrative proceeding held with respect to such regulation or order, as being relevant to such regulation or order.
 
 #### (b) Additional data, views, and arguments
 
@@ -44,9 +44,11 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 To facilitate judicial review under this section or under any other provision of law of a regulation or order issued under section 360c, 360d, 360e, 360f, 360h, 360i, 360j, or 360k of this title each such regulation or order shall contain a statement of the reasons for its issuance and the basis, in the record of the proceedings held in connection with its issuance, for its issuance.
 
-(June 25, 1938, ch. 675, §517, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 560; amended Pub. L. 101–629, §13, Nov. 28, 1990, 104 Stat. 4524; Pub. L. 102–300, §6(f), June 16, 1992, 106 Stat. 240; Pub. L. 105–115, title II, §216(a)(2), Nov. 21, 1997, 111 Stat. 2349.)
+(June 25, 1938, ch. 675, §517, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 560; amended Pub. L. 101–629, §13, Nov. 28, 1990, 104 Stat. 4524; Pub. L. 102–300, §6(f), June 16, 1992, 106 Stat. 240; Pub. L. 105–115, title II, §216(a)(2), Nov. 21, 1997, 111 Stat. 2349; Pub. L. 112–144, title VI, §608(a)(2)(C), July 9, 2012, 126 Stat. 1056.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144 substituted “, an administrative order changing the classification of a device to class I,” for “or changing the classification of a device to class I”.
 
 <b>1997</b>—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted “or” at end.
 

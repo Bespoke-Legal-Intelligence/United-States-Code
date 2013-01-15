@@ -14,7 +14,7 @@ Any officer of the customs service designated by the Secretary of the Treasury f
 
 <b>1926</b>—Act May 28, 1926, substituted “United States Customs Court” for “Board of General Appraisers”.
 
-Act June 17, 1930, §649, substituted “Treasury attache�AE1s” for “Customs attache�AE1s”.
+Act June 17, 1930, §649, substituted “Treasury attachés” for “Customs attachés”.
 
 #### Effective Date of 1970 Amendment
 
@@ -22,11 +22,11 @@ Amendment by Pub. L. 91–271 effective with respect to articles entered, or wit
 
 #### Effective Date of 1948 Amendment
 
-Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title.
 

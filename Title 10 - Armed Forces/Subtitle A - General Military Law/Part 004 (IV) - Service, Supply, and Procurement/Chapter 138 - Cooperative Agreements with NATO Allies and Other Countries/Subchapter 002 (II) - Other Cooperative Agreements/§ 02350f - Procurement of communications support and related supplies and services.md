@@ -6,7 +6,7 @@
 
 (2) Parties to an arrangement entered into under this section shall annually reconcile accrued credits and liabilities accruing under such agreement. Any liability of the United States resulting from a reconciliation shall be charged against the applicable appropriation available to the Department of Defense (at the time of the reconciliation) for obligation for communications support and related supplies and services.
 
-(3) Payments received by the United States shall be credited to the appropriation from which such communications support and related supplies and services have been provided.
+(3) Payments received by the United States shall be credited to the appropriation fromwhich such communications support and related supplies and services have been provided.
 
 \[(c) Repealed. Pub. L. 107–314, div. A, title X, §1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.\]
 

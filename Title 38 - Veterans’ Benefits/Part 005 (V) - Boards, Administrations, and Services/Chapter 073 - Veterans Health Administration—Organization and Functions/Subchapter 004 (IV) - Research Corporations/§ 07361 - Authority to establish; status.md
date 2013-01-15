@@ -60,11 +60,11 @@ Subsec. (b). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 #### Effective Date of 1992 Amendment
 
-Section 3(c) of Pub. L. 102–291 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 7368 of this title\] shall take effect as of October 1, 1991.”
+Pub. L. 102–291, §3(c), May 20, 1992, 106 Stat. 179, provided that: “The amendments made by subsections (a)and (b) \[amending this section and section 7368 of this title\] shall take effect as of October 1, 1991.”
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period
 
-Section 3(d) of Pub. L. 102–291 provided that: “The following actions of the Secretary of Veterans Affairs during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified:
+Pub. L. 102–291, §3(d), May 20, 1992, 106 Stat. 179, provided that: “The following actions of the Secretary of Veterans Affairs during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act \[May 20, 1992\] are hereby ratified:
 
 &emsp;“(1) A failure to dissolve a nonprofit corporation established under section 7361(a) of title 38, United States Code, that, within the three-year period beginning on the date of the establishment of the corporation, was not recognized as an entity the income of which is exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\].
 

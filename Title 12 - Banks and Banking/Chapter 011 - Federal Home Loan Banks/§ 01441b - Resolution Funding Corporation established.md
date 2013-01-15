@@ -240,13 +240,13 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
-&emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bank until such Bank has reimbursed the remaining Banks for all of the excess amount.
+&emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bankuntil such Bank has reimbursed the remaining Banks for all of the excess amount.
 
 #### (B) Allocation of excess amount among remaining Federal Home Loan Banks
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) isthe amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) is the amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchased under this subsection by such remaining Bank at the time of such determination; by
 
@@ -366,7 +366,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Exception
 
-&emsp;&emsp;The Funding Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
+&emsp;&emsp;The Funding Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31\(relating to determination of tax status of interest on obligations).
 
 #### (8) Obligations not exempt securities
 
@@ -376,7 +376,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78<i>o</i> of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
 
 #### (B) Authority of Commission
 
@@ -524,15 +524,15 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined by the table set forth in section 1441(d)(7) of this title.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8,2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapterI (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
@@ -556,7 +556,7 @@ Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 109–171 repealed Pub. L. 104–208, §
 
 Subsec. (k). Pub. L. 109–173, §9(d)(8)(A), in introductory provisions, inserted before colon “, the following definitions shall apply”.
 
-Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(<i>l</i>) of this title.”
+Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(l) of this title.”
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(F). See 1996 Amendment note below.
 

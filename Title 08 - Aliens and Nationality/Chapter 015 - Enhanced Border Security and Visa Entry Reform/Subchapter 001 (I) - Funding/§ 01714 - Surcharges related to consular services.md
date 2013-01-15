@@ -14,7 +14,7 @@ Pub. L. 109–472, §6, Jan. 11, 2007, 120 Stat. 3555, provided that:
 
 “(a)
 
-In General.—Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph under the heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) \[this section\]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
+In General.—Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph underthe heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) \[this section\]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
 
 “(b)
 
@@ -24,7 +24,7 @@ Requirements.—In carrying out subsection (a) and the provision of law describe
 
 &emsp;“(2) The aggregate amount of surcharges collected may not exceed the aggregate amount obligated and expended for the costs related to consular services in support of enhanced border security incurred in connection with the activity or item for which the surcharges are charged.
 
-&emsp;“(3) A surcharge may not be collected except to the extent the surcharge will be obligated and expendedto pay the costs related to consular services in support of enhanced border security incurred in connection with the activity or item for which the surcharge is charged.
+&emsp;“(3) A surcharge may not be collected except to the extent the surcharge will be obligated and expended to pay the costs related to consular services in support of enhanced border security incurred in connection with the activity or item for which the surcharge is charged.
 
 &emsp;“(4) A surcharge shall be available for obligation and expenditure only to pay the costs related to consular services in support of enhanced border security incurred in providing services in connection with the activity or item for which the surcharge is charged.”
 

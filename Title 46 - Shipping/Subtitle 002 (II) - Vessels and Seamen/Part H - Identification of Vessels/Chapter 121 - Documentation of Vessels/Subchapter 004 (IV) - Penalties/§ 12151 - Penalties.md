@@ -2,7 +2,15 @@
 
 (a)
 
-In General.—A person that violates this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate violation.
+In General.—
+
+&emsp;(1)
+
+Civil penalties.—Except as provided in paragraph (2), a person that violates this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $15,000. Each day of a continuing violation is a separate violation.
+
+&emsp;(2)
+
+Activities involving mobile offshore drilling units.—A person that violates section 12111(d) or a regulation prescribed under that section is liable to the United States Government for a civil penalty in an amount that is $25,000 or twice the charter rate of the vessel involved in the violation (as determined by the Secretary), whichever is greater. Each day of a continuing violation is a separate violation.
 
 (b)
 
@@ -26,7 +34,7 @@ Seizure and Forfeiture of Vessels.—A vessel and its equipment are liable to se
 
 Engaging in Fishing After Falsifying Eligibility.—In addition to other penalties under this section, the owner of a documented vessel for which a fishery endorsement has been issued is liable to the Government for a civil penalty of not more than $100,000 for each day the vessel engages in fishing (as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802)) within the exclusive economic zone, if the owner or the representative or agent of the owner knowingly falsified or concealed a material fact, or knowingly made a false statement or representation, about the eligibility of the vessel under section 12113(c) or (d) of this title in applying for or applying to renew the fishery endorsement.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1508.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1508; Pub. L. 112–213, title III, §309, Dec. 20, 2012, 126 Stat. 1566.)
 
 Historical and Revision Notes
 
@@ -63,4 +71,8 @@ July 14, 1956, ch. 600, §2 (2d, last sentences), 70 Stat. 544; Pub. L. 86–583
 46:12122(c).
 
 In subsection (b), in restating 46 App. U.S.C. 883a (2d, last sentences), the penalty of $200 for the owner and master of the vessel is omitted because subsection (a) provides a general civil penalty for violation of this chapter. The authority to remit or mitigate a penalty under section 2107(b) is omitted because section 2107(b) applies to subtitle II and this section is in subtitle II.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), a person that violates” for “A person that violates” and “$15,000” for “$10,000”, and added par. (2).
 

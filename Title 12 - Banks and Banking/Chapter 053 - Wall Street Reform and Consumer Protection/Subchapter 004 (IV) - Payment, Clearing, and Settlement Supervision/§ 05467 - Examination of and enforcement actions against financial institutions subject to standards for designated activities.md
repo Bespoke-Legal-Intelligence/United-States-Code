@@ -46,7 +46,7 @@ The Board of Governors shall consult with and provide such technical assistance 
 
 #### (B) Enforcement by Board of Governors
 
-&emsp;&emsp;Upon receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance with this subchapter or the rules or orders prescribed under this subchapter and, if so, the financial institution shall be subject to, and the Board of Governors shall have authority under the provisions of <sup>1</sup> subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+&emsp;&emsp;Upon receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance with this subchapter or the rules or orders prescribed under this subchapter and, if so, the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
 #### (e) Back-up authority of the Board of Governors
 
@@ -90,7 +90,7 @@ The Board of Governors shall consult with and provide such technical assistance 
 
 &emsp;&emsp;&emsp;&emsp;(I) not been notified, in writing, by the appropriate financial regulator of the commencement of an enforcement action recommended by the Board of Governors against the financial institution within 60 days from the date of the notification under clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(II) reasonable cause to believe that the financial institution's noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board's enforcement action; and
+&emsp;&emsp;&emsp;&emsp;(II) reasonable cause to believe that the financial institution's noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financialmarkets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board's enforcement action; and
 
 &emsp;&emsp;&emsp;(iv) obtained the approval of the Council upon an affirmative vote by a majority of the Council.
 

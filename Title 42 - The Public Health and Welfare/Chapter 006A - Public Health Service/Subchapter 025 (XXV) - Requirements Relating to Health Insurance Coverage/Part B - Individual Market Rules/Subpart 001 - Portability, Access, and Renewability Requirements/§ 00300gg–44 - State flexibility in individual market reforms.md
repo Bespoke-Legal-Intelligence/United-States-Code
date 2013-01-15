@@ -112,7 +112,7 @@ August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original “th
 
 #### Effective Date of 1996 Amendment
 
-Section 605(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting section 300gg–51 of this title and amending this section and sections 300gg–61 and 300gg–62 of this title\] shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after January 1, 1998.”
+Pub. L. 104–204, title VI, §605(c), Sept. 26, 1996, 110 Stat. 2942, provided that: “The amendments made by this section \[enacting section 300gg–51 of this title and amending this section and sections 300gg–61 and 300gg–62 of this title\] shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after January 1, 1998.”
 
 #### Effective Date
 

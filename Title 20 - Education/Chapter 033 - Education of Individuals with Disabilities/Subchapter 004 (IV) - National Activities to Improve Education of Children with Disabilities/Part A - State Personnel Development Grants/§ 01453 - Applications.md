@@ -30,7 +30,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;(1) describe a partnership agreement that is in effect for the period of the grant, which agreement shall specify—
 
-&emsp;&emsp;(A) the nature and extent of the partnership described in section 1452(b) of this title and the respective roles of each member of the partnership, including the partner described in section 1452(b)(3) of this title if applicable; and
+&emsp;&emsp;(A) the nature and extent of the partnership described in section 1452(b) of this titleand the respective roles of each member of the partnership, including the partner described in section 1452(b)(3) of this title if applicable; and
 
 &emsp;&emsp;(B) how the State educational agency will work with other persons and organizations involved in, and concerned with, the education of children with disabilities, including the respective roles of each of the persons and organizations;
 
@@ -58,7 +58,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall use a panel of experts who are competent, by virtue of their training,expertise, or experience, to evaluate applications for grants under section 1451(c)(1) of this title.
+&emsp;The Secretary shall use a panel of experts who are competent, by virtue of their training, expertise, or experience, to evaluate applications for grants under section 1451(c)(1) of this title.
 
 #### (2) Composition of panel
 

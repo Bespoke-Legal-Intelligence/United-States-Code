@@ -14,7 +14,7 @@ The provisions of this chapter shall not apply to any of the following activitie
 
 #### Effective Date of 1987 Amendment
 
-Section 201(b)–(e) of Pub. L. 100–34 provided that:
+Pub. L. 100–34, title II, §201(b)–(e), May 7, 1987, 101 Stat. 300, provided that:
 
 “(b)
 

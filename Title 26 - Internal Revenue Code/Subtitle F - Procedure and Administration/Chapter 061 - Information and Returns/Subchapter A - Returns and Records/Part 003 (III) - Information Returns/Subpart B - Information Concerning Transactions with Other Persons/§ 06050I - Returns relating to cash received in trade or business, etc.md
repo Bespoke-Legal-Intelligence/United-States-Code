@@ -150,11 +150,11 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1994 Amendment
 
-Section 20415(d) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\].” \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: “The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\].” \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Effective Date of 1990 Amendment
 
-Section 11318(e) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11318(e), Nov. 5, 1990, 104 Stat. 1388–459, provided that:
 
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 6721 of this title\] shall apply to amounts received after the date of the enactment of this Act \[Nov. 5, 1990\].
 
@@ -164,7 +164,7 @@ Section 11318(e) of Pub. L. 101–508 provided that:
 
 #### Effective Date of 1988 Amendment
 
-Section 7601(a)(3) of Pub. L. 100–690 provided that: “The amendments made by this subsection \[amending this section and sections 6721 and 7203 of this title\] shall apply to actions after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7601(a)(3), Nov. 18, 1988, 102 Stat. 4504, provided that: “The amendments made by this subsection \[amending this section and sections 6721 and 7203 of this title\] shall apply to actions after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -172,11 +172,11 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date
 
-Section 146(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §146(d), July 18, 1984, 98 Stat. 687, provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.”
 
 #### Regulations
 
-Section 20415(c) of Pub. L. 103–322 provided that: “The Secretary of the Treasury or the Secretary's delegate shall prescribe temporary regulations under the amendments made by this section \[amending this section and section 6724 of this title\] within 90 days after the date of enactment of this Act \[Sept. 13, 1994\].” \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(c), Sept. 13, 1994, 108 Stat. 1833, provided that: “The Secretary of the Treasury or the Secretary's delegate shall prescribe temporary regulations under the amendments made by this section \[amending this section and section 6724 of this title\] within 90 days after the date of enactment of this Act \[Sept. 13, 1994\].” \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Reports on Uses Made of Currency Transaction Reports
 
@@ -184,5 +184,5 @@ For requirement of Secretary of the Treasury to report to Congress on number of 
 
 #### No Inference To Be Drawn From Amendment
 
-Section 7601(a)(4) of Pub. L. 100–690 provided that: “No inference shall be drawn from the amendment made by paragraph (1) \[amending this section\] on the application of the Internal Revenue Code of 1986 without regard to such amendment.”
+Pub. L. 100–690, title VII, §7601(a)(4), Nov. 18, 1988, 102 Stat. 4504, provided that: “No inference shall be drawn from the amendment made by paragraph (1) \[amending this section\] on the application of the Internal Revenue Code of 1986 without regard to such amendment.”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An air carrier that provides scheduled passenger air transportation shallsubmit monthly to the Secretary a report on any incidents involving the loss, injury, or death of an animal (as defined by the Secretary of Transportation) during air transport provided by the air carrier. The report shall be in such form and contain such information as the Secretary determines appropriate.
+In General.—An air carrier that provides scheduled passenger air transportation shall submit monthly to the Secretary a report on any incidents involving the loss, injury, or death of an animal (as defined by the Secretary of Transportation) during air transport provided by the air carrier. The report shall be in such form and contain such information as the Secretary determines appropriate.
 
 (b)
 

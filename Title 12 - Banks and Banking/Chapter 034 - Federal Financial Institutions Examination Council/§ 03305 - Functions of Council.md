@@ -12,11 +12,11 @@ The Council shall establish uniform principles and standards and report forms fo
 
 #### (c) Development of uniform reporting system
 
-The Council shall develop uniform reporting systems for federally supervised financial institutions, their holding companies, and nonfinancial institution subsidiaries of such institutions or holding companies. The authority to develop uniform reporting systems shall not restrict or amend the requirements of section 78<i>l</i>(i) of title 15.
+The Council shall develop uniform reporting systems for federally supervised financial institutions, their holding companies, and nonfinancial institution subsidiaries of such institutions or holding companies. The authority to develop uniform reporting systems shall not restrict or amend the requirements of section 78l(i) of title 15.
 
 #### (d) Conducting schools for examiners and assistant examiners
 
-The Council shall conduct schools for examiners and assistant examiners employed by the Federal financial institutions regulatory agencies. Such schools shall be open to enrollment by employees of State financial institutions supervisory agencies and employees of the Federal Housing Finance Board under conditions specified by the Council.
+The Council shall conduct schools for examiners and assistant examiners employed by theFederal financial institutions regulatory agencies. Such schools shall be open to enrollment by employees of State financial institutions supervisory agencies and employees of the Federal Housing Finance Board under conditions specified by the Council.
 
 #### (e) Affect on Federal regulatory agency research and development of new financial institutions supervisory agencies
 
@@ -42,7 +42,7 @@ The Council shall consult with and assist the Federal entities for lending regul
 
 #### Report on Consistent Use of Financial Terminology
 
-Section 210 of Pub. L. 103–325 provided that: “Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(53)(A)\]).”
+Pub. L. 103–325, title II, §210, Sept. 23, 1994, 108 Stat. 2203, provided that: “Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(53)(A)\]).”
 
 #### Examination Improvement Program
 
@@ -96,5 +96,5 @@ Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Fed
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
-Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
+Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outlinepossible specific timetables for implementing such a unified system.
 

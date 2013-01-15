@@ -14,7 +14,7 @@ The Administrator shall conduct a study of all Federal laws administered by the 
 
 #### (b) Classification, storage, and retrieval study
 
-The Council on Environmental Quality, in consultation with the Administrator, the Secretary of Health and Human Services, the Secretary of Commerce, and the heads of other appropriate Federal departments or agencies, shall coordinate a study of the feasibility of establishing (1) a standard classification system forchemical substances and related substances, and (2) a standard means for storing and for obtaining rapid access to information respecting such substances. A report on such study shall be completed and submitted to Congress not later than 18 months after the effective date of enactment of this chapter.
+The Council on Environmental Quality, in consultation with the Administrator, the Secretary of Health and Human Services, the Secretary of Commerce, and the heads of other appropriate Federal departments or agencies, shall coordinate a study of the feasibility of establishing (1) a standard classification system for chemical substances and related substances, and (2) a standard means for storing and for obtaining rapid access to information respecting such substances. A report on such study shall be completed and submitted to Congress not later than 18 months after the effective date of enactment of this chapter.
 
 (Pub. L. 94–469, title I, §25, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 

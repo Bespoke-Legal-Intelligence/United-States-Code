@@ -44,7 +44,7 @@ Extension of Policies.—
 
 &emsp;(1)
 
-In general.—The Secretary shall extend through January 31, 2012, and may extend through April 30, 2012, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+In general.—The Secretary shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Amount.—Insurance provided by the Secretary under this subsection shall be for
 
 Terms and conditions.—Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16, 2011, 125 Stat. 358.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(c), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title VII, §701, Feb. 14, 2012, 126 Stat. 118.)
 
 Historical and Revision Notes
 
@@ -108,7 +108,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence words between 2d and 3
 
 Aug. 23, 1958, Pub. L. 85–726, §1311, 72 Stat. 806.
 
-In subsection (a)(1), before clause (A), the words “Subject to subsection (b) of this section” are added, and the words “American aircraft or foreign-flag aircraft” are substituted for “aircraft” in 49 App.:1532(a), for clarity. The words “in the manner and to the extent provided by this subchapter” are omitted as unnecessary. The words “Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is” are omitted because of the restatement. In clause (B), the word “places” is substituted for “points” for consistency in the revised title.
+In subsection (a)(1), before clause (A), the words “Subject to subsection (b) of this section” are added,and the words “American aircraft or foreign-flag aircraft” are substituted for “aircraft” in 49 App.:1532(a), for clarity. The words “in the manner and to the extent provided by this subchapter” are omitted as unnecessary. The words “Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is” are omitted because of the restatement. In clause (B), the word “places” is substituted for “points” for consistency in the revised title.
 
 In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for “an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
 
@@ -125,6 +125,10 @@ The date of enactment of this paragraph, referred to in subsec. (b)(4), is the d
 The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95 substituted “shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date” for “shall extend through February 17, 2012, and may extend through May 17, 2012, the termination date”.
+
+Pub. L. 112–91 substituted “February 17, 2012,” for “January 31, 2012,” and “May 17, 2012,” for “April 30, 2012,”.
 
 <b>2011</b>—Subsec. (f)(1). Pub. L. 112–30 substituted “January 31, 2012,” for “September 16, 2011,” and “April 30, 2012,” for “December 31, 2011,”.
 
@@ -202,7 +206,7 @@ Amendment by Pub. L. 112–7 effective Apr. 1, 2011, see section 5(j) of Pub. L.
 
 Amendment by Pub. L. 111–329 effective Jan. 1, 2011, see section 5(j) of Pub. L. 111–329, set out as a note under section 40117 of this title.
 
-Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(l) of Pub. L. 111–249, set out as a note under section 40117 of this title.
 
 Amendment by Pub. L. 111–216 effective Aug. 2, 2010, see section 104(j) of Pub. L. 111–216, set out as a note under section 40117 of this title.
 
@@ -220,7 +224,7 @@ Amendment by Pub. L. 111–12 effective Apr. 1, 2009, see section 5(j) of Pub. L
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
+Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(l) of Pub. L. 110–330, set out as a note under section 40117 of this title.
 
 Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
 
@@ -250,27 +254,31 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 &emsp;(4) delegate to the Secretary of Transportation, in consultation with the Secretary of State, the authority vested in me by 49 U.S.C. 44306(b) \[now 44306(c)\] for purposes of responding to the current crisis in Haiti.
 
-The Secretary of Transportation is directed to bring this determination immediately to the attention of allair carriers within the meaning of 49 U.S.C. 40102(a)(2), and to arrange for its publication in the Federal Register.
+The Secretary of Transportation is directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(a)(2), and to arrange for its publication in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
 
-Memorandum of President of the United States, Sept. 28, 2011, 76 F.R. 61247, provided:
-
 Memorandum for the Secretary of Transportation
+
+Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including 49 U.S.C. 44301–44310, I hereby:
 
-1\. Determine that the continuation of U.S. commercial air transportation is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
+1\. Determine that the continuation of U.S. air transportation is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
 
-2\. Approve the provision by the Secretary of Transportation of insurance or reinsurance to U.S. air carriers against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in chapter 443 of title 49 of the U.S. Code until September 30, 2012, when he determines such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States.
+2\. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, U.S. Code, until September 30, 2013, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
+
+3\. Delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this approval and determination beyond September 30, 2013, to December 31, 2013, if he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government, if he also determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
 
 You are directed to bring this determination immediately to the attention of all air carriers, as defined in 49 U.S.C. 40102(a)(2), and to arrange for its publication in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Presidential documents related to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Memorandum of President of the United States, Sept. 28, 2011, 76 F.R. 61247.
 
 Memorandum of President of the United States, Sept. 29, 2010, 75 F.R. 61033.
 

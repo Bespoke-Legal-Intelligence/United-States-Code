@@ -1,0 +1,42 @@
+### §496. Consideration of expansion of nuclear forces of other countries
+
+(a)
+
+Report and Certification.—Not later than 60 days before the President recommends any reductions to the nuclear forces of the United States—
+
+&emsp;(1) the President shall transmit to the appropriate congressional committees a report detailing, for each country with nuclear weapons, the high-, medium-, and low- confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) with respect to—
+
+&emsp;&emsp;(A) the number of each type of nuclear weapons possessed by such country;
+
+&emsp;&emsp;(B) the modernization plans for such weapons of such country;
+
+&emsp;&emsp;(C) the production capacity of nuclear warheads and strategic delivery systems (as defined in section 495(e)(2) of this title) of such country;
+
+&emsp;&emsp;(D) the nuclear doctrine of such country; and
+
+&emsp;&emsp;(E) the impact of such recommended reductions on the deterrence and extended deterrence capabilities of the United States; and
+
+&emsp;(2) the Commander of the United States Strategic Command shall certify to the appropriate congressional committees whether such recommended reductions in the nuclear forces of the United States will—
+
+&emsp;&emsp;(A) impair the ability of the United States to address—
+
+&emsp;&emsp;&emsp;(i) unplanned strategic or geopolitical events; or
+
+&emsp;&emsp;&emsp;(ii) technical challenge; or
+
+&emsp;&emsp;(B) degrade the deterrence or assurance provided by the United States to friends and allies of the United States.
+
+(b)
+
+Form.—The reports required by subsection (a)(1) shall be submitted in unclassified form, but may include a classified annex.
+
+(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term “appropriate congressional committees” means the following:
+
+&emsp;(1) The congressional defense committees.
+
+&emsp;(2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+(Added Pub. L. 112–239, div. A, title X, §1036(a), Jan. 2, 2013, 126 Stat. 1924.)
+

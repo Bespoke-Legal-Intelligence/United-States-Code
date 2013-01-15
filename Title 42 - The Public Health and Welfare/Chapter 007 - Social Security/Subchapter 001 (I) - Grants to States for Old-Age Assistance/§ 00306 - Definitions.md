@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>1981</b>—Subsecs. (b), (c). Pub. L. 97–35 struck out subsecs. (b) and (c) which defined “medical assistance for the aged” and “Federal medical percentage”, respectively.
+<b>1981</b>—Subsecs. (b), (c). Pub. L. 97–35 struck out subsecs. (b) and (c) which defined “medical assistance forthe aged” and “Federal medical percentage”, respectively.
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–603 authorized the State, at its option, to include within term “old-age assistance” provisions relating to money payments to an individual absent from such State for more than 90 consecutive days, and provisions relating to rent payments made directly to a public housing agency.
 
@@ -50,13 +50,13 @@ Subsecs. (b), (c). Pub. L. 86–778, §601(f)(2), added subsecs. (b) and (c).
 
 Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
-Section 222(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
+Pub. L. 89–97, title II, §222(c), July 30, 1965, 79 Stat. 360, provided that: “The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
 
-Section 402(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
+Pub. L. 89–97, title IV, §402(e), July 30, 1965, 79 Stat. 418, provided that: “The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 156(e) of Pub. L. 87–543 provided that: “The amendments made by this section \[amending this section and sections 606, 1206, and 1355 of this title\] shall apply in the case of applications made after September 30, 1962, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\].”
+Pub. L. 87–543, title I, §156(e), July 25, 1962, 76 Stat. 207, provided that: “The amendments made by this section \[amending this section and sections 606, 1206, and 1355 of this title\] shall apply in the case of applications made after September 30, 1962, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\].”
 
 #### Effective Date of 1960 Amendment
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 86–778 effective Oct. 1, 1960, see section 604 of Pub. L.
 
 #### Effective Date of 1950 Amendment
 
-Section 303(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 6 of the Social Security Act as so amended \[clauses (a) or (b) of this section\] shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+Act Aug. 28, 1950, ch. 809, title III, §303(b), 64 Stat. 549, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 6 of the Social Security Act as so amended \[clauses (a) or (b) of this section\] shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 

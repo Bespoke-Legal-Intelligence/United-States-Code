@@ -44,7 +44,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;&emsp;(K) Section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 \[22 U.S.C. 6091\].
 
-&emsp;&emsp;(L) Section 613 of the Departments of Commerce, Justice, and State, the Judiciary andRelated Agencies Appropriations Act, 1999 <sup>3</sup> (as contained in section 101(b) of division A of Public Law 105–277) (Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999); 112 Stat. 2681; H.R. 4328 (originally H.R. 4276) as amended by section 617 of Public Law 106–553.
+&emsp;&emsp;(L) Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999 <sup>3</sup> (as contained in section 101(b) of division A of Public Law 105–277) (Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999); 112 Stat. 2681; H.R. 4328 (originally H.R. 4276) as amended by section 617 of Public Law 106–553.
 
 &emsp;&emsp;(M) Section 103(f) of the Chemical Weapon Convention Implementation Act of 1998 \[22 U.S.C. 6713(f)\] (112 Stat. 2681–865).
 
@@ -72,7 +72,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to assign employees of the Department to each diplomatic and consular post at which visas are issued, unless the Secretary determines that such an assignment at a particular post would not promote homeland security.
+&emsp;The Secretary is authorized to assign employees of the Department to each diplomatic and consular post at which visas are issued,unless the Secretary determines that such an assignment at a particular post would not promote homeland security.
 
 #### (2) Functions
 

@@ -6,7 +6,7 @@ Definition.—In this section, the term “State” shall mean each of the 50 St
 
 (b)
 
-Allocation.—Of the amounts made available for each fiscal year under section 5338(b)(2)(M), the Secretary shall apportion—
+Allocation.—Of the amounts made available for each fiscal year under section 5338(b)(2)(M),<sup>1</sup> the Secretary shall apportion—
 
 &emsp;(1) 50 percent to States and urbanized areas in accordance with subsection (c); and
 
@@ -69,4 +69,10 @@ State apportionment.—Each State qualifying for an apportionment under paragrap
 Apportionments among urbanized areas in each state.—The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
 (Added Pub. L. 109–59, title III, §3038(a), Aug. 10, 2005, 119 Stat. 1636.)
+
+#### References in Text
+
+Section 5338, referred to in subsec. (b), was amended generally by Pub. L. 112–141, div. B, §20028, July 6, 2012, 126 Stat. 726, and, as so amended, no longer contains a subsec. (b)(2)(M). However, allocations in accordance with this section are described elsewhere in that section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ In general.—The Coast Guard may not acquire an experimental or technically imm
 
 &emsp;(2)
 
-Requirements.—The analysis of alternatives shall be prepared by a federally funded research and development center, a qualified entity of the Department of Defense, or a similar independent third-party entity that has appropriate acquisition expertise and has no financial interest in any part of the acquisition project or program that is the subject ofthe analysis. At a minimum, the analysis of alternatives shall include—
+Requirements.—The analysis of alternatives shall be prepared by a federally funded research and development center, a qualified entity of the Department of Defense, or a similar independent third-party entity that has appropriate acquisition expertise and has no financial interest in any part of the acquisition project or program that is the subject of the analysis. At a minimum, the analysis of alternatives shall include—
 
 &emsp;&emsp;(A) an assessment of the technical maturity of the capability or asset, and technical and other risks;
 
@@ -130,5 +130,5 @@ Required updates.—For each Level 1 or Level 2 acquisition project or program t
 
 #### Prior Provisions
 
-A prior section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts of inquiry, prior to repeal by actMay 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+A prior section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts of inquiry, prior to repeal by act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 

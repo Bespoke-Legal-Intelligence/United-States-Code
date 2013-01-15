@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Basic application
 
-&emsp;The term “basic application” means the application for the registration of a mark that has been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+&emsp;The term “basic application” means the application for the registration of a mark thathas been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
 
 #### (2) Basic registration
 
@@ -84,7 +84,7 @@ In this subchapter:
 
 #### Effective Date
 
-Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: “This subtitle \[subtitle D\(§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
+Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: “This subtitle \[subtitle D (§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
 
 &emsp;“(1) the date on which the Madrid Protocol (as defined in section 60 of the Trademark Act of 1946 \[this section\]) enters into force with respect to the United States \[Nov. 2, 2003\]; or
 

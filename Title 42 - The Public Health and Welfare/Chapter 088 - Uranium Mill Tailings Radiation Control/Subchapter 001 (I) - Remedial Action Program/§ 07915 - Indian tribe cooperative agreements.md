@@ -14,11 +14,11 @@ After notifying the Indian tribe of the designation pursuant to section 7912 of 
 
 #### (b) Disposition and stabilization sites for residual radioactive materials; transfer to Secretary of the Interior
 
-When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) of this section to be appropriate, he shall provide, consistentwith other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
+When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) of this section to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
 
 (Pub. L. 95–604, title I, §105, Nov. 8, 1978, 92 Stat. 3028.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note under section 7901 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill TailingsRadiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note under section 7901 of this title and Tables.
 

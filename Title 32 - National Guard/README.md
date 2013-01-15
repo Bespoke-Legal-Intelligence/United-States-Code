@@ -1,6 +1,4 @@
 
-32 U.S.C.<br>United States Code, 2011 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 32—NATIONAL GUARD
 
 <i>This title was enacted by act Aug. 10, 1956, ch. 1041, §2, 70A Stat. 596</i>
@@ -551,11 +549,11 @@ This title has been made positive law by section 2 of act Aug. 10, 1956, ch. 104
 
 #### Repeals
 
-Section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49”.
+Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49”.
 
 #### Savings and Severability Provisions
 
-Section 49 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that:
+Act Aug. 10, 1956, ch. 1041, §49, 70A Stat. 640, provided that:
 
 “(a) In sections 1–48 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -573,11 +571,11 @@ Section 49 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that:
 
 #### Restatement of Suspended or Temporarily Superseded Provisions
 
-Section 50 of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, provided that: “If on the effective date of this Act a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Act Aug. 10, 1956, ch. 1041, §50, 70A Stat. 640, provided that: “If on the effective date of this Act a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
 #### Improvement of United States Code by Pub. L. 85–861; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings and Severability Provisions; Status; Repeals
 
-Section 34 of Pub. L. 85–861 provided that:
+Pub. L. 85–861, §34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
 “(a) In sections 1–32 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -589,9 +587,9 @@ Section 34 of Pub. L. 85–861 provided that:
 
 “(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
-Section 35 of Pub. L. 85–861 provided that: “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Pub. L. 85–861, §35, Sept. 2, 1958, 72 Stat. 1568, provided that: “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-Section 36 of Pub. L. 85–861 repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 
 ---

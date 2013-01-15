@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15thday of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
+In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15th day of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
 
 #### (b) Returns of corporations
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 #### Effective Date of 1978 Amendment
 
-Section 6(b) of Pub. L. 95–628 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\].”
+Pub. L. 95–628, §6(b), Nov. 10, 1978, 92 Stat. 3630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
 #### Effective Date of 1976 Amendment
 

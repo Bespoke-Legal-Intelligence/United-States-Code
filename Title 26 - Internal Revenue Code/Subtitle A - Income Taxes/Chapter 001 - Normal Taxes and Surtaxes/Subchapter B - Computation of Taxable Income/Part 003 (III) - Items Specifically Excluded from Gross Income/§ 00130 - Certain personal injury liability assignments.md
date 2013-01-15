@@ -62,17 +62,17 @@ Subsec. (c)(2)(D). Pub. L. 105–34, §962(a)(3), substituted “paragraph (1) o
 
 #### Effective Date of 1997 Amendment
 
-Section 962(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to claims under workmen's compensation acts filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §962(b), Aug. 5, 1997, 111 Stat. 892, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to claims under workmen's compensation acts filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 6079(b)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to assignments after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6079(b)(2), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to assignments after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 1002(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to assignments entered into after December 31, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title X, §1002(b), Oct. 22, 1986, 100 Stat. 2388, provided that: “The amendment made by this section \[amending this section\] shall apply to assignments entered into after December 31, 1986, in taxable years ending after such date.”
 
 #### Effective Date
 
-Section 101(c) of Pub. L. 97–473 provided that: “The amendments made by this section \[enacting this section and amending section 104 of this title\] shall apply to taxable years ending after December 31, 1982.”
+Pub. L. 97–473, title I, §101(c), Jan. 14, 1983, 96 Stat. 2606, provided that: “The amendments made by this section \[enacting this section and amending section 104 of this title\] shall apply to taxable years ending after December 31, 1982.”
 

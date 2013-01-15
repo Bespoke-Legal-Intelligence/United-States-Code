@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Interstate commerce
 
-&emsp;The term “interstate commerce” means the transportation for sale, trade, or use between any State, territory, or possession of the United States, or the District of Columbia, and any place outside thereof.
+&emsp;The term “interstate commerce” means the transportation for sale, trade, or use between any State, territory, or possession of theUnited States, or the District of Columbia, and any place outside thereof.
 
 #### (3) Customs laws
 
@@ -86,7 +86,7 @@ In this section:
 
 #### (4) Regulations
 
-&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product,prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
 
 #### (5) Reward
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (6) Affirmative defense
 
-&emsp;Any person accused of a violation under this section has a defense to any proceeding brought under this section on account of suchviolation if that person establishes by a preponderance of the evidence that the person exercised reasonable care—
+&emsp;Any person accused of a violation under this section has a defense to any proceeding brought under this section on account of such violation if that person establishes by a preponderance of the evidence that the person exercised reasonable care—
 
 &emsp;&emsp;(A) in determining the nature of the products alleged to have resulted in such violation; and
 
@@ -150,11 +150,11 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) The United States represents one of the largest markets for the sale of fur and fur products in the world. Market demand for fur products in the United States has led to the introduction of dog and cat fur products into United States commerce, frequently based on deceptive or fraudulent labeling of the products to disguise the true nature of the fur and mislead United States wholesalers, retailers, and consumers.
 
-&emsp;“(3) Dog and cat fur, when dyed, is not easily distinguishable to persons who are not experts from other furs such as fox, rabbit, coyote, wolf, and mink, and synthetic materials made to resemble real fur. Dog and cat fur is generally less expensive than other types of fur and may be used as a substitute for more expensive types of furs, which provides an incentive to engage in unfair or fraudulent trade practices in the importation, exportation, distribution, or sale of fur products, including deceptive labeling and other practices designed to disguise the true contents or origin of the product.
+&emsp;“(3) Dog and cat fur, when dyed, is not easily distinguishable to persons who are not experts from other furs such as fox, rabbit, coyote, wolf, and mink, and synthetic materials made to resemble real fur. Dog and cat fur is generally less expensive than othertypes of fur and may be used as a substitute for more expensive types of furs, which provides an incentive to engage in unfair or fraudulent trade practices in the importation, exportation, distribution, or sale of fur products, including deceptive labeling and other practices designed to disguise the true contents or origin of the product.
 
 &emsp;“(4) Forensic texts have documented that dog and cat fur products are being imported into the United States subject to deceptive labels or other practices designed to conceal the use of dog or cat fur in the production of wearing apparel, toys, and other products.
 
-&emsp;“(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce.The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
+&emsp;“(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce. The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
 
 &emsp;“(6) The methods of housing, transporting, and slaughtering dogs and cats for fur production are generally unregulated and inhumane.
 

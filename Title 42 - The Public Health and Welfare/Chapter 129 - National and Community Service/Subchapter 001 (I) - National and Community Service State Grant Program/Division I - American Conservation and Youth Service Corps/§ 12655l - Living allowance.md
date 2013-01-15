@@ -38,7 +38,7 @@
 
 #### (c) Health insurance
 
-In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youthcorps program who does not otherwise have access to health insurance.
+In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
 
 #### (d) Facilities, services, and supplies
 
@@ -62,7 +62,7 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 #### (B) Secretary of Defense
 
-&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
+&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the worksite, including the provision of temporary tent centers where needed, and other supplies and equipment.
 
 #### (5) Health and safety standards
 

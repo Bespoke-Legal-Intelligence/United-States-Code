@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan, that providesmedical and surgical benefits with respect to a mastectomy shall provide, in a case of a participant or beneficiary who is receiving benefits in connection with a mastectomy and who elects breast reconstruction in connection with such mastectomy, coverage for—
+A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan, that provides medical and surgical benefits with respect to a mastectomy shall provide, in a case of a participant or beneficiary who is receiving benefits in connection with a mastectomy and who elects breast reconstruction in connection with such mastectomy, coverage for—
 
 &emsp;(1) all stages of reconstruction of the breast on which the mastectomy has been performed;
 

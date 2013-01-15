@@ -21,5 +21,5 @@
 - [&sect; 41744 - Preservation of basic essential air service at single carrier dominated hub airports](%C2%A7%2041744%20-%20Preservation%20of%20basic%20essential%20air%20service%20at%20single%20carrier%20dominated%20hub%20airports.md)
 - [&sect; 41745 - Community and regional choice programs](%C2%A7%2041745%20-%20Community%20and%20regional%20choice%20programs.md)
 - [&sect; 41746 - Tracking service](%C2%A7%2041746%20-%20Tracking%20service.md)
-- [&sect; 41747 - EAS local participation program](%C2%A7%2041747%20-%20EAS%20local%20participation%20program.md)
+- [&sect; 41747 - Repealed. Pub. L. 112&#8211;95, title IV, &sect;430, Feb. 14, 2012, 126 Stat. 100](%C2%A7%2041747%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9395%2C%20title%20IV%2C%20%C2%A7430%2C%20Feb.%2014%2C%202012%2C%20126%20Stat.%20100.md)
 - [&sect; 41748 - Marketing program](%C2%A7%2041748%20-%20Marketing%20program.md)

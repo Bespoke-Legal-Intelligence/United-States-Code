@@ -74,7 +74,7 @@ The Council shall advise the Chairperson with respect to policies, programs, and
 
 &emsp;(2) the amount of financial assistance the Chairperson should provide with respect to each such application the Council recommends for approval.
 
-> The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council onsuch application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
+> The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
 
 (Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968; Pub. L. 105–83, title III, §346(e), (f), Nov. 14, 1997, 111 Stat. 1605, 1606; Pub. L. 105–119, title VI, §624, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 105–277, div. A, §101(e) \[title III, §330\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 111–88, div. A, title IV, §417, Oct. 30, 2009, 123 Stat. 2959.)
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 
 #### Effective Date of 1970 Amendment
 
-Section 5(d)(3)(A) of Pub. L. 91–346 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 954, 959, and 960 of this title\] shall be effective after June 30, 1970.”
+Pub. L. 91–346, §5(d)(3)(A), July 20, 1970, 84 Stat. 445, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 954, 959, and 960 of this title\] shall be effective after June 30, 1970.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -148,7 +148,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Council as Established Under the National Arts and Cultural Development Act of 1964
 
-Section 5(d)(1) of Pub. L. 91–346 provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment for the Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88–579 \[former section 781 et seq. of this title\], without interruption.”
+Pub. L. 91–346, §5(d)(1), July 20, 1970, 84 Stat. 445, provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment for the Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88–579 \[former section 781 et seq. of this title\], without interruption.”
 
 #### Appointees to Council Under National Arts and Cultural Development Act of 1964
 
@@ -156,7 +156,7 @@ Deemed Appointed Under 1965
 
 Act
 
-Section 5(d)(2) of Pub. L. 91–346 provided that: “Members appointed to the National Council on the Arts pursuant to section 5 of the National Arts and Cultural Development Act of 1964 \[section 784 of this title\] shall be deemed to have been appointed as members of the National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], with such terms of office as may be remaining under the prior appointment on the effective date of the amendments made by subsection (b) \[July 1, 1970\].”
+Pub. L. 91–346, §5(d)(2), July 20, 1970, 84 Stat. 445, provided that: “Members appointed to the National Council on the Arts pursuant to section 5 of the National Arts and Cultural Development Act of 1964 \[section 784 of this title\] shall be deemed to have been appointed as members of the National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], with such terms of office as may be remaining under the prior appointment on the effective date of the amendments made by subsection (b) \[July 1, 1970\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Senators”.</i>
 

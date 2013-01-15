@@ -60,11 +60,11 @@ Subsecs. (f), (g). Pub. L. 109–435, §602, added subsecs. (f) and (g).
 
 Subsec. (h). Pub. L. 109–435, §605(b), added subsec. (h).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–421 increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment of personnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
+<b>1976</b>—Subsec. (a). Pub. L. 94–421 increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment ofpersonnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
 
 Subsec. (b). Pub. L. 94–421 added subsec. (b). Former subsec. (b) redesignated (c) and amended.
 
-Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferred authority to obtain facilities andsupplies from the Commission to the chairman, and struck out the authority of the Commission to appoint and fix compensation of officers and employees and requiring them to be responsible to the Commissioners. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferred authority to obtain facilities and supplies from the Commission to the chairman, and struck out the authority of the Commission to appoint and fix compensation of officers and employees and requiring them to be responsible to the Commissioners. Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (d), as so redesignated, made minor changes in phraseology.
 

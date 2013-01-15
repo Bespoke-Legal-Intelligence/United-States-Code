@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If, in connection with any collection of Federal tax with respect to a taxpayer, any officeror employee of the Internal Revenue Service recklessly or intentionally, or by reason of negligence, disregards any provision of this title, or any regulation promulgated under this title, such taxpayer may bring a civil action for damages against the United States in a district court of the United States. Except as provided in section 7432, such civil action shall be the exclusive remedy for recovering damages resulting from such actions.
+If, in connection with any collection of Federal tax with respect to a taxpayer, any officer or employee of the Internal Revenue Service recklessly or intentionally, or by reason of negligence, disregards any provision of this title, or any regulation promulgated under this title, such taxpayer may bring a civil action for damages against the United States in a district court of the United States. Except as provided in section 7432, such civil action shall be the exclusive remedy for recovering damages resulting from such actions.
 
 #### (b) Damages
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 105–206 applicable to actions of officers or employees of
 
 #### Effective Date of 1996 Amendment
 
-Section 801(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VIII, §801(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[July 30, 1996\].”
 
-Section 802(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title VIII, §802(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 

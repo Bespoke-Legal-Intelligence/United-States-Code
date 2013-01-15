@@ -14,7 +14,7 @@ During any natural gas supply emergency declared under section 3361 of this titl
 
 #### (b) Contract duration
 
-The duration of any contract authorized under subsection (a) of this section may not exceed 4months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) of this section a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
+The duration of any contract authorized under subsection (a) of this section may not exceed 4 months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) of this section a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
 
 #### (c) Related transportation and facilities
 
@@ -32,5 +32,5 @@ No sale under any emergency purchase contract under this section for emergency s
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended,which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
 

@@ -8,7 +8,7 @@ In General.—For purposes of this title, the term “micro entity” means an a
 
 &emsp;(2) has not been named as an inventor on more than 4 previously filed patent applications, other than applications filed in another country, provisional applications under section 111(b), or international applications filed under the treaty defined in section 351(a) for which the basic national fee under section 41(a) was not paid;
 
-&emsp;(3) did not, in the calendar year preceding the calendar year in which the applicable fee is being paid, have a gross income, as definedin section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census; and
+&emsp;(3) did not, in the calendar year preceding the calendar year in which the applicable fee is being paid, have a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census; and
 
 &emsp;(4) has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the application concerned to an entity that, in the calendar year preceding the calendar year in which the applicable fee is being paid, had a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census.
 
@@ -32,11 +32,7 @@ Institutions of Higher Education.—For purposes of this section, a micro entity
 
 Director's Authority.—In addition to the limits imposed by this section, the Director may, in the Director's discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 
-(Added and amended Pub. L. 112–29, §§10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
+(Added and amended Pub. L. 112–29, §§10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, §1(m), Jan. 14, 2013, 126 Stat. 2459.)
 
 #### References in Text
 
@@ -44,11 +40,17 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out “of this title” after “purposes” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 112–274 inserted “of this title” after “For purposes” in introductory provisions.
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out “of this title” after “For purposes” in introductory provisions.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date
 

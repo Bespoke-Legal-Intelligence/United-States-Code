@@ -64,5 +64,5 @@ In subsection (c), the words “and commissioned” are omitted as covered by th
 
 #### Philippine Scouts
 
-Section 42 of act Aug. 10, 1956, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
+Act Aug. 10, 1956, ch. 1041, §42, 70A Stat. 636, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
 

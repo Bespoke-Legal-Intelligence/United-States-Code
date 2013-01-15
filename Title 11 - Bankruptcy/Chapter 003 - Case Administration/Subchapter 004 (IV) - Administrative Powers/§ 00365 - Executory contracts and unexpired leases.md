@@ -34,7 +34,7 @@
 
 (c) The trustee may not assume or assign any executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
 
-&emsp;(1)(A) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to an entity other than the debtor or the debtor in possession, whether or not suchcontract or lease prohibits or restricts assignment of rights or delegation of duties; and
+&emsp;(1)(A) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to an entity other than the debtor or the debtor in possession, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
 
 &emsp;(B) such party does not consent to such assumption or assignment; or
 
@@ -84,7 +84,7 @@
 
 &emsp;(B) adequate assurance of future performance by the assignee of such contract or lease is provided, whether or not there has been a default in such contract or lease.
 
-(3) Notwithstanding a provision in an executory contract or unexpired lease of the debtor,or in applicable law that terminates or modifies, or permits a party other than the debtor to terminate or modify, such contract or lease or a right or obligation under such contract or lease on account of an assignment of such contract or lease, such contract, lease, right, or obligation may not be terminated or modified under such provision because of the assumption or assignment of such contract or lease by the trustee.
+(3) Notwithstanding a provision in an executory contract or unexpired lease of the debtor, or in applicable law that terminates or modifies, or permits a party other than the debtor to terminate or modify, such contract or lease or a right or obligation under such contract or lease on account of an assignment of such contract or lease, such contract, lease, right, or obligation may not be terminated or modified under such provision because of the assumption or assignment of such contract or lease by the trustee.
 
 (g) Except as provided in subsections (h)(2) and (i)(2) of this section, the rejection of an executory contract or unexpired lease of the debtor constitutes a breach of such contract or lease—
 
@@ -132,7 +132,7 @@
 
 (k) Assignment by the trustee to an entity of a contract or lease assumed under this section relieves the trustee and the estate from any liability for any breach of such contract or lease occurring after such assignment.
 
-(<i>l</i>) If an unexpired lease under which the debtor is the lessee is assigned pursuant to this section, the lessor of the property may require a deposit or other security for the performance of the debtor's obligations under the lease substantially the same as would have been required by the landlord upon the initial leasing to a similar tenant.
+(l) If an unexpired lease under which the debtor is the lessee is assigned pursuant to this section, the lessor of the property may require a deposit or other security for the performance of the debtor's obligations under the lease substantially the same as would have been required by the landlord upon the initial leasing to a similar tenant.
 
 (m) For purposes of this section 365 and sections 541(b)(2) and 362(b)(10), leases of real property shall include any rental agreement to use real property.
 
@@ -174,7 +174,7 @@
 
 &emsp;(B) not interfere with the rights of the licensee as provided in such contract, or any agreement supplementary to such contract, to such intellectual property (including such embodiment), including any right to obtain such intellectual property (or such embodiment) from another entity.
 
-(<i>o</i>) In a case under chapter 11 of this title, the trustee shall be deemed to have assumed (consistent with the debtor's other obligations under section 507), and shall immediately cure any deficit under, any commitment by the debtor to a Federal depository institutions regulatory agency (or predecessor to such agency) to maintain the capital of an insured depository institution, and any claim for a subsequent breach of the obligations thereunder shall be entitled to priority under section 507. This subsection shall not extend any commitment that would otherwise be terminated by any act of such an agency.
+(o) In a case under chapter 11 of this title, the trustee shall be deemed to have assumed (consistent with the debtor's other obligations under section 507), and shall immediately cure any deficit under, any commitment by the debtor to a Federal depository institutions regulatory agency (or predecessor to such agency) to maintain the capital of an insured depository institution, and any claim for a subsequent breach of the obligations thereunder shall be entitled to priority under section 507. This subsection shall not extend any commitment that would otherwise be terminated by any act of such an agency.
 
 (p)(1) If a lease of personal property is rejected or not timely assumed by the trustee under subsection (d), the leased property is no longer property of the estate and the stay under section 362(a) is automatically terminated.
 
@@ -184,7 +184,7 @@
 
 (C) The stay under section 362 and the injunction under section 524(a)(2) shall not be violated by notification of the debtor and negotiation of cure under this subsection.
 
-(3) In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect topersonal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
+(3) In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect to personal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377; Pub. L. 109–8, title III, §§309(b), 328(a), title IV, §404, Apr. 20, 2005, 119 Stat. 82, 100, 104.)
 
@@ -226,7 +226,7 @@ Subsection (d) places time limits on assumption and rejection. In a liquidation 
 
 Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, protected under present law, automatically terminate the contract or lease, or permit the other contracting party to terminate the contract or lease, in the event of bankruptcy. This frequently hampers rehabilitation efforts. If the trustee may assume or assign the contract under the limitations imposed by the remainder of the section, the contract or lease may be utilized to assist in the debtor's rehabilitation or liquidation.
 
-The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require thecourts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the court will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
+The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the court will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
 
 This subsection does not limit the application of an ipso facto or bankruptcy clause if a new insolvency or receivership occurs after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purposes of disposition of the executory contract or unexpired lease.
 
@@ -258,7 +258,7 @@ This subsection does not limit the application of an ipso facto or bankruptcy cl
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §328(a)(1)(A), inserted before semicolon at end “other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from any failure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at andafter the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph”.
+<b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §328(a)(1)(A), inserted before semicolon at end “other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from anyfailure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at and after the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph”.
 
 Subsec. (b)(2)(D). Pub. L. 109–8, §328(a)(1)(B), substituted “penalty rate or penalty provision” for “penalty rate or provision”.
 
@@ -292,7 +292,7 @@ Subsec. (h). Pub. L. 103–394, §205(a), amended subsec. (h) generally. Prior t
 
 Subsec. (n)(1)(B). Pub. L. 103–394, §501(d)(10)(C), substituted “a right to” for “a right to to”.
 
-Subsec. (<i>o</i>). Pub. L. 103–394, §501(d)(10)(D), substituted “a Federal depository institutions regulatory agency (or predecessor to such agency)” for “the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Director of the Office of Thrift Supervision, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System, or its predecessors or successors,”.
+Subsec. (o). Pub. L. 103–394, §501(d)(10)(D), substituted “a Federal depository institutions regulatory agency (or predecessor to such agency)” for “the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Director of the Office of Thrift Supervision, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System, or its predecessors or successors,”.
 
 Subsec. (p). Pub. L. 103–429, §1(2), which directed the amendment of subsec. (p) by substituting “section 40102(a) of title 49” for “section 101(3) of the Federal Aviation Act of 1958”, could not be executed because subsec. (p) was repealed by Pub. L. 103–394, §501(d)(10)(E). See below.
 
@@ -310,7 +310,7 @@ Subsec. (f)(1). Pub. L. 102–365, §19(d), substituted for period at end “; 
 
 Subsec. (p). Pub. L. 102–365, §19(e), added subsec. (p).
 
-<b>1990</b>—Subsec. (<i>o</i>). Pub. L. 101–647 added subsec. (<i>o</i>).
+<b>1990</b>—Subsec. (o). Pub. L. 101–647 added subsec. (o).
 
 <b>1988</b>—Subsec. (n). Pub. L. 100–506 added subsec. (n).
 
@@ -328,7 +328,7 @@ Subsec. (m). Pub. L. 99–554, §283(e)(3), substituted “362(b)(10)” for “
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §362(a), amended subsec. (a) generally, making minor changes.
 
-Subsec. (b). Pub. L. 98–353, §362(a), amended subsec. (b) generally, inserting in par. (3) reference to par. (2)(B) of subsec. (f) of this section, in par. (3)(A) inserting provisions relating to financial condition and operating performance in the case of an assignment, and in par. (3)(C) substituting “that assumption or assignment of such lease is subject to all the provisions thereof, including (but not limited to) provisions such as a radius, location, use, or exclusivity provision, and will not breach any such provision contained in any other lease,financing agreement, or master agreement relating to such shopping center” for “that assumption or assignment of such lease will not breach substantially any provision, such as a radius, location, use, or exclusivity provision, in any other lease, financing agreement, or master agreement relating to such shopping center”.
+Subsec. (b). Pub. L. 98–353, §362(a), amended subsec. (b) generally, inserting in par. (3) reference to par.\(2)(B) of subsec. (f) of this section, in par. (3)(A) inserting provisions relating to financial condition and operating performance in the case of an assignment, and in par. (3)(C) substituting “that assumption or assignment of such lease is subject to all the provisions thereof, including (but not limited to) provisions such as a radius, location, use, or exclusivity provision, and will not breach any such provision contained in any other lease, financing agreement, or master agreement relating to such shopping center” for “that assumption or assignment of such lease will not breach substantially any provision, such as a radius, location, use, or exclusivity provision, in any other lease, financing agreement, or master agreement relating to such shopping center”.
 
 Subsec. (c). Pub. L. 98–353, §362(a), amended subsec. (c) generally, substituting in par. (1)(A) “applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to an entity other than the debtor or the debtor in possession or an assignee of such contract or lease, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties” for “applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or an assignee of such contract or lease, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties” and adding par. (3).
 
@@ -340,7 +340,7 @@ Subsec. (h)(2). Pub. L. 98–353, §403, amended par. (2) generally. Prior to am
 
 Subsec. (i)(1). Pub. L. 98–353, §404, amended par. (1) generally, inserting provisions relating to timeshare interests under timeshare plans.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 98–353, §362(b), added subsecs. (<i>l</i>) and (m).
+Subsecs. (l), (m). Pub. L. 98–353, §362(b), added subsecs. (l) and (m).
 
 #### Effective Date of 2005 Amendment
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1992 Amendment
 
-Section 19(f) of Pub. L. 102–365 provided that: “The amendments made by this section \[amending this section\] shall be in effect for the 12-month period that begins on the date of enactment of this Act \[Sept. 3, 1992\] and shall apply in all proceedings involving an affected air carrier (as defined in section 365(p) of title 11, United States Code, as amended by this section) that are pending during such 12-month period. Not later than 9 months after the date of enactment, the Administrator of the Federal Aviation Administration shall report to the Committee on Commerce, Science, and Transportation and Committee on the Judiciary of the Senate and the Committee on the Judiciary and Committee on Public Works and Transportation of the House of Representatives on whether this section shall apply to proceedings that are commenced after such 12-month period.”
+Pub. L. 102–365, §19(f), Sept. 2, 1992, 106 Stat. 984, provided that: “The amendments made by this section \[amending this section\] shall be in effect for the 12-month period that begins on the date of enactment of this Act \[Sept. 3, 1992\] and shall apply in all proceedings involving an affected air carrier (as defined in section 365(p) of title 11, United States Code, as amended by this section) that are pending during such 12-month period. Not later than 9 months after the date of enactment, the Administrator of the Federal Aviation Administration shall report to the Committee on Commerce, Science, and Transportation and Committee on the Judiciary of the Senate and the Committee on the Judiciary and Committee on Public Works and Transportation of the House of Representatives on whether this section shall apply to proceedings that are commenced after such 12-month period.”
 
 #### Effective Date of 1988 Amendment
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Airport Leases
 
-Section 19(a) of Pub. L. 102–365 provided that: “Congress finds that—
+Pub. L. 102–365, §19(a), Sept. 2, 1992, 106 Stat. 982, provided that: “Congress finds that—
 
 &emsp;“(1) there are major airports served by an air carrier that has leased a substantial majority of the airport's gates;
 

@@ -18,7 +18,7 @@
 
 &emsp;(1) “racketeering activity” has the meaning set forth in section 1961 of this title; and
 
-&emsp;(2) “enterprise” includes any partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity, which is engaged in, or the activities of which affect, interstate or foreign commerce.
+&emsp;(2) “enterprise” includes any partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity, whichis engaged in, or the activities of which affect, interstate or foreign commerce.
 
 (Added Pub. L. 98–473, title II, §1002(a), Oct. 12, 1984, 98 Stat. 2137, §1952B; renumbered §1959, Pub. L. 100–690, title VII, §7053(b), Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title VI, §60003(a)(12), title XXXIII, §§330016(1)(J), (2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 1969, 2147, 2148, 2150.)
 

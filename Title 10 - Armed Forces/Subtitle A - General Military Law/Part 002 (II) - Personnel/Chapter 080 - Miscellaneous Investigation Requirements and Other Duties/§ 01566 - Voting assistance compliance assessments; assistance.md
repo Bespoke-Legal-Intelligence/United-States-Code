@@ -20,7 +20,7 @@ Annual Effectiveness and Compliance Reviews.—(1) The Inspector General of each
 
 &emsp;(B) an annual review of the compliance with voting assistance programs of that armed force.
 
-(2) Upon the completion of each annual review under paragraph (1), each Inspector Generalspecified in that paragraph shall submit to the Inspector General of the Department of Defense a report on the results of each such review. Such report shall be submitted in time each year to be reflected in the report of the Inspector General of the Department of Defense under paragraph (3).
+(2) Upon the completion of each annual review under paragraph (1), each Inspector General specified in that paragraph shall submit to the Inspector General of the Department of Defense a report on the results of each such review. Such report shall be submitted in time each year to be reflected in the report of the Inspector General of the Department of Defense under paragraph (3).
 
 (3) Not later than March 31 each year, the Inspector General of the Department of Defense shall submit to Congress a report on—
 
@@ -36,7 +36,7 @@ Regular Military Department Assessments.—The Secretary of each military depart
 
 (f)
 
-Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
+Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertainingto a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
 (2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
@@ -64,7 +64,7 @@ Registration and Voting Information for Members and Dependents.—(1) The Secret
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended,which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
 
 #### Amendments
 

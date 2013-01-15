@@ -4,7 +4,7 @@
 
 (2) The pay of physicians and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
 
-(3)(A) The rate of basic pay for a position to which an Executive order applies under paragraph (1) and is not described by paragraph (2) shall be set in accordance with section 5382 of title 5 as if such position were a Senior Executive Service position (as such term is defined in section 3132(a) of title 5).
+(3)(A) The rate of basic pay for a position to which an Executive order applies under paragraph (1) and is not described by paragraph (2)shall be set in accordance with section 5382 of title 5 as if such position were a Senior Executive Service position (as such term is defined in section 3132(a) of title 5).
 
 (B) A rate of basic pay for a position may not be set under subparagraph (A) in excess of—
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 #### Effective Date of 1992 Amendment
 
-Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
+Pub. L. 102–585, title III, §308, Nov. 4, 1992, 106 Stat. 4953, provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
 #### Adjustment of Pay Rates
 

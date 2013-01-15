@@ -108,7 +108,7 @@ Pub. L. 108–357, title VII, §705(b), Oct. 22, 2004, 118 Stat. 1549, provided 
 
 #### Effective Date of 1988 Amendment
 
-Section 1010(j)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 100–647, title I, §1010(j)(2), Nov. 10, 1988, 102 Stat. 3456, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1986 Amendment
 
@@ -122,7 +122,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Operations Loss Deduction of Insolvent Companies May Offset Distributions From Policyholders Surplus Account
 
-Section 1013 of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title X, §1013, Oct. 22, 1986, 100 Stat. 2395, provided that:
 
 “(a)
 
@@ -158,5 +158,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Amount of Indirect Distribution for Loans Before March 1, 1986; Determination; Exception
 
-Section 1821(k)(3) of Pub. L. 99–514 provided that: “In the case of any loan made before March 1, 1986 (other than a loan which is renegotiated, extended, renewed, or revised after February 28, 1986), which does not meet the requirements of the last sentence of section 815(a) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)), the amount of the indirect distribution for purposes of such section 815(a) shall be the foregone interest on the loan (determined by using the lowest rate which would have met the arms-length requirements of such sentence for such a loan).”
+Pub. L. 99–514, title XVIII, §1821(k)(3), Oct. 22, 1986, 100 Stat. 2841, provided that: “In the case of any loan made before March 1, 1986 (other than a loan which is renegotiated, extended, renewed, or revised after February 28, 1986), which does not meet the requirements of the last sentence of section 815(a) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)), the amount of the indirect distribution for purposes of such section 815(a) shall be the foregone interest on the loan (determined by using the lowest rate which would have met the arms-length requirements of such sentence for such a loan).”
 

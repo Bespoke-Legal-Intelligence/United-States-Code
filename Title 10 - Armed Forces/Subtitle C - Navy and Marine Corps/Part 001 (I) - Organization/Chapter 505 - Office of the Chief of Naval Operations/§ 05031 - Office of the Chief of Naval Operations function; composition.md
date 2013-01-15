@@ -28,5 +28,5 @@
 
 #### Prior Provisions
 
-A prior section 5031, acts Aug. 10, 1956, ch. 1041, 70A Stat. 278; Sept. 2, 1958, Pub. L. 85–861, §1(107), 72 Stat. 1490; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(4), 306(j)(3), 78 Stat. 422, 431; Oct. 14, 1981, Pub. L. 97–60, title II, §204(a)(1), 95 Stat. 1007, related to Secretary of the Navy and responsibilities of Secretary, prior to repeal by Pub. L. 99–433, §511(e). See section 5013 of this title.
+A prior section 5031, acts Aug. 10, 1956, ch. 1041, 70A Stat. 278; Sept. 2, 1958, Pub. L. 85–861, §1(107), 72 Stat. 1490; Sept. 7, 1962, Pub. L. 87–651, title II, §211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(4), 306(j)(3), 78 Stat. 422, 431; Oct. 14, 1981, Pub. L. 97–60,title II, §204(a)(1), 95 Stat. 1007, related to Secretary of the Navy and responsibilities of Secretary, prior to repeal by Pub. L. 99–433, §511(e). See section 5013 of this title.
 

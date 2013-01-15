@@ -32,7 +32,7 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section 116 of title I of Pub. L. 104–193, as amended by Pub. L. 104–327, §1(a), (c), Oct. 19, 1996, 110 Stat. 4002, 4003; Pub. L. 105–33, title V, §§5516(b), 5517, Aug. 5, 1997, 111 Stat. 620, 621, provided that:
+Pub. L. 104–193, title I, §116, Aug. 22, 1996, 110 Stat. 2181, as amended by Pub. L. 104–327, §1(a), (c), Oct. 19, 1996, 110 Stat. 4002, 4003; Pub. L. 105–33, title V, §§5516(b), 5517, Aug. 5, 1997, 111 Stat. 620, 621, provided that:
 
 “(a)
 
@@ -60,7 +60,7 @@ Elimination of child care programs.—The amendments made by section 103(c) \[am
 
 &emsp;“(5)
 
-Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 403(a)(1)(D), and419(4) of the Social Security Act \[sections 603(a)(1)(C), (D) and 619(4) of this title\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
+Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 403(a)(1)(D), and 419(4) of the Social Security Act \[sections 603(a)(1)(C), (D) and 619(4) of this title\], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996.
 
 &emsp;“(6)
 
@@ -114,7 +114,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &emsp;&emsp;&emsp;“(iii)
 
-Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term ‘obligations of the Federal Government to the State under part A of title IV of the Social Security Act’ does not include any obligation of the Federal Government with respect to child care expenditures by the State.
+Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term ‘obligations of the Federal Government to the State under part A of title IV of the Social Security Act’ does not include any obligation of the Federal Governmentwith respect to child care expenditures by the State.
 
 &emsp;&emsp;“(C)
 
@@ -174,7 +174,7 @@ Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no i
 
 #### Congressional Findings
 
-Section 101 of Pub. L. 104–193 provided that: “The Congress makes the following findings:
+Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) Marriage is the foundation of a successful society.
 
@@ -264,7 +264,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 #### Appropriation by State Legislatures
 
-Section 901 of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title IX, §901, Aug. 22, 1996, 110 Stat. 2347, provided that:
 
 “(a)
 

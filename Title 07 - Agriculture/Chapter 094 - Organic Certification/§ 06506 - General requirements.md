@@ -10,7 +10,11 @@ A program established under this chapter shall—
 
 &emsp;&emsp;(B) be produced and handled in accordance with such program;
 
-&emsp;(2) require that producers and handlers desiring to participate under such program establish an organic plan under section 6513 of this tit organic farm or each certified organic handling operation to certify to the Secretary, the governing State official (if applicable), and the certifying agent on an annual basis, that such farm or handler has not produced or handled any agricultural product sold or labeled as organically produced except in accordance with this chapter;
+&emsp;(2) require that producers and handlers desiring to participate under such program establish an organic plan under section 6513 of this title;
+
+&emsp;(3) provide for procedures that allow producers and handlers to appeal an adverse administrative determination under this chapter;
+
+&emsp;(4) require each certified organic farm or each certified organic handling operation to certify to the Secretary, the governing State official (if applicable), and the certifying agent on an annual basis, that such farm or handler has not produced or handled any agricultural product sold or labeled as organically produced except in accordance with this chapter;
 
 &emsp;(5) provide for annual on-site inspection by the certifying agent of each farm and handling operation that has been certified under this chapter;
 

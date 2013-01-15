@@ -88,7 +88,7 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 &emsp;“(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
 
-&emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, ofat least one thousand phonorecords or copies infringing the copyright in one or more sound recordings;
+&emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least one thousand phonorecords or copies infringing the copyright in one or more sound recordings;
 
 &emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; or
 

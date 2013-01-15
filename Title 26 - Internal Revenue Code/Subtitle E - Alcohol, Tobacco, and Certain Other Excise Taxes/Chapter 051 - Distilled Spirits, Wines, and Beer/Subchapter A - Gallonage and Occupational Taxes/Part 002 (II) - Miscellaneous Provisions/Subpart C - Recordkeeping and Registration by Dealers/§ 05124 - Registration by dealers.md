@@ -14,5 +14,5 @@ A prior section 5125, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72
 
 #### Effective Date
 
-Section effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section11125(c) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 5002 of this title.
+Section effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 5002 of this title.
 

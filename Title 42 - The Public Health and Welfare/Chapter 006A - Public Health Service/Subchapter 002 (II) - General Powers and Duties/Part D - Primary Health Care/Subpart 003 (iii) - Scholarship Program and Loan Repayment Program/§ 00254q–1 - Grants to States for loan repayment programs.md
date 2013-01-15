@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and ServicesAdministration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -36,7 +36,7 @@
 
 #### (3) Limitation regarding contract inducements
 
-&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254<i>l</i>–1 of this title, including terms regarding—
+&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254l–1 of this title, including terms regarding—
 
 &emsp;&emsp;(i) the annual amount of payments provided on behalf of the professionals regarding educational loans; and
 
@@ -44,9 +44,9 @@
 
 &emsp;(B) With respect to the limitation established in subparagraph (A) regarding the annual amount of payments that may be provided to a health professional under a contract provided by a State pursuant to subsection (a)(2) of this section, such limitation shall not apply with respect to a contract if—
 
-&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254<i>l</i>–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
+&emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254l–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
 
-&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
+&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
 
 #### (d) Restrictions on use of funds
 
@@ -78,7 +78,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+&emsp;The Secretary may not make payments under subsection (a) of this section to a Statefor any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (2) Reduction in grant relative to number of breached contracts
 
@@ -130,7 +130,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b etseq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 
@@ -146,7 +146,7 @@ Subsec. (i)(1). Pub. L. 110–355, §3(e)(2), substituted “2008, and such sums
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
 
-Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and”.
+Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254l–1 of this title provide regarding the Loan Repayment Program under such section; and”.
 
 Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 

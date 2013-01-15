@@ -32,7 +32,7 @@
 
 #### (d) Covered tort cases
 
-A tort case specified in this subsection is a tort case alleging a claim referred to in section7385b of this title against a beryllium vendor or atomic weapons employer.
+A tort case specified in this subsection is a tort case alleging a claim referred to in section 7385b of this title against a beryllium vendor or atomic weapons employer.
 
 #### (e) Workers’ compensation
 

@@ -34,7 +34,7 @@
 
 #### (H) Western Pacific Council
 
-&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
+&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordancewith subsection (b)(2) of this section (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
 
 (2) Each Council shall reflect the expertise and interest of the several constituent States in the ocean area over which such Council is granted authority.
 
@@ -132,7 +132,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (4) If any voting member of a Council disagrees with respect to any matter which is transmitted to the Secretary by such Council, such member may submit a statement to the Secretary setting forth the reasons for such disagreement. The regional director of the National Marine Fisheries Service serving on the Council, or the regional director's designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.
 
-(5) At the request of any voting member of a Council, the Council shall hold a roll call vote on any matter before the Council. The official minutes and other appropriate records of any Council meeting shall identify all roll call votes held, the name of each voting member present during each roll call vote, and how each member voted on each roll call vote.
+(5) At the request of any voting member of a Council, the Council shall hold a roll call vote on any matter before the Council. The officialminutes and other appropriate records of any Council meeting shall identify all roll call votes held, the name of each voting member present during each roll call vote, and how each member voted on each roll call vote.
 
 #### (f) Staff and administration
 
@@ -184,7 +184,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) of this section applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; and consist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
 
-&emsp;(A) members of advisory committees and species working groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species; and
+&emsp;(A) members of advisory committees and species working groups appointed under Actsimplementing relevant international fishery agreements pertaining to highly migratory species; and
 
 &emsp;(B) other interested persons.
 
@@ -218,9 +218,9 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 #### (i) Procedural matters
 
-(1) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Councils, the Council coordination committee established under subsection (<i>l</i>), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
+(1) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
 
-(2) The following guidelines apply with respect to the conduct of business at meetings of a Council, of the Council coordination committee established under subsection (<i>l</i>), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):
+(2) The following guidelines apply with respect to the conduct of business at meetings of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):
 
 &emsp;(A) Unless closed in accordance with paragraph (3), each regular meeting and each emergency meeting shall be open to the public.
 
@@ -234,7 +234,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(F) Subject to the procedures established under paragraph (4), and the guidelines prescribed by the Secretary under section 1881a(b) of this title, relating to confidentiality, the administrative record, including minutes required under subparagraph (E), of each meeting, and records or other documents which were made available to or prepared for or by the Council, committee, or panel incident to the meeting, shall be available for public inspection and copying at a single location in the offices of the Council or the Secretary, as appropriate.
 
-(3)(A) Each Council, the Council Coordination Committee established under subsection (<i>l</i>), scientific, and statistical committee, other committees, and advisory panel—
+(3)(A) Each Council, the Council Coordination Committee established under subsection (l), scientific, and statistical committee, other committees, and advisory panel—
 
 &emsp;(i) shall close any meeting, or portion thereof, that concerns matters or information that bears a national security classification; and
 
@@ -248,7 +248,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
-(6) At any time when a Council determines it appropriate to consider new information from aState or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
+(6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
 #### (j) Disclosure of financial interest and recusal
 
@@ -342,15 +342,15 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;Council members appointed after January 12, 2007, shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 months before January 12, 2007, shall be considered to have met the training requirement of this paragraph.
 
-#### (<i>l</i>) Council coordination committee
+#### (l) Council coordination committee
 
 The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L.104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (<i>l</i>), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) \[title V, §515\] of Pub. L. 106–554, which is set out as a note under section 3516 of Title 44, Public Printing and Documents.
 
@@ -384,13 +384,13 @@ Pub. L. 109–479, §103(c)(2), redesignated par. (6) as (7).
 
 Subsec. (h)(8). Pub. L. 109–479, §103(d)(2), redesignated par. (7) as (8).
 
-Subsec. (i)(1). Pub. L. 109–479, §103(h)(1), substituted “to the Councils, the Council coordination committee established under subsection (<i>l</i>), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
+Subsec. (i)(1). Pub. L. 109–479, §103(h)(1), substituted “to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
 
-Subsec. (i)(2). Pub. L. 109–479, §103(h)(2), in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (<i>l</i>), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
+Subsec. (i)(2). Pub. L. 109–479, §103(h)(2), in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
 
 Subsec. (i)(2)(C). Pub. L. 109–479, §103(e), substituted “provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient.” for “published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity.”
 
-Subsec. (i)(3)(A). Pub. L. 109–479, §103(h)(3), (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (<i>l</i>),” after “Council,” and “other committees,” after “committee,”.
+Subsec. (i)(3)(A). Pub. L. 109–479, §103(h)(3), (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (l),” after “Council,” and “other committees,” after “committee,”.
 
 Subsec. (i)(3)(B). Pub. L. 109–479, §103(f), which directed substitution of “provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient,” for “notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports,”, was executed by making the substitution for text which ended with “ports),” to reflect the probable intent of Congress.
 
@@ -400,7 +400,7 @@ Subsec. (j)(5)(B). Pub. L. 109–479, §103(i)(3), added subpar. (B) and struck 
 
 Subsec. (j)(9). Pub. L. 109–479, §103(i)(4), added par. (9).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 109–479, §103(g), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 109–479, §103(g), added subsecs. (k) and (l).
 
 <b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113 substituted “18” for “17” and “12” for “11”.
 
@@ -448,7 +448,7 @@ Subsec. (i)(1). Pub. L. 104–297, §107(h)(1), substituted “established under
 
 Subsec. (i)(2). Pub. L. 104–297, §107(h)(2), substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
 
-Subsec. (i)(2)(C). Pub. L. 104–297, §107(h)(3), (4), struck out “Council's” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification isto address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
+Subsec. (i)(2)(C). Pub. L. 104–297, §107(h)(3), (4), struck out “Council's” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
 
 Subsec. (i)(2)(D). Pub. L. 104–297, §107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
 
@@ -492,7 +492,7 @@ Subsec. (b)(2). Pub. L. 101–627, §108(b), amended par. (2) generally. Prior t
 
 “(A) The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable and experienced with regard to the conservation and management, or the recreational or commercial harvest, of the fishery resources of the geographical area concerned. The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair apportionment, on a rotating or other basis, of the active participants (or their representatives) involved in the fisheries under Council jurisdiction.
 
-“(B) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy. The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of the required knowledge and experience required by subparagraph (A). If the Secretary determines that any individual is not qualified, he shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) of this section.
+“(B) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals. Each such list shall include the names and pertinent biographicaldata of not less than three individuals for each applicable vacancy. The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of the required knowledge and experience required by subparagraph (A). If the Secretary determines that any individual is not qualified, he shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) of this section.
 
 “(C) Whenever the Secretary makes an appointment to a Council, he shall make a public announcement of such appointment not less than 45 days before the first day on which the individual is to take office as a member of the Council.”
 
@@ -538,7 +538,7 @@ Subsec. (k). Pub. L. 99–659, §104(e)(1), added subsec. (k).
 
 Subsec. (a)(8). Pub. L. 97–453, §5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
 
-Subsec. (b)(1)(C). Pub. L. 97–453, §5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
+Subsec. (b)(1)(C). Pub. L. 97–453, §5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submitsuch lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
 
 Subsec. (b)(2) to (5). Pub. L. 97–453, §5(2)(B)–(E), added pars. (2) and (5), redesignated existing pars. (2) and (3) as (3) and (4), respectively, and in par. (3), as redesignated, substituted “by the Secretary in accordance with subsection (b)(2) of this section” for “pursuant to paragraph (1)(C)” after “appointed to a Council”.
 
@@ -564,7 +564,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Effective Date of 1986 Amendment
 
-Section 104(a)(2) of Pub. L. 99–659 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to voting members of regional fishery management councils who are appointed, and to individuals who are nominated for appointment as voting members, on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–659, title I, §104(a)(2), Nov. 14, 1986, 100 Stat. 3709, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to voting members of regional fishery management councils who are appointed, and to individuals who are nominated for appointment as voting members, on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Transfer of Functions
 
@@ -572,15 +572,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) ofPub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors
 
-Section 104(e)(2) of Pub. L. 99–659 provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
+Pub. L. 99–659, title I, §104(e)(2), Nov. 14, 1986, 100 Stat. 3711, provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
 
 #### Directions Regarding Fishery Management Council Membership
 
-Section 113 of Pub. L. 99–659 provided that: “Notwithstanding section 302 of the Act (16 U.S.C. 1852) and effective on and after the date of the enactment of this Act \[Nov. 14, 1986\], the Secretary shall take action to ensure, to the extent practicable, that those persons dependent for their livelihood upon the fisheries within the respective jurisdictions of the Regional Fishery Management Councils are fairly represented as voting members of the Councils.”
+Pub. L. 99–659, title I, §113, Nov. 14, 1986, 100 Stat. 3715, provided that: “Notwithstanding section 302 of the Act (16 U.S.C. 1852) and effective on and after the date of the enactment of this Act \[Nov. 14, 1986\], the Secretary shall take action to ensure, to the extent practicable, that those persons dependent for their livelihood upon the fisheries within the respective jurisdictions of the Regional Fishery Management Councils are fairly represented as voting members of the Councils.”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -66,12 +66,6 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 137 was renumbered section 140 of this title.
@@ -110,15 +104,15 @@ Subsec. (b)(1). Pub. L. 107–147, §411(c)(2)(B), as amended by Pub. L. 108–3
 
 Subsec. (f). Pub. L. 107–147, §418(a)(2), inserted at end “If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§202(a)(2), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §202(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.”
 
-Subsec. (b)(1). Pub. L. 107–16, §§202(b)(1)(B), 901, temporarily substituted “subsection (a)(1)” for “subsection (a)” and “$10,000” for “$5,000 ($6,000, in the case of a child with special needs)”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(1). Pub. L. 107–16, §202(b)(1)(B), substituted “subsection (a)(1)” for “subsection (a)” and “$10,000” for “$5,000 ($6,000, in the case of a child with special needs)”.
 
-Subsec. (b)(2)(A). Pub. L. 107–16, §§202(b)(2)(B), 901, temporarily substituted “$150,000” for “$75,000”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(2)(A). Pub. L. 107–16, §202(b)(2)(B), substituted “$150,000” for “$75,000”.
 
-Subsec. (b)(3)(A). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted “222,” after “221,”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(3)(A). Pub. L. 107–16, §431(c)(1), inserted “222,” after “221,”.
 
-Subsec. (f). Pub. L. 107–16, §§202(d)(2), (e)(2), 901, temporarily added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not apply to amounts paid or expenses incurred after December 31, 2001.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f). Pub. L. 107–16, §202(d)(2), (e)(2), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not apply to amounts paid or expenses incurred after December 31, 2001.”
 
 <b>1998</b>—Subsec. (b)(3)(A). Pub. L. 105–277 inserted “221,” after “and sections”.
 
@@ -142,7 +136,7 @@ Amendment by section 411(c)(2) of Pub. L. 107–147 applicable to taxable years 
 
 Amendment by section 418(a)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 418(c) of Pub. L. 107–147, set out as a note under section 21 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
@@ -150,11 +144,9 @@ Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years b
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1997 Amendment
 

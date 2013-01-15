@@ -46,7 +46,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) an entity that is organized under the laws of the United States or any State.
 
-(Pub. L. 111–195, title I, §101, July 1, 2010, 124 Stat. 1316.)
+(Pub. L. 111–195, title I, §101, July 1, 2010, 124 Stat. 1316; Pub. L. 112–158, title III, §311(b)(2), Aug. 10, 2012, 126 Stat. 1248.)
 
 #### Termination of Section
 
@@ -58,9 +58,9 @@ This subchapter, referred to in introductory provisions, was in the original “
 
 Section 102 of this Act, referred to in par. (2), is section 102 of Pub. L. 111–195, which enacted and amended provisions set out as notes under section 1701 of Title 50, War and National Defense.
 
-#### Codification
+#### Amendments
 
-In par. (3), “section 133 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+<b>2012</b>—Par. (3). Pub. L. 112–158 substituted “section 133 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “title 8);”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to anyUnited States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
+The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
 
 &emsp;(1) certify to the Secretary that such assistance is not otherwise reasonably and expeditiously available; and
 
@@ -10,7 +10,7 @@ The Secretary is authorized to provide technical assistance, on a nonexclusive b
 
 #### (b) Federal employees’ inventions
 
-As to an invention made or conceived by a Federal employee while providing assistance pursuant to this section, if the Secretary decides not to retain all rights in such invention, the Secretary may—
+As to an invention made or conceived by a Federal employee while providing assistancepursuant to this section, if the Secretary decides not to retain all rights in such invention, the Secretary may—
 
 &emsp;(1) grant or agree to grant in advance, to a United States firm, a patent license or assignment, or an option thereto, retaining a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the United States and such other rights as the Secretary deems appropriate; or
 

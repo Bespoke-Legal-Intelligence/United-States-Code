@@ -36,7 +36,7 @@ The Institute shall begin work pursuant to this section within 60 days of Decemb
 
 #### (d) Standards for interoperability in Federal jurisdiction
 
-At any time after the Institute's work has led to sufficient consensus in the Commission's judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
+At any time after the Institute's work has led to sufficient consensus in the Commission'sjudgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
 
 #### (e) Authorization
 

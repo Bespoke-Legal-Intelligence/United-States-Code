@@ -1,13 +1,13 @@
 ## Subtitle B—Estate and Gift Taxes
 
-| Chapter |  | Sec.<sup>1</sup> |
-| :--- | ---: | ---: |
-| [<b>11.</b>](Chapter%20011%20-%20Estate%20Tax/README.md) | <b>Estate tax</b> | <b>2001</b> |
+| Chapter | Sec.<sup>1</sup> |
+| :--- | ---: |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
+| [<b>11.</b>](Chapter%20011%20-%20Estate%20Tax/README.md) | <b>Estate tax</b> | <b>2001</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Gift%20Tax/README.md) | <b>Gift tax</b> | <b>2501</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Tax%20on%20Generation-Skipping%20Transfers/README.md) | <b>Tax on generation-skipping transfers</b> | <b>2601</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Special%20Valuation%20Rules/README.md) | <b>Special valuation rules</b> | <b>2701</b> |

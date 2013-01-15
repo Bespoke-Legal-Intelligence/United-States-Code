@@ -8,7 +8,7 @@
 
 (c) A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8336(m) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
-(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8336(n) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
+(d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8336(n) shall be separated from the service on the last day of the month inwhich such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
 (f) <sup>2</sup> The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or the Supreme Court Police) from automatic separation under this section when he determines the public interest so requires.
 
@@ -74,11 +74,11 @@ Subsec. (f). Pub. L. 106–553 redesignated subsec. (e) as (f) and substituted �
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–283 substituted “57” for “55” in first sentence.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 amended first sentence generally. Prior to amendment, first sentence read as follows: “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) of this title shall be separated from the service on the last day of the month in which he becomes 55 years of age or completes 20 years of service if then over that age.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–378 amended first sentence generally. Prior to amendment, first sentenceread as follows: “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) of this title shall be separated from the service on the last day of the month in which he becomes 55 years of age or completes 20 years of service if then over that age.”
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–509, §529 \[title IV, §409(a)(1)\], which directed that “law enforcement officer of a” be struck out before “firefighter who is”, was executed by striking out “law enforcement officer or a” as the probable intent of Congress.
 
-Pub. L. 101–509, §529 \[title IV, §409(a)(2)\], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer becomes 57years of age or completes 20 years of service if then over that age.”
+Pub. L. 101–509, §529 \[title IV, §409(a)(2)\], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer becomes 57 years of age or completes 20 years of service if then over that age.”
 
 Subsec. (d). Pub. L. 101–428, §2(b)(1)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Exemption Process To Delay Mandatory Retirement for Air Traffic Controllers
 
-Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1, 2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
+Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1,2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
 
 #### Nonapplicability of Subsection (a) to Air Traffic Controllers Appointed Before January 1, 1987
 

@@ -8,7 +8,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(2) The time when, the place where, and the person by whom and the person to whom the merchandise is sold or agreed to be sold, or if to be imported otherwise than in pursuance of a purchase, the place from which shipped, the time when and the person to whom and the person by whom it is shipped;
 
-&emsp;(3) A detailed description of the merchandise, including the commercial name by whicheach item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;
+&emsp;(3) A detailed description of the merchandise, including the commercial name by which each item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;
 
 &emsp;(4) The quantities in the weights and measures of the country or place from which the merchandise is shipped, or in the weights and measures of the United States;
 
@@ -46,7 +46,7 @@ Provisions as to the weights or measures, and currency, in which invoices should
 
 R.S. §§2838, 2853 (as amended by Act June 10, 1880, ch. 190) and 2860, contained provisions concerning invoices and their contents, prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
-Act May 27, 1921, ch. 14, §401, 42 Stat. 16, required invoices to contain, in addition to statements then required by law, such other statements as the Secretary of the Treasury should prescribe, and a statement as to the currency in which made out, and section 402 of that Act required the owner, importer, etc., to set forth on the invoice or statement in form of an invoice, and in the entry, in addition to statements then required by law such statements, under oath if required, as the Secretary might prescribe. These provisions were omitted from the Code as superseded by this section, and section 1485(a) of this title.
+Act May 27, 1921, ch. 14, §401, 42 Stat. 16, required invoices to contain, in addition to statements then required by law, such other statements as the Secretary of the Treasury should prescribe, and a statement as to the currency in which made out, and section 402 of that Act required the owner, importer, etc., to set forth on the invoice or statement in form of an invoice, and inthe entry, in addition to statements then required by law such statements, under oath if required, as the Secretary might prescribe. These provisions were omitted from the Code as superseded by this section, and section 1485(a) of this title.
 
 Provisions on the subject matter of subdivision (c) of this section were contained in act Oct. 3, 1913, ch. 16, §III, W, 38 Stat. 190, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §481, 42 Stat. 958, and repealed by section 643 thereof.
 

@@ -60,7 +60,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (ii) Countries of significant improvement in religious freedom
 
-&emsp;&emsp;&emsp;An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement,including actions taken by the United States under this chapter.
+&emsp;&emsp;&emsp;An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement, including actions taken by the United States under this chapter.
 
 #### (2) Classified addendum
 

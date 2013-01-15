@@ -50,7 +50,7 @@ In awarding grants under this section, the Attorney General shall ensure—
 
 #### (g) Reports
 
-Each eligible entity receiving a grant under this section shall submit to the Director of theOffice of Violence Against Women a report that describes the activities carried out with grant funds.
+Each eligible entity receiving a grant under this section shall submit to the Director of the Office of Violence Against Women a report that describes the activities carried out with grant funds.
 
 #### (h) Authorization of appropriations
 

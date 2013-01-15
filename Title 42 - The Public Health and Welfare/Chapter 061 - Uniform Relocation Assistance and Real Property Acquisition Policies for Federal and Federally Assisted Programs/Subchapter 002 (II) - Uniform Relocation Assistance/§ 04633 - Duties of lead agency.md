@@ -4,7 +4,7 @@
 
 The head of the lead agency shall—
 
-&emsp;(1) develop, publish, and issue, with the active participation of the Secretary of Housing and Urban Development and the heads of other Federal agencies responsible for funding relocation and acquisition actions, and in coordination with State and local governments, such regulations as may be necessary to carry out this chapter;
+&emsp;(1) develop, publish, and issue, with the active participation of the Secretary of Housing and Urban Development and the heads of otherFederal agencies responsible for funding relocation and acquisition actions, and in coordination with State and local governments, such regulations as may be necessary to carry out this chapter;
 
 &emsp;(2) provide, in consultation with the Attorney General (acting through the Commissioner of the Immigration and Naturalization Service), through training and technical assistance activities for displacing agencies, information developed with the Attorney General (acting through the Commissioner) on proper implementation of section 4605 of this title;
 
@@ -22,21 +22,31 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 &emsp;(1) that the payments and assistance authorized by this chapter shall be administered in a manner which is fair and reasonable and as uniform as practicable;
 
-&emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance; and
+&emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance;
 
-&emsp;(3) that any aggrieved person may have his application reviewed by the head of the Federal agency having authority over the applicable program or project or, in the case of a program or project receiving Federal financial assistance, by the State agency having authority over such program or project or the Federal agency having authority over such program or project if there is no such State agency.
+&emsp;(3) that any aggrieved person may have his application reviewed by the head of the Federal agency having authority over the applicable program or project or, in the case of a program or project receiving Federal financial assistance, by the State agency having authority over such program or project or the Federal agency having authority over such program or project if there is no such State agency; and
+
+&emsp;(4) that each Federal agency that has programs or projects requiring the acquisition of real property or causing a displacement from real property subject to the provisions of this chapter shall provide to the lead agency an annual summary report the <sup>1</sup> describes the activities conducted by the Federal agency.
 
 #### (c) Applicability to Tennessee Valley Authority and Rural Electrification Administration
 
 The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
 
-(Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385.)
+#### (d) Adjustment of payments
+
+The head of the lead agency may adjust, by regulation, the amounts of relocation payments provided under sections 4622(a)(4), 4622(c), 4623(a), and 4624(a) of this title if the head of the lead agency determines that cost of living, inflation, or other factors indicate that the payments should be adjusted to meet the policy objectives of this chapter.
+
+(Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385; Pub. L. 112–141, div. A, title I, §1521(d), July 6, 2012, 126 Stat. 578.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (4) to (6) and (b)(1), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (4) to (6), (b)(1), (4), and (d), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(4). Pub. L. 112–141, §1521(d)(1), added par. (4).
+
+Subsec. (d). Pub. L. 112–141, §1521(d)(2), added subsec. (d).
 
 <b>1997</b>—Subsec. (a)(2) to (6). Pub. L. 105–117 added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively.
 
@@ -54,7 +64,11 @@ Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment,
 
 &emsp;“(3) that any person aggrieved by a determination as to eligibility for a payment authorized by this chapter, or the amount of a payment, may have his application reviewed by the head of the Federal agency having authority over the applicable program or project, or in the case of a program or project receiving Federal financial assistance, by the head of the State agency.”
 
-Subsec. (c). Pub. L. 100–17 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The head of each Federal agency may prescribe such other regulations and procedures, consistent with the provisions of this chapter, as he deems necessary or appropriate to carry out this chapter.”
+Subsec. (c). Pub. L. 100–17 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:“The head of each Federal agency may prescribe such other regulations and procedures, consistent with the provisions of this chapter, as he deems necessary or appropriate to carry out this chapter.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective on the date of enactment of Pub. L. 112–141, see section 1521(g) of Pub. L. 112–141, set out as a note under section 308 of Title 23, Highways.
 
 #### Effective Date of 1991 Amendment
 
@@ -85,4 +99,6 @@ Memorandum of the President dated February 27, 1985, 50 F.R. 8953, provided:
 4\. Within 90 days of the date of this Memorandum, all affected executive departments and agencies shall propose common regulations under the Act. Within one year of the date of this Memorandum, such departments and agencies shall issue common regulations under the Act. Such regulations shall be consistent with the model policy promulgated by DOT, in consultation and coordination with other affected agencies, and published in final form in the Federal Register simultaneously with this Memorandum.
 
 5\. DOT shall report annually to the President's Council on Management Improvement, through the Office of Management and Budget, on implementation of the Act.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

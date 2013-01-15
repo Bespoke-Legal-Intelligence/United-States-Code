@@ -2,7 +2,7 @@
 
 (a)
 
-Confidentiality of Records.—Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed toany person or entity, except as provided in subsection (c).
+Confidentiality of Records.—Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed to any person or entity, except as provided in subsection (c).
 
 (b)
 
@@ -60,7 +60,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to implement
 
 Definitions.—In this section:
 
-&emsp;(1) The term “medical quality assurance program” means any peer review activity carried out before, on, or after November 14, 1986 by or for the Department of Defense to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patientcare assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
+&emsp;(1) The term “medical quality assurance program” means any peer review activity carried out before, on, or after November 14, 1986 by or for the Department of Defense to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
 
 &emsp;(2) The term “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
 
@@ -92,5 +92,5 @@ Pub. L. 112–81, div. A, title VII, §714(b), Dec. 31, 2011, 125 Stat. 1477, pr
 
 #### Effective Date
 
-Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
+Pub. L. 99–661, div. A, title VII, §705(b), Nov. 14, 1986, 100 Stat. 3904, provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
 

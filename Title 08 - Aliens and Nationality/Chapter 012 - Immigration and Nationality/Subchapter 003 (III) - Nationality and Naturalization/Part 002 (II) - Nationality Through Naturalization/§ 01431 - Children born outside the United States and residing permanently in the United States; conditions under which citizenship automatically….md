@@ -1,6 +1,6 @@
 ### §1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired
 
-(a) A child born outside of the United States automatically becomes a citizen of the UnitedStates when all of the following conditions have been fulfilled:
+(a) A child born outside of the United States automatically becomes a citizen of the United States when all of the following conditions have been fulfilled:
 
 &emsp;(1) At least one parent of the child is a citizen of the United States, whether by birth or naturalization.
 
@@ -10,7 +10,7 @@
 
 (b) Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat. 917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(<i>l</i>), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621; Pub. L. 106–395, title I, §101(a), Oct. 30, 2000, 114 Stat. 1631.)
+(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat. 917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(l), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621; Pub. L. 106–395, title I, §101(a), Oct. 30, 2000, 114 Stat. 1631.)
 
 #### Amendments
 
@@ -24,11 +24,11 @@
 
 “(b) Subsection (a) of this section shall apply to an adopted child only if the child is residing in the United States at the time of naturalization of such adoptive parent, in the custody of his adoptive parents, pursuant to a lawful admission for permanent residence.”
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §8(<i>l</i>), repealed Pub. L. 99–653, §14. See 1986 Amendment note below.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–525, §8(l), repealed Pub. L. 99–653, §14. See 1986 Amendment note below.
 
 Subsec. (b). Pub. L. 100–525, §9(w), substituted “Subsection (a)” for “Subsection (a)(1)”.
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–653, §14, which inserted “unmarried and” after “such child is”, was repealed by Pub. L. 100–525, §8(<i>l</i>).
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–653, §14, which inserted “unmarried and” after “such child is”, was repealed by Pub. L. 100–525, §8(l).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–116 substituted “an adopted child only if the child” for “a child adopted while under the age of sixteen years who”.
 
@@ -42,7 +42,7 @@ Pub. L. 106–395, title I, §104, Oct. 30, 2000, 114 Stat. 1633, provided that:
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 8(<i>l</i>) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by section 8(l) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

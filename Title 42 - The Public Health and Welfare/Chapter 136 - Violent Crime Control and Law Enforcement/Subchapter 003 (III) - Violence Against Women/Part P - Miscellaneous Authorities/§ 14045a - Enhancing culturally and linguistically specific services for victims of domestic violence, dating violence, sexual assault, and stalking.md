@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of such appropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
+&emsp;Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section,<sup>1</sup> the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of suchappropriated amounts and combine them to establish a new grant program to enhance culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
 
 #### (2) Programs covered
 

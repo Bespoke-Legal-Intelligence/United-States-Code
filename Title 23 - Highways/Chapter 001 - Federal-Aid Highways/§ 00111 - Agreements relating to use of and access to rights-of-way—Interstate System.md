@@ -2,13 +2,47 @@
 
 (a)
 
-In General.—All agreements between the Secretary and the State transportation department for the construction of projects on the Interstate System shall contain a clause providing that the State will not add any points of access to, or exit from, the project in addition to those approved by the Secretary in the plans for such project, without the prior approval of the Secretary. Such agreements shall also contain a clause providing that the State will not permit automotive service stations or other commercial establishments for serving motor vehicle users to be constructed or located on the rights-of-way of the Interstate System. Such agreements may, however, authorize a State or political subdivision thereof to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere in any way with the free flow of traffic on the Interstate System. Nothing in this section, or in any agreement entered into under this section, shall require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users on any highway which has been, or is hereafter, designated as a highway or route on the Interstate System (1) if such establishment (A) was in existence before January 1, 1960, (B) is owned by a State, and (C) is operated through concessionaries or otherwise, and (2) if all access to, and exits from, such establishment conform to the standards established for such a highway under this title.
+In General.—All agreements between the Secretary and the State transportation department for the construction of projects on the Interstate System shall contain a clause providing that the State will not add any points of access to, or exit from, the project in addition to those approved by the Secretary in the plans for such project, without the prior approval of the Secretary. Such agreements shall also contain a clause providing that the State will not permit automotive service stations or other commercial establishments for serving motor vehicle users to be constructed or located on the rights-of-way of the Interstate System and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment. Such agreements may, however, authorize a State or political subdivision thereof to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere in any way with the free flow of traffic on the Interstate System. Nothing in this section, or in any agreement entered into under this section, shall require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users on any highway which has been, or is hereafter, designated as a highway or route on the Interstate System (1) if such establishment (A) was in existence before January 1, 1960, (B) is owned by a State, and (C) is operated through concessionaries or otherwise, and (2) if all access to, and exits from, such establishment conform to the standards established for such a highway under this title.
 
 (b)
 
-Vending Machines.—Notwithstanding subsection (a), any State may permit the placement of vending machines in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in such State. Such vending machines may only dispense such food, drink, and other articles as the State transportation department determines are appropriate and desirable. Such vending machines may only be operated by the State. In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the “Randolph-Sheppard Act” (20 U.S.C. 107a(a)(5)). The costs of installation, operation, and maintenance of vending machines shall not be eligible for Federal assistance under this title.
+Rest Areas.—
+
+&emsp;(1)
+
+In general.—Notwithstanding subsection (a), the Secretary shall permit a State to acquire, construct, operate, and maintain a rest area along a highway on the Interstate System in such State.
+
+&emsp;(2)
+
+Limited activities.—The Secretary shall permit limited commercial activities within a rest area under paragraph (1), if the activities are available only to customers using the rest area and are limited to—
+
+&emsp;&emsp;(A) commercial advertising and media displays if such advertising and displays are—
+
+&emsp;&emsp;&emsp;(i) exhibited solely within any facility constructed in the rest area; and
+
+&emsp;&emsp;&emsp;(ii) not legible from the main traveled way;
+
+&emsp;&emsp;(B) items designed to promote tourism in the State, limited to books, DVDs, and other media;
+
+&emsp;&emsp;(C) tickets for events or attractions in the State of a historical or tourism-related nature;
+
+&emsp;&emsp;(D) travel-related information, including maps, travel booklets, and hotel coupon booklets; and
+
+&emsp;&emsp;(E) lottery machines, provided that the priority afforded to blind vendors under subsection (c) applies to this subparagraph.
+
+&emsp;(3)
+
+Private operators.—A State may permit a private party to operate such commercial activities.
+
+&emsp;(4)
+
+Limitation on use of revenues.—A State shall use any revenues received from the commercial activities in a rest area under this section to cover the costs of acquiring, constructing, operating, and maintaining rest areas in the State.
 
 (c)
+
+Vending Machines.—Notwithstanding subsection (a), any State may permit the placement of vending machines in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in such State. Such vending machines may only dispense such food, drink, and other articles as the State transportation department determines are appropriate and desirable. Such vending machines may only be operated by the State. In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the “Randolph-Sheppard Act” (20 U.S.C. 107a(a)(5)). The costs of installation, operation, and maintenance of vending machines shall not be eligible for Federal assistance under this title.
+
+(d)
 
 Motorist Call Boxes.—
 
@@ -44,9 +78,19 @@ Distribution throughout state.—Within a State, at least 20 percent of the call
 
 Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87–61, title I, §104(a), June 29, 1961, 75 Stat. 122; Pub. L. 95–599, title I, §114, Nov. 6, 1978, 92 Stat. 2697; Pub. L. 100–17, title I, §110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104–59, title III, §306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1412, Aug. 10, 2005, 119 Stat. 1234; Pub. L. 110–244, title I, §104, June 6, 2008, 122 Stat. 1578.)
+(e)
+
+Justification Reports.—If the Secretary requests or requires a justification report for a project that would add a point of access to, or exit from, the Interstate System, the Secretary may permit a State transportation department to approve the report.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87–61, title I, §104(a), June 29, 1961, 75 Stat. 122; Pub. L. 95–599, title I, §114, Nov. 6, 1978, 92 Stat. 2697; Pub. L. 100–17, title I, §110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104–59, title III, §306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1412, Aug. 10, 2005, 119 Stat. 1234; Pub. L. 110–244, title I, §104, June 6, 2008, 122 Stat. 1578; Pub. L. 112–141, div. A, title I, §§1505, 1539(a), July 6, 2012, 126 Stat. 564, 587.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1539(a)(1), inserted “and will not change the boundary of any right-of-way on the Interstate System to accommodate construction of, or afford access to, an automotive service station or other commercial establishment” before period at end of second sentence.
+
+Subsecs. (b) to (d). Pub. L. 112–141, §1539(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+Subsec. (e). Pub. L. 112–141, §1505, added subsec. (e).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–244 struck out subsec. (d) which related to idling reduction facilities in rights-of-way of Interstate System.
 
@@ -61,6 +105,10 @@ Nonsafety hazards.—The call boxes and their location, posts, foundations, and 
 <b>1978</b>—Pub. L. 95–599 inserted provision listing situations which would not require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users.
 
 <b>1961</b>—Pub. L. 87–61 substituted “to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere” for “to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Interstate Oasis Program
 
@@ -106,9 +154,9 @@ Pub. L. 97–424, title I, §111, Jan. 6, 1983, 96 Stat. 2106, provided that not
 
 #### Demonstration Project for Vending Machines in Rest and Recreation Areas
 
-Section 153 of Pub. L. 95–599 authorized Secretary of Transportation to implement a demonstration project respecting placement of vending machines in rest and recreation areas and to report not later than two years after Nov. 6, 1978, on results of such project.
+Pub. L. 95–599, title I, §153, Nov. 6, 1978, 92 Stat. 2716, authorized Secretary of Transportation to implement a demonstration project respecting placement of vending machines in rest and recreation areas and to report not later than two years after Nov. 6, 1978, on results of such project.
 
 #### Revision of Agreements Relating to Utilization of Space on Rights-of-Way
 
-Section 104(b) of Pub. L. 87–61 authorized Secretary of Commerce \[now Transportation\], on application, to revise any agreement made prior to June 29, 1961, to extent that such agreement relates to utilization of space on rights-of-way on National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] to conform to section 111 of this title as amended by subsection (a).
+Pub. L. 87–61, title I, §104(b), June 29, 1961, 75 Stat. 123, authorized Secretary of Commerce \[now Transportation\], on application, to revise any agreement made prior to June 29, 1961, to extent that such agreement relates to utilization of space on rights-of-way on National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] to conform to section 111 of this title as amended by subsection (a).
 

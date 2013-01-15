@@ -18,7 +18,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary may prescribe such regulations as may be necessary to prevent the reduced rates provided in this paragraph from benefiting any person who produces more than 2,000,000 barrels of beer during a calendar year.
+&emsp;&emsp;The Secretary may prescribe such regulations as may be necessary to prevent the reduced rates provided in this paragraph frombenefiting any person who produces more than 2,000,000 barrels of beer during a calendar year.
 
 #### (3) Tolerances
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–529 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
+Pub. L. 94–529, §2, Oct. 17, 1976, 90 Stat. 2486, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act \[Oct. 17, 1976\].”
 
 #### Effective Date of 1965 Amendment
 

@@ -34,7 +34,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date
 
-Section 605 of Pub. L. 93–288 provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
 #### Short Title of 2011 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: “This Act
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–308, §1, Oct. 6, 2006, 120 Stat. 1725, provided that: “This Act \[amending sections 5170b, 5196, and 5196b of this title\] may be cited as the ‘Pets Evacuation and Transportation Standards Act of 2006’.”
+Pub. L. 109–308, §1, Oct. 6, 2006, 120 Stat. 1725, provided that: “This Act \[amending sections 5170b, 5196, and5196b of this title\] may be cited as the ‘Pets Evacuation and Transportation Standards Act of 2006’.”
 
 Pub. L. 109–218, §1, Apr. 20, 2006, 120 Stat. 333, provided that: “This Act \[amending section 5150 of this title\] may be cited as the ‘Local Community Recovery Act of 2006’.”
 
@@ -60,7 +60,7 @@ Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Section 101(a) of title I of Pub. L. 100–707 provided that: “This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715<i>l</i> of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
+Pub. L. 100–707, title I, §101(a), Nov. 23, 1988, 102 Stat. 4689, provided that: “This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715l of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as ‘The Disaster Relief and Emergency Assistance Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 offormer Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+Pub. L. 93–288, §1, May 22, 1974, 88 Stat. 143, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
 
 #### Transfer of Functions
 
@@ -82,11 +82,11 @@ Functions of the President under the Disaster Relief Acts of 1970 and 1974, with
 
 #### References to Disaster Relief Act of 1974
 
-Section 102(b) of title I of Pub. L. 100–707 provided that: “Whenever any reference is made in any law (other than this Act \[see Tables for classification\]), regulation, document, rule, record, or other paper of the United States to a section or provision of the Disaster Relief Act of 1974 \[former short title of Pub. L. 93–288\], such reference shall be deemed to be a reference to such section or provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note above\].”
+Pub. L. 100–707, title I, §102(b), Nov. 23, 1988, 102 Stat. 4689, provided that: “Whenever any reference is made in any law (other than this Act \[see Tables for classification\]), regulation, document, rule, record, or other paper of the United States to a section or provision of the Disaster Relief Act of 1974 \[former short title of Pub. L. 93–288\], such reference shall be deemed to be a reference to such section or provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note above\].”
 
 #### References to Disaster Relief Act of 1970
 
-Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act.”
+Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act.”
 
 #### Report on State Management of Small Disasters Initiative
 
@@ -98,7 +98,7 @@ Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that
 
 #### Study Regarding Cost Reduction
 
-Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, as amended by Pub. L. 109–139, §3, Dec. 22, 2005, 119 Stat. 2649, provided that: “Not later than September 30, 2007, the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act \[see Short Title of 2000 Amendment note above\].”
+Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, as amended by Pub. L. 109–139, §3, Dec. 22, 2005, 119Stat. 2649, provided that: “Not later than September 30, 2007, the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act \[see Short Title of 2000 Amendment note above\].”
 
 #### Study of Participation by Indian Tribes in Emergency Management
 

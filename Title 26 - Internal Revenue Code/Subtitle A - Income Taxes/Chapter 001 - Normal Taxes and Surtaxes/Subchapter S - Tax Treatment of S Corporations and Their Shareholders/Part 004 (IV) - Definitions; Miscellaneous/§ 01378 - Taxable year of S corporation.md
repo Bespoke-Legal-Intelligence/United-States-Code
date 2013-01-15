@@ -38,7 +38,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 98–369, §721(q), substituted “who (or whose e
 
 #### Effective Date of 1986 Amendment
 
-Section 806(e) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(e)(7), (8), (10), Nov. 10, 1988, 102 Stat. 3441, provided that:
+Pub. L. 99–514, title VIII, §806(e), Oct. 22, 1986, 100 Stat. 2364, as amended by Pub. L. 100–647, title I, §1008(e)(7), (8), (10), Nov. 10, 1988, 102 Stat. 3441, provided that:
 
 “(1)
 
@@ -52,7 +52,7 @@ Change in accounting period.—In the case of any partnership, S corporation, or
 
 &emsp;“(B) such change shall be treated as having been made with the consent of the Secretary, and
 
-&emsp;“(C) with respect to any partner or shareholder of an S corporation which is required to include theitems from more than 1 taxable year of the partnership or S corporation in any 1 taxable year, income in excess of expenses of such partnership or corporation for the short taxable year required by such amendments shall be taken into account ratably in each of the first 4 taxable years beginning after December 31, 1986, unless such partner or shareholder elects to include all such income in the the \[sic\] partner's or shareholder's taxable year with or within which the partnership's or S corporation's short taxable year ends.
+&emsp;“(C) with respect to any partner or shareholder of an S corporation which is required to include the items from more than 1 taxable year of the partnership or S corporation in any 1 taxable year, income in excess of expenses of such partnership or corporation for the short taxable year required by such amendments shall be taken into account ratably in each of the first 4 taxable years beginning after December 31, 1986, unless such partner or shareholder elects to include all such income in the the \[sic\] partner's or shareholder's taxable year with or withinwhich the partnership's or S corporation's short taxable year ends.
 
 > Subparagraph (C) shall apply to a shareholder of an S corporation only if such corporation was an S corporation for a taxable year beginning in 1986.
 

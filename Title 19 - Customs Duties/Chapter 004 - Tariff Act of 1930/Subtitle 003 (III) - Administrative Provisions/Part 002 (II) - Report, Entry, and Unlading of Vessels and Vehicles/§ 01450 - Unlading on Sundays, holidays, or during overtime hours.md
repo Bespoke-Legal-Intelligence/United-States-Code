@@ -1,6 +1,6 @@
 ### §1450. Unlading on Sundays, holidays, or during overtime hours
 
-No merchandise, baggage, or passengers arriving in the United States from any foreign port or place, and no bonded merchandise or baggage being transported from one port to another, shall be unladen from the carrying aircraft, vessel or vehicle on Sunday, a holiday, or during overtime hours, except under special license granted by the appropriate customs officer under such regulations as the Secretary of the Treasury may prescribe.
+No merchandise, baggage, or passengers arriving in the United States from any foreign port or place, and no bonded merchandise or baggagebeing transported from one port to another, shall be unladen from the carrying aircraft, vessel or vehicle on Sunday, a holiday, or during overtime hours, except under special license granted by the appropriate customs officer under such regulations as the Secretary of the Treasury may prescribe.
 
 (June 17, 1930, ch. 497, title IV, §450, 46 Stat. 715; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–66, title XIII, §13811(b)(2), Aug. 10, 1993, 107 Stat. 670.)
 
@@ -14,7 +14,7 @@ A special provision on the subject matter of this section for the northern, nort
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–66 in section catchline substituted “during overtime hours” for “at night”, and in textsubstituted “during overtime hours” for “at night” and inserted “aircraft,” before “vessel”.
+<b>1993</b>—Pub. L. 103–66 in section catchline substituted “during overtime hours” for “at night”, and in text substituted “during overtime hours” for “at night” and inserted “aircraft,” before “vessel”.
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 

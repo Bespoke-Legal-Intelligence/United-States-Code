@@ -30,7 +30,7 @@ The Secretary shall develop criteria to review the applications of States submit
 
 A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participation for providing services under this section be required to establish and maintain a quality assurance program, that provides that—
 
-&emsp;(1) the State will certify and survey providers of services under this section (such surveys to be unannounced and average at least 1 a year);
+&emsp;(1) the State will certify and survey providers of services under this section (such surveysto be unannounced and average at least 1 a year);
 
 &emsp;(2) the State will adopt standards for survey and certification that include—
 
@@ -120,7 +120,7 @@ Pub. L. 101–508, title IV, §4712(b)(1), Nov. 5, 1990, 104 Stat. 1388–187, w
 
 #### Effective Date
 
-Section 4712(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title IV, §4712(c), Nov. 5, 1990, 104 Stat. 1388–190, provided that:
 
 “(1)
 

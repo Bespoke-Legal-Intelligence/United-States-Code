@@ -69,7 +69,7 @@ Committee Allocations, Aggregates, and Levels.—
 
 &emsp;&emsp;“(A) for the Committee on Appropriations, committee allocations for fiscal years 2012 and 2013 consistent with the discretionary spending limits set forth in this Act for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
 
-&emsp;&emsp;“(B) for all committees other than the Committee on Appropriations, committee allocations for fiscal years 2012, 2013, 2013 through 2017, and 2013 through 2022 consistent with the Congressional Budget Office's March 2012 baseline for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
+&emsp;&emsp;“(B) for all committees other than the Committee on Appropriations, committee allocations for fiscal years 2012, 2013, 2013 through 2017, and 2013through 2022 consistent with the Congressional Budget Office's March 2012 baseline for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
 
 &emsp;&emsp;“(C) aggregate spending levels for fiscal years 2012 and 2013 and aggregate revenue levels for fiscal years 2012, 2013, 2013–2017, and 2013–2022 consistent with the Congressional Budget Office's March 2012 baseline and the discretionary spending limits set forth in this Act for the purpose of enforcing section 311 of the Congressional Budget Act of 1974; and
 

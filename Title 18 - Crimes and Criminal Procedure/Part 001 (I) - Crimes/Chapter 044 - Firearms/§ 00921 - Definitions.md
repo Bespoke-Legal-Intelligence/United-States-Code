@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectileby the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -34,7 +34,7 @@
 
 (6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
-(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofan explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
 (8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
@@ -128,7 +128,7 @@
 
 (27) The term “motor vehicle” has the meaning given such term in section 13102 of title 49, United States Code.
 
-(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion ofthe energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
 (29) The term “handgun” means—
 
@@ -274,15 +274,15 @@ Pub. L. 103–322, title XI, §110105, Sept. 13, 1994, 108 Stat. 2000, provided 
 
 #### Effective Date of 1990 Amendment
 
-Section 1702(b)(4) of Pub. L. 101–647 provided that: “The amendments made by this section \[amending this section and sections 922 and 924 of this title\] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–647, title XVII, §1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: “The amendments made by this section \[amending this section and sections 922 and 924 of this title\] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published Ordinances
 
-Section 9 of Pub. L. 99–408 provided that: “The amendments made by this Act \[amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
+Pub. L. 99–408, §9, Aug. 28, 1986, 100 Stat. 921, provided that: “The amendments made by this Act \[amendingthis section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
 
-Section 2 of Pub. L. 99–360 provided that: “This Act and the amendments made by this Act \[enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title\], intended to amend the Firearms Owners’ Protection Act \[Pub. L. 99–308, see Short Title of 1986 Amendment note below\], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective \[see section 110 of Pub. L. 99–308 set out below\] and shall apply to the amendments to title 18, United States Code, made by such Act.”
+Pub. L. 99–360, §2, July 8, 1986, 100 Stat. 767, provided that: “This Act and the amendments made by this Act \[enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title\], intended to amend the Firearms Owners’ Protection Act \[Pub. L. 99–308, see Short Title of 1986 Amendment note below\], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective \[see section 110 of Pub. L. 99–308 set out below\] and shall apply to the amendments to title 18, United States Code, made by such Act.”
 
-Section 110 of Pub. L. 99–308 provided that:
+Pub. L. 99–308, §110, May 19, 1986, 100 Stat. 460, provided that:
 
 “(a)
 
@@ -298,15 +298,15 @@ Machinegun Prohibition.—Section 102(9) \[amending section 922 of this title\] 
 
 #### Effective Date of 1968 Amendment
 
-Section 105 of Pub. L. 90–618 provided that:
+Pub. L. 90–618, title I, §105, Oct. 22, 1968, 82 Stat. 1226, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
 
-“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
+“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(l), 925(a)(1), and 925(d).”
 
 #### Effective Date
 
-Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments made by this title \[enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade\] shall become effective one hundred and eighty days after the date of its enactment \[June 19, 1968\]; except that repeal of the Federal Firearms Act \[sections 901 to 910 of Title 15\] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
+Pub. L. 90–351, title IV, §907, June 19, 1968, 82 Stat. 235, provided that: “The amendments made by this title \[enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade\] shall become effective one hundred and eighty days after the date of its enactment \[June 19, 1968\]; except that repeal of the Federal Firearms Act \[sections 901 to 910 of Title 15\] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
 
 #### Short Title of 2005 Amendment
 
@@ -322,13 +322,13 @@ Pub. L. 103–322, title XI, §110101, Sept. 13, 1994, 108 Stat. 1996, provided 
 
 #### Short Title of 1993 Amendment
 
-Section 101 of title I of Pub. L. 103–159 provided that: “This title \[enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the ‘Brady Handgun Violence Prevention Act’.”
+Pub. L. 103–159, title I, §101, Nov. 30, 1993, 107 Stat. 1536, provided that: “This title \[enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the ‘Brady Handgun Violence Prevention Act’.”
 
-Section 301 of title III of Pub. L. 103–159 provided that: “This title \[amending sections 922 to 924 of this title\] may be cited as the ‘Federal Firearms License Reform Act of 1993’.”
+Pub. L. 103–159, title III, §301, Nov. 30, 1993, 107 Stat. 1545, provided that: “This title \[amending sections 922 to 924 of this title\] may be cited as the ‘Federal Firearms License Reform Act of 1993’.”
 
 #### Short Title of 1990 Amendment
 
-Section 1702(a) of Pub. L. 101–647 provided that: “This section \[amending this section and sections 922 and 924 of this title and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the ‘Gun-Free School Zones Act of 1990’.”
+Pub. L. 101–647, title XVII, §1702(a), Nov. 29, 1990, 104 Stat. 4844, provided that: “This section \[amending this section and sections 922 and 924 of this title and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the ‘Gun-Free School Zones Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -338,15 +338,15 @@ Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Ac
 
 Pub. L. 99–570, title I, subtitle I, §1401, Oct. 27, 1986, 100 Stat. 3207–39, provided that: “This subtitle \[amending section 924 of this title\] may be cited as the ‘Career Criminals Amendment Act of 1986’.”
 
-Section 1(a) of Pub. L. 99–308 provided that: “This Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Firearms Owners’ Protection Act’.”
+Pub. L. 99–308, §1(a), May 19, 1986, 100 Stat. 449, provided that: “This Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Firearms Owners’ Protection Act’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 90–618 provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
+Pub. L. 90–618, §1, Oct. 22, 1968, 82 Stat. 1213, provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
 
 #### Construction of Pub. L. 103–159 With Section 552a of Title 5
 
-Section 105 of Pub. L. 103–159 provided that: “This Act \[enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
+Pub. L. 103–159, title I, §105, Nov. 30, 1993, 107 Stat. 1543, provided that: “This Act \[enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
 
 #### Statutory Construction; Evidence
 
@@ -358,7 +358,7 @@ Pub. L. 103–322, title XI, §110104, Sept. 13, 1994, 108 Stat. 2000, which pro
 
 #### Congressional Findings and Declaration
 
-Section 1(b) of Pub. L. 99–308 provided that: “The Congress finds that—
+Pub. L. 99–308, §1(b), May 19, 1986, 100 Stat. 449, provided that: “The Congress finds that—
 
 &emsp;“(1) the rights of citizens—
 
@@ -372,11 +372,11 @@ Section 1(b) of Pub. L. 99–308 provided that: “The Congress finds that—
 
 > &emsp;require additional legislation to correct existing firearms statutes and enforcement policies; and
 
-&emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
+&emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
 
-Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Pub. L. 90–618, title I, §101, Oct. 22, 1968, 82 Stat. 1213, provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
-Section 901 of title IV of Pub. L. 90–351 provided that:
+Pub. L. 90–351, title IV, §901, June 19, 1968, 82 Stat. 225, provided that:
 
 “(a) The Congress hereby finds and declares—
 
@@ -398,17 +398,17 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(9) that the existing licensing system under the Federal Firearms Act \[former sections 901 to 910 of Title 15, Commerce and Trade\] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
 
-“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
+“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or anyother lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
 
 #### Administration and Enforcement
 
-Section 103 of title I of Pub. L. 90–618, as amended by Pub. L. 107–296, title XI, §1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title \[amending this chapter\] shall be vested in the Attorney General.”
+Pub. L. 90–618, title I, §103, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 107–296, title XI, §1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title \[amending this chapter\] shall be vested in the Attorney General.”
 
-Section 903 of title IV of Pub. L. 90–351 provided that: “The administration and enforcement of the amendment made by this title \[enacting this chapter and provisions set out as notes under this section\] shall be vested in the Secretary of the Treasury \[now Attorney General\].”
+Pub. L. 90–351, title IV, §903, June 19, 1968, 82 Stat. 234, provided that: “The administration and enforcement of the amendment made by this title \[enacting this chapter and provisions set out as notes under this section\] shall be vested in the Secretary of the Treasury \[now Attorney General\].”
 
 #### Modification of Other Laws
 
-Section 104 of title I of Pub. L. 90–618, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title or the amendment made thereby \[amending this chapter\] shall be construed as modifying or affecting any provision of—
+Pub. L. 90–618, title I, §104, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title or the amendment made thereby \[amending this chapter\] shall be construed as modifying or affecting any provision of—
 
 &emsp;“(a) the National Firearms Act (chapter 53 of the Internal Revenue Code of 1986) \[section 5801 et seq. of Title 26, Internal Revenue Code\];
 
@@ -416,7 +416,7 @@ Section 104 of title I of Pub. L. 90–618, as amended by Pub. L. 99–514, §2,
 
 &emsp;“(c) section 1715 of title 18, United States Code, relating to nonmailable firearms.”
 
-Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title or amendment made thereby \[enacting this chapter and provisions set out as notes under this section\] shall be construed as modifying or affecting any provision of—
+Pub. L. 90–351, title IV, §904, June 19, 1968, 82 Stat. 234, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title or amendment made thereby \[enacting this chapter and provisions set out as notes under this section\] shall be construed as modifying or affecting any provision of—
 
 &emsp;“(a) the National Firearms Act (chapter 53 of the Internal Revenue Code of 1986) \[section 5801 et seq. of Title 26, Internal Revenue Code\]; or
 
@@ -426,7 +426,7 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 
 #### Definition of “Handgun”
 
-Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
+Pub. L. 99–408, §10, Aug. 28, 1986, 100 Stat. 922, provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

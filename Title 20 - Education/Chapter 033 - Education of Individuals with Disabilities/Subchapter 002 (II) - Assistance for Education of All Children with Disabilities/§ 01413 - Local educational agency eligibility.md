@@ -14,7 +14,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;&emsp;Amounts provided to the local educational agency under this subchapter shall be expended in accordance with the applicable provisions of this subchapter and—
 
-&emsp;&emsp;&emsp;(i) shall be used only to pay the excess costs of providing special education andrelated services to children with disabilities;
+&emsp;&emsp;&emsp;(i) shall be used only to pay the excess costs of providing special education and related services to children with disabilities;
 
 &emsp;&emsp;&emsp;(ii) shall be used to supplement State, local, and other Federal funds and not to supplant such funds; and
 
@@ -46,7 +46,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (ii) Use of amounts to carry out activities under ESEA
 
-&emsp;&emsp;&emsp;If a local educational agency exercises the authority under clause (i), the agency shall use an amount of local funds equal to the reduction in expenditures under clause (i) to carry out activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+&emsp;&emsp;&emsp;If a local educational agency exercises the authority under clause (i), the agency shall use an amount of local funds equal tothe reduction in expenditures under clause (i) to carry out activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 #### (iii) State prohibition
 
@@ -112,7 +112,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (B) Rights of local educational agency
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to require a local educational agency to coordinate with the National Instructional Materials Access Center. If a local educational agency chooses not to coordinate with the National Instructional Materials Access Center, the local educational agency shall provide an assurance to the State educational agency that the local educational agency will provide instructional materials to blind persons or other persons with print disabilities in a timely manner.
+&emsp;&emsp;Nothing in this paragraph shall be construed to require a local educational agencyto coordinate with the National Instructional Materials Access Center. If a local educational agency chooses not to coordinate with the National Instructional Materials Access Center, the local educational agency shall provide an assurance to the State educational agency that the local educational agency will provide instructional materials to blind persons or other persons with print disabilities in a timely manner.
 
 #### (7) Information for State educational agency
 
@@ -138,7 +138,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (3) Modifications required by State educational agency
 
-&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal orState law or regulations, then the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
+&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal or State law or regulations, then the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 

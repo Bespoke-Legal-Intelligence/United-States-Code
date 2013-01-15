@@ -1,6 +1,6 @@
 ### §2385. Installations transferable
 
-All municipal installations are authorized to be transferred under this subchapter, but shallnot include property which the Commission determines to be needed for its own use.
+All municipal installations are authorized to be transferred under this subchapter, but shall not include property which the Commission determines to be needed for its own use.
 
 (Aug. 4, 1955, ch. 543, ch. 8, §85, 69 Stat. 481.)
 

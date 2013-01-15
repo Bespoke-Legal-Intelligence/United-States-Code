@@ -10,11 +10,11 @@
 
 > is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
-(b) If it is determined that, upon the admission of a new class to the Academy, the number of midshipmen at the Academy will be below the authorized number, the Secretary may fill the vacancies by nominating additional midshipmen from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this subsection shall be from qualified alternates under clauses (2) through (8) of section 6954(a) of this title, and the remainder shall be from qualified candidates who competed for appointment under any other provision of law. An appointment of a nominee under this subsection is an additional appointment and is not in place of an appointment otherwise authorized by law.
+(b) If it is determined that, upon the admission of a new class to the Academy, the number of midshipmen at the Academy will be below the authorized number, the Secretary may fill the vacancies by nominating additional midshipmen from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this subsection shall be from qualified alternates under paragraphs (2) through (8) of section 6954(a) of this title, and the remainder shall be from qualified candidates who competed for appointment under any other provision of law. An appointment of a nominee under this subsection is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
 (c) The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Pub. L. 88–276, §3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, §2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, §206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, §532(b)(2),title XIII, §1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671; Pub. L. 109–163, div. A, title V, §515(b)(1)(R), Jan. 6, 2006, 119 Stat. 3233.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Pub. L. 88–276, §3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, §2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, §206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671; Pub. L. 109–163, div. A, title V, §515(b)(1)(R), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 112–239, div. A, title X, §1076(f)(41), Jan. 2, 2013, 126 Stat. 1954.)
 
 Historical and Revision Notes
 
@@ -52,11 +52,13 @@ The section is worded to indicate that all appointments are made by the Presiden
 
 In subsection (b) the provision authorizing the Secretary of the Navy to nominate candidates in the event nominations to fill vacancies under subsection (a) are not made by March fourth is omitted as covered by subsection (e), the purpose of which was to assure the entrance of a full class each year.
 
-Reference in subsection (e) to the strength of the “brigade of midshipmen” is dropped, since there is no statutory requirement that the midshipmen at the Academy be so organized, and the term is a recognition of current organization only. The language authorizing the Secretary, in his discretion, to nominate additional midshipmen to meet the needs of the armed services but not to exceed the authorized strength of the Academy is changed to authorize the Secretary to “fill the vacancies by nominating additional midshipmen”. In exercising his discretion under this subsection, these factors are necessarily considered by the Secretary, irrespective of a specific provision so instructing him.
+Reference in subsection (e) to the strength of the “brigade of midshipmen” is dropped, since there is no statutory requirement that the midshipmen at the Academy be so organized, and the term is a recognition of current organization only. The language authorizing the Secretary, in his discretion, to nominate additional midshipmen to meet the needs of the armed services but not to exceed the authorized strength of the Academy is changed to authorize the Secretary to “fill thevacancies by nominating additional midshipmen”. In exercising his discretion under this subsection, these factors are necessarily considered by the Secretary, irrespective of a specific provision so instructing him.
 
 In subsection (f) the word “admission” is changed to the word “appointment”, since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 substituted “paragraphs” for “clauses”.
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 

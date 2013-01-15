@@ -42,7 +42,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 (3) The Inspector General shall report directly to and be under the general supervision of the Director of National Intelligence.
 
-(4) The Inspector General may be removed from office only by the President. The President shall communicate in writing to the congressional intelligence committees the reasons for the removal not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.
+(4) The Inspector General may be removed from office only by the President. The Presidentshall communicate in writing to the congressional intelligence committees the reasons for the removal not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.
 
 #### (d) Assistant Inspectors General
 
@@ -70,7 +70,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (1) The Director of National Intelligence may prohibit the Inspector General of the Intelligence Community from initiating, carrying out, or completing any investigation, inspection, audit, or review if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
-(2) Not later than seven days after the date on which the Director exercises the authority under paragraph (1), the Director shall submit tothe congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
+(2) Not later than seven days after the date on which the Director exercises the authority under paragraph (1), the Director shall submit to the congressional intelligence committees an appropriately classified statement of the reasons for the exercise of such authority.
 
 (3) The Director shall advise the Inspector General at the time a statement under paragraph (2) is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of such statement.
 
@@ -112,7 +112,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (h) Coordination among Inspectors General
 
-(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review byboth the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or review to avoid unnecessary duplication of the activities of the inspectors general.
+(1)(A) In the event of a matter within the jurisdiction of the Inspector General of the Intelligence Community that may be subject to an investigation, inspection, audit, or review by both the Inspector General of the Intelligence Community and an inspector general with oversight responsibility for an element of the intelligence community, the Inspector General of the Intelligence Community and such other inspector general shall expeditiously resolve the question of which inspector general shall conduct such investigation, inspection, audit, or review to avoid unnecessary duplication of the activities of the inspectors general.
 
 (B) In attempting to resolve a question under subparagraph (A), the inspectors general concerned may request the assistance of the Intelligence Community Inspectors General Forum established under paragraph (2). In the event of a dispute between an inspector general within a department or agency of the United States Government and the Inspector General of the Intelligence Community that has not been resolved with the assistance of such Forum, the inspectors general shall submit the question to the Director of National Intelligence and the head of the affected department or agency for resolution.
 
@@ -156,7 +156,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 #### (k) Reports
 
-(1)(A) The Inspector General of the Intelligence Community shall, not later than January 31 and July 31 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending December 31 (of the preceding year) and June 30, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
+(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
 
 (B) Each report under this paragraph shall include, at a minimum, the following:
 
@@ -236,7 +236,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (6) In accordance with section 535 of title 28, the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves <sup>1</sup> a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
 
-#### (<i>l</i>) Construction of duties regarding elements of Intelligence Community
+#### (l) Construction of duties regarding elements of Intelligence Community
 
 Except as resolved pursuant to subsection (h), the performance by the Inspector General of the Intelligence Community of any duty, responsibility, or function regarding an element of the intelligence community shall not be construed to modify or affect the duties and responsibilities of any other inspector general having duties and responsibilities relating to such element.
 
@@ -246,7 +246,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 #### (n) Budget
 
-(1) For each fiscal year, the Inspector General of the Intelligence Community shall transmit a budget estimate and request to the Director ofNational Intelligence that specifies for such fiscal year—
+(1) For each fiscal year, the Inspector General of the Intelligence Community shall transmit a budget estimate and request to the Director of National Intelligence that specifies for such fiscal year—
 
 &emsp;(A) the aggregate amount requested for the operations of the Inspector General;
 
@@ -276,13 +276,13 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 &emsp;(E) the comments of the Inspector General under paragraph (2)(D), if any, on the amounts requested pursuant to paragraph (2), including whether such amounts would substantially inhibit the Inspector General from performing the duties of the Office of the Inspector General.
 
-#### (<i>o</i>) Information on website
+#### (o) Information on website
 
 (1) The Director of National Intelligence shall establish and maintain on the homepage of the publicly accessible website of the Office of the Director of National Intelligence information relating to the Office of the Inspector General of the Intelligence Community including methods to contact the Inspector General.
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888.)
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474.)
 
 #### References in Text
 
@@ -290,7 +290,9 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (k)(5)(H
 
 #### Amendments
 
-<b>2012</b>—Subsec. (<i>o</i>). Pub. L. 112–87 added subsec. (<i>o</i>).
+<b>2013</b>—Subsec. (k)(1)(A). Pub. L. 112–277 substituted “October 31 and April 30” for “January 31 and July 31” and “September 30 and March 31,” for “December 31 (of the preceding year) and June 30,”.
+
+<b>2012</b>—Subsec. (o). Pub. L. 112–87 added subsec. (o).
 
 #### Construction
 

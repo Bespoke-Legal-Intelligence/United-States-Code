@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1331\.](%C2%A7%2001331%20-%20Congressional%20declaration%20of%20policy%20and%20purpose.md) | Congressional declaration of policy and purpose. |
 | [1332\.](%C2%A7%2001332%20-%20Definitions.md) | Definitions. |
-| [1333\.](%C2%A7%2001333%20-%20Labeling%3B%20requirements%3B%20conspicuous%20statement.md) | Labeling; requirements; conspicuous statement. |
+| [1333\.](%C2%A7%2001333%20-%20Labeling.md) | Labeling. |
 | [1334\.](%C2%A7%2001334%20-%20Preemption.md) | Preemption. |
 | [1335\.](%C2%A7%2001335%20-%20Unlawful%20advertisements%20on%20medium%20of%20electronic%20communication.md) | Unlawful advertisements on medium of electronic communication. |
 | [1335a.](%C2%A7%2001335a%20-%20List%20of%20cigarette%20ingredients%3B%20annual%20submission%20to%20Secretary%3B%20transmittal%20to%20Congress%3B%20confidentiality.md) | List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality. |
@@ -24,7 +24,7 @@
 
 - [&sect; 01331 - Congressional declaration of policy and purpose](%C2%A7%2001331%20-%20Congressional%20declaration%20of%20policy%20and%20purpose.md)
 - [&sect; 01332 - Definitions](%C2%A7%2001332%20-%20Definitions.md)
-- [&sect; 01333 - Labeling; requirements; conspicuous statement](%C2%A7%2001333%20-%20Labeling%3B%20requirements%3B%20conspicuous%20statement.md)
+- [&sect; 01333 - Labeling](%C2%A7%2001333%20-%20Labeling.md)
 - [&sect; 01334 - Preemption](%C2%A7%2001334%20-%20Preemption.md)
 - [&sect; 01335 - Unlawful advertisements on medium of electronic communication](%C2%A7%2001335%20-%20Unlawful%20advertisements%20on%20medium%20of%20electronic%20communication.md)
 - [&sect; 01335a - List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality](%C2%A7%2001335a%20-%20List%20of%20cigarette%20ingredients%3B%20annual%20submission%20to%20Secretary%3B%20transmittal%20to%20Congress%3B%20confidentiality.md)

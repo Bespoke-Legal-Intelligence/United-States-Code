@@ -44,7 +44,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 (2) If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under section 1762a(a) of this title to meet the requirement for the school year.
 
-(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L.90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L. 93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410; Pub. L. 107–171, title IV, §4301(a), May 13, 2002, 116 Stat. 330; Pub. L. 111–80, title VII, §749(a), Oct. 21, 2009, 123 Stat. 2131; Pub. L. 111–296, title IV, §401, Dec. 13, 2010, 124 Stat. 3259.)
+(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L. 90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L. 93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410; Pub. L. 107–171, title IV, §4301(a), May 13, 2002, 116 Stat. 330; Pub. L. 111–80, title VII, §749(a), Oct. 21, 2009, 123 Stat. 2131; Pub. L. 111–296, title IV, §401, Dec. 13, 2010, 124 Stat. 3259.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Subsec. (e)(2). Pub. L. 101–147, §131(a)(2), substituted “To the maximum ex
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–237 designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Subsecs. (a)(3), (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended section identically, in subsec. (a)(3), making technical amendment to reference to section 1769 of this title to reflect renumbering of corresponding section of original act and, in subsec. (b), substituting “June 1” for “May 15” and “July 1” for “June 15”.
+<b>1986</b>—Subsecs. (a)(3), (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended section identically, in subsec. (a)(3), making technical amendment to reference tosection 1769 of this title to reflect renumbering of corresponding section of original act and, in subsec. (b), substituting “June 1” for “May 15” and “July 1” for “June 15”.
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–35, §819(h), struck out references to section 1754 of this title, and section 5 of the Child Nutrition Act of 1966.
 
@@ -148,11 +148,11 @@ Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that
 
 #### Effective Date of 1994 Amendment
 
-Section 401 of Pub. L. 103–448 provided that: “Except as otherwise provided in this Act \[see Short Title of 1994 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall become effective on October 1, 1994.”
+Pub. L. 103–448, title IV, §401, Nov. 2, 1994, 108 Stat. 4751, provided that: “Except as otherwise provided in this Act \[see Short Title of 1994 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall become effective on October 1, 1994.”
 
 #### Effective Date of 1989 Amendment
 
-Section 131(c) of Pub. L. 101–147 provided that: “The amendments made by this section \[amending this section and section 1766 of this title\] shall become effective on July 1, 1989.”
+Pub. L. 101–147, title I, §131(c), Nov. 10, 1989, 103 Stat. 907, provided that: “The amendments made by this section \[amending this section and section 1766 of this title\] shall become effective on July 1, 1989.”
 
 #### Effective Date of 1981 Amendment
 
@@ -160,19 +160,19 @@ Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, 
 
 #### Effective Date of 1978 Amendment
 
-Section 14 of Pub. L. 95–627 provided that: “The provisions of this Act \[enacting section 1769c of this title, amending this section and sections 1757, 1760, 1761, 1762a, 1766, 1769, 1773, 1774, 1776, 1784, and 1786 of this title and enacting provisions set out as notes under this section, sections 1751, 1773, and 1786 of this title\], except sections 4, 5, and 8, shall become effective October 1, 1978. The provisions of section 4 of this Act \[amending section 1759a of this title\] shall become effective Jan\[u\]ary 1, 1979. The provisions of sections 5 \[amending this section and sections 1759a, 1761, and 1772 of this title\] and 8 \[amending section 1758 of this title\] of this Act shall become effective July 1, 1979, except that the Secretary may make the necessary changes in the income poverty guidelines for the special supplemental food program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\] not earlier than October 1, 1978, and not later than July 1, 1979.”
+Pub. L. 95–627, §14, Nov. 10, 1978, 92 Stat. 3625, provided that: “The provisions of this Act \[enacting section 1769c of this title, amending this section and sections 1757, 1760, 1761, 1762a, 1766, 1769, 1773, 1774, 1776, 1784, and 1786 of this title and enacting provisions setout as notes under this section, sections 1751, 1773, and 1786 of this title\], except sections 4, 5, and 8, shall become effective October 1, 1978. The provisions of section 4 of this Act \[amending section 1759a of this title\] shall become effective Jan\[u\]ary 1, 1979. The provisions of sections 5 \[amending this section and sections 1759a, 1761, and 1772 of this title\] and 8 \[amending section 1758 of this title\] of this Act shall become effective July 1, 1979, except that the Secretary may make the necessary changes in the income poverty guidelines for the special supplemental food program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\] not earlier than October 1, 1978, and not later than July 1, 1979.”
 
 #### Effective Date of 1977 Amendment
 
-Section 19 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
+Pub. L. 95–166, §19, Nov. 10, 1977, 91 Stat. 1345, provided that the amendment made by that section is effective July 1, 1977.
 
 #### Reduction in Commodity Assistance for Fiscal Year Ending September 30, 1981
 
-Section 202(a) of Pub. L. 96–499 provided that for the fiscal year ending Sept. 30, 1981, the national average value of donated foods or cash payments in lieu thereof, as determined under subsec. (e) of this section, shall be reduced by 2 cents, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(2), Aug. 13, 1981, 95 Stat. 535, effective July 1, 1981.
+Pub. L. 96–499, title II, §202(a), Dec. 5, 1980, 94 Stat. 2600, provided that for the fiscal year ending Sept. 30, 1981, the national average value of donated foods or cash payments in lieu thereof, as determined under subsec. (e) of this section, shall be reduced by 2 cents, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(2), Aug. 13, 1981, 95 Stat. 535, effective July 1, 1981.
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 1 of Pub. L. 93–13 provided that: “The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis.”
+Pub. L. 93–13, §1, Mar. 30, 1973, 87 Stat. 9, provided that: “The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

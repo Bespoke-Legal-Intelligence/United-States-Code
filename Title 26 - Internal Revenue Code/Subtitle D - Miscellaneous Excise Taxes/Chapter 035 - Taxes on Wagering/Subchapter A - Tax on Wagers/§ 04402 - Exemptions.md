@@ -38,17 +38,17 @@ Pub. L. 95–600, title V, §521(d)(2), Nov. 6, 1978, 92 Stat. 2885, provided th
 
 #### Effective Date of 1976 Amendment
 
-Section 1208(c)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section)\] shall apply with respect to wagers placed after March 10, 1964”.
+Pub. L. 94–455, title XII, §1208(c)(1), Oct. 4, 1976, 90 Stat. 1709, provided that: “The amendment made by subsection (a) \[amending this section)\] shall apply with respect to wagers placed after March 10, 1964”.
 
 #### Effective Date of 1965 Amendment
 
-Section 701(c)(2) of Pub. L. 89–44 provided in part that: “The amendments made by sections 403 \[amending sections 4461 and 4462 of this title\] (relating to occupational tax on coin-operated devices) and 404 \[repealing sections 4471 to 4474\] (relating to occupational tax on bowling alleys, billiard and pool tables), and by subsections (a) \[amending this section\], (b) \[amending section 4901 of this title\] and (d) \[amending section 4914 of this title\] of section 405 (relating to technical and conforming changes) shall apply on and after July 1, 1965.”
+Pub. L. 89–44, title VII, §701(c)(2), June 21, 1965, 79 Stat. 157, provided in part that: “The amendments made by sections 403 \[amending sections 4461 and 4462 of this title\] (relating to occupational tax on coin-operated devices) and 404 \[repealing sections 4471 to 4474\] (relating to occupational tax on bowling alleys, billiard and pool tables), and by subsections (a) \[amending this section\], (b) \[amending section 4901 of this title\] and (d) \[amending section 4914 of this title\] of section 405 (relating to technical and conforming changes) shall apply on and after July 1, 1965.”
 
-Section 813(b) of Pub. L. 89–44 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers placed after March 10, 1964.”
+Pub. L. 89–44, title VIII, §813(b), June 21, 1965, 79 Stat. 170, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers placed after March 10, 1964.”
 
 #### Effective Date of 1958 Amendment
 
-Section 152(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed under section 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
+Pub. L. 85–859, title I, §152(c), Sept. 2, 1958, 72 Stat. 1305, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed under section 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
 
 &emsp;“(1) shall be the amount reckoned proportionately from such effective date through June 30, 1959, and
 

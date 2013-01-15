@@ -4,16 +4,12 @@
 | :--- | ---: |
 | [100\.](%C2%A7%2000100%20-%20Definitions.md) | Definitions. |
 | [101\.](%C2%A7%2000101%20-%20Inventions%20patentable.md) | Inventions patentable. |
-| [102\.](%C2%A7%2000102%20-%20Conditions%20for%20patentability%3B%20novelty%20and%20loss%20of%20right%20to%20patent.md) | Conditions for patentability; novelty and loss of right to patent. |
+| [102\.](%C2%A7%2000102%20-%20Conditions%20for%20patentability%3B%20novelty.md) | Conditions for patentability; novelty. |
 | [103\.](%C2%A7%2000103%20-%20Conditions%20for%20patentability%3B%20non-obvious%20subject%20matter.md) | Conditions for patentability; non-obvious subject matter. |
-| [104\.](%C2%A7%2000104%20-%20Invention%20made%20abroad.md) | Invention made abroad. |
+| \[104. | Repealed.\] |
 | [105\.](%C2%A7%2000105%20-%20Inventions%20in%20outer%20space.md) | Inventions in outer space. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 112–29, §3(b)(3), (d), (n), Sept. 16, 2011, 125 Stat. 287, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this analysis is amended by amending item 102 to read “Conditions for patentability; novelty” and by striking out item 104. See 2011 Amendment note below.</i>
 
 #### Amendments
 
@@ -28,7 +24,7 @@
 
 - [&sect; 00100 - Definitions](%C2%A7%2000100%20-%20Definitions.md)
 - [&sect; 00101 - Inventions patentable](%C2%A7%2000101%20-%20Inventions%20patentable.md)
-- [&sect; 00102 - Conditions for patentability; novelty and loss of right to patent](%C2%A7%2000102%20-%20Conditions%20for%20patentability%3B%20novelty%20and%20loss%20of%20right%20to%20patent.md)
+- [&sect; 00102 - Conditions for patentability; novelty](%C2%A7%2000102%20-%20Conditions%20for%20patentability%3B%20novelty.md)
 - [&sect; 00103 - Conditions for patentability; non-obvious subject matter](%C2%A7%2000103%20-%20Conditions%20for%20patentability%3B%20non-obvious%20subject%20matter.md)
-- [&sect; 00104 - Invention made abroad](%C2%A7%2000104%20-%20Invention%20made%20abroad.md)
+- [&sect; 00104 - Repealed. Pub. L. 112&#8211;29, &sect;3(d), Sept. 16, 2011, 125 Stat. 287](%C2%A7%2000104%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9329%2C%20%C2%A73%28d%29%2C%20Sept.%2016%2C%202011%2C%20125%20Stat.%20287.md)
 - [&sect; 00105 - Inventions in outer space](%C2%A7%2000105%20-%20Inventions%20in%20outer%20space.md)

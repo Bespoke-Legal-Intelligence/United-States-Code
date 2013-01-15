@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [4041\.](%C2%A7%2004041%20-%20Imposition%20of%20tax.md) | Imposition of tax. |
 | [4042\.](%C2%A7%2004042%20-%20Tax%20on%20fuel%20used%20in%20commercial%20transportation%20on%20inland%20waterways.md) | Tax on fuel used in commercial transportation on inland waterways. |
+| [4043\.](%C2%A7%2004043%20-%20Surtax%20on%20fuel%20used%20in%20aircraft%20part%20of%20a%20fractional%20ownership%20program.md) | Surtax on fuel used in aircraft part of a fractional ownership program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -12,6 +13,8 @@
 A prior subchapter B of chapter 31 was redesignated subchapter C by Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438.
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–95, title XI, §1103(a)(4), Feb. 14, 2012, 126 Stat. 151, added item 4043.
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438, redesignated this subchapter, formerly subchapter A, as subchapter B. Former subchapter B redesignated C.
 
@@ -26,3 +29,4 @@ A prior subchapter B of chapter 31 was redesignated subchapter C by Pub. L. 101�
 
 - [&sect; 04041 - Imposition of tax](%C2%A7%2004041%20-%20Imposition%20of%20tax.md)
 - [&sect; 04042 - Tax on fuel used in commercial transportation on inland waterways](%C2%A7%2004042%20-%20Tax%20on%20fuel%20used%20in%20commercial%20transportation%20on%20inland%20waterways.md)
+- [&sect; 04043 - Surtax on fuel used in aircraft part of a fractional ownership program](%C2%A7%2004043%20-%20Surtax%20on%20fuel%20used%20in%20aircraft%20part%20of%20a%20fractional%20ownership%20program.md)

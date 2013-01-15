@@ -6,7 +6,7 @@ The Secretary shall facilitate the creation of, and maintain, a network of patie
 
 #### (b) Data standards
 
-The Secretary may determine common formats for the reporting to and among the network of patient safety databases maintained under subsection (a) of this section of nonidentifiable patient safety work product, including necessary work product elements, common and consistent definitions, and a standardized computer interface for the processing of such work product. To the extent practicable, such standards shall be consistent with the administrative simplification provisions of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\].
+The Secretary may determine common formats for the reporting to and among the network of patient safety databases maintained under subsection (a) of this section of nonidentifiable patient safety work product, including necessary work product elements, common and consistent definitions, and a standardized computer interface for the processing of suchwork product. To the extent practicable, such standards shall be consistent with the administrative simplification provisions of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\].
 
 #### (c) Use of information
 
@@ -16,7 +16,7 @@ Information reported to and among the network of patient safety databases under 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to partC (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

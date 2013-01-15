@@ -70,7 +70,7 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functionaladvisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
 
 (2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 3802 of this title, as appropriate.
 
@@ -106,7 +106,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(B) the appropriate advisory committee established under this section.
 
-(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, may be disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c) of this section. Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a) of this section.
+(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, maybe disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c) of this section. Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a) of this section.
 
 #### (h) Advisory committee support
 
@@ -130,7 +130,7 @@ In addition to any advisory committee established under this section, the Presid
 
 Nothing contained in this section shall be construed to authorize or permit any individual to participate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
 
-#### (<i>l</i>) Advisory committees established by Department of Agriculture
+#### (l) Advisory committees established by Department of Agriculture
 
 The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c) of this section.
 
@@ -152,7 +152,7 @@ Executive Order Numbered 12188, referred to in subsec. (a)(1)(C), is set out as 
 
 The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (<i>l</i>), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (l), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Subsec. (e)(2). Pub. L. 107–210, §2110(a)(5)(C), substituted “section 3802 
 
 Subsec. (b)(1). Pub. L. 103–465, §128, inserted “nongovernmental environmental and conservation organizations,” after “retailers,”.
 
-<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (<i>l</i>), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (l), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
 
 <b>1986</b>—Subsecs. (m), (n). Pub. L. 99–514 redesignated subsec. (n) as (m).
 
@@ -208,9 +208,9 @@ Subsec. (i). Pub. L. 96–39, §1103(18)(A)–(C), struck out in provision befor
 
 Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
 
-Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section”for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
+Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
-Subsec. (<i>l</i>). Pub. L. 96–39, §1103(21), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 96–39, §1103(21), added subsec. (l).
 
 #### Effective Date of 2006 Amendment
 
@@ -274,15 +274,15 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set outunder section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(<i>o</i>), Sept. 29, 1997, 62 F.R. 51755, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(o), Sept. 29, 1997, 62 F.R. 51755, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set outas a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

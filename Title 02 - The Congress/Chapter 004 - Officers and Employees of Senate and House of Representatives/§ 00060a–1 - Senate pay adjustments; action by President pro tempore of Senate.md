@@ -48,7 +48,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1987 Amendment
 
-Section 101(i) \[title III, §311(c)\] of Pub. L. 100–202 provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\] or any other provision of law, subsections (a) and (b) of this section \[amending this section\] shall be effective in the case of pay orders issued by the President pro tempore of the Senate on or after January 1, 1988.”
+Pub. L. 100–202, §101(i) \[title III, §311(c)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\] or any other provision of law, subsections (a) and (b) of this section \[amending this section\] shall be effective in the case of pay orders issued by the President pro tempore of the Senate on or after January 1, 1988.”
 
 #### Effective Date of 1972 Amendment
 
@@ -114,7 +114,7 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 &emsp;(13) The appointing authority of any Senate entity not referred to under paragraphs (1) through (12) for any employee under its jurisdiction.
 
-(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of this order).
+(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of this order).
 
 #### committee staffs
 
@@ -296,7 +296,7 @@ Pub. L. 85–462, §4(c), (d), June 20, 1958, 72 Stat. 208, provided that:
 
 “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-“ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 perannum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+“ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate and House—1955
 

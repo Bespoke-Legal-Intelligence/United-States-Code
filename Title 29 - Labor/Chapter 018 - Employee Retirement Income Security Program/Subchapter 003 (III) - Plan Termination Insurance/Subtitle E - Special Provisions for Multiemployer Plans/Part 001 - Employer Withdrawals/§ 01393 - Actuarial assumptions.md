@@ -10,7 +10,7 @@ The corporation may prescribe by regulation actuarial assumptions which may be u
 
 #### (b) Factors determinative of unfunded vested benefits of plan for computing withdrawal liability of employer
 
-In determining the unfunded vested benefits of a plan for purposes of determining an employer's withdrawal liability under this part, the plan actuary may—
+In determining the unfunded vested benefits of a plan for purposes of determining an employer'swithdrawal liability under this part, the plan actuary may—
 
 &emsp;(1) rely on the most recent complete actuarial valuation used for purposes of section 412 of title 26 and reasonable estimates for the interim years of the unfunded vested benefits, and
 
@@ -28,7 +28,7 @@ For purposes of this part, the term “unfunded vested benefits” means with re
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

@@ -6,9 +6,9 @@ Protection of State Sovereignty.—The authorization of the appropriation of Fed
 
 (b)
 
-Purpose of Projects.—The projects described in section 1702 of the SAFETEA–LU, section 1602 of the Transportation Equity Act for the 21st Century, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2027 et seq.), and section 149(a) of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (101 Stat. 181 et seq.) are intended to establish eligibility for Federal-aid highway funds made available for such projects by section 1101(a)(16) of the SAFETEA–LU, section 1101(a)(13) of the Transportation Equity Act for the 21st Century, section 117 of this title, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991, and subsections (b), (c), and (d) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987, respectively, and are not intended to define the scope or limits of Federal action in a manner inconsistent with subsection (a).
+Purpose of Projects.—The projects described in section 1702 of the SAFETEA–LU, section 1602 of the Transportation Equity Act for the 21st Century, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2027 et seq.), and section 149(a) of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (101 Stat. 181 et seq.) are intended to establish eligibility for Federal-aid highway funds made available for such projects by section 1101(a)(16) of the SAFETEA–LU, section 1101(a)(13) of the Transportation Equity Act for the 21st Century, sections 1103 through 1108 of the Intermodal Surface Transportation Efficiency Act of 1991, and subsections (b), (c), and (d) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987, respectively, and are not intended to define the scope or limits of Federal action in a manner inconsistent with subsection (a).
 
-(Added Pub. L. 93–87, title I, §123(a), Aug. 13, 1973, 87 Stat. 261; amended Pub. L. 105–178, title I, §1601(b), June 9, 1998, 112 Stat. 256; Pub. L. 109–59, title I, §1701(e), Aug. 10, 2005, 119 Stat. 1256.)
+(Added Pub. L. 93–87, title I, §123(a), Aug. 13, 1973, 87 Stat. 261; amended Pub. L. 105–178, title I, §1601(b), June 9, 1998, 112 Stat. 256; Pub. L. 109–59, title I, §1701(e), Aug. 10, 2005, 119 Stat. 1256; Pub. L. 112–141, div. A, title I, §1519(c)(10), July 6, 2012, 126 Stat. 576.)
 
 #### References in Text
 
@@ -26,7 +26,13 @@ Section 1101(a)(13) of the Transportation Equity Act for the 21st Century, refer
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 struck out “section 117 of this title,” after “21st Century,” second time appearing.
+
 <b>2005</b>—Subsec. (b). Pub. L. 109–59 inserted “section 1702 of the SAFETEA–LU,” after “described in” and “section 1101(a)(16) of the SAFETEA–LU,” after “for such projects by” and substituted “section 117 of this title,” for “117 of title 23, United States Code,”.
 
 <b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

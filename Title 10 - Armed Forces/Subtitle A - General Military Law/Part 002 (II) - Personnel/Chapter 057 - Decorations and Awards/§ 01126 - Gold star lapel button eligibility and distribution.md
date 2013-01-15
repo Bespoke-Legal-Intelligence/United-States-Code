@@ -20,7 +20,7 @@
 
 (b) Under regulations to be prescribed by the Secretary of Defense, the Secretary concerned, upon application to him, shall furnish one gold star lapel button without cost to the widow and to each parent and next of kin of a member who lost or loses his or her life under any circumstances prescribed in subsection (a).
 
-(c) Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
+(c) Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglecton the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
 
 (d) In this section:
 

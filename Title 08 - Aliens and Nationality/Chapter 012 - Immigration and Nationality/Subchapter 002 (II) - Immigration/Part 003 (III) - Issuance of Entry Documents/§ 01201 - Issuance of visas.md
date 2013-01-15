@@ -16,7 +16,7 @@ Each alien who applies for a visa shall be registered in connection with his app
 
 #### (c) Period of validity; requirement of visa
 
-An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business. A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States. An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that he was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible: <i>Provided</i>, That the immigrant is found by the consular officer to be eligible for an immigrant visa and the immigrant pays again the statutory fees for an application and an immigrant visa.
+An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business. A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of anonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States. An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that he was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible: <i>Provided</i>, That the immigrant is found by the consular officer to be eligible for an immigrant visa and the immigrant pays again the statutory fees for an application and an immigrant visa.
 
 #### (d) Physical examination
 
@@ -88,11 +88,11 @@ Amendment by Pub. L. 108–458 effective Dec. 17, 2004, and applicable to revoca
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(G), (f)(2)(B) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(G), (f)(2)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Section 302(e)(8) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 162(e) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §302(e)(8), Dec. 12, 1991, 105 Stat. 1746, provided that the amendment made by section 302(e)(8) is effective as if included in section 162(e) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
+Pub. L. 99–653, §23(b), as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 
@@ -112,7 +112,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Processing of Visa Applications
 
@@ -158,7 +158,7 @@ Reports.—Not later than 180 days after the date of enactment of this Act \[Nov
 
 #### Permitting Extension of Period of Validity of Immigrant Visas for Certain Residents of Hong Kong
 
-Section 154 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §302(d)(4), Dec. 12, 1991, 105 Stat. 1745, provided that:
+Pub. L. 101–649, title I, §154, Nov. 29, 1990, 104 Stat. 5006, as amended by Pub. L. 102–232, title III, §302(d)(4), Dec. 12, 1991, 105 Stat. 1745, provided that:
 
 “(a)
 

@@ -64,9 +64,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–435, title IV, §405(b), Dec. 20, 2006, 120 Stat. 3232, provided that: “Notwithstanding any provision of the amendment made by subsection (a) \[amending this section\], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
+Pub. L. 109–435, title IV, §405(b), Dec. 20, 2006, 120 Stat. 3232, provided that: “Notwithstanding any provision ofthe amendment made by subsection (a) \[amending this section\], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
 
-&emsp;“(1) with respect to market-dominant products, the date as of which the regulations promulgated undersection 3622 of title 39, United States Code (as amended by section 201(a)) take effect; and
+&emsp;“(1) with respect to market-dominant products, the date as of which the regulations promulgated under section 3622 of title 39, United States Code (as amended by section 201(a)) take effect; and
 
 &emsp;“(2) with respect to competitive products, the date as of which the regulations promulgated under section 3633 of title 39, United States Code (as amended by section 202) take effect.”
 

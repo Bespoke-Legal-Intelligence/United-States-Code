@@ -34,7 +34,7 @@ The Secretary, acting through the Office, shall—
 
 &emsp;(11) monitor all Federal and State research programs dealing with coal extraction and use and recommend to Congress the research and demonstration projects and necessary changes in public policy which are designated to (A) improve feasibility of underground coal mining, and (B) improve surface mining and reclamation techniques directed at eliminating adverse environmental and social impacts;
 
-&emsp;(12) cooperate with other Federal agencies and State regulatory authorities to minimize duplication of inspections, enforcement, and administration of this chapter; and
+&emsp;(12) cooperate with other Federal agencies and State regulatory authorities to minimizeduplication of inspections, enforcement, and administration of this chapter; and
 
 &emsp;(13) perform such other duties as may be provided by law and relate to the purposes of this chapter.
 
@@ -46,7 +46,7 @@ The Director shall not use either permanently or temporarily any person charged 
 
 #### (f) Conflict of interest; penalties; rules and regulations; report to Congress
 
-No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coalmining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
+No employee of the Office or any other Federal employee performing any function or duty under this chapter shall have a direct or indirect financial interest in underground or surface coal mining operations. Whoever knowingly violates the provisions of the above sentence shall, upon conviction, be punished by a fine of not more than $2,500, or by imprisonment for not more than one year, or both. The Director shall (1) within sixty days after August 3, 1977, publish regulations, in accordance with section 553 of title 5, to establish the methods by which the provisions of this subsection will be monitored and enforced, including appropriate provisions for the filing by such employees and the review of statements and supplements thereto concerning their financial interests which may be affected by this subsection, and (2) report to the Congress as part of the annual report (section 1296 of this title) on the actions taken and not taken during the preceding calendar year under this subsection.
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 

@@ -42,7 +42,7 @@ Qualified guarantee.—The term “qualified guarantee”, with respect to a maj
 
 &emsp;(3)
 
-Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor,the Secretary of the Navy, and a major United States investment management firm that—
+Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Navy, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 

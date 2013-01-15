@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–719 inserted provision that zoning restrictions to be taken into account at Los Alamos shall be those which the local government is likely to enact with respect to those lots.
+<b>1962</b>—Subsec. (b). Pub. L. 87–719 inserted provision that zoning restrictions to be taken into account atLos Alamos shall be those which the local government is likely to enact with respect to those lots.
 
 #### Transfer of Functions
 

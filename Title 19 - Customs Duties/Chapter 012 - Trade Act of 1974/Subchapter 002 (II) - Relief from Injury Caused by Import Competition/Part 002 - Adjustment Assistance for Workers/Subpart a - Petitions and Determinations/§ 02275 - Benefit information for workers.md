@@ -12,7 +12,7 @@
 
 (c) Upon issuing a certification under section 2273 of this title, the Secretary shall notify the Secretary of Commerce of the identity of each firm covered by the certification.
 
-(Pub. L. 93–618, title II, §225, as added Pub. L. 97–35, title XXV, §2502, Aug. 13, 1981, 95 Stat. 881;amended Pub. L. 100–418, title I, §1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, §503(b), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §123(b)(1), Aug. 6, 2002, 116 Stat. 944; Pub. L. 111–5, div. B, title I, §1812, Feb. 17, 2009, 123 Stat. 375; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §225, as added Pub. L. 97–35, title XXV, §2502, Aug. 13, 1981, 95 Stat. 881; amended Pub. L. 100–418, title I, §1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, §503(b), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §123(b)(1), Aug. 6, 2002, 116 Stat. 944; Pub. L. 111–5, div. B, title I, §1812, Feb. 17, 2009, 123 Stat. 375; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 

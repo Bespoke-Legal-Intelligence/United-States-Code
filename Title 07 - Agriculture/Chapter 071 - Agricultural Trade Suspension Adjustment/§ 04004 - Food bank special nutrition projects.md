@@ -8,7 +8,7 @@ The Secretary of Agriculture shall carry out special nutrition projects to provi
 
 (1) No food bank may participate in the special nutrition projects conducted under this section unless an application therefor is submitted to and approved by the Secretary. Such application shall be submitted in such form and manner and shall contain such information as the Secretary shall prescribe.
 
-(2) Each food bank participating in the special nutrition projects under this section shall establish a recordkeeping system and internal procedures to monitor the use of agricultural commodities and other foods provided under this section. The Secretary shall develop standards by which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
+(2) Each food bank participating in the special nutrition projects under this section shall establish a recordkeeping system and internal procedures to monitor the use of agricultural commodities and other foods provided under this section. The Secretary shall develop standardsby which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
 
 #### (c) Quantities and types of agricultural commodities; regulations for designation of eligible participants
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Community Services Administration
 
-Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office ofCommunity Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 

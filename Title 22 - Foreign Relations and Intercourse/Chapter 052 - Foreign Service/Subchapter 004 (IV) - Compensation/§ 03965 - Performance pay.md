@@ -62,7 +62,7 @@ Pub. L. 107–228, div. A, title III, §312(b), Sept. 30, 2002, 116 Stat. 1378, 
 
 #### Senior Foreign Service Performance Pay
 
-Section 173(a)–(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(gg), Oct. 25, 1994, 108 Stat. 4303, provided that:
+Pub. L. 103–236, title I, §173(a)–(c), Apr. 30, 1994, 108 Stat. 412, as amended by Pub. L. 103–415, §1(gg), Oct. 25, 1994, 108 Stat. 4303, provided that:
 
 “(a)
 
@@ -80,7 +80,7 @@ Application to USIA, AID, and ACDA.—Subsections (a) and (b) shall apply to the
 
 #### Review of Performance Pay Programs
 
-Section 175(a) of Pub. L. 100–204 provided that:
+Pub. L. 100–204, title I, §175(a), Dec. 22, 1987, 101 Stat. 1361, provided that:
 
 “(1)
 

@@ -22,7 +22,7 @@ This chapter shall apply—
 
 &emsp;&emsp;&emsp;(ii) an emission control area designated pursuant to section 1903 of this title; or
 
-&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretaryand each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
+&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
 
 &emsp;&emsp;(C) to a ship that is entitled to fly the flag of, or operating under the authority of, a party to Annex VI, and is in—
 
@@ -148,7 +148,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (h) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations oroperational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
 #### (i) Savings clause
 
@@ -252,7 +252,7 @@ Sense of Congress.—(1) It is the sense of Congress that it should be an object
 
 #### Installation Schedule for Plastics Processor Equipment Aboard Ships; Request for Proposals for Equipment
 
-Section 1003(e) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title X, §1003(e), Nov. 30, 1993, 107 Stat. 1747, provided that:
 
 “(1) Not later than October 1, 1994, the Secretary of the Navy shall release a request for proposals for equipment (hereinafter in this subsection referred to as ‘plastics processor’) required for the long-term collection and storage of plastic aboard ships owned or operated by the Navy.
 

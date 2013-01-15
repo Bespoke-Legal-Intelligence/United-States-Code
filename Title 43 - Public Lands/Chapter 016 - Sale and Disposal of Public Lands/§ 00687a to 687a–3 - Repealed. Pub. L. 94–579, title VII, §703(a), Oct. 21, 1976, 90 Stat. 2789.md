@@ -10,9 +10,9 @@ Section 687a–3, act May 14, 1898, ch. 299, §10, 30 Stat. 413, related to mult
 
 #### Effective Date of Repeal
 
-Section 703(a) of Pub. L. 94–579 provided that the repeal made by that section is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) iseffective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 

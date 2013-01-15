@@ -134,5 +134,5 @@ Pub. L. 108–176, title VIII, §805(b), Dec. 12, 2003, 117 Stat. 2588, provided
 
 #### Effective Date of 1984 Amendment
 
-Section 5(b) of Pub. L. 98–443 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 98–443, §5(b), Oct. 4, 1984, 98 Stat. 1705, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1985.”
 

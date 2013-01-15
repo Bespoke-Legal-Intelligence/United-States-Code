@@ -2,7 +2,7 @@
 
 #### (a) Authority of Commission
 
-Except as otherwise specifically provided herein, this subchapter shall be enforced by the Federal Trade Commission under rules, regulations,and procedure provided for in the Federal Trade Commission Act.
+Except as otherwise specifically provided herein, this subchapter shall be enforced by the Federal Trade Commission under rules, regulations, and procedure provided for in the Federal Trade Commission Act.
 
 The Commission is authorized and directed to prevent any person from violating the provisions of this subchapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter; and any such person violating the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though the applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
 

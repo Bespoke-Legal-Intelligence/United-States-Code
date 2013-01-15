@@ -22,7 +22,7 @@ Subsec. (d). Pub. L. 98–369, §525(a), struck out subsec. (d) which related to
 
 Subsec. (e). Pub. L. 98–369, §525(a), struck out subsec. (e) which related to exclusion of individual retirement accounts.
 
-Pub. L. 98–369, §491(d)(34), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), struck out par. (3) which excluded from the value of the gross estate the value of an annuity receivable by any beneficiary, other than the executor, under a retirement bond described in section 409(a), and substituted in provision following par. (2) “or 408(d)(3)” for “405(d)(3), 408(d)(3), or 409(b)(3)(C)”, and substituted “or annuity” for “, annuity, or bond” wherever appearing.
+Pub. L. 98–369, §491(d)(34), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), struck out par. (3) which excluded from the value of the gross estate the value of an annuity receivable by anybeneficiary, other than the executor, under a retirement bond described in section 409(a), and substituted in provision following par. (2) “or 408(d)(3)” for “405(d)(3), 408(d)(3), or 409(b)(3)(C)”, and substituted “or annuity” for “, annuity, or bond” wherever appearing.
 
 Subsecs. (f), (g). Pub. L. 98–369, §525(a), struck out subsec. (f) which related to lump sum distributions and an exception where the recipient elects not to take 10-year averaging, and subsec. (g) which related to a $100,000 limitation on the exclusions under subsecs. (c) and (e).
 
@@ -36,7 +36,7 @@ Subsec. (e). Pub. L. 97–248, §245(b), substituted “Subject to the limitatio
 
 Subsec. (g). Pub. L. 97–248, §245(a), added subsec. (g).
 
-<b>1981</b>—Subsec. (c). Pub. L. 97–34, §311(d)(1), provided that for purposes of subsec. (c), any deductible employee contributions, within the meaning of par. (5) of section 72(<i>o</i>), shall be considered as made by a person other than the decedent.
+<b>1981</b>—Subsec. (c). Pub. L. 97–34, §311(d)(1), provided that for purposes of subsec. (c), any deductible employee contributions, within the meaning of par. (5) of section 72(o), shall be considered as made by a person other than the decedent.
 
 Subsec. (e). Pub. L. 97–34, §313(b)(3), inserted reference to rollover contribution described in section 405(d)(3).
 
@@ -44,7 +44,7 @@ Pub. L. 97–34, §311(h)(4), substituted “section 219” for “section 219 o
 
 <b>1980</b>—Subsec. (f)(2). Pub. L. 96–222 substituted “(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution” for “without the application of paragraph (2) thereof”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))”for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted “section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3)),” after “403(a)(4)” and inserted “or 220” after “section 219” wherever appearing in provisions following par. (3).
 
@@ -70,7 +70,7 @@ Subsec. (c)(3) and closing sentences. Pub. L. 85–866, §23(e), added par. (3),
 
 #### Effective Date of 1986 Amendment
 
-Section 1852(e)(1)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1852(e)(1)(B), Oct. 22, 1986, 100 Stat. 2868, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -78,7 +78,7 @@ Amendment by section 1848(d) of Pub. L. 99–514 effective, except as otherwise 
 
 Amendment by section 491(d)(34) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Section 525(b)(1), (2), (4) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1852(e)(3), Oct. 22, 1986, 100 Stat. 2868, provided that:
+Pub. L. 98–369, div. A, title V, §525(b)(1), (2), (4), July 18, 1984, 98 Stat. 874, as amended by Pub. L. 99–514, title XVIII, §1852(e)(3), Oct. 22, 1986, 100 Stat. 2868, provided that:
 
 “(1)
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1982 Amendment
 
-Section 245(c) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title V, §525(b)(3), July 18, 1984, 98 Stat. 874, provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1982, except that such amendments shall not apply to the estate of any decedent who was a participant in any plan who was in pay status on December 31, 1982, and irrevocably elected before January 1, 1983, the form of benefit.”
+Pub. L. 97–248, title II, §245(c), Sept. 3, 1982, 96 Stat. 525, as amended by Pub. L. 98–369, div. A, title V, §525(b)(3), July 18, 1984, 98 Stat. 874, provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1982, except that such amendments shall not apply to the estate of any decedent who was a participant in any plan who was in pay status on December 31, 1982, and irrevocably elected before January 1, 1983, the form of benefit.”
 
 #### Effective Date of 1981 Amendment
 
@@ -118,19 +118,19 @@ Amendment by section 313(b)(3) of Pub. L. 97–34 applicable to redemptions afte
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, seesection 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
+Amendment by Pub. L. 96–222 applicable with respect to the estates of decedents dying after Apr. 1, 1980, see section 101(b)(1)(D) of Pub. L. 96–222, set out as a note under section 691 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 142(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1978.”
+Pub. L. 95–600, title I, §142(c), Nov. 6, 1978, 92 Stat. 2796, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1978.”
 
 Amendment by section 156(c)(4) of Pub. L. 95–600 applicable to distributions or transfers made after Dec. 31, 1977, in taxable years beginning after such date, see section 156(d) of Pub. L. 95–600, set out as a note under section 403 of this title.
 
-Section 702(j)(3)(A) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(j)(3)(A), Nov. 6, 1978, 92 Stat. 2932, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2009(e)(3)(A) of Pub. L. 94–455 provided that: “The amendments made by paragraphs (1), (2), and (3) of subsection (c) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, §2009(e)(3)(A), Oct. 4, 1976, 90 Stat. 1896, provided that: “The amendments made by paragraphs (1), (2), and (3) of subsection (c) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1974 Amendment
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sep
 
 #### Effective Date of 1972 Amendment
 
-Section 2(b) of Pub. L. 92–580, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act.”
+Pub. L. 92–580, §2(b), Oct. 27, 1972, 86 Stat. 1276, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act.”
 
 #### Effective Date of 1969 Amendment
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Section 2(c) of Pub. L. 89–365 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to decedents dying after December 31, 1965. The amendments made by subsection (b) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1965.”
+Pub. L. 89–365, §2(c), Mar. 8, 1966, 80 Stat. 33, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to decedents dying after December 31, 1965. The amendments made by subsection (b) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1965.”
 
 #### Effective Date of 1962 Amendment
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 23(e) of Pub. L. 85–866 applicable with respect to estates of decedents dying after Dec. 31, 1957, see section 23(g) of Pub. L. 85–866, set out as a note under section 403 of this title.
 
-Section 67(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1953.”
+Pub. L. 85–866, title I, §67(b), Sept. 2, 1958, 72 Stat. 1659, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1953.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

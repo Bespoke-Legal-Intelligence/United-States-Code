@@ -36,7 +36,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 
-(1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (<i>l</i>) of this section.
+(1) Within sixty days of receipt of the management plan, each county shall submit to theCommission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (l) of this section.
 
 (2) Within two hundred seventy days of receipt of the management plan, each county shall adopt a special management area land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a special management area land use ordinance shall promptly submit the adopted ordinance to the Commission.
 
@@ -46,7 +46,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 (2) If the Commission makes a tentative determination that the land use ordinance is inconsistent with the management plan, the Commission shall state the reasons for the determination and shall return the ordinance to the appropriate county with suggested modifications required for consistency with the management plan.
 
-(3) Each county shall have ninety days after it is notified by the Commission to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Commission for tentative determination of consistency. The Commission shall have sixty days to make a tentative consistency determination on the resubmitted ordinance. If found consistent, the land use ordinance shall be transmitted by the Commission to the Secretary for concurrence that the ordinance is consistent with the management plan. If the Commission finds the resubmitted ordinance inconsistent, the Commission shall adopt an ordinance pursuant to subsection (<i>l</i>) of this section.
+(3) Each county shall have ninety days after it is notified by the Commission to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Commission for tentative determination of consistency. The Commission shall have sixty days to make a tentative consistency determination on the resubmitted ordinance. If found consistent, the land use ordinance shall be transmitted by the Commission to the Secretary for concurrence that the ordinance is consistent with the management plan. If the Commission finds the resubmitted ordinance inconsistent, the Commission shall adopt an ordinance pursuant to subsection (l) of this section.
 
 #### (j) Concurrence by Secretary
 
@@ -58,9 +58,9 @@ Denial of Concurrence.—If concurrence is denied, the Secretary shall state the
 
 #### (k) Commission reconsideration
 
-Upon receipt of notification of nonconcurrence by the Secretary, the Commission shall resubmit the land use ordinance to the appropriate county. Such county shall within ninety days, reconsider and revise the ordinance and resubmit the ordinance to the Commission for reconsideration in accordance with the provisions of this section. Should the Secretary again deny concurrence, the Commission shall either prepare a land use ordinance for such county pursuant to subsection (<i>l</i>) of this section or, by a two-thirds vote of the membership of the Commission including a majority of the members appointed from each State, determine that the ordinance is consistent with the management plan.
+Upon receipt of notification of nonconcurrence by the Secretary, the Commission shall resubmit the land use ordinance to the appropriate county. Such county shall within ninety days, reconsider and revise the ordinance and resubmit the ordinance to the Commission for reconsideration in accordance with the provisions of this section. Should the Secretary again deny concurrence, the Commission shall either prepare a land use ordinance for such county pursuant to subsection (l) of this section or, by a two-thirds vote of the membership of the Commission including a majority of the members appointed from each State, determine that the ordinance is consistent with the management plan.
 
-#### (<i>l</i>) Commission ordinances
+#### (l) Commission ordinances
 
 (1) Within ninety days after making a determination that a county has failed to comply with the provisions of subsection (h) of this section, the Commission shall make and publish an ordinance setting standards for the use of non-Federal lands of such county within the boundaries of the special management areas. The ordinances shall have the object of assuring that the use of such lands is consistent with the management plan. The ordinances may differ amongst the several parcels of land within the boundaries of the special management areas. The ordinances may from time to time be amended by the Commission.
 
@@ -84,7 +84,7 @@ In the event the Commission has adopted an ordinance pursuant to this section, t
 
 If the Secretary does not concur in any land use ordinance approved or adopted by the Commission pursuant to this section, the availability of certain funds to the relevant county shall be governed by section 544n(c) of this title.
 
-#### (<i>o</i>) Special rules
+#### (o) Special rules
 
 #### (1) In general
 
@@ -98,7 +98,7 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 #### Amendments
 
-<b>2000</b>—Subsec. (<i>o</i>). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
+<b>2000</b>—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 

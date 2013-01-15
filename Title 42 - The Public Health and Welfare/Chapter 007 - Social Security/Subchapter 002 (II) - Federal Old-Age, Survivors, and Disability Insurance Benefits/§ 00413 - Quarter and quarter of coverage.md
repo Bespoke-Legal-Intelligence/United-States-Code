@@ -132,7 +132,7 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 #### Effective Date of 1990 Amendment
 
-Section 5117(c)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall apply only with respect to individuals who—
+Pub. L. 101–508, title V, §5117(c)(3), Nov. 5, 1990, 104 Stat. 1388–278, provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall apply only with respect to individuals who—
 
 &emsp;“(A) make application for benefits under section 202 of the Social Security Act \[section 402 of this title\] after the 18-month period following the month in which this Act is enacted \[November 1990\], and
 
@@ -140,7 +140,7 @@ Section 5117(c)(3) of Pub. L. 101–508 provided that: “The amendments made by
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 10208(b)(2)(A), (B) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
+Amendment by section 10208(b)(2)(A), (B) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c)of Pub. L. 101–239, set out as a note under section 430 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -150,9 +150,9 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Amendment by section 351(c) of Pub. L. 95–216 effective Jan. 1, 1978, see section 351(d) of Pub. L. 95–216, set out as a note under section 409 of this title.
 
-Section 352(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section\] shall be effective January 1, 1978.”
+Pub. L. 95–216, title III, §352(c), Dec. 20, 1977, 91 Stat. 1552, provided that: “The amendments made by this section \[amending this section\] shall be effective January 1, 1978.”
 
-#### Effective Date of 1973 Amendments
+#### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–233 applicable only with respect to remuneration paid after, and taxable years beginning after, 1973, see section 5(e) of Pub. L. 93–233, set out as a note under section 409 of this title.
 
@@ -170,7 +170,7 @@ Amendment by section 203(a)(3)(A) of Pub. L. 92–5 applicable only with respect
 
 Amendment by section 108(a)(3)(A) of Pub. L. 90–248 applicable only with respect to remuneration paid after December 1967, and amendment by section 108(a)(3)(B) applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of this title.
 
-Section 155(b)(2) of Pub. L. 90–248, as amended by Pub. L. 101–508, title V, §5117(c)(2), Nov. 5, 1990, 104 Stat. 1388–278, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only in the case of an individual who applies for benefits under section 202(a) of the Social Security Act \[section 402(a) of this title\] after the date of the enactment of this Act \[Jan. 2, 1968\], or who dies without being entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\].”
+Pub. L. 90–248, title I, §155(b)(2), Jan. 2, 1968, 81 Stat. 866, as amended by Pub. L. 101–508, title V, §5117(c)(2), Nov. 5, 1990, 104 Stat. 1388–278, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only in the case of an individual who applies for benefits under section 202(a) of the Social Security Act \[section 402(a) of this title\] after the date of the enactment of this Act \[Jan. 2, 1968\], or who dies without being entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\].”
 
 #### Effective Date of 1965 Amendment
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 87–64 applicable with respect to monthly benefits for mon
 
 #### Effective Date of 1960 Amendment
 
-Section 206(b) of Pub. L. 86–778 provided that:
+Pub. L. 86–778, title II, §206(b), Sept. 13, 1960, 74 Stat. 949, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[this subchapter\], and the lump-sum death payment under section 202 of such Act \[section 402 of this title\], based on the wages and self-employment income of an individual—
 
@@ -202,17 +202,17 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 “(2) The amendment made by subsection (a) \[amending this section\] shall also be applicable in the case of applications for disability determination under section 216(i) of the Social Security Act \[section 416(i) of this title\] filed in or after the month in which this Act is enacted \[September 1960\].
 
-“(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would notbe a fully insured individual under section 214(a) of the Social Security Act \[section 414(a) of this title\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
+“(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[section 414(a) of this title\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
 
-Section 3 of Pub. L. 86–442 provided in part that: “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[sections 402(i) and 402(j) of this title\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
+Pub. L. 86–442, §3, Apr. 22, 1960, 74 Stat. 82, provided in part that: “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[sections 402(i) and 402(j) of this title\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
 
 #### Effective Date of 1954 Amendment
 
-Section 106(h) of act Sept. 1, 1954, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f) of this title\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and section 228e of Title 45, Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
+Act Sept. 1, 1954, ch. 1206, title I, §106(h), 68 Stat. 1083, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f) of this title\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and section 228e of Title 45, Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
 
 #### Effective and Termination Date of 1952 Amendment
 
-Section 3(f) of act July 18, 1952, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f)(1) of this title\], the amendments made by subsections (a), (b), (c), and (d) of this section \[amending this section and sections 414 to 416, 420, and 421 of this title\] shall apply to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1953, and to lump-sum death payments under such title in the case of deaths occurring after June 1953; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
+Act July 18, 1952, ch. 945, §3(f), 66 Stat. 773, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f)(1) of this title\], the amendments made by subsections (a), (b), (c), and (d) of this section \[amending this section and sections 414 to 416, 420, and 421 of this title\] shall apply to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1953, and to lump-sum death payments under such title in the case of deaths occurring after June 1953; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
 
-Section 3(g) of act July 18, 1952, provided that: “Notwithstanding the preceding provisions of this section and the amendments made thereby \[amending this section and sections 414 to 416, 420, and 421 of this title\], such provisions and amendments shall cease to be in effect at the close of June 30, 1953, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this Act had not been enacted.”
+Act July 18, 1952, ch. 945, §3(g), 66 Stat. 773, provided that: “Notwithstanding the preceding provisions of this section and the amendments made thereby \[amending this section and sections 414 to 416, 420, and 421 of this title\], such provisions and amendments shall cease to be in effect at the close of June 30, 1953, and after such amendments cease to be in effect any provision of law amended thereby shall be in full force and effect as though this Act had not been enacted.”
 

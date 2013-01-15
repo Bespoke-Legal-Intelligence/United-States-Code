@@ -58,7 +58,7 @@ In this section—
 
 #### (A) Recordkeeping and reporting required
 
-&emsp;&emsp;Each supervised securities holding company and each affiliate of a supervised securities holding company shall make and keep for periods determined by the Board of Governors such records, furnish copies of such records, and make such reports, as the Board of Governors determines to be necessary or appropriate to carry out this section, to prevent evasions thereof, and to monitor compliance by the supervised securities holding company or affiliate with applicable provisions of law.
+&emsp;&emsp;Each supervised securities holding company and each affiliate of a supervised securities holding company shall make and keepfor periods determined by the Board of Governors such records, furnish copies of such records, and make such reports, as the Board of Governors determines to be necessary or appropriate to carry out this section, to prevent evasions thereof, and to monitor compliance by the supervised securities holding company or affiliate with applicable provisions of law.
 
 #### (B) Form and contents
 

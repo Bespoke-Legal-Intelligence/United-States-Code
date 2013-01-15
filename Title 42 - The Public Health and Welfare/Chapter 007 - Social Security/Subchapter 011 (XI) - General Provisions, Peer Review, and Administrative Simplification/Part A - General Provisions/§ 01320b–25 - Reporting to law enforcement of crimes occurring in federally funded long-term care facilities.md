@@ -72,7 +72,7 @@
 
 &emsp;A long-term care facility may not—
 
-&emsp;&emsp;(A) discharge, demote, suspend, threaten, harass, or deny a promotion or other employment-related benefit to an employee, or in any other manner discriminate against anemployee in the terms and conditions of employment because of lawful acts done by the employee; or
+&emsp;&emsp;(A) discharge, demote, suspend, threaten, harass, or deny a promotion or other employment-related benefit to an employee, or in any other manner discriminate against an employee in the terms and conditions of employment because of lawful acts done by the employee; or
 
 &emsp;&emsp;(B) file a complaint or a report against a nurse or other employee with the appropriate State professional disciplinary agency because of lawful acts done by the nurse or employee,
 

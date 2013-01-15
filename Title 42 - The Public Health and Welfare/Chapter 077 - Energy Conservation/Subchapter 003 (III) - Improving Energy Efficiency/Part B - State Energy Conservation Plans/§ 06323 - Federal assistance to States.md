@@ -10,13 +10,13 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 #### (b) Financial assistance to assist State in development, implementation, or modification of energy conservation plan; submission of plan to and approval of Secretary; considerations governing approval; amount of assistance
 
-(1) The Secretary may grant Federal financial assistance pursuant to this section for the purpose of assisting such State in the developmentof any such energy conservation plan or in the implementation or modification of a State energy conservation plan or part thereof which has been submitted to and approved by the Secretary pursuant to this part.
+(1) The Secretary may grant Federal financial assistance pursuant to this section for the purpose of assisting such State in the development of any such energy conservation plan or in the implementation or modification of a State energy conservation plan or part thereof which has been submitted to and approved by the Secretary pursuant to this part.
 
 (2) In determining whether to approve a State energy conservation plan submitted under section 6322(b) or (e) of this title, the Secretary—
 
 &emsp;(A) shall take into account the impact of local economic, climatic, geographic, and other unique conditions and requirements of such State on the opportunity to conserve and to improve efficiency in the use of energy in such State; and
 
-&emsp;(B) may extend the period of time during which a State energy conservation feasibility report or State energy conservation plan may be submitted if the Secretary determines that participation by the State submitting such report or plan is likely to result in significant progress toward achieving the purposes of this chapter.
+&emsp;(B) may extend the period of time during which a State energy conservation feasibility report or State energy conservation plan may be submitted if the Secretary determines that participation by the State submitting such report or plan is likely to result in significantprogress toward achieving the purposes of this chapter.
 
 > No such plan shall be disapproved without notice and an opportunity to present views.
 
@@ -56,7 +56,7 @@ If the Secretary determines that a State has demonstrated a commitment to improv
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163,Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

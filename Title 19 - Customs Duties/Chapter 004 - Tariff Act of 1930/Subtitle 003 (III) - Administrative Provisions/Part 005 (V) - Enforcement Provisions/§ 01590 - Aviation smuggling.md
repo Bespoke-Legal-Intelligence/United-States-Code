@@ -14,7 +14,7 @@ It is unlawful for any person to transfer merchandise between an aircraft and a 
 
 &emsp;&emsp;(B) the vessel is a vessel of the United States (within the meaning of section 1703(b) of this title), or
 
-&emsp;(2) regardless of the nationality of the vessel or aircraft, such transfer is made under circumstances indicating the intent to make itpossible for such merchandise, or any part thereof, to be introduced into the United States unlawfully.
+&emsp;(2) regardless of the nationality of the vessel or aircraft, such transfer is made under circumstances indicating the intent to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully.
 
 #### (c) Civil penalties
 
@@ -22,7 +22,7 @@ Any person who violates any provision of this section is liable for a civil pena
 
 #### (d) Criminal penalties
 
-In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits a violation of any provision of this section is, upon conviction—
+In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
 
 &emsp;(1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
 
@@ -38,7 +38,15 @@ In addition to being liable for a civil penalty under subsection (c) of this sec
 
 As used in this section, the term “merchandise” means only merchandise the importation of which into the United States is prohibited or restricted.
 
-#### (g) Intent of transfer of merchandise
+#### (g) Definition of aircraft
+
+In this section, the term “aircraft”—
+
+&emsp;(1) has the meaning given that term in section 40102 of title 49; and
+
+&emsp;(2) includes a vehicle described in section 103.1 of title 14, Code of Federal Regulations.
+
+#### (h) Intent of transfer of merchandise
 
 For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or section 1595a of this title, shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
 
@@ -64,11 +72,21 @@ For purposes of imposing civil penalties under this section, any of the followin
 
 &emsp;(8) The failure of a vessel to stop when hailed by a customs officer or other government authority.
 
-(June 17, 1930, ch. 497, title IV, §590, as added Pub. L. 99–570, title III, §3120, Oct. 27, 1986, 100 Stat. 3207–84.)
+(June 17, 1930, ch. 497, title IV, §590, as added Pub. L. 99–570, title III, §3120, Oct. 27, 1986, 100 Stat. 3207–84; amended Pub. L. 112–93, §2(a), (b), Feb. 10, 2012, 126 Stat. 8.)
 
 #### Prior Provisions
 
 A prior section 1590, act June 17, 1930, ch. 497, title IV, §590, 46 Stat. 750, related to false drawback claims, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See section 550 of Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–93, §2(b), inserted “, or attempts or conspires to commit,” after “commits” in introductory provisions.
+
+Subsecs. (g), (h). Pub. L. 112–93, §2(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–93, §2(c), Feb. 10, 2012, 126 Stat. 8, provided that: “The amendments made by this section \[amending this section\] apply with respect to violations of any provision of section 590 of the Tariff Act of 1930 \[19 U.S.C. 1590\] on or after the 30th day after the date of the enactment of this Act \[Feb. 10, 2012\].”
 
 #### Territorial Sea of United States
 

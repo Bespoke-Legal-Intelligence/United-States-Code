@@ -8,7 +8,7 @@
 
 (2) In carrying out this subsection, the Sentencing Commission shall—
 
-&emsp;(A) take all appropriate measures to ensure that these sentencing guidelines and policystatements applicable to the offenses described in paragraph (1) of this subsection are sufficiently stringent to deter and adequately reflect the heinous nature of such offenses;
+&emsp;(A) take all appropriate measures to ensure that these sentencing guidelines and policy statements applicable to the offenses described in paragraph (1) of this subsection are sufficiently stringent to deter and adequately reflect the heinous nature of such offenses;
 
 &emsp;(B) consider conforming the sentencing guidelines applicable to offenses involving trafficking in persons to the guidelines applicable to peonage, involuntary servitude, and slave trade offenses; and
 

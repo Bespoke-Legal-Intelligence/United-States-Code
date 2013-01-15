@@ -86,7 +86,7 @@ Sec. 7. \[Election of officers; date; propositions; certification of voting resu
 
 “
 
-Sec. 8. \[House of Representatives membership.\] The State of Hawaii upon its admission into the Union shall be entitled to one Representative until the taking effect of the next reapportionment, and such Representative shall be in addition to the membership of the House of Representatives as now prescribed by law: <i>Provided</i>, That such temporary increase in the membership shall not operate to either increase or decrease the permanent membership of the House of Representatives as prescribed in the Act of August 8, 1911 (37 Stat. 13), nor shall such temporary increase affect the basis of apportionment established by the Act of November 15, 1941 (55 Stat. 761; 2 U.S.C., sec. 2a), for the Eighty-third Congress and each Congress thereafter.
+Sec. 8. \[House of Representatives membership.\] The State of Hawaii upon its admission into the Union shall be entitled to one Representative until the taking effect of the next reapportionment, and such Representative shall be in addition to the membership of the House of Representatives as now prescribed by law: <i>Provided</i>, That such temporary increase in the membership shall not operate to either increase or decrease the permanent membership of the House of Representatives asprescribed in the Act of August 8, 1911 (37 Stat. 13), nor shall such temporary increase affect the basis of apportionment established by the Act of November 15, 1941 (55 Stat. 761; 2 U.S.C., sec. 2a), for the Eighty-third Congress and each Congress thereafter.
 
 “
 
@@ -134,7 +134,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 &emsp;“(c) title 28, United States Code, section 1294, as amended, is further amended by striking out paragraph (4) thereof and by renumbering paragraphs (5) and (6) accordingly;
 
-&emsp;“(d) the first paragraph of section 373 of title 28, United States Code, as amended, is further amended by striking out the words ‘United States District Courts for the districts of Hawaii or Puerto Rico,’ and inserting in lieu thereof the words ‘United States District Court for the District of Puerto Rico,’; and by striking out the words ‘and any justice of the Supreme Court of the Territory of Hawaii’: <i>Provided</i>, That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection: <i>And provided further</i>, That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act;
+&emsp;“(d) the first paragraph of section 373 of title 28, United States Code, as amended, is further amended by striking out the words ‘United States District Courts for the districts of Hawaii or Puerto Rico,’ and inserting in lieu thereof the words ‘United States District Court for the District of Puerto Rico,’; and by striking out the words ‘and any justice of the Supreme Court of the Territory of Hawaii’: <i>Provided</i>, That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection: <i>And provided further</i>, That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years ofjudicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act;
 
 &emsp;“(e) section 92 of the act of April 30, 1900 (ch. 339, 31 Stat. 159), as amended, and the Act of May 29, 1928 (ch. 904, 45 Stat. 997), as amended, are repealed;
 
@@ -182,7 +182,7 @@ Sec. 19. \[United States Nationality.\] Nothing contained in this Act shall oper
 
 Sec. 20. \[Immigration and Nationality Act; amendments.\] (a) Section 101(a)(36) of the Immigration and Nationality Act (66 Stat. 170, 8 U.S.C., sec. 1101(a)(36)) is amended by deleting the word ‘Hawaii,’.
 
-“(b) Section 212(d)(7) of the Immigration and Nationality Act (66 Stat. 188, 8 U.S.C. 1182(d)(7) is amended bydeleting from the first sentence thereof the word ‘Hawaii,’ and by deleting the proviso to said first sentence.
+“(b) Section 212(d)(7) of the Immigration and Nationality Act (66 Stat. 188, 8 U.S.C. 1182(d)(7) is amended by deleting from the first sentence thereof the word ‘Hawaii,’ and by deleting the proviso to said first sentence.
 
 “(c) The first sentence of section 310(a) of the Immigration and Nationality Act, as amended (66 Stat. 239, 8 U.S.C. 1421(a), 72 Stat. 351) is further amended by deleting the words ‘for the Territory of Hawaii, and’.
 
@@ -310,7 +310,7 @@ Value of lands.—(A) The value of any lands conveyed to the Department of Hawai
 
 &emsp;“(3)
 
-Lost use.—Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described inparagraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
+Lost use.—Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
 
 &emsp;“(4)
 
@@ -402,7 +402,7 @@ Limitation.—No Federal lands that generate income (or would be expected to gen
 
 “(a)
 
-Notice to the Secretary.—Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act \[section 4 of Pub. L. 86–3, set out above\], the Chairman shall submit to the Secretary—
+Notice to the Secretary.—Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act\[section 4 of Pub. L. 86–3, set out above\], the Chairman shall submit to the Secretary—
 
 &emsp;“(1) a copy of the proposed amendment;
 
@@ -536,13 +536,13 @@ Responsibilities.—The individual designated pursuant to subsection (a) shall, 
 
 In General.—Not later than 180 days after the date of enactment of this Act \[Nov. 2, 1995\], the Chairman shall report to the Secretary concerning any claims that—
 
-&emsp;“(1) involve the transfer of lands designated as available lands under section 203 of the Hawaiian Homes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
+&emsp;“(1) involve the transfer of lands designated as available lands under section 203 of the HawaiianHomes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
 
 &emsp;“(2) are not otherwise covered under this title.
 
 “(b)
 
-Review.—Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to eachclaim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
+Review.—Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to each claim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
 
 “(c)
 
@@ -636,7 +636,7 @@ Sec. 8. \[Soil Conservation and Domestic Allotment Act; amendment.\] (a) Section
 
 “
 
-Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 1937 (50 Stat. 869), as amended, is further amended by striking out the words ‘the United States, including the Territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands’ and inserting in lieu thereof the words ‘the States of the United States and in Puerto Rico and the Virgin Islands’.
+Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 1937 (50 Stat. 869), as amended, is further amended by striking out the words ‘the United States, including the Territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands’ and insertingin lieu thereof the words ‘the States of the United States and in Puerto Rico and the Virgin Islands’.
 
 “
 
@@ -724,9 +724,9 @@ Sec. 17. \[Highways.\] (a) The definition of the term ‘State’ in title 23, U
 
 “(c) Section 103(d) of title 23, United States Code, is amended to read as follows:
 
-“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to servethe national defense and, to the greatest extent possible, to connect at suitable border points with routes of continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
+“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to serve the national defense and, to the greatest extent possible, to connect at suitable border points with routes of continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
 
-“(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
+“(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under \[former\] section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said \[former\] section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
 
 “(e) Section 127 of title 23, United States Code, is amended by adding at the end thereof the following sentence: ‘With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956.’
 
@@ -874,7 +874,7 @@ Sec. 30. \[Social Security Act; amendment.\] (a)(1) Paragraph (8) of subsection 
 
 “ ‘(d) For purposes of this section, the term “United States” means the fifty States and the District of Columbia.
 
-“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and,for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available from the Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
+“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and, for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available from the Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
 
 “(c)(1) The last sentence of subsection (i) of section 202 of the Social Security Act is amended by striking out ‘forty-nine’ and inserting in lieu thereof ‘fifty’.
 

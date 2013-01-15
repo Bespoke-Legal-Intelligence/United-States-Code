@@ -26,7 +26,7 @@ With respect to commodities made available under subchapters III and III–A of 
 
 &emsp;&emsp;(D) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
 
-&emsp;(6) in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs; and
+&emsp;(6) in the case of commodities for urgent and extraordinary relief requirements (includingpre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs; and
 
 &emsp;(7) the charges for general average contributions arising out of the ocean transport of commodities transferred pursuant thereto.
 

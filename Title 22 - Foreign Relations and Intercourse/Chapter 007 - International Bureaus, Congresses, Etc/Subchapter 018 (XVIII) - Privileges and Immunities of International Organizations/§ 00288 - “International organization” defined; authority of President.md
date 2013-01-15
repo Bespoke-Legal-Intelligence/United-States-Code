@@ -1,6 +1,6 @@
 ### §288. “International organization” defined; authority of President
 
-For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as beingentitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
@@ -14,7 +14,7 @@ Pub. L. 111–177, §1, June 8, 2010, 124 Stat. 1260, provided that: “This Act
 
 #### Short Title
 
-Section 10 of title I of act Dec. 29, 1945, provided that: “This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”
+Act Dec. 29, 1945, ch. 652, title I, §10, 59 Stat. 673, provided that: “This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”
 
 #### International Cotton Advisory Committee
 
@@ -170,7 +170,7 @@ North Pacific Marine Science Organization, Ex. Ord. No. 12894, Jan. 26, 1994, 59
 
 Office of the High Representative in Bosnia and Herzegovina, Ex. Ord. No. 13568, Mar. 8, 2011, 76 F.R. 13497.
 
-Organization for European Economic Cooperation (now known as the Organization for Economic Cooperation and Development), Ex. Ord. No. 10133, June 27, 1950, 15 F.R. 4159.
+Organization for European Economic Cooperation (now known as the Organization for Economic Cooperationand Development), Ex. Ord. No. 10133, June 27, 1950, 15 F.R. 4159.
 
 Organization for the Prohibition of Chemical Weapons, Ex. Ord. No. 13049, June 11, 1997, 62 F.R. 32471.
 

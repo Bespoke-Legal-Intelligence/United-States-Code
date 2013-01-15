@@ -30,7 +30,7 @@ Functions of the Chief Acquisition Officer.—The functions of the Chief Acquisi
 
 &emsp;(1) monitoring the performance of acquisition projects and programs on the basis of applicable performance measurements and advising the Commandant, through the chain of command, regarding the appropriate business strategy to achieve the missions of the Coast Guard;
 
-&emsp;(2) maximizing the use of full and open competition at the prime contract and subcontract levels in the acquisition of property,capabilities, assets, and services by the Coast Guard by establishing policies, procedures, and practices that ensure that the Coast Guard receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government's requirements, including performance and delivery schedules, at the lowest cost or best value considering the nature of the property, capability, asset, or service procured;
+&emsp;(2) maximizing the use of full and open competition at the prime contract and subcontract levels in the acquisition of property, capabilities, assets, and services by the Coast Guard by establishing policies, procedures, and practices that ensure that the Coast Guard receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government's requirements, including performance and delivery schedules, at the lowest cost or best value considering the nature of the property, capability, asset, or service procured;
 
 &emsp;(3) making acquisition decisions in concurrence with the technical authority, or technical authorities, of the Coast Guard, as designated by the Commandant, consistent with all other applicable laws and decisions establishing procedures within the Coast Guard;
 

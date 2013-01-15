@@ -32,7 +32,7 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 Subsec. (b). Pub. L. 108–136, §1701(b)(2), added par. (4).
 
-Subsec. (c). Pub. L. 108–136, §1701(c)(1)(B), amended text generally. Prior to amendment, text read as follows: “Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if at any time subsequent to naturalization the person is separated from the military, air, or naval forces under other than honorable conditions, and suchground for revocation shall be in addition to any other provided by law. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation.”
+Subsec. (c). Pub. L. 108–136, §1701(c)(1)(B), amended text generally. Prior to amendment, text read as follows: “Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if at any time subsequent to naturalization the person is separated from the military, air, or naval forces under other than honorable conditions, and such ground for revocation shall be in addition to any other provided by law. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation.”
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–85 inserted “, reenlistment, extension of enlistment,” after “at the time of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
 
@@ -66,7 +66,7 @@ Amendment by section 1701(b)(2) of Pub. L. 108–136 effective Oct. 1, 2004, and
 
 #### Effective Date of 1997 Amendment
 
-Section 1080(b) of Pub. L. 105–85 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to enlistments, reenlistments, extensions of enlistment, and inductions of persons occurring on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title X, §1080(b), Nov. 18, 1997, 111 Stat. 1916, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to enlistments, reenlistments, extensions of enlistment, and inductions of persons occurring on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Effective Date of 1991 Amendment
 

@@ -38,7 +38,7 @@ Section was formerly classified to section 554 of this title.
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–48, §§4(c), 5(b), substituted “the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)” for “any anniversary date thereof unless the annual fee has been paid” in provisions before first proviso, “the necessity of renewing the license and of paying the renewal fee (if such fee is required)” for “the necessity of paying the annual fee” in first proviso and “renewal fee (if required)” for “annual fee” and “plus $50” for “plus $5” in second proviso.
 
-Subsec. (b). Pub. L. 104–48, §12(c)(1), inserted “is prohibited from employment with a licensee under section499h(b) of this title or” after “with the applicant,” in introductory provisions.
+Subsec. (b). Pub. L. 104–48, §12(c)(1), inserted “is prohibited from employment with a licensee under section 499h(b) of this title or” after “with the applicant,” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–48, §12(c)(2), inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under section 499h(b) of this title.”
 

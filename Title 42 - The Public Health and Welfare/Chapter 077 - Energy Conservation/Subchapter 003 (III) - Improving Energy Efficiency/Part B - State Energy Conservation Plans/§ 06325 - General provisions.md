@@ -30,7 +30,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (g) State Energy Advisory Board
 
-(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the “Board”) which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
+(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to asthe “Board”) which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
@@ -86,7 +86,7 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976,$50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
 
 Subsec. (g). Pub. L. 101–440, §5, added subsec. (g).
 

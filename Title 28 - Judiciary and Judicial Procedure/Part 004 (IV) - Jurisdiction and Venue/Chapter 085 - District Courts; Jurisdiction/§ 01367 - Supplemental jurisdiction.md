@@ -1,6 +1,6 @@
 ### §1367. Supplemental jurisdiction
 
-(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims inthe action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
+(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
 
 (b) In any civil action of which the district courts have original jurisdiction founded solely on section 1332 of this title, the district courts shall not have supplemental jurisdiction under subsection (a) over claims by plaintiffs against persons made parties under Rule 14, 19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by persons proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking to intervene as plaintiffs under Rule 24 of such rules, when exercising supplemental jurisdiction over such claims would be inconsistent with the jurisdictional requirements of section 1332.
 
@@ -26,5 +26,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 
 #### Effective Date
 
-Section 310(c) of Pub. L. 101–650 provided that: “The amendments made by this section \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
+Pub. L. 101–650, title III, §310(c), Dec. 1, 1990, 104 Stat. 5114, provided that: “The amendments made by this section \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 

@@ -8,5 +8,5 @@ The Secretary of the Interior shall prepare a roll of all persons born on or pri
 
 &emsp;c. those who participated in the Mississippi, Pillager, and Lake Winnibigoshish Chippewa Band awards under the provisions of sections 594 and 594a of this title.
 
-(Pub. L. 92–59, §2, July 29, 1971, 85 Stat. 158).
+(Pub. L. 92–59, §2, July 29, 1971, 85 Stat. 158.)
 

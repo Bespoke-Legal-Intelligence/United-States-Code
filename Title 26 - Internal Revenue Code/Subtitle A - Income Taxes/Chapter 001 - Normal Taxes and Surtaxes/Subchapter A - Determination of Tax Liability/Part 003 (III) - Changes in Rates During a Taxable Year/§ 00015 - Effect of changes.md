@@ -22,7 +22,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;(1) if the rate changes for taxable years “beginning after” or “ending after” a certain date, the following day shall be considered the effective date of the change; and
 
-&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that dateshall be considered the effective date of the change.
+&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that date shall be considered the effective date of the change.
 
 #### (d) Section not to apply to inflation adjustments
 
@@ -36,15 +36,11 @@ If the change referred to in subsection (a) involves a change in the highest rat
 
 This section shall not apply to any change in rates under subsection (i) of section 1 (relating to rate reductions after 2000).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX, §901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30, title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX,§901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30, title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
 
 #### Amendments
 
-<b>2001</b>—Subsec. (f). Pub. L. 107–16, §§101(c)(3), 901, temporarily added subsec. (f). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (f). Pub. L. 107–16, §101(c)(3), added subsec. (f).
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
@@ -76,11 +72,9 @@ Pub. L. 94–12 added subsec. (f).
 
 <b>1964</b>—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -100,7 +94,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
+Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section 901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -108,7 +102,7 @@ Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Section 132 of Pub. L. 88–272 provided that the amendment made by that section is effective with respect to taxable years ending after Dec. 31, 1963.
+Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30, provided that the amendment made by that section is effective with respect to taxable years ending after Dec. 31, 1963.
 
 #### Coordination of 1997 Amendment With Section 15
 
@@ -124,11 +118,11 @@ Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, pro
 
 #### Coordination of 1987 Amendment With Section 15
 
-Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made by this title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made by this title \[see Tables for classification\] shall be treatedas a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
 
 #### Coordination of 1986 Amendment With Section 15
 
-Section 3(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, §3(b), Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

@@ -66,7 +66,7 @@ Recommended Changes to Universal Service and the Monopoly.—The Postal Regulato
 
 Consultation.—In preparing the report required by this section, the Postal Regulatory Commission—
 
-&emsp;“(1) shall solicit written comments from the Postal Service and consult with the Postal Service and other Federal agencies, users of the mails, enterprises in the private sector engaged in the delivery of the mail, and the general public; and
+&emsp;“(1) shall solicit written comments from the Postal Service and consult with the Postal Service and otherFederal agencies, users of the mails, enterprises in the private sector engaged in the delivery of the mail, and the general public; and
 
 &emsp;“(2) shall address in the report any written comments received under this section.
 

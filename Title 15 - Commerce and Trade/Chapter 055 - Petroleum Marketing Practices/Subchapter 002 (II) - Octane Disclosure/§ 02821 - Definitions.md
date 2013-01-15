@@ -90,9 +90,9 @@ Pars. (17), (18). Pub. L. 102–486, §1501(b), added pars. (17) and (18).
 
 #### Effective Date of 1992 Amendment
 
-Section 1501(d)(1) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XV, §1501(d)(1), Oct. 24, 1992, 106 Stat. 2997, provided that: “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Regulations
 
-Section 1501(d)(2) of Pub. L. 102–486 provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
+Pub. L. 102–486, title XV, §1501(d)(2), Oct. 24, 1992, 106 Stat. 2997, provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
 

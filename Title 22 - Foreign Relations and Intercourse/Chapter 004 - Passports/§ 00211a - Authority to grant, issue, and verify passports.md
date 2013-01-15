@@ -28,7 +28,7 @@ Pub. L. 100–202, §101(m) \[title VI, §622(b)\], Dec. 22, 1987, 101 Stat. 132
 
 #### Persons Entitled to Diplomatic or Official United States Passport
 
-Section 125 of Pub. L. 95–426 provided that: “It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law.”
+Pub. L. 95–426, title I, §125, Oct. 7, 1978, 92 Stat. 971, provided that: “It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law.”
 
 #### Ex. Ord. No. 11295. Rules Governing Granting, Issuing, and Verifying of Passports
 

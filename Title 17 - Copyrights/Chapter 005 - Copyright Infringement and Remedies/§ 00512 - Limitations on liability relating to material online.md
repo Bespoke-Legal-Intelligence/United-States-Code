@@ -44,7 +44,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;&emsp;(ii) is consistent with generally accepted industry standard communications protocols; and
 
-&emsp;&emsp;&emsp;(iii) does not extract information from the provider's system or network other than the information that would have been available to the person described in paragraph (1)(A) if the subsequent users hadgained access to the material directly from that person;
+&emsp;&emsp;&emsp;(iii) does not extract information from the provider's system or network other than the information that would have been available to the person described in paragraph (1)(A) if the subsequent users had gained access to the material directly from that person;
 
 &emsp;&emsp;(D) if the person described in paragraph (1)(A) has in effect a condition that a person must meet prior to having access to the material, such as a condition based on payment of a fee or provision of a password or other information, the service provider permits access to the stored material in significant part only to users of its system or network that have met those conditions and only in accordance with those conditions; and
 
@@ -98,7 +98,7 @@ Elements of notification.—
 
 &emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
-&emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+&emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of theowner of an exclusive right that is allegedly infringed.
 
 &emsp;&emsp;(B)(i) Subject to clause (ii), a notification from a copyright owner or from a person authorized to act on behalf of the copyright owner that fails to comply substantially with the provisions of subparagraph (A) shall not be considered under paragraph (1)(A) in determining whether a service provider has actual knowledge or is aware of facts or circumstances from which infringing activity is apparent.
 
@@ -280,7 +280,7 @@ Service provider.—(A) As used in subsection (a), the term “service provider�
 
 Monetary relief.—As used in this section, the term “monetary relief” means damages, costs, attorneys’ fees, and any other form of monetary payment.
 
-(<i>l</i>)
+(l)
 
 Other Defenses Not Affected.—The failure of a service provider's conduct to qualify for limitation of liability under this section shall not bear adversely upon the consideration of a defense by the service provider that the service provider's conduct is not infringing under this title or any other defense.
 

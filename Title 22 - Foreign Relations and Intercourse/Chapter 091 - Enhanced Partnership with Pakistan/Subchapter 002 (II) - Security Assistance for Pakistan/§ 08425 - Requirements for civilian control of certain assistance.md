@@ -30,7 +30,7 @@ Nothing in this section shall apply with respect to—
 
 &emsp;(3) any assistance or payments if the Secretary of State determines and certifies to the appropriate congressional committees that subsequent to the termination of assistance or payments a democratically elected government has taken office;
 
-&emsp;(4) any assistance or payments made pursuant to section 1208 of the Ronald W. ReaganNational Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), as amended;
+&emsp;(4) any assistance or payments made pursuant to section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), as amended;
 
 &emsp;(5) any payments made pursuant to the Acquisition and Cross-Servicing Agreement between the Department of Defense of the United States of America and the Ministry of Defense of the Islamic Republic of Pakistan; and
 

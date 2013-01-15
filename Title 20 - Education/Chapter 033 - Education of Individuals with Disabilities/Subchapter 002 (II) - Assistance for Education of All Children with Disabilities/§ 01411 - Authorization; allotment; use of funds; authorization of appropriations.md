@@ -78,7 +78,7 @@
 
 #### (2) Special rule for use of fiscal year 1999 amount
 
-&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), bysubtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
+&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
 
 #### (3) Increase in funds
 
@@ -170,7 +170,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of administering this subchapter, including paragraph (3), section 1419of this title, and the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities—
+&emsp;&emsp;For the purpose of administering this subchapter, including paragraph (3), section 1419 of this title, and the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities—
 
 &emsp;&emsp;&emsp;(i) each State may reserve for each fiscal year not more than the maximum amount the State was eligible to reserve for State administration under this section for fiscal year 2004 or $800,000 (adjusted in accordance with subparagraph (B)), whichever is greater; and
 
@@ -200,7 +200,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State waseligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (ii) Small State adjustment
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;For the purpose of assisting local educational agencies (including a charter school that is a local educational agency or a consortium of local educational agencies) in addressing the needs of high need children with disabilities, each State shall have the option to reserve for each fiscal year 10 percent of the amount of funds the State reserves for State-level activities under paragraph (2)(A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
+&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to localeducational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
 
@@ -366,7 +366,7 @@
 
 #### (1) Subgrants required
 
-&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds the State does not reserve under subsection (e) to local educational agencies (including public charter schools that operate as local educational agencies) in the State thathave established their eligibility under section 1413 of this title for use in accordance with this subchapter.
+&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds the State does not reserve under subsection (e) to local educational agencies (including public charter schools that operate as local educational agencies) in the State that have established their eligibility under section 1413 of this title for use in accordance with this subchapter.
 
 #### (2) Procedure for allocations to local educational agencies
 
@@ -476,7 +476,7 @@ In this section:
 
 #### (5) Plan for coordination of services
 
-&emsp;The Secretary of the Interior shall develop and implement a plan for the coordination ofservices for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting those children from whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing the plan, the Secretary of the Interior shall consult with all interested and involved parties. The plan shall be based on the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. The plan shall also be distributed upon request to States, State educational agencies and local educational agencies, and other agencies providing services to infants, toddlers, and children with disabilities, to tribes, and to other interested parties.
+&emsp;The Secretary of the Interior shall develop and implement a plan for the coordination of services for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting those children from whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing the plan, the Secretary of the Interior shall consult with all interested and involved parties. The plan shall be based on the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. The plan shall also be distributed upon request to States, State educational agencies and local educational agencies, and other agencies providing services to infants, toddlers, and children with disabilities, to tribes, and to other interested parties.
 
 #### (6) Establishment of advisory board
 

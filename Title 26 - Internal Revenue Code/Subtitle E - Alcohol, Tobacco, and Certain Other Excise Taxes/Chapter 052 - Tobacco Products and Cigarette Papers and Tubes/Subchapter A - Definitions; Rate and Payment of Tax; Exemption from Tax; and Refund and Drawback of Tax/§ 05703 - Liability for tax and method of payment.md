@@ -36,7 +36,7 @@
 
 #### (iii) Foreign trade zones
 
-&emsp;&emsp;&emsp;Except as provided in clause (iv) and in regulations prescribed by the Secretary, articles brought into a foreign trade zone shall, notwithstanding any other provision of law, be treated for purposes of this subsection as if such zone were a single customs warehouse.
+&emsp;&emsp;&emsp;Except as provided in clause (iv) and in regulations prescribed by the Secretary, articles brought into a foreign trade zoneshall, notwithstanding any other provision of law, be treated for purposes of this subsection as if such zone were a single customs warehouse.
 
 #### (iv) Exception for articles destined for export
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 98–369 applicable to taxes required to be paid on or afte
 
 #### Effective Date of 1983 Amendment
 
-Section 308(b) of Pub. L. 97–448 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to tobacco products and cigarette papers and tubes removed after December 31, 1982.”
+Pub. L. 97–448, title III, §308(b), Jan. 12, 1983, 96 Stat. 2407, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to tobacco products and cigarette papers and tubes removed after December 31, 1982.”
 
 #### Effective Date of 1976 Amendment
 

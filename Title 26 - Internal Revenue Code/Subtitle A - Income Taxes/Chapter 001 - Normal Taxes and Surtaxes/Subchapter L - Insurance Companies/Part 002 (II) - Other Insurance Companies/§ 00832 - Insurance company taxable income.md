@@ -218,7 +218,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;&emsp;(II) which is based on the statutory premium recognition pattern which applies to premiums received by the taxpayer in such calendar year.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendaryear shall be treated as received in the middle of such year.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendar year shall be treated as received in the middle of such year.
 
 #### (c) Deductions allowed
 
@@ -274,7 +274,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 #### (2) Purchase of bonds
 
-&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and loss bonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which thededuction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
+&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and lossbonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
 
 #### (3) Mortgage guaranty account
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451;Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub.L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
 
 #### References in Text
 
@@ -432,7 +432,7 @@ Amendment by section 1702(h)(3) of Pub. L. 104–188 effective, except as otherw
 
 #### Effective Date of 1990 Amendment
 
-Section 11303(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11303(c), Nov. 5, 1990, 104 Stat. 1388–450, provided that:
 
 “(1)
 
@@ -454,7 +454,7 @@ Amendments treated as change in method of accounting.—In the case of any taxpa
 
 Coordination with section 832(b)(4)(C).—The amendments made by this section shall not affect the application of section 832(b)(4)(C) of the Internal Revenue Code of 1986.”
 
-Section 11305(c) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11305(c), Nov. 5, 1990, 104 Stat. 1388–451, provided that:
 
 “(1)
 
@@ -506,7 +506,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1021(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title X, §1021(c), Oct. 22, 1986, 100 Stat. 2397, provided that:
 
 “(1)
 
@@ -534,7 +534,7 @@ Fresh start.—Except as provided in subparagraph (C), any difference between—
 
 Effect on earnings and profits.—The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.”
 
-Section 1022(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1022(b), Oct. 22, 1986, 100 Stat. 2399, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1023(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1023(e) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title.
 
@@ -554,7 +554,7 @@ Amendment by section 1901(a)(108), (b)(1)(T), (U) of Pub. L. 94–455 effective 
 
 #### Effective Date of 1968 Amendment
 
-Section 5(e) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
+Pub. L. 90–240, §5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
 
 #### Effective Date of 1966 Amendment
 
@@ -562,7 +562,7 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Section 228(d) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending former section 809 of this title\] shall apply to taxable years beginning after December 31, 1961. The amendment made by subsection (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 88–272, title II, §228(d), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendment made by subsection (a) \[amending former section 809 of this title\] shall apply to taxable years beginning after December 31, 1961. The amendment made by subsection (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Effective Date of 1962 Amendment
 
@@ -574,11 +574,11 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Deduction From Earnings and Profits of Insurance Companies to Which Section 11305(c)(3) of Pub. L. 101–508 Applies
 
-Section 1702(c)(4) of Pub. L. 104–188 provided that: “The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account.”
+Pub. L. 104–188, title I, §1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: “The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out above\] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account.”
 
 #### Acquisition Date of Certain Stocks or Obligations for Purposes of Subsection (b)(5)(C)(i)
 
-Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of section 832(b)(5)(C)(i) of the 1986 Code, any stock or obligation acquired on or after August 8, 1986, by an insurance company subject to the tax imposed by section 831 of the 1986 Code (hereinafter in this paragraph referred to as the ‘acquiring company’) from another insurance company so subject (hereinafter in this paragraph referred to as the ‘transferor company’) shall be treated as acquired on the date on which such stock or obligation was acquired by the transferor company if—
+Pub. L. 100–647, title I, §1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, provided that: “For purposes of section 832(b)(5)(C)(i) of the 1986 Code, any stock or obligation acquired on or after August 8, 1986, by an insurance company subject to the tax imposed by section 831 of the 1986 Code (hereinafter in this paragraph referred to as the ‘acquiring company’) from another insurance company so subject (hereinafter in this paragraph referred to as the ‘transferor company’) shall be treated as acquired on the date on which such stock or obligation was acquired by the transferor company if—
 
 &emsp;“(A) the transferor company acquired such stock or obligation before August 8, 1986, and
 
@@ -588,11 +588,11 @@ Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of sectio
 
 #### Study of Treatment of Property and Casualty Insurance Companies
 
-Section 1025 of subtitle C (§§1021–1025) of title X of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
+Pub. L. 99–514, title X, §1025, Oct. 22, 1986, 100 Stat. 2409, directed Secretary of the Treasury or his delegateto conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
 
 #### Physicians’ and Surgeons’ Mutual Protection and Interindemnity Arrangements or Associations
 
-Section 1031 of subtitle D of title X of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1010(g), Nov. 10, 1988, 102 Stat. 3455, provided that:
+Pub. L. 99–514, title X, §1031, Oct. 22, 1986, 100 Stat. 2409, as amended by Pub. L. 100–647, title I, §1010(g), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 “(a)
 
@@ -654,7 +654,7 @@ Effective Date.—The provisions of subsection (a) shall apply to payments made 
 
 #### Treatment as Unearned Premiums of Additions to Reserves Required by State Law or Regulations for Mortgage Guaranty Insurance Losses
 
-Section 5(g) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–240, §5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
 

@@ -6,7 +6,7 @@ The Secretary is authorized (1) to issue a license to any individual upon presen
 
 #### (b) Duration of licenses; suspension; reinstatement
 
-All classes of licenses issued under this chapter shall terminate triennially on a date ordates to be fixed by regulation of the Secretary: <i>Provided</i>, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: <i>Provided further</i>, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
+All classes of licenses issued under this chapter shall terminate triennially on a date or dates to be fixed by regulation of the Secretary: <i>Provided</i>, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: <i>Provided further</i>, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
 
 #### (c) Examination of applicants; reexaminations
 
@@ -54,7 +54,7 @@ Subsec. (f). Pub. L. 103–156, §12(g)(2), substituted “the Administrator” 
 
 <b>1977</b>—Subsec. (a)(1). Pub. L. 95–113, §1604(g)(1)(A), substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
 
-Subsec. (a)(2)(B). Pub. L. 95–113, §1604(g)(1)(B), substituted “weighing (including appeal weighing) of grainin the United States, or of United States grain in Canadian ports” for “weighing of grain”.
+Subsec. (a)(2)(B). Pub. L. 95–113, §1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
 
 Subsec. (a)(3). Pub. L. 95–113, §1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
 

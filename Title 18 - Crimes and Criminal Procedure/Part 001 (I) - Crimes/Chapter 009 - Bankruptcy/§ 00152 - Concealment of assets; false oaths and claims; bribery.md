@@ -10,7 +10,7 @@ A person who—
 
 &emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of a debtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
 
-&emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
+&emsp;(5) knowingly and fraudulently receives any material amount of property from a debtorafter the filing of a case under title 11, with intent to defeat the provisions of title 11;
 
 &emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
 

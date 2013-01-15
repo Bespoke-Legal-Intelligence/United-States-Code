@@ -134,7 +134,7 @@ In general.—Not less than 10 percent of the total amount available under this 
 
 &emsp;&emsp;&emsp;(II)
 
-Applicability of part.— <sup>2</sup> The requirements of this section shall not applyto funds allocated for the program described in subclause (I).
+Applicability of part.— <sup>2</sup> The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
 
 &emsp;&emsp;(ii) Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
 

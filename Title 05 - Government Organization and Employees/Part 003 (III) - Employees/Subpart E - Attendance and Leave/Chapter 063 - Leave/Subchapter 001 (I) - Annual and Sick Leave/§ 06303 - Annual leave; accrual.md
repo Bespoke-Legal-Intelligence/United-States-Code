@@ -40,7 +40,7 @@
 
 &emsp;(A) such service—
 
-&emsp;&emsp;(i) was performed in a position the duties of which directly relate to the duties of theposition to which such employee is so appointed; and
+&emsp;&emsp;(i) was performed in a position the duties of which directly relate to the duties of the position to which such employee is so appointed; and
 
 &emsp;&emsp;(ii) meets such other requirements as the Office may prescribe; and
 
@@ -118,7 +118,7 @@ Pub. L. 108–411, title II, §202(c), Oct. 30, 2004, 118 Stat. 2312, provided t
 
 #### Effective Date of 1992 Amendment
 
-Section 9 of Pub. L. 102–378 provided that:
+Pub. L. 102–378, §9, Oct. 2, 1992, 106 Stat. 1360, provided that:
 
 “(a)
 
@@ -140,7 +140,7 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 
 “(7) The amendment made by section 2(52) \[amending this section\] shall be effective as of January 1, 1989, except that no amount shall become payable, as a result of the enactment of such amendment, under—
 
-&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effector an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
+&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effect or an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
 
 &emsp;“(B) section 5551(b) of title 5, United States Code, which is attributable to an individual's being excepted from subchapter I of chapter 63 of such title before the date of enactment of this Act.
 

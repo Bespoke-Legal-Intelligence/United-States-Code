@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Comm
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–654 effective 120 days after Nov. 14, 1988, see section 301(d) of Pub. L. 100–654, setout as an Effective Date note under section 8906a of this title.
+Amendment by Pub. L. 100–654 effective 120 days after Nov. 14, 1988, see section 301(d) of Pub. L. 100–654, set out as an Effective Date note under section 8906a of this title.
 
 #### Effective Date of 1984 Amendment
 

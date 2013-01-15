@@ -20,9 +20,9 @@ Jurisdiction.—There is jurisdiction over the prohibited activity in subsection
 
 (c)
 
-Bar to Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, theterm “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+Bar to Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§601(q), 607(<i>o</i>), Oct. 11, 1996, 110 Stat. 3502, 3512.)
+(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§601(q), 607(o), Oct. 11, 1996, 110 Stat. 3502, 3512.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 104–294 inserted heading and inserted “, and the term 
 
 #### Effective Date
 
-Section 60021(c) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the later of—
+Pub. L. 103–322, title VI, §60021(c), Sept. 13, 1994, 108 Stat. 1980, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the later of—
 
 &emsp;“(1) the date of enactment of this Act \[Sept. 13, 1994\]; or
 

@@ -8,7 +8,7 @@ Status.—The Metropolitan Washington Airports Authority shall be—
 
 &emsp;&emsp;(A) conferred upon it jointly by the legislative authority of Virginia and the District of Columbia or by either of them and concurred in by the legislative authority of the other jurisdiction; and
 
-&emsp;&emsp;(B) that at least meet the specifications of this section and section 49108 of this title;
+&emsp;&emsp;(B) that at least meet the specifications of this section and section 49108 <sup>1</sup> of this title;
 
 &emsp;(2) independent of Virginia and its local governments, the District of Columbia, and the United States Government; and
 
@@ -66,7 +66,7 @@ Board of Directors.—(1) The Airports Authority shall be governed by a board of
 
 (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-(C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction <sup>1</sup> from which the member is appointed.
+(C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction <sup>2</sup> from which the member is appointed.
 
 (7) Ten votes are required to approve bond issues and the annual budget.
 
@@ -190,6 +190,10 @@ In subsection (d), the words “The Airports Authority shall be subject to a con
 
 In subsection (g), the words “Committee on Transportation and Infrastructure” are substituted for “Committee on Public Works and Transportation” because of the amendment of clause 1(q) of Rule X of the Rules of the House of Representatives by section 202(a) of H. Res. 6, approved January 4, 1995.
 
+#### References in Text
+
+Section 49108 of this title, referred to in subsec. (a)(1)(B), was repealed by Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32.
+
 #### Amendments
 
 <b>2011</b>—Subsec. (c)(1). Pub. L. 112–55, §191(a)(1), substituted “17 members” for “13 members” in introductory provisions.
@@ -220,5 +224,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Pub. L. 105–225, §7(c)(3), Aug. 12, 1998, 112 Stat. 1512, provided that: “The amendments made by this subsection \[amending this section and sections 49107 and 49111 of this title and provisions set out as a note preceding section 101 of this title\] are effective as of November 20, 1997.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

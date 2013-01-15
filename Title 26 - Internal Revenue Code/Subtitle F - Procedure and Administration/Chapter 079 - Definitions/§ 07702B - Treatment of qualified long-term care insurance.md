@@ -24,7 +24,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) the only insurance protection provided under such contract is coverage of qualified long-term care services,
 
-&emsp;&emsp;(B) such contract does not pay or reimburse expenses incurred for services or items to the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
+&emsp;&emsp;(B) such contract does not pay or reimburse expenses incurred for services or itemsto the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
 
 &emsp;&emsp;(C) such contract is guaranteed renewable,
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the periodic payments received for such period which are treated under section 101(g) as paid by reason of the death of such insured,
 
-> &emsp;exceeds the per diem limitation for such period, such excess shall be includible in gross income without regard to section 72. A payment shall not be taken into account under subparagraph (B) if the insured is a terminally ill individual (as defined in section 101(g)) at the time the payment is received.
+> &emsp;exceeds the per diem limitation for such period, such excess shall be includible in grossincome without regard to section 72. A payment shall not be taken into account under subparagraph (B) if the insured is a terminally ill individual (as defined in section 101(g)) at the time the payment is received.
 
 #### (2) Per diem limitation
 
@@ -364,7 +364,7 @@ Amendment by section 325 of Pub. L. 104–191 applicable to contracts issued aft
 
 #### Effective Date
 
-Section 321(f) of Pub. L. 104–191 provided that:
+Pub. L. 104–191, title III, §321(f), Aug. 21, 1996, 110 Stat. 2059, provided that:
 
 “(1)
 
@@ -372,7 +372,7 @@ General effective date.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The PublicHealth and Welfare\] shall apply to contracts issued after December 31, 1996.
+In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 106, 125, 807, and 4980B of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to contracts issued after December 31, 1996.
 
 &emsp;“(B)
 
@@ -408,5 +408,5 @@ Application of per diem limitation to existing contracts.—The amount of per di
 
 #### Long-Term Care Study Request
 
-Section 321(g) of Pub. L. 104–191 provided that: “The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request.”
+Pub. L. 104–191, title III, §321(g), Aug. 21, 1996, 110 Stat. 2060, provided that: “The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request.”
 

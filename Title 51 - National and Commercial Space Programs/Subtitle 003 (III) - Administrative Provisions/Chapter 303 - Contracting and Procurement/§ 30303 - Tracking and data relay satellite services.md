@@ -30,7 +30,7 @@ Pub. L. 95–76, §6, July 30, 1977, 91 Stat. 315; Pub. L. 103–437, §15(c)(3)
 
 42 U.S.C. 2463 (last par.).
 
-In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science, Space, and Technology” on authority of section 1(a)(10) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science, Space, and Technology” on authority of section 1(a)(10) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 In subsection (b), the word “hereafter” is omitted as unnecessary.
 

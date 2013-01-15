@@ -1134,7 +1134,7 @@ Temporary spending authority.—During each of fiscal years 2012 and 2013, the S
 
 (5) Members of the Council shall serve without compensation but shall be reimbursed for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Council. Parent participant members of the Council, in addition to reimbursement for necessary travel and subsistence, shall, at the discretion of the Secretary, be compensated in advance for other personal expenses related to participation on the Council, such as child care expenses and lost wages during scheduled Council meetings.
 
-#### (<i>l</i>) Donation of foods by Secretary
+#### (l) Donation of foods by Secretary
 
 Foods available under section 1431 of title 7, including, but not limited to, dry milk, or purchased under section 612c of title 7, may be donated by the Secretary, at the request of a State agency, for distribution to programs conducted under this section. The Secretary may purchase and distribute, at the request of a State agency, supplemental foods for donation to programs conducted under this section, with appropriated funds, including funds appropriated under this section.
 
@@ -1292,7 +1292,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;&emsp;(C) shall not be subject to judicial or administrative review.
 
-#### (<i>o</i>) Disqualification of vendors convicted of trafficking or illegal sales
+#### (o) Disqualification of vendors convicted of trafficking or illegal sales
 
 #### (1) In general
 
@@ -1338,7 +1338,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 #### (1) In general
 
-&emsp;Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection (<i>o</i>)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
+&emsp;Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection (o)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
 
 #### (2) Applicable laws
 
@@ -1346,7 +1346,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;&emsp;(A) section 1760(g) of this title; and
 
-&emsp;&emsp;(B) any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection (<i>o</i>)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property.
+&emsp;&emsp;(B) any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection (o)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property.
 
 #### (3) Property subject to forfeiture
 
@@ -1376,7 +1376,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the overseas special supplemental food program established under section 1060a(a) of title 10.
 
-(Pub. L. 89–642, §17, as added Pub. L. 92–433, §9, Sept. 26, 1972, 86 Stat. 729; amended Pub. L. 93–150, §6, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–326, §6, June 30, 1974, 88 Stat. 287; Pub. L. 94–28, May 28, 1975, 89 Stat. 96; Pub. L. 94–105, §14, Oct. 7, 1975, 89 Stat. 518; Pub. L. 95–166, §§18, 20(6), Nov. 10, 1977, 91 Stat. 1345, 1346; Pub. L. 95–627, §3, Nov. 10, 1978, 92 Stat. 3611; Pub. L. 96–108, title III, §301, Nov. 9, 1979, 93 Stat. 838; Pub. L. 96–499, title II, §203(d), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §815, Aug. 13, 1981, 95 Stat. 531; Pub. L. 99–500, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–360, 1783–364 to 1783–367, 1783–369, and Pub. L. 99–591, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–363, 3341–367 to 3341–370, 3341–372; Pub. L. 99–661, div. D, titleI, §4104, title III, §§4301, 4302(a), 4303, 4304(a), 4305–4308(a), 4309–4313(a), title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4071, 4075–4078, 4080; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 100–237, §§8(a), (b), 9, 11, 12, Jan. 8, 1988, 101 Stat. 1740, 1741; Pub. L. 100–356, §3, June 28, 1988, 102 Stat. 669; Pub. L. 100–435, title II, §212, title V, §501(b), Sept. 19, 1988, 102 Stat. 1657, 1668; Pub. L. 100–690, title III, §3201, Nov. 18, 1988, 102 Stat. 4246; Pub. L. 101–147, title I, §123(a), title II, §213(a), title III, §326, Nov. 10, 1989, 103 Stat. 894, 912, 917; Pub. L. 101–330, July 12, 1990, 104 Stat. 311; Pub. L. 102–314, §3, July 2, 1992, 106 Stat. 280; Pub. L. 102–342, title II, §204, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–512, title II, §§203–207, Oct. 24, 1992, 106 Stat. 3364–3368; Pub. L. 103–448, title II, §204(a)–(<i>o</i>)(1), (p)–(v)(11), (w)(1), Nov. 2, 1994, 108 Stat. 4738–4745; Pub. L. 104–66, title I, §1011(<i>l</i>), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–193, title I, §109(h), title VII, §729(a)–(g)(1), (h)–(j), Aug. 22, 1996, 110 Stat. 2171, 2303–2305; Pub. L. 105–336, title II, §203(a)–(f)(1), (g)–(<i>l</i>), (m)–(p)(1), (q), Oct. 31, 1998, 112 Stat. 3158–3165; Pub. L. 105–362, title I, §101(i), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 106–65, div. A, title VI, §674(e), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §§242(b)(1), (2), 244(a)–(e), June 20, 2000, 114 Stat. 411, 412, 421; Pub. L. 106–472, title III, §307(b), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §§4306(a), 4307(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–265, title II, §203(a)–(c)(2)(A), (3), (4)(A), (5), (d), (e)(1)–(4)(A), (5), (6)(A), (7)(A), (B), (8)–(13), (f)–(i)(1), June 30, 2004, 118 Stat. 771–780; Pub. L. 108–447, div. A, title VII, §788(d), (e), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–80, title VII, §734(b), Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §131, title II, §§231, 232, title III, §§351, 352, title IV, §§423, 424, 441(b)(2), Dec. 13, 2010, 124 Stat. 3206, 3229, 3232, 3254, 3260, 3265; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.)
+(Pub. L. 89–642, §17, as added Pub. L. 92–433, §9, Sept. 26, 1972, 86 Stat. 729; amended Pub. L. 93–150, §6, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–326, §6, June 30, 1974, 88 Stat. 287; Pub. L. 94–28, May 28, 1975, 89 Stat. 96; Pub. L. 94–105, §14, Oct. 7, 1975, 89 Stat. 518; Pub. L. 95–166, §§18, 20(6), Nov. 10, 1977, 91 Stat. 1345, 1346; Pub. L. 95–627, §3, Nov. 10, 1978, 92 Stat. 3611; Pub. L. 96–108, title III, §301, Nov. 9, 1979, 93 Stat. 838; Pub. L. 96–499, title II, §203(d), Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §815, Aug. 13, 1981, 95 Stat. 531; Pub. L. 99–500, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–360, 1783–364 to 1783–367, 1783–369, and Pub. L. 99–591, title III, §§314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–363, 3341–367 to 3341–370, 3341–372; Pub. L. 99–661, div. D, titleI, §4104, title III, §§4301, 4302(a), 4303, 4304(a), 4305–4308(a), 4309–4313(a), title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4071, 4075–4078, 4080; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425; Pub. L. 100–237, §§8(a), (b), 9, 11, 12, Jan. 8, 1988, 101 Stat. 1740, 1741; Pub. L. 100–356, §3, June 28, 1988, 102 Stat. 669; Pub. L. 100–435, title II, §212, title V, §501(b), Sept. 19, 1988, 102 Stat. 1657, 1668; Pub. L. 100–690, title III, §3201, Nov. 18, 1988, 102 Stat. 4246; Pub. L. 101–147, title I, §123(a), title II, §213(a), title III, §326, Nov. 10, 1989, 103 Stat. 894, 912, 917; Pub. L. 101–330, July 12, 1990, 104 Stat. 311; Pub. L. 102–314, §3, July 2, 1992, 106 Stat. 280; Pub. L. 102–342, title II, §204, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–512, title II, §§203–207, Oct. 24, 1992, 106 Stat. 3364–3368; Pub. L. 103–448, title II, §204(a)–(o)(1), (p)–(v)(11), (w)(1), Nov. 2, 1994, 108 Stat. 4738–4745; Pub. L. 104–66, title I, §1011(l), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–193, title I, §109(h), title VII, §729(a)–(g)(1), (h)–(j), Aug. 22, 1996, 110 Stat. 2171, 2303–2305; Pub. L. 105–336, title II, §203(a)–(f)(1), (g)–(l), (m)–(p)(1), (q), Oct. 31, 1998, 112 Stat. 3158–3165; Pub. L. 105–362, title I, §101(i), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 106–65, div. A, title VI, §674(e), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §§242(b)(1), (2), 244(a)–(e), June 20, 2000, 114 Stat. 411, 412, 421; Pub. L. 106–472, title III, §307(b), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §§4306(a), 4307(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–265, title II, §203(a)–(c)(2)(A), (3), (4)(A), (5), (d), (e)(1)–(4)(A), (5), (6)(A), (7)(A), (B), (8)–(13), (f)–(i)(1), June 30, 2004, 118 Stat. 771–780; Pub. L. 108–447, div. A, title VII, §788(d), (e), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (E), (J), (2)(AA), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 111–80, title VII, §734(b), Oct. 21, 2009, 123 Stat. 2125; Pub. L. 111–296, title I, §131, title II, §§231, 232, title III, §§351, 352, title IV, §§423, 424, 441(b)(2), Dec. 13, 2010, 124 Stat. 3206, 3229, 3232, 3254, 3260, 3265; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### References in Text
 
@@ -1394,11 +1394,9 @@ Sections 254b and 254c of this title, referred to in subsec. (j)(4), were in the
 
 Section 1304 of the Food and Agriculture Act of 1977, referred to in subsec. (k)(1), is section 1304 of Pub. L. 95–113, title XIII, Sept. 29, 1977, 91 Stat. 980, which amended provisions set out as notes under sections 612c and 1281 of Title 7, Agriculture.
 
-Subparagraph (G)(i), referred to in subsec. (m)(6)(C)(iv), meaning subpar. (G)(i) of subsec. (m)(6), was redesignated subpar. (F)(i) of subsec. (m)(6) by Pub. L. 105–336, title II, §203(<i>o</i>)(3)(B), Oct. 31, 1998, 112 Stat. 3164.
+Subparagraph (G)(i), referred to in subsec. (m)(6)(C)(iv), meaning subpar. (G)(i) of subsec. (m)(6), was redesignated subpar. (F)(i) of subsec. (m)(6) by Pub. L. 105–336, title II, §203(o)(3)(B), Oct. 31, 1998, 112 Stat. 3164.
 
 #### Codification
-
-In subsec. (d)(2)(B)(ii), “475” substituted for “405” pursuant to section 631(f)(4)(B) of Pub. L. 112–81, which provided that any reference in a provision of law other than a section of title 10, 32, or 37, United States Code, to a section of title 37 that was transferred and redesignated by “subsection (c)” of section 631 was deemed to refer to the section as so redesignated, notwithstanding that sections of title 37 were transferred and redesignated by subsection (d) of section 631 rather than subsection (c), to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -1406,7 +1404,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2)(B)(ii). Pub. L. 112–81 substituted “475” for “405”. See Codification note above.
+<b>2013</b>—Subsec. (d)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (d)(2)(B)(ii). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “475” for “405”.
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–296, §231(1), substituted “supplemental foods and nutrition education, including breastfeeding promotion and support, through any eligible local agency” for “supplemental foods and nutrition education through any eligible local agency” in second sentence.
 
@@ -1422,7 +1422,7 @@ Subsec. (e)(3)(B). Pub. L. 111–296, §351, which directed the amendment of sec
 
 Subsec. (f)(6)(B). Pub. L. 111–296, §231(5), inserted “and breastfeeding” after “nutrition education” in first sentence.
 
-Subsec. (f)(11)(C). Pub. L. 111–296, §441(b)(2), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “Subject to the availability of funds, the Secretary shall award grants to not more than 10 local sites determined by the Secretary to be geographically and culturally representative of State, local, and Indian agencies, to evaluate the feasibility of including fresh, frozen, or canned fruits and vegetables (to be made available through private funds) as an addition to the supplemental foods prescribed under this section.”
+Subsec. (f)(11)(C). Pub. L. 111–296, §441(b)(2), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “Subjectto the availability of funds, the Secretary shall award grants to not more than 10 local sites determined by the Secretary to be geographically and culturally representative of State, local, and Indian agencies, to evaluate the feasibility of including fresh, frozen, or canned fruits and vegetables (to be made available through private funds) as an addition to the supplemental foods prescribed under this section.”
 
 Subsec. (f)(11)(D). Pub. L. 111–296, §441(b)(2)(B), redesignated subpar. (D) as (C).
 
@@ -1614,7 +1614,7 @@ Subsec. (h)(8)(A)(iii). Pub. L. 105–336, §203(j), added cl. (iii).
 
 Subsec. (h)(10)(A). Pub. L. 105–336, §203(k), (n)(2)(A), substituted “2003” for “1998” and inserted “and supplemental foods funds” after “nutrition services and administration funds”.
 
-Subsec. (h)(11). Pub. L. 105–336, §203(<i>l</i>), added par. (11).
+Subsec. (h)(11). Pub. L. 105–336, §203(l), added par. (11).
 
 Subsec. (h)(12). Pub. L. 105–336, §203(m), added par. (12).
 
@@ -1640,25 +1640,25 @@ Subsec. (i)(3)(C) to (H). Pub. L. 105–336, §203(n)(2)(B), redesignated subpar
 
 Subsec. (k)(4) to (6). Pub. L. 105–362 redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “The Council shall make a continuing study of the operation of the program under this section and related programs to determine how the program may be improved. The Council shall submit once every two years to the President and Congress, beginning with the fiscal year ending September 30, 1980, a written report, together with its recommendations on such program operations.”
 
-Subsec. (m)(3). Pub. L. 105–336, §203(<i>o</i>)(1), inserted “program income or” after “satisfied from” in first sentence.
+Subsec. (m)(3). Pub. L. 105–336, §203(o)(1), inserted “program income or” after “satisfied from” in first sentence.
 
-Subsec. (m)(6)(C). Pub. L. 105–336, §203(<i>o</i>)(2)(A), struck out “serve additional recipients in” after “In providing funds to” in introductory provisions.
+Subsec. (m)(6)(C). Pub. L. 105–336, §203(o)(2)(A), struck out “serve additional recipients in” after “In providing funds to” in introductory provisions.
 
-Subsec. (m)(6)(C)(ii). Pub. L. 105–336, §203(<i>o</i>)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “documentation that justifies the need for an increase in participation; and”.
+Subsec. (m)(6)(C)(ii). Pub. L. 105–336, §203(o)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “documentation that justifies the need for an increase in participation; and”.
 
-Subsec. (m)(6)(C)(iii), (iv). Pub. L. 105–336, §203(<i>o</i>)(2)(C), (D), substituted “; and” for period at end of cl. (iii) and added cl. (iv).
+Subsec. (m)(6)(C)(iii), (iv). Pub. L. 105–336, §203(o)(2)(C), (D), substituted “; and” for period at end of cl. (iii) and added cl. (iv).
 
-Subsec. (m)(6)(F). Pub. L. 105–336, §203(<i>o</i>)(3), redesignated subpar. (G) as (F) and struck out former subpar. (F) which listed criteria for Secretary to apply in approving and ranking State plans.
+Subsec. (m)(6)(F). Pub. L. 105–336, §203(o)(3), redesignated subpar. (G) as (F) and struck out former subpar. (F) which listed criteria for Secretary to apply in approving and ranking State plans.
 
-Subsec. (m)(6)(F)(i). Pub. L. 105–336, §203(<i>o</i>)(4)(A), in first sentence, substituted “whose State plan” for “that wish to serve additional recipients, and whose State plan to do so” and, in second sentence, struck out “for additional recipients” after “approved State plans”.
+Subsec. (m)(6)(F)(i). Pub. L. 105–336, §203(o)(4)(A), in first sentence, substituted “whose State plan” for “that wish to serve additional recipients, and whose State plan to do so” and, in second sentence, struck out “for additional recipients” after “approved State plans”.
 
-Subsec. (m)(6)(F)(ii). Pub. L. 105–336, §203(<i>o</i>)(4)(B), struck out “that desire to serve additional recipients, and” after “need of States” in second sentence.
+Subsec. (m)(6)(F)(ii). Pub. L. 105–336, §203(o)(4)(B), struck out “that desire to serve additional recipients, and” after “need of States” in second sentence.
 
-Subsec. (m)(6)(G). Pub. L. 105–336, §203(<i>o</i>)(3)(B), redesignated subpar. (G) as (F).
+Subsec. (m)(6)(G). Pub. L. 105–336, §203(o)(3)(B), redesignated subpar. (G) as (F).
 
-Subsec. (m)(9)(A). Pub. L. 105–336, §203(<i>o</i>)(5), substituted “2003” for “1998”.
+Subsec. (m)(9)(A). Pub. L. 105–336, §203(o)(5), substituted “2003” for “1998”.
 
-Subsec. (<i>o</i>). Pub. L. 105–336, §203(p)(1), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 105–336, §203(p)(1), added subsec. (o).
 
 Subsec. (p). Pub. L. 105–336, §203(q), added subsec. (p).
 
@@ -1678,7 +1678,7 @@ Subsec. (d)(4). Pub. L. 104–193, §729(c), struck out par. (4) which read as f
 
 &emsp;“(C) such other matters relating to participation in the program as the Secretary considers appropriate.”
 
-Subsec. (e)(2). Pub. L. 104–193, §729(d)(1), struck out at end “Nutrition education and breastfeeding promotion and support shall be evaluated annually by each Stateagency, and such evaluation shall include the views of participants concerning the effectiveness of the nutrition education and breastfeeding promotion and support they have received.”
+Subsec. (e)(2). Pub. L. 104–193, §729(d)(1), struck out at end “Nutrition education and breastfeeding promotion and support shall be evaluated annually by each State agency, and such evaluation shall include the views of participants concerning the effectiveness of the nutrition education and breastfeeding promotion and support they have received.”
 
 Subsec. (e)(4). Pub. L. 104–193, §729(d)(2), struck out “shall” after “State agency” in introductory provisions, struck out subpar. (A), redesignated subpars. (B) and (C) as (A) and (B), respectively, inserted “shall” before “provide” in subpars. (A) and (B), and added subpar. (C). Prior to amendment, subpar. (A) read as follows: “ensure that written information concerning food stamps, the program for aid to families with dependent children under part A of title IV of the Social Security Act, and the child support enforcement program under part D of title IV of the Social Security Act is provided on at least 1 occasion to each adult participant in and each applicant for the program;”.
 
@@ -1734,7 +1734,7 @@ Pub. L. 104–193, §729(e)(5), struck out “, including standards that will e
 
 Subsec. (f)(12). Pub. L. 104–193, §729(e)(10), redesignated par. (13) as (12). Former par. (12) redesignated (11).
 
-Pub. L. 104–193, §729(e)(6), struck out at end “Products specifically designed for pregnant, postpartum,and breastfeeding women, or infants shall be available at the discretion of the Secretary if the products are commercially available or are justified to and approved by the Secretary based on clinical tests performed in accordance with standards prescribed by the Secretary.”
+Pub. L. 104–193, §729(e)(6), struck out at end “Products specifically designed for pregnant, postpartum, and breastfeeding women, or infants shall be available at the discretion of the Secretary if the products are commercially available or are justified to and approved by the Secretary based on clinical tests performed inaccordance with standards prescribed by the Secretary.”
 
 Subsec. (f)(13). Pub. L. 104–193, §729(e)(10), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
@@ -1826,7 +1826,7 @@ Subsec. (k)(3). Pub. L. 104–193, §729(h), substituted “Council shall elect�
 
 Subsec. (n). Pub. L. 104–193, §729(i), (j), added heading and text of subsec. (n) and struck out former subsec. (n) which related to study of methods of drug abuse education instruction.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 104–193, §729(i), struck out subsecs. (<i>o</i>) and (p) which related, respectively, to demonstration program for establishment of clinics at community colleges offering nursing education programs and grants for improvement and updating of information and data systems.
+Subsecs. (o), (p). Pub. L. 104–193, §729(i), struck out subsecs. (o) and (p) which related, respectively, to demonstration program for establishment of clinics at community colleges offering nursing education programs and grants for improvement and updating of information and data systems.
 
 <b>1995</b>—Subsec. (m)(9) to (11). Pub. L. 104–66 redesignated pars. (10) and (11) as (9) and (10), respectively, and struck out former par. (9) which read as follows:
 
@@ -1868,11 +1868,11 @@ Subsec. (g). Pub. L. 103–448, §204(j)(1), (k), in par. (1) substituted “fis
 
 Subsec. (h)(2)(A). Pub. L. 103–448, §204(j)(2), substituted “fiscal years 1995 through 1998” for “fiscal years 1990, 1991, 1992, 1993 and 1994”.
 
-Subsec. (h)(3). Pub. L. 103–448, §204(<i>l</i>), substituted “except as otherwise provided in subparagraphs (F) and (G), an amount” for “an amount” and “the national minimum breastfeeding promotion expenditure, as described in subparagraph (E)” for “$8,000,000” in subpar. (A)(i)(II) and added subpars. (E) to (G).
+Subsec. (h)(3). Pub. L. 103–448, §204(l), substituted “except as otherwise provided in subparagraphs (F) and (G), an amount” for “an amount” and “the national minimum breastfeeding promotion expenditure, as described in subparagraph (E)” for “$8,000,000” in subpar. (A)(i)(II) and added subpars. (E) to (G).
 
 Subsec. (h)(4)(E). Pub. L. 103–448, §204(m), added subpar. (E).
 
-Subsec. (h)(8). Pub. L. 103–448, §204(n), (<i>o</i>)(1), (p), (q), substituted “on a timely basis” for “at 6-month intervals” in subpar. (D)(iii) and added subpars. (G)(ix), (L), and (M).
+Subsec. (h)(8). Pub. L. 103–448, §204(n), (o)(1), (p), (q), substituted “on a timely basis” for “at 6-month intervals” in subpar. (D)(iii) and added subpars. (G)(ix), (L), and (M).
 
 Subsec. (h)(10). Pub. L. 103–448, §204(r), added par. (10).
 
@@ -1890,7 +1890,7 @@ Subsec. (m)(5)(F)(ii). Pub. L. 103–448, §204(v)(2)(B), added cl. (ii) and str
 
 Subsec. (m)(5)(F)(iii). Pub. L. 103–448, §204(v)(2)(C), struck out “for the administration of the program” after “use of program funds”.
 
-Subsec. (m)(6)(A). Pub. L. 103–448, §204(v)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Each State that received assistance under the demonstration program authorized by this subsection in a fiscal year ending before October 1, 1991, shall receive assistance under this subsection if the State complies with the requirements established by this subsection, as determined by the Secretary.”
+Subsec. (m)(6)(A). Pub. L. 103–448, §204(v)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Each State that received assistance under the demonstration program authorized by this subsection in a fiscal year ending before October 1, 1991, shall receive assistance under this subsection if the State complies with the requirements established by this subsection, as determined by the Secretary.”
 
 Subsec. (m)(6)(B)(ii). Pub. L. 103–448, §204(v)(4), substituted “$75,000” for “$50,000” in two places.
 
@@ -1910,7 +1910,7 @@ Subsec. (m)(10)(B). Pub. L. 103–448, §204(v)(9), (10), substituted “Each”
 
 Subsec. (m)(11)(D). Pub. L. 103–448, §204(v)(11), inserted before period at end “and any other agency approved by the chief executive officer of the State”.
 
-Subsec. (<i>o</i>)(1)(B). Pub. L. 103–448, §204(w)(1)(D), substituted “special supplemental nutrition program” for “special supplemental food program”.
+Subsec. (o)(1)(B). Pub. L. 103–448, §204(w)(1)(D), substituted “special supplemental nutrition program” for “special supplemental food program”.
 
 <b>1992</b>—Subsec. (b)(8)(D). Pub. L. 102–342 inserted before period at end “, homelessness, and migrancy”.
 
@@ -1970,7 +1970,7 @@ Subsec. (f)(10). Pub. L. 101–147, §326(b)(3)(B), substituted “an individual
 
 Subsec. (f)(14)(A). Pub. L. 101–147, §123(a)(4)(D), inserted “, breastfeeding promotion,” after “nutrition education”.
 
-Subsec. (f)(17). Pub. L. 101–147, §§123(a)(4)(E), 326(b)(3)(C), realigned margin of par. (17) and inserted before period at end “and to accommodate the special needs and problems of individuals who are incarcerated in prisons or juvenile detention facilities”.
+Subsec. (f)(17). Pub. L. 101–147, §§123(a)(4)(E), 326(b)(3)(C), realigned margin of par. (17) and insertedbefore period at end “and to accommodate the special needs and problems of individuals who are incarcerated in prisons or juvenile detention facilities”.
 
 Subsec. (f)(18) to (20). Pub. L. 101–147, §123(a)(4)(F), added pars. (18) to (20).
 
@@ -2006,7 +2006,7 @@ Subsec. (m)(11)(A). Pub. L. 101–147, §326(b)(4)(B), substituted “individual
 
 Subsec. (n)(1). Pub. L. 101–147, §326(b)(5), substituted “the date of enactment of the Anti-Drug Abuse Act of 1988” for “the date of enactment of this Act” in the original, which for purposes of codification was translated as “November 18, 1988”, resulting in no change in text.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 101–147, §123(a)(10), added subsecs. (<i>o</i>) and (p).
+Subsecs. (o), (p). Pub. L. 101–147, §123(a)(10), added subsecs. (o) and (p).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §3201(1), substituted “health problems, including drug abuse,” for “health problems”.
 
@@ -2066,7 +2066,7 @@ Subsec. (d)(4). Pub. L. 99–500 and Pub. L. 99–591, §343(a), and Pub. L. 99�
 
 Subsec. (e)(2). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 99–661, §4502(b)(1), amended par. (2) identically, substituting “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (f)(1). Pub. L. 99–500 and Pub. L. 99–591, §344(a), and Pub. L. 99–661, §4304(a), generally amendedpar. (1) identically, substituting subpars. (A) to (E) for former subpars. (A) to (L) and concluding provisions.
+Subsec. (f)(1). Pub. L. 99–500 and Pub. L. 99–591, §344(a), and Pub. L. 99–661, §4304(a), generally amended par. (1) identically, substituting subpars. (A) to (E) for former subpars. (A) to (L) and concluding provisions.
 
 Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §345, and Pub. L. 99–661, §4305, generally amended par. (2) identically. Prior to amendment, par. (2) read as follows: “Not less than one month prior to the submission to the Governor of the plan of operation and administration required by this subsection, the State agency shall conduct hearings to enable the general public to participate in the development of the State agency plan.”
 
@@ -2118,13 +2118,13 @@ Subsec. (d). Pub. L. 95–627 substituted provisions specifying persons eligible
 
 Subsec. (e). Pub. L. 95–627 substituted provisions relating to nutrition education for program participants for provisions relating to persons eligible to participate in the program. See subsec. (d) of this section.
 
-Subsec. (f). Pub. L. 95–627 substituted provisions relating to submittal of State operational and administrative plans, participation in the program by eligible migrants, recordkeeping, certain types of notification, hearings, certification of eligibility, withholding of funds, issuance of regulations, and use of foreign languages for provisions relating to the maintenance of adequate medical records, the establishment of an advisory committee to study methods of evaluating the health benefits of the program, and the submittal of a report to Congress based upon such study no later than June 1, 1976.
+Subsec. (f). Pub. L. 95–627 substituted provisions relating to submittal of State operational and administrative plans, participation in the program by eligible migrants, recordkeeping, certain types of notification, hearings, certification of eligibility, withholding of funds, issuance of regulations, and use of foreign languages for provisions relating to the maintenance ofadequate medical records, the establishment of an advisory committee to study methods of evaluating the health benefits of the program, and the submittal of a report to Congress based upon such study no later than June 1, 1976.
 
 Subsec. (g). Pub. L. 95–627 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, 1981, and 1982 for provisions defining terms for purposes of this section. See subsec. (b) of this section.
 
 Subsec. (h). Pub. L. 95–627 substituted provisions relating to allocation of funds for administrative costs for provisions relating to establishment of the National Advisory Council on Maternal, Infant, and Fetal Nutrition.
 
-Subsecs. (i) to (<i>l</i>). Pub. L. 95–627 added subsecs. (i) to (<i>l</i>).
+Subsecs. (i) to (l). Pub. L. 95–627 added subsecs. (i) to (l).
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–166, §20(6), substituted “each year by not later than a date specified by the Secretary” for “by January 1 of each year (by December 1 in the case of fiscal year 1976)”.
 
@@ -2161,6 +2161,10 @@ Subsec. (e). Pub. L. 93–150, §6(c), extended dates for submission of prelimin
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2010 Amendment
 
@@ -2218,7 +2222,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 Amendment by section 109(h) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
-Section 729(g)(2) of Pub. L. 104–193 provided that: “The amendments made by paragraph (1) \[amending this section\] shall not apply to a contract for the procurement of infant formula under section 17(h)(8) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(h)(8)) that is in effect on the date of enactment of this subsection \[Aug. 22, 1996\].”
+Pub. L. 104–193, title VII, §729(g)(2), Aug. 22, 1996, 110 Stat. 2305, provided that: “The amendments made by paragraph (1) \[amending this section\] shall not apply to a contract for the procurement of infant formula under section 17(h)(8) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(h)(8)) that is in effect on the date of enactment of this subsection \[Aug. 22, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -2226,33 +2230,33 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective and Termination Dates of 1992 Amendments
 
-Section 209 of title II of Pub. L. 102–512, which provided that the authority provided and the amendments made by title II of Pub. L. 102–512, amending this section and enacting provisions set out as notes under this section and section 1771 of this title, would terminate on Sept. 30, 1994, except with regard to subsec. (h)(8)(J) of this section, as amended by section 204 of Pub. L. 102–512, was repealed, eff. Oct. 1, 1994, by Pub. L. 103–448, title II, §204(<i>o</i>)(2), title IV, §401, Nov. 2, 1994, 108 Stat. 4742, 4751.
+Pub. L. 102–512, title II, §209, Oct. 24, 1992, 106 Stat. 3369, which provided that the authority provided and the amendments made by title II of Pub. L. 102–512, amending this section and enacting provisions set out as notes under this section and section 1771 of this title, would terminate on Sept. 30, 1994, except with regard to subsec. (h)(8)(J) of this section, as amended by section 204 of Pub. L. 102–512, was repealed, eff. Oct. 1, 1994, by Pub. L. 103–448, title II, §204(o)(2), title IV, §401, Nov. 2, 1994, 108 Stat. 4742, 4751.
 
-Section 4 of Pub. L. 102–314 provided that: “The amendment made by section 3 \[amending this section\] shall be effective as of October 1, 1991.”
+Pub. L. 102–314, §4, July 2, 1992, 106 Stat. 285, provided that: “The amendment made by section 3 \[amending this section\] shall be effective as of October 1, 1991.”
 
 #### Effective Date of 1989 Amendment
 
-Section 123(f)(2) of Pub. L. 101–147 provided that: “The amendments made by subsections (a)(5), (a)(6), and (a)(7) \[amending this section\] shall be effective as of October 1, 1989.”
+Pub. L. 101–147, title I, §123(f)(2), Nov. 10, 1989, 103 Stat. 905, provided that: “The amendments made by subsections (a)(5), (a)(6), and (a)(7) \[amending this section\] shall be effective as of October 1, 1989.”
 
 #### Effective Date of 1988 Amendments
 
 Amendment by Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as a note under section 2012 of Title 7, Agriculture.
 
-Section 8(d) of Pub. L. 100–237 provided that: “The amendment made by subsections (a), (b), and (c) \[amending this section and enacting provisions set out below\] shall take effect October 1, 1987.”
+Pub. L. 100–237, §8(d), Jan. 8, 1988, 101 Stat. 1741, provided that: “The amendment made by subsections (a), (b), and (c) \[amending this section and enacting provisions set out below\] shall take effect October 1, 1987.”
 
 #### Effective Date of 1986 Amendments
 
-Section 342(b) of Pub. L. 99–500 and Pub. L. 99–591 and section 4302(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a State beginning with the fiscal year that commences after the end of the first regular session of the State legislature following the date of the enactment of this title \[Oct. 18, 1986\].”
+Pub. L. 99–500, title III, §342(b), Oct. 18, 1986, 100 Stat. 1783–364, Pub. L. 99–591, title III, §342(b), Oct. 30, 1986, 100 Stat. 3341–367, and Pub. L. 99–661, div. D, title III, §4302(b), Nov. 14, 1986, 100 Stat. 4075, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a State beginning with the fiscal year that commences after the end of the first regular session of the State legislature following the date of the enactment of this title \[Oct. 18, 1986\].”
 
-Section 344(b) of Pub. L. 99–500 and Pub. L. 99–591 and section 4304(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a plan submitted by a State agency under section 17(f)(1) of the Child Nutrition Act of 1966 \[subsec. (f)(1) of this section\] for the fiscal year ending September 30, 1987, and each fiscal year thereafter.”
+Pub. L. 99–500, title III, §344(b), Oct. 18, 1986, 100 Stat. 1783–365, Pub. L. 99–591, title III, §344(b), Oct. 30, 1986, 100 Stat. 3341–368, and Pub. L. 99–661, div. D, title III, §4304(b), Nov. 14, 1986, 100 Stat. 4077, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to a plan submitted by a State agency under section 17(f)(1) of the Child Nutrition Act of 1966 \[subsec. (f)(1) of this section\] for the fiscal year ending September 30, 1987, and each fiscal year thereafter.”
 
-Section 347 of Pub. L. 99–500 and Pub. L. 99–591 and section 4307 of Pub. L. 99–661 provided that the amendment made by section 347 of Pub. L. 99–500 and Pub. L. 99–591 and by section 4307 of Pub. L. 99–661 is effective Oct. 1, 1986.
+Pub. L. 99–500, title III, §347, Oct. 18, 1986, 100 Stat. 1783–366, Pub. L. 99–591, title III, §347, Oct. 30, 1986, 100 Stat. 3341–369, and Pub. L. 99–661, div. D, title III, §4307, Nov. 14, 1986, 100 Stat. 4077, provided that the amendment made by section 347 of Pub. L. 99–500 and Pub. L. 99–591 and by section 4307 of Pub. L. 99–661 is effective Oct. 1, 1986.
 
-Section 348(a) of Pub. L. 99–500 and Pub. L. 99–591 and section 4308(a) of Pub. L. 99–661 provided that the amendment made by section 348(a) of Pub. L. 99–500 and Pub. L. 99–591 and by section 4308(a) of Pub. L. 99–661 is effective Oct. 1, 1986.
+Pub. L. 99–500, title III, §348(a), Oct. 18, 1986, 100 Stat. 1783–366, Pub. L. 99–591, title III, §348(a), Oct. 30, 1986, 100 Stat. 3341–369, and Pub. L. 99–661, div. D, title III, §4308(a), Nov. 14, 1986, 100 Stat. 4077, provided that the amendment made by section 348(a) of Pub. L. 99–500 and Pub. L. 99–591 and by section 4308(a) of Pub. L. 99–661 is effective Oct. 1, 1986.
 
-Section 352 of Pub. L. 99–500 and Pub. L. 99–591 and section 4312 of Pub. L. 99–661 provided that the amendment made by section 352 of Pub. L. 99–500 and Pub. L. 99–591 and by section 4312 of Pub. L. 99–661 is effective Oct. 1, 1986.
+Pub. L. 99–500, title III, §352, Oct. 18, 1986, 100 Stat. 1783–367, Pub. L. 99–591, title III, §352, Oct. 30, 1986, 100 Stat. 3341–370, and Pub. L. 99–661, div. D, title III, §4312, Nov. 14, 1986, 100 Stat. 4078, provided that the amendment made by section 352 of Pub. L. 99–500 and Pub. L. 99–591 and by section 4312 of Pub. L. 99–661 is effective Oct. 1, 1986.
 
-Section 353(b) of Pub. L. 99–500 and Pub. L. 99–591 and section 4313(b) of Pub. L. 99–661 were substantially identical in providing that: “Section 17(i)(3)(A)(i) of the Child Nutrition Act of 1966 \[subsec. (i)(3)(A)(i) of this section\] (as amended by subsection (a)) shall not apply to appropriations made before the date of enactment of this title \[Oct. 18, 1986\].”
+Pub. L. 99–500, title III, §353(b), Oct. 18, 1986, 100 Stat. 1783–367, Pub. L. 99–591, title III, §353(b), Oct. 30, 1986, 100 Stat. 3341–370, and Pub. L. 99–661, div. D, title III, §4313(b), Nov. 14, 1986, 100 Stat. 4078, were substantially identical in providing that: “Section 17(i)(3)(A)(i) of the Child Nutrition Act of 1966 \[subsec. (i)(3)(A)(i) of this section\] (as amended by subsection (a)) shall not apply to appropriations made before the date of enactment of this title \[Oct. 18, 1986\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -2264,11 +2268,11 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 20 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
+Pub. L. 95–166, §20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendment made by that section is effective July 1, 1977.
 
 #### Effective Date of 1975 Amendment
 
-Section 14 of Pub. L. 94–105 provided that the amendment made by that section is effective beginning with the fiscal year ending June 30, 1976.
+Pub. L. 94–105, §14, Oct. 7, 1975, 89 Stat. 518, provided that the amendment made by that section is effective beginning with the fiscal year ending June 30, 1976.
 
 #### Termination of Advisory Councils
 
@@ -2284,7 +2288,7 @@ Pub. L. 105–336, title II, §203(f)(2), Oct. 31, 1998, 112 Stat. 3160, provide
 
 &emsp;“(B) not later than March 1, 2000, final regulations to carry out section 17(f)(24) of that Act.”
 
-Pub. L. 105–336, title II, §203(<i>l</i>)(2), Oct. 31, 1998, 112 Stat. 3162, provided that: “The Secretary of Agriculture shall promulgate—
+Pub. L. 105–336, title II, §203(l)(2), Oct. 31, 1998, 112 Stat. 3162, provided that: “The Secretary of Agriculture shall promulgate—
 
 &emsp;“(A) not later than March 1, 1999, proposed regulations to carry out section 17(h)(11) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(h)(11)), as added by paragraph (1); and
 
@@ -2292,15 +2296,15 @@ Pub. L. 105–336, title II, §203(<i>l</i>)(2), Oct. 31, 1998, 112 Stat. 3162, 
 
 Pub. L. 105–336, title II, §203(p)(2), Oct. 31, 1998, 112 Stat. 3165, provided that: “The Secretary of Agriculture shall promulgate—
 
-&emsp;“(A) not later than March 1, 1999, proposed regulations to carry out section 17(<i>o</i>) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(<i>o</i>)), as added by paragraph (1); and
+&emsp;“(A) not later than March 1, 1999, proposed regulations to carry out section 17(o) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(o)), as added by paragraph (1); and
 
-&emsp;“(B) not later than March 1, 2000, final regulations to carry out section 17(<i>o</i>) of that Act.”
+&emsp;“(B) not later than March 1, 2000, final regulations to carry out section 17(o) of that Act.”
 
-Section 123(f)(1) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsections (a)(2), (a)(3), and (a)(4) \[amending this section\].”
+Pub. L. 101–147, title I, §123(f)(1), Nov. 10, 1989, 103 Stat. 905, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsections (a)(2), (a)(3), and (a)(4) \[amending this section\].”
 
-Section 213(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 101–147, title II, §213(b), Nov. 10, 1989, 103 Stat. 913, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (a) \[amending this section\].”
 
-Section 13 of Pub. L. 95–627 provided that:
+Pub. L. 95–627, §13, Nov. 10, 1978, 92 Stat. 3625, provided that:
 
 “(a) The Secretary shall promulgate regulations to implement the provisions of section 3 of this Act \[amending this section\] within one hundred and twenty days of the date of enactment of this Act \[Nov. 10, 1978\].
 
@@ -2366,15 +2370,15 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Promotion by Secretary of Use of Farmers’ Markets
 
-Section 204(v)(12) of Pub. L. 103–448 provided that: “The Secretary of Agriculture shall promote the use of farmers’ markets by recipients of Federal nutrition programs administered by the Secretary.”
+Pub. L. 103–448, title II, §204(v)(12), Nov. 2, 1994, 108 Stat. 4745, provided that: “The Secretary of Agriculture shall promote the use of farmers’ markets by recipients of Federal nutrition programs administered by the Secretary.”
 
 #### References to Special Supplemental Food Program
 
-Section 204(w)(3) of Pub. L. 103–448 provided that: “Any reference to the special supplemental food program established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) in any provision of law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the special supplemental nutrition program established under such section.”
+Pub. L. 103–448, title II, §204(w)(3), Nov. 2, 1994, 108 Stat. 4746, provided that: “Any reference to the special supplemental food program established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) in any provision of law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the special supplemental nutrition program established under such section.”
 
 #### WIC Infant Formula Protection; Findings and Purposes
 
-Section 202 of title II of Pub. L. 102–512, as amended by Pub. L. 103–448, title II, §204(w)(2)(F), Nov. 2, 1994, 108 Stat. 4746, provided that:
+Pub. L. 102–512, title II, §202, Oct. 24, 1992, 106 Stat. 3364, as amended by Pub. L. 103–448, title II, §204(w)(2)(F), Nov. 2, 1994, 108 Stat. 4746, provided that:
 
 “(a)
 
@@ -2396,11 +2400,11 @@ Purposes.—It is the purpose of this title \[amending this section and enacting
 
 #### Study of Infant Formula Bid Solicitations
 
-Section 208 of title II of Pub. L. 102–512 directed Secretary of Agriculture, not later than Apr. 1, 1994, to report to Congress on State agencies that request the Secretary of Agriculture to conduct bid solicitations for infant formula under 42 U.S.C. 1786(h)(8)(G)(i), cost reductions achieved by the solicitations, and other matters the Secretary determined to be appropriate regarding title II of Pub. L. 102–512.
+Pub. L. 102–512, title II, §208, Oct. 24, 1992, 106 Stat. 3368, directed Secretary of Agriculture, not later than Apr. 1, 1994, to report to Congress on State agencies that request the Secretary of Agriculture to conduct bid solicitations for infant formula under 42 U.S.C. 1786(h)(8)(G)(i), cost reductions achieved by the solicitations, and other matters the Secretary determined to be appropriate regarding title II of Pub. L. 102–512.
 
 #### Women, Infants, and Children Farmers’ Market Nutrition Program; Congressional Statement of Purpose
 
-Section 2 of Pub. L. 102–314 provided that: “The purpose of this Act \[amending this section and enacting provisions set out as notes under this section and section 1771 of this title\] is to authorize grants to be made to State programs designed to—
+Pub. L. 102–314, §2, July 2, 1992, 106 Stat. 280, provided that: “The purpose of this Act \[amending this section and enacting provisions set out as notes under this section and section 1771 of this title\] is to authorize grants to be made to State programs designed to—
 
 &emsp;“(1) provide resources to women, infants, and children who are nutritionally at risk in the form of fresh nutritious unprepared foods (such as fruits and vegetables), from farmers’ markets; and
 
@@ -2408,23 +2412,23 @@ Section 2 of Pub. L. 102–314 provided that: “The purpose of this Act \[amend
 
 #### Review of Priority System; Reports to Congress
 
-Section 123(b) of Pub. L. 101–147 directed Secretary of Agriculture to review relationship between nutritional risk criteria established under this section and priority system used under special supplemental food program under this section, especially as it affected pregnant women, and to submit preliminary and final reports to Congress on results of review by Oct. 1, 1990, and by July 1, 1991, respectively.
+Pub. L. 101–147, title I, §123(b), Nov. 10, 1989, 103 Stat. 904, directed Secretary of Agriculture to review relationship between nutritional risk criteria established under this section and priority system used under special supplemental food program under this section, especially as it affected pregnant women, and to submit preliminary and final reports to Congress on results of review by Oct. 1, 1990, and by July 1, 1991, respectively.
 
 #### Report on WIC Food Package
 
-Section 123(c) of Pub. L. 101–147 directed Secretary of Agriculture to review appropriateness of foods eligible for purchase under special supplemental food program under this section and to submit preliminary and final reports to Congress on findings of review by June 30, 1991, and by June 30, 1992, respectively.
+Pub. L. 101–147, title I, §123(c), Nov. 10, 1989, 103 Stat. 904, directed Secretary of Agriculture to review appropriateness of foods eligible for purchase under special supplemental food program under this section and to submit preliminary and final reports to Congress on findings of review by June 30, 1991, and by June 30, 1992, respectively.
 
 #### Report on Costs for Nutrition Services and Administration
 
-Section 123(d) of Pub. L. 101–147 directed Secretary of Agriculture to review effect on costs for nutrition services and administration incurred by State and local agencies of sections 123 and 213 of Pub. L. 101–647, and the amendments made by such sections, amending this section and enacting provisions set out as notes under this section (including effect of both increases and decreases in requirements imposed on such agencies), and to report results of such review to Congress not later than one year after Nov. 10, 1989.
+Pub. L. 101–147, title I, §123(d), Nov. 10, 1989, 103 Stat. 905, directed Secretary of Agriculture to review effect on costs for nutrition services and administration incurred by State and local agencies of sections 123 and 213 of Pub. L. 101–647, and the amendments made by such sections, amending this section and enacting provisions set out as notes under this section (including effect of both increases and decreases in requirements imposed on such agencies), and to report results of such review to Congress not later than one year after Nov. 10, 1989.
 
 #### Paperwork Reduction
 
-Section 123(e) of Pub. L. 101–147 provided that: “In implementing and monitoring compliance with the provisions of the amendments made by this section \[amending this section\] (other than the amendment made by subsection (a)(2) to section 17(d)(2) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(d)(2)), the Secretary of Agriculture shall not impose any new requirement on a State or local agency that would require the State or local agency to place additional paperwork or documentation in a case file maintained by a local agency.”
+Pub. L. 101–147, title I, §123(e), Nov. 10, 1989, 103 Stat. 905, provided that: “In implementing and monitoring compliance with the provisions of the amendments made by this section \[amending this section\] (other than the amendment made by subsection (a)(2) to section 17(d)(2) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(d)(2)), the Secretary of Agriculture shall not impose any new requirement on a State or local agency that would require the State or local agency to place additional paperwork or documentation in a case file maintained by a local agency.”
 
 #### Farmers’ Market Coupons Demonstration Project
 
-Section 501(a) of Pub. L. 100–435 provided that: “The purpose of this section is to authorize the establishment of a grant program to encourage State demonstration projects designed to—
+Pub. L. 100–435, title V, §501(a), Sept. 19, 1988, 102 Stat. 1668, provided that: “The purpose of this section is to authorize the establishment of a grant program to encourage State demonstration projects designed to—
 
 &emsp;“(1) provide resources to persons who are nutritionally at risk in the form of fresh nutritious unprepared foods (such as fruits and vegetables), from farmers’ markets; and
 
@@ -2432,15 +2436,15 @@ Section 501(a) of Pub. L. 100–435 provided that: “The purpose of this sectio
 
 #### Study of Nutrition Services and Administration Funding
 
-Section 8(c) of Pub. L. 100–237 directed Secretary to conduct a study of appropriateness of percentage of annual appropriation for the program required by 42 U.S.C. 1786(h)(1) to be made available for State and local agency costs for nutrition services and administration, and to report results of this study to Congress not later than Mar. 1, 1989, such study to include an analysis of the impact in future years on per participant administrative costs if a substantial number of States implement competitive bidding, rebate, direct distribution, or home delivery systems and to examine the impact of percentage provided for nutrition services and administration on quality of such services.
+Pub. L. 100–237, §8(c), Jan. 8, 1988, 101 Stat. 1741, directed Secretary to conduct a study of appropriateness of percentage of annual appropriation for the program required by 42 U.S.C. 1786(h)(1) to be made available for State and local agency costs for nutrition services and administration, and to report results of this study to Congress not later than Mar. 1, 1989, such study to include an analysis of the impact in future years on per participant administrative costs if a substantial number of States implement competitive bidding, rebate, direct distribution, or home delivery systems and to examine the impact of percentage provided for nutrition services and administration on quality of such services.
 
 #### Study of Medicaid Savings for Newborns From WIC Program
 
-Section 10 of Pub. L. 100–237 directed Secretary of Agriculture to study medicaid savings for newborns as result of prenatal participation by mothers in special supplemental food program under this section and to report study results to Congress by Feb. 1, 1990. Similar provisions were contained in Pub. L. 100–202, §101(k) \[title III\], Dec. 22, 1987, 101 Stat. 1329–349.
+Pub. L. 100–237, §10, Jan. 8, 1988, 101 Stat. 1741, directed Secretary of Agriculture to study medicaid savings for newborns as result of prenatal participation by mothers in special supplemental food program under this section and to report study results to Congress by Feb. 1, 1990. Similar provisions were contained in Pub. L. 100–202, §101(k) \[title III\], Dec. 22, 1987, 101 Stat. 1329–349.
 
 #### Accountability for Migrant Services
 
-Section 348(b) of Pub. L. 99–500 and Pub. L. 99–591 and section 4308(b) of Pub. L. 99–661 provided that: “To the extent possible, accountability for migrant services under section 17(g)(2) of the Child Nutrition Act of 1966 \[subsec. (g)(2) of this section\] (as added by subsection (a)) shall be conducted under regulations in effect on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, title III, §348(b), Oct. 18, 1986, 100 Stat. 1783–366, Pub. L. 99–591, title III, §348(b), Oct. 30, 1986, 100 Stat. 3341–369, and Pub. L. 99–661, div. D, title III, §4308(b), Nov. 14, 1986, 100 Stat. 4078, provided that: “To the extent possible, accountability for migrant services under section 17(g)(2) of the Child Nutrition Act of 1966 \[subsec. (g)(2) of this section\] (as added by subsection (a)) shall be conducted under regulations in effect on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 <i><sup>1</sup></i><i> So in original. The “; and” probably should be a period.</i>
 

@@ -26,7 +26,7 @@ The certificate of authority, agents’ appointments and licenses, rates, approv
 
 #### (e) Notice
 
-A redomesticating insurer shall give notice of the proposed transfer to the State insuranceregulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
+A redomesticating insurer shall give notice of the proposed transfer to the State insurance regulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
 
 #### (f) Procedural requirements
 
@@ -42,7 +42,7 @@ No mutual insurer may redomesticate to another State and reorganize into a mutua
 
 #### (3) Award of stock or grant of options to officers and directors
 
-&emsp;During the applicable period provided for under the State law of the transferee domicile following completion of an initial public offering, or for a period of six months if no such applicable period is provided, neither a stock holding company nor the converted insurer shall award any stock options or stock grants to persons who are elected officers or directors of the mutual holding company, the stock holding company, or the converted insurer, except with respect to any such awards or options to which a person is entitled as a policyholder and as approved by the State insurance regulator of the transferee domicile.
+&emsp;During the applicable period provided for under the State law of the transferee domicile following completion of an initial public offering, or for a period of six months if no such applicable period is provided, neither a stockholding company nor the converted insurer shall award any stock options or stock grants to persons who are elected officers or directors of the mutual holding company, the stock holding company, or the converted insurer, except with respect to any such awards or options to which a person is entitled as a policyholder and as approved by the State insurance regulator of the transferee domicile.
 
 #### (4) Policyholder rights
 

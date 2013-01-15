@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 471, act Mar. 4, 1927, ch. 513, §1, 44 Stat. 1452, which declared Congressional policy towards grazingdistricts and privileges, was transferred to section 316 of Title 43, Public Lands.
+Section 471, act Mar. 4, 1927, ch. 513, §1, 44 Stat. 1452, which declared Congressional policy towards grazing districts and privileges, was transferred to section 316 of Title 43, Public Lands.
 
 Section 471a, act Mar. 4, 1927, ch. 513, §2, 44 Stat. 1452, which defined terms “person”, “district”, “Secretary”, and “lessee”, was transferred to section 316a of Title 43.
 
@@ -26,11 +26,11 @@ Section 471j, act Mar. 4, 1927, ch. 513, §11, 44 Stat 1454, which provided for 
 
 Section 471k, act Mar. 4, 1927, ch. 513, §12, 44 Stat. 1454, which prohibited the grazing of animals on grazing district land without a lease or other permission and set the penalty for violation of the section, was transferred to section 316k of Title 43.
 
-Section 471<i>l</i>, act Mar. 4, 1927, ch. 513, §13, 44 Stat. 1454, which authorized the Secretary of the Interior to establish stock driveways and allow free grazing, was transferred to section 316<i>l</i> of Title 43.
+Section 471l, act Mar. 4, 1927, ch. 513, §13, 44 Stat. 1454, which authorized the Secretary of the Interior to establish stock driveways and allow free grazing, was transferred to section 316l of Title 43.
 
 Section 471m, act Mar. 4, 1927, ch. 513, §14, 44 Stat. 1454, which made provision for hearing and appeals from decisions of Interior Department employees regarding grazing privileges, was transferred to section 316m of Title 43.
 
-Section 471n, act Mar. 4, 1927, ch. 513, §15, 44 Stat. 1455, which authorized the Secretary of the Interior to promulgate rules and regulations necessary to the administration of sections 471 to 471<i>o</i> of this title, appoint employees, make expenditures, and investigate, experiment, and improve the reindeer industry and cooperate in the development of plant and animal life, was transferred to section 316n of Title 43.
+Section 471n, act Mar. 4, 1927, ch. 513, §15, 44 Stat. 1455, which authorized the Secretary of the Interior to promulgate rules and regulations necessary to the administration of sections 471 to 471o of this title, appoint employees, make expenditures, and investigate, experiment, and improve the reindeer industry and cooperate in the development of plant and animal life, was transferred to section 316n of Title 43.
 
-Section 471<i>o</i>, act Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455, which continued in force and effect laws applicable to lands or resources in the same manner as they had applied prior to enactment of sections 471 to 471<i>o</i> of this title with regard to ingress and egress upon lands for any authorized purpose including prospecting for and mining extraction of minerals, was transferred to section 316<i>o</i> of Title 43.
+Section 471o, act Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455, which continued in force and effect laws applicable to lands or resources in the same manner as they had applied prior to enactment of sections 471 to 471o of this title with regard to ingress and egress upon lands for any authorized purpose including prospecting for and mining extraction of minerals, was transferred to section 316o of Title 43.
 

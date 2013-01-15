@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original
 
 #### Effective Date
 
-Section 34 of Pub. L. 91–596 provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
+Pub. L. 91–596, §34, Dec. 29, 1970, 84 Stat. 1620, provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
 
 #### Short Title of 1998 Amendment
 
@@ -46,5 +46,5 @@ Pub. L. 105–197, §1, July 16, 1998, 112 Stat. 638, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 91–596 provided: “That this Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] may be cited as the ‘Occupational Safety and Health Act of 1970’.”
+Pub. L. 91–596, §1, Dec. 29, 1970, 84 Stat. 1590, provided: “That this Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] may be cited as the ‘Occupational Safety and Health Act of 1970’.”
 

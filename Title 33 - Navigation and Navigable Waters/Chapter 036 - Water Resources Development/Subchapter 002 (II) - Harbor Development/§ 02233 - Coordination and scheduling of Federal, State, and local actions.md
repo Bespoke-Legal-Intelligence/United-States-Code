@@ -6,7 +6,7 @@ The Secretary, on request from an appropriate non-Federal interest in the form o
 
 #### (b) Procedural requirements
 
-Within 15 days after receipt of notice under subsection (a) of this section, the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) of this section to all State and localagencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c) of this section. Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
+Within 15 days after receipt of notice under subsection (a) of this section, the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) of this section to all State and local agencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c) of this section. Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
 
 #### (c) Scheduling agreement
 
@@ -26,7 +26,7 @@ The Secretary may revise the agreement once to extend the schedule to allow the 
 
 #### (g) Progress reports
 
-Six months before the final date of the schedule, the Secretary shall provide to Congress a written progress report for each navigation project for a harbor or inland harbor subject to this section. The Secretary shall transmit the report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate. The report shall summarize all work completed under the agreement and shall include a detailed work program that will assure completion of all remaining work under the agreement.
+Six months before the final date of the schedule, the Secretary shall provide to Congress a written progress report for each navigation project for a harbor or inland harbor subject to this section. The Secretary shall transmit the report to the Committee on Public Works and Transportation of the House of Representativesand the Committee on Environment and Public Works of the Senate. The report shall summarize all work completed under the agreement and shall include a detailed work program that will assure completion of all remaining work under the agreement.
 
 #### (h) Final decision
 

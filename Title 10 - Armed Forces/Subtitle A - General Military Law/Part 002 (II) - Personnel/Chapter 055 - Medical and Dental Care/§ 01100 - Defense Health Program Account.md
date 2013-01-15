@@ -20,7 +20,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 <b>1996</b>—Pub. L. 104–106, §735(d)(1), amended section catchline generally, substituting “Defense Health Program Account” for “Military Health Care Account”.
 
-Subsec. (a)(1). Pub. L. 104–106, §735(a)(1), substituted “Defense Health Program Account” for “Military Health Care Account” and “medical and health care programs of the Department of Defense” for “the Civilian Health and Medical Program of the Uniformed Services”.
+Subsec. (a)(1). Pub. L. 104–106, §735(a)(1), substituted “Defense Health Program Account” for “Military Health Care Account” and “medical and health careprograms of the Department of Defense” for “the Civilian Health and Medical Program of the Uniformed Services”.
 
 Subsec. (a)(2). Pub. L. 104–106, §735(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Amounts appropriated to the account shall remain available until obligated or expended under subsection (b) or (c).”
 
@@ -48,9 +48,9 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Section 701(d)(3) of Pub. L. 99–661 provided that: “Section 1100 of such title (as added by subsection (a)(1)) shall take effect on October 1, 1987.”
+Pub. L. 99–661, div. A, title VII, §701(d)(3), Nov. 14, 1986, 100 Stat. 3898, provided that: “Section 1100 of such title (as added by subsection (a)(1)) shall take effect on October 1, 1987.”
 
 #### Reports to Congress
 
-Section 701(c)(2) of Pub. L. 99–661 required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a) of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
+Pub. L. 99–661, div. A, title VII, §701(c)(2), Nov. 14, 1986, 100 Stat. 3898, required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a) of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
 

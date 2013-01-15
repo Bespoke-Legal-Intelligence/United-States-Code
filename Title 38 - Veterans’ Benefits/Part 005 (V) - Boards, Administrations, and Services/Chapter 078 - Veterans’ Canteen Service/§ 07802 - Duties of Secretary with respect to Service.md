@@ -14,7 +14,7 @@ Space, Buildings, and Structures.—The Secretary shall furnish the Service for 
 
 (d)
 
-Equipment, Services, and Utilities.—The Secretary shall transfer to the Service without charge, rental, or reimbursement such necessary equipment as may not be needed for other purposes, and furnish the Service such services and utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished.
+Equipment, Services, and Utilities.—The Secretary shall transfer to the Service withoutcharge, rental, or reimbursement such necessary equipment as may not be needed for other purposes, and furnish the Service such services and utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished.
 
 (e)
 
@@ -22,7 +22,7 @@ Personnel.—The Secretary shall employ such persons as are necessary for the es
 
 (f)
 
-Contracts and Agreements.—The Secretary shall make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, withoutregard to section 6101(b) to (d) of title 41 and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith.
+Contracts and Agreements.—The Secretary shall make all necessary contracts or agreements to purchase or sell merchandise, fixtures, equipment, supplies, and services, without regard to section 6101(b) to (d) of title 41 and to do all things necessary to carry out such contracts or agreements, including the making of necessary adjustments and compromising of claims in connection therewith.
 
 (g)
 
@@ -76,7 +76,7 @@ Pub. L. 102–40, §402(d)(1), substituted “7803” for “4203”.
 
 <b>1986</b>—Par. (11). Pub. L. 99–576 struck out “and without regard to the provisions of section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240),” after “as the Administrator may deem appropriate,”.
 
-<b>1982</b>—Par. (5). Pub. L. 97–295, §4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
+<b>1982</b>—Par. (5). Pub. L. 97–295, §4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949,and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
 
 Par. (11). Pub. L. 97–295, §4(88)(B), substituted “section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240)” for “sections 521 and 543 of title 5”.
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Effective Date of 1959 Amendment
 
-Section 2 of Pub. L. 86–109 provided that: “This Act \[amending this section\] shall take effect on the first day of July 1959.”
+Pub. L. 86–109, §2, July 28, 1959, 73 Stat. 258, provided that: “This Act \[amending this section\] shall take effect on the first day of July 1959.”
 

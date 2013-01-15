@@ -6,7 +6,7 @@ For purposes of carrying out this part, the Commission and the Secretary may eac
 
 #### (b) Confidentiality
 
-Any information submitted by any person to the Secretary or the Commission under this partshall not be considered energy information as defined by section 796(e)(1) of title 15 for purposes of any verification examination authorized to be conducted by the Comptroller General under section 6381 of this title.
+Any information submitted by any person to the Secretary or the Commission under this part shall not be considered energy information as defined by section 796(e)(1) of title 15 for purposes of any verification examination authorized to be conducted by the Comptroller General under section 6381 of this title.
 
 (Pub. L. 94–163, title III, §329, Dec. 22, 1975, 89 Stat. 928; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §11(b)(4), Mar. 17, 1987, 101 Stat. 125.)
 

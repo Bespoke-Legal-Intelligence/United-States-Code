@@ -64,7 +64,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (5) Travel expenses
 
-&emsp;Members of the Board shall not be compensated, but shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;Members of the Board shall not be compensated, but shall receive travel expenses, including per diem in lieu of subsistence, atrates authorized for employees of agencies under subchapter I of chapter 57 of title 5 for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (6) Detail of Federal employees
 

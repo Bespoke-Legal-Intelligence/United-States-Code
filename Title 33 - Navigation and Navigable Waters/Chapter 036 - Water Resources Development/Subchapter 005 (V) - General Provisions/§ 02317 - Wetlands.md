@@ -116,7 +116,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Wetlands Enhancement Opportunities
 
-Section 409 of Pub. L. 101–640 provided that: “Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects.”
+Pub. L. 101–640, title IV, §409, Nov. 28, 1990, 104 Stat. 4648, provided that: “Not later than January 20, 1992, the Secretary shall transmit to Congress a list which specifically identifies opportunities of enhancing wetlands in connection with construction and operation of water resource projects.”
 
 #### “Secretary” Defined
 

@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 102–173, §10(2), substituted “individuals with mental 
 
 #### Short Title of 1991 Amendment
 
-Section 1 of Pub. L. 102–173 provided that: “This Act \[amending this section and sections 10802 to 10807, 10821, 10824, 10826, 10827, 10841, and 10851 of this title\] may be cited as the ‘Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1991’.”
+Pub. L. 102–173, §1, Nov. 27, 1991, 105 Stat. 1217, provided that: “This Act \[amending this section and sections 10802 to 10807, 10821, 10824, 10826, 10827, 10841, and 10851 of this title\] may be cited as the ‘Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -48,5 +48,5 @@ Pub. L. 99–319, §1, May 23, 1986, 100 Stat. 478, as amended by Pub. L. 106–
 
 #### Supersedure of Balanced Budget Provisions
 
-Section 402 of Pub. L. 99–319 provided that: “This Act \[see Short Title note above\] shall not be construed as superseding any of the balanced budget provisions set forth in section 3(7) of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 622(7)\].”
+Pub. L. 99–319, title IV, §402, May 23, 1986, 100 Stat. 490, provided that: “This Act \[see Short Title note above\] shall not be construed as superseding any of the balanced budget provisions set forth in section 3(7) of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 622(7)\].”
 

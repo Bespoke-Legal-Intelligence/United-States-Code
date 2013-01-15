@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided in section 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
+The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided insection 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
 
 #### (b) Method of adjustment
 
@@ -70,5 +70,5 @@ Pub. L. 108–357, title VIII, §833(d)(3), Oct. 22, 2004, 118 Stat. 1592, provi
 
 #### Effective Date of 1984 Amendment
 
-Section 78(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after March 1, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §78(b), July 18, 1984, 98 Stat. 597, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after March 1, 1984, in taxable years ending after such date.”
 

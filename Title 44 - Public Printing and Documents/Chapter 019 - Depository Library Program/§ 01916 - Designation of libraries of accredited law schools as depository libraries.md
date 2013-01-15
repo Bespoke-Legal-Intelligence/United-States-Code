@@ -8,7 +8,7 @@
 
 #### Effective Date
 
-Section 3 of Pub. L. 95–261 provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–261, §3, Apr. 17, 1978, 92 Stat. 199, provided that: “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1978.”
 
 #### Transfer of Functions
 

@@ -96,7 +96,7 @@
 
 > &emsp;but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title;
 
-&emsp;(20) under subsection (a), of any act to enforce any lien against or security interest in real property following entry of the order under subsection (d)(4) as to such real property in any prior case under this title, for a period of 2 years after the date of the entry of such an order, except that the debtor, in a subsequent case under this title, may move for relief from such order based upon changed circumstances or for other good cause shown, after notice and a hearing;
+&emsp;(20) under subsection (a), of any act to enforce any lien against or security interest inreal property following entry of the order under subsection (d)(4) as to such real property in any prior case under this title, for a period of 2 years after the date of the entry of such an order, except that the debtor, in a subsequent case under this title, may move for relief from such order based upon changed circumstances or for other good cause shown, after notice and a hearing;
 
 &emsp;(21) under subsection (a), of any act to enforce any lien against or security interest in real property—
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(B) if the case under this title was filed in violation of a bankruptcy court order in a prior case under this title prohibiting the debtor from being a debtor in another case under this title;
 
-&emsp;(22) subject to subsection (<i>l</i>), under subsection (a)(3), of the continuation of any eviction, unlawful detainer action, or similar proceeding by a lessor against a debtor involving residential property in which the debtor resides as a tenant under a lease or rental agreement and with respect to which the lessor has obtained before the date of the filing of the bankruptcy petition, a judgment for possession of such property against the debtor;
+&emsp;(22) subject to subsection (l), under subsection (a)(3), of the continuation of any eviction, unlawful detainer action, or similar proceeding by a lessor against a debtor involving residential property in which the debtor resides as a tenant under a lease or rental agreement and with respect to which the lessor has obtained before the date of the filing of the bankruptcy petition, a judgment for possession of such property against the debtor;
 
 &emsp;(23) subject to subsection (m), under subsection (a)(3), of an eviction action that seeks possession of the residential property in which the debtor resides as a tenant under a lease or rental agreement based on endangerment of such property or the illegal use of controlled substances on such property, but only if the lessor files with the court, and serves upon the debtor, a certification under penalty of perjury that such an eviction action has been filed, or that the debtor, during the 30-day period preceding the date of the filing of the certification, has endangered property or illegally used or allowed to be used a controlled substance on the property;
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) the stay under subsection (a) with respect to any action taken with respect to a debt or property securing such debt or with respect to any lease shall terminate with respect to the debtor on the 30th day after the filing of the later case;
 
-&emsp;&emsp;(B) on the motion of a party in interest for continuation of the automatic stay and upon notice and a hearing, the court may extend the stay in particular cases as to any or all creditors (subject to such conditions or limitations as the court may then impose) after notice and a hearing completed before theexpiration of the 30-day period only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed; and
+&emsp;&emsp;(B) on the motion of a party in interest for continuation of the automatic stay and uponnotice and a hearing, the court may extend the stay in particular cases as to any or all creditors (subject to such conditions or limitations as the court may then impose) after notice and a hearing completed before the expiration of the 30-day period only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed; and
 
 &emsp;&emsp;(C) for purposes of subparagraph (B), a case is presumptively filed not in good faith (but such presumption may be rebutted by clear and convincing evidence to the contrary)—
 
@@ -240,7 +240,7 @@
 
 &emsp;(B) to take timely the action specified in such statement, as it may be amended before expiration of the period for taking action, unless such statement specifies the debtor's intention to reaffirm such debt on the original contract terms and the creditor refuses to agree to the reaffirmation on such terms.
 
-(2) Paragraph (1) does not apply if the court determines, on the motion of the trustee filed before the expiration of the applicable time set by section 521(a)(2), after notice and a hearing, that such personal property is of consequential value or benefit to the estate, and orders appropriate adequate protection of the creditor's interest, and orders the debtor to deliver any collateral in the debtor's possession to the trustee. If the court does not so determine, the stay provided by subsection (a) shall terminate upon the conclusion of the hearing on the motion.
+(2) Paragraph (1) does not apply if the court determines, on the motion of the trustee filed before the expiration of the applicable time set by section 521(a)(2), after notice and a hearing,that such personal property is of consequential value or benefit to the estate, and orders appropriate adequate protection of the creditor's interest, and orders the debtor to deliver any collateral in the debtor's possession to the trustee. If the court does not so determine, the stay provided by subsection (a) shall terminate upon the conclusion of the hearing on the motion.
 
 (i) If a case commenced under chapter 7, 11, or 13 is dismissed due to the creation of a debt repayment plan, for purposes of subsection (c)(3), any subsequent case commenced by the debtor under any such chapter shall not be presumed to be filed not in good faith.
 
@@ -250,7 +250,7 @@
 
 (2) If such violation is based on an action taken by an entity in the good faith belief that subsection (h) applies to the debtor, the recovery under paragraph (1) of this subsection against such entity shall be limited to actual damages.
 
-(<i>l</i>)(1) Except as otherwise provided in this subsection, subsection (b)(22) shall apply on the date that is 30 days after the date on which the bankruptcy petition is filed, if the debtor files with the petition and serves upon the lessor a certification under penalty of perjury that—
+(l)(1) Except as otherwise provided in this subsection, subsection (b)(22) shall apply on the date that is 30 days after the date on which the bankruptcy petition is filed, if the debtor files with the petition and serves upon the lessor a certification under penalty of perjury that—
 
 &emsp;(A) under nonbankruptcy law applicable in the jurisdiction, there are circumstances under which the debtor would be permitted to cure the entire monetary default that gave rise to the judgment for possession, after that judgment for possession was entered; and
 
@@ -288,9 +288,9 @@
 
 (2)(A) If the debtor files with the court an objection to the truth or legal sufficiency of the certification described in subsection (b)(23) and serves such objection upon the lessor, subsection (b)(23) shall not apply, unless ordered to apply by the court under this subsection.
 
-(B) If the debtor files and serves the objection under subparagraph (A), the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the situation giving rise to the lessor's certification under paragraph (1) existed or has been remedied.
+(B) If the debtor files and serves the objection under subparagraph (A), the court shall hold ahearing within 10 days after the filing and service of such objection to determine if the situation giving rise to the lessor's certification under paragraph (1) existed or has been remedied.
 
-(C) If the debtor can demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph\(1) did not exist or has been remedied, the stay provided under subsection (a)(3) shall remain in effect until the termination of the stay under this section.
+(C) If the debtor can demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied, the stay provided under subsection (a)(3) shall remain in effect until the termination of the stay under this section.
 
 (D) If the debtor cannot demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied—
 
@@ -324,9 +324,9 @@
 
 &emsp;&emsp;(ii) it is more likely than not that the court will confirm a feasible plan, but not a liquidating plan, within a reasonable period of time.
 
-(<i>o</i>) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
+(o) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (<i>o</i>)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696; Pub. L. 111–327, §2(a)(12), Dec. 22, 2010, 124 Stat. 3558.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (o)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696; Pub. L. 111–327, §2(a)(12), Dec. 22, 2010, 124 Stat. 3558.)
 
 #### Historical and Revision Notes
 
@@ -342,7 +342,7 @@ Section 362(b)(4) indicates that the stay under section 362(a)(1) does not apply
 
 Section 362(b)(6) of the House amendment adopts a provision contained in the Senate amendment restricting the exception to the automatic stay with respect to setoffs to permit only the setoff of mutual debts and claims. Traditionally, the right of setoff has been limited to mutual debts and claims and the lack of the clarifying term “mutual” in H.R. 8200 as passed by the House created an unintentional ambiguity. Section 362(b)(7) of the House amendment permits the issuance of a notice of tax deficiency. The House amendment rejects section 362(b)(7) in the Senate amendment. It would have permitted a particular governmental unit to obtain a pecuniary advantage without a hearing on the merits contrary to the exceptions contained in sections 362(b)(4) and (5).
 
-Section 362(d) of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. Under section 362(d)(1) of the House amendment, the court may terminate, annul, modify, or condition the automatic stay for cause, including lack of adequate protection of an interest in property of a secured party. It is anticipatedthat the Rules of Bankruptcy Procedure will provide that those hearings will receive priority on the calendar. Under section 362(d)(2) the court may alternatively terminate, annul, modify, or condition the automatic stay for cause including inadequate protection for the creditor. The court shall grant relief from the stay if there is no equity and it is not necessary to an effective reorganization of the debtor.
+Section 362(d) of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. Under section 362(d)(1) of the House amendment, the court may terminate, annul, modify, or condition the automatic stay for cause, including lack of adequate protection of an interest in property of a secured party. It is anticipated that the Rules of Bankruptcy Procedure will provide that those hearings will receive priority on the calendar. Under section 362(d)(2) the court may alternatively terminate, annul, modify, or condition the automatic stay for cause including inadequate protection for the creditor. The court shall grant relief from the stay if there is no equity and it is not necessary to an effective reorganization of the debtor.
 
 The latter requirement is contained in section 362(d)(2). This section is intended to solve the problem of real property mortgage foreclosures of property where the bankruptcy petition is filed on the eve of foreclosure. The section is not intended to apply if the business of the debtor is managing or leasing real property, such as a hotel operation, even though the debtor has no equity if the property is necessary to an effective reorganization of the debtor. Similarly, if the debtor does have an equity in the property, there is no requirement that the property be sold under section 363 of title 11 as would have been required by the Senate amendment.
 
@@ -366,7 +366,7 @@ Paragraph (7) \[of subsec. (a)\] stays setoffs of mutual debts and credits betwe
 
 Subsection (c) governs automatic termination of the stay. Subsections (d) through (g) govern termination of the stay by the court on the request of a party in interest. Subsection (d) requires the court, on request of a party in interest, to grant relief from the stay, such as by terminating, annulling, modifying, or conditioning the stay, for cause. The lack of adequate protection of an interest in property of the party requesting relief from the stay is one cause for relief, but is not the only cause. As noted above, a desire to permit an action to proceed to completion in another tribunal may provide another cause. Other causes might include the lack of any connection with or interference with the pending bankruptcy case. For example, a divorce or child custody proceeding involving the debtor may bear no relation to the bankruptcy case. In that case, it should not be stayed. A probate proceeding in which the debtor is the executor or administrator of another's estate usually will not be related to the bankruptcy case, and should not be stayed. Generally, proceedings in which the debtor is a fiduciary, or involving postpetition activities of the debtor, need not be stayed because they bear no relationship to the purpose of the automatic stay, which is debtor protection from his creditors. The facts of each request will determine whether relief is appropriate under the circumstances.
 
-Subsection (e) provides a protection for secured creditors that is not available under present law. The subsection sets a time certain within which the bankruptcy court must rule on the adequacy of protection provided of the secured creditor's interest. If the court does not rule within 30 days from a request for relief from the stay, the stay is automatically terminated with respect to the property in question. In order to accommodate more complex cases, the subsection permits the court to make a preliminary ruling after a preliminary hearing. After a preliminary hearing, the court may continue the stay only if there is a reasonable likelihood that the party opposing relief from the stay will prevail at the final hearing. Because the stay is essentially an injunction, the three stages of the stay may be analogized to the three stages of an injunction. The filing of the petition which gives rise to the automatic stay is similar to a temporary restraining order. The preliminary hearing is similar to the hearing on a preliminary injunction, and the final hearing and order is similar to a permanent injunction. The main difference lies in which party must bring the issue before the court. While in the injunction setting, the party seeking the injunction must prosecute the action, in proceedings for relief from the automatic stay, the enjoined party must move. The difference does not, however, shift the burden of proof. Subsection (g) leaves that burden on the party opposing relief fromthe stay (that is, on the party seeking continuance of the injunction) on the issue of adequate protection.
+Subsection (e) provides a protection for secured creditors that is not available under present law. The subsection sets a time certain within which the bankruptcy court must rule on the adequacy of protection provided of the secured creditor's interest. If the court does not rule within 30 days from a request for relief from the stay, the stay is automatically terminated with respect to the property in question. In order to accommodate more complex cases, the subsection permits the court to make a preliminary ruling after a preliminary hearing. After a preliminary hearing, the court may continue the stay only if there is a reasonable likelihood that the party opposing relief from the stay will prevail at the final hearing. Because the stay is essentially an injunction, the three stages of the stay may be analogized to the three stages of an injunction. The filing of the petition which gives rise to the automatic stay is similar to a temporary restraining order. The preliminary hearing is similar to the hearing on a preliminary injunction, and the final hearing and order is similar to a permanent injunction. Themain difference lies in which party must bring the issue before the court. While in the injunction setting, the party seeking the injunction must prosecute the action, in proceedings for relief from the automatic stay, the enjoined party must move. The difference does not, however, shift the burden of proof. Subsection (g) leaves that burden on the party opposing relief from the stay (that is, on the party seeking continuance of the injunction) on the issue of adequate protection.
 
 At the expedited hearing under subsection (e), and at all hearings on relief from the stay, the only issue will be the claim of the creditor and the lack of adequate protection or existence of other cause for relief from the stay. This hearing will not be the appropriate time at which to bring in other issues, such as counterclaims against the creditor on largely unrelated matters. Those counterclaims are not to be handled in the summary fashion that the preliminary hearing under this provision will be. Rather, they will be the subject of more complete proceedings by the trustees to recover property of the estate or to object to the allowance of a claim.
 
@@ -394,7 +394,7 @@ Subsec. (c)(4)(A)(i). Pub. L. 111–327, §2(a)(12)(B)(ii), inserted “under a 
 
 Subsec. (d)(4). Pub. L. 111–327, §2(a)(12)(C), substituted “hinder, or” for “hinder, and” in introductory provisions.
 
-Subsec. (<i>l</i>)(2). Pub. L. 111–327, §2(a)(12)(D), substituted “nonbankruptcy” for “nonbankrupcty”.
+Subsec. (l)(2). Pub. L. 111–327, §2(a)(12)(D), substituted “nonbankruptcy” for “nonbankrupcty”.
 
 <b>2006</b>—Subsec. (b)(6), (7). Pub. L. 109–390, §5(a)(2)(A), added pars. (6) and (7) and struck out former pars. (6) and (7) which read as follows:
 
@@ -422,9 +422,9 @@ Subsec. (b)(2). Pub. L. 109–8, §214, added par. (2) and struck out former par
 
 &emsp;“(B) of the collection of alimony, maintenance, or support from property that is not property of the estate;”.
 
-Subsec. (b)(6). Pub. L. 109–8, §907(d)(1)(A), (<i>o</i>)(1), substituted “financial institution, financial participant,” for “financial institutions,” in two places and inserted “, pledged to, under the control of,” after “held by”.
+Subsec. (b)(6). Pub. L. 109–8, §907(d)(1)(A), (o)(1), substituted “financial institution, financial participant,” for “financial institutions,” in two places and inserted “, pledged to, under the control of,” after “held by”.
 
-Subsec. (b)(7). Pub. L. 109–8, §907(d)(1)(B), (<i>o</i>)(2), inserted “or financial participant” after “repo participant” in two places and “, pledged to, under the control of,” after “held by”.
+Subsec. (b)(7). Pub. L. 109–8, §907(d)(1)(B), (o)(2), inserted “or financial participant” after “repo participant” in two places and “, pledged to, under the control of,” after “held by”.
 
 Subsec. (b)(17). Pub. L. 109–8, §907(d)(1)(C), added par. (17) and struck out former par. (17) which read as follows: “under subsection (a) of this section, of the setoff by a swap participant, of any mutual debt and claim under or in connection with any swap agreement that constitutes the setoff of a claim against the debtor for any payment due from the debtor under or in connection with any swap agreement against any payment due to the debtor from the swap participant under or in connection with any swap agreement or against cash, securities, or other property of the debtor held by or due from such swap participant to guarantee, secure or settle any swap agreement;”.
 
@@ -464,11 +464,11 @@ Subsec. (k). Pub. L. 109–8, §441(1), designated existing provisions as par. (
 
 Pub. L. 109–8, §305(1)(B), redesignated subsec. (h) as (k).
 
-Subsecs. (<i>l</i>), (m). Pub. L. 109–8, §311(b), added subsecs. (<i>l</i>) and (m).
+Subsecs. (l), (m). Pub. L. 109–8, §311(b), added subsecs. (l) and (m).
 
 Subsec. (n). Pub. L. 109–8, §441(2), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 109–8, §907(d)(2), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 109–8, §907(d)(2), added subsec. (o).
 
 <b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–277 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
@@ -510,7 +510,7 @@ Subsec. (e). Pub. L. 103–394, §101, in last sentence substituted “concluded
 
 <b>1990</b>—Subsec. (b)(6). Pub. L. 101–311, §202, inserted reference to sections 101(34) and 101(35) of this title.
 
-Subsec. (b)(12). Pub. L. 101–508, §3007(a)(1)(A), which directed the striking of “or” after “State law;”, could not be executed because of a prior amendment by Pub. L. 101–311. See below.
+Subsec. (b)(12). Pub. L. 101–508, §3007(a)(1)(A), which directed the striking of “or” after “State law;”, couldnot be executed because of a prior amendment by Pub. L. 101–311. See below.
 
 Pub. L. 101–311, §102(1), struck out “or” after “State law;”.
 
@@ -586,17 +586,17 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1990 Amendment
 
-Section 3007(a)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and section 541 of this title\] shall be effective upon date of enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title III, §3007(a)(3), Nov. 5, 1990, 104 Stat. 1388–28, provided that: “The amendments made by this subsection \[amending this section and section 541 of this title\] shall be effective upon date of enactment of this Act \[Nov. 5, 1990\].”
 
-Section 3008 of Pub. L. 101–508, provided that the amendments made by subtitle A (§§3001–3008) of title III of Pub. L. 101–508, amending this section, sections 541 and 1328 of this title, and sections 1078, 1078–1, 1078–7, 1085, 1088, and 1091 of Title 20, Education, and provisions set out as a note under section 1078–1 of Title 20, were to cease to be effective Oct. 1, 1996, prior to repeal by Pub. L. 102–325, title XV, §1558, July 23, 1992, 106 Stat. 841.
+Pub. L. 101–508, title III, §3008, Nov. 5, 1990, 104 Stat. 1388–29, provided that the amendments made by subtitle A (§§3001–3008) of title III of Pub. L. 101–508, amending this section, sections 541 and 1328 of this title, and sections 1078, 1078–1, 1078–7, 1085, 1088, and 1091of Title 20, Education, and provisions set out as a note under section 1078–1 of Title 20, were to cease to be effective Oct. 1, 1996, prior to repeal by Pub. L. 102–325, title XV, §1558, July 23, 1992, 106 Stat. 841.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 
-Section 5001(b) of Pub. L. 99–509 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply only to petitions filed under section 362 of title 11, United States Code, which are made after August 1, 1986.”
+Pub. L. 99–509, title V, §5001(b), Oct. 21, 1986, 100 Stat. 1912, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply only to petitions filed under section 362 of title 11, United States Code, which are made after August 1, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -604,5 +604,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Report to Congressional Committees
 
-Section 5001(a) of Pub. L. 99–509 directed Secretary of Transportation and Secretary of Commerce, before July 1, 1989, to submit reports to Congress on the effects of amendments to 11 U.S.C. 362 by this subsection.
+Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911, directed Secretary of Transportation and Secretary of Commerce, before July 1, 1989, to submit reports to Congress on the effects of amendments to 11 U.S.C. 362 by this subsection.
 

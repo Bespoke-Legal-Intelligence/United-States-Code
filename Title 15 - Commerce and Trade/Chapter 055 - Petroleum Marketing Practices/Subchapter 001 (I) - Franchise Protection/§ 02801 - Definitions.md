@@ -96,9 +96,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–371 provided that: “This Act \[amending this section and sections 2802, 2805, and 2806 of this title\] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
+Pub. L. 103–371, §1, Oct. 19, 1994, 108 Stat. 3484, provided that: “This Act \[amending this section and sections 2802, 2805, and 2806 of this title\] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 95–297 provided: “That this Act \[enacting this chapter and provisions set out as a note under section 2822 of this title\] may be cited as the ‘Petroleum Marketing Practices Act’.”
+Pub. L. 95–297, §1, June 19, 1978, 92 Stat. 322, provided: “That this Act \[enacting this chapter and provisions set out as a note under section 2822 of this title\] may be cited as the ‘Petroleum Marketing Practices Act’.”
 

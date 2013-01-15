@@ -64,7 +64,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (E) Report
 
-&emsp;&emsp;Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
+&emsp;&emsp;Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
 
 #### (F) Authorization of appropriations
 
@@ -126,7 +126,7 @@ Amendment by sections 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), and 4211(a) of P
 
 #### Effective Date of 1985 Amendment
 
-Section 1505(b) of Pub. L. 99–198 provided that:
+Pub. L. 99–198, title XV, §1505(b), Dec. 23, 1985, 99 Stat. 1567, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
 
@@ -134,7 +134,7 @@ Section 1505(b) of Pub. L. 99–198 provided that:
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

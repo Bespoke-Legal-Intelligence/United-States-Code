@@ -4,5 +4,5 @@ Section, R.S. §1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, ch. 1
 
 #### Effective Date of Repeal
 
-Repeal effective six months after Nov. 29, 1999, see section 1000(a)(7) \[div. A, title II, §234(c)\] of Pub. L. 106–113, set out as an Effective Date note under section 2715b of this title.
+Repeal effective six months after Nov. 29, 1999, see section 1000(a)(7) \[div. A, title II, §234(c)\] of Pub. L.106–113, set out as an Effective Date note under section 2715b of this title.
 

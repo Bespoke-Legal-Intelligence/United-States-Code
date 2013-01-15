@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (c) Treatment of contingent payments by transferor
 
-Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be treated as amounts received or accrued from the sale or other disposition of property which is not a capital asset.
+Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be treated as amounts receivedor accrued from the sale or other disposition of property which is not a capital asset.
 
 #### (d) Treatment of payments by transferee
 
@@ -52,7 +52,7 @@ Amounts received or accrued on account of a transfer, sale, or other disposition
 
 &emsp;&emsp;&emsp;(ii) is paid as part of a series of payments—
 
-&emsp;&emsp;&emsp;&emsp;(I) which are payable not less frequently than annually throughout theentire term of the transfer agreement, and
+&emsp;&emsp;&emsp;&emsp;(I) which are payable not less frequently than annually throughout the entire term of the transfer agreement, and
 
 &emsp;&emsp;&emsp;&emsp;(II) which are substantially equal in amount (or payable under a fixed formula).
 

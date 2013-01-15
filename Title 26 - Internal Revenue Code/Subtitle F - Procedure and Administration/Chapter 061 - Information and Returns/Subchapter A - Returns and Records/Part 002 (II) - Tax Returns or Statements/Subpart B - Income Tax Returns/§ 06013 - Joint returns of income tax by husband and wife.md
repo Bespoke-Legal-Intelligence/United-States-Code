@@ -38,7 +38,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;&emsp;(ii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had less than the exemption amount of gross income for such taxable year—on the date of the filing of such separate return (but not earlier than the last date prescribed by law for the filing of such separate return); or
 
-&emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had gross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
+&emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse hadgross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
 
 > &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additional standard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
 
@@ -114,7 +114,7 @@ For purposes of this section and subtitle A—
 
 #### (A) Uniformed services
 
-&emsp;&emsp;A member of a uniformed service (within the meaning of section 101(3) of title 37 ofthe United States Code) is in a missing status for any period for which he is entitled to pay and allowances under section 552 of such title 37.
+&emsp;&emsp;A member of a uniformed service (within the meaning of section 101(3) of title 37 of the United States Code) is in a missing status for any period for which he is entitled to pay and allowances under section 552 of such title 37.
 
 #### (B) Civilian employees
 
@@ -196,7 +196,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660;Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975,88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Subsec. (h)(1). Pub. L. 95–600, §701(u)(15)(C), substituted “chapters 1 and
 
 <b>1976</b>—Subsec. (b)(2)(C). Pub. L. 94–455, §1906(a)(1)(A), struck out “of the United States” after “Tax Court”.
 
-Subsec. (d). Pub. L. 94–455, §1906(a)(1)(B), (C), substituted in heading “Special rules” for “Definitions”, in par. (1)(A) “of such year; or” for “of such year; and”, and in par. (1)(B) “of such death;” for “of such death; and”.
+Subsec. (d). Pub. L. 94–455, §1906(a)(1)(B), (C), substituted in heading “Special rules” for “Definitions”,in par. (1)(A) “of such year; or” for “of such year; and”, and in par. (1)(B) “of such death;” for “of such death; and”.
 
 Subsec. (e)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -280,7 +280,7 @@ Amendment by section 6011(e)(2) of Pub. L. 105–206 effective, except as otherw
 
 #### Effective Date of 1996 Amendment
 
-Section 402(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title IV, §402(b), July 30, 1996, 110 Stat. 1459, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 101–239 applicable to returns the due date for which (det
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(b)(4) of Pub. L. 100–647 provided that: “The amendments made by this subsection (other than paragraph (3)) \[amending this section and sections 6601 and 6653 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1988.”
+Pub. L. 100–647, title I, §1015(b)(4), Nov. 10, 1988, 102 Stat. 3569, provided that: “The amendments made by this subsection (other than paragraph (3)) \[amending this section and sections 6601 and 6653 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1988.”
 
 #### Effective Date of 1986 Amendment
 
@@ -298,7 +298,7 @@ Amendment by section 1708(a)(3) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Section 424(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6004, Nov. 10, 1988, 102 Stat. 3685, provided that:
+Pub. L. 98–369, div. A, title IV, §424(c), July 18, 1984, 98 Stat. 803, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6004, Nov. 10, 1988, 102 Stat. 3685, provided that:
 
 “(1)
 
@@ -332,21 +332,21 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to taxable years beginning after Dec. 31, 1978, see section 102(d)(1) of Pub. L. 95–600, set out as a note under section 151 of this title.
+Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to taxable years beginning afterDec. 31, 1978, see section 102(d)(1) of Pub. L. 95–600, set out as a note under section 151 of this title.
 
-Section 701(u)(15)(E) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section and section 6401 of this title\]—
+Pub. L. 95–600, title VII, §701(u)(15)(E), Nov. 6, 1978, 92 Stat. 2919, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section and section 6401 of this title\]—
 
 &emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
 
 &emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid on or after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
-Section 701(u)(16)(B) of Pub. L. 95–600 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title VII, §701(u)(16)(B), Nov. 6, 1978, 92 Stat. 2920, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1012(d) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting this section and section 871 of this title\] shall apply to taxable years ending on or after December 31, 1975. The amendments made by subsections (b) and (c) \[enacting section 879 of this title, amending section 6073 of this title, and repealing section 981 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title X, §1012(d), Oct. 4, 1976, 90 Stat. 1614, provided that: “The amendments made by subsection (a) \[enacting this section and section 871 of this title\] shall apply to taxable years ending on or after December 31, 1975. The amendments made by subsections (b) and (c) \[enacting section 879 of this title, amending section 6073 of this title, and repealing section 981 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
-Section 1906(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XIX, §1906(d), Oct. 4, 1976, 90 Stat. 1835, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -356,21 +356,21 @@ General rule.—Except as otherwise expressly provided in this section, the amen
 
 Amendments relating to income tax.—The amendments made by this section, when relating to a tax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
 
-Section 2114(b) of Pub. L. 94–455 provided that: “The application permitted under the amendment made by subsection (a) of this section \[amending section 3 of Pub. L. 91–679, set out as an Effective Date of 1971 Amendment note below\] must be filed with the Secretary of the Treasury during the first calendar year beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2114(b), Oct. 4, 1976, 90 Stat. 1907, provided that: “The application permitted under the amendment made by subsection (a) of this section \[amending section 3 of Pub. L. 91–679, set out as an Effective Date of 1971 Amendment note below\] must be filed with the Secretary of the Treasury during the first calendar year beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1975 Amendment
 
-Section 3(c) of Pub. L. 93–597 provided that: “The amendments made by this section \[amending this section and section 2 of this title\] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 93–597, §3(c), Jan. 2, 1975, 88 Stat. 1952, provided that: “The amendments made by this section \[amending this section and section 2 of this title\] shall apply to taxable years ending on or after February 28, 1961.”
 
 #### Effective Date of 1971 Amendments
 
-Section 201(a), (b) of Pub. L. 92–178 provided in part that the increases in exemptions from $650 to $675 and from $1,300 to $1,350, respectively, were effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
+Pub. L. 92–178, title II, §201(a), (b), Dec. 10, 1971, 85 Stat. 510, provided in part that the increases in exemptions from $650 to $675 and from $1,300 to $1,350, respectively, were effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
 
-Section 3 of Pub. L. 91–679, as amended by section 2114(a) of Pub. L. 94–455; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first two sections of this Act \[amending this section and section 6653 of this title\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies. Corresponding provisions shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to all taxable years to which such Code applies. Upon application by a taxpayer, the Secretary of the Treasury shall redetermine the liability for tax (including interest, penalties, and other amounts) of such taxpayer for taxable years beginning after December 31, 1961, and ending before January 13, 1971. The preceding sentence shall apply solely to a taxpayer to whom the application of the provisions of section 6013(e) of the Internal Revenue Code of 1986, as added by this Act, for such taxable years is prevented by the operation of res judicata, and such redetermination shall be made without regard to such rule of law. Any overpayment of tax by such taxpayer for such taxable years resulting from the redetermination made under this Act shall be refunded to such taxpayer.”
+Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–455, title XXI, §2114(a), Oct. 4, 1976, 90 Stat. 1907; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first two sections of this Act \[amending this section and section 6653 of this title\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies. Corresponding provisions shall be deemed to be included in the Internal Revenue Code of 1939 and shall apply to all taxable years to which such Code applies. Upon application by a taxpayer, the Secretary of the Treasury shall redetermine the liability for tax (including interest, penalties, and other amounts) of such taxpayer for taxable years beginning after December 31, 1961, and ending before January 13, 1971. The preceding sentence shall apply solely to a taxpayer to whom the application of the provisions of section 6013(e) of the Internal Revenue Code of 1986, as added by this Act, for such taxable years is prevented by the operation of res judicata, and such redetermination shall be made without regard to such rule of law. Any overpayment of tax by such taxpayer for such taxable years resulting from the redetermination made under this Act shall be refunded to such taxpayer.”
 
 #### Effective Date of 1969 Amendment
 
-Section 801(a)(2), (b)(2) of Pub. L. 91–172 provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Section 801(c)(2), (d)(2) of Pub. L. 91–172, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
+Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
 
 #### Effective Date of 1958 Amendment
 

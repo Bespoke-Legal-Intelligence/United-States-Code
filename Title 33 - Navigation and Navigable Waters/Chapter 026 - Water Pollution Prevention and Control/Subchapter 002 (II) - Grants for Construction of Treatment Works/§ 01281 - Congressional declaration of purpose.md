@@ -26,7 +26,7 @@ The Administrator shall encourage waste treatment management which results in th
 
 #### (e) Waste treatment management integration of facilities
 
-The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and wasteheat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
+The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and waste heat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
 
 #### (f) Waste treatment management “open space” and recreational considerations
 
@@ -34,7 +34,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (g) Grants to construct publicly owned treatment works
 
-(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
+(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shallbe obligated in such State under authority of this sentence.
 
 (2) The Administrator shall not make grants from funds authorized for any fiscal year beginning after June 30, 1974, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that—
 
@@ -56,7 +56,7 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
-&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will payits proportionate share of the cost of operation and maintenance (including replacement); and
+&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
 &emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
@@ -72,7 +72,7 @@ The Administrator is authorized to make a grant for any treatment works utilizin
 
 No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater, which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
 
-#### (<i>l</i>) Grants for facility plans, or plans, specifications, and estimates for proposed project for construction of treatment works; limitations, allotments, advances, etc.
+#### (l) Grants for facility plans, or plans, specifications, and estimates for proposed project for construction of treatment works; limitations, allotments, advances, etc.
 
 (1) After December 29, 1981, Federal grants shall not be made for the purpose of providing assistance solely for facility plans, or plans, specifications, and estimates for any proposed project for the construction of treatment works. In the event that the proposed project receives a grant under this section for construction, the Administrator shall make an allowance in such grant for non-Federal funds expended during the facility planning and advanced engineering and design phase at the prevailing Federal share under section 1282(a) of this title, based on the percentage of total project costs which the Administrator determines is the general experience for such projects.
 
@@ -96,7 +96,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
-#### (<i>o</i>) Capital financing plan
+#### (o) Capital financing plan
 
 The Administrator shall encourage and assist applicants for grant assistance under this subchapter to develop and file with the Administrator a capital financing plan which, at a minimum—
 
@@ -122,13 +122,13 @@ Subsec. (p). Pub. L. 100–4, §201, added subsec. (p).
 
 Subsec. (k). Pub. L. 97–117, §10(c), inserted provision that subsection not be in effect after Nov. 15, 1981.
 
-Subsec. (<i>l</i>). Pub. L. 97–117, §3(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 97–117, §3(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 97–117, §4, added subsec. (m).
 
 Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 97–117, §6, added subsec. (o).
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
@@ -146,7 +146,7 @@ Subsec. (j). Pub. L. 95–217, §16, added subsec. (j).
 
 #### Effective Date of 1980 Amendment
 
-Section 2(g) of Pub. L. 96–483 provided that: “The amendments made by this section \[amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title\] shall take effect on December 27, 1977.”
+Pub. L. 96–483, §2(g), Oct. 21, 1980, 94 Stat. 2361, provided that: “The amendments made by this section \[amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title\] shall take effect on December 27, 1977.”
 
 #### Environmental Protection Agency State and Tribal Assistance Grants
 
@@ -256,7 +256,7 @@ Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In aw
 
 #### Environmental Financing Authority
 
-Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, provided that:
+Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, provided that:
 
 “(a) \[Short Title\] This section may be cited as the Environmental Financing Act of 1972.
 
@@ -264,7 +264,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
-“(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one ofwhom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
+“(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one of whom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
 
 “(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 
@@ -310,13 +310,13 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
 
-“(<i>l</i>) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
+“(l) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
 
 “(m) \[Annual Report to Congress\] The Authority shall, as soon as practicable after the end of each fiscal year, transmit to the President and the Congress an annual report of its operations and activities.
 
 “(n) \[Subsec. (n) amended section 24 of Title 12, Banks and Banking, and is not set out herein.\]
 
-“(<i>o</i>) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
+“(o) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 “(p) \[Subsec. (p) amended section 711 of former Title 31, Money and Finance, and is not set out herein.\]”
 

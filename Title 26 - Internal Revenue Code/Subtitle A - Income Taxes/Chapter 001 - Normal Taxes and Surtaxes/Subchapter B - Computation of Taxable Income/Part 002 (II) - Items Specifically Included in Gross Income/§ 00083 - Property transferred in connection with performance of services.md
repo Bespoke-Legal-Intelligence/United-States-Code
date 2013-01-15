@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Valuation
 
-&emsp;In the case of property subject to a restriction which by its terms will never lapse, and which allows the transferee to sell such property only at a price determined under a formula, the price so determined shall be deemed to be the fair market value of the property unless established to the contrary by the Secretary, and the burden of proof shall be on the Secretary with respect to such value.
+&emsp;In the case of property subject to a restriction which by its terms will never lapse, andwhich allows the transferee to sell such property only at a price determined under a formula, the price so determined shall be deemed to be the fair market value of the property unless established to the contrary by the Secretary, and the burden of proof shall be on the Secretary with respect to such value.
 
 #### (2) Cancellation
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 252(c) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that: “The amendment made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out below\] shall apply to transfers after December 31, 1981.”
+Pub. L. 97–34, title II, §252(c), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that: “The amendment made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out below\] shall apply to transfers after December 31, 1981.”
 
 #### Effective Date of 1976 Amendment
 
@@ -158,7 +158,7 @@ Amendment by section 1901(a)(15) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date
 
-Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (c) \[amending sections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
+Pub. L. 91–172, title III, §321(d), Dec. 30, 1969, 83 Stat. 591, provided that: “The amendments made by subsections (a) and (c) \[amending sections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
 
 #### Savings Provision
 
@@ -170,7 +170,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Amendments Made by Section 252 of Pub. L. 97–34
 
-Section 1879(p) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(q)(3), Nov. 10, 1988, 102 Stat. 3585, provided that:
+Pub. L. 99–514, title XVIII, §1879(p), Oct. 22, 1986, 100 Stat. 2911, as amended by Pub. L. 100–647, title I, §1018(q)(3), Nov. 10, 1988, 102 Stat. 3585, provided that:
 
 “(1) Notwithstanding subsection (c) of section 252 of the Economic Recovery Tax Act of 1981 \[section 252(c) of Pub. L. 97–34, set out above\], the amendment made by subsection (a) of such section 252 \[amending this section\] (and the provisions of subsection (b) of such section 252 \[set out below\]) shall apply to any transfer of stock to any person if—
 
@@ -202,9 +202,9 @@ Deficiencies.—If the assessment of any deficiency of tax resulting from the ap
 
 #### Time for Making Certain Section 83(b) Elections
 
-Section 556 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: “In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
+Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: “In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
 
-&emsp;“(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
+&emsp;“(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction otherthan a restriction which by its terms will never lapse), and
 
 &emsp;“(2) the election is consented to by the person transferring such property.
 
@@ -212,5 +212,5 @@ Section 556 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVII
 
 #### Property Subject to Transfer Restrictions To Comply With “Pooling-of-Interests Accounting” Rules
 
-Section 252(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: “For purposes of section 83 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the “Pooling-of-Interests Accounting” rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135).”
+Pub. L. 97–34, title II, §252(b), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: “For purposes of section 83 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the “Pooling-of-Interests Accounting” rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135).”
 

@@ -46,7 +46,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 &emsp;(3) a description of the resources that are expected to be made available in compliance with subsection (h) of this section;
 
-&emsp;(4) a description of (A) the category or categories of elderly persons the housing is intended to serve; (B) the supportive services, if any, to be provided to the persons occupying such housing; (C) the manner in which such services will be provided to such persons, including, in the case of frail elderly persons, evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and\(D) the public or private sources of assistance that can reasonably be expected to fund or provide such services;
+&emsp;(4) a description of (A) the category or categories of elderly persons the housing is intended to serve; (B) the supportive services, if any, to be provided to the persons occupying such housing; (C) the manner in which such services will be provided to such persons, including, in the case of frail elderly persons, evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and (D) the public or private sources of assistance that can reasonably be expected to fund or provide such services;
 
 &emsp;(5) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of title 42 that the proposed project is consistent with the approved housing strategy; and
 
@@ -98,7 +98,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services toelderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
+&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
 
 #### (2) Local coordination of services
 
@@ -232,7 +232,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (6) Access to residual receipts
 
-&emsp;The Secretary shall authorize the owner of a project assisted under this section to use any residual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42, to provide a service coordinator for the project as described in section 8011(d)(4) of title 42, or to provide supportive services (as such term is defined in section 8011(k) of title 42) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
+&emsp;The Secretary shall authorize the owner of a project assisted under this section to use anyresidual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42, to provide a service coordinator for the project as described in section 8011(d)(4) of title 42, or to provide supportive services (as such term is defined in section 8011(k) of title 42) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
 
 #### (7) Compliance with Housing and Community Development Act of 1992
 
@@ -280,7 +280,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 (8) The term “very low-income” has the same meaning as given the term “very low-income families” under section 1437a(b)(2) of title 42.
 
-#### (<i>l</i>) Allocation of funds
+#### (l) Allocation of funds
 
 #### (1) Capital advances
 
@@ -292,7 +292,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (3) Nonmetropolitan allocation
 
-&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas. In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
+&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas. Incomplying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
 
 #### (m) Authorization of appropriations
 
@@ -302,7 +302,7 @@ There is authorized to be appropriated for providing assistance under this secti
 
 There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title II, §223(a)(1), (b)–(e)\], Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079.)
 
 #### References in Text
 
@@ -330,7 +330,7 @@ Subsec. (j)(3)(A). Pub. L. 111–372, §103, inserted after period at end “Suc
 
 Subsec. (k)(4). Pub. L. 111–372, §104, amended par. (4) generally. Prior to amendment, par. (4) defined “private nonprofit organization”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 111–372, §105, inserted after period at end “In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.”
+Subsec. (l)(3). Pub. L. 111–372, §105, inserted after period at end “In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.”
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted “Initial selection criteria and processing” for “Selection criteria” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, of par. (1), and added par. (2).
 
@@ -342,7 +342,7 @@ Subsec. (h)(1). Pub. L. 106–569, §835, inserted at end of concluding provisio
 
 Subsec. (h)(2). Pub. L. 106–569, §833(2), substituted “Acquisition” for “RTC properties” in heading and struck out “from the Resolution Trust Corporation under section 1441a(c) of this title or from the Federal Deposit Insurance Corporation under section 1831q of this title” after “related facilities to be acquired” in introductory provisions.
 
-Subsec. (h)(6). Pub. L. 106–569, §832, substituted “sources other than this section” for “non-Federal sources” and inserted at end “Notwithstanding any other provision of law, assistance amounts provided under this section may be treated as amounts not derived from a Federal grant.”
+Subsec. (h)(6). Pub. L. 106–569, §832, substituted “sources other than this section” for “non-Federalsources” and inserted at end “Notwithstanding any other provision of law, assistance amounts provided under this section may be treated as amounts not derived from a Federal grant.”
 
 Subsec. (j)(8). Pub. L. 106–569, §834, added par. (8).
 
@@ -384,13 +384,13 @@ Subsec. (j)(6). Pub. L. 102–550, §602(e), added par. (6).
 
 Subsec. (j)(7). Pub. L. 102–550, §682(c)(2), added par. (7).
 
-Subsec. (<i>l</i>). Pub. L. 102–550, §601(c)(1), substituted “Allocation of funds” for “Authorizations” in heading.
+Subsec. (l). Pub. L. 102–550, §601(c)(1), substituted “Allocation of funds” for “Authorizations” in heading.
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–550, §601(c)(2), inserted sentence at beginning, substituted “Such amounts” for “Amounts so appropriated” in second sentence, and struck out former first sentence which read as follows: “There are authorized to be appropriated for the purpose of funding capital advances in accordance with subsection (c)(1) of this section $659,000,000 for fiscal year 1992.”
+Subsec. (l)(1). Pub. L. 102–550, §601(c)(2), inserted sentence at beginning, substituted “Such amounts” for “Amounts so appropriated” in second sentence, and struck out former first sentence which read as follows: “There are authorized to be appropriated for the purpose of funding capital advances in accordance with subsection (c)(1) of this section $659,000,000 for fiscal year 1992.”
 
-Subsec. (<i>l</i>)(2). Pub. L. 102–550, §601(c)(3), added par. (2) and struck out former par. (2) which read as follows: “For the purpose of funding contracts for project rental assistance in accordance with subsection (c)(2) of this section the Secretary may, to the extent approved in an appropriations Act, reserve authority to enter into obligations aggregating $363,000,000 for fiscal year 1992.”
+Subsec. (l)(2). Pub. L. 102–550, §601(c)(3), added par. (2) and struck out former par. (2) which read as follows: “For the purpose of funding contracts for project rental assistance in accordance with subsection (c)(2) of this section the Secretary may, to the extent approved in an appropriations Act, reserve authority to enter into obligations aggregating $363,000,000 for fiscal year 1992.”
 
-Subsec. (<i>l</i>)(3). Pub. L. 102–550, §602(g), which directed substitution of “15 percent” for “20 percent” in par. (4) was executed to par. (3) to reflect the probable intent of Congress.
+Subsec. (l)(3). Pub. L. 102–550, §602(g), which directed substitution of “15 percent” for “20 percent” in par. (4) was executed to par. (3) to reflect the probable intent of Congress.
 
 Pub. L. 102–550, §601(c)(4), substituted “for assistance under this section” for “under this subtitle”.
 
@@ -418,11 +418,11 @@ Subsec. (k)(3). Pub. L. 101–625, §807, added par. (3).
 
 Subsec. (p). Pub. L. 101–625, §805, added subsec. (p).
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–242, §161(c)(1), designated existing provisions as subpar. (A), substituted “taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States” for “of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made”, and added subpar. (B).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–242, §161(c)(1), designated existing provisions as subpar. (A), substituted “taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the UnitedStates” for “of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made”, and added subpar. (B).
 
 Subsec. (a)(4)(B)(i). Pub. L. 100–242, §161(a), inserted provisions relating to such sums as may be approved for fiscal years 1988 and 1989, and substituted “October 1, 1983, to such sum” for “October 1, 1983, and to such sum”.
 
-Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking intoconsideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
+Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
 
 Subsec. (a)(4)(C). Pub. L. 100–242, §161(b), inserted provisions relating to loan authority for fiscal years 1988 and 1989.
 
@@ -440,7 +440,7 @@ Pub. L. 100–242, §170(g)(2), substituted “section 133” for “section 134
 
 Subsec. (h). Pub. L. 100–242, §162(b)(1), amended subsec. (h) generally, changing structure of subsection from one consisting of introductory provisions and two numbered paragraphs to one consisting of four numbered paragraphs.
 
-Subsec. (<i>l</i>). Pub. L. 100–242, §170(g)(3), substituted “different” for “difference”.
+Subsec. (l). Pub. L. 100–242, §170(g)(3), substituted “different” for “difference”.
 
 Subsec. (n). Pub. L. 100–242, §161(e), added subsec. (n).
 
@@ -454,7 +454,7 @@ Subsec. (h)(1). Pub. L. 98–479, §102(c)(2)(A), inserted “and” at end.
 
 Subsec. (h)(2). Pub. L. 98–479, §102(c)(2)(B), substituted a period for “; and” at end.
 
-Subsec. (<i>l</i>). Pub. L. 98–479, §102(c)(3), inserted “The Secretary shall not impose difference requirements or standards with respect to construction change orders, increases in loan amount to cover change orders, errors in plans and specifications, and use of contingency funds, because of the method of contractor selection used by the sponsor or borrower.”
+Subsec. (l). Pub. L. 98–479, §102(c)(3), inserted “The Secretary shall not impose difference requirements or standards with respect to construction change orders, increases in loan amount to cover change orders, errors in plans and specifications, and use of contingency funds, because of the method of contractor selection used by the sponsor or borrower.”
 
 <b>1983</b>—Subsec. (a)(3). Pub. L. 98–181, §223(a)(1), inserted “, except that such interest rate plus such allowance shall not exceed 9.25 per centum per annum”.
 
@@ -498,9 +498,9 @@ Subsec. (g). Pub. L. 95–128, §202(b), added subsec. (g).
 
 <b>1976</b>—Subsec. (a)(3). Pub. L. 94–375, §11(c)(1), substituted “average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans”.
 
-Subsec. (a)(4)(B)(i). Pub. L. 94–375, §11(a), (c)(2), substituted “$1,475,000,000, which amount shall be increased to $2,387,500,000 on October 1, 1977, and to $3,300,000,000 on October 1, 1978” for “$800,000,000” and “the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations”, and inserted provision restricting the amount of notes or obligations issued to the Secretary of the Treasury to not more than $800,000,000.
+Subsec. (a)(4)(B)(i). Pub. L. 94–375, §11(a), (c)(2), substituted “$1,475,000,000, which amount shall be increased to $2,387,500,000 on October 1, 1977, and to$3,300,000,000 on October 1, 1978” for “$800,000,000” and “the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations”, and inserted provision restricting the amount of notes or obligations issued to the Secretary of the Treasury to not more than $800,000,000.
 
-Subsec. (d)(4). Pub. L. 94–375, §11(b), included in definition of “elderly or handicapped families” two or more elderly or handicapped persons living together,one such person and another providing care for the first, or a surviving member of the family who was living in the unit at the time another member died.
+Subsec. (d)(4). Pub. L. 94–375, §11(b), included in definition of “elderly or handicapped families” two or more elderly or handicapped persons living together, one such person and another providing care for the first, or a surviving member of the family who was living in the unit at the time another member died.
 
 <b>1974</b>—Subsec. (a)(3). Pub. L. 93–383, §210(a), substituted provisions authorizing the Secretary of the Treasury to determine the interest rate, for provisions authorizing the Secretary of Housing and Urban Development to determine the interest rate.
 
@@ -578,7 +578,7 @@ In General.—The provisions of this title \[see section 801 of Pub. L. 106–56
 
 “(b)
 
-Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
+Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by thistitle under such provisions and amendments and subsection (a) of this section.”
 
 #### Effective Date of 1999 Amendment
 
@@ -590,7 +590,7 @@ In General.—The provisions of this title \[see Short Title of 1999 Amendment n
 
 “(b)
 
-Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirementto issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
+Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
 #### Effective Date of 1992 Amendment
 
@@ -600,7 +600,7 @@ Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in
 
 #### Effective Date of 1990 Amendments
 
-Section 801(c) of Pub. L. 101–625 provided that: “The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\].”
+Pub. L. 101–625, title VIII, §801(c), Nov. 28, 1990, 104 Stat. 4304, provided that: “The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\].”
 
 Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
@@ -608,7 +608,7 @@ Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that section
 
 #### Effective Date of 1988 Amendment
 
-Section 162(f) of Pub. L. 100–242 provided that:
+Pub. L. 100–242, title I, §162(f), Feb. 5, 1988, 101 Stat. 1859, provided that:
 
 “(1) Except as otherwise provided in this section, the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out as notes below\] shall not apply with respect to projects with loans or loan reservations made under section 202 of the Housing Act of 1959 \[this section\] before the implementation date under subsection (e) \[section 162(e) of Pub. L. 100–242 set out below\].
 
@@ -616,7 +616,7 @@ Section 162(f) of Pub. L. 100–242 provided that:
 
 #### Effective and Termination Dates of 1983 Amendment
 
-Section 223(a)(2) of Pub. L. 98–181, as amended by Pub. L. 99–120, §5(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–156, §5(b), Nov. 15, 1985, 99 Stat. 817; Pub. L. 99–219, §5(b), Dec. 26, 1985, 99 Stat. 1732; Pub. L. 99–267, §5(b), Mar. 27, 1986, 100 Stat. 75; Pub. L. 99–272, title III, §3011(b), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, which provided that the amendment made by paragraph (1), amending this section, shall apply only with respect to loan agreements entered into after September 30, 1982, and not later than March 15, 1988, was repealed by Pub. L. 100–242, title I, §161(c)(2), Feb. 5, 1988, 101 Stat. 1856.
+Pub. L. 98–181, title I \[title II, §223(a)(2)\], Nov. 30, 1983, 97 Stat. 1190, as amended by Pub. L. 99–120, §5(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–156, §5(b), Nov. 15, 1985, 99 Stat. 817; Pub. L. 99–219, §5(b), Dec. 26, 1985, 99 Stat. 1732; Pub. L. 99–267, §5(b), Mar. 27, 1986, 100 Stat. 75; Pub. L. 99–272, title III, §3011(b), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, which provided that the amendment made by paragraph (1), amending this section, shall apply only with respect to loan agreements entered into after September 30, 1982, and not later than March 15, 1988, was repealed by Pub. L. 100–242, title I, §161(c)(2), Feb. 5, 1988, 101 Stat. 1856.
 
 #### Effective Date of 1981 Amendment
 
@@ -624,11 +624,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date of 1965 Amendment
 
-Section 105(b)(2) of Pub. L. 89–117, as added by Pub. L. 89–754, title X, §1001(3), Nov. 3, 1966, 80 Stat. 1284, provided that: “The interest rate provided by the amendment made in paragraph (1) \[amending this section\] shall be applicable (A) with respect to any loan made on or after August 10, 1965, and (B) with respect to any loan made prior to such date if construction of the housing or related facilities to be assisted by such loan was not commenced prior to such date, and not completed prior to the filing of an application for the benefits of such interest rate.”
+Pub. L. 89–117, title I, §105(b)(2), as added by Pub. L. 89–754, title X, §1001(3), Nov. 3, 1966, 80 Stat. 1284, provided that: “The interest rate provided by the amendment made in paragraph (1) \[amending this section\] shall be applicable (A) with respect to any loan made on or after August 10, 1965, and (B) with respect to any loan made prior to such date if construction of the housing or related facilities to be assisted by such loan was not commenced prior to such date, and not completed prior to the filing of an application for the benefits of such interest rate.”
 
 #### Effective Date of 1962 Amendment
 
-Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective with respect to applications for loans made under this section after Sept. 28, 1962.
+Pub. L. 87–723, §3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amendments made by that section are effective with respect to applications for loans made under this section after Sept. 28, 1962.
 
 #### Regulations
 
@@ -880,7 +880,7 @@ Use of Certain Project Funds.—The Secretary shall allow a project sponsor that
 
 “(e)
 
-Senior Preservation Rental Assistance Contracts.—Notwithstanding any other provision of law, in connection with a prepayment plan for a project approved under subsection (a) by the Secretary or as otherwise approved by the Secretary to prevent displacement of elderly residents of the project in the caseof refinancing or recapitalization and to further preservation and affordability of such project, the Secretary shall provide project-based rental assistance for the project under a senior preservation rental assistance contract, as follows:
+Senior Preservation Rental Assistance Contracts.—Notwithstanding any other provision of law, in connection with a prepayment plan for a project approved under subsection (a) by the Secretary or as otherwise approved by the Secretary to prevent displacement of elderly residents of the project in the case of refinancing or recapitalization and to further preservation and affordability of such project, the Secretary shall provide project-based rental assistance for the project under a senior preservation rental assistance contract, as follows:
 
 &emsp;“(1) Assistance under the contract shall be made available to the private nonprofit organization owner—
 
@@ -924,7 +924,7 @@ Definition of Private Nonprofit Organization.—For purposes of this section, th
 
 #### Consideration of Costs of Providing Service Coordinators in Determining Amount of Housing Assistance
 
-Section 677(b) of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title VI, §677(b), Oct. 28, 1992, 106 Stat. 3829, provided that:
 
 “(1)
 
@@ -946,7 +946,7 @@ Limitation.—If a project is receiving congregate housing services assistance u
 
 #### Expedited Financing and Construction
 
-Section 801(d) of Pub. L. 101–625 provided that:
+Pub. L. 101–625, title VIII, §801(d), Nov. 28, 1990, 104 Stat. 4304, provided that:
 
 “(1)
 
@@ -968,7 +968,7 @@ Definition.—For purposes of this subsection, the term ‘supportive housing fo
 
 #### Feasibility of Including Elder Cottage Housing Opportunity Units as Eligible Development Costs
 
-Section 806(b) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VI, §602(d), Oct. 28, 1992, 106 Stat. 3804, provided that:
+Pub. L. 101–625, title VIII, §806(b), Nov. 28, 1990, 104 Stat. 4323, as amended by Pub. L. 102–550, title VI, §602(d), Oct. 28, 1992, 106 Stat. 3804, provided that:
 
 “(1)
 
@@ -992,7 +992,7 @@ Secretary of Housing and Urban Development to provide a preference to native Haw
 
 #### Findings and Purpose of 1988 Amendment
 
-Section 162(a) of Pub. L. 100–242 provided that:
+Pub. L. 100–242, title I, §162(a), Feb. 5, 1988, 101 Stat. 1856, provided that:
 
 “(1) The Congress finds that—
 
@@ -1018,15 +1018,15 @@ Section 162(a) of Pub. L. 100–242 provided that:
 
 #### Termination of Section 8 Assistance
 
-Section 162(d) of Pub. L. 100–242 provided that: “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], except pursuant to a reservation for a contract to make such assistance payments that was made before the first date that amounts for contracts under such section 202(h)(4)(A) became available.”
+Pub. L. 100–242, title I, §162(d), Feb. 5, 1988, 101 Stat. 1859, provided that: “On and after the first date that amounts approved in an appropriation Act for any fiscal year become available for contracts under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\], as amended by subsection (b) of this section, no project for handicapped (primarily nonelderly) families approved for such fiscal year pursuant to section 202 of such Act shall be provided assistance payments under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], except pursuant to a reservation for a contract to make such assistance payments that was made before the first date that amounts for contracts under such section 202(h)(4)(A) became available.”
 
 #### Implementation of 1988 Amendment
 
-Section 162(e) of Pub. L. 100–242 provided that: “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriation Act for use under section 202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
+Pub. L. 100–242, title I, §162(e), Feb. 5, 1988, 101 Stat. 1859, provided that: “Not later than the expiration of the 120-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall, to the extent amounts are approved in an appropriation Act for use under section202(h)(4)(A) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)(4)(A)\] for fiscal year 1988, publish in the Federal Register a notice of fund availability to implement the provisions of, and amendments made by, this section \[amending this section and enacting and repealing provisions set out above\]. The Secretary shall issue such rules as may be necessary to carry out such provisions and amendments for fiscal year 1989 and thereafter.”
 
 #### Housing for the Elderly or Handicapped Fund
 
-Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: “That, notwithstanding section 202(a)(3) ofthe Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: “That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -1046,11 +1046,11 @@ Pub. L. 98–45, title I, as added Pub. L. 98–181, title I, Nov. 30, 1983, 97 
 
 #### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.
 
-Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
+Pub. L. 96–153, title III, §306(e), (f), Dec. 21, 1979, 93 Stat. 1113, required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
 
 #### Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families
 
-Section 210(g) of Pub. L. 93–383 provided that:
+Pub. L. 93–383, title II, §210(g), Aug. 22, 1974, 88 Stat. 671, provided that:
 
 “(1) In determining the feasibility and marketability of a project under section 202 of the Housing Act of 1959 \[this section\], the Secretary shall consider the availability of monthly assistance payments pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with respect to such a project.
 

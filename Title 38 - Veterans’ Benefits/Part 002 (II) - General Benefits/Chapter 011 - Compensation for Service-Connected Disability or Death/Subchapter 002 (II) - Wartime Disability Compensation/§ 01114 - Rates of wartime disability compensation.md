@@ -22,21 +22,21 @@ For the purposes of section 1110 of this title—
 
 &emsp;(j) if and while the disability is rated as total the monthly compensation shall be $2,673;
 
-&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (<i>l</i>) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
+&emsp;(k) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction, or, in the case of a woman veteran, has suffered the anatomical loss of 25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue, the rate of compensation therefor shall be $96 per month for each such loss or loss of use independent of any other compensation provided in subsections (a) through (j) or subsection (s) of this section but in no event to exceed $3,327 per month; and in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection, in addition to the requirement for any of the rates specified in subsections (l) through (n) of this section, the rate of compensation shall be increased by $96 per month for each such loss or loss of use, but in no event to exceed $4,667 per month;
 
-&emsp;(<i>l</i>) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both feet, or of one hand and one foot, or is blind in both eyes, with 5/200 visual acuity or less, or is permanently bedridden or with such significant disabilities as to be in need of regular aid and attendance, the monthly compensation shall be $3,327;
+&emsp;(l) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both feet, or of one hand and one foot, or is blind in both eyes, with 5/200 visual acuity or less, or is permanently bedridden or with such significant disabilities as to be in need of regular aid and attendance, the monthly compensation shall be $3,327;
 
 &emsp;(m) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both hands, or of both legs with factors preventing natural knee action with prostheses in place, or of one arm and one leg with factors preventing natural elbow and knee action with prostheses in place, or has suffered blindness in both eyes having only light perception, or has suffered blindness in both eyes, rendering such veteran so significantly disabled as to be in need of regular aid and attendance, the monthly compensation shall be $3,671;
 
-&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
+&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action withprostheses in place, has suffered the anatomical loss of both legs with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
 
-&emsp;(<i>o</i>) if the veteran, as the result of service-connected disability, has suffered disability under conditions which would entitle such veteran to two or more of the rates provided in one or more subsections (<i>l</i>) through (n) of this section, no condition being considered twice in the determination, or if the veteran has suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 60 percent or more disabling and the veteran has also suffered service-connected total blindness with 20/200 visual acuity or less, or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less, or if the veteran has suffered the anatomical loss of both arms with factors that prevent the use of prosthetic appliances, the monthly compensation shall be $4,667;
+&emsp;(o) if the veteran, as the result of service-connected disability, has suffered disability under conditions which would entitle such veteran to two or more of the rates provided in one or more subsections (l) through (n) of this section, no condition being considered twice in the determination, or if the veteran has suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 60 percent or more disabling and the veteran has also suffered service-connected total blindness with 20/200 visual acuity or less, or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less, or if the veteran has suffered the anatomical loss of both arms with factors that prevent the use of prosthetic appliances, the monthly compensation shall be $4,667;
 
-&emsp;(p) in the event the veteran's service-connected disabilities exceed the requirements for any of the rates prescribed in this section, the Secretary may allow the next higher rate or an intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness with 5/200 visual acuity or less and (1) has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at no less than 30 percent disabling, the Secretary shall allow the next higher rate, or (2) has also suffered service-connected total deafness in one ear or service-connected anatomical loss or loss of use of one hand or one foot, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness, having only lightperception or less, and has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 10 or 20 percent disabling, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered the anatomical loss or loss of use, or a combination of anatomical loss and loss of use, of three extremities, the Secretary shall allow the next higher rate or intermediate rate, but in no event in excess of $4,667. Any intermediate rate under this subsection shall be established at the arithmetic mean, rounded down to the nearest dollar, between the two rates concerned.
+&emsp;(p) in the event the veteran's service-connected disabilities exceed the requirements for any of the rates prescribed in this section, the Secretary may allow the next higher rate or an intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness with 5/200 visual acuity or less and (1) has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at no less than 30 percent disabling, the Secretary shall allow the next higher rate, or (2) has also suffered service-connected total deafness in one ear or service-connected anatomical loss or loss of use of one hand or one foot, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness, having only light perception or less, and has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 10 or 20 percent disabling, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered the anatomical loss or loss of use, or a combination of anatomical loss and loss of use, of three extremities, the Secretary shall allow the next higher rate or intermediate rate, but in no event in excess of $4,667. Any intermediate rate under this subsection shall be established at the arithmetic mean, rounded down to the nearest dollar, between the two rates concerned.
 
 &emsp;\[(q) Repealed. Pub. L. 90–493, §4(a), Aug. 19, 1968, 82 Stat. 809.\]
 
-&emsp;(r) Subject to section 5503(c) of this title, if any veteran, otherwise entitled to compensation authorized under subsection (<i>o</i>) of this section, at the maximum rate authorized under subsection (p) of this section, or at the intermediate rate authorized between the rates authorized under subsections (n) and (<i>o</i>) of this section and at the rate authorized under subsection (k) of this section, is in need of regular aid and attendance, then, in addition to such compensation—
+&emsp;(r) Subject to section 5503(c) of this title, if any veteran, otherwise entitled to compensation authorized under subsection (o) of this section, at the maximum rate authorized under subsection (p) of this section, or at the intermediate rate authorized between the rates authorized under subsections (n) and (o) of this section and at the rate authorized under subsection (k) of this section, is in need of regular aid and attendance, then, in addition to such compensation—
 
 &emsp;&emsp;(1) the veteran shall be paid a monthly aid and attendance allowance at the rate of $2,002; or
 
@@ -46,9 +46,9 @@ For the purposes of section 1110 of this title—
 
 &emsp;(s) If the veteran has a service-connected disability rated as total, and (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, or, (2) by reason of such veteran's service-connected disability or disabilities, is permanently housebound, then the monthly compensation shall be $2,993. For the purpose of this subsection, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a service-connected disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
-&emsp;(t) Subject to section 5503(c) of this title, if any veteran, as the result of service-connected disability, is in need of regular aid and attendance for the residuals of traumatic brain injury, is not eligible for compensation under subsection (r)(2), and in the absence of such regular aid and attendance would require hospitalization, nursing home care, or other residential institutional care, the veteran shall be paid, in addition to any other compensation under this section, a monthly aid and attendance allowance equal to the rate described in subsection (r)(2), which for purposes of section 1134 of this title shall be considered as additional compensation payable for disability. An allowance authorized under this subsection shall be paid in lieu of any allowance authorized by subsection (r)(1).
+&emsp;(t) Subject to section 5503(c) of this title, if any veteran, as the result of service-connected disability, is in need of regular aid and attendance for the residuals of traumatic brain injury, is not eligible for compensation under subsection (r)(2), and in the absence of such regular aid and attendance would require hospitalization, nursing home care, or other residential institutional care, the veteran shall be paid, in addition to any other compensation under this section, a monthly aid and attendance allowance equal to the rate described in subsection (r)(2), which for purposes of section 1134 of this title shall be considered as additional compensation payable for disability. Anallowance authorized under this subsection shall be paid in lieu of any allowance authorized by subsection (r)(1).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §314; Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936; Pub. L. 86–663, §1, July 14, 1960, 74 Stat. 528; Pub. L. 87–645, §§1(a), 2(a), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–20, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–22, §1, May 15, 1963, 77 Stat. 18; Pub. L. 89–311, §§1(a), 3(d), (e), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 90–77, title IV, §401, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–493, §§1(a), 4(a), Aug. 19, 1968, 82 Stat. 808, 809; Pub. L. 91–376, §1(a), Aug. 12, 1970, 84 Stat. 787; Pub. L. 92–328, title I, §101(a), June 30, 1972, 86 Stat. 393; Pub. L. 93–295, title I, §101(a), May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §101(a), Aug. 5, 1975, 89 Stat. 395; Pub. L. 94–433, title I, §101(a), title IV, §§401(4), (5), 404(6)–(8), Sept. 30, 1976, 90 Stat. 1374, 1377, 1378; Pub. L. 95–117, title I, §101(a), Oct. 3, 1977, 91 Stat. 1063; Pub. L. 95–479, title I, §101(a)–(d), Oct. 18, 1978, 92 Stat. 1560, 1561; Pub. L. 96–128, title I, §§101(a), 104, 105, Nov. 28, 1979, 93 Stat. 982, 984; Pub. L. 96–385, title I, §101(a), Oct. 7, 1980, 94 Stat. 1528; Pub. L. 97–66, title I, §§101(a), 104, Oct. 17, 1981, 95 Stat. 1026, 1027; Pub. L. 97–253, title IV, §§404(a), 405(b), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§101(a), 107, 111(a), (b), Oct. 14, 1982, 96 Stat. 1429, 1431, 1432; Pub. L. 98–223, title I, §§101(a), 112, Mar. 2, 1984, 98 Stat. 37, 40; Pub. L. 98–543, title I, §101(a), Oct. 24, 1984, 98 Stat. 2735; Pub. L. 99–238, title I, §101(a), Jan. 13, 1986, 99 Stat. 1765; Pub. L. 99–576, title I, §§101(a), 109(b), Oct. 28, 1986, 100 Stat. 3250, 3253; Pub. L. 100–227, title I, §101(a), Dec. 31, 1987, 101 Stat. 1552; Pub. L. 100–687, div. B, title XI, §1101(a), Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §101(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–3, §2(a), Feb. 6, 1991, 105 Stat. 7; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1114 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–152, §2(a), Nov. 12, 1991, 105 Stat. 985; Pub. L. 103–78, §1, Aug. 13, 1993, 107 Stat. 767; Pub. L. 103–140, §2, Nov. 11, 1993, 107 Stat. 1485; Pub. L. 105–98, §2(a), Nov. 19, 1997, 111 Stat. 2155; Pub. L. 106–118, §2(a), Nov. 30, 1999, 113 Stat. 1601; Pub. L. 106–419, title III, §302, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 107–94, §2(a), Dec. 21, 2001, 115 Stat. 900; Pub. L. 107–103, title II, §204(b)(1), Dec. 27, 2001,115 Stat. 990; Pub. L. 107–330, title I, §102, title III, §309(a), Dec. 6, 2002, 116 Stat. 2821, 2829; Pub. L. 108–454, title III, §307(a), Dec. 10, 2004, 118 Stat. 3612; Pub. L. 109–111, §2(a), Nov. 22, 2005, 119 Stat. 2362; Pub. L. 109–233, title V, §502(1), (2), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(a), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(a), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–157, title I, §101, Dec. 26, 2007, 121 Stat. 1831; Pub. L. 110–324, §3(a), Sept. 24, 2008, 122 Stat. 3550; Pub. L. 111–37, §3(a), June 30, 2009, 123 Stat. 1928; Pub. L. 111–275, title VI, §601(a), (b)(1), title X, §1001(b), Oct. 13, 2010, 124 Stat. 2884, 2896.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §314; Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936; Pub. L. 86–663, §1, July 14, 1960, 74 Stat. 528; Pub. L. 87–645, §§1(a), 2(a), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–20, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–22, §1, May 15, 1963, 77 Stat. 18; Pub. L. 89–311, §§1(a), 3(d), (e), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 90–77, title IV, §401, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–493, §§1(a), 4(a), Aug. 19, 1968, 82 Stat. 808, 809; Pub. L. 91–376, §1(a), Aug. 12, 1970, 84 Stat. 787; Pub. L. 92–328, title I, §101(a), June 30, 1972, 86 Stat. 393; Pub. L. 93–295, title I, §101(a), May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, §101(a), Aug. 5, 1975, 89 Stat. 395; Pub. L. 94–433, title I, §101(a), title IV, §§401(4), (5), 404(6)–(8), Sept. 30, 1976, 90 Stat. 1374, 1377, 1378; Pub. L. 95–117, title I, §101(a), Oct. 3, 1977, 91 Stat. 1063; Pub. L. 95–479, title I, §101(a)–(d), Oct. 18, 1978, 92 Stat. 1560, 1561; Pub. L. 96–128, title I, §§101(a), 104, 105, Nov. 28, 1979, 93 Stat. 982, 984; Pub. L. 96–385, title I, §101(a), Oct. 7, 1980, 94 Stat. 1528; Pub. L. 97–66, title I, §§101(a), 104, Oct. 17, 1981, 95 Stat. 1026, 1027; Pub. L. 97–253, title IV, §§404(a), 405(b), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§101(a), 107, 111(a), (b), Oct. 14, 1982, 96 Stat. 1429, 1431, 1432; Pub. L. 98–223, title I, §§101(a), 112, Mar. 2, 1984, 98 Stat. 37, 40; Pub. L. 98–543, title I, §101(a), Oct. 24, 1984, 98 Stat. 2735; Pub. L. 99–238, title I, §101(a), Jan. 13, 1986, 99 Stat. 1765; Pub. L. 99–576, title I, §§101(a), 109(b), Oct. 28, 1986, 100 Stat. 3250, 3253; Pub. L. 100–227, title I, §101(a), Dec. 31, 1987, 101 Stat. 1552; Pub. L. 100–687, div. B, title XI, §1101(a), Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, §101(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–3, §2(a), Feb. 6, 1991, 105 Stat. 7; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1114 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–152, §2(a), Nov. 12, 1991, 105 Stat. 985; Pub. L. 103–78, §1, Aug. 13, 1993, 107 Stat. 767; Pub. L. 103–140, §2, Nov. 11, 1993, 107 Stat. 1485; Pub. L. 105–98, §2(a), Nov. 19, 1997, 111 Stat. 2155; Pub. L. 106–118, §2(a), Nov. 30, 1999, 113 Stat. 1601; Pub. L. 106–419, title III, §302, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 107–94, §2(a), Dec. 21, 2001, 115 Stat. 900; Pub. L. 107–103, title II, §204(b)(1), Dec. 27, 2001, 115 Stat. 990; Pub. L. 107–330, title I, §102, title III, §309(a), Dec. 6, 2002, 116 Stat. 2821, 2829; Pub. L. 108–454, title III, §307(a), Dec. 10, 2004, 118 Stat. 3612; Pub. L. 109–111, §2(a), Nov. 22, 2005, 119 Stat. 2362; Pub. L. 109–233, title V, §502(1), (2), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, §9(a), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§1005(a), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–157, title I, §101, Dec. 26, 2007, 121 Stat. 1831; Pub. L. 110–324, §3(a), Sept. 24, 2008, 122 Stat. 3550; Pub. L. 111–37, §3(a), June 30, 2009, 123 Stat. 1928; Pub. L. 111–275, title VI, §601(a), (b)(1), title X, §1001(b), Oct. 13, 2010, 124 Stat. 2884, 2896.)
 
 #### Amendments
 
@@ -56,7 +56,7 @@ For the purposes of section 1110 of this title—
 
 Subsec. (n). Pub. L. 111–275, §601(a)(2), substituted “both arms with factors” for “both arms at levels, or with complications,”, “both legs with factors that” for “both legs so near the hip as to”, and “one leg with factors that” for “one leg so near the shoulder and hip as to”.
 
-Subsec. (<i>o</i>). Pub. L. 111–275, §601(a)(3), substituted “with factors that” for “so near the shoulder as to”.
+Subsec. (o). Pub. L. 111–275, §601(a)(3), substituted “with factors that” for “so near the shoulder as to”.
 
 Subsec. (p). Pub. L. 111–275, §601(b)(1)(A), substituted a period for the semicolon at end.
 
@@ -86,13 +86,13 @@ Subsec. (j). Pub. L. 111–37, §3(a)(10), substituted “$2,673” for “$2,52
 
 Subsec. (k). Pub. L. 111–37, §3(a)(11), substituted “$96” for “$91” in two places and substituted “$3,327” and “$4,667” for “$3,145” and “$4,412”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 111–37, §3(a)(12), substituted “$3,327” for “$3,145”.
+Subsec. (l). Pub. L. 111–37, §3(a)(12), substituted “$3,327” for “$3,145”.
 
 Subsec. (m). Pub. L. 111–37, §3(a)(13), substituted “$3,671” for “$3,470”.
 
 Subsec. (n). Pub. L. 111–37, §3(a)(14), substituted “$4,176” for “$3,948”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 111–37, §3(a)(15), substituted “$4,667” for “$4,412” wherever appearing.
+Subsecs. (o), (p). Pub. L. 111–37, §3(a)(15), substituted “$4,667” for “$4,412” wherever appearing.
 
 Subsec. (r)(1). Pub. L. 111–37, §3(a)(16), substituted “$2,002” for “$1,893”.
 
@@ -122,13 +122,13 @@ Subsec. (j). Pub. L. 110–324, §3(a)(10), substituted “$2,527” for “$2,4
 
 Subsec. (k). Pub. L. 110–324, §3(a)(11), substituted “$91” for “$89” in two places and substituted “$3,145” and “$4,412” for “$3,075” and “$4,313”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 110–324, §3(a)(12), substituted “$3,145” for “$3,075”.
+Subsec. (l). Pub. L. 110–324, §3(a)(12), substituted “$3,145” for “$3,075”.
 
 Subsec. (m). Pub. L. 110–324, §3(a)(13), substituted “$3,470” for “$3,392”.
 
 Subsec. (n). Pub. L. 110–324, §3(a)(14), substituted “$3,948” for “$3,860”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 110–324, §3(a)(15), substituted “$4,412” for “$4,313” wherever appearing.
+Subsecs. (o), (p). Pub. L. 110–324, §3(a)(15), substituted “$4,412” for “$4,313” wherever appearing.
 
 Subsec. (r)(1). Pub. L. 110–324, §3(a)(16), substituted “$1,893” for “$1,851”.
 
@@ -136,7 +136,7 @@ Subsec. (r)(2). Pub. L. 110–324, §3(a)(16), substituted “$2,820” for “$
 
 Subsec. (s). Pub. L. 110–324, §3(a)(17), substituted “$2,829” for “$2,766”.
 
-<b>2007</b>—Subsec. (<i>o</i>). Pub. L. 110–157 substituted “20/200” for “5/200”.
+<b>2007</b>—Subsec. (o). Pub. L. 110–157 substituted “20/200” for “5/200”.
 
 <b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
@@ -184,7 +184,7 @@ Subsec. (k). Pub. L. 109–461, §1005(a)(11), substituted “$89” for “$87�
 
 Pub. L. 109–444, §9(a)(11), which substituted “$89” for “$87” in two places and substituted “$3,075” and “$4,313” for “$2,977” and “$4,176”, respectively, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-Subsec. (<i>l</i>). Pub. L. 109–461, §1005(a)(12), substituted “$3,075” for “$2,977”.
+Subsec. (l). Pub. L. 109–461, §1005(a)(12), substituted “$3,075” for “$2,977”.
 
 Pub. L. 109–444, §9(a)(12), which substituted “$3,075” for “$2,977”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
@@ -200,7 +200,7 @@ Subsec. (n). Pub. L. 109–461, §1005(a)(14), substituted “$3,860” for “$
 
 Pub. L. 109–444, §9(a)(14), which substituted “$3,860” for “$3,737”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 109–461, §1005(a)(15), substituted “$4,313” for “$4,176” wherever appearing.
+Subsecs. (o), (p). Pub. L. 109–461, §1005(a)(15), substituted “$4,313” for “$4,176” wherever appearing.
 
 Pub. L. 109–444, §9(a)(15), which substituted “$4,313” for “$4,176” wherever appearing, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
@@ -234,13 +234,13 @@ Subsec. (j). Pub. L. 109–111, §2(a)(10), substituted “$2,393” for “$2,2
 
 Subsec. (k). Pub. L. 109–111, §2(a)(11), substituted “$87” for “$82” in two places and substituted “$2,977” and “$4,176” for “$2,785” and “$3,907”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 109–111, §2(a)(12), substituted “$2,977” for “$2,785”.
+Subsec. (l). Pub. L. 109–111, §2(a)(12), substituted “$2,977” for “$2,785”.
 
 Subsec. (m). Pub. L. 109–111, §2(a)(13), substituted “$3,284” for “$3,073”.
 
 Subsec. (n). Pub. L. 109–111, §2(a)(14), substituted “$3,737” for “$3,496”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 109–111, §2(a)(15), substituted “$4,176” for “$3,907” wherever appearing.
+Subsecs. (o), (p). Pub. L. 109–111, §2(a)(15), substituted “$4,176” for “$3,907” wherever appearing.
 
 Subsec. (r). Pub. L. 109–111, §2(a)(16), substituted “$1,792” and “$2,669” for “$1,677” and “$2,497”, respectively.
 
@@ -268,13 +268,13 @@ Subsec. (j). Pub. L. 108–454, §307(a)(10), substituted “$2,239” for “$2
 
 Subsec. (k). Pub. L. 108–454, §307(a)(11), substituted “$82” for “$81” in two places and substituted “$2,785” and “$3,907” for “$2,728” and “$3,827”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 108–454, §307(a)(12), substituted “$2,785” for “$2,728”.
+Subsec. (l). Pub. L. 108–454, §307(a)(12), substituted “$2,785” for “$2,728”.
 
 Subsec. (m). Pub. L. 108–454, §307(a)(13), substituted “$3,073” for “$3,010”.
 
 Subsec. (n). Pub. L. 108–454, §307(a)(14), substituted “$3,496” for “$3,425”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 108–454, §307(a)(15), substituted “$3,907” for “$3,827” wherever appearing.
+Subsecs. (o), (p). Pub. L. 108–454, §307(a)(15), substituted “$3,907” for “$3,827” wherever appearing.
 
 Subsec. (r). Pub. L. 108–454, §307(a)(16), substituted “$1,677” and “$2,497” for “$1,643” and “$2,446”, respectively.
 
@@ -304,13 +304,13 @@ Subsec. (k). Pub. L. 107–330, §309(a)(11), substituted “$81” for “$80�
 
 Pub. L. 107–330, §102, substituted “25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue” for “one or both breasts (including loss by mastectomy)”.
 
-Subsec. (<i>l</i>). Pub. L. 107–330, §309(a)(12), substituted “$2,728” for “$2,691”.
+Subsec. (l). Pub. L. 107–330, §309(a)(12), substituted “$2,728” for “$2,691”.
 
 Subsec. (m). Pub. L. 107–330, §309(a)(13), substituted “$3,010” for “$2,969”.
 
 Subsec. (n). Pub. L. 107–330, §309(a)(14), substituted “$3,425” for “$3,378”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 107–330, §309(a)(15), substituted “$3,827” for “$3,775” wherever appearing.
+Subsecs. (o), (p). Pub. L. 107–330, §309(a)(15), substituted “$3,827” for “$3,775” wherever appearing.
 
 Subsec. (r). Pub. L. 107–330, §309(a)(16), substituted “$1,643” and “$2,446” for “$1,621” and “$2,413”, respectively.
 
@@ -338,13 +338,13 @@ Subsec. (j). Pub. L. 107–94, §2(a)(10), substituted “$2,163” for “$2,03
 
 Subsec. (k). Pub. L. 107–94, §2(a)(11), substituted “$80” for “$76” in two places, “$2,691” for “$2,533”, and “$3,775” for “$3,553”.
 
-Subsec. (<i>l</i>). Pub. L. 107–94, §2(a)(12), substituted “$2,691” for “$2,533”.
+Subsec. (l). Pub. L. 107–94, §2(a)(12), substituted “$2,691” for “$2,533”.
 
 Subsec. (m). Pub. L. 107–94, §2(a)(13), substituted “$2,969” for “$2,794”.
 
 Subsec. (n). Pub. L. 107–94, §2(a)(14), substituted “$3,378” for “$3,179”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 107–94, §2(a)(15), substituted “$3,775” for “$3,553” wherever appearing.
+Subsecs. (o), (p). Pub. L. 107–94, §2(a)(15), substituted “$3,775” for “$3,553” wherever appearing.
 
 Subsec. (r). Pub. L. 107–103 substituted “section 5503(c)” for “section 5503(e)” in introductory provisions.
 
@@ -378,13 +378,13 @@ Subsec. (j). Pub. L. 106–118, §2(a)(10), substituted “$2,036” for “$1,9
 
 Subsec. (k). Pub. L. 106–118, §2(a)(11), substituted “$76” for “$75” in two places and substituted “$2,533” and “$3,553” for “$2,443” and “$3,426”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 106–118, §2(a)(12), substituted “$2,533” for “$2,443”.
+Subsec. (l). Pub. L. 106–118, §2(a)(12), substituted “$2,533” for “$2,443”.
 
 Subsec. (m). Pub. L. 106–118, §2(a)(13), substituted “$2,794” for “$2,694”.
 
 Subsec. (n). Pub. L. 106–118, §2(a)(14), substituted “$3,179” for “$3,066”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 106–118, §2(a)(15), substituted “$3,553” for “$3,426” wherever appearing.
+Subsecs. (o), (p). Pub. L. 106–118, §2(a)(15), substituted “$3,553” for “$3,426” wherever appearing.
 
 Subsec. (r). Pub. L. 106–118, §2(a)(16), substituted “$1,525” and “$2,271” for “$1,471” and “$2,190”, respectively.
 
@@ -412,13 +412,13 @@ Subsec. (j). Pub. L. 105–98, §2(a)(10), substituted “$1,964” for “$1,77
 
 Subsec. (k). Pub. L. 105–98, §2(a)(11), substituted “$75” for “$70” in two places and substituted “$2,443” and “$3,426” for “$2,207” and “$3,093”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 105–98, §2(a)(12), substituted “$2,443” for “$2,207”.
+Subsec. (l). Pub. L. 105–98, §2(a)(12), substituted “$2,443” for “$2,207”.
 
 Subsec. (m). Pub. L. 105–98, §2(a)(13), substituted “$2,694” for “$2,432”.
 
 Subsec. (n). Pub. L. 105–98, §2(a)(14), substituted “$3,066” for “$2,768”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 105–98, §2(a)(15), substituted “$3,426” for “$3,093” wherever appearing.
+Subsecs. (o), (p). Pub. L. 105–98, §2(a)(15), substituted “$3,426” for “$3,093” wherever appearing.
 
 Subsec. (r). Pub. L. 105–98, §2(a)(16), substituted “$1,471” and “$2,190” for “$1,328” and “$1,978”, respectively.
 
@@ -470,7 +470,7 @@ Pub. L. 103–78, §1(11), which directed the substitution of “$70” for “$
 
 Pub. L. 103–78, §1(11), substituted “$2,152” and “$3,015” for “$2,089” and “$2,927”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 103–140, §2(12), substituted “$2,207” for “$2,152”.
+Subsec. (l). Pub. L. 103–140, §2(12), substituted “$2,207” for “$2,152”.
 
 Pub. L. 103–78, §1(12), substituted “$2,152” for “$2,089”.
 
@@ -482,7 +482,7 @@ Subsec. (n). Pub. L. 103–140, §2(14), substituted “$2,768” for “$2,698�
 
 Pub. L. 103–78, §1(14), substituted “$2,698” for “$2,619”.
 
-Subsec. (<i>o</i>). Pub. L. 103–140, §2(15), substituted “$3,093” for “$3,015”.
+Subsec. (o). Pub. L. 103–140, §2(15), substituted “$3,093” for “$3,015”.
 
 Pub. L. 103–78, §1(15), substituted “$3,015” for “$2,927”.
 
@@ -546,7 +546,7 @@ Subsec. (k). Pub. L. 102–152, §2(a)(11), substituted “$68” for “$66” 
 
 Pub. L. 102–3, §2(a)(11), substituted “$2,014” for “$1,911” and “$2,823” for “$2,679”.
 
-Subsec. (<i>l</i>). Pub. L. 102–152, §2(a)(12), substituted “$2,089” for “$2,014”.
+Subsec. (l). Pub. L. 102–152, §2(a)(12), substituted “$2,089” for “$2,014”.
 
 Pub. L. 102–3, §2(a)(12), substituted “$2,014” for “$1,911”.
 
@@ -558,7 +558,7 @@ Subsec. (n). Pub. L. 102–152, §2(a)(14), substituted “$2,619” for “$2,5
 
 Pub. L. 102–3, §2(a)(14), substituted “$2,526” for “$2,397”.
 
-Subsec. (<i>o</i>). Pub. L. 102–152, §2(a)(15), substituted “$2,927” for “$2,823”.
+Subsec. (o). Pub. L. 102–152, §2(a)(15), substituted “$2,927” for “$2,823”.
 
 Pub. L. 102–3, §2(a)(15), substituted “$2,823” for “$2,679”.
 
@@ -606,13 +606,13 @@ Subsec. (j). Pub. L. 101–237, §101(a)(10), substituted “$1,537” for “$1
 
 Subsec. (k). Pub. L. 101–237, §101(a)(11), substituted “$66” for “$63” in two places and substituted “$1,911” and “$2,679” for “$1,825” and “$2,559”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 101–237, §101(a)(12), substituted “$1,911” for “$1,825”.
+Subsec. (l). Pub. L. 101–237, §101(a)(12), substituted “$1,911” for “$1,825”.
 
 Subsec. (m). Pub. L. 101–237, §101(a)(13), substituted “$2,107” for “$2,012”.
 
 Subsec. (n). Pub. L. 101–237, §101(a)(14), substituted “$2,397” for “$2,289”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 101–237, §101(a)(15), substituted “$2,679” for “$2,559” wherever appearing.
+Subsecs. (o), (p). Pub. L. 101–237, §101(a)(15), substituted “$2,679” for “$2,559” wherever appearing.
 
 Subsec. (r). Pub. L. 101–237, §101(a)(16), substituted “$1,150” and “$1,713” for “$1,098” and “$1,636”, respectively.
 
@@ -640,13 +640,13 @@ Subsec. (j). Pub. L. 100–687, §1101(a)(10), substituted “$1,468” for “$
 
 Subsec. (k). Pub. L. 100–687, §1101(a)(11), substituted “$1,825” and “$2,559” for “$1,754” and “$2,459”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 100–687, §1101(a)(12), substituted “$1,825” for “$1,754”.
+Subsec. (l). Pub. L. 100–687, §1101(a)(12), substituted “$1,825” for “$1,754”.
 
 Subsec. (m). Pub. L. 100–687, §1101(a)(13), substituted “$2,012” for “$1,933”.
 
 Subsec. (n). Pub. L. 100–687, §1101(a)(14), substituted “$2,289” for “$2,199”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 100–687, §1101(a)(15), substituted “$2,559” for “$2,459” wherever appearing.
+Subsecs. (o), (p). Pub. L. 100–687, §1101(a)(15), substituted “$2,559” for “$2,459” wherever appearing.
 
 Subsec. (r). Pub. L. 100–687, §1101(a)(16), substituted “$1,098” and “$1,636” for “$1,055” and “$1,572”, respectively.
 
@@ -674,13 +674,13 @@ Subsec. (j). Pub. L. 100–227, §101(a)(10), substituted “$1,411” for “$1
 
 Subsec. (k). Pub. L. 100–227, §101(a)(11), substituted “$1,754” and “$2,459” for “$1,684” and “$2,360”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 100–227, §101(a)(12), substituted “$1,754” for “$1,684”.
+Subsec. (l). Pub. L. 100–227, §101(a)(12), substituted “$1,754” for “$1,684”.
 
 Subsec. (m). Pub. L. 100–227, §101(a)(13), substituted “$1,933” for “$1,856”.
 
 Subsec. (n). Pub. L. 100–227, §101(a)(14), substituted “$2,199” for “$2,111”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 100–227, §101(a)(15), substituted “$2,459” for “$2,360” wherever appearing.
+Subsecs. (o), (p). Pub. L. 100–227, §101(a)(15), substituted “$2,459” for “$2,360” wherever appearing.
 
 Subsec. (r). Pub. L. 100–227, §101(a)(16), substituted “$1,055” and “$1,572” for “$1,013” and “$1,509”, respectively.
 
@@ -730,7 +730,7 @@ Subsec. (k). Pub. L. 99–576, §101(a)(11), substituted “$63”, “$1,684”
 
 Pub. L. 99–238, §101(a)(11), substituted “$1,659” and “$2,325” for “$1,609” and “$2,255”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 99–576, §101(a)(12), substituted “$1,684” for “$1,659”.
+Subsec. (l). Pub. L. 99–576, §101(a)(12), substituted “$1,684” for “$1,659”.
 
 Pub. L. 99–238, §101(a)(12), substituted “$1,659” for “$1,609”.
 
@@ -742,7 +742,7 @@ Subsec. (n). Pub. L. 99–576, §101(a)(14), substituted “$2,111” for “$2,
 
 Pub. L. 99–238, §101(a)(14), substituted “$2,080” for “$2,017”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 99–576, §101(a)(15), substituted “$2,360” for “$2,325” wherever appearing.
+Subsecs. (o), (p). Pub. L. 99–576, §101(a)(15), substituted “$2,360” for “$2,325” wherever appearing.
 
 Pub. L. 99–238, §101(a)(15), substituted “$2,325” for “$2,255” wherever appearing.
 
@@ -824,7 +824,7 @@ Subsec. (k). Pub. L. 98–543, §101(a)(11), substituted “$1,609” and “$2,
 
 Pub. L. 98–223, §101(a)(11), substituted “$1,559” and “$2,185” for “$1,506” and “$2,111”, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 98–543, §101(a)(12), substituted “$1,609” for “$1,559”.
+Subsec. (l). Pub. L. 98–543, §101(a)(12), substituted “$1,609” for “$1,559”.
 
 Pub. L. 98–223, §101(a)(12), substituted “$1,559” for “$1,506”.
 
@@ -836,7 +836,7 @@ Subsec. (n). Pub. L. 98–543, §101(a)(14), substituted “$2,017” for “$1,
 
 Pub. L. 98–223, §101(a)(14), substituted “$1,954” for “$1,888”.
 
-Subsec. (<i>o</i>). Pub. L. 98–543, §101(a)(15), substituted “$2,255” for “$2,185”.
+Subsec. (o). Pub. L. 98–543, §101(a)(15), substituted “$2,255” for “$2,185”.
 
 Pub. L. 98–223, §101(a)(15), substituted “$2,185” for “$2,111”.
 
@@ -902,7 +902,7 @@ Subsec. (k). Pub. L. 97–306, §§101(a)(11), 107, 108, substituted “$1,506�
 
 Pub. L. 97–253, §405(b)(5), (h), eff. Jan. 1, 1983, substituted “$61” for “$62”, “$1,402” for “$1,403”, “$61” for “$62”, and “$1,965” for “$1,966”.
 
-Subsec. (<i>l</i>). Pub. L. 97–306, §§101(a)(12), 107, 108, substituted “$1,506” for “$1,403”, and repealed amendment made by Pub. L. 97–253, §405(b)(6), eff. Oct. 1, 1982.
+Subsec. (l). Pub. L. 97–306, §§101(a)(12), 107, 108, substituted “$1,506” for “$1,403”, and repealed amendment made by Pub. L. 97–253, §405(b)(6), eff. Oct. 1, 1982.
 
 Pub. L. 97–253, §405(b)(6), (h), eff. Jan. 1, 1983, substituted “$1,402” for “$1,403”.
 
@@ -914,7 +914,7 @@ Subsec. (n). Pub. L. 97–306, §§101(a)(14), 107, 108, 111(a), inserted “or 
 
 Pub. L. 97–253, §405(b)(8), (h), eff. Jan. 1, 1983, substituted “$1,757” for “$1,758”.
 
-Subsec. (<i>o</i>). Pub. L. 97–306, §§101(a)(15), 107, 108, substituted “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, §405(b)(9), eff. Oct. 1, 1982.
+Subsec. (o). Pub. L. 97–306, §§101(a)(15), 107, 108, substituted “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, §405(b)(9), eff. Oct. 1, 1982.
 
 Pub. L. 97–253, §405(b)(9), (h), eff. Jan. 1, 1983, substituted “$1,965” for “$1,966”.
 
@@ -938,13 +938,13 @@ Pub. L. 97–253, §405(b)(12), (h), eff. Jan. 1, 1983, substituted “$243” f
 
 <b>1981</b>—Subsecs. (a) to (k). Pub. L. 97–66, §101(a)(1)–(11), increased compensation in subsec. (a) from $54 to $58, subsec. (b) from $99 to $107, subsec. (c) from $150 to $162, subsec. (d) from $206 to $232, subsec. (e) from $291 to $328, subsec. (f) from $367 to $413, subsec. (g) from $434 to $521, subsec. (h) from $503 to $604, subsec. (i) from $566 to $679, subsec. (j) from $1,016 to $1,130, and subsec. (k) from $1,262 to $1,403 and from $1,768 to $1,966.
 
-Subsec. (<i>l</i>). Pub. L. 97–66, §§101(a)(12), 104(1), substituted “loss of use of both feet” for “loss of use of both hands, or both feet” and “$1,403” for “$1,262”.
+Subsec. (l). Pub. L. 97–66, §§101(a)(12), 104(1), substituted “loss of use of both feet” for “loss of use of both hands, or both feet” and “$1,403” for “$1,262”.
 
 Subsec. (m). Pub. L. 97–66, §§101(a)(13), 104(2), substituted “both hands, or of both legs at a level, or with complications, preventing natural knee action with prostheses in place, or of one arm and one leg at levels, or with complications, preventing natural elbow and knee action with prostheses” for “two extremities at a level, or with complications, preventing natural elbow or knee action with prosthesis” and “$1,547” for “$1,391”.
 
 Subsec. (n). Pub. L. 97–66, §§101(a)(14), 104(3), substituted “or loss of use of both arms at levels, or with complications, preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs so near the hip as to prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg so near the shoulder and hip as to prevent the use of prosthetic appliances,” for “of two extremities so near the shoulder or hip as to prevent the use of a prosthetic appliance” and “$1,758” for “$1,581”.
 
-Subsec. (<i>o</i>). Pub. L. 97–66, §§101(a)(15), 104(4), substituted “visual acuity or less, or if the veteran has suffered the anatomical loss of both arms so near the shoulder as to prevent the use of prosthetic appliances, the monthly compensation shall be $1,966” for “visual acuity or less, the monthly compensation shall be $1,768”.
+Subsec. (o). Pub. L. 97–66, §§101(a)(15), 104(4), substituted “visual acuity or less, or if the veteran has suffered the anatomical loss of both arms so near the shoulder as to prevent the use of prosthetic appliances, the monthly compensation shall be $1,966” for “visual acuity or less, the monthly compensation shall be $1,768”.
 
 Subsec. (p). Pub. L. 97–66, §101(a)(15), substituted “$1,966” for “$1,768” in three places.
 
@@ -954,7 +954,7 @@ Subsec. (s). Pub. L. 97–66, §101(a)(17), increased compensation from $1,137 t
 
 Subsec. (t)(1). Pub. L. 97–66, §101(a)(18), increased compensation from $219 to $244.
 
-<b>1980</b>—Subsecs. (a) to (<i>o</i>). Pub. L. 96–385, §101(a)(1)–(15), increased compensation in subsec. (a) from $48 to $54, subsec. (b) from $88 to $99, subsec. (c) from $133 to $150, subsec. (d) from $182 to $206, subsec. (e) from $255 to $291, subsec. (f) from $321 to $367, subsec. (g) from $380 to $434, subsec. (h) from $440 to $503, subsec. (i) from $495 to $566, subsec. (j) from $889 to $1,016, subsec. (k) from $1,104 and $1,547 to $1,262 and $1,768, subsec. (<i>l</i>) from $1,104 to $1,262, subsec. (m) from $1,217 to $1,391, subsec. (n) from $1,383 to $1,581, subsec. (<i>o</i>) from $1,547 to $1,768.
+<b>1980</b>—Subsecs. (a) to (o). Pub. L. 96–385, §101(a)(1)–(15), increased compensation in subsec. (a) from $48 to $54, subsec. (b) from $88 to $99, subsec. (c) from $133 to $150, subsec. (d) from $182 to $206, subsec. (e) from $255 to $291, subsec. (f) from $321 to $367, subsec. (g) from $380 to $434, subsec. (h) from $440 to $503, subsec. (i) from $495 to $566, subsec. (j) from $889 to $1,016, subsec. (k) from $1,104 and $1,547 to $1,262 and $1,768, subsec. (l) from $1,104 to $1,262, subsec. (m) from $1,217 to $1,391, subsec. (n) from $1,383 to $1,581, subsec. (o) from $1,547 to $1,768.
 
 Subsec. (p). Pub. L. 96–385, §101(a)(15), substituted “$1,768” for “$1,547” in three places.
 
@@ -964,17 +964,17 @@ Subsec. (s). Pub. L. 96–385, §101(a)(17), increased compensation from $995 to
 
 Subsec. (t)(1). Pub. L. 96–385, §101(a)(18), increased compensation from $192 to $219.
 
-<b>1979</b>—Subsecs. (a) to (<i>o</i>). Pub. L. 96–128, §101(a)(1)–(15), increased compensation in subsec. (a) from $44 to $48, subsec. (b) from $80 to $88, subsec. (c) from $121 to $133, subsec. (d) from $166 to $182, subsec. (e) from $232 to $255, subsec. (f) from $292 to $321, subsec. (g) from $346 to $380, subsec. (h) from $400 to $440, subsec. (i) from $450 to $495, subsec. (j) from $809 to $889, subsec. (k) from $56 to $62, from $1,005 to $1,104, and from $1,408 to $1,547, subsec. (<i>l</i>) from $1,005 to $1,104, subsec. (m) from $1,107 to $1,217, subsec. (n) from $1,258 to $1,383, and subsec. (<i>o</i>) from $1,408 to $1,547.
+<b>1979</b>—Subsecs. (a) to (o). Pub. L. 96–128, §101(a)(1)–(15), increased compensation in subsec. (a) from $44 to $48, subsec. (b) from $80 to $88, subsec. (c) from $121 to $133, subsec. (d) from $166 to $182, subsec. (e) from $232 to $255, subsec. (f) from $292 to $321, subsec. (g) from $346 to $380, subsec. (h) from $400 to $440, subsec. (i) from $450 to $495, subsec. (j) from $809 to $889, subsec. (k) from $56 to $62, from $1,005 to $1,104, and from $1,408 to $1,547, subsec. (l) from $1,005 to $1,104, subsec. (m) from $1,107 to $1,217, subsec. (n) from $1,258 to $1,383, and subsec. (o) from $1,408 to $1,547.
 
 Subsec. (p). Pub. L. 96–128, §§101(a)(15), 105, inserted provisions respecting the establishment of any intermediate rate, and substituted “$1,547” for “$1,408” wherever appearing.
 
-Subsec. (r). Pub. L. 96–128, §§101(a)(16), 104, inserted provisions relating to intermediate rates and struck out reference to subsections (<i>o</i>) or (p) of this section in introductory text, substituted “$664” for “$604” in cl. (1), and substituted “$989” for “$900” in cl. (2).
+Subsec. (r). Pub. L. 96–128, §§101(a)(16), 104, inserted provisions relating to intermediate rates and struck out reference to subsections (o) or (p) of this section in introductory text, substituted “$664” for “$604” in cl. (1), and substituted “$989” for “$900” in cl. (2).
 
 Subsec. (s). Pub. L. 96–128, §101(a)(17), increased compensation from $905 to $995.
 
 Subsec. (t)(1). Pub. L. 96–128, §101(a)(18), increased compensation from $175 to $192.
 
-<b>1978</b>—Subsecs. (a) to (<i>o</i>). Pub. L. 95–479, §101(a)(1)–(15), increased compensation in subsec. (a) from $41 to $44, subsec. (b) from $75 to $80, in subsec. (c) from $113 to $121, in subsec. (d) from $155 to $166, in subsec. (e) from $216 to $232, in subsec. (f) from $272 to $292, in subsec. (g) from $322 to $346, in subsec. (h) from $373 to $400, in subsec. (i) from $419 to $450, in subsec. (j) from $754 to $809, in subsec. (k) from $937 and $1,312 to $1,005 and $1,408, respectively, in subsec. (<i>l</i>) from $937 to $1,005, in subsec. (m) from $1,032 to $1,107, in subsec. (n) from $1,172 to $1,258, and in subsec. (<i>o</i>) from $1,312 to $1,408.
+<b>1978</b>—Subsecs. (a) to (o). Pub. L. 95–479, §101(a)(1)–(15), increased compensation in subsec. (a) from $41 to $44, subsec. (b) from $75 to $80, in subsec. (c) from $113 to $121, in subsec. (d) from $155 to $166, in subsec. (e) from $216 to $232, in subsec. (f) from $272 to $292, in subsec. (g) from $322 to $346, in subsec. (h) from $373 to $400, in subsec. (i) from $419 to $450, in subsec. (j) from $754 to $809, in subsec. (k) from $937 and $1,312 to $1,005 and $1,408, respectively, in subsec. (l) from $937 to $1,005, in subsec. (m) from $1,032 to $1,107, in subsec. (n) from $1,172 to $1,258, and in subsec. (o) from $1,312 to $1,408.
 
 Subsec. (p). Pub. L. 95–479, §101(a)(15), (b), substituted “$1,408” for “$1,312” in two places, and inserted provision allowing next higher rate or intermediate rate but in no event in excess of $1,408 in event veteran has suffered anatomical loss or loss of use, or a combination thereof, of three extremities.
 
@@ -984,15 +984,15 @@ Subsec. (s). Pub. L. 95–479, §101(a)(16), substituted “$905” for “$843�
 
 Subsec. (t). Pub. L. 95–479, §101(d), added subsec. (t).
 
-<b>1977</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 95–117 increased compensation in subsec. (a) from $38 to $41, subsec. (b) from $70 to $75, subsec. (c) from $106 to $113, subsec. (d) from $145 to $155, subsec. (e) from $203 to $216, subsec. (f) from $255 to $272, subsec. (g) from $302 to$322, subsec. (h) from $350 to $373, subsec. (i) from $393 to $419, subsec. (j) from $707 to $754, subsec. (k) from $879 and $1,231 to $937 and $1,312, respectively, subsec. (<i>l</i>) from $879 to $937, subsec. (m) from $968 to $1,032, subsec. (n) from $1,099 to $1,172, subsec. (<i>o</i>) from $1,231 to $1,312, subsec. (p) from $1,231 to $1,312, subsec. (r) from $528 to $563, and subsec. (s) from $791 to $843.
+<b>1977</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 95–117 increased compensation in subsec. (a) from $38 to $41, subsec. (b) from $70 to $75, subsec. (c) from $106 to $113, subsec. (d) from $145 to $155, subsec. (e) from $203 to $216, subsec. (f) from $255 to $272, subsec. (g) from $302 to $322, subsec. (h) from $350 to $373, subsec. (i) from $393 to $419, subsec. (j) from $707 to $754, subsec. (k) from $879 and $1,231 to $937 and $1,312, respectively, subsec. (l) from $879 to $937, subsec. (m) from $968 to $1,032, subsec. (n) from $1,099 to $1,172, subsec. (o) from $1,231 to $1,312, subsec. (p) from $1,231 to $1,312, subsec. (r) from $528 to $563, and subsec. (s) from $791 to $843.
 
-<b>1976</b>—Subsecs. (a) to (<i>l</i>). Pub. L. 94–433, §101(a)(1)–(12), increased compensation in subsec. (a) from $35 to $38, subsec. (b) from $65 to $70, subsec. (c) from $98 to $106, subsec. (d) from $134 to $145, subsec. (e) from $188 to $203, subsec. (f) from $236 to $255, subsec. (g) from $280 to $302, subsec. (h) from $324 to $350, subsec. (i) from $364 to $393, subsec. (j) from $655 to $707, subsec. (k) from $52, $814, and $1,139 to $56, $879, and $1,231, respectively, and subsec. (<i>l</i>) from $814 to $879.
+<b>1976</b>—Subsecs. (a) to (l). Pub. L. 94–433, §101(a)(1)–(12), increased compensation in subsec. (a) from $35 to $38, subsec. (b) from $65 to $70, subsec. (c) from $98 to $106, subsec. (d) from $134 to $145, subsec. (e) from $188 to $203, subsec. (f) from $236 to $255, subsec. (g) from $280 to $302, subsec. (h) from $324 to $350, subsec. (i) from $364 to $393, subsec. (j) from $655 to $707, subsec. (k) from $52, $814, and $1,139 to $56, $879, and $1,231, respectively, and subsec. (l) from $814 to $879.
 
 Subsec. (m). Pub. L. 94–433, §101(a)(13), 404(6), increased compensation from $896 to $968 and substituted “such veteran” for “him”, respectively.
 
 Subsec. (n). Pub. L. 94–433, §101(a)(14), increased compensation from $1,018 to $1,099.
 
-Subsec. (<i>o</i>). Pub. L. 94–433, §§101(a)(15), 401(4), 404(6), increased compensation from $1,139 to $1,231, struck out “in combination with total blindness with 5/200 visual acuity or less,” before “the monthly compensation”, and substituted “such veteran” for “him”, respectively.
+Subsec. (o). Pub. L. 94–433, §§101(a)(15), 401(4), 404(6), increased compensation from $1,139 to $1,231, struck out “in combination with total blindness with 5/200 visual acuity or less,” before “the monthly compensation”, and substituted “such veteran” for “him”, respectively.
 
 Subsec. (p). Pub. L. 94–433, §§101(a)(15), 404(7), increased compensation from $1,139 to $1,231 and struck out “, in his discretion,” before “may allow”, respectively.
 
@@ -1000,15 +1000,15 @@ Subsec. (r). Pub. L. 94–433, §§101(a)(16), 401(5), 404(8), increased compens
 
 Subsec. (s). Pub. L. 94–433, §§101(a)(17), 404(8), increased compensation from $732 to $791 and substituted “such veteran's” for “his” after “by reason of” and before “house”, respectively.
 
-<b>1975</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139 respectively, subsec. (<i>l</i>) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (<i>o</i>) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
+<b>1975</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139 respectively, subsec. (l) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (o) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
 
-<b>1974</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275 to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (<i>l</i>) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (<i>o</i>) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
+<b>1974</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 93–295 increased compensation in subsec. (a) from $28 to $32, subsec. (b) from $51 to $59, subsec. (c) from $77 to $89, subsec. (d) from $106 to $122, subsec. (e) from $149 to $171, subsec. (f) from $179 to $211, subsec. (g) from $212 to $250, subsec. (h) from $245 to $289, subsec. (i) from $275 to $325, subsec. (j) from $495 to $584, subsec. (k) from $47, $616 and $862 to $52, $727 and $1,017, respectively, subsec. (l) from $616 to $727, subsec. (m) from $678 to $800, subsec. (n) from $770 to $909, subsec. (o) from $862 to $1,017, subsec. (p) from $862 to $1,017, subsec. (r) from $370 to $437, and subsec. (s) from $554 to $654.
 
-<b>1972</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 92–328 increased compensation in subsec. (a) from $25 to $28, subsec. (b) from $46 to $51, subsec. (c) from $70 to $77, subsec. (d) from $96 to $106, subsec. (e) from $135 to $149, subsec. (f) from $163 to $179, subsec. (g) from $193 to $212, subsec. (h) from $223 to $245, subsec. (i) from $250 to $275, subsec. (j) from $450 to $495, subsec. (k) from $560 to $616 and $784 to $862, respectively, subsec. (<i>l</i>) from $560 to $616, subsec. (m) from $616 to $678, subsec. (n) from $700 to $770, subsec. (<i>o</i>) from $784 to $862, subsec. (p) from $784 to $862, subsec. (r) from $336 to $370, and subsec. (s) from $504 to $554.
+<b>1972</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 92–328 increased compensation in subsec. (a) from $25 to $28, subsec. (b) from $46 to $51, subsec. (c) from $70 to $77, subsec. (d) from $96 to $106, subsec. (e) from $135 to $149, subsec. (f) from $163 to $179, subsec. (g) from $193 to $212, subsec. (h) from $223 to $245, subsec. (i) from $250 to $275, subsec. (j) from $450 to $495, subsec. (k) from $560 to $616 and $784 to $862, respectively, subsec. (l) from $560 to $616, subsec. (m) from $616 to $678, subsec. (n) from $700 to $770, subsec. (o) from $784 to $862, subsec. (p) from $784 to $862, subsec. (r) from $336 to $370, and subsec. (s) from $504 to $554.
 
-<b>1970</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 91–376 increased compensation in subsec. (a) from $23 to $25, subsec. (b) from $43 to $46, subsec. (c) from $65 to $70, subsec. (d) from $89 to $96, subsec. (e) from $122 to $135, subsec. (f) from $147 to $163, subsec. (g) from $174 to $193, subsec. (h) from $201 to $223, subsec. (i) from $226 to $250, subsec. (j) from $400 to $450, subsec. (k) from $500 and $700 to $560 and $784, respectively, subsec. (<i>l</i>) from $500 to $560, subsec. (m) from $550 to $616, subsec. (n) from $625 to $700, subsec. (<i>o</i>) from $700 to $784, subsec. (p) from $700 to $784, subsec. (r) from $300 to $336, and subsec. (s) from $450 to $504.
+<b>1970</b>—Subsecs. (a) to (p), (r), (s). Pub. L. 91–376 increased compensation in subsec. (a) from $23 to $25, subsec. (b) from $43 to $46, subsec. (c) from $65 to $70, subsec. (d) from $89 to $96, subsec. (e) from $122 to $135, subsec. (f) from $147 to $163, subsec. (g) from $174 to $193, subsec. (h) from $201 to $223, subsec. (i) from $226 to $250, subsec. (j) from $400 to $450, subsec. (k) from $500 and $700 to $560 and $784, respectively, subsec. (l) from $500 to $560, subsec. (m) from $550 to $616, subsec. (n) from $625 to $700, subsec. (o) from $700 to $784, subsec. (p) from $700 to $784, subsec. (r) from $300 to $336, and subsec. (s) from $450 to $504.
 
-<b>1968</b>—Subsecs. (a) to (p). Pub. L. 90–493, §1(a)(1)–(14), (17), increased compensation in subsec. (a) from $21 to $23, subsec. (b) from $40 to $43, subsec. (c) from $60 to $65, subsec. (d) from $82 to $89, subsec. (e) from $113 to $122, subsec. (f) from $136 to $147, subsec. (g) from $161 to $174, subsec. (h) from $186 to $201, subsec. (i) from $209 to $226, subsec. (j) from $300 to $400, subsec. (k) from $600 and $400 to $700 and $500, respectively, subsec. (<i>l</i>) from $400 to $500, subsec. (m) from $450 to $550, subsec. (n) from $525 to $625, subsec. (<i>o</i>) from $600 to $700, and subsec. (p) from $600 to $700.
+<b>1968</b>—Subsecs. (a) to (p). Pub. L. 90–493, §1(a)(1)–(14), (17), increased compensation in subsec. (a) from $21 to $23, subsec. (b) from $40 to $43, subsec. (c) from $60 to $65, subsec. (d) from $82 to $89, subsec. (e) from $113 to $122, subsec. (f) from $136 to $147, subsec. (g) from $161 to $174, subsec. (h) from $186 to $201, subsec. (i) from $209 to $226, subsec. (j) from $300 to $400, subsec. (k) from $600 and $400 to $700 and $500, respectively, subsec. (l) from $400 to $500, subsec. (m) from $450 to $550, subsec. (n) from $525 to $625, subsec. (o) from $600 to $700, and subsec. (p) from $600 to $700.
 
 Subsec. (q). Pub. L. 90–493, §4(a), struck out provision that if the veteran is shown to have had a service-connected disability resulting from an active tuberculous disease, the monthly compensation shall be not less than $67, provided that, in the judgment of the Administrator, the disease has reached a condition of complete arrest.
 
@@ -1016,9 +1016,9 @@ Subsecs. (r), (s). Pub. L. 90–493, §1(a)(15), (16), increased compensation in
 
 <b>1967</b>—Subsec. (k). Pub. L. 90–77 substituted “one or more creative organs” for “a creative organ” and “in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection” for “in the event of anatomical loss or loss of use of a creative organ, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, or has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction” and inserted following “$47 per month” where initially appearing “for each such loss or loss of use”, reference to subsec. (s) of this section and limitation of compensation to $400 per month.
 
-<b>1965</b>—Subsecs. (a) to (m). Pub. L. 89–311, §1(a)(1)–(14), increased compensation in subsec. (a) from $20 to $21, subsec. (b) from $38 to $40, subsec. (c) from $58 to $60, subsec. (d) from $77 to $82, subsec. (e) from $107 to $113, subsec. (f) from $128 to $136, subsec. (g) from $149 to $161, subsec. (h) from $170 to $186, subsec. (i) from $191 to $209, subsec. (j) from $250 to $300, subsec. (k) from $525 to $600, subsec. (<i>l</i>) from $340 to $400, subsec. (m) from $390 to $450, and subsec. (n) from $440 to $525.
+<b>1965</b>—Subsecs. (a) to (m). Pub. L. 89–311, §1(a)(1)–(14), increased compensation in subsec. (a) from $20 to $21, subsec. (b) from $38 to $40, subsec. (c) from $58 to $60, subsec. (d) from $77 to $82, subsec. (e) from $107 to $113, subsec. (f) from $128 to $136, subsec. (g) from $149 to $161, subsec. (h) from $170 to $186, subsec. (i) from $191 to $209, subsec. (j) from $250 to $300, subsec. (k) from $525 to $600, subsec. (l) from $340 to $400, subsec. (m) from $390 to $450, and subsec. (n) from $440 to $525.
 
-Subsec. (<i>o</i>). Pub. L. 89–311, §§1(a)(11), 3(d), increased compensation from $525 to $600 and relaxed requirement of total deafness by requiring only bilateral deafness (if the hearing impairment in either one or both ears is service connected) rated at 60 per centum or more disabling.
+Subsec. (o). Pub. L. 89–311, §§1(a)(11), 3(d), increased compensation from $525 to $600 and relaxed requirement of total deafness by requiring only bilateral deafness (if the hearing impairment in either one or both ears is service connected) rated at 60 per centum or more disabling.
 
 Subsec. (p). Pub. L. 89–311, §3(e), increased from $525 to $600 the allowable maximum rates when service-connected disabilities exceed the requirements for any of the prescribed rates and inserted specific reference to an increase to the next higher rate in the case of service-connected blindness and bilateral deafness and an increase to the next intermediate rate in the case of service-connected total deafness in one ear.
 
@@ -1030,7 +1030,7 @@ Subsec. (s). Pub. L. 89–311, §1(a)(16), substituted “$350” for “$290”
 
 Pub. L. 88–20 provided increased compensation for veterans suffering deafness of both ears, having absence of air and bone conduction.
 
-<b>1962</b>—Subsecs. (a) to (p). Pub. L. 87–645, §1(a)(1)–(14), increased monthly compensation in subsec. (a) from $19 to $20, subsec. (b) from $36 to $38, subsec. (c) from $55 to $58, subsec. (d) from $73 to $77, subsec. (e) from $100to $107, subsec. (f) from $120 to $128, subsec. (g) from $140 to $149, subsec. (h) from $160 to $170, subsec. (i) from $179 to $191, subsec. (j) from $225 to $250, subsec. (k) from $450 to $525, subsec. (<i>l</i>) from $309 to $340, subsec. (m) from $359 to $390, subsec. (n) from $401 to $440, and subsec. (<i>o</i>) and (p) from $450 to $525.
+<b>1962</b>—Subsecs. (a) to (p). Pub. L. 87–645, §1(a)(1)–(14), increased monthly compensation in subsec. (a) from $19 to $20, subsec. (b) from $36 to $38, subsec. (c) from $55 to $58, subsec. (d) from $73 to $77, subsec. (e) from $100 to $107, subsec. (f) from $120 to $128, subsec. (g) from $140 to $149, subsec. (h) from $160 to $170, subsec. (i) from $179 to $191, subsec. (j) from $225 to $250, subsec. (k) from $450 to $525, subsec. (l) from $309 to $340, subsec. (m) from $359 to $390, subsec. (n) from $401 to $440, and subsec. (o) and (p) from $450 to $525.
 
 Subsec. (r). Pub. L. 87–645, §§1(a)(15), 2(a), increased monthly compensation from $150 to $200, and substituted “, subject to the limitations of section 3203(f) of this title” for “for all periods during which he is not hospitalized at Government expense”.
 
@@ -1066,57 +1066,57 @@ Pub. L. 106–118, §7, Nov. 30, 1999, 113 Stat. 1603, provided that: “The ame
 
 #### Effective Date of 1997 Amendment
 
-Section 7 of Pub. L. 105–98 provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1997.”
+Pub. L. 105–98, §7, Nov. 19, 1997, 111 Stat. 2158, provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Section 7 of Pub. L. 103–140 provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1993.”
+Pub. L. 103–140, §7, Nov. 11, 1993, 107 Stat. 1487, provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1993.”
 
-#### Effective Date of 1991 Amendments
+#### Effective Date of 1991 Amendment
 
-Section 7 of Pub. L. 102–152 provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1991.”
+Pub. L. 102–152, §7, Nov. 12, 1991, 105 Stat. 988, provided that: “The amendments made by this Act \[amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title\] shall take effect on December 1, 1991.”
 
-Section 7 of Pub. L. 102–3 provided that: “Section 2(b) \[set out as a note below\] and the amendments made by this Act \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect as of January 1, 1991.”
+Pub. L. 102–3, §7, Feb. 6, 1991, 105 Stat. 10, provided that: “Section 2(b) \[set out as a note below\] and the amendments made by this Act \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect as of January 1, 1991.”
 
 #### Effective Date of 1989 Amendment
 
-Section 106 of Pub. L. 101–237 provided that: “The amendments made by this part \[part A (§§101–106) of title I of Pub. L. 101–237, amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect on December 1, 1989.”
+Pub. L. 101–237, title I, §106, Dec. 18, 1989, 103 Stat. 2064, provided that: “The amendments made by this part \[part A (§§101–106) of title I of Pub. L. 101–237, amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect on December 1, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Section 1106 of title XI of Pub. L. 100–687 provided that: “The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title, and enacting provisions set out as a note below\] shall take effect on December 1, 1988.”
+Pub. L. 100–687, div. B, title XI, §1106, Nov. 18, 1988, 102 Stat. 4125, provided that: “The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title, and enacting provisions set out as a note below\] shall take effect on December 1, 1988.”
 
 #### Effective Date of 1987 Amendment
 
-Section 107 of title I of Pub. L. 100–227 provided that: “The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987.”
+Pub. L. 100–227, title I, §107, Dec. 31, 1987, 101 Stat. 1555, provided that: “The amendments made by thistitle \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 107 of Pub. L. 99–576 provided that: “The amendments made by sections 101 through 106 \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect on December 1, 1986, except that such amendments shall not take effect unless benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1986, as a result of a determination under section 215(i) of such Act (42 U.S.C 415(i)).”
+Pub. L. 99–576, title I, §107, Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by sections 101 through 106 \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall take effect on December 1, 1986, except that such amendments shall not take effect unless benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1986, as a result of a determination under section 215(i) of such Act (42 U.S.C 415(i)).”
 
 Amendment by section 109(b) of Pub. L. 99–576 effective Oct. 28, 1986, see section 109(c)(1) of Pub. L. 99–576, set out as a note under section 1160 of this title.
 
-Section 107 of title I of Pub. L. 99–238 provided that: “The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as a note under this section\] shall take effect as of December 1, 1985.”
+Pub. L. 99–238, title I, §107, Jan. 13, 1986, 99 Stat. 1767, provided that: “The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as a note under this section\] shall take effect as of December 1, 1985.”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 107 of Pub. L. 98–543 provided that: “Sections 101 through 106 \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as a note under this section\] shall take effect on December 1, 1984.”
+Pub. L. 98–543, title I, §107, Oct. 24, 1984, 98 Stat. 2737, provided that: “Sections 101 through 106 \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as a note under this section\] shall take effect on December 1, 1984.”
 
-Section 107 of Pub. L. 98–223 provided that: “The amendments made by this part \[part A (§§101–108) of title I of Pub. L. 98–223, see Tables for classification\] shall take effect on April 1, 1984.”
+Pub. L. 98–223, title I, §107, Mar. 2, 1984, 98 Stat. 39, provided that: “The amendments made by this part \[part A (§§101–108) of title I of Pub. L. 98–223, see Tables for classification\] shall take effect on April 1, 1984.”
 
 Amendment by section 112 of Pub. L. 98–223 effective Oct. 1, 1983, see section 114 of Pub. L. 98–223, set out as a note under section 1112 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
-Section 108 of Pub. L. 97–306 provided that: “The amendments made by this part \[part A (§§101–108) of title I of Pub. L. 97–306, see Tables for classification\] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title I, §108, Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by this part \[part A (§§101–108) of title I of Pub. L. 97–306, see Tables for classification\] shall take effect on October 1, 1982.”
 
-Section 111(c) of Pub. L. 97–306 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title I, §111(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1982.”
 
-Section 404(c) of Pub. L. 97–253 provided that: “The amendments made by this section \[amending this section and section 315 \[now 1115\] of this title\] shall take effect on October 1, 1982.”
+Pub. L. 97–253, title IV, §404(c), Sept. 8, 1982, 96 Stat. 803, provided that: “The amendments made by this section \[amending this section and section 315 \[now 1115\] of this title\] shall take effect on October 1, 1982.”
 
 #### Effective Date of 1981 Amendment
 
-Section 701 of Pub L. 97–66 provided that:
+Pub L. 97–66, title VII, §701, Oct. 17, 1981, 95 Stat. 1037, provided that:
 
 “(a) The amendments made by titles I, II, and III \[see Tables for classification\] shall take effect as of October 1, 1981.
 
@@ -1134,7 +1134,7 @@ Section 701 of Pub L. 97–66 provided that:
 
 #### Effective Date of 1980 Amendment
 
-Section 601 of Pub. L. 96–385 provided that:
+Pub. L. 96–385, title VI, §601, Oct. 7, 1980, 94 Stat. 1538, provided that:
 
 “(a) The amendments made by titles I and II \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] shall apply only to payments for months beginning after September 30, 1980.
 
@@ -1146,9 +1146,9 @@ Section 601 of Pub. L. 96–385 provided that:
 
 “(e) The amendments made by section 508 \[amending former sections 4107 and 4109 of this title\] shall take effect as of August 26, 1980.”
 
-#### Effective Date of 1979 Amendments
+#### Effective Date of 1979 Amendment
 
-Section 601 of Pub. L. 96–128, as amended by Pub. L. 96–151, title III, §306(a), Dec. 20, 1979, 93 Stat. 1097, provided that:
+Pub. L. 96–128, title VI, §601, Nov. 28, 1979, 93 Stat. 987, as amended by Pub. L. 96–151, title III, §306(a), Dec. 20, 1979, 93 Stat. 1097, provided that:
 
 “(a)(1) Except as provided in paragraph (2) of this subsection, the amendments made by titles I and II \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title\] and the provisions of section 101(b) \[set out as a note below\] shall take effect as of October 1, 1979.
 
@@ -1156,11 +1156,11 @@ Section 601 of Pub. L. 96–128, as amended by Pub. L. 96–151, title III, §30
 
 “(b) The amendments made by titles III, IV, and V \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Nov. 28, 1979\].”
 
-\[Section 306(b) of Pub. L. 96–151 provided that the amendment made to section 601(a)(2) of Pub. L. 96–128 \[substituting “clause (11)” for “clause (1)”\], set out as a note above, shall take effect as of Nov. 28, 1979.\]
+\[Pub. L. 96–151, title III, §306(b), Dec. 20, 1979, 93 Stat. 1097, provided that the amendment made to section 601(a)(2) of Pub. L. 96–128 \[substituting “clause (11)” for “clause (1)”\], set out as a note above, shall take effect as of Nov. 28, 1979.\]
 
 #### Effective Date of 1978 Amendment
 
-Section 401 of Pub. L. 95–479 provided that:
+Pub. L. 95–479, title IV, §401, Oct. 18, 1978, 92 Stat. 1566, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act \[see Tables for classification\] shall take effect on October 1, 1978.
 
@@ -1168,7 +1168,7 @@ Section 401 of Pub. L. 95–479 provided that:
 
 #### Effective Date of 1977 Amendment
 
-Section 501 of Pub. L. 95–117 provided that: “Except as otherwise provided in this Act, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977.”
+Pub. L. 95–117, title V, §501, Oct. 3, 1977, 91 Stat. 1066, provided that: “Except as otherwise provided in thisAct, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977.”
 
 #### Effective Date of 1976 Amendment
 
@@ -1176,25 +1176,25 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Section 301 of Pub. L. 94–71 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective August 1, 1975.”
+Pub. L. 94–71, title III, §301, Aug. 5, 1975, 89 Stat. 398, provided that: “The provisions of this Act \[see Tables for classification\] shall become effective August 1, 1975.”
 
 #### Effective Date of 1974 Amendment
 
-Section 401 of Pub. L. 93–295 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on May 1, 1974, except that title III \[amending sections 1701 and 3202 \[now 3501 and 5502\] of this title\] shall become effective on the first day of the second calendar month following enactment \[May 31, 1974\].”
+Pub. L. 93–295, title IV, §401, May 31, 1974, 88 Stat. 184, provided that: “The provisions of this Act \[see Tables for classification\] shall become effective on May 1, 1974, except that title III \[amending sections 1701 and 3202 \[now 3501 and 5502\] of this title\] shall become effective on the first day of the second calendar month following enactment \[May 31, 1974\].”
 
 #### Effective Date of 1972 Amendment
 
-Section 301(a) of Pub. L. 92–328 provided that: “Sections 101 through 107 of this Act \[see Tables for classification\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[June 30, 1972\].”
+Pub. L. 92–328, title III, §301(a), June 30, 1972, 86 Stat. 398, provided that: “Sections 101 through 107 of this Act \[see Tables for classification\] shall take effect on the first day of the second calendar month which begins after the date of enactment \[June 30, 1972\].”
 
 #### Effective Date of 1970 Amendment
 
-Section 9 of Pub. L. 91–376 provided that: “The first two sections of this Act \[amending this section and section 315 \[now 1115\] of this title and enacting provision set out as a note under this section\] take effect July 1, 1970. Sections 4, 5, 6, and 7 \[amending sections 103, 3010 \[now 5110\], and 3104 \[now 5304\] of this title, and enacting provision set out as a note under section 103 of this title\] take effect January 1, 1971.”
+Pub. L. 91–376, §9, Aug. 12, 1970, 84 Stat. 790, provided that: “The first two sections of this Act \[amending this section and section 315 \[now 1115\] of this title and enacting provision set out as a note under this section\] take effect July 1, 1970. Sections 4, 5, 6, and 7 \[amending sections 103, 3010 \[now 5110\], and 3104 \[now 5304\] of this title, and enacting provision set out as a note under section 103 of this title\] take effect January 1, 1971.”
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–493 provided that: “The compensation payable pursuant to the amendments made by this Act \[amending this section\] shall be payable beginning with the first day of January 1969.”
+Pub. L. 90–493, §2, Aug. 19, 1968, 82 Stat. 809, provided that: “The compensation payable pursuant to the amendments made by this Act \[amending this section\] shall be payable beginning with the first day of January 1969.”
 
-Section 4(b) of Pub. L. 90–493 provided that: “The repeals made by subsection (a) of this section \[repealing subsec. (q) of this section and section 356 of this title\] shall not apply in the case of any veteran who, on the date of enactment of this Act \[Aug. 19, 1968\], was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.”
+Pub. L. 90–493, §4(b), Aug. 19, 1968, 82 Stat. 809, provided that: “The repeals made by subsection (a) of this section \[repealing subsec. (q) of this section and section 356 of this title\] shall not apply in the case of any veteran who, on the date of enactment of this Act \[Aug. 19, 1968\], was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.”
 
 #### Effective Date of 1967 Amendment
 
@@ -1204,13 +1204,13 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 Amendment
 
-Section 9 of Pub. L. 89–311 provided that: “The amendments made by the first section and sections 2, 3, and 4 of this Act \[amending this section and sections 101, 315 \[now 1115\], 360 \[now 1160\], 414 \[now 1314\], and 560\[now 1560\] of this title and enacting provisions set out as a note under this section\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Oct. 31, 1965\].”
+Pub. L. 89–311, §9, Oct. 31, 1965, 79 Stat. 1157, provided that: “The amendments made by the first section and sections 2, 3, and 4 of this Act \[amending this section and sections 101, 315 \[now 1115\], 360 \[now 1160\], 414 \[now 1314\], and 560 \[now 1560\] of this title and enacting provisions set out as a note under this section\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Oct. 31, 1965\].”
 
-#### Effective Date of 1963 Amendments
+#### Effective Date of 1963 Amendment
 
-Section 2 of Pub. L. 88–22 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[May 15, 1963\].”
+Pub. L. 88–22, §2, May 15, 1963, 77 Stat. 18, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[May 15, 1963\].”
 
-Section 2 of Pub. L. 88–20 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second month which begins after the date of its enactment \[May 15, 1963\].”
+Pub. L. 88–20, §2, May 15, 1963, 77 Stat. 17, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the first day of the second month which begins after the date of its enactment \[May 15, 1963\].”
 
 #### Effective Date of 1962 Amendment
 
@@ -1218,23 +1218,25 @@ Amendment by Pub. L. 87–645 effective first day of first calendar month which 
 
 #### Effective Date of 1960 Amendment
 
-Section 2 of Pub. L. 86–663 provided that: “This Act \[amending this section\] shall be effective on and after the first day of the second calendar month following the date of its enactment \[July 14, 1960\].”
+Pub. L. 86–663, §2, July 14, 1960, 74 Stat. 528, provided that: “This Act \[amending this section\] shall be effective on and after the first day of the second calendar month following the date of its enactment \[July 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–782 provided that the amendment made by that section is effective Jan. 1, 1959.
+Pub. L. 85–782, §2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment made by that section is effective Jan. 1, 1959.
 
 #### Repeal of Temporary Changes in Fiscal Year 1983 Compensation
 
-Section 405 of Pub. L. 97–253 \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
+Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section\] was repealed by Pub. L. 97–306, title I, §107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
-Pub. L. 112–53, §2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549, provided that:
+Pub. L. 112–198, §§2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464, provided that:
+
+#### “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
 “(a)
 
-Rate Adjustment.—Effective on December 1, 2011, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2011, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+Rate Adjustment.—Effective on December 1, 2012, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2012, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
 “(b)
 
@@ -1266,17 +1268,21 @@ Determination of Increase.—
 
 &emsp;“(1)
 
-Percentage.—Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2011, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+Percentage.—Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under titleII of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2012, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 &emsp;“(2)
 
 Rounding.—Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
 
-“(e)
+#### “SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-Publication of Adjusted Rates.—The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in subsection (b), as increased under subsection (a), not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2012.”
+“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2013.”
 
-Similar provisions were contained in the following acts:Pub. L. 111–247, §§2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
+Similar provisions were contained in the following acts:
+
+Pub. L. 112–53, §2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549.
+
+Pub. L. 111–247, §§2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
 
 Pub. L. 111–37, §2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928.
 
@@ -1306,9 +1312,11 @@ Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
 
-Pub. L. 112–53, §2(d), Nov. 9, 2011, 125 Stat. 549, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 112–198, §2(d), Nov. 27, 2012, 126 Stat. 1464, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 112–53, §2(d), Nov. 9, 2011, 125 Stat. 549.
 
 Pub. L. 111–247, §2(d), Sept. 30, 2010, 124 Stat. 2624.
 

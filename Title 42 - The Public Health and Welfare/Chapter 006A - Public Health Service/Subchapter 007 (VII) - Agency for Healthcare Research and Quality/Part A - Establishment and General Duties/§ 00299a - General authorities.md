@@ -48,7 +48,7 @@ The Agency shall not mandate national standards of clinical practice or quality 
 
 Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
 
-(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
+(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654;amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 
 #### References in Text
 

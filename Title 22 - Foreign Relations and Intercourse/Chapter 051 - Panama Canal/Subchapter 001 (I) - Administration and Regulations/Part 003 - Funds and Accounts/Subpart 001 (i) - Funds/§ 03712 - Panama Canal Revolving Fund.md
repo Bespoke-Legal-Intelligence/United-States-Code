@@ -50,11 +50,11 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### (e) Termination of Commission and Office of Transition Administration; transfer of Fund
 
-(1) The Panama Canal Commission and the Office of Transition Administration (described in section 3504 of Public Law 106–65) shall terminate on October 1, 2004.
+(1) The Panama Canal Commission and the Office of Transition Administration (described insection 3504 of Public Law 106–65) shall terminate on October 1, 2004.
 
 (2) Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
 
-(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept.23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
+(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
 
 #### References in Text
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 
 #### Effective Date of 1987 Amendment
 
-Section 5429 of Pub. L. 100–203 provided that: “This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988.”
+Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: “This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988.”
 
 #### Effective Date of 1985 Amendment
 
-Section 2 of Pub. L. 99–195 provided that: “The amendments made by this Act \[amending this section and section 3793 of this title\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–195, §2, Dec. 23, 1985, 99 Stat. 1349, provided that: “The amendments made by this Act \[amending this section and section 3793 of this title\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
 
 #### Termination of Reporting Requirements
 

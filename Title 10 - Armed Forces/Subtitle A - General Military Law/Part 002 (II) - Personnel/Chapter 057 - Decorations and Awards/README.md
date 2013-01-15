@@ -54,7 +54,7 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom
 
-Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participatesin Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
 
 #### Report on Department of Defense Process for Awarding Decorations
 

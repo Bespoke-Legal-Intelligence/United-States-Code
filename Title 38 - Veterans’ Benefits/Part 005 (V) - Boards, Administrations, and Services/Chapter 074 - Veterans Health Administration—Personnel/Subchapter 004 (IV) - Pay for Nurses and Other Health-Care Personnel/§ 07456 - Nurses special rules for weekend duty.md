@@ -1,6 +1,6 @@
 ### §7456. Nurses: special rules for weekend duty
 
-(a) Subject to subsection (b), if the Secretary determines it to be necessary in order to obtain or retain the services of nurses at any Department health-care facility, the Secretary may provide, in the case of nurses appointed under this chapter and employed at such facility, that such nurses who work two regularly scheduled 12-hour tours of duty within the period commencing at midnight Friday and ending at midnight the following Sunday shall be considered for all purposes (except computation of full-time equivalent employees for the purposes of determining compliance with personnel ceilings) to have worked a full 40-hour basic workweek.
+(a) Subject to subsection (b), if the Secretary determines it to be necessary in order to obtain or retain the services of nurses at any Department health-care facility, the Secretary may provide, in the case of nurses appointed underthis chapter and employed at such facility, that such nurses who work two regularly scheduled 12-hour tours of duty within the period commencing at midnight Friday and ending at midnight the following Sunday shall be considered for all purposes (except computation of full-time equivalent employees for the purposes of determining compliance with personnel ceilings) to have worked a full 40-hour basic workweek.
 
 (b)(1) Basic and additional pay for a nurse who is considered under subsection (a) to have worked a full 40-hour basic workweek shall be subject to paragraphs (2) and (3).
 

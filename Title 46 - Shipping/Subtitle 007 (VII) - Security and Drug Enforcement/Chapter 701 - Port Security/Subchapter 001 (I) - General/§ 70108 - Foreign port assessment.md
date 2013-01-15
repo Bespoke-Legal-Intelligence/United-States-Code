@@ -50,7 +50,7 @@ Periodic Reassessment.—The Secretary, acting through the Commandant of the Coa
 
 Limitation on Statutory Construction.—The absence of an inspection of a foreign port shall not bar the Secretary from making a finding that a port in a foreign country does not maintain effective antiterrorism measures.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, titleII, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, title II, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993.)
 
 #### Amendments
 

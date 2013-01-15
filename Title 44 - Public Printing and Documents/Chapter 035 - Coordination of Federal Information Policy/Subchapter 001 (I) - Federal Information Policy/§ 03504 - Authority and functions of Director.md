@@ -140,7 +140,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
 
 #### References in Text
 
@@ -164,15 +164,15 @@ Subsec. (g)(2). Pub. L. 107–347, §305(c)(1)(B), substituted “section 11331 
 
 Pub. L. 107–296, §1005(c)(1)(B), which directed amendment of par. (2) by substituting “section 11331 of title 40 and subchapter II of this title” for “sections 11331 and 11332(b) and (c) of title 40” and a period for the semicolon, could not be executed because of amendment by Pub. L. 107–347, §305(c)(1)(B). See Amendment note above and Effective Date of 2002 Amendments notes below.
 
-Pub. L. 107–217, §3(<i>l</i>)(5)(A), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441), and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(5)(A), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441), and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (g)(3). Pub. L. 107–296, §1005(c)(1)(C), and Pub. L. 107–347, §305(c)(1)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: “require Federal agencies, consistent with the standards and guidelines promulgated under sections 11331 and 11332(b) and (c) of title 40, to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
 
-Pub. L. 107–217, §3(<i>l</i>)(5)(B), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(5)(B), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-Subsec. (h)(1)(B). Pub. L. 107–217, §3(<i>l</i>)(5)(C), substituted “section 11331 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441)”.
+Subsec. (h)(1)(B). Pub. L. 107–217, §3(l)(5)(C), substituted “section 11331 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441)”.
 
-Subsec. (h)(2). Pub. L. 107–217, §3(<i>l</i>)(5)(D), substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” and “section 322 of title 40” for “section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)”.
+Subsec. (h)(2). Pub. L. 107–217, §3(l)(5)(D), substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” and “section 322 of title 40” for “section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)”.
 
 <b>2000</b>—Subsecs. (a)(2), (d)(2), (f)(1). Pub. L. 106–398 substituted “subchapter” for “chapter”.
 

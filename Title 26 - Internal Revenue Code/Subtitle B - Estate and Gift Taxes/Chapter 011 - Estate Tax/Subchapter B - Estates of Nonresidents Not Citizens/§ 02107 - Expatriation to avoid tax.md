@@ -58,23 +58,19 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 #### (d) Burden of proof
 
-If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxesin respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual's estate.
+If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxes in respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual's estate.
 
 #### (e) Cross reference
 
 &emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
 
-(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX, §2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851; Pub. L. 104–191, title V, §511(e)(1), (f)(2)(A), Aug. 21, 1996, 110 Stat. 2097, 2099; Pub. L. 105–34, title XVI, §1602(g)(6), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 107–16, title V, §532(c)(7)(C), June 7, 2001, 115 Stat. 75; Pub. L. 108–357, title VIII, §804(a)(3), Oct. 22, 2004, 118 Stat. 1570.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX,§2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851; Pub. L. 104–191, title V, §511(e)(1), (f)(2)(A), Aug. 21, 1996, 110 Stat. 2097, 2099; Pub. L. 105–34, title XVI, §1602(g)(6), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 107–16, title V, §532(c)(7)(C), June 7, 2001, 115 Stat. 75; Pub. L. 108–357, title VIII, §804(a)(3), Oct. 22, 2004, 118 Stat. 1570.)
 
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357 reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b), for provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes, and provisions describing individuals to be treated as having a principal purpose to avoid taxes.
 
-<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §§532(c)(7)(C), 901, temporarily substituted “2012 and 2013” for “2011 to 2013, inclusive,”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16 substituted “2012 and 2013” for “2011 to 2013, inclusive,”.
 
 <b>1997</b>—Subsec. (c)(2)(B)(i). Pub. L. 105–34, §1602(g)(6)(A), substituted “such foreign country as the value of the property subjected to such taxes by such foreign country and” for “such foreign country in respect of property included in the gross estate as the value of the property”.
 
@@ -104,11 +100,9 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -126,5 +120,5 @@ Amendment by section 2001(c)(1)(E)(ii) of Pub. L. 94–455 applicable to estates
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub.L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
+Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
 

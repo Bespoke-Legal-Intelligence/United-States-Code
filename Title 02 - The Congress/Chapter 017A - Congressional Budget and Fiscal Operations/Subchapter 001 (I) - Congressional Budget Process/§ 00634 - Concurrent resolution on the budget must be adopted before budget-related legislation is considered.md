@@ -44,7 +44,7 @@ Section was formerly classified to section 1324 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided thatconcurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
+<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided that concurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
 
@@ -64,5 +64,5 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, inserting reference
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title priorto repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

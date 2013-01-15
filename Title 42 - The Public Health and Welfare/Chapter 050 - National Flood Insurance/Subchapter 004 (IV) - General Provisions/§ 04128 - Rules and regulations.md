@@ -1,22 +1,24 @@
 ### §4128. Rules and regulations
 
-(a) The Director is authorized to issue such regulations as may be necessary to carry out the purpose of this Act.
+(a) The Administrator is authorized to issue such regulations as may be necessary to carry out the purpose of this Act.
 
-(b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions, shall, in cooperation with the Director, issue appropriate rules and regulations to govern the carrying out of the agency's responsibilities under this Act.
+(b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions, shall, in cooperation with the Administrator, issue appropriate rules and regulations to govern the carrying out of the agency's responsibilities under this Act.
 
-(Pub. L. 93–234, title II, §205, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 93–234, title II, §205, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(a)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as theFlood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of Flood Disaster Protection Act of 1973, and not as part of National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs (a) and (b).
+
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
 
 #### Transfer of Functions
 

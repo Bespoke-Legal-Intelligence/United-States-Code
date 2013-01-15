@@ -6,7 +6,7 @@ Except as provided by section 7463, the Tax Court shall have jurisdiction to red
 
 #### (b) Jurisdiction over other years and quarters
 
-The Tax Court in redetermining a deficiency of income tax for any taxable year or of gift tax for any calendar year or calendar quarter shall consider such facts with relation to the taxes for other years or calendar quarters as may be necessary correctly to redetermine the amount of such deficiency, but in so doing shall have no jurisdiction to determine whether or not the tax for any other year or calendar quarter has been overpaid or underpaid. Notwithstanding the preceding sentence, the Tax Court may apply the doctrine of equitable recoupment to the same extent that it is available in civil tax cases before the district courts of the United States and the United States Court of Federal Claims.
+The Tax Court in redetermining a deficiency of income tax for any taxable year or of gift tax for any calendar year or calendar quarter shall consider such facts with relation to the taxes for other years or calendar quarters as may be necessary correctly to redetermine the amount of such deficiency, but in so doing shall have no jurisdiction to determine whether or not the taxfor any other year or calendar quarter has been overpaid or underpaid. Notwithstanding the preceding sentence, the Tax Court may apply the doctrine of equitable recoupment to the same extent that it is available in civil tax cases before the district courts of the United States and the United States Court of Federal Claims.
 
 #### (c) Taxes imposed by section 507 or chapter 41, 42, 43, or 44
 
@@ -70,7 +70,7 @@ Pub. L. 109–280, title VIII, §858(b), Aug. 17, 2006, 120 Stat. 1020, provided
 
 #### Effective Date of 1988 Amendments
 
-Section 6244(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 6512 of this title\] shall apply to overpayments determined by the Tax Court which have not yet been refunded by the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6244(c), Nov. 10, 1988, 102 Stat. 3750, provided that: “The amendments made by this section \[amending this section and section 6512 of this title\] shall apply to overpayments determined by the Tax Court which have not yet been refunded by the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 Amendment by section 1511(c)(8) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1554(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any action or proceeding in the Tax Court with respect to which a decision has not become final (as determined under section 7481 of the Internal Revenue Code of 1954 \[now 1986\]) before the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1554(b), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any action or proceeding in the Tax Court with respect to which a decision has not become final (as determined under section 7481 of the Internal Revenue Code of 1954 \[now 1986\]) before the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1833 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

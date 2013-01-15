@@ -46,7 +46,7 @@ The Secretary shall by regulation provide for—
 
 #### (c) Possession and use of listed agents and toxins
 
-The Secretary shall by regulation provide for the establishment and enforcement of standards and procedures governing the possession and use of listed agents and toxins, including the provisions described in paragraphs (1) through (4) of subsection (b) of this section, in order to protect the public health and safety.
+The Secretary shall by regulation provide for the establishment and enforcement of standards and procedures governing the possession and use of listed agents and toxins, including the provisions described in paragraphs (1) through (4) ofsubsection (b) of this section, in order to protect the public health and safety.
 
 #### (d) Registration; identification; database
 
@@ -168,9 +168,9 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) Clinical or diagnostic laboratories
 
-&emsp;Regulations under subsections (b) and (c) of this section shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer listed agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
+&emsp;Regulations under subsections (b) and (c) of this section shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer listed agents or toxins that arecontained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
 
-&emsp;&emsp;(A) the identification of such agents or toxins is reported to the Secretary, andwhen required under Federal, State, or local law, to other appropriate authorities; and
+&emsp;&emsp;(A) the identification of such agents or toxins is reported to the Secretary, and when required under Federal, State, or local law, to other appropriate authorities; and
 
 &emsp;&emsp;(B) such agents or toxins are transferred or destroyed in a manner set forth by the Secretary by regulation.
 
@@ -228,7 +228,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections (b) and (c) of this section, or any notification of theft or loss submitted under such subsections.
 
-&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) of this section that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or locationof a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
+&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) of thissection that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
 
 #### (2) Covered agencies
 
@@ -278,13 +278,13 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (l) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
 The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) of this section (relating to theft or loss) and subsection (j) of this section (relating to releases).
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 For purposes of this section:
 

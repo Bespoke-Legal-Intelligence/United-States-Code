@@ -78,7 +78,7 @@ Post-Education Duty Assignments.—The Secretary of Defense shall ensure that—
 
 #### Effective Date of 1993 Amendment
 
-Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title IX, §933(b), Nov. 30, 1993, 107 Stat. 1736, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1991 Amendment
 
@@ -86,7 +86,7 @@ Pub. L. 102–190, div. A, title IX, §912(b), Dec. 5, 1991, 105 Stat. 1452, as 
 
 #### Implementation of Subsection (e)
 
-Section 1123(c)(2) of Pub. L. 101–189 provided that: “Subsection (e) of such section, as added by paragraph (1), shall be implemented by the Secretary of Defense not later than two years after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title XI, §1123(c)(2), Nov. 29, 1989, 103 Stat. 1557, provided that: “Subsection (e) of such section, as added by paragraph (1), shall be implemented by the Secretary of Defense not later than two years after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Education Requirements; Joint Officer Management Program
 
@@ -98,7 +98,7 @@ Capstone course.—Subsection (a) of section 663 of such title \[10 U.S.C. 663(a
 
 “(2)
 
-Review of military education schools.—(A) The first review under subsections (b) and (c) of such section shall be completed not later than 120 days after the date of the enactment of this Act. The Secretary ofDefense shall submit to Congress a report on the results of the review at each Department of Defense school not later than 60 days thereafter.
+Review of military education schools.—(A) The first review under subsections (b) and (c) of such section shall be completed not later than 120 days after the date of the enactment of this Act. The Secretary of Defense shall submit to Congress a report on the results of the review at each Department of Defense school not later than 60 days thereafter.
 
 “(B) Such subsections shall be implemented so that the revised curricula take effect with respect to courses beginning after July 1987.
 

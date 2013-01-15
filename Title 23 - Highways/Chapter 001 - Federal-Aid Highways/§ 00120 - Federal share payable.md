@@ -28,29 +28,77 @@ Increased Federal Share.—
 
 &emsp;(1)
 
-Certain safety projects.—The Federal share payable on account of any project for traffic control signalization, traffic circles (also known as “roundabouts”), safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
+Certain safety projects.—The Federal share payable on account of any project for traffic control signalization, maintaining minimum levels of retroreflectivity of highway signs or pavement markings, traffic circles (also known as “roundabouts”), safety rest areas, pavement marking, shoulder and centerline rumble strips and stripes, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid programs for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
 &emsp;(2) CMAQ
 
 projects.—The Federal share payable on account of a project or program carried out under section 149 with funds obligated in fiscal year 2008 or 2009, or both, shall be not less than 80 percent and, at the discretion of the State, may be up to 100 percent of the cost thereof.
 
+&emsp;(3)
+
+Innovative project delivery.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), or (5) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
+
+&emsp;&emsp;&emsp;(i) contains innovative project delivery methods that improve work zone safety for motorists or workers and the quality of the facility;
+
+&emsp;&emsp;&emsp;(ii) contains innovative technologies, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
+
+&emsp;&emsp;&emsp;(iii) accelerates project delivery while complying with other applicable Federal laws (including regulations) and not causing any significant adverse environmental impact; or
+
+&emsp;&emsp;&emsp;(iv) reduces congestion related to highway construction.
+
+&emsp;&emsp;(B)
+
+Examples.—Projects, programs, and activities described in subparagraph (A) may include the use of—
+
+&emsp;&emsp;&emsp;(i) prefabricated bridge elements and systems and other technologies to reduce bridge construction time;
+
+&emsp;&emsp;&emsp;(ii) innovative construction equipment, materials, or techniques, including the use of in-place recycling technology and digital 3-dimensional modeling technologies;
+
+&emsp;&emsp;&emsp;(iii) innovative contracting methods, including the design-build and the construction manager-general contractor contracting methods;
+
+&emsp;&emsp;&emsp;(iv) intelligent compaction equipment; or
+
+&emsp;&emsp;&emsp;(v) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
+
+&emsp;&emsp;(C)
+
+Limitations.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), and (5) of section 104(b).
+
+&emsp;&emsp;&emsp;(ii)
+
+Federal share increase.—The Federal share payable on account of a project, program, or activity described in subparagraph (A) may be increased by up to 5 percent of the total project cost.
+
 (d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
 (e)
 
-Emergency Relief.—The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title on account of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, “a comparable facility” shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life.
+Emergency Relief.—The Federal share payable for any repair or reconstruction provided for by funds made available under section 125 for any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on the system as provided in subsections (a) and (b), except that—
+
+&emsp;(1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the cost of the repairs;
+
+&emsp;(2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, Federal land access transportation facilities, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
+
+&emsp;(3) the Secretary shall extend the time period in paragraph (1) taking into consideration any delay in the ability of the State to access damaged facilities to evaluate damage and the cost of repair; and
+
+&emsp;(4) the Federal share payable for eligible permanent repairs to restore damaged facilities to predisaster condition may amount to 90 percent of the cost of the repairs if the eligible expenses incurred by the State due to natural disasters or catastrophic failures in a Federal fiscal year exceeds the annual apportionment of the State under section 104 for the fiscal year in which the disasters or failures occurred.
 
 (f) The Secretary is authorized to cooperate with the State transportation departments and with the Department of the Interior in the construction of Federal-aid highways within Indian reservations and national parks and monuments under the jurisdiction of the Department of the Interior and to pay the amount assumed therefor from the funds apportioned in accordance with section 104 of this title to the State wherein the reservations and national parks and monuments are located.
 
-(g) At the request of any State, the Secretary may from time to time enter into agreements with such State to reimburse the State for the Federal share of the costs of preliminary and construction engineering at an agreed percentage of actual construction costs for each project, in lieu of the actual engineering costs for such project. The Secretary shall annually review each such agreement to insure that such percentage reasonably represents the engineering costs actually incurred by such State.
+(g) Notwithstanding any other provision of this section or of this title, the Federal share payable on account of any project under this title in the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands shall be 100 per centum of the total cost of the project.
 
-(h) Notwithstanding any other provision of this section or of this title, the Federal share payable on account of any project under this title in the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands shall be 100 per centum of the total cost of the project.
-
-(i)
+(h)
 
 Increased Non-Federal Share.—Notwithstanding any other provision of this title and subject to such criteria as the Secretary may establish, a State may contribute an amount in excess of the non-Federal share of a project under this title so as to decrease the Federal share payable on such project.
 
-(j)
+(i)
 
 Credit for Non-Federal Share.—
 
@@ -60,7 +108,7 @@ Eligibility.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may use as a credit toward the non-Federal share requirement for any funds made available to carry out this title (other than the emergency relief program authorized by section 125 and the Appalachian development highway system program under section 14501 of title 40) or chapter 53 of title 49 toll revenues that are generated and used by public, quasi-public, and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce.
+In general.—A State may use as a credit toward the non-Federal share requirement for any funds made available to carry out this title (other than the emergency relief program authorized by section 125) or chapter 53 of title 49 toll revenues that are generated and used by public, quasi-public, and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce.
 
 &emsp;&emsp;(B)
 
@@ -96,23 +144,47 @@ Limitation on liability.—Use of a credit for a non-Federal share under this su
 
 &emsp;&emsp;&emsp;(i) shall not expose the agency to additional liability, additional regulation, or additional administrative oversight; and
 
-&emsp;&emsp;&emsp;(ii) shall not subject the agency to any additional Federal design standards orlaws (including regulations) as a result of providing the non-Federal share other than those to which the agency is already subject.
+&emsp;&emsp;&emsp;(ii) shall not subject the agency to any additional Federal design standards or laws (including regulations) as a result of providing the non-Federal share other than those to which the agency is already subject.
 
 &emsp;&emsp;(B)
 
 Chartered multistate agencies.—When a credit that is received from a chartered multistate agency is applied to a non-Federal share under this subsection, such credit shall be applied equally to all charter States.
 
+(j)
+
+Use of Federal Agency Funds.—Notwithstanding any other provision of law, any Federal funds other than those made available under this title and title 49 may be used to pay the non-Federal share of the cost of any transportation project that is within, adjacent to, or provides access to Federal land, the Federal share of which is funded under this title or chapter 53 of title 49.
+
 (k)
+
+Use of Federal Land and Tribal Transportation Funds.—Notwithstanding any otherprovision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565.)
+
+#### Amendments
+
+<b>2012</b>—Subsec. (c)(1). Pub. L. 112–141, §1508(1), inserted “maintaining minimum levels of retroreflectivity of highway signs or pavement markings,” after “traffic control signalization,” and “shoulder and centerline rumble strips and stripes,” after “pavement marking,” and substituted “Federal-aid programs” for “Federal-aid systems”.
+
+Subsec. (c)(3). Pub. L. 112–141, §1304(b), added par. (3).
+
+Subsec. (e). Pub. L. 112–141, §1508(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title on account of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, ‘a comparable facility’ shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life.”
+
+Subsecs. (g), (h). Pub. L. 112–141, §1508(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “At the request of any State, the Secretary may from time to time enter into agreements with such State to reimburse the State for the Federal share of the costs of preliminary and construction engineering at an agreed percentage of actual construction costs for each project, in lieu of the actual engineering costs for such project. The Secretary shall annually review each such agreement to insure that such percentage reasonably represents the engineering costs actually incurred by such State.”
+
+Subsec. (i). Pub. L. 112–141, §1508(3), (4), redesignated subsec. (j) as (i) and struck out “and the Appalachian development highway system program under section 14501 of title 40” after “authorized by section 125” in par. (1)(A).
+
+Subsecs. (j), (k). Pub. L. 112–141, §1508(5), added subsecs. (j) and (k) and struck out former subsecs. (j) and (k) which read as follows:
+
+“(j)
 
 Use of Federal Land Management Agency Funds.—Notwithstanding any other provision of law, the funds appropriated to any Federal land management agency may be used to pay the non-Federal share of the cost of any project the Federal share of which is funded under this title or chapter 53 of title 49.
 
-(<i>l</i>)
+“(k)
 
-Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or Indian lands.
+Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or Indian lands.”
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763.)
+Pub. L. 112–141, §1508(3), redesignated subsecs. (k) and (l) as (j) and (k), respectively.
 
-#### Amendments
+Subsec. (l). Pub. L. 112–141, §1508(3), redesignated subsec. (l) as (k).
 
 <b>2007</b>—Subsec. (c). Pub. L. 110–140 struck out “for Certain Safety Projects” after “Share” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
@@ -126,7 +198,7 @@ Subsec. (j)(1). Pub. L. 109–59, §1905, designated existing provisions as subp
 
 Subsec. (k). Pub. L. 109–59, §1119(a)(1), struck out “Federal-aid highway” before “project” and substituted “this title or chapter 53 of title 49” for “section 104”.
 
-Subsec. (<i>l</i>). Pub. L. 109–59, §1119(a)(2), substituted “this title or chapter 53 of title 49” for “section 104”.
+Subsec. (l). Pub. L. 109–59, §1119(a)(2), substituted “this title or chapter 53 of title 49” for “section 104”.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §1111(a)(1), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
@@ -146,11 +218,11 @@ Pub. L. 105–178, §1115(a), added subsec. (j) relating to use of Federal land 
 
 Pub. L. 105–178, §1111(c), added subsec. (j) relating to credit for non-Federal share.
 
-Subsec. (k). Pub. L. 105–178, §1115(f)(1), as added by Pub. L. 105–206, §9002(i), redesignated subsec. (j), relating to use of Federal land management agency funds, as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 105–178, §1115(f)(1), as added by Pub. L. 105–206, §9002(i), redesignated subsec. (j), relating to use of Federal land management agency funds, as (k). Former subsec. (k) redesignated (l).
 
 Pub. L. 105–178, §1115(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 105–178, §1115(f)(1), as added by Pub. L. 105–206, §9002(i), redesignated subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 105–178, §1115(f)(1), as added by Pub. L. 105–206, §9002(i), redesignated subsec. (k) as (l).
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–205 inserted “rail-highway crossing closure,” after “carpooling and vanpooling,”.
 
@@ -170,7 +242,7 @@ Subsecs. (f) to (h). Pub. L. 102–240, §1021(b)(2), redesignated subsecs. (g) 
 
 Subsec. (i). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i). Former subsec. (i) redesignated (h).
 
-Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (<i>l</i>) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements, and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
+Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (l) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements, and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
 
 Subsec. (n). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i).
 
@@ -180,9 +252,9 @@ Subsec. (f). Pub. L. 100–17, §117(c)(1), inserted heading and amended first s
 
 Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on account of any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted “(j)” for “(i)”, “and 155” for “, 148, and 155,” and “100–3” for “97–61”. Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted “(j)” for “(i)”, “and 155” for “, 148, and 155,” and “100–3” for “97–61”. Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 100–17, §117(b), redesignated former subsec. (k) as (<i>l</i>).
+Subsec. (l). Pub. L. 100–17, §117(b), redesignated former subsec. (k) as (l).
 
 Subsec. (m). Pub. L. 100–17, §117(d)(2), added subsec. (m).
 
@@ -232,9 +304,13 @@ Subsec. (f). Pub. L. 90–495, §27(b), authorized the Secretary to increase the
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–70, §21(e)(4), substituted “subsection (d) of this section” for “subsections (d) and (h) of this section”.
 
-Subsec. (f). Pub. L. 86–342 provided that the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservationroads may amount to 100 per centum of the cost thereof, whether or not such highways, roads or trails are on any Federal-aid highway system.
+Subsec. (f). Pub. L. 86–342 provided that the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservation roads may amount to 100 per centum of the cost thereof, whether or not such highways, roads or trails are on any Federal-aid highway system.
 
 Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to contributions by the Territory of Alaska and to the expenditure of Federal funds apportioned to the Territory of Alaska and funds contributed by the Territory.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -248,19 +324,19 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
-Section 1022(c) of Pub. L. 102–240 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 125 of this title\] shall only apply to natural disasters and catastrophic failures occurring after the date of the enactment of this Act \[Dec. 18, 1991\].”
+Pub. L. 102–240, title I, §1022(c), Dec. 18, 1991, 105 Stat. 1951, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 125 of this title\] shall only apply to natural disasters and catastrophic failures occurring after the date of the enactment of this Act \[Dec. 18, 1991\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 117(c)(2) of Pub. L. 100–17 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to all natural disasters and catastrophic failures which occur after the date of the enactment of this Act \[Apr. 2, 1987\].”
+Pub. L. 100–17, title I, §117(c)(2), Apr. 2, 1987, 101 Stat. 155, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to all natural disasters and catastrophic failures which occur after the date of the enactment of this Act \[Apr. 2, 1987\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 129(h) of Pub. L. 95–599 provided that: “The amendments made by subsections (a) through (g) of this section \[amending this section and sections 148, 155, 215, and 406 of this title\] shall take effect with respect to obligations incurred after the date of enactment of this section \[Nov. 6, 1978\].”
+Pub. L. 95–599, title I, §129(h), Nov. 6, 1978, 92 Stat. 2708, provided that: “The amendments made by subsections (a) through (g) of this section \[amending this section and sections 148, 155, 215, and 406 of this title\] shall take effect with respect to obligations incurred after the date of enactment of this section \[Nov. 6, 1978\].”
 
 #### Effective Date of 1970 Amendment
 
-Section 108(b) of Pub. L. 91–605, as amended by Pub. L. 93–87, title I, §153, Aug. 13, 1973, 87 Stat. 276, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect with respect to all obligations incurred after June 30, 1973.”
+Pub. L. 91–605, title I, §108(b), Dec. 31, 1970, 84 Stat. 1718, as amended by Pub. L. 93–87, title I, §153, Aug. 13, 1973, 87 Stat. 276, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect with respect to all obligations incurred after June 30, 1973.”
 
 #### Effective Date of 1968 Amendment
 
@@ -276,7 +352,7 @@ Amendment by section 21(e)(4) of Pub. L. 86–70 effective July 1, 1959, see sec
 
 #### Credit for Non-Federal Share
 
-Section 1044 of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1044, Dec. 18, 1991, 105 Stat. 1994, provided that:
 
 “(a)
 
@@ -292,7 +368,7 @@ Treatment.—Use of such credit for a non-Federal share shall not expose such ag
 
 #### Temporary Matching Fund Waiver
 
-Section 1054 of title I of Pub. L. 102–240 provided that:
+Pub. L. 102–240, title I, §1054, Dec. 18, 1991, 105 Stat. 2001, provided that:
 
 “(a)
 
@@ -312,19 +388,19 @@ Qualifying Project Defined.—For purposes of this section, the term ‘qualifyi
 
 #### Incentive Program for Use of Coal Ash
 
-Section 117(f) of Pub. L. 100–17 provided that: “Notwithstanding sections 119, 120, and 144 of title 23, United States Code, in each of fiscal years 1987, 1988, 1989, 1990, and 1991, the percentage specified in such sections as the Federal share of the cost payable on account of any highway or bridge construction project in which materials produced from coal ash are used in significant amounts shall be increased by adding 5 percent to such percentage; except that in no case shall the Federal share payable on account of any project exceed 95 percent of the cost of such project as a result of increasing such Federal share under this subsection.”
+Pub. L. 100–17, title I, §117(f), Apr. 2, 1987, 101 Stat. 156, provided that in fiscal years 1987 to 1991, the Federal share of the cost of highway or bridge construction projects using significant amounts of coal ash would be increased by 5 percent, but not to exceed 95 percent of the cost.
 
 #### Obligations for Projects Resulting From Natural Disasters or Catastrophic Failures; Emergency Relief; Federal Share
 
-Section 153(g) of Pub. L. 97–424 provided that: “All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal share required by subsection (f) of section 120 of title 23, United States Code, as amended by this section.”
+Pub. L. 97–424, title I, §153(g), Jan. 6, 1983, 96 Stat. 2133, provided that: “All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal share required by subsection (f) of section 120 of title 23, United States Code, as amended by this section.”
 
 #### Federal Share of Projects Approved During Period Beginning February 12, 1975, and Ending September 30, 1975
 
-Pub. L. 94–30, §§1, 2, June 4, 1975, 89 Stat. 171, as amended by Pub. L. 94–280, title I, §145, May 5, 1976, 90 Stat. 446, provided for Federal share of projects approved under section 106(a) of this title, and projects for which United States becomes obligated under section 117 of this title during the period beginning Feb. 12, 1975, and ending Sept. 30, 1975, and repayment schedule for States from Jan. 1, 1977, through Jan. 1, 1979.
+Pub. L. 94–30, §§1, 2, June 4, 1975, 89 Stat. 171, as amended by Pub. L. 94–280, title I, §145, May 5, 1976, 90 Stat. 446, provided for Federal share of projects approved under section 106(a) of this title, and projects for which United States becomes obligated under former section 117 of this title during the period beginning Feb. 12, 1975, and ending Sept. 30, 1975, and repayment schedule for States from Jan. 1, 1977, through Jan. 1, 1979.
 
 #### Review and Analysis of Excise Taxes Dedicated to Highway Trust Fund
 
-Section 507 of Pub. L. 95–599 provided that:
+Pub. L. 95–599, title V, §507, Nov. 6, 1978, 92 Stat. 2761, provided that:
 
 “(a)
 
@@ -346,7 +422,7 @@ Interim Reports.—The Secretary of the Treasury, in consultation with the Secre
 
 #### Highway Trust Fund
 
-Section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
+Act June 29, 1956, ch. 462, title II, §209, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II,§233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
 
 “(a) \[Repealed. Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191. Subsec. (a) provided for the creation of a Highway Trust Fund.\]
 
@@ -360,13 +436,13 @@ Declaration of Policy.—It is hereby declared to be the policy of the Congress 
 
 “(c) to (g) \[Repealed. Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191. Subsecs. (c) to (g) provided generally for the transfer of the equivalent of the receipts of certain taxes to the Fund, for additional appropriations to the Fund, for its management, methods and purposes of expenditures, and for adjustment of apportionments regarding the Fund.\]”
 
-Section 203(b) of Pub. L. 96–451 provided that: “The amendment made by subsection (a) \[amending former subsec. (f)(5) of section 209 of Act June 29, 1956\] shall apply to taxes received on or after October 1, 1980.”
+Pub. L. 96–451, title II, §203(b), Oct. 14, 1980, 94 Stat. 1988, provided that: “The amendment made by subsection (a) \[amending former subsec. (f)(5) of section 209 of Act June 29, 1956\] shall apply to taxes received on or after October 1, 1980.”
 
-Section 504(b) of Pub. L. 95–599 provided that: “The amendment made by subsection (a) \[amending former subsec. (g) of section 209 of Act June 29, 1956\] shall apply to fiscal years beginning after September 30, 1978.”
+Pub. L. 95–599, title V, §504(b), Nov. 6, 1978, 92 Stat. 2758, provided that: “The amendment made by subsection (a) \[amending former subsec. (g) of section 209 of Act June 29, 1956\] shall apply to fiscal years beginning after September 30, 1978.”
 
 Pub. L. 91–258, title II, §208(g), May 21, 1970, 84 Stat. 252, which added subsec. (c)(5) of section 209 of the Act of June 29, 1956, ch. 462, title II, 70 Stat. 397, was repealed by Pub. L. 97–248, title II, §281(b), Sept. 3, 1982, 96 Stat. 566.
 
 #### Percentage of Funds Contributed by Alaska
 
-Section 21(d)(4) of Pub. L. 86–70, which repealed subsec. (h) of this section, provided in part that the provisions of subsec. (h) relating to the percentage of funds to be contributed by Alaska shall continue to apply to funds apportioned to Alaska for fiscal year 1960 and prior fiscal years.
+Pub. L. 86–70, §21(d)(4), June 25, 1959, 73 Stat. 145, which repealed subsec. (h) of this section, provided in part that the provisions of subsec. (h) relating to the percentage of funds to be contributed by Alaska shall continue to apply to funds apportioned to Alaska for fiscal year 1960 and prior fiscal years.
 

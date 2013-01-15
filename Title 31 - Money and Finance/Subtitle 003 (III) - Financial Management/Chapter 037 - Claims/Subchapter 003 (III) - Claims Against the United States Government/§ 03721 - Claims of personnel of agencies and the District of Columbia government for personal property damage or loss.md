@@ -222,19 +222,19 @@ Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redes
 
 #### Effective Date of 1996 Amendment
 
-Section 1088(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims arising before, on, or after the date of the enactment of this Act \[Feb. 10, 1996\].”
+Pub. L. 104–106, div. A, title X, §1088(b), Feb. 10, 1996, 110 Stat. 459, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims arising before, on, or after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
-Section 172(b) of Pub. L. 103–236 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to claims arising on or after October 31, 1988.”
+Pub. L. 103–236, title I, §172(b), Apr. 30, 1994, 108 Stat. 412, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims arising on or after October 31, 1988.”
 
 #### Effective Date of 1988 Amendment
 
-Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act \[amending this section\] shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
+Pub. L. 100–565, §2, Oct. 31, 1988, 102 Stat. 2833, provided that: “The amendments made by this Act \[amending this section\] shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
 
 #### Effective Date of 1983 Amendment
 
-Section 2(g) of Pub. L. 97–452 provided that: “The amendment made by section 1(17) of this Act \[amending this section\] applies only to claims arising after July 27, 1982.”
+Pub. L. 97–452, §2(g), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendment made by section 1(17) of this Act \[amending this section\] applies only to claims arising after July 27, 1982.”
 
 #### Transfer of Functions
 
@@ -242,7 +242,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Representments of Previously Presented Claims
 
-Section 1088(c) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title X, §1088(c), Feb. 10, 1996, 110 Stat. 459, provided that:
 
 “(1) A claim under subsection (b) of section 3721 of title 31, United States Code, that was settled under such section before the date of the enactment of this Act \[Feb. 10, 1996\] may be represented under such section, as amended by subsection (a), to the head of the agency concerned to recover the amount equal to the difference between the actual amount of the damage or loss and the amount settled and paid under the authority of such section before the date of the enactment of this Act, except that—
 

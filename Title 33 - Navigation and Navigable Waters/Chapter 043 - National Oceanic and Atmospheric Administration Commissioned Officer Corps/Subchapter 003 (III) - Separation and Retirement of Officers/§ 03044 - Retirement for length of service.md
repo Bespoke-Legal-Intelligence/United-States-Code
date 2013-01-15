@@ -6,7 +6,7 @@ An officer who has completed 20 years of service, of which at least 10 years was
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 853<i>l</i> of this title prior to repeal by Pub. L. 107–372.
+Provisions similar to those in this section were contained in section 853l of this title prior to repeal by Pub. L. 107–372.
 
 #### Delegation of Functions
 

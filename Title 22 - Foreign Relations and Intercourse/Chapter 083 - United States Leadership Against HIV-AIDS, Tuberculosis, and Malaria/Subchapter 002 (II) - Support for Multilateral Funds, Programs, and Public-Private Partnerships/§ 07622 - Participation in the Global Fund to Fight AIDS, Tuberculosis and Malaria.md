@@ -106,7 +106,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(iv) The President may waive the application of clause (iii) if the President determines that extraordinary circumstances warrant such a waiver. No waiver under this clause may be for any period that exceeds 1 year.
 
-&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
+&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) forthat fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
 &emsp;(vi) For the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2009 through 2013 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
 
@@ -276,7 +276,7 @@ Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

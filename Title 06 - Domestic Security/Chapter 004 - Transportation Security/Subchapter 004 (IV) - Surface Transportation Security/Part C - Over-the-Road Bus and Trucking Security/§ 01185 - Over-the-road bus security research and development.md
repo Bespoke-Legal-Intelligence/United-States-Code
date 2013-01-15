@@ -56,7 +56,7 @@ The Secretary—
 
 #### (2) Privacy impact assessments
 
-&emsp;In accordance with sections 142 and 345 of this title, the Chief Privacy Officer shall conduct privacy impact assessments and the Officer for Civil Rights and Civil Liberties shall conduct reviews, as appropriate, for researchand development initiatives developed under this section that the Secretary determines could have an impact on privacy, civil rights, or civil liberties.
+&emsp;In accordance with sections 142 and 345 of this title, the Chief Privacy Officer shall conduct privacy impact assessments and the Officer for Civil Rights and Civil Liberties shall conduct reviews, as appropriate, for research and development initiatives developed under this section that the Secretary determines could have an impact on privacy, civil rights, or civil liberties.
 
 #### (e) Authorization of appropriations
 

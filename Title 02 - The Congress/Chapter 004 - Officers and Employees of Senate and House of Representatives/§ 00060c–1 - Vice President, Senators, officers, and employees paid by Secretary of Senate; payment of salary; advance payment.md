@@ -10,7 +10,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 > For purposes of title 26 and for accounting and reporting purposes, disbursements made in accordance with this section on the fifth day of a month, or on the next preceding workday if such fifth day falls on Saturday, Sunday, or a legal holiday, shall be considered to have been made on the last day of the preceding month.
 
-(Pub. L. 86–426, §1, Apr. 20, 1960, 74 Stat. 53; Pub. L. 92–136, §6, Oct. 11, 1971, 85 Stat. 378; Pub. L. 96–38, title I, §108(a), July 25, 1979, 93 Stat. 113; Pub. L. 97–51, §§111(a), 112(a), Oct. 1, 1981, 95 Stat. 962; Pub. L. 97–257, title I, §105(a), Sept. 10, 1982, 96 Stat. 849; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 86–426, §1, Apr. 20, 1960, 74 Stat. 53; Pub. L. 92–136, §6, Oct. 11, 1971, 85 Stat. 378; Pub. L. 96–38, title I, §108(a), July 25, 1979, 93 Stat. 113; Pub. L. 97–51, §§111(a), 112(a), Oct. 1, 1981, 95 Stat. 962; Pub. L. 97–257, title I, §105(a), Sept. 10, 1982,96 Stat. 849; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### Amendments
 
@@ -26,23 +26,23 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 #### Effective Date of 1982 Amendment
 
-Section 105(c) of Pub. L. 97–257 provided that: “Amendments and repeals made by the preceding provisions of this section \[amending this section and section 104 of Title 3, The President\] shall be effective in the case of compensation payable for months after December 1981.”
+Pub. L. 97–257, title I, §105(c), Sept. 10, 1982, 96 Stat. 849, provided that: “Amendments and repeals made by the preceding provisions of this section \[amending this section and section 104 of Title 3, The President\] shall be effective in the case of compensation payable for months after December 1981.”
 
 #### Effective Date of 1981 Amendment
 
-Section 111(b) of Pub. L. 97–51 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of compensation payable for months after December 1982.”
+Pub. L. 97–51, §111(b), Oct. 1, 1981, 95 Stat. 962, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective in the case of compensation payable for months after December 1982.”
 
 Amendment by section 112(a) of Pub. L. 97–51 effective in the case of compensation payable for months after December 1981, see section 112(e) of Pub. L. 97–51, set out as an Effective Date of 1981 Amendment note under section 33 of this title.
 
 #### Effective Date of 1979 Amendment
 
-Section 108(b) of Pub. L. 96–38 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 96–38, title I, §108(b), July 25, 1979, 93 Stat. 113, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1978.”
 
 #### Effective Date of 1971 Amendment
 
-Section 9(b) of Pub. L. 92–136 provided that: “Sections 4 and 6 of this Act \[enacting section 60c–2 of this title and amending this section\] shall become effective as of July 1, 1971.”
+Pub. L. 92–136, §9(b), Oct. 11, 1971, 85 Stat. 378, provided that: “Sections 4 and 6 of this Act \[enacting section 60c–2 of this title and amending this section\] shall become effective as of July 1, 1971.”
 
 #### Effective Date
 
-Section 3 of Pub. L. 86–426 provided that: “This joint resolution \[enacting this section and amending sections 60d to 60e–1 of this title\] shall be effective with respect to compensation accruing on or after the first day of the month following the month in which it is enacted \[Apr. 1, 1960\].”
+Pub. L. 86–426, §3, Apr. 20, 1960, 74 Stat. 54, provided that: “This joint resolution \[enacting this section and amending sections 60d to 60e–1 of this title\] shall be effective with respect to compensation accruing on or after the first day of the month following the month in which it is enacted \[Apr. 1, 1960\].”
 

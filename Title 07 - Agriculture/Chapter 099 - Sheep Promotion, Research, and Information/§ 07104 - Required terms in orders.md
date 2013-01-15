@@ -84,7 +84,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Louisiana
 
-1   
+1&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Maine
 
@@ -274,7 +274,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) In general
 
-&emsp;&emsp;The eligibility of any organization to represent producers, and to participate in themaking of nominations to represent producers under this section, shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this paragraph. An eligibility determination of the Secretary under this paragraph shall be final.
+&emsp;&emsp;The eligibility of any organization to represent producers, and to participate in the making of nominations to represent producers under this section, shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this paragraph. An eligibility determination of the Secretary under this paragraph shall be final.
 
 #### (B) Basis for certification
 
@@ -514,7 +514,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The rate of assessment under this subparagraph may be raised or lowered not more than 2/10 cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and the Secretary, except that the rate of assessment under this subparagraph shall not exceed 4 cents per pound of degreased wool or the equivalent of degreased wool.
+&emsp;&emsp;&emsp;The rate of assessment under this subparagraph may be raised or lowered not more than 2/10 cent per pound in any 1 year, as recommended by the Executive Committee and approved by the Board and theSecretary, except that the rate of assessment under this subparagraph shall not exceed 4 cents per pound of degreased wool or the equivalent of degreased wool.
 
 #### (6) Qualified State sheep boards
 
@@ -578,7 +578,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;Income from any investment under paragraph (1) may be used for any purpose for which the invested funds may be used.
 
-#### (<i>l</i>) Prohibition on use of funds
+#### (l) Prohibition on use of funds
 
 #### (1) In general
 

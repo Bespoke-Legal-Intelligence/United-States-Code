@@ -72,7 +72,7 @@
 
 #### (ii) Reduced data requirements
 
-&emsp;&emsp;&emsp;The simplified electronic version of the forms shall permit an applicant to submit, for financial assistance purposes, only thedata elements required to make a determination of whether the applicant meets the requirements under subsection (b) or (c) of section 1087ss of this title.
+&emsp;&emsp;&emsp;The simplified electronic version of the forms shall permit an applicant to submit, for financial assistance purposes, only the data elements required to make a determination of whether the applicant meets the requirements under subsection (b) or (c) of section 1087ss of this title.
 
 #### (iii) Use of forms
 
@@ -116,7 +116,7 @@
 
 #### (ii) Updating of data elements
 
-&emsp;&emsp;&emsp;The Secretary shall determine, in cooperation with States, institutions of higher education, agencies, and organizations involved in student financial assistance, the data elements that may be transferred from the previous academic year's application and those data elements that shall be updated.
+&emsp;&emsp;&emsp;The Secretary shall determine, in cooperation with States, institutions of higher education, agencies, and organizations involved in student financial assistance, the data elements that may be transferred from the previous academic year'sapplication and those data elements that shall be updated.
 
 #### (iii) Reduced data authorized
 
@@ -130,7 +130,7 @@
 
 #### (i) Reduction encouraged
 
-&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistanceand consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
+&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistance and consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
 
 #### (ii) Report
 
@@ -198,7 +198,7 @@
 
 &emsp;The Secretary shall continue to—
 
-&emsp;&emsp;(A) permit applicants to enter data in such forms as described in this subsection in the years prior to enrollment in order to obtain a non-binding estimate of the applicant'sfamily contribution (as defined in section 1087mm of this title);
+&emsp;&emsp;(A) permit applicants to enter data in such forms as described in this subsection in the years prior to enrollment in order to obtain a non-binding estimate of the applicant's family contribution (as defined in section 1087mm of this title);
 
 &emsp;&emsp;(B) permit applicants to update information submitted on forms described in this subsection, without needing to re-enter previously submitted information;
 
@@ -246,7 +246,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;A preparer that provides consultative or preparation services pursuant to this subsection shall—
 
-&emsp;&emsp;(A) clearly inform each individual upon initial contact, including contact through the Internet or by telephone, that the FAFSA and EZ FAFSA are free forms thatmay be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
+&emsp;&emsp;(A) clearly inform each individual upon initial contact, including contact through the Internet or by telephone, that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
 &emsp;&emsp;(B) include in any advertising clear and conspicuous information that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
@@ -362,7 +362,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;The Secretary shall conduct a rigorous evaluation of the demonstration program to measure the program's benefits and adverse effects, as the benefits and effects relate to the purpose and objectives of the program described in paragraph (1). In conducting the evaluation, the Secretary shall—
 
-&emsp;&emsp;(A) determine whether receiving financial aid estimates one year prior to the year in which the student plans to enroll in an institution of higher education, has a positive impact on the higher education aspirations and plans of such student;
+&emsp;&emsp;(A) determine whether receiving financial aid estimates one year prior to the year inwhich the student plans to enroll in an institution of higher education, has a positive impact on the higher education aspirations and plans of such student;
 
 &emsp;&emsp;(B) measure the extent to which using a student's income information from the year that is two years prior to the student's planned enrollment date had an impact on the ability of States and institutions of higher education to make financial aid awards and commitments;
 

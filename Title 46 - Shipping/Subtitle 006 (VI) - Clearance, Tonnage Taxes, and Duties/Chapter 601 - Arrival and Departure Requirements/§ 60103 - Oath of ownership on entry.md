@@ -18,7 +18,7 @@ Person To Make Statement.—The statement under subsection (a) shall be made by�
 
 (c)
 
-Consequence of Not Making Statement.—If the appropriate individual does not make thestatement required by this section, the vessel is not entitled to the privileges of a vessel of the United States.
+Consequence of Not Making Statement.—If the appropriate individual does not make the statement required by this section, the vessel is not entitled to the privileges of a vessel of the United States.
 
 (Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1674.)
 

@@ -24,7 +24,7 @@ Other district judges shall have precedence and preside according to the seniori
 
 (c) A judge whose commission extends over more than one district shall be junior to all district judges except in the district in which he resided at the time he entered upon the duties of his office.
 
-(d) If the chief judge desires to be relieved of his duties as chief judge while retaining his active status as district judge, he may so certify to the Chief Justice of the United States, and thereafter, the chief judge of the district shall be such other district judge who is qualified to serve or act as chief judge under subsection (a).
+(d) If the chief judge desires to be relieved of his duties as chief judge while retaining his active status as district judge, he may so certify to the Chief Justice of the United States, and thereafter, the chief judge of the district shallbe such other district judge who is qualified to serve or act as chief judge under subsection (a).
 
 (e) If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the district judge in active service, present in the district and able and qualified to act, who is next in precedence.
 

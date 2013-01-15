@@ -40,7 +40,7 @@ Rules and Regulations.—The regulations described in subsection (a)(2) of secti
 
 #### Reporting Requirements
 
-Pub. L. 99–87, §3, Aug. 9, 1985, 99 Stat. 291, as amended by Pub. L. 100–202, §101(m) (title VI, §627(b)), Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(1), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(1), Dec. 1, 1997, 111 Stat. 2542, required the Office of Juvenile Justice and Delinquency Prevention, the Senate Committee on Rules and Administration, and the House Commission on Congressional Mailing Standards each to submit a report no later than June 30, 2002, on the authority provided by this section.
+Pub. L. 99–87, §3, Aug. 9, 1985, 99 Stat. 291, as amended by Pub. L. 100–202, §101(m) (title VI, §627(b)), Dec. 22,1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(1), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(1), Dec. 1, 1997, 111 Stat. 2542, required the Office of Juvenile Justice and Delinquency Prevention, the Senate Committee on Rules and Administration, and the House Commission on Congressional Mailing Standards each to submit a report no later than June 30, 2002, on the authority provided by this section.
 
 #### Clarification Relating to Coordination of Government Programs
 

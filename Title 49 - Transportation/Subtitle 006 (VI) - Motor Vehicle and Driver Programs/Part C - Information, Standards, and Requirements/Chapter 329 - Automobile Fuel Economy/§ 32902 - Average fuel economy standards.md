@@ -38,7 +38,7 @@ Progress toward standard required.—In prescribing average fuel economy standar
 
 Authority of the secretary.—The Secretary shall—
 
-&emsp;&emsp;(A) prescribe by regulation separate average fuel economy standards for passenger and non-passenger automobiles based on 1 or more vehicle attributes related to fuel economy and express each standard in the form of a mathematical function; and
+&emsp;&emsp;(A) prescribe by regulation separate average fuel economy standards for passengerand non-passenger automobiles based on 1 or more vehicle attributes related to fuel economy and express each standard in the form of a mathematical function; and
 
 &emsp;&emsp;(B) issue regulations under this title prescribing average fuel economy standards for at least 1, but not more than 5, model years.
 
@@ -110,7 +110,7 @@ Consultation.—The Secretary of Transportation shall consult with the Secretary
 
 (j)
 
-Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe or amend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
+Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe oramend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
 
 (2) Before taking final action on a standard or an exemption from a standard under this section, the Secretary of Transportation shall notify the Secretary of Energy and provide the Secretary of Energy a reasonable time to comment.
 

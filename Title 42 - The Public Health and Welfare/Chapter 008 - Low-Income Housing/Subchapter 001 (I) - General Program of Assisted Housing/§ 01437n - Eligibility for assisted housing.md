@@ -10,7 +10,7 @@
 
 &emsp;(A) <sup>1</sup>
 
-Targeting.—Except as provided in paragraph (4), of the public housing dwellingunits of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
 
 #### (3) Prohibition of concentration of low-income families
 
@@ -22,7 +22,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency plan under section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
+&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency planunder section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
 
 #### (ii) Incentives
 
@@ -60,7 +60,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (D) Fungibility floor
 
-&emsp;&emsp;Notwithstanding any authority under subparagraph (A), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 30 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area medianincome, as determined by the Secretary with adjustments for smaller and larger families.
+&emsp;&emsp;Notwithstanding any authority under subparagraph (A), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 30 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
 
 #### (E) Qualified family
 
@@ -124,13 +124,13 @@ Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the 
 
 #### (f) Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises
 
-Notwithstanding any other provision of law, a public housing agency shall establish standardsfor occupancy in public housing dwelling units and assistance under section 1437f of this title that—
+Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title that—
 
 &emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L.104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 #### Codification
 

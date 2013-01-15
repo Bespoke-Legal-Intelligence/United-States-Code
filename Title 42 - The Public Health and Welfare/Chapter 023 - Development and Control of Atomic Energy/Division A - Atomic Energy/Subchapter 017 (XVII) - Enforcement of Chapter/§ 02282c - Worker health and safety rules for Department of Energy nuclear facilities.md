@@ -80,5 +80,5 @@ Effective date.—The regulations promulgated under paragraph (1) shall take eff
 
 #### Prohibition
 
-Pub. L. 107–314, div. C, title XXXI, §3173(c), Dec. 2, 2002, 116 Stat. 2745, provided that: “The Secretary ofEnergy shall not participate in or otherwise support any study or other project relating to a modification in the scope of the regulations enforceable by civil penalties under section 234A or 234C of the Atomic Energy Act of 1954 \[42 U.S.C. 2282a, 2282c\], or the responsibility of the Secretary to implement and enforce such regulations, until after the date on which the regulations for such purposes under such section 234C take effect in accordance with subsection (b) \[set out as a note above\].”
+Pub. L. 107–314, div. C, title XXXI, §3173(c), Dec. 2, 2002, 116 Stat. 2745, provided that: “The Secretary of Energy shall not participate in or otherwise support any study or other project relating to a modification in the scope of the regulations enforceable by civil penalties under section 234A or 234C of the Atomic Energy Act of 1954 \[42 U.S.C. 2282a, 2282c\], or the responsibility of the Secretary to implement and enforce such regulations, until after the date on which the regulations for such purposes under such section 234C take effect in accordance with subsection (b) \[set out as a note above\].”
 

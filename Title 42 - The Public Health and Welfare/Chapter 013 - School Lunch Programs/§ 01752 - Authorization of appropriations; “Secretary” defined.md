@@ -28,5 +28,5 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Appropriations as Functions of Health and Human Services
 
-Section 1 of Pub. L. 90–302, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided in part that: “Appropriations shall be considered Health and Human Services functions for budget purposes rather than functions of Agriculture.”
+Pub. L. 90–302, §1, May 8, 1968, 82 Stat. 117, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided in part that: “Appropriations shall be considered Health and Human Services functions for budget purposes rather than functions of Agriculture.”
 

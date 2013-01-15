@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) two or more health care practitioners practice their professions at a common physical location;
 
-&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatment rooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
+&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatmentrooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
 
 &emsp;&emsp;(C) such practitioners have a person (who may himself be a practitioner)—
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(D) at least one of such practitioners received payments on a fee-for-service basis under subchapters XVIII and XIX of this chapter in an amount exceeding $5,000 for any one month during the preceding 12 months or in an aggregate amount exceeding $40,000 during the preceding 12 months;
 
-> &emsp;except that such term does not include a provider of services (as defined in section 1395x(u) of this title), a health maintenance organization (as defined in section 300e(a) of this title), a hospital cooperative shared services organization meeting the requirements of section501(e) of the Internal Revenue Code of 1986, or any public entity.
+> &emsp;except that such term does not include a provider of services (as defined in section 1395x(u) of this title), a health maintenance organization (as defined in section 300e(a) of this title), a hospital cooperative shared services organization meeting the requirements of section 501(e) of the Internal Revenue Code of 1986, or any public entity.
 
 &emsp;(10) The term “Administration” means the Social Security Administration, except where the context requires otherwise.
 
@@ -50,7 +50,7 @@
 
 (d) Nothing in this chapter shall be construed as authorizing any Federal official, agent, or representative, in carrying out any of the provisions of this chapter, to take charge of any child over the objection of either of the parents of such child, or of the person standing in loco parentis to such child.
 
-(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 16, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (<i>l</i>)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 1, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (l)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
 
 #### References in Text
 
@@ -84,13 +84,13 @@ Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. 
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §136(a), inserted “and American Samoa” after “includes the Northern Mariana Islands”.
 
-Pub. L. 97–248, §160(c), substituted “Guam, and the Northern Mariana Islands” for “American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+Pub. L. 97–248, §160(c), substituted “Guam, and the Northern Mariana Islands” for “American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted “American Samoa, the Northern Mariana Islands, and” for “American Samoa and” and inserted provisions that “State” when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(9)(D). Pub. L. 97–35, §2193(c)(2), substituted “subchapters XVIII, and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–142, §5(<i>l</i>)(2), which directed that second sentence of par. (1) be amended by inserting provision that “State” when used in part B of this subchapter also includes American Samoa and the Trust Territory of the Pacific Islands, was executed by inserting that provision to third sentence.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–142, §5(l)(2), which directed that second sentence of par. (1) be amended by inserting provision that “State” when used in part B of this subchapter also includes American Samoa and the Trust Territory of the Pacific Islands, was executed by inserting that provision to third sentence.
 
 Subsec. (a)(9). Pub. L. 95–142, §5(c)(2), added par. (9).
 
@@ -152,19 +152,19 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Section 601(d) of Pub. L. 100–485 provided that: “The amendments made by this section \[amending this section and sections 603, 1308, and 1318 of this title\] shall become effective on October 1, 1988.”
+Pub. L. 100–485, title VI, §601(d), Oct. 13, 1988, 102 Stat. 2408, provided that: “The amendments made by this section \[amending this section and sections 603, 1308, and 1318 of this title\] shall become effective on October 1, 1988.”
 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 applicable with respect to fiscal years beginning on or after Oct. 1, 1988, see section 9135(c) of Pub. L. 100–203, set out as a note under section 623 of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 1883(c)(1) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1883(f) of Pub. L. 99–514, set out as a note under section 402 of this title.
 
 Amendment by section 1895(c)(6) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
-Section 9528(b), (c) of Pub. L. 99–272, as amended by Pub. L. 99–509, title IX, §§9102, 9421(a), Oct. 21, 1986, 100 Stat. 1972, 2065, provided that:
+Pub. L. 99–272, title IX, §9528(b), (c), Apr. 7, 1986, 100 Stat. 219, as amended by Pub. L. 99–509, title IX, §§9102, 9421(a), Oct. 21, 1986, 100 Stat. 1972, 2065, provided that:
 
 “(b)
 
@@ -174,9 +174,9 @@ Effective Date.—The amendments made by this section \[amending this section\] 
 
 Hold Harmless Provision.—Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[sections 603 and 1396b of this title\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
 
-\[Section 9102 of Pub. L. 99–509 provided that the amendment made by that section \[amending section 9528(c) of Pub. L. 99–272, set out above\] is effective as provided in section 9421(b) of Pub. L. 99–509. See below.\]
+\[Pub. L. 99–509, title IX, §9102, Oct. 21, 1986, 100 Stat. 1972, provided that the amendment made by that section \[amending section 9528(c) of Pub. L. 99–272, set out above\] is effective as provided in section 9421(b) of Pub. L. 99–509. See below.\]
 
-\[Section 9421(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L. 99–272, set out above\] shall be effective as though it had been included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment.”\]
+\[Pub. L. 99–509, title IX, §9421(b), Oct. 21, 1986, 100 Stat. 2065, provided that: “The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L.99–272, set out above\] shall be effective as though it had been included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment.”\]
 
 #### Effective Date of 1984 Amendment
 
@@ -184,9 +184,9 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1982 Amendment
 
-Section 136(e) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 1308, 1396a, and 1396d of this title\] shall become effective on October 1, 1982.”
+Pub. L. 97–248, title I, §136(e), Sept. 3, 1982, 96 Stat. 376, provided that: “The amendments made by this section \[amending this section and sections 1308, 1396a, and 1396d of this title\] shall become effective on October 1, 1982.”
 
-Section 160(e) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 671, 1308, and 1397b of this title\] shall be effective as of October 1, 1981.”
+Pub. L. 97–248, title I, §160(e), Sept. 3, 1982, 96 Stat. 400, provided that: “The amendments made by this section \[amending this section and sections 671, 1308, and 1397b of this title\] shall be effective as of October 1, 1981.”
 
 #### Effective Date of 1981 Amendment
 
@@ -200,29 +200,29 @@ Amendment by Pub. L. 94–566 effective on the later of Oct. 1, 1976, or the day
 
 #### Effective Date of 1973 Amendment
 
-Section 18(z–2)(2) of Pub. L. 93–233 provided that: “The amendments made by this subsection \[amendingthis section and sections 1315 and 1316 of this title\] shall be effective on and after January 1, 1974.”
+Pub. L. 93–233, §18(z–2)(2), Dec. 31, 1973, 87 Stat. 974, provided that: “The amendments made by this subsection \[amending this section and sections 1315 and 1316 of this title\] shall be effective on and after January 1, 1974.”
 
 #### Effective Date of 1972 Amendment
 
-Section 272(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1308 of this title\] shall apply with respect to fiscal years beginning after June 30, 1971.”
+Pub. L. 92–603, title II, §272(c), Oct. 30, 1972, 86 Stat. 1451, provided that: “The amendments made by this section \[amending this section and section 1308 of this title\] shall apply with respect to fiscal years beginning after June 30, 1971.”
 
 #### Effective Date of 1965 Amendment
 
-Section 121(c)(1) of Pub. L. 89–97 provided that the amendment made by that section is effective Jan. 1, 1966.
+Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352, provided that the amendment made by that section is effective Jan. 1, 1966.
 
-#### Effective Date of 1960 Amendments
+#### Effective Date of 1960 Amendment
 
-Section 541 of Pub. L. 86–778 provided that the amendment made by that section is effective on and after Jan. 1, 1961.
+Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985, provided that the amendment made by that section is effective on and after Jan. 1, 1961.
 
 Amendment by section 30(d) of Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub. L. 86–624, set out as a note under section 201 of this title.
 
-Amendment by section 30(a)(1) of Pub. L. 86–624 applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after Aug. 21, 1959, see section 47(a) of Pub. L. 86–624.
+Amendment by section 30(a)(1) of Pub. L. 86–624 applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after Aug. 21, 1959, see Pub. L. 86–624, §47(a), July 12, 1960, 74 Stat. 423.
 
-Section 47(b) of Pub. L. 86–624 provided that: “The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[subsec. (a)(8)(B) of this section\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.”
+Pub. L. 86–624, §47(b), July 12, 1960, 74 Stat. 423, provided that: “The amendments made by paragraph (2) of section 30(a) \[amending this section\] shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act \[July 12, 1960\], promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act \[subsec. (a)(8)(B) of this section\], such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.”
 
 #### Effective Date of 1959 Amendment
 
-Amendment by section 32(a) of Pub. L. 86–70 applicable in the case of promulgations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, and amendment by section 32(d) of Pub. L. 86–70 effective Jan. 3, 1959, see section 47(a), (d) of Pub. L. 86–70.
+Amendment by section 32(a) of Pub. L. 86–70 applicable in the case of promulgations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, and amendment by section 32(d) of Pub. L. 86–70 effective Jan. 3, 1959, see Pub. L. 86–70, §47(a), (d), June 25, 1959, 73 Stat. 153.
 
 #### Effective Date of 1958 Amendment
 
@@ -230,25 +230,25 @@ For effective date of amendments by Pub. L. 85–840, see section 512 of Pub. L.
 
 #### Effective Date of 1950 Amendment
 
-Section 403(a)(3) of act Aug. 28, 1950, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect October 1, 1950, and the amendment made by paragraph (2) of this subsection \[amending this section\], insofar as it repeals the definition of ‘employee’, shall be effective only with respect to services performed after 1950.”
+Act Aug. 28, 1950, ch. 809, title IV, §403(a)(3), 64 Stat. 559, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect October 1, 1950, and the amendment made by paragraph (2) of this subsection \[amending this section\], insofar as it repeals the definition of ‘employee’, shall be effective only with respect to services performed after 1950.”
 
-Section 403(b) of act Aug. 28, 1950, provided that the amendment made by that section is effective Oct. 1, 1950.
+Act Aug. 28, 1950, ch. 809, title IV, §403(b), 64 Stat. 559, provided that the amendment made by that section is effective Oct. 1, 1950.
 
 #### Effective Date of 1948 Amendment
 
-Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
+Act June 14, 1948, ch. 468, §2(b), 62 Stat. 438, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
 #### Effective Date of 1946 Amendment
 
-Section 401(a) of act Aug. 10, 1946, provided that the amendment made by that section is effective Jan. 1, 1947.
+Act Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986, provided that the amendment made by that section is effective Jan. 1, 1947.
 
 #### Effective Date of 1939 Amendment
 
-Section 801 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Repeals
 
-The provisions of subsecs. (a)(1), (3), (6), (c) of this section were incorporated into sections 1426(d) to (f), 1427, 1607(i) to (k), and 1608 of former Title 26, Internal Revenue Code of 1939, by act Feb. 10, 1939, ch. 2, 53 Stat. 1. Section 4 of the act of Feb. 10, 1939, provided that all laws and parts of laws codified into the Internal Revenue Code of 1939, to the extent that they related exclusively to internal revenue, were repealed. See enacting sections preceding section 1 of former Title 26.
+The provisions of subsecs. (a)(1), (3), (6), (c) of this section were incorporated into sections 1426(d) to (f), 1427, 1607(i) to (k), and 1608 of former Title 26, Internal Revenue Code of 1939, by act Feb. 10, 1939, ch. 2, 53 Stat. 1. Section 4 of the act of Feb. 10, 1939, provided that alllaws and parts of laws codified into the Internal Revenue Code of 1939, to the extent that they related exclusively to internal revenue, were repealed. See enacting sections preceding section 1 of former Title 26.
 
 Provisions of the Internal Revenue Code of 1939 were generally repealed by section 7851 of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). See, also, section 7807 of said Title 26, I.R.C. 1954, respecting rules in effect upon enactment of I.R.C. 1954. The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. Said repealed sections are covered by sections 3121, 3123, 3306, 3307, 7701 of Title 26.
 
@@ -262,11 +262,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Provisions Relating to Federal Security Administrator
 
-Section 2663(<i>l</i>) of Pub. L. 98–369 provided that: “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[subchapter II, IV, VII, or XI of this chapter\] (other than section 1101(a)(6) of such Act \[subsec. (a)(6) of this section\]) is amended—
+Pub. L. 98–369, div. B, title VI, §2663(l), July 18, 1984, 98 Stat. 1171, provided that: “Any reference to the Federal Security Administrator which may remain in the provisions of title II, IV, VII, or XI of the Social Security Act \[subchapter II, IV, VII, or XI of this chapter\] (other than section 1101(a)(6) of such Act \[subsec. (a)(6) of this section\]) is amended—
 
 &emsp;“(1) by substituting ‘Secretary’ or ‘Secretary's’ for the term ‘Administrator’ or ‘Administrator's’, where the reference is to that term alone;
 
-&emsp;“(2) by substituting ‘Secretary of Health, Education, and Welfare’ for the term ‘Federal Security Administrator’, where the reference is to that term, if the provision containing such reference is amended by paragraph (2) or (3) of subsection (j) \[Pub. L. 98–369, §2663(j)(2), (3), see Tables for classification\] (in which case the amendment of such provision under this paragraph shall be deemed to have taken effectimmediately prior to the amendment of such provision under such paragraph (2) or (3)); and
+&emsp;“(2) by substituting ‘Secretary of Health, Education, and Welfare’ for the term ‘Federal Security Administrator’, where the reference is to that term, if the provision containing such reference is amended by paragraph (2) or (3) of subsection (j) \[Pub. L. 98–369, §2663(j)(2), (3), see Tables for classification\] (in which case the amendment of such provision under this paragraph shall be deemed to have taken effect immediately prior to the amendment of such provision under such paragraph (2) or (3)); and
 
 &emsp;“(3) by substituting ‘Secretary of Health and Human Services’ for the term ‘Federal Security Administrator’ in any other case where the reference is to that term;
 
@@ -288,19 +288,19 @@ Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Se
 
 Pub. L. 90–248, title IV, §404, Jan. 2, 1968, 81 Stat. 933, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by this Act \[see Short Title of 1968 Amendment note set out under section 1305 of this title\] (unless the context otherwise requires), the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-Section 110 of Pub. L. 89–97, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act, and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1965 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Pub. L. 89–97, title I, §110, July 30, 1965, 79 Stat. 340, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act, and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1965 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 6 of Pub. L. 88–156, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments to the Social Security Act made by this Act \[see Short Title of 1963 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+Pub. L. 88–156, §6, Oct. 24, 1963, 77 Stat. 276, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments to the Social Security Act made by this Act \[see Short Title of 1963 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-Section 201 of Pub. L. 87–543, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1962 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Pub. L. 87–543, title II, §201, July 25, 1962, 76 Stat. 208, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1962 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 304 of title III of Pub. L. 87–64, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this title and title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Pub. L. 87–64, title III, §304, June 30, 1961, 75 Stat. 143, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this title and title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 709 of Pub. L. 86–778, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Pub. L. 86–778, title VII, §709, Sept. 13, 1960, 74 Stat. 997, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 702 of Pub. L. 85–840, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this Act \[see Short Title of 1958 Amendment note set out under section 1305 of this title\], the term “Secretary”, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Pub. L. 85–840, title VII, §702, Aug. 28, 1958, 72 Stat. 1056, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this Act \[see Short Title of 1958 Amendment note set out under section 1305 of this title\], the term “Secretary”, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 119 of act Aug. 1, 1956, ch. 836, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act set forth in this Act \[see Short Title of 1956 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+Act Aug. 1, 1956, ch. 836, title I, §119, 70 Stat. 836, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in this Act and in the provisions of the Social Security Act set forth in this Act \[see Short Title of 1956 Amendment note set out under section 1305 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-Section 114 of title I of act Sept. 1, 1954, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this title \[sections 402, 403, 415, and 421 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
+Act Sept. 1, 1954, ch. 1206, title I, §114, 68 Stat. 1087, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this title \[sections 402, 403, 415, and 421 of this title\], the term ‘Secretary’ means the Secretary of Health and Human Services.”
 

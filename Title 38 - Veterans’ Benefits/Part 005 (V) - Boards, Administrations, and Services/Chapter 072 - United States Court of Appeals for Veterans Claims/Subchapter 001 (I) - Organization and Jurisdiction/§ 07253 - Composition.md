@@ -20,7 +20,7 @@ Chief Judge.—(1) The chief judge of the Court is the head of the Court. The ch
 
 &emsp;(B) have not previously served as chief judge.
 
-(2) In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.
+(2) In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has notserved previously as chief judge shall act as the chief judge.
 
 (3) Except as provided in paragraph (4), a judge of the Court shall serve as the chief judge under paragraph (1) for a term of five years or until the judge becomes age 70, whichever occurs first. If no other judge is eligible under paragraph (1) to serve as chief judge upon the expiration of that term, that judge shall continue to serve as chief judge until another judge becomes eligible under that paragraph to serve as chief judge.
 
@@ -42,7 +42,7 @@ Salary.—Each judge of the Court shall receive a salary at the same rate as is 
 
 (f)
 
-Removal.—(1) A judge of the Court may be removed from office by the President on grounds of misconduct, neglect of duty, or engaging in the practice of law. A judge of the Court may not be removed from office by the President on any other ground.
+Removal.—(1) A judge of the Court may be removed from office by the President on grounds of misconduct, neglect of duty, engaging in the practice of law, or violating section 7255(c) of this title. A judge of the Court may not be removed from office by the President on any other ground.
 
 (2) Before a judge may be removed from office under this subsection, the judge shall be provided with a full specification of the reasons for the removal and an opportunity to be heard.
 
@@ -80,9 +80,11 @@ Additional Temporary Expansion of Court.—(1) Subject to paragraph (2), effecti
 
 (2) Effective as of January 1, 2013, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, §503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, §601, Oct. 10, 2008, 122 Stat. 4176.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, §503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, §601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, §302(b), Jan. 10, 2013, 126 Stat. 2425.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1). Pub. L. 112–260, which directed substitution of “engaging in the practice of law, or violating section 7255(c) of this title” for “or engaging in the practice of law” in section 7253(f)(1), without specifying the Code title to be amended, was executed to subsec. (f)(1) of this section, to reflect the probable intent of Congress.
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–389 added subsec. (i).
 
@@ -127,6 +129,12 @@ Pub. L. 105–368, §501, inserted at end “A judge who is nominated by the Pre
 Subsec. (g). Pub. L. 102–82 added subsec. (g).
 
 <b>1989</b>—Subsec. (f)(1). Pub. L. 101–94 inserted “or” before “engaging” and substituted “law” for “law, or physical or mental disability which, in the opinion of the President, prevents the proper execution of the judge's duties”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–260 effective on the date that is 180 days after Jan. 10, 2013, see section 302(c)(1) of Pub. L. 112–260, set out as an Effective Date of 2013 Amendment note under section 7255 of this title.
+
+Pub. L. 112–260, title III, §302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to judges confirmed on or after January 1, 2012.”
 
 #### Effective Date of 1999 Amendment
 

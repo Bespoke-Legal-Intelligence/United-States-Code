@@ -42,7 +42,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Notification of Failure To Collect, Account for, and Pay Over Taxes
 
-Section 4 of Pub. L. 85–321, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notification may be made under section 7512(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act)—
+Pub. L. 85–321, §4, Feb. 11, 1958, 72 Stat. 6, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notification may be made under section 7512(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act)—
 
 &emsp;“(1) in the case of taxes imposed by subtitle C of such Code, only with respect to pay periods beginning after the date of the enactment of this Act \[Feb. 11, 1958\]; and
 

@@ -12,7 +12,7 @@
 
 (2)(A) The amount payable to any provider of services under this part for services furnished an individual shall be further reduced by a deduction equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during each calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence.
 
-(B) The deductible under subparagraph (A) for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under section 1395<i>l</i>(b) of this title to blood or blood cells furnished the individual in the year.
+(B) The deductible under subparagraph (A) for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under section 1395l(b) of this title to blood or blood cells furnished the individual in the year.
 
 (3) The amount payable for post-hospital extended care services furnished an individual during any spell of illness shall be reduced by a coinsurance amount equal to one-eighth of the inpatient hospital deductible for each day (before the 101st day) on which he is furnished such services after such services have been furnished to him for 20 days during such spell.
 
@@ -28,7 +28,7 @@
 
 #### (b) Inpatient hospital deductible; application
 
-(1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductible for any succeeding year shall be an amount equal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
+(1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductiblefor any succeeding year shall be an amount equal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
 
 (2) The Secretary shall promulgate the inpatient hospital deductible and all coinsurance amounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
 
@@ -82,7 +82,7 @@ Subsec. (b)(1), (2). Pub. L. 90–248, §129(c)(4)(A), (B), struck out diagnosti
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) ofPub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -92,13 +92,13 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by section 102 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Section 411(b)(1)(H)(iii) of Pub. L. 100–360 provided that: “The amendment made by clause (ii) \[amending Pub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
+Pub. L. 100–360, title IV, §411(b)(1)(H)(iii), July 1, 1988, 102 Stat. 769, provided that: “The amendment made by clause (ii) \[amending Pub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 9301(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished on or after January 1, 1987, and to the monthly premium (under part A of title XVIII of the Social Security Act \[this part\]) for months beginning with January 1987.”
+Pub. L. 99–509, title IX, §9301(b), Oct. 21, 1986, 100 Stat. 1982, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished on or after January 1, 1987, and to the monthly premium (under part A of title XVIII of the Social Security Act \[this part\]) for months beginning with January 1987.”
 
-Section 9125(b) of Pub. L. 99–272 provided that: “The amendment made by this section \[amending this section\] shall apply to calendar years after 1985.”
+Pub. L. 99–272, title IX, §9125(b), Apr. 7, 1986, 100 Stat. 168, provided that: “The amendment made by this section \[amending this section\] shall apply to calendar years after 1985.”
 
 #### Effective Date of 1982 Amendment
 
@@ -106,21 +106,21 @@ Amendment by Pub. L. 97–248 applicable to hospice care provided on or after No
 
 #### Effective Date of 1981 Amendment
 
-Section 2131(b) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[amending this section\] is effective for inpatient hospital services or post-hospital extended care services furnished on or after January 1, 1982.”
+Pub. L. 97–35, title XXI, §2131(b), Aug. 13, 1981, 95 Stat. 797, provided that: “The amendment made by subsection (a) \[amending this section\] is effective for inpatient hospital services or post-hospital extended care services furnished on or after January 1, 1982.”
 
-Section 2132(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished in calendar years beginning with calendar year 1982.”
+Pub. L. 97–35, title XXI, §2132(b), Aug. 13, 1981, 95 Stat. 797, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to inpatient hospital services and post-hospital extended care services furnished in calendar years beginning with calendar year 1982.”
 
 #### Effective Date of 1968 Amendment
 
 Amendment by section 129(c)(3), (4) of Pub. L. 90–248 applicable with respect to services furnished after Mar. 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
-Section 135(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395cc of this title\] shall apply with respect to payment for blood (or packed red blood cells) furnished an individual after December 31, 1967.”
+Pub. L. 90–248, title I, §135(d), Jan. 2, 1968, 81 Stat. 853, provided that: “The amendments made by this section \[amending this section and sections 1395l and 1395cc of this title\] shall apply with respect to payment for blood (or packed red blood cells) furnished an individual after December 31, 1967.”
 
 Amendment by section 137(b) of Pub. L. 90–248 applicable with respect to services furnished after Dec. 31, 1967, see section 137(c) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
 #### Repeal of 1988 Expansion of Medicare Part A Benefits
 
-Section 101(a)–(b)(2) of Pub. L. 101–234, as amended by Pub. L. 101–508, title IV, §4008(m)(1), Nov. 5, 1990, 104 Stat. 1388–53, provided that:
+Pub. L. 101–234, title I, §101(a)–(b)(2), Dec. 13, 1989, 103 Stat. 1979, as amended by Pub. L. 101–508, title IV, §4008(m)(1), Nov. 5, 1990, 104 Stat. 1388–53, provided that:
 
 “(a)
 
@@ -160,13 +160,13 @@ Inpatient hospital services and post-hospital extended care services.—In apply
 
 Hospice care.—The restoration of section 1812(a)(4) of the Social Security Act \[section 1395d(a)(4) of this title\], effected by subsection (a)(1), shall not apply to hospice care provided during the subsequent period (described in such section as in effect on December 31, 1989) with respect to which an election has been made before January 1, 1990.”
 
-\[Section 4008(m)(1) of Pub. L. 101–508 provided that amendment by that section to section 101(b)(1)(B) of Pub. L. 101–234, set out above, is effective as if included in enactment of Medicare Catastrophic Coverage Repeal Act of 1989, Pub. L. 101–234.\]
+\[Pub. L. 101–508, title IV, §4008(m)(1), Nov. 5, 1990, 104 Stat. 1388–53, provided that amendment by that section to section 101(b)(1)(B) of Pub. L. 101–234, set out above, is effective as if included in enactment of Medicare Catastrophic Coverage Repeal Act of 1989, Pub. L. 101–234.\]
 
 #### Hold Harmless Provisions; Application of Subsection (a)(1) and (2)
 
-Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §608(d)(3)(B), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–234, title I, §101(b)(3), Dec. 13, 1989, 103 Stat. 1980, provided that: “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[section 1395x(a) of this title\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
+Pub. L. 100–360, title I, §104(b), July 1, 1988, 102 Stat. 688, as amended by Pub. L. 100–485, title VI,§608(d)(3)(B), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–234, title I, §101(b)(3), Dec. 13, 1989, 103 Stat. 1980, provided that: “In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act \[section 1395x(a) of this title\], as in effect on December 31, 1988) began before January 1, 1989, and had not yet ended as of such date—
 
-&emsp;“(1)(A) section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] (as amended by this subtitle \[subtitleA (§§101–104) of title I of Pub. L. 100–360\]) shall not apply to services furnished during that spell of illness during 1989, and
+&emsp;“(1)(A) section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] (as amended by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360\]) shall not apply to services furnished during that spell of illness during 1989, and
 
 &emsp;“(B) if that individual begins a period of hospitalization (as defined in such section) during 1989 after the end of that spell of illness, the first period of hospitalization during 1989 that begins after that spell of illness shall be considered to be (for purposes of such section) the first period of hospitalization that begins during that year; and
 
@@ -174,5 +174,5 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 #### Promulgation of New Deductible
 
-Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
+Pub. L. 99–509, title IX, §9301(c), Oct. 21, 1986, 100 Stat. 1982, directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
 

@@ -26,11 +26,11 @@ The words “District of Columbia government” are added because of section 47�
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–92 temporarily amended section by inserting “All officers and employees of the United States Government or the District of Columbia government shall be deemed to be performing services relating to emergencies involving the safety of human life or the protection of property.” after first sentence and by striking out at end “As used in this section, the term ‘emergencies involving the safety of human life or the protection of property’ does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property”. See Effective and Termination Dates of 1996 Amendment note below.
+<b>1996</b>—Pub. L. 104–92 temporarily amended section by inserting “All officers and employees of the United States Government or the District of Columbia government shall be deemed to be performing services relating to emergencies involving the safety of human life or the protection of property.” after first sentence and by striking out at end “As used in this section, theterm ‘emergencies involving the safety of human life or the protection of property’ does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property”. See Effective and Termination Dates of 1996 Amendment note below.
 
 <b>1990</b>—Pub. L. 101–508 inserted at end “As used in this section, the term ‘emergencies involving the safety of human life or the protection of property’ does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.”
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Section 310(a) of Pub. L. 104–92 provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
+Pub. L. 104–92, title III, §310(a), Jan. 6, 1996, 110 Stat. 20, provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
 

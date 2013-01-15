@@ -22,9 +22,9 @@ The Federal Council on the Arts and Humanities (hereinafter in this chapter refe
 
 #### Effective Date
 
-Section 9 of Pub. L. 94–158 provided that: “This Act \[see Short Title note below\] shall become effective 30 days after the date of the enactment of this Act \[Dec. 20, 1975\].”
+Pub. L. 94–158, §9, Dec. 20, 1975, 89 Stat. 846, provided that: “This Act \[see Short Title note below\] shall become effective 30 days after the date of the enactment of this Act \[Dec. 20, 1975\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 94–158 provided that: “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Arts and Artifacts Indemnity Act’.”
+Pub. L. 94–158, §1, Dec. 20, 1975, 89 Stat. 844, provided that: “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Arts and Artifacts Indemnity Act’.”
 

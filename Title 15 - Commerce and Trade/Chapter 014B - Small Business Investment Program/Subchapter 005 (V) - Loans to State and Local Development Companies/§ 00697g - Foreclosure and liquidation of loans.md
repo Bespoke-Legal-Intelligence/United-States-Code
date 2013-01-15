@@ -2,7 +2,7 @@
 
 #### (a) Delegation of authority
 
-In accordance with this section, the Administration shall delegate to any qualified State orlocal development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
+In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
 
 #### (b) Eligibility for delegation
 
@@ -72,7 +72,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (iii) Routine actions
 
-&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidationplan without obtaining additional approval from the Administration.
+&emsp;&emsp;&emsp;In carrying out functions described in paragraph (1)(A), a qualified State or local development company may undertake routine actions not addressed in a liquidation plan without obtaining additional approval from the Administration.
 
 #### (B) Purchase of indebtedness
 
@@ -112,7 +112,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) consider an offer made by an obligor to compromise the debt for less than the full amount owing; and
 
-&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable, if the company secures the written approval of the Administration.
+&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable,if the company secures the written approval of the Administration.
 
 #### (E) Contents of notice of no decision
 

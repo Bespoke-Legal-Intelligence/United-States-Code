@@ -16,7 +16,7 @@ Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 122
 
 WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing and related facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
 
-WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of thistitle\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
+WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
 
 WHEREAS discriminatory policies and practices based upon race, color, creed, or national origin now operate to deny many Americans the benefits of housing financed through Federal assistance and as a consequence prevent such assistance from providing them with an alternative to substandard, unsafe, unsanitary, and overcrowded housing; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; appointment; Chairman
 
-The Occupational Safety and Health Review Commission is hereby established. The Commission shall be composed of three members who shall be appointed by the President, by and withthe advice and consent of the Senate, from among persons who by reason of training, education, or experience are qualified to carry out the functions of the Commission under this chapter. The President shall designate one of the members of the Commission to serve as Chairman.
+The Occupational Safety and Health Review Commission is hereby established. The Commission shall be composed of three members who shall be appointed by the President, by and with the advice and consent of the Senate, from among persons who by reason of training, education, or experience are qualified to carry out the functions of the Commission under this chapter. The President shall designate one of the members of the Commission to serve as Chairman.
 
 #### (b) Terms of office; removal by President
 
@@ -24,7 +24,7 @@ For the purpose of carrying out its functions under this chapter, two members of
 
 #### (g) Hearings and records open to public; promulgation of rules; applicability of Federal Rules of Civil Procedure
 
-Every official act of the Commission shall be entered of record, and its hearings and records shall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
+Every official act of the Commission shall be entered of record, and its hearings and recordsshall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
 
 #### (h) Depositions and production of documentary evidence; fees
 
@@ -58,7 +58,7 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 #### Amendments
 
-<b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted “administrative law judge” and “administrative lawjudges” for “hearing examiner” and “hearing examiners”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (e), (j), (k). Pub. L. 95–251 substituted “administrative law judge” and “administrative law judges” for “hearing examiner” and “hearing examiners”, respectively, wherever appearing.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

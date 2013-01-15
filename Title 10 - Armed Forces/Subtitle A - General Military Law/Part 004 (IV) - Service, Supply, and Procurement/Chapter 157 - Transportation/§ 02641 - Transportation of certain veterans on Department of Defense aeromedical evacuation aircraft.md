@@ -38,7 +38,7 @@ Subsec. (d)(2). Pub. L. 103–337, §652(b)(2)(C), inserted “(or for the remai
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
+Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator ofVeterans’ Affairs” in introductory provisions and in par. (1).
 
 Subsec. (b)(1). Pub. L. 101–189, §1621(a)(8), substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
 
@@ -48,5 +48,5 @@ Subsec. (d)(2). Pub. L. 101–189, §1621(a)(1), substituted “Department of Ve
 
 #### Deadline for Entry Into Transportation Agreement
 
-Section 1250(b) of Pub. L. 100–180 directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title XII, §1250(b), Dec. 4, 1987, 101 Stat. 1168, directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
 

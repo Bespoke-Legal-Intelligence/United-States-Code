@@ -16,7 +16,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
-&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of suchchild, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
+&emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
 
 &emsp;&emsp;(C) not to disenroll (or eliminate coverage of) such a child unless the insurer is provided satisfactory written evidence that—
 
@@ -24,7 +24,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;&emsp;(ii) the child is or will be enrolled in comparable health coverage through another insurer which will take effect not later than the effective date of such disenrollment.
 
-&emsp;(3) In any case in which a parent is required by a court or administrative order to provide health coverage for a child and the parent is eligible for family health coverage through an employer doing business in the State, a law that requires such employer—
+&emsp;(3) In any case in which a parent is required by a court or administrative order to provide health coverage for a child and the parent is eligible for family health coverage through anemployer doing business in the State, a law that requires such employer—
 
 &emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
@@ -70,7 +70,7 @@ For purposes of this section, the term “insurer” includes a group health pla
 
 #### Effective Date
 
-Section 13623(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13623(c), Aug. 10, 1993, 107 Stat. 635, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1396a of this title\] apply to calendar quarters beginning on or after April 1, 1994, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 

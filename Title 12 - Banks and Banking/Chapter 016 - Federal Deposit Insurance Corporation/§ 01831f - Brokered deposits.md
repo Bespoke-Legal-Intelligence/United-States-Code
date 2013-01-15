@@ -70,7 +70,7 @@ The Corporation may impose, by regulation or order, such additional restrictions
 
 #### (3) Inclusion of depository institutions engaging in certain activities
 
-&emsp;Notwithstanding paragraph (2), the term “deposit broker” includes any insured depository institution that is not well capitalized (as defined in section 1831<i>o</i> of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insured depository institutions in such depository institution's normal market area.
+&emsp;Notwithstanding paragraph (2), the term “deposit broker” includes any insured depository institution that is not well capitalized (as defined in section 1831o of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insured depository institutions in such depository institution's normal market area.
 
 #### (4) Employee
 
@@ -86,7 +86,7 @@ The Corporation may impose, by regulation or order, such additional restrictions
 
 #### (h) Deposit solicitation restricted
 
-An insured depository institution that is undercapitalized, as defined in section 1831<i>o</i> of this title, shall not solicit deposits by offering rates of interest that are significantly higher than the prevailing rates of interest on insured deposits—
+An insured depository institution that is undercapitalized, as defined in section 1831o of this title, shall not solicit deposits by offering rates of interest that are significantly higher than the prevailing rates of interest on insured deposits—
 
 &emsp;(1) in such institution's normal market areas; or
 
@@ -96,7 +96,7 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g)(3). Pub. L. 103–325 inserted “that is not well capitalized (as defined in section 1831<i>o</i> of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
+<b>1994</b>—Subsec. (g)(3). Pub. L. 103–325 inserted “that is not well capitalized (as defined in section 1831o of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §1605(a)(1)(A), substituted “An insured” for “A insured”.
 
@@ -120,9 +120,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date
 
-Section 224(b) of Pub. L. 101–73 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to deposits accepted after the end of the 120-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\].”
+Pub. L. 101–73, title II, §224(b), Aug. 9, 1989, 103 Stat. 275, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to deposits accepted after the end of the 120-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\].”
 
 #### Regulations
 
-Section 301(d) of Pub. L. 102–242 provided that: “The Corporation shall promulgate final regulations to carry out the amendments made under subsections (a), (b), and (c) \[enacting section 1831f–1 of this title and amending this section\] not later than 150 days after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 180 days after that date of enactment, except that such regulations shall not apply to any specific time deposit made before that date of enactment until the stated maturity of the time deposit.”
+Pub. L. 102–242, title III, §301(d), Dec. 19, 1991, 105 Stat. 2345, provided that: “The Corporation shall promulgate final regulations to carry out the amendments made under subsections (a), (b), and (c) \[enacting section 1831f–1 of this title and amending this section\] not later than 150 days after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 180 days after that date of enactment, except that such regulations shall not apply to any specific time deposit made before that date of enactment until the stated maturity of the time deposit.”
 

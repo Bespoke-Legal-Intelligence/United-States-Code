@@ -96,7 +96,7 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 #### (f) Reduction for failure to submit required data
 
-(1) If the Secretary finds that a State has failed to submit to the Secretary data, as required by regulation, for the data collection system implemented under section 679 of this title, the Secretary shall, within 30 days after thedate by which the data was due to be so submitted, notify the State of the failure and that payments to the State under this part will be reduced if the State fails to submit the data, as so required, within 6 months after the date the data was originally due to be so submitted.
+(1) If the Secretary finds that a State has failed to submit to the Secretary data, as required by regulation, for the data collection system implemented under section 679 of this title, the Secretary shall, within 30 days after the date by which the data was due to be so submitted, notify the State of the failure and that payments to the State under this part will be reduced if the State fails to submit the data, as so required, within 6 months after the date the data was originally due to be so submitted.
 
 (2) If the Secretary finds that the State has failed to submit the data, as so required, by the end of the 6-month period referred to in paragraph (1) of this subsection, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amounts otherwise payable to the State under this part, for each quarter ending in the 6-month period (and each quarter ending in each subsequent consecutively occurring 6-month period until the Secretary finds that the State has submitted the data, as so required), by—
 
@@ -290,37 +290,37 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Section 207(c) of Pub. L. 103–432 provided that: “The amendments and repeals made by this section \[amending this section\] shall apply to payments for calendar quarters beginning on or after October 1, 1993.”
+Pub. L. 103–432, title II, §207(c), Oct. 31, 1994, 108 Stat. 4457, provided that: “The amendments and repeals made by this section \[amending this section\] shall apply to payments for calendar quarters beginning on or after October 1, 1993.”
 
-Section 210(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to claims made on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title II, §210(b), Oct. 31, 1994, 108 Stat. 4460, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to claims made on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 13713(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1993.”
+Pub. L. 103–66, title XIII, §13713(a)(3), Aug. 10, 1993, 107 Stat. 657, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1993.”
 
-Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
+Pub. L. 103–66, title XIII, §13713(b)(2), Aug. 10, 1993, 107 Stat. 657, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
 
 #### Effective Date of 1990 Amendment
 
-Section 5071(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5071(b), Nov. 5, 1990, 104 Stat. 1388–233, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
-Section 8001(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1989.”
+Pub. L. 101–239, title VIII, §8001(b), Dec. 19, 1989, 103 Stat. 2452, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1989.”
 
-Section 8002(e) of Pub. L. 101–239 provided that: “The amendments made by subsections (a), (b) and (c) \[amending this section and section 677 of this title\] shall take effect October 1, 1989.”
+Pub. L. 101–239, title VIII, §8002(e), Dec. 19, 1989, 103 Stat. 2453, provided that: “The amendments made by subsections (a), (b) and (c) \[amending this section and section 677 of this title\] shall take effect October 1, 1989.”
 
-Section 8006(b) of Pub. L. 101–239, as amended by Pub. L. 103–66, title XIII, §13715, Aug. 10, 1993, 107 Stat. 657, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to expenditures made on or after October 1, 1989, and before October 1, 1992, and to expenditures made on or after October 1, 1993.”
+Pub. L. 101–239, title VIII, §8006(b), Dec. 19, 1989, 103 Stat. 2462, as amended by Pub. L. 103–66, title XIII, §13715, Aug. 10, 1993, 107 Stat. 657, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to expenditures made on or after October 1, 1989, and before October 1, 1992, and to expenditures made on or after October 1, 1993.”
 
-Section 10401(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section and former sections 620 and 627 of this title\] shall take effect on October 1, 1989.”
+Pub. L. 101–239, title X, §10401(b), Dec. 19, 1989, 103 Stat. 2487, provided that: “The amendments made by subsection (a) \[amending this section and former sections 620 and 627 of this title\] shall take effect on October 1, 1989.”
 
-Section 10402(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1989.”
+Pub. L. 101–239, title X, §10402(b), Dec. 19, 1989, 103 Stat. 2487, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1989.”
 
-Section 10403(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect as if included in section 4 of Public Law 98-617 at the time such section became law \[enacted Nov. 8, 1974\].”
+Pub. L. 101–239, title X, §10403(c)(2), Dec. 19, 1989, 103 Stat. 2488, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect as if included in section 4 of Public Law 98-617 at the time such section became law \[enacted Nov. 8, 1974\].”
 
 #### Effective Date of 1987 Amendment
 
-Section 9132(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1987.”
+Pub. L. 100–203, title IX, §9132(b), Dec. 22, 1987, 101 Stat. 1330–314, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 

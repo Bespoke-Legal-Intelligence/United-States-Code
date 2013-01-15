@@ -6,7 +6,7 @@ Any vessel not documented under the laws of the United States, acquired by or ma
 
 #### (b) Waiver of compliance
 
-The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shallcease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
+The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
 
 #### (c) Coastwise trade; inspection
 
@@ -38,7 +38,7 @@ In subsec. (d), “provisions of section 6101 of title 41” substituted for “
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 “Secretary of the department in which the Coast Guard is operating” substituted in subsec. (a) for “Secretary of the Treasury” pursuant to section 6(b)(1), (2) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other officers and offices of Department of the Treasury, and which provided that notwithstanding such transfer Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 

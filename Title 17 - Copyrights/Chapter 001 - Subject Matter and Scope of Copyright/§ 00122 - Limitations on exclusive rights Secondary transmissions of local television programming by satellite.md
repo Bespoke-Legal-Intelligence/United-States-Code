@@ -224,7 +224,7 @@ Television broadcast station.—The term “television broadcast station”—
 
 #### References in Text
 
-Section 397 of the Communications Act of 1934, referred to in subsec. (j)(5), is classified to section 397 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 397 of the Communications Act of 1934, referred to in subsec. (j)(5), is classified to section 397 of Title 47, Telecommunications.
 
 The date of the enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsec. (j)(5), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of this title.
 

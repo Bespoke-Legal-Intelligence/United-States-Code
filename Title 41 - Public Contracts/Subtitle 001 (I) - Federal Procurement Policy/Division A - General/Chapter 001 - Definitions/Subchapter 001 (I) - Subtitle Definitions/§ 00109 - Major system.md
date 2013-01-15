@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not includeconstruction or other improvements to real property.
+In General.—In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.
 
 (b)
 

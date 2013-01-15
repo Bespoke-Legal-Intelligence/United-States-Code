@@ -60,7 +60,7 @@ Leveraged.—The term “leveraged”, as used with respect to a State infrastru
 
 (b)
 
-Cooperative Agreements.—Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing otherforms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
+Cooperative Agreements.—Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing other forms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
 
 (c)
 
@@ -82,13 +82,13 @@ Funding.—
 
 Highway account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—
 
-&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and
+&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4),<sup>1</sup> and 144; <sup>1</sup> and
 
-&emsp;&emsp;(B) 10 percent of the funds allocated to the State for each of such fiscal years under section 105.
+&emsp;&emsp;(B) 10 percent of the funds allocated to the State for each of such fiscal years.
 
 &emsp;(2)
 
-Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
+Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistanceunder section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
 
 &emsp;(3)
 
@@ -112,7 +112,7 @@ Rail account.—Federal funds deposited into a rail account of a State infrastru
 
 &emsp;(5)
 
-Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(3) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(3) <sup>1</sup> may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
 &emsp;(6)
 
@@ -166,7 +166,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;(2)
 
-Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
+Repayments.—The requirements of this title and title 49 shall apply to repaymentsfrom non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 
 (i)
 
@@ -180,15 +180,29 @@ Management of Federal Funds.—Sections 3335 and 6503 of title 31 shall not appl
 
 Program Administration.—For each of fiscal years 2005 through 2009, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574.)
+(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(12), July 6, 2012, 126 Stat. 577.)
+
+#### References in Text
+
+Sections 104 and 144, referred to in subsec. (d)(1)(A), were amended generally by Pub. L. 112–141, div. A, title I, §§1105(a), 1111(a), July 6, 2012, 126 Stat. 427, 445.
+
+Subsec. (d) of section 133, referred to in subsec. (d)(5), was struck out and a new subsec. (d) enacted by Pub. L. 112–141, div. A, title I, §1108(c), July 6, 2012, 126 Stat. 442.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1)(B). Pub. L. 112–141 struck out “under section 105” before period at end.
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
 
 <b>2005</b>—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

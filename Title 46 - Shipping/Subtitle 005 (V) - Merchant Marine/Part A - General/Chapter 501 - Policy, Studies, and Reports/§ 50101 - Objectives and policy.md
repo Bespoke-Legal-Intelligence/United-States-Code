@@ -4,7 +4,7 @@
 
 Objectives.—It is necessary for the national defense and the development of the domestic and foreign commerce of the United States that the United States have a merchant marine—
 
-&emsp;(1) sufficient to carry the waterborne domestic commerce and a substantial part of the waterborne export and import foreign commerce of the United States and to provide shippingservice essential for maintaining the flow of the waterborne domestic and foreign commerce at all times;
+&emsp;(1) sufficient to carry the waterborne domestic commerce and a substantial part of the waterborne export and import foreign commerce of the United States and to provide shipping service essential for maintaining the flow of the waterborne domestic and foreign commerce at all times;
 
 &emsp;(2) capable of serving as a naval and military auxiliary in time of war or national emergency;
 

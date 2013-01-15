@@ -20,7 +20,7 @@
 
 &emsp;(3) other information the Secretary considers necessary to decide whether the head of the agency is acting aggressively to collect the claims of the agency.
 
-(b) The Secretary shall analyze the reports submitted under subsection (a) of this sectionand shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
+(b) The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
 
 (Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 104–134, title III, §31001(aa)(3), Apr. 26, 1996, 110 Stat. 1321–380.)
 
@@ -60,5 +60,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Consolidation of Reports
 
-Section 31001(aa)(4) of Pub. L. 104–134 provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
+Pub. L. 104–134, title III, §31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
 

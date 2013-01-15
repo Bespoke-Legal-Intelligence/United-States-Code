@@ -40,7 +40,7 @@
 
 #### (D) Attorney General
 
-&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number and type of—
+&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and theappropriate congressional committees information for the preceding year regarding the number and type of—
 
 &emsp;&emsp;&emsp;(i) arrests for drug violations;
 

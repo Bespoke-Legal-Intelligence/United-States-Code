@@ -66,7 +66,7 @@ Area Maritime Transportation Security Plans.—(1) The Federal Maritime Security
 
 &emsp;&emsp;(i) to identify salvage equipment capable of restoring operational trade capacity; and
 
-&emsp;&emsp;(ii) to ensure that the waterways are cleared and the flow of commerce throughUnited States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
+&emsp;&emsp;(ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
 
 &emsp;(H) be updated at least every 5 years by the Federal Maritime Security Coordinator.
 
@@ -142,7 +142,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
-(8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility describedin paragraph (2) shall be a citizen of the United States.
+(8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 
 (B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
 
@@ -212,7 +212,7 @@ Subsec. (e). Pub. L. 111–281, §812(c), added subsec.(e).
 
 <b>2006</b>—Subsec. (b)(2)(F), (G). Pub. L. 109–347, §101, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (c)(3)(C)(ii). Pub. L. 109–347, §102(1)(A), substituted “facility, including access by persons engaged in the surface transportation of intermodal containers in or out of a port facility” for “facility”.
+Subsec. (c)(3)(C)(ii). Pub. L. 109–347, §102(1)(A), substituted “facility, including access by persons engagedin the surface transportation of intermodal containers in or out of a port facility” for “facility”.
 
 Subsec. (c)(3)(F), (G). Pub. L. 109–347, §113(c), added subpar. (F) and redesignated former subpar. (F) as (G). Former subpar. (G) redesignated (H).
 

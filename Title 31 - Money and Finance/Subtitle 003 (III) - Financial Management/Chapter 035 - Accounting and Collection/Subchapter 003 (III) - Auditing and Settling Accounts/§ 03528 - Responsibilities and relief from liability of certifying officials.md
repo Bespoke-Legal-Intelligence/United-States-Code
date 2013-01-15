@@ -80,7 +80,7 @@ June 1, 1942, ch. 320(related to certifying officers), 56 Stat. 306.
 
 Dec. 29, 1941, ch. 641, §4(related to §2), 55 Stat. 876.
 
-In the section, the word “official” is substituted for “officer or employee” and “officer” for consistency inthe revised title and with other titles of the United States Code.
+In the section, the word “official” is substituted for “officer or employee” and “officer” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a), before clause (1), the words “the existence and correctness of” are omitted as surplus. In clause (1), the words “or otherwise stated on” are omitted as surplus. The word “records” is substituted for “papers” for consistency. Clause (2) is substituted for 31:82f(related to certifying officers) because of the restatement. In clause (4), before subclause (A), the word “repaying” is substituted for “and required to make good to the United States” to eliminate unnecessary words. The words “the amount of” are omitted as surplus. In subclause (A), the word “inaccurate” is substituted for “false, inaccurate” to eliminate an unnecessary word. The words “made by him” are omitted as surplus.
 

@@ -16,7 +16,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(A) not to exceed $5,000,000; and
 
-&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects’ fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31, 1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
+&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates willbe the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects’ fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31, 1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
 
 &emsp;&emsp;(C) not to exceed $8,100 per family unit for such part of such property or project as may be attributable to dwelling use.
 
@@ -36,7 +36,7 @@ Debentures issued under this section shall be issued in accordance with the prov
 
 #### (f) Applicability of other provisions
 
-The provisions of section 1713(k) of this title shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
+The provisions of section 1713(k) of this title shall be applicable to mortgages insured underthis section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 
 #### (g) Mortgages in connection with sale of property under subchapter I, II, VIII, or X of this chapter
 
@@ -74,5 +74,5 @@ Subsec. (c). Act May 22, 1946, inserted “and any mortgage insurance premiums p
 
 #### Construction of Act May 26, 1942, With Ex. Ord. No. 9070, Consolidating National Housing Agency
 
-Section 12 of act May 26, 1942, provided that nothing contained in act May 26, 1942 \[amending this subchapter\] shall be construed to supersede or be inconsistent with the provisions of Ex. Ord. No. 9070, Feb. 24, 1942.
+Act May 26, 1942, ch. 319, §12, 56 Stat. 305, provided that nothing contained in act May 26, 1942, was to be construed to supersede or be inconsistent with the provisions of Ex. Ord. No. 9070, Feb. 24, 1942.
 

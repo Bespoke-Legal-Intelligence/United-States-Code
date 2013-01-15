@@ -66,7 +66,7 @@ The Secretary shall ensure that findings derived from activities carried out und
 
 With respect to a grant, contract, or cooperative agreement awarded under this section, the period during which payments under such award may be made to the recipient may not exceed 3 years.
 
-#### (<i>l</i>) Study
+#### (l) Study
 
 Within 1 year after October 17, 2000, the Secretary shall, directly or by grant or contract, initiate a study to assemble and analyze data to identify—
 
@@ -136,9 +136,9 @@ Subsec. (i). Pub. L. 108–355, §3(b)(1)(J), substituted “A public organizati
 
 Subsec. (k). Pub. L. 108–355, §3(b)(1)(K), substituted “3 years” for “5 years”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 108–355, §3(b)(1)(L)(i), substituted “24” for “21”.
+Subsec. (l)(2). Pub. L. 108–355, §3(b)(1)(L)(i), substituted “24” for “21”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 108–355, §3(b)(1)(L)(ii), struck out “which might have been” after “profile of services”.
+Subsec. (l)(3). Pub. L. 108–355, §3(b)(1)(L)(ii), struck out “which might have been” after “profile of services”.
 
 Subsec. (m). Pub. L. 108–355, §3(b)(1)(O), added subsec. (m). Former subsec. (m) redesignated (n).
 

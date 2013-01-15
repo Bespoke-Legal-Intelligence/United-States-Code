@@ -2,7 +2,7 @@
 
 In a contract to acquire a commercial item (as defined in section 103 of title 41), a certification by a contractor or a contract clause may not be required to implement a prohibition or requirement in this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 111–350, §5(<i>l</i>)(21), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 111–350, §5(l)(21), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

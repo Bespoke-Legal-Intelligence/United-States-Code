@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
 
-> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence andbefore January 1, 2012, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
+> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2014, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
 
 #### (3) Cash reimbursements
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1998” for “calendar year 1992”.
 
-> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall be applied by substituting “calendar year 2001” for “calendar year 1998” for purposes of adjusting the dollar amount contained in paragraph (2)(A).
+> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall beapplied by substituting “calendar year 2001” for “calendar year 1998” for purposes of adjusting the dollar amount contained in paragraph (2)(A).
 
 #### (B) Rounding
 
@@ -346,7 +346,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 For purposes of this section (other than subsection (c)(2)), the term “customers” shall only include customers who are not employees.
 
-#### (<i>l</i>) Section not to apply to fringe benefits expressly provided for elsewhere
+#### (l) Section not to apply to fringe benefits expressly provided for elsewhere
 
 This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of a type the tax treatment of which is expressly provided for in any other section of this chapter.
 
@@ -376,11 +376,11 @@ For purposes of this section—
 
 &emsp;With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in subsection (c) of such section (as in effect on such date).
 
-#### (<i>o</i>) Regulations
+#### (o) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5),1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title II, §203(a), Jan. 2, 2013, 126 Stat. 2323.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -397,6 +397,8 @@ The date of the enactment of the American Recovery and Reinvestment Tax Act of 2
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012” in concluding provisions.
 
 <b>2010</b>—Subsec. (f)(2). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2011” in concluding provisions.
 
@@ -418,7 +420,7 @@ Subsec. (f)(5)(F). Pub. L. 110–343, §211(c), added subpar. (F).
 
 <b>2003</b>—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 108–121, §103(b), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 108–121, §103(b), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>2001</b>—Subsec. (a)(7). Pub. L. 107–16, §665(a), added par. (7).
 
@@ -460,11 +462,11 @@ Subsec. (j). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (i) as (j). F
 
 Subsec. (j)(4)(B)(iii). Pub. L. 103–66, §13213(d)(3)(B), substituted “subsection (h)” for “subsection (f)”.
 
-Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (<i>l</i>) and substituted “subsections (e) and (g)” for “subsection (e)”. Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (l) and substituted “subsections (e) and (g)” for “subsection (e)”. Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
 <b>1992</b>—Subsec. (a)(5). Pub. L. 102–486, §1911(a), added par. (5).
 
@@ -472,7 +474,7 @@ Subsecs. (f) to (h). Pub. L. 102–486, §1911(b), added subsec. (f) and redesig
 
 Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to (8), respectively, and struck out former par. (4), “Parking”, which read as follows: “The term ‘working condition fringe’ includes parking provided to an employee on or near the business premises of the employer.” Former subsec. (i) redesignated (j).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (<i>l</i>), respectively.
+Subsecs. (j) to (l). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
 <b>1989</b>—Subsec. (f)(2)(B). Pub. L. 101–239, §7841(d)(19), substituted “section 151(c)(3)” for “section 151(e)(3)” in introductory provisions.
 
@@ -510,6 +512,10 @@ Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title II, §203(b), Jan. 2, 2013, 126 Stat. 2323, provided that: “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2011.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §727(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2010.”
@@ -546,13 +552,13 @@ Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided
 
 #### Effective Date of 1997 Amendment
 
-Section 970(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §970(b), Aug. 5, 1997, 111 Stat. 897, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 1072(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title X, §1072(b), Aug. 5, 1997, 111 Stat. 948, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13101(c)(2) of Pub. L. 103–66 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 103–66, title XIII, §13101(c)(2), Aug. 10, 1993, 107 Stat. 420, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 
 Amendment by section 13201(b)(3)(F) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
 
@@ -560,11 +566,11 @@ Amendment by section 13213(d)(1), (2), (3)(B) and (C) of Pub. L. 103–66 applic
 
 #### Effective Date of 1992 Amendment
 
-Section 1911(d) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section\] shall apply to benefits provided after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1911(d), Oct. 24, 1992, 106 Stat. 3014, provided that: “The amendments made by this section \[amending this section\] shall apply to benefits provided after December 31, 1992.”
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Amendment by section 7101(b) of Pub. L. 101–239 applicable to taxable years beginning after Dec. 31, 1988,see section 7101(c) of Pub. L. 101–239, set out as a note under section 127 of this title.
+Amendment by section 7101(b) of Pub. L. 101–239 applicable to taxable years beginning after Dec. 31, 1988, see section 7101(c) of Pub. L. 101–239, set out as a note under section 127 of this title.
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -572,9 +578,9 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by section 1011B(a)(31)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6066(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transportation furnished after December 31, 1987, in taxable years ending after such date.”
+Pub. L. 100–647, title VI, §6066(b), Nov. 10, 1988, 102 Stat. 3703, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transportation furnished after December 31, 1987, in taxable years ending after such date.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 1114(b)(5) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1987, see section 1114(c)(2) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
@@ -582,13 +588,13 @@ Amendment by section 1151(e)(2)(A), (g)(5) of Pub. L. 99–514 applicable, with 
 
 Amendment by section 1853(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 13207(a)(2) of Pub. L. 99–272 provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 99–272, title XIII, §13207(a)(2), Apr. 7, 1986, 100 Stat. 319, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
 
-Section 13207(b)(2) of Pub. L. 99–272 provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
+Pub. L. 99–272, title XIII, §13207(b)(2), Apr. 7, 1986, 100 Stat. 320, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on January 1, 1985.”
 
 #### Effective Date
 
-Section 531(i) of Pub. L. 98–369, formerly §531(h), as redesignated by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320, provided that: “The amendments made by this section \[enacting this section and section 4977 of this title, amending sections 61, 125, 3121, 3231, 3306, 3401, 3501, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, redesignating former section 132 of this title as 133, and enacting provisions set out as notes under this section and section 125 of this title\] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title V, §531(i), formerly §531(h), July 18, 1984, 98 Stat. 886, as redesignated by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320, provided that: “The amendments made by this section \[enacting this section and section 4977 of this title, amending sections 61, 125, 3121, 3231, 3306, 3401, 3501, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, redesignating former section 132 of this title as 133, and enacting provisions set out as notes under this section and section 125 of this title\] shall take effect on January 1, 1985.”
 
 #### Regulations
 
@@ -604,7 +610,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Recordkeeping Requirements
 
-Section 1567 of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1567, Oct. 22, 1986, 100 Stat. 2763, provided that:
 
 “(a)
 
@@ -616,11 +622,11 @@ Effective Date.—The provisions of this section shall take effect on January 1,
 
 #### Treatment of Certain Leased Operations of Department Stores
 
-Section 1853(e) of Pub. L. 99–514 provided that: “For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property.”
+Pub. L. 99–514, title XVIII, §1853(e), Oct. 22, 1986, 100 Stat. 2872, provided that: “For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property.”
 
 #### Transitional Rule for Determination of Line of Business in Case of Affiliated Group Operating Airline
 
-Section 13207(c) of Pub. L. 99–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, as of September 12, 1984—
+Pub. L. 99–272, title XIII, §13207(c), Apr. 7, 1986, 100 Stat. 320, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, as of September 12, 1984—
 
 &emsp;“(1) an individual—
 
@@ -636,7 +642,7 @@ Section 13207(c) of Pub. L. 99–272, as amended by Pub. L. 99–514, §2, Oct. 
 
 #### Special Rule for Services Related To Providing Air Transportation
 
-Section 531(g) of Pub. L. 98–369, as added by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title V, §531(g), as added by Pub. L. 99–272, title XIII, §13207(d), Apr. 7, 1986, 100 Stat. 320; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -664,7 +670,7 @@ Qualified air transportation organization.—For purposes of paragraph (1), the 
 
 #### Determination of Line of Business in Case of Affiliated Group Operating Retail Department Stores
 
-Section 531(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
 &emsp;“(1) as of October 5, 1983, the employees of one member of an affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] without regard to subsections (b)(2) and (b)(4) thereof) were entitled to employee discounts at the retail department stores operated by another member of such affiliated group, and
 

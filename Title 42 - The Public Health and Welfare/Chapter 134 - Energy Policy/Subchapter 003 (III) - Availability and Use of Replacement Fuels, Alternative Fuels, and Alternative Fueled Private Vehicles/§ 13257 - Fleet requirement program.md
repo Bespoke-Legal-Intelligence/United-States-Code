@@ -80,7 +80,7 @@ Before May 1, 1999, the Secretary shall publish in the Federal Register a propos
 
 &emsp;(B) such goal is practicable and actually achievable within periods specified in section 13252(b)(2) of this title, as modified under section 13254 of this title, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals.
 
-(2) The rule under subsection (b) or (g) of this section shall also modify the goal described in section 13252(b)(2)(B) of this title and establish a revised goal pursuant to section 13254 of thistitle if the Secretary determines, based on the proceeding required under subsection (a) or (c) of this section, that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) of this section and the minimum percentage stated in subsection (a)(2) or (g)(2) of this section shall be not less than 10 percent.
+(2) The rule under subsection (b) or (g) of this section shall also modify the goal described in section 13252(b)(2)(B) of this title and establish a revised goal pursuant to section 13254 of this title if the Secretary determines, based on the proceeding required under subsection (a) or (c) of this section, that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) of this section and the minimum percentage stated in subsection (a)(2) or (g)(2) of this section shall be not less than 10 percent.
 
 #### (f) Explanation of determination that fleet requirement program is not necessary
 
@@ -118,7 +118,7 @@ The Secretary may, by notice published in the Federal Register, extend the deadl
 
 #### (i) Exemptions
 
-(1) A rule issued under subsection (b), (g), or (<i>o</i>) of this section shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, of any fleet from the requirements of subsection (b), (g), or (<i>o</i>) of this section, in whole or in part, if it is demonstrated to the satisfaction of the Secretary that—
+(1) A rule issued under subsection (b), (g), or (o) of this section shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, of any fleet from the requirements of subsection (b), (g), or (o) of this section, in whole or in part, if it is demonstrated to the satisfaction of the Secretary that—
 
 &emsp;(A) alternative fueled vehicles that meet the normal requirements and practices of the principal business of the fleet owner are not reasonably available for acquisition;
 
@@ -136,11 +136,11 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 (1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
 
-(2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of thistitle, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
+(2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) of this section would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
 
 (3) Rulemakings under paragraph (1) or (2) shall be separate from a rulemaking under subsection (g) of this section, but may not occur unless a rulemaking is carried out under subsection (g) of this section.
 
-#### (<i>l</i>) Consideration of factors
+#### (l) Consideration of factors
 
 In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
 
@@ -152,7 +152,7 @@ In carrying out this section and section 13256 of this title, the Secretary shal
 
 As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
 
-#### (<i>o</i>) Mandatory State fleet programs
+#### (o) Mandatory State fleet programs
 
 (1) Pursuant to a rule promulgated by the Secretary, beginning in calendar year 1995 (when model year 1996 begins), the following percentages of new light duty motor vehicles acquired annually for State government fleets, including agencies thereof, but not municipal fleets, shall be alternative fueled vehicles:
 
@@ -176,9 +176,9 @@ As part of the rule promulgated either pursuant to subsection (b) or (g) of this
 
 The Clean Air Act, referred to in subsecs. (b)(1)(C)(ii), (g)(4), and (k)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. Title II of the Act, known as the National Emission Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of this title. Part C of title II of the Act is classified generally to part C (§7581 et seq.) of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-This subchapter, referred to in subsecs. (b)(1)(A), (e)(1)(A), (g)(3), (j), and (<i>o</i>)(2)(A), was in the original “this title” meaning title V of Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2887, which is classified generally to this subchapter.
+This subchapter, referred to in subsecs. (b)(1)(A), (e)(1)(A), (g)(3), (j), and (o)(2)(A), was in the original “this title” meaning title V of Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2887, which is classified generally to this subchapter.
 
 #### Codification
 
-In subsecs. (b)(1)(C)(ii) and (<i>o</i>)(2)(B), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsecs. (b)(1)(C)(ii) and (o)(2)(B), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 

@@ -6,7 +6,7 @@ Every fiduciary of an employee benefit plan and every person who handles funds o
 
 (1) where such plan is one under which the only assets from which benefits are paid are the general assets of a union or of an employer, the administrator, officers, and employees of such plan shall be exempt from the bonding requirements of this section,
 
-(2) no bond shall be required of any entity which is registered as a broker or a dealer under section 78<i>o</i>(b) of title 15 if the broker or dealer is subject to the fidelity bond requirements of a self-regulatory organization (within the meaning of section 78c(a)(26) of title 15).<sup>1</sup>
+(2) no bond shall be required of any entity which is registered as a broker or a dealer under section 78o(b) of title 15 if the broker or dealer is subject to the fidelity bond requirements of a self-regulatory organization (within the meaning of section 78c(a)(26) of title 15).<sup>1</sup>
 
 (3) no bond shall be required of a fiduciary (or of any director, officer, or employee of such fiduciary) if such fiduciary—
 

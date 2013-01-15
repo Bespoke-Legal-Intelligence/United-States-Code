@@ -24,7 +24,7 @@ Every person who pursuant to any agreement or arrangement with an employer under
 
 &emsp;(2) to supply an employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding;
 
-> shall file within thirty days after entering into such agreement or arrangement a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing the name under which such person is engaged in doing business and the address of its principal office, and a detailed statement of the terms and conditions of such agreement or arrangement. Every such person shall file annually, with respect to each fiscal year during which payments were made as a result of such an agreement or arrangement, a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing a statement (A) of its receipts of any kind from employers on account of labor relations advice or services, designating the sources thereof, and (B) of its disbursements of any kind, in connection with such services and the purposes thereof. In each such case such information shall be set forth in such categories as the Secretary may prescribe.
+> shall file within thirty days after entering into such agreement or arrangement a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing the name under which such person is engaged in doing business and the address of its principal office, and a detailed statement of the terms and conditions of such agreement or arrangement. Every such person shall file annually, with respect to each fiscal year during which payments were made as a result of such an agreement or arrangement, a report with the Secretary, signed by its president and treasurer or corresponding principal officers, containing a statement (A) of its receipts of any kind from employers on account of labor relations advice or services, designating the sources thereof, and (B) of its disbursements of any kind, in connection with such services and the purposes thereof.In each such case such information shall be set forth in such categories as the Secretary may prescribe.
 
 #### (c) Advisory or representative services exempt from filing requirements
 
@@ -40,7 +40,7 @@ Nothing contained in this section shall be construed to require any regular offi
 
 #### (f) Rights protected by section 158(c) of this title
 
-Nothing contained in this section shall be construed as an amendment to, or modification ofthe rights protected by, section 158(c) of this title.
+Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, section 158(c) of this title.
 
 #### (g) “Interfere with, restrain, or coerce” defined
 

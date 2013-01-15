@@ -16,7 +16,7 @@ For purposes of this chapter:
 
 #### (4) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community which administers justice or plans to administer justice under its inherent authority or the authority of the UnitedStates and which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
+&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community which administers justice or plans to administer justice under its inherent authority or the authority of the United States and which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
 
 #### (5) Judicial personnel
 

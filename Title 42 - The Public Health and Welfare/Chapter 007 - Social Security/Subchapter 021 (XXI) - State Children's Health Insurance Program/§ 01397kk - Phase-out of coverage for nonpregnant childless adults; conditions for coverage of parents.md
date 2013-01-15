@@ -38,7 +38,7 @@
 
 &emsp;&emsp;The budget neutrality requirement applicable with respect to expenditures for medical assistance under a Medicaid nonpregnant childless adults waiver shall—
 
-&emsp;&emsp;&emsp;(i) in the case of fiscal year 2010, allow expenditures for medical assistance under subchapter XIX for all such adults to not exceed the total amount of payments made to the State under paragraph (2)(B) for fiscal year 2009, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for 2010 over 2009, as most recently published by the Secretary; and
+&emsp;&emsp;&emsp;(i) in the case of fiscal year 2010, allow expenditures for medical assistance under subchapter XIX for all such adults to notexceed the total amount of payments made to the State under paragraph (2)(B) for fiscal year 2009, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for 2010 over 2009, as most recently published by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) in the case of any succeeding fiscal year, allow such expenditures to not exceed the amount in effect under this subparagraph for the preceding fiscal year, increased by the percentage increase (if any) in the projected nominal per capita amount of National Health Expenditures for the calendar year that begins during the year involved over the preceding calendar year, as most recently published by the Secretary.
 
@@ -66,7 +66,7 @@
 
 #### (A) Payments for coverage limited to block grant funded from State allotment
 
-&emsp;&emsp;Any State that provides child health assistance or health benefits coverage under an applicable existing waiver for a parent ofa targeted low-income child may elect to continue to provide such assistance or coverage through fiscal year 2012 or 2013, subject to the same terms and conditions that applied under the applicable existing waiver, unless otherwise modified in subparagraph (B).
+&emsp;&emsp;Any State that provides child health assistance or health benefits coverage under an applicable existing waiver for a parent of a targeted low-income child may elect to continue to provide such assistance or coverage through fiscal year 2012 or 2013, subject to the same terms and conditions that applied under the applicable existing waiver, unless otherwise modified in subparagraph (B).
 
 #### (B) Terms and conditions
 
@@ -132,7 +132,7 @@
 
 #### (4) Rules of construction
 
-&emsp;Nothing in this subsection shall be construed as prohibiting a State from submitting an application to the Secretary for a waiverunder section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a parent of a targeted low-income child that was provided child health assistance or health benefits coverage under an applicable existing waiver.
+&emsp;Nothing in this subsection shall be construed as prohibiting a State from submitting an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a parent of a targeted low-income child that was provided child health assistance or health benefits coverage under an applicable existing waiver.
 
 #### (c) Applicable existing waiver
 

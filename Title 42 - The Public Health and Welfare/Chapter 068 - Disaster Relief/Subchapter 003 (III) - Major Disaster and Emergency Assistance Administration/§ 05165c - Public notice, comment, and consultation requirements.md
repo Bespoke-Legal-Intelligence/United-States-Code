@@ -12,7 +12,7 @@
 
 #### (2) Application
 
-&emsp;Any policy adopted under paragraph (1) shall apply only to a major disaster or emergency declared on or after the date on which the policy is adopted.
+&emsp;Any policy adopted under paragraph (1) shall apply only to a major disaster or emergencydeclared on or after the date on which the policy is adopted.
 
 #### (b) Consultation concerning interim policies
 

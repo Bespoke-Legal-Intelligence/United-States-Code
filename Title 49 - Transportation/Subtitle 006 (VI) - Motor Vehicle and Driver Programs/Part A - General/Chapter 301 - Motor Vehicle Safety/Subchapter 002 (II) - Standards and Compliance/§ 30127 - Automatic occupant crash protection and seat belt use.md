@@ -14,7 +14,7 @@ Definitions.—In this section—
 
 (b)
 
-Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the Secretary of Transportation shall prescribe under this chapter an amendment to Federal Motor Vehicle Safety Standard 208 issued under the NationalTraffic and Motor Vehicle Safety Act of 1966. The amendment shall require that the automatic occupant crash protection system for both of the front outboard seating positions for each of the following vehicles be an inflatable restraint (with lap and shoulder belts) complying with the occupant protection requirements under section 4.1.2.1 of Standard 208:
+Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the Secretary of Transportation shall prescribe under this chapter an amendment to Federal Motor Vehicle Safety Standard 208 issued under the National Traffic and Motor Vehicle Safety Act of 1966. The amendment shall require that the automatic occupant crash protection system for both of the front outboard seating positions for each of the following vehicles be an inflatable restraint (with lap and shoulder belts) complying with the occupant protection requirements under section 4.1.2.1 of Standard 208:
 
 &emsp;(A) 95 percent of each manufacturer's annual production of passenger cars manufactured after August 31, 1996, and before September 1, 1997.
 
@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 
@@ -68,7 +68,7 @@ Application.—(1) This section revises, but does not replace, Standard 208 as i
 
 (g)
 
-Report.—(1) On October 1, 1992, and annually after that date through October 1, 2000, theSecretary of Transportation shall submit reports on the effectiveness of occupant restraint systems expressed as a percentage reduction in fatalities or injuries of restrained occupants compared to unrestrained occupants for—
+Report.—(1) On October 1, 1992, and annually after that date through October 1, 2000, the Secretary of Transportation shall submit reports on the effectiveness of occupant restraint systems expressed as a percentage reduction in fatalities or injuries of restrained occupants compared to unrestrained occupants for—
 
 &emsp;(A) a combination of inflated restraints and lap and shoulder belts;
 
@@ -176,11 +176,87 @@ In subsection (h)(2), the words “for both front outboard seating positions” 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
+
+#### Child Safety Seats
+
+Pub. L. 112–141, div. C, title I, §31501, July 6, 2012, 126 Stat. 773, provided that:
+
+“(a)
+
+Side Impact Crashes.—Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule amending Federal Motor Vehicle Safety Standard Number 213 to improve the protection of children seated in child restraint systems during side impact crashes.
+
+“(b)
+
+Frontal Impact Test Parameters.—
+
+&emsp;“(1)
+
+Commencement.—Not later than 2 years after the date of enactment of this Act, the Secretary shall commence a rulemaking proceeding to amend the standard seat assembly specifications under Federal Motor Vehicle Safety Standard Number 213 to better simulate a single representative motor vehicle rear seat.
+
+&emsp;“(2)
+
+Final rule.—Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to paragraph (1).”
+
+#### Child Restraint Anchorage Systems
+
+Pub. L. 112–141, div. C, title I, §31502, July 6, 2012, 126 Stat. 774, provided that:
+
+“(a)
+
+Initiation of Rulemaking Proceeding.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 225 (relating to child restraint anchorage systems) to improve the ease of use for lower anchorages and tethers in all rear seat seating positions if such anchorages and tethers are feasible.
+
+“(b)
+
+Final Rule.—
+
+&emsp;“(1)
+
+In general.—Except as provided under paragraph (2) and section 31505 \[set out as a note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—
+
+&emsp;&emsp;“(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on Energy and Commerce of the House of Representatives.”
+
+#### Rear Seat Belt Reminders
+
+Pub. L. 112–141, div. C, title I, §31503, July 6, 2012, 126 Stat. 774, provided that:
+
+“(a)
+
+Initiation of Rulemaking Proceeding.—Not later than 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 208 (relating to occupant crash protection) to provide a safety belt use warning system for designated seating positions in the rear seat.
+
+“(b)
+
+Final Rule.—
+
+&emsp;“(1)
+
+In general.—Except as provided under paragraph (2) and section 31505 \[set out as a note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—
+
+&emsp;&emsp;“(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on Energy and Commerce of the House of Representatives.”
+
+#### New Deadline
+
+Pub. L. 112–141, div. C, title I, §31505, July 6, 2012, 126 Stat. 775, provided that: “If the Secretary \[of Transportation\] determines that any deadline for issuing a final rule under this Act \[probably should be “this title”, see Tables for classification\] cannot be met, the Secretary shall—
+
+&emsp;“(1) provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives with an explanation for why such deadline cannot be met; and
+
+&emsp;“(2) establish a new deadline for that rule.”
 
 #### Improving the Safety of Child Restraints
 
@@ -284,7 +360,7 @@ Production year.—The term ‘production year’ means the 12-month period betw
 
 &emsp;“(3)
 
-Passenger motor vehicle.—The term ‘passenger motor vehicle’ has the meaning given that term in section 405(f)(5) of title 23, United States Code.
+Passenger motor vehicle.—The term ‘passenger motor vehicle’ has the meaning given that term in \[former\] section 405(f)(5) of title 23, United States Code.
 
 #### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
 

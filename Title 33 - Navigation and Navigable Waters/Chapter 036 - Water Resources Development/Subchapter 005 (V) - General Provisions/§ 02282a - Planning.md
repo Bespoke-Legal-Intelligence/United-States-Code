@@ -68,7 +68,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 #### (B) Constraints
 
-&emsp;&emsp;The alternatives contained in studies and assessments described in subparagraph (A)shall not be constrained by budgetary or other policy.
+&emsp;&emsp;The alternatives contained in studies and assessments described in subparagraph (A) shall not be constrained by budgetary or other policy.
 
 #### (C) Reports of Chief of Engineers
 

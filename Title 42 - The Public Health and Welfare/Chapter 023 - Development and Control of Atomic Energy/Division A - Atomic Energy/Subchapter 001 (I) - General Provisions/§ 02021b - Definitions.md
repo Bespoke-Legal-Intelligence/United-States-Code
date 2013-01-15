@@ -88,11 +88,11 @@ A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, rela
 
 #### Short Title of 1986 Amendment
 
-Section 101 of title I of Pub. L. 99–240 provided that: “This Title \[enacting this section and sections 2021c to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
+Pub. L. 99–240, title I, §101, Jan. 15, 1986, 99 Stat. 1842, provided that: “This Title \[enacting this section and sections 2021c to 2021j of this title, repealing former sections 2021b to 2021d of this title, and enacting and repealing a provision set out as a note under this section\] may be cited as the ‘Low-Level Radioactive Waste Policy Amendments Act of 1985’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 96–573, as added by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842, provided that: “This Act \[enacting sections 2021b to 2021j of this title\] may be cited as the ‘Low-Level Radioactive Waste Policy Act’.”
+Pub. L. 96–573, §1, as added by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842, provided that: “This Act \[enacting sections 2021b to 2021j of this title\] may be cited as the ‘Low-Level Radioactive Waste Policy Act’.”
 
-A prior section 1 of Pub. L. 96–573 which provided that Pub. L. 96–573 \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act” was repealed by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.
+A prior section 1 of Pub. L. 96–573, which provided that Pub. L. 96–573 \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act”, was repealed by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.
 

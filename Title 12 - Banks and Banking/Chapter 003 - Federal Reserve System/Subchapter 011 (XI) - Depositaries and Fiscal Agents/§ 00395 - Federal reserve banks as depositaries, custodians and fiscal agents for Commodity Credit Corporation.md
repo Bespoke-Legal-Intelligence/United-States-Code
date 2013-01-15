@@ -6,7 +6,7 @@ The Federal Reserve banks are authorized to act as depositaries, custodians, and
 
 #### Transfer of Functions
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture byReorg. Plan No. 3 of 1946, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See Appendix to Title 5, Government Organization and Employees.
 
 #### Exceptions From Transfer of Functions
 

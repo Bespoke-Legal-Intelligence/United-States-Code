@@ -24,7 +24,7 @@ A certificate of registration of a mark may be issued to the assignee of the app
 
 #### (e) Surrender, cancellation, or amendment by owner
 
-Upon application of the owner the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the United States Patent and Trademark Office.Upon application of the owner and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the United States Patent and Trademark Office and upon the certificate of registration.
+Upon application of the owner the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the United States Patent and Trademark Office. Upon application of the owner and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the United States Patent and Trademark Office and upon the certificate of registration.
 
 #### (f) Copies of United States Patent and Trademark Office records as evidence
 
@@ -32,7 +32,7 @@ Copies of any records, books, papers, or drawings belonging to the United States
 
 #### (g) Correction of United States Patent and Trademark Office mistake
 
-Whenever a material mistake in a registration, incurred through the fault of the United States Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the United States Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
+Whenever a material mistake in a registration, incurred through the fault of the United States Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates ofcorrection heretofore issued in accordance with the rules of the United States Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
 
 #### (h) Correction of applicant's mistake
 
@@ -82,7 +82,7 @@ Subsec. (h). Pub. L. 100–667, §109(2), (6), redesignated former subsec. (g) a
 
 <b>1975</b>—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of thedrawing and statement of the applicant, to be kept in books for that purpose.
+<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
 
 Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a fee in connection with the voluntary surrender or cancellation of a registration.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

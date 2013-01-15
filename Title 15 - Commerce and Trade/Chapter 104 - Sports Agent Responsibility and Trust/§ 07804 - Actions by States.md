@@ -56,7 +56,7 @@ In any case in which an action is instituted by or on behalf of the Commission f
 
 #### (e) Venue
 
-Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
+Any action brought under subsection (a) may be brought in the district court of the UnitedStates that meets applicable requirements relating to venue under section 1391 of title 28.
 
 #### (f) Service of process
 

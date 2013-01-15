@@ -52,7 +52,7 @@ Transfer.—There shall be transferred to the National Counterterrorism Center t
 
 “(b)
 
-Administration.—The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 \[50 U.S.C. 404<i>o</i>(i)\], as added by section 1021(a) \[1021\] of this Act.
+Administration.—The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 \[50 U.S.C. 404o(i)\], as added by section 1021(a) \[1021\] of this Act.
 
 #### “SEC. 1093. TERMINATION OF POSITIONS OF ASSISTANT DIRECTORS OF CENTRAL INTELLIGENCE.
 
@@ -132,21 +132,25 @@ Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the 
 
 #### Effective Date
 
-Section 310 of act July 26, 1947, provided:
+Act July 26, 1947, ch. 343, title III, §310, 61 Stat. 509, provided:
 
 “(a) The first sentence of section 202(a) \[section 171a of former Title 5, Executive Departments and Government Officers and Employees\] and sections 1, 2, 307, 308, 309, and 310 \[section 171 note of former Title 5, section 361 of this title, and sections 171m and 171n of former Title 5\] shall take effect immediately upon the enactment of this Act \[July 26, 1947\].
 
-“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
+“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171l, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–235, §1, Dec. 28, 2012, 126 Stat. 1626, provided that: “This Act \[amending provisions set out as a note under section 435 of this title\] may be cited as the ‘Public Interest Declassification Board Reauthorization Act of 2012’.”
 
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–458, §1(a), Dec. 17, 2004, 118 Stat. 3638, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Intelligence Reform and Terrorism Prevention Act of 2004’.”
 
-Pub. L. 108–458, title I, §1001, Dec. 17, 2004, 118 Stat. 3643, provided that: “This title \[enacting sections 402–1, 403, 403–1, 403–1a to 403–1c, 403–3, 403–3a to 403–3f, 403–4, 403–4a, 403–4b, 404<i>o</i>, 404<i>o</i>–1, 404<i>o</i>–2, 441g–1, and 441g–2 of this title, section 8K of the Inspector General Act set out in the Appendix to Title 5, Government Organization and Employees, and section 485 of Title 6, Domestic Security, amending sections 401a, 402, 402a to 402c, 403–5, 403–5b, 403–6, 403a, 403b, 403g, 403n, 403p, 403q, 403t, 403u, 404e, 404g to 404i, 404i–1, 404j to 404<i>l</i>, 404n, 404n–1, 404n–2, 405, 413, 413a, 413b, 414, 415a, 415a–1, 423, 431, 432, 432a, 432b, 441g, 442a, 1802 to 1805, 1822 to 1824, 1842, 2001, and 2011 of this title, sections 5312, 5313, 5315, 7323, and 7342 of Title 5, section 105 of the Ethics in Government Act set out in the Appendix to Title 5, section 9 of the Classified Information Procedures Act set out in the Appendix to Title 18, Crimes and Criminal Procedure, and section 113 of Title 40, Public Buildings, Property, and Works, repealing sections 403, 403–1, 403–3, 403–4, and 404f of this title, enacting provisions set out as notes under this section, sections 403, 403–1, 403–1a, and 403–4b of this title, and section 601 of Title 5, and amending provisions set out as notes under sections 403, 403–3, 403–4, 435, and 441g of this title, section 4124 of Title 18, and section 519 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘National Security Intelligence Reform Act of 2004’.”
+Pub. L. 108–458, title I, §1001, Dec. 17, 2004, 118 Stat. 3643, provided that: “This title \[enacting sections 402–1, 403, 403–1, 403–1a to 403–1c, 403–3, 403–3a to 403–3f, 403–4, 403–4a, 403–4b, 404o, 404o–1, 404o–2, 441g–1, and 441g–2 of this title, section 8K of the Inspector General Act set out in the Appendix to Title 5, Government Organization and Employees, and section 485 of Title 6, Domestic Security, amending sections 401a, 402, 402a to 402c, 403–5, 403–5b, 403–6, 403a, 403b, 403g, 403n, 403p, 403q, 403t, 403u, 404e, 404g to 404i, 404i–1, 404j to 404l, 404n, 404n–1, 404n–2, 405, 413, 413a, 413b, 414, 415a, 415a–1, 423, 431, 432, 432a, 432b, 441g, 442a, 1802 to 1805, 1822 to 1824, 1842, 2001, and 2011 of this title, sections 5312, 5313, 5315, 7323, and 7342 of Title 5, section 105 of the Ethics in Government Act set out in the Appendix to Title 5, section 9 of the Classified Information Procedures Act set out in the Appendix to Title 18, Crimes and Criminal Procedure, and section 113 of Title 40, Public Buildings, Property, and Works, repealing sections 403, 403–1, 403–3, 403–4, and 404f of this title, enacting provisions set out as notes under this section, sections 403, 403–1, 403–1a, and 403–4b of this title, and section 601 of Title 5, and amending provisions set out as notes under sections 403, 403–3, 403–4, 435, and 441g of this title, section 4124 of Title 18, and section 519 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘National Security Intelligence Reform Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–306, title IX, §901(a), Nov. 27, 2002, 116 Stat. 2432, provided that: “This title \[enacting sections 402b and 402c of this title, amending section 402a of this title, and enacting provisions set out as a note under section 402b of this title\] may be cited as the ‘Counterintelligence Enhancement Act of 2002’.”
+Pub. L. 107–306, title IX, §901(a), Nov. 27, 2002, 116 Stat. 2432, provided that: “This title \[enacting sections402b and 402c of this title, amending section 402a of this title, and enacting provisions set out as a note under section 402b of this title\] may be cited as the ‘Counterintelligence Enhancement Act of 2002’.”
 
 #### Short Title of 1996 Amendment
 
@@ -170,11 +174,11 @@ Pub. L. 97–200, §1, June 23, 1982, 96 Stat. 122, provided: “That this Act \
 
 #### Short Title of 1949 Amendment
 
-Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of former Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
+Act Aug. 10, 1949, ch. 412, §1, 63 Stat. 578, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of former Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
 
 #### Short Title
 
-Section 1 of act July 26, 1947, provided: “That this Act \[enacting this section, sections 401a to 403, 404, 405, and 408 to 412 of this title, and sections 171, 171–1, 171–2, 171a, 171b to 171d, 171e to 171j, 171k to 171m, 171n, 172, 172a to 172d, 172f to 172j, 181–1, 181–2, 411a, 411b, 626, 626a to 626c, and 626d of former Title 5, Executive Department and Government Officers and Employees, amending sections 1, 11, and 172e of former Title 5, section 1517 of Title 15, Commerce and Trade, and section 72 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 135 of Title 10, Armed Forces\] may be cited as the ‘National Security Act of 1947’.”
+Act July 26, 1947, ch. 343, §1, 61 Stat. 495, provided: “That this Act \[enacting this section, sections 401a to 403, 404, 405, and 408 to 412 of this title, and sections 171, 171–1, 171–2, 171a, 171b to 171d, 171e to 171j, 171k to 171m, 171n, 172, 172a to 172d, 172f to 172j, 181–1, 181–2, 411a, 411b, 626, 626a to 626c, and 626d of former Title 5, Executive Department and Government Officers and Employees, amending sections 1, 11, and 172e of former Title 5, section 1517 of Title 15, Commerce and Trade, and section 72 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 135 of Title 10, Armed Forces\] may be cited as the ‘National Security Act of 1947’.”
 
 Sections of National Security Act of 1947, which were classified to former Title 5, were repealed and restated in Title 10, Armed Forces, except as noted, as follows:
 
@@ -233,7 +237,7 @@ Pub. L. 108–487, title VIII, §803, Dec. 23, 2004, 118 Stat. 3962, provided th
 
 Head of Intelligence Community.—(1) During the period beginning on the date of the enactment of this Act \[Dec. 23, 2004\] and ending on the date of the appointment of the Director of National Intelligence \[Apr. 21, 2005\] under section 102 of the National Security Act of 1947, as amended by section 1011(a) of the National Security Intelligence Reform Act of 2004 \[50 U.S.C. 403\], the Director of Central Intelligence may, acting as the head of the intelligence community, discharge the functions and authorities provided in this Act, and the amendments made by this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], to the Director of National Intelligence.
 
-“(2) During the period referred to in paragraph (1) any reference in this Act or the amendments made by this Act to the Director of National Intelligence shall be considered to be a reference to the Director of Central Intelligence, as the head of the intelligence community.
+“(2) During the period referred to in paragraph (1) any reference in this Act or the amendments made bythis Act to the Director of National Intelligence shall be considered to be a reference to the Director of Central Intelligence, as the head of the intelligence community.
 
 “(3) Upon the appointment of an individual as Director of National Intelligence under section 102 of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the intelligence community shall be deemed to be a reference to the Director of National Intelligence.
 
@@ -243,13 +247,13 @@ Head of Central Intelligence Agency.—(1) During the period beginning on the da
 
 “(2) Upon the appointment of an individual as Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the Central Intelligence Agency shall be deemed to be a reference to the Director of the Central Intelligence Agency.”
 
-Section 12(g) of act Aug. 10, 1949, provided: “All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Short Title of 1949 Amendment note above\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force.”
+Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: “All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Short Title of 1949 Amendment note above\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force.”
 
 #### Separability
 
-Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstance is heldinvalid, the remainder of this Act, or the application of such provision to persons or circumstances other those to which such provision is held invalid shall not be affected thereby.”
+Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstance is held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other those to which such provision is held invalid shall not be affected thereby.”
 
-Section 309 of act July 26, 1947, provided: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Act July 26, 1947, ch. 343, title III, §309, 61 Stat. 509, provided: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 \[Section 310(a) of act July 26, 1947, set out as an Effective Date note above, provided that section 309 of act July 26, 1947, is effective July 26, 1947.\]
 
@@ -291,7 +295,7 @@ Similar provisions were contained in Pub. L. 107–306, title I, §108, Nov. 27,
 
 Pub. L. 111–259, title VII, §701(a)(3), Oct. 7, 2010, 124 Stat. 2745, provided that: “The membership of the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community established under subsection (a) of section 1002 of such Act (Public Law 107–306; 50 U.S.C. 401 note) \[set out below\] (referred to in this section \[enacting and amending provisions set out below\] as the ‘Commission’) shall be considered vacant and new members shall be appointed in accordance with such section 1002, as amended by this section.”
 
-Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VII, §701(a)(1), (4), (b)(3), (c), Oct. 7, 2010, 124 Stat. 2744, 2745, provided that:
+Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VII, §701(a)(1), (4), (b)(3), (c), Oct. 7, 2010, 124 Stat. 2744, 2745; Pub. L. 112–277, title V, §502, Jan. 14, 2013, 126 Stat. 2476, provided that:
 
 #### “SEC. 1001. FINDINGS.
 
@@ -485,7 +489,7 @@ Access After Termination of Commission.—Notwithstanding any other provision of
 
 “(a)
 
-Final Report.—Not later than one year after the date on which all members of the Commission are appointed pursuant to section 701(a)(3) of the Intelligence Authorization Act for Fiscal Year 2010 \[Pub. L. 111–259, set out above\], the Commission shall submit to the congressional intelligence committees, the Director of National Intelligence, and the Secretary of Defense a final report as required by section 1002(h)(2).
+Final Report.—Not later than March 31, 2013, the Commission shall submit to the congressional intelligence committees, the Director of National Intelligence, and the Secretary of Defense a final report as required by section 1002(h)(2).
 
 “(b)
 
@@ -631,7 +635,7 @@ Quorum.—A majority of the members of the Commission shall constitute a quorum,
 
 “(f)
 
-Chairman and Vice Chairman.—The Chairman of the Commission shall be designated by the Presidentfrom among the members appointed by the President. The Vice Chairman of the Commission shall be designated by the Speaker of the House of Representatives from among the members appointed by the Speaker.
+Chairman and Vice Chairman.—The Chairman of the Commission shall be designated by the President from among the members appointed by the President. The Vice Chairman of the Commission shall be designated by the Speaker of the House of Representatives from among the members appointed by the Speaker.
 
 “(g)
 
@@ -713,7 +717,7 @@ Administrative Support Services.—The Administrator of General Services shall p
 
 #### “SEC. 9. INITIAL FUNDING OF COMMISSION.
 
-“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991, the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriated for the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
+“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991, the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriatedfor the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -849,7 +853,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (b) In addition to fulfilling the obligations and responsibilities prescribed by the Act, the Director:
 
-(1) Shall establish objectives, priorities, and guidance for the Intelligence Community to ensure timely and effective collection, processing, analysis, and dissemination of intelligence, of whatever nature and from whatever source derived;
+(1) Shall establish objectives, priorities, and guidance for the Intelligence Community to ensure timely andeffective collection, processing, analysis, and dissemination of intelligence, of whatever nature and from whatever source derived;
 
 (2) May designate, in consultation with affected heads of departments or Intelligence Community elements, one or more Intelligence Community elements to develop and to maintain services of common concern on behalf of the Intelligence Community if the Director determines such services can be more efficiently or effectively accomplished in a consolidated manner;
 
@@ -907,7 +911,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (17) Shall determine requirements and priorities for, and manage and direct the tasking, collection, analysis, production, and dissemination of, national intelligence by elements of the Intelligence Community, including approving requirements for collection and analysis and resolving conflicts in collection requirements and in the tasking of national collection assets of Intelligence Community elements (except when otherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director);
 
-(18) May provide advisory tasking concerning collection and analysis of information or intelligence relevant to national intelligence or national security to departments, agencies, and establishments of the United States Government that are not elements of the Intelligence Community; and shall establish procedures, in consultation with affected heads of departments or agencies and subject to approval by the Attorney General, to implement this authority and to monitor or evaluate the responsiveness of United States Government departments, agencies, and other establishments;
+(18) May provide advisory tasking concerning collection and analysis of information or intelligence relevant to national intelligence or national security to departments, agencies, and establishments of the United States Government that are not elements of the Intelligence Community; and shall establish procedures, in consultation with affected heads of departments or agencies and subject to approval by the Attorney General, to implement this authority and to monitor or evaluate the responsiveness of United StatesGovernment departments, agencies, and other establishments;
 
 (19) Shall fulfill the responsibilities in section 1.3(b)(17) and (18) of this order, consistent with applicable law and with full consideration of the rights of United States persons, whether information is to be collected inside or outside the United States;
 
@@ -929,7 +933,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (24) Shall facilitate the use of Intelligence Community products by the Congress in a secure manner.
 
-(c) The Director's exercise of authorities in the Act and this order shall not abrogate the statutory or other responsibilities of the heads of departments of theUnited States Government or the Director of the Central Intelligence Agency. Directives issued and actions taken by the Director in the exercise of the Director's authorities and responsibilities to integrate, coordinate, and make the Intelligence Community more effective in providing intelligence related to national security shall be implemented by the elements of the Intelligence Community, provided that any department head whose department contains an element of the Intelligence Community and who believes that a directive or action of the Director violates the requirements of section 1018 of the IRTPA or this subsection shall bring the issue to the attention of the Director, the NSC, or the President for resolution in a manner that respects and does not abrogate the statutory responsibilities of the heads of the departments.
+(c) The Director's exercise of authorities in the Act and this order shall not abrogate the statutory or other responsibilities of the heads of departments of the United States Government or the Director of the Central Intelligence Agency. Directives issued and actions taken by the Director in the exercise of the Director's authorities and responsibilities to integrate, coordinate, and make the Intelligence Community more effective in providing intelligence related to national security shall be implemented by the elements of the Intelligence Community, provided that any department head whose department contains an element of the Intelligence Community and who believes that a directive or action of the Director violates the requirements of section 1018 of the IRTPA or this subsection shall bring the issue to the attention of the Director, the NSC, or the President for resolution in a manner that respects and does not abrogate the statutory responsibilities of the heads of the departments.
 
 (d) Appointments to certain positions.
 
@@ -949,7 +953,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 The Intelligence Community
 
-Consistent with applicable Federal law and with the other provisions of this order, and under the leadership of the Director, as specified in such law and this order, the Intelligence Community shall:
+Consistent with applicable Federal law and with the other provisions of this order, and under the leadershipof the Director, as specified in such law and this order, the Intelligence Community shall:
 
 (a) Collect and provide information needed by the President and, in the performance of executive functions, the Vice President, the NSC, the Homeland Security Council, the Chairman of the Joint Chiefs of Staff, senior military commanders, and other executive branch officials and, as appropriate, the Congress of the United States;
 
@@ -1049,9 +1053,9 @@ Each element of the Intelligence Community shall have the duties and responsibil
 
 (4) Conduct administrative and technical support activities within and outside the United States as necessary for cover and proprietary arrangements;
 
-(5) Conduct foreign defense intelligence liaison relationships and defense intelligence exchange programswith foreign defense establishments, intelligence or security services of foreign governments, and international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order;
+(5) Conduct foreign defense intelligence liaison relationships and defense intelligence exchange programs with foreign defense establishments, intelligence or security services of foreign governments, and international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order;
 
-(6) Manage and coordinate all matters related to the Defense Attache�AE1 system; and
+(6) Manage and coordinate all matters related to the Defense Attaché system; and
 
 (7) Provide foreign intelligence and counterintelligence staff support as directed by the Secretary of Defense.
 
@@ -1099,7 +1103,7 @@ Each element of the Intelligence Community shall have the duties and responsibil
 
 (4) Conduct military intelligence liaison relationships and military intelligence exchange programs with selected cooperative foreign defense establishments and international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order.
 
-(g) INTELLIGENCE ELEMENTS OF THE FEDERAL BUREAU OF INVESTIGATION. Under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the intelligence elements of the Federal Bureau of Investigation shall:
+(g) INTELLIGENCE ELEMENTS OF THE FEDERAL BUREAU OF INVESTIGATION. Under the supervisionof the Attorney General and pursuant to such regulations as the Attorney General may establish, the intelligence elements of the Federal Bureau of Investigation shall:
 
 (1) Collect (including through clandestine means), analyze, produce, and disseminate foreign intelligence and counterintelligence to support national and departmental missions, in accordance with procedural guidelines approved by the Attorney General, after consultation with the Director;
 
@@ -1209,7 +1213,7 @@ Timely, accurate, and insightful information about the activities, capabilities,
 
 Purpose
 
-This Order is intended to enhance human and technical collection techniques, especially those undertaken abroad, and the acquisition of significant foreignintelligence, as well as the detection and countering of international terrorist activities, the spread of weapons of mass destruction, and espionage conducted by foreign powers. Set forth below are certain general principles that, in addition to and consistent with applicable laws, are intended to achieve the proper balance between the acquisition of essential information and protection of individual interests. Nothing in this Order shall be construed to apply to or interfere with any authorized civil or criminal law enforcement responsibility of any department or agency.
+This Order is intended to enhance human and technical collection techniques, especially those undertaken abroad, and the acquisition of significant foreign intelligence, as well as the detection and countering of international terrorist activities, the spread of weapons of mass destruction, and espionage conducted by foreign powers. Set forth below are certain general principles that, in addition to and consistent with applicable laws, are intended to achieve the proper balance between the acquisition of essential information and protection of individual interests. Nothing in this Order shall be construed to apply to or interfere with any authorized civil or criminal law enforcement responsibility of any department or agency.
 
 #### 2\.3
 
@@ -1277,7 +1281,7 @@ Elements of the Intelligence Community are authorized to:
 
 (b) Unless otherwise precluded by law or this Order, participate in law enforcement activities to investigate or prevent clandestine intelligence activities by foreign powers, or international terrorist or narcotics activities;
 
-(c) Provide specialized equipment, technical knowledge, or assistance of expert personnel for use by any department or agency, or, when lives are endangered,to support local law enforcement agencies. Provision of assistance by expert personnel shall be approved in each case by the general counsel of the providing element or department; and
+(c) Provide specialized equipment, technical knowledge, or assistance of expert personnel for use by any department or agency, or, when lives are endangered, to support local law enforcement agencies. Provision of assistance by expert personnel shall be approved in each case by the general counsel of the providing element or department; and
 
 (d) Render any other assistance and cooperation to law enforcement or other civil authorities not precluded by applicable law.
 
@@ -1459,7 +1463,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. In order to enhance the national security of the United States, including preventing, protecting against, responding to, and recovering from natural and manmade disasters, such as acts of terrorism, it is the policy of the United States to promote the education, training, and experience of current and future professionals in national security positions (security professionals) in executive departments and agencies (agencies).
 
-Sec. 2. <i>National Strategy for Professional Development</i>. Not later than 60 days after the date of this order, theAssistant to the President for Homeland Security and Counterterrorism (APHS/CT), in coordination with the Assistant to the President for National Security Affairs (APNSA), shall submit to the President for approval a National Strategy for the Development of Security Professionals (National Strategy). The National Strategy shall set forth a framework that will provide to security professionals access to integrated education, training, and professional experience opportunities for the purpose of enhancing their mission-related knowledge, skills, and experience and thereby improve their capability to safeguard the security of the Nation. Such opportunities shall be provided across organizations, levels of government, and incident management disciplines, as appropriate.
+Sec. 2. <i>National Strategy for Professional Development</i>. Not later than 60 days after the date of this order, the Assistant to the President for Homeland Security and Counterterrorism (APHS/CT), in coordination with the Assistant to the President for National Security Affairs (APNSA), shall submit to the President for approval a National Strategy for the Development of Security Professionals (National Strategy). The National Strategy shall set forth a framework that will provide to security professionals access to integrated education, training, and professional experience opportunities for the purpose of enhancing their mission-related knowledge, skills, and experience and thereby improve their capability to safeguard the security of the Nation. Such opportunities shall be provided across organizations, levels of government, and incident management disciplines, as appropriate.
 
 Sec. 3. <i>Executive Steering Committee</i>. (a) There is established the Security Professional Development Executive Steering Committee (Steering Committee), which shall facilitate the implementation of the National Strategy. Not later than 120 days after the approval of the National Strategy by the President, the Steering Committee shall submit to the APHS/CT and the APNSA an implementation plan (plan) for the National Strategy, and annually thereafter shall submit to the APHS/CT and the APNSA a status report on the implementation of the plan and any recommendations for changes to the National Strategy.
 
@@ -1537,7 +1541,7 @@ Ex. Ord. No. 13462, Feb. 29, 2008, 73 F.R. 11805, as amended by Ex. Ord. No. 135
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to ensure that the President and other officers of theUnited States with responsibility for the security of the Nation and the advancement of its interests have access to accurate, insightful, objective, and timely information concerning the capabilities, intentions, and activities of foreign powers.
+Section 1. <i>Policy</i>. It is the policy of the United States to ensure that the President and other officers of the United States with responsibility for the security of the Nation and the advancement of its interests have access to accurate, insightful, objective, and timely information concerning the capabilities, intentions, and activities of foreign powers.
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
@@ -1689,7 +1693,7 @@ Therefore, pursuant to the Constitution and the laws of the United States of Ame
 
 (a) any provision in Title I of the Act for which the Act expressly provides the date on which the provision shall take effect; and
 
-(b) sections 1021 and 1092 of the Act \[enacting section 404<i>o</i> of this title and provisions set out in a note above, respectively\], relating to the National Counterterrorism Center.
+(b) sections 1021 and 1092 of the Act \[enacting section 404o of this title and provisions set out in a note above, respectively\], relating to the National Counterterrorism Center.
 
 The taking of effect of a provision pursuant to section 1097(a) of the Act and this memorandum shall not affect the construction of such provision by the executive branch as set forth in my Statement of December 17, 2004, upon signing the Act into law.
 

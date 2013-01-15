@@ -54,7 +54,7 @@
 
 #### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
 
-&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programs under this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
+&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programsunder this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Rural areas.
 
@@ -234,7 +234,7 @@
 
 #### (ii) Application of deductible
 
-&emsp;&emsp;&emsp;Before applying clause (i), the individual shall be required to meet the deductible described in section 1395<i>l</i>(b) of this title.
+&emsp;&emsp;&emsp;Before applying clause (i), the individual shall be required to meet the deductible described in section 1395l(b) of this title.
 
 #### (C) Payment on assignment-related basis
 
@@ -290,7 +290,7 @@
 
 #### (11) No administrative or judicial review
 
-&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
 &emsp;&emsp;(A) the establishment of payment amounts under paragraph (5);
 
@@ -458,7 +458,7 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended
 
 #### Study by GAO
 
-Section 4319(c) of Pub. L. 105–33 provided that: “The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: “The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

@@ -28,7 +28,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (c) Use of funds
 
-No part of any payment made under subsection (b) shall be used to defray the expenses of any candidate or delegate who is participating in any presidential nominating convention. Such payments shall be used only—
+No part of any payment made under subsection (b) shall be used to defray the expensesof any candidate or delegate who is participating in any presidential nominating convention. Such payments shall be used only—
 
 &emsp;(1) to defray expenses incurred with respect to a presidential nominating convention (including the payment of deposits) by or on behalf of the national committee receiving such payments; or
 
@@ -62,7 +62,7 @@ If, after the close of a presidential nominating convention and after the nation
 
 #### (g) Certification by Commission
 
-Any major party or minor party may file a statement with the Commission in such form and manner and at such times as it may require, designating the national committee of such party. Such statement shall include the information required by section 303(b) of the Federal Election Campaign Act of 1971, together withsuch additional information as the Commission may require. Upon receipt of a statement filed under the preceding sentences, the Commission promptly shall verify such statement according to such procedures and criteria as it may establish and shall certify to the Secretary for payment in full to any such committee of amounts to which such committee may be entitled under subsection (b). Such certifications shall be subject to an examination and audit which the Commission shall conduct no later than December 31, of the calendar year in which the presidential nominating convention involved is held.
+Any major party or minor party may file a statement with the Commission in such form and manner and at such times as it may require, designating the national committee of such party. Such statement shall include the information required by section 303(b) of the Federal Election Campaign Act of 1971, together with such additional information as the Commission may require. Upon receipt of a statement filed under the preceding sentences, the Commission promptly shall verify such statement according to such procedures and criteria as it may establish and shall certify to the Secretary for payment in full to any such committee of amounts to which such committee may be entitled under subsection (b). Such certifications shall be subject to an examination and audit which the Commission shall conduct no later than December 31, of the calendar year in which the presidential nominating convention involved is held.
 
 #### (h) Repayments
 
@@ -90,7 +90,7 @@ Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
 #### Effective Date of 1984 Amendment
 
-Section 1(c) of Pub. L. 98–355 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1984.”
+Pub. L. 98–355, §1(c), July 11, 1984, 98 Stat. 394, provided that: “The amendments made by this section\[amending this section\] shall take effect on January 1, 1984.”
 
 #### Effective Date of 1980 Amendment
 

@@ -12,7 +12,7 @@ Consideration During Design Phase of Projects.—(1) The Secretary concerned sha
 
 &emsp;(B) supported by the special considerations specified in subsection (c) of such section.
 
-(2) The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
+(2) The Secretary concerned shall require that contracts for construction resulting from suchdesign include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
 
 (c)
 
@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 109–364, §2854(b)(2),(3)(A)(i), inserted heading and sub
 
 Subsec. (b). Pub. L. 109–364, §2854(b)(3), inserted heading.
 
-Subsec. (b)(1). Pub. L. 109–364, §2851(b)(3)(A)(ii), struck out “in those cases in which use of such forms of energy has the potential for reduced energy costs” before period at end.
+Subsec. (b)(1). Pub. L. 109–364, §2851(b)(3)(A)(ii), struck out “in those cases in which use of such formsof energy has the potential for reduced energy costs” before period at end.
 
 Subsecs. (c), (d). Pub. L. 109–364, §2854(b)(4), (5) inserted headings.
 

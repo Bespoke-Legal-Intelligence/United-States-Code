@@ -64,7 +64,7 @@ By the secretary of commerce.—The Secretary of Commerce may designate officers
 
 &emsp;(2)
 
-By the commissioner of customs.—The Commissioner of Customs may designate officers or employees of the Customs Service toenforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+By the commissioner of customs.—The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
 (e)
 

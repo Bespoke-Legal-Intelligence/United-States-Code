@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
-&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Attorney General shall publish and revise at least annually in the Federal Register a list of these andany additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
+&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Attorney General shall publish and revise at least annually in the Federal Register a list of these and any additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
 
 &emsp;(e) “Blasting agent” means any material or mixture, consisting of fuel and oxidizer, intended for blasting, not otherwise defined as an explosive: <i>Provided</i>, That the finished product, as mixed for use or shipment, cannot be detonated by means of a numbered 8 test blasting cap when unconfined.
 
@@ -24,13 +24,13 @@ As used in this chapter—
 
 &emsp;(k) “Attorney General” means the Attorney General of the United States.
 
-&emsp;(<i>l</i>) “Crime punishable by imprisonment for a term exceeding one year” shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Attorney General may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
+&emsp;(l) “Crime punishable by imprisonment for a term exceeding one year” shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Attorney General may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
 &emsp;(m) “Licensee” means any importer, manufacturer, or dealer licensed under the provisions of this chapter.
 
 &emsp;(n) “Distribute” means sell, issue, give, transfer, or otherwise dispose of.
 
-&emsp;(<i>o</i>) “Convention on the Marking of Plastic Explosives” means the Convention on the Marking of Plastic Explosives for the Purpose of Detection, Done at Montreal on 1 March 1991.
+&emsp;(o) “Convention on the Marking of Plastic Explosives” means the Convention on the Marking of Plastic Explosives for the Purpose of Detection, Done at Montreal on 1 March 1991.
 
 &emsp;(p) “Detection agent” means any one of the substances specified in this subsection when introduced into a plastic explosive or formulated in such explosive as a part of the manufacturing process in such a manner as to achieve homogeneous distribution in the finished explosive, including—
 
@@ -52,7 +52,7 @@ As used in this chapter—
 
 &emsp;(t)
 
-Indian Tribe <sup>1</sup>.—The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
+Indian Tribe <sup>1</sup>.—The term “Indian tribe” has the meaning given the term in section 102of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, §236(b), July 29, 2010, 124 Stat. 2286.)
 
@@ -70,13 +70,13 @@ Subsec. (j). Pub. L. 107–296, §1122(a)(1), added subsec. (j) and struck out f
 
 Subsec. (k). Pub. L. 107–296, §1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 
-Subsec. (<i>l</i>). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+Subsec. (l). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
 
 Subsec. (p)(5). Pub. L. 107–296, §1112(e)(3), which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
 
 Subsecs. (r), (s). Pub. L. 107–296, §1122(a)(2), added subsecs. (r) and (s).
 
-<b>1996</b>—Subsecs. (<i>o</i>) to (q). Pub. L. 104–132 added subsecs. (<i>o</i>) to (q).
+<b>1996</b>—Subsecs. (o) to (q). Pub. L. 104–132 added subsecs. (o) to (q).
 
 #### Effective Date of 2002 Amendment
 
@@ -86,11 +86,11 @@ Amendment by section 1122(a) of Pub. L. 107–296 effective 180 days after Nov. 
 
 #### Effective Date of 1996 Amendment
 
-Section 607 of title VI of Pub. L. 104–132 provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
+Pub. L. 104–132, title VI, §607, Apr. 24, 1996, 110 Stat. 1290, provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date
 
-Section 1105(a), (b) of Pub. L. 91–452 provided that:
+Pub. L. 91–452, title XI, §1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provided that:
 
 “(a) Except as provided in subsection (b), the provisions of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect one hundred and twenty days after the date of enactment of this Act \[Oct. 15, 1970\].
 
@@ -110,7 +110,7 @@ Pub. L. 93–639, §1, Jan. 4, 1975, 88 Stat. 2217, provided: “That this Act \
 
 #### Findings and Purposes of Title VI of Pub. L. 104–132
 
-Section 601 of title VI of Pub. L. 104–132 provided that:
+Pub. L. 104–132, title VI, §601, Apr. 24, 1996, 110 Stat. 1287, provided that:
 
 “(a)
 
@@ -132,15 +132,15 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 
-Section 1101 of title XI of Pub. L. 91–452 provided that: “The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Pub. L. 91–452, title XI, §1101, Oct. 15, 1970, 84 Stat. 952, provided that: “The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place anyundue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
 #### Modification of Other Provisions
 
-Section 1104 of title XI of Pub. L. 91–452, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] shall be construed as modifying or affecting any provision of—
+Pub. L. 91–452, title XI, §1104, Oct. 15, 1970, 84 Stat. 959, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Nothing in this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] shall be construed as modifying or affecting any provision of—
 
 &emsp;“(a) The National Firearms Act (chapter 53 of the Internal Revenue Code of 1986);
 
@@ -154,11 +154,11 @@ Section 1104 of title XI of Pub. L. 91–452, as amended by Pub. L. 99–514, §
 
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 
-Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act \[Oct. 15, 1970\] and who has filed an application for a license or permit under the provisions of section 843of such chapter 40 prior to the effective date of such section 843 \[see Effective Date note set out above\] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
+Pub. L. 91–452, title XI, §1105(c), Oct. 15, 1970, 84 Stat. 960, provided that: “Any person (as defined in section 841(a) of title 18, United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act \[Oct. 15, 1970\] and who has filed an application for a license or permit under the provisions of section 843 of such chapter 40 prior to the effective date of such section 843 \[see Effective Date note set out above\] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
 
 #### Authorization of Appropriations
 
-Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
+Pub. L. 91–452, title XI, §1107, Oct. 15, 1970, 84 Stat. 960, provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -12,7 +12,7 @@ To determine the actual legitimate original cost of and the net investment in a 
 
 #### (c) Cooperation with executive departments; information and aid furnished Commission
 
-To cooperate with the executive departments and other agencies of State or National Governments in such investigations; and for such purpose the several departments and agencies of the National Government are authorized and directed upon the request of the Commission, to furnish such records, papers, and information in their possession as may be requested by theCommission, and temporarily to detail to the Commission such officers or experts as may be necessary in such investigations.
+To cooperate with the executive departments and other agencies of State or National Governments in such investigations; and for such purpose the several departments and agencies of the National Government are authorized and directed upon the request of the Commission, to furnish such records, papers, and information in their possession as may be requested by the Commission, and temporarily to detail to the Commission such officers or experts as may be necessary in such investigations.
 
 #### (d) Publication of information, etc.; reports to Congress
 
@@ -46,7 +46,7 @@ Subsecs. (b), (c). Act Aug. 26, 1935, §202, added subsec. (b) and redesignated 
 
 Subsec. (d). Act Aug. 26, 1935, §202, redesignated subsec. (c) as (d) and substituted “3d day of January” for “first Monday in December” in second sentence. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Act Aug. 26, 1935, §202, redesignated subsec. (d) as (e) and substituted “streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States” for “navigable waters of the United States” and “subsection (f)” for “subsection (e)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Act Aug. 26, 1935, §202, redesignated subsec. (d) as (e) and substituted “streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nationsand among the several States” for “navigable waters of the United States” and “subsection (f)” for “subsection (e)”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Act Aug. 26, 1935, §202, redesignated subsec. (e) as (f) and substituted “once each week for four weeks” for “for eight weeks”. Former section (f), which related to the power of the Commission to prescribe regulations for the establishment of a system of accounts and the maintenance thereof, was struck out by act Aug. 26, 1935.
 
@@ -62,11 +62,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1986 Amendment
 
-Section 18 of Pub. L. 99–495 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[enacting section 823b of this title and amending this section and sections 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title\] shall take effect with respect to each license, permit, or exemption issued under the Federal Power Act after the enactment of this Act \[Oct. 16, 1986\]. The amendments made by sections 6 and 12 of this Act \[enacting section 823b of this title and amending section 817 of this title\] shall apply to licenses, permits, and exemptions without regard to when issued.”
+Pub. L. 99–495, §18, Oct. 16, 1986, 100 Stat. 1259, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[enacting section 823b of this title and amending this section and sections 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title\] shall take effect with respect to each license, permit, or exemption issued under the Federal Power Act after the enactment of this Act \[Oct. 16, 1986\]. The amendments made by sections 6 and 12 of this Act \[enacting section 823b of this title and amending section 817 of this title\] shall apply to licenses, permits, and exemptions without regard to when issued.”
 
 #### Savings Provision
 
-Section 17(a) of Pub. L. 99–495 provided that: “Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this Act—
+Pub. L. 99–495, §17(a), Oct. 16, 1986, 100 Stat. 1259, provided that: “Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this Act—
 
 &emsp;“(1) affect the rights or jurisdiction of the United States, the States, Indian tribes, or other entities over waters of any river or stream or over any ground water resource;
 
@@ -88,7 +88,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 #### Improvement at Existing Federal Facilities
 
-Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation's principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years afterOct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
+Pub. L. 102–486, title XXIV, §2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, §6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, §1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation's principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
 
 #### Water Conservation and Energy Production
 
@@ -112,7 +112,7 @@ Studies.—The Secretary of the Interior, acting pursuant to the Federal reclama
 
 “(b)
 
-Consultation.—In preparing feasibility studies pursuant to this section, the Secretary of the Interior shall consult with, and seek the recommendations of, affected State, local and Indian tribal interests, and shall provide for appropriate public comment.
+Consultation.—In preparing feasibility studies pursuant to this section, the Secretary of the Interiorshall consult with, and seek the recommendations of, affected State, local and Indian tribal interests, and shall provide for appropriate public comment.
 
 “(c)
 

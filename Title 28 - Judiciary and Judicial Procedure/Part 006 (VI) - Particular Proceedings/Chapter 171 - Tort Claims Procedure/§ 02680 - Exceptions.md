@@ -2,11 +2,11 @@
 
 The provisions of this chapter and section 1346(b) of this title shall not apply to—
 
-(a) Any claim based upon an act or omission of an employee of the Government, exercising due care, in the execution of a statute or regulation, whether or not such statute or regulation be valid, or based upon the exercise or performance or the failure to exercise or perform a discretionary function or duty on the part of a federal agency or an employee of the Government, whether or not the discretion involved be abused.
+(a) Any claim based upon an act or omission of an employee of the Government, exercising due care, in the execution of a statute or regulation, whether or not such statute or regulation be valid, or based upon the exercise or performanceor the failure to exercise or perform a discretionary function or duty on the part of a federal agency or an employee of the Government, whether or not the discretion involved be abused.
 
 (b) Any claim arising out of the loss, miscarriage, or negligent transmission of letters or postal matter.
 
-(c) Any claim arising in respect of the assessment or collection of any tax or customs duty, or the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officerof customs or excise or any other law enforcement officer, if—
+(c) Any claim arising in respect of the assessment or collection of any tax or customs duty, or the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—
 
 &emsp;(1) the property was seized for the purpose of forfeiture under any provision of Federal law providing for the forfeiture of property other than as a sentence imposed upon conviction of a criminal offense;
 
@@ -32,7 +32,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 (k) Any claim arising in a foreign country.
 
-(<i>l</i>) Any claim arising from the activities of the Tennessee Valley Authority.
+(l) Any claim arising from the activities of the Tennessee Valley Authority.
 
 (m) Any claim arising from the activities of the Panama Canal Company.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 86–168 effective Jan. 1, 1960, see section 203(c) of Pub.
 
 #### Effective Date of 1950 Amendment
 
-Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilitiesand appurtenances related thereto, see section 14 of act Sept. 26, 1950.
+Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilities and appurtenances related thereto, see section 14 of act Sept. 26, 1950.
 
 #### Transfer of Functions
 

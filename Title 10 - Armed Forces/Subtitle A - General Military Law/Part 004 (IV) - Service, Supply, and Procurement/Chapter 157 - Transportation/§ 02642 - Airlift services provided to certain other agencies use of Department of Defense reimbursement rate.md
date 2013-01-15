@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense may authorize the use of the Department of
 
 &emsp;(2) For military airlift services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of the Department of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
 
-&emsp;(3) During the period beginning on October 28, 2009, and ending on October 28, 2014, for military airlift services provided to any element of the Federal Government outside theDepartment of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of airlift capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial air industry.
+&emsp;(3) During the period beginning on October 28, 2009, and ending on October 28, 2014, for military airlift services provided to any element of the Federal Government outside the Department of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of airlift capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial air industry.
 
 (b)
 

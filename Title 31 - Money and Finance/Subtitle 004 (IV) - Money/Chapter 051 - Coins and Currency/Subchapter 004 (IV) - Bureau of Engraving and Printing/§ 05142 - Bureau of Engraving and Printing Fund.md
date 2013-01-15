@@ -72,7 +72,7 @@ In subsection (b)(2), the words “amounts received by the Bureau” are substit
 
 In subsection (c)(1), the words “amounts appropriated to the Fund” are substituted for “an initial appropriation by the Congress to the fund of not to exceed $5,000,000 and such additional amounts as from time to time may be appropriated for the purposes of the fund” to eliminate unnecessary words.
 
-In subsection (c)(2), the words “such inventories and other physical assets to be capitalized at fair and reasonable values to be determined by the Secretary” are omitted as executed. The words “receivables and the inventories” are omitted as covered by “physical assets”. The words “unexpended balances of appropriations” are omitted as unnecessary because of clause (1).
+In subsection (c)(2), the words “such inventories and other physical assets to be capitalized at fair and reasonable values to be determined by the Secretary” areomitted as executed. The words “receivables and the inventories” are omitted as covered by “physical assets”. The words “unexpended balances of appropriations” are omitted as unnecessary because of clause (1).
 
 In subsection (c)(3), the words “$5,000,000, to remain available until expended” are omitted as unnecessary because of the source provision restated in subsection (a)(2) of this section. The text of 31:181a(a)(3) and (b) is omitted as executed.
 

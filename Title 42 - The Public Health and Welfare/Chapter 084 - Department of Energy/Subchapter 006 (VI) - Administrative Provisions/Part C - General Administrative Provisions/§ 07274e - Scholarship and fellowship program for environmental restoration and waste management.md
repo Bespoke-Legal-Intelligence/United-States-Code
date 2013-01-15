@@ -24,7 +24,7 @@ An agreement between the Secretary and a participant in the scholarship and fell
 
 &emsp;(1) The Secretary's agreement to provide the participant with educational assistance for a specified number of school years (not exceeding 5) during which the participant is pursuing a program of education in a qualifying field of study. The assistance may include payment of tuition, fees, books, laboratory expenses, and a stipend.
 
-&emsp;(2) The participant's agreement (A) to accept such educational assistance, (B) to maintainenrollment and attendance in the program of education until completed, (C) while enrolled in such program, to maintain satisfactory academic progress as prescribed by the institution of higher education in which the participant is enrolled, and (D) after completion of the program of education, to serve as a full-time employee in an environmental restoration or waste management position in the Department of Energy for a period of 12 months for each school year or part thereof for which the participant is provided a scholarship or fellowship under the program established under this section.
+&emsp;(2) The participant's agreement (A) to accept such educational assistance, (B) to maintain enrollment and attendance in the program of education until completed, (C) while enrolled in such program, to maintain satisfactory academic progress as prescribed by the institution of higher education in which the participant is enrolled, and (D) after completion of the program of education, to serve as a full-time employee in an environmental restoration or waste management position in the Department of Energy for a period of 12 months for each school year or part thereof for which the participant is provided a scholarship or fellowship under the program established under this section.
 
 #### (d) Repayment
 
@@ -70,7 +70,7 @@ Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,00
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I ofchapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 3101(9)(B), referred to in subsec. (i), is section 3101(9)(B) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Section 3156(b)(2) of Pub. L. 103–337 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995.”
+Pub. L. 103–337, div. C, title XXXI, §3156(b)(2), Oct. 5, 1994, 108 Stat. 3092, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995.”
 

@@ -50,7 +50,7 @@ Refrigeration Equipment Demonstration Program.—(1) The Secretary of Defense sh
 
 “(2) The Secretary shall designate 50 facilities owned or operated by the Department of Defense for participation in the demonstration program under this subsection.
 
-“(3) The head of each facility designated pursuant to paragraph (2) and the Director of the Defense LogisticsAgency shall jointly audit the refrigeration equipment at the facility in order—
+“(3) The head of each facility designated pursuant to paragraph (2) and the Director of the Defense Logistics Agency shall jointly audit the refrigeration equipment at the facility in order—
 
 &emsp;“(A) to identify any potential improvements that would increase the energy efficiency of the refrigeration equipment at that facility; and
 

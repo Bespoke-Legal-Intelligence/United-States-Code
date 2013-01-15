@@ -4,7 +4,7 @@
 
 (1) The Commission shall prescribe rules prohibiting deceptive telemarketing acts or practices and other abusive telemarketing acts or practices.
 
-(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals that assist or facilitate deceptive telemarketing, including credit card laundering.
+(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals thatassist or facilitate deceptive telemarketing, including credit card laundering.
 
 (3) The Commission shall include in such rules respecting other abusive telemarketing acts or practices—
 

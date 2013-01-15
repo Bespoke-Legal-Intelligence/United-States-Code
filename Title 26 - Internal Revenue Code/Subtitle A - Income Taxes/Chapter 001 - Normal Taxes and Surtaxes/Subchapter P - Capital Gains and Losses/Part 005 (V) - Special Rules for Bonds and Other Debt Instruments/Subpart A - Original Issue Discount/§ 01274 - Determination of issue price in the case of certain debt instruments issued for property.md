@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (ii) $1,000,000 limitation
 
-&emsp;&emsp;&emsp;Clause (i) shall apply only if it can be determined at the time of the sale or exchange that the sales price cannot exceed $1,000,000. For purposes of the preceding sentence, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
+&emsp;&emsp;&emsp;Clause (i) shall apply only if it can be determined at the time of the sale or exchange that the sales price cannot exceed$1,000,000. For purposes of the preceding sentence, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
 
 #### (B) Sales of principal residences
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1985 Amendment
 
-Section 105(a) of Pub. L. 99–121, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–121, title I, §105(a), Oct. 11, 1985, 99 Stat. 510, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

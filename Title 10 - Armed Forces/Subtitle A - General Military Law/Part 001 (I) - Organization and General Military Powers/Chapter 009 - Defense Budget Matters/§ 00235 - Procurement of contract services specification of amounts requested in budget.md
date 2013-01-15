@@ -8,7 +8,7 @@ Submission With Annual Budget Justification Materials.—In the budget justifica
 
 Information Provided.—For each budget account, the materials submitted shall clearly and separately identify—
 
-&emsp;(1) the amount requested for the procurement of contract services for each Departmentof Defense component, installation, or activity; and
+&emsp;(1) the amount requested for the procurement of contract services for each Department of Defense component, installation, or activity; and
 
 &emsp;(2) the number of full-time contractor employees (or the equivalent of full-time in the case of part-time contractor employees) projected and justified for each Department of Defense component, installation, or activity based on the inventory of contracts for services required by subsection (c) of section 2330a of this title and the review required by subsection (e) of such section.
 

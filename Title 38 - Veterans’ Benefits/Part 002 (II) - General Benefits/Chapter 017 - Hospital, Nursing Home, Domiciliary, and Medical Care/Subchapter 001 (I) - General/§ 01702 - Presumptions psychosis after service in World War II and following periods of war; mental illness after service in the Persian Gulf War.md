@@ -22,13 +22,13 @@ Subsecs. (a), (b). Pub. L. 110–181, §1708(a)(1), designated existing text as 
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 602 of this title as this section.
 
-Pub. L. 102–25 substituted “the Vietnam era, or the Persian Gulf War” for “or the Vietnam era”, struck out “or” before “before May 8, 1977”, and inserted “or before the end of the two-year period beginning on the last day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War,” after “Vietnam era veterans,”.
+Pub. L. 102–25 substituted “the Vietnam era, or the Persian Gulf War” for “or the Vietnam era”, struck out “or” before “before May 8, 1977”, and inserted “or before the end of the two-year period beginning on thelast day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War,” after “Vietnam era veterans,”.
 
 <b>1986</b>—Pub. L. 99–576 struck out “his” before “discharge”.
 
 <b>1982</b>—Pub. L. 97–295 substituted “before February 1, 1957, in the case of a veteran of the Korean conflict, or before May 8, 1977,” for “or February 1, 1957, in the case of a veteran of the Korean conflict, or before the expiration of two years following termination of the Vietnam era”.
 
-<b>1967</b>—Pub. L. 90–77 made the presumption relating to psychosis applicable to any veteran of the Vietnam erawho developed an active psychosis within two years after his discharge from active service and before the expiration of two years following termination of the Vietnam era.
+<b>1967</b>—Pub. L. 90–77 made the presumption relating to psychosis applicable to any veteran of the Vietnam era who developed an active psychosis within two years after his discharge from active service and before the expiration of two years following termination of the Vietnam era.
 
 #### Effective Date of 1967 Amendment
 

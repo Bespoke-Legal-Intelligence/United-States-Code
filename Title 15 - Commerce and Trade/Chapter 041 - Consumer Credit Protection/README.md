@@ -84,7 +84,7 @@
 
 |  |  |
 | :--- | ---: |
-| 1666\. | Correction of billing errors. |
+| [1666\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666%20-%20Correction%20of%20billing%20errors.md) | Correction of billing errors. |
 | [1666a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666a%20-%20Regulation%20of%20credit%20reports.md) | Regulation of credit reports. |
 | [1666b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666b%20-%20Timing%20of%20payments.md) | Timing of payments. |
 | [1666c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666c%20-%20Prompt%20and%20fair%20crediting%20of%20payments.md) | Prompt and fair crediting of payments. |
@@ -240,12 +240,12 @@
 | [1693j.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693j%20-%20Suspension%20of%20obligations.md) | Suspension of obligations. |
 | [1693k.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693k%20-%20Compulsory%20use%20of%20electronic%20fund%20transfers.md) | Compulsory use of electronic fund transfers. |
 | 1693<i>l.</i> | Waiver of rights. |
-| 1693<i>l</i>–1. | General-use prepaid cards, gift certificates, and store gift cards. |
+| 1693l–1. | General-use prepaid cards, gift certificates, and store gift cards. |
 | [1693m.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693m%20-%20Civil%20liability.md) | Civil liability. |
 | [1693n.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693n%20-%20Criminal%20liability.md) | Criminal liability. |
 | 1693<i>o.</i> | Administrative enforcement. |
-| 1693<i>o</i>–1. | Remittance transfers. |
-| 1693<i>o</i>–2. | Reasonable fees and rules for payment card transactions. |
+| 1693o–1. | Remittance transfers. |
+| 1693o–2. | Reasonable fees and rules for payment card transactions. |
 | [1693p.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693p%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [1693q.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693q%20-%20Relation%20to%20State%20laws.md) | Relation to State laws. |
 | [1693r.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693r%20-%20Exemption%20for%20State%20regulation.md) | Exemption for State regulation. |

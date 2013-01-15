@@ -72,7 +72,7 @@ For purposes of this chapter—
 
 #### (4) Withholding agent
 
-&emsp;The term “withholding agent” means all persons, in whatever capacity acting, havingthe control, receipt, custody, disposal, or payment of any withholdable payment.
+&emsp;The term “withholding agent” means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.
 
 #### (5) Foreign entity
 

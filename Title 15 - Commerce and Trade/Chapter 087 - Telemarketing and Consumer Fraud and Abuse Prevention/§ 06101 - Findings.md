@@ -10,7 +10,7 @@ The Congress makes the following findings:
 
 &emsp;(4) Consumers are victimized by other forms of telemarketing deception and abuse.
 
-&emsp;(5) Consequently, Congress should enact legislation that will offer consumers necessary protection from telemarketing deception and abuse.
+&emsp;(5) Consequently, Congress should enact legislation that will offer consumers necessaryprotection from telemarketing deception and abuse.
 
 (Pub. L. 103–297, §2, Aug. 16, 1994, 108 Stat. 1545.)
 
@@ -24,7 +24,7 @@ Pub. L. 106–534, §1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Ac
 
 #### Short Title
 
-Section 1 of Pub. L. 103–297 provided that: “This Act \[enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title\] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
+Pub. L. 103–297, §1, Aug. 16, 1994, 108 Stat. 1545, provided that: “This Act \[enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title\] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
 
 #### Congressional Findings
 

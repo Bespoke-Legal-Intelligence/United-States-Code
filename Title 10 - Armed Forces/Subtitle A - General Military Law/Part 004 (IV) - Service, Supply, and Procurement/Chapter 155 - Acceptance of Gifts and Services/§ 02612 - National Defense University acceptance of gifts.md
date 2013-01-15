@@ -22,7 +22,7 @@
 
 (f) The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 107–314, div. A, title IX, §931(a), Dec. 2, 2002, 116 Stat. 2624; amended Pub. L.108–136, div. A, title IX, §931(d), Nov. 24, 2003, 117 Stat. 1581.)
+(Added Pub. L. 107–314, div. A, title IX, §931(a), Dec. 2, 2002, 116 Stat. 2624; amended Pub. L. 108–136, div. A, title IX, §931(d), Nov. 24, 2003, 117 Stat. 1581.)
 
 #### Amendments
 

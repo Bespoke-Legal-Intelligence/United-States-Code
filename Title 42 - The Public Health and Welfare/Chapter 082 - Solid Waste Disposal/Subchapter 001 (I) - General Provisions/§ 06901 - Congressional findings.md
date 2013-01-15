@@ -76,6 +76,10 @@ Provisions similar to those in this section were contained in section 3251 of th
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–609 substituted “solid waste” for “solid-waste”.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–195, §1, Oct. 5, 2012, 126 Stat. 1452, provided that: “This Act \[enacting section 6939g of this title\] may be cited as the ‘Hazardous Waste Electronic Manifest Establishment Act’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–58, title XV, §1521, Aug. 8, 2005, 119 Stat. 1092, provided that: “This subtitle \[subtitle B (§§1521–1533) of title XV of Pub. L. 109–58, enacting sections 6991j to 6991m of this title, amending sections 6991 to 6991f, 6991h, and 6991i of this title, and enacting provisions set out as notes under section 6991b of this title\] may be cited as the ‘Underground Storage Tank Compliance Act’.”
@@ -94,17 +98,17 @@ Pub. L. 100–582, §1, Nov. 1, 1988, 102 Stat. 2950, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
+Pub. L. 98–616, §1, Nov. 8, 1984, 98 Stat. 3221, provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
 
 #### Short Title of 1980 Amendments
 
 Pub. L. 96–482, §1, Oct. 21, 1980, 94 Stat. 2334, provided: “This Act \[enacting sections 6933, 6934, 6941a, 6955, and 6956 of this title, amending sections 6903, 6905, 6911, 6912, 6916, 6921, 6922, 6924, 6925, 6927 to 6931, 6941 to 6943, 6945, 6946, 6948, 6949, 6952, 6953, 6962, 6963, 6964, 6971, 6973, 6974, 6976, 6979, and 6982 of this title; and enacting and repealing provisions set out as a note under section 6981 of this title\] may be cited as the ‘Solid Waste Disposal Act Amendments of 1980’.”
 
-Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes undersections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
+Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes under sections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
+Pub. L. 94–580, §1, Oct. 21, 1976, 90 Stat. 2795, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
 
 #### Short Title
 

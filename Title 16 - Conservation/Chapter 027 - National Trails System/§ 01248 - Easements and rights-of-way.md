@@ -18,7 +18,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 (2) All such retained rights-of-way, or portions thereof, which are located outside the boundaries of a conservation system unit or a National Forest but adjacent to or contiguous with any portion of the public lands shall be managed pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\] and other applicable law, including this section.
 
-(3) All such retained rights-of-way, or portions thereof, which are located outside the boundaries of a conservation system unit or NationalForest which the Secretary of the Interior determines suitable for use as a public recreational trail or other recreational purposes shall be managed by the Secretary for such uses, as well as for such other uses as the Secretary determines to be appropriate pursuant to applicable laws, as long as such uses do not preclude trail use.
+(3) All such retained rights-of-way, or portions thereof, which are located outside the boundaries of a conservation system unit or National Forest which the Secretary of the Interior determines suitable for use as a public recreational trail or other recreational purposes shall be managed by the Secretary for such uses, as well as for such other uses as the Secretary determines to be appropriate pursuant to applicable laws, as long as such uses do not preclude trail use.
 
 #### (e) Release and quitclaim; conditions; sale; proceeds
 
@@ -38,7 +38,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 > Prior to conducting any such sale, the Secretary shall take appropriate steps to afford a unit of State or local government or any other entity an opportunity to seek to obtain such portion pursuant to paragraph (1) of this subsection.
 
-(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460<i>l</i>–5 of this title.
+(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460l–5 of this title.
 
 (4) The Secretary of the Interior shall annually report to the Congress the total proceeds from sales under paragraph (2) during the preceding fiscal year. Such report shall be included in the President's annual budget submitted to the Congress.
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
@@ -78,7 +78,7 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 #### Abandoned Railroad Grants; Congressional Findings
 
-Section 2 of Pub. L. 100–470 provided that: “Congress hereby finds that—
+Pub. L. 100–470, §2, Oct. 4, 1988, 102 Stat. 2281, provided that: “Congress hereby finds that—
 
 &emsp;“(1) State and local governments have a special role to play under the National Trails System Act \[16 U.S.C. 1241 et seq.\] in acquiring and developing trails for recreation and conservation purposes.
 
@@ -88,9 +88,9 @@ Section 2 of Pub. L. 100–470 provided that: “Congress hereby finds that—
 
 #### Condemnation
 
-Section 5 of Pub. L. 100–470 provided that:
+Pub. L. 100–470, §5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 
-“(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
+“(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of thistitle\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
 “(b) Nothing in this Act shall be construed to expand or diminish existing condemnation authorities contained in the National Trails System Act, as amended \[16 U.S.C. 1241 et seq.\].”
 

@@ -64,7 +64,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;If at any time the Vaccine Injury Compensation Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) be paid in full in the order in which they are finally determined.
 
-(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct. 21, 1998, 112 Stat. 2681–741, 2681–909; Pub. L. 106–170, title V, §523(b)(1), (2), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 106–554, §1(a)(7) \[title III, §318(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct.21, 1998, 112 Stat. 2681–741, 2681–909; Pub. L. 106–170, title V, §523(b)(1), (2), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 106–554, §1(a)(7) \[title III, §318(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### References in Text
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 106–170 effective as if included in the provisions of the
 
 Pub. L. 105–277, div. C, title XV, §1504(b), Oct. 21, 1998, 112 Stat. 2681–742, which provided that the amendments made to this section by Pub. L. 105–277, §1504, were to take effect as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which they related, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
-Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to fiscal years beginning after September 30, 1989.”
+Pub. L. 101–239, title VII, §7841(g)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 100–647 effective as if included in the amendments made b
 
 #### Effective Date
 
-Section 9202(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1988.”
+Pub. L. 100–203, title IX, §9202(c), Dec. 22, 1987, 101 Stat. 1330–331, provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1988.”
 

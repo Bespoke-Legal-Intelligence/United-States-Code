@@ -22,7 +22,7 @@ Provisions similar to those in this section were contained in the following prio
 
 <b>2010</b>—Pub. L. 111–259 added subsec. (b), designated existing provisions as subsec. (a), inserted heading, substituted “Director of National Intelligence” for “Director of Central Intelligence” and “intelligence community” for “Intelligence Community”, and struck out at end “For purposes of this provision, the term ‘Intelligence Community’ has the same meaning as set forth in paragraph 3.4(f) of Executive Order 12333, dated December 4, 1981, or successor orders.”
 
-#### Enhanced Procurement Authority to Manage Supply Chain Risk
+#### Enhanced Procurement Authority To Manage Supply Chain Risk
 
 Pub. L. 112–87, title III, §309, Jan. 3, 2012, 125 Stat. 1883, provided that:
 
@@ -36,7 +36,7 @@ Covered agency.—The term ‘covered agency’ means any element of the intelli
 
 &emsp;“(2)
 
-Covered item of supply.—The term ‘covered item of supply’ means an item of information technology (as that term is defined in section 11101 of title 40, United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
+Covered item of supply.—The term ‘covered item of supply’ means an item of information technology (as that term is defined in section 11101 oftitle 40, United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
 
 &emsp;“(3)
 

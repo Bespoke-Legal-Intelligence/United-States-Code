@@ -12,5 +12,5 @@ Another section 1123 of act Aug. 14, 1935, was renumbered section 1123A, and is 
 
 #### Effective Date
 
-Section 555(b) of Pub. L. 103–382 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions pending on the date of the enactment of this Act \[Oct. 20, 1994\] and to actions brought on or after such date of enactment.”
+Pub. L. 103–382, title V, §555(b), Oct. 20, 1994, 108 Stat. 4058, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions pending on the date of the enactment of this Act \[Oct. 20, 1994\] and to actions brought on or after such date of enactment.”
 

@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 97–248, §222(e)(1)(B), struck out “partial or” befor
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certainpartial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
+Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -34,9 +34,9 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to distribution made in any taxable year of the distributing corporation beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
+Amendment by Pub. L. 88–272 applicable to distribution made in any taxable year of the distributing corporation beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
 #### Liquidations Before January 1, 1966
 
-Section 225(h) of Pub. L. 88–272 provided that in the case of corporations referred to in former subsec. (g)(3) of this section the amendments made by section 225 of Pub. L. 88–272 do not apply if there is a complete liquidation of such corporation and if the distribution of all the property under such liquidation occurs before Jan. 1, 1966, except for certain liquidations to which section 332 of this title applies.
+Pub. L. 88–272, title II, §225(h), Feb. 26, 1964, 78 Stat. 90, provided that in the case of corporations referred to in former subsec. (g)(3) of this section the amendments made by section 225 of Pub. L. 88–272 do not apply if there is a complete liquidation of such corporation and if the distribution of all the property under such liquidation occurs before Jan. 1, 1966, except for certain liquidations to which section 332 of this title applies.
 

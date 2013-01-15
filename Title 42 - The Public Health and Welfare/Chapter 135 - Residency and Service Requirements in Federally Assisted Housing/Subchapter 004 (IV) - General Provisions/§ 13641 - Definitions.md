@@ -18,7 +18,7 @@ For purposes of this title: <sup>1</sup>
 
 &emsp;&emsp;(D) housing that is assisted under section 1701q of title 12, as such section existed before November 28, 1990;
 
-&emsp;&emsp;(E) housing financed by a loan or mortgage insured under section 1715<i>l</i>(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715<i>l</i>(d)(5) of title 12;
+&emsp;&emsp;(E) housing financed by a loan or mortgage insured under section 1715l(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715l(d)(5) of title 12;
 
 &emsp;&emsp;(F) housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12;
 
@@ -42,7 +42,7 @@ For purposes of this title: <sup>1</sup>
 
 #### References in Text
 
-This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3802, which enacted this chapter, amended sections 1437a, 1437c to 1437g, 1437<i>l</i>, 1437<i>o</i>, 1438, 8011 to 8013, 12705, 12901 to 12910, and 12912 of this title and section 1701q of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1437a, 8011, and 12901 of this title and section 1701q of Title 12, and amended provisions set out as a note under section 1701q of Title 12. For complete classification of this title to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
+This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3802, which enacted this chapter, amended sections 1437a, 1437c to 1437g, 1437l, 1437o, 1438, 8011 to 8013, 12705, 12901 to 12910, and 12912 of this title and section 1701q of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1437a, 8011, and 12901 of this title and section 1701q of Title 12, and amended provisions set out as a note under section 1701q of Title 12. For complete classification of this title to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
 
 Section 8013 of this title, referred to in par. (2)(H), was in the original “section 811 of the Cranston-Gonzalez Affording Housing Act (42 U.S.C. 8013)”, and was translated as reading “section 811 of the Cranston-Gonzalez National Affordable Housing Act”, which is classified to section 8013 of this title, to reflect the probable intent of Congress.
 

@@ -34,7 +34,7 @@ Pub. L. 94–51 authorized appropriation of $11,967,000 to carry out provisions 
 
 #### Effective Date of 1988 Amendment
 
-Section 701 of Pub. L. 100–532 provided that amendment made by Pub. L. 100–532 is effective Oct. 1, 1988.
+Pub. L. 100–532, title VII, §701, Oct. 25, 1988, 102 Stat. 2679, provided that amendment made by Pub. L. 100–532 is effective Oct. 1, 1988.
 
 #### Effective Date
 

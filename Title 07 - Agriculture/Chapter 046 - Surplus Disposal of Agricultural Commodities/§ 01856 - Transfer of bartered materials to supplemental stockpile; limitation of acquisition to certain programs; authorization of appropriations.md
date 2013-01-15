@@ -30,7 +30,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
+Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, forconsumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

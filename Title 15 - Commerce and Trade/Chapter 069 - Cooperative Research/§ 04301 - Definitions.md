@@ -32,7 +32,7 @@
 
 &emsp;(7) The term “standards development activity” means any action taken by a standards development organization for the purpose of developing, promulgating, revising, amending, reissuing, interpreting, or otherwise maintaining a voluntary consensus standard, or using such standard in conformity assessment activities, including actions relating to the intellectual property policies of the standards development organization.
 
-&emsp;(8) The term “standards development organization” means a domestic or international organization that plans, develops, establishes, or coordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term “standards development organization” shall not, for purposes of this chapter, include the parties participating in the standards development organization.
+&emsp;(8) The term “standards development organization” means a domestic or international organization that plans, develops, establishes, orcoordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term “standards development organization” shall not, for purposes of this chapter, include the parties participating in the standards development organization.
 
 &emsp;(9) The term “technical standard” has the meaning given such term in section 12(d)(4) <sup>1</sup> of the National Technology Transfer and Advancement Act of 1995.
 
@@ -106,11 +106,11 @@ Pub. L. 108–237, title I, §101, June 22, 2004, 118 Stat. 661, provided that: 
 
 #### Short Title of 1993 Amendment
 
-Section 1 of Pub. L. 103–42 provided that: “This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
+Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 98–462, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
+Pub. L. 98–462, §1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
 
 #### Construction of 2004 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;“(10) As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 
-Section 2 of Pub. L. 103–42 provided that:
+Pub. L. 103–42, §2, June 10, 1993, 107 Stat. 117, provided that:
 
 “(a)
 

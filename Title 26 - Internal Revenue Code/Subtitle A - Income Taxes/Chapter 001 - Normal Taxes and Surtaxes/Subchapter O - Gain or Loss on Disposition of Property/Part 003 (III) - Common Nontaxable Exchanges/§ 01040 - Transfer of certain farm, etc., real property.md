@@ -14,17 +14,11 @@ The basis of property acquired in a transfer with respect to which gain realized
 
 (Added Pub. L. 94–455, title XX, §2005(b), Oct. 4, 1976, 90 Stat. 1877; amended Pub. L. 95–600, title VII, §702(d)(3), Nov. 6, 1978, 92 Stat. 2929; Pub. L. 96–222, title I, §105(a)(5)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–223, title IV, §401(c)(2)(A), Apr. 2, 1980, 94 Stat. 300; Pub. L. 97–34, title IV, §421(j)(2)(B), Aug. 13, 1981, 95 Stat. 312; Pub. L. 97–448, title I, §104(b)(3)(A), (B), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 107–16, title V, §542(d)(1), June 7, 2001, 115 Stat. 84; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–312, §§301(a), 304, temporarily amended section to read as if amendment by Pub. L. 107–16, §542(d)(1), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Pub. L. 111–312 amended section to read as if amendment by Pub. L. 107–16, §542(d)(1), had never been enacted. See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–16, §§542(d)(1), 901, temporarily amended section generally. Prior to amendment, text read as follows:
+<b>2001</b>—Pub. L. 107–16, §542(d)(1), amended section generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -32,15 +26,13 @@ General rule.—If the executor of the estate of any decedent transfers to a qua
 
 “(b)
 
-Similar rule for certain trusts.—To the extent provided in regulations prescribed by the Secretary, a rule similar to the rule provided in subsection (a) shall apply where the trustee of a trust (any portion of which is included in the gross estate of the decedent) transfers property with respect to which an election was made under section 2032A.
+Similar rule for certain trusts.—To the extent provided in regulations prescribed by the Secretary, a rule similar to the rule provided in subsection (a) shall apply where the trustee of a trust (any portion of which is included in the gross estate of the decedent)transfers property with respect to which an election was made under section 2032A.
 
 “(c)
 
 Basis of property acquired in transfer described in subsection (a
 
 ) or (b).—The basis of property acquired in a transfer with respect to which gain realized is not recognized by reason of subsection (a) or (b) shall be the basis of such property immediately before the transfer increased by the amount of the gain recognized to the estate or trust on the transfer.”
-
-> See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–448, §104(b)(3)(A), substituted “on the date of such transfer” for “on the date of such exchange”.
 
@@ -60,17 +52,13 @@ Subsec. (b). Pub. L. 97–34 substituted “shall apply where the trustee of a t
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “chapter 11 (determined without regard to section 2032A)” for “chapter 11”.
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
-Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
-
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -80,11 +68,11 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by Pub. L. 97–34 applicable with respect to the estates of decedents dying after Dec. 31, 1976, upon compliance with certain conditions relating to timely election requirement, reinstatement of elections, and statute of limitations, see section 421(k)(5) of Pub. L. 97–34, set out as a note under section 2032A of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–223 applicable in respect of decedents dying after Dec. 31, 1976, see section 401(e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Section 105(a)(5)(B) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 515 of the Revenue Act of 1978 \[section 515 of Pub. L. 95–600 which deferred carryover basis rules until Dec. 31, 1979\], section 1040 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subparagraph (A) \[amending this section\]) shall apply with respect to the estates of decedents dying after December 31, 1976.”
+Pub. L. 96–222, title I, §105(a)(5)(B), Apr. 1, 1980, 94 Stat. 219, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 515 of the Revenue Act of 1978 \[section 515 of Pub. L. 95–600 which deferred carryover basis rules until Dec. 31, 1979\], section 1040 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subparagraph (A) \[amending this section\]) shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1978 Amendment
 

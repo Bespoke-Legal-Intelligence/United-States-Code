@@ -76,5 +76,5 @@ Pub. L. 107–68, title I, §129(c)(2), Nov. 12, 2001, 115 Stat. 580, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 311(c) of Pub. L. 105–55 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to pay periods beginning on or after January 1, 1998.”
+Pub. L. 105–55, title III, §311(c), Oct. 7, 1997, 111 Stat. 1202, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to pay periods beginning on or after January 1, 1998.”
 

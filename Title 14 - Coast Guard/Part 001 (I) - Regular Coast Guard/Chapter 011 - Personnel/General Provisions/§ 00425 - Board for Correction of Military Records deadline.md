@@ -2,7 +2,7 @@
 
 (a)
 
-Deadline for Completion of Action.—The Secretary shall complete processing of an application for correction of military records under section 1552 of title 10 by not later than 10 months after the date the Secretary receives the completed application.
+Deadline for Completion of Action.—The Secretary shall complete processing of an application for correction of military records under section 1552 of title 10 by not later than 10months after the date the Secretary receives the completed application.
 
 (b)
 

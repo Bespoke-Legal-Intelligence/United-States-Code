@@ -18,7 +18,7 @@ The Presidential designee shall—
 
 &emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions;
 
-&emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of uniformed services voter participation, a separate statistical analysis of overseas nonmilitary participation, and a description of State-Federal cooperation;
+&emsp;(6) not later than the end of each year after a Presidential election year, transmit to thePresident and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of uniformed services voter participation, a separate statistical analysis of overseas nonmilitary participation, and a description of State-Federal cooperation;
 
 &emsp;(7) prescribe a standard oath for use with any document under this subchapter affirming that a material misstatement of fact in the completion of such a document may constitute grounds for a conviction for perjury;
 
@@ -102,7 +102,7 @@ Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331, prov
 
 #### Effective Date
 
-Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title of 1986 Amendment note set out under section 1971 of this title\] shall apply with respect to elections taking place after December 31, 1987.”
+Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: “The amendments and repeals made by this Act \[see Short Title of 1986 Amendment note set out under section 1971 of this title\] shall apply with respect to elections taking place after December 31, 1987.”
 
 #### Sense of Congress Regarding the Importance of Voting
 
@@ -204,7 +204,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. The Secretary of Defense is hereby designated as the “Presidential designee” under Title I of the Act \[42 U.S.C. 1973ff et seq.\].
 
-Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defenseis hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
+Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

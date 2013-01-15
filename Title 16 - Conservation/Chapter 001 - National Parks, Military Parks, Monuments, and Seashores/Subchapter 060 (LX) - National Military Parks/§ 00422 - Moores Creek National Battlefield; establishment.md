@@ -16,7 +16,7 @@ The aforesaid tracts of land containing in the aggregate thirty acres, more or l
 
 #### Change of Name
 
-In the first undesignated par., “battlefield” substituted for “military park” and in last undesignated par., “Battlefield” substituted for “Military Park” onauthority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
+In the first undesignated par., “battlefield” substituted for “military park” and in last undesignated par., “Battlefield” substituted for “Military Park” on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “distant”.</i>
 

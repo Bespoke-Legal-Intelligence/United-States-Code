@@ -6,5 +6,5 @@
 
 (b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $520,000,000 for payment by the Secretary of the Treasury.
 
-(Pub. L. 89–369, §28, as added Pub. L. 98–181, title X, §1002, Nov. 30, 1983, 97 Stat. 1286.)
+(Pub. L. 89–369, §28, as added Pub. L. 98–181, title I \[title X, §1002\], Nov. 30, 1983, 97 Stat. 1286.)
 

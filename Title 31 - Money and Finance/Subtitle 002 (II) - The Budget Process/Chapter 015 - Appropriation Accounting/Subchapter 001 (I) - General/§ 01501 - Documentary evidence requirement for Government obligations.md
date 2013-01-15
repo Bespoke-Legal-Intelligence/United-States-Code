@@ -22,7 +22,7 @@
 
 &emsp;(5) a grant or subsidy payable—
 
-&emsp;&emsp;(A) from appropriations made for payment of, or contributions to, amounts required to be paid in specific amounts fixed by law or under formulas prescribed by law;
+&emsp;&emsp;(A) from appropriations made for payment of, or contributions to, amounts required tobe paid in specific amounts fixed by law or under formulas prescribed by law;
 
 &emsp;&emsp;(B) under an agreement authorized by law; or
 

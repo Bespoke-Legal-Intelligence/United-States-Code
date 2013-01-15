@@ -72,7 +72,7 @@ Pub. L. 107–68, title I, §114(b), Nov. 12, 2001, 115 Stat. 572, provided that
 
 #### Effective Date of 1989 Amendment
 
-Section 103(c) of Pub. L. 101–163 provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 59a of this title\] shall take effect on October 1, 1989.”
+Pub. L. 101–163, title I, §103(c), Nov. 21, 1989, 103 Stat. 1050, provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 59a of this title\] shall take effect on October 1, 1989.”
 
 #### Effective Date of 1987 Amendment
 

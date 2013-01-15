@@ -10,7 +10,7 @@ Implementing Official.—The program shall be carried out through the Under Secr
 
 (c)
 
-Content of Programs.—The education and training programs developed under the program shall be modelled after programs established at the F. Edward Hebe�AE1rt School of Medicine of the Uniformed Services University of the Health Sciences and shall include, at a minimum, training for health care professionals in the following:
+Content of Programs.—The education and training programs developed under the program shall be modelled after programs established at the F. Edward Hebért School of Medicine of the Uniformed Services University of the Health Sciences and shall include, at a minimum, training for health care professionals in the following:
 
 &emsp;(1) Recognition of chemical, biological, radiological, incendiary, or other explosive agents, weapons, or devices that may be used in terrorist activities.
 
@@ -32,7 +32,7 @@ Potential Trainees.—In designing the education and training programs under thi
 
 (e)
 
-Consultation.—In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
+Consultation.—In establishing education and training programs under this section, theSecretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
 (Added Pub. L. 107–287, §3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
 

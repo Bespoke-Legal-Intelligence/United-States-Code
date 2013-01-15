@@ -82,7 +82,7 @@ Subject to subsection (c), a disqualification under subsection (a) of this secti
 
 #### (f) Fines for unauthorized acceptance
 
-The Secretary may impose a fine against any person not approved by the Secretary to acceptand redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
+The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
 
 #### (g) Disqualification of retailers who are disqualified under WIC program
 
@@ -188,7 +188,7 @@ References to a “coupon”, “authorization card”, or other access device p
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4132 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
@@ -210,5 +210,5 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 #### Effective Date of 1977 Amendment
 
-Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 

@@ -80,7 +80,7 @@ In subsection (a), the words “the term” are omitted as surplus. The words �
 
 In subsection (b)(1) and (3), the words “interstate agency or other” are omitted as surplus. The word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the word “rule” is omitted as being synonymous with “regulation”. The words “standard” and “having authority” are omitted as surplus.
+In subsection (b)(1), the word “rule” is omitted as being synonymous with “regulation”. The words“standard” and “having authority” are omitted as surplus.
 
 In subsection (b)(2), the words “pursuant to a certificate issued by the Board”, “by air of persons, property, or mail”, and “the State of” are omitted as surplus.
 

@@ -4,7 +4,7 @@
 
 General Authority.—In carrying out this chapter, the Secretary of Transportation may—
 
-&emsp;(1) prescribe terms for a project under sections 5307 and 5309–5311 of this title (except terms the Secretary of Labor prescribes under section 5333(b) of this title);
+&emsp;(1) prescribe terms for a project that receives Federal financial assistance under this chapter (except terms the Secretary of Labor prescribes under section 5333(b) of this title);
 
 &emsp;(2) sue and be sued;
 
@@ -32,7 +32,7 @@ Prohibitions Against Regulating Operations and Charges.—
 
 &emsp;(1)
 
-In general.—Except for purposes of national defense or in the event of a national or regional emergency, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter, nor may the Secretary regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
+In general.—Except for purposes of national defense or in the event of a national or regional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
 
 &emsp;(2)
 
@@ -40,17 +40,17 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 (c)
 
-Procedures for Prescribing Regulations.—(1) The Secretary of Transportation shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate on the day the agenda is published.
+Procedures for Prescribing Regulations.—(1) The Secretary shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives on the day the agenda is published.
 
-(2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
+(2) Except for emergency regulations, the Secretary shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
 
 (3) An emergency regulation ends 120 days after it is issued.
 
-(4) The Secretary of Transportation shall comply with this section (except subsection (i)) and sections 5318(e), 5323(a)(2), 5325(a), 5325(b), and 5325(f) when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
+(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
 
 (d)
 
-Budget Program and Set of Accounts.—The Secretary of Transportation shall—
+Budget Program and Set of Accounts.—The Secretary shall—
 
 &emsp;(1) submit each year a budget program as provided in section 9103 of title 31; and
 
@@ -58,15 +58,15 @@ Budget Program and Set of Accounts.—The Secretary of Transportation shall—
 
 (e)
 
-Depository and Availability of Amounts.—The Secretary of Transportation shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
+Depository and Availability of Amounts.—The Secretary shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
 
 (f)
 
-Binding Effect of Financial Transaction.—A financial transaction of the Secretary of Transportation under this chapter and a related voucher are binding on all officers and employees of the United States Government.
+Binding Effect of Financial Transaction.—A financial transaction of the Secretary under this chapter and a related voucher are binding on all officers and employees of the United States Government.
 
 (g)
 
-Dealing With Acquired Property.—Notwithstanding another law related to the Government acquiring, using, or disposing of real property, the Secretary of Transportation may deal with property acquired under subsection (a)(3) or (4) of this section in any way. However, this subsection does not—
+Dealing With Acquired Property.—Notwithstanding another law related to the Government acquiring, using, or disposing of real property, the Secretary may deal with property acquired under paragraph (3) or (4) of subsection (a) in any way. However, this subsection does not—
 
 &emsp;(1) deprive a State or political subdivision of a State of jurisdiction of the property; or
 
@@ -74,7 +74,7 @@ Dealing With Acquired Property.—Notwithstanding another law related to the Gov
 
 (h)
 
-Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter atleast in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary of Transportation may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
+Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
 
 &emsp;(A) the asset will remain in public use for at least 5 years after the date the asset is transferred;
 
@@ -84,9 +84,9 @@ Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under th
 
 &emsp;(D) through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land.
 
-(2) A decision under paragraph (1) of this section must be in writing and include the reason for the decision.
+(2) A decision under paragraph (1) must be in writing and include the reason for the decision.
 
-(3) This subsection is in addition to another law related to using and disposing of a facility or equipment under an assistance agreement.
+(3) This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
 
 (4)
 
@@ -106,21 +106,15 @@ Relationship to other authority.—The authority of the Secretary under this sub
 
 (i)
 
-Transfer of Amounts and Non-Government Share.—(1) Amounts made available for a public transportation project under title 23 shall be transferred to and administered by the Secretary of Transportation under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
+Transfer of Amounts and Non-Government Share.—(1) Amounts made available for a public transportation project under title 23 may be transferred to and administered by the Secretary under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
 
 (2) The provisions of title 23 related to the non-Government share apply to amounts under title 23 used for public transportation projects. The provisions of this chapter related to the non-Government share apply to amounts under this chapter used for highway projects.
 
 (j)
 
-Relationship to Other Laws.—(1) Section 9107(a) of title 31 applies to the Secretary of Transportation under this chapter.
-
-(2) Section 6101(b) to (d) of title 41 applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.
+Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
 (k)
-
-Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate and Committees on Transportation and Infrastructure and Appropriations of the House of Representatives.
-
-(<i>l</i>)
 
 Agency Statements.—
 
@@ -132,7 +126,7 @@ In general.—The Administrator of the Federal Transit Administration shall foll
 
 Binding obligation defined.—In this subsection, the term “binding obligation” means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(<i>o</i>)(3), Jan. 4, 2011, 124 Stat. 3853.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(o)(3), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–141, div. B, §§20024, 20030(i), July 6, 2012, 126 Stat. 718, 731.)
 
 Historical and Revision Notes
 
@@ -224,7 +218,7 @@ In subsection (g)(1), before clause (A), the words “facilities and equipment a
 
 In subsection (g)(3), the words “and not in lieu of” are omitted as surplus.
 
-Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
+Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. Thereference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
 
 Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
 
@@ -233,6 +227,42 @@ Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12
 The date of enactment of this paragraph, referred to in subsec. (h)(4)(C), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §20024(1), substituted “that receives Federal financial assistance under this chapter” for “under sections 5307 and 5309–5311 of this title”.
+
+Subsec. (b)(1). Pub. L. 112–141, §20024(2), inserted “or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329,” after “emergency,” and substituted “chapter. The Secretary may not” for “chapter, nor may the Secretary”.
+
+Subsec. (c)(1). Pub. L. 112–141, §20030(i)(1), substituted “Secretary shall prepare” for “Secretary of Transportation shall prepare” and “Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives” for “Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate”.
+
+Subsec. (c)(2). Pub. L. 112–141, §20030(i)(1)(A), substituted “Secretary shall give” for “Secretary of Transportation shall give”.
+
+Subsec. (c)(4). Pub. L. 112–141, §§20030(i)(1)(A), 20024(3), substituted “Secretary shall comply” for “Secretary of Transportation shall comply” and “subsection” for “section (except subsection (i)) and sections 5318(e), 5323(a)(2), 5325(a), 5325(b), and 5325(f)”.
+
+Subsec. (d). Pub. L. 112–141, §20030(i)(2), struck out “of Transportation” after “Secretary” in introductory provisions.
+
+Subsec. (e). Pub. L. 112–141, §20030(i)(3), struck out “of Transportation” after “The Secretary”.
+
+Subsec. (f). Pub. L. 112–141, §20030(i)(4), struck out “of Transportation” after “Secretary”.
+
+Subsec. (g). Pub. L. 112–141, §20030(i)(5), in introductory provisions, struck out “of Transportation” after “Secretary” and substituted “paragraph (3) or (4) of subsection (a)” for “subsection (a)(3) or (4) of this section”.
+
+Subsec. (h)(1). Pub. L. 112–141, §20030(i)(6)(A), struck out “of Transportation” after “acquired, the Secretary” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 112–141, §20030(i)(6)(B), struck out “of this section” after “paragraph (1)”.
+
+Subsec. (h)(3). Pub. L. 112–141, §20024(4), substituted “any other” for “another”.
+
+Subsec. (i)(1). Pub. L. 112–141, §§20024(5), 20030(i)(7), substituted “title 23 may” for “title 23 shall” and “Secretary under this chapter” for “Secretary of Transportation under this chapter”.
+
+Subsec. (j). Pub. L. 112–141, §20030(i)(8), which directed substitution of “Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives” for “Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate and Committees on Transportation and Infrastructure and Appropriations of the House of Representatives” in subsec. (j) as redesignated by section 20025 of Pub. L. 112–141, was executed to subsec. (j) as redesignated by section 20024 of Pub. L. 112–141, to reflect the probable intent of Congress.
+
+Pub. L. 112–141, §20024(6), (7), redesignated subsec. (k) as (j) and struck out former subsec. (j). Prior to amendment, text read as follows:
+
+“(1) Section 9107(a) of title 31 applies to the Secretary of Transportation under this chapter.
+
+“(2) Section 6101(b) to (d) of title 41 applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.”
+
+Subsecs. (k), (l). Pub. L. 112–141, §20024(7), redesignated subsecs. (k) and (l) as (j) and (k), respectively.
 
 <b>2011</b>—Subsec. (j)(2). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
@@ -266,7 +296,7 @@ Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) a
 
 &emsp;“(2) advise and assist the Secretary of Transportation in making findings under section 5323(a)(1)(A) of this title.”
 
-Subsecs. (k), (<i>l</i>). Pub. L. 109–59, §3032(6), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 109–59, §3032(6), added subsecs. (k) and (l).
 
 <b>1998</b>—Pub. L. 105–178, §3025(b)(1), inserted “provisions” after “Administrative” in section catchline.
 
@@ -279,4 +309,8 @@ Subsec. (g)(4). Pub. L. 105–178, §3025(c), added par. (4).
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 Subsec. (c)(2). Pub. L. 104–316 substituted “for” for “the Comptroller General shall”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

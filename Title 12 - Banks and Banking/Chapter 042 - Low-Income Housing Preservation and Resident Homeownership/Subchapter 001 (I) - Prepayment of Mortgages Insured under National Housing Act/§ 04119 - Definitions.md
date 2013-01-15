@@ -6,9 +6,9 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) that is—
 
-&emsp;&emsp;&emsp;(i) insured or held by the Secretary under section 1715<i>l</i>(d)(3) of this title and receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title;
+&emsp;&emsp;&emsp;(i) insured or held by the Secretary under section 1715l(d)(3) of this title and receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title;
 
-&emsp;&emsp;&emsp;(ii) insured or held by the Secretary and bears interest at a rate determined under the proviso of section 1715<i>l</i>(d)(5) of this title;
+&emsp;&emsp;&emsp;(ii) insured or held by the Secretary and bears interest at a rate determined under the proviso of section 1715l(d)(5) of this title;
 
 &emsp;&emsp;&emsp;(iii) insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of this title; or
 

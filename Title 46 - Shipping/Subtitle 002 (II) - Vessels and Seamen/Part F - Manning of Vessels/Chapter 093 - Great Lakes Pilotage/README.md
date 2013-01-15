@@ -15,7 +15,7 @@
 
 #### Historical and Revision Notes
 
-Chapter 93 contains the pilotage requirements for United States vessels sailing under register and foreignflag vessels operating on the Great Lakes, qualifications for a registered pilot for the Great Lakes, authority for agreements with Canada, prohibition of State regulation, establishment of an advisory committee, and imposition of civil penalties.
+Chapter 93 contains the pilotage requirements for United States vessels sailing under register and foreign flag vessels operating on the Great Lakes, qualifications for a registered pilot for the Great Lakes, authority for agreements with Canada, prohibition of State regulation, establishment of an advisory committee, and imposition of civil penalties.
 
 
 ---

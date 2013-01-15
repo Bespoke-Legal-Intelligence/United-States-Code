@@ -7,12 +7,7 @@
 | [132a.](%C2%A7%2000132a%20-%20Deputy%20Chief%20Management%20Officer.md) | Deputy Chief Management Officer. |
 | [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics. |
 | \[133a. | Repealed.\] |
-| 133b.<sup>1</sup> | Deputy Under Secretary of Defense for Logistics and Materiel Readiness. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| \[133b. | Repealed.\] |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
 | \[134a, 134b. Repealed.\] |  |
 | [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
@@ -40,6 +35,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b “Deputy Under Secretary of Defense for Logistics and Materiel Readiness”.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items 133a “Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics”, 134a “Principal Deputy Under Secretary of Defense for Policy”, 136a “Principal Deputy Under Secretary of Defense for Personnel and Readiness”, 137a “Deputy Under Secretaries of Defense”, 139a “Director of Defense Research and Engineering”, 139b “Director of Operational Energy Plans and Programs”, 139c “Director of Cost Assessment and Program Evaluation”, 139d “Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance”, and 142 “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
 
@@ -102,8 +99,6 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 <b>1973</b>—Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
 
 <b>1972</b>—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
-
-<i><sup>1</sup></i><i> Section 133b renumbered 138a by Pub. L. 111–84 without corresponding amendment of chapter analysis.</i>
 
 
 ---

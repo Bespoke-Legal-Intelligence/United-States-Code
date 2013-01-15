@@ -130,7 +130,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(ix) Hui No Ke Ola Pono, or a health care system serving the island of Maui, and which may be composed of as many health care centers as are necessary to meet the health care needs of the Native Hawaiians of that island;
 
-&emsp;&emsp;(x) Hui Malama Ola Ha'Oiwi or a health care system serving the island of Hawaii, and which may be composed of as many health care centers as are necessary to meetthe health care needs of the Native Hawaiians of that island; and
+&emsp;&emsp;(x) Hui Malama Ola Ha'Oiwi or a health care system serving the island of Hawaii, and which may be composed of as many health care centers as are necessary to meet the health care needs of the Native Hawaiians of that island; and
 
 &emsp;&emsp;(xi) such other member organizations as the Board of Papa Ola Lokahi may admit from time to time, based upon satisfactory demonstration of a record of contribution to the health and well-being of Native Hawaiians, and upon satisfactory development of a mission statement in relation to this chapter, including clearly defined goals and objectives, a 5-year action plan outlining the contributions that each organization will make in carrying out the policy of this chapter, and an estimated budget.
 
@@ -184,7 +184,7 @@ The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress
 
 Section was formerly classified to section 11710 of this title prior to the general amendment of this chapter by Pub. L. 102–396.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
+Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

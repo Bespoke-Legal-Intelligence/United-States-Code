@@ -58,7 +58,7 @@ For purposes of this subchapter, the term “foundation manager” means, with r
 
 #### (c) Government official
 
-For purposes of subsection (a)(1)(I) and section 4941, the term “government official” means, with respect to an act of self-dealing described in section 4941, an individual who, at the time of such act, holds any of the following offices or positions (other than as a “special Government employee”, as defined in section 202(a) of title 18, United States Code):
+For purposes of subsection (a)(1)(I) and section 4941, the term “government official” means, with respect to an act of self-dealing described in section 4941, an individual who, at the time ofsuch act, holds any of the following offices or positions (other than as a “special Government employee”, as defined in section 202(a) of title 18, United States Code):
 
 &emsp;(1) an elective public office in the executive or legislative branch of the Government of the United States,
 
@@ -98,13 +98,13 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 #### Effective Date of 1986 Amendment
 
-Section 1606(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to compensation received after December 31, 1985.”
+Pub. L. 99–514, title XVI, §1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: “The amendment made by this section \[amending this section\] shall apply to compensation received after December 31, 1985.”
 
 #### Effective Date of 1984 Amendment
 
-Section 306(c) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[probably should be “section”, amending this section and section 6104 of this title\] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title III, §306(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this subsection \[probably should be “section”, amending this section and section 6104 of this title\] shall take effect on January 1, 1985.”
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 

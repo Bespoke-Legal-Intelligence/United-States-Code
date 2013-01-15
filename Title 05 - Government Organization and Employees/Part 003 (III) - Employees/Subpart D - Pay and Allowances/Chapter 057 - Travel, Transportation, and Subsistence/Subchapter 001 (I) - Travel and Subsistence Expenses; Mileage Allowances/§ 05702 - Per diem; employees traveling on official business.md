@@ -18,7 +18,7 @@
 
 &emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
-(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
+(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject tothe limitation provided in subparagraph (B) of this paragraph)—
 
 &emsp;(i) reimbursement for expenses of transportation to the location where necessary medical services are provided or the emergency situation exists,
 
@@ -32,7 +32,7 @@
 
 (c) This section does not apply to a justice or judge, except to the extent provided by section 456 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, §1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, §3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, §2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, §1, Sept. 10, 1980, 94 Stat. 1148; Pub. L.99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, §2(47), Oct. 2, 1992, 106 Stat. 1353.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, §1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, §3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, §2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, §1, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, §2(47), Oct. 2, 1992, 106 Stat. 1353.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 91–114 in cl. (1) increased the amount authorized to be n
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -168,7 +168,7 @@ Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 102(a) of the Federal Civilian Employee and Contractor Travel Expenses Act of 1985 (Public Law 99–234) (“the Act”) \[amending this section\] and Section 301 of Title 3 of the United States Code, it is ordered as follows:
 
-Section 1. Section 1 of Executive Order No. 10621 of July 1, 1955, as amended \[3 U.S.C. 301 note\], is further amended by redesignating the current subsection (i) as subsection (g); by revoking the current subsection (<i>o</i>); and by adding the following new subsection (h):
+Section 1. Section 1 of Executive Order No. 10621 of July 1, 1955, as amended \[3 U.S.C. 301 note\], is further amended by redesignating the current subsection (i) as subsection (g); by revoking the current subsection (o); and by adding the following new subsection (h):
 
 “(h) The authority vested in the President by Section 102(a) of the Federal Civilian Employee and Contractor Travel Expenses Act of 1985, 5 U.S.C. 5702(a), to establish maximum rates of per diem allowances and reimbursements for the actual and necessary expenses of official travel for employees of the Government to the extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of the United States.”
 

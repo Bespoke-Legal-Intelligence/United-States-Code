@@ -54,7 +54,7 @@ Pub. L. 101–73, §205(2)(C), which directed the amendment of subsec. (b) by su
 
 Certification by Other Banking Agencies.—Every national bank” for “(b) Every national bank” could not be executed literally because the original read “(b) Every national member bank”, but was executed by inserting the heading without changing the text to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 101–73, §205(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Every Federal savings bank which is chartered pursuant to section 1464(<i>o</i>) of this title, and which is engaged in the business of receiving deposits other than trust funds, shall be an insured bank from the time it is authorized to commence business, until such time as its accounts are insured by the Federal Savings and Loan Insurance Corporation.”
+Subsec. (c). Pub. L. 101–73, §205(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Every Federal savings bank which is chartered pursuant to section 1464(o) of this title, and which is engaged in the business of receiving deposits other than trust funds, shall be an insured bank from the time it is authorized to commence business, until such time as its accounts are insured by the Federal Savings and Loan Insurance Corporation.”
 
 Subsec. (d). Pub. L. 101–73, §205(3), added subsec. (d).
 

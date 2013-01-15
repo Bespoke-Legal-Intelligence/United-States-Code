@@ -48,7 +48,7 @@ Covered Costs.—For purposes of subsection (b)(3), costs relating to a course o
 
 &emsp;(2) all other reasonable educational expenses, including fees, books, and laboratory expenses.
 
-(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, §1001(<i>o</i>), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, §1001(o), Oct. 13, 2010, 124 Stat. 2897.)
 
 #### Amendments
 

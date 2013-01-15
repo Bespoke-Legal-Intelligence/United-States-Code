@@ -32,7 +32,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing to build their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
+&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing tobuild their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
 
 #### (2) Capacity enhancement
 
@@ -102,7 +102,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(3) not less than $2,010,000 for fiscal year 1993 and $4,000,000 for fiscal year 1994 shall be for the creation of new fair housing enforcement organizations authorized under subsection (c)(2) of this section; and
 
-&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorizedunder subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
+&emsp;(4) not less than $2,540,000 for fiscal year 1993 and $5,000,000 for fiscal year 1994 shall be for education and outreach programs authorized under subsection (d) of this section, to be divided equally between activities specified under subsection (d)(1) of this section and those specified under subsections (d)(2) and (d)(3) of this section.
 
 > Any amount appropriated under this section shall remain available until expended.
 
@@ -146,7 +146,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX,§905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Pub. L. 102–550, §905(b)(1), redesignated subsec. (e) as (h).
 
 Subsecs. (i), (j). Pub. L. 102–550, §905(b)(4), added subsecs. (i) and (j).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscalyear 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration.”
 
 Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 
@@ -186,7 +186,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Congressional Findings
 
-Section 905(a) of Pub. L. 102–550 provided that: “The Congress finds that—
+Pub. L. 102–550, title IX, §905(a), Oct. 28, 1992, 106 Stat. 3868, provided that: “The Congress finds that—
 
 &emsp;“(1) in the past half decade, there have been major legislative and administrative changes in Federal fair housing and fair lending laws and substantial improvements in the Nation's understanding of discrimination in the housing markets;
 

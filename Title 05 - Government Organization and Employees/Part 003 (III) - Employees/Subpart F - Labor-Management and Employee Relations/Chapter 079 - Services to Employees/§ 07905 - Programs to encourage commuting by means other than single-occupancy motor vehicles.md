@@ -68,7 +68,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
+Pub. L. 103–172, §3, Dec. 2, 1993, 107 Stat. 1997, provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
 
 #### Transit Subsidy for Department of Labor Employees of National Capital Region
 
@@ -126,7 +126,7 @@ Pub. L. 105–78, title II, §210, Nov. 13, 1997, 111 Stat. 1489.
 
 #### Purpose of Pub. L. 103–172
 
-Section 1(b) of Pub. L. 103–172 provided that: “The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles.”
+Pub. L. 103–172, §1(b), Dec. 2, 1993, 107 Stat. 1995, provided that: “The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles.”
 
 #### Ex. Ord. No. 13150. Federal Workforce Transportation
 
@@ -136,7 +136,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Program</i>. (a) By no later than October 1, 2000, Federal agencies shall implement a transportation fringe benefit program that offers qualified Federal employees the option to exclude from taxable wages and compensation, consistent with section 132 of title 26, United States Code, employee commuting costs incurred through the use of mass transportation and vanpools, not to exceed the maximum level allowed by law (26 U.S.C. 132 (f)(2)). These agency programs shall comply with the requirements of Internal Revenue Service regulations for qualified transportation fringe benefits under section 1.132–9 of title 26, Code of Federal Regulations, and other guidance.
 
-(b) Federal agencies are encouraged to use any nonmonetary incentive that the agencies may otherwise offer under any other provision of law or other authority to encourage mass transportation and vanpool use, as provided for in section 7905(b)(2)(C) of title 5, United States Code.
+(b) Federal agencies are encouraged to use any nonmonetary incentive that the agencies may otherwiseoffer under any other provision of law or other authority to encourage mass transportation and vanpool use, as provided for in section 7905(b)(2)(C) of title 5, United States Code.
 
 Sec. 2. <i>Federal Agencies in the National Capital Region</i>. Federal agencies in the National Capital Region shall implement a “transit pass” transportation fringe benefit program for their qualified Federal employees by no later than October 1, 2000. Under this program, agencies shall provide their qualified Federal employees, in addition to current compensation, transit passes as defined in section 132(f)(5) of title 26, United States Code, in amounts approximately equal to employee commuting costs, not to exceed the maximum level allowed by law (26 U.S.C. 132(f)(2)). The National Capital Region is defined as the District of Columbia; Montgomery, Prince George's, and Frederick Counties in Maryland; Arlington, Fairfax, Loudon, and Prince William Counties in Virginia; and all cities now or hereafter existing in Maryland or Virginia within the geographic area bounded by the outer boundaries of the combined area of said counties.
 

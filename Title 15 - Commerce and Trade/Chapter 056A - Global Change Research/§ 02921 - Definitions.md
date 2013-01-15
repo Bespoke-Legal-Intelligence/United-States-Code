@@ -26,7 +26,7 @@ As used in this chapter, the term—
 
 #### Short Title
 
-Section 1 of Pub. L. 101–606 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Global Change Research Act of 1990’.”
+Pub. L. 101–606, §1, Nov. 16, 1990, 104 Stat. 3096, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Global Change Research Act of 1990’.”
 
-Section 201 of title II of Pub. L. 101–606 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
+Pub. L. 101–606, title II, §201, Nov. 16, 1990, 104 Stat. 3102, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
 

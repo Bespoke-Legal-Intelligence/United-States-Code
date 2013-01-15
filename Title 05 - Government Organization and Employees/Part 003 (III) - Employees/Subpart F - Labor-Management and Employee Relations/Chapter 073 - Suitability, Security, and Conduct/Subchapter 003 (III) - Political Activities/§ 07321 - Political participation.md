@@ -10,7 +10,7 @@ A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to 
 
 #### Effective Date; Savings Provision
 
-Section 12 of Pub. L. 103–94 provided that:
+Pub. L. 103–94, §12, Oct. 6, 1993, 107 Stat. 1011, provided that:
 
 “(a) The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Oct. 6, 1993\], except that the authority to prescribe regulations granted under section 7325 of title 5, United States Code (as added by section 2 of this Act), shall take effect on the date of the enactment of this Act.
 

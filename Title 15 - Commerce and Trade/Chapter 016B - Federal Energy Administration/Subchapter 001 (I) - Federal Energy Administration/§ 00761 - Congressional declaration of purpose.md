@@ -28,11 +28,11 @@ Pub. L. 94–385, title I, §101, Aug. 14, 1976, 90 Stat. 1127, provided that: �
 
 #### Short Title
 
-Section 1 of Pub. L. 93–275 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Federal Energy Administration Act of 1974’.”
+Pub. L. 93–275, §1, May 7, 1974, 88 Stat. 96, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Federal Energy Administration Act of 1974’.”
 
 #### Separability
 
-Section 27 of Pub. L. 93–275 provided that: “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Pub. L. 93–275, §27, May 7, 1974, 88 Stat. 115, provided that: “If any provision of this Act \[this chapter\], or theapplication thereof to any person or circumstance, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -40,7 +40,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 #### Authorization of Appropriations
 
-Section 29 of Pub. L. 93–275, as amended by Pub. L. 94–385, title I, §110, Aug. 14, 1976, 90 Stat. 1130; Pub. L. 95–70, §2, July 21, 1977, 91 Stat. 275, provided that:
+Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–385, title I, §110, Aug. 14, 1976, 90 Stat. 1130; Pub. L. 95–70, §2, July 21, 1977, 91 Stat. 275, provided that:
 
 “(a) There are authorized to be appropriated to the Federal Energy Administration the following sums:
 
@@ -138,7 +138,7 @@ Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in t
 
 (b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 
-Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. App. §2061 et seq.\], except section 708 thereof \[50 U.S.C. App. §2158\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
+Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. App. §2061 et seq.\], except section 708 thereof \[50 U.S.C. App. §2158\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
 
 Sec. 5. (a) The Federal Energy Office established by Executive Order No. 11748 is hereby abolished, and that Executive order is hereby revoked.
 

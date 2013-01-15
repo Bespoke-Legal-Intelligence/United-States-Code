@@ -92,7 +92,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (B) Medical expenses
 
-&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) ofsection 213 shall be applied by substituting “10 percent” for “7.5 percent”.
+&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section.
 
 #### (C) Interest
 
@@ -124,7 +124,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
+&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing theregular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
 
 &emsp;&emsp;&emsp;(i) in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or
 
@@ -170,7 +170,7 @@ In determining the amount of the alternative minimum taxable income of a corpora
 
 &emsp;&emsp;(B) no reduction in basis shall be made under section 7518(f) (or the corresponding provisions of such chapter 535) with respect to the withdrawal from the fund of any amount to which subparagraph (A) applies.
 
-> &emsp;For purposes of this paragraph, any withdrawal of deposits or earnings from the fund shall be treated as allocable first to depositsmade before (and earnings received or accrued before) January 1, 1987.
+> &emsp;For purposes of this paragraph, any withdrawal of deposits or earnings from the fund shall be treated as allocable first to deposits made before (and earnings received or accrued before) January 1, 1987.
 
 #### (3) Special deduction for certain organizations not allowed
 
@@ -308,7 +308,7 @@ For purposes of this part—
 
 #### (i) Property placed in service after 1989
 
-&emsp;&emsp;&emsp;The depreciation deduction with respect to any property placed in service in a taxable year beginning after 1989 shall be determined under the alternative system of section 168(g). The preceding sentence shall not apply to any property placed in service after December 31, 1993, and the depreciation deduction with respect to such property shall be determined under the rules of subsection (a)(1)(A).
+&emsp;&emsp;&emsp;The depreciation deduction with respect to any property placed in service in a taxable year beginning after 1989 shall be determined under the alternative system of section 168(g). The preceding sentence shall not apply to any property placed inservice after December 31, 1993, and the depreciation deduction with respect to such property shall be determined under the rules of subsection (a)(1)(A).
 
 #### (ii) Property to which new ACRS system applies
 
@@ -344,7 +344,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of such income shall be reduced by any deduction which would have been allowable in computing alternative minimum taxable income if such amount were includible in gross income.
 
-&emsp;&emsp;&nbsp;The preceding sentence shall not apply in the case of any amount excluded fromgross income under section 108 (or the corresponding provisions of prior law) or under section 139A or 1357. In the case of any insurance company taxable under section 831(b), this clause shall not apply to any amount not described in section 834(b).
+&emsp;&emsp;&nbsp;The preceding sentence shall not apply in the case of any amount excluded from gross income under section 108 (or the corresponding provisions of prior law) or under section 139A or 1357. In the case of any insurance company taxable under section 831(b), this clause shall not apply to any amount not described in section 834(b).
 
 #### (ii) Inclusion of buildup in life insurance contracts
 
@@ -492,11 +492,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19,1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868.)
-
-#### Amendment of Subsection (b)(1)(B)
-
-<i>Pub. L. 111–148, title IX, §9013(c), (d), Mar. 23, 2010, 124 Stat. 868, provided that, applicable to taxable years beginning after Dec. 31, 2012, subsection (b)(1)(B) of this section is amended by striking “by substituting ‘10 percent’ for ‘7.5 percent’ ” and inserting “without regard to subsection (f) of such section”.</i>
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868.)
 
 #### References in Text
 
@@ -513,6 +509,8 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+<b>2010</b>—Subsec. (b)(1)(B). Pub. L. 111–148 substituted “without regard to subsection (f) of such section” for “by substituting ‘10 percent’ for ‘7.5 percent’ ”.
 
 <b>2009</b>—Subsec. (b)(1)(E). Pub. L. 111–5, §1008(d), substituted “subparagraphs (D) and (E) of section 63(c)(1)” for “section 63(c)(1)(D)”.
 
@@ -572,7 +570,7 @@ Subsec. (a)(6) to (8). Pub. L. 105–34, §403(a), redesignated pars. (7) and (8
 
 “(6)
 
-Installment sales of certain property.—In the case of any disposition after March 1, 1986, of any property described in section 1221(1), income from such disposition shall be determined without regard to the installment method under section 453. This paragraph shall not apply to any disposition with respect to which an election is in effect under section 453(<i>l</i>)(2)(B).”
+Installment sales of certain property.—In the case of any disposition after March 1, 1986, of any property described in section 1221(1), income from such disposition shall be determined without regard to the installment method under section 453. This paragraph shall not apply to any disposition with respect to which an election is in effect under section 453(l)(2)(B).”
 
 Subsec. (e)(1)(A), (3)(B)(i). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -616,7 +614,7 @@ Subsec. (g)(4)(F). Pub. L. 102–486, §1915(a)(2), amended subpar. (F) generall
 
 Subsec. (h). Pub. L. 102–486, §1915(c)(1), struck out subsec. (h) which related to adjustment based on energy preferences.
 
-<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–508, §11812(b)(4), substituted “section 168(i)(10)” for “section 167(<i>l</i>)(3)(A)”.
+<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–508, §11812(b)(4), substituted “section 168(i)(10)” for “section 167(l)(3)(A)”.
 
 Subsec. (b)(1)(F). Pub. L. 101–508, §11103(b), added subpar. (F).
 
@@ -636,7 +634,7 @@ Adjusted current earnings.—For taxable years beginning after 1989, alternative
 
 Subsec. (d)(1)(A). Pub. L. 101–508, §11531(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of such deduction shall not exceed 90 percent of alternative minimum taxable income determined without regard to such deduction, and”.
 
-Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock fordebt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, special rules for more than one statement and exception for certain corporations.
+Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock for debt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, special rules for more than one statement and exception for certain corporations.
 
 Subsec. (g)(1), (2)(A). Pub. L. 101–508, §11801(c)(2)(B), which directed that pars. (1) and (2) “of section 59(g) are each amended by striking ‘beginning after 1989’ ”, was executed to pars. (1) and (2)(A) of subsec. (g) of this section after “any taxable year”. See 1996 Amendment note above.
 
@@ -670,7 +668,7 @@ Subsec. (g)(4)(A)(v) to (vii). Pub. L. 101–239, §7611(a)(1)(B), redesignated 
 
 Subsec. (g)(4)(B)(i). Pub. L. 101–239, §7611(f)(2), inserted at end “The preceding sentence shall not apply in the case of any amount excluded from gross income under section 108 (or the corresponding provisions of prior law).”
 
-Subsec. (g)(4)(B)(iii). Pub. L. 101–239, §7611(f)(3), repealed cl. (iii) which read as follows: “In the case of any annuity contract, the income on such contract (as determined under section 72(u)(2)) shall be treated as includible in gross income for such year. The preceding sentence shall not apply to any annuity contract which is held under a plan described in section 403(a) or which is described in section 72(u)(3)(C).”
+Subsec. (g)(4)(B)(iii). Pub. L. 101–239, §7611(f)(3), repealed cl. (iii) which read as follows: “In the case of any annuity contract, the income on such contract (as determined under section 72(u)(2)) shall be treated as includible in gross income for such year. The preceding sentence shall not apply to any annuity contract whichis held under a plan described in section 403(a) or which is described in section 72(u)(3)(C).”
 
 Subsec. (g)(4)(C)(ii). Pub. L. 101–239, §7611(d), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Clause (i) shall not apply to any deduction allowable under section 243 or 245 for a 100-percent dividend—
 
@@ -826,7 +824,7 @@ Exception for TARP Recipients.—The amendments made by this section \[amending 
 
 &emsp;“(1) any taxpayer if—
 
-&emsp;&emsp;“(A) the Federal Government acquired before the date of the enactment of this Act \[Nov. 6, 2009\] anequity interest in the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008 \[div. A of Pub. L. 110–343, see Tables for classification\],
+&emsp;&emsp;“(A) the Federal Government acquired before the date of the enactment of this Act \[Nov. 6, 2009\] an equity interest in the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008 \[div. A of Pub. L. 110–343, see Tables for classification\],
 
 &emsp;&emsp;“(B) the Federal Government acquired before such date of enactment any warrant (or other right) to acquire any equity interest with respect to the taxpayer pursuant to the Emergency Economic Stabilization Act of 2008, or
 
@@ -864,7 +862,7 @@ Pub. L. 109–58, title XIII, §1326(e), Aug. 8, 2005, 119 Stat. 1017, provided 
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 168 of this title\] shall apply to property placed in service after April 11, 2005.
+In general.—The amendments made by this section \[amending this section and section 168 of this title\]shall apply to property placed in service after April 11, 2005.
 
 “(2)
 
@@ -910,7 +908,7 @@ Pub. L. 107–147, title I, §102(c)(2), Mar. 9, 2002, 116 Stat. 26, as amended 
 
 #### Effective Date of 2000 Amendments
 
-Pub. L. 106–554, §1(a)(7) \[title III, §314(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: “Theamendments made by this section \[amending this section and sections 403, 414, 415, 3405, 6211 and 7436 of this title and provisions set out as a note under section 1 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief \[Act\] of 1997 \[Pub. L. 105–34\] to which they relate.”
+Pub. L. 106–554, §1(a)(7) \[title III, §314(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: “The amendments made by this section \[amending this section and sections 403, 414, 415, 3405, 6211 and 7436 of this title and provisions set out as a note under section 1 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief \[Act\] of 1997 \[Pub. L. 105–34\] to which they relate.”
 
 Pub. L. 106–519, §5, Nov. 15, 2000, 114 Stat. 2433, as amended by Pub. L. 109–222, title V, §513(a), May 17, 2006, 120 Stat. 366, provided that:
 
@@ -1012,7 +1010,7 @@ Limitation on use of gross receipts method.—If any person computed its foreign
 
 Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 403(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title IV, §403(b), Aug. 5, 1997, 111 Stat. 844, provided that:
 
 “(1)
 
@@ -1020,9 +1018,9 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Special rule for 1987.—In the case of taxable years beginning in 1987, the last sentence of section56(a)(6) of the Internal Revenue Code of 1986 (as in effect for such taxable years) shall be applied by inserting ‘or in the case of a taxpayer using the cash receipts and disbursements method of accounting, any disposition described in section 453C(e)(1)(B)(ii)’ after ‘section 453C(e)(4)’.”
+Special rule for 1987.—In the case of taxable years beginning in 1987, the last sentence of section 56(a)(6) of the Internal Revenue Code of 1986 (as in effect for such taxable years) shall be applied by inserting ‘or in the case of a taxpayer using the cash receipts and disbursements method of accounting, any disposition described in section 453C(e)(1)(B)(ii)’ after ‘section 453C(e)(4)’.”
 
-Section 1212(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XII, §1212(b), Aug. 5, 1997, 111 Stat. 1000, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -1034,7 +1032,7 @@ Amendment by section 1702(c)(1), (e)(1)(A), (g)(4), and (h)(12) of Pub. L. 104�
 
 #### Effective Date of 1993 Amendment
 
-Section 13115(b) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13115(b), Aug. 10, 1993, 107 Stat. 432, provided that:
 
 “(1)
 
@@ -1046,17 +1044,17 @@ Coordination with transitional rules.—The amendments made by this section shal
 
 Amendment by section 13171(b) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, such amendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
-Section 13227(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 904, 936, and 7652 of this title\] shall apply to taxable years beginning after December 31, 1993; except that the amendment made by subsection (e) \[amending section 7652 of this title\] shall take effect on October 1, 1993.”
+Pub. L. 103–66, title XIII, §13227(f), Aug. 10, 1993, 107 Stat. 494, provided that: “The amendments made by this section \[amending this section and sections 904, 936, and 7652 of this title\] shall apply to taxable years beginning after December 31, 1993; except that the amendment made by subsection (e) \[amending section 7652 of this title\] shall take effect on October 1, 1993.”
 
 #### Effective Date of 1992 Amendment
 
-Section 1915(d) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and sections 57, 59, and 59A of this title\] shall apply to taxable years beginning after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1915(d), Oct. 24, 1992, 106 Stat. 3024, provided that: “The amendments made by this section \[amending this section and sections 57, 59, and 59A of this title\] shall apply to taxable years beginning after December 31, 1992.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11103(b) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11103(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
 
-Section 11301(d)(2) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11301(d)(2), Nov. 5, 1990, 104 Stat. 1388–449, provided that:
 
 “(A)
 
@@ -1066,15 +1064,15 @@ In general.—The amendment made by subsection (b) \[amending this section\] sha
 
 Special rules for year which includes september 30, 1990.—In the case of any taxable year which includes September 30, 1990, the amount of acquisition expenses which is required to be capitalized under section 56(g)(4)(F) of the Internal Revenue Code of 1986 (as in effect before the amendment made by subsection (b)) by a company which is not a small insurance company shall be the amount which bears the same ratio to the amount which (but for this subparagraph) would be so required to be capitalized as the number of days in such taxable year before September 30, 1990, bears to the total number of days in such taxable year. A similar reduction shall be made in the amount amortized for such taxable year under such section 56(g)(4)(F).”
 
-Section 11531(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and sections 59 and 59A of this title\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11531(c), Nov. 5, 1990, 104 Stat. 1388–490, provided that: “The amendments made by this section \[amending this section and sections 59 and 59A of this title\] shall apply to taxable years beginning after December 31, 1990.”
 
-Section 11704(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, sections 172, 351, 413, 461, 469, 597, 857, 860D, 860G, 892, 927, 936, 1017, 1245, 1441, 2056A, 2642, 3231, 4091, 4093, 5061, 6013, 6038A, 6039D, 6045, 6323, 6332, 6655, 7519, 7522, 7608, and 7701 of this title, and provisions set out as a note under section 231n of Title 45, Railroads\] shall take effect on the date of the enactment of this Act.”
+Pub. L. 101–508, title XI, §11704(b), Nov. 5, 1990, 104 Stat. 1388–520, provided that: “The amendments made by this section \[amending this section, sections 172, 351, 413, 461, 469, 597, 857, 860D, 860G, 892, 927, 936, 1017, 1245, 1441, 2056A, 2642, 3231, 4091, 4093, 5061, 6013, 6038A, 6039D, 6045, 6323, 6332, 6655, 7519, 7522, 7608, and 7701 of this title, and provisions set out as a note under section 231n of Title 45, Railroads\] shall take effect on the date of the enactment of this Act.”
 
 Amendment by section 11812(b)(4) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7205(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7205(c), Dec. 19, 1989, 103 Stat. 2336, provided that:
 
 “(1)
 
@@ -1092,7 +1090,7 @@ Bankruptcy proceedings.—In the case of a reorganization described in section 3
 
 Subsidiaries of bankrupt parent.—The amendments made by this section shall not apply to any built-in loss of a corporation which is a member (on October 2, 1989) of an affiliated group the common parent of which (on such date) was subject to title 11 or similar case (as defined in section 368(a)(3) of such Code). The preceding sentence shall apply only if the ownership change or acquisition is pursuant to the plan approved in such proceeding and is before the date 2 years after the date on which the petition which commenced such proceeding was filed.”
 
-Section 7611(g) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7611(g), Dec. 19, 1989, 103 Stat. 2373, provided that:
 
 “(1)
 
@@ -1104,35 +1102,35 @@ Intangible drilling costs.—The amendments made by subsection (f)(5) \[amending
 
 “(3)
 
-Regulations on earnings and profits rules.—Not later than March 15, 1991, the Secretary of the Treasury or his delegate shall prescribe initial regulations providing guidance as to which items of income are included in adjusted current earnings under section56(g)(4)(B)(i) of the Internal Revenue Code of 1986 and which items of deduction are disallowed under section 56(g)(4)(C) of such Code.”
+Regulations on earnings and profits rules.—Not later than March 15, 1991, the Secretary of the Treasury or his delegate shall prescribe initial regulations providing guidance as to which items of income are included in adjusted current earnings under section 56(g)(4)(B)(i) of the Internal Revenue Code of 1986 and which items of deduction are disallowed under section 56(g)(4)(C) of such Code.”
 
-Section 7612(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into in taxable years beginning after September 30, 1990.”
+Pub. L. 101–239, title VII, §7612(c)(2), Dec. 19, 1989, 103 Stat. 2374, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into in taxable years beginning after September 30, 1990.”
 
-Section 7612(d)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–239, title VII, §7612(d)(2), Dec. 19, 1989, 103 Stat. 2374, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
 Amendment by sections 7811(d)(3) and 7815(e)(2), (4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 1007(b)(14)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section and section 57 of this title\] shall apply with respect to options exercised after December 31, 1987.”
+Pub. L. 100–647, title I, §1007(b)(14)(C), Nov. 10, 1988, 102 Stat. 3430, provided that: “The amendments made by this paragraph \[amending this section and section 57 of this title\] shall apply with respect to options exercised after December 31, 1987.”
 
 Amendment by sections 1002(a)(12) and 1007(b)(1)–(13), (15)–(19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 2001(e) of Pub. L. 100–647 provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 59A, 882, 4041, 4081, 4091, 4662, 4672, 6416, 6421, and 6427 of this title, and provisions set out as a note under section 4081 of this title\] shall take effect as if included in the provision of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\] to which it relates.”
+Pub. L. 100–647, title II, §2001(e), Nov. 10, 1988, 102 Stat. 3597, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 59A, 882, 4041, 4081, 4091, 4662, 4672, 6416, 6421, and 6427 of this title, and provisions set out as a note under section 4081 of this title\] shall take effect as if included in the provision of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\] to which it relates.”
 
-Section 2004(u) of Pub. L. 100–647 provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 163, 244, 280H, 301, 304, 355, 384, 444, 453, 453A, 469, 514, 811, 812, 816, 842, 904, 1201, 1363, 1503, 1561, 4093, 5113, 5123, 5276, 5881, 6427, 6655, 7519, and 7704 of this title, and provisions set out as notes under sections 21, 219, 243, 301, 304, 444, 453, 1503, and 7704 of this title\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[Pub. L. 100–203, title X\] to which such amendment relates.”
+Pub. L. 100–647, title II, §2004(u), Nov. 10, 1988, 102 Stat. 3610, provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 163, 244, 280H, 301, 304, 355, 384, 444, 453, 453A, 469, 514, 811, 812, 816, 842, 904, 1201, 1363, 1503, 1561, 4093, 5113, 5123, 5276, 5881, 6427, 6655, 7519, and 7704 of this title, and provisions set out as notes under sections 21, 219, 243, 301, 304, 444, 453, 1503, and 7704 of this title\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[Pub. L. 100–203, title X\] to which such amendment relates.”
 
 Amendment by section 5041(b)(4) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, but not applicable to any contract resulting from the acceptance of a bid made before June 21, 1988, if the bid could not have been revoked or altered at any time on or after June 21, 1988, and not applicable in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of Pub. L. 100–203, set out as a note under section 460 of this title), see section 5041(e) of Pub. L. 100–647, set out as a note under section 460 of this title.
 
-Section 6079(a)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 701 of the Reform Act \[Pub. L. 99–514\].”
+Pub. L. 100–647, title VI, §6079(a)(2), Nov. 10, 1988, 102 Stat. 3709, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 701 of the Reform Act \[Pub. L. 99–514\].”
 
-Section 6303(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 100–647, title VI, §6303(b), Nov. 10, 1988, 102 Stat. 3756, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1987 Amendment
 
 Amendment by section 10202(d) of Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1986, with coordination with Tax Reform Act of 1986, see section 10202(e)(4), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
-Section 10243(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10243(b), Dec. 22, 1987, 101 Stat. 1330–424, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date
 
@@ -1148,11 +1146,11 @@ Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, provi
 
 #### Application of Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992
 
-Section 1702(e)(1)(B) of Pub. L. 104–188 provided that: “For purposes of applying sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 \[Pub. L. 102–486\].”
+Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, provided that: “For purposes of applying sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 \[Pub. L. 102–486\].”
 
 #### Installment Sales; Taxable Years Beginning in 1987
 
-Section 7821(a)(5) of Pub. L. 101–239 provided that: “In the case of taxable years beginning in 1987, the reference to section 453 contained in section 56(a)(6) of the Internal Revenue Code of 1986 shall be treated as including a reference to section 453A.”
+Pub. L. 101–239, title VII, §7821(a)(5), Dec. 19, 1989, 103 Stat. 2424, provided that: “In the case of taxable years beginning in 1987, the reference to section 453 contained in section 56(a)(6) of the Internal Revenue Code of 1986 shall be treated as including a reference to section 453A.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -1160,5 +1158,5 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 
 #### Study of Book and Earnings and Profits Adjustments
 
-Section 702 of Pub. L. 99–514 required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
+Pub. L. 99–514, title VII, §702, Oct. 22, 1986, 100 Stat. 2345, required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
 

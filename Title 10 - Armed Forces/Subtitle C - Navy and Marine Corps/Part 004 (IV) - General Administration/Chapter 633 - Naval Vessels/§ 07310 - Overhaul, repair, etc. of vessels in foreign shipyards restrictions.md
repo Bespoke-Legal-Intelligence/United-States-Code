@@ -16,13 +16,13 @@ Vessel Changing Homeports.—(1) In the case of a naval vessel the homeport of w
 
 (c)
 
-Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
+Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the timethat the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (2) The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
 
-(3) The report also shall include the following with respect to each covered naval vessel:
+(3) Except as provided in paragraph (4), the report also shall include the following with respect to each covered naval vessel:
 
-&emsp;(A) The justification under law for the repair in a foreign shipyard.
+&emsp;(A) The justification under law and operational justification for the repair in a foreign shipyard.
 
 &emsp;(B) The name and class of vessel repaired.
 
@@ -40,19 +40,33 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 &emsp;(I) Whether the repair was performed under a contract awarded through the use of competitive procedures or procedures other than competitive procedures.
 
-(4) In this subsection, the term “covered naval vessel” means any of the following:
+(4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the report shall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
+
+(5) In this subsection, the term “covered naval vessel” means any of the following:
 
 &emsp;(A) A naval vessel.
 
 &emsp;(B) Any other vessel under the jurisdiction of the Secretary of the Navy.
 
-(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584.)
+&emsp;(C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
+
+(Added and amended Pub. L. 103–160, div. A, title III, §367, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1632, 1710; Pub. L. 104–106, div. A, title X, §1017, Feb. 10, 1996, 110 Stat. 425; Pub. L. 109–364, div. A, title X, §1014, Oct. 17, 2006, 120 Stat. 2376; Pub. L. 110–417, \[div. A\], title X, §1012, Oct. 14, 2008, 122 Stat. 4584; Pub. L. 112–239, div. A, title III, §344, Jan. 2, 2013, 126 Stat. 1700.)
 
 #### Prior Provisions
 
 A prior section 7310, added Pub. L. 97–295, §1(49)(A), Oct. 12, 1982, 96 Stat. 1298, related to policy for constructing combatant vessels, prior to repeal by Pub. L. 103–160, §824(a)(8).
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §344(1)(A), substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
+
+Subsec. (c)(3)(A). Pub. L. 112–239, §344(1)(B), inserted “and operational justification” after “justification under law”.
+
+Subsec. (c)(4). Pub. L. 112–239, §344(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 112–239, §344(2), redesignated par. (4) as (5).
+
+Subsec. (c)(5)(C). Pub. L. 112–239, §344(4), added subpar. (C).
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 

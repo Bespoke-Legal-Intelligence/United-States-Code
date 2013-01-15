@@ -2,7 +2,7 @@
 
 (a)
 
-Pen Registers.—Upon the request of an attorney for the Government or an officer of a lawenforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in section 3123(b)(2) of this title.
+Pen Registers.—Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in section 3123(b)(2) of this title.
 
 (b)
 
@@ -28,7 +28,7 @@ Communications Assistance Enforcement Orders.—Pursuant to section 2522, an ord
 
 #### References in Text
 
-The Communications Assistance for Law Enforcement Act, referred to in subsec. (f), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
+The Communications Assistance for Law Enforcement Act, referred to in subsec. (f), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
 #### Amendments
 

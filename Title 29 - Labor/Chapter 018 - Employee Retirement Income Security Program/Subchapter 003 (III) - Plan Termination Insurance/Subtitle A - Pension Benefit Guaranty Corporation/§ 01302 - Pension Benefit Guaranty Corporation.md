@@ -30,15 +30,39 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
 
-#### (c) Omitted
+#### (c) Director
+
+The Director shall be accountable to the board of directors. The Director shall serve for a term of 5 years unless removed by the President or the board of directors before the expiration of such 5-year term.
 
 #### (d) Board of directors; compensation; reimbursement for expenses
 
-The board of directors of the corporation consists of the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
+(1) The board of directors of the corporation consists of the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
+
+(2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at a meeting at which a quorum is present shall be the act of the board of directors.
+
+(3) Each member of the board of directors shall designate in writing an official, not below the level of Assistant Secretary, to serve as the voting representative of such member on the board. Such designation shall be effective until revoked or until a date or event specified therein. Any such representative may refer for board action any matter under consideration by the designating board member, but such representative shall not count toward establishment of a quorum as described under paragraph (2).
+
+(4) The Inspector General of the corporation shall report to the board of directors, and not less than twice a year, shall attend a meeting of the board of directors to provide a report on the activities and findings of the Inspector General, including with respect to monitoring and review of the operations of the corporation.
+
+(5) The General Counsel of the corporation shall—
+
+&emsp;(A) serve as the secretary to the board of directors, and advise such board as needed; and
+
+&emsp;(B) have overall responsibility for all legal matters affecting the corporation and provide the corporation with legal advice and opinions on all matters of law affecting the corporation, except that the authority of the General Counsel shall not extend to the Office of Inspector General and the independent legal counsel of such Office.
+
+(6) Notwithstanding any other provision of this chapter, the Office of Inspector General and the legal counsel of such Office are independent of the management of the corporation and the General Counsel of the corporation.
+
+(7) The board of directors may appoint and fix the compensation of employees as may be required to enable the board of directors to perform its duties. The board of directors shall determine the qualifications and duties of such employees and may appoint and fix the compensation of experts and consultants in accordance with the provisions of section 3109 of title 5.
 
 #### (e) Meetings
 
-The board of directors shall meet at the call of its chairman, or as otherwise provided by the bylaws of the corporation.
+(1) The board of directors shall meet at the call of its chairman, or as otherwise provided by the bylaws of the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).
+
+(2)(A) Except as provided in subparagraph (B), the chairman of the board of directors shall make available to the public the minutes from each meeting of the board of directors.
+
+(B) The minutes of a meeting of the board of directors, or a portion thereof, shall not be subject to disclosure under subparagraph (A) if the chairman reasonably determines that such minutes, or portion thereof, contain confidential employer information including information obtained under section 1310 of this title, information about the investment activities of the corporation, or information regarding personnel decisions of the corporation.
+
+(C) The minutes of a meeting, or portion of <sup>1</sup> thereof, exempt from disclosure pursuant to subparagraph (B) shall be exempt from disclosure under section 552(b) of title 5. For purposes of such section 552, this subparagraph shall be considered a statute described in subsection (b)(3) of such section 552.
 
 #### (f) Adoption of bylaws; amendment, alteration; publication in the Federal Register
 
@@ -46,7 +70,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (g) Exemption from taxation
 
-(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
+(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title),shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\]), or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
 
 (2) The receipts and disbursements of the corporation in the discharge of its functions shall be included in the totals of the budget of the United States Government. The United States is not liable for any obligation or liability incurred by the corporation.
 
@@ -54,11 +78,11 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (h) Advisory committee to corporation
 
-(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, and (D) such other issues as the corporation may request from time to time. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee.
+(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
 
-(2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. ThePresident shall designate one member as chairman at the time of the appointment of that member.
+(2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
-(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee.
+(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
@@ -74,13 +98,27 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
-(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(<i>l</i>), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935.)
+#### (j) Conflicts of interest
+
+#### (1) In general
+
+&emsp;The Director of the corporation and each member of the board of directors shall not participate in a decision of the corporation in which the Director or such member has a direct financial interest. The Director of the corporation shall not participate in any activities that would present a potential conflict of interest or appearance of a conflict of interest without approval of the board of directors.
+
+#### (2) Establishment of policy
+
+&emsp;The board of directors shall establish a policy that will inform the identification of potential conflicts of interests of the members of the board of directors and mitigate perceived conflicts of interest of such members and the Director of the corporation.
+
+#### (k) Risk management officer
+
+The corporation shall have a risk management officer whose duties include evaluating and mitigating the risk that the corporation might experience. The individual in such position shall coordinate the risk management efforts of the corporation, explain risks and controls to senior management and the board of directors of the corporation, and make recommendations.
+
+(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(l), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935; Pub. L. 112–141, div. D, title II, §§40231(a)–(d), 40232(b), July 6, 2012, 126 Stat. 853–855, 857.)
 
 #### References in Text
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
-This chapter, referred to in subsecs. (b)(3), (4), (8) and (i), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
@@ -90,9 +128,25 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(8), is Pub. L. 92
 
 #### Codification
 
-Subsec. (c) amended section 5108 of Title 5, Government Organization and Employees, and subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
+A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5, Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–141, §40231(d), amended subsec. (c) generally. See Codification note above.
+
+Subsec. (d). Pub. L. 112–141, §40231(a)(1), designated existing provisions as par. (1) and added pars. (2) to (7).
+
+Subsec. (e). Pub. L. 112–141, §40231(a)(2), designated existing provisions as par. (1), substituted “the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).” for “the corporation.” in par. (1), and added par. (2).
+
+Subsec. (h)(1). Pub. L. 112–141, §40232(b), inserted at end “In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.”
+
+Pub. L. 112–141, §40231(a)(3)(A), substituted “, (D)” for “, and (D)” and “time to time, and (E) other issues as determined appropriate by the advisory committee.” for “time to time.”
+
+Subsec. (h)(3). Pub. L. 112–141, §40231(a)(3)(B), inserted at end “Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).”
+
+Subsec. (j). Pub. L. 112–141, §40231(b), added subsec. (j).
+
+Subsec. (k). Pub. L. 112–141, §40231(c), added subsec. (k).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
 
@@ -100,7 +154,7 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 <b>1989</b>—Subsec. (g)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1980</b>—Subsec. (b)(3). Pub. L. 96–364, §403(<i>l</i>), inserted provisions respecting bylaws, etc., to carry out this subchapter.
+<b>1980</b>—Subsec. (b)(3). Pub. L. 96–364, §403(l), inserted provisions respecting bylaws, etc., to carry out this subchapter.
 
 Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
 
@@ -108,7 +162,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134,set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -118,11 +172,39 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-Section 406(b) of Pub. L. 96–364 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1980.”
+Pub. L. 96–364, title IV, §406(b), Sept. 26, 1980, 94 Stat. 1303, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1980.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1510(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on September 2, 1974.”
+Pub. L. 94–455, title XV, §1510(b), Oct. 4, 1976, 90 Stat. 1741, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on September 2, 1974.”
+
+#### Senses of Congress
+
+Pub. L. 112–141, div. D, title II, §40231(e), July 6, 2012, 126 Stat. 855, provided that:
+
+“(1)
+
+Formation of committees.—It is the sense of Congress that the board of directors of the Pension Benefit Guaranty Corporation established under section 4002 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1302), as amended by this section, should form committees, including an audit committee and an investment committee composed of not less than 2 members, to enhance the overall effectiveness of the board of directors.
+
+“(2)
+
+Advisory committee.—It is the sense of Congress that the advisory committee to the Pension Benefit Guaranty Corporation established under section 4002 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1302), as amended by this section, should provide to the board of directors of such corporation policy recommendations regarding changes to the law that would be beneficial to the corporation or the voluntary private pension system.”
+
+#### Quality Control Procedures for the Pension Benefit Guaranty Corporation
+
+Pub. L. 112–141, div. D, title II, §40233(a), July 6, 2012, 126 Stat. 857, provided that:
+
+“(a)
+
+Annual Peer Review of Insurance Modeling Systems.—The Pension Benefit Guaranty Corporation shall contract with a capable agency or organization that is independent from the Corporation, such as the Social Security Administration, to conduct an annual peer review of the Corporation's Single-Employer Pension Insurance Modeling System and the Corporation's Multiemployer Pension Insurance Modeling System. The board of directors of the Corporation shall designate the agency or organization with which any such contract is entered into. The first of such annual peer reviews shall be initiated no later than 3 months after the date of enactment of this Act \[July 6, 2012\].”
+
+#### Policies and Procedures Relating to the Policy, Research, and Analysis Department
+
+Pub. L. 112–141, div. D, title II, §40233(b), July 6, 2012, 126 Stat. 858, provided that: “The Pension Benefit Guaranty Corporation shall—
+
+&emsp;“(1) develop written quality review policies and procedures for all modeling and actuarial work performed by the Corporation's Policy, Research, and Analysis Department; and
+
+&emsp;“(2) conduct a record management review of such Department to determine what records must be retained as Federal records.”
 
 #### Transition
 
@@ -131,4 +213,8 @@ Pub. L. 109–280, title IV, §411(d), Aug. 17, 2006, 120 Stat. 936, provided th
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “advisory committee”.</i>
 

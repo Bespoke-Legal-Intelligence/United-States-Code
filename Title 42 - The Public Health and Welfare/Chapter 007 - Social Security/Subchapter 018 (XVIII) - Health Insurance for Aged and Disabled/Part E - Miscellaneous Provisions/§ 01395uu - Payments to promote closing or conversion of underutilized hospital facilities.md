@@ -40,7 +40,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 (3) A transitional allowance shall take effect on a date established by the Secretary, but not earlier than the date of completion of the closure or conversion concerned.
 
-(4) A transitional allowance shall not be considered in applying the limits to costs recognized as reasonable pursuant to the third sentence of subparagraph (A) and subparagraph (L)(i) of section 1395x(v)(1) of this title, or in determining whether the reasonable cost exceeds the customary charges for a service for purposes of determining the amount to be paid to a provider pursuant to sections 1395f(b) and 1395<i>l</i>(a)(2) of this title.
+(4) A transitional allowance shall not be considered in applying the limits to costs recognized as reasonable pursuant to the third sentence of subparagraph (A) and subparagraph (L)(i) of section 1395x(v)(1) of this title, or in determining whether the reasonable cost exceeds the customary charges for a service for purposes of determining the amount to be paid to a provider pursuant to sections 1395f(b) and 1395l(a)(2) of this title.
 
 #### (d) Hearing to review determination
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 #### Effective Date
 
-Section 2101(c) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[enacting this section and amending section 1396b of this title\] shall apply only to services furnished by a hospital duringany accounting year beginning on or after October 1, 1981.”
+Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided that: “The amendment made by subsection (a) \[enacting this section and amending section 1396b of this title\] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981.”
 
 #### Payments To Promote Closure and Conversion of Underutilized Hospital Facilities
 
@@ -66,5 +66,5 @@ Pub. L. 98–369, div. B, title III, §2353, July 18, 1984, 98 Stat. 1099, direc
 
 #### Establishment and Evaluation of Transitional Allowances; Report and Recommendations to Congress
 
-Section 2101(b) of Pub. L. 97–35 prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
+Pub. L. 97–35, title XXI, §2101(b), Aug. 13, 1981, 95 Stat. 786, prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
 

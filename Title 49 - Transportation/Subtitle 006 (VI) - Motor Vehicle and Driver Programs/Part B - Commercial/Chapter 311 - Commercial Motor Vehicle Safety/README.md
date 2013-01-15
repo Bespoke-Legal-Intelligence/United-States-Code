@@ -36,10 +36,10 @@
 | [31131\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031131%20-%20Purposes%20and%20findings.md) | Purposes and findings. |
 | [31132\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031132%20-%20Definitions.md) | Definitions. |
 | [31133\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031133%20-%20General%20powers%20of%20the%20Secretary%20of%20Transportation.md) | General powers of the Secretary of Transportation. |
-| \[31134. | Repealed.\] |
+| [31134\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031134%20-%20Requirement%20for%20registration%20and%20USDOT%20number.md) | Requirement for registration and USDOT number. |
 | [31135\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031135%20-%20Duties%20of%20employers%20and%20employees.md) | Duties of employers and employees. |
 | [31136\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031136%20-%20United%20States%20Government%20regulations.md) | United States Government regulations. |
-| [31137\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031137%20-%20Monitoring%20device%20and%20brake%20maintenance%20regulations.md) | Monitoring device and brake maintenance regulations. |
+| [31137\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031137%20-%20Electronic%20logging%20devices%20and%20brake%20maintenance%20regulations.md) | Electronic logging devices and brake maintenance regulations. |
 | [31138\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031138%20-%20Minimum%20financial%20responsibility%20for%20transporting%20passengers.md) | Minimum financial responsibility for transporting passengers. |
 | [31139\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031139%20-%20Minimum%20financial%20responsibility%20for%20transporting%20property.md) | Minimum financial responsibility for transporting property. |
 | \[31140. | Repealed.\] |
@@ -66,6 +66,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title II, §§32105(b), 32301(d), July 6, 2012, 126 Stat. 781, 788, added items 31134 and 31137 and struck out former item 31137 “Monitoring device and brake maintenance regulations”.
 
 <b>2005</b>—Pub. L. 109–59, title IV, §§4109(b)(2), 4110(b), 4111(b), 4116(e), 4117(b), 4118(b), 4119(b), Aug. 10, 2005, 119 Stat. 1721, 1722, 1724, 1728, 1729, 1732, 1733, substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter I heading, “Border enforcement grants” for “Contract authority funding for information systems” in item 31107, and “Motor carrier research and technology program” for “Authorization of appropriations” in item 31108 and added items 31109 and 31149 to 31151, subchapter IV heading, and item 31161.
 

@@ -30,7 +30,7 @@ Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 #### Effective Date of 1986 Amendment
 
-Section 1106(b) of Pub. L. 99–272 provided that the amendment made by that section is effective for 1986 and subsequent crops of tobacco.
+Pub. L. 99–272, title I, §1106(b), Apr. 7, 1986, 100 Stat. 91, provided that the amendment made by that section is effective for the 1986 and subsequent crops of tobacco.
 
 #### Rulemaking Procedures
 

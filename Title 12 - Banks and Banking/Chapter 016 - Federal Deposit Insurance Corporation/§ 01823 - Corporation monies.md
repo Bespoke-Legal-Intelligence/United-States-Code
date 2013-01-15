@@ -130,7 +130,7 @@ Systemic risk.—
 
 Emergency determination by secretary of the treasury.—Notwithstanding subparagraphs (A) and (E), if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that—
 
-&emsp;&emsp;&emsp;(I) the Corporation's compliance with subparagraphs (A) and (E) with respect toan insured depository institution for which the Corporation has been appointed receiver would have serious adverse effects on economic conditions or financial stability; and
+&emsp;&emsp;&emsp;(I) the Corporation's compliance with subparagraphs (A) and (E) with respect to an insured depository institution for which the Corporation has been appointed receiver would have serious adverse effects on economic conditions or financial stability; and
 
 &emsp;&emsp;&emsp;(II) any action or assistance under this subparagraph would avoid or mitigate such adverse effects,
 
@@ -284,7 +284,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (1) In general
 
-&emsp;No agreement which tends to diminish or defeat the interest of the Corporation in any asset acquired by it under this section or section 1821 of this title, either as security for a loan or by purchase or as receiver of any insured depository institution, shall be valid against the Corporation unless such agreement—
+&emsp;No agreement which tends to diminish or defeat the interest of the Corporation in any asset acquired by it under this section or section 1821 of this title, either as security for aloan or by purchase or as receiver of any insured depository institution, shall be valid against the Corporation unless such agreement—
 
 &emsp;&emsp;(A) is in writing,
 
@@ -298,7 +298,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 &emsp;An agreement to provide for the lawful collateralization of—
 
-&emsp;&emsp;(A) deposits of, or other credit extension by, a Federal, State, or local governmentalentity, or of any depositor referred to in section 1821(a)(2) of this title, including an agreement to provide collateral in lieu of a surety bond;
+&emsp;&emsp;(A) deposits of, or other credit extension by, a Federal, State, or local governmental entity, or of any depositor referred to in section 1821(a)(2) of this title, including an agreement to provide collateral in lieu of a surety bond;
 
 &emsp;&emsp;(B) bankruptcy estate funds pursuant to section 345(b)(2) of title 11;
 
@@ -518,7 +518,7 @@ Minority.—The term “minority” means any Black American, Native American, H
 
 #### (g) Payment of interest on stock subscriptions
 
-Prior to July 1, 1951, the Corporation shall pay out of its capital account to the Secretary of the Treasury an amount equal to 2 per centum simple interest per annum on amounts advanced to the Corporation on stock subscriptions by the Secretary of the Treasury and the Federal Reserve banks, from the time of such advances until the amounts thereof were repaid. The amount payable hereunder shall be paid in two equal installments, the first installment to be paid prior to December 31, 1950.
+Prior to July 1, 1951, the Corporation shall pay out of its capital account to the Secretary of the Treasury an amount equal to 2 per centum simple interest per annum on amounts advanced to the Corporation on stock subscriptions by the Secretary of the Treasury and the Federal Reserve banks, from the time of such advancesuntil the amounts thereof were repaid. The amount payable hereunder shall be paid in two equal installments, the first installment to be paid prior to December 31, 1950.
 
 #### (h) Reopening or aversion of closing of insured branch of foreign bank
 
@@ -530,7 +530,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (1) Eligibility
 
-&emsp;The appropriate Federal banking agency shall permit an agricultural bank to take theactions referred to in paragraph (2) if it finds that—
+&emsp;The appropriate Federal banking agency shall permit an agricultural bank to take the actions referred to in paragraph (2) if it finds that—
 
 &emsp;&emsp;(A) there is no evidence that fraud or criminal abuse on the part of the bank led to the losses referred to in paragraph (2); and
 
@@ -590,7 +590,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (ii) Terms of transactions
 
-&emsp;&emsp;&emsp;Mergers, consolidations, transfers, and acquisitions under this subsection shall be on such terms as the Corporation shall provide.
+&emsp;&emsp;&emsp;Mergers, consolidations, transfers, and acquisitions under this subsection shall beon such terms as the Corporation shall provide.
 
 #### (iii) Approval by appropriate agency
 
@@ -682,7 +682,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;&emsp;(II) The member's negative tangible capital position is substantially attributable to its participation in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons.
 
-&emsp;&emsp;&emsp;&emsp;(III) The member is a qualified thrift lender (as defined in section 1467a(m) of this title) or would be a qualified thriftlender if commercial real estate owned and nonperforming commercial loans acquired in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons were excluded from the member's total assets.
+&emsp;&emsp;&emsp;&emsp;(III) The member is a qualified thrift lender (as defined in section 1467a(m) of this title) or would be a qualified thrift lender if commercial real estate owned and nonperforming commercial loans acquired in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons were excluded from the member's total assets.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The appropriate Federal banking agency has determined that the member's management is competent and has complied with applicable laws, rules, and supervisory directives and orders.
 
@@ -1014,15 +1014,15 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1983 Amendments
 
-Section 1(b) of Pub. L. 98–29 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect on the date of enactment of the Garn-St Germain Depository Institutions Act of 1982 \[Oct. 15, 1982\].”
+Pub. L. 98–29, §1(b), May 16, 1983, 97 Stat. 189, provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect on the date of enactment of the Garn-St Germain Depository Institutions Act of 1982 \[Oct. 15, 1982\].”
 
-Section 1(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+Pub. L. 97–457, §1(b), Jan. 12, 1983, 96 Stat. 2507, provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
 
-Section 10(b) of Pub. L. 97–457 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
+Pub. L. 97–457, §10(b), Jan. 12, 1983, 96 Stat. 2508, provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect upon the enactment of Public Law 97–320 \[Oct. 15, 1982\].”
 
 #### Effective Date of 1982 Amendment
 
-Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat. 1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
+Pub. L. 97–320, title II, §206, Oct. 15, 1982, 96 Stat. 1496, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat. 1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
 
 “(a) On October 13, 1991, section 406(f)(5) of the National Housing Act \[12 U.S.C. 1729(f)(5)\] and section 13(i) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(i)\] are repealed.
 
@@ -1030,11 +1030,11 @@ Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 
 
 #### GAO Compliance Audit
 
-Section 141(a)(2) of Pub. L. 102–242, as amended by Pub. L. 104–316, title I, §106(b), Oct. 19, 1996, 110 Stat. 3830, provided that: “The Comptroller General of the United States shall audit, under such conditions as the Comptroller General determines to be appropriate, the Federal Deposit Insurance Corporation and the Resolution Trust Corporation to determine the extent to which such corporations are complying with section 13(c)(4) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(c)(4)\].”
+Pub. L. 102–242, title I, §141(a)(2), Dec. 19, 1991, 105 Stat. 2276, as amended by Pub. L. 104–316, title I, §106(b), Oct. 19, 1996, 110 Stat. 3830, provided that: “The Comptroller General of the United States shall audit, under such conditions as the Comptroller General determines to be appropriate, the Federal Deposit Insurance Corporation and the Resolution Trust Corporation to determine the extent to which such corporations are complying with section 13(c)(4) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(c)(4)\].”
 
 #### Early Resolution of Troubled Insured Depository Institutions
 
-Section 143 of Pub. L. 102–242 provided that:
+Pub. L. 102–242, title I, §143, Dec. 19, 1991, 105 Stat. 2281, provided that:
 
 “(a)
 
@@ -1096,13 +1096,13 @@ Sections 141(a) and 206(a) of Pub. L. 97–320, which are set out as notes under
 
 #### Annual Reports to Congress by Federal Home Loan Bank Board and Federal Deposit Insurance Corporation on Purchases of Net Worth Certificates
 
-Section 204 of Pub. L. 97–320 provided that: “The Federal Home Loan Bank Board and the Board of Directors of the Federal Deposit Insurance Corporation shall each transmit an annual report to each House of the Congress specifying the types and amounts of net worth certificates purchased from each depository institution and the conditions imposed on each such depository institution.”
+Pub. L. 97–320, title II, §204, Oct. 15, 1982, 96 Stat. 1495, provided that: “The Federal Home Loan Bank Board and the Board of Directors of the Federal Deposit Insurance Corporation shall each transmit an annual report to each House of the Congress specifying the types and amounts of net worth certificates purchased from each depository institution and the conditions imposed on each such depository institution.”
 
 \[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
 
 #### Semiannual Audit by Comptroller General of Net Worth Certificate Programs of Federal Deposit Insurance Corporation and Federal Home Loan Bank Board
 
-Section 205 of Pub. L. 97–320 provided that: “The Comptroller General of the United States shall conduct on a semiannual basis an audit of the net worth certificate programs of the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board. A report on each such audit shall be transmitted to each House of the Congress.”
+Pub. L. 97–320, title II, §205, Oct. 15, 1982, 96 Stat. 1495, provided that: “The Comptroller General of the United States shall conduct on a semiannual basis an audit of the net worth certificate programs of the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board. A report on each such audit shall be transmitted to each House of the Congress.”
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 205 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 3 of House Document No. 103–7.\]
 

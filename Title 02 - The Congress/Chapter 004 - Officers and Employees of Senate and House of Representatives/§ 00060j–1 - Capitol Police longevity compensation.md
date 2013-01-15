@@ -16,7 +16,7 @@ Section 105 of the Legislative Branch Appropriation Act, 1959, referred to in te
 
 #### Effective Date
 
-Section 104(d) of Pub. L. 88–454 provided that: “This section \[enacting this section and amending section 60j of this title\] shall become effective on the first day of the month following the date of enactment of this Act \[Aug. 20, 1964\].”
+Pub. L. 88–454, §104(d), Aug. 20, 1964, 78 Stat. 550, provided that: “This section \[enacting this section and amending section 60j of this title\] shall become effective on the first day of the month following the date of enactment of this Act \[Aug. 20, 1964\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15
 
-(a) Subject to subsection (b), the exercise of any contractual right, because of a condition of the kind specified in section 365(e)(1), to causethe termination, liquidation, or acceleration of or to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more (or the termination, liquidation, or acceleration of one or more)—
+(a) Subject to subsection (b), the exercise of any contractual right, because of a condition of the kind specified in section 365(e)(1), to cause the termination, liquidation, or acceleration of or to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more (or the termination, liquidation, or acceleration of one or more)—
 
 &emsp;(1) securities contracts, as defined in section 741(7);
 
@@ -32,7 +32,7 @@
 
 (c) As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof, and a right, whether or not evidenced in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
-(d) Any provisions of this title relating to securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements, or master netting agreements shall apply in a case under chapter 15, so that enforcement of contractual provisions of such contracts and agreements in accordance with their terms will not be stayed or otherwise limited by operation of any provision of this title or by order of a court in any case under this title, and to limit avoidance powers to the same extent as in a proceeding under chapter 7 or 11 of this title (such enforcement not to be limited based on the presence or absence of assets of the debtor in the United States).
+(d) Any provisions of this title relating to securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements, or master netting agreements shall apply in a case under chapter 15, so that enforcement of contractual provisions of such contracts and agreements in accordance with their terms will not be stayed or otherwise limited by operation of any provision of this title or by order of a court in any case under this title, and to limitavoidance powers to the same extent as in a proceeding under chapter 7 or 11 of this title (such enforcement not to be limited based on the presence or absence of assets of the debtor in the United States).
 
 (Added Pub. L. 109–8, title IX, §907(k)(1), Apr. 20, 2005, 119 Stat. 179.)
 

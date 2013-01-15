@@ -54,7 +54,7 @@
 
 #### (B) Application of certain provisions
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred toin such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
+&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred to in such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
@@ -128,7 +128,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts) as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualifiedcountermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
+&emsp;The Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, employ such expedited peer review procedures (including consultation with appropriate scientific experts) as the Secretary, in consultation with the Director of NIH, deems appropriate to obtain assessment of scientific and technical merit and likely contribution to the field of qualified countermeasure research, in place of the peer review and advisory council review procedures that would be required under sections 241(a)(3), 284(b)(1)(B), 284(b)(2), 284a(a)(3)(A), 289a, and 289c of this title, as applicable to a grant, contract, or cooperative agreement—
 
 &emsp;&emsp;(A) that is for performing, administering, or supporting qualified countermeasure research and development activities; and
 
@@ -142,7 +142,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of performing, administering, or supporting qualified countermeasure research and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such section on the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
+&emsp;For the purpose of performing, administering, or supporting qualified countermeasureresearch and development activities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, obtain by contract (in accordance with section 3109 of title 5, but without regard to the limitations in such section on the period of service and on pay) the personal services of experts or consultants who have scientific or other professional qualifications, except that in no case shall the compensation provided to any such expert or consultant exceed the daily equivalent of the annual rate of compensation for the President.
 
 #### (2) Federal Tort Claims Act coverage
 
@@ -260,7 +260,7 @@ Meetings and consultations to discuss security countermeasures, qualified counte
 
 &emsp;&emsp;“(A)
 
-Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney Generaland the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
+Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
 
 &emsp;&emsp;“(B)
 
@@ -388,7 +388,7 @@ Exception.—The term ‘covered activities’ shall not include, with respect t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to preventthe misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
 
 &emsp;&emsp;&emsp;“(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
 

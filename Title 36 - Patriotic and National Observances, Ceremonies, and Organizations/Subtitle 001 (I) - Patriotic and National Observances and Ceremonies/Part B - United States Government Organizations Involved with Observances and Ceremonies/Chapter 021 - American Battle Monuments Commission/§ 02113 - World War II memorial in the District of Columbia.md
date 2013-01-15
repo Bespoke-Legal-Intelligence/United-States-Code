@@ -70,7 +70,7 @@ Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) 
 
 #### References in Text
 
-The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec. (b)(1)(C) is Pub. L.102–414, Oct. 14, 1992, 106 Stat. 2106, which is classified as a note under section 5112 of Title 31, Money and Finance.
+The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec. (b)(1)(C) is Pub. L. 102–414, Oct. 14, 1992, 106 Stat. 2106, which is classified as a note under section 5112 of Title 31, Money and Finance.
 
 #### Amendments
 

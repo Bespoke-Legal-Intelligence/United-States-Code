@@ -18,7 +18,7 @@ Regional Centers Specified.—(1) A Department of Defense Regional Center for Se
 
 &emsp;(B) The Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
 
-&emsp;(C) The Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
+&emsp;(C) The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
 
 &emsp;(D) The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
 
@@ -52,7 +52,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (4) Funds accepted for the payment of costs shall be credited to the appropriation then currently available to the Department of Defense for the Regional Center that incurred the costs. Funds so credited shall be merged with the appropriation to which credited and shall be available to that Regional Center for the same purposes and same period as the appropriation with which merged.
 
-(5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.
+(5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.
 
 (6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
@@ -60,9 +60,13 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 Support to Other Agencies.—The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, §1061(2), Dec. 31, 2011, 125 Stat. 1583.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, §903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, §904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, \[div. A\], title IX, §941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, §1061(2), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. B, title XXVIII, §2854(b)(1), Jan. 2, 2013, 126 Stat. 2161.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2)(C). Pub. L. 112–239, §2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
+
+Subsec. (f)(5). Pub. L. 112–239, §2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
 
 <b>2011</b>—Subsec. (h). Pub. L. 112–81 struck out subsec. (h) which required the Secretary of Defense to submit an annual report on the operation of the Regional Centers for security studies during the preceding fiscal year.
 
@@ -88,13 +92,19 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under section 2611 of this titl
 
 Pub. L. 110–417, \[div. A\], title IX, §941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under section 184 of title 10, United States Code (as so amended), that begin on or after that date.”
 
+#### Redesignation of the Center for Hemispheric Defense Studies as the William J. Perry Center for Hemispheric Defense Studies
+
+Pub. L. 112–239, div. B, title XXVIII, §2854(a), Jan. 2, 2013, 126 Stat. 2161, provided that: “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
+
+Pub. L. 112–239, div. B, title XXVIII, §2854(c), Jan. 2, 2013, 126 Stat. 2162, provided that: “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
+
 #### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
 
-Pub. L. 110–417, \[div. A\], title IX, §941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, §941, Jan. 7, 2011, 124 Stat. 4340, provided that:
+Pub. L. 110–417, \[div. A\], title IX, §941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, §941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, §953, Jan. 2, 2013, 126 Stat. 1895, provided that:
 
 “(1)
 
-Authority for temporary waiver.—In fiscal years 2009 through 2012, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of section 184 of title 10, United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
+Authority for temporary waiver.—In fiscal years 2009 through 2013, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of section 184 of title 10, United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
 
 “(2)
 

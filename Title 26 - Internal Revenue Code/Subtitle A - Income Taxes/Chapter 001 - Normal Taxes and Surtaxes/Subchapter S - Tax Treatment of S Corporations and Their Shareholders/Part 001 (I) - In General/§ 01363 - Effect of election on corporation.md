@@ -134,11 +134,11 @@ Amendment by section 2004(n) of Pub. L. 100–647 effective, except as otherwise
 
 #### Effective Date of 1987 Amendment
 
-Section 10227(b) of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title X, §10227(b), Dec. 22, 1987, 101 Stat. 1330–417, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2) the amendment made by subsection (a) \[amending thissection\] shall apply in the case of elections made after December 17, 1987.
+In general.—Except as provided in paragraph (2) the amendment made by subsection (a) \[amending this section\] shall apply in the case of elections made after December 17, 1987.
 
 “(2)
 

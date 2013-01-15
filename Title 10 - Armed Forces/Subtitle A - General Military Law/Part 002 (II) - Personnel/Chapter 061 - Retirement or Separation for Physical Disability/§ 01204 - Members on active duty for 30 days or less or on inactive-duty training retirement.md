@@ -98,7 +98,7 @@ Par. (2). Pub. L. 105–85, §513(c)(1), amended par. (2) generally. Prior to am
 
 #### Effective Date of 1992 Amendment
 
-Section 516(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section and section 1206 of this title\] shall take effect with respect to disabilities incurred on or after November 14, 1986, but any benefits or services payable by reason of the applicability of those amendments during the period beginning on November 14, 1986, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
+Pub. L. 102–484, div. A, title V, §516(b), Oct. 23, 1992, 106 Stat. 2407, provided that: “The amendments made by subsection (a) \[amending this section and section 1206 of this title\] shall take effect with respect to disabilities incurred on or after November 14, 1986, but any benefits or services payable by reason of the applicability of those amendments during the period beginning on November 14, 1986, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
 
 #### Effective Date of 1986 Amendment
 

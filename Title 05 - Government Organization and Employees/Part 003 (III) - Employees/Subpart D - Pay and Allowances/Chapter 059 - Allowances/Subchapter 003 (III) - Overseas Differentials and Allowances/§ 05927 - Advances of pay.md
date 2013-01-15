@@ -28,7 +28,7 @@ Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in su
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–228, §320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, or a nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member's post of residence, who—
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–228, §320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, ora nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member's post of residence, who—
 
 &emsp;“(A) is located outside the country of employment of such foreign national employee or nonfamily member (as the case may be) pursuant to Government authorization; and
 

@@ -162,7 +162,7 @@ Charitable trusts which are type iii supporting organizations.—Subsection (c) 
 
 #### Effective Date of 1978 Amendment
 
-Section 2(e) of Pub. L. 95–345, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 1058 of this title and amending sections 509, 512, 514, 851, and 4940 of this title\] apply with respect to—
+Pub. L. 95–345, §2(e), Aug. 15, 1978, 92 Stat. 483, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 1058 of this title and amending sections 509, 512, 514, 851, and 4940 of this title\] apply with respect to—
 
 &emsp;“(1) amounts received after December 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), and
 
@@ -170,7 +170,7 @@ Section 2(e) of Pub. L. 95–345, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Effective Date of 1975 Amendment
 
-Section 3(b) of Pub. L. 94–81 provided that: “The amendment made by this section \[amending this section\] shall apply to unrelated business taxable income derived from trades and businesses which are acquired by the organization after June 30, 1975.”
+Pub. L. 94–81, §3(b), Aug. 9, 1975, 89 Stat. 418, provided that: “The amendment made by this section \[amending this section\] shall apply to unrelated business taxable income derived from trades and businesses which are acquired by the organization after June 30, 1975.”
 
 #### Effective Date
 
@@ -178,7 +178,7 @@ Section effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set o
 
 #### Savings Provision
 
-Applicability of subsec. (a) of this section to testamentary trusts, see section 101(<i>l</i>)(7) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of subsec. (a) of this section to testamentary trusts, see section 101(l)(7) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
 #### Charitable Trusts Which Are Type III Supporting Organizations
 
@@ -200,5 +200,5 @@ In general.—The Secretary of the Treasury shall promulgate new regulations und
 
 “(2)
 
-Type iii supporting organization; functionally integrated type iii supporting organization.—For purposes of paragraph (1), the terms ‘type III supporting organization’ and ‘functionally integrated type IIIsupporting organization’ have the meanings given such terms under subparagraphs (A) and (B) section 4943(f)(5) of the Internal Revenue Code of 1986 (as added by this Act), respectively.”
+Type iii supporting organization; functionally integrated type iii supporting organization.—For purposes of paragraph (1), the terms ‘type III supporting organization’ and ‘functionally integrated type III supporting organization’ have the meanings given such terms under subparagraphs (A) and (B) section 4943(f)(5) of the Internal Revenue Code of 1986 (as added by this Act), respectively.”
 

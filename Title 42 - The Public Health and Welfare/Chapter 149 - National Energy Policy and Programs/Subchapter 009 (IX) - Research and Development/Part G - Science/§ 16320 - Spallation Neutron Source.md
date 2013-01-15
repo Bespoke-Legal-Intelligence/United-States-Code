@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) is based on peer review of proposals submitted for use of the Facility;
 
-&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full use of a variety of high quality scientific instruments; and
+&emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full useof a variety of high quality scientific instruments; and
 
 &emsp;&emsp;&emsp;(iii) phases in systems upgrades to ensure that the Facility remains at the forefront of international scientific endeavors in the field of the Facility throughout the operating life of the Facility;
 
@@ -74,7 +74,7 @@ In this section:
 
 #### (1) Spallation Neutron Source Project
 
-&emsp;There is authorized to be appropriated to carry out the Spallation Neutron SourceProject for the lifetime of the Project $1,411,700,000 for total project costs, of which—
+&emsp;There is authorized to be appropriated to carry out the Spallation Neutron Source Project for the lifetime of the Project $1,411,700,000 for total project costs, of which—
 
 &emsp;&emsp;(A) $1,192,700,000 shall be used for the costs of construction; and
 

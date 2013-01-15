@@ -22,7 +22,7 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;(3) to develop a human-factor analysis of the hazards associated with new technologies to be used by air traffic controllers, mechanics, and flight crews;
 
-&emsp;(4) to identify innovative and effective corrective measures for human errors that adversely affect air safety; and
+&emsp;(4) to identify innovative and effective corrective measures for human errors that adversely affect air safety;
 
 &emsp;(5) to develop dynamic simulation models of the air traffic control system and airport design and operating procedures that will provide analytical technology—
 
@@ -30,7 +30,11 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;&emsp;(B) to evaluate planned research projects; and
 
-&emsp;&emsp;(C) to test proposed revisions in airport and air traffic control operations programs.
+&emsp;&emsp;(C) to test proposed revisions in airport and air traffic control operations programs;
+
+&emsp;(6) to develop a better understanding of the relationship between human factors and unmanned aircraft system safety; and
+
+&emsp;(7) to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
 
 (c)
 
@@ -50,9 +54,25 @@ Research on Developing and Maintaining a Safe and Efficient System.—The Admini
 
 (d)
 
+Research on Design for Certification.—
+
+&emsp;(1)
+
+Research.—Not later than 1 year after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall conduct research on methods and procedures to improve both confidence in and the timeliness of certification of new technologies for their introduction into the national airspace system.
+
+&emsp;(2)
+
+Research plan.—Not later than 6 months after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall develop a plan for the research under paragraph (1) that contains objectives, proposed tasks, milestones, and a 5-year budgetary profile.
+
+&emsp;(3)
+
+Review.—The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2) and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
+
+(e)
+
 Cooperative Agreements.—The Administrator may enter into cooperative agreements on a cost-shared basis with Federal and non-Federal entities that the Administrator may select in order to conduct, encourage, and promote aviation research, engineering, and development, including the development of prototypes and demonstration models.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1177; Pub. L. 103–305, title III, §307, Aug. 23, 1994, 108 Stat. 1593.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1177; Pub. L. 103–305, title III, §307, Aug. 23, 1994, 108 Stat. 1593; Pub. L. 112–95, title IX, §§903(b), 905, Feb. 14, 2012, 126 Stat. 138, 139.)
 
 Historical and Revision Notes
 
@@ -110,13 +130,63 @@ In subsection (a)(1) and (3), the words “the armed forces” are substituted f
 
 In subsection (a)(3), the words “military department” are substituted for “military agency” because of the definition of “military department” in 10:101. The words “the needs of” and “to the maximum extent necessary” are omitted as surplus.
 
+#### References in Text
+
+The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(6), (7). Pub. L. 112–95, §903(b), added pars. (6) and (7).
+
+Subsecs. (d), (e). Pub. L. 112–95, §905, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–305 added subsec. (d).
 
+#### Aircraft Departure Queue Management Pilot Program
+
+Pub. L. 112–95, title V, §507, Feb. 14, 2012, 126 Stat. 106, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) \[probably means section 48101(a) of title 49, United States Code\] to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft.
+
+“(b)
+
+Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program.
+
+“(c)
+
+Maximum Amount.—Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport.”
+
+#### Research Program on Runways
+
+Pub. L. 112–95, title IX, §904, Feb. 14, 2012, 126 Stat. 139, provided that: “Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to—
+
+&emsp;“(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements; and
+
+&emsp;“(2) engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations.”
+
+#### Wake Turbulence, Volcanic Ash, and Weather Research
+
+Pub. L. 112–95, title IX, §915, Feb. 14, 2012, 126 Stat. 144, provided that: “Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall—
+
+&emsp;“(1) initiate an evaluation of proposals related to research on the nature of wake vortexes that would increase national airspace system capacity by reducing existing spacing requirements between aircraft of all sizes;
+
+&emsp;“(2) begin implementation of a system to improve volcanic ash avoidance options for aircraft, including the development of a volcanic ash warning and notification system for aviation; and
+
+&emsp;“(3) coordinate with NOAA \[National Oceanic and Atmospheric Administration\], NASA \[National Aeronautics and Space Administration\], and other appropriate Federal agencies to conduct research to reduce the hazards presented to commercial aviation related to—
+
+&emsp;&emsp;“(A) ground de-icing and anti-icing, ice pellets, and freezing drizzle;
+
+&emsp;&emsp;“(B) oceanic weather, including convective weather;
+
+&emsp;&emsp;“(C) en route turbulence prediction and detection; and
+
+&emsp;&emsp;“(D) all hazards during oceanic operations, where commercial traffic is high and only rudimentary satellite sensing is available.”
+
 #### Assessment of Wake Turbulence Research and Development Program
 
-Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration's proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
+Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of theFederal Aviation Administration's proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
 
 #### Ensuring Appropriate Standards for Airfield Pavements
 

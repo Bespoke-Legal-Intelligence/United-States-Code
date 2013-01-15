@@ -6,6 +6,8 @@ General.—(1) Except as provided in this section, sections 30113 and 30114 of t
 
 (2) Except as provided in this section, sections 30113 and 30114 of this title, and subchapter III of this chapter, a school or school system may not purchase or lease a new 15-passenger van if it will be used significantly by, or on behalf of, the school or school system to transport preprimary, primary, or secondary school students to or from school or an event related to school, unless the 15-passenger van complies with the motor vehicle standards prescribed for school buses and multifunction school activity buses under this title. This paragraph does not apply to the purchase or lease of a 15-passenger van under a contract executed before the date of enactment of this paragraph.
 
+(3) Except as provided in this section, section 30114, subsections (i) and (j) of section 30120, and subchapter III, a person may not sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States any motor vehicle or motor vehicle equipment if the vehicle or equipment contains a defect related to motor vehicle safety about which notice was given under section 30118(c) or an order was issued under section 30118(b). Nothing in this paragraph may be construed to prohibit the importation of a new motor vehicle that receives a required recall remedy before being sold to a consumer in the United States.
+
 (b)
 
 Nonapplication.—This section does not apply to—
@@ -14,9 +16,11 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(2) a person—
 
-&emsp;&emsp;(A) establishing that the person had no reason to know, despite exercising reasonable care, that a motor vehicle or motor vehicle equipment does not comply with applicable motor vehicle safety standards prescribed under this chapter; or
+&emsp;&emsp;(A) establishing that the person had no reason to know, despite exercising reasonable care, that a motor vehicle or motor vehicle equipment does not comply with applicable motor vehicle safety standards prescribed under this chapter;
 
-&emsp;&emsp;(B) holding, without knowing about the noncompliance and before the vehicle or equipment is first purchased in good faith other than for resale, a certificate issued by a manufacturer or importer stating the vehicle or equipment complies with applicable standards prescribed under this chapter;
+&emsp;&emsp;(B) holding, without knowing about the noncompliance and before the vehicle or equipment is first purchased in good faith other than for resale, a certificate issued by a manufacturer or importer stating the vehicle or equipment complies with applicable standards prescribed under this chapter; or
+
+&emsp;&emsp;(C) having no reason to know, despite exercising reasonable care, that a motor vehicle or motor vehicle equipment contains a defect related to motor vehicle safety about which notice was given under section 30118(c) or an order was issued under section 30118(b);
 
 &emsp;(3) a motor vehicle or motor vehicle equipment intended only for export, labeled for export on the vehicle or equipment and on the outside of any container of the vehicle or equipment, and exported;
 
@@ -32,7 +36,7 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(9) a motor vehicle that is at least 25 years old.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 109–59, title X, §10309(b), Aug. 10, 2005, 119 Stat. 1942.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 109–59, title X, §10309(b), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §31207, July 6, 2012, 126 Stat. 761.)
 
 Historical and Revision Notes
 
@@ -86,5 +90,13 @@ The date of enactment of this paragraph, referred to in subsec. (a)(2), is the d
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–141, §31207(1), added par. (3).
+
+Subsec. (b)(2)(C). Pub. L. 112–141, §31207(2), added subpar. (C).
+
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed amendment of section 30112(a), without specifying the title to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

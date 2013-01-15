@@ -38,7 +38,7 @@ The Secretary of the Senate shall promulgate rules and regulations to carry out 
 
 #### Effective Date of 1996 Amendment
 
-Section 101(e) of title I of Pub. L. 104–316 provided that:
+Pub. L. 104–316, title I, §101(e), Oct. 19, 1996, 110 Stat. 3827, provided that:
 
 “(1)
 

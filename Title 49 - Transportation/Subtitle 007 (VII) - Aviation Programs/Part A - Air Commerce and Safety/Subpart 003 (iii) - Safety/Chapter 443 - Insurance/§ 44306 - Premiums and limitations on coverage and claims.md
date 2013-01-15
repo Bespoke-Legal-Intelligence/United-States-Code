@@ -80,3 +80,7 @@ Pub. L. 108–176, title I, §106(e), Dec. 12, 2003, 117 Stat. 2499, provided th
 
 Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287, provided that the amendment made by section 1203 is effective Nov. 19, 2001.
 
+#### Delegation of Authority
+
+Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, set out as a note under section 44302 of this title.
+

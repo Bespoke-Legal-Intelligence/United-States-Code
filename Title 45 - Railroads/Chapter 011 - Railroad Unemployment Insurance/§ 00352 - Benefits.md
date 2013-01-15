@@ -88,11 +88,11 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (A) Generally
 
-&emsp;&emsp;The maximum number of days of unemployment within a benefit year for which benefits may be paid to an employee shall be 130, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be 130.
+&emsp;&emsp;The maximum number of days of unemployment within a benefit year for whichbenefits may be paid to an employee shall be 130, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be 130.
 
 #### (B) Limitation
 
-&emsp;&emsp;The total amount of benefits that may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits that may be paid to an employee for days ofsickness within a benefit year shall in no case exceed the employee's compensation in the base year, except that notwithstanding section 351(i) of this title, in determining the employee's compensation in the base year for the purpose of this sentence, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600.
+&emsp;&emsp;The total amount of benefits that may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits that may be paid to an employee for days of sickness within a benefit year shall in no case exceed the employee's compensation in the base year, except that notwithstanding section 351(i) of this title, in determining the employee's compensation in the base year for the purpose of this sentence, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600.
 
 #### (2) Extended benefits
 
@@ -124,7 +124,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (iii) Application
 
-&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on August 31, 2011, except that no extended benefit period under this paragraph shall begin after February 29, 2012. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2013, except that no extended benefit period under this paragraph shall begin after December 31, 2013. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
 
 #### (iv) Appropriation
 
@@ -166,13 +166,17 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L.93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (c)(2)(D)(iii) and (d), was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(2)(D)(iii). Pub. L. 112–240 substituted “June 30, 2013” for “June 30, 2012” and “December 31, 2013” for “December 31, 2012”.
+
+<b>2012</b>—Subsec. (c)(2)(D)(iii). Pub. L. 112–96 substituted “June 30, 2012” for “August 31, 2011” and “December 31, 2012” for “February 29, 2012”.
 
 <b>2011</b>—Subsec. (c)(2)(D)(iii). Pub. L. 112–78 substituted “August 31, 2011” for “June 30, 2011” and “February 29, 2012” for “December 31, 2011”.
 
@@ -216,7 +220,7 @@ Subsec. (a)(4). Pub. L. 100–647, §7201(a)(8), inserted “(4)” before “In
 
 Subsec. (c). Pub. L. 100–647, §7101(c), substituted “shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600” for “not in excess of $775 in any month shall be taken into account”.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–76 substituted “That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work” for “That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of thefirst seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76 substituted “That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work” for “That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of the first seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment”.
 
 <b>1975</b>—Subsec. (a), first par. Pub. L. 94–92, §1(c)(1), inserted proviso and definition of registration period, provided for payment of sickness benefits after four rather than after seven days of sickness, and inserted definition of period of continuing sickness.
 
@@ -260,7 +264,7 @@ Subsec. (f). Act July 31, 1946, §307, inserted references to sickness.
 
 Subsec. (c). Act Oct. 10, 1940, §10, substituted provisions relating to maximum number of days of unemployment within a benefit year, for provisions relating to maximum benefits payable to an employee within his benefit year.
 
-Subsec. (d). Act Oct. 10, 1940, §11, substituted provisions relating to adjustments for erroneous payments and procedure for recovery of such payments, for provisions making applicable section 228i of this title for adjustments and recovery of erroneous payments.
+Subsec. (d). Act Oct. 10, 1940, §11, substituted provisions relating to adjustments for erroneous paymentsand procedure for recovery of such payments, for provisions making applicable section 228i of this title for adjustments and recovery of erroneous payments.
 
 Subsec. (f). Act Oct. 10, 1940, §12, in cl. (i) substituted provisions relating to registration periods for provisions relating to benefits paid with respect to any period, and in text following cl. (ii) inserted condition relating to benefits which were paid upon the basis of days determined to be days of unemployment and included in the period for which remuneration is payable.
 
@@ -274,7 +278,7 @@ Subsecs. (f), (g). Act June 20, 1939, §9, redesignated subsec (g) as (f) and st
 
 #### Effective Date of 1996 Amendment
 
-Section 6 of Pub. L. 104–251 provided that: “The amendments made by this Act \[amending this sectionand repealing section 368 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].”
+Pub. L. 104–251, §6, Oct. 9, 1996, 110 Stat. 3165, provided that: “The amendments made by this Act \[amending this section and repealing section 368 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Effective Date of 1995 Amendment
 
@@ -282,7 +286,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1988 Amendment
 
-Section 7201(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VII, §7201(b), Nov. 10, 1988, 102 Stat. 3776, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].
 
@@ -290,7 +294,7 @@ Section 7201(b) of Pub. L. 100–647 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 412(b) of Pub. L. 98–76 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to days of unemployment in registration periods beginning after December 31, 1983.”
+Pub. L. 98–76, title IV, §412(b), Aug. 12, 1983, 97 Stat. 436, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to days of unemployment in registration periods beginning after December 31, 1983.”
 
 #### Effective Date of 1975 Amendment; Reduction of Benefits in View of Coverage Under Nongovernmental Plan; Filing Claims for Payments to Insurers and Employers
 
@@ -302,7 +306,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 208 of Pub. L. 90–257 provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not be applicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
+Pub. L. 90–257, title II, §208, Feb. 15, 1968, 82 Stat. 25, provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not be applicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
 
 #### Effective Date of 1959 Amendment
 
@@ -310,7 +314,7 @@ Amendment by Pub. L. 86–28 effective with respect to benefits accruing in gene
 
 #### Effective Date of 1955 Amendment
 
-Section 4 of act Aug. 12, 1955, provided that the amendment made by that section is effective as of the date of its “original enactment” \[June 25, 1938\].
+Act Aug. 12, 1955, ch. 869, §4, 69 Stat. 716, provided that the amendment made by section 4 is effective as of the date of its “original enactment” \[June 25, 1938\].
 
 #### Effective Date of 1954 Amendment
 
@@ -318,17 +322,29 @@ Amendment by act Aug. 31, 1954, effective July 1, 1954, see section 401 of act A
 
 #### Effective Date of 1952 Amendment
 
-Section 3 of act May 15, 1952, provided that: “The amendments made by this Act \[amending this section and section 353 of this title\] shall be effective with respect to benefit years beginning on and after July 1, 1952.”
+Act May 15, 1952, ch. 290, §3, 66 Stat. 73, provided that: “The amendments made by this Act \[amending this section and section 353 of this title\] shall be effective with respect to benefit years beginning on and after July 1, 1952.”
 
 #### Effective Date of 1946 Amendment
 
 Amendment by section 306 of act July 31, 1946, effective July 1, 1946, see section 402 of that Act.
 
-Section 403 of act July 31, 1946, provided that: “Sections 301, 302, 303, 304, 305 (except for the revision of the table which shall become effective on the date of enactment of this Act \[July 31, 1946\]), 307, 308, 309, and 310 \[amending sections 351 to 354 of this title\] shall become effective on July 1, 1947.”
+Act July 31, 1946, ch. 709, §403, 60 Stat. 742, provided that: “Sections 301, 302, 303, 304, 305 (except for the revision of the table which shall become effective on the date of enactment of this Act \[July 31, 1946\]), 307, 308, 309, and 310 \[amending sections 351 to 354 of this title\] shall become effective on July 1, 1947.”
 
 #### Effective Date of 1940 Amendment
 
 For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 10, 1940, set out as a note under section 351 of this title.
+
+#### Extended Unemployment Benefits and Administrative Expenses
+
+Pub. L. 112–240, title V, §504(b), (c), Jan. 2, 2013, 126 Stat. 2345, provided that:
+
+“(b)
+
+Clarification on Authority to Use Funds.—Funds appropriated under either the first or second sentence of clause (iv) of section 2(c)(2)(D) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)(2)(D)\] shall be available to cover the cost of additional extended unemployment benefits provided under such section 2(c)(2)(D) by reason of the amendments made by subsection (a) \[amending this section\] as well as to cover the cost of such benefits provided under such section 2(c)(2)(D), as in effect on the day before the date of enactment of this Act \[Jan. 2, 2013\].
+
+“(c)
+
+Funding for Administration.—Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Railroad Retirement Board $250,000 for administrative expenses associated with the payment of additional extended unemployment benefits provided under section 2(c)(2)(D) of the Railroad Unemployment Insurance Act by reason of the amendments made by subsection (a), to remain available until expended.”
 
 #### Extended Railroad Unemployment Insurance Benefits During Periods of High National Unemployment
 
@@ -400,13 +416,13 @@ Limitations on reductions.—Notwithstanding subparagraphs (A) and (B), in the c
 
 Termination of Benefits.—In the case of an individual who is receiving extended benefits by reason of this section on February 5, 1994, such benefits shall not continue to be payable to such individual after April 30, 1994.”
 
-\[Section 3(c) of Pub. L. 103–6 provided that: “The amendments made by this section \[amending section 501 of Pub. L. 102–164, set out above\] shall apply to weeks beginning after March 6, 1993.”\]
+\[Pub. L. 103–6, §3(c), Mar. 4, 1993, 107 Stat. 33, provided that: “The amendments made by this section \[amending section 501 of Pub. L. 102–164, set out above\] shall apply to weeks beginning after March 6, 1993.”\]
 
 \[Amendments made by Pub. L. 102–182 to section 501 of Pub. L. 102–164, set out above, applicable as if included in the provisions of and the amendments made by Pub. L. 102–164, see section 3(b) of Pub. L. 102–182, set out as a note under section 3304 of Title 26, Internal Revenue Code.\]
 
 #### GAO Study of Fraud and Payment Errors
 
-Section 7107 of Pub. L. 100–647 provided that: “The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program. Not later than 1 year after the date of the enactment of this Act \[Nov. 10, 1988\], the Comptroller General shall report to Congress the results of such study. Such report shall include—
+Pub. L. 100–647, title VII, §7107, Nov. 10, 1988, 102 Stat. 3774, provided that: “The Comptroller General shall study the frequency of fraud and payment errors in the railroad unemployment compensation program. Not later than 1 year after the date of the enactment of this Act \[Nov. 10, 1988\], the Comptroller General shall report to Congress the results of such study. Such report shall include—
 
 &emsp;“(1) estimates of rates and amounts of annual losses due to fraud and overpayment;
 
@@ -418,9 +434,9 @@ Section 7107 of Pub. L. 100–647 provided that: “The Comptroller General shal
 
 #### Benefits for Certain Employees Who Exhausted Rights to Benefits Before April 1, 1959
 
-Section 303(b) of Pub. L. 86–28 provided that: “An employee who has less than ten years of service as defined in section 1(f) of the Railroad Retirement Act of 1937 \[section 228a(f) of this title\], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act \[this chapter\], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 \[42 U.S.C. 1400 et seq.\] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act \[this chapter\] shall be applicable in the administration of this subsection.”
+Pub. L. 86–28, pt. III, §303(b), May 19, 1959, 73 Stat. 31, provided that: “An employee who has less than tenyears of service as defined in section 1(f) of the Railroad Retirement Act of 1937 \[section 228a(f) of this title\], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act \[this chapter\], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 \[42 U.S.C. 1400 et seq.\] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act \[this chapter\] shall be applicable in the administration of this subsection.”
 
 #### Interchange of Information Between Secretary of Labor and Railroad Retirement Board
 
-Section 303(c) of Pub. L. 86–28 provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof \[set out above\], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 \[section 1400 et seq. of Title 42, The Public Health and Welfare\].”
+Pub. L. 86–28, pt. III, §303(c), May 19, 1959, 73 Stat. 31, provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof \[set out above\], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 \[section 1400 et seq. of Title 42, The Public Health and Welfare\].”
 

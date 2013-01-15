@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Research Program.—The amounts made available under subsections (a)(5)(C)(iii) and (d)(1) of section 5338 are available for a public transportation cooperative research program. The Secretary of Transportation shall establish an independent governing board for the program. The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
+Cooperative Research Program.—The amounts made available under section 5338(c) are available for a public transportation cooperative research program. The Secretary shall establish an independent governing board for the program. The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
 
 (b)
 
@@ -12,7 +12,7 @@ Federal Assistance.—The Secretary may make grants to, and cooperative agreemen
 
 Government's Share.—If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this section, the Secretary shall establish a Government share consistent with that benefit.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §3029(b)(4), (5), June 9, 1998, 112 Stat. 372; Pub. L. 109–59, title III, §§3002(b)(4), 3015(a), (b)(1), Aug. 10, 2005, 119 Stat. 1545, 1597.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §3029(b)(4), (5), June 9, 1998, 112 Stat. 372; Pub. L. 109–59, title III, §§3002(b)(4), 3015(a), (b)(1), Aug. 10, 2005, 119 Stat. 1545, 1597; Pub. L. 112–141, div. B, §20030(b), July 6, 2012, 126 Stat. 730.)
 
 Historical and Revision Notes
 
@@ -48,6 +48,10 @@ In subsection (b)(3)(A), the words “for obligation”, “a period of”, and 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §20030(b)(2), struck out “of Transportation” after “The Secretary”.
+
+Pub. L. 112–141, §20030(b)(1), which directed striking out “subsections (a)(5)(C)(iii) and (d)(1) of section 5338” and inserting section “5338(c)”, was executed by making the strike out and inserting “section 5338(c)” to reflect the probable intent of Congress.
+
 <b>2005</b>—Pub. L. 109–59, §3015(b)(1), substituted “Transit cooperative research program” for “State planning and research programs” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §3015(a)(2), redesignated par. (2) as subsec. (b) and directed amendment of subsec. (a) by substituting “The amounts made available under subsections (a)(5)(C)(iii) and (d)(1) of section 5338” for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(c) of this title”, which was executed by making the substitution for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d) of this title”, to reflect the probable intent of Congress.
@@ -61,4 +65,8 @@ Subsec. (c). Pub. L. 109–59, §3015(a)(3), reenacted heading without change an
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(4), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
 
 Subsec. (b)(1). Pub. L. 105–178, §3029(b)(5), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(c)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 

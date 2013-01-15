@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State shall establish such fiscal control and fund accounting procedures as may benecessary to assure the proper disbursal of, and accounting for, Federal funds allocated to local areas under subchapter II of this chapter. Such procedures shall ensure that all financial transactions carried out under subchapter II of this chapter are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
+&emsp;Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds allocated to local areas under subchapter II of this chapter. Such procedures shall ensure that all financial transactions carried out under subchapter II of this chapter are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
 
 #### (2) Cost principles
 
@@ -104,7 +104,7 @@
 
 #### (1) In general
 
-&emsp;Every recipient of funds under this chapter shall repay to the United States amountsfound not to have been expended in accordance with this chapter.
+&emsp;Every recipient of funds under this chapter shall repay to the United States amounts found not to have been expended in accordance with this chapter.
 
 #### (2) Offset of repayment
 

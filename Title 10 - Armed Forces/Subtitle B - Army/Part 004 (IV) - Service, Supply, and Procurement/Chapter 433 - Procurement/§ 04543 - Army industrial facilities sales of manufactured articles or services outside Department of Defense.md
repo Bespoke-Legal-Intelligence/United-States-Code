@@ -14,7 +14,7 @@ Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title
 
 &emsp;&emsp;(D) for use in commercial products;
 
-&emsp;(2) in the case of an article, the purchaser is determined by the Department of Defense tobe qualified to carry out the proposed work involving the article to be purchased;
+&emsp;(2) in the case of an article, the purchaser is determined by the Department of Defense to be qualified to carry out the proposed work involving the article to be purchased;
 
 &emsp;(3) the sale is to be made on a basis that does not interfere with performance of work by the facility for the Department of Defense or for a contractor of the Department of Defense;
 
@@ -78,7 +78,7 @@ Definitions.—In this section:
 
 #### Regulations
 
-Section 158(c) of Pub. L. 103–160 provided that: “Regulations under subsection (b) of section 4543 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title I, §158(c), Nov. 30, 1993, 107 Stat. 1582, provided that: “Regulations under subsection (b) of section 4543 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Pilot Program on Sales of Manufactured Articles and Services of Certain Army Industrial Facilities Without Regard to Availability From Domestic Sources
 

@@ -52,11 +52,11 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Additional Pay and Benefits for Employees Reduced in Grade On or After January 1, 1977, Etc.
 
-Section 801(b) of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title VIII, §801(b), Oct. 13, 1978, 92 Stat. 1222, provided that:
 
 “(1) Under regulations prescribed by the Office of Personnel Management, any employee—
 
-&emsp;“(A) whose grade was reduced on or after January 1, 1977, and before the effective date of the amendments made by subsection (a) of this section \[see Effective Date note set out under section 5361 of this title\] under circumstances which would have entitled the employee to coverage under the provisions of section 5362 of title 5, United States Code (as amended by subsection (a) of this section) if such amendments had been in effect at the time of the reduction; and
+&emsp;“(A) whose grade was reduced on or after January 1, 1977, and before the effective date of the amendments made by subsection (a) of this section \[see Effective Date note set out under section 5361 of this title\] under circumstances which would have entitled the employee to coverage under the provisions of section 5362 of title 5, United States Code (as amendedby subsection (a) of this section) if such amendments had been in effect at the time of the reduction; and
 
 &emsp;“(B) who has remained employed by the Federal Government from the date of the reduction in grade to the effective date of the amendments made by subsection (a) of this section without a break in service of one workday or more;
 

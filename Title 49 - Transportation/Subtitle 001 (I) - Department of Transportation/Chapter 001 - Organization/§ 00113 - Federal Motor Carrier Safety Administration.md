@@ -52,7 +52,7 @@ Pub. L. 106–159, §3, Dec. 9, 1999, 113 Stat. 1749, provided that: “Congress
 
 &emsp;“(1) The current rate, number, and severity of crashes involving motor carriers in the United States are unacceptable.
 
-&emsp;“(2) The number of Federal and State commercial motor vehicle and operator inspections is insufficient and civil penalties for violators must be utilized to deter future violations.
+&emsp;“(2) The number of Federal and State commercial motor vehicle and operator inspections is insufficientand civil penalties for violators must be utilized to deter future violations.
 
 &emsp;“(3) The Department of Transportation is failing to meet statutorily mandated deadlines for completing rulemaking proceedings on motor carrier safety and, in some significant safety rulemaking proceedings, including driver hours-of-service regulations, extensive periods have elapsed without progress toward resolution or implementation.
 

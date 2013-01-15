@@ -30,5 +30,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Short Title
 
-Section 1 of Pub. L. 99–450 provided that: “This Act \[enacting this chapter and section 4029 of Title 42, The Public Health and Welfare\] may be cited as the ‘Colorado River Floodway Protection Act’.”
+Pub. L. 99–450, §1, Oct. 8, 1986, 100 Stat. 1129, provided that: “This Act \[enacting this chapter and section 4029of Title 42, The Public Health and Welfare\] may be cited as the ‘Colorado River Floodway Protection Act’.”
 

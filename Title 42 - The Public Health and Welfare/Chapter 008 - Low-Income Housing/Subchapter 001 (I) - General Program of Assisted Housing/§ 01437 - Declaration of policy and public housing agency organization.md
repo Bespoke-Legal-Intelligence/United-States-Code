@@ -36,7 +36,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(B) with less than 300 public housing units, if—
 
-&emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governingbody of the public housing agency pursuant to such paragraph; and
+&emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governing body of the public housing agency pursuant to such paragraph; and
 
 &emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date
 
-Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
+Pub. L. 93–383, title II, §201(b), Aug. 22, 1974, 88 Stat. 667, provided that: “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
 
 Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
 
@@ -110,7 +110,7 @@ Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, pro
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: “This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the‘HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003’.”
+Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: “This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the ‘HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003’.”
 
 #### Short Title of 2002 Amendment
 
@@ -122,37 +122,37 @@ Pub. L. 105–276, title V, §501(a), Oct. 21, 1998, 112 Stat. 2518, provided th
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–358 provided that: “This Act \[enacting sections 1437aa to 1437ee of this title, amending sections 1437a and 1437c of this title, and enacting provisions set out as a note under section 1437a of this title\] may be cited as the ‘Indian Housing Act of 1988’.”
+Pub. L. 100–358, §1, June 29, 1988, 102 Stat. 676, provided that: “This Act \[enacting sections 1437aa to 1437ee of this title, amending sections 1437a and 1437c of this title, and enacting provisions set out as a note under section 1437a of this title\] may be cited as the ‘Indian Housing Act of 1988’.”
 
 #### Short Title
 
-Section 1 of title I of act Sept. 1, 1937, ch. 896, as added by section 201(a) of Pub. L. 93–383; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681, provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States Housing Act of 1937’.”
+Act Sept. 1, 1937, ch. 896, title I, §1, as added by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653; renumbered title I by Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681, provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States Housing Act of 1937’.”
 
 #### Applicability of 1996 Amendments; Indian Housing
 
-Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) \[amending provisions set out as notes under sections 1437a, 1437c, and 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) \[amending provisions set out as notes under sections 1437a, 1437c, and 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437l of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary ofHousing and Urban Development and an Indian housing authority.”
 
 Pub. L. 104–99, title IV, §402(e), Jan. 26, 1996, 110 Stat. 43, which provided that amendments made by section 402(a) to (d) and (f) of Pub. L. 104–99 were also to apply to public housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and an Indian housing authority, was repealed by Pub. L. 105–276, title V, §595(e)(16), Oct. 21, 1998, 112 Stat. 2659.
 
 #### Applicability of 1990 Amendments; Indian Housing
 
-Section 103(b) of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title I, §103(b), Oct. 28, 1992, 106 Stat. 3684, provided that:
 
 “(1)
 
-In general.—In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and sections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437<i>l</i>, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437<i>o</i> of this title, and enacting provisions set out as notes under section 1437a of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
+In general.—In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and sections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437l, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437o of this title, and enacting provisions set out as notes under section 1437a of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
 
 “(2)
 
 Effective date.—Paragraph (1) shall take effect as if such provision were enacted upon the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].”
 
-Section 419 of title IV of Pub. L. 101–625 provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\].”
+Pub. L. 101–625, title IV, §419, Nov. 28, 1990, 104 Stat. 4161, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\].”
 
-Section 527 of Pub. L. 101–625 provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437<i>l</i> of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply.”
+Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply.”
 
 #### Applicability of 1989 Amendments; Indian Housing
 
@@ -296,7 +296,7 @@ Federal Assisted Housing Programs.—For purposes of this section, the term ‘F
 
 &emsp;“(2) the certificate program for rental assistance under section 8(b)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(1)\];
 
-&emsp;“(3) the voucher program for rental assistance under section 8(<i>o</i>) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(<i>o</i>)\];
+&emsp;“(3) the voucher program for rental assistance under section 8(o) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(o)\];
 
 &emsp;“(4) the programs for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
 
@@ -306,7 +306,7 @@ Federal Assisted Housing Programs.—For purposes of this section, the term ‘F
 
 &emsp;“(7) the program for housing for persons with disabilities under section 811 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8013\];
 
-&emsp;“(8) the program for financing housing by a loan or mortgage insured under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] that bears interest at a rate determined under the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715<i>l</i>(d)(5)\];
+&emsp;“(8) the program for financing housing by a loan or mortgage insured under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715l(d)(3)\] that bearsinterest at a rate determined under the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715l(d)(5)\];
 
 &emsp;“(9) the program under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\];
 

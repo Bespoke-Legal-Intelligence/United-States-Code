@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) shall provide to the bargaining parties 1 or more schedules showing revised benefit structures, revised contribution structures, or both, which, if adopted, may reasonably be expected to enable the multiemployer plan to meet the applicable benchmarks in accordance with the funding improvement plan, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendmentshave reduced future benefit accruals to the maximum extent permitted by law), and
+&emsp;&emsp;&emsp;&emsp;(I) one proposal for reductions in the amount of future benefit accruals necessary to achieve the applicable benchmarks, assuming no amendments increasing contributions under the plan (other than amendments increasing contributions necessary to achieve the applicable benchmarks after amendments have reduced future benefit accruals to the maximum extent permitted by law), and
 
 &emsp;&emsp;&emsp;&emsp;(II) one proposal for increases in contributions under the plan necessary to achieve the applicable benchmarks, assuming no amendments reducing future benefit accruals under the plan, and
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the funded percentage of a plan in seriously endangered status was more than 70 percent as of the beginning of the initial determination year—
 
-&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
+&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification undersubsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
 &emsp;&emsp;&emsp;(ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 #### (iii) Duration of schedule
 
-&emsp;&emsp;&emsp;A schedule of contribution rates provided by the plan sponsor and relied upon by bargaining parties in negotiating a collective bargaining agreement shall remain in effect for the duration of that collective bargaining agreement.
+&emsp;&emsp;&emsp;A schedule of contribution rates provided by the plan sponsor and relied uponby bargaining parties in negotiating a collective bargaining agreement shall remain in effect for the duration of that collective bargaining agreement.
 
 #### (C) Imposition of default schedule where failure to adopt rehabilitation plan
 
@@ -402,7 +402,7 @@ For purposes of this section—
 
 #### (C) Surcharge to terminate upon collective bargaining agreement renegotiation
 
-&emsp;&emsp;The surcharge under this paragraph shall cease to be effective with respect to employees covered by a collective bargaining agreement (or other agreement pursuant to which the employer contributes), beginning on the effective date of a collective bargaining agreement (or other such agreement) that includes terms consistent with a schedule presented by the plan sponsor under paragraph (1)(B)(i), as modified under subparagraph (B) of paragraph (3).
+&emsp;&emsp;The surcharge under this paragraph shall cease to be effective with respect to employees covered by a collective bargaining agreement (or other agreement pursuant to whichthe employer contributes), beginning on the effective date of a collective bargaining agreement (or other such agreement) that includes terms consistent with a schedule presented by the plan sponsor under paragraph (1)(B)(i), as modified under subparagraph (B) of paragraph (3).
 
 #### (D) Surcharge not to apply until employer receives notice
 
@@ -472,7 +472,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
-&emsp;&emsp;&nbsp;the <sup>3</sup> Secretary shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
+&emsp;&emsp;&nbsp;the <sup>3</sup> Secretary shall in the regulations prescribed under subclause (I) establish amodel notice that a plan sponsor may use to meet the requirements of this subparagraph.
 
 #### (9) Adjustments disregarded in withdrawal liability determination
 
@@ -626,7 +626,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974,88 Stat. 829, as amended. Sections 101, 103, 104, 502, 515, 4022A, 4201, 4211, 4212, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1322a, 1381, 1391, 1392, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Sections 101, 103, 104, 502, 515, 4022A, 4201, 4211, 4212, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1322a, 1381, 1391, 1392, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 

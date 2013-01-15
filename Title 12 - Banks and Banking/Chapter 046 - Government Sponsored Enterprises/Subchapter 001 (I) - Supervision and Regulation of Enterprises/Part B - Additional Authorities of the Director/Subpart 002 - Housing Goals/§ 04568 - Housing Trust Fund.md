@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (c), to help address the mortgage crisis, of the amounts allocated pursuant to clauses (i) and (ii) of section 4567(a)(1)(B) of this title and clauses (i) and (ii) of section 4567(a)(2)(B) of this title in excess of amounts described in section 4567(e) of this title—
+&emsp;Notwithstanding subsection (c), to help address the mortgage crisis, of the amounts allocated pursuant to clauses (i) and (ii) of section4567(a)(1)(B) of this title and clauses (i) and (ii) of section 4567(a)(2)(B) of this title in excess of amounts described in section 4567(e) of this title—
 
 &emsp;&emsp;(A) 100 percent of such excess shall be used to reimburse the Treasury for payments made pursuant to section 1715z–23(w)(1)(C) of this title in calendar year 2009;
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iv) The ratio of very low-income renter households in the State paying more than 50 percent of income on rent relative to the aggregate number of very low-income renter households paying more than 50 percent of income on rent in all the States.
 
-&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposesof this subclause,<sup>1</sup> the term “cost of construction”—
+&emsp;&emsp;&emsp;(v) The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposes of this subclause,<sup>1</sup> the term “cost of construction”—
 
 &emsp;&emsp;&emsp;&emsp;(I) means the cost of construction or building rehabilitation in the State relative to the national cost of construction or building rehabilitation; and
 
@@ -84,7 +84,7 @@
 
 #### (C) Minimum State allocations
 
-&emsp;&emsp;If the formula amount determined under paragraph (3) for a fiscal year would allocate less than $3,000,000 to any of the 50 States of the United States or the District of Columbia, the allocation for such State of the United States or the District of Columbia shall be $3,000,000, and the increase shall be deducted pro rata from the allocations made to all other of the States (as such term is defined in section 4502 of this title).
+&emsp;&emsp;If the formula amount determined under paragraph (3) for a fiscal year would allocateless than $3,000,000 to any of the 50 States of the United States or the District of Columbia, the allocation for such State of the United States or the District of Columbia shall be $3,000,000, and the increase shall be deducted pro rata from the allocations made to all other of the States (as such term is defined in section 4502 of this title).
 
 #### (5) Allocation plans required
 
@@ -152,7 +152,7 @@
 
 #### (8) Tenant protections and public participation
 
-&emsp;All amounts from the Trust Fund shall be allocated in accordance with, and any eligible activities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
+&emsp;All amounts from the Trust Fund shall be allocated in accordance with, and any eligibleactivities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
 
 &emsp;&emsp;(A) laws relating to tenant protections and tenant rights to participate in decision making regarding their residences;
 
@@ -352,7 +352,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The regulations issued under this subsection shall include—
 
-&emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts underthis section by States or State designated entities is audited not less than annually to ensure compliance with this section;
+&emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts under this section by States or State designated entities is audited not less than annually to ensure compliance with this section;
 
 &emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify a State or State designated entity's activities to ensure compliance with this section;
 

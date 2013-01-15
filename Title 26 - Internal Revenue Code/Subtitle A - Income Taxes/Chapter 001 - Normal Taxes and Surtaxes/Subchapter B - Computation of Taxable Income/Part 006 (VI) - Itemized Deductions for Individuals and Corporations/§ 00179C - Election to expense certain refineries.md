@@ -52,7 +52,7 @@ A taxpayer may elect to treat 50 percent of the cost of any qualified refinery p
 
 #### (d) Qualified refinery
 
-For purposes of this section, the term “qualified refinery” means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
+For purposes of this section, the term “qualified refinery” means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel fromcrude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
 
 #### (e) Production capacity
 
@@ -88,7 +88,7 @@ No deduction shall be allowed under subsection (a) for any qualified refinery pr
 
 #### (3) Written notice to owners
 
-&emsp;If any portion of the deduction available under subsection (a) is allocated to ownersunder paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
+&emsp;If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
 #### (h) Reporting
 

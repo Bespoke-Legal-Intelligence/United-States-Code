@@ -4,7 +4,7 @@ For the purpose of preserving and suitably marking for historical and profession
 
 No monuments or memorials shall be erected upon any lands of the park, or remain upon any lands which may be purchased for the park, except upon ground actually occupied in the course of the battle by troops of the State which the proposed monuments are intended to commemorate, except upon those sections of the park set apart for memorials to troops which were engaged in the campaigns, but operated outside of the legal limits of the park. Notwithstanding the restrictive provisions of this paragraph, the Secretary of the Interior is authorized in his discretion to permit without cost to the United States the erection of monuments or memorials to commemorate encampments of Spanish War organizations which were encamped in said park during the period of the Spanish-American War.
 
-(Aug. 19, 1890, ch. 806, §§1–11, 26 Stat. 333–336; Mar. 3, 1891, ch. 542, 26 Stat. 978; Feb. 26, 1896, ch. 33, 29 Stat. 21; June 4, 1897, ch. 2, §1, 30 Stat. 43; Apr. 15, 1926, ch. 146, title II, 44 Stat. 289; Feb. 23, 1927, ch. 167, title II, 44 Stat. 1140; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
+(Aug. 19, 1890, ch. 806, §§1–11, 26 Stat. 333–336; Mar. 3, 1891, ch. 542, 26 Stat. 978; Feb. 26, 1896, ch. 33, 29 Stat. 21; June 4, 1897, ch. 2, §1, 30 Stat. 43; Apr. 15, 1926, ch. 146, title II, 44 Stat. 289; Feb. 23, 1927, ch. 167, title II, 44 Stat. 1140; Ex. Ord. No.6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
 #### Codification
 

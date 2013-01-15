@@ -14,7 +14,7 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 #### Termination of Chapter
 
-Section 1006 of act Jan. 27, 1948, provided that: “The authority granted under this Act \[this chapter\] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
+Act Jan. 27, 1948, ch. 36, title X, §1006, 62 Stat. 14, provided that: “The authority granted under this Act \[this chapter\] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
 
 #### Short Title of 1983 Amendment
 
@@ -22,15 +22,15 @@ For short title of Pub. L. 98–111, which enacted subchapter V–A of this chap
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–168, §1, Nov. 29, 1973, 87 Stat. 688, provided: “That this Act \[amending former section 1476 of thistitle\] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
+Pub. L. 93–168, §1, Nov. 29, 1973, 87 Stat. 688, provided: “That this Act \[amending former section 1476 of this title\] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
 
 #### Short Title
 
-Section 1 of act Jan. 27, 1948, provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States Information and Educational Exchange Act of 1948’.”
+Act Jan. 27, 1948, ch. 36, title I, §1, 62 Stat. 6, provided that: “This Act \[enacting this chapter\] may be cited asthe ‘United States Information and Educational Exchange Act of 1948’.”
 
 #### Separability
 
-Section 1010 of act Jan. 27, 1948, provided that: “If any provision of this Act \[enacting this chapter\] or the application of any such provision to any person or circumstance shall be held invalid, the validity of the remainder of the Act \[this chapter\] and the applicability of such provision to other persons or circumstances shall not be affected thereby.”
+Act Jan. 27, 1948, ch. 36, title X, §1010, 62 Stat. 14, provided that: “If any provision of this Act \[enacting this chapter\] or the application of any such provision to any person or circumstance shall be held invalid, the validity of the remainder of the Act \[this chapter\] and the applicability of such provision to other persons or circumstances shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -120,11 +120,11 @@ Authorizations of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary to carry out United States Government broadcasting activities consistent with this section under the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), and the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6501 etseq.), and to carry out other activities under this section consistent with the purposes of such Acts, unless otherwise authorized by Congress.
+In general.—There are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary to carry out United States Government broadcasting activities consistent with this section under the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), and the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6501 et seq.), and to carry out other activities under this section consistent with the purposes of such Acts, unless otherwise authorized by Congress.
 
 &emsp;“(2)
 
-Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2).”
+Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriatedfor each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2).”
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

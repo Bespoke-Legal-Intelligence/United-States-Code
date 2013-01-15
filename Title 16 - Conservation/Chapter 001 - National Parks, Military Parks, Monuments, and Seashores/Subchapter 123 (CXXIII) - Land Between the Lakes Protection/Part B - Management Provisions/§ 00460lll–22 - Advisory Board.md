@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 90 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Secretary shall establish the Land Between the Lakes Advisory Board.
+Not later than 90 days after the date of transfer pursuant to section 460lll–41 of this title, the Secretary shall establish the Land Between the Lakes Advisory Board.
 
 #### (b) Membership
 
@@ -72,5 +72,5 @@ Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not
 
 #### References in Text
 
-Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub.L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

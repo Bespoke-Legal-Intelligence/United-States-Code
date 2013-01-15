@@ -74,7 +74,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (vii) Prohibition
 
-&emsp;&emsp;&emsp;Not more than 1 processor allocation provided under this subparagraph may be applicable to any individual sugar processing facility.
+&emsp;&emsp;&emsp;Not more than 1 processor allocation provided under this subparagraph may beapplicable to any individual sugar processing facility.
 
 #### (F) Transfer of ownership
 
@@ -136,7 +136,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (F) Sale of all assets of a processor to another processor
 
-&emsp;&emsp;If a processor of beet sugar (or all of the assets of the processor) is sold to another processor of beet sugar, the Secretary shall transfer the allocation of the seller to the buyer unless the allocation has been distributed to other sugar beet processors under subparagraph (E).
+&emsp;&emsp;If a processor of beet sugar (or all of the assets of the processor) is sold to anotherprocessor of beet sugar, the Secretary shall transfer the allocation of the seller to the buyer unless the allocation has been distributed to other sugar beet processors under subparagraph (E).
 
 #### (G) Sale of factories of a processor to another processor
 

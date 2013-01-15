@@ -88,7 +88,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;&emsp;(i) contains the findings of the National Academy of Sciences made in the study under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) discloses the existence of any commitments from commercial producers to provide domestic requirements for medical isotopes without use of highly enriched uranium consistent with the feasibility criteria described in subparagraph (B) notlater than the date that is 4 years after the date of submission of the report.
+&emsp;&emsp;&emsp;(ii) discloses the existence of any commitments from commercial producers to provide domestic requirements for medical isotopes without use of highly enriched uranium consistent with the feasibility criteria described in subparagraph (B) not later than the date that is 4 years after the date of submission of the report.
 
 #### (5) Second report to Congress
 
@@ -102,23 +102,65 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;After the Secretary submits a certification under paragraph (6), the Commission shall, by rule, terminate its review of export license applications under this subsection.
 
-#### (c) Definitions
+#### (c) Medical production license sunset
+
+Effective 7 years after January 2, 2013, the Commission may not issue a license for the export of highly enriched uranium from the United States for the purposes of medical isotope production.
+
+#### (d) Medical production license extension
+
+The period referred to in subsection (c) may be extended for no more than 6 years if, no earlier than 6 years after January 2, 2013, the Secretary of Energy certifies to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that—
+
+&emsp;(1) there is insufficient global supply of molybdenum-99 produced without the use of highly enriched uranium available to satisfy the domestic United States market; and
+
+&emsp;(2) the export of United States-origin highly enriched uranium for the purposes of medical isotope production is the most effective temporary means to increase the supply of molybdenum-99 to the domestic United States market.
+
+#### (e) Public notice
+
+To ensure public review and comment, the development of the certification described in subsection (d) shall be carried out through announcement in the Federal Register.
+
+#### (f) Joint certification
+
+#### (1) In general
+
+&emsp;In accordance with paragraph (2), the ban on the export of highly enriched uranium for purposes of medical isotope production referred to in subsections (c) and (d) shall not go into effect unless the Secretary of Energy and the Secretary of Health and Human Services have jointly certified that—
+
+&emsp;&emsp;(A) there is a sufficient supply of molybdenum-99 produced without the use of highly enriched uranium available to meet the needs of patients in the United States; and
+
+&emsp;&emsp;(B) it is not necessary to export United States-origin highly enriched uranium for the purposes of medical isotope production in order to meet United States patient needs.
+
+#### (2) Time of certification
+
+&emsp;The joint certification under paragraph (1) shall be made not later than 7 years after January 2, 2013, except that, if the period referred to in subsection (c) is extended under subsection (d), the 7-year deadline under this paragraph shall be extended by a period equal to the period of such extension under subsection (d).
+
+#### (g) Suspension of medical production license
+
+At any time after the restriction of export licenses provided for in subsection (c) becomes effective, if there is a critical shortage in the supply of molybdenum-99 available to satisfy the domestic United States medical isotope needs, the restriction of export licenses may be suspended for a period of no more than 12 months, if—
+
+&emsp;(1) the Secretary of Energy certifies to the Congress that the export of United States-origin highly enriched uranium for the purposes of medical isotope production is the only effective temporary means to increase the supply of molybdenum-99 necessary to meet United States medical isotope needs during that period; and
+
+&emsp;(2) the Congress enacts a Joint Resolution approving the temporary suspension of the restriction of export licenses.
+
+#### (h) Definitions
 
 As used in this section—
 
 &emsp;(1) the term “alternative nuclear reactor fuel or target” means a nuclear reactor fuel or target which is enriched to less than 20 percent in the isotope U–235;
 
-&emsp;(2) the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235; and
+&emsp;(2) the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235;
 
 &emsp;(3) a fuel or target “can be used” in a nuclear research or test reactor if—
 
-&emsp;&emsp;(A) the fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy, and
+&emsp;&emsp;(A) the fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy; and
 
-&emsp;&emsp;(B) use of the fuel or target will permit the large majority of ongoing and planned experiments and isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor.
+&emsp;&emsp;(B) use of the fuel or target will permit the large majority of ongoing and planned experiments and medical isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor; and
 
-(Aug. 1, 1946, ch. 724, title I, §134, as added Pub. L. 102–486, title IX, §903(a)(1), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §630, Aug. 8, 2005, 119 Stat. 785.)
+&emsp;(4) the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
+
+(Aug. 1, 1946, ch. 724, title I, §134, as added Pub. L. 102–486, title IX, §903(a)(1), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §630, Aug. 8, 2005, 119 Stat. 785; Pub. L. 112–239, div. C, title XXXI, §3174, Jan. 2, 2013, 126 Stat. 2214.)
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (c) to (h). Pub. L. 112–239 added subsecs. (c) to (h) and struck out former subsec. (c), which provided definitions for terms used in this section.
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58, §630(1), inserted heading and substituted “Except as provided in subsection (b) of this section, the Commission” for “The Commission” in introductory provisions.
 

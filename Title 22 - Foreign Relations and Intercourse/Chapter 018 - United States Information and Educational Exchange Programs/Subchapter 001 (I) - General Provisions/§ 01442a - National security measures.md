@@ -20,5 +20,5 @@ In coordination with other appropriate executive branch officials, the Secretary
 
 #### References in Text
 
-Section 101 of the Intelligence Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(1), is section101 of Pub. L. 105–272, title I, Oct. 20, 1998, 112 Stat. 2397, which is not classified to the Code.
+Section 101 of the Intelligence Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(1), is section 101 of Pub. L. 105–272, title I, Oct. 20, 1998, 112 Stat. 2397, which is not classified to the Code.
 

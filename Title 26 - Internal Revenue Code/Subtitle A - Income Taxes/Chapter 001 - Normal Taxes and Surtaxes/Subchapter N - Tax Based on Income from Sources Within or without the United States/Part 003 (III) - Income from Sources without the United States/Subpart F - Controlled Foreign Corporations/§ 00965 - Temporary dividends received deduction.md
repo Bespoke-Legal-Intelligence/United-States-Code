@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) the amount of indebtedness of the controlled foreign corporation to any related person (as so defined) as of the close of October 3, 2004.
 
-> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United States shareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
+> &emsp;All controlled foreign corporations with respect to which the taxpayer is a United States shareholder shall be treated as 1 controlled foreign corporation for purposes of this paragraph. The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including throughthe use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.
 
 #### (4) Requirement to invest in United States
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) is approved by the taxpayer's president, chief executive officer, or comparable official before the payment of such dividend and subsequently approved by the taxpayer's board of directors, management committee, executive committee, or similar body, and
 
-&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than aspayment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
+&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than as payment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
 
 #### (c) Definitions and special rules
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Permanently reinvested earnings
 
-&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 UnitedStates shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
+&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 United States shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
 
 #### (d) Denial of foreign tax credit; denial of certain expenses
 

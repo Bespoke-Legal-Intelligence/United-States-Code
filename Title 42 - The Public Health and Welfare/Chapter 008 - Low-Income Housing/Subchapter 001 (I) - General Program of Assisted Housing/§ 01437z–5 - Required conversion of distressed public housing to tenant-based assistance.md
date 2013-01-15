@@ -6,7 +6,7 @@ Each public housing agency shall identify all public housing projects of the pub
 
 &emsp;(1) The project is on the same or contiguous sites.
 
-&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteriaestablished in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
+&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteria established in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
 
 &emsp;(3) The project—
 
@@ -94,9 +94,9 @@ Notwithstanding any other provision of law, if, in the determination of the Secr
 
 Notwithstanding any other provision of law, if a project or projects are identified pursuant to subsection (a) of this section, the Secretary may authorize or direct the transfer, to the tenant-based assistance program of such agency or to appropriate site revitalization or other capital improvements approved by the Secretary, of—
 
-&emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437<i>l</i> of this title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
+&emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437l of this title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
-&emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437<i>l</i> of this title, any amounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
+&emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437l of this title, any amounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
 
 &emsp;(3) in the case of an agency receiving assistance for the major reconstruction of obsolete projects, any amounts obligated by the Secretary for the major reconstruction of such project or projects pursuant to section 1437c(j)(2) of this title, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998; and
 
@@ -122,7 +122,7 @@ The Secretary shall take appropriate actions to ensure removal of any public hou
 
 Title I of the Housing and Community Development Act of 1992, referred to in subsec. (c)(2)(B), is title I of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3681. For complete classification of title I to the Code, see Tables.
 
-Section 1437<i>l</i> of this title, referred to in subsec. (f)(1), (2), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (f)(1), (2), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (f)(1), (3), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
@@ -136,9 +136,9 @@ Pub. L. 105–276, title V, §537(c), Oct. 21, 1998, 112 Stat. 2592, provided th
 
 “(1)
 
-Use of amounts.—Any amounts made available to a public housing agency to carry out section 202 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (enacted as section 101(e) of the Omnibus Consolidated Rescissions and Appropriations Act of 1996 (Public Law 104–134; 110 Stat. 1321–279)) \[former 42 U.S.C. 1437<i>l</i> note\] may be used, to the extent or in such amounts as are or have been provided in advance in appropriation Acts, to carry out section 33 of the United States Housing Act of 1937 \[42 U.S.C. 1437z–5\] (as added by subsection (a) of this section).
+Use of amounts.—Any amounts made available to a public housing agency to carry out section 202 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (enacted as section 101(e) of the Omnibus Consolidated Rescissions and Appropriations Act of 1996 (Public Law 104–134; 110 Stat. 1321–279)) \[former 42 U.S.C. 1437l note\] may be used, to the extent or in such amounts as are or have been provided in advance in appropriation Acts, to carry out section 33 of the United States Housing Act of 1937 \[42 U.S.C. 1437z–5\] (as added by subsection (a) of this section).
 
 “(2)
 
-Savings provision.—Notwithstanding the amendments made by this section \[enacting this section and repealing provisions set out as a note under section 1437<i>l</i> of this title\], section 202 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (42 U.S.C. 14371 \[1437<i>l</i>\] note) and any regulations implementing such section, as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], shall continue to apply to public housing developments identified by the Secretary or a public housing agency for conversion pursuant to that section or for assessment of whether such conversion is required prior to enactment of this Act.”
+Savings provision.—Notwithstanding the amendments made by this section \[enacting this section and repealing provisions set out as a note under section 1437l of this title\], section 202 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (42 U.S.C. 14371 \[1437l\] note) and any regulations implementing such section, as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], shall continue to apply to public housing developments identified by the Secretary or a public housing agency for conversion pursuant to that section or for assessment of whether such conversion is required prior to enactment of this Act.”
 

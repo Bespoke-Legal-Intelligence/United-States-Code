@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary shall negotiate with land owners for the acquisition of lands and interest in lands suitable for Conservation Area expansion that meet the purposes described in section 460<i>ooo</i>–3(a) of this title. The Secretary shall only acquire property under this subchapter pursuant to section 460<i>ooo</i>–6 of this title.
+The Secretary shall negotiate with land owners for the acquisition of lands and interest in lands suitable for Conservation Area expansion that meet the purposes described in section 460ooo–3(a) of this title. The Secretary shall only acquire property under this subchapter pursuant to section 460ooo–6 of this title.
 
 #### (b) Federal lands
 
-The Secretary, through the Bureau of Land Management, shall administer the public landswithin the Acquisition Planning District pursuant to this subchapter and the applicable provisions of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), subject to valid existing rights, and in accordance with the management plan. Such public lands shall become part of the Conservation Area when they become contiguous with the Conservation Area.
+The Secretary, through the Bureau of Land Management, shall administer the public lands within the Acquisition Planning District pursuant to this subchapter and the applicable provisions of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), subject to valid existing rights, and in accordance with the management plan. Such public lands shall become part of the Conservation Area when they become contiguous with the Conservation Area.
 
 #### (c) Fish and wildlife
 

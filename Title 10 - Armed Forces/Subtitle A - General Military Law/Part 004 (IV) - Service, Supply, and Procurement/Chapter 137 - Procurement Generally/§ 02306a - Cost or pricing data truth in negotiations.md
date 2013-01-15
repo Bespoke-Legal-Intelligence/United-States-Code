@@ -78,7 +78,7 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
-&emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
+&emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification ofsuch item that is not a modification described in section 4(12)(C)(i) <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
 
 &emsp;(C) Nothing in subparagraph (A) shall be construed—
 
@@ -188,7 +188,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 103 of title 41.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b),Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843.)
 
 #### References in Text
 
@@ -346,7 +346,7 @@ Pub. L. 108–375, div. A, title VIII, §818(b), Oct. 28, 2004, 118 Stat. 2016, 
 
 For effective date and applicability of amendment by sections 4201(a) and 4321(b)(7) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
-Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
+Pub. L. 104–106, div. D, title XLIII, §4321(a), Feb. 10, 1996, 110 Stat. 671, provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -354,19 +354,19 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 803(a)(2) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, prior to repeal by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
+Pub. L. 101–510, div. A, title VIII, §803(a)(2), Nov. 5, 1990, 104 Stat. 1590, as amended by Pub. L. 102–25, title VII, §704(a)(4), Apr. 6, 1991, 105 Stat. 118, provided that the amendments to this section by Pub. L. 101–510 would apply to contracts entered into after Dec. 5, 1990, subcontracts under such contracts, and modifications or changes to such contracts and subcontracts, prior to repeal by Pub. L. 102–190, div. A, title VIII, §804(c)(2), Dec. 5, 1991, 105 Stat. 1416.
 
 #### Effective Date of 1987 Amendment
 
-Section 804(c) of Pub. L. 100–180 provided that:
+Pub. L. 100–180, div. A, title VIII, §804(c), Dec. 4, 1987, 101 Stat. 1125, provided that:
 
-“(1) Subsection (a) \[amending this section\] shall apply to any contract, or modification of a contract, entered into after the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].
+“(1) Subsection (a) \[amending this section\] shall apply to any contract, or modification of a contract,entered into after the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].
 
 “(2) The amendments made by subsection (b) \[amending this section\] shall apply with respect to contracts, or modifications of contracts, entered into after the end of the 120-day period beginning on October 18, 1986.”
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 952(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
+Pub. L. 99–500, §101(c) \[title X, §952(d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, Pub. L. 99–591, §101(c) \[title X, §952(d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169, and Pub. L. 99–661, div. A, title IX, formerly title IV, §952(d), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
 
 “(1) Except as provided in paragraph (2), section 2306a of title 10, United States Code (as added by subsection (a)), and the amendment and repeal made by subsection (b) \[amending section 2306 of this title and repealing a provision set out as a note under section 2304 of this title\], shall apply with respect to contracts or modifications on contracts entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].
 
@@ -374,7 +374,61 @@ Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Regulations
 
-Section 803(c) of Pub. L. 101–510, directed Secretary of Defense to prescribe regulations identifying type of procurements for which contracting officers should consider requiring submission of certified cost or pricing data under subsec. (c) of this section, and also directed Secretary to prescribe regulations concerning types of information that offerors had to submit for contracting officer to consider in determining whether price of procurement to Government was fair and reasonable when certified cost or pricing data were not required to be submitted under this section because price of procurement to the United States was not expected to exceed $500,000, such information, at minimum, to include appropriate information on prices at which such offeror had previously sold same or similar products, with such regulations to be prescribed not later than six months after Nov. 5, 1990, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
+Pub. L. 101–510, div. A, title VIII, §803(c), Nov. 5, 1990, 104 Stat. 1590, directed Secretary of Defense to prescribe regulations identifying type of procurements for which contracting officers should consider requiring submission of certified cost or pricing data under subsec. (c) of this section, and also directed Secretary to prescribe regulations concerning types of information that offerors had to submit for contracting officer to consider in determining whether price of procurement to Government was fair and reasonable when certified cost or pricing data were not required to be submitted under this section because price of procurement to the United States was not expected to exceed $500,000, such information, at minimum, to include appropriate information on prices at which such offeror had previously sold same or similar products, with such regulations to be prescribed not later than six months after Nov. 5, 1990, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
+
+#### Guidance and Training Related to Evaluating Reasonableness of Price
+
+Pub. L. 112–239, div. A, title VIII, §831, Jan. 2, 2013, 126 Stat. 1842, provided that:
+
+“(a)
+
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by sections 2306a(d) and 2379 of title 10, United States Code. The guidance shall—
+
+&emsp;“(1) include standards for determining whether information on the prices at which the same or similar items have previously been sold is adequate for evaluating the reasonableness of price;
+
+&emsp;“(2) include standards for determining the extent of uncertified cost information that should be required in cases in which price information is not adequate for evaluating the reasonableness of price;
+
+&emsp;“(3) ensure that in cases in which such uncertified cost information is required, the information shall be provided in the form in which it is regularly maintained by the offeror in its business operations; and
+
+&emsp;“(4) provide that no additional cost information may be required by the Department of Defense in any case in which there are sufficient non-Government sales to establish reasonableness of price.
+
+“(b)
+
+Training and Expertise.—Not later than 270 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop and begin implementation of a plan of action to—
+
+&emsp;“(1) train the acquisition workforce on the use of the authority provided by sections 2306a(d) and 2379 of title 10, United States Code, in evaluating reasonableness of price in procurements of commercial items; and
+
+&emsp;“(2) develop a cadre of experts within the Department of Defense to provide expert advice to the acquisition workforce in the use of the authority provided by such sections in accordance with the guidance issued pursuant to subsection (a).
+
+“(c)
+
+Documentation Requirements.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that requests for uncertified cost information for the purposes of evaluating reasonableness of price are sufficiently documented. The Under Secretary shall require that the contract file include, at a minimum, the following:
+
+&emsp;“(1) A justification of the need for additional cost information.
+
+&emsp;“(2) A copy of any request from the Department of Defense to a contractor for additional cost information.
+
+&emsp;“(3) Any response received from the contractor to the request, including any rationale or justification provided by the contractor for a failure to provide the requested information.
+
+“(d)
+
+Comptroller General Review and Report.—
+
+&emsp;“(1)
+
+Review requirement.—The Comptroller General of the United States shall conduct a review of data collected pursuant to sections 2306a(d) and 2379 of title 10, United States Code, during the two-year period beginning on the date of the enactment of this Act.
+
+&emsp;“(2)
+
+Report requirement.—Not later than 180 days after the end of the two-year period referred to in paragraph (1), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on—
+
+&emsp;&emsp;“(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) and 2379 of title 10, United States Code, during such two-year period in order to determine price reasonableness;
+
+&emsp;&emsp;“(B) the extent to which acquisition officials of the Department of Defense complied with the guidance issued pursuant to subsection (a) during such two-year period;
+
+&emsp;&emsp;“(C) the extent to which the Department of Defense needed access to additional cost information during such two-year period to determine reasonableness of price, but was not provided such information by the contractor on request; and
+
+&emsp;&emsp;“(D) recommendations for improving evaluations of reasonableness of price by Department of Defense acquisition professionals, including recommendations for any amendments to law, regulations, or guidance.”
 
 #### Price Trend Analysis for Supplies and Equipment Purchased by the Department of Defense
 
@@ -390,7 +444,7 @@ In general.—The Secretary of Defense shall develop and implement procedures th
 
 &emsp;“(2)
 
-Category of covered supplies and equipment.—A category of covered supplies and equipment referred to in paragraph (1) consists of covered supplies and equipment that have the same National Stock Number, are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends.
+Category of covered supplies and equipment.—A category of covered supplies and equipment referred to in paragraph (1) consists of covered supplies and equipment that have the same NationalStock Number, are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends.
 
 &emsp;“(3)
 
@@ -514,7 +568,7 @@ Exempt Commercial Items Defined.—For the purposes of this section, the term �
 
 #### Review by Inspector General
 
-Section 803(b) of Pub. L. 101–510 provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by section 803(a) of Pub. L. 101–510, had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to section 1105 of Title 31, Money and Finance, for fiscal year 1996, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
+Pub. L. 101–510, div. A, title VIII, §803(b), Nov. 5, 1990, 104 Stat. 1590, provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by section 803(a) of Pub. L. 101–510, had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to section 1105 of Title 31, Money and Finance, for fiscal year 1996, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

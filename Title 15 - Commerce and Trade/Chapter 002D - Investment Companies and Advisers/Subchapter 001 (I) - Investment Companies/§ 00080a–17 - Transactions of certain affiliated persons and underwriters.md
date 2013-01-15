@@ -34,7 +34,7 @@ It shall be unlawful for any affiliated person of or principal underwriter for a
 
 It shall be unlawful for any affiliated person of a registered investment company, or any affiliated person of such person—
 
-&emsp;(1) acting as agent, to accept from any source any compensation (other than a regular salary or wages from such registered company) for the purchase or sale of any property to or for such registered company or any controlled company thereof, except in the course of such person's business as an underwriter or broker; or
+&emsp;(1) acting as agent, to accept from any source any compensation (other than a regularsalary or wages from such registered company) for the purchase or sale of any property to or for such registered company or any controlled company thereof, except in the course of such person's business as an underwriter or broker; or
 
 &emsp;(2) acting as broker, in connection with the sale of securities to or by such registered company or any controlled company thereof, to receive from any source a commission, fee, or other remuneration for effecting such transaction which exceeds (A) the usual and customary broker's commission if the sale is effected on a securities exchange, or (B) 2 per centum of the sales price if the sale is effected in connection with a secondary distribution of such securities, or (C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected unless the Commission shall, by rules and regulations or order in the public interest and consistent with the protection of investors, permit a larger commission.
 
@@ -62,7 +62,7 @@ After one year from the effective date of this subchapter, neither the charter, 
 
 #### (i) Provisions in contracts protecting against willful misfeasance, etc.
 
-After one year from the effective date of this subchapter no contract or agreement underwhich any person undertakes to act as investment adviser of, or principal underwriter for, a registered investment company shall contain any provision which protects or purports to protect such person against any liability to such company or its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence, in the performance of his duties, or by reason of his reckless disregard of his obligations and duties under such contract or agreement.
+After one year from the effective date of this subchapter no contract or agreement under which any person undertakes to act as investment adviser of, or principal underwriter for, a registered investment company shall contain any provision which protects or purports to protect such person against any liability to such company or its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence, in the performance of his duties, or by reason of his reckless disregard of his obligations and duties under such contract or agreement.
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 

@@ -80,13 +80,13 @@ Definitions.—In this section—
 
 <b>1996</b>—Subsec. (a)(1)(H). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out “and the activity is not prohibited as a crime bythe State in which the activity takes place” after “the United States”.
+Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 104–132, §722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
 
 #### Effective Date
 
-Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
+Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that: “This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
 
 &emsp;“(1) the date of the enactment of this Act \[Sept. 13, 1994\]; or
 

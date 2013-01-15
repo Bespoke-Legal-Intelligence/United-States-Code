@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) shall be appointed from public and private life and shall serve at the pleasure of the Commission; and
 
-&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall be experts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
+&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall beexperts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
 
 > &emsp;&emsp;Each member of the Commission may have appointed to an advisory board created by the Commission at least 1 individual requested by that member.
 
@@ -94,7 +94,7 @@
 
 #### (A) Deposits
 
-&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund,gifts of money, and proceeds of transactions under subsection (a) of this section.
+&emsp;&emsp;The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
 
 #### (B) Credits
 
@@ -124,9 +124,9 @@
 
 #### (6) Audits
 
-&emsp;The Comptroller General of the United States shall conduct annual audits of the Senate Preservation Fund and shall report the results of each audit to the Commission.
+&emsp;The Comptroller General of the United States shall conduct periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Commission.
 
-(Pub. L. 108–83, title I, §3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, §4, Aug. 2, 2005, 119 Stat. 568.)
+(Pub. L. 108–83, title I, §3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, §4, Aug. 2, 2005, 119 Stat. 568; Pub. L. 112–234, §2(h), Dec. 28, 2012, 126 Stat. 1625.)
 
 #### Codification
 
@@ -135,6 +135,8 @@ Section is comprised of section 3 of Pub. L. 108–83. Subsec. (a)(3) of section
 Section is from the Legislative Branch Appropriations Act, 2004.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(6). Pub. L. 112–234 substituted “periodic audits of the Senate Preservation Fund, whichshall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date,” for “annual audits of the Senate Preservation Fund”.
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title”.
 

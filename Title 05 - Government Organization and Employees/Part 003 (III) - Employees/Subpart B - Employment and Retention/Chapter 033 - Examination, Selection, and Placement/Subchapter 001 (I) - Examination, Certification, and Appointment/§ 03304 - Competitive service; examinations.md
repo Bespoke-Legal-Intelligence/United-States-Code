@@ -36,7 +36,7 @@
 
 (3) This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
 
-(4) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
+(4) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 yearsor more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
@@ -96,7 +96,7 @@ In subsection (a), the authority of the President to prescribe rules is added on
 
 In subsection (b), the words “That after the expiration of six months from the passage of this act” are omitted as executed. The words “in the competitive service” are substituted for “in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules” because of the definition of “competitive service” in section 2102. In the second sentence, the words “the provisions of this title governing the competitive service” are substituted for “this act”.
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransferprovided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
 
 In subsection (d), the word “Employees” is substituted for “collector, postmaster, and other officers of the United States”.
 
@@ -152,9 +152,9 @@ Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided
 
 #### Effective Date of 1995 Amendment
 
-Section 16(c) of Pub. L. 104–65 provided that: “The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\].”
+Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: “The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\].”
 
-Section 17(b) of Pub. L. 104–65 provided that: “The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
+Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: “The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 
 &emsp;“(1) conduct a study on excepted service considerations for competitive service appointments relating to such amendment; and
 

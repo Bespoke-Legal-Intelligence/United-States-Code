@@ -24,7 +24,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (1) Designation of underserved area
 
-&emsp;The Secretary shall designate as targeted underserved areas 100 counties and communities in each fiscal year that have severe,unmet housing needs as determined by the Secretary. A county or community shall be eligible for designation if, during the 5-year period preceding the year in which the designation is made, it has received an average annual amount of assistance under this subchapter that is substantially lower than the average annual amount of such assistance received during that 5-year period by other counties and communities in the State that are eligible for such assistance calculated on a per capita basis, and has—
+&emsp;The Secretary shall designate as targeted underserved areas 100 counties and communities in each fiscal year that have severe, unmet housing needs as determined by the Secretary. A county or community shall be eligible for designation if, during the 5-year period preceding the year in which the designation is made, it has received an average annual amount of assistance under this subchapter that is substantially lower than the average annual amount of such assistance received during that 5-year period by other counties and communities in the State that are eligible for such assistance calculated on a per capita basis, and has—
 
 &emsp;&emsp;(A) 20 percent or more of its population at or below the poverty level; and
 
@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 
@@ -114,7 +114,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(D) was in existence as a colonia before November 28, 1990.
 
-(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title V, §506(a), Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
+(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title I \[title V, §506(a)\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
 
 #### References in Text
 
@@ -156,11 +156,11 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Section 709(c) of Pub. L. 101–625 provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by this section \[amending this section\].”
+Pub. L. 101–625, title VII, §709(c), Nov. 28, 1990, 104 Stat. 4290, provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by this section \[amending this section\].”
 
 #### Housing in Underserved Areas
 
-Section 709(a) of Pub. L. 101–625 provided that: “The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas.”
+Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: “The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas.”
 
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers’ Home Administration
 

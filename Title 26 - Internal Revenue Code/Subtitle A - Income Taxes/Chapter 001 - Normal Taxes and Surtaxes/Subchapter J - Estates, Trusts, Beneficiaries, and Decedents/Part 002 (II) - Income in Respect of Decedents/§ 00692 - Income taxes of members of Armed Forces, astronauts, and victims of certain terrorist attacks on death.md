@@ -52,7 +52,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 #### (3) Taxation of certain benefits
 
-&emsp;Subject to such rules as the Secretary may prescribe, paragraph (1) shall not apply to theamount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts attributable to—
+&emsp;Subject to such rules as the Secretary may prescribe, paragraph (1) shall not apply to the amount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts attributable to—
 
 &emsp;&emsp;(A) deferred compensation which would have been payable after death if the individual had died other than as a specified terrorist victim, or
 
@@ -132,9 +132,9 @@ Amendment by section 113(b) of Pub. L. 107–134 applicable to taxable years end
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1982, see section 1708(b) of Pub. L. 99–514, set out as a note under section 2 of this title.
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 722(g)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, §722(g)(5), July 18, 1984, 98 Stat. 975, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -142,9 +142,9 @@ In general.—The amendments made by this subsection \[amending this section and
 
 “(B)
 
-Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim forcredit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
+Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 1(b) of Pub. L. 98–259 as amended by Pub. L. 98–369, div. A, title VII, §722(g)(1), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–259, §1(b), Apr. 10, 1984, 98 Stat. 143, as amended by Pub. L. 98–369, div. A, title VII, §722(g)(1), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -160,13 +160,13 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1975 Amendment
 
-Section 4(b) of Pub. L. 93–597 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 93–597, §4(b), Jan. 2, 1975, 88 Stat. 1952, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
 
 #### Refunds and Credits of Overpayments for Taxable Years Ending on or After February 28, 1961, Resulting From Application of Provisions
 
-Section 4(c) of Pub. L. 93–597, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the refund or credit of any overpayment for any taxable year ending on or after February 28, 1961, resulting from the application of section 692 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) is prevented at any time before the expiration of one year after the date of the enactment of this Act \[Jan. 2, 1975\] by the operation of any law or rule of law, but would not have been so prevented if claim for refund or credit therefor were made on the due date for the return for the taxable year of his death (or any later year), refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such one-year period.”
+Pub. L. 93–597, §4(c), Jan. 2, 1975, 88 Stat. 1952, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the refund or credit of any overpayment for any taxable year ending on or after February 28, 1961, resulting from the application of section 692 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a) of this section) is prevented at any time before the expiration of one year after the date of the enactment of this Act \[Jan. 2, 1975\] by the operation of any law or rule of law, but would not have been so prevented if claim for refund or credit therefor were made on the due date for the return for the taxable year of his death (or any later year), refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such one-year period.”
 
 #### Treatment of Director General of Multinational Force in Sinai
 
-Section 722(g)(4) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General.”
+Pub. L. 98–369, div. A, title VII, §722(g)(4), July 18, 1984, 98 Stat. 974, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General.”
 

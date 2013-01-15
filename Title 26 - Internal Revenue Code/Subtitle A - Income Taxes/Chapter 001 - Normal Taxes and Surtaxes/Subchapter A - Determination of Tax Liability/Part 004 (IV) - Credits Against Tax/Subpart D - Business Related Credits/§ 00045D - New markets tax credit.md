@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any specialized small business investment company (as defined in section 1044(c)(3)), and
 
-&emsp;&emsp;(B) any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).
+&emsp;&emsp;(B) any community development financial institution (as defined in section 103 of theCommunity Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).
 
 #### (d) Qualified low-income community investments
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting “85 percent” for “80 percent”.
+&emsp;&emsp;In the case of a population census tract located within a high migration rural county,paragraph (1)(B)(i) shall be applied by substituting “85 percent” for “80 percent”.
 
 #### (B) High migration rural county
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 &emsp;&emsp;(F) $5,000,000,000 for 2009 <sup>1</sup>
 
-&emsp;&emsp;(G) $3,500,000,000 for 2010 and 2011.
+&emsp;&emsp;(G) $3,500,000,000 for 2010, 2011, 2012, and 2013.
 
 #### (2) Allocation of limitation
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (3) Carryover of unused limitation
 
-&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2016.
+&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2018.
 
 #### (g) Recapture of credit in certain cases
 
@@ -262,9 +262,13 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (f)(1)(G). Pub. L. 112–240, §305(a), substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”.
+
+Subsec. (f)(3). Pub. L. 112–240, §305(b), substituted “2018” for “2016”.
 
 <b>2010</b>—Subsec. (f)(1)(G). Pub. L. 111–312, §733(a), added subpar. (G).
 
@@ -285,6 +289,10 @@ Subsec. (i)(6). Pub. L. 109–432, §102(b), added par. (6).
 Subsec. (e)(4). Pub. L. 108–357, §221(b), added par. (4).
 
 Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §305(c), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

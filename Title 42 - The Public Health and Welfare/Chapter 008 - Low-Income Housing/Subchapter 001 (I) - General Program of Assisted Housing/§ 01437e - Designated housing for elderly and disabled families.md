@@ -82,7 +82,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (2) Renewal of plan
 
-&emsp;Upon the expiration of the 5-year period under paragraph (1) or any 2-year period under this paragraph, an agency may extend the effectiveness of the designation and plan for an additional 2-year period (that begins upon such expiration) by submitting to the Secretary any information needed to update the plan. The Secretary may not limit the number of times a public housing agency extends the effectiveness of a designation and plan under this paragraph.
+&emsp;Upon the expiration of the 5-year period under paragraph (1) or any 2-year period underthis paragraph, an agency may extend the effectiveness of the designation and plan for an additional 2-year period (that begins upon such expiration) by submitting to the Secretary any information needed to update the plan. The Secretary may not limit the number of times a public housing agency extends the effectiveness of a designation and plan under this paragraph.
 
 #### (3) Transition provision
 
@@ -110,7 +110,7 @@ A prior section 7 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, requi
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–276 struck out heading and text of subsec. (h). Text read as follows: “The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
-<b>1996</b>—Pub. L. 104–330, §501(b)(4), which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (<i>l</i>), could not be executed because this section does not contain a subsec. (<i>l</i>).
+<b>1996</b>—Pub. L. 104–330, §501(b)(4), which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (l), could not be executed because this section does not contain a subsec. (l).
 
 Pub. L. 104–120 amended section generally, restating former subsecs. (a) to (g) relating to designated housing as subsecs. (a) to (h) relating to designated housing for elderly and disabled families.
 
@@ -124,7 +124,7 @@ Subsec. (a)(2). Pub. L. 104–99, which directed the temporary amendment of par.
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
@@ -136,7 +136,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
-Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operatedpursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

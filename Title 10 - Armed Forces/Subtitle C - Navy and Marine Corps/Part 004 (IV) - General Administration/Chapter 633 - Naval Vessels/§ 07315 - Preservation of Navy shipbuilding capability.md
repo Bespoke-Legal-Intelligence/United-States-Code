@@ -44,5 +44,5 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 #### Procedures for Applications and for Consideration of Agreements
 
-Section 1027(b) of Pub. L. 105–85 provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 105–85, div. A, title X, §1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 of title 10, United States Code, as added by subsection (a).”
 

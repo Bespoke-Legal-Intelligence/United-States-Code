@@ -20,7 +20,7 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department, and prior to audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-(Aug. 14, 1935, ch. 531, title X, §1003, 49 Stat. 646; Aug. 10, 1939, ch. 666, title VII, §702, 53 Stat. 1397; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §503, 60 Stat. 992; June 14, 1948, ch. 468, §3(c), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 4, §342(a), pt. 6, §361(c), (d), 64 Stat. 553, 558; July 18, 1952, ch. 945, §8(c), 66 Stat. 779; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§303, 313(c), 343, 70 Stat. 847, 849, 853; Pub. L. 85–840, title V, §503, Aug. 28, 1958, 72 Stat. 1049; Pub. L. 87–64, title III, §303(b), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(3), (b)(3), 132(b), July 25, 1962, 76 Stat. 176, 180, 195; Pub. L. 89–97, title I, §122, title IV, §401(d), July 30, 1965, 79 Stat. 353, 415; Pub. L. 90–248, title II, §212(b), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(c), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(2), title XXIII, §2353(e), Aug. 13, 1981, 95 Stat. 817, 872; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title X, §1003, 49 Stat. 646; Aug. 10, 1939, ch. 666, title VII, §702, 53 Stat. 1397; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §503, 60 Stat. 992; June 14, 1948, ch. 468, §3(c), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 4, §342(a), pt. 6, §361(c), (d), 64 Stat. 553, 558; July 18, 1952, ch. 945, §8(c), 66 Stat. 779; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§303, 313(c), 343, 70 Stat. 847, 849, 853; Pub. L. 85–840, title V, §503, Aug. 28, 1958, 72 Stat. 1049; Pub. L. 87–64, title III, §303(b), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(3), (b)(3), 132(b), July 25, 1962, 76 Stat. 176, 180, 195; Pub. L. 89–97, title I, §122, title IV, §401(d), July 30, 1965, 79 Stat. 353, 415; Pub. L. 90–248, title II, §212(b),Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(c), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(2), title XXIII, §2353(e), Aug. 13, 1981, 95 Stat. 817, 872; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Repeal of Section
 
@@ -32,7 +32,7 @@ The method of computing and paying such amounts shall be as follows:
 
 <b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 substituted “50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.” for “the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and efficient administration of the State plan—
 
-&emsp;“(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutionsthrough grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
+&emsp;“(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
 
 &emsp;“(B) 100 percent of so much of such expenditures as are for the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title; plus
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §303, substituted “during such quarter as aid to the blind in the form of money payments under the State plan” for “during such quarter as aid to the blind under the State plan” in cls. (1) and (2), “who received aid to the blind in the form of money payments for such month” for “who received aid to the blind for such month” in par. (a) of cl. (1), and inserted cl. (4).
 
-Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering theState plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
+Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
 
 Act Aug. 1, 1956, §343, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), substituted “$60” for “$55,” “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose”.
 
@@ -156,7 +156,7 @@ Amendment by act July 18, 1952, effective for the period beginning Oct. 1, 1952,
 
 #### Effective Date of 1950 Amendment
 
-Section 342(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950.”
+Act Aug. 28, 1950, ch. 809, title III, §342(b), 64 Stat. 554, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950.”
 
 #### Effective Date of 1948 Amendment
 
@@ -164,11 +164,11 @@ Amendment by act June 14, 1948, effective Oct. 1, 1948, see section 3(d) of act 
 
 #### Effective and Termination Date of 1946 Amendment
 
-Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and endingwith close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
+Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
 
 #### Effective Date of 1939 Amendment
 
-Section 702 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title VII, §702, 53 Stat. 1397, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 #### Transfer of Functions
 
@@ -182,5 +182,5 @@ Prohibition of payments under this subchapter to States with respect to aid or a
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 
-Payments to States under combined State plan under subchapter XVI of this chapter as precluding payment under State plan conforming to this subchapter, see section 141(b) of Pub. L. 87–543.
+Payments to States under combined State plan under subchapter XVI of this chapter as precluding payment under State plan conforming to this subchapter, see Pub. L. 87–543, title I, §141(b), July 25, 1962, 76 Stat. 205.
 

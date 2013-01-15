@@ -44,7 +44,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(K) work actively to increase the supply of donated organs,
 
-&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network,
+&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplantcenter affiliated with the organ procurement and transplantation network,
 
 &emsp;(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
 
@@ -60,7 +60,7 @@ The Secretary shall establish procedures for—
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
-(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344;amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835.)
+(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835.)
 
 #### Prior Provisions
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 100–607, §403(b), added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
-Section 202(d) of Pub. L. 101–616 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990.”
+Pub. L. 101–616, title II, §202(d), Nov. 16, 1990, 104 Stat. 3284, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990.”
 
 #### Report; Limitation on Amendment by Pub. L. 110–426
 

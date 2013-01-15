@@ -14,7 +14,7 @@
 
 (3) In any case in which the contingency set forth in paragraph (2)(B) occurs, the President shall (within 15 days after the adoption of such resolution) proclaim the increase in, or imposition of, any duty or other import restriction on the article which was found and reported by the United States International Trade Commission pursuant to section 1901(e) of this title.
 
-(4) The President may, within 60 days after the date on which he receives an affirmative finding of the United States International Trade Commission under section 1901(b) <sup>1</sup> of this title with respect to an industry, request additional information from the United States International Trade Commission. The United States International Trade Commission shall, as soon as practicable but in no event more than 120 days after the date on which it receives the President's request, furnish additional information with respect to such industry in a supplemental report. For purposes of paragraph (2), the date on which the President receives such supplemental report shall be treated as the date on which the President received the affirmative finding of the United States International Trade Commission with respect to such industry.
+(4) The President may, within 60 days after the date on which he receives an affirmative findingof the United States International Trade Commission under section 1901(b) <sup>1</sup> of this title with respect to an industry, request additional information from the United States International Trade Commission. The United States International Trade Commission shall, as soon as practicable but in no event more than 120 days after the date on which it receives the President's request, furnish additional information with respect to such industry in a supplemental report. For purposes of paragraph (2), the date on which the President receives such supplemental report shall be treated as the date on which the President received the affirmative finding of the United States International Trade Commission with respect to such industry.
 
 #### (b) Maximum rate of increase
 
@@ -74,9 +74,9 @@ Subsec. (d)(3). Pub. L. 93–618, §602(d), struck out par. (3) which provided f
 
 #### Status of Certain Changes in Tariff Schedules
 
-Section 1(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules of the United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
+Pub. L. 90–638, §1(d), Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered1 \[of item 662.18\] of the Tariff Schedules of the United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
 
-Section 2(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that:
+Pub. L. 90–638, §2(d), Oct. 24, 1968, 82 Stat. 1360, provided that:
 
 “(1) For purposes of applying sections 256(4) \[section 1886(4) of this title\], 256(d) \[section 1886(5) of this title\], and 351(b) of the Trade Expansion Act of 1962 \[subsec. (b) of this section\] and section 350(c)(2)(A) of the Tariff Act of 1930 \[section 1351(c)(2)(A) of this title\]—
 
@@ -86,21 +86,21 @@ Section 2(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that:
 
 “(2) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States (as amended by subsection (b)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party.”
 
-Section 2(c) of Pub. L. 90–564, Oct. 12, 1968, 82 Stat. 1001, provided that:
+Pub. L. 90–564, §2(c), Oct. 12, 1968, 82 Stat. 1001, provided that:
 
 “(1) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States for item 149.48 (as added by the first section of this Act and amended by subsection (b) of this section) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party.
 
 “(2) For purposes of section 351(b) of the Trade Expansion Act of 1962 \[subsec. (b) of this section\], the rate of duty in rate column numbered 2 of the Tariff Schedules of the United States for item 149.48 (as added by the first section of this Act) shall be treated as the rate of duty existing on July 1, 1934.”
 
-Section 9 of Pub. L. 89–651, Oct. 14, 1966, 80 Stat. 902, provided that: “Any duty-free treatment provided for in this Act \[see Short Title note set out preceding section 1202 of this title\] shall, for purposes of title III of the Trade Expansion Act of 1962 (76 Stat. 883; 19 U.S.C., secs. 1901 to 1991) \[this subchapter\], be treated as a concession granted under a trade agreement: <i>Provided</i>, That any action taken pursuant to section 351 of such Act \[this section\] as the result of this section shall be consistent with obligations of the United States under trade agreements.”
+Pub. L. 89–651, §9, Oct. 14, 1966, 80 Stat. 902, provided that: “Any duty-free treatment provided for in this Act \[see Short Title note set out preceding section 1202 of this title\] shall, for purposes of title III of the Trade Expansion Act of 1962 (76 Stat. 883; 19 U.S.C., secs. 1901 to 1991) \[this subchapter\], be treated as a concession granted under a trade agreement: <i>Provided</i>, That any action taken pursuant to section 351 of such Act \[this section\] as the result of this section shall be consistent with obligations of the United States under trade agreements.”
 
-Section 4 of Pub. L. 89–388, Apr. 13, 1966, 80 Stat. 110, provided that: “For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C. 1886) and section 351(b) (19 U.S.C. 1981(b)) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C. 1351(c)(2)(A))—
+Pub. L. 89–388, §4, Apr. 13, 1966, 80 Stat. 110, provided that: “For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C. 1886) and section 351(b) (19 U.S.C. 1981(b)) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C. 1351(c)(2)(A))—
 
 &emsp;“(1) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States as changed by this Act shall be treated as the rates of duty existing on July 1, 1962.
 
 &emsp;“(2) The rates of duty in rate column numbered 2 of such Schedules as changed by this Act shall be treated as the rates of duty existing on July 1, 1934.”
 
-Section 3 of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that:
+Pub. L. 89–241, §3, Oct. 7, 1965, 79 Stat. 933, provided that:
 
 “(a) For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C., sec. 1886) and section 351(b) (19 U.S.C., sec. 1981(b)) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C., sec. 1351(c)(2)(A))—
 

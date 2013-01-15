@@ -26,6 +26,12 @@ The words “It is declared to be the policy of Congress”, “the Nation”, a
 
 <b>2005</b>—Pub. L. 109–59 substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–141, div. B, §20001, July 6, 2012, 126 Stat. 622, provided that: “This division \[see Tables for classification\] may be cited as the ‘Federal Public Transportation Act of 2012’.”
+
+Pub. L. 112–141, div. C, title III, §33001, July 6, 2012, 126 Stat. 832, provided that: “This title \[see Tables for classification\] may be cited as the ‘Hazardous Materials Transportation Safety Improvement Act of 2012’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–59, title III, §3001, Aug. 10, 2005, 119 Stat. 1544, provided that: “This title \[see Tables for classification\] may be cited as the ‘Federal Public Transportation Act of 2005’.”
@@ -42,7 +48,7 @@ Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–311, title I, §101, Aug. 26, 1994, 108 Stat. 1673, provided that: “This title \[amending sections 5102 to 5104, 5107, 5108, 5110, 5116, 5117, 5121, and 5125 to 5127 of this title and enacting provisions set out as notes under this section, sections 5103, 5112, and 5121 of this title, and section 307 of Title 23, Highways\] may be cited as the ‘Hazardous Materials Transportation Authorization Act of 1994’.”
+Pub. L. 103–311, title I, §101, Aug. 26, 1994, 108 Stat. 1673, provided that: “This title \[amending sections 5102to 5104, 5107, 5108, 5110, 5116, 5117, 5121, and 5125 to 5127 of this title and enacting provisions set out as notes under this section, sections 5103, 5112, and 5121 of this title, and section 307 of Title 23, Highways\] may be cited as the ‘Hazardous Materials Transportation Authorization Act of 1994’.”
 
 #### Transfer of Functions
 
@@ -91,4 +97,8 @@ Reciprocity.—
 &emsp;“(2)(A) The Secretary of Transportation may waive the provisions of paragraph (1) if the products or services required are not reasonably available from companies organized under the laws of the United States. Any such waiver shall be reported to Congress.
 
 &emsp;“(B) Paragraph (1) shall not apply to the extent that to do so would violate the General Agreement on Tariffs and Trade or any other international agreement to which the United States is a party.”
+
+#### “Secretary” Defined
+
+Pub. L. 112–141, div. C, title III, §33002, July 6, 2012, 126 Stat. 832, provided that: “In this title \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 

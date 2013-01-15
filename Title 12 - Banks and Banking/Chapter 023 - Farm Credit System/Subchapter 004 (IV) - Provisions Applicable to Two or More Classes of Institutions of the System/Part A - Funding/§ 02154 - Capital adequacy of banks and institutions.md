@@ -8,7 +8,7 @@ The Farm Credit Administration shall cause System institutions to achieve and ma
 
 (1) Failure of a System institution to maintain capital at or above its minimum level as established under subsection (a) of this section may be deemed by the Farm Credit Administration, in its discretion, to constitute an unsafe and unsound practice within the meaning of this chapter.
 
-(2) In addition to, or in lieu of, any other action authorized by law, including paragraph (1),the Farm Credit Administration may issue a directive to a System institution that fails to maintain capital at or above its required level as established under subsection (a) of this section. Such directive may require the System institution to submit and adhere to a plan acceptable to the Farm Credit Administration describing the means and timing by which the System institution shall achieve its required capital level, but may not require merger or consolidation without a majority vote of the voting stockholders or the contributors to the guaranty fund of the institution.
+(2) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the Farm Credit Administration may issue a directive to a System institution that fails to maintain capital at or above its required level as established under subsection (a) of this section. Such directive may require the System institution to submit and adhere to a plan acceptable to the Farm Credit Administration describing the means and timing by which the System institution shall achieve its required capital level, but may not require merger or consolidation without a majority vote of the voting stockholders or the contributors to the guaranty fund of the institution.
 
 (3) The Farm Credit Administration may consider such System institution's progress in adhering to any plan required under paragraph (2) whenever such System institution, or an affiliate thereof, seeks the requisite approval of the Farm Credit Administration for any proposal that would divert earnings, diminish capital, or otherwise impede such System institution's progress in achieving its minimum capital level. The Farm Credit Administration may deny such approval where it determines that such proposal would adversely affect the ability of the System institution to comply with such plan.
 
@@ -20,7 +20,7 @@ Each bank shall have on hand at the time of issuance of any note, bond, debentur
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
 
 Subsec. (c). Pub. L. 100–233, §805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
@@ -38,11 +38,11 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Construction of 1988 Amendment
 
-Section 702(b) of Pub. L. 100–399 provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
 
 #### Minimum Capital Adequacy Standards
 
-Section 301(a) of Pub. L. 100–233, as amended by Pub. L. 100–399, title III, §301(a), Aug. 17, 1988, 102 Stat. 993, provided that:
+Pub. L. 100–233, title III, §301(a), Jan. 6, 1988, 101 Stat. 1608, as amended by Pub. L. 100–399, title III, §301(a), Aug. 17, 1988, 102 Stat. 993, provided that:
 
 “(1)
 

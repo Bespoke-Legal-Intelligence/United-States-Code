@@ -28,7 +28,7 @@ Subsec. (d)(2). Pub. L. 105–85, §3524(b)(1)(B), redesignated subsec. (d)(2) a
 
 #### Effective Date of 1997 Amendment
 
-Section 3524(c) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending this section and section 3664 of this title\] shall take effect on January 1, 1999.”
+Pub. L. 105–85, div. C, title XXXV, §3524(c), Nov. 18, 1997, 111 Stat. 2065, provided that: “The amendments made by this section \[amending this section and section 3664 of this title\] shall take effect on January 1, 1999.”
 
 #### Effective Date
 

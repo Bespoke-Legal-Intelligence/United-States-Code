@@ -136,7 +136,7 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 #### (5) Regulations to implement trade agreements
 
-&emsp;Not later than 30 days after October 13, 2006, the Commissioner shall designate and maintain not less than 5 attorneys within the Office of International Trade established pursuant to section 2072 of this title, with responsibility for the prompt development and promulgation of regulations necessary to implement any trade agreement entered into by theUnited States, in addition to any other responsibilities assigned by the Commissioner.
+&emsp;Not later than 30 days after October 13, 2006, the Commissioner shall designate and maintain not less than 5 attorneys within the Office of International Trade established pursuant to section 2072 of this title, with responsibility for the prompt development and promulgation of regulations necessary to implement any trade agreement entered into by the United States, in addition to any other responsibilities assigned by the Commissioner.
 
 #### (6) Definition
 
@@ -206,7 +206,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 &emsp;“(B) $53,500,000 is for the operation and maintenance of the air interdiction program of the Service; and
 
-&emsp;“(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+&emsp;“(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor exportcontrols under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 
 “(2) No part of any sum that is appropriated under the authority of paragraph (1) may be used to close any port of entry at which, during fiscal year 1985—
 
@@ -214,7 +214,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 &emsp;“(B) not less than $1,500,000 in customs revenues were assessed.
 
-“(3)(A) No part of any sum that is appropriated under the authority of paragraph (1) may be used for furtherresearch and development or acquisition of F–15 avionics for the P–3 aircraft and related equipment until 60 days after the Committee on Ways and Means and the Committee on Finance have received from the Secretary of the Treasury a written comparative assessment of the suitability of the P–3, E–2, or other appropriate aircraft for use by the Customs Service in its air drug interdiction program. Such assessment, which the Secretary may not submit to the Committees until the General Accounting Office study required under paragraph (7) is completed, shall include life cycle costs.
+“(3)(A) No part of any sum that is appropriated under the authority of paragraph (1) may be used for further research and development or acquisition of F–15 avionics for the P–3 aircraft and related equipment until 60 days after the Committee on Ways and Means and the Committee on Finance have received from the Secretary of the Treasury a written comparative assessment of the suitability of the P–3, E–2, or other appropriate aircraft for use by the Customs Service in its air drug interdiction program. Such assessment, which the Secretary may not submit to the Committees until the General Accounting Office study required under paragraph (7) is completed, shall include life cycle costs.
 
 “(B) Acquisition of additional aircraft for use by the Customs Service for its air drug interdiction program after completion of the assessment required under subparagraph (A) shall be subject to competitive bidding through the use of the normal ‘request for proposal’ process.
 

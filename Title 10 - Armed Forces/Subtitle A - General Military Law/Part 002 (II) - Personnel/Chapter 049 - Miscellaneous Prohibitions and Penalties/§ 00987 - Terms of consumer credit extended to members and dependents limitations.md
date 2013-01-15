@@ -86,6 +86,46 @@ Contract void.—Any credit agreement, promissory note, or other contract prohib
 
 Arbitration.—Notwithstanding section 2 of title 9, or any other Federal or State law, rule, or regulation, no agreement to arbitrate any dispute involving the extension of consumer credit shall be enforceable against any covered member or dependent of such a member, or any person who was a covered member or dependent of that member when the agreement was made.
 
+&emsp;(5)
+
+Civil liability.—
+
+&emsp;&emsp;(A)
+
+In general.—A person who violates this section with respect to any person is civilly liable to such person for—
+
+&emsp;&emsp;&emsp;(i) any actual damage sustained as a result, but not less than $500 for each violation;
+
+&emsp;&emsp;&emsp;(ii) appropriate punitive damages;
+
+&emsp;&emsp;&emsp;(iii) appropriate equitable or declaratory relief; and
+
+&emsp;&emsp;&emsp;(iv) any other relief provided by law.
+
+&emsp;&emsp;(B)
+
+Costs of the action.—In any successful action to enforce the civil liability described in subparagraph (A), the person who violated this section is also liable for the costs of the action, together with reasonable attorney fees as determined by the court.
+
+&emsp;&emsp;(C)
+
+Effect of finding of bad faith and harassment.—In any successful action by a defendant under this section, if the court finds the action was brought in bad faith and for the purpose of harassment, the plaintiff is liable for the attorney fees of the defendant as determined by the court to be reasonable in relation to the work expended and costs incurred.
+
+&emsp;&emsp;(D)
+
+Defenses.—A person may not be held liable for civil liability under this paragraph if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. Examples of a bona fide error include clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person's obligations under this section is not a bona fide error.
+
+&emsp;&emsp;(E)
+
+Jurisdiction, venue, and statute of limitations.—An action for civil liability under this paragraph may be brought in any appropriate United States district court, without regard to the amount in controversy, or in any other court of competent jurisdiction, not later than the earlier of—
+
+&emsp;&emsp;&emsp;(i) two years after the date of discovery by the plaintiff of the violation that is the basis for such liability; or
+
+&emsp;&emsp;&emsp;(ii) five years after the date on which the violation that is the basis for such liability occurs.
+
+&emsp;(6)
+
+Administrative enforcement.—The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act (15 U.S.C. 1607) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
+
 (g)
 
 Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
@@ -106,7 +146,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(E) Such other criteria or limitations as the Secretary of Defense determines appropriate, consistent with the provisions of this section.
 
-(3) In prescribing regulations under this subsection, the Secretary of Defense shall consult with the following:
+(3) In prescribing regulations under this subsection, and not less often than once every two years thereafter, the Secretary of Defense shall consult with the following:
 
 &emsp;(A) The Federal Trade Commission.
 
@@ -116,7 +156,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(D) The Federal Deposit Insurance Corporation.
 
-&emsp;(E) The Office of Thrift Supervision.
+&emsp;(E) The Bureau of Consumer Financial Protection.
 
 &emsp;(F) The National Credit Union Administration.
 
@@ -136,13 +176,7 @@ Covered member.—The term “covered member” means a member of the armed forc
 
 &emsp;(2)
 
-Dependent.—The term “dependent”, with respect to a covered member, means—
-
-&emsp;&emsp;(A) the member's spouse;
-
-&emsp;&emsp;(B) the member's child (as defined in section 101(4) of title 38); or
-
-&emsp;&emsp;(C) an individual for whom the member provided more than one-half of the individual's support for 180 days immediately preceding an extension of consumer credit covered by this section.
+Dependent.—The term “dependent”, with respect to a covered member, means a person described in subparagraph (A), (D), (E), or (I) of section 1072(2) of this title.
 
 &emsp;(3)
 
@@ -168,13 +202,59 @@ Creditor.—The term “creditor” means a person—
 
 Consumer credit.—The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
-(Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266.)
+(Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786.)
+
+#### Amendment of Subsection (d)(2)
+
+<i>Pub. L. 112–239, div. A, title VI, §661(a), (c), Jan. 2, 2013, 126 Stat. 1785, provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by §661(c)(1) of Pub. L. 112–239, subsection (d)(2) of this section is amended—</i>
+
+<i>(1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and</i>
+
+<i>(2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.</i>
+
+<i>See 2011 Amendment notes below.</i>
 
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d)(2)(A). Pub. L. 112–239, §661(a)(1), inserted “any consumer credit or” before “loans”.
+
+Subsec. (d)(2)(B). Pub. L. 112–239, §661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
+
+Subsec. (f)(5), (6). Pub. L. 112–239, §662(a), (b), added pars. (5) and (6).
+
+Subsec. (h)(3). Pub. L. 112–239, §661(b)(1), inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
+
+Subsec. (h)(3)(E). Pub. L. 112–239, §661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
+
+Subsec. (i)(2). Pub. L. 112–239, §663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
+
+#### Effective Date of 2013 Amendments
+
+Pub. L. 112–239, div. A, title VI, §661(c), Jan. 2, 2013, 126 Stat. 1785, provided that:
+
+“(1)
+
+Modification of regulations.—The Secretary of Defense shall modify the regulations prescribed under subsection (h) of section 987 of title 10, United States Code, to take into account the amendments made by subsection (a) \[amending this section\].
+
+“(2)
+
+Effective date.—The amendments made by subsection (a) shall take effect on—
+
+&emsp;“(A) the date that is one year after the date of the enactment of this Act \[Jan. 2, 2013\]; or
+
+&emsp;“(B) such earlier date as the Secretary shall specify in the modification of regulations required by paragraph (1).
+
+“(3)
+
+Publication of earlier date.—If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
+
+Pub. L. 112–239, div. A, title VI, §662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
 #### Effective Date
 

@@ -4,11 +4,11 @@
 
 (b) \[1., 2. Repealed\] 3. Federal Housing Administration; 4. Federal Surplus Commodities Corporation; 5. Export-Import Bank of the United States; 6. Second Export-Import Bank of Washington, District of Columbia; 7. Reconstruction Finance Corporation; 8. Electric Home and Farm Authority; 9. Commodity Credit Corporation; 10. Federal Emergency Administration of Public Works; \[11. Repealed\] 12. Reconstruction Finance Mortgage Company.
 
-(June 22, 1936, ch. 689, §7, 49 Stat. 1647; Pub. L. 87–353, §3(<i>l</i>), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 101–73, title VII, §741, Aug. 9, 1989, 103 Stat. 436.)
+(June 22, 1936, ch. 689, §7, 49 Stat. 1647; Pub. L. 87–353, §3(l), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 101–73, title VII, §741, Aug. 9, 1989, 103 Stat. 436.)
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out “1. Federal Home Loan Bank Board; 2. Home Owners’ LoanCorporation;” and “11. Federal Savings and Loan Insurance Corporation;”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out “1. Federal Home Loan Bank Board; 2. Home Owners’ Loan Corporation;” and “11. Federal Savings and Loan Insurance Corporation;”.
 
 <b>1961</b>—Subsec. (b). Pub. L. 87–353 struck out item 4. Federal Farm Mortgage Corporation and redesignated former items 5 to 13 as 4 to 12, respectively.
 
@@ -22,7 +22,7 @@ Export-Import Bank of Washington was set out as one of several agencies for whic
 
 Second Export-Import Bank of Washington, D.C. was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to Export-Import Bank of Washington (see above) and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372.
 
-Federal Loan Agency's and Federal Loan Administrator's functions and duties relating to Reconstruction Finance Corporation, Reconstruction Finance Mortgage Company, Electric Home and Farm Authority and Export-Import Bank of Washington, and other agencies, transferred to Department of Commerce, during World War II, see Ex. Ord. No. 9071, Feb. 24, 1942, 7 F.R. 1531. By act Feb. 24, 1945, ch. 4, 59 Stat. 5, former sections 1801 to 1805 of Title 12, Federal Loan Agency was reconstituted an independent establishment of Federal Government, and was abolished and its property and functions transferred to Reconstruction Finance Corporation by act June 30, 1947, ch. 166, title II, §204, 61 Stat. 208. Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of this title, abolished Reconstruction Finance Corporation.
+Federal Loan Agency's and Federal Loan Administrator's functions and duties relating to Reconstruction Finance Corporation, Reconstruction Finance Mortgage Company, Electric Home and Farm Authority and Export-Import Bank of Washington, and other agencies, transferred to Department of Commerce, during World War II, see Ex. Ord. No. 9071, Feb. 24, 1942, 7 F.R. 1531. By act Feb. 24, 1945, ch. 4, 59 Stat. 5, former sections 1801 to 1805 of Title 12, Federal Loan Agency was reconstituted an independent establishment of Federal Government, and was abolished and its property andfunctions transferred to Reconstruction Finance Corporation by act June 30, 1947, ch. 166, title II, §204, 61 Stat. 208. Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of this title, abolished Reconstruction Finance Corporation.
 
 Electric Home and Farm Authority was set out as one of several agencies for which Federal Loan Administrator should supervise administration and be responsible for coordination of functions and activities, by Reorg. Plan No. I of 1939, §402, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5, Government Organization and Employees.
 

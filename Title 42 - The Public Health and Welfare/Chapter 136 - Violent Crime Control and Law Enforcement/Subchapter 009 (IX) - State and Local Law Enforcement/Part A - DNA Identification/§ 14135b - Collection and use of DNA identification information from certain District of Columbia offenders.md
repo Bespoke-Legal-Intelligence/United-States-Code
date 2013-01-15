@@ -16,7 +16,7 @@
 
 #### (4) Collection procedures
 
-&emsp;(A) The Director of the Bureau of Prisons or Agency (as applicable) may use or authorizethe use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
+&emsp;(A) The Director of the Bureau of Prisons or Agency (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
 
 &emsp;(B) The Director of the Bureau of Prisons or Agency, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
 

@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
 
-&emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, theduty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
+&emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, the duty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
 
 &emsp;(2) the servicer shall be deemed to have satisfied the duty set forth in paragraph (1) if, before December 31, 2012, the servicer implements a qualified loss mitigation plan that meets the following criteria:
 
@@ -48,27 +48,15 @@ As used in this section—
 
 No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
 
-(Pub. L. 90–321, title I, §129, formerly §129A, as added Pub. L. 110–289, div. A, title IV, §1403, July 30, 2008, 122 Stat. 2809; renumbered §129 and amended Pub. L. 111–22, div. A, title II, §201(b), May 20, 2009, 123 Stat. 1638.)
-
-#### Renumbering of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1402(a)(1), July 21, 2010, 124 Stat. 2136, 2138, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, section 129 of Pub. L. 90–321, which is classified to this section, is renumbered section 129A of Pub. L. 90–321. See Effective Date of 2010 Amendment note below.</i>
+(Pub. L. 90–321, title I, §129A, as added Pub. L. 110–289, div. A, title IV, §1403, July 30, 2008, 122 Stat. 2809; renumbered §129 and amended Pub. L. 111–22, div. A, title II, §201(b), May 20, 2009, 123 Stat. 1638; renumbered §129A, Pub. L. 111–203, title XIV, §1402(a)(1), July 21, 2010, 124 Stat. 2138.)
 
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsecs. (a)(2)(A), (c), (f)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
-#### Codification
-
-Another section 129 of Pub. L. 90–321 is classified to section 1639 of this title.
-
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–22 amended section generally. Prior to amendment, section related to fiduciary duty of servicers of pooled residential mortgages without providing for date limitation for implementing modifications or workout plans.
-
-#### Effective Date of 2010 Amendment
-
-Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Findings
 

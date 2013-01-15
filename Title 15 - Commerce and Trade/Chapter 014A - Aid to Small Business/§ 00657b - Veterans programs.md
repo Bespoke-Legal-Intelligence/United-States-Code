@@ -2,7 +2,7 @@
 
 #### (a) Office of Veterans Business Development
 
-There is established in the Administration an Office of Veterans Business Development, whichshall be administered by the Associate Administrator for Veterans Business Development (in this section referred to as the “Associate Administrator”) appointed under section 633(b)(1) of this title.
+There is established in the Administration an Office of Veterans Business Development, which shall be administered by the Associate Administrator for Veterans Business Development (in this section referred to as the “Associate Administrator”) appointed under section 633(b)(1) of this title.
 
 #### (b) Associate Administrator for Veterans Business Development
 
@@ -54,7 +54,7 @@ The Associate Administrator—
 
 &emsp;&emsp;&emsp;(i) improving capital access and capacity of small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through loans, surety bonding, and franchising;
 
-&emsp;&emsp;&emsp;(ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through expanded mentor-prote�AE1ge�AE1 assistance and matching such small business concerns with contracting opportunities;
+&emsp;&emsp;&emsp;(ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through expanded mentor-protégé assistance and matching such small business concerns with contracting opportunities;
 
 &emsp;&emsp;&emsp;(iii) increasing the integrity of certifications of status as a small business concern owned and controlled by service-disabled veterans or a small business concern owned and controlled by veterans;
 
@@ -112,7 +112,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### Prior Provisions
 
-A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
+A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Pub. L. 106–50, title I, §102, Aug. 17, 1999, 113 Stat. 234, provided that: �
 
 #### Advisory Committee on Veterans Business Affairs
 
-Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by Pub. L. 108–447, div. K, title I, §143(b), Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §103(b), Feb. 14, 2008, 122 Stat. 625, provided that:
+Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by Pub. L. 108–447, div. K, title I, §143(b), Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §103(b), Feb. 14, 2008, 122 Stat. 625; Pub. L. 112–239, div. A, title XVI, §1699(c)(3), Jan. 2, 2013, 126 Stat. 2092, provided that:
 
 “(a)
 
@@ -250,7 +250,7 @@ Duties.—The duties of the Committee shall be the following:
 
 &emsp;“(4) Develop and promote initiatives, policies, programs, and plans designed to foster small business concerns owned and controlled by veterans.
 
-&emsp;“(5) In cooperation with the National Veterans Business Development Corporation, develop a comprehensive plan, to be updated annually, for joint public-private sector efforts to facilitate growth and development of small business concerns owned and controlled by veterans.
+&emsp;“(5) Develop a comprehensive plan, to be updated annually, for joint public-private sector efforts to facilitate growth and development of small business concerns owned and controlled by veterans.
 
 “(d)
 
@@ -342,7 +342,7 @@ Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 #### Annual Report of Administrator
 
-Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee onSmall Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
+Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
 &emsp;“(1) the availability of Small Business Administration programs for such small business concerns and the degree of utilization of such programs by such small business concerns during the preceding 12-month period, including statistical information on such utilization as compared to the small business community as a whole;
 
@@ -412,7 +412,7 @@ Sec. 3. <i>Functions</i>. Consistent with the Act and other applicable law, the 
 
 (i) improving capital access and capacity of small business concerns owned and controlled by veterans and service-disabled veterans through loans, surety bonding, and franchising;
 
-(ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by veterans and service-disabled veterans through expanded mentor-prote�AE1ge�AE1 assistance and matching such small business concerns with contracting opportunities;
+(ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by veterans and service-disabled veterans through expanded mentor-protégé assistance and matching such small business concerns with contracting opportunities;
 
 (iii) increasing the integrity of certifications of status as a small business concern owned and controlled by a veteran or service-disabled veteran;
 

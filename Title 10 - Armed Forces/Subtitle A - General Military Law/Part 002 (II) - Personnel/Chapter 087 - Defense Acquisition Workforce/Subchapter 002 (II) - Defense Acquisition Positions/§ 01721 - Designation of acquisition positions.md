@@ -44,7 +44,7 @@ Management Headquarters Activities.—The Secretary also shall designate as acqu
 
 #### Twenty Percent Reduction in Defense Acquisition Workforce
 
-Section 905 of Pub. L. 101–510, required Secretary of Defense to reduce number of employees in Department of Defense acquisition workforce on last day of each of fiscal years 1991 through 1995 below number of employees in such workforce on last day of preceding fiscal year by not less than number equal to 4 percent of number of employees in such workforce on Sept. 30, 1990, and which defined “Department of Defense acquisition workforce”, prior to repeal by Pub. L. 102–190, div. A, title IX, §904, Dec. 5, 1991, 105 Stat. 1451.
+Pub. L. 101–510, div. A, title IX, §905, Nov. 5, 1990, 104 Stat. 1621, required Secretary of Defense to reduce number of employees in Department of Defense acquisition workforce on last day of each of fiscal years 1991through 1995 below number of employees in such workforce on last day of preceding fiscal year by not less than number equal to 4 percent of number of employees in such workforce on Sept. 30, 1990, and which defined “Department of Defense acquisition workforce”, prior to repeal by Pub. L. 102–190, div. A, title IX, §904, Dec. 5, 1991, 105 Stat. 1451.
 
 #### Deadline for Designation of Acquisition Positions
 

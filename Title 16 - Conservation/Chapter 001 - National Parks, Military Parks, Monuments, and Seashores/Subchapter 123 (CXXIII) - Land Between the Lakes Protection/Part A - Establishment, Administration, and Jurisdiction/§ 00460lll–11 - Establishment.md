@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the transfer of administrative jurisdiction under section 460<i>lll</i>–41 of this title, the Land Between the Lakes National Recreation Area in the States of Kentucky and Tennessee is established as a unit of the National Forest System.
+On the transfer of administrative jurisdiction under section 460lll–41 of this title, the Land Between the Lakes National Recreation Area in the States of Kentucky and Tennessee is established as a unit of the National Forest System.
 
 #### (b) Management
 

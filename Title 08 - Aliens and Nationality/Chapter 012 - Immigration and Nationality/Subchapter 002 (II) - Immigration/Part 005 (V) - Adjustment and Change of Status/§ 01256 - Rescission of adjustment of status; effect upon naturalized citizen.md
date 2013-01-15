@@ -22,11 +22,11 @@ Pub. L. 104–208, §308(e)(1)(H), substituted “removal” for “deportation�
 
 Amendment by section 308(e)(1)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 378(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
+Pub. L. 104–208, div. C, title III, §378(b), Sept. 30, 1996, 110 Stat. 3009–649, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
 #### Effective Date of 1994 Amendment
 
-Section 219(m) of Pub. L. 103–416 provided that the amendment made by that section is effective Oct. 25, 1994.
+Pub. L. 103–416, title II, §219(m), Oct. 25, 1994, 108 Stat. 4317, provided that the amendment made by section 219(m) is effective as of Oct. 25, 1994.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

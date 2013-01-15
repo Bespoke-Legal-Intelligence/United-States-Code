@@ -14,7 +14,7 @@ As used in this chapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 98–445 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Eastern Pacific Tuna Licensing Act of 1984’.”
+Pub. L. 98–445, §1, Oct. 4, 1984, 98 Stat. 1715, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Eastern Pacific Tuna Licensing Act of 1984’.”
 
 #### Territorial Sea of United States
 

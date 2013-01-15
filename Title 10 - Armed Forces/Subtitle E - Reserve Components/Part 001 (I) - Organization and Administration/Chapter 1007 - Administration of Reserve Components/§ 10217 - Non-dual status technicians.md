@@ -26,11 +26,11 @@ Employment Authorities.—The authorities referred to in subsection (a) are the 
 
 (c)
 
-Permanent Limitations on Number.—(1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the AirForce, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
+Permanent Limitations on Number.—(1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
 (2) The total number of non-dual status technicians employed by the National Guard may not exceed 1,950. If at any time the number of non-dual status technicians employed by the National Guard exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
-(3) An individual employed as a non-dual status technician as described in subsection (a)(3) shall not be consider <sup>1</sup> a non-dual status technician for purposes of paragraphs (1) and (2).
+(3) An individual employed as a non-dual status technician as described in subsection (a)(3) shall not be considered a non-dual status technician for purposes of paragraphs (1) and (2).
 
 (d)
 
@@ -42,17 +42,19 @@ Exception for Temporary Employment.—(1) Notwithstanding section 10218 of this 
 
 &emsp;(B) Two years.
 
-(3) No person may be hired under the authority of this subsection after the end of the 2-year period beginning on the date of the enactment of this subsection.
+(3) No person may be hired under the authority of this subsection after January 6, 2013.
 
-(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, §414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, §415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, §513, title X, §1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372.)
+(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, §414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, §415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, §513, title X, §1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–239, div. A, title X, §1076(e)(7), (f)(45), Jan. 2, 2013, 126 Stat. 1951, 1955.)
 
 #### References in Text
 
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
-The date of the enactment of this subsection, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(f)(45), substituted “considered” for “consider”.
+
+Subsec. (d)(3). Pub. L. 112–239, §1076(e)(7), substituted “after January 6, 2013” for “after the end of the 2-year period beginning on the date of the enactment of this subsection”.
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 111–383, §513(a)(1), added par. (3).
 
@@ -86,7 +88,7 @@ Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided 
 
 #### Plan for Full Utilization of Military Technicians (Dual Status)
 
-Section 523(d), (e) of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title V, §523(d), (e), Nov. 18, 1997, 111 Stat. 1737, provided that:
 
 “(d)
 
@@ -113,6 +115,4 @@ Definitions for Categories of Military Technicians.—In this section \[enacting
 &emsp;“(1) The term ‘non-dual status military technician’ has the meaning given that term in section 10217 of title 10, United States Code, as added by subsection (a).
 
 &emsp;“(2) The term ‘military technician (dual status)’ has the meaning given the term in section 10216(a) of such title.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “considered”.</i>
 

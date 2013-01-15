@@ -6,11 +6,11 @@ The Secretary shall administer the Wilderness Area in accordance with this part 
 
 #### (b) Wilderness boundaries along roads
 
-Where a wilderness boundary exists along a road, the wilderness boundary shall be set back from the centerline of the road, consistent with the Bureau of Land Management's guidelines as established in its Wilderness Management Policy.
+Where a wilderness boundary exists along a road, the wilderness boundary shall be set backfrom the centerline of the road, consistent with the Bureau of Land Management's guidelines as established in its Wilderness Management Policy.
 
 #### (c) Access to non-Federal lands
 
-The Secretary shall provide reasonable access to private lands within the boundaries of theWilderness Area, as provided in section 460nnn–22(d) <sup>1</sup> of this title.
+The Secretary shall provide reasonable access to private lands within the boundaries of the Wilderness Area, as provided in section 460nnn–22(d) <sup>1</sup> of this title.
 
 #### (d) Grazing
 

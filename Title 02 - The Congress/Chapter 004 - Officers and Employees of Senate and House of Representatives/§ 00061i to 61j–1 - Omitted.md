@@ -8,5 +8,5 @@ Section 61j, Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59
 
 A prior section 61j, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, authorized Senate Majority and Minority Whips to each appoint and fix compensation of an administrative assistant and an executive secretary.
 
-Section 61j–1, Pub. L. 94–59, title I, July 25, 1975, 89 Stat. 270, authorized Senate Majority and Minority Whips, effective July 1, 1975, each to appoint and fix compensation of a legislative assistant. The positions established by Pub. L. 94–59 for the Offices of Majority and Minority Whips were abolished effective Apr. 1, 1977, by Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, set out as a note under section 61h–1 of this title. See, also, section 61j–2 of this title.
+Section 61j–1, Pub. L. 94–59, title I, July 25, 1975, 89 Stat. 270, authorized Senate Majority and MinorityWhips, effective July 1, 1975, each to appoint and fix compensation of a legislative assistant. The positions established by Pub. L. 94–59 for the Offices of Majority and Minority Whips were abolished effective Apr. 1, 1977, by Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, set out as a note under section 61h–1 of this title. See, also, section 61j–2 of this title.
 

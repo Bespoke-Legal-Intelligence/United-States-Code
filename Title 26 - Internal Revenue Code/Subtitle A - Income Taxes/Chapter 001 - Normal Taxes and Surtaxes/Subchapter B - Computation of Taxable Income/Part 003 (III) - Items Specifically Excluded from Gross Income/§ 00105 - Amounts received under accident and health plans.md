@@ -6,7 +6,7 @@ Except as otherwise provided in this section, amounts received by an employee th
 
 #### (b) Amounts expended for medical care
 
-Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27. Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
+Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection\(a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, his dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27. Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
 
 #### (c) Payments unrelated to absence from work
 
@@ -212,9 +212,9 @@ Amendment by section 1301(j)(9) of Pub. L. 99–514 applicable to bonds issued a
 
 Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
-Section 241(b) of Pub. L. 98–76 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 98–76, title II, §241(b), Aug. 12, 1983, 97 Stat. 430, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after December 31, 1983, in taxable years ending after such date.”
 
 Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1983, except that if an individual's annuity starting date was deferred under subsec. (d)(6) as in effect the day before Apr. 20, 1983, such deferral shall end on the first day of such individual's first taxable year beginning after Dec. 31, 1983, see section 122(d) of Pub. L. 98–21 set out as a note under section 22 of this title.
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see sections 103(d) and 115 of Pub. L. 97–34, set out as notes under sections 62 and 911, respectively, of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 Amendments by Pub. L. 96–605 and 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980, where amendments applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
 
@@ -234,9 +234,9 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
+Pub. L. 95–600, title III, §366(b), Nov. 6, 1978, 92 Stat. 2857, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
 
-Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, §701(c)(3), Nov. 6, 1978, 92 Stat. 2900, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
 
@@ -244,13 +244,13 @@ Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Effective Date of 1976 Amendment
 
-Section 505(f) of Pub. L. 94–455, as added by Pub. L. 95–30, title III, §301(a), May 23, 1977, 91 Stat. 151, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title V, §505(f), as added by Pub. L. 95–30, title III, §301(a), May 23, 1977, 91 Stat. 151, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 Amendment by section 1901(c)(2) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1964 Amendment
 
-Section 205(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts attributable to periods of absence commencing after December 31, 1963.”
+Pub. L. 88–272, title II, §205(b), Feb. 26, 1964, 78 Stat. 38, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts attributable to periods of absence commencing after December 31, 1963.”
 
 #### Effective Date of 1962 Amendment
 
@@ -278,7 +278,7 @@ Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by 
 
 #### Special Rule for Existing Permanent and Total Disability Cases
 
-Section 505(c) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(1), (2), May 23, 1977, 91 Stat. 151; Pub. L. 95–600, title VII, §701(c)(2)(A), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any individual who—
+Pub. L. 94–455, title V, §505(c), Oct. 4, 1976, 90 Stat. 1567, as amended by Pub. L. 95–30, title III, §301(b)(1), (2), May 23, 1977, 91 Stat. 151; Pub. L. 95–600, title VII, §701(c)(2)(A), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any individual who—
 
 &emsp;“(1) retired before January 1, 1977,
 
@@ -290,7 +290,7 @@ Section 505(c) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §
 
 #### Special Rule for Coordination With Section 72 of This Title
 
-Section 505(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of an individual who—
+Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of an individual who—
 
 &emsp;“(1) retired on disability before January 1, 1977, and
 

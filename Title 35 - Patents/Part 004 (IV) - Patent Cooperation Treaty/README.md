@@ -22,4 +22,3 @@ Pub. L. 96–517 purported to amend the table of chapters of title 35 by adding 
 - [Chapter 035 - Definitions](Chapter%20035%20-%20Definitions/README.md)
 - [Chapter 036 - International Stage](Chapter%20036%20-%20International%20Stage/README.md)
 - [Chapter 037 - National Stage](Chapter%20037%20-%20National%20Stage/README.md)
-- [Chapter 038 - Transferred](Chapter%20038%20-%20Transferred/README.md)

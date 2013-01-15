@@ -6,7 +6,7 @@ Subject to regulations under section 121 of title 40, the Secretary of the Navy 
 
 &emsp;(2) sell other material that may be spared at a price representing its fair value;
 
-> to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine CorpsLeague for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
+> to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 465; Pub. L. 93–628, §1, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 96–513, title V, §513(39), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 107–217, §3(b)(31), Aug. 21, 2002, 116 Stat. 1297.)
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1975 Amendment
 
-Section 2 of Pub. L. 93–628 provided that: “The amendments made by the first section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\].”
+Pub. L. 93–628, §2, Jan. 3, 1975, 88 Stat. 2148, provided that: “The amendments made by the first section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\].”
 

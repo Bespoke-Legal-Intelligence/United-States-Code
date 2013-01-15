@@ -60,7 +60,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (h) Commission enforcement
 
-(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operationsof an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
+(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
 (2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
@@ -72,7 +72,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (i) Federal contracts
 
-No contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any rule under this section with respect to such utility. Any provision in any such contract which has such effect shall be null and void.
+No contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is enteredinto after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any rule under this section with respect to such utility. Any provision in any such contract which has such effect shall be null and void.
 
 #### (j) New dams and diversions
 
@@ -98,7 +98,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) <sup>4</sup>
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 For purposes of this section, the terms “small power production facility”, “qualifying small power production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
 
@@ -148,7 +148,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 &emsp;(A) The Commission shall issue and enforce such regulations as are necessary to ensure that an electric utility that purchases electric energy or capacity from a qualifying cogeneration facility or qualifying small power production facility in accordance with any legally enforceable obligation entered into or imposed under this section recovers all prudently incurred costs associated with the purchase.
 
-&emsp;(B) A regulation under subparagraph (A) shall be enforceable in accordance with theprovisions of law applicable to enforcement of regulations under the Federal Power Act (16 U.S.C. 791a et seq.).
+&emsp;(B) A regulation under subparagraph (A) shall be enforceable in accordance with the provisions of law applicable to enforcement of regulations under the Federal Power Act (16 U.S.C. 791a et seq.).
 
 #### (n) Rulemaking for new qualifying facilities
 
@@ -172,7 +172,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 #### References in Text
 
-The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
@@ -192,7 +192,7 @@ August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the dat
 
 <b>1990</b>—Subsec. (e)(2). Pub. L. 101–575 inserted “(other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act)” after first reference to “facility”.
 
-<b>1986</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 99–495 added subsecs. (j) and (k) and redesignated former subsec. (j) as (<i>l</i>).
+<b>1986</b>—Subsecs. (j) to (l). Pub. L. 99–495 added subsecs. (j) and (k) and redesignated former subsec. (j) as (l).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–294, §643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
 
@@ -202,7 +202,7 @@ Subsec. (e)(2). Pub. L. 96–294, §643(b)(3), inserted provisions respecting a 
 
 #### Effective Date of 1986 Amendment
 
-Section 8(b) of Pub. L. 99–495 provided that:
+Pub. L. 99–495, §8(b), Oct. 16, 1986, 100 Stat. 1250, provided that:
 
 “(1) Subsection (j) of section 210 of the Public Utility Regulatory Policies Act of 1978 (as amended by subsection (a) of this section) \[16 U.S.C. 824a–3(j)\] shall apply to any project for which benefits under section 210 of the Public Utility Regulatory Policies Act of 1978 are sought and for which a license or exemption is issued by the Federal Energy Regulatory Commission after the enactment of this Act \[Oct. 16, 1986\], except as otherwise provided in paragraph (2), (3) or (4) of this subsection.
 
@@ -210,7 +210,7 @@ Section 8(b) of Pub. L. 99–495 provided that:
 
 “(3) Paragraphs (1) and (3) of such subsection (j) shall not apply if the application for the license or exemption for the project was filed before the enactment of this Act \[Oct. 16, 1986\] and accepted for filing by the Commission (in accordance with the Commission's regulations and procedures in effect on January 1, 1986, including those relating to the requirement for environmental consultation) within 3 years after such enactment.
 
-“(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development ofthe project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
+“(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development of the project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
 
 “(B) In the case of any petition referred to in subparagraph (A), if the applicant had a preliminary permit and had completed environmental consultations (required by Commission regulations and procedures in effect on January 1, 1986) prior to enactment, there shall be a rebuttable presumption that such applicant had committed substantial monetary resources prior to enactment.
 
@@ -238,7 +238,7 @@ Pub. L. 100–202, §101(d) \[title III, §310\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities
 
-Section 8(d) of Pub. L. 99–495 provided that:
+Pub. L. 99–495, §8(d), Oct. 16, 1986, 100 Stat. 1251, provided that:
 
 “(1) The Commission shall conduct a study (in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 \[42 U.S.C. 4332(2)(C)\]) of whether the benefits of section 210 of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3\] and section 210 of the Federal Power Act \[16 U.S.C. 824i\] should be applied to hydroelectric power facilities utilizing new dams or diversions (within the meaning of section 210(k) of the Public Utility Regulatory Policies Act of 1978).
 
@@ -248,13 +248,13 @@ Section 8(d) of Pub. L. 99–495 provided that:
 
 “(4) A report containing the results of the study conducted under this subsection shall be submitted to the Committee on Energy and Commerce of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate while both Houses are in session.
 
-“(5) The report submitted under paragraph (4) shall include a determination (and the basis thereof) by the Commission, based on the study and a public hearing and subject to review under section 313(b) of the Federal Power Act \[16 U.S.C. 825<i>l</i>(b)\], whether any of the benefits referred to in paragraph (1) should be available for such facilities and whether applications for preliminary permits (or licenses where no preliminary permit has been issued) for such small power production facilities utilizing new dams or diversions should be accepted by the Commission after the moratorium period specified in subsection (e). The report shall include such other administrative and legislative recommendations as the Commission deems appropriate.
+“(5) The report submitted under paragraph (4) shall include a determination (and the basis thereof) by the Commission, based on the study and a public hearing and subject to review under section 313(b) of the Federal Power Act \[16 U.S.C. 825l(b)\], whether any of the benefits referred to in paragraph (1) should be available for such facilities and whether applications for preliminary permits (or licenses where no preliminary permit has been issued) for such small power production facilities utilizing new dams or diversions should be accepted by the Commission after the moratorium period specified in subsection (e). The report shall include such other administrative and legislative recommendations as the Commission deems appropriate.
 
 “(6) If the study under this subsection has not been completed within 18 months after its initiation, the Commission shall notify the Committees referred to in paragraph (4) of the reasons for the delay and specify a date when it will be completed and a report submitted.”
 
 #### Moratorium on Application of This Section to New Dams
 
-Section 8(e) of Pub. L. 99–495 provided that: “Notwithstanding the amendments made by subsection (a) of this section \[amending section 824a–3 of this title\], in the case of a project for which a license or exemption is issued after the enactment of this Act \[Oct. 16, 1986\], section 210 of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3\] shall not apply during the moratorium period if the project utilizes a new dam or diversion (as defined in section 210(k) of such Act) unless the project is either—
+Pub. L. 99–495, §8(e), Oct. 16, 1986, 100 Stat. 1251, provided that: “Notwithstanding the amendments made by subsection (a) of this section \[amending section 824a–3 of this title\], in the case of a project for which a license or exemption is issued after the enactment of this Act \[Oct. 16, 1986\], section 210 of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3\] shall not apply during the moratorium period if the project utilizes a new dam or diversion (as defined in section 210(k) of such Act) unless the project is either—
 
 &emsp;“(1) a project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, or
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iii) providing continuing education to primary care physicians relevant to patient-centered medical homes; and
 
-&emsp;&emsp;(H) to plan, develop, and operate joint degree programs to provide interdisciplinary and interprofessional graduate training inpublic health and other health professions to provide training in environmental health, infectious disease control, disease prevention and health promotion, epidemiological studies and injury control.
+&emsp;&emsp;(H) to plan, develop, and operate joint degree programs to provide interdisciplinary and interprofessional graduate training in public health and other health professions to provide training in environmental health, infectious disease control, disease prevention and health promotion, epidemiological studies and injury control.
 
 #### (2) Duration of awards
 
@@ -94,7 +94,7 @@
 
 #### Codification
 
-Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615, which directed the amendment of part C of title VII by striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former section 293k of this title, to reflect the probable intent of Congress.
+Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615, which directed the amendment of part C of title VIIby striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former section 293k of this title, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

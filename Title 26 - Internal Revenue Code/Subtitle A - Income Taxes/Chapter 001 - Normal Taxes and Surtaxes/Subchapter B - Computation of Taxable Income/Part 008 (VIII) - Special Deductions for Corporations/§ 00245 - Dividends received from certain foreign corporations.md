@@ -126,7 +126,7 @@
 
 &emsp;Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(<i>l</i>)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
@@ -142,11 +142,11 @@ Subsec. (c)(5). Pub. L. 110–172, §11(g)(4), added par. (5).
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–357 struck out “foreign personal holding company or” after “(other than a”.
 
-<b>1989</b>—Subsec. (a)(8). Pub. L. 101–239 made clarifying amendment to directory language of Pub. L. 100–647, §1012(<i>l</i>)(2)(A), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a)(8). Pub. L. 101–239 made clarifying amendment to directory language of Pub. L. 100–647, §1012(l)(2)(A), see 1988 Amendment note below.
 
-<b>1988</b>—Subsec. (a)(8). Pub. L. 100–647, §1012(<i>l</i>)(2)(A), as amended by Pub. L. 101–239, substituted “Disallowance of foreign tax credit” for “Coordination with section 902” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a dividend received by a corporation from a qualified 10-percent owned foreign corporation, no credit shall be allowed under section 901 for any taxes treated as paid under section 902 with respect to the U.S.-source portion of such dividend.”
+<b>1988</b>—Subsec. (a)(8). Pub. L. 100–647, §1012(l)(2)(A), as amended by Pub. L. 101–239, substituted “Disallowance of foreign tax credit” for “Coordination with section 902” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a dividend received by a corporation from a qualified 10-percent owned foreign corporation, no credit shall be allowed under section 901 for any taxes treated as paid under section 902 with respect to the U.S.-source portion of such dividend.”
 
-Subsec. (a)(10), (11). Pub. L. 100–647, §1012(<i>l</i>)(2)(B), (3), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 100–647, §1012(l)(2)(B), (3), added pars. (10) and (11).
 
 Subsec. (c). Pub. L. 100–647, §1012(bb)(9)(A), amended subsec. (c) generally, revising and restating provisions of pars. (1) to (4).
 
@@ -158,7 +158,7 @@ Property distributions.—For purposes of this section, the amount of any distri
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted “Dividends from 10-percent owned foreign corporations” for “General rule” as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as “10-percent owned foreign corporations” for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
 
-Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out ofearnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend.”
+Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend.”
 
 Subsec. (c)(3). Pub. L. 99–514, §1876(j), added par. (3). Former par. (3) redesignated (4).
 
@@ -184,9 +184,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(9)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\] to which it relates.”
+Pub. L. 100–647, title I, §1012(bb)(9)(B), Nov. 10, 1988, 102 Stat. 3537, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in the provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\] to which it relates.”
 
-Amendment by sections 1006(e)(16) and 1012(<i>l</i>)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1006(e)(16) and 1012(l)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -194,17 +194,17 @@ Amendment by Pub. L. 100–203 applicable to dividends received or accrued after
 
 #### Effective Date of 1986 Amendment
 
-Section 1226(c)(1) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions out of earnings and profits for taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1226(c)(1), Oct. 22, 1986, 100 Stat. 2560, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions out of earnings and profits for taxable years beginning after December 31, 1986.”
 
 Amendment by section 1876(d)(1), (j) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 805(a) of title VIII of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (<i>o</i>), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
+Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (o), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
 
 “(1)
 
-In general.—Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
+In general.—Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951,956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
 
 “(2)
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 87–834 applicable to distributions made after Dec. 31, 19
 
 #### Dividends Received or Accrued During 1987
 
-Section 1006(b)(1) of Pub. L. 100–647 provided that: “In the case of dividends received or accrued during 1987—
+Pub. L. 100–647, title I, §1006(b)(1), Nov. 10, 1988, 102 Stat. 3393, provided that: “In the case of dividends received or accrued during 1987—
 
 &emsp;“(A) subparagraph (B) of section 245(c)(1) of the 1986 Code shall be applied by substituting ‘80 percent’ for the percentage specified therein, and
 
@@ -242,5 +242,5 @@ Section 1006(b)(1) of Pub. L. 100–647 provided that: “In the case of dividen
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

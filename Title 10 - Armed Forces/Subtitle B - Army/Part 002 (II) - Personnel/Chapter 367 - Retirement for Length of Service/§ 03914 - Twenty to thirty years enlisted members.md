@@ -30,7 +30,7 @@ The words “now or hereafter”, in 10:948a, are omitted as surplusage. The wor
 
 #### 1958 Act
 
-The change makes clear that the Secretary of the Army is required to prescribe regulations in this case,and conforms this section to section 8914, its Air Force counterpart.
+The change makes clear that the Secretary of the Army is required to prescribe regulations in this case, and conforms this section to section 8914, its Air Force counterpart.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ The change makes clear that the Secretary of the Army is required to prescribe r
 
 #### Effective Date of 1980 Amendment
 
-Section 9(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and sections 3925, 8914, and 8925 of this title\] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act \[Sept. 8, 1980\].”
+Pub. L. 96–343, §9(c), Sept. 8, 1980, 94 Stat. 1129, provided that: “The amendments made by this section \[amending this section and sections 3925, 8914, and 8925 of this title\] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act \[Sept. 8, 1980\].”
 
 #### Effective Date of 1958 Amendment
 

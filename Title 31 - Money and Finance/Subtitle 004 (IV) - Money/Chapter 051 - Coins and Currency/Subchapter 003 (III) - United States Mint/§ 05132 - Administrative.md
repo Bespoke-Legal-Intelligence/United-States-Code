@@ -68,7 +68,7 @@ In subsection (a)(1), the words “Secretary of the Treasury shall deposit in th
 
 In subsection (a)(2), the words “ending September 30” are added for clarity and consistency in the revised title. The words “to pay costs” are substituted for “for all expenditures (salaries and expenses)” for consistency in the revised title and to eliminate unnecessary words. The words “not herein otherwise provided for” are omitted as surplus.
 
-In subsection (b), the word “refining” is substituted for “parting and refining” for consistency in the revised chapter. The words “mints and assay offices” are substituted for “coinage mints and assay office at New York” because of the source provisions restated in section 5131(b) of the revised title. The words “pursuant to law” are omitted as surplus.
+In subsection (b), the word “refining” is substituted for “parting and refining” for consistency in the revised chapter. The words “mints and assay offices” aresubstituted for “coinage mints and assay office at New York” because of the source provisions restated in section 5131(b) of the revised title. The words “pursuant to law” are omitted as surplus.
 
 In subsection (c), the text of 31:253(less 18th–38th words) is omitted as superseded by the source provisions restated in section 321(c) of the revised title.
 
@@ -128,7 +128,7 @@ Subsec. (a)(2). Pub. L. 97–452 substituted “$50,165,000” for “$54,706,00
 
 #### Effective Date of 1992 Amendment
 
-Section 221(e) of Pub. L. 102–390 provided that: “The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992.”
+Pub. L. 102–390, title II, §221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: “The amendments made by this section \[enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title\] shall apply with respect to fiscal years beginning after fiscal year 1992.”
 
 #### Effective Date of 1985 Amendments
 

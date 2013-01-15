@@ -38,7 +38,7 @@ Subsec. (c)(1). Pub. L. 103–160, §1182(a)(8)(A)(ii), substituted “armed for
 
 #### Standardization of Certain Programs and Activities of Military Exchanges
 
-Section 361 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title III, §361, Oct. 23, 1992, 106 Stat. 2379, provided that:
 
 “(a)
 

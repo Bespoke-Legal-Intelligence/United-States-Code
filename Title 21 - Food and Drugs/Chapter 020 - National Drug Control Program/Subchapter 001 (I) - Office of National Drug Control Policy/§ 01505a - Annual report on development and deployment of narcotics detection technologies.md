@@ -12,7 +12,7 @@ Each report under subsection (a) of this section shall include—
 
 &emsp;(2) the agency responsible for each project described in paragraph (1);
 
-&emsp;(3) the amount of funds obligated or expended to carry out each project described in paragraph (1) during the fiscal year in whichthe report is submitted or during any fiscal year preceding the fiscal year in which the report is submitted;
+&emsp;(3) the amount of funds obligated or expended to carry out each project described in paragraph (1) during the fiscal year in which the report is submitted or during any fiscal year preceding the fiscal year in which the report is submitted;
 
 &emsp;(4) the amount of funds estimated to be obligated or expended for each project described in paragraph (1) during any fiscal year after the fiscal year in which the report is submitted to Congress; and
 

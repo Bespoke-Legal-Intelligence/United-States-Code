@@ -1,6 +1,6 @@
 ### §3502. List or count of passengers
 
-(a) The owner, charterer, managing operator, master, or individual in charge of the followingcategories of vessels carrying passengers shall keep a correct list of passengers received and delivered from day to day:
+(a) The owner, charterer, managing operator, master, or individual in charge of the following categories of vessels carrying passengers shall keep a correct list of passengers received and delivered from day to day:
 
 &emsp;(1) vessels arriving from foreign ports (except at United States Great Lakes ports from Canadian Great Lakes ports).
 

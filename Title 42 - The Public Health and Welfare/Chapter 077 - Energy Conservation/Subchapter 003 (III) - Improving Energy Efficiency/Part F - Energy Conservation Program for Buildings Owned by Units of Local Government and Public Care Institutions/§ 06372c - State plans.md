@@ -10,7 +10,7 @@
 
 &emsp;(4) procedures for the coordination among technical assistance programs within any State and for coordination of programs authorized under this part with other State energy conservation programs,<sup>1</sup>
 
-&emsp;(5) a description of the policies and procedures to be followed in the allocation of funds among eligible applicants for technical assistance within such State, including proceduresto insure that funds will be allocated among eligible applicants on the basis of relative need and including recommendations as to how priorities should be established between buildings owned by units of local government and public care institutions, and among competing proposals taking into account such factors as cost, energy consumption, and energy savings;
+&emsp;(5) a description of the policies and procedures to be followed in the allocation of funds among eligible applicants for technical assistance within such State, including procedures to insure that funds will be allocated among eligible applicants on the basis of relative need and including recommendations as to how priorities should be established between buildings owned by units of local government and public care institutions, and among competing proposals taking into account such factors as cost, energy consumption, and energy savings;
 
 &emsp;(6) procedures to assure that all grants for technical assistance provided under this part are expended in compliance with the requirements of an approved State plan for such State and in compliance with the requirements of this part (including requirements contained in rules promulgated under this part); and
 

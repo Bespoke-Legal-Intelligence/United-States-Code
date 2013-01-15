@@ -4,5 +4,5 @@ Section, acts Feb. 16, 1938, ch. 30, title III, §347, 52 Stat. 59; Aug. 29, 194
 
 #### Effective Date of Repeal
 
-Section 2 of Pub. L. 98–88 provided that the repeal of this section is effective beginning with 1984 crop of extra long staple cotton.
+Pub. L. 98–88, §2, Aug. 26, 1983, 97 Stat. 494, provided that the repeal of this section is effective beginning with the 1984 crop of extra long staple cotton.
 

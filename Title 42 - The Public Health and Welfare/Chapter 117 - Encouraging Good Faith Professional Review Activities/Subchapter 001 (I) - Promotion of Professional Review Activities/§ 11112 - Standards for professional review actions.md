@@ -72,7 +72,7 @@ A health care entity is deemed to have met the adequate notice and hearing requi
 
 &emsp;&emsp;&emsp;(ii) to receive a written decision of the health care entity, including a statement of the basis for the decision.
 
-> A professional review body's failure to meet the conditions described in this subsection shall not,in itself, constitute failure to meet the standards of subsection (a)(3) of this section.
+> A professional review body's failure to meet the conditions described in this subsection shall not, in itself, constitute failure to meet the standards of subsection (a)(3) of this section.
 
 #### (c) Adequate procedures in investigations or health emergencies
 

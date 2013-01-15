@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized and empowered, under general regulat
 
 #### References in Text
 
-Title 65 of the Revised Statutes of the United States, and amendments thereto, referred to in text, which consisted of R.S. §§5263 to 5269, was classified to sections 1 to 6 and 8 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and was repealed by act July 16, 1947, ch. 256, §1, 61 Stat. 327.
+Title 65 of the Revised Statutes of the United States, and amendments thereto, referred to in text, which consisted of R.S. §§5263 to 5269, was classified to sections 1 to 6 and 8 of Title 47, Telecommunications, and was repealed by act July 16, 1947, ch. 256, §1, 61 Stat. 327.
 
 #### Codification
 

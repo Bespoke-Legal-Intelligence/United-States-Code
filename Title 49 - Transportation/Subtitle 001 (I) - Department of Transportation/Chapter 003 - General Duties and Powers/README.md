@@ -8,10 +8,10 @@
 | [302\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000302%20-%20Policy%20standards%20for%20transportation.md) | Policy standards for transportation. |
 | [303\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000303%20-%20Policy%20on%20lands%2C%20wildlife%20and%20waterfowl%20refuges%2C%20and%20historic%20sites.md) | Policy on lands, wildlife and waterfowl refuges, and historic sites. |
 | [303a.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000303a%20-%20Development%20of%20water%20transportation.md) | Development of water transportation. |
-| [304\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000304%20-%20Joint%20activities%20with%20the%20Secretary%20of%20Housing%20and%20Urban%20Development.md) | Joint activities with the Secretary of Housing and Urban Development. |
+| [304\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000304%20-%20Application%20of%20categorical%20exclusions%20for%20multimodal%20projects.md) | Application of categorical exclusions for multimodal projects. |
 | [305\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000305%20-%20Transportation%20investment%20standards%20and%20criteria.md) | Transportation investment standards and criteria. |
 | [306\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000306%20-%20Prohibited%20discrimination.md) | Prohibited discrimination. |
-| [307\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000307%20-%20Safety%20information%20and%20intervention%20in%20Interstate%20Commerce%20Commission%20proceedings.md) | Safety information and intervention in Interstate Commerce Commission proceedings. |
+| \[307. | Repealed.\] |
 | [308\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000308%20-%20Reports.md) | Reports. |
 | [309\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000309%20-%20High-speed%20ground%20transportation.md) | High-speed ground transportation. |
 
@@ -52,6 +52,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. C, title II, §32932(a)(2), July 6, 2012, 126 Stat. 829, struck out item 307 “Safety information and intervention in Interstate Commerce Commission proceedings”.
+
+Pub. L. 112–141, div. A, title I, §1314(b), July 6, 2012, 126 Stat. 549, which directed the general amendment of the item relating to section 304 in the analysis for title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 304 read as follows: “Joint activities with the Secretary of Housing and Urban Development”.
 
 <b>2003</b>—Pub. L. 108–168, §8(b)(2), Dec. 6, 2003, 117 Stat. 2035, added item 354.
 

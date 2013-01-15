@@ -84,7 +84,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Medical outcomes
 
-&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting the HIV-related clinical status of an individual with HIV/AIDS.
+&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting theHIV-related clinical status of an individual with HIV/AIDS.
 
 #### (e) Early intervention services
 

@@ -8,6 +8,10 @@ Parts A and C of subchapter V of this chapter shall apply with respect to funds 
 
 (Pub. L. 90–351, title I, §1502, as added Pub. L. 101–647, title VIII, §801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 109–162, title XI, §1111(c)(2)(G), Jan. 5, 2006, 119 Stat. 3102.)
 
+#### Codification
+
+Another section 1502 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat. 238, is not classified to the Code.
+
 #### Amendments
 
 <b>2006</b>—Par. (1). Pub. L. 109–162, §1111(c)(2)(G)(i), substituted “section 3755(a)” for “section 3756(a)”.

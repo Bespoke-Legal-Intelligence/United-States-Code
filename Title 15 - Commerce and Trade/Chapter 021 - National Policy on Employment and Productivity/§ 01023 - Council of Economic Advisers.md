@@ -1,8 +1,26 @@
 ### §1023. Council of Economic Advisers
 
-#### (a) Creation; composition; qualifications; selection of chairman and vice chairman
+#### (a) Creation; composition; qualifications; chairman and vice chairman
 
-There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman.
+#### (1) Creation
+
+&emsp;There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”).
+
+#### (2) Composition
+
+&emsp;The Council shall be composed of three members, of whom—
+
+&emsp;&emsp;(A) 1 shall be the chairman who shall be appointed by the President by and with the advice and consent of the Senate; and
+
+&emsp;&emsp;(B) 2 shall be appointed by the President.
+
+#### (3) Qualifications
+
+&emsp;Each member shall be a person who, as a result of training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise.
+
+#### (4) Vice chairman
+
+&emsp;The President shall designate 1 of the members of the Council as vice chairman, who shall act as chairman in the absence of the chairman.
 
 #### (b) Employment of specialists, experts, and other personnel
 
@@ -38,9 +56,9 @@ In exercising its powers, functions and duties under this chapter—
 
 #### (f) Appropriations
 
-To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
+To enable the Council to exercise its powers, functions, and duties under this chapter, thereare authorized to be appropriated such sums as may be necessary.
 
-(Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered §10 and amended Pub. L. 95–523, title I, §§104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899.)
+(Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered §10 and amended Pub. L. 95–523, title I, §§104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899; Pub. L. 112–166, §2(o), Aug. 10, 2012, 126 Stat. 1287.)
 
 #### References in Text
 
@@ -56,6 +74,8 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman.”
+
 <b>1978</b>—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted “full” after “policy to promote”.
 
 Subsec. (c)(4). Pub. L. 95–523, §110(a)(2), inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
@@ -65,6 +85,10 @@ Subsec. (e). Pub. L. 95–523, §110(a)(3), (4), inserted in par. (1) “, and 
 <b>1961</b>—Subsec. (f). Pub. L. 87–49 struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
 
 <b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Repeals
 
@@ -76,7 +100,7 @@ Certain functions of Council of Economic Advisers transferred to Chairman, see 1
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of acommittee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 9 OF 1953</b>
 
@@ -94,7 +118,7 @@ Ex. Ord. No. 10802, Jan. 23, 1959, 24 F.R. 557, which established the Committee 
 
 #### Executive Order No. 11453
 
-Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy, was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
+Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy,was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
 
 #### Executive Order No. 12296
 
@@ -140,13 +164,13 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(k) Secretary of Homeland Security;
 
-&emsp;(<i>l</i>) Secretary of Health and Human Services;
+&emsp;(l) Secretary of Health and Human Services;
 
 &emsp;(m) Secretary of Education;
 
 &emsp;(n) Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Liaison;
 
-&emsp;(<i>o</i>) Chair of the Council on Environmental Quality;
+&emsp;(o) Chair of the Council on Environmental Quality;
 
 &emsp;(p) Assistant to the President and Chief Technology Officer;
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority to retain
 
-&emsp;Notwithstanding any other provision of this chapter, a recipient may retain any programincome that is realized from any grant amounts under this chapter if—
+&emsp;Notwithstanding any other provision of this chapter, a recipient may retain any program income that is realized from any grant amounts under this chapter if—
 
 &emsp;&emsp;(A) such income was realized after the initial disbursement of the grant amounts received by the recipient; and
 
@@ -52,7 +52,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1) for “the Act of March 3, 1931\(commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

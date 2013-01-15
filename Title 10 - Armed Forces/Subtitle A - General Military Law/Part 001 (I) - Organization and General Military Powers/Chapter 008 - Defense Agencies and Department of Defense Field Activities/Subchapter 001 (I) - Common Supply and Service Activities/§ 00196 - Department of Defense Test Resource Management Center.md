@@ -6,7 +6,7 @@ Establishment as Department of Defense Field Activity.—The Secretary of Defens
 
 (b)
 
-Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
+Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case ofan officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
 
 (2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
@@ -60,7 +60,7 @@ Certification of Budgets.—(1) The Secretary of Defense, acting through the Und
 
 (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
 
-(3) The Secretary of Defense shall, not later than March 31 of the year preceding the fiscal year for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
+(3) The Secretary of Defense shall, not later than March 31 of the year preceding the fiscalyear for which such budgets are proposed, submit to Congress a report on those proposed budgets which the Director has not certified under paragraph (2)(A) to be adequate. The report shall include the following matters:
 
 &emsp;(A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
 

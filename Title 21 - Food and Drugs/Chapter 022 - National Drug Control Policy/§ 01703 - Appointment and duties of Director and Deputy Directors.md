@@ -4,7 +4,17 @@
 
 #### (1) In general
 
-&emsp;The Director, the Deputy Director of National Drug Control Policy, the Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State and Local Affairs, shall each be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.
+#### (A) Director
+
+&emsp;&emsp;The Director shall be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President.
+
+#### (B) Deputy Directors
+
+&emsp;&emsp;The Deputy Director of National Drug Control Policy, Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State, Local, and Tribal Affairs shall each be appointed by the President and serve at the pleasure of the President.
+
+#### (C) Deputy Director for Demand Reduction
+
+&emsp;&emsp;In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational, or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.
 
 #### (2) Duties of Deputy Director of National Drug Control Policy
 
@@ -16,7 +26,7 @@
 
 #### (3) Acting Director
 
-&emsp;If the Director dies, resigns, or is otherwise unable to perform the functions and duties ofthe office, the Deputy Director shall perform the functions and duties of the Director temporarily in an acting capacity pursuant to subchapter III of chapter 33 of title 5.
+&emsp;If the Director dies, resigns, or is otherwise unable to perform the functions and duties of the office, the Deputy Director shall perform the functions and duties of the Director temporarily in an acting capacity pursuant to subchapter III of chapter 33 of title 5.
 
 #### (4) Prohibition
 
@@ -138,7 +148,7 @@ The Director—
 
 #### (i) Inadequate requests
 
-&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description offunding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
+&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
 
 #### (ii) Adequate requests
 
@@ -212,7 +222,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogrammingor transfer request with respect to any amount of appropriated funds in an amount exceeding $1,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director. If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.
+&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogramming or transfer request with respect to any amount of appropriated funds in an amount exceeding $1,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director. If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.
 
 #### (B) Appeal
 
@@ -322,7 +332,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;&emsp;(B) contrary, in whole or in part, to the expressed intent of Congress.
 
-#### (4) <sup>2</sup> Congressional notice.—
+#### (4) <sup>2</sup> Congressional notice
 
 &emsp;A copy of each fund control notice shall be transmitted to the appropriate congressional committees.
 
@@ -346,7 +356,7 @@ The provisions of this section shall not apply to the National Intelligence Prog
 
 Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of National Intelligence or the Director of the Central Intelligence Agency contained in the National Security Act of 1947 (50 U.S.C. 401 et seq.), the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.), or any other law.
 
-(Pub. L. 105–277, div. C, title VII, §704, Oct. 21, 1998, 112 Stat. 2681–672; Pub. L. 109–469, title I, §§103(a)–(e), (f)(3), 105, Dec. 29, 2006, 120 Stat. 3506, 3507, 3510, 3511.)
+(Pub. L. 105–277, div. C, title VII, §704, Oct. 21, 1998, 112 Stat. 2681–672; Pub. L. 109–469, title I, §§103(a)–(e), (f)(3), 105, Dec. 29, 2006, 120 Stat. 3506, 3507, 3510, 3511; Pub. L. 112–166, §2(t), Aug. 10, 2012, 126 Stat. 1288.)
 
 #### Repeal of Section
 
@@ -367,6 +377,8 @@ The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act 
 In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–166 amended par. (1) generally. Prior to amendment, text read as follows: “The Director, the Deputy Director of National Drug Control Policy, the Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State and Local Affairs, shall each be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.”
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–469, §103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
 
@@ -424,6 +436,10 @@ Subsec. (g). Pub. L. 109–469, §103(f)(3)(A), amended subsec. (g) generally. P
 
 Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: “Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.”
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
 #### Report on Streamlining Federal Prevention and Treatment Efforts
 
 Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
@@ -434,7 +450,7 @@ Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 130
 
 The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United Statesof America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
 
 Section 1.
 
@@ -444,7 +460,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (c) An Interagency Working Group (IWG) on international counternarcotics policy, chaired by the Office of National Drug Control Policy, shall develop and ensure coordinated implementation of an international counternarcotics policy. The IWG shall report its activities and differences of views among agencies to the Director for review, mediation, and resolution with concerned Cabinet members, and if necessary, by the President.
 
-(d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
+(d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction aresufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 
 (e) The Director shall examine the number and structure of command/control and drug intelligence centers operated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
 

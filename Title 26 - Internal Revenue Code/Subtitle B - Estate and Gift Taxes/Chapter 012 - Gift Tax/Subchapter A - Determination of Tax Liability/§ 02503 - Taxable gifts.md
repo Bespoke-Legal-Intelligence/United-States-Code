@@ -22,7 +22,7 @@ The term “taxable gifts” means the total amount of gifts made during the cal
 
 #### (c) Transfer for the benefit of minor
 
-No part of a gift to an individual who has not attained the age of 21 years on the date of such transfer shall be considered a gift of a future interest in property for purposes of subsection (b) if the property and the income therefrom—
+No part of a gift to an individual who has not attained the age of 21 years on the date of suchtransfer shall be considered a gift of a future interest in property for purposes of subsection (b) if the property and the income therefrom—
 
 &emsp;(1) may be expended by, or for the benefit of, the donee before his attaining the age of 21 years, and
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 97–34, §441(b), added subsec. (e).
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
-Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts forthe calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
 
 #### Effective Date of 1997 Amendment
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(s)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to loans after July 31, 1969.”
+Pub. L. 100–647, title I, §1018(s)(2)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to loans after July 31, 1969.”
 
 Amendment by section 1018(u)(52) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 99–514 effective as if included in the provision of the R
 
 Amendment by section 311(h)(5) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
-Section 441(c) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title IV, §441(c), Aug. 13, 1981, 95 Stat. 319, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -154,7 +154,7 @@ Amendment by section 442(a)(3) of Pub. L. 97–34 applicable with respect to gif
 
 #### Effective Date of 1978 Amendment
 
-Section 702(j)(3)(B) of Pub. L. 95–600 provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to transfers made after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to transfers made after December 31, 1976.”
 
 #### Effective Date of 1970 Amendment
 

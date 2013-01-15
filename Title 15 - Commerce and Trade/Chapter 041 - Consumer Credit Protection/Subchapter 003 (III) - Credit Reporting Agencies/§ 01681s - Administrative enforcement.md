@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) subject to paragraph (5), may bring an action on behalf of the residents of the State to recover—
 
-&emsp;&emsp;&emsp;(i) damages for which the person is liable to such residents under sections 1681n and 1681<i>o</i> of this title as a result of the violation;
+&emsp;&emsp;&emsp;(i) damages for which the person is liable to such residents under sections 1681n and 1681o of this title as a result of the violation;
 
 &emsp;&emsp;&emsp;(ii) in the case of a violation described in any of paragraphs (1) through (3) of section 1681s–2(c) of this title, damages for which the person would, but for section 1681s–2(c) of this title, be liable to such residents as a result of the violation; or
 
@@ -136,7 +136,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person's compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
 
 #### References in Text
 

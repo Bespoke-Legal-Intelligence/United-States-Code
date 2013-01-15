@@ -28,7 +28,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (ii) Standard
 
-&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
+&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the courtdetermines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
 
 #### (iii) Effective period
 
@@ -84,7 +84,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors
 
-In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if theconduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
 (June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809; Pub. L. 111–203, title IX, §985(b)(8), July 21, 2010, 124 Stat. 1934.)
 

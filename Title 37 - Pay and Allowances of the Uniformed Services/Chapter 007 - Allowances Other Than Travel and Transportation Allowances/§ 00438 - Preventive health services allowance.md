@@ -2,11 +2,11 @@
 
 (a)
 
-Demonstration Project.—During the period beginning on January 1, 2009, and ending on December 31, 2011, the Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing an annual allowance (to be known as a “preventive health services allowance”) to members of the armed forces described in subsection (b) to increase theuse of preventive health services by such members and their dependents.
+Demonstration Project.—During the period beginning on January 1, 2009, and ending on December 31, 2011, the Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing an annual allowance (to be known as a “preventive health services allowance”) to members of the armed forces described in subsection (b) to increase the use of preventive health services by such members and their dependents.
 
 (b)
 
-Eligible Members.—(1) Subject to the numerical limitations specified in paragraph (2), a member of the armed forces who is serving on active duty for a period of more than 30 days and meets the medical and dental readiness requirements for the armed force of the member may receive a preventive health services allowance.
+Eligible Members.—(1) Subject to the numerical limitations specified in paragraph (2), amember of the armed forces who is serving on active duty for a period of more than 30 days and meets the medical and dental readiness requirements for the armed force of the member may receive a preventive health services allowance.
 
 (2) Not more than 1,500 members of each of the Army, Navy, Air Force, and Marine Corps may receive a preventive health services allowance during any year, of which half in each armed force shall be members without dependents and half shall be members with dependents.
 

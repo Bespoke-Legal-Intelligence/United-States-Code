@@ -46,15 +46,33 @@ In general.—Subject to paragraph (2), an aircraft described in section 40102(a
 
 Limitation.—An aircraft that meets the criteria set forth in paragraph (1) and that is owned or operated by the National Guard of a State, the District of Columbia, or any territory or possession of the United States, qualifies as a public aircraft only to the extent that it is operated under the direct control of the Department of Defense.
 
-(Added Pub. L. 106–181, title VII, §702(b)(1), Apr. 5, 2000, 114 Stat. 155; amended Pub. L. 110–181, div. A, title X, §1078(b), (c), Jan. 28, 2008, 122 Stat. 334.)
+(d)
+
+Search and Rescue Purposes.—An aircraft described in section 40102(a)(41)(D) that is not exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of 1 of those governments, qualifies as a public aircraft if the Administrator determines that—
+
+&emsp;(1) there are extraordinary circumstances;
+
+&emsp;(2) the aircraft will be used for the performance of search and rescue missions;
+
+&emsp;(3) a community would not otherwise have access to search and rescue services; and
+
+&emsp;(4) a government entity demonstrates that granting the waiver is necessary to prevent an undue economic burden on that government.
+
+(Added Pub. L. 106–181, title VII, §702(b)(1), Apr. 5, 2000, 114 Stat. 155; amended Pub. L. 110–181, div. A, title X, §1078(b), (c), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–141, div. C, title V, §35003, July 6, 2012, 126 Stat. 843.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 added subsec. (d).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–181, §1078(c)(1), substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
 
 Subsec. (c)(1). Pub. L. 110–181, §1078(c)(2), substituted “section 40102(a)(41)(E)” for “section 40102(a)(37)(E)” in introductory provisions.
 
 Subsec. (c)(1)(C). Pub. L. 110–181, §1078(b), inserted “or other commercial air service” after “transportation”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date
 

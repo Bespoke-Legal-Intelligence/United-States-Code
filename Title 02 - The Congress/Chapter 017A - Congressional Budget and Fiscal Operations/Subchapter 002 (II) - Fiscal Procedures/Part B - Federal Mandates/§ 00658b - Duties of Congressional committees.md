@@ -6,7 +6,7 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 #### (b) Submission of bills to Director
 
-When a committee of authorization of the Senate or the House of Representatives orders reported a bill or joint resolution of a public character, the committee shall promptly provide the bill or joint resolution to the Director of the Congressional Budget Office and shall identify to the Director any Federal mandates contained in the bill or resolution.
+When a committee of authorization of the Senate or the House of Representatives orders reported a bill or joint resolution of a public character, the committee shall promptly provide the bill or joint resolution to the Directorof the Congressional Budget Office and shall identify to the Director any Federal mandates contained in the bill or resolution.
 
 #### (c) Reports on Federal mandates
 

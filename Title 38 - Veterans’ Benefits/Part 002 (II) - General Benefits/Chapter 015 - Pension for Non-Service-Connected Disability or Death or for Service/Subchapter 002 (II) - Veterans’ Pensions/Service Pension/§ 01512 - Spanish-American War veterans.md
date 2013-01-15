@@ -50,7 +50,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception topension elections formerly provided pursuant to subpar. (B).
+<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
 Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1967 Amendment
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–670 effective first day of second calendar month which begins after July 14, 1960, see section 3 of Pub. L. 86–670, set out as a note under section 1511 of this title.
+Amendment by Pub. L. 86–670 effective first day of second calendar month which begins after July 14, 1960,see section 3 of Pub. L. 86–670, set out as a note under section 1511 of this title.
 

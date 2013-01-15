@@ -6,7 +6,7 @@
 
 &emsp;(2) the Committee on Oversight and Government Reform of the House of Representatives.
 
-(b)(1) Notwithstanding any other provision of this subchapter, under a test program which theAdministrator of General Services determines to be in the interest of the Government and approves, an employing agency may pay through the proper disbursing official any necessary travel expenses in lieu of any payment otherwise authorized or required under this subchapter for employees participating in a telework program. Under an approved test program, an agency may provide an employee with the option to waive any payment authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program.
+(b)(1) Notwithstanding any other provision of this subchapter, under a test program which the Administrator of General Services determines to be in the interest of the Government and approves, an employing agency may pay through the proper disbursing official any necessary travel expenses in lieu of any payment otherwise authorized or required under this subchapter for employees participating in a telework program. Under an approved test program, an agency may provide an employee with the option to waive any payment authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program.
 
 (2) Any test program conducted under this section shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
 
@@ -50,7 +50,7 @@
 
 &emsp;(C) the Patent and Trademark Office approves the requested arrangement for reasons of employee convenience instead of an agency need for the employee to relocate in order to perform duties specific to the new location.
 
-(4)(A) The Patent and Trademark Office shall establish an oversight committee comprising an equal number of members representing management and labor, including representatives from each collective bargaining unit.
+(4)(A) The Patent and Trademark Office shall establish an oversight committee comprising anequal number of members representing management and labor, including representatives from each collective bargaining unit.
 
 (B) The oversight committee shall develop the operating procedures for the program under this subsection to—
 

@@ -2,7 +2,7 @@
 
 (a)(1) Each bank for cooperatives not merged into the United Bank for Cooperatives or the National Bank for Cooperatives shall elect a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
-(2)(A) If approved by the stockholders through a bylaw amendment, the nomination and election of one member from a bank for cooperatives (other than the National Bank for Cooperatives) shall be carried out with each voting stockholder of a bank for cooperatives having onevote, plus a number of votes (or fractional part thereof) equal to—
+(2)(A) If approved by the stockholders through a bylaw amendment, the nomination and election of one member from a bank for cooperatives (other than the National Bank for Cooperatives) shall be carried out with each voting stockholder of a bank for cooperatives having one vote, plus a number of votes (or fractional part thereof) equal to—
 
 &emsp;(i) the number of stockholders eligible to vote; multiplied by
 

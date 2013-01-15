@@ -44,5 +44,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Retroactive Degree Conferral; Maximum Amount
 
-Section 708(b) of Pub. L. 93–365 provided that: “The Commandant of the United States Army Command and General Staff College may confer the degree of master of military art and science upon graduates of the college who have completed the requirements for that degree since 1964 but prior to the enactment of this Act \[Aug. 5, 1974\]; but the number of such degrees awarded for such period may not exceed two hundred.”
+Pub. L. 93–365, title VII, §708(b), Aug. 5, 1974, 88 Stat. 407, provided that: “The Commandant of the United States Army Command and General Staff College may confer the degree of master of military art and science upon graduates of the college who have completed the requirements for that degree since 1964 but prior to the enactment of this Act \[Aug. 5, 1974\]; but the number of such degrees awarded for such period may not exceed two hundred.”
 

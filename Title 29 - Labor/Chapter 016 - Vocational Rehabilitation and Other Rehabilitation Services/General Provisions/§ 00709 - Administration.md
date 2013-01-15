@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Commissioner may—
 
 &emsp;(1) provide consultative services and technical assistance to public or nonprofit private agencies and organizations, including assistance to enable such agencies and organizations to facilitate meaningful and effective participation by individuals with disabilities in workforce investment activities;
 
-&emsp;(2) provide short-term training and technical instruction, including training for the personnel of community rehabilitation programs, centers for independent living, and other providers of services (including job coaches);
+&emsp;(2) provide short-term training and technical instruction, including training for the personnel of community rehabilitation programs,centers for independent living, and other providers of services (including job coaches);
 
 &emsp;(3) conduct special projects and demonstrations;
 
@@ -44,7 +44,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Rehabilitation Act Amendments of 1998, referred to in subsec. (e), is title IV of Pub. L. 105–220, Aug. 7,1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Tables.
+The Rehabilitation Act Amendments of 1998, referred to in subsec. (e), is title IV of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1092. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

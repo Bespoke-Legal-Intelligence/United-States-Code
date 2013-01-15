@@ -40,7 +40,7 @@ Ex. Ord. No. 10845 of Oct. 12, 1959, setting out laws from which authorized func
 
 #### Ex. Ord. No. 11223. Specification of Laws From Which Functions Authorized by This Chapter Shall Be Exempt
 
-Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, as amended by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12178, Dec. 10, 1979, 44 F.R. 71807; Ex. Ord. No. 13118, §10(10), Mar. 31, 1999, 64 F.R. 16599, provided:
+Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, as amended by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673; Ex. Ord. No. 12178, Dec. 10, 1979, 44 F.R. 71807; Ex. Ord. No. 13118, §10(10), Mar. 31, 1999, 64 F.R. 16599, provided:
 
 By virtue of the authority vested in me by Section 633 of the Foreign Assistance Act of 1961, as amended, 75 Stat. 454 (22 U.S.C. 2393), it is hereby determined that, to the extent hereinafter indicated, the performance of functions authorized by that Act, as amended, and any predecessor legislation, without regard to the laws specified in the numbered subdivisions of Sections 1 and 2 of this order and without regard to consideration as specified in Sections 3 and 4 of this order will further the purposes of the Foreign Assistance Act of 1961, as amended \[this chapter\]:
 

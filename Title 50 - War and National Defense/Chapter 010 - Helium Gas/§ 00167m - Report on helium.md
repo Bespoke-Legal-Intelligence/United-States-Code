@@ -6,7 +6,7 @@ Not later than three years before the date on which the Secretary commences offe
 
 #### (b) Transmission to Congress
 
-Not later than 18 months before the date on which the Secretary commences offering for salecrude helium under section 167f of this title, the Secretary shall transmit to the Congress—
+Not later than 18 months before the date on which the Secretary commences offering for sale crude helium under section 167f of this title, the Secretary shall transmit to the Congress—
 
 &emsp;(1) the report of the National Academy under subsection (a) of this section;
 

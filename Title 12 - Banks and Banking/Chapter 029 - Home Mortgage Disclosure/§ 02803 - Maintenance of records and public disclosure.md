@@ -100,7 +100,7 @@ The requirements of subsections (a) and (b) of this section shall not apply with
 
 &emsp;The appropriate agencies described in this paragraph are—
 
-&emsp;&emsp;(A) the appropriate Federal banking agencies, as defined in section 1813(q) of this title, with respect to the entities that aresubject to the jurisdiction of each such agency, respectively;
+&emsp;&emsp;(A) the appropriate Federal banking agencies, as defined in section 1813(q) of this title, with respect to the entities that are subject to the jurisdiction of each such agency, respectively;
 
 &emsp;&emsp;(B) the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, insured State branches of foreign banks, and any other depository institution described in section 2802(2)(A) <sup>1</sup> of this title which is not otherwise referred to in this paragraph;
 
@@ -178,7 +178,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 #### (1) In general
 
-&emsp;In accordance with procedures established by the Bureau pursuant to this section, anydepository institution required to make disclosures under this section—
+&emsp;In accordance with procedures established by the Bureau pursuant to this section, any depository institution required to make disclosures under this section—
 
 &emsp;&emsp;(A) shall make a disclosure statement available, upon request, to the public no later than 3 business days after the institution receives the statement from the Federal Financial Institutions Examination Council; and
 
@@ -192,7 +192,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 &emsp;Any depository institution which provides a disclosure statement pursuant to paragraph (1) may impose a reasonable fee for any cost incurred in providing or reproducing such statement.
 
-#### (<i>l</i>) Prompt disclosures
+#### (l) Prompt disclosures
 
 #### (1) In general
 
@@ -240,7 +240,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall
 
 The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L.100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
 
 #### References in Text
 
@@ -248,7 +248,7 @@ For the effective date of this chapter, referred to in subsec. (a)(1), see secti
 
 The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 Section 2802(2)(A) of this title, referred to in subsecs. (h)(2)(B) and (i), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, §1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
@@ -274,7 +274,7 @@ Subsec. (j)(2)(B). Pub. L. 111–203, §1094(1), substituted “Bureau” for �
 
 Subsec. (j)(3). Pub. L. 111–203, §1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
 
-Subsecs. (j)(7), (k)(1), (<i>l</i>)(2)(A). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” wherever appearing.
+Subsecs. (j)(7), (k)(1), (l)(2)(A). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (m)(2). Pub. L. 111–203, §1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
 
@@ -288,7 +288,7 @@ Subsec. (n). Pub. L. 111–203, §1094(3)(F), added subsec. (n).
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 102–550, §932(a), added subsecs. (j) to (l).
 
 <b>1991</b>—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1992 Amendment
 
-Section 932(c) of Pub. L. 102–550 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to information disclosed under section 304 of the Home Mortgage Disclosure Act of 1975 \[this section\] for any year which ends after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–550, title IX, §932(c), Oct. 28, 1992, 106 Stat. 3891, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to information disclosed under section 304of the Home Mortgage Disclosure Act of 1975 \[this section\] for any year which ends after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date of 1989 Amendment
 

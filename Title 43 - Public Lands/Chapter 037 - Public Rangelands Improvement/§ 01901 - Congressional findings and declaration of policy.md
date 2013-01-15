@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Short Title
 
-Section 1 of Pub. L. 95–514 provided: “That this Act \[enacting this chapter and amending sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation\] may be cited as the ‘Public Rangelands Improvement Act of 1978’.”
+Pub. L. 95–514, §1, Oct. 25, 1978, 92 Stat. 1803, provided: “That this Act \[enacting this chapter and amending sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation\] may be cited as the ‘Public Rangelands Improvement Act of 1978’.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

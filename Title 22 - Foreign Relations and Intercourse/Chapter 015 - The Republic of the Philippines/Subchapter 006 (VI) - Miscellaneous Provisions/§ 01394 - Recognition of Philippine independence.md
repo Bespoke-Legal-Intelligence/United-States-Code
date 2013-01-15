@@ -2,11 +2,11 @@
 
 #### (a) Withdrawal of American sovereignty
 
-On the 4th day of July immediately following the expiration of a period of ten years from the date of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over thesame of the government instituted by the people thereof, under the constitution then in force.
+On the 4th day of July immediately following the expiration of a period of ten years from the date of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution then in force.
 
 #### (b) Naval reservations and fueling stations
 
-The President of the United States is authorized and empowered to enter into negotiations with the government of the Philippine Islands, not later than two years after his proclamation recognizing the independence of the Philippine Islands, for the adjustment and settlement of all questions relating to naval reservations and fueling stations of the United States in the Philippine Islands, and pending such adjustment and settlement the matter of naval reservations and fueling stations shall remain in its present status.
+The President of the United States is authorized and empowered to enter into negotiations with the government of the Philippine Islands, not later than two years after his proclamationrecognizing the independence of the Philippine Islands, for the adjustment and settlement of all questions relating to naval reservations and fueling stations of the United States in the Philippine Islands, and pending such adjustment and settlement the matter of naval reservations and fueling stations shall remain in its present status.
 
 #### (c) Property for diplomatic purposes
 
@@ -34,11 +34,11 @@ Provisions similar to those contained in subsec. (a) of this section were contai
 
 #### Effective Date of 1939 Amendment
 
-Section 7 of act Aug. 7, 1939, provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
+Act Aug. 7, 1939, ch. 502, §7, 53 Stat. 1233, provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
 
 #### Independence Date Advanced
 
-Section 3 of act June 29, 1944, ch. 322, 58 Stat. 626, provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
+Act June 29, 1944, ch. 322, §3, 58 Stat. 626, provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
 
 #### Proc. No. 2695. Philippine Independence
 

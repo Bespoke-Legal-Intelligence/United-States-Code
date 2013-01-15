@@ -12,13 +12,13 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 &emsp;&emsp;(C) section 2371(a) of this title; and
 
-&emsp;(2) Iran has ceased the pursuit, acquisition, and development of nuclear, biological, and chemical weapons and ballistic missiles and ballistic missile launch technology.
+&emsp;(2) Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled its, nuclear, biological, and chemical weapons and ballistic missiles and ballistic missile launch technology.
 
 #### (b) Presidential waivers
 
 #### (1) In general
 
-&emsp;The President may waive the application of sanctions under section 103(b) \[22 U.S.C.8512(b)\], the requirement to impose or maintain sanctions with respect to a person under section 105(a) \[22 U.S.C. 8514(a)\], the requirement to include a person on the list required by section 105(b) \[22 U.S.C. 8514(b)\], the application of the prohibition under section 106(a) \[22 U.S.C. 8515(a)\], or the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], if the President determines that such a waiver is in the national interest of the United States.
+&emsp;The President may waive the application of sanctions under section 103(b) \[22 U.S.C. 8512(b)\], the requirement to impose or maintain sanctions with respect to a person under section 105(a) \[22 U.S.C. 8514(a)\], 105A(a) \[22 U.S.C. 8514a(a)\], 105B(a) \[22 U.S.C. 8514b(a)\], or 105C(a) \[22 U.S.C. 8514c(a)\], the requirement to include a person on the list required by section 105(b) \[22 U.S.C. 8514(b)\], 105A(b) \[22 U.S.C. 8514a(b)\], 105B(b) \[22 U.S.C. 8514b(b)\], or 105C(b) \[22 U.S.C. 8514c(b)\], the application of the prohibition under section 106(a) \[22 U.S.C. 8515(a)\], or the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], if the President determines that such a waiver is in the national interest of the United States.
 
 #### (2) Reports
 
@@ -40,13 +40,23 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 &emsp;There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out title III \[22 U.S.C. 8541 et seq.\].
 
-(Pub. L. 111–195, title IV, §401, July 1, 2010, 124 Stat. 1350.)
+(Pub. L. 111–195, title IV, §401, July 1, 2010, 124 Stat. 1350; Pub. L. 112–158, title IV, §403(d), title VI, §605(b), Aug. 10, 2012, 126 Stat. 1255, 1265; Pub. L. 112–239, div. A, title XII, §1249(b), Jan. 2, 2013, 126 Stat. 2016.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 16 of the Appendix to Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 16 of the Appendix to Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as theComprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 16 of the Appendix to Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 16 of the Appendix to Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “105B(a), or 105C(a)” for “or 105B(a)” and “105B(b), or 105C(b)” for “or 105B(b)”.
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–158, §605(b), inserted “, and verifiably dismantled its,” after “development of”.
+
+Subsec. (b)(1). Pub. L. 112–158, §403(d), inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
+Ex. Ord. No. 13553, §§5–7, Sept. 28, 2010, 77 Stat. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) under section 8514(a) of this title; authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under section 8514(a) of this title; and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by section 8514(b) of this title.
+
+For other delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 

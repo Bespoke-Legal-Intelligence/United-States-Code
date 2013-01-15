@@ -6,7 +6,7 @@ Each low-income family that is displaced as a result of the prepayment of the mo
 
 #### (b) Relocation assistance
 
-The Secretary shall coordinate with public housing agencies to ensure that any very low- orlow-income family displaced from eligible low-income housing as the result of the prepayment of the mortgage (or termination of the mortgage insurance contract) on such housing is able to acquire a suitable, affordable dwelling unit in the area of the housing from which the family is displaced. The Secretary shall require the owner of such housing to pay 50 percent of the moving expenses of each family relocated, except that such percentage shall be increased to the extent that State or local law of general applicability requires a higher payment by the owner.
+The Secretary shall coordinate with public housing agencies to ensure that any very low- or low-income family displaced from eligible low-income housing as the result of the prepayment of the mortgage (or termination of the mortgage insurance contract) on such housing is able to acquire a suitable, affordable dwelling unit in the area of the housing from which the family is displaced. The Secretary shall require the owner of such housing to pay 50 percent of the moving expenses of each family relocated, except that such percentage shall be increased to the extent that State or local law of general applicability requires a higher payment by the owner.
 
 #### (c) Continued occupancy
 
@@ -28,7 +28,7 @@ The Secretary shall coordinate with public housing agencies to ensure that any v
 
 #### (d) Required acceptance of section 1437f assistance
 
-An owner who prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing and maintains the housing for residential rental occupancy may not refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable or deny the rent of a dwelling unit in such property to any person, or discriminate against any person in the terms, conditions, or privileges of rental of a dwelling (or in the provision of services or facilities in connection therewith), because the person receives assistance under section 1437f of title 42.
+An owner who prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing and maintains the housing for residential rental occupancy may not refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable or deny the rent of a dwelling unit in such property to any person, or discriminate against any person in the terms, conditions, or privileges of rental ofa dwelling (or in the provision of services or facilities in connection therewith), because the person receives assistance under section 1437f of title 42.
 
 #### (e) Regional pools
 
@@ -56,7 +56,7 @@ In providing assistance under this section, the Secretary shall allocate the ass
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–74 added subsec. (f).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance under section 1437f of title 42” for “assistance under the certificate and voucher programs under sections 1437f(b) and 1437f(<i>o</i>)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance under section 1437f of title 42” for “assistance under the certificate and voucher programs under sections 1437f(b) and 1437f(o)”.
 
 #### Effective Date of 1998 Amendment
 

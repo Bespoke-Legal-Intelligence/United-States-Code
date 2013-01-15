@@ -10,7 +10,7 @@
 
 (b) In an involuntary case, the trustee may not avoid under subsection (a) of this section a transfer made after the commencement of such case but before the order for relief to the extent any value, including services, but not including satisfaction or securing of a debt that arose before the commencement of the case, is given after the commencement of the case in exchange for such transfer, notwithstanding any notice or knowledge of the case that the transferee has.
 
-(c) The trustee may not avoid under subsection (a) of this section a transfer of an interest in real property to a good faith purchaser without knowledge of the commencement of thecase and for present fair equivalent value unless a copy or notice of the petition was filed, where a transfer of an interest in such real property may be recorded to perfect such transfer, before such transfer is so perfected that a bona fide purchaser of such real property, against whom applicable law permits such transfer to be perfected, could not acquire an interest that is superior to such interest of such good faith purchaser. A good faith purchaser without knowledge of the commencement of the case and for less than present fair equivalent value has a lien on the property transferred to the extent of any present value given, unless a copy or notice of the petition was so filed before such transfer was so perfected.
+(c) The trustee may not avoid under subsection (a) of this section a transfer of an interest in real property to a good faith purchaser without knowledge of the commencement of the case and for present fair equivalent value unless a copy or notice of the petition was filed, where a transfer of an interest in such real property may be recorded to perfect such transfer, before such transfer is so perfected that a bona fide purchaser of such real property, against whom applicable law permits such transfer to be perfected, could not acquire an interest that is superior to such interest of such good faith purchaser. A good faith purchaser without knowledge of the commencement of the case and for less than present fair equivalent value has a lien on the property transferred to the extent of any present value given, unless a copy or notice of the petition was so filed before such transfer was so perfected.
 
 (d) An action or proceeding under this section may not be commenced after the earlier of—
 
@@ -18,7 +18,7 @@
 
 &emsp;(2) the time the case is closed or dismissed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, §464, July 10, 1984, 98 Stat. 379; Pub. L. 99–554, title II, §283(<i>o</i>), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title V, §501(d)(18), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title XII, §1214, Apr. 20, 2005, 119 Stat. 195.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, §464, July 10, 1984, 98 Stat. 379; Pub. L. 99–554, title II, §283(o), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title V, §501(d)(18), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title XII, §1214, Apr. 20, 2005, 119 Stat. 195.)
 
 #### Historical and Revision Notes
 

@@ -6,7 +6,7 @@ A person who submits an application or submission (including a petition, notific
 
 #### (b) Statement
 
-Not later than 60 days after the receipt of the request described in subsection (a) of this section, the Secretary shall determine the classification of the product under subsection (a) of this section, or the component of the Food and Drug Administration that will regulate the product, and shall provide to the person a written statement that identifies such classification or such component, and the reasons for such determination. The Secretary may not modify such statement except with the written consent of the person, or for public health reasons based on scientific evidence.
+Not later than 60 days after the receipt of the request described in subsection (a) of this section, the Secretary shall determine the classification of the product under subsection (a) of this section, or the component of the Food andDrug Administration that will regulate the product, and shall provide to the person a written statement that identifies such classification or such component, and the reasons for such determination. The Secretary may not modify such statement except with the written consent of the person, or for public health reasons based on scientific evidence.
 
 #### (c) Inaction of Secretary
 

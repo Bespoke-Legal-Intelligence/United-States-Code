@@ -14,11 +14,11 @@ Moneys in the Insurance Fund not needed for current operations shall be deposite
 
 #### (d) Notes, issuing authority of the Secretary; use of funds; terms and conditions, form, denominations, maturities, and interest rate of notes; notes, purchasing authority of the Secretary of the Treasury; public debt transactions
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for thepurpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (e) Notes and security as part of Insurance Fund; collection and sale of notes and other obligations; deposit of net proceeds in Insurance Fund
 
-Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilitiesthat might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
+Notes and security acquired by the Secretary in connection with rural development loans made, guaranteed, or insured under this chapter or transferred by subsection (b) of this section shall become a part of the Insurance Fund. Notes and other obligations may be held in the Insurance Fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes and other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the Insurance Fund.
 
 #### (f) Deposit of loan service charges in Insurance Fund
 
@@ -46,7 +46,7 @@ The Secretary may utilize the Insurance Fund—
 
 When any loan is sold out of the Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26.
 
-(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125.)
+(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L.104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
 
-Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–334, §107(b), inserted reference to section 1926(a)(14) of this title.
 
@@ -130,7 +130,7 @@ Pub. L. 100–387, title III, §331, Aug. 11, 1988, 102 Stat. 951.
 
 #### Sale of Rural Development Notes and Other Obligations
 
-Section 1001 of Pub. L. 99–509, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
+Pub. L. 99–509, title I, §1001, Oct. 21, 1986, 100 Stat. 1874, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
 
 “(a)
 
@@ -150,7 +150,7 @@ Contract Provisions.—Consistent with section 309A(e) of the Consolidated Farm 
 
 “(d)
 
-Eligibility to Purchase Notes.—Notwithstanding any other provision of law, each institution of the Farm Credit System shall be eligible to purchase notes and other obligations held in the Rural Development Insurance Fund and to service (including the extension of additional credit and all other actions necessary to preserve, conserve, or protect the institution's interest in the purchased notes or other obligations), collect, and dispose of such notes and other obligations, subject only to such terms and conditions as may be agreed to by the Secretary of Agriculture and the purchasing institution and as may be approved by the Farm Credit Administration.
+Eligibility to Purchase Notes.—Notwithstanding any other provision of law, each institution of the Farm Credit System shall be eligible to purchase notes and other obligations held in the Rural Development Insurance Fund and to service (including the extension of additional credit and all other actions necessary to preserve, conserve, or protect the institution's interestin the purchased notes or other obligations), collect, and dispose of such notes and other obligations, subject only to such terms and conditions as may be agreed to by the Secretary of Agriculture and the purchasing institution and as may be approved by the Farm Credit Administration.
 
 “(e)
 
@@ -194,7 +194,7 @@ Purchase of obligation not tied to purchase of other obligations.—The Secretar
 
 &emsp;&emsp;“(B)
 
-Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price ofsale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
+Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
 “(g)
 
@@ -210,7 +210,7 @@ Applicability of Prohibition on Curtailment or Limitation of Service.—Section 
 
 “(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
 
-Section 381 of Pub. L. 99–500 and Pub. L. 99–591 provided that:
+Pub. L. 99–500, title III, §381, Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381, Oct. 30, 1986, 100 Stat. 3341–372, provided that:
 
 “(a)
 

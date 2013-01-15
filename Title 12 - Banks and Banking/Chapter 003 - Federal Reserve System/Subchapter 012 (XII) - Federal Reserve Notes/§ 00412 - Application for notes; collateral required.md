@@ -14,7 +14,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 <b>1999</b>—Pub. L. 106–122 substituted “acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title” for “acceptances acquired under the provisions of sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title”.
 
-<b>1980</b>—Pub. L. 96–221 inserted provisions relating to purchase, etc., of assets by Federal Reserve banks, andeliminating collateral requirement for Federal Reserve notes held in Federal Reserve bank vaults.
+<b>1980</b>—Pub. L. 96–221 inserted provisions relating to purchase, etc., of assets by Federal Reserve banks, and eliminating collateral requirement for Federal Reserve notes held in Federal Reserve bank vaults.
 
 <b>1978</b>—Pub. L. 95–630 substituted “any obligations which are direct obligations of, or are fully guaranteed as to principal and interest by, the United States or any agency thereof” of “direct obligations of the United States”.
 

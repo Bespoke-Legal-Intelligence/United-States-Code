@@ -62,5 +62,5 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date
 
-Section 1116(b)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[enacting this section and amending section 6724 of this title\] shall apply to payments made after December 31, 1997.”
+Pub. L. 104–188, title I, §1116(b)(3), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this subsection \[enacting this section and amending section 6724 of this title\] shall apply to payments made after December 31, 1997.”
 

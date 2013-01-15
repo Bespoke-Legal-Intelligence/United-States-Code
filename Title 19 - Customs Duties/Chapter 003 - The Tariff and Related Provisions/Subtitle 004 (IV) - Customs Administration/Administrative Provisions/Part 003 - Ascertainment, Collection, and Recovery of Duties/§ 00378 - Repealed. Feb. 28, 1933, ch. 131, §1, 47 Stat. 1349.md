@@ -2,5 +2,5 @@
 
 Section, R.S. §2938, related to appraiser as special examiner.
 
-Section 2 of the repealing act provided that rights or liabilities existing under this section on Feb. 28, 1933, should not be affected thereby.
+Act Feb. 28, 1933, ch. 131, §2, 47 Stat. 1349, provided that rights or liabilities existing under this section on Feb. 28, 1933, should not be affected thereby.
 

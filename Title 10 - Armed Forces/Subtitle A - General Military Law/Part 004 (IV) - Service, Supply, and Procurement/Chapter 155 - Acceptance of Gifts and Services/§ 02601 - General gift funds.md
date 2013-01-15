@@ -2,11 +2,15 @@
 
 (a)
 
-General Authority to Accept Gifts.—Subject to subsection (d)(2), the Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
+General Authority to Accept Gifts.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
+
+(2)(A) Notwithstanding section 1342 of title 31, the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity whoprovide a gift of services under this subparagraph may not be considered to be employees of the United States.
+
+(B) For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 
 (b)
 
-Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—(1) Subject to subsection (d)(2), the Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—
+Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—
 
 &emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incur a wound, injury, or illness while in the line of duty;
 
@@ -36,9 +40,9 @@ Gift Funds.—Gifts and bequests of money, and the proceeds of the sale of prope
 
 (d)
 
-Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
+Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under such subsections may be performed, without further specific authorization in law.
 
-(2) Property and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection (b)—
+(2) Property, money, and services may not be accepted under subsection (a) or (b)—
 
 &emsp;(A) if the use of the property or money or the performance of the services in connection with any program, project, or activity would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity;
 
@@ -56,7 +60,7 @@ Payment of Expenses.—The Secretary concerned may pay all necessary expenses in
 
 (f)
 
-Treatment of Gifts.—For the purposes of Federal income, estate, and gift taxes, any property or money accepted under subsection (a) and any property, money, or services accepted under subsection (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+Treatment of Gifts.—For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
 
 (g)
 
@@ -72,9 +76,9 @@ Definitions.—In this section:
 
 &emsp;(1) The term “Secretary concerned” includes the Secretary of Defense.
 
-&emsp;(2) The term “services” includes activities that benefit the morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
+&emsp;(2) The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat.2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160.)
 
 Historical and Revision Notes
 
@@ -111,6 +115,18 @@ In subsection (c), the words “any gift, devise, or bequest of” and “real o
 In subsection (d), the words “or any part thereof deposited in the Treasury pursuant to section 150r of this title” are omitted as surplusage.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
+
+Subsec. (b)(1). Pub. L. 112–239, §2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 112–239, §2852(a)(2)(B)(i), substituted “such subsections” for “subsection (b)”.
+
+Subsec. (d)(2). Pub. L. 112–239, §2852(a)(2)(B)(ii), substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
+
+Subsec. (f). Pub. L. 112–239, §2852(a)(2)(C), substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
+
+Subsec. (i)(2). Pub. L. 112–239, §587(a), inserted “education,” before “morale,”.
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
 

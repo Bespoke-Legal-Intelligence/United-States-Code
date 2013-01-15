@@ -28,7 +28,7 @@
 
 #### (4) Funds resulting from reduced allotments
 
-&emsp;The Secretary shall use funds withheld under paragraph (3) for a State served by aneligible agency to provide technical assistance, to assist in the development of an improved State improvement plan, or for other improvement activities consistent with the requirements of this chapter for such State.
+&emsp;The Secretary shall use funds withheld under paragraph (3) for a State served by an eligible agency to provide technical assistance, to assist in the development of an improved State improvement plan, or for other improvement activities consistent with the requirements of this chapter for such State.
 
 #### (b) Local program improvement
 
@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The eligible agency may, after notice and opportunity for a hearing, withhold from the eligible recipient all, or a portion, of the eligible recipient's allotment under this subchapter if the eligible recipient—
+&emsp;&emsp;The eligible agency may, after notice and opportunity for a hearing, withhold from theeligible recipient all, or a portion, of the eligible recipient's allotment under this subchapter if the eligible recipient—
 
 &emsp;&emsp;&emsp;(i) fails to implement an improvement plan as described in paragraph (2);
 

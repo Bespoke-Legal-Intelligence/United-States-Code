@@ -46,7 +46,7 @@ An application submitted under subsection (a) of this section shall set forth as
 
 Each general application submitted under this section shall remain in effect for the duration of any program it covers. The Secretary shall not require the resubmission or amendment of that application unless required by changes in Federal or State law or by other significant changes in the circumstances affecting an assurance in that application.
 
-(Pub. L. 90–247, title IV, §441, formerly §435, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L. 103–382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, §1062(2), Jan. 8, 2002, 115 Stat. 2087.)
+(Pub. L. 90–247, title IV, §441, formerly §435, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, §706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, §3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered §441 and amended Pub. L.103–382, title II, §§212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, §1062(2), Jan. 8, 2002, 115 Stat. 2087.)
 
 #### References in Text
 

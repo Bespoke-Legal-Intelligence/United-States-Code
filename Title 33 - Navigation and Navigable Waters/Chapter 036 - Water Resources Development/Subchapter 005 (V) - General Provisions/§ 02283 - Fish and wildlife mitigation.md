@@ -26,7 +26,7 @@
 
 #### (c) Allocation of mitigation costs
 
-Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs areshared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federal interests or until such contracts are complied with or renegotiated.
+Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federal interests or until such contracts are complied with or renegotiated.
 
 #### (d) Mitigation plans as part of project proposals
 
@@ -96,7 +96,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(1) such enhancement provides benefits that are determined to be national, including benefits to species that are identified by the National Marine Fisheries Service as of national economic importance, species that are subject to treaties or international convention to which the United States is a party, and anadromous fish;
 
-&emsp;(2) such enhancement is designed to benefit species that have been listed as threatened orendangered by the Secretary of the Interior under the terms of the Endangered Species Act, as amended (16 U.S.C. 1531, et seq.), or
+&emsp;(2) such enhancement is designed to benefit species that have been listed as threatened or endangered by the Secretary of the Interior under the terms of the Endangered Species Act, as amended (16 U.S.C. 1531, et seq.), or
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
@@ -104,7 +104,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
-Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
+Fish and wildlife enhancement measures carried out as part of the project for AtchafalayaFloodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 

@@ -36,7 +36,7 @@
 
 #### (2) Waiver regarding certain secondary agreements
 
-&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regardinga participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
 &emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
 
@@ -80,7 +80,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (2) Applicability to certain secondary agreements for provision of services
 
-&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary hasprovided a waiver under subsection (b)(2) of this section regarding the provider.
+&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
 
 #### (f) Method and amount of payment
 
@@ -92,7 +92,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the grant recipient; and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
@@ -108,7 +108,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### (1) In general
 
-&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (<i>l</i>)(2) of this section.
+&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (l)(2) of this section.
 
 #### (2) Certain requirements
 
@@ -132,7 +132,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 For purposes of this section, the term “political subdivision” includes Indian tribes.
 
-#### (<i>l</i>) Funding
+#### (l) Funding
 
 #### (1) Authorization of appropriations
 
@@ -150,7 +150,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing, referred to in subsec. (a)(2), was in theoriginal a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
@@ -158,7 +158,7 @@ The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 
 
 #### Prior Provisions
 
-A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, title IX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
+A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, titleIX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 #### Amendments
 
@@ -170,13 +170,13 @@ A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 S
 
 Subsec. (j)(2)(F), (G). Pub. L. 106–310, §2501(a)(2), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
 
-Subsec. (<i>l</i>)(1). Pub. L. 106–310, §2504, substituted “1994 through 2005” for “1994 through 2002”.
+Subsec. (l)(1). Pub. L. 106–310, §2504, substituted “1994 through 2005” for “1994 through 2002”.
 
 Subsec. (m). Pub. L. 106–310, §2501(b), added subsec. (m).
 
-<b>1998</b>—Subsec. (<i>l</i>)(1). Pub. L. 105–392 substituted “2002” for “1998”.
+<b>1998</b>—Subsec. (l)(1). Pub. L. 105–392 substituted “2002” for “1998”.
 
-<b>1993</b>—Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
+<b>1993</b>—Subsec. (l)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
 
 <b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
 

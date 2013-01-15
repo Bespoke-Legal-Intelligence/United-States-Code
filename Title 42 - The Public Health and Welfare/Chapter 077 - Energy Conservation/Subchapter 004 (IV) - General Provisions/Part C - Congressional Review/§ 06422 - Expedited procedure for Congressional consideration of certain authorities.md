@@ -18,7 +18,7 @@ For the purpose of subsection (b) of this section—
 
 &emsp;(1) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the calendar-day period involved.
+&emsp;(2) the days on which either House is not in session because of an adjournment of morethan 3 days to a day certain are excluded in the computation of the calendar-day period involved.
 
 #### (d) Resolution with respect to contingency plan
 
@@ -62,7 +62,7 @@ For the purpose of subsection (b) of this section—
 
 > &emsp;An amendment described in this subparagraph shall not be amendable. Debate on such an amendment shall be limited to not more than 1 hour, which shall be divided equally between those favoring and those opposing the amendment.
 
-&emsp;(B) In the consideration of any resolution on any such plan which has been reported by acommittee, it shall be in order at any time during the debate allowed for under paragraph (5)(B) to offer an amendment in the nature of a substitute for such resolution—
+&emsp;(B) In the consideration of any resolution on any such plan which has been reported by a committee, it shall be in order at any time during the debate allowed for under paragraph (5)(B) to offer an amendment in the nature of a substitute for such resolution—
 
 &emsp;&emsp;(i) consisting of the text of a resolution described in paragraph (2)(B)(i) with respect to any rationing contingency plan, if the resolution sought to be amended is a resolution described in paragraph (2)(B)(ii) with respect to the same such plan, or
 

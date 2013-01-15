@@ -50,7 +50,7 @@ R.S. 1320.
 
 In subsection (a), the words “Effective January 1, 1951” are omitted as executed. The word “Calendar” is omitted as surplusage. The words “must not have passed his twenty-second birthday” are substituted for the words “not more than twenty-two years of age”, to make it clear that a person whose twenty-second birthday falls on July 1 of the year of admission is eligible (see opinion of the Judge Advocate General of the Army (JAGA 1952/7083, 2 Sept. 1952)).
 
-In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for thewords “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
+In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for the words “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
 
 In subsection (c), the word “shall” is substituted for the word “may”, since the nominee is required to appear for the examination. The word “appear” is substituted for the words “present himself”. The words “at a place” are substituted for the words “at West Point, New York, or other prescribed places”.
 

@@ -26,7 +26,7 @@ The Secretary shall release a notification of funding availability for grants aw
 
 #### (B) Transition
 
-&emsp;&emsp;For a period of up to 2 years beginning after the effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the Secretary shall announce, within 6 months after the last date for the submission of applications described in this subsection for a fiscal year, the grants conditionally awarded under subsection (a) for that fiscal year.
+&emsp;&emsp;For a period of up to 2 years beginning after the effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the Secretary shall announce, within 6 monthsafter the last date for the submission of applications described in this subsection for a fiscal year, the grants conditionally awarded under subsection (a) for that fiscal year.
 
 #### (d) Obligation, distribution, and utilization of funds
 
@@ -38,7 +38,7 @@ The Secretary shall release a notification of funding availability for grants aw
 
 #### (B) Acquisition, rehabilitation, or construction
 
-&emsp;&emsp;Not later than 24 months after the announcement referred to in subsection (c)(2),each recipient or project sponsor seeking the obligation of funds for acquisition of housing, rehabilitation of housing, or construction of new housing for a grant announced under subsection (c)(2) shall meet all requirements for the obligation of those funds, including site control, matching funds, and environmental review requirements.
+&emsp;&emsp;Not later than 24 months after the announcement referred to in subsection (c)(2), each recipient or project sponsor seeking the obligation of funds for acquisition of housing, rehabilitation of housing, or construction of new housing for a grant announced under subsection (c)(2) shall meet all requirements for the obligation of those funds, including site control, matching funds, and environmental review requirements.
 
 #### (C) Extensions
 
@@ -94,7 +94,7 @@ A solo applicant may submit an application to the Secretary for a grant under su
 
 #### (2) Limitations
 
-&emsp;The 10 percent limitation under paragraph (1) shall not apply to collaborative applicantsin which the rate of homelessness, as calculated in the most recent point in time count, is less than one-tenth of 1 percent of total population.
+&emsp;The 10 percent limitation under paragraph (1) shall not apply to collaborative applicants in which the rate of homelessness, as calculated in the most recent point in time count, is less than one-tenth of 1 percent of total population.
 
 #### (3) Treatment of certain populations
 
@@ -121,6 +121,10 @@ Another prior section 11382, Pub. L. 100–77, title IV, §422, July 22, 1987, 1
 #### Effective Date
 
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+
+#### Definition
+
+For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

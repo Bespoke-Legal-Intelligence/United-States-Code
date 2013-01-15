@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(C) the process of assembly or completion in the foreign country referred to in subparagraph (B) is minor or insignificant,
 
-&emsp;&emsp;(D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significantportion of the total value of the merchandise exported to the United States, and
+&emsp;&emsp;(D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significant portion of the total value of the merchandise exported to the United States, and
 
 &emsp;&emsp;(E) the administering authority determines that action is appropriate under this paragraph to prevent evasion of such order or finding,
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(C) a finding issued under the Antidumping Act, 1921, or
 
-&emsp;&emsp;(D) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>2</sup> of this title,
+&emsp;&emsp;(D) a countervailing duty order issued under section 1671e of this title or section 1303 <sup>1</sup> of this title,
 
 > &emsp;shall include articles altered in form or appearance in minor respects (including raw agricultural products that have undergone minor processing), whether or not included in the same tariff classification.
 
@@ -122,7 +122,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>2</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>2</sup> of this title as a result of such investigation, the administering authority shall consider whether—
+&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>1</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>1</sup> of this title as a result of such investigation, the administering authority shall consider whether—
 
 &emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) is classified under a tariff classification other than that identified in the petition or the administering authority's prior notices during the proceeding, or
 
-&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
+&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additionalfunctions constitute more than a significant proportion of the total cost of production of the merchandise.
 
 #### (e) Commission advice
 
@@ -150,7 +150,7 @@
 
 &emsp;Before making a determination—
 
-&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed orassembled in the United States (other than minor completion or assembly),
+&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
 
 &emsp;&emsp;(B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
 
@@ -193,6 +193,4 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 Section applicable with respect to articles entered, or withdrawn from warehouse for consumption, on or after Aug. 23, 1988, see section 1337(d) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

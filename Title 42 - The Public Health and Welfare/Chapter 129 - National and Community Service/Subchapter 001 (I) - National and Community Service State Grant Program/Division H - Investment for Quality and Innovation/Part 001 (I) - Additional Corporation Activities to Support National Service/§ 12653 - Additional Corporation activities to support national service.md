@@ -56,7 +56,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (1) Assistance
 
-&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equal economic and educational opportunities, and social justice.
+&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equaleconomic and educational opportunities, and social justice.
 
 #### (2) Eligible entities
 
@@ -104,7 +104,7 @@ A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102�
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (<i>o</i>), (q), (r), and (s) as (c) to (i), respectively,and struck out former subsecs. (c) to (f), (h) to (j), (<i>l</i>), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
+<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
 Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted “subsection (g)” for “subsection (r) of this section”.
 

@@ -106,21 +106,61 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 #### Effective Date of 1996 Amendment
 
-Section 6(a) of Pub. L. 104–287 provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 104–287, §6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: “This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the ‘Government Funding Transparency Act of 2008’.”
 
+#### Requirements and Limitations for Suspension and Debarment Officials of the Department of Defense, the Department of State, and the United States Agency for International Development
+
+Pub. L. 112–239, div. A, title VIII, §861, Jan. 2, 2013, 126 Stat. 1857, provided that:
+
+“(a)
+
+Requirements.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the head of the covered agency concerned shall ensure the following:
+
+&emsp;“(1) There shall be not less than one suspension and debarment official—
+
+&emsp;&emsp;“(A) in the case of the Department of Defense, for each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency;
+
+&emsp;&emsp;“(B) for the Department of State; and
+
+&emsp;&emsp;“(C) for the United States Agency for International Development.
+
+&emsp;“(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
+
+&emsp;&emsp;“(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
+
+&emsp;&emsp;“(B) in the case of the Department of State and the United States Agency for International Development, of the covered agency concerned.
+
+&emsp;“(3) Each suspension and debarment official under paragraph (1) shall have a staff and resources adequate for the discharge of the suspension and debarment responsibilities of such official.
+
+&emsp;“(4) Each suspension and debarment official under paragraph (1) shall document the basis for any final decision taken pursuant to a formal referral in accordance with the policies established under paragraph (5).
+
+&emsp;“(5) Each suspension and debarment official under paragraph (1) shall, in consultation with the General Counsel of the covered agency, establish in writing policies for the consideration of the following:
+
+&emsp;&emsp;“(A) Formal referrals of suspension and debarment matters.
+
+&emsp;&emsp;“(B) Suspension and debarment matters that are not formally referred.
+
+“(b)
+
+Duties of Interagency Committee on Debarment and Suspension.—\[Amended section 873 of Pub. L. 110–417, set out below.\]
+
+“(c)
+
+Covered Agency.—In this section, the term ‘covered agency’ means the Department of Defense, the Department of State, and the United States Agency for International Development.”
+
 #### Role of Interagency Committee on Debarment and Suspension
 
-Pub. L. 110–417, \[div. A\], title VIII, §873, Oct. 14, 2008, 122 Stat. 4557, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(16), Jan. 7, 2011, 124 Stat. 4375, provided that:
+Pub. L. 110–417, \[div. A\], title VIII, §873, Oct. 14, 2008, 122 Stat. 4557, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(16), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–239, div. A, title VIII, §861(b), Jan. 2, 2013, 126 Stat. 1858, provided that:
 
 “(a)
 
 Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
-&emsp;“(1) resolve issues regarding which of several Federal agencies is the lead agency having responsibility to initiate suspension or debarment proceedings;
+&emsp;“(1) resolve issues regarding which of several Federal agencies is the lead agency having responsibility to initiate suspension or debarment proceedings, including with respect to contracts in connection with contingency operations;
 
 &emsp;“(2) coordinate actions among interested agencies with respect to such action;
 
@@ -136,13 +176,23 @@ Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
 &emsp;&emsp;“(A) the progress and efforts to improve the suspension and debarment system;
 
-&emsp;&emsp;“(B) member agencies’ active participation in the committee's work; and
+&emsp;&emsp;“(B) member agencies’ active participation in the committee's work;
 
-&emsp;&emsp;“(C) a summary of each agency's activities and accomplishments in the Governmentwide debarment system.
+&emsp;&emsp;“(C) a summary of each agency's activities and accomplishments in the Governmentwide debarment system; and
+
+&emsp;&emsp;“(D) a summary of suspensions, debarments, and administrative agreements during the previous year.
 
 “(b)
 
-Definition.—The term ‘Interagency Committee on Debarment and Suspension’ means such committee constituted under sections 4 and 5 and \[sic\] of Executive Order No. 12549 \[set out below\].”
+Date of Submittal of Annual Reports.—The annual report required by subsection (a)(7) shall be submitted not later than January 31 of each year, beginning with January 31, 2014.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+&emsp;“(2) The term ‘Interagency Committee on Debarment and Suspension’ means the committee constituted under sections 4 and 5 of Executive Order No. 12549 \[set out below\].”
 
 #### Federal Funding Accountability and Transparency
 
@@ -244,7 +294,7 @@ Website.—Not later than January 1, 2008, the Office of Management and Budget s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) $25,000,000 or more in annual gross revenues from Federal awards; and
 
-&emsp;&emsp;&emsp;“(ii) the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78<i>o</i>(d)) or section 6104 of the Internal Revenue Code of 1986. \[; and\]
+&emsp;&emsp;&emsp;“(ii) the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. \[; and\]
 
 &emsp;&emsp;“(G) any other relevant information specified by the Office of Management and Budget.
 
@@ -322,7 +372,7 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &emsp;&emsp;“(B)
 
-Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+Extension of deadline.—For subaward recipients that receive Federal funds through State,local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
 “(e)
 
@@ -578,7 +628,7 @@ Definitions.—In this section:
 
 #### Transfer of Personnel, Property, Records, and Appropriations
 
-Section 7 of Pub. L. 98–169 provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
+Pub. L. 98–169, §7, Nov. 29, 1983, 97 Stat. 1115, provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
 
 #### Ex. Ord. No. 12549. Debarment and Suspension of Participants in Federal Programs
 

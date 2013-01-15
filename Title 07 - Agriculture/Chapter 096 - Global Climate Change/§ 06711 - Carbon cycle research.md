@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b) of this section, carbon cycle research at the national, regional, and local levels.
+To the extent funds are made available for this purpose, the Secretary shall provide a grantto the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b) of this section, carbon cycle research at the national, regional, and local levels.
 
 #### (b) Land grant universities
 
@@ -96,7 +96,7 @@ Land grant universities described in subsection (b) of this section shall use fu
 
 #### (1) In general
 
-&emsp;The Secretary, in cooperation with departments and agencies participating in the U.S. Global Change Research Program (which may use any of their statutory authorities), and local extension agents, experts from institutions of higher education that offer a curriculum in agricultural and biological sciences, and other local agricultural or conservation organizations, may implement extension projects (including on-farm projects with direct involvement of agricultural producers) that combine measurement tools and modeling techniques into integrated packages to monitor the carbon sequestering benefits of conservation practices and the exchange of greenhouse gas emissions from agriculture which demonstrate the feasibility of methods of measuring and monitoring—
+&emsp;The Secretary, in cooperation with departments and agencies participating in the U.S. Global Change Research Program (which may use any of their statutory authorities), and local extension agents, experts from institutions of higher education that offer a curriculum in agricultural and biological sciences, and other local agricultural or conservation organizations, may implement extension projects (including on-farm projects with direct involvement of agricultural producers) that combine measurement tools and modeling techniques into integrated packages to monitor the carbon sequestering benefits of conservation practices and the exchange of greenhouse gas emissions from agriculturewhich demonstrate the feasibility of methods of measuring and monitoring—
 
 &emsp;&emsp;(A) changes in carbon content and other carbon pools in soils and plants (including trees); and
 
@@ -122,7 +122,7 @@ Not more than 3 percent of the funds made available for this section may be used
 
 There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2007 through 2012.
 
-(Pub. L. 106–224, title II, §221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, §7223, title IX, §9009, May 13, 2002, 116 Stat. 454, 483; Pub. L.110–234, title VII, §7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7407, June 18, 2008, 122 Stat. 1664, 2013.)
+(Pub. L. 106–224, title II, §221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, §7223, title IX, §9009, May 13, 2002, 116 Stat. 454, 483; Pub. L. 110–234, title VII, §7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7407, June 18, 2008, 122 Stat. 1664, 2013.)
 
 #### Codification
 

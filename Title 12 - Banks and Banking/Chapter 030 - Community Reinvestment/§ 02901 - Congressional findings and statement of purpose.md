@@ -14,7 +14,7 @@
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 95–128 provided that: “This title \[enacting this chapter\] may be cited as the ‘Community Reinvestment Act of 1977’.”
+Pub. L. 95–128, title VIII, §801, Oct. 12, 1977, 91 Stat. 1147, provided that: “This title \[enacting this chapter\] may be cited as the ‘Community Reinvestment Act of 1977’.”
 
 #### Responsiveness to Community Needs for Financial Services
 
@@ -38,7 +38,7 @@ In general.—The Secretary of the Treasury shall—
 
 &emsp;“(2)
 
-Recommendations.—The final report submitted under paragraph (1)(B) shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action with respect to institutions covered under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
+Recommendations.—The final report submitted under paragraph (1)(B) shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action withrespect to institutions covered under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
 
 #### Report on Community Development Lending
 

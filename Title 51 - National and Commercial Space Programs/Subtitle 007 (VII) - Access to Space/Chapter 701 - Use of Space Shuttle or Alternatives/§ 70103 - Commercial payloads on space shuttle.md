@@ -10,7 +10,7 @@ Launch vehicle.—The term “launch vehicle” means any vehicle constructed fo
 
 &emsp;(2)
 
-Payload.—The term “payload” means an object which a person undertakes to place in outer space by means of a launch vehicle, and includes subcomponents of the launch vehicle specifically designed or adapted for that object.
+Payload.—The term “payload” means an object which a person undertakes to place in outer space by means of a launch vehicle, andincludes subcomponents of the launch vehicle specifically designed or adapted for that object.
 
 (b)
 

@@ -2,7 +2,7 @@
 
 (a) A fee or charge for a service or thing of value provided by the Coast Guard shall be prescribed as provided in section 9701 of title 31.
 
-(b) Amounts collected by the Secretary for a service or thing of value provided by the Coast Guard shall be deposited in the general fund of the Treasury as proprietary receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
+(b) Amounts collected by the Secretary for a service or thing of value provided by the CoastGuard shall be deposited in the general fund of the Treasury as proprietary receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
 (c) In addition to the collection of fees and charges established under this section, the Secretary may recover from the person liable for the fee or charge the costs of collecting delinquent payments of the fee or charge, and enforcement costs associated with delinquent payments of the fees and charges.
 

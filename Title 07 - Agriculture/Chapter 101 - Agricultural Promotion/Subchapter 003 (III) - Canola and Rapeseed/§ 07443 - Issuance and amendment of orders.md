@@ -12,7 +12,7 @@ Subject to subsection (b) of this section, the Secretary shall issue 1 or more o
 
 #### (2) Notice and comment concerning proposed order
 
-&emsp;Not later than 60 days after the receipt of a request and proposal for an order pursuant to paragraph (1), or whenever the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.
+&emsp;Not later than 60 days after the receipt of a request and proposal for an order pursuant toparagraph (1), or whenever the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.
 
 #### (3) Issuance of order
 

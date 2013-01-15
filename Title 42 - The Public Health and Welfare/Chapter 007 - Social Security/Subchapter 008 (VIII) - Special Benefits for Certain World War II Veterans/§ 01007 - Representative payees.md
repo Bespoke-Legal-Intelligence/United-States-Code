@@ -60,7 +60,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (2) Exemptions
 
-&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant an exemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
+&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant anexemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
 
 &emsp;(B) Paragraph (1)(C) shall not apply with respect to any person who is a creditor referred to in such paragraph if the creditor is—
 
@@ -126,7 +126,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment, the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
+&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment,the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
 
 #### (2) Special reports
 
@@ -156,7 +156,7 @@ In any case where the negligent failure of the Commissioner of Social Security t
 
 &emsp;(B) is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter II of this chapter, subchapter XVI of this chapter, or any combination of such subchapters;
 
-> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (<i>l</i>)(2) of this section. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (l)(2) of this section. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
 #### (j) Misuse of benefits
 
@@ -192,7 +192,7 @@ For purposes of this subchapter, misuse of benefits by a representative payee oc
 
 &emsp;&emsp;(H) such other information as the Commissioner deems appropriate.
 
-#### (<i>l</i>) Liability for misused amounts
+#### (l) Liability for misused amounts
 
 #### (1) In general
 
@@ -230,11 +230,11 @@ Subsec. (j). Pub. L. 108–203, §101(b)(2), added subsec. (j).
 
 Subsec. (k). Pub. L. 108–203, §102(b)(2), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 108–203, §105(b), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 108–203, §105(b), added subsec. (l).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representativepayee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 Amendment by section 103(b) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 

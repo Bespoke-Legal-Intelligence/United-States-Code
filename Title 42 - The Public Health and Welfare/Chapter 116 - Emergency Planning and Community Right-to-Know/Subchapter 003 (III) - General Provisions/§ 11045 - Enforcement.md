@@ -24,7 +24,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (4) Criminal penalties
 
-&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction,shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
+&emsp;Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction, shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
 
 #### (c) Civil and administrative penalties for reporting requirements
 

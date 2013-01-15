@@ -40,7 +40,7 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;&emsp;&emsp;(iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
 
-> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from apartnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
 
 #### (c) Rules applicable to subsection (b)(3)
 
@@ -94,7 +94,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;&emsp;&emsp;&emsp;(II) $10,000,000, and
 
-&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
+&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time periodprescribed by the Secretary and in the manner prescribed by the Secretary, or
 
 &emsp;&emsp;&emsp;(II) the requirements of such subsection are otherwise met within the time period specified in subclause (I).
 
@@ -152,7 +152,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) asbeing owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
@@ -190,7 +190,7 @@ For purposes of this section, the term “qualified publicly traded partnership�
 
 &emsp;&emsp;(B) 1/9 of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (<i>o</i>), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540.)
 
 #### References in Text
 
@@ -216,7 +216,7 @@ Subsec. (h). Pub. L. 108–357, §331(d), added subsec. (h).
 
 Subsec. (b)(2). Pub. L. 105–34, §1271(a), inserted “and” at end.
 
-Subsec. (b)(3), (4). Pub. L. 105–34, §1271(a), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
+Subsec. (b)(3), (4). Pub. L. 105–34, §1271(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
 
 &emsp;“(A) stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended),
 
@@ -250,11 +250,11 @@ Subsec. (e)(1). Pub. L. 100–647, §1006(m)(2), substituted “a management com
 
 Subsec. (g)(2)(A)(i). Pub. L. 100–647, §1006(n)(4), substituted “contractual obligation” for “contractual option”.
 
-Subsec. (h). Pub. L. 100–647, §1006(<i>o</i>)(1), redesignated subsec. (q) as (h).
+Subsec. (h). Pub. L. 100–647, §1006(o)(1), redesignated subsec. (q) as (h).
 
-Subsec. (h)(3). Pub. L. 100–647, §1006(<i>o</i>)(2), added par. (3).
+Subsec. (h)(3). Pub. L. 100–647, §1006(o)(2), added par. (3).
 
-Subsec. (q). Pub. L. 100–647, §1006(<i>o</i>)(1), redesignated subsec. (q) as (h).
+Subsec. (q). Pub. L. 100–647, §1006(o)(1), redesignated subsec. (q) as (h).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §652(a), substituted “as a management company, business development company, or unit investment trust” for “either as a management company or as a unit investment trust”.
 
@@ -306,17 +306,17 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(n)(2)(C) of Pub. L. 100–647 provided that: “Subparagraph (C) of section 851(b)(3) of the 1986 Code (as amended by subparagraph (A)), and the amendment made by subparagraph (B) \[amending this section\], shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1006(n)(2)(C), Nov. 10, 1988, 102 Stat. 3415, provided that: “Subparagraph (C) of section 851(b)(3) of the 1986 Code (as amended by subparagraph (A)), and the amendment made by subparagraph (B) \[amending this section\], shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-Amendment by section 1006(m), (n)(1), (2)(A), (4), (5), (<i>o</i>) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1006(m), (n)(1), (2)(A), (4), (5), (o) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 652(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title VI, §652(c), Oct. 22, 1986, 100 Stat. 2297, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
-Section 653(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title VI, §653(d), Oct. 22, 1986, 100 Stat. 2298, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 654(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §654(b), Oct. 22, 1986, 100 Stat. 2298, provided that:
 
 “(1)
 
@@ -336,9 +336,9 @@ Amendment by section 1235(f)(3) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1982, with certain exceptions, see section 1071(a)(5) of Pub. L. 98–369, set out as a note under section 852 of this title.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 701(s)(3) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title VII, §701(s)(3), Nov. 6, 1978, 92 Stat. 2911, provided that: “The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
 Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations
 
 #### Effective Date of 1969 Amendment
 
-Section 908(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years of unit investment trusts ending after December 31, 1968, and to taxable years of holders of interests in such trusts ending with or within such taxable years of such trusts. The enactment of this section shall not be construed to result in the realization of gain or loss by any unit investment trust or by any holder of an interest in a unit investment trust.”
+Pub. L. 91–172, title IX, §908(b), Dec. 30, 1969, 83 Stat. 718, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years of unit investment trusts ending after December 31, 1968, and to taxable years of holders of interests in such trusts ending with or within such taxable years of such trusts. The enactment of this section shall not be construed to result in the realization of gain or loss by any unit investment trust or by any holder of an interest in a unit investment trust.”
 
 #### Effective Date of 1958 Amendment
 

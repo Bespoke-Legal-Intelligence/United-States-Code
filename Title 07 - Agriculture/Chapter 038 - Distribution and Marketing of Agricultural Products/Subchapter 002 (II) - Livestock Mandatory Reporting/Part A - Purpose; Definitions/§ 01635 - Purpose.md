@@ -82,7 +82,7 @@ Phase-Out.—Effective for a period of eight quarters after the implementation o
 
 “(a)
 
-In General.—The Secretary of Agriculture shall promptly obtain and maintain, through an appropriatecollection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary.
+In General.—The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary.
 
 “(b)
 
@@ -114,7 +114,7 @@ Correlation Study and Report.—The study and report shall—
 
 &emsp;“(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary;
 
-&emsp;“(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and
+&emsp;“(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through trainingprograms made available to swine producers so as to minimize trim loss in slaughter processing; and
 
 &emsp;“(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts.
 

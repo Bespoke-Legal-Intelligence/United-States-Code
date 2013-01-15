@@ -12,7 +12,7 @@ The Secretary, in consultation with the Safe and Drug-Free Schools and Communiti
 
 #### (b) Data collection
 
-The National Center for Education Statistics shall collect data, that is subject to independent review, to determine the incidence and prevalence of illegal drug use and violence in elementary schools and secondary schools in the States. The collected data shall include incident reports by schools officials, anonymous student surveys, and anonymous teacher surveys.
+The National Center for Education Statistics shall collect data, that is subject to independentreview, to determine the incidence and prevalence of illegal drug use and violence in elementary schools and secondary schools in the States. The collected data shall include incident reports by schools officials, anonymous student surveys, and anonymous teacher surveys.
 
 #### (c) Biennial report
 

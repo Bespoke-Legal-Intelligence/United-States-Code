@@ -30,7 +30,7 @@ R.S. 1314 (words before semicolon).
 
 In subsection (a), the word “detailed” is substituted for the word “selected”, since historically the offices of superintendent and commandant of cadets have been filled by detail. The words “the officers of the Air Force” are substituted for the words “any arm of the service”, since the Air Force does not have statutory arms or corps. 10:1063 (1st sentence and 1st 26 words of last sentence) is omitted as covered by section 8012 of this title.
 
-In subsection (b), the words “by and with the advice and consent of the Senate” are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to make these appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by section 9349(b) of this title.
+In subsection (b), the words “by and with the advice and consent of the Senate” are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to makethese appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by section 9349(b) of this title.
 
 #### Amendments
 

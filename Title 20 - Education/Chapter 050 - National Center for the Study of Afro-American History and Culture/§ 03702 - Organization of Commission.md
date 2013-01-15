@@ -66,13 +66,13 @@ Members of the Commission shall serve without pay.
 
 The Commission may procure, subject to the availability of funds, temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5.
 
-#### (<i>l</i>) Personnel details
+#### (l) Personnel details
 
 Upon request of the Commission, and subject to the availability of funds, the head of any Federal agency may detail to the Commission on a reimbursable basis any of the personnel of such agency to assist the Commission in carrying out its duties under this chapter.
 
 #### (m) Administrative support services
 
-The Administrator of the General Services Administration shall provide to the Commission ona reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
+The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
 
 (Pub. L. 96–430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
 

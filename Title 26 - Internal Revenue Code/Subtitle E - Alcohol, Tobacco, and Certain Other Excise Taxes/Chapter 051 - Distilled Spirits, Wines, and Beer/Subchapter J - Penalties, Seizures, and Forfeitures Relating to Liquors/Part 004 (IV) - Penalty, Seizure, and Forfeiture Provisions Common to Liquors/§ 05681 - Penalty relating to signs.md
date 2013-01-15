@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 96–39, §807(a)(58)(D), substituted “distilled spirits 
 
 #### Effective Date of 1997 Amendment
 
-Section 1415(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and repealing section 5115 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1415(c), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section \[amending this section and repealing section 5115 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1979 Amendment
 

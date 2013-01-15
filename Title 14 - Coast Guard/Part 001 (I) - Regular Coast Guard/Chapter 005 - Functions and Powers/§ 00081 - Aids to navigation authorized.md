@@ -14,7 +14,7 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed.; §§50m, 50<i>o</i>, and on title 33, U.S.C., 1946 ed., §§720, 720a, 739, 740, 740a, 740b, 769 (R.S. 4668; June 23, 1874, ch. 455, §1, 18 Stat. 220; June 17, 1910, ch. 301, §7, 36 Stat. 538; Mar. 3, 1915, ch. 81, §5, 38 Stat. 927; Aug. 28, 1916, ch. 414, §3, 39 Stat. 538; May 22, 1926, ch. 371, §6, 44 Stat. 626; Feb. 25, 1925, ch. 313, §3, 45 Stat. 1262; Aug. 16, 1937, ch. 665, §3, 50 Stat. 667; June 26, 1948, ch. 672, §§1, 3, 62 Stat. 1050).
+Based on title 14, U.S.C., 1946 ed.; §§50m, 50o, and on title 33, U.S.C., 1946 ed., §§720, 720a, 739, 740, 740a, 740b, 769 (R.S. 4668; June 23, 1874, ch. 455, §1, 18 Stat. 220; June 17, 1910, ch. 301, §7, 36 Stat. 538; Mar. 3, 1915, ch. 81, §5, 38 Stat. 927; Aug. 28, 1916, ch. 414, §3, 39 Stat. 538; May 22, 1926, ch. 371, §6, 44 Stat. 626; Feb. 25, 1925, ch. 313, §3, 45 Stat. 1262; Aug. 16, 1937, ch. 665, §3, 50 Stat. 667; June 26, 1948, ch. 672, §§1, 3, 62 Stat. 1050).
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -34,7 +34,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
+Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -42,7 +42,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Aids to Navigation Report
 
-Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that: “Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard's aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system.”
+Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that: “Not later than 18 months after thedate of the enactment of this Act \[Nov. 13, 1998\], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard's aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system.”
 
 #### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
 

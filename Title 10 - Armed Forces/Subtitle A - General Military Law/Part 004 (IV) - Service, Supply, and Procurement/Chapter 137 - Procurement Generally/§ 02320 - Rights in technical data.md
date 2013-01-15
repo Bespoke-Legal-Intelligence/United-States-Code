@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
-&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shallbe based upon consideration of all of the following factors:
+&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shall be based upon consideration of all of the following factors:
 
 &emsp;&emsp;(i) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(ii) agree to restrict rights in technical data otherwise accorded to the United States under this section if the United States receives a royalty-free license to use, release, or disclose the data for purposes of the United States (including purposes of competitive procurement); or
 
-&emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
+&emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor isotherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
 
 (3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of the definitions under this paragraph.
 
@@ -108,7 +108,7 @@
 
 (d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
-(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategies developed under this section with respect to a weapon system or subsystem shall—
+(e) The Secretary of Defense shall require program managers for major weapon systems andsubsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategies developed under this section with respect to a weapon system or subsystem shall—
 
 &emsp;(1) be developed before issuance of a contract solicitation for the weapon system or subsystem;
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;&emsp;(ii) to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
 
-&emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the thirdparty for Government or non-Government contracts.
+&emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 
 (Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491.)
 
@@ -158,7 +158,7 @@ Pub. L. 111–383, §824(b)(2), substituted “for the purposes of paragraph (2)
 
 Subsec. (b)(9), (10). Pub. L. 112–81, §815(a)(2), added pars. (9) and (10).
 
-Subsec. (c)(2). Pub. L. 112–81, §802(b)(1), substituted “subsection (a),” for “subsection (a)—”, struck out “(A)” before “allowing”, and struck out subpar. (B) which read as follows: “allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or”.
+Subsec. (c)(2). Pub. L. 112–81, §802(b)(1), substituted “subsection (a),” for “subsection (a)—”, struck out“(A)” before “allowing”, and struck out subpar. (B) which read as follows: “allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or”.
 
 Pub. L. 111–383, §801(a)(1), substituted “subsection (a)—” for “subsection (a),”, inserted “(A)” before “allowing”, and added subpar. (B).
 
@@ -198,7 +198,7 @@ Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accor
 
 Subsec. (a)(2)(G)(iii). Pub. L. 100–180, §808(a)(4)(C), added cl. (iii).
 
-Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively with Federal funds’, and ‘exclusively at private expense’ ” for “and ‘private expense’ ” and inserted at end “In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent forindependent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.”
+Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively with Federal funds’, and ‘exclusively at private expense’ ” for “and ‘private expense’ ” and inserted at end “In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.”
 
 Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from”, designated existing provisions beginning with “prescribing standards” as par. (1), and added par. (2).
 
@@ -228,7 +228,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 808(c) of Pub. L. 100–180 provided that: “The amendments made by this section \[amending this section\] shall take effect on the earlier of—
+Pub. L. 100–180, div. A, title VIII, §808(c), Dec. 4, 1987, 101 Stat. 1130, provided that: “The amendments made by this section \[amending this section\] shall take effect on the earlier of—
 
 &emsp;“(1) the last day of the 120-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\]; or
 
@@ -236,7 +236,7 @@ Section 808(c) of Pub. L. 100–180 provided that: “The amendments made by thi
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §953(e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(e) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2321 of this title\] shall apply to contracts for which solicitations are issued after the end of the 210-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §953(e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, Pub. L. 99–591, §101(c) \[title X, §953(e)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, and Pub. L. 99–661, div. A, title IX, formerly title IV, §953(e), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2321 of this title\] shall apply to contracts for which solicitations are issued after the end of the 210-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Effective Date
 
@@ -246,7 +246,7 @@ Section applicable with respect to solicitations issued after the end of the one
 
 Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise regulations under section 2320 of title 10, United States Code, to implement subsection (e) of such section (as added by this section), including incorporating policy changes developed under such subsection into Department of Defense Directive 5000.1 and Department of Defense Instruction 5000.2.”
 
-Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
+Pub. L. 99–500, §101(c) \[title X, §953(d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, Pub. L. 99–591, §101(c) \[title X, §953(d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, and Pub. L. 99–661, div. A, title IX, formerly title IV, §953(d), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
 
 #### Guidance Relating to Rights in Technical Data
 
@@ -308,5 +308,5 @@ Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as a
 
 #### Control of Government Personnel Work Product
 
-Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, required Secretary of Defense to prescribe regulations ensuring that any Department of Defense employee or member of the armed forces with an appropriate security clearance who is engaged in oversight of an acquisition program maintains control of the employee's or member's work product, provided that procedures for protecting unauthorized disclosure of classified information by contractors do not require such an employee or member to relinquish control of his or her work product to any such contractor, required implementing regulations not later than 120 days after Dec. 5, 1991, and provided that this section would cease to be effective on Sept. 30, 1992.
+Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, required Secretary of Defense to prescribe regulations ensuring that any Department of Defenseemployee or member of the armed forces with an appropriate security clearance who is engaged in oversight of an acquisition program maintains control of the employee's or member's work product, provided that procedures for protecting unauthorized disclosure of classified information by contractors do not require such an employee or member to relinquish control of his or her work product to any such contractor, required implementing regulations not later than 120 days after Dec. 5, 1991, and provided that this section would cease to be effective on Sept. 30, 1992.
 

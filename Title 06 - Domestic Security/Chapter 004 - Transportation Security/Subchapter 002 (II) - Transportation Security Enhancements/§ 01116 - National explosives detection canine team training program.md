@@ -30,7 +30,7 @@ For purposes of this section, the term “explosives detection canine team” me
 
 #### (1) In general
 
-&emsp;Based on the feasibility in meeting the ongoing demand for quality explosives detection canine teams, the Secretary shall establish criteria, including canine training curricula, performance standards, and other requirements approved by the Transportation Security Administration necessary to ensure that explosives detection canine teams trained by nonprofit organizations, universities, and private sector entities are adequately trained and maintained.
+&emsp;Based on the feasibility in meeting the ongoing demand for quality explosives detectioncanine teams, the Secretary shall establish criteria, including canine training curricula, performance standards, and other requirements approved by the Transportation Security Administration necessary to ensure that explosives detection canine teams trained by nonprofit organizations, universities, and private sector entities are adequately trained and maintained.
 
 #### (2) Expansion
 

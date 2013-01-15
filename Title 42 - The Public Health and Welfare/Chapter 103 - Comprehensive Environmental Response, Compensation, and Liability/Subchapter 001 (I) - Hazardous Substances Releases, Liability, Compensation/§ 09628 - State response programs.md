@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(i) the State requests that the President provide assistance in the performance of a response action;
 
-&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
+&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protecthuman health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
 
 &emsp;&emsp;&emsp;(iii) after taking into consideration the response activities already taken, the Administrator determines that—
 

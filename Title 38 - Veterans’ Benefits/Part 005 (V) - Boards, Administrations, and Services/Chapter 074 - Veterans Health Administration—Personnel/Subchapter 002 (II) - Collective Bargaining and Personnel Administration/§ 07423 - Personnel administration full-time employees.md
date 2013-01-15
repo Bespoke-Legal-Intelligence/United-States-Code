@@ -36,7 +36,7 @@
 
 (3) Participation by a health-care professional in the leave transfer program established pursuant to paragraph (1), and in any leave bank program established pursuant to such paragraph, shall be voluntary. The Secretary may not require any health-care professional to participate in such a program.
 
-(4)(A) The Secretary and the Director of the Office of Personnel Management may enter into an agreement that permits health-care professionals referred to in paragraph (1) to participate in the leave transfer program established by the Director of the Office of Personnel Management under subchapter III of chapter 63 of title 5 or in any leave bank program established for other employees of the Department pursuant to subchapter IV of chapter 63 of title 5, or both.
+(4)(A) The Secretary and the Director of the Office of Personnel Management may enter intoan agreement that permits health-care professionals referred to in paragraph (1) to participate in the leave transfer program established by the Director of the Office of Personnel Management under subchapter III of chapter 63 of title 5 or in any leave bank program established for other employees of the Department pursuant to subchapter IV of chapter 63 of title 5, or both.
 
 (B) Participation of such health-care professionals in a leave transfer program or a leave bank program pursuant to an agreement entered into under subparagraph (A) shall be subject to such requirements and conditions as may be prescribed in such agreement.
 

@@ -34,5 +34,5 @@ Pub. L. 106–34, §1, June 8, 1999, 113 Stat. 118, provided that: “This Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 101–592 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Fastener Quality Act’.”
+Pub. L. 101–592, §1, Nov. 16, 1990, 104 Stat. 2943, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Fastener Quality Act’.”
 

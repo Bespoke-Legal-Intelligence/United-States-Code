@@ -72,7 +72,7 @@ In carrying out its duties under this section, the Commission, or any duly autho
 
 #### (f) Data and information from other Federal departments and agencies
 
-The Commission may secure directly from any department or agency of the United States suchdata and information as may be necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, any such department or agency shall furnish any such data or information to the Commission.
+The Commission may secure directly from any department or agency of the United States such data and information as may be necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, any such department or agency shall furnish any such data or information to the Commission.
 
 #### (g) Administrative support services from General Services Administration; reimbursement
 
@@ -102,5 +102,5 @@ Subsec. (c)(2). Pub. L. 96–265, §502(b), substituted “and the Commission sh
 
 #### Effective Date of 1984 Amendment
 
-Section 2349(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 1395z of this title and section 231f of Title 45, Railroads, and repealing section 1395dd of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2349(c), July 18, 1984, 98 Stat. 1097, provided that: “The amendments made by this section \[amending this section and section 1395z of this title and section 231f of Title 45, Railroads, and repealing section 1395dd of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 

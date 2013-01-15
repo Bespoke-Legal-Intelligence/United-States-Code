@@ -140,7 +140,7 @@ In this section:
 
 #### (4) Coordination
 
-&emsp;To avoid duplication of effort, the Advisory Committee shall coordinate its activities withthose of other Federal advisory committees working in related areas.
+&emsp;To avoid duplication of effort, the Advisory Committee shall coordinate its activities with those of other Federal advisory committees working in related areas.
 
 #### (5) Meetings
 
@@ -318,9 +318,9 @@ For each fiscal year for which funds are made available to carry out this sectio
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2012.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079.)
+(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365.)
 
 #### Codification
 
@@ -331,4 +331,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8108, Pub. L. 107–171, title IX, §9010, May 13, 2002, 116 Stat. 485, related to continuation of bioenergy program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8105 of this title.
 
 A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224, which was classified to chapter 112 (§8601 et seq.) of this title prior to repeal by Pub. L. 110–246, §9001(b).
+
+#### Amendments
+
+<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 

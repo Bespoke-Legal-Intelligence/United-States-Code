@@ -44,7 +44,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 &emsp;&emsp;&emsp;(i) Stock owned, directly or indirectly, by or for a beneficiary of a trust (other than an employees’ trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by the trust, unless such beneficiary's interest in the trust is a remote contingent interest. For purposes of this clause, a contingent interest of a beneficiary in a trust shall be considered remote if, under the maximum exercise of discretion by the trustee in favor of such beneficiary, the value of such interest, computed actuarially, is 5 percent or less of the value of the trust property.
 
-&emsp;&emsp;&emsp;(ii) Stock owned, directly or indirectly, by or for a person who is considered the owner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners), shall be considered as owned by the trust.
+&emsp;&emsp;&emsp;(ii) Stock owned, directly or indirectly, by or for a person who is considered theowner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners), shall be considered as owned by the trust.
 
 #### (C) To corporations
 
@@ -94,7 +94,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 &emsp;&emsp;<b>(4) section 338(h)(3) (defining purchase);</b>
 
-&emsp;&emsp;<b>(5) section 382(</b><b><i>l</i></b><b>)(3) (relating to special limitations on net operating loss carryovers);</b>
+&emsp;&emsp;<b>(5) section 382(l)(3) (relating to special limitations on net operating loss carryovers);</b>
 
 &emsp;&emsp;<b>(6) section 856(d) (relating to definition of rents from real property in the case of real estate investment trusts);</b>
 
@@ -110,7 +110,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 <b>1997</b>—Subsec. (b)(8). Pub. L. 105–34 substituted “6038(d)(2)” for “6038(d)(1)”.
 
-<b>1986</b>—Subsec. (b)(5). Pub. L. 99–514 substituted “382(<i>l</i>)(3)” for “382(a)(3)”.
+<b>1986</b>—Subsec. (b)(5). Pub. L. 99–514 substituted “382(l)(3)” for “382(a)(3)”.
 
 <b>1984</b>—Subsec. (a)(5)(E). Pub. L. 98–369, §721(j), added subpar. (E).
 
@@ -128,7 +128,7 @@ Subsec. (b)(7), (8). Pub. L. 88–554, §4(b)(2), added par. (7) and redesignate
 
 #### Effective Date of 1997 Amendment
 
-Section 1142(f) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 901 and 6038 of this title\] shall apply to annual accounting periods beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1142(f), Aug. 5, 1997, 111 Stat. 983, provided that: “The amendments made by this section \[amending this section and sections 901 and 6038 of this title\] shall apply to annual accounting periods beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 99–514 applicable to any ownership change after Dec. 31, 
 
 Amendment by section 712(k)(5)(E) of Pub. L. 98–369 not applicable to any qualified stock purchase where the acquisition date is before Sept. 1, 1982, see section 712(k)(9)(A) of Pub. L. 98–369, set out as a note under section 338 of this title.
 
-Amendment by section 712(k)(5)(E) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 712(k)(5)(E) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 Amendment by section 721(j) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 97–248 applicable to any target corporation with respect 
 
 #### Effective Date of 1964 Amendment
 
-Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment of this Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
+Pub. L. 88–554, §4(c), Aug. 31, 1964, 78 Stat. 764, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment of this Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
 
 #### Effective Date of 1960 Amendment
 

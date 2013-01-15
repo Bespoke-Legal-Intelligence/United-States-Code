@@ -64,7 +64,7 @@
 
 &emsp;(vi) benefits under title XX of the Social Security Act;
 
-&emsp;(vii) benefits under the supplemental nutrition assistance program (as defined in section 3(<i>l</i>) of the Food and Nutrition Act of 2008);
+&emsp;(vii) benefits under the supplemental nutrition assistance program (as defined in section 3(l) of the Food and Nutrition Act of 2008);
 
 &emsp;(viii) benefits under chapters 11, 13, 15, 17, and 21 of title 38;
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(ii) be responsible to or subject to the supervision or direction of the investigating official or the reviewing official.
 
-&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do notparticipate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
+&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
 
 &emsp;(E) The provision to any person alleged to be liable under section 3802 of this title of opportunities to present such person's case through oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts.
 
@@ -160,7 +160,7 @@
 
 &emsp;(A) in the judicial district of the United States in which the person alleged to be liable under section 3802 of this title resides or transacts business;
 
-&emsp;(B) in the judicial district of the United States in which the claim or statement upon which the allegation of liability under such section was made, presented, or submitted; or
+&emsp;(B) in the judicial district of the United States in which the claim or statement uponwhich the allegation of liability under such section was made, presented, or submitted; or
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
@@ -178,13 +178,13 @@
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(o), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XVIII (§1395 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to section 1396a(a) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3(<i>l</i>) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(<i>l</i>) of Title 7, Agriculture.
+Section 3(l) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(l) of Title 7, Agriculture.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended, which is classified generally to subchapter IV (§901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
@@ -198,7 +198,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, seeShort Title note set out under section 6801 of Title 42 and Tables.
 
 #### Codification
 
@@ -206,7 +206,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+<b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(l)” for “section 3(h)”.
 
 Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 

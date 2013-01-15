@@ -26,7 +26,7 @@ Pub. L. 107–68, title I, §129(e), Nov. 12, 2001, 115 Stat. 580, provided that
 
 #### Effective Date
 
-Section 2 of Pub. L. 96–146 provided that: “The provisions of this Act \[enacting this section and section 166b of former Title 40, Public Buildings, Property, and Works\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\].”
+Pub. L. 96–146, §2, Dec. 14, 1979, 93 Stat. 1086, provided that: “The provisions of this Act \[enacting this section and section 166b of former Title 40, Public Buildings, Property, and Works\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\].”
 
 #### Salary Increases
 

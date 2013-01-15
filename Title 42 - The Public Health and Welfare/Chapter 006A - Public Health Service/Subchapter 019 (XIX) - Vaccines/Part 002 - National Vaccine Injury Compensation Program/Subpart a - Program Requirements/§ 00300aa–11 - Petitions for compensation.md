@@ -194,7 +194,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Section 201(i) of Pub. L. 102–168 provided that:
+Pub. L. 102–168, title II, §201(i), Nov. 26, 1991, 105 Stat. 1104, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 300aa–12, 300aa–15, 300aa–16, 300aa–19, and 300aa–21 of this title and provisions set out as a note under section 300aa–1 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 26, 1991\].
 
@@ -202,7 +202,7 @@ Section 201(i) of Pub. L. 102–168 provided that:
 
 #### Effective Date of 1990 Amendment
 
-Section 5(h) of Pub. L. 101–502 provided that: “The amendments made by subsections (f)(1) and (g) \[amending section 300aa–21 of this title and provisions set out as a note under section 300aa–1 of this title and enacting provisions set out as a note under section 300aa–12 of this title\] shall take effect as of November 14, 1986, and the amendments made by subsections (a) through (e) and subsection (f)(2) \[amending this section and sections 300aa–12, 300aa–13, 300aa–15, 300aa–16, and 300aa–21 of this title\] shall take effect as of September 30, 1990.”
+Pub. L. 101–502, §5(h), Nov. 3, 1990, 104 Stat. 1289, provided that: “The amendments made by subsections (f)(1) and (g) \[amending section 300aa–21 of this title and provisions set out as a note under section 300aa–1 of this title and enacting provisions set out as a note under section 300aa–12 of this title\] shall take effect as of November 14, 1986, and the amendments made by subsections (a) through (e) and subsection (f)(2) \[amending this section and sections 300aa–12, 300aa–13, 300aa–15, 300aa–16, and 300aa–21 of this title\] shall take effect as of September 30, 1990.”
 
 #### Effective Date of 1989 Amendment
 

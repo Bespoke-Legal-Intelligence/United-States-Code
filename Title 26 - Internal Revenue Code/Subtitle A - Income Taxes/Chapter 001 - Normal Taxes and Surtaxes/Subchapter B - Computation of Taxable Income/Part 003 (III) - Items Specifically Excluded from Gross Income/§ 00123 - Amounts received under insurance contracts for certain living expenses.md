@@ -20,5 +20,5 @@ A prior section 123 was renumbered section 140 of this title.
 
 #### Effective Date
 
-Section 901(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to amounts received on or after January 1, 1969.”
+Pub. L. 91–172, title IX, §901(c), Dec. 30, 1969, 83 Stat. 709, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to amounts received on or after January 1, 1969.”
 

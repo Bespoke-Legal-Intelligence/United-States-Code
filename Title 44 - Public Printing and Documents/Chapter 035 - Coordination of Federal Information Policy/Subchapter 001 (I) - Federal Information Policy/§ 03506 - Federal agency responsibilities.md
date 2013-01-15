@@ -184,7 +184,7 @@
 
 (2) Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961.)
 
 #### References in Text
 
@@ -204,11 +204,11 @@ Subsec. (g)(1). Pub. L. 107–296, §1005(c)(3)(A), and Pub. L. 107–347, §305
 
 Subsec. (g)(2). Pub. L. 107–296, §1005(c)(3)(B), and Pub. L. 107–347, §305(c)(3)(B), amended par. (2) identically, substituting “subchapter II of this chapter” for “section 11332 of title 40” and a period for “; and” at end.
 
-Pub. L. 107–217, §3(<i>l</i>)(6)(A), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(6)(A), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (g)(3). Pub. L. 107–296, §1005(c)(3)(C), and Pub. L. 107–347, §305(c)(3)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: “consistent with section 11332 of title 40, identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
 
-Pub. L. 107–217, §3(<i>l</i>)(6)(B), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Pub. L. 107–217, §3(l)(6)(B), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (i). Pub. L. 107–198, §2(b), added subsec. (i).
 

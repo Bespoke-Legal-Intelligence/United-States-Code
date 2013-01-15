@@ -38,7 +38,7 @@ In general.—The sponsor of a public-use airport carrying out inherently low-em
 
 &emsp;(2)
 
-Eligible consortium.—To the maximum extent practicable, participants in the pilot program shall use an eligible consortium (as defined in section 5506 <sup>1</sup> of this title) in the region of the airport to receive technical assistance described in paragraph (1).
+University transportation center.—To the maximum extent practicable, participants in the pilot program shall use a university transportation center (as defined in section 5506 <sup>1</sup> of this title) in the region of the airport to receive technical assistance described in paragraph (1).
 
 (g)
 
@@ -46,7 +46,7 @@ Materials Identifying Best Practices.—The Administrator may develop and make a
 
 (h)
 
-Report to Congress.—Not later than 18 months after the date of the enactment of thissection, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+Report to Congress.—Not later than 18 months after the date of the enactment of this section, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
 &emsp;(1) an evaluation of the effectiveness of the pilot program;
 
@@ -78,13 +78,17 @@ Inherently Low-Emission Vehicle Activity Defined.—In this section, the term �
 
 &emsp;(4) the acquisition of technological capital equipment to enable the delivery of fuel and services necessary for the use of vehicles described in paragraph (1).
 
-(Added Pub. L. 106–181, title I, §133(a), Apr. 5, 2000, 114 Stat. 81.)
+(Added Pub. L. 106–181, title I, §133(a), Apr. 5, 2000, 114 Stat. 81; amended Pub. L. 112–95, title V, §511(d), Feb. 14, 2012, 126 Stat. 108.)
 
 #### References in Text
 
-Section 5506 of this title, referred to in subsec. (f)(2), was amended by Pub. L. 109–59 and no longer defines the term “eligible consortium”.
+Section 5506 of this title, referred to in subsec. (f)(2), was repealed by Pub. L. 112–141, div. E, title II, §52010(a), July 6, 2012, 126 Stat. 887.
 
 The date of the enactment of this section, referred to in subsec. (h), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (f)(2). Pub. L. 112–95 substituted “University transportation center” for “Eligible consortium” in heading and “a university transportation center” for “an eligible consortium” in text.
 
 #### Effective Date
 

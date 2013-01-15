@@ -70,7 +70,7 @@ Fees, Court Costs.—(1) No fees or court costs may be charged or taxed against 
 
 Definition.—In this section, the term “private employer” includes a political subdivision of a State.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, §311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, §211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III,§311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, §211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167.)
 
 #### Prior Provisions
 

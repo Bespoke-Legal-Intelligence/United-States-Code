@@ -2,7 +2,7 @@
 
 #### (a) Hearings; administration of oaths
 
-The Commission may for the purpose of carrying out this chapter hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission may deem advisable. The Commission may administer oaths of <sup>1</sup> affirmations to witnesses appearing before it.
+The Commission may for the purpose of carrying out this chapter hold such hearings, sit andact at such times and places, take such testimony, and receive such evidence, as the Commission may deem advisable. The Commission may administer oaths of <sup>1</sup> affirmations to witnesses appearing before it.
 
 #### (b) Implementation authority of members or agents of Commission
 

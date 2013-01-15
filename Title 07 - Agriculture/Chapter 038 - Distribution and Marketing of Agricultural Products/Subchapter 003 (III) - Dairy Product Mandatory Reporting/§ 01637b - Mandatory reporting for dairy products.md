@@ -116,7 +116,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (2) Publication
 
-&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shallpublish a report containing the information obtained under this section for the preceding week.
+&emsp;Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secretary shall publish a report containing the information obtained under this section for the preceding week.
 
 #### (e) Authorization of appropriations
 

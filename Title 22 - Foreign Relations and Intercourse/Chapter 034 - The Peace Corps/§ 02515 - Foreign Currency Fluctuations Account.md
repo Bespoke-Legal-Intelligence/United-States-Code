@@ -8,7 +8,7 @@
 
 #### (b) Use of funds in account
 
-Funds transferred under subsection (a) of this section shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding anyprovision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+Funds transferred under subsection (a) of this section shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 
 #### (c) Exchange rates applicable to obligations
 
@@ -44,15 +44,15 @@ Each year the Director of the Peace Corps shall submit to the Committee on Forei
 
 #### Prior Provisions
 
-A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
+A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of personsserving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
 
 #### Effective Date
 
-Section 2(b) of Pub. L. 102–565 provided that: “The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992.”
+Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: “The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992.”
 
 #### Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions
 
-Section 5 of Pub. L. 89–572, Sept. 13, 1966, 80 Stat. 765, provided that:
+Pub. L. 89–572, §5, Sept. 13, 1966, 80 Stat. 765, provided that:
 
 “(a) Section 16 of the Peace Corps Act, as amended \[former section 2515 of this title\], which relates to appointment of persons serving under prior law, section 20 of the Peace Corps Act, as amended, which relates to moratorium on student loans \[amending section 425 of Title 20, Education\], section 21 of the Peace Corps Act, as amended, which amends the Civil Service Retirement Act \[section 8301 et seq. of Title 5, Government Organization and Employees\], and title II of the Act, which relates to Internal Revenue Code and Social Security Act amendments \[amending sections 912, 1303, 3121, 3122, 3401 and 6051 of Title 26, Internal Revenue Code, and sections 405, 409 and 410 of Title 42, The Public Health and Welfare, and notes under sections 912 and 3121 of Title 26\] are hereby repealed.
 

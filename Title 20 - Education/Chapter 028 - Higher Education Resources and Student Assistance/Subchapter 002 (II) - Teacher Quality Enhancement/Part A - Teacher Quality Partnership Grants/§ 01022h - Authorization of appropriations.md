@@ -26,7 +26,7 @@ A prior section 1026, Pub. L. 89–329, title II, §206, as added Pub. L. 105–
 
 Another prior section 1026, Pub. L. 89–329, title II, §206, Nov. 8, 1965, 79 Stat. 1226, related to the accreditation of educational institutions, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1027, Pub. L. 89–329, title II, §207, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat.1632; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to accountability for programs that prepare teachers, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
+A prior section 1027, Pub. L. 89–329, title II, §207, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1632; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to accountability for programs that prepare teachers, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
 Another prior section 1027, Pub. L. 89–329, title II, §207, Nov. 8, 1965, 79 Stat. 1227; Pub. L. 92–318, title I, §131(d)(2)(B), June 23, 1972, 86 Stat. 260, prohibited grants for library resources to be used for sectarian instruction or religious worship, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

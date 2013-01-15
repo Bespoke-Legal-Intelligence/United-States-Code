@@ -12,7 +12,11 @@ In making determinations under section 3796 of this title, the Bureau may utiliz
 
 Notwithstanding any other provision of law, the Bureau is authorized to use appropriated funds to conduct appeals of public safety officers’ death and disability claims.
 
-(Pub. L. 90–351, title I, §1205, formerly §1204, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2100; renumbered §1205, Pub. L. 100–690, title VI, §6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, §2(b), June 16, 1998, 112 Stat. 511.)
+#### (d) References to provisions outside this subchapter
+
+Unless expressly provided otherwise, any reference in this subchapter to any provision of law not in this subchapter shall be understood to constitute a general reference under the doctrine of incorporation by reference, and thus to include any subsequent amendments to the provision.
+
+(Pub. L. 90–351, title I, §1205, formerly §1204, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2100; renumbered §1205, Pub. L. 100–690, title VI, §6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; amended Pub. L. 105–180, §2(b), June 16, 1998, 112 Stat. 511; Pub. L. 112–239, div. A, title X, §1086(b)(1)(F), Jan. 2, 2013, 126 Stat. 1967.)
 
 #### Prior Provisions
 
@@ -22,5 +26,11 @@ Another prior section 3796c, Pub. L. 90–351, title I, §704, as added Pub. L. 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 added subsec. (d).
+
 <b>1998</b>—Subsec. (c). Pub. L. 105–180 added subsec. (c).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of this title.
 

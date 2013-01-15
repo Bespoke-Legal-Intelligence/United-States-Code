@@ -14,7 +14,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained ordeveloped, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -22,7 +22,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
 
-&emsp;(4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
+&emsp;(4) with respect to each foreign country from which the United States Government hassought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
 
 #### (b) Provisions to be included in report
 
@@ -176,7 +176,7 @@ Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided 
 
 Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise expressly provided in this Act, this Act \[enacting sections 403–3g, 403w, 441j to 441j–4, 441m, and 1912 of Title 50, War and National Defense, amending this section and sections 403–4a, 403x, 404n, 1902, 1903, 1910, and 1911 of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 401, 403–1b, 403–3g, 403–4a, 415b, and 1902 of Title 50, and amending provisions set out as notes under section 8331 of Title 5, Government Organization and Employees, and section 402 of Title 50\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
 
-Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: “The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year.”
+Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: “The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act,Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year.”
 
 Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, see section 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
 
@@ -252,7 +252,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 &emsp;“(7) A list of any terrorist suspects in these cases who are members of Palestinian police or security forces, the Palestine Liberation Organization, or any Palestinian governing body.
 
-&emsp;“(8) A list of all United States citizens killed or injured in terrorist attacks in Israel or in territory administered by Israel between 1950 and September 13, 1993, to include in each case, where such information is reasonably available, any stated claim of responsibility and the resolution or disposition of each case,except that this list shall be submitted only once with the initial report required under this section unless additional relevant information on these cases becomes available.
+&emsp;“(8) A list of all United States citizens killed or injured in terrorist attacks in Israel or in territory administered by Israel between 1950 and September 13, 1993, to include in each case, where such information is reasonably available, any stated claim of responsibility and the resolution or disposition of each case, except that this list shall be submitted only once with the initial report required under this section unless additional relevant information on these cases becomes available.
 
 “(b)
 

@@ -6,7 +6,7 @@ The Administrator for Nuclear Security shall authorize the head of each nuclear 
 
 #### (b) Projects and activities
 
-The projects and activities carried out through the program at a nuclear weapons production facility under this section shall support innovative or high-risk design and manufacturing concepts and technologies with potentially high payoff for the nuclear weapons complex. Those projects and activities may include—
+The projects and activities carried out through the program at a nuclear weapons production facility under this section shall support innovative or high-risk design and manufacturing concepts and technologies with potentially high payoff for the nuclear security enterprise. Those projects and activities may include—
 
 &emsp;(1) replacement of obsolete or aging design and manufacturing technologies;
 
@@ -14,23 +14,17 @@ The projects and activities carried out through the program at a nuclear weapons
 
 &emsp;(3) training, recruitment, or retention of essential personnel in critical engineering and manufacturing disciplines.
 
-#### (c) Funding
-
-The Administrator may authorize the head of each nuclear weapons production facility to obligate up to $3,000,000 of funds within the Advanced Design and Production Technologies Campaign available for such facility during fiscal year 2001 to carry out projects and activities of the program under this section at that facility.
-
-#### (d) Report
-
-The Administrator for Nuclear Security shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than September 15, 2001, a report describing, for each nuclear weapons production facility, each project or activity for which funds were obligated under the program, the criteria used in the selection of each such project or activity, the potential benefits of each such project or activity, and the Administrator's recommendation concerning whether the program should be continued.
-
-#### (e) Definition
-
-For purposes of this section, the term “nuclear weapons production facility” has the meaning given that term in section 2471(2) of this title.
-
-(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785.)
+(Pub. L. 107–314, div. D, title XLVIII, §4832, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3156\], Oct. 30, 2000, 114 Stat. 1654, 1654A–467; renumbered Pub. L. 107–314, div. D, title XLVIII, §4832, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(12), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 112–239, div. C, title XXXI, §3131(z), Jan. 2, 2013, 126 Stat. 2185.)
 
 #### Codification
 
 Section was formerly set out as a note under section 7274r of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §3131(z)(1), substituted “nuclear security enterprise” for “nuclear weapons complex” in introductory provisions.
+
+Subsecs. (c) to (e). Pub. L. 112–239, §3131(z)(2), struck out subsecs. (c) to (e), which related, respectively, to funding, a report, and definition of “nuclear weapons production facility”.
 
 #### Activities at Covered Nuclear Weapons Facilities
 

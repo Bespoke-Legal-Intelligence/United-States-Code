@@ -44,7 +44,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (B) Applicability
 
-&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
+&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of theCommonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
 
 #### (3) Definitions
 
@@ -282,7 +282,7 @@ Amendment by section 127(b) of Pub. L. 98–369 applicable to interest received 
 
 Amendment by section 128(b) of Pub. L. 98–369 applicable to payments made on or after the 60th day after July 18, 1984, with respect to obligations issued after Mar. 31, 1972, see section 128(d)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
-Section 130(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1442 and 7651 of this title\] shall apply to payments made after March 1, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §130(d), July 18, 1984, 98 Stat. 661, provided that: “The amendments made by this section \[amending this section and sections 1442 and 7651 of this title\] shall apply to payments made after March 1, 1984, in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -290,7 +290,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: “The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1971 Amendment
 

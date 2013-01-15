@@ -46,7 +46,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;(A) the Board determines that the local community, neighborhood, or rural district—
 
-&emsp;&emsp;&emsp;(i) is an “investment area”, as defined in section 4702(16) of this title, and meetssuch additional requirements as the Board may impose; and
+&emsp;&emsp;&emsp;(i) is an “investment area”, as defined in section 4702(16) of this title, and meets such additional requirements as the Board may impose; and
 
 &emsp;&emsp;&emsp;(ii) is underserved, based on data of the Board and the Federal banking agencies (as defined in section 1813 of this title), by other depository institutions (as defined in section 461(b)(1)(A) of this title); and
 
@@ -130,7 +130,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998.
 
-(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, §726(9), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, §109, formerly §9, 48 Stat. 1219; July 31, 1946, ch. 711, §2, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947,12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §10 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §109, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, §726(9), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### Amendments
 

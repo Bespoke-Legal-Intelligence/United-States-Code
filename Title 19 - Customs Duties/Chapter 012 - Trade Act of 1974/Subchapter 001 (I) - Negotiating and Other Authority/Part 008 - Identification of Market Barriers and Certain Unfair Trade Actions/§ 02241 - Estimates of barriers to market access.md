@@ -48,7 +48,11 @@
 
 > &emsp;&emsp;the foreign country during the calendar year for which the estimate under paragraph (1)(C) is made.
 
-#### (3) Annual revisions and updates
+#### (3) Inclusion of certain discriminatory laws, policies, and practices of the Russian Federation
+
+&emsp;For calender <sup>4</sup> year 2012 and each succeeding calendar year, the Trade Representative shall include in the analyses and estimates under paragraph (1) an identification and analysis of any laws, policies, or practices of the Russian Federation that deny fair and equitable market access to United States digital trade.
+
+#### (4) Annual revisions and updates
 
 &emsp;The Trade Representative shall annually revise and update the analysis and estimate under paragraph (1).
 
@@ -88,15 +92,17 @@
 
 #### (d) Electronic commerce
 
-For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) <sup>4</sup> of the Internet Tax Freedom Act.
+For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) <sup>5</sup> of the Internet Tax Freedom Act.
 
-(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726.)
+(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726; Pub. L. 112–208, title II, §203, Dec. 14, 2012, 126 Stat. 1501.)
 
 #### References in Text
 
-Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), was redesignated section 1105(3) of the Act by Pub. L. 108–435, §3(1), Dec. 3, 2004, 118 Stat. 2616, and is set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), was redesignated section 1105(3) of the Act by Pub. L. 108–435, §3(1), Dec. 3, 2004, 118 Stat. 2616, and is set out in a note under section 151 of Title 47, Telecommunications.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3), (4). Pub. L. 112–208 added par. (3) and redesignated former par. (3) as (4).
 
 <b>1998</b>—Subsec. (a)(1)(A)(iii). Pub. L. 105–277, §1202(1)(A), added cl. (iii).
 
@@ -108,7 +114,7 @@ Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
 <b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
+Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of,the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
 
 Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end “In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.”
 
@@ -138,7 +144,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] or the amendments made by such Act.”
+Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications\] or the amendments made by such Act.”
 
 #### Declaration That the Internet Should Be Free of Foreign Tariffs, Trade Barriers, and Other Restrictions
 
@@ -172,7 +178,7 @@ Negotiating Objectives.—The negotiating objectives of the United States shall 
 
 “(c)
 
-Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1105(3), set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
+Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1105(3), set out in a note under section 151 of Title 47, Telecommunications\].”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 
@@ -180,5 +186,7 @@ Electronic Commerce.—For purposes of this section, the term ‘electronic comm
 
 <i><sup>3</sup></i><i> So in original.</i>
 
-<i><sup>4</sup></i><i> So in original. See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “calendar”.</i>
+
+<i><sup>5</sup></i><i> So in original. See References in Text note below.</i>
 

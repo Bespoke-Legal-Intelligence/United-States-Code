@@ -16,7 +16,7 @@
 
 (c) No travel or transportation allowance, payment, or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §408; Pub. L. 99–145, title VI, §619(a), Nov. 8, 1985, 99 Stat. 642; Pub. L. 100–26, §8(d)(6), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–190, div. A, title VI, §623, Dec. 5, 1991, 105 Stat. 1379; renumbered §478 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(11), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §408; Pub. L. 99–145, title VI, §619(a), Nov. 8, 1985, 99 Stat. 642; Pub. L. 100–26, §8(d)(6), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–190, div. A, title VI, §623, Dec. 5, 1991, 105 Stat. 1379; renumbered §478 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(11), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -34,15 +34,13 @@ June 30, 1949, ch. 288, §211(m); added Sept. 1, 1954, ch. 1211, §2 (13th par.)
 
 The words “(as defined in the Career Compensation Act of 1949, as amended)” and “so directed” are omitted as surplusage. The words “official business of the United States” are substituted for the words “official Government business”.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 408 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), substituted “474” for “404”. See Codification note above.
+Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
 
 Subsec. (c). Pub. L. 112–81, §631(e)(11), added subsec. (c).
 
@@ -52,7 +50,11 @@ Subsec. (c). Pub. L. 112–81, §631(e)(11), added subsec. (c).
 
 <b>1985</b>—Pub. L. 99–145 inserted “plus parking fees” after “fixed rate a mile”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 1985 Amendment
 
-Section 619(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985.”
+Pub. L. 99–145, title VI, §619(b), Nov. 8, 1985, 99 Stat. 642, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985.”
 

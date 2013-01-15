@@ -16,7 +16,7 @@ Applications for financial assistance under this part for energy conservation pr
 
 &emsp;(A) related State programs for educational facilities in such State, and
 
-&emsp;(B) State health plans under section 300m–3(c)(2) <sup>1</sup> and 300<i>o</i>–2 <sup>1</sup> of this title, and shall be coordinated through the review mechanisms required under section 300m–2 <sup>1</sup> of this title and section 1320a–1 of this title.
+&emsp;(B) State health plans under section 300m–3(c)(2) <sup>1</sup> and 300o–2 <sup>1</sup> of this title, and shall be coordinated through the review mechanisms required under section 300m–2 <sup>1</sup> of this title and section 1320a–1 of this title.
 
 #### (d) Compliance required for approval; reasons for disapproval; resubmittal; amendment
 
@@ -30,7 +30,7 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to a
 
 #### References in Text
 
-Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, byPub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
 Section 300<i>o–</i>2 of this title, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 96–79, title II, §202(a), Oct. 4, 1979, 93 Stat. 632.
 

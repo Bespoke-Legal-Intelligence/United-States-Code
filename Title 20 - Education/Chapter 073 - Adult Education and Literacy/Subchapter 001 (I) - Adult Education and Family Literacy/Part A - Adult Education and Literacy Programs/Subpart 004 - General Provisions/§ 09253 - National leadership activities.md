@@ -24,7 +24,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(iii) disseminating best practices information, including information regarding promising practices resulting from federally funded demonstration programs;
 
-&emsp;&emsp;(E) providing for the conduct of an independent evaluation and assessment of adult education and literacy activities through studies and analyses conducted independently through grants and contracts awarded on a competitive basis, which evaluation and assessment shall include descriptions of—
+&emsp;&emsp;(E) providing for the conduct of an independent evaluation and assessment of adult education and literacy activities through studies and analyses conducted independently through grants and contracts awardedon a competitive basis, which evaluation and assessment shall include descriptions of—
 
 &emsp;&emsp;&emsp;(i) the effect of performance measures and other measures of accountability on the delivery of adult education and literacy activities, including family literacy services;
 

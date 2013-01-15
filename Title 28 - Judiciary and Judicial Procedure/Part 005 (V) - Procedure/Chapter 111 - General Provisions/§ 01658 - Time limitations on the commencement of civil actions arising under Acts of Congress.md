@@ -24,7 +24,7 @@ Pub. L. 107–204, title VIII, §804(b), July 30, 2002, 116 Stat. 801, provided 
 
 #### Effective Date
 
-Section 313(c) of Pub. L. 101–650 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to causes of action accruing on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
+Pub. L. 101–650, title III, §313(c), Dec. 1, 1990, 104 Stat. 5115, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to causes of action accruing on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
 #### No Creation of Actions
 

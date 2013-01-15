@@ -114,7 +114,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, provided that:
 
 &emsp;“(22) The participants in the 2002 World Summit on Sustainable Development, held in Johannesburg, South Africa, including the United States, agreed to the Plan of Implementation of the World Summit on Sustainable Development which included an agreement to work to reduce by one-half ‘the proportion of people who are unable to reach or afford safe drinking water,’ and ‘the proportion of people without access to basic sanitation’ by 2015.
 
-&emsp;“(23) At the World Summit on Sustainable Development, the United States announced the Water for the Poor Initiative, committing $970 million for fiscal years 2003 through 2005 to improve sustainable management of fresh water resources and accelerate and expand international efforts to achieve the goal of cutting in half by 2015 the proportion of people who are unable to reach or to afford safe drinking water.
+&emsp;“(23) At the World Summit on Sustainable Development, the United States announced the Water for the Poor Initiative, committing $970 million for fiscalyears 2003 through 2005 to improve sustainable management of fresh water resources and accelerate and expand international efforts to achieve the goal of cutting in half by 2015 the proportion of people who are unable to reach or to afford safe drinking water.
 
 &emsp;“(24) United Nations General Assembly Resolution 58/217 (February 9, 2004) proclaimed ‘the period from 2005 to 2015 the International Decade for Action, “Water for Life”, to commence on World Water Day, 22 March 2005’ for the purpose of increasing the focus of the international community on water-related issues at all levels and on the implementation of water-related programs and projects.
 
@@ -192,7 +192,7 @@ Consistent With Safe Water and Sanitation Policy.—The strategy required by sub
 
 Content.—The strategy required by subsection (a) shall include—
 
-&emsp;“(1) an assessment of the activities that have been carried out, or that are planned to be carried out, byall appropriate Federal departments and agencies to improve affordable and equitable access to safe water and sanitation in all countries that receive assistance from the United States;
+&emsp;“(1) an assessment of the activities that have been carried out, or that are planned to be carried out, by all appropriate Federal departments and agencies to improve affordable and equitable access to safe water and sanitation in all countries that receive assistance from the United States;
 
 &emsp;“(2) specific and measurable goals, benchmarks, and timetables to achieve the objective described in subsection (a);
 
@@ -206,7 +206,7 @@ Content.—The strategy required by subsection (a) shall include—
 
 “(f)
 
-Designation of High Priority Countries.—The strategy required by subsection (a) shall further include the designation of high priority countries for assistance under section 135 of the Foreign Assistance Act of 1961, as added by section 5(a) of this Act. This designation shall be made on the basis of—
+Designation of High Priority Countries.—The strategy required by subsection (a) shall further include the designation of high priority countries for assistance under section 135 of the Foreign AssistanceAct of 1961, as added by section 5(a) of this Act. This designation shall be made on the basis of—
 
 &emsp;“(1) countries in which the need for increased access to safe water and sanitation is greatest; and
 

@@ -26,7 +26,7 @@ There is established a Towing Safety Advisory Committee (hereinafter referred to
 
 #### (b) Appointments; Chairman, Vice Chairman, and observers; publication in Federal Register
 
-The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, theChairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
 
 #### (c) Functions; meetings; public proceedings and records; disclosures to Congress
 
@@ -34,7 +34,7 @@ The Committee shall advise, consult with, and make recommendations to the Secret
 
 #### (d) Compensation and travel expenses; administrative services; personnel; authorization of appropriations
 
-Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
+Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committeean executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
 
 #### (e) Termination
 

@@ -18,5 +18,5 @@ The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug.
 
 #### Short Title
 
-Section 1 of Pub. L. 102–250 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Reclamation States Emergency Drought Relief Act of 1991’.”
+Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Reclamation States Emergency Drought Relief Act of 1991’.”
 

@@ -68,7 +68,7 @@ In the case of any study or design documents for a flood control project that we
 
 #### (A) Reimbursement or credit
 
-&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection\(f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
+&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
 
 #### (B) Credit
 
@@ -184,7 +184,7 @@ Section 101(13) of the Water Resources Development Act of 1992, referred to in s
 
 The first section of the River and Harbor Act of June 20, 1938, referred to in subsec. (f)(15), is section 1 of act June 20, 1938, ch. 535, 52 Stat. 802, which is classified in part to section 540 of this title.
 
-Section 3a of the Flood Control Act of August 11, 1939, referred to in subsec. (f)(15), is section 3a of act Aug. 11, 1939, ch. 699, 53 Stat. 1414, which is not classified to the Code.
+Section 3a of the Flood Control Act of August 11, 1939, referred to in subsec. (f)(15), is section 3a of act Aug. 11,1939, ch. 699, 53 Stat. 1414, which is not classified to the Code.
 
 #### Amendments
 

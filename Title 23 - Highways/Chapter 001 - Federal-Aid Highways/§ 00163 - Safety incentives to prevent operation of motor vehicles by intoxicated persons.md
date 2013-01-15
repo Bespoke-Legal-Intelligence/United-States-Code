@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary shall make a grant, in accordance with this section, to any State that has enacted and is enforcing a law that provides that any person with a blood alcohol concentration of 0.08 percent or greater while operating a motor vehicle in the State shall be deemed to have committed a per se offense of driving while intoxicated (or an equivalent per se offense).
+General Authority.—The Secretary shall make a grant, in accordance with this section, to any State that has enacted and is enforcing alaw that provides that any person with a blood alcohol concentration of 0.08 percent or greater while operating a motor vehicle in the State shall be deemed to have committed a per se offense of driving while intoxicated (or an equivalent per se offense).
 
 (b)
 
@@ -26,19 +26,11 @@ Penalty.—
 
 &emsp;(1)
 
-In general.—On October 1, 2003, and October 1 of each fiscal year thereafter, if a State has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold from amounts apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) an amount equal to the amount specified in paragraph (2).
+Fiscal years 2007 through 2011.—On October 1, 2006, and October 1 of each fiscal year thereafter through fiscal year 2011, if a State has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold an amount equal to 8 percent of the amounts to be apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b).<sup>1</sup>
 
 &emsp;(2)
 
-Amount to be withheld.—If a State is subject to a penalty under paragraph (1), the Secretary shall withhold for a fiscal year from the apportionments of the State described in paragraph (1) an amount equal to a percentage of the funds apportioned to the State under paragraphs (1), (3), and (4) of section 104(b) for fiscal year 2003. The percentage shall be as follows:
-
-&emsp;&emsp;(A) For fiscal year 2004, 2 percent.
-
-&emsp;&emsp;(B) For fiscal year 2005, 4 percent.
-
-&emsp;&emsp;(C) For fiscal year 2006, 6 percent.
-
-&emsp;&emsp;(D) For fiscal year 2007, and each fiscal year thereafter, 8 percent.
+Fiscal year 2012 and thereafter.—On October 1, 2011, and October 1 of each fiscal year thereafter, if a State has not enacted or is not enforcing a law described in subsection (a), the Secretary shall withhold an amount equal to 6 percent of the amounts to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b).
 
 &emsp;(3)
 
@@ -50,15 +42,23 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $55,000,000 for fiscal year 1998, $65,000,000 for fiscal year 1999, $80,000,000 for fiscal year 2000, $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $110,000,000 for fiscal year 2004, and $110,000,000 for fiscal year 2005 $91,315,068 for the period of October 1, 2004, through July 30, 2005.<sup>1</sup>
+In general.—There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $55,000,000 for fiscal year 1998, $65,000,000 for fiscal year 1999, $80,000,000 for fiscal year 2000, $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $110,000,000 for fiscal year 2004, and $110,000,000 for fiscal year 2005 $91,315,068 for the period of October 1, 2004, through July 30, 2005.<sup>2</sup>
 
 &emsp;(2)
 
-Availability of funds.—Notwithstanding section 118(b)(2), the funds authorized by this subsection shall remain available until expended.
+Availability of funds.—Notwithstanding section 118(b)(2),<sup>1</sup> the funds authorized by this subsection shall remain available until expended.
 
-(Added Pub. L. 105–178, title I, §1404(a), June 9, 1998, 112 Stat. 240; amended Pub. L. 108–88, §6(a)(2), Sept. 30, 2003, 117 Stat. 1119; Pub. L. 108–202, §6(b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(b), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(2), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(2), May 31, 2005, 119 Stat. 329; Pub. L. 109–20, §5(a)(2), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(2), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(2), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(2), July 28, 2005, 119 Stat. 416; Pub. L. 109–59, title I, §1407(a), (b), Aug. 10, 2005, 119 Stat. 1231.)
+(Added Pub. L. 105–178, title I, §1404(a), June 9, 1998, 112 Stat. 240; amended Pub. L. 108–88, §6(a)(2), Sept. 30, 2003, 117 Stat. 1119; Pub. L. 108–202, §6(b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(b), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(2), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(2), May 31, 2005, 119 Stat. 329; Pub. L. 109–20, §5(a)(2), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(2), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(2), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(2), July 28, 2005, 119 Stat. 416; Pub. L. 109–59, title I, §1407(a), (b), Aug. 10, 2005, 119 Stat. 1231; Pub. L. 112–141, div. A, title I, §1404(i), July 6, 2012, 126 Stat. 559.)
+
+#### References in Text
+
+Section 104, referred to in subsec. (e)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+
+Section 118(b) of this title, referred to in subsec. (f)(2), was amended by section 1519(c)(5) of Pub. L. 112–141 and no longer contains a par. (2).
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e)(1), (2). Pub. L. 112–141 added pars. (1) and (2) and struck out former pars. (1) and (2) which related to penalty generally and amount to be withheld, respectively.
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59, §1407(a)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -86,11 +86,17 @@ Pub. L. 108–224 substituted “$90,000,000 for the period of October 1, 2003, 
 
 Pub. L. 108–202 substituted “$70,000,000 for the period of October 1, 2003, through April 30, 2004” for “$50,000,000 for the period of October 1, 2003, through February 29, 2004”.
 
-<b>2003</b>—Subsec. (e)(1). Pub. L. 108–88 struck out “and” after “2002,” and inserted before period at end “, and $50,000,000 for the period of October 1, 2003, through February 29, 2004”.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–88 struck out “and” after “2002,” and inserted before period at end “, and$50,000,000 for the period of October 1, 2003, through February 29, 2004”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Withholding of Funds for Failure To Enact and Enforce Laws Relating to Driving While Intoxicated
 
-Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under pars. (1), (3), and (4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
+Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under former pars. (1), (3), and (4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
 
-<i><sup>1</sup></i><i> So in original. The words “$91,315,068 for the period of October 1, 2004, through July 30, 2005” probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The words “$91,315,068 for the period of October 1, 2004, through July 30, 2005” probably should not appear.</i>
 

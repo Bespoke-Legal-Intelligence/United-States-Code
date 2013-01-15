@@ -22,7 +22,7 @@ Indiana is divided into two judicial districts to be known as the Northern and S
 
 (b) The Southern District comprises four divisions.
 
-&emsp;&emsp;(1) The Indianapolis Division comprises the counties of Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain, Franklin, Hamilton, Hancock, Hendricks, Henry, Howard, Johnson, Madison, Marion, Monroe, Montgomery,Morgan, Randolph, Rush, Shelby, Tipton, Union, and Wayne.
+&emsp;&emsp;(1) The Indianapolis Division comprises the counties of Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain, Franklin, Hamilton, Hancock, Hendricks, Henry, Howard, Johnson, Madison, Marion, Monroe, Montgomery, Morgan, Randolph, Rush, Shelby, Tipton, Union, and Wayne.
 
 &emsp;&emsp;Court for the Indianapolis Division shall be held at Indianapolis and Richmond.
 

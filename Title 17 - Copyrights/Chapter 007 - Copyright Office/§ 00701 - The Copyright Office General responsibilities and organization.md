@@ -10,11 +10,11 @@
 
 &emsp;(3) Participate in meetings of international intergovernmental organizations and meetings with foreign government officials relating to copyright, other matters arising under this title, and related matters, including as a member of United States delegations as authorized by the appropriate Executive branch authority.
 
-&emsp;(4) Conduct studies and programs regarding copyright, other matters arising under this title, and related matters, the administration of the Copyright Office, or any function vested in the Copyright Office by law, including educational programs conducted cooperatively with foreign intellectual property offices and international intergovernmental organizations.
+&emsp;(4) Conduct studies and programs regarding copyright, other matters arising under thistitle, and related matters, the administration of the Copyright Office, or any function vested in the Copyright Office by law, including educational programs conducted cooperatively with foreign intellectual property offices and international intergovernmental organizations.
 
 &emsp;(5) Perform such other functions as Congress may direct, or as may be appropriate in furtherance of the functions and duties specifically set forth in this title.
 
-(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, toauthenticate all certified documents issued by the Copyright Office.
+(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office.
 
 (d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress.
 
@@ -38,7 +38,7 @@ Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted �
 
 #### Effective Date of 1990 Amendment
 
-Section 5 of Pub. L. 101–319 provided that:
+Pub. L. 101–319, §5, July 3, 1990, 104 Stat. 291, provided that:
 
 “(a)
 

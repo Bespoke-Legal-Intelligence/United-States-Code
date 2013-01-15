@@ -36,7 +36,7 @@ Section is comprised of section 101(a) \[title VIII, §803\] of Pub. L. 106–42
 
 #### Definitions
 
-Pub. L. 106–429, §101(a) \[title VIII, §806\], Nov. 6, 2000, 114 Stat. 1900, 1900A–68, provided that: “In this title \[enacting this section and section 286<i>oo</i> of this title and amending sections 262r–4, 286nn, and 2169 of this title\]:
+Pub. L. 106–429, §101(a) \[title VIII, §806\], Nov. 6, 2000, 114 Stat. 1900, 1900A–68, provided that: “In this title \[enacting this section and section 286oo of this title and amending sections 262r–4, 286nn, and 2169 of this title\]:
 
 &emsp;“(1)
 

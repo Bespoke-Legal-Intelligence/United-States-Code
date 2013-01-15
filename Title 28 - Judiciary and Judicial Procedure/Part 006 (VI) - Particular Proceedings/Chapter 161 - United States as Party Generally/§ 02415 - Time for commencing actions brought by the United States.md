@@ -62,11 +62,11 @@ Pub. L. 92–353, §1(b), increased the period of limitation to six years and ni
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–394, as amended by Pub. L. 98–250, §4(b), Apr. 3, 1984, 98 Stat. 119, provided that: “Sections 2 through 6 of this Act \[amending this section and enacting provisions set out below\] may be cited as the ‘Indian Claims Limitation Act of 1982’.”
+Pub. L. 97–394, title I, §1, Dec. 30, 1982, 96 Stat. 1976, as amended by Pub. L. 98–250, §4(b), Apr. 3, 1984, 98 Stat. 119, provided in part that: “Sections 2 through 6 of this Act \[amending this section and enacting provisions set out below\] may be cited as the ‘Indian Claims Limitation Act of 1982’.”
 
 #### Publication of List of Indian Claims; Additional Claims; Time To Commence Action; Rejection of Claims; Claims Resolved By Legislation
 
-Sections 3 to 6 of Pub. L. 97–394 provided that:
+Pub. L. 97–394, title I, §§3–6, Dec. 30, 1982, 96 Stat. 1977, 1978, provided that:
 
 “
 
@@ -74,7 +74,7 @@ Sec. 3. (a) Within ninety days after the enactment of this Act \[Dec. 30, 1982\]
 
 “(b) Such list shall group the claims on a reservation-by-reservation, tribe-by-tribe, or State-by-State basis, as appropriate, and shall state the nature and geographic location of each claim and only such other additional information as may be needed to identify specifically such claims.
 
-“(c) Within thirty days after the publication of this list, the Secretary shall provide a copy of the Indian Claims Limitation Act of 1982 \[see Short Title of 1982 Amendment note above\] and a copy of the Federal Register containing this list, or such parts as may be pertinent, to each Indian tribe, band or group whose rights or the rights of whose members could be affected by the provisions of section 2415 of title 28, United States Code.
+“(c) Within thirty days after the publication of this list, the Secretary shall provide a copy of the Indian Claims Limitation Act of 1982 \[see Short Title of 1982 Amendment note above\] and a copy of the Federal Register containing this list, or such parts as may be pertinent, to each Indian tribe, band or group whose rights or the rights of whose members could be affected by theprovisions of section 2415 of title 28, United States Code.
 
 “
 

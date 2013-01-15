@@ -6,5 +6,5 @@ A prior section 2095, Pub. L. 92–181, title II, §2.14, Dec. 10, 1971, 85 Stat
 
 #### Construction of Repeal
 
-Section 401(v) of Pub. L. 100–399 repealed this section and provided that this chapter be applied and administered as if this section had not been enacted.
+Pub. L. 100–399, title IV, §401(v), Aug. 17, 1988, 102 Stat. 999, repealed this section and provided that this chapter be applied and administered as if this section had not been enacted.
 

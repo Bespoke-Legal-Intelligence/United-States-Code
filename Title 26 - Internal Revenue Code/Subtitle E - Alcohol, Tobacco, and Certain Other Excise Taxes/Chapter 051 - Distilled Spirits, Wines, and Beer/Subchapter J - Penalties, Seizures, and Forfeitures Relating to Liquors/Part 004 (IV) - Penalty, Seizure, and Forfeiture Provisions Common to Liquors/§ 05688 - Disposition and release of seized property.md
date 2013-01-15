@@ -18,7 +18,7 @@
 
 #### (3) Limitation on disposal
 
-&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have beenseized under any law of the United States may be disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
+&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have been seized under any law of the United States may be disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
 
 #### (4) Regulations
 

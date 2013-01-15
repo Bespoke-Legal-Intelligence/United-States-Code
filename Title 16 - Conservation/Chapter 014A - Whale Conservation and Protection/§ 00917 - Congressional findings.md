@@ -30,13 +30,13 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Short Title
 
-Section 1 of Pub. L. 94–532 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Whale Conservation and Protection Study Act’.”
+Pub. L. 94–532, §1, Oct. 17, 1976, 90 Stat. 2491, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Whale Conservation and Protection Study Act’.”
 

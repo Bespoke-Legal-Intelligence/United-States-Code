@@ -44,7 +44,7 @@
 
 (e) Sick and annual leave, and compensatory time of officers and employees of the Postal Service, whether accrued prior to or after commencement of operations of the Postal Service, shall be obligations of the Postal Service under the provisions of this chapter.
 
-(f) Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rules and regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service inaccordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87, 89, 89A, and 89B of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
+(f) Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rulesand regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service in accordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87, 89, 89A, and 89B of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, §2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, §306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, §1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, §3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, §5, Dec. 23, 2004, 118 Stat. 4011; Pub. L. 109–435, title X, §1010(g)(1), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 111–84, div. A, title XI, §1122(d), title XIX, §1916(b)(1), Oct. 28, 2009, 123 Stat. 2509, 2624; Pub. L. 111–383, div. A, title X, §1075(d)(22), Jan. 7, 2011, 124 Stat. 4374.)
 
@@ -66,7 +66,7 @@ Pub. L. 111–84, §1916(b)(1)(B), as amended by Pub. L. 111–383, substituted 
 
 Subsec. (b)(2). Pub. L. 111–84, §1916(b)(1)(D), added par. (2).
 
-Subsec. (d)(2). Pub. L. 111–84, §1122(d), in introductory provisions, substituted “(m)(2)” for “(<i>l</i>)(2)” and “(j)(2)” for “(i)(2)”.
+Subsec. (d)(2). Pub. L. 111–84, §1122(d), in introductory provisions, substituted “(m)(2)” for “(l)(2)” and “(j)(2)” for “(i)(2)”.
 
 <b>2006</b>—Subsec. (d)(2). Pub. L. 109–435 struck out “subsection (g) of section 5532,” after “The provisions of” and substituted “8344” for “8344,”.
 
@@ -94,11 +94,11 @@ Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contra
 
 #### Effective Date of 1987 Amendment
 
-Section 1(b)(1) of Pub. L. 100–90 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\].”
+Pub. L. 100–90, §1(b)(1), Aug. 18, 1987, 101 Stat. 673, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\].”
 
 #### Effective Date of 1974 Amendment
 
-Section 3 of Pub. L. 93–349 provided that: “The effective date of this Act \[amending this section and section 8348 of Title 5, Government Organization and Employees\] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 \[which is not classified to the Code\].”
+Pub. L. 93–349, §3, July 12, 1974, 88 Stat. 354, provided that: “The effective date of this Act \[amending this section and section 8348 of Title 5, Government Organization and Employees\] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 \[which is not classified to the Code\].”
 
 #### Effective Date
 
@@ -110,7 +110,7 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 
 #### Abatement of Actions
 
-Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B)of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
+Pub. L. 100–90, §1(b)(2), Aug. 18, 1987, 101 Stat. 673, provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

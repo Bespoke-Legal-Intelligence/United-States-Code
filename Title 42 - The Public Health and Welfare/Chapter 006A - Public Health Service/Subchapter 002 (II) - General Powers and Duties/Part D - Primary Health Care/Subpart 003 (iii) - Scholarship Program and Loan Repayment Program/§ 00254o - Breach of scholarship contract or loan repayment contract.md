@@ -2,7 +2,7 @@
 
 #### (a) Failure to maintain academic standing; dismissal from institution; voluntary termination; liability; failure to accept payment
 
-(1) An individual who has entered into a written contract with the Secretary under section 254<i>l</i> of this title and who—
+(1) An individual who has entered into a written contract with the Secretary under section 254l of this title and who—
 
 &emsp;(A) fails to maintain an acceptable level of academic standing in the educational institution in which he is enrolled (such level determined by the educational institution under regulations of the Secretary);
 
@@ -12,17 +12,17 @@
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the amount which has been paid to him, or on his behalf, under the contract.
 
-(2) An individual who has entered into a written contract with the Secretary under section 254<i>l</i>–1 of this title and who—
+(2) An individual who has entered into a written contract with the Secretary under section 254l–1 of this title and who—
 
 &emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254<i>l</i>–1(b)(1)(B)(ii) of this title,
+&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254l–1(b)(1)(B)(ii) of this title,
 
 > in lieu of any service obligation arising under such contract shall be liable to the United States for the amount that has been paid on behalf of the individual under the contract.
 
 #### (b) Failure to commence or complete service obligations; formula to determine liability; payment to United States; recovery of delinquent damages; disclosure to credit reporting agencies
 
-(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
@@ -46,17 +46,17 @@
 
 (2) If an individual is released under section 254n <sup>1</sup> of this title from a service obligation under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) and if the individual does not meet the service obligation incurred under section 254n <sup>1</sup> of this title, subsection (f) of such section 234 <sup>1</sup> of this title shall apply to such individual in lieu of paragraph (1) of this subsection.
 
-(3) The Secretary may terminate a contract with an individual under section 254<i>l</i> of this titleif, not later than 30 days before the end of the school year to which the contract pertains, the individual—
+(3) The Secretary may terminate a contract with an individual under section 254l of this title if, not later than 30 days before the end of the school year to which the contract pertains, the individual—
 
 &emsp;(A) submits a written request for such termination; and
 
-&emsp;(B) repays all amounts paid to, or on behalf of, the individual under section 254<i>l</i>(g) of this title.
+&emsp;(B) repays all amounts paid to, or on behalf of, the individual under section 254l(g) of this title.
 
 #### (c) Failure to commence or complete service obligations for other reasons; determination of liability; payment to United States; waiver of recovery for extreme hardship or good cause shown
 
-(1) If (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) an individual breaches the written contract of the individual under section 254<i>l</i>–1 of this title by failing either to begin such individual's service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
+(1) If (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) an individual breaches the written contract of the individual under section 254l–1 of this title by failing either to begin such individual's service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
 
-&emsp;(A) the total of the amounts paid by the United States under section 254<i>l</i>–1(g) of this title on behalf of the individual for any period of obligated service not served;
+&emsp;(A) the total of the amounts paid by the United States under section 254l–1(g) of this title on behalf of the individual for any period of obligated service not served;
 
 &emsp;(B) an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
 
@@ -64,11 +64,11 @@
 
 > except that the amount the United States is entitled to recover under this paragraph shall not be less than $31,000.
 
-(2) The Secretary may terminate a contract with an individual under section 254<i>l</i>–1 of this title if, not later than 45 days before the end of the fiscal year in which the contract was entered into, the individual—
+(2) The Secretary may terminate a contract with an individual under section 254l–1 of this title if, not later than 45 days before the end of the fiscal year in which the contract was entered into, the individual—
 
 &emsp;(A) submits a written request for such termination; and
 
-&emsp;(B) repays all amounts paid on behalf of the individual under section 254<i>l</i>–1(g) of this title.
+&emsp;(B) repays all amounts paid on behalf of the individual under section 254l–1(g) of this title.
 
 (3) Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B) of this section.
 
@@ -82,7 +82,7 @@
 
 (B)(i) Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
 
-(ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup>2</sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
+(ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup>1</sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 
 #### (e) Inapplicability of Federal and State statute of limitations on actions for collection
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 (Public Law 107–251) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(<i>l</i>)(1), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
@@ -108,17 +108,17 @@ Section was formerly classified to section 294w of this title prior to its renum
 
 #### Prior Provisions
 
-A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified to section 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
+A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified tosection 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(1). Pub. L. 108–163, §2(<i>l</i>)(1)(A), realigned margins.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–163, §2(l)(1)(A), realigned margins.
 
-Subsec. (f). Pub. L. 108–163, §2(<i>l</i>)(1)(B), added subsec. (f).
+Subsec. (f). Pub. L. 108–163, §2(l)(1)(B), added subsec. (f).
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
 
-Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
+Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
 
 Pub. L. 107–251, §313(a)(2)(A)(i), made technical amendment to reference in original act which appears in text as reference to section 254p of this title.
 
@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
 Subsec. (a). Pub. L. 100–177, §202(e)(1), designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254<i>l</i> of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254l of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
 
 Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 100–177, §§202(e)(3), (5), 308(a), redesignated subsec.
 
 <b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 substituted “section 254p(d)” for “section 254q(b)”.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254<i>l</i>” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254l” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
 
 Subsec. (b). Pub. L. 97–35, §2709(e)(1), (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
 
@@ -168,33 +168,31 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, which provided that the amendment to this section made by section 313(a)(4) of Pub. L. 107–251 was applicable to any obligation for which a discharge in bankruptcy had not been granted before the date that was 31 days after Oct. 26, 2002, was repealed by Pub. L. 108–163, §§2(<i>l</i>)(2), 3, Dec. 6, 2003, 117 Stat. 2023, effective immediately after enactment of Pub. L. 107–251.
+Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, which provided that the amendment to this section made by section 313(a)(4) of Pub. L. 107–251 was applicable to any obligation for which a discharge in bankruptcy had not been granted before the date that was 31 days after Oct. 26, 2002, was repealed by Pub. L. 108–163, §§2(l)(2), 3, Dec. 6, 2003, 117 Stat. 2023, effective immediately after enactment of Pub. L. 107–251.
 
 #### Effective Date of 1990 Amendment
 
-Section 203(b) of Pub. L. 101–597 provided that: “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former section 234 of this title\], as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484, the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
+Pub. L. 101–597, title II, §203(b), Nov. 16, 1990, 104 Stat. 3027, provided that: “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former section 234 of this title\], as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484, the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 
-Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254<i>l</i> of this title.
+Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set out in part as a note under section 254l of this title.
 
 #### Effective Date; Savings Provision; Credit for Period of Internship or Residency Before September 30, 1977, Towards Service Obligation
 
-See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i>l</i> of this title.
+See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254l of this title.
 
 #### Special Repayment Provisions
 
-Section 204 of Pub. L. 100–177 provided that an individual who breached a written contract entered into under section 254<i>l</i> of this title by failing either to begin such individual's service obligation in accordance with section 254m of this title or to complete such service obligation; or otherwise breached such a contract; and, as of Nov. 1, 1987, was liable to United States under subsec. (b) of this section was to be relieved of liability to United States under such section if the individual provided notice to Secretary and service in accordance with a written contract with the Secretary that obligated the individual to provide service in accordance with section and authorized Secretary to exclude an individual from relief from liability under this section for reasons related to the individual's professional competence or conduct.
+Pub. L. 100–177, title II, §204, Dec. 1, 1987, 101 Stat. 1000, provided that an individual who breached a written contract entered into under section 254l of this title by failing either to begin such individual's service obligation in accordance with section 254m of this title or to complete such service obligation; or otherwise breached such a contract; and, as of Nov. 1, 1987, was liable to United States under subsec. (b) of this section was to be relieved of liability to United States under such section if the individual provided notice to Secretary and service in accordance with a written contract with the Secretary that obligated the individual to provide service in accordance with section and authorized Secretary to exclude an individual from relief from liability under this section for reasons related to the individual's professional competence or conduct.
 
 #### Existing Proceedings
 
-Section 308(b) of Pub. L. 100–177 provided that: “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[subsec. (d)(3) of this section\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
+Pub. L. 100–177, title III, §308(b), Dec. 1, 1987, 101 Stat. 1006, provided that: “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[subsec. (d)(3) of this section\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

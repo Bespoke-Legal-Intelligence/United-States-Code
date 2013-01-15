@@ -28,11 +28,13 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(E) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniform system of evaluating the preparedness of each such command to carry out missions assigned to the command.
 
+&emsp;(F) In coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretaries of the military departments, the heads of the Defense Agencies, and the commanders of the combatant commands, determining the operational contract support requirements of the armed forces and recommending the resources required to improve and enhance operational contract support for the armed forces and planning for such operational contract support.
+
 &emsp;(4)
 
 Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, under section 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
-&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and withthe priorities established for the requirements of the unified and specified combatant commands.
+&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
 
 &emsp;(C) Submitting to the Secretary alternative program recommendations and budget proposals, within projected resource levels and guidance provided by the Secretary, in order to achieve greater conformance with the priorities referred to in clause (B).
 
@@ -40,7 +42,9 @@ Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, unde
 
 &emsp;(E) Advising the Secretary on the extent to which the major programs and policies of the armed forces in the area of manpower and contractor support conform with strategic plans.
 
-&emsp;(F) Assessing military requirements for defense acquisition programs.
+&emsp;(F) Identifying, assessing, and approving military requirements (including existing systems and equipment) to meet the National Military Strategy.
+
+&emsp;(G) Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
 
 &emsp;(5)
 
@@ -58,13 +62,95 @@ Other Matters.—(A) Providing for representation of the United States on the Mi
 
 (b)
 
-Risks Under National Military Strategy.—(1) Not later than January 1 of each odd-numbered year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of—
+National Military Strategy.—
 
-&emsp;(A) the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy; and
+&emsp;(1)
 
-&emsp;(B) the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of contingency plans of each geographic combatant commander, and the effect of such deficiencies and strengths on strategic plans and on meeting national security objectives and policy.
+National military strategy.—(A) The Chairman shall determine each even-numbered year whether to prepare a new National Military Strategy in accordance with this subparagraph or to update a strategy previously prepared in accordance with this subsection. The Chairman shall complete preparation of the National Military Strategy or update in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
 
-(2) The Secretary shall forward the report received under paragraph (1) in any year, with the Secretary's comments thereon (if any), to Congress with the Secretary's next transmission to Congress of the annual Department of Defense budget justification materials in support of the Department of Defense component of the budget of the President submitted under section 1105 of title 31 for the next fiscal year. If the Chairman's assessment in such report in any year is that risk associated with executing the missions called for under the National Military Strategy is significant, or that critical deficiencies in force capabilities exist for a contingency plan, the Secretary shall include with the report as submitted to Congress the Secretary's plan for mitigating that risk or deficiency.
+&emsp;(B) Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified combatant commands.
+
+&emsp;(C) Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will achieve the objectives of the United States as articulated in—
+
+&emsp;&emsp;(i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+
+&emsp;&emsp;(ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to section 113 of this title;
+
+&emsp;&emsp;(iii) the most recent Quadrennial Defense Review conducted by the Secretary of Defense pursuant to section 118 of this title; and
+
+&emsp;&emsp;(iv) any other national security or defense strategic guidance issued by the President or the Secretary of Defense.
+
+&emsp;(D) Each National Military Strategy (or update) submitted under this paragraph shall identify—
+
+&emsp;&emsp;(i) the United States military objectives and the relationship of those objectives to the strategic environment and to the threats required to be described under subparagraph (E);
+
+&emsp;&emsp;(ii) the operational concepts, missions, tasks, or activities necessary to support the achievement of the objectives identified under clause (i);
+
+&emsp;&emsp;(iii) the fiscal, budgetary, and resource environments and conditions that, in the assessment of the Chairman, affect the strategy; and
+
+&emsp;&emsp;(iv) the assumptions made with respect to each of clauses (i) through (iii).
+
+&emsp;(E) Each National Military Strategy (or update) submitted under this paragraph shall also include a description of—
+
+&emsp;&emsp;(i) the strategic environment and the opportunities and challenges that affect United States national interests and United States national security;
+
+&emsp;&emsp;(ii) the threats, such as international, regional, transnational, hybrid, terrorism, cyber attack, weapons of mass destruction, asymmetric challenges, and any other categories of threats identified by the Chairman, to the United States national security;
+
+&emsp;&emsp;(iii) the implications of current force planning and sizing constructs for the strategy;
+
+&emsp;&emsp;(iv) the capacity, capabilities, and availability of United States forces (including both the active and reserve components) to support the execution of missions required by the strategy;
+
+&emsp;&emsp;(v) areas in which the armed forces intends to engage and synchronize with other departments and agencies of the United States Government contributing to the execution of missions required by the strategy;
+
+&emsp;&emsp;(vi) areas in which the armed forces could be augmented by contributions from alliances (such as the North Atlantic Treaty Organization), international allies, or other friendly nations in the execution of missions required by the strategy;
+
+&emsp;&emsp;(vii) the requirements for operational contractor support to the armed forces for conducting security force assistance training, peacekeeping, overseas contingency operations, and other major combat operations under the strategy; and
+
+&emsp;&emsp;(viii) the assumptions made with respect to each of clauses (i) through (vii).
+
+&emsp;(F) Each update to a National Military Strategy under this paragraph shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of a comprehensive review conducted in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the combatant commands, that a modification is needed.
+
+&emsp;(2)
+
+Risk assessment.—(A) The Chairman shall prepare each year an assessment of the risks associated with the most current National Military Strategy (or update) under paragraph (1). The risk assessment shall be known as the “Risk Assessment of the Chairman of the Joint Chiefs of Staff”. The Chairman shall complete preparation of the Risk Assessment in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
+
+&emsp;(B) The Risk Assessment shall do the following:
+
+&emsp;&emsp;(i) As the Chairman considers appropriate, update any changes to the strategic environment, threats, objectives, force planning and sizing constructs, assessments, and assumptions that informed the National Military Strategy required by this section.
+
+&emsp;&emsp;(ii) Identify and define the strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy.
+
+&emsp;&emsp;(iii) Identify and define levels of risk distinguishing between the concepts of probability and consequences, including an identification of what constitutes “significant” risk in the judgment of the Chairman.
+
+&emsp;&emsp;(iv)(I) Identify and assess risk in the National Military Strategy by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and
+
+&emsp;&emsp;(II) for each category of risk, assess the extent to which current or future risk increases, decreases, or is stable as a result of budgetary priorities, tradeoffs, or fiscal constraints or limitations as currently estimated and applied in the most current future-years defense program under section 221 of this title.
+
+&emsp;&emsp;(v) Identify and assess risk associated with the assumptions or plans of the National Military Strategy about the contributions or support of—
+
+&emsp;&emsp;&emsp;(I) other departments and agencies of the United States Government (including their capabilities and availability);
+
+&emsp;&emsp;&emsp;(II) alliances, allies, and other friendly nations (including their capabilities, availability, and interoperability); and
+
+&emsp;&emsp;&emsp;(III) contractors.
+
+&emsp;&emsp;(vi) Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy.
+
+&emsp;(3)
+
+Submittal of national military strategy and risk assessment to congress.—(A) Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
+
+&emsp;(B) Not later than February 15 each year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the Risk Assessment prepared under paragraph (2) in such year.
+
+&emsp;(4)
+
+Secretary of defense reports to congress.—(A) In transmitting a National Military Strategy (or update) or Risk Assessment to Congress pursuant to paragraph (3), the Secretary of Defense shall include in the transmittal such comments of the Secretary thereon, if any, as the Secretary considers appropriate.
+
+&emsp;(B) If the Risk Assessment transmitted under paragraph (3) in a year includes an assessment that a risk or risks associated with the National Military Strategy (or update) are significant, or that critical deficiencies in force capabilities exist for a contingency plan described in paragraph (2)(B)(vi), the Secretary shall include in the transmittal of the Risk Assessment the plan of the Secretary for mitigating such risk or deficiency. A plan for mitigating risk of deficiency under this subparagraph shall—
+
+&emsp;&emsp;(i) address the risk assumed in the National Military Strategy (or update) concerned, and the additional actions taken or planned to be taken to address such risk using only current technology and force structure capabilities; and
+
+&emsp;&emsp;(ii) specify, for each risk addressed, the extent of, and a schedule for expected mitigation of, such risk, and an assessment of the potential for residual risk, if any, after mitigation.
 
 (c)
 
@@ -80,45 +166,17 @@ Annual Report on Combatant Command Requirements.—(1) At or about the time that
 
 &emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
 
-(d)
-
-Biennial Review of National Military Strategy.—(1) Not later then February 15 of each even-numbered year, the Chairman shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the results of a comprehensive examination of the national military strategy. Each such examination shall be conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified commands.
-
-(2) Each report on the examination of the national military strategy under paragraph (1) shall include the following:
-
-&emsp;(A) Delineation of a national military strategy consistent with—
-
-&emsp;&emsp;(i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
-
-&emsp;&emsp;(ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to section 113 of this title; and
-
-&emsp;&emsp;(iii) the most recent Quadrennial Defense Review conducted by the Secretary of Defense pursuant to section 118 of this title.
-
-&emsp;(B) A description of the strategic environment and the opportunities and challenges that affect United States national interests and United States national security.
-
-&emsp;(C) A description of the regional threats to United States national interests and United States national security.
-
-&emsp;(D) A description of the international threats posed by terrorism, weapons of mass destruction, and asymmetric challenges to United States national security.
-
-&emsp;(E) Identification of United States national military objectives and the relationship of those objectives to the strategic environment, regional, and international threats.
-
-&emsp;(F) Identification of the strategy, underlying concepts, and component elements that contribute to the achievement of United States national military objectives.
-
-&emsp;(G) Assessment of the capabilities and adequacy of United States forces (including both active and reserve components) to successfully execute the national military strategy.
-
-&emsp;(H) Assessment of the capabilities, adequacy, and interoperability of regional allies of the United States and or other friendly nations to support United States forces in combat operations and other operations for extended periods of time.
-
-&emsp;(I) Assessment of the requirements for contractor support of the armed forces in conducting peacetime training, peacekeeping, overseas contingency operations, and major combat operations, and the risks associated with such support.
-
-(3)(A) As part of the assessment under this subsection, the Chairman, in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified commands, shall undertake an assessment of the nature and magnitude of the strategic and military risks associated with successfully executing the missions called for under the current National Military Strategy.
-
-(B) In preparing the assessment of risk, the Chairman should make assumptions pertaining to the readiness of United States forces (in both the active and reserve components), the length of conflict and the level of intensity of combat operations, the levels of support from allies and other friendly nations, and the levels of contractor support.
-
-(4) Before submitting a report under this subsection to the Committees on Armed Services of the Senate and House of Representatives, the Chairman shall provide the report to the Secretary of Defense. The Secretary's assessment and comments thereon (if any) shall be included with the report. If the Chairman's assessment in such report in any year is that the risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to those committees the Secretary's plan for mitigating the risk.
-
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(3)(F). Pub. L. 112–239, §845(b), added subpar. (F).
+
+Subsec. (a)(4)(F), (G). Pub. L. 112–239, §951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
+
+Subsec. (b). Pub. L. 112–239, §952(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
+
+Subsec. (d). Pub. L. 112–239, §952(b), struck out subsec. (d) which related to biennial review of National Military Strategy.
 
 <b>2011</b>—Subsec. (a)(3)(C) to (E). Pub. L. 112–81, §820(b)(1), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 

@@ -60,5 +60,5 @@ Subsection (b)(2) is substituted for 15:2026b(c) (2d sentence) for clarity.
 
 #### Effective Date
 
-Section 4(v) of Pub. L. 103–272 provided that: “Section 33111 of title 49, United States Code, as enacted by section 1 of this Act, is effective on the date on which the National Stolen Passenger Motor Vehicle Information System is established under section 33109 of title 49.”
+Pub. L. 103–272, §4(v), July 5, 1994, 108 Stat. 1373, provided that: “Section 33111 of title 49, United States Code, as enacted by section 1 of this Act, is effective on the date on which the National Stolen Passenger Motor Vehicle Information System is established under section 33109 of title 49.”
 

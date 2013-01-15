@@ -2,7 +2,7 @@
 
 (a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
-(b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
+(b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not anelement of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
 
 (2) Notwithstanding any other provision of law, the Secretary may also furnish rehabilitative services under this subsection through contractual arrangements with nonprofit entities to provide for such therapeutic work for such patients. The Secretary shall establish appropriate fiscal, accounting, management, recordkeeping, and reporting requirements with respect to the activities of any such nonprofit entity in connection with such contractual arrangements.
 
@@ -126,11 +126,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing
 
-Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 102–54, §7, June 13, 1991, 105 Stat. 269, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Settlement of Claims
 
-Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, §6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
+Pub. L. 94–581, title I, §105(b), Oct. 21, 1976, 90 Stat. 2846, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, §6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
 
 “(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 

@@ -16,7 +16,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 &emsp;&emsp;(A) allows for the resolution of disputes over injuries allegedly caused by health care providers or health care organizations; and
 
-&emsp;&emsp;(B) promotes a reduction of health care errors by encouraging the collection andanalysis of patient safety data related to disputes resolved under subparagraph (A) by organizations that engage in efforts to improve patient safety and the quality of health care.
+&emsp;&emsp;(B) promotes a reduction of health care errors by encouraging the collection and analysis of patient safety data related to disputes resolved under subparagraph (A) by organizations that engage in efforts to improve patient safety and the quality of health care.
 
 #### (2) Alternative to current tort litigation
 
@@ -104,7 +104,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (D) Availability of information
 
-&emsp;&emsp;The Comptroller General shall make available to the review panel such information,personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
+&emsp;&emsp;The Comptroller General shall make available to the review panel such information, personnel, and administrative services and assistance as the review panel may reasonably require to carry out its duties.
 
 #### (E) Information from agencies
 
@@ -234,7 +234,7 @@ In this section:
 
 There are authorized to be appropriated to carry out this section, $50,000,000 for the 5-fiscal year period beginning with fiscal year 2011.
 
-#### (<i>l</i>) Current State efforts to establish alternative to tort litigation
+#### (l) Current State efforts to establish alternative to tort litigation
 
 Nothing in this section shall be construed to limit any prior, current, or future efforts of any State to establish any alternative to tort litigation.
 

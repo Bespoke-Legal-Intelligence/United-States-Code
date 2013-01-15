@@ -1,6 +1,6 @@
 ### §8171. Compensation for work injuries; generally
 
-(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
+(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies withrespect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
 
 &emsp;(1) a United States citizen or a permanent resident of the United States or a territory or possession of the United States employed outside the continental United States; or
 
@@ -12,7 +12,7 @@
 
 (c) The Secretary of Labor may—
 
-&emsp;(1) extend compensation districts established under section 39(b) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to includethe areas outside the continental United States; and
+&emsp;(1) extend compensation districts established under section 39(b) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to include the areas outside the continental United States; and
 
 &emsp;(2) assign to each district one or more deputy commissioners as the Secretary considers advisable.
 

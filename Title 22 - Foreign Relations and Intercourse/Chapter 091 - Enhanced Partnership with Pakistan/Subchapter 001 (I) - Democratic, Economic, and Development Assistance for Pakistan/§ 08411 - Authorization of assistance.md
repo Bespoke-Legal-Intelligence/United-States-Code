@@ -92,7 +92,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 #### (4) Use of direct expenditures
 
-&emsp;Amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title or otherwise made available to carry out this section shall be utilized to the maximum extent possible as direct expenditures for projects and programs, subject to existing reporting and notification requirements.
+&emsp;Amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title or otherwise made available to carry out this sectionshall be utilized to the maximum extent possible as direct expenditures for projects and programs, subject to existing reporting and notification requirements.
 
 #### (5) Chief of Mission Fund
 

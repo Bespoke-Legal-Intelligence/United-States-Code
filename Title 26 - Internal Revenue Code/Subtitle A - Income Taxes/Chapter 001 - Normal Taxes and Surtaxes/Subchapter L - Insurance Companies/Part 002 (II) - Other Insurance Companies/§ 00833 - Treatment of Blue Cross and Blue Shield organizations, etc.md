@@ -170,15 +170,15 @@ Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided t
 
 #### Effective Date of 1997 Amendment
 
-Section 1604(d)(2)(B) of Pub. L. 105–34 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+Pub. L. 105–34, title XVI, §1604(d)(2)(B), Aug. 5, 1997, 111 Stat. 1098, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 351(b) of Pub. L. 104–191 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996.”
+Pub. L. 104–191, title III, §351(b), Aug. 21, 1996, 110 Stat. 2071, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996.”
 
 #### Effective Date
 
-Section 1012(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1010(b)(1), (2), Nov. 10, 1988, 102 Stat. 3451, provided that:
+Pub. L. 99–514, title X, §1012(c), Oct. 22, 1986, 100 Stat. 2393, as amended by Pub. L. 100–647, title I, §1010(b)(1), (2), Nov. 10, 1988, 102 Stat. 3451, provided that:
 
 “(1)
 
@@ -234,7 +234,7 @@ Other special rules.—
 
 Pub. L. 105–277, div. J, title IV, §4003(g), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act \[section 1042(b) of Pub. L. 105–34, set out below\].”
 
-Section 1042 of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1042, Aug. 5, 1997, 111 Stat. 939, provided that:
 
 “(a)
 

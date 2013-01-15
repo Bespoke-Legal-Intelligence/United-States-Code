@@ -68,7 +68,7 @@ The Commercial Director shall ensure full coordination of high-performance green
 
 #### (1) Recognition
 
-&emsp;Not later than 90 days after December 19, 2007, the Commercial Director shall formally recognize one or more groups that qualify as a high-performance green building partnership consortium.
+&emsp;Not later than 90 days after December 19, 2007, the Commercial Director shall formallyrecognize one or more groups that qualify as a high-performance green building partnership consortium.
 
 #### (2) Representation to qualify
 

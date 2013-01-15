@@ -12,7 +12,7 @@
 
 &emsp;(C) in which the person is qualified to serve, taking into consideration whether the employee in that position is required to be a member of a reserve component of the armed forces as a condition of employment.
 
-(2) To the maximum extent practicable, the position shall also be in a pay grade or other pay classification sufficient to ensure that the rate of basic pay of the former military technician, upon appointment to the position, is not less than the rate of basic pay last received by the former military technician for technician service before separation.
+(2) To the maximum extent practicable, the position shall also be in a pay grade or other pay classification sufficient to ensure that the rateof basic pay of the former military technician, upon appointment to the position, is not less than the rate of basic pay last received by the former military technician for technician service before separation.
 
 (d) This section shall not apply in the case of—
 

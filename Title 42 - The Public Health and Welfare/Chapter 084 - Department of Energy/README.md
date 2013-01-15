@@ -165,9 +165,7 @@
 | [7274g.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274g%20-%20Environmental%20restoration%20and%20waste%20management%20five-year%20plan%20and%20budget%20reports.md) | Environmental restoration and waste management five-year plan and budget reports. |
 | 7274h to 7274k. Transferred or Repealed. |  |
 | 7274<i>l.</i> | Authority to transfer certain Department of Energy property. |
-| 7274m to 7274<i>o</i>. Transferred. |  |
-| [7274p.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274p%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md) | Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile. |
-| 7274q to 7274s. Transferred. |  |
+| 7274m to 7274s. Transferred. |  |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
 | [7276a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276a%20-%20Technical%20assistance.md) | Technical assistance. |
@@ -298,7 +296,7 @@
 
 |  |  |
 | :--- | ---: |
-| 7381<i>l</i>. | National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education. |
+| [7381l.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20003%20-%20National%20Laboratories%20Centers%20of%20Excellence%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20Education/%C2%A7%2007381l%20-%20National%20Laboratories%20Centers%20of%20Excellence%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20education.md) | National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

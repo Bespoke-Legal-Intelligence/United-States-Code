@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined by the Surgeon General);
 
-&emsp;&emsp;&emsp;&emsp;(IV) if pursuing a degree from a school of medicine or osteopathic medicine, dental, public health, or nursing school or a physician assistant, pharmacy, orbehavioral and mental health professional program, to complete a residency or internship in a specialty that the Surgeon General determines is appropriate; and
+&emsp;&emsp;&emsp;&emsp;(IV) if pursuing a degree from a school of medicine or osteopathic medicine, dental, public health, or nursing school or a physician assistant, pharmacy, or behavioral and mental health professional program, to complete a residency or internship in a specialty that the Surgeon General determines is appropriate; and
 
 &emsp;&emsp;&emsp;&emsp;(V) to serve for a period of time (referred to in this part as the “period of obligated service”) within the Commissioned Corps of the Public Health Service equal to 2 years for each school year during which such individual was enrolled at the College, reduced as provided for in paragraph (3);
 

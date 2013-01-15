@@ -54,7 +54,7 @@ The State educational agency shall make publicly available a list of those schoo
 
 #### (4) State applications
 
-&emsp;Each State educational agency that desires to receive funds under this subsection shall submit an application to the Secretary at such time, and containing such information, as theSecretary shall reasonably require, except that such requirement shall be waived if a State educational agency submitted such information as part of its State plan under this part. Each State application shall describe how the State educational agency will allocate such funds in order to assist the State educational agency and local educational agencies in complying with school improvement, corrective action, and restructuring requirements of section 6316 of this title.
+&emsp;Each State educational agency that desires to receive funds under this subsection shall submit an application to the Secretary at such time, and containing such information, as the Secretary shall reasonably require, except that such requirement shall be waived if a State educational agency submitted such information as part of its State plan under this part. Each State application shall describe how the State educational agency will allocate such funds in order to assist the State educational agency and local educational agencies in complying with school improvement, corrective action, and restructuring requirements of section 6316 of this title.
 
 #### (5) Local educational agency grants
 

@@ -60,7 +60,7 @@ The location and the electrical rating of all stationary electric apparatus in c
 
 #### (f) Repairs; deenergizing of equipment; authorized personnel; locking out of disconnection devices
 
-All power circuits and electric equipment shall be deenergized before work is done on such circuits and equipment, except when necessary for trouble shooting or testing. In addition, energized trolley wires may be repaired only by a person trained to perform electrical work and to maintain electrical equipment and the operator of such mine shall require that such person wear approved and tested insulated shoes and wireman's gloves. No electrical work shall be performed on low-, medium-, or high-voltage distribution circuits or equipment, except by a qualified person or by a person trained to perform electrical work and to maintain electrical equipment under the direct supervision of a qualified person. Disconnecting devices shall be locked out and suitably tagged by the persons who performed such work, except that, in cases where locking out is not possible, such devices shall be opened and suitably tagged by such persons. Locks or tags shall be removed only by the persons who installed them or, if such persons are unavailable, by persons authorized by the operator or his agent.
+All power circuits and electric equipment shall be deenergized before work is done on such circuits and equipment, except when necessary for trouble shooting or testing. In addition, energized trolley wires may be repaired only by a person trained to perform electrical work and to maintain electrical equipment and the operator of such mine shall require that such person wear approved and tested insulated shoes and wireman's gloves. No electrical work shall be performed on low-, medium-, or high-voltage distribution circuits or equipment, except by a qualified person or by a person trained to perform electrical work and to maintain electrical equipment under the direct supervision of a qualified person. Disconnecting devices shall be locked out and suitably tagged by the persons who performed such work, except that, in cases where locking out is not possible, such devices shall be opened and suitably tagged by such persons. Locks or tags shall be removed only by thepersons who installed them or, if such persons are unavailable, by persons authorized by the operator or his agent.
 
 #### (g) Periodic examinations; maintenance; records; accessibility
 
@@ -76,13 +76,13 @@ All electrical connections or splices in conductors shall be mechanically and el
 
 #### (j) Cables and wires; entry through metal frames
 
-Cables shall enter metal frames of motors, splice boxes, and electric compartments only through proper fittings. When insulated wires other than cables pass through metal frames theholes shall be substantially bushed with insulated bushings.
+Cables shall enter metal frames of motors, splice boxes, and electric compartments only through proper fittings. When insulated wires other than cables pass through metal frames the holes shall be substantially bushed with insulated bushings.
 
 #### (k) Support of power wires
 
 All power wires (except trailing cables on mobile equipment, specially designed cables conducting high-voltage power to underground rectifying equipment or transformers, or bare or insulated ground and return wires) shall be supported on well-insulated insulators and shall not contact combustible material, roof, or ribs.
 
-#### (<i>l</i>) Insulation of power wires; exceptions
+#### (l) Insulation of power wires; exceptions
 
 Power wires and cables, except trolley wires, trolley feeder wires, and bare signal wires, shall be insulated adequately and fully protected.
 
@@ -94,7 +94,7 @@ Automatic circuit-breaking devices or fuses of the correct type and capacity sha
 
 In all main power circuits, disconnecting switches shall be installed underground within five hundred feet of the bottoms of shafts and boreholes through which main power circuits enter the underground area of the mine and within five hundred feet of all other places where main power circuits enter the underground area of the mine.
 
-#### (<i>o</i>) Switches
+#### (o) Switches
 
 All electric equipment shall be provided with switches or other controls that are safely designed, constructed, and installed.
 

@@ -12,7 +12,7 @@ For purposes of subsection (a) of this section, the effective price for a covere
 
 &emsp;&emsp;(A) The national average market price received by producers during the 12-month marketing year for the covered commodity, as determined by the Secretary.
 
-&emsp;&emsp;(B) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II of this chapter.
+&emsp;&emsp;(B) The national average loan rate for a marketing assistance loan for the coveredcommodity in effect for the applicable period under subchapter II of this chapter.
 
 &emsp;(2) The payment rate in effect for the covered commodity under section 7913 of this title for the purpose of making direct payments with respect to the covered commodity.
 
@@ -130,7 +130,7 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 
 &emsp;&emsp;&emsp;The final payment for a covered commodity for a crop year shall be equal to the difference between—
 
-&emsp;&emsp;&emsp;&emsp;(I) the actual counter-cyclical payment to be made to the producers for the covered commodity for that crop year; and
+&emsp;&emsp;&emsp;&emsp;(I) the actual counter-cyclical payment to be made to the producers for thecovered commodity for that crop year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of the partial payments made to the producers under clauses (i) and (ii) for that crop year.
 

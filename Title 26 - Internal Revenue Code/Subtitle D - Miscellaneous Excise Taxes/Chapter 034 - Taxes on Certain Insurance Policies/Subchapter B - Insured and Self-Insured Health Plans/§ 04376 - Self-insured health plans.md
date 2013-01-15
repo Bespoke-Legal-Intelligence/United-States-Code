@@ -46,7 +46,7 @@ For purposes of this section, the term “applicable self-insured health plan”
 
 &emsp;&emsp;(E) by any organization described in section 501(c)(6), or
 
-&emsp;&emsp;(F) in the case of a plan not described in the preceding subparagraphs, by a multipleemployer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
+&emsp;&emsp;(F) in the case of a plan not described in the preceding subparagraphs, by a multiple employer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
 
 #### (d) Adjustments for increases in health care spending
 

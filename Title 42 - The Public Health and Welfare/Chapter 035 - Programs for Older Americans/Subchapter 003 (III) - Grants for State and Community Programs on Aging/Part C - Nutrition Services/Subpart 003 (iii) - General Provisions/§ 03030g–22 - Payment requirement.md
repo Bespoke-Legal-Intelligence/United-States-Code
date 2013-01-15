@@ -6,7 +6,7 @@ Payments made by a State agency or an area agency on aging for nutrition service
 
 #### Prior Provisions
 
-Prior sections 3030h to 3030<i>l</i> were repealed by Pub. L. 106–501, title III, §314(1), Nov. 13, 2000, 114 Stat. 2253.
+Prior sections 3030h to 3030l were repealed by Pub. L. 106–501, title III, §314(1), Nov. 13, 2000, 114 Stat. 2253.
 
 Section 3030h, Pub. L. 89–73, title III, §341, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945; amended Pub. L. 102–375, title I, §102(b)(6), (10)(C), Sept. 30, 1992, 106 Stat. 1201, 1202; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, authorized a grant program for States.
 
@@ -16,5 +16,5 @@ Section 3030j, Pub. L. 89–73, title III, §343, as added Pub. L. 100–175, ti
 
 Section 3030k, Pub. L. 89–73, title III, §344, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 946, required that funds available under former part D of this subchapter be in addition to funds otherwise expended.
 
-Section 3030<i>l</i>, Pub. L. 89–73, title III, §351, as added Pub. L. 100–175, title I, §141(d), Nov. 29, 1987, 101 Stat. 946; amended Pub. L. 102–375, title VII, §708(a)(2)(C), Sept. 30, 1992, 106 Stat. 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, authorized program of grants to satisfy special needs of older individuals.
+Section 3030l, Pub. L. 89–73, title III, §351, as added Pub. L. 100–175, title I, §141(d), Nov. 29, 1987, 101 Stat. 946; amended Pub. L. 102–375, title VII, §708(a)(2)(C), Sept. 30, 1992, 106 Stat. 1292; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, authorized program of grants to satisfy special needs of older individuals.
 

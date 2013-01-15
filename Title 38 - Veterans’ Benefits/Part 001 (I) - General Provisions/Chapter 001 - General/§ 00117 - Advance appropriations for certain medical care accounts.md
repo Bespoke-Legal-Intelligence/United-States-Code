@@ -34,7 +34,7 @@ Pub. L. 111–81, §4, Oct. 22, 2009, 123 Stat. 2138, provided that:
 
 “(a)
 
-Review of Accuracy of Medical Care Budget Submission.—The Comptroller General shall conduct a review of each budget of the President for a fiscal year that is submitted to Congress pursuant to section 1105(a) of title 31 in order to assess whether or not the relevant components of the amounts requested in such budget for such fiscal year for the medical care accounts of the Department of Veterans Affairs specified in section 117(c) of title 38, United States Code, as added by section 3, are consistent with estimates of the resources required by the Department for the provision of medical care and services in such fiscal year, as forecast using the Enrollee Health Care Projection Model, or other methodologies used by the Department.
+Review of Accuracy of Medical Care Budget Submission.—The Comptroller General shall conduct a review of each budget of the President for a fiscal year that is submitted to Congress pursuant to section 1105(a) of title 31 in order to assess whether or not therelevant components of the amounts requested in such budget for such fiscal year for the medical care accounts of the Department of Veterans Affairs specified in section 117(c) of title 38, United States Code, as added by section 3, are consistent with estimates of the resources required by the Department for the provision of medical care and services in such fiscal year, as forecast using the Enrollee Health Care Projection Model, or other methodologies used by the Department.
 
 “(b)
 

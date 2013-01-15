@@ -38,7 +38,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (3) Relationship of shareholder to estate tax
 
-&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that the interest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
+&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that theinterest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
 
 #### (4) Additional requirements for distributions made more than 4 years after decedent's death
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(B). Pub. L. 97–34, §422(b)(2), in heading, substituted “stoc
 
 <b>1976</b>—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35percent of the gross estate or 50 percent of the taxable estate.
+Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
 Subsec. (b)(2)(B). Pub. L. 94–455, §2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
 

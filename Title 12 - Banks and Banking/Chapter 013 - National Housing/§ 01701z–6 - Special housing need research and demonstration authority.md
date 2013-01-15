@@ -32,7 +32,7 @@ Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by 
 
 #### Demonstration Project for Assistance to Units of General Local Government To Encourage Upgrading of Lower Income Family Housing
 
-Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
+Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 “(a) The Congress finds that—
 
@@ -88,7 +88,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 &emsp;“(3) other terms and conditions prescribed by the Secretary for the purpose of carrying out this section in an effective and efficient manner.
 
-“(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projects that will enable the Secretary to carry out the purpose of this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
+“(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projects that will enable the Secretary to carry out the purposeof this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
 
 “(h)(1) Not later than June 1, 1984, the Secretary shall transmit to the Congress an interim report on the implementation of the demonstration under this section.
 
@@ -98,7 +98,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 #### Public Housing Early Childhood Development Program
 
-Pub. L. 98–181, title II, §222, Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988, 101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by Pub. L. 105–276, title V, §582(a)(6), Oct. 21, 1998, 112 Stat. 2643.
+Pub. L. 98–181, title I \[title II, §222\], Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988, 101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by Pub. L. 105–276, title V, §582(a)(6), Oct. 21, 1998, 112 Stat. 2643.
 
 #### Public Housing Security
 
@@ -150,9 +150,9 @@ Pub. L. 95–557, title II, §207, Oct. 31, 1978, 92 Stat. 2093, as amended by P
 
 “(4) In carrying out the provisions of this section, the Secretary shall coordinate and jointly target resources with other agencies, particularly the Law Enforcement Assistance Administration, the Department of Health and Human Services, the Department of Labor, the Department of Justice, the Department of the Interior, the Department of Commerce, the Department of Education, the Corporation for National and Community Service, the Community Services Administration, and State and local agencies.
 
-“(5) In order to assess the impact of crime and vandalism in public housing projects, the Secretary may, as part of the Annual Housing Survey conducted by the Department of Housing and Urban Development or by other means, collect data on crime and vandalism and integrate the data collection with the victimization surveys undertaken by the Department of Justice and the Department of Commerce.
+“(5) In order to assess the impact of crime and vandalism in public housing projects, the Secretary may,as part of the Annual Housing Survey conducted by the Department of Housing and Urban Development or by other means, collect data on crime and vandalism and integrate the data collection with the victimization surveys undertaken by the Department of Justice and the Department of Commerce.
 
-“(6) The Secretary shall, to the maximum extent practicable, utilize information derived from the program authorized by this section for assisting in establishing (A) guidelines to be used by public housing authorities in determining strategies to meet the security needs of tenants of public housing projects assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] other than under section 8 of such Act \[42 U.S.C. 1437f\], and (B) guidelines for improvements relating to the security of projects (and the tenants living in such projects) assisted under section 14 of such Act \[42 U.S.C. 1437<i>l</i>\].
+“(6) The Secretary shall, to the maximum extent practicable, utilize information derived from the program authorized by this section for assisting in establishing (A) guidelines to be used by public housing authorities in determining strategies to meet the security needs of tenants of public housing projects assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] other than under section 8 of such Act \[42 U.S.C. 1437f\], and (B) guidelines for improvements relating to the security of projects (and the tenants living in such projects) assisted under section 14 of such Act \[42 U.S.C. 1437l\].
 
 “(d) The Secretary shall initiate and carry out a survey of crime and vandalism existing in the Nation's public housing projects. The survey shall include the nature, extent and impact of crime and vandalism and the nature and extent of resources currently available and employed to alleviate crime and vandalism in public housing.
 

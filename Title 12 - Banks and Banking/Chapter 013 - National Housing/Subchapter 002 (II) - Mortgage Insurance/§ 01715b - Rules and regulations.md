@@ -12,5 +12,5 @@ The Secretary is authorized and directed to make such rules and regulations as m
 
 #### Regulations
 
-Pub. L. 98–479, title I, §104(f), Oct. 17, 1984, 98 Stat. 2226, required Secretary of Housing and Urban Development, not later than Oct. 31, 1984, to issue regulations to carry out amendments made to section 1715z–7 of this title by section 436 of Housing and Urban-Rural Recovery Act of 1983, Pub. L. 98–181.
+Pub. L. 98–479, title I, §104(f), Oct. 17, 1984, 98 Stat. 2226, required Secretary of Housing and Urban Development, not later than Oct. 31, 1984, to issue regulations to carry out amendments made to section 1715z–7 of this title by section 436 of Housing and Urban-Rural Recovery Act of 1983, Pub. L. 98–181, title I \[titles I–V\].
 

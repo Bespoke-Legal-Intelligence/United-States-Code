@@ -70,7 +70,7 @@ Not later than 6 months after the Assistant Secretary receives the reports descr
 
 &emsp;(3) the names and addresses of organizations that conducted the projects;
 
-&emsp;(4) in the case of projects carried out under subsection (a)(1), a description of the methods and success of the projects in recruiting older individuals as employees and as volunteers to participate in the projects;
+&emsp;(4) in the case of projects carried out under subsection (a)(1), a description of the methodsand success of the projects in recruiting older individuals as employees and as volunteers to participate in the projects;
 
 &emsp;(5) in the case of projects carried out under subsection (a)(1), a description of the success of the projects in retaining older individuals participating in the projects as employees and as volunteers;
 

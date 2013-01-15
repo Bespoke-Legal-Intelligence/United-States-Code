@@ -32,7 +32,7 @@ Not later than sixty days after the issuance of a report under subsection (a) of
 
 #### (e) Disposition of funds collected pursuant to claims
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to sections <sup>1</sup> 2016(f) <sup>2</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shallbe paid from the appropriation account for the fiscal year in which the funds are provided.
+Funds collected from claims against households or State agencies, including claims collected pursuant to sections <sup>1</sup> 2016(f) <sup>2</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
 #### (f) Transfer of funds
 
@@ -122,7 +122,7 @@ Amendment by sections 1760(1)(A) and 1761 of Pub. L. 101–624 effective Oct. 1,
 
 #### Effective Date of 1985 Amendment
 
-Section 1542(b) of Pub. L. 99–198 provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1986.”
+Pub. L. 99–198, title XV, §1542(b), Dec. 23, 1985, 99 Stat. 1589, provided that: “The amendment made by this section \[amending this section\] shall become effective on October 1, 1986.”
 
 #### Effective Date of 1982 Amendment
 
@@ -138,11 +138,11 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 #### Effective Date
 
-Section 1301 of Pub L. 95–113 provided that this section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that this section is effective Oct. 1, 1977.
 
 #### Availability of Amounts if Sequestration Order Issued for Fiscal Year 1989
 
-Amounts available to carry out food stamp program \[now supplemental nutrition assistance program\] under this section to be reduced if sequestration order is issued under section 902(b) of Title 2, The Congress, see section 701(c)(1) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
+Amounts available to carry out food stamp program \[now supplemental nutrition assistance program\] under this section to be reduced if sequestration order is issued under section 902(b) of Title 2, The Congress, seesection 701(c)(1) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Administrator the following amoun
 
 &emsp;&emsp;(C) to carry out sections 6991b(i), 6991c(f), and 6991d(c) of this title $100,000,000 for each of fiscal years 2006 through 2011; and
 
-&emsp;&emsp;(D) to carry out sections 6991i, 6991j, 6991k, and 6991<i>l</i> of this title $55,000,000 for each of fiscal years 2006 through 2011.
+&emsp;&emsp;(D) to carry out sections 6991i, 6991j, 6991k, and 6991l of this title $55,000,000 for each of fiscal years 2006 through 2011.
 
 (Pub. L. 89–272, title II, §9014, as added Pub. L. 109–58, title XV, §1531(a), Aug. 8, 2005, 119 Stat. 1104; amended Pub. L. 109–168, §1(a)(3), Jan. 10, 2006, 119 Stat. 3580; Pub. L. 109–432, div. A, title II, §210(b), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(b), Dec. 20, 2006, 120 Stat. 3196.)
 

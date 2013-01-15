@@ -20,10 +20,13 @@
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
+| [<b>24.</b>](Chapter%20024%20-%20Nuclear%20Posture/README.md) | <b>Nuclear posture </b><b><sup>1</sup></b> | <b>491</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
@@ -57,6 +60,8 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
 
 ---
 
@@ -80,3 +85,4 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 021 - Department of Defense Intelligence Matters](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md)
 - [Chapter 022 - National Geospatial-Intelligence Agency](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md)
 - [Chapter 023 - Miscellaneous Studies and Reports](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md)
+- [Chapter 024 - Nuclear Posture](Chapter%20024%20-%20Nuclear%20Posture/README.md)

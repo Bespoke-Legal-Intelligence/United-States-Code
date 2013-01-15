@@ -12,7 +12,7 @@ Except as otherwise provided in this subchapter, and except as otherwise provide
 
 #### (A) Internal revenue collections
 
-&emsp;&emsp;Such tax shall be collected under the direction of the Secretary, and shall be paidinto the Treasury of the United States as internal revenue collections; and
+&emsp;&emsp;Such tax shall be collected under the direction of the Secretary, and shall be paid into the Treasury of the United States as internal revenue collections; and
 
 #### (B) Applicable laws
 

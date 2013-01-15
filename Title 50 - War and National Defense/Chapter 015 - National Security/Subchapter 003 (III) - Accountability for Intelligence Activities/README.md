@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00413 - General Congressional oversight provisions](%C2%A7%2000413%20-%20General%20Congressional%20oversight%20provisions.md)
+- [&sect; 00413 - General congressional oversight provisions](%C2%A7%2000413%20-%20General%20congressional%20oversight%20provisions.md)
 - [&sect; 00413a - Reporting of intelligence activities other than covert actions](%C2%A7%2000413a%20-%20Reporting%20of%20intelligence%20activities%20other%20than%20covert%20actions.md)
 - [&sect; 00413b - Presidential approval and reporting of covert actions](%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md)
 - [&sect; 00413c - Communications with the Committees on Armed Services of the Senate and the House of Representatives](%C2%A7%2000413c%20-%20Communications%20with%20the%20Committees%20on%20Armed%20Services%20of%20the%20Senate%20and%20the%20House%20of%20Representatives.md)

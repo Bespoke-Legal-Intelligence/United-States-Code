@@ -64,14 +64,7 @@
 | [488\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000488%20-%20Allowance%20for%20recruiting%20expenses.md) | Allowance for recruiting expenses. |
 | [489\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000489%20-%20Travel%20and%20transportation%20allowances%20minor%20dependent%20schooling.md) | Travel and transportation allowances: minor dependent schooling. |
 | [490\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000490%20-%20Travel%20and%20transportation%20dependent%20children%20of%20members%20stationed%20overseas.md) | Travel and transportation: dependent children of members stationed overseas. |
-| 491\.<sup>2</sup> |  |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Benefits for certain members assigned to the Defense Intelligence Agency.
-
-|  |  |
-| :--- | ---: |
+| [491\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000491%20-%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md) | Benefits for certain members assigned to the Defense Intelligence Agency. |
 | [492\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000492%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md) | Travel and transportation: members escorting certain dependents. |
 | [494\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000494%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
 | [495\.](Subchapter%20003%20%28III%29%20-%20Travel%20and%20Transportation%20Authorities%E2%80%94Old%20Law/%C2%A7%2000495%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
@@ -79,8 +72,6 @@ Benefits for certain members assigned to the Defense Intelligence Agency.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> So in original. Section 431 of this title transferred to this chapter by Pub. L. 112–81 without corresponding renumbering.</i>
 
 
 ---

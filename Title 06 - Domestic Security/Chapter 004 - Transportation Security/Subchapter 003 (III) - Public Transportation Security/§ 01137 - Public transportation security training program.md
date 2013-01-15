@@ -28,7 +28,7 @@ The interim final and final regulations developed under subsection (a) shall req
 
 &emsp;(5) Evacuation procedures for passengers and employees, including individuals with disabilities and the elderly.
 
-&emsp;(6) Training related to behavioral and psychological understanding of, and responses to,terrorist incidents, including the ability to cope with hijacker behavior, and passenger responses.
+&emsp;(6) Training related to behavioral and psychological understanding of, and responses to, terrorist incidents, including the ability to cope with hijacker behavior, and passenger responses.
 
 &emsp;(7) Live situational training exercises regarding various threat conditions, including tunnel evacuation procedures.
 
@@ -64,7 +64,7 @@ A public transportation agency that receives a grant award under this subchapter
 
 #### (f) Long-term training requirement
 
-Any public transportation agency required to develop a security training program pursuant to this section shall provide routine and ongoing training for employees covered under the program, regardless of whether the public transportation agency receives subsequent grant awards.
+Any public transportation agency required to develop a security training program pursuant tothis section shall provide routine and ongoing training for employees covered under the program, regardless of whether the public transportation agency receives subsequent grant awards.
 
 #### (g) National Training Program
 

@@ -10,7 +10,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “habitat enhancement” means the manipulation of the physical, chemical, or biological characteristics of a habitat tochange a specific function or seral stage of the habitat.
+&emsp;&emsp;The term “habitat enhancement” means the manipulation of the physical, chemical, or biological characteristics of a habitat to change a specific function or seral stage of the habitat.
 
 #### (B) Inclusions
 

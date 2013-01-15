@@ -54,7 +54,7 @@ Amendment by section 1811(b)(2) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date
 
-Section 149(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to exchanges after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §149(d), July 18, 1984, 98 Stat. 690, provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to exchanges after December 31, 1984.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -2,127 +2,39 @@
 
 (a)
 
-Definitions.—In this section, the following definitions apply:
-
-&emsp;(1)
-
-Associated capital maintenance items.—The term “associated capital maintenance items” means—
-
-&emsp;&emsp;(A) equipment, tires, tubes, and material, each costing at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment, tires, tubes, and material are to be used; and
-
-&emsp;&emsp;(B) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used.
-
-&emsp;(2)
-
-Designated recipient.—The term “designated recipient” means—
-
-&emsp;&emsp;(A) an entity designated, in accordance with the planning process under sections 5303, 5304, and 5306, by the chief executive officer of a State, responsible local officials, and publicly owned operators of public transportation, to receive and apportion amounts under section 5336 that are attributable to transportation management areas identified under section 5303; or
-
-&emsp;&emsp;(B) a State or regional authority if the authority is responsible under the laws of a State for a capital project and for financing and directly providing public transportation.
-
-(b)
-
 General Authority.—
 
 &emsp;(1)
 
 Grants.—The Secretary may make grants under this section for—
 
-&emsp;&emsp;(A) capital projects and associated capital maintenance items;
+&emsp;&emsp;(A) capital projects;
 
 &emsp;&emsp;(B) planning;
 
-&emsp;&emsp;(C) transit enhancements;
+&emsp;&emsp;(C) job access and reverse commute projects; and
 
-&emsp;&emsp;(D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of less than 200,000;
-
-&emsp;&emsp;(E) operating costs of equipment and facilities for use in public transportation in a portion or portions of an urbanized area with a population of at least 200,000, but not more than 225,000, if—
-
-&emsp;&emsp;&emsp;(i) the urbanized area includes parts of more than one State;
-
-&emsp;&emsp;&emsp;(ii) the portion of the urbanized area includes only one State;
-
-&emsp;&emsp;&emsp;(iii) the population of the portion of the urbanized area is less than 30,000; and
-
-&emsp;&emsp;&emsp;(iv) the grants will not be used to provide public transportation outside of the portion of the urbanized area; and
-
-&emsp;&emsp;(F) operating costs of equipment and facilities for use in public transportation for local governmental authorities in areas which adopted transit operating and financing plans that became a part of the Houston, Texas, urbanized area as a result of the 2000 decennial census of population, but lie outside the service area of the principal public transportation agency that serves the Houston urbanized area.
+&emsp;&emsp;(D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
 
 &emsp;(2)
 
-Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—
+Special rule.—The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) for public transportation systems that operate 75 or fewer buses in fixed route service during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
 
-Increased flexibility.—The Secretary may award grants under this section, from funds made available to carry out this section for each of the fiscal years 2005 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012, to finance the operating cost of equipment and facilities for use in public transportation in an urbanized area with a population of at least 200,000, as determined by the 2000 decennial census of population, if—
+&emsp;&emsp;(B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
 
-&emsp;&emsp;&emsp;(i) the urbanized area had a population of less than 200,000, as determined by the 1990 decennial census of population;
+(b)
 
-&emsp;&emsp;&emsp;(ii) a portion of the urbanized area was a separate urbanized area with a population of less than 200,000, as determined by the 1990 decennial census of population;
+Program of Projects.—Each recipient of a grant shall—
 
-&emsp;&emsp;&emsp;(iii) the area was not designated as an urbanized area, as determined by the 1990 decennial census of population; or
-
-&emsp;&emsp;&emsp;(iv) a portion of the area was not designated as an urbanized area, as determined by the 1990 decennial census, and received assistance under section 5311 in fiscal year 2002.
-
-&emsp;&emsp;(B)
-
-Maximum amounts in fiscal year 2005.—In fiscal year 2005—
-
-&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
-
-&emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than the amount apportioned to the urbanized area under this section for fiscal year 2003; and
-
-&emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than the amount the portion of the area received under section 5311 for fiscal year 2002.
-
-&emsp;&emsp;(C)
-
-Maximum amounts in fiscal year 2006.—In fiscal year 2006—
-
-&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than 50 percent of the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
-
-&emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than 50 percent of the amount apportioned to the urbanized area under this section for fiscal year 2003; and
-
-&emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than 50 percent of the amount the portion of the area received under section 5311 for fiscal year 2002.
-
-&emsp;&emsp;(D)
-
-Maximum amounts in fiscal year 2007.—In fiscal year 2007—
-
-&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than 25 percent of the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
-
-&emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than 25 percent of the amount apportioned to the urbanized area under this section for fiscal year 2003; and
-
-&emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than 25 percent of the amount the portion of the area received under section 5311 in fiscal year 2002.
-
-&emsp;&emsp;(E)
-
-Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012.—In each of fiscal years 2008 through 2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012—
-
-&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than 50 percent of the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
-
-&emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than 50 percent of the amount apportioned to the urbanized area under this section for fiscal year 2003; and
-
-&emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than 50 percent of the amount the portion of the area received under section 5311 in fiscal year 2002.
-
-&emsp;(3) In a transportation management area designated under section 5303(k) of this title, amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
-
-&emsp;&emsp;(A) that use is approved, in writing, by the metropolitan planning organization under section 5303 of this title after appropriate notice and an opportunity for comment and appeal is provided to affected public transportation providers;
-
-&emsp;&emsp;(B) the Secretary decides the amounts are not needed for investment required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
-
-&emsp;&emsp;(C) the metropolitan planning organization in approving the use under subparagraph (A) determines that the local transit needs are being addressed.
-
-(c)
-
-Public Participation Requirements.—Each recipient of a grant shall—
-
-&emsp;(1) make available to the public information on amounts available to the recipient under this section and the program of projects the recipient proposes to undertake;
+&emsp;(1) make available to the public information on amounts available to the recipient under this section;
 
 &emsp;(2) develop, in consultation with interested parties, including private transportation providers, a proposed program of projects for activities to be financed;
 
-&emsp;(3) publish a proposed program of projects in a way that affected citizens, private transportation providers, and local elected officials have the opportunity to examine the proposed program and submit comments on the proposed program and the performance of the recipient;
+&emsp;(3) publish a proposed program of projects in a way that affected individuals, private transportation providers, and local elected officials have the opportunity to examine the proposed program and submit comments on the proposed program and the performance of the recipient;
 
-&emsp;(4) provide an opportunity for a public hearing in which to obtain the views of citizens on the proposed program of projects;
+&emsp;(4) provide an opportunity for a public hearing in which to obtain the views of individuals on the proposed program of projects;
 
 &emsp;(5) ensure that the proposed program of projects provides for the coordination of public transportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
 
@@ -130,11 +42,11 @@ Public Participation Requirements.—Each recipient of a grant shall—
 
 &emsp;(7) make the final program of projects available to the public.
 
-(d)
+(c)
 
 Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year only if—
 
-&emsp;(1) the recipient, within the time the Secretary prescribes, submits a final program of projects prepared under subsection (c) of this section and a certification for that fiscal year that the recipient (including a person receiving amounts from a chief executive officer of a State under this section)—
+&emsp;(1) the recipient, within the time the Secretary prescribes, submits a final program of projects prepared under subsection (b) of this section and a certification for that fiscal year that the recipient (including a person receiving amounts from a Governor under this section)—
 
 &emsp;&emsp;(A) has or will have the legal, financial, and technical capacity to carry out the program, including safety and security aspects of the program;
 
@@ -142,45 +54,45 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(C) will maintain equipment and facilities;
 
-&emsp;&emsp;(D) will ensure that elderly and handicapped individuals, or an individual presenting a medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq.), will be charged during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section not more than 50 percent of the peak hour fare;
+&emsp;&emsp;(D) will ensure that, during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section, a fare that is not more than 50 percent of the peak hour fare will be charged for any—
 
-&emsp;&emsp;(E) in carrying out a procurement under this section—
+&emsp;&emsp;&emsp;(i) senior;
 
-&emsp;&emsp;&emsp;(i) will use competitive procurement (as defined or approved by the Secretary);
+&emsp;&emsp;&emsp;(ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportation facility effectively without special facilities, planning, or design; and
 
-&emsp;&emsp;&emsp;(ii) will not use a procurement that uses exclusionary or discriminatory specifications;
+&emsp;&emsp;&emsp;(iii) individual presenting a Medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq. and 1395 et seq.);
 
-&emsp;&emsp;&emsp;(iii) will comply with applicable Buy America laws in carrying out a procurement; and
+&emsp;&emsp;(E) in carrying out a procurement under this section, will comply with sections 5323 and 5325;
 
-&emsp;&emsp;&emsp;(iv) will comply with sections 5323 and 5325;
+&emsp;&emsp;(F) has complied with subsection (b) of this section;
 
-&emsp;&emsp;(F) has complied with subsection (c) of this section;
+&emsp;&emsp;(G) has available and will provide the required amounts as provided by subsection (d) of this section;
 
-&emsp;&emsp;(G) has available and will provide the required amounts as provided by subsection (e) of this section;
-
-&emsp;&emsp;(H) will comply with section 5301(a), section 5301(d), and sections 5303 through 5306;
+&emsp;&emsp;(H) will comply with sections 5303 and 5304;
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation;
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
-&emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary; and
+&emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary;
 
-&emsp;&emsp;(K) in the case of a recipient for an urbanized area with a population of at least 200,000—
+&emsp;&emsp;(K) in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
-&emsp;&emsp;&emsp;(i) will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for transit enhancements, as defined in section 5302(a); and
+&emsp;&emsp;&emsp;(i) will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for associated transit improvements, as defined in section 5302; and
 
 &emsp;&emsp;&emsp;(ii) will submit an annual report listing projects carried out in the preceding fiscal year with those funds; and
 
+&emsp;&emsp;(L) will comply with section 5329(d); and
+
 &emsp;(2) the Secretary accepts the certification.
 
-(e)
+(d)
 
-Government's Share of Costs.—
+Government Share of Costs.—
 
 &emsp;(1)
 
-Capital projects.—A grant for a capital project (including associated capital maintenance items) under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
+Capital projects.—A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
 
 &emsp;(2)
 
@@ -188,91 +100,109 @@ Operating expenses.—A grant for operating expenses under this section may not 
 
 &emsp;(3)
 
-Remaining costs.—Subject to paragraph (4), the remainder of the net project cost shall be provided—
+Remaining costs.—Subject to paragraph (4), the remainder of the net project costs shall be provided—
 
 &emsp;&emsp;(A) in cash from non-Government sources other than revenues from providing public transportation services;
 
-&emsp;&emsp;(B) from revenues derived from the sale of advertising and concessions;
+&emsp;&emsp;(B) from revenues from the sale of advertising and concessions;
 
-&emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital; and
+&emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital;
 
-&emsp;&emsp;(D) from amounts received under a service agreement with a State or local social service agency or private social service organization.
+&emsp;&emsp;(D) from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
+
+&emsp;&emsp;(E) from amounts received under a service agreement with a State or local social service agency or private social service organization.
 
 &emsp;(4)
 
-Use of certain funds.—The prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to the remainder.
+Use of certain funds.—For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
 
-(f)
+(e)
 
-Statewide Operating Assistance.—(1) A State authority that is a designated recipient and providing public transportation in at least 2 urbanized areas may apply for operating assistance in an amount not more than the amount for all urbanized areas in which it provides transportation.
-
-(2) When approving an application under paragraph (1) of this subsection, the Secretary may not reduce the amount of operating assistance approved for another State or a local transportation authority within the affected urbanized areas.
-
-(g)
-
-Undertaking Projects in Advance.—(1) When a recipient obligates all amounts apportioned to it under section 5336 of this title and then carries out a part of a project described in this section (except a project for operating expenses) without amounts of the Government and according to all applicable procedures and requirements (except to the extent the procedures and requirements limit a State to carrying out a project with amounts of the Government previously apportioned to it), the Secretary may pay to the recipient the Government's share of the cost of carrying out that part when additional amounts are apportioned to the recipient under section 5336 if—
-
-&emsp;(A) the recipient applies for the payment;
-
-&emsp;(B) the Secretary approves the payment; and
-
-&emsp;(C) before carrying out that part, the Secretary approves the plans and specifications for the part in the same way as for other projects under this section.
-
-(2) The Secretary may approve an application under paragraph (1) of this subsection only if an authorization for this section is in effect for the fiscal year to which the application applies. The Secretary may not approve an application if the payment will be more than—
-
-&emsp;(A) the recipient's expected apportionment under section 5336 of this title if the total amount authorized to be appropriated for the fiscal year to carry out this section is appropriated; less
-
-&emsp;(B) the maximum amount of the apportionment that may be made available for projects for operating expenses under this section.
-
-(3) The cost of carrying out that part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended in carrying out the part. However, the amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
-
-(h)
-
-Reviews, Audits, and Evaluations.—(1)(A) At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
-
-&emsp;(i) the activities proposed under subsection (d) of this section in a timely and effective way and can continue to do so; and
-
-&emsp;(ii) those activities and its certifications and has used amounts of the Government in the way required by law.
-
-(B) An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
-
-(2) At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (d) of this section and the planning process required under sections 5303–5306 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
-
-(3) The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
-
-(i)
-
-Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement. Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
-
-(j)
-
-Operating Ferries Outside Urbanized Areas.—A vessel used in ferryboat operations financed under section 5336 of this title that is part of a State-operated ferry system may be operated occasionally outside the urbanized area in which service is provided to accommodate periodic maintenance if existing ferry service is not reduced significantly by operating outside the area.
-
-(k)
-
-Relationship to Other Laws.—
+Undertaking Projects in Advance.—
 
 &emsp;(1)
 
-Applicable provisions.—Sections 5301, 5302, 5303, 5304, 5306, 5315(c), 5318, 5319, 5323, 5325, 5327, 5329, 5330, 5331, 5332, 5333, and 5335 apply to this section and to any grant made under this section.
+Payment.—The Secretary may pay the Government share of the net project cost to a State or local governmental authority that carries out any part of a project eligible under subparagraph (A) or (B) of subsection (a)(1) without the aid of amounts of the Government and according to all applicable procedures and requirements if—
+
+&emsp;&emsp;(A) the recipient applies for the payment;
+
+&emsp;&emsp;(B) the Secretary approves the payment; and
+
+&emsp;&emsp;(C) before carrying out any part of the project, the Secretary approves the plans and specifications for the part in the same way as for other projects under this section.
 
 &emsp;(2)
 
-Inapplicable provisions.—
+Approval of application.—The Secretary may approve an application under paragraph (1) of this subsection only if an authorization for this section is in effect for the fiscal year to which the application applies. The Secretary may not approve an application if the payment will be more than—
+
+&emsp;&emsp;(A) the recipient's expected apportionment under section 5336 of this title if the total amount authorized to be appropriated for the fiscal year to carry out this section is appropriated; less
+
+&emsp;&emsp;(B) the maximum amount of the apportionment that may be made available for projects for operating expenses under this section.
+
+&emsp;(3)
+
+Financing costs.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided by this section, no other provision of this chapter applies to this section or to a grant made under this section.
+In general.—The cost of carrying out part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended in carrying out the part.
 
 &emsp;&emsp;(B)
 
-Title 5.—The provision of assistance under this chapter shall not be construed as bringing within the application of chapter 15 of title 5 any nonsupervisory employee of a public transportation system (or any other agency or entity performing related functions) to which such chapter is otherwise inapplicable.
+Limitation on the amount of interest.—The amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing.
 
-(<i>l</i>)
+&emsp;&emsp;(C)
 
-Treatment.—For the purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
+Certification.—The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350.)
+(f)
+
+Reviews, Audits, and Evaluations.—
+
+&emsp;(1)
+
+Annual review.—
+
+&emsp;&emsp;(A)
+
+In general.—At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
+
+&emsp;&emsp;&emsp;(i) the activities proposed under subsection (c) of this section in a timely and effective way and can continue to do so; and
+
+&emsp;&emsp;&emsp;(ii) those activities and its certifications and has used amounts of the Government in the way required by law.
+
+&emsp;&emsp;(B)
+
+Auditing procedures.—An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
+
+&emsp;(2)
+
+Triennial review.—At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
+
+&emsp;(3)
+
+Actions resulting from review, audit, or evaluation.—The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
+
+(g)
+
+Treatment.—For purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
+
+(h)
+
+Passenger Ferry Grants.—
+
+&emsp;(1)
+
+In general.—The Secretary may make grants under this subsection to recipients for passenger ferry projects that are eligible for a grant under subsection (a).
+
+&emsp;(2)
+
+Grant requirements.—Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (a).
+
+&emsp;(3)
+
+Competitive process.—The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §302, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §302, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20007, div. G, title III, §113002, July 6, 2012, 126 Stat. 652, 983.)
 
 Historical and Revision Notes
 
@@ -412,7 +342,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(r); added Dec. 18, 1991, Pub. 
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(e)(1); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2143; Apr. 2, 1987, Pub. L. 100–17, §327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, §3013(c), 105 Stat. 2106.
 
-In subsection (a)(2)(A), the word “required” is omitted as surplus. The word “apportion” is substituted for “dispense” for consistency in this chapter. The word “appropriated” is omitted for clarity.
+In subsection (a)(2)(A), the word “required” is omitted as surplus. The word “apportion” is substituted for“dispense” for consistency in this chapter. The word “appropriated” is omitted for clarity.
 
 In subsection (a)(2)(B), the word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “by lease, contract, or otherwise” are omitted as surplus.
 
@@ -440,7 +370,7 @@ In subsection (f), the word “authority” is substituted for “agency or inst
 
 In subsection (f)(1), the words “is responsible under State laws for the financing, construction and operation, directly by lease, contract or otherwise, of public transportation services” are omitted as surplus because a State that is a designated recipient has that responsibility. The words “of UMTA funds”, “combined total permissible”, and “regardless of whether the amount for any particular urbanized area is exceeded” are omitted as surplus.
 
-In subsection (f)(2), the word “Secretary” is substituted for “UMTA” \[subsequently changed to “FTA”because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words “This provision shall take effect with the fiscal year 1990 section 9 apportionment” are omitted as obsolete.
+In subsection (f)(2), the word “Secretary” is substituted for “UMTA” \[subsequently changed to “FTA” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words “This provision shall take effect with the fiscal year 1990 section 9 apportionment” are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the word “applies” is substituted for “is sought beyond the currently authorized funds for such recipient” to eliminate unnecessary words. In clause (A), the words “of funds” are omitted as surplus.
 
@@ -454,7 +384,7 @@ In subsection (i)(2), the words “In addition to the reviews and audits describ
 
 Subsection (i)(3) is substituted for 49 App.:1607a(g)(3) to eliminate unnecessary words.
 
-In subsection (<i>l</i>), the words “Administrator for Federal Procurement Policy” are substituted for “Office of Federal Procurement Policy” because of 41:404(b). The words “Such approval shall be binding until withdrawn” are omitted as surplus.
+In subsection (l), the words “Administrator for Federal Procurement Policy” are substituted for “Office of Federal Procurement Policy” because of 41:404(b). The words “Such approval shall be binding until withdrawn” are omitted as surplus.
 
 In subsection (n)(1), the words “available under section 5336 of this title” are substituted for “available under this subsection” for clarity.
 
@@ -474,25 +404,87 @@ This amends 49:5307(a)(2) to delete an obsolete provision.
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
-
-The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of such Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of such Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–30, §132(1), substituted “Special rule for fiscal years 2005 through 2011 and the period beginning on October 1, 2011, and ending on March 31, 2012” for “Special rule for fiscal years 2005 through 2011” in heading.
+<b>2012</b>—Pub. L. 112–141, §20007, amended section generally. Prior to amendment, section related to urbanized area formula grants and consisted of subsecs. (a) to (l).
 
-Pub. L. 112–5, §302(1), substituted “Special rule for fiscal years 2005 through 2011” for “Special rule for fiscal years 2005 through 2010, and the period beginning October 1, 2010, and ending March 4, 2011” in heading.
+Subsec. (b)(2). Pub. L. 112–141, §113002(1), substituted “
+
+Special rule for fiscal years 2005 through 2012” for “
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading.
+
+Pub. L. 112–140, §§1(c), 302(1), temporarily substituted “
+
+ending on july 6, 2012” for “
+
+ending on june 30, 2012” in heading. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §302(1), substituted “
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” for “
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 112–141, §113002(2), substituted “2012,” for “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+
+Pub. L. 112–140, §§1(c), 302(2), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §302(2), substituted “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+
+Subsec. (b)(2)(E). Pub. L. 112–141, §113002(3), substituted “
+
+Maximum amounts in fiscal years 2008through 2012” for “
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading and “2012” for “2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012” in introductory provisions.
+
+Pub. L. 112–140, §§1(c), 302(3), temporarily substituted “
+
+ending on july 6, 2012” for “
+
+ending on june 30, 2012” in heading and “ending on July 6, 2012” for “ending on June 30, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, §302(3), substituted “
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” for “
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” in heading and “2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012” for “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” in introductory provisions.
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–30, §132(1), substituted “
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “
+
+Special rule for fiscal years 2005 through 2011” in heading.
+
+Pub. L. 112–5, §302(1), substituted “
+
+Special rule for fiscal years 2005 through 2011” for “
+
+Special rule for fiscal years 2005 through 2010, and the period beginning october 1, 2010, and ending march 4, 2011” in heading.
 
 Subsec. (b)(2)(A). Pub. L. 112–30, §132(2), substituted “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
 
 Pub. L. 112–5, §302(2), substituted “2011,” for “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
 
-Subsec. (b)(2)(E). Pub. L. 112–30, §132(3), substituted “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “Maximum amounts in fiscal years 2008 through 2011” in heading and “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011” in introductory provisions.
+Subsec. (b)(2)(E). Pub. L. 112–30, §132(3), substituted “
 
-Pub. L. 112–5, §302(3), substituted “Maximum amounts in fiscal years 2008 through 2011” for “Maximum amounts in fiscal years 2008 through 2010 and during the period beginning October 1, 2010, and ending March 4, 2011” in heading and “In each of fiscal years 2008 through 2011” for “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–322, §2302(1), substituted “March 4, 2011” for “December 31, 2010” in heading.
+Maximum amounts in fiscal years 2008 through 2011” in heading and “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011” in introductory provisions.
+
+Pub. L. 112–5, §302(3), substituted “
+
+Maximum amounts in fiscal years 2008 through 2011” for “
+
+Maximum amounts in fiscal years 2008 through 2010 and during the period beginning october 1, 2010, and ending march 4, 2011” in heading and “In each of fiscal years 2008 through 2011” for “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–322, §2302(1), substituted “
+
+march 4, 2011” for “
+
+december 31, 2010” in heading.
 
 Pub. L. 111–147, §432(1), substituted “
 
@@ -504,7 +496,11 @@ Subsec. (b)(2)(A). Pub. L. 111–322, §2302(2), substituted “March 4, 2011”
 
 Pub. L. 111–147, §432(2), substituted “2010, and the period beginning October 1, 2010, and ending December 31, 2010,” for “2009,” in introductory provisions.
 
-Subsec. (b)(2)(E). Pub. L. 111–322, §2302(3), substituted “March 4, 2011” for “December 31, 2010” in heading and introductory provisions.
+Subsec. (b)(2)(E). Pub. L. 111–322, §2302(3), substituted “
+
+march 4, 2011” for “
+
+december 31, 2010” in heading and “March 4, 2011” for “December 31, 2010” in introductory provisions.
 
 Pub. L. 111–147, §432(3), substituted “
 
@@ -512,7 +508,11 @@ through 2010 and during the period beginning october 1, 2010, and ending decembe
 
 and 2009” in heading and “through 2010, and during the period beginning October 1, 2010, and ending December 31, 2010,” for “and 2009” in introductory provisions.
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–244, §201(c)(1), substituted “2009” for “2007” in heading.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–244, §201(c)(1), substituted “
+
+2009” for “
+
+2007” in heading.
 
 Subsec. (b)(2)(A). Pub. L. 110–244, §201(c)(2), in introductory provisions, substituted “2009” for “2007” and “public” for “mass”.
 
@@ -526,7 +526,7 @@ Subsec. (a)(2)(A). Pub. L. 109–59, §3009(b)(2), amended subpar. (A) generally
 
 Subsec. (a)(2)(B). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary of Transportation may make grantsunder this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
+Subsec. (b)(1). Pub. L. 109–59, §3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
 
 Subsec. (b)(2). Pub. L. 109–59, §3009(c)(2), added par. (2) and struck out former par. (2) which related to special rule for fiscal years 2003 and 2004 and for the period of Oct. 1, 2004, through July 30, 2005.
 
@@ -580,7 +580,7 @@ Subsec. (d)(1)(A). Pub. L. 109–59, §3009(d)(1), inserted “, including safe
 
 Subsec. (d)(1)(E)(iv). Pub. L. 109–59, §3009(d)(2), added cl. (iv).
 
-Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted “section 5301(a), section 5301(d), and sections 5303 through 5306” for “sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title”.
+Subsec. (d)(1)(H). Pub. L. 109–59, §3009(d)(3), substituted “section 5301(a), section 5301(d), and sections5303 through 5306” for “sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title”.
 
 Subsec. (d)(1)(J)(i). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
@@ -592,7 +592,7 @@ Subsec. (f)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transporta
 
 Subsec. (g)(4). Pub. L. 109–59, §3009(f), struck out par. (4) which read as follows: “The Secretary shall consider changes in capital project cost indices when determining the estimated cost under paragraph (3) of this subsection.”
 
-Subsecs. (h), (i). Pub. L. 109–59, §3009(a), redesignated subsecs. (i) and (<i>l</i>) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “The Secretary shall prescribe streamlined administrative procedures for complying with the certification requirement under subsection (d)(1)(B) and (C) of this section for track and signal equipment used in existing operations.”
+Subsecs. (h), (i). Pub. L. 109–59, §3009(a), redesignated subsecs. (i) and (l) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “The Secretary shall prescribe streamlined administrative procedures for complying with the certification requirement under subsection (d)(1)(B) and (C) of this section for track and signal equipment used in existing operations.”
 
 Subsec. (j). Pub. L. 109–59, §3009(a), redesignated subsec. (m) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “A recipient (including a person receiving amounts from a chief executive officer of a State under this section) shall submit annually to the Secretary a report on the revenues the recipient derives from the sale of advertising and concessions.”
 
@@ -616,9 +616,9 @@ Period of availability.—Funds apportioned under paragraph (1) shall be availab
 
 Report.—A recipient of funds apportioned under paragraph (1) shall submit, as part of the recipient's annual certification to the Secretary, a report listing the projects carried out during the preceding fiscal year with those funds.”
 
-Subsec. (<i>l</i>). Pub. L. 109–59, §3009(h), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 109–59, §3009(h), added subsec. (l).
 
-Pub. L. 109–59, §3009(a)(2), redesignated subsec. (<i>l</i>) as (i).
+Pub. L. 109–59, §3009(a)(2), redesignated subsec. (l) as (i).
 
 Subsecs. (m), (n). Pub. L. 109–59, §3009(a)(2), redesignated subsecs. (m) and (n) as (j) and (k), respectively.
 
@@ -702,6 +702,14 @@ Subsec. (n)(2). Pub. L. 105–178, §3007(g), inserted “5319,” after “5318
 
 Subsec. (d)(1)(E)(iii). Pub. L. 103–429, §6(7)(B), substituted “Buy America” for “Buy-American”.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by section 20007 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by section 113002 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under section 5305 of this title.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
@@ -716,135 +724,19 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Pilot Program for Cooperative Procurement of Major Capital Equipment
 
-Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, provided that: “The Secretary shall continue the pilot program authorized under section 166 of the Consolidated Appropriations Act, 2004, Public Law 108–199; 118 Stat. 309 \[set out below\], for cooperative procurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall be administered as required under subsections (b) through (g) of section 166, except that there shall be five pilot projects: <i>Provided</i>, That the Secretary shall evaluate all proposals based on selection criteria set forth in the announcement of the program and request for proposals (Federal Register Notice—Vol. 69, No. 120, Page 35127, June 23, 2004). All proposed projects shall be evaluated and the proposing party shall receive notification of acceptance or denial by no later than 90 days after the Secretary receives a request for review of a proposed project: <i>Provided further</i>, That not later than 30 days after delivery of the base order under each of the five pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
+Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, required the Secretary to continue the pilot program authorized under section 166 of Pub. L. 108–199, increased the program to 5 pilot projects, and required reports on the results of the projects.
 
-Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, provided that:
-
-“(a)
-
-In General.—The Secretary shall establish a pilot program to determine the benefits of encouraging cooperative procurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall consist of three pilot projects. Cooperative procurements in these projects may be carried out by grantees, consortiums of grantees, or members of the private sector acting as agents of grantees.
-
-“(b)
-
-Federal Share.—Notwithstanding any other provision of law, the Federal share for a grant under this pilot program shall be 90 percent of the net project cost.
-
-“(c)
-
-Permissible Activities.—
-
-&emsp;“(1)
-
-Developing specifications.—Cooperative specifications may be developed either by the grantees or their agents.
-
-&emsp;“(2)
-
-Requests for proposals.—To the extent permissible under State and local law, cooperative procurements under this section may be carried out, either by the grantees or their agents, by issuing one request for proposal for each cooperative procurement, covering all agencies that are participating in the procurement.
-
-&emsp;“(3)
-
-Best and final offers.—The cost of evaluating best and final offers either by the grantees or their agents, is an eligible expense under this program.
-
-“(d)
-
-Technology.—To the extent feasible, cooperative procurements under this section shall maximize use of Internet-based software technology designed specifically for transit buses and other major capital equipment to develop specifications; aggregate equipment requirements with other transit agencies; generate cooperative request for proposal packages; create cooperative specifications; and automate the request for approved equals process.
-
-“(e)
-
-Eligible Expenses.—The cost of the permissible activities under (c) and procurement under (d) are eligible expenses under the pilot program.
-
-“(f)
-
-Proportionate Contributions.—Cooperating agencies may contribute proportionately to the non-Federal share of any of the eligible expenses under (e).
-
-“(g)
-
-Outreach.—The Secretary shall conduct outreach on cooperative procurement. Under this program the Secretary shall: (1) offer technical assistance to transit agencies to facilitate the use of cooperative procurement of major capital equipment; and (2) conduct seminars and conferences for grantees, nationwide, on the concept of cooperative procurement of major capital equipment.
-
-“(h)
-
-Report.—Not later than 30 days after delivery of the base order under each of the pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
+Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, required the Secretary to establish a pilot program consisting of 3 pilot projects related to cooperative procurement of major capital equipment and required reports on the results of the projects.
 
 #### Local Share
 
-Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, provided that:
-
-“(a)
-
-In General.—Notwithstanding any other provision of law, for fiscal years 1999 through 2004 and for the period of October 1, 2004, through July 30, 2005, a recipient of assistance under section 5307 or 5309 of title 49, United States Code, may use, as part of the local matching funds for a capital project (as defined in section 5302(a) of title 49, United States Code), the proceeds from the issuance of revenue bonds.
-
-“(b)
-
-Maintenance of Effort.—The Secretary \[of Transportation\] shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost (as defined in section 5302(a) of title 49, United States Code) only if the aggregate amount of financial support for mass transportation in the urbanized area from the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State Transportation Improvement Program under section 135 of title 23, United States Code, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
-
-“(c)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—Not later than January 1, 2003, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report on the recipients described in subsection (a) that have used, as part of the local matching funds for a capital project, the proceeds from the issuance of revenue bonds, during the period described in subsection (a).
-
-&emsp;“(2)
-
-Contents of report.—The report required by this subsection shall include—
-
-&emsp;&emsp;“(A) information on each project undertaken, the amount of the revenue bonds issued, and the status of repayment of the bonds; and
-
-&emsp;&emsp;“(B) any recommendations of the Secretary regarding the application of this section.”
+Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
 
 #### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
 
-Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by Pub. L. 105–206, title IX, §9009(m), July 22, 1998, 112 Stat. 857; Pub. L. 105–277, div. A, §101(g) \[title III, §354\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476; Pub. L. 106–69, title III, §323, Oct. 9, 1999, 113 Stat. 1020, provided that:
-
-“(a)
-
-In General.—The Secretary \[of Transportation\] shall establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail. The funds made available to the State of Oklahoma and the State of Vermont to carry out sections 5307 and 5311 of title 49, United States Code during fiscal years 1998 through 2003 may be used for capital improvements to, and operating assistance for, intercity passenger rail service.
-
-“(b)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—Not later than October 1, 2002, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the pilot program established under this section.
-
-&emsp;“(2)
-
-Contents.—The report submitted under paragraph (1) shall include—
-
-&emsp;&emsp;“(A) an evaluation of the effect of the pilot program on alternative forms of transportation within the State of Oklahoma and the State of Vermont;
-
-&emsp;&emsp;“(B) an evaluation of the effect of the program on operators of mass transportation and their passengers;
-
-&emsp;&emsp;“(C) a calculation of the amount of Federal assistance provided under this section transferred for the provision of intercity passenger rail service; and
-
-&emsp;&emsp;“(D) an estimate of the benefits to intercity passenger rail service, including the number of passengers served, the number of route miles covered, and the number of localities served by intercity passenger rail service.”
+Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by Pub. L. 105–206, title IX, §9009(m), July 22, 1998, 112 Stat. 857; Pub. L. 105–277, div. A, §101(g) \[title III, §354\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476; Pub. L. 106–69, title III, §323, Oct. 9, 1999, 113 Stat. 1020, required the Secretary of Transportation to establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail and required a report evaluating the program to be submitted no later than Oct. 1, 2002.
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, provided that:
-
-“(1)
-
-Provision of assistance.—Notwithstanding any other provision of law, during the period described in paragraph (2), the Secretary \[of Transportation\] may continue to provide assistance under section 5307 of title 49, United States Code, to finance the operating costs of equipment and facilities for use in mass transportation in any urbanized area (as that term is defined in section 5302 of title 49, United States Code) with a population of at least 200,000, if the Secretary determines that—
-
-&emsp;“(A) the number of the total bus revenue vehicle-miles operated in or directly serving the area is less than 900,000; and
-
-&emsp;“(B) the number of buses operated in or directly serving the area does not exceed 15.
-
-“(2)
-
-Period described.—For purposes of paragraph (1), the period described in this paragraph is the period beginning on the date of enactment of this Act \[June 9, 1998\] and ending on the earlier of—
-
-&emsp;“(A) 3 years after the date of enactment of this Act; and
-
-&emsp;“(B) the date on which the Secretary determines that—
-
-&emsp;&emsp;“(i) the number of the total bus revenue vehicle-miles operated in or directly serving the area is greater than or equal to 900,000; and
-
-&emsp;&emsp;“(ii) the number of buses operated in or directly serving the area exceeds 15.
-
-“(3)
-
-Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
 

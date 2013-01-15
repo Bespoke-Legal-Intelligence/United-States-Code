@@ -4,7 +4,7 @@ Sections 431 and 432 of this title shall not extend to any contract or agreement
 
 Any exemption permitted by this section shall be made a matter of public record.
 
-(June 25, 1948, ch. 645, 62 Stat. 703; Pub. L. 87–353, §3(<i>o</i>), Oct. 4, 1961, 75 Stat. 774.)
+(June 25, 1948, ch. 645, 62 Stat. 703; Pub. L. 87–353, §3(o), Oct. 4, 1961, 75 Stat. 774.)
 
 #### Historical and Revision Notes
 

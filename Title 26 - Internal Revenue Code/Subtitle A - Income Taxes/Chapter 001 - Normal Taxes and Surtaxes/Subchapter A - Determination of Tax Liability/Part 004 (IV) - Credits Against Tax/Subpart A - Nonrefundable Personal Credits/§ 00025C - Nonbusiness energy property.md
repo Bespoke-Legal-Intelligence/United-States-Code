@@ -158,15 +158,17 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;(1) after December 31, 2007, and before January 1, 2009, or
 
-&emsp;(2) after December 31, 2011..<sup>3</sup>
+&emsp;(2) after December 31, 2013..<sup>3</sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337.)
 
 #### References in Text
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(2). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsecs. (a), (b). Pub. L. 111–312, §710(b)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
@@ -251,6 +253,10 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted “placed in service—”
 <b>2007</b>—Subsec. (c)(3). Pub. L. 110–172 substituted “part 3280” for “section 3280”.
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §401(b), Jan. 2, 2013, 126 Stat. 2337, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

@@ -56,5 +56,5 @@ Subsec. (c). Pub. L. 96–462, §5(c), added Alleghany, Ashe, Watauga, and Wilke
 
 Amendment by Pub. L. 96–462 effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see section 7 of Pub. L. 96–462, set out as a note under section 84 of this title.
 
-Section 5(d) of Pub. L. 96–462 provided that: “The amendments made by this section \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in any judicial district of North Carolina on such date.”
+Pub. L. 96–462, §5(d), Oct. 15, 1980, 94 Stat. 2054, provided that: “The amendments made by this section \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in any judicial district of North Carolina on such date.”
 

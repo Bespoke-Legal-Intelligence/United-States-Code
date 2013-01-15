@@ -144,7 +144,7 @@ Act Aug. 3, 1954, ch. 655, §3, 68 Stat. 662, provided that materials which the 
 
 #### Homebound Physically Handicapped Individuals
 
-Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results of such study, together with such recommendations as may be desirable.
+Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results ofsuch study, together with such recommendations as may be desirable.
 
 #### State Compliance With Chapter
 
@@ -152,5 +152,5 @@ Act July 6, 1943, ch. 190, §3(b), 57 Stat. 380, authorized particular States wh
 
 #### Appropriations for Vocational Rehabilitation
 
-Act June 26, 1940, ch. 428, 54 Stat. 583, making appropriations for the fiscal year ending June 30, 1941, madecertain appropriations for cooperative vocational rehabilitation, and expenses connected therewith, with provisions for apportionment to the States to be computed in accordance with act June 2, 1920, ch. 219, 41 Stat. 735, and other acts.
+Act June 26, 1940, ch. 428, 54 Stat. 583, making appropriations for the fiscal year ending June 30, 1941, made certain appropriations for cooperative vocational rehabilitation, and expenses connected therewith, with provisions for apportionment to the States to be computed in accordance with act June 2, 1920, ch. 219, 41 Stat. 735, and other acts.
 

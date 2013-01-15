@@ -186,7 +186,7 @@ Pub. L. 105–368, title III, §301(b), Nov. 11, 1998, 112 Stat. 3332, provided 
 
 #### Effective Date of 1993 Amendment
 
-Section 1(b) of Pub. L. 103–161 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginning after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–161, §1(b), Nov. 30, 1993, 107 Stat. 1967, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginning after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 95–479 effective Jan. 1, 1979, see section 401(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Transfer of Functions
 

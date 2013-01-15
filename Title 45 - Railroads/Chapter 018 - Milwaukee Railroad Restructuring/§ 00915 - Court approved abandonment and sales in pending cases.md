@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 (ii) If more than one applicant has requested under this subparagraph that the Commission prescribe the terms of acquisition for the same or overlapping lines or portions of such lines, the Commission shall prescribe terms for such acquisition which it determines best serve the public interest.
 
-(D)(i) Within 15 days after the Commission prescribes terms under subparagraph (C) of this paragraph, the Commission shall transmit such terms to the court, unless the offer is withdrawn under such subparagraph. Notwithstanding any other provision of law, the court shall, within 60 days after such transmittal, approve the acquisition under terms prescribed by the Commission if the compensation for the line or lines is not less than that required as a constitutional minimum.
+(D)(i) Within 15 days after the Commission prescribes terms under subparagraph (C) of this paragraph, the Commission shall transmit such terms to the court, unless the offer is withdrawn under such subparagraph. Notwithstanding anyother provision of law, the court shall, within 60 days after such transmittal, approve the acquisition under terms prescribed by the Commission if the compensation for the line or lines is not less than that required as a constitutional minimum.
 
 (ii) Except as provided in this subparagraph, no action shall be taken by the court which would prejudice the acquisition which is the subject of an application under this paragraph.
 

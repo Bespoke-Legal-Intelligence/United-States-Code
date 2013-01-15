@@ -22,7 +22,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–207 substituted “Secretary of Energy” for “Atomic Energy Commission”.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite to acceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
+<b>1988</b>—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite toacceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
 
 <b>1985</b>—Subsec. (b)(1). Pub. L. 99–159, §§109(e)(2), 110(a)(19)(A), substituted “engineering” for “technical” and “1873(f)” for “1873(g)”.
 

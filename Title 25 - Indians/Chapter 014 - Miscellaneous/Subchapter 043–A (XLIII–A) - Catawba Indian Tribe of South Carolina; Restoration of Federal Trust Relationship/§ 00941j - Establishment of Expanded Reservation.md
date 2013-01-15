@@ -30,7 +30,7 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 #### (d) Non-contiguous tracts
 
-The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shall comply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 ofthe Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
+The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shallcomply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 of the Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
 
 #### (e) Voluntary land purchases
 
@@ -68,7 +68,7 @@ With the approval of the Secretary, the Tribe may sell, exchange, or lease lands
 
 All acquisitions of contiguous land to expand the Reservation or of non-contiguous lands to be placed in Reservation status shall be completed or under contract of purchase within 10 years from the date the last payment is made into the Land Acquisition Trust; except that for a period of 20 years after the date the last payment is made into the Catawba Land Acquisition Trust Fund, the Tribe may, subject to the limitation on the total size of the Reservation, continue to add parcels to up to two Reservation areas so long as the parcels acquired are contiguous to one of those two Reservation areas.
 
-#### (<i>l</i>) Leases of Reservation lands
+#### (l) Leases of Reservation lands
 
 The provisions of section 415 of this title shall not apply to the Tribe and its Reservation. The Tribe is authorized to lease its Reservation lands for terms up to but not exceeding 99 years, with or without the approval of the Secretary. With regard to any lease of Reservation lands not approved by the Secretary, the Secretary shall be exculpated by the Tribe from any liability arising out of any loss incurred by the Tribe as a result of the unapproved lease.
 

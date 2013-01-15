@@ -10,7 +10,7 @@ General Authority.—(1) The Secretary of Defense may enter into bilateral or mu
 
 (2) Such an agreement may provide for—
 
-&emsp;(A) the transfer of logistics support, supplies, and services by the United States to theNATO Maintenance and Supply Organization; and
+&emsp;(A) the transfer of logistics support, supplies, and services by the United States to the NATO Maintenance and Supply Organization; and
 
 &emsp;(B) the acquisition of logistics support, supplies, and services by the United States from that Organization.
 

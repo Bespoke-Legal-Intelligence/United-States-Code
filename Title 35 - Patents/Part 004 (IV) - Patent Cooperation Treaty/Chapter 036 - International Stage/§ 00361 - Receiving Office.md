@@ -8,9 +8,19 @@
 
 (d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, §202(b)(7), Dec. 18, 2012, 126 Stat. 1536.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–211, title II, §§202(b)(7), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (c) and inserting the following:</i>
+
+<i>(c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.</i>
+
+<i>See 2012 Amendment note below.</i>
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–211 added subsec. (c) and struck out former subsec. (c) which read as follows: “International applications filed in the Patent and Trademark Office shall be in the English language.”
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -21,6 +31,10 @@
 <b>1984</b>—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
 Subsec. (d). Pub. L. 98–622, §401(a), inserted “or within one month after the date of such filing” after “application”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
 
 #### Effective Date of 1999 Amendment
 

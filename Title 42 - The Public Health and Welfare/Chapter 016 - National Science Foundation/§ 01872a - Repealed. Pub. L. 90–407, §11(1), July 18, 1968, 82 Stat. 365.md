@@ -4,7 +4,7 @@ Section, act May 10, 1950, ch. 171, §14, as added July 11, 1958, Pub. L. 85–5
 
 #### Effective Date of Repeal
 
-Section 11(1) of Pub. L. 90–407 provided that the repeal of this section is effective Sept. 1, 1968, and that provisions authorizing Foundation to initiate and support programs in field of weather modification should remain in effect until Sept. 1, 1968, for purpose of this section.
+Pub. L. 90–407, §11(1), July 18, 1968, 82 Stat. 365, provided that the repeal of this section is effective Sept. 1, 1968, and that provisions authorizing Foundation to initiate and support programs in field of weather modification should remain in effect until Sept. 1, 1968, for purpose of this section.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

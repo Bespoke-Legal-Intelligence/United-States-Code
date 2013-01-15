@@ -66,7 +66,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (B) Coordination with subsection (d)
 
-&emsp;&emsp;If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any terminterest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
+&emsp;&emsp;If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any term interest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
 
 #### (5) Definitions
 
@@ -396,7 +396,7 @@ Subsec. (j). Pub. L. 101–508, §11812(a)(1), struck out subsec. (j) which rela
 
 Subsec. (k). Pub. L. 101–508, §11812(a)(1), struck out subsec. (k) which related to depreciation of expenditures to rehabilitate low-income rental housing.
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §11812(a)(1), struck out subsec. (<i>l</i>) which related to reasonable allowance in case of property of certain utilities, pre-1970 public utility property and post-1969 public utility property.
+Subsec. (l). Pub. L. 101–508, §11812(a)(1), struck out subsec. (l) which related to reasonable allowance in case of property of certain utilities, pre-1970 public utility property and post-1969 public utility property.
 
 Subsec. (m). Pub. L. 101–508, §11812(a)(1), struck out subsec. (m) which related to class lives.
 
@@ -414,7 +414,7 @@ Pub. L. 101–239, §7622(b)(1) \[(d)(1)\], repealed subsec. (r) which provided 
 
 Subsec. (d). Pub. L. 100–647, §1002(a)(31), substituted “property to which section 168 applies” for “recovery property defined in section 168”.
 
-Subsec. (<i>l</i>)(3)(G). Pub. L. 100–647, §1002(a)(22), substituted “section 168(i)(9)(B)” for “section 168(e)(3)(C)” in last sentence.
+Subsec. (l)(3)(G). Pub. L. 100–647, §1002(a)(22), substituted “section 168(i)(9)(B)” for “section 168(e)(3)(C)” in last sentence.
 
 Subsecs. (r), (s). Pub. L. 100–647, §1002(i)(1), added subsec. (r) and redesignated former subsec. (r) as (s).
 
@@ -426,7 +426,7 @@ Subsec. (q)(2)(B). Pub. L. 99–514, §1511(c)(4), substituted “at the underpa
 
 <b>1984</b>—Subsec. (k)(1), (3)(D). Pub. L. 98–369 substituted “January 1, 1987” for “January 1, 1984” wherever appearing.
 
-<b>1983</b>—Subsec. (<i>l</i>)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rules similar to the rules of section 168(e)(3)(C) of this title shall apply.
+<b>1983</b>—Subsec. (l)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rules similar to the rules of section 168(e)(3)(C) of this title shall apply.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §203(a), inserted provision that, in the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.
 
@@ -434,11 +434,11 @@ Subsec. (d). Pub. L. 97–34, §203(d), provided that subsec. (d) did not apply 
 
 Subsec. (k)(2). Pub. L. 97–34, §264(a), substituted “Except as provided in subparagraph (B), the aggregate amount” for “The aggregate amount” in subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-Subsec. (<i>l</i>)(3)(C). Pub. L. 97–34, §209(d)(3), inserted “and which is placed in service before January 1, 1981” after “pre-1970 public utility property”.
+Subsec. (l)(3)(C). Pub. L. 97–34, §209(d)(3), inserted “and which is placed in service before January 1, 1981” after “pre-1970 public utility property”.
 
 Subsec. (m)(4). Pub. L. 97–34, §203(b), added par. (4).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 97–34, §212(d)(1), struck out subsec. (n) which dealt with the use of the straight line method of depreciation in certain cases, and subsec. (<i>o</i>) which dealt with the method of depreciation to be used in the case of substantially rehabilitated historic property.
+Subsecs. (n), (o). Pub. L. 97–34, §212(d)(1), struck out subsec. (n) which dealt with the use of the straight line method of depreciation in certain cases, and subsec. (o) which dealt with the method of depreciation to be used in the case of substantially rehabilitated historic property.
 
 Subsec. (r). Pub. L. 97–34, §203(c)(1), redesignated subsec. (s) as (r). Former subsec. (r), relating to the retirement-replacement-betterment method of calculating depreciation, was struck out.
 
@@ -448,7 +448,7 @@ Subsec. (s). Pub. L. 97–34, §203(c)(1), redesignated subsec. (s) as (r).
 
 Subsec. (n)(4). Pub. L. 96–541, §2(c), added par. (4).
 
-Subsec. (<i>o</i>)(3). Pub. L. 96–541, §2(d), added par. (3).
+Subsec. (o)(3). Pub. L. 96–541, §2(d), added par. (3).
 
 Subsecs. (r), (s). Pub. L. 96–613 added subsec. (r) and redesignated former subsec. (r) as (s).
 
@@ -460,7 +460,7 @@ Pub. L. 95–600, §367, substituted “January 1, 1982” for “January 1, 197
 
 Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted “occupied by a certified historic structure (or by any structure in a registered historic district) which is demolished or substantially altered after such date” for “occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date”, inserted “and” preceding subpar. (B), substituted “means” for “shall mean” in subpar. (B), and inserted provision that “The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation.”; in par. (2), substituted heading “Exceptions” for “Exception”, designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
 
-Subsec. (<i>o</i>). Pub. L. 95–600, §701(f)(6), inserted in par. (1) “(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)” after “substantially rehabilitated historic property” and substituted in par. (2) “section 191(d)(4)” for “section 191(d)(3)”.
+Subsec. (o). Pub. L. 95–600, §701(f)(6), inserted in par. (1) “(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)” after “substantially rehabilitated historic property” and substituted in par. (2) “section 191(d)(4)” for “section 191(d)(3)”.
 
 Subsec. (p). Pub. L. 95–618, §301(d)(3), added subsec. (p). Former subsec. (p) redesignated (r).
 
@@ -492,17 +492,17 @@ Subsec. (k)(3)(B). Pub. L. 94–455, §§203(a)(3), 1906(b)(13)(A), substituted 
 
 Subsec. (k)(3)(D). Pub. L. 94–455, §203(a)(4), added subpar. (D).
 
-Subsec. (<i>l</i>)(3)(F). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (l)(3)(F). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (<i>l</i>)(4)(A). Pub. L. 94–455, §§1901(a)(27)(C), 1906(b)(13)(A), substituted “before June 29, 1970,” for “within 180 days after the date of the enactment of this subparagraph” and struck out “or his delegate” after “Secretary”.
+Subsec. (l)(4)(A). Pub. L. 94–455, §§1901(a)(27)(C), 1906(b)(13)(A), substituted “before June 29, 1970,” for “within 180 days after the date of the enactment of this subparagraph” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (<i>l</i>)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (l)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (m). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) and (3) “or his delegate” after “Secretary”.
 
 Subsec. (n). Pub. L. 94–455, §2124(c)(1), added subsec. (n). Former subsec. (n) redesignated (p).
 
-Subsec. (<i>o</i>). Pub. L. 94–455, §2124(d)(1), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 94–455, §2124(d)(1), added subsec. (o).
 
 Subsec. (p). Pub. L. 94–455, §2124(c)(1), redesignated former subsec. (n) as (p).
 
@@ -514,7 +514,7 @@ Subsec. (p). Pub. L. 94–455, §2124(c)(1), redesignated former subsec. (n) as 
 
 Subsecs. (j), (k). Pub. L. 91–172, §521(a), added subsecs. (j) and (k). Former subsec. (j) redesignated (m).
 
-Subsec. (<i>l</i>). Pub. L. 91–172, §441(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 91–172, §441(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 91–172, §521(a), redesignated former subsec. (j) as (m).
 
@@ -554,11 +554,11 @@ Amendment by section 847(b)(1) of Pub. L. 108–357 applicable to leases entered
 
 #### Effective Date of 1997 Amendment
 
-Section 1086(c) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section and section 168 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1086(c), Aug. 5, 1997, 111 Stat. 958, provided that: “The amendment made by this section \[amending this section and section 168 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 1604(b) of Pub. L. 104–188, as amended by Pub. L. 105–206, title VI, §6018(d), July 22, 1998, 112 Stat. 823, provided that:
+Pub. L. 104–188, title I, §1604(b), Aug. 20, 1996, 110 Stat. 1838, as amended by Pub. L. 105–206, title VI, §6018(d), July 22, 1998, 112 Stat. 823, provided that:
 
 “(1)
 
@@ -574,7 +574,7 @@ Underpayments of income tax.—No addition to tax shall be made under section 66
 
 #### Effective Date of 1993 Amendment
 
-Section 13206(c)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section and section 305 of this title\] shall take effect on April 30, 1993.”
+Pub. L. 103–66, title XIII, §13206(c)(3), Aug. 10, 1993, 107 Stat. 467, provided that: “The amendments made by this subsection \[amending this section and section 305 of this title\] shall take effect on April 30, 1993.”
 
 Amendment by section 13261(b) and (f)(1) of Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
 
@@ -584,7 +584,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after No
 
 #### Effective Date of 1989 Amendment
 
-Section 7622(c)\[(e)\] of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7622(c)\[(e)\], Dec. 19, 1989, 103 Stat. 2378, provided that:
 
 “(1)
 
@@ -594,7 +594,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Binding contract.—The amendments made by this section shall not apply to any transfer pursuant to a written binding contract in effect on October 2, 1989, and at all times thereafter before the transfer.”
 
-Section 7645(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interests created or acquired after July 27, 1989, in taxable years ending after such date.”
+Pub. L. 101–239, title VII, §7645(b), Dec. 19, 1989, 103 Stat. 2382, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to interests created or acquired after July 27, 1989, in taxable years ending after such date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -608,7 +608,7 @@ Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any propert
 
 Amendment by section 1511(c)(4) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1809(d)(1) of Pub. L. 99–514 provided that subsec. (c) is amended except with respect to property placed in service by the taxpayer on or before Mar. 28, 1985.
+Pub. L. 99–514, title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2821, provided that subsec. (c) is amended except with respect to property placed in service by the taxpayer on or before Mar. 28, 1985.
 
 #### Effective Date of 1983 Amendment
 
@@ -616,7 +616,7 @@ Amendment by Pub. L. 97–424 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Section 264(b) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to rehabilitation expenditures incurred after December 31, 1980.”
+Pub. L. 97–34, title II, §264(b), Aug. 13, 1981, 95 Stat. 265, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to rehabilitation expenditures incurred after December 31, 1980.”
 
 Amendment by sections 203 and 209 of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, except that amendment by section 203(c) of Pub. L. 97–34 effective Jan. 1, 1981, and applicable with respect to taxable years ending after that date, see section 209(a), (b) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
@@ -624,45 +624,45 @@ Amendment by section 212(d)(1) of Pub. L. 97–34 applicable to expenditures inc
 
 #### Effective Date of 1980 Amendment
 
-Section 2(b) of Pub. L. 96–613 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953.”
+Pub. L. 96–613, §2(b), Dec. 28, 1980, 94 Stat. 3579, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1953.”
 
-#### Effective and Termination Dates of 1978 Amendments
+#### Effective and Termination Dates of 1978 Amendment
 
 Amendment by section 312(c)(4) of Pub. L. 95–600 applicable to taxable years ending after Dec. 31, 1978, see section 312(d) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 46 of this title.
 
-Section 701(f)(8) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[amending this section and sections 57, 191, 280B, 1245, and 1250 of this title\] shall take effect as if included in the respective provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to which such amendments relate, as such provision\[s\] were added to such Code, or amended, by section 2124 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XXI, §2124, Oct. 4, 1976, 90 Stat. 1916\].”
+Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[amending this section and sections 57, 191, 280B, 1245, and 1250 of this title\] shall take effect as if included in the respective provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to which such amendments relate, as such provision\[s\] were added to such Code, or amended, by section 2124 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XXI, §2124, Oct. 4, 1976, 90 Stat. 1916\].”
 
 Amendment by Pub. L. 95–615 to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.
 
 Amendment by section 301(d)(3) of Pub. L. 95–618 applicable to property which is placed in service after Sept. 30, 1978, but not to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on Oct. 1, 1978, and at all times thereafter, was binding on the taxpayer, see section 301(d)(4) of Pub. L. 95–618, set out as an Effective Date of 1978 Amendment note under section 48 of this title.
 
-Section 301(e)(2) of Pub. L. 95–618 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Nov. 9, 1978\].”
+Pub. L. 95–618, title III, §301(e)(2), Nov. 9, 1978, 92 Stat. 3201, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxableyears ending after the date of enactment of this Act \[Nov. 9, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, see section 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
 
-Section 203(b) of Pub. L. 94–455, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: “The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
+Pub. L. 94–455, title II, §203(b), Oct. 4, 1976, 90 Stat. 1531, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: “The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
 
-\[Section 7(b) of Pub. L. 95–615 \[which amended section 203(b) of Pub. L. 94–455 exactly as that section 203(b) had been amended by Pub. L. 95–171\] to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.\]
+\[Section 7(b) of Pub. L. 95–615 (which amended section 203(b) of Pub. L. 94–455 exactly as that section 203(b) had been amended by Pub. L. 95–171) to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.\]
 
-Section 2124(c)(2), (d)(2) of Pub. L. 94–455, which provided that the amendment of this section was applicable to that portion of the basis attributable to construction, reconstruction, or erection after Dec. 31, 1975, and before Jan. 1, 1981, and with respect to additions to capital account occurring after June 30, 1976, and before July 1, 1981, was repealed by section 2(e)(3), (4) of Pub. L. 96–541.
+Pub. L. 94–455, title XXI, §2124(c)(2), (d)(2), Oct. 4, 1976, 90 Stat. 1918, 1919, which provided that the amendment of this section was applicable to that portion of the basis attributable to construction, reconstruction, or erection after Dec. 31, 1975, and before Jan. 1, 1981, and with respect to additions to capital account occurring after June 30, 1976, and before July 1, 1981, was repealed by Pub. L. 96–541, §2(e)(3), (4), Dec. 17, 1980, 94 Stat. 3205.
 
 #### Effective Date of 1975 Amendment
 
-Section 5(d) of Pub. L. 93–625 provided that: “The amendments made by this section \[amending section 1250 of this title and enacting and repealing provisions set out as notes under this section\] shall apply with respect to property placed in service after December 31, 1973.”
+Pub. L. 93–625, §5(d), Jan. 3, 1975, 88 Stat. 2112, provided that: “The amendments made by this section \[amending section 1250 of this title and enacting and repealing provisions set out as notes under this section\] shall apply with respect to property placed in service after December 31, 1973.”
 
 #### Effective Date of 1971 Amendment
 
-Section 109(d)(1) of Pub. L. 92–178 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 1970.”
+Pub. L. 92–178, title I, §109(d)(1), Dec. 10, 1971, 85 Stat. 509, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 1970.”
 
 #### Effective Date of 1969 Amendment
 
-Section 441(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years for which a return has not been filed before August 1, 1969.”
+Pub. L. 91–172, title IV, §441(b), Dec. 30, 1969, 83 Stat. 628, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years for which a return has not been filed before August 1, 1969.”
 
-Section 521(g) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 381 and 1250 of this title\] shall apply with respect to taxable years ending after July 24, 1969.”
+Pub. L. 91–172, title V, §521(g), Dec. 30, 1969, 83 Stat. 654, provided that: “The amendments made by this section \[amending this section and sections 381 and 1250 of this title\] shall apply with respect to taxable years ending after July 24, 1969.”
 
 #### Effective Date of 1967 Amendment
 
@@ -690,7 +690,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Discontinuation of Retirement-Replacement-Betterment Method of Depreciation; Transitional Rule
 
-Section 203(c)(2), (3) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §203(c)(2), (3), Aug. 13, 1981, 95 Stat. 222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(2)
 
@@ -702,11 +702,11 @@ Transitional rule.—The adjusted basis of RRB property (as defined in section 1
 
 #### Internal Revenue Code Provisions Relating to Depreciation as Not Applicable to Calculations of Secretary of Health and Human Services in Determining Costs of Programs
 
-Section 203(e) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of Health and Human Services is not required to apply any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended, in calculating depreciation (for the purpose of determining any cost under a program administered by the Secretary), unless a provision of law requires so expressly.”
+Pub. L. 97–34, title II, §203(e), Aug. 13, 1981, 95 Stat. 222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of Health and Human Services is not required to apply any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended, in calculating depreciation (for the purpose of determining any cost under a program administered by the Secretary), unless a provision of law requires so expressly.”
 
 #### Class Life System; Application to Real Property; General Rule
 
-Section 5(a) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
+Pub. L. 93–625, §5(a), Jan. 3, 1975, 88 Stat. 2112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretaryof the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
 
 &emsp;“(1) under Revenue Procedure 62–21 (as amended and supplemented) as in effect on December 31, 1970, or
 
@@ -714,7 +714,7 @@ Section 5(a) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Transitional Rules for Reasonable Allowance for Depreciation
 
-Section 109(e) of Pub. L. 92–178, as amended by Pub. L. 93–625, §5(b), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–178, title I, §109(e), Dec. 10, 1971, 85 Stat. 510, as amended by Pub. L. 93–625, §5(b), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) \[Repealed. Pub. L. 93–625, §5(b), Jan. 3, 1975, 88 Stat. 2112.\]
 

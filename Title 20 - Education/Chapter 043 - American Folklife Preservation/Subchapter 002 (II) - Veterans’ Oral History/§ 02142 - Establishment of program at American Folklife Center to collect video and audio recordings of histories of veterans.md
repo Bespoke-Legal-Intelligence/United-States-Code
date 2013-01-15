@@ -8,7 +8,7 @@ The Director of the American Folklife Center at the Library of Congress shall es
 
 &emsp;(2) to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
 
-&emsp;(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary <sup>1</sup> to the efforts described in paragraphs (1) and (2).
+&emsp;(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of theArmed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary <sup>1</sup> to the efforts described in paragraphs (1) and (2).
 
 #### (b) Use of and consultation with other entities
 
@@ -19,6 +19,30 @@ The Director may carry out the activities described in paragraphs (1) and (3) of
 As soon as practicable after October 27, 2000, the Director shall begin collecting video and audio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
 
 (Pub. L. 106–380, §3, Oct. 27, 2000, 114 Stat. 1448.)
+
+#### National Public Awareness and Participation Campaign for Veterans’ History Project of American Folklife Center
+
+Pub. L. 112–239, div. A, title V, §594, Jan. 2, 2013, 126 Stat. 1771, provided that:
+
+“(a)
+
+In General.—The Director of the American Folklife Center at the Library of Congress shall carry out a national public awareness and participation campaign for the program required by section 3(a) of the Veterans’ Oral History Project Act (20 U.S.C. 2142(a)). Such campaign shall provide for the following:
+
+&emsp;“(1) Encouraging the people of the United States, veterans organizations, community groups, and national organizations to participate in such program.
+
+&emsp;“(2) Ensuring greater awareness and participation throughout the United States in such program.
+
+&emsp;“(3) Providing meaningful opportunities for learning about the experiences of veterans.
+
+&emsp;“(4) Complementing the efforts supporting the readjustment and successful reintegration of veterans into civilian life after service in the Armed Forces.
+
+“(b)
+
+Coordination and Cooperation.—To the degree practicable, the Director shall, in carrying out the campaign required by subsection (a), coordinate and cooperate with veterans service organizations.
+
+“(c)
+
+Veterans Service Organization Defined.—In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be complementary.</i>
 

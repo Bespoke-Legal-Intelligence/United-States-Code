@@ -6,11 +6,13 @@
 
 (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-(d) The program under this section shall terminate on December 31, 2012.
+(d) The program under this section shall terminate on December 31, 2013.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(d), Oct. 5, 2011, 125 Stat. 397.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468; Pub. L. 112–37, §10(d), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §204, Oct. 5, 2012, 126 Stat. 1439.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
 

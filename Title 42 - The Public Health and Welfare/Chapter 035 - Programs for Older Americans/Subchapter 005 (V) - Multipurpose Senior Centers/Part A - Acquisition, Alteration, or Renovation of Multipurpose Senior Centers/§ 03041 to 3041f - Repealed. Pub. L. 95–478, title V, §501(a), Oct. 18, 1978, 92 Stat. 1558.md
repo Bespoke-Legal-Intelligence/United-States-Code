@@ -18,5 +18,5 @@ Section 3041f, Pub. L. 89–73, title V, §507, as added Pub. L. 93–29, title 
 
 #### Effective Date of Repeal
 
-Section 501(a) of Pub. L. 95–478 provided that the repeal by that section is effective at the close of Sept. 30, 1978.
+Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that the repeal by that section is effective at the close of Sept. 30, 1978.
 

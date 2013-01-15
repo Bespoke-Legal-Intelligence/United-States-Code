@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2161\.](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Defense%20Intelligence%20College.md) | Degree granting authority for National Defense Intelligence College. |
+| [2161\.](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Intelligence%20University.md) | Degree granting authority for National Intelligence University. |
 | [2162\.](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md) | Preparation of budget requests for operation of professional military education schools. |
 | [2163\.](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md) | Degree granting authority for National Defense University. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted “National Intelligence University” for “National Defense Intelligence College” in item 2161.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
@@ -96,7 +98,7 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02161 - Degree granting authority for National Defense Intelligence College](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Defense%20Intelligence%20College.md)
+- [&sect; 02161 - Degree granting authority for National Intelligence University](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Intelligence%20University.md)
 - [&sect; 02162 - Preparation of budget requests for operation of professional military education schools](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md)
 - [&sect; 02163 - Degree granting authority for National Defense University](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)

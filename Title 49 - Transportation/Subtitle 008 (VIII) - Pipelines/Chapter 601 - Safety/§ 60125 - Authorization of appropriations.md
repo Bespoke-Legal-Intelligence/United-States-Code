@@ -26,7 +26,7 @@ Authorization of appropriations.—There is authorized to be appropriated $10,00
 
 (c)
 
-Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
+Crediting Appropriations for Expenditures for Training.—The Secretary may creditto an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922.)
 

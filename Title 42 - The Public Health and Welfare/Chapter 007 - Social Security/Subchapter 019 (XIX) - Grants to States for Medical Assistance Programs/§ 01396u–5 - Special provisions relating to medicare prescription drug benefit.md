@@ -204,7 +204,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;&emsp;(ii) the ratio (as estimated by the Secretary) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number of individuals who are entitled to benefits under part A <sup>2</sup> or enrolled under part B <sup>2</sup> and who reside in the State (as determined by the Secretary based on the most recent available data before the beginning of the year); to
+&emsp;&emsp;&emsp;&emsp;(I) the number of individuals who are entitled to benefits under part A <sup>1</sup> or enrolled under part B <sup>1</sup> and who reside in the State (as determined by the Secretary based on the most recent available data before the beginning of the year); to
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of such numbers for all States that submit a plan described in paragraph (2).
 
@@ -220,13 +220,15 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (4) Report
 
-&emsp;The Secretary shall submit to Congress a report on the application of this subsection andmay include in the report such recommendations as the Secretary deems appropriate.
+&emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506.)
 
 #### References in Text
 
 No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, Pub. L. 89–508, July 19, 1966, 80 Stat. 308, was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of Pub. L. 89–508, which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding section 101 of Title 31. For complete classification of Pub. L. 89–508 to the Code, see Tables.
+
+Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A and B of subchapter XVIII of this chapter. This subchapter does not contain parts.
 
 #### Prior Provisions
 
@@ -257,6 +259,4 @@ Amendment by Pub. L. 110–275 effective Jan. 1, 2010, see section 113(c) of Pub
 Amendment by Pub. L. 109–91 applicable to drugs dispensed on or after Jan. 1, 2006, see section 104(d) of Pub. L. 109–91, set out as a note under section 1396b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ No credit or refund shall be allowed or made, in pursuance of a court decision o
 
 &emsp;(2) that he has unconditionally repaid the amount claimed to the person who bore the ultimate burden of such amount; or
 
-&emsp;(3) that (A) the owner of the commodity furnished him the amount claimed for payment of the tax, (B) he has filed with the Secretarythe written consent of such owner to the allowance to the claimant of the credit or refund, and (C) such owner satisfies the requirements of paragraph (1) or (2).
+&emsp;(3) that (A) the owner of the commodity furnished him the amount claimed for payment of the tax, (B) he has filed with the Secretary the written consent of such owner to the allowance to the claimant of the credit or refund, and (C) such owner satisfies the requirements of paragraph (1) or (2).
 
 #### (b) Filing of claims
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date
 
-Section 3 of Pub. L. 85–323 provided that this section shall not apply to any credit or refund allowed or made before May 1, 1958.
+Pub. L. 85–323, §3, Feb. 11, 1958, 72 Stat. 10, provided that this section shall not apply to any credit or refund allowed or made before May 1, 1958.
 

@@ -6,11 +6,11 @@ Local Comparability.—In the construction, acquisition, and improvement of mili
 
 (b)
 
-Requests for Authority for Military Family Housing.—(1) In submitting to Congress a request for authority to carry out the construction, acquisition, or improvement of military family housing, the Secretary concerned shall include in the request information on thenet floor area of each unit of military family housing to be constructed, acquired, or improved under the authority.
+Requests for Authority for Military Family Housing.—(1) In submitting to Congress a request for authority to carry out the construction, acquisition, or improvement of military family housing, the Secretary concerned shall include in the request information on the net floor area of each unit of military family housing to be constructed, acquired, or improved under the authority.
 
 (2) In this subsection, the term “net floor area”, in the case of a military family housing unit, means the total number of square feet of the floor space inside the exterior walls of the unit, excluding the floor area of an unfinished basement, an unfinished attic, a utility space, a garage, a carport, an open or insect-screened porch, a stairwell, and any space used for a solar-energy system.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. B, title XXVIII, §2808, Dec. 5, 1991, 105 Stat. 1540; Pub. L. 104–106, div. B, title XXVIII, §§2814, 2815, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, §1074(a)(17), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. B, title XXVIII, §2808, Dec. 5, 1991, 105 Stat. 1540; Pub. L. 104–106, div. B, title XXVIII, §§2814, 2815, Feb. 10,1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, §1074(a)(17), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413.)
 
 #### Amendments
 

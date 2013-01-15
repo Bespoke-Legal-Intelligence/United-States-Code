@@ -8,7 +8,7 @@ The purposes of this part are as follows:
 
 &emsp;(3) To supplement existing programs and authorities in the area of education to further the purposes of this part.
 
-&emsp;(4) To provide direction and guidance to appropriate Federal, State and local agencies tofocus resources, including resources made available under this part, on meeting the educational needs of Alaska Natives.
+&emsp;(4) To provide direction and guidance to appropriate Federal, State and local agencies to focus resources, including resources made available under this part, on meeting the educational needs of Alaska Natives.
 
 (Pub. L. 89–10, title VII, §7303, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943.)
 

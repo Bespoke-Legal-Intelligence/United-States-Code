@@ -14,7 +14,7 @@ Section 1787, acts Aug. 28, 1954, ch. 1041, title VII, §708, 68 Stat. 912; Nov.
 
 #### Effective Date of Repeal
 
-Section 3(a), (b) of Pub. L. 103–130 provided that:
+Pub. L. 103–130, §3(a), (b), Nov. 1, 1993, 107 Stat. 1369, provided that:
 
 “(a)
 
@@ -26,5 +26,5 @@ Application.—The repeal made by subsection (a) \[repealing this chapter and pr
 
 #### Liability of Producers
 
-Section 5 of Pub. L. 103–130 provided that: “A provision of this Act \[amending sections 1782, 1783, and 1785 of this title, repealing sections 1781 to 1787 of this title, enacting provisions set out as notes under this section and section 1447 of this title, and repealing provisions set out as notes under sections 2, 1446, and 1781 of this title\] may not affect the liability of any person under any provision of law as in effect before the effective date of the provision.”
+Pub. L. 103–130, §5, Nov. 1, 1993, 107 Stat. 1369, provided that: “A provision of this Act \[amending sections 1782, 1783, and 1785 of this title, repealing sections 1781 to 1787 of this title, enacting provisions set out as notes under this section and section 1447 of this title, and repealing provisions set out as notes under sections 2, 1446, and 1781 of this title\] may not affect the liability of any person under any provision of law as in effect before the effective date of the provision.”
 

@@ -116,7 +116,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (e) of this se
 
 #### Use of “CDC” as Acronym for Centers for Disease Control and Prevention
 
-Section 312(i) of Pub. L. 102–531 provided that: “The amendments made by this section \[amending this section, sections 247d, 280b to 280b–2, 285c–4, 285d–7, 285m–4, 289c, 290aa–9, 290bb–1, 300u–5, 300aa–2, 300aa–19, 300aa–26, 300cc, 300cc–2, 300cc–15, 300cc–17, 300cc–20, 300cc–31, 300ee–1, 300ee–2, 300ee–31, 300ee–32, 300ee–34, 300ff–11 to 300ff–13, 300ff–17, 300ff–27, 300ff–28, 300ff–41, 300ff–43, 300ff–49, 300ff–75, 4841, and 9604 of this title, section 1341 of Title 15, Commerce and Trade, section 2001 of Title 25, Indians, and provisions set out as notes under sections 241 and 281 of this title and section 303 of Title 38, Veterans’ Benefits\] may not be construed as prohibiting the Director of the Centers for Disease Control and Prevention from utilizing for official purposes the term ‘CDC’ as an acronym for such Centers.”
+Pub. L. 102–531, title III, §312(i), Oct. 27, 1992, 106 Stat. 3506, provided that: “The amendments made by this section \[amending this section, sections 247d, 280b to 280b–2, 285c–4, 285d–7, 285m–4, 289c, 290aa–9, 290bb–1, 300u–5, 300aa–2, 300aa–19, 300aa–26, 300cc, 300cc–2, 300cc–15, 300cc–17, 300cc–20, 300cc–31, 300ee–1, 300ee–2, 300ee–31, 300ee–32, 300ee–34, 300ff–11 to 300ff–13, 300ff–17, 300ff–27, 300ff–28, 300ff–41, 300ff–43, 300ff–49, 300ff–75, 4841, and 9604 of this title, section 1341 of Title 15, Commerce and Trade, section 2001 of Title 25, Indians, and provisions set out as notes under sections 241 and 281 of this title and section 303 of Title 38, Veterans’ Benefits\] may not be construed as prohibiting the Director of the Centers for Disease Control and Prevention from utilizing for official purposes the term ‘CDC’ as an acronym for such Centers.”
 
 #### National Commission on Orphan Diseases
 
@@ -170,7 +170,7 @@ Composition.—The Commission shall be composed of twenty members appointed by t
 
 &emsp;“(4) One nonvoting member shall be appointed from officers or employees of the Food and Drug Administration who the Secretary determines are involved with rare diseases.
 
-> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of theGovernment, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
+> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of the Government, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
 
 “(e)
 
@@ -204,7 +204,7 @@ Detail of Personnel.—Upon request of the Commission, the head of any Federal a
 
 Administrative Support Services.—The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
-“(<i>l</i>)
+“(l)
 
 General Authority.—The Commission may, for the purpose of carrying out this section, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
@@ -220,7 +220,7 @@ Report.—The Commission shall transmit to the Secretary and to each House of th
 
 &emsp;“(2) such legislation or administrative actions as it considers appropriate.
 
-“(<i>o</i>)
+“(o)
 
 Termination.—The Commission shall terminate 90 days after the date of the submittal of its report under subsection (n).
 

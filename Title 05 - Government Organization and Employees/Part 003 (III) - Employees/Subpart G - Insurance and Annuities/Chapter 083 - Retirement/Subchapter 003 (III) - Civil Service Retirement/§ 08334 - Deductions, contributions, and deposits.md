@@ -108,9 +108,9 @@
 
 (C) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this paragraph.
 
-(e)(1) Interest under subsection (c), (d)(1), (j), (k), or (<i>l</i>) of this section is computed in accordance with paragraphs (2) and (3) of this subsection and regulations prescribed by the Office of Personnel Management.
+(e)(1) Interest under subsection (c), (d)(1), (j), (k), or (l) of this section is computed in accordance with paragraphs (2) and (3) of this subsection and regulations prescribed by the Office of Personnel Management.
 
-(2) Interest accrues annually on the outstanding portion of any amount that may be deposited under subsection (c), (d)(1), (j), (k), or (<i>l</i>) of this section, and is compounded annually, until the portion is deposited. Such interest is computed from the mid-point of each service period included in the computation, or from the date refund was paid. The deposit may be made in one or more installments. Interest may not be charged for a period of separation from the service which began before October 1, 1956.
+(2) Interest accrues annually on the outstanding portion of any amount that may be deposited under subsection (c), (d)(1), (j), (k), or (l) of this section, and is compounded annually, until the portion is deposited. Such interest is computed from the mid-point of each service period included in the computation, or from the date refund was paid. The deposit may be made in one or more installments. Interest may not be charged for a period of separation from the service which began before October 1, 1956.
 
 (3) The rate of interest is 4 percent a year through December 31, 1947, and 3 percent a year beginning January 1, 1948, through December 31, 1984. Thereafter, the rate of interest for any calendar year shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e) of this title, as determined by the Secretary.
 
@@ -124,11 +124,11 @@
 
 &emsp;(3) service for the Panama Railroad Company before January 1, 1924;
 
-&emsp;(4) service performed before October 29, 1983,,<sup>2</sup> by natives of the Pribilof Islands in the taking and curing of fur seal skins and otheractivities in connection with the administration of the Pribilof Islands except where deductions, contributions, and deposits were made before October 29, 1983;
+&emsp;(4) service performed before October 29, 1983,,<sup>2</sup> by natives of the Pribilof Islands in the taking and curing of fur seal skins and other activities in connection with the administration of the Pribilof Islands except where deductions, contributions, and deposits were made before October 29, 1983;
 
 &emsp;(5) days of unused sick leave credited under section 8339(m) of this title; or
 
-&emsp;(6) any period for which credit is allowed under section 8332(<i>l</i>) of this title.
+&emsp;(6) any period for which credit is allowed under section 8332(l) of this title.
 
 (h) For the purpose of survivor annuities, deposits authorized by subsections (c), (d)(1), (j), and (k) of this section may also be made by a survivor of an employee or Member.
 
@@ -192,13 +192,13 @@
 
 &emsp;(A) the term “an individual described in section 8402(b)(2) of this title” shall be considered to include any individual—
 
-&emsp;&emsp;(i) who is subject to this subchapter as a result of a provision of law described in section 8347(<i>o</i>), and
+&emsp;&emsp;(i) who is subject to this subchapter as a result of a provision of law described in section 8347(o), and
 
-&emsp;&emsp;(ii) whose employment (as described in section 8347(<i>o</i>)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
+&emsp;&emsp;(ii) whose employment (as described in section 8347(o)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
 
 &emsp;(B) the term “Federal wages”, as applied with respect to any individual to whom this subsection applies as a result of subparagraph (A), means basic pay for any employment referred to in subparagraph (A)(ii).
 
-(<i>l</i>)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
+(l)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -210,9 +210,9 @@
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
-(4) Effective with respect to any period of service after December 31, 1998, the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
+(4) Effective with respect to any period of service after December 31, 1998, the percentage of thereadjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
 
-(m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have beendeducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
+(m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
 (n) Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
 
@@ -284,11 +284,11 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 230 of the Social Security Act is classified to section 430 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (<i>l</i>)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 etseq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (l)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (<i>l</i>)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (l)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 
@@ -346,9 +346,9 @@ Subsec. (j)(1)(A). Pub. L. 105–33, §7001(a)(4)(A)(i), inserted “and subject
 
 Subsec. (j)(5). Pub. L. 105–33, §7001(a)(4)(A)(ii), added par. (5).
 
-Subsec. (<i>l</i>)(1). Pub. L. 105–33, §7001(a)(4)(B)(i), inserted at end “This paragraph shall be subject to paragraph (4).”
+Subsec. (l)(1). Pub. L. 105–33, §7001(a)(4)(B)(i), inserted at end “This paragraph shall be subject to paragraph (4).”
 
-Subsec. (<i>l</i>)(4). Pub. L. 105–33, §7001(a)(4)(B)(ii), added par. (4).
+Subsec. (l)(4). Pub. L. 105–33, §7001(a)(4)(B)(ii), added par. (4).
 
 Subsec. (m). Pub. L. 105–61 added subsec. (m).
 
@@ -366,11 +366,11 @@ Subsec. (j)(1). Pub. L. 103–353, §5(b)(1), designated existing provisions as 
 
 Subsec. (j)(2)(B). Pub. L. 103–353, §5(b)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
 
-<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–82, §371(a)(2)(B), substituted “(k), or (<i>l</i>)” for “or (k)”.
+<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–82, §371(a)(2)(B), substituted “(k), or (l)” for “or (k)”.
 
 Subsec. (h). Pub. L. 103–66 struck out “and by section 8339(j)(5)(C) and the last sentence of section 8339(k)(2) of this title” before “may also be made”.
 
-Subsec. (<i>l</i>). Pub. L. 103–82, §371(a)(2)(A), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 103–82, §371(a)(2)(A), added subsec. (l).
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
@@ -520,11 +520,11 @@ Pub. L. 106–346, §101(a) \[title V, §505(i)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendments
 
-Section 516(b) of Pub. L. 105–61 provided that: “The amendments made by subsection (a) \[amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415,8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment.”
+Section 516(b) of Pub. L. 105–61 provided that: “The amendments made by subsection (a) \[amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment.”
 
 Section 7001(f) of Pub. L. 105–33 provided that:
 
@@ -590,7 +590,7 @@ Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1)
 
 “The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
 
-Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office ofPersonnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
@@ -674,7 +674,7 @@ Section 103(e) of Pub. L. 100–238 provided that: “Notwithstanding any other 
 
 &emsp;“(1) any deposits under the District of Columbia Police and Firefighters’ Retirement and Disability System shall be adjusted in a manner consistent with section 8334(k) of title 5, United States Code (relating to offsets in deductions from pay to reflect OASDI contributions); and
 
-&emsp;“(2) any benefits payable under the District of Columbia Police and Firefighters’ Retirement and Disability System based on the service of any such employee shall be adjusted in a manner consistent withsection 8349 of title 5, United States Code (relating to offsets to reflect benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]).”
+&emsp;“(2) any benefits payable under the District of Columbia Police and Firefighters’ Retirement and Disability System based on the service of any such employee shall be adjusted in a manner consistent with section 8349 of title 5, United States Code (relating to offsets to reflect benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]).”
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -22,98 +22,61 @@ For purposes of this section—
 
 #### (2) Exemption amount disallowed in case of certain dependents
 
-&emsp;In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, the exemptionamount applicable to such individual for such individual's taxable year shall be zero.
+&emsp;In the case of an individual with respect to whom a deduction under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, the exemption amount applicable to such individual for such individual's taxable year shall be zero.
 
 #### (3) Phaseout
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the threshold amount, the exemption amount shall be reduced by the applicable percentage.
+&emsp;&emsp;In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b), the exemption amount shall be reduced by the applicable percentage.
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the threshold amount. In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting “$1,250” for “$2,500”. In no event shall the applicable percentage exceed 100 percent.
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting “$1,250” for “$2,500”. In no event shall the applicable percentage exceed 100 percent.
 
-#### (C) Threshold amount
-
-&emsp;&emsp;For purposes of this paragraph, the term “threshold amount” means—
-
-&emsp;&emsp;&emsp;(i) $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
-
-&emsp;&emsp;&emsp;(ii) $125,000 in the case of a head of a household (as defined in section 2(b),<sup>1</sup>
-
-&emsp;&emsp;&emsp;(iii) $100,000 in the case of an individual who is not married and who is not a surviving spouse or head of a household, and
-
-&emsp;&emsp;&emsp;(iv) $75,000 in the case of a married individual filing a separate return.
-
-> &emsp;&emsp;For purposes of this paragraph, marital status shall be determined under section 7703.
-
-#### (D) Coordination with other provisions
+#### (C) Coordination with other provisions
 
 &emsp;&emsp;The provisions of this paragraph shall not apply for purposes of determining whether a deduction under this section with respect to any individual is allowable to another taxpayer for any taxable year.
 
-#### (E) Reduction of phaseout
+#### (4) Inflation adjustment
 
-#### (i) In general
+&emsp;In the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
 
-&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the reduction under subparagraph (A) shall be equal to the applicable fraction of the amount which would (but for this subparagraph) be the amount of such reduction.
+&emsp;&emsp;(A) such dollar amount, multiplied by
 
-#### (ii) Applicable fraction
-
-&emsp;&emsp;&emsp;For purposes of clause (i), the applicable fraction shall be determined in accordance with the following table:
-
-&nbsp;
-
-| <b>For taxable years beginning in calendar year—</b> | <b>The applicable fraction is—</b> |
-| :--- | ---: |
-| &nbsp;&nbsp;2006 and 2007 | 2/3&nbsp; |
-| &nbsp;&nbsp;2008 and 2009 | 1/3. |
-
-#### (F) Termination
-
-&emsp;&emsp;This paragraph shall not apply to any taxable year beginning after December 31, 2009.
-
-#### (4) Inflation adjustments
-
-#### (A) Adjustment to basic amount of exemption
-
-&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
-
-&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
-
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 1992” in subparagraph (B) thereof.
-
-#### (B) Adjustment to threshold amounts for years after 1991
-
-&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (3)(C) shall be increased by an amount equal to—
-
-&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
-
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (e) Identifying information required
 
 No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior toamendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
+<b>2013</b>—Subsec. (d)(3)(A), (B). Pub. L. 112–240, §101(b)(2)(B)(i)(I), substituted “the applicable amount in effect under section 68(b)” for “the threshold amount”.
+
+Subsec. (d)(3)(C), (D). Pub. L. 112–240, §101(b)(2)(B)(i)(II), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to threshold amount.
+
+Subsec. (d)(3)(E), (F). Pub. L. 112–240, §101(b)(2)(B)(i)(III), struck out subpars. (E) and (F) which related to reduction of phaseout and termination of applicability of subsec. (d)(3), respectively.
+
+Subsec. (d)(4). Pub. L. 112–240, §101(b)(2)(B)(ii), in par. heading, substituted “Inflation adjustment” for “Inflation adjustments”, in subpar. (A), struck out “(A) Adjustment to basic amount of exemption” before “In the case of”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins, and struck out former subpar. (B). Prior to amendment, text of former subpar. (B) read as follows: “In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (3)(C) shall be increased by an amount equal to—
+
+&emsp;“(i) such dollar amount, multiplied by
+
+&emsp;“(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ‘calendar year 1990’ for ‘calendar year 1992’ in subparagraph (B) thereof.”
+
+<b>2004</b>—Subsec. (c). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text consisted of pars. (1) to (6) relating to additional exemption for dependents in general, exemption denied in case of certain married dependents, child defined, student defined, certain income of handicapped dependents not taken into account, and treatment of missing children, respectively.
 
 <b>2002</b>—Subsec. (c)(6)(B)(iii). Pub. L. 107–147, §417(6), inserted “as” before “such terms”.
 
 Subsec. (c)(6)(C). Pub. L. 107–147, §412(b), substituted “for principal place of abode requirements” for “for earned income credit” in heading, “An” for “For purposes of section 32, an” in introductory provisions, and “principal place of abode requirements of section 2(a)(1)(B), section 2(b)(1)(A), and section 32(c)(3)(A)(ii)” for “requirement of section 32(c)(3)(A)(ii)” in concluding provisions.
 
-<b>2001</b>—Subsec. (d)(3)(E), (F). Pub. L. 107—16, §§102(a), 901, temporarily added subpars. (E) and (F). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (d)(3)(E), (F). Pub. L. 107—16 added subpars. (E) and (F).
 
 <b>2000</b>—Subsec. (c)(6). Pub. L. 106–554 added par. (6).
 
@@ -155,7 +118,7 @@ Subsec. (d)(3)(B). Pub. L. 101–508, §11101(d)(1)(F), substituted “1989” f
 
 <b>1988</b>—Subsec. (c)(1)(B)(ii). Pub. L. 100–647 inserted “who has not attained the age of 24 at the close of such calendar year” after “student”.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for an additional exemption for taxpayer or spouse aged 65 or more.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c)which provided for an additional exemption for taxpayer or spouse aged 65 or more.
 
 Subsec. (d). Pub. L. 99–514, §103(b), redesignated subsec. (f) as (d) and struck out former subsec. (d) which provided for an additional exemption for blindness of taxpayer or spouse.
 
@@ -183,6 +146,10 @@ Subsec. (f). Pub. L. 97–34, §104(c)(2), added subsec. (f).
 
 Subsecs. (b), (c), Pub. L. 91–172, §941(b), substituted “if a joint return is not made by the taxpayer and his spouse” for “if a separate return is made by the taxpayer”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 101(b)(3) of Pub. L. 112–240, set out as a note under section 1 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
@@ -191,11 +158,9 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Pub. L. 107–147, title IV, §412(e), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section \[amending this section and sections 358, 469, 1091, 1233, 1234A, and 1234B of this title\] shall take effect as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\] to which they relate.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title I, §102(b), June 7, 2001, 115 Stat. 44, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -219,7 +184,7 @@ Amendment by section 11104(a) of Pub. L. 101–508 applicable to taxable years b
 
 #### Effective Date of 1988 Amendment
 
-Section 6010(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–647, title VI, §6010(b), Nov. 10, 1988, 102 Stat. 3691, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 
 #### Effective Date of 1986 Amendment
 
@@ -229,7 +194,7 @@ Amendment by section 1847(b)(3) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Section 426(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title IV, §426(b), July 18, 1984, 98 Stat. 805, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date of 1981 Amendment
 
@@ -237,7 +202,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1978 Amendment
 
-Section 102(d)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 6012 and 6013 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §102(d)(1), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 6012 and 6013 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1976 Amendment
 
@@ -245,23 +210,21 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1971 Amendment
 
-Section 201(a), (b) of Pub. L. 92–178 provided in part that the increase in exemption from $650 to $675 was effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and from $675 to $750 was effective with respect to taxable years beginning after Dec. 31, 1971.
+Pub. L. 92–178, title II, §201(a), (b), Dec. 10, 1971, 85 Stat. 510, provided in part that the increase in exemption from $650 to $675 was effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, and from $675 to $750 was effective with respect to taxable years beginning after Dec. 31, 1971.
 
 #### Effective Date of 1969 Amendment
 
-Section 801(a)(1) of Pub. L. 91–172 provided in part that the increase in exemption from $600 to $625 is effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971.
+Pub. L. 91–172, title VIII, §801(a)(1), Dec. 30, 1969, 83 Stat. 675, provided in part that the increase in exemption from $600 to $625 is effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971.
 
-Section 801(b)(1) of Pub. L. 91–172 provided in part that the increase in the exemption from $625 to $650 is effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972.
+Pub. L. 91–172, title VIII, §801(b)(1), Dec. 30, 1969, 83 Stat. 676, provided in part that the increase in the exemption from $625 to $650 is effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972.
 
-Section 941(c) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) \[amending section 6012 of this title\] and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §941(c), Dec. 30, 1969, 83 Stat. 726, provided that: “The amendments made by subsections (a) \[amending section 6012 of this title\] and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Repeals
 
-Section 801(c)(1), (d)(1) of Pub. L. 91–172 provided for an increase in the personal exemption to $700, effective with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750, effective with respect to taxable years beginning after Dec. 31, 1972, prior to repeal by section 201(c) of Pub. L. 92–178.
+Pub. L. 91–172, title VIII, §801(c)(1), (d)(1), Dec. 30, 1969, 83 Stat. 676, provided for an increase in the personal exemption to $700, effective with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750, effective with respect to taxable years beginning after Dec. 31, 1972, prior to repeal by section 201(c) of Pub. L. 92–178.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

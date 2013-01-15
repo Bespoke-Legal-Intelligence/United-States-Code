@@ -6,7 +6,7 @@ Regulations.—Subject to subsections (b) and (c), in any case in which a subcon
 
 &emsp;(1) work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if such work is performed on any Indian lands and meets the requirements of paragraph (1) of subsection (b); or
 
-&emsp;(2) work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
+&emsp;(2) work performed in connection with that Department of Defense contract, and workperformed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
 
 (b)
 

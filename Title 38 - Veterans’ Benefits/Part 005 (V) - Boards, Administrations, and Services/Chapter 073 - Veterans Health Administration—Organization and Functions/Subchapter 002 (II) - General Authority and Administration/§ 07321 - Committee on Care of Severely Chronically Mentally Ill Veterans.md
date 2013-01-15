@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) regarding the appropriate allocation of resources for all such activities.
 
-(d)(1) Not later than April 1, 1997, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section. The report shall include the following:
+(d)(1) Not later than April 1, 1997, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation ofthis section. The report shall include the following:
 
 &emsp;(A) A list of the members of the committee.
 

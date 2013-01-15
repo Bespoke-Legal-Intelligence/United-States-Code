@@ -88,7 +88,7 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 #### (f) Report to Congress
 
-The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
+The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing,and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
 &emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
 
@@ -142,13 +142,13 @@ Section 1. <i>Establishment</i>. There is established the “Trade Promotion Coo
 
 &emsp;(k) Agency for International Development;
 
-&emsp;(<i>l</i>) Trade and Development Agency;
+&emsp;(l) Trade and Development Agency;
 
 &emsp;(m) Environmental Protection Agency;
 
 &emsp;(n) United States Information Agency;
 
-&emsp;(<i>o</i>) Small Business Administration;
+&emsp;(o) Small Business Administration;
 
 &emsp;(p) Overseas Private Investment Corporation;
 
@@ -274,13 +274,133 @@ Sec. 4. <i>Report to the President</i>. Not later than 180 days after the date o
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
-(i) authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+(i) authority granted by law to an executive department, agency, or the head thereof, or the status of thatdepartment or agency within the Federal Government; or
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13630. Establishment of an Interagency Task Force on Commercial Advocacy
+
+Ex. Ord. No. 13630, Dec. 6, 2012, 77 F.R. 73893, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help level the playing field on behalf of U.S. businesses and workers competing for international contracts against foreign firms and to facilitate the growth of sales of U.S. goods and services around the world in support of the National Export Initiative, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Executive Order 13534 of March 11, 2010, created the National Export Initiative (NEI), which provides unprecedented Federal support for exports of goods and services by American businesses. Executive Order 13534 also established the Export Promotion Cabinet to develop and coordinate the implementation of the eight priorities of the NEI, which include, but are not limited to, improving advocacy and trade promotion efforts on behalf of U.S. exporters, increasing access to export financing, and removing barriers to trade and enforcing U.S. trade laws and agreements. As part of these responsibilities, the Export Promotion Cabinet, in coordination with the Advocacy Center at the Department of Commerce, is focused on ensuring that the Federal Government's commercial advocacy effectively promotes exports by U.S. businesses, particularly by those firms competing for international contracts against foreign firms that may benefit from strong home government support. The creation of a new whole-of-government commercial advocacy task force that will provide enhanced Federal support for U.S. businesses competing for international contracts, coordinate the efforts of executive branch leadership in engaging their foreign counterparts on commercial advocacy issues, and increase the availability of information to the U.S. business community about these kinds of export opportunities, will ensure that U.S. exporters have more support for selling their goods and services in global markets.
+
+Sec. 2. <i>Establishment and Membership</i>. There is hereby established an Interagency Task Force on Commercial Advocacy (Task Force).
+
+(a) The Task Force shall be chaired by the Secretary of Commerce (Chair) and consist of senior-level officials from the following executive departments and agencies (agencies) designated by the heads of those agencies:
+
+(i) Department of State;
+
+(ii) Department of the Treasury;
+
+(iii) Department of Defense;
+
+(iv) Department of Agriculture;
+
+(v) Department of Health and Human Services;
+
+(vi) Department of Transportation;
+
+(vii) Department of Energy;
+
+(viii) Department of Homeland Security;
+
+(ix) United States Agency for International Development;
+
+(x) Export-Import Bank of the United States;
+
+(xi) Millennium Challenge Corporation;
+
+(xii) Overseas Private Investment Corporation;
+
+(xiii) Small Business Administration;
+
+(xiv) United States Trade and Development Agency; and
+
+(xv) such other agencies as the President, or the Chair, may designate.
+
+(b) The Chair shall designate a senior-level official of the Department of Commerce as the Executive Director of the Task Force, who shall be responsible for regularly convening and presiding over the meetings of the Task Force, determining its agenda, and guiding its work in fulfilling its functions under this order in coordination with the Advocacy Center at the Department of Commerce.
+
+Sec. 3. <i>Functions</i>. The Task Force shall perform the following functions:
+
+(a) review and prioritize commercial advocacy cases in which the Advocacy Center at the Department of Commerce has approved the provision of commercial advocacy services, and coordinate the activities of relevant agencies to enhance Federal support for such cases, in order to increase the success of U.S. exporters competing for foreign procurements;
+
+(b) coordinate the engagement of agency leadership with their foreign counterparts regarding commercial advocacy issues, particularly with respect to their foreign travel and other occasions for engagement with foreign officials, and evaluate reports on the outcomes of such engagement, in order to increase the number of senior-level agency officials regularly and effectively advocating on behalf of U.S. exporters;
+
+(c) develop strategies to raise the awareness of commercial advocacy assistance within the U.S. business community in order to increase the number of U.S. businesses utilizing commercial advocacy services;
+
+(d) institute processes to obtain and distribute information about foreign procurement opportunities that may be of interest to U.S. businesses in order to expand awareness of opportunities for U.S. businesses to sell their goods and services to foreign governments;
+
+(e) facilitate voluntary short-term personnel exchanges, not to exceed 120 days, between the Department of Commerce and other Task Force agencies, in order to cross-train Federal personnel to better serve U.S. exporters; and
+
+(f) submit a progress report to the Export Promotion Cabinet every 180 days, which should include, but not be limited to, the number of commercial advocacy cases opened and successfully concluded, the number of commercial advocacy engagements by senior-level agency officials, and the number of U.S. businesses utilizing commercial advocacy services. The Advocacy Center at the Department of Commerce will be responsible for managing and tracking all commercial advocacy reporting for the Task Force.
+
+Sec. 4. <i>Definitions</i>. For the purposes of this order:
+
+(a) the term “commercial advocacy” shall mean Federal support for U.S. firms competing for foreign project or procurement opportunities; and
+
+(b) the term “foreign project or procurement opportunities” shall mean export opportunities, including defense export opportunities, for U.S. businesses that involve foreign government decisionmakers, including foreign government-owned corporations.
+
+Sec. 5. <i>General Provisions</i>. (a) The Commerce Department shall provide funding and administrative support for the Task Force to the extent permitted by law and consistent with existing appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise effect \[sic\]:
+
+(i) the authority granted by law, regulation, Executive Order, or Presidential Directive to an executive department, agency, or the head thereof; and
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment
+
+Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Winning the future and creating an economy that's built to last will require the Federal Government to wisely allocate scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. Creating good, high-paying jobs in the United States and ensuring sustainable economic growth are the top priorities of my Administration. To accomplish these goals, we must ensure that U.S. businesses increase their exports of goods, services, and agricultural products, and that foreign companies recognize the United States as an attractive place to invest and to open businesses. While this growth will be fueled by the private sector, the Federal Government must do its part to facilitate trade and investment.
+
+Executive Order 13534 of March 11, 2010, established the Export Promotion Cabinet to coordinate the development and implementation of the National Export Initiative (NEI) to improve conditions that directly affect the private sector's ability to export and to help meet my Administration's goal of doubling exports over 5 years. Pursuant to the terms of the Executive Order, the Export Promotion Cabinet conducts its work in coordination with the Trade Promotion Coordinating Committee (TPCC). The TPCC, chaired by the Secretary of Commerce, was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993. The NEI has used Government resources and policies to increase exports at a pace consistent with the goal of doubling exports by the end of 2014. The NEI has accomplished this by opening up foreign markets for U.S. exports, enhancing enforcement of our trade laws, providing needed export financing, advocating on behalf of U.S. firms, and otherwise facilitating U.S. exports. But we must do more.
+
+On January 13, 2012, I announced that I would submit a legislative proposal seeking the authority to reorganize the Federal Government in order to reduce costs and consolidate agencies (Consolidation Authority), and outlined the first use I would make of such authority: to streamline functions currently dispersed across numerous agencies into a single new department to promote competitiveness, exports, and American business. The new department would integrate and streamline trade negotiation, financing, promotion, and enforcement functions currently housed at half a dozen executive departments and agencies, and would include an office dedicated to expanding foreign investment and assisting businesses that are considering investing in the United States. In addition to the trade and investment functions, the new department would include integrated small business, technology, innovation, and statistics programs and services from a number of departments and agencies, thereby creating a one-stop shop for businesses that want to grow and export. We cannot afford to wait until the Congress acts, however, and must do all we can administratively to make the most efficient and effective use of the Federal Government's trade, foreign investment, export, and business programs and functions.
+
+Accordingly, to further enhance and coordinate Federal efforts to facilitate the creation of jobs in the United States and ensure sustainable economic growth through trade and foreign investment, and to ensure the effective and efficient use of Federal resources in support of these goals, I hereby direct the following:
+
+(1) <i>Program Coordination</i>. In coordination with the TPCC, the Export Promotion Cabinet shall develop strategies and initiatives in support of my Administration's strategic trade and investment goals and priorities, including the specific measures outlined in this memorandum. The Assistant to the President and Deputy National Security Advisor for International Economics shall coordinate the activities of the Export Promotion Cabinet pursuant to this memorandum. Measures and progress shall continue to be reported in the annual National Export Strategy report of the TPCC. The TPCC will continue to function as it has, consistent with its statutorily mandated duties.
+
+(2) <i>Improving Customer Service for Exporters</i>. Consistent with my memorandum of October 28, 2011 (Making it Easier for America's Small Businesses and America's Exporters to Access Government Services to Help Them Grow and Hire), the Export Promotion Cabinet shall support the Steering Committee established pursuant to that memorandum in its efforts to create BusinessUSA, a common, open, online platform and web service that will, among other things, enable exporters to seamlessly access information about export-related Government programs, resources, and services regardless of which agency provides them.
+
+(3) <i>Trade Budget</i>. The Export Promotion Cabinet shall, in consultation with the TPCC:
+
+(a) evaluate the allocation of Federal Government resources to assist with trade financing, negotiation, enforcement, and promotion, as well as the encouragement of foreign investment in the United States, and identify potential savings from streamlining overlapping or duplicative programs, as well as areas in need of additional resources;
+
+(b) make recommendations to the Director of the Office of Management and Budget (OMB) for more effective resource allocation to these functions, consistent with my Administration's strategic trade and investment goals and priorities, including recommendations to streamline overlapping and duplicative programs and reallocate those resources; and
+
+(c) present to the Director of OMB for consideration in the annual process for developing the President's Budget, a proposed unified Federal trade budget, consistent with my Administration's strategic trade and investment goals and priorities.
+
+(4) <i>Coordination of Offices and Staff</i>. The Export Promotion Cabinet, in consultation with the TPCC, shall take steps to ensure the most efficient use of its members’ domestic and foreign offices and distribution networks, including: co-locating offices wherever appropriate; cross-training staff to better serve business customers at home and abroad by promoting exports to foreign countries and foreign investment in the United States; and considering the effectiveness of commercial diplomacy, cross-training, and referrals, as appropriate, when evaluating employee performance.
+
+(5) <i>Enhancing Business Competitiveness</i>. Pending passage of legislation providing Consolidation Authority, the Export Promotion Cabinet shall work with the National Economic Council to develop and coordinate administrative initiatives to align and enhance programs that enable and support efforts by American businesses, particularly small businesses, to innovate, grow, and increase exports.
+
+(6) <i>General Provisions</i>\[.\] (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to a department or agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Director of OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

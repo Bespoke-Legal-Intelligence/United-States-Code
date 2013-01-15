@@ -13,8 +13,13 @@
 | [3309\.](%C2%A7%2003309%20-%20Design-build%20selection%20procedures.md) | Design-build selection procedures. |
 | [3310\.](%C2%A7%2003310%20-%20Quantities%20to%20order.md) | Quantities to order. |
 | [3311\.](%C2%A7%2003311%20-%20Qualification%20requirement.md) | Qualification requirement. |
+| [3312\.](%C2%A7%2003312%20-%20Database%20on%20price%20trends%20of%20items%20and%20services%20under%20Federal%20contracts.md) | Database on price trends of items and services under Federal contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title VIII, §851(a)(2), Jan. 2, 2013, 126 Stat. 1855, added item 3312.
 
 
 ---
@@ -32,3 +37,4 @@
 - [&sect; 03309 - Design-build selection procedures](%C2%A7%2003309%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 03310 - Quantities to order](%C2%A7%2003310%20-%20Quantities%20to%20order.md)
 - [&sect; 03311 - Qualification requirement](%C2%A7%2003311%20-%20Qualification%20requirement.md)
+- [&sect; 03312 - Database on price trends of items and services under Federal contracts](%C2%A7%2003312%20-%20Database%20on%20price%20trends%20of%20items%20and%20services%20under%20Federal%20contracts.md)

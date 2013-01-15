@@ -4,7 +4,7 @@
 
 Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
-&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial developmentorganizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
+&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
 &emsp;(2) to negotiate licensing agreements under section 207 of title 35, or under other authorities (in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for inventions made or other intellectual property developed at the laboratory and other inventions or other intellectual property that may be voluntarily assigned to the Government.
 
@@ -64,7 +64,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (2) The agency in permitting a Federal laboratory to enter into agreements under this section shall be guided by the purposes of this chapter.
 
-(3)(A) Any agency using the authority given it under subsection (a) of this section shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments of titles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
+(3)(A) Any agency using the authority given it under subsection (a) of this section shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments oftitles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
 
 (B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts of interest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
 

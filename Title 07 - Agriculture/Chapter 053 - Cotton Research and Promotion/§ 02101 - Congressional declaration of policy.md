@@ -14,23 +14,23 @@ It is therefore declared to be the policy of the Congress and the purpose of thi
 
 #### Effective Date
 
-Section 20 of Pub. L. 89–502 provided that: “This Act \[enacting this chapter\] shall take effect upon enactment \[July 13, 1966\]”.
+Pub. L. 89–502, §20, July 13, 1966, 80 Stat. 287, provided that: “This Act \[enacting this chapter\] shall take effect upon enactment \[July 13, 1966\]”.
 
 #### Short Title of 1990 Amendment
 
-Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, §1990, Nov. 28, 1990, 104 Stat. 3909, provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 89–502 provided: “That this Act \[enacting this chapter\] shall be known as the ‘Cotton Research and Promotion Act’.”
+Pub. L. 89–502, §1, July 13, 1966, 80 Stat. 279, provided: “That this Act \[enacting this chapter\] shall be known as the ‘Cotton Research and Promotion Act’.”
 
 #### Reports on Implementation and Enforcement of Cotton Research and Promotion Program
 
-Section 1998 of title XIX of Pub. L. 101–624, as amended by Pub. L. 102–237, title VIII, §808(b), Dec. 13, 1991, 105 Stat. 1883, provided that:
+Pub. L. 101–624, title XIX, §1998, Nov. 28, 1990, 104 Stat. 3913, as amended by Pub. L. 102–237, title VIII, §808(b), Dec. 13, 1991, 105 Stat. 1883, provided that:
 
 “(a)
 
-In General.—Not later than 1 year after the date on which imports are subject to assessments under this subtitle \[see Short Title of 1990 Amendment note above\]—
+In General.—Not later than 1 year after the date on which imports are subject to assessments under this subtitle \[subtitle G of title XIX of Pub. L. 101–624, see Short Title of 1990 Amendment note above\]—
 
 &emsp;“(1) the Secretary of Agriculture shall prepare a report concerning the implementation and enforcement of the cotton research and promotion program, and any problems that may have arisen in the implementation and enforcement of such program; and
 

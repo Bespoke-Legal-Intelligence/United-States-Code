@@ -94,7 +94,7 @@ Except with respect to a regulation recommended by the Advisory Commission on Ch
 
 #### Prior Provisions
 
-A prior section 300aa–14, act July 1, 1944, §2115, was successively renumbered by subsequent acts and transferred, see section 238<i>l</i> of this title.
+A prior section 300aa–14, act July 1, 1944, §2115, was successively renumbered by subsequent acts and transferred, see section 238l of this title.
 
 A prior section 2114 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238k of this title.
 
@@ -114,5 +114,5 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 
 The Vaccine Injury Table as modified by regulations promulgated by the Secretary of Health and Human Services is set out at 42 CFR 100.3.
 
-Section 13632(a)(3) of Pub. L. 103–66 provided that: “A revision by the Secretary under section 2114(e) of the Public Health Service Act (42 U.S.C. 300aa–14(e)) (as amended by paragraph (2)) shall take effect upon the effective date of a tax enacted to provide funds for compensation paid with respect to the vaccine to be added to the vaccine injury table in section 2114(a) of the Public Health Service Act (42 U.S.C. 300aa–14(a)).”
+Pub. L. 103–66, title XIII, §13632(a)(3), Aug. 10, 1993, 107 Stat. 646, provided that: “A revision by the Secretary under section 2114(e) of the Public Health Service Act (42 U.S.C. 300aa–14(e)) (as amended by paragraph (2)) shall take effect upon the effective date of a tax enacted to provide funds for compensation paid with respect to the vaccine to be added to the vaccine injury table in section 2114(a) of the Public Health Service Act (42 U.S.C. 300aa–14(a)).”
 

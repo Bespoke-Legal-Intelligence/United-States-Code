@@ -54,13 +54,25 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(B) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
 
+&emsp;(16) In the case of a variable rate residential mortgage loan for which an escrow or impound account will be established for the payment of all applicable taxes, insurance, and assessments—
+
+&emsp;&emsp;(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount of such initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and
+
+&emsp;&emsp;(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.
+
+&emsp;(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.
+
+&emsp;(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.
+
+&emsp;(19) In the case of a residential mortgage loan, the total amount of interest that the consumer will pay over the life of the loan as a percentage of the principal of the loan. Such amount shall be computed assuming the consumer makes each monthly payment in full and on-time, and does not make any over-payments.
+
 #### (b) Form and timing of disclosures; residential mortgage transaction requirements
 
-(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms,data, or information provided in connection with a transaction, including any computations or itemization.
+(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
 (2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
-(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, thedisclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
 
 &emsp;(i) state in conspicuous type size and format, the following: “You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.”; and
 
@@ -95,6 +107,18 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
 (3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
+
+(4)
+
+Repayment analysis required to include escrow payments.—
+
+&emsp;(A)
+
+In general.—In the case of any consumer credit transaction secured by a first mortgage or lien on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, for which an impound, trust, or other type of account has been or will be established in connection with the transaction for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property, the information required to be provided under subsection (a) with respect to the number, amount, and due dates or period of payments scheduled to repay the total of payments shall take into account the amount of any monthly payment to such account for each such repayment in accordance with section 10(a)(2) of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2609(a)(2)\].
+
+&emsp;(B)
+
+Assessment value.—The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
@@ -224,7 +248,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (A) Model form
 
-&emsp;&emsp;Not later than 2 years after August 14, 2008, the Bureau shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue model forms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
+&emsp;&emsp;Not later than 2 years after August 14, 2008, the Bureau shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue modelforms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
 
 #### (B) Format
 
@@ -234,7 +258,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;&emsp;(ii) provide for clear and conspicuous disclosures;
 
-&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to comparesuch terms among private education loans; and
+&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to compare such terms among private education loans; and
 
 &emsp;&emsp;&emsp;(iv) be succinct, and use an easily readable type font.
 
@@ -276,73 +300,37 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
+#### (f) Periodic statements for residential mortgage loans
+
+#### (1) In general
+
+&emsp;The creditor, assignee, or servicer with respect to any residential mortgage loan shall transmit to the obligor, for each billing cycle, a statement setting forth each of the following items, to the extent applicable, in a conspicuous and prominent manner:
+
+&emsp;&emsp;(A) The amount of the principal obligation under the mortgage.
+
+&emsp;&emsp;(B) The current interest rate in effect for the loan.
+
+&emsp;&emsp;(C) The date on which the interest rate may next reset or adjust.
+
+&emsp;&emsp;(D) The amount of any prepayment fee to be charged, if any.
+
+&emsp;&emsp;(E) A description of any late payment fees.
+
+&emsp;&emsp;(F) A telephone number and electronic mail address that may be used by the obligor to obtain information regarding the mortgage.
+
+&emsp;&emsp;(G) The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).
+
+&emsp;&emsp;(H) Such other information as the Board <sup>2</sup> may prescribe in regulations.
+
+#### (2) Development and use of standard form
+
+&emsp;The Board <sup>2</sup> shall develop and prescribe a standard form for the disclosure requiredunder this subsection, taking into account that the statements required may be transmitted in writing or electronically.
+
+#### (3) Exception
+
+&emsp;Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
+
 (Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1419, 1420, 1465, July 21, 2010, 124 Stat. 2136, 2154, 2155, 2185, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by adding at the end the following new paragraphs:</i>
-
-&emsp;<i>“(16) In the case of a variable rate residential mortgage loan for which an escrow or impound account will be established for the payment of all applicable taxes, insurance, and assessments—</i>
-
-&emsp;&emsp;<i>“(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount of such initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and</i>
-
-&emsp;&emsp;<i>“(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.</i>
-
-&emsp;<i>“(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of</i><i>other fees or required payments in connection with the loan.</i>
-
-&emsp;<i>“(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.</i>
-
-&emsp;<i>“(19) In the case of a residential mortgage loan, the total amount of interest that the consumer will pay over the life of the loan as a percentage of the principal of the loan. Such amount shall be computed assuming the consumer makes each monthly payment in full and on-time, and does not make any over-payments.”;</i>
-
-<i>(2) in subsection (b), by adding at the end the following new paragraph:</i>
-
-<i>“(4)</i>
-
-<i>Repayment analysis required to include escrow payments.—</i>
-
-&emsp;<i>“(A)</i>
-
-<i>In general</i>.—<i>In the case of any consumer credit transaction secured by a first mortgage or lien on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, for which an impound, trust, or other type of account has been or will be established in connection with the transaction for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property, the information required to be provided under subsection (a) with respect to the number, amount, and due dates or period of payments scheduled to repay the total of payments shall take into account the amount of any monthly payment to such account for each such repayment in accordance with section 10(a)(2) of the Real Estate Settlement Procedures Act of 1974.</i>
-
-&emsp;<i>“(B)</i>
-
-<i>Assessment value</i>.—<i>The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.”; and</i>
-
-<i>(3) by adding at the end the following new subsection:</i>
-
-#### <i>“(f) Periodic statements for residential mortgage loans</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“The creditor, assignee, or servicer with respect to any residential mortgage loan shall transmit to the obligor, for each billing cycle, a statement setting forth each of the following items, to the extent applicable, in a conspicuous and prominent manner:</i>
-
-&emsp;&emsp;<i>“(A) The amount of the principal obligation under the mortgage.</i>
-
-&emsp;&emsp;<i>“(B) The current interest rate in effect for the loan.</i>
-
-&emsp;&emsp;<i>“(C) The date on which the interest rate may next reset or adjust.</i>
-
-&emsp;&emsp;<i>“(D) The amount of any prepayment fee to be charged, if any.</i>
-
-&emsp;&emsp;<i>“(E) A description of any late payment fees.</i>
-
-&emsp;&emsp;<i>“(F) A telephone number and electronic mail address that may be used by the obligor to obtain information regarding the mortgage.</i>
-
-&emsp;&emsp;<i>“(G) The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).</i>
-
-&emsp;&emsp;<i>“(H) Such other information as the Board may prescribe in regulations.</i>
-
-#### <i>“(2) Development and use of standard form</i>
-
-&emsp;<i>“The Board shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.</i>
-
-#### <i>“(3) Exception</i>
-
-&emsp;<i>“Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).”</i>
-
-<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### References in Text
 
@@ -354,6 +342,12 @@ The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
+Subsec. (a)(16) to (19). Pub. L. 111–203, §1419, added pars. (16) to (19).
+
+Subsec. (b)(4). Pub. L. 111–203, §1465, added par. (4).
+
+Subsec. (f). Pub. L. 111–203, §1420, added subsec. (f).
+
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
 
 Subsec. (b)(2)(A). Pub. L. 110–343, §130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
@@ -362,7 +356,7 @@ Pub. L. 110–289, §2502(a)(5), (6), struck out “, whichever is earlier” a
 
 Pub. L. 110–289, §2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
 
-Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, asdefined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
+Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
 
 Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
 
@@ -431,4 +425,6 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Bureau”.</i>
 

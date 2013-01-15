@@ -12,13 +12,13 @@ Congress finds and declares the following:
 
 &emsp;(5) Microenterprise programs have been successful and should continue to empower vulnerable women in the developing world. The Agency should work to ensure that recipients of microenterprise and microfinance development assistance under this subpart communicate and work with nongovernmental organizations and government organizations to identify and assist victims of trafficking as provided for in section 7104(a)(1) of this title and women who are victims of or susceptible to other forms of exploitation and violence.
 
-&emsp;(6) Given that microenterprise programs have been successful in empowering disenfranchised groups such as women, microenterprise programs should also target populations disenfranchised due to race or ethnicity in countries where a strong relationship between poverty and race or ethnicity hasbeen demonstrated, such as countries in Latin America.
+&emsp;(6) Given that microenterprise programs have been successful in empowering disenfranchised groups such as women, microenterprise programs should also target populations disenfranchised due to race or ethnicity in countries where a strong relationship between poverty and race or ethnicity has been demonstrated, such as countries in Latin America.
 
 (Pub. L. 87–195, pt. I, §251, as added Pub. L. 108–484, §3, Dec. 23, 2004, 118 Stat. 3923.)
 
 #### Prior Provisions
 
-A prior section 2211, Pub. L. 87–195, pt. I, §251, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 257; amended Pub. L. 88–205, pt. I, §106(a), Dec. 16, 1963, 77 Stat. 382; Pub. L. 89–583, pt. I, §105(a), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(a), Nov. 14, 1967, 81 Stat. 451, related to assistance in order to promote the economic development of countries and areas in Latin America, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
+A prior section 2211, Pub. L. 87–195, pt. I, §251, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 257; amended Pub. L. 88–205, pt. I, §106(a), Dec. 16, 1963, 77 Stat. 382; Pub. L. 89–583, pt. I, §105(a), Sept. 19, 1966, 80 Stat. 799; Pub. L. 90–137, pt. I, §106(a), Nov. 14, 1967, 81 Stat. 451, related to assistance in order to promote the economic development of countries and areas inLatin America, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
 
 #### Findings and Policy
 

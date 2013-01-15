@@ -18,7 +18,7 @@ In general.—Except as provided in subparagraph (B), the term “commercial mot
 
 &emsp;&emsp;(B)
 
-Exception.—With respect to determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
+Exception.—With respect to determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition tocommercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ Participating state.—The term “participating State” means a State that has
 
 &emsp;(8)
 
-Unified carrier registration agreement.—The terms “unified carrier registration agreement” and “UCR agreement” mean theinterstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
+Unified carrier registration agreement.—The terms “unified carrier registration agreement” and “UCR agreement” mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
 
 &emsp;(9)
 
@@ -100,7 +100,7 @@ Vehicle registration.—The term “vehicle registration” means the registrati
 
 (b)
 
-Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
+Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
 
 (c)
 
@@ -112,7 +112,7 @@ Unreasonable Burden.—For purposes of this section, it shall be considered an u
 
 &emsp;&emsp;(B) the filing with the State of information relating to the financial responsibility of a motor carrier or motor private carrier pursuant to sections 31138 or 31139;
 
-&emsp;&emsp;(C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to sections <sup>1</sup> 503 or 13304; or
+&emsp;&emsp;(C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to section 503 or 13304; or
 
 &emsp;&emsp;(D) the annual renewal of the intrastate authority, or the insurance filings, of the motor carrier or motor private carrier, or other intrastate filing requirement necessary to operate within the State if the motor carrier or motor private carrier is—
 
@@ -122,11 +122,11 @@ Unreasonable Burden.—For purposes of this section, it shall be considered an u
 
 &emsp;&emsp;&emsp;&emsp;(I) intrastate service provided by motor carriers of passengers that is not subject to the preemption provisions of section 14501(a);
 
-&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).<sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2); and
 
 &emsp;&emsp;&emsp;&emsp;(III) the intrastate transportation of waste or recyclable materials by any carrier; or
 
-&emsp;(2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which <sup>3</sup> a carrier engaged exclusively in intrastate operations is exempt.
+&emsp;(2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which <sup>2</sup> a carrier engaged exclusively in intrastate operations is exempt.
 
 (d)
 
@@ -210,7 +210,7 @@ Compensation and expenses.—
 
 &emsp;&emsp;(A)
 
-In general.—Except for the representative of the Department appointed under paragraph (1)(B)(iv), no director shall receive any compensation or other benefits from the Federal Government for serving on the board or be considered a Federal employee as a result of such service.
+In general.—Except for the representative of the Department appointed underparagraph (1)(B)(iv), no director shall receive any compensation or other benefits from the Federal Government for serving on the board or be considered a Federal employee as a result of such service.
 
 &emsp;&emsp;(B)
 
@@ -230,7 +230,7 @@ Quorum.—A majority of directors shall constitute a quorum.
 
 &emsp;&emsp;(C)
 
-Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors..<sup>3</sup>
+Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of ¾ of all such directors..<sup>2</sup>
 
 &emsp;&emsp;(D)
 
@@ -308,7 +308,7 @@ State plan.—No State shall be eligible to participate in the unified carrier r
 
 &emsp;&emsp;(A) identifying the State agency that has or will have the legal authority, resources, and qualified personnel necessary to administer the agreement in accordance with the rules and regulations promulgated by the board of directors; and
 
-&emsp;&emsp;(B) demonstrating that an amount at least equal to the revenue derived by the State from the unified carrier registration agreement shall be used for motor carrier safety programs, enforcement, or the administration of the UCR plan and UCR agreement.
+&emsp;&emsp;(B) demonstrating that an amount at least equal to the revenue derived by the Statefrom the unified carrier registration agreement shall be used for motor carrier safety programs, enforcement, or the administration of the UCR plan and UCR agreement.
 
 &emsp;(2)
 
@@ -356,7 +356,7 @@ Determination of ownership or operation.—For purposes of this subsection, a co
 
 &emsp;(3)
 
-Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates onits most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
+Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
 
 &emsp;(4)
 
@@ -430,17 +430,23 @@ Enforcement by states.—Nothing in this section—
 
 Application to Intrastate Carriers.—Notwithstanding any other provision of this section, a State may elect to apply the provisions of the UCR agreement to motor carriers and motor private carriers and freight forwarders subject to its jurisdiction that operate solely in intrastate commerce within the borders of the State.
 
-(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906.)
+(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 112–141, div. C, title II, §32933(b), July 6, 2012, 126 Stat. 830.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a)(7), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by Pub. L. 112–141, div. C, title II, §32916(a)(2), July 6, 2012, 126 Stat. 820.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsecs. (e)(1) and (g)(1), (2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1)(C). Pub. L. 112–141, §32933(b)(1), substituted “section” for “sections”.
+
+Subsec. (c)(1)(D)(ii)(II). Pub. L. 112–141, §32933(b)(2), substituted “; and” for period at end.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
 
@@ -458,15 +464,17 @@ Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period “, 
 
 Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
 
-Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(<i>o</i>), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(o), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

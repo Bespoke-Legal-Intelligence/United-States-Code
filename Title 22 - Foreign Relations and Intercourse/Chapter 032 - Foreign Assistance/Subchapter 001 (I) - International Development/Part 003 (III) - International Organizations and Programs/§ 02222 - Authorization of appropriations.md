@@ -48,11 +48,11 @@
 
 (1) There is authorized to be appropriated to the President for loans for Indus Basin Development to carry out the purposes of this section, in addition to funds available under this chapter or any other Act for such purposes, for use beginning in the fiscal year 1969, $61,220,000. Such amounts are authorized to remain available until expended.
 
-(2) There is authorized to be appropriated to the President for grants for Indus Basin Development, in addition to any other funds available for such purposes, for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000, and for use beginning in the fiscal year 1976, $27,000,000, which amounts shall remain available until expended. The President shall not exercise any special authority granted to him under section 2360(a) or 2364(a) of this title to transfer any amount appropriated under this paragraph to, and to consolidate suchamount with, any funds made available under any other provision of this chapter.
+(2) There is authorized to be appropriated to the President for grants for Indus Basin Development, in addition to any other funds available for such purposes, for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000, and for use beginning in the fiscal year 1976, $27,000,000, which amounts shall remain available until expended. The President shall not exercise any special authority granted to him under section 2360(a) or 2364(a) of this title to transfer any amount appropriated under this paragraph to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
 #### (c) Prohibition against contributions for volunteer manpower programs
 
-None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing or operating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
+None of the funds available to carry out this part shall be contributed to any international organization or to any foreign government or agency thereof to pay the costs of developing oroperating any volunteer program of such organization, government, or agency relating to the selection, training, and programing of volunteer manpower.
 
 #### (d) Tuberculosis vaccine development programs
 
@@ -78,7 +78,7 @@ In addition to amounts otherwise available under this section for such purposes,
 
 In addition to amounts otherwise available under this section, there is authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to be available only for United States contributions to the GAVI Fund.
 
-#### (<i>l</i>) Authorization of appropriations for International AIDS Vaccine Initiative
+#### (l) Authorization of appropriations for International AIDS Vaccine Initiative
 
 In addition to amounts otherwise available under this section, there is authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to be available only for United States contributions to the International AIDS Vaccine Initiative.
 
@@ -90,25 +90,25 @@ In addition to amounts otherwise available under this section, there are authori
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (<i>l</i>). Pub. L. 111–117, which directed substitution in subsec. (<i>l</i>) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
+<b>2009</b>—Subsec. (l). Pub. L. 111–117, which directed substitution in subsec. (l) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–293, §201(1), added subsec. (d).
 
 Subsec. (k). Pub. L. 110–293, §201(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008” and “GAVI Fund” for “Vaccine Fund”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 110–293, §201(3), (4), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsecs. (l), (m). Pub. L. 110–293, §201(3), (4), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
 <b>2003</b>—Subsec. (k). Pub. L. 108–25, §203(a), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$50,000,000 for each of the fiscal years 2001 and 2002” and “Vaccine Fund” for “Global Alliance for Vaccines and Immunizations”.
 
-Subsec. (<i>l</i>). Pub. L. 108–25, §203(b), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$10,000,000 for each of the fiscal years 2001 and 2002”.
+Subsec. (l). Pub. L. 108–25, §203(b), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$10,000,000 for each of the fiscal years 2001 and 2002”.
 
 Subsec. (m). Pub. L. 108–25, §203(c), added subsec. (m).
 
-<b>2000</b>—Subsecs. (k), (<i>l</i>). Pub. L. 106–264 added subsecs. (k) and (<i>l</i>).
+<b>2000</b>—Subsecs. (k), (l). Pub. L. 106–264 added subsecs. (k) and (l).
 
 <b>1988</b>—Subsec. (j). Pub. L. 100–690 added subsec. (j).
 
@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 93–189, §9(5), substituted “$2,000,000 for the fiscal 
 
 Subsec. (b)(2). Pub. L. 92–226, §107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
-Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
+Subsec. (e). Pub. L. 92–226, §107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, andstruck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
 
 Subsec. (f). Pub. L. 92–226, §107(d), added subsec. (f).
 
@@ -214,9 +214,9 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Report to Congress on Palestine Refugee Ration Distribution System
 
-Section 117(b)(2) of Pub. L. 95–424 which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–424, title I, §117(b)(2), Oct. 6, 1978, 92 Stat. 953, which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Authorization of Appropriations for Contributions to the World Assembly on Aging
 
-Section 117(e) of Pub. L. 95–424 provided that: “In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
+Pub. L. 95–424, title I, §117(e), Oct. 6, 1978, 92 Stat. 953, provided that: “In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
 

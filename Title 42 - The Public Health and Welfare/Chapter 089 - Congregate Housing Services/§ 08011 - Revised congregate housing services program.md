@@ -62,7 +62,7 @@
 
 #### (2) Term of contracts
 
-&emsp;Each contract between the Secretary concerned and a State, Indian tribe, or unit of general local government, or local nonprofit housing sponsor, shall be for a term of 5 years and shall be renewable at the expiration of theterm, except as otherwise provided in this section.
+&emsp;Each contract between the Secretary concerned and a State, Indian tribe, or unit of general local government, or local nonprofit housing sponsor, shall be for a term of 5 years and shall be renewable at the expiration of the term, except as otherwise provided in this section.
 
 #### (c) Reservation of amounts
 
@@ -138,7 +138,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(E) performing such other duties and functions that the Secretary deems appropriate to enable frail elderly persons residing in federally assisted housing to live with dignity and independence.
 
-> &emsp;The Secretary shall establish such minimum qualifications and standards for the positionof service coordinator that the Secretary deems necessary to ensure sound management. Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
+> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management.Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
 
 #### (5) Other services
 
@@ -348,7 +348,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) housing assisted under section 1701q of title 12;
 
-&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
+&emsp;&emsp;(D) housing assisted under section 1715l(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
 
 &emsp;&emsp;(E) housing assisted under section 1484 or 1485 of this title, with respect to which the owner has made a binding commitment to the Secretary of Agriculture not to prepay or refinance the mortgage (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for not less than the 20-year period under section 1472(c)(4) of this title); and
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) <sup>11</sup> of this section.
 
-#### (<i>l</i>) Reports to Congress
+#### (l) Reports to Congress
 
 #### (1) In general
 
@@ -428,7 +428,7 @@ The Secretary of Housing and Urban Development and the Secretary of Agriculture 
 
 &emsp;Any amounts appropriated under this subsection shall remain available until expended.
 
-#### (<i>o</i>) Reserve fund
+#### (o) Reserve fund
 
 The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
 
@@ -444,7 +444,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act J
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
-Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
+Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title I \[title II, §209(a)(2)\], Nov. 30, 1983, 97 Stat. 1183.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -490,7 +490,7 @@ This section was enacted as part of Pub. L. 101–625, which was approved Nov. 2
 
 #### Regulations
 
-Section 604(c) of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title VI, §604(c), Oct. 28, 1992, 106 Stat. 3805, provided that:
 
 “(1)
 

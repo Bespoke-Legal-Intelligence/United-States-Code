@@ -2,7 +2,7 @@
 
 (a)
 
-Separation.—Under regulations prescribed by the Secretary of Defense, an officer on the reserve active-status list who is appointed or designated as a chaplain may, if the officer fails to maintain the qualifications needed to performthe professional function of a chaplain, be discharged. The authority under the preceding sentence applies without regard to the provisions of section 12645 of this title.
+Separation.—Under regulations prescribed by the Secretary of Defense, an officer on the reserve active-status list who is appointed or designated as a chaplain may, if the officer fails to maintain the qualifications needed to perform the professional function of a chaplain, be discharged. The authority under the preceding sentence applies without regard to the provisions of section 12645 of this title.
 
 (b)
 

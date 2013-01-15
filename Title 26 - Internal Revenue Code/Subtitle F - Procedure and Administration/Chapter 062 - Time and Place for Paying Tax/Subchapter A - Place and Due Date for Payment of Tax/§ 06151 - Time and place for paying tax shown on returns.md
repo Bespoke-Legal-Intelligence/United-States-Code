@@ -30,7 +30,7 @@ Subsec. (a). Pub. L. 94–452 substituted “subchapter,” for “section,”.
 
 #### Effective Date of 1976 Amendment
 
-Section 3(e) of Pub. L. 94–452, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–452, §3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

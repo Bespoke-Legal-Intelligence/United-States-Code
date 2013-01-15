@@ -4,7 +4,7 @@
 
 Prohibitions.—(1) A person may not discharge an employee, or discipline or discriminate against an employee regarding pay, terms, or privileges of employment, because—
 
-&emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint or begun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
+&emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint orbegun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
 
 &emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or has begun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
 
@@ -50,7 +50,7 @@ De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> i
 
 (d)
 
-Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. Review shall conform to chapter 7 of title 5. The review shall be heard and decided expeditiously. An order of the Secretary of Labor subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
+Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 daysafter the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. Review shall conform to chapter 7 of title 5. The review shall be heard and decided expeditiously. An order of the Secretary of Labor subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
 (e)
 
@@ -148,7 +148,7 @@ In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unn
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec. (a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
+<b>2007</b>—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec.\(a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
 
 #### Employee Protections
 

@@ -170,7 +170,7 @@ Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). F
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–351, title II, §201(d), Oct. 7, 2008, 122 Stat. 3959, provided that: “The amendments made by thissection \[amending this section and sections 673 and 675 of this title\] shall take effect on October 1, 2010.”
+Pub. L. 110–351, title II, §201(d), Oct. 7, 2008, 122 Stat. 3959, provided that: “The amendments made by this section \[amending this section and sections 673 and 675 of this title\] shall take effect on October 1, 2010.”
 
 Amendment by section 301(a)(2) of Pub. L. 110–351 effective Oct. 1, 2009, without regard to whether implementing regulations have been promulgated, see section 301(f) of Pub. L. 110–351, set out as a note under section 671 of this title.
 
@@ -200,15 +200,15 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 
 #### Effective Date of 1987 Amendment
 
-Section 9133(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 602, 673, and 675 of this title\] shall become effective April 1, 1988.”
+Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: “The amendments made by this section \[amending this section and sections 602, 673, and 675 of this title\] shall become effective April 1, 1988.”
 
 #### Effective Date of 1980 Amendment
 
-Section 102(a)(1) of Pub. L. 96–272, as amended by Pub. L. 98–118, §3(a), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(1), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, 12306(c)(1), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(1), Dec. 22, 1987, 101 Stat. 1330–313, provided that the amendment made by that section is effective with respect to expenditures made after Sept. 30, 1980.
+Pub. L. 96–272, title I, §102(a)(1), June 17, 1980, 94 Stat. 513, as amended by Pub. L. 98–118, §3(a), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(1), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, 12306(c)(1), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(1), Dec. 22, 1987, 101 Stat. 1330–313, provided that the amendment made by that section is effective with respect to expenditures made after Sept. 30, 1980.
 
-Section 102(c) of Pub. L. 96–272, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979.”
+Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: “The amendments made by subsections (a) and (b) \[amending thissection and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979.”
 
-\[Section 9131(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987.”\]
+\[Pub. L. 100–203, title IX, §9131(b), Dec. 22, 1987, 101 Stat. 1330–313, provided that: “The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987.”\]
 
 #### Construction of 2008 Amendment
 
@@ -216,7 +216,7 @@ For construction of amendment by section 301(a)(2) of Pub. L. 110–351, see sec
 
 #### Children Voluntarily Removed From Home of Relative
 
-Section 102(d)(1) of Pub. L. 96–272 provided that: “For purposes of section 472 of the Social Security Act \[this section\], a child who was voluntarily removed from the home of a relative and who had a judicial determination prior to October 1, 1978, to the effect that continuation therein would be contrary to the welfare of such child, shall be deemed to have been so removed as a result of such judicial determination if, and from the date that, a case plan and a review meeting the requirements of section 471(a)(16) of such Act \[section 671(a)(16) of this title\] have been made with respect to such child and such child is determined to be in need of foster care as a result of such review. In the case of any child described in the preceding sentence, for purposes of section 472(a)(4) of such Act \[subsec. (a)(4) of this section\], the date of the voluntary removal shall be deemed to be the date on which court proceedings are initiated which led to such removal.”
+Pub. L. 96–272, title I, §102(d)(1), June 17, 1980, 94 Stat. 515, provided that: “For purposes of section 472 of the Social Security Act \[this section\], a child who was voluntarily removed from the home of a relative and who had a judicial determination prior to October 1, 1978, to the effect that continuation therein would be contrary to the welfare of such child, shall be deemed to have been so removed as a result of such judicial determination if, and from the date that, a case plan and a review meeting the requirements of section 471(a)(16) of such Act \[section 671(a)(16) of this title\] have been made with respect to such child and such child is determined to be in need of foster care as a result of such review. In the case of any child described in the preceding sentence, for purposes of section 472(a)(4) of such Act \[subsec. (a)(4) of this section\], the date of the voluntary removal shall be deemed to be the date on which court proceedings are initiated which led to such removal.”
 
 #### Annual Report to Congress of Number of Children Placed in Foster Care Pursuant to Voluntary Placement Agreements
 

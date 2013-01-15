@@ -18,5 +18,5 @@ Any person who furnishes original information to the United States—
 
 #### Short Title
 
-Section 1 of act July 15, 1955, as amended by section 1(a) of Pub. L. 93–377, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Atomic Weapons and Special Nuclear Materials Rewards Act’.”
+Act July 15, 1955, ch. 372, §1, 69 Stat. 365, as amended by Pub. L. 93–377, §1(a), Aug. 17, 1974, 88 Stat. 472, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Atomic Weapons and Special Nuclear Materials Rewards Act’.”
 

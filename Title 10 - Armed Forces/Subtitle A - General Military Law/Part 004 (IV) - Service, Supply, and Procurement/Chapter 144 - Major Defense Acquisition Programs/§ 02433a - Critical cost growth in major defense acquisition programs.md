@@ -18,7 +18,7 @@ Reassessment of Program.—If the program acquisition unit cost or procurement u
 
 (b)
 
-Presumption of Termination.—(1) After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected AcquisitionReport containing the information described in section 2433(g) of this title is required to be submitted under section 2432(f) of this title, a written certification in accordance with paragraph (2).
+Presumption of Termination.—(1) After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 2433(g) of this title is required to be submitted under section 2432(f) of this title, a written certification in accordance with paragraph (2).
 
 (2) A certification described by this paragraph with respect to a major defense acquisition program is a written certification that—
 
@@ -50,7 +50,7 @@ Actions if Program Not Terminated.—(1) If the Secretary elects not to terminat
 
 (2) For purposes of paragraph (1)(D), the report specified in this paragraph is the first Selected Acquisition Report for the program submitted pursuant to section 2432 of this title after the President submits a budget pursuant to section 1105 of title 31, in the calendar year following the year in which the program was restructured.
 
-(3)(A) The requirements of subparagraphs (B) and (C) of paragraph (1) shall not apply to a program or subprogram if—
+(3)(A) The requirements of subparagraphs (B), (C), and (E) of paragraph (1) shall not apply to a program or subprogram if—
 
 &emsp;(i) the Milestone Decision Authority determines in writing, on the basis of a cost assessment and root cause analysis conducted pursuant to subsection (a), that—
 
@@ -78,7 +78,7 @@ Actions if Program Not Terminated.—(1) If the Secretary elects not to terminat
 
 &emsp;&emsp;(I) 5 percent over the procurement unit cost for the program or subprogram as shown in the current Baseline Estimate for the program or subprogram; and
 
-&emsp;&emsp;(II) 10 percent over the procurement unit cost for the program or subprogram asshown in the original Baseline Estimate for the program or subprogram.
+&emsp;&emsp;(II) 10 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
 
 (d)
 
@@ -90,13 +90,15 @@ Actions if Program Terminated.—If a major defense acquisition program is termi
 
 &emsp;(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503.)
+(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503; Pub. L. 112–239, div. A, title VIII, §813, Jan. 2, 2013, 126 Stat. 1829.)
 
 #### References in Text
 
 Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (c)(1)(E), is section 205 of Pub. L. 111–23, which amended section 2366b of this title and enacted provisions set out as notes under this section and section 2366b of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3)(A). Pub. L. 112–239 substituted “subparagraphs (B), (C), and (E)” for “subparagraphs (B) and (C)” in introductory provisions.
 
 <b>2011</b>—Subsec. (b)(2)(B). Pub. L. 111–383 substituted “section 181(g)(1)” for “section 181(g)((1)”.
 

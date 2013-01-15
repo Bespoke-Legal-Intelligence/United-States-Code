@@ -94,7 +94,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1024(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: “The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1976 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 #### Transitional Rules for 1984 Amendment
 
-Section 1024(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1010(f)(8), Nov. 10, 1988, 102 Stat. 3454, provided that:
+Pub. L. 99–514, title X, §1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended by Pub. L. 100–647, title I, §1010(f)(8), Nov. 10, 1988, 102 Stat. 3454, provided that:
 
 “(1)
 

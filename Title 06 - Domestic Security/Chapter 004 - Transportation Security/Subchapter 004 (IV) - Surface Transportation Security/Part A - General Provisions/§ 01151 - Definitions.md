@@ -20,7 +20,7 @@ In this subchapter, the following definitions apply:
 
 #### (5) Over-the-road bus frontline employees
 
-&emsp;In this section,<sup>1</sup> the term “over-the-road bus frontline employees” means over-the-road bus drivers, security personnel, dispatchers, maintenance and maintenance support personnel, ticket agents, other terminal employees, and other employees of an over-the-road bus operator or terminal owner or operator that the Secretary determines should receive security training under this subchapter.
+&emsp;In this section,<sup>1</sup> the term “over-the-road bus frontline employees” means over-the-road bus drivers, security personnel, dispatchers, maintenance and maintenance support personnel, ticket agents, other terminal employees, and other employees of an over-the-road bus operator or terminal owner or operator that theSecretary determines should receive security training under this subchapter.
 
 #### (6) Railroad frontline employees
 

@@ -6,7 +6,7 @@ The Secretary shall, in accordance with this section (including the agenda devel
 
 &emsp;(1) determine whether or not exposure to electric and magnetic fields produced by the generation, transmission, and use of electric energy affects human health;
 
-&emsp;(2) carry out research, development, and demonstration with respect to technologies tomitigate any adverse human health effects; and
+&emsp;(2) carry out research, development, and demonstration with respect to technologies to mitigate any adverse human health effects; and
 
 &emsp;(3) provide for dissemination of information described in subsection (b)(1) of this section to the public.
 
@@ -42,7 +42,7 @@ The program shall provide for—
 
 #### (2) Agreement
 
-&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services to carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
+&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Servicesto carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
 
 #### (3) Actions of Director
 
@@ -122,7 +122,7 @@ In general.—Within 15 months after October 24, 1992, and as often thereafter a
 
 &emsp;(B)
 
-Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
+Consultation with advisory committee.—In preparing solicitations for proposalsto conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
 
 &emsp;(C)
 
@@ -192,7 +192,7 @@ For purposes of this section:
 
 It is the sense of the Congress that remedial action taken by the Government on electric and magnetic fields, if and as necessary, should be based on, and consistent with, scientifically valid research such as the results and findings of the research authorized by this Act.
 
-#### (<i>l</i>) Sunset provision
+#### (l) Sunset provision
 
 All authority under this section shall expire on December 31, 1998.
 
@@ -210,7 +210,7 @@ This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 S
 
 Subsec. (j)(1). Pub. L. 105–23 substituted “$46,000,000” for “$65,000,000” and “1998” for “1997”.
 
-Subsec. (<i>l</i>). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
+Subsec. (l). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

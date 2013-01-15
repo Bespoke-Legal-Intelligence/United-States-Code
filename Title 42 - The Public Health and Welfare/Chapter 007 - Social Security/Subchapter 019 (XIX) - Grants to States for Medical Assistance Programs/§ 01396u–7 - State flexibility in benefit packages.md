@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
+&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its optionas a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
 &emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a State may require that a full-benefit eligible individual (as defined in subparagraph (C))within a group obtain benefits under this subchapter through enrollment in coverage described in paragraph (1)(A). A State may apply the previous sentence to individuals within 1 or more groups of such individuals.
+&emsp;&emsp;Except as provided in subparagraph (B), a State may require that a full-benefit eligible individual (as defined in subparagraph (C)) within a group obtain benefits under this subchapter through enrollment in coverage described in paragraph (1)(A). A State may apply the previous sentence to individuals within 1 or more groups of such individuals.
 
 #### (B) Limitation on application
 
@@ -74,7 +74,7 @@
 
 #### (viii) Children in foster care receiving child welfare services and children receiving foster care or adoption assistance
 
-&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in fostercare or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
 
 #### (ix) TANF and section 1396u–1 parents
 
@@ -202,7 +202,7 @@
 
 #### (B) Deemed compliance
 
-&emsp;&emsp;Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, andtreatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).
+&emsp;&emsp;Coverage provided with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, shall be deemed to satisfy the requirements of subparagraph (A).
 
 #### (7) Coverage of family planning services and supplies
 

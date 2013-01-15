@@ -44,7 +44,7 @@ If a public housing resident does not exercise the right of first refusal under 
 
 &emsp;&emsp;&emsp;&emsp;(II) project-based assistance; or
 
-&emsp;&emsp;&emsp;&emsp;(III) occupancy in a unit owned, operated, or assisted by the public housingagency at a rental rate paid by the resident that is comparable to the rental rate applicable to the unit from which the resident is vacated;
+&emsp;&emsp;&emsp;&emsp;(III) occupancy in a unit owned, operated, or assisted by the public housing agency at a rental rate paid by the resident that is comparable to the rental rate applicable to the unit from which the resident is vacated;
 
 &emsp;(2) shall provide for the payment of the actual and reasonable relocation expenses of the resident to be displaced;
 
@@ -62,7 +62,7 @@ A homeownership program under this section may provide financing for acquisition
 
 #### (1) In general
 
-&emsp;Each family purchasing housing under a homeownership program under this section shall be required to provide from its own resources a downpayment in connection with any loan for acquisition of the housing, in an amount determined by the public housing agency. Except as provided in paragraph (2), the agency shall permit the family to use grant amounts, gifts from relatives, contributions from private sources, and similar amounts as downpayment amounts in such purchase.
+&emsp;Each family purchasing housing under a homeownership program under this sectionshall be required to provide from its own resources a downpayment in connection with any loan for acquisition of the housing, in an amount determined by the public housing agency. Except as provided in paragraph (2), the agency shall permit the family to use grant amounts, gifts from relatives, contributions from private sources, and similar amounts as downpayment amounts in such purchase.
 
 #### (2) Direct family contribution
 
@@ -94,7 +94,7 @@ The net proceeds of any sales under a homeownership program under this section r
 
 From amounts distributed to a public housing agency under the Capital Fund under section 1437g(d) of this title, or from other income earned by the public housing agency, the public housing agency may provide assistance to public housing residents to facilitate the ability of those residents to purchase a principal residence, including a residence other than a residence located in a public housing project.
 
-#### (<i>l</i>) Inapplicability of disposition requirements
+#### (l) Inapplicability of disposition requirements
 
 The provisions of section 1437p of this title shall not apply to disposition of public housing dwelling units under a homeownership program under this section.
 

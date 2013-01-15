@@ -58,7 +58,7 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (ii) In the event of excess
 
-&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretarymay allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
+&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
 
 #### (3) Byproduct location
 

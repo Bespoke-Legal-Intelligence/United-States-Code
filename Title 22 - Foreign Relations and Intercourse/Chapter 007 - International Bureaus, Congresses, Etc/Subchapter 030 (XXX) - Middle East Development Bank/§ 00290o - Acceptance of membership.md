@@ -10,5 +10,5 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 #### Short Title
 
-Section 101(c) \[title VII, §701\] of div. A of Pub. L. 104–208 provided that: “This title \[enacting this subchapter and amending sections 262r and 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘Bank for Economic Cooperation and Development in the Middle East and North Africa Act’.”
+Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §701\], Sept. 30, 1996, 110 Stat. 3009–121, 2009–179, provided that: “This title \[enacting this subchapter and amending sections 262r and 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘Bank for Economic Cooperation and Development in the Middle East and North Africa Act’.”
 

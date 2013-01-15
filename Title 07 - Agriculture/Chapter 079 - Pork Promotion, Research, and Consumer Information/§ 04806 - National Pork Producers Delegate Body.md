@@ -60,7 +60,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 #### (c) Voting; quorum; votes necessary for decision
 
-(1) A producer member of the Delegate Body may, in a vote conducted by the Delegate Body for which the member is present, cast a number of votes equal to—
+(1) A producer member of the Delegate Body may, in a vote conducted by the Delegate Bodyfor which the member is present, cast a number of votes equal to—
 
 &emsp;(A) the number of shares attributable to the State of the member; divided by
 

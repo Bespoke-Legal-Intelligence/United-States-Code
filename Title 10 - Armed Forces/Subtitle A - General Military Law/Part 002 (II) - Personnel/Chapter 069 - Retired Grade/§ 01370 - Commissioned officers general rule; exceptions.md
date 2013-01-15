@@ -4,7 +4,7 @@
 
 Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, AirForce, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years.
+(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years.
 
 (B) In the case of an officer to be retired in a general or flag officer grade, authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be exercised with respect to that officer only if approved by the Secretary of Defense or another civilian official in the Office of the Secretary of Defense appointed by the President, by and with the advice and consent of the Senate.
 
@@ -12,9 +12,11 @@ Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled 
 
 (D) The President may waive subparagraph (A) in individual cases involving extreme hardship or exceptional or unusual circumstances. The authority of the President under the preceding sentence may not be delegated.
 
-(E) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+(E) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed (i) the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force inthat grade or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater.
 
-(F) Notwithstanding subparagraph (E), during the period ending on December 31, 2007, the number of lieutenant colonels and colonels of the Air Force, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+(F) Notwithstanding subparagraph (E), during fiscal years 2013 through 2018, the number of lieutenant colonels and colonels of the Army, Air Force, and Marine Corps, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+
+(G) Notwithstanding subparagraph (E), during fiscal years 2013 through 2017, the total number of brigadier generals and major generals of the Army, Air Force, and Marine Corps, and the total number of rear admirals (lower half) and rear admirals of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed 10 percent of the authorized active-duty strength for that fiscal year for officers of that armed force in those grades.
 
 (3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 3911, 6323, or 8911 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to section 1186(b)(1) of this title is considered for purposes of this section to have been retired voluntarily.
 
@@ -78,13 +80,19 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 Advance Notice to Congressional Committees.—(1) In the case of an officer to be retired in a grade that is a general or flag officer grade who is eligible to retire in that grade only by reason of an exercise of authority under paragraph (2) of subsection (a) to reduce the three-year service-in-grade requirement otherwise applicable under that paragraph, the Secretary of Defense, before the officer is retired in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under that paragraph with respect to that officer.
 
-(2) In the case of a person to be credited under subsection (d) with satisfactory service in a grade that is a general or flag officer grade who is eligible to be credited with such service in that grade only by reason of an exercise of authority under paragraph (5) of that subsection to reduce the three-year service-in-grade requirement otherwise applicable under paragraph (3)(A) of that subsection, the Secretary of Defense, before the person is credited with suchsatisfactory service in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under paragraph (5) of that subsection with respect to that officer.
+(2) In the case of a person to be credited under subsection (d) with satisfactory service in a grade that is a general or flag officer grade who is eligible to be credited with such service in that grade only by reason of an exercise of authority under paragraph (5) of that subsection to reduce the three-year service-in-grade requirement otherwise applicable under paragraph (3)(A) of that subsection, the Secretary of Defense, before the person is credited with such satisfactory service in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under paragraph (5) of that subsection with respect to that officer.
 
 (3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §501, Jan. 6, 2006, 119 Stat. 3225.)
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (o), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §501, Jan. 6, 2006, 119 Stat. 3225; Pub. L. 112–239, div. A, title V, §§506, 507, Jan. 2, 2013, 126 Stat. 1716.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2)(E). Pub. L. 112–239, §507(1), inserted “(i)” after “exceed” and “or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater” before period at end.
+
+Subsec. (a)(2)(F). Pub. L. 112–239, §506, substituted “fiscal years 2013 through 2018” for “the period ending on December 31, 2007” and “Army, Air Force, and Marine Corps” for “Air Force” and struck out “in the period” after “any fiscal year”.
+
+Subsec. (a)(2)(G). Pub. L. 112–239, §507(2), added subpar. (G).
 
 <b>2006</b>—Subsec. (a)(2)(F). Pub. L. 109–163 added subpar. (F).
 
@@ -118,7 +126,7 @@ Subsec. (d)(3)(E). Pub. L. 105–261, §512(a), amended subpar. (E) generally. P
 
 Subsec. (d)(3)(F). Pub. L. 105–261, §513(a), as amended by Pub. L. 106–65, §1066(b)(3), added subpar. (F).
 
-Subsec. (d)(5). Pub. L. 105–261, §561(<i>o</i>), added par. (5).
+Subsec. (d)(5). Pub. L. 105–261, §561(o), added par. (5).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106, §502(g)(1), inserted heading.
 
@@ -160,7 +168,7 @@ Pub. L. 105–261, div. A, title V, §513(b), Oct. 17, 1998, 112 Stat. 2008, pro
 
 #### Effective Date of 1996 Amendment
 
-Section 502(e) of Pub. L. 104–106 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect on October 1, 1996, immediately after subsection (d) of section 1370 of title 10, United States Code, takes effect under section 1691(b)(1) of the Reserve Officer Personnel Management Act (108 Stat. 3026) \[Pub. L. 103–337, set out as a note under section 10001 of this title\].”
+Pub. L. 104–106, div. A, title V, §502(e), Feb. 10, 1996, 110 Stat. 293, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect on October 1, 1996, immediately after subsection (d) of section 1370 of title 10, United States Code, takes effect under section 1691(b)(1) of the Reserve Officer Personnel Management Act (108 Stat. 3026) \[Pub. L. 103–337, set out as a note under section 10001 of this title\].”
 
 #### Effective Date of 1994 Amendment
 

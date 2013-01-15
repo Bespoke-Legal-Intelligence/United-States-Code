@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (d)(3), was in the original “this Act”,
 
 #### Findings and Purpose
 
-Section 2 of Pub. L. 105–92 provided that:
+Pub. L. 105–92, §2, Nov. 19, 1997, 111 Stat. 2139, provided that:
 
 “(a)
 

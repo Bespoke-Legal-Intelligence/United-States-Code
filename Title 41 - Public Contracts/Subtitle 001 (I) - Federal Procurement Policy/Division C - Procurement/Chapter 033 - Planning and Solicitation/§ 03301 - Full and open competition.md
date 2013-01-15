@@ -30,7 +30,7 @@ Use of sealed bids.—In determining the competitive procedures appropriate unde
 
 &emsp;(2)
 
-Sealed bid not required.—Paragraph (1)(A) does not require the use of sealed-bid procedures in cases in which section 204(e) of title 23 applies.
+Sealed bid not required.—Paragraph (1)(A) does not require the use of sealed-bid procedures in cases in which section 204(e) <sup>1</sup> of title 23 applies.
 
 (c)
 
@@ -70,7 +70,13 @@ June 30, 1949, ch. 288, title III, §302(c)(2), as added Pub. L. 98–369, title
 
 June 30, 1949, ch. 288, title III, §303(h), as added Pub. L. 104–106, title XLI, §4101(b)(2), Feb. 10, 1996, 110 Stat. 642.
 
+#### References in Text
+
+Section 204 of title 23, referred to in subsec. (b)(2), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
+
 #### Construction
 
 Pub. L. 98–369, div. B, title VII, §2711(c), July 18, 1984, 98 Stat. 1181, provided that: “The amendments made by this section \[see Tables for classification\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

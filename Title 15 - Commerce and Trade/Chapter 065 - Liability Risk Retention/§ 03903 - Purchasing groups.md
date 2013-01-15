@@ -10,7 +10,7 @@ Except as provided in this section and section 3905 of this title, a purchasing 
 
 &emsp;(3) prohibit a purchasing group or its members from purchasing insurance on the group basis described in paragraph (2) of this subsection;
 
-&emsp;(4) prohibit a purchasing group from obtaining insurance on a group basis because the group has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
+&emsp;(4) prohibit a purchasing group from obtaining insurance on a group basis because thegroup has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;
 
 &emsp;(5) require that a purchasing group must have a minimum number of members, common ownership or affiliation, or a certain legal form;
 

@@ -68,11 +68,11 @@ Low emission and energy-efficient vehicles.—
 
 &emsp;&emsp;(A)
 
-Inherently low emission vehicle.—Before September 30, 2009, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
+Inherently low emission vehicle.—Before September 30, 2017, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
 
 &emsp;&emsp;(B)
 
-Other low emission and energy-efficient vehicles.—Before September 30, 2009, the State agency may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
+Other low emission and energy-efficient vehicles.—Before September 30, 2017, the State agency may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
 
 &emsp;&emsp;&emsp;(i) establishes a program that addresses the selection of vehicles under this paragraph; and
 
@@ -80,7 +80,7 @@ Other low emission and energy-efficient vehicles.—Before September 30, 2009, t
 
 &emsp;&emsp;(C)
 
-Amount of tolls.—Under subparagraph (B), a State agency may charge no toll or may charge a toll that is less than tolls charged under paragraph (4).
+Amount of tolls.—Under this paragraph, a State agency may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
 
 (c)
 
@@ -96,7 +96,7 @@ facilities on the interstate system.—Notwithstanding section 129, tolls may be
 
 &emsp;(3)
 
-Excess toll revenues.—If a State agency makes a certification under section 129(a)(3) with respect to toll revenues collected under paragraphs (4) and (5) of subsection (b), the State, in the use of toll revenues under that sentence, shall give priority consideration to projects for developing alternatives to single occupancy vehicle travel and projects for improving highway safety.
+Toll revenue.—Toll revenue collected under this section is subject to the requirements of section 129(a)(3).
 
 (d) HOV
 
@@ -104,13 +104,29 @@ Facility Management, Operation, Monitoring, and Enforcement.—
 
 &emsp;(1)
 
-In general.—A State agency that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) in a fiscal year shall certify to the Secretary that the agency will carry out the following responsibilities with respect to the facility in the fiscal year:
+In general.—A State agency that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the agency will carry out the following responsibilities with respect to the facility:
 
-&emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways.
+&emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
 &emsp;&emsp;(B) Establishing, managing, and supporting an enforcement program that ensures that the facility is being operated in accordance with the requirements of this section.
 
-&emsp;&emsp;(C) Limiting or discontinuing the use of the facility by the vehicles if the presence of the vehicles has degraded the operation of the facility.
+&emsp;&emsp;(C) Limiting or discontinuing the use of the facility by the vehicles whenever the operation of the facility is degraded.
+
+&emsp;&emsp;(D)
+
+Maintenance of operating performance.—Not later than 180 days after the date on which a facility is degraded pursuant to the standard specified in paragraph (2), the State agency with jurisdiction over the facility shall bring the facility into compliance with the minimum average operating speed performance standard through changes to operation of the facility, including—
+
+&emsp;&emsp;&emsp;(i) increasing the occupancy requirement for HOV lanes;
+
+&emsp;&emsp;&emsp;(ii) varying the toll charged to vehicles allowed under subsection (b) to reduce demand;
+
+&emsp;&emsp;&emsp;(iii) discontinuing allowing non-HOV vehicles to use HOV lanes under subsection (b); or
+
+&emsp;&emsp;&emsp;(iv) increasing the available capacity of the HOV facility.
+
+&emsp;&emsp;(E)
+
+Compliance.—If the State fails to bring a facility into compliance under subparagraph (D), the Secretary shall subject the State to appropriate program sanctions under section 1.36 of title 23, Code of Federal Regulations (or successor regulations), until the performance is no longer degraded.
 
 &emsp;(2)
 
@@ -204,7 +220,7 @@ In general.—The term “State agency”, as used with respect to a HOV facilit
 
 Inclusion.—The term “State agency” includes a State transportation department.
 
-(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576.)
+(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1514, July 6, 2012, 126 Stat. 572.)
 
 #### References in Text
 
@@ -212,5 +228,23 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(5)(A), (B). Pub. L. 112–141, §1514(1)(A), (B), substituted “2017” for “2009”.
+
+Subsec. (b)(5)(C). Pub. L. 112–141, §1514(1)(C), substituted “this paragraph” for “subparagraph (B)” and inserted “or equal to” after “less than”.
+
+Subsec. (c)(3). Pub. L. 112–141, §1514(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “If a State agency makes a certification under section 129(a)(3) with respect to toll revenues collected under paragraphs (4) and (5) of subsection (b), the State, in the use of toll revenues under that sentence, shall give priority consideration to projects for developing alternatives to single occupancy vehicle travel and projects for improving highway safety.”
+
+Subsec. (d)(1). Pub. L. 112–141, §1514(3)(A), in introductory provisions, substituted “shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify” for “in a fiscal year shall certify” and struck out “in the fiscal year” before the colon.
+
+Subsec. (d)(1)(A). Pub. L. 112–141, §1514(3)(B), inserted “and submitting to the Secretary annual reports of those impacts” before period at end.
+
+Subsec. (d)(1)(C). Pub. L. 112–141, §1514(3)(C), substituted “whenever the operation of the facility is degraded” for “if the presence of the vehicles has degraded the operation of the facility”.
+
+Subsec. (d)(1)(D), (E). Pub. L. 112–141, §1514(3)(D), added subpars. (D) and (E).
+
 <b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted “paragraph (4)” for “paragraph (3)”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

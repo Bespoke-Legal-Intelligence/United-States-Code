@@ -112,13 +112,13 @@
 
 &emsp;&emsp;(B) paying tuition and fees for students receiving traineeships under subparagraph (A);
 
-&emsp;&emsp;(C) establishing scientific internship programs for students receiving traineeshipsunder subparagraph (A) in computer and network security at for-profit institutions, nonprofit research institutions, or government laboratories; and
+&emsp;&emsp;(C) establishing scientific internship programs for students receiving traineeships under subparagraph (A) in computer and network security at for-profit institutions, nonprofit research institutions, or government laboratories; and
 
 &emsp;&emsp;(D) other costs associated with the administration of the program.
 
 #### (4) Traineeship amount
 
-&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 per year, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
+&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 peryear, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
 
 #### (5) Selection process
 

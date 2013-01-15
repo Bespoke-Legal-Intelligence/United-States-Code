@@ -1,6 +1,6 @@
 ### §1492. Congressional reference cases
 
-Any bill, except a bill for a pension, may be referred by either House of Congress to the chief judge of the United States Court of Federal Claims for a report in conformity with section 2509 of this title.
+Any bill, except a bill for a pension, may be referred by either House of Congress to the chiefjudge of the United States Court of Federal Claims for a report in conformity with section 2509 of this title.
 
 (June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 89–681, §1, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, §133(b), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

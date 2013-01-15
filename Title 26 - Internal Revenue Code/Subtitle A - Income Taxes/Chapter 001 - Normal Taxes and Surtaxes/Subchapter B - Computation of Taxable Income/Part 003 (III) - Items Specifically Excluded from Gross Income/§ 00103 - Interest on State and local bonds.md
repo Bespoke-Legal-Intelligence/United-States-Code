@@ -86,13 +86,13 @@ Subsec. (h)(5)(A). Pub. L. 99–514, §1865(a), struck out “the United States,
 
 Subsecs. (i) to (k). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsecs. (i) to (k) which related to obligations of certain volunteer fire departments, provided that obligations must be in registered form to be tax-exempt, and required public approval for industrial development bonds, respectively.
 
-Subsec. (<i>l</i>). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (<i>l</i>) which related to information reporting requirements for certain bonds.
+Subsec. (l). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (l) which related to information reporting requirements for certain bonds.
 
-Subsec. (<i>l</i>)(2)(F). Pub. L. 99–514, §1864(d), added subpar. (F) which read: “if such obligation is a private activity bond (as defined in subsection (n)(7)), such information as the Secretary may require for purposes of determining whether the requirements of subsection (n) are met with respect to such obligation.”
+Subsec. (l)(2)(F). Pub. L. 99–514, §1864(d), added subpar. (F) which read: “if such obligation is a private activity bond (as defined in subsection (n)(7)), such information as the Secretary may require for purposes of determining whether the requirements of subsection (n) are met with respect to such obligation.”
 
 Subsec. (m). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (m) which related to obligations exempt other than under this title.
 
-Subsec. (m)(1). Pub. L. 99–514, §1871(a)(1), substituted “(j), (k), (<i>l</i>), (n), and (<i>o</i>)” for “(k), (<i>l</i>), and (n)”.
+Subsec. (m)(1). Pub. L. 99–514, §1871(a)(1), substituted “(j), (k), (l), (n), and (o)” for “(k), (l), and (n)”.
 
 Subsec. (m)(3)(B). Pub. L. 99–514, §1899A(3), substituted “608(a)(6)(A)” for “608(6)(A)”.
 
@@ -108,15 +108,15 @@ Subsec. (n)(10)(D). Pub. L. 99–514, §1864(e)(2), substituted “any identific
 
 Subsec. (n)(13). Pub. L. 99–514, §1864(a)(1), added par. (13).
 
-Subsec. (<i>o</i>). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (<i>o</i>) relating to consumer loan bonds.
+Subsec. (o). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (o) relating to consumer loan bonds.
 
 Pub. L. 99–514, §1869(a), (b)(1), substituted “Private loan bonds” for “Consumer loan bonds” in subsection and par. (2) headings, “private loan bond” for “consumer loan bond” in text of pars. (1), (2)(A) and (B), and “subsection (c)(6)(H)(i)” for “subsection (c)(6)(G)(i)” in par. (2)(C)(ii).
 
-Pub. L. 99–514, §1869(b)(2), redesignated subsec. (<i>o</i>), relating to cross references, as (p).
+Pub. L. 99–514, §1869(b)(2), redesignated subsec. (o), relating to cross references, as (p).
 
 Subsec. (p). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (p) which related to cross references.
 
-Pub. L. 99–514, §1869(b)(2), redesignated former subsec. (<i>o</i>), relating to cross references, as (p).
+Pub. L. 99–514, §1869(b)(2), redesignated former subsec. (o), relating to cross references, as (p).
 
 Subsec. (p)(4). Pub. L. 99–514, §1899A(4), substituted “October 27, 1949 (48 U.S.C. 1403)” for “October 27, 1919 (48 U.S.C. 1403)”.
 
@@ -144,17 +144,17 @@ Subsec. (c)(6), (7). Pub. L. 98–369, §624(a), added par. (6) and redesignated
 
 Subsec. (h). Pub. L. 98–369, §622, amended subsec. (h) generally, in par. (1) substituting provisions that obligations are not included in the section if they are federally guaranteed for provisions which excluded obligations guaranteed, in whole or part, by the U.S. under a program to conserve energy, or under other Federal or State programs, in par. (2) substituting provisions defining “federally guaranteed” for provisions setting forth obligations to which this subsection applies, and adding pars. (3) to (5).
 
-Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted “In the case of an obligation issued after December 31, 1983, such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (<i>l</i>), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply.”
+Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted “In the case of an obligation issued after December 31, 1983, such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (l), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply.”
 
 Subsec. (m)(2)(B). Pub. L. 98–369, §628(a)(2), substituted “is exempt from tax under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act” for “is exempt from taxation under any provision of this title”.
 
 Subsec. (m)(3). Pub. L. 98–369, §628(a)(3), added par. (3).
 
-Subsec. (n). Pub. L. 98–369, §621, added subsec. (n). Former subsec. (n), relating to cross references, redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 98–369, §621, added subsec. (n). Former subsec. (n), relating to cross references, redesignated (o).
 
-Subsec. (<i>o</i>). Pub. L. 98–369, §626(a), added subsec. (<i>o</i>) relating to consumer loan bonds.
+Subsec. (o). Pub. L. 98–369, §626(a), added subsec. (o) relating to consumer loan bonds.
 
-Pub. L. 98–369, §621, redesignated subsec. (n), relating to cross references, as (<i>o</i>).
+Pub. L. 98–369, §621, redesignated subsec. (n), relating to cross references, as (o).
 
 <b>1983</b>—Subsec. (m). Pub. L. 97–424, §547(a), added subsec. (m). Former subsec. (m) redesignated (n).
 
@@ -164,7 +164,7 @@ Subsec. (n). Pub. L. 97–424, §547(a), redesignated former subsec. (m), relati
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–248, §215(b)(2), substituted “For purposes of this section” for “For purposes of this subsection”.
 
-Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registeredform and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, added subpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
+Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registered form and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, added subpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
 
 Subsec. (b)(6)(C). Pub. L. 97–248, §217(a)(3), substituted “paragraph (13)” for “paragraph (7)”.
 
@@ -190,7 +190,7 @@ Subsec. (j). Pub. L. 97–248, §310(b)(1), added subsec. (j). Former subsec. (j
 
 Subsec. (k). Pub. L. 97–248, §215(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 97–248, §215(b)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 97–248, §215(b)(1), added subsec. (l).
 
 Subsec. (m). Pub. L. 97–248, §§215(a), (b)(1), 310(b)(1), redesignated former subsec. (j), relating to cross references, as (m).
 
@@ -274,7 +274,7 @@ Subsec. (d). Pub. L. 90–364 redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply.”
+Pub. L. 100–647, title I, §1013(a)(34)(B), Nov. 10, 1988, 102 Stat. 3544, provided that: “Subparagraph (A)\[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply.”
 
 #### Effective Date of 1986 Amendment
 
@@ -282,19 +282,19 @@ Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued afte
 
 Amendment by sections 1864(b)–(e), 1865(a), 1869(a), (b), 1870, and 1871(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1864(a)(2) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1864(a)(2), Oct. 22, 1986, 100 Stat. 2885, provided that:
 
 “(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.
 
 “(B) At the election of the issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe), the amendment made by paragraph (1) shall apply to any obligation issued on or before the date of the enactment of this Act.”
 
-Section 1871(a)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after March 28, 1985, in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1871(a)(2), Oct. 22, 1986, 100 Stat. 2891, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after March 28, 1985, in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 474(r)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Section 624(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1867(a), Oct. 22, 1986, 100 Stat. 2888, provided that:
+Pub. L. 98–369, div. A, title VI, §624(c), July 18, 1984, 98 Stat. 924, as amended by Pub. L. 99–514, title XVIII, §1867(a), Oct. 22, 1986, 100 Stat. 2888, provided that:
 
 “(1)
 
@@ -304,7 +304,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 Exception.—The amendments made by this section shall not apply to obligations issued for the Essex County New Jersey Resource Recovery Project authorized by the Port Authority of New York and New Jersey on November 10, 1983, as part of an agreement approved by Essex County, New Jersey, on July 7, 1981, and approved by the State of New Jersey on December 31, 1981. The aggregate face amount of bonds to which this paragraph applies shall not exceed $350,000,000.”
 
-Section 626(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XIII, §1317(22), title XVIII, §1869(c)(5), Oct. 22, 1986, 100 Stat. 2095, 2698, 2890; Pub. L. 100–647, title I, §1013(g)(24), Nov. 10, 1988, 102 Stat. 3554, provided that:
+Pub. L. 98–369, div. A, title VI, §626(b), July 18, 1984, 98 Stat. 927, as amended by Pub. L. 99–514, §2, title XIII, §1317(22), title XVIII, §1869(c)(5), Oct. 22, 1986, 100 Stat. 2095, 2698, 2890; Pub. L. 100–647, title I, §1013(g)(24), Nov. 10, 1988, 102 Stat. 3554, provided that:
 
 “(1)
 
@@ -345,7 +345,7 @@ Pennsylvania higher education assistance agency.—Subparagraph (A) shall apply 
 
 “(3)
 
-Certain tax-exempt mortgage subsidy bonds.—For purposes of applying section 103(<i>o</i>) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the term ‘consumer loan bond’ shall not include any mortgage subsidy bond (within the meaning of section 103A(b) of such Code) to which the amendments made by section 1102 of the Mortgage Subsidy Bond Tax Act of 1980 \[enacting section 103A of this title\] do not apply.
+Certain tax-exempt mortgage subsidy bonds.—For purposes of applying section 103(o) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the term ‘consumer loan bond’ shall not include any mortgage subsidy bond (within the meaning of section 103A(b) of such Code) to which the amendments made by section 1102 of the Mortgage Subsidy Bond Tax Act of 1980 \[enacting section 103A of this title\] do not apply.
 
 “(4)
 
@@ -383,7 +383,7 @@ Exception for certain downtown redevelopment project.—The amendments made by t
 
 > The aggregate face amount of obligations to which this paragraph applies shall not exceed $85,000,000 and such obligations must be issued before January 1, 1992.”
 
-Section 631 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XIII, §§1316(j), 1317(43), title XVIII, §1872(a)–(c)(1), Oct. 22, 1986, 100 Stat. 2095, 2670, 2708, 2891, 2892; Pub. L. 100–647, title I, §1013(f)(8), (g)(40), Nov. 10, 1988, 102 Stat. 3549, 3557, provided that:
+Pub. L. 98–369, div. A, title VI, §631, July 18, 1984, 98 Stat. 934, as amended by Pub. L. 99–514, §2, title XIII, §§1316(j), 1317(43), title XVIII, §1872(a)–(c)(1), Oct. 22, 1986, 100 Stat. 2095, 2670, 2708, 2891, 2892; Pub. L. 100–647, title I, §1013(f)(8), (g)(40), Nov. 10, 1988, 102 Stat. 3549, 3557, provided that:
 
 “(a)
 
@@ -571,7 +571,7 @@ For effective date of amendment by Pub. L. 97–473, see section 204(2) of Pub. 
 
 #### Effective Date of 1982 Amendment
 
-Section 214(f) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §214(f), Sept. 3, 1982, 96 Stat. 468, provided that:
 
 “(1)
 
@@ -583,13 +583,13 @@ Termination.—The amendment made by subsection (c) \[amending this section\] sh
 
 “(3)
 
-Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall apply with respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
+Research expenditures.—The amendment made by subsection (d) \[amending this section\] shall applywith respect to expenditures made after the date of the enactment of this Act \[Sept. 3, 1982\].
 
 “(4)
 
 Certain facilities.—The amendment made by subsection (e) \[amending this section\] shall apply to obligations issued after December 31, 1982.”
 
-Section 215(c) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §215(c), Sept. 3, 1982, 96 Stat. 470, provided that:
 
 “(1)
 
@@ -603,11 +603,11 @@ Public approval.—The amendment made by subsection (a) \[amending this section\
 
 Information reporting.—The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 1982 (including any obligation issued to refund an obligation issued before such date).”
 
-Section 217(e) of Pub. L. 97–248, as amended by Pub. L. 98–369, div. A, title VII, §712(h), July 18, 1984, 98 Stat. 947; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\]. For purposes of applying section 168(f)(8)(D)(v) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act.”
+Pub. L. 97–248, title II, §217(e), Sept. 3, 1982, 96 Stat. 474, as amended by Pub. L. 98–369, div. A, title VII, §712(h), July 18, 1984, 98 Stat. 947; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\]. For purposes of applying section 168(f)(8)(D)(v) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act.”
 
-Section 219(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1982.”
+Pub. L. 97–248, title II, §219(b), Sept. 3, 1982, 96 Stat. 475, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1982.”
 
-Section 221(d) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §221(d), Sept. 3, 1982, 96 Stat. 478, provided that:
 
 “(1)
 
@@ -617,7 +617,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Exception.—The amendments made by this section shall not apply with respect to any obligation to which the amendments made by section 1103 of the Mortgage Subsidy Bond Tax Act of 1980 \[section 1103 of Pub. L. 96–499, amending this section\] do not apply by reason of section 1104 of such Act \[section 1104 of Pub. L. 96–499, formerly set out as a note under section 103A of this title\].”
 
-Section 310(d) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §306(b)(2), 96 Stat. 2405; Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 8; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title III, §310(d), Sept. 3, 1982, 96 Stat. 599, as amended by Pub. L. 97–448, title III, §306(b)(2), 96 Stat. 2405; Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 8; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -627,31 +627,31 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(3)
 
-Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for ‘August 10, 1982’.
+Exception for certain warrants, etc.—The amendments made by subsection (b) \[enacting section 4701 of this title and amending this section and sections 163, 165, 312, and 1232 of this title\] shall not apply to any obligations issued after December 31, 1982, on the exercise of a warrant or the conversion of a convertible obligation if such warrant or obligation was offered or sold outside the United States without registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and was issued before August 10, 1982. A rule similar to the rule of the preceding sentence shall also apply in the case of any regulations issued under section 163(f)(2)(C) \[now 163(f)(2)(B)\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) except that the date on which such regulations take effect shall be substituted for ‘August 10, 1982’.
 
 “(4) \[Repealed. Pub. L. 98–216, §6(b), Feb. 14, 1984, 98 Stat. 8.\]”
 
 #### Effective Date of 1981 Amendment
 
-Section 811(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–34, title VIII, §811(c), Aug. 13, 1981, 95 Stat. 350, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
-Section 812(b)(1) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1980.”
+Pub. L. 97–34, title VIII, §812(b)(1), Aug. 13, 1981, 95 Stat. 350, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1980.”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
 For effective date of amendment by Pub. L. 96–499, see section 1104 of Pub. L. 96–499, set out as an Effective Date note under section 103A of this title.
 
-Section 241(d) of Pub. L. 96–223 provided that: “The amendments made by subsection (a) \[amending this section\] and the provisions of subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979.”
+Pub. L. 96–223, title II, §241(d), Apr. 2, 1980, 94 Stat. 283, provided that: “The amendments made by subsection (a) \[amending this section\] and the provisions of subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979.”
 
-Section 242(c) of Pub. L. 96–223 provided that: “The amendments made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out as a note under this section\] shall apply with respect to obligations issued after October 18, 1979.”
+Pub. L. 96–223, title II, §242(c), Apr. 2, 1980, 94 Stat. 285, provided that: “The amendments made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out as a note under this section\] shall apply with respect to obligations issued after October 18, 1979.”
 
-Section 244(b) of Pub. L. 96–223 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to obligations issued on or after October 18, 1979.”
+Pub. L. 96–223, title II, §244(b), Apr. 2, 1980, 94 Stat. 286, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to obligations issued on or after October 18, 1979.”
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
-Section 201(c) of Pub. L. 95–339 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 8, 1978\].”
+Pub. L. 95–339, title II, §201(c), Aug. 8, 1978, 92 Stat. 467, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 8, 1978\].”
 
-Section 331(c) of Pub. L. 95–600 provided that:
+Pub. L. 95–600, title III, §331(c), Nov. 6, 1978, 92 Stat. 2840, provided that:
 
 “(1) The amendments made by subsection (a) \[amending this section\] shall apply to—
 
@@ -665,13 +665,13 @@ Section 331(c) of Pub. L. 95–600 provided that:
 
 &emsp;“(B) capital expenditures made after September 30, 1979, with respect to obligations issued after such date.”
 
-Section 332(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after April 30, 1968, but only with respect to obligations issued after such date.”
+Pub. L. 95–600, title III, §332(b), Nov. 6, 1978, 92 Stat. 2840, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after April 30, 1968, but only with respect to obligations issued after such date.”
 
-Section 333(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date.”
+Pub. L. 95–600, title III, §333(b), Nov. 6, 1978, 92 Stat. 2840, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date.”
 
-Section 334(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title III, §334(c), Nov. 6, 1978, 92 Stat. 2841, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
-Section 703(q)(2) of Pub. L. 95–600 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to payments made by the Commissioner of Education after December 31, 1976.”
+Pub. L. 95–600, title VII, §703(q)(2), Nov. 6, 1978, 92 Stat. 2944, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to payments made by the Commissioner of Education after December 31, 1976.”
 
 Amendment by section 703(j)(1) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -681,29 +681,29 @@ Amendment by section 1901(a)(17), (b)(8)(B) of Pub. L. 94–455 applicable with 
 
 Amendment by section 1906(b)(13)(A) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-Section 2105(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] apply to obligations issued on or after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2105(d), Oct. 4, 1976, 90 Stat. 1902, provided that: “The amendments made by this section \[amending this section\] apply to obligations issued on or after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 Amendment by section 2137(d) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 2137(e) of Pub. L. 94–455, set out as a note under section 852 of this title.
 
-#### Effective Date of 1975 Amendments
+#### Effective Date of 1975 Amendment
 
-Section 301(b) of Pub. L. 94–182 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 31, 1975\].”
+Pub. L. 94–182, title III, §301(b), Dec. 31, 1975, 89 Stat. 1056, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 31, 1975\].”
 
-Section 7(b) of Pub. L. 94–164 provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of enactment of this Act \[Dec. 23, 1975\].”
+Pub. L. 94–164, §7(b), Dec. 23, 1975, 89 Stat. 976, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of enactment of this Act \[Dec. 23, 1975\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 315(c) of Pub. L. 92–178 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\].”
+Pub. L. 92–178, title III, §315(c), Dec. 10, 1971, 85 Stat. 529, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after January 1, 1969. The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenditures incurred after the date of the enactment of this Act \[Dec. 10, 1971\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 601(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after October 9, 1969.”
+Pub. L. 91–172, title VI, §601(b), Dec. 30, 1969, 83 Stat. 657, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after October 9, 1969.”
 
 #### Effective Date of 1968 Amendment
 
-Section 401(b) of Pub. L. 90–634 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after the date of the enactment of this Act \[Oct. 24, 1968\].”
+Pub. L. 90–634, title IV, §401(b), Oct. 24, 1968, 82 Stat. 1351, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
-Section 107(b)(1) of Pub. L. 90–364 provided that: “Except as provided by paragraph (2) \[set out as a note below\], the amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after April 30, 1968, but only with respect to obligations issued after such date.”
+Pub. L. 90–364, title I, §107(b)(1), June 28, 1968, 82 Stat. 268, provided that: “Except as provided by paragraph (2) \[set out as a note below\], the amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after April 30, 1968, but only with respect to obligations issued after such date.”
 
 #### Transfer of Functions
 
@@ -711,11 +711,11 @@ Functions of Commissioner of Education transferred to Secretary of Education by 
 
 #### Coordination of Certain Amendments Made by Pub. L. 97–424 and Pub. L. 97–473
 
-Section 722(b) of Pub. L. 98–369 provided that: “For purposes of applying the amendments made by section 547 of the Highway Revenue Act of 1982 \[Pub. L. 97–424, amending this section\] and the amendment made by section 202(b)(2) of Public Law 97–473 \[amending this section\], Public Law 97–473 shall be deemed to have been enacted immediately before the Highway Revenue Act of 1982.”
+Pub. L. 98–369, div. A, title VII, §722(b), July 18, 1984, 98 Stat. 973, provided that: “For purposes of applying the amendments made by section 547 of the Highway Revenue Act of 1982 \[Pub. L. 97–424, amending this section\] and the amendment made by section 202(b)(2) of Public Law 97–473 \[amending this section\], Public Law 97–473 shall be deemed to have been enacted immediately before the Highway Revenue Act of 1982.”
 
 #### Validation of Sinking Fund Regulations
 
-Section 1013(a)(35) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title I, §1013(a)(35), Nov. 10, 1988, 102 Stat. 3544, provided that:
 
 “(A) Treasury Regulation section 1.103–13(g) (1979) is hereby enacted into positive law.
 
@@ -723,9 +723,9 @@ Section 1013(a)(35) of Pub. L. 100–647 provided that:
 
 “(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by the Secretary of the Treasury or his delegate by regulations.”
 
-#### Bonds Issued To Refund Subsection (<i>o</i>)(3) Obligations
+#### Bonds Issued To Refund Subsection (o)(3) Obligations
 
-Section 1013(c)(15) of Pub. L. 100–647 provided that: “A bond issued to refund an obligation described in section 103(<i>o</i>)(3) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall not be treated as described in section 144(b) of the 1986 Code unless it is described in section 144(b)(1)(A) of the 1986 Code.”
+Pub. L. 100–647, title I, §1013(c)(15), Nov. 10, 1988, 102 Stat. 3548, provided that: “A bond issued to refund an obligation described in section 103(o)(3) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall not be treated as described in section 144(b) of the 1986 Code unless it is described in section 144(b)(1)(A) of the 1986 Code.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -733,7 +733,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Certain Guarantees by Farmers Home Administration
 
-Section 1865(b) of Pub. L. 99–514 provided that: “An obligation shall not be treated as federally guaranteed for purposes of section 103(h) of the Internal Revenue Code of 1954 \[now 1986\] by reason of a guarantee by the Farmers Home Administration if—
+Pub. L. 99–514, title XVIII, §1865(b), Oct. 22, 1986, 100 Stat. 2886, provided that: “An obligation shall not be treated as federally guaranteed for purposes of section 103(h) of the Internal Revenue Code of 1954 \[now 1986\] by reason of a guarantee by the Farmers Home Administration if—
 
 &emsp;“(1) such guarantee is pursuant to a commitment made by the Farmers Home Administration before July 1, 1984, and
 
@@ -741,7 +741,7 @@ Section 1865(b) of Pub. L. 99–514 provided that: “An obligation shall not be
 
 #### Treatment of Certain Obligations Used To Finance Solid Waste Disposal Facility
 
-Section 1865(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1865(c), Oct. 22, 1986, 100 Stat. 2886, provided that:
 
 “(1)
 
@@ -763,7 +763,7 @@ Solid waste disposal facility.—A solid waste disposal facility is described in
 
 &emsp;&emsp;“(i) such facility is operated by the South Eastern Public Service Authority of Virginia, and
 
-&emsp;&emsp;“(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility would not be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
+&emsp;&emsp;“(ii) on December 20, 1984, the Internal Revenue Service issued a ruling concluding that a portion of the obligations with respect to such facility wouldnot be treated as federally guaranteed under section 103(h) of such Code by reason of the transitional rule contained in section 631(c)(3)(A)(i) of the Tax Reform Act of 1984 \[section 631(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\],
 
 &emsp;“(C) if—
 
@@ -797,7 +797,7 @@ Limitations.—
 
 #### Transitional Rule for Limit on Small Issue Exception
 
-Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3584, provided that: “The amendment made by section 623 of the Tax Reform Act of 1984 \[section 623 of Pub. L. 98–369, amending this section\] shall not apply to any obligation (or series of obligations) issued to refund another tax-exempt IDB to which the amendment made by such section 623 did not apply if—
+Pub. L. 99–514, title XVIII, §1866, Oct. 22, 1986, 100 Stat. 2887, as amended by Pub. L. 100–647, title I, §1018(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3584, provided that: “The amendment made by section 623 of the Tax Reform Act of 1984 \[section 623 of Pub. L. 98–369, amending this section\] shall not apply to any obligation (or series of obligations) issued to refund another tax-exempt IDB to which the amendment made by such section 623 did not apply if—
 
 &emsp;“(1) the average maturity of the issue of which the refunding obligation is a part does not exceed the average maturity of the obligations to be refunded by such issue,
 
@@ -807,11 +807,11 @@ Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §10
 
 > For purposes of the preceding sentence, the term ‘tax-exempt IDB’ means any industrial development bond (as defined in section 103(b) of the Internal Revenue Code of 1954 \[now 1986\]) the interest on which is exempt from tax under section 103(a) of such Code. For purposes of paragraph (1), average maturity shall be determined in accordance with subsection (b)(14)(B)(i) of such Code.”
 
-\[Section 1018(m)(5) of Pub. L. 100–647 provided that: “A refunding obligation issued before July 1, 1987, shall be treated as meeting the requirement of paragraph (1) of section 1866 of the Reform Act \[Pub. L. 99–514, set out above\] if such obligation met the requirement of such paragraph as enacted by the Reform Act \[Pub. L. 99–514\].”\]
+\[Pub. L. 100–647, title I, §1018(m)(5), Nov. 10, 1988, 102 Stat. 3584, provided that: “A refunding obligation issued before July 1, 1987, shall be treated as meeting the requirement of paragraph (1) of section 1866 of the Reform Act \[Pub. L. 99–514, set out above\] if such obligation met the requirement of such paragraph as enacted by the Reform Act \[Pub. L. 99–514\].”\]
 
 #### Exception From 1984 Amendment for Downtown Muskogee Revitalization Project
 
-Section 1867(b) of Pub. L. 99–514 provided that: “The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
+Pub. L. 99–514, title XVIII, §1867(b), Oct. 22, 1986, 100 Stat. 2888, provided that: “The amendment made by section 624 of the Tax Reform Act of 1984 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] shall not apply to obligations issued with respect to the Downtown Muskogee Revitalization Project for which a UDAG grant was preliminarily approved on May 5, 1981, if—
 
 &emsp;“(1) such obligation is issued before January 1, 1986, or
 
@@ -819,11 +819,11 @@ Section 1867(b) of Pub. L. 99–514 provided that: “The amendment made by sect
 
 #### Transitional Rules
 
-Section 1869(c)(1)–(4) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(n), Nov. 10, 1988, 102 Stat. 3584, provided that:
+Pub. L. 99–514, title XVIII, §1869(c)(1)–(4), Oct. 22, 1986, 100 Stat. 2889, as amended by Pub. L. 100–647, title I, §1018(n), Nov. 10, 1988, 102 Stat. 3584, provided that:
 
 “(1)
 
-Treatment of certain obligations issued by the city of baltimore.—Obligations issued by the city of Baltimore, Maryland, after June 30, 1985, shall not be treated as private loan bonds for purposes of section 103(<i>o</i>) of the Internal Revenue Code of 1954 \[now 1986\] (or as private activity bonds for purposes of section 103 and part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986, as amended by title XIII of this Act \[sections 1301 to 1318 of Pub. L. 99–514\]) by reason of the use of a portion of the proceeds of such obligations to finance or refinance temporary advances made by the city of Baltimore in connection with loans to persons who are not exempt persons (within the meaning of section 103(b)(3) of such Code) if—
+Treatment of certain obligations issued by the city of baltimore.—Obligations issued by the city of Baltimore, Maryland, after June 30, 1985, shall not be treated as private loan bonds for purposes of section 103(o) of the Internal Revenue Code of 1954 \[now 1986\] (or as private activity bonds for purposes of section 103 and part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986, as amended by title XIII of this Act \[sections 1301 to 1318 of Pub. L. 99–514\]) by reason of the use of a portion of the proceeds of such obligations to finance or refinance temporary advances made by the city of Baltimore in connection with loans to persons who are not exempt persons (within the meaning of section 103(b)(3) of such Code) if—
 
 &emsp;“(A) such obligations are not industrial development bonds (within the meaning of section 103(b)(2) of the Internal Revenue Code of 1954 \[now 1986\]),
 
@@ -853,7 +853,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;“(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in real property tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
 
-&emsp;“(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
+&emsp;“(D) none of the property described in subparagraph (A) is subject to a real property or other tax based ona rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
 “(4)
 
@@ -869,7 +869,7 @@ Eastern maine electric cooperative.—The amendment made by section 626(a) of th
 
 #### Treatment of Obligations To Finance St. Johns River Power Park
 
-Section 1869(c)(6) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1869(c)(6), Oct. 22, 1986, 100 Stat. 2890, provided that:
 
 “(A)
 
@@ -889,7 +889,7 @@ Description of project.—The project described in this subparagraph in the St. 
 
 #### Certain Public Utilities Treated as Exempted Persons Under Section 103(b); Special Rules for Certain Railroads
 
-Section 629 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XIII, §1316(g)(8)(B), Oct. 22, 1986, 100 Stat. 2095, 2670, provided that:
+Pub. L. 98–369, div. A, title VI, §629, July 18, 1984, 98 Stat. 932, as amended by Pub. L. 99–514, §2, title XIII, §1316(g)(8)(B), Oct. 22, 1986, 100 Stat. 2095, 2670, provided that:
 
 “(a)
 
@@ -945,7 +945,7 @@ Treatment of Pub. L. 98–369, §631(d)(3), residential real property as residen
 
 #### Public Approval Requirement in the Case of Public Airport
 
-Section 628(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
+Pub. L. 98–369, div. A, title VI, §628(f), July 18, 1984, 98 Stat. 932, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
 &emsp;“(1) the proceeds of any issue are to be used to finance a facility or facilities located on a public airport, and
 
@@ -955,13 +955,13 @@ Section 628(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Small Issue Limit in Case of Certain Urban Development Action Grants
 
-Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11, 1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
+Pub. L. 98–369, div. A, title VI, §628(h), July 18, 1984, 98 Stat. 932, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11, 1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
 
 &emsp;“(1) such obligation is part of an issue,
 
 &emsp;“(2) substantially all of the proceeds of such issue are used to provide facilities with respect to which an urban development action grant under section 119 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5318\] was preliminarily approved by the Secretary of Housing and Urban Development on January 10, 1980, and
 
-&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5percent of the total capital expenditures incurred with respect to such facilities.”
+&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5 percent of the total capital expenditures incurred with respect to such facilities.”
 
 #### Student Loan Bonds
 
@@ -987,7 +987,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;“(A)
 
-Qualified student loan bond.—The term ‘qualified student loan bond’ has the meaning given to such term by section 103(<i>o</i>)(3) of the Internal Revenue Code of 1986 (as amended by this Act).
+Qualified student loan bond.—The term ‘qualified student loan bond’ has the meaning given to such term by section 103(o)(3) of the Internal Revenue Code of 1986 (as amended by this Act).
 
 &emsp;&emsp;“(B)
 
@@ -1063,7 +1063,7 @@ Report.—The Comptroller General of the United States and the Director of the C
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 
-Section 241(b) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §241(b), Apr. 2, 1980, 94 Stat. 282, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1075,13 +1075,13 @@ Solid waste-energy producing facilities.—For purposes of paragraph (1), the te
 
 &emsp;“(A) substantially all of the fuel for the facility producing steam and electrical energy is derived from solid waste from such solid waste disposal facility,
 
-&emsp;“(B) both such solid waste disposal facility and the facility producing steam and electrical energy are owned and operated by the authority referred to in paragraph (1), and
+&emsp;“(B) both such solid waste disposal facility and the facility producing steam and electrical energy areowned and operated by the authority referred to in paragraph (1), and
 
 &emsp;“(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States.
 
 “(3)
 
-Solid waste disposal facility.—For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal RevenueCode of 1986 (determined without regard to section 103(g) of such Code).
+Solid waste disposal facility.—For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal Revenue Code of 1986 (determined without regard to section 103(g) of such Code).
 
 “(4)
 
@@ -1089,7 +1089,7 @@ Obligations must be in registered form.—This subsection shall not apply to any
 
 #### Alcohol-Producing Facilities
 
-Section 241(c) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §241(c), Apr. 2, 1980, 94 Stat. 282, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1115,13 +1115,13 @@ Termination.—This subsection shall not apply to obligations issued after Decem
 
 #### Hydroelectric Generating Facilities
 
-Section 242(b) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §242(b), Apr. 2, 1980, 94 Stat. 284, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
 In general.—For purposes of section 103(b)(4)(H) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to qualified hydroelectric generating facilities), in the case of a hydroelectric generating facility described in paragraph (2)—
 
-&emsp;“(A) the facility shall be treated as a qualified hydroelectric generating facility (as defined in section 103(b)(8)(A) of such Code) without regard to clause (ii) of section 48(<i>l</i>)(13)(B) of such Code (relating to maximum generating capacity), and
+&emsp;“(A) the facility shall be treated as a qualified hydroelectric generating facility (as defined in section 103(b)(8)(A) of such Code) without regard to clause (ii) of section 48(l)(13)(B) of such Code (relating to maximum generating capacity), and
 
 &emsp;“(B) the fraction referred to in subparagraph (C) of section 103(b)(8) of such Code shall be deemed to be 1.
 
@@ -1129,7 +1129,7 @@ In general.—For purposes of section 103(b)(4)(H) of the Internal Revenue Code 
 
 Facilities to which paragraph (1) applies.—A facility is described in this paragraph if—
 
-&emsp;“(A) it would be a qualified hydroelectric generating facility (as defined in section 103(b)(8)(A) of such Code) if clause (ii) of section 48(<i>l</i>)(13)(B) did not apply,
+&emsp;“(A) it would be a qualified hydroelectric generating facility (as defined in section 103(b)(8)(A) of such Code) if clause (ii) of section 48(l)(13)(B) did not apply,
 
 &emsp;“(B) it constitutes an expansion of generating capacity at an existing hydroelectric generating facility,
 
@@ -1151,7 +1151,7 @@ Facilities to which paragraph (1) applies.—A facility is described in this par
 
 #### State Obligations for Renewable Energy Property
 
-Section 243 of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title II, §243, Apr. 2, 1980, 94 Stat. 285, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -1185,13 +1185,13 @@ Effective Date.—Subsection (a) shall apply with respect to obligations issued 
 
 #### Disposition of Amounts Generated by Advance Refunding of Certain Governmental Obligations
 
-Section 337 of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(8), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title III, §337, Nov. 6, 1978, 92 Stat. 2842, as amended by Pub. L. 96–222, title I, §103(a)(8), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
 General Rule.—The payment to a charitable organization of a refund profit held in a trust fund or escrow arrangement, or held by an underwriter or other person under a qualified agreement in accordance with that agreement—
 
-&emsp;“(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
+&emsp;“(1) shall not cause the refunding obligations out of which the refund profit arose to be treated as arbitrage bonds (within the meaning of section 103(c) ofthe Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and
 
 &emsp;“(2) may be paid without penalty imposed on the issuer of such obligations.
 
@@ -1227,7 +1227,7 @@ Low-interest united states obligations.—The term ‘low-interest United States
 
 #### Transitional Provisions for Industrial Development Bonds Issued Before January 1, 1969
 
-Section 107(b)(2) of Pub. L. 90–364, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 103(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) \[subsec. (b)(1), formerly subsec. (c)(1) of this section\], shall not apply with respect to any obligation issued before January 1, 1969, if before May 1, 1968—
+Pub. L. 90–364, title I, §107(b)(2), June 28, 1968, 82 Stat. 268, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 103(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) \[subsec. (b)(1), formerly subsec. (c)(1) of this section\], shall not apply with respect to any obligation issued before January 1, 1969, if before May 1, 1968—
 
 &emsp;“(A) the issuance of the obligation (or the project in connection with which the proceeds of the obligations are to be used) was authorized or approved by the governing body of the governmental unit issuing the obligation or by the voters of such governmental unit;
 

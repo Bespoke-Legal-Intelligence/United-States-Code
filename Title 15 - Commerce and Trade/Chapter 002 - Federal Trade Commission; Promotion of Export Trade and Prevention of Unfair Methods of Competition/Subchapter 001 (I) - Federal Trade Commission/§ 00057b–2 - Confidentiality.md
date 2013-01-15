@@ -18,7 +18,7 @@ For purposes of this section:
 
 (3)(A) The custodian to whom any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony are delivered shall take physical possession of such material, reports or answers, and transcripts, and shall be responsible for the use made of such material, reports or answers, and transcripts, and for the return of material, pursuant to the requirements of this section.
 
-(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
+(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, andtranscripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
 (C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
 
@@ -100,7 +100,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
+&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not berequired to disclose under section 552 of title 5 or any other provision of law—
 
 &emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreign government agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
@@ -112,11 +112,11 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 &emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §6, Dec. 22, 2006, 120 Stat. 3376.)
+(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+<i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
 #### References in Text
 
@@ -130,9 +130,11 @@ A prior section 21 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(6). Pub. L. 109–455, §§6(a), 13, temporarily inserted “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D), and inserted concluding provisions. See Termination Date of 2006 Amendment note below.
+<b>2012</b>—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
 
-Subsec. (f). Pub. L. 109–455, §§6(b), 13, temporarily inserted heading and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Subsec. (b)(6). Pub. L. 109–455, §6(a), which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+
+Subsec. (f). Pub. L. 109–455, §6(b), which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–312, §8(1), inserted “tangible things,” after “documentary material,”.
 
@@ -150,7 +152,7 @@ Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted “tangible things,” after
 
 #### Termination Date of 2006 Amendment
 
-Amendment by Pub. L. 109–455 to cease to have effect 7 years after Dec. 22, 2006, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 6 of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1994 Amendment
 

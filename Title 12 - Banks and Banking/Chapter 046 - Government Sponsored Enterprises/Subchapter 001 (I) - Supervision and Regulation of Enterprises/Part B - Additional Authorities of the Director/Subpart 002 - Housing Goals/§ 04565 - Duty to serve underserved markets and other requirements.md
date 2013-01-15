@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) the program under section 1715z–1 of this title;
 
-&emsp;&emsp;&emsp;(iii) the below-market interest rate mortgage program under section 1715<i>l</i>(d)(4) of this title;
+&emsp;&emsp;&emsp;(iii) the below-market interest rate mortgage program under section 1715l(d)(4) of this title;
 
 &emsp;&emsp;&emsp;(iv) the supportive housing for the elderly program under section 1701q of this title;
 
@@ -38,7 +38,7 @@
 
 #### (b) In general
 
-To meet the housing goals established under this subpart and to carry out the duty under subsection (a) of this section, each enterprise shall—
+To meet the housing goals established under this subpart and to carry out the duty undersubsection (a) of this section, each enterprise shall—
 
 &emsp;(1) design programs and products that facilitate the use of assistance provided by the Federal Government and State and local governments;
 
@@ -84,7 +84,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 &emsp;In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director may not consider any affordable housing fund grant amounts used under section 4567 of this title for eligible activities under subsection (g) of such section.
 
-(Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27,1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
+(Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27, 1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
 
 #### References in Text
 

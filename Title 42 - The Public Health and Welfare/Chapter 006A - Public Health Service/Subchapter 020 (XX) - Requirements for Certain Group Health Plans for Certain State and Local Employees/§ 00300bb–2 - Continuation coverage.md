@@ -156,17 +156,17 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Section 6702(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 300bb–6 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
+Pub. L. 101–239, title VI, §6702(d), 103 Stat. 2296, provided that: “The amendments made by this section \[amending this section and section 300bb–6 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
 
-Section 6801(b)(1)(B) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VI, §6801(b)(1)(B), 103 Stat. 2297, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
 
-Section 6801(b)(2)(B) of Pub. L. 101–239 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to—
+Pub. L. 101–239, title VI, §6801(b)(2)(B), 103 Stat. 2297, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to—
 
 &emsp;“(i) qualifying events occurring after December 31, 1989, and
 
 &emsp;“(ii) in the case of qualified beneficiaries who elected continuation coverage after December 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such).”
 
-Section 6801(b)(3)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VI, §6801(b)(3)(B), 103 Stat. 2297, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
 
 #### Effective Date of 1986 Amendment
 

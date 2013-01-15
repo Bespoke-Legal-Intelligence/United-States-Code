@@ -48,7 +48,7 @@ In General.—Notwithstanding section 552a(e)(3) of title 5, United States Code,
 
 “(b)
 
-Records.—Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicable security procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
+Records.—Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicablesecurity procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
 
 “(c)
 

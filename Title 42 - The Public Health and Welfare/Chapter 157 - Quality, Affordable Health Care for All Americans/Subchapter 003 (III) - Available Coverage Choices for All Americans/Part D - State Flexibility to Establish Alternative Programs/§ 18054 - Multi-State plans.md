@@ -12,7 +12,7 @@
 
 #### (3) Non-profit entities
 
-&emsp;In entering into contracts under paragraph (1), the Director shall ensure that at least one contract is entered into with a non-profit entity.
+&emsp;In entering into contracts under paragraph (1), the Director shall ensure that at least onecontract is entered into with a non-profit entity.
 
 #### (4) Administration
 
@@ -28,7 +28,7 @@
 
 #### (5) Authority to protect consumers
 
-&emsp;The Director may prohibit the offering of any multi-State health plan that does not meet the terms and conditions defined by theDirector with respect to the elements described in subparagraphs (A) through (D) of paragraph (4).
+&emsp;The Director may prohibit the offering of any multi-State health plan that does not meet the terms and conditions defined by the Director with respect to the elements described in subparagraphs (A) through (D) of paragraph (4).
 
 #### (6) Assured availability of varied coverage
 
@@ -90,7 +90,7 @@ A health insurance issuer shall be eligible to enter into a contract under subse
 
 #### (5) Application of certain State rating requirements
 
-&emsp;With respect to a multi-State qualified health plan that is offered in a State with age rating requirements that are lower than 3:1, the State may require that Exchanges operating in such State only permit the offering of such multi-State qualified health plans if such plans comply with the State's more protective age rating requirements.
+&emsp;With respect to a multi-State qualified health plan that is offered in a State with agerating requirements that are lower than 3:1, the State may require that Exchanges operating in such State only permit the offering of such multi-State qualified health plans if such plans comply with the State's more protective age rating requirements.
 
 #### (d) Plans deemed to be certified
 

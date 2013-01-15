@@ -20,5 +20,5 @@ Assignment of Forces.—The Secretary of the Army—
 
 #### Implementation Schedule for Reserve Component Commands
 
-Section 1211(c) of Pub. L. 104–201 provided that: “Implementation of chapter 1006 of title 10, United States Code, as added by subsection (a), shall begin not later than 90 days after the date of the enactment of this Act \[Sept. 23, 1996\] and shall be completed not later than one year after such date.”
+Pub. L. 104–201, div. A, title XII, §1211(c), Sept. 23, 1996, 110 Stat. 2691, provided that: “Implementation of chapter 1006 of title 10, United States Code, as added by subsection (a), shall begin not later than 90 days after the date of the enactment of this Act \[Sept. 23, 1996\] and shall be completed not later than one year after such date.”
 

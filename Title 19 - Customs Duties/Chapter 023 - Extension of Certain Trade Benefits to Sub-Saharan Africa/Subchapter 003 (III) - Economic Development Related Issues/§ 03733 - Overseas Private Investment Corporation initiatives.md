@@ -28,7 +28,7 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 
 #### (2) Reports to Congress
 
-&emsp;Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) of title 22 and any recommendations of the investment advisory council established pursuant to such section.
+&emsp;Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation shall submit to Congress a report on the steps that the Board hastaken to implement section 2193(e) of title 22 and any recommendations of the investment advisory council established pursuant to such section.
 
 (Pub. L. 106–200, title I, §123, May 18, 2000, 114 Stat. 269.)
 

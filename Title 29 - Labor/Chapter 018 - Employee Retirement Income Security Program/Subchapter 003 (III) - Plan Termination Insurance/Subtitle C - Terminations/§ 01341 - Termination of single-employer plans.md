@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) it determines, based on the notice sent under paragraph (2)(A) of subsection (b) of this section, that there is reason to believe that the plan is not sufficient for benefit liabilities,
 
-&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affected parties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
+&emsp;&emsp;&emsp;&emsp;(II) it otherwise determines, on the basis of information provided by affectedparties or otherwise obtained by the corporation, that there is reason to believe that the plan is not sufficient for benefit liabilities, or
 
 &emsp;&emsp;&emsp;&emsp;(III) it determines that any other requirement of subparagraph (A) or (B) of this paragraph or of subsection (a)(2) of this section has not been met, unless it further determines that the issuance of such notice would be inconsistent with the interests of participants and beneficiaries.
 
@@ -212,13 +212,13 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed, or has had filed against such person, as of the proposed termination date, a petition seeking reorganization in a case under title 11 or under any similar law of a State or political subdivision of a State (or a case described in clause (i) filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought),
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed, or has had filed against such person, as of the proposed termination date, a petition seeking reorganization in a case under title 11 or under any similar law of a State orpolitical subdivision of a State (or a case described in clause (i) filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought),
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed,
 
 &emsp;&emsp;&emsp;&emsp;(III) such person timely submits to the corporation any request for the approval of the bankruptcy court (or other appropriate court in a case under such similar law of a State or political subdivision) of the plan termination, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the bankruptcy court (or such other appropriate court) determinesthat, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination.
+&emsp;&emsp;&emsp;&emsp;(IV) the bankruptcy court (or such other appropriate court) determines that, unless the plan is terminated, such person will be unable to pay all its debts pursuant to a plan of reorganization and will be unable to continue in business outside the chapter 11 reorganization process and approves the termination.
 
 #### (iii) Termination required to enable payment of debts while staying in business or to avoid unreasonably burdensome pension costs caused by declining workforce
 
@@ -284,11 +284,11 @@
 
 #### (i) Cases of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution, in the manner described in subsection (b)(3) of this section, and shall take such other actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for benefit liabilities, the plan administrator shall proceed to distribute the plan's assets, and make certification to the corporation with respect to such distribution,in the manner described in subsection (b)(3) of this section, and shall take such other actions as may be appropriate to carry out the termination of the plan.
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administratorshall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
 
 #### (iii) Cases without any finding of sufficiency
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept.26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
 #### References in Text
 
@@ -500,9 +500,9 @@ Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Em
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
+Pub. L. 103–465, title VII, §778(a)(2), Dec. 8, 1994, 108 Stat. 5049, provided that: “The amendments made bythis subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
 
-Section 778(b)(2) of Pub. L. 103–465 provided that: “The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].”
+Pub. L. 103–465, title VII, §778(b)(2), Dec. 8, 1994, 108 Stat. 5050, provided that: “The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -518,7 +518,7 @@ Amendment by section 9313(a)(1)–(2)(E), (b)(1)–(5) of Pub. L. 100–203 appl
 
 #### Effective Date of 1986 Amendment
 
-Section 11019 of title XI of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XI, §11019, Apr. 7, 1986, 100 Stat. 280, provided that:
 
 “(a)
 
@@ -578,7 +578,7 @@ Special notice regarding sufficiency for terminations for which notices of suffi
 
 &emsp;&emsp;&emsp;“(ii)
 
-Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
+Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referredto in clause (i)(I) shall begin on the date of the enactment of this Act.
 
 &emsp;&emsp;“(C)
 
@@ -616,11 +616,11 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### 60-Day Extension by Pension Benefit Guaranty Corporation for Notice of Noncompliance
 
-Section 11008(c) of Pub. L. 99–272 provided that: “In the case of a standard termination of a plan under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this section) \[29 U.S.C. 1341(b)\] with respect to which a notice of intent to terminate is filed before 120 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation may, without the consent of the plan administrator, extend the 60-day period under section 4041(b)(2)(C)(i) of such Act (as so amended) for a period not to exceed 60 days.”
+Pub. L. 99–272, title XI, §11008(c), Apr. 7, 1986, 100 Stat. 247, provided that: “In the case of a standard termination of a plan under section 4041(b) of the Employee Retirement Income Security Act of 1974 (as amended by this section) \[29 U.S.C. 1341(b)\] with respect to which a notice of intent to terminate is filed before 120 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation may, without the consent of the plan administrator, extend the 60-day period under section 4041(b)(2)(C)(i) of such Act (as so amended) for a period not to exceed 60 days.”
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
-Section 11008(d) of Pub. L. 99–272 provided that:
+Pub. L. 99–272, title XI, §11008(d), Apr. 7, 1986, 100 Stat. 247, provided that:
 
 “(1)
 

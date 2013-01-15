@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) Significant downturns in the areas served by the grantee or in the national economy.
 
-&emsp;&emsp;&emsp;(iii) Significant numbers or proportions of participants with 1 or more barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2)of section 3056p of this title, served by a grantee relative to such numbers or proportions for grantees serving other areas of the State or Nation.
+&emsp;&emsp;&emsp;(iii) Significant numbers or proportions of participants with 1 or more barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title, served by a grantee relative to such numbers or proportions for grantees serving other areas of the State or Nation.
 
 &emsp;&emsp;&emsp;(iv) Changes in Federal, State, or local minimum wage requirements.
 
@@ -128,13 +128,13 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under section 3056(b) of this title in accordance with section 3056<i>l</i> of this title has met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subsection (b)(1).
+&emsp;&emsp;Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under section 3056(b) of this title in accordance with section 3056l of this title has met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subsection (b)(1).
 
 #### (B) Technical assistance and corrective action plan
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a national grantee fails to meet the expectedlevels of performance described in subparagraph (A), the Secretary after each year of such failure, shall provide technical assistance and require such grantee to submit a corrective action plan not later than 160 days after the end of the program year.
+&emsp;&emsp;&emsp;If the Secretary determines that a national grantee fails to meet the expected levels of performance described in subparagraph (A), the Secretary after each year of such failure, shall provide technical assistance and require such grantee to submit a corrective action plan not later than 160 days after the end of the program year.
 
 #### (ii) Content
 
@@ -142,7 +142,7 @@ The Secretary shall—
 
 #### (iii) Recompetition
 
-&emsp;&emsp;&emsp;Any grantee who has failed to meet the expected levels of performance for 4 consecutive years (beginning with program year 2007) shall not be allowed to compete in the subsequent grant competition under section 3056<i>l</i> of this title following the fourth consecutive year of failure but may compete in the next such grant competition after that subsequent competition.
+&emsp;&emsp;&emsp;Any grantee who has failed to meet the expected levels of performance for 4 consecutive years (beginning with program year 2007) shall not be allowed to compete in the subsequent grant competition under section 3056l of this title following the fourth consecutive year of failure but may compete in the next such grant competition after that subsequent competition.
 
 #### (3) State grantees
 

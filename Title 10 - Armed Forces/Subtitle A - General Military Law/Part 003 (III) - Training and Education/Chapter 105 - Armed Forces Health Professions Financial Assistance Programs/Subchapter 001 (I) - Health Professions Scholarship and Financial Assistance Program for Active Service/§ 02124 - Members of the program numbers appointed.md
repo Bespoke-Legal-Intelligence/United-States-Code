@@ -34,11 +34,11 @@ Pub. L. 100–180, §711(a)(2), substituted “subchapter” for “chapter”.
 
 #### Effective Date of 1987 Amendment
 
-Section 712(b)(2) provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1989.”
+Pub. L. 100–180, div. A, title VII, §712(b)(2), Dec. 4, 1987, 101 Stat. 1112, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1989.”
 
 #### Effective Date of 1985 Amendment
 
-Section 672(j) of Pub. L. 99–145, which provided that amendment made by that section was to take effect onOct. 1, 1985, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+Pub. L. 99–145, title VI, §672(j), Nov. 8, 1985, 99 Stat. 664, which provided that amendment made by that section was to take effect on Oct. 1, 1985, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
 
 #### Repeals
 

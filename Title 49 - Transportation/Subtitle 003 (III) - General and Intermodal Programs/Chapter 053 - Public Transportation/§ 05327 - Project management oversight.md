@@ -2,7 +2,7 @@
 
 (a)
 
-Project Management Plan Requirements.—To receive United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation. The plan shall provide for—
+Project Management Plan Requirements.—To receive Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan. The plan shall provide for—
 
 &emsp;(1) adequate recipient staff organization with well-defined reporting relationships, statements of functional responsibilities, job descriptions, and job qualifications;
 
@@ -26,7 +26,7 @@ Project Management Plan Requirements.—To receive United States Government fina
 
 &emsp;(11) periodic updates of the plan, especially related to project budget and project schedule, financing, ridership estimates, and the status of local efforts to enhance ridership where ridership estimates partly depend on the success of those efforts;
 
-&emsp;(12) the recipient's commitment to submit a project budget and project schedule to the Secretary each month; and
+&emsp;(12) the recipient's commitment to submit a project budget and project schedule to the Secretary quarterly; and
 
 &emsp;(13) safety and security management.
 
@@ -38,63 +38,17 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Limitations.—
-
-&emsp;(1)
-
-Limitations on use of available amounts.—Of the amounts made available to carry out this chapter for a fiscal year, the Secretary may use not more than the following amounts to make contracts for the activities described in paragraph (2):
-
-&emsp;&emsp;(A) 0.5 percent of amounts made available to carry out section 5305.
-
-&emsp;&emsp;(B) 0.75 percent of amounts made available to carry out section 5307.
-
-&emsp;&emsp;(C) 1 percent of amounts made available to carry out section 5309.
-
-&emsp;&emsp;(D) 0.5 percent of amounts made available to carry out section 5310.
-
-&emsp;&emsp;(E) 0.5 percent of amounts made available to carry out section 5311.
-
-&emsp;&emsp;(F) 0.5 percent of amounts made available to carry out section 5320.
-
-&emsp;(2)
-
-Activities.—Paragraph (1) shall apply to the following:
-
-&emsp;&emsp;(A) Activities to oversee the construction of a major project.
-
-&emsp;&emsp;(B) Activities to review and audit the safety and security, procurement, management, and financial compliance of a recipient orsubrecipient of funds under sections 5305, 5307, 5309, 5310, 5311, and 5320.
-
-&emsp;&emsp;(C) Activities to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section.
-
-&emsp;(3)
-
-Limitations on applicability.—Subsections (a), (b), and (e) do not apply to contracts under this section for activities described in paragraphs (2)(B) and (2)(C).
-
-&emsp;(4)
-
-Government's share of costs.—The Government shall pay the entire cost of carrying out a contract under this subsection.
-
-&emsp;(5)
-
-Availability of certain funds.—Beginning in fiscal year 2006, funds available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement or project construction grant agreement.
+Access to Sites and Records.—Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(i) with access to the construction sites and records of the recipient when reasonably necessary.
 
 (d)
 
-Access to Sites and Records.—Each recipient of assistance under this chapter or section 14(b) of the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), as added by section 2 of the National Capital Transportation Amendments of 1979 (Public Law 96–184, 93 Stat. 1320), shall provide the Secretary and a contractor the Secretary chooses under subsection (c) of this section with access to the construction sites and records of the recipient when reasonably necessary.
-
-(e)
-
 Regulations.—The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
 
-&emsp;(1) a definition of “major capital project” for subsection (c) of this section that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
+&emsp;(1) a definition of “major capital project” for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
 
-&emsp;(2) a requirement that oversight begin during the preliminary engineering stage of a project, unless the Secretary finds it more appropriate to begin the oversight during another stage of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
+&emsp;(2) a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
 
-(f)
-
-Financial Plan.—A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3024, June 9, 1998, 112 Stat. 364; Pub. L. 109–59, title III, §3026, Aug. 10, 2005, 119 Stat. 1622.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3024, June 9, 1998, 112 Stat. 364; Pub. L. 109–59, title III, §3026, Aug. 10, 2005, 119 Stat. 1622; Pub. L. 112–141, div. B, §20020, July 6, 2012, 126 Stat. 708.)
 
 Historical and Revision Notes
 
@@ -158,11 +112,23 @@ This amends 49:5327(c)(1) to correct an erroneous cross-reference.
 
 This amends 49:5327(c) to correct an erroneous cross-reference.
 
-#### References in Text
-
-The National Capital Transportation Act of 1969, referred to in subsecs. (a) and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §20020(1)(A), in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
+
+Subsec. (a)(12). Pub. L. 112–141, §20020(1)(B), substituted “quarterly” for “each month”.
+
+Subsec. (c). Pub. L. 112–141, §20020(2), (3), added subsec. (c) and struck out former subsec. (c) which related to limitations.
+
+Subsec. (d). Pub. L. 112–141, §20020(2), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to access to sites and records.
+
+Subsec. (d)(1). Pub. L. 112–141, §20020(5)(A), substituted “section 5338(i)” for “subsection (c) of this section”.
+
+Subsec. (d)(2). Pub. L. 112–141, §20020(5)(B), substituted “project development phase” for “preliminary engineering stage” and “another phase” for “another stage”.
+
+Subsec. (e). Pub. L. 112–141, §20020(4), redesignated subsec. (e) as (d).
+
+Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: “A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
 
 <b>2005</b>—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
 
@@ -175,6 +141,10 @@ Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 

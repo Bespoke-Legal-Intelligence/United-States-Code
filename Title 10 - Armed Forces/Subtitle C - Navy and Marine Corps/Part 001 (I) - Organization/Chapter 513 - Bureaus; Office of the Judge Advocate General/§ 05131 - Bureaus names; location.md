@@ -32,9 +32,9 @@ The bureaus are listed alphabetically for convenience. This listing has no effec
 
 #### Effective Date of 1959 Amendment
 
-Section 2 of Pub. L. 86–174 provided that the amendment of this section and section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
+Pub. L. 86–174, §2, Aug. 18, 1959, 73 Stat. 395, provided that the amendment of this section and section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Bureau of Naval Weapons; Transfer of Funds
 
-Section 3 of Pub. L. 86–174 provided that: “The unexpended balances of appropriations and funds available for use in connection with the exercise of any function transferred to the Bureau of Naval Weapons shall be transferred in the manner provided by section 407 of the National Security Act of 1947, as amended (5 U.S.C. 172f) \[10 U.S.C. 126\], for use in connection with the transferred functions.”
+Pub. L. 86–174, §3, Aug. 18, 1959, 73 Stat. 396, provided that: “The unexpended balances of appropriations and funds available for use in connection with the exercise of any function transferred to the Bureau of Naval Weapons shall be transferred in the manner provided by section 407 of the National Security Act of 1947, as amended (5 U.S.C. 172f) \[10 U.S.C. 126\], for use in connection with the transferred functions.”
 

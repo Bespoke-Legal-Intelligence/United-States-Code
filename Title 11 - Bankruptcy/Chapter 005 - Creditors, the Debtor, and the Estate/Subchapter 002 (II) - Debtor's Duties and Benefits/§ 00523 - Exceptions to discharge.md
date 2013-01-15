@@ -124,7 +124,7 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a),title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Adjustment of Dollar Amounts
 
@@ -160,7 +160,7 @@ Nondischargeable debts: The House amendment retains the basic categories of nond
 
 In the case of individuals in liquidation under chapter 7 or in reorganization under chapter 11 of title 11, section 1141(d)(2) incorporates by reference the exceptions to discharge continued in section 523. Different rules concerning the discharge of taxes where a partnership or corporation reorganizes under chapter 11, apply under section 1141.
 
-The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment.Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
+The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
 
 The House amendment also adopts the Senate amendment provision limiting the nondischargeability of punitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a “penalty.” Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
 
@@ -184,7 +184,7 @@ Unscheduled debts are excepted from discharge under paragraph (3). The provision
 
 Paragraph (4) excepts debts for fraud incurred by the debtor while acting in a fiduciary capacity or for defalcation, embezzlement, or misappropriation.
 
-Paragraph (5) provides that debts for willful and malicious conversion or injury by the debtor to another entity or the property of another entity are nondischargeable. Under this paragraph “willful” means deliberate or intentional. To the extent that <i>Tinker v. Colwell</i>, 139 U.S. 473 (1902), held that a less strict standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
+Paragraph (5) provides that debts for willful and malicious conversion or injury by the debtor to another entity or the property of another entity are nondischargeable. Under this paragraph “willful” means deliberate or intentional. To the extent that <i>Tinker v.</i><i>Colwell</i>, 139 U.S. 473 (1902), held that a less strict standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
 
 Paragraph (6) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 326 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy law, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974), are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. The proviso, however, makes nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations as to whether a particular agreement to pay money to a spouse is actually alimony or a property settlement.
 
@@ -220,7 +220,7 @@ Paragraph (7) excepts from discharge a debt for a fine, penalty, or forfeiture p
 
 Paragraph (8) \[enacted as (9)\] excepts from discharge debts that the debtor owed before a previous bankruptcy case concerning the debtor in which the debtor was denied a discharge other than on the basis of the six-year bar.
 
-Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaininga settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
+Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaining a settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
 
 #### References in Text
 
@@ -376,7 +376,7 @@ Subsec. (a)(9). Pub. L. 98–353, §371(2), added the par. (9) relating to debts
 
 Subsec. (c). Pub. L. 98–353, §454(c), inserted “of a kind” after “debt”.
 
-Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
+Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant judgment in favor of the debtor forthe costs of, and a reasonable attorney's fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
 
 <b>1981</b>—Subsec. (a)(5)(A). Pub. L. 97–35 substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
 
@@ -394,7 +394,7 @@ Pub. L. 105–244, title IX, §971(b), Oct. 7, 1998, 112 Stat. 1837, provided th
 
 #### Effective Date of 1996 Amendment
 
-Section 374(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title III, §374(c), Aug. 22, 1996, 110 Stat. 2256, provided that: “The amendments made by this section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 
@@ -402,9 +402,9 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
-Section 3104 of title XXXI of Pub. L. 101–647 provided that:
+Pub. L. 101–647, title XXXI, §3104, Nov. 29, 1990, 104 Stat. 4916, provided that:
 
 “(a)
 
@@ -416,7 +416,7 @@ Application of Amendments.—The amendments made by this title \[amending this s
 
 Amendment by section 3621 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
 
-Section 4 of Pub. L. 101–581 provided that:
+Pub. L. 101–581, §4, Nov. 15, 1990, 104 Stat. 2865, provided that:
 
 “(a)
 
@@ -444,7 +444,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount “550” was adjusted to “600” and, in subsec. (a)(2)(C)(i)(II), dollar amount “825” was adjusted to “875”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount “600” was adjusted to “650” and, in subsec. (a)(2)(C)(i)(II), dollar amount “875” was adjusted to “925”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount “550” was adjusted to “600” and, in subsec. (a)(2)(C)(i)(II), dollar amount “825” was adjusted to “875”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (a)(2)(C)(i)(I), dollar amount “500” was adjusted to “550” and, in subsec. (a)(2)(C)(i)(II), dollar amount “750” was adjusted to “825”.
 

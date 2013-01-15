@@ -92,6 +92,10 @@ Subsec. (j). Pub. L. 111–22, §1304(8), redesignated subsec. (j) as (g).
 
 Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
 
+#### Definition
+
+For provisions relating to definition of “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+
 <i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

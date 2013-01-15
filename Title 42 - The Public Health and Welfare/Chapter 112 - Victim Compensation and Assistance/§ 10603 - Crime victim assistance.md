@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(i) for fellowships and clinical internships and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process; and
 
-&emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.
+&emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation anddissemination of information resulting from demonstrations, surveys, and special projects.
 
 (4) The Director may reimburse other instrumentalities of the Federal Government and contract for the performance of functions authorized under this subsection.
 

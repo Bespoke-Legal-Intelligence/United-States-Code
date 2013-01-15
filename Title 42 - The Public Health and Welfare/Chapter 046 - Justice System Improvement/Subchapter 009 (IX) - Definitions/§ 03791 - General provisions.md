@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(1) “criminal justice” means activities pertaining to crime prevention, control, or reduction, or the enforcement of the criminal law, including, but not limited to, police efforts to prevent, control, or reduce crime or to apprehend criminals, including juveniles, activities of courts having criminal jurisdiction, and related agencies (including but not limited to prosecutorial and defender services, juvenile delinquency agencies and pretrial service or release agencies), activities of corrections, probation, or parole authorities and related agencies assisting in the rehabilitation, supervision, and care of criminal offenders, and programs relating to the prevention, control, or reduction of narcotic addiction and juvenile delinquency;
 
-&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
+&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
 &emsp;(3) “unit of local government” means—
 
@@ -62,7 +62,7 @@ As used in this chapter—
 
 &emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiable improvements in the criminal justice system if implemented as proposed;
 
-&emsp;(22) “correctional option” includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoring of offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
+&emsp;(22) “correctional option” includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoringof offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
 
 &emsp;(23) “boot camp prison” includes a correctional facility in which inmates are required to participate in a highly regimented program that provides strict discipline, physical training, and hard labor, together with extensive rehabilitative activities and with educational, job training, and drug treatment support;
 
@@ -74,9 +74,11 @@ As used in this chapter—
 
 &emsp;&emsp;(B) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems;
 
-&emsp;(26) the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 450b(e) of title 25; and
+&emsp;(26) the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 450b(e) of title 25;
 
-&emsp;(27) the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof).
+&emsp;(27) the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof); and
+
+&emsp;(28) the term “hearing examiner” includes any medical or claims examiner.
 
 #### (b) Data basis for definitions; reflection of technical changes or modifications
 
@@ -86,17 +88,21 @@ Where appropriate, the definitions in subsection (a) of this section shall be ba
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, §1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964.)
+
+#### Codification
+
+Another section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, is classified as a note under section 921 of Title 18, Crimes and Criminal Procedure.
 
 #### Prior Provisions
 
 A prior section 3791 of this title, Pub. L. 90–351, title I, §651, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to embezzlement, theft, and fraud, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795 of this title.
 
-A prior section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, was classified as a note under section 921 of Title 18, Crimes and Criminal Procedure.
-
 A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements or entries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(28). Pub. L. 112–239 added par. (28).
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
 
@@ -151,6 +157,30 @@ Subsec. (a)(8). Pub. L. 98–473, §609C(b)(5), substituted definition of “cor
 Subsec. (a)(13). Pub. L. 98–473, §609C(b)(6), substituted definition of “cost of construction” for “municipality”.
 
 Subsecs. (a)(17), (b). Pub. L. 98–473, §609C(a), substituted “Office” for “Administration”.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1086(d), Jan. 2, 2013, 126 Stat. 1969, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (1) \[probably means paragraph (2)\], the amendments made by this section \[amending this section, sections 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code\] shall—
+
+&emsp;“(A) take effect on the date of enactment of this Act \[Jan. 2, 2013\]; and
+
+&emsp;“(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed or accruing after that date.
+
+“(2)
+
+Exceptions.—
+
+&emsp;“(A)
+
+Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance crew (as defined in section 1204(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796b(7)\], as amended by this section), the amendments made by this Act \[probably means this section\] shall apply to injuries sustained on or after June 1, 2009.
+
+&emsp;“(B)
+
+Heart attacks, strokes, and vascular ruptures.—Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796(k)\], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
 
 #### Effective Date of 2006 Amendment
 

@@ -12,5 +12,5 @@ Section 453, acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub.
 
 #### Short Title
 
-Section 1 of act July 2, 1948, as amended by Pub. L. 93–155, §809, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Defense Industrial Reserve Act’.”
+Act July 2, 1948, ch. 811, §1, 62 Stat. 1225, as amended by Pub. L. 93–155, title VIII, §809, Nov. 16, 1973, 87 Stat. 617, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Defense Industrial Reserve Act’.”
 

@@ -120,7 +120,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (A) In general
 
-&emsp;&emsp;Following the six-month period described in section 488e(e) of this title, the Secretary shall, to the extent practicable, issue ordeny registration numbers under this part not later than 72 hours after the time the Secretary receives a complete registration application, unless the Secretary determines, in the interest of national security, that additional time is necessary to review an application.
+&emsp;&emsp;Following the six-month period described in section 488e(e) of this title, the Secretary shall, to the extent practicable, issue or deny registration numbers under this part not later than 72 hours after the time the Secretary receives a complete registration application, unless the Secretary determines, in the interest of national security, that additional time is necessary to review an application.
 
 #### (B) Notice of application status
 

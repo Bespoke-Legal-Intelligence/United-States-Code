@@ -74,7 +74,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities;
 
-&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\] or of desertion from the Armed Forces of the United States,except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
 &emsp;(11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
@@ -112,9 +112,9 @@ The Corporation shall conduct a study on whether eligible clients who are—
 
 &emsp;(5) persons in sparsely populated areas where a harsh climate and an inadequate transportation system are significant impediments to receipt of legal services <sup>2</sup>
 
-> have special difficulties of access to legal services or special legal problems which are notbeing met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
+> have special difficulties of access to legal services or special legal problems which are not being met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
 
-(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211; Pub. L. 111–211, title II, §234(d), July 29, 2010, 124 Stat. 2282.)
+(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(o), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211; Pub. L. 111–211, title II, §234(d), July 29, 2010, 124 Stat. 2282.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 <b>1997</b>—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
 
-<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
+<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisionssetting forth factors required to be included in determining financial ability.
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
@@ -160,13 +160,13 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 Amendment by sections 7(b), 9(a), (b)(1), (c), 10, 12, and 13 of Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-Section 17(a)(1) of Pub. L. 95–222 provided that: “The amendment made by section 11 of this Act \[amending this section\] shall be effective six months after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\].”
+Pub. L. 95–222, §17(a)(1), Dec. 28, 1977, 91 Stat. 1624, provided that: “The amendment made by section 11 of this Act \[amending this section\] shall be effective six months after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\].”
 
 #### Implementation of System for Competitive Award of Grants and Contracts
 
 Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
 
-Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, andthat nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
+Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 
 Pub. L. 100–459, title VI, §605, Oct. 1, 1988, 102 Stat. 2227, provided: “That a Board of Directors of the Legal Services Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989.”
 

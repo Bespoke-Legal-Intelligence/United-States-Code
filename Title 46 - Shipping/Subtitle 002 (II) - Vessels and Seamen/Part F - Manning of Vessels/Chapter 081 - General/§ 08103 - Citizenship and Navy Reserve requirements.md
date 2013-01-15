@@ -156,7 +156,7 @@ Steward's department.—The term “steward's department” means the department
 
 Large passenger vessel.—The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006,120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
 
 Historical and Revision Notes
 
@@ -248,7 +248,57 @@ Pub. L. 100–239, 5(d)(2), Jan. 11, 1988, 101 Stat. 1781, provided that: “Thi
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Distant Water Tuna Fleet
+
+Pub. L. 109–241, title IV, §421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, §904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, §701, Dec. 20, 2012, 126 Stat. 1579, provided that:
+
+“(a)
+
+Manning Requirements.—Notwithstanding section 8103(a) of title 46, United States Code, United States purse seine fishing vessels fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or transiting to or from the treaty area exclusively for such purpose, may engage foreign citizens to meet the manning requirement (except for the master) until the date of expiration of this section if, after timely notice of a vacancy to meet the manning requirement, no United States citizen personnel are readily available to fill such vacancy.
+
+“(b)
+
+Licensing Restrictions.—
+
+&emsp;“(1)
+
+In general.—Subsection (a) only applies to a foreign citizen who holds a credential that is equivalent to the credential issued by the Coast Guard to a United States citizen for the position, with respect to requirements for experience, training, and other qualifications.
+
+&emsp;“(2)
+
+Treatment of credential.—An equivalent credential under paragraph (1) shall be considered as meeting the requirements of section 8304 of title 46, United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies.
+
+“(c)
+
+Limitation.—Subsection (a) applies only to vessels operating in and out of American Samoa or Guam.
+
+“(d)
+
+Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 \[Dec. 20, 2012\].
+
+“(e)
+
+Safety Inspections.—A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code.
+
+“(f)
+
+Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
+
+&emsp;“(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel.
+
+&emsp;“(2) The number of vessels in the fishery under United States flag as of January 1 of the year in which the report is submitted, the percentage ownership or control of such vessels by non-United States citizens, and the nationality of such ownership or control.
+
+&emsp;“(3) Description of any transfers or sales of United States flag vessels in the previous calendar year, and the disposition of such vessel, including whether the vessel was scrapped or sold, and, if sold, the nationality of the new owner and location of any fishery to which the vessel will be transferred.
+
+&emsp;“(4) Landings of tuna by vessels under flag in the 2 previous calendar years, including an assessment of landing trends, and a description of landing percentages and totals—
+
+&emsp;&emsp;“(A) delivered to American Samoa and any other port in a State or territory of the United States; and
+
+&emsp;&emsp;“(B) delivered to ports outside of a State or territory of the United States, including the identity of the port.
+
+&emsp;“(5) An evaluation of capacity and trends in the purse seine fleet fishing in the area covered by the South Pacific Regional Fisheries Treaty, and any transfer of capacity from such fleet or area to other fisheries, including those governed under the Western and Central Pacific Fisheries Convention and the Inter-American Tropical Tuna Convention.”
 
 #### Application of Section to Fishing Vessels in California
 

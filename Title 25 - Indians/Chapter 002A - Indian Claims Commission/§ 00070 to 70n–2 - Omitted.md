@@ -28,7 +28,7 @@ Section 70j, act Aug. 13, 1946, ch. 959, §11, 60 Stat. 1052, related to forbidd
 
 Section 70k, act Aug. 13, 1946, ch. 959, §12, 60 Stat. 1052, related to limitation of time for presenting claims before Commission.
 
-Section 70<i>l</i>, act Aug. 13, 1946, ch. 959, §13, 60 Stat. 1052, related to notice to tribes, investigation of claims, and availability of data by Commission.
+Section 70l, act Aug. 13, 1946, ch. 959, §13, 60 Stat. 1052, related to notice to tribes, investigation of claims, and availability of data by Commission.
 
 Section 70m, act Aug. 13, 1946, ch. 959, §14, 60 Stat. 1052, related to information from governmental departments and official records as evidence before Commission.
 
@@ -40,5 +40,5 @@ Section 70n–2, Pub. L. 88–168, §2, Nov. 4, 1963, 77 Stat. 301, related to i
 
 #### Indian Self-Determination Conflict of Interest Requirement Inapplicable to Commissioner Not in Office
 
-Section 1 of Pub. L. 95–453 provided in part that section 105(j) of the Indian Self-Determination Act (section 450i(f) of this title) was not to apply to members of the Indian Claims Commission affected by Pub. L. 95–453 (which amended subsec. (c) of section 70b of this title).
+Pub. L. 95–453, Oct. 12, 1978, 92 Stat. 1110, provided in part that section 105(j) of the Indian Self-Determination Act (section 450i(f) of this title) was not to apply to members of the Indian Claims Commission affected by Pub. L. 95–453 (which amended subsec. (c) of section 70b of this title).
 

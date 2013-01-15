@@ -12,5 +12,5 @@ It is the purpose of this subchapter to provide for the determination of the amo
 
 #### Separability
 
-Section 513 of act Mar. 10, 1950, as added by Pub. L. 88–666, provided that: “If any provision of this Act \[enacting this subchapter\], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Act Mar. 10, 1950, ch. 54, title V, §513, as added by Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113, provided that: “If any provision of this Act \[enacting this subchapter\], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 

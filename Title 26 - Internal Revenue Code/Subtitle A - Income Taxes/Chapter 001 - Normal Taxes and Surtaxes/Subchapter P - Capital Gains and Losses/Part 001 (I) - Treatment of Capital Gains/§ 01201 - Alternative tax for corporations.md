@@ -56,7 +56,7 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;&emsp;<b>(3) in the case of real estate investment trusts, see section 857(b)(3)(A).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “35 percent” for “34 percent” in introductory provisions and in par. (2).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(<i>l</i>), substituted “section 11(b)(1)” for “section 11(b)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(l), substituted “section 11(b)(1)” for “section 11(b)”.
 
 Pub. L. 100–647, §1003(c)(1), substituted “section 831(a) or (b)” for “section 831(a)”.
 
@@ -90,7 +90,7 @@ Pub. L. 99–514, §311(a), amended subsec. (a) generally. Prior to amendment, s
 
 Subsec. (b). Pub. L. 99–514, §311(a), amended subsec. (b) generally, substituting a comma for the semicolon at end of par. (1) and after “852(b)(3)(A) and (D)” in par. (2).
 
-Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck out subsec. (c), transitional rule, which read as follows: “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980, a corporation has a net capital gain, then subsection (a) shall be applied by substituting for the language of paragraph (2) the following:
+Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck out subsec. (c), transitional rule, which read as follows: “If for any taxable year ending after December 31, 1978, and beginning before January1, 1980, a corporation has a net capital gain, then subsection (a) shall be applied by substituting for the language of paragraph (2) the following:
 
 &emsp;“(2)(A) a tax of 28 percent of the lesser of—
 
@@ -168,17 +168,17 @@ Subsec. (c). Pub. L. 86–69 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 15311(a) of Pub. L. 110–246 applicable to taxable years ending after June 18, 2008, see section 15311(d) of Pub. L. 110–246, set out as a note under section 55 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 314(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1997.”
+Pub. L. 105–34, title III, §314(b), Aug. 5, 1997, 111 Stat. 843, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -188,11 +188,11 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after 
 
 Amendment by section 1003(c)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 2004(<i>l</i>) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by section 2004(l) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 311(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 593, 631, 852, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986.”
+Pub. L. 99–514, title III, §311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 593, 631, 852, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986.”
 
 Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
@@ -204,13 +204,13 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 104(a)(3)(A) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
-Section 104(b)(1) of Pub. L. 96–222 provided that: “The amendments made by subsection (a)(2)(B) \[amending this section\] shall apply to taxable years beginning in 1978.”
+Pub. L. 96–222, title I, §104(b)(1), Apr. 1, 1980, 94 Stat. 218, provided that: “The amendments made by subsection (a)(2)(B) \[amending this section\] shall apply to taxable years beginning in 1978.”
 
 #### Effective Date of 1978 Amendment
 
-Section 401(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and sections 3, 5, 871, 911, and 1304 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title IV, §401(c), Nov. 6, 1978, 92 Stat. 2867, provided that: “The amendments made by this section \[amending this section and sections 3, 5, 871, 911, and 1304 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 403(d)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years ending after December 31, 1978.”
+Pub. L. 95–600, title IV, §403(d)(1), Nov. 6, 1978, 92 Stat. 2869, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years ending after December 31, 1978.”
 
 #### Effective Date of 1976 Amendment
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1969 Amendment
 
-Section 511(d) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 802, 852, 857, and 1378 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title V, §511(d), Dec. 30, 1969, 83 Stat. 638, provided that: “The amendments made by this section \[amending this section and sections 802, 852, 857, and 1378 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1962 Amendment
 
@@ -234,7 +234,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Transitional Rules
 
-Section 311(d)(1) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title III, §311(d)(1), Oct. 22, 1986, 100 Stat. 2219, provided that:
 
 “(1)
 
@@ -256,7 +256,7 @@ Taxable years which begin in 1986 and end in 1987.—In the case of any taxable 
 
 #### Rate on Net Capital Gain for Portion of 1981;    20-Percent Maximum&nbsp;&nbsp;&nbsp;
 
-Pub. L. 97–34, title I, §102, Aug. 13, 1981, 95 Stat. 186, as amended by Pub. L. 97–448, title I, §101(aa), Jan. 12,1983, 96 Stat. 2366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title I, §102, Aug. 13, 1981, 95 Stat. 186, as amended by Pub. L. 97–448, title I, §101(aa), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -340,7 +340,7 @@ Pass-thru entity defined.—For purposes of paragraph (1), the term ‘pass-thru
 
 #### Special Rule for Pass-Through Entities
 
-Section 104(a)(2)(C) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–222, title I, §104(a)(2)(C), Apr. 1, 1980, 94 Stat. 215, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(i)
 
@@ -364,5 +364,5 @@ Pass-through entity defined.—For purposes of clause (i), the term ‘pass-thro
 
 #### Study of Effects of Changes in the Tax Treatment of Capital Gains on Stimulating Investment and Economic Growth
 
-Section 555 of Pub. L. 95–600 required the Secretary of the Treasury to submit to specific committees of Congress a report, not later than Sept. 30, 1981, respecting effects of changes in tax treatment of capital gains on stimulating investment and economic growth as a result of the enactment of title V of Pub. L. 95–600.
+Pub. L. 95–600, title V, §555, Nov. 6, 1978, 92 Stat. 2892, required the Secretary of the Treasury to submit to specific committees of Congress a report, not later than Sept. 30, 1981, respecting effects of changes in tax treatment of capital gains on stimulating investment and economic growth as a result of the enactment of title V of Pub. L. 95–600.
 

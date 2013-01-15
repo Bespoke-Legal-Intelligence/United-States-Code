@@ -4,7 +4,7 @@
 
 (1) The Secretary of the Interior shall develop, in consultation with the State agencies, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under his jurisdiction and the Secretary of Agriculture shall do the same in connection with public land under his jurisdiction.
 
-(2) The Secretary of the Interior shall develop, with the prior written approval of the Atomic Energy Commission, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under the jurisdiction of the Chairman and develop, with the prior written approval of the Administrator, a comprehensive plan for such programs to be implemented on public land under the jurisdiction of the Administrator. Each such plan shall be developed after the Secretary of the Interior makes, with the prior written approval of the Chairman or the Administrator, as the case may be, and in consultation with the State agencies, necessary studies and surveys of the land concerned to determine where conservation and rehabilitation programs are most needed.
+(2) The Secretary of the Interior shall develop, with the prior written approval of the AtomicEnergy Commission, a comprehensive plan for conservation and rehabilitation programs to be implemented on public land under the jurisdiction of the Chairman and develop, with the prior written approval of the Administrator, a comprehensive plan for such programs to be implemented on public land under the jurisdiction of the Administrator. Each such plan shall be developed after the Secretary of the Interior makes, with the prior written approval of the Chairman or the Administrator, as the case may be, and in consultation with the State agencies, necessary studies and surveys of the land concerned to determine where conservation and rehabilitation programs are most needed.
 
 #### (b) Consistency with overall land use and management plans; hunting, trapping, and fishing
 
@@ -18,7 +18,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 &emsp;(B) the Secretary of Agriculture with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land which is under his jurisdiction; and
 
-&emsp;(C) the Secretary of the Interior and the Chairman or the Administrator, as the casemay be, with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land under the jurisdiction of the Chairman or the Administrator; except that before entering into any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before entering into any cooperative agreement which affects public lands under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
+&emsp;(C) the Secretary of the Interior and the Chairman or the Administrator, as the case may be, with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land under the jurisdiction of the Chairman or the Administrator; except that before entering into any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before entering into any cooperative agreement which affects public lands under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
 
 > Conservation and rehabilitation programs developed and implemented pursuant to this subchapter shall be deemed as supplemental to wildlife, fish, and game-related programs conducted by the Secretary of the Interior and the Secretary of Agriculture pursuant to other provisions of law. Nothing in this subchapter shall be construed as limiting the authority of the Secretary of the Interior or the Secretary of Agriculture, as the case may be, to manage the national forests or other public lands for wildlife and fish and other purposes in accordance with the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531) or other applicable authority.
 
@@ -48,7 +48,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 > A cooperative agreement may also provide for arrangements under which the Secretary concerned may authorize officers and employees of the State agency to enforce, or to assist in the enforcement of, section 670j(a) of this title.
 
-(4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
+(4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlifein accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
 
 (5) The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shall prescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
 
@@ -74,5 +74,5 @@ In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Gran
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 

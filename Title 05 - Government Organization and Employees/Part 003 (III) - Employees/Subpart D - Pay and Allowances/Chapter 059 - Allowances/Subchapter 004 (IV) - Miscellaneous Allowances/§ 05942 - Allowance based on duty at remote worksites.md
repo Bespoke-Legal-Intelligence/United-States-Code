@@ -50,7 +50,7 @@ Mar. 31, 1966, Pub. L. 89–383, §1, 80 Stat. 98.
 
 #### Effective Date of 1971 Amendment
 
-Section 6(b) of Pub. L. 91–656 provided that: “Notwithstanding section 5536 of title 5, United States Code, and the amendment made by subsection (a) of this section \[amending this section\], and until the effective date of regulations prescribed by the President under such amendment—
+Pub. L. 91–656, §6(b), Jan. 8, 1971, 84 Stat. 1954, provided that: “Notwithstanding section 5536 of title 5, United States Code, and the amendment made by subsection (a) of this section \[amending this section\], and until the effective date of regulations prescribed by the President under such amendment—
 
 &emsp;“(1) allowances may be paid to employees under section 5942 of title 5, United States Code, and the regulations prescribed by the President under such section, as in effect immediately prior to the effective date of this section \[Jan. 8, 1971\]; and
 

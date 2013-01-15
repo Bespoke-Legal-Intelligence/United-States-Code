@@ -22,7 +22,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;&emsp;(B) One representative appointed by each of the Secretaries of Commerce and the Interior and the Commandant of the Coast Guard, who shall be Federal employees.
 
-&emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of theState of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
+&emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of the State of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
 
 &emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
 
@@ -84,11 +84,11 @@ No funds made available to carry out this section may be used to initiate litiga
 
 The Institute shall publish and make available to any person upon request the results of all research, educational, and demonstration projects conducted by the Institute. The Administrator shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Oceanic and Atmospheric Administration.
 
-#### (<i>l</i>) “Prince William Sound and its adjacent waters” defined
+#### (l) “Prince William Sound and its adjacent waters” defined
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, §389(1), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–241, title IX, §902(<i>l</i>)(1), July 11, 2006, 120 Stat. 568.)
+(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, §389(1), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–241, title IX, §902(l)(1), July 11, 2006, 120 Stat. 568.)
 
 #### Amendments
 

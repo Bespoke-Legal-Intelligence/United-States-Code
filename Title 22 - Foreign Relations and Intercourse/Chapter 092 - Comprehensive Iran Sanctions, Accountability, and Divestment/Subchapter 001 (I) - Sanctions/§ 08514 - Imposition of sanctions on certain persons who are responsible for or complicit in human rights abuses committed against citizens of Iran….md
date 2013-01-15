@@ -8,7 +8,7 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (1) In general
 
-&emsp;Not later than 90 days after July 1, 2010, the President shall submit to the appropriate congressional committees a list of persons who are officials of the Government of Iran or persons acting on behalf of that Government (including members of paramilitary organizations such as Ansar-e-Hezbollah and Basij-e Mostaz'afin), that the President determines, based on credible evidence, are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Iran or their family members on or after June 12, 2009, regardless of whether such abuses occurred in Iran.
+&emsp;Not later than 90 days after July 1, 2010, the President shall submit to the appropriate congressional committees a list of persons whoare officials of the Government of Iran or persons acting on behalf of that Government (including members of paramilitary organizations such as Ansar-e-Hezbollah and Basij-e Mostaz'afin), that the President determines, based on credible evidence, are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Iran or their family members on or after June 12, 2009, regardless of whether such abuses occurred in Iran.
 
 #### (2) Updates of list
 
@@ -57,4 +57,8 @@ The provisions of this section shall terminate on the date on which the Presiden
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### Delegation of Functions
+
+Ex. Ord. No. 13553, §§5–7, Sept. 28, 2010, 75 F.R. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to employ all powers granted to the President by subsecs. (a) to (c) of this section and to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of Ex. Ord. No. 13553, except that (1) the Secretary of State is authorized to exercise the functions and authorities conferred upon the President by subsec. (a) with respect to imposition of the visa sanctions described in subsec. (c) and is further authorized to exercise the functions and authorities conferred upon the President by subsec. (c) with respect to the promulgation of rules and regulations related to the visa sanctions described therein; and (2) the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to submit to Congress, as required by subsec. (b), the initial and updated lists of persons subject to visa sanctions and blockage of property pursuant to Ex. Ord. No. 13553.
 

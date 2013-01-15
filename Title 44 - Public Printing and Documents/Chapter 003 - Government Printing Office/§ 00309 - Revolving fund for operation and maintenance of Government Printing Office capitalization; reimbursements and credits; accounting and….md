@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 100–458, §310(c), amended subsec. (d) generally. Prior t
 
 #### Effective Date of 1993 Amendment
 
-Section 207(c) of Pub. L. 103–69 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1708 of this title\] shall take effect on October 1, 1993.”
+Pub. L. 103–69, title II, §207(c), Aug. 11, 1993, 107 Stat. 708, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1708 of this title\] shall take effect on October 1, 1993.”
 
 #### Termination of Reporting Requirements
 

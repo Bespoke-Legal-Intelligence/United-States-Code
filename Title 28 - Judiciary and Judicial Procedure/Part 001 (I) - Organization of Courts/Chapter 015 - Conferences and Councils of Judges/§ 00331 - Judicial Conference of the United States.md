@@ -2,7 +2,7 @@
 
 The Chief Justice of the United States shall summon annually the chief judge of each judicial circuit, the chief judge of the Court of International Trade, and a district judge from each judicial circuit to a conference at such time and place in the United States as he may designate. He shall preside at such conference which shall be known as the Judicial Conference of the United States. Special sessions of the Conference may be called by the Chief Justice at such times and places as he may designate.
 
-The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit and shall serve as a member of the Judicial Conference of the United States for a term of not less than 3 successive years nor more than 5 successive years, as established by majority vote of all circuit and district judges of the circuit. A district judge serving as a member of the Judicial Conference may be either a judge in regular active service or a judge retired from regular active service under section 371(b) of this title.
+The district judge to be summoned from each judicial circuit shall be chosen by the circuitand district judges of the circuit and shall serve as a member of the Judicial Conference of the United States for a term of not less than 3 successive years nor more than 5 successive years, as established by majority vote of all circuit and district judges of the circuit. A district judge serving as a member of the Judicial Conference may be either a judge in regular active service or a judge retired from regular active service under section 371(b) of this title.
 
 If the chief judge of any circuit, the chief judge of the Court of International Trade, or the district judge chosen by the judges of the circuit is unable to attend, the Chief Justice may summon any other circuit or district judge from such circuit or any other judge of the Court of International Trade, as the case may be. Every judge summoned shall attend and, unless excused by the Chief Justice, shall remain throughout the sessions of the conference and advise as to the needs of his circuit or court and as to any matters in respect of which the administration of justice in the courts of the United States may be improved.
 
@@ -16,7 +16,7 @@ The Attorney General shall, upon request of the Chief Justice, report to such Co
 
 The Chief Justice shall submit to Congress an annual report of the proceedings of the Judicial Conference and its recommendations for legislation.
 
-The Judicial Conference shall consult with the Director of <sup>1</sup> United States Marshals Service on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel.The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+The Judicial Conference shall consult with the Director of <sup>1</sup> United States Marshals Service on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
 (June 25, 1948, ch. 646, 62 Stat. 902; July 9, 1956, ch. 517, §1(d), 70 Stat. 497; Pub. L. 85–202, Aug. 28, 1957, 71 Stat. 476; Pub. L. 85–513, July 11, 1958, 72 Stat. 356; Pub. L. 87–253, §§1, 2, Sept. 19, 1961, 75 Stat. 521; Pub. L. 95–598, title II, §208, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–458, §4, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 97–164, title I, §111, Apr. 2, 1982, 96 Stat. 29; Pub. L. 99–466, §1, Oct. 14, 1986, 100 Stat. 1190; Pub. L. 100–702, title IV, §402(b), Nov. 19, 1988, 102 Stat. 4650; Pub. L. 104–317, title VI, §601(a), Oct. 19, 1996, 110 Stat. 3857; Pub. L. 107–273, div. C, title I, §11043(b), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 110–177, title I, §101(b), Jan. 7, 2008, 121 Stat. 2534.)
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–466 provided that: “This Act and the amendments made by this Act \[enacting section 335 of this title, amending this section and section 569 of this title, renumbering section 873 of this title as 872, and repealing former section 872 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 14, 1986\].”
+Pub. L. 99–466, §4, Oct. 14, 1986, 100 Stat. 1191, provided that: “This Act and the amendments made by this Act \[enacting section 335 of this title, amending this section and section 569 of this title, renumbering section 873 of this title as 872, and repealing former section 872 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 14, 1986\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -86,11 +86,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Section 7 of Pub. L. 96–458 provided that: “This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981.”
+Pub. L. 96–458, §7, Oct. 15, 1980, 94 Stat. 2041, provided that: “This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981.”
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to requirement that the ChiefJustice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases
 

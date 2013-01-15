@@ -50,7 +50,7 @@ Screening Operations.—The Under Secretary shall—
 
 (f)
 
-Additional Duties and Powers.—In addition to carrying out the functions specified insubsections (d) and (e), the Under Secretary shall—
+Additional Duties and Powers.—In addition to carrying out the functions specified in subsections (d) and (e), the Under Secretary shall—
 
 &emsp;(1) receive, assess, and distribute intelligence information related to transportation security;
 
@@ -136,7 +136,7 @@ In general.—The Under Secretary is authorized—
 
 &emsp;&emsp;(A) to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
 
-&emsp;&emsp;(B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct,repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
+&emsp;&emsp;(B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
 
 &emsp;&emsp;(C) to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
 
@@ -152,7 +152,7 @@ Title.—Title to any property or interest therein acquired pursuant to this sub
 
 Transfers of Funds.—The Under Secretary is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in section 551(1) of title 5) to carry out functions transferred, on or after the date of enactment of the Aviation and Transportation Security Act, by law to the Under Secretary.
 
-(<i>l</i>)
+(l)
 
 Regulations.—
 
@@ -194,7 +194,7 @@ Personnel and Services; Cooperation by Under Secretary.—
 
 &emsp;(1)
 
-Authority of under secretary.—In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections (<i>l</i>) and (m) of section 106.
+Authority of under secretary.—In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator ofthe Federal Aviation Administration under subsections (l) and (m) of section 106.
 
 &emsp;(2)
 
@@ -204,7 +204,7 @@ Authority of agency heads.—The head of a Federal agency shall have the same au
 
 Personnel Management System.—The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
 
-(<i>o</i>)
+(o)
 
 Authority of Inspector General.—The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Transportation.
 
@@ -292,7 +292,7 @@ Role of secretary of transportation.—The Secretary of Homeland Security shall 
 
 Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
 
-&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
+&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United Statesthat, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
 &emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 <sup>1</sup> across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
@@ -428,7 +428,7 @@ Purpose of plan.—The Plan shall promote sharing of transportation security inf
 
 Content of plan.—The Plan shall include—
 
-&emsp;&emsp;(A) a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
+&emsp;&emsp;(A) a description of how intelligence analysts within the Department of HomelandSecurity will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
 
 &emsp;&emsp;(B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
 
@@ -652,9 +652,9 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (k), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (k), is thedate of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
-The Inspector General Act of 1978, referred to in subsec. (<i>o</i>), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (o), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of this title and Tables.
 
@@ -666,7 +666,7 @@ The date of enactment of the Implementing Recommendations of the 9/11 Commission
 
 <b>2009</b>—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
 
-<b>2007</b>—Subsecs. (<i>o</i>) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (<i>o</i>) to (r), respectively, and struck out former subsec. (<i>o</i>). Text of former subsec. (<i>o</i>) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
+<b>2007</b>—Subsecs. (o) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (o) to (r), respectively, and struck out former subsec. (o). Text of former subsec. (o) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
 
 Subsec. (t). Pub. L. 110–161 redesignated subsec. (t) as (s).
 
@@ -702,7 +702,7 @@ Subsec. (w). Pub. L. 110–53, §1503(a), added subsec. (w).
 
 <b>2003</b>—Subsec. (q)(1). Pub. L. 108–7 inserted “or other Federal agency” after “Transportation Security Administration”.
 
-<b>2002</b>—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
+<b>2002</b>—Subsec. (l)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
 
 Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
 
@@ -800,7 +800,7 @@ In General.—The Under Secretary of Transportation for Security may take the fo
 
 &emsp;“(2) Establish a uniform system of identification for all State and local law enforcement personnel for use in obtaining permission to carry weapons in aircraft cabins and in obtaining access to a secured area of an airport, if otherwise authorized to carry such weapons.
 
-&emsp;“(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.
+&emsp;“(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers whoparticipate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.
 
 &emsp;“(4) In consultation with the Commissioner of the Food and Drug Administration, develop alternative security procedures under which a medical product to be transported on a flight of an air carrier would not be subject to an inspection that would irreversibly damage the product.
 

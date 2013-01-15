@@ -2,7 +2,7 @@
 
 For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service, during a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran's own willful misconduct or abuse of alcohol or drugs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, §310; Pub. L. 101–508, title VIII, §8052(a)(2), Nov. 5, 1990, 104 Stat. 1388–351; renumbered §1110, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8202(a), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, §310; Pub. L. 101–508, title VIII, §8052(a)(2), Nov. 5, 1990, 104 Stat. 1388–351; renumbered §1110, Pub. L.102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8202(a), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865.)
 
 #### Amendments
 

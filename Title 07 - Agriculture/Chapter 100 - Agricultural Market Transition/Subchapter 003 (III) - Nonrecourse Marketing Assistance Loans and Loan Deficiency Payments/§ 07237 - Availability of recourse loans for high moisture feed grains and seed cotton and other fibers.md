@@ -34,7 +34,7 @@
 
 #### (1) Upland cotton
 
-&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determinedby the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
+&emsp;For each of the 1996 through 2002 crops of upland cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, to producers on a farm containing eligible cropland covered by a production flexibility contract.
 
 #### (2) Extra long staple cotton
 

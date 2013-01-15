@@ -44,7 +44,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;(11) coordinates planning for trauma systems with State disaster emergency planning and bioterrorism hospital preparedness planning; and
 
-&emsp;(12) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
+&emsp;(12) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State andany other State with which the State shares any standard metropolitan statistical area.
 
 #### (b) Certain standards with respect to trauma care centers and systems
 

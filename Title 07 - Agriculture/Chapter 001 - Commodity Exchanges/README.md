@@ -25,7 +25,7 @@
 | [6m.](%C2%A7%2000006m%20-%20Use%20of%20mails%20or%20other%20means%20or%20instrumentalities%20of%20interstate%20commerce%20by%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%E2%80%A6.md) | Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law. |
 | [6n.](%C2%A7%2000006n%20-%20Registration%20of%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%3B%20application%3B%20expiration%20and%20renewal%3B%20record%20keeping%20and%20reports%E2%80%A6.md) | Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account. |
 | 6<i>o.</i> | Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons. |
-| 6<i>o</i>–1. | Transferred. |
+| 6o–1. | Transferred. |
 | [6p.](%C2%A7%2000006p%20-%20Standards%20and%20examinations.md) | Standards and examinations. |
 | [6q.](%C2%A7%2000006q%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md) | Special procedures to encourage and facilitate bona fide hedging by agricultural producers. |
 | [6r.](%C2%A7%2000006r%20-%20Reporting%20and%20recordkeeping%20for%20uncleared%20swaps.md) | Reporting and recordkeeping for uncleared swaps. |

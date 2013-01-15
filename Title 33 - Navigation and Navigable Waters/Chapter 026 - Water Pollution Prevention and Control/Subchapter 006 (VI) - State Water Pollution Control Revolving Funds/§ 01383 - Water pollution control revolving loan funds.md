@@ -40,7 +40,7 @@ Except as otherwise limited by State law, a water pollution control revolving fu
 
 #### (e) Limitation to prevent double benefits
 
-If a State makes, from its water pollution revolving fund, a loan which will finance the cost of facility planning and the preparation of plans, specifications, and estimates for construction of publicly owned treatment works, the State shall ensure that if the recipient of such loan receives a grant under section 1281(g) of this title for construction of such treatment works and an allowance under section 1281(<i>l</i>)(1) of this title for non-Federal funds expended for such planning and preparation, such recipient will promptly repay such loan to the extent of such allowance.
+If a State makes, from its water pollution revolving fund, a loan which will finance the cost of facility planning and the preparation of plans, specifications, and estimates for construction of publicly owned treatment works, the State shall ensure that if the recipient of such loan receives a grant under section 1281(g) of this title for construction of such treatment works and an allowance under section 1281(l)(1) of this title for non-Federal funds expended for such planning and preparation, such recipient will promptly repay such loan to the extent of such allowance.
 
 #### (f) Consistency with planning requirements
 
@@ -52,7 +52,7 @@ The State may provide financial assistance from its water pollution control revo
 
 #### (h) Eligibility of non-Federal share of construction grant projects
 
-A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from theAdministrator under any other authority only if such assistance is necessary to allow such project to proceed.
+A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from the Administrator under any other authority only if such assistance is necessary to allow such project to proceed.
 
 (June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23.)
 

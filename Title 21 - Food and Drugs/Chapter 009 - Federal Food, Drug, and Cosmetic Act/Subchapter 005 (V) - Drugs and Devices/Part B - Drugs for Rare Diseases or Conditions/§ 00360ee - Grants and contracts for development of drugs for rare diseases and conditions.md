@@ -14,25 +14,29 @@ For purposes of subsection (a) of this section:
 
 &emsp;&emsp;&emsp;(i) which is carried out under an exemption for a drug for a rare disease or condition under section 355(i) of this title (or regulations issued under such section); and
 
-&emsp;&emsp;&emsp;(ii) which occurs after the date such drug is designated under section 360bb of this title and before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42; and
+&emsp;&emsp;&emsp;(ii) which occurs before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42; and
 
 &emsp;&emsp;(B) preclinical testing involving a drug for a rare disease or condition which occurs after the date such drug is designated under section 360bb of this title and before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42.
 
-&emsp;(2) The term “rare disease or condition” means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a) of this section, and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a) of this section. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the datethe request for designation of the drug under section 360bb of this title is made.
+&emsp;(2) The term “rare disease or condition” means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a) of this section, and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a) of this section. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
 
 &emsp;(3) The term “medical food” means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 
 #### (c) Authorization of appropriations
 
-For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2008 through 2012.
+For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2013 through 2017.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092.)
 
 #### Codification
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1)(A)(ii). Pub. L. 112–144, §906(a), struck out “after the date such drug is designated under section 360bb of this title and” after “which occurs”.
+
+Subsec. (c). Pub. L. 112–144, §906(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2008 through 2012.”
 
 <b>2007</b>—Subsec. (c). Pub. L. 110–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.”
 

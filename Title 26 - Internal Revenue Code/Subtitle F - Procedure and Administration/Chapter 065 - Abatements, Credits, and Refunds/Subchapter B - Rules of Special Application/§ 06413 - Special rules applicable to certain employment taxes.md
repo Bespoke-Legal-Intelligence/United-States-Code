@@ -20,7 +20,7 @@
 
 #### (5) States and political subdivisions as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from a State or anypolitical subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (b) Overpayments of certain employment taxes
 
@@ -40,11 +40,11 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (B) State employees
 
-&emsp;&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year, the term “wages” includes suchremuneration for services covered by an agreement made pursuant to section 218 of the Social Security Act as would be wages if such services constituted employment; the term “employer” includes a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing; the term “tax” or “tax imposed by section 3101(a)” includes, in the case of services covered by an agreement made pursuant to section 218 of the Social Security Act, an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of an agreement made pursuant to section 218 of the Social Security Act has been paid to the Secretary.
+&emsp;&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 218 of the Social Security Act as would be wages if such services constituted employment; the term “employer” includes a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing; the term “tax” or “tax imposed by section 3101(a)” includes, in the case of services covered by an agreement made pursuant to section 218 of the Social Security Act, an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of an agreement made pursuant to section 218 of the Social Security Act has been paid to the Secretary.
 
 #### (C) Employees of certain foreign affiliates
 
-&emsp;&emsp;For purposes of paragraph (1) of this subsection, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 3121(<i>l</i>) as would be wages if such services constituted employment; the term “employer” includes any American employer which has entered into an agreement pursuant to section 3121(<i>l</i>); the term “tax” or “tax imposed by section 3101(a),” includes, in the case of services covered by an agreement entered into pursuant to section 3121(<i>l</i>), an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of paragraph (1) of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of the agreement entered into pursuant to section 3121(<i>l</i>) has been paid to the Secretary.
+&emsp;&emsp;For purposes of paragraph (1) of this subsection, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 3121(l) as would be wages if such services constituted employment; the term “employer” includes any American employer which has entered into an agreement pursuant to section 3121(l); the term “tax” or “tax imposed by section 3101(a),” includes, in the case of services covered by an agreement entered into pursuant to section 3121(l), an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of paragraph (1) of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of the agreement entered into pursuant to section 3121(l) has been paid to the Secretary.
 
 #### (D) Governmental employees in Guam
 
@@ -197,13 +197,13 @@ Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 19
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–21 applicable to agreements entered into after Apr. 20, 1983, except that at election of any American employer such amendment shall also apply to any agreement entered into on or before Apr. 20, 1983, see section 321(f) of Pub. L. 98–21, set out as a note under section 406 of this title.
+Amendment by Pub. L. 98–21 applicable to agreements entered into after Apr. 20, 1983, except that atelection of any American employer such amendment shall also apply to any agreement entered into on or before Apr. 20, 1983, see section 321(f) of Pub. L. 98–21, set out as a note under section 406 of this title.
 
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1906(a)(23)(A), (C), (D), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. l. 94–455, set out as a note under section 6013 of this title.
 
-Section 1906(a)(23)(B)(iii) of Pub. L. 94–455 provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall apply with respect to remuneration paid after December 31, 1976.”
+Pub. L. 94–455, title XIX, §1906(a)(23)(B)(iii), Oct. 4, 1976, 90 Stat. 1826, provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall apply with respect to remuneration paid after December 31, 1976.”
 
 #### Effective Date of 1974 Amendment
 
@@ -235,7 +235,7 @@ Amendment by section 320(b)(5), (6) of Pub. L. 89–97 applicable with respect t
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the SocialSecurity Act, section 401 et seq. of Title 42, The Public Health and Welfare, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
+Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 
 #### Effective Date of 1954 Amendment
 

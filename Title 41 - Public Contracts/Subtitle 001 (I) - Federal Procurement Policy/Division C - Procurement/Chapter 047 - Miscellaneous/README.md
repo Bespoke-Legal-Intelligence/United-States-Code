@@ -13,8 +13,13 @@
 | [4709\.](%C2%A7%2004709%20-%20Implementation%20of%20electronic%20commerce%20capability.md) | Implementation of electronic commerce capability. |
 | [4710\.](%C2%A7%2004710%20-%20Limitations%20on%20tiering%20of%20subcontractors.md) | Limitations on tiering of subcontractors. |
 | [4711\.](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md) | Linking of award and incentive fees to acquisition outcomes. |
+| [4712\.](%C2%A7%2004712%20-%20Pilot%20program%20for%20enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+Pub. L. 112–239, div. A, title VIII, §828(a)(2), Jan. 2, 2013, 126 Stat. 1840, added item 4712.
 
 
 ---
@@ -32,3 +37,4 @@
 - [&sect; 04709 - Implementation of electronic commerce capability](%C2%A7%2004709%20-%20Implementation%20of%20electronic%20commerce%20capability.md)
 - [&sect; 04710 - Limitations on tiering of subcontractors](%C2%A7%2004710%20-%20Limitations%20on%20tiering%20of%20subcontractors.md)
 - [&sect; 04711 - Linking of award and incentive fees to acquisition outcomes](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md)
+- [&sect; 04712 - Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information](%C2%A7%2004712%20-%20Pilot%20program%20for%20enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)

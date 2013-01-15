@@ -20,7 +20,7 @@ For the sport that it governs, a national governing body shall—
 
 &emsp;(9) encourage and support research, development, and dissemination of information in the areas of sports medicine and sports safety.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 105–277, div. C, title I, §142(<i>o</i>), 112 Stat. 2681–608.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 105–277, div. C, title I, §142(o), 112 Stat. 2681–608.)
 
 Historical and Revision Notes
 

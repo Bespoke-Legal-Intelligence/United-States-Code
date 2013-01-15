@@ -26,7 +26,7 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;(H) any initiatives of the Commission that increase the competence of the staff of the Commission;
 
-&emsp;&emsp;(I) the actions taken by the Commission regarding employees of the Commission who have failed to perform their duties and circumstances under which the Commission has issued to employees a notice of termination; and
+&emsp;&emsp;(I) the actions taken by the Commission regarding employees of the Commission who have failed to perform their duties and circumstances under which the Commissionhas issued to employees a notice of termination; and
 
 &emsp;&emsp;(J) such other factors relating to the management of the Commission as the Comptroller General determines are appropriate;
 

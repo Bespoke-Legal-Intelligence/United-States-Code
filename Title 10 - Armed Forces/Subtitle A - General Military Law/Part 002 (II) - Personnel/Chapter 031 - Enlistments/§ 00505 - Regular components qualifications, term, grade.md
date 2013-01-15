@@ -1,6 +1,6 @@
 ### §505. Regular components: qualifications, term, grade
 
-(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age normore than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
 (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six 
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–290, §1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
 
-Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration oftheir minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
+Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
 
 #### Transfer of Functions
 

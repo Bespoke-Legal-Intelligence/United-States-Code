@@ -74,7 +74,7 @@ Strategic Petroleum Reserve Drawdown and Distribution Report.—The President sh
 
 “(c)
 
-Regional Reserve Report.—The President or his delegate shall submit to the Congress no later thanDecember 31, 1982, a report regarding the actions taken to comply with the provisions of section 157 of the Energy Policy and Conservation Act (42 U.S.C. 6237). Such report shall include an analysis of the economic benefits and costs of establishing Regional Petroleum Reserves, including—
+Regional Reserve Report.—The President or his delegate shall submit to the Congress no later than December 31, 1982, a report regarding the actions taken to comply with the provisions of section 157 of the Energy Policy and Conservation Act (42 U.S.C. 6237). Such report shall include an analysis of the economic benefits and costs of establishing Regional Petroleum Reserves, including—
 
 &emsp;“(1) an assessment of the ability to transport petroleum products to refiners, distributors, and end users within the regions specified in section 157(a) of such Act;
 

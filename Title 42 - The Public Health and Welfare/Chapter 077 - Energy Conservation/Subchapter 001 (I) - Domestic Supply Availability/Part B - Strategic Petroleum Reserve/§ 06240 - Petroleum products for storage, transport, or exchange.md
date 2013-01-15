@@ -26,7 +26,7 @@ The Secretary shall, to the greatest extent practicable, acquire petroleum produ
 
 #### (c) Procedures
 
-The Secretary shall develop, with public notice and opportunity for comment, proceduresconsistent with the objectives of this section to acquire petroleum for the Reserve. Such procedures shall take into account the need to—
+The Secretary shall develop, with public notice and opportunity for comment, procedures consistent with the objectives of this section to acquire petroleum for the Reserve. Such procedures shall take into account the need to—
 
 &emsp;(1) maximize overall domestic supply of crude oil (including quantities stored in private sector inventories);
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 101–548 inserted “with regard to future storage of refi
 
 Pub. L. 101–383, §7, added subsec. (g).
 
-<b>1986</b>—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted “fiscal year 1987 and continuing through fiscal years 1988 and 1989” for “fiscal year 1986 and continuing through fiscal years 1987 and 1988”, “750,000,000 barrels” for “527,000,000 barrels”, and “at the highest practicable fill rate achievable, subject to the availability of appropriated funds” for “at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleumproducts acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution”.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted “fiscal year 1987 and continuing through fiscal years 1988 and 1989” for “fiscal year 1986 and continuing through fiscal years 1987 and 1988”, “750,000,000 barrels” for “527,000,000 barrels”, and “at the highest practicable fill rate achievable, subject to the availability of appropriated funds” for “at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution”.
 
 Pub. L. 99–272, §7102(a), added par. (3).
 
@@ -136,17 +136,17 @@ Subsec. (e). Pub. L. 96–294, §803, added subsec. (e).
 
 #### Effective Date of 1982 Amendment
 
-Section 4(a)(2) of Pub. L. 97–229 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect July 1, 1982.”
+Pub. L. 97–229, §4(a)(2), Aug. 3, 1982, 96 Stat. 251, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect July 1, 1982.”
 
 #### Effective Date of 1981 Amendment
 
-Section 1038 of title X of Pub. L. 97–35 provided that: “The provisions of this title \[enacting sections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title X, §1038, Aug. 13, 1981, 95 Stat. 621, provided that: “The provisions of this title \[enacting sections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendment
 
-Section 801(b) of Pub. L. 96–294 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 30, 1980\], and shall apply with respect to the entirety of fiscal year 1981 (and each fiscal year thereafter).”
+Pub. L. 96–294, title VIII, §801(b), June 30, 1980, 94 Stat. 775, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[June 30, 1980\], and shall apply with respect to the entirety of fiscal year 1981 (and each fiscal year thereafter).”
 
-Section 802(b) of Pub. L. 96–294 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1980.”
+Pub. L. 96–294, title VIII, §802(b), June 30, 1980, 94 Stat. 776, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1980.”
 
 #### Filling Strategic Petroleum Reserve to Capacity
 
@@ -184,7 +184,7 @@ Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, pro
 
 #### Allocation to Strategic Petroleum Reserve of Lower Tier Crude Oil and Federal Royalty Oil; Procedures Applicable, Authorities, Etc.
 
-Section 805 of Pub. L. 96–294 provided that:
+Pub. L. 96–294, title VIII, §805, June 30, 1980, 94 Stat. 777, provided that:
 
 “(a)(1) In order to carry out the requirement of the amendment made by section 801 of this Act \[amending this section and enacting provision set out as a note above\] and to carry out the policies and objectives established in sections 151 and 160(b)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6231 and 6240(b)(1)) the President shall, within 60 days after the date of the enactment of this Act \[June 30, 1980\], promulgate and make effective an amendment to the provisions of the regulation under section 4(a) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 753(a)\] relating to entitlements, which has the same effect as allocating lower tier crude oil to the Government for storage in the Strategic Petroleum Reserve. Such amendment shall not apply with respect to crude oil purchased after September 30, 1981, for storage in such reserve.
 
@@ -220,11 +220,11 @@ Section 805 of Pub. L. 96–294 provided that:
 
 &emsp;“(3) the term ‘Federal royalty oil’ means crude oil which the United States is entitled to receive in kind as royalties from production on Federal land (as such term is defined in section 3(10) of the Energy Policy and Conservation Act (42 U.S.C. 6202(10)); and
 
-&emsp;“(4) the term ‘proceeds from the sale of Federal royalty oil’ means that portion of the amounts deposited into the Treasury of the United States from the sale of Federal royalty oil which is not otherwise required to be disposed of (other than as miscellaneous receipts) pursuant to (A) the provisions of section 35 of the Act of February 25, 1920, as amended (41 Stat. 450; 30 U.S.C. 191), commonly known as the Mineral Lands Leasing Act, or (B) the provisions of any other law.”
+&emsp;“(4) the term ‘proceeds from the sale of Federal royalty oil’ means that portion of the amounts deposited into the Treasury of the United States from the sale of Federal royalty oil which is not otherwise required to be disposed of (other than as miscellaneous receipts) pursuant to (A) the provisions of section 35 of the Act of February 25, 1920, as amended (41 Stat. 450; 30 U.S.C. 191), commonly known as the MineralLands Leasing Act, or (B) the provisions of any other law.”
 
 #### Rate of Fill of Strategic Petroleum Reserve
 
-Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: “That the President shall immediately seek to undertake, and thereafter continue, crude oil acquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, ArmedForces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way.”
+Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: “That the President shall immediately seek to undertake, and thereafter continue, crude oil acquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, Armed Forces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way.”
 
 #### Ex. Ord. No. 12231. Strategic Petroleum Reserve
 

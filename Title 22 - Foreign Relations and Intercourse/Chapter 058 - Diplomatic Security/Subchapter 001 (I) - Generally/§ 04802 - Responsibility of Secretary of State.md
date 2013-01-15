@@ -82,7 +82,7 @@ The Secretary of State shall—
 
 &emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>2</sup>
 
-&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for allFederal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
+&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
 
 #### (d) Federal agency
 

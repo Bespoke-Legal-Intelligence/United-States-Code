@@ -42,5 +42,5 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 
 #### Effective Date of 1962 Amendment
 
-Section 3 of Pub. L. 87–751 provided that: “This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
+Pub. L. 87–751, §3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
 

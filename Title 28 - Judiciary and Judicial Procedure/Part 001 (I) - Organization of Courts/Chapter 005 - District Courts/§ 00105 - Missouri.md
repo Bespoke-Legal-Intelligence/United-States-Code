@@ -6,7 +6,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 (a) The Eastern District comprises three divisions.
 
-&emsp;&emsp;(1) The Eastern Division comprises the counties of Crawford, Dent, Franklin, Gasconade, Iron, Jefferson, Lincoln, Maries, Phelps, Saint Charles, Saint Francois, Saint Genevieve, Saint Louis, Warren, and Washington, and the city of Saint Louis.
+&emsp;&emsp;(1) The Eastern Division comprises the counties of Crawford, Dent, Franklin, Gasconade, Jefferson, Lincoln, Maries, Phelps, Saint Charles, Saint Francois, Saint Louis, Warren, and Washington, and the city of Saint Louis.
 
 &emsp;&emsp;Court for the Eastern Division shall be held at Saint Louis.
 
@@ -14,7 +14,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Northern Division shall be held at Hannibal.
 
-&emsp;&emsp;(3) The Southeastern Division comprises the counties of Bollinger, Butler, CapeGirardeau, Carter, Dunklin, Madison, Mississippi, New Madrid, Pemiscot, Perry, Reynolds, Ripley, Scott, Shannon, Stoddard, and Wayne.
+&emsp;&emsp;(3) The Southeastern Division comprises the counties of Bollinger, Butler, Cape Girardeau, Carter, Dunklin, Iron, Madison, Mississippi, New Madrid, Pemiscot, Perry, Reynolds, Ripley, Saint Genevieve, Scott, Shannon, Stoddard, and Wayne.
 
 &emsp;&emsp;Court for the Southeastern Division shall be held at Cape Girardeau.
 
@@ -42,7 +42,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southern Division shall be held at Springfield.
 
-(June 25, 1948, ch. 646, 62 Stat. 884; Pub. L. 87–461, May 31, 1962, 76 Stat. 85; Pub. L. 96–462, §4(a), Oct. 15, 1980, 94 Stat. 2053.)
+(June 25, 1948, ch. 646, 62 Stat. 884; Pub. L. 87–461, May 31, 1962, 76 Stat. 85; Pub. L. 96–462, §4(a), Oct. 15, 1980, 94 Stat. 2053; Pub. L. 112–188, §2, Oct. 5, 2012, 126 Stat. 1433.)
 
 #### Historical and Revision Notes
 
@@ -58,15 +58,23 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–188, §2(1), struck out “Iron,” after “Gasconade,” and “Saint Genevieve,” after “Saint Francois,”.
+
+Subsec. (a)(3). Pub. L. 112–188, §2(2), inserted “Iron,” after “Dunklin,” and “Saint Genevieve,” after “Ripley,”.
+
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–462, §4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
 
 Subsec. (a)(2). Pub. L. 96–462, §4(a)(2), added Audrain and Montgomery counties to the Northern Division of the Eastern District.
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–461 transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–188 effective on the 60th day after Oct. 5, 2012, see section 4 of Pub. L. 112–188, set out as note under section 104 of this title.
+
 #### Effective Date of 1980 Amendment; Savings Provision
 
 Amendment by Pub. L. 96–462 effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see section 7 of Pub. L. 96–462, set out as a note under section 84 of this title.
 
-Section 4(b) of Pub. L. 96–462 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in the United States District Court for the Eastern District of Missouri on such date.”
+Pub. L. 96–462, §4(b), Oct. 15, 1980, 94 Stat. 2053, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in the United States District Court for the Eastern District of Missouri on such date.”
 

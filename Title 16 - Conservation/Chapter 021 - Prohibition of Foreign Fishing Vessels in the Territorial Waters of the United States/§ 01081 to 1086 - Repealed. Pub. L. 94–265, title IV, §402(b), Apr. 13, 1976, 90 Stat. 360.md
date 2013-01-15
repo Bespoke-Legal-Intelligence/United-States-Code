@@ -14,5 +14,5 @@ Section 1086, Pub. L. 88–308, §6, as added Pub. L. 91–514, §3, Oct. 27, 19
 
 #### Effective Date of Repeal
 
-Section 402(b) of Pub. L. 94–265 provided that repeal of sections 1081 to 1086 of this title is effective Mar. 1, 1977.
+Pub. L. 94–265, title IV, §402(b), Apr. 13, 1976, 90 Stat. 360, provided that repeal of sections 1081 to 1086 of this title is effective Mar. 1, 1977.
 

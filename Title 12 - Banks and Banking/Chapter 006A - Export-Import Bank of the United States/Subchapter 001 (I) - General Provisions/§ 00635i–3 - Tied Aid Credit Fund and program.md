@@ -150,11 +150,11 @@ The Congress finds that—
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aidcredit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 #### (d) Consistency with Arrangement
 
-Any export financing involving the use of a grant under the tied aid credit program shall be consistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
+Any export financing involving the use of a grant under the tied aid credit program shall beconsistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
 
 #### (e) Authorization
 
@@ -236,7 +236,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb.12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
 
 #### Prior Provisions
 
@@ -346,7 +346,7 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 
 #### Use of Fund To Discourage Predatory Financing Practices
 
-Section 3302(a) of Pub. L. 100–418 provided that: “The Congress finds that—
+Pub. L. 100–418, title III, §3302(a), Aug. 23, 1988, 102 Stat. 1383, provided that: “The Congress finds that—
 
 &emsp;“(1) negotiations have led to an international agreement to increase the grant element required in tied aid credit offers;
 

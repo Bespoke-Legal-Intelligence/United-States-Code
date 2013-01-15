@@ -96,7 +96,7 @@ Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, On
 
 #### Prior Provisions
 
-A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility studyand report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility study and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 
@@ -114,11 +114,11 @@ Subsec. (d)(1)(C). Pub. L. 102–573, §902(7), substituted “appropriated” f
 
 #### Effective Date of 1992 Amendment
 
-Section 602(a)(2) of Pub. L. 102–573 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1993.”
+Pub. L. 102–573, title VI, §602(a)(2), Oct. 29, 1992, 106 Stat. 4571, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1993.”
 
 #### Effective Date
 
-Section 601(c) of Pub. L. 100–713 provided that:
+Pub. L. 100–713, title VI, §601(c), Nov. 23, 1988, 102 Stat. 4826, provided that:
 
 “(1) Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act \[this section\] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section \[Nov. 23, 1988\].
 

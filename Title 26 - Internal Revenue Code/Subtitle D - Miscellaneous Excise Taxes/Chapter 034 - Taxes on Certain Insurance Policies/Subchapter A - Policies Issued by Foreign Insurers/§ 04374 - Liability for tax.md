@@ -22,9 +22,9 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1965 Amendment
 
-Section 804(c) of Pub. L. 89–44 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 1965. The amendments made by subsection (b) \[amending section 4371 of this title\] shall apply with respect to policies, bonds, and contracts with respect to which the tax imposed by section 4371 of the Code is required to be paid on the basis of a return.”
+Pub. L. 89–44, title VIII, §804(c), June 21, 1965, 79 Stat. 160, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 1965. The amendments made by subsection (b) \[amending section 4371 of this title\] shall apply with respect to policies, bonds, and contracts with respect to which the tax imposed by section 4371 of the Code is required to be paid on the basis of a return.”
 
 #### Determination of Partnership as Continuing or Terminated Partnership
 
-Section 141(b) of Pub. L. 85–859 mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
+Pub. L. 85–859, title I, §141(b), Sept. 2, 1958, 72 Stat. 1304, mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859 shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
 

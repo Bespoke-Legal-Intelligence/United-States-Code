@@ -46,7 +46,7 @@ The Secretary may provide technical assistance for the Department, either direct
 
 &emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the Ninth Circuit, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 
-&emsp;&emsp;(B) upon the filing of any petition under subparagraph (A), shall forthwith transmit copies of the petition to the Secretary and the Attorney General of the United States, who shall represent the Secretary in the litigation.
+&emsp;&emsp;(B) upon the filing of any petition under subparagraph (A), shall forthwith transmit copies of the petition to the Secretary andthe Attorney General of the United States, who shall represent the Secretary in the litigation.
 
 #### (2) Procedure
 

@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) cargo loaded on a vessel in a port in the United States mainland for transportation to Alaska, Hawaii, or any possession of the United States for ultimate use or consumption in Alaska, Hawaii, or any possession of the United States,
 
-&emsp;&emsp;(B) cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United Statesfor transportation to the United States mainland, Alaska, Hawaii, or such a possession for ultimate use or consumption in the United States mainland, Alaska, Hawaii, or such a possession,
+&emsp;&emsp;(B) cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland, Alaska, Hawaii, or such a possession for ultimate use or consumption in the United States mainland, Alaska, Hawaii, or such a possession,
 
 &emsp;&emsp;(C) the unloading of cargo described in subparagraph (A) or (B) in Alaska, Hawaii, or any possession of the United States, or in the United States mainland, respectively, or
 
@@ -114,7 +114,7 @@ No tax shall be imposed under this subchapter on the United States or any agency
 
 #### (1) In general
 
-&emsp;Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations shall apply in respect of the tax imposed by this subchapter (and in respect of persons liable therefor) as if such tax were a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the value of the cargo.
+&emsp;Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations shall apply in respect of the tax imposed by this subchapter (and in respect of persons liable therefor) as if such tax were a customs duty. For purposes of the preceding sentence,any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the value of the cargo.
 
 #### (2) Jurisdiction of courts and agencies
 
@@ -180,15 +180,15 @@ Amendment by Pub. L. 109–59 effective before, on, and after Aug. 10, 2005, see
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(i)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\].”
+Pub. L. 104–188, title I, §1704(i)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\].”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 2002(b) of Pub. L. 100–647 effective as if included in the provision of the Harbor Maintenance Revenue Act of 1986, Pub. L. 99–662, title XIV, to which it relates, see section 2002(d) of Pub. L. 100–647, set out as a note under section 4042 of this title.
 
-Section 6109(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987.”
+Pub. L. 100–647, title VI, §6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987.”
 
-Section 6110(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date
 
@@ -196,5 +196,5 @@ Section effective Apr. 1, 1987, see section 1402(c) of Pub. L. 99–662, set out
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

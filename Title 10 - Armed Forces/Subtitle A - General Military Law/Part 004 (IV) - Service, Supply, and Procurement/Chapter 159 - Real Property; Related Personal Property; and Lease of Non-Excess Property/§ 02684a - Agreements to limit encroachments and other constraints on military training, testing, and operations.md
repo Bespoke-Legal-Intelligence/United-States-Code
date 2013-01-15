@@ -126,7 +126,7 @@ Definitions.—In this section:
 
 Subsec. (c). Pub. L. 112–81, §2813(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Chapter 63 of title 31 shall not apply to any agreement entered into under this section.”
 
-Subsec. (d)(3). Pub. L. 112–81, §2813(3)(A), inserted “, and the monitoring and enforcement of any right,title, or interest in,” after “resources on” and “and monitoring and enforcement” after “natural resource management”, and inserted at end “Any such payment by the United States—
+Subsec. (d)(3). Pub. L. 112–81, §2813(3)(A), inserted “, and the monitoring and enforcement of any right, title, or interest in,” after “resources on” and “and monitoring and enforcement” after “natural resource management”, and inserted at end “Any such payment by the United States—
 
 &emsp;“(A) may be paid in a lump sum and include an amount intended to cover the future costs of natural resource management and monitoring and enforcement; and
 

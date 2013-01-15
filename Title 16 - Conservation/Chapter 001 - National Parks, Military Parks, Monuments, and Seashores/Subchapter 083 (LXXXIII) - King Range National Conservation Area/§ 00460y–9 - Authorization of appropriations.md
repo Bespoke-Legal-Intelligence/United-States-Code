@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 #### Amendments
 

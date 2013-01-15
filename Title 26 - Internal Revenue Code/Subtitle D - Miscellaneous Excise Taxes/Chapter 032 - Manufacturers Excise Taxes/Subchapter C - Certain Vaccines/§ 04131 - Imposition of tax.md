@@ -74,15 +74,15 @@ Combinations of vaccines.—If any taxable vaccine is included in more than 1 ca
 
 #### Effective Date of 1997 Amendment
 
-Section 904(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 4132 of this title\] shall take effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §904(d), Aug. 5, 1997, 111 Stat. 874, provided that: “The amendments made by this section \[amending this section and section 4132 of this title\] shall take effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date
 
-Section 9201(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and section 4132 of this title and amending sections 4221 and 6416 of this title\] shall take effect on January 1, 1988.”
+Pub. L. 100–203, title IX, §9201(d), Dec. 22, 1987, 101 Stat. 1330–330, provided that: “The amendments made by this section \[enacting this section and section 4132 of this title and amending sections 4221 and 6416 of this title\] shall take effect on January 1, 1988.”
 
 #### Floor Stocks Tax
 
-Section 13421(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13421(c), Aug. 10, 1993, 107 Stat. 566, provided that:
 
 “(1)
 

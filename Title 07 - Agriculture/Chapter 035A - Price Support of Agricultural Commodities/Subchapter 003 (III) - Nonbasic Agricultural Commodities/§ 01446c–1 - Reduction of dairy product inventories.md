@@ -30,5 +30,5 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Dairy Program Operation Report
 
-Section 107 of Pub. L. 97–98 provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
+Pub. L. 97–98, title I, §107, Dec. 22, 1981, 95 Stat. 1220, provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
 

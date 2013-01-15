@@ -4,7 +4,7 @@
 
 Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the “Council”) to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
 
-&emsp;(1) The members of the Council shall be appointed from among citizens of the United States who are not regular full-time employees of the United States and shall be selected for appointment so as to provide as nearly as practicable a broad representation of the various segments of the railroad and rail shipper industries.
+&emsp;(1) The members of the Council shall be appointed from among citizens of the United States who are not regular full-time employees of the United States and shall be selectedfor appointment so as to provide as nearly as practicable a broad representation of the various segments of the railroad and rail shipper industries.
 
 &emsp;(2) Nine of the members shall be appointed from senior executive officers of organizations engaged in the railroad and rail shipping industries, which 9 members shall be the voting members of the Council. Council action and Council positions shall be determined by a majority vote of the members present. A majority of such voting members shall constitute a quorum. Of such 9 voting members—
 
@@ -56,11 +56,11 @@ Expenses.—(1) The members of the Council shall receive no compensation for the
 
 (e)
 
-Meetings.—The Council shall meet at least semi-annually and shall hold other meetings at the call of the Council Chairman. Appropriate Federal facilities, where available, may be used for such meetings. Whenever the Council, or a committee of the Council, considers matters that affect the jurisdictional interests of Federal agencies that are not represented on the Council, the Council Chairman may invite the heads of such agencies, or their designees, to participate in the deliberations of the Council.
+Meetings.—The Council shall meet at least semi-annually and shall hold other meetings at the call of the Council Chairman. Appropriate Federal facilities, where available, may be used for such meetings. Whenever the Council, or acommittee of the Council, considers matters that affect the jurisdictional interests of Federal agencies that are not represented on the Council, the Council Chairman may invite the heads of such agencies, or their designees, to participate in the deliberations of the Council.
 
 (f)
 
-Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues itconsiders significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
+Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues it considers significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
 
 (2) To the extent the Council addresses specific grain car issues, it shall coordinate such activities with the National Grain Car Council. The Secretary and Chairman shall cooperate with the Council to provide research, technical and other reasonable support in developing any reports and policy statements required or authorized by this subsection.
 

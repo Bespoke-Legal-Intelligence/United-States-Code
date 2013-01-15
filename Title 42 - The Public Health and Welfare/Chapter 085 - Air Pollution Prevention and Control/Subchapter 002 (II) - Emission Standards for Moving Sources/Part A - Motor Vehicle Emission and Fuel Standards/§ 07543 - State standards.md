@@ -30,7 +30,7 @@ Nothing in this part shall preclude or deny to any State or political subdivisio
 
 #### (1) Prohibition on certain State standards
 
-&emsp;No State or any political subdivision thereof shall adopt or attempt to enforce any standard or other requirement relating to the control ofemissions from either of the following new nonroad engines or nonroad vehicles subject to regulation under this chapter—
+&emsp;No State or any political subdivision thereof shall adopt or attempt to enforce any standard or other requirement relating to the control of emissions from either of the following new nonroad engines or nonroad vehicles subject to regulation under this chapter—
 
 &emsp;&emsp;(A) New engines which are used in construction equipment or vehicles or used in farm equipment or vehicles and which are smaller than 175 horsepower.
 

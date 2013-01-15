@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (B) Investment in employer securities
 
-&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (or such longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(<i>l</i>)) or used to repay loans used to purchase such securities.
+&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (or such longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(l)) or used to repay loans used to purchase such securities.
 
 #### (C) Allocation requirements
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (B) Treatment as employer contributions
 
-&emsp;&emsp;Any increase in benefits under paragraph (2)(B)(ii) or (3)(A), or any allocation of anyamount (or income allocable thereto) to any account under paragraph (2)(C), shall be treated as an annual benefit or annual addition for purposes of section 415.
+&emsp;&emsp;Any increase in benefits under paragraph (2)(B)(ii) or (3)(A), or any allocation of any amount (or income allocable thereto) to any account under paragraph (2)(C), shall be treated as an annual benefit or annual addition for purposes of section 415.
 
 #### (C) 10-year participation requirement
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (E) Special rule for participation requirement
 
-&emsp;&emsp;For purposes of paragraph (2)(A), all employers treated as 1 employer under section 414(b), (c), (m), or (<i>o</i>) shall be treated as 1 employer.
+&emsp;&emsp;For purposes of paragraph (2)(A), all employers treated as 1 employer under section 414(b), (c), (m), or (o) shall be treated as 1 employer.
 
 #### (6) Subsection not to apply to employer in bankruptcy
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1990 Amendment
 
-Section 12003 of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XII, §12003, Nov. 5, 1990, 104 Stat. 1388–566, provided that:
 
 “(a)
 
@@ -310,9 +310,9 @@ Exception.—The amendments made by this subtitle shall not apply to any reversi
 
 Amendment by section 1011A(f)(1)–(3), (6), (7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 5072(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reversions after December 31, 1988.”
+Pub. L. 100–647, title V, §5072(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reversions after December 31, 1988.”
 
-Section 6069(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6069(b), Nov. 10, 1988, 102 Stat. 3704, provided that:
 
 “(1)
 
@@ -332,7 +332,7 @@ Exception.—The amendment made by subsection (a) shall not apply to any reversi
 
 #### Effective Date
 
-Section 1132(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011A(f)(4), (5), Nov. 10, 1988, 102 Stat. 3479, provided that:
+Pub. L. 99–514, title XI, §1132(c), Oct. 22, 1986, 100 Stat. 2480, as amended by Pub. L. 100–647, title I, §1011A(f)(4), (5), Nov. 10, 1988, 102 Stat. 3479, provided that:
 
 “(1)
 
@@ -392,7 +392,7 @@ Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided
 
 &emsp;“(B) the welfare benefit plan provides retiree health benefits, and
 
-&emsp;“(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are lessthan the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
+&emsp;“(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are less than the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
 
 “(3) For purposes of the Internal Revenue Code of 1986, any transfer of assets to which paragraph (1) applies shall be treated as a reversion of such assets to the employer maintaining the plan which is includible in the gross income of such employer and subject to the tax imposed by section 4980 of such Code.”
 

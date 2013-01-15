@@ -154,7 +154,7 @@ Termination.—Except as otherwise provided by an Act of Congress, the pilot pro
 
 #### Purpose of 1986 Amendment
 
-Section 4217 of Pub. L. 99–570 provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
+Pub. L. 99–570, title IV, §4217, Oct. 27, 1986, 100 Stat. 3207–146, provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

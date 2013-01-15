@@ -154,5 +154,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Publicity Through Communications Media of Availability of Default Reduction Program
 
-Section 2005(b) of Pub. L. 101–239 provided that: “The Secretary of Education shall, from funds available through student loan collections, commencing not less than 30 days before the beginning of the default reduction program required by the amendment made by this section \[amending this section\], and continuing throughout the duration of such program, widely publicize (through various communications media) the availability of the default reduction program.”
+Pub. L. 101–239, title II, §2005(b), Dec. 19, 1989, 103 Stat. 2118, provided that: “The Secretary of Education shall, from funds available through student loan collections, commencing not less than 30 days before the beginning of the default reduction program required by the amendment made by this section \[amending this section\], and continuing throughout the duration of such program, widely publicize (through various communications media) the availability of the default reduction program.”
 

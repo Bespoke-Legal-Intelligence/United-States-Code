@@ -72,11 +72,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 1993 Amendment
 
-Section 202(b) of Pub. L. 103–178 provided that: “The amendments made by subsection (a) \[amending thissection and sections 2011, 2021, 2031, 2032, 2034, 2035, 2051, 2052, 2054, 2071, 2094, 2095, 2131, and 2154 of this title\] shall take effect as of February 1, 1993.”
+Pub. L. 103–178, title II, §202(b), Dec. 3, 1993, 107 Stat. 2027, provided that: “The amendments made by subsection (a) \[amending this section and sections 2011, 2021, 2031, 2032, 2034, 2035, 2051, 2052, 2054, 2071, 2094, 2095, 2131, and 2154 of this title\] shall take effect as of February 1, 1993.”
 
 #### Effective Date
 
-Section 805 of Pub. L. 102–496 provided that: “The amendments made by sections 802 and 803 \[enacting this chapter and amending sections 403n, 403r, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces, and provisions set out as a note under section 402 of this title\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–496, title VIII, §805, Oct. 24, 1992, 106 Stat. 3254, provided that: “The amendments made by sections 802 and 803 \[enacting this chapter and amending sections 403n, 403r, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces, and provisions set out as a note under section 402 of this title\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496
 
@@ -120,7 +120,7 @@ Pub. L. 100–453, title III, §302(d)(3), Sept. 29, 1988, 102 Stat. 1907, provi
 
 Pub. L. 100–178, title IV, §402(c)–(e), Dec. 2, 1987, 101 Stat. 1014, provided that:
 
-“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 403n of this title and sections 221(<i>o</i>)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
+“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 403n of this title and sections 221(o)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
 
 “(2) The amendment made by subsection (b)(2) \[amending section 304 of Pub. L. 88–643\] shall take effect on January 1, 1987, the effective date of the Federal Employees’ Retirement System Act of 1986.
 
@@ -136,7 +136,7 @@ Pub. L. 97–269, title VI, §613, Sept. 27, 1982, 96 Stat. 1154, provided that:
 
 “(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
 
-“(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
+“(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
 
 Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
@@ -154,7 +154,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 “(g) The amendment to recompute a reduced annuity during periods when not married in section 202 \[amending section 221(b) of Pub. L. 88–643\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to November 1, 1974.
 
-“(h) Annuity increases under sections 204 \[enacting section 221(<i>l</i>) of Pub. L. 88–643\] and 214 \[set out below\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to August 1, 1974, or the date on which the annuity commences, whichever is later.”
+“(h) Annuity increases under sections 204 \[enacting section 221(l) of Pub. L. 88–643\] and 214 \[set out below\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to August 1, 1974, or the date on which the annuity commences, whichever is later.”
 
 Pub. L. 93–210, §1(b), Dec. 28, 1973, 87 Stat. 908, provided that: “The amendments made by subsection (a) \[amending section 291(b) of Pub. L. 88–643\] shall apply only with respect to annuities which commence on or after July 2, 1973.”
 
@@ -174,7 +174,7 @@ Pub. L. 103–36, §1, June 8, 1993, 107 Stat. 104, provided that: “This Act \
 
 #### Short Title of 1992 Amendment
 
-Section 801 of title VIII of Pub. L. 102–496 provided that: “This title \[enacting this chapter, amending sections 403n, 403r, 403r–1, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the ‘CIARDS Technical Corrections Act of 1992’.”
+Pub. L. 102–496, title VIII, §801, Oct. 24, 1992, 106 Stat. 3196, provided that: “This title \[enacting this chapter, amending sections 403n, 403r, 403r–1, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the ‘CIARDS Technical Corrections Act of 1992’.”
 
 #### Short Title of 1982 Amendment
 
@@ -182,11 +182,11 @@ Pub. L. 97–269, title VI, §601, Sept. 27, 1982, 96 Stat. 1145, provided that:
 
 #### Short Title
 
-Section 1(a) of Pub. L. 88–643, as added by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Central Intelligence Agency Retirement Act’.”
+Pub. L. 88–643, §1(a), as added by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Central Intelligence Agency Retirement Act’.”
 
 #### Savings Provision
 
-Section 804 of Pub. L. 102–496 provided that:
+Pub. L. 102–496, title VIII, §804, Oct. 24, 1992, 106 Stat. 3253, provided that:
 
 “(a)
 
@@ -200,7 +200,7 @@ References.—Any reference in any other Act, or in any Executive order, rule, o
 
 Pub. L. 100–453, title III, §302(e), Sept. 29, 1988, 102 Stat. 1907, provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[enacting section 226 and amending sections 221, 224, and 225 of Pub. L. 88–643\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.”
 
-For provision that any new spending authority (within the meaning of section 401(c) of the CongressionalBudget Act of 1974) provided pursuant to the amendments made to sections 224 and 225 of Pub. L. 88–643 by section 307 of Pub. L. 102–88 be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 307(c) of Pub. L. 102–88, set out as a Compliance With Budget Act note under section 403p of this title.
+For provision that any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974) provided pursuant to the amendments made to sections 224 and 225 of Pub. L. 88–643 by section 307 of Pub. L. 102–88 be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 307(c) of Pub. L. 102–88, set out as a Compliance With Budget Act note under section 403p of this title.
 
 #### Central Intelligence Agency Retirement and Disability Fund; Annuity Increase Payment; Monthly Rate
 
@@ -210,7 +210,7 @@ Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 “(b) In lieu of any increase based on an increase under subsection (a) of this section, an annuity payable from the Central Intelligence Agency Retirement and Disability Fund to the surviving spouse of an annuitant, which is based on a separation occurring prior to October 20, 1969, shall be increased by $132 per annum.
 
-“(c) The monthly rate of an annuity resulting from an increase under this section shall be considered as the monthly rate of annuity payable under section 221(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended (78 Stat. 1043; 50 U.S.C. 403 note) \[section 221 of Pub. L. 88–643 prior to enactment of Pub. L. 102–496; see 50 U.S.C. 2031(a)\] for purposes of computing the minimum annuity under new section 221(<i>l</i>) of the Act, as added by section 204 of this Act.”
+“(c) The monthly rate of an annuity resulting from an increase under this section shall be considered as the monthly rate of annuity payable under section 221(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended (78 Stat. 1043; 50 U.S.C. 403 note) \[section 221 of Pub. L. 88–643 prior to enactment of Pub. L. 102–496; see 50 U.S.C. 2031(a)\] for purposes of computing the minimum annuity under new section 221(l) of the Act, as added by section 204 of this Act.”
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 

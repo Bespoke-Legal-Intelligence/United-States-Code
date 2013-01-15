@@ -20,7 +20,7 @@
 
 (2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
 
-(3) A hearing to be held within an area served by a regional office of the Department may, forcause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+(3) A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
 
 &emsp;(A) if the case involves interpretation of law of general application affecting other claims;
 

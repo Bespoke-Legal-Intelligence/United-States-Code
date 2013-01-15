@@ -24,11 +24,11 @@ The Secretary of State is authorized to—
 
 &emsp;(k) subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the Fine Arts Committee of the Department of State for the Diplomatic Rooms of the Department;
 
-&emsp;(<i>l</i>) make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose; and
+&emsp;(l) make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose; and
 
 &emsp;(m) establish, maintain, and operate passport and dispatch agencies.
 
-(Aug. 1, 1956, ch. 841, title I, §3, 70 Stat. 890; Pub. L. 95–45, §2, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §9(a)(7), 42 F.R. 62461, 91 Stat.1639; Pub. L. 95–426, title I, §108(a), Oct. 7, 1978, 92 Stat. 966; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 100–204, title I, §126(b), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 102–138, title I, §166, Oct. 28, 1991, 105 Stat. 676; Pub. L. 103–236, title I, §162(k)(3), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title I, §3, 70 Stat. 890; Pub. L. 95–45, §2, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §9(a)(7), 42 F.R. 62461, 91 Stat. 1639; Pub. L. 95–426, title I, §108(a), Oct. 7, 1978, 92 Stat. 966; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 100–204, title I, §126(b), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 102–138, title I, §166, Oct. 28, 1991, 105 Stat. 676; Pub. L. 103–236, title I, §162(k)(3), Apr. 30, 1994, 108 Stat. 409.)
 
 #### Codification
 
@@ -40,7 +40,7 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 <b>1994</b>—Subsec. (m). Pub. L. 103–236 added subsec. (m).
 
-<b>1991</b>—Subsec. (<i>l</i>). Pub. L. 102–138 added subsec. (<i>l</i>).
+<b>1991</b>—Subsec. (l). Pub. L. 102–138 added subsec. (l).
 
 <b>1987</b>—Subsec. (k). Pub. L. 100–204 added subsec. (k).
 
@@ -50,9 +50,9 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 108(b) of Pub. L. 95–426 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title I, §108(b), Oct. 7, 1978, 92 Stat. 966, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
 

@@ -4,5 +4,5 @@ Section, added Pub. L. 85–861, §1(121)(A), Sept. 2, 1958, 72 Stat. 1494; amen
 
 #### Effective Date of Repeal
 
-Section 1501(c)(26) of Pub. L. 104–106 provided that the repeal made by that section is effective on the effective date specified in section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Pub. L. 104–106, div. A, title XV, §1501(c)(26), Feb. 10, 1996, 110 Stat. 499, provided that the repeal made by that section is effective on the effective date specified in section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

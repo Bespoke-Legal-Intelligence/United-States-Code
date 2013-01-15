@@ -1,10 +1,12 @@
 ### §4041. Implementation of program
 
-Following such consultation with representatives of the insurance industry as may be necessary, the Director shall implement the flood insurance program authorized under subchapter I of this chapter in accordance with the provisions of part A of this subchapter and, if a determination is made by him under section 4071 of this title, under part B of this subchapter.
+Following such consultation with representatives of the insurance industry as may be necessary, the Administrator shall implement the flood insurance program authorized under subchapter I of this chapter in accordance with the provisions of part A of this subchapter and, if a determination is made by him under section 4071 of this title, under part B of this subchapter.
 
-(Pub. L. 90–448, title XIII, §1330, Aug. 1, 1968, 82 Stat. 581; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1330, Aug. 1, 1968, 82 Stat. 581; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director”.
 
 <b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
 

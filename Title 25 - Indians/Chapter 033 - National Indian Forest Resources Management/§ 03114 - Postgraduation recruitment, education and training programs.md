@@ -6,11 +6,11 @@ The Secretary shall establish and maintain a program to attract Indian and Alask
 
 #### (b) Postgraduate intergovernmental internships
 
-For the purposes of training, skill development and orientation of Indian, Alaska native,<sup>1</sup> and Federal forestry personnel, and the enhancement of tribal and Bureau of Indian Affairs forestry programs, the Secretary shall establish and actively conduct a program for the cooperative internship of Federal, Indian, and Alaska Native forestry personnel. Such program shall—
+For the purposes of training, skill development and orientation of Indian, Alaska native,<sup>1</sup>and Federal forestry personnel, and the enhancement of tribal and Bureau of Indian Affairs forestry programs, the Secretary shall establish and actively conduct a program for the cooperative internship of Federal, Indian, and Alaska Native forestry personnel. Such program shall—
 
 &emsp;(1) for agencies within the Department of the Interior—
 
-&emsp;&emsp;(A) provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-relatedprograms of other agencies of the Department of the Interior, and
+&emsp;&emsp;(A) provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-related programs of other agencies of the Department of the Interior, and
 
 &emsp;&emsp;(B) provide for the internship of forestry personnel from other Department of the Interior agencies within the Bureau of Indian Affairs and, with the consent of the tribe, within tribal forestry programs;
 

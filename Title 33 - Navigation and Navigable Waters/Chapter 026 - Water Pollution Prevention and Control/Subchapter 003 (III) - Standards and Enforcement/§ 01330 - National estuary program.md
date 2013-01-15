@@ -14,11 +14,11 @@
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and NewJersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; and Peconic Bay, New York.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; and Peconic Bay, New York.
 
 #### (3) Boundary dispute exception
 
-&emsp;In any case in which a boundary between two States passes through an estuary and such boundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference with respect to such estuary before a final adjudication has been made of such dispute.
+&emsp;In any case in which a boundary between two States passes through an estuary and such boundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference withrespect to such estuary before a final adjudication has been made of such dispute.
 
 #### (b) Purposes of conference
 
@@ -158,7 +158,7 @@ Subsec. (g)(2), (3). Pub. L. 106–457, §302, added pars. (2) and (3) and struc
 
 “(2)
 
-Purposes.—Grants under this subsection shall be made to pay for assisting research, surveys, studies, and modeling and other technical work necessary for the development of a conservation and management plan under this section.
+Purposes.—Grants under this subsection shall be made to pay for assisting research, surveys, studies,and modeling and other technical work necessary for the development of a conservation and management plan under this section.
 
 “(3)
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 #### Massachusetts Bay Protection; Definition; Findings and Purpose; Funding Sources
 
-Sections 1002, 1003, 1005 of title X of Pub. L. 100–653 provided that:
+Pub. L. 100–653, title X, §§1002, 1003, 1005, Nov. 14, 1988, 102 Stat. 3835, 3836, provided that:
 
 #### “SEC. 1002. DEFINITION.
 
@@ -222,7 +222,7 @@ Purpose.—The purpose of this title is to protect and enhance the environmental
 
 #### Purposes and Policies of National Estuary Program
 
-Section 317(a) of Pub. L. 100–4 provided that:
+Pub. L. 100–4, title III, §317(a), Feb. 4, 1987, 101 Stat. 61, provided that:
 
 “(1)
 

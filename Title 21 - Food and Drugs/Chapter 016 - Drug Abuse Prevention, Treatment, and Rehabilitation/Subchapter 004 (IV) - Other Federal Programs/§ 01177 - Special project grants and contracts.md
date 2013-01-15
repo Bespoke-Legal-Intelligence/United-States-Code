@@ -2,7 +2,7 @@
 
 #### (a) Scope of programs; priority
 
-The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants to and enter into contracts with individuals and public and private nonprofit entities—
+The Secretary <sup>1</sup> acting through the National Institute on Drug Abuse, may make grants toand enter into contracts with individuals and public and private nonprofit entities—
 
 &emsp;(1) to provide training seminars, educational programs, and technical assistance for the development, demonstration, and evaluation of drug abuse prevention, treatment, and rehabilitation programs; and
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 #### (d) Programs and projects aimed at underserved groups; encouragement and special consideration given to applications
 
-The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
+The Secretary shall encourage the submission of and give special consideration to applicationsunder this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
 
 #### (e) Payments; advances; reimbursement; installments
 
@@ -52,7 +52,7 @@ Projects and programs for which grants and contracts are made or entered into un
 
 (B) For purposes of this paragraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 
-(Pub. L. 92–255, title IV, §410, Mar. 21, 1972, 86 Stat. 82; Pub. L. 94–237, §§10, 11, Mar. 19, 1976, 90Stat. 247; Pub. L. 94–371, §10(c)(1), July 26, 1976, 90 Stat. 1040; Pub. L. 95–461, §§2(b), 6(a), Oct. 14, 1978, 92 Stat. 1268, 1270; Pub. L. 96–181, §7, Jan. 2, 1980, 93 Stat. 1312; Pub. L. 97–35, title IX, §970(b)–(f), Aug. 13, 1981, 95 Stat. 596, 597; Pub. L. 98–24, §5(a)(3), Apr. 26, 1983, 97 Stat. 183.)
+(Pub. L. 92–255, title IV, §410, Mar. 21, 1972, 86 Stat. 82; Pub. L. 94–237, §§10, 11, Mar. 19, 1976, 90 Stat. 247; Pub. L. 94–371, §10(c)(1), July 26, 1976, 90 Stat. 1040; Pub. L. 95–461, §§2(b), 6(a), Oct. 14, 1978, 92 Stat. 1268, 1270; Pub. L. 96–181, §7, Jan. 2, 1980, 93 Stat. 1312; Pub. L. 97–35, title IX, §970(b)–(f), Aug. 13, 1981, 95 Stat. 596, 597; Pub. L. 98–24, §5(a)(3), Apr. 26, 1983, 97 Stat. 183.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (a)(6). Pub. L. 96–181, §7(a)(3), in provisions relating to evaluatio
 
 Subsec. (b). Pub. L. 96–181, §7(b), inserted authorization of appropriations for grants and contracts under pars. (3) and (6) of subsec. (a) and for other programs and activities for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981, and required certain percentage of appropriated funds to be obligated for grants and contracts for primary prevention and intervention programs designed to discourage individuals from abusing drugs.
 
-Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programs and projects for prevention and treatment of drug abuse and drug dependence by elderly.
+Subsec. (d). Pub. L. 96–181, §7(c), inserted provisions for special consideration to applications for programsand projects for prevention and treatment of drug abuse and drug dependence by elderly.
 
 Subsec. (f). Pub. L. 96–181, §7(d), added subsec. (f).
 
@@ -96,7 +96,7 @@ Subsecs. (d), (e). Pub. L. 94–371 added subsec. (d) and redesignated former su
 
 #### Effective Date of 1976 Amendment
 
-Section 10(c)(2) of Pub. L. 94–371 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976.”
+Pub. L. 94–371, §10(c)(2), July 26, 1976, 90 Stat. 1041, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

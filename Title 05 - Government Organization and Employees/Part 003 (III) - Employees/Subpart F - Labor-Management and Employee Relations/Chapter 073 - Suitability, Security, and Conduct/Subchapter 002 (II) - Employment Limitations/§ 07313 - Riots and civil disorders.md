@@ -18,9 +18,9 @@
 
 #### Effective Date
 
-Section 1002 of Pub. L. 90–351 provided that: “The provisions of section 1001(a) of this title \[enacting this section\] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title \[June 19, 1968\].”
+Pub. L. 90–351, title V, §1002, June 19, 1968, 82 Stat. 235, provided that: “The provisions of section 1001(a) of this title \[enacting this section\] shall apply only with respect to acts referred to in section 7313(a)(1)–(4) of title 5, United States Code, as added by section 1001 of this title, which are committed after the date of enactment of this title \[June 19, 1968\].”
 
 #### Receipt of Benefits Under Laws Providing Relief for Disaster Victims
 
-Section 1106(e) of Pub. L. 90–448, title XI, Aug. 1, 1968, 82 Stat. 567, provided that: “No person who has been convicted of committing a felony during and in connection with a riot or civil disorder shall be permitted, for a period of one year after the date of his conviction, to receive any benefit under any law of the United States providing relief for disaster victims.”
+Pub. L. 90–448, title XI, §1106(e), Aug. 1, 1968, 82 Stat. 567, provided that: “No person who has been convicted of committing a felony during and in connection with a riot or civil disorder shall be permitted, for a period of one year after the date of his conviction, to receive any benefit under any law of the United States providing relief for disaster victims.”
 

@@ -48,7 +48,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(i) in the case of any critically undercapitalized depository institution—
 
-&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on thedate the institution becomes a critically undercapitalized depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any new advance is made to such institution under this section after the end of such period; and
 
@@ -84,7 +84,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 #### (B) Critically undercapitalized
 
-&emsp;&emsp;The term “critically undercapitalized” has the same meaning as in section 1831<i>o</i> of this title.
+&emsp;&emsp;The term “critically undercapitalized” has the same meaning as in section 1831o of this title.
 
 #### (C) Depository institution
 
@@ -94,7 +94,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;The term “undercapitalized depository institution” means any depository institution which—
 
-&emsp;&emsp;&emsp;(i) is undercapitalized, as defined in section 1831<i>o</i> of this title; or
+&emsp;&emsp;&emsp;(i) is undercapitalized, as defined in section 1831o of this title; or
 
 &emsp;&emsp;&emsp;(ii) has a composite CAMEL rating of 5 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1991 Amendment
 
-Section 142(d) of Pub. L. 102–242 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act \[Dec. 19, 1991\].”
+Pub. L. 102–242, title I, §142(d), Dec. 19, 1991, 105 Stat. 2281, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act \[Dec. 19, 1991\].”
 
 #### Effective Date of 1980 Amendment
 

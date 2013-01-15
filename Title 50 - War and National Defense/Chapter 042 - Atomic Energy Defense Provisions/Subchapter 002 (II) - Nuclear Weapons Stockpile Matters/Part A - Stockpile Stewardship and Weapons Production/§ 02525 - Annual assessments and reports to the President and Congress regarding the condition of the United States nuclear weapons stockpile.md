@@ -10,7 +10,7 @@ The officials referred to in subsection (a) are the following:
 
 &emsp;(1) The head of each national security laboratory.
 
-&emsp;(2) The commander <sup>1</sup> of the United States Strategic Command.
+&emsp;(2) The commander of the United States Strategic Command.
 
 #### (c) Dual validation teams in support of assessments
 
@@ -94,19 +94,15 @@ In this section:
 
 &emsp;&emsp;(B) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-#### (i) First submissions
-
-(1) The first submissions made under subsection (e) shall be the submissions required to be made in 2003.
-
-(2) The first submissions made under subsection (f) shall be the submissions required to be made in 2004.
-
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180.)
 
 #### Codification
 
 Section was formerly classified to section 7274s of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (i). Pub. L. 112–239 struck out subsec. (i) which related to first submissions under subsecs. (e) and (f).
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–84, §3114(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -137,6 +133,4 @@ Subsec. (i)(1). Pub. L. 111–84, §3114(d)(4)(A), substituted “subsection (e)
 Subsec. (i)(2). Pub. L. 111–84, §3114(d)(4)(B), substituted “subsection (f)” for “subsection (e)”.
 
 <b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

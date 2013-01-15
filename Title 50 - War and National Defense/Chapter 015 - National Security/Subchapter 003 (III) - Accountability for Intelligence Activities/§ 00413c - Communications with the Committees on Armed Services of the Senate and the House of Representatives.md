@@ -12,7 +12,7 @@ The Director of the National Counterterrorism Center, the Director of a national
 
 #### (2) Submission to Congress
 
-&emsp;The White House Counsel shall submit to Congress in writing any assertion by the President under paragraph (1) of a privilege pursuant to the Constitution.
+&emsp;The White House Counsel shall submit to Congress in writing any assertion by thePresident under paragraph (1) of a privilege pursuant to the Constitution.
 
 #### (c) Definitions
 

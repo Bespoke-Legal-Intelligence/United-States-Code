@@ -117,7 +117,7 @@ Ozone-depleting chemical:
 
 &emsp;&emsp;CFC–215
 
-1\.0  
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–216
 
@@ -177,7 +177,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 4662(e) (other than section 4662(e)(2)(A)(ii)(II)) shall apply for purposes of this subchapter.
+&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 4662(e)\(other than section 4662(e)(2)(A)(ii)(II)) shall apply for purposes of this subchapter.
 
 #### (B) Limit on benefit
 
@@ -259,7 +259,7 @@ For purposes of this subchapter—
 
 #### (2) Overpayments
 
-&emsp;If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
+&emsp;If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed tosuch person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
 
 #### (h) Imposition of floor stocks taxes
 
@@ -293,7 +293,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990,104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
 
 #### Prior Provisions
 
@@ -337,11 +337,11 @@ Subsec. (h)(3). Pub. L. 101–508, §11203(d)(2), substituted “June 30” for 
 
 #### Effective Date of 1997 Amendment
 
-Section 903(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §903(b), Aug. 5, 1997, 111 Stat. 873, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 1803(c) of Pub. L. 104–188 provided that:
+Pub. L. 104–188, title I, §1803(c), Aug. 20, 1996, 110 Stat. 1893, provided that:
 
 “(1)
 
@@ -349,7 +349,7 @@ Recycled halon.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the amendment made by subsection (a)(1) \[amending this section\] shall take effect on January 1, 1997.
+In general.—Except as provided in subparagraph (B), the amendment made by subsection (a)(1)\[amending this section\] shall take effect on January 1, 1997.
 
 &emsp;“(B)
 
@@ -363,7 +363,7 @@ Metered-dose inhalers.—The amendment made by subsection (b) \[amending this se
 
 Amendment by section 1931(b), (c) of Pub. L. 102–486 applicable to taxable chemicals sold or used on or after Jan. 1, 1993, see section 1931(d) of Pub. L. 102–486, set out as a note under section 4681 of this title.
 
-Section 1932(d) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section\] shall apply to sales and uses on or after January 1, 1993.”
+Pub. L. 102–486, title XIX, §1932(d), Oct. 24, 1992, 106 Stat. 3031, provided that: “The amendments made by this section \[amending this section\] shall apply to sales and uses on or after January 1, 1993.”
 
 #### Effective Date of 1990 Amendment
 
@@ -373,9 +373,9 @@ Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwis
 
 #### Certification System
 
-Section 1803(a)(2) of Pub. L. 104–188 provided that: “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
+Pub. L. 104–188, title I, §1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provided that: “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
 
 #### Deposits for First Quarter of 1991
 
-Section 11203(f) of Pub. L. 101–508 provided that: “No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) \[amending this section\] shall be required to be made before April 1, 1991.”
+Pub. L. 101–508, title XI, §11203(f), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) \[amending this section\] shall be required to be made before April 1, 1991.”
 

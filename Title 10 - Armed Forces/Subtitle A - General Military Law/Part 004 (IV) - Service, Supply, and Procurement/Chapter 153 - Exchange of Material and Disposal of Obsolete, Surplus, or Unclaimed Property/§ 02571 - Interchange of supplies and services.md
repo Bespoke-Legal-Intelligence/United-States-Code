@@ -68,7 +68,7 @@ Subsecs. (a) to (c). Pub. L. 85–861, §1(49)(B), (C), added subsec. (a) and re
 
 Pub. L. 110–329, div. C, title VIII, §8075, Sept. 30, 2008, 122 Stat. 3638, provided that:
 
-“(a) During the current fiscal year and hereafter, the Secretary of Defense, in coordination with the Secretary of Health and Human Services, may carry out a program to distribute surplus dental and medical equipment of the Department of Defense, at no cost to the Department of Defense, to Indian Health Service facilities and to federally-qualified health centers (within the meaning of section 1905(<i>l</i>)(2)(B) of the Social Security Act (42 U.S.C. 1396d(<i>l</i>)(2)(B))).
+“(a) During the current fiscal year and hereafter, the Secretary of Defense, in coordination with the Secretary of Health and Human Services, may carry out a program to distribute surplus dental and medical equipment of the Department of Defense, at no cost to the Department of Defense, to Indian Health Service facilities and to federally-qualified health centers (within the meaning of section 1905(l)(2)(B) of the Social Security Act (42 U.S.C. 1396d(l)(2)(B))).
 
 “(b) In carrying out this provision, the Secretary of Defense shall give the Indian Health Service a property disposal priority equal to the priority given to the Department of Defense and its twelve special screening programs in distribution of surplus dental and medical supplies and equipment.”
 

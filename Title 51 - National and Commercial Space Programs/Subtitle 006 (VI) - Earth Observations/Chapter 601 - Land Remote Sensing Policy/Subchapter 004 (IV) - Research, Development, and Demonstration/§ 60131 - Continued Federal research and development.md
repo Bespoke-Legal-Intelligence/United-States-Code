@@ -16,7 +16,7 @@ Administration activities authorized and encouraged.—The Administrator is auth
 
 &emsp;&emsp;(B) develop remote sensing technologies and techniques, including those needed for monitoring the Earth and its environment; and
 
-&emsp;&emsp;(C) conduct such research and development in cooperation with other United States Government agencies and with public andprivate research entities (including private industry, universities, non-profit organizations, State and local governments, foreign governments, and international organizations) and to enter into arrangements (including joint ventures) which will foster such cooperation.
+&emsp;&emsp;(C) conduct such research and development in cooperation with other United States Government agencies and with public and private research entities (including private industry, universities, non-profit organizations, State and local governments, foreign governments, and international organizations) and to enter into arrangements (including joint ventures) which will foster such cooperation.
 
 (b)
 

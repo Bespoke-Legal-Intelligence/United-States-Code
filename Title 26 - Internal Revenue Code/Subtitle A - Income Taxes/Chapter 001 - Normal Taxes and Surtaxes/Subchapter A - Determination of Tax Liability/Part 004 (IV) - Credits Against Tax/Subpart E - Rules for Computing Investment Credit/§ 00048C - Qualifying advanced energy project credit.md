@@ -82,7 +82,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 #### (B) Time to meet criteria for certification
 
-&emsp;&emsp;Each applicant for certification shall have 1 year from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
+&emsp;&emsp;Each applicant for certification shall have 1 year from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that therequirements of the certification have been met.
 
 #### (C) Period of issuance
 

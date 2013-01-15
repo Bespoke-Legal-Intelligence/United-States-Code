@@ -1,12 +1,16 @@
 ### §8166. Construction standards
 
-(a) Unless the Secretary provides otherwise, the construction, alteration, repair, remodeling, or improvement of the property that is the subject of the lease shall be carried out so as to comply with all standards applicable to construction of Federal buildings. Any such construction, alteration, repair, remodeling, or improvement shall not be subject to any State or local law relating to land use, building codes, permits, or inspections unless the Secretary provides otherwise.
+The construction, alteration, repair, remodeling, or improvement of a property that is the subject of an enhanced-use lease shall be carried out so as to comply with all applicable provisions of Federal, State, and local law relating to land use, building standards, permits, and inspections.
 
-(b) Unless the Secretary has provided that Federal construction standards are not applicable to a property, the Secretary shall conduct periodic inspections of any such construction, alteration, repair, remodeling, or improvement for the purpose of ensuring that the standards are met.
-
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 108–422, title IV, §417, Nov. 30, 2004, 118 Stat. 2393.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 108–422, title IV, §417, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 112—154, title II, §211(g), Aug. 6, 2012, 126 Stat. 1181.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154 amended section generally. Prior to amendment, section read as follows:
+
+“(a) Unless the Secretary provides otherwise, the construction, alteration, repair, remodeling, or improvement of the property that is the subject of the lease shall be carried out so as to comply with all standards applicable to construction of Federal buildings. Any such construction, alteration, repair, remodeling, or improvement shall not be subject to any State or local law relating to land use, building codes, permits, or inspections unless the Secretary provides otherwise.
+
+“(b) Unless the Secretary has provided that Federal construction standards are not applicable to a property, the Secretary shall conduct periodic inspections of any such construction, alteration, repair, remodeling, or improvement for the purpose of ensuring that the standards are met.”
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–422 inserted “land use,” after “relating to” in second sentence.
 

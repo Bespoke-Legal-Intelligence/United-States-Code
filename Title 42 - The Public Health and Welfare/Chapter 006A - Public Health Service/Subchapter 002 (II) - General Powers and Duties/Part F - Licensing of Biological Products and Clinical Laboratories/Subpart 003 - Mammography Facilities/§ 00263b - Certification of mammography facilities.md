@@ -20,7 +20,7 @@ As used in this section:
 
 #### (B) Activities
 
-&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f) of this section.
+&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram areperformed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f) of this section.
 
 #### (4) Inspection
 
@@ -40,7 +40,7 @@ As used in this section:
 
 #### (8) Review physician
 
-&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e)of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
+&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
 
 #### (b) Certificate requirement
 
@@ -344,7 +344,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which isresponsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -356,7 +356,7 @@ As used in this section:
 
 #### (4) Timing
 
-&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1),\(2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
+&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1), (2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
 
 #### (5) Limited reinspection
 
@@ -474,7 +474,7 @@ If the Secretary determines that—
 
 &emsp;The judgment of the court affirming or setting aside, in whole or in part, any action of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
-#### (<i>l</i>) Information
+#### (l) Information
 
 #### (1) In general
 
@@ -558,7 +558,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 &emsp;The Secretary shall appoint a chairperson of the Advisory Committee.
 
-#### (<i>o</i>) Consultations
+#### (o) Consultations
 
 In carrying out this section, the Secretary shall consult with appropriate Federal agencies within the Department of Health and Human Services for the purposes of developing standards, regulations, evaluations, and procedures for compliance and oversight.
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence ofbreast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -656,7 +656,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees frompersons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 

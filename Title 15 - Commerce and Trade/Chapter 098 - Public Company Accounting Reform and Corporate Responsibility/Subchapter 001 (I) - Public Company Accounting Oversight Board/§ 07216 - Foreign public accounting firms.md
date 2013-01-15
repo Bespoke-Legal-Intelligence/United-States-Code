@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, broker, or dealer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
+&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, broker, or dealer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuantto section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
 
 #### (2) Board authority
 
@@ -48,7 +48,7 @@ A willful refusal to comply, in whole in or in part, with any request by the Com
 
 #### (f) Other means of satisfying production obligations
 
-Notwithstanding any other provisions of this section, the staff of the Commission or theBoard may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
+Notwithstanding any other provisions of this section, the staff of the Commission or the Board may allow a foreign public accounting firm that is subject to this section to meet production obligations under this section through alternate means, such as through foreign counterparts of the Commission or the Board.
 
 #### (g) Definition
 

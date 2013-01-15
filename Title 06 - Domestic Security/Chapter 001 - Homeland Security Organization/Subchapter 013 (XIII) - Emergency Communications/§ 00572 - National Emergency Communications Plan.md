@@ -22,7 +22,7 @@ The National Emergency Communications Plan shall—
 
 &emsp;(3) identify the appropriate interoperable emergency communications capabilities necessary for Federal, State, local, and tribal governments in the event of natural disasters, acts of terrorism, and other man-made disasters;
 
-&emsp;(4) recommend both short-term and long-term solutions for ensuring that emergency response providers and relevant government officials can continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
+&emsp;(4) recommend both short-term and long-term solutions for ensuring that emergencyresponse providers and relevant government officials can continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
 
 &emsp;(5) recommend both short-term and long-term solutions for deploying interoperable emergency communications systems for Federal, State, local, and tribal governments throughout the Nation, including through the provision of existing and emerging technologies;
 

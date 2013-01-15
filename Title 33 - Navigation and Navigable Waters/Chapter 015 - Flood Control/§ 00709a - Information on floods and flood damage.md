@@ -6,7 +6,7 @@ In recognition of the increasing use and development of the flood plains of the 
 
 #### (b) Flood prevention coordination
 
-The Secretary shall coordinate with the Administrator of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projects and plans are complementary and integrated to the extent practicable and appropriate.
+The Secretary shall coordinate with the Administrator of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projectsand plans are complementary and integrated to the extent practicable and appropriate.
 
 #### (c) Fees
 

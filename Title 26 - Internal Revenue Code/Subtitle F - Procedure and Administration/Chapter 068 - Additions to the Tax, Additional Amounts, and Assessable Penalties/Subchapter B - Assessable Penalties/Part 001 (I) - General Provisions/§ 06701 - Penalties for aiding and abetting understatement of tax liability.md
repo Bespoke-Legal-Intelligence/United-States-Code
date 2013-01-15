@@ -78,9 +78,9 @@ Subsec. (f)(3). Pub. L. 101–239, §7735(b)(1), added par. (3).
 
 #### Effective Date of 1989 Amendment
 
-Section 7735(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall take effect on December 31, 1989.”
+Pub. L. 101–239, title VII, §7735(c), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendments made by this section \[amending this section\] shall take effect on December 31, 1989.”
 
 #### Effective Date
 
-Section 324(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §324(c), Sept. 3, 1982, 96 Stat. 616, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 

@@ -10,7 +10,7 @@ The historical park shall consist of lands and interests therein as follows:
 
 &emsp;(1) Lands which the Secretary of the Interior (hereinafter referred to as “the Secretary”) may designate for an interpretive visitor center complex.
 
-&emsp;(2) Sites that are the subject of cooperative agreements with the National Park Servicefor the purposes of interpretive demonstrations and programs associated with the purposes of this subchapter.
+&emsp;(2) Sites that are the subject of cooperative agreements with the National Park Service for the purposes of interpretive demonstrations and programs associated with the purposes of this subchapter.
 
 &emsp;(3)(A) Sites designated by the Secretary as provided in subparagraph (B).
 

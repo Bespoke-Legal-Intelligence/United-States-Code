@@ -55,6 +55,278 @@
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### World War I Centennial Commission
+
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
+
+#### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+“(a)
+
+Short Title.—This Act may be cited as the ‘World War I Centennial Commission Act’.
+
+“(b)
+
+Table of Contents.—\[Omitted.\]
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) From 2014 through 2018, the United States and nations around the world will mark the centennial of World War I, including the entry of the United States into the war in April 1917.
+
+&emsp;“(2) America's support of Great Britain, France, Belgium, and its other allies in World War I marked the first time in United States history that American soldiers went abroad in defense of liberty against foreign aggression, and it marked the true beginning of the ‘American century’.
+
+&emsp;“(3) Although World War I was at the time called ‘the war to end all wars’, in fact the United States would commit its troops to the defense of foreign lands 3 more times in the 20th century.
+
+&emsp;“(4) More than 4,000,000 men and women from the United States served in uniform during World War I, among them 2 future presidents, Harry S. Truman and Dwight D. Eisenhower. Two million individuals from the United States served overseas during World War I, including 200,000 naval personnel who served on the seas. The United States suffered 375,000 casualties during World War I, including 116,516 deaths.
+
+&emsp;“(5) The events of 1914 through 1918 shaped the world, the United States, and the lives of millions of people.
+
+&emsp;“(6) The centennial of World War I offers an opportunity for people in the United States to learn about and commemorate the sacrifices of their predecessors.
+
+&emsp;“(7) Commemorative programs, activities, and sites allow people in the United States to learn about the history of World War I, the United States involvement in that war, and the war's effects on the remainder of the 20th century, and to commemorate and honor the participation of the United States and its citizens in the war effort.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act—
+
+&emsp;“(1)
+
+America's national world war i museum.—The term ‘America's National World War I Museum’ means the Liberty Memorial Museum in Kansas City, Missouri, as recognized by Congress in section 1031(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2045).
+
+&emsp;“(2)
+
+Centennial commission.—The term ‘Centennial Commission’ means the World War I Centennial Commission established by section 4(a).
+
+&emsp;“(3)
+
+Veterans service organization.—The term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
+
+#### “SEC. 4. ESTABLISHMENT OF WORLD WAR I CENTENNIAL COMMISSION.
+
+“(a)
+
+Establishment.—There is established a commission to be known as the ‘World War I Centennial Commission’.
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+Composition.—The Centennial Commission shall be composed of 12 members as follows:
+
+&emsp;&emsp;“(A) Two members who shall be appointed by the Speaker of the House of Representatives.
+
+&emsp;&emsp;“(B) One member who shall be appointed by the minority leader of the House of Representatives.
+
+&emsp;&emsp;“(C) Two members who shall be appointed by the majority leader of the Senate.
+
+&emsp;&emsp;“(D) One member who shall be appointed by the minority leader of the Senate.
+
+&emsp;&emsp;“(E) Three members who shall be appointed by the President from among persons who are broadly representative of the people of the United States (including members of the Armed Forces, veterans, and representatives of veterans service organizations).
+
+&emsp;&emsp;“(F) One member who shall be appointed by the executive director of the Veterans of Foreign Wars of the United States.
+
+&emsp;&emsp;“(G) One member who shall be appointed by the executive director of the American Legion.
+
+&emsp;&emsp;“(H) One member who shall be appointed by the president of the Liberty Memorial Association.
+
+&emsp;“(2)
+
+Time for appointment.—The members of the Centennial Commission shall be appointed not later than 60 days after the date of the enactment of this Act \[Jan. 14, 2013\].
+
+&emsp;“(3)
+
+Period of appointment.—Each member shall be appointed for the life of the Centennial Commission.
+
+&emsp;“(4)
+
+Vacancies.—A vacancy in the Centennial Commission shall be filled in the manner in which the original appointment was made.
+
+“(c)
+
+Meetings.—
+
+&emsp;“(1)
+
+Initial meeting.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 30 days after the date on which all members of the Centennial Commission have been appointed, the Centennial Commission shall hold its first meeting.
+
+&emsp;&emsp;“(B)
+
+Location.—The location for the meeting held under subparagraph (A) shall be the America's National World War I Museum.
+
+&emsp;“(2)
+
+Subsequent meetings.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Centennial Commission shall meet at the call of the Chair.
+
+&emsp;&emsp;“(B)
+
+Frequency.—The Chair shall call a meeting of the members of the Centennial Commission not less frequently than once each year.
+
+&emsp;&emsp;“(C)
+
+Location.—Not less frequently than once each year, the Centennial Commission shall meet at the America's National World War I Museum.
+
+&emsp;“(3)
+
+Quorum.—Seven members of the Centennial Commission shall constitute a quorum, but a lesser number may hold hearings.
+
+“(d)
+
+Chair and Vice Chair.—The Centennial Commission shall select a Chair and Vice Chair from among its members.
+
+#### “SEC. 5. DUTIES OF CENTENNIAL COMMISSION.
+
+“(a)
+
+In General.—The duties of the Centennial Commission are as follows:
+
+&emsp;“(1) To plan, develop, and execute programs, projects, and activities to commemorate the centennial of World War I.
+
+&emsp;“(2) To encourage private organizations and State and local governments to organize and participate in activities commemorating the centennial of World War I.
+
+&emsp;“(3) To facilitate and coordinate activities throughout the United States relating to the centennial of World War I.
+
+&emsp;“(4) To serve as a clearinghouse for the collection and dissemination of information about events and plans for the centennial of World War I.
+
+&emsp;“(5) To develop recommendations for Congress and the President for commemorating the centennial of World War I.
+
+“(b)
+
+Reports.—
+
+&emsp;“(1)
+
+Periodic report.—Not later than the last day of the 6-month period beginning on the date of the enactment of this Act \[Jan. 14, 2013\], and not later than the last day of each 3-month period thereafter, the Centennial Commission shall submit to Congress and the President a report on the activities and plans of the Centennial Commission.
+
+&emsp;“(2)
+
+Recommendations.—Not later than 2 years after the date of the enactment of this Act, the Centennial Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of World War I and coordinating related activities.
+
+#### “SEC. 6. POWERS OF CENTENNIAL COMMISSION.
+
+“(a)
+
+Hearings.—The Centennial Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Centennial Commission considers appropriate to carry out its duties under this Act.
+
+“(b)
+
+Powers of Member and Agents.—If authorized by the Centennial Commission, any member or agent of the Centennial Commission may take any action which the Centennial Commission is authorized to take under this Act.
+
+“(c)
+
+Information From Federal Agencies.—The Centennial Commission shall secure directly from any Federal department or agency such information as the Centennial Commission considers necessary to carry out the provisions of this Act. Upon the request of the Chair of the Centennial Commission, the head of such department or agency shall furnish such information to the Centennial Commission.
+
+“(d)
+
+Administrative Support Services.—Upon the request of the Centennial Commission, the Administrator of the General Services Administration shall provide to the Centennial Commission, on a reimbursable basis, the administrative support services necessary for the Centennial Commission to carry out its responsibilities under this Act.
+
+“(e)
+
+Contract Authority.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the Centennial Commission is authorized—
+
+&emsp;&emsp;“(A) to procure supplies, services, and property; and
+
+&emsp;&emsp;“(B) to make or enter into contracts, leases, or other legal agreements.
+
+&emsp;“(2)
+
+Limitation.—The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
+
+“(f)
+
+Postal Services.—The Centennial Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(g)
+
+Gifts, Bequests, and Devises.—The Centennial Commission shall accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+
+#### “SEC. 7. CENTENNIAL COMMISSION PERSONNEL MATTERS.
+
+“(a)
+
+Compensation of Members.—Members of the Centennial Commission shall serve without compensation for such service.
+
+“(b)
+
+Travel Expenses.—Each member of the Centennial Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions of title 5, United States Code.
+
+“(c)
+
+Staff.—
+
+&emsp;“(1)
+
+In general.—The Chair of the Centennial Commission shall, in consultation with the members of the Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
+
+&emsp;“(2)
+
+Compensation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+&emsp;&emsp;“(C)
+
+Work location.—If the city government for Kansas City, Missouri, and the Liberty Memorial Association make space available in the building in which the America's National World War I Museum is located, the executive director of the Centennial Commission and other personnel appointed under paragraph (1) shall work in such building to the extent practical.
+
+“(d)
+
+Detail of Government Employees.—Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
+
+“(e)
+
+Procurement of Temporary and Intermittent Services.—The Chair of the Centennial Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+“(f)
+
+Source of Funds.—Gifts, bequests, and devises of services or property, both real and personal, received by the Centennial Commission under section 6(g) shall be the only source of funds to cover the costs incurred by the Centennial Commission under this section.
+
+#### “SEC. 8. TERMINATION OF CENTENNIAL COMMISSION.
+
+“(a)
+
+In General.—The Centennial Commission shall terminate on the earlier of—
+
+&emsp;“(1) the date that is 30 days after the date the completion of the activities under this Act honoring the centennial observation of World War I; or
+
+&emsp;“(2) July 28, 2019.
+
+“(b)
+
+Application of Federal Advisory Committee Act.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+
+&emsp;“(2)
+
+Exception.—Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
+
+#### “SEC. 9. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
+
+“No Federal funds may be obligated to carry out this Act.”
+
 #### Ronald Reagan Centennial Commission
 
 Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, as amended by Pub. L. 112–13, §1, May 12, 2011, 125 Stat. 215, provided that:
@@ -175,7 +447,7 @@ Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose
 
 “(e)
 
-Available Space.—Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
+Available Space.—Upon the request of the Commission, the Administrator of General Services shallmake available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
 
 “(f)
 
@@ -301,11 +573,35 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proclamation No. 8522
+#### Proc. No. 8823. Armed Forces Day
 
-Proc. No. 8522, May 14, 2010, 75 F.R. 28185, which proclaimed the third Saturday of each May as Armed Forces Day, was superseded by Proc. No. 8681, May 20, 2011, 76 F.R. 30497.
+Proc. No. 8823, May 18, 2012, 77 F.R. 30875, provided:
+
+With every assignment and in every theater, America's men and women in uniform perform their duties with the utmost dignity, honor, and professionalism. Through their dauntless courage and dedication, they live up to our Nation's highest ideals in even the most perilous circumstances. On Armed Forces Day, we pay tribute to the unparalleled service of our Armed Forces and recall the extraordinary feats they accomplish in defense of our Nation.
+
+As individuals, our service members set extraordinary examples of character for those whose freedom they protect. Together, they comprise the greatest force for freedom and security the world has ever known. From their earliest training to the thick of battle, they look to those with whom they stand shoulder-to-shoulder, knowing they rise and fall as one team. United in their love of country, they teach us the true meaning of words like duty, honor, and strength.
+
+Not just leaders and troops, patriots and heroes, the members of our Armed Forces are also parents, spouses, partners, sons, and daughters. Their families are just as vital to their success as their brothers and sisters in arms, and our debt of gratitude extends to them as well. As we celebrate the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who make our way of life possible, we also pay our deepest respect to their families, our missing, our wounded, and our fallen. Inspired by their service and humbled by their sacrifice, let us recommit to providing all those who have served our Nation the support they deserve.
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+
+I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
+
+I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
+
+Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
+
+Proclamation 8681 of May 20, 2011, is hereby superseded.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this eighteenth day of May, in the year of our Lord two thousand twelve, and of the Independence of the United States of America the two hundred and thirty-sixth.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 8681, May 20, 2011, 76 F.R. 30497, superseded by Proc. No. 8823, May 18, 2012, 77 F.R. 30875.
+
+Proc. No. 8522, May 14, 2010, 75 F.R. 28185, superseded by Proc. No. 8681, May 20, 2011, 76 F.R. 30497.
 
 Proc. No. 8380, May 14, 2009, 74 F.R. 23603, superseded by Proc. No. 8522, May 14, 2010, 75 F.R. 28185.
 
@@ -335,13 +631,13 @@ Proc. No. 3172, Mar. 6, 1957, 22 F.R. 1427, superseded by Proc. No. 3399, Mar. 2
 
 Proc. No. 8455, Nov. 20, 2009, 74 F.R. 61261, provided:
 
-Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
+Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resourcesand diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
 
 Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns. American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
 
 This Thanksgiving season, we celebrate farms of every size that produce fruits, vegetables, dairy, and livestock indispensable to the health of our families. We also recognize the vital ties between our urban and suburban communities and their local farmers through regional food systems, farmers markets, and community gardens. During National Farm-City Week, we celebrate the bounty of America, and we honor the commitment of those who grow, harvest, and deliver agricultural goods to feed our country and grow our economy.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the week ending on Thanksgiving Day of each year as National Farm-City Week. I call on Americans as they gatherwith their families and friends to reflect on the accomplishments of all who dedicate their lives to promoting our Nation's agricultural abundance and environmental stewardship.
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the week ending on Thanksgiving Day of each year as National Farm-City Week. I call on Americans as they gather with their families and friends to reflect on the accomplishments of all who dedicate their lives to promoting our Nation's agricultural abundance and environmental stewardship.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-fourth.
 
@@ -357,7 +653,7 @@ Raised in the fields of Arizona and California, Cesar Chavez faced hardship and 
 
 Cesar Chavez saw the need for change and made a courageous choice to work to improve the lives of his fellow farm workers. Through boycotts and fasts, he led others on a path of nonviolence conceived in careful study of the teachings of St. Francis of Assisi and Mahatma Gandhi, and in the powerful example of Martin Luther King, Jr. He became a community organizer and began his lifelong advocacy to protect and empower people. With quiet leadership and a powerful voice, Cesar founded the United Farm Workers (UFW) with Dolores Huerta, launching one of our Nation's most inspiring social movements.
 
-Cesar Chavez's legacy provides lessons from which all Americans can learn. One person can change the course of a nation and improve the lives of countless individuals. Cesar once said, “Non-violence is not inaction. . . . Non-violence is hard work. It is the willingness to sacrifice. It is the patience to win.” From his inspiring accomplishments, we have learned that social justice takes action, selflessness, and commitment. As we face the challenges of our day, let us do so with the hope and determination of Cesar Chavez, echoing the words that were his rallying cry and that continue to inspire so many today, “Si�AE1, se puede”—“Yes, we can.”
+Cesar Chavez's legacy provides lessons from which all Americans can learn. One person can change the course of a nation and improve the lives of countless individuals. Cesar once said, “Non-violence is not inaction. . . . Non-violence is hard work. It is the willingness to sacrifice. It is the patience to win.” From his inspiring accomplishments, we have learned that social justice takes action, selflessness, and commitment. As we face the challenges of our day, let us do so with the hope and determination of Cesar Chavez, echoing the words that were his rallying cry and that continue to inspire so many today, “Sí, se puede”—“Yes, we can.”
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim March 31 of each year as Cesar Chavez Day. I call upon all Americans to observe this day with appropriate service, community, and educational programs to honor Cesar Chavez's enduring legacy.
 

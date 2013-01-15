@@ -26,7 +26,7 @@ The Administrator shall take such action as may be necessary to assure complianc
 
 #### (f) Appearance and representation of Administrator through Attorney General or attorney appointees
 
-The Administrator shall request the Attorney General to appear and represent him in any civil action instituted under this subchapter to whichthe Administrator is a party. Unless, within a reasonable time, the Attorney General notifies the Administrator that he will appear in such action, attorneys appointed by the Administrator shall appear and represent him.
+The Administrator shall request the Attorney General to appear and represent him in any civil action instituted under this subchapter to which the Administrator is a party. Unless, within a reasonable time, the Attorney General notifies the Administrator that he will appear in such action, attorneys appointed by the Administrator shall appear and represent him.
 
 #### (g) Authority of Administrator under other provisions unaffected
 
@@ -46,7 +46,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 &emsp;(C) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other action to carry out the purposes of this subchapter.
 
-(2)(A) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of paragraph (1) may, within 30 days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (hereinafter in this subsection referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
+(2)(A) Any employee who believes that he has been discharged or otherwise discriminatedagainst by any person in violation of paragraph (1) may, within 30 days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (hereinafter in this subsection referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
 
 (B)(i) Upon receipt of a complaint filed under subparagraph (A), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within 30 days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting in his behalf) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this subparagraph. Within 90 days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by clause (ii) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for agency hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
 
@@ -56,7 +56,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
-(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the UnitedStates District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
+(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
 
 (5) Any nondiscretionary duty imposed by this section is enforceable in mandamus proceeding brought under section 1361 of title 28.
 
@@ -88,7 +88,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### Applicablility of Labor Standards to Drinking Water Treatment Construction Projects
+#### Applicability of Labor Standards to Drinking Water Treatment Construction Projects
 
-Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part: “For fiscal year 2012 and each fiscal year thereafter, the requirements of section 1450(e) of the Safe Drinking Water Act (42 U.S.C. 300j–9(e)) shall apply to any construction project carried out in whole or in part with assistance made available by a drinking water treatment revolving loan fund as authorized by section 1452 of that Act (42 U.S.C. 300j–12).”
+Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part: “For fiscal year 2012 and each fiscal year thereafter, the requirements of section 1450(e)of the Safe Drinking Water Act (42 U.S.C. 300j–9(e)) shall apply to any construction project carried out in whole or in part with assistance made available by a drinking water treatment revolving loan fund as authorized by section 1452 of that Act (42 U.S.C. 300j–12).”
 

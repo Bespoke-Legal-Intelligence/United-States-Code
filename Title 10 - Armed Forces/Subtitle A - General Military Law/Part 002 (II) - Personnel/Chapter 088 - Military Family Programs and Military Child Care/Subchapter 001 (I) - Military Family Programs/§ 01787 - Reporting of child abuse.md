@@ -6,17 +6,15 @@ In General.—The Secretary of Defense shall request each State to provide for t
 
 (b)
 
-Definition.—In this section, the term “child abuse and neglect” has the meaning provided in section 3(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5102).<sup>1</sup>
+Definition.—In this section, the term “child abuse and neglect” has the meaning provided in section 3 of the Child Abuse Prevention and Treatment Act (Public Law 93–247; 42 U.S.C. 5101 note).
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 331.)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 331; amended Pub. L. 112–239, div. A, title X, §1076(d)(2), Jan. 2, 2013, 126 Stat. 1951.)
 
-#### References in Text
+#### Amendments
 
-Section 3(1) of the Child Abuse Prevention and Treatment Act, referred to in subsec. (b), is section 3(1) of Pub. L. 93–247, which was amended generally by Pub. L. 100–294 and renumbered section 102 by Pub. L. 101–126. As so amended and renumbered, section 102 of Pub. L. 93–247 no longer defines “child abuse and neglect”. However, such term is defined in section 111 of Pub. L. 93–247, which is classified to section 5106g of Title 42, The Public Health and Welfare.
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 substituted “section 3” for “section 3(1)” and “Public Law 93–247; 42 U.S.C. 5101 note” for “42 U.S.C. 5102”.
 
 #### Plan for Implementation of Accreditation Requirement
 
-Section 568(c) of Pub. L. 104–106 directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 104–106, div. A, title V, §568(c), Feb. 10, 1996, 110 Stat. 335, directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
 

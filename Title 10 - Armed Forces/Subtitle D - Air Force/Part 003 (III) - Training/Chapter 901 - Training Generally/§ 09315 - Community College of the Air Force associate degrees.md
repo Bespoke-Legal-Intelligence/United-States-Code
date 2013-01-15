@@ -36,7 +36,7 @@ Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the lev
 
 (2) No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
 
-(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415.)
+(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X,§1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415.)
 
 #### Amendments
 
@@ -72,11 +72,11 @@ Pub. L. 112–81, div. A, title V, §555(c), Dec. 31, 2011, 125 Stat. 1416, prov
 
 #### Effective Date of 1997 Amendment
 
-Section 552(c) of Pub. L. 105–85 provided that: “Subsection (b) of section 9315 of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 105–85, div. A, title V, §552(c), Nov. 18, 1997, 111 Stat. 1748, provided that: “Subsection (b) of section 9315 of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1078(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 104–106, div. A, title X, §1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
 
 #### Effective Date of 1980 Amendment
 

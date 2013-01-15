@@ -18,5 +18,5 @@ Section 228, act June 25, 1936, ch. 815, §12, 49 Stat. 1930, related to effecti
 
 #### Effective Date of Repeal
 
-Repeal of sections 221 to 228 effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+Repeal of sections 221 to 228 effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.
 

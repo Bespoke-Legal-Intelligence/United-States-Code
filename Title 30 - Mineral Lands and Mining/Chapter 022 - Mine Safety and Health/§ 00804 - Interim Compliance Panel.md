@@ -40,7 +40,7 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 91–173,Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
 #### Termination of Reporting Requirements
 

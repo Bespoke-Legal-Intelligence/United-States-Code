@@ -62,7 +62,7 @@
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L.90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ June 3, 1916, ch. 134, §90; restated June 4, 1920, ch. 227, subch. I, §46; res
 
 June 25, 1938, ch. 688, 52 Stat. 1173.
 
-In subsection (a), the words “may be spent” are substituted for the words “shall be available”. The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word “persons” is substituted for the word “help”. The words “Army National Guard” and “Air National Guard” are substituted for the words “organizations of all kinds”. The words “the support of” are omitted as surplusage. The words “A caretaker employed under this subsection” are substituted for the words “Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers”. The words “and other duties that do not interfere with the performance of his duties as caretaker” are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
+In subsection (a), the words “may be spent” are substituted for the words “shall be available”. The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word “persons” is substituted for the word “help”. The words “Army National Guard” and “Air National Guard” are substituted for the words “organizations of all kinds”. The words “the support of” are omitted as surplusage. The words “A caretaker employed under this subsection” are substituted for the words “Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers”.The words “and other duties that do not interfere with the performance of his duties as caretaker” are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
 
 In subsection (b), the words “However, if a unit has more than one caretaker” are substituted for the words “but if there are as many as two caretakers in any unit”. The words “under this section”, in the first sentence of the revised subsection, are inserted for clarity. The words “under this section”, in the second sentence of the revised subsection, are substituted for the words “paid to caretakers who belong to the National Guard, as herein authorized”. The words “under any of the provisions of this title” are omitted as surplusage.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 106–65 effective 180 days after the date of receipt by Co
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 #### Effective Date of 1980 Amendment
 
@@ -190,17 +190,17 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1968 Amendment
 
-Section 11 of Pub. L. 90–486 provided that: “This Act \[see Short Title note below\] becomes effective January 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after January 1, 1969.”
+Pub. L. 90–486, §11, Aug. 13, 1968, 82 Stat. 760, provided that: “This Act \[see Short Title note below\] becomes effective January 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after January 1, 1969.”
 
 #### Short Title
 
-Section 1 of Pub. L. 90–486 provided: “That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the ‘National Guard Technicians Act of 1968’.”
+Pub. L. 90–486, §1, Aug. 13, 1968, 82 Stat. 755, provided: “That this Act \[amending this section and section 715 of this title, sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and section 418 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the ‘National Guard Technicians Act of 1968’.”
 
 #### Military Education for Army National Guard Civilian Technicians
 
 Pub. L. 101–189, div. A, title V, §506(a)–(c), Nov. 29, 1989, 103 Stat. 1438, 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(2), Nov. 30, 1993, 107 Stat. 1656.
 
-Pub. L. 100–456, div. A, title V, §523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, §506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
+Pub. L. 100–456, div. A, title V, §523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, §506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, §1484(l)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
 
 \[Pub. L. 103–160, div. A, title V, §523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act \[Nov. 30, 1993\] who under the provisions of law repealed by subsection (b) \[repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above\] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician's military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) \[amending this section\] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician's next mililitary \[sic\] promotion.”\]
 
@@ -216,7 +216,7 @@ Civil Service Retirement Credit.—A period of service performed under section 7
 
 Covered Individuals.—Subsection (a) applies in the case of an individual who—
 
-&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with theOffice of Personnel Management in accordance with regulations under subsection (c);
+&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with the Office of Personnel Management in accordance with regulations under subsection (c);
 
 &emsp;“(2) at the time of filing application under paragraph (1), is employed by the United States and is subject to subchapter III of chapter 83 of title 5, United States Code (other than under section 8344 of such title); and
 
@@ -228,11 +228,11 @@ Regulations.—The Office of Personnel Management shall prescribe regulations to
 
 #### Savings Provision for Accrued Claims; Conversion to Federal Employee Status; Credit for Past Service; Leave Credit
 
-Section 3 of Pub. L. 90–486, as amended by Pub. L. 101–530, §2, Nov. 6, 1990, 104 Stat. 2338, provided that:
+Pub. L. 90–486, §3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101–530, §2, Nov. 6, 1990, 104 Stat. 2338, provided that:
 
 “(a) A claim accrued under section 715 of title 32, United States Code, before the effective date of this Act \[see effective date note above\] by reason of the act or omission of a person employed under section 709 of title 32, United States Code, may, if otherwise allowable, be settled and paid under section 715 of title 32, United States Code.
 
-“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\] and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall, on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of the Department of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
+“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\] and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall, on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of theDepartment of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
 
 “(c) All service under section 709 of title 32, United States Code, or prior corresponding provision of law, performed before the effective date of this Act shall be included and credited in the determination of length of service for the purposes of leave, Federal employees death and disability compensation, group life and health insurance, severance pay, tenure, and status.
 
@@ -266,11 +266,11 @@ Conditions for enrolling in a health benefits plan.—Any individual who satisfi
 
 #### Persons Employed Prior to January 1, 1969, Whose Employment Was Covered by Civil Service Retirement Provisions
 
-Section 5(d) of Pub. L. 90–486 provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(<i>l</i>) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
+Pub. L. 90–486, §5(d), Aug. 13, 1968, 82 Stat. 758, provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(l) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
 
 #### Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions
 
-Section 6 of Pub. L. 90–486, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–486, §6, Aug. 13, 1968, 82 Stat. 758, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a) Notwithstanding section 709(d) of title 32, United States Code, a person who, on the date of enactment of this Act \[Aug. 13, 1968\], is employed under section 709 of title 32, United States Code, and is covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, may elect, not later than the effective date of this Act \[see Effective Date note above\], not to be covered by subchapter III of chapter 83 of title 5, United States Code, and with the consent of the State concerned or Commonwealth of Puerto Rico, to remain covered by the employee retirement system of, or plan sponsored by, that State or the Commonwealth of Puerto Rico. Unless such an election, together with a statement of approval by the State concerned or the Commonwealth of Puerto Rico, is filed with the Secretary of the Army or the Secretary of the Air Force, as appropriate, on or before the effective date of this Act, the person concerned is covered by subchapter III of chapter 83 of title 5, United States Code, as of that date.
 
@@ -286,7 +286,7 @@ Section 6 of Pub. L. 90–486, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 #### Compensation Rates; Conversion and Adjustment of Compensation to the General Schedule
 
-Section 8 of Pub. L. 90–486 provided that:
+Pub. L. 90–486, §8, Aug. 13, 1968, 82 Stat. 759, provided that:
 
 “(a) Except as provided in section 709(g) of title 32, United States Code, the Secretary concerned shall fix the rate of basic compensation of positions existing on the date of enactment of this Act \[Aug. 13, 1968\] in accordance with the General Schedule set forth in section 5332, or under the appropriate prevailing rate schedule in accordance with section 5341 of title 5, United States Code, as applicable. In fixing such rate—
 
@@ -314,7 +314,7 @@ Section 8 of Pub. L. 90–486 provided that:
 
 #### Regulations: Approval by Secretary of Defense; Uniformity
 
-Section 10 of Pub. L. 90–486 provided that: “Regulations prescribed by the Secretary of the Army and Secretary of the Air Force under this Act \[see Short Title note above\] shall be approved by the Secretary of Defense and shall, so far as practicable, be uniform.”
+Pub. L. 90–486, §10, Aug. 13, 1968, 82 Stat. 760, provided that: “Regulations prescribed by the Secretary of the Army and Secretary of the Air Force under this Act \[see Short Title note above\] shall be approved by the Secretary of Defense and shall, so far as practicable, be uniform.”
 
 #### Number of Caretakers for Air National Guard
 

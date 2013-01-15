@@ -238,23 +238,23 @@ Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 712(e) of Pub
 
 #### Effective Date of 1993 Amendments
 
-Section 523(b)(1) of Pub. L. 103–182 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
+Pub. L. 103–182, title V, §523(b)(1), Dec. 8, 1993, 107 Stat. 2163, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Section 11217(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11217(b)(2), Nov. 5, 1990, 104 Stat. 1388–437, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990.”
 
-Section 11334(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply to amounts required to be deposited after December 31, 1990.”
+Pub. L. 101–508, title XI, §11334(c), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply to amounts required to be deposited after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7502(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of taxes considered collected for semimonthly periods beginning after June 30, 1990.”
+Pub. L. 101–239, title VII, §7502(b), Dec. 19, 1989, 103 Stat. 2362, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of taxes considered collected for semimonthly periods beginning after June 30, 1990.”
 
-Section 7507(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of taxes for tax periods beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7507(b), Dec. 19, 1989, 103 Stat. 2369, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of taxes for tax periods beginning after December 31, 1989.”
 
-Section 7632(b) of Pub. L. 101–239, as amended by Pub. L. 101–508, title XI, §11334(b), Nov. 5, 1990, 104 Stat. 1388–470, provided that:
+Pub. L. 101–239, title VII, §7632(b), Dec. 19, 1989, 103 Stat. 2379, as amended by Pub. L. 101–508, title XI, §11334(b), Nov. 5, 1990, 104 Stat. 1388–470, provided that:
 
 “(1)
 
@@ -264,7 +264,7 @@ General rule.—Except as provided in paragraph (2), the amendment made by subse
 
 #### Effective Date of 1988 Amendments
 
-Section 6107(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after December 31, 1988.”
+Pub. L. 100–647, title VI, §6107(b), Nov. 10, 1988, 102 Stat. 3712, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after December 31, 1988.”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -282,11 +282,11 @@ Amendment by Pub. L. 95–600 effective with respect to remuneration paid after 
 
 #### Effective Date of 1977 Amendment
 
-Section 3(c) of Pub. L. 95–147 provided that: “The amendments made by this section \[amending this section and section 7502 of this title\] shall apply to amounts deposited after the date of the enactment of this Act \[Oct. 28, 1977\].”
+Pub. L. 95–147, §3(c), Oct. 28, 1977, 91 Stat. 1228, provided that: “The amendments made by this section \[amending this section and section 7502 of this title\] shall apply to amounts deposited after the date of the enactment of this Act \[Oct. 28, 1977\].”
 
 #### Regulations
 
-Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
+Pub. L. 103–182, title V, §523(b)(2), Dec. 8, 1993, 107 Stat. 2163, provided that: “Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section).”
 
 #### Savings Provision
 
@@ -316,11 +316,11 @@ Pub. L. 105–34, title X, §1031(g), Aug. 5, 1997, 111 Stat. 933, provided that
 
 #### Delay of Electronic Fund Transfer Requirement
 
-Section 1809 of Pub. L. 104–188 provided that: “Notwithstanding any other provision of law, the increase in the applicable required percentages for fiscal year 1997 in clauses (i)(IV) and (ii)(IV) of section 6302(h)(2)(C) of the Internal Revenue Code of 1986 shall not take effect before July 1, 1997.”
+Pub. L. 104–188, title I, §1809, Aug. 20, 1996, 110 Stat. 1904, provided that: “Notwithstanding any other provision of law, the increase in the applicable required percentages for fiscal year 1997 in clauses (i)(IV) and (ii)(IV) of section 6302(h)(2)(C) of the Internal Revenue Code of 1986 shall not take effect before July 1, 1997.”
 
 #### Depositary Schedules
 
-Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the timesprescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
+Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed undersection 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the times prescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
 
 Pub. L. 98–76, title II, §227(c), Aug. 12, 1983, 97 Stat. 426, provided that: “Section 226 \[set out above\] shall take effect on January 1, 1984.”
 

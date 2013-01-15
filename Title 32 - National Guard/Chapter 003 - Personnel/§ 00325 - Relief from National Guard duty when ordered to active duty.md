@@ -12,7 +12,7 @@ Relief Required.—(1) Except as provided in paragraph (2), each member of the A
 
 (b)
 
-Advance Authorization and Consent.—The President and the Governor of a State orTerritory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
+Advance Authorization and Consent.—The President and the Governor of a State or Territory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
 
 (c)
 
@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§710, 712(b) (less last 17 words), 66 Stat. 503, 504.
 
-In subsection (a), the words “in the service of the United States” are omitted as surplusage. The words “effective date of his order to active duty until he is relieved from that duty” are substituted for the words “active-duty date of the orders and for as long as they remain on active duty in the service of the United States”. 50:1120 (last sentence) is omitted as surplusage, since the persons involved are members of the Army or the Air Force.
+In subsection (a), the words “in the service of the United States” are omitted as surplusage. The words “effective date of his order to active duty until he is relieved from that duty” are substituted for the words“active-duty date of the orders and for as long as they remain on active duty in the service of the United States”. 50:1120 (last sentence) is omitted as surplusage, since the persons involved are members of the Army or the Air Force.
 
 In subsection (b), the words “upon relief from that duty” are substituted for the words “upon being relieved from active duty”. The words “their National Guard status” are substituted for the words “to the National Guard and Air National Guard in their respective States, Territories, and the District of Columbia”.
 

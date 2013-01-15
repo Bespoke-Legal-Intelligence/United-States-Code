@@ -1,6 +1,6 @@
 ### §564k. Loan transfers; collection by tribe
 
-All loans made from the reimbursable loan fund established by section 531 of this title, andall other loans made from Klamath tribal funds, including loans of livestock made by the tribe repayable in kind, shall be transferred to the tribe for collection in accordance with the terms thereof.
+All loans made from the reimbursable loan fund established by section 531 of this title, and all other loans made from Klamath tribal funds, including loans of livestock made by the tribe repayable in kind, shall be transferred to the tribe for collection in accordance with the terms thereof.
 
 (Aug. 13, 1954, ch. 732, §12, 68 Stat. 721.)
 

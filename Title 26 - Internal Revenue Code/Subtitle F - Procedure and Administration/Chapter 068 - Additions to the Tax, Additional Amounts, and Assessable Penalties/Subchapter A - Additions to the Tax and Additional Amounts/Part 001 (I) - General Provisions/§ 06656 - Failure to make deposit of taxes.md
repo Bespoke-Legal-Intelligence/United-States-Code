@@ -72,7 +72,7 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 Subsec. (e). Pub. L. 105–206, §3304(a), added subsec. (e).
 
-Subsec. (e)(1). Pub. L. 105–206, §3304(c), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Aperson may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.”
+Subsec. (e)(1). Pub. L. 105–206, §3304(c), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “A person may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.”
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–168, §304(a), added subsec. (c).
 
@@ -108,21 +108,21 @@ Application to current liabilities.—The amendment made by subsection (c) \[ame
 
 #### Effective Date of 1996 Amendment
 
-Section 304(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to deposits required to be made after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title III, §304(b), July 30, 1996, 110 Stat. 1459, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to deposits required to be made after the date of the enactment of this Act \[July 30, 1996\].”
 
 Amendment by section 701(c)(3) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7742(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to deposits required to be made after December 31, 1989.”
+Pub. L. 101–239, title VII, §7742(c), Dec. 19, 1989, 103 Stat. 2405, provided that: “The amendments made by this section \[amending this section\] shall apply to deposits required to be made after December 31, 1989.”
 
 #### Effective Date of 1986 Amendment
 
-Section 8001(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title VIII, §8001(b), Oct. 21, 1986, 100 Stat. 1951, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 #### Effective Date of 1981 Amendment
 
-Section 724(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 5684 and 5761 of this title\] shall apply to returns filed after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–34, title VII, §724(c), Aug. 13, 1981, 95 Stat. 345, provided that: “The amendments made by this section \[amending this section and sections 5684 and 5761 of this title\] shall apply to returns filed after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1969 Amendment
 

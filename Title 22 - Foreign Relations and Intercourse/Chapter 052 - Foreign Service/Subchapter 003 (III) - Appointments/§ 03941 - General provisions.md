@@ -10,7 +10,7 @@ The Secretary shall prescribe, as appropriate, written, oral, physical, foreign 
 
 #### (c) Veteran or disabled veteran
 
-The fact that an applicant for appointment as a Foreign Service officer candidate is a veteran or disabled veteran shall be considered an affirmative factor in making such appointments. As used in this subsection, the term “veteran or disabled veteran” means an individual who is a preference eligible under subparagraph (A), (B), or (C) of section 2108(3) of title 5.
+The fact that an applicant for appointment as a Foreign Service officer candidate is a veteranor disabled veteran shall be considered an affirmative factor in making such appointments. As used in this subsection, the term “veteran or disabled veteran” means an individual who is a preference eligible under subparagraph (A), (B), or (C) of section 2108(3) of title 5.
 
 #### (d) Career and noncareer appointments
 
@@ -18,7 +18,7 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 (2) Chiefs of mission, ambassadors at large, and ministers serve at the pleasure of the President.
 
-(3) An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis ofholding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
+(3) An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis of holding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
 
 (Pub. L. 96–465, title I, §301, Oct. 17, 1980, 94 Stat. 2083; Pub. L. 100–204, title I, §179(a), Dec. 22, 1987, 101 Stat. 1362.)
 
@@ -28,7 +28,7 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 #### Effective Date of 1987 Amendment
 
-Section 179(b) of Pub. L. 100–204 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to tax years beginning after December 31, 1987.”
+Pub. L. 100–204, title I, §179(b), Dec. 22, 1987, 101 Stat. 1363, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to tax years beginning after December 31, 1987.”
 
 #### Study of Foreign Service Examination
 

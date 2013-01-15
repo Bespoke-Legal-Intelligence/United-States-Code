@@ -1,6 +1,6 @@
 ### §1059. Recordkeeping and reporting requirements
 
-(a)(1) Except as provided by paragraph (2) every employer shall, in accordance with such regulations as the Secretary may prescribe, maintain records with respect to each of his employees sufficient to determine the benefits due or which may become due to such employees. The plan administrator shall make a report, in such manner and at such time as may be provided in regulations prescribed by the Secretary, to each employee who is a participant under the plan and who—
+(a)(1) Except as provided by paragraph (2) every employer shall, in accordance with suchregulations as the Secretary may prescribe, maintain records with respect to each of his employees sufficient to determine the benefits due or which may become due to such employees. The plan administrator shall make a report, in such manner and at such time as may be provided in regulations prescribed by the Secretary, to each employee who is a participant under the plan and who—
 
 &emsp;(A) requests such report, in such manner and at such time as may be provided in such regulations,
 

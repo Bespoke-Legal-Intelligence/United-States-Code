@@ -16,7 +16,7 @@
 
 (2) In the Senate, debate on the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the joint resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
 
-(3) In the Senate, immediately following the conclusion of the debate on a joint resolution described in subsection (a), and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, the vote on final passage of the joint resolution shall occur.
+(3) In the Senate, immediately following the conclusion of the debate on a joint resolution described in subsection (a), and a single quorum call at the conclusion of the debate if requestedin accordance with the rules of the Senate, the vote on final passage of the joint resolution shall occur.
 
 (4) Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a joint resolution described in subsection (a) shall be decided without debate.
 
@@ -24,7 +24,7 @@
 
 &emsp;(1) after the expiration of the 60 session days beginning with the applicable submission or publication date, or
 
-&emsp;(2) if the report under section 801(a)(1)(A) was submitted during the period referred to in section 801(d)(1), after the expiration of the 60session days beginning on the 15th session day after the succeeding session of Congress first convenes.
+&emsp;(2) if the report under section 801(a)(1)(A) was submitted during the period referred to in section 801(d)(1), after the expiration of the 60 session days beginning on the 15th session day after the succeeding session of Congress first convenes.
 
 (f) If, before the passage by one House of a joint resolution of that House described in subsection (a), that House receives from the other House a joint resolution described in subsection (a), then the following procedures shall apply:
 

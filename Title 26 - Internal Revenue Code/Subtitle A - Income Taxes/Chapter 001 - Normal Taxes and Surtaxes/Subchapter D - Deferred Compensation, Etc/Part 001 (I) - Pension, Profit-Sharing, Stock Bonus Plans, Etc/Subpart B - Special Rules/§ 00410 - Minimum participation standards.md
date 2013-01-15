@@ -54,7 +54,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as otherwise provided in subparagraphs (B), (C), and (D), all years of servicewith the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of paragraph (1).
+&emsp;&emsp;Except as otherwise provided in subparagraphs (B), (C), and (D), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of paragraph (1).
 
 #### (B) Employees under 2-year 100 percent vesting
 
@@ -122,7 +122,7 @@
 
 #### (v) Information required to be filed
 
-&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
+&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will begiven pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
 
 &emsp;&emsp;&emsp;&emsp;(I) that the absence from work is for reasons referred to in clause (i), and
 
@@ -414,7 +414,7 @@ Amendment by section 1901(a)(61) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date; Transitional Rules
 
-Section 1017 of Pub. L. 93–406, as amended by Pub. L. 94–12, title IV, §402, Mar. 29, 1975, 89 Stat. 47; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 93–406, title II, §1017, Sept. 2, 1974, 88 Stat. 932, as amended by Pub. L. 94–12, title IV, §402, Mar. 29, 1975, 89 Stat. 47; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -464,7 +464,7 @@ Application of funding rules.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
+In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or moreagreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
 
 &emsp;&emsp;“(B)
 
@@ -472,7 +472,7 @@ Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, p
 
 &emsp;&emsp;“(C)
 
-Labor organization conventions.—In the case of a plan maintained by a labor organization,which is exempt from tax under section 501(c)(5) of the Internal Revenue Code of 1986 exclusively for the benefit of its employees and their beneficiaries, section 412 of such Code and other amendments made by this part to the extent such amendments relate to such section 412, shall be applied by substituting for the term ‘December 31, 1975’ in subsection (b), the earlier of—
+Labor organization conventions.—In the case of a plan maintained by a labor organization, which is exempt from tax under section 501(c)(5) of the Internal Revenue Code of 1986 exclusively for the benefit of its employees and their beneficiaries, section 412 of such Code and other amendments made by this part to the extent such amendments relate to such section 412, shall be applied by substituting for the term ‘December 31, 1975’ in subsection (b), the earlier of—
 
 &emsp;&emsp;&emsp;“(i) the date on which the second convention of such labor organization held after the date of the enactment of this Act \[Sept. 2, 1974\] ends, or
 
@@ -540,7 +540,7 @@ Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 For provisions directing that if any amendments made by section 9203(a)(2) of Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 

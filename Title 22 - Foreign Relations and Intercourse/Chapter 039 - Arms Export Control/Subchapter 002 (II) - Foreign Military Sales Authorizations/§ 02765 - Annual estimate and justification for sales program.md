@@ -4,7 +4,7 @@
 
 Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
-&emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under this chapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
+&emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under thischapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
 
 &emsp;(2) an estimate of the total amount of sales and licensed commercial exports, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, expected to be made to each foreign nation from the United States;
 
@@ -44,7 +44,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 #### (b) Congressional request for additional information
 
-Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) of this section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
+Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) ofthis section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
 
 #### (c) Submission of information in unclassified form or classified addendum with unclassified summary
 
@@ -106,7 +106,7 @@ Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required
 
 Subsec. (a)(3). Pub. L. 97–113 added par. (3) which incorporated provisions of former par. (1) requiring the report to contain an estimate of amounts of expected sales to each country under sections 2761 and 2762 of this title, including detailed explanations of foreign policy and United States national security considerations in expected sales to each country, and (5) requiring inclusion of an arms control impact statement for each purchasing country, covering (A) an analysis of the relationship between expected sales to each country and arms control efforts relating to that country, and (B) the impact of such expected sales on the stability of the region that included the purchasing country. Former par. (3) redesignated (7).
 
-Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years. Former par. (4) covered in par. (8).
+Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to allmajor recipient countries during the preceding three years. Former par. (4) covered in par. (8).
 
 Subsec. (a)(5). Pub. L. 97–113 added par. (5) which incorporated provisions of former par. (2) requiring the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title. Former par. (5) covered in par. (3).
 

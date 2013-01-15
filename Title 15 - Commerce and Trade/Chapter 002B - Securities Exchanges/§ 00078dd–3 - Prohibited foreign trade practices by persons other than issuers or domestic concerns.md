@@ -94,7 +94,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 

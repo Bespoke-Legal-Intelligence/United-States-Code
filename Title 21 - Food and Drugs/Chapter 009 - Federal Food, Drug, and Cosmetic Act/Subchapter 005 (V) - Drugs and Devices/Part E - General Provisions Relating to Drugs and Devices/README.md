@@ -12,3 +12,8 @@ Part E—General Provisions Relating to Drugs and Devices
 - [&sect; 00360bbb&#8211;4 - Technical assistance](%C2%A7%2000360bbb%E2%80%934%20-%20Technical%20assistance.md)
 - [&sect; 00360bbb&#8211;5 - Critical Path Public-Private Partnerships](%C2%A7%2000360bbb%E2%80%935%20-%20Critical%20Path%20Public-Private%20Partnerships.md)
 - [&sect; 00360bbb&#8211;6 - Risk communication](%C2%A7%2000360bbb%E2%80%936%20-%20Risk%20communication.md)
+- [&sect; 00360bbb&#8211;7 - Notification](%C2%A7%2000360bbb%E2%80%937%20-%20Notification.md)
+- [&sect; 00360bbb&#8211;8 - Consultation with external experts on rare diseases, targeted therapies, and genetic targeting of treatments](%C2%A7%2000360bbb%E2%80%938%20-%20Consultation%20with%20external%20experts%20on%20rare%20diseases%2C%20targeted%20therapies%2C%20and%20genetic%20targeting%20of%20treatments.md)
+- [&sect; 00360bbb&#8211;8a - Optimizing global clinical trials](%C2%A7%2000360bbb%E2%80%938a%20-%20Optimizing%20global%20clinical%20trials.md)
+- [&sect; 00360bbb&#8211;8b - Use of clinical investigation data from outside the United States](%C2%A7%2000360bbb%E2%80%938b%20-%20Use%20of%20clinical%20investigation%20data%20from%20outside%20the%20United%20States.md)
+- [&sect; 00360bbb&#8211;8c - Patient participation in medical product discussion](%C2%A7%2000360bbb%E2%80%938c%20-%20Patient%20participation%20in%20medical%20product%20discussion.md)

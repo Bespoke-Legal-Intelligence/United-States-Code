@@ -8,7 +8,7 @@ Findings and Purpose.—
 
 Findings.—The Congress finds the following:
 
-&emsp;&emsp;(A) Money laundering and related financial crimes frequently appear to be concentratedin particular geographic areas, financial systems, industry sectors, or financial institutions.
+&emsp;&emsp;(A) Money laundering and related financial crimes frequently appear to be concentrated in particular geographic areas, financial systems, industry sectors, or financial institutions.
 
 &emsp;&emsp;(B) While the Secretary has the responsibility to act with regard to Federal offenses which are being committed in a particular locality or are directed at a single institution, because modern financial systems and institutions are interconnected to a degree which was not possible until recently, money laundering and other related financial crimes are likely to have local, State, national, and international effects wherever they are committed.
 
@@ -22,7 +22,7 @@ Purpose and objective.—It is the purpose of this section to provide a mechanis
 
 (b)
 
-Element of National Strategy.—The designation of certain areas as areas in which money laundering and related financial crimes are extensive or present a substantial risk shall be an element of the national strategy developed pursuant to section 5341(b).
+Element of National Strategy.—The designation of certain areas as areas in whichmoney laundering and related financial crimes are extensive or present a substantial risk shall be an element of the national strategy developed pursuant to section 5341(b).
 
 (c)
 

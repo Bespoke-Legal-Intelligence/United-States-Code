@@ -34,7 +34,7 @@
 
 &emsp;(C) upon payment of the tax determined by such governmental unit to be due.
 
-(c) Notwithstanding section 362 of this title, after determination by the court of a tax underthis section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
+(c) Notwithstanding section 362 of this title, after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 98–353, title III, §447, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title VII, §§701(b), 703, 715, Apr. 20, 2005, 119 Stat. 124, 125, 129; Pub. L. 111–327, §2(a)(14), Dec. 22, 2010, 124 Stat. 3559.)
 

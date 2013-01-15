@@ -72,7 +72,7 @@ Under regulations prescribed by the Secretary, if—
 
 > an election may be made to treat such sale, exchange, or distribution as a disposition of all of the assets of such other corporation, and no gain or loss shall be recognized on the sale, exchange, or distribution of such stock.
 
-(Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, titleI, §§1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
+(Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, title I, §§1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, P
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
-Subsec. (c). Pub. L. 100–647, §1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
+Subsec. (c). Pub. L. 100–647, §1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extentthere is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1006(e)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II).”
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 633 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1006(g), Nov. 10, 1988, 102 Stat. 3407, provided that:
+Pub. L. 99–514, title VI, §633, Oct. 22, 1986, 100 Stat. 2277, as amended by Pub. L. 100–647, title I, §1006(g), Nov. 10, 1988, 102 Stat. 3407, provided that:
 
 “(a)
 

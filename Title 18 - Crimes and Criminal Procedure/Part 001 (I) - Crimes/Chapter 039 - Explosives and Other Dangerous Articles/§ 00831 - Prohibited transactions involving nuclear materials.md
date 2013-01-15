@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) thereby knowingly causes the death of or serious bodily injury to any person or substantial damage to property or to the environment; or
 
-&emsp;&emsp;(B) circumstances exist, or have been represented to the defendant to exist, that arelikely to cause the death or serious bodily injury to any person, or substantial damage to property or to the environment;
+&emsp;&emsp;(B) circumstances exist, or have been represented to the defendant to exist, that are likely to cause the death or serious bodily injury to any person, or substantial damage to property or to the environment;
 
 &emsp;(2) with intent to deprive another of nuclear material or nuclear byproduct material, knowingly—
 
@@ -186,11 +186,11 @@ Subsec. (c)(1). Pub. L. 103–272 substituted “section 46501 of title 49” fo
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–351 provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the PhysicalProtection of Nuclear Material Implementation Act of 1982’.”
+Pub. L. 97–351, §1, Oct. 18, 1982, 96 Stat. 1663, provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
 
 #### Findings and Purpose of Title V of Pub. L. 104–132 Relating to Nuclear Materials
 
-Section 501 of title V of Pub. L. 104–132 provided that:
+Pub. L. 104–132, title V, §501, Apr. 24, 1996, 110 Stat. 1281, provided that:
 
 “(a)
 

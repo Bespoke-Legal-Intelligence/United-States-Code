@@ -16,7 +16,7 @@
 
 #### Effective Date; Rules and Regulations
 
-Section 16, formerly §15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, §28(b)(1), Apr. 8, 1974, 88 Stat.74, provided that: “This Act \[enacting this chapter\] shall become effective one hundred and eighty days after enactment \[Dec. 15, 1967\], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment \[Dec. 15, 1967\] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
+Section 16, formerly §15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, §28(b)(1), Apr. 8, 1974, 88 Stat. 74, provided that: “This Act \[enacting this chapter\] shall become effective one hundred and eighty days after enactment \[Dec. 15, 1967\], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment \[Dec. 15, 1967\] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
 
 #### Short Title of 1996 Amendment
 
@@ -36,7 +36,7 @@ Pub. L. 95–256, §1, Apr. 6, 1978, 92 Stat. 189, provided that: “This Act \[
 
 #### Short Title
 
-Section 1 of Pub. L. 90–202 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Age Discrimination in Employment Act of 1967’.”
+Pub. L. 90–202, §1, Dec. 15, 1967, 81 Stat. 602, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Age Discrimination in Employment Act of 1967’.”
 
 #### Transfer of Functions
 

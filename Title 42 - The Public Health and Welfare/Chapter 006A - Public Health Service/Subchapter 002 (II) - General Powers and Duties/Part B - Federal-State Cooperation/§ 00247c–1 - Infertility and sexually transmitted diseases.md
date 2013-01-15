@@ -16,7 +16,7 @@ With respect to any sexually transmitted disease described in subsection (a) of 
 
 &emsp;(2) providing treatment to women for the disease;
 
-&emsp;(3) providing counseling to women on the prevention and control of the disease (including, in the case of a woman with the disease, counseling on the benefits of locating and providing such counseling to any individual from whom the woman may have contracted the disease and any individual whom the woman may have exposed to the disease);
+&emsp;(3) providing counseling to women on the prevention and control of the disease (including, in the case of a woman with the disease,counseling on the benefits of locating and providing such counseling to any individual from whom the woman may have contracted the disease and any individual whom the woman may have exposed to the disease);
 
 &emsp;(4) providing follow-up services;
 
@@ -84,7 +84,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 With respect to activities for which a grant under subsection (a) of this section is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
 
-#### (<i>l</i>) Requirement of application
+#### (l) Requirement of application
 
 #### (1) In general
 
@@ -124,7 +124,7 @@ The period during which payments are made to an entity from a grant under subsec
 
 > &emsp;when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
-#### (<i>o</i>) Evaluations and reports by Secretary
+#### (o) Evaluations and reports by Secretary
 
 #### (1) Evaluations
 
@@ -134,7 +134,7 @@ The period during which payments are made to an entity from a grant under subsec
 
 &emsp;Not later than 1 year after the date on which amounts are first appropriated pursuant to subsection (q) of this section, and biennially thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report—
 
-&emsp;&emsp;(A) summarizing the information provided to the Secretary in reports made pursuant tosubsection (j)(1) of this section, including information on the incidence of sexually transmitted diseases described in subsection (a) of this section; and
+&emsp;&emsp;(A) summarizing the information provided to the Secretary in reports made pursuant to subsection (j)(1) of this section, including information on the incidence of sexually transmitted diseases described in subsection (a) of this section; and
 
 &emsp;&emsp;(B) summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year.
 
@@ -144,7 +144,7 @@ The Secretary shall coordinate the program carried out under this section with a
 
 #### (q) Authorization of appropriations
 
-For the purpose of carrying out this section, other than subsections (<i>o</i>) and (r) of this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
+For the purpose of carrying out this section, other than subsections (o) and (r) of this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
 
 #### (r) Separate grants for research on delivery of services
 
@@ -172,7 +172,7 @@ Section 256a of this title, referred to in subsec. (e), was repealed by Pub. L. 
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §304, which enacted this section.
 
-Subsec. (<i>o</i>)(2). Pub. L. 103–183, §402(a), substituted “subsection (q)” for “subsection (s)”.
+Subsec. (o)(2). Pub. L. 103–183, §402(a), substituted “subsection (q)” for “subsection (s)”.
 
 Subsec. (q). Pub. L. 103–183, §402(b)(1), substituted “through 1998” for “and 1995”.
 

@@ -132,9 +132,9 @@ Funds provided under this part that are used for professional development purpos
 
 #### (k) Special rule
 
-Except as provided in subsection (<i>l</i>) of this section, no State educational agency shall require a school or a local educational agency to expend a specific amount of funds for professional development activities under this part, except that this paragraph shall not apply with respect to requirements under section 6316(c)(3) of this title.
+Except as provided in subsection (l) of this section, no State educational agency shall require a school or a local educational agency to expend a specific amount of funds for professional development activities under this part, except that this paragraph shall not apply with respect to requirements under section 6316(c)(3) of this title.
 
-#### (<i>l</i>) Minimum expenditures
+#### (l) Minimum expenditures
 
 Each local educational agency that receives funds under this part shall use not less than 5 percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.
 

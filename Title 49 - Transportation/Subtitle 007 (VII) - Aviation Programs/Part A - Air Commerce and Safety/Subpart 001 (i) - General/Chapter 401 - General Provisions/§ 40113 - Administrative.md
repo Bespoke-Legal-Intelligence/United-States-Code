@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation (or the Under Secretary of 
 
 (b)
 
-Hazardous Material.—In carrying out this part, the Secretary has the same authorityto regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
+Hazardous Material.—In carrying out this part, the Secretary has the same authority to regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
 
 (c)
 
@@ -22,15 +22,21 @@ Assistance to Foreign Aviation Authorities.—
 
 &emsp;(1)
 
-Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety. To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
 &emsp;(2)
 
-Reimbursement sought.—The Administrator shall actively seek reimbursement for services provided under this subsection from foreign aviation authorities capable of providing such reimbursement.
+Reimbursement sought.—The Administrator shall actively seek reimbursement for services provided under this subsection from foreign aviation authorities capable of providing such reimbursement. The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears.
 
 &emsp;(3)
 
-Crediting appropriations.—Funds received by the Administrator pursuant to this section shall be credited to the appropriation from which the expenses were incurred in providing such services.
+Crediting appropriations.—Funds received by the Administrator pursuant to this section shall—
+
+&emsp;&emsp;(A) be credited to the appropriation current when the amount is received;
+
+&emsp;&emsp;(B) be merged with and available for the purposes of such appropriation; and
+
+&emsp;&emsp;(C) remain available until expended.
 
 &emsp;(4)
 
@@ -40,7 +46,7 @@ Reporting.—Not later than December 31, 1995, and annually thereafter, the Admi
 
 Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39.)
 
 Historical and Revision Notes
 
@@ -108,6 +114,12 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
+<b>2012</b>—Subsec. (e)(1). Pub. L. 112–95, §207(1), inserted “(whether public or private)” after “authorities” and substituted “safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6).” for “safety.”
+
+Subsec. (e)(2). Pub. L. 112–95, §207(2), inserted at end “The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears.”
+
+Subsec. (e)(3). Pub. L. 112–95, §207(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Funds received by the Administrator pursuant to this section shall be credited to the appropriation from which the expenses were incurred in providing such services.”
+
 <b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted “Under Secretary of Transportation for Security or the” after “The” and substituted “employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be,” for “employee of the Administration” and “the Under Secretary or Administrator, as the case may be, decides” for “the Administrator decides”.
@@ -154,9 +166,9 @@ Pub. L. 101–164, title I, Nov. 21, 1989, 103 Stat. 1076.
 
 Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2131.
 
-Pub. L. 100–202, §101(<i>l</i>) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–363.
+Pub. L. 100–202, §101(l) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–363.
 
-Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 30, 1986, 100 Stat. 3341–308.
+Pub. L. 99–500, §101(l) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l) \[H.R. 5205, title I\], Oct. 30, 1986, 100 Stat. 3341–308.
 
 Pub. L. 99–190, §101(e) \[title I\], Dec. 19, 1985, 99 Stat. 1267, 1273.
 

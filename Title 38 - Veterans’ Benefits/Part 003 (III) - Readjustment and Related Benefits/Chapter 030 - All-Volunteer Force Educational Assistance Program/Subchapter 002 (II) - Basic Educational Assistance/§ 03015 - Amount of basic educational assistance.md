@@ -32,7 +32,7 @@
 
 (d)(1) In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit, the Secretary concerned, pursuant to regulations to be prescribed by the Secretary of Defense, may, at the time the individual first becomes a member of the Armed Forces, increase the rate of the basic educational assistance allowance applicable to such individual to such rate in excess of the rate prescribed under subsections (a), (b), and (c) of this section as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $950 per month.
 
-(2) In the case of an individual who after October 7, 1997, receives an enlistment bonus under section 308a or 308f <sup>1</sup> of title 37, receipt of that bonus does not affect the eligibility of that individual for an increase under paragraph (1) in the rate of the basic educational assistance allowance applicable to that individual, and the Secretary concerned may provide such an increase for that individual (and enter into an agreement with that individual that the United States agrees to make payments pursuant to such anincrease) without regard to any provision of law (enacted before, on, or after the date of the enactment of this paragraph) that limits the authority to make such payments.
+(2) In the case of an individual who after October 7, 1997, receives an enlistment bonus under section 308a or 308f <sup>1</sup> of title 37, receipt of that bonus does not affect the eligibility of that individual for an increase under paragraph (1) in the rate of the basic educational assistance allowance applicable to that individual, and the Secretary concerned may provide such an increase for that individual (and enter into an agreement with that individual that the United States agrees to make payments pursuant to such an increase) without regard to any provision of law (enacted before, on, or after the date of the enactment of this paragraph) that limits the authority to make such payments.
 
 (e)(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2) of this subsection, in the case of an individual who on December 31, 1989, was entitled to educational assistance under chapter 34 of this title, the rate of the basic educational assistance allowance applicable to such individual under this chapter shall be increased by the amount equal to one-half of the educational assistance allowance that would be applicable to such individual under such chapter 34 (as of the time the assistance under this chapter is provided and based on the rates in effect on December 31, 1989) if such chapter were in effect.
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 107–14, §7(b)(2)(A)(ii), struck out subsec. (h) which re
 
 &emsp;“(2) 36.”
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419, §103(d)(1), inserted “in the case of an individual entitled to an educational assistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years,” before “a basic educational assistance allowance” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §103(d)(1), inserted “in the case of an individual entitled to an educationalassistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years,” before “a basic educational assistance allowance” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 106–419, §105(b)(1), which directed substitution of “subsection (h)” for “subsection (g)” wherever appearing, could not be executed because the words “subsection (g)” did not appear subsequent to the amendment by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(A)\]. See below.
 
@@ -246,13 +246,13 @@ Pub. L. 105–178, title VIII, §8203(a)(4), June 9, 1998, 112 Stat. 493, provid
 
 #### Effective Date of 1993 Amendment
 
-Section 12009(d)(3) of Pub. L. 103–66 provided that: “The amendments made by paragraphs (1) and (2)\[amending this section\] shall apply as if included in the enactment of Public Law 102–568.”
+Pub. L. 103–66, title XII, §12009(d)(3), Aug. 10, 1993, 107 Stat. 416, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply as if included in the enactment of Public Law 102–568.”
 
 #### Effective Date of 1992 Amendment
 
 Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993, but not to be construed to change account from which payment is made for certain portion of payments made under this chapter or chapter 106 of Title 10, Armed Services, see section 301(e) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
 
-Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after September 1, 1993.”
+Pub. L. 102–568, title III, §307(c), Oct. 29, 1992, 106 Stat. 4329, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after September 1, 1993.”
 
 #### Adjustment in Rates of Educational Assistance
 

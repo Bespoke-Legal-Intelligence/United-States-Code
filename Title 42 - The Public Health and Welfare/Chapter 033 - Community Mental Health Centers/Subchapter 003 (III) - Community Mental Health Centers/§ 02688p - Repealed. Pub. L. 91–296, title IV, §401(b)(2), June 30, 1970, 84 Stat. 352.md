@@ -4,5 +4,5 @@ Section, Pub. L. 88–164, title II, §262, as added Pub. L. 90–574, title III
 
 #### Effective Date of Repeal
 
-Section 401(b)(2) of Pub. L. 91–296 provided that the repeal by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
+Pub. L. 91–296, title IV, §401(b)(2), June 30, 1970, 84 Stat. 352, provided that the repeal by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 

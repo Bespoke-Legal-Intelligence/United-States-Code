@@ -4,5 +4,5 @@ Section, acts Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Feb. 25, 1919, ch. 29, 
 
 #### Savings Provision
 
-Section 13 of Pub. L. 91–272, as amended by Pub. L. 91–450, Oct. 14, 1970, 84 Stat. 922, provided in part that nothing in the repeal of Act Mar. 2, 1917, as amended, by said section 13 would impair the jurisdiction of the United States District Court for the District of Puerto Rico to hear and determine any action or matter begun in the court on or before June 2, 1970.
+Pub. L. 91–272, §13, June 2, 1970, 84 Stat. 298, as amended by Pub. L. 91–450, Oct. 14, 1970, 84 Stat. 922, provided in part that nothing in the repeal of Act Mar. 2, 1917, as amended, by said section 13 would impair the jurisdiction of the United States District Court for the District of Puerto Rico to hear and determine any action or matter begun in the court on or before June 2, 1970.
 

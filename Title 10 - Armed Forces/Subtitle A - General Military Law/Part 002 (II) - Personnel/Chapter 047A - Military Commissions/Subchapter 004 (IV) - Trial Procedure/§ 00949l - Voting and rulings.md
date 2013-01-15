@@ -26,5 +26,5 @@ Instructions Prior to Vote.—Before a vote is taken of the findings of a milita
 
 #### Prior Provisions
 
-A prior section 949<i>l</i>, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to voting and rulings, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949l, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to voting and rulings, prior to the general amendment of this chapter by Pub. L. 111–84.
 

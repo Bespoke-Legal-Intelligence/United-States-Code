@@ -40,7 +40,7 @@ In this section, the term “premium assistance subsidy” means the amount of t
 
 #### (2) Beneficiaries
 
-&emsp;No subsidy shall be provided to an individual under age 19 under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. State <sup>3</sup> may not require, as a condition of an individual under age 19 (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.
+&emsp;No subsidy shall be provided to an individual under age 19 under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. State <sup>3</sup> may notrequire, as a condition of an individual under age 19 (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.
 
 #### (3) Opt-out permitted for any month
 
@@ -48,7 +48,7 @@ In this section, the term “premium assistance subsidy” means the amount of t
 
 #### (e) Requirement to pay premiums and cost-sharing and provide supplemental coverage
 
-In the case of the participation of an individual under age 19 (or the individual's parent) in a premium assistance subsidy under this section for qualified employer-sponsored coverage, the State shall provide for payment of all enrollee premiums for enrollment in such coverage and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396<i>o</i> of this title or, if applicable, section 1396<i>o</i>–1 of this title). The fact that an individual under age 19 (or a parent) elects to enroll in qualified employer-sponsored coverage under this section shall not change the individual's (or parent's) eligibility for medical assistance under the State plan, except insofar as section 1396a(a)(25) of this title provides that payments for such assistance shall first be made under such coverage.
+In the case of the participation of an individual under age 19 (or the individual's parent) in a premium assistance subsidy under this section for qualified employer-sponsored coverage, the State shall provide for payment of all enrollee premiums for enrollment in such coverage and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396o of this title or, if applicable, section 1396o–1 of this title). The fact that an individual under age 19 (or a parent) elects to enroll in qualified employer-sponsored coverage under this section shall not change the individual's (or parent's) eligibility for medical assistance under the State plan, except insofar as section 1396a(a)(25) of this title provides that payments for such assistance shall first be made under such coverage.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1906A, as added Pub. L. 111–3, title III, §301(b), Feb. 4, 2009, 123 Stat. 61; amended Pub. L. 111–148, title II, §2003(a), (b), title X, §10203(b)(2), Mar. 23, 2010, 124 Stat. 282, 283, 927.)
 
@@ -118,7 +118,7 @@ Section effective Apr. 1, 2009, and applicable to child health assistance and me
 
 #### Effect of Certain Amendment by Pub. L. 111–148
 
-Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: “This Act shall be applied without regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect.”
+Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: “This Act shall be appliedwithout regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect.”
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

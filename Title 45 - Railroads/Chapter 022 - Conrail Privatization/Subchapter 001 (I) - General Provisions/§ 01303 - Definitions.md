@@ -18,13 +18,13 @@ For the purposes of this chapter—
 
 &emsp;(5) the term “Corporation” means the Consolidated Rail Corporation;
 
-&emsp;(6) the term “cumulative net income” means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generally accepted accounting principles, before provision for expenses (net of income tax effect) related to—
+&emsp;(6) the term “cumulative net income” means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generallyaccepted accounting principles, before provision for expenses (net of income tax effect) related to—
 
 &emsp;&emsp;(A) amounts paid by the Corporation under section 4024(e), and comparable payments made to present and former employees of the Corporation not covered by such section; and
 
 &emsp;&emsp;(B) the aggregate value of any shares and cash distributed by the Corporation under section 4024(f);
 
-&emsp;(7) the term “debt” means (A) indebtedness, whether or not represented by bonds, debentures, notes, or other securities, for the repayment of money borrowed, (B) deferred indebtedness for the payment of the purchase price of property or assets purchased, (C) guarantees, endorsements, assumptions, and other contingent obligations in respect of, or to purchase or to otherwise acquire, indebtedness of others, and (D) indebtedness secured by any mortgage, pledge, or lien existing on property owned, subject to such mortgage, pledge, orlien, whether or not indebtedness secured thereby shall have been assumed;
+&emsp;(7) the term “debt” means (A) indebtedness, whether or not represented by bonds, debentures, notes, or other securities, for the repayment of money borrowed, (B) deferred indebtedness for the payment of the purchase price of property or assets purchased, (C) guarantees, endorsements, assumptions, and other contingent obligations in respect of, or to purchase or to otherwise acquire, indebtedness of others, and (D) indebtedness secured by any mortgage, pledge, or lien existing on property owned, subject to such mortgage, pledge, or lien, whether or not indebtedness secured thereby shall have been assumed;
 
 &emsp;(8) the term “funded debt” means all debt created, assumed, or guaranteed, directly or indirectly, by the Corporation and its subsidiaries which matures by its terms, or is renewable at the option of the Corporation or any such subsidiary to a date, more than 1 year after the date of the original creation, assumption, or guarantee of such debt by the Corporation or such subsidiary;
 

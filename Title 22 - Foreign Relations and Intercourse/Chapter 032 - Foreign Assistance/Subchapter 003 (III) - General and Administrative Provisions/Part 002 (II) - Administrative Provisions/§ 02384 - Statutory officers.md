@@ -6,7 +6,7 @@ The President may appoint, by and with the advice and consent of the Senate, twe
 
 #### (b) Rate of compensation; title of officers; order of succession
 
-Within the limitations established by subsection (a) of this section, the President may fixthe rate of compensation, and may designate the title of, any officer appointed pursuant to the authority contained in that subsection. The President may also fix the order of succession among the officers provided for in subsection (a) of this section in the event of the absence, death, resignation, or disability of one or more of said officers.
+Within the limitations established by subsection (a) of this section, the President may fix the rate of compensation, and may designate the title of, any officer appointed pursuant to the authority contained in that subsection. The President may also fix the order of succession among the officers provided for in subsection (a) of this section in the event of the absence, death, resignation, or disability of one or more of said officers.
 
 #### (c) Appointment of certain statutory officers to comparable positions
 
@@ -84,27 +84,31 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Section 124(c) of Pub. L. 95–88 provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under this section\] shall take effect on July 1, 1978.”
+Pub. L. 95–88, title I, §124(c), Aug. 3, 1977, 91 Stat. 542, provided that: “The amendments made by this section \[amending this section and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under this section\] shall take effect on July 1, 1978.”
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, §501, Aug. 14, 1964, 78 Stat. 435.
 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Assistant Administrator for Management
+
+Pub. L. 112–166, §2(v)(1), Aug. 10, 2012, 126 Stat. 1288, provided that: “Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.”
+
 #### Assumption of Duties by Coordinator for Human Rights and Humanitarian Affairs
 
-Section 109(a)(6) of Pub. L. 95–105 provided that: “The individual holding the position of Coordinator for Human Rights and Humanitarian Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Human Rights and Humanitarian Affairs and shall not be required to be reappointed by reason of the enactment of this section.”
+Pub. L. 95–105, title I, §109(a)(6), Aug. 17, 1977, 91 Stat. 846, provided that: “The individual holding the position of Coordinator for Human Rights and Humanitarian Affairs on the date of enactment of this section \[Aug. 17, 1977\] shall assume the duties of the Assistant Secretary of State for Human Rights and Humanitarian Affairs and shall not be required to be reappointed by reason of the enactment of this section.”
 
 #### Report to Speaker of the House and Congressional Committees on Office of Assistant Secretary for Human Rights and Humanitarian Affairs
 
-Section 109(a)(7) of Pub. L. 95–105, which required the Secretary of State, not later than Jan. 31, 1978, to transmit to the Speaker of the House of Representatives and the chairmen of the Senate Committee on Foreign Relations and the Senate Committee on the Judiciary a comprehensive report on the Office of the Assistant Secretary for Human Rights and Humanitarian Affairs, including its current mandate and operations, the mandate and operations of its predecessor offices, and proposals for the reorganization of the Department of State that would strengthen human rights and humanitarian considerations in the conduct of United States foreign policy and promote the ability of the United States to participate effectively in international humanitarian efforts, was repealed by Pub. L. 97–241, title V, §505(a)(3), Aug. 24, 1982, 96 Stat. 299, and Pub. L. 98–164, title X, §1011(a)(5), Nov. 22, 1983, 97 Stat. 1061.
+Pub. L. 95–105, title I, §109(a)(7), Aug. 17, 1977, 91 Stat. 847, which required the Secretary of State, not later than Jan. 31, 1978, to transmit to the Speaker of the House of Representatives and the chairmen of the Senate Committee on Foreign Relations and the Senate Committee on the Judiciary a comprehensive report on the Office of the Assistant Secretary for Human Rights and Humanitarian Affairs, including its current mandate and operations, the mandate and operations of its predecessor offices, and proposals for the reorganization of the Department of State that would strengthen human rights and humanitarian considerations in the conduct of United States foreign policy and promote the ability of the United States to participate effectively in international humanitarian efforts, was repealed by Pub. L. 97–241, title V, §505(a)(3), Aug. 24, 1982, 96 Stat. 299, and Pub. L. 98–164, title X, §1011(a)(5), Nov. 22, 1983, 97 Stat. 1061.
 
 #### Assignment of Duties and Responsibilities to Inspector General, Foreign Service
 
-Section 124(a)(2) of Pub. L. 95–88, which provided that the President (A) may assign to the Inspector General, Foreign Service, any of the duties and responsibilities vested by such section 624(d) \[subsec. (d) of this section\] in the Inspector General, Foreign Assistance, and (B) may authorize the Inspector General, Foreign Service, to exercise such of the authorities granted by such section 624(d) \[subsec. (d) of this section\] to the Inspector General, Foreign Assistance, as the President determines are necessary to carry out any duties or responsibilities so assigned, was repealed by Pub. L. 96–465, title II, §2205(11), Oct. 17, 1980, 94 Stat. 2160. See section 3929 of this title.
+Pub. L. 95–88, title I, §124(a)(2), Aug. 3, 1977, 91 Stat. 542, which provided that the President (A) may assign to the Inspector General, Foreign Service, any of the duties and responsibilities vested by such section 624(d) \[subsec. (d) of this section\] in the Inspector General, Foreign Assistance, and (B) may authorize the Inspector General, Foreign Service, to exercise such of the authorities granted by such section 624(d) \[subsec. (d) of this section\] to the Inspector General, Foreign Assistance, as the President determines are necessary to carry out any duties or responsibilities so assigned, was repealed by Pub. L. 96–465, title II, §2205(11), Oct. 17, 1980, 94 Stat. 2160. See section 3929 of this title.
 
 #### Agency for International Development
 

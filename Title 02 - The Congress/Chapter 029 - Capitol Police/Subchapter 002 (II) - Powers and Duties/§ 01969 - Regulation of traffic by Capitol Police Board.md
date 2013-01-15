@@ -6,11 +6,11 @@ The Capitol Police Board, consisting of the Sergeant at Arms of the United State
 
 #### (b) Promulgation of regulations
 
-Regulations authorized to be promulgated under this section shall be promulgated by the Capitol Police Board and such regulations may be amended from time to time by the Capitol Police Board whenever it shall deem it necessary: <i>Provided</i>, That until such regulations are promulgated and become effective, the traffic regulations of the District of Columbia shall be applicable to the United States Capitol Grounds.
+Regulations authorized to be promulgated under this section shall be promulgated by theCapitol Police Board and such regulations may be amended from time to time by the Capitol Police Board whenever it shall deem it necessary: <i>Provided</i>, That until such regulations are promulgated and become effective, the traffic regulations of the District of Columbia shall be applicable to the United States Capitol Grounds.
 
 #### (c) Printing of regulations and effective dates
 
-All regulations promulgated under the authority of this section shall, when adopted by the Capitol Police Board, be printed in one or more of the daily newspapers published in the District of Columbia, and shall not become effective until the expiration of ten days after the date of such publication, except that whenever the Capitol Police Board deems it advisable to make effective immediately any regulation relating to parking, diverting of vehicular traffic, or the closing of streets to such traffic, the regulationshall be effective immediately upon placing at the point where it is to be in force conspicuous signs containing a notice of the regulation. Any expenses incurred under this subsection shall be payable from the appropriation “Uniforms and Equipment, Capitol Police”.
+All regulations promulgated under the authority of this section shall, when adopted by the Capitol Police Board, be printed in one or more of the daily newspapers published in the District of Columbia, and shall not become effective until the expiration of ten days after the date of such publication, except that whenever the Capitol Police Board deems it advisable to make effective immediately any regulation relating to parking, diverting of vehicular traffic, or the closing of streets to such traffic, the regulation shall be effective immediately upon placing at the point where it is to be in force conspicuous signs containing a notice of the regulation. Any expenses incurred under this subsection shall be payable from the appropriation “Uniforms and Equipment, Capitol Police”.
 
 #### (d) Cooperation with Mayor of District of Columbia
 
@@ -42,7 +42,7 @@ Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, Ju
 
 #### Effective Date of 1973 Amendment
 
-Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Pub. L. 93–198, title VII, §771(d), Dec. 24, 1973, 87 Stat. 836, provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 
 #### Transfer of Functions
 

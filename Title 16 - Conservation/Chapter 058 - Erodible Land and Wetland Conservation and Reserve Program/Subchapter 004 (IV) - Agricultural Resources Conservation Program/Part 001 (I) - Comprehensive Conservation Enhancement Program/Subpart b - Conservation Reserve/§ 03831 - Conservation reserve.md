@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil,water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
 #### (b) Eligible land
 
@@ -62,7 +62,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 #### (d) Maximum enrollment
 
-The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.
+The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.
 
 #### (e) Duration of contract
 
@@ -124,11 +124,11 @@ On the expiration of a contract entered into under this subpart, the land subjec
 
 In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
-(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, §4(a), title II, §§2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760.)
+(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, §4(a), title II, §§2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760; Pub. L. 112–240, title VII, §701(c)(1), Jan. 2, 2013, 126 Stat. 2363.)
 
 #### References in Text
 
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), isthe date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -139,6 +139,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–240 substituted “2012, and 2013” for “and 2012”.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
 
@@ -162,9 +164,13 @@ Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 
 
 <b>2005</b>—Subsec. (k). Pub. L. 109–148 added subsec. (k).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Regulations
 

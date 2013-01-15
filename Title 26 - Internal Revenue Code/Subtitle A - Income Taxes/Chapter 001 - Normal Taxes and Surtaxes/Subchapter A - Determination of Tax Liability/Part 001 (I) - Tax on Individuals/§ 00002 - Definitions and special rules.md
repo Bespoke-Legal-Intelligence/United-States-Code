@@ -148,15 +148,15 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1301(j)(10) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Section 1708(b) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 692, 6013, and 7508 of this title\] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 99–514, title XVII, §1708(b), Oct. 22, 1986, 100 Stat. 2783, provided that: “The amendments made by this section \[amending this section and sections 692, 6013, and 7508 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1984 Amendment
 
-Section 423(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 43, 44A, 105, 143, 152, and 213 of this title\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title IV, §423(d), July 18, 1984, 98 Stat. 801, provided that: “The amendments made by this section \[amending this section and sections 43, 44A, 105, 143, 152, and 213 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1901(d) of Pub. L. 94–455 provided that: “Except as otherwise expressly provided in this section, the amendments made by this section \[see Tables for classification\] shall apply with respect to taxable years beginning after December 31, 1976. The amendments made by subsections (a)(29) and (b)(10) shall apply with respect to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIX, §1901(d), Oct. 4, 1976, 90 Stat. 1803, provided that: “Except as otherwise expressly provided in this section, the amendments made by thissection \[see Tables for classification\] shall apply with respect to taxable years beginning after December 31, 1976. The amendments made by subsections (a)(29) and (b)(10) shall apply with respect to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1975 Amendment
 

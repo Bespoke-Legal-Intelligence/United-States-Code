@@ -14,7 +14,7 @@
 
 (4)(A) The State-owned railroad shall be included in the definition of “agency” for purposes of section 3(a), (b), (c), and (e) of the Federal Workforce Restructuring Act of 1994 and may elect to participate in the voluntary separation incentive program established under such Act. Any employee of the State-owned railroad who meets the qualifications as described under the first sentence of paragraph (1) shall be deemed an employee under such Act.
 
-(B) An employee who has received a voluntary separation incentive payment under this paragraph and accepts employment with the State-owned railroad within 5 years after the date of separation on which payment of the incentive is based shall be required to repay the entire amount of the incentive payment unless the head of the State-owned railroad determines that the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+(B) An employee who has received a voluntary separation incentive payment under this paragraph and accepts employment with the State-owned railroad within 5 years after the date of separation on which payment of the incentive is based shall be required to repay the entire amount of the incentive payment unless thehead of the State-owned railroad determines that the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 #### (b) Coverage for employees not transferring to State-owned railroad
 
@@ -22,7 +22,7 @@ Employees of the Alaska Railroad who do not transfer to the State-owned railroad
 
 #### (c) Rights and benefits of transferred employees whose employment with State-owned railroad is terminated
 
-Transferred employees whose employment with the State-owned railroad is terminated during the two-year period commencing on the date of transfer shall be entitled to all of the rights and benefits of discontinued employees that such employees would have had under Federal law if their termination had occurred immediately before the date of the transfer, exceptthat financial compensation paid to officers of the Alaska Railroad shall be limited to that compensation provided pursuant to section 1203(d)(3)(E) of this title. Such employees shall also be entitled to seniority and other benefits accrued under Federal law while they were employed by the State-owned railroad on the same basis as if such employment had been Federal service.
+Transferred employees whose employment with the State-owned railroad is terminated during the two-year period commencing on the date of transfer shall be entitled to all of the rights and benefits of discontinued employees that such employees would have had under Federal law if their termination had occurred immediately before the date of the transfer, except that financial compensation paid to officers of the Alaska Railroad shall be limited to that compensation provided pursuant to section 1203(d)(3)(E) of this title. Such employees shall also be entitled to seniority and other benefits accrued under Federal law while they were employed by the State-owned railroad on the same basis as if such employment had been Federal service.
 
 #### (d) Lump-sum payment for unused annual leave for employees transferring to State-owned railroad
 
@@ -62,5 +62,5 @@ Subsec. (e). Pub. L. 103–226, §10(b), added subsec. (e) and struck out former
 
 #### Administrative Provision
 
-Section 136(b) of Pub. L. 100–238 provided that: “Within 180 days after the date of enactment of this section \[Jan. 8, 1988\], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act \[45 U.S.C. 1206(e)(2)(A)\], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska Railroad Transfer Act of 1982 \[45 U.S.C. 1206(e)(1)\] (as amended by subsection (a) of this section).”
+Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that: “Within 180 days after the date of enactment of this section \[Jan. 8, 1988\], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act \[45 U.S.C. 1206(e)(2)(A)\], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska Railroad Transfer Act of 1982 \[45 U.S.C. 1206(e)(1)\] (as amended by subsection (a) of this section).”
 

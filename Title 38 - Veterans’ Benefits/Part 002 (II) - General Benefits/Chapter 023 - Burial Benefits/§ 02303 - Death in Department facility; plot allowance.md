@@ -114,17 +114,17 @@ Pub. L. 106–419, title III, §333(b), Nov. 1, 2000, 114 Stat. 1857, provided t
 
 #### Effective Date of 1990 Amendment
 
-Section 8042(b) of Pub. L. 101–508 provided that: “This section \[amending this section\] shall apply to deaths occurring on or after November 1, 1990.”
+Pub. L. 101–508, title VIII, §8042(b), Nov. 5, 1990, 104 Stat. 1388–349, provided that: “This section \[amending this section\] shall apply to deaths occurring on or after November 1, 1990.”
 
 #### Effective Date of 1982 Amendment
 
-Section 404(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring after September 30, 1982.”
+Pub. L. 97–306, title IV, §404(b), Oct. 14, 1982, 96 Stat. 1443, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring after September 30, 1982.”
 
 #### Effective Date of 1978 Amendments
 
 Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub. L. 95–479, set out as a note under section 1114 of this title.
 
-Section 205 of title II of Pub. L. 95–476 provided that:
+Pub. L. 95–476, title II, §205, Oct. 18, 1978, 92 Stat. 1506, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this title \[enacting section 1008 \[now 2408\] of this title and amending sections 902, 906, and 1798 \[now 2302, 2306, and 3698\] of this title\] shall take effect on the date of the enactment of this Act \[Oct. 18, 1978\].
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment
 
-Section 10(b) of Pub. L. 93–43 provided that: “Clause (1) of section 5(a) \[amending this section\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[June 18, 1973\].”
+Pub. L. 93–43, §10(b), June 18, 1973, 87 Stat. 88, provided that: “Clause (1) of section 5(a) \[amending thissection\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[June 18, 1973\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “interment”.</i>
 

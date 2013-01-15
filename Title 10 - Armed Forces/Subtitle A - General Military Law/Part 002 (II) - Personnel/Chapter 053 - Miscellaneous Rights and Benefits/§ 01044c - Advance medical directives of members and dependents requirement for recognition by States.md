@@ -40,5 +40,5 @@ Definitions.—In this section:
 
 #### Effective Date of 1996 Amendment
 
-Section 749(b) of Pub. L. 104–106 provided that: “Section 1044c of title 10, United States Code, shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to advance medical directives referred to in that section that are executed before, on, or after that date.”
+Pub. L. 104–106, div. A, title VII, §749(b), Feb. 10, 1996, 110 Stat. 389, provided that: “Section 1044c of title 10,United States Code, shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to advance medical directives referred to in that section that are executed before, on, or after that date.”
 

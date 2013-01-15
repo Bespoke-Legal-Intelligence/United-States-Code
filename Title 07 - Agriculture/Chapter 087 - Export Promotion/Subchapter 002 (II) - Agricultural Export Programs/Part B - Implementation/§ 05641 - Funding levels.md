@@ -72,5 +72,5 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1996 Amendment
 
-Section 244(c) of Pub. L. 104–127 provided that the amendment made by that section is effective Oct. 1, 1995.
+Pub. L. 104–127, title II, §244(c), Apr. 4, 1996, 110 Stat. 968, provided that the amendment made by section 244(c) is effective Oct. 1, 1995.
 

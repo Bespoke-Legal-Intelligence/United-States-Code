@@ -22,7 +22,7 @@ Congress finds the following:
 
 &emsp;(9) The town of Montville, Connecticut, will—
 
-&emsp;&emsp;(A) be affected by the loss of a tax base from, and jurisdiction over, lands that willbe held in trust by the United States on behalf of the Mohegan Tribe; and
+&emsp;&emsp;(A) be affected by the loss of a tax base from, and jurisdiction over, lands that will be held in trust by the United States on behalf of the Mohegan Tribe; and
 
 &emsp;&emsp;(B) serve as the host community for the gaming operations of the Mohegan Tribe.
 
@@ -40,5 +40,5 @@ The purposes of this subchapter are as follows:
 
 #### Short Title
 
-Section 1 of Pub. L. 103–377 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Mohegan Nation of Connecticut Land Claims Settlement Act of 1994’.”
+Pub. L. 103–377, §1, Oct. 19, 1994, 108 Stat. 3501, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Mohegan Nation of Connecticut Land Claims Settlement Act of 1994’.”
 

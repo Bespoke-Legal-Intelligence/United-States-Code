@@ -42,13 +42,13 @@ July 9, 1952, ch. 608, §211(b) (less 1st 16 words), 66 Stat. 485.
 
 34:440k (last sentence, less applicability to inactive status).
 
-Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440<i>o</i> (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
+Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440o (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
 
 In subsection (b), 10:1036c (proviso of last sentence, less applicability to inactive status) and 34:440k (proviso of last sentence, less applicability to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) are omitted as surplusage.
 
 #### 1962 Act
 
-The change conforms section 1334(b) of title 10 to the source law, the last sentence of section 304 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1089). Section 305 makes thechange retroactive to August 10, 1956, the date of repeal of the source law by the original military codification act of that date.
+The change conforms section 1334(b) of title 10 to the source law, the last sentence of section 304 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1089). Section 305 makes the change retroactive to August 10, 1956, the date of repeal of the source law by the original military codification act of that date.
 
 #### Amendments
 

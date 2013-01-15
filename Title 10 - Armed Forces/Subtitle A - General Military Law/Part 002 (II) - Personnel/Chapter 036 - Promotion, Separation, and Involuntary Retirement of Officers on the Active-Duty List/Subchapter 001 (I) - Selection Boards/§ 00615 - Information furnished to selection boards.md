@@ -4,7 +4,7 @@
 
 (2) No information concerning a particular eligible officer may be furnished to a selection board except for the following:
 
-&emsp;(A) Information that is in the officer's official military personnel file and that is provided to the selection board in accordance with the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
+&emsp;(A) Information that is in the officer's official military personnel file and that is provided to the selection board in accordancewith the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
 &emsp;(B) Other information that is determined by the Secretary of the military department concerned, after review by that Secretary in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1), to be substantiated, relevant information that could reasonably and materially affect the deliberations of the selection board.
 
@@ -46,7 +46,7 @@
 
 &emsp;(6) such other information and guidelines as may be necessary to enable the board to properly perform its functions.
 
-(c) The Secretary of Defense, with the advice and assistance of the Chairman of the JointChiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
+(c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
 (d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
@@ -98,11 +98,11 @@ Pub. L. 109–163, div. A, title V, §506(c), Jan. 6, 2006, 119 Stat. 3228, prov
 
 #### Effective Date of 1991 Amendment
 
-Section 504(e) of Pub. L. 102–190 provided that: “The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title V, §504(e), Dec. 5, 1991, 105 Stat. 1358, provided that: “The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 501(e) of Pub. L. 100–456 provided that: “The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date.”
+Pub. L. 100–456, div. A, title V, §501(e), Sept. 29, 1988, 102 Stat. 1966, provided that: “The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date.”
 
 #### Effective Date of 1986 Amendment
 

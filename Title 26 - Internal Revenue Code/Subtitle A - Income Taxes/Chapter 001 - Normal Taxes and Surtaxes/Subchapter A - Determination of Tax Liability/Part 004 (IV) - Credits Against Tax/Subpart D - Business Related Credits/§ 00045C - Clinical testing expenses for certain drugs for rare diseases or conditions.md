@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (D) Special rule
 
-&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2011.
+&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2013.
 
 #### (2) Clinical testing
 
@@ -92,9 +92,9 @@ For purposes of this section—
 
 #### (4) Election
 
-&emsp;This section shall apply to any taxpayer for any taxable year only if such taxpayer elects\(at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
+&emsp;This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473,1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ Sections 505(b), (i) and 526 of the Federal Food, Drug, and Cosmetic Act, referr
 Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(ii)(II), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1)(D). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (b)(1)(D). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -198,6 +200,10 @@ Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting “shall
 
 Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted “section 30(f)” for “section 44F(f)”.
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to amounts paid or incurred after Dec. 31, 2011, see section 301(d)(1) of Pub. L. 112–240, set out as a note under section 41 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–312 applicable to amounts paid or incurred after Dec. 31, 2009, see section 731(c) of Pub. L. 111–312, set out as a note under section 41 of this title.
@@ -226,7 +232,7 @@ Amendment by Pub. L. 105–277 applicable to amounts paid or incurred after June
 
 Amendment by section 601(b)(2) of Pub. L. 105–34 applicable to amounts paid or incurred after May 31, 1997, see section 601(c) of Pub. L. 105–34, set out as a note under section 41 of this title.
 
-Section 604(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred after May 31, 1997.”
+Pub. L. 105–34, title VI, §604(b), Aug. 5, 1997, 111 Stat. 863, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid or incurred after May 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -236,17 +242,17 @@ Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicabl
 
 #### Effective Date of 1993 Amendment
 
-Section 13111(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 41 of this title\] shall apply to taxable years ending after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13111(c), Aug. 10, 1993, 107 Stat. 421, provided that: “The amendments made by this section \[amending this section and section 41 of this title\] shall apply to taxable years ending after June 30, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 102(c) of Pub. L. 102–227 provided that: “The amendments made by this section \[amending this section and section 41 of this title\] shall apply to taxable years ending after December 31, 1991.”
+Pub. L. 102–227, title I, §102(c), Dec. 11, 1991, 105 Stat. 1686, provided that: “The amendments made by this section \[amending this section and section 41 of this title\] shall apply to taxable years ending after December 31, 1991.”
 
-Section 111(b) of Pub. L. 102–227 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1991.”
+Pub. L. 102–227, title I, §111(b), Dec. 11, 1991, 105 Stat. 1689, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11402(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 41 of this title and repealing provisions set out as a note under section 41 of this title\] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 101–508, title XI, §11402(c), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “The amendments made by this section \[amending this section and section 41 of this title and repealing provisions set out as a note under section 41 of this title\] shall apply to taxable years beginning after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -262,7 +268,7 @@ Amendment by section 701(c)(2) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1275(c)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Section 1879(b)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1879(b)(3), Oct. 22, 1986, 100 Stat. 2906, provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
@@ -272,7 +278,7 @@ Amendment by section 612(e)(1) of Pub. L. 98–369, applicable to interest paid 
 
 #### Effective Date
 
-Section 4(d) of Pub. L. 97–414 provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–414, §4(d), Jan. 4, 1983, 96 Stat. 2056, provided that: “The amendments made by this section \[enacting this section and amending sections 280C and 6096 of this title\] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

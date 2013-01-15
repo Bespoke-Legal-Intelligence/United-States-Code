@@ -33,10 +33,13 @@
 | [3322\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003322%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md) | Bar to duplication of educational assistance benefits. |
 | [3323\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003323%20-%20Administration.md) | Administration. |
 | [3324\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003324%20-%20Allocation%20of%20administration%20and%20costs.md) | Allocation of administration and costs. |
+| [3325\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003325%20-%20Reporting%20requirement.md) | Reporting requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–154, title IV, §402(a)(2), Aug. 6, 2012, 126 Stat. 1189, added item 3325.
 
 <b>2011</b>—Pub. L. 111–377, title I, §108(a)(2), Jan. 4, 2011, 124 Stat. 4119, added item 3315A.
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–292 substituted “executive branch of the Federal Government acting within his or her official capacity, except that this section shall apply if the refusal to comply is based on the assertion of a personal privilege or objection and is not based on a governmental privilege or objection the assertion of which has been authorized by the executive branch of the Federal Government” for “Federal Government acting within his official capacity”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–292 substituted “executive branch of the Federal Government acting withinhis or her official capacity, except that this section shall apply if the refusal to comply is based on the assertion of a personal privilege or objection and is not based on a governmental privilege or objection the assertion of which has been authorized by the executive branch of the Federal Government” for “Federal Government acting within his official capacity”.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–620 struck out subsec. (c) which provided that in any civil action or contempt proceeding brought pursuant to this section, the court had to assign the action or proceeding for hearing at the earliest practicable date and cause the action or proceeding in every way to be expedited, and that any appeal or petition for review from any order or judgment in such action or proceeding had to be expedited in the same manner.
 

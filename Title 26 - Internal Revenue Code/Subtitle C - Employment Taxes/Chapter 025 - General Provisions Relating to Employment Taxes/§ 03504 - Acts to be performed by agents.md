@@ -12,5 +12,5 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 #### Effective Date of 1958 Amendment
 
-Section 71 of Pub. L. 85–866 provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1954.
+Pub. L. 85–866, title I, §71, Sept. 2, 1958, 72 Stat. 1660, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1954.
 

@@ -14,7 +14,7 @@
 
 For any article described in subsection (a)(2) of this section, the Secretary shall—
 
-&emsp;(1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of thecommercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2) of this section; and
+&emsp;(1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2) of this section; and
 
 &emsp;(2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1) of this section.
 
@@ -24,5 +24,5 @@ For any article described in subsection (a)(2) of this section, the Secretary sh
 
 A prior section 301 of Pub. L. 95–501 was classified to section 5651 of this title prior to repeal by Pub. L. 110–246.
 
-Another prior section 301 of Pub. L. 95–501 amended sections 1761, 1762, 1764, and 1765 of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
+Another prior section 301 of Pub. L. 95–501 amended sections 1761, 1762, 1764, and 1765 of this title prior tothe complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 

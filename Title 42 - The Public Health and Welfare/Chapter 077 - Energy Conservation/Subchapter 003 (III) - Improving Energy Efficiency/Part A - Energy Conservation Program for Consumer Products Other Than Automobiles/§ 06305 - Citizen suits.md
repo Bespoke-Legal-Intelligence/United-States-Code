@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (b) of this section, any person may c
 
 &emsp;(3) the Secretary in any case in which there is an alleged failure of the Secretary to comply with a nondiscretionary duty to issue a proposed or final rule according to the schedules set forth in section 6295 of this title.
 
-> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
+> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, allcauses filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
 
 #### (b) Limitation
 
@@ -32,7 +32,7 @@ In such action under this section, the Secretary or the Commission (or both), if
 
 #### (d) Award of costs of litigation
 
-The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (includingreasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 
 #### (e) Preservation of other relief
 

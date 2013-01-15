@@ -24,7 +24,7 @@ The Secretary shall also establish priority criteria for project selection and a
 
 &emsp;(6) the extent to which a proposed project would provide employment opportunities for minorities, youth, and low- and moderate-income residents in the project neighborhood and/or would provide for participation of neighborhood, nonprofit or tenant organizations in the proposed rehabilitation activity or in subsequent maintenance, staffing, or supervision of recreation areas and facilities;
 
-&emsp;(7) the amount of State and private support for a project as evidenced by commitments ofnon-Federal resources to project construction or operation; and
+&emsp;(7) the amount of State and private support for a project as evidenced by commitments of non-Federal resources to project construction or operation; and
 
 &emsp;(8) in the case of at-risk youth recreation grants, the Secretary shall give a priority to each of the following criteria:
 

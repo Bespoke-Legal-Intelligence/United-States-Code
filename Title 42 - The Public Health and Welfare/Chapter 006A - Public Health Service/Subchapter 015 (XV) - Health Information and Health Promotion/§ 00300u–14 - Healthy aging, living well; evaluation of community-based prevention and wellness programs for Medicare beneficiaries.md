@@ -78,7 +78,7 @@
 
 #### (III) Uninsured individuals
 
-&emsp;&emsp;&emsp;&emsp;With respect to an individual determined to be uninsured under subclause\(I), the grantee's community-based clinical partner described in paragraph (4)(D) <sup>2</sup> shall assist the individual in determining eligibility for available public coverage options and identify other appropriate community health care resources and assistance programs.
+&emsp;&emsp;&emsp;&emsp;With respect to an individual determined to be uninsured under subclause (I), the grantee's community-based clinical partner described in paragraph (4)(D) <sup>2</sup> shall assist the individual in determining eligibility for available public coverage options and identify other appropriate community health care resources and assistance programs.
 
 #### (iii) Public health intervention program
 
@@ -90,7 +90,7 @@
 
 #### (4) Pilot program evaluation
 
-&emsp;The Secretary shall conduct an annual evaluation of the effectiveness of the pilot program under this subsection. In determining such effectiveness, the Secretary shall consider changes in the prevalence of uncontrolled chronic disease risk factors among new Medicare enrollees (or individuals nearing enrollment, including those who are 63 and 64 years of age) who reside in States or localities receiving grants under this section as compared with national and historical data for those States and localities for the same population.
+&emsp;The Secretary shall conduct an annual evaluation of the effectiveness of the pilot program under this subsection. In determining such effectiveness, the Secretary shall consider changes in the prevalence of uncontrolled chronic disease risk factors among new Medicare enrollees (or individuals nearing enrollment, including those who are 63 and 64 years of age) who reside in States or localitiesreceiving grants under this section as compared with national and historical data for those States and localities for the same population.
 
 #### (5) Authorization of appropriations
 
@@ -146,7 +146,7 @@
 
 #### (4) Funding
 
-&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), insuch proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
+&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
 
 #### (5) Administration
 

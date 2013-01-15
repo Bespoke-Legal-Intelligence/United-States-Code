@@ -258,7 +258,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) BIA schools
 
-&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than thestudent population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
+&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than the student population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
 
 #### (D) Educational service agencies
 
@@ -318,7 +318,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(iv) improve classroom management skills;
 
-&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order to have a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
+&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order tohave a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
 
 &emsp;&emsp;&emsp;(II) are not 1-day or short-term workshops or conferences;
 
@@ -334,7 +334,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) State academic content standards, student academic achievement standards, and assessments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall notapply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall not apply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 
@@ -444,11 +444,21 @@ A prior section 7801, Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–
 
 #### Highly Qualified Teacher
 
-Pub. L. 111–242, §163, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3521, provided that:
+Pub. L. 111–242, §163, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3521; amended by Pub. L. 112–175, §145, Sept. 28, 2012, 126 Stat. 1322, provided that:
 
 “(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
 
-“(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2012–2013 academic year.”
+“(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2013–2014 academic year.
+
+“(c) Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110 \[probably means section 1111(h)(6)(A) of Pub. L. 89–10, as added by Pub. L. 107–110; 20 U.S.C. 6311(h)(6)(A)\]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
+
+&emsp;“(1) Students with disabilities.
+
+&emsp;“(2) English Learners.
+
+&emsp;“(3) Students in rural areas.
+
+&emsp;“(4) Students from low-income families.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

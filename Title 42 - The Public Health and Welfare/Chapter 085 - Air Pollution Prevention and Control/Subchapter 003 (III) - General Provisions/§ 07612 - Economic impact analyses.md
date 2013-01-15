@@ -18,7 +18,7 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any casewhere numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 
@@ -74,7 +74,7 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Equivalent Air Quality Controls Among Trading Nations
 
-Section 811 of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title VIII, §811, Nov. 15, 1990, 104 Stat. 2690, provided that:
 
 “(a)
 
@@ -122,5 +122,5 @@ Interim report.—Within 9 months after the date of the enactment of the Clean A
 
 #### GAO Reports on Costs and Benefits
 
-Section 812(b) of Pub. L. 101–549, which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by Pub. L. 104–316, title I, §122(r), Oct. 19, 1996, 110 Stat. 3838.
+Pub. L. 101–549, title VIII, §812(b), Nov. 15, 1990, 104 Stat. 2693, which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by Pub. L. 104–316, title I, §122(r), Oct. 19, 1996, 110 Stat. 3838.
 

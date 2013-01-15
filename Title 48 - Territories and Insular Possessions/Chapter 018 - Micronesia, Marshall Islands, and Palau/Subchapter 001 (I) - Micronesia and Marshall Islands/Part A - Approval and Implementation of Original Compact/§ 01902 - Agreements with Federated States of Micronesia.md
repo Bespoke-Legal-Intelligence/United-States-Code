@@ -20,7 +20,7 @@
 
 #### (2) Technical and training assistance
 
-&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia to develop and adequately enforce laws of the Federated States of Micronesia and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1905(<i>l</i>) of this title may be used to reimburse State or local agencies providing such assistance.
+&emsp;Pursuant to sections 224 and 226 of the Compact, the United States shall provide non-reimbursable technical and training assistance as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia to develop and adequately enforce laws of the Federated States of Micronesia and to cooperate with the United States in the enforcement of criminal laws of the United States. Funds appropriated pursuant to section 1905(l) of this title may be used to reimburse State or local agencies providing such assistance.
 
 #### (3) Consultation
 
@@ -34,7 +34,7 @@
 
 #### (1) Submission
 
-&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
+&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effectivedate for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
 
 #### (2) United States Government review
 

@@ -76,7 +76,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (4) Notification
 
-&emsp;To the maximum extent practicable, State agencies shall notify applicants, participants,and eligible individuals under this chapter of the availability of nutrition education and obesity prevention services under this section in local communities.
+&emsp;To the maximum extent practicable, State agencies shall notify applicants, participants, and eligible individuals under this chapter of the availability of nutrition education and obesity prevention services under this section in local communities.
 
 #### (5) Coordination
 
@@ -88,9 +88,17 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 &emsp;Of funds made available each fiscal year under section 2027(a)(1) of this title, the Secretary shall reserve for allocation to State agencies to carry out the nutrition education and obesity prevention grant program under this section, to remain available for obligation for a period of 2 fiscal years—
 
-&emsp;&emsp;(A) for fiscal year 2011, $375,000,000; and
+&emsp;&emsp;(A) for fiscal year 2011, $375,000,000;
 
-&emsp;&emsp;(B) for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+&emsp;&emsp;(B) for fiscal year 2012, $388,000,000;
+
+&emsp;&emsp;(C) for fiscal year 2013, $285,000,000;
+
+&emsp;&emsp;(D) for fiscal year 2014, $401,000,000;
+
+&emsp;&emsp;(E) for fiscal year 2015, $407,000,000; and
+
+&emsp;&emsp;(F) for fiscal year 2016 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
 #### (2) Allocation
 
@@ -162,7 +170,15 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 Not later than January 1, 2012, the Secretary shall publish in the Federal Register a description of the requirements for the receipt of a grant under this section.
 
-(Pub. L. 88–525, §28, as added Pub. L. 111–296, title II, §241(a), Dec. 13, 2010, 124 Stat. 3232.)
+(Pub. L. 88–525, §28, as added Pub. L. 111–296, title II, §241(a), Dec. 13, 2010, 124 Stat. 3232; amended Pub. L. 112–240, title VII, §701(d)(2), Jan. 2, 2013, 126 Stat. 2363.)
+
+#### Amendments
+
+Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: “for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.”
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 

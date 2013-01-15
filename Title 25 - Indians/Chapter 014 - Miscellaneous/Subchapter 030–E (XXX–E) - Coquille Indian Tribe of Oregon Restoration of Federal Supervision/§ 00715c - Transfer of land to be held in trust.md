@@ -66,11 +66,11 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (7) Memorandum of agreement
 
-&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOA shall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>6</sup> trust responsibility requirements applicable to Indian trust lands and paragraph (5) of this subsection.
+&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOA shall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>1</sup> trust responsibility requirements applicable to Indian trust lands and paragraph (5) of this subsection.
 
 #### (8) Public access
 
-&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>6</sup> or federal <sup>6</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>7</sup> <i>Provided</i>, That theState of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
+&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>1</sup> or federal <sup>1</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>6</sup> <i>Provided</i>,That the State of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
 
 #### (9) Jurisdiction
 
@@ -84,7 +84,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;In addition to the jurisdiction described in paragraph 7 <sup>5</sup> of this subsection, the State of Oregon may exercise exclusive regulatory civil jurisdiction, including but not limited to adoption and enforcement of administrative rules and orders, over the following subjects:
 
-&emsp;&emsp;(A) management, allocation and administration of fish and wildlife resources, including but not limited to establishment and enforcement of hunting and fishing seasons, bag limits, limits on equipment and methods, issuance of permits and licenses, and approval or disapproval of hatcheries, game farms, and other breeding facilities; <sup>7</sup> <i>Provided</i>, That nothing herein shall be construed to permit the State of Oregon to manage fish or wildlife habitat on Coquille Forest lands;
+&emsp;&emsp;(A) management, allocation and administration of fish and wildlife resources, including but not limited to establishment and enforcement of hunting and fishing seasons, bag limits, limits on equipment and methods, issuance of permits and licenses, and approval or disapproval of hatcheries, game farms, and other breeding facilities; <sup>6</sup> <i>Provided</i>, That nothing herein shall be construed to permit the State of Oregon to manage fish or wildlife habitat on Coquille Forest lands;
 
 &emsp;&emsp;(B) allocation and administration of water rights, appropriation of water and use of water;
 
@@ -106,13 +106,13 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(A) Nothing in this subsection shall be construed to grant tribal authority over private or State-owned lands.
 
-&emsp;(B) To the extend <sup>8</sup> that the State of Oregon is regulating the foregoing areas pursuant to a delegated Federal authority or a Federal program, nothing in this subsection shall be construed to enlarge or diminish the State's authority under such law.
+&emsp;(B) To the extend <sup>7</sup> that the State of Oregon is regulating the foregoing areas pursuant to a delegated Federal authority or a Federal program, nothing in this subsection shall be construed to enlarge or diminish the State's authority under such law.
 
 &emsp;(C) Where both the State of Oregon and the United States are regulating, nothing herein shall be construed to alter their respective authorities.
 
-&emsp;(D) To the extent that Federal law authorizes the Coquille Indian Tribe to assume regulatory authority over an area, nothing herein shall be construed to enlarge or diminish the tribe's <sup>9</sup> authority to do so under such law.
+&emsp;(D) To the extent that Federal law authorizes the Coquille Indian Tribe to assume regulatory authority over an area, nothing herein shall be construed to enlarge or diminish the tribe's <sup>1</sup> authority to do so under such law.
 
-&emsp;(E) Unless and except to the extent that the tribe <sup>9</sup> has assumed jurisdiction over the Coquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>10</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>9</sup> may exercise such jurisdiction as its <sup>11</sup> agreed upon.
+&emsp;(E) Unless and except to the extent that the tribe <sup>1</sup> has assumed jurisdiction over the Coquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>8</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>1</sup> may exercise such jurisdiction as its <sup>9</sup> agreed upon.
 
 #### (12) Conflict between laws
 
@@ -150,15 +150,11 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 <i><sup>5</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>6</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 
-<i><sup>7</sup></i><i> So in original. The semicolon probably should be a colon.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “extent”.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “extent”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be “paragraph (10)”.</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>10</sup></i><i> So in original. Probably should be “paragraph (10)”.</i>
-
-<i><sup>11</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be “is”.</i>
 

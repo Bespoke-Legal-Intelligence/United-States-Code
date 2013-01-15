@@ -46,7 +46,7 @@
 
 #### (D) Season-ending United States stocks-to-use ratio
 
-&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
+&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall,on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
 
 #### (2) Quantity
 
@@ -174,5 +174,5 @@ Subsec. (a)(4), (5). Pub. L. 105–86, §731(2), (3) redesignated par. (5) as (4
 
 #### Effective Date of 1997 Amendment
 
-Section 731 of Pub. L. 105–86 provided that the amendment made by that section is effective Oct. 1, 1998.
+Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108, provided that the amendment made by that section is effective on Oct. 1, 1998.
 

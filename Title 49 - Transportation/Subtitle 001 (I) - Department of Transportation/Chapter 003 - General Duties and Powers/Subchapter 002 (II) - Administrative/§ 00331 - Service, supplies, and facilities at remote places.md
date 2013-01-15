@@ -48,7 +48,7 @@ Oct. 15, 1966, Pub. L. 89–670, §9(<i>l</i>), 80 Stat. 946.
 
 Aug. 23, 1958, Pub. L. 85–726, §303(b), 72 Stat. 748.
 
-In subsection (a), the text of 49:1657(<i>l</i>) (words before 3d comma) is omitted as unnecessary. The words “of the Department of Transportation” are added for clarity. In clause (6), the words “individuals in distress” are substituted for “distressed persons” as being more precise.
+In subsection (a), the text of 49:1657(l) (words before 3d comma) is omitted as unnecessary. The words “of the Department of Transportation” are added for clarity. In clause (6), the words “individuals in distress” are substituted for “distressed persons” as being more precise.
 
 In subsection (b), the words “The Secretary shall prescribe reasonable charges” are substituted for “shall be at prices reflecting reasonable value as determined by the Secretary” for clarity and to eliminate surplus words. The words “services, supplies, and facilities provided under subsection (a)(1), (2), and (3) of this section” are substituted for “The furnishing of medical treatment under paragraph (1) and the furnishing of services and supplies under paragraphs (2) and (3) of this subsection” to eliminate surplus words. The words “Amounts received under this subsection” are substituted for “and the proceeds therefrom” for clarity.
 
@@ -56,7 +56,7 @@ In subsection (c), the words “aviation duties and powers” are substituted fo
 
 #### Pub. L. 103–272
 
-Section 4(j)(8) amends 49:331(b) to follow more closely the language in former 49:1657(<i>l</i>) on which it was based.
+Section 4(j)(8) amends 49:331(b) to follow more closely the language in former 49:1657(l) on which it was based.
 
 #### Amendments
 

@@ -22,7 +22,7 @@ The transfers of funds between the United States and any specified possession re
 
 #### (d) Federal personnel
 
-In addition to the amount determined under subsection (a), the United States shall pay toeach specified possession at such times and in such manner as determined by the Secretary—
+In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
 &emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.), and
 
@@ -48,7 +48,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30,1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1976</b>—Subsecs. (d), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

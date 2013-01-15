@@ -12,7 +12,7 @@ The Attorney General shall—
 
 &emsp;(4) develop and distribute, for personnel listed in paragraph (3), information regarding multidisciplinary approaches to holding offenders accountable to the terms of their probation, parole, and sex offender registration laws; and
 
-&emsp;(5) partner with other agencies to improve the coordination of joint investigations among agencies to effectively combat online solicitation of children by sex offenders.
+&emsp;(5) partner with other agencies to improve the coordination of joint investigations amongagencies to effectively combat online solicitation of children by sex offenders.
 
 #### (b) Technology
 

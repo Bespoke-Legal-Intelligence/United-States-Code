@@ -28,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 
-Section 907 of Pub. L. 95–454 provided that: “Except as otherwise expressly provided in this Act, the provisions of this Act \[see Tables for classification\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 13, 1978\].”
+Pub. L. 95–454, title IX, §907, Oct. 13, 1978, 92 Stat. 1227, provided that: “Except as otherwise expressly provided in this Act, the provisions of this Act \[see Tables for classification\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 13, 1978\].”
 
 #### Short Title of 1992 Amendment
 
@@ -40,11 +40,11 @@ Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: “This Act \[a
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–454 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Civil Service Reform Act of 1978’.”
+Pub. L. 95–454, §1, Oct. 13, 1978, 92 Stat. 1111, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Civil Service Reform Act of 1978’.”
 
 #### Savings Provision
 
-Section 902 of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title IX, §902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
 “(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
 
@@ -172,7 +172,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, andmanagerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendationswith regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -244,7 +244,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 &emsp;“(iii) 7 percent shall be allocated to the National Voluntary Health Agencies.
 
-&emsp;“(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, be allocated by the local Federal coordinating committee among any or all of the following:
+&emsp;“(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, beallocated by the local Federal coordinating committee among any or all of the following:
 
 &emsp;&emsp;“(I) National federated groups (other than any identified in clauses (i), (ii), or (iii)), except that a national federated group shall not be eligible under this subclause unless there are at least 15 members of such group participating in the local campaign, unless the members of such group collectively receive at least 4 percent of the designated contributions in the local campaign, and unless such group was granted national eligibility status for the 1987, 1988, 1989, or 1990 Combined Federal Campaign.
 
@@ -286,7 +286,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Civil Service Reform Act of 1978 Findings and Statement of Purpose
 
-Section 3 of Pub. L. 95–454 provided that: “It is the policy of the United States that—
+Pub. L. 95–454, §3, Oct. 13, 1978, 92 Stat. 1112, provided that: “It is the policy of the United States that—
 
 &emsp;“(1) in order to provide the people of the United States with a competent, honest, and productive Federal work force reflective of the Nation's diversity, and to improve the quality of public service, Federal personnel management should be implemented consistent with merit system principles and free from prohibited personnel practices;
 
@@ -310,7 +310,7 @@ Section 3 of Pub. L. 95–454 provided that: “It is the policy of the United S
 
 #### Powers of President Unaffected Except by Express Provisions
 
-Section 904 of Pub. L. 95–454 provided that:
+Pub. L. 95–454, title IX, §904, Oct. 13, 1978, 92 Stat. 1224, provided that:
 
 “Except as otherwise expressly provided in this Act \[see Tables for classification\], no provision of this Act shall be construed to—
 
@@ -320,7 +320,7 @@ Section 904 of Pub. L. 95–454 provided that:
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[setout in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
+Pub. L. 95–454, title IX, §905, Oct. 13, 1978, 92 Stat. 1224, provided that: “Any provision in either Reorganization Plan Numbered 1 \[set out in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1978</b>
 
@@ -512,7 +512,7 @@ The Plan I submit today would consolidate the central policymaking functions in 
 
 The cost of replacing the Civil Service Commission can be paid by our present resources. The reorganization itself would neither increase nor decrease the costs of personnel management throughout the government. But taken together with the substantive reforms I have proposed, this Plan will greatly improve the government's ability to manage programs, speed the delivery of Federal services to the public, and aid in executing other reorganizations I will propose to the Congress, by improving Federal personnel management.
 
-Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
+Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forthin 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
 I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
@@ -794,7 +794,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12157
 
-Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the President's Management Improvement Council, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to this title.
+Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the President's Management Improvement Council, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to this title.
 
 <i><sup>1</sup></i><i> As amended July 11, 1978.</i>
 

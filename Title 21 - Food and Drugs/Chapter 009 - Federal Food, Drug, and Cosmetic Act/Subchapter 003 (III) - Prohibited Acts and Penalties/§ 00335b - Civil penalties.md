@@ -40,7 +40,7 @@ Any person that the Secretary finds—
 
 #### (2) Amount
 
-&emsp;In determining the amount of a civil penalty under paragraph (1), the Secretary or the court shall take into account the nature, circumstances, extent, and gravity of the act subject to penalty, the person's ability to pay, the effect on the person's ability to continue to do business, any history of prior, similar acts, and such other matters as justice may require.
+&emsp;In determining the amount of a civil penalty under paragraph (1), the Secretary or thecourt shall take into account the nature, circumstances, extent, and gravity of the act subject to penalty, the person's ability to pay, the effect on the person's ability to continue to do business, any history of prior, similar acts, and such other matters as justice may require.
 
 #### (3) Limitation on actions
 

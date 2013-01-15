@@ -24,7 +24,7 @@ For purposes of this subchapter, the term—
 
 &emsp;(k) “State education agency” means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
-&emsp;(<i>l</i>) “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
+&emsp;(l) “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
 &emsp;(m) “construction contract” means a fixed-price or cost-reimbursement self-determination contract for a construction project, except that such term does not include any contract—
 
@@ -44,7 +44,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 
 
 Part A of this subchapter, referred to in subsec. (j), was in the original “title I of this act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 450j(a) of this title, referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j was added by Pub. L. 103–413, title I, §102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
+Section 450j(a) of this title, referred to in subsec. (j), was repealed and a new subsec. (a) of section 450j wasadded by Pub. L. 103–413, title I, §102(10), Oct. 25, 1994, 108 Stat. 4253, which does not contain provisos.
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Subsec. (j). Pub. L. 101–644, §202(2), substituted “contract (or grant or c
 
 Pub. L. 101–301, §2(a)(2), (3), substituted “under this subchapter” for “pursuant to this Act” in two places and struck out “the” before “Secretary”.
 
-<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (<i>l</i>) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
+<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d) and (f) which defined “Indian”, “Indian tribe”, “Tribal organization”, “Secretary”, and “State education agency”.
 
 Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted “by a tribal organization” for “by tribal organization”.
 

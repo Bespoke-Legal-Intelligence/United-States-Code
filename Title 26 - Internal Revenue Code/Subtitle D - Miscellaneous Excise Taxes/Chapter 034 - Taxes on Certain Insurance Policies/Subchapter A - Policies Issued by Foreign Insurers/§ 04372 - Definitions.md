@@ -22,7 +22,7 @@ For purposes of section 4371(1), the term “insured” means—
 
 #### (e) Policy of life, sickness, or accident insurance, or annuity contract
 
-For the purpose of section 4371(2), the term “policy of life, sickness, or accident insurance,or annuity contract” means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
+For the purpose of section 4371(2), the term “policy of life, sickness, or accident insurance, or annuity contract” means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
 
 #### (f) Policy of reinsurance
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
+Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 

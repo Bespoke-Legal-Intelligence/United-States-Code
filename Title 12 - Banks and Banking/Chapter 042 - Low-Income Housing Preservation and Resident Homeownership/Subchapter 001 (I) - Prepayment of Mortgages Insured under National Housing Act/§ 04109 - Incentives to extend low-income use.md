@@ -44,11 +44,11 @@ Section 1715z–6(f) of this title, referred to in subsec. (b)(7), was repealed 
 
 #### Study of Projects Assisted Under Flexible Subsidy Program
 
-Section 318 of Pub. L. 102–550 provided that:
+Pub. L. 102–550, title III, §318, Oct. 28, 1992, 106 Stat. 3772, provided that:
 
 “(a)
 
-Study.—The Secretary shall conduct a study of housing projects that (1) are assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715<i>l</i>(d)(5)\], and (2) have received or are receiving assistance under section 201 of the Housing and Community Development Amendments of 1978 \[see References in Text note above\], to determine the cost of providing such projects with incentives under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[see Short Title note set out under section 4101 of this title\]. The study shall examine any projects portions of which assisted under such section 236 that are assisted primarily by State agencies.
+Study.—The Secretary shall conduct a study of housing projects that (1) are assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715l(d)(5)\], and (2) have received or are receiving assistance under section 201 of the Housing and Community Development Amendments of 1978 \[see References in Text note above\], to determine the cost of providing such projects with incentives under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[see Short Title note set out under section 4101 of this title\]. The study shall examine any projects portions of which assisted under such section 236 that are assisted primarily by State agencies.
 
 “(b)
 

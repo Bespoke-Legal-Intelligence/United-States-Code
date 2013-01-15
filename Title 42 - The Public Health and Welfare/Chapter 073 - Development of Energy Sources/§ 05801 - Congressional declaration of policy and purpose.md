@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Effective Date; Interim Appointments
 
-Section 312 of Pub. L. 93–438 provided that:
+Pub. L. 93–438, title III, §312, Oct. 11, 1974, 88 Stat. 1253, provided that:
 
 “(a) This Act \[see Short Title note below\] shall take effect one hundred and twenty days after the date of its enactment \[Oct. 11, 1974\], or on such earlier date as the President may prescribe and publish in the Federal Register \[prescribed as Jan. 19, 1975, by Ex. Ord. No. 11834, formerly set out below\] except that any of the officers provided for in title I of this Act \[subchapter I of this chapter\] may be nominated and appointed, as provided by this Act, at any time after the date of enactment of this Act. Funds available to any department or agency (or any official or component thereof), any functions of which are transferred to the Administrator and the Commission by this Act, may, with the approval of the President, be used to pay the compensation and expenses of any officer appointed pursuant to this subsection until such time as funds for that purpose are otherwise available.
 
@@ -36,11 +36,11 @@ Section 312 of Pub. L. 93–438 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
+Pub. L. 93–438, §1, Oct. 11, 1974, 88 Stat. 1233, provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
 
 #### Separability
 
-Section 311 of Pub. L. 93–438 provided that: “If any provision of this Act \[See Short Title note above\], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Pub. L. 93–438, title III, §311, Oct. 11, 1974, 88 Stat. 1253, provided that: “If any provision of this Act \[See Short Title note above\], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Transfer of Functions
 

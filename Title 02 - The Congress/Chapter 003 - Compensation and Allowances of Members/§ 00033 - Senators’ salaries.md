@@ -14,5 +14,5 @@ A prior section 33, act Mar. 3, 1883, ch. 143, 22 Stat. 632, entitled Senators t
 
 #### Effective Date of 1981 Amendment
 
-Section 112(e) of Pub. L. 97–51 provided that: “The amendments and repeals made by this section \[enacting section 35a of this title and amending this section and sections 39 and 60c–1 of this title\] shall be effective in the case of compensation payable for months after December 1981.”
+Pub. L. 97–51, §112(e), Oct. 1, 1981, 95 Stat. 963, provided that: “The amendments and repeals made by this section \[enacting section 35a of this title and amending this section and sections 39 and 60c–1 of this title\] shall be effective in the case of compensation payable for months after December 1981.”
 

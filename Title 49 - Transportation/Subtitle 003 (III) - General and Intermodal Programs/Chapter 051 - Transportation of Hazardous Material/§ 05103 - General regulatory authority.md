@@ -34,7 +34,7 @@ Consultation.—When prescribing a security regulation or issuing a security ord
 
 (d)
 
-Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the Houseof Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909; Pub. L. 109–177, title VII, §741, Mar. 9, 2006, 120 Stat. 272.)
 
@@ -64,7 +64,7 @@ Jan. 3, 1975, Pub. L. 93–633, §105(a)(1)–(3), 88 Stat. 2157; restated Nov. 
 
 In subsection (a), the words “such quantity and form of material” and “in his discretion” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “in accordance with section 553 of title 5” are omitted because 5:553 applies unless otherwise stated. In clause (A)(i), the words “hazardous material in commerce”,and in clause (A)(ii), the words “hazardous material . . . in commerce”, are added for consistency in this chapter.
+In subsection (b)(1), before clause (A), the words “in accordance with section 553 of title 5” are omitted because 5:553 applies unless otherwise stated. In clause (A)(i), the words “hazardous material in commerce”, and in clause (A)(ii), the words “hazardous material . . . in commerce”, are added for consistency in this chapter.
 
 #### Pub. L. 103–429
 
@@ -136,7 +136,7 @@ Regulatory Authority.—The Secretary of Transportation may issue regulations th
 
 #### Safe Placement of Train Cars
 
-Section 111 of Pub. L. 103–311 provided that: “The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\].”
+Pub. L. 103–311, title I, §111, Aug. 26, 1994, 108 Stat. 1676, provided that: “The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\].”
 
 #### Fiber Drum Packaging
 
@@ -152,7 +152,7 @@ In General.—In the administration of chapter 51 of title 49, United States Cod
 
 “(b)
 
-Expiration.—The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardousmaterials), for fiscal years beginning after September 30, 1997.
+Expiration.—The regulation referred to in subsection (a) shall expire on the later of September 30, 1997, or the date on which funds are authorized to be appropriated to carry out chapter 51 of title 49, United States Code (relating to transportation of hazardous materials), for fiscal years beginning after September 30, 1997.
 
 “(c)
 
@@ -174,7 +174,7 @@ Completion.—The study shall be completed before March 1, 1997 and shall be tra
 
 Secretarial Action.—By September 30, 1997, the Secretary shall issue final regulations to determine what standards should apply to fiber drum packaging with a removable head for transportation of liquid hazardous materials (with respect to those liquid hazardous materials transported by such drums pursuant to regulations in effect on September 30, 1991) after September 30, 1997. In issuing such regulations, the Secretary shall give full and substantial consideration to the results of the study conducted in subsection (c).”
 
-Section 122 of Pub. L. 103–311 provided that:
+Pub. L. 103–311, title I, §122, Aug. 26, 1994, 108 Stat. 1681, provided that:
 
 “(a)
 

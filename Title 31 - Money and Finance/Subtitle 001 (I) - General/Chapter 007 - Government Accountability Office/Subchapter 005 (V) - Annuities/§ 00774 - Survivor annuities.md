@@ -88,7 +88,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(e), (n); added July 13, 1959, Pub. L. 
 
 In subsection (a)(1), the words “in an armed force” are substituted for “in the Army, Navy, Air Force, Marine Corps, or Coast Guard” for consistency with title 10. The word “only” is omitted as surplus. The word “Government” is added for consistency. The word “computing” is added for clarity. The word “annuity” is substituted for “retirement or retired pay” for consistency in the revised title and with other titles of the United States Code. The words “under any other provision of law” are omitted as surplus.
 
-Subsection (a)(3) is substituted for 31:43b(<i>o</i>)(1st sentence) for consistency in the revised title and with other titles of the Code.
+Subsection (a)(3) is substituted for 31:43b(o)(1st sentence) for consistency in the revised title and with other titles of the Code.
 
 In subsection (b), before clause (1), the words “A survivor annuity shall be paid under this subchapter when” are added for clarity. The words “or retired Comptroller General” are omitted as executed. In clause (1), the words “made an election under section 733 of this title” are substituted for “has elected to bring himself within the purview of this section” for clarity. In clause (2), the word “annuity” is substituted for “retirement pay” for consistency in the revised title and with other titles of the Code. In clause (4), the words “salary” and “actually” are omitted as surplus.
 

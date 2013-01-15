@@ -6,7 +6,7 @@ The expense of transporting the remains of customs officers and employees who di
 
 #### (b) Transportation on foreign ships
 
-Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officeror employee of the Bureau of Customs or the Customs Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
+Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officer or employee of the Bureau of Customs or the Customs Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
 
 (June 17, 1930, ch. 497, title IV, §645(a), (c), 46 Stat. 761; Aug. 2, 1946, ch. 744, §2, 60 Stat. 807.)
 

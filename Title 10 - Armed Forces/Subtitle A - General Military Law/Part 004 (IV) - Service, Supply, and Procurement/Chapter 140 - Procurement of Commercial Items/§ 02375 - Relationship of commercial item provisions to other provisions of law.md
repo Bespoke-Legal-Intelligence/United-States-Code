@@ -12,7 +12,7 @@ List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.�
 
 Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title.
 
-(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844.)
+(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div.A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844.)
 
 #### Amendments
 

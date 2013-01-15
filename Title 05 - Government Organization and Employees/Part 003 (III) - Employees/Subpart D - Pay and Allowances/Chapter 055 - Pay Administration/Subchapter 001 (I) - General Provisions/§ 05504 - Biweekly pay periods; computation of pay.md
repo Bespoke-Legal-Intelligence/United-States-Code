@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel M
 
 #### Effective Date of 1986 Amendment
 
-Section 15203(b) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to pay periods commencing on or after March 1, 1986.”
+Pub. L. 99–272, title XV, §15203(b), Apr. 7, 1986, 100 Stat. 334, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to pay periods commencing on or after March 1, 1986.”
 
 #### Effective Date of 1979 Amendments
 
@@ -122,7 +122,7 @@ Functions vested in Office of Personnel Management under this section insofar as
 
 #### Determination of Hourly Rate
 
-Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended by Pub. L. 97–346, §3(<i>l</i>), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–117, §1, Oct. 11, 1983, 97 Stat. 802, provided that:
+Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended by Pub. L. 97–346, §3(l), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–117, §1, Oct. 11, 1983, 97 Stat. 802, provided that:
 
 “(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscal years 1984 and 1985, and applicable in the case of an employee as defined in section 5504(b) of title 5, United States Code \[subsection (b) of this section\], any hourly rate derived under section 5504(b)(1) of title 5, United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
 
@@ -132,5 +132,5 @@ Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended b
 
 “(4) Notwithstanding any other provision of this subsection, paragraph (1) shall not be effective with respect to pay periods beginning before the effective date of any increase under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule and the rates of pay under the other statutory pay systems for fiscal year 1984.”
 
-\[Section 2 of Pub. L. 98–117 provided that: “The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983.”\]
+\[Pub. L. 98–117, §2, Oct. 11, 1983, 97 Stat. 802, provided that: “The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983.”\]
 

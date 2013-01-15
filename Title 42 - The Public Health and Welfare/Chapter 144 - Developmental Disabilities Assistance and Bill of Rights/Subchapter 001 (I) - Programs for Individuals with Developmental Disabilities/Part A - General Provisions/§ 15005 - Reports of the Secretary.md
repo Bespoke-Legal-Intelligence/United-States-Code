@@ -8,7 +8,7 @@ At least once every 2 years, the Secretary, using information submitted in the r
 
 &emsp;&emsp;(B) have enhanced the ability of individuals with developmental disabilities and their families to participate in the design of and have access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life;
 
-&emsp;&emsp;(C) have brought about advocacy, capacity building, and systemic change activities (including policy reform), and other actions on behalf of individuals with developmental disabilities and their families, including individuals who are traditionally unserved or underserved, particularly individuals whoare members of ethnic and racial minority groups and individuals from underserved geographic areas; and
+&emsp;&emsp;(C) have brought about advocacy, capacity building, and systemic change activities (including policy reform), and other actions on behalf of individuals with developmental disabilities and their families, including individuals who are traditionally unserved or underserved, particularly individuals who are members of ethnic and racial minority groups and individuals from underserved geographic areas; and
 
 &emsp;&emsp;(D) have brought about advocacy, capacity building, and systemic change activities that affect individuals with disabilities other than individuals with developmental disabilities;
 

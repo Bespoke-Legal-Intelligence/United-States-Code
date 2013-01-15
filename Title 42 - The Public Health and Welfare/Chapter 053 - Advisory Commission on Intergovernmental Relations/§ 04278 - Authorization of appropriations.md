@@ -6,5 +6,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-Section was formerly classified to section 2378 of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2378 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

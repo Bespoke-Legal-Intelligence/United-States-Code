@@ -32,7 +32,7 @@
 
 &emsp;(A) such action is not appropriate, the agency shall, within such time period, provide the Commission with, and publish in the Federal Register, a notice of such determination (including an adequate statement of the reasons for the determination), or
 
-&emsp;(B) such action is appropriate, the agency shall undertake such action as expeditiously as feasible and shall notify the Commission of the determination and the action undertaken.
+&emsp;(B) such action is appropriate, the agency shall undertake such action as expeditiouslyas feasible and shall notify the Commission of the determination and the action undertaken.
 
 #### (c) Report on protection of human subjects; scope; submission to President, etc.
 

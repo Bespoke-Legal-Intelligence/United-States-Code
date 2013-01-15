@@ -84,7 +84,7 @@ Whenever it appears to the Secretary that lands owned by the United States are b
 
 If, during the primary term or any extended term of any lease issued under this section, a verified statement is filed by any mining claimant pursuant to subsection (c) of section 527 of this title, whether such filing occur prior to September 2, 1960 or thereafter, asserting the existence of a conflicting unpatented mining claim or claims upon which diligent work is being prosecuted as to any lands covered by the lease, the running of time under such lease shall be suspended as to the lands involved from the first day of the month following the filing of such verified statement until a final decision is rendered in the matter.
 
-#### (<i>l</i>) Exchange of leases; conditions
+#### (l) Exchange of leases; conditions
 
 The Secretary of the Interior shall, upon timely application therefor, issue a new lease in exchange for any lease issued for a term of twenty years, or any renewal thereof, or any lease issued prior to August 8, 1946, in exchange for a twenty-year lease, such new lease to be for a primary term of five years and so long thereafter as oil or gas is produced in paying quantities and at a royalty rate of not less than 12½ per centum in amount or value of the production removed or sold from such leases, except that the royalty rate shall be 12½ per centum in amount or value of the production removed or sold from said leases as to (1) such leases, or such parts of the lands subject thereto and the deposits underlying the same, as are not believed to be within the productive limits of any producing oil or gas deposit, as such productive limits are found by the Secretary to have existed on August 8, 1946; and (2) any production on a lease from an oil or gas deposit which was discovered after May 27, 1941, by a well or wells drilled within the boundaries of the lease, and which is determined by the Secretary to be a new deposit; and (3) any production on or allocated to a lease pursuant to an approved cooperative or unit plan of development or operation from an oil or gas deposit which was discovered after May 27, 1941, on land committed to such plan, and which is determined by the Secretary to bea new deposit, where such lease, or a lease for which it is exchanged, was included in such plan at the time of discovery or was included in a duly executed and filed application for the approval of such plan at the time of discovery.
 
@@ -112,7 +112,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 (2) Except as provided in this section, nothing in the Combined Hydrocarbon Leasing Act of 1981 shall be construed to diminish or increase the rights of any lessee under any oil and gas lease issued prior to November 16, 1981.
 
-#### (<i>o</i>) Certain outstanding oil and gas deposits
+#### (o) Certain outstanding oil and gas deposits
 
 (1) Prior to the commencement of surface-disturbing activities relating to the development of oil and gas deposits on lands described under paragraph (5), the Secretary of Agriculture shall require, pursuant to regulations promulgated by the Secretary, that such activities be subject to terms and conditions as provided under paragraph (2).
 
@@ -182,7 +182,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 #### References in Text
 
-Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (<i>o</i>)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
+Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 
 The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 181 of this title and Tables.
 
@@ -210,7 +210,7 @@ Subsec. (b)(3). Pub. L. 102–486, §2507(a)(2), added par. (3).
 
 Subsec. (e). Pub. L. 102–486, §2509, substituted “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: <i>Provided, however</i>,” for “Competitive leases issued under this section shall be for a primary term of five years and noncompetitive leases for a primary term of ten years: <i>Provided, however,”.</i>
 
-Subsec. (<i>o</i>). Pub. L. 102–486, §2508(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 102–486, §2508(a), added subsec. (o).
 
 <b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
 
@@ -248,15 +248,15 @@ Act July 29, 1954, in fifth par., provided that the primary term of a lease whic
 
 #### Effective Date of 1992 Amendment
 
-Section 2507(b) of Pub. L. 102–486 provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
+Pub. L. 102–486, title XXV, §2507(b), Oct. 24, 1992, 106 Stat. 3108, provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
 
 #### Regulations
 
 Pub. L. 109–58, title III, §350(c), Aug. 8, 2005, 119 Stat. 711, provided that: “Not later than 45 days after the date of enactment of this Act \[Aug. 8, 2005\], the Secretary \[of the Interior\] shall issue final regulations to implement this section \[amending this section\].”
 
-Section 2508(b) of Pub. L. 102–486 provided that: “Within 90 days after the enactment of this Act \[Oct. 24, 1992\] the Secretary of Agriculture shall promulgate regulations to implement the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 102–486, title XXV, §2508(b), Oct. 24, 1992, 106 Stat. 3109, provided that: “Within 90 days after the enactment of this Act \[Oct. 24, 1992\] the Secretary of Agriculture shall promulgate regulations to implement the amendment made by subsection (a) \[amending this section\].”
 
-Section 5107 of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title V, §5107, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
 
 “(a)
 
@@ -272,7 +272,7 @@ Test Sale.—The Secretary may hold one or more lease sales conducted in accorda
 
 #### Savings Provision
 
-Section 8 of Pub. L. 86–705 provided that: “No amendment made by this Act \[see Short Title of 1960 Amendment note set out under section 181 of this title\] shall affect any valid right in existence on the effective date \[Sept. 2, 1960\] of the Mineral Leasing Act Revision of 1960.”
+Pub. L. 86–705, §8, Sept. 2, 1960, 74 Stat. 791, provided that: “No amendment made by this Act \[see Short Title of 1960 Amendment note set out under section 181 of this title\] shall affect any valid right in existence on the effective date \[Sept. 2, 1960\] of the Mineral Leasing Act Revision of 1960.”
 
 See note set out under section 181 of this title.
 
@@ -282,17 +282,17 @@ Functions of Secretary of the Interior, referred to in subsec. (j), to promulgat
 
 #### Pending Applications, Offers, and Bids
 
-Section 5106 of Pub. L. 100–203 provided that:
+Pub. L. 100–203, title V, §5106, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
 
 “(a) Notwithstanding any other provision of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle \[Dec. 22, 1987\] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 \[this chapter\], as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law.
 
-“(b) No noncompetitive lease applications or offers pending on the date of enactment of this subtitle for lands within the Shawnee National Forest, Illinois; the Ouachita National Forest, Arkansas; Fort Chaffee, Arkansas; or Eglin Air Force Base, Florida; shall be processed until these lands are posted for competitive bidding in accordance with section 5102 of this subtitle \[amending this section and section 188 of this title\]. If any such tract does not receive a bid equal to or greater than the national minimum acceptable bid from a responsible qualified bidder then the noncompetitive applications or offers pending for such a tract shall be reinstated and noncompetitive leases issued under the Act of February 25, 1920, as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law. If competitive leases are issued for any such tract, then the pending noncompetitive application or offer shall be rejected.
+“(b) No noncompetitive lease applications or offers pending on the date of enactment of this subtitle forlands within the Shawnee National Forest, Illinois; the Ouachita National Forest, Arkansas; Fort Chaffee, Arkansas; or Eglin Air Force Base, Florida; shall be processed until these lands are posted for competitive bidding in accordance with section 5102 of this subtitle \[amending this section and section 188 of this title\]. If any such tract does not receive a bid equal to or greater than the national minimum acceptable bid from a responsible qualified bidder then the noncompetitive applications or offers pending for such a tract shall be reinstated and noncompetitive leases issued under the Act of February 25, 1920, as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law. If competitive leases are issued for any such tract, then the pending noncompetitive application or offer shall be rejected.
 
 “(c) Except as provided in subsections (a) and (b) of this section, all oil and gas leasing pursuant to the Act of February 25, 1920, after the date of enactment of this subtitle shall be conducted in accordance with the provisions of this subtitle.”
 
 #### Report to Congress
 
-Section 5110 of Pub. L. 100–203 provided that: “The Secretary shall submit annually for 5 years after enactment of this subtitle \[Dec. 22, 1987\] to the Congress a report containing appropriate information to facilitate congressional monitoring of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\]. Such report shall include, but not be limited to—
+Pub. L. 100–203, title V, §5110, Dec. 22, 1987, 101 Stat. 1330–261, provided that: “The Secretary shall submit annually for 5 years after enactment of this subtitle \[Dec. 22, 1987\] to the Congress a report containing appropriate information to facilitate congressional monitoring of this subtitle \[subtitle B (§§5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title\]. Such report shall include, but not be limited to—
 
 &emsp;“(1) the number of acres leased, and the number of leases issued, competitively and noncompetitively;
 
@@ -308,7 +308,7 @@ Section 5110 of Pub. L. 100–203 provided that: “The Secretary shall submit a
 
 #### Land Use Study
 
-Section 5111 of Pub. L. 100–203 provided that: “The National Academy of Sciences and the Comptroller General of the United States shall conduct a study of the manner in which oil and gas resources are considered in the land use plans developed by the Secretary of the Interior in accordance with provisions of the Federal Land Policy and Management Act of 1976 (90 Stat. 2743) \[Pub. L. 94–579, see Short Title note under 43 U.S.C. 1701\] and the Secretary of Agriculture in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 476) \[Pub. L. 93–378, 16 U.S.C. 1600 et seq.\], as amended by the National Forest Management Act of 1976 (90 Stat. 2949) \[Pub. L. 94–588, see Short Title of 1976 Amendment note under 16 U.S.C. 1600\], and recommend any improvements that may be necessary to ensure that—
+Pub. L. 100–203, title V, §5111, Dec. 22, 1987, 101 Stat. 1330–262, provided that: “The National Academy of Sciences and the Comptroller General of the United States shall conduct a study of the manner in which oil and gas resources are considered in the land use plans developed by the Secretary of the Interior in accordance with provisions of the Federal Land Policy and Management Act of 1976 (90 Stat. 2743) \[Pub. L. 94–579, see Short Title note under 43 U.S.C. 1701\] and the Secretary of Agriculture in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 476) \[Pub. L. 93–378, 16 U.S.C. 1600 et seq.\], as amended by the National Forest Management Act of 1976 (90 Stat. 2949) \[Pub. L. 94–588, see Short Title of 1976 Amendment note under 16 U.S.C. 1600\], and recommend any improvements that may be necessary to ensure that—
 
 &emsp;“(1) potential oil and gas resources are adequately addressed in planning documents;
 

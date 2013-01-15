@@ -4,7 +4,7 @@ Section, act July 22, 1932, ch. 522, §21A, as added Pub. L. 101–73, title V, 
 
 #### Change of Name
 
-Section 302(a) of Pub. L. 102–233 redesignated the Oversight Board, as established by former subsec. (a)(1) of this section, as the Thrift Depositor Protection Oversight Board.
+Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767, redesignated the Oversight Board, as established by former subsec. (a)(1) of this section, as the Thrift Depositor Protection Oversight Board.
 
 #### Effective Date of Repeal
 

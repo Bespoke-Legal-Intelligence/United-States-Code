@@ -20,7 +20,7 @@ The supplemental guidelines issued under subsection (a) of this section shall es
 
 #### (3) Other sites
 
-&emsp;With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
+&emsp;With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalentto those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
 
 (Pub. L. 101–336, title V, §504, July 26, 1990, 104 Stat. 370.)
 

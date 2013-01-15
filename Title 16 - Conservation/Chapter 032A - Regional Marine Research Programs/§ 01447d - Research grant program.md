@@ -44,7 +44,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 &emsp;(D) a schedule of milestones and interim products for each research project;
 
-&emsp;(E) a description of the relationship of the proposed project to the goals, objectives, and priorities of the research plan for the region and to other research projects; and
+&emsp;(E) a description of the relationship of the proposed project to the goals, objectives, andpriorities of the research plan for the region and to other research projects; and
 
 &emsp;(F) any other information which may be required by the Administrator.
 

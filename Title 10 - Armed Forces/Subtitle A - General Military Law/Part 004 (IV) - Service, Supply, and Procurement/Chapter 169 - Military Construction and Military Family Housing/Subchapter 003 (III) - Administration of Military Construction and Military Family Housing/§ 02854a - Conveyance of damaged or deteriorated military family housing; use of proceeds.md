@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Convey.—(1) The Secretary concerned may convey any family housing facility that, due to damage or deterioration, is in a condition that is uneconomical to repair. Any conveyance of a family housing facility under this section may include a conveyance of the real property associated with the facility conveyed.
+Authority To Convey.—(1) The Secretary concerned may convey any family housing facility that, due to damage or deterioration, is in acondition that is uneconomical to repair. Any conveyance of a family housing facility under this section may include a conveyance of the real property associated with the facility conveyed.
 
 (2) The authority of this section does not apply to family housing facilities located at military installations approved for closure under a base closure law or family housing facilities located at an installation outside the United States at which the Secretary of Defense terminates operations.
 

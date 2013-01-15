@@ -28,7 +28,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (6) Compensation
 
-&emsp;Each member of the Board shall serve without compensation, but shall be reimbursed fornecessary and reasonable expenses incurred in the performance of duties of the Board.
+&emsp;Each member of the Board shall serve without compensation, but shall be reimbursed for necessary and reasonable expenses incurred in the performance of duties of the Board.
 
 #### (c) Powers and duties of Board
 
@@ -184,7 +184,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 The order shall require the Board to take reasonable steps to coordinate the collection of assessments, and advertising and research activities of the Board with the National Dairy Promotion and Research Board established under section 4504(b) of this title.
 
-#### (<i>l</i>) Exemptions
+#### (l) Exemptions
 
 The order shall exempt fluid milk products exported from the United States from assessments under the order.
 

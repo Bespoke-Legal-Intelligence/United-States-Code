@@ -6,5 +6,5 @@ Section 60n, Pub. L. 103–3, title V, §502, Feb. 5, 1993, 107 Stat. 28, relate
 
 #### Savings Provision
 
-Section 504(b) of Pub. L. 104–1 provided in part that sections 60m and 60n of this title are repealed, except as provided in section 1435 of this title.
+Pub. L. 104–1, title V, §504(b), Jan. 23, 1995, 109 Stat. 41, provided in part that sections 60m and 60n of this title are repealed, except as provided in section 1435 of this title.
 

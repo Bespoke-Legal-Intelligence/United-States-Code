@@ -30,7 +30,7 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (5) Last date for payment not otherwise prescribed
 
-&emsp;In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
+&emsp;In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date theliability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
 
 #### (c) Suspension of interest in certain income, estate, gift, and certain excise tax cases
 
@@ -142,7 +142,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;&emsp;<b>For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II,§206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 97–248, §344(b)(1), struck out par. (2) which had provid
 
 <b>1978</b>—Subsec. (d)(2). Pub. L. 95–628, §8(c)(2)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and in text extended the application of the provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
-Subsec. (d)(4), (5). Pub. L. 95–628, §8(c)(2)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
+Subsec. (d)(4), (5). Pub. L. 95–628, §8(c)(2)(B), struck out pars. (4) and (5) which provided for work incentiveprogram credit carrybacks and new employee credit carrybacks, respectively.
 
 <b>1977</b>—Subsec. (d)(5). Pub. L. 95–30 added par. (5).
 
@@ -244,7 +244,7 @@ Subsecs. (j), (k). Pub. L. 94–455, §2004(b), added subsec. (j) and redesignat
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–625, §7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
+Subsecs. (b) to (l). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (l) as (i) and (j), respectively.
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
 
@@ -256,7 +256,7 @@ Subsec. (e)(1). Pub. L. 91–172, §512(e)(3)(A), (B), substituted “loss or ca
 
 Subsec. (e)(2). Pub. L. 91–172, §512(e)(3)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 91–53 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 91–53 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>1967</b>—Subsec. (e)(2). Pub. L. 90–225 inserted “, or with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the last day of such subsequent taxable year,” after “the investment credit carryback arises”.
 
@@ -298,13 +298,13 @@ Amendment by section 501(e) of Pub. L. 105–34 applicable to estates of deceden
 
 Amendment by section 503(a), (c)(2), (3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
-Section 1055(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 6611 of this title\] shall apply to foreign tax credit carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1055(c), Aug. 5, 1997, 111 Stat. 945, provided that: “The amendments made by this section \[amending this section and section 6611 of this title\] shall apply to foreign tax credit carrybacks arising in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1242(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to adjustments with respect to partnership taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XII, §1242(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section \[amending this section\] shall apply to adjustments with respect to partnership taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
-Section 303(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 6651 of this title\] shall apply in the case of any notice and demand given after December 31, 1996.”
+Pub. L. 104–168, title III, §303(c), July 30, 1996, 110 Stat. 1458, provided that: “The amendments made by this section \[amending this section and section 6651 of this title\] shall apply in the case of any notice and demand given after December 31, 1996.”
 
 #### Effective Date of 1989 Amendment
 
@@ -316,7 +316,7 @@ Amendment by section 1015(b)(2)(C) of Pub. L. 100–647 applicable to returns th
 
 Amendment by section 1018(u)(42) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 6234(b)(1) of Pub. L. 100–647 applicable to agreements entered into after Nov. 10, 1988, see section 6234(c) of Pub. L. 100–647, set out as an Effective Date note under section 6159 of this title.
+Amendment by section 6234(b)(1) of Pub. L. 100–647 applicable to agreements entered into after Nov. 10, 1988,see section 6234(c) of Pub. L. 100–647, set out as an Effective Date note under section 6159 of this title.
 
 Amendment by section 7106(c)(5) of Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) of Pub. L. 100–647, set out as a note under section 3321 of this title.
 
@@ -330,9 +330,9 @@ Amendment by section 1404(c)(3) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1511(c)(11) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Section 1512(b) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1985.”
+Pub. L. 99–514, title XV, §1512(b), Oct. 22, 1986, 100 Stat. 2746, provided that: “The amendments made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1985.”
 
-Section 1564(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XV, §1564(b), Oct. 22, 1986, 100 Stat. 2762, provided that:
 
 “(1)
 
@@ -344,7 +344,7 @@ Statute of limitations.—If refund or credit of any amount resulting from the a
 
 #### Effective Date of 1984 Amendment
 
-Section 158(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to interest accrued after the date of the enactment of this Act \[July 18, 1984\], except with respect to additions to tax for which notice and demand is made before such date.”
+Pub. L. 98–369, div. A, title I, §158(b), July 18, 1984, 98 Stat. 696, provided that: “The amendment made by this section \[amending this section\] shall apply to interest accrued after the date of the enactment of this Act \[July 18, 1984\], except with respect to additions to tax for which notice and demand is made before such date.”
 
 Amendment by section 211(b)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after December 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
+Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after December 31, 1958,see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by sections 66(c) and 84(a) of Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 83(d) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) \[amending this section and section 3794 of I.R.C. 1939\], (b) \[amending section 6611 of this title and section 3771 of I.R.C. 1939\], and (c) \[amending section 6611 of this title\] shall apply only in respect of overpayments credited after December 31, 1957.”
+Pub. L. 85–866, title I, §83(d), Sept. 2, 1958, 72 Stat. 1664, provided that: “The amendments made by subsections (a) \[amending this section and section 3794 of I.R.C. 1939\], (b) \[amending section 6611 of this title and section 3771 of I.R.C. 1939\], and (c) \[amending section 6611 of this title\] shall apply only in respect of overpayments credited after December 31, 1957.”
 
 For effective date of amendment by section 206(e) of Pub. L. 85–866, see section 206(f) of Pub. L. 85–866, set out as a note under section 6161 of this title.
 
@@ -442,15 +442,15 @@ Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided tha
 
 #### Interest Not Payable on Underpayments Created or Increased by Tax Reform Act of 1976
 
-Section 305 of Pub. L. 95–30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
+Pub. L. 95–30, title III, §305, May 23, 1977, 91 Stat. 152, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
 
 #### Interest on Underpayment
 
-Section 946(a) of Pub. L. 91–172 provided that in the case of any taxable year ending before Dec. 30, 1969, no interest on underpayment of taxes, to the extent that such underpayment was attributable to the amendments made by Pub. L. 91–172, was not to be assessed or collected for any period before the 90th day after Dec. 30, 1969.
+Pub. L. 91–172, title IX, §946(a), Dec. 30, 1969, 83 Stat. 729, provided that in the case of any taxable year ending before Dec. 30, 1969, no interest on underpayment of taxes, to the extent that such underpayment was attributable to the amendments made by Pub. L. 91–172, was not to be assessed or collected for any period before the 90th day after Dec. 30, 1969.
 
 #### Interest Attributable to Net Operating Loss Carryback for Certain Taxable Years Ending in 1954
 
-Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
+Pub. L. 85–866, title I, §83(e), Sept. 2, 1958, 72 Stat. 1664, provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

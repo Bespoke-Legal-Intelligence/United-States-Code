@@ -30,11 +30,11 @@ State Defined.—In this section, the term “State” includes the District of 
 
 #### Effective Date of 1993 Amendment
 
-Section 715(b) of Pub. L. 103–160 provided that: “Section 1103 of title 10, United States Code, as amended by subsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title VII, §715(b), Nov. 30, 1993, 107 Stat. 1691, provided that: “Section 1103 of title 10,United States Code, as amended by subsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date
 
-Section 725(b) of Pub. L. 100–180 provided that: “Section 1103 of such title, as added by subsection (a), shallapply with respect to any contract entered into after October 1, 1987.”
+Pub. L. 100–180, div. A, title VII, §725(b), Dec. 4, 1987, 101 Stat. 1117, provided that: “Section 1103 of such title, as added by subsection (a), shall apply with respect to any contract entered into after October 1, 1987.”
 
 #### Applicability of Preemption Provisions to Certain Contracts
 

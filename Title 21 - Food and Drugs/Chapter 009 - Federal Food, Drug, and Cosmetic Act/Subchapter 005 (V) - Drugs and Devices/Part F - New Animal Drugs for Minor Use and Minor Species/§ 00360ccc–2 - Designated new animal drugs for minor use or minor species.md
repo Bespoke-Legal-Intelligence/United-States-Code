@@ -24,7 +24,7 @@
 
 #### (b) Grants and contracts for development of designated new animal drugs
 
-(1) The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in defraying the costs of qualified safety and effectiveness testing expenses and manufacturing expenses incurred in connection with the development of designated new animal drugs.
+(1) The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in defraying thecosts of qualified safety and effectiveness testing expenses and manufacturing expenses incurred in connection with the development of designated new animal drugs.
 
 (2) For purposes of paragraph (1) of this section—
 

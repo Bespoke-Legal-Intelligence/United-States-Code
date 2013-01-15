@@ -1,6 +1,6 @@
 ### §1395ss–1. Clarification
 
-Any health insurance policy that provides reimbursement for expenses incurred for items and services for which payment may be made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] but which are not reimbursable by reason of the applicability of deductibles, coinsurance, copayments or other limitations imposed by a Medicare Advantage plan (including a Medicare Advantage private fee-for-service plan) under part C of such title \[42 U.S.C. 1395w–21 et seq.\] shall comply with the requirements of section 1882(<i>o</i>) of the such <sup>1</sup> Act (42 U.S.C. 1395ss(<i>o</i>)).
+Any health insurance policy that provides reimbursement for expenses incurred for items and services for which payment may be made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] but which are not reimbursable by reason of the applicability of deductibles, coinsurance, copayments or other limitations imposed by a Medicare Advantage plan (including a Medicare Advantage private fee-for-service plan) under part C of such title \[42 U.S.C. 1395w–21 et seq.\] shall comply with the requirements of section 1882(o) of the such <sup>1</sup> Act (42 U.S.C. 1395ss(o)).
 
 (Pub. L. 110–275, title I, §104(c), July 15, 2008, 122 Stat. 2502.)
 

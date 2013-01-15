@@ -10,7 +10,7 @@ The objective of the Program is the achievement of major measurable reductions i
 
 #### (c) Interagency Working Group
 
-Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination. Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
+Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination.Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
 
 &emsp;(1) The National Institute of Standards and Technology shall support research and development to improve building codes and standards and practices for design and construction of buildings, structures, and lifelines.
 
@@ -18,7 +18,7 @@ Not later than 90 days after October 25, 2004, the Director shall establish an I
 
 &emsp;(3) The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
 
-&emsp;(4) The Federal Emergency Management Agency shall support the development of riskassessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency's all-hazards approach.
+&emsp;(4) The Federal Emergency Management Agency shall support the development of risk assessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency's all-hazards approach.
 
 #### (d) Program components
 
@@ -76,5 +76,5 @@ This chapter, referred to in subsec. (d)(1), was in the original â€œthis titleâ€
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

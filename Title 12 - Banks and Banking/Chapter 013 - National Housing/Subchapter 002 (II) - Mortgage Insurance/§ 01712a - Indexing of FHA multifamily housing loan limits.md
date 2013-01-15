@@ -10,9 +10,9 @@ The dollar amounts set forth in—
 
 &emsp;(3) section 1715k(d)(3)(B)(iii)(I) of this title;
 
-&emsp;(4) section 1715<i>l</i>(d)(3)(ii)(I) of this title;
+&emsp;(4) section 1715l(d)(3)(ii)(I) of this title;
 
-&emsp;(5) section 1715<i>l</i>(d)(4)(ii)(I) of this title;
+&emsp;(5) section 1715l(d)(4)(ii)(I) of this title;
 
 &emsp;(6) section 1715v(c)(2)(A) of this title; and
 

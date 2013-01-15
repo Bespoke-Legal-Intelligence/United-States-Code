@@ -48,7 +48,7 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 <b>1977</b>—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+<b>1971</b>—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of theUnited States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
 Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
@@ -58,7 +58,7 @@ Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: “That this Act \
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–17 provided: “That this Act \[amending this chapter\] may be cited as the ‘Reorganization Act of 1977’.”
+Pub. L. 95–17, §1, Apr. 6, 1977, 91 Stat. 29, provided: “That this Act \[amending this chapter\] may be cited as the ‘Reorganization Act of 1977’.”
 
 #### National Commission on Executive Organization
 
@@ -388,7 +388,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 

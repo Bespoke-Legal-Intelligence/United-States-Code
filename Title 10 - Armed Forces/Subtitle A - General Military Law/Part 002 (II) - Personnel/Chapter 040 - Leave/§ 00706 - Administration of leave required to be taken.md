@@ -4,7 +4,7 @@
 
 (b)(1) A member who is required to take leave under section 876a or 1182(c)(2) of this title and who has accrued leave to his credit on the day before the day such leave begins may elect to be paid for such accrued leave. Any such payment shall be based on the rate of basic pay to which the member was entitled on the day before the day such leave began. If the member does not elect to be paid for such accrued leave, the member is entitled to pay and allowances during the period of accrued leave required to be taken.
 
-(2) Except as provided in paragraph (1) and in sections 707 and 707a of this title, a member may not accrue or receive pay or allowances during aperiod of leave required to be taken under section 876a or 1182(c)(2) of this title.
+(2) Except as provided in paragraph (1) and in sections 707 and 707a of this title, a member may not accrue or receive pay or allowances during a period of leave required to be taken under section 876a or 1182(c)(2) of this title.
 
 (c) A member required to take leave under section 876a or 1182(c)(2) of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 #### Effective Date
 
-Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1983, 97 Stat. 1407, provided that:
+Pub. L. 97–81, §7, Nov. 20, 1981, 95 Stat. 1089, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1983, 97 Stat. 1407, provided that:
 
 “(a) The amendments made by this Act \[enacting this section and sections 707 and 876a of this title and amending sections 701, 813, 832, 838, 867, and 869 of this title\] shall take effect at the end of the sixty-day period beginning on the date of the enactment of this Act.
 

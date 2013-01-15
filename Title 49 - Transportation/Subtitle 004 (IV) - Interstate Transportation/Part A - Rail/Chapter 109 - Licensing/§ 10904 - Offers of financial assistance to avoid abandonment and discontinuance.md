@@ -28,7 +28,7 @@
 
 &emsp;(4) any other information that the Board considers necessary to allow a potential offeror to calculate an adequate subsidy or purchase offer.
 
-(c) Within 4 months after an application is filed under section 10903, any person may offer to subsidize or purchase the railroad line that is the subject of such application. Such offer shall be filed concurrently with the Board. If the offer to subsidize or purchase is less than the carrier's estimate stated pursuant to subsection (b)(1), the offer shall explain the basis of the disparity, and the manner in which the offer is calculated.
+(c) Within 4 months after an application is filed under section 10903, any person may offer to subsidize or purchase the railroad line that is the subject of such application. Such offer shall be filed concurrently with the Board. If the offer to subsidize or purchase is less than the carrier'sestimate stated pursuant to subsection (b)(1), the offer shall explain the basis of the disparity, and the manner in which the offer is calculated.
 
 (d)(1) Unless the Board, within 15 days after the expiration of the 4-month period described in subsection (c), finds that one or more financially responsible persons (including a governmental authority) have offered financial assistance regarding that part of the railroad line to be abandoned or over which all rail transportation is to be discontinued, abandonment or discontinuance may be carried out in accordance with section 10903.
 

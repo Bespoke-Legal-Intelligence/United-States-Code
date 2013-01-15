@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than 1 year after December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing steps to be taken by the Administration to protect from retaliation Administration employeeswho raise concerns about substantial and specific dangers to public health and safety or about substantial and specific factors that could threaten the success of a mission. The plan shall be designed to ensure that Administration employees have the full protection required by law. The Administrator shall implement the plan not more than 1 year after its transmittal.
+In General.—Not later than 1 year after December 30, 2005, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan describing steps to be taken by the Administration to protect from retaliation Administration employees who raise concerns about substantial and specific dangers to public health and safety or about substantial and specific factors that could threaten the success of a mission. The plan shall be designed to ensure that Administration employees have the full protection required by law.The Administrator shall implement the plan not more than 1 year after its transmittal.
 
 (b)
 
@@ -52,7 +52,7 @@ Pub. L. 109–155, title I, §110, Dec. 30, 2005, 119 Stat. 2914.
 
 In subsection (a), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 
-In subsections (a) and (d), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(<i>o</i>) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsections (a) and (d), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 In subsection (d), the words “Not later than February 15 of each year beginning February 15, 2007” are substituted for “Not later than February 15 of each year beginning with the year after the date of enactment of this Act” for clarity.
 

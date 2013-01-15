@@ -22,7 +22,7 @@ In determining the projected total cost of the mortgage to be disclosed to the c
 
 &emsp;(2) all costs and charges to the consumer, including the costs of any associated annuity that the consumer elects or is required to purchase as part of the reverse mortgage transaction;
 
-&emsp;(3) all payments to and for the benefit of the consumer, including, in the case in which an associated annuity is purchased (whether or not required by the lender as a condition of making the reverse mortgage), the annuity payments received by the consumer and financed from the proceeds of the loan, insteadof the proceeds used to finance the annuity; and
+&emsp;(3) all payments to and for the benefit of the consumer, including, in the case in which an associated annuity is purchased (whether or not required by the lender as a condition of making the reverse mortgage), the annuity payments received by the consumer and financed from the proceeds of the loan, instead of the proceeds used to finance the annuity; and
 
 &emsp;(4) any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
 

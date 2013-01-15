@@ -38,5 +38,5 @@ Pub. L. 108–375, §1072(a), renumbered section 4747 of this title as this sect
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 

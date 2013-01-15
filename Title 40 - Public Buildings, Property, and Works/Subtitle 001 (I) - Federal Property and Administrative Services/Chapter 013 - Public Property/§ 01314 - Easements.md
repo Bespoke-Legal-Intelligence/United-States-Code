@@ -32,11 +32,11 @@ State.—The term “State” means a State of the United States, the District o
 
 (b)
 
-Grant of Easement.—When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of the agency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
+Grant of Easement.—When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of theagency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
 
 (c)
 
-Relinquishment of Legislative Jurisdiction.—In connection with the grant of an easement, the executive agency concerned may relinquish to the State in which the real propertyis located legislative jurisdiction that the executive agency considers necessary or desirable. Relinquishment of legislative jurisdiction may be accomplished by filing with the chief executive officer of the State a notice of relinquishment to take effect upon acceptance or by proceeding in the manner that the laws applicable to the State may provide.
+Relinquishment of Legislative Jurisdiction.—In connection with the grant of an easement, the executive agency concerned may relinquish to the State in which the real property is located legislative jurisdiction that the executive agency considers necessary or desirable. Relinquishment of legislative jurisdiction may be accomplished by filing with the chief executive officer of the State a notice of relinquishment to take effect upon acceptance or by proceeding in the manner that the laws applicable to the State may provide.
 
 (d)
 

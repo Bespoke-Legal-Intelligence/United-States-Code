@@ -20,7 +20,7 @@ In this subchapter:
 
 &emsp;&emsp;(C) does not have 1 or more prior convictions for a felony crime of violence involving the use or attempted use of force against a person with the intent to cause death or serious bodily harm; and
 
-&emsp;&emsp;(D)(i) has received an assessment for alcohol or drug addiction from a substance abuse professional who is approved by the State or Indian Tribe and licensed by the appropriateentity to provide alcohol and drug addiction treatment, as appropriate; and
+&emsp;&emsp;(D)(i) has received an assessment for alcohol or drug addiction from a substance abuse professional who is approved by the State or Indian Tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate; and
 
 &emsp;&emsp;(ii) has been found to be in need of substance abuse treatment because that individual has a history of substance abuse that is a significant contributing factor to the criminal conduct of that individual.
 

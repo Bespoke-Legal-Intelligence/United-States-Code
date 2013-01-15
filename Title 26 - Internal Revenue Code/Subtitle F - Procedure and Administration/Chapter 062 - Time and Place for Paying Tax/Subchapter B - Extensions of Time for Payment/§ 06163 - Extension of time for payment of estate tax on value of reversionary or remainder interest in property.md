@@ -38,7 +38,7 @@ Amendment by Pub. L. 93–625 effective on July 1, 1975, and applicable to amoun
 
 #### Effective Date of 1964 Amendment
 
-Section 240(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, §240(c), Feb. 26, 1964, 78 Stat. 129, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply in the case of any reversionary or remainder interest only if the time for payment of the tax under chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] attributable to such interest, including any extensions thereof, has not expired on the date of the enactment of this Act \[Feb. 26, 1964\].
 
@@ -46,5 +46,5 @@ Section 240(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1958 Amendment
 
-Section 66(b)(3) of Pub. L. 85–866 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, title I, §66(b)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
 

@@ -24,7 +24,7 @@ Each report required by subsection (a) of this section shall, for the period cov
 
 &emsp;(6) A description of the steps taken to assure that raw materials and semifinished or finished goods produced by facilities in Cuba involving foreign nationals do not enter the United States market, either directly or through third countries or parties.
 
-&emsp;(7) An identification of countries that purchase, or have purchased, arms or militarysupplies from Cuba or that otherwise have entered into agreements with Cuba that have a military application, including—
+&emsp;(7) An identification of countries that purchase, or have purchased, arms or military supplies from Cuba or that otherwise have entered into agreements with Cuba that have a military application, including—
 
 &emsp;&emsp;(A) a description of the military supplies, equipment, or other material sold, bartered, or exchanged between Cuba and such countries,
 

@@ -1,6 +1,6 @@
 ### §12202. Commissioned officer grades
 
-Except for commissioned warrant officers, the reserve commissioned officer grades in each armed force are those authorized for regular commissioned officers of that armed force.
+Except for commissioned warrant officers, the reserve commissioned officer grades in eacharmed force are those authorized for regular commissioned officers of that armed force.
 
 (Added Pub. L. 85–861, §1(10)(B), Sept. 2, 1958, 72 Stat. 1440, §592; renumbered §12202, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990.)
 

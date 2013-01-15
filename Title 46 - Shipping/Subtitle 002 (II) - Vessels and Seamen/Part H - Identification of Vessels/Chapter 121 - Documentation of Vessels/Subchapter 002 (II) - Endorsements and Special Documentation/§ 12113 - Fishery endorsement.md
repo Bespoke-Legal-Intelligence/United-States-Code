@@ -70,13 +70,23 @@ Application.—This subsection applies to a vessel that—
 
 Requirements.—A vessel subject to this subsection is not eligible for a fishery endorsement unless—
 
-&emsp;&emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with afishery endorsement that was effective on September 25, 1997; and
+&emsp;&emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with a fishery endorsement that was effective on September 25, 1997; and
 
 &emsp;&emsp;(ii) the vessel is not placed under foreign registry after October 21, 1998;
 
-&emsp;&emsp;(B) the owner of the vessel demonstrates to the Secretary that the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority;
+&emsp;&emsp;(B) the owner of the vessel demonstrates to the Secretary that—
 
-&emsp;&emsp;(C) the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or
+&emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
+
+&emsp;&emsp;(C) the vessel—
+
+&emsp;&emsp;&emsp;(i) is either a rebuilt vessel or replacement vessel under section 208(g) of theAmerican Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627);
+
+&emsp;&emsp;&emsp;(ii) is eligible for a fishery endorsement under this section; and
+
+&emsp;&emsp;&emsp;(iii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887); <sup>2</sup> or
 
 &emsp;&emsp;(D) the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 
@@ -122,7 +132,7 @@ Revocation of Endorsements.—The Secretary shall revoke the fishery endorsement
 
 Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495; Pub. L. 110–181, div. C, title XXXV, §3529(a)(2), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–281, title VI, §602(a), Oct. 15, 2010, 124 Stat. 2959.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495; Pub. L. 110–181, div. C, title XXXV, §3529(a)(2), Jan. 28, 2008, 122 Stat. 603; Pub. L. 111–281, title VI, §602(a), Oct. 15, 2010, 124 Stat. 2959; Pub. L. 112–213, title III, §307, Dec. 20, 2012, 126 Stat. 1565.)
 
 Historical and Revision Notes
 
@@ -200,9 +210,11 @@ In subsection (i), the first two sentences of section 203(b) of Public Law 105�
 
 #### References in Text
 
-The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec.\(d)(2)(B), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Subsec. (d)(2)(B) of this section was derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to “such Act” which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct.6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to “such Act” which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-Section 208(g) of the American Fisheries Act, referred to in subsec. (d)(2)(C), is section 208(g) of title II of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–627, which is set out in a note under section 1851 of Title 16, Conservation.
+Section 208(e) and (g) of the American Fisheries Act, referred to in subsec. (d)(2)(B)(ii), (C)(i), (iii), is section 208(e) and (g), respectively, of title II of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–625, 2681–627, which is set out in a note under section 1851 of Title 16, Conservation.
+
+Section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005, referred to in subsec. (d)(2)(B)(ii), (C)(iii), is section 219(a)(7) of Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2887, which is not classified to the Code.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (g), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
@@ -211,6 +223,10 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(2)(B). Pub. L. 112–213, §307(1), substituted “Secretary that—” for “Secretary that”, inserted cl. (i) designation before “the regional” and “and” after “authority;”, and added cl. (ii).
+
+Subsec. (d)(2)(C). Pub. L. 112–213, §307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or”.
 
 <b>2010</b>—Subsec. (d)(2)(A)(i). Pub. L. 111–281, §602(a)(1), inserted “and” at the end.
 
@@ -269,4 +285,6 @@ Pub. L. 100–239, §4, Jan. 11, 1988, 101 Stat. 1779, as amended by Pub. L. 101
 Pub. L. 100–239, §6(d), Jan. 11, 1988, 101 Stat. 1782, provided that: “The terms in this Act \[see Tables for classification\] have the same meaning as in subtitle II \[now also sections 114 and 115\] of title 46, United States Code (as amended by this Act).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be preceded by another closing parenthesis.</i>
 

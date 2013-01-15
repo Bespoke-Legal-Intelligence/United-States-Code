@@ -52,11 +52,11 @@ Subsec. (c). Pub. L. 100–713, §401(a), substituted “skilled nursing facilit
 
 #### Effective Date of 1992 Amendment
 
-Section 401(b)(2) of Pub. L. 102–573 provided that: “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) \[amending this section\] shall take effect beginning with payments made on January 1, 1993.”
+Pub. L. 102–573, title IV, §401(b)(2), Oct. 29, 1992, 106 Stat. 4565, provided that: “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) \[amending this section\] shall take effect beginning with payments made on January 1, 1993.”
 
 #### Effective Date of 1988 Amendment
 
-Section 401(c) of Pub. L. 100–713 provided that: “The amendments made by this section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\].”
+Pub. L. 100–713, title IV, §401(c), Nov. 23, 1988, 102 Stat. 4818, provided that: “The amendments made by this section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

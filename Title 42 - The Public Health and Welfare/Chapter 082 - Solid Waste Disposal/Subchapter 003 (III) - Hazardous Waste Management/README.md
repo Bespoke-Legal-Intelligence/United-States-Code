@@ -30,3 +30,4 @@
 - [&sect; 06939d - Public vessels](%C2%A7%2006939d%20-%20Public%20vessels.md)
 - [&sect; 06939e - Federally owned treatment works](%C2%A7%2006939e%20-%20Federally%20owned%20treatment%20works.md)
 - [&sect; 06939f - Long-term storage](%C2%A7%2006939f%20-%20Long-term%20storage.md)
+- [&sect; 06939g - Hazardous waste electronic manifest system](%C2%A7%2006939g%20-%20Hazardous%20waste%20electronic%20manifest%20system.md)

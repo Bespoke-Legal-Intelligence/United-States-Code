@@ -102,7 +102,7 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 &emsp;&emsp;(B) the tax imposed by this chapter on such organization shall be increased by such amount.
 
-> &emsp;The increase under subparagraph (B) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
+> &emsp;The increase under subparagraph (B) shall not be treated as tax imposed by this chapter for purposes of determining the amount of anycredit under this chapter or for purposes of section 55.
 
 #### (g) Election to not take credit
 

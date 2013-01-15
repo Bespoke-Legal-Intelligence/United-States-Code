@@ -34,7 +34,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L. 88–452, title VIII, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see section 2991 of this title.
 
@@ -50,7 +50,7 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 Pub. L. 102–375, §822(21), substituted “Alaska Native villages” for “Alaskan Native villages”.
 
-Pub. L. 102–375, §822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing and substituted “Indian and Alaska Native organizations” for “Indian organizations”.
+Pub. L. 102–375, §822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing andsubstituted “Indian and Alaska Native organizations” for “Indian organizations”.
 
 Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of “area that is not an Indian reservation or Alaska Native village” for “nonreservation area”, could not be executed because the words “nonreservation area” did not appear.
 

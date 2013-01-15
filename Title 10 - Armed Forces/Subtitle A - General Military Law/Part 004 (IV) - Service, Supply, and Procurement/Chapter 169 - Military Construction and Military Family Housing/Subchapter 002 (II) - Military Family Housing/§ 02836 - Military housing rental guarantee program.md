@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents). The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
+Authority.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents). The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
 
 (b)
 
@@ -22,7 +22,7 @@ Content of Agreement.—An agreement under subsection (a)—
 
 &emsp;&emsp;(A) in the case of a Department of Defense agreement, to Department of Defense specifications or, at the discretion of the Secretary of the military department concerned, in compliance with the local building codes; and
 
-&emsp;&emsp;(B) in the case of an agreement for the Coast Guard, to Department of Homeland Security specifications;
+&emsp;&emsp;(B) in the case of an agreement for the Coast Guard when it is not operating as a service in the Navy, to Department of Homeland Security specifications;
 
 &emsp;(5) may not be for a term in excess of 25 years;
 
@@ -36,7 +36,7 @@ Content of Agreement.—An agreement under subsection (a)—
 
 &emsp;(10) shall provide for priority of occupancy for military families;
 
-&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreement null and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
+&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreement null and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
 
 &emsp;(12) may provide in the agreement for the rental of a child care center, civic center building, and similar type buildings constructed for the support of family housing;
 
@@ -62,13 +62,15 @@ Competitive Process.—An agreement under subsection (a) shall be made through t
 
 Disputes.—The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(48), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 112–81, div. A, title X, §1061(25), Dec. 31, 2011, 125 Stat. 1584.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(48), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 112–81, div. A, title X, §1061(25), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 112–239, div. A, title X, §1076(f)(36), Jan. 2, 2013, 126 Stat. 1954.)
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, §2809(b).
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (a), (c)(4)(B), (11). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81, §1061(25)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
 
@@ -92,5 +94,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Section 2809(c) of Pub. L. 102–190 provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
+Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
 

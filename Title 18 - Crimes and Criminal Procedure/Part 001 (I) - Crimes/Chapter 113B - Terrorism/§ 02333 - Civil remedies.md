@@ -16,9 +16,13 @@ Estoppel Under Foreign Law.—A final judgment or decree rendered in favor of an
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (<i>l</i>), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (<i>l</i>), (n), or (r))”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (l), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (l), (n), or (r))”.
 
 #### Effective Date
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
+
+#### Special Rule Relating to Certain Acts of International Terrorism
+
+Pub. L. 112–239, div. A, title XII, §1251(c), Jan. 2, 2013, 126 Stat. 2017, provided that: “Notwithstanding section 2335 of title 18, United States Code, as amended by subsection (a), a civil action under section 2333 of such title resulting from an act of international terrorism that occurred on or after September 11, 2001, and before the date that is 4 years before the date of the enactment of this Act \[Jan. 2, 2013\], may be maintained if the civil action is commenced during the 6-year period beginning on such date of enactment.”
 

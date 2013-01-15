@@ -54,7 +54,7 @@ The Fund shall be available as follows:
 
 &emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
 
-&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
+&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance withparagraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
 
 &emsp;(4) Of the remaining amount to be distributed from the Fund in a particular fiscal year—
 
@@ -96,7 +96,7 @@ As used in this section, the term “offenses against the United States” does 
 
 (3) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I,§110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Subsec. (d)(5)(B). Pub. L. 106–386, §2003(c)(2), inserted “, to provide co
 
 Subsec. (e). Pub. L. 106–386, §2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
-<b>1999</b>—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to makesupplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
+<b>1999</b>—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
@@ -276,27 +276,27 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Section 7129 of Pub. L. 100–690, as amended by Pub. L. 101–647, title V, §505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter \[probably means this subtitle, subtitle D (§§7121–7130) of title VII of Pub. L. 100–690, enacting section 10605 of this title, amending this section and sections 10602 to 10604 of this title, and enacting provisions set out as a note under this section\] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act \[Nov. 18, 1988\] until October 1, 1991.”
+Pub. L. 100–690, title VII, §7129, Nov. 18, 1988, 102 Stat. 4423, as amended by Pub. L. 101–647, title V, §505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter \[probably means this subtitle, subtitle D (§§7121–7130) of title VII of Pub. L. 100–690, enacting section 10605 of this title, amending this section and sections 10602 to 10604 of this title, and enacting provisions set out as a note under this section\] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act \[Nov. 18, 1988\] until October 1, 1991.”
 
 #### Effective Date
 
-Section 1409 of chapter XIV of title II of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §1409, Oct. 12, 1984, 98 Stat. 2178, provided that:
 
-“(a) Except as provided in subsection (b), this chapter \[see Short Title note below\] and the amendments made by this chapter shall take effect thirty days after the date of enactment of this joint resolution \[Oct. 12, 1984\].
+“(a) Except as provided in subsection (b), this chapter \[chapter XIV (§§1401–1411) of title II of Pub. L. 98–473, see Short Title note below\] and the amendments made by this chapter shall take effect thirty days after the date of enactment of this joint resolution \[Oct. 12, 1984\].
 
 “(b) Sections 1402, 1403, 1404, and 1407 of this chapter \[enacting this chapter\] shall take effect on October 1, 1984.”
 
 #### Short Title of 1996 Amendment
 
-Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
+Pub. L. 104–132, title II, §231, Apr. 24, 1996, 110 Stat. 1243, provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
 
 #### Short Title of 1990 Amendment
 
-Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of this title, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
+Pub. L. 101–647, title V, §501, Nov. 29, 1990, 104 Stat. 4820, provided that: “This title \[enacting sections 10606 and 10607 of this title, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
 
 #### Short Title
 
-Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting this chapter and sections 3013, 3671 and 3672 of Title 18, Crimes and Criminal Procedure, and amending sections 3150a, 4207, and 4215 of Title 18 and provisions set out as a note under section 1512 of Title 18\] may be cited as the ‘Victims of Crime Act of 1984’.”
+Pub. L. 98–473, title II, §1401, Oct. 12, 1984, 98 Stat. 2170, provided that: “This chapter \[chapter XIV (§§1401–1411) of title II of Pub. L. 98–473, enacting this chapter and sections 3013, 3671 and 3672 of Title 18, Crimes and Criminal Procedure, and amending sections 3150a, 4207, and 4215 of Title 18 and provisions set out as a note under section 1512 of Title 18\] may be cited as the ‘Victims of Crime Act of 1984’.”
 
 #### Victims of September 11, 2001
 
@@ -338,11 +338,11 @@ Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that
 
 #### Transfer of Certain Unobligated Funds
 
-Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
+Pub. L. 105–119, title I, §109(b), Nov. 26, 1997, 111 Stat. 2457, provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
 
 #### Retroactive Transfer to Fund
 
-Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
+Pub. L. 100–690, title VII, §7130, Nov. 18, 1988, 102 Stat. 4423, provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

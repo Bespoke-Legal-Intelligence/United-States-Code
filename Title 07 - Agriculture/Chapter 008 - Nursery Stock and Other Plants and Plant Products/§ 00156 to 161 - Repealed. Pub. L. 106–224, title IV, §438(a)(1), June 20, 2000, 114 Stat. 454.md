@@ -10,5 +10,5 @@ Section 159, acts Aug. 20, 1912, ch. 308, §5, 37 Stat. 316; Pub. L. 97–432, �
 
 Section 160, acts Aug. 20, 1912, ch. 308, §7, 37 Stat. 317; Pub. L. 97–432, §1(2), Jan. 8, 1983, 96 Stat. 2276, authorized regulations prohibiting importation of nursery stock or other plant products to prevent introduction into United States of any tree, plant or fruit disease or any injurious insect.
 
-Section 161, acts Aug. 20, 1912, ch. 308, §8, 37 Stat. 318; Mar. 4, 1917, ch. 179, 39 Stat. 1165; Apr. 13, 1926, ch. 135,44 Stat. 250; Pub. L. 95–439, §4, Oct. 10, 1978, 92 Stat. 1062; Pub. L. 97–432, §1(3), Jan. 8, 1983, 96 Stat. 2276; Pub. L. 104–127, title IX, §911, Apr. 4, 1996, 110 Stat. 1185, authorized quarantine of any State, territory, or district of the United States in order to prevent the spread of a dangerous plant disease or insect infestation.
+Section 161, acts Aug. 20, 1912, ch. 308, §8, 37 Stat. 318; Mar. 4, 1917, ch. 179, 39 Stat. 1165; Apr. 13, 1926, ch. 135, 44 Stat. 250; Pub. L. 95–439, §4, Oct. 10, 1978, 92 Stat. 1062; Pub. L. 97–432, §1(3), Jan. 8, 1983, 96 Stat. 2276; Pub. L. 104–127, title IX, §911, Apr. 4, 1996, 110 Stat. 1185, authorized quarantine of any State, territory, or district of the United States in order to prevent the spread of a dangerous plant disease or insect infestation.
 

@@ -240,7 +240,7 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 #### (D) Implementation
 
-&emsp;&emsp;Not later than 2 years after December 26, 2007, the Secretary shall establish a phased-implementation of a biometric-based international registered traveler program in conjunction with the United States Visitor and Immigrant Status Indicator Technology entry and exit system, other pre-screening initiatives, and the Visa Waiver Program at United States airports with the highest volume of international travelers.
+&emsp;&emsp;Not later than 2 years after December 26, 2007, the Secretary shall establish a phased-implementation of a biometric-based international registered traveler program in conjunction with the United States Visitor and Immigrant Status Indicator Technologyentry and exit system, other pre-screening initiatives, and the Visa Waiver Program at United States airports with the highest volume of international travelers.
 
 #### (E) Participation
 
@@ -256,7 +256,7 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 &emsp;Not later than 1 year after December 17, 2004, the Secretary shall submit to Congress a report describing the Department's progress on the development and implementation of the registered traveler program.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary, for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out the provisions of this section.
 

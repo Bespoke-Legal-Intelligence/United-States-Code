@@ -18,7 +18,7 @@ A designation under subsection (a) may be made with respect to any taxable year�
 
 > Such designation shall be made in such manner as the Secretary prescribes by regulations except that, if such designation is made at the time of filing the return of the tax imposed by chapter 1 for such taxable year, such designation shall be made either on the first page of the return or on the page bearing the taxpayer's signature.
 
-(Added Pub. L. 89–809, title III, §302(a), Nov. 13, 1966, 80 Stat. 1587; amended Pub. L. 92–178, title VIII, §802(a), Dec. 10, 1971, 85 Stat. 573; Pub. L. 93–53, §6(a), July 1, 1973, 87 Stat. 138; Pub. L. 94–12, title II, §§203(b)(4), 208(d)(4), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title IV, §401(a)(2)(C), title V, §504(c)(2), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1555, 1565, 1834; Pub. L. 95–30, title II, §202(d)(6), May 23, 1977, 91 Stat. 151; Pub. L. 95–618, title I, §101(b)(4), Nov. 9, 1978, 92 Stat. 3180; Pub. L. 96–223, title II, §§231(b)(2), 232(b)(3)(C), Apr. 2, 1980, 94 Stat. 272, 276; Pub. L. 97–34, title II, §221(c)(1), title III, §331(e)(1), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–414, §4(c)(2), Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–369, div. A, title IV, §474(r)(31), July 18, 1984, 98 Stat. 845; Pub. L. 103–66, title XIII, §13441(a), Aug. 10, 1993, 107 Stat. 567.)
+(Added Pub. L. 89–809, title III, §302(a), Nov. 13, 1966, 80 Stat. 1587; amended Pub. L. 92–178, title VIII, §802(a), Dec. 10, 1971, 85 Stat. 573; Pub. L. 93–53, §6(a), July 1, 1973, 87 Stat. 138; Pub. L. 94–12, title II, §§203(b)(4), 208(d)(4), Mar. 29, 1975,89 Stat. 30, 35; Pub. L. 94–455, title IV, §401(a)(2)(C), title V, §504(c)(2), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1555, 1565, 1834; Pub. L. 95–30, title II, §202(d)(6), May 23, 1977, 91 Stat. 151; Pub. L. 95–618, title I, §101(b)(4), Nov. 9, 1978, 92 Stat. 3180; Pub. L. 96–223, title II, §§231(b)(2), 232(b)(3)(C), Apr. 2, 1980, 94 Stat. 272, 276; Pub. L. 97–34, title II, §221(c)(1), title III, §331(e)(1), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–414, §4(c)(2), Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–369, div. A, title IV, §474(r)(31), July 18, 1984, 98 Stat. 845; Pub. L. 103–66, title XIII, §13441(a), Aug. 10, 1993, 107 Stat. 567.)
 
 #### Amendments
 
@@ -50,11 +50,11 @@ Subsec. (b). Pub. L. 93–53 struck out reference to sections 32(2) and 35, and 
 
 Subsec. (c). Pub. L. 93–53 provided that if designation is made at the time of filing the return of the tax imposed by chapter 1 for the taxable year, the designation shall be made either on the first page of the return or on the page bearing the taxpayer's signature.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–178 substituted “$1 shall be paid over to the Presidential Election CampaignFund for the account of the candidates of any specified political party for President and Vice President of the United States, or if no specific account is designated by such individual, for a general account for all candidates for election to the offices of President and Vice President of the United States, in accordance with the provisions of section 9006(a)(1)” for “$1 shall be paid into the Presidential Election Campaign Fund established by section 303 of the Presidential Election Campaign Fund Act of 1966” and provided, in the case of a joint return of husband and wife having an income tax liability of $2 or more, that each spouse may designate that $1 shall be paid to any such account in the fund.
+<b>1971</b>—Subsec. (a). Pub. L. 92–178 substituted “$1 shall be paid over to the Presidential Election Campaign Fund for the account of the candidates of any specified political party for President and Vice President of the United States, or if no specific account is designated by such individual, for a general account for all candidates for election to the offices of President and Vice President of the United States, in accordance with the provisions of section 9006(a)(1)” for “$1 shall be paid into the Presidential Election Campaign Fund established by section 303 of the Presidential Election Campaign Fund Act of 1966” and provided, in the case of a joint return of husband and wife having an income tax liability of $2 or more, that each spouse may designate that $1 shall be paid to any such account in the fund.
 
 #### Effective Date of 1993 Amendment
 
-Section 13441(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to tax returns required to be filed after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13441(b), Aug. 10, 1993, 107 Stat. 568, provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to tax returns required to be filed after December 31, 1993.”
 
 #### Effective Date of 1984 Amendment
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1
 
 #### Effective Date of 1973 Amendment; Designation to the Presidential Election Campaign Fund
 
-Section 6(d) of Pub. L. 93–53, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 9003, 9006, 9007, and 9012 of this title\] shall apply with respect to taxable years beginning after December 31, 1972. Any designation made under section 6096 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect for taxable years beginning before January 1, 1973) for the account of the candidates of any specified political party shall, for purposes of section 9006(a) of such Code (as amended by subsection (b)), be treated solely as a designation to the Presidential Election Campaign Fund.”
+Pub. L. 93–53, §6(d), July 1, 1973, 87 Stat. 139, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by thissection \[amending this section and sections 9003, 9006, 9007, and 9012 of this title\] shall apply with respect to taxable years beginning after December 31, 1972. Any designation made under section 6096 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect for taxable years beginning before January 1, 1973) for the account of the candidates of any specified political party shall, for purposes of section 9006(a) of such Code (as amended by subsection (b)), be treated solely as a designation to the Presidential Election Campaign Fund.”
 
 #### Effective Date of Section and Effective Date of 1971 Amendment
 
@@ -104,11 +104,11 @@ Provisions of this section, together with amendment of subsec. (a) of this secti
 
 #### Effective Date
 
-Section 302(c) of Pub. L. 89–809 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to income tax liability for taxable years beginning after December 31, 1966.”
+Pub. L. 89–809, title III, §302(c), Nov. 13, 1966, 80 Stat. 1588, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to income tax liability for taxable years beginning after December 31, 1966.”
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 89–809 provided that: “This title \[enacting this section and sections 971, 972, and 973 of former Title 31, Money and Finance\] may be cited as the ‘Presidential Election Campaign Fund Act of 1966’.”
+Pub. L. 89–809, title III, §301, Nov. 13, 1966, 80 Stat. 1587, provided that: “This title \[enacting this section and sections 971, 972, and 973 of former Title 31, Money and Finance\] may be cited as the ‘Presidential Election Campaign Fund Act of 1966’.”
 
 #### Adoption of Guidelines
 

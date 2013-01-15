@@ -10,7 +10,7 @@ A State cattle association or State general farm organization may be certified a
 
 &emsp;(1) The association or organization's total paid membership is comprised of at least a majority of cattle producers or the association or organization's total paid membership represents at least a majority of the cattle producers in the State.
 
-&emsp;(2) The association or organization represents a substantial number of producers thatproduce a substantial number of cattle in the State.
+&emsp;(2) The association or organization represents a substantial number of producers that produce a substantial number of cattle in the State.
 
 &emsp;(3) The association or organization has a history of stability and permanency.
 

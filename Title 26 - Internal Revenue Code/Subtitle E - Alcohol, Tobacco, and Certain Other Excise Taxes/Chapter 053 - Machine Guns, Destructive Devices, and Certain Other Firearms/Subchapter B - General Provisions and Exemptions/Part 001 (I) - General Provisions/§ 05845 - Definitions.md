@@ -4,7 +4,7 @@ For the purpose of this chapter—
 
 #### (a) Firearm
 
-The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches in length; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
+The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches inlength; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
 
 #### (b) Machinegun
 
@@ -32,7 +32,7 @@ The term “antique firearm” means any firearm not designed or redesigned for 
 
 #### (h) Unserviceable firearm
 
-The term “unserviceable firearm” means a firearm which is incapable of discharging a shotby means of an explosive and incapable of being readily restored to a firing condition.
+The term “unserviceable firearm” means a firearm which is incapable of discharging a shot by means of an explosive and incapable of being readily restored to a firing condition.
 
 #### (i) Make
 
@@ -46,7 +46,7 @@ The term “transfer” and the various derivatives of such word, shall include 
 
 The term “dealer” means any person, not a manufacturer or importer, engaged in the business of selling, renting, leasing, or loaning firearms and shall include pawnbrokers who accept firearms as collateral for loans.
 
-#### (<i>l</i>) Importer
+#### (l) Importer
 
 The term “importer” means any person who is engaged in the business of importing or bringing firearms into the United States.
 

@@ -44,7 +44,7 @@ The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(a)\], inserted “or licensed” after “sold” and “or export” after “sale”.
 
-Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter andregulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
 Subsec. (d)(3)(B)(ii). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(b)\], inserted “or by an entity described in clause (i)” after “subparagraph (A)”.
 

@@ -40,17 +40,15 @@ Maximum Daily Payment.—A member may not be paid or reimbursed more than $290 a
 
 Termination.—No payment or reimbursement may be provided under this section with respect to a change of permanent station for which orders are issued after the travel authorities transition expiration date.
 
-(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002, §404a; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 109–163, div. A, title VI, §609(b), Jan. 6, 2006, 119 Stat. 3290; Pub. L. 110–181, div. A, title VI, §603(a), Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §603, Oct. 14, 2008, 122 Stat. 4483; renumbered §474a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(2), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465.)
-
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
+(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002, §404a; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI,§621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 109–163, div. A, title VI, §609(b), Jan. 6, 2006, 119 Stat. 3290; Pub. L. 110–181, div. A, title VI, §603(a), Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §603, Oct. 14, 2008, 122 Stat. 4483; renumbered §474a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(2), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (d). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 404a of this title as this section.
 
-Subsec. (d). Pub. L. 112–81, §631(f)(4)(A), substituted “474(d)” for “404(d)”. See Codification note above.
+Subsec. (d). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474(d)” for “404(d)”.
 
 Subsec. (f). Pub. L. 112–81, §631(e)(2), added subsec. (f).
 
@@ -88,6 +86,10 @@ Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” aft
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “shall” for “may” in first sentence, and substituted “are to” for “may” the first place it appears in second and third sentences.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–163 applicable with respect to months beginning on or after Sept. 1, 2005, see section 609(c) of Pub. L. 109–163, set out as a note under section 403 of this title.
@@ -98,15 +100,15 @@ Pub. L. 107–107, div. A, title VI, §632(c), Dec. 28, 2001, 115 Stat. 1144, pr
 
 #### Effective Date of 1993 Amendment
 
-Section 621(c) of Pub. L. 103–160 provided that: “The amendments made by this section \[amending this section\] shall take effect on April 1, 1994.”
+Pub. L. 103–160, div. A, title VI, §621(c), Nov. 30, 1993, 107 Stat. 1682, provided that: “The amendments made by this section \[amending this section\] shall take effect on April 1, 1994.”
 
 #### Effective Date of 1985 Amendment
 
-Section 613(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §613(b), Nov. 8, 1985, 99 Stat. 640, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Effective Date
 
-Section 122(c) of Pub. L. 97–60 provided that: “The amendments made by this section \[enacting this section and amending section 411 of this title\] shall take effect on April 1, 1982.”
+Pub. L. 97–60, title I, §122(c), Oct. 14, 1981, 95 Stat. 1003, provided that: “The amendments made by this section \[enacting this section and amending section 411 of this title\] shall take effect on April 1, 1982.”
 
 #### Prohibition on Payment of Temporary Lodging Expenses; Exception
 

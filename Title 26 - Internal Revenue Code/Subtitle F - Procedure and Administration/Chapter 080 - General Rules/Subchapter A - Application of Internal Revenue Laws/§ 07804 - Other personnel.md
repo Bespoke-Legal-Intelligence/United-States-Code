@@ -18,7 +18,7 @@ Unless otherwise prescribed by the Secretary—
 
 #### (c) Delinquent Internal Revenue officers and employees
 
-If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay theamount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710.)
 
@@ -286,7 +286,7 @@ Employment of Volunteers.—
 
 &emsp;“(1)
 
-In general.—Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of section 1905 of title 18, United States Code, shall apply to volunteers as if they were employees of the United States.
+In general.—Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of section 1905 oftitle 18, United States Code, shall apply to volunteers as if they were employees of the United States.
 
 &emsp;“(2)
 

@@ -62,7 +62,7 @@ Notification of Congress.—The head of the executive agency shall notify Congre
 
 Regulations.—Regulations implementing this subsection shall establish—
 
-&emsp;&emsp;(A) a preference for awarding, to the maximum extent practicable, multiple task ordelivery order contracts for the same or similar services or property under paragraph (1)(B); and
+&emsp;&emsp;(A) a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under paragraph (1)(B); and
 
 &emsp;&emsp;(B) criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
 

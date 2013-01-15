@@ -22,7 +22,7 @@
 
 #### (b) Indicators
 
-Not later than October 1, 1993, the Commissioner shall develop and publish in the FederalRegister indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title.
+Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in section 796f–4 of this title.
 
 #### (c) Onsite compliance reviews
 

@@ -8,7 +8,7 @@
 
 #### (2) Purpose
 
-&emsp;The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, and other related criminal acts.
+&emsp;The rewards program shall be designed to assist in the prevention of acts of international terrorism, international narcotics trafficking, serious violations of international humanitarian law, transnational organized crime, and other related criminal acts.
 
 #### (3) Implementation
 
@@ -16,7 +16,7 @@
 
 #### (b) Rewards authorized
 
-In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section)and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
+In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 &emsp;(1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -34,17 +34,23 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;&emsp;(C) an attempt or conspiracy to commit any act described in subparagraph (A) or (B);
 
-&emsp;(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), or (3);
+&emsp;(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), or (9);
 
-&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), or (3), including by dismantling an organization in whole or significant part;
+&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), or (9), including by dismantling an organization in whole or significant part;
 
-&emsp;(6) the identification or location of an individual who holds a key leadership position in a terrorist organization; or
+&emsp;(6) the identification or location of an individual who holds a key leadership position in a terrorist organization or transnational organized crime group;
 
-&emsp;(7) the disruption of financial mechanisms of a foreign terrorist organization, including the use by the organization of illicit narcotics production or international narcotics trafficking—
+&emsp;(7) the disruption of financial mechanisms of a foreign terrorist organization or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking—
 
-&emsp;&emsp;(A) to finance acts of international terrorism; or
+&emsp;&emsp;(A) to finance acts of international terrorism or transnational organized crime; or
 
-&emsp;&emsp;(B) to sustain or support any terrorist organization.
+&emsp;&emsp;(B) to sustain or support any terrorist organization or transnational organized crime group;
+
+&emsp;(8) the arrest or conviction in any country of any individual for participating in, primarily outside the United States, transnational organized crime;
+
+&emsp;(9) the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime; or
+
+&emsp;(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide, as defined under the statute of such tribunal.
 
 #### (c) Coordination
 
@@ -82,7 +88,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Maximum amount
 
-&emsp;No reward paid under this section may exceed $25,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts. Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization. The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.
+&emsp;No reward paid under this section may exceed $25,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts. Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.
 
 #### (2) Approval
 
@@ -117,6 +123,10 @@ An officer or employee of any entity of Federal, State, or local government or o
 #### (2) Annual reports
 
 &emsp;Not later than 60 days after the end of each fiscal year, the Secretary shall submit a report to the appropriate congressional committees with respect to the operation of the rewards program. The report shall provide information on the total amounts expended during the fiscal year ending in that year to carry out this section, including amounts expended to publicize the availability of rewards.
+
+#### (3) Advance notification for international criminal tribunal rewards
+
+&emsp;Not less than 15 days before publicly announcing that a reward may be offered for a particular foreign national accused of war crimes, crimes against humanity, or genocide, the Secretary of State shall submit to the appropriate congressional committees a report, which may be submitted in classified form if necessary, setting forth the reasons why the arrest or conviction of such foreign national is in the national interests of the United States.
 
 #### (h) Publication regarding rewards offered by foreign governments
 
@@ -166,11 +176,23 @@ As used in this section:
 
 &emsp;The term “rewards program” means the program established in subsection (a)(1) of this section.
 
-#### (5) United States narcotics laws
+#### (5) Transnational organized crime
+
+&emsp;The term “transnational organized crime” means—
+
+&emsp;&emsp;(A) racketeering activity (as such term is defined in section 1961 of title 18) that involves at least one jurisdiction outside the United States; or
+
+&emsp;&emsp;(B) any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit.
+
+#### (6) Transnational organized crime group
+
+&emsp;The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concertwith the aim of engaging in transnational organized crime.
+
+#### (7) United States narcotics laws
 
 &emsp;The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
 
-#### (6) United States person
+#### (8) United States person
 
 &emsp;The term “United States person” means—
 
@@ -178,7 +200,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27,1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402; Pub. L. 112–283, §§3, 4, Jan. 15, 2013, 126 Stat. 2493, 2494.)
 
 #### References in Text
 
@@ -189,6 +211,28 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2). Pub. L. 112–283, §3(1), inserted “serious violations of international humanitarian law, transnational organized crime,” after “international narcotics trafficking,”.
+
+Subsec. (b). Pub. L. 112–283, §3(2)(A), substituted “heads of other relevant departments or agencies” for “Attorney General” in introductory provisions.
+
+Subsec. (b)(4), (5). Pub. L. 112–283, §3(2)(B), substituted “paragraph (1), (2), (3), (8), or (9)” for “paragraph (1), (2), or (3)”.
+
+Subsec. (b)(6). Pub. L. 112–283, §3(2)(C)(i), inserted “or transnational organized crime group” after “terrorist organization”.
+
+Subsec. (b)(7). Pub. L. 112–283, §3(2)(D)(i), substituted “or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking” for “, including the use by the organization of illicit narcotics production or international narcotics trafficking” in introductory provisions.
+
+Subsec. (b)(7)(A). Pub. L. 112–283, §3(2)(D)(ii), inserted “or transnational organized crime” after “international terrorism”.
+
+Subsec. (b)(7)(B). Pub. L. 112–283, §3(2)(D)(iii)(I), inserted “or transnational organized crime group” after “terrorist organization”.
+
+Subsec. (b)(8) to (10). Pub. L. 112–283, §3(2)(C)(ii), (D)(iii)(II), (E), added pars. (8) to (10).
+
+Subsec. (e)(1). Pub. L. 112–283, §4, struck out at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
+
+Subsec. (g)(3). Pub. L. 112–283, §3(3), added par. (3).
+
+Subsec. (k)(5) to (8). Pub. L. 112–283, §3(4), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–181 inserted at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
 
@@ -254,9 +298,45 @@ Committee on International Relations of House of Representatives changed to Comm
 
 Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
+#### Rule of Construction
+
+Pub. L. 112–283, §5, Jan. 15, 2013, 126 Stat. 2494, provided that: “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and section 2651 of this title\] or the amendments made by this Act shall be construed as authorizing the use of activity precluded under the American Servicemembers’ Protection Act of 2002 (title II of Public Law 107–206; 22 U.S.C. 7421 et seq.).”
+
+#### Findings; Sense of Congress
+
+Pub. L. 112–283, §2, Jan. 15, 2013, 126 Stat. 2492, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Department of State's existing rewards programs permit the payment of reward for information leading to the arrest or conviction of—
+
+&emsp;&emsp;“(A) individuals who have committed, or attempted or conspired to commit, certain acts of international terrorism;
+
+&emsp;&emsp;“(B) individuals who have committed, or attempted or conspired to commit, certain narcotics-related offenses; and
+
+&emsp;&emsp;“(C) individuals who have been indicted by certain international criminal tribunals.
+
+&emsp;“(2) The Department of State considers the rewards program to be ‘one of the most valuable assets the U.S. Government has in the fight against international terrorism’. Since the program's inception in 1984, the United States Government has rewarded over 60 people who provided actionable information that, according to the Department of State, prevented international terrorist attacks or helped convict individuals involved in terrorist attacks.
+
+&emsp;“(3) The program has been credited with providing information in several high-profile cases, including the arrest of Ramzi Yousef, who was convicted in the 1993 bombing of the World Trade Center, the deaths of Uday and Qusay Hussein, who United States military forces located and killed in Iraq after receiving information about their locations, and the arrests or deaths of several members of the Abu Sayyaf group, believed to be responsible for the kidnappings and deaths of United States citizens and Filipinos in the Philippines.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that the rewards program of the Department of State should be expanded in order to—
+
+&emsp;“(1) address the growing threat to important United States interests from transnational criminal activity, such as intellectual property rights piracy, money laundering, trafficking in persons, arms trafficking, and cybercrime; and
+
+&emsp;“(2) target other individuals indicted by international, hybrid, or mixed tribunals for genocide, war crimes, or crimes against humanity.”
+
+#### Funding
+
+Pub. L. 112–283, §6, Jan. 15, 2013, 126 Stat. 2494, provided that: “The Secretary of State shall use amounts appropriated or otherwise made available to the Emergencies in the Diplomatic and Consular Services account of the Department of State to pay rewards authorized pursuant to this Act \[amending this section and enacting provisions set out as notes under this section and section 2651 of this title\] and to carry out other activities related to such rewards authorized under section 36 of the State Department Basic Authorities Act \[of 1956\] (22 U.S.C. 2708).”
+
 #### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
-Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114Stat. 813; Pub. L. 107–228, div. A, title VI, §697(d), Sept. 30, 2002, 116 Stat. 1418, provided that:
+Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114 Stat. 813; Pub. L. 107–228, div. A, title VI, §697(d), Sept. 30, 2002, 116 Stat. 1418, provided that:
 
 “(a)
 
@@ -312,9 +392,9 @@ Reports.—The Secretary shall inform the appropriate committees of rewards paid
 
 #### Avoiding Duplicative Amendments
 
-Section 13(b) of Pub. L. 101–231 provided that: “If the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 \[Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 87\], is enacted before this Act \[Dec. 13, 1989\], and that Act makes the same amendment as is described in subsection (a) \[amending this section\], then subsection (a) shall not take effect. If, however, this Act is enacted before the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and that Act would make the same amendment as is made by subsection (a), then that amendment as proposed to be made by that Act shall not take effect.”
+Pub. L. 101–231, §13(b), Dec. 13, 1989, 103 Stat. 1963, provided that: “If the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 \[Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 87\], is enacted before this Act \[Dec. 13, 1989\], and that Act makes the same amendment as is described in subsection (a) \[amending this section\], then subsection (a) shall not take effect. If, however, this Act is enacted before the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and that Act would make the same amendment as is made by subsection (a), then that amendment as proposed to be made by that Act shall not take effect.”
 
 #### Rewards for International Terrorists
 
-Section 501 of Pub. L. 99–399 provided that: “It is the sense of the Congress that the Secretary of State should more vigorously utilize the moneys available under section 36(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(a); relating to rewards for information on international terrorism) to more effectively apprehend and prosecute international terrorists. It is further the sense of the Congress that the Secretary of State should consider widely publicizing the sizable rewards available under present law so that major international terrorist figures may be brought to justice.”
+Pub. L. 99–399, title V, §501, Aug. 27, 1986, 100 Stat. 869, provided that: “It is the sense of the Congress that the Secretary of State should more vigorously utilize the moneys available under section 36(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(a); relating to rewards for information on international terrorism) to more effectively apprehend and prosecute international terrorists. It is further the sense of the Congress that the Secretary of State should consider widely publicizing the sizable rewards available under present law so that major international terrorist figures may be brought to justice.”
 

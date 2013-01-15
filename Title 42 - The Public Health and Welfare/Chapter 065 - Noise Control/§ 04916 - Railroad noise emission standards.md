@@ -8,7 +8,7 @@
 
 (3) Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with the Secretary of Transportation in order to assure appropriate consideration for safety and technological availability.
 
-(4) Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary ofTransportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
+(4) Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 
 #### (b) Regulations to insure compliance with noise emission standards
 

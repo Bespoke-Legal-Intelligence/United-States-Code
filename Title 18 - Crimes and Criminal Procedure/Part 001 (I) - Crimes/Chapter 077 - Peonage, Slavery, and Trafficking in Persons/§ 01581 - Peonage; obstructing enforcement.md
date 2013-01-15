@@ -24,5 +24,5 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 #### Effective Date of 1996 Amendment
 
-Section 218(d) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title II, §218(d), Sept. 30, 1996, 110 Stat. 3009–574, provided that: “This section \[amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 

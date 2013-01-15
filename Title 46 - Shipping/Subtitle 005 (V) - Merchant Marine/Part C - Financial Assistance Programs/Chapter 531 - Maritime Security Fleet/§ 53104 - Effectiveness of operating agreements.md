@@ -6,7 +6,7 @@ Effectiveness, Generally.—The Secretary may enter into an operating agreement 
 
 (b)
 
-Vessels Under Charter to United States.—Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107,shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
+Vessels Under Charter to United States.—Unless an earlier date is requested by the applicant, the effective date for an operating agreement with respect to a vessel that is, on the date of entry into an operating agreement, on charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107, shall be the expiration or termination date of the Government charter covering the vessel, or any earlier date the vessel is withdrawn from that charter.
 
 (c)
 
@@ -26,29 +26,13 @@ Termination by secretary.—If the contractor with respect to an operating agree
 
 Early termination by contractor, generally.—An operating agreement under this chapter shall terminate on a date specified by the contractor if the contractor notifies the Secretary, by not later than 60 days before the effective date of the termination, that the contractor intends to terminate the agreement.
 
-&emsp;(3)
-
-Early termination by contractor, with available replacement.—An operating agreement under this chapter shall terminate upon the expiration of the 3-year period beginning on the date a vessel begins operating under the agreement, if—
-
-&emsp;&emsp;(A) the contractor notifies the Secretary, by not later than 2 years after the date the vessel begins operating under the agreement, that the contractor intends to terminate the agreement under this paragraph; and
-
-&emsp;&emsp;(B) the Secretary, in conjunction with the Secretary of Defense, determines that—
-
-&emsp;&emsp;&emsp;(i) an application for an operating agreement under this chapter has been received for a replacement vessel that is acceptable to the Secretaries; and
-
-&emsp;&emsp;&emsp;(ii) during the period of an operating agreement under this chapter that applies to the replacement vessel, the replacement vessel will be—
-
-&emsp;&emsp;&emsp;&emsp;(I) owned and operated by one or more persons that are citizens of the United States under section 50501 of this title; or
-
-&emsp;&emsp;&emsp;&emsp;(II) owned by a person that is eligible to document the vessel under chapter 121 of this title, and operated by a person that is a citizen of the United States under section 50501 of this title.
-
 (d)
 
 Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficient funds have not been appropriated under the authority provided by this chapter for that fiscal year, then the Secretary shall notify the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives that operating agreements authorized under this chapter for which sufficient funds are not available will not be renewed for that fiscal year if sufficient funds are not appropriated by the 60th day of that fiscal year.
 
 (e)
 
-Release of Vessels From Obligations.—If an operating agreement under this chapter is terminated under subsection (c)(3), or if funds are not appropriated for payments under an operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
+Release of Vessels From Obligations.—If funds are not appropriated for payments under an operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
 
 &emsp;(1) each vessel covered by the operating agreement is thereby released from any further obligation under the operating agreement;
 
@@ -56,9 +40,13 @@ Release of Vessels From Obligations.—If an operating agreement under this chap
 
 &emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(d), Jan. 2, 2013, 126 Stat. 2224.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §3508(d)(1), struck out par. (3) which related to early termination by contractor, with available replacement.
+
+Subsec. (e). Pub. L. 112–239, §3508(d)(2), struck out “an operating agreement under this chapter is terminated under subsection (c)(3), or if” after “If” in introductory provisions.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “2025” for “2015”.
 

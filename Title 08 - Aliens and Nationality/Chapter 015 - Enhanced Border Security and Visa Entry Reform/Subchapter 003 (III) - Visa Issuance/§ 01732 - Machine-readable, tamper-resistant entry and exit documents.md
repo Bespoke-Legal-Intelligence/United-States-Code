@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
+&emsp;Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State,and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
 
 &emsp;&emsp;(A) implementation of the requirements of subsections (b) and (c) of this section; and
 
@@ -12,7 +12,7 @@
 
 #### (2) Estimates
 
-&emsp;In addition to the assessment required by paragraph (1), the report required by thatparagraph shall include an estimate of the costs to be incurred, and the personnel, man-hours, and other support required, by the Department of Justice, the Department of State, and NIST to achieve the objectives of subparagraphs (A) and (B) of paragraph (1).
+&emsp;In addition to the assessment required by paragraph (1), the report required by that paragraph shall include an estimate of the costs to be incurred, and the personnel, man-hours, and other support required, by the Department of Justice, the Department of State, and NIST to achieve the objectives of subparagraphs (A) and (B) of paragraph (1).
 
 #### (b) Requirements
 

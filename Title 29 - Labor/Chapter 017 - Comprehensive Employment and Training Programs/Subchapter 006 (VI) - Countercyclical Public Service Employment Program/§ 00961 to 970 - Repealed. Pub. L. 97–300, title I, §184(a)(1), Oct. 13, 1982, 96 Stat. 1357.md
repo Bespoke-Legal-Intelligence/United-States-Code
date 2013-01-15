@@ -24,7 +24,7 @@ Section 965, Pub. L. 93–203, title VI, §605, as added Pub. L. 95–524, §2, 
 
 A prior section 965, Pub. L. 93–203, title VI, §605, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1847; amended Pub. L. 94–444, §5(b)(3), (d), Oct. 1, 1976, 90 Stat. 1480, related to expenditure of funds with regard to emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 966, Pub. L. 93–203, title VI, §606, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2008, related to prime sponsors and Native American entities qualified to receive financial assistance and program agents.
+Section 966, Pub. L. 93–203, title VI, §606, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2008, related toprime sponsors and Native American entities qualified to receive financial assistance and program agents.
 
 A prior section 966, Pub. L. 93–203, title VI, §606, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1847; amended Pub. L. 94–444, §5(b)(2), Oct. 1, 1976, 90 Stat. 1479, provided for reallocation of funds by Secretary, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

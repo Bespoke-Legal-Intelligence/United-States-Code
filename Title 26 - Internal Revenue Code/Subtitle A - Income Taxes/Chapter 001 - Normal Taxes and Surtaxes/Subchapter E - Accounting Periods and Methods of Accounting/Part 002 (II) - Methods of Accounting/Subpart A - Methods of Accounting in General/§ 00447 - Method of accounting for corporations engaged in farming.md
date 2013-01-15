@@ -50,7 +50,7 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 #### (ii) Pass-thru entities
 
-&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectly any interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
+&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectlyany interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
 
 #### (iii) Applicable percentage
 
@@ -126,7 +126,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (A) Qualified partnership
 
-&emsp;&emsp;The term “qualified partnership” means a partnership which is engaged in a qualified farming trade or business and each of the partners of which is a corporation other than—
+&emsp;&emsp;The term “qualified partnership” means a partnership which is engaged in a qualified farming trade or business and each of thepartners of which is a corporation other than—
 
 &emsp;&emsp;&emsp;(i) an S corporation, or
 
@@ -198,7 +198,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;&emsp;(B) the amount of such net adjustments determined as of the beginning of the taxable year preceding the year of change.
 
-> &emsp;If the amount referred to in subparagraph (A) exceeds the amount referred to in subparagraph (B), notwithstanding paragraph (1), suchexcess shall be included in gross income in the year of the change.
+> &emsp;If the amount referred to in subparagraph (A) exceeds the amount referred to in subparagraph (B), notwithstanding paragraph (1), such excess shall be included in gross income in the year of the change.
 
 #### (3) Inclusion where corporation ceases to be a family corporation
 
@@ -208,7 +208,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (B) Special rule for certain transfers
 
-&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15, 1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
+&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15,1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
 
 &emsp;&emsp;&emsp;(i) to a member of the family of the transferor, or
 
@@ -252,7 +252,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;&emsp;Any amount in the account as of the close of the 20th year referred to in subparagraph (C) shall be treated as the applicable portion for each succeeding year thereafter to the extent not reduced under this paragraph for any prior taxable year after such 20th year.
 
-(Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(<i>l</i>)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330–397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949.)
+(Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(l)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330–397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949.)
 
 #### Amendments
 
@@ -314,7 +314,7 @@ Pub. L. 97–248, §230(a)(3), added par. (4).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600, §§353(a), 703(d), substituted in provisions following par. (2) “preproductive period expenses” for “preproductive expenses” and “nursery or sod farm” for “nursery”.
 
-Subsec. (f)(3). Pub. L. 95–600, §701(<i>l</i>)(1), struck out “(except as otherwise provided in such regulations)” before “be taken” and inserted “(or the remaining taxable years where there is a stated future life of less than 10 taxable years)” after “10 taxable years”.
+Subsec. (f)(3). Pub. L. 95–600, §701(l)(1), struck out “(except as otherwise provided in such regulations)” before “be taken” and inserted “(or the remaining taxable years where there is a stated future life of less than 10 taxable years)” after “10 taxable years”.
 
 Subsec. (g)(2). Pub. L. 95–600, §703(d), substituted “preproductive period expenses” for “preproductive expenses”.
 
@@ -322,7 +322,7 @@ Subsec. (h). Pub. L. 95–600, §351(a), added subsec. (h).
 
 #### Effective Date of 1997 Amendment
 
-Section 1081(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after June 8, 1997.”
+Pub. L. 105–34, title X, §1081(b), Aug. 5, 1997, 111 Stat. 950, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after June 8, 1997.”
 
 #### Effective Date of 1990 Amendment
 
@@ -334,7 +334,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10205(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10205(d), Dec. 22, 1987, 101 Stat. 1330–397, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -342,25 +342,25 @@ If any interest costs incurred after Dec. 31, 1986, are attributable to costs in
 
 Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
-Section 230(b) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–248, title II, §230(b), Sept. 3, 1982, 96 Stat. 496, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
 #### Effective Date of 1978 Amendment
 
-Section 351(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
+Pub. L. 95–600, title III, §351(b), Nov. 6, 1978, 92 Stat. 2846, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
 
-Section 353(b) of Pub. L. 95–600 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 95–600, title III, §353(b), Nov. 6, 1978, 92 Stat. 2847, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
-Section 701(<i>l</i>)(4) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\]shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\].”
+Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\] shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\].”
 
 Amendment by section 703(d) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
 #### Effective Date
 
-Section 207(c)(2) of Pub. L. 94–455, as amended by Pub. L. 95–30, title IV, §404, May 23, 1977, 91 Stat. 155; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title II, §207(c)(2), Oct. 4, 1976, 90 Stat. 1541, as amended by Pub. L. 95–30, title IV, §404, May 23, 1977, 91 Stat. 155; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(A)
 
@@ -382,7 +382,7 @@ Special rule for certain corporations.—In the case of a corporation engaged in
 
 #### Accounting for Growing Crops
 
-Section 352 of Pub. L. 95–600 provided that:
+Pub. L. 95–600, title III, §352, Nov. 6, 1978, 92 Stat. 2846, provided that:
 
 “(a)
 
@@ -418,7 +418,7 @@ Growing Crops.—For purposes of this section, the term ‘Growing crops’ does
 
 #### Automatic Ten-Year Adjustment for Farming Syndicates Changing to Accrual Accounting
 
-Section 701(<i>l</i>)(2) of Pub. L. 95–600 provided that: “If—
+Pub. L. 95–600, title VII, §703(l)(2), Nov. 6, 1978, 92 Stat. 2906, provided that: “If—
 
 &emsp;“(A) a farming syndicate (within the meaning of section 464(c) of the Internal Revenue Code of 1954) was in existence on December 31, 1975, and
 
@@ -428,7 +428,7 @@ Section 701(<i>l</i>)(2) of Pub. L. 95–600 provided that: “If—
 
 #### Election To Change From Static Value Method to Accrual Method of Accounting
 
-Section 207(c)(3) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title II, §207(c)(3), Oct. 4, 1976, 90 Stat. 1541, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(A)
 

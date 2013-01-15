@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, if—
 
-&emsp;(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of nationalsecurity or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
+&emsp;(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
 
 &emsp;(2) such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
 

@@ -32,6 +32,10 @@ In this section—
 
 (Pub. L. 90–351, title I, §701, as added Pub. L. 98–473, title II, §609A(a), Oct. 12, 1984, 98 Stat. 2090; amended Pub. L. 106–110, §1, Nov. 24, 1999, 113 Stat. 1497.)
 
+#### Codification
+
+Another section 701 of Pub. L. 90–351, title II, June 19, 1968, 82 Stat. 210, enacted sections 3501 and 3502 of Title 18, Crimes and Criminal Procedure.
+
 #### Prior Provisions
 
 A prior section 3771, Pub. L. 90–351, title I, §701, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1198, contained Congressional statement of purpose for training and manpower development, prior to the general amendment of this subchapter by Pub. L. 98–473.
@@ -40,9 +44,7 @@ For another prior section 3771, see note set out preceding section 3750 of this 
 
 A prior section 701 of Pub. L. 90–351, title I, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1346, provided for payments of Public safety officers’ death benefits and was classified to former section 3796 of this title, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-Another prior section 701 of Pub. L. 90–351, title II, June 19, 1968, 82 Stat. 210, is classified to sections 3501 and 3502 of Title 18, Crimes and Criminal Procedure.
-
-Prior sections 3772 to 3775 were omitted in the general revision of this subchapter by section 609A(a) of Pub. L. 98–473.
+Prior sections 3772 to 3775 were omitted in the general revision of this subchapter by Pub. L. 98–473, title II, §609A(a), Oct. 12, 1984, 98 Stat. 2090.
 
 Section 3772, Pub. L. 90–351, title I, §702, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1198, provided for a program to train prosecuting attorneys.
 
@@ -52,7 +54,7 @@ Section 3773, Pub. L. 90–351, title I, §703, as added Pub. L. 96–157, §2, 
 
 A prior section 703 of Pub. L. 90–351, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, defined the terms used in the provisions for public safety officers’ death benefits and was classified to former section 3796b of this title, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-Section 3774, Pub. L. 90–351, title I, §704, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1199, related to the training of State and local criminal justice personnel by the Federal Bureau of Investigation.
+Section 3774, Pub. L. 90–351, title I, §704, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1199, related tothe training of State and local criminal justice personnel by the Federal Bureau of Investigation.
 
 A prior section 704 of Pub. L. 96–351, title I, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, provided for the administration of the program of public safety officers’ death benefits and was classified to former section 3796c of this title, prior to the general amendment of this chapter by Pub. L. 96–157.
 

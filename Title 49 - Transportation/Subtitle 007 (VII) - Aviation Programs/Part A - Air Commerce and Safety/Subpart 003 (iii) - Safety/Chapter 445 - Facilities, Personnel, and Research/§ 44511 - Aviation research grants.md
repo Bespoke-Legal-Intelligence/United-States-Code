@@ -32,7 +32,7 @@ Airport Cooperative Research Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary of Transportation shall establish a 4-year pilot airport cooperative research program to—
+Establishment.—The Secretary of Transportation shall maintain an airport cooperative research program to—
 
 &emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are not being adequately addressed by existing Federal research programs; and
 
@@ -48,9 +48,9 @@ Implementation.—The Secretary of Transportation shall enter into an arrangemen
 
 &emsp;(4)
 
-Report.—Not later than 6 months after the expiration of the program under this subsection, the Secretary shall transmit to the Congress a report on the program, including recommendations as to the need for establishing a permanent airport cooperative research program.
+Report.—Not later than September 30, 2012, the Secretary shall transmit to the Congress a report on the program.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 108–176, title VII, §712, Dec. 12, 2003, 117 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 108–176, title VII, §712, Dec. 12, 2003, 117 Stat. 2586; Pub. L. 112–95, title IX, §906, Feb. 14, 2012, 126 Stat. 139.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,10 @@ In subsection (d), the words “money provided under the grant” are substitute
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95, §906(1), substituted “maintain an” for “establish a 4-year pilot” in introductory provisions.
+
+Subsec. (f)(4). Pub. L. 112–95, §906(2), substituted “Not later than September 30, 2012,” for “Not later than 6 months after the expiration of the program under this subsection,” and “program” for “program, including recommendations as to the need for establishing a permanent airport cooperative research program”.
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–176 added subsec. (f).
 

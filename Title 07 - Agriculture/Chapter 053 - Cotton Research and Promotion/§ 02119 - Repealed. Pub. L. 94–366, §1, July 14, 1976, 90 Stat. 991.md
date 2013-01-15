@@ -4,5 +4,5 @@ Section, Pub. L. 91–524, title VI, §610, Nov. 30, 1970, 84 Stat. 1378; Pub. L
 
 #### Effective Date of Repeal
 
-Section 1 of Pub. L. 94–366 provided that this section is repealed effective Oct. 1, 1977.
+Pub. L. 94–366, §1, July 14, 1976, 90 Stat. 991, provided that this section is repealed effective Oct. 1, 1977.
 

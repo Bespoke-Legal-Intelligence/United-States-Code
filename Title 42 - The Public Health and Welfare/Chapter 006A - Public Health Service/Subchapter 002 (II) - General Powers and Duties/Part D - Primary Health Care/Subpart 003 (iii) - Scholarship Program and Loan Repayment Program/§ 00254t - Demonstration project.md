@@ -2,11 +2,11 @@
 
 #### (a) Program authorized
 
-The Secretary shall establish a demonstration project to provide for the participation of individuals who are chiropractic doctors or pharmacists in the Loan Repayment Program described in section 254<i>l</i>–1 of this title.
+The Secretary shall establish a demonstration project to provide for the participation of individuals who are chiropractic doctors or pharmacists in the Loan Repayment Program described in section 254l–1 of this title.
 
 #### (b) Procedure
 
-An individual that receives assistance under this section with regard to the program described in section 254<i>l</i>–1 of this title shall comply with all rules and requirements described in such section (other than subparagraphs (A) and (B) of section 254<i>l</i>–1(b)(1) of this title) in order to receive assistance under this section.
+An individual that receives assistance under this section with regard to the program described in section 254l–1 of this title shall comply with all rules and requirements described in such section (other than subparagraphs (A) and (B) of section 254l–1(b)(1) of this title) in order to receive assistance under this section.
 
 #### (c) Limitations
 
@@ -34,7 +34,7 @@ An individual that receives assistance under this section with regard to the pro
 
 #### (d) Designations
 
-The demonstration project described in this section, and any providers who are selected toparticipate in such project, shall not be considered by the Secretary in the designation of a health professional shortage area under section 254e of this title during fiscal years 2002 through 2004.
+The demonstration project described in this section, and any providers who are selected to participate in such project, shall not be considered by the Secretary in the designation of a health professional shortage area under section 254e of this title during fiscal years 2002 through 2004.
 
 #### (e) Rule of construction
 

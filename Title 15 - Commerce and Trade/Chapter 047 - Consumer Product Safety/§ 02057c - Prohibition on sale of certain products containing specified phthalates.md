@@ -44,7 +44,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 #### (3) Permanent prohibition by rule
 
-&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), the Commission shall, pursuant to section 553 of title 5, promulgate a final rule to—
+&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), theCommission shall, pursuant to section 553 of title 5, promulgate a final rule to—
 
 &emsp;&emsp;(A) determine, based on such report, whether to continue in effect the prohibition under paragraph (1), in order to ensure a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals with an adequate margin of safety; and
 

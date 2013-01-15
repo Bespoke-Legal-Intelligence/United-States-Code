@@ -136,7 +136,7 @@ Pub. L. 110–181, §521(c)(2)(B), redesignated subsec. (f) as (e).
 
 Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of thearmed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
 &emsp;“(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 #### Effective Date of 1986 Amendment
 
-Section 651(c) of Pub. L. 99–661 provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–661, div. A, title VI, §651(c), Nov. 14, 1986, 100 Stat. 3888, provided that: “Subsection (c) of section 2007 of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date
 

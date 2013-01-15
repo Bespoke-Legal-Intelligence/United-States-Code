@@ -37,6 +37,7 @@
 | [8334\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008334%20-%20Deductions%2C%20contributions%2C%20and%20deposits.md) | Deductions, contributions, and deposits. |
 | [8335\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008335%20-%20Mandatory%20separation.md) | Mandatory separation. |
 | [8336\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008336%20-%20Immediate%20retirement.md) | Immediate retirement. |
+| [8336a.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008336a%20-%20Phased%20retirement.md) | Phased retirement. |
 | [8337\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008337%20-%20Disability%20retirement.md) | Disability retirement. |
 | [8338\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008338%20-%20Deferred%20retirement.md) | Deferred retirement. |
 | [8339\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008339%20-%20Computation%20of%20annuity.md) | Computation of annuity. |
@@ -57,6 +58,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141, div. F, title I, §100121(a)(3), July 6, 2012, 126 Stat. 910, added item 8336a.
 
 <b>1986</b>—Pub. L. 99–335, title II, §§201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, 100 Stat. 591–594, added items 8343a, 8349, 8350, and 8351.
 

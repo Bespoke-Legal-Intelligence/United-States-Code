@@ -44,6 +44,10 @@ As originally enacted subsec. (e) of this section contained a reference to the S
 
 An amendment to the second proviso of subsec. (e) of this title was contained in act June 26, 1936, ch. 830, title V, §506, 49 Stat. 1965. The amendment was to have taken effect when a majority of the members of the Federal Alcohol Administration authorized to be appointed under section 202b of this title took office. However, the members were never appointed and section 202b of this title was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of section 105 (formerly section 5) of act Aug. 29, 1935, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office” in first par.

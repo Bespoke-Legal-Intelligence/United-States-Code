@@ -6,7 +6,7 @@ A determination under part B that a Department of Energy contractor employee is 
 
 #### (b) Cases determined under former part D
 
-In the case of a covered illness of an employee with respect to which a panel has made a positive determination under section 7385<i>o</i>(d) of this title and the Secretary of Energy has accepted that determination under section 7385<i>o</i>(e)(2) of this title, or with respect to which a panel has made a negative determination under section 7385<i>o</i>(d) of this title and the Secretary of Energy has found significant evidence to the contrary under section 7385<i>o</i>(e)(2) of this title, that determination shall be treated for purposes of this part as a determination that the employee contracted the covered illness through exposure at a Department of Energy facility.
+In the case of a covered illness of an employee with respect to which a panel has made a positive determination under section 7385o(d) of this title and the Secretary of Energy has accepted that determination under section 7385o(e)(2) of this title, or with respect to which a panel has made a negative determination under section 7385o(d) of this title and the Secretary of Energy has found significant evidence to the contrary under section 7385o(e)(2) of this title, that determination shall be treated for purposes of this part as a determination that the employee contracted the covered illness through exposure at a Department of Energy facility.
 
 #### (c) Other cases
 
@@ -20,11 +20,11 @@ In the case of a covered illness of an employee with respect to which a panel ha
 
 #### (d) Applications by spouses and children
 
-If a spouse or child of a Department of Energy contractor employee applies for benefits under this part, the Secretary shall make a determination under this section with respect to that employee without regard to whether the spouse is a “covered spouse”, or the child is a “covered child”, under this part.
+If a spouse or child of a Department of Energy contractor employee applies for benefits underthis part, the Secretary shall make a determination under this section with respect to that employee without regard to whether the spouse is a “covered spouse”, or the child is a “covered child”, under this part.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3675\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2181.)
 
 #### References in Text
 
-Section 7385<i>o</i> of this title, referred to in subsec. (b), was repealed by Pub. L. 108–375, div. C, title XXXI, §3162(i), Oct. 28, 2004, 118 Stat. 2186.
+Section 7385o of this title, referred to in subsec. (b), was repealed by Pub. L. 108–375, div. C, title XXXI, §3162(i), Oct. 28, 2004, 118 Stat. 2186.
 

@@ -30,7 +30,7 @@ Determining Number of Credits.—The number of credits a manufacturer earns unde
 
 (d)
 
-Applying Credits for Passenger Automobiles.—The Secretary of Transportation shall apply credits to a model year on the basis of the number of tenths of a mile a gallon by which the manufacturer involved was below the applicable average fuel economy standard for that model year and the number of passenger automobiles manufactured that model year by the manufacturer. Credits applied to a model year are no longer available for another model year. Before applying credits, the Secretary shall give the manufacturer written notice and reasonable opportunity to comment.
+Applying Credits for Passenger Automobiles.—The Secretary of Transportation shall apply credits to a model year on the basis of the number of tenths of a mile a gallon by which themanufacturer involved was below the applicable average fuel economy standard for that model year and the number of passenger automobiles manufactured that model year by the manufacturer. Credits applied to a model year are no longer available for another model year. Before applying credits, the Secretary shall give the manufacturer written notice and reasonable opportunity to comment.
 
 (e)
 
@@ -58,7 +58,7 @@ In general.—The Secretary of Transportation shall establish by regulation a fu
 
 &emsp;(2)
 
-Years for which used.—Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such creditsunder subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
+Years for which used.—Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such credits under subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
 
 &emsp;(3)
 
@@ -144,13 +144,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §502(<i>l</i>); added Oct. 10, 1
 
 In this section, various forms of the words “apply credits” are substituted for various forms of “credits are available to be taken into account” to be more concise and to make more clear the distinction between when credits are available and to what years they may be applied.
 
-In subsection (a), before clause (1), the text of 15:2002(<i>l</i>)(4) is omitted as surplus because of 49:322(a). The words “any adjustment under subsection (d) of this section” are omitted because 15:2002(d) is omitted from the revised title as executed. The words “calculated under subparagraph (C)” (which apparently should be “calculated under subparagraph (D)”) are omitted as surplus. In clauses (1) and (2), the words “with respect to the average fuel economy of that manufacturer” are omitted as surplus. The words “year for which the credits are earned” are substituted for “year in which such manufacturer exceeds such applicable average fuel economy standard” to eliminate unnecessary words.
+In subsection (a), before clause (1), the text of 15:2002(l)(4) is omitted as surplus because of 49:322(a). The words “any adjustment under subsection (d) of this section” are omitted because 15:2002(d) is omitted from the revised title as executed. The words “calculated under subparagraph (C)” (which apparently should be “calculated under subparagraph (D)”) are omitted as surplus. In clauses (1) and (2), the words “with respect to the average fuel economy of that manufacturer” are omitted as surplus. The words “year for which the credits are earned” are substituted for “year in which such manufacturer exceeds such applicable average fuel economy standard” to eliminate unnecessary words.
 
-Subsection (b)(1) is substituted for 15:2002(<i>l</i>)(1)(A) to eliminate unnecessary words.
+Subsection (b)(1) is substituted for 15:2002(l)(1)(A) to eliminate unnecessary words.
 
-In subsection (b)(2)(A) is substituted for 15:2002(<i>l</i>)(1)(C)(i)–(iii) to eliminate unnecessary words.
+In subsection (b)(2)(A) is substituted for 15:2002(l)(1)(C)(i)–(iii) to eliminate unnecessary words.
 
-In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “as provided for under paragraph (1)” for clarity. The text of 15:2002(<i>l</i>)(2) (last sentence) is omitted as expired.
+In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “asprovided for under paragraph (1)” for clarity. The text of 15:2002(l)(2) (last sentence) is omitted as expired.
 
 #### Amendments
 

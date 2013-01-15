@@ -6,7 +6,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d) of this section, of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII of this chapter (including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C,<sup>1</sup> and to prescription drug sponsors pursuant to contracts under part D <sup>1</sup> ) for the purpose of determining whether—
 
-&emsp;&emsp;(A) such services and items are or were reasonable and medically necessary and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title;
+&emsp;&emsp;(A) such services and items are or were reasonable and medically necessary andwhether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title;
 
 &emsp;&emsp;(B) the quality of such services meets professionally recognized standards of health care; and
 
@@ -48,7 +48,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(ii) In the case of services or items provided by an entity or practitioner other than a physician, the Secretary may substitute the entity or practitioner which provided the services or items for the term “physician” in the notice described in clause (i).
 
-&emsp;(4)(A) The organization shall, after consultation with the Secretary, determine the types and kinds of cases (whether by type of health care or diagnosis involved, or whether in terms of other relevant criteria relating to the provision of health care services) with respect to which such organization will, in order to most effectively carry out the purposes of this part, exercise review authority under the contract. The organization shall notify the Secretary periodically with respect to such determinations. Each quality improvement organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.
+&emsp;(4)(A) The organization shall, after consultation with the Secretary, determine the types and kinds of cases (whether by type of health care or diagnosis involved, or whether in terms of other relevant criteria relating to the provision of health care services) with respect to which such organization will, in order to most effectively carry out the purposes of this part, exercise review authority under the contract. The organization shall notify the Secretary periodically with respect to such determinations. Each quality improvement organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-caresettings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.
 
 &emsp;(B) The contract of each organization shall provide for the review of services (including both inpatient and outpatient services) provided by eligible organizations pursuant to a risk-sharing contract under section 1395mm of this title (or that is subject to review under section 1395ss(t)(3) of this title) for the purpose of determining whether the quality of such services meets professionally recognized standards of health care, including whether appropriate health care services have not been provided or have been provided in inappropriate settings and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under section 1395mm of this title, the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system, and of the method and purposes for contacting the organization. The previous two sentences shall not apply with respect to a contract year if another entity has been awarded a contract under subparagraph (C). Under the contract the level of effort expended by the organization on reviews under this subparagraph shall be equivalent, on a per enrollee basis, to the level of effort expended by the organization on utilization and quality reviews performed with respect to individuals not enrolled with an eligible organization.
 
@@ -96,7 +96,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(11) The organization shall make available its facilities and resources for contracting with private and public entities paying for health care in its area for review, as feasible and appropriate, of services reimbursed by such entities.
 
-&emsp;(12) As part of the organization's review responsibility under paragraph (1), the organization shall review all ambulatory surgical procedures specified pursuant to section 1395<i>l</i>(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary, a sample of such procedures.
+&emsp;(12) As part of the organization's review responsibility under paragraph (1), the organization shall review all ambulatory surgical procedures specified pursuant to section 1395l(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary, a sample of such procedures.
 
 &emsp;(13) Notwithstanding paragraph (4), the organization shall perform the review described in paragraph (1) with respect to early readmission cases to determine if the previous inpatient hospital services and the post-hospital services met professionally recognized standards of health care. Such reviews may be performed on a sample basis if the organization and the Secretary determine it to be appropriate. In this paragraph, an “early readmission case” is a case in which an individual, after discharge from a hospital, is readmitted to a hospital less than 31 days after the date of the most recent previous discharge.
 
@@ -106,7 +106,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
 
-&emsp;(17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizations offering Medicare Advantage plans under part C,<sup>3</sup> and prescription drug sponsors offering prescription drug plans under part D <sup>3</sup> quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII of this chapter, the functions described in this paragraph shall be treated as a review function.
+&emsp;(17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizations offering Medicare Advantage plans under part C,<sup>3</sup> and prescription drug sponsors offering prescription drug plans under part D <sup>3</sup> quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII of this chapter, thefunctions described in this paragraph shall be treated as a review function.
 
 &emsp;(18) The organization shall perform, subject to the terms of the contract, such other activities as the Secretary determines may be necessary for the purposes of improving the quality of care furnished to individuals with respect to items and services for which payment may be made under subchapter XVIII.
 
@@ -174,7 +174,7 @@ Subsec. (c). Pub. L. 112–40, §261(c)(2)(B), redesignated subsec. (b) as (c). 
 
 Pub. L. 112–40, §261(a)(2)(C), substituted “quality improvement” for “utilization and quality control peer review”.
 
-Subsec. (d). Pub. L. 112–40, §261(c)(2)(B), redesignated subsec. (c) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Each contract under this part shall require that the utilization and quality control peer review organization's review responsibility pursuant to subsection (a)(1) of this section will include review of all ambulatory surgical procedures specified pursuant to section 1395<i>l</i>(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary a sample of such procedures.”
+Subsec. (d). Pub. L. 112–40, §261(c)(2)(B), redesignated subsec. (c) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Each contract under this part shall require that the utilization and quality control peer review organization's review responsibility pursuant to subsection (a)(1) of this section will include review of all ambulatory surgical procedures specified pursuant to section 1395l(i)(1)(A) of this title which are performed in the area, or, at the discretion of the Secretary a sample of such procedures.”
 
 Subsec. (f). Pub. L. 112–40, §261(a)(2)(C), substituted “quality improvement” for “peer review”.
 
@@ -196,7 +196,7 @@ Subsec. (d). Pub. L. 103–432, §156(a)(2)(A)(ii), struck out “(and except as
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §4205(g)(2)(A), inserted third sentence and struck out former third sentence which read as follows: “Determinations that payment should not be made by reason of subparagraph (B) of paragraph (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.”
 
-Subsec. (a)(3)(E). Pub. L. 101–508, §4205(g)(1)(A), designated existing provisions as cl. (i), inserted “provided by a physician that were” after “items”, substituted“physician.” for “physician and hospital.”, and added cl. (ii).
+Subsec. (a)(3)(E). Pub. L. 101–508, §4205(g)(1)(A), designated existing provisions as cl. (i), inserted “provided by a physician that were” after “items”, substituted “physician.” for “physician and hospital.”, and added cl. (ii).
 
 Subsec. (a)(4)(B). Pub. L. 101–508, §4358(b)(3), inserted “(or subject to review under section 1395ss(t) of this title)” after “section 1395mm of this title” in first sentence.
 
@@ -236,7 +236,7 @@ Subsec. (e)(3)(B). Pub. L. 100–360, §411(j)(4)(C), as amended by Pub. L. 100�
 
 <b>1987</b>—Subsec. (a)(3). Pub. L. 100–203, §4093(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such practitioner or provider, such patient, and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter. In the case of practitioners and providers of services, the organization shall provide an opportunity for discussion and review of the determination.”
 
-Subsec. (a)(4). Pub. L. 100–203, §4039(h)(3), as added by Pub. L. 100–360, §411(e)(3), realigned margins for subpars. (B) and (C) and cls. (i) to (iii) of subpar. (C), in subpar. (B), substituted “risk sharing contract under section 1395mm” for “contract under section 1395mm”, and in subpar. (C), inserted “(other than the ability to perform review functions under this section that are not described in subparagraph (B))”.
+Subsec. (a)(4). Pub. L. 100–203, §4039(h)(3), as added by Pub. L. 100–360, §411(e)(3), realigned margins for subpars. (B) and (C) and cls. (i) to (iii) of subpar. (C), in subpar. (B), substituted “risk sharing contract undersection 1395mm” for “contract under section 1395mm”, and in subpar. (C), inserted “(other than the ability to perform review functions under this section that are not described in subparagraph (B))”.
 
 Subsec. (a)(4)(B). Pub. L. 100–203, §4094(c)(2)(A), inserted before period at end of first sentence “and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under section 1395mm of this title, the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system, and of the method and purposes for contacting the organization” and substituted “previous two sentences” for “previous sentence” in penultimate sentence.
 
@@ -304,23 +304,23 @@ Pub. L. 106–554, §1(a)(6) \[title V, §521(d)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Effective Date of 1994 Amendment
 
-Section 156(a)(3) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and sections 1395<i>l</i>, 1395m, 1395y, and 1395cc of this title and repealing section 1320c–13 of this title\] shall apply to services provided on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title I, §156(a)(3), Oct. 31, 1994, 108 Stat. 4441, provided that: “The amendments made by this subsection \[amending this section and sections 1395l, 1395m, 1395y, and 1395cc of this title and repealing section 1320c–13 of this title\] shall apply to services provided on or after the date of the enactment of this Act \[Oct. 31, 1994\].”
 
-Amendment by section 171(h)(2) of Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(<i>l</i>) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
+Amendment by section 171(h)(2) of Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(l) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
 
 #### Effective Date of 1990 Amendment
 
-Section 4205(b)(2) of Pub. L. 101–508 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4205(b)(2), Nov. 5, 1990, 104 Stat. 1388–113, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 4205(d)(1)(C) of Pub. L. 101–508 provided that: “The amendments made by this paragraph \[amending this section and section 1320c–9 of this title\] shall apply to notices of proposed sanctions issued more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4205(d)(1)(C), Nov. 5, 1990, 104 Stat. 1388–114, provided that: “The amendments made by this paragraph \[amending this section and section 1320c–9 of this title\] shall apply to notices of proposed sanctions issued more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 4205(g)(1)(B) of Pub. L. 101–508 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconiliation \[sic\] Act of 1989 \[Pub. L. 101–239\].”
+Pub. L. 101–508, title IV, §4205(g)(1)(B), Nov. 5, 1990, 104 Stat. 1388–115, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconiliation \[sic\] Act of 1989 \[Pub. L. 101–239\].”
 
-Section 4205(g)(2)(B) of Pub. L. 101–508 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
+Pub. L. 101–508, title IV, §4205(g)(2)(B), Nov. 5, 1990, 104 Stat. 1388–115, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
 
-Section 4207(a)(1)(C), formerly 4027(a)(1)(C), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by subparagraph (A) \[amending section 1395dd of this title\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
+Pub. L. 101–508, title IV, §4207(a)(1)(C), formerly §4027(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–117, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by subparagraph (A) \[amending section 1395dd of this title\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
 
-Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §172(a), Oct. 31, 1994, 108 Stat. 4452; Pub. L. 104–18, §1, July 7, 1995, 109 Stat. 192, provided that:
+Pub. L. 101–508, title IV, §4358(c), Nov. 5, 1990, 104 Stat. 1388–137, as amended by Pub. L. 103–432, title I, §172(a), Oct. 31, 1994, 108 Stat. 4452; Pub. L. 104–18, §1, July 7, 1995, 109 Stat. 192, provided that:
 
 “(1) The amendments made by this section \[amending this section and section 1395ss of this title\] shall only apply—
 
@@ -342,49 +342,49 @@ Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 “(C) The amendments made by this section shall remain in effect beyond the 6½-year period described in paragraph (1)(B) unless the Secretary determines that any of the findings described in clause (i), (ii), or (iii) of subparagraph (B) are true.
 
-“(3) The Comptroller General shall conduct a study to determine the extent to which individuals who are continuously covered under a medicare supplemental policy are subject to medical underwriting if they change the policy under which they are covered, and to identify options, if necessary, for modifying the medicare supplemental insurance market to make sure that continuously insured beneficiaries are able to switch plans without medical underwriting. By not later thanJune 30, 1996, the Comptroller General shall submit to the Congress a report on the study. The report shall include a description of the potential impact on the cost and availability of medicare supplemental policies of each option identified in the study.”
+“(3) The Comptroller General shall conduct a study to determine the extent to which individuals who are continuously covered under a medicare supplemental policy are subject to medical underwriting if they change the policy under which they are covered, and to identify options, if necessary, for modifying the medicare supplemental insurance market to make sure that continuously insured beneficiaries are able to switch plans without medical underwriting. By not later than June 30, 1996, the Comptroller General shall submit to the Congress a report on the study. The report shall include a description of the potential impact on the cost and availability of medicare supplemental policies of each option identified in the study.”
 
-\[Section 172(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending section 4358(c) of Pub. L. 101–508, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\].”\]
+\[Pub. L. 103–432, title I, §172(b), Oct. 31, 1994, 108 Stat. 4452, provided that: “The amendment made by subsection (a) \[amending section 4358(c) of Pub. L. 101–508, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\].”\]
 
-#### Effective Date of 1989 Amendments
+#### Effective Date of 1989 Amendment
 
-Section 6224(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6224(a)(2), Dec. 19, 1989, 103 Stat. 2257, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Section 6224(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1320c–4 of this title\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Pub. L. 101–239, title VI, §6224(b)(3), Dec. 19, 1989, 103 Stat. 2257, provided that: “The amendments made by this subsection \[amending this section and section 1320c–4 of this title\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §203(g), July 1, 1988, 102 Stat. 725, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(3), (j)(2), (3), (4)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
-Section 4093(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988.”
+Pub. L. 100–203, title IV, §4093(b), Dec. 22, 1987, 101 Stat. 1330–136, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988.”
 
-Section 4094(c)(1)(B) of Pub. L. 100–203 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4094(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–137, provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4094(c)(2)(C) of Pub. L. 100–203 provided that: “The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4094(c)(2)(C), Dec. 22, 1987, 101 Stat. 1330–137, provided that: “The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewedon or after the date of enactment of this Act \[Dec. 22, 1987\].”
 
-Section 4096(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395gg, and 1395pp of this title\] shall apply to services furnished on or after January 1, 1988.”
+Pub. L. 100–203, title IV, §4096(d), Dec. 22, 1987, 101 Stat. 1330–140, provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395gg, and 1395pp of this title\] shall apply to services furnished on or after January 1, 1988.”
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Amendment by section 9343(d) of Pub. L. 99–509 applicable to contracts entered into or renewed after Jan. 1, 1987, see section 9343(h)(4) of Pub. L. 99–509, as amended, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 9343(d) of Pub. L. 99–509 applicable to contracts entered into or renewed after Jan. 1, 1987, see section 9343(h)(4) of Pub. L. 99–509, as amended, set out as a note under section 1395l of this title.
 
-Section 9351(b) of Pub. L. 99–509 provided that:
+Pub. L. 99–509, title IX, §9351(b), Oct. 21, 1986, 100 Stat. 2044, provided that:
 
 “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to denial notices furnished by hospitals to individuals on or after the first day of the first month that begins more than 30 days after the date of the enactment of this Act \[Oct. 21, 1986\].
 
 “(2) Section 1154(e)(4) of the Social Security Act \[subsec. (e)(4) of this section\] (as added by the amendment made by subsection (a)) shall take effect on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9352(c)(2) of Pub. L. 99–509 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987, except that in applying such amendment before January 1, 1989, the term ‘post-hospital services’ does not include physicians’ services, other than physicians’ services furnished in a hospital, other inpatient facility, ambulatory surgical center, or rural health clinic.”
+Pub. L. 99–509, title IX, §9352(c)(2), Oct. 21, 1986, 100 Stat. 2044, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987, except that in applying such amendment before January 1, 1989, the term ‘post-hospital services’ does not include physicians’ services, other than physicians’ services furnished in a hospital, other inpatient facility, ambulatory surgical center, or rural health clinic.”
 
-Section 9353(a)(6) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4039(h)(9)(A), (B), as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776, provided that:
+Pub. L. 99–509, title IX, §9353(a)(6), Oct. 21, 1986, 100 Stat. 2046, as amended by Pub. L. 100–203, title IV, §4039(h)(9)(A), (B), as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776, provided that:
 
 “(A)(i) Except as provided in clause (ii), the amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.
 
@@ -396,15 +396,15 @@ Section 9353(a)(6) of Pub. L. 99–509, as amended by Pub. L. 100–203, title I
 
 “(D) The amendment made by paragraph (3) \[amending this section\] becomes effective on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9353(c)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to complaints received on or after the first day of the first month that begins more than 9 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9353(c)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to complaints received on or after the first day of the first month that begins more than 9 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9307(e) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395y of this title\] shall apply to services performed on or after April 1, 1986.”
+Pub. L. 99–272, title IX, §9307(e), Apr. 7, 1986, 100 Stat. 194, provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395y of this title\] shall apply to services performed on or after April 1, 1986.”
 
-Section 9401(d) of Pub. L. 99–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[this part\] that are in effect on that date as may be necessary to effect these amendments on a timely basis.”
+Pub. L. 99–272, title IX, §9401(d), Apr. 7, 1986, 100 Stat. 200, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[this part\] that are in effect on that date as may be necessary to effect these amendments on a timely basis.”
 
-Section 9403(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 1395cc of this title\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title IX, §9403(c), Apr. 7, 1986, 100 Stat. 200, provided that: “The amendments made by this section \[amending this section and section 1395cc of this title\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
-Section 9405(b) of Pub. L. 99–272, as amended by Pub. L. 99–509, title IX, §9353(a)(5), Oct. 21, 1986, 100 Stat. 2046, provided that: “The amendment made by this section \[amending this section\] shall apply to items and services furnished on or after April 1, 1987.”
+Pub. L. 99–272, title IX, §9405(b), Apr. 7, 1986, 100 Stat. 201, as amended by Pub. L. 99–509, title IX, §9353(a)(5), Oct. 21, 1986, 100 Stat. 2046, provided that: “The amendment made by this section \[amending this section\] shall apply to items and services furnished on or after April 1, 1987.”
 
 #### Effective Date of 1983 Amendment
 
@@ -416,7 +416,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Review and Analysis of Variations in Utilization of Hospital and Other Health Care Services
 
-Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
+Pub. L. 99–509, title IX, §9353(a)(4), Oct. 21, 1986, 100 Stat. 2046, provided that: “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

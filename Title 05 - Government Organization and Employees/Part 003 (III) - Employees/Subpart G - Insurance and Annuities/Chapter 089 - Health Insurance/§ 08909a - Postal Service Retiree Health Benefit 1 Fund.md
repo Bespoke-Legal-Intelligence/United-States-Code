@@ -88,7 +88,7 @@ Request for review.—Any regulation established under section 8909a(d)(5) of ti
 
 &emsp;“(B)
 
-Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of healthcare insurance obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commissioncontaining the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
+Report.—Upon receiving a request under subparagraph (A), the Commission shall promptly procure the services of an actuary, who shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of healthcare insurance obligations, to conduct a review in accordance with generally accepted actuarial practices and principles and to provide a report to the Commission containing the results of the review. The Commission, upon determining that the report satisfies the requirements of this paragraph, shall approve the report, with any comments it may choose to make, and submit it with any such comments to the Postal Service, the Office of Personnel Management, and Congress.
 
 “(2)
 

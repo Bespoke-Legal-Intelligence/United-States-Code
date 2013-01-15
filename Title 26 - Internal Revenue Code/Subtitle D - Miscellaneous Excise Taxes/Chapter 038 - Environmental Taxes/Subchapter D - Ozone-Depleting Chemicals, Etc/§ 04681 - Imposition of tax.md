@@ -76,15 +76,15 @@ Subsec. (b)(1)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to ame
 
 #### Effective Date of 1992 Amendment
 
-Section 1931(d) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and section 4682 of this title\] shall apply to taxable chemicals sold or used on or after January 1, 1993.”
+Pub. L. 102–486, title XIX, §1931(d), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section \[amending this section and section 4682 of this title\] shall apply to taxable chemicals sold or used on or after January 1, 1993.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11203(e) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 4682 of this title\] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, §11203(e), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “The amendments made by this section \[amending this section and section 4682 of this title\] shall take effect on January 1, 1991.”
 
 #### Effective Date
 
-Section 7506(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7506(c), Dec. 19, 1989, 103 Stat. 2369, provided that:
 
 “(1)
 

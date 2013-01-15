@@ -58,7 +58,7 @@ Amendment by Pub. L. 105–33 applicable with respect to any indebtedness to the
 
 #### Effective Date of 1982 Amendment
 
-Section 407(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to notifications of indebtedness that are made by the Administrator of Veterans’ Affairs after March 31, 1983.”
+Pub. L. 97–306, title IV, §407(b), Oct. 14, 1982, 96 Stat. 1445, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to notifications of indebtedness that are made by the Administrator of Veterans’ Affairs after March 31, 1983.”
 
 #### Effective Date of 1980 Amendment
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 92–328 effective June 30, 1972, see section 301(c) of Pub
 
 #### Applicability of Waiver Authority to Improper Payments, Overpayments, and Indebtedness Established by the Administrator Prior to Effective Date of Pub. L. 92–328
 
-Section 202(b) of Pub. L. 92–328 provided that the waiver authority under subsec. (a) of this section is applicable to improper payments, overpayments, and indebtedness established by the Administrator prior to the effective date of Pub. L. 92–328 if application for relief was pending on June 30, 1972, or such an application was made within two years from June 30, 1972.
+Pub. L. 92–328, title II, §202(b), June 30, 1972, 86 Stat. 397, provided that the waiver authority under subsec. (a) of this section is applicable to improper payments, overpayments, and indebtedness established by the Administrator prior to the effective date of Pub. L. 92–328 if application for relief was pending on June 30, 1972, or such an application was made within two years from June 30, 1972.
 
 For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment notes set out under sections 1114, 1134, and 3713 of this title.
 

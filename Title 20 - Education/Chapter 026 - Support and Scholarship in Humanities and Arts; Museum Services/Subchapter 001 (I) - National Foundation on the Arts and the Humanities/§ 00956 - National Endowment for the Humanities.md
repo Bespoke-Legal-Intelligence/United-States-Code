@@ -38,7 +38,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 #### (d) Coordination and development of Endowment programs with other Federal and non-Federal programs
 
-The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
+The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanitiesagencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
 
 #### (e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public
 
@@ -100,7 +100,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(G) establishes procedures to assure public access to information relating to such activities;
 
-&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form,at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
+&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form, at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
 
 &emsp;(I) provides—
 
@@ -134,7 +134,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of the cost of programs under this subsection if such programs would otherwise be unavailable to the residents of that State.
 
-(B) Any amount allotted to a State under the first sentence of paragraph (4) for any fiscal year which is not obligated by the State agency or grant recipient prior to sixty days prior to the end of the fiscal year for which such sums are appropriated shall be available to the Chairperson for making grants to regional groups.
+(B) Any amount allotted to a State under the first sentence of paragraph (4) for any fiscal year which is not obligated by the State agency or grant recipient prior to sixty days prior to the end of the fiscal year for which such sums areappropriated shall be available to the Chairperson for making grants to regional groups.
 
 (C) Funds made available under this subsection shall not be used to supplant non-Federal funds.
 
@@ -178,7 +178,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, the total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
 
-(B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by section 960(a)(3) of this title, unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowment for the Humanities for the purpose of this subsection.
+(B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by section 960(a)(3) of this title, unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowmentfor the Humanities for the purpose of this subsection.
 
 (3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
 
@@ -194,7 +194,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f) of this section, to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment's programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
 
-#### (<i>l</i>) Eligibility of group for financial assistance
+#### (l) Eligibility of group for financial assistance
 
 Any group shall be eligible for financial assistance under this section only if—
 
@@ -252,11 +252,11 @@ Subsec. (h)(2)(B). Pub. L. 101–512, §318 \[title I, §107(f)\], substituted �
 
 Subsec. (k). Pub. L. 101–512, §318 \[title I, §107(g)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “and State levels.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added subsecs. (<i>l</i>) and (m) and struck out former subsec. (<i>l</i>) which related to reports and plans required by regulation or directives and the transmittal of such reports and plans to the Equal Employment Opportunity Commission.
+Subsecs. (l), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added subsecs. (l) and (m) and struck out former subsec. (l) which related to reports and plans required by regulation or directives and the transmittal of such reports and plans to the Equal Employment Opportunity Commission.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
 
-Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3),added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
+Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
@@ -266,7 +266,7 @@ Subsec. (g). Pub. L. 99–194, §107(4), substituted “The Secretary of Labor s
 
 Subsecs. (h)(1), (2)(B), (3), (i). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 99–194, §107(6), added subsecs. (j) to (l).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
@@ -318,11 +318,11 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 
 #### Applicability of 1985 Amendment
 
-Amendment by section 107(3) of Pub. L. 99–194 not applicable with respect to plans submitted for financial assistance to be provided with funds appropriated forfiscal year 1986, see section 112 of Pub. L. 99–194, set out as a note under section 954 of this title.
+Amendment by section 107(3) of Pub. L. 99–194 not applicable with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986, see section 112 of Pub. L. 99–194, set out as a note under section 954 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 104(b) of Pub. L. 94–462 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1977 and succeeding fiscal years.”
+Pub. L. 94–462, title I, §104(b), Oct. 8, 1976, 90 Stat. 1974, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1977 and succeeding fiscal years.”
 
 #### Effective Date of 1973 Amendment
 

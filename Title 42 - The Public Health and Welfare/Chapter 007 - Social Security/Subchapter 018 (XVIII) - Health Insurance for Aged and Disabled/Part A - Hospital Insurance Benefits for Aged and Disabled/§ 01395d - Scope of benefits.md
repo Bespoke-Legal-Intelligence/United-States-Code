@@ -182,23 +182,23 @@ Pub. L. 108–173, title V, §512(d), Dec. 8, 2003, 117 Stat. 2300, provided tha
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395l, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter \[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
+Pub. L. 105–33, title IV, §4449, Aug. 5, 1997, 111 Stat. 424, provided that: “Except as otherwise provided in this chapter \[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
 
-Section 4611(f) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\] apply to services furnished on or after January 1, 1998. For purpose of applying such amendments, any home health spell of illness that began, but not \[sic\] did not end, before such date shall be considered to have begun as of such date.”
+Pub. L. 105–33, title IV, §4611(f), Aug. 5, 1997, 111 Stat. 474, provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\] apply to services furnished on or after January 1, 1998. For purpose of applying such amendments, any home health spell of illness that began, but not \[sic\] did not end, before such date shall be considered to have begun as of such date.”
 
 #### Effective Date of 1994 Amendment
 
-Section 102(i) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and sections 1395e, 1395f, 1395i–4, 1395m, 1395x, and 1395ww of this title\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
+Pub. L. 103–432, title I, §102(i), Oct. 31, 1994, 108 Stat. 4404, provided that: “The amendments made by this section \[amending this section and sections 1395e, 1395f, 1395i–4, 1395m, 1395x, and 1395ww of this title\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 4006(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990.”
+Pub. L. 101–508, title IV, §4006(c), Nov. 5, 1990, 104 Stat. 1388–43, provided that: “The amendments made by this section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 #### Effective Date of 1988 Amendment
 
-Section 104(a) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §608(d)(3)(A), Oct. 13, 1988, 102 Stat. 2413, provided that:
+Pub. L. 100–360, title I, §104(a), July 1, 1988, 102 Stat. 687, as amended by Pub. L. 100–485, title VI, §608(d)(3)(A), Oct. 13, 1988, 102 Stat. 2413, provided that:
 
 “(1)
 
@@ -234,25 +234,25 @@ Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provi
 
 #### Effective Date of 1981 Amendment
 
-Section 2121(i) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1320c–4, 1320c–7, 1395f, and 1395x of this title\] (other than by subsection (h) \[repealing provisions set out as a note under section 1395<i>ll</i> of this title\]) shall apply to services furnished in detoxification facilities for inpatient stays beginning on or after the tenth day after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXI, §2121(i), Aug. 13, 1981, 95 Stat. 796, provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1320c–4, 1320c–7, 1395f, and 1395x of this title\] (other than by subsection (h) \[repealing provisions set out as a note under section 1395ll of this title\]) shall apply to services furnished in detoxification facilities for inpatient stays beginning on or after the tenth day after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 
-Section 931(e) of Pub. L. 96–499 provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 1395f and 1395x of this title\] shall become effective on April 1, 1981.”
+Pub. L. 96–499, title IX, §931(e), Dec. 5, 1980, 94 Stat. 2634, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 1395f and 1395x of this title\] shall become effective on April 1, 1981.”
 
 #### Effective Date of 1968 Amendment
 
-Section 129(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\].”
+Pub. L. 90–248, title I, §129(d), Jan. 2, 1968, 81 Stat. 849, provided that: “The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395l, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\].”
 
-Section 137(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395e of this title\] shall apply with respect to services furnished after December 31, 1967.”
+Pub. L. 90–248, title I, §137(c), Jan. 2, 1968, 81 Stat. 854, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395e of this title\] shall apply with respect to services furnished after December 31, 1967.”
 
-Section 138(b) of Pub. L. 90–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+Pub. L. 90–248, title I, §138(b), Jan. 2, 1968, 81 Stat. 854, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
 
-Section 143(d) of Pub. L. 90–248 provided that: “The provisions made by subsection (a) of this section \[amending section 1395x of this title\] shall become effective as of July 1, 1966, and the provisions made by subsections (b) and (c) of this section \[amending this section and section 1395f of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1967, and to outpatient hospital diagnostic services furnished after December 31, 1967, and before April 1, 1968.”
+Pub. L. 90–248, title I, §143(d), Jan. 2, 1968, 81 Stat. 858, provided that: “The provisions made by subsection (a) of this section \[amending section 1395x of this title\] shall become effective as of July 1, 1966, and the provisions made by subsections (b) and (c) of this section \[amending this section and section 1395f of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1967, and to outpatient hospital diagnostic services furnished after December 31, 1967, and before April 1, 1968.”
 
-Section 146(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+Pub. L. 90–248, title I, §146(b), Jan. 2, 1968, 81 Stat. 859, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
 
 #### Medicare Hospice Concurrent Care Demonstration Program
 
@@ -264,7 +264,7 @@ Establishment.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiaries are furnished, during the same period, hospice care and any other items or services covered under titleXVIII of the Social Security Act (42 U.S.C. 1395 et seq.) from funds otherwise paid under such title to such hospice programs.
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiariesare furnished, during the same period, hospice care and any other items or services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) from funds otherwise paid under such title to such hospice programs.
 
 &emsp;“(2)
 
@@ -342,7 +342,7 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 #### Transition
 
-Section 4611(e) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4611(e), Aug. 5, 1997, 111 Stat. 473, provided that:
 
 “(1)
 
@@ -384,7 +384,7 @@ In general.—For purposes only of computing the monthly premium under section 1
 
 &emsp;“(B)
 
-No impact on government contribution.—Subparagraph (A) does not apply in determining theamount of the Government contribution under section 1844 of the Social Security Act (42 U.S.C. 1395w).”
+No impact on government contribution.—Subparagraph (A) does not apply in determining the amount of the Government contribution under section 1844 of the Social Security Act (42 U.S.C. 1395w).”
 
 #### Repeal of 1988 Expansion of Medicare Part A Benefits
 

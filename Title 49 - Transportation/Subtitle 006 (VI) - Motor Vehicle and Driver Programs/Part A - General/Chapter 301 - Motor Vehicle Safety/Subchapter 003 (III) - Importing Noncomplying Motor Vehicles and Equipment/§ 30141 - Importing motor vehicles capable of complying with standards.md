@@ -30,7 +30,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle if�
 
 Procedures on Deciding on Motor Vehicle Capability.—(1) The Secretary of Transportation shall establish by regulation procedures for making a decision under subsection (a)(1) of this section and the information a petitioner must provide to show clearly that the motor vehicle is capable of being brought into compliance with applicable motor vehicle safety standards prescribed under this chapter. In establishing the procedures, the Secretary shall provide for a minimum period of public notice and written comment consistent with ensuring expeditious, but complete, consideration and avoiding delay by any person. In making a decision under those procedures, the Secretary shall consider test information and other information available to the Secretary, including any information provided by the manufacturer. If the Secretary makes a negative decision, the Secretary may not make another decision for the same model until at least 3 calendar months have elapsed after the negative decision.
 
-(2) The Secretary of Transportation shall publish each year in the Federal Register a list of all decisions made under subsection (a)(1) of this section. Each published decision applies to the model of the motor vehicle for which the decision was made. A positive decision permits another importer registered under subsection (c) of this section to import a vehicle of the samemodel under this section if the importer complies with all the terms of the decision.
+(2) The Secretary of Transportation shall publish each year in the Federal Register a list of all decisions made under subsection (a)(1) of this section. Each published decision applies to the model of the motor vehicle for which the decision was made. A positive decision permits another importer registered under subsection (c) of this section to import a vehicle of the same model under this section if the importer complies with all the terms of the decision.
 
 (c)
 
@@ -48,7 +48,7 @@ Registration.—(1) The Secretary of Transportation shall establish procedures f
 
 (4) The Secretary of Transportation shall establish procedures for—
 
-&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115, 30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
+&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115,30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
 
 &emsp;(B) automatically suspending a registration for not paying a fee under subsection (a)(3) of this section in a timely manner or for knowingly filing a false or misleading certification under section 30146 of this title; and
 

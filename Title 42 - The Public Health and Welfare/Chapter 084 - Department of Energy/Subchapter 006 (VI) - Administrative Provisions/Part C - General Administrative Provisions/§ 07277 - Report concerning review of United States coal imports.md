@@ -32,7 +32,7 @@ Section was enacted as part of the Energy Policy and Conservation Amendments Act
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 99–58 provided that: “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
+Pub. L. 99–58, title II, §201, July 2, 1985, 99 Stat. 107, provided that: “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
 
 #### Termination of Reporting Requirements
 
@@ -40,7 +40,7 @@ For termination, effective May 15, 2000, of provisions in this section requiring
 
 #### Analysis of United States Coal Import Market; Report by Secretary of Energy to Congress
 
-Section 203 of Pub. L. 99–58 provided that:
+Pub. L. 99–58, title II, §203, July 2, 1985, 99 Stat. 108, provided that:
 
 “(a)
 

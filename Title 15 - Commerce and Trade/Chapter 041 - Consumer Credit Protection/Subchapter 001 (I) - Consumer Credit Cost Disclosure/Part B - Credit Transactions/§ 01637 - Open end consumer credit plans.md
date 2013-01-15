@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Bureau sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Bureau, and such person's openend credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Bureau sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Bureau, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -54,7 +54,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(i) the number of months (rounded to the nearest month) that it would take to pay the entire amount of that balance, if the consumer pays only the required minimum monthly payments and if no further advances are made;
 
-&emsp;&emsp;(ii) the total cost to the consumer, including interest and principal payments, of paying that balance in full, if the consumer pays only the required minimum monthly payments and if no further advances are made;
+&emsp;&emsp;(ii) the total cost to the consumer, including interest and principal payments, of paying that balance in full, if the consumerpays only the required minimum monthly payments and if no further advances are made;
 
 &emsp;&emsp;(iii) the monthly payment amount that would be required for the consumer to eliminate the outstanding balance in 36 months, if no further advances are made, and the total cost to the consumer, including interest and principal payments, of paying that balance in full if the consumer pays the balance over 36 months; and
 
@@ -118,7 +118,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (ii) Annual and other fees
 
-&emsp;&emsp;&emsp;(I) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of a credit card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
+&emsp;&emsp;&emsp;(I) Any annual fee, other periodic fee, or membership fee imposed for the issuanceor availability of a credit card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
 
 &emsp;&emsp;&emsp;(II) Any minimum finance charge imposed for each period during which any extension of credit which is subject to a finance charge is outstanding.
 
@@ -156,7 +156,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under anopen end consumer credit plan, the person making the solicitation shall orally disclose the information described in paragraph (1)(A).
+&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under an open end consumer credit plan, the person making the solicitation shall orally disclose the information described in paragraph (1)(A).
 
 #### (B) Exception
 
@@ -276,7 +276,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
-&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
+&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtainany change in the information provided in the application or solicitation since it was printed.
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
@@ -330,7 +330,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;In this paragraph—
 
-&emsp;&emsp;&emsp;(i) the terms “temporary annual percentage rate of interest” and “temporary annual percentage rate” mean any rate of interest applicable to a credit card account for an introductory period of less than 1 year, if that rate is less than an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation; and
+&emsp;&emsp;&emsp;(i) the terms “temporary annual percentage rate of interest” and “temporaryannual percentage rate” mean any rate of interest applicable to a credit card account for an introductory period of less than 1 year, if that rate is less than an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation; and
 
 &emsp;&emsp;&emsp;(ii) the term “introductory period” means the maximum time period for which the temporary annual percentage rate may be applicable.
 
@@ -372,7 +372,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Application requirements
 
-&emsp;&emsp;An application to open a credit card account by a consumer who has not attainedthe age of 21 as of the date of submission of the application shall require—
+&emsp;&emsp;An application to open a credit card account by a consumer who has not attained the age of 21 as of the date of submission of the application shall require—
 
 &emsp;&emsp;&emsp;(i) the signature of a cosigner, including the parent, legal guardian, spouse, or any other individual who has attained the age of 21 having a means to repay debts incurred by the consumer in connection with the account, indicating joint liability for debts incurred by the consumer in connection with the account before the consumer has attained the age of 21; or
 
@@ -506,9 +506,9 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (7) Restriction on fees charged for an over-the-limit transaction
 
-&emsp;With respect to a credit card account under an open end consumer credit plan, an over-the-limit fee may be imposed only once during a billing cycle if the credit limit on the account is exceeded, and an over-the-limit fee, with respect to such excess credit, may be imposed only once in each of the 2 subsequent billingcycles, unless the consumer has obtained an additional extension of credit in excess of such credit limit during any such subsequent cycle or the consumer reduces the outstanding balance below the credit limit as of the end of such billing cycle.
+&emsp;With respect to a credit card account under an open end consumer credit plan, an over-the-limit fee may be imposed only once during a billing cycle if the credit limit on the account is exceeded, and an over-the-limit fee, with respect to such excess credit, may be imposed only once in each of the 2 subsequent billing cycles, unless the consumer has obtained an additional extension of credit in excess of such credit limit during any such subsequent cycle or the consumer reduces the outstanding balance below the credit limit as of the end of such billing cycle.
 
-#### (<i>l</i>) Limit on fees related to method of payment
+#### (l) Limit on fees related to method of payment
 
 With respect to a credit card account under an open end consumer credit plan, the creditor may not impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
 
@@ -526,7 +526,7 @@ With respect to the terms of any credit card account under an open end consumer 
 
 &emsp;No provision of this subsection may be construed as authorizing any imposition or payment of advance fees otherwise prohibited by any provision of law.
 
-#### (<i>o</i>) Due dates for credit card accounts
+#### (o) Due dates for credit card accounts
 
 #### (1) In general
 
@@ -538,7 +538,7 @@ With respect to the terms of any credit card account under an open end consumer 
 
 #### (p) Parental approval required to increase credit lines for accounts for which parent is jointly liable
 
-No increase may be made in the amount of credit authorized to be extended under a credit card account for which a parent, legal guardian, or spouse of the consumer, or any other individual has assumed joint liability for debts incurred by the consumer in connection with the account before the consumer attains the age of 21, unless that parent, guardian, or spouse approves in writing, and assumes joint liability for, such increase.
+No increase may be made in the amount of credit authorized to be extended under a creditcard account for which a parent, legal guardian, or spouse of the consumer, or any other individual has assumed joint liability for debts incurred by the consumer in connection with the account before the consumer attains the age of 21, unless that parent, guardian, or spouse approves in writing, and assumes joint liability for, such increase.
 
 #### (r) <sup>2</sup> College card agreements
 
@@ -604,7 +604,7 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 <b>2009</b>—Subsec. (b)(11). Pub. L. 111–24, §201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
 
-Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
+Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before arequired payment due date, the following shall be stated clearly and conspicuously on the billing statement:
 
 &emsp;“(A) The date on which that payment is due or, if different, the earliest date on which a late payment fee may be charged.
 
@@ -618,13 +618,13 @@ Subsec. (d)(2), (3). Pub. L. 111–24, §203(1), (2), redesignated par. (3) as (
 
 Subsec. (i). Pub. L. 111–24, §101(a)(1), added subsec. (i).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 111–24, §102(a), added subsecs. (j) to (<i>l</i>).
+Subsecs. (j) to (l). Pub. L. 111–24, §102(a), added subsecs. (j) to (l).
 
 Subsec. (m). Pub. L. 111–24, §103, added subsec. (m).
 
 Subsec. (n). Pub. L. 111–24, §105, added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 111–24, §106(a), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 111–24, §106(a), added subsec. (o).
 
 Subsec. (p). Pub. L. 111–24, §303, added subsec. (p).
 
@@ -770,7 +770,7 @@ Standards.—In promulgating regulations under this section, the Board \[of Gove
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-Section 7 of Pub. L. 100–583 provided that: “Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
+Pub. L. 100–583, §7, Nov. 3, 1988, 102 Stat. 2968, provided that: “Any regulation required to be prescribed by the Board under the amendments made by section 2 \[amending this section and section 1632 of this title\] shall—
 
 &emsp;“(1) take effect not later than the end of the 150-day period beginning on the date of the enactment of this Act \[Nov. 3, 1988\]; and
 
@@ -792,7 +792,7 @@ Study.—The Comptroller General of the United States shall, from time to time, 
 
 Report.—Upon completion of any study under paragraph (1), the Comptroller General shall periodically submit a report to the Congress on the findings and conclusions of the study, together with such recommendations for administrative or legislative action as the Comptroller General determines to be appropriate.”
 
-Section 8 of Pub. L. 100–583 provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
+Pub. L. 100–583, §8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
 

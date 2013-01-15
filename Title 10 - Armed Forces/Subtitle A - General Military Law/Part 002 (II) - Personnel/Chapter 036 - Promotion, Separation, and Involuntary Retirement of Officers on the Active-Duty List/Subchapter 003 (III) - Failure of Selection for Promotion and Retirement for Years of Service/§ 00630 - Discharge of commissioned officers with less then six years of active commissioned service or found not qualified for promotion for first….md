@@ -6,7 +6,7 @@ The Secretary of the military department concerned, under regulations prescribed
 
 &emsp;&emsp;(A) has less than six years of active commissioned service; or
 
-&emsp;&emsp;(B) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade); and
+&emsp;&emsp;(B) is serving in the grade of second lieutenant or ensign and has been found notqualified for promotion to the grade of first lieutenant or lieutenant (junior grade); and
 
 &emsp;(2) shall, unless the officer has been promoted, discharge any officer described in paragraph (1)(B) at the end of the 18-month period beginning on the date on which the officer is first found not qualified for promotion.
 

@@ -2,7 +2,7 @@
 
 #### (a) Information dissemination activities
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 444 of the General Education Provisions Act \[20 U.S.C. 1232g\] (commonly known as the “Family Educational Rights and Privacy Act of 1974”), together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less thanfull time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 444 of the General Education Provisions Act \[20 U.S.C. 1232g\] (commonly known as the “Family Educational Rights and Privacy Act of 1974”), together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
 
 &emsp;(A) the student financial assistance programs available to students who enroll at such institution;
 
@@ -70,7 +70,7 @@
 
 (2) For the purpose of this section, the term “prospective student” means any individual who has contacted an eligible institution requesting information concerning admission to that institution.
 
-(3) In calculating the completion or graduation rate under subparagraph (L) of paragraph (1) of this subsection or under subsection (e) of this section, a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institutionfor which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
+(3) In calculating the completion or graduation rate under subparagraph (L) of paragraph (1) of this subsection or under subsection (e) of this section, a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institution for which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
 
 &emsp;(A) shall be made available by July 1 each year to enrolled students and prospective students prior to the students enrolling or entering into any financial obligation; and
 
@@ -106,7 +106,7 @@
 
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid offices or otherwise, provide counseling to borrowers of loans that are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–3 of this title or loans under section 1078–2 of this title made on behalf of a student) or made under part C (other than Federal Direct Consolidation Loans or Federal Direct PLUS Loans made on behalf of a student) or made under part D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure fromsuch institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid offices or otherwise, provide counseling to borrowers of loans that are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–3 of this title or loans under section 1078–2 of this title made on behalf of a student) or made under part C (other than Federal Direct Consolidation Loans or Federal Direct PLUS Loans made on behalf of a student) or made under part D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;(i) information on the repayment plans available, including a description of the different features of each plan and sample information showing the average anticipated monthly payments, and the difference in interest paid and total payments, under each plan;
 
@@ -156,7 +156,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (d) Departmental publication of descriptions of assistance programs
 
-(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware of their rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter and part C of subchapter I of chapter 34 of title 42. Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C. In addition, suchinformation shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
+(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware oftheir rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter and part C of subchapter I of chapter 34 of title 42. Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C. In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
 
 (2) The Secretary, to the extent the information is available, shall compile information describing State and other prepaid tuition programs and savings programs and disseminate such information to States, eligible institutions, students, and parents in departmental publications.
 
@@ -186,7 +186,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(A) exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government; or
 
-&emsp;(B) in cases where the students described in subparagraph (A) represent 20 percent or more of the certificate- or degree-seeking, full-time, undergraduate students at the institution, calculate the completion or graduation rates of such students by excluding from the calculations described in paragraph (1) the time period during which such students were not enrolled due to their service in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government.
+&emsp;(B) in cases where the students described in subparagraph (A) represent 20 percent or moreof the certificate- or degree-seeking, full-time, undergraduate students at the institution, calculate the completion or graduation rates of such students by excluding from the calculations described in paragraph (1) the time period during which such students were not enrolled due to their service in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
 (4) Each institution of higher education described in paragraph (1) may provide supplemental information to students and the Secretary showing the completion or graduation rate when such completion or graduation rate includes students transferring into and out of such institution.
 
@@ -246,11 +246,11 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;&emsp;(IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which datashall be collected and reported according to category of prejudice.
 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
-&emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding thepossession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
+&emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
 
 &emsp;(I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) <sup>2</sup> of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
 
@@ -364,7 +364,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (16) The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
 
-(17) Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter andpart C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.
+(17) Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.
 
 (18) This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
 
@@ -412,7 +412,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (3) Disclosure of information to students and public
 
-&emsp;An institution of higher education described in paragraph (1) shall make available to students and potential students, upon request, and to the public, the information contained in the report described in paragraph (1), except that all students shall be informed of their right to request such information.
+&emsp;An institution of higher education described in paragraph (1) shall make available to students and potential students, upon request,and to the public, the information contained in the report described in paragraph (1), except that all students shall be informed of their right to request such information.
 
 #### (4) Submission; report; information availability
 
@@ -492,7 +492,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representatives of institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
 
-&emsp;&emsp;&emsp;(i) identify exemplary fire safety policies, procedures, programs, and practices, including the installation, to the technical standards of the National Fire Protection Association, of fire detection, prevention, and protection technologies in student housing, dormitories, and other buildings;
+&emsp;&emsp;&emsp;(i) identify exemplary fire safety policies, procedures, programs, and practices,including the installation, to the technical standards of the National Fire Protection Association, of fire detection, prevention, and protection technologies in student housing, dormitories, and other buildings;
 
 &emsp;&emsp;&emsp;(ii) disseminate the exemplary policies, procedures, programs and practices described in clause (i) to the Administrator of the United States Fire Administration;
 
@@ -570,7 +570,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title.
 
-#### (<i>l</i>) Entrance counseling for borrowers
+#### (l) Entrance counseling for borrowers
 
 #### (1) Disclosure required prior to disbursement
 
@@ -644,7 +644,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990,104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951.)
 
 #### References in Text
 
@@ -686,7 +686,7 @@ Subsec. (i)(5)(B). Pub. L. 111–39, §407(b)(5)(E)(iii), substituted “commonl
 
 Subsec. (k)(2). Pub. L. 111–39, §407(b)(5)(F), inserted “section” before “1091(r)(1)”.
 
-Subsec. (<i>l</i>)(1)(A). Pub. L. 111–39, §407(b)(5)(G), substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
+Subsec. (l)(1)(A). Pub. L. 111–39, §407(b)(5)(G), substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
 
 <b>2008</b>—Subsec. (a)(1)(G)(iv). Pub. L. 110–315, §488(a)(1)(A), added cl. (iv).
 
@@ -702,7 +702,7 @@ Subsec. (a)(4). Pub. L. 110–315, §488(a)(2), added par. (4) and struck out fo
 
 Subsec. (a)(7). Pub. L. 110–315, §488(a)(3), added par. (7).
 
-Subsec. (b)(1)(A). Pub. L. 110–315, §488(b), which directed the general amendment of subpar. (A), with the new subpar. (A) including a subsec. (b) designation and heading and par. (1) designation, was executed by substituting the new subpar. (A) without the added subsec. (b) designation and heading and par. (1) designation for the existing subpar. (A), to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: “Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+Subsec. (b)(1)(A). Pub. L. 110–315, §488(b), which directed the general amendment of subpar. (A), with the new subpar. (A) including a subsec. (b) designation and heading and par. (1) designation, was executed by substituting the new subpar. (A) without the added subsec. (b) designation and heading and par. (1) designation for the existing subpar. (A), to reflect the probable intentof Congress. Prior to amendment, subpar. (A) read as follows: “Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;“(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
@@ -738,7 +738,7 @@ Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C)
 
 &emsp;“(iii) contain information on each individual institution of higher education.”
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 110–315, §488(g), added subsecs. (h) to (<i>l</i>).
+Subsecs. (h) to (l). Pub. L. 110–315, §488(g), added subsecs. (h) to (l).
 
 Subsec. (m). Pub. L. 110–315, §1011(c), added subsec. (m).
 
@@ -884,7 +884,7 @@ Subsec. (a)(1)(N). Pub. L. 102–325, §486(a)(6), added subpar. (N).
 
 Subsec. (b). Pub. L. 102–325, §486(b), amended subsec. (b) generally, making changes in substance and structure of former text which related to exit counseling for borrowers and borrower information.
 
-Subsec. (f)(1)(F). Pub. L. 102–325, §486(c)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
+Subsec. (f)(1)(F). Pub. L. 102–325, §486(c)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F)read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
 
 &emsp;“(i) murder;
 
@@ -942,7 +942,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1997 Amendment
 
-Section 60001(b) of Pub. L. 105–18 provided that:
+Pub. L. 105–18, title VI, §60001(b), June 12, 1997, 111 Stat. 214, provided that:
 
 “(1)
 
@@ -960,7 +960,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Amendment by section 486(a), (b), and (c)(2) of Pub. L. 102–325 effective July 23, 1992, except that changes relating to disclosures effective with respect to periods of enrollment beginning on or after July 1, 1993, see section 498 of Pub. L. 102–325, set out as a note under section 1088 of this title.
 
-Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act \[20 U.S.C. 1092(f)(1)(F)(ii)\] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993. The statistics required by subparagraph (F) of such section shall—
+Pub. L. 102–325, title IV, §486(c)(3), July 23, 1992, 106 Stat. 622, provided that: “The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act \[20 U.S.C. 1092(f)(1)(F)(ii)\] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993. The statistics required by subparagraph (F) of such section shall—
 
 &emsp;“(A) in the report required on September 1, 1992, include statistics concerning the occurrence on campus of offenses during the period from August 1, 1991, to July 31, 1992;
 
@@ -972,9 +972,9 @@ Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by t
 
 #### Effective Date of 1990 Amendment
 
-Section 104(b) of Pub. L. 101–542, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
+Pub. L. 101–542, title I, §104(b), Nov. 8, 1990, 104 Stat. 2384, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
 
-Section 204(c) of Pub. L. 101–542 provided that: “The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
+Pub. L. 101–542, title II, §204(c), Nov. 8, 1990, 104 Stat. 2387, provided that: “The amendments made by thissection \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
 
 #### Effective Date of 1987 Amendment
 
@@ -988,7 +988,7 @@ Subsec. (b) of this section applicable only to periods of enrollment beginning o
 
 #### Regulations
 
-Section 401(a) of Pub. L. 101–542 provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
+Pub. L. 101–542, title IV, §401(a), Nov. 8, 1990, 104 Stat. 2388, provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
 
 #### Model Institution Financial Aid Offer Form
 
@@ -1042,7 +1042,7 @@ Contents.—The recommendations developed under subsection (a) for model financi
 
 #### Congressional Findings
 
-Section 360B(b) of Pub. L. 103–382 provided that: “The Congress finds that—
+Pub. L. 103–382, title III, §360B(b), Oct. 20, 1994, 108 Stat. 3969, provided that: “The Congress finds that—
 
 &emsp;“(1) participation in athletic pursuits plays an important role in teaching young Americans how to work on teams, handle challenges and overcome obstacles;
 
@@ -1060,7 +1060,7 @@ Section 360B(b) of Pub. L. 103–382 provided that: “The Congress finds that�
 
 &emsp;“(8) knowledge of an institution's expenditures for women's and men's athletic programs would help prospective students and prospective student athletes make informed judgments about the commitments of a given institution of higher education to providing equitable athletic benefits to its men and women students.”
 
-Section 102 of Pub. L. 101–542 provided that: “The Congress finds that—
+Pub. L. 101–542, title I, §102, Nov. 8, 1990, 104 Stat. 2381, provided that: “The Congress finds that—
 
 &emsp;“(1) education is fundamental to the development of individual citizens and the progress of the Nation as a whole;
 
@@ -1097,6 +1097,48 @@ Pub. L. 101–542, title II, §202, Nov. 8, 1990, 104 Stat. 2384, provided that:
 &emsp;&emsp;“(B) for uniformity and consistency in the reporting of crimes on campus; and
 
 &emsp;&emsp;“(C) to encourage the development of policies and procedures to address sexual assaults and racial violence on college campuses.”
+
+#### Improving Repayment Options for Federal Student Loan Borrowers
+
+Memorandum of President of the United States, June 7, 2012, 77 F.R. 35241, provided:
+
+Memorandum for the Secretary of Education \[and\] the Secretary of the Treasury
+
+More individuals than ever before are using student loans to finance college. Nearly two-thirds of college graduates borrow to pay for college, with an average debt upon graduation of about $26,300. While a college education remains an excellent investment, this debt can be overly burdensome, especially for recent graduates during the first few years of their careers.
+
+The Income-Based Repayment (IBR) plan for Federal student loans currently allows former students to cap their student loan payments at 15 percent of their current discretionary income. This plan can be an effective tool for helping individuals to manage their debt, especially during challenging economic times.
+
+Over the past several years, my Administration has worked to improve repayment options available to borrowers, including through passage of an enhanced Income-Based Repayment plan, which will cap a Federal student loan borrower's monthly payments at 10 percent of his or her discretionary income starting in 2014. And we are pursuing administrative action that may extend these lower payments to some students as soon as the end of this calendar year.
+
+However, too few borrowers are aware of the options available to them to help manage their student loan debt, including reducing their monthly payment through IBR. Additionally, too many borrowers have had difficulties navigating and completing the IBR application process once they have started it.
+
+For many borrowers, the most significant challenge in completing the IBR application has been the income-verification process, which, until recently, required borrowers to provide a signed copy of their income tax return. Although the Department of Education has recently removed some of the hurdles to completing the process, too many borrowers are still struggling to access this important repayment option due to difficulty in applying.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Streamlined Application Process for Income-Based Repayment Plans</i>. By September 30, 2012, the Secretary of Education, in coordination with the Commissioner of Internal Revenue, shall create a streamlined online application process for IBR that allows student loan borrowers with federally held loans to import their Internal Revenue Service income data directly into the IBR application. This process will allow income information to be seamlessly transmitted so that borrowers can complete the application at one sitting. Federal direct student loan borrowers shall no longer be required to contact their loan servicer as the first step to apply.
+
+Sec. 2. <i>Integrated Online and Mobile Resources for Loan Repayment Options and Debt Management</i>. By July 15, 2012, the Secretary of Education shall:
+
+(a) create integrated online and mobile resources for students and former students to use in learning about Federal student aid, including an explanation of (1) the current IBR plan, which allows student loan borrowers to cap their monthly loan payments at 15 percent of their discretionary income and be eligible to have their remaining loan balances forgiven after 25 years of responsible payments; and (2) the proposed Pay As You Earn plan, which will allow many students to cap their monthly loan repayments at 10 percent of their discretionary income and be eligible for loan forgiveness after 20 years of responsible repayment; and
+
+(b) develop and make available to borrowers an online tool to help students make better financial decisions, including understanding their loan debt and its impact on their everyday lives. This tool should incorporate key elements of best practices in financial literacy and link to students’ actual Federal loan data to help them understand their individual circumstances and options for repayment.
+
+Sec. 3. <i>Improved Notification of the Income-Based Repayment Plan</i>. The Secretary of Education shall instruct Federal direct student loan servicers to make borrowers aware of the option to participate in IBR before a student leaves school and upon entering repayment. Within 1 year of the date of this memorandum, the Department of Education shall make available, for institutions of higher education, a model exit counseling module that will enable students to understand their repayment options before leaving school and to choose a repayment plan for their student loans that best meets their needs.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

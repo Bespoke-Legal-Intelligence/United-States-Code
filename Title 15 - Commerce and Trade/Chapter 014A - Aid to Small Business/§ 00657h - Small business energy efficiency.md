@@ -86,7 +86,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) conduct training and educational activities;
 
-&emsp;&emsp;&emsp;(iii) offer confidential, free, one-on-one, in-depth energy audits to the owners and operators of small business concerns regarding energy efficiency practices;
+&emsp;&emsp;&emsp;(iii) offer confidential, free, one-on-one, in-depth energy audits to the owners andoperators of small business concerns regarding energy efficiency practices;
 
 &emsp;&emsp;&emsp;(iv) give referrals to certified professionals and other providers of energy efficiency assistance who meet such standards for educational, technical, and professional competency as the Administrator shall establish;
 
@@ -172,7 +172,7 @@ In this section—
 
 #### (8) Guarantee
 
-&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a small business concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
+&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a smallbusiness concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
 
 #### (9) Implementation
 

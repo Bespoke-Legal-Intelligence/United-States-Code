@@ -24,7 +24,7 @@ Upon receipt of—
 
 &emsp;(2) a sworn affidavit from an individual and a determination by the Secretary that the statement contains sufficient factual allegations to create a reasonable belief that a violation of section 5201 of this title has occurred;
 
-> the Secretary may request the Attorney General of the United States to institute a civil action for the imposition and collection of the civil penalty under this section.
+> the Secretary may request the Attorney General of the United States to institute a civil actionfor the imposition and collection of the civil penalty under this section.
 
 #### (e) Use of penalty money collected
 

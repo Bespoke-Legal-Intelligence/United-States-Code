@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–314, div. A, title VIII, §825(b)(3)(G), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(H), Dec. 17, 2002, 116 Stat. 2939, amended item for chapter 115 identically, substituting “PROGRAM” for “PROGRAMS”.
+<b>2002</b>—Pub. L. 107–314, div. A, title VIII, §825(b)(3)(G), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II,§210(h)(3)(H), Dec. 17, 2002, 116 Stat. 2939, amended item for chapter 115 identically, substituting “PROGRAM” for “PROGRAMS”.
 
 
 ---

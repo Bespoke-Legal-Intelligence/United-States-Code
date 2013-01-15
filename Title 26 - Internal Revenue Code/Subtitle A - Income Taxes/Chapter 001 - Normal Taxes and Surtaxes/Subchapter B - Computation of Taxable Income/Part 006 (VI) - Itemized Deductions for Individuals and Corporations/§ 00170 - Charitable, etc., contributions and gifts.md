@@ -34,9 +34,9 @@
 
 &emsp;&emsp;&emsp;(ii) an educational organization which normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on,
 
-&emsp;&emsp;&emsp;(iii) an organization the principal purpose or functions of which are the providing of medical or hospital care or medical education or medical research, if the organization is a hospital, or if the organization is a medical research organization directly engaged in the continuous active conduct of medical research in conjunction with a hospital, and during the calendar year in which the contribution is made such organization is committed to spend such contributions for such research before January 1 of the fifth calendar year which begins after the date such contribution is made,
+&emsp;&emsp;&emsp;(iii) an organization the principal purpose or functions of which are the providing of medical or hospital care or medical education or medical research, if the organization is a hospital, or if the organization is a medical research organization directly engaged in the continuous active conduct of medical research in conjunction with a hospital, and during the calendaryear in which the contribution is made such organization is committed to spend such contributions for such research before January 1 of the fifth calendar year which begins after the date such contribution is made,
 
-&emsp;&emsp;&emsp;(iv) an organization which normally receives a substantial part of its support (exclusive of income received in the exerciseor performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from the United States or any State or political subdivision thereof or from direct or indirect contributions from the general public, and which is organized and operated exclusively to receive, hold, invest, and administer property and to make expenditures to or for the benefit of a college or university which is an organization referred to in clause (ii) of this subparagraph and which is an agency or instrumentality of a State or political subdivision thereof, or which is owned or operated by a State or political subdivision thereof or by an agency or instrumentality of one or more States or political subdivisions,
+&emsp;&emsp;&emsp;(iv) an organization which normally receives a substantial part of its support (exclusive of income received in the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from the United States or any State or political subdivision thereof or from direct or indirect contributions from the general public, and which is organized and operated exclusively to receive, hold, invest, and administer property and to make expenditures to or for the benefit of a college or university which is an organization referred to in clause (ii) of this subparagraph and which is an agency or instrumentality of a State or political subdivision thereof, or which is owned or operated by a State or political subdivision thereof or by an agency or instrumentality of one or more States or political subdivisions,
 
 &emsp;&emsp;&emsp;(v) a governmental unit referred to in subsection (c)(1),
 
@@ -72,7 +72,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of charitable contributions (other than charitable contributions to which subparagraph (A) applies) of capital gain property, the total amount of such contributions of such property taken into account under subsection (a) for any taxable year shall not exceed the lesser of—
+&emsp;&emsp;&emsp;In the case of charitable contributions (other than charitable contributions to which subparagraph (A) applies) of capital gain property, the total amount of suchcontributions of such property taken into account under subsection (a) for any taxable year shall not exceed the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 20 percent of the taxpayer's contribution base for the taxable year, or
 
@@ -114,7 +114,7 @@
 
 #### (vi) Termination
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2011.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2013.
 
 #### (F) Certain private foundations
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(ii) any other private foundation (as defined in section 509(a)) which, not later than the 15th day of the third month after the close of the foundation's taxable year in which contributions are received, makes qualifying distributions (as defined in section 4942(g), without regard to paragraph (3) thereof), which are treated, after the application of section 4942(g)(3), as distributions out of corpus (in accordance with section 4942(h)) in an amount equal to 100 percent of such contributions, and with respect to which the taxpayer obtains adequate records or other sufficient evidence from the foundation showing that the foundation made such qualifying distributions, and
 
-&emsp;&emsp;&emsp;(iii) a private foundation all of the contributions to which are pooled in a common fund and which would be described in section 509(a)(3) but for the right of any substantial contributor (hereafter in this clause called “donor”) or his spouse to designate annually the recipients, from among organizations described in paragraph (1) of section 509(a), of the income attributable to the donor's contribution to the fund and to direct (by deed or by will) the payment, to an organization described in such paragraph (1), of the corpus in the common fund attributable to the donor's contribution; but this clause shall apply only if all of the income of the common fund is required to be (and is) distributed to one or more organizations described in such paragraph (1) not later than the 15th day of the third month after the close of the taxable year in which the income is realized by the fund and only if all of the corpus attributable to any donor's contribution to the fund is required to be (and is) distributed to one or more of such organizations not later than one year after his death or after the death of his surviving spouse if she has the right to designate the recipients of such corpus.
+&emsp;&emsp;&emsp;(iii) a private foundation all of the contributions to which are pooled in a common fund and which would be described in section 509(a)(3) but for the right of any substantial contributor (hereafter in this clause called “donor”) or his spouse to designate annually the recipients, from among organizations described in paragraph (1) of section 509(a), of the income attributable to the donor's contribution to the fund and to direct (by deed or by will) the payment, to an organization described in such paragraph (1), of the corpus in the common fund attributable to the donor's contribution; but this clause shall apply only if all of the income of the common fund is required to be (and is) distributed to one or more organizations described in such paragraph (1) not later than the 15th day of the third month after the close of the taxable year in which the income is realized by the fund and only if all of the corpus attributable to any donor's contribution to the fund is required to be (andis) distributed to one or more of such organizations not later than one year after his death or after the death of his surviving spouse if she has the right to designate the recipients of such corpus.
 
 #### (G) Contribution base defined
 
@@ -156,7 +156,7 @@
 
 #### (iii) Termination
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2011.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2013.
 
 #### (C) Taxable income
 
@@ -208,7 +208,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;(4) In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
 
-&emsp;(5) A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burialpurposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
+&emsp;(5) A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burial purposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
 
 > For purposes of this section, the term “charitable contribution” also means an amount treated under subsection (g) as paid for the use of an organization described in paragraph (2), (3), or (4).
 
@@ -256,7 +256,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(i) of tangible personal property—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the use by the donee is unrelated to the purpose or function constituting the basis for its exemption under section 501 (or, in the case of a governmental unit, to any purpose or function described in subsection (c)), or
+&emsp;&emsp;&emsp;&emsp;(I) if the use by the donee is unrelated to the purpose or function constituting the basis for its exemption under section501 (or, in the case of a governmental unit, to any purpose or function described in subsection (c)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) which is applicable property (as defined in paragraph (7)(C), but without regard to clause (ii) thereof) which is sold, exchanged, or otherwise disposed of by the donee before the last day of the taxable year in which the contribution was made and with respect to which the donee has not made a certification in accordance with paragraph (7)(D),
 
@@ -316,13 +316,13 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (iv) Termination
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to contributions made after December 31, 2011.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to contributions made after December 31, 2013.
 
 #### (D) Special rule for contributions of book inventory to public schools
 
 #### (i) Contributions of book inventory
 
-&emsp;&emsp;&emsp;In determining whether a qualified book contribution is a qualified contribution, subparagraph (A) shall be applied withoutregard to whether the donee is an organization described in the matter preceding clause (i) of subparagraph (A).
+&emsp;&emsp;&emsp;In determining whether a qualified book contribution is a qualified contribution, subparagraph (A) shall be applied without regard to whether the donee is an organization described in the matter preceding clause (i) of subparagraph (A).
 
 #### (ii) Qualified book contribution
 
@@ -408,7 +408,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (A) Limit on reduction
 
-&emsp;&emsp;In the case of a qualified computer contribution, the reduction under paragraph\(1)(A) shall be no greater than the amount determined under paragraph (3)(B).
+&emsp;&emsp;In the case of a qualified computer contribution, the reduction under paragraph (1)(A) shall be no greater than the amount determined under paragraph (3)(B).
 
 #### (B) Qualified computer contribution
 
@@ -692,13 +692,13 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(i) such State law requirement was in effect on February 8, 1999,
 
-&emsp;&emsp;&emsp;(ii) each such beneficiary under the charitable gift annuity is a bona fide resident of such State at the time the obligation to pay a charitable gift annuity is entered into, and
+&emsp;&emsp;&emsp;(ii) each such beneficiary under the charitable gift annuity is a bona fide residentof such State at the time the obligation to pay a charitable gift annuity is entered into, and
 
 &emsp;&emsp;&emsp;(iii) the only persons entitled to payments under such contract are persons entitled to payments as beneficiaries under such obligation on the date such obligation is entered into.
 
 #### (H) Member of family
 
-&emsp;&emsp;For purposes of this paragraph, an individual's family consists of the individual'sgrandparents, the grandparents of such individual's spouse, the lineal descendants of such grandparents, and any spouse of such a lineal descendant.
+&emsp;&emsp;For purposes of this paragraph, an individual's family consists of the individual's grandparents, the grandparents of such individual's spouse, the lineal descendants of such grandparents, and any spouse of such a lineal descendant.
 
 #### (I) Regulations
 
@@ -774,7 +774,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (H) Regulations
 
-&emsp;&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide thatsome or all of the requirements of this paragraph do not apply in appropriate cases.
+&emsp;&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide that some or all of the requirements of this paragraph do not apply in appropriate cases.
 
 #### (12) Contributions of used motor vehicles, boats, and airplanes
 
@@ -1046,7 +1046,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(i) any building, structure, or land area which is listed in the National Register, or
 
-&emsp;&emsp;&emsp;(ii) any building which is located in a registered historic district (as defined in section 47(c)(3)(B)) and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district.
+&emsp;&emsp;&emsp;(ii) any building which is located in a registered historic district (as defined insection 47(c)(3)(B)) and is certified by the Secretary of the Interior to the Secretary as being of historic significance to the district.
 
 > &emsp;A building, structure, or land area satisfies the preceding sentence if it satisfies such sentence either at the time of the transfer or on the due date (including extensions) for filing the transferor's return under this chapter for the taxable year in which the transfer is made.
 
@@ -1088,7 +1088,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;&emsp;<b>For disallowance of deductions for contributions to or for the use of communist controlled organizations, see section 11(a) </b><b><sup>2</sup></b> of the Internal Security Act of 1950 (50 U.S.C. 790).
 
-#### (<i>l</i>) Treatment of certain amounts paid to or for the benefit of institutions of higher education
+#### (l) Treatment of certain amounts paid to or for the benefit of institutions of higher education
 
 #### (1) In general
 
@@ -1124,7 +1124,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 #### (4) Allocation of qualified donee income to taxable years of donor
 
-&emsp;For purposes of this subsection, qualified donee income shall be treated as properly allocable to a taxable year of the donor if such income is received by or accrued to the donee for the taxable year of the donee which ends within or with such taxable year of the donor.
+&emsp;For purposes of this subsection, qualified donee income shall be treated as properly allocable to a taxable year of the donor if such income is received by or accrued to the donee forthe taxable year of the donee which ends within or with such taxable year of the donor.
 
 #### (5) 10-year limitation
 
@@ -1219,7 +1219,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;The Secretary shall issue guidance requiring that the taxpayer substantiate the whaling expenses for which a deduction is claimed under this subsection, including by maintaining appropriate written records with respect to the time, place, date, amount, and nature of the expense, as well as the taxpayer's eligibility for such deduction, and that (to the extent provided by the Secretary) such substantiation be provided as part of the taxpayer's return of tax.
 
-#### (<i>o</i>) Special rules for fractional gifts
+#### (o) Special rules for fractional gifts
 
 #### (1) Denial of deduction in certain cases
 
@@ -1297,13 +1297,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;&emsp;<b>(9) For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L.98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626; Pub. L. 107–16, title V, §542(e)(2)(B), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(7), (22), Mar. 9, 2002, 116 Stat. 56, 57; Pub. L. 108–81, title V, §503, Sept. 25, 2003, 117 Stat. 1003; Pub. L. 108–311, title II, §207(15), (16), title III, §306(a), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 108–357, title III, §335(a), title IV, §413(c)(30), title VIII, §§882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, 118 Stat. 1478, 1509, 1627, 1631, 1632; Pub. L. 109–73, title III, §§305(a), 306(a), Sept. 23, 2005, 119 Stat. 2025; Pub. L. 109–135, title IV, §403(a)(16), (gg), Dec. 21, 2005, 119 Stat. 2619, 2631; Pub. L. 109–222, title II, §204(b), May 17, 2006, 120 Stat. 350; Pub. L. 109–280, title XII, §§1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, 120 Stat. 1066, 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; Pub. L. 109–432, div. A, title I, §116(a)(1), (b)(1), (2), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–172, §§3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 110–234, title XV, §15302(a), May 22, 2008, 122 Stat. 1501; Pub. L. 110–246, §4(a), title XV, §15302(a), June 18, 2008, 122 Stat. 1664, 2263; Pub. L. 110–343, div. C, title III, §§321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, 122 Stat. 3873–3875; Pub. L. 111–312, title III, §301(a), title VII, §§723(a), (b), 740(a), 741(a), 742(a), Dec. 17, 2010, 124 Stat. 3300, 3316, 3319.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX,§§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626; Pub. L. 107–16, title V, §542(e)(2)(B), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(7), (22), Mar. 9, 2002, 116 Stat. 56, 57; Pub. L. 108–81, title V, §503, Sept. 25, 2003, 117 Stat. 1003; Pub. L. 108–311, title II, §207(15), (16), title III, §306(a), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 108–357, title III, §335(a), title IV, §413(c)(30), title VIII, §§882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, 118 Stat. 1478, 1509, 1627, 1631, 1632; Pub. L. 109–73, title III, §§305(a), 306(a), Sept. 23, 2005, 119 Stat. 2025; Pub. L. 109–135, title IV, §403(a)(16), (gg), Dec. 21, 2005, 119 Stat. 2619, 2631; Pub. L. 109–222, title II, §204(b), May 17, 2006, 120 Stat. 350; Pub. L. 109–280, title XII, §§1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, 120 Stat. 1066, 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; Pub. L. 109–432, div. A, title I, §116(a)(1), (b)(1), (2), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–172, §§3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 110–234, title XV, §15302(a), May 22, 2008, 122 Stat. 1501; Pub. L. 110–246, §4(a), title XV, §15302(a), June 18, 2008, 122 Stat. 1664, 2263; Pub. L. 110–343, div. C, title III, §§321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, 122 Stat. 3873–3875; Pub. L. 111–312, title III, §301(a), title VII, §§723(a), (b), 740(a), 741(a), 742(a), Dec. 17, 2010, 124 Stat. 3300, 3316, 3319; Pub. L. 112–240, title II, §206(a), (b), title III, §314(a), Jan. 2, 2013, 126 Stat. 2324, 2330.)
 
 #### References in Text
 
@@ -1329,9 +1323,15 @@ Sections 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(1)(E)(vi). Pub. L. 112–240, §206(a), substituted “December 31, 2013” for “December 31, 2011”.
+
+Subsec. (b)(2)(B)(iii). Pub. L. 112–240, §206(b), substituted “December 31, 2013” for “December 31, 2011”.
+
+Subsec. (e)(3)(C)(iv). Pub. L. 112–240, §314(a), substituted “December 31, 2013” for “December 31, 2011”.
+
 <b>2010</b>—Subsec. (b). Pub. L. 111–312, §723(a), (b), substituted “December 31, 2011” for “December 31, 2009” in pars. (1)(E)(vi) and (2)(B)(iii).
 
-Subsec. (e)(1). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (e)(1) to read as if amendment by Pub. L. 107–16, §542(e)(2)(B), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (e)(1). Pub. L. 111–312, §301(a), amended subsec. (e)(1) to read as if amendment by Pub. L. 107–16, §542(e)(2)(B), had never been enacted. See 2001 Amendment note below.
 
 Subsec. (e)(3)(C)(iv). Pub. L. 111–312, §740(a), substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -1359,9 +1359,9 @@ Subsec. (e)(1)(B)(ii). Pub. L. 110–172, §11(a)(14)(B), substituted “subsect
 
 Subsec. (e)(7)(D)(i)(I). Pub. L. 110–172, §3(c), substituted “substantial and related” for “related”.
 
-Subsec. (<i>o</i>)(1)(A). Pub. L. 110–172, §11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
+Subsec. (o)(1)(A). Pub. L. 110–172, §11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
 
-Subsec. (<i>o</i>)(3)(A)(i). Pub. L. 110–172, §11(a)(16)(B), in introductory provisions, substituted “interests” for “interest” and “on or before” for “before”.
+Subsec. (o)(3)(A)(i). Pub. L. 110–172, §11(a)(16)(B), in introductory provisions, substituted “interests” for “interest” and “on or before” for “before”.
 
 <b>2006</b>—Subsec. (b)(1)(E) to (G). Pub. L. 109–280, §1206(a)(1), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. See Codification note above.
 
@@ -1421,7 +1421,7 @@ Subsec. (h)(4)(B). Pub. L. 109–280, §1213(a)(1), added subpar. (B). Former su
 
 Subsec. (h)(4)(C). Pub. L. 109–280, §1213(a)(1), (b), redesignated subpar. (B) as (C), struck out “any building, structure, or land area which” after “means” in introductory provisions, inserted “any building, structure, or land area which” before “is listed” in cl. (i), and inserted “any building which” before “is located” in cl. (ii). See Codification note above.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 109–280, §1218(a), added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p). See Codification note above.
+Subsecs. (o), (p). Pub. L. 109–280, §1218(a), added subsec. (o) and redesignated former subsec. (o) as (p). See Codification note above.
 
 <b>2005</b>—Subsec. (b)(2)(C) to (E). Pub. L. 109–135, §403(a)(16), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -1453,11 +1453,11 @@ Subsec. (g)(3). Pub. L. 108–311, §207(16), substituted “subparagraphs (A) t
 
 Subsec. (m). Pub. L. 108–357, §882(b), added subsec. (m). Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 108–357, §335(a), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 108–357, §335(a), added subsec. (n). Former subsec. (n) redesignated (o).
 
 Pub. L. 108–357, §882(b), redesignated subsec. (m) as (n). Amendment was executed before the amendment by Pub. L. 108–357, §335(a). See note below.
 
-Subsec. (<i>o</i>). Pub. L. 108–357, §335(a), redesignated subsec. (n) as (<i>o</i>).
+Subsec. (o). Pub. L. 108–357, §335(a), redesignated subsec. (n) as (o).
 
 <b>2003</b>—Subsec. (e)(6)(B)(i)(III). Pub. L. 108–81 substituted “section 213(1)(A) of the Library Services and Technology Act (20 U.S.C. 9122(1)(A))” for “section 213(2)(A) of the Library Services and Technology Act (20 U.S.C. 9122(2)(A)”.
 
@@ -1465,7 +1465,7 @@ Subsec. (<i>o</i>). Pub. L. 108–357, §335(a), redesignated subsec. (n) as (<i
 
 Subsec. (e)(6)(B)(iv). Pub. L. 107–147, §417(22), provided that the amendment made by section 165(b)(1) of the Community Renewal Tax Relief Act of 2000 \[Pub. L. 106–554, §1(a)(7)\[title I, §165(b)(1)\]\] shall be applied as if it struck “in any of the grades K–12”. See 2000 Amendment note below.
 
-<b>2001</b>—Subsec. (e)(1). Pub. L. 107–16, §§542(e)(2)(B), 901, temporarily inserted at end “For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (e)(1). Pub. L. 107–16, §542(e)(2)(B), inserted at end “For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.”
 
 <b>2000</b>—Subsec. (e)(6). Pub. L. 106–554, §1(a)(7) \[title I, §165(b)(2)\], substituted “educational purposes” for “elementary or secondary school purposes” in heading.
 
@@ -1475,7 +1475,7 @@ Subsec. (e)(6)(B)(i)(III). Pub. L. 106–554, §1(a)(7) \[title I, §165(a)(2)\]
 
 Subsec. (e)(6)(B)(ii). Pub. L. 106–554, §1(a)(7) \[title I, §165(a)(3)\], substituted “3 years” for “2 years”.
 
-Subsec. (e)(6)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title I, §165(b)(1)\], which directed the amendment of cl. (iv) bystriking “in any grades of the K–12”, was executed by striking out “in any of the grades K–12” after “educational purposes”. See 2002 Amendment note above.
+Subsec. (e)(6)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title I, §165(b)(1)\], which directed the amendment of cl. (iv) by striking “in any grades of the K–12”, was executed by striking out “in any of the grades K–12” after “educational purposes”. See 2002 Amendment note above.
 
 Subsec. (e)(6)(B)(viii). Pub. L. 106–554, §1(a)(7) \[title I, §165(d)\], added cl. (viii).
 
@@ -1539,7 +1539,7 @@ Subsec. (e)(1)(B). Pub. L. 99–514, §301(b)(2), in closing provisions, struck 
 
 Subsec. (e)(4)(B)(i). Pub. L. 99–514, §231(f), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the contribution is to an educational organization which is described in subsection (b)(1)(A)(ii) of this section and which is an institution of higher education (as defined in section 3304(f)),”.
 
-Subsecs. (k) to (m). Pub. L. 99–514, §142(d), added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+Subsecs. (k) to (m). Pub. L. 99–514, §142(d), added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
 <b>1984</b>—Subsec. (a)(3). Pub. L. 98–369, §174(b)(5)(A), substituted “section 267(b) or 707(b)” for “section 267(b)”.
 
@@ -1567,11 +1567,11 @@ Subsec. (h)(5)(B). Pub. L. 98–369, §1035(a), designated existing provisions a
 
 Subsec. (j). Pub. L. 98–369, §1031(a), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 98–369, §1031(a), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 98–369, §1031(a), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 98–369, §1032(b)(1), added par. (1) and redesignated former pars. (1) to (8) as (2) to (9), respectively.
+Subsec. (l). Pub. L. 98–369, §1032(b)(1), added par. (1) and redesignated former pars. (1) to (8) as (2) to (9), respectively.
 
-Pub. L. 98–369, §1031(a), redesignated subsec. (k) as (<i>l</i>).
+Pub. L. 98–369, §1031(a), redesignated subsec. (k) as (l).
 
 <b>1983</b>—Subsec. (h)(4)(B)(ii). Pub. L. 97–448 substituted “section 48(g)(3)(B)” for “section 191(d)(2)”.
 
@@ -1653,7 +1653,7 @@ Subsec. (j). Pub. L. 94–455, §1901(a)(28)(A)(i), redesignated subsec. (j) as 
 
 <b>1969</b>—Subsec. (a)(3). Pub. L. 91–172, §201(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 91–172, §201(a)(1)(B), (h)(1), increased the general limitation on the charitable contributions deduction for individual taxpayers from 30 percent of adjusted gross income to 50 percent of his contribution base and provided that where a taxpayer makes a contribution to a public charity of property which has appreciated in value the taxpayer could deduct such contributions of property under the 50 percent limitation if he elects to take the unrealized appreciation in value into account for the tax purposes, the unlimited charitable deduction is phased out over a 5-year period and contributions to a private operating foundation and contributions to a private nonoperating foundation distributing such contributions to publiccharities or private operating foundations within two and half months following the year of receipt are also subjected to 50 percent limitation (30 percent in the case of gifts of appreciated property), and, in par. (1)(C), inserted provisions relating to the determination of the amount of charitable contributions and taxes paid by a married individual who previously filed a joint return with a former deceased spouse.
+Subsec. (b). Pub. L. 91–172, §201(a)(1)(B), (h)(1), increased the general limitation on the charitable contributions deduction for individual taxpayers from 30 percent of adjusted gross income to 50 percent of his contribution base and provided that where a taxpayer makes a contribution to a public charity of property which has appreciated in value the taxpayer could deduct such contributions of property under the 50 percent limitation if he elects to take the unrealized appreciation in value into account for the tax purposes, the unlimited charitable deduction is phased out over a 5-year period and contributions to a private operating foundation and contributions to a private nonoperating foundation distributing such contributions to public charities or private operating foundations within two and half months following the year of receipt are also subjected to 50 percent limitation (30 percent in the case of gifts of appreciated property), and, in par. (1)(C), inserted provisions relating to the determination of the amount of charitable contributions and taxes paid by a married individual who previously filed a joint return with a former deceased spouse.
 
 Subsec. (c). Pub. L. 91–172, §201(a)(1)(B), struck out references to “Territory” in pars. (1) and (2)(A), and inserted reference to participation in or intervention in any political campaign on behalf of any candidate for public office in par. (2)(D).
 
@@ -1705,11 +1705,15 @@ Subsec. (b)(4). Pub. L. 85–866, §12, added par. (4).
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
-#### Effective and Termination Dates of 2010 Amendment
+#### Effective Date of 2013 Amendment
 
-Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+Pub. L. 112–240, title II, §206(c), Jan. 2, 2013, 126 Stat. 2324, provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2011.”
 
-Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
+Pub. L. 112–240, title III, §314(b), Jan. 2, 2013, 126 Stat. 2330, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made after December 31, 2011.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 301(a) of Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 Pub. L. 111–312, title VII, §723(c), Dec. 17, 2010, 124 Stat. 3316, provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2009.”
 
@@ -1721,7 +1725,7 @@ Pub. L. 111–312, title VII, §742(b), Dec. 17, 2010, 124 Stat. 3319, provided 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title III, §321(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made during taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, §321(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made bythis section \[amending this section\] shall apply to contributions made during taxable years beginning after December 31, 2007.”
 
 Pub. L. 110–343, div. C, title III, §323(a)(2), Oct. 3, 2008, 122 Stat. 3874, provided that: “The amendment made by this subsection \[amending this section\] shall apply to contributions made after December 31, 2007.”
 
@@ -1731,7 +1735,7 @@ Pub. L. 110–343, div. C, title III, §324(c), Oct. 3, 2008, 122 Stat. 3875, pr
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15302(b), May 22, 2008, 122 Stat. 1501, and Pub. L. 110–246, §4(a), title XV, §15302(b),June 18, 2008, 122 Stat. 1664, 2263, provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2007.”
+Pub. L. 110–234, title XV, §15302(b), May 22, 2008, 122 Stat. 1501, and Pub. L. 110–246, §4(a), title XV, §15302(b), June 18, 2008, 122 Stat. 1664, 2263, provided that: “The amendments made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2007.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -1811,17 +1815,15 @@ Pub. L. 108–357, title VIII, §882(f), Oct. 22, 2004, 118 Stat. 1631, provided
 
 Pub. L. 108–357, title VIII, §883(b), Oct. 22, 2004, 118 Stat. 1632, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made after June 3, 2004.”
 
-Pub. L. 108–357, title VIII, §884(c), Oct. 22, 2004, 118 Stat. 1634, provided that: “The amendments made by this section \[enacting section 6720 of this title andamending this section\] shall apply to contributions made after December 31, 2004.”
+Pub. L. 108–357, title VIII, §884(c), Oct. 22, 2004, 118 Stat. 1634, provided that: “The amendments made by this section \[enacting section 6720 of this title and amending this section\] shall apply to contributions made after December 31, 2004.”
 
 Amendment by section 207(15), (16) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 Pub. L. 108–311, title III, §306(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2003.”
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -1853,23 +1855,23 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 224(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title II, §224(b), Aug. 5, 1997, 111 Stat. 820, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 508(e)(2) of Pub. L. 105–34 provided that: “The amendments made by subsections (c) and (d) \[amending this section and section 2032A of this title\] shall apply to easements granted after December 31, 1997.”
+Pub. L. 105–34, title V, §508(e)(2), Aug. 5, 1997, 111 Stat. 860, provided that: “The amendments made by subsections (c) and (d) \[amending this section and section 2032A of this title\] shall apply to easements granted after December 31, 1997.”
 
-Section 602(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after May 31, 1997.”
+Pub. L. 105–34, title VI, §602(b), Aug. 5, 1997, 111 Stat. 862, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after May 31, 1997.”
 
-Section 973(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §973(b), Aug. 5, 1997, 111 Stat. 898, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1206(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made after June 30, 1996.”
+Pub. L. 104–188, title I, §1206(b), Aug. 20, 1996, 110 Stat. 1776, provided that: “The amendment made by this section \[amending this section\] shall apply to contributions made after June 30, 1996.”
 
-Section 1316(f) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 404, 512, 1042, and 1361 of this title\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 104–188, title I, §1316(f), Aug. 20, 1996, 110 Stat. 1787, provided that: “The amendments made by this section \[amending this section and sections 404, 512, 1042, and 1361 of this title\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13172(b) of Pub. L. 103–66 provided that: “The provisions of this section \[amending this section\] shall apply to contributions made on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13172(b), Aug. 10, 1993, 107 Stat. 456, provided that: “The provisions of this section \[amending this section\] shall apply to contributions made on or after January 1, 1994.”
 
 Amendment by section 13222(b) of Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 31, 1993, see section 13222(e) of Pub. L. 103–66 set out as a note under section 162 of this title.
 
@@ -1879,7 +1881,7 @@ Amendment by section 11813(b)(10) of Pub. L. 101–508 applicable to property pl
 
 #### Effective Date of 1988 Amendment
 
-Section 6001(b) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6001(b), Nov. 10, 1988, 102 Stat. 3684, provided that:
 
 “(1)
 
@@ -1891,7 +1893,7 @@ Waiver of statute of limitations.—If on the date of the enactment of this Act 
 
 #### Effective Date of 1987 Amendment
 
-Section 10711(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 501, 504, 2055, 2106, and 2522 of this title\] shall apply with respect to activities after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title X, §10711(c), Dec. 22, 1987, 101 Stat. 1330–465, provided that: “The amendments made by this section \[amending this section and sections 501, 504, 2055, 2106, and 2522 of this title\] shall apply with respect to activities after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -1907,7 +1909,7 @@ Amendment by section 1831 of Pub. L. 99–514 effective, except as otherwise pro
 
 Amendment by section 174(b)(5)(A) of Pub. L. 98–369, applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
 
-Section 301(d) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title III, §301(d), July 18, 1984, 98 Stat. 779, provided that:
 
 “(1)
 
@@ -1919,23 +1921,23 @@ and (c).—The amendments made by subsections (a) and (c) \[amending this sectio
 
 Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
-Section 492(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 341, 453B, 751, and 1252 of this title and repealing section 1251 of this title\] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title IV, §492(d), July 18, 1984, 98 Stat. 854, provided that: “The amendments made by this section \[amending this section and sections 341, 453B, 751, and 1252 of this title and repealing section 1251 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
 Amendment by section 1022(b) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, except inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, see section 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
 
-Section 1031(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, §1031(b), July 18, 1984, 98 Stat. 1033, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
-Section 1032(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 501, 2055, and 2522 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title X, §1032(c), July 18, 1984, 98 Stat. 1034, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 501, 2055, and 2522 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 1035(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title X, §1035(b), July 18, 1984, 98 Stat. 1042, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[July 18, 1984\].”
 
-#### Effective Date of 1983 Amendments
+#### Effective Date of 1983 Amendment
 
 For effective date of amendment by Pub. L. 97–473, see section 204(1) of Pub. L. 97–473, set out as an Effective Date note under section 7871 of this title.
 
 Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
-#### Effective Date of 1982 Amendments
+#### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
@@ -1943,49 +1945,49 @@ Amendment by Pub. L. 97–248 effective Oct. 5, 1976, see section 286(c) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Section 121(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 3, 57, and 63 of this title\] shall apply to contributions made after December 31, 1981, in taxable years beginning after such date.”
+Pub. L. 97–34, title I, §121(d), Aug. 13, 1981, 95 Stat. 197, provided that: “The amendments made by this section \[amending this section and sections 3, 57, and 63 of this title\] shall apply to contributions made after December 31, 1981, in taxable years beginning after such date.”
 
-Section 222(b) of Pub. L. 97–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to charitable contributions made after the date of the enactment of this Act \[Aug. 13, 1981\], in taxable years ending after such date.”
+Pub. L. 97–34, title II, §222(b), Aug. 13, 1981, 95 Stat. 248, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to charitable contributions made after the date of the enactment of this Act \[Aug. 13, 1981\], in taxable years ending after such date.”
 
-Section 263(b) of Pub. L. 97–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §263(b), Aug. 13, 1981, 95 Stat. 264, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 6(d) of Pub. L. 96–541 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to transfers made after the date of the enactment of this Act \[Dec. 17, 1980\] in taxable years ending after such date.”
+Pub. L. 96–541, §6(d), Dec. 17, 1980, 94 Stat. 3208, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to transfers made after the date of the enactment of this Act \[Dec. 17, 1980\] in taxable years ending after such date.”
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
-Section 402(c)(2) of Pub. L. 95–600 provided that: “The amendment made by subsection (b)(2) \[amending this section by substituting “40 percent” for “50 percent”\] shall apply to contributions made after October 31, 1978.”
+Pub. L. 95–600, title IV, §402(c)(2), Nov. 6, 1978, 92 Stat. 2868, provided that: “The amendment made by subsection (b)(2) \[amending this section by substituting “40 percent” for “50 percent”\] shall apply to contributions made after October 31, 1978.”
 
-Section 403(d)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) of subsection (c) \[amending this section by substituting “28/46” for “62½ percent”\] shall apply to gifts made after December 31, 1978.”
+Pub. L. 95–600, title IV, §403(d)(2), Nov. 6, 1978, 92 Stat. 2869, provided that: “The amendment made by paragraph (1) of subsection (c) \[amending this section by substituting “28/46” for “62½ percent”\] shall apply to gifts made after December 31, 1978.”
 
 #### Effective Date of 1977 Amendment
 
-Section 309(b)(1) of Pub. L. 95–30, as amended by Pub. L. 96–541, §6(c), Dec. 17, 1980, 94 Stat. 3207, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contributions or transfers made after June 13, 1977.”
+Pub. L. 95–30, title III, §309(b)(1), May 23, 1977, 91 Stat. 154, as amended by Pub. L. 96–541, §6(c), Dec. 17, 1980, 94 Stat. 3207, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to contributions or transfers made after June 13, 1977.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1052(d) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) and paragraph (1) of subsection (c) \[amending section 922 of this title\] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsection (b) \[repealing sections 921 and 922 of this title\] and by subsection (c) (other than paragraph (1)) \[amending this section and sections 172, 907, 1503, and 6091 of this title\] shall apply with respect to taxable years beginning after December 31, 1979.”
+Pub. L. 94–455, title X, §1052(d), Oct. 4, 1976, 90 Stat. 1648, provided that: “The amendments made by subsection (a) and paragraph (1) of subsection (c) \[amending section 922 of this title\] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsection (b) \[repealing sections 921 and 922 of this title\] and by subsection (c) (other than paragraph (1)) \[amending this section and sections 172, 907, 1503, and 6091 of this title\] shall apply with respect to taxable years beginning after December 31, 1979.”
 
 Amendment by section 1307 (d)(1)(B)(i), (c) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
 Amendment by section 1313(b)(1) of Pub. L. 94–455 effective Oct. 5, 1976, see section 1313(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
-Amendment by section 1901(a)(28) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(28) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2124(e)(4) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §309(b)(2), May 23, 1977, 91 Stat. 154; Pub. L. 96–541, §6(c), Dec. 17, 1980, 94 Stat. 3207, provided that: “The amendments made by this subsection \[amending this section and sections 2055 and 2522 of this title\] shall apply with respect to contributions or transfers made after June 13, 1976.”
+Pub. L. 94–455, title XXI, §2124(e)(4), Oct. 4, 1976, 90 Stat. 1920, as amended by Pub. L. 95–30, title III, §309(b)(2), May 23, 1977, 91 Stat. 154; Pub. L. 96–541, §6(c), Dec. 17, 1980, 94 Stat. 3207, provided that: “The amendments made by this subsection \[amending this section and sections 2055 and 2522 of this title\] shall apply with respect to contributions or transfers made after June 13, 1976.”
 
-Section 2135(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] applies to charitable contributions made after the date of enactment of this Act \[Oct. 4, 1976\], in taxable years ending after such date.”
+Pub. L. 94–455, title XXI, §2135(b), Oct. 4, 1976, 90 Stat. 1929, provided that: “The amendment made by this section \[amending this section\] applies to charitable contributions made after the date of enactment of this Act \[Oct. 4, 1976\], in taxable years ending after such date.”
 
 #### Effective Date of 1969 Amendment
 
 Amendment by section 101(j)(2) of Pub. L. 91–172 to take effect on Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-Section 201(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title II, §201(g), Dec. 30, 1969, 83 Stat. 564, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)(A) Except as provided in subparagraphs (B) and (C), the amendments made by subsection (a) \[amendingthis section and sections 545, 556, and 809 of this title\] shall apply to taxable years beginning after December 31, 1969.
+“(1)(A) Except as provided in subparagraphs (B) and (C), the amendments made by subsection (a) \[amending this section and sections 545, 556, and 809 of this title\] shall apply to taxable years beginning after December 31, 1969.
 
 “(B) Subsections (e) and (f)(1) of section 170 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall apply to contributions paid after December 31, 1969, except that, with respect to a letter or memorandum or similar property described in section 1221(3) of such Code (as amended by section 514 of this Act), such subsection (e) shall apply to contributions paid after July 25, 1969.
 
@@ -2023,7 +2025,7 @@ Section 201(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(6) The amendments made by subsection (f) \[amending section 1011 of this title\] shall apply with respect to sales made after December 19, 1969.”
 
-Section 201(h)(2) of Pub. L. 91–172 provided that: “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1968.”
+Pub. L. 91–172, title II, §201(h)(2), Dec. 30, 1969, 83 Stat. 565, provided that: “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1968.”
 
 #### Effective Date of 1966 Amendment
 
@@ -2031,7 +2033,7 @@ Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12,
 
 #### Effective Date of 1964 Amendment
 
-Section 209(f) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, §209(f), Feb. 26, 1964, 78 Stat. 47, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendments made by subsections (a), (b), and (c) \[amending this section and sections 545 and 556 of this title\], shall apply with respect to contributions which are paid in taxable years beginning after December 31, 1963.
 
@@ -2047,9 +2049,9 @@ Section 209(f) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Amendment by section 231(b)(1) of Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 231(c) of Pub. L. 88–272, set out as an Effective Date note under section 1250 of this title.
 
-#### Effective Date of 1962 Amendments
+#### Effective Date of 1962 Amendment
 
-Section 2(c) of Pub. L. 87–858 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1960.”
+Pub. L. 87–858, §2(c), Oct. 23, 1962, 76 Stat. 1134, provided that: “The amendments made by subsections (a)and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1960.”
 
 Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
@@ -2059,15 +2061,15 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years beginning
 
 #### Effective Date of 1958 Amendment
 
-Section 10(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §10(b), Sept. 2, 1958, 72 Stat. 1609, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
 Amendment by section 11 of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 12(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1957, but only with respect to charitable contributions made after such date.”
+Pub. L. 85–866, title I, §12(b), Sept. 2, 1958, 72 Stat. 1610, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1957, but only with respect to charitable contributions made after such date.”
 
 #### Effective Date of 1956 Amendment
 
-Section 2 of act Aug. 7, 1956, provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1955.”
+Act Aug. 7, 1956, ch. 1031, §2, 70 Stat. 1118, provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1955.”
 
 #### Savings Provision
 
@@ -2089,7 +2091,7 @@ Pub. L. 108–357, title VIII, §882(e), Oct. 22, 2004, 118 Stat. 1631, provided
 
 #### Authority To Waive Appraisal Requirement for Certain Charitable Contributions of Property
 
-Section 6281 of Pub. L. 100–647 provided that: “Notwithstanding paragraph (2) of section 155(a) of the Tax Reform Act of 1984 \[section 155(a)(2) of Pub. L. 98–369, set out below\], the Secretary of the Treasury or his delegate may in the regulations prescribed pursuant to such section waive the requirement of a qualified appraisal in the case of a qualified contribution (within the meaning of section 170(e)(3)(A) of the 1986 Code) of property described in section 1221(1) \[probably means section 1221(1) of the 1986 Code\] with a claimed value in excess of $5,000.”
+Pub. L. 100–647, title VI, §6281, Nov. 10, 1988, 102 Stat. 3755, provided that: “Notwithstanding paragraph (2) of section 155(a) of the Tax Reform Act of 1984 \[section 155(a)(2) of Pub. L. 98–369, set out below\], the Secretary of the Treasury or his delegate may in the regulations prescribed pursuant to such section waive the requirement of a qualified appraisal in the case of a qualified contribution (within the meaning of section 170(e)(3)(A) of the 1986 Code) of property described in section 1221(1) \[probably means section 1221(1) of the 1986 Code\] with a claimed value in excess of $5,000.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -2097,11 +2099,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Certain Amounts Paid to or for the Benefit of Certain Institutions of Higher Education
 
-Section 1608 of Pub. L. 99–514, which related to treatment of certain amounts paid to or for the benefit of certain institutions of higher education, was repealed by Pub. L. 100–647, title I, §1016(b), Nov. 10, 1988, 102 Stat. 3575.
+Pub. L. 99–514, title XVI, §1608, Oct. 22, 1986, 100 Stat. 2771, which related to treatment of certain amounts paid to or for the benefit of certain institutions of higher education, was repealed by Pub. L. 100–647, title I, §1016(b), Nov. 10, 1988, 102 Stat. 3575.
 
 #### Substantiation of Charitable Contributions of Property
 
-Section 155(a) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §155(a), July 18, 1984, 98 Stat. 691, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -2197,7 +2199,7 @@ For includibility of provisions comparable to section 2055(e)(3) of this title i
 
 #### Deduction of Contributions to Certain Organizations for Judicial Reform
 
-Section 29 of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 170 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to deduction for charitable, etc., contributions and gifts), a contribution or gift made after December 31, 1961, with respect to a referendum occurring during the calendar year 1962 to or for the use of any nonprofit organization created and operated exclusively—
+Pub. L. 87–834, §29, Oct. 16, 1962, 76 Stat. 1068, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 170 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to deduction for charitable, etc., contributions and gifts), a contribution or gift made after December 31, 1961, with respect to a referendum occurring during the calendar year 1962 to or for the use of any nonprofit organization created and operated exclusively—
 
 &emsp;“(1) to consider proposals for the reorganization of the judicial branch of the government of any State of the United States or political subdivision of such State, and
 

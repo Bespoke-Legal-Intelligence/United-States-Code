@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 86–66 substituted provisions making sections 869 to 869�
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–755 provided that the amendment made by Pub. L. 86–755 is effective Sept. 21, 1959.
+Pub. L. 86–755, Sept. 13, 1960, 74 Stat. 899, provided that the amendment made by Pub. L. 86–755 is effective Sept. 21, 1959.
 
 #### Short Title of 1988 Amendment
 

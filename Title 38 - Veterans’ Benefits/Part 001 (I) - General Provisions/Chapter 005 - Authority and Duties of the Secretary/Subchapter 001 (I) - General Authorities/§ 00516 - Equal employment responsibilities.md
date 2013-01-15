@@ -68,11 +68,11 @@
 
 #### Effective Date
 
-Section 101(c) of Pub. L. 105–114 provided that: “Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
+Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: “Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
 
 #### Reports on Implementation and Operation of Equal Employment Opportunity System
 
-Section 101(b) of Pub. L. 105–114 provided that:
+Pub. L. 105–114, title I, §101(b), Nov. 21, 1997, 111 Stat. 2279, provided that:
 
 “(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.
 
@@ -96,7 +96,7 @@ Section 101(b) of Pub. L. 105–114 provided that:
 
 #### Assessment and Review of Employment Discrimination Complaint Resolution System
 
-Section 103 of Pub. L. 105–114 provided that:
+Pub. L. 105–114, title I, §103, Nov. 21, 1997, 111 Stat. 2281, provided that:
 
 “(a)
 

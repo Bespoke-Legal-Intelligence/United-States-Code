@@ -40,7 +40,7 @@ Before referring any civil penalty that is subject to assessment or has been ass
 
 #### (h) Nonpayment penalty
 
-Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter duringwhich such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person's penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
+Any person who fails to pay on a timely basis a civil penalty assessed under this section shall also be liable to the United States for interest on the penalty at an annual rate equal to 11 percent compounded quarterly, attorney fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. That nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of that person's penalties and nonpayment penalties that are unpaid as of the beginning of that quarter.
 
 (Pub. L. 111–281, title X, §1042, Oct. 15, 2010, 124 Stat. 3030.)
 

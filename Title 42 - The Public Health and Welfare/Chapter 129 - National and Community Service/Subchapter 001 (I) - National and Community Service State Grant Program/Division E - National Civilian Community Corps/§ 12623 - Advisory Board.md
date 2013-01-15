@@ -48,7 +48,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is
 
 #### Codification
 
-Section was formerly classified to section 12653<i>l</i> of this title prior to renumbering by Pub. L. 103–82.
+Section was formerly classified to section 12653l of this title prior to renumbering by Pub. L. 103–82.
 
 #### Prior Provisions
 

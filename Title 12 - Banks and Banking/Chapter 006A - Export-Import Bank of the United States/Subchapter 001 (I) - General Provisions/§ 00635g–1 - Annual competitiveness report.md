@@ -50,7 +50,7 @@ Not later than June 30 of each year, the Bank shall submit to the appropriate co
 
 #### (b) Inclusion of additional comments
 
-The report required by subsection (a) shall include such additional comments as any member of the Board of Directors may submit to the Board for inclusion in the report.
+The report required by subsection (a) shall include such additional comments as any memberof the Board of Directors may submit to the Board for inclusion in the report.
 
 #### (c) Appropriate congressional committees
 

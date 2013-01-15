@@ -2,7 +2,7 @@
 
 #### (a) Composition; appointment; establishment of policies of the Foundation
 
-The Board shall consist of twenty-four members to be appointed by the President, by and with the advice and consent of the Senate, and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
+The Board shall consist of twenty-four members to be appointed by the President and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
 
 #### (b) Executive Committee; delegation of powers and functions
 
@@ -46,17 +46,19 @@ The Board is also authorized to appoint from among its members such committees a
 
 Portions of Board meetings in which the Board considers proposed Foundation budgets for a particular fiscal year may be closed to the public until the President's budget for that fiscal year has been submitted to the Congress.
 
-#### (<i>l</i>) Financial disclosure report for Board members
+#### (l) Financial disclosure report for Board members
 
 Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684; Pub. L. 111–358, title V, §504(a), (b), Jan. 4, 2011, 124 Stat. 4006.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684; Pub. L. 111–358, title V, §504(a), (b), Jan. 4, 2011, 124 Stat. 4006; Pub. L. 112–166, §2(s), Aug. 10, 2012, 126 Stat. 1288.)
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (<i>l</i>), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (l), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “appointed by the President”.
 
 <b>2011</b>—Subsec. (g). Pub. L. 111–358, §504(a), struck out “not more than 5” before “professional staff members”.
 
@@ -72,7 +74,7 @@ Subsec. (g). Pub. L. 107–368, §15(c), substituted “Such staff shall be appo
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–207, §202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (l).
 
 <b>1988</b>—Subsec. (k). Pub. L. 100–570, §108, added subsec. (k) relating to requirement of Board members to file financial disclosure report.
 
@@ -102,7 +104,7 @@ Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities” for “the Association of Land Grant Colleges and Universities, the National Association of State Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, atwhich the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
+Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities” for “the Association of Land Grant Colleges and Universities, the National Association ofState Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, at which the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substituted “term of office of each member” for “term of office of each voting member”, struck out “the terms of office of the members first taking office after May 10, 1950, shall expire, as designated by the President at the time of appointment, eight at the end of two years, eight at the end of four years, and eight at the end of six years, after May 10, 1950”, and provided for exemption of Director from prohibition against reappointment within two years following twelve consecutive years of Board membership. Former subsec. (d) redesignated (e).
 
@@ -117,6 +119,10 @@ Subsecs. (g) to (j). Pub. L. 90–407 added subsecs. (g) to (j).
 <b>1959</b>—Subsec. (d). Pub. L. 86–232 changed annual meeting of Board from first Monday in December to third Monday or other designated day in May.
 
 Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairman and Vice Chairman of the Board at first meeting of Board following enactment of Pub. L. 86–232 and at each second annual meeting thereafter in place of provision for election of the first Chairman and Vice Chairman to serve until first Monday in December next succeeding date of election and for election of subsequent officers for terms of two years thereafter.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 

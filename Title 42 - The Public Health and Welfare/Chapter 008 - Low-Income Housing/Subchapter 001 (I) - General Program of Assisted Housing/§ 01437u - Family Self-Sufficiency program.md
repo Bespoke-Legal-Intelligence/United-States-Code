@@ -8,7 +8,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (1) Required programs
 
-&emsp;Except as provided in paragraph (2), the Secretary shall carry out a program under which each public housing agency that administers assistance under subsection (b) or (<i>o</i>) of section 1437f of this title or makes available new public housing dwelling units—
+&emsp;Except as provided in paragraph (2), the Secretary shall carry out a program under which each public housing agency that administers assistance under subsection (b) or (o) of section 1437f of this title or makes available new public housing dwelling units—
 
 &emsp;&emsp;(A) may, during fiscal years 1991 and 1992, carry out a local Family Self-Sufficiency program under this section;
 
@@ -36,7 +36,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;Subject to paragraph (4), each public housing agency required to carry out a local program under this section shall make the following housing assistance available under the program in each fiscal year:
 
-&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (<i>o</i>) of this title, in an amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
+&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (o) of this title, in an amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
 
 &emsp;&emsp;(B) Public housing dwelling units, in the number equal to the increase for such year in units made available by the agency (as compared to the preceding year).
 
@@ -46,7 +46,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, a public housing agency that receives incremental assistance under subsection (b) or (<i>o</i>) of section 1437f of this title or that makes available new public housing dwelling units shall not be required, after October 21, 1998, to provide assistance under a local Family Self-Sufficiency program under this section to any families not required to be assisted under subparagraph (B) of this paragraph.
+&emsp;&emsp;Notwithstanding any other provision of law, a public housing agency that receives incremental assistance under subsection (b) or (o) of section 1437f of this title or that makes available new public housing dwelling units shall not be required, after October 21, 1998, to provide assistance under a local Family Self-Sufficiency program under this section to any families not required to be assisted under subparagraph (B) of this paragraph.
 
 #### (B) Continuation of existing obligations
 
@@ -70,7 +70,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Supportive services
 
-&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall beprovided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
+&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall be provided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
 
 &emsp;&emsp;(A) child care;
 
@@ -168,7 +168,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Performance funding system
 
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall includean estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
+&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
 
 #### (i) Public housing agency incentive award allocation
 
@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiencyprogram under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -196,7 +196,7 @@ Each public housing agency carrying out a local program may, subject to the appr
 
 In establishing and carrying out the self-sufficiency program under this section, the Secretary shall allow public housing agencies, units of general local government, and other organizations discretion and flexibility, to the extent practicable, in developing and carrying out local programs.
 
-#### (<i>l</i>) Reports
+#### (l) Reports
 
 #### (1) To Secretary
 
@@ -234,7 +234,7 @@ As used in this section:
 
 &emsp;(6) The term “vacant unit” means a dwelling unit that has been vacant for not less than 9 consecutive months.
 
-#### (<i>o</i>) Effective date and regulations
+#### (o) Effective date and regulations
 
 #### (1) Regulations
 
@@ -242,7 +242,7 @@ As used in this section:
 
 #### (2) Repealed. Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042
 
-(Sept. 1, 1937, ch. 896, title I, §23, as added Pub. L. 101–625, title V, §554(a), Nov. 28, 1990, 104 Stat. 4225; amended Pub. L. 102–550, title I, §§106, 185(b), Oct. 28, 1992, 106 Stat. 3684, 3747; Pub. L. 104–316, title I, §122(<i>l</i>), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §509(a), Oct. 21, 1998, 112 Stat. 2530; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(31), (f)(23)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433.)
+(Sept. 1, 1937, ch. 896, title I, §23, as added Pub. L. 101–625, title V, §554(a), Nov. 28, 1990, 104 Stat. 4225; amended Pub. L. 102–550, title I, §§106, 185(b), Oct. 28, 1992, 106 Stat. 3684, 3747; Pub. L. 104–316, title I, §122(l), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §509(a), Oct. 21, 1998, 112 Stat. 2530; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(31), (f)(23)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433.)
 
 #### References in Text
 
@@ -300,7 +300,7 @@ Timing.—The Comptroller General shall submit the following reports under this 
 
 &emsp;“(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990.”
 
-Subsec. (<i>o</i>)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
+Subsec. (o)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
 
 <b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
@@ -332,7 +332,7 @@ Subsec. (h)(2). Pub. L. 102–550, §106(a), amended last sentence generally. Pr
 
 Subsec. (n)(3) to (6). Pub. L. 102–550, §106(i), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and added par. (6).
 
-Subsec. (<i>o</i>)(2). Pub. L. 102–550, §106(j), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
+Subsec. (o)(2). Pub. L. 102–550, §106(j), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
 
 Applicability to indian public housing.—In accordance with section 1437aa(b)(2) of this title, the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs
 
-Section 554(b) of Pub. L. 101–625 directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
+Pub. L. 101–625, title V, §554(b), Nov. 28, 1990, 104 Stat. 4231, directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

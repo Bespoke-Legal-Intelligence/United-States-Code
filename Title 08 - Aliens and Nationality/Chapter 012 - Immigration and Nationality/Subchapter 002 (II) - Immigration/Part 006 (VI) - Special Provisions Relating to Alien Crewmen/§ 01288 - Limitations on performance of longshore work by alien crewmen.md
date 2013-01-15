@@ -196,7 +196,7 @@ Section applicable to services performed on or after 180 days after Nov. 29, 199
 
 #### Regulations
 
-Section 323(c) of Pub. L. 103–206 provided that:
+Pub. L. 103–206, title III, §323(c), Dec. 20, 1993, 107 Stat. 2430, provided that:
 
 “(1) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this section \[amending this section\].
 
@@ -210,7 +210,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Inapplicability of Amendment by Pub. L. 101–649
 
-Section 203(a)(2) of Pub. L. 101–649 provided that: “This section \[enacting this section, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
+Pub. L. 101–649, title II, §203(a)(2), Nov. 29, 1990, 104 Stat. 5018, provided that: “This section \[enacting this section, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
 
 <i><sup>1</sup></i><i> So in original. The word “at” probably should not appear.</i>
 

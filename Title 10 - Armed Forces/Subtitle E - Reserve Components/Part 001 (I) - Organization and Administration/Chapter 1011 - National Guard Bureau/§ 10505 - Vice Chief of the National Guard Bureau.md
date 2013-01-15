@@ -40,7 +40,7 @@ Grade and Exclusion From General and Flag Officer Authorized Strength.—(1) The
 
 Subsec. (a)(1). Pub. L. 112–81, §511(b)(1), substituted “Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from” for “Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from” in introductory provisions.
 
-Subsec. (a)(1)(B) to (E). Pub. L. 112–81, §511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted “brigadier general” for “colonel” in supar. (E).
+Subsec. (a)(1)(B) to (E). Pub. L. 112–81, §511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted “brigadier general” for “colonel” in subpar. (E).
 
 Subsec. (a)(2) to (4). Pub. L. 112–81, §511(c)(1)(A), substituted “Vice Chief” for “Director of the Joint Staff” wherever appearing and substituted “as the Vice Chief” for “as the Director” in par. (3)(B).
 

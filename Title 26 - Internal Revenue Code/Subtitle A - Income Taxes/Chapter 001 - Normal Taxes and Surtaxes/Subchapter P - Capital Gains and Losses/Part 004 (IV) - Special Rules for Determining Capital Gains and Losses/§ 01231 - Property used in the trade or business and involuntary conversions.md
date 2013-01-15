@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) cattle and horses, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him for 24 months or more from the date of acquisition, and
 
-&emsp;&emsp;(B) other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, or sporting purposes, and held by him for 12 months or more from the date of acquisition.
+&emsp;&emsp;(B) other livestock, regardless of age, held by the taxpayer for draft, breeding, dairy, orsporting purposes, and held by him for 12 months or more from the date of acquisition.
 
 > &emsp;Such term does not include poultry.
 
@@ -180,9 +180,9 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1984 Amendment
 
-Section 176(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to net section 1231 gains for taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §176(b), July 18, 1984, 98 Stat. 709, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to net section 1231 gains for taxable years beginning after December 31, 1984.”
 
-Amendment by section 711(c)(2)(A)(iii) of Pub. L. 98–369 applicable to taxable years beginning after Dec.31, 1983, see section 711(c)(2)(A)(v) of Pub. L. 98–369, set out as a note under section 165 of this title.
+Amendment by section 711(c)(2)(A)(iii) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 711(c)(2)(A)(v) of Pub. L. 98–369, set out as a note under section 165 of this title.
 
 Amendment by section 1001(b)(15) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
@@ -192,17 +192,17 @@ Amendment by Pub. L. 97–34 applicable to property acquired and positions estab
 
 #### Effective Date of 1978 Amendment
 
-Section 701(ee)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to sales, exchanges, and contributions made after October 4, 1976.”
+Pub. L. 95–600, title VII, §701(ee)(2), Nov. 6, 1978, 92 Stat. 2924, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to sales, exchanges, and contributions made after October 4, 1976.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 #### Effective Date of 1969 Amendment
 
-Section 212(b)(2) of Pub. L. 91–172 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to livestock acquired after December 31, 1969.”
+Pub. L. 91–172, title II, §212(b)(2), Dec. 30, 1969, 83 Stat. 571, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to livestock acquired after December 31, 1969.”
 
 Amendment by section 514(b)(2) of Pub. L. 91–172 applicable to sales and other dispositions occurring after July 25, 1969, see section 514(c) of Pub. L. 91–172, set out as a note under section 1221 of this title.
 
@@ -214,5 +214,5 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Effective Date of 1958 Amendment
 
-Section 49(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §49(b), Sept. 2, 1958, 72 Stat. 1642, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1957.”
 

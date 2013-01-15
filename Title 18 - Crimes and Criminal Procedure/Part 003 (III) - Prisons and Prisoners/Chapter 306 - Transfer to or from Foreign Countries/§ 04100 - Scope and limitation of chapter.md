@@ -16,7 +16,7 @@
 
 #### Authorization of Appropriations
 
-Section 5(a) of Pub. L. 95–144 provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
+Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
 
 #### Prisoner Transfer Treaties
 
@@ -50,7 +50,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;&emsp;“(C) to eliminate any requirement of prisoner consent to such a transfer, and
 
-&emsp;&emsp;“(D) to allow the Federal Government or the States to keep their original prison sentences in force so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned to custody for the balance of their prisons \[sic\] sentences;
+&emsp;&emsp;“(D) to allow the Federal Government or the States to keep their original prison sentences in force so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned tocustody for the balance of their prisons \[sic\] sentences;
 
 &emsp;“(2) the Secretary of State should give priority to concluding an agreement with any country for which the President determines that the number of aliens described in subsection (a) who are nationals of that country in the United States represents a significant percentage of all such aliens in the United States; and
 

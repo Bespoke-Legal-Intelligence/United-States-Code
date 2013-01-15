@@ -8,7 +8,7 @@
 
 (3) In the case of defense personnel of a developing country that is not a member of the North Atlantic Treaty Organization and that is participating in the Partnership for Peace program of the North Atlantic Treaty Organization (NATO), expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the territory of any of the countries participating in the Partnership for Peace program or the territory of any NATO member country.
 
-(4) Expenses authorized to be paid under subsection (a) may not, in the case of any individual, exceed the amount that would be paid under chapter 7 of title 37 to a member of the armed forces of the United States (of a comparable grade) for authorized travel of a similar nature.
+(4) Expenses authorized to be paid under subsection (a) may not, in the case of any individual, exceed the amount that would be paid under chapter 7 of title 37 to a member of the armedforces of the United States (of a comparable grade) for authorized travel of a similar nature.
 
 (c) In addition to the expenses authorized to be paid under subsection (a), the Secretary of Defense may pay such other expenses in connection with any such conference, seminar, or similar meeting as the Secretary considers in the national security interests of the United States.
 
@@ -26,7 +26,7 @@ Another section 1051 was renumbered section 1032 of this title.
 
 <b>2008</b>—Pub. L. 110–417, in section catchline substituted “Multilateral, bilateral, or regional” for “Bilateral or regional”, in subsec. (a) substituted “a multilateral, bilateral,” for “a bilateral”, in subsec. (b)(1) substituted “to, from, and” for “to and” and “multilateral, bilateral,” for “bilateral”, in subsec. (b)(2) substituted “multilateral, bilateral,” for “bilateral”, and added subsec. (e).
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “inwhich the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–314, §1202(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 

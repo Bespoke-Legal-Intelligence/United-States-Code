@@ -2,51 +2,61 @@
 
 As used in this subchapter—
 
-&emsp;(1) “catastrophic injury” means consequences of an injury that permanently prevent an individual from performing any gainful work;
+&emsp;(1) “catastrophic injury” means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;
 
 &emsp;(2) “chaplain” includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
 
-&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased public safety officer who, at the time of the public safety officer's death, is—
+&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased or permanently and totally disabled public safety officer who, at the time of the public safety officer's fatal or catastrophic injury, is—
 
-&emsp;&emsp;(i) 18 years of age or under;
+&emsp;&emsp;(A) 18 years of age or under;
 
-&emsp;&emsp;(ii) over 18 years of age and a student as defined in section 8101 of title 5; or
+&emsp;&emsp;(B) over 18 years of age and a student as defined in section 8101 of title 5; or
 
-&emsp;&emsp;(iii) over 18 years of age and incapable of self-support because of physical or mental disability;
+&emsp;&emsp;(C) over 18 years of age and incapable of self-support because of physical or mental disability;
 
 &emsp;(4) “firefighter” includes an individual serving as an officially recognized or designated member of a legally organized volunteer fire department;
 
 &emsp;(5) “intoxication” means a disturbance of mental or physical faculties resulting from the introduction of alcohol into the body as evidenced by—
 
-&emsp;&emsp;(i) a post-mortem blood alcohol level of .20 per centum or greater; or
+&emsp;&emsp;(A) a post-injury blood alcohol level of .20 per centum or greater; or
 
-&emsp;&emsp;(ii) a post-mortem blood alcohol level of at least .10 per centum but less than .20 per centum unless the Bureau receives convincing evidence that the public safety officer was not acting in an intoxicated manner immediately prior to his death;
+&emsp;&emsp;(B) a post-injury blood alcohol level of at least .10 per centum but less than .20 per centum unless the Bureau receives convincing evidence that the public safety officer was not acting in an intoxicated manner immediately prior to his fatal or catastrophic injury;
 
 > &emsp;or resulting from drugs or other substances in the body;
 
 &emsp;(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency).,<sup>1</sup> including, but not limited to, police, corrections, probation, parole, and judicial officers;
 
-&emsp;(7) “member of a rescue squad or ambulance crew” means an officially recognized or designated public employee member of a rescue squad or ambulance crew;
+&emsp;(7) “member of a rescue squad or ambulance crew” means an officially recognized or designated employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—
+
+&emsp;&emsp;(A) is a public agency; or
+
+&emsp;&emsp;(B) is (or is a part of) a nonprofit entity serving the public that—
+
+&emsp;&emsp;&emsp;(i) is officially authorized or licensed to engage in rescue activity or to provide emergency medical services; and
+
+&emsp;&emsp;&emsp;(ii) engages in rescue activities or provides emergency medical services as part of an official emergency response system;
 
 &emsp;(8) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing; and
 
 &emsp;(9) “public safety officer” means—
 
-&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, as a chaplain, or as a member of a rescue squad or ambulance crew;
+&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain;
 
 &emsp;&emsp;(B) an employee of the Federal Emergency Management Agency who is performing official duties of the Agency in an area, if those official duties—
 
 &emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
-&emsp;&emsp;&emsp;(ii) are determined by the Administrator of the Federal Emergency Management Agency to be hazardous duties; or
+&emsp;&emsp;&emsp;(ii) are determined by the Administrator of the Federal Emergency Management Agency to be hazardous duties;
 
 &emsp;&emsp;(C) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
 
 &emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
-&emsp;&emsp;&emsp;(ii) are determined by the head of the agency to be hazardous duties.
+&emsp;&emsp;&emsp;(ii) are determined by the head of the agency to be hazardous duties; or
 
-(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+&emsp;&emsp;(D) a member of a rescue squad or ambulance crew who, as authorized or licensed bylaw and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services.
+
+(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967.)
 
 #### References in Text
 
@@ -65,6 +75,20 @@ Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 3796c of this title.
 
 #### Amendments
+
+<b>2013</b>—Par. (1). Pub. L. 112–239, §1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
+
+Par. (3). Pub. L. 112–239, §1086(b)(1)(E)(ii), inserted “or permanently and totally disabled” after “deceased” and substituted “fatal or catastrophic injury” for “death” in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+
+Par. (5). Pub. L. 112–239, §1086(b)(1)(E)(iii)(II), (III), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and, in subpar. (B), substituted “fatal or catastrophic injury” for “death”.
+
+Pub. L. 112–239, §1086(b)(1)(E)(iii)(I), substituted “post-injury” for “post-mortem” in cls. (i) and (ii).
+
+Par. (7). Pub. L. 112–239, §1086(b)(1)(E)(iv), substituted “employee or volunteer member of a rescue squad or ambulance crew (including a ground or air ambulance service) that—” for “public employee member of a rescue squad or ambulance crew;” and added subpars. (A) and (B).
+
+Par. (9)(A). Pub. L. 112–239, §1086(b)(1)(E)(v)(I), substituted “or as a chaplain;” for “as a chaplain, or as a member of a rescue squad or ambulance crew;”.
+
+Par. (9)(D). Pub. L. 112–239, §1086(b)(1)(E)(v)(II)–(IV), added subpar. (D).
 
 <b>2006</b>—Par. (4). Pub. L. 109–162, §1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
 
@@ -95,6 +119,10 @@ Pars. (3) to (7). Pub. L. 101–647, §1301(c)(1), redesignated pars. (2) to (6)
 #### Change of Name
 
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (9)(B)(ii) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of this title.
 
 #### Effective Date of 2002 Amendment
 

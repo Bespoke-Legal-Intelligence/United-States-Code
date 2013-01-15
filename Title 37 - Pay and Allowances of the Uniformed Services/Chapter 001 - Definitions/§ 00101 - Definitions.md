@@ -80,7 +80,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(B) special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
 
-> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in section 206(d)(2) of thistitle) does not include work or study in connection with a correspondence course of a uniformed service.
+> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in section 206(d)(2) of this title) does not include work or study in connection with a correspondence course of a uniformed service.
 
 &emsp;(23) The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
 
@@ -316,7 +316,7 @@ Pub. L. 97–60, §1, Oct. 14, 1981, 95 Stat. 989, provided: “That this Act \[
 
 #### Short Title of 1980 Amendments
 
-Section 1 of Pub. L. 96–579 provided that: “This Act \[enacting sections 301c and 314 of this title and section 705 of Title 10, Armed Forces, amending this section, sections 209, 301, 305a, 308, 312, 312b, 312c, and 403 of this title, sections 520, 701, 867, 4355, 6968, and 9355 of Title 10, and section 308(9), (10) of Pub. L. 95–521, title III, Oct. 26, 1978, 92 Stat. 1861, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 301c, 305a, 312, 312b, 312c, 314, and 403 of this title and sections 705 and 867 of Title 10\] may be cited as the ‘Military Pay and Allowances Benefits Act of 1980’.”
+Pub. L. 96–579, §1, Dec. 23, 1980, 94 Stat. 3359, provided that: “This Act \[enacting sections 301c and 314 of this title and section 705 of Title 10, Armed Forces, amending this section, sections 209, 301, 305a, 308, 312, 312b, 312c, and 403 of this title, sections 520, 701, 867, 4355, 6968, and 9355 of Title 10, and section 308(9), (10) of Pub. L. 95–521, title III, Oct. 26, 1978, 92 Stat. 1861, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 301c, 305a, 312, 312b, 312c, 314, and 403 of this title and sections 705 and 867 of Title 10\] may be cited as the ‘Military Pay and Allowances Benefits Act of 1980’.”
 
 Pub. L. 96–343, §1, Sept. 8, 1980, 94 Stat. 1123, provided that: “This Act \[enacting section 5142a of Title 10, Armed Forces, amending sections 203, 301, 301a, 305a, 403, 404, 411, 907, and 1006 of this title and sections 1201, 1203, 3914, 3925, 3962, 5142, 5703, 5787c, 5787d, 8072, 8914, 8925, and 8962 of Title 10, enacting provisions set out as notes under sections 301, 305a, 402, 403, 404, and 907 of this title and sections 3914 and 3962 of Title 10, and amending provisions set out as notes under sections 5707 and 8202 of Title 10\] may be cited as the ‘Military Personnel and Compensation Amendments of 1980’.”
 
@@ -330,11 +330,11 @@ Pub. L. 94–356, §1, July 12, 1976, 90 Stat. 901, provided: “That this Act \
 
 Pub. L. 93–294, §1, May 31, 1974, 88 Stat. 177, provided: “That this Act \[amending section 301 of this title, enacting section 301a of this title, and enacting provisions set out as notes under section 301a of this title\] may be cited as the ‘Aviation Career Incentive Act of 1974’.”
 
-Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[amending sections 308 and 308a of this title and enacting provisions set out as notes under section 308 of this title\] may be cited as the ‘Armed Forces Enlisted Personnel Bonus Revision Act of 1974’.”
+Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[amending sections 308 and 308a of thistitle and enacting provisions set out as notes under section 308 of this title\] may be cited as the ‘Armed Forces Enlisted Personnel Bonus Revision Act of 1974’.”
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 ofthis title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
 #### Transfer of Functions
 

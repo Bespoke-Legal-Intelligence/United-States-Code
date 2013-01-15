@@ -8,7 +8,7 @@ Claimant Responsibility.—Except as otherwise provided by law, a claimant has t
 
 Benefit of the Doubt.—The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
 
-(Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4106, §3007; renumbered§5107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828; Pub. L. 106–475, §4, Nov. 9, 2000, 114 Stat. 2098.)
+(Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4106, §3007; renumbered §5107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828; Pub. L. 106–475, §4, Nov. 9, 2000, 114 Stat. 2098.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ In General.—Except as specifically provided otherwise, the provisions of secti
 
 “(b)
 
-Rule for Claims the Denial of Which Became Final After the Court of Appeals for Veterans Claims Decision in the Morton Case.—(1) In the case of a claim for benefits denied or dismissed as described in paragraph (2), the Secretary of Veterans Affairs shall, upon the request of the claimant or on the Secretary's own motion, order the claim readjudicated under chapter 51 of such title, as amended by this Act, as if the denial or dismissal had not been made.
+Rule for Claims the Denial of Which Became Final After the Court of Appeals for VeteransClaims Decision in the Morton Case.—(1) In the case of a claim for benefits denied or dismissed as described in paragraph (2), the Secretary of Veterans Affairs shall, upon the request of the claimant or on the Secretary's own motion, order the claim readjudicated under chapter 51 of such title, as amended by this Act, as if the denial or dismissal had not been made.
 
 “(2) A denial or dismissal described in this paragraph is a denial or dismissal of a claim for a benefit under the laws administered by the Secretary of Veterans Affairs that—
 

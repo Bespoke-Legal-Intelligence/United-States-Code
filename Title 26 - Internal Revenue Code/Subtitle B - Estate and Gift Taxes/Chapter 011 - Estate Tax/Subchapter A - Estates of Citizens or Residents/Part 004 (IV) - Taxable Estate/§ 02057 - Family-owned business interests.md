@@ -182,7 +182,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 &emsp;&emsp;The amount of the additional estate tax imposed by paragraph (1) shall be equal to—
 
-&emsp;&emsp;&emsp;(i) the applicable percentage of the adjusted tax difference attributable to thequalified family-owned business interest, plus
+&emsp;&emsp;&emsp;(i) the applicable percentage of the adjusted tax difference attributable to the qualified family-owned business interest, plus
 
 &emsp;&emsp;&emsp;(ii) interest on the amount determined under clause (i) at the underpayment rate established under section 6621 for the period beginning on the date the estate tax liability was due under this chapter and ending on the date such additional estate tax is due.
 
@@ -316,10 +316,6 @@ This section shall not apply to the estates of decedents dying after December 31
 
 (Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Section 877(e)(1), referred to in subsec. (f)(1)(C), was amended generally by Pub. L. 110–245, title III, §301(c)(2)(A), June 17, 2008, 122 Stat. 1646, and, as so amended, no longer contains subparagraphs.
@@ -328,13 +324,13 @@ Section 877(e)(1), referred to in subsec. (f)(1)(C), was amended generally by Pu
 
 A prior section 2057, added Pub. L. 99–514, title XI, §1172(a), Oct. 22, 1986, 100 Stat. 2513; amended Pub. L. 100–203, title X, §§10411(a), 10412(a), Dec. 22, 1987, 101 Stat. 1330–432, 1330–433; Pub. L. 100–647, title I, §1011B(g)(3), Nov. 10, 1988, 102 Stat. 3490, related to sales of employer securities to employee stock ownership plans or worker-owned cooperatives, prior to repeal by Pub. L. 101–239, title VII, §7304(a)(1), (3), Dec. 19, 1989, 103 Stat. 2352, 2353, applicable to estates of decedents dying after Dec. 19, 1989.
 
-Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, §702(<i>l</i>)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, §427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
+Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, §702(l)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, §427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (d)(2)(B). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-<b>2001</b>—Subsec. (j). Pub. L. 107–16, §§521(d), 901, temporarily added subsec. (j). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (j). Pub. L. 107–16 added subsec. (j).
 
 <b>1998</b>—Pub. L. 105–206, §6007(b)(1)(A), (B), renumbered section 2033A of this title as this section and substituted “interests” for “exclusion” in section catchline.
 
@@ -382,11 +378,9 @@ Subsec. (i)(3)(L) to (P). Pub. L. 105–206, §6007(b)(7), added subpars. (L) an
 
 Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -394,7 +388,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 502(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to estates of decedents dying after December 31, 1997.”
+Pub. L. 105–34, title V, §502(c), Aug. 5, 1997, 111 Stat. 852, provided that: “The amendments made by this section \[enacting this section\] shall apply to estates of decedents dying after December 31, 1997.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

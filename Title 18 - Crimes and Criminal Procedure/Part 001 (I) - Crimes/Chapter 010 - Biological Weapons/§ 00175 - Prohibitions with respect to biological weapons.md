@@ -28,11 +28,11 @@ Subsec. (c). Pub. L. 107–56, §817(1)(B), redesignated subsec. (b) as (c).
 
 #### Short Title
 
-Section 1 of Pub. L. 101–298 provided that: “This Act \[enacting this chapter and amending section 2516 of this title\] may be cited as the ‘Biological Weapons Anti-Terrorism Act of 1989’.”
+Pub. L. 101–298, §1, May 22, 1990, 104 Stat. 201, provided that: “This Act \[enacting this chapter and amending section 2516 of this title\] may be cited as the ‘Biological Weapons Anti-Terrorism Act of 1989’.”
 
 #### Purpose and Intent
 
-Section 2 of Pub. L. 101–298 provided that:
+Pub. L. 101–298, §2, May 22, 1990, 104 Stat. 201, provided that:
 
 “(a)
 

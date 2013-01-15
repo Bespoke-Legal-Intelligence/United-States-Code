@@ -42,9 +42,9 @@ Equipment Development.—Amtrak shall develop economical and reliable equipment 
 
 Agreements for Off-Corridor Routing of Rail Freight Transportation.—(1) Amtrak may make an agreement with a rail freight carrier or a regional transportation authority under which the carrier will carry out an alternate off-corridor routing of rail freight transportation over rail lines in the Northeast Corridor between the District of Columbia and New York metropolitan areas, including intermediate points. The agreement shall be for at least 5 years.
 
-(2) Amtrak shall apply to the Interstate Commerce Commission for approval of the agreement and all related agreements accompanying the application as soon as the agreement is made. If the Commission finds that approval is necessary to carry out this chapter, the Commission shall approve the application and related agreements not later than 90 days after receiving the application.
+(2) Amtrak shall apply to the Surface Transportation Board for approval of the agreement and all related agreements accompanying the application as soon as the agreement is made. If the Board finds that approval is necessary to carry out this chapter, the Board shall approve the application and related agreements not later than 90 days after receiving the application.
 
-(3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Interstate Commerce Commission. Not later than 90 days after the application, the Commission shall decide on the terms of an agreement if it decides that doing so is necessary to carry out this chapter. The decision of the Commission is binding on the other parties.
+(3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Surface Transportation Board. Not later than 90 days after the application, the Board shall decide on the terms of an agreement if it decides that doing so is necessary to carry out this chapter. The decision of the Board is binding on the other parties.
 
 (h)
 
@@ -64,7 +64,7 @@ Completion.—Amtrak shall give the highest priority to completing the program.
 
 Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1),Dec. 2, 1997, 111 Stat. 2586; Pub. L. 112–141, div. C, title II, §32932(c)(3), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -266,13 +266,15 @@ Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 19
 
 #### Amendments
 
+<b>2012</b>—Subsec. (g)(2), (3). Pub. L. 112–141 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission” wherever appearing.
+
 <b>1997</b>—Pub. L. 105–134 redesignated subsec. (b) as (a) and subsecs. (e) to (m) as (b) to (j), respectively, in subsec. (j) struck out “(m)” after “This subsection”, and struck out former subsecs. (a), (c), and (d) which related to Northeast Corridor improvement plan, cost sharing for nonoperational facilities, and passenger radio mobile telephone service, respectively.
 
 <b>1996</b>—Subsec. (m). Pub. L. 104–205 added subsec. (m).
 
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
+#### Effective Date of 2012 Amendment
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Northeast Corridor State-of-Good-Repair Plan
 

@@ -46,7 +46,7 @@ Amendment by section 308(b)(2), (3)(C), (c)(2)(A), (d)(4)(H) of Pub. L. 104–20
 
 #### Effective Date of 1988 Amendment
 
-Section 4(c) of Pub. L. 100–525 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 1223, 1227, and 1356 of this title and enacting provisions set out as a note under section 1356 of this title\] shall be effective as if they were included in the enactment of the Department of Justice Appropriation Act, 1987 (as contained in section 101(b) of Public Law 99–500).”
+Pub. L. 100–525, §4(c), Oct. 24, 1988, 102 Stat. 2615, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 1223, 1227, and 1356 of this title and enacting provisions set out as a note under section 1356 of this title\] shall be effective as if they were included in the enactment of the Department of Justice Appropriation Act, 1987 (as contained in section 101(b) of Public Law 99–500).”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

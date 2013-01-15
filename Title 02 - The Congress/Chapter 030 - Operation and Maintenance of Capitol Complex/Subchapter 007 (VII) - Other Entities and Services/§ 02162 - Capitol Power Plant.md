@@ -22,7 +22,7 @@ The Architect of the Capitol shall conduct a feasibility study evaluating the av
 
 #### (1) In general
 
-&emsp;If the feasibility study determines that a demonstration project to capture and store or use Capitol Power Plant carbon dioxide emissions is technologically feasible and economically justified (including direct and indirect economic and environmental benefits), the Architect of the Capitol may conduct 1 or more demonstration projects to capture and store or use carbon dioxide emitted from the Capitol Power Plant as a result of burning fossil fuels.
+&emsp;If the feasibility study determines that a demonstration project to capture and store oruse Capitol Power Plant carbon dioxide emissions is technologically feasible and economically justified (including direct and indirect economic and environmental benefits), the Architect of the Capitol may conduct 1 or more demonstration projects to capture and store or use carbon dioxide emitted from the Capitol Power Plant as a result of burning fossil fuels.
 
 #### (2) Factors for consideration
 
@@ -72,7 +72,7 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of this title.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of this title.
 
 #### Management and Operation of the Capitol Power Plant
 

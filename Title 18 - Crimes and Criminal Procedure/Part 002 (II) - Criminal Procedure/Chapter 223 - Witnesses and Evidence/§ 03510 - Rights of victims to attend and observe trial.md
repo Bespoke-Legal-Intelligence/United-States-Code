@@ -20,5 +20,5 @@ Section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990, referred
 
 #### Effective Date
 
-Section 2(d) of Pub. L. 105–6 provided that: “The amendments made by this section \[enacting this section and amending section 3593 of this title\] shall apply in cases pending on the date of the enactment of this Act \[Mar. 19, 1997\].”
+Pub. L. 105–6, §2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The amendments made by this section \[enacting this section and amending section 3593 of this title\] shall apply in cases pending on the date of the enactment of this Act \[Mar. 19, 1997\].”
 

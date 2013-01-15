@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
-> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall betreated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -154,7 +154,7 @@ In subsection (a)(1)(A), the words “the armed forces” are substituted for cl
 
 In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
 
-In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
+In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
 In subsection (a)(2)(A), the words “service that conformed to required standards and qualifications” are substituted for 10:1036e(b) and 34:440m(b). In clause (a)(2)(A), 10:1036e(d) and 34:440m(d), which make it clear that “active Federal service”, in the sense in which that term is used in 10:1036a–e and 34:440i–m, includes annual training duty and attendance at service schools, are omitted as covered by sections 101(22) and 101(24) of this title.
 
@@ -162,7 +162,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words “other than active Federal service” are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been usedand authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 
@@ -174,7 +174,7 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–636 provided that: “The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department.”
+Pub. L. 88–636, §2, Oct. 8, 1964, 78 Stat. 1034, provided that: “The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department.”
 
 #### Effective Date of 1958 Amendment
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub
 
 #### Savings Provision
 
-Section 3 of Pub. L. 86–197 provided that: “This Act \[amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title\] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act \[Aug. 25, 1959\].”
+Pub. L. 86–197, §3, Aug. 25, 1959, 73 Stat. 426, provided that: “This Act \[amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title\] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act \[Aug. 25, 1959\].”
 
 #### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
 
@@ -228,7 +228,7 @@ Section 531(b), (c) of Pub. L. 104–201 provided that:
 
 “(b)
 
-Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readinessof the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
+Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
 
 “(c)
 
@@ -254,7 +254,7 @@ Sec. 3. Additional pay accruing to any person by virtue of increased creditable 
 
 #### Additional Clerical Service Creditable Under This Chapter
 
-Section 15 of Pub. L. 85–861 provided that:
+Pub. L. 85–861, §15, Sept. 2, 1958, 72 Stat. 1558, provided that:
 
 “(a) Notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a person is entitled to count his service as an Army field clerk or as a field clerk, Quartermaster Corps, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.
 

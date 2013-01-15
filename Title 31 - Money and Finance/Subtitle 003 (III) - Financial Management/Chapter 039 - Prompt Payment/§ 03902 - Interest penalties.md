@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 100–496, §3(c), added subsec. (h).
 
 #### Effective Date of 1988 Amendment
 
-Section 14(a)–(c) of Pub. L. 100–496 provided that:
+Pub. L. 100–496, §14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provided that:
 
 “(a) The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act \[enacting section 3905 of this title, amending this section, sections 3901, 3903, and 3904 of this title and section 644 of Title 15, Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under section 3903 of this title\] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 17, 1988\].
 
@@ -140,7 +140,7 @@ Section 14(a)–(c) of Pub. L. 100–496 provided that:
 
 #### Payment of Interest Penalties by Department of Defense
 
-Pub. L. 107–117, div. A, title VIII, §8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31 U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
+Pub. L. 107–117, div. A, title VIII, §8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31 U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation ofthe military department or defense agency with which the invoice or contract payment is associated.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

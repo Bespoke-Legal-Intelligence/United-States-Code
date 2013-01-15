@@ -24,7 +24,7 @@ Pub. L. 99–661, §3138(b)(1), inserted at end “The authority to enter into a
 
 #### Effective Date of 1986 Amendment
 
-Section 3138(b)(2) of Pub. L. 99–661 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply with respect to a contract with the county of Los Alamos, New Mexico, to the extent that it covers the period before July 1, 1987.”
+Pub. L. 99–661, div. C, title I, §3138(b)(2), Nov. 14, 1986, 100 Stat. 4066, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply with respect to a contract with the county of Los Alamos, New Mexico, to the extent that it covers the period before July 1, 1987.”
 
 #### Transfer of Functions
 

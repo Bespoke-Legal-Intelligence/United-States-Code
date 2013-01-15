@@ -18,7 +18,7 @@
 
 (3) Any owner which brings into use an underground storage tank after the initial notification period specified under paragraph (1), shall notify the designated State or local agency or department within thirty days of the existence of such tank, specifying the age, size, type, location and uses of such tank.
 
-(4) Paragraphs (1) through (3) of this subsection shall not apply to tanks for which noticewas given pursuant to section 9603(c) of this title.
+(4) Paragraphs (1) through (3) of this subsection shall not apply to tanks for which notice was given pursuant to section 9603(c) of this title.
 
 (5) Beginning thirty days after the Administrator prescribes the form of notice pursuant to subsection (b)(2) of this section and for eighteen months thereafter, any person who deposits regulated substances in an underground storage tank shall reasonably notify the owner or operator of such tank of the owner's notification requirements pursuant to this subsection.
 
@@ -32,7 +32,7 @@
 
 #### (c) State inventories
 
-Each State shall make 2 separate inventories of all underground storage tanks in such State containing regulated substances. One inventory shall be made with respect to petroleum and one with respect to other regulated substances. In making such inventories, the State shall utilize and aggregate the data in the notification forms submitted pursuant to subsections (a) and (b) of this section. Each State shall submit such aggregated data to the Administrator not later than 270 days after October 17, 1986.
+Each State shall make 2 separate inventories of all underground storage tanks in such Statecontaining regulated substances. One inventory shall be made with respect to petroleum and one with respect to other regulated substances. In making such inventories, the State shall utilize and aggregate the data in the notification forms submitted pursuant to subsections (a) and (b) of this section. Each State shall submit such aggregated data to the Administrator not later than 270 days after October 17, 1986.
 
 #### (d) Public record
 

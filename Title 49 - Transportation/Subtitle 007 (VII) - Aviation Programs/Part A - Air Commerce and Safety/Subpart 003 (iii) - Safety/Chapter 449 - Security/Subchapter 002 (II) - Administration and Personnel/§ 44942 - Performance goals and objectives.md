@@ -10,7 +10,7 @@ In general.—Within 180 days after the date of enactment of the Aviation and Tr
 
 &emsp;&emsp;(A) establish acceptable levels of performance for aviation security, including screening operations and access control, and
 
-&emsp;&emsp;(B) provide Congress with an action plan, containing measurable goals and milestones, that outlines how those levels of performance will be achieved.
+&emsp;&emsp;(B) provide Congress with an action plan, containing measurable goals and milestones,that outlines how those levels of performance will be achieved.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b)(1
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

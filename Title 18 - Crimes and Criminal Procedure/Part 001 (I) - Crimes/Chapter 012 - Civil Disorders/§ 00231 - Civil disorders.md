@@ -18,5 +18,5 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 #### Short Title
 
-Section 1001 of title X of Pub. L. 90–284 provided that: “This title \[enacting this chapter\] may be cited as the ‘Civil Obedience Act of 1968’.”
+Pub. L. 90–284, title X, §1001, Apr. 11, 1968, 82 Stat. 90, provided that: “This title \[enacting this chapter\] may be cited as the ‘Civil Obedience Act of 1968’.”
 

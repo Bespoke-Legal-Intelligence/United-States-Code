@@ -4,7 +4,7 @@
 
 Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretary shall establish a program of comprehensive assistance for family caregivers of eligible veterans.
 
-(B) The Secretary shall only provide support under the program required by subparagraph (A) to a family caregiver of an eligible veteran if the Secretary determines it is in the best interest of the eligible veteran to do so.
+(B) The Secretary shall only provide support under the program required by subparagraph (A)to a family caregiver of an eligible veteran if the Secretary determines it is in the best interest of the eligible veteran to do so.
 
 (2) For purposes of this subsection, an eligible veteran is any individual who—
 
@@ -74,7 +74,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (C) The Secretary shall, subject to regulations the Secretary shall prescribe, provide for necessary travel, lodging, and per diem expenses incurred by a family member of an eligible veteran in undergoing instruction, preparation, and training under subparagraph (A).
 
-(D) If the participation of a family member of an eligible veteran in instruction, preparation, and training under subparagraph (A) would interfere with the provision of personal care services to the eligible veteran, the Secretary shall, subject to regulations as the Secretaryshall prescribe and in consultation with the veteran, provide respite care to the eligible veteran during the provision of such instruction, preparation, and training to the family member so that the family member can participate in such instruction, preparation, and training without interfering with the provision of such services to the eligible veteran.
+(D) If the participation of a family member of an eligible veteran in instruction, preparation, and training under subparagraph (A) would interfere with the provision of personal care services to the eligible veteran, the Secretary shall, subject to regulations as the Secretary shall prescribe and in consultation with the veteran, provide respite care to the eligible veteran during the provision of such instruction, preparation, and training to the family member so that the family member can participate in such instruction, preparation, and training without interfering with the provision of such services to the eligible veteran.
 
 (7)(A) For each eligible veteran with at least one family member who is described by subparagraph (B), the Secretary shall designate one family member of such eligible veteran as the primary provider of personal care services for such eligible veteran.
 

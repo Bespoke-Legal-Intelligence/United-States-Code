@@ -122,7 +122,7 @@ No deduction shall be allowed under section 243 in respect of a dividend from a 
 
 No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A,title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610.)
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Subsec. (c)(3). Pub. L. 105–34, §1015(b)(2), inserted “and” at end of sub
 
 Subsec. (b)(3). Pub. L. 100–203, §10221(c)(1)(B), added par. (3).
 
-<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II)for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1812(d)(1)(A), substituted “In” for “For purposes of subparagraph (A), in” in introductory provisions and substituted cl. (i)(II) for former cl. (i)(II) which read as follows: “which were not taken into account under subparagraph (A), bears to”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 99–514, §1812(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and added cl. (iv) to subpar. (D).
 
@@ -208,11 +208,11 @@ Amendment by section 102(d)(4) of Pub. L. 108–357 applicable to taxable years 
 
 Pub. L. 108–357, title VIII, §888(e), Oct. 22, 2004, 118 Stat. 1643, provided that: “The amendments made by this section \[amending this section and sections 1092 and 1258 of this title\] shall apply to positions established on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
-Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 1015(c) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1015(c), Aug. 5, 1997, 111 Stat. 922, provided that:
 
 “(1)
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Section 611(b) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §611(b), Oct. 22, 1986, 100 Stat. 2249, provided that:
 
 “(1)
 
@@ -256,7 +256,7 @@ Amendment relating to limitation on deductions.—The amendment made by subsecti
 
 Amendment by section 1275(a)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Section 1804(b)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amendingthis section\] shall apply to stock acquired after March 1, 1986.”
+Pub. L. 99–514, title XVIII, §1804(b)(1)(C), Oct. 22, 1986, 100 Stat. 2798, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to stock acquired after March 1, 1986.”
 
 Amendment by section 1812(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 Amendment by section 512(f)(3) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
-Section 434(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting section 596 of this title and amending this section\] shall apply to taxable years beginning after July 11, 1969.”
+Pub. L. 91–172, title IV, §434(c), Dec. 30, 1969, 83 Stat. 625, provided that: “The amendments made by this section \[enacting section 596 of this title and amending this section\] shall apply to taxable years beginning after July 11, 1969.”
 
 #### Effective Date of 1964 Amendment
 
@@ -294,7 +294,7 @@ Amendment by Pub. L. 88–272 applicable to dividends received in taxable years 
 
 #### Effective Date of 1958 Amendment
 
-Section 18(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired or short sales made after December 31, 1957.”
+Pub. L. 85–866, title I, §18(b), Sept. 2, 1958, 72 Stat. 1615, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired or short sales made after December 31, 1957.”
 
 Amendment by section 57(c)(2) of Pub. L. 85–866 applicable with respect to taxable years beginning after Sept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as a note under section 243 of this title.
 

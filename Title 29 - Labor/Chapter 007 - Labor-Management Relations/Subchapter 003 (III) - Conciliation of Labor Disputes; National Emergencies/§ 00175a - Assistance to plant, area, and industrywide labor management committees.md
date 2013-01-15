@@ -34,7 +34,7 @@ For short title of section 6 of Pub. L. 95–524 as the Labor Management Coopera
 
 #### Congressional Statement of Purpose
 
-Section 6(b) of Pub. L. 95–524 provided that: “It is the purpose of this section \[enacting this section and amending sections 173 and 186 of this title\]—
+Pub. L. 95–524, §6(b), Oct. 27, 1978, 92 Stat. 2020, provided that: “It is the purpose of this section \[enacting this section and amending sections 173 and 186 of this title\]—
 
 &emsp;“(1) to improve communication between representatives of labor and management;
 
@@ -52,5 +52,5 @@ Section 6(b) of Pub. L. 95–524 provided that: “It is the purpose of this sec
 
 #### Applicability to Collective Bargaining Agreements
 
-Section 6(e) of Pub. L. 95–524 provided that: “Nothing in this section or the amendments made by this section \[enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section\] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section \[Oct. 27, 1978\].”
+Pub. L. 95–524, §6(e), Oct. 27, 1978, 92 Stat. 2021, provided that: “Nothing in this section or the amendments made by this section \[enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section\] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section \[Oct. 27, 1978\].”
 

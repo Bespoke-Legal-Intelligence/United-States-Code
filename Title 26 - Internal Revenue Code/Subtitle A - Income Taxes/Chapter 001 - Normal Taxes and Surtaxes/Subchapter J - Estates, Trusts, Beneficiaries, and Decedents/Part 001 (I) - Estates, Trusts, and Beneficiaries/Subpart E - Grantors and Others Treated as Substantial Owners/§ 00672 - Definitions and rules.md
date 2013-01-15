@@ -124,7 +124,7 @@ Amendment by Pub. L. 104–188 effective Aug. 20, 1996, with exception for certa
 
 #### Effective Date of 1990 Amendment
 
-Section 11343(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to—
+Pub. L. 101–508, title XI, §11343(b), Nov. 5, 1990, 104 Stat. 1388–472, provided that: “The amendments made by this section \[amending this section\] shall apply to—
 
 &emsp;“(1) any trust created after the date of the enactment of this Act \[Nov. 5, 1990\], and
 
@@ -136,5 +136,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Section 1401(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to transfers in trust made after March 1, 1986.”
+Pub. L. 99–514, title XIV, §1401(b), Oct. 22, 1986, 100 Stat. 2711, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to transfers in trust made after March 1, 1986.”
 

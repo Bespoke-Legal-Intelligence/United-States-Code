@@ -26,13 +26,15 @@ The Director is authorized to promulgate such rules and regulations as are neces
 
 There are authorized to be appropriated to the Bureau of Justice Assistance to carry out this section $50,000,000 for fiscal year 2002 and $100,000,000 for fiscal year 2003.
 
-(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, §1114, Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §252(a), July 29, 2010, 124 Stat. 2299.)
+(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat.4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, §1114, Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §252(a), July 29, 2010, 124 Stat. 2299.)
+
+#### Codification
+
+Another section 1301 of Pub. L. 90–351, title VIII, June 19, 1968, 82 Stat. 237, amended section 3731 of Title 18, Crimes and Criminal Procedure.
 
 #### Prior Provisions
 
 A prior section 1301 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
-
-Another prior section 1301 of Pub. L. 90–351, title VIII, June 19, 1968, 82 Stat. 237, amended section 3731 of Title 18, Crimes and Criminal Procedure.
 
 For other prior sections 1301 of Pub. L. 90–351 and prior section 3796h of this title, see note set out preceding this section.
 

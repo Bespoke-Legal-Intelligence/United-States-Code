@@ -80,7 +80,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;(A) the indebtedness incurred by the organization in acquiring or improving such property;
 
-&emsp;&emsp;(B) the indebtedness incurred before the acquisition or improvement of such propertyif such indebtedness would not have been incurred but for such acquisition or improvement; and
+&emsp;&emsp;(B) the indebtedness incurred before the acquisition or improvement of such property if such indebtedness would not have been incurred but for such acquisition or improvement; and
 
 &emsp;&emsp;(C) the indebtedness incurred after the acquisition or improvement of such property if such indebtedness would not have been incurred but for such acquisition or improvement and the incurrence of such indebtedness was reasonably foreseeable at the time of such acquisition or improvement.
 
@@ -112,7 +112,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (4) Indebtedness incurred in performing exempt purpose
 
-&emsp;For purposes of this section, the term “acquisition indebtedness” does not include indebtedness the incurrence of which is inherent in the performance or exercise of the purpose or function constituting the basis of the organization's exemption, such as the indebtedness incurred by a credit union described in section 501(c)(14) in accepting deposits from its members.
+&emsp;For purposes of this section, the term “acquisition indebtedness” does not include indebtedness the incurrence of which is inherent in the performance or exercise of the purposeor function constituting the basis of the organization's exemption, such as the indebtedness incurred by a credit union described in section 501(c)(14) in accepting deposits from its members.
 
 #### (5) Annuities
 
@@ -152,7 +152,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (7) Average acquisition indebtedness
 
-&emsp;For purposes of this section, the term “average acquisition indebtedness” for any taxableyear with respect to a debt-financed property means the average amount, determined under regulations prescribed by the Secretary of the acquisition indebtedness during the period the property is held by the organization during the taxable year, except that for the purpose of computing the percentage of any gain or loss to be taken into account on a sale or other disposition of debt-financed property, such term means the highest amount of the acquisition indebtedness with respect to such property during the 12-month period ending with the date of the sale or other disposition.
+&emsp;For purposes of this section, the term “average acquisition indebtedness” for any taxable year with respect to a debt-financed property means the average amount, determined under regulations prescribed by the Secretary of the acquisition indebtedness during the period the property is held by the organization during the taxable year, except that for the purpose of computing the percentage of any gain or loss to be taken into account on a sale or other disposition of debt-financed property, such term means the highest amount of the acquisition indebtedness with respect to such property during the 12-month period ending with the date of the sale or other disposition.
 
 #### (8) Securities subject to loans
 
@@ -230,7 +230,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (I) Chargebacks
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, a partnership may without violating therequirements of this subparagraph provide for chargebacks with respect to disproportionate losses previously allocated to qualified organizations and disproportionate income previously allocated to other partners. Any chargeback referred to in the preceding sentence shall not be at a ratio in excess of the ratio under which the loss or income (as the case may be) was allocated.
+&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, a partnership may without violating the requirements of this subparagraph provide for chargebacks with respect to disproportionate losses previously allocated to qualified organizations and disproportionate income previously allocated to other partners. Any chargeback referred to in the preceding sentence shall not be at a ratio in excess of the ratio under which the loss or income (as the case may be) was allocated.
 
 #### (II) Preferred rates of return, etc.
 
@@ -330,7 +330,7 @@ For purposes of this section, the term “real property” includes personal pro
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3,1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
 #### References in Text
 
@@ -442,7 +442,7 @@ Amendment by section 702(b) of Pub. L. 108–357 applicable to any gain or loss 
 
 #### Effective Date of 1993 Amendment
 
-Section 13144(c) of Pub. L. 103–66 provided that:
+Pub. L. 103–66, title XIII, §13144(c), Aug. 10, 1993, 107 Stat. 442, provided that:
 
 “(1)
 
@@ -450,7 +450,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 “(2)
 
-Small leases.—The provisions of section 514(c)(9)(G)(i) of the Internal Revenue Code of 1986shall, in addition to any leases to which the provisions apply by reason of paragraph (1), apply to leases entered into on or after January 1, 1994.”
+Small leases.—The provisions of section 514(c)(9)(G)(i) of the Internal Revenue Code of 1986 shall, in addition to any leases to which the provisions apply by reason of paragraph (1), apply to leases entered into on or after January 1, 1994.”
 
 #### Effective Date of 1989 Amendment
 
@@ -458,7 +458,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1016(a)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to interests in the organization acquired after June 10, 1987, except that such amendment shall not apply to any such interest acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
+Pub. L. 100–647, title I, §1016(a)(5)(B), Nov. 10, 1988, 102 Stat. 3575, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to interests in the organization acquired after June 10, 1987, except that such amendment shall not apply to any such interest acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
 
 Amendment by sections 1016(a)(6) and 1018(u)(13) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -466,7 +466,7 @@ Amendment by section 2004(h) of Pub. L. 100–647 effective, except as otherwise
 
 #### Effective Date of 1987 Amendment
 
-Section 10214(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section\] shall apply to—
+Pub. L. 100–203, title X, §10214(c), Dec. 22, 1987, 101 Stat. 1330–408, provided that: “The amendments made by this section \[amending this section\] shall apply to—
 
 &emsp;“(1) property acquired by the partnership after October 13, 1987, and
 
@@ -486,9 +486,9 @@ Amendment by section 1878(e) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 174(b)(5)(B) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
+Amendment by section 174(b)(5)(B) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) ofPub. L. 98–369, set out as a note under section 267 of this title.
 
-Section 1034(c) of Pub. L. 98–369 provided that:
+Pub. L. 98–369, div. A, title X, §1034(c), July 18, 1984, 98 Stat. 1040, provided that:
 
 “(1)
 
@@ -528,11 +528,11 @@ Binding contracts.—For purposes of this paragraph, property shall be deemed to
 
 #### Effective Date of 1980 Amendment
 
-Section 110(c) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 96–605, title I, §110(c), Dec. 28, 1980, 94 Stat. 3526, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
 #### Extension of 1980 Amendment of This Section to Other Persons
 
-Section 110(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall not be considered a precedent with respectto extending such amendment (or similar rules) to any other person.”
+Pub. L. 96–605, title I, §110(b), Dec. 28, 1980, 94 Stat. 3526, provided that: “The amendment made by subsection (a) \[amending this section\] shall not be considered a precedent with respect to extending such amendment (or similar rules) to any other person.”
 
 #### Effective Date of 1978 Amendment
 
@@ -540,7 +540,7 @@ Amendment by Pub. L. 95–345 applicable with respect to amounts received after 
 
 #### Effective Date of 1976 Amendment
 
-Section 1308(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1969.”
+Pub. L. 94–455, title XIII, §1308(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1969.”
 
 Amendment by section 1901(a)(72) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -562,5 +562,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transition Rule for Acquisition Indebtedness With Respect to Certain Land
 
-Section 1607 of Pub. L. 99–514 provided that: “For purposes of applying section 514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term ‘acquisition indebtedness’ does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code.”
+Pub. L. 99–514, title XVI, §1607, Oct. 22, 1986, 100 Stat. 2771, provided that: “For purposes of applying section 514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term ‘acquisition indebtedness’ does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code.”
 

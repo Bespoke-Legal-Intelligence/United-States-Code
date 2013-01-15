@@ -28,11 +28,13 @@ The Special Envoy shall—
 
 #### (d) Report on activities
 
-Not later than 180 days after October 18, 2004, and annually thereafter through 2012, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
+Not later than 180 days after October 18, 2004, and annually thereafter through 2017, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
 
-(Pub. L. 108–333, title I, §107, Oct. 18, 2004, 118 Stat. 1292; Pub. L. 110–346, §8, Oct. 7, 2008, 122 Stat. 3941.)
+(Pub. L. 108–333, title I, §107, Oct. 18, 2004, 118 Stat. 1292; Pub. L. 110–346, §8, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §7, Aug. 16, 2012, 126 Stat. 1309.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–172 substituted “2017” for “2012”.
 
 <b>2008</b>—Pub. L. 110–346, §8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
 

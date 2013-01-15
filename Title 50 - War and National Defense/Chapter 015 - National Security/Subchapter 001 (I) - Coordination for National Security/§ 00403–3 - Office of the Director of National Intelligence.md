@@ -58,7 +58,7 @@ With respect to filling temporarily a vacancy in an office within the Office of 
 
 The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40.
 
-(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat.3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888.)
+(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888.)
 
 #### References in Text
 

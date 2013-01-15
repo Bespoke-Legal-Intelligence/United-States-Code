@@ -28,9 +28,9 @@ Discharge.—When the director of the facility in which the defendant is hospita
 
 #### Separability
 
-Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Act Sept. 7, 1949, ch. 535, §4, 63 Stat. 688, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Use of Appropriations
 
-Section 3 of act Sept. 7, 1949, provided that: “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
+Act Sept. 7, 1949, ch. 535, §3, 63 Stat. 688, provided that: “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
 

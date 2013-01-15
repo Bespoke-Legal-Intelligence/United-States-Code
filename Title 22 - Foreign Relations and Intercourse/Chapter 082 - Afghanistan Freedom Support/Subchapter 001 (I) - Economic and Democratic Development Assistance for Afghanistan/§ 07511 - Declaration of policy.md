@@ -16,6 +16,30 @@ Congress makes the following declarations:
 
 (Pub. L. 107–327, title I, §101, Dec. 4, 2002, 116 Stat. 2798.)
 
+#### Consultations With Congress on a Bilateral Security Agreement With Afghanistan
+
+Pub. L. 112–239, div. A, title XII, §1225, Jan. 2, 2013, 126 Stat. 1999, provided that:
+
+“(a)
+
+Consultations Required.—Commencing not later than 30 days after the date of the enactment of this Act \[Jan. 2, 2013\], the President shall consult periodically with the appropriate committees of Congress on the status of the negotiations on a bilateral security agreement between the United States of America and the Islamic Republic of Afghanistan. Such consultations shall include a briefing summarizing the purpose, objectives, and key issues relating to the agreement.
+
+“(b)
+
+Availability of Agreement Text.—Before entering into any bilateral security agreement with Afghanistan, the President shall make available to the appropriate committees of Congress the text of such agreement.
+
+“(c)
+
+Termination of Consultations.—The requirements of this section shall terminate on the date on which the United States and Afghanistan enter into a bilateral security agreement or the President notifies Congress that negotiations on such an agreement have been terminated.
+
+“(d)
+
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+&emsp;“(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
+
 #### Strategy for the United States Relationship With Afghanistan
 
 Pub. L. 110–53, title XX, §2041, Aug. 3, 2007, 121 Stat. 518, provided that:
@@ -64,7 +88,7 @@ Statements of Policy.—The following shall be the policies of the United States
 
 &emsp;&emsp;“(A) Facilitating greater communication, including through official mechanisms such as the Tripartite Commission and the Joint Intelligence Operations Center, and by promoting other forms of exchange between the parliaments and civil society of the two countries.
 
-&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing amutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
+&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
 
 “(c)
 
@@ -92,7 +116,7 @@ Assistance authorized.—The President shall make increased efforts, on an urgen
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\].”
 
-\[For definition of “appropriate congressional committees” as used in section 2041 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
+\[For definition of “appropriate congressional committees” as used in section 2041 of Pub. L. 110–53, setout above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
 
 \[For assignment of functions of President under section 2041(d)(3) of Pub. L. 110–53, set out above, see Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 

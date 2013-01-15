@@ -12,7 +12,7 @@ Act May 19, 1956, ch. 313, Ch. XII, 70 Stat. 175, provided that basic compensati
 
 #### Effective Date
 
-Section 105 of Pub. L. 94–59 provided that this section is effective July 1, 1975.
+Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, provided that this section is effective July 1, 1975.
 
 #### Increases in Compensation
 

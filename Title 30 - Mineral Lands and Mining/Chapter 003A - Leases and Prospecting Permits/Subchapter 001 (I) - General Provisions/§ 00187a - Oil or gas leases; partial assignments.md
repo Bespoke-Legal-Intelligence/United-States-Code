@@ -26,5 +26,5 @@ See note set out under section 181 of this title.
 
 #### Leases Issued Prior to September 2, 1960
 
-Section 6 of Pub. L. 86–705 provided in part that: “The provisions of this section 6 \[amending this section\] shall not be applicable to any lease issued prior to the effective date of this Act \[Sept. 2, 1960\].”
+Pub. L. 86–705, §6, Sept. 2, 1960, 74 Stat. 790, provided in part that: “The provisions of this section 6 \[amending this section\] shall not be applicable to any lease issued prior to the effective date of this Act \[Sept. 2, 1960\].”
 

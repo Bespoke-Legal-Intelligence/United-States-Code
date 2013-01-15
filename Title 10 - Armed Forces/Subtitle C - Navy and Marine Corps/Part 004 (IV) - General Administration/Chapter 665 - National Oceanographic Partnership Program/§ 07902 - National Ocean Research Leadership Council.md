@@ -82,7 +82,7 @@ Annual Report.—Not later than March 1 of each year, the Council shall submit t
 
 &emsp;(4) A description of the involvement of the program with Federal interagency coordinating entities.
 
-&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
+&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expendituresunder such programs, projects, and activities during such following fiscal year.
 
 (f)
 
@@ -144,17 +144,19 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1997 Amendment
 
-Section 241(d) of Pub. L. 105–85 provided that: “The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
+Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: “The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
+
 #### Initial Appointments of Council Members
 
-Section 282(b) of Pub. L. 104–201 directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by Pub. L. 105–85, div. A, title II, §241(c)(1), Nov. 18, 1997, 111 Stat. 1666.
+Pub. L. 104–201, div. A, title II, §282(b), Sept. 23, 1996, 110 Stat. 2473, directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by Pub. L. 105–85, div. A, title II, §241(c)(1), Nov. 18, 1997, 111 Stat. 1666.
 
 #### First Annual Report of Council
 
-Section 282(c), formerly §282(d), of Pub. L. 104–201, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: “The first annual report required by section 7902(f) of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council.”
+Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: “The first annual report required by section 7902(f) of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council.”
 

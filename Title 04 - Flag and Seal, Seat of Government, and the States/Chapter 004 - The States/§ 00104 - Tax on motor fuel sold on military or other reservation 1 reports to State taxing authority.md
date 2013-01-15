@@ -18,7 +18,7 @@ to 110;
 
 Sales or Use Taxes: Fuels for Aircraft or Other Servicing of Aircraft; Landing or Taking Off Charges; Leases
 
-Section 210 of Pub. L. 91–258, title II, May 21, 1970, 84 Stat. 253, provided that:
+Pub. L. 91–258, title II, §210, May 21, 1970, 84 Stat. 253, provided that:
 
 “(a) Nothing in this title or in any other law of the United States shall prevent the application of sections 104 through 110 of title 4 of the United States Code to civil airports owned by the United States.
 

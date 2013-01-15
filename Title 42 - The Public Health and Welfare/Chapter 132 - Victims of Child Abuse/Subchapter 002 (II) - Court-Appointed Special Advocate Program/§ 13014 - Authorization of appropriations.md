@@ -20,7 +20,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(e)(1), added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
 
 Subsec. (c). Pub. L. 109–162, §112(e)(2), added subsec. (c).
 

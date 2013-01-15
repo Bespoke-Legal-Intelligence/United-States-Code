@@ -8,7 +8,7 @@ In this section and section 373b of this title:
 
 #### (2) Reclamation project; reclamation lands
 
-&emsp;The terms “Reclamation project” and “Reclamation lands” have the meaning given such terms in section 460<i>l</i>–32 of title 16.
+&emsp;The terms “Reclamation project” and “Reclamation lands” have the meaning given such terms in section 460l–32 of title 16.
 
 (Pub. L. 107–69, §2, Nov. 12, 2001, 115 Stat. 595.)
 

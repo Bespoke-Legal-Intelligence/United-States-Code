@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(1) The term “Tribe” means the Mashantucket Pequot Tribe (also known as the Western Pequot Tribe) as identified by chapter 832 of the Connecticut General Statutes and all its predecessors and successors in interest. The Mashantucket Pequot Tribe is represented, as of October 18, 1983, by the Mashantucket Pequot Tribal Council.
 
-&emsp;(2) The term “land or natural resources” means any real property or natural resources, or any interest in or right involving any realproperty or natural resources, including without limitation minerals and mineral rights, timber and timber rights, water and water rights, and hunting and fishing rights.
+&emsp;(2) The term “land or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including without limitation minerals and mineral rights, timber and timber rights, water and water rights, and hunting and fishing rights.
 
 &emsp;(3) The term “private settlement lands” means—
 

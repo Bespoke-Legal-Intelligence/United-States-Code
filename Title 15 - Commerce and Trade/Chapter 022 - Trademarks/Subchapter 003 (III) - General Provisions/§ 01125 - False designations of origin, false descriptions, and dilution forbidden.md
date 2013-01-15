@@ -76,7 +76,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 #### (5) Additional remedies
 
-&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity if—
+&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title,subject to the discretion of the court and the principles of equity if—
 
 &emsp;&emsp;(A) the mark or trade name that is likely to cause dilution by blurring or dilution by tarnishment was first used in commerce by the person against whom the injunction is sought after October 6, 2006; and
 
@@ -90,11 +90,11 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;The ownership by a person of a valid registration under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register under this chapter shall be a complete bar to an action against that person, with respect to that mark, that—
 
-&emsp;&emsp;(A)(i) is brought by another person under the common law or a statute of a State; and
+&emsp;&emsp;(A) is brought by another person under the common law or a statute of a State; and
 
-&emsp;&emsp;(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or
+&emsp;&emsp;(B)(i) seeks to prevent dilution by blurring or dilution by tarnishment; or
 
-&emsp;&emsp;(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.
+&emsp;&emsp;(ii) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.
 
 #### (7) Savings clause
 
@@ -142,7 +142,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (E) As used in this paragraph, the term “traffics in” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
 
-(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
+(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domainname authority that registered or assigned the domain name is located if—
 
 &emsp;(i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
 
@@ -176,7 +176,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, §2, Oct. 6, 2006, 120 Stat. 1730.)
+(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, §2, Oct. 6, 2006, 120 Stat. 1730; Pub. L. 112–190, §1(a), Oct. 5, 2012, 126 Stat. 1436.)
 
 #### References in Text
 
@@ -187,6 +187,14 @@ Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv),
 Act Mar. 19, 1920, ch. 104, §3, 41 Stat. 534.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(6). Pub. L. 112–190 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A)(i) is brought by another person under the common law or a statute of a State; and
+
+“(ii) seeks to prevent dilution by blurring or dilution by tarnishment; or
+
+“(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.”
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–312, §2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
 
@@ -204,13 +212,17 @@ Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation.”
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–190, §1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any action commenced on or after the date of the enactment of this Act \[Oct. 5, 2012\].”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 5 of Pub. L. 104–98 provided that: “This Act \[amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Jan. 16, 1996\].”
+Pub. L. 104–98, §5, Jan. 16, 1996, 109 Stat. 987, provided that: “This Act \[amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Jan. 16, 1996\].”
 
 #### Effective Date of 1992 Amendment
 

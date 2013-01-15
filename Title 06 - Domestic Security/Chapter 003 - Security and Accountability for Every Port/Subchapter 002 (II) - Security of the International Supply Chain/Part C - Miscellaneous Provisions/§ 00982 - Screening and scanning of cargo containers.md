@@ -30,7 +30,7 @@
 
 #### (4) Extensions
 
-&emsp;The Secretary may extend the date specified in paragraph (2)(A) or (2)(B) for 2 years, andmay renew the extension in additional 2-year increments, for containers loaded in a port or ports, if the Secretary certifies to Congress that at least two of the following conditions exist:
+&emsp;The Secretary may extend the date specified in paragraph (2)(A) or (2)(B) for 2 years, and may renew the extension in additional 2-year increments, for containers loaded in a port or ports, if the Secretary certifies to Congress that at least two of the following conditions exist:
 
 &emsp;&emsp;(A) Systems to scan containers in accordance with paragraph (1) are not available for purchase and installation.
 

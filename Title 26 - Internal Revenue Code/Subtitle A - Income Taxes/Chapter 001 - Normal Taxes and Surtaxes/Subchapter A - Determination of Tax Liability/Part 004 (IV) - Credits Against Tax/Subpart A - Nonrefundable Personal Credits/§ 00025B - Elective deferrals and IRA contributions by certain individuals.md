@@ -108,27 +108,19 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shallnot fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-#### (g) Limitation based on amount of tax
-
-In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
-
-&emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
-
-&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.
-
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Revenue Notices listed in a table under section 401 of this title.</i>
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
-
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
-
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–240 struck out subsec. (g). Text read as follows: “In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
+
+&emsp;“(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+
+&emsp;“(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.”
 
 <b>2010</b>—Subsec. (g)(2). Pub. L. 111–148, §10909(b)(2)(D), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25A(i),”. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -146,7 +138,7 @@ Pub. L. 110–343, §106(e)(2)(C), substituted “sections 23 and 25D” for “
 
 Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h). Text read as follows: “This section shall not apply to taxable years beginning after December 31, 2006.”
 
-<b>2005</b>—Subsec. (g). Pub. L. 109–135, §402(i)(3)(D), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (g). Pub. L. 109–135 substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions.
 
 <b>2004</b>—Subsec. (c)(2)(B). Pub. L. 108–311 substituted “152(f)(2)” for “151(c)(4)”.
 
@@ -159,6 +151,10 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
 <b>2001</b>—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -186,7 +182,7 @@ Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(D) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, setout as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
@@ -200,9 +196,9 @@ Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that
 
 #### Effective Date
 
-Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as an Effective and Termination Dates of 2001 Amendment note under section 23 of this title.
+Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as an Effective Date of 2001 Amendment note under section 23 of this title.
 
-Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective and Termination Dates of 2001 Amendment note under section 23 of this title.
+Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective Date of 2001 Amendment note under section 23 of this title.
 
-Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 24 of this title.
+Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 24 of this title.
 

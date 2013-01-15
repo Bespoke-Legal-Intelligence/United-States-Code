@@ -70,7 +70,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 #### (e) Withdrawal of conditional approval
 
-(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities ofthe drug to meet the needs for which the drug is intended.
+(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
 
 (2) The Secretary shall, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that—
 
@@ -84,7 +84,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 (1) The label and labeling of a new animal drug with a conditional approval under this section shall—
 
-&emsp;(A) bear the statement, “conditionally approved by FDA pending a full demonstration of effectiveness under application number”; and
+&emsp;(A) bear the statement, “conditionally approved by FDA pending a full demonstrationof effectiveness under application number”; and
 
 &emsp;(B) contain such other information as prescribed by the Secretary.
 

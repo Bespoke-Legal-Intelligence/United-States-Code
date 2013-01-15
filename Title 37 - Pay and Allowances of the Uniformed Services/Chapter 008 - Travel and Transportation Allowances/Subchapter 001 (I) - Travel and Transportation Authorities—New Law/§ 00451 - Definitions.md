@@ -40,7 +40,7 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;&emsp;(iv) Transportation of non-medical attendants as provided in section 481k of this title.
 
-&emsp;&emsp;&emsp;(v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481<i>l</i> of this title.
+&emsp;&emsp;&emsp;(v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481l of this title.
 
 &emsp;&emsp;&emsp;(vi) Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
 

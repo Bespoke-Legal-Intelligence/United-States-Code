@@ -14,9 +14,9 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;(B) make recommendations to Congress, the Secretary, and States concerning such access policies;
 
-&emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report toCongress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report toCongress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
+&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
 
 #### (2) Specific topics to be reviewed
 
@@ -80,11 +80,11 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Regulations
 
-&emsp;&emsp;MACPAC shall review Medicaid and CHIP regulations and may comment through submission of a report to the appropriate committees of Congress and the Secretary, on any such regulations that affect access, quality, or efficiency of health care.
+&emsp;&emsp;MACPAC shall review Medicaid and CHIP regulations and may comment through submission of a report to the appropriate committees of Congress and the Secretary, onany such regulations that affect access, quality, or efficiency of health care.
 
 #### (6) Agenda and additional reviews
 
-&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members ofthe appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+&emsp;MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
 
 #### (7) Availability of reports
 
@@ -300,7 +300,7 @@ Exception for State Legislation.—In the case of a State plan under title XIX \
 
 “(c)
 
-Coordination of CHIP Funding for Fiscal Year 2009.—Notwithstanding any other provision of law, insofar as funds have been appropriated under section 2104(a)(11), 2104(k), or 2104(<i>l</i>) of the Social Security Act \[section 1397dd(a)(11), (k), (<i>l</i>) of this title\], as amended by section 201 of Public Law 110–173, to provide allotments to States under CHIP for fiscal year 2009—
+Coordination of CHIP Funding for Fiscal Year 2009.—Notwithstanding any other provision of law, insofar as funds have been appropriated under section 2104(a)(11), 2104(k), or 2104(l) of the Social Security Act \[section 1397dd(a)(11), (k), (l) of this title\], as amended by section 201 of Public Law 110–173, to provide allotments to States under CHIP for fiscal year 2009—
 
 &emsp;“(1) any amounts that are so appropriated that are not so allotted and obligated before April 1, 2009 are rescinded; and
 

@@ -6,73 +6,103 @@ General Authority.—Subject to this section and the availability of amounts, th
 
 (b)
 
-State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
+Motor Carrier Safety Assistance Program.—
 
-&emsp;(A) implements performance-based activities, including deployment of technology toenhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+&emsp;(1)
 
-&emsp;(B) designates the State motor vehicle safety agency responsible for administering the plan throughout the State;
+Program goal.—The goal of the Motor Carrier Safety Assistance Program is to ensure that the Secretary, States, local government agencies, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient surface transportation system by—
 
-&emsp;(C) contains satisfactory assurances the agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
+&emsp;&emsp;(A) making targeted investments to promote safe commercial motor vehicle transportation, including transportation of passengers and hazardous materials;
 
-&emsp;(D) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
+&emsp;&emsp;(B) investing in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes and fatalities resulting from such crashes;
 
-&emsp;(E) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for the 3 full fiscal years beginning after October 1 of the year 5 years prior to the beginning of each Government fiscal year.<sup>1</sup>
+&emsp;&emsp;(C) adopting and enforcing effective motor carrier, commercial motor vehicle, and driver safety regulations and practices consistent with Federal requirements; and
 
-&emsp;(F) provides a right of entry and inspection to carry out the plan;
+&emsp;&emsp;(D) assessing and improving statewide performance by setting program goals and meeting performance standards, measures, and benchmarks.
 
-&emsp;(G) provides that all reports required under this section be submitted to the agency and that the agency will make the reports available to the Secretary on request;
+&emsp;(2) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
 
-&emsp;(H) provides that the agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations the Secretary prescribes;
+&emsp;&emsp;(A) implements performance-based activities, including deployment of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
-&emsp;(I) requires registrants of commercial motor vehicles to make a declaration of knowledge of applicable safety regulations, standards, and orders of the Government and the State;
+&emsp;&emsp;(B) designates the State motor vehicle safety agency responsible for administering the plan throughout the State;
 
-&emsp;(J) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standard through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
+&emsp;&emsp;(C) contains satisfactory assurances the agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
 
-&emsp;(K) ensures that activities described in subsection (c)(1) of this section, if financed with grants under subsection (a) of this section, will not diminish the effectiveness of the development and implementation of commercial motor vehicle safety programs described in subsection (a);
+&emsp;&emsp;(D) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-&emsp;(L) ensures that the State agency will coordinate the plan, data collection, and information systems with State highway safety programs under title 23;
+&emsp;&emsp;(E) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for the 3 full fiscal years beginning after October 1 of the year 5 years prior to the beginning of each Government fiscal year.<sup>1</sup>
 
-&emsp;(M) ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;
+&emsp;&emsp;(F) provides a right of entry and inspection to carry out the plan;
 
-&emsp;(N) ensures that information is exchanged among the States in a timely manner;
+&emsp;&emsp;(G) provides that all reports required under this section be submitted to the agency and that the agency will make the reports available to the Secretary on request;
 
-&emsp;(O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+&emsp;&emsp;(H) provides that the agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations the Secretary prescribes;
 
-&emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
+&emsp;&emsp;(I) requires registrants of commercial motor vehicles to demonstrate knowledge of applicable safety regulations, standards, and orders of the Government and the State;
 
-&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
+&emsp;&emsp;(J) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standard through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
 
-&emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
+&emsp;&emsp;(K) ensures that activities described in subsection (c)(1) of this section, if financed with grants under subsection (a) of this section, will not diminish the effectiveness of the development and implementation of commercial motor vehicle safety programs described in subsection (a);
 
-&emsp;&emsp;(iii) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities;
+&emsp;&emsp;(L) ensures that the State agency will coordinate the plan, data collection, and information systems with State highway safety programs under title 23;
 
-&emsp;(Q) provides that the State has established a program to ensure that—
+&emsp;&emsp;(M) ensures participation in appropriate Federal Motor Carrier Safety Administration systems and other information systems by all appropriate jurisdictions receiving Motor Carrier Safety Assistance Program funding;
 
-&emsp;&emsp;(i) accurate, complete, and timely motor carrier safety data is collected and reported to the Secretary; and
+&emsp;&emsp;(N) ensures that information is exchanged among the States in a timely manner;
 
-&emsp;&emsp;(ii) the State will participate in a national motor carrier safety data correction system prescribed by the Secretary;
+&emsp;&emsp;(O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
 
-&emsp;(R) ensures that the State will cooperate in the enforcement of registration requirements under section 13902 and financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued thereunder;
+&emsp;&emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
 
-&emsp;(S) ensures consistent, effective, and reasonable sanctions;
+&emsp;&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
 
-&emsp;(T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel;
+&emsp;&emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
 
-&emsp;(U) provides that the State will include in the training manual for the licensing examination to drive a noncommercial motor vehicle and a commercial motor vehicle, information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
+&emsp;&emsp;&emsp;(iii) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities;
 
-&emsp;(V) provides that the State will enforce the registration requirements of section 13902 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under such section or to operate beyond the scope of such registration;
+&emsp;&emsp;(Q) provides that the State has established and dedicated sufficient resources to a program to ensure that—
 
-&emsp;(W) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors; and
+&emsp;&emsp;&emsp;(i) accurate, complete, and timely motor carrier safety data is collected and reported to the Secretary; and
 
-&emsp;(X) except in the case of an imminent or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop.
+&emsp;&emsp;&emsp;(ii) the State will participate in a national motor carrier safety data correction system prescribed by the Secretary;
 
-(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
+&emsp;&emsp;(R) ensures that the State will cooperate in the enforcement of registration requirements under section 13902 and financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued thereunder;
 
-(3) In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
+&emsp;&emsp;(S) ensures consistent, effective, and reasonable sanctions;
 
-&emsp;(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+&emsp;&emsp;(T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel;
 
-&emsp;(B) shall require the State to exclude Government amounts and State matching amounts used to receive Government financing under subsection (a) of this section.
+&emsp;&emsp;(U) provides that the State will include in the training manual for the licensing examination to drive a noncommercial motor vehicle and a commercial motor vehicle, information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
+
+&emsp;&emsp;(V) provides that the State will enforce the registration requirements of section 13902 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under such section or to operate beyond the scope of such registration;
+
+&emsp;&emsp;(W) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
+
+&emsp;&emsp;(X) except in the case of an imminent or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop; and
+
+&emsp;&emsp;(Y) ensures that the State will transmit to its roadside inspectors the notice of each Federal exemption granted pursuant to section 31315(b) and provided to the State by the Secretary, including the name of the person granted the exemption and any terms and conditions that apply to the exemption.
+
+&emsp;(3) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
+
+&emsp;(4)
+
+Maintenance of effort.—
+
+&emsp;&emsp;(A)
+
+In general.—A plan submitted by a State under paragraph (2) shall provide that the total expenditure of amounts of the lead State agency responsible for implementing the plan will be maintained at a level at least equal to the average level of that expenditure for fiscal years 2004 and 2005.
+
+&emsp;&emsp;(B)
+
+Average level of state expenditures.—In estimating the average level of State expenditure under subparagraph (A), the Secretary—
+
+&emsp;&emsp;&emsp;(i) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+
+&emsp;&emsp;&emsp;(ii) shall require the State to exclude State matching amounts used to receiveGovernment financing under this subsection.
+
+&emsp;&emsp;(C)
+
+Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements of this paragraph for 1 fiscal year, if the Secretary determines that a waiver is equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or a serious decline in the financial resources of the State motor carrier safety assistance program agency.
 
 (c)
 
@@ -98,7 +128,7 @@ Annual Report.—The Secretary shall submit to the Committee on Transportation a
 
 &emsp;(2) describes the effect of activities carried out with grants made under this section on commercial motor vehicle safety.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805.)
 
 Historical and Revision Notes
 
@@ -145,6 +175,30 @@ In subsection (c), before clause (1), the words “type of” are omitted as unn
 In subsection (d), the words “the regulations, standards, or orders” are substituted for “Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders” for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §32601(a)(1), amended heading generally, substituting “Motor Carrier Safety Assistance Program” for “State Plan Procedures and Contents”.
+
+Subsec. (b)(1). Pub. L. 112–141, §32601(a)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (b)(2). Pub. L. 112–141, §32601(a)(2), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(2)(I). Pub. L. 112–141, §32601(a)(4)(A), substituted “demonstrate” for “make a declaration of”.
+
+Subsec. (b)(2)(M). Pub. L. 112–141, §32601(a)(4)(B), amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;”.
+
+Subsec. (b)(2)(Q). Pub. L. 112–141, §32601(a)(4)(C), inserted “and dedicated sufficient resources to” after “has established”.
+
+Subsec. (b)(2)(Y). Pub. L. 112–141, §32601(a)(4)(D)–(F), added subpar. (Y).
+
+Subsec. (b)(3). Pub. L. 112–141, §32601(a)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 112–141, §32601(a)(5), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In estimating the average level of State expenditure under paragraph (1)(E) of this subsection, the Secretary—
+
+&emsp;“(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+
+&emsp;“(B) shall require the State to exclude Government amounts and State matching amounts used to receive Government financing under subsection (a) of this section.”
+
+Pub. L. 112–141, §32601(a)(2), redesignated par. (3) as (4).
 
 <b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–59, §4106(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “implements performance-based activities by fiscal year 2000;”.
 
@@ -219,6 +273,10 @@ Subsec. (b)(1)(R). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (Q) as 
 Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. (S) and (T).
 
 <b>1995</b>—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

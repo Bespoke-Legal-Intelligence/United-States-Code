@@ -106,7 +106,7 @@ The date of the enactment of this subsection, referred to in subsec. (f), is the
 
 #### Prior Provisions
 
-A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat.225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
 
@@ -190,7 +190,7 @@ Pub. L. 109–432, div. A, title IV, §402(c), Dec. 20, 2006, 120 Stat. 2954, pr
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 fortaxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -198,27 +198,27 @@ Pub. L. 108–357, title IV, §421(b), Oct. 22, 2004, 118 Stat. 1514, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable yearsending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
-Section 1704(j)(1) of Pub. L. 104–188 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
+Pub. L. 104–188, title I, §1704(j)(1), Aug. 20, 1996, 110 Stat. 1881, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
 
 #### Effective Date of 1993 Amendment
 
-Section 13113(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13113(e), Aug. 10, 1993, 107 Stat. 430, provided that: “The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
-Section 13171(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 56 and 57 of this title\] shall apply to contributions made after June 30, 1992, except that in the case of any contribution of capital gain property which is not tangible personal property, such amendments shall apply only if the contribution is made after December 31, 1992.”
+Pub. L. 103–66, title XIII, §13171(d), Aug. 10, 1993, 107 Stat. 455, provided that: “The amendments made by this section \[amending this section and sections 56 and 57 of this title\] shall apply to contributions made after June 30, 1992, except that in the case of any contribution of capital gain property which is not tangible personal property, such amendments shall apply only if the contribution is made after December 31, 1992.”
 
 #### Effective Date of 1992 Amendment
 
-Section 1702(e)(5) of Pub. L. 104–188 provided that: “The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 \[Pub. L. 102–486\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 104–188, title I, §1702(e)(5), Aug. 20, 1996, 110 Stat. 1870, provided that: “The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 \[Pub. L. 102–486\] shall apply to taxable years beginning after December 31, 1990.”
 
 Amendment by section 1913(b)(2)(C)(ii) of Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Section 7612(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section\] shall apply for purposes of determining the adjusted net minimum tax for taxable years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7612(a)(3), Dec. 19, 1989, 103 Stat. 2373, provided that: “The amendments made by this subsection \[amending this section\] shall apply for purposes of determining the adjusted net minimum tax for taxable years beginning after December 31, 1989.”
 
-Section 7612(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of the minimum tax credit for taxable years beginning after December 31, 1989; except that, for such purposes, section 53(b)(1) of the Internal Revenue Code of 1986 shall be applied as if such amendment had been in effect for all prior taxable years.”
+Pub. L. 101–239, title VII, §7612(b)(2), Dec. 19, 1989, 103 Stat. 2374, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of the minimum tax credit for taxable years beginning after December 31, 1989; except that, for such purposes, section 53(b)(1) of the Internal Revenue Code of 1986 shall be applied as if such amendment had been in effect for all prior taxable years.”
 
 Amendment by section 7811(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -226,7 +226,7 @@ Amendment by section 7811(d)(2) of Pub. L. 101–239 effective, except as otherw
 
 Amendment by section 1007(g)(4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6304(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 701 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+Pub. L. 100–647, title VI, §6304(b), Nov. 10, 1988, 102 Stat. 3756, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 701 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
 
 #### Effective Date
 

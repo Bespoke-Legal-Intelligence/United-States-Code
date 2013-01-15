@@ -56,7 +56,7 @@ Section 123 of Public Law 91–508, referred to in subsec. (a), is classified to
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56, §§353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
 
-Subsec. (a)(1). Pub. L. 107–56, §353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
+Subsec. (a)(1). Pub. L. 107–56, §353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a recordrequired pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
 
 Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted “, to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “regulation prescribed under any such section”.
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 #### Effective Date
 
-Section 1364(a) of Pub. L. 99–570 provided that: “The amendment made by section 1354 \[enacting this section\] shall apply with respect to transactions for the payment, receipt, or transfer of United States coins or currency or other monetary instruments completed after the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
+Pub. L. 99–570, title I, §1364(a), Oct. 27, 1986, 100 Stat. 3207–34, provided that: “The amendment made by section 1354 \[enacting this section\] shall apply with respect to transactions for the payment, receipt, or transfer of United States coins or currency or other monetary instruments completed after the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
 

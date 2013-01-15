@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date
 
-Section 404 of title IV of Pub. L. 91–648 provided that: “This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\].”
+Pub. L. 91–648, title IV, §404, Jan. 5, 1971, 84 Stat. 1925, provided that: “This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\].”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -72,7 +72,7 @@ Pub. L. 108–196, §3, Dec. 19, 2003, 117 Stat. 2896, provided that:
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with which the participating employee was employed before an assignment under the Program;
+&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with whichthe participating employee was employed before an assignment under the Program;
 
 &emsp;“(2) the term ‘participating employee’ means an employee who is participating in the Program; and
 
@@ -104,5 +104,5 @@ Written Agreement.—An employee shall enter into a written agreement regarding 
 
 #### Declaration of Purpose
 
-Section 401 of title IV of Pub. L. 91–648, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”
+Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”
 

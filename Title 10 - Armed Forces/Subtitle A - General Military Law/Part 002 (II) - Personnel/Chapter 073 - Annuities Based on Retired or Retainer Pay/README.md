@@ -12,9 +12,9 @@
 
 <b>2004</b>—Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, struck out item for subchapter III “Supplemental Survivor Benefit Plan”, effective Apr. 1, 2008.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(<i>l</i>)(4)(A), Nov. 5, 1990, 104 Stat. 1580, 1719, amended Pub. L. 101–189, §1404(a)(2), see 1989 Amendment note below.
+<b>1990</b>—Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(l)(4)(A), Nov. 5, 1990, 104 Stat. 1580, 1719, amended Pub. L. 101–189, §1404(a)(2), see 1989 Amendment note below.
 
-<b>1989</b>—Pub. L. 101–189, div. A, title XIV, §1404(a)(2), Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(<i>l</i>)(4)(A), Nov. 5, 1990, 104 Stat. 1580, 1719, added item for subchapter III, effective Apr. 1, 1992.
+<b>1989</b>—Pub. L. 101–189, div. A, title XIV, §1404(a)(2), Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(l)(4)(A),Nov. 5, 1990, 104 Stat. 1580, 1719, added item for subchapter III, effective Apr. 1, 1992.
 
 <b>1980</b>—Pub. L. 96–513, title V, §511(54)(A), Dec. 12, 1980, 94 Stat. 2925, amended chapter heading to read: “ANNUITIES BASED ON RETIRED OR RETAINER PAY”.
 

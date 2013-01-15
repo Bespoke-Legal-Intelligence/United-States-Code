@@ -1,6 +1,6 @@
 ### §2215. Reports to Congress and President
 
-The Director shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
+The Administrator of FEMA shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
 
 &emsp;(a) a thorough appraisal, including statistical analysis, estimates, and long-term projections of the human and economic losses due to fire;
 
@@ -28,13 +28,15 @@ The Director shall report to the Congress and the President not later than ninet
 
 &emsp;(i) a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, §16, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 96–472, title II, §202, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 106–503, title I, §110(a)(2)(B)(vi), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239 substituted “Administrator of FEMA” for “Director” in introductory provisions.
 
 <b>2000</b>—Pub. L. 106–503 substituted “Director” for “Secretary” in introductory provisions.
 

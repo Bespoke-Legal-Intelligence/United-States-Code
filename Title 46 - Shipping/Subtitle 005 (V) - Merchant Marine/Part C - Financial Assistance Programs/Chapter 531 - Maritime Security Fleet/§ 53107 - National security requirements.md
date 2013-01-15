@@ -10,7 +10,7 @@ Terms of Agreement.—
 
 &emsp;(1)
 
-In general.—An Emergency Preparedness Agreement under this section shall require that upon a request by the Secretary of Defense during time of war or national emergency, or whenever determined by the Secretary of Defense to be necessary for national security or contingency operation (as that term is defined in section 101 of title 10, United States Code), a contractor for a vessel covered by an operating agreement under this chapter shall make available commercial transportation resources (including services).
+In general.—An Emergency Preparedness Agreement under this section shall require that a contractor for a vessel covered by an operating agreement under this chapter shall make commercial transportation resources (including services) available, upon request by the Secretary of Defense during a time of war or national emergency, or whenever the Secretary of Defense determines that it is necessary for national security or contingency operation (as that term is defined in section 101 of title 10, United States Code).
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Participation After Expiration of Operating Agreement.—Except as provided by s
 
 (d)
 
-Resources Made Available.—The commercial transportation resources to be made available under an Emergency Preparedness Agreement shall include vessels or capacity invessels, intermodal systems and equipment, terminal facilities, intermodal and management services, and other related services, or any agreed portion of such nonvessel resources for activation as the Secretary of Defense may determine to be necessary, seeking to minimize disruption of the contractor's service to commercial shippers.
+Resources Made Available.—The commercial transportation resources to be made available under an Emergency Preparedness Agreement shall include vessels or capacity in vessels, intermodal systems and equipment, terminal facilities, intermodal and management services, and other related services, or any agreed portion of such nonvessel resources for activation as the Secretary of Defense may determine to be necessary, seeking to minimize disruption of the contractor's service to commercial shippers.
 
 (e)
 
@@ -72,13 +72,15 @@ In general.—All commercial transportation resources activated under an Emergen
 
 Limitation on liability of u.s.—Except as may be expressly agreed to in an Emergency Preparedness Agreement, or as otherwise provided by law, the Government shall not be liable for disruption of a contractor's commercial business or other consequential damages to a contractor arising from activation of commercial transportation resources under an Emergency Preparedness Agreement.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1814; amended Pub. L. 109–304, §13(a)(6), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–84, div. C, title XXXV, §3505, Oct. 28, 2009, 123 Stat. 2720; Pub. L. 112–239, div. C, title XXXV, §3508(g), Jan. 2, 2013, 126 Stat. 2225.)
 
 #### References in Text
 
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 amended par. (1) generally. Prior to amendment, text read as follows: “An Emergency Preparedness Agreement under this section shall require that upon a request by the Secretary of Defense during time of war or national emergency, or whenever determined by the Secretary of Defense to be necessary for national security or contingency operation (as that term is defined in section 101 of title 10, United States Code), a contractor for a vessel covered by an operating agreement under this chapter shall make available commercial transportation resources (including services).”
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–84 added par. (3).
 

@@ -2,21 +2,17 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”).
+In General.—There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
 
 (b)
 
-Head of Office.—The head of the Office shall be—
-
-&emsp;(1) the Department of Defense Executive Agent for Space; or
-
-&emsp;(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.
+Head of Office.—The head of the Office shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.
 
 (c)
 
 Mission.—The mission of the Office shall be—
 
-&emsp;(1) to contribute to the development of low-cost, rapid reaction payloads, busses, spacelift, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution; and
+&emsp;(1) to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution; and
 
 &emsp;(2) to coordinate and execute operationally responsive space efforts across the Department of Defense with respect to planning, acquisition, and operations.
 
@@ -54,7 +50,7 @@ Elements.—The Secretary of Defense shall select the elements of the Department
 
 Acquisition Authority.—The acquisition activities of the Office shall be subject to the following:
 
-&emsp;(1) The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.
+&emsp;(1) The Program Executive Officer for Space shall be the Acquisition Executive of the Office and shall provide streamlined acquisition authorities for projects of the Office.
 
 &emsp;(2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office for operational experimentation.
 
@@ -80,9 +76,39 @@ Required Program Element.—(1) The Secretary of Defense shall ensure that, with
 
 (2) The Office shall manage the program element required by paragraph (1)(A).
 
-(Added Pub. L. 108–375, div. A, title IX, §913(a)(1), Oct. 28, 2004, 118 Stat. 2028; amended Pub. L. 109–364, div. A, title IX, §913(b)(1), Oct. 17, 2006, 120 Stat. 2355.)
+(g)
+
+Executive Committee.—(1) The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the “Operationally Responsive Space Executive Committee”) to provide coordination, oversight, and approval of projects of the Office.
+
+(2) The Executive Committee shall consist of the officials (and their duties) as follows:
+
+&emsp;(A) The Department of Defense Executive Agent for Space, who shall serve as Chair of the Executive Committee and provide oversight, prioritization, coordination, and resources for the Office.
+
+&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics, whoshall provide coordination and oversight of the Office and recommend funding sources for programs of the Office that exceed the approved program baseline.
+
+&emsp;(C) The Commander of the United States Strategic Command, who shall validate requirements for systems to be acquired by the Office and participate in approval of any acquisition program initiated by the Office.
+
+&emsp;(D) The Commander of the Air Force Space Command, the Commander of the Army Space and Missile Defense Command, and the Commander of the Space and Naval Warfare Systems Command, who shall jointly organize, train, and equip forces to support the acquisition programs of the Office.
+
+&emsp;(E) Such other officials (and their duties) as the Secretary of Defense considers appropriate.
+
+(Added Pub. L. 108–375, div. A, title IX, §913(a)(1), Oct. 28, 2004, 118 Stat. 2028; amended Pub. L. 109–364, div. A, title IX, §913(b)(1), Oct. 17, 2006, 120 Stat. 2355; Pub. L. 112–239, div. A, title IX, §914, Jan. 2, 2013, 126 Stat. 1876.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
+
+Subsec. (b). Pub. L. 112–239, §914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
+
+&emsp;“(1) the Department of Defense Executive Agent for Space; or
+
+&emsp;“(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.”
+
+Subsec. (c)(1). Pub. L. 112–239, §914(c), substituted “launch” for “spacelift”.
+
+Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
+
+Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 
 <b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national security payloads and buses within budget program elements for space programs of the Department of Defense.
 

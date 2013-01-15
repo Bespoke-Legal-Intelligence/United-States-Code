@@ -2,11 +2,11 @@
 
 #### (a) Purchase of private settlement lands
 
-The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
+The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head,Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
 
 #### (b) Payment for survey and appraisal
 
-The Secretary is authorized and directed to cause a survey of the public settlement lands tobe made within 60 days of acquiring title to the public settlement lands. The Secretary shall reimburse the Native American Rights Fund and the Gay Head Taxpayers Association for an appraisal of the private settlement lands done by Paul O'Leary dated May 1, 1987. Such funds as may be necessary may be withdrawn from the Fund <sup>1</sup> established in section 1771a(a) of this title and may be used for the purpose of conducting the survey and providing reimbursement for the appraisal.
+The Secretary is authorized and directed to cause a survey of the public settlement lands to be made within 60 days of acquiring title to the public settlement lands. The Secretary shall reimburse the Native American Rights Fund and the Gay Head Taxpayers Association for an appraisal of the private settlement lands done by Paul O'Leary dated May 1, 1987. Such funds as may be necessary may be withdrawn from the Fund <sup>1</sup> established in section 1771a(a) of this title and may be used for the purpose of conducting the survey and providing reimbursement for the appraisal.
 
 #### (c) Acquisition of additional lands
 

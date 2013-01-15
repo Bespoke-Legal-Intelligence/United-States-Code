@@ -24,5 +24,5 @@ Provision for a quorum of the court is now covered by section 46(d) of this titl
 
 #### Change of Name of Court
 
-Section 2(b) of act June 25, 1948, provided in part that each circuit court of appeals should, after Sept. 1, 1948, be known as a United States Court of Appeals, but that the enactment of act June 25, 1948 should in no way entail any loss of rights, interruption of jurisdiction, or prejudice to matters pending in any such courts on Sept. 1, 1948.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that each circuit court of appeals should, after Sept. 1, 1948, be known as a United States Court of Appeals, but that the enactment of act June 25, 1948 should in no way entail any loss of rights, interruption of jurisdiction, or prejudice to matters pending in any such courts on Sept. 1, 1948.
 

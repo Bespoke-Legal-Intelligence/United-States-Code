@@ -46,5 +46,5 @@ In subsection (b), the words “entitled to credit for all service” are substi
 
 #### Effective Date of 1958 Amendment
 
-Section 502(k) of Pub. L. 85–477 provided that the amendment made by that section is effective nine months after June 30, 1958.
+Pub. L. 85–477, ch. V, §502(k), June 30, 1958, 72 Stat. 275, provided that the amendment made by that section is effective nine months after June 30, 1958.
 

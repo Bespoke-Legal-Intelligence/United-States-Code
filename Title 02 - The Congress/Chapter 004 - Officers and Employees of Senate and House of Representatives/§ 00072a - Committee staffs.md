@@ -2,7 +2,7 @@
 
 #### (a) Appointment of professional members; number; qualifications; termination of employment
 
-Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committeebusiness and no other duties may be assigned to them.
+Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
 
 #### (b) Professional members for Committee on Appropriations; examinations of executive agencies’ operation
 
@@ -36,7 +36,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 #### (i) Consultants for Senate and House standing committees; procurement of temporary or intermittent services; contracts; advertisement requirements inapplicable; selection method; qualifications report to Congressional committees
 
-(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, or the Committee on House Oversight in the case of standing committees of the House of Representatives, within the limits offunds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to procure the temporary services (not in excess of one year) or intermittent services of individual consultants, or organizations thereof, to make studies or advise the committee with respect to any matter within its jurisdiction or with respect to the administration of the affairs of the committee.
+(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, or the Committee on House Oversight in the case of standing committees of the House of Representatives, within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to procure the temporary services (not in excess of one year) or intermittent services of individual consultants, or organizations thereof, to make studies or advise the committee with respect to any matter within its jurisdiction or with respect to the administration of the affairs of the committee.
 
 (2) Such services in the case of individuals or organizations may be procured by contract as independent contractors, or in the case of individuals by employment at daily rates of compensation not in excess of the per diem equivalent of the highest gross rate of compensation which may be paid to a regular employee of the committee. Such contracts shall not be subject to the provisions of section 6101 of title 41 or any other provision of law requiring advertising.
 
@@ -58,7 +58,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 &emsp;(C) chapter 89 (relating to Federal employees group health insurance) of title 5.
 
-(Aug. 2, 1946, ch. 753, title II, §202, 60 Stat. 834; July 30, 1947, ch. 361, title I, §101, 61 Stat. 611; Feb. 24, 1949, ch. 8, 63 Stat. 6; Aug. 5, 1955, ch. 568, §12, 69 Stat. 509; Pub. L. 85–462, §4(<i>o</i>), June 20, 1958, 72 Stat. 209; Pub. L. 88–426, title II, §202(j), Aug. 14, 1964, 78 Stat. 414; Pub. L. 91–510, title III, §§301(a)–(c), 303, 304, title IV, §477(a)(3), Oct. 26, 1970, 84 Stat. 1175, 1176, 1179, 1180, 1195; Pub. L. 92–136, §5, Oct. 11, 1971, 85 Stat. 378; Pub. L. 100–458, title III, §312, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 104–186, title II, §204(10), (11), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–55, title I, §105(a), Oct. 7, 1997, 111 Stat. 1184.)
+(Aug. 2, 1946, ch. 753, title II, §202, 60 Stat. 834; July 30, 1947, ch. 361, title I, §101, 61 Stat. 611; Feb. 24, 1949, ch. 8, 63 Stat. 6; Aug. 5, 1955, ch. 568, §12, 69 Stat. 509; Pub. L. 85–462, §4(o), June 20, 1958, 72 Stat. 209; Pub. L. 88–426, title II, §202(j), Aug. 14, 1964, 78 Stat. 414; Pub. L. 91–510, title III, §§301(a)–(c), 303, 304, title IV, §477(a)(3), Oct. 26, 1970, 84 Stat. 1175, 1176, 1179, 1180, 1195; Pub. L. 92–136, §5, Oct. 11, 1971, 85 Stat. 378; Pub. L. 100–458, title III, §312, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 104–186, title II, §204(10), (11), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–55, title I, §105(a), Oct. 7, 1997, 111 Stat. 1184.)
 
 #### Partial Repeal
 
@@ -66,7 +66,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 #### Abolition of Additional Clerical Staff Positions
 
-<i>Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the addi</i><i>tional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.</i>
+<i>Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the additional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.</i>
 
 #### Codification
 
@@ -98,7 +98,7 @@ Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §
 
 <b>1988</b>—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that thisstatus continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
 Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
@@ -132,7 +132,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1997 Amendment
 
-Section 105(b) of Pub. L. 105–55 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of August 20, 1996.”
+Pub. L. 105–55, title I, §105(b), Oct. 7, 1997, 111 Stat. 1184, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of August 20, 1996.”
 
 #### Effective Date of 1971 Amendment
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 92–136 effective as of noon on Jan. 3, 1971, see section 
 
 #### Effective Date of 1970 Amendment
 
-Section 601 of Pub. L. 91–510 provided that:
+Pub. L. 91–510, title VI, §601, Oct. 26, 1970, 84 Stat. 1204, provided that:
 
 “The foregoing provisions of this Act \[see Short Title note below\] shall take effect as follows:
 
@@ -158,25 +158,25 @@ Section 601 of Pub. L. 91–510 provided that:
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–462 effective first day of first pay period which began on or after January 1, 1958, see section 17(a) of Pub. L. 85–462.
+Amendment by Pub. L. 85–462 effective first day of first pay period which began on or after January 1, 1958, see section 17(a) of Pub. L. 85–462, June 20, 1958, 72 Stat. 215.
 
 #### Effective Date of 1955 Amendment
 
-Amendment by act Aug. 5, 1955, effective Aug. 1, 1955, see section 14 of that act.
+Amendment by act Aug. 5, 1955, effective Aug. 1, 1955, see section 14 of act Aug. 5, 1955, ch. 568, 69 Stat. 510.
 
 #### Effective Date
 
-Section 245 of title II of act Aug. 2, 1946, provided that: “This title \[see Tables for classification\] shall take effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
+Act Aug. 2, 1946, ch. 753, title II, §245, 60 Stat. 839, provided that: “This title \[see Tables for classification\] shall take effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
 
 #### Short Title
 
-Section 1 of Pub. L. 91–510 provided that Pub. L. 91–510 \[enacting sections 28, 29, 60–1, 88b–1, 190a–1, 190a–2, 190h to 190k, 281 to 281b, 282 to 282e, 331 to 336, 411 to 417, 1841 to 1846, 2161, and 2166 of this title, sections 1151 to 1157 and 1171 to 1176 of former Title 31, Money and Finance, and section 193m–1 of former Title 40, Public Buildings, Property, and Works, amending sections 61–1, 72a, 166, 190a, 190a–1, 190b to 190d, 190f, and 198 of this title, sections 2107, 5533, and 8332 of Title 5, Government Organization and Employees, and section 11 of former Title 31, repealing sections 60g, 60g–1, 88c, and 190e of this title and section 1106 of Title 8, Aliens and Nationality, enacting provisions set out as notes under sections 72a, 88b–1, 281, 331, and 2166 of this title and section 166 of former Title 40, repealing provisions set out as a note under section 60a of this title, and abolishing Joint Committee on Immigration and Nationality established by former section 1106(a) of Title 8\] may be cited as the “Legislative Reorganization Act of 1970.”
+Pub. L. 91–510, §1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 \[enacting sections 28, 29, 60–1, 88b–1, 190a–1, 190a–2, 190h to 190k, 281 to 281b, 282 to 282e, 331 to 336, 411 to 417, 1841 to 1846, 2161, and 2166 of this title, sections 1151 to 1157 and 1171 to 1176 of former Title 31, Money and Finance, and section 193m–1 of former Title 40, Public Buildings, Property, and Works, amending sections 61–1, 72a, 166, 190a, 190a–1, 190b to 190d, 190f, and 198 of this title, sections 2107, 5533, and 8332 of Title 5, Government Organization and Employees, and section 11 of former Title 31, repealing sections 60g, 60g–1, 88c, and 190e of this title and section 1106 of Title 8, Aliens and Nationality, enacting provisions set out as notes under sections 72a, 88b–1, 281, 331, and 2166 of this title and section 166 of former Title 40, repealing provisions set out as a note under section 60a of this title, and abolishing Joint Committee on Immigration and Nationality established by former section 1106(a) of Title 8\] may be cited as the “Legislative Reorganization Act of 1970.”
 
-Section 1(a) of act Aug. 2, 1946, provided that act Aug. 2, 1946 \[enacting sections 72a, 72b–1, 74b, 75a–1, 88a, 132a, 132b, 145a, 166, 190 to 190a–2, 190b to 190f, 190g, 198, 261 to 270, and 2181 of this title, sections 191a and 275 of former Title 5, Executive Departments and Government Officers and Employees, sections 1022(a) and 1024(b)(3) of Title 15, Commerce and Trade, sections 59 and 60 of former Title 31, Money and Finance, sections 525, 526, and 527 to 533 of Title 33, Navigation and Navigable Waters, and sections 1, 182c, and 402 of former Title 44, Public Printing and Documents\], may be cited as the “Legislative Reorganization Act of 1946.”
+Act Aug. 2, 1946, ch. 753, §1(a), 60 Stat. 812 \[enacting sections 72a, 72b–1, 74b, 75a–1, 88a, 132a, 132b, 145a, 166, 190 to 190a–2, 190b to 190f, 190g, 198, 261 to 270, and 2181 of this title, sections 191a and 275 of former Title 5, Executive Departments and Government Officers and Employees, sections 1022(a) and 1024(b)(3) of Title 15, Commerce and Trade, sections 59 and 60 of former Title 31, Money and Finance, sections 525, 526, and 527 to 533 of Title 33, Navigation and Navigable Waters, and sections 1, 182c, and 402 of former Title 44, Public Printing and Documents\], may be cited as the “Legislative Reorganization Act of 1946.”
 
 #### Travel for Studies and Examinations of Executive Agencies
 
@@ -192,7 +192,7 @@ Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1430, provided in part: “
 
 #### Staff Members; Reduction in Number; Selection for Minority Members
 
-Section 301(d) of Pub. L. 91–510 provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed—
+Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed—
 
 &emsp;“(1) to require a reduction in—
 
@@ -204,7 +204,7 @@ Section 301(d) of Pub. L. 91–510 provided that: “Nothing in the amendments m
 
 #### Professional Staffs; Increase in Number
 
-Section 301(e) of Pub. L. 91–510 provided that: “The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee.”
+Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: “The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee.”
 
 #### Increases in Compensation
 
@@ -212,13 +212,13 @@ Increases in compensation for Senate and House officers and employees under auth
 
 #### Reorganization of Committees and Personnel
 
-Sections 102 and 121 of act Aug. 2, 1946, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and section 74a of this title.
+Act Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and section 74a of this title.
 
 #### Office of Senate Security
 
 S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred to as the ‘Secretary’), the Office of Senate Security (hereinafter referred to as the ‘Office’), which shall be headed by a Director of Senate Security (hereinafter referred to as the ‘Director’). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
 
-“(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsection shall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
+“(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsectionshall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
 
 “(2) The Director, with the approval of the Secretary, and after consultation with the Chairman and Ranking Member of the Committee on Rules and Administration of the Senate, may establish such policies and procedures as may be necessary to carry out the provisions of this resolution. Commencing one year from the effective date of this resolution, the Director shall submit an annual report to the Majority and Minority Leaders and the Chairman and Ranking Member of the Committee on Rules and Administration on the status of security matters and the handling of classified information in the Senate, and the progress of the Office in achieving the mandates of this resolution.
 
@@ -244,7 +244,7 @@ Sec. 3. (a) The Office is authorized, and shall have the responsibility, to deve
 
 &emsp;“(6) conducting periodic review of the practices and procedures employed by all offices of the Senate for the handling of classified information.
 
-“(b) Within 180 days after the Director takes office, he shall develop, after consultation with the Secretary, a Senate Security Manual, to be printed and distributed to all Senate offices. The Senate Security Manualwill prescribe the policies and procedures of the Office, and set forth regulations for all other Senate offices for the handling of classified information.
+“(b) Within 180 days after the Director takes office, he shall develop, after consultation with the Secretary, a Senate Security Manual, to be printed and distributed to all Senate offices. The Senate Security Manual will prescribe the policies and procedures of the Office, and set forth regulations for all other Senate offices for the handling of classified information.
 
 “(c) Within 90 days after taking office, the Director shall conduct a survey to determine the number of officers and employees of the Senate that have security clearances and report the findings of the survey to the Majority and Minority Leaders and Secretary of the Senate together with recommendations regarding the feasibility of reducing the number of employees with such clearances.
 
@@ -274,5 +274,5 @@ Pub. L. 95–391, title I, §105, Sept. 30, 1978, 92 Stat. 772, as amended by Pu
 
 #### Authorization of Appropriations
 
-Section 244 of act Aug. 2, 1946, provided in part: “All necessary funds required to carry out the provisions of this Act \[see Short Title note above for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
+Act Aug. 2, 1946, ch. 753, title II, §244, 60 Stat. 839, provided in part: “All necessary funds required to carry out the provisions of this Act \[see Short Title note above for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
 

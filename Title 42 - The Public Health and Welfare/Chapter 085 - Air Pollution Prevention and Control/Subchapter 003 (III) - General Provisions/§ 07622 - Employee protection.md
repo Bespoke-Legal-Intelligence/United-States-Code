@@ -30,7 +30,7 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 #### (e) Enforcement of order by person on whose behalf order was issued
 
-(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil actionagainst the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 (2) The court, in issuing any final order under this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 

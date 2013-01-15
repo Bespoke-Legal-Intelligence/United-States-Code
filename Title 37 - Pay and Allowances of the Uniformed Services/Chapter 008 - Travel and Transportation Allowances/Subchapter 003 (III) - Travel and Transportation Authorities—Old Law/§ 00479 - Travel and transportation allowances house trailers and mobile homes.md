@@ -16,7 +16,7 @@
 
 (e) No transportation of a house trailer or mobile home, or storage or payment in connection therewith, may be provided under this section for transportation that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §409; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718, §§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582; renumbered §479 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(12), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475, §409; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718, §§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582; renumbered §479 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(12), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -34,15 +34,13 @@ Oct. 12, 1949, ch. 681, §303(c) (12th sentence); added Mar. 31, 1955, ch. 20, �
 
 The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 409 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 112–81, §631(f)(4)(A), substituted “476” for “406”. See Codification note above.
+Subsec. (a)(1). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “476” for “406”.
 
 Subsec. (e). Pub. L. 112–81, §631(e)(12), added subsec. (e).
 
@@ -60,7 +58,11 @@ Subsec. (e). Pub. L. 112–81, §631(e)(12), added subsec. (e).
 
 <b>1964</b>—Pub. L. 88–406 substituted “continental United States, within Alaska, or between the continental United States and Alaska” for “United States except in Hawaii or Alaska”, “51 cents” for “36 cents”, inserted “by the United States or” in cl. (2), and defined “continental United States”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 1980 Amendment
 
-Section 808(b) of Pub. L. 96–342 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply to transportation of house trailers and mobile home dwellings which is completed after September 30, 1980.”
+Pub. L. 96–342, title VIII, §808(b), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply to transportation of house trailers and mobile home dwellings which is completed after September 30, 1980.”
 

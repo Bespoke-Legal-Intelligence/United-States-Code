@@ -32,7 +32,7 @@ Regulations.—The Secretary of Defense, after consultation with the other admin
 
 #### Regulations
 
-Section 701(d)(1), (2) of Pub. L. 99–661 provided that:
+Pub. L. 99–661, div. A, title VII, §701(d)(1), (2), Nov. 14, 1986, 100 Stat. 3898, provided that:
 
 “(1) Except as provided in paragraph (2), the Secretary of Defense shall prescribe regulations as required by section 1099(d) of title 10, United States Code (as added by subsection (a)(1)) to implement the system of health care enrollment for covered beneficiaries—
 
@@ -48,5 +48,5 @@ Section 701(d)(1), (2) of Pub. L. 99–661 provided that:
 
 #### Reports to Congress
 
-Section 701(c)(1) of Pub. L. 99–661 required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
+Pub. L. 99–661, div. A, title VII, §701(c)(1), Nov. 14, 1986, 100 Stat. 3898, required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
 

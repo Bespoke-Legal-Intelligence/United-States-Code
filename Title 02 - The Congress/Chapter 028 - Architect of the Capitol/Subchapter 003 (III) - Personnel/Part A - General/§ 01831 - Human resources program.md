@@ -74,7 +74,7 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 
 #### Savings Provision
 
-Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of this title.
+Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of this title.
 
 #### Flexible Work Schedules
 

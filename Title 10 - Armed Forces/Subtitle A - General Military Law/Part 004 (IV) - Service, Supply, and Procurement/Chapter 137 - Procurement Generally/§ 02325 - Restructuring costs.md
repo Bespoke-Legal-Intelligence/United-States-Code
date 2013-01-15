@@ -16,33 +16,9 @@ Limitation on Payment of Restructuring Costs.—(1) The Secretary of Defense may
 
 (b)
 
-Report.—Not later than March 1 in each of 1998, 1999, 2000, 2001, and 2002, the Secretary of Defense shall submit to Congress a report that contains, with respect to business combinations occurring on or after August 15, 1994, the following:
-
-&emsp;(1) For each defense contractor to which the Secretary has paid, under section 2324 of this title, restructuring costs associated with a business combination, a summary of the following:
-
-&emsp;&emsp;(A) An estimate of the amount of savings for the Department of Defense associated with the restructuring that has been realized as of the end of the preceding calendar year.
-
-&emsp;&emsp;(B) An estimate of the amount of savings for the Department of Defense associated with the restructuring that is expected to be achieved on defense contracts.
-
-&emsp;(2) An identification of any business combination for which the Secretary has paid restructuring costs under section 2324 of this title during the preceding calendar year and, for each such business combination—
-
-&emsp;&emsp;(A) the supporting rationale for allowing such costs;
-
-&emsp;&emsp;(B) factual information associated with the determination made under subsection (a) with respect to such costs; and
-
-&emsp;&emsp;(C) a discussion of whether the business combination would have proceeded without the payment of restructuring costs by the Secretary.
-
-&emsp;(3) For business combinations of major defense contractors that took place during the year preceding the year of the report—
-
-&emsp;&emsp;(A) an assessment of any potentially adverse effects that the business combinations could have on competition for Department of Defense contracts (including potential horizontal effects, vertical effects, and organizational conflicts of interest), the national technology and industrial base, or innovation in the defense industry; and
-
-&emsp;&emsp;(B) the actions taken to mitigate the potentially adverse effects.
-
-(c)
-
 Definition.—In this section, the term “business combination” includes a merger or acquisition.
 
-(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771; Pub. L. 108–375, div. A, title VIII, §819, Oct. 28, 2004, 118 Stat. 2016.)
+(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771; Pub. L. 108–375, div. A, title VIII, §819, Oct. 28, 2004, 118 Stat. 2016; Pub. L. 112–239, div. A, title X, §1076(g)(2), Jan. 2, 2013, 126 Stat. 1955.)
 
 #### Prior Provisions
 
@@ -52,13 +28,15 @@ Another prior section 2325 was renumbered section 2345 of this title.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph\(1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B).
+<b>2013</b>—Subsec. (b). Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required reports relating to business combinations occurring on or after August 15, 1994.
+
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B).
 
 <b>1999</b>—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
 
 #### Effective Date
 
-Section 804(c) of Pub. L. 105–85 provided that: “Section 2325(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title VIII, §804(c), Nov. 18, 1997, 111 Stat. 1834, provided that: “Section 2325(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### GAO Reports
 

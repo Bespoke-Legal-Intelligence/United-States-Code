@@ -20,5 +20,5 @@ In this section, the terms “armed forces” and “active duty for a period of
 
 #### Prior Provisions
 
-A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

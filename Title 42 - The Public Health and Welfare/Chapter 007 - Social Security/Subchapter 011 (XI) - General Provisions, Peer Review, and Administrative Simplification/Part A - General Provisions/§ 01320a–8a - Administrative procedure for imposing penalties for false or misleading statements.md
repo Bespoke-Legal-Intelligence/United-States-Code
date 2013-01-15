@@ -4,7 +4,7 @@
 
 Any person who—
 
-&emsp;(1) makes, or causes to be made, a statement or representation of a material fact, for use in determining any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter XVI of this chapter that the person knows or should know is false or misleading,
+&emsp;(1) makes, or causes to be made, a statement or representation of a material fact, for use indetermining any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter XVI of this chapter that the person knows or should know is false or misleading,
 
 &emsp;(2) makes such a statement or representation for such use with knowing disregard for the truth, or
 
@@ -80,5 +80,5 @@ Section applicable to statements and representations made on or after Dec. 14, 1
 
 #### Regulations
 
-Pub. L. 106–169, title II, §207(d), Dec. 14, 1999, 113 Stat. 1838, provided that: “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[this section\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
+Pub. L. 106–169, title II, §207(d), Dec. 14, 1999, 113 Stat. 1838, provided that: “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[this section\] (including when the applicable period in subsection (c) of such section shall commence), andshall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
 

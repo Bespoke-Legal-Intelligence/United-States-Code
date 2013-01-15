@@ -16,7 +16,7 @@
 
 #### (b) Applicability of certain provisions
 
-With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of title III of the Public Health Service Act \[42 U.S.C. 254<i>l</i> et seq.\], the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program.
+With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of title III of the Public Health Service Act \[42 U.S.C. 254l et seq.\], the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program.
 
 #### (c) Authorization of appropriations
 
@@ -26,5 +26,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart III of part D of title III of the Act is classified generally to subpart III \[§254<i>l</i> et seq.\] of part D of subchapter II of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart III of part D of title III of the Act is classified generally to subpart III \[§254l et seq.\] of part D of subchapter II of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

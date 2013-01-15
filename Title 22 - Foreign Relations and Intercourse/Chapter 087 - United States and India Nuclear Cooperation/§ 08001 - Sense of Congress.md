@@ -28,7 +28,7 @@ It is the sense of Congress that—
 
 &emsp;(9) the United States and India share common democratic values and the potential for increasing and sustained economic engagement;
 
-&emsp;(10) commerce in civil nuclear energy with India by the United States and other countries has the potential to benefit the people of all countries;
+&emsp;(10) commerce in civil nuclear energy with India by the United States and other countrieshas the potential to benefit the people of all countries;
 
 &emsp;(11) such commerce also represents a significant change in United States policy regarding commerce with countries that are not States Party to the NPT, which remains the foundation of the international nonproliferation regime;
 
@@ -116,7 +116,7 @@ Rule of Construction.—Nothing in the Agreement shall be construed to supersede
 
 “Licenses may be issued by the Nuclear Regulatory Commission for transfers pursuant to the Agreement only after the President determines and certifies to Congress that—
 
-&emsp;“(1) the Agreement Between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian Nuclear Facilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the ‘Safeguards Agreement’), has entered into force; and
+&emsp;“(1) the Agreement Between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian NuclearFacilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the ‘Safeguards Agreement’), has entered into force; and
 
 &emsp;“(2) the Government of India has filed a declaration of facilities pursuant to paragraph 13 of the Safeguards Agreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the separation plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the separation plan.
 
@@ -162,7 +162,7 @@ Resolution of Disapproval.—Notwithstanding the requirements in subsection (b) 
 
 “(a)
 
-Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group\(NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
+Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to the appropriate congressional committees that it is the policy of the United States to work with members of the Nuclear Suppliers Group (NSG), individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
 
 “(b)
 
@@ -212,7 +212,7 @@ Pursuant to section 104 of the United States-India Nuclear Cooperation Approval 
 
 1\. The Agreement between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian Nuclear Facilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the “Safeguards Agreement”), has entered into force; and
 
-2\. The Government of India has filed a declaration of facilities pursuant to paragraph 13 of the Safeguards Agreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the Separation Plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the Separation Plan.
+2\. The Government of India has filed a declaration of facilities pursuant to paragraph 13 of the SafeguardsAgreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the Separation Plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the Separation Plan.
 
 You are authorized and directed to publish this determination in the Federal Register.
 

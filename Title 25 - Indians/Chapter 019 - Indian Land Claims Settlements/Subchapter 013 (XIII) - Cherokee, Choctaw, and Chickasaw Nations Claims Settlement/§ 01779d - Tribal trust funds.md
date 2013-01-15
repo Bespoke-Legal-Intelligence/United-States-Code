@@ -38,11 +38,11 @@
 
 #### (B) Investment by Secretary
 
-&emsp;&emsp;Except as provided in this section and section 1779e of this title, the principal of such funds deposited into the accounts established hereunder and any interest earned thereon shall be invested by the Secretary in accordance with current laws and regulations for the investing of tribal trust funds.
+&emsp;&emsp;Except as provided in this section and section 1779e of this title, the principal of such funds deposited into the accounts established hereunder and any interest earnedthereon shall be invested by the Secretary in accordance with current laws and regulations for the investing of tribal trust funds.
 
 #### (C) Use of principal funds
 
-&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be madeavailable to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
+&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be made available to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
 
 #### (3) Disbursement of funds
 

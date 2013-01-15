@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 &emsp;(6) The Government of Iran continues to engage in serious, systematic, and ongoing violations of human rights, including suppression of freedom of expression and religious freedom, illegitimately prolonged detention, torture, and executions. Such violations have increased in the aftermath of the fraudulent presidential election in Iran on June 12, 2009.
 
-&emsp;(7) The Government of Iran has been unresponsive to President Obama's unprecedented and serious efforts at engagement, revealing that the Government of Iran is not interested in a diplomatic resolution, as made clear, for example, by the following:
+&emsp;(7) The Government of Iran has been unresponsive to President Obama's unprecedented and serious efforts at engagement, revealingthat the Government of Iran is not interested in a diplomatic resolution, as made clear, for example, by the following:
 
 &emsp;&emsp;(A) Iran's apparent rejection of the Tehran Research Reactor plan, generously offered by the United States and its partners, of potentially great benefit to the people of Iran, and endorsed by Iran's own negotiators in October 2009.
 

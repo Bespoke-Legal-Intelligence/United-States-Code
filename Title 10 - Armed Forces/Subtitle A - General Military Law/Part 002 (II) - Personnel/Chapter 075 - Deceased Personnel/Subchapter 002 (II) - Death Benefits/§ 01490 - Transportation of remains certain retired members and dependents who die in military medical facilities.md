@@ -38,5 +38,5 @@ Pub. L. 108–136, div. A, title V, §562(c), Nov. 24, 2003, 117 Stat. 1483, pro
 
 #### Effective Date
 
-Section 1032(b) of Pub. L. 98–94 provided that: “Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983.”
+Pub. L. 98–94, title X, §1032(b), Sept. 24, 1983, 97 Stat. 672, provided that: “Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983.”
 

@@ -10,7 +10,7 @@ This subchapter may be cited as the “Federal Alcohol Administration Act”.
 
 #### Short Title
 
-Section 201 of title II of act Aug. 29, 1935, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4518, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Alcoholic Beverage Labeling Act of 1988’.”
+Act Aug. 29, 1935, title II, §201, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4518, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Alcoholic Beverage Labeling Act of 1988’.”
 
 #### Transfer of Functions
 

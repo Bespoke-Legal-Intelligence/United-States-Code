@@ -78,7 +78,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(20) the Office of the Director of National Intelligence.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, §5(<i>l</i>)(4), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, §5(l)(4), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ In subsection (e)(6), the words “the Munitions Board” are omitted because se
 
 In subsection (e)(8), the words “or the Department of Agriculture” are omitted as unnecessary because of section 1 of Reorganization Plan No. 2 of 1953 (eff. June 30, 1953, 67 Stat. 638). The words “the Act of August 31, 1947, Public Law 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities” are omitted because the intended reference is probably to the Act of July 31, 1947 (ch. 413, 61 Stat. 694), which was repealed by section 205(a) of the Housing Act of 1950 (ch. 94, 64 Stat. 73).
 
-In subsection (e)(9), the words “an official or entity under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)” are substituted for “the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640<i>l</i>(b) of title 12” because section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (12:2001 note), repealed 12:640<i>l</i>, and provided that “\[a\]ll references in other legislation . . . to the Acts repealed hereby shall be deemed to refer to comparable provisions of \[the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)\]”.
+In subsection (e)(9), the words “an official or entity under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)” are substituted for “the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640l(b) of title 12” because section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (12:2001 note), repealed 12:640l, and provided that “\[a\]ll references in other legislation . . . to the Acts repealed hereby shall be deemed to refer to comparable provisions of \[the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)\]”.
 
 In subsection (e)(10), the words “Secretary of Housing and Urban Development” are substituted for “Department of Housing and Urban Development” because of 42:3532. The words “Federal Deposit Insurance Corporation” are substituted for “Resolution Trust Corporation” because under 12:1441a(m)(1), the Resolution Trust Corporation terminated on December 31, 1995, and was succeeded by the Federal Deposit Insurance Corporation.
 

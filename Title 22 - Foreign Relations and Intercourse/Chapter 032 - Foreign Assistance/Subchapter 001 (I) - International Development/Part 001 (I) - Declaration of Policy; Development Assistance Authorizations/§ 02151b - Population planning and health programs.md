@@ -14,9 +14,9 @@ In order to increase the opportunities and motivation for family planning and to
 
 #### (c) Assistance for health programs; special health needs of children and mothers; Child Survival Fund; promotion of immunization and oral rehydration; control of AIDS and tuberculosis
 
-(1) In order to contribute to improvements in the health of the greatest number of poor peoplein developing countries, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for health programs. Assistance under this subsection shall be used primarily for basic integrated health services, safe water and sanitation, disease prevention and control, and related health planning and research. This assistance shall emphasize self-sustaining community-based health programs by means such as training of health auxiliary and other appropriate personnel, support for the establishment and evaluation of projects that can be replicated on a broader scale, measures to improve management of health programs, and other services and supplies to support health and disease prevention programs.
+(1) In order to contribute to improvements in the health of the greatest number of poor people in developing countries, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for health programs. Assistance under this subsection shall be used primarily for basic integrated health services, safe water and sanitation, disease prevention and control, and related health planning and research. This assistance shall emphasize self-sustaining community-based health programs by means such as training of health auxiliary and other appropriate personnel, support for the establishment and evaluation of projects that can be replicated on a broader scale, measures to improve management of health programs, and other services and supplies to support health and disease prevention programs.
 
-(2)(A) In carrying out the purposes of this subsection, the President shall promote, encourage, and undertake activities designed to deal directly with the special health needs of children and mothers. Such activities should utilize simple, available technologies which can significantly reduce childhood mortality, such as improved and expanded immunization programs, oral rehydration to combat diarrhoeal diseases, and education programs aimed at improving nutrition and sanitation and at promoting child spacing. In carrying out this paragraph, guidance shall be sought from knowledgeable health professionals from outside the agency primarily responsible for administering subchapter I of this chapter. In addition to government-to-government programs, activities pursuant to this paragraph should include support for appropriate activities of the types described in this paragraph which are carried out by international organizations (which may include international organizations receiving funds under part III of this subchapter) and by private and voluntary organizations, and should include encouragement to other donors to support such types of activities.
+(2)(A) In carrying out the purposes of this subsection, the President shall promote, encourage, and undertake activities designed to deal directly with the special health needs of children and mothers. Such activities should utilize simple, available technologies which can significantly reduce childhood mortality, such as improved and expanded immunization programs, oral rehydration to combat diarrhoeal diseases, and education programs aimed at improving nutrition and sanitation and at promoting child spacing. In carrying out this paragraph, guidance shall be sought from knowledgeable health professionals from outside the agency primarily responsible for administering subchapter I of this chapter. In addition to government-to-government programs, activities pursuant to this paragraph should include support for appropriate activities of the types described in this paragraph which are carried out by international organizations (which may includeinternational organizations receiving funds under part III of this subchapter) and by private and voluntary organizations, and should include encouragement to other donors to support such types of activities.
 
 (B) In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President $25,000,000 for fiscal year 1986 and $75,000,000 for fiscal year 1987 for use in carrying out this paragraph. Amounts appropriated under this subparagraph are authorized to remain available until expended.
 
@@ -40,7 +40,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 (1) Health and population research and analysis carried out under this chapter shall—
 
-&emsp;(A) be undertaken to the maximum extent practicable in developing countries by developing country personnel, linked as appropriatewith private and governmental biomedical research facilities within the United States;
+&emsp;(A) be undertaken to the maximum extent practicable in developing countries by developing country personnel, linked as appropriate with private and governmental biomedical research facilities within the United States;
 
 &emsp;(B) take account of the special needs of the poor people of developing countries in the determination of research priorities; and
 
@@ -120,7 +120,7 @@ Subsec. (g)(2). Pub. L. 96–53, §102(a), substituted provisions authorizing ap
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–88, §103(a), transferred to subsec. (b) provisions covering the President's authority to furnish assistance for health purpose and, in the provisions covering population planning remaining in subsec. (a), struck out provisions authorizing the appropriations of $145,000,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, $243,100,000 for fiscal year 1976, and $275,600,000 for fiscal year 1977, struck out provisions requiring that not less than 67 percent of the funds made available under this section be used for population planning, and inserted provisions authorizing an appropriation of $167,000,000 for fiscal year 1978.
 
-Subsec. (b). Pub. L. 95–88, §103(a), added subsec. (b), consisting of provisions transferred from subsec. (a) covering the President's authority to furnish assistance for health purposes, inserted references to disease prevention and environmental sanitation, and inserted provisions authorizing an appropriation of $107,700,000 for fiscal year 1978. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 95–88, §103(a), added subsec. (b), consisting of provisions transferred from subsec. (a)covering the President's authority to furnish assistance for health purposes, inserted references to disease prevention and environmental sanitation, and inserted provisions authorizing an appropriation of $107,700,000 for fiscal year 1978. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 95–88, §103(b), redesignated former subsec. (b) as (c).
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Section 103(d) of Pub. L. 95–88 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977.”
+Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977.”
 
 #### Delegation of Functions
 
@@ -188,5 +188,5 @@ Pub. L. 106–264, title II, §202, Aug. 19, 2000, 114 Stat. 758, provided that:
 
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 
-Section 305(b) of Pub. L. 99–83 provided that: “Each annual report required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act \[22 U.S.C. 2151b(c)(3)\].”
+Pub. L. 99–83, title III, §305(b), Aug. 8, 1985, 99 Stat. 215, provided that: “Each annual report required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act \[22 U.S.C. 2151b(c)(3)\].”
 

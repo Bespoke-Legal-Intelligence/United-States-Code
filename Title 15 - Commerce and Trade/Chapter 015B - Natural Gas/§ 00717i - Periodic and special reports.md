@@ -6,7 +6,7 @@ Every natural-gas company shall file with the Commission such annual and other p
 
 #### (b) Unlawful conduct
 
-It shall be unlawful for any natural-gas company willfully to hinder, delay, or obstruct the making, filing, or keeping of any information, document, report, memorandum, record, or account required to be made, filed, or kept under this chapter or any rule, regulation, or order thereunder.
+It shall be unlawful for any natural-gas company willfully to hinder, delay, or obstruct the making, filing, or keeping of any information,document, report, memorandum, record, or account required to be made, filed, or kept under this chapter or any rule, regulation, or order thereunder.
 
 (June 21, 1938, ch. 556, §10, 52 Stat. 826.)
 

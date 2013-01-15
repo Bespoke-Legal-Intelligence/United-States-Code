@@ -26,7 +26,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “party” includes a person or agency named or admitted as a party, or properly seeking and entitled as of right to be admitted as a party, in an agency proceeding, and a person or agency admitted by an agency as a party for limited purposes;
 
-&emsp;(4) “rule” means the whole or a part of an agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the organization, procedure, or practice requirements of an agency and includes the approval or prescription for the future of rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services or allowances therefor or of valuations, costs, or accounting, or practices bearing on any of the foregoing;
+&emsp;(4) “rule” means the whole or a part of an agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the organization, procedure, or practice requirements of an agency and includes the approval or prescription for the future of rates, wages, corporate or financial structures or reorganizations thereof, prices,facilities, appliances, services or allowances therefor or of valuations, costs, or accounting, or practices bearing on any of the foregoing;
 
 &emsp;(5) “rule making” means agency process for formulating, amending, or repealing a rule;
 
@@ -150,7 +150,7 @@ Pub. L. 106–544, §7, Dec. 19, 2000, 114 Stat. 2719, provided that:
 
 “(a)
 
-Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
+Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General,in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
 
 &emsp;“(1) a description of the sources of administrative subpoena power and the scope of such subpoena power within executive branch agencies;
 

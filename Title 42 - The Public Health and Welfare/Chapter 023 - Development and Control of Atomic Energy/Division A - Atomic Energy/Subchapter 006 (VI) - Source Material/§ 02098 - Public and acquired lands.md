@@ -16,7 +16,7 @@ Notwithstanding the provisions of the Atomic Energy Act of 1946, as amended \[42
 
 #### References in Text
 
-The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified generally to chapter 14 (§1801 et seq.) of this title prior to the general amendment by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. The act of Aug. 1, 1946, ch. 724, is now known as the Atomic Energy Act of 1954, and is classified principally to this chapter (§2011 et seq.). For complete classification of the Atomic Energy Act of 1954 to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified generally to chapter 14 (§1801 et seq.) of this title prior to the general amendment by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. The act of Aug. 1, 1946, ch. 724, is now known as the Atomic Energy Act of 1954,and is classified principally to this chapter (§2011 et seq.). For complete classification of the Atomic Energy Act of 1954 to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 Section 5(b)(7) thereof, referred to in subsec. (c), was classified to section 1805(b)(7) of this title and was omitted in the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921.
 

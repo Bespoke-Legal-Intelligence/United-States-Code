@@ -64,7 +64,7 @@ In furtherance of the purpose of this subsection the Secretary in cooperation wi
 
 #### (i) Water quality protection; interagency cooperation
 
-The Secretary or the Secretary of the Interior, after jurisdiction over the National Area has been transferred to him under subsection (b) of this subsection, shall consult and cooperate with other departments and agencies of the United States and the States of Tennessee and Kentucky in the development of measures and programs to protect and enhance water quality within the National Area and to insure that such programs for the protection and enhancement of water quality do not diminish other values that are to be protected under this section.
+The Secretary or the Secretary of the Interior, after jurisdiction over the National Area has been transferred to him under subsection (b) of this subsection,<sup>1</sup> shall consult and cooperate with other departments and agencies of the United States and the States of Tennessee and Kentucky in the development of measures and programs to protect and enhance water quality within the National Area and to insure that such programs for the protection and enhancement of water quality do not diminish other values that are to be protected under this section.
 
 #### (j) Real and personal property tax losses; reimbursement; authorization of appropriations
 
@@ -76,7 +76,7 @@ The Secretary or the Secretary of the Interior, after jurisdiction over the Nati
 
 There are authorized to be appropriated $156,122,000 to carry out the provisions of this section, other than subsection (j) of this section. Costs for the National Area shall be provided in the same manner as costs for national recreation areas administered by the Secretary of the Interior through the National Park Service.
 
-(Pub. L. 93–251, title I, §108, Mar. 7, 1974, 88 Stat. 43; Pub. L. 94–587, §184, Oct. 22, 1976, 90 Stat. 2940; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 99–662, title XI, §1110, Nov. 17, 1986, 100 Stat. 4231; Pub. L. 101–561, §1, Nov. 15, 1990, 104 Stat. 2778.)
+(Pub. L. 93–251, title I, §108, Mar. 7, 1974, 88 Stat. 43; Pub. L. 94–587, §184, Oct. 22, 1976, 90 Stat. 2940;Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 99–662, title XI, §1110, Nov. 17, 1986, 100 Stat. 4231; Pub. L. 101–561, §1, Nov. 15, 1990, 104 Stat. 2778.)
 
 #### References in Text
 
@@ -120,5 +120,7 @@ Subsec. (k). Pub. L. 94–587, §184(f), substituted “$103,522,000” for “$
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (f) pursuant to Pub. L. 95–91, §402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.)transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

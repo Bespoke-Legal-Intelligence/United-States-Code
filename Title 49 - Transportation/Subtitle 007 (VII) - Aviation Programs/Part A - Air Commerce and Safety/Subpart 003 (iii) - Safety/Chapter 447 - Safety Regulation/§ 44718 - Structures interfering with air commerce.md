@@ -42,7 +42,7 @@ In general.—No person shall construct or establish a municipal solid waste lan
 
 &emsp;(2)
 
-Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
+Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, amunicipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
 
 (e)
 
@@ -86,7 +86,7 @@ The date of the enactment of this subsection, referred to in subsec. (d), probab
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–181 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.”
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
@@ -100,7 +100,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Study of Effects of New Construction of Obstructions on Military Installations and Operations
 
-Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369, provided that:
+Pub. L. 111–383, div. A, title III, §358, Jan. 7, 2011, 124 Stat. 4198, as amended by Pub. L. 112–81, div. A, title III, §331, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title X, §1076(b)(1), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
 “(a)
 
@@ -136,7 +136,7 @@ Initial Actions.—Not later than 180 days after the date of the enactment of th
 
 &emsp;“(2) develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that may have an adverse impact on military operations and readiness;
 
-&emsp;“(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from State and local officials or the developer of a renewable energy development or other energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response while seeking to fulfil \[sic\] the objective under subsection (a); and
+&emsp;“(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from State and local officials or the developer of a renewable energy development or other energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response whileseeking to fulfill the objective under subsection (a); and
 
 &emsp;“(4) develop procedures for conducting early outreach to parties carrying out projects filed with the Secretary of Transportation pursuant to section 44718 of title 49, United States Code, that could have an adverse impact on military operations and readiness, and to the general public, to clearly communicate notice on actions being taken by the Department of Defense under this section and to receive comments from such parties and the general public on such actions.
 
@@ -164,7 +164,7 @@ Elements.—In developing the strategy required by paragraph (1), the Secretary 
 
 &emsp;&emsp;&emsp;“(iii) recommended upgrades or modifications to existing systems or procedures by the Department of Defense;
 
-&emsp;&emsp;&emsp;“(iv) acquisition of new systems by the Department and other departments and agencies of theFederal Government and timelines for fielding such new systems; and
+&emsp;&emsp;&emsp;“(iv) acquisition of new systems by the Department and other departments and agencies of the Federal Government and timelines for fielding such new systems; and
 
 &emsp;&emsp;&emsp;“(v) modifications to the projects for which such applications are filed, including changes in size, location, or technology.
 

@@ -46,11 +46,11 @@ Par. (2)(C). Pub. L. 104–201, §1606(a)(2), added subpar. (C) and struck out f
 
 #### Effective Date of 1997 Amendment
 
-Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Short Title
 
-Section 1 of Pub. L. 86–91 provided that: “This Act \[enacting this chapter and provisions now contained in section 5102(c)(22) of Title 5, Government Organization and Employees\] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
+Pub. L. 86–91, §1, July 17, 1959, 73 Stat. 213, provided that: “This Act \[enacting this chapter and provisions now contained in section 5102(c)(22) of Title 5, Government Organization and Employees\] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

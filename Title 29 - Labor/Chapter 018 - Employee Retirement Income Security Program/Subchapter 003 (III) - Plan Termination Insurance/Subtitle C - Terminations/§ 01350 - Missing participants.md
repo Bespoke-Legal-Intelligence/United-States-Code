@@ -92,7 +92,7 @@ The corporation shall prescribe rules similar to the rules in subsection (a) for
 
 #### (e) Regulatory authority
 
-The corporation shall prescribe such regulations as are necessary to carry out the purposesof this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
+The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
 
 (Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934; Pub. L. 110–458, title I, §104(e), Dec. 23, 2008, 122 Stat. 5104.)
 

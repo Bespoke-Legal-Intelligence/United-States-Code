@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 (6) The term “marine mammal” means any mammal which (A) is morphologically adapted to the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
 
-(7) The term “marine mammal product” means any item of merchandise which consists, or is composed in whole or in part, of any marine mammal.
+(7) The term “marine mammal product” means any item of merchandise which consists,or is composed in whole or in part, of any marine mammal.
 
 (8) The term “moratorium” means a complete cessation of the taking of marine mammals and a complete ban on the importation into the United States of marine mammals and marine mammal products, except as provided in this chapter.
 
@@ -76,7 +76,7 @@ For the purposes of this chapter—
 
 (C) The term “Level A harassment” means harassment described in subparagraph (A)(i) or, in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(i).
 
-(D) The term “Level B harassment” means harassment described in subparagraph (A)(ii) or, in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(ii).
+(D) The term “Level B harassment” means harassment described in subparagraph (A)(ii) or,in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(ii).
 
 (19) The term “strategic stock” means a marine mammal stock—
 
@@ -122,7 +122,7 @@ For the purposes of this chapter—
 
 (29) The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L.106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
 #### References in Text
 
@@ -190,7 +190,7 @@ Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15
 
 #### Effective Date of 1997 Amendment
 
-Section 8 of Pub. L. 105–42 provided that:
+Pub. L. 105–42, §8, Aug. 15, 1997, 111 Stat. 1139, provided that:
 
 “(a)
 
@@ -218,11 +218,11 @@ Special Effective Date.—Notwithstanding subsection (a), the Secretary of Comme
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1994 Amendment
 
-Section 24(e) of Pub. L. 103–238 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\].”
+Pub. L. 103–238, §24(e), Apr. 30, 1994, 108 Stat. 566, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date of 1976 Amendment
 
-Section 404(b) of Pub. L. 94–265 provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, §404(b), Apr. 13, 1976, 90 Stat. 361, provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1973 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Construction of Amendment by Pub. L. 102–587
 
-Section 24(a)(1) of Pub. L. 103–238 provided that: “The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587, amending this section\]—
+Pub. L. 103–238, §24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: “The amendments set forth in section 3004(b) of the Marine Mammal Health and StrandingResponse Act (106 Stat. 5067) \[Pub. L. 102–587, amending this section\]—
 
 &emsp;“(A) are deemed to have been made by that section to section 3(12) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1362(12)); and
 

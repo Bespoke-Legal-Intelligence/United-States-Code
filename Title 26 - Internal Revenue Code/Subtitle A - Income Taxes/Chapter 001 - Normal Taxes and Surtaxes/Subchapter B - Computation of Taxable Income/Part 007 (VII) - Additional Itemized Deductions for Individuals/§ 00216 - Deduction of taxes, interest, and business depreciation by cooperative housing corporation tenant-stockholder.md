@@ -4,7 +4,7 @@
 
 In the case of a tenant-stockholder (as defined in subsection (b)(2)), there shall be allowed as a deduction amounts (not otherwise deductible) paid or accrued to a cooperative housing corporation within the taxable year, but only to the extent that such amounts represent the tenant-stockholder's proportionate share of—
 
-&emsp;(1) the real estate taxes allowable as a deduction to the corporation under section 164 which are paid or incurred by the corporation on the houses or apartment building and on the land on which such houses (or building) are situated, or
+&emsp;(1) the real estate taxes allowable as a deduction to the corporation under section 164 which are paid or incurred by the corporationon the houses or apartment building and on the land on which such houses (or building) are situated, or
 
 &emsp;(2) the interest allowable as a deduction to the corporation under section 163 which is paid or incurred by the corporation on its indebtedness contracted—
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (ii) Election by corporation required
 
-&emsp;&emsp;&emsp;Clause (i) shall apply with respect to any cooperative housing corporation only if such corporation elects its application.Such an election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;&emsp;Clause (i) shall apply with respect to any cooperative housing corporation only if such corporation elects its application. Such an election, once made, may be revoked only with the consent of the Secretary.
 
 #### (4) Stock owned by governmental units
 
@@ -122,7 +122,7 @@ Subsec. (b)(5). Pub. L. 99–514, §644(a)(2), substituted “Prior approval of 
 
 Subsec. (b)(6). Pub. L. 99–514, §644(a)(2), amended par. (6) generally, substituting provisions defining “original seller” for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining “original seller” for purposes of former par. (6).
 
-Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
+Subsec. (c). Pub. L. 99–514, §644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a tradeor business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
 
 Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
@@ -156,11 +156,11 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Section 6282(b) of Pub. L. 100–647 provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\].”
+Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\].”
 
 #### Effective Date of 1986 Amendment
 
-Section 644(f) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §644(f), Oct. 22, 1986, 100 Stat. 2289, provided that:
 
 “(1)
 
@@ -180,23 +180,23 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 531(b) of Pub. L. 95–600 provided that: “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §531(b), Nov. 6, 1978, 92 Stat. 2887, provided that: “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Effective Date of 1976 Amendment
 
-Section 2101(f)(2) of Pub. L. 94–455 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to stock acquired by banks or other lending institutions after the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2101(f)(2), Oct. 4, 1976, 90 Stat. 1900, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to stock acquired by banks or other lending institutions after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 913(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title IX, §913(b), Dec. 30, 1969, 83 Stat. 723, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1962 Amendment
 
-Section 28(c) of Pub. L. 87–834 provided that: “The amendments made by subsection (a) \[amending thissection\] shall be effective with respect to taxable years beginning after December 31, 1961.”
+Pub. L. 87–834, §28(c), Oct. 16, 1962, 76 Stat. 1068, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961.”
 
 #### Treatment of Amounts Received in Connection With Refinancing of Indebtedness of Certain Cooperative Housing Corporations; Treatment of Amounts Paid From Qualified Refinancing-Related Reserve
 
-Section 644(e) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title VI, §644(e), Oct. 22, 1986, 100 Stat. 2287, provided that:
 
 “(1)
 

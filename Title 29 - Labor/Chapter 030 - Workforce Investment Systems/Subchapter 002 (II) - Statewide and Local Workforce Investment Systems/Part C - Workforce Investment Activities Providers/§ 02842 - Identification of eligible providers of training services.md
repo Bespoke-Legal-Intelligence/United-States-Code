@@ -66,7 +66,7 @@
 
 #### (3) Opportunity to submit comments
 
-&emsp;The Governor shall provide an opportunity, during the development of the procedure, forinterested members of the public, including representatives of business and labor organizations, to submit comments on such procedure.
+&emsp;The Governor shall provide an opportunity, during the development of the procedure, for interested members of the public, including representatives of business and labor organizations, to submit comments on such procedure.
 
 #### (4) Considerations
 
@@ -140,7 +140,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2)that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
+&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
 
 #### (B) Higher education eligibility requirements
 
@@ -164,7 +164,7 @@
 
 #### (A) State list
 
-&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
+&emsp;&emsp;The designated State agency shall compile a single list of the providers identified underparagraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
 
 #### (B) Selection from State list
 
@@ -194,7 +194,7 @@
 
 #### (g) Appeal
 
-The Governor shall establish procedures for providers of training services to appeal a denialof eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
+The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
 
 #### (h) On-the-job training or customized training exception
 

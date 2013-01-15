@@ -2,7 +2,7 @@
 
 (a) Whoever, in any of the circumstances set forth in subsection (d), knowingly engages or attempts to engage in a monetary transaction in criminally derived property of a value greater than $10,000 and is derived from specified unlawful activity, shall be punished as provided in subsection (b).
 
-(b)(1) Except as provided in paragraph (2), the punishment for an offense under this section is a fine under title 18, United States Code, or imprisonment for not more than ten years or both.
+(b)(1) Except as provided in paragraph (2), the punishment for an offense under this section is a fine under title 18, United States Code, or imprisonment for not more than ten years or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater.
 
 (2) The court may impose an alternate fine to that imposable under paragraph (1) of not more than twice the amount of the criminally derived property involved in the transaction.
 
@@ -24,9 +24,11 @@
 
 &emsp;(3) the terms “specified unlawful activity” and “proceeds” shall have the meaning given those terms in section 1956 of this title.
 
-(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690,title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, §403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, §2(f)(2), May 20, 2009, 123 Stat. 1618.)
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–21; amended Pub. L. 100–690, title VI, §§6182, 6184, 6469(a)(2), Nov. 18, 1988, 102 Stat. 4354, 4377; Pub. L. 102–550, title XV, §§1526(b), 1527(b), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXIII, §330020, Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §413(c)(2), Sept. 23, 1994, 108 Stat. 2255; Pub. L. 109–177, title IV, §403(c)(2), Mar. 9, 2006, 120 Stat. 243; Pub. L. 111–21, §2(f)(2), May 20, 2009, 123 Stat. 1618; Pub. L. 112–186, §4(b)(2), Oct. 5, 2012, 126 Stat. 1429.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–186 inserted at end “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater.”
 
 <b>2009</b>—Subsec. (f)(3). Pub. L. 111–21 added par. (3) and struck out former par. (3) which read as follows: “the term ‘specified unlawful activity’ has the meaning given that term in section 1956 of this title.”
 
@@ -36,7 +38,7 @@
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–550 substituted “section 1956 of this title” for “section 5312 of title 31” and inserted “, including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title,” before “but such term does not include”.
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–690, §6469(a)(2), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+<b>1988</b>—Subsec. (e). Pub. L. 100–690, §6469(a)(2), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be enteredinto by the Secretary of the Treasury and the Attorney General.”
 
 Subsec. (f)(1). Pub. L. 100–690, §§6182, 6184, substituted “in section 1956(c)(5) of this title” for “for the purposes of subchapter II of chapter 53 of title 31” and inserted “, but such term does not include any transaction necessary to preserve a person's right to representation as guaranteed by the sixth amendment to the Constitution”.
 

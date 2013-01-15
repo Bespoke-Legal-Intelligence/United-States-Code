@@ -2,13 +2,17 @@
 
 (a)
 
-In General.—Any vessel acquired by the Maritime Administration shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+In General.—Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
 
 (b)
 
 Removal From Fleet.—A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1658.)
+(c)
+
+Authority of Federal Entities To Transfer Vessels.—All Federal entities are authorized to transfer vessels to the National Defense Reserve Fleet without reimbursement subject to the approval of the Secretary of Transportation and the Secretary of the Navy with respect to Ready Reserve Force vessels and the Secretary of Transportation with respect to all other vessels.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1658; Pub. L. 112–213, title IV, §§406, 407, Dec. 20, 2012, 126 Stat. 1571.)
 
 Historical and Revision Notes
 
@@ -29,4 +33,10 @@ June 29, 1936, ch. 858, title V, §510(j), as added Pub. L. 89–254, §2, Oct. 
 In subsection (a), the words “vessel acquired by the Maritime Administration” are subtituted for “vessel heretofore or hereafter acquired under this section, or otherwise acquired by the Maritime Administration of the Department of Transportation under any other authority” to eliminate unnecessary words.
 
 In subsection (b), the words “except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title” are substituted for “except as provided for in subsections (g) and (i) of this section. This limitation shall not affect the rights of the Secretary of Transportation to dispose of a vessel as provided in other sections of this subchapter or in subchapters VII or XI of this chapter” because of the restatement.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–213, §406, inserted “of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate” after “Administration”.
+
+Subsec. (c). Pub. L. 112–213, §407, added subsec. (c).
 

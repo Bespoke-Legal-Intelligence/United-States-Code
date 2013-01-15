@@ -9,3 +9,4 @@
 - [&sect; 14922 - Process for accreditation and approval; role of accrediting entities](%C2%A7%2014922%20-%20Process%20for%20accreditation%20and%20approval%3B%20role%20of%20accrediting%20entities.md)
 - [&sect; 14923 - Standards and procedures for providing accreditation or approval](%C2%A7%2014923%20-%20Standards%20and%20procedures%20for%20providing%20accreditation%20or%20approval.md)
 - [&sect; 14924 - Secretarial oversight of accreditation and approval](%C2%A7%2014924%20-%20Secretarial%20oversight%20of%20accreditation%20and%20approval.md)
+- [&sect; 14925 - Universal accreditation requirements](%C2%A7%2014925%20-%20Universal%20accreditation%20requirements.md)

@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (7) Defined benefit plan exception
 
-&emsp;In determining the amount of nondeductible contributions for any taxable year, an employer may elect for such year not to take into account any contributions to a defined benefit plan except, in the case of a multiemployer plan, to the extent that such contributions exceed the full-funding limitation (as defined in section 431(c)(6)). For purposes of this paragraph, the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to defined contribution plans and then to amounts described in this paragraph. If an employer makes an election under this paragraph for a taxable year, paragraph (6) shall not apply to such employer for such taxable year.
+&emsp;In determining the amount of nondeductible contributions for any taxable year, an employer may elect for such year not to take into account any contributions to a defined benefit plan except, in the case of a multiemployer plan, to the extent that such contributions exceed the full-funding limitation (as defined in section 431(c)(6)). For purposes of this paragraph, the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to defined contribution plans and then to amounts described in this paragraph.If an employer makes an election under this paragraph for a taxable year, paragraph (6) shall not apply to such employer for such taxable year.
 
 #### (d) Definitions
 
@@ -102,7 +102,7 @@ A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
+<b>2006</b>—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
 
 &emsp;“(i) the amount of contributions not in excess of 6 percent of compensation (within the meaning of section 404(a) and as adjusted under section 404(a)(12)) paid or accrued (during the taxable year for which the contributions were made) to beneficiaries under the plans, or
 
@@ -186,7 +186,7 @@ Pub. L. 107–16, title VI, §653(b), June 7, 2001, 115 Stat. 130, provided that
 
 #### Effective Date of 1997 Amendment
 
-Section 1507(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XV, §1507(b), Aug. 5, 1997, 111 Stat. 1067, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1994 Amendment
 
-Section 755(b) of Pub. L. 103–465 provided that:
+Pub. L. 103–465, title VII, §755(b), Dec. 8, 1994, 108 Stat. 5024, provided that:
 
 “(1)
 
@@ -224,7 +224,7 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
+Pub. L. 100–647, title I, §1011A(e)(5), Nov. 10, 1988, 102 Stat. 3478, provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;“(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 

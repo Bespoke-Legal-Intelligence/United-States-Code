@@ -1,6 +1,6 @@
 ### §129. Prohibition of certain civilian personnel management constraints
 
-(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title, (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
+(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) thetotal force management policies and procedures established under section 129a of this title, (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
 
 (b) The number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense may not be—
 
@@ -24,7 +24,7 @@
 
 (2) Each report of an official under paragraph (1) shall contain the following:
 
-&emsp;(A) The official's certification (i) that the civilian workforce under the jurisdiction of the official is not subject to any constraint or limitation in terms of man years, end strength,full-time equivalent positions, or maximum number of employees, and (ii) that, during the 12 months preceding the date on which the report is due, such workforce has not been subject to any such constraint or limitation.
+&emsp;(A) The official's certification (i) that the civilian workforce under the jurisdiction of the official is not subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees, and (ii) that, during the 12 months preceding the date on which the report is due, such workforce has not been subject to any such constraint or limitation.
 
 &emsp;(B) A description of how the civilian workforce is managed.
 

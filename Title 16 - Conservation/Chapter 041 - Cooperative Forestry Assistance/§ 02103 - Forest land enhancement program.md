@@ -40,7 +40,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (1) Development
 
-&emsp;The State Forester and State Forest Stewardship Coordinating Committee of a Stateshall jointly develop and submit to the Secretary a State priority plan that is intended to promote forest management objectives in that State.
+&emsp;The State Forester and State Forest Stewardship Coordinating Committee of a State shall jointly develop and submit to the Secretary a State priority plan that is intended to promote forest management objectives in that State.
 
 #### (2) Report
 
@@ -68,7 +68,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (3) Plan development exception
 
-&emsp;An owner may receive cost-share assistance under the program for the purpose of developing a management plan under subsection (e) of this section that provides for the treatment of acreage in excess of the acreage limitations specified in paragraphs (1)(A)(i) and (2), except that the owner's eligibility for cost-share assistance to implement approved activities and practices under the management plan remains subject to the acreage limitation specified in paragraph (1)(A)(i) or, if the Secretary makes the determination described in paragraph (2), the acreage limitation specified in that paragraph.
+&emsp;An owner may receive cost-share assistance under the program for the purpose of developing a management plan under subsection (e) of this section that provides for the treatment of acreage in excess of the acreage limitations specified in paragraphs (1)(A)(i) and (2), except that the owner's eligibility for cost-share assistance to implement approved activities and practices under the management plan remainssubject to the acreage limitation specified in paragraph (1)(A)(i) or, if the Secretary makes the determination described in paragraph (2), the acreage limitation specified in that paragraph.
 
 #### (e) Management plan
 
@@ -120,7 +120,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 &emsp;&emsp;(J) The conduct of energy conservation and carbon sequestration activities.
 
-&emsp;&emsp;(K) The conduct of other activities approved by the Secretary, in consultationwith the State forester and the appropriate Committees.
+&emsp;&emsp;(K) The conduct of other activities approved by the Secretary, in consultation with the State forester and the appropriate Committees.
 
 #### (g) Reimbursement of eligible activities
 

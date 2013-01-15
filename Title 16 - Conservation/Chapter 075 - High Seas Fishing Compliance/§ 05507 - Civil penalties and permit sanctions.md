@@ -32,7 +32,7 @@
 
 (3) Transfer of ownership of a high seas fishing vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of the transfer. The Secretary may waive or compromise a sanction in the case of a transfer pursuant to court order.
 
-(4) In the case of any permit that is suspended under this subsection for nonpayment of a civilpenalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
+(4) In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
 
 (5) No sanctions shall be imposed under this subsection unless there has been prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 

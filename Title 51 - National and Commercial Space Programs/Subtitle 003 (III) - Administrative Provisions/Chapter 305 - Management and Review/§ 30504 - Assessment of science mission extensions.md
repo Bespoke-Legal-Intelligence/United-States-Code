@@ -2,7 +2,7 @@
 
 (a)
 
-Assessment.—The Administrator shall carry out biennial reviews within each of theScience divisions to assess the cost and benefits of extending the date of the termination of data collection for those missions that have exceeded their planned mission lifetime.
+Assessment.—The Administrator shall carry out biennial reviews within each of the Science divisions to assess the cost and benefits of extending the date of the termination of data collection for those missions that have exceeded their planned mission lifetime.
 
 (b)
 

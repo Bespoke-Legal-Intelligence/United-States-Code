@@ -40,5 +40,5 @@ Pub. L. 103–322, §330011(f), amended directory language of Pub. L. 101–647,
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(f) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 1205(c) of Pub. L. 101–647, which amended this section, took effect.
+Pub. L. 103–322, title XXXIII, §330011(f), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 1205(c) of Pub. L. 101–647, which amended this section, took effect.
 

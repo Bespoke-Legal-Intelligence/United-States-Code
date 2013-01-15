@@ -14,7 +14,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 &emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any such security, unless such prospectus, to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, includes or is accompanied by a written statement that contains the information specified in subsection (c) of section 77eee of this title; or
 
-&emsp;(2) to carry or to cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless, to the extent the Commission may prescribe by rules and regulations as necessary or appropriate in the public interest or for the protection of investors, accompanied or preceded by a written statement that contains the information specified in subsection (c) of section 77eee of this title.
+&emsp;(2) to carry or to cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for deliveryafter sale, unless, to the extent the Commission may prescribe by rules and regulations as necessary or appropriate in the public interest or for the protection of investors, accompanied or preceded by a written statement that contains the information specified in subsection (c) of section 77eee of this title.
 
 #### (c) Necessity of issuance under indenture; application for qualification
 

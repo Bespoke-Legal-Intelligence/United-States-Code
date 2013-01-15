@@ -114,7 +114,7 @@ Amendment by section 6(i)(2) of Pub. L. 96–589 effective Oct. 1, 1979, but not
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this section and sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
+Pub. L. 94–253, §2, Mar. 31, 1976, 90 Stat. 297, provided that: “The amendments made by section 1 \[amending this section and sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
 
 #### Savings Provision
 

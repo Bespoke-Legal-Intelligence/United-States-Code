@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in coordination with the Secretary of Transportation and in consultation with the Administrator of the Environmental Protection Agency, shall carry out a program of research, development, and demonstration relating to existing transportation fuel distribution infrastructure and new alternative distribution infrastructure.
+The Secretary, in coordination with the Secretary of Transportation and in consultationwith the Administrator of the Environmental Protection Agency, shall carry out a program of research, development, and demonstration relating to existing transportation fuel distribution infrastructure and new alternative distribution infrastructure.
 
 #### (b) Focus
 

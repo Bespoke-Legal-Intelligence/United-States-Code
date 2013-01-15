@@ -32,7 +32,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a rechargeable energy storage system.
 
-&emsp;(5) The term “operational energy” means the energy required for training, moving, andsustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
+&emsp;(5) The term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
 
 &emsp;(6) The term “petroleum” means natural or synthetic crude, blends of natural or synthetic crude, and products refined or derived from natural or synthetic crude or from such blends.
 

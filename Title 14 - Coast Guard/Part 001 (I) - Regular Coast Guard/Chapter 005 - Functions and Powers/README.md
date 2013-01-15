@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [81\.](%C2%A7%2000081%20-%20Aids%20to%20navigation%20authorized.md) | Aids to navigation authorized. |
-| [82\.](%C2%A7%2000082%20-%20Cooperation%20with%20Administrator%20of%20the%20Federal%20Aviation%20Administration.md) | Cooperation with Administrator of the Federal Aviation Administration. |
+| \[82. | Repealed.\] |
 | [83\.](%C2%A7%2000083%20-%20Unauthorized%20aids%20to%20maritime%20navigation%3B%20penalty.md) | Unauthorized aids to maritime navigation; penalty. |
 | [84\.](%C2%A7%2000084%20-%20Interference%20with%20aids%20to%20navigation%3B%20penalty.md) | Interference with aids to navigation; penalty. |
 | [85\.](%C2%A7%2000085%20-%20Aids%20to%20maritime%20navigation%3B%20penalty.md) | Aids to maritime navigation; penalty. |
@@ -11,7 +11,7 @@
 | \[87. | Repealed.\] |
 | [88\.](%C2%A7%2000088%20-%20Saving%20life%20and%20property.md) | Saving life and property. |
 | [89\.](%C2%A7%2000089%20-%20Law%20enforcement.md) | Law enforcement. |
-| [90\.](%C2%A7%2000090%20-%20Ocean%20stations.md) | Ocean stations. |
+| \[90. | Repealed.\] |
 | [91\.](%C2%A7%2000091%20-%20Safety%20of%20naval%20vessels.md) | Safety of naval vessels. |
 | [92\.](%C2%A7%2000092%20-%20Secretary%3B%20general%20powers.md) | Secretary; general powers. |
 | [93\.](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md) | Commandant; general powers. |
@@ -27,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title II, §216(b), (c), Dec. 20, 2012, 126 Stat. 1555, struck out items 82 “Cooperation withAdministrator of the Federal Aviation Administration” and 90 “Ocean stations”.
 
 <b>2010</b>—Pub. L. 111–330, §1(6)(B), Dec. 22, 2010, 124 Stat. 3569, which directed amendment of “section 524(a)” of Pub. L. 111–281 by substituting “101. Appeals and waivers.” for “102. Appeals and waivers.” in subsec. (b), was executed by making the substitution in section 524(b) of Pub. L. 111–281 to reflect the probable intent of Congress. See below.
 
@@ -60,7 +62,7 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00081 - Aids to navigation authorized](%C2%A7%2000081%20-%20Aids%20to%20navigation%20authorized.md)
-- [&sect; 00082 - Cooperation with Administrator of the Federal Aviation Administration](%C2%A7%2000082%20-%20Cooperation%20with%20Administrator%20of%20the%20Federal%20Aviation%20Administration.md)
+- [&sect; 00082 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(b), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000082%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28b%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
 - [&sect; 00083 - Unauthorized aids to maritime navigation; penalty](%C2%A7%2000083%20-%20Unauthorized%20aids%20to%20maritime%20navigation%3B%20penalty.md)
 - [&sect; 00084 - Interference with aids to navigation; penalty](%C2%A7%2000084%20-%20Interference%20with%20aids%20to%20navigation%3B%20penalty.md)
 - [&sect; 00085 - Aids to maritime navigation; penalty](%C2%A7%2000085%20-%20Aids%20to%20maritime%20navigation%3B%20penalty.md)
@@ -68,7 +70,7 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 - [&sect; 00087 - Repealed. Pub. L. 94&#8211;546, &sect;1(6), (7), Oct. 18, 1976, 90 Stat. 2519](%C2%A7%2000087%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93546%2C%20%C2%A71%286%29%2C%20%287%29%2C%20Oct.%2018%2C%201976%2C%2090%20Stat.%202519.md)
 - [&sect; 00088 - Saving life and property](%C2%A7%2000088%20-%20Saving%20life%20and%20property.md)
 - [&sect; 00089 - Law enforcement](%C2%A7%2000089%20-%20Law%20enforcement.md)
-- [&sect; 00090 - Ocean stations](%C2%A7%2000090%20-%20Ocean%20stations.md)
+- [&sect; 00090 - Repealed. Pub. L. 112&#8211;213, title II, &sect;216(c), Dec. 20, 2012, 126 Stat. 1555](%C2%A7%2000090%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93213%2C%20title%20II%2C%20%C2%A7216%28c%29%2C%20Dec.%2020%2C%202012%2C%20126%20Stat.%201555.md)
 - [&sect; 00091 - Safety of naval vessels](%C2%A7%2000091%20-%20Safety%20of%20naval%20vessels.md)
 - [&sect; 00092 - Secretary; general powers](%C2%A7%2000092%20-%20Secretary%3B%20general%20powers.md)
 - [&sect; 00093 - Commandant; general powers](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md)

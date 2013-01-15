@@ -20,7 +20,7 @@ Official certificates setting out the results of official inspection issued and 
 
 (1) Except as otherwise provided in paragraph (2) of this subsection, the Secretary shall cause official inspection at export port locations, for all grain required or authorized to be inspected by this chapter, to be performed by official inspection personnel employed by the Secretary or other persons under contract with the Secretary as provided in section 84 of this title.
 
-(2) If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (A) was performing official inspection at an export port location under this chapter on July 1, 1976, or (B)(i) performed official inspection at an export port location at any time prior to July 1, 1976, (ii) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (iii) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
+(2) If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (A) was performing official inspection at an export port location under thischapter on July 1, 1976, or (B)(i) performed official inspection at an export port location at any time prior to July 1, 1976, (ii) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (iii) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
 
 (3) Prior to delegating authority to a State agency for the performance of official inspection at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall (A) conduct an investigation to determine whether such agency is qualified, and (B) make findings based on such investigation. In conducting the investigation, the Secretary shall consult with, and review the available files of the Department of Justice, the Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the Government Accountability Office.
 
@@ -88,7 +88,7 @@ If the Secretary determines that official inspection by an official agency desig
 
 #### (i) Official inspections in Canadian ports
 
-The Secretary is authorized to cause official inspection under this chapter to be made, asprovided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
+The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 
 #### (j) Fees; establishment, amount, payment, etc.
 
@@ -142,7 +142,7 @@ Subsec. (j)(4). Pub. L. 103–156, §14(a), added par. (4).
 
 <b>1981</b>—Subsec. (e)(2). Pub. L. 97–98 inserted provision authorizing the Administrator to delegate authority to perform grain inspection functions at export port locations to any State agency that performed official inspection at an export port location at any time prior to July 1, 1976, was designated under subsec. (f) of this section on Dec. 22, 1981, to perform inspections at locations other than export port locations, and operates in a State from which the total annual exports of grain do not exceed 5 per centum of the total amount of grain exported from the United States.
 
-Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, and added par. (2). See Effective and Termination Dates of 1981 Amendments note below.
+Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, andadded par. (2). See Effective and Termination Dates of 1981 Amendments note below.
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–113, §1606(d), struck out reference to a determination of the quantity of sacks of grain.
 
@@ -182,7 +182,7 @@ Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections103, 105, 108, and 109 \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] shall take effect as if enacted on September 30, 2000.”
+Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections 103, 105, 108, and 109 \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] shall take effect as if enacted on September 30, 2000.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -190,13 +190,13 @@ That part of section 2 of Pub. L. 100–518 which provided that the amendment ma
 
 #### Effective and Termination Dates of 1984 Amendment
 
-Section 2 of Pub. L. 98–469 provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+Pub. L. 98–469, §2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
-#### Effective and Termination Dates of 1981 Amendments
+#### Effective and Termination Dates of 1981 Amendment
 
-Section 1113(b) of Pub. L. 97–98 provided that: “The provisions of this section \[amending this section\] shall become effective one hundred and eighty days after enactment of this Act \[Dec. 22, 1981\].”
+Pub. L. 97–98, title XI, §1113(b), Dec. 22, 1981, 95 Stat. 1268, provided that: “The provisions of this section \[amending this section\] shall become effective one hundred and eighty days after enactment of this Act \[Dec. 22, 1981\].”
 
-Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, §155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
 
@@ -212,7 +212,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by May 20, 1979, and Nov. 20, 1979, Respectively
 
-Section 8(b) of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §§1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
+Pub. L. 94–582, §8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 95–113, title XVI, §§1605(a), 1607(a),Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the Secretary's”.</i>
 

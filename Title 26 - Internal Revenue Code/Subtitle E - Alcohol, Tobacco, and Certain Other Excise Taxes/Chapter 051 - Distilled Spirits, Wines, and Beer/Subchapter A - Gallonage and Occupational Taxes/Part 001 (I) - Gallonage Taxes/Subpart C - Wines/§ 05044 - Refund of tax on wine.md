@@ -40,5 +40,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Section 1416(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 5361 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1416(c), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendments made by this section \[amending this section and section 5361 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

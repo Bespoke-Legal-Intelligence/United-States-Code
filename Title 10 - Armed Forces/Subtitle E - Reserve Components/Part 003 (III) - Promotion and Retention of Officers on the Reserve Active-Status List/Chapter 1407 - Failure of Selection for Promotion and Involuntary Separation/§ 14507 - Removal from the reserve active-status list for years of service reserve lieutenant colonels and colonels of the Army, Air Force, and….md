@@ -6,7 +6,7 @@ Lieutenant Colonels and Commanders.—Unless continued on the reserve active-sta
 
 (b)
 
-Colonels and Navy Captains.—Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Air Force, or Marine Corps who holds the grade of colonel, and each reserve officer of the Navy who holds the grade of captain, and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed fromthat list under section 14514 of this title on the first day of the month after the month in which the officer completes 30 years of commissioned service. This subsection does not apply to the adjutant general or assistant adjutants general of a State.
+Colonels and Navy Captains.—Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Air Force, or Marine Corps who holds the grade of colonel, and each reserve officer of the Navy who holds the grade of captain, and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under section 14514 of this title on the first day of the month after the month in which the officer completes 30 years of commissioned service. This subsection does not apply to the adjutant general or assistant adjutants general of a State.
 
 (c)
 
@@ -26,5 +26,5 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 #### Effective Date of 1996 Amendment
 
-Section 508(b) of Pub. L. 104–201 provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title V, §508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 

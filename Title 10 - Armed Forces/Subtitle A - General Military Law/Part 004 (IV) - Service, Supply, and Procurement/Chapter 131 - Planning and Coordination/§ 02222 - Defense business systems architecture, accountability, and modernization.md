@@ -74,7 +74,7 @@ Composition of Transition Plan.—The transition plan developed under subsection
 
 (f)
 
-Designation of Appropriate Pre-certification Authorities and Senior Officials.—(1)For purposes of subsections (a) and (g), the appropriate pre-certification authority for a defense business system program is as follows:
+Designation of Appropriate Pre-certification Authorities and Senior Officials.—(1) For purposes of subsections (a) and (g), the appropriate pre-certification authority for a defense business system program is as follows:
 
 &emsp;(A) In the case of an Army program, the Chief Management Officer of the Army.
 
@@ -121,6 +121,8 @@ Defense Business System Investment Review.—(1) The Secretary of Defense shall 
 &emsp;(E) Use of procedures for making certifications in accordance with the requirements of subsection (a).
 
 &emsp;(F) Use of procedures for ensuring consistency with the guidance issued by the Secretary of Defense and the Defense Business Systems Management Committee, as required by section 186(c) of this title, and incorporation of common decision criteria, including standards, requirements, and priorities that result in the integration of defense business systems.
+
+(3)(A) <sup>1</sup> The investment management process required by paragraph (1) shall include requirements for the military departments and the Defense Agencies to make available to the Deputy Chief Management Officer such information on covered defense business system programs and other business functions as the Deputy Chief Management Officer shall require for the review of defense business system programs under the process. Such information shall be made available to the Deputy Chief Management Officer through existing data sources or in a standardized format established by the Deputy Chief Management Officer for purposes of this paragraph.
 
 (h)
 
@@ -170,13 +172,15 @@ Definitions.—In this section:
 
 &emsp;(5) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869.)
 
 #### Prior Provisions
 
-A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
+A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001,115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g)(3). Pub. L. 112–239 added par. (3).
 
 <b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
@@ -217,6 +221,28 @@ Training.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review.”
 
 #### Audit Readiness of Financial Statements of the Department of Defense
+
+Pub. L. 112–239, div. A, title X, §1005(b), Jan. 2, 2013, 126 Stat. 1904, provided that:
+
+“(1)
+
+In general.—The Chief Management Officer of the Department of Defense and the Chief Management Officers of each of the military departments shall ensure that plans to achieve an auditable statement of budgetary resources of the Department of Defense by September 30, 2014, include appropriate steps to minimize one-time fixes and manual work-arounds, are sustainable and affordable, and will not delay full auditability of financial statements.
+
+“(2)
+
+Additional elements in fiar plan report.—Each semi-annual report on the Financial Improvement and Audit Readiness Plan of the Department of Defense submitted by the Under Secretary of Defense (Comptroller) under section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note) during the period beginning on the date of the enactment of this Act \[Jan. 2, 2013\] and ending on September 30, 2014, shall include the following:
+
+&emsp;“(A) A description of the actions taken by the military departments pursuant to paragraph (1).
+
+&emsp;“(B) A determination by the Chief Management Officer of each military department whether or not such military department is able to achieve an auditable statement of budgetary resources by September 30, 2014, without an unaffordable or unsustainable level of one-time fixes and manual work-arounds and without delaying the full auditability of the financial statements of such military department.
+
+&emsp;“(C) If the Chief Management Officer of a military department determines under subparagraph (B) that the military department is not able to achieve an auditable statement of budgetary resources by September 30, 2014, as described in that subparagraph—
+
+&emsp;&emsp;“(i) an explanation why the military department is unable to meet the deadline;
+
+&emsp;&emsp;“(ii) an alternative deadline by which the military department will achieve an auditable statement of budgetary resources; and
+
+&emsp;&emsp;“(iii) a description of the plan of the military department for meeting the alternative deadline.”
 
 Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, provided that:
 
@@ -354,7 +380,7 @@ Report.—The Under Secretary shall include a discussion of the review performed
 
 &emsp;&emsp;“(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
-Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, provided that:
+Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904, provided that:
 
 “(a)
 
@@ -372,7 +398,7 @@ Elements.—The plan required by paragraph (1) shall—
 
 &emsp;&emsp;&emsp;“(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information; and
 
-&emsp;&emsp;&emsp;“(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017;
+&emsp;&emsp;&emsp;“(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014;
 
 &emsp;&emsp;“(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by section 2222 of title 10, United States Code;
 
@@ -416,7 +442,7 @@ Additional issues to be addressed in first report.—The first report submitted 
 
 &emsp;&emsp;“(D) To define the oversight roles of the Chief Management Officer of the Department of Defense, the chief management officers of the military departments, and other appropriate elements of the Department to ensure that the requirements of the Financial Improvement and Audit Readiness Plan are carried out.
 
-&emsp;&emsp;“(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials andorganizations at the component level of the Department.
+&emsp;&emsp;“(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials and organizations at the component level of the Department.
 
 &emsp;&emsp;“(F) To develop mechanisms to track budgets and expenditures for the implementation of the requirements of the Financial Improvement and Audit Readiness Plan.
 
@@ -657,4 +683,6 @@ Milestone decision authority.—The term ‘milestone decision authority’ has 
 &emsp;“(2)
 
 Milestone a.—The term ‘Milestone A’ has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.”
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

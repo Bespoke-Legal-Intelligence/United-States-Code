@@ -50,7 +50,7 @@ Continuing Requirements.—(1) To hold a certificate issued under section 41102 
 
 &emsp;(A) is not fit, willing, and able to provide the transportation authorized by the certificate and to comply with this part and regulations of the Secretary; or
 
-&emsp;(B) does not file reports necessary for the Secretary to decide if the carrier is complying with the requirements of clause (A) of this paragraph.
+&emsp;(B) does not file reports necessary for the Secretary to decide if the carrier is complyingwith the requirements of clause (A) of this paragraph.
 
 (f)
 
@@ -192,7 +192,7 @@ This amends 49:41110(e) to clarify the restatement of 49 App.:1371(r) (related t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary shall amend, modify, suspend, or revoke any part of a certificate issued under section 41102 of this title if the Secretary finds that the air carrier—
+<b>1994</b>—Subsec. (e). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary shall amend, modify, suspend, or revoke any part of a certificate issued under section 41102 of this title if the Secretary finds that the air carrier—
 
 &emsp;“(1) is not fit, willing, and able to continue to provide the transportation authorized by the certificate and to comply with this part and regulations of the Secretary; or
 

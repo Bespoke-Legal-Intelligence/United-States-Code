@@ -22,7 +22,7 @@ For purposes of this subtitle, the term “personal holding company” means any
 
 &emsp;Paragraph (1) shall not apply to an affiliated group of corporations if—
 
-&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parentcorporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
+&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parent corporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
 
 &emsp;&emsp;(B) 80 percent or more of the amount described in subparagraph (A) consists of personal holding company income (as defined in section 543).
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1982 Amendment
 
-Section 293(d) of Pub. L. 97–248 provided that:
+Pub. L. 97–248, title II, §293(d), Sept. 3, 1982, 96 Stat. 575, provided that:
 
 “(1)
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1974 Amendment
 
-Section 3(b) of Pub. L. 93–480 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1973.”
+Pub. L. 93–480, §3(b), Oct. 26, 1974, 88 Stat. 1454, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1973.”
 
 #### Effective Date of 1969 Amendment
 
@@ -228,27 +228,27 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) ofPub. L. 89–809, set out as a note under section 11 of this title.
+Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 225(b), (c)(2), (3), (k)(1) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, and amendment by section 225(c)(1) of Pub. L. 88–272 applicable to taxable years beginning after Oct. 16, 1962, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
+Amendment by section 225(b), (c)(2), (3), (k)(1) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, and amendment by section 225(c)(1) of Pub. L. 88–272 applicable to taxable years beginning after Oct. 16, 1962, see section 225(l) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
 #### Effective Date of 1962 Amendment
 
-Section 2 of Pub. L. 87–768 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1961.”
+Pub. L. 87–768, §2, Oct. 9, 1962, 76 Stat. 766, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1961.”
 
 #### Effective Date of 1959 Amendment
 
-Section 3(b) of Pub. L. 86–376 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1958.”
+Pub. L. 86–376, §3(b), Sept. 23, 1959, 73 Stat. 700, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1958.”
 
 #### Effective Date of 1955 Amendment
 
-Section 4 of act Aug. 12, 1955, provided that: “The amendment made by section 3 of this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1954.”
+Act Aug. 12, 1955, ch. 871, §4, 69 Stat. 718, provided that: “The amendment made by section 3 of this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1954.”
 
 #### Stock Ownership Requirement; Organization or Trust Organized or Created Before July 1, 1950
 
-Pub. L. 95–600, title VII, §701(<i>o</i>), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, §701(o), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

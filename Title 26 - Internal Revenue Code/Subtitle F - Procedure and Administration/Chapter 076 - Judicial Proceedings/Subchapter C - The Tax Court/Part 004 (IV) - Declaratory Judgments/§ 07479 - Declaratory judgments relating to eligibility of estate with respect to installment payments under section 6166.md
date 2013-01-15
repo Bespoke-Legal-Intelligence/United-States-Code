@@ -48,5 +48,5 @@ Amendment by section 6007(d) of Pub. L. 105–206 effective, except as otherwise
 
 #### Effective Date
 
-Section 505(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title V, §505(c), Aug. 5, 1997, 111 Stat. 855, provided that: “The amendments made by this section \[enacting this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

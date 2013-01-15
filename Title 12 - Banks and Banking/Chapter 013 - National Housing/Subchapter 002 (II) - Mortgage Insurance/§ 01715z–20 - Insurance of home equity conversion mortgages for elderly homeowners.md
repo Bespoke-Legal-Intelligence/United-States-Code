@@ -58,7 +58,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;&emsp;(iii) the sale of annuities, investments, long-term care insurance, or any other type of financial or insurance product;
 
-&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs chargedto the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
+&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
 
 &emsp;&emsp;(D) meets any additional requirements prescribed by the Secretary;
 
@@ -148,7 +148,7 @@ The Secretary may—
 
 &emsp;(B) to obtain repayment of disbursements provided under subparagraph (A) from any source; and
 
-&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) of this section to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
+&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) of this section to which the mortgagee is entitled under the terms of theinsured mortgage or ancillary contracts authorized in this section.
 
 (2) Actions under paragraph (1) may include—
 
@@ -188,7 +188,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (4) Credit for premiums paid
 
-&emsp;Notwithstanding section 1709(c)(2)(A) of this title, the Secretary may reduce the amount ofthe single premium payment otherwise collected under such section at the time of the insurance of a mortgage refinanced and insured under this subsection. The amount of the single premium for mortgages refinanced under this subsection shall be determined by the Secretary based on the actuarial study required under paragraph (5).
+&emsp;Notwithstanding section 1709(c)(2)(A) of this title, the Secretary may reduce the amount of the single premium payment otherwise collected under such section at the time of the insurance of a mortgage refinanced and insured under this subsection. The amount of the single premium for mortgages refinanced under this subsection shall be determined by the Secretary based on the actuarial study required under paragraph (5).
 
 #### (5) Actuarial study
 
@@ -204,7 +204,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 &emsp;The Secretary may establish a limit on the origination fee that may be charged to a mortgagor under a mortgage insured under this subsection, except that such limitation shall provide that the origination fee may be fully financed with the mortgage and shall include any fees paid to correspondent mortgagees approved by the Secretary.
 
-#### (<i>l</i>) Funding for counseling
+#### (l) Funding for counseling
 
 The Secretary may use a portion of the mortgage insurance premiums collected under the program under this section to adequately fund the counseling and disclosure activities required under subsection (f), including counseling for those homeowners who elect not to take out a home equity conversion mortgage, provided that the use of such funds is based upon accepted actuarial principles.
 
@@ -236,13 +236,13 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 &emsp;All parties that participate in the origination of a mortgage to be insured under this section shall be approved by the Secretary.
 
-#### (<i>o</i>) Prohibition against requirements to purchase additional products
+#### (o) Prohibition against requirements to purchase additional products
 
 The mortgagor or any other party shall not be required by the mortgagee or any other party to purchase an insurance, annuity, or other similar product as a requirement or condition of eligibility for insurance under subsection (c), except for title insurance, hazard, flood, or other peril insurance, or other such products that are customary and normal under subsection (c), as determined by the Secretary.
 
 #### (p) Study to determine consumer protections and underwriting standards
 
-The Secretary shall conduct a study to examine and determine appropriate consumer protections and underwriting standards to ensure that the purchase of products referred to in subsection (<i>o</i>) is appropriate for the consumer. In conducting such study, the Secretary shall consult with consumer advocates (including recognized experts in consumer protection), industry representatives, representatives of counseling organizations, and other interested parties.
+The Secretary shall conduct a study to examine and determine appropriate consumer protections and underwriting standards to ensure that the purchase of products referred to in subsection (o) is appropriate for the consumer. In conducting such study, the Secretary shall consult with consumer advocates (including recognized experts in consumer protection), industry representatives, representatives of counseling organizations, and other interested parties.
 
 #### (r) <sup>2</sup> Limitation on origination fees
 
@@ -286,11 +286,11 @@ Subsec. (g). Pub. L. 110–289, §2122(a)(5), substituted “limitation establis
 
 Subsec. (i)(2)(A). Pub. L. 110–289, §2118(b)(2), substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund”.
 
-Subsec. (<i>l</i>). Pub. L. 110–289, §2122(a)(8), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) related to funding for counseling and consumer education and outreach.
+Subsec. (l). Pub. L. 110–289, §2122(a)(8), amended subsec. (l) generally. Prior to amendment, subsec. (l) related to funding for counseling and consumer education and outreach.
 
-Pub. L. 110–289, §2122(a)(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to waiver of up-front premiums for mortgages to fund long-term care insurance.
+Pub. L. 110–289, §2122(a)(6), (7), redesignated subsec. (m) as (l) and struck out former subsec. (l) which related to waiver of up-front premiums for mortgages to fund long-term care insurance.
 
-Subsecs. (m) to (p). Pub. L. 110–289, §2122(a)(9), added subsecs. (m) to (p). Former subsec. (m) redesignated (<i>l</i>).
+Subsecs. (m) to (p). Pub. L. 110–289, §2122(a)(9), added subsecs. (m) to (p). Former subsec. (m) redesignated (l).
 
 Subsec. (r). Pub. L. 110–289, §2122(c), added subsec. (r).
 
@@ -302,7 +302,7 @@ Subsec. (r). Pub. L. 110–289, §2122(c), added subsec. (r).
 
 Subsec. (b)(4), (5). Pub. L. 106–569, §201(b)(2), added pars. (4) and (5).
 
-Subsecs. (k) to (m). Pub. L. 106–569, §201(a)(1), (c)(1), added subsecs. (k) and (<i>l</i>) and redesignated former subsec. (k) as (m).
+Subsecs. (k) to (m). Pub. L. 106–569, §201(a)(1), (c)(1), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
 
 <b>1998</b>—Pub. L. 105–276, §593(d)(1), struck out “Demonstration program of” before “Insurance” in section catchline.
 
@@ -324,13 +324,13 @@ Subsec. (g). Pub. L. 105–276, §593(a), substituted “The aggregate number of
 
 Subsec. (i)(1). Pub. L. 105–276, §593(d)(2), struck out “demonstration” before “program” in introductory provisions.
 
-Subsec. (k). Pub. L. 105–276, §593(d)(4), (5), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text of former subsec. (k), which had required interim report not later than Sept. 30, 1989, on design and implementation of demonstration program of insurance of home equity conversion mortgages for elderly homeowners, preliminary evaluation of program incorporating comments and recommendations not later than Mar. 30, 1992, and updated report and evaluation biennially thereafter, including analysis of repayment of home equity conversion mortgages during report period.
+Subsec. (k). Pub. L. 105–276, §593(d)(4), (5), redesignated subsec. (l) as (k) and struck out heading and text of former subsec. (k), which had required interim report not later than Sept. 30, 1989, on design and implementation of demonstration program of insurance of home equity conversion mortgages for elderly homeowners, preliminary evaluation of program incorporating comments and recommendations not later than Mar. 30, 1992, and updated report and evaluation biennially thereafter, including analysis of repayment of home equity conversion mortgages during report period.
 
-Subsec. (<i>l</i>). Pub. L. 105–276, §593(d)(5), redesignated subsec. (<i>l</i>) as (k).
+Subsec. (l). Pub. L. 105–276, §593(d)(5), redesignated subsec. (l) as (k).
 
-Pub. L. 105–276, §593(c), added subsec. (<i>l</i>).
+Pub. L. 105–276, §593(c), added subsec. (l).
 
-<b>1996</b>—Subsec. (d)(3). Pub. L. 104–120, §6(c), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: “be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;”.
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–120, §6(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;”.
 
 Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted “2000” for “1996” and “50,000” for “30,000”.
 
@@ -356,7 +356,7 @@ Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out “and that has a value
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(<i>l</i>) of the National Housing Act \[former 12 U.S.C. 1715z–20(<i>l</i>)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
+Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(l) of the National Housing Act \[former 12 U.S.C. 1715z–20(l)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
 
 #### Effective Date of 1998 Amendment
 
@@ -368,9 +368,9 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issueany final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
-Section 417(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
+Pub. L. 100–242, title IV, §417(b), Feb. 5, 1988, 101 Stat. 1912, directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 
 #### Implementation of 1998 Amendment
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(ii) has predatory characteristics or effects (such as equity stripping, excessive fees, or abusive terms);
 
-&emsp;&emsp;(B) mortgage originators from steering any consumer from a residential mortgage loan for which the consumer is qualified that is a qualified mortgage (as defined insection 1639c(b)(2) of this title) to a residential mortgage loan that is not a qualified mortgage;
+&emsp;&emsp;(B) mortgage originators from steering any consumer from a residential mortgage loan for which the consumer is qualified that is a qualified mortgage (as defined in section 1639c(b)(2) of this title) to a residential mortgage loan that is not a qualified mortgage;
 
 &emsp;&emsp;(C) abusive or unfair lending practices that promote disparities among consumers of equal credit worthiness but of different race, ethnicity, gender, or age; and
 
@@ -122,7 +122,7 @@ Subsecs. (e), (f). Pub. L. 111–203, §1405(a), added subsecs. (e) and (f).
 
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-Amendment by sections 1403–1405(a) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, seesection 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+Amendment by sections 1403–1405(a) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date
 

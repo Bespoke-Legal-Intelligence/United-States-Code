@@ -22,7 +22,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 #### (c) Priority
 
-In making such a grant, the Secretary shall give priority to a partnership or consortium that includes a high-need State educational agency or local educational agency.
+In making such a grant, the Secretary shall give priority to a partnership or consortiumthat includes a high-need State educational agency or local educational agency.
 
 #### (d) Application
 
@@ -122,7 +122,7 @@ A program participant in a program under this division who receives training thr
 
 #### (j) Repayment
 
-The Secretary shall establish such requirements as the Secretary determines to be appropriate to ensure that program participants whoreceive a stipend or other financial incentive under subsection (g)(2)(A) of this section, but fail to complete their service obligation under subsection (i) of this section, repay all or a portion of such stipend or other incentive.
+The Secretary shall establish such requirements as the Secretary determines to be appropriate to ensure that program participants who receive a stipend or other financial incentive under subsection (g)(2)(A) of this section, but fail to complete their service obligation under subsection (i) of this section, repay all or a portion of such stipend or other incentive.
 
 #### (k) Administrative funds
 

@@ -40,7 +40,7 @@ There are authorized to be appropriated for each fiscal year $20,000,000 to carr
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(3), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(3), was in the original “this subtitle”, meaning subtitle B\(§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 Chapter 86 of this title, referred to in subsec. (a)(3), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 

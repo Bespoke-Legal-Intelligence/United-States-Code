@@ -12,5 +12,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 93–197 provided: “That this Act \[enacting this subchapter and repealing sections 891 to 902 of this title\] may be cited as the ‘Menominee Restoration Act’.”
+Pub. L. 93–197, §1, Dec. 22, 1973, 87 Stat. 770, provided: “That this Act \[enacting this subchapter and repealing sections 891 to 902 of this title\] may be cited as the ‘Menominee Restoration Act’.”
 

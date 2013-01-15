@@ -60,5 +60,5 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 
 #### Effective Date of 1954 Amendment
 
-Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
+Act Aug. 24, 1954, ch. 890, §2, 68 Stat. 783, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
 

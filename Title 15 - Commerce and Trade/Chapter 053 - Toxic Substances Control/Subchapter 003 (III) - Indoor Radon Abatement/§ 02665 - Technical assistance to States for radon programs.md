@@ -8,7 +8,7 @@ The Administrator (or another Federal department or agency designated by the Adm
 
 &emsp;(2) Operation of a voluntary proficiency program for rating the effectiveness of radon measurement devices and methods, the effectiveness of radon mitigation devices and methods, and the effectiveness of private firms and individuals offering radon-related architecture, design, engineering, measurement, and mitigation services. The proficiency program under this subparagraph shall be in operation within one year after October 28, 1988.
 
-&emsp;(3) Design and implementation of training seminars for State and local officials and private and professional firms dealing with radon and addressing topics such as monitoring, analysis, mitigation, health effects, public information, and program design.
+&emsp;(3) Design and implementation of training seminars for State and local officials and private and professional firms dealing with radonand addressing topics such as monitoring, analysis, mitigation, health effects, public information, and program design.
 
 &emsp;(4) Publication of public information materials concerning radon health risks and methods of radon mitigation.
 
@@ -54,7 +54,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (4) Reimbursement of general fund
 
-&emsp;During the first three years of the program and seminars, the Administrator shall makeevery effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
+&emsp;During the first three years of the program and seminars, the Administrator shall make every effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
 
 #### (5) Research
 
@@ -100,7 +100,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 (3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2) of this section.
 
-(Pub. L. 94–469, title III, §305, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, §10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, §2021(<i>l</i>), Dec. 21, 1995, 109 Stat. 728.)
+(Pub. L. 94–469, title III, §305, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, §10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, §2021(l), Dec. 21, 1995, 109 Stat. 728.)
 
 #### Amendments
 

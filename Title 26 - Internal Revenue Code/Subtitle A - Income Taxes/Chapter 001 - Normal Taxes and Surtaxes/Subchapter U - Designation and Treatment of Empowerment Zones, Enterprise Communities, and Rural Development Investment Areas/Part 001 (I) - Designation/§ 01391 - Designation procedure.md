@@ -24,7 +24,7 @@ A designation may be made under subsection (a) only after 1993 and before 1996.
 
 &emsp;Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
 
-&emsp;&emsp;(A)(i) in the case of an empowerment zone, December 31, 2011, or
+&emsp;&emsp;(A)(i) in the case of an empowerment zone, December 31, 2013, or
 
 &emsp;&emsp;(ii) in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
 
@@ -168,7 +168,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, §1(a)(7) \[title I, §§111, 112, title III, §319(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, §753(a), Dec. 17, 2010, 124 Stat. 3321.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, §1(a)(7) \[title I, §§111, 112, title III, §319(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, §753(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §327(a), Jan. 2, 2013, 126 Stat. 2334.)
 
 #### References in Text
 
@@ -181,6 +181,8 @@ The date of the enactment of this subsection, referred to in subsec. (h)(2), is 
 A prior section 1391, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2892; amended Pub. L. 96–222, title I, §106(a)(4), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, §3(a)(1), (2), Dec. 24, 1980, 94 Stat. 3465, defined terms used in former subchapter U, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(1)(A)(i). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (d)(1)(A)(i). Pub. L. 111–312, §753(a)(1), substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -204,15 +206,21 @@ Subsecs. (e), (f). Pub. L. 105–34, §952(d)(1), substituted “this section”
 
 Subsec. (g). Pub. L. 105–34, §952(a), added subsec. (g).
 
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 applicable to periods after Dec. 31, 2011, see section 327(d) of Pub. L. 112–240, set out as a note under section 1202 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see section 753(d) of Pub. L. 111–312, set out as a note under section 1202 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Section 951(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
+Pub. L. 105–34, title IX, §951(c), Aug. 5, 1997, 111 Stat. 885, provided that: “The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
 
 #### Treatment of Certain Termination Dates Specified in Nominations
+
+Pub. L. 112–240, title III, §327(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Jan. 2, 2013\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide.”
 
 Pub. L. 111–312, title VII, §753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Dec. 17, 2010\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section \[Dec. 17, 2010\], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide.”
 

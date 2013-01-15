@@ -22,7 +22,7 @@ Not later than eighteen months after October 21, 1976, and after notice and oppo
 
 &emsp;&emsp;(C) the efforts undertaken during the year to reduce the volume and toxicity of waste generated; and
 
-&emsp;&emsp;(D) the changes in volume and toxicity of waste actually achieved during the year in question in comparison with previous years, to the extent such information is available for years prior to November 8, 1984.
+&emsp;&emsp;(D) the changes in volume and toxicity of waste actually achieved during the year inquestion in comparison with previous years, to the extent such information is available for years prior to November 8, 1984.
 
 #### (b) Waste minimization
 

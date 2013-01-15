@@ -10,35 +10,29 @@ When used in this title unless the context otherwise indicates—
 
 (d) The word “patentee” includes not only the patentee to whom the patent was issued but also the successors in title to the patentee.
 
-(e) The term “third-party requester” means a person requesting ex parte reexamination under section 302 or inter partes reexamination under section 311 who is not the patent owner.
+(e) The term “third-party requester” means a person requesting ex parte reexamination under section 302 who is not the patent owner.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, §3(a), Sept. 16, 2011, 125 Stat. 285.)
+(f) The term “inventor” means the individual or, if a joint invention, the individuals collectively who invented or discovered the subject matter of the invention.
 
-#### Amendment of Section
+(g) The terms “joint inventor” and “coinventor” mean any 1 of the individuals who invented or discovered the subject matter of a joint invention.
 
-<i>Pub. L. 112–29, §3(a), (n), Sept. 16, 2011, 125 Stat. 285, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, this section is amended:</i>
+(h) The term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by 2 or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.
 
-<i>(1) in subsection (e), by striking “or inter partes reexamination under section 311”; and</i>
+(i)(1) The term “effective filing date” for a claimed invention in a patent or application for patent means—
 
-<i>(2) by adding at the end the following:</i>
+&emsp;(A) if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or
 
-<i>(f) The term “inventor” means the individual or, if a joint invention, the individuals collectively who invented or discovered the subject matter of the invention.</i>
+&emsp;(B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).
 
-<i>(g) The terms “joint inventor” and “coinventor” mean any 1 of the individuals who invented or discovered the subject matter of a joint invention.</i>
+(2) The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.
 
-<i>(h) The term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by 2 or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.</i>
+(j) The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.
 
-<i>(i)(1) The term “effective filing date” for a claimed invention in a patent or application for patent means—</i>
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, §3(a), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, §102(1), Dec. 18, 2012, 126 Stat. 1531.)
 
-&emsp;<i>(A) if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or</i>
+#### Amendment of Subsection (i)(1)(B)
 
-&emsp;<i>(B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).</i>
-
-<i>(2) The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.</i>
-
-<i>(j) The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.</i>
-
-<i>See 2011 Amendment notes below.</i>
+<i>Pub. L. 112–211, title I, §§102(1), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (i)(1)(B) of this section is amended by substituting “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -50,11 +44,47 @@ Paragraphs (c) and (d) are added to avoid the use of long expressions in various
 
 #### Amendments
 
+<b>2012</b>—Subsec. (i)(1)(B). Pub. L. 112–211 substituted “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”.
+
 <b>2011</b>—Subsec. (e). Pub. L. 112–29, §3(a)(1), struck out “or inter partes reexamination under section 311” after “302”.
 
 Subsecs. (f) to (j). Pub. L. 112–29, §3(a)(2), added subsecs. (f) to (j).
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–113 added subsec. (e).
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–211, title I, §103, Dec. 18, 2012, 126 Stat. 1532, provided that:
+
+“(a)
+
+In General.—The amendments made by this title \[enacting part V of this title and amending this section and sections 102, 111, 115, 120, 154, 173, 365, and 366 of this title\] shall take effect on the later of—
+
+&emsp;“(1) the date that is 1 year after the date of the enactment of this Act \[Dec. 18, 2012\]; or
+
+&emsp;“(2) the date of entry into force of the treaty with respect to the United States.
+
+“(b)
+
+Applicability of Amendments.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), the amendments made by this title shall apply only to international design applications, international applications, and national applications filed on and after the effective date set forth in subsection (a), and patents issuing thereon.
+
+&emsp;“(2)
+
+Exception.—Sections 100(i) and 102(d) of title 35, United States Code, as amended by this title, shall not apply to an application, or any patent issuing thereon, unless it is described in section 3(n)(1) of the Leahy-Smith America Invents Act \[Pub. L. 112–29\] (35 U.S.C. 100 note).
+
+“(c)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the terms ‘treaty’ and ‘international design application’ have the meanings given those terms in section 381 of title 35, United States Code, as added by this title;
+
+&emsp;“(2) the term ‘international application’ has the meaning given that term in section 351(c) of title 35, United States Code; and
+
+&emsp;“(3) the term ‘national application’ means ‘national application’ within the meaning of chapter 38 of title 35, United States Code, as added by this title.”
 
 #### Effective Date of 2011 Amendment; Savings Provisions
 
@@ -62,7 +92,7 @@ Pub. L. 112–29, §3(n), Sept. 16, 2011, 125 Stat. 293, provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this section \[amending this section and sections 32, 102, 103, 111, 119, 120, 134, 135, 145, 146, 154, 172, 202, 287, 291, 305, 363, 374, and 375 of this title, repealing sections 104 and 157 of this title, and enacting provisions set out asnotes under sections 32, 102, and 111 of this title\], the amendments made by this section shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any application for patent, and to any patent issuing thereon, that contains or contained at any time—
+In general.—Except as otherwise provided in this section \[amending this section and sections 32, 102, 103, 111, 119, 120, 134, 135, 145, 146, 154, 172, 202, 287, 291, 305, 363, 374, and 375 of this title, repealing sections 104 and 157 of this title, and enacting provisions set out as notes under sections 32, 102, and 111 of this title\], the amendments made by this section shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any application for patent, and to any patent issuing thereon, that contains or contained at any time—
 
 &emsp;“(A) a claim to a claimed invention that has an effective filing date as defined in section 100(i) of title 35, United States Code, that is on or after the effective date described in this paragraph; or
 

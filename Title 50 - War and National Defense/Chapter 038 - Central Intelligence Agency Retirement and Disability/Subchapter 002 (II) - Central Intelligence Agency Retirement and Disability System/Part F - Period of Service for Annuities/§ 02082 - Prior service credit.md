@@ -24,7 +24,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (2) Effect of retirement deductions not made
 
-&emsp;If a participant has not paid a deposit for civilian service performed before October 1, 1982, for which retirement deductions were not made, such participant's annuity shall be reduced by 10 percent of the deposit described in paragraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
+&emsp;If a participant has not paid a deposit for civilian service performed before October 1, 1982, for which retirement deductions were not made, such participant's annuity shall be reduced by 10 percent of the deposit described inparagraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
 
 #### (3) Effect of refund of retirement contributions
 
@@ -82,7 +82,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;&emsp;&emsp;(i) each period of military service performed before January 1, 1957, and
 
-&emsp;&emsp;&emsp;(ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h) of this section.
+&emsp;&emsp;&emsp;(ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) ismade with respect to that period, as provided in subsection (h) of this section.
 
 #### (3) Effect of receipt of military retired pay
 

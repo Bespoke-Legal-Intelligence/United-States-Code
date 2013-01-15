@@ -6,7 +6,7 @@ Criteria for Issuing Permit.—Before issuing a permit for the construction of a
 
 &emsp;(1) the site and design have been approved by the Secretary or Administrator, the National Capital Planning Commission and the Commission of Fine Arts;
 
-&emsp;(2) knowledgeable individuals qualified in the field of preservation and maintenancehave been consulted to determine structural soundness and durability of the commemorative work and to ensure that the commemorative work meets high professional standards;
+&emsp;(2) knowledgeable individuals qualified in the field of preservation and maintenance have been consulted to determine structural soundness and durability of the commemorative work and to ensure that the commemorative work meets high professional standards;
 
 &emsp;(3) the sponsor authorized to construct the commemorative work has submitted contract documents for construction of the commemorative work to the Secretary or Administrator; and
 

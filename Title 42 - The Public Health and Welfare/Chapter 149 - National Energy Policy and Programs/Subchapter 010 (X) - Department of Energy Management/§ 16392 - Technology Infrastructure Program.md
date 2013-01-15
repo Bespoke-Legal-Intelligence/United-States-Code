@@ -30,7 +30,7 @@ The Secretary shall establish a Technology Infrastructure Program in accordance 
 
 #### (c) Purpose
 
-The purpose of the Program shall be to improve the ability of National Laboratories and single-purpose research facilities to support departmental missions by—
+The purpose of the Program shall be to improve the ability of National Laboratories andsingle-purpose research facilities to support departmental missions by—
 
 &emsp;(1) stimulating the development of technology clusters that can support departmental missions at the National Laboratories or single-purpose research facilities;
 

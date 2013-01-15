@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bankor bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
+&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bank or bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
 
 #### (B) Definitions
 
@@ -98,13 +98,13 @@ For purposes of this section—
 
 #### (e) Reduction in dividends received deduction not to exceed allocable interest
 
-Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243, 244, or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
+Under regulations prescribed by the Secretary, any reduction under this section in the amountallowable as a deduction under section 243, 244, or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
 
 #### (f) Regulations
 
 The regulations prescribed for purposes of this section under section 7701(f) shall include regulations providing for the disallowance of interest deductions or other appropriate treatment (in lieu of reducing the dividend received deduction) where the obligor of the indebtedness is a person other than the person receiving the dividend.
 
-(Added Pub. L. 98–369, div. A, title I, §51(a), July 18, 1984, 98 Stat. 562; amended Pub. L. 99–514, title VI, §611(a)(4), title XVIII, §1804(a), Oct. 22, 1986, 100 Stat. 2249, 2798; Pub. L. 100–203, title X, §10221(d)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1012(<i>l</i>)(1), Nov. 10, 1988, 102 Stat. 3513; Pub. L. 108–311, title IV, §408(a)(9), Oct. 4, 2004, 118 Stat. 1191.)
+(Added Pub. L. 98–369, div. A, title I, §51(a), July 18, 1984, 98 Stat. 562; amended Pub. L. 99–514, title VI, §611(a)(4), title XVIII, §1804(a), Oct. 22, 1986, 100 Stat. 2249, 2798; Pub. L. 100–203, title X, §10221(d)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1012(l)(1), Nov. 10, 1988, 102 Stat. 3513; Pub. L. 108–311, title IV, §408(a)(9), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Amendment by section 1804(a) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date
 
-Section 51(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §51(c), July 18, 1984, 98 Stat. 564, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

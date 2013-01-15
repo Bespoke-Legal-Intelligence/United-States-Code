@@ -42,7 +42,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 #### (c) Application to spouse
 
-The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 asthe date of termination of combatant activities in a combat zone.
 
 #### (d) Missing status
 
@@ -52,7 +52,7 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (1) Tax in jeopardy; cases under title 11 of the United States Code and receiverships; and transferred assets
 
-&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case inwhich the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
+&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
 
 #### (2) Action taken before ascertainment of right to benefits
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted “or contingency operatio
 
 <b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States”before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
 
 Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out “(including interest)” after “refund”.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1991 Amendment
 
-Section 1(d) of Pub. L. 102–2 provided that: “The amendments made by this section \[amending this section\] shall take effect on August 2, 1990.”
+Pub. L. 102–2, §1(d), Jan. 30, 1991, 105 Stat. 6, provided that: “The amendments made by this section \[amending this section\] shall take effect on August 2, 1990.”
 
 #### Effective Date of 1986 Amendment
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1975 Amendment
 
-Section 5(b) of Pub. L. 93–597 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 93–597, §5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
 
 #### Transfer of Functions
 

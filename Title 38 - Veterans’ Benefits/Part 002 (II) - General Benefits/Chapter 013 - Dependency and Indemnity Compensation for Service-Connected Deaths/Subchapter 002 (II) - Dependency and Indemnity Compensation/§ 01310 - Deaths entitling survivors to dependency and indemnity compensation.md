@@ -22,7 +22,7 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 <b>1988</b>—Subsecs. (b), (c). Pub. L. 100–687 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
-“(1) Notwithstanding the provisions of subsection (a) of this section, when any veteran dies, not as the result of the veteran's own willful misconduct, if the veteran was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability that either (A) was continuously rated totally disabling for a period of ten or more years immediately preceding death, or (B) if so rated for a lesser period, was so rated continuously for a period of not less than five years from the date of such veteran's discharge or other release from active duty, the Administrator shall pay benefits under this chapter to the veteran's surviving spouse, if such surviving spouse was married to such veteran for not less than two years immediately preceding such veteran's death, and to such veteran's children, in the same manner as if the veteran's death were service connected.
+“(1) Notwithstanding the provisions of subsection (a) of this section, when any veteran dies, not as the result of the veteran's own willful misconduct, if the veteran was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability that either (A) was continuously rated totally disabling for a period of ten or more years immediately preceding death, or (B) if so rated for a lesser period, was so rated continuously for a period of not less than five years from the date of such veteran's discharge or other release from active duty, the Administrator shall pay benefits under this chapter to the veteran's surviving spouse, if such surviving spouse wasmarried to such veteran for not less than two years immediately preceding such veteran's death, and to such veteran's children, in the same manner as if the veteran's death were service connected.
 
 “(2) If a surviving spouse or a child receives any money or property of value pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the death of a veteran described in paragraph (1) of this subsection, benefits under this chapter payable to such surviving spouse or child by virtue of this subsection shall not be paid for any month following a month in which any such money or property is received until such time as the total amount of such benefits that would otherwise have been payable equals the total of the amount of the money received and the fair market value of the property received.
 
@@ -42,7 +42,7 @@ Subsec. (c) of this section effective with respect to dependency and indemnity c
 
 #### Effective Date of 1982 Amendment; Retrospective Payments
 
-Section 112(b) of Pub. L. 97–306 provided that:
+Pub. L. 97–306, title I, §112(b), Oct. 14, 1982, 96 Stat. 1432, provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1982.
 
@@ -64,7 +64,7 @@ Pub. L. 102–568, title I, §104, Oct. 29, 1992, 106 Stat. 4322, provided that:
 
 “(a)
 
-In General.—The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriatecombination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
+In General.—The Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report with respect to the most appropriate combination of financial, health-care, educational, and other survivor benefits to meet the needs of survivors of veterans.
 
 “(b)
 
@@ -118,7 +118,7 @@ Submission of Report.—The Comptroller General shall submit the report not late
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘survivor’, in the case of a veteran or member of the Armed Forces who dies, means the surviving spouse or surviving dependent child of the veteran or member.
+&emsp;“(1) The term ‘survivor’, in the case of a veteran or member of the Armed Forces who dies, means thesurviving spouse or surviving dependent child of the veteran or member.
 
 &emsp;“(2) The term ‘survivor benefit’ means any monetary, health-care, educational, or other benefit paid, payable, or otherwise provided to survivors of veterans and survivors of members of the Armed Forces under the following:
 
@@ -132,7 +132,7 @@ Definitions.—In this section:
 
 #### Dependency and Indemnity Compensation Program
 
-Section 204 of Pub. L. 94–433 directed Administrator of Veterans’ Affairs to study dependency and indemnity compensation program authorized by this chapter in order to evaluate benefits provided by program and to determine whether, or to what extent, benefits should be based on military pay grade of person upon whose death entitlement is predicated, and directed Administrator to submit to Congress and President not later than Oct. 1, 1977, a report containing results of study together with Administrator's recommendations for improvement of program.
+Pub. L. 94–433, title II, §204, Sept. 30, 1976, 90 Stat. 1376, directed Administrator of Veterans’ Affairs to study dependency and indemnity compensation program authorized by this chapter in order to evaluate benefits provided by program and to determine whether, or to what extent, benefits should be based on military pay grade of person upon whose death entitlement is predicated, and directed Administrator to submit to Congress and President not later than Oct. 1, 1977, a report containing results of study together with Administrator's recommendations for improvement of program.
 
 #### Study by Administrator of Dependency and Indemnity Compensation Claims
 

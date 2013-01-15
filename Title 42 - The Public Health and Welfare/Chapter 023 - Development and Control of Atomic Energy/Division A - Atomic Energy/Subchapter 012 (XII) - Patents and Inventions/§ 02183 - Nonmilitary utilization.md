@@ -8,7 +8,7 @@ The Commission may, after giving the patent owner an opportunity for a hearing, 
 
 Whenever any patent has been declared affected with the public interest, pursuant to subsection (a) of this section—
 
-&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
+&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent inperforming any of its powers under this chapter; and
 
 &emsp;(2) any person may apply to the Commission for a nonexclusive patent license to use the invention or discovery covered by such patent, and the Commission shall grant such patent license to the extent that it finds that the use of the invention or discovery is of primary importance to the conduct of an activity by such person authorized under this chapter.
 

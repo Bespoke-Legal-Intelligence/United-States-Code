@@ -6,5 +6,5 @@ Whenever, in his judgment, it is practicable and to the best interests of the na
 
 #### Codification
 
-Section was formerly classified to section 250<i>l</i> of Title 48, Territories and Insular Possessions.
+Section was formerly classified to section 250l of Title 48, Territories and Insular Possessions.
 

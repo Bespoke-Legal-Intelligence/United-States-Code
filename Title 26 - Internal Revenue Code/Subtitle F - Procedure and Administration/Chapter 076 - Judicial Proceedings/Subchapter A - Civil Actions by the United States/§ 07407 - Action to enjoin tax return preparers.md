@@ -46,7 +46,7 @@ Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007,
 
 #### Effective Date of 1989 Amendment
 
-Section 7738(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to actions commenced after December 31, 1989.”
+Pub. L. 101–239, title VII, §7738(c), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendments made by this section \[amending this section\] shall apply to actions commenced after December 31, 1989.”
 
 #### Effective Date
 

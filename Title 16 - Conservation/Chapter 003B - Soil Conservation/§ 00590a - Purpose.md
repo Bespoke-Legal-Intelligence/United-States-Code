@@ -8,7 +8,7 @@ It is recognized that the wastage of soil and moisture resources on farm, grazin
 
 (3) To cooperate or enter into agreements with, or to furnish financial or other aid to, any agency, governmental or otherwise, or any person, subject to such conditions as he may deem necessary, for the purposes of this chapter; and
 
-(4) To acquire lands, or rights or interests therein, by purchase, gift, condemnation, orotherwise, whenever necessary for the purposes of this chapter.
+(4) To acquire lands, or rights or interests therein, by purchase, gift, condemnation, or otherwise, whenever necessary for the purposes of this chapter.
 
 (Apr. 27, 1935, ch. 85, §1, 49 Stat. 163; Pub. L. 110–234, title II, §2802(a)(1), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, §4(a), title II, §2802(a)(1), June 18, 2008, 122 Stat. 1664, 1813.)
 

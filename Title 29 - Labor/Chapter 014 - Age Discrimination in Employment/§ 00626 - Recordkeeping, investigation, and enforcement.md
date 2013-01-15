@@ -94,13 +94,13 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 
 #### Effective Date of 1990 Amendment
 
-Section 202(a) of Pub. L. 101–433 provided that: “The amendment made by section 201 \[amending this section\] shall not apply with respect to waivers that occur before the date of enactment of this Act \[Oct. 16, 1990\].”
+Pub. L. 101–433, title II, §202(a), Oct. 16, 1990, 104 Stat. 984, provided that: “The amendment made by section 201 \[amending this section\] shall not apply with respect to waivers that occur before the date of enactment of this Act \[Oct. 16, 1990\].”
 
 #### Effective Date of 1978 Amendment
 
-Section 4(b)(2) of Pub. L. 95–256 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to civil actions brought after the date of enactment of this Act \[Apr. 6, 1978\].”
+Pub. L. 95–256, §4(b)(2), Apr. 6, 1978, 92 Stat. 190, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to civil actions brought after the date of enactment of this Act \[Apr. 6, 1978\].”
 
-Section 4(c)(2) of Pub. L. 95–256 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act \[Apr. 6, 1978\].”
+Pub. L. 95–256, §4(c)(2), Apr. 6, 1978, 92 Stat. 191, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act \[Apr. 6, 1978\].”
 
 #### Transfer of Functions
 
@@ -108,7 +108,7 @@ Section 4(c)(2) of Pub. L. 95–256 provided that: “The amendment made by para
 
 #### Rule on Waivers
 
-Section 202(b) of Pub. L. 101–433 provided that: “Effective on the date of enactment of this Act \[Oct. 16, 1990\], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
+Pub. L. 101–433, title II, §202(b), Oct. 16, 1990, 104 Stat. 984, provided that: “Effective on the date of enactment of this Act \[Oct. 16, 1990\], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
 
 #### Age Discrimination Claims Assistance
 

@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in this section, upon its appointment as trustee for the liquidation of a covered broker or dealer, SIPC shall have all of the powers and duties provided by the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), including, without limitation, all rights of action against third parties, and shall conduct such liquidation in accordance with the terms of the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), except that SIPC shall have no powers or duties with respect to assets and liabilities transferred by the Corporation from the covered broker or dealer to any bridge financial company established in accordance with this subchapter.
+&emsp;Except as provided in this section, upon its appointment as trustee for the liquidation of a covered broker or dealer, SIPC shall have all of the powers and duties provided by the Securities Investor Protection Act of 1970 (15 U.S.C.78aaa et seq.), including, without limitation, all rights of action against third parties, and shall conduct such liquidation in accordance with the terms of the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), except that SIPC shall have no powers or duties with respect to assets and liabilities transferred by the Corporation from the covered broker or dealer to any bridge financial company established in accordance with this subchapter.
 
 #### (2) Limitation of powers
 

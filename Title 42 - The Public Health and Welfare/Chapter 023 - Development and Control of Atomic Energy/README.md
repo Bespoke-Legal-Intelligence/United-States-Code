@@ -69,6 +69,7 @@
 | [2062\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20004%20%28IV%29%20-%20Production%20of%20Special%20Nuclear%20Material/%C2%A7%2002062%20-%20Irradiation%20of%20materials.md) | Irradiation of materials. |
 | [2063\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20004%20%28IV%29%20-%20Production%20of%20Special%20Nuclear%20Material/%C2%A7%2002063%20-%20Acquisition%20of%20production%20facilities.md) | Acquisition of production facilities. |
 | [2064\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20004%20%28IV%29%20-%20Production%20of%20Special%20Nuclear%20Material/%C2%A7%2002064%20-%20Disposition%20of%20energy%3B%20regulation%20on%20sale.md) | Disposition of energy; regulation on sale. |
+| [2065\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20004%20%28IV%29%20-%20Production%20of%20Special%20Nuclear%20Material/%C2%A7%2002065%20-%20Improving%20the%20reliability%20of%20domestic%20medical%20isotope%20supply.md) | Improving the reliability of domestic medical isotope supply. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -141,6 +142,7 @@
 | [2139a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002139a%20-%20Regulations%20implementing%20requirements%20relating%20to%20licensing%20for%20components%20and%20other%20parts%20of%20facilities.md) | Regulations implementing requirements relating to licensing for components and other parts of facilities. |
 | [2140\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002140%20-%20Exclusions%20from%20license%20requirement.md) | Exclusions from license requirement. |
 | [2141\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002141%20-%20Licensing%20by%20Nuclear%20Regulatory%20Commission%20of%20distribution%20of%20special%20nuclear%20material%2C%20source%20material%2C%20and%20byproduct%20material%20by%E2%80%A6.md) | Licensing by Nuclear Regulatory Commission of distribution of special nuclear material, source material, and byproduct material by Department of Energy. |
+| [2142\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20009%20%28IX%29%20-%20Atomic%20Energy%20Licenses/%C2%A7%2002142%20-%20Domestic%20medical%20isotope%20production.md) | Domestic medical isotope production. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -311,7 +313,7 @@
 |  |  |
 | :--- | ---: |
 | [2286\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286%20-%20Establishment.md) | Establishment. |
-| [2286a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286a%20-%20Functions%20of%20Board.md) | Functions of Board. |
+| [2286a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286a%20-%20Mission%20and%20functions%20of%20Board.md) | Mission and functions of Board. |
 | [2286b.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286b%20-%20Powers%20of%20Board.md) | Powers of Board. |
 | [2286c.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286c%20-%20Responsibilities%20of%20Secretary%20of%20Energy.md) | Responsibilities of Secretary of Energy. |
 | [2286d.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286d%20-%20Board%20recommendations.md) | Board recommendations. |
@@ -322,6 +324,7 @@
 | 2286h–1. | Transmittal of certain information to Congress. |
 | [2286i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286i%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
 | [2286j.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286j%20-%20Procurement%20of%20inspector%20general%20services.md) | Procurement of inspector general services. |
+| [2286k.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%E2%80%93A%20%28XVII%E2%80%93A%29%20-%20Defense%20Nuclear%20Facilities%20Safety%20Board/%C2%A7%2002286k%20-%20Inspector%20General.md) | Inspector General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

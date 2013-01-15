@@ -20,7 +20,7 @@
 
 (h) The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Director shall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
 
-(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, §8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §223(<i>o</i>), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, §330001(i), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, §8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §223(o), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, §330001(i), Sept. 13, 1994, 108 Stat. 2140.)
 
 #### References in Text
 

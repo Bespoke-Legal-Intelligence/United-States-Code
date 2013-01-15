@@ -46,7 +46,7 @@ In awarding grants under this section, the Secretary of Labor shall ensure an eq
 
 &emsp;In awarding grants under this section, the Secretary of Labor shall take into account, in addition to other factors the Secretary determines are appropriate—
 
-&emsp;&emsp;(i) the extent to which resources other than the funds provided under this section will be made available by the eligible entities applying for grants to support the activities carried out under this section; and
+&emsp;&emsp;(i) the extent to which resources other than the funds provided under this sectionwill be made available by the eligible entities applying for grants to support the activities carried out under this section; and
 
 &emsp;&emsp;(ii) the ability of such entities to continue to carry out and expand such activities after the expiration of the grants.
 

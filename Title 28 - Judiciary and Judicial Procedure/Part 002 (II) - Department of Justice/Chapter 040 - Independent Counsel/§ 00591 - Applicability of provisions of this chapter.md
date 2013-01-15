@@ -66,7 +66,7 @@ When recusal is required.—(A) If information received under this chapter invol
 
 Requirements for recusal determination.—Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3,4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
-Section 7 of Pub. L. 103–270 provided that:
+Pub. L. 103–270, §7, June 30, 1994, 108 Stat. 737, provided that:
 
 “(a)
 
@@ -130,15 +130,15 @@ In General.—Except as provided in this section, the amendments made by this Ac
 
 “(b)
 
-Assignment of Employee To Certify Expenditures.—An independent counsel appointed prior to the date of enactment of this Act shall assign to an employee the duty of certifying expenditures, as required by section 594(<i>l</i>) of title 28, United States Code, as added by section 3(a), by the date that is 30 days after the date of enactment of this Act.
+Assignment of Employee To Certify Expenditures.—An independent counsel appointed prior to the date of enactment of this Act shall assign to an employee the duty of certifying expenditures, as required by section 594(l) of title 28, United States Code, as added by section 3(a), by the date that is 30 days after the date of enactment of this Act.
 
 “(c)
 
-Office Space.—The Administrator of General Services, in applying section 594(<i>l</i>)(3) of title 28, United States Code, as added by section 3(a), to determine whether the office of an independent counsel appointed prior to the date of enactment of this Act should be moved to a Federal building, shall take into account the moving, legal, and other expenses that might arise if the office were moved.
+Office Space.—The Administrator of General Services, in applying section 594(l)(3) of title 28, United States Code, as added by section 3(a), to determine whether the office of an independent counsel appointed prior to the date of enactment of this Act should be moved to a Federal building, shall take into account the moving, legal, and other expenses that might arise if the office were moved.
 
 “(d)
 
-Travel And Subsistence Expenses.—For purposes of the restrictions on reimbursement of travel and subsistence expenses of an independent counsel and employees of an office of independent counsel contained in paragraph (3) of section 594(b) of title 28, United States Code, as amended by section 3(b), as applied to the office of an independent counsel appointed before the date of enactment of this Act, the 1-year service period shall begin on the date of enactment of this Act.
+Travel And Subsistence Expenses.—For purposes of the restrictions on reimbursement of travel and subsistence expenses of an independent counsel and employees of an office of independent counsel contained in paragraph (3) of section 594(b) of title 28,United States Code, as amended by section 3(b), as applied to the office of an independent counsel appointed before the date of enactment of this Act, the 1-year service period shall begin on the date of enactment of this Act.
 
 “(e)
 
@@ -154,7 +154,7 @@ Reporting Requirements.—No amendment made by this Act that establishes or modi
 
 “(h)
 
-Regulatory Independent Counsel.—Notwithstanding the restriction in section 593(b)(2) of title 28, United States Code, the division of the court described in section 49 of that title may appoint as an independent counsel any individual who, on the date of enactment of this Act, is serving as a regulatory independentcounsel under parts 600 and 603 of title 28, Code of Federal Regulations. If such an individual is so appointed, such an independent counsel shall comply with chapter 40 of title 28, United States Code, as amended by this Act, in the same manner and to the same extent as an independent counsel appointed before the date of enactment of this Act is required to comply with that chapter, except that subsection (f) of this section shall not apply to such an independent counsel.
+Regulatory Independent Counsel.—Notwithstanding the restriction in section 593(b)(2) of title 28, United States Code, the division of the court described in section 49 of that title may appoint as an independent counsel any individual who, on the date of enactment of this Act, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations. If such an individual is so appointed, such an independent counsel shall comply with chapter 40 of title 28, United States Code, as amended by this Act, in the same manner and to the same extent as an independent counsel appointed before the date of enactment of this Act is required to comply with that chapter, except that subsection (f) of this section shall not apply to such an independent counsel.
 
 “(i)
 
@@ -162,7 +162,7 @@ White House Personnel Report.—Section 6 \[enacting provisions set out as a not
 
 #### Effective Date of 1987 Amendment
 
-Section 6 of Pub. L. 100–191 provided that:
+Pub. L. 100–191, §6, Dec. 15, 1987, 101 Stat. 1307, provided that:
 
 “(a)
 
@@ -196,11 +196,11 @@ Pending Proceedings.—With respect to any proceeding under chapter 39 of title 
 
 #### Effective Date of 1984 Amendment
 
-Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, §235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
 #### Effective Date
 
-Section 604 of Pub. L. 95–521 provided that: “Except as provided in this section, the amendments made by this title \[enacting this chapter and sections 49, 528, and 529 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1978\]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
+Pub. L. 95–521, title VI, §604, Oct. 26, 1978, 92 Stat. 1875, provided that: “Except as provided in this section, the amendments made by this title \[enacting this chapter and sections 49, 528, and 529 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1978\]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
 
 &emsp;“(1) such specific information is directly related to a prosecution pending at the time such specific information is received by the Attorney General;
 
@@ -214,5 +214,5 @@ Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–
 
 #### Contingency Fund for Independent Counsels
 
-Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
+Pub. L. 95–521, title VI, §601(c), Oct. 26, 1978, 92 Stat. 1873, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
 

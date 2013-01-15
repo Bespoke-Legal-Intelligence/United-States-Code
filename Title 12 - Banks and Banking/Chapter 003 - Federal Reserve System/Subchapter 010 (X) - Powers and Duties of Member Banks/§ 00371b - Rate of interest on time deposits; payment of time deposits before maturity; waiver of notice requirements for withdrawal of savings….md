@@ -20,11 +20,11 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 #### Effective Date of 1980 Amendment
 
-Section 207(b) of Pub. L. 96–221 provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+Pub. L. 96–221, title II, §207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
 #### Effective and Termination Dates of 1966 Amendment
 
-Section 7 of Pub. L. 89–597, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (which provided in part that amendment of this section by section 2(c) of Pub. L. 89–597 was effective only to Dec. 15, 1980, and that on Dec. 15, 1980, this section was amended to read as it would without the amendment by section 2(c) of Pub. L. 89–597), was repealed by section 207(a) of Pub. L. 96–221.
+Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (which provided in part that amendment of this section by section 2(c) of Pub. L. 89–597 was effective only to Dec. 15, 1980, and that on Dec. 15, 1980, this section was amended to read as it would without the amendment by section 2(c) of Pub. L. 89–597), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
 
 #### Transfer of Functions
 

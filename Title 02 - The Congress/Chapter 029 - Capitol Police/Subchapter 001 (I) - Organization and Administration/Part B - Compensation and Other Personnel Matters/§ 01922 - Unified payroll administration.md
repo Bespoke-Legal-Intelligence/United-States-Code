@@ -18,7 +18,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section 104 of Pub. L. 102–397, as amended by Pub. L. 102–392, title III, §321, Oct. 6, 1992, 106 Stat. 1726, provided that: “The unified payroll administration under the amendment made by section 102 \[enacting this section\] shall apply with respect to pay periods beginning after September 30, 1993.”
+Pub. L. 102–397, title I, §104, Oct. 6, 1992, 106 Stat. 1950, as amended by Pub. L. 102–392, title III, §321, Oct. 6, 1992, 106 Stat. 1726, provided that: “The unified payroll administration under the amendment made by section 102 \[enacting this section\] shall apply with respect to pay periods beginning after September 30, 1993.”
 
-\[Section 321 of Pub. L. 102–392 provided that the amendment made by that section to section 104 of Pub. L. 102–397, set out above, is effective Oct. 6, 1992.\]
+\[Pub. L. 102–392, title III, §321, Oct. 6, 1992, 106 Stat. 1726, provided that the amendment made by that section to section 104 of Pub. L. 102–397, set out above, is effective Oct. 6, 1992.\]
 

@@ -42,7 +42,7 @@ Travel to primary office.—
 
 &emsp;&emsp;(A)
 
-In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extendedfor successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
+In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
 
 &emsp;&emsp;(B)
 
@@ -82,7 +82,7 @@ Compliance With Policies of the Department of Justice.—
 
 &emsp;(1)
 
-In general.—An independent counsel shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply with the written or other established policies of the Department of Justice respecting enforcement of the criminal laws. To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.
+In general.—An independent counsel shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply with the written or other established policies of the Department of Justice respecting enforcement of the criminal laws. To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so wouldbe inconsistent with the purposes of this chapter, consult with the Department of Justice.
 
 &emsp;(2)
 
@@ -102,7 +102,7 @@ Required reports.—An independent counsel shall—
 
 &emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
-&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), filea final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
+&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
 &emsp;(2)
 
@@ -192,7 +192,7 @@ Records provided by congress.—Records of an investigation conducted by a commi
 
 > &emsp;Subparagraph (B) shall not apply to those records which have been surrendered pursuant to grand jury or court proceedings.
 
-(<i>l</i>) Cost Controls and Administrative Support.—
+(l) Cost Controls and Administrative Support.—
 
 &emsp;(1)
 
@@ -224,7 +224,7 @@ Administrative support.—The Director of the Administrative Office of the Unite
 
 Office space.—The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (<i>o</i>), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.)
 
 #### References in Text
 
@@ -236,7 +236,7 @@ The enactment of the Independent Counsel Reauthorization Act of 1987, referred t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (<i>l</i>)(1)(A)(iii) certifies”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (l)(1)(A)(iii) certifies”.
 
 Subsec. (b)(3)(B). Pub. L. 104–208, §101(a) \[title I, §118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
 
@@ -246,15 +246,15 @@ Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former las
 
 Subsec. (d)(1). Pub. L. 103–270, §3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
 
-Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
 
-Subsec. (h)(1)(B). Pub. L. 103–270, §3(<i>o</i>), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
+Subsec. (h)(1)(B). Pub. L. 103–270, §3(o), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
 
 Subsec. (h)(3). Pub. L. 103–270, §3(f), added par. (3).
 
 Subsec. (j)(5). Pub. L. 103–270, §3(d), added par. (5).
 
-Subsec. (<i>l</i>). Pub. L. 103–270, §3(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 103–270, §3(a), added subsec. (l).
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 

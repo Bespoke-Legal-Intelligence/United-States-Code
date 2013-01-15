@@ -24,5 +24,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92�
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–412 provided that: “This Act \[enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under section 161a of this title\] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
+Pub. L. 103–412, §1(a), Oct. 25, 1994, 108 Stat. 4239, provided that: “This Act \[enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under section 161a of this title\] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
 

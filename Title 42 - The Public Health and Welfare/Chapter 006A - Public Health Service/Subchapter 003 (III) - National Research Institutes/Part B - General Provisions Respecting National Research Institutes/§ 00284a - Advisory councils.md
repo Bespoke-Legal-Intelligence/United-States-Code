@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) may on the basis of the materials provided under section 289a(b)(2) of this title respecting research conducted at the institute, make recommendations to the Director of the institute respecting such research,
 
-&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval isrequired under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
+&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval is required under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
@@ -38,7 +38,7 @@
 
 #### (c) Term of office; reappointment; vacancy
 
-The term of office of an appointed member of an advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term for 180 days after the date of such expiration. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of an advisory council is four years, except thatany member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term for 180 days after the date of such expiration. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; term of office
 
@@ -82,7 +82,7 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853.)
+(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214;Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853.)
 
 #### References in Text
 

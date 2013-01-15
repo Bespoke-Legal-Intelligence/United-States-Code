@@ -22,7 +22,7 @@ The Civil Aeromedical Institute established by section 106(j) of this title mayâ
 
 &emsp;(3) make comments to the Administrator on human factors aspects of proposed training programs, equipment requirements, standards, and procedures for aviation personnel;
 
-&emsp;(4) advise, assist, and represent the Federal Aviation Administration in the human factors aspects of joint projects between the Administration and the National Aeronautics and Space Administration, other departments, agencies, and instrumentalities of the United States Government, industry, and governments of foreign countries; and
+&emsp;(4) advise, assist, and represent the Federal Aviation Administration in the human factors aspects of joint projects between the Administration and the National Aeronautics and Space Administration, other departments,agencies, and instrumentalities of the United States Government, industry, and governments of foreign countries; and
 
 &emsp;(5) provide medical consultation services to the Administrator about medical certification of airmen.
 

@@ -1,18 +1,12 @@
 ### §1300f–2. Membership of Tribe
 
-For the purposes of section 1300f of this title, membership of the Pascua Yaqui Tribe shall consist of—
+For the purposes of section 1300f of this title, membership of the Pascua Yaqui Tribe shall consist of any United States citizen of Pascua Yaqui blood enrolled by the tribe.
 
-&emsp;(A) the members of the Pascua Yaqui Association, Incorporated, as of September 18, 1978, who apply for enrollment in the Pascua Yaqui Tribe within one year from September 18, 1978 pursuant to the membership criteria and procedures provided for in the official governing documents of the Pascua Yaqui Tribe;
-
-&emsp;(B) all those persons of Yaqui blood who are citizens of the United States and who, within two years from September 18, 1978, apply for, and are admitted to, membership in the Association pursuant to article VII of the Articles of Incorporation of the Association;
-
-&emsp;(C) all those persons of Yaqui blood who are citizens of the United States and who, within three years after October 14, 1994, apply for enrollment in the Pascua Yaqui Tribe pursuant to the membership criteria and procedures provided for in the official governing documents of the Pascua Yaqui Tribe; and
-
-&emsp;(D) direct lineal descendants of such persons, subject to any further qualifications as may be provided by the Tribe in its constitution and bylaws or other governing documents.
-
-(Pub. L. 95–375, §3, Sept. 18, 1978, 92 Stat. 712; Pub. L. 103–357, §1(b), Oct. 14, 1994, 108 Stat. 3418.)
+(Pub. L. 95–375, §3, Sept. 18, 1978, 92 Stat. 712; Pub. L. 103–357, §1(b), Oct. 14, 1994, 108 Stat. 3418; Pub. L. 112–214, §1, Dec. 20, 2012, 126 Stat. 1588.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–214 amended section generally. Prior to amendment, section set out categories of membership in the Pascua Yaqui Tribe in pars. (A) to (D).
 
 <b>1994</b>—Pub. L. 103–357 added par. (C) and redesignated former par. (C) as (D).
 

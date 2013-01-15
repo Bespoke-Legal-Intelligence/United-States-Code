@@ -16,7 +16,7 @@
 
 (B) In the case of the determination of a plan's unfunded vested benefits for a plan year, the determination is presumed correct unless a party contesting the determination shows by a preponderance of evidence that—
 
-&emsp;(i) the actuarial assumptions and methods used in the determination were, in the aggregate, unreasonable (taking into account theexperience of the plan and reasonable expectations), or
+&emsp;(i) the actuarial assumptions and methods used in the determination were, in the aggregate, unreasonable (taking into account the experience of the plan and reasonable expectations), or
 
 &emsp;(ii) the plan's actuary made a significant error in applying the actuarial assumptions or methods.
 
@@ -88,7 +88,7 @@ In general.—If—
 
 (2)
 
-Special rule.—Notwithstanding subsection (d) and section 1399(c) of this title, if anelecting person contests the plan sponsor's determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination, but only if the electing person—
+Special rule.—Notwithstanding subsection (d) and section 1399(c) of this title, if an electing person contests the plan sponsor's determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination, but only if the electing person—
 
 &emsp;(A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title; and
 

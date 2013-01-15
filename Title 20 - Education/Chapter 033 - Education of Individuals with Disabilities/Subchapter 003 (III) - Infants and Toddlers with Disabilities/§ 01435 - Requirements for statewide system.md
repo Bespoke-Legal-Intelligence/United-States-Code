@@ -6,7 +6,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(1) A rigorous definition of the term “developmental delay” that will be used by the State in carrying out programs under this subchapter in order to appropriately identify infants and toddlers with disabilities that are in need of services under this subchapter.
 
-&emsp;(2) A State policy that is in effect and that ensures that appropriate early intervention services based on scientifically based research, to the extent practicable, are available to all infants and toddlers with disabilities and their families, including Indian infants and toddlerswith disabilities and their families residing on a reservation geographically located in the State and infants and toddlers with disabilities who are homeless children and their families.
+&emsp;(2) A State policy that is in effect and that ensures that appropriate early intervention services based on scientifically based research, to the extent practicable, are available to all infants and toddlers with disabilities and their families, including Indian infants and toddlers with disabilities and their families residing on a reservation geographically located in the State and infants and toddlers with disabilities who are homeless children and their families.
 
 &emsp;(3) A timely, comprehensive, multidisciplinary evaluation of the functioning of each infant or toddler with a disability in the State, and a family-directed identification of the needs of each family of such an infant or toddler, to assist appropriately in the development of the infant or toddler.
 
@@ -26,7 +26,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;&emsp;&emsp;(ii) promoting the preparation of early intervention providers who are fully and appropriately qualified to provide early intervention services under this subchapter; and
 
-&emsp;&emsp;&emsp;(iii) training personnel to coordinate transition services for infants and toddlers served under this subchapter from a program providing early intervention services under this subchapter and under subchapter II (other than section 1419 of this title), to a preschool program receiving funds under section 1419 of this title, or another appropriate program; and
+&emsp;&emsp;&emsp;(iii) training personnel to coordinate transition services for infants and toddlers served under this subchapter from a program providing early intervention services under this subchapter and under subchapter II (other than section 1419 of this title), to a preschool program receivingfunds under section 1419 of this title, or another appropriate program; and
 
 &emsp;&emsp;(B) may include—
 
@@ -84,7 +84,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;&emsp;(i) a description of the rights of such parents to elect to receive services pursuant to this subsection or under subchapter II; and
 
-&emsp;&emsp;&emsp;(ii) an explanation of the differences between services provided pursuant to this subsection and services provided under subchapter II, including—
+&emsp;&emsp;&emsp;(ii) an explanation of the differences between services provided pursuant to thissubsection and services provided under subchapter II, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) types of services and the locations at which the services are provided;
 

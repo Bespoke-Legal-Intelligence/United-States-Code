@@ -38,7 +38,7 @@ Subsec. (e). Pub. L. 103–337, §371(b)(2)(A), struck out subsec. (e) which rea
 
 #### Effective Date of 1994 Amendment
 
-Section 371(d)(2) of Pub. L. 103–337 provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on October 1, 1997.”
+Pub. L. 103–337, div. A, title III, §371(d)(2), Oct. 5, 1994, 108 Stat. 2735, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on October 1, 1997.”
 
 #### Effective Date
 

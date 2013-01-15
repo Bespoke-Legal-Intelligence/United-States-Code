@@ -10,7 +10,7 @@ Not later than 5 days after January 6, 1988, the Farm Credit Administration shal
 
 #### Financial Report
 
-Section 206 of Pub. L. 100–233 provided that: “During the period beginning September 30, 2001, and ending December 31, 2001, the Farm Credit Administration shall review and evaluate the financial condition of the Farm Credit System and report to the Secretary of the Treasury and the appropriate committees of Congress on—
+Pub. L. 100–233, title II, §206, Jan. 6, 1988, 101 Stat. 1607, provided that: “During the period beginning September 30, 2001, and ending December 31, 2001, the Farm Credit Administration shall review and evaluate the financial condition of the Farm Credit System and report to the Secretary of the Treasury and the appropriate committees of Congress on—
 
 &emsp;“(1) the general financial condition of each System institution;
 

@@ -20,7 +20,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;&emsp;(ii) under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act, or
 
-&emsp;&emsp;(B) is described in subsection (<i>l</i>).
+&emsp;&emsp;(B) is described in subsection (l).
 
 &emsp;(2) Corporations organized for the exclusive purpose of holding title to property, collecting income therefrom, and turning over the entire amount thereof, less expenses, to an organization which itself is exempt under this section. Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.
 
@@ -130,7 +130,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(vii) For purposes of this subparagraph, the start-up year is the first year that the mutual or cooperative electric company offers nondiscriminatory open access or the calendar year which includes the date of the enactment of this subparagraph, if later, at the election of such company.
 
-&emsp;(viii) A company shall not fail to be treated as a mutual or cooperative electric companyfor purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
+&emsp;(viii) A company shall not fail to be treated as a mutual or cooperative electric company for purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
 
 &emsp;(ix) For purposes of subparagraph (A), in the case of a mutual or cooperative electric company, income received, or accrued, indirectly from a member shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
 
@@ -226,7 +226,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(20) an <sup>4</sup> organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.
 
-&emsp;(21)(A) A trust or trusts established in writing, created or organized in the United States,and contributed to by any person (except an insurance company) if—
+&emsp;(21)(A) A trust or trusts established in writing, created or organized in the United States, and contributed to by any person (except an insurance company) if—
 
 &emsp;&emsp;(i) the purpose of such trust or trusts is exclusively—
 
@@ -348,7 +348,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(26) Any membership organization if—
 
-&emsp;&emsp;(A) such organization is established by a State exclusively to provide coverage for medical care (as defined in section 213(d)) on a not-for-profit basis to individuals described in subparagraph (B) through—
+&emsp;&emsp;(A) such organization is established by a State exclusively to provide coverage formedical care (as defined in section 213(d)) on a not-for-profit basis to individuals described in subparagraph (B) through—
 
 &emsp;&emsp;&emsp;(i) insurance issued by the organization, or
 
@@ -438,7 +438,7 @@ For purposes of this title, an organization shall be treated as an organization 
 
 &emsp;&emsp;&emsp;(i) an organization described in subsection (c)(3) which is exempt from taxation under subsection (a),
 
-&emsp;&emsp;&emsp;(ii) a constituent part of an organization described in subsection (c)(3) which is exempt from taxation under subsection (a)and which, if organized and operated as a separate entity, would constitute an organization described in subsection (c)(3), or
+&emsp;&emsp;&emsp;(ii) a constituent part of an organization described in subsection (c)(3) which is exempt from taxation under subsection (a) and which, if organized and operated as a separate entity, would constitute an organization described in subsection (c)(3), or
 
 &emsp;&emsp;&emsp;(iii) owned and operated by the United States, a State, the District of Columbia, or a possession of the United States, or a political subdivision or an agency or instrumentality of any of the foregoing;
 
@@ -588,7 +588,7 @@ For purposes of subsection (c)(3) of this section and sections 170(c)(2), 2055(a
 
 &emsp;(2) the services provided by the organization are available to the general public.
 
-#### (<i>l</i>) Government corporations exempt under subsection (c)(1)
+#### (l) Government corporations exempt under subsection (c)(1)
 
 For purposes of subsection (c)(1), the following organizations are described in this subsection:
 
@@ -680,7 +680,7 @@ For purposes of subsection (c)(1), the following organizations are described in 
 
 &emsp;&emsp;&emsp;(iii) each policy of insurance issued by the risk pool shall provide that such policy will not cover the insured with respect to events occurring after the date such final determination was issued to the insured.
 
-> &emsp;An organization shall not cease to qualify as a qualified charitable risk pool solely by reason of the failure of any of its members to continue to be an organization described in subsection (c)(3) if, within a reasonable period of time after such pool is notified as required under subparagraph (E)(ii), such pool takes such action as may be reasonably necessary to remove such member from such pool.
+> &emsp;An organization shall not cease to qualify as a qualified charitable risk pool solely by reasonof the failure of any of its members to continue to be an organization described in subsection (c)(3) if, within a reasonable period of time after such pool is notified as required under subparagraph (E)(ii), such pool takes such action as may be reasonably necessary to remove such member from such pool.
 
 #### (4) Other definitions
 
@@ -694,7 +694,7 @@ For purposes of subsection (c)(1), the following organizations are described in 
 
 &emsp;&emsp;The term “nonmember charitable organization” means any organization which is described in subsection (c)(3) and exempt from tax under subsection (a) and which is not a member of the risk pool and does not benefit (directly or indirectly) from the insurance coverage provided by the pool to its members.
 
-#### (<i>o</i>) Treatment of hospitals participating in provider-sponsored organizations
+#### (o) Treatment of hospitals participating in provider-sponsored organizations
 
 An organization shall not fail to be treated as organized and operated exclusively for a charitable purpose for purposes of subsection (c)(3) solely because a hospital which is owned and operated by such organization participates in a provider-sponsored organization (as defined in section 1855(d) of the Social Security Act), whether or not the provider-sponsored organization is exempt from tax. For purposes of subsection (c)(3), any person with a material financial interest in such a provider-sponsored organization shall be treated as a private shareholder or individual with respect to the hospital.
 
@@ -732,7 +732,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 #### (4) Denial of deduction
 
-&emsp;No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2),<sup>5</sup> 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
+&emsp;No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2),<sup>1</sup> 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
 
 #### (5) Denial of administrative or judicial challenge of suspension or denial of deduction
 
@@ -754,7 +754,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 #### (B) Waiver of limitations
 
-&emsp;&emsp;If the credit or refund of any overpayment of tax described in subparagraph (A)(iii) is prevented at any time by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the last determination described in subparagraph (A)(ii).
+&emsp;&emsp;If the credit or refund of any overpayment of tax described in subparagraph (A)(iii) isprevented at any time by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the last determination described in subparagraph (A)(ii).
 
 #### (7) Notice of suspensions
 
@@ -948,7 +948,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 #### References in Text
 
-Sections 306A and 306B of the Rural Electrification Act of 1936, referred to in subsec. (c)(12)(B)(iv), are classified to sections 936a and 936b, respectively, of Title 7, Agriculture. Section 311 of the Act was classified to section 940a of Title 7 prior to repeal by Pub. L. 104–127, title VII, §780, Apr. 4, 1996, 110 Stat. 1151.
+Sections 306A and 306B of the Rural Electrification Act of 1936, referred to in subsec. (c)(12)(B)(iv), are classified to sections 936a and 936b, respectively, of Title 7,Agriculture. Section 311 of the Act was classified to section 940a of Title 7 prior to repeal by Pub. L. 104–127, title VII, §780, Apr. 4, 1996, 110 Stat. 1151.
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(12)(H)(vii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
@@ -968,11 +968,11 @@ Section 1322 of the Patient Protection and Affordable Care Act, referred to in s
 
 The provisions of subsec. (a) of section 115, referred to in subsec. (f)(3)(B), now comprise section 115 in its entirety, following the deletion therefrom of the subsec. (a) designation by section 1901(a)(19) of Pub. L. 94–455.
 
-The Federal Credit Union Act, referred to in subsec. (<i>l</i>)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (l)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (<i>l</i>)(2), (3), are classified to former section 1441a and section 1441b, respectively, of Title 12, Banks and Banking. Section 21A of the Act was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (l)(2), (3), are classified to former section 1441a and section 1441b, respectively, of Title 12, Banks and Banking. Section 21A of the Act was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
-Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (<i>l</i>)(4) and (<i>o</i>), are classified to sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
+Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (l)(4) and (o), are classified to sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
@@ -996,7 +996,7 @@ Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(
 
 Subsec. (c)(29). Pub. L. 111–148, §1322(h)(1), added par. (29).
 
-Subsec. (<i>l</i>)(4). Pub. L. 111–148, §6301(f), added par. (4).
+Subsec. (l)(4). Pub. L. 111–148, §6301(f), added par. (4).
 
 Subsec. (r). Pub. L. 111–148, §9007(a), added subsec. (r). Former subsec. (r) redesignated (s).
 
@@ -1030,7 +1030,7 @@ Subsec. (c)(12)(H)(x). Pub. L. 109–58, §1304(b), struck out cl. (x) which rea
 
 Subsec. (c)(22)(B)(ii). Pub. L. 109–135, §412(cc), substituted “clause (ii) of paragraph (21)(D)” for “clause (ii) of paragraph (21)(B)”.
 
-<b>2004</b>—Subsec. (c)(12)(C). Pub. L. 108–357, §319(a)(1), added cls. (ii) to (v) and concluding provisions and struck out former cl. (ii) which read as follows: “from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).”
+<b>2004</b>—Subsec. (c)(12)(C). Pub. L. 108–357, §319(a)(1), added cls. (ii) to (v) and concluding provisions andstruck out former cl. (ii) which read as follows: “from the prepayment of a loan under section 306A, 306B, or 311 of the Rural Electrification Act of 1936 (as in effect on January 1, 1987).”
 
 Subsec. (c)(12)(E) to (G). Pub. L. 108–357, §319(a)(2), added subpars. (E) to (G).
 
@@ -1050,7 +1050,7 @@ Subsec. (c)(28). Pub. L. 107–90 added par. (28).
 
 <b>1998</b>—Subsec. (n)(3). Pub. L. 105–206, §6023(6), substituted “subparagraph (E)(ii)” for “subparagraph (C)(ii)” in concluding provisions.
 
-Subsec. (<i>o</i>). Pub. L. 105–206, §6023(7), substituted “section 1855(d)” for “section 1853(e)”.
+Subsec. (o). Pub. L. 105–206, §6023(7), substituted “section 1855(d)” for “section 1853(e)”.
 
 <b>1997</b>—Subsec. (c)(26). Pub. L. 105–34, §101(c), inserted concluding provisions “A spouse and any qualifying child (as defined in section 24(c)) of an individual described in subparagraph (B) (without regard to this sentence) shall be treated as described in subparagraph (B).”
 
@@ -1058,7 +1058,7 @@ Subsec. (c)(27). Pub. L. 105–34, §963(a), (b), designated existing provisions
 
 Subsec. (e)(1)(A). Pub. L. 105–34, §974(a), inserted “(including the purchase of patron accounts receivable on a recourse basis)” after “billing and collection”.
 
-Subsecs. (<i>o</i>), (p). Pub. L. 105–33 added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
+Subsecs. (o), (p). Pub. L. 105–33 added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–168 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -1068,7 +1068,7 @@ Subsec. (c)(26). Pub. L. 104–191, §341(a), added par. (26).
 
 Subsec. (c)(27). Pub. L. 104–191, §342(a), added par. (27).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 104–188, §1114(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 104–188, §1114(a), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end “Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.”
 
@@ -1076,7 +1076,7 @@ Subsec. (c)(25)(G). Pub. L. 103–66, §13146(a), added subpar. (G).
 
 <b>1992</b>—Subsec. (c)(21). Pub. L. 102–486 amended par. (21) generally, substituting present provisions consisting of subpars. (A) to (D) for former provisions consisting of subpars. (A) and (B).
 
-<b>1989</b>—Subsec. (<i>l</i>). Pub. L. 101–73 amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The organization described in this subsection is the Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).”
+<b>1989</b>—Subsec. (l). Pub. L. 101–73 amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: “The organization described in this subsection is the Central Liquidity Facility established under title III of the Federal Credit Union Act (12 U.S.C. 1795 et seq.).”
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1018(u)(15), substituted “Any” for “any”.
 
@@ -1126,13 +1126,13 @@ Subsecs. (m), (n). Pub. L. 99–514, §1012(a), added subsec. (m) and redesignat
 
 Subsec. (c)(1)(A). Pub. L. 98–369, §1079, substituted provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented before July 18, 1984, or under this title without regard to any provision of law not contained in this title and not contained in a revenue Act for provisions referring to corporations exempt from Federal income taxes under any Act of Congress as amended and supplemented.
 
-Subsec. (k). Pub. L. 98–369, §1032(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+Subsec. (k). Pub. L. 98–369, §1032(a), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Subsec. (<i>l</i>). Pub. L. 98–369, §2813(b)(1), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 98–369, §2813(b)(1), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Pub. L. 98–369, §1032(a), redesignated former subsec. (k) as (<i>l</i>).
+Pub. L. 98–369, §1032(a), redesignated former subsec. (k) as (l).
 
-Subsec. (m). Pub. L. 98–369, §2813(b)(1), redesignated former subsec. (<i>l</i>) as (m).
+Subsec. (m). Pub. L. 98–369, §2813(b)(1), redesignated former subsec. (l) as (m).
 
 <b>1983</b>—Subsec. (c)(23). Pub. L. 97–448 substituted “75 percent” for “25 percent”.
 
@@ -1250,13 +1250,13 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginningafter the date which is 1 year after the date of the enactment of this Act.”
+Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginning after the date which is 1 year after the date of the enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title XIII, §1304(c), Aug. 8, 2005, 119 Stat. 997, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].”
 
-#### Effective Date of 2004 Amendments
+#### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title III, §319(e), Oct. 22, 2004, 118 Stat. 1473, provided that: “The amendments made by this section \[amending this section and sections 512 and 1381 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -1286,25 +1286,25 @@ Pub. L. 108–121, title I, §108(b), Nov. 11, 2003, 117 Stat. 1341, provided th
 
 Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
 
-#### Effective Date of 1997 Amendments
+#### Effective Date of 1997 Amendment
 
 Amendment by section 101(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
 
-Section 963(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §963(c), Aug. 5, 1997, 111 Stat. 892, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 974(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 105–34, title IX, §974(b), Aug. 5, 1997, 111 Stat. 898, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 4041(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–33, title IV, §4041(b), Aug. 5, 1997, 111 Stat. 360, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-#### Effective Date of 1996 Amendments
+#### Effective Date of 1996 Amendment
 
-Section 341(b) of Pub. L. 104–191 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–191, title III, §341(b), Aug. 21, 1996, 110 Stat. 2070, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
-Section 342(b) of Pub. L. 104–191 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 21, 1996\].”
+Pub. L. 104–191, title III, §342(b), Aug. 21, 1996, 110 Stat. 2071, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 21, 1996\].”
 
-Section 1114(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1114(b), Aug. 20, 1996, 110 Stat. 1760, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
-Section 1311(d)(3) of Pub. L. 104–168 provided that:
+Pub. L. 104–168, title XIII, §1311(d)(3), July 30, 1996, 110 Stat. 1478, provided that:
 
 “(A)
 
@@ -1316,7 +1316,7 @@ Binding contracts.—The amendment made by subsection (b) shall not apply to any
 
 #### Effective Date of 1993 Amendment
 
-Section 13146(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after January 1, 1994.”
+Pub. L. 103–66, title XIII, §13146(c), Aug. 10, 1993, 107 Stat. 443, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning on or after January 1, 1994.”
 
 #### Effective Date of 1992 Amendment
 
@@ -1324,25 +1324,25 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1989 Amendment
 
-Section 1402(b) of Pub. L. 101–73 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
+Pub. L. 101–73, title XIV, §1402(b), Aug. 9, 1989, 103 Stat. 551, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1011(c)(7)(D) of Pub. L. 100–647 applicable to plan years beginning after Dec. 31, 1987, with exception in case of a plan described in section 1105(c)(2) of Pub. L. 99–514, see section 1011(c)(7)(E) of Pub. L. 100–647, set out as a note under section 401 of this title.
 
-Section 1016(a)(1)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to property acquired by the organization after June 10, 1987, except that such amendment shall not apply to any property acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
+Pub. L. 100–647, title I, §1016(a)(1)(B), Nov. 10, 1988, 102 Stat. 3573, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to property acquired by the organization after June 10, 1987, except that such amendment shall not apply to any property acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
 
 Amendment by sections 1010(b)(4), 1016(a)(2)–(4), and 1018(u)(14), (15), (34) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 2003(a)(3) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Oct. 21, 1986\].”
+Pub. L. 100–647, title II, §2003(a)(3), Nov. 10, 1988, 102 Stat. 3598, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Oct. 21, 1986\].”
 
-Section 6202(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to purchases before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6202(b), Nov. 10, 1988, 102 Stat. 3730, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to purchases before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
 Amendment by section 1012(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1012(c) of Pub. L. 99–514, set out as an Effective Date note under section 833 of this title.
 
@@ -1352,9 +1352,9 @@ Amendment by section 1109(a) of Pub. L. 99–514 applicable to taxable years beg
 
 Amendment by section 1114(b)(14) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1114(c)(1) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Section 1603(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 514 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XVI, §1603(c), Oct. 22, 1986, 100 Stat. 2769, provided that: “The amendments made by this section \[amending this section and section 514 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
-Section 1879(k)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after August 13, 1981.”
+Pub. L. 99–514, title XVIII, §1879(k)(2), Oct. 22, 1986, 100 Stat. 2909, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after August 13, 1981.”
 
 Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of Title 29, Labor.
 
@@ -1370,45 +1370,45 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 #### Effective Date of 1982 Amendment
 
-Section 286(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall take effect on October 5, 1976.”
+Pub. L. 97–248, title II, §286(c), Sept. 3, 1982, 96 Stat. 570, provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall take effect on October 5, 1976.”
 
-Section 354(c) of Pub. L. 97–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §354(c), Sept. 3, 1982, 96 Stat. 641, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–119 effective Jan. 1, 1982, see section 103(d)(1) of Pub. L. 97–119, set out as an Effective Date note under section 9501 of this title.
 
-#### Effective Date of 1980 Amendments
+#### Effective Date of 1980 Amendment
 
-Section 106(c)(1) of Pub. L. 96–605, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
+Pub. L. 96–605, title I, §106(c)(1), Dec. 28, 1980, 94 Stat. 3524, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies.”
 
-Section 3(b) of Pub. L. 96–601 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 20, 1976.”
+Pub. L. 96–601, §3(b), Dec. 24, 1980, 94 Stat. 3496, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 20, 1976.”
 
 Amendment by Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
-#### Effective Date of 1978 Amendments
+#### Effective Date of 1978 Amendment
 
 Amendment by section 703(b)(2), (g)(2)(B) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
-Section 703(g)(2)(C) of Pub. L. 95–600 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 20, 1976, as if included in Public Law 94–568.”
+Pub. L. 95–600, title VII, §703(g)(2)(C), Nov. 6, 1978, 92 Stat. 2940, provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 20, 1976, as if included in Public Law 94–568.”
 
-Section 1(b) of Pub. L. 95–345 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 95–345, §1(b), Aug. 15, 1978, 92 Stat. 481, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974.”
 
 Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as a note under section 192 of this title.
 
-#### Effective Date of 1976 Amendments
+#### Effective Date of 1976 Amendment
 
-Section 1(d) of Pub. L. 94–568 provided that: “The amendments made by this section \[amending this section and sections 277 and 512 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
+Pub. L. 94–568, §1(d), Oct. 20, 1976, 90 Stat. 2697, provided that: “The amendments made by this section \[amending this section and sections 277 and 512 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
 
-Section 2(b) of Pub. L. 94–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
+Pub. L. 94–568, §2(b), Oct. 20, 1976, 90 Stat. 2697, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 20, 1976\].”
 
-Section 1307(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 170, 275, 2055, 2106, 2522, 6104, 6161, 6201, 6211, 6212, 6213, 6214, 6344, 6501, 6512, 6601, and 7422 of this title and enacting sections 504 and 4911 of this title\] shall apply—
+Pub. L. 94–455, title XIII, §1307(e), Oct. 4, 1976, 90 Stat. 1728, provided that: “The amendments made by this section \[amending this section and sections 170, 275, 2055, 2106, 2522, 6104, 6161, 6201, 6211, 6212, 6213, 6214, 6344, 6501, 6512, 6601, and 7422 of this title and enacting sections 504 and 4911 of this title\] shall apply—
 
 &emsp;“(1) except as otherwise specified in paragraph (2), in the case of amendments to subtitle A, to taxable years beginning after December 31, 1976;
 
-&emsp;“(2) in the case of the amendments made by subsection (a)(2) \[enacting section 504 of this title\], to activities occurring after the date of the enactment of this Act \[Oct. 4, 1976\];
+&emsp;“(2) in the case of the amendments made by subsection (a)(2) \[enacting section 504 of this title\], toactivities occurring after the date of the enactment of this Act \[Oct. 4, 1976\];
 
 &emsp;“(3) in the case of amendments to chapter 11, to the estates of decedents dying after December 31, 1976;
 
@@ -1418,11 +1418,11 @@ Section 1307(e) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 &emsp;“(6) in the case of amendments to subtitle F, on and after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
-Section 1312(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1976.”
+Pub. L. 94–455, title XIII, §1312(b), Oct. 4, 1976, 90 Stat. 1730, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1976.”
 
-Section 1313(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall apply on the day following the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XIII, §1313(d), Oct. 4, 1976, 90 Stat. 1730, provided that: “The amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\] shall apply on the day following the date of the enactment of this Act \[Oct. 4, 1976\].”
 
-Section 2113(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] applies to taxable years ending after December 31, 1975.”
+Pub. L. 94–455, title XXI, §2113(b), Oct. 4, 1976, 90 Stat. 1907, provided that: “The amendment made by this section \[amending this section\] applies to taxable years ending after December 31, 1975.”
 
 #### Effective Date of 1975 Amendment
 
@@ -1430,15 +1430,15 @@ Amendment by Pub. L. 93–625 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1974 Amendment
 
-Section 3(b) of Pub. L. 93–310 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1973.”
+Pub. L. 93–310, §3(b), June 8, 1974, 88 Stat. 235, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1973.”
 
 #### Effective Date of 1972 Amendment
 
-Section 1(c) of Pub. L. 92–418 provided that: “The amendments made by this section \[amending this section and section 512 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 92–418, §1(c), Aug. 29, 1972, 86 Stat. 656, provided that: “The amendments made by this section \[amending this section and section 512 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1970 Amendment
 
-Section 2 of Pub L. 91–618 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Dec. 31, 1970\].”
+Pub L. 91–618, §2, Dec. 31, 1970, 84 Stat. 1855, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Dec. 31, 1970\].”
 
 #### Effective Date of 1969 Amendment
 
@@ -1448,27 +1448,27 @@ Amendment by section 121(b)(5)(A), (6)(A) of Pub. L. 91–172 applicable to taxa
 
 #### Effective Date of 1968 Amendment
 
-Section 109(b) of Pub. L. 90–364 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[June 28, 1968\].”
+Pub. L. 90–364, title I, §109(b), June 28, 1968, 82 Stat. 270, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[June 28, 1968\].”
 
-#### Effective Date of 1966 Amendments
+#### Effective Date of 1966 Amendment
 
-Section 6(c) of Pub. L. 89–800 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 8, 1966\].”
+Pub. L. 89–800, §6(c), Nov. 8, 1966, 80 Stat. 1516, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 8, 1966\].”
 
-Section 3 of Pub. 89–352 provided in part that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 2, 1966\].”
+Pub. 89–352, §3, Feb. 2, 1966, 80 Stat. 4, provided in part that: “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 2, 1966\].”
 
 #### Effective Date of 1962 Amendment
 
-Section 8(h) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting sections 823 to 826 of this title, amending this section and sections 821, 822, 832, 841, 1016, and 1201 of this title, and redesignating former section 823 as section 822(f) of this title\] (other than by subsection (f) \[amending section 831 of this title\]) shall apply with respect to taxable years beginning after December 31, 1962.”
+Pub. L. 87–834, §8(h), Oct. 16, 1962, 76 Stat. 999, provided that: “The amendments made by this section \[enacting sections 823 to 826 of this title, amending this section and sections 821, 822, 832, 841, 1016, and 1201 of this title, and redesignating former section 823 as section 822(f) of this title\] (other than by subsection (f) \[amending section 831 of this title\]) shall apply with respect to taxable years beginning after December 31, 1962.”
 
-#### Effective Date of 1960 Amendments
+#### Effective Date of 1960 Amendment
 
-Section 6 of Pub. L. 86–667 provided that:
+Pub. L. 86–667, §6, July 14, 1960, 74 Stat. 536, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this Act \[amending this section and sections 503, 511, 513, and 514 of this title\] shall apply to taxable years beginning after December 31, 1959.
 
 “(b) In the case of loans, the amendments made by section 2 of this Act \[amending section 503 of this title\] shall apply only to loans made, renewed, or continued after December 31, 1959.”
 
-Section 2 of Pub. L. 86–428 provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1959.”
+Pub. L. 86–428, §2, Apr. 22, 1960, 74 Stat. 54, provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1959.”
 
 #### Effective Date of 1956 Amendment
 
@@ -1532,15 +1532,15 @@ Effective Date.—This section shall apply to payments made on or after Septembe
 
 #### Special Rule for Certain Cooperatives
 
-Section 1311(b)(2) of Pub. L. 104–168 provided that: “In the case of an organization operating on a cooperative basis which, before the date of the enactment of thisAct \[July 30, 1996\], was determined by the Secretary of the Treasury or his delegate, to be described in section 501(c)(4) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, the allocation or return of net margins or capital to the members of such organization in accordance with its incorporating statute and bylaws shall not be treated for purposes of such Code as the inurement of the net earnings of such organization to the benefit of any private shareholder or individual. The preceding sentence shall apply only if such statute and bylaws are substantially as such statute and bylaws were in existence on the date of the enactment of this Act.”
+Pub. L. 104–168, title XIII, §1311(b)(2), July 30, 1996, 110 Stat. 1478, provided that: “In the case of an organization operating on a cooperative basis which, before the date of the enactment of this Act \[July 30, 1996\], was determined by the Secretary of the Treasury or his delegate, to be described in section 501(c)(4) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, the allocation or return of net margins or capital to the members of such organization in accordance with its incorporating statute and bylaws shall not be treated for purposes of such Code as the inurement of the net earnings of such organization to the benefit of any private shareholder or individual. The preceding sentence shall apply only if such statute and bylaws are substantially as such statute and bylaws were in existence on the date of the enactment of this Act.”
 
 #### Application of Pub. L. 100–647 to Section 501(c)(3) Bonds
 
-Section 1013(i) of Pub. L. 100–647 provided that: “In accordance with section 1302 of the Reform Act \[Pub. L. 99–514, set out as a note below\], each amendment and other provision of this Act \[see Tables for classification\] which applies to private activity bonds shall, unless otherwise expressly provided, apply to qualified 501(c)(3) bonds.”
+Pub. L. 100–647, title I, §1013(i), Nov. 10, 1988, 102 Stat. 3559, provided that: “In accordance with section 1302 of the Reform Act \[Pub. L. 99–514, set out as a note below\], each amendment and other provision of this Act \[see Tables for classification\] which applies to private activity bonds shall, unless otherwise expressly provided, apply to qualified 501(c)(3) bonds.”
 
 #### Cancellation of Certain Debts Originated by or Guaranteed by United States Not Taken Into Account in Determining Tax Exempt Status of Certain Organizations
 
-Section 6203 of Pub. L. 100–647 provided that: “Subparagraph (A) of section 501(c)(12) of the 1986 Code shall be applied without taking into account any income attributable to the cancellation of any loan originally made or guaranteed by the United States (or any agency or instrumentality thereof) if such cancellation occurs after 1986 and before 1990.”
+Pub. L. 100–647, title VI, §6203, Nov. 10, 1988, 102 Stat. 3730, provided that: “Subparagraph (A) of section 501(c)(12) of the 1986 Code shall be applied without taking into account any income attributable to the cancellation of any loan originally made or guaranteed by the United States (or any agency or instrumentality thereof) if such cancellation occurs after 1986 and before 1990.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1548,11 +1548,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Section 501(c)(3) Bonds
 
-Section 1302 of title XIII of Pub. L. 99–514 provided that: “Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation.”
+Pub. L. 99–514, title XIII, §1302, Oct. 22, 1986, 100 Stat. 2658, provided that: “Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation.”
 
 #### Tax-Exempt Status for Organization Introducing Into Public Use Technology Developed by Qualified Organizations
 
-Section 1605 of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVI, §1605, Oct. 22, 1986, 100 Stat. 2769, provided that:
 
 “(a)
 
@@ -1584,7 +1584,7 @@ In General.—For purposes of the Internal Revenue Code of 1986, an organization
 
 “(b)
 
-Qualified Organizations.—For purposes of this section, the term ‘qualified organization’ has the same meaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
+Qualified Organizations.—For purposes of this section, the term ‘qualified organization’ has the samemeaning given to such term by subparagraphs (A) and (B) of section 41(e)(6) (as redesignated by section 231(d)(2)) of the Internal Revenue Code of 1986.
 
 “(c)
 
@@ -1628,7 +1628,7 @@ Technology transfer organization.—The term ‘technology transfer organization
 
 &emsp;&emsp;&emsp;“(ii) no part of the net earnings of which inures to the benefit of, or is distributable to, any private shareholder, individual, or entity, other than a private foundation or research organization,
 
-&emsp;&emsp;&emsp;“(iii) which does not participate in, or intervene in (including the publishing or distributing ofstatements) any political campaign on behalf of any candidate for public office,
+&emsp;&emsp;&emsp;“(iii) which does not participate in, or intervene in (including the publishing or distributing of statements) any political campaign on behalf of any candidate for public office,
 
 &emsp;&emsp;&emsp;“(iv) no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and
 
@@ -1640,11 +1640,11 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Applicability of 1976 Amendment to Certain Organizations
 
-Section 1313(c) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “An organization which (without regard to the amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\]) is an organization described in section 170(c)(2)(B), 501(c)(3), 2055(a)(2), or 2522(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not be treated as an organization not so described as a result of the amendments made by this section.”
+Pub. L. 94–455, title XIII, §1313(c), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “An organization which (without regard to the amendments made by this section \[amending this section and sections 170, 2055, and 2522 of this title\]) is an organization described in section 170(c)(2)(B), 501(c)(3), 2055(a)(2), or 2522(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not be treated as an organization not so described as a result of the amendments made by this section.”
 
 #### Tax Exemption for Certain Puerto Rican Pension, etc., Plans
 
-Section 1022(i) of Pub. L. 93–406, title II, Sept. 2, 1974, 88 Stat. 942, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 93–406, title II, §1022(i), Sept. 2, 1974, 88 Stat. 942, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1677,6 +1677,4 @@ Pub. L. 89–44, title VIII, §811, June 21, 1965, 79 Stat. 169, provided that c
 <i><sup>3</sup></i><i> So in original.</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
 

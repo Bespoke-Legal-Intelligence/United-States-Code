@@ -1,6 +1,6 @@
 ### §6503. Intergovernmental financing
 
-(a) Consistent with program purposes and with regulations of the Secretary, and in accordance with an agreement under subsection (b) entered into by the Secretary and a State—
+(a) Consistent with program purposes and with regulations of the Secretary, and in accordancewith an agreement under subsection (b) entered into by the Secretary and a State—
 
 &emsp;(1) the head of an executive agency (other than the Tennessee Valley Authority) carrying out a program shall schedule transfers of funds to the State under the program so as to minimize the time elapsing between transfer of funds from the United States Treasury and the issuance or redemption of checks, warrants, or payments by other means by a State; and
 
@@ -18,7 +18,7 @@
 
 &emsp;(D) specify those types of costs directly incurred by the State for interest calculations required under this section, and require the Secretary to consider those costs in computing payments under this section.
 
-(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulations shall apply to a State until such time as theSecretary enters into an agreement with the State under paragraph (1).
+(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulations shall apply to a State until such time as the Secretary enters into an agreement with the State under paragraph (1).
 
 (c)(1) The Secretary shall issue regulations that shall require a State, when not inconsistent with program purposes, to pay interest to the United States on funds from the time funds are deposited by the United States to the State's account until the time that funds are paid out by the State in order to redeem checks or warrants or make payments by other means for program purposes. Except as provided under paragraph (3)(B) (relating to the Unemployment Trust Fund), the interest payable under this subsection shall be calculated at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 
@@ -76,7 +76,7 @@ In subsection (b), the words “apart from other funds administered by the state
 
 #### Effective Date of 1990 Amendment
 
-Section 5(e) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(2)(C), Nov. 10, 1992, 106 Stat. 5133, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall take effect on the date of enactment of this Act \[Oct. 24, 1990\], except that subsections (c) and (d) of section 6503 of title 31, United States Code, as added by subsection (b) of this section (relating to payments of interest between the Federal Government and State governments), shall take effect on July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.”
+Pub. L. 101–453, §5(e), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, §2(2)(C), Nov. 10, 1992, 106 Stat. 5133, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall take effect on the date of enactment of this Act \[Oct. 24, 1990\], except that subsections (c) and (d) of section 6503 of title 31, United States Code, as added by subsection (b) of this section (relating to payments of interest between the Federal Government and State governments), shall take effect on July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.”
 
 #### Treatment of Compensation or Reimbursement Paid Pursuant to Other Laws
 
@@ -84,7 +84,7 @@ Pub. L. 107–273, div. A, title II, §204(f), Nov. 2, 2002, 116 Stat. 1776, as 
 
 #### Agreements With States
 
-Section 5(d) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(2)(A), (B), Nov. 10, 1992, 106 Stat. 5133, provided that:
+Pub. L. 101–453, §5(d), Oct. 24, 1990, 104 Stat. 1061, as amended by Pub. L. 102–589, §2(2)(A), (B), Nov. 10, 1992, 106 Stat. 5133, provided that:
 
 “(1)
 
@@ -96,5 +96,5 @@ Effective date of regulations.—Regulations issued by the Secretary of the Trea
 
 #### GAO Report
 
-Section 6 of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
+Pub. L. 101–453, §6, Oct. 24, 1990, 104 Stat. 1062, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
 

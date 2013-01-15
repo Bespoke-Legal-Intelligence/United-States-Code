@@ -16,7 +16,7 @@ The Special Assistant shall—
 
 &emsp;(2) be available to receive suggestions and complaints concerning the implementation of United States food aid and agricultural export programs anywhere in the United States Government and provide prompt responses thereto, including expediting the program implementation in any instances in which there is unreasonable delay;
 
-&emsp;(3) make recommendations to the President on means to coordinate and streamline the manner in which food assistance programs are carried out by the Department of Agriculture and the Agency for International Development, in order to improve their overall effectiveness;
+&emsp;(3) make recommendations to the President on means to coordinate and streamline the manner in which food assistance programs are carried out by the Department of Agricultureand the Agency for International Development, in order to improve their overall effectiveness;
 
 &emsp;(4) make recommendations to the President on measures to be taken to increase use of United States agricultural commodities and the products thereof through food assistance programs;
 

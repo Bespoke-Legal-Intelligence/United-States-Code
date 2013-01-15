@@ -62,7 +62,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,<sup>1</sup> may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24,title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
 #### Amendments
 
@@ -110,7 +110,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection withthose regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
+For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–583, and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–583, set out as a note under section 1637 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -30,7 +30,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;&emsp;&emsp;(I) the average annual sales or production for the article or service during the 24-month period preceding that 12-month period, or
 
-&emsp;&emsp;&emsp;(II) the average annual sales or production for the article or service during the36-month period preceding that 12-month period, and
+&emsp;&emsp;&emsp;(II) the average annual sales or production for the article or service during the 36-month period preceding that 12-month period, and
 
 &emsp;(C) increases of imports of articles or services like or directly competitive with articles which are produced or services which are supplied by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 

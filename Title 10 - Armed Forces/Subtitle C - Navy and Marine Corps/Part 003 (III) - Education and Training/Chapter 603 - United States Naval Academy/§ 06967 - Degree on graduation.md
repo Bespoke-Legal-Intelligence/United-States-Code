@@ -22,5 +22,5 @@ The word “regulations” is substituted for the words “such rules and regula
 
 #### Degrees for Persons Who Graduated Before Accrediting of Naval Academy
 
-Section 35 of act Aug. 10, 1956, provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who meet the requirements of the Academy for that degree.
+Act Aug. 10, 1956, ch. 1041, §35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who meet the requirements of the Academy for that degree.
 

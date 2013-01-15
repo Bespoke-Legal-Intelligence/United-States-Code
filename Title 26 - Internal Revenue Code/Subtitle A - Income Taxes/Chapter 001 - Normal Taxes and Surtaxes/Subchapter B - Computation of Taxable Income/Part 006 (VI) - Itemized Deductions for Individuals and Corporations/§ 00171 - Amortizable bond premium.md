@@ -34,7 +34,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Amount amortizable
 
-&emsp;The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year in which the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
+&emsp;The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year inwhich the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
 
 #### (3) Method of determination
 
@@ -48,7 +48,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (B) Special rule where earlier call date is used
 
-&emsp;&emsp;For purposes of subparagraph (A), if the amount payable on an earlier call date isused under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
+&emsp;&emsp;For purposes of subparagraph (A), if the amount payable on an earlier call date is used under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
 
 #### (4) Treatment of certain bonds acquired in exchange for other property
 
@@ -98,7 +98,7 @@ Except as provided in regulations, in the case of any taxable bond—
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out “, or foreign personal holding company”, was executed by striking out “or foreign personal holding company” after “the common trust fund”, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out“, or foreign personal holding company”, was executed by striking out “or foreign personal holding company” after “the common trust fund”, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, §413(c)(2)(A), struck out “, or by a foreign personal holding company, as defined in section 552” after “section 584(a)”.
 
@@ -148,11 +148,11 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(j)(1)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986.”
+Pub. L. 100–647, title I, §1006(j)(1)(C), Nov. 10, 1988, 102 Stat. 3411, provided that: “The amendments made by this paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986.”
 
 #### Effective Date of 1986 Amendment
 
-Section 643(b) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1006(j)(2), Nov. 10, 1988, 102 Stat. 3411, provided that:
+Pub. L. 99–514, title VI, §643(b), Oct. 22, 1986, 100 Stat. 2285, as amended by Pub. L. 100–647, title I, §1006(j)(2), Nov. 10, 1988, 102 Stat. 3411, provided that:
 
 “(1)
 
@@ -162,13 +162,13 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 
-Section 1803(a)(11)(C) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XVIII, §1803(a)(11)(C), Oct. 22, 1986, 100 Stat. 2795, provided that:
 
 “(i) The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after September 27, 1985.
 
 “(ii) In the case of a taxpayer with respect to whom an election is in effect on the date of the enactment of this Act \[Oct. 22, 1986\] under section 171(c) of the Internal Revenue Code of 1954 \[now 1986\], such election shall apply to obligations issued after September 27, 1985, only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 
-Section 1803(a)(12)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges after May 6, 1986.”
+Pub. L. 99–514, title XVIII, §1803(a)(12)(B), Oct. 22, 1986, 100 Stat. 2796, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges after May 6, 1986.”
 
 #### Effective Date of 1976 Amendment
 
@@ -178,11 +178,11 @@ Amendment by section 1951(b)(5)(A)(i) of Pub. L. 94–455 effective for taxable 
 
 #### Effective Date of 1958 Amendment
 
-Section 13(b) of Pub. L. 85–866 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957.”
+Pub. L. 85–866, title I, §13(b), Sept. 2, 1958, 72 Stat. 1611, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1957.”
 
 #### Savings Provision
 
-Section 1951(b)(5)(B) of Pub. L. 94–455 provided that: “Notwithstanding the amendments made by subparagraph (A) \[amending this section\], in the case of a bond the interest on which is not excludable from gross income—
+Pub. L. 94–455, title XIX, §1951(b)(5)(B), Oct. 4, 1976, 90 Stat. 1838, provided that: “Notwithstanding the amendments made by subparagraph (A) \[amending this section\], in the case of a bond the interest on which is not excludable from gross income—
 
 &emsp;“(i) which was issued after January 22, 1951, with a call date not more than 3 years after the date of such issue, and
 
@@ -192,7 +192,7 @@ Section 1951(b)(5)(B) of Pub. L. 94–455 provided that: “Notwithstanding the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

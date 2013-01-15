@@ -46,7 +46,7 @@ Pub. L. 94–432 substituted “$74” for “$69”.
 
 #### Effective Date of 1977 Amendment
 
-Section 302 of Pub. L. 95–204 provided that: “The provisions of this Act \[see Tables for classification\] shall take effect January 1, 1978.”
+Pub. L. 95–204, title III, §302, Dec. 2, 1977, 91 Stat. 1459, provided that: “The provisions of this Act \[see Tables for classification\] shall take effect January 1, 1978.”
 
 #### Effective Date of 1976 Amendments
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Section 202 of Pub. L. 94–169, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title II, §202, Dec. 23, 1975, 89 Stat. 1021, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

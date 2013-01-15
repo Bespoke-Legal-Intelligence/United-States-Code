@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forthin paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -90,7 +90,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;(D) No income from sources without the United States shall be treated as effectively connected with the conduct of a trade or business within the United States if it either—
 
-&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in which the taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
+&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in whichthe taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
 
 &emsp;&emsp;(ii) is subpart F income within the meaning of section 952(a).
 
@@ -240,7 +240,7 @@ For purposes of this subchapter—
 
 #### (iii) Stock owned through entities
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately byits shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 #### (D) Coordination with subpart F, etc.
 
@@ -440,7 +440,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;(ii) that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales orgross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 #### (2) Qualified research and experimental expenditures
 
@@ -672,7 +672,7 @@ Pub. L. 108–357, title IV, §401(c), Oct. 22, 2004, 118 Stat. 1491, provided t
 
 Pub. L. 108–357, title IV, §403(c), Oct. 22, 2004, 118 Stat. 1494, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2002.”
 
-Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(<i>l</i>), Dec. 21, 2005, 119 Stat. 2625, provided that: “If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
+Pub. L. 108–357, title IV, §403(d), as added by Pub. L. 109–135, title IV, §403(l), Dec. 21, 2005, 119 Stat. 2625, provided that: “If the taxpayer elects (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to have the rules of this subsection apply—
 
 &emsp;“(1) the amendments made by this section \[amending this section and section 904 of this title\] shall not apply to taxable years beginning after December 31, 2002, and before January 1, 2005, and
 
@@ -694,15 +694,15 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Section 1162(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title XI, §1162(b), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
 #### Effective Date of 1991 Amendment
 
-Section 101(b) of Pub. L. 102–227 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
+Pub. L. 102–227, title I, §101(b), Dec. 11, 1991, 105 Stat. 1686, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11401(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
+Pub. L. 101–508, title XI, §11401(b), Nov. 5, 1990, 104 Stat. 1388–472, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after August 1, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -718,7 +718,7 @@ Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
-Section 1215(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(h)(7), Nov. 10, 1988, 102 Stat. 3504; Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103, provided that:
+Pub. L. 99–514, title XII, §1215(c), Oct. 22, 1986, 100 Stat. 2545, as amended by Pub. L. 100–647, title I, §1012(h)(7), Nov. 10, 1988, 102 Stat. 3504; Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103, provided that:
 
 “(1)
 
@@ -944,7 +944,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified
 
 “(4)
 
-Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
+Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
 &emsp;“(A) $100,000,000 face amount of 11¾ percent notes due in 1990,
 
@@ -980,7 +980,7 @@ Phase-in percentage.—For purposes of subparagraph (A):
 | 1988 | 50 |
 | 1989 | 25\.” |
 
-\[Section 521(b) of Pub. L. 104–191 provided that:
+\[Pub. L. 104–191, title V, §521(b), Aug. 21, 1996, 110 Stat. 2103, provided that:
 
 \[“(1)
 
@@ -992,9 +992,9 @@ Special rule.—In the case of the first taxable year beginning after December 3
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 
-Section 1223(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided that: “The amendments made by this section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
-Section 1242(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1275(c)(7) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -1002,7 +1002,7 @@ Amendment by section 1810(c)(2), (3) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Section 123(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §123(c), July 18, 1984, 98 Stat. 646, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1032,7 +1032,7 @@ For applicability of amendment by section 1201(d)(4) of Pub. L. 99–514 notwith
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

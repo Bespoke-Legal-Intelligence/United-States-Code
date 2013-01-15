@@ -13,13 +13,15 @@
 | \[2246 to 2248. Renumbered or Repealed.\] |  |
 | [2249\.](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md) | Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs. |
 | [2249a.](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md) | Prohibition on providing financial assistance to terrorist countries. |
-| [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md) | Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display. |
+| [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md) | Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces. |
 | [2249c.](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md) | Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials. |
 | [2249d.](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted “Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.” for “Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display.” in item 2249b.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(30), Jan. 7, 2011, 124 Stat. 4370, transferred item 2241a “Prohibition on use of funds for publicity or propaganda purposes within the United States” to appear after item 2241.
 
@@ -71,6 +73,6 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02248 - Repealed. Pub. L. 108&#8211;136, div. A, title X, &sect;1045(a)(5)(A), Nov. 24, 2003, 117 Stat. 1612](%C2%A7%2002248%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%285%29%28A%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201612.md)
 - [&sect; 02249 - Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md)
 - [&sect; 02249a - Prohibition on providing financial assistance to terrorist countries](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md)
-- [&sect; 02249b - Display of State flags prohibition on use of funds to arbitrarily exclude flag; position and manner of display](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md)
+- [&sect; 02249b - Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces](%C2%A7%2002249b%20-%20Display%20of%20State%2C%20District%20of%20Columbia%2C%20commonwealth%2C%20and%20territorial%20flags%20by%20the%20armed%20forces.md)
 - [&sect; 02249c - Regional Defense Combating Terrorism Fellowship Program authority to use appropriated funds for costs associated with education and&#8230;](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md)
 - [&sect; 02249d - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)

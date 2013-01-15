@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 103–322, §20416(a)(2), inserted “or are otherwise fair
 
 #### Effective Date of 1994 Amendment
 
-Section 20416(b) of Pub. L. 103–322 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title II, §20416(b), Sept. 13, 1994, 108 Stat. 1834, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Nondisclosure of Information in Actions Brought by Prisoners
 

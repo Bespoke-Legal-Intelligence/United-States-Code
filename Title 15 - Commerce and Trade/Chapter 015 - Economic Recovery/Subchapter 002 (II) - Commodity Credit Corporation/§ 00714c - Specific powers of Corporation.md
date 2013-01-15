@@ -42,11 +42,11 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective Date of 1996 Amendment
 
-Section 381(b) of Pub. L. 104–127 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on January 1, 1997.”
+Pub. L. 104–127, title III, §381(b), Apr. 4, 1996, 110 Stat. 1016, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on January 1, 1997.”
 
 #### Effective Date of 1984 Amendment
 
-Section 405(d) of Pub. L. 98–623 provided that: “For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) \[Pub. L. 97–253\], the amendments made by this section \[amending this section and sections 1707a and 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\].”
+Pub. L. 98–623, title IV, §405(d), Nov. 8, 1984, 98 Stat. 3409, provided that: “For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) \[Pub. L. 97–253\], the amendments made by this section \[amending this section and sections 1707a and 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\].”
 
 #### Continuation of Liability for 2004 and Earlier Crop Years
 

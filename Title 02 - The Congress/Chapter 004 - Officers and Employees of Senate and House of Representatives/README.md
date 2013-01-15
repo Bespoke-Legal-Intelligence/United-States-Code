@@ -277,7 +277,7 @@
 | [117j.](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md) | Fees for internal delivery in House of Representatives of nonpostage mail from outside sources. |
 | 117j–1. | Regulations for safe handling of mail matter. |
 | [117k.](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md) | Rebates under Government Travel Charge Card Program. |
-| 117<i>l</i>. | Deposit of House Information Resources reimbursements for services. |
+| [117l.](%C2%A7%2000117l%20-%20Deposit%20of%20House%20Information%20Resources%20reimbursements%20for%20services.md) | Deposit of House Information Resources reimbursements for services. |
 | [117m.](%C2%A7%2000117m%20-%20House%20Services%20Revolving%20Fund.md) | House Services Revolving Fund. |
 | [118\.](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md) | Actions against officers for official acts. |
 | [118a.](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md) | Officers of Senate. |
@@ -323,7 +323,7 @@
 | [130i.](%C2%A7%2000130i%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9374%2C%20div.%20G%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Dec.%2023%2C%202011%2C%20125%20Stat.%201123.md) | Repealed. |
 | [130j.](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md) | Program to increase employment opportunities in House of Representatives for individuals with disabilities. |
 | [130k.](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
-| 130<i>l</i>. | Media support services. |
+| [130l.](%C2%A7%2000130l%20-%20Media%20support%20services.md) | Media support services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

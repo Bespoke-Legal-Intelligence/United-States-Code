@@ -58,7 +58,7 @@
 | 22,500 | 5,024 | 2,383 | 762 |
 | 25,000 | 5,468 | 2,537 | 787\. |
 
-(2) Except as provided in subsection (c), of the total number of commissioned officers servingon active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
+(2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
 
 &nbsp;
 
@@ -172,7 +172,7 @@ Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 403(d) of Pub. L. 104–201 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and repealing provisions set out as notes below\] shall take effect on September 1, 1997.”
+Pub. L. 104–201, div. A, title IV, §403(d), Sept. 23, 1996, 110 Stat. 2506, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and repealing provisions set out as notes below\] shall take effect on September 1, 1997.”
 
 #### Effective Date of 1994 Amendment
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1985 Amendment
 
-Section 511(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title V, §511(b), Nov. 8, 1985, 99 Stat. 623, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
@@ -188,7 +188,7 @@ Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provid
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
-Section 402 of Pub. L. 103–337 provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 103–337, div. A, title IV, §402, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Marine Corps Majors and Lieutenant Colonels
 
@@ -210,5 +210,5 @@ Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended b
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty,see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty, see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
 

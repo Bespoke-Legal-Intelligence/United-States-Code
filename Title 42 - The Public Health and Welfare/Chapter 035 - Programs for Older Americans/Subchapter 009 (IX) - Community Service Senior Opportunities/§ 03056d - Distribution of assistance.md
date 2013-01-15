@@ -34,7 +34,7 @@ The funds appropriated to carry out this subchapter for any fiscal year that rem
 
 #### (B) Insufficient appropriations
 
-&emsp;&emsp;If in any fiscal year the funds appropriated to carry out this subchapter are insufficient to satisfy the requirement specified in subparagraph (A), then the amount described in subparagraph (A) shall be reduced proportionally.
+&emsp;&emsp;If in any fiscal year the funds appropriated to carry out this subchapter are insufficient to satisfy the requirement specified in subparagraph (A), then the amount described insubparagraph (A) shall be reduced proportionally.
 
 #### (2) Funding in excess of fiscal year 2000 level of activities
 

@@ -16,7 +16,7 @@ In carrying out AIDS research, the Director of the Office—
 
 &emsp;&emsp;(C) the training of American scientists abroad and foreign scientists in the United States;
 
-&emsp;(4) may encourage and coordinate AIDS research conducted by any industrial concern that evidences a particular capability for the conduct of such research;
+&emsp;(4) may encourage and coordinate AIDS research conducted by any industrial concernthat evidences a particular capability for the conduct of such research;
 
 &emsp;(5)(A) may acquire, improve, repair, operate, and maintain laboratories, other research facilities, equipment, and such other real or personal property as the Director of the Office determines necessary;
 

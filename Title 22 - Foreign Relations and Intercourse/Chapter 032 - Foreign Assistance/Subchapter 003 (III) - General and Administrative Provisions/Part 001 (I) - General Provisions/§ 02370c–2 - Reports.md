@@ -38,5 +38,17 @@ Section was enacted as part of the Child Soldiers Prevention Act of 2008, and al
 
 Section effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as a note under section 2370c of this title.
 
+#### Delegation of Authority
+
+Memorandum of President of the United States, June 14, 2012, 77 F.R. 37551, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President by section 405(c) of the Child Soldiers Prevention Act of 2008, title IV of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457).
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> So in original. Probably should be “waiver”.</i>
 

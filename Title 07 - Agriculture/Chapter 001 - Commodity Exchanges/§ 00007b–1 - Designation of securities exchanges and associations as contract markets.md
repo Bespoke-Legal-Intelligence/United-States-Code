@@ -1,6 +1,6 @@
 ### §7b–1. Designation of securities exchanges and associations as contract markets
 
-(a) Any board of trade that is registered with the Securities and Exchange Commission as a national securities exchange, is a national securities association registered pursuant to section 78<i>o</i>–3(a) of title 15, or is an alternative trading system shall be a designated contract market in security futures products if—
+(a) Any board of trade that is registered with the Securities and Exchange Commission as a national securities exchange, is a national securities association registered pursuant to section 78o–3(a) of title 15, or is an alternative trading system shall be a designated contract market in security futures products if—
 
 &emsp;(1) such national securities exchange, national securities association, or alternative trading system lists or trades no other contracts of sale for future delivery, except for security futures products;
 

@@ -20,7 +20,7 @@ Eligibility Requirements.—A member of the program may enter into a contract an
 
 (c)
 
-Parental Consent for Minors.—A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member's parent or guardian.
+Parental Consent for Minors.—A member of the program who is a minor may enterinto a contract under subsection (a)(1) only with the consent of the member's parent or guardian.
 
 (Added Pub. L. 108–136, div. A, title V, §523(b)(1), Nov. 24, 2003, 117 Stat. 1464; amended Pub. L. 108–375, div. A, title V, §525, Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–364, div. A, title X, §1071(a)(10), Oct. 17, 2006, 120 Stat. 2398.)
 

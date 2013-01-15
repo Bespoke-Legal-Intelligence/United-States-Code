@@ -34,7 +34,7 @@ Such contributions may be in the form of—
 
 &emsp;(6) up to—
 
-&emsp;&emsp;(A) 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
+&emsp;&emsp;(A) 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, andrepayable with revenues derived from a multifamily affordable housing project financed, and
 
 &emsp;&emsp;(B) 25 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a single-family project financed,
 
@@ -86,7 +86,7 @@ Such contributions may be in the form of—
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(5), isPub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 #### Effective Date of 1992 Amendment
 
-Section 210(d) of Pub. L. 102–550 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 1993 and each fiscal year thereafter.”
+Pub. L. 102–550, title II, §210(d), Oct. 28, 1992, 106 Stat. 3756, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 1993 and each fiscal year thereafter.”
 
 Amendment by section 207(c) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 

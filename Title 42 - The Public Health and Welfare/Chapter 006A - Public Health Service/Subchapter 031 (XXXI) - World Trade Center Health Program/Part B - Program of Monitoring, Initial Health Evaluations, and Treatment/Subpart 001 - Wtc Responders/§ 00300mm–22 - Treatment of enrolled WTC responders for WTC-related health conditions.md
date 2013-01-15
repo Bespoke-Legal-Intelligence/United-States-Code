@@ -6,7 +6,7 @@
 
 &emsp;For purposes of this subchapter, the term “WTC-related health condition” means a condition that—
 
-&emsp;&emsp;(A)(i) is an illness or health condition for which exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, based on an examination by a medical professional with experience in treating or diagnosing the health conditions included in the applicable list of WTC-related health conditions, is substantially likely to be a significant factor in aggravating, contributing to, or causing the illness or health condition, as determined under paragraph (2); or
+&emsp;&emsp;(A)(i) is an illness or health condition for which exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terroristattacks, based on an examination by a medical professional with experience in treating or diagnosing the health conditions included in the applicable list of WTC-related health conditions, is substantially likely to be a significant factor in aggravating, contributing to, or causing the illness or health condition, as determined under paragraph (2); or
 
 &emsp;&emsp;(ii) is a mental health condition for which such attacks, based on an examination by a medical professional with experience in treating or diagnosing the health conditions included in the applicable list of WTC-related health conditions, is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition, as determined under paragraph (2); and
 
@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The WTC Program Administrator shall periodically conduct a review of all available scientific and medical evidence, including findings and recommendations of Clinical Centers of Excellence, published in peer-reviewed journals to determine if, based on such evidence, cancer or a certain type of cancer should be added to the applicable list of WTC-related health conditions. The WTC Program Administrator shall conduct the first review under this subparagraph not later than 180 days after January 2, 2011.
+&emsp;&emsp;The WTC Program Administrator shall periodically conduct a review of all availablescientific and medical evidence, including findings and recommendations of Clinical Centers of Excellence, published in peer-reviewed journals to determine if, based on such evidence, cancer or a certain type of cancer should be added to the applicable list of WTC-related health conditions. The WTC Program Administrator shall conduct the first review under this subparagraph not later than 180 days after January 2, 2011.
 
 #### (B) Proposed regulations and rulemaking
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
 
-&emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
+&emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC ProgramAdministrator and provide the Administrator with the medical facts supporting such determination; and
 
 &emsp;&emsp;&emsp;(ii) on and after the date of such transmittal and subject to subparagraph (B), the WTC Program shall provide for payment under subsection (c) for medically necessary treatment for such condition.
 
@@ -286,7 +286,7 @@
 
 #### (iv) Pharmaceuticals
 
-&emsp;&emsp;&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education,Labor, and Pensions of the Senate a report on whether existing Federal pharmaceutical purchasing programs can provide pharmaceutical benefits more efficiently and effectively than through the WTC program.
+&emsp;&emsp;&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on whether existing Federal pharmaceutical purchasing programs can provide pharmaceutical benefits more efficiently and effectively than through the WTC program.
 
 #### (C) Improving quality and efficiency through modification of payment amounts and methodologies
 
@@ -300,7 +300,7 @@
 
 #### (A) Review of medical necessity and protocols
 
-&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for the review of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medically necessary and in accordance with medical treatment protocols established under subsection (d).
+&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for thereview of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medically necessary and in accordance with medical treatment protocols established under subsection (d).
 
 #### (B) Withholding of payment for medically unnecessary treatment
 

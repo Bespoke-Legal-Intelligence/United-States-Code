@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (c) Application and contract forms
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (<i>l</i>) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -114,7 +114,7 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;(3) a provision that any financial obligation of the United States arising out of a contract entered into under this section and any obligation of the individual which is conditioned thereon is contingent upon funds being appropriated for loan repayments under this section;
 
-&emsp;(4) a statement of the damages to which the United States is entitled under subsection (<i>l</i>) of this section for the individual's breach of the contract; and
+&emsp;(4) a statement of the damages to which the United States is entitled under subsection (l) of this section for the individual's breach of the contract; and
 
 &emsp;(5) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with this section.
 
@@ -128,7 +128,7 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;(C) reasonable living expenses as determined by the Secretary.
 
-(2)(A) For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254<i>l</i>–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
+(2)(A) For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254l–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
 &emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
@@ -166,7 +166,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
-#### (<i>l</i>) Voluntary termination of study or dismissal from educational institution; collection of damages
+#### (l) Voluntary termination of study or dismissal from educational institution; collection of damages
 
 (1) An individual who has entered into a written contract with the Secretary under this section and who—
 
@@ -286,11 +286,11 @@ Subsec. (k). Pub. L. 102–573, §106(h), amended subsec. (k) generally. Prior t
 
 Subsec. (n). Pub. L. 102–573, §106(i), amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
 
-Subsec. (<i>o</i>). Pub. L. 102–573, §117(b)(3), struck out subsec. (<i>o</i>) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
+Subsec. (o). Pub. L. 102–573, §117(b)(3), struck out subsec. (o) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
 
 #### Effective Date of 1992 Amendment
 
-Section 106(g)(2) of Pub. L. 102–573 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act \[this section\] entered into on or after the date of enactment of this Act \[Oct. 29, 1992\].”
+Pub. L. 102–573, title I, §106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act \[this section\] entered into on or after the date of enactment of this Act \[Oct. 29, 1992\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

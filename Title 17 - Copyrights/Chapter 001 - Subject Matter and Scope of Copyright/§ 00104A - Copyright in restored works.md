@@ -40,7 +40,7 @@ Enforcement of copyright in restored works as against reliance parties.—As aga
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date of publication of the notice in the Federal Register;
 
-&emsp;&emsp;(II) the act of infringement commenced before the end of the 12-month period described in subclause (I) and continued after the end of that 12-month period, in which case remedies shall be available only for infringement occurring after the end of that 12-month period; or
+&emsp;&emsp;(II) the act of infringement commenced before the end of the 12-month period describedin subclause (I) and continued after the end of that 12-month period, in which case remedies shall be available only for infringement occurring after the end of that 12-month period; or
 
 &emsp;&emsp;(III) copies or phonorecords of a work in which copyright has been restored under this section are made after publication of the notice of intent in the Federal Register.
 
@@ -96,7 +96,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
-&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent,shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
+&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
 &emsp;(3)
 
@@ -182,7 +182,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;&emsp;(iii) lack of national eligibility;
 
-&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published inan eligible country and not published in the United States during the 30-day period following publication in such eligible country; and
+&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published in an eligible country and not published in the United States during the 30-day period following publication in such eligible country; and
 
 &emsp;&emsp;(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
 
@@ -266,11 +266,11 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 #### Effective Date of 1998 Amendment
 
-Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
+Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this sectionand amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date
 
-Section effective on the date the North American Free Trade Agreement enters into force with respect tothe United States \[Jan. 1, 1994\], see section 335(a) of Pub. L. 103–182, set out in an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.
+Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 335(a) of Pub. L. 103–182, set out in an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.
 
 #### Uruguay Round Agreements: Entry Into Force
 

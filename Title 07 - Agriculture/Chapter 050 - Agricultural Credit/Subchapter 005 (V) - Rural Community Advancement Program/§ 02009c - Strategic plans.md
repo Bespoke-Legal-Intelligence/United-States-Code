@@ -24,7 +24,7 @@ The Secretary shall direct each of the Directors of Rural Economic and Community
 
 #### (c) Review
 
-The Secretary shall review the strategic plan of each State and federally recognized Indiantribe not later than 60 days after receiving the plan, and at least once every 5 years thereafter.
+The Secretary shall review the strategic plan of each State and federally recognized Indian tribe not later than 60 days after receiving the plan, and at least once every 5 years thereafter.
 
 #### (d) Contents
 

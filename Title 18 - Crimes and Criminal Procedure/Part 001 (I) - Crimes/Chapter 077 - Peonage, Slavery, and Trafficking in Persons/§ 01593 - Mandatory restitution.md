@@ -10,7 +10,7 @@
 
 (4) The forfeiture of property under this subsection shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act (21 U.S.C. 853).
 
-(c) As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of thevictim's estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
+(c) As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim's estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
 
 (Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, §221(1), Dec. 23, 2008, 122 Stat. 5067.)
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) “eligible grant recipient” means a public or nonprofit private organization or agency which demonstrates, to the satisfaction of the Secretary—
 
-&emsp;&emsp;(A) in the case of an organization which will provide care services, the capability of providing all core services in a single setting or the capability of creating a network through which all core services would be provided; or
+&emsp;&emsp;(A) in the case of an organization which will provide care services, the capability ofproviding all core services in a single setting or the capability of creating a network through which all core services would be provided; or
 
 &emsp;&emsp;(B) in the case of an organization which will provide prevention services, the capability of providing such services;
 

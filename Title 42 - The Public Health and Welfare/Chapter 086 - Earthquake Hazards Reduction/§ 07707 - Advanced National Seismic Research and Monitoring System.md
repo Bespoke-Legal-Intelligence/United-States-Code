@@ -6,7 +6,7 @@ The Director of the United States Geological Survey shall establish and operate 
 
 #### (b) Management plan
 
-Not later than 90 days after November 13, 2000, the Director of the United States Geological Survey shall transmit to the Congress a 5-year management plan for establishing and operating the Advanced National Seismic Research and Monitoring System. The plan shall include annual cost estimates for both modernization and operation, milestones, standards, and performance goals, as well as plans for securing the participation of all existing networks in the Advanced National Seismic Research and Monitoring System and for establishing new, or enhancing existing, partnerships to leverage resources.
+Not later than 90 days after November 13, 2000, the Director of the United States Geological Survey shall transmit to the Congress a 5-year management plan for establishing and operating the Advanced National Seismic Research and Monitoring System. The plan shall include annual cost estimates for both modernization andoperation, milestones, standards, and performance goals, as well as plans for securing the participation of all existing networks in the Advanced National Seismic Research and Monitoring System and for establishing new, or enhancing existing, partnerships to leverage resources.
 
 (Pub. L. 95–124, §13, as added Pub. L. 106–503, title II, §204, Nov. 13, 2000, 114 Stat. 2305; amended Pub. L. 108–360, title I, §104(b), Oct. 25, 2004, 118 Stat. 1675.)
 

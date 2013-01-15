@@ -10,7 +10,7 @@
 
 (e) In carrying out the provisions of sections 171 to 173 of this title the Secretary shall have all of the authority conferred upon him by section 502 of title 16.
 
-(f) The Secretary may lease at reasonable rentals structures erected by the Government with essential facilities for such periods as such structures and facilities are not required for the purposes of sections 171 to 173 of this title; and any part of land or structures with essential facilities acquired by lease, deed, or other agreement pursuant to said sections, which are notrequired or suitable for the purposes of said sections during the period the United States is entitled to possession thereof may be leased or subleased at a reasonable rental; and any surplus water controlled by the United States on land owned or leased by the United States for the purposes of said sections may be disposed of at reasonable rates.
+(f) The Secretary may lease at reasonable rentals structures erected by the Government with essential facilities for such periods as such structures and facilities are not required for the purposes of sections 171 to 173 of this title; and any part of land or structures with essential facilities acquired by lease, deed, or other agreement pursuant to said sections, which are not required or suitable for the purposes of said sections during the period the United States is entitled to possession thereof may be leased or subleased at a reasonable rental; and any surplus water controlled by the United States on land owned or leased by the United States for the purposes of said sections may be disposed of at reasonable rates.
 
 (Mar. 5, 1942, ch. 140, §2, 56 Stat. 127; Oct. 20, 1942, ch. 617, §§5–7, 56 Stat. 797.)
 

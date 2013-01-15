@@ -4,7 +4,7 @@ Section, Pub. L. 101–625, title IX, §957, Nov. 28, 1990, 104 Stat. 4422, rela
 
 #### Effective Date of Repeal
 
-Section 404(a) of Pub. L. 104–99 provided in part that this section is repealed retroactive to Nov. 28, 1990, and shall be of no effect.
+Pub. L. 104–99, title IV, §404(a), Jan. 26, 1996, 110 Stat. 44, provided in part that this section is repealed retroactive to Nov. 28, 1990, and shall be of no effect.
 
 #### Economic Independence
 

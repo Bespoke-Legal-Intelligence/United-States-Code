@@ -12,7 +12,7 @@ The Administrator shall promulgate regulations specifying under what conditions 
 
 &emsp;(2) to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation.
 
-> Such regulations shall also provide for the Administrator to mediate or arbitrate any disputes among licensees regarding the extent to which the thermal plume of one licensee's facility or plantship impinges on the operation of another licensee's facility or plantship.
+> Such regulations shall also provide for the Administrator to mediate or arbitrate any disputesamong licensees regarding the extent to which the thermal plume of one licensee's facility or plantship impinges on the operation of another licensee's facility or plantship.
 
 #### (c) Coast Guard operations
 

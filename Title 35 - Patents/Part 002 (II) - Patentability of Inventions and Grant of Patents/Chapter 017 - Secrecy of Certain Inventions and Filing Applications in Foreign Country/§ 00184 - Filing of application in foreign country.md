@@ -1,30 +1,18 @@
 ### §184. Filing of application in foreign country
 
-Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 of this title without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and without deceptive intent and the application does not disclose an invention within the scope of section 181 of this title.
+(a)
 
-The term “application” when used in this chapter includes applications and any modifications, amendments, or supplements thereto, or divisions thereof.
+Filing in Foreign Country.—Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and the application does not disclose an invention within the scope of section 181.
 
-The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 of this title and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
+(b)
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(1), Aug. 23, 1988, 102 Stat. 1567; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, §20(b), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
+Application.—The term “application” when used in this chapter includes applications and any modifications, amendments, or supplements thereto, or divisions thereof.
 
-#### Amendment of Section
+(c)
 
-<i>Pub. L. 112–29, §20(b), (j), (l), Sept. 16, 2011, 125 Stat. 333, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended:</i>
+Subsequent Modifications, Amendments, and Supplements.—The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
 
-<i>(1) in the first undesignated paragraph—</i>
-
-<i>(A) by striking “Except when” and inserting “(a) FILING IN FOREIGN COUNTRY.—Except when”; and</i>
-
-<i>(B) by striking “and without deceptive intent”;</i>
-
-<i>(2) in the second undesignated paragraph, by striking “The term” and inserting “(b) APPLICATION.—The term”;</i>
-
-<i>(3) in the third undesignated paragraph, by striking “The scope” and inserting “(c) SUBSEQUENT MODIFICATIONS, AMENDMENTS, AND SUPPLEMENTS.—The scope”; and</i>
-
-<i>(4) by striking “of this title” each place that term appears.</i>
-
-<i>See 2011 Amendment note below.</i>
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(1), Aug. 23, 1988, 102Stat. 1567; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, §20(b), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
 
 #### Historical and Revision Notes
 
@@ -44,7 +32,7 @@ Pub. L. 100–418, §9101(b)(1)(B), added third par. relating to scope of a lice
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -52,9 +40,9 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1988 Amendment
 
-Section 9101(d) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title IX, §9101(d), Aug. 23, 1988, 102 Stat. 1568, provided that:
 
-“(1) Subject to paragraphs (2), (3), and (4) of this subsection, the amendments made by this section \[amending sections 184 to 186 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this section \[Aug. 23, 1988\], to all applications for United States patents pending on or filed after such date of enactment, and to all licensesunder section 184 granted before, on, or after the date of enactment of this section.
+“(1) Subject to paragraphs (2), (3), and (4) of this subsection, the amendments made by this section \[amending sections 184 to 186 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this section \[Aug. 23, 1988\], to all applications for United States patents pending on or filed after such date of enactment, and to all licenses under section 184 granted before, on, or after the date of enactment of this section.
 
 “(2) The amendments made by this section shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this section \[Aug. 23, 1988\] with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
@@ -70,5 +58,5 @@ Section 9101(d) of Pub. L. 100–418 provided that:
 
 #### Promulgation of Regulations
 
-Section 9101(c) of Pub. L. 100–418 directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
+Pub. L. 100–418, title IX, §9101(c), Aug. 23, 1988, 102 Stat. 1568, directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
 

@@ -40,7 +40,7 @@
 
 #### (A) Least-cost resolution
 
-&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriatethe opportunity to submit information relating to the determination.
+&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
 
 #### (B) Determining least costly approach
 
@@ -70,7 +70,7 @@
 
 #### (D) Rule for stand-alone assistance
 
-&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
+&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluatethe adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
 
 #### (E) Discretionary determinations
 

@@ -10,7 +10,7 @@ In addition to any other action taken by a State or local government, when the P
 
 (2)(A) Any person who receives and complies with the terms of any order issued under subsection (a) of this section may, within 60 days after completion of the required action, petition the President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
 
-(B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in theappropriate United States district court seeking reimbursement from the Fund.
+(B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in the appropriate United States district court seeking reimbursement from the Fund.
 
 (C) Except as provided in subparagraph (D), to obtain reimbursement, the petitioner shall establish by a preponderance of the evidence that it is not liable for response costs under section 9607(a) of this title and that costs for which it seeks reimbursement are reasonable in light of the action required by the relevant order.
 
@@ -26,7 +26,7 @@ Within one hundred and eighty days after December 11, 1980, the Administrator of
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacted provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended section 6911 of this title, section 1364 of Title33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacted provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Section 1321(c)(2) of title 33, referred to in subsec. (c), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 

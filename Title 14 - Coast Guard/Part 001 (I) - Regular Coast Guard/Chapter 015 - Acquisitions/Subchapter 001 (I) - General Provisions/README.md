@@ -14,3 +14,4 @@
 - [&sect; 00567 - Undefinitized contractual actions](%C2%A7%2000567%20-%20Undefinitized%20contractual%20actions.md)
 - [&sect; 00568 - Guidance on excessive pass-through charges](%C2%A7%2000568%20-%20Guidance%20on%20excessive%20pass-through%20charges.md)
 - [&sect; 00569 - Report on former Coast Guard officials employed by contractors to the agency](%C2%A7%2000569%20-%20Report%20on%20former%20Coast%20Guard%20officials%20employed%20by%20contractors%20to%20the%20agency.md)
+- [&sect; 00569a - Major acquisitions](%C2%A7%2000569a%20-%20Major%20acquisitions.md)

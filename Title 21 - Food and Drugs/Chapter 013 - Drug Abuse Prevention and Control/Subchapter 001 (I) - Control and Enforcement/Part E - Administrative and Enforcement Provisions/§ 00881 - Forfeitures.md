@@ -112,9 +112,9 @@ The provisions of section 981(g) of title 18 regarding the stay of a civil forfe
 
 #### (j) Venue
 
-In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
+In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeitureof the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-#### (<i>l</i>) <sup>1</sup> Agreement between Attorney General and Postal Service for performance of functions
+#### (l) <sup>1</sup> Agreement between Attorney General and Postal Service for performance of functions
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
@@ -138,7 +138,7 @@ Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 
 
 &emsp;“(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner”.
 
-Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall beforfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
 Subsec. (a)(7). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
@@ -182,7 +182,7 @@ Subsec. (e)(2)(B). Pub. L. 100–690, §6253(b), provided for deposit of moneys 
 
 Subsec. (e)(3). Pub. L. 100–690, §6077(a), added par. (3).
 
-Subsec. (<i>l</i>). Pub. L. 100–690, §6253(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–690, §6253(a), added subsec. (l).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
 
@@ -222,13 +222,13 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 #### Effective Date of 1989 Amendment
 
-Section 1215(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1989.”
+Pub. L. 101–189, div. A, title XII, §1215(b), Nov. 29, 1989, 103 Stat. 1569, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1989.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
-Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
+Pub. L. 100–690, title VI, §6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
 
 #### Transfer of Functions
 
@@ -240,11 +240,11 @@ Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that
 
 #### Regulations for Expedited Administrative Forfeiture Procedures
 
-Section 6079 of Pub. L. 100–690 provided that:
+Pub. L. 100–690, title VI, §6079, Nov. 18, 1988, 102 Stat. 4325, provided that:
 
 “(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C.881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
 “(b)
 

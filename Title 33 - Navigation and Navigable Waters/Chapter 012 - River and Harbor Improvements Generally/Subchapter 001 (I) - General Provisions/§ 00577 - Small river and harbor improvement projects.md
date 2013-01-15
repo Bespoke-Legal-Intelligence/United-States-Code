@@ -50,7 +50,7 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 
 #### Effective Date of 1976 Amendment
 
-Section 133(c) of Pub. L. 94–587 provided that: “The amendments made by this section \[amending this section and section 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 \[Oct. 22, 1976\].”
+Pub. L. 94–587, §133(c), Oct. 22, 1976, 90 Stat. 2928, provided that: “The amendments made by this section \[amending this section and section 701s of this title\] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 \[Oct. 22, 1976\].”
 
 #### Effective Date of 1970 Amendment
 

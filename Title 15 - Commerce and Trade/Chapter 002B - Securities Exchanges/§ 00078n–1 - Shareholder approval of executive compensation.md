@@ -26,7 +26,7 @@
 
 #### (2) Shareholder approval
 
-&emsp;Any proxy or consent or authorization relating to the proxy or consent solicitation material containing the disclosure required by paragraph (1) shall include a separate resolution subject to shareholder vote to approve such agreements or understandings and compensation as disclosed, unless such agreementsor understandings have been subject to a shareholder vote under subsection (a).
+&emsp;Any proxy or consent or authorization relating to the proxy or consent solicitation material containing the disclosure required by paragraph (1) shall include a separate resolution subject to shareholder vote to approve such agreements or understandings and compensation as disclosed, unless such agreements or understandings have been subject to a shareholder vote under subsection (a).
 
 #### (c) Rule of construction
 
@@ -46,9 +46,33 @@ Every institutional investment manager subject to section 78m(f) of this title s
 
 #### (e) Exemption
 
-The Commission may, by rule or order, exempt an issuer or class of issuers from the requirement under subsection (a) or (b). In determining whether to make an exemption under this subsection, the Commission shall take into account, among other considerations, whether the requirements under subsections (a) and (b) disproportionately burdens <sup>1</sup> small issuers.
+#### (1) In general
 
-(June 6, 1934, ch. 404, title I, §14A, as added Pub. L. 111–203, title IX, §951, July 21, 2010, 124 Stat. 1899.)
+&emsp;The Commission may, by rule or order, exempt any other issuer or class of issuers from the requirement under subsection (a) or (b). In determining whether to make an exemption under this subsection, the Commission shall take into account, among other considerations, whether the requirements under subsections (a) and (b) disproportionately burdens <sup>1</sup> small issuers.
+
+#### (2) Treatment of emerging growth companies
+
+#### (A) In general
+
+&emsp;&emsp;An emerging growth company shall be exempt from the requirements of subsections (a) and (b).
+
+#### (B) Compliance after termination of emerging growth company treatment
+
+&emsp;&emsp;An issuer that was an emerging growth company but is no longer an emerging growth company shall include the first separate resolution described under subsection (a)(1) not later than the end of—
+
+&emsp;&emsp;&emsp;(i) in the case of an issuer that was an emerging growth company for less than 2 years after the date of first sale of common equity securities of the issuer pursuant to an effective registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the 3-year period beginning on such date; and
+
+&emsp;&emsp;&emsp;(ii) in the case of any other issuer, the 1-year period beginning on the date the issuer is no longer an emerging growth company.
+
+(June 6, 1934, ch. 404, title I, §14A, as added Pub. L. 111–203, title IX, §951, July 21, 2010, 124 Stat. 1899; amended Pub. L. 112–106, title I, §102(a)(1), Apr. 5, 2012, 126 Stat. 308.)
+
+#### References in Text
+
+The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–106 designated existing provisions as par. (1), inserted heading, substituted “any other issuer” for “an issuer”, and added par. (2).
 
 #### Effective Date
 

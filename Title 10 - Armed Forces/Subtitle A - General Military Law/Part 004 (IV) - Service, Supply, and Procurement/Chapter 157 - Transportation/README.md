@@ -16,7 +16,7 @@
 | [2640\.](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md) | Charter air transportation of members of the armed forces. |
 | [2641\.](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md) | Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft. |
 | [2641a.](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md) | Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii. |
-| [2641b.](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20retired%20members%20residing%20in%20Commonwealths%20and%20possessions%20of%20the%20United%20States%E2%80%A6.md) | Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services. |
+| [2641b.](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20program%20authorized%20and%20eligible%20recipients.md) | Space-available travel on Department of Defense aircraft: program authorized and eligible recipients. |
 | [2642\.](%C2%A7%2002642%20-%20Airlift%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md) | Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate. |
 | [2643\.](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md) | Commissary and exchange services: transportation overseas. |
 | [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
@@ -31,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title VI, §622(b), Jan. 2, 2013, 126 Stat. 1781, substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
 
 <b>2011</b>—Pub. L. 111–383, div. A, title III, §352(f), Jan. 7, 2011, 124 Stat. 4194, added items 2648 and 2649 and struck out former items 2648 “Persons and supplies: sea transportation” and 2649 “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels”.
 
@@ -74,7 +76,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 <b>1965</b>—Pub. L. 89–101, §1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
 
-<b>1962</b>—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
+<b>1962</b>—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored bymilitary department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
 
 <b>1957</b>—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
@@ -97,7 +99,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02640 - Charter air transportation of members of the armed forces](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02641 - Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md)
 - [&sect; 02641a - Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md)
-- [&sect; 02641b - Space-available travel on Department of Defense aircraft retired members residing in Commonwealths and possessions of the United States&#8230;](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20retired%20members%20residing%20in%20Commonwealths%20and%20possessions%20of%20the%20United%20States%E2%80%A6.md)
+- [&sect; 02641b - Space-available travel on Department of Defense aircraft program authorized and eligible recipients](%C2%A7%2002641b%20-%20Space-available%20travel%20on%20Department%20of%20Defense%20aircraft%20program%20authorized%20and%20eligible%20recipients.md)
 - [&sect; 02642 - Airlift services provided to certain other agencies use of Department of Defense reimbursement rate](%C2%A7%2002642%20-%20Airlift%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md)
 - [&sect; 02643 - Commissary and exchange services transportation overseas](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md)
 - [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)

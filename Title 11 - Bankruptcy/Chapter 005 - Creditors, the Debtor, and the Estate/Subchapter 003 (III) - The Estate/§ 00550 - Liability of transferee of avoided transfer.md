@@ -6,7 +6,7 @@
 
 &emsp;(2) any immediate or mediate transferee of such initial transferee.
 
-(b) The trustee may not recover under section (a)(2) of this section from—
+(b) The trustee may not recover under section <sup>1</sup> (a)(2) of this section from—
 
 &emsp;(1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
 
@@ -62,7 +62,7 @@ Section 550(e) of the House amendment is derived from section 550(e) of the Sena
 
 Section 550 prescribes the liability of a transferee of an avoided transfer, and enunciates the separation between the concepts of avoiding a transfer and recovering from the transferee. Subsection (a) permits the trustee to recover from the initial transferee of an avoided transfer or from any immediate or mediate transferee of the initial transferee. The words “to the extent that” in the lead in to this subsection are designed to incorporate the protection of transferees found in proposed 11 U.S.C. 549(b) and 548(c). Subsection (b) limits the liability of an immediate or mediate transferee of the initial transferee if such secondary transferee takes for value, in good faith and without knowledge of the voidability of the transfer. An immediate or mediate good faith transferee of a protected secondary transferee is also shielded from liability. This subsection is limited to the trustee's right to recover from subsequent transferees under subsection (a)(2). It does not limit the trustee's rights against the initial transferee under subsection (a)(1). The phrase “good faith” in this paragraph is intended to prevent a transferee from whom the trustee could recover from transferring the recoverable property to an innocent transferee, and receiving a retransfer from him, that is, “washing” the transaction through an innocent third party. In order for the transferee to be excepted from liability under this paragraph, he himself must be a good faith transferee. Subsection (c) is a further limitation on recovery. It specifies that the trustee is entitled to only one satisfactory, under subsection (a), even if more than one transferee is liable.
 
-Subsection (d) protects good faith transferees, either initial or subsequent, to the extent of the lesser of the cost of any improvement the transferee makes in the transferred property and the increase in value of the property as a result of the improvement. Paragraph (2) of the subsection defines improvement to include physical additions or changes to the property, repairs, payment of taxes on the property, payment of a debt secured by a lien on the property, discharge of a lien on the property, and preservation of the property.
+Subsection (d) protects good faith transferees, either initial or subsequent, to the extent of the lesser of thecost of any improvement the transferee makes in the transferred property and the increase in value of the property as a result of the improvement. Paragraph (2) of the subsection defines improvement to include physical additions or changes to the property, repairs, payment of taxes on the property, payment of a debt secured by a lien on the property, discharge of a lien on the property, and preservation of the property.
 
 Subsection (e) establishes a statute of limitations on avoidance by the Trustee. The limitation is one year after the avoidance of the transfer or the time the case is closed or dismissed, whichever is earlier.
 
@@ -89,4 +89,6 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

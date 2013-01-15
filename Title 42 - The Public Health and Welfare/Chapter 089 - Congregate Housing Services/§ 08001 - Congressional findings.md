@@ -16,5 +16,5 @@ Pub. L. 111–374, §1(a), Jan. 4, 2011, 124 Stat. 4089, provided that: “This 
 
 #### Short Title
 
-Section 401 of title IV of Pub. L. 95–557 provided that: “This title \[enacting this chapter and amending section1437e of this title\] may be cited as the ‘Congregate Housing Services Act of 1978’.”
+Pub. L. 95–557, title IV, §401, Oct. 31, 1978, 92 Stat. 2104, provided that: “This title \[enacting this chapter and amending section 1437e of this title\] may be cited as the ‘Congregate Housing Services Act of 1978’.”
 

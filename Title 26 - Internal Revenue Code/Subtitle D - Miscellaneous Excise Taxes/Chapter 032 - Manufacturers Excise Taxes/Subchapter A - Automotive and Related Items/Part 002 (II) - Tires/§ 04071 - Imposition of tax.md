@@ -2,7 +2,7 @@
 
 #### (a) Imposition and rate of tax
 
-There is hereby imposed on taxable tires sold by the manufacturer, producer, or importerthereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
+There is hereby imposed on taxable tires sold by the manufacturer, producer, or importer thereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
 
 #### (b) Special rule for manufacturers who sell at retail
 
@@ -20,11 +20,17 @@ For the purposes of subsection (a), if an article imported into the United State
 
 #### (d) Termination
 
-On and after April 1, 2012, the taxes imposed by subsection (a) shall not apply.
+On and after October 1, 2016, the taxes imposed by subsection (a) shall not apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L.94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(C), July 6, 2012, 126 Stat. 844.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
+
+Pub. L. 112–140, §§1(c), 402(a)(2)(C), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “July 1, 2012” for “April 1, 2012”.
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–30 substituted “April 1, 2012” for “October 1, 2011”.
 
@@ -102,9 +108,19 @@ Subsec. (a)(5). Pub. L. 86–440, §1(a)(2), added par. (5).
 
 <b>1956</b>—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
 
+#### Effective and Termination Dates of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460<i>l</i>–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
 
 #### Effective Date of 2004 Amendment
 
@@ -116,19 +132,19 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1983 Amendment
 
-Section 514(b) of Pub. L. 97–424 provided that: “The amendment made by this section \[amending this section\] shall apply to articles sold on or after January 1, 1984”.
+Pub. L. 97–424, title V, §514(b), Jan. 6, 1983, 96 Stat. 2181, provided that: “The amendment made by this section \[amending this section\] shall apply to articles sold on or after January 1, 1984”.
 
 #### Effective Date of 1980 Amendments
 
-Section 1(e) of Pub. L. 96–598 provided that: “The amendments made by this section \[amending this section and sections 6416 and 6511 of this title\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
+Pub. L. 96–598, §1(e), Dec. 24, 1980, 94 Stat. 3486, provided that: “The amendments made by this section \[amending this section and sections 6416 and 6511 of this title\] shall take effect on the first day of the first calendar month which begins more than 10 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
 
-Section 4(a)(2) of Pub. L. 96–596 provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after January 1, 1981.”
+Pub. L. 96–596, §4(a)(2), Dec. 24, 1980, 94 Stat. 3475, provided that: “The amendments made by this subsection \[amending this section\] shall apply on and after January 1, 1981.”
 
 Amendment by Pub. L. 96–222 effective as if included in the provision of the Energy Tax Act of 1978, Pub. L. 95–618, Nov. 9, 1978, 92 Stat. 3174, to which such amendment relates, see section 108(c)(7) of Pub. L. 96–222, set out as a note under section 48 of this title.
 
 #### Effective Date of 1971 Amendment
 
-Section 401(h) of Pub. L. 92–178 provided that:
+Pub. L. 92–178, title IV, §401(h), Dec. 10, 1971, 85 Stat. 534, provided that:
 
 “(1) Except as otherwise provided in this section, the amendments made by subsections (a), (f), and (g) \[amending this section and sections 4061, 4062, 4063, 4216, 4221, 4222, 6412, and 6416 of this title\] of this section shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[Dec. 10, 1971\].
 
@@ -148,7 +164,7 @@ Section 401(h) of Pub. L. 92–178 provided that:
 
 #### Effective Date of 1966 Amendment
 
-Section 1(b) of Pub. L. 89–523 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar quarter which begins more than 20 days after the date on which this Act is enacted \[Aug. 1, 1966\].”
+Pub. L. 89–523, §1(b), Aug. 1, 1966, 80 Stat. 331, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar quarter which begins more than 20 days after the date on which this Act is enacted \[Aug. 1, 1966\].”
 
 #### Effective Date of 1961 Amendment
 
@@ -156,7 +172,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Section 1(b) of Pub. L. 86–440 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[April 22, 1960\].”
+Pub. L. 86–440, §1(b), Apr. 22, 1960, 74 Stat. 81, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[April 22, 1960\].”
 
 #### Effective Date of 1956 Amendment
 
@@ -164,7 +180,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 #### Allowance of Credit or Refund of Overpayment of Tax Imposed
 
-Section 4(b) of Pub. L. 96–596 provided that:
+Pub. L. 96–596, §4(b), Dec. 24, 1980, 94 Stat. 3475, provided that:
 
 “(b)
 

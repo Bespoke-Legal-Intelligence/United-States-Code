@@ -38,7 +38,7 @@
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 
-(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) ofthis title before notice of the proposed transfer is given to the Secretary.
+(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
 
 (2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
 
@@ -130,13 +130,13 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
+Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section 3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–295, title II, §205(e), Nov. 25, 2002, 116 Stat. 2096, provided that: “This section \[see Tables for classification\] shall take effect January 1, 2003.”
 
-#### Construction of 1996 Amendments
+#### Construction of 1996 Amendment
 
-Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
+Pub. L. 104–324, title XI, §1124(c), Oct. 19, 1996, 110 Stat. 3981, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
 

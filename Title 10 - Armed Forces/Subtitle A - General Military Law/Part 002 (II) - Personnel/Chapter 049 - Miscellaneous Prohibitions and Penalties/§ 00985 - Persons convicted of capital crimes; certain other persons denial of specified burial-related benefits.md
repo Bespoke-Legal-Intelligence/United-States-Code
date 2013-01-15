@@ -6,7 +6,7 @@ Prohibition of Performance of Military Honors.—The Secretary of a military dep
 
 &emsp;(1) A person described in section 2411(b) of title 38.
 
-&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surroundingthe person's death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
+&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person's death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
 
 (b)
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Section 1077(b) of Pub. L. 105–85 provided that: “Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997.”
+Pub. L. 105–85, div. A, title X, §1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: “Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997.”
 
 #### Regulations
 

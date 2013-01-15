@@ -20,7 +20,7 @@ Title to lands, or any interests therein, acquired pursuant to this Act for the 
 
 #### (d) Lands held by mortgage or deed of trust
 
-That any tribal land that may be sold pursuant to this Act may, with the approval of the Secretary of the Interior, be encumbered by a mortgage or deed of trust and shall be subject to foreclosure or sale pursuant to the terms of such a mortgage or deed of trust in accordance with the laws of the State of Washington. The United States shall be an indispensable party to any such proceeding with the right of removal of the clause to the United States district court for the district in which the land is located, following the procedure in section 1446 of title 28: <i>Provided</i>, That the United States shall have the right to appeal from any order of remand in the case.
+That any tribal land that may be sold pursuant to this Act may, with the approval of the Secretary of the Interior, be encumbered by a mortgage or deed of trust and shall be subject to foreclosure or sale pursuant to the terms of such a mortgage or deed of trust in accordance with the laws of the State of Washington. The United States shall be an indispensable party to any such proceeding with the right of removal of the cause to the United States district court for the district in which the land is located, following the procedure in section 1446 of title 28: <i>Provided</i>, That the United States shall have the right to appeal from any order of remand in the case.
 
 #### (e) Acquisition and sale procedures; land purchase and consolidation program
 
@@ -30,7 +30,7 @@ The acquisition and sale of lands for the Spokane Tribe pursuant to this Act sha
 
 #### References in Text
 
-This Act, referred to in subsecs. (c), (d), and (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended section 415 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) to (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended section 415 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

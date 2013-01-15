@@ -50,13 +50,13 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) A footnote to the category referred to in paragraph (1)(C) showing that such category consists of agriculture, natural resources, environment, transportation, education, job training, economic development, space, energy, and general science.
 
-&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, supplemental nutrition assistance program benefits, and assistance under a State program funded under part A of title IV of the Social Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
+&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, supplemental nutrition assistance program benefits, and assistance under a State program funded under part A of title IV of theSocial Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
 
 #### (4) Data on which graphs are based
 
 &emsp;The graphs required under subsection (a) shall be based on data for the most recent fiscal year for which complete data is available as of the completion of the preparation of the instructions by the Secretary.
 
-(Added Pub. L. 101–508, title XI, §11622(a), Nov. 5, 1990, 104 Stat. 1388–504; amended Pub. L. 104–193, title I, §110(<i>l</i>)(4), formerly §110(<i>l</i>)(8), Aug. 22, 1996, 110 Stat. 2173, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Added Pub. L. 101–508, title XI, §11622(a), Nov. 5, 1990, 104 Stat. 1388–504; amended Pub. L. 104–193, title I, §110(l)(4), formerly §110(l)(8), Aug. 22, 1996, 110 Stat. 2173, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-<b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(<i>l</i>)(4), formerly §110(<i>l</i>)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program fundedunder part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+<b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(l)(4), formerly §110(l)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
 
 #### Effective Date of 2008 Amendment
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date
 
-Section 11622(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990.”
+Pub. L. 101–508, title XI, §11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: “The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990.”
 

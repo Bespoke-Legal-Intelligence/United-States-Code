@@ -10,7 +10,7 @@ Mental Health Assessments.—(1) The Secretary of Defense shall provide a person
 
 &emsp;(C) Subject to subsection (d), not later than once during each of—
 
-&emsp;&emsp;(i) the period beginning 180 days after the date of redeployment from the contingency operation and ending one year after such redeployment date; and
+&emsp;&emsp;(i) the period beginning 180 days after the date of redeployment from the contingency operation and ending 18 months after such redeployment date; and
 
 &emsp;&emsp;(ii) the period beginning 18 months after such redeployment date and ending 30 months after such redeployment date.
 
@@ -22,7 +22,7 @@ Mental Health Assessments.—(1) The Secretary of Defense shall provide a person
 
 (b)
 
-Purpose.—The purpose of the mental health assessments provided pursuant to this section shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
+Purpose.—The purpose of the mental health assessments provided pursuant to thissection shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
 
 (c)
 
@@ -66,11 +66,15 @@ Regulations.—(1) The Secretary of Defense, in consultation with the other admi
 
 (2) Not later than 270 days after the date of the issuance of the regulations prescribed under paragraph (1), the Secretary shall notify the congressional defense committees of the implementation of the regulations by the military departments.
 
-(Added Pub. L. 112–81, div. A, title VII, §702(a)(1), Dec. 31, 2011, 125 Stat. 1469.)
+(Added Pub. L. 112–81, div. A, title VII, §702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, §703, Jan. 2, 2013, 126 Stat. 1800.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(C)(i). Pub. L. 112–239 substituted “18 months” for “one year”.
 
 #### Regulations
 

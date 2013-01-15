@@ -2,7 +2,7 @@
 
 #### (a) Excess expenses
 
-(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
+(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly andwillfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
 
 (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
@@ -50,7 +50,7 @@
 
 (2) This subsection shall not apply to (A) expenditures by a broadcaster regulated by the Federal Communications Commission, or by a periodical publication, in reporting the news or in taking editorial positions, or (B) expenditures by any organization described in section 501(c) which is exempt from tax under section 501(a) in communicating to its members the views of that organization.
 
-(3) Any political committee which violates paragraph (1) shall be fined not more than $5,000, and any officer or member of such committee who knowingly and willfully consents to such violation and any other individual who knowingly and willfully violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+(3) Any political committee which violates paragraph (1) shall be fined not more than $5,000,and any officer or member of such committee who knowingly and willfully consents to such violation and any other individual who knowingly and willfully violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 #### (g) Unauthorized disclosure of information
 
@@ -59,6 +59,10 @@
 (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 570; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §§404(c)(22), 406(b)(2)–(6), Oct. 15, 1974, 88 Stat. 1293, 1296; Pub. L. 94–283, title III, §307(f), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

@@ -18,3 +18,45 @@ Regulations.—The Administrator shall issue regulations to carry out this secti
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
+#### Improved Voluntary Disclosure Reporting System
+
+Pub. L. 112–95, title III, §344, Feb. 14, 2012, 126 Stat. 81, provided that:
+
+“(a)
+
+Voluntary Disclosure Reporting Program Defined.—In this section, the term ‘Voluntary Disclosure Reporting Program’ means the program established by the Federal Aviation Administration through Advisory Circular 00–58A, dated September 8, 2006, including any subsequent revisions thereto.
+
+“(b)
+
+Verification.—The Administrator of the Federal Aviation Administration shall modify the Voluntary Disclosure Reporting Program to require inspectors to—
+
+&emsp;“(1) verify that air carriers are implementing comprehensive solutions to correct the underlying causes of the violations voluntarily disclosed by such air carriers; and
+
+&emsp;“(2) confirm, before approving a final report of a violation, that a violation with the same root causes, has not been previously discovered by an inspector or self-disclosed by the air carrier.
+
+“(c)
+
+Supervisory Review of Voluntary Self-Disclosures.—The Administrator shall establish a process by which voluntary self-disclosures received from air carriers are reviewed and approved by a supervisor after the initial review by an inspector.
+
+“(d)
+
+Inspector General Study.—
+
+&emsp;“(1)
+
+In general.—The Inspector General of the Department of Transportation shall conduct a study of the Voluntary Disclosure Reporting Program.
+
+&emsp;“(2)
+
+Review.—In conducting the study, the Inspector General shall examine, at a minimum, if the Administration—
+
+&emsp;&emsp;“(A) conducts comprehensive reviews of voluntary disclosure reports before closing a voluntary disclosure report under the provisions of the program;
+
+&emsp;&emsp;“(B) evaluates the effectiveness of corrective actions taken by air carriers; and
+
+&emsp;&emsp;“(C) effectively prevents abuse of the voluntary disclosure reporting program through its secondary review of self-disclosures before they are accepted and closed by the Administration.
+
+&emsp;“(3)
+
+Report to congress.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Inspector General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study conducted under this section.”
+

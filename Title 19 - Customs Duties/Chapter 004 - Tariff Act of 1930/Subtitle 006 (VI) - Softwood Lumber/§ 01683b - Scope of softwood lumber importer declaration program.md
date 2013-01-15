@@ -14,7 +14,7 @@ The following products shall be subject to the importer declaration program esta
 
 &emsp;&emsp;(C) Other coniferous wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces (other than wood moldings and wood dowel rods) whether or not planed, sanded, or finger-jointed.
 
-&emsp;&emsp;(D) Coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) alongany of its edges or faces, whether or not planed, sanded, or finger-jointed.
+&emsp;&emsp;(D) Coniferous wood flooring (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rabbeted, chamfered, v-jointed, beaded, molded, rounded, or the like) along any of its edges or faces, whether or not planed, sanded, or finger-jointed.
 
 &emsp;&emsp;(E) Coniferous drilled and notched lumber and angle cut lumber.
 
@@ -110,13 +110,13 @@ The following softwood lumber products shall not be subject to the importer decl
 
 &emsp;&emsp;Softwood lumber or softwood lumber products contained in a single family home package or kit, regardless of the classification under the HTS, if the importer declares that the following requirements have been met:
 
-&emsp;&emsp;&emsp;(i) The package or kit constitutes a full package of the number of wooden pieces specified in the plan, design, or blueprint necessary to produce a home of at least 700 square feet produced to a specified plan, design, or blueprint.
+&emsp;&emsp;&emsp;(i) The package or kit constitutes a full package of the number of wooden piecesspecified in the plan, design, or blueprint necessary to produce a home of at least 700 square feet produced to a specified plan, design, or blueprint.
 
 &emsp;&emsp;&emsp;(ii) The package or kit contains—
 
 &emsp;&emsp;&emsp;&emsp;(I) all necessary internal and external doors and windows, nails, screws, glue, subfloor, sheathing, beams, posts, and connectors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if included in the purchase contract, the decking, trim, drywall, androof shingles specified in the plan, design, or blueprint.
+&emsp;&emsp;&emsp;&emsp;(II) if included in the purchase contract, the decking, trim, drywall, and roof shingles specified in the plan, design, or blueprint.
 
 &emsp;&emsp;&emsp;(iii) Prior to importation, the package or kit is sold to a United States retailer that sells complete home packages or kits pursuant to a valid purchase contract referencing the particular home design, plan, or blueprint, and the contract is signed by a customer not affiliated with the importer.
 

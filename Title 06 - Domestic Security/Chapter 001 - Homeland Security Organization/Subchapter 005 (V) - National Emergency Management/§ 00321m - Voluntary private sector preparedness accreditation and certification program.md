@@ -108,7 +108,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements forthe accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;Any selected entity shall collaborate to develop procedures and requirements for the accreditation and certification processes under this subsection, in accordance with the program established under this subsection and guidelines developed under paragraph (2)(A)(ii).
 
 #### (ii) Contents and use
 
@@ -172,7 +172,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and the selected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
+&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and theselected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
 
 #### (B) Review of standards
 

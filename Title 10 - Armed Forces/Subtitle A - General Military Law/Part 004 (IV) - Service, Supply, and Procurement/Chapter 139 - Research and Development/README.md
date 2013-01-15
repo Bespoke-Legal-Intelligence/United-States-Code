@@ -18,12 +18,7 @@
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md) | Coordination and communication of defense research activities. |
 | [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
-| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20A%201%20approval.md) | Major defense acquisition programs: certification required before Milestone A approval.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20approval.md) | Major defense acquisition programs: certification required before Milestone A approval. |
 | [2366b.](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md) | Major defense acquisition programs: certification required before Milestone B approval. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
 | \[2368 to 2370a. Repealed.\] |  |
@@ -33,7 +28,7 @@
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
 | [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
-| [2374b.](%C2%A7%2002374b%20-%20Prizes%20for%20achievements%20in%20promoting%20science%2C%20mathematics%2C%20engineering%2C%20or%20technology%20education.md) | Prizes for achievements in promoting science, mathematics, engineering, or technology education. |
+| \[2374b. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +37,8 @@
 <i>Pub. L. 112–81, div. A, title II, §251(a)(2), (b), Dec. 31, 2011, 125 Stat. 1347, provided that, effective Oct. 1, 2013, this analysis is amended by striking out item 2359a.</i>
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(g)(4), Jan. 2, 2013, 126 Stat. 1955, struck out item 2374b “Prizes for achievements in promoting science, mathematics, engineering, or technology education”.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §801(e)(3), Dec. 31, 2011, 125 Stat. 1484, substituted “Major defense acquisition programs: certification required before Milestone A approval” for “Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval” in item 2366a and “Major defense acquisition programs: certification required before Milestone B approval” for “Major defense acquisition programs: certification required before Milestone B or Key Decision Point B approval” in item 2366b.
 
@@ -67,7 +64,7 @@ Pub. L. 110–181, div. A, title IX, §943(a)(2), Jan. 28, 2008, 122 Stat. 289, 
 
 <b>1996</b>—Pub. L. 104–201, div. A, title II, §267(c)(1)(C), Sept. 23, 1996, 110 Stat. 2468, added item 2371a.
 
-Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding 10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
+Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
 
 <b>1994</b>—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item 2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
 
@@ -109,8 +106,6 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 
 <b>1958</b>—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 “Policy, plans, and coordination”.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -134,7 +129,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02364 - Coordination and communication of defense research activities](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md)
 - [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)
-- [&sect; 02366a - Major defense acquisition programs certification required before Milestone A A 1 approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20A%201%20approval.md)
+- [&sect; 02366a - Major defense acquisition programs certification required before Milestone A approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20approval.md)
 - [&sect; 02366b - Major defense acquisition programs certification required before Milestone B approval](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md)
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02368 - Repealed. Pub. L. 102&#8211;190, div. A, title VIII, &sect;821(c)(1), Dec. 5, 1991, 105 Stat. 1431](%C2%A7%2002368%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93190%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Dec.%205%2C%201991%2C%20105%20Stat.%201431.md)
@@ -147,4 +142,4 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
 - [&sect; 02374a - Prizes for advanced technology achievements](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md)
-- [&sect; 02374b - Prizes for achievements in promoting science, mathematics, engineering, or technology education](%C2%A7%2002374b%20-%20Prizes%20for%20achievements%20in%20promoting%20science%2C%20mathematics%2C%20engineering%2C%20or%20technology%20education.md)
+- [&sect; 02374b - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1076(g)(4), Jan. 2, 2013, 126 Stat. 1955](%C2%A7%2002374b%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71076%28g%29%284%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201955.md)

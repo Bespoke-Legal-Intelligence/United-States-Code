@@ -4,7 +4,7 @@
 
 #### (1) Development of uniform methodology
 
-&emsp;The Secretary shall direct the Commissioner of Education Statistics to convene a series of forums to develop nationally consistent methodologies for reporting costs incurred by postsecondary institutions in providing postsecondary education.
+&emsp;The Secretary shall direct the Commissioner of Education Statistics to convene a series offorums to develop nationally consistent methodologies for reporting costs incurred by postsecondary institutions in providing postsecondary education.
 
 #### (2) Redesign of data systems
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) tuition and fees for a full-time undergraduate student;
 
-&emsp;&emsp;&emsp;(ii) cost of attendance for a full-time undergraduate student, consistent with the provisions of section 1087<i>ll</i> of this title;
+&emsp;&emsp;&emsp;(ii) cost of attendance for a full-time undergraduate student, consistent with the provisions of section 1087ll of this title;
 
 &emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate student who attends an institution of higher education, including—
 
@@ -36,7 +36,7 @@
 
 #### (b) Data dissemination
 
-The Secretary shall make available the data collected pursuant to subsection (a) of this section. Such data shall be available in a form that permits the review and comparison of the data submissions of individual institutions of higher education. Such data shall be presented in aform that is easily understandable and allows parents and students to make informed decisions based on the costs for typical full-time undergraduate students.
+The Secretary shall make available the data collected pursuant to subsection (a) of this section. Such data shall be available in a form that permits the review and comparison of the data submissions of individual institutions of higher education. Such data shall be presented in a form that is easily understandable and allows parents and students to make informed decisions based on the costs for typical full-time undergraduate students.
 
 #### (c) Study
 
@@ -88,7 +88,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (1) Implementation
 
-&emsp;The Secretary shall continue to improve the usefulness and accessibility of the information provided by the Department on college planning and student financial aid.
+&emsp;The Secretary shall continue to improve the usefulness and accessibility of the informationprovided by the Department on college planning and student financial aid.
 
 #### (2) Dissemination
 
@@ -118,7 +118,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (4) Definition
 
-&emsp;In this subsection, the term “Federal and State student financial assistance” means anygrant, loan, work assistance, tuition assistance, scholarship, fellowship, or other form of financial aid for pursuing a postsecondary education that is—
+&emsp;In this subsection, the term “Federal and State student financial assistance” means any grant, loan, work assistance, tuition assistance, scholarship, fellowship, or other form of financial aid for pursuing a postsecondary education that is—
 
 &emsp;&emsp;(A) administered, sponsored, or supported by the Department of Education, the Department of Defense, the Department of Veterans Affairs, or a State; and
 
@@ -196,7 +196,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;&emsp;The STEM Database shall provide, to the users of the STEM Database—
 
-&emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review allof the application requirements prior to applying for any aid or program of student financial assistance; and
+&emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
 
 &emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
 
@@ -236,7 +236,7 @@ Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 9
 
 Another prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2086, set out the Congressional findings with regard to the lifelong learning program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286,related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 #### Amendments
 

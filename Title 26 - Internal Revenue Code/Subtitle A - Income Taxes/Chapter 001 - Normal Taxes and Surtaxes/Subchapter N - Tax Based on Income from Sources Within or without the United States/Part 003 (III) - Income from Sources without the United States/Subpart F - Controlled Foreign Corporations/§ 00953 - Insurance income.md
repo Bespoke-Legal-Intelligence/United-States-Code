@@ -102,7 +102,7 @@ For purposes of subsection (a)—
 
 #### (ii) Exemption from tax imposed by section 4371
 
-&emsp;&emsp;&emsp;The tax imposed by section 4371 shall not apply with respect to any related person insurance income treated as effectively connected with the conduct of a trade or business within the United States under subparagraph (C).
+&emsp;&emsp;&emsp;The tax imposed by section 4371 shall not apply with respect to any related personinsurance income treated as effectively connected with the conduct of a trade or business within the United States under subparagraph (C).
 
 #### (E) Disqualified corporation
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this subsection and section 954(i), the exempt insurance income and exempt contracts of a qualifying insurance company or any qualifying insurance company branch of such company shall be determined separately for such company and each such branch by taking into account—
 
-&emsp;&emsp;&emsp;(i) in the case of the qualifying insurance company, only items of income, deduction, gain, or loss, and activities of such company not properly allocable or attributable to any qualifying insurance company branch of such company, and
+&emsp;&emsp;&emsp;(i) in the case of the qualifying insurance company, only items of income, deduction,gain, or loss, and activities of such company not properly allocable or attributable to any qualifying insurance company branch of such company, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a qualifying insurance company branch, only items of income, deduction, gain, or loss and activities properly allocable or attributable to such branch.
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 #### (B) Qualified business unit
 
-&emsp;&emsp;The term “home country” means, with respect to a qualified business unit (as defined in section 989(a)), the country in which the principal office of such unit is located and in which such unit is licensed, authorized, or regulated by the applicable insurance regulatory body to sell insurance, reinsurance, or annuity contracts to persons other than related persons (as defined in section 954(d)(3)) in such country.
+&emsp;&emsp;The term “home country” means, with respect to a qualified business unit (as definedin section 989(a)), the country in which the principal office of such unit is located and in which such unit is licensed, authorized, or regulated by the applicable insurance regulatory body to sell insurance, reinsurance, or annuity contracts to persons other than related persons (as defined in section 954(d)(3)) in such country.
 
 #### (7) Anti-abuse rules
 
@@ -380,15 +380,17 @@ For purposes of this section—
 
 #### (10) Application
 
-&emsp;This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2012, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2011 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
+&emsp;This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2014, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2013 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
 
 #### (11) Cross reference
 
 &emsp;&emsp;<b>For income exempt from foreign personal holding company income, see section 954(i).</b>
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61; Pub. L. 109–222, title I, §103(a)(1), May 17, 2006, 120 Stat. 346; Pub. L. 110–343, div. C, title III, §303(a), Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–312, title VII, §750(a), (b), Dec. 17, 2010, 124 Stat. 3320.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61; Pub. L. 109–222, title I, §103(a)(1), May 17, 2006, 120 Stat. 346; Pub. L. 110–343, div. C, title III, §303(a), Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–312, title VII, §750(a), (b), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §322(a), Jan. 2, 2013, 126 Stat. 2332.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(10). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012” and “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (e)(10). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010” and “December 31, 2011” for “December 31, 2009”.
 
@@ -500,6 +502,10 @@ Subsec. (b)(4), (5). Pub. L. 98–369, §211(b)(13)(A), (E), redesignated par. (
 
 <b>1966</b>—Subsec. (b)(3)(F). Pub. L. 89–809 substituted “832(c)(5)” for “832(b)(5)”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title III, §322(c), Jan. 2, 2013, 126 Stat. 2332, provided that: “The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §750(c), Dec. 17, 2010, 124 Stat. 3320, provided that: “The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2009, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
@@ -518,11 +524,11 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(i)(3)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title I, §1012(i)(3)(C), Nov. 10, 1988, 102 Stat. 3508, provided that: “The amendments made by this paragraph \[amending this section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
 
 Amendment by section 1012(i)(1), (2), (4), (5), (7)–(9), (21) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6135(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title VI, §6135(b), Nov. 10, 1988, 102 Stat. 3723, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 

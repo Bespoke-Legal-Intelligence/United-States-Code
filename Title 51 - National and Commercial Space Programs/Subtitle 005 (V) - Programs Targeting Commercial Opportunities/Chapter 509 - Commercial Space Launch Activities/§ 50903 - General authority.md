@@ -8,7 +8,7 @@ General.—The Secretary of Transportation shall carry out this chapter.
 
 Facilitating Commercial Launches and Reentries.—In carrying out this chapter, the Secretary shall—
 
-&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by the private sector, including those involving space flight participants; and
+&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by theprivate sector, including those involving space flight participants; and
 
 &emsp;(2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-private partnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
 
@@ -72,7 +72,7 @@ Pub. L. 110–422, title VI, §621, Oct. 15, 2008, 122 Stat. 4801, provided that
 
 “(a)
 
-In General.—In preparation for the award of contracts to follow up on the current NASA \[National Aeronautics and Space Administration\] Launch Services (NLS) contracts, the Administrator shall develop a strategy for providing domestic commercial launch services in support of NASA's small and medium-sizedScience, Space Operations, and Exploration missions, consistent with current law and policy.
+In General.—In preparation for the award of contracts to follow up on the current NASA \[National Aeronautics and Space Administration\] Launch Services (NLS) contracts, the Administrator shall develop a strategy for providing domestic commercial launch services in support of NASA's small and medium-sized Science, Space Operations, and Exploration missions, consistent with current law and policy.
 
 “(b)
 

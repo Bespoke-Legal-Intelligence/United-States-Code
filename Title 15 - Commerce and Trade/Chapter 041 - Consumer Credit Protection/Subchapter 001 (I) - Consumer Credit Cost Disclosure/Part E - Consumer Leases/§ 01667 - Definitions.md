@@ -32,7 +32,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date
 
-Section 6 of Pub. L. 94–240 provided that: “This Act \[enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title\] takes effect one year after the date of its enactment \[Mar. 23, 1976\].”
+Pub. L. 94–240, §6, Mar. 23, 1976, 90 Stat. 261, provided that: “This Act \[enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title\] takes effect one year after the date of its enactment \[Mar. 23, 1976\].”
 
 #### Adjustments for Inflation
 

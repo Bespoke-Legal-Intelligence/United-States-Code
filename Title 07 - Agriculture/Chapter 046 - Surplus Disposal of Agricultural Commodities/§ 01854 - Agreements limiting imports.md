@@ -28,7 +28,7 @@ Section 1. The United States Trade Representative, with the concurrence of the S
 
 (2) fresh, chilled, or frozen meat of goats and sheep (except lambs), and
 
-(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, or frozen, but not otherwise preserved, that are the products of such countries.
+(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, orfrozen, but not otherwise preserved, that are the products of such countries.
 
 Sec. 2. The Secretary of Agriculture, with the concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[United States Trade Representative\], is authorized to issue regulations governing the entry or withdrawal from warehouse for consumption in the United States of any such meats to carry out any such agreement.
 

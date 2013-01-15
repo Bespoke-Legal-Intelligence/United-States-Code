@@ -24,7 +24,7 @@ Section 6101(b
 
 ) of title 41.—Section 6101(b) to (d) of title 41 applies to a sale of property under subsection (a), except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property under section 545(d) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081; Pub. L. 111–350, §5(<i>l</i>)(8), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1081; Pub. L. 111–350, §5(l)(8), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -50,9 +50,9 @@ In subsection (b)(2), the words “the authority of” are omitted as unnecessar
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350, §5(<i>l</i>)(8)(A), substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350, §5(l)(8)(A), substituted “division B (except sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
 
-Subsec. (b)(3). Pub. L. 111–350, §5(<i>l</i>)(8)(B), substituted “
+Subsec. (b)(3). Pub. L. 111–350, §5(l)(8)(B), substituted “
 
 Section 6101(b
 

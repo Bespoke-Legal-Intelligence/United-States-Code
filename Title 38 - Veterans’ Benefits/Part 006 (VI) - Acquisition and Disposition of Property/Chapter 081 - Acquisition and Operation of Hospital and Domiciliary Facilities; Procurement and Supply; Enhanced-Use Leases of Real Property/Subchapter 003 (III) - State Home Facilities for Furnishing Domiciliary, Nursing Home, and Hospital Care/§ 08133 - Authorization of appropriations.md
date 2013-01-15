@@ -20,7 +20,7 @@ Pub. L. 101–110 substituted “1990” for “1989”.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576 amended first sentence generally. Prior to amendment, first sentence read as follows: “There is hereby authorized to be appropriated $15,000,000 for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years.”
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–251 substituted “for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years” for “for the fiscal year ending September 30, 1978, a like sum for each of the two succeeding fiscal years, and such sums as may be necessary for the fiscal years ending September 30, 1981, and September 30, 1982”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–251 substituted “for fiscal year 1980 and such sums as may be necessary for fiscal year 1981 and for each of the five succeeding fiscal years” for “for the fiscal year ending September 30, 1978, a like sum for each of the two succeeding fiscalyears, and such sums as may be necessary for the fiscal years ending September 30, 1981, and September 30, 1982”.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–151 inserted provisions extending authorization of a like sum from one to two years, and provisions authorizing to be appropriated such sums as necessary for the fiscal years ending Sept. 30, 1981, and Sept. 30, 1982.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 95–62 substituted “shall remain available until expende
 
 #### Effective Date of 1989 Amendment
 
-Section 3(a) of Pub. L. 101–110 provided that: “The provisions of and amendments made by this Act \[amending this section and enacting provisions set out as notes under sections 1712, 1720B, and 3729 of this title and under section 6302 of Title 5, Government Organization and Employees\] shall take effect as of October 1, 1989.”
+Pub. L. 101–110, §3(a), Oct. 6, 1989, 103 Stat. 682, provided that: “The provisions of and amendments made by this Act \[amending this section and enacting provisions set out as notes under sections 1712, 1720B, and 3729 of this title and under section 6302 of Title 5, Government Organization and Employees\] shall take effect as of October 1, 1989.”
 
 #### Effective Date of 1986 Amendment
 

@@ -40,7 +40,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Section 6(c) of Pub. L. 99–336 provided that: “The amendments made by this section \[amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title\] shall take effect on the date of the enactment of this Act \[June 19, 1986\].”
+Pub. L. 99–336, §6(c), June 19, 1986, 100 Stat. 639, provided that: “The amendments made by this section \[amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title\] shall take effect on the date of the enactment of this Act \[June 19, 1986\].”
 
 #### Effective Date of 1984 Amendment
 

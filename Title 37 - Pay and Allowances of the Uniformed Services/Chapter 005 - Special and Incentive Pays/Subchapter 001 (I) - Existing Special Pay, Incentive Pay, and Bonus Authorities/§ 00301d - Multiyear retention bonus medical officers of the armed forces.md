@@ -28,7 +28,7 @@ Repayment.—An officer who does not complete the period of active duty specifie
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–181 substituted “$75,000” for “$50,000”.
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–163 amended heading and text of subsec. (c) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 amended heading and text of subsec. (c) generally, substituting provisions referring to repayment provisions of section303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
 
@@ -64,7 +64,7 @@ Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of s
 
 Savings Provision.—(1) A medical officer of the Armed Forces who is a flag or general officer and has received any payment of a bonus under section 301d of title 37, United States Code, before the date of the enactment of this Act \[Dec. 5, 1991\] may not be required to reimburse the United States for such payment by reason of the enactment of subsection (a).
 
-“(2) A written agreement referred to in section 301d of title 37, United States Code, that was entered into on or after April 10, 1991, and before the date of the enactment of this Act \[Dec. 5, 1991\] by a medical officer of the Armed Forces referred to in paragraph (1) in exchange for a payment (or a promise of payment) of abonus under that section shall be terminated as of the later of—
+“(2) A written agreement referred to in section 301d of title 37, United States Code, that was entered into on or after April 10, 1991, and before the date of the enactment of this Act \[Dec. 5, 1991\] by a medical officer of the Armed Forces referred to in paragraph (1) in exchange for a payment (or a promise of payment) of a bonus under that section shall be terminated as of the later of—
 
 &emsp;“(A) the end of the month following the month in which this Act is enacted; or
 
@@ -74,7 +74,7 @@ Pub. L. 102–172, title VIII, §8084, Nov. 26, 1991, 105 Stat. 1192, provided t
 
 #### Termination of Existing Retention Bonus Agreement
 
-Section 611(b) of Pub. L. 101–510 provided that:
+Pub. L. 101–510, div. A, title VI, §611(b), Nov. 5, 1990, 104 Stat. 1576, provided that:
 
 “(1) Subject to the approval of the Secretary of the military department concerned, a medical officer who is eligible to enter into a retention bonus agreement under section 301d of title 37, United States Code (as added by subsection (a)) may terminate any existing retention bonus agreement entered into by that officer under \[section\] 612 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (37 U.S.C. 302 note), in order to enter into an agreement under section 301d of such title containing an active-duty service obligation that is not less than the active-duty service obligation remaining under the existing agreement on the date of its termination.
 

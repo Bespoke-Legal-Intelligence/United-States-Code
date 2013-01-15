@@ -92,7 +92,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1411(a)(3), designated existing provisions 
 
 #### Effective Date of 1988 Amendment
 
-Section 1411(c) of Pub. L. 100–418 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 \[19 U.S.C. 2436(a)\] on or after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title I, §1411(c), Aug. 23, 1988, 102 Stat. 1242, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 \[19 U.S.C. 2436(a)\] on or after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

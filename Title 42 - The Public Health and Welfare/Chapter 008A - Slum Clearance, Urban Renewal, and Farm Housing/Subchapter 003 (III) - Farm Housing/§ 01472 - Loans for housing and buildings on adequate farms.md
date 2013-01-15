@@ -40,7 +40,7 @@ The instruments under which the loan is made and the security given shall—
 
 (1)(A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
 
-&emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made orinsured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
+&emsp;(i) fifteen years from the date on which the loan was made in the case of a loan made or insured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or section 1437f of this title; or
 
 &emsp;(ii) twenty years from the date on which the loan was made in the case of any other such loan;
 
@@ -218,7 +218,7 @@ On and after November 30, 1983—
 
 &emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufactured home or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
 
-&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and CommunityDevelopment Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
+&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
 
 (3) A loan that may be made or insured under this section with respect to a manufactured home on a permanent foundation, or a manufactured home on a permanent foundation and a lot, shall be repayable over the same period as would be applicable under section 203(b) of the National Housing Act \[12 U.S.C. 1709(b)\].
 
@@ -226,7 +226,7 @@ On and after November 30, 1983—
 
 #### (1) Loan supplements
 
-&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted or Indian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
+&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted orIndian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
 
 #### (2) Prohibition
 
@@ -362,7 +362,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that theSecretary has determined to be in the best interests of the appropriate guaranty fund.
 
 #### (C) Payment of guaranty
 
@@ -436,7 +436,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303.)
 
 #### References in Text
 
@@ -446,7 +446,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)
 
 The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949, ch. 338, which is classified to this section.
+Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949, ch. 338, 63 Stat. 433, which is classified to this section.
 
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
@@ -494,7 +494,7 @@ Subsec. (c)(4)(B)(iii). Pub. L. 105–276, §599C(e)(2)(A)(iii), was executed by
 
 Subsec. (c)(4)(B)(v). Pub. L. 105–276, §599C(e)(2)(A)(iv), inserted before period at end “, or current tenants of projects not assisted under section 1490a(a)(5) of this title”.
 
-Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after “1490a(a)(2)(A) of this title” and inserted “or any assistance payments received under section 1490a(a)(5) of this title,” before “with respect”.
+Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after “1490a(a)(2)(A) of this title” and inserted “or any assistance payments receivedunder section 1490a(a)(5) of this title,” before “with respect”.
 
 Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before period at end “or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section”.
 
@@ -582,15 +582,15 @@ Pub. L. 105–276, title V, §599C(g), Oct. 21, 1998, 112 Stat. 2663, provided t
 
 #### Effective Date of 1984 Amendment
 
-Section 105(b)(2) of Pub. L. 98–479 provided that: “Notwithstanding any other provision of law, the provisions of section 502(d) of the Housing Act of 1949 \[subsec. (d) of this section\], as amended by paragraph (1), shall apply with respect to fiscal year 1985 and thereafter, and the provisions of such section, as so amended, may not be changed or superseded except by another provision of law which amends such section.”
+Pub. L. 98–479, title I, §105(b)(2), Oct. 17, 1984, 98 Stat. 2226, provided that: “Notwithstanding any other provision of law, the provisions of section 502(d) of the Housing Act of 1949 \[subsec. (d) of this section\], as amended by paragraph (1), shall apply with respect to fiscal year 1985 and thereafter, and the provisions of such section, as so amended, may not be changed or superseded except by another provision of law which amends such section.”
 
 #### Regulations
 
-Section 704(b) of Pub. L. 101–625 provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 101–625, title VII, §704(b), Nov. 28, 1990, 104 Stat. 4283, provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\].”
 
-Section 705(b) of Pub. L. 101–625 provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 101–625, title VII, §705(b), Nov. 28, 1990, 104 Stat. 4283, provided that: “Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\].”
 
-Section 706(d) of Pub. L. 101–625 provided that:
+Pub. L. 101–625, title VII, §706(d), Nov. 28, 1990, 104 Stat. 4286, provided that:
 
 “(1)
 
@@ -650,7 +650,7 @@ Pub. L. 108–285, §3(a), Aug. 2, 2004, 118 Stat. 917, provided that: “The Co
 
 #### Maximum Level for Rural Single Family Housing Assistance
 
-Pub. L. 108–447, div. A, title VII, §765, Dec. 8, 2004, 118 Stat. 2847, provided that: “Notwithstanding any otherprovision of law, for any fiscal year and hereafter, in the case of a high cost isolated rural area in Alaska that is not connected to a road system, the maximum level for the single family housing assistance shall be 150 percent of the average income level in the metropolitan areas of the State and 115 percent of all other eligible areas of the State.”
+Pub. L. 108–447, div. A, title VII, §765, Dec. 8, 2004, 118 Stat. 2847, provided that: “Notwithstanding any other provision of law, for any fiscal year and hereafter, in the case of a high cost isolated rural area in Alaska that is not connected to a road system, the maximum level for the single family housing assistance shall be 150 percent of the average income level in the metropolitan areas of the State and 115 percent of all other eligible areas of the State.”
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -668,7 +668,7 @@ Pub. L. 106–387, §1(a) \[title VII, §751\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 #### Rural Housing Loan Guarantees; Findings and Purpose
 
-Section 706(a) of Pub. L. 101–625 provided that:
+Pub. L. 101–625, title VII, §706(a), Nov. 28, 1990, 104 Stat. 4284, provided that:
 
 “(1)
 
@@ -684,7 +684,7 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Section 304 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
@@ -694,11 +694,11 @@ Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1
 
 #### Study and Report of Comparison of Construction Costs and Energy Savings Between Manufactured Homes Built Under National Manufactured Housing Safety Standards and Other Homes
 
-Section 503(b) of Pub. L. 98–181 provided that: “Within 18 months from the issuance by the Secretary of Agriculture of regulations under section 502(e)(2) of the Housing Act of 1949 \[subsec. (e)(2) of this section\], the Secretary of Energy, in consultation with the Secretary of Housing and Urban Development and the Secretary of Agriculture, shall conduct a study and transmit to the Congress a report that compares the increased construction costs, actual annual energy use, and the projected value of energy saved over the expected life of the home or the mortgage term, whichever is shorter, of manufactured homes which are financed under titles I and II of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq.\], or under title V of the Housing Act of 1949 \[this subchapter\] and which are built according to national manufactured housing safety standards with other homes insured under either such Act.”
+Pub. L. 98–181, title I \[title V, §503(b)\], Nov. 30, 1983, 97 Stat. 1241, provided that: “Within 18 months from the issuance by the Secretary of Agriculture of regulations under section 502(e)(2) of the Housing Act of 1949 \[subsec. (e)(2) of this section\], the Secretary of Energy, in consultation with the Secretary of Housing and Urban Development and the Secretary of Agriculture, shall conduct a study and transmit to the Congress a report that compares the increased construction costs, actual annual energy use, and the projected value of energy saved over the expected life of the home or the mortgage term, whichever is shorter, of manufactured homes which are financed under titles I and II of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq.\], or under title V of the Housing Act of 1949 \[this subchapter\] and which are built according to national manufactured housing safety standards with other homes insured under either such Act.”
 
 #### Study and Report to Congress of Adverse Effects on Housing of Prepayment of Loans
 
-Section 514(b) of Pub. L. 96–399 required Secretary of Agriculture to conduct a study of, and report to Congress not later than 6 months after Oct. 8, 1980, on any adverse effects the amendments made by subsection (a) \[amending this section\] may have on housing, particularly for the elderly and persons of low income.
+Pub. L. 96–399, title V, §514(b), Oct. 8, 1980, 94 Stat. 1672, required Secretary of Agriculture to conduct a study of, and report to Congress not later than 6 months after Oct. 8, 1980, on any adverse effects the amendments made by subsection (a) \[amending this section\] may have on housing, particularly for the elderly and persons of low income.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

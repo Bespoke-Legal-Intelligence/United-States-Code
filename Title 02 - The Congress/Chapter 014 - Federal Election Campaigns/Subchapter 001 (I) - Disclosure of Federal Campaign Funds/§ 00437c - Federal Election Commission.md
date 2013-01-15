@@ -32,7 +32,7 @@
 
 #### (c) Voting requirements; delegation of authorities
 
-All decisions of the Commission with respect to the exercise of its duties and powers under the provisions of this Act shall be made by a majority vote of the members of the Commission. A member of the Commission may notdelegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.
+All decisions of the Commission with respect to the exercise of its duties and powers under the provisions of this Act shall be made by a majority vote of the members of the Commission. A member of the Commission may not delegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.
 
 #### (d) Meetings
 
@@ -50,7 +50,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 (3) In carrying out its responsibilities under this Act, the Commission shall, to the fullest extent practicable, avail itself of the assistance, including personnel and facilities of other agencies and departments of the United States. The heads of such agencies and departments may make available to the Commission such personnel, facilities, and other assistance, with or without reimbursement, as the Commission may request.
 
-(4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
+(4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation itmay fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
 
 (Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amended Pub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–61, title V, §512(a), Oct. 10, 1997, 111 Stat. 1305.)
 
@@ -92,7 +92,7 @@ Subsec. (f)(1). Pub. L. 94–283, §101(d), provided that the appointment and th
 
 #### Effective Date of 1997 Amendment
 
-Section 512(b) of Pub. L. 105–61, as amended by Pub. L. 105–119, title VI, §631, Nov. 26, 1997, 111 Stat. 2523, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals nominated by the President to be members of the Federal Election Commission after December 31, 1997 unless the President announced his intent to nominate the individual prior to November 30, 1997.”
+Pub. L. 105–61, title V, §512(b), Oct. 10, 1997, 111 Stat. 1305, as amended by Pub. L. 105–119, title VI, §631, Nov. 26, 1997, 111 Stat. 2523, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals nominated by the President to be members of the Federal Election Commission after December 31, 1997 unless the President announced his intent to nominate the individual prior to November 30, 1997.”
 
 #### Effective Date of 1980 Amendment
 
@@ -104,9 +104,9 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Operation of Federal Election Commission After 1976 Amendment of Federal Election Campaign Act; Appointment of Commission Members; Transfer of Personnel, Liabilities, Contracts, Property, and Records, of Commission; References to Commission Prior to Amendment Deemed References to Commission as Constituted After 1976 Amendment of Federal Election Campaign Act
 
-Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
+Pub. L. 94–283, title I, §101(e)–(g), May 11, 1976, 90 Stat. 476, 477, provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 
-Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of the members and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
+Pub. L. 93–443, title II, §208(b), Oct. 15, 1974, 88 Stat. 1286, provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of the members and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
 

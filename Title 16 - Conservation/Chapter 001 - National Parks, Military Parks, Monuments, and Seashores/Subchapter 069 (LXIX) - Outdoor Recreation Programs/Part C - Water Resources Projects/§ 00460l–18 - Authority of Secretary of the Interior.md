@@ -2,7 +2,7 @@
 
 #### (a) Provision of facilities, acquisition of lands, and provision for public use and enjoyment of project lands, facilities, and water areas in coordination with other project purposes; execution of agreements before providing lands, facilities, and project modifications
 
-The Secretary is authorized, in conjunction with any reservoir heretofore constructed by him pursuant to the Federal reclamation laws or any reservoir which is otherwise under his control, except reservoirs within national wildlife refuges, to investigate, plan, construct, operate and maintain, or otherwise provide for public outdoor recreation and fish and wildlife enhancement facilities, to acquire or otherwise make available such adjacent lands or interests therein as are necessary for public outdoor recreation or fish and wildlife use, and to provide for public use and enjoyment of project lands, facilities, and water areas in a manner coordinated with the other project purposes. Lands, facilities and project modifications for the purposes of this subsection may be provided only after an agreement in accordance with subsection (b) or (c) of section 460<i>l</i>–14 of this title has been executed.
+The Secretary is authorized, in conjunction with any reservoir heretofore constructed by him pursuant to the Federal reclamation laws or any reservoir which is otherwise under his control, except reservoirs within national wildlife refuges, to investigate, plan, construct, operate and maintain, or otherwise provide for public outdoor recreation and fish and wildlife enhancement facilities, to acquire or otherwise make available such adjacent lands or interests therein as are necessary for public outdoor recreation or fish and wildlife use, and to provide for public use and enjoyment of project lands, facilities, and water areas in a manner coordinated with the other project purposes. Lands, facilities and project modifications for the purposes of this subsection may be provided only after an agreement in accordance with subsection (b) or (c) of section 460l–14 of this title has been executed.
 
 #### (b) Agreements with government agencies to promote development and operation of lands or facilities for recreation and fish and wildlife enhancement purposes
 
@@ -16,7 +16,7 @@ No lands under the jurisdiction of any other Federal agency may be included for 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–575, §2804(e)(2), substituted “subsection (b) or (c) of section 460<i>l</i>–14” for “subsection 460<i>l</i>–14(b)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–575, §2804(e)(2), substituted “subsection (b) or (c) of section 460l–14” for “subsection 460l–14(b)”.
 
 Pub. L. 102–575, §2804(e)(1), which directed amendment of subsec. (a) by striking “purposes: <i>Provided</i>,” and all that follows through end of sentence and inserting “purposes”, could not be executed because the words “purposes: <i>Provided</i>,” did not appear subsequent to amendment by Pub. L. 102–377. See below.
 

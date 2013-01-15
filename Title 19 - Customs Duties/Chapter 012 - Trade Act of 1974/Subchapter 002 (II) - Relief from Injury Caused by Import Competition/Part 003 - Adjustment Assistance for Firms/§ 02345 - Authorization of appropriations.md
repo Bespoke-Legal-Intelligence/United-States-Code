@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Secretary to carry out the provisions of this part $16,000,000 for each of the fiscal years 2012 and 2013, and $4,000,000 for the 3-month periodbeginning on October 1, 2013, and ending on December 31, 2013. Amounts appropriated pursuant to this subsection shall remain available until expended.
+There are authorized to be appropriated to the Secretary to carry out the provisions of this part $16,000,000 for each of the fiscal years 2012 and 2013, and $4,000,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013. Amounts appropriated pursuant to this subsection shall remain available until expended.
 
 #### (b) Personnel
 

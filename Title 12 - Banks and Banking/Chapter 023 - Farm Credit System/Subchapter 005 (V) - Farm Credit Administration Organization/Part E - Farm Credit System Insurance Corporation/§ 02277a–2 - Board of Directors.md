@@ -26,7 +26,7 @@ Chairman.—The Board of Directors shall be chaired by any Board member other th
 
 #### Effective Date of 1992 Amendment; Transition Provision
 
-Section 201(c) of Pub. L. 102–552 provided that:
+Pub. L. 102–552, title II, §201(c), Oct. 28, 1992, 106 Stat. 4105, provided that:
 
 “(1)
 
@@ -34,5 +34,5 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Transitional provision.—The Board of Directors of the Farm Credit System Insurance Corporation as established by section 5.53 of the Farm Credit Act of 1971 (12 U.S.C. 2277a–2) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section).”
+Transitional provision.—The Board of Directors of the Farm Credit System Insurance Corporation as established by section 5.53 of the Farm Credit Act of1971 (12 U.S.C. 2277a–2) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section).”
 

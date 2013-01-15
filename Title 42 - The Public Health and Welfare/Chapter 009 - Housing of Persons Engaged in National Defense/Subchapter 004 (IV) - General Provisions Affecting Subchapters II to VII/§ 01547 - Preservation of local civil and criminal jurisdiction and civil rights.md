@@ -10,7 +10,7 @@ Subchapters III and VI of this chapter, referred to in text, were comprised of s
 
 #### Codification
 
-Words “including any Territory or possession of the United States” were inserted upon authority of section 4(b) of act June 28, 1941, which provided that when used in this section the term “ ‘State’ includes any Territory or possession of the United States”.
+Words “including any Territory or possession of the United States” were inserted upon authority of act June 28, 1941, ch. 260, §4(b), 55 Stat. 363, which provided that when used in this section the term “ ‘State’ includes any Territory or possession of the United States”.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ This amendatory section omits as surplusage all provisions of said section 24 ex
 
 The proviso of such section 24 is omitted as unnecessary since the provision conferring jurisdiction cannot in any view alter the relationship of the Government with its Indians.
 
-The omitted language is as follows: “In any suit brought under the jurisdiction conferred by this section the claimant shall be entitled to recover in the same manner, to the same extent, and subject to the same conditions and limitations, and the United States shall be entitled to the same defenses, both at law and in equity, and to the same offsets, counterclaims, and demands, as in cases brought in the Court of Claims under section 250 of this title: <i>Provided, however</i>, Thatnothing contained in this section shall be construed as altering the fiduciary or other relations between the United States and the several Indian tribes, bands, or groups.”
+The omitted language is as follows: “In any suit brought under the jurisdiction conferred by this section the claimant shall be entitled to recover in the same manner, to the same extent, and subject to the same conditions and limitations, and the United States shall be entitled to the same defenses, both at law and in equity, and to the same offsets, counterclaims, and demands, as in cases brought in the Court of Claims under section 250 of this title: <i>Provided, however</i>, That nothing contained in this section shall be construed as altering the fiduciary or other relations between the United States and the several Indian tribes, bands, or groups.”
 
 #### Amendments
 

@@ -32,7 +32,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
-&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
+&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryoversunder section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
 &emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the “pre-acquisition part year” and the “post-acquisition part year”);
 
@@ -248,13 +248,13 @@ Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
 Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation”for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 <b>1968</b>—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
 <b>1964</b>—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
 
-Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
+Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shallbe treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
 <b>1962</b>—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -336,13 +336,13 @@ Amendment by section 1901(a)(54), (b)(16), (17), (21)(B), (33)(N) of Pub. L. 94�
 
 #### Effective Date of 1971 Amendment
 
-Section 601(f) of Pub. L. 92–178 provided that: “The amendments made by this section \[enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 92–178, title VI, §601(f), Dec. 10, 1971, 85 Stat. 560, provided that: “The amendments made by this section \[enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title\] shall apply to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1969 Amendment
 
 Amendment by section 504(c)(2) of Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d)(1) of Pub. L. 91–172, set out as a note under section 243 of this title.
 
-Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 Amendment by section 521(f) of Pub. L. 91–172 applicable with respect to taxable years ending after July 24, 1969, see section 521(g) of Pub. L. 91–172, set out as a note under section 167 of this title.
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 90–240 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 225(i)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272 set out as a note under section 316 of this title.
+Amendment by section 225(i)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272 set out as a note under section 316 of this title.
 
 Amendment by section 209(d)(2) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, with respect to contributions paid or treated as paid under section 170(a)(2) of this title, in taxable years beginning after Dec. 31, 1961, see section 209(f)(2) of Pub. L. 88–272, set out as a note under section 170 of this title.
 
@@ -362,7 +362,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years ending af
 
 #### Effective Date of 1959 Amendment
 
-Section 4 of Pub. L. 86–69 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, part I (§801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 86–69, §4, June 25, 1959, 73 Stat. 141, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, part I (§801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
 
 #### Effective Date of 1958 Amendment
 
@@ -370,17 +370,17 @@ For effective date of amendment by Pub. L. 85–866, see section 29(d) of Pub. L
 
 #### Effective Date of 1956 Amendment
 
-Section 2 of act Jan. 28, 1956, provided that: “The amendments made by the first section of this Act \[amending this section\] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act Jan. 28, 1956, ch. 15, §2, 70 Stat. 7, provided that: “The amendments made by the first section of this Act \[amending this section\] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Effective Date of 1955 Amendment
 
-Section 3 of act June 15, 1955, provided that: “The amendments made by this Act \[amending this section and repealing sections 452 and 462 of this title\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act June 15, 1955, ch. 143, §3, 69 Stat. 135, provided that: “The amendments made by this Act \[amending this section and repealing sections 452 and 462 of this title\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Section 4 of act June 15, 1955, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided:
+Act June 15, 1955, ch. 143, §4, 69 Stat. 135, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided:
 
 “(a)
 
@@ -404,7 +404,7 @@ Treatment as amount shown on return.—The amount shown on a statement filed und
 
 &emsp;“(3)
 
-Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of theTreasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
+Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of the Treasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
 
 “(c)
 

@@ -40,7 +40,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;&emsp;(ii) serve to mitigate the adverse impacts caused by coastal population growth in the coastal environment.
 
-&emsp;(8) In developing guidelines under this section, the Secretary shall consult with coastal states, other Federal agencies, and other interested stakeholders with expertise in land acquisition and conservation procedures.
+&emsp;(8) In developing guidelines under this section, the Secretary shall consult with coastalstates, other Federal agencies, and other interested stakeholders with expertise in land acquisition and conservation procedures.
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
@@ -48,7 +48,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 #### (d) Limitations and private property protections
 
-(1) A grant awarded under this section may be used to purchase land or an interest in land, including an easement, only from a willing seller. Any such purchase shall not be the result of aforced taking under this section. Nothing in this section requires a private property owner to participate in the program under this section.
+(1) A grant awarded under this section may be used to purchase land or an interest in land, including an easement, only from a willing seller. Any such purchase shall not be the result of a forced taking under this section. Nothing in this section requires a private property owner to participate in the program under this section.
 
 (2) Any interest in land, including any easement, acquired with a grant under this section shall not be considered to create any new liability, or have any effect on liability under any other law, of any private property owner with respect to any person injured on the private property.
 
@@ -110,7 +110,7 @@ If any property is acquired in whole or in part with funds made available throug
 
 &emsp;&emsp;(A) the title to the property will be held by the grant recipient or another appropriate public agency designated by the recipient in perpetuity;
 
-&emsp;&emsp;(B) the property will be managed in a manner that is consistent with the purposes for which the land entered into the program and shall not convert such property to other uses; and
+&emsp;&emsp;(B) the property will be managed in a manner that is consistent with the purposes forwhich the land entered into the program and shall not convert such property to other uses; and
 
 &emsp;&emsp;(C) if the property or interest in land is sold, exchanged, or divested, funds equal to the current value will be returned to the Secretary in accordance with applicable Federal law for redistribution in the grant process; and
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;The term “interest in property” includes a conservation easement.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
 

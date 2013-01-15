@@ -2,7 +2,7 @@
 
 #### (a) Notice to protect public; form and contents
 
-If any article or substance sold in commerce is defined as a banned hazardous substance (whether or not it was such at the time of its sale) and the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing) that notification is required to adequately protect the public from such article or substance, the Commission may order the manufacturer or any distributor or dealer or the article or substance to take any one or more of the following actions:
+If any article or substance sold in commerce is defined as a banned hazardous substance (whether or not it was such at the time of its sale) and the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing) that notification is required to adequately protect the public from such article or substance, the Commission may order the manufacturer or any distributor or dealer of the article or substance to take any one or more of the following actions:
 
 &emsp;(1) To give public notice that the article or substance is a banned hazardous substance.
 
@@ -50,17 +50,17 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 &emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
 
-> An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specify which person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
+> An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specifywhich person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
 
 #### (d) Charge for remedy; reimbursement for expenses
 
-(1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy providedunder an order issued under subsection (b) or (c) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
+(1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy provided under an order issued under subsection (b) or (c) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
 
 (2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person's expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
 
 #### (e) Hearing; representative of class
 
-An order under subsection (a), (b), or (c) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class or participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
+An order under subsection (a), (b), or (c) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5, except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
 
 #### (f) “Manufacturer” defined
 
@@ -70,7 +70,7 @@ For purposes of this section (1) the term “manufacturer” includes an importe
 
 Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
-(Pub. L. 86–613, §15, as added Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, §1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, §9(<i>l</i>), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, §2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, §1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §111(b), Nov. 16, 1990, 104 Stat. 3114; Pub. L. 110–314, title II, §204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
+(Pub. L. 86–613, §15, as added Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, §1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, §9(l), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, §2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, §1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §111(b), Nov. 16, 1990, 104 Stat. 3114; Pub. L. 110–314, title II, §204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### References in Text
 

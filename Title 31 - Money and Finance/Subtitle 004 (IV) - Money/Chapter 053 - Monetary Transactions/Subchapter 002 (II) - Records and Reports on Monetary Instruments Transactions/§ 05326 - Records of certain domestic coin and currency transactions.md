@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitleand prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
+In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
 &emsp;(1) to obtain such information as the Secretary may describe in such order concerning—
 
@@ -20,7 +20,7 @@ Authority To Order Depository Institutions To Obtain Reports From Customers.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
+In general.—The Secretary of the Treasury may, by regulation or order, require anydepository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
 
 &emsp;&emsp;(A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
 

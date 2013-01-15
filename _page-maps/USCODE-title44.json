@@ -1,20 +1,20 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title44",
- "package": "USCODE-2011-title44",
+ "package": "USCODE-2012-title44",
  "pieces": [
   {
    "id": "44_",
    "marks": [
     [
      "L",
-     3,
+     1,
      "[Page 1]",
      true
     ],
     [
      "I",
-     331,
+     329,
      [
       [
        4,
@@ -24,7 +24,7 @@
     ],
     [
      "I",
-     1123,
+     1121,
      [
       [
        4,
@@ -1099,7 +1099,7 @@
      2,
      [
       [
-       1244,
+       1196,
        "[Page 31]"
       ]
      ]
@@ -2171,30 +2171,26 @@
   },
   {
    "id": "44_1713",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 53]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01713 - Documents to be delivered to the Executive Mansion.md",
    "printed_pages": [
     52,
-    52
+    53
    ]
   },
   {
    "id": "44_1714",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 53]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01714 - Publications for use of National Archives and Records Administration.md",
    "printed_pages": [
-    52,
+    53,
     53
    ]
   },
@@ -2229,10 +2225,14 @@
    "id": "44_1718",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 54]",
-     true
+     "I",
+     36,
+     [
+      [
+       107,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Distribution and Sale of Public Documents/§ 01718 - Distribution of Government publications to the Library of Congress.md",
@@ -2511,7 +2511,7 @@
      26,
      [
       [
-       547,
+       440,
        "[Page 60]"
       ]
      ]
@@ -2521,7 +2521,7 @@
      72,
      [
       [
-       154,
+       103,
        "[Page 61]"
       ]
      ]
@@ -4550,21 +4550,17 @@
    "id": "44_3602",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       176,
-       "[Page 155]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 155]",
+     true
     ],
     [
      "I",
-     116,
+     84,
      [
       [
-       435,
+       101,
        "[Page 156]"
       ]
      ]
@@ -4578,11 +4574,22 @@
   },
   {
    "id": "44_3603",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       127,
+       "[Page 157]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03603 - Chief Information Officers Council.md",
    "printed_pages": [
     156,
-    156
+    157
    ]
   },
   {
@@ -4590,30 +4597,35 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 157]",
-     true
-    ],
-    [
-     "L",
-     104,
+     48,
      "[Page 158]",
      true
     ]
    ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03604 - E-Government Fund.md",
    "printed_pages": [
-    156,
+    157,
     158
    ]
   },
   {
    "id": "44_3605",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       227,
+       "[Page 159]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03605 - Program to encourage innovative solutions to enhance electronic Government services and processes.md",
    "printed_pages": [
     158,
-    158
+    159
    ]
   },
   {
@@ -4621,8 +4633,8 @@
    "marks": [],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03606 - E-Government report.md",
    "printed_pages": [
-    158,
-    158
+    159,
+    159
    ]
   },
   {
@@ -4630,8 +4642,8 @@
    "marks": [],
    "path": "Chapter 037 - Advertisements by Government Agencies/README.md",
    "printed_pages": [
-    158,
-    158
+    159,
+    159
    ]
   },
   {
@@ -4639,27 +4651,16 @@
    "marks": [],
    "path": "Chapter 037 - Advertisements by Government Agencies/§ 03701 - Advertisements for contracts in District of Columbia.md",
    "printed_pages": [
-    158,
-    158
+    159,
+    159
    ]
   },
   {
    "id": "44_3702",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 159]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 037 - Advertisements by Government Agencies/§ 03702 - Advertisements not to be published without written authority.md",
    "printed_pages": [
-    158,
+    159,
     159
    ]
   },
@@ -4683,11 +4684,18 @@
   },
   {
    "id": "44_3901",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 160]",
+     true
+    ]
+   ],
    "path": "Chapter 039 - Government Printing Office Office of Inspector General/§ 03901 - Purpose and establishment of the Office of Inspector General.md",
    "printed_pages": [
     159,
-    159
+    160
    ]
   },
   {
@@ -4695,27 +4703,16 @@
    "marks": [],
    "path": "Chapter 039 - Government Printing Office Office of Inspector General/§ 03902 - Appointment of Inspector General; supervision; removal.md",
    "printed_pages": [
-    159,
-    159
+    160,
+    160
    ]
   },
   {
    "id": "44_3903",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       99,
-       "[Page 160]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 039 - Government Printing Office Office of Inspector General/§ 03903 - Duties, responsibilities, authority, and reports.md",
    "printed_pages": [
-    159,
+    160,
     160
    ]
   },
@@ -4730,11 +4727,18 @@
   },
   {
    "id": "44_4101",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 161]",
+     true
+    ]
+   ],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04101 - Electronic directory; online access to publications; electronic storage facility.md",
    "printed_pages": [
     160,
-    160
+    161
    ]
   },
   {
@@ -4742,8 +4746,8 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04102 - Fees.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   },
   {
@@ -4751,8 +4755,8 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04103 - Biennial report.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   },
   {
@@ -4760,11 +4764,11 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04104 - Definition.md",
    "printed_pages": [
-    160,
-    160
+    161,
+    161
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2011-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2012-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 44 - Public Printing and Documents"
 }

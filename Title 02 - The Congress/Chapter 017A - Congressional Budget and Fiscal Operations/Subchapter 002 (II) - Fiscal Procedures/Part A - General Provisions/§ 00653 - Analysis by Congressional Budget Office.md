@@ -54,7 +54,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Effective Date of 1981 Amendment
 
-Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
+Pub. L. 97–108, §2(b), Dec. 23, 1981, 95 Stat. 1511, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
 
 #### Effective Date
 
@@ -62,9 +62,9 @@ Amendment by Pub. L. 93–344 effective on day on which first Director of Congre
 
 #### Authorization of Appropriations
 
-Section 3 of Pub. L. 97–108 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out this Act \[amending this section and enacting provisions set out as notes under this section and section 621 of this title\].”
+Pub. L. 97–108, §3, Dec. 23, 1981, 95 Stat. 1511, provided that: “There are authorized to be appropriated suchsums as may be necessary to carry out this Act \[amending this section and enacting provisions set out as notes under this section and section 621 of this title\].”
 
 #### Expiration of Authorization
 
-Section 4 of Pub. L. 97–108, which provided for expiration on Sept. 30, 1987, of authorization granted under Pub. L. 97–108, which amended this section and enacted provisions set out as notes under sections 621 and 653 of this title, was repealed by Pub. L. 100–119, title II, §204, Sept. 29, 1987, 101 Stat. 784.
+Pub. L. 97–108, §4, Dec. 23, 1981, 95 Stat. 1511, which provided for expiration on Sept. 30, 1987, of authorization granted under Pub. L. 97–108, which amended this section and enacted provisions set out as notes under sections 621 and 653 of this title, was repealed by Pub. L. 100–119, title II, §204, Sept. 29, 1987, 101 Stat. 784.
 

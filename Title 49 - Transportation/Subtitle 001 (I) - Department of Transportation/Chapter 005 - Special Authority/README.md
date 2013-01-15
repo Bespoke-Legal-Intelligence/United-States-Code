@@ -23,7 +23,12 @@
 | [522\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000522%20-%20Reporting%20and%20record%20keeping%20violations.md) | Reporting and record keeping violations. |
 | [523\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000523%20-%20Unlawful%20disclosure%20of%20information.md) | Unlawful disclosure of information. |
 | [524\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000524%20-%20Evasion%20of%20regulation%20of%20motor%20carriers.md) | Evasion of regulation of motor carriers. |
-| [525\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000525%20-%20Disobedience%20to%20subpenas.md) | Disobedience to subpenas. |
+| [525\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000525%20-%20Disobedience%20to%20subpoenas.md) | Disobedience to subpenas.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [526\.](Subchapter%20002%20%28II%29%20-%20Penalties/%C2%A7%2000526%20-%20General%20criminal%20penalty%20when%20specific%20penalty%20not%20provided.md) | General criminal penalty when specific penalty not provided. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +38,8 @@
 <b>1998</b>—Pub. L. 105–178, title IV, §4014(a)(2), June 9, 1998, 112 Stat. 411, added item 508.
 
 <b>1997</b>—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 112–141 without corresponding amendment of chapter analysis.</i>
 
 
 ---

@@ -20,5 +20,5 @@ Based on 44 U.S. Code, 1964 ed., §393(c) (June 30, 1949, ch. 288, title V, §50
 
 #### Effective Date of 1979 Amendment
 
-Section 2(a) of Pub. L. 96–98 provided that the amendment made by that section is effective Oct. 1, 1979.
+Pub. L. 96–98, §2(a), Nov. 1, 1979, 93 Stat. 731, provided that the amendment made by section 2(a) is effective Oct. 1, 1979.
 

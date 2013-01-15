@@ -20,7 +20,7 @@ With respect to the National Health Service Corps Loan Repayment Program establi
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
+For the purpose of carrying out this section, there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may benecessary for each of the fiscal years 1995 through 2002.
 
 #### (d) Availability of appropriations
 

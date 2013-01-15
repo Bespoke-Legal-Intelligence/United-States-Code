@@ -26,7 +26,7 @@
 
 &emsp;(H) implement such other recommendations as the Comptroller General determines to be necessary in order to promote compliance with procurement statutes and regulations.
 
-(2) If the head of the procuring activity responsible for a contract makes a finding undersection 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
+(2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
 (3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
@@ -66,15 +66,17 @@
 
 &emsp;&emsp;(iv) other action.
 
-(2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General.
+(2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General. The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, §327(c), Oct. 28, 2009, 123 Stat. 2255; Pub. L. 112–239, div. A, title VIII, §867, Jan. 2, 2013, 126 Stat. 1862.)
 
 #### References in Text
 
 Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classified to section 632(a) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e)(2). Pub. L. 112–239 inserted at end “The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.”
 
 <b>2009</b>—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
 
@@ -134,9 +136,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369,set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Prompt Payment of Costs Under Prior Law
 
-Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
+Pub. L. 103–355, title I, §1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
 

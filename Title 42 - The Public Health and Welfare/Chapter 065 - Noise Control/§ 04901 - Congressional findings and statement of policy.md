@@ -18,7 +18,7 @@ Pub. L. 95–609, §1, Nov. 8, 1978, 92 Stat. 3079, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 92–574 provided that: “This Act \[enacting this chapter, amending section 1431 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of former Title 49\] may be cited as the ‘Noise Control Act of 1972’.”
+Pub. L. 92–574, §1, Oct. 27, 1972, 86 Stat. 1234, provided that: “This Act \[enacting this chapter, amending section 1431 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of former Title 49\] may be cited as the ‘Noise Control Act of 1972’.”
 
 #### Federal Compliance With Pollution Control Standards
 

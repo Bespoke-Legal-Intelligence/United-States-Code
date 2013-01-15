@@ -2,7 +2,7 @@
 
 #### (a) Establishment of list of controlled items
 
-The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(<i>l</i>) of title 50, Appendix.
+The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(l) of title 50, Appendix.
 
 #### (b) Referral of license applications
 
@@ -90,7 +90,7 @@ Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that:
 
 #### Report on Missile Proliferation
 
-Section 1704 of Pub. L. 101–510 directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believemay be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
+Pub. L. 101–510, div. A, title XVII, §1704, Nov. 5, 1990, 104 Stat. 1749, directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
 
 #### Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities
 
@@ -100,7 +100,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i>. (a) <i>Chemical and Biological Weapons Proliferation</i>. The authority and duties vested in me by section 81 of the Arms Export Control Act, as amended (“AECA”) (22 U.S.C. 2798), and section 11C of the Export Administration Act of 1979, as amended (“EAA”) (50 U.S.C. App. 2410c), are delegated to the Secretary of State, except that:
 
-(1) The authority and duties vested in me to deny certain United States Government contracts, as provided in section 81(c)(1)(A) of the AECA and section 11C(c)(1)(A) of the EAA, pursuant to a determination made by the Secretary of State under section 81(a)(1) of the AECA or section 11C(a)(1) of the EAA, as well as the authority and duties vested in me to make the determinations provided for in section 81(c)(2) of the AECA and section 11C(c)(2) of the EAA are delegated to the Secretary of Defense. The Secretary of Defense shall notify the Secretary of the Treasury of determinations made pursuant to section 81(c)(2) of the AECA and section 11(c)(2) \[11C(c)(2)\] of the EAA.
+(1) The authority and duties vested in me to deny certain United States Government contracts, as providedin section 81(c)(1)(A) of the AECA and section 11C(c)(1)(A) of the EAA, pursuant to a determination made by the Secretary of State under section 81(a)(1) of the AECA or section 11C(a)(1) of the EAA, as well as the authority and duties vested in me to make the determinations provided for in section 81(c)(2) of the AECA and section 11C(c)(2) of the EAA are delegated to the Secretary of Defense. The Secretary of Defense shall notify the Secretary of the Treasury of determinations made pursuant to section 81(c)(2) of the AECA and section 11(c)(2) \[11C(c)(2)\] of the EAA.
 
 (2) The authority and duties vested in me to prohibit certain imports as provided in section 81(c)(1)(B) of the AECA and section 11C(c)(1)(B) of the EAA, pursuant to a determination made by the Secretary of State under section 81(a)(1) of the AECA or section 11C(a)(1) of the EAA, and the obligation to implement the exceptions provided in section 81(c)(2) of the AECA and section 11C(c)(2) of the EAA, insofar as the exceptions affect imports of goods into the United States, are delegated to the Secretary of the Treasury.
 
@@ -132,7 +132,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (c) <i>Reporting Requirements</i>. The authority and duties vested in me to make certain reports to the Congress as provided in section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[former 22 U.S.C. 2751 note\] and section 1364 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484, 106 Stat. 2561\] are delegated to the Secretary of State.
 
-(d) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, theDirector of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise prohibition authority delegated hereby.
+(d) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise prohibition authority delegated hereby.
 
 Sec. 3. <i>Arms Control in the Middle East</i>. The certification and reporting functions vested in me by sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[22 U.S.C. 2778 note\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
 

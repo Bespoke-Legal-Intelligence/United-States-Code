@@ -68,7 +68,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 (B) The Foundation may only make a conveyance or provide Federal funds under subparagraph (A) if—
 
-&emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
+&emsp;(i) the conveyance or provision is subject to terms and conditions that will ensure that thereal property will be administered for the long-term conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use; and
 
 &emsp;(ii) the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided of the proposed conveyance or provision of Federal funds, and the agency does not object in writing to the proposed conveyance or provision of Federal funds within 60 calendar days after the date of the notification.
 
@@ -132,7 +132,7 @@ Pub. L. 106–408, §203(c)(1), substituted “Directors of the Foundation” fo
 
 Subsec. (c)(6) to (11). Pub. L. 106–408, §204(b), added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
 
-Subsec. (e)(1)(B). Pub. L. 106–408, §204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
+Subsec. (e)(1)(B). Pub. L. 106–408, §204(c), added subpar. (B) and struck out former subpar. (B) which readas follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
 
 Subsec. (e)(3)(B)(ii). Pub. L. 106–408, §204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
 
@@ -186,7 +186,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 &emsp;&emsp;“(D) the occurrence of whale populations in offshore waters where undertaking research, monitoring, and conservation measures is difficult and costly;
 
-&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and AtmosphericAdministration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
+&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
 
 &emsp;“(B) the heads of other Federal agencies and the Marine Mammal Commission established under section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401) have related research and management activities under the Marine Mammal Protection Act of 1972 or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 

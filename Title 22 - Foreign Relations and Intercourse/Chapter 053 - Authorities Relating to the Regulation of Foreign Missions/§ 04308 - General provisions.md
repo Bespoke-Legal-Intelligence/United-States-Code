@@ -14,7 +14,7 @@ For purposes of administering this chapter—
 
 &emsp;(1) the Secretary may accept details and assignments of employees of Federal agencies to the Department of State on a reimbursable or nonreimbursable basis (with any such reimbursements to be credited to the appropriations made available for the salaries and expenses of officers and employees of the employing agency); and
 
-&emsp;(2) the Secretary may, to the extent necessary to obtain services without delay, exercise his authority to employ experts and consultants under section 3109 of title 5 withoutrequiring compliance with such otherwise applicable requirements for that employment as the Secretary may determine, except that such employment shall be terminated after 60 days if by that time those requirements are not complied with.
+&emsp;(2) the Secretary may, to the extent necessary to obtain services without delay, exercise his authority to employ experts and consultants under section 3109 of title 5 without requiring compliance with such otherwise applicable requirements for that employment as the Secretary may determine, except that such employment shall be terminated after 60 days if by that time those requirements are not complied with.
 
 #### (d) Contracts and subcontracts for supplies and services; advertisement; factors considered
 
@@ -44,17 +44,17 @@ Except as otherwise provided, any determination required under this chapter shal
 
 (3) Only amounts transferred or credited to the working capital fund established by section 2684 of this title may be used in carrying out the functions of the Secretary or the Director under this chapter.
 
-(Aug. 1, 1956, ch. 841, title II, §208, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 288; amended Pub. L. 103–236, title I, §162(<i>o</i>)(6), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, §208, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 288; amended Pub. L. 103–236, title I, §162(o)(6), Apr. 30, 1994, 108 Stat. 410.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–236, §162(<i>o</i>)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–236, §162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
 
-Subsec. (d). Pub. L. 103–236, §162(<i>o</i>)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
+Subsec. (d). Pub. L. 103–236, §162(o)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
 
-Subsecs. (e), (f). Pub. L. 103–236, §162(<i>o</i>)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
+Subsecs. (e), (f). Pub. L. 103–236, §162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
 
-Subsec. (h)(2). Pub. L. 103–236, §162(<i>o</i>)(6)(C), struck out “Director or the” after “received by the”.
+Subsec. (h)(2). Pub. L. 103–236, §162(o)(6)(C), struck out “Director or the” after “received by the”.
 
 #### Effective Date of 1994 Amendment
 

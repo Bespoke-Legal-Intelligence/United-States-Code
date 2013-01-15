@@ -30,15 +30,29 @@ In carrying out the Program, the Secretary shall—
 
 #### (e) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the Program $5,000,000 for each of fiscal years 2009 through 2012, to remain available until expended.
+#### (1) Fiscal years 2009 through 2012
 
-(Pub. L. 110–234, title X, §10202, May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10202, June 18, 2008, 122 Stat. 1664, 2104.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the Program $5,000,000 for each of fiscal years 2009 through 2012, to remain available until expended.
+
+#### (2) Fiscal year 2013
+
+&emsp;There is authorized to be appropriated to carry out the Program $5,000,000 for fiscal year 2013.
+
+(Pub. L. 110–234, title X, §10202, May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10202, June 18, 2008, 122 Stat. 1664, 2104; Pub. L. 112–240, title VII, §701(g)(2), Jan. 2, 2013, 126 Stat. 2366.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Plant Protection Act which comprises this chapter.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–240 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
 #### Effective Date
 

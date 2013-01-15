@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(i) service rendered as an employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Allotment Act or of a committee or association of producers described in section 10(b) of the Agricultural Adjustment Act; and
 
-&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employeemoves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
 (b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
 
@@ -86,7 +86,7 @@
 
 (5) No authority under paragraph (1) may be exercised after September 30, 2014.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1103\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311; Pub. L. 109–163, div. A, title XI, §1102, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–417, \[div. A\], title XI, §1105, Oct. 14, 2008, 122 Stat. 4617.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct.13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1103\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311; Pub. L. 109–163, div. A, title XI, §1102, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–417, \[div. A\], title XI, §1105, Oct. 14, 2008, 122 Stat. 4617.)
 
 Historical and Revision Notes
 
@@ -188,7 +188,7 @@ Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112
 
 “(1)
 
-Immediately effective amendments.—The amendments made by subsections (a) through (d)\[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79<i>l</i> of Title 16, Conservation, section 665 of Title 18, Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, section 5855 of Title 22, Foreign Relations and Intercourse, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38, and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
+Immediately effective amendments.—The amendments made by subsections (a) through (d) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79l of Title 16, Conservation, section 665 of Title 18, Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, section 5855 of Title 22, Foreign Relations and Intercourse, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38, and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
 
 “(2)
 
@@ -204,7 +204,7 @@ Job training partnership act.—The amendments made by subsection (f) \[amending
 
 #### Effective Date of 1996 Amendment
 
-Section 1043(d)(2) of Pub. L. 104–106 provided that: “Notwithstanding any provision of subsection (c) \[set out as a note under section 8347 of this title\], the amendment made by paragraph (1) \[amending this section\] shall—
+Pub. L. 104–106, div. A, title X, §1043(d)(2), Feb. 10, 1996, 110 Stat. 438, provided that: “Notwithstanding any provision of subsection (c) \[set out as a note under section 8347 of this title\], the amendment made by paragraph (1) \[amending this section\] shall—
 
 &emsp;“(A) take effect on the date of the enactment of this Act \[Feb. 10, 1996\]; and
 
@@ -212,7 +212,7 @@ Section 1043(d)(2) of Pub. L. 104–106 provided that: “Notwithstanding any pr
 
 #### Effective Date of 1992 Amendment
 
-Section 4433(a)(2) of Pub. L. 102–484 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. D, title XLIV, §4433(a)(2), Oct. 23, 1992, 106 Stat. 2722, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -264,7 +264,7 @@ Study and Report.—(1) The Director of the Office of Personnel Management shall
 
 Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
 
-“(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5)shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
+“(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
 
 “(c)
 
@@ -280,7 +280,7 @@ Definitions.—For purposes of this section:
 
 #### Special Rule on Application of Subsections (d) and (e)
 
-Section 4433(b) of Pub. L. 102–484, as amended by Pub. L. 103–337, div. A, title III, §341(a), Oct. 5, 1994, 108 Stat. 2720, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4433(b), Oct. 23, 1992, 106 Stat. 2722, as amended by Pub. L. 103–337, div. A, title III, §341(a), Oct. 5, 1994, 108 Stat. 2720, provided that:
 
 “(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shall apply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to ‘60 days’ shall, in the case of the employees described in paragraph (2), be deemed to read ‘120 days’.
 

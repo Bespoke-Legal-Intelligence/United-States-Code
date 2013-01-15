@@ -4,7 +4,7 @@ Whenever the court is satisfied by appropriate evidence or by agreement of couns
 
 &emsp;(1) the United States or the claimant has been prevented by a stay under this chapter from examining the witness; or
 
-&emsp;(2) the United States establishes that it has refrained from bringing a suit or from takingthe testimony of the witness in a pending suit to avoid endangering the security of naval operations or interfering with such operations;
+&emsp;(2) the United States establishes that it has refrained from bringing a suit or from taking the testimony of the witness in a pending suit to avoid endangering the security of naval operations or interfering with such operations;
 
 > the court shall receive in evidence in place of the testimony of the witness—
 

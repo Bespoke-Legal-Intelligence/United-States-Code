@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (c) Nonconforming group health plan
 
-For purposes of this section, the term “nonconforming group health plan” means a group health plan or large group health plan that at any time during a calendar year does not comply with the requirements of subparagraphs (A) and (C) or subparagraph (B), respectively, of paragraph (1), or with the requirements of paragraph (2), of section 1862(b) of the Social Security Act.
+For purposes of this section, the term “nonconforming group health plan” means a group health plan or large group health plan that atany time during a calendar year does not comply with the requirements of subparagraphs (A) and (C) or subparagraph (B), respectively, of paragraph (1), or with the requirements of paragraph (2), of section 1862(b) of the Social Security Act.
 
 #### (d) Government entities
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 101–239, §6202(b)(2)(C), substituted “group” for “
 
 #### Effective Date of 1993 Amendment
 
-Section 13561(d)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provided that: “The amendments made by this subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1989 Amendment
 

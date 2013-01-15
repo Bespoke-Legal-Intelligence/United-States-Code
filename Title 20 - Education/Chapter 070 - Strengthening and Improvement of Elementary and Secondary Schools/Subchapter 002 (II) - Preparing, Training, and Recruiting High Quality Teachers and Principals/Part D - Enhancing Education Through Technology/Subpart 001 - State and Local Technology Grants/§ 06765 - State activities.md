@@ -20,7 +20,7 @@ From funds made available under section 6762(a)(1) of this title, a State educat
 
 &emsp;(4) Assisting recipients of funds under this subpart in providing all students (including students with disabilities and students with limited English proficiency) and teachers with access to educational technology.
 
-&emsp;(5) Developing performance measurement systems to determine the effectiveness of educational technology programs funded under this subpart, particularly in determining the extent to which activities funded under this subpart are effective in integrating technology into curricula and instruction, increasing the ability of teachers to teach, and enabling students to meet challenging State academic content and student academic achievement standards.
+&emsp;(5) Developing performance measurement systems to determine the effectiveness of educational technology programs funded under this subpart, particularly in determining the extent to which activities funded under thissubpart are effective in integrating technology into curricula and instruction, increasing the ability of teachers to teach, and enabling students to meet challenging State academic content and student academic achievement standards.
 
 &emsp;(6) Collaborating with other State educational agencies on distance learning, including making specialized or rigorous academic courses and curricula available to students in areas that would not otherwise have access to such courses and curricula.
 

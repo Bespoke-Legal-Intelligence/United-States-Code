@@ -6,5 +6,5 @@ Not later than December 31 of each odd-numbered year, the Public Printer shall s
 
 #### First Biennial Report
 
-Section 4(b) of Pub. L. 103–40 provided that: “The first report referred to in section 4103 of title 44, United States Code, as added by section 2(a), shall be submitted not later than December 31, 1995.”
+Pub. L. 103–40, §4(b), June 8, 1993, 107 Stat. 114, provided that: “The first report referred to in section 4103 of title 44, United States Code, as added by section 2(a), shall be submitted not later than December 31, 1995.”
 

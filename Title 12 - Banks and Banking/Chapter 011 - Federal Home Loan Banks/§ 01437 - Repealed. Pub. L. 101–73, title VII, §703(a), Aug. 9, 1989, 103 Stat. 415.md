@@ -1,6 +1,6 @@
 ### §1437. Repealed. Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415
 
-Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title VII, §702(b), 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
+Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I \[title VII, §702(b)\], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
 
 #### Transfer of Functions, Personnel, and Property of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board
 
@@ -90,7 +90,7 @@ Continuation of Services.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tablesfor classification\] or any amendment made by this Act to any other provision of law.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred tosuch agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
 &emsp;“(2)
 
@@ -184,7 +184,7 @@ Procedure for Differences in Deposit Insurance Coverage Between FSLIC and FDIC.�
 
 &emsp;“(1)
 
-Transition rule.—Until the effective date of regulations prescribed under paragraph (3)(B), any determination of the amount of any insured deposit in any depository institution which becomes an insured depository institution as a result of the amendment made to section 4(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1814(a)\] by section 205(1) of this Act shall be made in accordance with the regulations andinterpretations of the Federal Savings and Loan Insurance Corporation for determining the amount of an insured account which were in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\].
+Transition rule.—Until the effective date of regulations prescribed under paragraph (3)(B), any determination of the amount of any insured deposit in any depository institution which becomes an insureddepository institution as a result of the amendment made to section 4(a) of the Federal Deposit Insurance Act \[12 U.S.C. 1814(a)\] by section 205(1) of this Act shall be made in accordance with the regulations and interpretations of the Federal Savings and Loan Insurance Corporation for determining the amount of an insured account which were in effect on the day before the date of the enactment of this Act \[Aug. 9, 1989\].
 
 &emsp;“(2)
 
@@ -280,7 +280,7 @@ Functions and Employees Transferred.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the OversightBoard of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
 
 &emsp;“(2)
 
@@ -322,7 +322,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(8) Transferring employees shall receive notice of their position assignments not later than 120 days after the effective date of their transfer.
 
-&emsp;“(9) Upon the termination of the Resolution Trust Corporation pursuant to section 21A(m)\[(<i>o</i>)\] of the Federal Home Loan Bank Act \[former 12 U.S.C. 1441a(<i>o</i>)\], any employee of the Federal Deposit Insurance Corporation assigned to the Resolution Trust Corporation shall be reassigned to a position withinthe Federal Deposit Insurance Corporation in accordance with the provisions of paragraphs (2) and (4) through (7) of this section, except that the liability for any difference in the costs of benefits described in paragraph (5) shall be a liability of the Resolution Trust Corporation and not the Office of Thrift Supervision.
+&emsp;“(9) Upon the termination of the Resolution Trust Corporation pursuant to section 21A(m)\[(o)\] of the Federal Home Loan Bank Act \[former 12 U.S.C.1441a(o)\], any employee of the Federal Deposit Insurance Corporation assigned to the Resolution Trust Corporation shall be reassigned to a position within the Federal Deposit Insurance Corporation in accordance with the provisions of paragraphs (2) and (4) through (7) of this section, except that the liability for any difference in the costs of benefits described in paragraph (5) shall be a liability of the Resolution Trust Corporation and not the Office of Thrift Supervision.
 
 #### “SEC. 405. DIVISION OF PROPERTY AND FACILITIES.
 
@@ -394,7 +394,7 @@ Federal Home Loan Banks’ Share of Administrative Expenses.—The Federal Home 
 
 “(b)
 
-Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees of the Federal Home Loan Banks or the joint offices of such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
+Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees ofthe Federal Home Loan Banks or the joint offices of such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
 
 &emsp;“(1) the date which is 120 days after the date of transfer of such supervisory and examination functions to the Office of Thrift Supervision, or
 

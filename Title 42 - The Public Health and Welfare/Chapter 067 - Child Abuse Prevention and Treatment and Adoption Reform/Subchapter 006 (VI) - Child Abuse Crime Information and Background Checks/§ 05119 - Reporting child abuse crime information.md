@@ -68,7 +68,7 @@ For short title of this subchapter as the “National Child Protection Act of 19
 
 #### Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse
 
-Section 320928(g) of Pub. L. 103–322 provided that:
+Pub. L. 103–322, title XXXII, §320928(g), Sept. 13, 1994, 108 Stat. 2132, provided that:
 
 “(1)
 

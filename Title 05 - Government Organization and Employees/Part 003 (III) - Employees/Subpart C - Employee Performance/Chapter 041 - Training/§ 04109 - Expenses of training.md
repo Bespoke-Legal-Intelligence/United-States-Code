@@ -6,7 +6,7 @@
 
 &emsp;(2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
-&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 of title37, and the Joint Travel Regulations for the Uniformed Services;
+&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 of title 37, and the Joint Travel Regulations for the Uniformed Services;
 
 &emsp;&emsp;(B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
 
@@ -24,7 +24,7 @@
 
 (d) Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of this title shall be paid basic pay and overtime pay for the firefighter's regular tour of duty while attending agency sanctioned training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -50,13 +50,11 @@ In subsection (a)(2)(B), the words “under section 5724 of this title” are su
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Codification
-
-In subsec. (a)(2)(A), (B), “474”, “475”, “476”, and “479” substituted for “404”, “405”, “406”, and “409”, respectively, pursuant to section 631(f)(4)(B) of Pub. L. 112–81, which provided that any reference in a provision of law other than a section of title 10, 32, or 37, United States Code, to a section of title 37 that was transferred and redesignated by “subsection (c)” of section 631 was deemed to refer to the section as so redesignated, notwithstanding that sections of title 37 were transferred and redesignated by subsection (d) of section 631 rather than subsection (c), to reflect the probable intent of Congress.
-
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–81 substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B). See Codification note above.
+<b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+
+<b>2011</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
@@ -72,7 +70,11 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services” in cls. (A) and (B).
 
-<b>1967</b>—Subsec. (a)(2). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in cls. (A) and (B). See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Subsec. (a)(2). Pub. L. 90–83 substituted “Environmental Science Services Administration” for“Coast and Geodetic Survey” in cls. (A) and (B). See Historical and Revision Notes under section 2101 of this title.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1998 Amendment
 
@@ -84,7 +86,7 @@ Amendment by Pub. L. 102–378 effective Oct. 1, 1991, see section 9(b)(3) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Section 1537(f) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 5532, 5546a, 5547, and 8344 of this title\] shall take effect on October 1, 1984.”
+Pub. L. 98–525, title XV, §1537(f), Oct. 19, 1984, 98 Stat. 2636, provided that: “The amendments made by this section \[amending this section and sections 5532, 5546a, 5547, and 8344 of this title\] shall take effect on October 1, 1984.”
 
 #### Effective Date of 1982 Amendment
 

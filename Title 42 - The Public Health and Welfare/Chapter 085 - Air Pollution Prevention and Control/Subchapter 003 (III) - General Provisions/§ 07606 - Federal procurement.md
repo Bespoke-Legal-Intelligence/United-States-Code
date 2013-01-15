@@ -20,7 +20,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 #### Codification
 
-Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
+Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as anote under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
 
 Section was formerly classified to section 1857h–4 of this title.
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 1857h–4 of this title.
 
 A prior section 306 of act July 14, 1955, ch. 360, title III, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506, was renumbered section 313 by Pub. L. 91–604 and is classified to section 7613 of this title.
 
-Another prior section 306 of act July 14, 1955, ch. 360, title III, formerly §13, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401, renumbered §306, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992, renumbered §309, Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506, renumbered §316, Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1705, related to appropriations and was classified to section 1857<i>l</i> of this title, prior to repeal by section 306 of Pub. L. 95–95. See section 7626 of this title.
+Another prior section 306 of act July 14, 1955, ch. 360, title III, formerly §13, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401, renumbered §306, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992, renumbered §309, Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506, renumbered §316, Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1705, related to appropriations and was classified to section 1857l of this title, prior to repeal by section 306 of Pub. L. 95–95. See section 7626 of this title.
 
 #### Amendments
 

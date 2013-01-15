@@ -138,15 +138,15 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (A) In general
 
-&emsp;&emsp;Tenant-based rental assistance provided under subsection (b)(1) shall be provided under section 1437f(<i>o</i>) of this title.
+&emsp;&emsp;Tenant-based rental assistance provided under subsection (b)(1) shall be provided under section 1437f(o) of this title.
 
 #### (B) Conversion of existing assistance
 
-&emsp;&emsp;There is authorized to be appropriated for tenant-based rental assistance under section 1437f(<i>o</i>) of this title for persons with disabilities an amount not less than the amount necessary to convert the number of authorized vouchers and funding under an annual contributions contract in effect on January 4, 2011. Such converted vouchers may be administered by the entity administering the vouchers prior to conversion. For purposes of administering such converted vouchers, such entities shall be considered a “public housing agency” authorized to engage in the operation of tenant-based assistance under section 1437f of this title.
+&emsp;&emsp;There is authorized to be appropriated for tenant-based rental assistance under section 1437f(o) of this title for persons with disabilities an amount not less than the amount necessary to convert the number of authorized vouchers and funding under an annual contributions contract in effect on January 4, 2011. Such converted vouchers may be administered by the entity administering the vouchers prior to conversion. For purposes of administering such converted vouchers, such entities shall be considered a “public housing agency” authorized to engage in the operation of tenant-based assistance under section 1437f of this title.
 
 #### (C) Requirements upon turnover
 
-&emsp;&emsp;The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 1437f(<i>o</i>) of this title for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incremental vouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
+&emsp;&emsp;The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 1437f(o) of this title for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incremental vouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
 
 #### (e) Program requirements
 
@@ -438,7 +438,7 @@ As used in this section—
 
 &emsp;(9) The term “very low-income” has the same meaning as given the term “very low-income families” under section 1437a(b)(2) of this title.
 
-#### (<i>l</i>) Allocation of funds
+#### (l) Allocation of funds
 
 #### (1) Minimum allocation for multifamily projects
 
@@ -494,7 +494,7 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 In subsec. (j)(6)(A), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (n)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
+November 28, 1990, referred to in subsecs. (l)(2) and (n)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
 
 #### Amendments
 
@@ -578,13 +578,13 @@ Subsec. (k)(6). Pub. L. 111–374, §5(7)(E)(ii), which directed striking out �
 
 Pub. L. 111–374, §5(7)(E)(i), inserted as concluding provisions the matter directed to be inserted as concluding provisions after section 811(k)(6)(D) of the Housing Act of 1959 by section 841 of Pub. L. 106–569. See 2000 Amendment note below.
 
-Subsec. (<i>l</i>)(1). Pub. L. 111–374, §3(h), amended par. (1) generally. Prior to amendment, text read as follows: “Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.”.
+Subsec. (l)(1). Pub. L. 111–374, §3(h), amended par. (1) generally. Prior to amendment, text read as follows: “Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 111–374, §5(8)(A), substituted “subsection (d)(1)” for “subsection (c)(1)”.
+Subsec. (l)(2). Pub. L. 111–374, §5(8)(A), substituted “subsection (d)(1)” for “subsection (c)(1)”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 111–374, §5(8)(B), substituted “subsection (d)(2)” for “subsection (c)(2)”.
+Subsec. (l)(3). Pub. L. 111–374, §5(8)(B), substituted “subsection (d)(2)” for “subsection (c)(2)”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 111–374, §3(b)(2), struck out par. (4). Text read as follows: “Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.”
+Subsec. (l)(4). Pub. L. 111–374, §3(b)(2), struck out par. (4). Text read as follows: “Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.”
 
 Subsec. (m). Pub. L. 111–374, §6, amended subsec. (m) generally, substituting authorization of appropriations for fiscal years 2011 through 2015 for authorization of appropriations for fiscal years 2001, 2002, and 2003.
 
@@ -600,13 +600,13 @@ Subsec. (k)(2). Pub. L. 106–402 substituted “as defined in section 15002 of 
 
 Subsec. (k)(6). Pub. L. 106–569, §841, which directed insertion of concluding provisions after section 811(k)(6)(D) of the Housing Act of 1959, could not be executed because there is no section 811 of the Housing Act of 1959.
 
-Subsec. (<i>l</i>)(1). Pub. L. 106–569, §843(2), substituted “subsection (b)(2) of this section” for “subsection (b) of this section” and struck out before period at end “, and the remainder shall be available for tenant-based assistance under subsection (n)”.
+Subsec. (l)(1). Pub. L. 106–569, §843(2), substituted “subsection (b)(2) of this section” for “subsection (b) of this section” and struck out before period at end “, and the remainder shall be available for tenant-based assistance under subsection (n)”.
 
 Subsec. (m). Pub. L. 106–569, §822, added subsec. (m) and struck out heading and text of former subsec. (m). Text read as follows: “There is authorized to be appropriated for providing assistance under this section $201,000,000 for fiscal year 2000.”
 
 <b>1999</b>—Subsec. (k)(4). Pub. L. 106–74, §524(a)(1), inserted “, subject to the limitation under subsection (h)(6) of this section” after “prescribe”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 106–74, §524(a)(2), added par. (4).
+Subsec. (l)(4). Pub. L. 106–74, §524(a)(2), added par. (4).
 
 Subsecs. (m), (n). Pub. L. 106–74, §512, added subsec. (m) and redesignated former subsec. (m) as (n).
 
@@ -630,17 +630,17 @@ Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as s
 
 Subsec. (k)(6). Pub. L. 102–550, §603, struck out “incorporated private” before “institution” in introductory provisions, added subpar. (A), and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 102–550, §601(d)(1), substituted “Allocation of funds” for “Authorizations” in heading.
+Subsec. (l). Pub. L. 102–550, §601(d)(1), substituted “Allocation of funds” for “Authorizations” in heading.
 
-Subsec. (<i>l</i>)(1). Pub. L. 102–550, §601(d)(5), added par. (1). Former par. (1) redesignated (2).
+Subsec. (l)(1). Pub. L. 102–550, §601(d)(5), added par. (1). Former par. (1) redesignated (2).
 
 Pub. L. 102–550, §601(d)(2), inserted first sentence, struck out former first sentence which authorized an appropriation of $271,000,000 for fiscal year 1992 for the purpose of funding capital advances in accordance with subsection (d)(1) of this section, and in second sentence, substituted “Such amounts” for “Amounts so appropriated”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 102–550, §601(d)(4), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Subsec. (l)(2). Pub. L. 102–550, §601(d)(4), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
 Pub. L. 102–550, §601(d)(3), added par. (2) and struck out former par. (2) which read as follows: “For the purpose of funding contracts for project rental assistance in accordance with subsection (d)(2) of this section, the Secretary may, to the extent approved in an appropriations Act, reserve authority to enter into obligations aggregating $246,000,000 for fiscal year 1992.”
 
-Subsec. (<i>l</i>)(3). Pub. L. 102–550, §601(d)(4), redesignated par. (2) as (3).
+Subsec. (l)(3). Pub. L. 102–550, §601(d)(4), redesignated par. (2) as (3).
 
 <b>1991</b>—Subsec. (k)(4). Pub. L. 102–27 substituted “24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe)” for “20 persons with disabilities”.
 

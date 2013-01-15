@@ -8,10 +8,6 @@
 
 (Added Pub. L. 99–661, div. A, title VI, §615(a)(1), Nov. 14, 1986, 100 Stat. 3879, §431; renumbered §432, Pub. L. 100–26, §8(b)(1), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 107–107, div. A, title IX, §931(c), Dec. 28, 2001, 115 Stat. 1200; renumbered §492 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(30), Dec. 31, 2011, 125 Stat. 1460, 1464.)
 
-#### Prior Provisions
-
-Provisions similar to this section were contained in section 192 of Title 10, Armed Forces, prior to enactment of this section by Pub. L. 99–145.
-
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 432 of this title as this section.
@@ -22,5 +18,5 @@ Subsec. (c). Pub. L. 112–81, §631(e)(30), added subsec. (c).
 
 #### Effective Date
 
-Section 615(b) of Pub. L. 99–661 provided that: “Section 431 \[now 492\] of title 37, United States Code, as added by subsection (a), shall apply with respect to travel performed after September 30, 1986.”
+Pub. L. 99–661, div. A, title VI, §615(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “Section 431 \[now 492\] of title 37, United States Code, as added by subsection (a), shall apply with respect to travel performed after September 30, 1986.”
 

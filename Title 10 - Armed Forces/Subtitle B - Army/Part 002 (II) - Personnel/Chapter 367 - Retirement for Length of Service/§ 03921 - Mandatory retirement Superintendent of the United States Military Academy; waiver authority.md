@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Military Academy, the Secretary of the Army shall retire the officer under any provision of this chapter under which that officer is eligible to retire.
+Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Military Academy, the Secretary of the Army shall retirethe officer under any provision of this chapter under which that officer is eligible to retire.
 
 (b)
 

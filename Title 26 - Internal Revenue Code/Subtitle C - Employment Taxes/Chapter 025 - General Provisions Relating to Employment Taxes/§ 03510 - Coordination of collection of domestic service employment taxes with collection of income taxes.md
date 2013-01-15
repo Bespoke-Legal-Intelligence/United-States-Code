@@ -76,9 +76,9 @@ A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983
 
 #### Effective Date
 
-Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
+Pub. L. 103–387, §2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
 
 #### Expanded Information to Employers
 
-Section 2(b)(4) of Pub. L. 103–387 provided that: “The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
+Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: “The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
 

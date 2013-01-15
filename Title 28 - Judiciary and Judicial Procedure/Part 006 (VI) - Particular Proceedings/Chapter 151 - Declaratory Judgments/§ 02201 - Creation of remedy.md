@@ -1,10 +1,14 @@
 ### §2201. Creation of remedy
 
-(a) In a case of actual controversy within its jurisdiction, except with respect to Federal taxes other than actions brought under section 7428 of the Internal Revenue Code of 1986, a proceeding under section 505 or 1146 of title 11, or in any civil action involving an antidumping or countervailing duty proceeding regarding a classor kind of merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930), as determined by the administering authority, any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such.
+(a) In a case of actual controversy within its jurisdiction, except with respect to Federal taxes other than actions brought under section 7428 of the Internal Revenue Code of 1986, a proceeding under section 505 or 1146 of title 11, or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930), as determined by the administering authority, any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such.
 
 (b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act, or section 351 of the Public Health Service Act.
 
 (June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 111–148, title VII, §7002(c)(2), Mar. 23, 2010, 124 Stat. 816.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -38,7 +42,7 @@ Section 351 of the Public Health Service Act, referred to in subsec. (b), is cla
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–449 substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–449 temporarily substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”. See Effective and Termination Dates of 1988 Amendment note below.
 
 Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
 

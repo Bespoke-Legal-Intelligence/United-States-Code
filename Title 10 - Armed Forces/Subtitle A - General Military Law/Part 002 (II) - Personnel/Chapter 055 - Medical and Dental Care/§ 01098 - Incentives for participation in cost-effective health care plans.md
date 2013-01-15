@@ -16,7 +16,7 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 &emsp;(B) provide better services than those provided by a plan subject to such limitations or payment requirements at no additional cost to the Government.
 
-(2) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
+(2) The Secretary shall submit to the Committee on Armed Services of the Senate and theCommittee on Armed Services of the House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
 
 &emsp;(A) a plan with respect to which the limitations and payment requirements are waived; and
 

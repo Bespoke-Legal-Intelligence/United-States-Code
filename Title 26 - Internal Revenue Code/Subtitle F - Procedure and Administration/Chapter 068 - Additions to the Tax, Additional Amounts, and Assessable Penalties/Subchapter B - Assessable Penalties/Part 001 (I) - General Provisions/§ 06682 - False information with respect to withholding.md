@@ -46,7 +46,7 @@ Amendment by section 107(a) of Pub. L. 98–67 effective Aug. 5, 1983, see secti
 
 #### Effective Date of 1981 Amendment
 
-Section 721(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending sections 6682 and 7205 of this title\] shall apply to acts and failures to act after December 31, 1981.”
+Pub. L. 97–34, title VII, §721(d), Aug. 13, 1981, 95 Stat. 341, provided that: “The amendments made by this section \[amending sections 6682 and 7205 of this title\] shall apply to acts and failures to act after December 31, 1981.”
 
 #### Effective Date of 1974 Amendment
 

@@ -60,7 +60,7 @@ The maximum amount of a scholarship that an eligible student shall be eligible t
 
 #### (ii) Return of excess to the Secretary
 
-&emsp;&emsp;&emsp;If, after meeting the requirements of paragraph (1) and, if applicable, redistributing excess funds in accordance with clause (i) of this subparagraph, an eligible entity has funds held in reserve under paragraph (1) that remain available, the eligible entity shall return such remaining reserved funds to the Secretary for distribution to other grantees under this division in accordance with the funding rules described in section 1070a–22(a) of this title.
+&emsp;&emsp;&emsp;If, after meeting the requirements of paragraph (1) and, if applicable, redistributing excess funds in accordance with clause (i) of this subparagraph, an eligible entity has funds held in reserve under paragraph (1) that remain available, the eligible entity shall return such remainingreserved funds to the Secretary for distribution to other grantees under this division in accordance with the funding rules described in section 1070a–22(a) of this title.
 
 #### (B) Nonparticipating entity
 

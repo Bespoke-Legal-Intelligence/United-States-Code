@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any issuer which has a class of securities registered pursuant to section 78<i>l</i> of this title or which is required to file reports under section 78<i>o</i>(d) of this title, or for any officer, director, employee, or agent of such issuer or any stockholder thereof acting on behalf of such issuer, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any issuer which has a class of securities registered pursuant to section 78l of this title or which is required to file reports under section 78o(d) of this title, or for any officer, director, employee, or agent of such issuer or any stockholder thereof acting on behalf of such issuer, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 
@@ -36,7 +36,7 @@ Subsections (a) and (g) of this section shall not apply to any facilitating or e
 
 It shall be an affirmative defense to actions under subsection (a) or (g) of this section that—
 
-&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawfulunder the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
+&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
 &emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 
@@ -68,7 +68,7 @@ Not later than one year after August 23, 1988, the Attorney General, after consu
 
 For purposes of this section:
 
-&emsp;(1)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+&emsp;(1)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government ordepartment, agency, or instrumentality, or for or on behalf of any such public international organization.
 
 &emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
 
@@ -100,7 +100,7 @@ For purposes of this section:
 
 #### (g) Alternative jurisdiction
 
-(1) It shall also be unlawful for any issuer organized under the laws of the United States, or a State, territory, possession, or commonwealth of the United States or a political subdivision thereof and which has a class of securities registered pursuant to section 78<i>l</i> of this title or which is required to file reports under section 78<i>o</i>(d) of this title, or for any United States person that is an officer, director, employee, or agent of such issuer or a stockholder thereof acting on behalf of such issuer, to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section for the purposes set forth therein, irrespective of whether such issuer or such officer, director, employee, agent, or stockholder makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+(1) It shall also be unlawful for any issuer organized under the laws of the United States, or a State, territory, possession, or commonwealth of the United States or a political subdivision thereof and which has a class of securities registered pursuant to section 78l of this title or which is required to file reports under section 78o(d) of this title, or for any United States person that is an officer, director, employee, or agent of such issuer or a stockholder thereof acting on behalf of such issuer, to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section for the purposes set forth therein, irrespective of whether such issuer or such officer, director, employee, agent, or stockholder makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
 (2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
@@ -128,7 +128,7 @@ Subsec. (f)(1). Pub. L. 105–366, §2(b), amended par. (1) generally. Prior to 
 
 Subsec. (g). Pub. L. 105–366, §2(c)(1), added subsec. (g).
 
-<b>1988</b>—Pub. L. 100–418 substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
+<b>1988</b>—Pub. L. 100–418 substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec.\(b) relating to definitions as subsec. (f) and amending those provisions generally.
 
 #### Treatment of International Organizations Providing Commercial Communications Services
 

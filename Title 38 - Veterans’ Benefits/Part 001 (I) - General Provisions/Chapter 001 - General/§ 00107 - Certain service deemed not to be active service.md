@@ -1,6 +1,6 @@
 ### §107. Certain service deemed not to be active service
 
-(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights,privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
+(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights, privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
 
 &emsp;(1) contracts of National Service Life Insurance entered into before February 18, 1946;
 
@@ -144,7 +144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(5) Filipino veterans who were granted benefits prior to the enactment of the so-called Rescissions Acts of 1946 (Public Laws 79–301 \[60 Stat. 6\] and 79–391 \[60 Stat. 221\]) currently receive full benefits under laws administered by the Secretary of Veterans Affairs, but under section 107 of title 38, United States Code, the service of certain other Filipino veterans is deemed not to be active service for purposes of such laws.
 
-&emsp;“(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and,depending on where they legally reside, are paid such benefit amounts at reduced rates.
+&emsp;“(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and, depending on where they legally reside, are paid such benefit amounts at reduced rates.
 
 &emsp;“(7) The benefits such veterans receive include service-connected compensation benefits paid under chapter 11 of title 38, United States Code, dependency indemnity compensation survivor benefits paid under chapter 13 of title 38, United States Code, and burial benefits under chapters 23 and 24 of title 38, United States Code, and such benefits are paid to beneficiaries at the rate of $0.50 per dollar authorized, unless they lawfully reside in the United States.
 
@@ -208,7 +208,7 @@ Clarification of Treatment of Payments Under Certain Laws.—Amounts paid to a p
 
 &emsp;&emsp;“(A) eligibility of an individual to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits;
 
-&emsp;&emsp;“(B) eligibility of an individual to receive benefits under title VIII of the Social Security Act \[42 U.S.C. 1001 et seq.\], or the amount of such benefits; or
+&emsp;&emsp;“(B) eligibility of an individual to receive benefits under title VIII of the Social Security Act \[42U.S.C. 1001 et seq.\], or the amount of such benefits; or
 
 &emsp;&emsp;“(C) eligibility of an individual for, or the amount of benefits under, any other Federal or federally assisted program.
 
@@ -240,11 +240,11 @@ Administration.—
 
 Reports.—The Secretary shall include, in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year, detailed information on the operation of the compensation fund, including the number of applicants, the number of eligible persons receiving benefits, the amounts paid out of the compensation fund, and the administration of the compensation fund for the most recent fiscal year for which such data is available.
 
-“(<i>l</i>)
+“(l)
 
 Authorization of Appropriation.—There is authorized to be appropriated to the compensation fund $198,000,000, to remain available until expended, to make payments under this section.”
 
 #### Refund of Erroneously Deducted NSLI Premium to Philippine Veterans on Proper Application
 
-Section 1 of Pub. L. 89–641 provided for refund of erroneously deducted insurance premiums to Philippine armed forces members in service of the United States Armed Forces, such refund to be made upon receipt of an application within two years after Oct. 11, 1966. In event of death of such member, refund was to be made only to widow or widower, children or parents of such member, in that order, with no refunds to heirs or legal representatives.
+Pub. L. 89–641, §1, Oct. 11, 1966, 80 Stat. 884, provided for refund of erroneously deducted insurance premiums to Philippine armed forces members in service of the United States Armed Forces, such refund to be made upon receipt of an application within two years after Oct. 11, 1966. In event of death of such member, refund was to be made only to widow or widower, children or parents of such member, in that order, with no refunds to heirs or legal representatives.
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Development.—Not later than 1 year after the date of enactment of the SAFETEA–LU, the Secretary shall develop a 5-year transportation research and development strategic plan to guide Federal transportation research and development activities. This plan shall be consistent with section 306 of title 5, sections 1115 and 1116 of title 31, and any other research and development plan within the Department of Transportation.
+Development.—Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary shall develop a 5-year transportation research and development strategic plan to guide Federal transportation research and development activities. This plan shall be consistent with section 306 of title 5, sections 1115 and 1116 of title 31, and any other research and development plan within the Department of Transportation.
 
 &emsp;(2)
 
@@ -14,17 +14,17 @@ Contents.—The strategic plan developed under paragraph (1) shall—
 
 &emsp;&emsp;(A) describe the primary purposes of the transportation research and development program, which shall include, at a minimum—
 
-&emsp;&emsp;&emsp;(i) reducing congestion and improving mobility;
+&emsp;&emsp;&emsp;(i) promoting safety;
 
-&emsp;&emsp;&emsp;(ii) promoting safety;
+&emsp;&emsp;&emsp;(ii) reducing congestion and improving mobility;
 
-&emsp;&emsp;&emsp;(iii) promoting security;
+&emsp;&emsp;&emsp;(iii) preserving the environment;
 
-&emsp;&emsp;&emsp;(iv) protecting and enhancing the environment;
+&emsp;&emsp;&emsp;(iv) preserving the existing transportation system;
 
-&emsp;&emsp;&emsp;(v) preserving the existing transportation system; and
+&emsp;&emsp;&emsp;(v) improving the durability and extending the life of transportation infrastructure; and
 
-&emsp;&emsp;&emsp;(vi) improving the durability and extending the life of transportation infrastructure;
+&emsp;&emsp;&emsp;(vi) improving goods movement.
 
 &emsp;&emsp;(B) for each purpose, list the primary research and development topics that the Department intends to pursue to accomplish that purpose, which may include the fundamental research in the physical and natural sciences, applied research, technology development, and social science research intended for each topic; and
 
@@ -32,7 +32,7 @@ Contents.—The strategic plan developed under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;(i) the anticipated annual funding levels for the period covered by the strategic plan; and
 
-&emsp;&emsp;&emsp;(ii) the additional information the Department expects to gain at the end of the period covered by the strategic plan as a result of the research and development in that topic area.
+&emsp;&emsp;&emsp;(ii) the additional information the Department expects to gain at the end of theperiod covered by the strategic plan as a result of the research and development in that topic area.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Considerations.—In developing the strategic plan, the Secretary shall ensure t
 
 Performance plans and reports.—In reports submitted under sections 1115 and 1116 of title 31, the Secretary shall include—
 
-&emsp;&emsp;(A) a summary of the Federal transportation research and development activitiesfor the previous fiscal year in each topic area;
+&emsp;&emsp;(A) a summary of the Federal transportation research and development activities for the previous fiscal year in each topic area;
 
 &emsp;&emsp;(B) the amount of funding spent in each topic area;
 
@@ -70,11 +70,11 @@ National Research Council Review.—The Secretary shall enter into an agreement 
 
 &emsp;(3) program performance report required under section 1116 of title 31, with respect to transportation research and development.
 
-(Added Pub. L. 105–178, title V, §5108, June 9, 1998, 112 Stat. 435; amended Pub. L. 109–59, title V, §5208(a), Aug. 10, 2005, 119 Stat. 1798.)
+(Added Pub. L. 105–178, title V, §5108, June 9, 1998, 112 Stat. 435; amended Pub. L. 109–59, title V, §5208(a), Aug. 10, 2005, 119 Stat. 1798; Pub. L. 112–141, div. E, title II, §52013, July 6, 2012, 126 Stat. 897.)
 
 #### References in Text
 
-The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (a)(1), is the date of enactment of div. E of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Prior Provisions
 
@@ -82,7 +82,27 @@ A prior section 508, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 833, 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §52013(1), substituted “Transportation Research and Innovative Technology Act of 2012” for “SAFETEA–LU”.
+
+Subsec. (a)(2)(A). Pub. L. 112–141, §52013(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “describe the primary purposes of the transportation research and development program, which shall include, at a minimum—
+
+&emsp;“(i) reducing congestion and improving mobility;
+
+&emsp;“(ii) promoting safety;
+
+&emsp;“(iii) promoting security;
+
+&emsp;“(iv) protecting and enhancing the environment;
+
+&emsp;“(v) preserving the existing transportation system; and
+
+&emsp;“(vi) improving the durability and extending the life of transportation infrastructure;”.
+
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to development of a 5-year transportation research and development strategic plan, annual report, and review by the National Research Council, consisting of subsecs. (a) to (c), for provisions relating to establishment of a strategic planning process to determine transportation research and technology development priorities, implementation of programs, development of a strategic plan, merit review and performance measurement, procurement procedures, and requirement of consistency with section 306 of title 5 and sections 1115 and 1116 of title 31, consisting of subsecs. (a) to (f).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Surface Transportation Research and Development Planning
 
@@ -136,7 +156,7 @@ Contents.—The plan shall include the following:
 
 &emsp;&emsp;“(A) Details of the Department's surface transportation research and development programs, including appropriate funding levels and a schedule with milestones, preliminary cost estimates, appropriate work scopes, personnel requirements, and estimated costs and goals for the next 3 years for each area of research and development.
 
-&emsp;&emsp;“(B) A 10-year projection of long-term programs in surface transportation research and development and recommendations for the appropriate source or mechanism for surface transportation research anddevelopment funding, taking into account recommendations of the Research and Development Coordinating Council of the Department of Transportation and the plan of the National Council on Surface Transportation Research.
+&emsp;&emsp;“(B) A 10-year projection of long-term programs in surface transportation research and development and recommendations for the appropriate source or mechanism for surface transportation research and development funding, taking into account recommendations of the Research and Development Coordinating Council of the Department of Transportation and the plan of the National Council on Surface Transportation Research.
 
 &emsp;&emsp;“(C) Recommendations on changes needed to assure that Federal, State, and local contracting procedures encourage the adoption of advanced technologies developed as a consequence of the research programs in this Act \[Pub. L. 102–240, see Tables for classification\].
 

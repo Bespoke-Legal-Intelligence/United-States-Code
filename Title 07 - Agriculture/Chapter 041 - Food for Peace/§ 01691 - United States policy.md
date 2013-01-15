@@ -1,6 +1,6 @@
 ### §1691. United States policy
 
-It is the policy of the United States to use its abundant agricultural productivity to promote the foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
+It is the policy of the United States to use its abundant agricultural productivity to promotethe foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
 
 &emsp;(1) combat world hunger and malnutrition and their causes;
 
@@ -38,11 +38,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
 #### Effective Date of 1966 Amendment
 
-Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\].”
+Pub. L. 89–808, §5, Nov. 11, 1966, 80 Stat. 1538, provided that: “This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\].”
 
 #### Short Title of 1998 Amendment
 
@@ -52,15 +52,15 @@ Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–532, §1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act \[enacting sections 1738<i>o</i> to 1738r, 3294, and 5404 of this title and amending section 1738m of this title\] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
+Pub. L. 102–532, §1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act \[enacting sections 1738o to 1738r, 3294, and 5404 of this title and amending section 1738m of this title\] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
 
-Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 1738<i>o</i> to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
+Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 1738o to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
 
 #### Short Title of 1990 Amendment
 
-Section 1501 of title XV of Pub. L. 101–624 provided that: “This title \[see Tables for classification\] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
+Pub. L. 101–624, title XV, §1501, Nov. 28, 1990, 104 Stat. 3632, provided that: “This title \[see Tables for classification\] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
 
-Section 1511 of Pub. L. 101–624 provided that: “This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736<i>o</i>, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the ‘Mickey Leland Food for Peace Act’.”
+Pub. L. 101–624, title XV, §1511, Nov. 28, 1990, 104 Stat. 3633, provided that: “This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the ‘Mickey Leland Food for Peace Act’.”
 
 #### Short Title of 1988 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Ac
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided thatsections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
 
 #### Short Title of 1980 Amendment
 
@@ -76,11 +76,11 @@ For short title of title III of Pub. L. 96–494, which enacted section 1736f–
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] may be cited as the ‘Food for Peace Act of 1966’.”
+Pub. L. 89–808, §1, Nov. 11, 1966, 80 Stat. 1526, provided: “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] may be cited as the ‘Food for Peace Act of 1966’.”
 
 #### Short Title
 
-Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633; Pub. L. 110–246, title III, §3001(a), June 18, 2008, 122 Stat. 1820, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food for Peace Act’.”
+Act July 10, 1954, ch. 469, §1, 68 Stat. 454, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633; Pub. L. 110–246, title III, §3001(a), June 18, 2008, 122 Stat. 1820, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food for Peace Act’.”
 
 #### Minimum Level of Food Assistance
 
@@ -108,7 +108,7 @@ Pub. L. 100–418, title IV, §4311, Aug. 23, 1988, 102 Stat. 1400, which declar
 
 #### Agricultural Trade and Export Policy Commission Act
 
-Subtitle C (§§1217–1224) of title XII of Pub. L. 97–98, as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
 
 #### Use of Nonprice-Supported Commodities
 
@@ -142,7 +142,7 @@ Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation 
 
 Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8255, as amended by Ex. Ord. No. 13044, Apr. 18, 1997, 62 F.R. 19665, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act, 7 U.S.C. 1691 et seq.\], as amended by Public Law 101–624 (“Agricultural Trade Development Act”), the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], as amended by Public Law 101–624 (“Food for Progress Act”), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act, 7 U.S.C. 1691 et seq.\], as amended by Public Law 101–624 (“Agricultural Trade Development Act”), the Food for Progress Act of 1985 \[7 U.S.C. 1736o\], as amended by Public Law 101–624 (“Food for Progress Act”), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of Programs</i>. There is hereby established:
 
@@ -176,7 +176,7 @@ Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon t
 
 (d) The functions conferred upon the President by title V of the Agricultural Trade Development Act \[7 U.S.C. 1737\] are hereby delegated to the Administrator.
 
-(e) The functions conferred upon the President by the Food for Progress Act, as amended \[7 U.S.C. 1736<i>o</i>\], are hereby delegated to the Secretary.
+(e) The functions conferred upon the President by the Food for Progress Act, as amended \[7 U.S.C. 1736o\], are hereby delegated to the Secretary.
 
 Sec. 5. <i>Regulatory Review</i>. Policies, regulations, and analyses required by this Executive order shall be fully consistent with the standards and criteria, analyses and procedures set forth in Executive Order Nos. 12291 and 12498 \[formerly 5 U.S.C. 601 notes\].
 

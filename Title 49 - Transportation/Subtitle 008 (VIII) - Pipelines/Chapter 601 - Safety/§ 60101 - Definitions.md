@@ -62,7 +62,7 @@ General.—In this chapter—
 
 &emsp;(14) “liquefied natural gas pipeline facility”—
 
-&emsp;&emsp;(A) means a gas pipeline facility used for transporting or storing liquefied natural gas,or for liquefied natural gas conversion, in interstate or foreign commerce; but
+&emsp;&emsp;(A) means a gas pipeline facility used for transporting or storing liquefied natural gas, or for liquefied natural gas conversion, in interstate or foreign commerce; but
 
 &emsp;&emsp;(B) does not include any part of a structure or equipment located in navigable waters (as defined in section 3 of the Federal Power Act (16 U.S.C. 796));
 
@@ -342,7 +342,7 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropr
 
 #### Effective Date of 1994 Amendment
 
-Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
+Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
 
 #### Short Title of 2012 Amendment
 
@@ -358,7 +358,7 @@ Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: “This
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
+Pub. L. 104–304, §1, Oct. 12, 1996, 110 Stat. 3793, provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
 
 #### Transfer of Functions
 
@@ -428,7 +428,7 @@ Memorandum of Understanding.—
 
 &emsp;“(1)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into amemorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
 &emsp;“(2)
 
@@ -440,7 +440,7 @@ Program Elements.—The program authorized by subsection (a) shall include resea
 
 &emsp;“(1) materials inspection;
 
-&emsp;“(2) stress and fracture analysis, detection of cracks, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development ofnew equipment or technologies that are inserted into pipelines to detect anomalies;
+&emsp;“(2) stress and fracture analysis, detection of cracks, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development of new equipment or technologies that are inserted into pipelines to detect anomalies;
 
 &emsp;“(3) internal inspection and leak detection technologies, including detection of leaks at very low volumes;
 

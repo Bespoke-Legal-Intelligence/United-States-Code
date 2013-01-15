@@ -12,7 +12,7 @@ The Congress finds and declares—
 
 #### (b) Improvement and expansion
 
-To the extent deemed necessary in fulfillment of the purposes of this chapter, the President shall improve and expand existing youth employment programs, recommending legislation where required. In formulating any such program, the President shall—
+To the extent deemed necessary in fulfillment of the purposes of this chapter, the Presidentshall improve and expand existing youth employment programs, recommending legislation where required. In formulating any such program, the President shall—
 
 &emsp;(1) include provisions designed to fully coordinate youth employment activities with other employment and training programs;
 

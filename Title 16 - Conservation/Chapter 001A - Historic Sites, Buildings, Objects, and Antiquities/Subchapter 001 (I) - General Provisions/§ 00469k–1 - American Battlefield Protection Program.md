@@ -46,7 +46,7 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (2) Establishment
 
-&emsp;The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to eligible entities to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+&emsp;The Secretary shall establish a battlefield acquisition grant program under which theSecretary may provide grants to eligible entities to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
 
 #### (3) Nonprofit partners
 
@@ -58,7 +58,7 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (5) Limitation on land use
 
-&emsp;An interest in an eligible site acquired under this subsection shall be subject to section 460<i>l</i>–8(f)(3) of this title.
+&emsp;An interest in an eligible site acquired under this subsection shall be subject to section 460l–8(f)(3) of this title.
 
 #### (6) Authorization of appropriations
 

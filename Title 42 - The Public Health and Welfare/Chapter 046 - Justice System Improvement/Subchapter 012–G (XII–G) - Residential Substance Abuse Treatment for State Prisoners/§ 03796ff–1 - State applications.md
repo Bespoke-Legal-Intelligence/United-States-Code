@@ -52,7 +52,7 @@ A State may use amounts received under this subchapter to provide nonresidential
 
 Subsec. (c). Pub. L. 109–162, §1145(b)(1), substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
 
-Subsec. (c)(1). Pub. L. 109–162, §1145(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
+Subsec. (c)(1). Pub. L. 109–162, §1145(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for a preference under this subchapter, a State must ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services.”
 
 Subsec. (c)(4). Pub. L. 109–162, §1145(b)(3), added par. (4).
 

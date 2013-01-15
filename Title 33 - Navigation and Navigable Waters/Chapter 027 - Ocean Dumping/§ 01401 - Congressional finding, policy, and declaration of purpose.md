@@ -16,17 +16,17 @@ It is the purpose of this Act to regulate (1) the transportation by any person o
 
 #### References in Text
 
-This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter,chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 #### Amendments
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation of transportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
+<b>1974</b>—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation oftransportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 93–254 added subsec. (c).
 
 #### Effective Date of 1974 Amendment
 
-Section 2 of Pub. L. 93–254 provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
+Pub. L. 93–254, §2, Mar. 22, 1974, 88 Stat. 51, provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
 
 #### Short Title of 1988 Amendment
 
@@ -34,7 +34,7 @@ Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
+Pub. L. 92–532, §1, Oct. 23, 1972, 86 Stat. 1052, provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
 #### Territorial Sea and Contiguous Zone of United States
 

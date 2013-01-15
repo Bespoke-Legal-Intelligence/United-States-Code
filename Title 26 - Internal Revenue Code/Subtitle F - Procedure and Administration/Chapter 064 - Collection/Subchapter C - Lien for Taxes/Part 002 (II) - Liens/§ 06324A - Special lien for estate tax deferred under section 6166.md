@@ -122,5 +122,5 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1978 Amendment
 
-Section 702(e)(2) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 

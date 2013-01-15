@@ -10,5 +10,5 @@ Section 154, acts Aug. 20, 1912, ch. 308, §1, 37 Stat. 315; July 31, 1947, ch. 
 
 #### Effective Date
 
-Section 14 of act Aug. 20, 1912, provided that act Aug. 20, 1912, enacting this chapter, was effective Oct. 1, 1912, except as otherwise provided, prior to repeal by Pub. L. 106-224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454.
+Section 14 of act Aug. 20, 1912, provided that act Aug. 20, 1912, enacting this chapter, was effective Oct. 1, 1912, except as otherwise provided, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454.
 

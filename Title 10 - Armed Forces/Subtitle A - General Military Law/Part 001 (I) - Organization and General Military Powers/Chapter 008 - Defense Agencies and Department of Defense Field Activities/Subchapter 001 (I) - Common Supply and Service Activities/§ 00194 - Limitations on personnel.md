@@ -46,11 +46,11 @@ Pub. L. 100–202, §101(b) \[title VIII, §8122\], Dec. 22, 1987, 101 Stat. 132
 
 #### Reduction in Personnel Assigned to Management Headquarters Activities and Certain Other Activities
 
-Section 601 of Pub. L. 99–433, as amended by Pub. L. 100–180, div. A, title XIII, §1312, Dec. 4, 1987, 101 Stat. 1174; Pub. L. 101–189, div. A, title XVI, §1622(h)(2), Nov. 29, 1989, 103 Stat. 1606, provided that:
+Pub. L. 99–433, title VI, §601, Oct. 1, 1986, 100 Stat. 1064, as amended by Pub. L. 100–180, div. A, title XIII, §1312, Dec. 4, 1987, 101 Stat. 1174; Pub. L. 101–189, div. A, title XVI, §1622(h)(2), Nov. 29, 1989, 103 Stat. 1606, provided that:
 
 “(a)
 
-Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed toduty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed to duty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(2) Duty referred to in paragraph (1) is permanent duty in the military departments and in the unified and specified combatant commands to perform management headquarters activities or management headquarters support activities.
 

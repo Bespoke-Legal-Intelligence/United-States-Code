@@ -10,7 +10,7 @@
 
 &emsp;(4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
 
-(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district courtmay deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
@@ -142,7 +142,7 @@ The revised section conforms with the views of Philip F. Herrick, United States 
 
 This changes the law to insure uniformity. The 1940 amendment applied only to the provision as to controversies between “citizens of different States.” The new definition in subsection (b) extends the 1940 amendment to apply to controversies between citizens of the Territories or the District of Columbia, and foreign states or citizens or subjects thereof.
 
-The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheld the amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
+The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheldthe amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
 
 This section is intended to cover all diversity of citizenship instances in civil actions in accordance with the judicial construction of the language in the original section 41(1) of title 28, U.S.C., 1940 ed. Therefore, the revised language covers civil actions between—
 
@@ -258,7 +258,7 @@ Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to
 
 11
 
-205(a)(<i>l</i>)
+205(a)(l)
 
 11
 
@@ -738,7 +738,7 @@ Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to
 
 49
 
-19a(<i>l</i>)
+19a(l)
 
 49
 
@@ -862,15 +862,15 @@ Pub. L. 109–2, §9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendme
 
 #### Effective Date of 1996 Amendment
 
-Section 205(b) of Pub. L. 104–317 provided that: “The amendment made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\].”
+Pub. L. 104–317, title II, §205(b), Oct. 19, 1996, 110 Stat. 3850, provided that: “The amendment made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 201(b) of title II of Pub. L. 100–702 provided that: “The amendments made by this section \[amending this section\] shall apply to any civil action commenced on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title II, §201(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendments made by thissection \[amending this section\] shall apply to any civil action commenced on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-Section 202(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title II, §202(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section \[amending this section\] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-Section 203(b) of title II of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title II, §203(b), Nov. 19, 1988, 102 Stat. 4646, provided that: “The amendment made by this section \[amending this section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -878,7 +878,7 @@ Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–439 provided that: “The amendment made by this Act to section 1332(c), title 28, United States Code, applies only to causes of action arising after the date of enactment of this Act \[Aug. 14, 1964\].”
+Pub. L. 88–439, §2, Aug. 14, 1964, 78 Stat. 445, provided that: “The amendment made by this Act to section 1332(c), title 28, United States Code, applies only to causes of action arising after the date of enactment of this Act \[Aug. 14, 1964\].”
 
 #### Effective Date of 1958 Amendment
 

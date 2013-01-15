@@ -16,7 +16,7 @@ International Obligations and Foreign Laws.—(1) In prescribing regulations und
 
 (c)
 
-Other Regulations Allowed.—This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
+Other Regulations Allowed.—This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or acontrolled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1224; Pub. L. 107–71, title I, §139(3), Nov. 19, 2001, 115 Stat. 640.)
 

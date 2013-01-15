@@ -22,7 +22,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (5) As authority for transfer of title to motor vehicle
 
-&emsp;If such property consists of a motor vehicle, shall be notice, when received, to any public official charged with the registration of title to motor vehicles, of such transfer and shallbe authority to such official to record the transfer on his books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not.
+&emsp;If such property consists of a motor vehicle, shall be notice, when received, to any public official charged with the registration of title to motor vehicles, of such transfer and shall be authority to such official to record the transfer on his books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not.
 
 #### (b) Deed of real property
 

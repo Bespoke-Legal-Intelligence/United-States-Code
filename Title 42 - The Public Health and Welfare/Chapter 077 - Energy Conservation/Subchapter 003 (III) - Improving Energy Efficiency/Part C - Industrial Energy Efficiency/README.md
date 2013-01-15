@@ -23,3 +23,4 @@ A prior part C, consisting of sections 6341 to 6346, related to voluntary indust
 - [&sect; 06348 - Energy efficiency in industrial facilities](%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md)
 - [&sect; 06349 - Process-oriented industrial energy efficiency](%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md)
 - [&sect; 06350 - Industrial insulation and audit guidelines](%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md)
+- [&sect; 06351 - Coordination of research and development of energy efficient technologies for industry](%C2%A7%2006351%20-%20Coordination%20of%20research%20and%20development%20of%20energy%20efficient%20technologies%20for%20industry.md)

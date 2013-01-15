@@ -18,7 +18,7 @@ Section was enacted as part of the Removal of Regulatory Barriers to Affordable 
 
 #### Short Title
 
-Section 1201 of title XII of Pub. L. 102–550 provided that: “This title \[enacting this section and sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Removal of Regulatory Barriers to Affordable Housing Act of 1992’.”
+Pub. L. 102–550, title XII, §1201, Oct. 28, 1992, 106 Stat. 3938, provided that: “This title \[enacting this section and sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Removal of Regulatory Barriers to Affordable Housing Act of 1992’.”
 
 #### Report by Secretary
 

@@ -12,5 +12,5 @@ For purposes of section 4577 of this title, there are authorized to be appropria
 
 #### Effective Date
 
-Section 4(c) of Pub. L. 94–371 provided in part that this section is effective July 1, 1976.
+Pub. L. 94–371, §4(c), July 26, 1976, 90 Stat. 1035, provided in part that this section is effective July 1, 1976.
 

@@ -42,7 +42,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(C) In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
+&emsp;&emsp;(D) The gross receipts limitations established by section 111(d)(1)(C) and (D) <sup>1</sup> shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribersfor the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
 
 &emsp;(3)(A) To authorize the distribution, under sections 111, 119, and 1007, of those royalty fees collected under sections 111, 119, and 1005, as the case may be, to the extent that the Copyright Royalty Judges have found that the distribution of such fees is not subject to controversy.
 
@@ -98,13 +98,13 @@ Effective Date of Actions.—On and after the date of the enactment of the Copyr
 
 #### References in Text
 
-Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175, title I, §104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
+Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175,title I, §104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
 
 The date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f), is the date of the enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
 #### Prior Provisions
 
-A prior section 801, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat.2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 801, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 #### Amendments
 

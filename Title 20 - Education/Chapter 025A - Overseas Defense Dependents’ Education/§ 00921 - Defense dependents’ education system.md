@@ -38,7 +38,7 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L.95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 489 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 489 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 #### Effective Date
 
-Section 1415 of title XIV of Pub. L. 95–561 provided that:
+Pub. L. 95–561, title XIV, §1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
 
 “(a)(1) Except as provided in paragraph (2) this title \[see Short Title note below\] shall take effect on July 1, 1979.
 
@@ -62,7 +62,7 @@ Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 #### Short Title
 
-Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
+Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
 #### Report on Condition of Schools Under Jurisdiction of Department of Defense Education Activity
 
@@ -96,7 +96,7 @@ Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provi
 
 “(a)
 
-Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established under section 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
+Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established undersection 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
 
 “(b)
 

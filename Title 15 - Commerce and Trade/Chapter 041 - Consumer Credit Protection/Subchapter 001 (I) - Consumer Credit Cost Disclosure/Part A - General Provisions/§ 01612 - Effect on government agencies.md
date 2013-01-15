@@ -6,7 +6,7 @@ Any department or agency of the United States which administers a credit program
 
 #### (b) Inapplicability of Federal civil or criminal penalties to Federal, State, and local agencies
 
-No civil or criminal penalty provided under this subchapter for any violation thereof may beimposed upon the United States or any department or agency thereof, or upon any State or political subdivision thereof, or any agency of any State of political subdivision.
+No civil or criminal penalty provided under this subchapter for any violation thereof may be imposed upon the United States or any department or agency thereof, or upon any State or political subdivision thereof, or any agency of any State or political subdivision.
 
 #### (c) Inapplicability of Federal civil or criminal penalties to participating creditor where violating instrument issued by United States
 

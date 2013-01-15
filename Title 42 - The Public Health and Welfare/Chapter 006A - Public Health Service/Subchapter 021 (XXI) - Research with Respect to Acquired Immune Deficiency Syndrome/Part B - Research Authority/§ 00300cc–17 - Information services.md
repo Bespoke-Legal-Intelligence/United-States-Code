@@ -6,7 +6,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 #### (b) Toll-free telephone communications for health care entities
 
-(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications to provide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied health care providers, and to professionals providing emergency health services.
+(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications to provide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied healthcare providers, and to professionals providing emergency health services.
 
 (2) Information provided pursuant to paragraph (1) shall include—
 
@@ -22,7 +22,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 #### (d) Data bank on clinical trials and treatments
 
-(1) After consultation with the Commissioner of Food and Drugs, the AIDS Research Advisory Committee established under section 300cc–3 of this title, and the Director of the Office of AIDSResearch, the Secretary shall, in carrying out subsection (a) of this section, establish a data bank of information on clinical trials and treatments with respect to infection with the etiologic agent for acquired immune deficiency syndrome (hereafter in this section referred to as the “Data Bank”).
+(1) After consultation with the Commissioner of Food and Drugs, the AIDS Research Advisory Committee established under section 300cc–3 of this title, and the Director of the Office of AIDS Research, the Secretary shall, in carrying out subsection (a) of this section, establish a data bank of information on clinical trials and treatments with respect to infection with the etiologic agent for acquired immune deficiency syndrome (hereafter in this section referred to as the “Data Bank”).
 
 (2) In carrying out paragraph (1), the Secretary shall collect, catalog, store, and disseminate the information described in such paragraph. The Secretary shall disseminate such information through information systems available to individuals infected with the etiologic agent for acquired immune deficiency syndrome, to other members of the public, to health care providers, and to researchers.
 

@@ -50,7 +50,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 #### (c) Penalties
 
-(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect toany such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
 
 (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
 
@@ -66,7 +66,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (B) An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L.104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848.)
 
 #### References in Text
 

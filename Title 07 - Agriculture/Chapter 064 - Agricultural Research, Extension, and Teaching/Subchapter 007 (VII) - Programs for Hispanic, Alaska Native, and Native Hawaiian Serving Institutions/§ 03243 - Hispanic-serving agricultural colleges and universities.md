@@ -92,7 +92,7 @@ In this section, the term “endowment fund” means the Hispanic-Serving Agricu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As part of an application for a grant under this subsection, the Secretary shallrequire the applicant to demonstrate need for the grant, as determined by the Secretary.
+&emsp;&emsp;&emsp;As part of an application for a grant under this subsection, the Secretary shall require the applicant to demonstrate need for the grant, as determined by the Secretary.
 
 #### (ii) Other sources of funding
 

@@ -52,7 +52,7 @@ Pub. L. 97–248, §271(b)(1), substituted “3.5 percent” for “3.4 percent�
 
 Par. (2). Pub. L. 97–248, §271(c)(1)(B), substituted “6.0 percent” for “3.2 percent”.
 
-<b>1976</b>—Pub. L. 94–566 substituted provisions imposing an excise tax equal to 3.4 percent, in the case of a calendar year beginning before the first calendar year after 1976, as of January 1 of which there is not a balance of repayable advances made to the extended unemployed compensation account (established by section 905(a) of the Social Security Act), or 3.2 percent, in the case of such first calendar year and each calendar year thereafter, of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)), for provisions imposing an excise tax for the calendar year 1970 and each calendar year thereafter, with respect to having individuals in his employ, equal to 3.2 percent of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect toemployment (as defined in section 3306(c)) and provisions that, in the case of wages paid during the calendar year 1973, the rate of such tax should be 3.28 percent in lieu of 3.2 percent.
+<b>1976</b>—Pub. L. 94–566 substituted provisions imposing an excise tax equal to 3.4 percent, in the case of a calendar year beginning before the first calendar year after 1976, as of January 1 of which there is not a balance of repayable advances made to the extended unemployed compensation account (established by section 905(a) of the Social Security Act), or 3.2 percent, in the case of such first calendar year and each calendar year thereafter, of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)), for provisions imposing an excise tax for the calendar year 1970 and each calendar year thereafter, with respect to having individuals in his employ, equal to 3.2 percent of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)) and provisions that, in the case of wages paid during the calendar year 1973, the rate of such tax should be 3.28 percent in lieu of 3.2 percent.
 
 Pub. L. 94–455 substituted “each calendar year” for “the calendar year 1970 and each calendar year thereafter” and struck out provisions relating to the rate of tax in the case of wages paid during the calendar year 1973.
 
@@ -82,15 +82,15 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Effective Date of 1990 Amendment
 
-Section 11333(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to wages paid after December 31, 1990.”
+Pub. L. 101–508, title XI, §11333(b), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section \[amending this section\] shall apply to wages paid after December 31, 1990.”
 
 #### Effective Date of 1987 Amendment
 
-Section 9153(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to wages paid on or after January 1, 1988.”
+Pub. L. 100–203, title IX, §9153(b), Dec. 22, 1987, 101 Stat. 1330–326, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to wages paid on or after January 1, 1988.”
 
 #### Effective Date of 1982 Amendment
 
-Section 271(d)(1), (2), formerly 271(b)(1), (2), of Pub. L. 97–248, as redesignated by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147, provided that:
+Pub. L. 97–248, title II, §271(d)(1), (2), formerly §271(b)(1), (2), Sept. 3, 1982, 96 Stat. 555, as redesignated by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147, provided that:
 
 “(1)
 
@@ -104,15 +104,15 @@ Subsection (c).—The amendments made by subsection (c) \[amending this section,
 
 #### Effective Date of 1976 Amendment
 
-Section 211(d)(2) of Pub. L. 94–566 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to remuneration paid after December 31, 1976.”
+Pub. L. 94–566, title II, §211(d)(2), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to remuneration paid after December 31, 1976.”
 
 #### Effective Date of 1970 Amendment
 
-Section 301(a) of Pub. L. 91–373 provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1969.
+Pub. L. 91–373, title III, §301(a), Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1969.
 
 #### Effective Date of 1960 Amendment
 
-Section 523(c) of Pub. L. 86–778 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
+Pub. L. 86–778, title V, §523(c), Sept. 13, 1960, 74 Stat. 982, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

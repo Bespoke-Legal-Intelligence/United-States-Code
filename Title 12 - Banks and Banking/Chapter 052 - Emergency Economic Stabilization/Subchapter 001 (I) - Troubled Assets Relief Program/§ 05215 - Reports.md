@@ -68,7 +68,7 @@ Any report required under this section shall also be submitted to the Congressio
 
 The reporting requirements under this section shall terminate on the later of—
 
-&emsp;(1) the date that the last troubled asset acquired by the Secretary under section 5211 ofthis title has been sold or transferred out of the ownership or control of the Federal Government; or
+&emsp;(1) the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
 
 &emsp;(2) the date of expiration of the last insurance contract issued under section 5212 of this title.
 

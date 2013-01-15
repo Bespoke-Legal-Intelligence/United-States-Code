@@ -126,7 +126,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (3) Consistency with verification requirements
 
-&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(<i>l</i>) of title 31.
+&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(l) of title 31.
 
 #### (4) Definitions
 
@@ -240,7 +240,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 #### (A) No civil actions
 
-&emsp;&emsp;Sections 1681n and 1681<i>o</i> of this title shall not apply to any failure by any person to comply with this section.
+&emsp;&emsp;Sections 1681n and 1681o of this title shall not apply to any failure by any person to comply with this section.
 
 #### (B) Administrative enforcement
 

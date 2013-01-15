@@ -20,7 +20,7 @@ Section was formerly classified to section 1301 of Title 31 prior to the general
 
 #### Effective Date
 
-Section 905 of Pub. L. 93–344 provided effective dates for Pub. L. 93–344 prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
+Pub. L. 93–344, title IX, §905, July 12, 1974, 88 Stat. 331, provided effective dates for Pub. L. 93–344 prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
 
 #### Short Title of 1999 Amendment
 
@@ -146,7 +146,7 @@ Permanent.—An affirmative vote of three-fifths of the Members, duly chosen and
 
 &emsp;“(3)
 
-Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shallbe required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 “(e)
 

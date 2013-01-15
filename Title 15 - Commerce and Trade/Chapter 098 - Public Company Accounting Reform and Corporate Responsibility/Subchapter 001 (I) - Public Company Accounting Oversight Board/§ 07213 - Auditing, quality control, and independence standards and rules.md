@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate,through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
 
 #### (2) Rule requirements
 
@@ -58,6 +58,10 @@
 
 &emsp;&emsp;The Board shall adopt standards described in subparagraph (A)(i) as initial or transitional standards, to the extent the Board determines necessary, prior to a determination of the Commission under section 7211(d) of this title, and such standards shall be separately approved by the Commission at the time of that determination, without regard to the procedures required by section 7217 of this title that otherwise would apply to the approval of rules of the Board.
 
+#### (C) Transition period for emerging growth companies
+
+&emsp;&emsp;Any rules of the Board requiring mandatory audit firm rotation or a supplement to the auditor's report in which the auditor would be required to provide additional information about the audit and the financial statements of the issuer (auditor discussion and analysis) shall not apply to an audit of an emerging growth company, as defined in section 78c of this title. Any additional rules adopted by the Board after April 5, 2012, shall not apply to an audit of any emerging growth company, unless the Commission determines that the application of such additional requirements is necessary or appropriate in the public interest, after considering the protection of investors and whether the action will promote efficiency, competition, and capital formation.
+
 #### (4) Advisory groups
 
 &emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
@@ -70,7 +74,7 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 #### (1) In general
 
-&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountantsdesignated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
 
 #### (2) Board responses
 
@@ -80,15 +84,17 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.
 
-(Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929.)
+(Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, §104, Apr. 5, 2012, 126 Stat. 310.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i>, and 78q of this title. For complete classification of title II to the Code, see Tables.
+Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78l, and 78q of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(3)(C). Pub. L. 112–106 added subpar. (C).
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
 

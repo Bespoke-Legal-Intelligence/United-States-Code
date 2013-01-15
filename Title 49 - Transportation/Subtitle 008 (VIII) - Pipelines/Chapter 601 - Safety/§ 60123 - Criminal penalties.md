@@ -26,7 +26,7 @@ Penalty for Not Using One-Call Notification System or Not Heeding Location Infor
 
 &emsp;&emsp;(A) a pipeline facility that results in death, serious bodily harm, or actual damage to property of more than $50,000;
 
-&emsp;&emsp;(B) a pipeline facility, and knows or has reason to know of the damage, but does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or
+&emsp;&emsp;(B) a pipeline facility, and knows or has reason to know of the damage, but does notreport the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or
 
 &emsp;&emsp;(C) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
 

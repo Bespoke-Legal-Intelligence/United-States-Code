@@ -46,7 +46,7 @@ Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95�
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–705 provided: “That this Act \[amending this section and sections 182, 184, 187a, 226, 226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title\] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
+Pub. L. 86–705, §1, Sept. 2, 1960, 74 Stat. 781, provided: “That this Act \[amending this section and sections 182, 184, 187a, 226, 226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title\] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
 
 #### Short Title
 
@@ -58,11 +58,11 @@ This chapter is also popularly known as the “Mineral Leasing Act of 1920” an
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as permitting any person to place, or allow to be placed, spent oil shale, etc., on any Federal land other than land leased for the recovery of shale oil under the act of Feb. 25, 1920, section 181 et seq. of this title, see section 701(d) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-Section 15 of act Aug. 8, 1946, provided: “No repeal or amendment made by this Act \[enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealing sections 223a, 226a, and 226b of this title\] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act \[Aug. 8, 1946\] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
+Act Aug. 8, 1946, ch. 916, §15, 60 Stat. 950, provided: “No repeal or amendment made by this Act \[enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealing sections 223a, 226a, and 226b of this title\] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act \[Aug. 8, 1946\] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
 
 #### Construction and Applicability of 1981 Amendments
 
-Section 1(10), (11) of Pub. L. 97–78 provided that:
+Pub. L. 97–78, §1(10), (11), Nov. 16, 1981, 95 Stat. 1072, provided that:
 
 “(10) Nothing in this Act \[see Short Title of 1981 Amendment note above\] shall affect the taxable status of production from tar sand under the Crude Oil Windfall Profit Tax Act of 1980 (Public Law 96–223) \[see Tables for classification\], reduce the depletion allowance for production from tar sand, or otherwise affect the existing tax status applicable to such production.
 

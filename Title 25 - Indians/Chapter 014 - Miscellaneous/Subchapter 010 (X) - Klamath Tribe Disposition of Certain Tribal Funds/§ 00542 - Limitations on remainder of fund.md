@@ -20,5 +20,5 @@ Act of June 1, 1938, referred to in subsec. (b), is act June 1, 1938, ch. 310, 5
 
 #### Effective Date of 1954 Amendment
 
-Section 12 of act Aug. 13, 1954, provided that the amendment made by that section is effective on the date of the transfer of tribal property to a trustee, corporation, or other legal entity pursuant to section 564e of this title.
+Act Aug. 13, 1954, ch. 732, §12, 68 Stat. 721, provided that the amendment made by that section is effective on the date of the transfer of tribal property to a trustee, corporation, or other legal entity pursuant to section 564e of this title.
 

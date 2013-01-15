@@ -6,7 +6,7 @@ The purpose of this subpart is to establish and implement a model partnership be
 
 #### (b) Authorization
 
-The Secretary is authorized to enter into a contract with Reading Is Fundamental (RIF) (hereafter in this section referred to as the “contractor”) to support and promote programs, which include the distribution of inexpensive books to young and school-age children, that motivate children to read.
+The Secretary is authorized to enter into a contract with Reading Is Fundamental (RIF)\(hereafter in this section referred to as the “contractor”) to support and promote programs, which include the distribution of inexpensive books to young and school-age children, that motivate children to read.
 
 #### (c) Requirements of contract
 
@@ -36,7 +36,7 @@ Any contract entered into under subsection (b) of this section shall contain eac
 
 &emsp;&emsp;(I) Children whose parents are institutionalized or incarcerated.
 
-&emsp;(4) A provision that the contractor will provide such training and technical assistance tosubcontractors as may be necessary to carry out the purpose of this subpart.
+&emsp;(4) A provision that the contractor will provide such training and technical assistance to subcontractors as may be necessary to carry out the purpose of this subpart.
 
 &emsp;(5) A provision that the contractor will annually report to the Secretary the number, and a description, of programs funded under paragraph (3).
 

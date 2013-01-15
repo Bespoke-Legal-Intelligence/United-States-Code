@@ -132,7 +132,7 @@ Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) wh
 
 #### Effective Date of 1991 Amendment
 
-Section 110(b) of Pub. L. 102–166 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 1991\].”
+Pub. L. 102–166, title I, §110(b), Nov. 21, 1991, 105 Stat. 1078, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 1991\].”
 
 Amendment by section 111 of Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under section 1981 of this title.
 
@@ -142,7 +142,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Reorganization Plan No. 1 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Section 905 of Pub. L. 95–454, Oct. 13, 1978, 92 Stat. 1224, provided in part that any provision in Reorganization Plan No. 1 of 1978 \[set out below\] inconsistent with any provision of that Act \[see Tables for classification\] was superseded thereby.
+Pub. L. 95–454, title IX, §905, Oct. 13, 1978, 92 Stat. 1224, provided in part that any provision in Reorganization Plan No. 1 of 1978 \[set out below\] inconsistent with any provision of that Act \[see Tables for classification\] was superseded thereby.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1978</b>
 

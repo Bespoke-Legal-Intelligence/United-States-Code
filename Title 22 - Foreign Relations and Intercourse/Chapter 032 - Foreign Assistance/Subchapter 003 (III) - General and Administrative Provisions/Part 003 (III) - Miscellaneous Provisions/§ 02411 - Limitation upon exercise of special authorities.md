@@ -28,7 +28,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Funds Not To Be Used To Finance Introduction of United States Ground Combat Troops Into Cambodia or Provide Advisers for Security or Intelligence Forces in Cambodia; Assistance to Cambodia Not To Be Construed as Commitment by United States to Cambodia for Its Defense
 
-Section 7 of Pub. L. 91–652, as amended by Pub. L. 92–226, pt. IV, §408, Feb. 7, 1972, 86 Stat. 35, provided that:
+Pub. L. 91–652, §7, Jan. 5, 1971, 84 Stat. 1943, as amended by Pub. L. 92–226, pt. IV, §408, Feb. 7, 1972, 86 Stat. 35, provided that:
 
 “(a) In line with the expressed intention of the President of the United States, none of the funds authorized or appropriated pursuant to this or any other Act may be used to finance the introduction of United States ground combat troops into Cambodia, or to provide United States advisers to or for military, paramilitary, police, or other security or intelligence forces in Cambodia.
 

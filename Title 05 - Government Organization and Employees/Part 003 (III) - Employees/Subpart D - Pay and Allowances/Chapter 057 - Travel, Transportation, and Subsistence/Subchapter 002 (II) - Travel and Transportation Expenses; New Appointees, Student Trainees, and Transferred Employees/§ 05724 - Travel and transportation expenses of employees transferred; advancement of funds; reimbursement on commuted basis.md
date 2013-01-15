@@ -20,7 +20,7 @@
 
 > However, payment under this subsection may not exceed the maximum payment to which the employee otherwise would be entitled under subsection (a) of this section for transportation and temporary storage of his household goods and personal effects in connection with this transfer.
 
-(c) Under regulations prescribed under section 5738 of this title, an employee who transfers between points inside the continental United States, instead of being paid for the actual expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects, shall be reimbursed on a commuted basis at the rates per 100 pounds that are fixed by zones in the regulations. The reimbursement may not exceed the amount which would be allowable for the authorized weight allowance. However, under regulations prescribed under section 5738 of this title, payment of actual expenses may be made when the head of the agency determines that payment of actual expenses is more economical to the Government.
+(c) Under regulations prescribed under section 5738 of this title, an employee who transfers between points inside the continental United States, instead of being paid for the actual expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects, shall be reimbursed on a commuted basis at the rates per 100 pounds that are fixed by zones in the regulations. The reimbursement may not exceed theamount which would be allowable for the authorized weight allowance. However, under regulations prescribed under section 5738 of this title, payment of actual expenses may be made when the head of the agency determines that payment of actual expenses is more economical to the Government.
 
 (d) When an employee transfers to a post of duty outside the continental United States, his expenses of travel and transportation to and from the post shall be allowed to the same extent and with the same limitations prescribed for a new appointee under section 5722 of this title.
 
@@ -32,7 +32,7 @@
 
 (h) When a transfer is made primarily for the convenience or benefit of an employee, including an employee in the Foreign Service of the United States, or at his request, his expenses of travel and transportation and the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects may not be allowed or paid from Government funds.
 
-(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by theGovernment for the expenses and allowances is recoverable from the employee as a debt due the Government.
+(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the Government for the expenses and allowances is recoverable from the employee as a debt due the Government.
 
 (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
@@ -110,7 +110,7 @@ Subsection (a)(1), (3) of section 1 of the act of July 21, 1966, was effected in
 
 In subsection (e), the word “However” is substituted for “and notwithstanding the provisions of the fourth proviso of section 1(a) of this Act” to reflect the codification of that proviso in 5 U.S.C. 5724(e). The words “agency” and “agencies” are substituted for “department” and “departments”, respectively, to conform to the definition in 5 U.S.C. 5721(1). The words “this section and sections 5726(b) and 5727 of this title” and “section 5724a (a), (b) of this title” are substituted for “section 1, subsections (a) and (b) and subsections (e) and (f)” and “sections 23 and 24 of this Act”, respectively, to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105.
 
-In subsection (i), the words “An agency may pay \* \* \* expenses \* \* \* and allowances under this section and sections 5724a and 5726(c) of this title \* \* \* only after” are substituted for “Notwithstanding the provisions of subsections (a) and (b) of section 1, and of sections 23, 24, 25, and 27 of this Act, the \* \* \* expenses \* \* \* and \* \* \* allowances shall not be allowed thereunder \* \* \* unless and until” for clarity and to conform to the style of 5 U.S.C., and to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “civilian officer or employee” and “such officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “continental United States” are substituted for “continental United States, excluding Alaska” to conform to the definition in 5 U.S.C. 5721(3). The word “agency” is substituted for “department or agency” to conform to the definition in 5 U.S.C. 5721(1). In the last sentence, the words “money spent by the United States for the expenses and allowances” are substituted for “moneys expended by the United States under said sections of this act on account of such officer or employee.”
+In subsection (i), the words “An agency may pay \* \* \* expenses \* \* \* and allowances under this section and sections 5724a and 5726(c) of this title \* \* \* only after” are substituted for “Notwithstanding the provisions of subsections (a) and (b) of section 1, and of sections 23, 24, 25, and 27 of this Act, the \* \* \* expenses \* \* \* and\* \* \* allowances shall not be allowed thereunder \* \* \* unless and until” for clarity and to conform to the style of 5 U.S.C., and to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “civilian officer or employee” and “such officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “continental United States” are substituted for “continental United States, excluding Alaska” to conform to the definition in 5 U.S.C. 5721(3). The word “agency” is substituted for “department or agency” to conform to the definition in 5 U.S.C. 5721(1). In the last sentence, the words “money spent by the United States for the expenses and allowances” are substituted for “moneys expended by the United States under said sections of this act on account of such officer or employee.”
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Subsec. (i). Pub. L. 105–264, §6(4)(B), substituted “Government” for “U
 
 Subsec. (c). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
-Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for“Under such regulations as the President may prescribe”.
+Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 Subsec. (e). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
@@ -166,7 +166,7 @@ Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 
 #### Effective Date of 1997 Amendment
 
-Section 3550(c)(3) of Pub. L. 105–85 provided that: “The amendments made by this subsection \[amending this section and section 5724a of this title\] shall take effect on January 1, 1999.”
+Pub. L. 105–85, div. C, title XXXV, §3550(c)(3), Nov. 18, 1997, 111 Stat. 2074, provided that: “The amendments made by this subsection \[amending this section and section 5724a of this title\] shall take effect on January 1, 1999.”
 
 #### Effective Date of 1996 Amendment
 
@@ -174,9 +174,9 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1994 Amendment
 
-Section 3(b) of Pub. L. 103–338 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the Technical and Miscellaneous Civil Service Amendments Act of 1992 (Public Law 102–378; 106 Stat. 1346; 5 U.S.C. 1101 note).”
+Pub. L. 103–338, §3(b), Oct. 6, 1994, 108 Stat. 3114, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the Technical and Miscellaneous Civil Service Amendments Act of 1992 (Public Law 102–378; 106 Stat. 1346; 5 U.S.C. 1101 note).”
 
-Section 5(a) of Pub. L. 103–338 provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] and the amendment made by this Act shall take effect on October 1, 1994, or, if later, the date of the enactment of this Act \[Oct. 6, 1994\].”
+Pub. L. 103–338, §5(a), Oct. 6, 1994, 108 Stat. 3115, provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] and the amendment made by this Act shall take effect on October 1, 1994, or, if later, the date of the enactment of this Act \[Oct. 6, 1994\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 102–378 applicable with respect to a separation that take
 
 #### Effective Date of 1983 Amendment; Promulgation of Regulations
 
-Section 118(c) of Pub. L. 98–151 provided that:
+Pub. L. 98–151, §118(c), Nov. 14, 1983, 97 Stat. 979, provided that:
 
 “(1) The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall take effect on the date of the enactment of this joint resolution \[Nov. 14, 1983\].”
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 90–623 effective as of Sept. 11, 1967, for all purposes, 
 
 #### Moving Expenses for Family of Career Appointees Dying in Service Between January 1, 1994, and October 6, 1994
 
-Section 5(b) of Pub. L. 103–338 provided that:
+Pub. L. 103–338, §5(b), Oct. 6, 1994, 108 Stat. 3115, provided that:
 
 “(1)
 
@@ -220,11 +220,11 @@ Condition.—Payment or reimbursement under this subsection may not be made exce
 
 #### Funding of Amendments by Pub. L. 100–440
 
-Section 629(b) of Pub. L. 100–440 provided that: “The amendments made by subsection (a) \[amending this section\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums otherwise authorized to be appropriated for such agencies.”
+Pub. L. 100–440, title VI, §629(b), Sept. 22, 1988, 102 Stat. 1759, provided that: “The amendments made by subsection (a) \[amending this section\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums otherwise authorized to be appropriated for such agencies.”
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subsection (a) \[enacting sections5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
+Pub. L. 98–151, §118(b), Nov. 14, 1983, 97 Stat. 979, provided that: “The amendments made by subsection (a) \[enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title\] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
 
 #### Rates of Reimbursement
 

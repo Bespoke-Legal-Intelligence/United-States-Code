@@ -12,7 +12,7 @@
 
 (3) Property listed in this paragraph is—
 
-&emsp;(A) subject to subsections (<i>o</i>) and (p), any property that is exempt under Federal law, other than subsection (d) of this section, or State or local law that is applicable on the date of the filing of the petition to the place in which the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtor's domicile has not been located in a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place;
+&emsp;(A) subject to subsections (o) and (p), any property that is exempt under Federal law, other than subsection (d) of this section, or State or local law that is applicable on the date of the filing of the petition to the place in which the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtor's domicile has not been located in a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place;
 
 &emsp;(B) any interest in property in which the debtor had, immediately before the commencement of the case, an interest as a tenant by the entirety or joint tenant to the extent that such interest as a tenant by the entirety or joint tenant is exempt from process under applicable nonbankruptcy law; and
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(II) the retirement fund fails to be in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986 and the debtor is not materially responsible for that failure.
 
-&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
+&emsp;(C) A direct transfer of retirement funds from 1 fund or account that is exempt fromtaxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under section 401(a)(31) of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such direct transfer.
 
 &emsp;(D)(i) Any distribution that qualifies as an eligible rollover distribution within the meaning of section 402(c) of the Internal Revenue Code of 1986 or that is described in clause (ii) shall not cease to qualify for exemption under paragraph (3)(C) or subsection (d)(12) by reason of such distribution.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) an award under a crime victim's reparation law;
 
-&emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+&emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonablynecessary for the support of the debtor and any dependent of the debtor;
 
 &emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
@@ -190,7 +190,7 @@
 
 &emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
-(g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such propertyunder subsection (b) of this section if such property had not been transferred, if—
+(g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
 
 &emsp;(1)(A) such transfer was not a voluntary transfer of such property by the debtor; and
 
@@ -216,13 +216,13 @@
 
 &emsp;(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 
-(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+(l) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
 (n) For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
 
-(<i>o</i>) For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
+(o) For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
 
 &emsp;(1) real or personal property that the debtor or a dependent of the debtor uses as a residence;
 
@@ -312,11 +312,11 @@ Subsection (b) tracks current law. It permits a debtor the exemptions to which h
 
 Under proposed section 541, all property of the debtor becomes property of the estate, but the debtor is permitted to exempt certain property from property of the estate under this section. Property may be exempted even if it is subject to a lien, but only the unencumbered portion of the property is to be counted in computing the “value” of the property for the purposes of exemption.
 
-As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor to make full use of the exemptions to which he is entitled under the law.
+As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor tomake full use of the exemptions to which he is entitled under the law.
 
 Subsection (c) insulates exempt property from prepetition claims other than tax claims (whether or not dischargeable), and other than alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge does not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886), is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935).
 
-Subsection (c)(3) permits the collection of dischargeable taxes from exempt assets. Only assets exemptedfrom levy under Section 6334 of the Internal Revenue Code \[title 26\] or under applicable state or local tax law cannot be applied to satisfy these tax claims. This rule applies to prepetition tax claims against the debtor regardless of whether the claims do or do not receive priority and whether they are dischargeable or nondischargeable. Thus, even if a tax is dischargeable vis-a-vis the debtor's after-acquired assets, it may nevertheless be collectible from exempt property held by the estate. (Taxes incurred by the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's exempt assets.)
+Subsection (c)(3) permits the collection of dischargeable taxes from exempt assets. Only assets exempted from levy under Section 6334 of the Internal Revenue Code \[title 26\] or under applicable state or local tax law cannot be applied to satisfy these tax claims. This rule applies to prepetition tax claims against the debtor regardless of whether the claims do or do not receive priority and whether they are dischargeable or nondischargeable. Thus, even if a tax is dischargeable vis-a-vis the debtor's after-acquired assets, it may nevertheless be collectible from exempt property held by the estate. (Taxes incurred by the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's estate which are collectible as first priority administrative expenses are not collectible from the debtor's exempt assets.)
 
 Subsection (d) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
 
@@ -336,7 +336,7 @@ Subsection (j) makes clear that the liability of the debtor's exempt property is
 
 Subsection (k) requires the debtor to file a list of property that he claims as exempt from property of the estate. Absent an objection to the list, the property is exempted. A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
 
-Subsection (<i>l</i>) provides the rule for a joint case.
+Subsection (l) provides the rule for a joint case.
 
 #### house report no. 95–595
 
@@ -356,7 +356,7 @@ Subsection (b), the operative subsection of this section, is a significant depar
 
 &emsp;—Longshoremen's and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
 
-&emsp;—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(<i>l</i>); <sup>10</sup>
+&emsp;—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(l); <sup>10</sup>
 
 &emsp;—Veterans benefits, 45 U.S.C. 352(E); <sup>11</sup>
 
@@ -392,9 +392,9 @@ Subsection (i) permits recovery by the debtor of property transferred in an avoi
 
 Subsection (k) makes clear that the debtor's aliquot share of the costs and expenses \[for\] recovery of property that the trustee recovers and the debtor later exempts, and any costs and expenses of avoiding a transfer by the debtor that the debtor has not already paid.
 
-Subsection (<i>l</i>) requires the debtor to file a list of property that he claims as exempt from property of the estate. Absent an objection to the list, the property is exempted. A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
+Subsection (l) requires the debtor to file a list of property that he claims as exempt from property of the estate. Absent an objection to the list, the property is exempted. A dependent of the debtor may file it and thus be protected if the debtor fails to file the list.
 
-Subsection (m) requires the clerk of the bankruptcy court to give notice of any exemptions claimed under subsection (<i>l</i>), in order that parties in interest may have an opportunity to object to the claim.
+Subsection (m) requires the clerk of the bankruptcy court to give notice of any exemptions claimed under subsection (l), in order that parties in interest may have an opportunity to object to the claim.
 
 Subsection (n) provides the rule for a joint case: each debtor is entitled to the Federal exemptions provided under this section or to the State exemptions, whichever the debtor chooses.
 
@@ -404,7 +404,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(1), are se
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(3)(C), (4), (d)(10)(E)(iii), (12), and (n), is classified generally to Title 26, Internal Revenue Code.
 
-Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (q)(1)(B)(i), (ii), are classified to sections 78c(a)(47), 78<i>l</i>, and 78<i>o</i>(d), respectively, of Title 15, Commerce and Trade.
+Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (q)(1)(B)(i), (ii), are classified to sections 78c(a)(47), 78l, and 78o(d), respectively, of Title 15, Commerce and Trade.
 
 Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(B)(ii), is classified to section 77f of Title 15, Commerce and Trade.
 
@@ -424,7 +424,7 @@ Subsec. (b)(3). Pub. L. 109–8, §307(2), inserted “If the effect of the domi
 
 Pub. L. 109–8, §224(a)(1)(A)(iv), redesignated par. (2) as (3) and inserted introductory provisions.
 
-Subsec. (b)(3)(A). Pub. L. 109–8, §308(1), inserted “subject to subsections (<i>o</i>) and (p),” before “any property”.
+Subsec. (b)(3)(A). Pub. L. 109–8, §308(1), inserted “subject to subsections (o) and (p),” before “any property”.
 
 Pub. L. 109–8, §307(1), substituted “730 days” for “180 days” and “or if the debtor's domicile has not been located at a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place” for “, or for a longer portion of such 180-day period than in any other place”.
 
@@ -452,7 +452,7 @@ Subsec. (g)(2). Pub. L. 109–8, §216(3), substituted “subsection (f)(1)(B)�
 
 Subsec. (n). Pub. L. 109–8, §224(e)(1), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 109–8, §308(2), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 109–8, §308(2), added subsec. (o).
 
 Subsecs. (p), (q). Pub. L. 109–8, §322(a), added subsecs. (p) and (q).
 
@@ -496,7 +496,7 @@ Subsec. (i)(2). Pub. L. 99–554, §283(i)(2), substituted “this” for “his
 
 Subsec. (b). Pub. L. 98–353, §306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
-Subsec. (c). Pub. L. 98–353, §453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
+Subsec. (c). Pub. L. 98–353, §453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
 
 &emsp;“(1) a debt of a kind specified in section 523(a)(1) or section 523(a)(5) of this title; or
 
@@ -538,7 +538,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount “20,200” was adjusted to “21,625”; in subsec. (d)(2), dollar amount “3,225” was adjusted to “3,450”; in subsec. (d)(3), dollar amounts “525” and “10,775” were adjusted to “550” and “11,525”, respectively; in subsec. (d)(4), dollar amount “1,350” was adjusted to “1,450”; in subsec. (d)(5), dollar amounts “1,075” and “10,125” were adjusted to “1,150” and “10,825”, respectively; in subsec. (d)(6), dollar amount “2,025” was adjusted to “2,175”; in subsec. (d)(8), dollar amount “10,775” was adjusted to “11,525”; in subsec. (d)(11)(D), dollar amount “20,200” was adjusted to “21,625”; in subsec. (f)(3)(B), dollar amount “5,475” was adjusted to “5,850”; in subsec. (f)(4)(B), dollar amount “550” was adjusted to “600” each time it appeared; in subsec. (n), dollar amount “1,095,000” was adjusted to “1,171,650”; in subsec. (p)(1), dollar amount “136,875” was adjusted to “146,450”; and, in subsec. (q)(1), dollar amount “136,875” was adjusted to “146,450”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount “21,625” was adjusted to “22,975”; in subsec. (d)(2), dollar amount “3,450” was adjusted to “3,675”; in subsec. (d)(3), dollar amounts “550” and “11,525” were adjusted to “575” and “12,250”, respectively; in subsec. (d)(4), dollar amount “1,450” was adjusted to “1,550”; in subsec. (d)(5), dollar amounts “1,150” and “10,825” were adjusted to “1,225” and “11,500”, respectively; in subsec. (d)(6), dollar amount “2,175” was adjusted to “2,300”; in subsec. (d)(8), dollar amount “11,525” was adjusted to “12,250”; in subsec. (d)(11)(D), dollar amount “21,625” was adjusted to “22,975”; in subsec. (f)(3), dollar amount “5,850” was adjusted to “6,225”; in subsec. (f)(4), dollar amount “600” was adjusted to “650” each time it appeared; in subsec. (n), dollar amount “1,171,650” was adjusted to “1,245,475”; in subsec. (p), dollar amount “146,450” was adjusted to “155,675”; and, in subsec. (q), dollar amount “146,450” was adjusted to “155,675”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount “20,200” was adjusted to “21,625”; in subsec. (d)(2), dollar amount “3,225” was adjusted to “3,450”; in subsec. (d)(3), dollar amounts “525” and “10,775” were adjusted to “550” and “11,525”, respectively; in subsec. (d)(4), dollar amount “1,350” was adjusted to “1,450”; in subsec. (d)(5), dollar amounts “1,075” and “10,125” were adjusted to “1,150” and “10,825”, respectively; in subsec. (d)(6), dollar amount “2,025” was adjusted to “2,175”; in subsec. (d)(8), dollar amount “10,775” was adjusted to “11,525”; in subsec. (d)(11)(D), dollar amount “20,200” was adjusted to “21,625”; in subsec. (f)(3)(B), dollar amount “5,475” was adjusted to “5,850”; in subsec. (f)(4)(B), dollar amount “550” was adjusted to “600” each time it appeared; in subsec. (n), dollar amount “1,095,000” was adjusted to “1,171,650”; in subsec. (p)(1), dollar amount “136,875” was adjusted to “146,450”; and, in subsec. (q)(1), dollar amount “136,875” was adjusted to “146,450”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d)(1), dollar amount “18,450” was adjusted to “20,200”; in subsec. (d)(2), dollar amount “2,950” was adjusted to “3,225”; in subsec. (d)(3), dollar amounts “475” and “9,850” were adjusted to “525” and “10,775”, respectively; in subsec. (d)(4), dollar amount “1,225” was adjusted to “1,350”; in subsec. (d)(5), dollar amounts “975” and “9,250” were adjusted to “1,075” and “10,125”, respectively; in subsec. (d)(6), dollar amount “1,850” was adjusted to “2,025”; in subsec. (d)(8), dollar amount “9,850” was adjusted to “10,775”; in subsec. (d)(11)(D), dollar amount “18,450” was adjusted to “20,200”; in subsec. (f)(3), dollar amount “5,000” was adjusted to “5,475”; in subsec. (f)(4), dollar amount “500” was adjusted to “550” each time it appeared; in subsec. (n), dollar amount “1,000,000” was adjusted to “1,095,000”; in subsec. (p), dollar amount “125,000” was adjusted to “136,875”; and, in subsec. (q), dollar amount “125,000” was adjusted to “136,875”.
 
@@ -546,7 +548,7 @@ By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. 
 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (d)(1), dollar amount “16,150” was adjusted to “17,425”; in subsec. (d)(2), dollar amount “2,575” was adjusted to “2,775”; in subsec. (d)(3), dollar amounts “425” and “8,625” were adjusted to “450” and “9,300”, respectively; in subsec. (d)(4), dollar amount “1,075” was adjusted to “1,150”; in subsec. (d)(5), dollar amounts “850” and “8,075” were adjusted to “925” and “8,725”, respectively; in subsec. (d)(6), dollar amount “1,625” was adjusted to “1,750”; in subsec. (d)(8), dollar amount “8,625” was adjusted to “9,300”; and, in subsec. (d)(11)(D), dollar amount “16,150” was adjusted to “17,425”.
 
-By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount “15,000” was adjusted to “16,150”; in subsec. (d)(2), dollar amount “2,400” was adjusted to “2,575”; in subsec. (d)(3), dollar amounts “400” and “8,000” were adjusted to “425” and “8,625”, respectively; in subsec. (d)(4), dollar amount “1,000” was adjusted to “1,075”; in subsec. (d)(5), dollar amounts “800” and “7,500” were adjusted to “850” and “8,075”, respectively; in subsec. (d)(6), dollar amount “1,500” was adjusted to “1,625”; in subsec. (d)(8), dollar amount “8,000” was adjusted to “8,625”; and, in subsec. (d)(11)(D), dollar amount “15,000” was adjusted to “16,150”.
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount “15,000” was adjusted to “16,150”; in subsec. (d)(2), dollar amount “2,400” was adjusted to “2,575”; in subsec. (d)(3), dollar amounts “400” and “8,000” were adjusted to “425” and “8,625”, respectively; in subsec. (d)(4), dollar amount“1,000” was adjusted to “1,075”; in subsec. (d)(5), dollar amounts “800” and “7,500” were adjusted to “850” and “8,075”, respectively; in subsec. (d)(6), dollar amount “1,500” was adjusted to “1,625”; in subsec. (d)(8), dollar amount “8,000” was adjusted to “8,625”; and, in subsec. (d)(11)(D), dollar amount “15,000” was adjusted to “16,150”.
 
 <i><sup>1</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 

@@ -56,7 +56,7 @@ Subsec. (d)(3). Pub. L. 112–81, §2802(b)(1), substituted “February 1, 2014�
 
 Subsec. (d)(5). Pub. L. 112–81, §2802(b)(2), substituted “September 30, 2016” for “September 30, 2012”.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary maynot use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
 
 Subsec. (c). Pub. L. 111–84, §2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
 
@@ -72,7 +72,7 @@ Subsecs. (b), (c). Pub. L. 110–181, §2804(b)(2), (3), inserted subsec. headin
 
 Subsecs. (d), (e). Pub. L. 110–181, §2804(a), (b)(4), added subsec. (d), redesignated former subsec. (d) as (e), and inserted subsec. (e) heading.
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day periodbeginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
 <b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §2801(a), substituted “$750,000” for “$500,000”.
 
@@ -140,7 +140,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2892, Feb. 10, 1996, 110 Stat. 590, a
 
 “(a)
 
-Program Authorized.—The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects inaccordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
+Program Authorized.—The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects in accordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
 
 “(b)
 

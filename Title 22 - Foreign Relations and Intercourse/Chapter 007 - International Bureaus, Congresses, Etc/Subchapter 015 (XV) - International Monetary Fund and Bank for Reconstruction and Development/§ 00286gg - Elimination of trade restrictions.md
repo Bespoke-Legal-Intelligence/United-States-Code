@@ -2,7 +2,7 @@
 
 #### (a) Promotion of fair trade as financial assistance policy
 
-(1) The Secretary of the Treasury shall instruct the United States Executive Director of each of the multilateral development banks (in this section referred to as the “banks”) and of the Fund to initiate a wide consultation with the Managing Director of each of the banks and of the Fund and the other directors of the banks and of the Fund with regard to the development of financial assistance policies which, to the maximum feasible extent—
+(1) The Secretary of the Treasury shall instruct the United States Executive Director ofeach of the multilateral development banks (in this section referred to as the “banks”) and of the Fund to initiate a wide consultation with the Managing Director of each of the banks and of the Fund and the other directors of the banks and of the Fund with regard to the development of financial assistance policies which, to the maximum feasible extent—
 
 &emsp;(A) reduce obstacles to and restrictions upon international trade and investment in goods and services;
 
@@ -32,7 +32,7 @@
 
 #### (c) United States position on requests for loans or drawing under bank and Fund programs; progress made in eliminating unfair trade practices
 
-(1) In determining the United States position on requests for loans or periodic drawing under bank and Fund programs, the Secretary of theTreasury shall take full account of the progress countries have made in achieving targets for eliminating or phasing out the practices referred to in subsection (b) of this section.
+(1) In determining the United States position on requests for loans or periodic drawing under bank and Fund programs, the Secretary of the Treasury shall take full account of the progress countries have made in achieving targets for eliminating or phasing out the practices referred to in subsection (b) of this section.
 
 (2) In the event that the United States supports a request for loans or drawing by a country that has not achieved the bank and Fund targets relating to such practices specified in its program, the Secretary of the Treasury shall report to the appropriate committees of the Congress the reasons for the United States position.
 
@@ -40,7 +40,7 @@
 
 For purposes of this section, the term “multilateral development banks” means the International Bank for Reconstruction and Development, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
 
-(July 31, 1945, ch. 339, §49, as added Pub. L. 98–181, title VIII, §812, Nov. 30, 1983, 97 Stat. 1275; amended Pub. L. 99–500, §101(f) \[title V, §555\], Oct. 18, 1986, 100 Stat. 1783–213, 1783–240, and Pub. L. 99–591, §101(f) \[title V, §555\], Oct. 30, 1986, 100 Stat. 3341–214, 3341–240; Pub. L. 106–36, title I, §1002(c), June 25, 1999, 113 Stat. 133.)
+(July 31, 1945, ch. 339, §49, as added Pub. L. 98–181, title I \[title VIII, §812\], Nov. 30, 1983, 97 Stat. 1275; amended Pub. L. 99–500, §101(f) \[title V, §555\], Oct. 18, 1986, 100 Stat. 1783–213, 1783–240, and Pub. L. 99–591, §101(f) \[title V, §555\], Oct. 30, 1986, 100 Stat. 3341–214, 3341–240; Pub. L. 106–36, title I, §1002(c), June 25, 1999, 113 Stat. 133.)
 
 #### Codification
 

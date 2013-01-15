@@ -34,5 +34,5 @@ Terms and Conditions.—(1) Nothing in this Act \[see Short Title of 1992 Amendm
 
 “(d)
 
-Land and Water Conservation Fund Act.—For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9), the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965.”
+Land and Water Conservation Fund Act.—For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9), the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965.”
 

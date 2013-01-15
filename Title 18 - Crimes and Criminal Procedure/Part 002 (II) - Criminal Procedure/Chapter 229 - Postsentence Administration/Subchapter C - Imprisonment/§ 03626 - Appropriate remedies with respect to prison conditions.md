@@ -20,7 +20,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(2)
 
-Preliminary injunctive relief.—In any civil action with respect to prison conditions,to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire onthe date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
 &emsp;(3)
 
@@ -88,7 +88,7 @@ Private settlement agreements.—(A) Nothing in this section shall preclude part
 
 (d)
 
-State Law Remedies.—The limitations on remedies in this section shall not apply to reliefentered by a State court based solely upon claims arising under State law.
+State Law Remedies.—The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
 
 (e)
 
@@ -102,7 +102,7 @@ Generally.—The court shall promptly rule on any motion to modify or terminate 
 
 Automatic stay.—Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay during the period—
 
-&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion made under paragraph (1) or (2) of subsection (b); or
+&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion madeunder paragraph (1) or (2) of subsection (b); or
 
 &emsp;&emsp;(ii) beginning on the 180th day after such motion is filed, in the case of a motion made under any other law; and
 
@@ -180,7 +180,7 @@ Definitions.—As used in this section—
 
 &emsp;(9) the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
+(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134,title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
 #### References in Text
 
@@ -208,19 +208,19 @@ Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
 
 #### Effective Date of 1997 Amendment
 
-Section 123(b) of Pub. L. 105–119 provided that: “The amendments made by this Act \[probably should be “section”, amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases.”
+Pub. L. 105–119, title I, §123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: “The amendments made by this Act \[probably should be “section”, amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases.”
 
 #### Effective Date of 1996 Amendment
 
-Section 101\[(a)\] \[title VIII, §802(b)(1)\] of Pub. L. 104–134 provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\].”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(1)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70, provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\].”
 
 #### Effective and Termination Dates
 
-Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 103–322, title II, §20409(b), Sept. 13, 1994, 108 Stat. 1828, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and Pub. L. 103–322, title II, §20409(d), Sept. 13, 1994, 108 Stat. 1828, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Severability
 
-Section 101\[(a)\] \[title VIII, §810\] of Pub. L. 104–134 provided that: “If any provision of this title \[see Short Title of 1996 Amendment note set out under section 3601 of this title\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 110 Stat. 1321, 1321–77, provided that: “If any provision of this title \[see Short Title of 1996 Amendment note set out under section 3601 of this title\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
@@ -228,9 +228,9 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 199
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
 
 #### Notice to Crime Victims of Pending Damage Award
 
-Section 101\[(a)\] \[title VIII, §808\] of Pub. L. 104–134 provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §808\], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
 

@@ -10,7 +10,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 &emsp;(3) To manage agricultural resources consistent with integrated resource management plans in order to protect and maintain other values such as wildlife, fisheries, cultural resources, recreation and to regulate water runoff and minimize soil erosion.
 
-&emsp;(4) To enable Indian farmers and ranchers to maximize the potential benefits available to them through their land by providing technical assistance, training, and education in conservation practices, management and economics of agribusiness, sources and use of credit and marketing of agricultural products, and other applicable subject areas.
+&emsp;(4) To enable Indian farmers and ranchers to maximize the potential benefits available tothem through their land by providing technical assistance, training, and education in conservation practices, management and economics of agribusiness, sources and use of credit and marketing of agricultural products, and other applicable subject areas.
 
 &emsp;(5) To develop Indian agricultural lands and associated value-added industries of Indians and Indian tribes to promote self-sustaining communities.
 

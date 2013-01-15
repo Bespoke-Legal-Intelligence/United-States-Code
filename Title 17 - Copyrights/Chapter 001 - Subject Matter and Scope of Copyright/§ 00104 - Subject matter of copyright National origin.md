@@ -90,7 +90,7 @@ WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic pr
 
 WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 
-WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to theChairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
+WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
 
 NOW, THEREFORE, I, LYNDON B. JOHNSON, President of the United States of America, by virtue of the authority vested in me by Section 9 of Title 17 of the United States Code \[section 9 of former Title 17\], do declare and proclaim:
 
@@ -106,5 +106,5 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Proclamations Issued Under Predecessor Provisions
 
-Section 104 of Pub. L. 94–553 provided that: “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
+Pub. L. 94–553, title I, §104, Oct. 19, 1976, 90 Stat. 2599, provided that: “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
 

@@ -6,7 +6,7 @@ Available Sanctions.—A person who has been released under section 3142 of this
 
 (b)
 
-Revocation of Release.—The attorney for the Government may initiate a proceeding for revocation of an order of release by filing a motion with the district court. A judicial officer may issue a warrant for the arrest of a person charged with violating a condition of release, and the person shall be brought before a judicial officer in the district in which such person's arrest was ordered for a proceeding in accordance with this section. To the extent practicable, a person charged with violating the condition of release that such person not commit a Federal, State, or local crime during the period of release, shall be brought before the judicial officer who ordered the release and whose order is alleged to have been violated. The judicial officer shall enter an order of revocation and detention if, after a hearing, the judicial officer—
+Revocation of Release.—The attorney for the Government may initiate a proceeding for revocation of an order of release by filing a motion with the district court. A judicial officermay issue a warrant for the arrest of a person charged with violating a condition of release, and the person shall be brought before a judicial officer in the district in which such person's arrest was ordered for a proceeding in accordance with this section. To the extent practicable, a person charged with violating the condition of release that such person not commit a Federal, State, or local crime during the period of release, shall be brought before the judicial officer who ordered the release and whose order is alleged to have been violated. The judicial officer shall enter an order of revocation and detention if, after a hearing, the judicial officer—
 
 &emsp;(1) finds that there is—
 
@@ -30,7 +30,7 @@ Prosecution for Contempt.—The judicial officer may commence a prosecution for 
 
 #### Prior Provisions
 
-A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X,§1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X, §1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 

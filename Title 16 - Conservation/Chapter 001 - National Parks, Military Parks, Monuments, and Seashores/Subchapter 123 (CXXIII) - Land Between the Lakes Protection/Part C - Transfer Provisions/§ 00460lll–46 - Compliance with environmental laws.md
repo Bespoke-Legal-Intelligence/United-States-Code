@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 60 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Chairman and the Administrator shall provide the Secretary all documentation and information that exists on the environmental condition of the land and waters comprising the Recreation Area property.
+&emsp;Not later than 60 days after the date of transfer pursuant to section 460lll–41 of this title, the Chairman and the Administrator shall provide the Secretary all documentation and information that exists on the environmental condition of the land and waters comprising the Recreation Area property.
 
 #### (2) Additional documentation
 
@@ -14,7 +14,7 @@
 
 #### (1) Assessment
 
-&emsp;Not later than 120 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Chairman shall provide to the Secretary an assessment indicating what action, if any, is required under any environmental law on Recreation Area property.
+&emsp;Not later than 120 days after the date of transfer pursuant to section 460lll–41 of this title, the Chairman shall provide to the Secretary an assessment indicating what action, if any, is required under any environmental law on Recreation Area property.
 
 #### (2) Memorandum of understanding
 
@@ -44,7 +44,7 @@ On the transfer of jurisdiction over the Recreation Area from the Tennessee Vall
 
 &emsp;&emsp;(A) costs or performance of response actions required under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) at or related to the Recreation Area; or
 
-&emsp;&emsp;(B) costs, penalties, fines, or performance of actions related to noncompliance with any environmental law at or related to the Recreation Area or related to the presence, release, or threat of release of any hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product of any kind at or related to the Recreation Area, including contamination resulting from migration.
+&emsp;&emsp;(B) costs, penalties, fines, or performance of actions related to noncompliance with any environmental law at or related to the Recreation Area or related to the presence,release, or threat of release of any hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product of any kind at or related to the Recreation Area, including contamination resulting from migration.
 
 #### (4) No effect on responsibilities or liabilities
 
@@ -52,7 +52,7 @@ On the transfer of jurisdiction over the Recreation Area from the Tennessee Vall
 
 #### (e) Other Federal agencies
 
-Subject to the other provisions of this section, a Federal agency that carried or carries out operations at the Recreation Area resulting in the release or threatened release of a hazardous substance, pollutant, or contaminant, hazardouswaste, hazardous material, or petroleum product or derivative of a petroleum product for which that agency would be liable under any environmental law shall pay the costs of related response actions and shall pay the costs of related actions to remediate petroleum products or their derivatives.
+Subject to the other provisions of this section, a Federal agency that carried or carries out operations at the Recreation Area resulting in the release or threatened release of a hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product for which that agency would be liable under any environmental law shall pay the costs of related response actions and shall pay the costs of related actions to remediate petroleum products or their derivatives.
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §546\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–320.)
 

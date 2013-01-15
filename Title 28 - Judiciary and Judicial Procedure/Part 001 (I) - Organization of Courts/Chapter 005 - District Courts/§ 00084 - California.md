@@ -58,7 +58,7 @@ Changes in arrangement and phraseology were made.
 
 #### Effective Date of 1992 Amendment
 
-Section 3 of Pub. L. 102–357 provided that:
+Pub. L. 102–357, §3, Aug. 26, 1992, 106 Stat. 959, provided that:
 
 “(a)
 
@@ -74,7 +74,7 @@ Juries Not Affected.—This Act and the amendments made by this Act shall not af
 
 #### Effective Date of 1980 Amendment; Savings Provision
 
-Section 7 of Pub. L. 96–462 provided that:
+Pub. L. 96–462, §7, Oct. 15, 1980, 94 Stat. 2054, provided that:
 
 “(a) This Act and the amendments made by this Act \[amending this section and sections 95, 105, 113, and 124 of this title and enacting provisions set out as notes under this section and sections 95, 105, and 113 of this title\] shall take effect on October 1, 1981.
 
@@ -82,11 +82,11 @@ Section 7 of Pub. L. 96–462 provided that:
 
 #### Effective Date of 1966 Amendment
 
-Section 3(i) of Pub. L. 89–372 provided that: “The provisions of this section \[amending this section and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective six months after the date of enactment of this Act \[Mar. 18, 1966\].”
+Pub. L. 89–372, §3(i), Mar. 18, 1966, 80 Stat. 77, provided that: “The provisions of this section \[amending this section and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective six months after the date of enactment of this Act \[Mar. 18, 1966\].”
 
 #### Congressional Findings Concerning Creation of Three Divisions in Central District
 
-Section 1 of Pub. L. 102–357 provided that: “The Congress makes the following findings:
+Pub. L. 102–357, §1, Aug. 26, 1992, 106 Stat. 958, provided that: “The Congress makes the following findings:
 
 &emsp;“(1) The Federal Government has the responsibility to provide quality services which are readily accessible to the people it serves.
 
@@ -106,7 +106,7 @@ Pub. L. 95–573, §5, Nov. 2, 1978, 92 Stat. 2458, required the Director of the
 
 #### Creation of Eastern and Central Districts: Transfer of District Judges; Transfer and Appointment of United States Attorneys and United States Marshals
 
-Section 3(b)–(g) of Pub. L. 89–372 provided that:
+Pub. L. 89–372, §3(b)–(g), Mar. 18, 1966, 80 Stat. 76, 77, provided that:
 
 “(b) The two district judges for the northern district of California holding office on the day before the effective date of this section \[see Effective Date of 1966 Amendment note above\] and whose official station is Sacramento shall, on and after such date, be district judges for the eastern district of California. All other district judges for the northern district of California holding office on the day before the effective date of this section shall, on and after such date, be district judges for the northern district of California.
 

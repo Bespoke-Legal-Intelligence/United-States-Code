@@ -10,7 +10,7 @@ Pilot program.—
 
 &emsp;&emsp;(A)
 
-Establishment.—The Secretary may establish a pilot program under which States may assume the responsibilities of the Secretary under any Federal laws subject to the requirements of this section.
+Establishment.—The Secretary may establish a pilot program under which Statesmay assume the responsibilities of the Secretary under any Federal laws subject to the requirements of this section.
 
 &emsp;&emsp;(B)
 
@@ -18,11 +18,11 @@ First 3 fiscal years.—In the first 3 fiscal years following the date of enactm
 
 &emsp;(2)
 
-Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under anyFederal law as such requirements apply to the following projects:
+Scope of program.—Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary's responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
 
-&emsp;&emsp;(A) Projects funded under section 104(h).
+&emsp;&emsp;(A) Projects funded under section 104(h).<sup>1</sup>
 
-&emsp;&emsp;(B) Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35).
+&emsp;&emsp;(B) Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35).<sup>1</sup>
 
 (b)
 
@@ -106,7 +106,13 @@ Preservation of Public Interest Consideration.—Nothing in this section shall b
 
 The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 104, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 112–141 and no longer contains a subsec. (h).
+
+Section 101(a)(35), referred to in subsec. (a)(2)(B), was redesignated section 101(a)(29) and subsequently amended by Pub. L. 112–141 and no longer defines transportation enhancement activities.
+
 #### Prior Provisions
 
 A prior section 325, added Pub. L. 102–240, title VI, §6003\[(a)\], Dec. 18, 1991, 105 Stat. 2168, related to international highway transportation outreach program, prior to repeal by Pub. L. 105–178, title V, §5119(b), June 9, 1998, 112 Stat. 452.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -80,11 +80,11 @@ This section shall not serve or be construed to expand or diminish the sovereign
 
 As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
+(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amendedPub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
 
 #### References in Text
 
-The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IVof Pub. L. 100–220, which is set out as a note under section 1822 of this title.
+The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IV of Pub. L. 100–220, which is set out as a note under section 1822 of this title.
 
 Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under section 1453 of this title.
 

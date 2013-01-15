@@ -46,7 +46,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(14) There shall be excluded income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (relating to income derived by Indians from exercise of fishing rights);
 
-&emsp;(15) The deduction under section 162(<i>l</i>) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed; and
+&emsp;(15) The deduction under section 162(l) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed; and
 
 &emsp;(16) Notwithstanding the preceding provisions of this subsection, each spouse's share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) of the Internal Revenue Code of 1986 in determining net earnings from self-employment of such spouse.
 
@@ -236,7 +236,7 @@ Subsec. (k). Pub. L. 110–246, §15352(b)(2), added subsec. (k).
 
 Subsec. (a)(7). Pub. L. 108–203, §422(a), inserted “, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires” before semicolon at end.
 
-Subsec. (a)(15). Pub. L. 108–203, §424(a), substituted “section 162(<i>l</i>)” for “section 162(m)”.
+Subsec. (a)(15). Pub. L. 108–203, §424(a), substituted “section 162(l)” for “section 162(m)”.
 
 <b>1997</b>—Subsec. (j). Pub. L. 105–34 added subsec. (j).
 
@@ -482,7 +482,7 @@ Amendment by section 322(b)(2) of Pub. L. 98–21 effective in taxable years beg
 
 Amendment by section 323(b)(2)(A) of Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1983, see section 323(c)(2) of Pub. L. 98–21, set out as an Effective Date of 1983 Amendment note under section 1402 of Title 26.
 
-Section 323(b)(2)(B) of Pub. L. 98–21 provided that the amendment made by such section 323(b)(2)(B) is effective with respect to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984.
+Pub. L. 98–21, title III, §323(b)(2)(B), Apr. 20, 1983, 97 Stat. 121, provided that the amendment made by such section 323(b)(2)(B) is effective with respect to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984.
 
 #### Effective Date of 1978 Amendment
 
@@ -490,25 +490,25 @@ Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Section 313(c) of Pub. L. 95–216 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to taxable years beginning after December 31, 1977.”
+Pub. L. 95–216, title III, §313(c), Dec. 20, 1977, 91 Stat. 1536, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to taxable years beginning after December 31, 1977.”
 
 #### Effective Date of 1974 Amendment
 
-Section 10(c) of Pub. L. 93–368 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to taxable years beginning after December 31, 1973.”
+Pub. L. 93–368, §10(c), Aug. 7, 1974, 88 Stat. 422, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply with respect to taxable years beginning after December 31, 1973.”
 
-#### Effective Date of 1973 Amendments
+#### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–233 applicable only with respect to remuneration paid after, and taxable years beginning after, 1973, see section 5(e) of Pub. L. 93–233, set out as a note under section 409 of this title.
 
 Amendment by Pub. L. 93–66 applicable only with respect to remuneration paid after, and taxable years beginning after, 1973, see section 203(e) of Pub. L. 93–66, set out as a note under section 409 of this title.
 
-#### Effective Date of 1972 Amendments
+#### Effective Date of 1972 Amendment
 
-Section 121(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years beginning after December 31, 1972.”
+Pub. L. 92–603, title I, §121(c), Oct. 30, 1972, 86 Stat. 1354, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years beginning after December 31, 1972.”
 
-Section 124(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1972.”
+Pub. L. 92–603, title I, §124(c), Oct. 30, 1972, 86 Stat. 1357, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1972.”
 
-Section 140(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1972.”
+Pub. L. 92–603, title I, §140(c), Oct. 30, 1972, 86 Stat. 1366, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1972.”
 
 Amendment by Pub. L. 92–336 applicable only with respect to taxable years beginning after 1972, see section 203(c) of Pub. L. 92–336, set out as a note under section 409 of this title.
 
@@ -530,7 +530,7 @@ Amendment by section 122(a)(1), (2) of Pub. L. 90–248 applicable with respect 
 
 Amendment by section 311(a)(1), (2) of Pub. L. 89–97 applicable only with respect to taxable years ending on or after Dec. 31, 1965, see section 311(c) of Pub. L. 89–97, set out as a note under section 410 of this title.
 
-Section 312(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years beginning after December 31, 1965.”
+Pub. L. 89–97, title III, §312(c), July 30, 1965, 79 Stat. 381, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years beginning after December 31, 1965.”
 
 Amendment by section 319(b) of Pub. L. 89–97 applicable with respect to taxable years beginning after December 31, 1950, see section 319(e) of Pub. L. 89–97, set out as a note under section 1402 of Title 26.
 
@@ -548,11 +548,11 @@ Amendment by section 103(h) of Pub. L. 86–778 applicable only in the case of t
 
 Amendment by section 103(j)(3) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
-Section 106(c) of Pub. L. 86–778 provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years ending on or after December 31, 1960; except that for purposes of section 203 of the Social Security Act \[section 403 of this title\], the amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years (of the individual performing the service involved) beginning after the date of the enactment of this Act \[Sept. 13, 1960\].”
+Pub. L. 86–778, title I, §106(c), Sept. 13, 1960, 74 Stat. 946, provided that: “The amendments made by this section \[amending this section and section 1402 of Title 26, Internal Revenue Code\] shall apply only with respect to taxable years ending on or after December 31, 1960; except that for purposes of section 203 of the Social Security Act \[section 403 of this title\], the amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years (of the individual performing the service involved) beginning after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 #### Effective Date of 1958 Amendment
 
-Section 313(b) of Pub. L. 85–840 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
+Pub. L. 85–840, title III, §313(b), Aug. 28, 1958, 72 Stat. 1036, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply—
 
 &emsp;“(1) with respect to individuals who die after the date of the enactment of this Act \[Aug. 28, 1958\], and
 
@@ -570,7 +570,7 @@ Amendment by section 104(c)(3) of act Aug. 1, 1956, applicable with respect to t
 
 Amendment by section 104(h) of act Aug. 1, 1956, applicable with respect to the same taxable years with respect to which the amendment to section 3121(k)(1) of Title 26, Internal Revenue Code, applies, see section 104(i) of act Aug. 1, 1956, set out as a note under section 410 of this title, and section 201(m)(2) of such act Aug. 1, 1956, set out as a note under section 3121 of Title 26.
 
-Section 106(b) of act Aug. 1, 1956, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years ending on or after December 31, 1956.”
+Act Aug. 1, 1956, ch. 836, title I, §106(b), 70 Stat. 829, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years ending on or after December 31, 1956.”
 
 #### Effective Date of 1954 Amendment
 
@@ -578,7 +578,7 @@ Amendments by section 101(d), (g)(1), (2), (4) of act Sept. 1, 1954, applicable 
 
 #### Effective Date of 1950 Amendment
 
-Amendment by act Sept. 23, 1950, applicable with respect to taxable years beginning after Dec. 31, 1950, see section 221(k) of act Sept. 23, 1950.
+Amendment by act Sept. 23, 1950, applicable with respect to taxable years beginning after Dec. 31, 1950, see act Sept. 23, 1950, ch. 994, title II, §221(k), 64 Stat. 947.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -586,7 +586,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treaty Obligations
 
-Section 214 of act Sept. 23, 1950, provided that: “No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States.”
+Act Sept. 23, 1950, ch. 994, title II, §214, 64 Stat. 937, provided that: “No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “coupons”. See 2008 Amendment note below.</i>
 

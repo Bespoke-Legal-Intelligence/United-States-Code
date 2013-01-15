@@ -4,7 +4,7 @@ Section, act July 1, 1944, ch. 373, title III, §305, as added July 3, 1956, ch.
 
 #### Termination of National Center for Health Services Research and Health Care Technology Assessment
 
-Section 6103(d)(1)(A) of Pub. L. 101–239 provided in part that the National Center for Health Services Research and Health Care Technology Assessment is terminated.
+Pub. L. 101–239, title VI, §6103(d)(1)(A), Dec. 19, 1989, 103 Stat. 2205, provided in part that the National Center for Health Services Research and Health Care Technology Assessment is terminated.
 
 #### Transitional and Savings Provisions for Pub. L. 101–239
 

@@ -22,7 +22,7 @@ The following types of research shall be given priority for funding:
 
 &emsp;(3) Research designed to further existing knowledge with respect to the characteristics, rates, and methods of gene transfer that may occur between genetically engineered animals, plants, and microorganisms and related wild and agricultural organisms.
 
-&emsp;(4) Environmental assessment research designed to provide analysis which compares therelative impacts of animals, plants, and microorganisms modified through genetic engineering to other types of production systems.
+&emsp;(4) Environmental assessment research designed to provide analysis which compares the relative impacts of animals, plants, and microorganisms modified through genetic engineering to other types of production systems.
 
 &emsp;(5) Other areas of research designed to further the purposes of this section.
 

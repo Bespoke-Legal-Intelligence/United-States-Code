@@ -86,11 +86,11 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this section, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 105–392, which enacted this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 293<i>l</i>, act July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2043; amended Pub. L. 102–531, title III, §313(a)(3), Oct. 27, 1992, 106 Stat. 3507, authorized grants and contracts for development of general internal medicine and general pediatrics training programs, prior torepeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
+A prior section 293l, act July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2043; amended Pub. L. 102–531, title III, §313(a)(3), Oct. 27, 1992, 106 Stat. 3507, authorized grants and contracts for development of general internal medicine and general pediatrics training programs, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
 
 A prior section 749 of act July 1, 1944, was classified to section 293m of this title prior to repeal by Pub. L. 105–392.
 

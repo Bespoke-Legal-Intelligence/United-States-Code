@@ -2,7 +2,7 @@
 
 #### (a) Transactions involving controlling or closely affiliated persons
 
-It shall be unlawful for any person who is related to a business development company in amanner described in subsection (b) of this section, acting as principal—
+It shall be unlawful for any person who is related to a business development company in a manner described in subsection (b) of this section, acting as principal—
 
 &emsp;(1) knowingly to sell any security or other property to such business development company or to any company controlled by such business development company, unless such sale involves solely (A) securities of which the buyer is the issuer, or (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities;
 
@@ -40,7 +40,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
 
-&emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
+&emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall bedeemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Noncontrolling shareholders or affiliated persons; executive officer
 
@@ -54,7 +54,7 @@ The provisions of subsection (d) of this section shall apply to the following pe
 
 #### (f) Approval of proposed transactions
 
-Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in the business development company on the basis that—
+Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in the business development company on the basis that—
 
 &emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
 
@@ -90,13 +90,13 @@ Notwithstanding subsections (a) and (d) of this section, any director, officer, 
 
 &emsp;&emsp;(D) at all times is fully collateralized (such collateral may include any securities issued by such business development company); and
 
-&emsp;&emsp;(E)(i) in the case of a loan to any officer or employee of such business development company (including any officer or employee who is also a director of such company), is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in such company on the basis that the loan is in the best interests of such company and its shareholders or partners; or
+&emsp;&emsp;(E)(i) in the case of a loan to any officer or employee of such business development company (including any officer or employee who is also a director of such company), is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in such company on the basis that the loan is in the best interests of such company and its shareholders or partners; or
 
 &emsp;&emsp;(ii) in the case of a loan to any director of such business development company who is not also an officer or employee of such company, or to any general partner in such company, is approved by order of the Commission, upon application, on the basis that the terms of the loan are fair and reasonable and do not involve overreaching of such company or its shareholders or partners.
 
 #### (k) Restriction on brokerage commissions
 
-It shall be unlawful for any person described in subsection (<i>l</i>) of this section—
+It shall be unlawful for any person described in subsection (l) of this section—
 
 &emsp;(1) acting as agent, to accept from any source any compensation (other than a regular salary or wages from the business development company) for the purchase or sale of any property to or for such business development company or any controlled company thereof, except in the course of such person's business as an underwriter or broker; or
 
@@ -110,7 +110,7 @@ It shall be unlawful for any person described in subsection (<i>l</i>) of this s
 
 > unless the Commission, by rules and regulations or order in the public interest and consistent with the protection of investors, permits a larger commission.
 
-#### (<i>l</i>) Persons subject to brokerage commission restrictions
+#### (l) Persons subject to brokerage commission restrictions
 
 The provisions of subsection (k) of this section shall apply to the following persons:
 
@@ -130,7 +130,7 @@ For purposes of subsections (a) and (d) of this section, a person who is a direc
 
 (1) Notwithstanding subsection (a)(4) of this section, a business development company may establish and maintain a profit-sharing plan for its directors, officers, employees, and general partners and such directors, officers, employees, and general partners may participate in such profit-sharing plan, if—
 
-&emsp;(A)(i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
+&emsp;(A)(i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
 
 &emsp;(ii) in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
 
@@ -138,7 +138,7 @@ For purposes of subsections (a) and (d) of this section, a person who is a direc
 
 (2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(3)(B) of this title, or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 
-#### (<i>o</i>) Required majority for approval of proposed transactions
+#### (o) Required majority for approval of proposed transactions
 
 The term “required majority”, when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company's directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.
 

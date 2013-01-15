@@ -10,7 +10,7 @@ Notwithstanding section 1437bbb–3(a)(1) of this title, the Secretary may not w
 
 &emsp;(3) Paragraph (2) of section 1437a(a) of this title (relating to rental payments for public housing families).
 
-&emsp;(4) Paragraphs (2) and (3) of section 1437f(<i>o</i>) of this title (to the extent such paragraphs limit the amount of rent paid by families assisted with tenant-based assistance).
+&emsp;(4) Paragraphs (2) and (3) of section 1437f(o) of this title (to the extent such paragraphs limit the amount of rent paid by families assisted with tenant-based assistance).
 
 &emsp;(5) Section 1437p of this title (relating to demolition or disposition of public housing).
 

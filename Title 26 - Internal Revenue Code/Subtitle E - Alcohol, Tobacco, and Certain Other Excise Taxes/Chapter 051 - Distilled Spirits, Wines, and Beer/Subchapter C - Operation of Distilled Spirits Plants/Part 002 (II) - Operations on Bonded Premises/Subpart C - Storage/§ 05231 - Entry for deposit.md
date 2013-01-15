@@ -12,7 +12,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–39 struck out in section catchline “in storage” after “for deposit” and subsec. (a) catchlineand in text substituted “on the bonded premises of a distilled spirits plant” for “in storage” and “in the facilities” for “in storage facilities” and repealed subsec. (b) which related to a cross reference to section 5006(a)(2) for provisions requiring that all distilled spirits entered for deposit be withdrawn within 20 years from date of original entry for deposit.
+<b>1979</b>—Pub. L. 96–39 struck out in section catchline “in storage” after “for deposit” and subsec. (a) catchline and in text substituted “on the bonded premises of a distilled spirits plant” for “in storage” and “in the facilities” for “in storage facilities” and repealed subsec. (b) which related to a cross reference to section 5006(a)(2) for provisions requiring that all distilled spirits entered for deposit be withdrawn within 20 years from date of original entry for deposit.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

@@ -70,7 +70,7 @@
 
 #### (I) Increase in Federal percentage assumed in initial risk corridor
 
-&emsp;&emsp;&emsp;&emsp;An equal percentage point increase in the percents applied under subparagraphs (B)(i), (B)(ii)(I), (C)(i), and (C)(ii)(I) of section 1395w–115(e)(2) of this title. In no case shall the application of previous sentence prevent the application of a higher percentage under section 1395w–115(e)(2)(B)(iii) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;&emsp;An equal percentage point increase in the percents applied under subparagraphs (B)(i), (B)(ii)(I), (C)(i), and (C)(ii)(I) of section 1395w–115(e)(2) of thistitle. In no case shall the application of previous sentence prevent the application of a higher percentage under section 1395w–115(e)(2)(B)(iii) <sup>1</sup> of this title.
 
 #### (II) Increase in Federal percentage assumed in second risk corridor
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;(B) does not submit a bid under subsection (b) of this section for any prescription drug plan for any PDP region for the first year of such contract period.
 
-> &emsp;For purposes of subparagraph (B), an entity shall be treated as submitting a bid with respect to a prescription drug plan if the entity is acting as a subcontractor of a PDP sponsorthat is offering such a plan. The previous sentence shall not apply to entities that are subcontractors of an MA organization except insofar as such organization is acting as a PDP sponsor with respect to a prescription drug plan.
+> &emsp;For purposes of subparagraph (B), an entity shall be treated as submitting a bid with respect to a prescription drug plan if the entity is acting as a subcontractor of a PDP sponsor that is offering such a plan. The previous sentence shall not apply to entities that are subcontractors of an MA organization except insofar as such organization is acting as a PDP sponsor with respect to a prescription drug plan.
 
 #### (3) Fallback service area
 
@@ -312,7 +312,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;A fallback prescription drug plan may be offered under a contract in an area for a year only if that area is a fallback service area for that year.
+&emsp;&emsp;&emsp;A fallback prescription drug plan may be offered under a contract in an area for ayear only if that area is a fallback service area for that year.
 
 #### (C) Entity not permitted to market or brand fallback prescription drug plans
 

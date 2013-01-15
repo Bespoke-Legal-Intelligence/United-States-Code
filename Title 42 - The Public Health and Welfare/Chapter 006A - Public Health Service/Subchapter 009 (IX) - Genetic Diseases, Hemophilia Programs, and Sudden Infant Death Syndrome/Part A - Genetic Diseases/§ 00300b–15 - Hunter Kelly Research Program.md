@@ -14,7 +14,7 @@
 
 #### (2) Additional newborn condition
 
-&emsp;For purposes of this subsection, the term “additional newborn condition” means anycondition that is not one of the core conditions recommended by the Advisory Committee and adopted by the Secretary.
+&emsp;For purposes of this subsection, the term “additional newborn condition” means any condition that is not one of the core conditions recommended by the Advisory Committee and adopted by the Secretary.
 
 #### (b) Funding
 

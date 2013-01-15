@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, to further assist developing countri
 
 &emsp;&emsp;(B) improving the effectiveness of the farming and marketing operations of agricultural producers in those countries;
 
-&emsp;(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, and nonprofit farm organizations to work in conjunction with agricultural producers and farm organizations in those countries, on a voluntary basis—
+&emsp;(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, and nonprofit farm organizations to work in conjunctionwith agricultural producers and farm organizations in those countries, on a voluntary basis—
 
 &emsp;&emsp;(A) to improve agricultural and agribusiness operations and agricultural systems in those countries, including improving—
 

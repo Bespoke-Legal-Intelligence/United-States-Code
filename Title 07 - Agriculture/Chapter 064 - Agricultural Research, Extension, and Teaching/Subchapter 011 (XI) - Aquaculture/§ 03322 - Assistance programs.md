@@ -34,7 +34,7 @@ The interagency aquaculture coordinating group established under section 6(a) of
 
 The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 (16 U.S.C. 2805), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, titleXVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §820(b), Apr. 4, 1996, 110 Stat. 1168.)
+(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §820(b), Apr. 4, 1996, 110 Stat. 1168.)
 
 #### References in Text
 

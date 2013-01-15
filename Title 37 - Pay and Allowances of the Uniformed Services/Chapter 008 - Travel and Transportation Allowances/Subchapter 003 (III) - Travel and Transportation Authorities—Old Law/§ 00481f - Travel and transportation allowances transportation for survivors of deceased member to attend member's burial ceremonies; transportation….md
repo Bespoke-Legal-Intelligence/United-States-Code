@@ -144,15 +144,13 @@ Pub. L. 111–84, div. A, title V, §542(c), Oct. 28, 2009, 123 Stat. 2300, prov
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title VI, §638(c), Dec. 28, 2001, 115 Stat. 1148, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “Section 481f of title 37, United States Code, as amended by subsection (a), shall apply with respect to burial ceremonies of deceased members of the uniformed services that occur on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
-
-\[Amendment by Pub. L. 112–81 to section 638(c) of Pub. L. 107–107, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 107–107, div. A, title VI, §638(c), Dec. 28, 2001, 115 Stat. 1148, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Section 481f of title 37, United States Code, as amended by subsection (a), shall apply with respect to burial ceremonies of deceased members of the uniformed services that occur on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 632(c) of Pub. L. 100–456 provided that: “The amendments made by this section \[amending this section and section 411h of this title\] shall take effect on October 1, 1988.”
+Pub. L. 100–456, div. A, title VI, §632(c), Sept. 29, 1988, 102 Stat. 1986, provided that: “The amendments made by this section \[amending this section and section 411h of this title\] shall take effect on October 1, 1988.”
 
 #### Effective Date
 
-Section 620(b) of Pub. L. 99–145 provided that: “The travel and transportation allowance authorized by the amendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
+Pub. L. 99–145, title VI, §620(b), Nov. 8, 1985, 99 Stat. 643, provided that: “The travel and transportation allowance authorized by the amendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
 

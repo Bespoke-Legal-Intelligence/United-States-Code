@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearingor review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
 
 #### (ii) Claims for asylum
 
@@ -84,7 +84,7 @@
 
 #### (C) Limitation on administrative review
 
-&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanentresidence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
 
 #### (D) Limit on collateral attacks
 
@@ -184,7 +184,7 @@
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29,1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
 
 #### References in Text
 
@@ -212,11 +212,11 @@ Amendment by Pub. L. 110–229 effective on the transition program effective dat
 
 Amendment by section 302(a) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 308(d)(5) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
+Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619, provided that the amendment made by section 308(d)(5) is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
 
 Amendment by section 371(b)(4) of Pub. L. 104–208 effective Sept. 30, 1996, see section 371(d)(1) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 422(c) of Pub. L. 104–132, which provided that the amendments made by section 422 of Pub. L. 104–132 \[amending this section and former section 1227 of this title\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619. See Construction of 1996 Amendment note below.
+Pub. L. 104–132, title IV, §422(c), Apr. 24, 1996, 110 Stat. 1272, which provided that the amendments made by section 422 of Pub. L. 104–132 \[amending this section and former section 1227 of this title\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619. See Construction of 1996 Amendment note below.
 
 #### Effective Date of 1990 Amendment
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Construction of 1996 Amendment
 
-Section 308(d)(5) of div. C of Pub. L. 104–208 provided that: “Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, approved Apr. 24, 1996\], section 422 of such Act \[amending this section and section 1227 of this title, and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted.”
+Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619, provided that: “Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, approved Apr. 24, 1996\], section 422 of such Act \[amending this section and section 1227 of this title, and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -232,11 +232,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### GAO Study on Operation of Expedited Removal Procedures
 
-Section 302(b) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title III, §302(b), Sept. 30, 1996, 110 Stat. 3009–584, provided that:
 
 “(1)
 
-Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigrationand Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
+Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigration and Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
 
 &emsp;“(A) the effectiveness of such procedures in deterring illegal entry,
 

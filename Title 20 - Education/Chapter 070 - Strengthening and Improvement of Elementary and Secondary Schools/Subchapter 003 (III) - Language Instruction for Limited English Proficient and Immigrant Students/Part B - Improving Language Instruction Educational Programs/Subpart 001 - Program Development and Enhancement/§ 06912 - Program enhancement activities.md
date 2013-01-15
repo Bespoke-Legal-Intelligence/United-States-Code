@@ -18,7 +18,7 @@
 
 &emsp;&emsp;Grants awarded under this section shall be used for—
 
-&emsp;&emsp;&emsp;(i) developing, implementing, expanding, or enhancing comprehensive preschool,elementary, or secondary education programs for limited English proficient children, that are—
+&emsp;&emsp;&emsp;(i) developing, implementing, expanding, or enhancing comprehensive preschool, elementary, or secondary education programs for limited English proficient children, that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) aligned with State and local academic content and student academic achievement standards, and local school reform efforts; and
 

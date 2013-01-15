@@ -6,7 +6,7 @@ Authority To Reimburse.—The Secretary concerned may reimburse a member of the 
 
 (b)
 
-Covered Losses.—This section applies with respect to a loss of household effects sustained during a move made incident to a change of permanent station when, as determined by the Secretary, the loss was caused by a hostile action incident to war or a warlike action by a military force.
+Covered Losses.—This section applies with respect to a loss of household effects sustained during a move made incident to a change of permanent station when, as determined bythe Secretary, the loss was caused by a hostile action incident to war or a warlike action by a military force.
 
 (c)
 
@@ -20,7 +20,7 @@ Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e)
 
 #### Effective Date
 
-Section 557(c) of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title V, §557(c), Oct. 5, 1994, 108 Stat. 2776, provided that:
 
 “(1) Section 2738 of title 10, United States Code, as added by subsection (a), applies with respect to losses incurred after June 30, 1990.
 

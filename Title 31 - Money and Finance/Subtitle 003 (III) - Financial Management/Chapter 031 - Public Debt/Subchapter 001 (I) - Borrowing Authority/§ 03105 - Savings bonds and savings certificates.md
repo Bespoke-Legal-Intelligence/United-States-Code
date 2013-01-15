@@ -92,7 +92,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §22(h); added Apr. 11, 1943, ch. 52, §3,
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §22(j); added July 1, 1973, Pub. L. 93–53, §3(a), 87 Stat. 135.
 
-In subsection (a), the words “through the United States Postal Service or otherwise” and “Treasury” before “savings” are omitted as surplus. The words “andmay buy, redeem, and make refunds under section 3111 of this title” are added because of the restatement. The words “for expenditures authorized by law” are substituted for “to meet any public expenditures authorized by law, and to retire any outstanding obligations of the United States bearing interest or issued on a discount basis” for clarity and because they are inclusive. The word “combination” is omitted as surplus.
+In subsection (a), the words “through the United States Postal Service or otherwise” and “Treasury” before “savings” are omitted as surplus. The words “and may buy, redeem, and make refunds under section 3111 of this title” are added because of the restatement. The words “for expenditures authorized by law” are substituted for “to meet any public expenditures authorized by law, and to retire any outstanding obligations of the United States bearing interest or issued on a discount basis” for clarity and because they are inclusive. The word “combination” is omitted as surplus.
 
 In subsection (b)(1), the words “Except as provided in paragraph (2) of this subsection” are added for clarity. The word “conditions” is substituted for “terms” for consistency in the revised title and with other titles of the United States Code. The word “calendar” is omitted as surplus. The words “(or, beginning on October 1, 1976, if later)” are omitted as executed.
 
@@ -164,7 +164,7 @@ Subsec. (c)(5). Pub. L. 97–452, §1(7), struck out “(expressed in terms of t
 
 #### Effective Date of 1994 Amendment
 
-Section 745(b) of Pub. L. 103–465 provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after October 31, 1994.”
+Pub. L. 103–465, title VII, §745(b), Dec. 8, 1994, 108 Stat. 5011, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after October 31, 1994.”
 
 #### Ex. Ord. No. 11981. Interagency Committee for the Purchase of United States Bonds
 

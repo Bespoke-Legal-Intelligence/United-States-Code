@@ -54,7 +54,7 @@ Pub. L. 103–227, title X, §1051, Mar. 31, 1994, 108 Stat. 274, provided that:
 
 #### Short Title
 
-Section 5121 of Pub. L. 100–690, as amended by Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4245, provided that: “This chapter \[chapter 2 (§§5121–5130) of subtitle C of title V of Pub. L. 100–690, enacting this subchapter\] may be cited as the ‘Public and Assisted Housing Drug Elimination Act of 1990’.”
+Pub. L. 100–690, title V, §5121, Nov. 18, 1988, 102 Stat. 4301, as amended by Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4245, provided that: “This chapter \[chapter 2 (§§5121–5130) of subtitle C of title V of Pub. L. 100–690, enacting this subchapter\] may be cited as the ‘Public and Assisted Housing Drug Elimination Act of 1990’.”
 
-Section 5141 of Pub. L. 100–690 provided that: “This chapter \[chapter 3 (§§5141–5146) of subtitle C of title Vof Pub. L. 100–690, enacting subchapter II of this chapter\] may be cited as the ‘Drug-Free Public Housing Act of 1988’.”
+Pub. L. 100–690, title V, §5141, Nov. 18, 1988, 102 Stat. 4303, provided that: “This chapter \[chapter 3 (§§5141–5146) of subtitle C of title V of Pub. L. 100–690, enacting subchapter II of this chapter\] may be cited as the ‘Drug-Free Public Housing Act of 1988’.”
 

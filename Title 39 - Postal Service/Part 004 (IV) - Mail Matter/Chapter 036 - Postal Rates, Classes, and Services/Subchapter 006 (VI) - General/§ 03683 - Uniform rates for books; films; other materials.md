@@ -30,5 +30,5 @@ Former sections 4452 and 4554 of this title, referred to in text, mean sections 
 
 #### Effective Date of 1993 Amendment
 
-Section 706(b) of Pub. L. 103–123 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to mail sent after September 30, 1993.”
+Pub. L. 103–123, title VII, §706(b), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to mail sent after September 30, 1993.”
 

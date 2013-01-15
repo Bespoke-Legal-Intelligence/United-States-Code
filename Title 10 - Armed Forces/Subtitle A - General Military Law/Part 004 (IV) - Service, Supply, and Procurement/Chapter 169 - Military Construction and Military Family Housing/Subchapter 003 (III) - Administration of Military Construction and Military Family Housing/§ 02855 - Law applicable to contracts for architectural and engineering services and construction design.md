@@ -28,7 +28,7 @@ The Small Business Act, referred to in subsec. (b)(1)(B), is Pub. L. 85–536, �
 
 #### Effective Date of 1984 Amendment
 
-Section 808(b) of Pub. L. 98–407 provided that: “Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985.”
+Pub. L. 98–407, title VIII, §808(b), Aug. 28, 1984, 98 Stat. 1522, provided that: “Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985.”
 
 #### Effective Date
 

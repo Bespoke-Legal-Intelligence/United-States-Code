@@ -42,7 +42,7 @@
 
 &emsp;(A) by order grant such registration, or
 
-&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred eighty days of the date of publication of notice of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to sixty days if it finds good cause for such extension and publishes its reasons for so finding or for such longer periods as to which the applicant consents.
+&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred eighty days of the date ofpublication of notice of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to sixty days if it finds good cause for such extension and publishes its reasons for so finding or for such longer periods as to which the applicant consents.
 
 > The Commission shall grant the registration of a securities information processor if the Commission finds that such securities information processor is so organized, and has the capacity, to be able to assure the prompt, accurate, and reliable performance of its functions as a securities information processor, comply with the provisions of this chapter and the rules and regulations thereunder, carry out its functions in a manner consistent with the purposes of this section, and, insofar as it is acting as an exclusive processor, operate fairly and efficiently. The Commission shall deny the registration of a securities information processor if the Commission does not make any such finding.
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) assure the prompt, accurate, reliable, and fair collection, processing, distribution, and publication of information with respect to quotations for and transactions in such securities and the fairness and usefulness of the form and content of such information;
 
-&emsp;(C) assure that all securities information processors may, for purposes of distribution and publication, obtain on fair and reasonable terms such information with respect to quotations for and transactions in such securities as is collected, processed, or prepared for distribution or publication by any exclusive processor of such information acting in such capacity;
+&emsp;(C) assure that all securities information processors may, for purposes of distributionand publication, obtain on fair and reasonable terms such information with respect to quotations for and transactions in such securities as is collected, processed, or prepared for distribution or publication by any exclusive processor of such information acting in such capacity;
 
 &emsp;(D) assure that all exchange members, brokers, dealers, securities information processors, and, subject to such limitations as the Commission, by rule, may impose as necessary or appropriate for the protection of investors or maintenance of fair and orderly markets, all other persons may obtain on terms which are not unreasonably discriminatory such information with respect to quotations for and transactions in such securities as is published or distributed by any self-regulatory organization or securities information processor;
 
@@ -72,7 +72,7 @@
 
 (2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or any means or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
 
-(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
+(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78l(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
 
 &emsp;(i) as a result of transactions in such securities effected otherwise than on a national securities exchange the fairness or orderliness of the markets for such securities has been affected in a manner contrary to the public interest or the protection of investors;
 
@@ -87,6 +87,18 @@
 (4) The Commission is directed to review any and all rules of national securities exchanges which limit or condition the ability of members to effect transactions in securities otherwise than on such exchanges.
 
 (5) No national securities exchange or registered securities association may limit or condition the participation of any member in any registered clearing agency.
+
+(6)
+
+Tick size.—
+
+&emsp;(A)
+
+Study and report.—The Commission shall conduct a study examining the transition to trading and quoting securities in one penny increments, also known as decimalization. The study shall examine the impact that decimalization has had on the number of initial public offerings since its implementation relative to the period before its implementation. The study shall also examine the impact that this change has had on liquidity for small and middle capitalization company securities and whether there is sufficient economic incentive to support trading operations in these securities in penny increments. Not later than 90 days after April 5, 2012, the Commission shall submit to Congress a report on the findings of the study.
+
+&emsp;(B)
+
+Designation.—If the Commission determines that the securities of emerging growth companies should be quoted and traded using a minimum increment of greater than $0.01, the Commission may, by rule not later than 180 days after April 5, 2012, designate a minimum increment for the securities of emerging growth companies that is greater than $0.01 but less than $0.10 for use in all quoting and trading of securities in any exchange or other execution venue.
 
 #### (d) National Market Advisory Board
 
@@ -122,7 +134,7 @@
 
 &emsp;No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
 
-(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430.)
+(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312.)
 
 #### References in Text
 
@@ -130,13 +142,15 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(6). Pub. L. 112–106 added par. (6).
+
 <b>2000</b>—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–181, §313(1), substituted “transactions” for “transaction”.
 
 Subsec. (c)(4). Pub. L. 100–181, §313(2), struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of section 78s(c) of this title to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.”
 
-Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78<i>l</i> of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
+Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
 
 <b>1984</b>—Subsec. (c)(4). Pub. L. 98–620 struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
 
@@ -146,11 +160,11 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Section effective June 4, 1975, except for subsec. (b) which is effective 180 days after June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+Section effective June 4, 1975, except for subsec. (b) which is effective 180 days after June 4, 1975, see section31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “are hereinafter”.</i>
 

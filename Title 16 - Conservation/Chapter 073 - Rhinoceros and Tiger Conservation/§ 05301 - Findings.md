@@ -42,7 +42,7 @@ Pub. L. 105–312, title IV, §401, Oct. 30, 1998, 112 Stat. 2959, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 103–391 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1994’.”
+Pub. L. 103–391, §1, Oct. 22, 1994, 108 Stat. 4094, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1994’.”
 
 #### Congressional Findings
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Advisory Committee on Heritable Disorders in Newborns and Children established under section 300b–10 of this title, shall provide for—
+The Secretary, acting through the Director of the Centers for Disease Control and Preventionand in consultation with the Advisory Committee on Heritable Disorders in Newborns and Children established under section 300b–10 of this title, shall provide for—
 
 &emsp;(1) quality assurance for laboratories involved in screening newborns and children for heritable disorders, including quality assurance for newborn-screening tests, performance evaluation services, and technical assistance and technology transfer to newborn screening laboratories to ensure analytic validity and utility of screening tests; and
 

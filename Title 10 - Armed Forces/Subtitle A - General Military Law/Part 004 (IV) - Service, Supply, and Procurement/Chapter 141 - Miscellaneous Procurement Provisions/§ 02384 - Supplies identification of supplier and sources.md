@@ -14,7 +14,7 @@
 
 (3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
-(c) Identification of supplies and technical data under this section shall be made in themanner and with respect to the supplies prescribed by the Secretary of Defense.
+(c) Identification of supplies and technical data under this section shall be made in the manner and with respect to the supplies prescribed by the Secretary of Defense.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 137; Pub. L. 98–525, title XII, §1231(a), Oct. 19, 1984, 98 Stat. 2599; Pub. L. 99–500, §101(c) \[title X, §928(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, and Pub. L. 99–591, §101(c) \[title X, §928(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156; Pub. L. 99–661, div. A, title IX, formerly title IV, §928(a), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title IV, §4102(d), title VIII, §8105(b), Oct. 13, 1994, 108 Stat. 3340, 3392; Pub. L. 104–106, div. D, title XLIII, §4321(b)(12), Feb. 10, 1996, 110 Stat. 672; Pub. L. 111–350, §5(b)(23), Jan. 4, 2011, 124 Stat. 3844.)
 
@@ -60,7 +60,7 @@ Subsec. (b)(3). Pub. L. 103–355, §4102(d), added par. (3).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (b) identically, designating existing provision as par. (1), redesignating former pars. (1) to (3) as subpars. (A) to (C), respectively, and inserting in provision preceding subpar. (A) “(other than a contract described in paragraph (2))”, and adding par. (2).
 
-<b>1984</b>—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor's identification number for requirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
+<b>1984</b>—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor's identification number forrequirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
 
 #### Effective Date of 1996 Amendment
 
@@ -72,9 +72,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §928(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 928(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §928(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, §101(c) \[title X, §928(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, §928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
-Section 1231(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title XII, §1231(b), Oct. 19, 1984, 98 Stat. 2600, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 

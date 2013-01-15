@@ -10,15 +10,21 @@
 
 (c) In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual.
 
-(Added Pub. L. 104–208, div. C, title VI, §645(b)(1), Sept. 30, 1996, 110 Stat. 3009–709.)
+(d) Whoever knowingly transports from the United States and its territories a person in foreign commerce for the purpose of conduct with regard to that person that would be a violation of subsection (a) if the conduct occurred within the United States, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
+
+(Added Pub. L. 104–208, div. C, title VI, §645(b)(1), Sept. 30, 1996, 110 Stat. 3009–709; amended Pub. L. 112–239, div. A, title X, §1088, Jan. 2, 2013, 126 Stat. 1970.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 112–239 added subsec. (d).
 
 #### Effective Date
 
-Section 645(c) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Congressional Findings
 
-Section 645(a) of div. C of Pub. L. 104–208 provided that: “The Congress finds that—
+Pub. L. 104–208, div. C, title VI, §645(a), Sept. 30, 1996, 110 Stat. 3009–708, provided that: “The Congress finds that—
 
 &emsp;“(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States;
 

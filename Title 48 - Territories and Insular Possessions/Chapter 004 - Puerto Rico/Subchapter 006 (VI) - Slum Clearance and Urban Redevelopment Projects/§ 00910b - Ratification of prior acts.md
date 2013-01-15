@@ -1,6 +1,6 @@
 ### §910b. Ratification of prior acts
 
-All legislation heretofore enacted by the Legislature of the Territory of Puerto Rico dealingwith the subject matter of this Act and not inconsistent herewith is ratified and confirmed.
+All legislation heretofore enacted by the Legislature of the Territory of Puerto Rico dealing with the subject matter of this Act and not inconsistent herewith is ratified and confirmed.
 
 (July 18, 1950, ch. 466, title I, §103, 64 Stat. 345.)
 

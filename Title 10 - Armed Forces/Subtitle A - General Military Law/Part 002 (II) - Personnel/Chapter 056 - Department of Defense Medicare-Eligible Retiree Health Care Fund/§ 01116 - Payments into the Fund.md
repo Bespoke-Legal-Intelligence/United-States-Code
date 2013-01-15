@@ -8,7 +8,7 @@
 
 (b) At the beginning of each fiscal year, the Secretary of Defense shall determine the sum of the following:
 
-&emsp;(1) The amount of the payment for that year under the amortization schedule determined by the Board of Actuaries under section 1115(a) of this title for the amortization of the original unfunded liability of the Fund.
+&emsp;(1) The amount of the payment for that year under the amortization schedule determinedby the Board of Actuaries under section 1115(a) of this title for the amortization of the original unfunded liability of the Fund.
 
 &emsp;(2) The amount (including any negative amount) of the Department of Defense contribution for that year as determined by the Secretary of Defense under section 1115(b) of this title.
 

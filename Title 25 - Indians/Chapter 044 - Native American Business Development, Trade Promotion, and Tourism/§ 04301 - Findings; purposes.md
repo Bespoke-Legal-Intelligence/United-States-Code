@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency among Indian tribes;
 
-&emsp;(7) the capacity of Indian tribes to build strong tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
+&emsp;(7) the capacity of Indian tribes to build strong tribal governments and vigorous economies is hindered by the inability of Indiantribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
 
 &emsp;(8) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer higher rates of unemployment, poverty, poor health, substandard housing, and associated social ills than those of any other group in the United States;
 
@@ -162,7 +162,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Commerce.
 
 &emsp;“(7)
 
-Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)).
+Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
 
 #### “SEC. 4. ESTABLISHMENT OF AUTHORITY.
 

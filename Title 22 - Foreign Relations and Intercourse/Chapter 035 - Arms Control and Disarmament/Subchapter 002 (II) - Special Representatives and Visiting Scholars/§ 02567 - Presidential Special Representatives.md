@@ -20,5 +20,5 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Effective Date of 1989 Amendment
 
-Section 103(b) of Pub. L. 101–216 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals who are appointed as Special Representatives on or after the date of enactment of this Act \[Dec. 11, 1989\].”
+Pub. L. 101–216, title I, §103(b), Dec. 11, 1989, 103 Stat. 1853, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals who are appointed as Special Representatives on or after the date of enactment of this Act \[Dec. 11, 1989\].”
 

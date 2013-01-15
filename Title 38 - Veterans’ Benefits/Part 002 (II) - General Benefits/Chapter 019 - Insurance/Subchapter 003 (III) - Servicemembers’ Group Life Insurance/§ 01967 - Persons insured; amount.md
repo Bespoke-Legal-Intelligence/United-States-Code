@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(i) the member; and
 
-&emsp;&emsp;(ii) each insurable dependent of the member.
+&emsp;&emsp;(ii) each insurable dependent of the member (other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph).
 
 &emsp;(B) Any member of a uniformed service on active duty for training or inactive duty training scheduled in advance by competent authority.
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) the member; and
 
-&emsp;&emsp;(ii) each insurable dependent of the member.
+&emsp;&emsp;(ii) each insurable dependent of the member (other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph).
 
 (2)(A) A member may elect in writing not to be insured under this subchapter.
 
@@ -34,7 +34,7 @@
 
 (4)(A) An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
 
-(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that if that member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
+(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that ifthat member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
 
 (5) The insurance shall be effective with respect to a member and the insurable dependents of the member on the latest of the following dates:
 
@@ -80,13 +80,15 @@
 
 &emsp;(B) in the case of any subsequent such election if the effect of such election is to reduce the amount of insurance coverage of the member from that in effect immediately before such election.
 
-(3) In the case of a member who is married and who is insured under this section, if the membermakes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
+(3) In the case of a member who is married and who is insured under this section, if the member makes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(A)(ii), (C)(ii). Pub. L. 112–239 inserted “(other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph)” after “insurable dependent of the member”.
 
 <b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–275 substituted “spouse,” for “spouse,,”.
 
@@ -292,11 +294,11 @@ Pub. L. 106–419, title III, §312(c), Nov. 1, 2000, 114 Stat. 1854, provided t
 
 #### Effective Date of 1996 Amendment
 
-Section 646 of Pub. L. 104–106 provided that the amendments made by that section are effective Apr. 1, 1996.
+Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369, provided that the amendments made by that section are effective Apr. 1, 1996.
 
 #### Effective Date of 1993 Amendment
 
-Section 1175(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amendments to chapter 19 of title 38, United States Code, that take effect after November 29, 1992.”
+Pub. L. 103–160, div. A, title XI, §1175(b), Nov. 30, 1993, 107 Stat. 1768, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amendments to chapter 19 of title 38, United States Code, that take effect after November 29, 1992.”
 
 #### Effective Date of 1992 Amendment
 
@@ -304,11 +306,11 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 #### Effective Date of 1991 Amendment
 
-Section 336(c)(1) of Pub. L. 102–25 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
+Pub. L. 102–25, title III, §336(c)(1), Apr. 6, 1991, 105 Stat. 90, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
 
 #### Effective Date of 1985 Amendment
 
-Section 401(c) of Pub. L. 99–166, as amended by Pub. L. 99–227, §3, Dec. 28, 1985, 99 Stat. 1745, provided that:
+Pub. L. 99–166, title IV, §401(c), Dec. 3, 1985, 99 Stat. 957, as amended by Pub. L. 99–227, §3, Dec. 28, 1985, 99 Stat. 1745, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 777 \[now 1977\] of this title\] shall take effect on January 1, 1986.
 
@@ -324,7 +326,7 @@ Amendment by Pub. L. 97–66 effective Dec. 1, 1981, see section 701(b)(2) of Pu
 
 #### Effective Date of 1974 Amendment
 
-Section 12(3) of Pub. L. 93–289 provided that: “The amendments increasing the maximum amount of Servicemen's Group Life Insurance shall become effective upon the date of enactment of this Act \[May 24, 1974\].”
+Pub. L. 93–289, §12(3), May 24, 1974, 88 Stat. 173, provided that: “The amendments increasing the maximum amount of Servicemen's Group Life Insurance shall become effective upon the date of enactment of this Act \[May 24, 1974\].”
 
 #### Effective Date of 1970 Amendment
 

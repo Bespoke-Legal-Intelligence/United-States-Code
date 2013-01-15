@@ -10,7 +10,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 &emsp;(3) the attributes and aptitudes needed to function well in a highly automated air traffic control system and the development of appropriate testing methods for identifying individuals with those attributes and aptitudes;
 
-&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefitsof automation and maximize the effectiveness of the air traffic control system; and
+&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefits of automation and maximize the effectiveness of the air traffic control system; and
 
 &emsp;(5) new technologies and procedures for exploiting automated communication systems, including Mode S Transponders, to improve information transfers between air traffic controllers and aircraft pilots.
 
@@ -26,13 +26,55 @@ Research on Human Factor Aspects of Automation.—The Administrators of the Fede
 
 (c)
 
-Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation Administration may maintain the Collegiate Training Initiative program by making new agreements and continuing existing agreements with institutions of higher education (as defined by the Administrator) under which the institutions prepare students for the position of air traffic controller with the Department of Transportation (as defined in section 2109 of title 5). The Administrator may establish standards for the entry of institutions into the program and for their continued participation.
+Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation Administration may maintain the Collegiate Training Initiative program by making new agreements and continuing existing agreements with institutions of higher education (as defined by theAdministrator) under which the institutions prepare students for the position of air traffic controller with the Department of Transportation (as defined in section 2109 of title 5). The Administrator may establish standards for the entry of institutions into the program and for their continued participation.
 
 (2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves full performance level air traffic controller status, as decided by the Administrator.
 
 (B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal Aviation Administration may extend the authority for one or more successive one-year periods.
 
 (d)
+
+Air Traffic Control Specialist Qualification Training.—
+
+&emsp;(1)
+
+Appointment of air traffic control specialists.—The Administrator is authorized to appoint a qualified air traffic control specialist candidate for placement in an airport traffic control facility if the candidate has—
+
+&emsp;&emsp;(A) received a control tower operator certification (referred to in this subsection as a “CTO” certificate); and
+
+&emsp;&emsp;(B) satisfied all other applicable qualification requirements for an air traffic control specialist position, including successful completion of orientation training at the Federal Aviation Administration Academy.
+
+&emsp;(2)
+
+Compensation and benefits.—An individual appointed under paragraph (1) shall receive the same compensation and benefits, and be treated in the same manner as, any other individual appointed as a developmental air traffic controller.
+
+&emsp;(3)
+
+Report.—Not later than 2 years after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator shall submit to Congress a report that evaluates the effectiveness of the air traffic control specialist qualification training provided pursuant to this section, including the graduation rates of candidates who received a CTO certificate and are working in airport traffic control facilities.
+
+&emsp;(4)
+
+Additional appointments.—If the Administrator determines that air traffic control specialists appointed pursuant to this subsection are more successful in carrying out the duties of an air traffic controller than air traffic control specialists hired from the general public without any such certification, the Administrator shall increase, to the maximum extent practicable, the number of appointments of candidates who possess such certification.
+
+&emsp;(5)
+
+Reimbursement for travel expenses associated with certifications.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), the Administrator may accept reimbursement from an educational entity that provides training to an air traffic control specialist candidate to cover reasonable travel expenses of the Administrator associated with issuing certifications to such candidates.
+
+&emsp;&emsp;(B)
+
+Treatment of reimbursements.—Notwithstanding section 3302 of title 31, any reimbursement authorized to be collected under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) be credited as offsetting collections to the account that finances the activities and services for which the reimbursement is accepted;
+
+&emsp;&emsp;&emsp;(ii) be available for expenditure only to pay the costs of activities and services for which the reimbursement is accepted, including all costs associated with collecting such reimbursement; and
+
+&emsp;&emsp;&emsp;(iii) remain available until expended.
+
+(e)
 
 Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
@@ -42,7 +84,7 @@ Staffing Report.—The Administrator of the Federal Aviation Administration shal
 
 &emsp;(3) a detailed plan for employing the controllers, including projected budget requests.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114.)
 
 Historical and Revision Notes
 
@@ -76,9 +118,51 @@ In subsections (a) and (b), the text of section 8(a) and (b)(3) of the Aviation 
 
 In subsection (c), the words “institutions of higher education” are substituted for “post-secondary educational institutions” for consistency in the revised title.
 
+#### References in Text
+
+The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+
 #### Amendments
 
+<b>2012</b>—Subsecs. (d), (e). Pub. L. 112–95 added subsec. (d) and redesignated former subsec. (d) as (e).
+
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Air Traffic Controller Staffing Initiatives and Analysis
+
+Pub. L. 112–95, title II, §224, Feb. 14, 2012, 126 Stat. 55, provided that: “As soon as practicable, and not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall—
+
+&emsp;“(1) ensure, to the extent practicable, a sufficient number of contract instructors, classroom space (including off-site locations as needed), and simulators to allow for an increase in the number of air traffic controllers at air traffic control facilities;
+
+&emsp;“(2) distribute, to the extent practicable, the placement of certified professional air traffic controllers-in-training and developmental air traffic controllers at facilities evenly across the calendar year in order to avoid training bottlenecks;
+
+&emsp;“(3) initiate an analysis, to be conducted in consultation with the exclusive bargaining representative of air traffic controllers certified under section 7111 of title 5, United States Code, of scheduling processes and practices, including overtime scheduling practices at those facilities;
+
+&emsp;“(4) provide, to the extent practicable and where appropriate, priority to certified professional air traffic controllers-in-training when filling staffing vacancies at facilities;
+
+&emsp;“(5) assess training programs at air traffic control facilities with below-average success rates to determine if training is being carried out in accordance with Administration standards, and conduct exit interview analyses with all candidates to determine potential weaknesses in training protocols, or in the execution of such training protocols; and
+
+&emsp;“(6) prioritize, to the extent practicable, such efforts to address the recommendations for the facilities identified in the Department of Transportation's Office of the Inspector General Report Number: AV-2009-047.”
+
+#### Facility Training Program
+
+Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided that: “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
+
+&emsp;“(1) clarify responsibility for oversight and direction of the Academy's facility training program at the national level;
+
+&emsp;“(2) communicate information concerning that responsibility to facility managers; and
+
+&emsp;“(3) establish standards to identify the number of developmental air traffic controllers that can be accommodated at each facility, based on—
+
+&emsp;&emsp;“(A) the number of available on-the-job training instructors;
+
+&emsp;&emsp;“(B) available classroom space;
+
+&emsp;&emsp;“(C) the number of available simulators;
+
+&emsp;&emsp;“(D) training requirements; and
+
+&emsp;&emsp;“(E) the number of recently placed new personnel already in training.”
 
 #### Controller Staffing
 

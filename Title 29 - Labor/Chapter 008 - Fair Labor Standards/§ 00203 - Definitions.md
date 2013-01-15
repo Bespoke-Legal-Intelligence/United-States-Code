@@ -54,11 +54,11 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, politicalsubdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term “employee” does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
-(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearinganimals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
 (g) “Employ” includes to suffer or permit to work.
 
@@ -70,7 +70,7 @@ As used in this chapter—
 
 (k) “Sale” or “sell” includes any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.
 
-(<i>l</i>) “Oppressive child labor” means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
+(l) “Oppressive child labor” means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
 
 (m) “Wage” paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: <i>Provided</i>, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: <i>Provided further</i>, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee. In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
@@ -82,7 +82,7 @@ As used in this chapter—
 
 (n) “Resale” shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: <i>Provided</i>, That the sale is recognized as a bona fide retail sale in the industry.
 
-(<i>o</i>) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
+(o) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
 
 (p) “American vessel” includes any vessel which is documented or numbered under the laws of the United States.
 
@@ -128,7 +128,7 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
-Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling, selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
+Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling,selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
 Subsec. (x). Pub. L. 93–259, §6(a)(6), added subsec. (x).
 
@@ -216,9 +216,9 @@ Subsecs. (p) to (s). Pub. L. 87–30, §2(c), added subsecs. (p) to (s).
 
 Subsec. (j). Act Oct. 26, 1949, §3(b), inserted “closely related” before “process” and substituted “directly essential” for “necessary” after “occupation”.
 
-Subsec. (<i>l</i>)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
+Subsec. (l)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
-Subsecs. (n), (<i>o</i>). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (<i>o</i>).
+Subsecs. (n), (o). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (o).
 
 #### Construction of 1999 Amendment
 
@@ -226,23 +226,23 @@ Pub. L. 106–151, §2, Dec. 9, 1999, 113 Stat. 1731, provided that: “The amen
 
 #### Effective Date of 1989 Amendment
 
-Section 3(e) of Pub. L. 101–157 provided that: “The amendments made by this section \[amending this section and section 213 of this title\] shall become effective on April 1, 1990.”
+Pub. L. 101–157, §3(e), Nov. 17, 1989, 103 Stat. 939, provided that: “The amendments made by this section \[amending this section and section 213 of this title\] shall become effective on April 1, 1990.”
 
-Section 5 of Pub. L. 101–157 provided that the amendment made by that section is effective Apr. 1, 1990.
+Pub. L. 101–157, §5, Nov. 17, 1989, 103 Stat. 941, provided that the amendment made by that section is effective Apr. 1, 1990.
 
 #### Effective Date of 1985 Amendment; Promulgation of Regulations
 
-Section 6 of Pub. L. 99–150 provided that: “The amendments made by this Act \[amending this section and sections 207 and 211 of this title and enacting provisions set out as notes under this section and sections 201, 207, 215, and 216 of this title\] shall take effect April 15, 1986. The Secretary of Labor shall before such date promulgate such regulations as may be required to implement such amendments.”
+Pub. L. 99–150, §6, Nov. 13, 1985, 99 Stat. 790, provided that: “The amendments made by this Act \[amending this section and sections 207 and 211 of this title and enacting provisions set out as notes under this section and sections 201, 207, 215, and 216 of this title\] shall take effect April 15, 1986. The Secretary of Labor shall before such date promulgate such regulations as may be required to implement such amendments.”
 
 #### Effective Date of 1977 Amendment
 
-Section 3(a) of Pub. L. 95–151 provided that the amendment made by that section is effective Jan. 1, 1978.
+Pub. L. 95–151, §3(a), Nov. 1, 1977, 91 Stat. 1249, provided that the amendment made by that section is effective Jan. 1, 1978.
 
-Section 3(b)(1) of Pub. L. 95–151 provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 50 to 45 per centum, is effective Jan. 1, 1979.
+Pub. L. 95–151, §3(b)(1), Nov. 1, 1977, 91 Stat. 1249, provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 50 to 45 per centum, is effective Jan. 1, 1979.
 
-Section 3(b)(2) of Pub. L. 95–151 provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 45 to 40 per centum, is effective Jan. 1, 1980.
+Pub. L. 95–151, §3(b)(2), Nov. 1, 1977, 91 Stat. 1249, provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 45 to 40 per centum, is effective Jan. 1, 1980.
 
-Section 15(a), (b) of Pub. L. 95–151 provided that:
+Pub. L. 95–151, §15(a), (b), Nov. 1, 1977, 91 Stat. 1253, provided that:
 
 “(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
 
@@ -254,11 +254,11 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 #### Effective Date of 1966 Amendment
 
-Section 602 of Pub. L. 89–601 provided in part that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section and sections 206, 207, 213, 214, 216, 218, and 255 of this title\] shall take effect on February 1, 1967.”
+Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in part that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section and sections 206, 207, 213, 214, 216, 218, and 255 of this title\] shall take effect on February 1, 1967.”
 
 #### Effective Date of 1961 Amendment
 
-Section 14 of Pub. L. 87–30 provided that: “The amendments made by this Act \[amending this section and sections 204 to 208, 212 to 214, 216, and 217 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[May 5, 1961\], except as otherwise provided in such amendments and except that the authority to promulgate necessary rules, regulations, or orders with regard to amendments made by this Act, under the Fair Labor Standards Act of 1938 and amendments thereto \[this chapter\], including amendments made by this Act, may be exercised by the Secretary on and after the date of enactment of this Act \[May 5, 1961\].”
+Pub. L. 87–30, §14, May 5, 1961, 75 Stat. 75, provided that: “The amendments made by this Act \[amending this section and sections 204 to 208, 212 to 214, 216, and 217 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[May 5, 1961\], except as otherwise provided in such amendments and except that the authority to promulgate necessary rules, regulations, or orders with regard to amendments made by this Act, under the Fair Labor Standards Act of 1938 and amendments thereto \[this chapter\], including amendments made by this Act, may be exercised by the Secretary on and after the date of enactment of this Act \[May 5, 1961\].”
 
 #### Effective Date of 1949 Amendment
 
@@ -266,11 +266,11 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Transfer of Functions
 
-In subsec. (<i>l</i>), “Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” and for “Chief of the Children's Bureau” pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
+In subsec. (l), “Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” and for “Chief of the Children's Bureau” pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 #### Preservation of Coverage
 
-Section 3(b) of Pub. L. 101–157 provided that:
+Pub. L. 101–157, §3(b), Nov. 17, 1989, 103 Stat. 939, provided that:
 
 “(1)
 
@@ -288,11 +288,11 @@ Violations.—A violation of paragraph (1) shall be considered a violation of se
 
 #### Volunteers; Promulgation of Regulations
 
-Section 4(b) of Pub. L. 99–150 provided that: “Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry out paragraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\].”
+Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: “Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry out paragraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\].”
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 
-Section 4(c) of Pub. L. 99–150 provided that: “If, before April 15, 1986, the practice of a public agency was to treat certain individuals as volunteers, such individuals shall until April 15, 1986, be considered, for purposes of the Fair Labor Standards Act of 1938 \[this chapter\], as volunteers and not as employees. No public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall be liable for a violation of section 6 \[29 U.S.C. 206\] occurring before April 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis.”
+Pub. L. 99–150, §4(c), Nov. 13, 1985, 99 Stat. 790, provided that: “If, before April 15, 1986, the practice of a public agency was to treat certain individuals as volunteers, such individuals shall until April 15, 1986, be considered, for purposes of the Fair Labor Standards Act of 1938 \[this chapter\], as volunteers and not as employees. No public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall be liable for a violation of section 6 \[29 U.S.C. 206\] occurring before April 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis.”
 
 #### Status of Baggers at Commissary of Military Department
 
@@ -300,11 +300,11 @@ Pub. L. 95–485, title VIII, §819, Oct. 20, 1978, 92 Stat. 1626, provided that
 
 #### Administrative Action by Secretary of Labor With Regard to Implementation of Fair Labor Standards Amendments of 1977
 
-Section 15(c) of Pub. L. 95–151 provided that: “On and after the date of the enactment of this Act \[Nov. 1, 1977\], the Secretary of Labor shall take such administrative action as may be necessary for the implementation of the amendments made by this Act \[See Short Title of 1977 Amendment note set out under section 201 of this title\].”
+Pub. L. 95–151, §15(c), Nov. 1, 1977, 91 Stat. 1253, provided that: “On and after the date of the enactment of this Act \[Nov. 1, 1977\], the Secretary of Labor shall take such administrative action as may be necessary for the implementation of the amendments made by this Act \[See Short Title of 1977 Amendment note set out under section 201 of this title\].”
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Section 602 of Pub. L. 89–601 provided in part that: “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\].”
+Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in part that: “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “in”.</i>
 

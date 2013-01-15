@@ -12,7 +12,7 @@ Any provider of services which has filed a required cost report within the time 
 
 &emsp;&emsp;(B) has not received such final determination from such intermediary on a timely basis after filing such report, where such report complied with the rules and regulations of the Secretary relating to such report, or
 
-&emsp;&emsp;(C) has not received such final determination on a timely basis after filing a supplementary cost report, where such cost report did not so comply and such supplementary cost report did so comply,
+&emsp;&emsp;(C) has not received such final determination on a timely basis after filing a supplementary cost report, where such cost reportdid not so comply and such supplementary cost report did so comply,
 
 &emsp;(2) the amount in controversy is $10,000 or more, and
 
@@ -32,7 +32,7 @@ A decision by the Board shall be based upon the record made at such hearing, whi
 
 #### (e) Rules and regulations
 
-The Board shall have full power and authority to make rules and establish procedures, not inconsistent with the provisions of this subchapter or regulations of the Secretary, which are necessary or appropriate to carry out the provisions of this section. In the course of any hearing the Board may administer oaths and affirmations. The provisions of subsections (d) and (e) of section 405 of this title with respect to subpenas shall apply to the Board to the same extent asthey apply to the Secretary with respect to subchapter II of this chapter.
+The Board shall have full power and authority to make rules and establish procedures, not inconsistent with the provisions of this subchapter or regulations of the Secretary, which are necessary or appropriate to carry out the provisions of this section. In the course of any hearing the Board may administer oaths and affirmations. The provisions of subsections (d) and (e) of section 405 of this title with respect to subpenas shall apply to the Board to the same extent as they apply to the Secretary with respect to subchapter II of this chapter.
 
 #### (f) Finality of decision; judicial review; determinations of Board authority; jurisdiction; venue; interest on amount in controversy
 
@@ -64,7 +64,7 @@ In this section, the term “provider of services” includes a rural health cli
 
 #### Amendments
 
-<b>1993</b>—Subsec. (f)(2). Pub. L. 103–66 substituted “the rate of interest on obligations issued for purchase bythe Federal Hospital Insurance Trust Fund for the month in which” for “the rate of return on equity capital established by regulation pursuant to section 1395x(v)(1)(B) of this title and in effect at the time”.
+<b>1993</b>—Subsec. (f)(2). Pub. L. 103–66 substituted “the rate of interest on obligations issued for purchase by the Federal Hospital Insurance Trust Fund for the month in which” for “the rate of return on equity capital established by regulation pursuant to section 1395x(v)(1)(B) of this title and in effect at the time”.
 
 <b>1990</b>—Subsec. (j). Pub. L. 101–508, §4161(b)(4), inserted “a rural health clinic and” after “includes”.
 
@@ -106,11 +106,11 @@ Amendment by section 4161(b)(4) of Pub. L. 101–508 applicable to cost reports 
 
 #### Effective Date of 1984 Amendment
 
-Section 2351(a)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2351(a)(2), July 18, 1984, 98 Stat. 1099, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2351(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. B, title III, §2351(b)(2), July 18, 1984, 98 Stat. 1099, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Amendment by section 2354(b)(39), (40) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(39), (40) of Pub. L. 98–369 effective July 18, 1984, but not to be construed aschanging or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -118,11 +118,11 @@ Amendment by Pub. L. 98–21 applicable to items and services furnished by or un
 
 #### Effective Date of 1974 Amendment
 
-Section 3(b) of Pub. L. 93–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable to cost reports of providers of services for accounting periods ending on or after June 30, 1973.”
+Pub. L. 93–484, §3(b), Oct. 26, 1974, 88 Stat. 1459, provided that: “The amendment made by subsection (a) \[amending this section\] shall be applicable to cost reports of providers of services for accounting periods ending on or after June 30, 1973.”
 
 #### Effective Date
 
-Section 243(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[enacting this section and amending section 1395h of this title\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[this subchapter\], for accounting periods ending on or after June 30, 1973.”
+Pub. L. 92–603, title II, §243(c), Oct. 30, 1972, 86 Stat. 1422, provided that: “The amendments made by this section \[enacting this section and amending section 1395h of this title\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[this subchapter\], for accounting periods ending on or after June 30, 1973.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -130,7 +130,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Review of Provider Reimbursement Review Board Decisions
 
-Section 2351(c) of Pub. L. 98–369 provided that: “Notwithstanding section 604 of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as an Effective Date of 1983 Amendments note under section 1395ww of this title\]—
+Pub. L. 98–369, div. B, title III, §2351(c), July 18, 1984, 98 Stat. 1099, provided that: “Notwithstanding section 604 of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as an Effective Date of 1983 Amendments note under section 1395ww of this title\]—
 
 &emsp;“(1) the amendments made by section 602(h)(2)(A) of that Act \[amending this section\] shall be effective with respect to any appeal or action brought on or after April 20, 1983; and
 

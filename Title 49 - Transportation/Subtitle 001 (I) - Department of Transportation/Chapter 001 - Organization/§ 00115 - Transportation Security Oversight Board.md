@@ -34,7 +34,7 @@ Chairperson.—The Chairperson of the Board shall be the Secretary of Homeland S
 
 Duties.—The Board shall—
 
-&emsp;(1) review and ratify or disapprove any regulation or security directive issued by the Under Secretary of Transportation for security <sup>1</sup> under section 114(<i>l</i>)(2) within 30 days after the date of issuance of such regulation or directive;
+&emsp;(1) review and ratify or disapprove any regulation or security directive issued by the Under Secretary of Transportation for security <sup>1</sup> under section 114(l)(2) within 30 days after the date of issuance of such regulation or directive;
 
 &emsp;(2) facilitate the coordination of intelligence, security, and law enforcement activities affecting transportation;
 

@@ -16,7 +16,7 @@
 
 (c) The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, §1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, §1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, §215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, §1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L.94–310, §1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, §215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
 
 Historical and Revision Notes
 

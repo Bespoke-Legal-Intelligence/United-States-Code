@@ -34,7 +34,7 @@ Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 
 
 #### Forgiveness of Indebtedness
 
-Section 385(b) of Pub. L. 102–484 provided that: “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act \[Oct. 23, 1992\] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
+Pub. L. 102–484, div. A, title III, §385(b), Oct. 23, 1992, 106 Stat. 2394, provided that: “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act \[Oct. 23, 1992\] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

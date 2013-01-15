@@ -158,7 +158,7 @@ The Secretary shall provide financial assistance to projects that, as determined
 
 &emsp;&emsp;(A) to achieve overall cost reductions in the use of coal to generate useful forms of energy or chemical feedstocks;
 
-&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in the United States to meet electricity generation requirements; and
+&emsp;&emsp;(B) to improve the competitiveness of coal among various forms of energy in order to maintain a diversity of fuel choices in theUnited States to meet electricity generation requirements; and
 
 &emsp;&emsp;(C) to demonstrate methods and equipment that are applicable to 25 percent of the electricity generating facilities, using various types of coal, that use coal as the primary feedstock as of August 8, 2005.
 
@@ -170,7 +170,7 @@ In carrying out this part, the Secretary shall require cost sharing in accordanc
 
 #### (1) In general
 
-&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during whichthe owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
+&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during which the owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
 
 #### (2) Condition of financial assistance
 

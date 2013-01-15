@@ -54,7 +54,7 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than the greater of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shallreceive an allotment for a fiscal year that is less than the greater of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year; or
 
@@ -164,7 +164,7 @@ The Secretary shall—
 
 #### (2) Amount
 
-&emsp;The amount available for reallotment for a program year is equal to the amount by which the unobligated balance of the State allotments under this section for such activities, atthe end of the program year prior to the program year for which the determination under this paragraph is made, exceeds 20 percent of such allotments for the prior program year.
+&emsp;The amount available for reallotment for a program year is equal to the amount by which the unobligated balance of the State allotments under this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made, exceeds 20 percent of such allotments for the prior program year.
 
 #### (3) Reallotment
 

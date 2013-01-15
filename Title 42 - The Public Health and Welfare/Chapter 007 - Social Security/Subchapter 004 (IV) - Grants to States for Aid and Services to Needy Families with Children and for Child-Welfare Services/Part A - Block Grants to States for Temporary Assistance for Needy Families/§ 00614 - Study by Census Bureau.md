@@ -6,9 +6,9 @@ The Bureau of the Census shall continue to collect data on the 1992 and 1993 pan
 
 #### (b) Appropriation
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003 for payment to the Bureau of the Census to carry out subsection (a) of this section.
+Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2012 for payment to the Bureau of the Census to carry out subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §414, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2156; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(i), June 30, 2003, 117 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title IV, §414, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2156; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(i), June 30, 2003, 117 Stat. 837; Pub. L. 112–96, title IV, §4002(f), Feb. 22, 2012, 126 Stat. 195.)
 
 #### References in Text
 
@@ -19,6 +19,8 @@ Title I of the Personal Responsibility and Work Opportunity Reconciliation Act o
 A prior section 614, act Aug. 14, 1935, ch. 531, title IV, §414, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2308, 95 Stat. 848; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2638(a), 2663(c)(7)(A), 98 Stat. 1143, 1166, related to work supplementation program, prior to repeal by Pub. L. 100–485, title II, §§202(b)(13), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–96 substituted “fiscal year 2012” for “each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003”.
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
 

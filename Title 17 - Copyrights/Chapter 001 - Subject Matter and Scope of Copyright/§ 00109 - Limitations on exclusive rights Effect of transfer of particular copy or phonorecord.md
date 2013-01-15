@@ -18,7 +18,7 @@
 
 (C) Nothing in this subsection affects any provision of chapter 9 of this title.
 
-(2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy ofa computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
+(2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy of a computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
 (B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyrights considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to the Congress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function. Such report shall advise the Congress as to any information or recommendations that the Register of Copyrights considers necessary to carry out the purposes of this subsection.
 
@@ -50,7 +50,7 @@ Section 109(b) adopts the general principle that the lawful owner of a copy of a
 
 The exclusive right of public display granted by section 106(5) would not apply where the owner of a copy wishes to show it directly to the public, as in a gallery or display case, or indirectly, as through an opaque projector. Where the copy itself is intended for projection, as in the case of a photographic slide, negative, or transparency, the public projection of a single image would be permitted as long as the viewers are “present at the place where the copy is located.”
 
-On the other hand, section 109(b) takes account of the potentialities of the new communications media, notably television, cable and optical transmission devices, and information storage and retrieval devices, for replacing printed copies with visual images. First of all, the public display of an image of a copyrighted work would not be exempted from copyright control if the copy from which the image was derived were outside the presence of the viewers. In other words, the displayof a visual image of a copyrighted work would be an infringement if the image were transmitted by any method (by closed or open circuit television, for example, or by a computer system) from one place to members of the public located elsewhere.
+On the other hand, section 109(b) takes account of the potentialities of the new communications media, notably television, cable and optical transmission devices, and information storage and retrieval devices, for replacing printed copies with visual images. First of all, the public display of an image of a copyrighted work would not be exempted from copyright control if the copy from which the image was derived were outside the presence of the viewers. In other words, the display of a visual image of a copyrighted work would be an infringement if the image were transmitted by any method (by closed or open circuit television, for example, or by a computer system) from one place to members of the public located elsewhere.
 
 Moreover, the exemption would extend only to public displays that are made “either directly or by the projection of no more than one image at a time.” Thus, even where the copy and the viewers are located at the same place, the simultaneous projection of multiple images of the work would not be exempted. For example, where each person in a lecture hall is supplied with a separate viewing apparatus, the copyright owner's permission would generally be required in order to project an image of a work on each individual screen at the same time.
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 101–650, §803, added subsec. (e).
 
 #### Effective Date of 1990 Amendment
 
-Section 804 of title VIII of Pub. L. 101–650, as amended by Pub. L. 103–465, title V, §511, Dec. 8, 1994, 108 Stat. 4974, provided that:
+Pub. L. 101–650, title VIII, §804, Dec. 1, 1990, 104 Stat. 5136, as amended by Pub. L. 103–465, title V, §511, Dec. 8, 1994, 108 Stat. 4974, provided that:
 
 “(a)
 
@@ -114,7 +114,7 @@ Termination.—The amendments made by section 803 shall not apply to public perf
 
 #### Effective Date of 1984 Amendment
 
-Section 4 of Pub. L. 98–450, as amended by Pub. L. 100–617, §1, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 103–182, title III, §332, Dec. 8, 1993, 107 Stat. 2114, provided that:
+Pub. L. 98–450, §4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100–617, §1, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 103–182, title III, §332, Dec. 8, 1993, 107 Stat. 2114, provided that:
 
 “(a) The amendments made by this Act \[amending this section and section 115 of this title and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 4, 1984\].
 

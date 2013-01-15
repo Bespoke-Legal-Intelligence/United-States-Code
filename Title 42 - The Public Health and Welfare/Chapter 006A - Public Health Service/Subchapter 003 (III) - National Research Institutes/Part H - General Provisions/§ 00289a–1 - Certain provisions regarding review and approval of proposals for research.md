@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the inadequacy of the qualifications of the entities that would be involved with the conduct of the research (including the entity that would directly receive the funds from the Secretary), subject to the condition that, with respect to the process of review through which the research was recommended for approval for purposes of subsection (a) of this section, all findings regarding such qualifications made in such process are conclusive; or
 
-&emsp;&emsp;(B) the priorities established by the Secretary for the allocation of funds amongprojects of research that have been so recommended.
+&emsp;&emsp;(B) the priorities established by the Secretary for the allocation of funds among projects of research that have been so recommended.
 
 #### (3) Applicability
 
@@ -42,7 +42,7 @@
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
-&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
+&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statementrequired in subparagraph (A) is made with respect to the board.
 
 #### (5) Ethics advisory boards
 
@@ -92,7 +92,7 @@
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

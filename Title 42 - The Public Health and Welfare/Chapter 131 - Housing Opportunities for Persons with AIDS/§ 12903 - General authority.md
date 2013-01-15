@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary shall, to the extent of amounts approved in appropriations Acts under section 12912 of this title, make grants to States, units of general local government, and nonprofit organizations.
+The Secretary shall, to the extent of amounts approved in appropriations Acts under section 12912 of this title, make grants to States, unitsof general local government, and nonprofit organizations.
 
 #### (b) Implementation of eligible activities
 
@@ -48,7 +48,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 #### (d) Applications
 
-Funds made available under this section shall be allocated among applications submitted byapplicants and approved by the Secretary. Applications for assistance under this section shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish. Such applications shall contain—
+Funds made available under this section shall be allocated among applications submitted by applicants and approved by the Secretary. Applications for assistance under this section shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish. Such applications shall contain—
 
 &emsp;(1) a description of the proposed activities;
 

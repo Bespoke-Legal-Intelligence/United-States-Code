@@ -82,5 +82,5 @@ Pub. L. 107–273, div. B, title IV, §4002(a)(4), Nov. 2, 2002, 116 Stat. 1806,
 
 #### Short Title
 
-Section 1 of Pub. L. 100–606 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
+Pub. L. 100–606, §1, Nov. 4, 1988, 102 Stat. 3045, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
 

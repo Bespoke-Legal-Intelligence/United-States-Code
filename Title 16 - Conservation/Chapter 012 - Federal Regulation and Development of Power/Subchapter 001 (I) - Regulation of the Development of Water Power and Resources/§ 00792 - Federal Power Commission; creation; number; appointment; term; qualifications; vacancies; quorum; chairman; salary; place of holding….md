@@ -12,7 +12,7 @@ The principal office of the commission shall be in the District of Columbia, whe
 
 #### Codification
 
-Provisions which prescribed the compensation of commissioners were omitted as obsolete. Compensation of the Chairman and members of the Commission wasprescribed by sections 5314 and 5315 of Title 5, Government Organization and Employees, prior to termination of the Commission. See Termination of Federal Power Commission; Transfer of Functions note below.
+Provisions which prescribed the compensation of commissioners were omitted as obsolete. Compensation of the Chairman and members of the Commission was prescribed by sections 5314 and 5315 of Title 5, Government Organization and Employees, prior to termination of the Commission. See Termination of Federal Power Commission; Transfer of Functions note below.
 
 #### Amendments
 

@@ -70,7 +70,7 @@ In general.—The Secretary of the Treasury shall establish guidelines for depos
 
 &emsp;&emsp;(B)
 
-Contents.—The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted under this subsection to any depository institution.
+Contents.—The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted underthis subsection to any depository institution.
 
 &emsp;(5)
 
@@ -148,7 +148,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§221–223, 84 Stat. 1122.
 
 In subsection (a), the words “coins or” are added, and the words “prescribe” and “prescribes” are substituted for “specify” in 31:1081, and “require”, for consistency. The words “other parties thereto or” in 31:1082 are omitted as surplus. The words “to the Secretary” in 31:1081 are omitted as unnecessary and for clarity. The words “in such detail” are omitted as surplus. The words “A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made” are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
 
-In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(excepta violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
+In subsection (b), the words “in his discretion” and “individually or by class” are omitted as surplus. The word “Government” is added for consistency. The words “or a regulation under this subchapter”, are added because of the restatement. The words “(except a violation of section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 
 In subsection (c)(1), clause (A) is substituted for “with respect to a domestic financial institution . . . with that institution” for clarity. Clause (C) is substituted for “any such person may, at his election and in lieu of filing the report in the manner hereinabove prescribed, file the report with the Secretary” to eliminate unnecessary words.
 
@@ -204,7 +204,7 @@ Report required.—The Secretary of the Treasury shall submit a report to the Co
 
 #### Report Reduction Goal; Streamlined Currency Transaction Reports
 
-Section 402(b), (c) of Pub. L. 103–325 provided that:
+Pub. L. 103–325, title IV, §402(b), (c), Sept. 23, 1994, 108 Stat. 2245, provided that:
 
 “(b)
 

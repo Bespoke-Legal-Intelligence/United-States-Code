@@ -24,7 +24,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 &emsp;(E) A member who is ordered to move in connection with the closure or realignment of a military installation and, as a result, the member's dependents actually move or, in the case of a member without dependents, the member actually moves.
 
-&emsp;(F) A member whose dependents actually move from the member's place of residence in connection with the performance of orders forthe member to report to the member's first permanent duty station if the move—
+&emsp;(F) A member whose dependents actually move from the member's place of residence in connection with the performance of orders for the member to report to the member's first permanent duty station if the move—
 
 &emsp;&emsp;(i) is to the permanent duty station or a designated location; and
 
@@ -52,7 +52,7 @@ Secondary Allowance Authorized Under Certain Circumstances.—(1) Under regulati
 
 Dislocation Allowance Rates.—(1) The amount of the dislocation allowance to be paid under this section to a member shall be based on the member's pay grade and dependency status at the time the member becomes entitled to the allowance, except that the Secretary concerned may not differentiate between members with dependents in pay grades E–1 through E–5.
 
-(2) The initial rate for the dislocation allowance, for each pay grade and dependency status, shall be equal to the rate in effect for that pay grade and dependency status on December 31, 1997, as adjusted by the average percentage increase in the rates of basic pay for calendar year 1998. Effective on the same date that the monthly rates of basic pay for members are increased for a subsequent calendar year, the Secretary of Defense shall adjust the rates for the dislocation allowance for that calendar year by the percentage equal to the average percentage increase in the rates of basic pay for that calendar year.
+(2) The initial rate for the dislocation allowance, for each pay grade and dependency status,shall be equal to the rate in effect for that pay grade and dependency status on December 31, 1997, as adjusted by the average percentage increase in the rates of basic pay for calendar year 1998. Effective on the same date that the monthly rates of basic pay for members are increased for a subsequent calendar year, the Secretary of Defense shall adjust the rates for the dislocation allowance for that calendar year by the percentage equal to the average percentage increase in the rates of basic pay for that calendar year.
 
 (d)
 
@@ -92,7 +92,7 @@ Advance Payment.—A dislocation allowance payable under this section may be pai
 
 Termination.—No dislocation allowance may be paid under this section for a move that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 474, §407; Pub. L. 89–26, §1(3), (4), May 22, 1965, 79 Stat. 117; Pub. L. 89–718, §60, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–207, §1(4), Dec. 16, 1967, 81 Stat. 651; Pub. L. 97–60, title I, §124, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §611(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §619(a), Nov. 14, 1986, 100 Stat. 3881; Pub. L. 100–180, div. A, title VI, §613, Dec. 4, 1987, 101Stat. 1093; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §624, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title VI, §622(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 105–85, div. A, title VI, §632(a), Nov. 18, 1997, 111 Stat. 1795; Pub. L. 106–398, §1 \[\[div. A\], title VI, §644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–161; Pub. L. 107–107, div. A, title VI, §§635(a), (b), 636(a), Dec. 28, 2001, 115 Stat. 1144, 1145; renumbered §477 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(10), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 474, §407; Pub. L. 89–26, §1(3), (4), May 22, 1965, 79 Stat. 117; Pub. L. 89–718, §60, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–207, §1(4), Dec. 16, 1967, 81 Stat. 651; Pub. L. 97–60, title I, §124, Oct. 14, 1981, 95 Stat. 1003; Pub. L. 99–145, title VI, §611(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §619(a), Nov. 14, 1986, 100 Stat. 3881; Pub. L. 100–180, div. A, title VI, §613, Dec. 4, 1987, 101 Stat. 1093; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §624, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title VI, §622(a), Sept. 23, 1996, 110 Stat. 2548; Pub. L. 105–85, div. A, title VI, §632(a), Nov. 18, 1997, 111 Stat. 1795; Pub. L. 106–398, §1 \[\[div. A\], title VI, §644\], Oct. 30, 2000, 114 Stat. 1654, 1654A–161; Pub. L. 107–107, div. A, title VI, §§635(a), (b), 636(a), Dec. 28, 2001, 115 Stat. 1144, 1145; renumbered §477 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(10), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -122,13 +122,11 @@ In subsection (a), the words “Except as provided in subsections (b) and (c) of
 
 In subsection (b), the words “is not entitled to . . . more than one” are substituted for the words “shall be entitled . . . for not more than one”. The words “the payment of” and “for not more than one permanent change of station” are omitted as surplusage. Clauses (1) and (2) are substituted for the last 29 words of the 5th and 6th sentences of section 253(c) of existing title 37.
 
-#### Codification
-
-Section 631(f)(4)(A) of Pub. L. 112–81, which directed that this title be amended by conforming any references to sections of this title which were transferred and redesignated by “subsection (c)” of section 631, was executed by conforming the references to those sections as transferred and redesignated by subsection (d) of section 631, to reflect the probable intent of Congress.
-
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), substituted, wherever appearing, “475a” for “405a”, “476” for “406”, “476a” for “406a”, and “484” for “554”. See Codification note above.
+<b>2013</b>—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted, wherever appearing, “475a” for “405a”, “476” for “406”, “476a” for “406a”, and “484” for “554”.
 
 Pub. L. 112–81, §631(d)(2), renumbered section 407 of this title as this section.
 
@@ -194,29 +192,31 @@ Subsec. (b). Pub. L. 104–106, §624(b)(2), substituted “paragraph (3) or (4)
 
 Subsec. (b)(3). Pub. L. 89–26, §1(4), added cl. (3).
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title VI, §635(c), Dec. 28, 2001, 115 Stat. 1145, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to an order issued on or after January 1, 2002, in connection with a change of permanent station or for a member of the uniformed services to report to the member's first permanent duty station.”
 
-Pub. L. 107–107, div. A, title VI, §636(b), Dec. 28, 2001, 115 Stat. 1145, as amended by Pub. L. 112–81, div. A, titleVI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “Subsection (f) \[of section 477\] of title 37, United States Code, as added by subsection (a)(2), shall apply with respect to an order to move for a member of a uniformed service that is issued on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
-
-\[Amendment by Pub. L. 112–81 to section 636(b) of Pub. L. 107–107, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 107–107, div. A, title VI, §636(b), Dec. 28, 2001, 115 Stat. 1145, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Subsection (f) \[of section 477\] of title 37, United States Code, as added by subsection (a)(2), shall apply with respect to an order to move for a member of a uniformed service that is issued on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1997 Amendment
 
-Section 632(b) of Pub. L. 105–85 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, §632(b), Nov. 18, 1997, 111 Stat. 1797, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1998.”
 
 #### Effective Date of 1996 Amendment
 
-Section 622(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
+Pub. L. 104–201, div. A, title VI, §622(b), Sept. 23, 1996, 110 Stat. 2548, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1997.”
 
 #### Effective Date of 1986 Amendment
 
-Section 619(b) of Pub. L. 99–661 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and shall apply only to moves which commence on or after that date.”
+Pub. L. 99–661, div. A, title VI, §619(b), Nov. 14, 1986, 100 Stat. 3882, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and shall apply only to moves which commence on or after that date.”
 
 #### Effective Date of 1985 Amendment
 
-Section 611(b) of Pub. L. 99–145 provided that: “The amendment made by this section \[amending this section\] shall apply to moves begun after September 30, 1985.”
+Pub. L. 99–145, title VI, §611(b), Nov. 8, 1985, 99 Stat. 639, provided that: “The amendment made by this section \[amending this section\] shall apply to moves begun after September 30, 1985.”
 
 #### Effective Date of 1967 Amendment
 

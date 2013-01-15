@@ -136,7 +136,7 @@ In this section—
 
 #### Effective Date
 
-Section 562(b) of Pub. L. 105–65 provided that: “The amendments made by subsection (a) \[enacting this section and amending section 1437z of this title\] shall apply only with respect to—
+Pub. L. 105–65, title V, §562(b), Oct. 27, 1997, 111 Stat. 1419, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 1437z of this title\] shall apply only with respect to—
 
 &emsp;“(1) violations that occur on or after the effective date of final regulations implementing the amendments made by this section; and
 
@@ -144,7 +144,7 @@ Section 562(b) of Pub. L. 105–65 provided that: “The amendments made by subs
 
 #### Regulations
 
-Section 562(c) of Pub. L. 105–65 provided that:
+Pub. L. 105–65, title V, §562(c), Oct. 27, 1997, 111 Stat. 1419, provided that:
 
 “(1)
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1993 Amendment
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date
 
-Section 925(b)(2) of Pub. L. 98–94 provided that: “Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984.”
+Pub. L. 98–94, title IX, §925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: “Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984.”
 

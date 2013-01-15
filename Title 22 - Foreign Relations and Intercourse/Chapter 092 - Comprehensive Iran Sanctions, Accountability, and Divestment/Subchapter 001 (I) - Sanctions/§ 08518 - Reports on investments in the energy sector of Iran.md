@@ -26,13 +26,37 @@
 
 #### (b) Updated reports
 
-Not later than 180 days after submitting the report required by subsection (a), and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report containing the matters required in the report under subsection (a)(1) for the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section.
+Not later than 180 days after submitting the report required by subsection (a), and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report, covering the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section, that—
 
-(Pub. L. 111–195, title I, §110, July 1, 2010, 124 Stat. 1338.)
+&emsp;(1) contains the matters required in the report under subsection (a)(1); and
+
+&emsp;(2) identifies—
+
+&emsp;&emsp;(A) the volume of crude oil and refined petroleum products imported to and exported from Iran (including through swaps and similar arrangements);
+
+&emsp;&emsp;(B) the persons selling and transporting crude oil and refined petroleum products described in subparagraph (A), the countries with primary jurisdiction over those persons, and the countries in which those products were refined;
+
+&emsp;&emsp;(C) the sources of financing for imports to Iran of crude oil and refined petroleum products described in subparagraph (A); and
+
+&emsp;&emsp;(D) the involvement of foreign persons in efforts to assist Iran in—
+
+&emsp;&emsp;&emsp;(i) developing upstream oil and gas production capacity;
+
+&emsp;&emsp;&emsp;(ii) importing advanced technology to upgrade existing Iranian refineries;
+
+&emsp;&emsp;&emsp;(iii) converting existing chemical plants to petroleum refineries; or
+
+&emsp;&emsp;&emsp;(iv) maintaining, upgrading, or expanding existing refineries or constructing new refineries.
+
+(Pub. L. 111–195, title I, §110, July 1, 2010, 124 Stat. 1338; Pub. L. 112–158, title II, §224, Aug. 10, 2012, 126 Stat. 1240.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 8551(a) of this title.</i>
+
+#### Amendments
+
+<b>2012</b>—Subsec. (b). Pub. L. 112–158 substituted “a report, covering the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section, that—” for “a report containing the matters required in the report under subsection (a)(1) for the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section.” and added pars. (1) and (2).
 
 #### Delegation of Functions
 

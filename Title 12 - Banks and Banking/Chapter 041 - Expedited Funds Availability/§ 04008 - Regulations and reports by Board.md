@@ -78,7 +78,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 #### (A) Report required
 
-&emsp;&emsp;The Board shall transmit a report to both Houses of the Congress not later than 2 years after August 10, 1987, regarding the effects the temporary schedule established under section 4002(c) of this title have had on depository institutions and the public.
+&emsp;&emsp;The Board shall transmit a report to both Houses of the Congress not later than 2years after August 10, 1987, regarding the effects the temporary schedule established under section 4002(c) of this title have had on depository institutions and the public.
 
 #### (B) Contents of report
 

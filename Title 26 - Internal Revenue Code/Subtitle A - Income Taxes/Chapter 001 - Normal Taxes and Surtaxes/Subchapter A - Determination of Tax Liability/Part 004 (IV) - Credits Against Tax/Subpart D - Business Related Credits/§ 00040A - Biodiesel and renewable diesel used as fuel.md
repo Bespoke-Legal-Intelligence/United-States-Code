@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection\(a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
+&emsp;&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
 
 #### (ii) Form and effect of election
 
@@ -246,15 +246,17 @@ For purposes of this title—
 
 #### (g) Termination
 
-This section shall not apply to any sale or use after December 31, 2011.
+This section shall not apply to any sale or use after December 31, 2013.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -321,6 +323,10 @@ Subsec. (f). Pub. L. 109–58, §1346(a), added subsec. (f). Former subsec. (f) 
 Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–240, title IV, §405(c), Jan. 2, 2013, 126 Stat. 2340, provided that: “The amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall apply to fuel sold or used after December 31, 2011.”
 
 #### Effective Date of 2010 Amendment
 

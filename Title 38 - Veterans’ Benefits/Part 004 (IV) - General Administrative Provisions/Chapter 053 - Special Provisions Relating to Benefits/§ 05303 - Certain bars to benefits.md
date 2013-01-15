@@ -18,7 +18,7 @@
 
 > If such board makes a preliminary determination that such person would not have been awarded an upgraded discharge under standards meeting the requirements of paragraph (1) of this subsection, such person shall be entitled to an appearance before the board, as provided for in section 1553(c) of title 10, prior to a final determination on such question and shall be given written notice by the board of such preliminary determination and of the right to such appearance. The Secretary shall, as soon as administratively feasible, notify the appropriate board of review of the receipt of benefits under laws administered by the Secretary, or of the application for such benefits, by any person awarded an upgraded discharge under revised standards referred to in clause (A)(i), (ii), or (iii) of this paragraph with respect to whom a favorable determination has not been made under this paragraph.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3103; Pub. L. 86–113, July 28, 1959, 73 Stat. 262; Pub. L. 95–126, §1(a), Oct. 8, 1977, 91 Stat. 1106; Pub. L. 97–295, §4(75), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–576, title VII, §701(70), Oct. 28, 1986, 100 Stat. 3296; renumbered §5303, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3103; Pub. L. 86–113, July 28, 1959, 73 Stat. 262; Pub. L. 95–126, §1(a), Oct. 8, 1977, 91 Stat. 1106; Pub. L. 97–295, §4(75), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–576, title VII, §701(70), Oct. 28, 1986, 100 Stat. 3296; renumbered §5303, Pub. L. 102–40, title IV,§402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 95–126, §1(a)(2), added subsec. (e).
 
 #### Effective Date of 1977 Amendment
 
-Section 5 of Pub. L. 95–126 provided that: “This Act \[amending this section and section 101 of this title and enacting provisions set out below\] shall become effective on the date of its enactment \[Oct. 8, 1977\], except that—
+Pub. L. 95–126, §5, Oct. 8, 1977, 91 Stat. 1108, provided that: “This Act \[amending this section and section 101 of this title and enacting provisions set out below\] shall become effective on the date of its enactment \[Oct. 8, 1977\], except that—
 
 &emsp;“(1) section 2 \[set out below\] shall become effective on October 1, 1977, or on such enactment date, whichever is later; and
 

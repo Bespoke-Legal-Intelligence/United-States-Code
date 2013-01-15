@@ -32,7 +32,7 @@ Section was formerly classified to section 528 of Title 7, Agriculture.
 
 #### Effective Date of 1955 Amendment
 
-Amendment by act Aug. 11, 1955, effective on first day of month next following 120 days after Aug. 11, 1955, see section 112 of act Aug. 11, 1955 (69 Stat. 662).
+Amendment by act Aug. 11, 1955, effective on first day of month next following 120 days after Aug. 11, 1955, see section 112 of act Aug. 11, 1955, set out as a note under section 1138f of this title.
 
 #### Transfer of Functions
 

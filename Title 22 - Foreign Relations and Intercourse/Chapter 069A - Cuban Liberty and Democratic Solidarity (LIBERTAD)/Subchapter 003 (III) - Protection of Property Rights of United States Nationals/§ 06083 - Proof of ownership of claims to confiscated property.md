@@ -18,7 +18,7 @@
 
 #### (c) Rule of construction
 
-Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643<i>l</i>\], as added by subsection (b) of this section, shall be construed—
+Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643l\], as added by subsection (b) of this section, shall be construed—
 
 &emsp;(1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
 
@@ -34,5 +34,5 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Codification
 
-Section is comprised of section 303 of Pub. L. 104–114. Subsec. (b) of section 303 of Pub. L. 104–114 enacted section 1643<i>l</i> of this title.
+Section is comprised of section 303 of Pub. L. 104–114. Subsec. (b) of section 303 of Pub. L. 104–114 enacted section 1643l of this title.
 

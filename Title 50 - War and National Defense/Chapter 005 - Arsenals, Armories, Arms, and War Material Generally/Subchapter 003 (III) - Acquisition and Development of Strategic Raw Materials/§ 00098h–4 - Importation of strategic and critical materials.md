@@ -2,7 +2,7 @@
 
 The President may not prohibit or regulate the importation into the United States of any material determined to be strategic and critical pursuant to the provisions of this subchapter, if such material is the product of any foreign country or area not listed in general note 3(b) of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), for so long as the importation into the United States of material of that kind which is the product of a country or area listed in such general note is not prohibited by any provision of law.
 
-(June 7, 1939, ch. 190, §13, formerly §10, as added Pub. L. 92–156, title V, §503(2), Nov. 17, 1971, 85 Stat. 427; renumbered §13, Pub. L. 96–41, §2(b)(1), July 30, 1979, 93 Stat. 324; amended Pub. L. 100–180, div. C, title II, §3206(b), (c), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–418, title I, §1214(<i>o</i>), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 104–201, div. C, title XXXIII, §3313, Sept. 23, 1996, 110 Stat. 2857.)
+(June 7, 1939, ch. 190, §13, formerly §10, as added Pub. L. 92–156, title V, §503(2), Nov. 17, 1971, 85 Stat. 427; renumbered §13, Pub. L. 96–41, §2(b)(1), July 30, 1979, 93 Stat. 324; amended Pub. L. 100–180, div. C, title II, §3206(b), (c), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–418, title I, §1214(o), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 104–201, div. C, title XXXIII, §3313, Sept. 23, 1996, 110 Stat. 2857.)
 
 #### References in Text
 

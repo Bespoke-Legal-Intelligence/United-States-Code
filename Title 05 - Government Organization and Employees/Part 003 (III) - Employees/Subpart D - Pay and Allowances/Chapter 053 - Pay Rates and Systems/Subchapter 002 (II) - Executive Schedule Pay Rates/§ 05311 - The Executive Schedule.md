@@ -26,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1990</b>—Pub. L. 101–509 struck out “(a)” before “The Executive Schedule, which” and struck out subsec. (b) which read as follows:
 
-“(1) Not later than 180 days after the date of the enactment of the Civil Service Reform Act of 1978, the Director of the Office of Personnel Management shall determine the number and classification of executive level positions in existence in the executive branch on that date of enactment, and shall publish the determination in the Federal Register. Effective beginning on the date of the publication, the number of executive level positions within the executive branch may not exceed the number published under this subsection.
+“(1) Not later than 180 days after the date of the enactment of the Civil Service Reform Act of 1978, the Director of the Office of Personnel Management shall determine the number and classification of executive level positions in existence in the executive branch onthat date of enactment, and shall publish the determination in the Federal Register. Effective beginning on the date of the publication, the number of executive level positions within the executive branch may not exceed the number published under this subsection.
 
 “(2) For the purpose of this subsection, ‘executive level position’ means—
 

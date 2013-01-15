@@ -76,7 +76,7 @@ Section 2605 of this title, referred to in par. (3), was in original “section 
 
 #### Effective Date
 
-Section 315 of title III of Pub. L. 97–446 provided that:
+Pub. L. 97–446, title III, §315, Jan. 12, 1983, 96 Stat. 2363, provided that:
 
 “(a)
 
@@ -92,7 +92,7 @@ Exception.—Notwithstanding subsection (a), the members of the Committee may be
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 97–446 provided that: “This title \[enacting this chapter\] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
+Pub. L. 97–446, title III, §301, Jan. 12, 1983, 96 Stat. 2350, provided that: “This title \[enacting this chapter\] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

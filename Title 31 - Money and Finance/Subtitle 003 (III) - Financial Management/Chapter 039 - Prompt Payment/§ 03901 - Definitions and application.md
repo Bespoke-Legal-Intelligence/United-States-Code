@@ -98,5 +98,5 @@ Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–496 provided that: “This Act \[enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title\] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
+Pub. L. 100–496, §1, Oct. 17, 1988, 102 Stat. 2455, provided that: “This Act \[enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title\] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
 

@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288,1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -94,7 +94,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (1) Convening of conference; notification; purpose
 
-&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is notmeeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C. 1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
+&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is not meeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C.1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
 
 #### (2) State management program requirement
 
@@ -144,7 +144,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (9) Maintenance of effort
 
-&emsp;No grant may be made to a State under this subsection in any fiscal year unless such State enters into such agreements with the Administrator as the Administrator may require to ensure that such State will maintain its aggregate expenditures from all other sources for programs for controlling pollution added to the navigable waters in such State from nonpoint sources and improving the quality of such waters at or above the average level ofsuch expenditures in its two fiscal years preceding February 4, 1987.
+&emsp;No grant may be made to a State under this subsection in any fiscal year unless such State enters into such agreements with the Administrator as the Administrator may require to ensure that such State will maintain its aggregate expenditures from all other sources for programs for controlling pollution added to the navigable waters in such State from nonpoint sources and improving the quality of such waters at or above the average level of such expenditures in its two fiscal years preceding February 4, 1987.
 
 #### (10) Request for information
 
@@ -184,7 +184,7 @@ There is authorized to be appropriated to carry out subsections (h) and (i) of t
 
 The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
-#### (<i>l</i>) Collection of information
+#### (l) Collection of information
 
 The Administrator shall collect and make available, through publications and other appropriate means, information pertaining to management practices and implementation methods, including, but not limited to, (1) information concerning the costs and relative efficiencies of best management practices for reducing nonpoint source pollution; and (2) available data concerning the relationship between water quality and implementation of various management practices to control nonpoint sources of pollution.
 
@@ -192,7 +192,7 @@ The Administrator shall collect and make available, through publications and oth
 
 #### (1) Annual reports
 
-&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in thenavigable waters resulting from nonpoint sources and improving the quality of such waters.
+&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in the navigable waters resulting from nonpoint sources and improving the quality of such waters.
 
 #### (2) Final report
 

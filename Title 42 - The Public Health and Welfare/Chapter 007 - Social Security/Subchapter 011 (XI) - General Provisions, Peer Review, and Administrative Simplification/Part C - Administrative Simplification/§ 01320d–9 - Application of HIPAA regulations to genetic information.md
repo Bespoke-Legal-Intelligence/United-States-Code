@@ -28,7 +28,7 @@ For purposes of this section:
 
 &emsp;The term “underwriting purposes” means, with respect to a group health plan, health insurance coverage, or a medicare supplemental policy—
 
-&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for, or determination of, benefits under the plan, coverage, or policy;
+&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continuedeligibility) for, or determination of, benefits under the plan, coverage, or policy;
 
 &emsp;&emsp;(B) the computation of premium or contribution amounts under the plan, coverage, or policy;
 

@@ -10,7 +10,7 @@ The Secretary shall abide by regulations of the Commission regarding advance not
 
 #### (c) Training for public safety officials
 
-The Secretary shall provide technical assistance and funds to States for training for public safety officials of appropriate units of local government and Indian tribes through whose jurisdiction the Secretary plans to transport spent nuclear fuel or high-level radioactive waste under part A of this subchapter or under part C of this subchapter. Training shall cover procedures required for safe routine transportation of these materials, as well as procedures for dealing with emergency response situations. The Waste Fund shall be the source of funds for work carried out under this subsection.
+The Secretary shall provide technical assistance and funds to States for training for public safety officials of appropriate units of local government and Indian tribes through whose jurisdiction the Secretary plans to transport spent nuclear fuel or high-level radioactive waste under part A of this subchapter or under part C of this subchapter. Training shall cover procedures required for safe routine transportation ofthese materials, as well as procedures for dealing with emergency response situations. The Waste Fund shall be the source of funds for work carried out under this subsection.
 
 (Pub. L. 97–425, title I, §180, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5061, Dec. 22, 1987, 101 Stat. 1330–251.)
 

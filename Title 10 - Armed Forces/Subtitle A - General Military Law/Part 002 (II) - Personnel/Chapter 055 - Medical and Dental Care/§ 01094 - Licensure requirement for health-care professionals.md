@@ -72,7 +72,7 @@ Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073
 
 #### Effective Date
 
-Section 653(b) of Pub. L. 99–145 provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1985\] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
+Pub. L. 99–145, title VI, §653(b), Nov. 8, 1985, 99 Stat. 658, provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1985\] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
 
 #### Regulations
 

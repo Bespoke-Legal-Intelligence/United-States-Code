@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amounts for the group covered under such plan on the basis of genetic information.
+&emsp;&emsp;For purposes of this section, a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amountsfor the group covered under such plan on the basis of genetic information.
 
 #### (B) Rule of construction
 

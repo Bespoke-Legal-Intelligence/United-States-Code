@@ -30,7 +30,7 @@ If the Secretary, in cooperation with the Secretary of State and the Secretary o
 
 #### (d) Regulations
 
-The Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the purposes of the Agreement and this chapter. The Secretary shall coordinate such regulations with any other entities regulating high seas fishing vessels, in order to minimize duplication of permit application and reporting requirements. To the extent practicable, such regulations shall also be consistent with regulations implementing fishery management plans under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+The Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the purposes of the Agreement and this chapter. The Secretary shall coordinate such regulations with any other entities regulating high seas fishing vessels, in order to minimize duplication of permit application and reporting requirements. To the extent practicable, such regulations shall also be consistent with regulations implementing fishery managementplans under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (e) Notice of international conservation and management measures
 
@@ -48,7 +48,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Transfer of Functions
 

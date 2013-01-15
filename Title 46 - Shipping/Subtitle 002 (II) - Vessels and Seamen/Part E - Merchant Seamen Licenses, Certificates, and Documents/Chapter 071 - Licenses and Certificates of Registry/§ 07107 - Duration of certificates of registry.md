@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 46:243
 
-Section 7107 specifies that there is no time limit on the validity of a certificate of registry issued to a medical doctor or a professional nurse but is conditioned onthe continuous possession of the appropriate license issued by a State.
+Section 7107 specifies that there is no time limit on the validity of a certificate of registry issued to a medical doctor or a professional nurse but is conditioned on the continuous possession of the appropriate license issued by a State.
 
 #### Amendments
 

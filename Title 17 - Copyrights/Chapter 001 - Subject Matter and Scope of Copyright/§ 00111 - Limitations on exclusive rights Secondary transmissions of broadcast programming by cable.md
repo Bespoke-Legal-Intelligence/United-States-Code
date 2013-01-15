@@ -16,7 +16,7 @@ Certain Secondary Transmissions Exempted.—The secondary transmission of a perf
 
 (b)
 
-Secondary Transmission of Primary Transmission to Controlled Group.—Notwithstanding the provisions of subsections (a) and (c), the secondary transmission to the public of a performance or display of a work embodied in a primary transmission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the primary transmission is not made for reception by the public at large but is controlled and limited to reception by particular members of the public: <i>Provided, however</i>, That such secondary transmission is not actionable as an act of infringement if—
+Secondary Transmission of Primary Transmission to Controlled Group.—Notwithstanding the provisions of subsections (a) and (c), the secondary transmission to the public of a performance or display of a work embodied in a primary transmission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the primary transmission is notmade for reception by the public at large but is controlled and limited to reception by particular members of the public: <i>Provided, however</i>, That such secondary transmission is not actionable as an act of infringement if—
 
 &emsp;(1) the primary transmission is made by a broadcast station licensed by the Federal Communications Commission; and
 
@@ -48,7 +48,7 @@ Statutory License for Secondary Transmissions by Cable Systems.—
 
 Statement of account and royalty fees.—Subject to paragraph (5), a cable system whose secondary transmissions have been subject to statutory licensing under subsection (c) shall, on a semiannual basis, deposit with the Register of Copyrights, in accordance with requirements that the Register shall prescribe by regulation the following:
 
-&emsp;&emsp;(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may from time to time prescribe by regulation. In determining the total number of subscribers and the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, the system shall not include subscribers and amounts collected from subscribers receiving secondary transmissions pursuant to section 119. Such statement shall also include a special statement of account covering anynon-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage.
+&emsp;&emsp;(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may from time to time prescribe by regulation. In determining the total number of subscribers and the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters,the system shall not include subscribers and amounts collected from subscribers receiving secondary transmissions pursuant to section 119. Such statement shall also include a special statement of account covering any non-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage.
 
 &emsp;&emsp;(B) Except in the case of a cable system whose royalty fee is specified in subparagraph (E) or (F), a total royalty fee payable to copyright owners pursuant to paragraph (3) for the period covered by the statement, computed on the basis of specified percentages of the gross receipts from subscribers to the cable service during such period for the basic service of providing secondary transmissions of primary broadcast transmitters, as follows:
 
@@ -96,7 +96,7 @@ Handling of fees.—The Register of Copyrights shall receive all fees (including
 
 Distribution of royalty fees to copyright owners.—The royalty fees thus deposited shall, in accordance with the procedures provided by clause (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
 
-&emsp;&emsp;(A) Any such owner whose work was included in a secondary transmission made bya cable system of a non-network television program in whole or in part beyond the local service area of the primary transmitter.
+&emsp;&emsp;(A) Any such owner whose work was included in a secondary transmission made by a cable system of a non-network television program in whole or in part beyond the local service area of the primary transmitter.
 
 &emsp;&emsp;(B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under clause (1)(A).
 
@@ -186,7 +186,7 @@ Secondary transmission.—A “secondary transmission” is the further transmit
 
 &emsp;(3)
 
-Cable system.—A “cable system” is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royalty fee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operatingfrom one headend shall be considered as one system.
+Cable system.—A “cable system” is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royaltyfee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operating from one headend shall be considered as one system.
 
 &emsp;(4)
 
@@ -312,7 +312,7 @@ All the royalty payments required under the bill are paid on a semiannual basis 
 
 Based on current estimates supplied to the Committee, the total royalty fees paid under the initial schedule established in the bill should approximate $8.7 million. Compared with the present number of cable television subscribers, calculated at 10.8 million, copyright payments under the bill would therefore approximate 81 cents per subscriber per year. The Committee believes that such payments are modest and will not retard the orderly development of the cable television industry or the service it provides to its subscribers.
 
-<b>Analysis of Provisions.</b> Throughout section 111, the operative terms are “primary transmission” and “secondary transmission.” These terms are defined in subsection (f) entirely in relation to each other. In any particular case, the “primary” transmitter is the one whose signals are being picked up and further transmitted by a “secondary” transmitter which in turn, is someone engaged in “the further transmitting of a primary transmission simultaneously with the primary transmission.” With one exception provided in subsection (f) and limited by subsection (e), the section does not cover or permit a cable system, or indeed any person, to tape or otherwise record a program off-the-air and later to transmit the program from the tape or record to the public. The one exception involves cable systems located outside the continental United States, but not including cable systems in Puerto Rico, or, with limited exceptions, Hawaii. These systems are permitted to record and retransmit programs under thecompulsory license, subject to the restrictive conditions of subsection (e), because off-the-air signals are generally not available in the offshore areas.
+<b>Analysis of Provisions.</b> Throughout section 111, the operative terms are “primary transmission” and “secondary transmission.” These terms are defined in subsection (f) entirely in relation to each other. In any particular case, the “primary” transmitter is the one whose signals are being picked up and further transmitted by a “secondary” transmitter which in turn, is someone engaged in “the further transmitting of a primary transmission simultaneously with the primary transmission.” With one exception provided in subsection (f) and limited by subsection (e), the section does not cover or permit a cable system, or indeed any person, to tape or otherwise record a program off-the-air and later to transmit the program from the tape or record to the public. The one exception involves cable systems located outside the continental United States,but not including cable systems in Puerto Rico, or, with limited exceptions, Hawaii. These systems are permitted to record and retransmit programs under the compulsory license, subject to the restrictive conditions of subsection (e), because off-the-air signals are generally not available in the offshore areas.
 
 <b>General Exemptions.</b> Certain secondary transmissions are given a general exemption under clause (1) of section 111(a). The first of these applies to secondary transmissions consisting “entirely of the relaying, by the management of a hotel, apartment house, or similar establishment” of a transmission to the private lodgings of guests or residents and provided “no direct charge is made to see or hear the secondary transmission.”
 
@@ -384,7 +384,7 @@ Section 111(d)(5) sets forth the procedure for the distribution of the royalty f
 
 <b>Definitions.</b> Section 111(f) contains a series of definitions. These definitions are found in subsection (f) rather than in section 101 because of their particular application to secondary transmissions by cable systems.
 
-<i>Primary and Secondary Transmissions</i>. The definitions of “primary transmission” and “secondary transmission” have been discussed above. The definition of “secondary transmission” also contains a provision permitting the nonsimultaneous retransmission of a primary transmission if by a cable system “not located in whole or in part within the boundary of the forty-eight contiguous states, Hawaii or Puerto Rico.” Undera proviso, however, a cable system in Hawaii may make a nonsimultaneous retransmission of a primary transmission if the carriage of the television broadcast signal comprising such further transmission is permissible under the rules, regulations or authorizations of the FCC.
+<i>Primary and Secondary Transmissions</i>. The definitions of “primary transmission” and “secondary transmission” have been discussed above. The definition of “secondary transmission” also contains a provision permitting the nonsimultaneous retransmission of aprimary transmission if by a cable system “not located in whole or in part within the boundary of the forty-eight contiguous states, Hawaii or Puerto Rico.” Under a proviso, however, a cable system in Hawaii may make a nonsimultaneous retransmission of a primary transmission if the carriage of the television broadcast signal comprising such further transmission is permissible under the rules, regulations or authorizations of the FCC.
 
 The effect of this definition is to permit certain cable systems in offshore areas, but not including cable systems in the offshore area of Puerto Rico and to a limited extent only in Hawaii, to tape programs and retransmit them to subscribers under the compulsory license. Puerto Rico was excluded based upon a communication the Committee received from the Governor of Puerto Rico stating that the particular television broadcasting problems which the definition seeks to solve for cable systems in other noncontiguous areas do not exist in Puerto Rico. He therefore requested that Puerto Rico be excluded from the scope of the definition. All cable systems covered by the definition are subject to the conditions and limitations for nonsimultaneous transmissions established in section 111(e).
 
@@ -404,7 +404,7 @@ Two further exceptions pertain to the late-night or specialty programming rules 
 
 <i>Network Station</i>. A “network station” is defined as a television broadcast station that is owned or operated by, or affiliated with, one or more of the U.S. television networks providing nationwide transmissions and that transmits a substantial part of the programming supplied by such networks for a substantial part of that station's typical broadcast day. To qualify as a network station, all the conditions of the definition must be met. Thus, the retransmission of a Canadian station affiliated with a Canadian network would not qualify under the definition. Further, a station affiliated with a regional network would not qualify, since a regional network would not provide nationwide transmissions. However, a station affiliated with a network providing nationwide transmissions that also occasionally carries regional programs would qualify as a “network station,” if the station transmits a substantial part of the programming supplied by the network for a substantial part of the station's typical broadcast day.
 
-<i>Independent Station</i>. An “independent station” is defined as a commercial television broadcast stationother than a network station. Any commercial station that does not fall within the definition of “network station” is classified as an “independent station.”
+<i>Independent Station</i>. An “independent station” is defined as a commercial television broadcast station other than a network station. Any commercial station that does not fall within the definition of “network station” is classified as an “independent station.”
 
 <i>Noncommercial Educational Station</i>. A “noncommercial educational station” is defined as a television station that is a noncommercial educational broadcast station within the meaning of section 397 of title 47 \[47 U.S.C. 397\].
 
@@ -414,7 +414,7 @@ The date of the enactment of the Satellite Television Extension and Localism Act
 
 The date of the enactment of the Copyright Act of 1976, referred to in subsec. (f)(5)(B)(i), (ii), probably means the date of the enactment of Pub. L. 94–553, which was approved Oct. 19, 1976.
 
-Section 397 of the Communications Act of 1934, referred to in subsec. (f)(8), is classified to section 397 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 397 of the Communications Act of 1934, referred to in subsec. (f)(8), is classified to section 397 of Title 47, Telecommunications.
 
 #### Amendments
 
@@ -494,7 +494,7 @@ Pub. L. 110–229 substituted “the Federated States of Micronesia, the Republi
 
 <b>2006</b>—Subsec. (d)(2). Pub. L. 109–303, §4(a)(1), substituted “upon authorization by the Copyright Royalty Judges.” for “in the event no controversy over distribution exists, or by the Copyright Royalty Judges. in the event a controversy over such distribution exists.”
 
-Subsec. (d)(4)(B). Pub. L. 109–303, §4(a)(2)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright RoyaltyJudges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
+Subsec. (d)(4)(B). Pub. L. 109–303, §4(a)(2)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
 
 Subsec. (d)(4)(C). Pub. L. 109–303, §4(a)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy.”
 
@@ -558,7 +558,7 @@ Subsec. (d)(1)(A). Pub. L. 100–667, §202(1)(B), inserted provision that deter
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–397, §2(a)(1), (4), (5), substituted “paragraph (1)” for “clause (2)” in par. (3), struck out par. (1) which related to recordation of notice with Copyright Office by cable systems in order for secondary transmissions to be subject to compulsory licensing, and redesignated pars. (2) to (5) as (1) to (4), respectively.
 
-Pub. L. 99–397, §2(a)(2), (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for “clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
+Pub. L. 99–397, §2(a)(2), (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for“clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
 
 Subsec. (f). Pub. L. 99–397, §2(b), substituted “subsection (d)(1)” for “subsection (d)(2)” in third undesignated par., defining a cable system.
 
@@ -648,7 +648,7 @@ Transfer of Appropriations.—All unexpended balances of appropriations made to 
 
 #### Effective Date of 1990 Amendment
 
-Section 3(e)(1) of Pub. L. 101–318 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 801 of this title\] shall be effective as of August 27, 1986.”
+Pub. L. 101–318, §3(e)(1), July 3, 1990, 104 Stat. 289, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 801 of this title\] shall be effective as of August 27, 1986.”
 
 #### Effective Date of 1988 Amendment
 
@@ -660,7 +660,7 @@ Pub. L. 111–175, title III, §306, May 27, 2010, 124 Stat. 1257, provided that
 
 “(a)
 
-In General.—Nothing in this Act \[see Short Title of 2010 Amendment note set out under section 101 of this title\], title 17, United States Code, the Communications Act of 1934 \[47 U.S.C. 151 et seq.\], regulations promulgated by the Register of Copyrights under this title or title 17, United States Code, or regulations promulgated by the Federal Communications Commission under this Act or the Communications Act of 1934 shall be construed to prevent a multichannel video programming distributor from retransmitting a performance or display of a work pursuant to an authorization granted by the copyright owner or, if within the scope of its authorization, its licensee.
+In General.—Nothing in this Act \[see Short Title of 2010 Amendment note set out under section 101 of this title\], title 17, United States Code, the Communications Act of 1934 \[47 U.S.C. 151 et seq.\], regulationspromulgated by the Register of Copyrights under this title or title 17, United States Code, or regulations promulgated by the Federal Communications Commission under this Act or the Communications Act of 1934 shall be construed to prevent a multichannel video programming distributor from retransmitting a performance or display of a work pursuant to an authorization granted by the copyright owner or, if within the scope of its authorization, its licensee.
 
 “(b)
 

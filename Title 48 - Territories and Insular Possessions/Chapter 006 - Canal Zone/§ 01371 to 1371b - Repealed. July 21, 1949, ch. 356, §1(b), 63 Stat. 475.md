@@ -8,7 +8,7 @@ Section 1371b, acts Mar. 2, 1931, ch. 375, §3, 46 Stat. 1472; July 2, 1945, ch.
 
 #### Effective Date of Repeal
 
-Repeal effective Apr. 1, 1948, see section 7(a) of act July 21, 1949.
+Repeal effective Apr. 1, 1948, see Act July 21, 1949, ch. 356, §7(a), 63 Stat. 476.
 
 #### Additional Repeal
 

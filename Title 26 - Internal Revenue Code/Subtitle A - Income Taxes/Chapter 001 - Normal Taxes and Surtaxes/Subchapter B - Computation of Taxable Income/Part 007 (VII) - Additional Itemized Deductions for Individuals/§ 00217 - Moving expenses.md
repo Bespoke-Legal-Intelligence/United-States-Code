@@ -104,7 +104,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;In the case of any qualified retiree moving expenses or qualified survivor moving expenses—
 
-&emsp;&emsp;(A) this section (other than subsection (h)) shall be applied with respect to such expenses as if they were incurred in connectionwith the commencement of work by the taxpayer as an employee at a new principal place of work located within the United States, and
+&emsp;&emsp;(A) this section (other than subsection (h)) shall be applied with respect to such expenses as if they were incurred in connection with the commencement of work by the taxpayer as an employee at a new principal place of work located within the United States, and
 
 &emsp;&emsp;(B) the limitations of subsection (c)(2) shall not apply.
 
@@ -186,15 +186,15 @@ Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 199
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
-Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision forelection of prior law, see section 209 of Pub. L. 95–615, set out as an Effective Date of 1978 Amendment note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision for election of prior law, see section 209 of Pub. L. 95–615, set out as an Effective Date of 1978 Amendment note under section 911 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 506(d) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title V, §506(d), Oct. 4, 1976, 90 Stat. 1569, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Effective Date of 1969 Amendment
 
-Section 231(d) of Pub. L. 91–172, as amended by Pub. L. 91–642, §2, Dec. 31, 1970, 84 Stat. 1880; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 82 of this title and amending this section and sections 1001 and 1016 of this title\] shall apply to taxable years beginning after December 31, 1969, except that—
+Pub. L. 91–172, title II, §231(d), Dec. 30, 1969, 83 Stat. 580, as amended by Pub. L. 91–642, §2, Dec. 31, 1970, 84 Stat. 1880; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 82 of this title and amending this section and sections 1001 and 1016 of this title\] shall apply to taxable years beginning after December 31, 1969, except that—
 
 &emsp;“(1) section 217 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall not apply to any item to the extent that the taxpayer received or accrued reimbursement or other expense allowance for such item in a taxable year beginning on or before December 31, 1969, which was not included in his gross income; and
 

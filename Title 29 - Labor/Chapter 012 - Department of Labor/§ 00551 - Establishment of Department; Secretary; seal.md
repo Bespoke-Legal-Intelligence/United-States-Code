@@ -1,6 +1,6 @@
 ### §551. Establishment of Department; Secretary; seal
 
-There shall be an executive department in the Government to be called the Department of Labor, with a Secretary of Labor, who shall be the head thereof, to be appointed by the President, by and with the advice and consent of the Senate, and whose tenure of office shall be like that of the heads of the other executive departments. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The purpose of the Department of Labor shall be to foster, promote, and develop the welfare of the wage earners of the United States, to improve their working conditions, and to advance their opportunities for profitable employment. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve and judicial notice shall be taken of the said seal.
+There shall be an executive department in the Government to be called the Department of Labor, with a Secretary of Labor, who shall be the head thereof, to be appointed by the President, by and with the advice and consent of the Senate, and whose tenure of office shall be like that of the heads of the other executive departments. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The purpose of the Department of Labor shall be to foster, promote, and develop the welfare of thewage earners of the United States, to improve their working conditions, and to advance their opportunities for profitable employment. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve and judicial notice shall be taken of the said seal.
 
 (Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
 
@@ -30,7 +30,7 @@ A Department of Labor under the charge of a Commissioner of Labor was first esta
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Compensation of Secretary
 

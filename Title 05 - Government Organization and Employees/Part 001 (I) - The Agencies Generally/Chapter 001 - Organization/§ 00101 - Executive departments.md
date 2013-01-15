@@ -32,7 +32,7 @@ The Executive departments are:
 
 &emsp;The Department of Homeland Security.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609;Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–241, title IX, §902(a)(1), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–241, title IX, §902(a)(1), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 
@@ -100,17 +100,25 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–230, §1, Dec. 28, 2012, 126 Stat. 1616, provided that: “This Act \[enacting section 7326 of this title, amending sections 1501, 1502, 1506, 7322, and 7325 of this title, repealing former section 7326 of this title, and enacting provisions set out as notes under sections 1501 and 7326 of this title\] may be cited as the ‘Hatch Act Modernization Act of 2012’.”
+
+Pub. L. 112–199, §1, Nov. 27, 2012, 126 Stat. 1465, provided that: “This Act \[enacting section 2304 of this title, amending sections 1204, 1212, 1214, 1215, 1221, 2302, and 7703 of this title, sections 3 and 8D of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to this title, and section 133 of Title 6, Domestic Security, renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title and enacting provisions set out as notes under sections 1204, 2302, and 2304 of this title, section 3 of the Inspector General Act of 1978, and section 1116 of Title 31, Money and Finance\] may be cited as the ‘Whistleblower Protection Enhancement Act of 2012’.”
+
+Pub. L. 112–166, §1, Aug. 10, 2012, 126 Stat. 1283, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Presidential Appointment Efficiency and Streamlining Act of 2011’.”
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–292, §1, Dec. 9, 2010, 124 Stat. 3165, provided that: “This Act \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\] may be cited as the ‘Telework Enhancement Act of 2010’.”
 
-Pub. L. 111–282, §1(a), Oct. 15, 2010, 124 Stat. 3033, provided that: “This Act \[enacting chapter 102 of this title, amending sections 5102, 5541, 6304, and 6324 of this title, enacting provisions set out as notes under sections 5102 and 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘United States Secret Service Uniformed Division Modernization Act of 2010’.”
+Pub. L. 111–282, §1(a), Oct. 15, 2010, 124 Stat. 3033, provided that: “This Act \[enacting chapter 102 of this title, amending sections 5102, 5541, 6304, and 6324 of this title,enacting provisions set out as notes under sections 5102 and 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘United States Secret Service Uniformed Division Modernization Act of 2010’.”
 
 Pub. L. 111–178, §1, June 9, 2010, 124 Stat. 1262, provided that: “This Act \[enacting section 5724d of this title and provisions set out as a note under section 5724d of this title\] may be cited as the ‘Special Agent Samuel Hicks Families of Fallen Heroes Act’.”
 
@@ -136,7 +144,7 @@ Pub. L. 110–175, §1, Dec. 31, 2007, 121 Stat. 2524, provided that: “This Ac
 
 Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: “This title \[enacting section 8909a of this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the ‘Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006’.”
 
-Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: “This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking,and section 57a of Title 15, Commerce and Trade\] may be cited as the ‘2005 District of Columbia Omnibus Authorization Act’.”
+Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: “This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking, and section 57a of Title 15, Commerce and Trade\] may be cited as the ‘2005 District of Columbia Omnibus Authorization Act’.”
 
 #### Short Title of 2004 Amendments
 
@@ -170,5 +178,5 @@ Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: “This Act 
 
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 
-Section 10(c) of Pub. L. 89–670, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construed to make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.
+Pub. L. 89–670, §10(c), Oct. 15, 1966, 80 Stat. 948, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construedto make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.
 

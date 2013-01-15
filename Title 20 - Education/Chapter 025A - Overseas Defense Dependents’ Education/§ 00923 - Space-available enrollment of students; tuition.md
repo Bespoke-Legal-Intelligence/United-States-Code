@@ -58,5 +58,5 @@ Subsec. (c). Pub. L. 108–136, §563(a), designated existing provisions as par.
 
 #### Effective Date of 1989 Amendment
 
-Section 325(c) of Pub. L. 101–189 provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
+Pub. L. 101–189, div. A, title III, §325(c), Nov. 29, 1989, 103 Stat. 1415, provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
 

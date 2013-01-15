@@ -24,7 +24,7 @@ Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 
 Amendment by Pub. L. 90–167 effective for any period subsequent to the first day of the first month following Nov. 29, 1967, see section 2 of Pub. L. 90–167, set out as a note under section 771 of this title.
 
-Section 1 of Pub. L. 90–163 provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
+Pub. L. 90–163, §1, Nov. 29, 1967, 81 Stat. 518, provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
 
 #### Effective Date of 1958 Amendment
 

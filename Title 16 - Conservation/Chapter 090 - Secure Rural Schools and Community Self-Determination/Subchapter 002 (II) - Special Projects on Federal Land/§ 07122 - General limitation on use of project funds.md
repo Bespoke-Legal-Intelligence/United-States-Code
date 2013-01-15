@@ -6,9 +6,13 @@ Project funds shall be expended solely on projects that meet the requirements of
 
 #### (b) Authorized uses
 
-Project funds may be used by the Secretary concerned for the purpose of entering into andimplementing cooperative agreements with willing Federal agencies, State and local governments, private and nonprofit entities, and landowners for protection, restoration, and enhancement of fish and wildlife habitat, and other resource objectives consistent with the purposes of this chapter on Federal land and on non-Federal land where projects would benefit the resources on Federal land.
+Project funds may be used by the Secretary concerned for the purpose of entering into and implementing cooperative agreements with willing Federal agencies, State and local governments, private and nonprofit entities, and landowners for protection, restoration, and enhancement of fish and wildlife habitat, and other resource objectives consistent with the purposes of this chapter on Federal land and on non-Federal land where projects would benefit the resources on Federal land.
 
-(Pub. L. 106–393, title II, §202, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901.)
+#### (c) Administrative expenses
+
+A resource advisory committee may, in accordance with section 7123 of this title, propose to use not more than 10 percent of the project funds of an eligible county for any fiscal year for administrative expenses associated with operating the resource advisory committee under this subchapter.
+
+(Pub. L. 106–393, title II, §202, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, §100101(a)(5), July 6, 2012, 126 Stat. 906.)
 
 #### References in Text
 
@@ -17,4 +21,8 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### Prior Provisions
 
 A prior section 202 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–141 added subsec. (c).
 

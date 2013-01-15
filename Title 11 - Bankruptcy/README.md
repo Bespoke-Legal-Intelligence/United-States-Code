@@ -1,6 +1,4 @@
 
-11 U.S.C.<br>United States Code, 2011 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 11—BANKRUPTCY
 
 <i>This title was enacted by Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549</i>

@@ -14,7 +14,7 @@ Program Priorities.—
 
 &emsp;(1)
 
-Program elements.—The program established under this section shall be based on the National Research Council Special Report 260, entitled “Strategic Highway Research: Saving Lives, Reducing Congestion, Improving Quality of Life” and the results of the detailed planning work subsequently carried out in 2002 and 2003 to identify the research areas through National Cooperative Research Program Project 20–58. The research program shall include an analysis of the following:
+Program elements.—The program established under this section shall be based on the National Research Council Special Report 260, entitled “Strategic Highway Research: Saving Lives, Reducing Congestion, Improving Quality of Life” and the results of the detailed planning work subsequently carried out in 2002 and 2003 to identify the research areas through National Cooperative Research ProgramProject 20–58. The research program shall include an analysis of the following:
 
 &emsp;&emsp;(A) Renewal of aging highway infrastructure with minimal impact to users of the facilities.
 
@@ -58,7 +58,7 @@ Components.—The report under paragraph (1) shall include with respect to the p
 
 &emsp;&emsp;(C) an estimate of costs of implementation of those results; and
 
-&emsp;&emsp;(D) recommendations on methods by which implementation of those results should beconducted, coordinated, and supported in future years, including a discussion of the administrative structure and organization best suited to carry out those recommendations.
+&emsp;&emsp;(D) recommendations on methods by which implementation of those results should be conducted, coordinated, and supported in future years, including a discussion of the administrative structure and organization best suited to carry out those recommendations.
 
 &emsp;(3)
 
@@ -104,7 +104,7 @@ Treatment.—Employees of the National Academy of Sciences and other individuals
 
 &emsp;(4)
 
-Sources of payments.—Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in paragraph (1) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this section, and then from sums made available under section 1304 of title 31. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28. The Secretary may establish a reserve of funds to carry out this section for making payments under this paragraph.
+Sources of payments.—Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in paragraph (1) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this section, and then from sums made available under section 1304of title 31. For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28. The Secretary may establish a reserve of funds to carry out this section for making payments under this paragraph.
 
 (h)
 

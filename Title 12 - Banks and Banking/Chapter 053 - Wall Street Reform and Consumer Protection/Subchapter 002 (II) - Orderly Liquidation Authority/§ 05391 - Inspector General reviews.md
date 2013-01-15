@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) a description of any material sales, transfers, mergers, obligations, purchases, and other material transactions entered into by the Corporation;
 
-&emsp;&emsp;(C) an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderly liquidation plan under section 5390(n)(14) <sup>1</sup> of this title;
+&emsp;&emsp;(C) an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderlyliquidation plan under section 5390(n)(14) <sup>1</sup> of this title;
 
 &emsp;&emsp;(D) an evaluation of the utilization by the Corporation of the private sector in carrying out its functions, including the adequacy of any conflict-of-interest reviews; and
 
@@ -68,7 +68,7 @@
 
 #### (1) Scope
 
-&emsp;Upon the appointment of the Corporation as receiver for a covered financial company supervised by a Federal primary financial regulatory agency or the Board of Governors under section 5365 of this title, the Inspector Generalof the agency or the Board of Governors shall make a written report reviewing the supervision by the agency or the Board of Governors of the covered financial company, which shall—
+&emsp;Upon the appointment of the Corporation as receiver for a covered financial company supervised by a Federal primary financial regulatory agency or the Board of Governors under section 5365 of this title, the Inspector General of the agency or the Board of Governors shall make a written report reviewing the supervision by the agency or the Board of Governors of the covered financial company, which shall—
 
 &emsp;&emsp;(A) evaluate the effectiveness of the agency or the Board of Governors in carrying out its supervisory responsibilities with respect to the covered financial company;
 

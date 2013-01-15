@@ -2,7 +2,7 @@
 
 #### (a) Applicable laws
 
-The Secretary, acting through the Director of the National Park Service, shall administer the battlefield park in accordance with sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary, acting through the Director of the National Park Service, shall administer the battlefield park in accordance with sections 423l–1 to 423l–6 of this title and laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (b) New Market Heights Battlefield
 
@@ -20,5 +20,5 @@ The Secretary may provide technical assistance to the Commonwealth of Virginia, 
 
 #### References in Text
 
-Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, referred to in subsec. (a), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and repealed sections 423j to 423<i>l</i> of this title. For complete classification of title V to the Code, see Tables.
+Sections 423l–1 to 423l–6 of this title, referred to in subsec. (a), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423l–1 to 423l–6 of this title and repealed sections 423j to 423l of this title. For complete classification of title V to the Code, see Tables.
 

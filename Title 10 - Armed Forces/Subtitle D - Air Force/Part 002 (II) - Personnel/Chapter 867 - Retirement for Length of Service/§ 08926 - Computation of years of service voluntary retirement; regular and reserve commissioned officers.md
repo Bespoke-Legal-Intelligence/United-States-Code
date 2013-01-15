@@ -1,6 +1,6 @@
 ### §8926. Computation of years of service: voluntary retirement; regular and reserve commissioned officers
 
-(a) For the purpose of determining whether an officer of the Air Force may be retired undersection 8911, 8918, or 8924 of this title, his years of service are computed by adding—
+(a) For the purpose of determining whether an officer of the Air Force may be retired under section 8911, 8918, or 8924 of this title, his years of service are computed by adding—
 
 &emsp;(1) all active service performed as a member of the Army or the Air Force; and
 

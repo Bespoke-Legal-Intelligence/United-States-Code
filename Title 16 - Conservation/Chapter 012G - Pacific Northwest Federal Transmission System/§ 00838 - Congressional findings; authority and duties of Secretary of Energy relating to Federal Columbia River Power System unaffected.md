@@ -12,11 +12,11 @@ Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 
 
 Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§1–3, June 14, 1966, 80 Stat. 200, as amended, which enacted sections 835j and 835k of this title and amended section 832h of this title.
 
-Public Law 89–561, referred to in subsec. (a), is Pub. L. 89–561, §§1–6, Sept. 7, 1966, 80 Stat. 707, which enacted sections 835<i>l</i> and 835m of this title and section 1962d–6 of Title 42, The Public Health and Welfare, and amended sections 835j and 835k of this title.
+Public Law 89–561, referred to in subsec. (a), is Pub. L. 89–561, §§1–6, Sept. 7, 1966, 80 Stat. 707, which enacted sections 835l and 835m of this title and section 1962d–6 of Title 42, The Public Health and Welfare, and amended sections 835j and 835k of this title.
 
 #### Short Title
 
-Section 1 of Pub. L. 93–454 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Federal Columbia River Transmission System Act’.”
+Pub. L. 93–454, §1, Oct. 18, 1974, 88 Stat. 1376, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Federal Columbia River Transmission System Act’.”
 
 #### Transfer of Functions
 

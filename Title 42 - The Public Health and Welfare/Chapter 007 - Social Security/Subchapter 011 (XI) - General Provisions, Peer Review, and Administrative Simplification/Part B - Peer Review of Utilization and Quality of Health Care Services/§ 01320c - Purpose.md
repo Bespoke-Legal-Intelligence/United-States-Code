@@ -18,7 +18,7 @@ Pub. L. 112–40, title II, §261(e), Oct. 21, 2011, 125 Stat. 426, provided tha
 
 #### Effective Date
 
-Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395<i>l</i>, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out as notes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395l, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out as notes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### IOM Study of QIOs
 
@@ -74,7 +74,7 @@ Pub. L. 97–448, title III, §309(d), Jan. 12, 1983, 96 Stat. 2410, provided th
 
 #### Maintenance of Current Professional Standards Review Organization Agreements
 
-Section 150 of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, §309(a)(9), Jan. 12, 1983, 96 Stat. 2408, provided that:
+Pub. L. 97–248, title I, §150, Sept. 3, 1982, 96 Stat. 395, as amended by Pub. L. 97–448, title III, §309(a)(9), Jan. 12, 1983, 96 Stat. 2408, provided that:
 
 “(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act \[this part\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
 

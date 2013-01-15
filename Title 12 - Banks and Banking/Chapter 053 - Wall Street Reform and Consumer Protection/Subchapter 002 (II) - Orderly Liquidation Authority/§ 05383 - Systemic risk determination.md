@@ -42,7 +42,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;(1) the financial company is in default or in danger of default;
 
-&emsp;(2) the failure of the financial company and its resolution under otherwise applicable Federal or State law would have serious adverse effects on financial stability in the United States;
+&emsp;(2) the failure of the financial company and its resolution under otherwise applicable Federal or State law would have serious adverseeffects on financial stability in the United States;
 
 &emsp;(3) no viable private sector alternative is available to prevent the default of the financial company;
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;&emsp;&emsp;(ii) describing the plan of, and actions taken by, the Corporation to wind down the covered financial company;
 
-&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector whowas retained to provide services to the Corporation in connection with such receivership;
+&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector who was retained to provide services to the Corporation in connection with such receivership;
 
 &emsp;&emsp;&emsp;(iv) describing the reasons for the provision of any funding to the receivership out of the Fund;
 
@@ -114,7 +114,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (C) Congressional testimony
 
-&emsp;&emsp;The Corporation and the primary financial regulatory agency, if any, of the financial company for which the Corporation was appointed receiver under this subchapter shall appear before Congress, if requested, not later than 30 days after the date on which the Corporation first files the reports required under subparagraph (A).
+&emsp;&emsp;The Corporation and the primary financial regulatory agency, if any, of the financialcompany for which the Corporation was appointed receiver under this subchapter shall appear before Congress, if requested, not later than 30 days after the date on which the Corporation first files the reports required under subparagraph (A).
 
 #### (4) Default or in danger of default
 

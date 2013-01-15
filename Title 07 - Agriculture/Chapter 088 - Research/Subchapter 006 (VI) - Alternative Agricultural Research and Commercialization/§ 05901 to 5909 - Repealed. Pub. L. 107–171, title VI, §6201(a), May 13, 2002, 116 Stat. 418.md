@@ -1,6 +1,6 @@
 ### §§5901 to 5909. Repealed. Pub. L. 107–171, title VI, §6201(a), May 13, 2002, 116 Stat. 418
 
-Section 5901, Pub. L. 101–624, title XVI, §1657, Nov. 28, 1990, 104 Stat. 3756; Pub. L. 104–127, title VII, §721, Apr. 4, 1996, 110 Stat. 1112, provided that this subchapter may be cited as the “Alternative Agricultural Research and Commercialization Act of 1990” and specified purpose of and definitions relating to this subchapter.
+Section 5901, Pub. L. 101–624, title XVI, §1657, Nov. 28, 1990, 104 Stat. 3756; Pub. L. 104–127, title VII, §721, Apr. 4, 1996, 110 Stat. 1112, provided that this subchaptermay be cited as the “Alternative Agricultural Research and Commercialization Act of 1990” and specified purpose of and definitions relating to this subchapter.
 
 Section 5902, Pub. L. 101–624, title XVI, §1658, Nov. 28, 1990, 104 Stat. 3757; Pub. L. 102–237, title IV, §405(a), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §722(a), Apr. 4, 1996, 110 Stat. 1113, created the Alternative Agricultural Research and Commercialization Corporation.
 

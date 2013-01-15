@@ -54,7 +54,7 @@ The Asbestos School Hazards Detection and Control Act, referred to in par. (8), 
 
 The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92–506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
 
-The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the CarlD. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior toamendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998, and again amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which renamed it the Carl D. Perkins Career and Technical Education Act of 2006. For additional details, see the Codification note preceding section 2301 of this title.
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -84,11 +84,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 97–35 provided that: “This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97–35\] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
+Pub. L. 97–35, title V, §501, Aug. 13, 1981, 95 Stat. 441, provided that: “This title \[see Tables for classification of sections 501 to 596 of Pub. L. 97–35\] may be cited as the ‘Omnibus Education Reconciliation Act of 1981’.”
 
 #### Applicability to Other Laws; General Restrictions
 
-Section 502 of subtitle A of title V of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title V, §502, Aug. 13, 1981, 95 Stat. 441, provided that:
 
 “(a) Any provision of law which is not consistent with the provisions of this subtitle \[see Tables for classification of sections 502 to 528 of Pub. L. 97–35\] is hereby superseded and shall have only such force and effect during each of the fiscal years 1982, 1983, and 1984 which is consistent with this subtitle.
 

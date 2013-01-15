@@ -14,7 +14,7 @@ Pub. L. 98–404, §1, Aug. 28, 1984, 98 Stat. 1481, provided in part: “That t
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–578 provided: “That this Act \[enacting this subchapter and amending section 1511 of this title\] shall be cited as the ‘Reclamation Safety of Dams Act of 1978’.”
+Pub. L. 95–578, §1, Nov. 2, 1978, 92 Stat. 2471, provided: “That this Act \[enacting this subchapter and amending section 1511 of this title\] shall be cited as the ‘Reclamation Safety of Dams Act of 1978’.”
 
 #### Facilities Included Within Scope of Reclamation Safety of Dams Act of 1978
 

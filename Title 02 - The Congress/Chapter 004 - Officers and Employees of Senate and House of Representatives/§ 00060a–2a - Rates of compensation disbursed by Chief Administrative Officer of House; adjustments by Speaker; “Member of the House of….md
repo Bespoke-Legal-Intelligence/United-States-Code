@@ -1,6 +1,6 @@
 ### §60a–2a. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
 
-(1) Notwithstanding any other provision of this Act, or any other provision of law, rule, or regulation, on and after December 22, 1987, each time the President pro tempore of the Senate exercises any authority pursuant to any of theamendments made by this section with respect to rates of pay or any other matter relating to personnel whose pay is disbursed by the Secretary of the Senate, or whenever any of the events described in paragraph (2) occurs, the Speaker of the House of Representatives may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Chief Administrative Officer of the House of Representatives to the extent necessary to ensure—
+(1) Notwithstanding any other provision of this Act, or any other provision of law, rule, or regulation, on and after December 22, 1987, each time the President pro tempore of the Senate exercises any authority pursuant to any of the amendments made by this section with respect to rates of pay or any other matter relating to personnel whose pay is disbursed by the Secretary of the Senate, or whenever any of the events described in paragraph (2) occurs, the Speaker of the House of Representatives may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Chief Administrative Officer of the House of Representatives to the extent necessary to ensure—
 
 &emsp;(A) appropriate pay levels and relationships between and among positions held by personnel of the House of Representatives; and
 
@@ -82,7 +82,7 @@ Sec. 2. (a) Subject to the maximums under subsection (b), the following Members,
 
 (b)(1) The maximum annual rate under subsection (a) is $172,500 for—
 
-&emsp;(A) any employee whose maximum annual rate of pay, but for the pay authority of the Speaker under section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), would be subject toa maximum equal to the rate payable for level III or IV of the Executive Schedule; and
+&emsp;(A) any employee whose maximum annual rate of pay, but for the pay authority of the Speaker under section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), would be subject to a maximum equal to the rate payable for level III or IV of the Executive Schedule; and
 
 &emsp;(B)(i) one employee of the Republican Conference and one employee of the Democratic Steering and Policy Committee, (ii) any employee in a position under 77 Stat. 817, (iii) 6 minority employees, (iv) the employee in the position in the Office of the Speaker created in 1967, (v) 3 employees in the Speaker's Office for Legislative Floor Activities, and (vi) 3 further minority employees.
 

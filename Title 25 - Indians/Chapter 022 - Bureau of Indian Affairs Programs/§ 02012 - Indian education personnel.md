@@ -348,7 +348,7 @@ An educator who voluntarily terminates employment with the Bureau before the exp
 
 #### (k) Dual compensation
 
-In the case of any educator employed in an education position described in subsection (<i>l</i>)(1)(A) <sup>4</sup> of this section who—
+In the case of any educator employed in an education position described in subsection (l)(1)(A) <sup>4</sup> of this section who—
 
 &emsp;(1) is employed at the close of a school year;
 
@@ -358,7 +358,7 @@ In the case of any educator employed in an education position described in subse
 
 > shall not apply to such educator by reason of any such employment during a recess period for any receipt of additional compensation.
 
-#### (<i>l</i>) Voluntary services
+#### (l) Voluntary services
 
 #### (1) In general
 
@@ -402,7 +402,7 @@ In the case of any educator employed in an education position described in subse
 
 #### (5) Definitions
 
-&emsp;For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (<i>o</i>) of this section.
+&emsp;For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (o) of this section.
 
 #### (n) Extracurricular activities
 
@@ -428,7 +428,7 @@ In the case of any educator employed in an education position described in subse
 
 &emsp;This subsection applies to all Bureau employees, regardless of whether the employee is employed under this section or title 5.
 
-#### (<i>o</i>) Definitions
+#### (o) Definitions
 
 In this section:
 
@@ -462,9 +462,9 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 #### (1) In general
 
-&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>5</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>6</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
+&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
-&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>7</sup> of this title; and
+&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
 
 &emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services at such Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
 
@@ -488,7 +488,7 @@ The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under sect
 
 The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
 
-Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (<i>o</i>) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
+Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
 
 #### Prior Provisions
 
@@ -518,9 +518,7 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 St
 
 <i><sup>4</sup></i><i> So in original. Subsec. (l)(1) of this section does not contain subpars.</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
 
-<i><sup>6</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be section “2010(b)”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be section “2010(b)”.</i>
 

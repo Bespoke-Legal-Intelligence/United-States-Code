@@ -14,7 +14,7 @@ Establishment and Contents.—The Secretary of Transportation shall establish as
 
 (b)
 
-Accuracy of Information.—The Secretary is not responsible for the accuracy of information relayed to the chief driver licensing official of a participating State. However, the Secretary shall maintain the Register in a way that ensures against inadvertent alteration of information during a relay.
+Accuracy of Information.—The Secretary is not responsible for the accuracy of information relayed to the chief driver licensing official of a participating State. However, the Secretary shall maintain the Register in a way that ensures against inadvertent alteration of information during a relay. The Secretary shall make continual improvements to modernize the Register's data processing system.
 
 (c)
 
@@ -46,7 +46,7 @@ Agreement.—The Secretary may enter into an agreement with an organization that
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all Statesare participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Fees.—The total of the fees charged by the organization representing the inter
 
 Limitation on statutory construction.—Nothing in this subsection may be construed to diminish, limit, or otherwise affect the authority of the Secretary to carry out this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 973; Pub. L. 105–178, title II, §2006(a), June 9, 1998, 112 Stat. 335.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 973; Pub. L. 105–178, title II, §2006(a), June 9, 1998, 112 Stat. 335; Pub. L. 112–141, div. C, title I, §31104, July 6, 2012, 126 Stat. 741.)
 
 Historical and Revision Notes
 
@@ -90,7 +90,13 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted at end “The Secretary shall make continual improvements to modernize the Register's data processing system.”
+
 <b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Register of Revocations of Motor Vehicle Operator's Licenses
 

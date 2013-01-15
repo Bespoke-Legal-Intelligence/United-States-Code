@@ -28,7 +28,7 @@ Act July 2, 1956, struck out provisions which authorized the Secretary to cooper
 
 #### Effective Date of 1984 Amendment
 
-Section 2(b) of Pub. L. 98–347 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1984.”
+Pub. L. 98–347, §2(b), July 9, 1984, 98 Stat. 322, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect October 1, 1984.”
 
 #### Effective Date of 1956 Amendment
 

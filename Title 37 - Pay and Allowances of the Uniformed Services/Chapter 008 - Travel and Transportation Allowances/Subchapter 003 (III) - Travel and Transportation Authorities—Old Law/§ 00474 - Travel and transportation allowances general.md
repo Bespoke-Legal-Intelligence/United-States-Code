@@ -8,9 +8,21 @@
 
 &emsp;(3) upon separation from the service, placement on the temporary disability retired list, release from active duty, or retirement, from his last duty station to his home or the place from which he was called or ordered to active duty, whether or not he is or will be a member of a uniformed service at the time the travel is or will be performed;
 
-&emsp;(4) when away from home to perform duty, including duty by a member of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, in his status as a member of the National Guard, for which he is entitled to, or has waived, pay under this title; and
+&emsp;(4) when away from home to perform duty, including duty by a member of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, in his status as a member of the National Guard, for which he is entitled to, or has waived, pay under this title;
 
-&emsp;(5) when not on active duty, if assigned to a Reserve school, and attending a reserve training meeting for the purpose of performing duties as an instructor at such meeting, if such meeting is 100 or more miles from the site at which the member would attend paid drills of the Reserve school to which he is assigned.
+&emsp;(5) when not on active duty, if assigned to a Reserve school, and attending a reserve training meeting for the purpose of performing duties as an instructor at such meeting, if suchmeeting is 100 or more miles from the site at which the member would attend paid drills of the Reserve school to which he is assigned; and
+
+&emsp;(6) upon filling a vacancy in a Selected Reserve unit at a duty station that is more than 150 miles from the member's residence if—
+
+&emsp;&emsp;(A) during the preceding three years the member was involuntarily separated under other than adverse conditions (as characterized by the Secretary concerned) while assigned to a unit of the Selected Reserve certified by the Secretary concerned as having been adversely affected by force structure reductions during the period beginning on October 1, 2012, and ending on December 31, 2018;
+
+&emsp;&emsp;(B) the involuntary separation occurred during the period beginning on October 1, 2012, and ending on December 31, 2018; and
+
+&emsp;&emsp;(C) the member is—
+
+&emsp;&emsp;&emsp;(i) qualified in a skill designated as critically short by the Secretary concerned; or
+
+&emsp;&emsp;&emsp;(ii) filling a vacancy in a Selected Reserve unit with a critical manpower shortage, or in a pay grade with a critical manpower shortage in such unit.
 
 (b)(1) The Secretaries concerned may prescribe—
 
@@ -60,9 +72,9 @@
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
-(5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described in paragraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
+(5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described inparagraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
 
-(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which hewould be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
+(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
 (f)(1) The travel and transportation allowances authorized under this section for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed.
 
@@ -94,6 +106,10 @@
 
 &emsp;(C) is not actually traveling between stations pursuant to orders directing a change of station.
 
+(4)(A) A member may be provided travel and transportation allowances under subsection (a)(6) only with respect to the filling of a vacancy in a Selected Reserve unit one time.
+
+(B) Regulations under this section shall provide that whenever travel and transportation allowances are paid under subsection (a)(6), the cost shall be borne by the unit filling the vacancy.
+
 (g)(1) Subject to paragraph (2), a member of the armed forces accompanying a Member of Congress or a congressional employee on official travel may be authorized reimbursement for actual travel and transportation expenses incurred for such travel.
 
 (2) The reimbursement authorized in paragraph (1) may be paid—
@@ -118,11 +134,11 @@
 
 (4) Decisions regarding the availability or adequacy of government housing at a military installation under paragraph (1) shall be made by the installation commander.
 
-(j) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
+(j) In this section (except subsection (a)(6)), the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
 (k) No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct.19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, §621(a), Jan. 2, 2013, 126 Stat. 1778.)
 
 Historical and Revision Notes
 
@@ -194,6 +210,12 @@ Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(6). Pub. L. 112–239, §621(a)(1), added par. (6).
+
+Subsec. (f)(4). Pub. L. 112–239, §621(a)(2), added par. (4).
+
+Subsec. (j). Pub. L. 112–239, §621(a)(3), inserted “(except subsection (a)(6))” after “In this section”.
+
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 404 of this title as this section.
 
 Subsec. (k). Pub. L. 112–81, §631(e)(1), added subsec. (k).
@@ -224,7 +246,7 @@ Subsecs. (j), (k). Pub. L. 103–337, §622, added subsec. (j) and redesignated 
 
 <b>1993</b>—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-<b>1992</b>—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and“the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and “the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
 
 <b>1991</b>—Pub. L. 102–25 struck out “of this section”, “of this subsection”, and “of this paragraph” wherever appearing in subsecs. (a) to (d) and (f).
 
@@ -274,7 +296,7 @@ Subsec. (c). Pub. L. 97–60, §121(a)(3), designated existing provisions as par
 
 Subsec. (f). Pub. L. 97–60, §121(a)(4), designated existing provisions as par. (1), substituted “for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed” for “may be paid on the member's separation from the service or release from active duty, whether or not he performs the travel involved” in par. (1) as so designated, and added par. (2).
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) “per mile prescribed by the Secretaries concerned and” for “that is not more than 7 cents a mile”, and in par. (3) “at a rate per mile prescribed by the Secretaries concerned and” for “of not more than 10 cents a mile”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) “per mile prescribed by the Secretaries concerned and” for “that is not more than 7 cents a mile”,and in par. (3) “at a rate per mile prescribed by the Secretaries concerned and” for “of not more than 10 cents a mile”.
 
 Pub. L. 96–342 substituted in par. (2) “$50” for “$35” and in provision following par. (3) “$75” for “$50”.
 
@@ -296,31 +318,31 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 602(g) of Pub.
 
 #### Effective Date of 1989 Amendment
 
-Section 621(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Pub. L. 101–189, div. A, title VI, §621(b), Nov. 29, 1989, 103 Stat. 1446, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–180 applicable with respect to travel performed after Dec. 4, 1987, see section 617(c) of Pub. L. 100–180, set out as an Effective Date note under section 1591 of Title 10, Armed Forces.
 
-#### Effective Date of 1986 Amendments
+#### Effective Date of 1986 Amendment
 
-Section 612(b)(1) of Pub. L. 100–180 provided that: “The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended this section\] shall be implemented by the Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation.”
+Pub. L. 100–180, div. A, title VI, §612(b)(1), Dec. 4, 1987, 101 Stat. 1093, provided that: “The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended this section\] shall be implemented by the Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation.”
 
-Section 614(b) of Pub. L. 99–661, which provided that amendments made by section 614(a) of Pub. L. 99–661 shall become effective on such date as the President makes a certification regarding savings to the United States by such amendments, was repealed by Pub. L. 100–180, div. A, title VI, §612(a), Dec. 4, 1987, 101 Stat. 1093.
+Pub. L. 99–661, div. A, title VI, §614(b), Nov. 14, 1986, 100 Stat. 3879, which provided that amendments made by section 614(a) of Pub. L. 99–661 shall become effective on such date as the President makes a certification regarding savings to the United States by such amendments, was repealed by Pub. L. 100–180, div. A, title VI, §612(a), Dec. 4, 1987, 101 Stat. 1093.
 
 #### Effective Date of 1985 Amendment
 
-Section 612(c) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 406 of this title\] shall apply to travel performed after September 30, 1985.”
+Pub. L. 99–145, title VI, §612(c), Nov. 8, 1985, 99 Stat. 640, provided that: “The amendments made by this section \[amending this section and section 406 of this title\] shall apply to travel performed after September 30, 1985.”
 
 #### Effective Date of 1984 Amendment
 
-Section 613(b) of Pub. L. 98–525 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel performed after September 30, 1984.”
+Pub. L. 98–525, title VI, §613(b), Oct. 19, 1984, 98 Stat. 2540, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel performed after September 30, 1984.”
 
 Amendment by section 1402(c) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that:
+Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 “(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are separated from the service or released from active duty on or after November 1, 1981.
 
@@ -332,17 +354,15 @@ Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by 
 
 “(5) The amendment made by subsection (b)(2)(C) \[amending section 406 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 14, 1981\].”
 
-\[Amendment by Pub. L. 112–81 to section 121(d) of Pub. L. 97–60, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+#### Effective Date of 1980 Amendment
 
-#### Effective Date of 1980 Amendments
+Pub. L. 96–343, §5(c), Sept. 8, 1980, 94 Stat. 1126, provided that: “The amendments made by this section \[amending this section and section 411 of this title\] shall be effective with respect to travel and transportation performed after August 31, 1980.”
 
-Section 5(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and section 411 of this title\] shall be effective with respect to travel and transportation performed after August 31, 1980.”
-
-Section 807(b) of Pub. L. 96–342 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply to travel and transportation expenses incurred after September 30, 1980.”
+Pub. L. 96–342, title VIII, §807(b), Sept. 8, 1980, 94 Stat. 1096, provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply to travel and transportation expenses incurred after September 30, 1980.”
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–296 provided that: “The amendments made by this Act \[amending this section\] become effective on the first day of the first calendar month following the date of enactment \[May 29, 1976\].”
+Pub. L. 94–296, §2, May 29, 1976, 90 Stat. 584, provided that: “The amendments made by this Act \[amending this section\] become effective on the first day of the first calendar month following the date of enactment \[May 29, 1976\].”
 
 #### Effective Date of 1967 Amendment
 
@@ -350,9 +370,7 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 
 #### Termination of Amendments by Public Laws 99–500 and 99–591
 
-Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to ‘this section’ in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act.”
-
-\[Amendment by Pub. L. 112–81 to section 8(a) of Pub. L. 100–26, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L.112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to ‘this section’ in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act.”
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 
@@ -360,9 +378,7 @@ Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enact
 
 #### Increase in Rate Per Mile for Mileage Allowance
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 Stat. 1904, 1944, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465, provided that: “The Secretaries concerned (as defined in section 101(5) of title 37, United States Code), under uniform regulations prescribed by them and to the extent that funds are available within the permanent change of station travel account, may increase the rate per mile for mileage allowance under section 474(d)(2) of title 37, United States Code, to 15 cents per mile.”
-
-\[Amendment by Pub. L. 112–81 to section 101(h) \[title VIII, §8113\] of Pub. L. 98–473, set out above, was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.\]
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 Stat. 1904, 1944, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The Secretaries concerned (as defined in section 101(5) of title 37, United States Code), under uniform regulations prescribed by them and to the extent that funds are available within the permanent change of station travel account, may increase the rate per mile for mileage allowance under section 474(d)(2) of title 37, United States Code, to 15 cents per mile.”
 
 #### 1962
 

@@ -28,7 +28,7 @@
 
 &emsp;(3) the position is at the same grade or equivalent level as the position from which the individual was separated.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570, §8457; amended Pub. L. 99–556, title I, §118, Oct. 27, 1986, 100 Stat. 3134; renumbered §8456, Pub. L. 100–238, title I, §124(b)(1)(B), Jan. 8, 1988, 101 Stat. 1756; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570, §8457; amended Pub. L. 99–556, title I, §118, Oct. 27, 1986, 100 Stat. 3134; renumbered §8456, Pub. L. 100–238, title I, §124(b)(1)(B),Jan. 8, 1988, 101 Stat. 1756; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019.)
 
 #### Prior Provisions
 

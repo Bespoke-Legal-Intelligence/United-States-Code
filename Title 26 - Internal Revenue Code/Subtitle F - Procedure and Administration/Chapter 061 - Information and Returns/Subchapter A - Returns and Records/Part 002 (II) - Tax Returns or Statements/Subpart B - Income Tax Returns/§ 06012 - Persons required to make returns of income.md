@@ -14,7 +14,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;&emsp;(iv) who is entitled to make a joint return and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the basic standard deduction applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
 
-> &emsp;Clause (iv) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(c).
+> &emsp;Clause (iv) shall not apply if for the taxable year such spouse makes a separate return orany other taxpayer is entitled to an exemption for such spouse under section 151(c).
 
 &emsp;(B) The amount specified in clause (i), (ii), or (iii) of subparagraph (A) shall be increased by the amount of 1 additional standard deduction (within the meaning of section 63(c)(3)) in the case of an individual entitled to such deduction by reason of section 63(f)(1)(A) (relating to individuals age 65 or more), and the amount specified in clause (iv) of subparagraph (A) shall be increased by the amount of the additional standard deduction for each additional standard deduction to which the individual or his spouse is entitled by reason of section 63(f)(1).
 
@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the returnis, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -212,7 +212,7 @@ Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: “The am
 
 Amendment by section 312(d)(11) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec.31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
+Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -220,9 +220,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Section 1525(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XV, §1525(b), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 #### Effective Date of 1971 Amendment
 
-Section 204(a) of Pub. L. 92–178 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1971.
+Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section 204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
 
 #### Effective Date of 1969 Amendment
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 #### Effective Date of 1958 Amendment
 
-Section 72(c) of Pub. L. 85–866 provided that: “The amendments \[amending this section and section 911 of this title\] made by this section shall apply to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §72(c), Sept. 2, 1958, 72 Stat. 1660, provided that: “The amendments \[amending this section and section 911 of this title\] made by this section shall apply to taxable years beginning after December 31, 1957.”
 
 #### Return-Free Tax System
 
@@ -316,7 +316,7 @@ Pub. L. 97–424, title V, §542, Jan. 6, 1983, 96 Stat. 2195, as amended by Pub
 
 “(a)
 
-In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such code by an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
+In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such codeby an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
 
 “(b)
 
@@ -324,7 +324,7 @@ Effective Date.—Subsection (a) shall apply to taxable years beginning after De
 
 #### Exemption From Filing Requirement for Prior Years Where Income of Political Party was $100 or Less
 
-Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
+Pub. L. 93–625, §10(f), Jan. 3, 1975, 88 Stat. 2119, provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

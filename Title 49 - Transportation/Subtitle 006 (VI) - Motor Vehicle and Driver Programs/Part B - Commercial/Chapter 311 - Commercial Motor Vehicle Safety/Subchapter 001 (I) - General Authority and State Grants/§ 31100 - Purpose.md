@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
 
-&emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and privatetransportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
+&emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and private transportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
 
 &emsp;(2) increasing administrative flexibility and developing and enforcing effective, compatible, and cost-beneficial motor carrier, commercial motor vehicle, and driver safety regulations and practices, including improving enforcement of State and local traffic safety laws and regulations;
 
@@ -13,6 +13,10 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 &emsp;(5) advancing promising technologies and encouraging adoption of safe operational practices.
 
 (Added Pub. L. 105–178, title IV, §4002(a), June 9, 1998, 112 Stat. 395.)
+
+#### Administration of Grant Programs
+
+Pub. L. 112–141, div. C, title II, §32603(i), July 6, 2012, 126 Stat. 808, provided that: “The Secretary \[of Transportation\] is authorized to identify and implement processes to reduce the administrative burden on the States and the Department of Transportation concerning the application and management of the grant programs authorized under chapter 311 and chapter 313 of title 49, United States Code.”
 
 #### Trucking Security
 
@@ -40,7 +44,7 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349, provided that:
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983, provided that:
 
 “(a)
 
@@ -66,7 +70,7 @@ Annual Report.—The Secretary shall prepare and transmit to Congress an annual 
 
 “(e)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 to the Federal Motor Carrier Safety Administration, and $3,000,000 to the National Highway Traffic Safety Administration, for each of fiscal years 2006, 2007, 2008, 2009, 2010, and 2011 (and $500,000 to the Federal Motor Carrier Safety Administration, and $1,500,000 to the National Highway Traffic Safety Administration, for the period beginning on October 1, 2011, and ending on March 31, 2012) to carry out this section (other than subsection (f)).
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 to carry out this section (other than subsection (f)).
 
 “(f)
 
@@ -78,7 +82,7 @@ Pub. L. 109–59, title IV, §4128, Aug. 10, 2005, 119 Stat. 1742, provided that
 
 “(a)
 
-In General.—The Secretary \[of Transportion\] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary.
+In General.—The Secretary \[of Transportation\] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary.
 
 “(b)
 
@@ -104,7 +108,7 @@ Pub. L. 109–59, title IV, §4139(a), Aug. 10, 2005, 119 Stat. 1745, provided t
 
 “(1)
 
-Training and outreach.—Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Federal Motor Carrier Safety Administration shall conduct outreach and provide training as necessary to State personnel engaged in the enforcement of Federal motor carrier safety regulations to ensure their awareness of the process to be used for verification of the operating authority of motor carriers, including motor carriers of passengers, and to ensure proper enforcement when motor carriers are found to be in violation of operating authority requirements.
+Training and outreach.—Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Federal Motor Carrier Safety Administration shall conduct outreach and provide training as necessary to State personnel engaged in the enforcement of Federal motor carrier safety regulations to ensure their awareness of the process to be used for verification of the operating authority ofmotor carriers, including motor carriers of passengers, and to ensure proper enforcement when motor carriers are found to be in violation of operating authority requirements.
 
 “(2)
 
@@ -112,7 +116,7 @@ Assessment.—The Inspector General of the Department of Transportation may peri
 
 #### Motor Carrier Safety Advisory Committee
 
-Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349, provided that:
+Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32912, July 6, 2012, 126 Stat. 818, provided that:
 
 “(a)
 
@@ -144,7 +148,7 @@ Support Staff, Information, and Services.—The Administrator shall provide supp
 
 “(d)
 
-Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on March 31, 2012.”
+Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2013.”
 
 #### Motor Carrier Safety Strategy
 
@@ -316,45 +320,5 @@ Funding.—Of the amounts made available for each of fiscal years 2001, 2002, an
 
 #### Data Collection and Analysis
 
-Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, provided that:
-
-“(a)
-
-In General.—In cooperation with the States, the Secretary shall carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles.
-
-“(b)
-
-Program Administration.—The Secretary shall administer the program through the National Highway Traffic Safety Administration in cooperation with the Federal Motor Carrier Safety Administration. The National Highway Traffic Safety Administration shall—
-
-&emsp;“(1) enter into agreements with the States to collect data and report the data by electronic means to a central data repository; and
-
-&emsp;“(2) train State employees and motor carrier safety enforcement officials to assure the quality and uniformity of the data.
-
-“(c)
-
-Use of Data.—The National Highway Traffic Safety Administration shall—
-
-&emsp;“(1) integrate the data, including driver citation and conviction information; and
-
-&emsp;“(2) make the data base available electronically to the Federal Motor Carrier Safety Administration, the States, motor carriers, and other interested parties for problem identification, program evaluation, planning, and other safety-related activities.
-
-“(d)
-
-Report.—Not later than 3 years after the date on which the improved data program begins, the Secretary shall transmit a report to Congress on the program, together with any recommendations the Secretary finds appropriate.
-
-“(e)
-
-Funding.—Of the amounts deducted under section 104(a)(1)(B) of title 23, United States Code, for each of fiscal years 2001, 2002, and 2003 $5,000,000 per fiscal year shall be available only to carry out this section.
-
-“(f)
-
-Additional Funding for Information Systems.—
-
-&emsp;“(1)
-
-In general.—Of the amounts made available for each of fiscal years 2001, 2002, and 2003 under section 4003(i) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, 49 U.S.C. 31104 note\] (112 Stat. 395–398), as added by section 103(b)(1) of this Act, $5,000,000 per fiscal year shall be available only to carry out section 31106 of title 49, United States Code.
-
-&emsp;“(2)
-
-Amounts as additional.—The amounts made available by paragraph (1) shall be in addition to amounts made available under section 31107 of title 49, United States Code.”
+Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, directed the Secretary, in cooperation with the States, to carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles and to transmit a report on the program and authorized appropriations for fiscal years 2001, 2002, and 2003.
 

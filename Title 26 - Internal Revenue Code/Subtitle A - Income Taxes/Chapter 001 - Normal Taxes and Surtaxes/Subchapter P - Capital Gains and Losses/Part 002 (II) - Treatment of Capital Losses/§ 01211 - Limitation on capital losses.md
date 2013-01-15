@@ -6,7 +6,7 @@ In the case of a corporation, losses from sales or exchanges of capital assets s
 
 #### (b) Other taxpayers
 
-In the case of a taxpayer other than a corporation, losses from sales or exchanges of capital assets shall be allowed only to the extent of the gains from such sales or exchanges, plus (if such losses exceed such gains) the lower of—
+In the case of a taxpayer other than a corporation, losses from sales or exchanges of capital assets shall be allowed only to the extent of thegains from such sales or exchanges, plus (if such losses exceed such gains) the lower of—
 
 &emsp;(1) $3,000 ($1,500 in the case of a married individual filing a separate return), or
 
@@ -26,7 +26,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1401(b), substituted provision relating to �
 
 Subsec. (b)(3). Pub. L. 94–455, §501(b)(6), struck out last sentence “If the taxpayer elects to pay the optional tax imposed by section 3, ‘taxable income’ as used in this subsection shall read as ‘adjusted gross income’.”
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to beoffset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to be offset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
 
 #### Effective Date of 1986 Amendment
 
@@ -40,9 +40,9 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 Amendment by section 501(b)(6) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as a note under section 3 of this title.
 
-Section 1401(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XIV, §1401(c), Oct. 4, 1976, 90 Stat. 1731, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Effective Date of 1969 Amendment
 
-Section 513(d) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 1212 and 1222 of this title\] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title V, §513(d), Dec. 30, 1969, 83 Stat. 643, provided that: “The amendments made by this section \[amending this section and sections 1212 and 1222 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 

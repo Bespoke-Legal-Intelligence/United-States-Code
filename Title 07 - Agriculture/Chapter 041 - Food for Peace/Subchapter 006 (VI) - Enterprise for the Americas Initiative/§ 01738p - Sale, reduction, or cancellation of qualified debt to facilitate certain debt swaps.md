@@ -30,15 +30,15 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (2) Right of first refusal
 
-&emsp;The qualified debt of an eligible country may be sold, reduced, or cancelled pursuant to this section only if that country has been offered the opportunity to purchase that debt pursuant to section 1738<i>o</i> of this title and has not accepted that offer.
+&emsp;The qualified debt of an eligible country may be sold, reduced, or cancelled pursuant to this section only if that country has been offered the opportunity to purchase that debt pursuant to section 1738o of this title and has not accepted that offer.
 
 #### (e) Limitation
 
-In the aggregate, not more than 40 percent of the qualified debt of an eligible country may be sold, reduced, or cancelled under this section or sold under section 1738<i>o</i> of this title.
+In the aggregate, not more than 40 percent of the qualified debt of an eligible country may be sold, reduced, or cancelled under this section or sold under section 1738o of this title.
 
 #### (f) Administration
 
-The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
+The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible undersubsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
 
 #### (g) Appropriations requirement
 

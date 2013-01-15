@@ -38,7 +38,7 @@ The President is not required to provide import relief under this section if the
 
 &emsp;&emsp;If the initial period for any import relief provided under this section is less than 4 years, the President, after receiving a determination from the Commission under subparagraph (B) that is affirmative, or which the President considers to be affirmative under paragraph (1) of section 1330(d) of this title, may extend the effective period of any import relief provided under this section, subject to the limitation under paragraph (1), if the President determines that—
 
-&emsp;&emsp;&emsp;(i) the import relief continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition; and
+&emsp;&emsp;&emsp;(i) the import relief continues to be necessary to remedy or prevent serious injuryand to facilitate adjustment by the domestic industry to import competition; and
 
 &emsp;&emsp;&emsp;(ii) there is evidence that the industry is making a positive adjustment to import competition.
 

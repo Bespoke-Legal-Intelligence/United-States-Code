@@ -116,9 +116,9 @@ Pub. L. 107–147, title IV, §404(d), Mar. 9, 2002, 116 Stat. 42, provided that
 
 #### Effective Date of 1986 Amendment
 
-Section 1707(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title XVII, §1707(b), Oct. 22, 1986, 100 Stat. 2782, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
 
 #### Effective Date
 
-Section 102(c) of Pub. L. 97–473 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 97–473, title I, §102(c), Jan. 14, 1983, 96 Stat. 2607, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
 

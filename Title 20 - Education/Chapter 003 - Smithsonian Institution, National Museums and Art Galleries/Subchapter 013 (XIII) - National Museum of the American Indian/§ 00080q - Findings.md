@@ -40,5 +40,5 @@ Pub. L. 104–278, §1(a), Oct. 9, 1996, 110 Stat. 3355, provided that: “This 
 
 #### Short Title
 
-Section 1 of Pub. L. 101–185 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Museum of the American Indian Act’.”
+Pub. L. 101–185, §1, Nov. 28, 1989, 103 Stat. 1336, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Museum of the American Indian Act’.”
 

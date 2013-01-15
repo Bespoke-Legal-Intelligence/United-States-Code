@@ -16,7 +16,7 @@
 
 (2) The Secretary may prescribe different and individual performance standards, to the extent appropriate and feasible, for different electronic products so as to recognize their different operating characteristics and uses.
 
-(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) such product meets all the applicable requirements of the country to which such product is intended for export.
+(3) The performance standards prescribed under this section shall not apply to any electronic product which is intended solely for export if (A) such product and the outside of any shipping container used in the export of such product are labeled or tagged to show that such product is intended for export, and (B) suchproduct meets all the applicable requirements of the country to which such product is intended for export.
 
 (4) The Secretary may by regulation amend or revoke any performance standard prescribed under this section.
 

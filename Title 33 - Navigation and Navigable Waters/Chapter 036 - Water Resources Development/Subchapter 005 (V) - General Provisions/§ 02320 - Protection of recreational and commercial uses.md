@@ -20,7 +20,7 @@ Whenever the Secretary maintains, repairs, rehabilitates, or reconstructs a wate
 
 #### (3) Termination date
 
-&emsp;This subsection shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretarymay complete any restoration commenced under this subsection on or before such last day.
+&emsp;This subsection shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any restoration commenced under this subsection on or before such last day.
 
 #### (d) Applicability
 

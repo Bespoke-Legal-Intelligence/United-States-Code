@@ -136,7 +136,7 @@ Sec. 202. In carrying out its responsibilities under chapter 41 of Title 5, Unit
 
 #### Part III—Agency Responsibilities and Operations
 
-Sec. 301. The head of each agency shall plan, program, budget, operate, and evaluate training programs in accordance with chapter 41 of Title 5, United States Code, and with the policy set forth in section 102 of this order.
+Sec. 301. The head of each agency shall plan, program, budget, operate, and evaluate training programsin accordance with chapter 41 of Title 5, United States Code, and with the policy set forth in section 102 of this order.
 
 Sec. 302. The head of each agency shall:
 
@@ -154,7 +154,7 @@ Sec. 302. The head of each agency shall:
 
 Sec. 303. In carrying out his responsibilities, the head of each agency shall, consonant with chapter 41 of Title 5, United States Code, this order, and regulations of the Office of Personnel Management:
 
-(a) Review periodically, but not less often than annually, the agency's program to identify training neededto bring about more effective performance at the least possible cost;
+(a) Review periodically, but not less often than annually, the agency's program to identify training needed to bring about more effective performance at the least possible cost;
 
 (b) Conduct periodic reviews of individual employee's training needs as related to program objectives;
 
@@ -232,7 +232,7 @@ Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 1318
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
-To help us meet these goals, I am creating a task force on Federal training technology, directing Federalagencies to take certain steps to enhance employees’ training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
+To help us meet these goals, I am creating a task force on Federal training technology, directing Federal agencies to take certain steps to enhance employees’ training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, “Providing for the Further Training of Government Employees,” \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 

@@ -6,7 +6,7 @@ As soon as practicable after seizure of property, notice in writing shall be giv
 
 #### (b) Notice of sale
 
-The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearestthe place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
+The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
 
 #### (c) Sale of indivisible property
 
@@ -62,7 +62,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (3) Payment of amount bid
 
-&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
+&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such partthereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
 
 #### (4) Cross reference
 
@@ -70,7 +70,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (f) Right to request sale of seized property within 60 days
 
-The owner of any property seized by levy may request that the Secretary sell such property within 60 days after such request (or within such longer period as may be specified by the owner).The Secretary shall comply with such request unless the Secretary determines (and notifies the owner within such period) that such compliance would not be in the best interests of the United States.
+The owner of any property seized by levy may request that the Secretary sell such property within 60 days after such request (or within such longer period as may be specified by the owner). The Secretary shall comply with such request unless the Secretary determines (and notifies the owner within such period) that such compliance would not be in the best interests of the United States.
 
 #### (g) Stay of sale of seized property pending Tax Court decision
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1
 
 #### Effective Date of 1986 Amendment
 
-Section 1570(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to—
+Pub. L. 99–514, title XV, §1570(b), Oct. 22, 1986, 100 Stat. 2765, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to—
 
 &emsp;“(1) property seized after the date of the enactment of this Act \[Oct. 22, 1986\], and
 

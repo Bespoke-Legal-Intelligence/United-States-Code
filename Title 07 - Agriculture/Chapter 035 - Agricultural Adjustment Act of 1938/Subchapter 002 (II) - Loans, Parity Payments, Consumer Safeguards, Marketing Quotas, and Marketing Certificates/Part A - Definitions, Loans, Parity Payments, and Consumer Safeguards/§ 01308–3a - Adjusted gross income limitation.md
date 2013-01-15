@@ -140,7 +140,7 @@
 
 #### (2) Denial of program benefits
 
-&emsp;If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in paragraphs (1)(C) and (2)(B) of subsection (b) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title.
+&emsp;If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in paragraphs (1)(C) and (2)(B) of subsection (b) to the person or legal entity, under similar termsand conditions as described in section 1308–2 of this title.
 
 #### (3) Audit
 
@@ -170,7 +170,7 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (b)(
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 

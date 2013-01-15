@@ -4,7 +4,7 @@ Sections, acts Feb. 23, 1887, ch. 210, 24 Stat. 409; June 25, 1948, ch. 646, §�
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a)of Pub. L. 91–513, set out as an Effective Date note under section 951 of this title.
+Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of this title.
 
 #### Savings Provision
 

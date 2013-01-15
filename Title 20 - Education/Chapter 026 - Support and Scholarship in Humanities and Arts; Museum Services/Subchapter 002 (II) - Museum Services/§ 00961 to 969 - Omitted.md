@@ -20,7 +20,7 @@ Section 963a, Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 949, which dire
 
 Section 964, Pub. L. 94–462, title II, §205, Oct. 8, 1976, 90 Stat. 1976; Pub. L. 96–496, title II, §201(c), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 98–306, §10, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, §202, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §202(a)(1), (b)\], Nov. 5, 1990, 104 Stat. 1960, 1974, 1975, related to appointment, compensation, and functions of Director of Institute. See section 9103 of this title.
 
-Section 965, Pub. L. 94–462, title II, §206, Oct. 8, 1976, 90 Stat. 1977; Pub. L. 96–496, title II, §201(d), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 101–512, title III, §318 \[title II, §203\], Nov. 5, 1990, 104 Stat. 1960, 1975, authorized Director, subject to policy direction of Board, to make grants to museums to increase and improve services through specified activities. See section 9173 of this title.
+Section 965, Pub. L. 94–462, title II, §206, Oct. 8, 1976, 90 Stat. 1977; Pub. L. 96–496, title II, §201(d), Dec. 4, 1980, 94 Stat. 2592; Pub. L. 101–512, title III, §318 \[title II, §203\], Nov. 5, 1990, 104 Stat. 1960, 1975, authorized Director, subject to policy direction of Board, to make grants to museums to increase and improve servicesthrough specified activities. See section 9173 of this title.
 
 Section 966, Pub. L. 94–462, title II, §207, Oct. 8, 1976, 90 Stat. 1977, related to authority of Institute to accept contributions. See section 9106 of this title.
 
@@ -32,5 +32,5 @@ Section 969, Pub. L. 94–462, title II, §211, as added Pub. L. 101–512, titl
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 94–462, which provided that title II of Pub. L. 94–462, which enacted this subchapter and amended section 958 of this title, could be cited as the “Museum Services Act”, was omitted in the general amendment of title II by Pub. L. 104–208. See chapter 72 (§9101 et seq.) of this title.
+Pub. L. 94–462, title II, §201, Oct. 8, 1976, 90 Stat. 1975, which provided that title II of Pub. L. 94–462, which enacted this subchapter and amended section 958 of this title, could be cited as the “Museum Services Act”, was omitted in the general amendment of title II by Pub. L. 104–208. See chapter 72 (§9101 et seq.) of this title.
 

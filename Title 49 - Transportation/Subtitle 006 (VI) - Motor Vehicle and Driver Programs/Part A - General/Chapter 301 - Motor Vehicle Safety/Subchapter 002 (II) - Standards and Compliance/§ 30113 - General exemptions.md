@@ -26,7 +26,7 @@ Authority To Exempt and Procedures.—(1) The Secretary of Transportation may ex
 
 Contents of Applications.—A manufacturer applying for an exemption under subsection (b) of this section shall include the following information in the application:
 
-&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
+&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to complywith each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
 
 &emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record of the research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
 

@@ -38,7 +38,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (vii) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall notterminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 #### (viii) Special rule for disability
 
@@ -56,7 +56,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 &emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
 
-&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\]), or
+&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of thePublic Health Service Act \[42 U.S.C. 300gg et seq.\]), or
 
 &emsp;&emsp;&emsp;(ii) in the case of a qualified beneficiary other than a qualified beneficiary described in section 1167(3)(C) of this title, entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment
 
-Section 6703(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
+Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: “The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
 
 Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

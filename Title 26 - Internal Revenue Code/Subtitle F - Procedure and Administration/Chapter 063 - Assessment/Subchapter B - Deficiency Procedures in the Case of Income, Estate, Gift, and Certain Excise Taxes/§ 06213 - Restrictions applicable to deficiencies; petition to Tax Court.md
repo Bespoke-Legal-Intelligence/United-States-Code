@@ -42,7 +42,7 @@ If the taxpayer does not file a petition with the Tax Court within the time pres
 
 #### (d) Waiver of restrictions
 
-The taxpayer shall at any time (whether or not a notice of deficiency has been issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the assessment and collection of the whole or any part of the deficiency.
+The taxpayer shall at any time (whether or not a notice of deficiency has been issued) havethe right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the assessment and collection of the whole or any part of the deficiency.
 
 #### (e) Suspension of filing period for certain excise taxes
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the Secretary obtains information from the person issuing the TIN of the taxpayer that indicates that the taxpayer does not meet the age requirement of section 36(b)(4),
 
-&emsp;&emsp;&emsp;(ii) information provided to the Secretary by the taxpayer on an income tax return for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
+&emsp;&emsp;&emsp;(ii) information provided to the Secretary by the taxpayer on an income taxreturn for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
 
 &emsp;&emsp;&emsp;(iii) the taxpayer fails to attach to the return the form described in section 36(d)(4).
 
@@ -134,10 +134,6 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56; Pub. L. 110–185, title I, §101(b)(2), Feb. 13, 2008, 122 Stat. 616; Pub. L. 111–5, div. B, title I, §1001(d), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–92, §§11(h), 12(d), Nov. 6, 2009, 123 Stat. 2991, 2992; Pub. L. 111–237, §3(b)(1), Aug. 16, 2010, 124 Stat. 2498.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to section 653(h) of Title 42, The Public Health and Welfare.
@@ -154,7 +150,7 @@ Subsec. (g)(2)(P). Pub. L. 111–92, §12(d), added subpar. (P).
 
 <b>2008</b>—Subsec. (g)(2)(L). Pub. L. 110–185 substituted “32, or 6428” for “or 32” in introductory provisions.
 
-<b>2001</b>—Subsec. (g)(2)(M). Pub. L. 107–16, §§303(g), 901, temporarily added subpar. (M). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (g)(2)(M). Pub. L. 107–16 added subpar. (M).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §3464(a), substituted “, including the Tax Court, and a refund may be ordered by such court of any amount collected within the period during which the Secretary is prohibited from collecting by levy or through a proceeding in court under the provisions of this subsection.” for “, including the Tax Court.” and “to enjoin any action or proceeding or order any refund” for “to enjoin any action or proceeding”.
 
@@ -186,7 +182,7 @@ Pub. L. 100–418, §1941(b)(2)(B)(iv), substituted “or 44” for “44, or 45
 
 Subsec. (g)(1), (2)(E). Pub. L. 100–418, §1941(b)(2)(B)(v), substituted “or 44” for “44, or 45”.
 
-Subsec. (h)(3), (4). Pub. L. 100–647, §1015(r)(3), as amended by Pub. L. 101–239, redesignated par. (4) as (3)and struck out former par. (3) which read as follows: “For assessment as if a mathematical error on the return, in the case of erroneous claims for credits under section 32 or 34, see section 6201(a)(4).”
+Subsec. (h)(3), (4). Pub. L. 100–647, §1015(r)(3), as amended by Pub. L. 101–239, redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “For assessment as if a mathematical error on the return, in the case of erroneous claims for credits under section 32 or 34, see section 6201(a)(4).”
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203, §10713(b)(2)(D), inserted reference to section 6852.
 
@@ -252,11 +248,9 @@ Amendment by section 12(d) of Pub. L. 111–92 applicable to returns for taxable
 
 Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under section 36A of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 effective Jan. 1, 2004, see section 303(i) of Pub. L. 107–16, set out as a note under section 32 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -278,7 +272,7 @@ Amendment by section 1085(a)(3) of Pub. L. 105–34 applicable to taxable years 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–193 applicable with respect to returns the due date for which (without regard to extensions) is more than 30 days after Aug. 22, 1996,see section 451(d) of Pub. L. 104–193, set out as a note under section 32 of this title.
+Amendment by Pub. L. 104–193 applicable with respect to returns the due date for which (without regard to extensions) is more than 30 days after Aug. 22, 1996, see section 451(d) of Pub. L. 104–193, set out as a note under section 32 of this title.
 
 Amendment by Pub. L. 104–188 applicable with respect to returns the due date for which, without regard to extensions, is on or after the 30th day after Aug. 20, 1996, with special rule for 1995 and 1996, see section 1615(d) of Pub. L. 104–188, set out as a note under section 21 of this title.
 
@@ -290,9 +284,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendments
 
-Amendment by section 1015(r)(3) of Pub. L. 100–647 applicable to notices of deficiencies mailed after Nov. 10, 1988, see section 1015(r)(4) of Pub. L. 100–647, set out as a note under section 6201 of this title.
+Amendment by section 1015(r)(3) of Pub. L. 100–647 applicable to notices of deficiencies mailed after Nov. 10,1988, see section 1015(r)(4) of Pub. L. 100–647, set out as a note under section 6201 of this title.
 
-Section 6243(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 7482 of this title\] shall apply to orders entered after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6243(c), Nov. 10, 1988, 102 Stat. 3750, provided that: “The amendments made by this section \[amending this section and section 7482 of this title\] shall apply to orders entered after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -332,7 +326,7 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 Amendment by section 1204(c)(6) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where the notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
-Section 1206(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 6201 and 6212 of this title\] shall apply with respect to returns (within the meaning of section 6213(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) filed after December 31, 1976.”
+Pub. L. 94–455, title XII, §1206(d), Oct. 4, 1976, 90 Stat. 1704, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 6201 and 6212 of this title\] shall apply with respect to returns (within the meaning of section 6213(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) filed after December 31, 1976.”
 
 Amendment by section 1307(d)(2)(F)(iii) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 501 of this title.
 

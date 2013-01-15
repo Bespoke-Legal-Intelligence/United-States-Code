@@ -6,7 +6,7 @@ Criminal Penalty.—Except as provided by subsection (b) of this section, when a
 
 (b)
 
-Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117),chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
+Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(D), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 

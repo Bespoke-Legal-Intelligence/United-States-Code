@@ -44,11 +44,13 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-privatepartnership to facilitate air carrier service to the public;
 
-&emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited; and
+&emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 
-&emsp;&emsp;(E) the assistance will be used in a timely fashion.
+&emsp;&emsp;(E) the assistance will be used in a timely fashion; and
+
+&emsp;&emsp;(F) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
 
 (d)
 
@@ -70,7 +72,7 @@ In general.—The Secretary may make agreements to provide assistance under this
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, $35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012, to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2015 to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
@@ -94,9 +96,15 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b),Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(5)(F). Pub. L. 112–95, §429(a), added subpar. (F).
+
+Subsec. (e)(2). Pub. L. 112–95, §429(b), amended par. (2) generally. Prior to amendment, par. (2) provided for authorization of appropriations for fiscal years 2001 through 2011 and for the portion of fiscal year 2012 ending before Feb. 18, 2012.
+
+Pub. L. 112–91 substituted “and $2,295,082 for the portion of fiscal year 2012 ending before February 18, 2012,” for “and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,”.
 
 <b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted “$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,” for “and $35,000,000 for each of fiscal years 2004 through 2011”.
 
@@ -128,11 +136,11 @@ Subsec. (f). Pub. L. 108–176, §§225(b)(3)(B), 412(5), struck out “pilot”
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(l) of Pub. L. 111–249, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
+Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(l) of Pub. L. 110–330, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2003 Amendment
 

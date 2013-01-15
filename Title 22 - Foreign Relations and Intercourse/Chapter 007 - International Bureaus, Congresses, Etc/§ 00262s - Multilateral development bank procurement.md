@@ -26,7 +26,7 @@ Section was formerly classified to section 262q of this title prior to renumberi
 
 #### Short Title
 
-Section 3201 of Pub. L. 100–418 provided that: “This subtitle \[subtitle C (§§3201, 3202) of title III of Pub. L. 100–418, enacting former section 262q of this title\] may be cited as the ‘Multilateral Development Banks Procurement Act of 1988’.”
+Pub. L. 100–418, title III, §3201, Aug. 23, 1988, 102 Stat. 1382, provided that: “This subtitle \[subtitle C (§§3201, 3202) of title III of Pub. L. 100–418, enacting former section 262q of this title\] may be cited as the ‘Multilateral Development Banks Procurement Act of 1988’.”
 
 #### Definitions
 

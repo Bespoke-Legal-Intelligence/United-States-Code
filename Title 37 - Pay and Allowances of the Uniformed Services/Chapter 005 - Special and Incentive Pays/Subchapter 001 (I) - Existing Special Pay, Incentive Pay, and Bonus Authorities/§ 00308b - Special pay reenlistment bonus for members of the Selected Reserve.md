@@ -34,11 +34,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (g)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2012, reenlistsor voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2013, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(1), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(1), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17,1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949; Pub. L. 109–163, div. A, title VI, §§621(a), 630, 687(b)(15), Jan. 6, 2006, 119 Stat. 3294, 3297, 3330; Pub. L. 109–364, div. A, title VI, §611(a), title X, §1071(e)(7), Oct. 17, 2006, 120 Stat. 2247, 2401; Pub. L. 110–181, div. A, title VI, §§611(a), 619(a)–(c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110–417, \[div. A\], title VI, §611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(1), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(1), Jan. 2, 2013, 126 Stat. 1775.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -130,7 +132,7 @@ Subsec. (f). Pub. L. 107–314 substituted “December 31, 2003” for “Decemb
 
 Subsec. (a)(1). Pub. L. 105–85, §621(a), substituted “14 years” for “ten years”.
 
-Subsec. (b). Pub. L. 105–85, §621(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The bonus to be paid under subsection (a) shall be—
+Subsec. (b). Pub. L. 105–85, §621(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The bonus to be paid under subsection (a) shall be—
 
 &emsp;“(1) an initial payment of—
 
@@ -210,19 +212,19 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1993 Amendment
 
-Section 612(f) of Pub. L. 103–160 provided that: “The amendments made by subsections (a), (b), (d), and (e) \[amending this section and sections 308c, 308h, and 308i of this title\] shall take effect as of September 30, 1993, and shall apply with respect to an enlistment, reenlistment, or extension of an enlistment described in section 308b, 308c, 308h, or 308i of title 37, United States Code, occurring on or after that date.”
+Pub. L. 103–160, div. A, title VI, §612(f), Nov. 30, 1993, 107 Stat. 1681, provided that: “The amendments made by subsections (a), (b), (d), and (e) \[amending this section and sections 308c, 308h, and 308i of this title\] shall take effect as of September 30, 1993, and shall apply with respect to an enlistment, reenlistment, or extension of an enlistment described in section 308b, 308c, 308h, or 308i of title 37, United States Code, occurring on or after that date.”
 
 #### Effective Date of 1985 Amendment
 
-Section 643(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §643(b), Nov. 8, 1985, 99 Stat. 652, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
 #### Effective Date
 
-Section 403(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply with respect to any reenlistment, or voluntary extension of an enlistment, in the Selected Reserve of any reserve component of the Armed Forces after September 30, 1977.”
+Pub. L. 95–79, title IV, §403(b), July 30, 1977, 91 Stat. 331, provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply with respect to any reenlistment, or voluntary extension of an enlistment, in the Selected Reserve of any reserve component of the Armed Forces after September 30, 1977.”
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Coverage of Period of Lapsed Authority
 

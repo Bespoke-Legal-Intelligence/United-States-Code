@@ -84,17 +84,17 @@ Subsec. (c)(5). Pub. L. 95–488, §1(c), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Section 1940(d) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and sections 501 and 4951 of this title\] shall apply to taxable years beginning after December 31, 1991.”
+Pub. L. 102–486, title XIX, §1940(d), Oct. 24, 1992, 106 Stat. 3035, provided that: “The amendments made bythis section \[amending this section and sections 501 and 4951 of this title\] shall apply to taxable years beginning after December 31, 1991.”
 
 #### Effective Date of 1980 Amendment
 
-Section 108(b)(4) of Pub. L. 96–222 provided that: “Any amendment made by this subsection \[amending this section, sections 6503, 6511, 6862, 7422, and 7454 of this title, and sections 934 and 934a of Title 30, Mineral Lands and Mining\] shall take effect as if included in the provision of the Black Lung Benefits Revenue Act of 1977 \[see Short Title of 1978 Amendments note set out under section 1 of this title\] to which such amendment relates.”
+Pub. L. 96–222, title I, §108(b)(4), Apr. 1, 1980, 94 Stat. 226, provided that: “Any amendment made by this subsection \[amending this section, sections 6503, 6511, 6862, 7422, and 7454 of this title, and sections 934 and 934a of Title 30, Mineral Lands and Mining\] shall take effect as if included in the provision of the Black Lung Benefits Revenue Act of 1977 \[see Short Title of 1978 Amendments note set out under section 1 of this title\] to which such amendment relates.”
 
 #### Effective Date of 1978 Amendment
 
-Section 1(e) of Pub. L. 95–488, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 6104 of this title\] shall apply to taxable years beginning after December 31, 1977. Nothing in the amendments made by subsection (d) to section 6104 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to permit the disclosure under such section 6104 of confidential business information of contributors to any trust described in section 501(c)(21) of such Code.”
+Pub. L. 95–488, §1(e), Oct. 20, 1978, 92 Stat. 1638, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 6104 of this title\] shall apply to taxable years beginning after December 31, 1977. Nothing in the amendments made by subsection (d) to section 6104 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to permit the disclosure under such section 6104 of confidential business information of contributors to any trust described in section 501(c)(21) of such Code.”
 
 #### Effective Date
 
-Section 4(f) of Pub. L. 95–227 provided that: “The amendments made by this section \[enacting this section and sections 4951 to 4953 and amending sections 501, 4946, 6104, 6213, 6405, 6501, 6503, and 7451 of this title\] shall apply with respect to contributions, acts, and expenditures made after December 31, 1977, in and for taxable years beginning after such date.”
+Pub. L. 95–227, §4(f), Feb. 10, 1978, 92 Stat. 24, provided that: “The amendments made by this section \[enacting this section and sections 4951 to 4953 and amending sections 501, 4946, 6104, 6213, 6405, 6501, 6503, and 7451 of this title\] shall apply with respect to contributions, acts, and expenditures made after December 31, 1977, in and for taxable years beginning after such date.”
 

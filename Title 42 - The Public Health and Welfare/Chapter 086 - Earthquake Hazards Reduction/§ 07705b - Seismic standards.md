@@ -40,7 +40,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Report on Vulnerability of Buildings Owned and Leased by Government
 
-Section 8(b) of Pub. L. 101–614 directed Comptroller General, not later than 18 months after Nov. 16, 1990, to report to Congress on vulnerability of buildings owned and leased by the Federal Government and on efforts of Federal agencies to improve the seismic resistance of buildings they own or lease, and for each such agency, the Comptroller General to enumerate the number of buildings owned or leased by the agency, the seriousness of the seismic risk to such buildings, and the value of the buildings at risk, as well as tabulate the expenditures each such agency had devoted to reducing earthquake damage and estimate the total expenditure necessary to address the problem adequately.
+Pub. L. 101–614, §8(b), Nov. 16, 1990, 104 Stat. 3238, directed Comptroller General, not later than 18 months after Nov. 16, 1990, to report to Congress on vulnerability of buildings owned and leased by the Federal Government and on efforts of Federal agencies to improve the seismic resistance of buildings they own or lease, and for each such agency, the Comptroller General to enumerate the number of buildings owned or leased by the agency, the seriousness of the seismic risk to such buildings, and the value of the buildings at risk, as well as tabulate the expenditures each such agency had devoted to reducing earthquake damage and estimate the total expenditure necessary to address the problem adequately.
 
 #### Ex. Ord. No. 12941. Seismic Safety of Existing Federally Owned or Leased Buildings
 

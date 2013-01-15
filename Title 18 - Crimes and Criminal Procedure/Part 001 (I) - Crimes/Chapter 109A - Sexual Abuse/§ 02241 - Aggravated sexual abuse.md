@@ -58,13 +58,13 @@ Pub. L. 109–162, §1177(a)(2), inserted “or in any prison, institution, or f
 
 #### Effective Date
 
-Section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654 provided, respectively, that: “This section and the amendments made by this section \[see Short Title note below\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].” and “This Act and the amendments made by this Act \[see Short Title note below\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Pub. L. 99–646, §87(e), Nov. 10, 1986, 100 Stat. 3624, and Pub. L. 99–654, §4, Nov. 14, 1986, 100 Stat. 3664, provided, respectively, that: “This section and the amendments made by this section \[see Short Title note below\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].” and “This Act and the amendments made by this Act \[see Short Title note below\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Short Title of 1996 Amendment
 
-Section 101(a) \[title I, §121\[7(a)\]\] of Pub. L. 104–208 provided that: “This section \[probably means subsec. 7 of section 121 of Pub. L. 104–208, div. A, title I, §101(a), which amended sections 2241 and 2243 of this title\] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–31, provided that: “This section \[probably means subsec. 7 of section 121 of Pub. L. 104–208, div. A, title I, §101(a), which amended sections 2241 and 2243 of this title\] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
-Section 87(a) of Pub. L. 99–646 and section 1 of Pub. L. 99–654 provided, respectively, that: “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
+Pub. L. 99–646, §87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §1, Nov. 14, 1986, 100 Stat. 3660, provided, respectively, that: “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
 

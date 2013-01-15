@@ -14,7 +14,7 @@
 
 &emsp;(5) The Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399).
 
-(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 21, §1781; amended Pub. L. 91–219, title II, §213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, §102, title VIII, §801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, §4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, §423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3681, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105Stat. 406; Pub. L. 102–568, title III, §315, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 111–377, title II, §202(b), Jan. 4, 2011, 124 Stat. 4124.)
+(Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 21, §1781; amended Pub. L. 91–219, title II, §213(1), Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(8), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(13), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 96–466, title I, §102, title VIII, §801(e), Oct. 17, 1980, 94 Stat. 2187, 2216; Pub. L. 97–295, §4(53), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §203(c)(1), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(c), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 99–576, title III, §§317, 321(9), Oct. 28, 1986, 100 Stat. 3275, 3278; Pub. L. 101–237, title IV, §423(a)(8)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3681, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §315, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 111–377, title II, §202(b), Jan. 4, 2011, 124 Stat. 4124.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 202(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Section 802(a)(6) of Pub. L. 96–466 provided that: “The amendments made by sections 102 and 103 \[amending this section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
+Pub. L. 96–466, title VIII, §802(a)(6), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by sections 102 and 103 \[amending this section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
 
 Amendment by section 801(e) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 

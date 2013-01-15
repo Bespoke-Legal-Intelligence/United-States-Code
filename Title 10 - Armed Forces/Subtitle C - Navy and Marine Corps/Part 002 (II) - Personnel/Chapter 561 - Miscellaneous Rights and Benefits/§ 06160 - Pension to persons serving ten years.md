@@ -20,7 +20,7 @@
 
 #### Effective Date of 1958 Amendment
 
-Section 13(v)(4) of Pub. L. 85–857 provided that the amendment made by that section is effective as of Jan. 1, 1958.
+Pub. L. 85–857, §13(v)(4), Sept. 2, 1958, 72 Stat. 1268, provided that the amendment made by that section is effective as of Jan. 1, 1958.
 
 #### Effective Date
 

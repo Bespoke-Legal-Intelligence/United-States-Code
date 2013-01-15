@@ -14,7 +14,7 @@ Floor brokers, introducing brokers, and futures commission merchants shall maint
 
 #### (d) Daily trading records: form and reports
 
-Daily trading records shall be maintained in a form suitable to the Commission for such period as may be required by the Commission. Reports shall be made from the records maintained at such times and at such places and in such form as the Commission may prescribe by rule, order, or regulation in order to protect the public interest and the interest of persons trading in commodity futures.
+Daily trading records shall be maintained in a form suitable to the Commission for such periodas may be required by the Commission. Reports shall be made from the records maintained at such times and at such places and in such form as the Commission may prescribe by rule, order, or regulation in order to protect the public interest and the interest of persons trading in commodity futures.
 
 #### (e) Disclosure of information
 

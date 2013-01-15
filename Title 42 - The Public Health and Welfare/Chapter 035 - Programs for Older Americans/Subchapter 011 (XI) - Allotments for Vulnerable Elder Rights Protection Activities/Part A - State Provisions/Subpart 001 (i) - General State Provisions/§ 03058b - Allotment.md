@@ -16,7 +16,7 @@
 
 #### (i) Minimum allotment for States
 
-&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriatedunder section 3058a of this title for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made.
 
 #### (ii) Minimum allotment for territories
 
@@ -30,7 +30,7 @@
 
 #### (ii) Elder abuse programs
 
-&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated under section 3058a of this title and made available to carry out subpart III of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
+&emsp;&emsp;&emsp;No State shall be allotted for a fiscal year, from the funds appropriated undersection 3058a of this title and made available to carry out subpart III of this part, less than the amount allotted to the State under section 3024 of this title in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
 
 #### (D) “State” defined
 

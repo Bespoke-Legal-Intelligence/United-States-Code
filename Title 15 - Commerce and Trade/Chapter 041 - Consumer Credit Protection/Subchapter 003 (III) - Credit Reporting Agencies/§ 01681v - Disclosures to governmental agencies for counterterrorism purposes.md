@@ -32,7 +32,7 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 (2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 415b of title 50.
 
-(Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(<i>l</i>), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, §4(c)(2), Mar. 9, 2006, 120 Stat. 280.)
+(Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(l), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, §4(c)(2), Mar. 9, 2006, 120 Stat. 280.)
 
 #### Amendments
 

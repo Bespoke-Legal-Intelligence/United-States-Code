@@ -88,7 +88,7 @@ In subsection (c), the first 28 words of the second proviso of 31:224d and the w
 
 In subsection (d), the word “may” is substituted for the words “shall have authority, if he deems”. The words “that would otherwise be covered by this section” are inserted for clarity. The words “to be meritorious” and “character of such” are omitted as surplusage.
 
-In subsection (f), the words “a military department” are substituted for the words “service concerned” after the words “the request of the”. The words “or Commissions” and “even though not” are omitted as surplusage. The words “an armed force under the jurisdiction of another military department” are substituted for the words “service concerned” after the words “officers of the”. 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
+In subsection (f), the words “a military department” are substituted for the words “service concerned” afterthe words “the request of the”. The words “or Commissions” and “even though not” are omitted as surplusage. The words “an armed force under the jurisdiction of another military department” are substituted for the words “service concerned” after the words “officers of the”. 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
 
 1958
 

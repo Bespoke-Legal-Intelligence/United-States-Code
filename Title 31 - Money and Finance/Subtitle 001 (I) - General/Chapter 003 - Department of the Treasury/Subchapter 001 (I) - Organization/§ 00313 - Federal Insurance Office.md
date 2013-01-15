@@ -76,7 +76,7 @@ In general.—Except as provided in paragraph (3), the Office may require an ins
 
 &emsp;&emsp;(B)
 
-Rule of construction.—Notwithstanding any other provision of this section, for purposes of subparagraph (A), the term “insurer” means any entity that writes insurance or reinsures risks and issues contracts or policies in 1 or more States.
+Rule of construction.—Notwithstanding any other provision of this section, forpurposes of subparagraph (A), the term “insurer” means any entity that writes insurance or reinsures risks and issues contracts or policies in 1 or more States.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Exception for small insurers.—Paragraph (2) shall not apply with respect to an
 
 &emsp;(4)
 
-Advance coordination.—Before collecting any data or information under paragraph (2) from an insurer, or affiliate of an insurer, the Office shall coordinate with each relevant Federal agency and State insurance regulator (or other relevant Federal or State regulatory agency, if any, in the case of an affiliate of an insurer) and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the Director determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the Director shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the Director determines that such data or information is notso available, the Director may collect such data or information from an insurer (or affiliate) only if the Director complies with the requirements of subchapter I of chapter 35 of title 44, United States Code (relating to Federal information policy; commonly known as the Paperwork Reduction Act), in collecting such data or information. Notwithstanding any other provision of law, each such relevant Federal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the Office such data or information.
+Advance coordination.—Before collecting any data or information under paragraph (2) from an insurer, or affiliate of an insurer, the Office shall coordinate with each relevant Federal agency and State insurance regulator (or other relevant Federal or State regulatory agency, if any, in the case of an affiliate of an insurer) and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the Director determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the Director shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the Director determines that such data or information is not so available, the Director may collect such data or information from an insurer (or affiliate) only if the Director complies with the requirements of subchapter I of chapter 35 of title 44, United States Code (relating to Federal information policy; commonly known as the Paperwork Reduction Act), in collecting such data or information. Notwithstanding any other provision of law, each such relevant Federal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the Office such data or information.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Notice of determination of inconsistency.—Upon making any determination under 
 
 &emsp;(3)
 
-Notice of effectiveness.—Upon the conclusion of the period referred to in paragraph (2)(C)(ii), if the basis for such determinationstill exists, the determination shall become effective and the Director shall—
+Notice of effectiveness.—Upon the conclusion of the period referred to in paragraph (2)(C)(ii), if the basis for such determination still exists, the determination shall become effective and the Director shall—
 
 &emsp;&emsp;(A) cause to be published a notice in the Federal Register that the preemption has become effective, as well as the effective date; and
 
@@ -204,7 +204,7 @@ Savings Provisions.—Nothing in this section shall—
 
 Retention of Existing State Regulatory Authority.—Nothing in this section or section 314 shall be construed to establish or provide the Office or the Department of the Treasury with general supervisory or regulatory authority over the business of insurance.
 
-(<i>l</i>)
+(l)
 
 Retention of Authority of Federal Financial Regulatory Agencies.—Nothing in this section or section 314 shall be construed to limit the authority of any Federal financial regulatory agency, including the authority to develop and coordinate policy, negotiate, and enter into agreements with foreign governments, authorities, regulators, and multinational regulatory committees and to preempt State measures to affect uniformity with international regulatory agreements.
 
@@ -226,7 +226,7 @@ Section 313(f
 
 Insurance industry.—Beginning September 30, 2011, the Director shall submit a report on or before September 30 of each calendar year to the President and to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the insurance industry and any other information as deemed relevant by the Director or requested by such Committees.
 
-(<i>o</i>)
+(o)
 
 Reports on U.S. and Global Reinsurance Market.—The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
 
@@ -368,7 +368,7 @@ The Federal Crop Insurance Act, referred to in subsec. (d)(3), is subtitle A of 
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (j)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The Nonadmitted and Reinsurance Reform Act of 2010, referred to in subsec. (<i>o</i>)(2), is subtitle B (§§511–542) of title V of Pub. L. 111–203, July 21, 2010, 124 Stat. 1589. Part II of the Act is classified generally to subchapter II (§8221 et seq.) of chapter 108 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 15 and Tables.
+The Nonadmitted and Reinsurance Reform Act of 2010, referred to in subsec. (o)(2), is subtitle B (§§511–542) of title V of Pub. L. 111–203, July 21, 2010, 124 Stat. 1589. Part II of the Act is classified generally to subchapter II (§8221 et seq.) of chapter 108 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 15 and Tables.
 
 The date of enactment of this section, referred to subsec. (p)(1), is the date of enactment of Pub. L. 111–203, which was approved July 21, 2010.
 

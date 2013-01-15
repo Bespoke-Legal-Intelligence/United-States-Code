@@ -9,3 +9,4 @@
 - [&sect; 03322 - Bar to duplication of educational assistance benefits](%C2%A7%2003322%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md)
 - [&sect; 03323 - Administration](%C2%A7%2003323%20-%20Administration.md)
 - [&sect; 03324 - Allocation of administration and costs](%C2%A7%2003324%20-%20Allocation%20of%20administration%20and%20costs.md)
+- [&sect; 03325 - Reporting requirement](%C2%A7%2003325%20-%20Reporting%20requirement.md)

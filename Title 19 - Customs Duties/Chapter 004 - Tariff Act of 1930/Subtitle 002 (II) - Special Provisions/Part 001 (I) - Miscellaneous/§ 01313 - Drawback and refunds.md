@@ -102,7 +102,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 > shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B) or (2)(C).
 
-(4)(A) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act \[19 U.S.C. 3333(a)\], shall not constitute an exportation for purposes of paragraph (2).
+(4)(A) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act \[19U.S.C. 3333(a)\], shall not constitute an exportation for purposes of paragraph (2).
 
 (B) Beginning on January 1, 2015, the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
@@ -112,7 +112,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 (2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product's manufacture and delivery. As used in this paragraph, the term “drawback product” means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 Allowance of the privileges provided for in this section shall be subject to compliance with such rules and regulations as the Secretary of the Treasury shall prescribe, which may include, but need not be limited to, the authority for the electronic submission of drawback entries and the designation of the person to whom any refund or payment of drawback shall be made.
 
@@ -122,13 +122,13 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (n) Refunds, waivers, or reductions under certain free trade agreements
 
-(1) For purposes of this subsection and subsection (<i>o</i>) of this section—
+(1) For purposes of this subsection and subsection (o) of this section—
 
 &emsp;(A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301 et seq.\];
 
 &emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\];
 
-&emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (<i>o</i>) of this section is subject to section 1508(b)(2)(B) of this title; and
+&emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) of this section is subject to section 1508(b)(2)(B) of this title; and
 
 &emsp;(D) the term “good subject to Chile FTA drawback” has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
@@ -152,7 +152,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(iv) 25 percent during the 1-year period beginning on January 1, 2014.
 
-#### (<i>o</i>) Special rules for certain vessels and imported materials
+#### (o) Special rules for certain vessels and imported materials
 
 (1) For purposes of subsection (g) of this section, if—
 
@@ -162,7 +162,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
 
-(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g) of this section, vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreementthereafter terminates, then for purposes of subsection (g) of this section, vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
 (3) For purposes of subsection (g) of this section, if—
 
@@ -242,7 +242,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&emsp;&emsp;(III) an article of the same kind and quality as described in subparagraph (B), or any combination thereof, that is transferred, as so certified in a certificate of delivery or certificate of manufacture and delivery in a quantity not greater than the quantity of articles purchased or exchanged.
 
-&emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
+&emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery orcertificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
 
 &emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
@@ -296,7 +296,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 > &emsp;whichever is later.
 
-(B) If an extension is granted with respect to a request filed under this paragraph, the periods of time for retaining records set forth in subsection (t) of this section and section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+(B) If an extension is granted with respect to a request filed under this paragraph, the periodsof time for retaining records set forth in subsection (t) of this section and section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
 
 (C) For purposes of this paragraph, the term “major disaster” has the meaning given that term in section 5122(2) of title 42.
 
@@ -308,7 +308,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) imported merchandise which the predecessor, before the date of succession, imported; or
 
-&emsp;(B) imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession,from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;
+&emsp;(B) imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;
 
 > as the basis for drawback on merchandise possessed by the drawback successor after the date of succession.
 
@@ -354,19 +354,21 @@ For purposes of subsections (a), (b), and (c) of this section, the term “destr
 
 Articles described in subsection (j)(1) of this section shall be eligible for drawback under this section if duty was paid on the merchandise upon importation into the United States and the person claiming the drawback demonstrates that the merchandise has entered the customs territory of the United States Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Guam, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a),Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
-Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (<i>o</i>)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 The North American Free Trade Agreement Implementation Act, referred to in subsec. (n)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (<i>o</i>)(2), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
+Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (o)(2), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(3)(A)(i), (B), (5), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -430,9 +432,9 @@ Subsec. (n)(1). Pub. L. 108–77, §§107(c), 203(b)(3)(B)(ii), temporarily adde
 
 Subsec. (n)(4). Pub. L. 108–77, §§107(c), 203(b)(3)(B)(iii), temporarily added par. (4). See Effective and Termination Dates of 2003 Amendment note below.
 
-Subsec. (<i>o</i>). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(i), temporarily inserted heading. See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (o). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(i), temporarily inserted heading. See Effective and Termination Dates of 2003 Amendment note below.
 
-Subsec. (<i>o</i>)(3), (4). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(ii), temporarily added pars. (3) and (4). See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (o)(3), (4). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(ii), temporarily added pars. (3) and (4). See Effective and Termination Dates of 2003 Amendment note below.
 
 <b>2000</b>—Subsec. (p)(3)(A)(i)(I). Pub. L. 106–476, §1422(a)(1), inserted “2709.00,” after “2708,” and substituted “and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00” for “2902, and 2909.19.14”.
 
@@ -484,9 +486,9 @@ Subsec. (j). Pub. L. 103–182, §203(c)(1), (2), substituted “Subject to para
 
 Pub. L. 103–182, §632(a)(4), amended subsec. (j) generally, substituting present provisions for provisions which authorized drawbacks for imported merchandise which, upon either exportation or destruction, was in the same condition as when imported.
 
-Subsec. (<i>l</i>). Pub. L. 103–182, §632(a)(5), substituted “the authority for the electronic submission of drawback entries” for “the fixing of a time limit within which drawback entries or entries for refund under any of the provisions of this section or section 1309(b) of this title shall be filed and completed,”.
+Subsec. (l). Pub. L. 103–182, §632(a)(5), substituted “the authority for the electronic submission of drawback entries” for “the fixing of a time limit within which drawback entries or entries for refund under any of the provisions of this section or section 1309(b) of this title shall be filed and completed,”.
 
-Subsecs. (n), (<i>o</i>). Pub. L. 103–182, §203(b)(3), amended subsecs. (n) and (<i>o</i>) generally, substituting present provisions for provisions which related to, in subsec. (n), drawback-eligible goods under United States-Canada Free-Trade Agreement Implementation Act of 1988 and, in subsec. (<i>o</i>), vessels built for Canadian account or for Government of Canada.
+Subsecs. (n), (o). Pub. L. 103–182, §203(b)(3), amended subsecs. (n) and (o) generally, substituting present provisions for provisions which related to, in subsec. (n), drawback-eligible goods under United States-Canada Free-Trade Agreement Implementation Act of 1988 and, in subsec. (o), vessels built for Canadian account or for Government of Canada.
 
 Subsec. (p). Pub. L. 103–182, §632(a)(6), amended subsec. (p) generally, substituting present provisions for provisions relating to substitution of crude petroleum or petroleum derivatives.
 
@@ -494,11 +496,11 @@ Subsecs. (q) to (v). Pub. L. 103–182, §632(a)(7), added subsecs. (q) to (v).
 
 <b>1990</b>—Subsec. (n). Pub. L. 101–382, §134(a)(1), inserted “, except an article” before “made from” and substituted comma for “of 1988” before “does not”.
 
-Subsec. (<i>o</i>). Pub. L. 101–382, §134(a)(2), inserted at end “This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the date proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988).”
+Subsec. (o). Pub. L. 101–382, §134(a)(2), inserted at end “This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the date proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988).”
 
 Subsec. (p). Pub. L. 101–382, §484A(a), added subsec. (p).
 
-<b>1988</b>—Subsecs. (n), (<i>o</i>). Pub. L. 100–449 added subsecs. (n) and (<i>o</i>).
+<b>1988</b>—Subsecs. (n), (o). Pub. L. 100–449 temporarily added subsecs. (n) and (o). See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1986</b>—Subsec. (j)(2), (3). Pub. L. 99–514, §1888(2)(A), redesignated par. (3) as (2) and redesignated par. (4) relating to imported packaging material as (3).
 
@@ -506,9 +508,9 @@ Subsec. (j)(4). Pub. L. 99–514, §1888(2), redesignated par. (4) relating to i
 
 <b>1984</b>—Subsec. (j)(2) to (4). Pub. L. 98–573, §202(1), redesignated par. (2), relating to the performing of incidental operations, as (4), and inserted after par. (1) new pars. (3) and (4).
 
-Subsecs. (k) to (m). Pub. L. 98–573, §202(2), (3), added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+Subsecs. (k) to (m). Pub. L. 98–573, §202(2), (3), added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
-<b>1980</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 96–609, §201(a), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+<b>1980</b>—Subsecs. (j) to (l). Pub. L. 96–609, §201(a), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
 <b>1971</b>—Subsecs. (h) to (k). Pub. L. 91–692 added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
 
@@ -568,7 +570,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–476, title I, §1422(a)(2), Nov. 9, 2000, 114 Stat. 2156, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\], and shall apply to—
+Pub. L. 106–476, title I, §1422(a)(2), Nov. 9, 2000, 114 Stat. 2156, provided that: “The amendments made byparagraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\], and shall apply to—
 
 &emsp;“(A) any drawback claim filed on or after such date of enactment; and
 
@@ -600,7 +602,7 @@ Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect 
 
 Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
-Section 632(b) of Pub. L. 103–182 provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
+Pub. L. 103–182, title VI, §632(b), Dec. 8, 1993, 107 Stat. 2197, provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
 
 &emsp;“(1) claims filed or liquidated on or after January 1, 1988, and
 
@@ -620,11 +622,11 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 
 #### Effective Date of 1980 Amendment
 
-Section 201(b) of Pub. L. 96–609 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse, for consumption on or after the date of the enactment of this Act \[Dec. 28, 1980\].”
+Pub. L. 96–609, title II, §201(b), Dec. 28, 1980, 94 Stat. 3560, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to articles entered, or withdrawn from warehouse, for consumption on or after the date of the enactment of this Act \[Dec. 28, 1980\].”
 
 #### Effective Date of 1971 Amendment
 
-Section 3(b) of Pub. L. 91–692 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to articles exported on or after the date of the enactment of this Act \[Jan. 12, 1971\].”
+Pub. L. 91–692, §3(b), Jan. 12, 1971, 84 Stat. 2076, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to articles exported on or after the date of the enactment of this Act \[Jan. 12, 1971\].”
 
 #### Effective Date of 1968 Amendment
 
@@ -632,7 +634,7 @@ For effective date of amendment by Pub. L. 90–630, see section 4 of Pub. L. 90
 
 #### Effective Date of 1958 Amendment
 
-Section 2 of Pub. L. 85–673 provided that: “The amendment made by the first section of this Act \[amending this section\] shall be effective with respect to articles exported on or after the 30th day after the date of the enactment of this Act \[Aug. 18, 1958\].”
+Pub. L. 85–673, §2, Aug. 18, 1958, 72 Stat. 624, provided that: “The amendment made by the first section of this Act \[amending this section\] shall be effective with respect to articles exported on or after the 30th day after the date of the enactment of this Act \[Aug. 18, 1958\].”
 
 #### Effective Date of 1953 Amendment; Savings Provision
 
@@ -644,11 +646,11 @@ Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

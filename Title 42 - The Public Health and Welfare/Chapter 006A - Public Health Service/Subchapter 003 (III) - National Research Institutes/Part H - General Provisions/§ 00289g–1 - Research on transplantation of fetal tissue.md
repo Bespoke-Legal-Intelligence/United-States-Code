@@ -24,7 +24,7 @@
 
 #### (2) Additional statement
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may beused only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
+&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
 
 &emsp;&emsp;(A) in the case of tissue obtained pursuant to an induced abortion—
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(i) such physician's interest, if any, in the research to be conducted with the tissue; and
 
-&emsp;&emsp;&emsp;(ii) any known medical risks to the woman or risks to her privacy that might be associated with the donation of the tissue and that are in addition to risks of such type that are associated with the woman's medical care.
+&emsp;&emsp;&emsp;(ii) any known medical risks to the woman or risks to her privacy that might be associated with the donation of the tissue and that are in addition to risks ofsuch type that are associated with the woman's medical care.
 
 #### (c) Informed consent of researcher and donee
 
@@ -104,7 +104,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Nullification of Moratorium
 
-Section 113 of Pub. L. 103–43 provided that:
+Pub. L. 103–43, title I, §113, June 10, 1993, 107 Stat. 132, provided that:
 
 “(a)
 
@@ -142,5 +142,5 @@ Definition.—For purposes of this section, the term ‘human fetal tissue’ ha
 
 #### Report by General Accounting Office on Adequacy of Requirements
 
-Section 114 of Pub. L. 103–43 provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
+Pub. L. 103–43, title I, §114, June 10, 1993, 107 Stat. 132, provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of section 289g–2 of this title and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 

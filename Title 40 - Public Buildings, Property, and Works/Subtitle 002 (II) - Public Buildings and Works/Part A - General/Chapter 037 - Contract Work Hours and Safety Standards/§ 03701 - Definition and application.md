@@ -54,7 +54,7 @@ This chapter.—This chapter does not apply to—
 
 Section 3702.—Section 3702 of this title does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(14), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(19), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, §6(14), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(l)(19), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations; issuance, amendment, or rescission; scope
 
-The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
+The Secretary shall, as soon as practicable after January 3, 1975, and after consultationwith other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
@@ -40,7 +40,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(M) such other information as may be required by the Secretary to determine the environmental impact of the proposed deepwater port.
 
-(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulationsimplementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
+(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
 
 #### (d) Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications
 

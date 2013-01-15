@@ -12,7 +12,7 @@ Each State is encouraged to establish a State interagency council on the homeles
 
 #### References in Text
 
-Par. (7) of section 11313(a) of this title, referred to in subsec. (a), was redesignated par. (11) of section 11313(a) by Pub. L. 111–22, div. B, §1004(a)(3)(A), May 20, 2009, 123 Stat. 1667.
+Par. (7) of section 11313(a) of this title, referred to in subsec. (a), was redesignated par. (11) of section 11313(a)by Pub. L. 111–22, div. B, §1004(a)(3)(A), May 20, 2009, 123 Stat. 1667.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

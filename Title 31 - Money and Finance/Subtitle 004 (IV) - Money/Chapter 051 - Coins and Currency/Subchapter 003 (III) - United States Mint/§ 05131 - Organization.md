@@ -122,5 +122,5 @@ Subsec. (c). Pub. L. 100–274, §2(c)(2), substituted “Each mint has” for �
 
 #### Authority of Special Police Officers
 
-For authority of special police officers of United States Mint over buildings and land under control and in vicinity of the Mint and to protection in transit of bullion, coins, dies, and other property and assets of the Mint, see section 101(f) \[title V, §517(2), (3)\] of Pub. L. 104–208, set out as a note under section 5141 of this title.
+For authority of special police officers of United States Mint over buildings and land under control and in vicinity of the Mint and to protection in transit of bullion, coins, dies, and other property and assets ofthe Mint, see section 101(f) \[title V, §517(2), (3)\] of Pub. L. 104–208, set out as a note under section 5141 of this title.
 

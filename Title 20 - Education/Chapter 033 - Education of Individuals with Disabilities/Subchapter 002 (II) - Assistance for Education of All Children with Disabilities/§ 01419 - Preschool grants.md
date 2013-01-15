@@ -134,7 +134,7 @@ Each State shall use any funds the State reserves under subsection (d) and does 
 
 &emsp;(3) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(15) of this title;
 
-&emsp;(4) to supplement other funds used to develop and implement a statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not more than 1 percent of the amount received by the State under this section for a fiscal year;
+&emsp;(4) to supplement other funds used to develop and implement a statewide coordinated services system designed to improve results for children and families, including childrenwith disabilities and their families, but not more than 1 percent of the amount received by the State under this section for a fiscal year;
 
 &emsp;(5) to provide early intervention services (which shall include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills) in accordance with subchapter III to children with disabilities who are eligible for services under this section and who previously received services under subchapter III until such children enter, or are eligible under State law to enter, kindergarten; or
 
@@ -164,7 +164,7 @@ Each State shall use any funds the State reserves under subsection (d) and does 
 
 #### (h) Subchapter III inapplicable
 
-Subchapter III does not apply to any child with a disability receiving a free appropriatepublic education, in accordance with this subchapter, with funds received under this section.
+Subchapter III does not apply to any child with a disability receiving a free appropriate public education, in accordance with this subchapter, with funds received under this section.
 
 #### (i) State defined
 

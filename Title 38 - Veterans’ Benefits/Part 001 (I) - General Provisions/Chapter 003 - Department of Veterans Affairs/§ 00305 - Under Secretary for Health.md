@@ -54,9 +54,9 @@ Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted “Ch
 
 #### Change of Name
 
-Section 302(a) of Pub. L. 102–405 provided that: “The position of Chief Medical Director of the Department of Veterans Affairs is hereby redesignated as Under Secretary for Health of the Department of Veterans Affairs.”
+Pub. L. 102–405, title III, §302(a), Oct. 9, 1992, 106 Stat. 1984, provided that: “The position of Chief Medical Director of the Department of Veterans Affairs is hereby redesignated as Under Secretary for Health of the Department of Veterans Affairs.”
 
-Section 302(e) of Pub. L. 102–405 provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Department of Veterans Affairs—
+Pub. L. 102–405, title III, §302(e), Oct. 9, 1992, 106 Stat. 1985, provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Department of Veterans Affairs—
 
 &emsp;“(1) to the Chief Medical Director of the Department of Veterans Affairs shall be deemed to refer to the Under Secretary for Health of the Department of Veterans Affairs; and
 

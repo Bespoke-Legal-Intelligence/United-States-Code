@@ -30,19 +30,19 @@
 
 #### Effective Date of 1994 Amendment
 
-Section 108(c) of Pub. L. 103–416 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\] and shall apply to applications for naturalization filed on or after such date and to such applications pending on such date.”
+Pub. L. 103–416, title I, §108(c), Oct. 25, 1994, 108 Stat. 4310, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\] and shall apply to applications for naturalization filed onor after such date and to such applications pending on such date.”
 
 #### Effective Date of 1991 Amendment
 
-Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §305(m), Dec. 12, 1991, 105 Stat. 1750, provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Regulations
 
-Section 108(d) of Pub. L. 103–416 provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 25, 1994\], the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act \[8 U.S.C. 1423(b)(3)\] (as amended by subsection (a)).”
+Pub. L. 103–416, title I, §108(d), Oct. 25, 1994, 108 Stat. 4310, provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 25, 1994\], the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act \[8 U.S.C. 1423(b)(3)\] (as amended by subsection (a)).”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Hmong Veterans’ Naturalization
 

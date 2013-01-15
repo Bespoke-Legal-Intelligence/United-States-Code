@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Chief Executive Officer shall establish and maintain a decentralized field structure thatprovides for an office of the Corporation for each State. The office for a State shall be located in, or in reasonable proximity to, such State. Only one such office may carry out the duties described in subsection (b) of this section with respect to a State at any particular time. Such State office may be directed by the representative designated under section 12651f(c) of this title.
+The Chief Executive Officer shall establish and maintain a decentralized field structure that provides for an office of the Corporation for each State. The office for a State shall be located in, or in reasonable proximity to, such State. Only one such office may carry out the duties described in subsection (b) of this section with respect to a State at any particular time. Such State office may be directed by the representative designated under section 12651f(c) of this title.
 
 #### (b) Duties
 
@@ -22,7 +22,7 @@ Each State office established pursuant to subsection (a) of this section shall�
 
 #### References in Text
 
-Section 12653a of this title, referred to in subsec. (b)(2), was in the original “section 198A”, meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653<i>o</i> of this title.
+Section 12653a of this title, referred to in subsec. (b)(2), was in the original “section 198A”, meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653o of this title.
 
 #### Effective Date
 

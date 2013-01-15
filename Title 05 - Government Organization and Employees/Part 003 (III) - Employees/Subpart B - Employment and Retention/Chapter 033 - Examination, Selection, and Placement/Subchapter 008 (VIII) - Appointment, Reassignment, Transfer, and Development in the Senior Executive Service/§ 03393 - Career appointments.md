@@ -62,7 +62,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Effective Date of 1984 Amendment
 
-Section 307 of title III of Pub. L. 98–615 provided that: “The amendments made by this title \[enacting section 3595a of this title, amending this section and sections 3135, 3593 to 3595, 4312, 5383, and 5384 of this title, and enacting provisions set out as a note under section 3131 of this title\] shall be effective following the expiration of the 90-day period beginning on the date of enactment of this Act \[Nov. 8, 1984\], except that the amendments made by section 304 \[amending sections 3395, 3595, 7543, and 8336 of this title\] shall be effective as of such date of enactment.”
+Pub. L. 98–615, title III, §307, Nov. 8, 1984, 98 Stat. 3220, provided that: “The amendments made by this title \[enacting section 3595a of this title, amending this section and sections 3135, 3593 to 3595, 4312, 5383, and 5384 of this title, and enacting provisions set out as a note under section 3131 of this title\] shall be effective following the expiration of the 90-day period beginning on the date of enactment of this Act \[Nov. 8, 1984\], except that the amendments made by section 304 \[amending sections 3395, 3595, 7543, and 8336 of this title\] shall be effective as of such date of enactment.”
 
 #### Effective Date of 1981 Amendment
 

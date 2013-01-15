@@ -8,7 +8,7 @@ To conduct, assist, and foster research, investigation, and experimentation to d
 
 #### (b) Determination of costs
 
-To determine costs of marketing agricultural products in their various forms and through thevarious channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, and facilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
+To determine costs of marketing agricultural products in their various forms and through the various channels and to foster and assist in the development and establishment of more efficient marketing methods (including analyses of methods and proposed methods), practices, and facilities, for the purpose of bringing about more efficient and orderly marketing, and reducing the price spread between the producer and the consumer.
 
 #### (c) Improvement of standards of quality, condition, etc.; standard of quality for ice cream
 
@@ -70,7 +70,7 @@ Identification of honey.—
 
 &emsp;(A)
 
-In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
+In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lotor container of honey, preceded by the words “Product of” or other words of similar meaning.
 
 &emsp;(B)
 
@@ -88,7 +88,7 @@ To assist in improving transportation services and facilities and in obtaining e
 
 To collect, tabulate, and disseminate statistics on marketing agricultural products, including, but not restricted to statistics on market supplies, storage stocks, quantity, quality, and condition of such products in various positions in the marketing channel, utilization of such products, and shipments and unloads thereof.
 
-#### (<i>l</i>) Development of procurement standards and specifications
+#### (l) Development of procurement standards and specifications
 
 To develop and promulgate, for the use and at the request of any Federal agency or State, procurement standards and specifications for agricultural products, and submit such standards and specifications to such agency or State for use or adoption for procurement purposes.
 
@@ -108,7 +108,7 @@ To establish within the Department of Agriculture a voluntary fee based grading 
 
 &emsp;&emsp;(B) that the Secretary considers appropriate.
 
-#### (<i>o</i>) General research, services, and activities
+#### (o) General research, services, and activities
 
 To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
@@ -126,7 +126,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (h). Pub. L. 110–246, §10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 110–246, §11016(a), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
+Subsecs. (n), (o). Pub. L. 110–246, §11016(a), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -144,7 +144,7 @@ Subsec. (j). Pub. L. 98–443 struck out “the Civil Aeronautics Board” after
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Pub. L. 110–234, title X, §10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, §4(a), title X, §10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\].”
 

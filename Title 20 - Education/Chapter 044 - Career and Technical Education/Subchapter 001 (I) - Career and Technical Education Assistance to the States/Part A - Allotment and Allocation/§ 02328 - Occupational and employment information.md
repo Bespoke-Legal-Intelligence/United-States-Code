@@ -22,13 +22,13 @@ From funds appropriated under subsection (g), the Secretary, in consultation wit
 
 #### (2) Contents
 
-&emsp;Each application submitted under paragraph (1) shall include a description of how the jointly designated State entity described in subsection (c) will provide information based on trends provided pursuant to section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] to inform program development.
+&emsp;Each application submitted under paragraph (1) shall include a description of how the jointly designated State entity described in subsection (c) will provide information based on trends provided pursuant to section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\] to inform program development.
 
 #### (c) State level activities
 
 In order for a State to receive a grant under this section, the eligible agency and the Governor of the State shall jointly designate an entity in the State—
 
-&emsp;(1) to provide support for career guidance and academic counseling programs designed to promote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
+&emsp;(1) to provide support for career guidance and academic counseling programs designed topromote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
 
 &emsp;(2) to make available to students, parents, teachers, administrators, faculty, and career guidance and academic counselors, and to improve accessibility with respect to, information and planning resources that relate academic and career and technical educational preparation to career goals and expectations;
 
@@ -36,7 +36,7 @@ In order for a State to receive a grant under this section, the eligible agency 
 
 &emsp;(4) to assist appropriate State entities in tailoring career related educational resources and training for use by such entities, including information on high skill, high wage, or high demand occupations in current or emerging professions and on career ladder information;
 
-&emsp;(5) to improve coordination and communication among administrators and planners of programs authorized by this chapter and by section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] at the Federal, State, and local levels to ensure nonduplication of efforts and the appropriate use of shared information and data;
+&emsp;(5) to improve coordination and communication among administrators and planners of programs authorized by this chapter and by section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\] at the Federal, State, and local levels to ensure nonduplication of efforts and the appropriate use of shared information and data;
 
 &emsp;(6) to provide ongoing means for customers, such as students and parents, to provide comments and feedback on products and services and to update resources, as appropriate, to better meet customer requirements; and
 
@@ -46,13 +46,13 @@ In order for a State to receive a grant under this section, the eligible agency 
 
 &emsp;&emsp;(B) information on occupation supply and demand; and
 
-&emsp;&emsp;(C) other information provided pursuant to section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] as the jointly designated State entity considers relevant.
+&emsp;&emsp;(C) other information provided pursuant to section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\] as the jointly designated State entity considers relevant.
 
 #### (d) Nonduplication
 
 #### (1) Wagner-Peyser Act
 
-&emsp;The jointly designated State entity described under subsection (c) may use funds provided under subsection (a)(2) to supplement activities under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] to the extent such activities do not duplicate activities assisted under such section.
+&emsp;The jointly designated State entity described under subsection (c) may use funds provided under subsection (a)(2) to supplement activities under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\] to the extent such activities do not duplicate activities assisted under such section.
 
 #### (2) Public Law 105–220
 
@@ -74,7 +74,7 @@ The Secretary, in consultation with appropriate Federal agencies, shall prepare 
 
 &emsp;(2) a description of the specific products and services assisted under this section that were delivered in the prior program year; and
 
-&emsp;(3) an assessment of the extent to which States have effectively coordinated activitiesassisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\].
+&emsp;(3) an assessment of the extent to which States have effectively coordinated activities assisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\].
 
 #### (g) Authorization of appropriations
 

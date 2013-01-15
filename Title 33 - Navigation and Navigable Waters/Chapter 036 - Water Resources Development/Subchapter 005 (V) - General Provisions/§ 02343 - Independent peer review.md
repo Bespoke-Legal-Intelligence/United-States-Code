@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(iii) has no substantial adverse impacts on fish and wildlife species and their habitat prior to the implementation of mitigation measures; and
 
-&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species underthe Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
+&emsp;&emsp;&emsp;(iv) has, before implementation of mitigation measures, no more than a negligible adverse impact on a species listed as endangered or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the critical habitat of such species designated under such Act;
 
 &emsp;&emsp;(B) if the project study—
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) has minimal life safety risk; or
 
-&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
+&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title,section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
 
 #### (6) Determination of total cost
 
@@ -134,7 +134,7 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;A panel of experts established under this section shall—
 
-&emsp;&emsp;(A) complete its peer review under this section for a project study and submit a report to the Chief of Engineers under subsection (d)(5) not more than 60 days after the last day of the public comment period forthe draft project study, or, if the Chief of Engineers determines that a longer period of time is necessary, such period of time determined necessary by the Chief of Engineers; and
+&emsp;&emsp;(A) complete its peer review under this section for a project study and submit a report to the Chief of Engineers under subsection (d)(5) not more than 60 days after the last day of the public comment period for the draft project study, or, if the Chief of Engineers determines that a longer period of time is necessary, such period of time determined necessary by the Chief of Engineers; and
 
 &emsp;&emsp;(B) terminate on the date of initiation of the State and agency review required by section 701–1 of this title.
 
@@ -146,7 +146,7 @@ A panel of experts established for a peer review for a project study under this 
 
 #### (1) Consideration by the Chief of Engineers
 
-&emsp;After receiving a report on a project study from a panel of experts under this section and before entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
+&emsp;After receiving a report on a project study from a panel of experts under this section andbefore entering a final record of decision for the project, the Chief of Engineers shall consider any recommendations contained in the report and prepare a written response for any recommendations adopted or not adopted.
 
 #### (2) Public availability and transmittal to Congress
 
@@ -196,7 +196,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer rev
 
 Nothing in this section shall be construed to affect any authority of the Chief of Engineers to cause or conduct a peer review of a water resources project existing on November 8, 2007.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section, the following definitions apply:
 
@@ -228,7 +228,7 @@ In this section, the following definitions apply:
 
 #### (4) Total cost
 
-&emsp;The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodicnourishment over the life of the project, the term includes the total cost of the nourishment.
+&emsp;The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
 (Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086.)
 
@@ -240,5 +240,5 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 

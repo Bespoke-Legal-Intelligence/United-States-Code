@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for plan
 
-Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292<i>o</i>) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(<i>o</i>) of this title as in effect prior to the enactment of section 1078–3 of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
+Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(o) of this title as in effect prior to the enactment of section 1078–3 of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
 
 #### (b) Applicability of other requirements
 
@@ -54,7 +54,7 @@ The Public Health Service Act, referred to in subsecs. (a), (b), (e), and (f), i
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–39, §407(b)(6)(A), substituted “or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292<i>o</i>)” for “or defined in subpart I of part C of title VII of the Public Health Service Act” and “under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39, §407(b)(6)(A), substituted “or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o)” for “or defined in subpart I of part C of title VII of the Public Health Service Act” and “under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)”.
 
 Subsec. (b). Pub. L. 111–39, §407(b)(6)(B), substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
 

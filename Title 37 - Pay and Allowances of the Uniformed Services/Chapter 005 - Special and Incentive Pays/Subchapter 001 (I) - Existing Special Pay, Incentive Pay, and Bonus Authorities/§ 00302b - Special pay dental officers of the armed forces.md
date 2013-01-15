@@ -28,7 +28,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 (3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
-(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall be paid at a rate determined by the Secretary concerned, which rate may not exceed the following:
+(4) An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-monthperiod during which an agreement executed under subsection (b) is in effect with respect to the officer. Such additional special pay shall be paid at a rate determined by the Secretary concerned, which rate may not exceed the following:
 
 &emsp;(A) $10,000 per year, if the officer has less than three years of creditable service.
 
@@ -70,7 +70,7 @@ Frequency of Payments.—Special pay payable to an officer under paragraphs (2),
 
 (e)
 
-Repayment.—An officer who does not complete the period of active duty specified in theagreement referred to in subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—An officer who does not complete the period of active duty specified in the agreement referred to in subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
@@ -186,7 +186,7 @@ Pub. L. 109–364, div. A, title VI, §615(b), Oct. 17, 2006, 120 Stat. 2249, pr
 
 #### Effective Date of 1985 Amendment
 
-Section 639(f) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section, repealing section 311 of this title, and enacting provisions set out as notes under this section\] take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §639(f), Nov. 8, 1985, 99 Stat. 651, provided that: “The amendments made by this section \[amending this section, repealing section 311 of this title, and enacting provisions set out as notes under this section\] take effect on October 1, 1985.”
 
 #### Effective Date
 
@@ -198,7 +198,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Authority for Certain Dental Officers To Execute New Agreements
 
-Section 639(c) of Pub. L. 99–145 provided that:
+Pub. L. 99–145, title VI, §639(c), Nov. 8, 1985, 99 Stat. 651, provided that:
 
 “(1) Subject to paragraphs (2) and (3), a dental officer who on October 1, 1985, is performing obligated service under an agreement under section 311 of title 37, United States Code, that—
 
@@ -218,7 +218,7 @@ Section 639(c) of Pub. L. 99–145 provided that:
 
 #### Minimum Special Pay
 
-Section 639(d) of Pub. L. 99–145, as amended by Pub. L. 99–661, div. A, title XIII, §1342(c), Nov. 14, 1986, 100 Stat. 3991, provided that:
+Pub. L. 99–145, title VI, §639(d), Nov. 8, 1985, 99 Stat. 651, as amended by Pub. L. 99–661, div. A, title XIII, §1342(c), Nov. 14, 1986, 100 Stat. 3991, provided that:
 
 “(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
 

@@ -120,7 +120,7 @@ Subsecs. (h) to (j). Pub. L. 102–486, §2902(e)–(g), added subsecs. (h) to (
 
 #### Effective Date of 1992 Amendment
 
-Section 2902(i) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 (42 U.S.C. 5851(b)(1)) on or after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Pub. L. 102–486, title XXIX, §2902(i), Oct. 24, 1992, 106 Stat. 3125, provided that: “The amendments made by this section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 (42 U.S.C. 5851(b)(1)) on or after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Transfer of Functions
 

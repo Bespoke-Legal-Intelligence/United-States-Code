@@ -22,7 +22,7 @@ Elements.—The Secretary shall ensure that the Department information security 
 
 &emsp;(4) Subordinate plans for providing adequate security for networks, facilities, systems, or groups of information systems, as appropriate.
 
-&emsp;(5) Annual security awareness training for all Department employees, contractors, and all other users of VA sensitive data and Department information systems that identifies the information security risks associated with the activities of such employees, contractors, and users and the responsibilities of such employees, contractors, and users to comply withDepartment policies and procedures designed to reduce such risks.
+&emsp;(5) Annual security awareness training for all Department employees, contractors, and all other users of VA sensitive data and Department information systems that identifies the information security risks associated with the activities of such employees, contractors, and users and the responsibilities of such employees, contractors, and users to comply with Department policies and procedures designed to reduce such risks.
 
 &emsp;(6) Periodic testing and evaluation of the effectiveness of security controls based on risk, including triennial certification testing of all management, operational, and technical controls, and annual testing of a subset of those controls for each Department system.
 

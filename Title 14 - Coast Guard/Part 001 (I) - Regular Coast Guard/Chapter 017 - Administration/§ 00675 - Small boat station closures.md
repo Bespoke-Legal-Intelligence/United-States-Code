@@ -2,7 +2,7 @@
 
 (a)
 
-Closures.—The Secretary of Homeland Security may not close a Coast Guard multimission small boat station or subunit unless the Secretary—
+Closures.—The Secretary may not close a Coast Guard multimission small boat station or subunit unless the Secretary—
 
 &emsp;(1) determines that—
 
@@ -18,9 +18,11 @@ Closures.—The Secretary of Homeland Security may not close a Coast Guard multi
 
 Operational Flexibility.—The Secretary may implement any management efficiencies within the small boat station system, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide. No stations or subunits may be closed under this subsection except in accordance with subsection (a).
 
-(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §674; renumbered §675, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §674; renumbered §675, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, §217(13), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–213 substituted “Secretary may not” for “Secretary of Homeland Security may not” in introductory provisions.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, which directed amendment of section 674 of this title by substituting “of Homeland Security” for “of Transportation” in introductory provisions, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 674 of this title as this section by Pub. L. 107–295, see below.
 

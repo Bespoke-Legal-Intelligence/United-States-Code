@@ -40,7 +40,7 @@ In General.—Except as provided in subsection (b), the provisions of this title
 
 “(b)
 
-Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and 2483 of this title and sections 7144a to 7144c of Title 42, amending section7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
+Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2451 and former section 2483 of this title and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending section 7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
 “(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
 
@@ -124,7 +124,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 
 
 #### Report Containing Implementation Plan of Secretary of Energy
 
-Pub. L. 106–65, div. C, title XXXII, §3297, Oct. 5, 1999, 113 Stat. 971, provided that: “Not later than January 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's plan for the implementation of the provisions of this title \[see Short Title note set out above\].”
+Pub. L. 106–65, div. C, title XXXII, §3297, Oct. 5, 1999, 113 Stat. 971, which provided that not later than January 1, 2000, the Secretary of Energy was to submit to the Armed Services committees a report containing the Secretary's plan for the implementation of the provisions of this title, was repealed by Pub. L. 112–239, div. C, title XXXI, §3132(c)(1)(D), Jan. 2, 2013, 126 Stat. 2187.
 
 #### Classification in United States Code
 

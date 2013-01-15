@@ -1,6 +1,4 @@
 
-1 U.S.C.<br>United States Code, 2011 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 1—GENERAL PROVISIONS
 
 <i>This title was enacted by act July 30, 1947, ch. 388, §1, 61 Stat. 633</i>

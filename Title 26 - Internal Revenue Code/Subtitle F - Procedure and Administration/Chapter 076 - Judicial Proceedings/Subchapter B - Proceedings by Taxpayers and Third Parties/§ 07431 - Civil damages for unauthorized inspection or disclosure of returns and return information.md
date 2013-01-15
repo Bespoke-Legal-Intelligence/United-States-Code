@@ -126,7 +126,7 @@ Amendment by section 6012(b)(3) of Pub. L. 105–206 effective, except as otherw
 
 #### Effective Date of 1997 Amendments
 
-Section 3(e) of Pub. L. 105–35 provided that: “The amendments made by this section \[amending this section\] shall apply to inspections and disclosures occurring on and after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–35, §3(e), Aug. 5, 1997, 111 Stat. 1106, provided that: “The amendments made by this section \[amending this section\] shall apply to inspections and disclosures occurring on and after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by Pub. L. 105–34 effective on the day 9 months after Aug. 5, 1997, see section 1205(d) of Pub. L. 105–34, set out as a note under section 6103 of this title.
 
@@ -136,5 +136,5 @@ Amendment by Pub. L. 98–67 effective Aug. 5, 1983, see section 110(c) of Pub. 
 
 #### Effective Date
 
-Section 357(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section and repealing section 7217 of this title\] shall apply with respect to disclosures made after the date of enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §357(c), Sept. 3, 1982, 96 Stat. 646, provided that: “The amendments made by this section \[enacting this section and repealing section 7217 of this title\] shall apply with respect to disclosures made after the date of enactment of this Act \[Sept. 3, 1982\].”
 

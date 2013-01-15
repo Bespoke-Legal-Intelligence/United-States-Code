@@ -20,7 +20,7 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 (2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of this subsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customs laws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
 
-(3) A person violating a regulation made applicable under paragraph (1)(E) of this subsectionor an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
+(3) A person violating a regulation made applicable under paragraph (1)(E) of this subsection or an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
 
 (4) In addition to any other penalty, when a controlled substance described in section 1584 of this title is found on, or to have been unloaded from, an aircraft to which this subsection applies, the owner of, or individual commanding, the aircraft is liable to the Government for the penalties provided in section 1584 of this title for each violation unless the owner or individual, by a preponderance of the evidence, demonstrates that the owner or individual did not know, and by exercising the highest degree of care and diligence, could not have known, that a controlled substance was on the aircraft.
 
@@ -56,7 +56,7 @@ A civil penalty under this section may be collected by bringing a civil action a
 
 #### (g) Authorization of appropriations
 
-Necessary amounts may be appropriated to allow the head of a department, agency, or instrumentality of the Government to acquire space at a public airport (as defined in section 47102 of title 49) when the head decides the space is necessary to carry out inspections, clearance, collection of taxes or duties, or a similar responsibility of the head, related to transporting passengers or property in air commerce. The head must consult with the Secretary of Transportation before making a decision on space.
+Necessary amounts may be appropriated to allow the head of a department, agency, or instrumentality of the Government to acquirespace at a public airport (as defined in section 47102 of title 49) when the head decides the space is necessary to carry out inspections, clearance, collection of taxes or duties, or a similar responsibility of the head, related to transporting passengers or property in air commerce. The head must consult with the Secretary of Transportation before making a decision on space.
 
 (Pub. L. 103–272, §2, July 5, 1994, 108 Stat. 1358.)
 

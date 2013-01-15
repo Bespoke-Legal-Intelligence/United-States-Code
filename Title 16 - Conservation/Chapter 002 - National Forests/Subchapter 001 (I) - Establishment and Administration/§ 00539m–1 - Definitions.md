@@ -56,7 +56,7 @@ In sections 539m to 539m–12 of this title:
 
 #### (4) La Luz tract
 
-&emsp;The term “La Luz tract” means the tract comprised of approximately 31 acres of land owned in fee by the Pueblo and depicted on the map.
+&emsp;The term “La Luz tract” means the tract comprised of approximately 31 acres of landowned in fee by the Pueblo and depicted on the map.
 
 #### (5) Local public body
 

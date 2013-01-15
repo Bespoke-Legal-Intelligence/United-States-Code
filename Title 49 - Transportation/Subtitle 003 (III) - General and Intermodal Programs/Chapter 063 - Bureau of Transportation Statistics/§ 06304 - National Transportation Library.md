@@ -1,0 +1,66 @@
+### §6304. National Transportation Library
+
+(a)
+
+Purpose and Establishment.—To support the information management and decisionmaking needs of transportation officials at the Federal, State, and local levels, there is established in the Bureau a National Transportation Library which shall—
+
+&emsp;(1) be headed by an individual who is highly qualified in library and information science;
+
+&emsp;(2) acquire, preserve, and manage transportation information and information products and services for use by the Department, other Federal agencies, and the general public;
+
+&emsp;(3) provide reference and research assistance;
+
+&emsp;(4) serve as a central depository for research results and technical publications of the Department;
+
+&emsp;(5) provide a central clearinghouse for transportation data and information of the Federal Government;
+
+&emsp;(6) serve as coordinator and policy lead for transportation information access;
+
+&emsp;(7) provide transportation information and information products and services to—
+
+&emsp;&emsp;(A) the Department;
+
+&emsp;&emsp;(B) other Federal agencies;
+
+&emsp;&emsp;(C) public and private organizations; and
+
+&emsp;&emsp;(D) individuals, within the United States and internationally;
+
+&emsp;(8) coordinate efforts among, and cooperate with, transportation libraries, information providers, and technical assistance centers, in conjunction with private industry and othertransportation library and information centers, with the goal of developing a comprehensive transportation information and knowledge network that supports the activities described in section 6302(b)(3)(B)(vi); and
+
+&emsp;(9) engage in such other activities as the Director determines to be necessary and as the resources of the Library permit.
+
+(b)
+
+Access.—The Director shall publicize, facilitate, and promote access to the information products and services described in subsection (a), to improve the ability of the transportation community to share information and the ability of the Director to make statistics and other information readily accessible as required under section 6302(b)(3)(B)(x).
+
+(c)
+
+Agreements.—
+
+&emsp;(1)
+
+In general.—To carry out this section, the Director may enter into agreements with, award grants to, and receive amounts from, any—
+
+&emsp;&emsp;(A) State or local government;
+
+&emsp;&emsp;(B) organization;
+
+&emsp;&emsp;(C) business; or
+
+&emsp;&emsp;(D) individual.
+
+&emsp;(2)
+
+Contracts, grants, and agreements.—The Library may initiate and support specific information and data management, access, and exchange activities in connection with matters relating to the Department's strategic goals, knowledge networking, and national and international cooperation, by entering into contracts or other agreements or awarding grants for the conduct of such activities.
+
+&emsp;(3)
+
+Amounts.—Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Research and Innovative Technology Administration's general fund account, and remain available until expended.
+
+(Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 890.)
+
+#### Effective Date
+
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+

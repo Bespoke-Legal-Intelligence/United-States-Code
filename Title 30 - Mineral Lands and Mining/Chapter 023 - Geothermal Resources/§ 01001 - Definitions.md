@@ -42,7 +42,7 @@ Pub. L. 109–58, title II, §221, Aug. 8, 2005, 119 Stat. 660, provided that: �
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–443 provided that: “This Act \[enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of this title\] may be known as the ‘Geothermal Steam Act Amendments of 1988’.”
+Pub. L. 100–443, §1, Sept. 22, 1988, 102 Stat. 1766, provided that: “This Act \[enacting sections 1026 and 1027 of this title, amending this section and sections 191, 226–3, 1005, 1017, and 1019 of this title, and enacting provisions set out as notes under sections 1005 and 1026 of this title\] may be known as the ‘Geothermal Steam Act Amendments of 1988’.”
 
 #### Short Title
 

@@ -10,7 +10,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(3) hold such hearings, sit and act at such times and places, and take such testimony, as the Secretary determines to be appropriate;
 
-&emsp;(4) request directly, from any Federal agency, board, commission, office, or independent establishment, such information, suggestions, estimates, and statistics as the Secretary determines to be necessary to carry out this chapter (and each Federal agency, board, commission, office, or independent establishment may provide such information, suggestions, estimates, and statistics directly to the Secretary);
+&emsp;(4) request directly, from any Federal agency, board, commission, office, or independent establishment, such information, suggestions, estimates, and statistics as the Secretary determines to be necessary to carry out thischapter (and each Federal agency, board, commission, office, or independent establishment may provide such information, suggestions, estimates, and statistics directly to the Secretary);
 
 &emsp;(5) under regulations promulgated by the Secretary—
 

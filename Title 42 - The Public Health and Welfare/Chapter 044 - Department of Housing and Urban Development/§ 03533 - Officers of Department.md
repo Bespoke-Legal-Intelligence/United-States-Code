@@ -2,7 +2,9 @@
 
 #### (a) Deputy Secretary, Assistant Secretaries, and General Counsel
 
-There shall be in the Department a Deputy Secretary, eight Assistant Secretaries, and a General Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
+(1) There shall be in the Department a Deputy Secretary, 7 Assistant Secretaries, and a General Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
+
+(2) There shall be in the Department an Assistant Secretary for Public Affairs, who shall be appointed by the President and shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
 
 #### (b) Federal Housing Commissioner
 
@@ -120,7 +122,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 &emsp;In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
-(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163.)
+(Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2),Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285.)
 
 #### References in Text
 
@@ -133,6 +135,8 @@ Section 6 of the Expand and Preserve Home Ownership Through Counseling Act, refe
 Section was formerly classified to section 624b of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 designated existing provisions as par. (1), substituted “7” for “eight” in par. (1), and added par. (2).
 
 <b>2010</b>—Subsec. (g). Pub. L. 111–203 added subsec. (g).
 
@@ -171,6 +175,10 @@ Pub. L. 90–284 increased number of Assistant Secretaries from four to five.
 <b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out provision setting compensation for the Under Secretary, Assistant Secretaries, and General Counsel.
 
 Subsec. (b). Pub. L. 90–83 struck out provision covering the compensation to be paid the Assistant Secretary for Administration.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2010 Amendment
 

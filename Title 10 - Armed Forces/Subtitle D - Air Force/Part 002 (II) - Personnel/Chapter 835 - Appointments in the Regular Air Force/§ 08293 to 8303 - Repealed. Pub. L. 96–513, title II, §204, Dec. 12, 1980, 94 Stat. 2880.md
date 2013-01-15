@@ -20,7 +20,7 @@ Section 8301, acts Aug. 10, 1956, ch. 1041, 70A Stat. 513; Aug. 21, 1957, Pub. L
 
 Section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to promotion to captain, major, or lieutenant colonel of commissioned medical, dental, or veterinary officers in Regular Air Force upon examination of professional fitness and effect upon failure of promotion. See sections 631 and 632 of this title.
 
-Section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957, Pub. L. 85–155, title III, §301(13), 71 Stat. 388; July 12, 1960, Pub. L. 86–616, §6(3), 74 Stat. 391; June 28, 1962, Pub. L. 87–509, §4(a), 76 Stat. 121; Nov. 8, 1967, Pub. L. 90–130, §1(27)(D), 81 Stat. 382, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under section 8299 of this title to be recommended for promotion, which officer was to be know as a “deferred officer”. See sections 631 and 632 of this title.
+Section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957, Pub. L. 85–155, title III, §301(13), 71 Stat.388; July 12, 1960, Pub. L. 86–616, §6(3), 74 Stat. 391; June 28, 1962, Pub. L. 87–509, §4(a), 76 Stat. 121; Nov. 8, 1967, Pub. L. 90–130, §1(27)(D), 81 Stat. 382, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under section 8299 of this title to be recommended for promotion, which officer was to be know as a “deferred officer”. See sections 631 and 632 of this title.
 
 #### Effective Date of Repeal
 

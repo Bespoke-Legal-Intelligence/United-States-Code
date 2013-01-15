@@ -8,7 +8,7 @@
 
 #### (2) Later establishment
 
-&emsp;With regard to any ivory producing country for which the Secretary has insufficient information to make a determination pursuant to section 4221(b) of this title, the Secretary shall establish a moratorium on the importation of raw and worked ivory from such country not later than January 1, 1990, unless, based on new information, the Secretary concludes before that date that the country meets all of the criteria set forth in section 4221(b)(1) of this title.
+&emsp;With regard to any ivory producing country for which the Secretary has insufficient information to make a determination pursuant to section 4221(b) of this title, the Secretary shallestablish a moratorium on the importation of raw and worked ivory from such country not later than January 1, 1990, unless, based on new information, the Secretary concludes before that date that the country meets all of the criteria set forth in section 4221(b)(1) of this title.
 
 #### (b) Intermediary countries
 

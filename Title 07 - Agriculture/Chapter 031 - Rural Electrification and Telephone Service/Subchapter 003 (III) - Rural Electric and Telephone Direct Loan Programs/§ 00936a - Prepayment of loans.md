@@ -50,7 +50,7 @@ Pub. L. 100–203, title I, §1401, Dec. 22, 1987, 101 Stat. 1330–20, provided
 
 “(a)
 
-Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of section 306A of the Rural Electrification Act of 1936 (7 U.S.C. 936a(c), (d), and (e)), during fiscal year 1988, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with subsections (a) and (b) of section 306A of such Act, except that any prepayment that would cause the total amount of such prepayments during fiscal year 1988 to exceed $2,000,000,000 shall be subject solely to the approval of the Secretary of the Treasury.
+Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of section 306A of the Rural Electrification Act of 1936 (7 U.S.C. 936a(c), (d), and (e)), during fiscal year 1988, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with subsections (a) and (b) of section 306A of such Act, except that any prepayment that would cause the total amount of such prepayments during fiscal year 1988 to exceed $2,000,000,000shall be subject solely to the approval of the Secretary of the Treasury.
 
 “(b)
 
@@ -94,7 +94,7 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that: 
 
 #### Regulations
 
-Section 1011(c) of Pub. L. 99–509 provided that: “The Secretary of Agriculture shall issue regulations to implement this section \[enacting sections 936a and 936b of this title and repealing provisions set out as a note under section 936 of this title\] within 60 days after the date of enactment of this Act \[Oct. 21, 1986\]. Such regulations—
+Pub. L. 99–509, title I, §1011(c), Oct. 21, 1986, 100 Stat. 1876, provided that: “The Secretary of Agriculture shall issue regulations to implement this section \[enacting sections 936a and 936b of this title and repealing provisions set out as a note under section 936 of this title\] within 60 days after the date of enactment of this Act \[Oct. 21, 1986\]. Such regulations—
 
 &emsp;“(1) shall facilitate prepayment of loans under section 306A of the Rural Electrification Act of 1936 \[this section\], as added by subsection (a); and
 

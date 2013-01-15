@@ -44,7 +44,7 @@ In this section:
 
 #### (B) Reallotment
 
-&emsp;&emsp;If a State Commission does not apply for an allotment under this subsection for anyfiscal year, or if the State Commission's application is not approved, the Corporation shall reallot the amount of the State Commission's allotment to the remaining State Commissions in accordance with subparagraph (A).
+&emsp;&emsp;If a State Commission does not apply for an allotment under this subsection for any fiscal year, or if the State Commission's application is not approved, the Corporation shall reallot the amount of the State Commission's allotment to the remaining State Commissions in accordance with subparagraph (A).
 
 #### (C) Administrative costs
 
@@ -138,7 +138,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) provide an amount described in subsection (e)(3)(b) <sup>1</sup> for each fellow serving with the organization through the ServeAmerica Fellowship;
 
-&emsp;&emsp;&emsp;(iii) be responsible for certifying whether each fellow serving with the organizationsuccessfully completed the ServeAmerica Fellowship, and record and certify in a manner specified by the Corporation the number of hours served by a fellow for purposes of determining the fellow's eligibility for benefits; and
+&emsp;&emsp;&emsp;(iii) be responsible for certifying whether each fellow serving with the organization successfully completed the ServeAmerica Fellowship, and record and certify in a manner specified by the Corporation the number of hours served by a fellow for purposes of determining the fellow's eligibility for benefits; and
 
 &emsp;&emsp;&emsp;(iv) provide timely access to records relating to the ServeAmerica Fellowship to the State Commission, the Corporation, and the Inspector General of the Corporation.
 
@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the State Commission shall revoke the registration of the organization;
 
-&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved national service positions, or approved summer of service positions under this subchapter for not less than 5 years; and
+&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved nationalservice positions, or approved summer of service positions under this subchapter for not less than 5 years; and
 
 &emsp;&emsp;&emsp;(iii) the State Commission shall have the right to remove a fellow from the organization and relocate the fellow to another site.
 
@@ -220,7 +220,7 @@ In this section:
 
 #### (F) Definition
 
-&emsp;&emsp;In this paragraph, the term “average annual VISTA subsistence allowance” meansthe total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;&emsp;In this paragraph, the term “average annual VISTA subsistence allowance” means the total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (f) Compliance with ineligible service categories
 

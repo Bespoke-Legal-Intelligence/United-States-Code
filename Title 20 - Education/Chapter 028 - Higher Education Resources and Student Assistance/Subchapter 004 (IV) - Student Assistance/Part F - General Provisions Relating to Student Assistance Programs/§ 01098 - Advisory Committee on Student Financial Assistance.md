@@ -24,7 +24,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted tothe Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -32,7 +32,7 @@ In the exercise of its functions, powers, and duties, the Advisory Committee sha
 
 &emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
 
-&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
+&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader ofthe House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
 
 &emsp;(C) Three members shall be appointed by the Secretary, of whom at least one member shall be a student.
 
@@ -130,7 +130,7 @@ The Advisory Committee shall—
 
 &emsp;(3) assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, as well as policies that promote use of such technology to reduce cost and enhance service and program integrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
 
-&emsp;(4) conduct a review and analysis of regulations in accordance with subsection (<i>l</i>); and
+&emsp;(4) conduct a review and analysis of regulations in accordance with subsection (l); and
 
 &emsp;(5) conduct a study in accordance with subsection (m).
 
@@ -138,7 +138,7 @@ The Advisory Committee shall—
 
 Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2014.
 
-#### (<i>l</i>) Review and analysis of regulations
+#### (l) Review and analysis of regulations
 
 #### (1) Recommendations
 
@@ -166,7 +166,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;&emsp;(ii) provides an area for the experts and members of the public to provide recommendations for ways in which the regulations may be streamlined; and
 
-&emsp;&emsp;&emsp;(iii) publishes the study conducted by the National Research Council of the National Academy of Sciences under section 1106 of the Higher Education Opportunity Act.
+&emsp;&emsp;&emsp;(iii) publishes the study conducted by the National Research Council of the National Academy of Sciences under section1106 of the Higher Education Opportunity Act.
 
 #### (3) Consultation
 
@@ -232,7 +232,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 #### (A) Interim report
 
-&emsp;&emsp;The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008, describing the progress made in conducting the study required by this subsection and any preliminary findings on the topics identified under paragraph (2).
+&emsp;&emsp;The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008, describing the progress made in conducting thestudy required by this subsection and any preliminary findings on the topics identified under paragraph (2).
 
 #### (B) Final report
 
@@ -246,7 +246,7 @@ Section 1233g of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Higher Education Opportunity Act, referred to in subsec. (<i>l</i>)(4)(A), is Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Section 1106 of the Act is not classified to the Code. For complete classification of such Act to the Code, see Short Title of 2008 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Opportunity Act, referred to in subsec. (l)(4)(A), is Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Section 1106 of the Act is not classified to the Code. For complete classification of such Act to the Code, see Short Title of 2008 Amendment note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -256,7 +256,7 @@ Another prior section 491 of Pub. L. 89–329 amended former section 403 of this
 
 #### Amendments
 
-<b>2009</b>—Subsec. (<i>l</i>)(2)(A). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
+<b>2009</b>—Subsec. (l)(2)(A). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §494C(b), substituted “authorizing committees” for “Congress”.
 
@@ -284,7 +284,7 @@ Subsec. (j)(4), (5). Pub. L. 110–315, §494C(a)(5)(B), added pars. (4) and (5)
 
 Subsec. (k). Pub. L. 110–315, §494C(a)(6), substituted “2014” for “2004”.
 
-Subsecs. (<i>l</i>), (m). Pub. L. 110–315, §494C(a)(7), added subsecs. (<i>l</i>) and (m).
+Subsecs. (l), (m). Pub. L. 110–315, §494C(a)(7), added subsecs. (l) and (m).
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–244, §490C(1), substituted “, expenditures and staffing levels” for “and expenditures” in second sentence and inserted “Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary.” after third sentence.
 
@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 105–244, §490C(3), substituted “Members of the Advisor
 
 “(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each”.
 
-Subsec. (h)(1). Pub. L. 105–244, §490C(4), inserted “determined” after “as may be” and inserted at end “TheAdvisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.”
+Subsec. (h)(1). Pub. L. 105–244, §490C(4), inserted “determined” after “as may be” and inserted at end “The Advisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.”
 
 Subsec. (i). Pub. L. 105–244, §490C(5), substituted “$800,000” for “$750,000”.
 
@@ -312,7 +312,7 @@ Subsec. (j). Pub. L. 105–244, §490C(6), amended heading and text of subsec. (
 
 Subsec. (k). Pub. L. 105–244, §490C(7), substituted “2004” for “1998”.
 
-Subsec. (<i>l</i>). Pub. L. 105–244, §490C(8), struck out heading and text of subsec. (<i>l</i>) which directed Advisory Committee to conduct a study of means of simplifying all aspects of loan programs under part B of this subchapter.
+Subsec. (l). Pub. L. 105–244, §490C(8), struck out heading and text of subsec. (l) which directed Advisory Committee to conduct a study of means of simplifying all aspects of loan programs under part B of this subchapter.
 
 <b>1993</b>—Subsec. (d)(1). Pub. L. 103–208, §2(h)(45), struck out “sections 1070a–1 through 1070a–5 of this title and” after “established under”.
 
@@ -328,7 +328,7 @@ Subsec. (h)(4). Pub. L. 102–325, §496(c), substituted “without regard to”
 
 Subsec. (i). Pub. L. 102–325, §496(d), substituted “$750,000” for “$500,000”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–325, §496(e), added subsecs. (j) to (<i>l</i>) and struck out former subsec. (j), which related to special institutional lender study.
+Subsecs. (j) to (l). Pub. L. 102–325, §496(e), added subsecs. (j) to (l) and struck out former subsec. (j), which related to special institutional lender study.
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–50, §15(16), inserted at end “The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) of this title ceased to be effective on June 23, 1983.”
 

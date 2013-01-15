@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 85–859 substituted “under this section shall be filed w
 
 #### Effective Date of 1965 Amendment
 
-Section 808(d)(2) of Pub. L. 89–44 provided that: “The amendments made by subsections (b)(1), (2), and (c) \[amending this section\] shall take effect on October 1, 1965.”
+Pub. L. 89–44, title VIII, §808(d)(2), June 21, 1965, 79 Stat. 165, provided that: “The amendments made by subsections (b)(1), (2), and (c) \[amending this section\] shall take effect on October 1, 1965.”
 
 #### Effective Date of 1958 Amendment
 

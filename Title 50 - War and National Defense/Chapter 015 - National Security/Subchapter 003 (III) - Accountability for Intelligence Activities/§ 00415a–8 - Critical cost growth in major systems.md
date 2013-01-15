@@ -24,7 +24,7 @@ If the Director of National Intelligence determines under section 415a–7(d) of
 
 &emsp;(A) the continuation of the major system is essential to the national security;
 
-&emsp;(B) there are no alternatives to the major system that will provide acceptable capabilityto meet the intelligence requirement at less cost;
+&emsp;(B) there are no alternatives to the major system that will provide acceptable capability to meet the intelligence requirement at less cost;
 
 &emsp;(C) the new estimates of the total acquisition cost have been determined by the Director to be reasonable;
 
@@ -66,7 +66,7 @@ Any report or certification required to be submitted under this section may be s
 
 (1) The Director may waive the requirements of subsections (d)(2), (e), and (g) of section 415a–7 of this title and subsections (a)(2), (b), (c), and (d) of this section with respect to a major system if the Director determines that at least 90 percent of the amount of the current Baseline Estimate for the major system has been expended.
 
-(2)(A) If the Director grants a waiver under paragraph (1) with respect to a major system, the Director shall submit to the congressional intelligence committees written notice of the waiver that includes—
+(2)(A) If the Director grants a waiver under paragraph (1) with respect to a major system,the Director shall submit to the congressional intelligence committees written notice of the waiver that includes—
 
 &emsp;(i) the information described in section 415a–7(f) of this title; and
 

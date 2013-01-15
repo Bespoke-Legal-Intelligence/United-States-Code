@@ -48,7 +48,7 @@ In implementing the Plan, the Secretaries may—
 
 #### (d) Biennial report
 
-The Secretary, through the coordinating group and in consultation with the Secretary of Commerce and the Secretary of the Interior,,<sup>1</sup> shall prepare on a biennial basis, and submit to Congress, a report on the status of aquaculture in the United States. Such report shall contain a description and evaluation of the actions undertaken with respect to the Plan during the reporting period, an explanation of any revisions made to the Plan during the reporting period,and such other comments and recommendations as the Secretary deems appropriate. The report required by this subsection shall be submitted to the Congress not later than February 1, 1988.
+The Secretary, through the coordinating group and in consultation with the Secretary of Commerce and the Secretary of the Interior,,<sup>1</sup> shall prepare on a biennial basis, and submit to Congress, a report on the status of aquaculture in the United States. Such report shall contain a description and evaluation of the actions undertaken with respect to the Plan during the reporting period, an explanation of any revisions made to the Plan during the reporting period, and such other comments and recommendations as the Secretary deems appropriate. The report required by this subsection shall be submitted to the Congress not later than February 1, 1988.
 
 (Pub. L. 96–362, §5, Sept. 26, 1980, 94 Stat. 1201; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, §1735, Dec. 23, 1985, 99 Stat. 1642; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
@@ -66,11 +66,11 @@ Subsec. (d). Pub. L. 99–198, §1735(2), substituted “Secretary” for “Sec
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Collection of Fees for Triploid Grass Carp Certification Inspections
 

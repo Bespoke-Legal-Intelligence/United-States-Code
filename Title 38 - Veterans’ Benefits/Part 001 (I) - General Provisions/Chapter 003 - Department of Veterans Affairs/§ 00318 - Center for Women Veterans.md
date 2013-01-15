@@ -52,11 +52,11 @@ Prior section 336, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, set forth the
 
 Prior sections 337, 341, and 342 were renumbered sections 1137, 1141, and 1142 of this title, respectively.
 
-Prior section 343, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, prescribed conditions under which wartime rates of compensation were payable, prior to repeal by Pub. L. 93–295, title II, §206(b), title IV, §401, May 31, 1974, 88 Stat. 183, 184, effective May 1, 1974.
+Prior section 343, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, prescribed conditions under which wartime ratesof compensation were payable, prior to repeal by Pub. L. 93–295, title II, §206(b), title IV, §401, May 31, 1974, 88 Stat. 183, 184, effective May 1, 1974.
 
 Prior sections 351 to 355 were renumbered sections 1151 to 1155 of this title, respectively.
 
-Prior section 356, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicablein case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+Prior section 356, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
 Prior sections 357 to 363 were renumbered sections 1157 to 1163 of this title, respectively.
 

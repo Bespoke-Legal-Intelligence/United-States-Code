@@ -8,5 +8,5 @@ Section 313, act June 3, 1878, ch. 151, §3, 20 Stat. 90, provided for publicati
 
 #### Existing Rights and Claims
 
-Act Aug. 1, 1955, provided that the repeal of sections 311 to 313 is subject to valid existing rights and claims.
+Act Aug. 1, 1955, ch. 448, 69 Stat. 434, provided that the repeal of sections 311 to 313 is subject to valid existing rights and claims.
 

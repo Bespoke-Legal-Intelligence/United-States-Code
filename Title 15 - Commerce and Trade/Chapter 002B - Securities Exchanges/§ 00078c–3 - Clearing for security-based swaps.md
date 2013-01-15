@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
 
-&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
+&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determinationwhether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
 #### (3) Deadline
 
@@ -70,7 +70,7 @@
 
 #### (2) Deadline
 
-&emsp;The Commission shall complete a review undertaken pursuant to paragraph (1) notlater than 90 days after issuance of the stay, unless the clearing agency that clears the security-based swap, or group, category, type, or class of security-based swaps, agrees to an extension of the time limitation established under this paragraph.
+&emsp;The Commission shall complete a review undertaken pursuant to paragraph (1) not later than 90 days after issuance of the stay, unless the clearing agency that clears the security-based swap, or group, category, type, or class of security-based swaps, agrees to an extension of the time limitation established under this paragraph.
 
 #### (3) Determination
 
@@ -200,7 +200,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (C) Transition rule for affiliates
 
-&emsp;&emsp;An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78<i>o</i>–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+&emsp;&emsp;An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
 
 #### (5) Election of counterparty
 
@@ -236,7 +236,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (i) Board approval
 
-Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
+Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
 
 #### (j) Designation of chief compliance officer
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the term “agency” means an Executive agency, as defined by section 105, but does not include the Government Accountability Office.
 
-(b) Subject to such regulations as the Office of Personnel Management may prescribe, the headof the agency concerned shall fix the rate of basic pay for each administrative appeals judge position within such agency which is not classified above GS–15 pursuant to section 5108.
+(b) Subject to such regulations as the Office of Personnel Management may prescribe, the head of the agency concerned shall fix the rate of basic pay for each administrative appeals judge position within such agency which is not classified above GS–15 pursuant to section 5108.
 
 (c) A rate of basic pay fixed under this section shall be—
 

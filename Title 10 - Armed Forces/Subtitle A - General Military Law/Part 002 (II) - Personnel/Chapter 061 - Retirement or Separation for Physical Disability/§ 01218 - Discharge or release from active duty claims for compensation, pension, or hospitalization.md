@@ -10,7 +10,7 @@
 
 (c) This section does not prevent the immediate transfer of a member to a facility of the Department of Veterans Affairs for necessary hospital care.
 
-(d)(1) The Secretary of a military department shall ensure that each member of a reserve component under the jurisdiction of the Secretary who is determined, after a mobilization and deployment to an area in which imminent danger pay is authorized under section 310 of title 37, to require evaluation for a physical or mental disability which could result in separation or retirement for disability under this chapter or placement on the temporary disability retired list or inactive status list under this chapter is retained on active duty during the disability evaluation process until such time as such member is—
+(d)(1) The Secretary of a military department shall ensure that each member of a reserve component under the jurisdiction of the Secretarywho is determined, after a mobilization and deployment to an area in which imminent danger pay is authorized under section 310 of title 37, to require evaluation for a physical or mental disability which could result in separation or retirement for disability under this chapter or placement on the temporary disability retired list or inactive status list under this chapter is retained on active duty during the disability evaluation process until such time as such member is—
 
 &emsp;(A) cleared by appropriate authorities for continuation on active duty; or
 
@@ -18,7 +18,7 @@
 
 (2)(A) A member described in paragraph (1) may request termination of active duty under such paragraph at any time during the demobilization or disability evaluation process of such member.
 
-(B) Upon a request under subparagraph (A), a member described in paragraph (1) shall only bereleased from active duty after the member receives counseling about the consequences of termination of active duty.
+(B) Upon a request under subparagraph (A), a member described in paragraph (1) shall only be released from active duty after the member receives counseling about the consequences of termination of active duty.
 
 (C) Each release from active duty under subparagraph (B) shall be thoroughly documented.
 

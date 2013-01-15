@@ -10,9 +10,21 @@ Project Grant Application Approval.—The Secretary of Transportation may approv
 
 &emsp;(3) enough money is available to pay the project costs that will not be paid by the United States Government under this subchapter;
 
-&emsp;(4) the project will be completed without unreasonable delay; and
+&emsp;(4) the project will be completed without unreasonable delay;
 
-&emsp;(5) the sponsor has authority to carry out the project as proposed.
+&emsp;(5) the sponsor has authority to carry out the project as proposed; and
+
+&emsp;(6) if the project is for an airport that has an airport master plan, the master plan addresses issues relating to solid waste recycling at the airport, including—
+
+&emsp;&emsp;(A) the feasibility of solid waste recycling at the airport;
+
+&emsp;&emsp;(B) minimizing the generation of solid waste at the airport;
+
+&emsp;&emsp;(C) operation and maintenance requirements;
+
+&emsp;&emsp;(D) the review of waste management contracts; and
+
+&emsp;&emsp;(E) the potential for cost savings or the generation of revenue.
 
 (b)
 
@@ -34,7 +46,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
 
-&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in whichthe airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
+&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
 &emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
@@ -80,11 +92,11 @@ Competition Plans.—
 
 &emsp;(1)
 
-Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
+Prohibition.—Beginning in fiscal year 2001, no passenger facility charge may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
 
 &emsp;(2)
 
-Contents.—A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
+Contents.—A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, and whether the airport intends to build or acquire gates that would be used as common facilities.
 
 &emsp;(3)
 
@@ -102,7 +114,7 @@ Covered airport defined.—In this subsection, the term “covered airport” me
 
 Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539; Pub. L. 112–95, title I, §§111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, 126 Stat. 18, 22.)
 
 Historical and Revision Notes
 
@@ -202,6 +214,12 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(6). Pub. L. 112–95, §133, added par. (6).
+
+Subsec. (f)(1). Pub. L. 112–95, §111(c)(2)(A)(i), substituted “charge” for “fee”.
+
+Subsec. (f)(2). Pub. L. 112–95, §134, struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities” and inserted “and” after “ground-side capacity,”.
+
 <b>2003</b>—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted “and” after semicolon at end.
 
 Pub. L. 108–176, §187, added cl. (iii).
@@ -222,7 +240,7 @@ Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–296 added subsec. (g).
 
-<b>2001</b>—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+<b>2001</b>—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifyingthe Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 

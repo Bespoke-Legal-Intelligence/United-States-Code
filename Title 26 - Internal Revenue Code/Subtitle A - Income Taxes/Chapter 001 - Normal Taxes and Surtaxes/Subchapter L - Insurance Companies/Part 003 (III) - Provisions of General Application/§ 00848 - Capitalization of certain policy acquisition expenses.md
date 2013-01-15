@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -206,5 +206,5 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date
 
-Section 11301(d)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
+Pub. L. 101–508, title XI, §11301(d)(1), Nov. 5, 1990, 104 Stat. 1388–449, provided that: “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
 

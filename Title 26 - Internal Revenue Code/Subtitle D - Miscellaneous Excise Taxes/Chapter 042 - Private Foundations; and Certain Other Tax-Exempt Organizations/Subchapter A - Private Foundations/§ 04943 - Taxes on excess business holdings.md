@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (7) 5-year extension of period to dispose of certain large gifts and bequests
 
-&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6) for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
+&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6)for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
 
 &emsp;&emsp;(A) the foundation establishes that—
 
@@ -306,7 +306,7 @@ Pub. L. 109–280, title XII, §1243(b), Aug. 17, 2006, 120 Stat. 1107, provided
 
 #### Effective Date of 1984 Amendment
 
-Section 307(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title III, §307(b), July 18, 1984, 98 Stat. 785, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -316,13 +316,13 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Transitional rule.—Any plan submitted to the Secretary of the Treasury or his delegate on or before the 60th day after the date of the enactment of this Act \[July 18, 1984\] shall be treated as submitted before the close of the initial 5-year period referred to in section 4943(c)(7)(B) of the Internal Revenue Code of 1986 (as added by subsection (a)).”
 
-Section 308(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to increases and decreases occurring after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title III, §308(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to increases and decreases occurring after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 309(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 \[section 101(b) of Pub. L. 91–172 which enacted this section\].”
+Pub. L. 98–369, div. A, title III, §309(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 \[section 101(b) of Pub. L. 91–172 which enacted this section\].”
 
-Section 310(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 314(c)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title III, §314(c)(2), July 18, 1984, 98 Stat. 788, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -330,5 +330,5 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 #### Savings Provision
 
-Applicability of section to private foundations, see section 101(<i>l</i>)(4) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of section to private foundations, see section 101(l)(4) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

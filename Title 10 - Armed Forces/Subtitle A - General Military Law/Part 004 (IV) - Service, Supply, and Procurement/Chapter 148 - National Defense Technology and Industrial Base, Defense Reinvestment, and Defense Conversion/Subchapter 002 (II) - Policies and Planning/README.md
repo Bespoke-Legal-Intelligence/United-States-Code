@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2501\.](%C2%A7%2002501%20-%20National%20security%20objectives%20concerning%20national%20technology%20and%20industrial%20base.md) | National security objectives concerning national technology and industrial base. |
+| [2501\.](%C2%A7%2002501%20-%20National%20security%20strategy%20for%20national%20technology%20and%20industrial%20base.md) | National security strategy for national technology and industrial base. |
 | [2502\.](%C2%A7%2002502%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%20Council.md) | National Defense Technology and Industrial Base Council. |
 | [2503\.](%C2%A7%2002503%20-%20National%20defense%20program%20for%20analysis%20of%20the%20technology%20and%20industrial%20base.md) | National defense program for analysis of the technology and industrial base. |
 | [2504\.](%C2%A7%2002504%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
@@ -14,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title XVI, §1603(a)(2), Jan. 2, 2013, 126 Stat. 2063, substituted “National security strategy for national technology and industrial base” for “National security objectives concerning national technology and industrial base” in item 2501.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title VIII, §896(b)(2), Jan. 7, 2011, 124 Stat. 4316, which directed amendment of table of sections at the beginning of this chapter by adding item 2508 at the end, was executed by adding item 2508 at the end of the table of sections at the beginning of this subchapter to reflect the probable intent of Congress.
 
@@ -28,7 +30,7 @@ Pub. L. 104–106, div. A, title X, §1081(i)(1), Feb. 10, 1996, 110 Stat. 455, 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02501 - National security objectives concerning national technology and industrial base](%C2%A7%2002501%20-%20National%20security%20objectives%20concerning%20national%20technology%20and%20industrial%20base.md)
+- [&sect; 02501 - National security strategy for national technology and industrial base](%C2%A7%2002501%20-%20National%20security%20strategy%20for%20national%20technology%20and%20industrial%20base.md)
 - [&sect; 02502 - National Defense Technology and Industrial Base Council](%C2%A7%2002502%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%20Council.md)
 - [&sect; 02503 - National defense program for analysis of the technology and industrial base](%C2%A7%2002503%20-%20National%20defense%20program%20for%20analysis%20of%20the%20technology%20and%20industrial%20base.md)
 - [&sect; 02504 - Annual report to Congress](%C2%A7%2002504%20-%20Annual%20report%20to%20Congress.md)

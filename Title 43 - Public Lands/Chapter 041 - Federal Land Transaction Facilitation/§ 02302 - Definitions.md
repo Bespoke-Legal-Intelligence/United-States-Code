@@ -8,9 +8,9 @@ In this chapter:
 
 #### (2) Federally designated area
 
-&emsp;The term “federally designated area” means land in Alaska and the eleven contiguous Western States (as defined in section 1702(<i>o</i>) of this title) that on July 25, 2000, was within the boundary of—
+&emsp;The term “federally designated area” means land in Alaska and the eleven contiguous Western States (as defined in section 1702(o) of this title) that on July 25, 2000, was within the boundary of—
 
-&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, national outstanding natural area, or a national natural landmark managed by the Bureau of Land Management;
+&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, nationaloutstanding natural area, or a national natural landmark managed by the Bureau of Land Management;
 
 &emsp;&emsp;(B) a unit of the National Park System;
 

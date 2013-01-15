@@ -6,15 +6,11 @@ Requirement.—The Secretary shall establish a uniform system to service the Fed
 
 (b)
 
-Fees.—
+Fees.—The Secretary may collect and spend fees, contingent on authority being provided in appropriations Acts, at a level that is sufficient to cover—
 
-&emsp;(1)
+&emsp;(1) the costs of services of expert firms retained pursuant to subsection (d); and
 
-In general.—The Secretary may collect and spend fees, contingent upon authority being provided in appropriations Acts, at a level that is sufficient to cover—
-
-&emsp;&emsp;(A) the costs of services of expert firms retained pursuant to subsection (d); and
-
-&emsp;&emsp;(B) all or a portion of the costs to the Federal Government of servicing the Federal credit instruments.
+&emsp;(2) all or a portion of the costs to the Federal Government of servicing the Federal credit instruments.
 
 (c)
 
@@ -26,23 +22,33 @@ In general.—The Secretary may appoint a financial entity to assist the Secreta
 
 &emsp;(2)
 
-Duties.—The servicer shall act as the agent for the Secretary.
+Duties.—A servicer appointed under paragraph (1) shall act as the agent for the Secretary.
 
 &emsp;(3)
 
-Fee.—The servicer shall receive a servicing fee, subject to approval by the Secretary.
+Fee.—A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary.
 
 (d)
 
 Assistance From Expert Firms.—The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §185; renumbered §605 and amended Pub. L. 109–59, title I, §§1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247.)
+(e)
+
+Expedited Processing.—The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under this chapter.
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §185; renumbered §605 and amended Pub. L. 109–59, title I, §§1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 619.)
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to program administration, consisting of subsecs. (a) to (d).
 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 185 of this title as this section.
 
 Pub. L. 109–59, §1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 
 Subsec. (a). Pub. L. 109–59, §1602(b)(5), substituted “this chapter” for “this subchapter”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 

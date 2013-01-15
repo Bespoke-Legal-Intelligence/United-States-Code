@@ -1,6 +1,6 @@
 ### §3210. Franked mail transmitted by the Vice President, Members of Congress, and congressional officials
 
-(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shall be established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
+(a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shallbe established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
 
 (2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but not be limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) the usual and customary congressional newsletter or press release which may deal with such matters as the impact of laws and decisions on State and local governments and individual citizens; reports on public and official actions taken by Members of Congress; and discussions of proposed or pending legislation or governmental actions and the positions of the Members of Congress on, and arguments for or against, such matters;
 
-&emsp;(C) the usual and customary congressional questionnaire seeking public opinion on anylaw, pending or proposed legislation, public issue, or subject;
+&emsp;(C) the usual and customary congressional questionnaire seeking public opinion on any law, pending or proposed legislation, public issue, or subject;
 
 &emsp;(D) mail matter dispatched by a Member of Congress between his Washington office and any congressional district offices, or between his district offices;
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
 
-> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at ordelivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
@@ -84,7 +84,7 @@
 
 (2) A Member-elect to the Congress may mail franked mail with a simplified form of address for delivery within that area constituting the congressional district or the State from which he was elected.
 
-(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail franked mail with a simplified form of address for delivery within the area from which he was elected.
+(3) A Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect to the House of Representatives may mail frankedmail with a simplified form of address for delivery within the area from which he was elected.
 
 (4) Any franked mail which is mailed under this subsection shall be mailed at the equivalent rate of postage which assures that the mail will be sent by the most economical means practicable.
 
@@ -180,11 +180,11 @@ Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
 #### Effective Date of 1996 Amendment
 
-Section 102(b) of Pub. L. 104–197 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
+Pub. L. 104–197, title I, §102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
 
 #### Effective Date of 1992 Amendment
 
-Section 309(b) of Pub. L. 102–392 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 6, 1992\].”
+Pub. L. 102–392, title III, §309(b), Oct. 6, 1992, 106 Stat. 1723, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 6, 1992\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -192,7 +192,7 @@ Amendment by section 311(h)(1) of Pub. L. 101–520 applicable with respect to s
 
 #### Effective Date of 1981 Amendment
 
-Section 3(b) of Pub. L. 97–69 provided that: “This section \[amending this section\] shall become effective 120 days after the date of enactment of this Act \[Oct. 26, 1981\].”
+Pub. L. 97–69, §3(b), Oct. 26, 1981, 95 Stat. 1042, provided that: “This section \[amending this section\] shall become effective 120 days after the date of enactment of this Act \[Oct. 26, 1981\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 
 #### Effective Date of 1973 Amendment
 
-Section 14 of Pub. L. 93–191 provided that:
+Pub. L. 93–191, §14, Dec. 18, 1973, 87 Stat. 746, provided that:
 
 “(a) Except as provided in subsection (b) of this section, the provisions of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] shall become effective on the date of enactment of this Act \[Dec. 18, 1973\].
 
@@ -208,7 +208,7 @@ Section 14 of Pub. L. 93–191 provided that:
 
 #### Separability
 
-Section 15 of Pub. L. 93–191 provided that: “If a provision of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3214 to 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] is held invalid, all valid provisions severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, such provision remains in effect in all valid applications severable from the invalid application or applications.”
+Pub. L. 93–191, §15, Dec. 18, 1973, 87 Stat. 746, provided that: “If a provision of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3214 to 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] is held invalid, all valid provisions severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, such provision remains in effect in all valid applications severable from the invalid application or applications.”
 
 #### Mass Mailings by Senators
 
@@ -220,7 +220,7 @@ Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(
 
 “
 
-Sec. 6. (a) This section shall apply to mailings by Senators, made during fiscal year 1995 and each fiscal year thereafter in addition to any other law relating to the use of the franking privilege.
+Sec. 6. (a) This section shall apply to mailings by Senators, made during fiscal year 1995 and each fiscalyear thereafter in addition to any other law relating to the use of the franking privilege.
 
 “(b) For the purposes of this paragraph—
 
@@ -244,11 +244,11 @@ Sec. 6. (a) This section shall apply to mailings by Senators, made during fiscal
 
 “(d) The Senate Committee on Rules and Administration shall prescribe rules and regulations and take other action as the Committee considers necessary and proper for Senators to comply with this section and regulations.”
 
-Section 316(a), formerly section 316(a), (b), of Pub. L. 101–163, as renumbered and amended by Pub. L. 101–520, title III, §311(h)(3), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–392, title III, §308(a), Oct. 6, 1992, 106 Stat. 1722, provided that: “Effective January 1, 1990, a mass mailing (as defined in section 3210(a)(6)(E) of title 39, United States Code) by a Senator shall be limited to 2 sheets of paper (or their equivalent), including any enclosure that—
+Pub. L. 101–163, §316(a), formerly §316(a), (b), as renumbered and amended by Pub. L. 101–520, title III, §311(h)(3), Nov. 5, 1990, 104 Stat. 2280; Pub. L. 102–392, title III, §308(a), Oct. 6, 1992, 106 Stat. 1722, provided that: “Effective January 1, 1990, a mass mailing (as defined in section 3210(a)(6)(E) of title 39, United States Code) by a Senator shall be limited to 2 sheets of paper (or their equivalent), including any enclosure that—
 
 &emsp;“(1) is prepared by or for the Senator who makes the mailing; or
 
 &emsp;“(2) contains information concerning, expresses the views of, or otherwise relates to the Senator who makes the mailing.”
 
-\[Section 308(b) of Pub. L. 102–392 provided that: “The amendments made by subsection (a) \[amending section 316(a) of Pub. L. 101–163, set out above\] shall take effect on October 1, 1992.”\]
+\[Pub. L. 102–392, title III, §308(b), Oct. 6, 1992, 106 Stat. 1722, provided that: “The amendments made by subsection (a) \[amending section 316(a) of Pub. L. 101–163, set out above\] shall take effect on October 1, 1992.”\]
 

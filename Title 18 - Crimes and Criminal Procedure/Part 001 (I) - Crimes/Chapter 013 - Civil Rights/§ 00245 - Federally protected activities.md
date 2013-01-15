@@ -78,9 +78,9 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Fair Housing
 
-Section 101(b) of Pub. L. 90–284 provided that: “Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\].”
+Pub. L. 90–284, title I, §101(b), Apr. 11, 1968, 82 Stat. 75, provided that: “Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\].”
 
 #### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
 
-Section 101(c) of Pub. L. 90–284 provided that: “The provisions of this section \[enacting this section\] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in section 101(9) of title 10, United States Code, members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
+Pub. L. 90–284, title I, §101(c), Apr. 11, 1968, 82 Stat. 75, provided that: “The provisions of this section \[enacting this section\] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in section 101(9) of title 10, United States Code, members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
 

@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 94–502 substituted “the veteran or person” for “he�
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title II, §205(b), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to approval of programs of training on the jobunder section 3677 of title 38, United States Code, on or after October 1, 1998.”
+Pub. L. 105–368, title II, §205(b), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to approval of programs of training on the job under section 3677 of title 38, United States Code, on or after October 1, 1998.”
 
 #### Effective Date of 1976 Amendment
 

@@ -116,7 +116,7 @@ A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, §4384, former
 
 #### Effective Dates of Repeal
 
-Section 701(c)(1) of Pub. L. 89–44 provided that: “The amendments made by section 401 \[repealing sections 4301 to 4305, 4311 to 4315, 4321 to 4324, 4331 to 4333, 4341 to 4346, 4351 to 4354 and 4381 of this title\] (relating to documentary stamp taxes) shall apply on and after January 1, 1966.”
+Pub. L. 89–44, title VII, §701(c)(1), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 401 \[repealing sections 4301 to 4305, 4311 to 4315, 4321 to 4324, 4331 to 4333, 4341 to 4346, 4351 to 4354 and 4381 of this title\] (relating to documentary stamp taxes) shall apply on and after January 1, 1966.”
 
 Repeal of sections 4361 to 4363, 4375, 4382 to 4384 by section 1904(a)(12) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 

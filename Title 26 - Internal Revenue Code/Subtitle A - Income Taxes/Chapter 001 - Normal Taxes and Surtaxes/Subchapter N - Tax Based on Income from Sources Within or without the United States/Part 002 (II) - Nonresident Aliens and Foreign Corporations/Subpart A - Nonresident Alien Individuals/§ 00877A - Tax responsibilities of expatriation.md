@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 &emsp;In the case of any sale under paragraph (1)—
 
-&emsp;&emsp;(A) notwithstanding any other provision of this title, any gain arising from such sale shall be taken into account for the taxable year of the sale, and
+&emsp;&emsp;(A) notwithstanding any other provision of this title, any gain arising from such saleshall be taken into account for the taxable year of the sale, and
 
 &emsp;&emsp;(B) any loss arising from such sale shall be taken into account for the taxable year of the sale to the extent otherwise provided by this title, except that section 1091 shall not apply to any such loss.
 
@@ -50,7 +50,7 @@ For purposes of this subtitle—
 
 #### (3) Termination of extension
 
-&emsp;The due date for payment of tax may not be extended under this subsection later than thedue date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
+&emsp;The due date for payment of tax may not be extended under this subsection later than the due date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
 
 #### (4) Security
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;In the case of any covered expatriate, notwithstanding any other provision of this title—
 
-&emsp;&emsp;(A) any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and
+&emsp;&emsp;(A) any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect toproperty disposed of by the taxpayer shall terminate on the day before the expatriation date, and
 
 &emsp;&emsp;(B) any extension of time for payment of tax shall cease to apply on the day before the expatriation date and the unpaid portion of such tax shall be due and payable at the time and in the manner prescribed by the Secretary.
 

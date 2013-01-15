@@ -18,7 +18,7 @@ Within one year after the date appropriations are made under subsection (b) of t
 
 &emsp;(2) a specification of the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act;
 
-&emsp;(3) a specification of the total amount of expenditures, in the five fiscal years preceding the date of submission of the report, for vocational rehabilitation services under the Rehabilitation Act of 1973 and under sections 222 and 1615 of the Social Security Act, and recommendations for the coordinated presentation of such expenditures in the Budget submitted by the President pursuant to section 1105 of title 31; and
+&emsp;(3) a specification of the total amount of expenditures, in the five fiscal years precedingthe date of submission of the report, for vocational rehabilitation services under the Rehabilitation Act of 1973 and under sections 222 and 1615 of the Social Security Act, and recommendations for the coordinated presentation of such expenditures in the Budget submitted by the President pursuant to section 1105 of title 31; and
 
 &emsp;(4) recommendations to improve the coordination of services under the Rehabilitation Act of 1973 with programs under sections 222 and 1615 of the Social Security Act, including recommendations for increasing savings in disability benefits payments and the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act.
 

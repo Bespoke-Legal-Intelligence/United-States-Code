@@ -14,7 +14,7 @@ The compensation fund shall consist of the following amounts:
 
 #### (c) Financing of compensation fund
 
-Upon the exhaustion of amounts in the compensation fund attributable to the authorizationof appropriations in section 7384g(b) of this title, the Secretary of the Treasury shall transfer directly to the compensation fund from the General Fund of the Treasury, without further appropriation, such amounts as are further necessary to carry out the compensation program.
+Upon the exhaustion of amounts in the compensation fund attributable to the authorization of appropriations in section 7384g(b) of this title, the Secretary of the Treasury shall transfer directly to the compensation fund from the General Fund of the Treasury, without further appropriation, such amounts as are further necessary to carry out the compensation program.
 
 #### (d) Use of compensation fund
 

@@ -22,7 +22,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(A) a person who—
 
-&emsp;&emsp;&emsp;(i) is employed by or volunteers with a qualified entity (including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
+&emsp;&emsp;&emsp;(i) is employed by or volunteers with a qualified entity (including an individualwho is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
 
 &emsp;&emsp;&emsp;(ii) who owns or operates a qualified entity; or
 

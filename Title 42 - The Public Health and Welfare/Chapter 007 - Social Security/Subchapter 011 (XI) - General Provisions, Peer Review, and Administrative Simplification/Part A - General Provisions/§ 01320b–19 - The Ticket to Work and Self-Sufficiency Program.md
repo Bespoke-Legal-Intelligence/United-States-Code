@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences theCommissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -122,7 +122,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintainscompliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
@@ -150,7 +150,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;Each employment network shall—
 
-&emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
+&emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocationalrehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
 
 &emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with each beneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
 
@@ -212,7 +212,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Early payments upon attainment of milestones in advance of outcome payment periods
 
-&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, with respect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structure that provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
+&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, withrespect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structure that provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
 
 #### (C) Limitation on total payments to employment network
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph\(2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -296,7 +296,7 @@ In this section:
 
 #### (3) Title II disability beneficiary
 
-&emsp;The term “title II disability beneficiary” means an individual entitled to disability insurance benefits under section 423 of this titleor to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
+&emsp;The term “title II disability beneficiary” means an individual entitled to disability insurance benefits under section 423 of this title or to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
 
 #### (4) Title XVI disability beneficiary
 
@@ -306,7 +306,7 @@ In this section:
 
 &emsp;The term “supplemental security income benefit under subchapter XVI of this chapter” means a cash benefit under section 1382 or 1382h(a) of this title, and does not include a State supplementary payment, administered federally or otherwise.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
@@ -332,7 +332,7 @@ Pub. L. 108–203, title IV, §405(b), Mar. 2, 2004, 118 Stat. 527, provided tha
 
 #### Effective Date
 
-Pub. L. 106–170, title I, §101(c), 113 Stat. 1874, provided that: “Subject to subsection (d) \[set out as a note below\], the amendments made by subsections (a) and (b) \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] shall take effect with the first month following 1 year after the date of the enactment of this Act \[Dec. 17, 1999\].”
+Pub. L. 106–170, title I, §101(c), 113 Stat. 1874, provided that: “Subject to subsection (d) \[set out as a notebelow\], the amendments made by subsections (a) and (b) \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] shall take effect with the first month following 1 year after the date of the enactment of this Act \[Dec. 17, 1999\].”
 
 #### Regulations
 
@@ -456,7 +456,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 “(2)
 
-Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensurethat the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
+Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensure that the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
 
 “(3)
 

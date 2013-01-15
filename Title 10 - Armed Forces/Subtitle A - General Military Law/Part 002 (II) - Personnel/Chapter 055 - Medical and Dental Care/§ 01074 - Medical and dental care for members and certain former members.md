@@ -166,7 +166,7 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title XVI, §1633(b), Jan. 28, 2008, 122 Stat. 459, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008.”
+Pub. L. 110–181, div. A, title XVI, §1633(b), Jan. 28, 2008, 122 Stat. 459, provided that: “The amendmentmade by subsection (a) \[amending this section\] shall take effect on January 1, 2008.”
 
 #### Effective Date of 2006 Amendment
 
@@ -182,7 +182,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 11
 
 #### Effective Date of 1997 Amendment
 
-Section 731(a)(2) of Pub. L. 105–85 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member ofthe Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
+Pub. L. 105–85, div. A, title VII, §731(a)(2), Nov. 18, 1997, 111 Stat. 1811, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
 
 &emsp;“(A) April 1, 1998.
 
@@ -203,6 +203,28 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Department of Defense Guidance on Environmental Exposures at Military Installations
+
+Pub. L. 112–239, div. A, title III, §313(a), Jan. 2, 2013, 126 Stat. 1692, provided that:
+
+“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the military departments and appropriate defense agencies regarding environmental exposures on military installations.
+
+“(2)
+
+Elements.—The guidance issued pursuant to paragraph (1) shall address, at a minimum, the following:
+
+&emsp;“(A) The criteria for when and under what circumstances public health assessments by the Agency for Toxic Substances and Disease Registry must be requested in connection with environmental contamination at military installations, including past incidents of environmental contamination.
+
+&emsp;“(B) The procedures to be used to track and document the status and nature of responses to the findings and recommendations of the public health assessments of the Agency of Toxic Substances and Disease Registry that involve contamination at military installations.
+
+&emsp;“(C) The appropriate actions to be undertaken to assess significant long-term health risks from past environmental exposures to military personnel and civilian individuals from living or working on military installations.
+
+“(3)
+
+Submission.—Not later than 30 days after the issuance of the guidance required by paragraph (1), the Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a copy of the guidance.”
 
 #### Smoking Cessation Program Under TRICARE
 
@@ -318,7 +340,7 @@ Periodic and Final Reports.—After the third, seventh, eleventh, and fifteenth 
 
 &emsp;“(1) Current information on the cumulative outcomes of the study.
 
-&emsp;“(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of thestudy, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries.”
+&emsp;“(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of the study, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries.”
 
 #### Standards and Tracking of Access to Health Care Services for Wounded, Injured, or Ill Servicemembers Returning to the United States From a Combat Zone
 
@@ -422,7 +444,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;&emsp;“(ii) the provision of outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment.
 
-&emsp;&emsp;“(D) A plan, in light of the pilot projects, for the improvement of the health care services provided to members of the Armed Forces in order to better assure the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among members of the Armed Forces,including a specific plan for outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment in order to facilitate and enhance the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among such members of the National Guard and Reserves.”
+&emsp;&emsp;“(D) A plan, in light of the pilot projects, for the improvement of the health care services provided to members of the Armed Forces in order to better assure the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among members of the Armed Forces, including a specific plan for outreach on post traumatic stress disorder and other mental health conditions to members of the National Guard and Reserves who have returned from deployment in order to facilitate and enhance the early diagnosis and treatment of post traumatic stress disorder and other mental health conditions among such members of the National Guard and Reserves.”
 
 #### Training Curricula for Family Caregivers on Care and Assistance for Members and Former Members of the Armed Forces With Traumatic Brain Injury
 
@@ -664,7 +686,7 @@ Duties.—The duties of the Committee are as follows:
 
 &emsp;“(4)
 
-First meeting.—The first meeting of the Committee shall be held not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\].
+First meeting.—The first meeting of the Committee shall be held not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
 #### Accountability for Medical Readiness of Individuals and Units of the Reserve Components
 
@@ -774,7 +796,7 @@ Pub. L. 108–375, div. A, title VII, §737, Oct. 28, 2004, 118 Stat. 2000, prov
 
 “(a)
 
-Health Care at Mobilization Installations.—The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwiseavailable to the Secretary, include the following with respect to any such installation:
+Health Care at Mobilization Installations.—The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwise available to the Secretary, include the following with respect to any such installation:
 
 &emsp;“(1) Arrangements for health care to be provided by the Secretary of Veterans Affairs.
 
@@ -840,7 +862,7 @@ Action Official.—The Secretary of Defense may act through the Under Secretary 
 
 Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: “Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website of that military department includes the following information relating to health assessments:
 
-&emsp;“(1) Information on the policies of the Department of Defense and the military department concerned regarding predeployment and postdeployment health assessments, including policies on the following matters:
+&emsp;“(1) Information on the policies of the Department of Defense and the military department concerned regarding predeployment and postdeployment healthassessments, including policies on the following matters:
 
 &emsp;&emsp;“(A) Health surveys.
 
@@ -954,7 +976,7 @@ Applicable Policies.—In furnishing health care to an eligible member under sub
 
 “(d)
 
-Reimbursement Rates.—The Secretary of Defense, in consultation with the designated providers, shall prescribe reimbursement rates for care furnished to eligible members under subsection (a). The rates prescribed for health care may not exceed the amounts allowable under the TRICARE Standard plan for the same care.”
+Reimbursement Rates.—The Secretary of Defense, in consultation with the designated providers,shall prescribe reimbursement rates for care furnished to eligible members under subsection (a). The rates prescribed for health care may not exceed the amounts allowable under the TRICARE Standard plan for the same care.”
 
 #### Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations; “TRICARE Program” and “TRICARE Prime Plan” Defined
 
@@ -1024,7 +1046,7 @@ Definitions.—In this section \[amending this section and enacting provisions s
 
 #### Independent Research Regarding Gulf War Syndrome
 
-Section 743 of Pub. L. 104–201 provided that:
+Pub. L. 104–201, div. A, title VII, §743, Sept. 23, 1996, 110 Stat. 2601, provided that:
 
 “(a)
 
@@ -1054,11 +1076,11 @@ Procedures for Awarding Grants.—The Secretary shall prescribe the procedures t
 
 “(d)
 
-Availability of Funds.—Of the amount authorized to be appropriated under section 301(21) \[110 Stat. 2475\] for defense medical programs, $10,000,000 is available for research under subsection (b).”
+Availability of Funds.—Of the amount authorized to be appropriated under section 301(21) \[110 Stat.2475\] for defense medical programs, $10,000,000 is available for research under subsection (b).”
 
 #### Persian Gulf Illness
 
-Sections 761, 762, and 770 of title VII of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title VII, §§761, 762, 770, Nov. 18, 1997, 111 Stat. 1824, 1829, provided that:
 
 #### “SEC. 761. DEFINITIONS.
 
@@ -1144,7 +1166,7 @@ Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian
 
 &emsp;“(2) For any Persian Gulf War veteran who is, as of the date of the enactment of this Act \[Oct. 5, 1994\], a member of a reserve component, opportunity to register at a military medical facility in the Persian Gulf Veterans Health Care Surveillance System and, in the case of a Reserve who registers in that registry, a full medical evaluation by the Department of Defense. Depending on the results of the evaluation and on eligibility status, reserve personnel may be provided medical care by the Department of Defense.
 
-&emsp;“(3) For a Persian Gulf veteran who is not, as of the date of the enactment of this Act \[Oct. 5, 1994\], on active duty or a member of a reserve component, assistance and information at a military medical facility on registering with the Persian Gulf War Registry of the Department of Veterans Affairs and information related to support services provided by the Department of Veterans Affairs.
+&emsp;“(3) For a Persian Gulf veteran who is not, as of the date of the enactment of this Act \[Oct. 5, 1994\], on active duty or a member of a reserve component, assistance and information at a military medical facility on registering with the Persian Gulf War Registry of the Department of Veterans Affairs and informationrelated to support services provided by the Department of Veterans Affairs.
 
 “(c)
 
@@ -1294,7 +1316,7 @@ Contents of Registry.—(1) The Registry shall include—
 
 &emsp;&emsp;“(ii) to the extent that data are available and inclusion of the data is feasible, a description of the circumstances of the member's service during the Persian Gulf conflict, including the locations in the Operation Desert Storm theater of operations in which such service occurred and the atmospheric and other environmental circumstances in such locations at the time of such service; and
 
-&emsp;“(B) with respect to the members referred to in subsection (a)(1), a description of the circumstances of each exposure of each such member to the fumes of burning oil as described in such subsection (a)(1), including the length of time of the exposure.
+&emsp;“(B) with respect to the members referred to in subsection (a)(1), a description of the circumstances ofeach exposure of each such member to the fumes of burning oil as described in such subsection (a)(1), including the length of time of the exposure.
 
 “(2) The Secretary shall establish the Registry with the advice of an independent scientific organization.
 
@@ -1320,11 +1342,11 @@ Definitions.—For purposes of this section:
 
 #### Advisory Committee on Mental Health Evaluation Protections
 
-Section 554 of Pub. L. 101–510, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
+Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
 
 #### Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities
 
-Section 721 of Pub. L. 101–189 provided that during fiscal years 1990 and 1991, the Secretary of Defense could not impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility. Similar provisions were contained in the following prior authorization act:
+Pub. L. 101–189, div. A, title VII, §721, Nov. 29, 1989, 103 Stat. 1477, provided that during fiscal years 1990 and 1991, the Secretary of Defense could not impose a charge for the receipt of outpatient medical or dental care at a military medical treatment facility. Similar provisions were contained in the following prior authorization act:
 
 Pub. L. 100–180, div. A, title VII, §722, Dec. 4, 1987, 101 Stat. 1116.
 

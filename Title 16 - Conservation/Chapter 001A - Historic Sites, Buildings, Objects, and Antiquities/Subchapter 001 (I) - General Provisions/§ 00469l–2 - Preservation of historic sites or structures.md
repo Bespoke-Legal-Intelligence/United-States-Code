@@ -12,7 +12,7 @@ Any grant made under this section shall provide that—
 
 &emsp;(2) the Secretary shall have the right of access at reasonable times to the public portions of such property for interpretive and other purposes; and
 
-&emsp;(3) conversion, use, or disposal of such property for purposes contrary to the purposes of sections 469<i>l</i> to 469<i>l</i>–3 of this title, as determined by the Secretary, shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under sections 469<i>l</i> to 469<i>l</i>–3 of this title.
+&emsp;(3) conversion, use, or disposal of such property for purposes contrary to the purposes of sections 469l to 469l–3 of this title, as determined by the Secretary, shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under sections 469l to 469l–3 of this title.
 
 #### (c) Matching requirement
 
@@ -26,7 +26,7 @@ The Secretary may obligate funds made available for a grant under this section o
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–229 effective at the beginning of the fiscal year immediately following May 8, 2008, see section 361(b) of Pub. L. 110–229, set out as a note under section 469<i>l</i>–1 of this title.
+Amendment by Pub. L. 110–229 effective at the beginning of the fiscal year immediately following May 8, 2008, see section 361(b) of Pub. L. 110–229, set out as a note under section 469l–1 of this title.
 
 #### National Underground Railroad Freedom Center
 
@@ -44,7 +44,7 @@ Findings.—Congress finds that—
 
 &emsp;“(D) the Freedom Center will be a national center linked through state-of-the-art technology to Underground Railroad sites and facilities throughout the United States and to a constituency that reaches across the United States, Canada, Mexico, the Caribbean and beyond; and
 
-&emsp;“(E) the Freedom Center has reached an agreement with the National Park Service to pursue a range of historical and educational cooperative activities related to the Underground Railroad, including but not limited to assisting the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act \[16 U.S.C. 469<i>l</i> et seq.\].
+&emsp;“(E) the Freedom Center has reached an agreement with the National Park Service to pursue a range of historical and educational cooperative activities related to the Underground Railroad, including but not limited to assisting the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act \[16 U.S.C. 469l et seq.\].
 
 “(2)
 
@@ -54,5 +54,5 @@ Purposes.—The purposes of this section are—
 
 &emsp;“(B) to assist the Freedom Center in the development of its programs and facilities in Cincinnati, Ohio; and
 
-&emsp;“(C) to assist the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act (112 Stat. 679; 16 U.S.C. 469<i>l</i> and following).”
+&emsp;“(C) to assist the National Park Service in the implementation of the National Underground RailroadNetwork to Freedom Act (112 Stat. 679; 16 U.S.C. 469l and following).”
 

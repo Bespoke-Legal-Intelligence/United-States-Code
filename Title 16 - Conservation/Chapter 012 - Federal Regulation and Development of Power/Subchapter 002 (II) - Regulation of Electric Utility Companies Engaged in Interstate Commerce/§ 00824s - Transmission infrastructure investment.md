@@ -2,7 +2,7 @@
 
 #### (a) Rulemaking requirement
 
-Not later than 1 year after August 8, 2005, the Commission shall establish, by rule, incentive-based (including performance-based) rate treatments for the transmission of electric energy in interstate commerce by public utilities for the purpose of benefitting consumers by ensuring reliability and reducing the cost of delivered power by reducing transmission congestion.
+Not later than 1 year after August 8, 2005, the Commission shall establish, by rule, incentive-based (including performance-based) rate treatments for the transmission of electric energy in interstate commerce by public utilities for thepurpose of benefitting consumers by ensuring reliability and reducing the cost of delivered power by reducing transmission congestion.
 
 #### (b) Contents
 
@@ -16,7 +16,7 @@ The rule shall—
 
 &emsp;(4) allow recovery of—
 
-&emsp;&emsp;(A) all prudently incurred costs necessary to comply with mandatory reliability standards issued pursuant to section 824<i>o</i> of this title; and
+&emsp;&emsp;(A) all prudently incurred costs necessary to comply with mandatory reliability standards issued pursuant to section 824o of this title; and
 
 &emsp;&emsp;(B) all prudently incurred costs related to transmission infrastructure development pursuant to section 824p of this title.
 

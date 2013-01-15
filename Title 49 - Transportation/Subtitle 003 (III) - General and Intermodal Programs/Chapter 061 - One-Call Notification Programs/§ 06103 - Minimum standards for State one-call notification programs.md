@@ -72,11 +72,11 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–90, §3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
 
-“(1) appropriate participation by all underground facility operators, including all government operators;
+&emsp;“(1) appropriate participation by all underground facility operators, including all government operators;
 
-“(2) appropriate participation by all excavators, including all government and contract excavators; and
+&emsp;“(2) appropriate participation by all excavators, including all government and contract excavators; and
 
-“(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.”
+&emsp;“(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.”
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–355, §2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
 

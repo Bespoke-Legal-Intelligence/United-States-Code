@@ -10,7 +10,7 @@ Act July 2, 1862, with the exception of section 7, was not incorporated into the
 
 #### Short Title
 
-Act July 2, 1862, as amended, which is classified to this subchapter, is popularly known as the “Morrill Act” and also as the “First Morrill Act”.
+Act July 2, 1862, which is classified to this subchapter, is popularly known as the “Morrill Act” and also as the “First Morrill Act”.
 
 #### Equity in Educational Land Grant Status
 
@@ -228,7 +228,7 @@ In General.—
 
 &emsp;“(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructionalactivities more effectively in agriculture and sciences.
 
 &emsp;“(2)
 
@@ -280,7 +280,7 @@ Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as am
 
 #### College of the Virgin Islands, Community College of American Samoa, College of Micronesia, Northern Marianas College, and University of Guam; Land-Grant Status; Authorization of Appropriations
 
-Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, as amended by Pub. L. 96–374, title XIII, §1361(a), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 99–396, §9(a), Aug. 27, 1986, 100 Stat. 840, as amended by Pub. L. 102–247, title III, §305, Feb. 24, 1992, 106 Stat. 39, provided that:
+Pub. L. 92–318, title V, §506(a), (b), June 23, 1972, 86 Stat. 350, as amended by Pub. L. 96–374, title XIII, §1361(a), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 99–396, §9(a), Aug. 27, 1986, 100 Stat. 840, as amended by Pub. L. 102–247, title III, §305, Feb. 24, 1992, 106 Stat. 39, provided that:
 
 “(a) The College of the Virgin Islands, the Community College of American Samoa, the College of Micronesia\[,\] the Northern Marianas College, and the University of Guam shall be considered land-grant colleges established for the benefit or agriculture and mechanic arts in accordance with the provisions of the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C. 301–305, 307, 308).
 
@@ -288,7 +288,7 @@ Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, a
 
 #### Exchange of Land in Missouri
 
-Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands\(as determined by the Secretary) situated within such State.
+Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands (as determined by the Secretary) situated within such State.
 
 “
 
@@ -300,11 +300,11 @@ Sec. 3. Any land conveyed to the State of Missouri under authority of this Act s
 
 #### Cooperation in Placement of Domestic Farm Labor
 
-Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
+Act Apr. 28, 1947, ch. 43, §2(b), 61 Stat. 55, provided that: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
 
 #### Admission of Alaska as State; Grants Not To Extend to Alaska
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(<i>l</i>) of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
+Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(l) of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
 

@@ -1,6 +1,6 @@
 ### §5755. Supervisory differentials
 
-(a)(1) The Office of Personnel Management may authorize the head of an agency to pay a differential to an employee under the General Schedule who has supervisory responsibility for 1 or more employees not under the General Schedule, if 1 or more of the subordinate employees would, in the absence of such a differential, be paid more than the supervisory employee.
+(a)(1) The Office of Personnel Management may authorize the head of an agency to pay a differential to an employee under the General Schedule who has supervisory responsibility for 1 or more employees not under the GeneralSchedule, if 1 or more of the subordinate employees would, in the absence of such a differential, be paid more than the supervisory employee.
 
 (2) For the purposes of comparing the pay of a supervisory employee under the General Schedule with the pay of a subordinate employee not under the General Schedule, comparability payments under section 5304, differentials, and allowances that are not a part of basic pay may be taken into consideration, as provided by regulations of the Office.
 

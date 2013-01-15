@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iv) the term “residential loans” in section 527(b)(2)(D) of such Act shall also include loans or credit sales secured by a first lien on a residential manufactured home;
 
-&emsp;&emsp;(v) the requirement contained in section 527(b)(2)(D) of such Act that a creditor make or invest in loans aggregating more than $1,000,000 per year shall not apply to a creditor selling residential manufactured homes financed by loans or credit sales secured byfirst liens on residential manufactured homes if the creditor has an arrangement to sell such loans or credit sales in whole or in part, or if such loans or credit sales are sold in whole or in part to a lender, institution, or creditor described in section 527(b) of such Act or in this section or a creditor, as defined in section 103(f) <sup>1</sup> of the Truth in Lending Act, as such section was in effect on the day preceding March 31, 1980, if such creditor makes or invests in residential real estate loans or loans or credit sales secured by first liens on residential manufactured homes aggregating more than $1,000,000 per year; and
+&emsp;&emsp;(v) the requirement contained in section 527(b)(2)(D) of such Act that a creditor make or invest in loans aggregating more than $1,000,000 per year shall not apply to a creditor selling residential manufactured homes financed by loans or credit sales secured by first liens on residential manufactured homes if the creditor has an arrangement to sell such loans or credit sales in whole or in part, or if such loans or credit sales are sold in whole or in part to a lender, institution, or creditor described in section 527(b) of such Act or in this section or a creditor, as defined in section 103(f) <sup>1</sup> of the Truth in Lending Act, as such section was in effect on the day preceding March 31, 1980, if such creditor makes or invests in residential real estate loans or loans or credit sales secured by first liens on residential manufactured homes aggregating more than $1,000,000 per year; and
 
 &emsp;&emsp;(vi) the term “lender” in section 527(b)(2)(A) of such Act shall also be deemed to include any lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act \[12 U.S.C. 1701 et seq.\], and any individual who finances the sale or exchange of residential real property or a residential manufactured home which such individual owns and which such individual occupies or has occupied as his principal residence.
 
@@ -64,7 +64,7 @@ The provisions of subsection (a)(1) of this section shall not apply to a loan, m
 
 #### (d) Implementation of provisions applicable to residential manufactured home
 
-The provisions of subsection (c) of this section shall not apply to a loan, mortgage, credit sale, or advance secured by a first lien on a residential manufactured home until regulations required to be issued pursuant to paragraphs (1), (2), and (3) of subsection (c) of this section take effect, except that the provisions of subsection (c) of this section shall apply in the case of such a loan, mortgage, credit sale, or advance made prior to the date on which such regulations takeeffect if the loan, mortgage, credit sale, or advance includes a precomputed finance charge and does not provide that, upon prepayment in full, the refund of the unearned portion of the precomputed finance charge is in an amount not less the amount which would be calculated by the actuarial method, except that the debtor shall not be entitled to a refund which is less than $1. The Federal Home Loan Bank Board shall issue regulations pursuant to the provisions of paragraphs (1), (2), and (3) of subsection (c) of this section that shall take effect prospectively not less than 30 days after publication in the Federal Register and not later than 120 days from March 31, 1980.
+The provisions of subsection (c) of this section shall not apply to a loan, mortgage, credit sale, or advance secured by a first lien on a residential manufactured home until regulations required to be issued pursuant to paragraphs (1), (2), and (3) of subsection (c) of this section take effect, except that the provisions of subsection (c) of this section shall apply in the case of such a loan, mortgage, credit sale, or advance made prior to the date on which such regulations take effect if the loan, mortgage, credit sale, or advance includes a precomputed finance charge and does not provide that, upon prepayment in full, the refund of the unearned portion of the precomputed finance charge is in an amount not less the amount which would be calculated by the actuarial method, except that the debtor shall not be entitled to a refund which is less than $1. The Federal Home Loan Bank Board shall issue regulations pursuant to the provisions of paragraphs (1), (2), and (3) of subsection (c) of this section that shall take effect prospectively not less than 30 days after publication in the Federal Register and not later than 120 days from March 31, 1980.
 
 #### (e) Definitions
 
@@ -82,7 +82,7 @@ For the purpose of this section—
 
 &emsp;(3) the term “precomputed finance charge” means interest or a time price differential within the meaning of sections 106(a)(1) and (2) of the Truth in Lending Act (15 U.S.C. 1605(a)(1) and (2)) as computed by an add-on or discount method; and
 
-&emsp;(4) the term “residential manufactured home” means a manufactured home as defined in section 603(6) of the National Mobile Home Construction and Safety Standards Act of 1974 \[42 U.S.C. 5402(6)\] which is used as a residence.
+&emsp;(4) the term “residential manufactured home” means a manufactured home as defined in section 603(6) of the National Mobile HomeConstruction and Safety Standards Act of 1974 \[42 U.S.C. 5402(6)\] which is used as a residence.
 
 #### (f) Rules, regulations, and interpretations
 
@@ -92,7 +92,7 @@ The Federal Home Loan Bank Board is authorized to issue rules and regulations an
 
 This section takes effect on April 1, 1980.
 
-(Pub. L. 96–221, title V, §501, Mar. 31, 1980, 94 Stat. 161; Pub. L. 96–221, title II, §207(b)(11), Mar. 31, 1980, 94 Stat. 144; Pub. L. 96–399, title III, §§308(c)(6), 324(a), (e), Oct. 8, 1980, 94 Stat. 1641, 1647, 1648; Pub. L. 97–35, title III, §384, Aug. 13, 1981, 95 Stat. 432.)
+(Pub. L. 96–221, title II, §207(b)(11), title V, §501, Mar. 31, 1980, 94 Stat. 144, 161; Pub. L. 96–399, title III, §§308(c)(6), 324(a), (e), Oct. 8, 1980, 94 Stat. 1641, 1647, 1648; Pub. L. 97–35, title III, §384, Aug. 13, 1981, 95 Stat. 432.)
 
 #### References in Text
 
@@ -118,11 +118,11 @@ Subsec. (e)(4). Pub. L. 96–399, §308(c)(6), substituted “manufactured” fo
 
 #### Effective Date of 1980 Amendment
 
-Section 207(b) of Pub. L. 96–221 provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+Pub. L. 96–221, title II, §207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
 #### Severability
 
-Section 526 of Pub. L. 96–221 provided that: “If any provision of this Act \[for classification of Act to the Code, see Short Title of 1980 Amendment note set out under section 226 of this title and Tables\] or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act and the application of such provision to any person or circumstance other than that as to which it is held invalid shall not be affected thereby.”
+Pub. L. 96–221, title V, §526, Mar. 31, 1980, 94 Stat. 167, provided that: “If any provision of this Act \[for classification of Act to the Code, see Short Title of 1980 Amendment note set out under section 226 of this title and Tables\] or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act and the application of such provision to any person or circumstance other than that as to which it is held invalid shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -134,9 +134,9 @@ Pub. L. 96–221, title V, §528, Mar. 31, 1980, 94 Stat. 168, provided that: �
 
 #### Definition of “State”
 
-Section 527 of title V of Pub. L. 96–221, as amended by Pub. L. 96–221, title II, §207(b)(12), Mar. 31, 1980, 94 Stat. 144, provided that: “For purposes of this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 ofTitle 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, 1735f–7, and 1735f–7a of this title\] the term ‘State’ includes the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands.”
+Pub. L. 96–221, title V, §527, Mar. 31, 1980, 94 Stat. 168, as amended by Pub. L. 96–221, title II, §207(b)(12), Mar. 31, 1980, 94 Stat. 144, provided that: “For purposes of this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, 1735f–7, and 1735f–7a of this title\] the term ‘State’ includes the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands.”
 
-\[Section 207(b) of Pub. L. 96–221 provided that the amendment of above note made by that section is effective 6 years after Mar. 31, 1980.\]
+\[Pub. L. 96–221, title II, §207(b), Mar. 31, 1980, 94 Stat. 144, provided that the amendment of above note made by that section is effective 6 years after Mar. 31, 1980.\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

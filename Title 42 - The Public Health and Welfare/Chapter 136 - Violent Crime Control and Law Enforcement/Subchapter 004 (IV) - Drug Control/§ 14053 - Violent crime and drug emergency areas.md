@@ -44,7 +44,7 @@ The Attorney General shall review a request submitted pursuant to this section, 
 
 The President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federallaw (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
 
 &emsp;(2) provide technical and advisory assistance, including communications support and law enforcement-related intelligence information.
 

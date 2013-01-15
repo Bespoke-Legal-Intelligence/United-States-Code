@@ -36,7 +36,7 @@ In order to promote the opportunities and responsibilities of United States citi
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original, “this Act”, meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Subsec. (h). Pub. L. 101–649, §406, added subsec. (h).
 
 #### Effective Date of 1991 Amendment
 
-Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §305(m), Dec. 12, 1991, 105 Stat. 1750, provided that the amendment made by section 305(m) is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

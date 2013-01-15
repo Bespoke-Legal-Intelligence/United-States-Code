@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Park
 
-&emsp;The term “Park” means the Women's Rights National Historical Park established by section 410<i>ll</i> of this title.
+&emsp;The term “Park” means the Women's Rights National Historical Park established by section 410ll of this title.
 
 #### (2) Secretary
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (b) Establishment of Trail Route
 
-The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known as the “Votes for Women History Trail Route”, to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
+The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known asthe “Votes for Women History Trail Route”, to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
 
 #### (c) Administration
 

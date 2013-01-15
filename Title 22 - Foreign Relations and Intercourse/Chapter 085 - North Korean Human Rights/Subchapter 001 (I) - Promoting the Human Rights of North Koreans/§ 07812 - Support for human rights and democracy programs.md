@@ -8,15 +8,17 @@ The President is authorized to provide grants to private, nonprofit organization
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2005 through 2008 and $2,000,000 for each of fiscal years 2009 through 2012 to carry out this section.
+&emsp;There are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2005 through 2008 and $2,000,000 for each of fiscal years 2009 through 2017 to carry out this section.
 
 #### (2) Availability
 
 &emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–333, title I, §102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §5, Oct. 7, 2008, 122 Stat. 3941.)
+(Pub. L. 108–333, title I, §102, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §5, Oct. 7, 2008, 122 Stat. 3941; Pub. L. 112–172, §4, Aug. 16, 2012, 126 Stat. 1308.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–172 substituted “2017” for “2012”.
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–346 inserted “and $2,000,000 for each of fiscal years 2009 through 2012” after “2008”.
 

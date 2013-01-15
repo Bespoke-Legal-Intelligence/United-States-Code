@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### Codification
 
-Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section 4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 

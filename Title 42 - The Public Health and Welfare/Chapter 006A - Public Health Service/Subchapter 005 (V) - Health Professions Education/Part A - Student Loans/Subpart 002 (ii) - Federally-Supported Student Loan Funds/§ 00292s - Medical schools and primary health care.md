@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an “exempt school contribution”).
 
-&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this titlemay not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
+&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
 
 #### (3) Noncompliance by student
 
@@ -78,9 +78,9 @@
 
 &emsp;&emsp;(ii) for the 1-year period ending June 30, 1998, an amount equal to 20 percent of the income received during such period by the student loan fund; and
 
-&emsp;&emsp;(iii) for any subsequent 1-year period under paragraph (1), an amount equal to 30 percent of the income received during such period by the student loan fund.
+&emsp;&emsp;(iii) for any subsequent 1-year period under paragraph (1), an amount equal to 30 percentof the income received during such period by the student loan fund.
 
-&emsp;(C) In determining the amount of income that a student loan fund has received for purposes of subparagraph (B), the Secretary shallexclude any income derived from exempt contributions. Payments made to the Secretary under subparagraph (A) may not be made with such contributions or with income derived from such contributions.
+&emsp;(C) In determining the amount of income that a student loan fund has received for purposes of subparagraph (B), the Secretary shall exclude any income derived from exempt contributions. Payments made to the Secretary under subparagraph (A) may not be made with such contributions or with income derived from such contributions.
 
 #### (5) Expenditure of payments
 
@@ -148,7 +148,7 @@ Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for
 
 #### Student Loan Guidelines
 
-Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: “The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence.”
+Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: “The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination ofneed for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

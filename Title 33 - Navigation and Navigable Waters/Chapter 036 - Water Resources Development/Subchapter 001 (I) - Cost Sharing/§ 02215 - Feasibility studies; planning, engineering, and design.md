@@ -94,9 +94,9 @@ Subsec. (a)(2). Pub. L. 104–303, §203(a)(2), inserted heading.
 
 #### Effective Date of 1996 Amendment
 
-Section 203(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act \[Oct. 12, 1996\] so as to conform the agreements with the amendments.”
+Pub. L. 104–303, title II, §203(b), Oct. 12, 1996, 110 Stat. 3678, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply notwithstanding any feasibility cost-sharing agreement entered into by the Secretary and the non-Federal interests. On request of the non-Federal interest, the Secretary shall amend any feasibility cost-sharing agreements in effect on the date of the enactment of this Act\[Oct. 12, 1996\] so as to conform the agreements with the amendments.”
 
 #### No Requirement of Reimbursement
 
-Section 203(c) of Pub. L. 104–303 provided that: “Nothing in this section \[amending this section and enacting provisions set out above\] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
+Pub. L. 104–303, title II, §203(c), Oct. 12, 1996, 110 Stat. 3678, provided that: “Nothing in this section \[amending this section and enacting provisions set out above\] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
 

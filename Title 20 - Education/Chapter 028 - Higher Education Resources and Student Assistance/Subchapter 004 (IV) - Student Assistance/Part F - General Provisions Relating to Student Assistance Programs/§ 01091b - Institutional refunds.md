@@ -10,7 +10,7 @@
 
 #### (A) Leave not treated as withdrawal
 
-&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter34 of title 42 that is to be returned in accordance with this section if—
+&emsp;&emsp;In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
 
 &emsp;&emsp;&emsp;(i) the institution has a formal policy regarding leaves of absence;
 
@@ -64,7 +64,7 @@
 
 &emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and partC of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
 
 &emsp;&emsp;(B) an amount equal to—
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(iv) To outstanding balances on subsidized loans made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
 
-&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter forthe payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(vi) To outstanding balances on loans made under section 1078–2 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -146,7 +146,7 @@
 
 #### (B) Remaining excesses
 
-&emsp;&emsp;If excess funds remain after repaying all outstanding loan amounts, the remainingexcess shall be credited in the following order:
+&emsp;&emsp;If excess funds remain after repaying all outstanding loan amounts, the remaining excess shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To awards under subpart 1 of part A of this subchapter for the payment period or period of enrollment for which a return of funds is required.
 

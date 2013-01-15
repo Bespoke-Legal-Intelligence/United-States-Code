@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) 95 percent or more of the proceeds devoted to owner-financing was devoted to residences with respect to which (at the time the mortgages were executed) all such requirements were met, and
 
-&emsp;&emsp;&emsp;(iii) any failure to meet the requirements of such subsections is corrected within a reasonable period after such failure is first discovered.
+&emsp;&emsp;&emsp;(iii) any failure to meet the requirements of such subsections is correctedwithin a reasonable period after such failure is first discovered.
 
 #### (C) Good faith effort to comply with other requirements
 
@@ -62,7 +62,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;(2) the payment of the principal and interest on which is secured by the general obligation of a State,
 
-&emsp;(3) which is part of an issue which meets the requirements of subsections (c), (g), (i)(1), and (<i>l</i>), and
+&emsp;(3) which is part of an issue which meets the requirements of subsections (c), (g), (i)(1), and (l), and
 
 &emsp;(4) which is part of an issue which does not meet the private business tests of paragraphs (1) and (2) of section 141(b).
 
@@ -304,7 +304,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (ii) Unused paragraph (2) amount
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which (if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
+&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which\(if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
 
 #### (D) Election to pay United States
 
@@ -504,7 +504,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the expenditures for such rehabilitation are 25 percent or more of the mortgagor's adjusted basis in the residence.
 
-> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of the completion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
+> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of thecompletion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
 
 #### (6) Determinations on actuarial basis
 
@@ -650,7 +650,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning ofsection 121) of such taxpayer was damaged as the result of a federally declared disaster occurring before January 1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
+&emsp;&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer was damaged as the result of a federally declared disaster occurring before January 1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
 
 #### (ii) Limitation
 
@@ -674,7 +674,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
 
-#### (<i>l</i>) Additional requirements for qualified veterans’ mortgage bonds
+#### (l) Additional requirements for qualified veterans’ mortgage bonds
 
 An issue meets the requirements of this subsection only if it meets the requirements of paragraphs (1), (2), and (3).
 
@@ -765,7 +765,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (1) In general
 
-&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respect to which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
+&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respectto which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
 
 &emsp;&emsp;(A) the recapture amount with respect to such indebtedness, or
 
@@ -911,7 +911,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;For purposes of paragraph (4), the term “modified adjusted gross income” means adjusted gross income—
 
-&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is excluded from gross income under section 103, and
+&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer duringthe taxable year which is excluded from gross income under section 103, and
 
 &emsp;&emsp;&emsp;(ii) decreased by the amount of gain (if any) included in gross income of the taxpayer by reason of the disposition to which this subsection applies.
 
@@ -969,13 +969,13 @@ Section 8 of the United States Housing Act of 1937, referred to in subsec. (f)(2
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k)(11), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as in effect on the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997. The Act is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-The date of the enactment of this subsection, referred to in subsec. (<i>l</i>)(5)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+The date of the enactment of this subsection, referred to in subsec. (l)(5)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 Section 1034(e) (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997), referred to in subsec. (m)(6)(A), means section 1034(e) of this title as in effect on the day before the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Prior Provisions
 
-A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
+A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b),83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
 
 Provisions similar to this section were contained in section 103A of this title prior to repeal by Pub. L. 99–514.
 
@@ -989,17 +989,17 @@ Subsec. (k)(12). Pub. L. 110–343 added par. (12) relating to special rules for
 
 Pub. L. 110–289, §3021(b)(1), added par. (12) relating to special rules for subprime refinancings.
 
-Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 110–245, §103(b), substituted “$100,000,000” for “$25,000,000” wherever appearing.
+Subsec. (l)(3)(B)(ii). Pub. L. 110–245, §103(b), substituted “$100,000,000” for “$25,000,000” wherever appearing.
 
-Subsec. (<i>l</i>)(4). Pub. L. 110–245, §103(c), reenacted heading without change and amended text generally. Prior to amendment, par. (4) defined “qualified veteran” differently with respect to different States.
+Subsec. (l)(4). Pub. L. 110–245, §103(c), reenacted heading without change and amended text generally. Prior to amendment, par. (4) defined “qualified veteran” differently with respect to different States.
 
 <b>2006</b>—Subsec. (d)(2)(D). Pub. L. 109–432, §416(a), added subpar. (D).
 
-Subsec. (<i>l</i>)(3)(B). Pub. L. 109–222, §203(b)(1), reenacted heading without change, substituted introductory provisions of cl. (i) for “A State veterans limit for any calendar year is the amount equal to—” and inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and adjusted margins, and added cls. (ii) to (iv).
+Subsec. (l)(3)(B). Pub. L. 109–222, §203(b)(1), reenacted heading without change, substituted introductory provisions of cl. (i) for “A State veterans limit for any calendar year is the amount equal to—” and inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and adjusted margins, and added cls. (ii) to (iv).
 
-Subsec. (<i>l</i>)(3)(B)(iv). Pub. L. 109–432, §411(a), struck out heading and text of cl. (iv). Text read as follows: “The State veterans limit for the States specified in clause (ii) for any calendar year after 2010 is zero.”
+Subsec. (l)(3)(B)(iv). Pub. L. 109–432, §411(a), struck out heading and text of cl. (iv). Text read as follows: “The State veterans limit for the States specified in clause (ii) for any calendar year after 2010 is zero.”
 
-Subsec. (<i>l</i>)(4). Pub. L. 109–222, §203(a)(1), amended par. (4) generally. Prior to amendment, par. (4) defined the term “qualified veteran”.
+Subsec. (l)(4). Pub. L. 109–222, §203(a)(1), amended par. (4) generally. Prior to amendment, par. (4) defined the term “qualified veteran”.
 
 <b>1997</b>—Subsec. (i)(1)(C)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -1055,7 +1055,7 @@ Subsec. (m)(5). Pub. L. 101–508, §11408(c)(2)(C)(i), added heading and struck
 
 Subsec. (m)(5)(A). Pub. L. 101–508, §11408(c)(2)(C)(i), added subpar. (A) and struck out former subpar. (A) “In general” which read as follows: “The recapture amount which would (but for this paragraph) apply with respect to any disposition during a taxable year shall be reduced (but not below zero) by 2 percent of such amount for each $100 by which adjusted qualifying income exceeds the modified adjusted gross income of the taxpayer for such year.”
 
-Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar. (C) as (B), substituted “paragraph (4)” for “this paragraph” in introductory provisions, and struck out former subpar. (B) “Adjusted qualifyingincome” which read as follows: “For purposes of this paragraph, the term ‘adjusted qualifying income’ means the amount equal to the sum of—
+Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar. (C) as (B), substituted “paragraph (4)” for “this paragraph” in introductory provisions, and struck out former subpar. (B) “Adjusted qualifying income” which read as follows: “For purposes of this paragraph, the term ‘adjusted qualifying income’ means the amount equal to the sum of—
 
 &emsp;“(i) $5,000, plus
 
@@ -1129,23 +1129,23 @@ Amendment by section 312(d)(1), (3) of Pub. L. 105–34 applicable to sales and 
 
 Amendment by section 1702(d)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-Amendment by section 1703(n)(3) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(n)(3) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Section 13141(f)(1) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13141(f)(1), Aug. 10, 1993, 107 Stat. 437, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
 
-Section 13141(f)(3) of Pub. L. 103–66 provided that: “The amendments made by subsections (c) and (e) \[amending this section\] shall apply to qualified mortgage bonds issued and mortgage credit certificates provided on or after the date of enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13141(f)(3), Aug. 10, 1993, 107 Stat. 437, provided that: “The amendments made by subsections (c) and (e) \[amending this section\] shall apply to qualified mortgage bonds issued and mortgage credit certificates provided on or after the date of enactment of this Act \[Aug. 10, 1993\].”
 
-Section 13141(f)(4) of Pub. L. 103–66 provided that: “The amendments made by subsection (d) \[amending this section\] shall apply to loans originated and credit certificates provided after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13141(f)(4), Aug. 10, 1993, 107 Stat. 437, provided that: “The amendments made by subsection (d) \[amending this section\] shall apply to loans originated and credit certificates provided after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1991 Amendment
 
-Section 108(c)(1) of Pub. L. 102–227 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1991.”
+Pub. L. 102–227, title I, §108(c)(1), Dec. 11, 1991, 105 Stat. 1688, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 
-Section 11408(d) of Pub. L. 101–508 provided that:
+Pub. L. 101–508, title XI, §11408(d), Nov. 5, 1990, 104 Stat. 1388–478, provided that:
 
 “(1)
 
@@ -1163,11 +1163,11 @@ Simplification.—The amendment made by subsection (c) \[amending this section\]
 
 Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4005(h) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title IV, §4005(h), Nov. 10, 1988, 102 Stat. 3651, provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 25, 26, 148, 6045, and 6654 of this title\] shall apply to bonds issued, and nonissued bond amounts elected, after December 31, 1988.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 25, 26, 148, 6045, and 6654 of this title\] shall apply to bonds issued, and nonissued bond amounts elected, after December 31, 1988.
 
 “(2)
 
@@ -1195,15 +1195,15 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Transition Rule
 
-Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: “In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(<i>l</i>)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting ‘30 years’ for ‘25 years’.”
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: “In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting ‘30 years’ for ‘25 years’.”
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 
-Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in \[former\] section 143(a)(1)(B) of the 1986 Code shall be treated as contained in section 103A(c)(1)(B) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such \[section\] 103A(c)(1) applies.”
+Pub. L. 100–647, title I, §1013(a)(27), Nov. 10, 1988, 102 Stat. 3543, provided that: “The date contained in \[former\] section 143(a)(1)(B) of the 1986 Code shall be treated as contained in section 103A(c)(1)(B) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such \[section\] 103A(c)(1) applies.”
 
 #### Study of Recapture Provisions
 
-Section 4005(i) of Pub. L. 100–647 provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Pub. L. 100–647, title IV, §4005(i), Nov. 10, 1988, 102 Stat. 3651, provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
 <i><sup>1</sup></i><i> So in original. Two pars. (12) have been enacted.</i>
 

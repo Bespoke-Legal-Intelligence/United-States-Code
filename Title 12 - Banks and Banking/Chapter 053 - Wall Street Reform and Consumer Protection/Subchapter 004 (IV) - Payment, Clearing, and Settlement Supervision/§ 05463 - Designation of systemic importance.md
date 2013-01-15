@@ -28,7 +28,7 @@
 
 #### (2) Effect of rescission
 
-&emsp;Upon rescission, the financial market utility or financial institutions conducting the activity will no longer be subject to the provisionsof this subchapter or any rules or orders prescribed under this subchapter.
+&emsp;Upon rescission, the financial market utility or financial institutions conducting the activity will no longer be subject to the provisions of this subchapter or any rules or orders prescribed under this subchapter.
 
 #### (c) Consultation and notice and opportunity for hearing
 

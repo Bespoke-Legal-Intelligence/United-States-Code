@@ -28,7 +28,7 @@ The Director may—
 
 #### (5) Assessments
 
-&emsp;The cost of conducting any examination of any loan originator operating in any Statewhich is subject to a licensing system established by the Director under section 5107 of this title shall be assessed by the Director against the loan originator to meet the Secretary's <sup>1</sup> expenses in carrying out such examination.
+&emsp;The cost of conducting any examination of any loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title shall be assessed by the Director against the loan originator to meet the Secretary's <sup>1</sup> expenses in carrying out such examination.
 
 #### (c) Cease and desist proceeding
 
@@ -72,7 +72,7 @@ The Director may—
 
 #### (1) In general
 
-&emsp;The Director may impose a civil penalty on a loan originator operating in any State whichis subject to a licensing system established by the Director under section 5107 of this title, if the Director finds, on the record after notice and opportunity for hearing, that such loan originator has violated or failed to comply with any requirement of this chapter or any regulation prescribed by the Director under this chapter or order issued under subsection (c).
+&emsp;The Director may impose a civil penalty on a loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title, if the Director finds, on the record after notice and opportunity for hearing, that such loan originator has violated or failed to comply with any requirement of this chapter or any regulation prescribed by the Director under this chapter or order issued under subsection (c).
 
 #### (2) Maximum amount of penalty
 

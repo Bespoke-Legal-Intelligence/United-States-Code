@@ -54,7 +54,7 @@ Fuel Economy Information Booklet.—(1) The Administrator shall prepare the book
 
 &emsp;(i) the energy efficiency and cost of operation of those automobiles when operated on gasoline or diesel fuel as compared to those automobiles when operated on alternative fuel; and
 
-&emsp;(ii) the driving range of those automobiles when operated on gasoline or diesel fuel ascompared to those automobiles when operated on alternative fuel.
+&emsp;(ii) the driving range of those automobiles when operated on gasoline or diesel fuel as compared to those automobiles when operated on alternative fuel.
 
 (B) For dual fueled automobiles, the booklet published under paragraph (1) also shall contain—
 
@@ -216,7 +216,7 @@ This amends 49:32908(b)(1) to clarify the restatement of 15:2006(a)(1) by sectio
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 

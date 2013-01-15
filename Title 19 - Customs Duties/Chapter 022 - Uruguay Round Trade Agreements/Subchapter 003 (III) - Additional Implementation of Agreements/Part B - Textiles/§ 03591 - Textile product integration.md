@@ -10,7 +10,7 @@ Not later than 120 days after the date that the WTO Agreement enters into force 
 
 #### Effective Date
 
-Section 335 of title III of Pub. L. 103–465 provided that: “Except as provided in section 334 \[enacting section 3592 of this title\], this subtitle \[subtitle D (§§331–335) of title III of Pub. L. 103–465, enacting this part and section 1592a of this title, and amending section 1854 of Title 7, Agriculture\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
+Pub. L. 103–465, title III, §335, Dec. 8, 1994, 108 Stat. 4951, provided that: “Except as provided in section 334 \[enacting section 3592 of this title\], this subtitle \[subtitle D (§§331–335) of title III of Pub. L. 103–465, enacting this part and section 1592a of this title, and amending section 1854 of Title 7, Agriculture\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
 #### Uruguay Round Agreements: Entry Into Force
 

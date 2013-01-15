@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the problem of acid deposition is of national and international significance;
 
-&emsp;(4) strategies and technologies for the control of precursors to acid deposition exist now that are economically feasible, and improved methods are expected to become increasingly available over the next decade;
+&emsp;(4) strategies and technologies for the control of precursors to acid deposition exist nowthat are economically feasible, and improved methods are expected to become increasingly available over the next decade;
 
 &emsp;(5) current and future generations of Americans will be adversely affected by delaying measures to remedy the problem;
 
@@ -30,11 +30,11 @@ Another section 401 of act July 14, 1955, as added by Pub. L. 91–604, §14, De
 
 #### Acid Deposition Standards
 
-Section 404 of Pub. L. 101–549 directed Administrator of Environmental Protection Agency, not later than 36 months after Nov. 15, 1990, to transmit to Congress a report on the feasibility and effectiveness of an acid deposition standard or standards to protect sensitive and critically sensitive aquatic and terrestrial resources.
+Pub. L. 101–549, title IV, §404, Nov. 15, 1990, 104 Stat. 2632, directed Administrator of Environmental Protection Agency, not later than 36 months after Nov. 15, 1990, to transmit to Congress a report on the feasibility and effectiveness of an acid deposition standard or standards to protect sensitive and critically sensitive aquatic and terrestrial resources.
 
 #### Industrial SO<sub>2</sub> Emissions
 
-Section 406 of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title IV, §406, Nov. 15, 1990, 104 Stat. 2632, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Report.—Not later than January 1, 1995 and every 5 years thereafter, the Admin
 
 “(b) 5.60
 
-Million Ton Cap.—Whenever the inventory required by this section indicates that sulfur dioxide emissions from industrial sources, including units subject to section 405(g)(5) of the Clean Air Act \[42 U.S.C. 7651d(g)(5)\], may reasonably be expected to reach levels greater than 5.60 million tons per year, the Administrator of the Environmental Protection Agency shall take such actions under the Clean Air Act \[42 U.S.C. 7401 et seq.\] as may be appropriate to ensure that such emissions do not exceed 5.60 million tons per year. Such actions may include the promulgation of new and revised standards of performance for new sources, including units subject to section 405(g)(5) of the Clean Air Act, under section 111(b) of the Clean Air Act \[42 U.S.C. 7411(b)\], as well as promulgation of standards of performance for existing sources, including units subject to section 405(g)(5) of the Clean Air Act, under authority of this section. For an existing source regulated under this section, ‘standard of performance’ means a standard which the Administrator determines is applicable to that source and which reflects the degree of emission reduction achievable through the application of the best system of continuous emission reductionwhich (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated for that category of sources.
+Million Ton Cap.—Whenever the inventory required by this section indicates that sulfur dioxide emissions from industrial sources, including units subject to section 405(g)(5) of the Clean Air Act \[42 U.S.C. 7651d(g)(5)\], may reasonably be expected to reach levels greater than 5.60 million tons per year, the Administrator of the Environmental Protection Agency shall take such actions under the Clean Air Act \[42 U.S.C. 7401 et seq.\] as may be appropriate to ensure that such emissions do not exceed 5.60 million tons per year. Such actions may include the promulgation of new and revised standards of performance for new sources, including units subject to section 405(g)(5) of the Clean Air Act, under section 111(b) of the Clean Air Act \[42 U.S.C. 7411(b)\], as well as promulgation of standards of performance for existing sources, including units subject to section 405(g)(5) of the Clean Air Act, under authority of this section. For an existing source regulated under this section, ‘standard of performance’ means a standard which the Administrator determines is applicable to that source and which reflects the degree of emission reduction achievable through the application of the best system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated for that category of sources.
 
 “(c)
 
@@ -52,11 +52,11 @@ Election.—Regulations promulgated under section 405(b) of the Clean Air Act \[
 
 #### Sense of Congress on Emission Reductions Costs
 
-Section 407 of Pub. L. 101–549 provided that: “It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable.”
+Pub. L. 101–549, title IV, §407, Nov. 15, 1990, 104 Stat. 2633, provided that: “It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable.”
 
 #### Monitoring of Acid Rain Program in Canada
 
-Section 408 of Pub. L. 101–549 provided that:
+Pub. L. 101–549, title IV, §408, Nov. 15, 1990, 104 Stat. 2633, provided that:
 
 “(a)
 

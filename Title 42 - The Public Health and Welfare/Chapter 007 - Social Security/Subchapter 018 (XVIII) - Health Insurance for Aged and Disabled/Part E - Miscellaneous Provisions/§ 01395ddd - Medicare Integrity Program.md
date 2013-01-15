@@ -124,7 +124,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;(B) documented educational intervention has failed to correct the payment error.
 
-> &emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of determinations by the Secretary of sustained or high levels of payment errors under this paragraph.
+> &emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of determinations by the Secretary of sustained or high levels of payment errors under this paragraph.
 
 #### (4) Provision of supporting documentation
 

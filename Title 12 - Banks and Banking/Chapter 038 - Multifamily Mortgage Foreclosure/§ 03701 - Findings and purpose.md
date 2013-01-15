@@ -10,7 +10,7 @@
 
 &emsp;(4) application of State redemption periods to these mortgages following their foreclosure would impair the salability of the properties involved and discourage their rehabilitation and improvement, thereby compounding the problems referred to in clause (3);
 
-&emsp;(5) the availability of a uniform and more expeditious procedure for the foreclosure ofthese mortgages by the Secretary and continuation of the practice of not applying postsale redemption periods to such mortgages will tend to ameliorate these conditions; and
+&emsp;(5) the availability of a uniform and more expeditious procedure for the foreclosure of these mortgages by the Secretary and continuation of the practice of not applying postsale redemption periods to such mortgages will tend to ameliorate these conditions; and
 
 &emsp;(6) providing the Secretary with a nonjudicial foreclosure procedure will reduce unnecessary litigation by removing many foreclosures from the courts where they contribute to overcrowded calendars.
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 102–550, §517(a)(2), substituted “multifamily mortgage
 
 #### Effective Date
 
-Section 371 of subtitle A of title III of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title III, §371, Aug. 13, 1981, 95 Stat. 431, provided that:
 
 “(a) Except as otherwise provided in this subtitle, the provisions of this subtitle \[for classification of subtitle A (§300–371) of title III of Pub. L. 97–35, see Tables\] shall take effect on October 1, 1981.
 
@@ -34,5 +34,5 @@ Section 371 of subtitle A of title III of Pub. L. 97–35 provided that:
 
 #### Short Title
 
-Section 361 of part 6 of subtitle A of title III of Pub. L. 97–35 provided that: “This part \[enacting this chapter\] may be cited as the ‘Multifamily Mortgage Foreclosure Act of 1981’.”
+Pub. L. 97–35, title III, §361, Aug. 13, 1981, 95 Stat. 422, provided that: “This part \[enacting this chapter\] may be cited as the ‘Multifamily Mortgage Foreclosure Act of 1981’.”
 

@@ -26,7 +26,7 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 #### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
 
-Pub. L. 107–314, div. A, title I, §133, Dec. 2, 2002, 116 Stat. 2477, provided that: “The Secretary of the Air Force may not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 ofthe Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284; 10 U.S.C. 2401a note) until—
+Pub. L. 107–314, div. A, title I, §133, Dec. 2, 2002, 116 Stat. 2477, provided that: “The Secretary of the Air Force may not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284; 10 U.S.C. 2401a note) until—
 
 &emsp;“(1) the Secretary submits the report specified in subsection (c)(6) of such section; and
 
@@ -98,7 +98,7 @@ Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided th
 
 &emsp;“(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years.
 
-&emsp;“(3) The Secretary may provide for special payments to a lessor if either the Secretary terminatesor cancels the lease prior to the expiration of its term or aircraft are damaged or destroyed prior to the expiration of the term of the lease. Such special payments shall not exceed an amount equal to the value of one year's lease payment under the lease. The amount of special payments shall be subject to negotiation between the Air Force and lessors.
+&emsp;“(3) The Secretary may provide for special payments to a lessor if either the Secretary terminates or cancels the lease prior to the expiration of its term or aircraft are damaged or destroyed prior to the expiration of the term of the lease. Such special payments shall not exceed an amount equal to the value of one year's lease payment under the lease. The amount of special payments shall be subject to negotiation between the Air Force and lessors.
 
 &emsp;“(4) Notwithstanding any other provision of law, any payments required under a lease under this section, and any payments made pursuant to subsection (3) above may be made from:
 

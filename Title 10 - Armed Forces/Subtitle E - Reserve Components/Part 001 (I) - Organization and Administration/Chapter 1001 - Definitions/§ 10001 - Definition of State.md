@@ -32,7 +32,7 @@ Pub. L. 104–201, div. A, title XII, §1201, Sept. 23, 1996, 110 Stat. 2689, pr
 
 #### Short Title
 
-Section 1601 of title XVI of div. A of Pub. L. 103–337 provided that: “This title \[see Tables for classification\] may be cited as the ‘Reserve Officer Personnel Management Act’.”
+Pub. L. 103–337, div. A, title XVI, §1601, Oct. 5, 1994, 108 Stat. 2921, provided that: “This title \[see Tables for classification\] may be cited as the ‘Reserve Officer Personnel Management Act’.”
 
 #### Congressional Statement of Purpose
 
@@ -40,9 +40,9 @@ Pub. L. 104–201, div. A, title XII, §1202, Sept. 23, 1996, 110 Stat. 2689, pr
 
 #### Preservation of Suspended Status of Laws Suspended on September 30, 1996
 
-Section 1692 of title XVI of div. A of Pub. L. 103–337 provided that: “If a provision of law that is in a suspended status on the day before the effective date of this title under section 1691(b)(1) \[set out above\] is transferred or amended by this title \[see Tables for classification\], the suspended status of that provision is not affected by that transfer or amendment.”
+Pub. L. 103–337, div. A, title XVI, §1692, Oct. 5, 1994, 108 Stat. 3027, provided that: “If a provision of law that is in a suspended status on the day before the effective date of this title under section 1691(b)(1) \[set out above\] is transferred or amended by this title \[see Tables for classification\], the suspended status of that provision is not affected by that transfer or amendment.”
 
 #### Preservation of Pre-Existing Rights, Duties, Penalties, and Proceedings
 
-Section 1693 of title XVI of div. A of Pub. L. 103–337 provided that: “Except as otherwise provided in this title \[see Tables for classification\], the provisions of this title and the amendments made by this title do not affect rights and duties that matured, penalties that were incurred, or proceedings that were begun before the effective date of this title under section 1691(b)(1) \[set out above\].”
+Pub. L. 103–337, div. A, title XVI, §1693, Oct. 5, 1994, 108 Stat. 3027, provided that: “Except as otherwise provided in this title \[see Tables for classification\], theprovisions of this title and the amendments made by this title do not affect rights and duties that matured, penalties that were incurred, or proceedings that were begun before the effective date of this title under section 1691(b)(1) \[set out above\].”
 

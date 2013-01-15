@@ -8,7 +8,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “generally applicable leverage capital requirements” means—
 
-&emsp;&emsp;(A) the minimum ratios of tier 1 capital to average total assets, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831<i>o</i> of this title, regardless of total consolidated asset size or foreign financial exposure; and
+&emsp;&emsp;(A) the minimum ratios of tier 1 capital to average total assets, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
 
 &emsp;&emsp;(B) includes the regulatory capital components in the numerator of that capital requirement, average total assets in the denominator of that capital requirement, and the required ratio of the numerator to the denominator.
 
@@ -16,7 +16,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “generally applicable risk-based capital requirements” means—
 
-&emsp;&emsp;(A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831<i>o</i> of this title, regardless of total consolidated asset size or foreign financial exposure; and
+&emsp;&emsp;(A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
 
 &emsp;&emsp;(B) includes the regulatory capital components in the numerator of those capital requirements, the risk-weighted assets in the denominator of those capital requirements, and the required ratio of the numerator to the denominator.
 
@@ -64,7 +64,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;This section shall not apply to—
 
-&emsp;&emsp;(A) debt or equity instruments issued to the United States or any agency or instrumentality thereof pursuant to the Emergency Economic Stabilization Act of 2008 \[12U.S.C. 5201 et seq.\], and prior to October 4, 2010;
+&emsp;&emsp;(A) debt or equity instruments issued to the United States or any agency or instrumentality thereof pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\], and prior to October 4, 2010;
 
 &emsp;&emsp;(B) any Federal home loan bank; or
 
@@ -82,7 +82,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (C) Report to Congress
 
-&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
+&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on FinancialServices of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
 
 #### (7) Capital requirements to address activities that pose risks to the financial system
 

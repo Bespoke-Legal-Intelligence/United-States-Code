@@ -52,7 +52,7 @@ Requirements for Uniform Termination of Coverage.—
 
 Particular type of coverage not offered.—In any case in which an issuer decides to discontinue offering a particular type of group health insurance coverage offered in the small or large group market, coverage of such type may be discontinued by the issuer in accordance with applicable State law in such market only if—
 
-&emsp;&emsp;“(A) the issuer provides notice to each plan sponsor provided coverage of this type in such market (and participants and beneficiaries covered under such coverage) of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;
+&emsp;&emsp;“(A) the issuer provides notice to each plan sponsor provided coverage of this type in such market (and participants and beneficiaries covered under such coverage) of such discontinuation at least 90days prior to the date of the discontinuation of such coverage;
 
 &emsp;&emsp;“(B) the issuer offers to each plan sponsor provided coverage of this type in such market, the option to purchase all (or, in the case of the large group market, any) other health insurance coverage currently being offered by the issuer to a group health plan in such market; and
 

@@ -26,7 +26,7 @@ Pub. L. 107–210, div. C, title XXXI, §3101, Aug. 6, 2002, 116 Stat. 1023, pro
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 102–182 provided that: “This title \[enacting this chapter\] may be cited as the ‘Andean Trade Preference Act’.”
+Pub. L. 102–182, title II, §201, Dec. 4, 1991, 105 Stat. 1236, provided that: “This title \[enacting this chapter\] may be cited as the ‘Andean Trade Preference Act’.”
 
 #### Findings
 

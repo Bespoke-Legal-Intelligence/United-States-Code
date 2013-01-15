@@ -58,7 +58,7 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (2), is
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–465 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uruguay Round Agreements Act’.”
+Pub. L. 103–465, §1(a), Dec. 8, 1994, 108 Stat. 4809, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uruguay Round Agreements Act’.”
 
 #### Uruguay Round Agreements: Entry Into Force
 

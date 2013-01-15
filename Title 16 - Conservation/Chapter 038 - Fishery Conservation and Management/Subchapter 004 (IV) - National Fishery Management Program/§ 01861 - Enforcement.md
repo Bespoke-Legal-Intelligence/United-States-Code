@@ -108,7 +108,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (1) In general
 
-&emsp;The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter orany other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
+&emsp;The Governor of an eligible State may apply to the Secretary for execution of a joint enforcement agreement with the Secretary that will authorize the deputization and funding of State law enforcement officers with marine law enforcement responsibilities to perform duties of the Secretary relating to law enforcement provisions under this subchapter or any other marine resource law enforced by the Secretary. Upon receiving an application meeting the requirements of this subsection, the Secretary may enter into a joint enforcement agreement with the requesting State.
 
 #### (2) Eligible State
 
@@ -198,7 +198,7 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 &emsp;“(2) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter.
 
-> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
+> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall beliable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -238,7 +238,7 @@ Sec. 110. There is established in the Treasury a non-interest bearing fund to be
 
 “
 
-Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the ‘Sanctuaries Enforcement Asset Forfeiture Fund’, which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended.”
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the ‘Sanctuaries Enforcement Asset Forfeiture Fund’, which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Sanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended.”
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 

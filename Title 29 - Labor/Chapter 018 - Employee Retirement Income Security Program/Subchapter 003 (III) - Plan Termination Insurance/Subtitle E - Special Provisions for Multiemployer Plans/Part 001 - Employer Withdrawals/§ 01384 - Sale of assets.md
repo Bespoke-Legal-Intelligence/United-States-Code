@@ -48,7 +48,7 @@ The corporation may by regulation vary the standards in subparagraphs (B) and (C
 
 #### (d) “Unrelated party” defined
 
-For purposes of this section, the term “unrelated party” means a purchaser or seller who does not bear a relationship to the seller or purchaser, as the case may be, that is described in section 267(b) of title 26, or that is described in regulations prescribed by the corporation applying principles similar to the principles of such section.
+For purposes of this section, the term “unrelated party” means a purchaser or seller whodoes not bear a relationship to the seller or purchaser, as the case may be, that is described in section 267(b) of title 26, or that is described in regulations prescribed by the corporation applying principles similar to the principles of such section.
 
 (Pub. L. 93–406, title IV, §4204, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1220; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

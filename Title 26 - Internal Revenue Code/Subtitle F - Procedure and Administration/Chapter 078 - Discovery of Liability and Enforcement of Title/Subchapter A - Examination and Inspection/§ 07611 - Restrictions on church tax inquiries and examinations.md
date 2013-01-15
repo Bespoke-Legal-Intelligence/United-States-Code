@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(B)(i) send a notice of deficiency of any tax involved in a church tax examination, or
 
-&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating todeficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
+&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
 
 > &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section and approves in writing of such revocation, notice of deficiency, or assessment.
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 1033(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, §1033(d), July 18, 1984, 98 Stat. 1039, provided that: “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

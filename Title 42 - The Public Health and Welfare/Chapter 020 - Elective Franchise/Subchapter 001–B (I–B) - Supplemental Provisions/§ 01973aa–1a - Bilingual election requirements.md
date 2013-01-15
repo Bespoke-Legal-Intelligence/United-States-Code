@@ -32,7 +32,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 &emsp;As used in this section—
 
-&emsp;&emsp;(A) the term “voting materials” means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
+&emsp;&emsp;(A) the term “voting materials” means registration or voting notices, forms, instructions, assistance, or other materials orinformation relating to the electoral process, including ballots;
 
 &emsp;&emsp;(B) the term “limited-English proficient” means unable to speak or understand English adequately enough to participate in the electoral process;
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 97–205 effective June 29, 1982, see section 6 of Pub. L. 
 
 #### Extension to August 6, 1992, of Prohibition on Use of Voting Instructions, Assistance, or Other Materials or Information in English Only; Limitations Based on 1980 Census and Subsequent Census Data
 
-Section 4 of Pub. L. 97–205 provided in part that: “\[T\]he extension made by this section \[amending subsec. (b) of this section\] shall apply only to determinations made by the Director of the Census under clause (i) of section 203(b) \[subsec. (b)(i) of this section\] for members of a single language minority who do not speak or understand English adequately enough to participate in the electoral process when such a determination can be made by the Director of the Census based on the 1980 and subsequent census data.”
+Pub. L. 97–205, §4, June 29, 1982, 96 Stat. 134, provided in part that: “\[T\]he extension made by this section \[amending subsec. (b) of this section\] shall apply only to determinations made by the Director of the Census under clause (i) of section 203(b) \[subsec. (b)(i) of this section\] for members of a single language minority who do not speak or understand English adequately enough to participate in the electoral process when such a determination can be made by the Director of the Census based on the 1980 and subsequent census data.”
 

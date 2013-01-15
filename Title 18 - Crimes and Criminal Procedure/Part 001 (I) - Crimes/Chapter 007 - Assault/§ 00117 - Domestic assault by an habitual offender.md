@@ -12,7 +12,7 @@ In General.—Any person who commits a domestic assault within the special marit
 
 (b)
 
-Domestic Assault Defined.—In this section, the term “domestic assault” means an assault committed by a current or former spouse,parent, child, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, child, or guardian, or by a person similarly situated to a spouse, parent, child, or guardian of the victim.
+Domestic Assault Defined.—In this section, the term “domestic assault” means an assault committed by a current or former spouse, parent, child, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, child, or guardian, or by a person similarly situated to a spouse, parent, child, or guardian of the victim.
 
 (Added Pub. L. 109–162, title IX, §909, Jan. 5, 2006, 119 Stat. 3084.)
 

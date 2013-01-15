@@ -20,13 +20,13 @@
 
 &emsp;(9) printing.
 
-(b) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
+(b) For the purpose of recovering the cost of services of the United States Trustee System,there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
 
 &emsp;(1)(A) 40.46 percent of the fees collected under section 1930(a)(1)(A); and
 
 &emsp;(B) 28.33 percent of the fees collected under section 1930(a)(1)(B);
 
-&emsp;(2) 55 percent of the fees collected under section 1930(a)(3) of this title;
+&emsp;(2) 48.89 percent of the fees collected under section 1930(a)(3) of this title;
 
 &emsp;(3) one-half of the fees collected under section 1930(a)(4) of this title;
 
@@ -42,7 +42,7 @@
 
 &emsp;(9) interest earned on Fund investment; and
 
-&emsp;(10) fines imposed under section 110(<i>l</i>) of title 11, United States Code.
+&emsp;(10) fines imposed under section 110(l) of title 11, United States Code.
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -50,13 +50,15 @@
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914.)
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(b), May 25, 2012, 126 Stat. 348.)
 
 #### Codification
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–121 substituted “48.89” for “55”.
 
 <b>2007</b>—Subsec. (b)(10). Pub. L. 110–161 added par. (10).
 
@@ -90,6 +92,10 @@ Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
 <b>1989</b>—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–121, §3(e), May 25, 2012, 126 Stat. 349, provided that: “This section \[amending this section and section 1930 of this title and enacting and amending provisions set out as notes under section 1931 of this title\] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act \[May 25, 2012\].”
+
 #### Effective Date of 2005 Amendments
 
 Pub. L. 109–13, div. A, title VI, §6058(b), May 11, 2005, 119 Stat. 297, provided that: “This section \[amending this section and section 1930 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 1930 and 1931 of this title\] and the amendment made by this section shall take effect immediately after the enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 \[Pub. L. 109–8, approved Apr. 20, 2005\].”
@@ -102,17 +108,17 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 S
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title I, §109(c)\] of Pub. L. 104–208 provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(c)\], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 111(a) of Pub. L. 103–121 provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, §111(a), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
-Section 111(b) of Pub. L. 103–121 provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, §111(b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
 #### Effective Date of 1991 Amendment
 
-Section 111 of Pub. L. 102–140 provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
+Pub. L. 102–140, title I, §111, Oct. 28, 1991, 105 Stat. 795, provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
 
 #### Effective Date
 

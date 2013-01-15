@@ -22,7 +22,7 @@ As used in this section, the term “controlled premises” means—
 
 &emsp;(C) to inventory any stock of any controlled substance or listed chemical therein and obtain samples of any such substance or chemical.
 
-(4) Except when the owner, operator, or agent in charge of the controlled premises so consents in writing, no inspection authorized by this section shall extend to—
+(4) Except when the owner, operator, or agent in charge of the controlled premises so consentsin writing, no inspection authorized by this section shall extend to—
 
 &emsp;(A) financial data;
 

@@ -40,7 +40,7 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
 
-(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
+(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23,1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Construction of 1988 Amendment
 
-Section 702(b) of Pub. L. 100–399 provided that section 805(x) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(x) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 
 #### Interim Implementation of 1985 Amendment
 

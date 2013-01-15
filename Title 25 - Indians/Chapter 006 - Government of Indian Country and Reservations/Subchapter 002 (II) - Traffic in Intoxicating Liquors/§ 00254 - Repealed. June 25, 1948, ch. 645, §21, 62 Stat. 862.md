@@ -4,5 +4,5 @@ Section, act June 27, 1934, ch. 846, 48 Stat. 1245, related to inapplicability o
 
 #### Effective Date of Repeal
 
-Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948.
+Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.
 

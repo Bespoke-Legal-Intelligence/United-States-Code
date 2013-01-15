@@ -35,6 +35,7 @@
 | [335c.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000335c%20-%20Authority%20to%20withdraw%20approval%20of%20abbreviated%20drug%20applications.md) | Authority to withdraw approval of abbreviated drug applications. |
 | [336\.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000336%20-%20Report%20of%20minor%20violations.md) | Report of minor violations. |
 | [337\.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000337%20-%20Proceedings%20in%20name%20of%20United%20States%3B%20provision%20as%20to%20subpoenas.md) | Proceedings in name of United States; provision as to subpoenas. |
+| [337a.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000337a%20-%20Extraterritorial%20jurisdiction.md) | Extraterritorial jurisdiction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,8 +72,8 @@
 | [350i.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350i%20-%20Protection%20against%20intentional%20adulteration.md) | Protection against intentional adulteration. |
 | [350j.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350j%20-%20Targeting%20of%20inspection%20resources%20for%20domestic%20facilities%2C%20foreign%20facilities%2C%20and%20ports%20of%20entry%3B%20annual%20report.md) | Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report. |
 | [350k.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350k%20-%20Laboratory%20accreditation%20for%20analyses%20of%20foods.md) | Laboratory accreditation for analyses of foods. |
-| 350<i>l</i>. | Mandatory recall authority. |
-| 350<i>l</i>–1. | Annual report to Congress. |
+| [350l.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350l%20-%20Mandatory%20recall%20authority.md) | Mandatory recall authority. |
+| 350l–1. | Annual report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,32 +94,43 @@
 | [355a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md) | Pediatric studies of drugs. |
 | [355b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355b%20-%20Adverse-event%20reporting.md) | Adverse-event reporting. |
 | [355c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355c%20-%20Research%20into%20pediatric%20uses%20for%20drugs%20and%20biological%20products.md) | Research into pediatric uses for drugs and biological products. |
-| [355d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355d%20-%20Internal%20committee%20for%20review%20of%20pediatric%20plans%2C%20assessments%2C%20deferrals%2C%20and%20waivers.md) | Internal committee for review of pediatric plans, assessments, deferrals, and waivers. |
+| 355c–1. | Report. |
+| [355d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355d%20-%20Internal%20committee%20for%20review%20of%20pediatric%20plans%2C%20assessments%2C%20deferrals%2C%20deferral%20extensions%2C%20and%20waivers.md) | Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers. |
 | [355e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355e%20-%20Pharmaceutical%20security.md) | Pharmaceutical security. |
-| [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Fast%20track%20products.md) | Fast track products. |
+| [355f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355f%20-%20Extension%20of%20exclusivity%20period%20for%20new%20qualified%20infectious%20disease%20products.md) | Extension of exclusivity period for new qualified infectious disease products. |
+| [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Expedited%20approval%20of%20drugs%20for%20serious%20or%20life-threatening%20diseases%20or%20conditions.md) | Expedited approval of drugs for serious or life-threatening diseases or conditions. |
 | 356–1. | Accelerated approval of priority countermeasures. |
 | [356a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356a%20-%20Manufacturing%20changes.md) | Manufacturing changes. |
 | [356b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356b%20-%20Reports%20of%20postmarketing%20studies.md) | Reports of postmarketing studies. |
-| [356c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356c%20-%20Discontinuance%20of%20life%20saving%20product.md) | Discontinuance of life saving product. |
+| [356c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356c%20-%20Discontinuance%20or%20interruption%20in%20the%20production%20of%20life-saving%20drugs.md) | Discontinuance or interruption in the production of life-saving drugs. |
+| 356c–1. | Annual reporting on drug shortages. |
+| [356d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356d%20-%20Coordination%3B%20task%20force%20and%20strategic%20plan.md) | Coordination; task force and strategic plan. |
+| [356e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356e%20-%20Drug%20shortage%20list.md) | Drug shortage list. |
+| [356f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356f%20-%20Hospital%20repackaging%20of%20drugs%20in%20shortage.md) | Hospital repackaging of drugs in shortage. |
 | [357\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000357%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93115%2C%20title%20I%2C%20%C2%A7125%28b%29%281%29%2C%20Nov.%2021%2C%201997%2C%20111%20Stat.%202325.md) | Repealed. |
 | [358\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md) | Authority to designate official names. |
 | [359\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md) | Nonapplicability of subchapter to cosmetics. |
 | [360\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360%20-%20Registration%20of%20producers%20of%20drugs%20or%20devices.md) | Registration of producers of drugs or devices. |
 | [360a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360a%20-%20Clinical%20trial%20guidance%20for%20antibiotic%20drugs.md) | Clinical trial guidance for antibiotic drugs. |
+| 360a–1. | Clinical trials. |
 | [360b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360b%20-%20New%20animal%20drugs.md) | New animal drugs. |
 | [360c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360c%20-%20Classification%20of%20devices%20intended%20for%20human%20use.md) | Classification of devices intended for human use. |
+| 360c–1. | Reporting. |
 | [360d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360d%20-%20Performance%20standards.md) | Performance standards. |
 | [360e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360e%20-%20Premarket%20approval.md) | Premarket approval. |
 | 360e–1. | Pediatric uses of devices. |
 | [360f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360f%20-%20Banned%20devices.md) | Banned devices. |
 | [360g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360g%20-%20Judicial%20review.md) | Judicial review. |
+| 360g–1. | Agency documentation and review of significant decisions regarding devices. |
 | [360h.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360h%20-%20Notification%20and%20other%20remedies.md) | Notification and other remedies. |
+| 360h–1. | Program to improve the device recall system. |
 | [360i.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360i%20-%20Records%20and%20reports%20on%20devices.md) | Records and reports on devices. |
 | [360j.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360j%20-%20General%20provisions%20respecting%20control%20of%20devices%20intended%20for%20human%20use.md) | General provisions respecting control of devices intended for human use. |
 | [360k.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360k%20-%20State%20and%20local%20requirements%20respecting%20devices.md) | State and local requirements respecting devices. |
 | 360<i>l.</i> | Postmarket surveillance. |
 | [360m.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360m%20-%20Accredited%20persons.md) | Accredited persons. |
 | [360n.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360n%20-%20Priority%20review%20to%20encourage%20treatments%20for%20tropical%20diseases.md) | Priority review to encourage treatments for tropical diseases. |
+| 360n–1. | Priority review for qualified infectious disease products. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -131,6 +143,7 @@
 | [360cc.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360cc%20-%20Protection%20for%20drugs%20for%20rare%20diseases%20or%20conditions.md) | Protection for drugs for rare diseases or conditions. |
 | [360dd.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360dd%20-%20Open%20protocols%20for%20investigations%20of%20drugs%20for%20rare%20diseases%20or%20conditions.md) | Open protocols for investigations of drugs for rare diseases or conditions. |
 | [360ee.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360ee%20-%20Grants%20and%20contracts%20for%20development%20of%20drugs%20for%20rare%20diseases%20and%20conditions.md) | Grants and contracts for development of drugs for rare diseases and conditions. |
+| [360ff.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20B%20-%20Drugs%20for%20Rare%20Diseases%20or%20Conditions/%C2%A7%2000360ff%20-%20Priority%20review%20to%20encourage%20treatments%20for%20rare%20pediatric%20diseases.md) | Priority review to encourage treatments for rare pediatric diseases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -172,6 +185,11 @@
 | 360bbb–4. | Technical assistance. |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
+| 360bbb–7. | Notification. |
+| 360bbb–8. | Consultation with external experts on rare diseases, targeted therapies, and genetic targeting of treatments. |
+| 360bbb–8a. | Optimizing global clinical trials. |
+| 360bbb–8b. | Use of clinical investigation data from outside the United States. |
+| 360bbb–8c. | Patient participation in medical product discussion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -182,6 +200,16 @@
 | [360ccc.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20F%20-%20New%20Animal%20Drugs%20for%20Minor%20Use%20and%20Minor%20Species/%C2%A7%2000360ccc%20-%20Conditional%20approval%20of%20new%20animal%20drugs%20for%20minor%20use%20and%20minor%20species.md) | Conditional approval of new animal drugs for minor use and minor species. |
 | 360ccc–1. | Index of legally marketed unapproved new animal drugs for minor species. |
 | 360ccc–2. | Designated new animal drugs for minor use or minor species. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Medical Gases
+
+|  |  |
+| :--- | ---: |
+| [360ddd.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20G%20-%20Medical%20Gases/%C2%A7%2000360ddd%20-%20Definitions.md) | Definitions. |
+| 360ddd–1. | Regulation of medical gases. |
+| 360ddd–2. | Inapplicability of drug fees to designated medical gases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -219,6 +247,9 @@
 | [379d.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000379d%20-%20Automation%20of%20Food%20and%20Drug%20Administration.md) | Automation of Food and Drug Administration. |
 | 379d–1. | Conflicts of interest. |
 | 379d–2. | Policy on the review and clearance of scientific articles published by FDA employees. |
+| 379d–3. | Streamlined hiring authority. |
+| 379d–4. | Reporting requirements. |
+| 379d–5. | Guidance document regarding product promotion using the Internet. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -288,12 +319,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 7—fees relating to generic drugs
+
+|  |  |
+| :--- | ---: |
+| 379j–41. | Definitions. |
+| 379j–42. | Authority to assess and use human generic drug fees. |
+| 379j–43. | Reauthorization; reporting requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 8—fees relating to biosimilar biological products
+
+|  |  |
+| :--- | ---: |
+| 379j–51. | Definitions. |
+| 379j–52. | Authority to assess and use biosimilar biological product fees. |
+| 379j–53. | Reauthorization; reporting requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part D—Information and Education
 
 |  |  |
 | :--- | ---: |
 | [379k.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20D%20-%20Information%20and%20Education/%C2%A7%2000379k%20-%20Information%20system.md) | Information system. |
-| 379<i>l</i>. | Education. |
+| 379k–1. | Electronic format for submissions. |
+| [379l.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20D%20-%20Information%20and%20Education/%C2%A7%2000379l%20-%20Education.md) | Education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -301,7 +353,7 @@
 
 |  |  |
 | :--- | ---: |
-| 379<i>o</i>. | Environmental impact. |
+| [379o.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20E%20-%20Environmental%20Impact%20Review/%C2%A7%2000379o%20-%20Environmental%20impact.md) | Environmental impact. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -353,6 +405,7 @@
 | [384b.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384b%20-%20Voluntary%20qualified%20importer%20program.md) | Voluntary qualified importer program. |
 | [384c.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384c%20-%20Inspection%20of%20foreign%20food%20facilities.md) | Inspection of foreign food facilities. |
 | [384d.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384d%20-%20Accreditation%20of%20third-party%20auditors.md) | Accreditation of third-party auditors. |
+| [384e.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384e%20-%20Recognition%20of%20foreign%20government%20inspections.md) | Recognition of foreign government inspections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -374,10 +427,10 @@
 | [387i.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387i%20-%20Records%20and%20reports%20on%20tobacco%20products.md) | Records and reports on tobacco products. |
 | [387j.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387j%20-%20Application%20for%20review%20of%20certain%20tobacco%20products.md) | Application for review of certain tobacco products. |
 | [387k.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387k%20-%20Modified%20risk%20tobacco%20products.md) | Modified risk tobacco products. |
-| 387<i>l</i>. | Judicial review. |
+| [387l.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387l%20-%20Judicial%20review.md) | Judicial review. |
 | [387m.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387m%20-%20Equal%20treatment%20of%20retail%20outlets.md) | Equal treatment of retail outlets. |
 | [387n.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387n%20-%20Jurisdiction%20of%20and%20coordination%20with%20the%20Federal%20Trade%20Commission.md) | Jurisdiction of and coordination with the Federal Trade Commission. |
-| 387<i>o</i>. | Regulation requirement. |
+| [387o.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387o%20-%20Regulation%20requirement.md) | Regulation requirement. |
 | [387p.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387p%20-%20Preservation%20of%20State%20and%20local%20authority.md) | Preservation of State and local authority. |
 | [387q.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387q%20-%20Tobacco%20Products%20Scientific%20Advisory%20Committee.md) | Tobacco Products Scientific Advisory Committee. |
 | [387r.](Subchapter%20009%20%28IX%29%20-%20Tobacco%20Products/%C2%A7%2000387r%20-%20Drug%20products%20used%20to%20treat%20tobacco%20dependence.md) | Drug products used to treat tobacco dependence. |
@@ -405,6 +458,8 @@
 | [399b.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399b%20-%20Office%20of%20Women%27s%20Health.md) | Office of Women's Health. |
 | [399c.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399c%20-%20Improving%20the%20training%20of%20State%2C%20local%2C%20territorial%2C%20and%20tribal%20food%20safety%20officials.md) | Improving the training of State, local, territorial, and tribal food safety officials. |
 | [399d.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399d%20-%20Employee%20protections.md) | Employee protections. |
+| [399e.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399e%20-%20Nanotechnology.md) | Nanotechnology. |
+| [399f.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399f%20-%20Ensuring%20adequate%20information%20regarding%20pharmaceuticals%20for%20all%20populations%2C%20particularly%20underrepresented%20subpopulations%2C%20including%E2%80%A6.md) | Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

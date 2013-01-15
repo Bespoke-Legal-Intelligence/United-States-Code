@@ -38,7 +38,7 @@ In carrying out any of its functions, the Commission shall have the powers autho
 
 #### (h) Principal office of Commission
 
-The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
+The principal office of the Commission shall be in or near the District of Columbia, where itsgeneral sessions shall be held, but the Commission may sit anywhere in the United States.
 
 #### (i) Commission deemed agency; attorney for Commission
 
@@ -60,7 +60,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original “this A
 
 #### Effective Date of 1990 Amendment
 
-Section 2(c) of Pub. L. 101–271 provided that: “The amendments made by this section \[amending this section\] apply only to persons appointed or reappointed as members of the Federal Energy Regulatory Commission after the date of enactment of this Act \[Apr. 11, 1990\].”
+Pub. L. 101–271, §2(c), Apr. 11, 1990, 104 Stat. 136, provided that: “The amendments made by this section \[amending this section\] apply only to persons appointed or reappointed as members of the Federal Energy Regulatory Commission after the date of enactment of this Act \[Apr. 11, 1990\].”
 
 #### Renewable Energy and Energy Conservation Incentives
 
@@ -80,7 +80,7 @@ Model Regulations.—In conjunction with the study in subsection (b), the Commis
 
 “(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmentalbenefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 

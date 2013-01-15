@@ -28,7 +28,7 @@
 
 &emsp;&emsp;The Board of Governors shall establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), that shall include—
 
-&emsp;&emsp;&emsp;(i) risk-based capital requirements and leverage limits, unless the Board of Governors, in consultation with the Council,determines that such requirements are not appropriate for a company subject to more stringent prudential standards because of the activities of such company (such as investment company activities or assets under management) or structure, in which case, the Board of Governors shall apply other standards that result in similarly stringent risk controls;
+&emsp;&emsp;&emsp;(i) risk-based capital requirements and leverage limits, unless the Board of Governors, in consultation with the Council, determines that such requirements are not appropriate for a company subject to more stringent prudential standards because of the activities of such company (such as investment company activities or assets under management) or structure, in which case, the Board of Governors shall apply other standards that result in similarly stringent risk controls;
 
 &emsp;&emsp;&emsp;(ii) liquidity requirements;
 
@@ -110,7 +110,7 @@
 
 #### (1) Resolution plan
 
-&emsp;The Board of Governors shall require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation the plan of such company for rapid and orderly resolution in theevent of material financial distress or failure, which shall include—
+&emsp;The Board of Governors shall require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation the plan of such company for rapid and orderly resolution in the event of material financial distress or failure, which shall include—
 
 &emsp;&emsp;(A) information regarding the manner and extent to which any insured depository institution affiliated with the company is adequately protected from risks arising from the activities of any nonbank subsidiaries of the company;
 
@@ -174,7 +174,7 @@
 
 #### (2) Limitation on credit exposure
 
-&emsp;The regulations prescribed by the Board of Governors under paragraph (1) shall prohibit each nonbank financial company supervised by the Board of Governors and bank holding company described in subsection (a) from having credit exposure to any unaffiliated company that exceeds 25 percent of the capitalstock and surplus (or such lower amount as the Board of Governors may determine by regulation to be necessary to mitigate risks to the financial stability of the United States) of the company.
+&emsp;The regulations prescribed by the Board of Governors under paragraph (1) shall prohibit each nonbank financial company supervised by the Board of Governors and bank holding company described in subsection (a) from having credit exposure to any unaffiliated company that exceeds 25 percent of the capital stock and surplus (or such lower amount as the Board of Governors may determine by regulation to be necessary to mitigate risks to the financial stability of the United States) of the company.
 
 #### (3) Credit exposure
 
@@ -244,7 +244,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (1) Nonbank financial companies supervised by the Board of Governors
 
-&emsp;The Board of Governors shall require each nonbank financial company supervised by the Board of Governors that is a publicly traded company to establish a risk committee, as setforth in paragraph (3), not later than 1 year after the date of receipt of a notice of final determination under section 5323(e)(3) of this title with respect to such nonbank financial company supervised by the Board of Governors.
+&emsp;The Board of Governors shall require each nonbank financial company supervised by the Board of Governors that is a publicly traded company to establish a risk committee, as set forth in paragraph (3), not later than 1 year after the date of receipt of a notice of final determination under section 5323(e)(3) of this title with respect to such nonbank financial company supervised by the Board of Governors.
 
 #### (2) Certain bank holding companies
 

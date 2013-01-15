@@ -55,11 +55,13 @@
 | :--- | ---: |
 | [44943\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044943%20-%20Performance%20management%20system.md) | Performance management system.<sup>1</sup> |
 | [44944\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044944%20-%20Voluntary%20provision%20of%20emergency%20services.md) | Voluntary provision of emergency services. |
-| [44945\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044945%20-%20Disposition%20of%20unclaimed%20money.md) | Disposition of unclaimed money. |
+| [44945\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044945%20-%20Disposition%20of%20unclaimed%20money%20and%20clothing.md) | Disposition of unclaimed money and clothing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
 
 <b>2007</b>—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 

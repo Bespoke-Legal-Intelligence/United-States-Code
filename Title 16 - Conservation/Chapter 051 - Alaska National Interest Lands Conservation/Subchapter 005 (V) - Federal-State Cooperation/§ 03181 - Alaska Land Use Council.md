@@ -70,7 +70,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 &emsp;&emsp;(iii) proposed regulations promulgated by the State of Alaska to carry out its responsibilities under this Act and other State and Federal laws;
 
-&emsp;(B) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to ways to improve coordination and consultation between said governments in wildlife management, transportation planning, wilderness review, and other governmental activities which appear to require regional or statewide coordination;
+&emsp;(B) to make recommendations to appropriate officials of the governments of theUnited States and the State of Alaska with respect to ways to improve coordination and consultation between said governments in wildlife management, transportation planning, wilderness review, and other governmental activities which appear to require regional or statewide coordination;
 
 &emsp;(C) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to ways to insure that economic development is orderly and planned and is compatible with State and national economic, social, and environmental objectives;
 
@@ -96,7 +96,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 If any Federal or State agency does not accept a recommendation made by the Council pursuant to subsection (i) or (j) of this section, such agency, within thirty days of receipt of the recommendation, shall inform the Council, in writing, of its reason for such action.
 
-#### (<i>l</i>) Termination
+#### (l) Termination
 
 Unless extended by the Congress, the Council shall terminate ten years after December 2, 1980. No later than one year prior to its termination date, the Cochairmen shall submit in writing to the Congress a report on the accomplishments of the Council together with their recommendations as to whether the Council should be extended or any other recommendations for legislation or other action which they determine should be taken following termination of the Council to continue carrying out the purposes for which the Council was established.
 

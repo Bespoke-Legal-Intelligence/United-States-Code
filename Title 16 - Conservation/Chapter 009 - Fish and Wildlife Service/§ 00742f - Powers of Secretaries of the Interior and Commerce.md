@@ -34,7 +34,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 &emsp;&emsp;(ii)
 
-Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+Matching.—Subject to the availability of appropriations and the requirements ofthe National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 (3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
@@ -90,7 +90,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal fundsdonated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 
@@ -152,7 +152,7 @@ Pub. L. 111–357, §2(a), amended subsec. (f) generally. Prior to amendment, te
 
 Subsec. (g). Pub. L. 111–357, §4(a)(1), redesignated subsec. (f) as (g).
 
-<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
+<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 ormore projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
 
 Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.”
 

@@ -46,7 +46,7 @@ The personnel of the United States Customs Service shall perform such duties as 
 
 &emsp;&emsp;&emsp;(i) an explanation of how trade enforcement functions will be impacted by the reorganization;
 
-&emsp;&emsp;&emsp;(ii) an explanation of how the reorganization meets the requirements of section212(b) of title 6 that the Department of Homeland Security not diminish the customs revenue and trade facilitation functions formerly performed by the United States Customs Service; and
+&emsp;&emsp;&emsp;(ii) an explanation of how the reorganization meets the requirements of section 212(b) of title 6 that the Department of Homeland Security not diminish the customs revenue and trade facilitation functions formerly performed by the United States Customs Service; and
 
 &emsp;&emsp;&emsp;(iii) any comments or recommendations provided by the Commercial Operations Advisory Committee regarding such reorganization.
 

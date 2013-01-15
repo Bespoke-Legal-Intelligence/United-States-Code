@@ -52,7 +52,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 #### Short Title
 
-Section 5201 of Pub. L. 100–297 provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
+Pub. L. 100–297, title V, §5201, Apr. 28, 1988, 102 Stat. 385, provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 
 #### Tribal School Construction Demonstration Program
 

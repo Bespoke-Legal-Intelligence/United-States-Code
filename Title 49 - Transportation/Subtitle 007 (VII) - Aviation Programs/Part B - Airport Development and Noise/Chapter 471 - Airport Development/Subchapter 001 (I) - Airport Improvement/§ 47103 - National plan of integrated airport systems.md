@@ -2,23 +2,19 @@
 
 (a)
 
-General Requirements and Considerations.—The Secretary of Transportation shallmaintain the plan for developing public-use airports in the United States, named “the national plan of integrated airport systems”. The plan shall include the kind and estimated cost of eligible airport development the Secretary of Transportation considers necessary to provide a safe, efficient, and integrated system of public-use airports adequate to anticipate and meet the needs of civil aeronautics, to meet the national defense requirements of the Secretary of Defense, and to meet identified needs of the United States Postal Service. Airport development included in the plan may not be limited to meeting the needs of any particular classes or categories of public-use airports. In maintaining the plan, the Secretary of Transportation shall consider the needs of each segment of civil aviation and the relationship of each airport to—
+General Requirements and Considerations.—The Secretary of Transportation shall maintain the plan for developing public-use airports in the United States, named “the national plan of integrated airport systems”. The plan shall include the kind and estimated cost of eligible airport development the Secretary of Transportation considers necessary to provide a safe, efficient, and integrated system of public-use airports adequate to anticipate and meet the needs of civil aeronautics, to meet the national defense requirements of the Secretary of Defense, and to meet identified needs of the United States Postal Service. Airport development included in the plan may not be limited to meeting the needs of any particular classes or categories of public-use airports. In maintaining the plan, the Secretary of Transportation shall consider the needs of each segment of civil aviation and the relationship of the airport system to—
 
-&emsp;(1) the rest of the transportation system in the particular area;
+&emsp;(1) the rest of the transportation system, including connection to the surface transportation network; and
 
-&emsp;(2) forecasted technological developments in aeronautics; and
-
-&emsp;(3) forecasted developments in other modes of intercity transportation.
+&emsp;(2) forecasted technological developments in aeronautics.
 
 (b)
 
 Specific Requirements.—In maintaining the plan, the Secretary of Transportation shall—
 
-&emsp;(1) to the extent possible and as appropriate, consult with departments, agencies, and instrumentalities of the United States Government, with public agencies, and with the aviation community;
+&emsp;(1) to the extent possible and as appropriate, consult with departments, agencies, and instrumentalities of the United States Government, with public agencies, and with the aviation community; and
 
-&emsp;(2) consider tall structures that reduce safety or airport capacity; and
-
-&emsp;(3) make every reasonable effort to address the needs of air cargo operations, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations, and rotary wing aircraft operations.
+&emsp;(2) make every reasonable effort to address the needs of air cargo operations and rotary wing aircraft operations.
 
 (c)
 
@@ -26,9 +22,9 @@ Availability of Domestic Military Airports and Airport Facilities.—To the exte
 
 (d)
 
-Publication.—The Secretary of Transportation shall publish the status of the plan every 2 years.
+Publication.—The Secretary of Transportation shall publish the plan every 2 years.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1251.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1251; Pub. L. 112–95, title I, §152(a), Feb. 14, 2012, 126 Stat. 32.)
 
 Historical and Revision Notes
 
@@ -75,4 +71,18 @@ In subsection (b), before clause (1), the words “In maintaining” are substit
 In subsection (c), the words “Secretary of Defense” are substituted for “Department of Defense” because of 10:133.
 
 In subsection (d), the words “Not later than two years after September 3, 1982” are omitted as executed.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §152(a)(1)(A), substituted “the airport system to” for “each airport to” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 112–95, §152(a)(1)(B), substituted “system, including connection to the surface transportation network; and” for “system in the particular area;”.
+
+Subsec. (a)(2). Pub. L. 112–95, §152(a)(1)(C), substituted period at end for “; and”.
+
+Subsec. (a)(3). Pub. L. 112–95, §152(a)(1)(D), struck out par. (3) which read as follows: “forecasted developments in other modes of intercity transportation.”
+
+Subsec. (b). Pub. L. 112–95, §152(a)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2) and struck out “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,” after “air cargo operations”, and struck out former par. (2) which read as follows: “consider tall structures that reduce safety or airport capacity; and”.
+
+Subsec. (d). Pub. L. 112–95, §152(a)(3), struck out “status of the” before “plan”.
 

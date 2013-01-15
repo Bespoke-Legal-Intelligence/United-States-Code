@@ -30,13 +30,13 @@
 
 #### (2) Compensation
 
-&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
+&emsp;Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shallapply with respect to employees of the Bureau:
 
 &emsp;&emsp;(A) The rates of basic pay for all employees of the Bureau may be set and adjusted by the Director.
 
 &emsp;&emsp;(B) The Director shall at all times provide compensation (including benefits) to each class of employees that, at a minimum, are comparable to the compensation and benefits then being provided by the Board of Governors for the corresponding class of employees.
 
-&emsp;&emsp;(C) All such employees shall be compensated (including benefits) on terms and conditions that are consistent with the terms and conditions set forth in section 248(<i>l</i>) of this title.
+&emsp;&emsp;(C) All such employees shall be compensated (including benefits) on terms and conditions that are consistent with the terms and conditions set forth in section 248(l) of this title.
 
 #### (3) Bureau participation in Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan
 
@@ -58,7 +58,7 @@
 
 #### (D) Controlled group status
 
-&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (<i>o</i>) of section 414 of title 26.
+&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
 
 #### (4) Labor-management relations
 
@@ -300,7 +300,7 @@ The Office of Fair Lending and Equal Opportunity, the Office of Financial Educat
 
 #### References in Text
 
-Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(<i>l</i>) of the Federal Reserve Act, which is classified to section 248(<i>l</i>) of this title.
+Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) of the Federal Reserve Act, which is classified to section 248(l) of this title.
 
 Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means section 2302(b)(11) of Title 5, Government Organization and Employees.
 

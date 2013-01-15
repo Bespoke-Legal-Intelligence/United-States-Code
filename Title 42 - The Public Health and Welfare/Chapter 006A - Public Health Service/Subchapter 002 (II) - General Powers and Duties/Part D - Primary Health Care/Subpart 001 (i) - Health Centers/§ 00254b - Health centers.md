@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agriculturalworkers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
+&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agricultural workers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
 
 &emsp;&emsp;(A) required primary health services (as defined in subsection (b)(1) of this section); and
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “medically underserved population” means the population of an urban orrural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
+&emsp;&emsp;The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
 
 #### (B) Criteria
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 #### (ii) Modification of terms and conditions
 
-&emsp;&emsp;&emsp;To the extent permitted by clause (iii) and subject to the requirements of section 504(e) of the Credit Reform Act of 1990 (2 U.S.C. 661c(e)), any terms and conditionsapplicable to a loan guarantee under this subsection (including terms and conditions imposed under clause (iv)) may be modified or waived by the Secretary to the extent the Secretary determines it to be consistent with the financial interest of the United States.
+&emsp;&emsp;&emsp;To the extent permitted by clause (iii) and subject to the requirements of section 504(e) of the Credit Reform Act of 1990 (2 U.S.C. 661c(e)), any terms and conditions applicable to a loan guarantee under this subsection (including terms and conditions imposed under clause (iv)) may be modified or waived by the Secretary to the extent the Secretary determines it to be consistent with the financial interest of the United States.
 
 #### (iii) Incontestability
 
@@ -258,7 +258,7 @@ For purposes of this section:
 
 #### (iv) Further terms and conditions
 
-&emsp;&emsp;&emsp;Guarantees of loans under this subsection shall be subject to such further terms and conditions as the Secretary determines to be necessary to assure that the purposes of this section will be achieved.
+&emsp;&emsp;&emsp;Guarantees of loans under this subsection shall be subject to such furtherterms and conditions as the Secretary determines to be necessary to assure that the purposes of this section will be achieved.
 
 #### (3) Loan origination fees
 
@@ -306,7 +306,7 @@ For purposes of this section:
 
 #### (C) Operation of networks and plans
 
-&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section, or at the request of the health centers, directly to a network or plan (as described in subparagraphs (B) and (C) of subsection (c)(1) of this section) that is at least majority controlled and, as applicable, at least majority owned by such health centers receiving assistance under this section, forthe costs associated with the operation of such network or plan, including the purchase or lease of equipment (including the costs of amortizing the principal of, and paying the interest on, loans for equipment).
+&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section, or at the request of the health centers, directly to a network or plan (as described in subparagraphs (B) and (C) of subsection (c)(1) of this section) that is at least majority controlled and, as applicable, at least majority owned by such health centers receiving assistance under this section, for the costs associated with the operation of such network or plan, including the purchase or lease of equipment (including the costs of amortizing the principal of, and paying the interest on, loans for equipment).
 
 #### (2) Use of funds
 
@@ -484,7 +484,7 @@ For purposes of this section:
 
 #### (3) Grant amount
 
-&emsp;The amount of a grant awarded to a center under this subsection shall be determined by the Administrator. Such determination of such amount shall be based on the number of clients for whom English is a second language that is served by such center, and larger grant amounts shall be awarded to centers serving larger numbers of such clients.
+&emsp;The amount of a grant awarded to a center under this subsection shall be determined bythe Administrator. Such determination of such amount shall be based on the number of clients for whom English is a second language that is served by such center, and larger grant amounts shall be awarded to centers serving larger numbers of such clients.
 
 #### (4) Use of funds
 
@@ -534,7 +534,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the required primary health services of the center will be available and accessible in the catchment area of the center promptly, as appropriate, and in a manner which assures continuity;
 
-&emsp;&emsp;(B) the center has made and will continue to make every reasonable effort to establishand maintain collaborative relationships with other health care providers in the catchment area of the center;
+&emsp;&emsp;(B) the center has made and will continue to make every reasonable effort to establish and maintain collaborative relationships with other health care providers in the catchment area of the center;
 
 &emsp;&emsp;(C) the center will have an ongoing quality improvement system that includes clinical services and management, and that maintains the confidentiality of patient records;
 
@@ -620,7 +620,7 @@ For purposes of this section:
 
 > &emsp;in such a manner that the ratio of the medically underserved populations in rural areas which may be expected to use the services provided by such centers to the medically underserved populations in urban areas which may be expected to use the services provided by such centers is not less than two to three or greater than three to two.
 
-#### (<i>l</i>) Technical assistance
+#### (l) Technical assistance
 
 The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.
 
@@ -648,13 +648,13 @@ In carrying out this section, the Secretary may enter into a memorandum of agree
 
 &emsp;Each entity which is required to establish and maintain records under this subsection shall make such books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying or mechanical reproduction on or off the premises of such entity upon a reasonable request therefore. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have the authority to conduct such examination, copying, and reproduction.
 
-#### (<i>o</i>) Delegation of authority
+#### (o) Delegation of authority
 
 The Secretary may delegate the authority to administer the programs authorized by this section to any office, except that the authority to enter into, modify, or issue approvals with respect to grants or contracts may be delegated only within the central office of the Health Resources and Services Administration.
 
 #### (p) Special consideration
 
-In making grants under this section, the Secretary shall give special consideration to the unique needs of sparsely populated rural areas, including giving priority in the awarding ofgrants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
+In making grants under this section, the Secretary shall give special consideration to the unique needs of sparsely populated rural areas, including giving priority in the awarding of grants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
 
 #### (q) Audits
 
@@ -666,7 +666,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 &emsp;&emsp;(B) the processes used by the entity to meet the financial and program reporting requirements of the Secretary, and
 
-&emsp;&emsp;(C) the billing and collection procedures of the entity and the relation of the procedures to its fee schedule and schedule of discounts and to the availability of health insurance and public programs to pay for the health services it provides.
+&emsp;&emsp;(C) the billing and collection procedures of the entity and the relation of the procedures to its fee schedule and schedule of discounts and to the availability of health insuranceand public programs to pay for the health services it provides.
 
 > &emsp;A report of each such audit shall be filed with the Secretary at such time and in such manner as the Secretary may require.
 
@@ -724,7 +724,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center fromcontracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>3</sup>
+&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center from contracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>3</sup>
 
 #### (B) Assurances
 
@@ -800,7 +800,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub
 
 A prior section 254a–1, act July 1, 1944, ch. 373, title III, §328, as added Nov. 10, 1978, Pub. L. 95–626, title I, §114, 92 Stat. 3563; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, related to hospital-affiliated primary care centers, prior to repeal by Pub. L. 99–117, §12(c), Oct. 7, 1985, 99 Stat. 495.
 
-A prior section 254b, act July 1, 1944, ch. 373, title III, §329, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414; Aug. 1, 1977, Pub. L. 95–83, title III, §303, 91 Stat. 388; renumbered §329 and amended Nov. 10, 1978, Pub. L.95–626, title I, §§102(a), 103(a)–(g)(1)(B), (2), (h), (i), 92 Stat. 3551–3555; July 10, 1979, Pub. L. 96–32, §6(a), 93 Stat. 83; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title IX, §930, 95 Stat. 569; Dec. 21, 1982, Pub. L. 97–375, title I, §107(b), 96 Stat. 1820; Apr. 24, 1986, Pub. L. 99–280, §§6, 7, 100 Stat. 400, 401; Aug. 10, 1988, Pub. L. 100–386, §2, 102 Stat. 919; Nov. 6, 1990, Pub. L. 101–527, §9(b), 104 Stat. 2333; Oct. 27, 1992, Pub. L. 102–531, title III, §309(a), 106 Stat. 3499, related to migrant health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
+A prior section 254b, act July 1, 1944, ch. 373, title III, §329, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414; Aug. 1, 1977, Pub. L. 95–83, title III, §303, 91 Stat. 388; renumbered §329 and amended Nov. 10, 1978, Pub. L. 95–626, title I, §§102(a), 103(a)–(g)(1)(B), (2), (h), (i), 92 Stat. 3551–3555; July 10, 1979, Pub. L. 96–32, §6(a), 93 Stat. 83; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title IX, §930, 95 Stat. 569; Dec. 21, 1982, Pub. L. 97–375, title I, §107(b), 96 Stat. 1820; Apr. 24, 1986, Pub. L. 99–280, §§6, 7, 100 Stat. 400, 401; Aug. 10, 1988, Pub. L. 100–386, §2, 102 Stat. 919; Nov. 6, 1990, Pub. L. 101–527, §9(b), 104 Stat. 2333; Oct. 27, 1992, Pub. L. 102–531, title III, §309(a), 106 Stat. 3499, related to migrant health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 Another prior section 254b, act July 1, 1944, ch. 373, title III, §329, as added Dec. 31, 1970, Pub. L. 91–623, §2, 84 Stat. 1868; amended Nov. 18, 1971, Pub. L. 92–157, title II, §203, 85 Stat. 462; Oct. 27, 1972, Pub. L. 92–585, §2, 86 Stat. 1290; July 29, 1975, Pub. L. 94–63, title VIII, §§801–803, 89 Stat. 353, 354; Oct. 12, 1976, Pub. L. 94–484, title I, §101(b), 90 Stat. 2244, related to establishment of National Health Service Corps, assignment of personnel and statement of purpose, prior to repeal by Pub. L. 94–484, title IV, §407(b)(1), Oct. 12, 1976, 90 Stat. 2268. See section 254d et seq. of this title.
 
@@ -844,13 +844,13 @@ Subsec. (k). Pub. L. 108–163, §2(a)(2)(C), (D), redesignated subsec. (j) as (
 
 Pub. L. 108–163, §2(a)(1)(C), amended subsec. (k) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment notes below.
 
-Subsec. (<i>l</i>). Pub. L. 108–163, §2(a)(2)(H), inserted “(either through the Department of Health and Human Services or by grant or contract)” after “shall provide” and substituted “(k)(3)” for “(<i>l</i>)(3)”.
+Subsec. (l). Pub. L. 108–163, §2(a)(2)(H), inserted “(either through the Department of Health and Human Services or by grant or contract)” after “shall provide” and substituted “(k)(3)” for “(l)(3)”.
 
-Pub. L. 108–163, §2(a)(2)(G), added subsec. (<i>l</i>) identical to the subsec. (m) appearing in the amendment by section 101(9) of Pub. L. 107–251. See 2002 Amendment notes below. Former subsec. (<i>l</i>) redesignated (r).
+Pub. L. 108–163, §2(a)(2)(G), added subsec. (l) identical to the subsec. (m) appearing in the amendment by section 101(9) of Pub. L. 107–251. See 2002 Amendment notes below. Former subsec. (l) redesignated (r).
 
-Pub. L. 108–163, §2(a)(1)(C), amended subsec. (<i>l</i>) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
+Pub. L. 108–163, §2(a)(1)(C), amended subsec. (l) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 108–163, §2(a)(1)(C), amended subsecs. (m) to (<i>o</i>) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment notes below.
+Subsecs. (m) to (o). Pub. L. 108–163, §2(a)(1)(C), amended subsecs. (m) to (o) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment notes below.
 
 Subsec. (p). Pub. L. 108–163, §2(a)(2)(I), substituted “(k)(3)(G)” for “(j)(3)(G)”.
 
@@ -858,7 +858,7 @@ Pub. L. 108–163, §2(a)(1)(C), amended subsec. (p) to read as if pars. (8) thr
 
 Subsec. (q). Pub. L. 108–163, §2(a)(1)(C), amended subsec. (q) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
 
-Subsec. (r). Pub. L. 108–163, §2(a)(2)(F), redesignated subsec. (<i>l</i>) as (r).
+Subsec. (r). Pub. L. 108–163, §2(a)(2)(F), redesignated subsec. (l) as (r).
 
 Pub. L. 108–163, §2(a)(1)(C), amended subsec. (r) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
 
@@ -882,7 +882,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 107–251, §101(2)(A), substituted “associated 
 
 Subsec. (b)(2)(B) to (D). Pub. L. 107–251, §101(2)(B), (C), added subpar. (B) and redesignated former subpars. (A) and (B) as (C) and (D), respectively.
 
-Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: “Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizingthe principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans.”
+Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: “Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans.”
 
 Pub. L. 107–251, §101(3)(A)(ii), in introductory provisions, substituted “managed care network or plan.” for “network or plan for the provision of health services, which may include the provision of health services on a prepaid basis or through another managed care arrangement, to some or to all of the individuals which the centers serve”.
 
@@ -924,7 +924,7 @@ Subsec. (h)(5). Pub. L. 107–251, §101(6)(B)(i), (C), redesignated par. (4) as
 
 Subsec. (j). Pub. L. 107–251, §101(8)(C), added subsec. (j) relating to access grants.
 
-Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
 Subsec. (j)(3)(E)(i). Pub. L. 107–251, §101(7)(A)(i), designated existing provisions as subcl. (I) and added subcl. (II).
 
@@ -936,29 +936,29 @@ Subsec. (j)(3)(H). Pub. L. 107–251, §101(7)(C), substituted “or (q)” for 
 
 Subsec. (j)(3)(M). Pub. L. 107–251, §101(7)(D)–(F), added subpar. (M).
 
-Subsec. (k). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Subsec. (k). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (<i>l</i>). Pub. L. 107–251, §101(8)(A), redesignated subsec. (<i>l</i>) as (s).
+Subsec. (l). Pub. L. 107–251, §101(8)(A), redesignated subsec. (l) as (s).
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: “(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (<i>l</i>)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (l)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
 
-Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsecs. (n) to (p). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Subsecs. (n) to (p). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of “(<i>l</i>)(3)(G)” for “(j)(3)(G)” in subsec. (q) “(as redesignated by paragraph (9)(B))”, could not be executed.
+Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of “(l)(3)(G)” for “(j)(3)(G)” in subsec. (q) “(as redesignated by paragraph (9)(B))”, could not be executed.
 
-Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (r). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Subsec. (r). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (s). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
+Subsec. (s). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
 Subsec. (s)(1). Pub. L. 107–251, §101(11)(A), substituted “$1,340,000,000 for fiscal year 2002 and such sums as may be necessary for each of the fiscal years 2003 through 2006” for “$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001”.
 
-Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted “(<i>l</i>)(3)” for “(j)(3)” and “(<i>l</i>)(3)(H)” for “(j)(3)(G)(ii)”.
+Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted “(l)(3)” for “(j)(3)” and “(l)(3)(H)” for “(j)(3)(G)(ii)”.
 
 Subsec. (s)(2)(B). Pub. L. 107–251, §101(11)(B)(ii), added subpar. (B) and struck out heading and text of former subpar. (B) relating to distribution of grants for fiscal years 1997 through 1999.
 
@@ -968,7 +968,7 @@ Pub. L. 110–355, §2(c)(2), Oct. 8, 2008, 122 Stat. 3992, provided that: “Th
 
 #### Effective Date of 2003 Amendment
 
-Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 
@@ -976,7 +976,7 @@ Section effective Oct. 1, 1996, see section 5 of Pub. L. 104–299, as amended, 
 
 #### Savings Provision for Current Grants, Contracts, and Cooperative Agreements
 
-Section 3(b) of Pub. L. 104–299 provided that: “The Secretary of Health and Human Services shall ensure the continued funding of grants made, or contracts or cooperative agreements entered into, under subpart I of part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) (as such subpart existed on the day prior to the date of enactment of this Act \[Oct. 11, 1996\]), until the expiration of the grant period or the term of the contract or cooperative agreement. Such funding shall be continued under the same terms and conditions as were in effect on the date on which the grant, contract or cooperative agreement was awarded, subject to the availability of appropriations.”
+Pub. L. 104–299, §3(b), Oct. 11, 1996, 110 Stat. 3644, provided that: “The Secretary of Health and Human Services shall ensure the continued funding of grants made, or contracts or cooperative agreements entered into, under subpart I of part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) (as such subpart existed on the day prior to the date of enactment of this Act \[Oct. 11, 1996\]), until the expiration of the grant period or the term of the contract or cooperative agreement. Such funding shall be continued under the same terms and conditions as were in effect on the date on which the grant, contract or cooperative agreement was awarded, subject to the availability of appropriations.”
 
 #### Negotiated Rulemaking for Development of Methodology and Criteria for Designating Medically Underserved Populations and Health Professions Shortage Areas
 
@@ -1124,11 +1124,11 @@ Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by 
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
-Section 4(c) of Pub. L. 104–299 provided that: “Whenever any reference is made in any provision of law, regulation, rule, record, or document to a community health center, migrant health center, public housing health center, or homeless health center, such reference shall be considered a reference to a health center.”
+Pub. L. 104–299, §4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: “Whenever any reference is made in any provision of law, regulation, rule, record, or document to a community health center, migrant health center, public housing health center, or homeless health center, such reference shall be considered a reference to a health center.”
 
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299
 
-Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\].”
+Pub. L. 104–299, §4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: “After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\].”
 
 #### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers
 

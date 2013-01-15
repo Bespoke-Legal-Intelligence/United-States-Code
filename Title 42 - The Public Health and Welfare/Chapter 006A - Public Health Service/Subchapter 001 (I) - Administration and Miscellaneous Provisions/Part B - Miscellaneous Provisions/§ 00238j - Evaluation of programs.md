@@ -30,9 +30,9 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1993 Amendment
 
-Section 701 of Pub. L. 103–183 provided that the amendment made by that section is effective Oct. 1, 1994.
+Pub. L. 103–183, title VII, §701, Dec. 14, 1993, 107 Stat. 2239, provided that the amendment made by that section is effective Oct. 1, 1994.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
 

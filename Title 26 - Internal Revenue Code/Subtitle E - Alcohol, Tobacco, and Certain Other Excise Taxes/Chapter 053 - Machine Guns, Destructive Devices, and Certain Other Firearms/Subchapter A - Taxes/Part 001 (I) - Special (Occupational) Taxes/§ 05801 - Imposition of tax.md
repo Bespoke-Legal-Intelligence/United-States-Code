@@ -46,7 +46,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of P
 
 #### Effective Date
 
-Section 207 of Pub. L. 90–618, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–618, title II, §207, Oct. 22, 1968, 82 Stat. 1235, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a) Section 201 of this title \[enacting this chapter\] shall take effect on the first day of the first month following the month in which it is enacted \[October 1968\].
 

@@ -14,13 +14,13 @@
 
 #### (B) Three-year pilot program waiver
 
-&emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney Generalmay, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
+&emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney General may, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
 
 &emsp;&emsp;&emsp;(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receive medical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
 
 &emsp;&emsp;&emsp;&emsp;(I) a detailed diagnosis statement from the physician, which includes the treatment being sought and the expected time period the alien will be required to remain in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
+&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Servicewhen the alien is released or treatment is terminated; and
 
 &emsp;&emsp;&emsp;&emsp;(III) evidence of financial ability to support the alien's day-to-day expenses while in the United States (including the expenses of any family member described in clause (ii)) and evidence that any such alien or family member is not receiving any form of public assistance; or
 
@@ -82,7 +82,7 @@
 
 #### (c) Aliens not eligible
 
-The Attorney General shall not permit an alien to depart voluntarily under this section ifthe alien was previously permitted to so depart after having been found inadmissible under section 1182(a)(6)(A) of this title.
+The Attorney General shall not permit an alien to depart voluntarily under this section if the alien was previously permitted to so depart after having been found inadmissible under section 1182(a)(6)(A) of this title.
 
 #### (d) Civil penalty for failure to depart
 

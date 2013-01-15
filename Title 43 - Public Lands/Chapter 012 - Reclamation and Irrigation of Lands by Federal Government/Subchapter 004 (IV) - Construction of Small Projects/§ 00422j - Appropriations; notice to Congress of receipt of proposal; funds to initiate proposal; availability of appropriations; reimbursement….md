@@ -22,5 +22,5 @@ There are authorized to be appropriated, such sums as may be necessary, but not 
 
 #### Effective Date of 1980 Amendment
 
-Section 8(a) of Pub. L. 96–336 provided that the amendment made by such section 8(a) is effective Oct. 1, 1980.
+Pub. L. 96–336, §8(a), Sept. 4, 1980, 94 Stat. 1065, provided that the amendment made by section 8(a) is effective Oct. 1, 1980.
 

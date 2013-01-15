@@ -2,7 +2,7 @@
 
 #### (a) Approval of State underground injection control program; alternative showing of effectiveness of program by State
 
-For purposes of the Administrator's approval or disapproval under section 300h–1 of this title of that portion of any State underground injection control program which relates to—
+For purposes of the Administrator's approval or disapproval under section 300h–1 of this titleof that portion of any State underground injection control program which relates to—
 
 &emsp;(1) the underground injection of brine or other fluids which are brought to the surface in connection with oil or natural gas production or natural gas storage operations, or
 

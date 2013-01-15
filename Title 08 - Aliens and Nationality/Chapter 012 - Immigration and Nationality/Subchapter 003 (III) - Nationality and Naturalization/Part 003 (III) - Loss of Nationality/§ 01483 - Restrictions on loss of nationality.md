@@ -4,7 +4,7 @@
 
 (b) A national who within six months after attaining the age of eighteen years asserts his claim to United States nationality, in such manner as the Secretary of State shall by regulation prescribe, shall not be deemed to have lost United States nationality by the commission, prior to his eighteenth birthday, of any of the acts specified in paragraphs (3) and (5) of section 1481(a) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 3, §351, 66 Stat. 269; Pub. L. 97–116, §18(r), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 99–653, §20, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>o</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 103–416, title I, §105(a), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 104–208, div. C, title VI, §671(b)(3), Sept. 30, 1996, 110 Stat. 3009–721.)
+(June 27, 1952, ch. 477, title III, ch. 3, §351, 66 Stat. 269; Pub. L. 97–116, §18(r), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 99–653, §20, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(o), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 103–416, title I, §105(a), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 104–208, div. C, title VI, §671(b)(3), Sept. 30, 1996, 110 Stat. 3009–721.)
 
 #### References in Text
 

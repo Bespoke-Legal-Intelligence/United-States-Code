@@ -58,5 +58,5 @@ For definition of Canal Zone, referred to in par. (15), see section 3602(b) of T
 
 #### Short Title
 
-Section 1 of Pub. L. 93–637 provided: “That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
+Pub. L. 93–637, §1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
 

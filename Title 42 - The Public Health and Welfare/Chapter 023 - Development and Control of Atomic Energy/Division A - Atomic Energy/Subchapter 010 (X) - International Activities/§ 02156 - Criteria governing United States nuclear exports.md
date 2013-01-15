@@ -2,7 +2,7 @@
 
 The United States adopts the following criteria which, in addition to other requirements of law, will govern exports for peaceful nuclear uses from the United States of source material, special nuclear material, production or utilization facilities, and any sensitive nuclear technology:
 
-&emsp;(1) IAEA safeguards as required by Article III(2) of the Treaty will be applied with respect to any such material or facilities proposed to be exported, to any such material or facilitiespreviously exported and subject to the applicable agreement for cooperation, and to any special nuclear material used in or produced through the use thereof.
+&emsp;(1) IAEA safeguards as required by Article III(2) of the Treaty will be applied with respect to any such material or facilities proposed to be exported, to any such material or facilities previously exported and subject to the applicable agreement for cooperation, and to any special nuclear material used in or produced through the use thereof.
 
 &emsp;(2) No such material, facilities, or sensitive nuclear technology proposed to be exported or previously exported and subject to the applicable agreement for cooperation, and no special nuclear material produced through the use of such materials, facilities, or sensitive nuclear technology, will be used for any nuclear explosive device or for research on or development of any nuclear explosive device.
 

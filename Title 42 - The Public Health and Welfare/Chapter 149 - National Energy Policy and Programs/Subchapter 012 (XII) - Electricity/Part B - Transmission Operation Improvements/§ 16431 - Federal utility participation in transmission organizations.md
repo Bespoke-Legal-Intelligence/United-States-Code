@@ -30,7 +30,7 @@ In this section:
 
 #### (5) Transmission system
 
-&emsp;The term “transmission system” means an electric transmission facility owned, leased, or contracted for by the United States and operated by a Federal utility.
+&emsp;The term “transmission system” means an electric transmission facility owned, leased, orcontracted for by the United States and operated by a Federal utility.
 
 #### (b) Transfer
 

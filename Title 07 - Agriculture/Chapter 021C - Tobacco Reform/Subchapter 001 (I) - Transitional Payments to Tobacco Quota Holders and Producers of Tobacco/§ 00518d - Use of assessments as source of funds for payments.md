@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Content
 
-&emsp;The notice shall include the following information with respect to the quarterly period used by the Secretary in calculating the amount:
+&emsp;The notice shall include the following information with respect to the quarterly periodused by the Secretary in calculating the amount:
 
 &emsp;&emsp;(A) The total combined assessment for all manufacturers and importers of tobacco products.
 
@@ -150,13 +150,13 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (3) Effect of failure to provide required information
 
-&emsp;Any person that knowingly fails to provide information required under this subsection or that provides false information under this subsection shall be subject to the penalties described in section 1003 of title 18. The Secretary may also assess against the person a civil penalty in an amount not to exceed two percent of the value of the kind of tobacco products manufactured or imported by the person during the fiscal year in which the violation occurred, as determined by the Secretary.
+&emsp;Any person that knowingly fails to provide information required under this subsection or that provides false information under this subsection shall be subject to the penalties described in section 1003 of title 18. The Secretary may also assess against the person a civil penalty in an amount not to exceed two percent of the value of the kind of tobacco products manufactured or imported by theperson during the fiscal year in which the violation occurred, as determined by the Secretary.
 
 #### (i) Challenge to assessment
 
 #### (1) Appeal to Secretary
 
-&emsp;A manufacturer or importer subject to this section may contest an assessment imposed onthe manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
+&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
 
 #### (2) Information
 

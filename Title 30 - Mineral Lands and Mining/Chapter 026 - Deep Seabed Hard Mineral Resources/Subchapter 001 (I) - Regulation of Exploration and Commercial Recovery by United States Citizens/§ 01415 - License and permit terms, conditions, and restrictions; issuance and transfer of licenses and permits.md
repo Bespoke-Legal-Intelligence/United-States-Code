@@ -4,7 +4,7 @@
 
 Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
-&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas byother states, as recognized under general principles of international law;
+&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
 
 &emsp;(2) will not conflict with any international obligation of the United States established by any treaty or international convention in force with respect to the United States;
 
@@ -58,9 +58,9 @@ The Fishery Conservation Zone, referred to in subsec. (d), probably means the fi
 
 #### Effective Date of 1996 Amendment
 
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 
-Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 

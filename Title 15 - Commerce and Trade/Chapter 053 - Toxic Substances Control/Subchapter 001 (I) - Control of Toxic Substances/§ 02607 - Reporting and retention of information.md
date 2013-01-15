@@ -22,7 +22,7 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to bemanufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
@@ -44,7 +44,7 @@
 
 > to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
 
-(B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
+(B) The Administrator, after consultation with the Administrator of the Small BusinessAdministration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
 #### (b) Inventory
 
@@ -60,13 +60,13 @@ Any person who manufactures, processes, or distributes in commerce any chemical 
 
 The Administrator shall promulgate rules under which the Administrator shall require any person who manufactures, processes, or distributes in commerce or who proposes to manufacture, process, or distribute in commerce any chemical substance or mixture (or with respect to paragraph (2), any person who has possession of a study) to submit to the Administrator—
 
-&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirements of this subsection if the Administrator findsthat submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
+&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirements of this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
 
 &emsp;(2) copies of any study contained on a list submitted pursuant to paragraph (1) or otherwise known by such person.
 
 #### (e) Notice to Administrator of substantial risks
 
-Any person who manufactures, processes, or distributes in commerce as chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
+Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 
 #### (f) “Manufacture” and “process” defined
 
@@ -88,7 +88,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### “SEC. 3. PUBLICATION OF INFORMATION.
 
-“Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+“Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how,when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
 &emsp;“(1) review the information submitted under section 2 for accuracy, or
 

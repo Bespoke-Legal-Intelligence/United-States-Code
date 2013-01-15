@@ -24,7 +24,7 @@ As used in this chapter—
 
 (f) “Defense service” includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
-(g) “Excess defense articles” means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
+(g) “Excess defense articles” means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation ofmilitary assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
 (h) “Function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
@@ -34,7 +34,7 @@ As used in this chapter—
 
 (k) “Services” include any service, repair, training of personnel, or technical or other assistance or information used for the purposes of furnishing nonmilitary assistance.
 
-(<i>l</i>) “Surplus agricultural commodity” means any agricultural commodity or product thereof, class, kind, type, or other specification thereof, produced in the United States, either publicly or privately owned, which is in excess of domestic requirements, adequate carryover, and anticipated exports for United States dollars, as determined by the Secretary of Agriculture.
+(l) “Surplus agricultural commodity” means any agricultural commodity or product thereof, class, kind, type, or other specification thereof, produced in the United States, either publicly or privately owned, which is in excess of domestic requirements, adequate carryover, and anticipated exports for United States dollars, as determined by the Secretary of Agriculture.
 
 (m) “Value” means—
 
@@ -50,7 +50,7 @@ As used in this chapter—
 
 (n) “Military education and training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aids, orientation, and military advice to foreign military units and forces.
 
-(<i>o</i>) “Agriculture” includes aquaculture and fisheries.
+(o) “Agriculture” includes aquaculture and fisheries.
 
 (p) “Farmers” includes fishermen and other persons employed in cultivating and harvesting food resources from salt and fresh waters.
 
@@ -82,7 +82,7 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(b) of H.R. 2992, 
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
-<b>1978</b>—Subsecs. (<i>o</i>), (p). Pub. L. 95–424 added subsecs. (<i>o</i>) and (p).
+<b>1978</b>—Subsecs. (o), (p). Pub. L. 95–424 added subsecs. (o) and (p).
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
 

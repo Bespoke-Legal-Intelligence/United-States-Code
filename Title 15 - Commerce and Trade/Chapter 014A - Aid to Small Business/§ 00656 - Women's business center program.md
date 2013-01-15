@@ -40,7 +40,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (1) Non-Federal contributions
 
-&emsp;Subject to paragraph (5), as a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
+&emsp;As a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
 
 &emsp;&emsp;(A) in the first and second years, 1 non-Federal dollar for each 2 Federal dollars; and
 
@@ -57,34 +57,6 @@ The Administration may provide financial assistance to private nonprofit organiz
 #### (4) Failure to obtain non-Federal funding
 
 &emsp;If any recipient of assistance fails to obtain the required non-Federal contribution during any project, it shall not be eligible thereafter for advance disbursements pursuant to paragraph (3) during the remainder of that project, or for any other project for which it is or may be funded by the Administration, and prior to approving assistance to such organization for any other projects, the Administration shall specifically determine whether the Administration believes that the recipient will be able to obtain the requisite non-Federal funding and enter a written finding setting forth the reasons for making such determination.
-
-#### (5) Waiver of non-Federal share relating to technical assistance and counseling
-
-#### (A) In general
-
-&emsp;&emsp;Upon request by a recipient organization, and in accordance with this paragraph, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under this subsection for the technical assistance and counseling activities of the recipient organization carried out using financial assistance under this section for a fiscal year. The Administrator may waive the requirement to obtain non-Federal funds under this paragraph for successive fiscal years.
-
-#### (B) Considerations
-
-&emsp;&emsp;In determining whether to waive the requirement to obtain non-Federal funds under this paragraph, the Administrator shall consider—
-
-&emsp;&emsp;&emsp;(i) the economic conditions affecting the recipient organization;
-
-&emsp;&emsp;&emsp;(ii) the impact a waiver under this clause would have on the credibility of the women's business center program under this section;
-
-&emsp;&emsp;&emsp;(iii) the demonstrated ability of the recipient organization to raise non-Federal funds; and
-
-&emsp;&emsp;&emsp;(iv) the performance of the recipient organization.
-
-#### (C) Limitations
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this paragraph if granting the waiver would undermine the credibility of the women's business center program under this section.
-
-#### (ii) Sunset
-
-&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this paragraph for fiscal year 2013 or any fiscal year thereafter.
 
 #### (d) Contract authority
 
@@ -176,13 +148,13 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (<i>l</i>) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
 &emsp;&emsp;(B) may withhold such award or renewal, if the Administration determines that—
 
-&emsp;&emsp;&emsp;(i) the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or theinformation provided by the center is inadequate; or
+&emsp;&emsp;&emsp;(i) the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or the information provided by the center is inadequate; or
 
 &emsp;&emsp;&emsp;(ii) the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j) of this section, or the information provided by the center is inadequate.
 
@@ -216,7 +188,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated, to remain available until the expiration of the pilot program under subsection (<i>l</i>) of this section—
+&emsp;There is authorized to be appropriated, to remain available until the expiration of thepilot program under subsection (l) of this section—
 
 &emsp;&emsp;(A) $12,000,000 for fiscal year 2000;
 
@@ -252,7 +224,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection (<i>l</i>) of this section:
+&emsp;&emsp;Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection (l) of this section:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2000, 17 percent.
 
@@ -264,9 +236,9 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (B) Use of unawarded funds for sustainability pilot program grants
 
-&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
+&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (l)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
 
-#### (<i>l</i>) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
+#### (l) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
 
 #### (m) Continued funding for centers
 
@@ -276,7 +248,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (2) Applicability
 
-&emsp;A nonprofit organization described in this paragraph is a nonprofit organization that has received funding under subsection (b) or (<i>l</i>).
+&emsp;A nonprofit organization described in this paragraph is a nonprofit organization that has received funding under subsection (b) or (l).
 
 #### (3) Application and approval criteria
 
@@ -286,7 +258,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (B) Contents
 
-&emsp;&emsp;Except as otherwise provided in this subsection, the conditions for participation in the grant program under this subsection shall be the same as the conditions for participation in the program under subsection (<i>l</i>), as in effect on May 25, 2007.
+&emsp;&emsp;Except as otherwise provided in this subsection, the conditions for participation in the grant program under this subsection shall be the same as the conditions for participation in the program under subsection (l), as in effect on May 25, 2007.
 
 #### (C) Notification
 
@@ -308,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (D) Priority
 
-&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (<i>l</i>) priority over first-time applications under subsection (b).
+&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
 
 #### (5) Renewal
 
@@ -324,7 +296,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;A women's business center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
+&emsp;A women's business center may not disclose the name, address, or telephone number of anyindividual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
 &emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 
@@ -342,19 +314,21 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;The Administrator shall issue regulations to establish standards for requiring disclosures during a financial audit under paragraph (1)(B).
 
-(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550.)
+#### (o) Study and report on representation of women
 
-#### Amendment of Subsection (c)
+#### (1) Study
 
-<i>Pub. L. 111–240, title I, §1401(c), Sept. 27, 2010, 124 Stat. 2549, provided that, effective Oct. 1, 2012, subsection (c) of this section is amended:</i>
+&emsp;The Administrator shall periodically conduct a study to identify industries, as defined under the North American Industry Classification System, underrepresented by small business concerns owned and controlled by women.
 
-<i>(1) in paragraph (1), by striking “Subject to paragraph (5), as” and inserting “As”; and</i>
+#### (2) Report
 
-<i>(2) by striking paragraph (5).</i>
+&emsp;Not later than 5 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+
+(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550; Pub. L. 112–239, div. A, title XVI, §1697(b), Jan. 2, 2013, 126 Stat. 2091.)
 
 #### References in Text
 
-Subsec. (<i>l</i>), referred to in subsecs. (h)(2), (k)(1), (4), and (m)(2), (3)(B), (4)(D), was repealed by Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210, effective Oct. 1 of the first full fiscal year after May 25, 2007.
+Subsec. (l), referred to in subsecs. (h)(2), (k)(1), (4), and (m)(2), (3)(B), (4)(D), was repealed by Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210, effective Oct. 1 of the first full fiscal year after May 25, 2007.
 
 #### Codification
 
@@ -362,11 +336,17 @@ May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–240, §1401(b)(1), substituted “Subject to paragraph (5), as a condition” for “As a condition” in introductory provisions.
+<b>2013</b>—Subsec. (o). Pub. L. 112–239 added subsec. (o).
 
-Subsec. (c)(5). Pub. L. 111–240, §1401(b)(2), added par. (5).
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–240, §1401(c)(2)(A), substituted “As a condition” for “Subject to paragraph (5), as a condition” in introductory provisions.
 
-<b>2007</b>—Subsec. (<i>l</i>). Pub. L. 110–28, §8305(b), struck out subsec. (<i>l</i>) which related to establishment of a sustainability pilot program.
+Pub. L. 111–240, §1401(b)(1), substituted “Subject to paragraph (5), as a condition” for “As a condition” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 111–240, §1401(c)(2)(B), struck out par. (5) which related to waiver of non-Federal share relating to technical assistance and counseling.
+
+Pub. L. 111–240, §1401(b)(2), added par. (5).
+
+<b>2007</b>—Subsec. (l). Pub. L. 110–28, §8305(b), struck out subsec. (l) which related to establishment of a sustainability pilot program.
 
 Subsecs. (m), (n). Pub. L. 110–28, §8305(a), added subsecs. (m) and (n).
 
@@ -410,7 +390,7 @@ Subsec. (k)(2). Pub. L. 106–165, §4(b)(2), designated existing provisions as 
 
 Subsec. (k)(4). Pub. L. 106–165, §4(b)(3), added par. (4).
 
-Subsec. (<i>l</i>). Pub. L. 106–165, §4(a), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 106–165, §4(a), added subsec. (l).
 
 <b>1997</b>—Pub. L. 105–135 amended section generally, substituting provisions relating to women's business center program for provisions relating to women's demonstration projects.
 
@@ -446,7 +426,7 @@ Pub. L. 106–165, §4(c), Dec. 9, 1999, 113 Stat. 1799, provided that: “Not l
 
 #### Transitional Rule
 
-Pub. L. 110–28, title VIII, §8305(c), May 25, 2007, 121 Stat. 210, provided that: “Notwithstanding any other provision of law, a grant or cooperative agreement that was awarded under subsection (<i>l</i>) of section 29 of the Small Business Act (15 U.S.C. 656), on or before the day before the date described in subsection (b) of this section \[set out as an Effective Date of 2007 Amendment note above\], shall remain in full force and effect under the terms, and for the duration, of such grant or agreement.”
+Pub. L. 110–28, title VIII, §8305(c), May 25, 2007, 121 Stat. 210, provided that: “Notwithstanding any other provision of law, a grant or cooperative agreement that was awarded under subsection (l) of section 29 of the Small Business Act (15 U.S.C. 656), on or before the day before the date described in subsection (b) of this section \[set out as an Effective Date of 2007 Amendment note above\], shall remain in full force and effect under the terms, and for the duration, of such grant or agreement.”
 
 #### Applicability
 

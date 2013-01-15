@@ -18,7 +18,7 @@ The Investment Board shall promote cooperation between private investors and bus
 
 #### (c) Local advisory community investment boards; establishment, composition, etc.
 
-The governing body of each Community Development Corporation may establish an advisory community investment board composed of not to exceed 15 members who shall be appointed by the governing body after consultation with appropriate local officials. Each such board shall promote cooperation between private investors and businesses and the governing body of the Community Development Corporation through—
+The governing body of each Community Development Corporation may establish an advisorycommunity investment board composed of not to exceed 15 members who shall be appointed by the governing body after consultation with appropriate local officials. Each such board shall promote cooperation between private investors and businesses and the governing body of the Community Development Corporation through—
 
 &emsp;(1) advising the governing body on ways to facilitate private investors;
 

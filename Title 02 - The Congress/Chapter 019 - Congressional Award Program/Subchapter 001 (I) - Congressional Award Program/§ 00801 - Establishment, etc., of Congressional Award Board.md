@@ -34,5 +34,5 @@ Pub. L. 99–161, §1, Nov. 25, 1985, 99 Stat. 934, provided that: “This Act \
 
 Pub. L. 96–114, title II, §201, as added by Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2545, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Congressional Recognition for Excellence in Arts Education Act’.”
 
-Section 1 of Pub. L. 96–114 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Congressional Award Act’.”
+Pub. L. 96–114, §1, Nov. 16, 1979, 93 Stat. 851, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Congressional Award Act’.”
 

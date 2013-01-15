@@ -28,13 +28,35 @@ Notwithstanding any other provisions of this subchapter, no registration or quot
 
 Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
 
-(Pub. L. 91–513, title II, §306, Oct. 27, 1970, 84 Stat. 1257; Pub. L. 94–273, §3(16), Apr. 21, 1976, 90 Stat. 377; Pub. L. 109–177, title VII, §713, Mar. 9, 2006, 120 Stat. 264.)
+#### (h) Quotas applicable to drugs in shortage
+
+(1) Not later than 30 days after the receipt of a request described in paragraph (2), the Attorney General shall—
+
+&emsp;(A) complete review of such request; and
+
+&emsp;(B)(i) as necessary to address a shortage of a controlled substance, increase the aggregate and individual production quotas under this section applicable to such controlled substance and any ingredient therein to the level requested; or
+
+&emsp;(ii) if the Attorney General determines that the level requested is not necessary to address a shortage of a controlled substance, the Attorney General shall provide a written response detailing the basis for the Attorney General's determination.
+
+> The Secretary shall make the written response provided under subparagraph (B)(ii) available to the public on the Internet Web site of the Food and Drug Administration.
+
+(2) A request is described in this paragraph if—
+
+&emsp;(A) the request pertains to a controlled substance on the list of drugs in shortage maintained under section 356e of this title;
+
+&emsp;(B) the request is submitted by the manufacturer of the controlled substance; and
+
+&emsp;(C) the controlled substance is in schedule II.
+
+(Pub. L. 91–513, title II, §306, Oct. 27, 1970, 84 Stat. 1257; Pub. L. 94–273, §3(16), Apr. 21, 1976, 90 Stat. 377; Pub. L. 109–177, title VII, §713, Mar. 9, 2006, 120 Stat. 264; Pub. L. 112–144, title X, §1005, July 9, 2012, 126 Stat. 1105.)
 
 #### References in Text
 
 Schedules I and II, referred to in text, are set out in section 812(c) of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h). Pub. L. 112–144 added subsec. (h).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177, §713(1), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
 

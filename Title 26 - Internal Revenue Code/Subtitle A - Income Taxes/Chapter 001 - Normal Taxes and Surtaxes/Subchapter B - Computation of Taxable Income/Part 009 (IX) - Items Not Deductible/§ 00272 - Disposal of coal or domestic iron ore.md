@@ -10,5 +10,5 @@ Where the disposal of coal or iron ore is covered by section 631, no deduction s
 
 #### Effective Date of 1964 Amendment
 
-Section 227(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section and sections 631, 1016, 1231, and 1402 and section 411 of Title 42, The Public Health and Welfare\] shall apply with respect to amounts received or accrued in taxable years beginning after December 31, 1963, attributable to iron ore mined in such taxable years.”
+Pub. L. 88–272, title II, §227(c), Feb. 26, 1964, 78 Stat. 98, provided that: “The amendments made by this section \[amending this section and sections 631, 1016, 1231, and 1402 and section 411 of Title 42, The Public Health and Welfare\] shall apply with respect to amounts received or accrued in taxable years beginning after December 31, 1963, attributable to iron ore mined in such taxable years.”
 

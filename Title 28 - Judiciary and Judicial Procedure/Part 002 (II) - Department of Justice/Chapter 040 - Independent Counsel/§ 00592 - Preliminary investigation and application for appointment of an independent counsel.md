@@ -6,7 +6,7 @@ Conduct of Preliminary Investigation.—
 
 &emsp;(1)
 
-In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptlynotify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
+In general.—A preliminary investigation conducted under this chapter shall be of such matters as the Attorney General considers appropriate in order to make a determination, under subsection (b) or (c), on whether further investigation is warranted, with respect to each potential violation, or allegation of a violation, of criminal law. The Attorney General shall make such determination not later than 90 days after the preliminary investigation is commenced, except that, in the case of a preliminary investigation commenced after a congressional request under subsection (g), the Attorney General shall make such determination not later than 90 days after the request is received. The Attorney General shall promptly notify the division of the court specified in section 593(a) of the commencement of such preliminary investigation and the date of such commencement.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ Contents of Application.—Any application for the appointment of an independent
 
 (e)
 
-Disclosure of Information.—Except as otherwise provided in this chapter or as is deemed necessary for law enforcement purposes, no officer or employee of the Department of Justice or an office of independent counsel may, without leave of the division of the court, disclose to any individual outside the Department of Justice or such office any notification, application, or any other document, materials, or memorandum supplied to the division of the court under this chapter. Nothing in this chapter shall be construed as authorizing the withholding of information from the Congress.
+Disclosure of Information.—Except as otherwise provided in this chapter or as is deemed necessary for law enforcement purposes, no officer or employee of the Department of Justice or an office of independent counsel may, without leave of the division of the court, disclose to any individual outside the Department of Justice or such office any notification, application, or any other document, materials, or memorandum supplied to the division of thecourt under this chapter. Nothing in this chapter shall be construed as authorizing the withholding of information from the Congress.
 
 (f)
 
@@ -86,7 +86,7 @@ Submission of information in response to congressional request.—At the same ti
 
 Disclosure of information.—Any report, notification, application, or other document, material, or memorandum supplied to a committee under this subsection shall not be revealed to any third party, except that the committee may, either on its own initiative or upon the request of the Attorney General, make public such portion or portions of such report, notification, application, document, material, or memorandum as will not in the committee's judgment prejudice the rights of any individual.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1868; amended Pub. L. 97–409, §§2(a)(1), 4(b)–(e), Jan. 3, 1983, 96 Stat. 2039–2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1295; Pub. L. 103–270, §3(<i>l</i>), June 30, 1994, 108 Stat. 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1868; amended Pub. L. 97–409, §§2(a)(1), 4(b)–(e), Jan. 3, 1983, 96 Stat. 2039–2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1295; Pub. L. 103–270, §3(l), June 30, 1994, 108 Stat. 736.)
 
 #### Amendments
 

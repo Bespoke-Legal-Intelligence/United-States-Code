@@ -20,7 +20,7 @@ The non-Federal share of the cost of assistance under subsection (a) of this sec
 
 #### (d) Effect on authority of Secretary of the Interior
 
-Nothing in this section affects the authority of the Secretary of the Interior under title IV of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1231 et seq.).
+Nothing in this section affects the authority of the Secretary of the Interior under title IV ofthe Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1231 et seq.).
 
 #### (e) Technology database for reclamation of abandoned mines
 

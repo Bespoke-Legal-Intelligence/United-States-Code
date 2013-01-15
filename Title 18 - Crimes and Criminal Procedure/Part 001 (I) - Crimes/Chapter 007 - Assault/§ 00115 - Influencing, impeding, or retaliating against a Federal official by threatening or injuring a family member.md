@@ -2,7 +2,7 @@
 
 (a)(1) Whoever—
 
-&emsp;(A) assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, orthreatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title; or
+&emsp;(A) assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title; or
 
 &emsp;(B) threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section,
 
@@ -20,7 +20,7 @@
 
 &emsp;(iii) if the assault resulted in bodily injury, a term of imprisonment for not more than 20 years; or
 
-&emsp;(iv) if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
+&emsp;(iv) if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritimeand territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
 
 (2) A kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section shall be punished as provided in section 1201 of this title for the kidnapping or attempted kidnapping of, or a conspiracy to kidnap, a person described in section 1201(a)(5) of this title.
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted “for the kidnapping or att
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note undersection 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

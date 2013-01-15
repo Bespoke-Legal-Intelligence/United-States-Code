@@ -2,7 +2,7 @@
 
 #### (a) Activities not compensable
 
-Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
+Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
 
 &emsp;(1) walking, riding, or traveling to and from the actual place of performance of the principal activity or activities which such employee is employed to perform, and
 
@@ -40,7 +40,7 @@ The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are 
 
 #### Effective Date of 1996 Amendment
 
-Section 2103 of Pub. L. 104–188 provided that: “The amendment made by section 2101 \[probably means section 2102 of Pub. L. 104–188, amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\] and shall apply in determining the application of section 4 of the Portal-to-Portal Act of 1947 \[this section\] to an employee in any civil action brought before such date of enactment but pending on such date.”
+Pub. L. 104–188, \[title II\], §2103, Aug. 20, 1996, 110 Stat. 1928, provided that: “The amendment made by section 2101 \[probably means section 2102 of Pub. L. 104–188, amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\] and shall apply in determining the application of section 4 of the Portal-to-Portal Act of 1947 \[this section\] to an employee in any civil action brought before such date of enactment but pending on such date.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

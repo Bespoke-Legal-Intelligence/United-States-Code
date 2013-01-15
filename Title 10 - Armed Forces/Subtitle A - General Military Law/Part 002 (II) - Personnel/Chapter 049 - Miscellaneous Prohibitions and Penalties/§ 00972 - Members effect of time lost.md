@@ -78,5 +78,5 @@ Pub. L. 104–106, §561(a), designated existing provisions as subsec. (a), inse
 
 #### Effective Date of 1996 Amendment
 
-Section 561(e) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
+Pub. L. 104–106, div. A, title V, §561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section \[enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
 

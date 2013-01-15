@@ -14,7 +14,7 @@ The Postal Service may establish size and weight limitations for mail matter in 
 
 #### Effective Date of 1982 Amendment
 
-Section 1(b) of Pub. L. 97–242 provided that: “The size and weight limitations for other than letter mail established by subsections (a) and (b) of section 3682 of title 39, United States Code, as in effect on the day prior to the effective date of this section \[Aug. 24, 1982\], shall remain in effect until changed pursuant to section 3682 of such title, as amended, by subsection (a) of this section.”
+Pub. L. 97–242, §1(b), Aug. 24, 1982, 96 Stat. 300, provided that: “The size and weight limitations for other than letter mail established by subsections (a) and (b) of section 3682 of title 39, United States Code, as in effect on the day prior to the effective date of this section \[Aug. 24, 1982\], shall remain in effect until changed pursuant to section 3682 of such title, as amended, by subsection (a) of this section.”
 
 #### Effective Date of 1979 Amendment
 

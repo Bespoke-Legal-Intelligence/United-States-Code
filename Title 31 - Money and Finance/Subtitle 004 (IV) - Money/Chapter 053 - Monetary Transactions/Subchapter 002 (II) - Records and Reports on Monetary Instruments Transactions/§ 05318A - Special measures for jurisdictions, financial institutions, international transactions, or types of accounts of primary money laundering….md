@@ -44,7 +44,7 @@ Process for selecting special measures.—In selecting which special measure or 
 
 &emsp;(5)
 
-No limitation on other authority.—This section shall not be construed as superseding or otherwise restricting any other authority granted to the Secretary, or to any other agency, by this subchapter or otherwise.
+No limitation on other authority.—This section shall not be construed as supersedingor otherwise restricting any other authority granted to the Secretary, or to any other agency, by this subchapter or otherwise.
 
 (b)
 
@@ -84,7 +84,7 @@ Information relating to certain payable-through accounts.—If the Secretary fin
 
 &emsp;(4)
 
-Information relating to certain correspondent accounts.—If the Secretary findsa jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
+Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
 &emsp;&emsp;(A) to identify each customer (and representative of such customer) of any such financial institution who is permitted to use, or whose transactions are routed through, such correspondent account; and
 
@@ -92,7 +92,7 @@ Information relating to certain correspondent accounts.—If the Secretary finds
 
 &emsp;(5)
 
-Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary, in consultation with the Secretary of State, the Attorney General, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit, or impose conditions upon, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of a foreign banking institution, if such correspondent account or payable-through account involves any such jurisdiction or institution, or if any such transaction may be conducted through such correspondent account or payable-through account.
+Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to beof primary money laundering concern, the Secretary, in consultation with the Secretary of State, the Attorney General, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit, or impose conditions upon, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of a foreign banking institution, if such correspondent account or payable-through account involves any such jurisdiction or institution, or if any such transaction may be conducted through such correspondent account or payable-through account.
 
 (c)
 
@@ -136,7 +136,7 @@ Institutional factors.—In the case of a decision to apply 1 or more of the spe
 
 (d)
 
-Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection\(a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
 (e)
 
@@ -160,7 +160,7 @@ Correspondent account.—The term “correspondent account” means an account e
 
 &emsp;&emsp;(C)
 
-Payable-through account.—The term “payable-through account” means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.
+Payable-through account.—The term “payable-through account” means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in bankingactivities usual in connection with the business of banking in the United States.
 
 &emsp;(2)
 

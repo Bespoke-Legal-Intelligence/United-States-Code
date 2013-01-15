@@ -64,7 +64,7 @@
 
 &emsp;&emsp;The term “demand” means—
 
-&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption ofcotton during the most recent 3 months for which data are available; and
+&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which data are available; and
 
 &emsp;&emsp;&emsp;(ii) the larger of—
 
@@ -118,7 +118,7 @@
 
 #### (A) Beginning period
 
-&emsp;&emsp;During the period beginning on August 1, 2008, and ending on July 31, 2012, the value of the assistance provided under paragraph (1) shall be 4 cents per pound.
+&emsp;&emsp;During the period beginning on August 1, 2008, and ending on July 31, 2012, the value ofthe assistance provided under paragraph (1) shall be 4 cents per pound.
 
 #### (B) Subsequent period
 

@@ -30,7 +30,7 @@ The Secretary, consistent with United States international obligations, shall es
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
+Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and theFederal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
 
 #### Codification
 

@@ -28,7 +28,7 @@ Minor changes in phraseology were made.
 
 #### References in Text
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 9
 
 #### Construction of 1996 Amendment
 
-Section 507(c) of Pub. L. 104–104 provided that: “The amendments made by this section \[amending this section and section 1465 of this title\] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
+Pub. L. 104–104, title V, §507(c), Feb. 8, 1996, 110 Stat. 137, provided that: “The amendments made by this section \[amending this section and section 1465 of this title\] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

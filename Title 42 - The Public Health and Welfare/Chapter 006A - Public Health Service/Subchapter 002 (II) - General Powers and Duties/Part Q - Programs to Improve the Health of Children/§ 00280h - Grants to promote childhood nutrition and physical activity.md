@@ -6,7 +6,7 @@ The Secretary, acting though the Director of the Centers for Disease Control and
 
 #### (b) Eligibility
 
-To be eligible to receive a grant under this section a State or political subdivision of a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
+To be eligible to receive a grant under this section a State or political subdivision of aState shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan that describes—
 
 &emsp;(1) how the applicant proposes to develop a comprehensive program of school- and community-based approaches to encourage and promote good nutrition and appropriate levels of physical activity with respect to children or adolescents in local communities;
 
@@ -30,7 +30,7 @@ The Secretary may set-aside an amount not to exceed 10 percent of the amount app
 
 &emsp;(1) provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
 
-&emsp;(2) disseminate information about effective strategies and interventions in preventing andtreating obesity through the promotion of good nutrition and physical activity.
+&emsp;(2) disseminate information about effective strategies and interventions in preventing and treating obesity through the promotion of good nutrition and physical activity.
 
 #### (e) Limitation on administrative costs
 

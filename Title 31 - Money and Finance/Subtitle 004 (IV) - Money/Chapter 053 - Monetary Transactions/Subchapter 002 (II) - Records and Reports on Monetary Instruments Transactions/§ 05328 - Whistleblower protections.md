@@ -6,7 +6,7 @@ Prohibition Against Discrimination.—No financial institution or nonfinancial t
 
 (b)
 
-Enforcement.—Any employee or former employee who believes that such employee has been discharged or discriminated against in violation of subsection (a) may file a civil action inthe appropriate United States district court before the end of the 2-year period beginning on the date of such discharge or discrimination.
+Enforcement.—Any employee or former employee who believes that such employee has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the end of the 2-year period beginning on the date of such discharge or discrimination.
 
 (c)
 
@@ -28,7 +28,7 @@ Limitation.—The protections of this section shall not apply to any employee wh
 
 (e)
 
-Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) <sup>1</sup> of the Home Owners’ Loan Act (as added by section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
+Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) <sup>1</sup> of the Home Owners’ Loan Act (as addedby section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
 (Added Pub. L. 102–550, title XV, §1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, §365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of NIH shall submit to the Congress on a biennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:
+The Director of NIH shall submit to the Congress on a biennial basis a report in accordancewith this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:
 
 &emsp;(1) An assessment of the state of biomedical and behavioral research.
 
@@ -42,7 +42,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;&emsp;&emsp;(V) an evaluation and comparison of outcomes and effectiveness of various training programs.
 
-&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations anddemographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
+&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations and demographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
 
 &emsp;&emsp;&emsp;(vi) Translational research activities with other agencies of the Public Health Service.
 

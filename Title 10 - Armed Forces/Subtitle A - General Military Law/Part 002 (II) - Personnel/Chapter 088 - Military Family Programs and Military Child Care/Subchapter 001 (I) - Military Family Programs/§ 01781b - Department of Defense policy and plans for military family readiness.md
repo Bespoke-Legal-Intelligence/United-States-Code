@@ -10,7 +10,7 @@ Purposes.—The purposes of the policy and plans required under subsection (a) a
 
 &emsp;(1) To ensure that the military family readiness programs and activities of the Department of Defense are comprehensive, effective, and properly supported.
 
-&emsp;(2) To ensure that support is continuously available to military families in peacetimeand in war, as well as during periods of force structure change and relocation of military units.
+&emsp;(2) To ensure that support is continuously available to military families in peacetime and in war, as well as during periods of force structure change and relocation of military units.
 
 &emsp;(3) To ensure that the military family readiness programs and activities of the Department of Defense are available to all military families, including military families of members of the regular components and military families of members of the reserve components.
 

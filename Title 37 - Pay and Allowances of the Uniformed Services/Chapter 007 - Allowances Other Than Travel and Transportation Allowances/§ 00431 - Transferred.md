@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section 431 now appears following section 490 of this title pursuant to Pub. L. 112–81, div. A, title VI, §631(d)(2), Dec. 31, 2011, 125 Stat. 1460, which directed the transfer of this section to chapter 8 of this title so as to appear after section 490 but did not direct the renumbering of this section as 491.
+Section 431, which related to benefits for certain members assigned to the Defense Intelligence Agency, was transferred to chapter 8 of this title by Pub. L. 112–81, div. A, title VI, §631(d)(2), Dec. 31, 2011, 125 Stat. 1460, and renumbered section 491 of this title by Pub. L. 112–239, div. A, title X, §1076(h)(2), Jan. 2, 2013, 126 Stat. 1955.
 

@@ -12,5 +12,5 @@ The Corporation may cause proceedings to be instituted for the acquisition by co
 
 #### Effective Date of 1968 Amendment
 
-Section 2 of Pub. L. 90–536 provided that: “The amendment made by this Act \[amending this section\] shall be effective only with respect to condemnation proceedings initiated after thirty days following the date of enactment of this Act \[Sept. 28, 1968\].”
+Pub. L. 90–536, §2, Sept. 28, 1968, 82 Stat. 885, provided that: “The amendment made by this Act \[amending this section\] shall be effective only with respect to condemnation proceedings initiated after thirty days following the date of enactment of this Act \[Sept. 28, 1968\].”
 

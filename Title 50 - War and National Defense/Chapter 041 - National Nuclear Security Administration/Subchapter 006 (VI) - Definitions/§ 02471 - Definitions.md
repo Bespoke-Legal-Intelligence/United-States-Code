@@ -16,11 +16,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) The Pantex Plant, Amarillo, Texas.
 
-&emsp;&emsp;(C) The Y–12 Plant, Oak Ridge, Tennessee.
+&emsp;&emsp;(C) The Y–12 National Security Complex, Oak Ridge, Tennessee.
 
-&emsp;&emsp;(D) The tritium operations facilities at the Savannah River Site, Aiken, South Carolina.
+&emsp;&emsp;(D) The Savannah River Site, Aiken, South Carolina.
 
-&emsp;&emsp;(E) The Nevada Test Site, Nevada.
+&emsp;&emsp;(E) The Nevada National Security Site, Nevada.
 
 &emsp;&emsp;(F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and the Congress, determines to be consistent with the mission of the Administration.
 
@@ -34,11 +34,23 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968.)
+&emsp;(6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+
+(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+#### Amendments
+
+<b>2013</b>—Par. (2)(C). Pub. L. 112–239, §3132(d)(3)(A), substituted “Y–12 National Security Complex” for “Y–12 Plant”.
+
+Par. (2)(D). Pub. L. 112–239, §3132(d)(3)(B), struck out “tritium operations facilities at the” before “Savannah River Site”.
+
+Par. (2)(E). Pub. L. 112–239, §3132(d)(4), substituted “Nevada National Security Site” for “Nevada Test Site”.
+
+Par. (6). Pub. L. 112–239, §3132(a)(3), added par. (6).
 

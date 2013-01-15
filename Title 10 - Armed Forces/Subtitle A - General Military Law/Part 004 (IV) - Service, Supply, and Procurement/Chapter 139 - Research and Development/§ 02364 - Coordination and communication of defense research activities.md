@@ -70,7 +70,7 @@ Pub. L. 106–65, div. A, title IX, §913(b), Oct. 5, 1999, 113 Stat. 720, provi
 
 #### Coordination of High-Temperature Superconductivity Research and Development
 
-Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall—
+Pub. L. 100–180, div. A, title II, §218(b)(2), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall—
 
 &emsp;“(A) coordinate the research and development activities of the Department of Defense relating to high-temperature superconductivity; and
 
@@ -82,7 +82,7 @@ Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V
 
 #### Coordination of Research Activities of Department of Defense
 
-Section 234(a), (b) of Pub. L. 99–661 provided that:
+Pub. L. 99–661, div. A, title II, §234(a), (b), Nov. 14, 1986, 100 Stat. 3848, provided that:
 
 “(a)
 

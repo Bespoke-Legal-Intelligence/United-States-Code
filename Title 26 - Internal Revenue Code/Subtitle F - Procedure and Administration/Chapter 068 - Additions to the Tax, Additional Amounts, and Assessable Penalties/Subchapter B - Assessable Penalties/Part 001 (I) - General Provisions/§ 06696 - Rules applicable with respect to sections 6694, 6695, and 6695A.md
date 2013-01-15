@@ -34,7 +34,7 @@ For purposes of sections 6694, 6695, and 6695A—
 
 &emsp;The term “claim for refund” means a claim for refund of, or credit against, any tax imposed by this title.
 
-(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 109–280, title XII, §1219(b)(2), Aug. 17, 2006, 120 Stat. 1084; Pub.L. 110–28, title VIII, §8246(a)(2)(H), May 25, 2007, 121 Stat. 202; Pub. L. 110–172, §3(e)(2), Dec. 29, 2007, 121 Stat. 2474.)
+(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 109–280, title XII, §1219(b)(2), Aug. 17, 2006, 120 Stat. 1084; Pub. L. 110–28, title VIII, §8246(a)(2)(H), May 25, 2007, 121 Stat. 202; Pub. L. 110–172, §3(e)(2), Dec. 29, 2007, 121 Stat. 2474.)
 
 #### Codification
 

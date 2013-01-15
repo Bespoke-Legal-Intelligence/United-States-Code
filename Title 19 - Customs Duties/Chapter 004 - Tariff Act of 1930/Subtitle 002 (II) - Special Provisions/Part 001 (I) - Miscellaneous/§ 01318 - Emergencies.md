@@ -22,7 +22,7 @@ The National Emergencies Act, referred to in subsec. (b)(1), is Pub. L. 94–412
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a) of this section were contained in act Sept. 21, 1922, ch. 356, title IV, §622, 42 Stat. 988, which was superseded by section 318 of the Tariff Act of 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 Act.
+Provisions similar to those in subsec. (a) of this section were contained in act Sept. 21, 1922, ch. 356, titleIV, §622, 42 Stat. 988, which was superseded by section 318 of the Tariff Act of 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 Act.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. ofthis title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
+Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 
 #### Proc. No. 2948. Merchandise in General-Order and Bonded Warehouses
 

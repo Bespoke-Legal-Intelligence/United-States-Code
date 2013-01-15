@@ -6,7 +6,7 @@
 
 (2) In any other case, such an appeal shall be made—
 
-&emsp;(A) through Department grievance procedures under section 7463 of this title, in any case that involves or includes a question of professional conduct or competence in which a major adverse action was not taken or in anycase of an employee who is not covered by a collective bargaining agreement under chapter 71 of title 5; or
+&emsp;(A) through Department grievance procedures under section 7463 of this title, in any case that involves or includes a question of professional conduct or competence in which a major adverse action was not taken or in any case of an employee who is not covered by a collective bargaining agreement under chapter 71 of title 5; or
 
 &emsp;(B) through grievance procedures provided through collective bargaining under chapter 71 of title 5 or through Department grievance procedures under section 7463 of this title, as the employee elects, in the case of an employee covered by a collective bargaining agreement under chapter 71 of title 5 that does not involve or include a question of professional conduct or competence.
 
@@ -48,5 +48,5 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 #### Regulations
 
-Section 204 of Pub. L. 102–40 provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act \[May 7, 1991\]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.”
+Pub. L. 102–40, title II, §204, May 7, 1991, 105 Stat. 207, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subchapter V of chapter 74 of title 38, United States Code (as added by section 203), not later than 180 days after the date of the enactment of this Act \[May 7, 1991\]. Such regulations shall be published in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.”
 

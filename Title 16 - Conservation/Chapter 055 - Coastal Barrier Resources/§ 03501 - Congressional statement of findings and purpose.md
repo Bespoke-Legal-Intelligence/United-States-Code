@@ -36,7 +36,7 @@ Pub. L. 106–514, §1, Nov. 13, 2000, 114 Stat. 2394, provided that: “This Ac
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
+Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
 
 #### Short Title of 1990 Amendment
 
@@ -44,11 +44,11 @@ Pub. L. 101–591, §1, Nov. 16, 1990, 104 Stat. 2931, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Section 204(a) of Pub. L. 100–707 provided that: “This section \[amending this section and sections 3502 and 3503 of this title and enacting provisions set out as a note under section 3505 of this title\] may be cited as the ‘Great Lakes Coastal Barrier Act of 1988’.”
+Pub. L. 100–707, title II, §204(a), Nov. 23, 1988, 102 Stat. 4713, provided that: “This section \[amending this section and sections 3502 and 3503 of this title and enacting provisions set out as a note under section 3505 of this title\] may be cited as the ‘Great Lakes Coastal Barrier Act of 1988’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 97–348 provided that: “This Act \[enacting this chapter, amending section 4028 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 4028 of Title 42\] may be cited as the ‘Coastal Barrier Resources Act’.”
+Pub. L. 97–348, §1, Oct. 18, 1982, 96 Stat. 1653, provided that: “This Act \[enacting this chapter, amending section 4028 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 4028 of Title 42\] may be cited as the ‘Coastal Barrier Resources Act’.”
 
 #### Economic Assessment of John H. Chafee Coastal Barrier Resources System
 

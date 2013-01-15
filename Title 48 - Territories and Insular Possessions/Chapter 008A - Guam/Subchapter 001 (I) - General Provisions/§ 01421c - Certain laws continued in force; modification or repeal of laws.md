@@ -12,5 +12,5 @@
 
 #### Effective Date of 1968 Amendment
 
-Section 7 of Pub. L. 90–497 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
+Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847, provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–497, which was approved Sept. 11, 1968.
 

@@ -196,7 +196,7 @@ This section shall not apply to any regulated investment company for any calenda
 
 > For purposes of the preceding sentence, any shares attributable to an investment in the regulated investment company (not exceeding $250,000) made in connection with the organization of such company shall not be taken into account.
 
-(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(<i>l</i>)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, title VII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976; Pub. L. 111–325, title IV, §§401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, 124 Stat. 3552–3554.)
+(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(l)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, title VII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976; Pub. L. 111–325, title IV, §§401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, 124 Stat. 3552–3554.)
 
 #### Amendments
 
@@ -214,11 +214,11 @@ Subsec. (f)(3), (4). Pub. L. 111–325, §401(a)(2)–(4), added pars. (3) and (
 
 <b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “98 percent” for “97 percent”.
 
-<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647, §1006(<i>l</i>)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647, §1006(l)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
 
-Subsec. (e)(5). Pub. L. 100–647, §1006(<i>l</i>)(5), added par. (5).
+Subsec. (e)(5). Pub. L. 100–647, §1006(l)(5), added par. (5).
 
-Subsec. (f). Pub. L. 100–647, §1006(<i>l</i>)(6), added subsec. (f).
+Subsec. (f). Pub. L. 100–647, §1006(l)(6), added subsec. (f).
 
 <b>1987</b>—Subsec. (b)(1)(B). Pub. L. 100–203 substituted “98 percent” for “90 percent”.
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years of United States perso
 
 #### Effective Date of 1989 Amendment
 
-Section 7204(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years ending after July 10, 1989.”
+Pub. L. 101–239, title VII, §7204(a)(2), Dec. 19, 1989, 103 Stat. 2334, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years ending after July 10, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -246,11 +246,11 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10104(b)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 651 of the Tax Reform Act of 1986 \[section 651 of Pub. L. 99–514, see Effective Date note below\].”
+Pub. L. 100–203, title X, §10104(b)(2), Dec. 22, 1987, 101 Stat. 1330–387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 651 of the Tax Reform Act of 1986 \[section 651 of Pub. L. 99–514, see Effective Date note below\].”
 
 #### Effective Date
 
-Section 651(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 852 and 855 of this title\] shall apply to calendar years beginning after December 31, 1986.”
+Pub. L. 99–514, title VI, §651(d), Oct. 22, 1986, 100 Stat. 2297, provided that: “The amendments made by this section \[enacting this section and amending sections 852 and 855 of this title\] shall apply to calendar years beginning after December 31, 1986.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

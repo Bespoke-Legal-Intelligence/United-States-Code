@@ -2,7 +2,7 @@
 
 (a)
 
-Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4,<sup>1</sup> as modified by the applicable footnotes.
+Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, and 3, as modified by the applicable footnotes.
 
 &nbsp;
 
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 112–239, div. A, title X, §1076(f)(19), Jan. 2, 2013, 126 Stat. 1952.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,9 @@ In footnote 3, the words “and disregard a part of a year that is less than six
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted “, not to exceed 75%,” after “percentage of disability” in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted “columns 1, 2, and 3,” for “columns 1, 2, 3, and 4,” in introductory provisions.
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted “, not to exceed 75%,” after “percentage ofdisability” in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 in table inserted “1253” after “1252” in column under heading “For sections”.
 
@@ -174,11 +176,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Section 35(c) of Pub. L. 98–557 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\] shall become effective on October 1, 1984”.
+Pub. L. 98–557, §35(c), Oct. 30, 1984, 98 Stat. 2877, provided that: “The amendments made by this section\[amending this section and provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\] shall become effective on October 1, 1984”.
 
 #### Effective Date of 1983 Amendment
 
-Section 922(e) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting section 6333 of this title and amending this section, sections 1401a, 1402, 1402a, 1437, 1451, 3991, 3992, 6151, 6383, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, section 212 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, §922(e), Sept. 24, 1983, 97 Stat. 642, provided that: “The amendments made by this section \[enacting section 6333 of this title and amending this section, sections 1401a, 1402, 1402a, 1437, 1451, 3991, 3992, 6151, 6383, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, section 212 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1983.”
 
 Amendment by section 923 of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of this title.
 
@@ -200,11 +202,13 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
+Amendment by section 6(7) of Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under section 3991 of this title.
+
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–348 provided that: “This Act \[enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the ‘Military Retirement Reform Act of 1986’.”
+Pub. L. 99–348, §1(a), July 1, 1986, 100 Stat. 682, provided that: “This Act \[enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former section 1406 of this title as section 1338 \[now 12738\] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 \[now 12738\], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and section 6328 of this title, enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and section 6330 of this title\] may be cited as the ‘Military Retirement Reform Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 
@@ -236,7 +240,7 @@ Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provi
 
 #### Six-Month Rounding Rule
 
-Section 305(b) of Pub. L. 99–348 provided that:
+Pub. L. 99–348, title III, §305(b), July 1, 1986, 100 Stat. 704, provided that:
 
 “(1)
 
@@ -254,7 +258,7 @@ Exceptions.—The limitation in paragraph (1) does not apply to a member who bef
 
 “(3)
 
-Definition of covered member.—For the purposes of this subsection, the term ‘covered member of the Armed Forces’ means a member of the Armed Forces who became entitled to retired or retainer payduring the period beginning on January 1, 1982, and ending on September 30, 1983.
+Definition of covered member.—For the purposes of this subsection, the term ‘covered member of the Armed Forces’ means a member of the Armed Forces who became entitled to retired or retainer pay during the period beginning on January 1, 1982, and ending on September 30, 1983.
 
 “(4)
 
@@ -270,7 +274,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 S
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
-Section 5 of Pub. L. 90–207 provided that: “Notwithstanding any other provision of law, a member of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
+Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: “Notwithstanding any other provision of law, a member of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
 
 &emsp;“(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59).
 
@@ -280,7 +284,7 @@ Section 5 of Pub. L. 90–207 provided that: “Notwithstanding any other provis
 
 #### Increase in Retired or Retainer Pay of Members Entitled Thereto on or After October 1, 1967
 
-Section 6 of Pub. L. 90–207 provided that: “Notwithstanding any other provision of law, a member or former member of a uniformed service who initially becomes entitled to retired pay or retainer pay on or after October 1, 1967, shall be entitled to have that pay computed using the rates of basic pay prescribed by the first section of this Act \[amending section 203(a) of Title 37\].”
+Pub. L. 90–207, §6, Dec. 16, 1967, 81 Stat. 654, provided that: “Notwithstanding any other provision of law, a member or former member of a uniformed service who initially becomes entitled to retired pay or retainer pay on or after October 1, 1967, shall be entitled to have that pay computed using the rates of basic pay prescribed by the first section of this Act \[amending section 203(a) of Title 37\].”
 
 #### Increases in Retired or Retainer Pay
 
@@ -288,11 +292,11 @@ Pub. L. 89–501, title III, §303, July 13, 1966, 80 Stat. 278, provided that: 
 
 Effective date of section 303 of Pub. L. 89–501 as the first day of the first pay period which begins on or after July 1, 1966, see section 304 of Pub. L. 89–501, set out as Effective Date of 1966 Amendments note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
-Section 5(a) of Pub. L. 89–132 provided that: “The retired pay or retainer pay of a member or former member of a uniformed service who is entitled to that pay computed under rates of basic pay in effect before the effective date of this Act \[Sept. 1, 1965\] shall be increased, effective that date, by the per centum (adjusted to the nearest one-tenth of 1 per centum) that the Consumer Price Index (all items—United States city average), published by the Bureau of Labor Statistics, for the calendar month immediately preceding the effective date of this Act has increased over the average monthly index for calendar year 1962.”
+Pub. L. 89–132, §5(a), Aug. 21, 1965, 79 Stat. 547, provided that: “The retired pay or retainer pay of a member or former member of a uniformed service who is entitled to that pay computed under rates of basic pay in effect before the effective date of this Act \[Sept. 1, 1965\] shall be increased, effective that date, by the per centum (adjusted to the nearest one-tenth of 1 per centum) that the Consumer Price Index (all items—United States city average), published by the Bureau of Labor Statistics, for the calendar month immediately preceding the effective date of this Act has increased over the average monthly index for calendar year 1962.”
 
 #### Continuation of Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
-Section 7 of Pub. L. 89–132 provided that: “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act \[Sept. 1, 1965\] shall continue to receive the pay and allowances to which he was entitled on that day:
+Pub. L. 89–132, §7, Aug. 21, 1965, 79 Stat. 547, provided that: “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act \[Sept. 1, 1965\] shall continue to receive the pay and allowances to which he was entitled on that day:
 
 &emsp;“(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59).
 
@@ -302,7 +306,7 @@ Section 7 of Pub. L. 89–132 provided that: “Notwithstanding any other provis
 
 #### Increase in Retired Pay to Persons Retired Before June 1, 1958
 
-Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 1958, 72 Stat. 1104, provided that:
+Pub. L. 85–422, §4, May 20, 1958, 72 Stat. 128, as amended by Pub. L. 85–855, §1(a), Aug. 28, 1958, 72 Stat. 1104, provided that:
 
 “(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
 
@@ -310,7 +314,7 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 
-Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, which eliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
+Pub. L. 85–855, §1(b), Aug. 28, 1958, 72 Stat. 1104, provided that the amendment of section 4(a) of Pub. L. 85–422, which eliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
 
 #### Public Health Service
 
@@ -318,7 +322,5 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce orSecretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
-
-<i><sup>1</sup></i><i> So in original. Column 4 has been struck out.</i>
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 

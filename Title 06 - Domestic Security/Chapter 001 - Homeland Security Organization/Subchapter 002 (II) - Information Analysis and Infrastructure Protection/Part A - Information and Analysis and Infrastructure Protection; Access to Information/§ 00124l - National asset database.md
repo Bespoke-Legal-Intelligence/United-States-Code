@@ -28,7 +28,7 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 &emsp;&emsp;(B) regularly reviewing the guidelines established under subparagraph (A), including by consulting with the appropriate homeland security officials of States, to solicit feedback about the guidelines, as appropriate;
 
-&emsp;&emsp;(C) after providing the homeland security official of a State with the guidelines under subparagraph (A), allowing the official a reasonable amount of time to submit to theSecretary any data submissions recommended by the official for inclusion in the database established under subsection (a)(1);
+&emsp;&emsp;(C) after providing the homeland security official of a State with the guidelines under subparagraph (A), allowing the official a reasonable amount of time to submit to the Secretary any data submissions recommended by the official for inclusion in the database established under subsection (a)(1);
 
 &emsp;&emsp;(D) examining the contents and identifying any submissions made by such an official that are described incorrectly or that do not meet the guidelines established under subparagraph (A); and
 
@@ -68,7 +68,7 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 &emsp;&emsp;(D) Any significant changes from the preceding report in the systems and assets included on such list or in such database.
 
-&emsp;&emsp;(E) If appropriate, the extent to which such database and such list have been used, individually or jointly, for allocating funds by the Federal Government to prevent, reduce, mitigate, or respond to acts of terrorism.
+&emsp;&emsp;(E) If appropriate, the extent to which such database and such list have been used,individually or jointly, for allocating funds by the Federal Government to prevent, reduce, mitigate, or respond to acts of terrorism.
 
 &emsp;&emsp;(F) The amount of coordination between the Department and the private sector, through any entity of the Department that meets with representatives of private sector industries for purposes of such coordination, for the purpose of ensuring the accuracy of such database and such list.
 
@@ -94,5 +94,5 @@ The Secretary may establish a consortium to be known as the “National Infrastr
 
 #### Deadlines for Implementation and Notification of Congress
 
-Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: “Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 \[6 U.S.C. 124<i>l</i>(d)\], as added by subsection (a).”
+Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: “Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 \[6 U.S.C. 124l(d)\], as added by subsection (a).”
 

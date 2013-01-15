@@ -78,9 +78,9 @@ With respect to activities for which funds awarded under this section are to be 
 
 There are authorized to be appropriated $4,000,000 for each of the fiscal years 2010 through 2013.
 
-(July 1, 1944, ch. 373, title VII, §749B, as added Pub. L. 111–148, title X, §10501(<i>l</i>)(2), Mar. 23, 2010, 124 Stat. 1000.)
+(July 1, 1944, ch. 373, title VII, §749B, as added Pub. L. 111–148, title X, §10501(l)(2), Mar. 23, 2010, 124 Stat. 1000.)
 
 #### Prior Provisions
 
-A prior section 293m, act July 1, 1944, ch. 373, title VII, §749, as added Pub. L. 102–408, title I, §102, Oct. 13,1992, 106 Stat. 2043, authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
+A prior section 293m, act July 1, 1944, ch. 373, title VII, §749, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2043, authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
 

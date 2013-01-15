@@ -10,7 +10,7 @@
 
 #### (A) Marketing assistance loans
 
-&emsp;&emsp;Subject to subparagraph (B), nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodityare not eligible for a marketing assistance loan under section 8731 of this title.
+&emsp;&emsp;Subject to subparagraph (B), nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 8731 of this title.
 
 #### (B) Loan deficiency payment
 

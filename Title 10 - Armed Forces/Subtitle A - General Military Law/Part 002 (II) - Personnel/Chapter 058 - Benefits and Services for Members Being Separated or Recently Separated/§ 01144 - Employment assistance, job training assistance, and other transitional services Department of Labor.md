@@ -12,7 +12,7 @@ In General.—(1) The Secretary of Labor, in conjunction with the Secretary of D
 
 Elements of Program.—In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
 
-&emsp;(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities, (C) instruction in resume�AE1 preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
+&emsp;(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities, (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
 
 &emsp;(2) In providing information under paragraph (1), use experience obtained from implementation of the pilot program established under section 408 of Public Law 101–237.
 
@@ -30,7 +30,13 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 (c)
 
-Participation.—The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.
+Participation.—(1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
+
+(2) The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—
+
+&emsp;(A) such groups or classifications of members as the Secretaries determine, after consultation with the Secretary of Labor and the Secretary of Veterans Affairs, for whom participation is not and would not be of assistance to such members based on the Secretaries’ articulable justification that there is extraordinarily high reason to believe the exempted members are unlikely to face major readjustment, health care, employment, or other challenges associated with transition to civilian life; and
+
+&emsp;(B) individual members possessing specialized skills who, due to unavoidable circumstances, are needed to support a unit's imminent deployment.
 
 (d)
 
@@ -58,25 +64,9 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 (e)
 
-Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeshipprogram that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
+Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 112–56, title II, §221(a), (c), Nov. 21, 2011, 125 Stat. 715, 716, provided that, effective on the date that is 1 year after Nov. 21, 2011, subsection (c) of this section is amended to read as follows:</i>
-
-<i>(c)</i>
-
-<i>Participation.—(1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.</i>
-
-<i>(2) The Secretary of Defense and the Secretary of Homeland Security may, under regulations such Secretaries shall prescribe, waive the participation requirement of paragraph (1) with respect to—</i>
-
-&emsp;<i>(A) such groups or classifications of members as the Secretaries determine, after consultation with the Secretary of Labor and the Secretary of Veterans Affairs, for whom participation is not and would not be of assistance to such members based on the Secretaries’ articulable justification that there is extraordinarily high reason to believe the exempted members are unlikely to face major readjustment, health care, employment, or other challenges associated with transition to civilian life; and</i>
-
-&emsp;<i>(B) individual members possessing specialized skills who, due to unavoidable circumstances, are needed to support a unit's imminent deployment.</i>
-
-<i>See 2011 Amendment note below.</i>
 
 #### References in Text
 
@@ -122,7 +112,7 @@ Subsec. (e)(1). Pub. L. 102–484, §4469(1), substituted “$11,000,000 for fis
 
 Subsec. (e)(2). Pub. L. 102–484, §4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190, §1061(a)(6)(A), substituted “resume�AE1” for “resume” in cl. (C).
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190, §1061(a)(6)(A), substituted “resumé” for “resume” in cl. (C).
 
 Subsec. (b)(3). Pub. L. 102–190, §1061(a)(6)(B), substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
 
@@ -135,6 +125,50 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+#### Off-Base Transition Training for Veterans and Their Spouses
+
+Pub. L. 112–260, title III, §301, Jan. 10, 2013, 126 Stat. 2424, provided that:
+
+“(a)
+
+Provision of Off-base Transition Training.—During the two-year period beginning on the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Labor shall provide the Transition Assistance Program under section 1144 of title 10, United States Code, to eligible individuals at locations other than military installations to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations.
+
+“(b)
+
+Eligible Individuals.—For purposes of this section, an eligible individual is a veteran or the spouse of a veteran.
+
+“(c)
+
+Locations.—
+
+&emsp;“(1)
+
+Number of states.—The Secretary shall carry out the training under subsection (a) in not less than three and not more than five States selected by the Secretary for purposes of this section.
+
+&emsp;“(2)
+
+Selection of states with high unemployment.—Of the States selected by the Secretary under paragraph (1), at least two shall be States with high rates of unemployment among veterans.
+
+&emsp;“(3)
+
+Number of locations in each state.—The Secretary shall provide training under subsection (a) to eligible individuals at a sufficient number of locations within each State selected under this subsection to meet the needs of eligible individuals in such State.
+
+&emsp;“(4)
+
+Selection of locations.—The Secretary shall select locations for the provision of training under subsection (a) to facilitate access by participants and may not select any location on a military installation other than a National Guard or reserve facility that is not located on an active duty military installation.
+
+“(d)
+
+Inclusion of Information About Veterans Benefits.—The Secretary shall ensure that the training provided under subsection (a) generally follows the content of the Transition Assistance Program under section 1144 of title 10, United States Code.
+
+“(e)
+
+Annual Report.—Not later than March 1 of any year during which the Secretary provides training under subsection (a), the Secretary shall submit to Congress a report on the provision of such training.
+
+“(f)
+
+Comptroller General Report.—Not later than 180 days after the termination of the one-year perioddescribed in subsection (a), the Comptroller General of the United States shall submit to Congress a report on the training provided under such subsection. The report shall include the evaluation of the Comptroller General regarding the feasibility and advisability of carrying out off-base transition training at locations nationwide.”
 
 #### Individualized Assessment for Members of the Armed Forces Under Transition Assistance on Equivalence Between Skills Developed in Military Occupational Specialties and Qualifications Required for Civilian Employment With the Private Sector
 

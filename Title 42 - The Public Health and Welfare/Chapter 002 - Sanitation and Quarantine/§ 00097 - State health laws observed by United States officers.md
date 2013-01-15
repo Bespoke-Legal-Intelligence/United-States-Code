@@ -20,5 +20,5 @@ Functions of Department of the Treasury relating to public health transferred to
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-“Coast Guard vessels” substituted in text for “revenue-cutters”, Revenue Cutter Service and Life-Saving Service having been combined to form Coast Guard by section 1 of act Jan. 28, 1915. That act was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished the Coast Guard by enacting Title 14, Coast Guard.
+“Coast Guard vessels” substituted in text for “revenue-cutters”, Revenue Cutter Service and Life-SavingService having been combined to form Coast Guard by section 1 of act Jan. 28, 1915. That act was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished the Coast Guard by enacting Title 14, Coast Guard.
 

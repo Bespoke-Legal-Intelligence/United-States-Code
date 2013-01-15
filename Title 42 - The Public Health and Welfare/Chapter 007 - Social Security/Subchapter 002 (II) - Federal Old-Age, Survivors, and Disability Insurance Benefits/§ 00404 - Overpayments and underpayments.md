@@ -4,7 +4,7 @@
 
 (1) Whenever the Commissioner of Social Security finds that more or less than the correct amount of payment has been made to any person under this subchapter, proper adjustment or recovery shall be made, under regulations prescribed by the Commissioner of Social Security, as follows:
 
-&emsp;(A) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which such overpaid person is entitled, or shall require such overpaid person or his estate to refund the amount in excess of the correct amount, or shall decrease any payment under this subchapter payable to his estate or to any other person on the basis of the wages and self-employment income which were the basis of the payments to such overpaid person, or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31, or shall apply any combination of the foregoing. A payment made under this subchapter on the basis of an erroneous report of death by the Department of Defense of an individual in the line of duty while he is a member of the uniformed services (as defined in section 410(m) of this title) on active duty (as defined in section 410(<i>l</i>) of this title) shall not be considered an incorrect payment for any month prior to the month such Department notifies the Commissioner of Social Security that such individual is alive.
+&emsp;(A) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which such overpaid person is entitled, or shall require such overpaid person or his estate to refund the amount in excess of the correct amount, or shall decrease any payment under this subchapter payable to his estate or to any other person on the basis of the wages and self-employment income which were the basis of the payments to such overpaid person, or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31, or shall apply any combination of the foregoing. A payment made under this subchapter on the basis of an erroneous report of death by the Department of Defense of an individual in the line of duty while he is a member of the uniformed services (as defined in section 410(m) of this title) on active duty (as defined in section 410(l) of this title) shall not be considered an incorrect payment for any month prior to the month such Department notifies the Commissioner of Social Security that such individual is alive.
 
 &emsp;(B)(i) Subject to clause (ii), with respect to payment to a person of less than the correct amount, the Commissioner of Social Security shall make payment of the balance of the amount due such underpaid person, or, if such person dies before payments are completed or before negotiating one or more checks representing correct payments, disposition of the amount due shall be made in accordance with subsection (d) of this section.
 
@@ -52,7 +52,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent); or
 
-&emsp;(7) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or\(6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
+&emsp;(7) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
 
 #### (e) Adjustments due to supplemental security income payments
 
@@ -74,7 +74,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub.L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029.)
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 101–239 applicable with respect to determinations made on
 
 #### Effective Date of 1986 Amendment
 
-Section 12113(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply only in the case of deaths of which the Secretary is first notified on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XII, §12113(c), Apr. 7, 1986, 100 Stat. 289, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply only in the case of deaths of which the Secretary is first notified on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -164,11 +164,11 @@ Amendment by Pub. L. 96–265 applicable in the case of payments of monthly insu
 
 #### Effective Date of 1968 Amendment
 
-Section 153(b) of Pub. L. 90–248 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[section 402(j)(1) of this title\]).”
+Pub. L. 90–248, title I, §153(b), Jan. 2, 1968, 81 Stat. 861, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[section 402(j)(1) of this title\]).”
 
 #### Effective Date of 1939 Amendment
 
-Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “delinquent”.</i>
 

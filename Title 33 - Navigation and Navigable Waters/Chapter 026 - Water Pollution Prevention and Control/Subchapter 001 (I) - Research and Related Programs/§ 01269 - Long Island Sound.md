@@ -6,7 +6,7 @@ The Administrator shall continue the Management Conference of the Long Island So
 
 #### (b) Administration and staffing of Office
 
-The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators of EPA regions I and II, from among the employeesof the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
+The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators of EPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
 
 #### (c) Duties of Office
 
@@ -36,7 +36,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 &emsp;(3) coordinate the grant, research and planning programs authorized under this section;
 
-&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
+&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs establishedpursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
 &emsp;(5) provide administrative and technical support to the conference;
 
@@ -214,7 +214,7 @@ Publication of List of Recommended Sites.—The Administrator shall—
 
 “(c)
 
-Opinion Regarding Owner's Responsibilities.—The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owneracknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation.
+Opinion Regarding Owner's Responsibilities.—The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owner acknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation.
 
 “(d)
 
@@ -552,7 +552,7 @@ Recognition of Authority to Control Land Use.—Nothing in this Act modifies the
 
 “(d)
 
-Participation of Private Property Owners Not Required.—Nothing in this Act requires the ownerof any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act.
+Participation of Private Property Owners Not Required.—Nothing in this Act requires the owner of any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act.
 
 “(e)
 

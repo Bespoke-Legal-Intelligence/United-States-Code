@@ -46,7 +46,7 @@ Ban on awarding contracts.—The Comptroller General shall distribute each name 
 
 &emsp;(3)
 
-Judicial review.—A person aggrieved by the Secretary's action under this subsection orsubsection (b) may file with the appropriate United States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
+Judicial review.—A person aggrieved by the Secretary's action under this subsection or subsection (b) may file with the appropriate United States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
 
 (d)
 
@@ -86,7 +86,7 @@ Experts and consultants.—The Secretary may appoint special advisory and techni
 
 Compensation and expenses.—Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under section 5703 of title 5.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, §6(16), (17), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(20), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, §6(16), (17), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(l)(20), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

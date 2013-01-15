@@ -4,7 +4,7 @@ Section 2693, Pub. L. 88–164, title IV, §403, Oct. 31, 1963, 77 Stat. 297; Pu
 
 Section 2694, Pub. L. 88–164, title IV, §404, Oct. 31, 1963, 77 Stat. 298; Pub. L. 91–517, title I, §102(c), Oct. 30, 1970, 84 Stat. 1325; Pub. L. 94–63, title III, §305(c), July 29, 1975, 89 Stat. 334, related to appeals, petition, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action. See section 6000 et seq. of this title.
 
-Section 2695, Pub. L. 88–164, title IV, §405, Oct. 31, 1963, 77 Stat. 298; Pub. L. 91–517, title I, §102(b), Oct. 30, 1970, 84 Stat. 1325; Pub. L. 94–63, title III, §305(d), July 29, 1975, 89 Stat. 334, related to recovery of expenditures under certain conditions. See section 6000 et seq. of this title.
+Section 2695, Pub. L. 88–164, title IV, §405, Oct. 31, 1963, 77 Stat. 298; Pub. L. 91–517, title I, §102(b), Oct. 30, 1970, 84 Stat. 1325; Pub. L. 94–63, title III, §305(d), July 29, 1975, 89 Stat. 334, related to recovery of expendituresunder certain conditions. See section 6000 et seq. of this title.
 
 Section 2696, Pub. L. 88–164, title IV, §406, Oct. 31, 1963, 77 Stat. 299; Pub. L. 91–517, title I, §102(b), Oct. 30, 1970, 84 Stat. 1325; Pub. L. 94–63, title III, §305(e), July 29, 1975, 89 Stat. 334, related to State control of operations. See section 6000 et seq. of this title.
 

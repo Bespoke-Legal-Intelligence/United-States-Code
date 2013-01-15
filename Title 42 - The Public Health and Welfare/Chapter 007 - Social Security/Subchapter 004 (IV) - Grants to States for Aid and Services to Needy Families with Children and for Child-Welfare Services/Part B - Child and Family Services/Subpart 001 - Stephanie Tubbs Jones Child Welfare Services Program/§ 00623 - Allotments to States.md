@@ -82,5 +82,5 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 #### Effective Date of 1987 Amendment
 
-Section 9135(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1301 and 1397b of this title\] shall apply with respect to fiscal years beginning on or after October 1, 1988.”
+Pub. L. 100–203, title IX, §9135(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: “The amendments made by this section \[amending this section and sections 1301 and 1397b of this title\] shall apply with respect to fiscal years beginning on or after October 1, 1988.”
 

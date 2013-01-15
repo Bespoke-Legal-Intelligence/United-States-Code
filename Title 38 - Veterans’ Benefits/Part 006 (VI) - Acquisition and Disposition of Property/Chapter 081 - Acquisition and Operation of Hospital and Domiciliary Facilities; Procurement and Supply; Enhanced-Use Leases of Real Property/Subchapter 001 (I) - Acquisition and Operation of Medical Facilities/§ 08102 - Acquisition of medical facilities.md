@@ -6,7 +6,7 @@
 
 (c) In carrying out this subchapter, the Secretary—
 
-&emsp;(1) shall provide for the construction and acquisition of medical facilities in a manner that results in the equitable distribution of such facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility; and
+&emsp;(1) shall provide for the construction and acquisition of medical facilities in a mannerthat results in the equitable distribution of such facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility; and
 
 &emsp;(2) shall give due consideration to excellence of architecture and design.
 

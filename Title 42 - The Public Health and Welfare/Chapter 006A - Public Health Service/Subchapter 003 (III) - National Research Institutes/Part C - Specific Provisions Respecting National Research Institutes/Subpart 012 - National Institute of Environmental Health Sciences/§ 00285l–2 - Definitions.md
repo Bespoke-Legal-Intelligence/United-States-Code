@@ -1,6 +1,6 @@
 ### §285<i>l</i>–2. Definitions
 
-In sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title:
+In sections 285l–2 to 285l–5 of this title:
 
 #### (1) Alternative test method
 

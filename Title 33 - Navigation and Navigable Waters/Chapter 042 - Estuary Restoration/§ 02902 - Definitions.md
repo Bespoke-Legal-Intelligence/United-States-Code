@@ -8,7 +8,7 @@ In this chapter, the following definitions apply:
 
 #### (2) Estuary
 
-&emsp;The term “estuary” means a part of a river or stream or other body of water that has anunimpaired connection with the open sea and where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
+&emsp;The term “estuary” means a part of a river or stream or other body of water that has an unimpaired connection with the open sea and where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
 
 #### (3) Estuary habitat
 

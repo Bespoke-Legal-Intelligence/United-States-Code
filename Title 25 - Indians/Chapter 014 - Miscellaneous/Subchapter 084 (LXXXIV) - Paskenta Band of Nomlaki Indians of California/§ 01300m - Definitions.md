@@ -20,5 +20,5 @@ For purposes of this subchapter:
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 103–454 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Paskenta Band Restoration Act’.”
+Pub. L. 103–454, title III, §301, Nov. 2, 1994, 108 Stat. 4793, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Paskenta Band Restoration Act’.”
 

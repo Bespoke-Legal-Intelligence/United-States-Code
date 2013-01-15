@@ -4,7 +4,7 @@
 
 The following costs are not allowable under a covered contract:
 
-&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals,lodging, rentals, transportation, and gratuities).
+&emsp;(1) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
 &emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress or a State legislature.
 
@@ -42,7 +42,7 @@ In this section, “covered contract” means a contract for an amount more than
 
 Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title III, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783.)
+(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783.)
 
 #### Codification
 

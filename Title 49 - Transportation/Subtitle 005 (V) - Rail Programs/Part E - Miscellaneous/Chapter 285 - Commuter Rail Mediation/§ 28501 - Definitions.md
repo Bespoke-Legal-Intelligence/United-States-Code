@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;(3) the term “commuter rail passenger transportation” has the meaning given that term in section 24102;
 
-&emsp;(4) the term “public transportation authority” means a local governmental authority (as defined in section 5302(a)(6)) established to provide, or make a contract providing for, commuter rail passenger transportation;
+&emsp;(4) the term “public transportation authority” means a local governmental authority (as defined in section 5302(a)(6)) <sup>1</sup> established to provide, or make a contract providing for, commuter rail passenger transportation;
 
 &emsp;(5) the term “rail carrier” means a person, other than a governmental authority, providing common carrier railroad transportation for compensation subject to the jurisdiction of the Board under chapter 105;
 
@@ -17,4 +17,10 @@ In this chapter—
 &emsp;(7) the term “trackage” means a railroad line of a rail carrier, including a spur, industrial, team, switching, side, yard, or station track, and a facility of a rail carrier.
 
 (Added Pub. L. 110–432, div. B, title IV, §401(a), Oct. 16, 2008, 122 Stat. 4955.)
+
+#### References in Text
+
+Section 5302, referred to in par. (4), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a). However, the term “local governmental authority” is defined elsewhere in that section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

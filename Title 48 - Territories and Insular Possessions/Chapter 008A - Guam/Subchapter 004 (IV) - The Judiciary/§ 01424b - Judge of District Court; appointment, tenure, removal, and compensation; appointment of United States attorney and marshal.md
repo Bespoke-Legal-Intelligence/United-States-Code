@@ -10,7 +10,7 @@ The Chief Judge of the Ninth Judicial Circuit of the United States may assign a 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term ofeight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
 
 Subsec. (b). Pub. L. 98–454, §802(d), substituted “35” and “37” for “31” and “33” respectively.
 
@@ -32,5 +32,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Extension of Term of District Judges; Applicability; Effective Date
 
-Section 1004 of Pub. L. 98–454 provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act \[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
+Pub. L. 98–454, title X, §1004, Oct. 5, 1984, 98 Stat. 1746, provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act \[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
 

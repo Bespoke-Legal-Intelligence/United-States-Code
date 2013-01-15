@@ -22,7 +22,7 @@ Functions of National Advisory Council on International Monetary and Financial P
 
 #### Purposes
 
-In defining the purposes of act July 15, 1946, sections 286<i>l</i> and 286m of this title, Congress stated that:
+Act July 15, 1946, ch. 577, 60 Stat. 535, provided that:
 
 “Whereas in the Bretton Woods Agreements Act \[this subchapter\] the Congress has declared it to be the policy of the United States ‘to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations’; and
 
@@ -74,7 +74,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 (iii) This section and section 9, which are in anticipation of more comprehensive arrangements by multilateral agreement, shall operate until December 31, 1951.
 
-9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing, for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall become effective as soon as practicable but not later than December 31, 1946.
+9\. Import arrangements: If either the Government of the United States or the Government of the United Kingdom imposes or maintains quantitative import restrictions, such restrictions shall be administered on a basis which does not discriminate against imports from the other country in respect of any product; provided that this undertaking shall not apply in cases in which (a) its application would have the effect of preventing the country imposing such restrictions from utilizing, for the purchase of needed imports, inconvertible currencies accumulated up to December 31, 1946, or (b) there may be special necessity for the country imposing such restrictions to assist, by measures not involving a substantial departure from the general rule of non-discrimination, a country whose economy has been disrupted by war, or (c) either government imposes quantitative restrictions having equivalent effect to any exchange restrictions which that government is authorized to impose in conformity with Article VII of the Articles of Agreement of the International Monetary Fund. The provisions of this section shall becomeeffective as soon as practicable but not later than December 31, 1946.
 
 10\. Accumulated sterling balances:
 

@@ -84,7 +84,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Exceptions
 
-&emsp;A dormancy fee, inactivity charge or fee, or service fee may be charged with respect to agift certificate, store gift card, or general-use prepaid card, if—
+&emsp;A dormancy fee, inactivity charge or fee, or service fee may be charged with respect to a gift certificate, store gift card, or general-use prepaid card, if—
 
 &emsp;&emsp;(A) there has been no activity with respect to the certificate or card in the 12-month period ending on the date on which the charge or fee is imposed;
 
@@ -178,9 +178,9 @@ Exception.—
 
 &emsp;“(1)
 
-In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693<i>l</i>–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
+In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
 
-&emsp;&emsp;“(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693<i>l</i>–1(b)(1), (2)\];
+&emsp;&emsp;“(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693l–1(b)(1), (2)\];
 
 &emsp;&emsp;“(B) consider any such certificate or card for which funds expire to have no expiration date with respect to the underlying funds;
 
@@ -190,19 +190,19 @@ In general.—In the case of a gift certificate, store gift card, or general-use
 
 &emsp;“(2)
 
-Disclosure requirements.—The disclosure requirements of this subsection are met by providingnotice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
+Disclosure requirements.—The disclosure requirements of this subsection are met by providing notice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
 
 &emsp;&emsp;“(A) any such certificate or card for which funds expire shall be deemed to have no expiration date with respect to the underlying funds;
 
 &emsp;&emsp;“(B) consumers holding such certificate or card shall have a right to a free replacement certificate or card that includes the packaging and materials, typically associated with such a certificate or card; and
 
-&emsp;&emsp;“(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693<i>l</i>–1\].
+&emsp;&emsp;“(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693l–1\].
 
 &emsp;“(3)
 
 Period for disclosure requirements.—The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
 
-Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
+Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 wasto become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “General-use”.</i>
 

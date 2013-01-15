@@ -8,7 +8,7 @@ The Commission shall—
 
 &emsp;(2) conduct such continuing studies and investigations of deaths, injuries, diseases, other health impairments, and economic losses resulting from accidents involving consumer products as it deems necessary;
 
-&emsp;(3) following publication of a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
+&emsp;(3) following publication of a notice of proposed rulemaking for a product safety ruleunder any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
 
 &emsp;(4) to the extent practicable and appropriate (taking into account the resources and priorities of the Commission), assist public and private organizations or groups of manufacturers, administratively and technically, in the development of product safety standards and test methods.
 
@@ -98,7 +98,7 @@ Commission.—The Consumer Product Safety Commission shall—
 
 “(c)
 
-Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall develop information on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
+Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall developinformation on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
 
 #### “SEC. 3. ADVISORY GROUP.
 

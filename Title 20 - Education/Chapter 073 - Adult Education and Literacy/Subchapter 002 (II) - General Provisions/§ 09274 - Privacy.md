@@ -8,7 +8,7 @@ Nothing in this Act shall be construed to supersede the privacy protections affo
 
 #### (1) In general
 
-&emsp;Nothing in this Act shall be construed to permit the development of a national databaseof personally identifiable information on individuals receiving services under title I of this Act \[29 U.S.C. 2801 et seq.\].
+&emsp;Nothing in this Act shall be construed to permit the development of a national database of personally identifiable information on individuals receiving services under title I of this Act \[29 U.S.C. 2801 et seq.\].
 
 #### (2) Limitation
 

@@ -18,7 +18,7 @@
 
 #### (b) Eligible children
 
-Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
+Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by thissubsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
 
 #### (c) Reimbursement
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Regulations
 
-Section 106(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Pub. L. 101–147, title I, §106(b), Nov. 10, 1989, 103 Stat. 886, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 

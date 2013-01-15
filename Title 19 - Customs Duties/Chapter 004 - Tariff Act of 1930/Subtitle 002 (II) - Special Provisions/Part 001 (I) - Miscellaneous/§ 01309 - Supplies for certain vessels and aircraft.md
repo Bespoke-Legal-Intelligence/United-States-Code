@@ -18,7 +18,7 @@ Articles withdrawn from bonded warehouses, bonded manufacturing warehouses, cont
 
 #### (c) Articles removed in, or returned to, the United States
 
-Any article exempted from duty or tax, or in respect of which drawback has been allowed, under this section or section 1317 of this title and thereafter removed in the United States from any vessel or aircraft, or otherwise returned to the United States, shall be treated as an importation from a foreign country.
+Any article exempted from duty or tax, or in respect of which drawback has been allowed, under this section or section 1317 of this title and thereafter removed in the United Statesfrom any vessel or aircraft, or otherwise returned to the United States, shall be treated as an importation from a foreign country.
 
 #### (d) Reciprocal privileges
 
@@ -46,7 +46,7 @@ Subsec. (b). Act Aug. 8, 1953, made technical changes to conform with the change
 
 #### Effective Date of 1990 Amendment
 
-Section 484A(c) of Pub. L. 101–382 provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendments made by this section \[amending this section and section 1313 of this title\] shall apply to—
+Pub. L. 101–382, title III, §484A(c), Aug. 20, 1990, 104 Stat. 708, provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendments made by this section \[amending this section and section 1313 of this title\] shall apply to—
 
 &emsp;“(1) claims filed or liquidated on or after January 1, 1988, and
 
@@ -54,7 +54,7 @@ Section 484A(c) of Pub. L. 101–382 provided that: “Notwithstanding section 5
 
 #### Effective Date of 1960 Amendment
 
-Section 5(b) of Pub. L. 86–606 provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to articles withdrawn as provided in section 309(a) of the Tariff Act of 1930, as amended \[subsec. (a) of this section\], on or after the date of the enactment of this Act \[July 7, 1960\].”
+Pub. L. 86–606, §5(b), July 7, 1960, 74 Stat. 361, provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to articles withdrawn as provided in section 309(a) of the Tariff Act of 1930, as amended \[subsec. (a) of this section\], on or after the date of the enactment of this Act \[July 7, 1960\].”
 
 #### Effective Date of 1953 Amendment; Savings Provision
 

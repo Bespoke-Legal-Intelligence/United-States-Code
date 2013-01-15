@@ -1,6 +1,4 @@
 
-22 U.S.C.<br>United States Code, 2011 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
-
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
 | Chap. |  | Sec. |
@@ -108,6 +106,9 @@
 | [<b>90.</b>](Chapter%20090%20-%20Volunteers%20for%20Prosperity%20Program/README.md) | <b>Volunteers for Prosperity Program</b> | <b>8301</b> |
 | [<b>91.</b>](Chapter%20091%20-%20Enhanced%20Partnership%20with%20Pakistan/README.md) | <b>Enhanced Partnership With Pakistan</b> | <b>8401</b> |
 | [<b>92.</b>](Chapter%20092%20-%20Comprehensive%20Iran%20Sanctions%2C%20Accountability%2C%20and%20Divestment/README.md) | <b>Comprehensive Iran Sanctions, Accountability, and Divestment</b> | <b>8501</b> |
+| [<b>93.</b>](Chapter%20093%20-%20United%20States-Israel%20Cooperation/README.md) | <b>United States-Israel Cooperation</b> | <b>8601</b> |
+| [<b>94.</b>](Chapter%20094%20-%20Iran%20Threat%20Reduction%20and%20Syria%20Human%20Rights/README.md) | <b>Iran Threat Reduction and Syria Human Rights</b> | <b>8701</b> |
+| [<b>95.</b>](Chapter%20095%20-%20Iran%20Freedom%20and%20Counterproliferation/README.md) | <b>Iran Freedom and Counterproliferation</b> | <b>8801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -219,3 +220,6 @@
 - [Chapter 090 - Volunteers for Prosperity Program](Chapter%20090%20-%20Volunteers%20for%20Prosperity%20Program/README.md)
 - [Chapter 091 - Enhanced Partnership with Pakistan](Chapter%20091%20-%20Enhanced%20Partnership%20with%20Pakistan/README.md)
 - [Chapter 092 - Comprehensive Iran Sanctions, Accountability, and Divestment](Chapter%20092%20-%20Comprehensive%20Iran%20Sanctions%2C%20Accountability%2C%20and%20Divestment/README.md)
+- [Chapter 093 - United States-Israel Cooperation](Chapter%20093%20-%20United%20States-Israel%20Cooperation/README.md)
+- [Chapter 094 - Iran Threat Reduction and Syria Human Rights](Chapter%20094%20-%20Iran%20Threat%20Reduction%20and%20Syria%20Human%20Rights/README.md)
+- [Chapter 095 - Iran Freedom and Counterproliferation](Chapter%20095%20-%20Iran%20Freedom%20and%20Counterproliferation/README.md)

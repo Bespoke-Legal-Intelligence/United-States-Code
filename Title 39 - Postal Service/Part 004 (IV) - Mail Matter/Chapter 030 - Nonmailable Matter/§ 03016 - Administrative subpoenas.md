@@ -78,7 +78,7 @@ Jurisdiction.—Whenever any petition is filed in any district court of the Unit
 
 (d)
 
-Disclosure.—Any documentary material provided pursuant to any subpoena issued under this section shall be exempt from disclosure under section 552 of title 5, United States Code.
+Disclosure.—Any documentary material provided pursuant to any subpoena issued underthis section shall be exempt from disclosure under section 552 of title 5, United States Code.
 
 (Added Pub. L. 106–168, title I, §107(a), Dec. 12, 1999, 113 Stat. 1812.)
 

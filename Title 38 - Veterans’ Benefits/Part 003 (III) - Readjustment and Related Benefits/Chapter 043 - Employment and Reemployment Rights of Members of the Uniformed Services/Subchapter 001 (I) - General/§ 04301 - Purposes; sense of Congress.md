@@ -24,7 +24,7 @@ Another prior section 4301 was renumbered section 7601 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 313 of Pub. L. 104–275 provided that:
+Pub. L. 104–275, title III, §313, Oct. 9, 1996, 110 Stat. 3336, provided that:
 
 “(a)
 
@@ -38,7 +38,7 @@ References.—The amendments made by clause (i), and subclauses (I), (III), and 
 
 #### Effective Date
 
-Section 8 of Pub. L. 103–353, as amended by Pub. L. 104–275, title III, §312, Oct. 9, 1996, 110 Stat. 3336, provided that:
+Pub. L. 103–353, §8, Oct. 13, 1994, 108 Stat. 3175, as amended by Pub. L. 104–275, title III, §312, Oct. 9, 1996, 110 Stat. 3336, provided that:
 
 “(a)
 
@@ -52,7 +52,7 @@ Reemployment.—(1) Except as otherwise provided in this Act \[see Short Title o
 
 “(b)
 
-Discrimination.—The provisions of section 4311 of title 38, United States Code, as provided in the amendments made by this Act, and the provisions of subchapter III of chapter 43 of such title, as provided in the amendments made by this Act, that are necessary for the implementation of such section 4311 shall become effective on the date of enactment of this Act \[Oct. 13, 1994\].
+Discrimination.—The provisions of section 4311 of title 38, United States Code, as provided in the amendments made by this Act, and the provisions of subchapter III of chapter 43 of such title, as provided inthe amendments made by this Act, that are necessary for the implementation of such section 4311 shall become effective on the date of enactment of this Act \[Oct. 13, 1994\].
 
 “(c)
 
@@ -90,7 +90,7 @@ Definition.—For the purposes of this section, the term ‘service in the unifo
 
 #### Demonstration Project for Referral of USERRA Claims Against Federal Agencies to the Office of Special Counsel
 
-Pub. L. 111–275, title I, §105, Oct. 13, 2010, 124 Stat. 2868, provided that:
+Pub. L. 111–275, title I, §105, Oct. 13, 2010, 124 Stat. 2868, as amended by Pub. L. 112–234, §2(d), Dec. 28, 2012, 126 Stat. 1624, provided that:
 
 “(a)
 
@@ -146,7 +146,7 @@ Data Comparability for Reviewing Agency Performance.—
 
 &emsp;“(1)
 
-In general.—To facilitate the review of the relative performance of the Office of Special Counsel and the Department of Labor during the demonstration project, the Office of Special Counsel and the Department of Labor shall jointly establish methods and procedures to be used by both the Office and the Department during the demonstration project. Such methods and procedures shall include each of the following:
+In general.—To facilitate the review of the relative performance of the Office of Special Counsel and the Department of Labor during the demonstration project, the Office of Special Counsel and the Department of Labor shall jointly establish methods and procedures to be used by both the Office and theDepartment during the demonstration project. Such methods and procedures shall include each of the following:
 
 &emsp;&emsp;“(A) Definitions of performance measures, including—
 
@@ -182,9 +182,99 @@ Agency Data to Government Accountability Office.—The Office of Special Counsel
 
 Government Accountability Office Report.—The Comptroller General shall review the relative performance of the Office of Special Counsel and the Department of Labor under the demonstration project and—
 
-&emsp;“(1) not later than one year after the commencement of the demonstration project, and annually thereafter during the period when the demonstration project is conducted, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an interim report on the demonstration project; and
+&emsp;“(1) not later than one year after the commencement of the demonstration project submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an interim report on the demonstration project; and
 
 &emsp;“(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate.”
 
 Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+
+#### Ensuring the Uniformed Services Employment and Reemployment Rights Act (USERRA) Protections
+
+Memorandum of President of the United States, July 19, 2012, 77 F.R. 43699, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA) protects individuals performing, or who performed, uniformed service in accordance with 38 U.S.C. 4301–4335 from adverse employment discrimination on the basis of their uniformed service, and provides for their prompt restoration to civilian employment when they return to civilian life.
+
+USERRA is intended to ensure that these service members are not disadvantaged in their civilian careers because of their service; are promptly reemployed in their civilian jobs upon their return from duty; and are not discriminated against in employment because of their military status or obligations. This memorandum will help ensure that Federal agencies improve compliance with USERRA through outreach, education, and oversight.
+
+The Administration strongly believes that every man or woman who has served in our country's uniformed services deserves the full protection of our employment laws, including USERRA. No discrimination or unfair treatment based on one's service will be tolerated. We must do our utmost to ensure that all service members’ employment and reemployment rights are respected.
+
+The Federal Government, as our Nation's largest employer, has a responsibility to adopt best practices with respect to employing returning service members. Attracting and retaining the best talent means ensuring fair treatment for individuals who have served our country. Close attention must be paid to our returning service members to ensure that we protect their reemployment rights, and effectively manage their reintegration when they return from service.
+
+As a critical part of that effort, I am directing executive departments and agencies (agencies) to take steps to ensure robust compliance with USERRA's employment and reemployment protections across the Federal Government through outreach, education, and oversight. Ensuring agencies’ compliance with USERRA across the Federal Government will maintain our commitment to those who serve.
+
+This effort will build upon, and be in furtherance of, Executive Order 13518 of November 9, 2009 (Employment of Veterans in the Federal Government), which directed agencies to take steps to enhance recruitment of and promote employment opportunities for veterans within the executive branch. Over the last few years, the Federal Government has made a concerted and successful effort to increase the hiring of military veterans and members of the National Guard and Reserves, and veterans now constitute a higher percentage of the Federal workforce than they have in years.
+
+The Federal Government must continue to improve outreach to the uniformed services, veteran, Guard, and Reserve communities; improve agencies’ USERRA training and guidance; and ensure that service members and veterans in Federal employment receive the full extent of their employment protections, including USERRA protections. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>USERRA Employment Protection Working Group</i>. There is established the USERRA Employment Protection Working Group (Working Group), to be co-chaired by the Assistant to the President for Domestic Policy and the Assistant to the President and National Security Advisor, or their designated representatives, which shall coordinate and review agency efforts to implement USERRA.
+
+(a) In addition to the Co-Chairs, the Working Group shall include representatives from:
+
+(i) the Department of Defense;
+
+(ii) the Department of Justice;
+
+(iii) the Department of Labor;
+
+(iv) the Department of Veterans Affairs;
+
+(v) the Office of Personnel Management;
+
+(vi) the Office of the Special Counsel; and
+
+(vii) such other agencies or offices as the Co-Chairs may designate.
+
+(b) In addition to coordinating and reviewing agency efforts to implement USERRA pursuant to this memorandum, the Working Group shall:
+
+(i) collect data to better track the Federal Government's performance in implementing USERRA protections;
+
+(ii) coordinate agency efforts to implement best practices, training, and procedures for any agency officials who are authorized to recommend, take, or approve any personnel action with respect to employees of the agency in order to improve compliance with USERRA employment and reemployment protections; and
+
+(iii) conduct outreach to veterans and members of the National Guard and Reserve and other members of the uniformed services to assist them in fully exercising their employment rights.
+
+(c) Within 30 days of the date of this memorandum, the head of each agency shall designate a senior agency official to act as a liaison between the agency and the Working Group. The agency liaison shall be responsible for providing the Working Group with information on agency efforts to implement this memorandum, as well as any other relevant information on service member employment that the Working Group may require.
+
+(d) Within 90 days of the date of this memorandum, the Working Group shall report to the President on Government-wide progress in implementing this memorandum.
+
+Sec. 2. <i>Federal USERRA Guidance</i>. (a) Within 180 days of the date of this memorandum, the Director of the Office of Personnel Management, in consultation with the Council on Veterans Employment established by Executive Order 13518 and offices and agencies participating in the Working Group, as appropriate, shall issue guidance to agencies on Federal USERRA employment protection, which shall describe specific steps agencies can take to improve USERRA employment and reemployment protection policies and practices, including:
+
+(i) improving data collection procedures to help better track overall service member employment data in the Federal Government, including Guard and Reserve members;
+
+(ii) using appropriate metrics, as established by the Office of Personnel Management, to measure implementation of this memorandum;
+
+(iii) using guidance and tools, as developed by the Office of Personnel Management through collaboration with the Working Group and Council on Veterans Employment, which draw upon best agency practices as well as practices and guidance from the private sector; and
+
+(iv) strengthening relationships between service members, stakeholder groups, and the agency, and providing better information to service members so as to allow them to be reintegrated as quickly and efficiently as possible when they return to civilian life.
+
+(b) In the course of developing guidance pursuant to subsection (a), the Director of the Office of Personnel Management, in consultation with the Council on Veterans Employment and offices and agencies participating in the Working Group as appropriate, shall review relevant statutes, regulations, policies, and agency training and guidance to identify reforms that would facilitate improved implementation of and compliance with USERRA. The Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget (OMB), shall report to the President on this review, no later than 1 year from the date of this memorandum, and provide recommendations for changes to laws, regulations, and policies that would strengthen USERRA protections.
+
+(c) In developing guidance pursuant to subsection (a), the Director of the Office of Personnel Management shall consult with affected agencies, interagency groups, and public stakeholders.
+
+(d) The Department of Defense and the Office of Personnel Management shall work together to improve data collection procedures to help better track the overall veteran and service member employment data in the Federal Government, particularly Guard and Reserve Members.
+
+Sec. 3. <i>Ensuring USERRA Employment Protection</i>. The head of each agency shall, as expeditiously as possible:
+
+(a) implement the guidance issued pursuant to section 2 of this memorandum;
+
+(b) ensure that the agency has prioritized policies and actions to implement USERRA employment protections, including providing appropriate training and information, as well as undertaking appropriate reemployment measures; and
+
+(c) allocate sufficient resources to effectively implement the requirements of this memorandum, subject to the availability of appropriations.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Independent agencies are strongly encouraged to comply with the requirements of this memorandum.
+
+The Director of the Office of Personnel Management is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

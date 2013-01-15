@@ -24,7 +24,7 @@
 
 (c) Except as otherwise specifically prescribed by law, the Air Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 490; Pub. L. 89–718, §45, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 93–608, §1(5), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522;Pub. L. 99–433, title V, §522(a), Oct. 1, 1986, 100 Stat. 1060.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 490; Pub. L. 89–718, §45, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 93–608, §1(5), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, §522(a), Oct. 1, 1986, 100 Stat. 1060.)
 
 Historical and Revision Notes
 
@@ -74,5 +74,5 @@ In subsection (d), the words “now or hereafter” are omitted as surplusage an
 
 #### Effective Date of 1984 Amendment
 
-Section 515 of Pub. L. 98–525 provided in part that the repeal of subsec. (d) of this section is effective Oct. 1, 1984.
+Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522, provided in part that the repeal of subsec. (d) of this section is effective Oct. 1, 1984.
 

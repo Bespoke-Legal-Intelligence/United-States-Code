@@ -16,11 +16,19 @@
 
 (e) The Secretary shall consult with the Attorney General before prescribing regulations under this section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 397.)
+(f)(1) The Secretary may not prohibit the use of a covered service dog in any facility or on any property of the Department or in any facility or on any property that receives funding from the Secretary.
+
+(2) For purposes of this subsection, a covered service dog is a service dog that has been trained by an entity that is accredited by an appropriate accrediting body that evaluates and accredits organizations which train guide or service dogs.
+
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 397; amended Pub. L. 112–154, title I, §109, Aug. 6, 2012, 126 Stat. 1174.)
 
 #### Prior Provisions
 
 Prior section 901 was renumbered section 2301 of this title.
 
 Provisions similar to those in this section were contained in section 218(a) of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+<b>2012</b>—Subsec. (f). Pub. L. 112–154 added subsec. (f).
 

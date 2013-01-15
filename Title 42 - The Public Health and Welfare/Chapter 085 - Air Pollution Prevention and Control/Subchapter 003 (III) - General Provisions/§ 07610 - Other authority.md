@@ -2,7 +2,7 @@
 
 #### (a) Authority and responsibilities under other laws not affected
 
-Except as provided in subsection (b) of this section, this chapter shall not be construed as superseding or limiting the authorities and responsibilities, under any other provision of law, of the Administrator or any other Federal officer, department, or agency.
+Except as provided in subsection (b) of this section, this chapter shall not be construed assuperseding or limiting the authorities and responsibilities, under any other provision of law, of the Administrator or any other Federal officer, department, or agency.
 
 #### (b) Nonduplication of appropriations
 

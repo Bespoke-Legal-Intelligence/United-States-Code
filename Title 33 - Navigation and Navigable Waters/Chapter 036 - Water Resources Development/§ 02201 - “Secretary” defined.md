@@ -26,11 +26,11 @@ Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act \[enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467<i>l</i>, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the ‘Water Resources Development Act of 1992’.”
+Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This Act \[enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the ‘Water Resources Development Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
+Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -38,9 +38,9 @@ Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This
 
 #### Short Title
 
-Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426<i>o</i>, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
+Pub. L. 99–662, §1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426o, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
 
-Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
+Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
 #### Funding to Process Permits
 
@@ -130,7 +130,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Aug.
 
 &emsp;“(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities;
 
-&emsp;“(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center;
+&emsp;“(3) a determination whether the benefits to users of establishing regional water control managementcenters will be retained in each district office of the Corps of Engineers that does not have a regional center;
 
 &emsp;“(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and
 
@@ -160,7 +160,7 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 
 #### Budget Act Requirements
 
-Section 948 of Pub. L. 99–662 provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
+Pub. L. 99–662, title IX, §948, Nov. 17, 1986, 100 Stat. 4201, provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
 
 #### “Secretary” Defined
 

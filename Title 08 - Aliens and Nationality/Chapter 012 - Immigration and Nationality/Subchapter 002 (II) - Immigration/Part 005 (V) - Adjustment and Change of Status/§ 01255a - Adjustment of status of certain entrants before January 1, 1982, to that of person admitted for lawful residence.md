@@ -388,7 +388,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;Notwithstanding any provision of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (including subparagraphs (B) and (C) of section 1902(a)(10) of such Act \[42 U.S.C. 1396a(a)(10)(B), (C)\]), aliens who, but for subparagraph (A), would be ineligible for medical assistance under paragraph (1), are only eligible for such assistance with respect to—
 
-&emsp;&emsp;&emsp;&emsp;(I) emergency services (as defined for purposes of section 1916(a)(2)(D) of the Social Security Act \[42 U.S.C. 1396<i>o</i>(a)(2)(D)\]), and
+&emsp;&emsp;&emsp;&emsp;(I) emergency services (as defined for purposes of section 1916(a)(2)(D) of the Social Security Act \[42 U.S.C. 1396o(a)(2)(D)\]), and
 
 &emsp;&emsp;&emsp;&emsp;(II) services described in section 1916(a)(2)(B) of such Act (relating to service for pregnant women).
 
@@ -430,7 +430,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
@@ -514,7 +514,7 @@ Subsec. (h)(2)(B). Pub. L. 104–193, §110(s)(2)(B), substituted “assistance 
 
 <b>1994</b>—Subsec. (b)(1)(D)(i)(I), (iii). Pub. L. 103–416, §108(b), substituted “1423(a)” for “1423”.
 
-Subsec. (c)(7)(C). Pub. L. 103–416, §219(<i>l</i>)(1), realigned margins and substituted “subparagraph (B)” for “subsection (B)”.
+Subsec. (c)(7)(C). Pub. L. 103–416, §219(l)(1), realigned margins and substituted “subparagraph (B)” for “subsection (B)”.
 
 Subsec. (h)(4)(D). Pub. L. 103–382 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Chapter 1 of the Education Consolidation and Improvement Act of 1981.”
 
@@ -572,7 +572,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 eff
 
 Amendment by section 308(g)(2)(B), (5)(A)(iii) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 377(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603\].”
+Pub. L. 104–208, div. C, title III, §377(b), Sept. 30, 1996, 110 Stat. 3009–649, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603\].”
 
 Amendment by section 384(d)(1) of Pub. L. 104–208 applicable to offenses occurring on or after Sept. 30, 1996, see section 384(d)(2) of Pub. L. 104–208, set out as a note under section 1160 of this title.
 
@@ -580,11 +580,11 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 219(<i>l</i>)(1) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by section 219(l)(1) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
@@ -600,7 +600,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Citizenship of Certain Legalized Aliens
 
-Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
+Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that: “Not later than June 30, 1996, theCommissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
 
 &emsp;“(1) The number of applications for citizenship filed.
 
@@ -612,7 +612,7 @@ Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996,
 
 #### Family Unity
 
-Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
+Pub. L. 101–649, title III, §301, Nov. 29, 1990, 104 Stat. 5029, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
 
 “(a)
 
@@ -666,9 +666,9 @@ Construction.—Nothing in this section shall be construed as authorizing an ali
 
 Effective Date.—This section shall take effect on October 1, 1991; except that the delay in effectiveness of this section shall not be construed as reflecting a Congressional belief that the existing family fairness program should be modified in any way before such date.”
 
-\[Section 383(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall apply to benefits granted or extended after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
+\[Pub. L. 104–208, div. C, title III, §383(b), Sept. 30, 1996, 110 Stat. 3009–652, provided that: “The amendments made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall apply to benefits granted or extended after the date of the enactment of this Act \[Sept. 30, 1996\].”\]
 
-\[Section 206(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall be deemed to have become effective as of October 1, 1991.”\]
+\[Pub. L. 103–416, title II, §206(b), Oct. 25, 1994, 108 Stat. 4312, provided that: “The amendment made by subsection (a) \[amending section 301 of Pub. L. 101–649, set out above\] shall be deemed to have become effective as of October 1, 1991.”\]
 
 #### Use of Capital Assets by Immigration and Naturalization Service
 
@@ -692,7 +692,7 @@ Adjustment of Status.—The status of any alien who is a national of a foreign c
 
 &emsp;“(5) meets the requirements of section 245A(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1255a(a)(4)).
 
-> The Attorney General shall provide for the acceptance and processing of applications under this subsection by not later than 90 days after the date of the enactment of this Act.
+> The Attorney General shall provide for the acceptance and processing of applications under this subsection bynot later than 90 days after the date of the enactment of this Act.
 
 “(b)
 
@@ -706,23 +706,23 @@ Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided 
 
 #### Use of Retired Federal Employees
 
-Section 201(c)(2) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(h)(2), Oct. 24, 1988, 102 Stat. 2612, provided that: “Notwithstanding any other provision of law, the retired or retainer pay of a member or former member of the Armed Forces of the United States or the pay and annuity of a retired employee of the Federal Government who retired on or before January 1, 1986, shall not be reduced while such individual is temporarily employed by the Immigration and Naturalization Service for a period of not to exceed 18 months to perform duties in connection with the adjustment of status of aliens under this section \[enacting this section and amending sections 602, 672, and 673 of Title 42, The Public Health and Welfare\]. The Service shall not temporarily employ more than 300 individuals under this paragraph. Notwithstanding any other provision of law, the annuity of a retired employee of the Federal Government shall not be increased or redetermined under chapter 83 or 84 of title 5, United States Code, as a result of a period of temporary employment under this paragraph.”
+Pub. L. 99–603, title II, §201(c)(2), Nov. 6, 1986, 100 Stat. 3403, as amended by Pub. L. 100–525, §2(h)(2), Oct. 24, 1988, 102 Stat. 2612, provided that: “Notwithstanding any other provision of law, the retired or retainer pay of a member or former member of the Armed Forces of the United States or the pay and annuity of a retired employee of the Federal Government who retired on or before January 1, 1986, shall not be reduced while such individual is temporarily employed by the Immigration and Naturalization Service for a period of not to exceed 18 months to perform duties in connection with the adjustment of status of aliens under this section \[enacting this section and amending sections 602, 672, and 673 of Title 42, The Public Health and Welfare\]. The Service shall not temporarily employ more than 300 individuals under this paragraph. Notwithstanding any other provision of law, the annuity of a retired employee of the Federal Government shall not be increased or redetermined under chapter 83 or 84 of title 5, United States Code, as a result of a period of temporary employment under this paragraph.”
 
 #### Cuban-Haitian Adjustment
 
-Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived in the United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
+Pub. L. 99–603, title II, §202, Nov. 6, 1986, 100 Stat. 3404, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived in the United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
 
 #### State Legalization Impact-Assistance Grants
 
-Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
+Pub. L. 99–603, title II, §204, Nov. 6, 1986, 100 Stat. 3405, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
 
 #### Application of Certain State Assistance Provisions
 
-Section 303(c) of Pub. L. 99–603, defined “eligible legalized alien” relative to State legalization assistance, prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
+Pub. L. 99–603, title III, §303(c), Nov. 6, 1986, 100 Stat. 3431, defined “eligible legalized alien” relative to State legalization assistance, prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
 
 #### Reports on Legalization Program
 
-Section 404 of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title IV, §404, Nov. 6, 1986, 100 Stat. 3442, provided that:
 
 “(a)
 
@@ -748,7 +748,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 &emsp;“(3) the participation of legalized aliens in social service programs.”
 
-\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended, set out as a note under section 1364 of this title.\]
+\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
 
 <i><sup>1</sup></i><i> So in original.</i>
 

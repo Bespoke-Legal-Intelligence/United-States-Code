@@ -48,9 +48,9 @@ Subsec. (b)(2). Pub. L. 91–172, §331(b), incorporated existing provisions of 
 
 #### Effective Date of 1997 Amendment
 
-Section 1306(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1306(c), Aug. 5, 1997, 111 Stat. 1041, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1307(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1307(c), Aug. 5, 1997, 111 Stat. 1041, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1969 Amendment
 

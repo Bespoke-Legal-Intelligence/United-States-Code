@@ -24,7 +24,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 10486. Advisory Committee on Government Housing Policies and Programs
 
@@ -32,7 +32,7 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 1\. There shall be established the Advisory Committee on Government Housing Policies and Programs.
 
-2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization withinthe Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
+2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization within the Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
 
 3\. The Housing and Home Finance Administrator shall serve as the Chairman of the Committee, and the other members of the Committee shall be appointed pursuant to the provisions of this Executive Order and Section 601 of the Housing Act of 1949 (63 Stat. 439) \[this section\].
 

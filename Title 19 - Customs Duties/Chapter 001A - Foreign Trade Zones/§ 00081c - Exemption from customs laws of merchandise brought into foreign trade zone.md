@@ -48,6 +48,8 @@ In regard to the calculation of relative values in the operations of petroleum r
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+<i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsec. (a)(1), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
@@ -87,9 +89,9 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–382, §481, substituted “on or before December 31, 1992” for “before January 1, 1991”.
 
-Subsec. (c). Pub. L. 101–382, §484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
+Subsec. (c). Pub. L. 101–382, §484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating towithdrawal free of tax from a distilled spirits plant, and added par. (2).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–449 inserted provision directing that, “with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–449 temporarily inserted provision directing that, “with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested.” See Effective and Termination Dates of 1988 Amendment note below.
 
 Subsec. (b). Pub. L. 100–418 substituted “January 1, 1991” for “June 30, 1986”.
 
@@ -109,7 +111,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 #### Effective Date of 1996 Amendment
 
-Section 31(b) of Pub. L. 104–295 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act \[Oct. 11, 1996\].”
+Pub. L. 104–295, §31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -117,9 +119,9 @@ Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the U
 
 #### Effective Date of 1990 Amendment
 
-Section 485(a) of title III (§§301–485) of Pub. L. 101–382 provided that: “Except as otherwise provided in this title, the amendments made by this title \[amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title\], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
+Pub. L. 101–382, title III, §485(a), Aug. 20, 1990, 104 Stat. 712, provided that: “Except as otherwise provided in this title, the amendments made by this title \[amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title\], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
 
-#### Effective and Termination Dates of 1988 Amendments
+#### Effective and Termination Dates of 1988 Amendment
 
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
@@ -127,7 +129,7 @@ Amendment by section 1783(f) of Pub. L. 100–418 applicable with respect to art
 
 #### Effective Date of 1984 Amendment
 
-Section 231(a)(3) of Pub. L. 98–573 provided that: “The amendments made by paragraph (2) \[amending this section\] shall take effect on the fifteenth day after the date of the enactment of this Act \[Oct. 30, 1984\].”
+Pub. L. 98–573, title II, §231(a)(3), Oct. 30, 1984, 98 Stat. 2990, provided that: “The amendments made by paragraph (2) \[amending this section\] shall take effect on the fifteenth day after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
 #### Effective Date of 1970 Amendment
 

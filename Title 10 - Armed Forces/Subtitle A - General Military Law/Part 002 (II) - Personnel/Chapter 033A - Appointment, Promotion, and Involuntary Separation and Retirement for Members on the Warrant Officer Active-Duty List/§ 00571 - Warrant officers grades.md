@@ -34,7 +34,7 @@ Provisions similar to those in this section were contained in section 555 of thi
 
 #### Effective Date of 1994 Amendment
 
-Section 541(h) of Pub. L. 103–337 provided that: “This section \[enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title\] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title V, §541(h), Oct. 5, 1994, 108 Stat. 2767, provided that: “This section \[enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title\] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date
 
@@ -42,11 +42,11 @@ Chapter effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 #### Short Title
 
-Section 1101 of title XI of Pub. L. 102–190 provided that: “This title \[enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the ‘Warrant Officer Management Act’.”
+Pub. L. 102–190, div. A, title XI, §1101, Dec. 5, 1991, 105 Stat. 1491, provided that: “This title \[enacting this chapter and section 742 of this title, amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and section 1009 of Title 37\] may be cited as the ‘Warrant Officer Management Act’.”
 
 #### Transition and Savings Provisions
 
-Section 541(c), (d) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(3), Feb. 10, 1996, 110 Stat. 513, provided that:
+Pub. L. 103–337, div. A, title V, §541(c), (d), Oct. 5, 1994, 108 Stat. 2765, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(3), Feb. 10, 1996, 110 Stat. 513, provided that:
 
 “(c)
 
@@ -86,7 +86,7 @@ Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Gr
 
 > shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment.”
 
-Part B (§§1121–1124) of title XI of Pub. L. 102–190 provided that:
+Pub. L. 102–190, div. A, title XI, §§1121–1124, Dec. 5, 1991, 105 Stat. 1503–1505, provided that:
 
 #### “SEC. 1121. TRANSITION FOR CERTAIN REGULAR WARRANT OFFICERS SERVING IN A HIGHER TEMPORARY GRADE BELOW CHIEF WARRANT OFFICER, W–5.
 
@@ -174,9 +174,9 @@ Functions of President under second sentence of subsec. (b) of this section dele
 
 #### Establishment of Permanent Grade of Chief Warrant Officer, W–5
 
-Section 541(a)(1) of Pub. L. 103–337 provided that: “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
+Pub. L. 103–337, div. A, title V, §541(a)(1), Oct. 5, 1994, 108 Stat. 2764, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-Section 1111(a) of Pub. L. 102–190 provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
+Pub. L. 102–190, div. A, title XI, §1111(a), Dec. 5, 1991, 105 Stat. 1491, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
 

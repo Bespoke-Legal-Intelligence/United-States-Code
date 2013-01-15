@@ -24,7 +24,7 @@ The Commission shall be composed of 10 members, as follows:
 
 &emsp;(3) Four members appointed by the Secretary.
 
-&emsp;(4) Four members appointed by the Secretary from a list provided by the Governor of the United States Virgin Islands, at least one of whom shall be a member of the Legislature of the United States Virgin Islands.
+&emsp;(4) Four members appointed by the Secretary from a list provided by the Governor ofthe United States Virgin Islands, at least one of whom shall be a member of the Legislature of the United States Virgin Islands.
 
 > Initial appointments made under this subsection shall be made within 120 days after February 24, 1992, except that the appointments made under paragraph (4) shall be made within 120 days after the date on which the Secretary receives such list.
 

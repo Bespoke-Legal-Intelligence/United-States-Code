@@ -14,7 +14,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 &emsp;&emsp;(A) the total amount of direct cost of complying with the Federal intergovernmental mandates in the bill or joint resolution;
 
-&emsp;&emsp;(B) if the bill or resolution contains an authorization of appropriations under section 658d(a)(2)(B) of this title, the amount of new budget authority for each fiscal year for a period not to exceed 10 years beyond the effective date necessary for the direct cost of the intergovernmental mandate; and
+&emsp;&emsp;(B) if the bill or resolution contains an authorization of appropriations under section658d(a)(2)(B) of this title, the amount of new budget authority for each fiscal year for a period not to exceed 10 years beyond the effective date necessary for the direct cost of the intergovernmental mandate; and
 
 &emsp;&emsp;(C) the amount, if any, of increase in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable by State, local, or tribal governments for activities subject to the Federal intergovernmental mandates.
 
@@ -52,7 +52,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (c) Legislation falling below direct costs thresholds
 
-If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and\(b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
+If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
 
 #### (d) Amended bills and joint resolutions; conference reports
 

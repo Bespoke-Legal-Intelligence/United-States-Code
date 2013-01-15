@@ -18,7 +18,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(8) The term “functions” includes authorities, powers, rights, privileges, immunities, programs, projects, activities, duties, and responsibilities.
 
-&emsp;(9) The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 401a(5) of title 50, except—
+&emsp;(9) The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, includinghomeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 401a(5) of title 50, except—
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
@@ -86,9 +86,17 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 112–265, §1, Jan. 14, 2013, 126 Stat. 2435, provided that: “This Act \[amending section 455 of this title and section 530C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Investigative Assistance for Violent Crimes Act of 2012’.”
+
+#### Short Title of 2012 Amendment
+
+Pub. L. 112–205, §1, Dec. 7, 2012, 126 Stat. 1487, provided that: “This Act \[enacting section 240 of this title and provisions set out as a note under section 240 of this title\] may be cited as the ‘Jaime Zapata Border Enforcement Security Task Force Act’.”
+
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title and provisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
+Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title andprovisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
 
 #### Short Title of 2010 Amendment
 
@@ -112,7 +120,7 @@ Pub. L. 110–53, §1(a), Aug. 3, 2007, 121 Stat. 266, provided that: “This Ac
 
 Pub. L. 109–295, title VI, §671(a), Oct. 4, 2006, 120 Stat. 1433, provided that: “This section \[enacting subchapter XIII of this chapter\] may be cited as the ‘21st Century Emergency Communications Act of 2006’.”
 
-#### Short Title of 2004 Amendments
+#### Short Title of 2004 Amendment
 
 Pub. L. 108–458, title VII, §7001, Dec. 17, 2004, 118 Stat. 3775, provided that: “This title \[see Tables for classification\] may be cited as the ‘9/11 Commission Implementation Act of 2004’.”
 
@@ -156,7 +164,7 @@ Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L
 
 &emsp;“(3) build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
 
-&emsp;&emsp;“(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the ‘Joint Inquiry’); and
+&emsp;&emsp;“(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks ofSeptember 11, 2001, (hereinafter in this title referred to as the ‘Joint Inquiry’); and
 
 &emsp;&emsp;“(B) other executive branch, congressional, or independent commission investigations into the terrorist attacks of September 11, 2001, other terrorist attacks, and terrorism generally;
 
@@ -296,7 +304,7 @@ Enforcement.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+In general.—In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or wherethe subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -430,7 +438,7 @@ Transfer From the National Foreign Intelligence Program.—Of the amounts author
 
 “(b)
 
-Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003\(Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
 “(c)
 

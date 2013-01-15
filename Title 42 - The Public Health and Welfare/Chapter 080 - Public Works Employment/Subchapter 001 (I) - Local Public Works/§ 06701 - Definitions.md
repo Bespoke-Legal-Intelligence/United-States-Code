@@ -22,13 +22,13 @@ Par. (4). Pub. L. 95–28, §102(b), added par. (4).
 
 Pub. L. 95–30, title VI, §601, May 23, 1977, 91 Stat. 164, provided that: “This title \[enacting section 6736 of this title, amending sections 6722 to 6724, 6727, and 6735 of this title, and repealing section 6726 of this title\] may be cited as the ‘Intergovernmental Antirecession Assistance Act of 1977’.”
 
-Section 101 of title I of Pub. L. 95–28 provided that: “This title \[amending sections 6701, 6705 to 6708, and 6710 of this title and enacting provisions set out as notes under sections 6701 and 6710 of this title\] may be cited as the ‘Public Works Employment Act of 1977’.”
+Pub. L. 95–28, title I, §101, May 13, 1977, 91 Stat. 116, provided that: “This title \[amending sections 6701, 6705 to 6708, and 6710 of this title and enacting provisions set out as notes under sections 6701 and 6710 of this title\] may be cited as the ‘Public Works Employment Act of 1977’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 94–369 provided: “That this Act \[enacting this chapter and provision set out as a note under section 1287 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Public Works Employment Act of 1976’.”
+Pub. L. 94–369, §1, July 22, 1976, 90 Stat. 999, provided: “That this Act \[enacting this chapter and provision set out as a note under section 1287 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Public Works Employment Act of 1976’.”
 
-Section 101 of title I of Pub. L. 94–369 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Local Public Works Capital Development and Investment Act of 1976’.”
+Pub. L. 94–369, title I, §101, July 22, 1976, 90 Stat. 999, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Local Public Works Capital Development and Investment Act of 1976’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -36,5 +36,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Public Works Investment Study; Preliminary Report; Final Report Within 18 Months After May 13, 1977
 
-Section 110 of Pub. L. 95–28 directed Secretary of Commerce to study public works investment in United States and implications for future of recent trends in such investment and submit a report with respect to its findings and recommendations no later than 18 months after May 13, 1977.
+Pub. L. 95–28, title I, §110, May 13, 1977, 91 Stat. 119, directed Secretary of Commerce to study public works investment in United States and implications for future of recent trends in such investment and submit a report with respect to its findings and recommendations no later than 18 months after May 13, 1977.
 

@@ -9,10 +9,13 @@
 | [7505\.](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md) | Review of information in National Driver Register. |
 | [7506\.](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md) | Convention tonnage for licenses, certificates, and documents. |
 | [7507\.](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md) | Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents. |
+| [7508\.](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md) | Authority to extend the duration of medical certificates. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–213, title III, §306(b), Dec. 20, 2012, 126 Stat. 1565, added item 7508.
 
 <b>2010</b>—Pub. L. 111–281, title VI, §615(b), Oct. 15, 2010, 124 Stat. 2972, added item 7507.
 
@@ -34,3 +37,4 @@
 - [&sect; 07505 - Review of information in National Driver Register](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md)
 - [&sect; 07506 - Convention tonnage for licenses, certificates, and documents](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md)
 - [&sect; 07507 - Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents](%C2%A7%2007507%20-%20Authority%20to%20extend%20the%20duration%20of%20licenses%2C%20certificates%20of%20registry%2C%20and%20merchant%20mariner%20documents.md)
+- [&sect; 07508 - Authority to extend the duration of medical certificates](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md)

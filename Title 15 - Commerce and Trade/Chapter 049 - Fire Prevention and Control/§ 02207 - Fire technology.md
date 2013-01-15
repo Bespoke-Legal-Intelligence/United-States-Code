@@ -90,7 +90,7 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 &emsp;&emsp;(iii) seek to minimize the impact of the requirement to meet or exceed the specific standard on the applicant, particularly if meeting the standard would impose additional costs.
 
-&emsp;(D) Applicants that apply for a grant under the terms of subparagraph (B) may include a second grant request in the application to be considered by the Administrator in the eventthat the Administrator does not approve the primary grant request on the grounds of the equipment not meeting applicable voluntary consensus standards.
+&emsp;(D) Applicants that apply for a grant under the terms of subparagraph (B) may include a second grant request in the application to be considered by the Administrator in the event that the Administrator does not approve the primary grant request on the grounds of the equipment not meeting applicable voluntary consensus standards.
 
 #### (g) Coordination
 

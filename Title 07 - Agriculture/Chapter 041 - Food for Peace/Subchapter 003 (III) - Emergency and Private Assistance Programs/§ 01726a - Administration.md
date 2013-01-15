@@ -106,7 +106,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available tothe Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
+&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
 
 #### (B) Limitations
 
@@ -116,7 +116,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (ii) Condition
 
-&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
+&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 ismade available under chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
 
 #### (g) Project reporting
 

@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, as amended, which was set out as a note under section 289<i>l</i>–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442.
+Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, as amended, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442.
 
 The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
 

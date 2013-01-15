@@ -6,9 +6,13 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(A) provide for a reduction in compensation when an air carrier does not provide service or transportation agreed to be provided;
 
-&emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid; and
+&emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid;
 
-&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
+&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided;
+
+&emsp;(D) include provisions under which the Secretary may encourage an air carrier to improve air service for which compensation is being paid under this subchapter by incorporating financial incentives in an essential air service contract based on specified performance goals, including goals related to improving on-time performance, reducing the number of flight cancellations, establishing reasonable fares (including joint fares beyond the hub airport), establishing convenient connections to flights providing service beyond hub airports, and increasing marketing efforts; and
+
+&emsp;(E) include provisions under which the Secretary may execute a long-term essential air service contract to encourage an air carrier to provide air service to an eligible place if it would be in the public interest to do so.
 
 (2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special, segregated element of the compensation provided to a carrier under this subchapter.
 
@@ -46,7 +50,7 @@ Readjustment if costs subsequently decline.—If an adjustment is made under par
 
 Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151; Pub. L. 108–176, title IV, §402(a), Dec. 12, 2003, 117 Stat. 2543.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151; Pub. L. 108–176, title IV, §402(a), Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–95, title IV, §427(a), Feb. 14, 2012, 126 Stat. 99.)
 
 Historical and Revision Notes
 
@@ -88,9 +92,19 @@ In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(1)(D), (E). Pub. L. 112–95 added subpars. (D) and (E).
+
 <b>2003</b>—Subsec. (e). Pub. L. 108–176 added subsec. (e).
 
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Dec. 12, 2003\].”
+
+#### Emergency Across-the-Board Adjustment to Compensation for Significantly Increased Costs
+
+Pub. L. 112–95, title IV, §426(a), Feb. 14, 2012, 126 Stat. 98, provided that: “Subject to the availability of funds, the Secretary may increase the rates of compensation payable to air carriers under subchapter II of chapter 417 of title 49, United States Code, to compensate such carriers for increased aviation fuel costs without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734 of such title.”
+
+#### Deadline for Issuance of Revised Guidance
+
+Pub. L. 112–95, title IV, §427(b), Feb. 14, 2012, 126 Stat. 99, provided that: “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall issue revised guidelines governing the rate of compensation payable under subchapter II of chapter 417 that incorporate the amendments made by this section \[amending this section\].”
 

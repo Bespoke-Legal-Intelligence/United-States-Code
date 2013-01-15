@@ -6,5 +6,5 @@ The Secretary of the Navy is authorized to furnish materials for the manufacture
 
 #### Delegation of Powers and Authority
 
-Section 39 of act Aug. 2, 1946, authorized Secretary of the Navy to delegate to such persons in Naval Establishment and to such extent as he may deem proper, with or without authority to make successive redelegations, authority conferred upon Secretary by this section, except authority to prescribe regulations. Such section 39 was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, less its applicability to this section and section 21a of this title.
+Act Aug. 2, 1946, ch. 756, §39, 60 Stat. 858, authorized Secretary of the Navy to delegate to such persons in Naval Establishment and to such extent as he may deem proper, with or without authority to make successive redelegations, authority conferred upon Secretary by this section, except authority to prescribe regulations. Such section 39 was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, less its applicability to this section and section 21a of this title.
 

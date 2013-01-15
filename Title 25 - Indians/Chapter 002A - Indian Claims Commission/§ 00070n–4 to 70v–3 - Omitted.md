@@ -12,7 +12,7 @@ Section 70n–6, Pub. L. 88–168, §6, Nov. 4, 1963, 77 Stat. 301, related to l
 
 Section 70n–7, Pub. L. 88–168, §7, Nov. 4, 1963, 77 Stat. 301, prohibited approval of contingent fee contracts for witness before Commission.
 
-Section 70<i>o</i>, act Aug. 13, 1946, ch. 959, §16, 60 Stat. 1053, forbade a member of Congress from practicing before Commission.
+Section 70o, act Aug. 13, 1946, ch. 959, §16, 60 Stat. 1053, forbade a member of Congress from practicing before Commission.
 
 Section 70p, act Aug. 13, 1946, ch. 959, §17, 60 Stat. 1053, related to hearings by Commission.
 

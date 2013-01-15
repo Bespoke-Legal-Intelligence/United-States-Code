@@ -56,11 +56,11 @@ Amendment by sections 202(a) and 204(a), (b) of Pub. L. 94–63 effective July 1
 
 #### Study as to Discrimination by Schools of Medicine, Nursing, or Osteopathy Against Applicants Because of Reluctance or Willingness To Participate in Abortions or Sterilizations; Report Not Later Than February 1, 1978
 
-Pub. L. 95–215, §7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Health, Education, and Welfare to conduct a study and report to specific committees of Congress not later than Feb. 1, 1978, as to whether schools of medicine, nursing, or osteopathy discriminate against applicants because of applicant's reluctance or unwillingness to participate in performance of abortions or sterilizations contrary to religious beliefs or moral convictions.
+Pub. L. 95–215, §7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Health, Education, and Welfare to conducta study and report to specific committees of Congress not later than Feb. 1, 1978, as to whether schools of medicine, nursing, or osteopathy discriminate against applicants because of applicant's reluctance or unwillingness to participate in performance of abortions or sterilizations contrary to religious beliefs or moral convictions.
 
 #### Congressional Declaration of Purpose
 
-Section 2 of Pub. L. 91–572 provided that: “It is the purpose of this Act \[see Short Title of 1970 Amendment note set out under section 201 of this title\]—
+Pub. L. 91–572, §2, Dec. 24, 1970, 84 Stat. 1504, provided that: “It is the purpose of this Act \[see Short Title of 1970 Amendment note set out under section 201 of this title\]—
 
 &emsp;“(1) to assist in making comprehensive voluntary family planning services readily available to all persons desiring such services;
 

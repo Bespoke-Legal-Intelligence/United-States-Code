@@ -36,11 +36,11 @@ Act Apr. 11, 1956, which enacted this chapter, is popularly known as the “Colo
 
 #### Purpose of 1968 Amendment
 
-Section 501(a) of Pub. L. 90–537 provided that the amendment of this section and section 620a of this title by such section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
+Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896, provided that the amendment of this section and section 620a of this title by section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
 
 #### Effect on Federal Water Law
 
-Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that: “Unless expressly provided in this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending this section, former section 615ss, and section 620<i>o</i> of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and section 407 of this title\], nothing in this subtitle modifies, conflicts with, preempts, or otherwise affects—
+Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that: “Unless expressly provided in this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and section 407 of this title\], nothing in this subtitle modifies, conflicts with, preempts, or otherwise affects—
 
 &emsp;“(1) the Boulder Canyon Project Act (43 U.S.C. 617 et seq.);
 
@@ -341,7 +341,7 @@ Termination.—On issuance of an order to terminate the Agreement and Contract u
 
 &emsp;&emsp;&emsp;“(iii) the authorizations for construction and rehabilitation of water projects under this subtitle shall be revoked and any Federal activity related to that construction and rehabilitation shall be suspended; and
 
-&emsp;&emsp;&emsp;“(iv) this part and parts I and III \[parts IV (§§10701–10704), I (§§10401–10403), and III (§§10601–10609) of subtitle B of title X of Pub. L. 111–11, enacting former section 615jj and section 620n–1 of this title, amending this section, former section 615ss, and section 620<i>o</i> of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section\] shall be null and void.
+&emsp;&emsp;&emsp;“(iv) this part and parts I and III \[parts IV (§§10701–10704), I (§§10401–10403), and III (§§10601–10609) of subtitle B of title X of Pub. L. 111–11, enacting former section 615jj and section 620n–1 of this title, amending this section, former section 615ss, and section 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section\] shall be null and void.
 
 &emsp;“(3)
 

@@ -8,7 +8,7 @@ The annual percentage rate applicable to any extension of consumer credit shall 
 
 &emsp;&emsp;(A) that nominal annual percentage rate which will yield a sum equal to the amount of the finance charge when it is applied to the unpaid balances of the amount financed, calculated according to the actuarial method of allocating payments made on a debt between the amount financed and the amount of the finance charge, pursuant to which a payment is applied first to the accumulated finance charge and the balance is applied to the unpaid amount financed; or
 
-&emsp;&emsp;(B) the rate determined by any method prescribed by the Bureau as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).
+&emsp;&emsp;(B) the rate determined by any method prescribed by the Bureau as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).<sup>1</sup>
 
 &emsp;(2) in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
 
@@ -47,4 +47,6 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -52,5 +52,5 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-A prior section 1440, Pub. L. 91–230, title VI, §640, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 116, related to the payor of last resort, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1440, Pub. L. 91–230, title VI, §640, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.116, related to the payor of last resort, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 

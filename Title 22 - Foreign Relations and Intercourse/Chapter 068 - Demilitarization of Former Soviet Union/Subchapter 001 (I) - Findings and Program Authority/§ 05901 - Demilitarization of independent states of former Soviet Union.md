@@ -20,7 +20,7 @@ The Congress finds that it is in the national security interest of the United St
 
 #### Short Title
 
-Section 1401 of title XIV of div. A of Pub. L. 102–484 provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the ‘Former Soviet Union Demilitarization Act of 1992’.”
+Pub. L. 102–484, div. A, title XIV, §1401, Oct. 23, 1992, 106 Stat. 2563, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the ‘Former Soviet Union Demilitarization Act of 1992’.”
 
 #### Policy on Reduction of Russian Nuclear Forces
 
@@ -28,7 +28,7 @@ Pub. L. 106–38, §3, July 22, 1999, 113 Stat. 205, provided that: “It is the
 
 #### Nuclear Weapons Reduction
 
-Section 1321 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title XIII, §1321, Oct. 23, 1992, 106 Stat. 2549, provided that:
 
 “(a)
 

@@ -118,13 +118,13 @@ Subsecs. (b) to (d). Pub. L. 92–419, §121(3), added subsecs. (b) to (d).
 
 #### Effective Date of 1996 Amendment
 
-Section 612(b) of Pub. L. 104–127 provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
+Pub. L. 104–127, title VI, §612(b), Apr. 4, 1996, 110 Stat. 1089, provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section (f)(1)(B) of Pub. L. 102–552 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
+Pub. L. 102–552, title V, §516(f)(1)(B), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
 
 #### Effective Date of 1977 Amendment
 
@@ -136,5 +136,5 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Construction of 1991 Amendment
 
-Section 516(f)(2) of Pub. L. 102–552 provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
+Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
 

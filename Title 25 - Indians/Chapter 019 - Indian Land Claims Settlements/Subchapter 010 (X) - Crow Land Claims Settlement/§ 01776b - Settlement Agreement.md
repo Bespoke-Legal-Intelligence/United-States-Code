@@ -24,7 +24,7 @@ The terms and conditions of the Settlement Agreement may be modified by mutual a
 
 #### (2) Additional enforcement
 
-&emsp;If, with respect to the enforcement of the Settlement Agreement, the remedies available under the provisions referred to in paragraph (1) do not provide adequate or complete relief, the Settlement Agreement shall be subject to the enforcement provisions under section 1505 of title 28.
+&emsp;If, with respect to the enforcement of the Settlement Agreement, the remedies availableunder the provisions referred to in paragraph (1) do not provide adequate or complete relief, the Settlement Agreement shall be subject to the enforcement provisions under section 1505 of title 28.
 
 (Pub. L. 103–444, §4, Nov. 2, 1994, 108 Stat. 4634.)
 

@@ -12,7 +12,7 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (2) The requirement of discharge or release, prescribed in subparagraph (A) or (B) of paragraph (1), shall be waived in the case of any individual who served more than 180 days in an active-duty status for so long as such individual continues on active duty without a break therein.
 
-(3) For purposes of paragraph (1)(A) and section 3461(a), the term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies).
+(3) For purposes of paragraph (1)(A) and section 3461(a), the term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the ArmyReserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies).
 
 (b) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also means any curriculum of unit courses or subjects pursued at an educational institution which fulfill requirements for the attainment of more than one predetermined and identified educational, professional, or vocational objective if all the objectives pursued are generally recognized as being reasonably related to a single career field. Such term also means any unit course or subject, or combination of courses or subjects, pursued by an eligible veteran at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under the provisions of section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1)). Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title. Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses. Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).
 
@@ -44,19 +44,21 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (g) The term “standard college degree” means an associate or higher degree awarded by (1) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (2) an institution of higher learning that is a “candidate” for accreditation as that term is used by the regional or national accrediting agencies; or (3) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
-(h) The term “qualified provider of entrepreneurship courses” means any of the following entities insofar as such entity offers, sponsors, or cosponsors an entrepreneurship course (as defined in section 3675(c)(2) of this title):
+(h) The term “qualified provider of entrepreneurship courses” means any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648), insofar as such center offers, sponsors, or cosponsors an entrepreneurship course, as that term is defined in section 3675(c)(2).
 
-&emsp;(1) Any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648).
-
-&emsp;(2) The National Veterans Business Development Corporation (established under section 33 of the Small Business Act (15 U.S.C. 657c)).
-
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 108–183, title III, §301(a), §305(c)–(e), Dec. 16, 2003, 117 Stat. 2658, 2660; Pub. L. 108–454, title I, §§106(a), 110(a), Dec. 10, 2004, 118 Stat. 3602, 3605; Pub. L. 109–163, div. A, title V, §515(e)(4), Jan. 6, 2006, 119 Stat. 3236.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 108–183, title III, §301(a), §305(c)–(e), Dec. 16, 2003, 117 Stat. 2658, 2660; Pub. L. 108–454, title I, §§106(a), 110(a), Dec. 10, 2004, 118 Stat. 3602, 3605; Pub. L. 109–163, div. A, title V, §515(e)(4), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 112–239, div. A, title XVI, §1699(c)(2), Jan. 2, 2013, 126 Stat. 2092.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) to (d) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, 1176, which was classified to former sections 1601(a)(2) and 1611(a)(1), and 1601(a)(3), (5), and (6) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (h). Pub. L. 112–239 substituted “any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648), insofar as such center offers, sponsors, or cosponsors an entrepreneurship course, as that term is defined in section 3675(c)(2).” for “any of the following entities insofar as such entity offers, sponsors, or cosponsors an entrepreneurship course (as defined in section 3675(c)(2) of this title):
+
+&emsp;“(1) Any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648).
+
+&emsp;“(2) The National Veterans Business Development Corporation (established under section 33 of the Small Business Act (15 U.S.C. 657c)).”
 
 <b>2006</b>—Subsec. (a)(3)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
@@ -102,7 +104,7 @@ Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775”.
 
 Subsec. (e). Pub. L. 96–466, §801(a)(2), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the”.
 
-Subsec. (f). Pub. L. 96–466, §§307(a), 801(a)(2), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the” and inserted provision including within “institution of higher learning” an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized as such by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
+Subsec. (f). Pub. L. 96–466, §§307(a), 801(a)(2), substituted “The” for “For the purposes of this chapterand chapter 36 of this title, the” and inserted provision including within “institution of higher learning” an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized as such by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
 Subsec. (g). Pub. L. 96–466, §801(a)(2), (3), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the” and “Secretary of Education” for “Commissioner of Education”.
 
@@ -144,13 +146,13 @@ Amendment by Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respe
 
 #### Effective Date of 1980 Amendment
 
-Section 802(c) of Pub. L. 96–466 provided that:
+Pub. L. 96–466, title VIII, §802(c), Oct. 17, 1980, 94 Stat. 2218, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by title III \[see Tables for classification\] shall become effective on October 1, 1980.
 
 “(2) Paragraph (2) of section 1691(a) \[probably means 1691(b), now 3491(b)\] of title 38, United States Code, as added by section 311(2), shall not apply to any person receiving educational assistance under chapter 34 of title 38, United States Code, on October 1, 1980, for the pursuit of a program of education, as defined in section 1652(b) \[now 3452(b)\] of such title, in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for pursuit of such program.”
 
-Section 802(h) of Pub. L. 96–466 provided that: “Section 801 \[see Tables for classification\] shall become effective on October 1, 1980.”
+Pub. L. 96–466, title VIII, §802(h), Oct. 17, 1980, 94 Stat. 2219, provided that: “Section 801 \[see Tables for classification\] shall become effective on October 1, 1980.”
 
 #### Effective Date of 1976 Amendment
 

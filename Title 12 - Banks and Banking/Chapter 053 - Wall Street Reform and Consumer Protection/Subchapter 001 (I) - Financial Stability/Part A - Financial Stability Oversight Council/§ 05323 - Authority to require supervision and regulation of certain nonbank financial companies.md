@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) the extent and nature of the United States related off-balance-sheet exposures of the company;
 
-&emsp;&emsp;(C) the extent and nature of the transactions and relationships of the company with other significant nonbank financial companies and significant bank holding companies;
+&emsp;&emsp;(C) the extent and nature of the transactions and relationships of the companywith other significant nonbank financial companies and significant bank holding companies;
 
 &emsp;&emsp;(D) the importance of the company as a source of credit for United States households, businesses, and State and local governments and as a source of liquidity for the United States financial system;
 
@@ -98,7 +98,7 @@
 
 &emsp;For purposes of this subsection, the term “financial activities”—
 
-&emsp;&emsp;(A) means activities that are financial in nature (as defined in section 1843(k) of this title; <sup>1</sup>
+&emsp;&emsp;(A) means activities that are financial in nature (as defined in section 1843(k) of this title);
 
 &emsp;&emsp;(B) includes the ownership or control of one or more insured depository institutions; and
 
@@ -106,7 +106,7 @@
 
 #### (6) Only financial activities subject to prudential supervision
 
-&emsp;Nonfinancial activities of the company shall not be subject to supervision by the Board of Governors and prudential standards of the Board. For purposes of this Act, the financial activities that are the subject of the determination in paragraph (1) shall be subject to the same requirements as a nonbank financial company supervised by the Board of Governors. Nothing in this paragraph shall prohibit or limit the authority of the Board of Governors to apply prudential standards under this subchapter to the financial activities that are subject to the determination in paragraph (1).
+&emsp;Nonfinancial activities of the company shall not be subject to supervision by the Board of Governors and prudential standards of the Board. For purposes of this Act, the financial activities that are the subject of the determination in paragraph (1) shall be subject to the same requirements as a nonbank financial company supervised by the Board of Governors. Nothing in this paragraph shall prohibit or limit the authority of the Board of Governors to apply prudential standards underthis subchapter to the financial activities that are subject to the determination in paragraph (1).
 
 #### (d) Reevaluation and rescission
 
@@ -175,6 +175,4 @@ In exercising its duties under this subchapter with respect to foreign nonbank f
 This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by a closing parenthesis.</i>
 

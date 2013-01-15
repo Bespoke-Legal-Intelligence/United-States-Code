@@ -44,7 +44,7 @@ In general.—Any person who violates, or attempts or conspires to violate, subs
 
 &emsp;(2)
 
-Other circumstances.—Any person who, in the course of a violation of subsection (a),uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
+Other circumstances.—Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
 
 &emsp;(3)
 

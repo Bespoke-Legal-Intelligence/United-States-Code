@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish a plan for activities to be undertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) of this section to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existing housing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
+The Secretary of Housing and Urban Development shall establish a plan for activities to beundertaken and policies to be adopted by the Secretary within the 5-year period beginning upon the submission of the plan to the Congress under subsection (d) of this section to provide for, encourage, and improve energy efficiency in newly constructed, rehabilitated, and existing housing. In developing the plan, the Secretary shall consider, as appropriate, any energy assessments under section 944.
 
 #### (b) Initial plan
 
@@ -28,11 +28,11 @@ Section was enacted as part of title IX of the Cranston-Gonzalez National Afford
 
 #### Energy Assessment Report
 
-Section 944 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to submit a report to Congress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
+Pub. L. 101–625, title IX, §944, Nov. 28, 1990, 104 Stat. 4415, directed Secretary of Housing and Urban Development to submit a report to Congress, not later than one year after Nov. 28, 1990, assessing any activity undertaken by the Secretary to increase energy efficiency in housing, such report to include an analysis of the Aug. 15, 1990, DOE-HUD program to expand energy efficiency and increase affordability of federally-assisted housing, and provided that in such report Secretary of Housing and Urban Development (in consultation with Secretary of Energy) was to establish, and include a description of, a standard measure by which changes over time in residential energy efficiency could be compared.
 
 #### Uniform Mortgage Financing Plan for Energy Efficiency
 
-Section 946 of Pub. L. 101–625, as amended by Pub. L. 102–486, title I, §105(b), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title IX, §914(b), Oct. 28, 1992, 106 Stat. 3877, provided that:
+Pub. L. 101–625, title IX, §946, Nov. 28, 1990, 104 Stat. 4416, as amended by Pub. L. 102–486, title I, §105(b), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title IX, §914(b), Oct. 28, 1992, 106 Stat. 3877, provided that:
 
 “(a)
 
@@ -40,9 +40,9 @@ Uniform Plan.—The Secretary of Housing and Urban Development, in consultation 
 
 “(b)
 
-Task Force.—To develop the plan, the Secretary shall form a task force to make recommendation\[s\] on financing energy efficiency in private mortgages, through the policies of Federal agencies and federally chartered financial institutions, mortgage bankers, homebuilders, real estate brokers, private mortgage insurers, energy suppliers, and nonprofit housing and energy organizations. The task force shall include, but not be limited to, individuals representing the Federal Housing Administration mortgage programs of the Department of Housing and Urban Development, the Farmers Home Administration mortgage loan and insurance programs of Department of Agriculture, the Federal Home Loan Mortgage Corporation, and the Federal National Mortgage Association. The Task Force shall determine whether notifying potentialhome purchasers of the availability of energy efficient mortgages would promote energy efficiency in residential buildings, and if so, the Task Force shall recommend appropriate notification guidelines, and agencies and organizations referred to in the preceding sentence are authorized to implement such guidelines.”
+Task Force.—To develop the plan, the Secretary shall form a task force to make recommendation\[s\] on financing energy efficiency in private mortgages, through the policies of Federal agencies and federally chartered financial institutions, mortgage bankers, homebuilders, real estate brokers, private mortgage insurers, energy suppliers, and nonprofit housing and energy organizations. The task force shall include, but not be limited to, individuals representing the Federal Housing Administration mortgage programs of the Department of Housing and Urban Development, the Farmers Home Administration mortgage loan and insurance programs of Department of Agriculture, the Federal Home Loan Mortgage Corporation, and the Federal National Mortgage Association. The Task Force shall determine whether notifying potential home purchasers of the availability of energy efficient mortgages would promote energy efficiency in residential buildings, and if so, the Task Force shall recommend appropriate notification guidelines, and agencies and organizations referred to in the preceding sentence are authorized to implement such guidelines.”
 
 #### Energy Efficiency Demonstration
 
-Section 961 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration.
+Pub. L. 101–625, title IX, §961, Nov. 28, 1990, 104 Stat. 4424, directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration.
 

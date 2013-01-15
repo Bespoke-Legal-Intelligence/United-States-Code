@@ -26,10 +26,13 @@
 | [12320\.](%C2%A7%2012320%20-%20Reserve%20officers%20grade%20in%20which%20ordered%20to%20active%20duty.md) | Reserve officers: grade in which ordered to active duty. |
 | [12321\.](%C2%A7%2012321%20-%20Reserve%20Officer%20Training%20Corps%20units%20limitation%20on%20number%20of%20Reserves%20assigned.md) | Reserve Officer Training Corps units: limitation on number of Reserves assigned. |
 | [12322\.](%C2%A7%2012322%20-%20Active%20duty%20for%20health%20care.md) | Active duty for health care. |
+| [12323\.](%C2%A7%2012323%20-%20Active%20duty%20pending%20line%20of%20duty%20determination%20required%20for%20response%20to%20sexual%20assault.md) | Active duty pending line of duty determination required for response to sexual assault. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §571(b), Jan. 2, 2013, 126 Stat. 1753, added item 12323.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §§515(a)(2), 516(a)(2), Dec. 31, 2011, 125 Stat. 1394, 1397, added items 12304a and 12304b.
 
@@ -68,3 +71,4 @@
 - [&sect; 12320 - Reserve officers grade in which ordered to active duty](%C2%A7%2012320%20-%20Reserve%20officers%20grade%20in%20which%20ordered%20to%20active%20duty.md)
 - [&sect; 12321 - Reserve Officer Training Corps units limitation on number of Reserves assigned](%C2%A7%2012321%20-%20Reserve%20Officer%20Training%20Corps%20units%20limitation%20on%20number%20of%20Reserves%20assigned.md)
 - [&sect; 12322 - Active duty for health care](%C2%A7%2012322%20-%20Active%20duty%20for%20health%20care.md)
+- [&sect; 12323 - Active duty pending line of duty determination required for response to sexual assault](%C2%A7%2012323%20-%20Active%20duty%20pending%20line%20of%20duty%20determination%20required%20for%20response%20to%20sexual%20assault.md)

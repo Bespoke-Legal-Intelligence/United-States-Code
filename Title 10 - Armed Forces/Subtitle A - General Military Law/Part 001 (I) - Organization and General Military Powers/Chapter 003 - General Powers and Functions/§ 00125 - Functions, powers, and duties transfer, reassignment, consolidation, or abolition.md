@@ -52,7 +52,7 @@ July 26, 1947, ch. 343, §202(c)(1), (2), (4), (5), (6); added Aug. 10, 1949, ch
 
 July 26, 1947, ch. 343, §308(a) (as applicable to §202(c)(1), (5), (6)), 61 Stat. 509.
 
-In subsection (a), the following substitutions are made: “Except as provided by subsections (b) and (c)” for “except as otherwise provided in this subsection”; “vested . . . by law” for “established by law to be performed by”; “recommending” for “stating”; “proposes” for “contemplates”; and “the period” for “the thirty-day period or the forty-day period”. The words “on the first day after” are inserted for clarity. The words “if carried out” are omitted as surplusage.
+In subsection (a), the following substitutions are made: “Except as provided by subsections (b) and (c)”for “except as otherwise provided in this subsection”; “vested . . . by law” for “established by law to be performed by”; “recommending” for “stating”; “proposes” for “contemplates”; and “the period” for “the thirty-day period or the forty-day period”. The words “on the first day after” are inserted for clarity. The words “if carried out” are omitted as surplusage.
 
 In subsection (b), the words “Notwithstanding subsection (a)” are substituted for the words “Notwithstanding other provisions of this subsection”; and “Unless the President determines otherwise” for “subject to the determination of the President”.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as
 
 #### Resolutions Relating to Transfers, Reassignments, Consolidations, or Abolitions of Combatant Functions
 
-Section 303 of Pub. L. 87–651 provided that:
+Pub. L. 87–651, title III, §303, Sept. 7, 1962, 76 Stat. 525, provided that:
 
 “(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) \[63 Stat. 203; 71 Stat. 611\], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[63 Stat. 207\].
 

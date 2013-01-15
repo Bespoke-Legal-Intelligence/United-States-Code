@@ -44,7 +44,7 @@ In this subtitle—
 
 &emsp;(11) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life, except marine mammals and birds.
 
-&emsp;(11a) “fishing vessel” means a vessel that commercially engages in the catching, taking, or harvesting of fish or an activity that can reasonably be expected to result in the catching, taking, or harvesting of fish.
+&emsp;(11a) “fishing vessel” means a vessel that commercially engages in the catching, taking,or harvesting of fish or an activity that can reasonably be expected to result in the catching, taking, or harvesting of fish.
 
 &emsp;(11b) “fish processing vessel” means a vessel that commercially prepares fish or fish products other than by gutting, decapitating, gilling, skinning, shucking, icing, freezing, or brine chilling.
 
@@ -216,7 +216,7 @@ In this subtitle—
 
 &emsp;&emsp;(C) principally equipped for propulsion by sail, even if the vessel has an auxiliary means of propulsion; and
 
-&emsp;&emsp;(D) owned or demise chartered, and operated by an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of that Code, or by a State or political subdivision of a State, during times that the vessel is operated by the organization, State, or political subdivision only for sailing instruction.
+&emsp;&emsp;(D) owned or demise chartered, and operated by an organization described in section501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of that Code, or by a State or political subdivision of a State, during times that the vessel is operated by the organization, State, or political subdivision only for sailing instruction.
 
 &emsp;(31) “scientific personnel” means individuals on board an oceanographic research vessel only to engage in scientific research, or to instruct or receive instruction in oceanography or limnology.
 
@@ -288,7 +288,7 @@ In this subtitle—
 
 &emsp;(48) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 111–281, title VI, §§617(a)(1)(A), 618, Oct. 15, 2010, 124 Stat. 2972, 2975; Pub. L. 111–330, §1(9), Dec. 22, 2010, 124 Stat. 3570.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9,1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(l), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 111–281, title VI, §§617(a)(1)(A), 618, Oct. 15, 2010, 124 Stat. 2972, 2975; Pub. L. 111–330, §1(9), Dec. 22, 2010, 124 Stat. 3570.)
 
 #### Historical and Revision Notes
 
@@ -373,7 +373,7 @@ Section 2101(13) defines a “freight vessel” as a motor vessel or any vessel 
 
 Section 2101(14) defines “hazardous materials” as a broad range of materials that are not only flammable or combustible but are also designated under related maritime safety and environmental laws.
 
-Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land and water areas that could be affected by pollution from all vessels and not only tank vessels.
+Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land andwater areas that could be affected by pollution from all vessels and not only tank vessels.
 
 Section 2101(16) defines “motor vessel” as a vessel propelled by machinery other than steam to make it clear that these vessels are not steam vessels.
 
@@ -447,7 +447,7 @@ Par. (6). Pub. L. 109–304, §15(2)(A), struck out par. (6) which read as follo
 
 Par. (8a). Pub. L. 109–304, §15(2)(B), inserted “Prevention” after “Abuse”.
 
-Pars. (10), (10a). Pub. L. 109–304, §15(2)(A), struck out pars. (10) and (10a) which defined “documented vessel” and “Exclusive Economic Zone”, respectively. See sections 106 and 107 of this title.
+Pars. (10), (10a). Pub. L. 109–304, §15(2)(A), struck out pars. (10) and (10a) which defined “documented vessel”and “Exclusive Economic Zone”, respectively. See sections 106 and 107 of this title.
 
 Par. (10b). Pub. L. 109–241, §301(a), added par. (10b).
 
@@ -481,7 +481,7 @@ Par. (48). Pub. L. 107–295, §419(b), added par. (48).
 
 <b>1996</b>—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
-Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
+Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
 
 Par. (19). Pub. L. 104–324, §709(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
 

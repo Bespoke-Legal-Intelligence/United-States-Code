@@ -126,7 +126,7 @@ As used in subsection (a) of this section:
 
 #### (5) Current support amount
 
-&emsp;The term “current support amount” means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring thesupport or calculated by the State based on the order.
+&emsp;The term “current support amount” means, with respect to amounts collected as support on behalf of a family, the amount designated as the monthly support obligation of the noncustodial parent in the order requiring the support or calculated by the State based on the order.
 
 #### (d) Gap payments not subject to distribution under this section
 
@@ -150,7 +150,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
 
-Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family, the State shall distribute the amount so collected to the family.”
+Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family,the State shall distribute the amount so collected to the family.”
 
 Subsec. (a)(6). Pub. L. 109–171, §7301(b)(1)(B)(iii), redesignated par. (7) as (6).
 
@@ -176,7 +176,7 @@ Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d
 
 &emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
 
-&emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of theamounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
+&emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
 
 > then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection).”
 
@@ -250,7 +250,7 @@ Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding p
 
 Amendment by section 7301(b)(1)(A), (2), (c) of Pub. L. 109–171 effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, see section 7301(e) of Pub. L. 109–171, set out as a note under section 608 of this title.
 
-Pub. L. 109–171, title VII, §7301(b)(1)(B)(ii), Feb. 8, 2006, 120 Stat. 143, provided that: “The amendmentmade by clause (i) \[amending this section\] shall take effect on October 1, 2008.”
+Pub. L. 109–171, title VII, §7301(b)(1)(B)(ii), Feb. 8, 2006, 120 Stat. 143, provided that: “The amendment made by clause (i) \[amending this section\] shall take effect on October 1, 2008.”
 
 Pub. L. 109–171, title VII, §7301(b)(1)(B)(iii), Feb. 8, 2006, 120 Stat. 143, provided that the amendment made by section 7301(b)(1)(B)(iii) is effective Oct. 1, 2009.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 #### Effective Date of 1996 Amendment
 
-Section 302(c) of Pub. L. 104–193 provided that:
+Pub. L. 104–193, title III, §302(c), Aug. 22, 1996, 110 Stat. 2204, provided that:
 
 “(1)
 
@@ -284,21 +284,21 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date of 1988 Amendment
 
-Section 102(c) of Pub. L. 100–485 provided that: “The amendments made by this section \[amending this section and section 602 of this title\] shall become effective on the first day of the first calendar quarter which begins after the date of the enactment of this Act \[Oct. 13, 1988\].”
+Pub. L. 100–485, title I, §102(c), Oct. 13, 1988, 102 Stat. 2346, provided that: “The amendments made by this section \[amending this section and section 602 of this title\] shall become effective on the first day of the first calendar quarter which begins after the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1883(b)(6) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1883(f) of Pub. L. 99–514, set out as a note under section 402 of this title.
 
-Section 1899(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1899(b), Oct. 22, 1986, 100 Stat. 2957, provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-#### Effective Date of 1984 Amendments
+#### Effective Date of 1984 Amendment
 
-Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
+Pub. L. 98–378, §7(b), Aug. 16, 1984, 98 Stat. 1315, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
 
 Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
-Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
+Pub. L. 98–369, div. B, title VI, §2646, July 18, 1984, 98 Stat. 1147, provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 
 #### Effective Date of 1981 Amendment
 

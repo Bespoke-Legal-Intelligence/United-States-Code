@@ -16,7 +16,7 @@ General Authority.—The Secretary of Transportation shall consolidate, operate,
 
 (b)
 
-Crediting Appropriations.—Money received from the direct sale or charge that theSecretary of Transportation or Commerce, as appropriate, decides is equivalent to the cost of facilities and services sold or provided under subsection (a)(3) and (4) of this section is credited to the appropriation from which the cost was paid. The balance shall be deposited in the Treasury as miscellaneous receipts.
+Crediting Appropriations.—Money received from the direct sale or charge that the Secretary of Transportation or Commerce, as appropriate, decides is equivalent to the cost of facilities and services sold or provided under subsection (a)(3) and (4) of this section is credited to the appropriation from which the cost was paid. The balance shall be deposited in the Treasury as miscellaneous receipts.
 
 (c)
 
@@ -26,7 +26,7 @@ Using Other Government Facilities and Services.—To carry out this chapter and 
 
 Advertising Not Required.—Section 6101(b) to (d) of title 41 does not apply to a lease or contract made by the Secretary of Transportation or Commerce under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1282; Pub. L. 111–350, §5(<i>o</i>)(9), Jan. 4, 2011, 124 Stat. 3854.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1282; Pub. L. 111–350, §5(o)(9), Jan. 4, 2011, 124 Stat. 3854.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ In subsection (a), before clause (1), the words “do and perform, by contract o
 
 In subsection (b), the words “including handling charges” are omitted as surplus. The words “facilities and services sold or provided” are substituted for “of the fuel, oil, equipment, food, supplies, services, shelter, or other assistance or services sold or furnished” for consistency and to eliminate unnecessary words. The words “under subsection (a)(3) and (4) of this section” are added for clarity. The words “if any” are omitted as surplus. The words “deposited in the Treasury as” are substituted for “credited to” for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c), the words “use personnel and facilities of the United States Government most advantageously and without unnecessary duplication” are substituted for “to the end that personnel and facilities of existing United States Government agencies shall be utilized to the fullest possible advantage and not be unnecessarily duplicated” to eliminate unnecessary words. The word “request” is substituted for “arrange for” for clarity. The words “department, agency, or instrumentality of the Government” are substituted for “other United States Government agencies” for consistency in the revised title and with other titles of the Code. The words “on a reimbursable basis” are substituted for “and to reimburse any such agency for such service out of funds appropriated to the Department of Transportation or the Department of Commerce, as the case may be” to eliminate unnecessary words.
+In subsection (c), the words “use personnel and facilities of the United States Government most advantageously and without unnecessary duplication” are substituted for “to the end that personnel and facilities of existing United States Government agencies shall be utilized to the fullest possible advantage and not be unnecessarily duplicated” to eliminate unnecessary words. The word “request” is substituted for “arrange for” for clarity. The words “department, agency, or instrumentality of the Government” are substituted for “other United States Government agencies” for consistency in the revised title and with other titles of the Code. The words “on a reimbursable basis” are substituted for “and to reimburse any such agency forsuch service out of funds appropriated to the Department of Transportation or the Department of Commerce, as the case may be” to eliminate unnecessary words.
 
 #### Amendments
 

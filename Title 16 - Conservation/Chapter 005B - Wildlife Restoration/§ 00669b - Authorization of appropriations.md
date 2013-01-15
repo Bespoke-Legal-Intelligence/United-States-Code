@@ -34,7 +34,7 @@
 
 Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
 
-(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23,1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034.)
+(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034.)
 
 #### References in Text
 
@@ -58,11 +58,11 @@ Subsecs. (c), (d). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(2)\], added
 
 #### Effective Date of 1989 Amendment
 
-Section 7(a)(3) of Pub. L. 101–233 provided that: “The amendments made by this subsection of this Act \[amending this section and section 669c of this title\] take effect October 1, 1989.”
+Pub. L. 101–233, §7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: “The amendments made by this subsection of this Act \[amending this section and section 669c of this title\] take effect October 1, 1989.”
 
 #### Effective Date of 1972 Amendment
 
-Section 101(c) of Pub. L. 92–558, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 669c of this title\] shall take effect January 1, 1975.”
+Pub. L. 92–558, title I, §101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 669c of this title\] of this section shall take effect January 1, 1975.”
 
 #### Transfer of Functions
 

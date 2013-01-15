@@ -42,7 +42,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;(A) such determination shall be treated, for purposes of applying this subchapter beyond the territory of the State, as a determination made in accordance with section 1373 of this title and as an applicable waiver under section 1371(a)(3) of this title;
 
-&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocationsspecified under such an agreement, the taking of the species—
+&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
@@ -54,7 +54,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 The State process required under subsection (b)(1)(C) of this section must comply with the following standards:
 
-&emsp;(1) The State agency with management authority for the species (hereinafter in this section referred to as the “State agency”) must make an initial determination regarding the factors described in clause (i) of that subsection. The State agency must identify, and make available to the public under reasonable circumstances, the documentation supporting such initial determination. Unless request for a hearing under paragraph (2) regarding the initial determination is timely made, the initial determination shall be treated as final under State law.
+&emsp;(1) The State agency with management authority for the species (hereinafter in this section referred to as the “State agency”) must make an initial determination regarding the factors described in clause (i) of that subsection. The State agency must identify, and make available to the public under reasonable circumstances, the documentation supporting such initial determination. Unless request for a hearing under paragraph (2) regarding theinitial determination is timely made, the initial determination shall be treated as final under State law.
 
 &emsp;(2) The State agency shall provide opportunity, at the request of any interested party, for a hearing with respect to the initial determination made by it under paragraph (1) at which interested parties may—
 
@@ -70,9 +70,9 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 #### (d) Cooperative allocation agreements
 
-(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
+(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>1</sup> of this title.
 
-(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>1</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 #### (e) Revocation of transfer of management authority
 
@@ -80,7 +80,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
-&emsp;(i) the Secretary provides to the State a written notice of intent to revoke togetherwith a statement, in detail, of those actions, or failures to act, on which such intent is based; and
+&emsp;(i) the Secretary provides to the State a written notice of intent to revoke together with a statement, in detail, of those actions, or failures to act, on which such intent is based; and
 
 &emsp;(ii) during the ninety-day period after the date of the notice of intent to revoke—
 
@@ -160,13 +160,13 @@ The Secretary may make grants to States to assist them—
 
 The Secretary is authorized and directed to enter into cooperative arrangements with the appropriate officials of any State for the delegation to such State of the administration and enforcement of this subchapter: <i>Provided</i>, That any such arrangement shall contain such provisions as the Secretary deems appropriate to insure that the purposes and policies of this chapter will be carried out.
 
-#### (<i>l</i>) Authorization of appropriations
+#### (l) Authorization of appropriations
 
 (1) There are authorized to be appropriated to the Department of the Interior, for the purposes of carrying out this section, not to exceed $400,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
 (2) There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-(Pub. L. 92–522, title I, §109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, §1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, §5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, §3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
+(Pub. L. 92–522, title I, §109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, §1, July 10, 1978, 92 Stat. 380;Pub. L. 97–58, §4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, §5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, §3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
 
 #### References in Text
 
@@ -202,11 +202,11 @@ Subsec. (h). Pub. L. 100–711, §5(a), amended subsec. (h) generally. Prior to 
 
 Subsec. (b). Pub. L. 97–58, §4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
 
-Subsecs. (c), (d). Pub. L. 97–58, §4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (<i>l</i>), respectively.
+Subsecs. (c), (d). Pub. L. 97–58, §4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (l), respectively.
 
 Subsecs. (e) to (j). Pub. L. 97–58, §4(a)(2), added subsecs. (e) to (j).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) and (d) as (k) and (<i>l</i>), respectively.
+Subsecs. (k), (l). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) and (d) as (k) and (l), respectively.
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
@@ -216,9 +216,7 @@ Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provid
 
 #### Cooperative Agreements Under Endangered Species Act
 
-Section 4(b) of Pub. L. 97–58 provided that: “Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 (16 U.S.C. 1535(c)) before, on, or after the date of the enactment of this Act \[Oct. 9, 1981\].”
+Pub. L. 97–58, §4(b), Oct. 9, 1981, 95 Stat. 986, provided that: “Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 (16 U.S.C. 1535(c)) before, on, or after the date of the enactment of this Act \[Oct. 9, 1981\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

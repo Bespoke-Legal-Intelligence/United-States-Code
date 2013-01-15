@@ -58,23 +58,23 @@ Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and rede
 
 #### Effective Date of 1978 Amendment
 
-Section 2 of Pub. L. 95–365 provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\].”
+Pub. L. 95–365, §2, Sept. 15, 1978, 92 Stat. 599, provided that: “The amendments made by the first section of this Act \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 15, 1978\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 408(c) of Pub. L. 95–30 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 23, 1977\].”
+Pub. L. 95–30, title IV, §408(c), May 23, 1977, 91 Stat. 157, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 23, 1977\].”
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–358 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[July 12, 1976\].”
+Pub. L. 94–358, §2, July 12, 1976, 90 Stat. 910, provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[July 12, 1976\].”
 
 #### Effective Date
 
-Section 3 of Pub. L. 93–340 provided that: “This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
+Pub. L. 93–340, §3, July 10, 1974, 88 Stat. 295, provided that: “This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
 
 #### Executive Order No. 11833
 
-Ex. Ord. No. 11833, Jan. 13, 1975, 40 F.R. 2673, which related to the withholding of city income or employmenttaxes by Federal agencies, was revoked by Ex. Ord. No. 11863, June 12, 1975, 40 F.R. 25413, formerly set out below.
+Ex. Ord. No. 11833, Jan. 13, 1975, 40 F.R. 2673, which related to the withholding of city income or employment taxes by Federal agencies, was revoked by Ex. Ord. No. 11863, June 12, 1975, 40 F.R. 25413, formerly set out below.
 
 #### Executive Order No. 11863
 

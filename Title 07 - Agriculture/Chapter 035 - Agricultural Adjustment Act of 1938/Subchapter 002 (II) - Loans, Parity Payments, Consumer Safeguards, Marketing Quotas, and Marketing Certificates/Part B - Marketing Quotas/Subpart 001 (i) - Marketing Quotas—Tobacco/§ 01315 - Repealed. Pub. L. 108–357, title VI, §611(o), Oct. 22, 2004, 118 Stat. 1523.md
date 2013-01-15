@@ -1,4 +1,4 @@
-### §1315. Repealed. Pub. L. 108–357, title VI, §611(<i>o</i>), Oct. 22, 2004, 118 Stat. 1523
+### §1315. Repealed. Pub. L. 108–357, title VI, §611(o), Oct. 22, 2004, 118 Stat. 1523
 
 Section, acts July 12, 1952, ch. 709, 66 Stat. 597; Mar. 31, 1955, ch. 21, §2, 69 Stat. 24, related to additional Burley tobacco acreage allotments.
 

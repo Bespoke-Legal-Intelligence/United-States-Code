@@ -22,7 +22,7 @@
 
 #### (2) Transition
 
-&emsp;Following the declaration of an emergency or major disaster, an agency performing response, relief, and reconstruction activities shall transition work performed under contracts in effect on the date on which the President declares the emergency or major disaster to organizations, firms, and individuals residing or doing business primarily in any area affected by the major disaster or emergency, unless the head of such agency determines that it is not feasible or practicable to do so.
+&emsp;Following the declaration of an emergency or major disaster, an agency performing response, relief, and reconstruction activities shall transition work performed under contracts in effect on the date on which the President declares the emergency or major disasterto organizations, firms, and individuals residing or doing business primarily in any area affected by the major disaster or emergency, unless the head of such agency determines that it is not feasible or practicable to do so.
 
 #### (3) Formulation of requirements
 

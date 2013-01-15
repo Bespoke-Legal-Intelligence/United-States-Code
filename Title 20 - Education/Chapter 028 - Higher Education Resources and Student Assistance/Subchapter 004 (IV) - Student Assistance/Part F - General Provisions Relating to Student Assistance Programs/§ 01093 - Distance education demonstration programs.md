@@ -24,7 +24,7 @@ It is the purpose of this section—
 
 #### (2) Waivers
 
-&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087<i>ll</i>(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(<i>l</i>)(1) of this title, or one or more of the regulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
+&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087ll(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(l)(1) of this title, or one or more of the regulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
 
 #### (3) Eligible applicants
 
@@ -70,7 +70,7 @@ It is the purpose of this section—
 
 #### (1) In general
 
-&emsp;For the first year of the demonstration program authorized under this section, the Secretary is authorized to select for participationin the program not more than 15 institutions, systems of institutions, or consortia of institutions. For the third year of the demonstration program authorized under this section, the Secretary may select not more than 35 institutions, systems, or consortia, in addition to the institutions, systems, or consortia selected pursuant to the preceding sentence, to participate in the demonstration program if the Secretary determines that such expansion is warranted based on the evaluations conducted in accordance with subsections (f) and (g) of this section.
+&emsp;For the first year of the demonstration program authorized under this section, the Secretary is authorized to select for participation in the program not more than 15 institutions, systems of institutions, or consortia of institutions. For the third year of the demonstration program authorized under this section, the Secretary may select not more than 35 institutions, systems, or consortia, in addition to the institutions, systems, or consortia selected pursuant to the preceding sentence, to participate in the demonstration program if the Secretary determines that such expansion is warranted based on the evaluations conducted in accordance with subsections (f) and (g) of this section.
 
 #### (2) Considerations
 
@@ -120,7 +120,7 @@ The Secretary shall make available to the public and to the authorizing committe
 
 &emsp;&emsp;(A) the demonstration programs authorized under this section; and
 
-&emsp;&emsp;(B) the number and types of students receiving assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for instruction leading to a recognized certificate, as provided for in section 1091(<i>l</i>)(1) of this title, including the progress of such students toward recognized certificates and the degree to which participation in such programs leading to such certificates increased.
+&emsp;&emsp;(B) the number and types of students receiving assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for instruction leading to a recognized certificate, as provided for in section 1091(l)(1) of this title, including the progress of such students toward recognized certificates and the degree to which participation in such programs leading to such certificates increased.
 
 #### (g) Oversight
 
@@ -154,7 +154,7 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and theCommittee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (f)(3). Pub. L. 110–315, §491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 

@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph\(1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
 
 #### (3) Management measures
 
@@ -108,7 +108,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Review
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental ProtectionAgency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
 
 #### (2) Recommendation
 
@@ -174,7 +174,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Administrator
 
-&emsp;There is authorized to be appropriated to the Administrator for use for carrying out this section not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
+&emsp;There is authorized to be appropriated to the Administrator for use for carrying out thissection not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
 
 #### (2) Secretary
 

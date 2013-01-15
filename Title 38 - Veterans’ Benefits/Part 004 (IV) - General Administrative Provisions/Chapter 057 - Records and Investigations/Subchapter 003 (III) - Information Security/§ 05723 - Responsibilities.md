@@ -36,7 +36,7 @@ Assistant Secretary for Information and Technology.—The Assistant Secretary fo
 
 &emsp;(2) Issuing policies and handbooks to provide direction for implementing the elements of the information security program to all Department organizations.
 
-&emsp;(3) Approving all policies and procedures that are related to information security forthose areas of responsibility that are currently under the management and the oversight of other Department organizations.
+&emsp;(3) Approving all policies and procedures that are related to information security for those areas of responsibility that are currently under the management and the oversight of other Department organizations.
 
 &emsp;(4) Ordering and enforcing Department-wide compliance with and execution of any information security policy.
 
@@ -74,7 +74,7 @@ Department Information Owners.—In accordance with the criteria of the Centrali
 
 &emsp;(1) Providing assistance to the Assistant Secretary for Information and Technology regarding the security requirements and appropriate level of security controls for the information system or systems where sensitive personal information is currently created, collected, processed, disseminated, or subject to disposal.
 
-&emsp;(2) Determining who has access to the system or systems containing sensitive personal information, including types of privileges and access rights.
+&emsp;(2) Determining who has access to the system or systems containing sensitive personalinformation, including types of privileges and access rights.
 
 &emsp;(3) Ensuring the VA National Rules of Behavior is signed on an annual basis and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions.
 
@@ -92,7 +92,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;(3) Providing a plan of action and milestones to the Assistant Secretary for Information and Technology on at least a quarterly basis detailing the status of actions being taken to correct any security compliance failure or policy violation.
 
-&emsp;(4) Complying with the provisions of subchapter III of chapter 35 of title 44 and other related information security laws and requirements in accordance with orders of the Assistant Secretary for Information and Technology to execute the appropriate security controls commensurate to responding to a security bulletin of the Security Operations Center of the Department, with such orders to supersede andtake priority over all operational tasks and assignments and be complied with immediately.
+&emsp;(4) Complying with the provisions of subchapter III of chapter 35 of title 44 and other related information security laws and requirements in accordance with orders of the Assistant Secretary for Information and Technology to execute the appropriate security controls commensurate to responding to a security bulletin of the Security Operations Center of the Department, with such orders to supersede and take priority over all operational tasks and assignments and be complied with immediately.
 
 &emsp;(5) Ensuring that—
 

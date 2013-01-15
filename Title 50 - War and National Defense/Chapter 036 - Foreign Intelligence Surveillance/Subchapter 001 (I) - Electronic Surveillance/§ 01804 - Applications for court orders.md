@@ -78,7 +78,7 @@ Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7
 
 Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
 
-Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, insubsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
 

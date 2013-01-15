@@ -40,7 +40,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking intoaccount the weighted average of the annual limits applicable to such categories.
+&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
 
 #### (3) Financial requirements and treatment limitations
 
@@ -94,7 +94,7 @@ Nothing in this section shall be construed—
 
 #### (B) Small employer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer and rules similar to rules of subparagraphs (B) and (C) of section 4980D(d)(2) shall apply.
+&emsp;&emsp;For purposes of subparagraph (A), the term “small employer” means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer and rules similar to rules of subparagraphs (B) and (C) of section 4980D(d)(2) shall apply.
 
 #### (2) Cost exemption
 

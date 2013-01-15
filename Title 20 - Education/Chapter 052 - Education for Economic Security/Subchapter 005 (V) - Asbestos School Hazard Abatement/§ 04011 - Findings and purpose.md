@@ -8,9 +8,9 @@ The Congress finds that—
 
 &emsp;(2) medical evidence has suggested that children may be particularly vulnerable to environmentally induced cancers;
 
-&emsp;(3) medical science has not established any minimum level of exposure to asbestos fibers which is considered to be safe to individuals exposed to the fibers;
+&emsp;(3) medical science has not established any minimum level of exposure to asbestos fiberswhich is considered to be safe to individuals exposed to the fibers;
 
-&emsp;(4) substantial amounts of asbestos, particularly in sprayed form, have been used in schoolbuildings, especially during the period 1946 through 1972;
+&emsp;(4) substantial amounts of asbestos, particularly in sprayed form, have been used in school buildings, especially during the period 1946 through 1972;
 
 &emsp;(5) partial surveys in some States have indicated that (A) in a number of school buildings materials containing asbestos fibers have become damaged or friable, causing asbestos fibers to be dislodged into the air, and (B) asbestos concentration far exceeding normal ambient air levels have been found in school buildings containing such damaged materials;
 
@@ -46,15 +46,15 @@ Subsecs. (a), (b). Pub. L. 101–637, §14(b)(1), (2), inserted headings.
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–637 provided that: “This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
+Pub. L. 101–637, §1, Nov. 28, 1990, 104 Stat. 4589, provided that: “This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
 
 #### Short Title
 
-Section 501 of title V of Pub. L. 98–377, as amended by Pub. L. 101–637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
+SPub. L. 98–377, title V, §501, Aug. 11, 1984, 98 Stat. 1287, as amended by Pub. L. 101–637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 101–637 provided that:
+Pub. L. 101–637, §2, Nov. 28, 1990, 104 Stat. 4589, provided that:
 
 “(a)
 

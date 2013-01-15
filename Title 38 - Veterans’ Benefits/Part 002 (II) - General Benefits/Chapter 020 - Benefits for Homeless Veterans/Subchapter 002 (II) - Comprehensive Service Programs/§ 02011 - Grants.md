@@ -18,7 +18,7 @@ Criteria for Grants.—The Secretary shall establish criteria and requirements f
 
 &emsp;(1) Specification as to the kinds of projects for which grants are available, which shall include—
 
-&emsp;&emsp;(A) expansion, remodeling, or alteration of existing buildings, or acquisition of facilities, for use as service centers, transitional housing, or other facilities to serve homeless veterans; and
+&emsp;&emsp;(A) new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities, for use as service centers, transitional housing, or other facilities to serve homeless veterans; and
 
 &emsp;&emsp;(B) procurement of vans for use in outreach to and transportation for homeless veterans for purposes of a program referred to in subsection (a).
 
@@ -42,7 +42,25 @@ Criteria for Grants.—The Secretary shall establish criteria and requirements f
 
 (c)
 
-Funding Limitations.—A grant under this section may not be used to support operationalcosts. The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
+Funding Limitations.—(1) A grant under this section may not be used to support operational costs.
+
+(2) The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
+
+(3)(A) The Secretary may not deny an application from an entity that seeks a grant under this section to carry out a project described in subsection (b)(1)(A) solely on the basis that the entity proposes to use funding from other private or public sources, if the entity demonstrates that a private nonprofit organization will provide oversight and site control for the project.
+
+(B) In this paragraph, the term “private nonprofit organization” means the following:
+
+&emsp;(i) An incorporated private institution, organization, or foundation—
+
+&emsp;&emsp;(I) that has received, or has temporary clearance to receive, tax-exempt status under paragraph (2), (3), or (19) of section 501(c) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;(II) for which no part of the net earnings of the institution, organization, or foundation inures to the benefit of any member, founder, or contributor of the institution, organization, or foundation; and
+
+&emsp;&emsp;(III) that the Secretary determines is financially responsible.
+
+&emsp;(ii) A for-profit limited partnership or limited liability company, the sole general partner or manager of which is an organization that is described by subclauses (I) through (III) of clause (i).
+
+&emsp;(iii) A corporation wholly owned and controlled by an organization that is described by subclauses (I) through (III) of clause (i).
 
 (d)
 
@@ -88,7 +106,7 @@ Service Center Requirements.—In addition to criteria and requirements establis
 
 &emsp;(2) That space at such center be made available, as mutually agreeable, for use by staff of the Department of Veterans Affairs, the Department of Labor, and other appropriate agencies and organizations in assisting homeless veterans served by such center.
 
-&emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
+&emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling,meals, transportation assistance, and such other services as the Secretary determines necessary.
 
 &emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
@@ -100,7 +118,11 @@ Recovery of Unused Grant Funds.—(1) If a grant recipient under this section do
 
 (3) An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, §703(a), title X, §§1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, §703(a), title X, §§1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–154, title III, §301(a), Aug. 6, 2012, 126 Stat. 1182.)
+
+#### References in Text
+
+Section 501(c) of the Internal Revenue Code of 1986, referred to in subsec. (c)(3)(B)(i)(I), is classified to section 501(c) of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
@@ -110,15 +132,47 @@ Another prior section 2011 was renumbered section 4102 of this title.
 
 #### Amendments
 
+<b>2012</b>—Subsec. (b)(1)(A). Pub. L. 112–154, §301(a)(1), substituted “new construction of facilities, expansion, remodeling, or alteration of existing facilities, or acquisition of facilities,” for “expansion, remodeling, or alteration of existing buildings, or acquisition of facilities,”.
+
+Subsec. (c). Pub. L. 112–154, §301(a)(2), designated first sentence as par. (1) and second sentence as par. (2) and added par. (3).
+
 <b>2006</b>—Subsec. (a). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(4), which directed insertion of a period at end of subpar. (C) of par. (1), was executed to par. (3) to reflect the probable intent of Congress and the redesignation of par. (1)(C) as (3) by Pub. L. 109–461, §703(a). See below.
 
-Pub. L. 109–461, §703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) offormer par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
+Pub. L. 109–461, §703(a), struck out par. (1) designation before “Subject”, redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively, and struck out former par. (2), which read as follows: “The authority of the Secretary to make grants under this section expires on September 30, 2005.”
 
 Pub. L. 109–444, §8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (a)(2). Pub. L. 109–444, §2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+#### Grant and Per Diem Payments
+
+Pub. L. 112–154, title III, §301(b), Aug. 6, 2012, 126 Stat. 1183, provided that:
+
+“(1)
+
+Study and development of fiscal controls and payment method.—Not later than one year after the date of the enactment of this Act \[Aug. 6, 2012\], the Secretary of Veterans Affairs shall—
+
+&emsp;“(A) complete a study of all matters relating to the method used by the Secretary to make per diem payments under section 2012(a) of title 38, United States Code, including changes anticipated by the Secretary in the cost of furnishing services to homeless veterans and accounting for costs of providing such services in various geographic areas;
+
+&emsp;“(B) develop more effective and efficient procedures for fiscal control and fund accounting by recipients of grants under sections 2011, 2012, and 2061 of such title; and
+
+&emsp;“(C) develop a more effective and efficient method for adequately reimbursing recipients of grants under section 2011 of such title for services furnished to homeless veterans.
+
+“(2)
+
+Consideration.—In developing the method required by paragraph (1)(C), the Secretary may consider payments and grants received by recipients of grants described in such paragraph from other departments and agencies of Federal and local governments and from private entities.
+
+“(3)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to Congress a report on—
+
+&emsp;“(A) the findings of the Secretary with respect to the study required by subparagraph (A) of paragraph (1);
+
+&emsp;“(B) the methods developed under subparagraphs (B) and (C) of such paragraph; and
+
+&emsp;“(C) any recommendations of the Secretary for revising the method described in subparagraph (A) of such paragraph and any legislative action the Secretary considers necessary to implement such method.”
 
 #### Continuation of Authority
 

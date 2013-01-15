@@ -1,32 +1,22 @@
 ### §141. Appeal to Court of Appeals for the Federal Circuit
 
-An applicant dissatisfied with the decision in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal the applicant waives his or her right to proceed under section 145 of this title. A patent owner, or a third-party requester in an inter partes reexamination proceeding, who is in any reexamination proceeding dissatisfied with the final decision in an appeal to the Board of Patent Appeals and Interferences under section 134 may appeal the decision only to the United States Court of Appeals for the Federal Circuit. A party to an interference dissatisfied with the decision of the Board of Patent Appeals and Interferences on the interference may appeal the decision to the United States Court of Appeals for the Federal Circuit, but such appeal shall be dismissed if any adverse party to such interference, within twenty days after the appellant has filed notice of appeal in accordance with section 142 of this title, files notice with the Director that the party elects to have all further proceedings conducted as provided in section 146 of this title. If the appellant does not, within thirty days after the filing of such notice by the adverse party, file a civil action under section 146, the decision appealed from shall govern the further proceedings in the case.
+(a)
+
+Examinations.—An applicant who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.
+
+(b)
+
+Reexaminations.—A patent owner who is dissatisfied with the final decision in an appeal of a reexamination to the Patent Trial and Appeal Board under section 134(b) may appeal the Board's decision only to the United States Court of Appeals for the Federal Circuit.
+
+(c)
+
+Post-Grant and Inter Partes Reviews.—A party to an inter partes review or a post-grant review who is dissatisfied with the final written decision of the Patent Trial and Appeal Board under section 318(a) or 328(a) (as the case may be) may appeal the Board's decision only to the United States Court of Appeals for the Federal Circuit.
+
+(d)
+
+Derivation Proceedings.—A party to a derivation proceeding who is dissatisfied with the final decision of the Patent Trial and Appeal Board in the proceeding may appeal the decision to the United States Court of Appeals for the Federal Circuit, but such appeal shall be dismissed if any adverse party to such derivation proceeding, within 20 days after the appellant has filed notice of appeal in accordance with section 142, files notice with the Director that the party elects to have all further proceedings conducted as provided in section 146. If the appellant does not, within 30 days after the filing of such notice by the adverse party, file a civil action under section 146, the Board's decision shall govern the further proceedings in the case.
 
 (July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 97–164, title I, §163(a)(7), (b)(2), Apr. 2, 1982, 96 Stat. 49, 50; Pub. L. 98–622, title II, §203(a), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(c), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §§13106(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1901, 1906; Pub. L. 112–29, §7(c)(1), Sept. 16, 2011, 125 Stat. 314.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–29, §7(c)(1), (e), Sept. 16, 2011, 125 Stat. 314, 315, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, this section is amended to read as follows:</i>
-
-#### §141. Appeal to Court of Appeals for the Federal Circuit
-
-<i>(a)</i>
-
-<i>Examinations.—An applicant who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.</i>
-
-<i>(b)</i>
-
-<i>Reexaminations.—A patent owner who is dissatisfied with the final decision in an appeal of a reexamination to the Patent Trial and Appeal Board under section 134(b) may appeal the Board's decision only to the United States Court of Appeals for the Federal Circuit.</i>
-
-<i>(c)</i>
-
-<i>Post-Grant and Inter Partes Reviews.—A party to an inter partes review or a post-grant review who is dissatisfied with the final written decision of the Patent Trial and Appeal Board under section 318(a) or 328(a) (as the case may be) may appeal the Board's decision only to the United States Court of Appeals for the Federal Circuit.</i>
-
-<i>(d)</i>
-
-<i>Derivation Proceedings.—A party to a derivation proceeding who is dissatisfied with the final de</i><i>cision of the Patent Trial and Appeal Board in the proceeding may appeal the decision to the United States Court of Appeals for the Federal Circuit, but such appeal shall be dismissed if any adverse party to such derivation proceeding, within 20 days after the appellant has filed notice of appeal in accordance with section 142, files notice with the Director that the party elects to have all further proceedings conducted as provided in section 146. If the appellant does not, within 30 days after the filing of such notice by the adverse party, file a civil action under section 146, the Board's decision shall govern the further proceedings in the case.</i>
-
-<i>See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 

@@ -6,7 +6,7 @@ The Secretary shall carry out, and expand upon, a national media campaign to edu
 
 #### (b) Contract with entity
 
-The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
+The Secretary may carry out subsection (a) by entering into contracts with one or more publicor private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
 
 &emsp;(1) the development and distribution of poison prevention and poison control center awareness materials;
 

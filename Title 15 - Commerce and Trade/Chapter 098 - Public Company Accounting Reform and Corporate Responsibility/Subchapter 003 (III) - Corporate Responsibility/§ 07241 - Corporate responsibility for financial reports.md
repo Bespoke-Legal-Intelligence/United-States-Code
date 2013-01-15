@@ -2,7 +2,7 @@
 
 #### (a) Regulations required
 
-The Commission shall, by rule, require, for each company filing periodic reports under section 78m(a) or 78<i>o</i>(d) of this title, that the principal executive officer or officers and the principal financial officer or officers, or persons performing similar functions, certify in each annual or quarterly report filed or submitted under either such section of this title that—
+The Commission shall, by rule, require, for each company filing periodic reports under section 78m(a) or 78o(d) of this title, that the principal executive officer or officers and the principal financial officer or officers, or persons performing similar functions, certify in each annual or quarterly report filed or submitted under either such section of this title that—
 
 &emsp;(1) the signing officer has reviewed the report;
 
@@ -14,7 +14,7 @@ The Commission shall, by rule, require, for each company filing periodic reports
 
 &emsp;&emsp;(A) are responsible for establishing and maintaining internal controls;
 
-&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by others within those entities, particularly during the period in which the periodic reports are being prepared;
+&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by otherswithin those entities, particularly during the period in which the periodic reports are being prepared;
 
 &emsp;&emsp;(C) have evaluated the effectiveness of the issuer's internal controls as of a date within 90 days prior to the report; and
 

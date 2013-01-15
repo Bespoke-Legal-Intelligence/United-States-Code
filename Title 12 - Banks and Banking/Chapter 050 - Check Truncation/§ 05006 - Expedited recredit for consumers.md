@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) the lesser of the amount of the substitute check that was charged against the consumer account, or $2,500, together with interest if the account is an interest-bearing account, no later than the end of such 10th business day; and
 
-&emsp;&emsp;&emsp;(ii) the remaining amount of the substitute check that was charged against the consumer account, if any, together with interest if the account is an interest-bearing account, not later than the 45th calendar day following the business day on which the consumer submits the claim.
+&emsp;&emsp;&emsp;(ii) the remaining amount of the substitute check that was charged against theconsumer account, if any, together with interest if the account is an interest-bearing account, not later than the 45th calendar day following the business day on which the consumer submits the claim.
 
 #### (d) Availability of recredit
 
@@ -144,7 +144,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (2) Notice of recredit
 
-&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send to the consumer, no later than the business dayfollowing the business day on which the bank makes the recredit, a notice of—
+&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send to the consumer, no later than the business day following the business day on which the bank makes the recredit, a notice of—
 
 &emsp;&emsp;(A) the amount of the recredit; and
 

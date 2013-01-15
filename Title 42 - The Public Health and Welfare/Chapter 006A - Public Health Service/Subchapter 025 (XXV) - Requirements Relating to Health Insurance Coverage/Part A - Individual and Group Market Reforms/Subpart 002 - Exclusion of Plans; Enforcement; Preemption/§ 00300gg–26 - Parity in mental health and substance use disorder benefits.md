@@ -14,9 +14,9 @@
 
 &emsp;&emsp;If the plan or coverage includes an aggregate lifetime limit on substantially all medical and surgical benefits (in this paragraph referred to as the “applicable lifetime limit”), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and tomental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
 
-&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance usedisorder benefits that is less than the applicable lifetime limit.
+&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance use disorder benefits that is less than the applicable lifetime limit.
 
 #### (C) Rule in case of different limits
 
@@ -70,11 +70,11 @@
 
 #### (4) Availability of plan information
 
-&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
+&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, bemade available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits andmental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
 
 #### (b) Construction
 
@@ -196,7 +196,7 @@ Subsec. (b)(2). Pub. L. 110–343, §512(b)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(1). Pub. L. 110–343, §512(b)(3)(A), inserted “(as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual)” before period at end.
 
-Subsec. (c)(2). Pub. L. 110–343, §512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to suchcoverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
+Subsec. (c)(2). Pub. L. 110–343, §512(b)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.”
 
 Subsec. (e)(3). Pub. L. 110–343, §512(b)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
@@ -246,7 +246,7 @@ Special rule for collective bargaining agreements.—In the case of a group heal
 
 #### Effective Date
 
-Section 703(b) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Pub. L. 104–204, title VII, §703(b), Sept. 26, 1996, 110 Stat. 2950, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
 #### Regulations
 

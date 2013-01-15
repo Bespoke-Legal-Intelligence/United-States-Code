@@ -16,7 +16,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 &emsp;&emsp;(B) Federal claims in California managed by the Bureau of Reclamation that the Secretary determines are not needed for any Bureau of Reclamation project; and
 
-&emsp;&emsp;(C) any public lands in California that the Secretary, pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], has determined to be suitable for disposal through exchange.
+&emsp;&emsp;(C) any public lands in California that the Secretary, pursuant to the Federal LandPolicy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], has determined to be suitable for disposal through exchange.
 
 &emsp;(3) Any other Federal land, or interest therein, within the State of California, which is or becomes surplus to the needs of the Federal Government. The Secretary may exclude, in the Secretary's discretion, lands located within, or contiguous to, the exterior boundaries of lands held in trust for a federally recognized Indian tribe located in the State of California.
 

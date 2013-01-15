@@ -16,7 +16,7 @@ Provisions covering the termination date for agreements to finance sales under s
 
 <b>1996</b>—Pub. L. 104–127 substituted “2002” for “1995”.
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment of food production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment offood production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–83 inserted reference to subchapter III in two places.
 

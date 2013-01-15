@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term “action team” means a rural natural resources and economic diversification action team established by the Secretary pursuant to section 6613(b) of this title.
 
-&emsp;(2) The term “economically disadvantaged” means economic hardship due to the loss ofjobs or income (labor or proprietor) derived from forestry, the wood products industry, or related commercial enterprises such as recreation and tourism in the national forest.
+&emsp;(2) The term “economically disadvantaged” means economic hardship due to the loss of jobs or income (labor or proprietor) derived from forestry, the wood products industry, or related commercial enterprises such as recreation and tourism in the national forest.
 
 &emsp;(3) The term “rural community” means—
 

@@ -138,7 +138,7 @@ In addition to amounts appropriated to carry out this section, the Secretary and
 
 &emsp;The TIP Advisory Board shall transmit an annual report to the Secretary for transmittal to the Congress not later than 30 days after the submission to Congress of the President's annual budget request in each year. Such report shall address the status of the Technology Innovation Program and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.
 
-#### (<i>l</i>) Definitions
+#### (l) Definitions
 
 In this section—
 
@@ -214,7 +214,7 @@ Pub. L. 110–69, title III, §3012(c), Aug. 9, 2007, 121 Stat. 598, provided th
 
 #### National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology
 
-Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Governmentand required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
+Pub. L. 100–418, title V, §5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

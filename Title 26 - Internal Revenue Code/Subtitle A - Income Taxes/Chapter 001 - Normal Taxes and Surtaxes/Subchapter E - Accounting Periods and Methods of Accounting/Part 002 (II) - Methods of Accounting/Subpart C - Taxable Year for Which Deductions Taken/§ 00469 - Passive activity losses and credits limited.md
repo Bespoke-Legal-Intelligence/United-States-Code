@@ -458,7 +458,7 @@ For purposes of this section—
 
 &emsp;If any interest in a passive activity is distributed by an estate or trust—
 
-&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increased by the amount of any passive activity losses allocable to such interest, and
+&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increasedby the amount of any passive activity losses allocable to such interest, and
 
 &emsp;&emsp;(B) such losses shall not be allowable as a deduction for any taxable year.
 
@@ -484,7 +484,7 @@ For purposes of this section—
 
 &emsp;For purposes of this section, a regulated investment company (as defined in section 851) holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
 
-#### (<i>l</i>) Regulations
+#### (l) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out provisions of this section, including regulations—
 
@@ -549,10 +549,6 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
@@ -571,7 +567,7 @@ Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
 “(iv) fourth to the portion of such loss to which subparagraph (C) applies, and”.
 
-<b>2001</b>—Subsec. (i)(3)(F)(iii). Pub. L. 107–16, §§431(c)(3), 901, temporarily substituted “, 221, and 222” for “and 221”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (i)(3)(F)(iii). Pub. L. 107–16 substituted “, 221, and 222” for “and 221”.
 
 <b>2000</b>—Subsec. (i)(3)(C) to (F). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(1), (2)\], added subpar. (C), redesignated former subpars. (C) to (E) as (D) to (F), respectively, and generally amended heading and text of subpar. (E), as redesignated. Prior to amendment, text read as follows: “If subparagraph (B) or (C) applies for any taxable year, paragraph (1) shall be applied—
 
@@ -611,9 +607,9 @@ Subsec. (c)(7). Pub. L. 103–66, §13143(a), added par. (7).
 
 Subsec. (i)(3)(E)(iv). Pub. L. 103–66, §13143(b)(2), inserted “or any loss allowable by reason of subsection (c)(7)” after “loss”.
 
-<b>1990</b>—Subsec. (i)(3)(B), (6)(B)(ii). Pub. L. 101–508, §11813(b)(16)(A), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(<i>o</i>))”.
+<b>1990</b>—Subsec. (i)(3)(B), (6)(B)(ii). Pub. L. 101–508, §11813(b)(16)(A), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(o))”.
 
-Subsec. (k)(1). Pub. L. 101–508, §11813(b)(16)(B), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(<i>o</i>))”.
+Subsec. (k)(1). Pub. L. 101–508, §11813(b)(16)(B), substituted “rehabilitation credit determined under section 47” for “rehabilitation investment credit (within the meaning of section 48(o))”.
 
 Subsec. (m)(3)(A). Pub. L. 101–508, §11704(a)(6), substituted “pre-enactment” for “preenactment”.
 
@@ -687,7 +683,7 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 > For purposes of this subparagraph, the deduction equivalent (within the meaning of subsection (j)(5)) of a passive activity credit shall be taken into account.”
 
-<b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+<b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
 #### Effective Date of 2004 Amendment
 
@@ -699,27 +695,25 @@ Pub. L. 108–357, title III, §331(h), Oct. 22, 2004, 118 Stat. 1477, provided 
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
-
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 104–188, title XVII, §1704(d)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
-Section 1704(e)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 104–188, title XVII, §1704(e)(2), Aug. 20, 1996, 110 Stat. 1879, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Section 13143(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13143(c), Aug. 10, 1993, 107 Stat. 441, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
 #### Effective Date of 1990 Amendment
 
@@ -727,7 +721,7 @@ Amendment by section 11813(b)(16) of Pub. L. 101–508 applicable to property pl
 
 #### Effective Date of 1989 Amendment
 
-Section 7109(b) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7109(b), Dec. 19, 1989, 103 Stat. 2322, provided that:
 
 “(1)
 
@@ -743,7 +737,7 @@ Amendment by section 1005(a)(1)–(9), (11), (12) of Pub. L. 100–647 effective
 
 Amendment by section 2004(g) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
+Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989,see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -751,7 +745,7 @@ Amendment by Pub. L. 100–203 effective as if included in the amendments made b
 
 #### Effective Date
 
-Section 501(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1005(a)(10), title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
+Pub. L. 99–514, title V, §501(c), Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 100–647, title I, §1005(a)(10), title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
 
 “(1)
 
@@ -767,7 +761,7 @@ Special rule for carryovers.—The amendments made by this section shall not app
 
 Income from sales of passive activities in taxable years beginning before january 1, 1987.—If—
 
-&emsp;“(A) gain is recognized in a taxable year beginning after December 31, 1986, from a sale or exchange of aninterest in an activity in a taxable year beginning before January 1, 1987, and
+&emsp;“(A) gain is recognized in a taxable year beginning after December 31, 1986, from a sale or exchange of an interest in an activity in a taxable year beginning before January 1, 1987, and
 
 &emsp;“(B) such gain would have been treated as gain from a passive activity had section 469 of the Internal Revenue Code of 1986 (as added by this section) been in effect for the taxable year in which the sale or exchange occurred and for all succeeding taxable years,
 
@@ -779,7 +773,7 @@ For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101�
 
 #### Amounts Attributable to Activities Subject to Limitations Under Section 469 Treated as Deduction Allocable to Such Activity
 
-Section 1005(c)(11) of Pub. L. 100–647 provided that: “If—
+Pub. L. 100–647, title I, §1005(c)(11), Nov. 10, 1988, 102 Stat. 3392, provided that: “If—
 
 &emsp;“(A) any amount was disallowed as a deduction under section 163(d) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\]),
 
@@ -791,7 +785,7 @@ Section 1005(c)(11) of Pub. L. 100–647 provided that: “If—
 
 #### Transitional Rule for Low-Income Housing
 
-Section 502 of Pub. L. 99–514, as amended by Pub. L. 99–509, title VIII, §8073(a), Oct. 21, 1986, 100 Stat. 1965; Pub. L. 100–647, title I, §1005(b), Nov. 10, 1988, 102 Stat. 3389, provided that:
+Pub. L. 99–514, title V, §502, Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 99–509, title VIII, §8073(a), Oct. 21, 1986, 100 Stat. 1965; Pub. L. 100–647, title I, §1005(b), Nov. 10, 1988, 102 Stat. 3389, provided that:
 
 “(a)
 
@@ -847,7 +841,7 @@ Special rule for certain partnerships.—In the case of any property which is he
 
 &emsp;&emsp;“(A) which placed such property in service on or after December 31, 1985, and before August 17, 1986, and continuously held such property through the close of the taxable year for which the determination is being made, and
 
-&emsp;&emsp;“(B) which was not treated as a new partnership or as terminated at any time on or after the date on which such property was placed in service and through the close of the taxable year for which the determination is being made,
+&emsp;&emsp;“(B) which was not treated as a new partnership or as terminated at any time on or after the dateon which such property was placed in service and through the close of the taxable year for which the determination is being made,
 
 > &emsp;paragraph (1)(A)(i) shall be applied by substituting ‘December 31, 1988’ for ‘August 16, 1986’ the 2nd place it appears.
 
@@ -877,5 +871,5 @@ Only cash and other property taken into account.—In determining the amount any
 
 Coordination with credit.—No low-income housing credit shall be determined under section 42 of the Internal Revenue Code of 1986 with respect to any project with respect to which any person has been allowed any benefit under this section.”
 
-\[Section 8073(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[amending section 502 of Pub. L. 99–514, set out above\] shall take effect as if included in section 502 of the Tax Reform Act of 1986 on the date of its enactment \[Oct. 22, 1986\].”\]
+\[Pub. L. 99–509, title VIII, §8073(b), Oct. 21, 1986, 100 Stat. 1965, provided that: “The amendment made by subsection (a) \[amending section 502 of Pub. L. 99–514, set out above\] shall take effect as if included in section 502 of the Tax Reform Act of 1986 on the date of its enactment \[Oct. 22, 1986\].”\]
 

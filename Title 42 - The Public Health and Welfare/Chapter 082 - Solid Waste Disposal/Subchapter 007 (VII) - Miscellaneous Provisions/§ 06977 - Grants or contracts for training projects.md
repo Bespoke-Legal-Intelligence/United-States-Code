@@ -18,7 +18,7 @@ The Administrator is authorized to make grants to, and contracts with any eligib
 
 #### References in Text
 
-Section 3254a(b)(4) and (5) of this title, referred to in subsec. (b)(2), was in the original “section 207(b)(4) and (5)”, meaning section 207(b)(4) and (5) of the Solid Waste Disposal Act, which was omitted in the general revision of the Solid Waste Disposal Act by Pub. L. 94–580 on Oct. 21, 1976.
+Section 3254a(b)(4) and (5) of this title, referred to in subsec. (b)(2), was in the original “section 207(b)(4) and\(5)”, meaning section 207(b)(4) and (5) of the Solid Waste Disposal Act, which was omitted in the general revision of the Solid Waste Disposal Act by Pub. L. 94–580 on Oct. 21, 1976.
 
 #### Prior Provisions
 

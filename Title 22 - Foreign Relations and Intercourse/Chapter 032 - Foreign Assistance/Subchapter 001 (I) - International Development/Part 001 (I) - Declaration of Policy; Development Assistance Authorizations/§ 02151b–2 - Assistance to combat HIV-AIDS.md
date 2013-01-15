@@ -24,7 +24,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 &emsp;&emsp;&emsp;(iv) provide at least 80 percent of the target population with access to counseling, testing, and treatment to prevent the transmission of HIV from mother-to-child;
 
-&emsp;&emsp;&emsp;(v) provide care and treatment services to children with HIV in proportion to theirpercentage within the HIV-infected population of a given partner country; and
+&emsp;&emsp;&emsp;(v) provide care and treatment services to children with HIV in proportion to their percentage within the HIV-infected population of a given partner country; and
 
 &emsp;&emsp;&emsp;(vi) train and support retention of health care professionals, paraprofessionals, and community health workers in HIV/AIDS prevention, treatment, and care, with the target of providing such training to at least 140,000 new health care professionals and paraprofessionals with an emphasis on training and in country deployment of critically needed doctors and nurses;
 
@@ -40,7 +40,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Priorities
 
-&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assume leadership of sustainable campaigns to combat their local epidemics should place high priority on—
+&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assumeleadership of sustainable campaigns to combat their local epidemics should place high priority on—
 
 &emsp;&emsp;(A) the prevention of the transmission of HIV;
 
@@ -242,7 +242,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(ii) promote provider-initiated or “opt-out” HIV/AIDS counseling and testing and appropriate referral for treatment and care to individuals with tuberculosis or its symptoms, particularly in areas with significant HIV prevalence; and
 
-&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receive tuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
+&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receivetuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
 
 &emsp;&emsp;(G) activities to—
 
@@ -486,7 +486,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;&emsp;(III) conclusions regarding the efficiency, effectiveness, and quality of services as derived from previous or ongoing research and monitoring efforts;
 
-&emsp;&emsp;&emsp;(xii) building capacity to identify, investigate, and stop nosocomial transmission of infectious diseases, including HIV and tuberculosis; and
+&emsp;&emsp;&emsp;(xii) building capacity to identify, investigate, and stop nosocomial transmissionof infectious diseases, including HIV and tuberculosis; and
 
 &emsp;&emsp;&emsp;(xiii) a description of staffing levels of United States government <sup>7</sup> HIV/AIDS teams in countries with significant HIV/AIDS programs, including whether or not a full-time coordinator was on staff for the year.
 
@@ -564,7 +564,7 @@ Subsecs. (g), (h). Pub. L. 110–293, §301(d)(1), redesignated subsecs. (f) and
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

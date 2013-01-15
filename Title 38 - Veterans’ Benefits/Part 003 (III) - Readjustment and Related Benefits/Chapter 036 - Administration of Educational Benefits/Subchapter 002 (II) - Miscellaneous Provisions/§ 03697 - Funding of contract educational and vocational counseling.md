@@ -26,5 +26,5 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 #### Effective Date of 1994 Amendment
 
-Section 609(b) of Pub. L. 103–446 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994.”
+Pub. L. 103–446, title VI, §609(b), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994.”
 

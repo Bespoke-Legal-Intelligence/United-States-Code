@@ -46,9 +46,9 @@ In this section:
 
 &emsp;&emsp;(E) An assessment of the impact or likely impact of the implementation of the data mining activity on the privacy and civil liberties of individuals, including a thorough description of the actions that are being taken or will be taken with regard to the property, privacy, or other rights or privileges of any individual or individuals as a result of the implementation of the data mining activity.
 
-&emsp;&emsp;(F) A list and analysis of the laws and regulations that govern the information being or to be collected, reviewed, gathered, analyzed, or used in conjunction with the data mining activity, to the extent applicable in the context of the data mining activity.
+&emsp;&emsp;(F) A list and analysis of the laws and regulations that govern the information beingor to be collected, reviewed, gathered, analyzed, or used in conjunction with the data mining activity, to the extent applicable in the context of the data mining activity.
 
-&emsp;&emsp;(G) A thorough discussion of the policies, procedures, and guidelines that are in place or that are to be developed and applied inthe use of such data mining activity in order to—
+&emsp;&emsp;(G) A thorough discussion of the policies, procedures, and guidelines that are in place or that are to be developed and applied in the use of such data mining activity in order to—
 
 &emsp;&emsp;&emsp;(i) protect the privacy and due process rights of individuals, such as redress procedures; and
 

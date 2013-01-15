@@ -22,7 +22,7 @@ Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 #### Effective Date
 
-Section 302 of Pub. L. 96–22 provided that:
+Pub. L. 96–22, title III, §302, June 13, 1979, 93 Stat. 62, provided that:
 
 “(a) Except as provided in subsection (b) of this section, the amendments made by section 301 \[enacting this subchapter, redesignating sections 5011 to 5014 of this title as sections 5021 to 5024 \[now 8121 to 8124\], respectively, and amending section 5022 \[now 8122\] of this title as so redesignated\] shall take effect on October 1, 1979.
 

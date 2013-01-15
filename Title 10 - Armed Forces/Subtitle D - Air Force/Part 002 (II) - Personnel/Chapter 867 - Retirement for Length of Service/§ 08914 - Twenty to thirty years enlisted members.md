@@ -1,6 +1,6 @@
 ### §8914. Twenty to thirty years: enlisted members
 
-Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member ofthe Air Force who has at least 20, but less than 30, years of service computed under section 8925 of this title may, upon his request, be retired.
+Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member of the Air Force who has at least 20, but less than 30, years of service computed under section 8925 of this title may, upon his request, be retired.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 550; Pub. L. 96–343, §9(b)(1), Sept. 8, 1980, 94 Stat. 1128; Pub. L. 103–337, div. A, title V, §515(b), Oct. 5, 1994, 108 Stat. 2753.)
 

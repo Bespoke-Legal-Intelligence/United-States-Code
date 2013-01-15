@@ -2,7 +2,7 @@
 
 #### (a) District of Columbia nonprofit-corporative powers
 
-The Institute may exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act consistent with this chapter, except for section 5(<i>o</i>) of the District of Columbia Nonprofit Corporation Act.
+The Institute may exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act consistent with this chapter, except for section 5(o) of the District of Columbia Nonprofit Corporation Act.
 
 #### (b) Description of specific activities
 
@@ -94,7 +94,7 @@ The Institute may charge and collect fees and other participation costs from per
 
 The Institute may sue and be sued, complain, and defend in any court of competent jurisdiction.
 
-#### (<i>l</i>) Corporate mark of recognition and colorable simulations
+#### (l) Corporate mark of recognition and colorable simulations
 
 The Institute may adopt, alter, use, and display a corporate seal, emblem, badge, and other mark of recognition and colorable simulations thereof.
 
@@ -106,9 +106,9 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 
-#### (<i>o</i>) Administrative services from General Services Administration
+#### (o) Administrative services from General Services Administration
 
-The Institute may obtain administrative support services from the Administrator of GeneralServices and use all sources of supply and services of the General Services Administration on a reimbursable basis.
+The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
 
 (Pub. L. 98–525, title XVII, §1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, §25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, §6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, §319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, §1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, §931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, §921(a), Aug. 14, 2008, 122 Stat. 3456.)
 
@@ -122,7 +122,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–244, §931(1)(A), inserted “personal service and other” after “may enter into”.
 
-Subsec. (<i>o</i>). Pub. L. 105–244, §931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
+Subsec. (o). Pub. L. 105–244, §931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
 
 <b>1992</b>—Subsec. (b)(10). Pub. L. 102–325, §1554(b), added par. (10).
 
@@ -140,7 +140,7 @@ Subsec. (h)(3). Pub. L. 102–325, §1554(c)(2), substituted at end “individua
 
 <b>1990</b>—Subsec. (b)(9), (10). Pub. L. 101–520, §319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
 
-Subsecs. (c) to (<i>o</i>). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
+Subsecs. (c) to (o). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 made technical amendment to directory language of Pub. L. 100–50, see 1987 Amendment note below.
 

@@ -78,7 +78,7 @@ The Secretary, in cooperation with Indian tribes and tribally designated housing
 
 #### (1) Aggregate fiscal year limitation
 
-&emsp;Notwithstanding any other provision of law, subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, and to the extent approved or provided for in appropriationsActs, the Secretary may enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount not to exceed $200,000,000 for each of fiscal years 2009 through 2013.
+&emsp;Notwithstanding any other provision of law, subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, and to the extent approved or provided for in appropriations Acts, the Secretary may enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount not to exceed $200,000,000 for each of fiscal years 2009 through 2013.
 
 #### (2) Authorization of appropriations for credit subsidy
 

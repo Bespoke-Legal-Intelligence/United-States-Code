@@ -48,7 +48,7 @@ Section 2251 of title 19, referred to in subsec. (d), was amended generally by P
 
 #### Review of Status of Domestic Uranium Mining and Milling Industry; Availability to Congressional Committees; Scope of Review
 
-Section 23(a) of Pub. L. 97–415 provided that:
+Pub. L. 97–415, §23(a), Jan. 4, 1983, 96 Stat. 2080, provided that:
 
 “(a)(1) Not later than 12 months after the date of enactment of this section \[Jan. 4, 1983\], the President shall prepare and submit to the Congress a comprehensive review of the status of the domestic uranium mining and milling industry. This review shall be made available to the appropriate committees of the United States Senate and the House of Representatives.
 

@@ -60,7 +60,7 @@ In subsection (b), the words “any other member” are substituted for the word
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1980 Amendment
 
@@ -76,7 +76,7 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Additional Service Creditable to Certain Regulars
 
-Section 39 of act Aug. 10, 1956, provided that: “In addition to service with which he may be credited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
+Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: “In addition to service with which he may becredited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
 
 &emsp;“(1) a cadet at the United States Military Academy, if appointed before August 24, 1912;
 

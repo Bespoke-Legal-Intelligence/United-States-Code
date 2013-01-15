@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and section 2808 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
+Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and section 2808 of thistitle, referred to in subsec. (a)(2), were repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
 #### Codification
 

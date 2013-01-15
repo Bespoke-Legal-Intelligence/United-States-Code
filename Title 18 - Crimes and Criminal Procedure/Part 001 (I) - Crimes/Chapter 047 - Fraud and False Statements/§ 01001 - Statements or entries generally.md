@@ -58,7 +58,7 @@ Pub. L. 108–21, title VI, §607(a), Apr. 30, 2003, 117 Stat. 689, provided tha
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act \[amending section 1028 of thistitle, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title\] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
+Pub. L. 106–578, §1, Dec. 28, 2000, 114 Stat. 3075, provided that: “This Act \[amending section 1028 of this title, repealing section 1738 of this title, and enacting provisions set out as notes under section 1028 of this title\] may be cited as the ‘Internet False Identification Prevention Act of 2000’.”
 
 #### Short Title of 1998 Amendments
 
@@ -68,11 +68,11 @@ Pub. L. 105–172, §1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act 
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–292 provided that: “This Act \[amending this section, sections 1515 and 6005 of this title, and section 1365 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘False Statements Accountability Act of 1996’.”
+Pub. L. 104–292, §1, Oct. 11, 1996, 110 Stat. 3459, provided that: “This Act \[amending this section, sections 1515 and 6005 of this title, and section 1365 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘False Statements Accountability Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
-Section 290001(a) of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section \[amending section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
+Pub. L. 103–322, title XXIX, §290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section \[amending section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -98,5 +98,5 @@ Pub. L. 98–473, title II, §2101, Oct. 12, 1984, 98 Stat. 2190, provided that:
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–398 provided: “That this Act \[enacting sections 1028 and 1738 of this title and amending section 3001 of Title 39, Postal Service\] may be cited as the ‘False Identification Crime Control Act of 1982’.”
+Pub. L. 97–398, §1, Dec. 31, 1982, 96 Stat. 2009, provided: “That this Act \[enacting sections 1028 and 1738 of this title and amending section 3001 of Title 39, Postal Service\] may be cited as the ‘False Identification Crime Control Act of 1982’.”
 

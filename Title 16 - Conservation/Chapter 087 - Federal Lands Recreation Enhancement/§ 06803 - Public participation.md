@@ -32,7 +32,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (C) Exception
 
-&emsp;&emsp;The Secretary shall not establish a Recreation Resource Advisory Committee in a State if the Secretary determines, in consultation with the Governor of the State, that sufficient interest does not exist to ensure that participation on the Committee is balanced in terms of the points of view represented and the functions to be performed.
+&emsp;&emsp;The Secretary shall not establish a Recreation Resource Advisory Committee in aState if the Secretary determines, in consultation with the Governor of the State, that sufficient interest does not exist to ensure that participation on the Committee is balanced in terms of the points of view represented and the functions to be performed.
 
 #### (D) Use of other entities
 

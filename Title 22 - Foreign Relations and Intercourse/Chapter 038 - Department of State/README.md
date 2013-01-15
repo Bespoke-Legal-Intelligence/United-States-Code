@@ -54,8 +54,8 @@
 | [2679a.](%C2%A7%2002679a%20-%20Procurement%20contracts.md) | Procurement contracts. |
 | [2679b.](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Prohibition against fraudulent use of “Made in America” labels. |
 | [2679c.](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md) | Prohibition on discriminatory contracts. |
-| [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20Congressional%20committees.md) | Appropriations for State Department; information to Congressional committees. |
-| 2680–1. | Deadline for responses to questions from Congressional committees. |
+| [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md) | Appropriations for State Department; information to congressional committees. |
+| 2680–1. | Deadline for responses to questions from congressional committees. |
 | 2680–2. | Facilitating access to Department of State. |
 | [2680a.](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md) | Compensation for disability or death. |
 | [2681\.](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md) | International broadcasting facilities; transfer to Department of State; acquisition of property. |
@@ -183,8 +183,8 @@
 - [&sect; 02679a - Procurement contracts](%C2%A7%2002679a%20-%20Procurement%20contracts.md)
 - [&sect; 02679b - Prohibition against fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
 - [&sect; 02679c - Prohibition on discriminatory contracts](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md)
-- [&sect; 02680 - Appropriations for State Department; information to Congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20Congressional%20committees.md)
-- [&sect; 02680&#8211;1 - Deadline for responses to questions from Congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20Congressional%20committees.md)
+- [&sect; 02680 - Appropriations for State Department; information to congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md)
+- [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
 - [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
 - [&sect; 02680a - Compensation for disability or death](%C2%A7%2002680a%20-%20Compensation%20for%20disability%20or%20death.md)
 - [&sect; 02681 - International broadcasting facilities; transfer to Department of State; acquisition of property](%C2%A7%2002681%20-%20International%20broadcasting%20facilities%3B%20transfer%20to%20Department%20of%20State%3B%20acquisition%20of%20property.md)

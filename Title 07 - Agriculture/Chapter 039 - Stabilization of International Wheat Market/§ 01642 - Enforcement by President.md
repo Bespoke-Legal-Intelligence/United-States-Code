@@ -2,7 +2,7 @@
 
 #### (a) Rules or regulations
 
-The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment inthe implementation of the International Wheat Agreement.
+The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment in the implementation of the International Wheat Agreement.
 
 #### (b) Reports; keeping and examination of books and records
 
@@ -10,7 +10,7 @@ All persons exporting or importing wheat or wheat-flour or selling wheat or whea
 
 #### (c) Penalty for violation
 
-Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
+Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record orknowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
 
 #### (d) Forfeiture for excessive exports or imports
 

@@ -6,7 +6,7 @@ The Bureau shall prescribe regulations to carry out the purposes of this subchap
 
 #### (b) Model disclosure forms and clauses; publication, criteria, compliance, etc.
 
-The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this subchapter in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this subchapter and the Real Estate Settlement Procedures Act of 1974, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. In devising such forms, the Bureau shall consider the use by creditors or lessors of data processing or similar automated equipment. Nothing in this subchapter may be construed to require a creditor or lessor to use any such model form or clause prescribed by the Bureau under this section. A creditor or lessor shall be deemed to be in compliance with the disclosure provisions of this subchapter with respect to other than numerical disclosures if the creditor or lessor (1) uses any appropriate model form or clause as published by the Bureau, or (2) uses any such model form or clause and changes it by (A) deleting any information which is not required by this subchapter, or (B) rearranging the format, if in making such deletion or rearranging the format, the creditor or lessor does not affect the substance, clarity, or meaningful sequence of the disclosure.
+The Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this subchapter in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] that, taken together, may apply to a transaction that is subject to both or either provisions of law. The purpose of such model disclosure shall be to facilitate compliance with the disclosure requirements of this subchapter and the Real Estate Settlement Procedures Act of 1974, and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures. In devising such forms, the Bureau shall consider the use by creditors or lessors of data processing or similar automated equipment. Nothing in this subchapter may be construed to require a creditor or lessor to use any such model form or clause prescribed by the Bureau under this section. A creditor or lessor shall be deemed to be in compliance with the disclosure provisions of this subchapter with respect to other than numerical disclosures if the creditor or lessor (1) uses anyappropriate model form or clause as published by the Bureau, or (2) uses any such model form or clause and changes it by (A) deleting any information which is not required by this subchapter, or (B) rearranging the format, if in making such deletion or rearranging the format, the creditor or lessor does not affect the substance, clarity, or meaningful sequence of the disclosure.
 
 #### (c) Procedures applicable for adoption of model forms and clauses
 
@@ -60,31 +60,25 @@ Any regulation of the Bureau, or any amendment or interpretation thereof, requir
 
 &emsp;The Bureau, at its discretion, may adjust the annual earned income and net asset requirements of paragraph (1) for inflation.
 
-#### (i) <sup>3</sup> Authority of the Board to prescribe rules
+#### (h) Deference
+
+Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to the Bureau with respect to a determination made by the Bureau relating to the meaning or interpretation of any provision of this subchapter, other than section 1639e or 1639h of this title, shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter.
+
+#### (i) Authority of the Board to prescribe rules
 
 Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12. Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
 (Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401; Pub. L. 111–203, title X, §1100A(2), (4)–(7), title XIV, §1472(c), July 21, 2010, 124 Stat. 2107, 2108, 2190.)
 
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1472(c), July 21, 2010, 124 Stat. 2136, 2190, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended by adding at the end the following:</i>
-
-#### <i>“(h) Deference</i>
-
-<i>“Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to the Bureau with respect to a determination made by the Bureau relating to the meaning or interpretation of any provision of this subchapter, other than section 1639e or 1639h of this title, shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter.”</i>
-
-<i>See Effective Date of 2010 Amendment notes below.</i>
-
 #### References in Text
 
-Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa) of this title, referred to in subsecs. (a) and (f)(1), was redesignated section 1602(bb) of thistitle by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Amendments
 
-Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such”, and inserted “all or” after “exceptions for”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of section 1639 of this title that apply to a mortgage referred to in section 1602(aa) of this title, such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such”, and inserted “all or” after “exceptions for”.
 
 Subsec. (b). Pub. L. 111–203, §1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
 
@@ -93,6 +87,8 @@ Subsecs. (c), (d). Pub. L. 111–203, §1100A(2), substituted “Bureau” for �
 Subsec. (f). Pub. L. 111–203, §1100A(2), (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
 
 Subsec. (g). Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” in pars. (1) and (2).
+
+Subsec. (h). Pub. L. 111–203, §1472(c), which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by Pub. L. 111–203, §1100A(7). See below.
 
 Subsec. (i). Pub. L. 111–203, §1100A(7), added subsec. (i).
 
@@ -112,11 +108,9 @@ Amendment by section 1472(c) of Pub. L. 111–203 effective on the date on which
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
-
-<i><sup>3</sup></i><i> For text of subsec. (h), see Amendment of Section note below.</i>
 

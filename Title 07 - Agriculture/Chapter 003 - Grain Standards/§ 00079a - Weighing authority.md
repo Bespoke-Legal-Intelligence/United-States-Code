@@ -60,7 +60,7 @@ The provisions of this section shall not limit any authority vested in the Secre
 
 The representatives of the Secretary shall be afforded access to any elevator, warehouse, or other storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
 
-#### (<i>l</i>) Fees; establishment, amount, payment, etc.
+#### (l) Fees; establishment, amount, payment, etc.
 
 (1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs to the Secretary incident to the performance of the functions provided for under this section except as otherwise provided in paragraph (2) of this subsection. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to performance of its <sup>1</sup> functions related to weighing, including administrative and supervisory costs directly related thereto. Such fees shall be deposited into the fund created in section 79(j) of this title.
 
@@ -76,13 +76,13 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 #### Amendments
 
-<b>2005</b>—Subsec. (<i>l</i>)(3). Pub. L. 109–83 substituted “2015” for “2005”.
+<b>2005</b>—Subsec. (l)(3). Pub. L. 109–83 substituted “2015” for “2005”.
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–472, §102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
 
-Subsec. (<i>l</i>)(3). Pub. L. 106–472, §103(b), substituted “2005” for “2000” in first sentence.
+Subsec. (l)(3). Pub. L. 106–472, §103(b), substituted “2005” for “2000” in first sentence.
 
-<b>1994</b>—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l</i>).
+<b>1994</b>—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (l)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (l).
 
 <b>1993</b>—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
 
@@ -92,11 +92,11 @@ Subsec. (e). Pub. L. 103–156, §12(e), which directed amendment of “Section 
 
 Subsec. (i). Pub. L. 103–156, §§4(b)(3), 5(b), inserted before period at end of first sentence “or as otherwise provided in section 79(i) of this title and subsection (d) of this section” and inserted before period at end of second sentence “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title”.
 
-Subsec. (<i>l</i>)(3). Pub. L. 103–156, §14(b), added par. (3).
+Subsec. (l)(3). Pub. L. 103–156, §14(b), added par. (3).
 
-<b>1988</b>—Subsec. (<i>l</i>). Pub. L. 100–518 amended subsec. (<i>l</i>) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
+<b>1988</b>—Subsec. (l). Pub. L. 100–518 amended subsec. (l) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
 
-<b>1981</b>—Subsec. (<i>l</i>). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
+<b>1981</b>—Subsec. (l). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–113, §1606(e), substituted “standards or procedures” for “standards”.
 
@@ -106,7 +106,7 @@ Subsec. (c)(2). Pub. L. 95–113, §1604(e)(2), made technical amendments to con
 
 Subsec. (d). Pub. L. 95–113, §1604(e)(3), inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
-Subsec. (e). Pub. L. 95–113, §§1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (<i>l</i>), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
+Subsec. (e). Pub. L. 95–113, §§1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (l), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
 
 Subsec. (f)(2). Pub. L. 95–113, §1604(e)(5)(A), substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
 
@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 95–113, §1604(e)(6), substituted “official weighing or
 
 Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
 
-Subsec. (<i>l</i>). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
+Subsec. (l). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
 
 #### Effective Date of 2000 Amendment
 
@@ -128,7 +128,7 @@ That part of section 2 of Pub. L. 100–518 which provided that the amendment ma
 
 #### Effective and Termination Dates of 1981 Amendment
 
-Section 155 of Pub. L. 97–35, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, §155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
 

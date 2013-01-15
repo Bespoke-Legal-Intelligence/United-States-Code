@@ -2,7 +2,7 @@
 
 #### (a) In general; administration
 
-(1) There is hereby established as a unit of the National Park System the Keweenaw National Historical Park in and near Calumet and Hancock, Michigan.
+(1) There is hereby established as a unit of the National Park System the Keweenaw NationalHistorical Park in and near Calumet and Hancock, Michigan.
 
 (2) The Secretary shall administer the park in accordance with the provisions of this subchapter, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.
 

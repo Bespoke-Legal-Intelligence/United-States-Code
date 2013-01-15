@@ -8,7 +8,7 @@ The Secretary is authorized and directed to prepare a comprehensive program mana
 
 The Secretary shall transmit the comprehensive program management plan along with any comments by the Commission on the plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate within twelve months after December 22, 1980. Revisions to the plan shall be transmitted to such committees whenever deemed appropriate by the Secretary.
 
-(Pub. L. 96–567, §8, Dec. 22, 1980, 94 Stat. 3332; Pub. L. 104–66, title I, §1051(<i>l</i>), Dec. 21, 1995, 109 Stat. 717.)
+(Pub. L. 96–567, §8, Dec. 22, 1980, 94 Stat. 3332; Pub. L. 104–66, title I, §1051(l), Dec. 21, 1995, 109 Stat. 717.)
 
 #### Amendments
 

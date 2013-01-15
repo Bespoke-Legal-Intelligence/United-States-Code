@@ -48,9 +48,9 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Effective Date of 1961 Amendment
 
-Section 3 of Pub. L. 87–268 provided that: “The amendments made by this Act \[amending this section and sections 107, 411 \[now 1311\], 415 \[now 1315\], 422 \[now 1322\], and 503 \[now 1503\] of this title and enacting provisions set out as notes under this section\] shall take effect as of the first day of the first calendar month which begins after the date of its enactment \[Sept. 21, 1961\].”
+Pub. L. 87–268, §3, Sept. 21, 1961, 75 Stat. 566, provided that: “The amendments made by this Act \[amending this section and sections 107, 411 \[now 1311\], 415 \[now 1315\], 422 \[now 1322\], and 503 \[now 1503\] of this title and enacting provisions set out as notes under this section\] shall take effect as of the first day of the first calendar month which begins after the date of its enactment \[Sept. 21, 1961\].”
 
 #### Filing of Application for Benefits
 
-Section 2 of Pub. L. 87–268 provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
+Pub. L. 87–268, §2, Sept. 21, 1961, 75 Stat. 566, provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
 

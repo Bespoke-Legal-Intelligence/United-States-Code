@@ -1,6 +1,6 @@
 ### §1309. Social security tax
 
-Amounts made available for the compensation of officers and employees of the United States Government may be used to pay taxes imposedon an agency as an employer under chapter 21 of the Internal Revenue Code of 1986 (26 U.S.C. 3101 et seq.).
+Amounts made available for the compensation of officers and employees of the United States Government may be used to pay taxes imposed on an agency as an employer under chapter 21 of the Internal Revenue Code of 1986 (26 U.S.C. 3101 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

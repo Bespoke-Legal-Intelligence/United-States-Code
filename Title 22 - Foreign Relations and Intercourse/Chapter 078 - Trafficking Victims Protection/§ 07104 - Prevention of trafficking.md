@@ -16,11 +16,11 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (b) Public awareness and information
 
-The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry out programs to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
+The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry outprograms to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
 
 #### (c) Border interdiction
 
-The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help trainsurvivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
+The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help train survivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
 
 #### (d) International media
 
@@ -46,7 +46,29 @@ The President shall consult with appropriate nongovernmental organizations with 
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 
-The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.
+The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—
+
+&emsp;(i) severe forms of trafficking in persons;
+
+&emsp;(ii) the procurement of a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect;
+
+&emsp;(iii) the use of forced labor in the performance of the grant, contract, or cooperative agreement; or
+
+&emsp;(iv) acts that directly support or advance trafficking in persons, including the following acts:
+
+&emsp;&emsp;(I) Destroying, concealing, removing, confiscating, or otherwise denying an employee access to that employee's identity or immigration documents.
+
+&emsp;&emsp;(II) Failing to provide return transportation or pay for return transportation costs to an employee from a country outside the United States to the country from which the employee was recruited upon the end of employment if requested by the employee, unless—
+
+&emsp;&emsp;&emsp;(aa) exempted from the requirement to provide or pay for such return transportation by the Federal department or agency providing or entering into the grant, contract, or cooperative agreement; or
+
+&emsp;&emsp;&emsp;(bb) the employee is a victim of human trafficking seeking victim services or legal redress in the country of employment or a witness in a human trafficking enforcement action.
+
+&emsp;&emsp;(III) Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
+
+&emsp;&emsp;(IV) Charging recruited employees unreasonable placement or recruitment fees, such as fees equal to or greater than the employee's monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.
+
+&emsp;&emsp;(V) Providing or arranging housing that fails to meet the host country housing and safety standards.
 
 #### (h) Prevention of trafficking in conjunction with post-conflict and humanitarian emergency assistance
 
@@ -70,9 +92,11 @@ The President shall establish and carry out programs to prevent and deter traffi
 
 &emsp;(4) assistance to foreign governments to register vulnerable populations as citizens or nationals of the country to reduce the ability of traffickers to exploit such populations.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046.)
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—” and cls. (i) to (iv) for “without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.”
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–457 added subsec. (i).
 
@@ -87,6 +111,10 @@ Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2013 Amendment
+
+Requirements of amendment by Pub. L. 112–239 applicable to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after Jan. 2, 2013, and to task and delivery orders awarded on or after Jan. 2, 2013, pursuant to contracts entered before, on, or after such date, see section 7104d(c)(1)(B) of this title.
 
 #### Delegation of Functions
 

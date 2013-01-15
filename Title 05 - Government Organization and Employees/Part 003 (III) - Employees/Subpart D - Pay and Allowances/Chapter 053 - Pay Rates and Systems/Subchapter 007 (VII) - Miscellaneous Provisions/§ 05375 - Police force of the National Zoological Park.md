@@ -34,13 +34,13 @@ General Schedule, referred to in text, is set out under section 5332 of this tit
 
 #### Effective Date of 1990 Amendment
 
-Section 2 of Pub. L. 101–263 provided that: “The amendments made by section 1 \[amending this section\] shall apply with respect to pay periods beginning after the date of the enactment of this Act \[Apr. 4, 1990\].”
+Pub. L. 101–263, §2, Apr. 4, 1990, 104 Stat. 125, provided that: “The amendments made by section 1 \[amending this section\] shall apply with respect to pay periods beginning after the date of the enactment of this Act \[Apr. 4, 1990\].”
 
 #### Effective Date
 
-Section 3(a) of Pub. L. 91–34 provided that: “The foregoing provisions of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\].”
+Pub. L. 91–34, §3(a), June 30, 1969, 83 Stat. 41, provided that: “The foregoing provisions of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\].”
 
 #### Reduction of Basic Pay Rate
 
-Section 3(b) of Pub. L. 91–34 provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\].”
+Pub. L. 91–34, §3(b), June 30, 1969, 83 Stat. 41, provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\].”
 

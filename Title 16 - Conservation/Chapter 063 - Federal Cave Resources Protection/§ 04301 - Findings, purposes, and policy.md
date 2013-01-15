@@ -24,7 +24,7 @@ It is the policy of the United States that Federal lands be managed in a manner 
 
 #### Short Title
 
-Section 1 of Pub. L. 100–691 provided that: “This Act \[enacting this chapter\] may be referred to as the ‘Federal Cave Resources Protection Act of 1988’.”
+Pub. L. 100–691, §1, Nov. 18, 1988, 102 Stat. 4546, provided that: “This Act \[enacting this chapter\] may be referred to as the ‘Federal Cave Resources Protection Act of 1988’.”
 
 #### Lechuguilla Cave Protection
 

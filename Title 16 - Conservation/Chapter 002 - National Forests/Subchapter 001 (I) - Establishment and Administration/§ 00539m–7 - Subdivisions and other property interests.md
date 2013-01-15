@@ -14,7 +14,7 @@
 
 #### (B) State jurisdiction
 
-&emsp;&emsp;The jurisdiction of the State of New Mexico and local public bodies over the subdivisions and property interests therein shall continue in effect, except that on application of the Pueblo a tract comprised of approximately 35 contiguous, nonsubdivided acres in the northern section of Evergreen Hills owned in fee by the Pueblo on February 20, 2003, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior.
+&emsp;&emsp;The jurisdiction of the State of New Mexico and local public bodies over the subdivisions and property interests therein shall continue in effect, except that on application of the Pueblo a tract comprised of approximately 35 contiguous, nonsubdivided acres in the northern section of EvergreenHills owned in fee by the Pueblo on February 20, 2003, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior.
 
 #### (3) Limitations on trust land
 
@@ -48,7 +48,7 @@
 
 #### (2) Jurisdiction
 
-&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the land onwhich the crest facilities are located and property interests therein, and the laws of the Pueblo, shall not apply to that land. The preexisting jurisdictional status of that land shall continue in effect.
+&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the land on which the crest facilities are located and property interests therein, and the laws of the Pueblo, shall not apply to that land. The preexisting jurisdictional status of that land shall continue in effect.
 
 #### (d) Special use permit area
 
@@ -122,7 +122,7 @@ Those properties not specifically addressed in subsections <sup>1</sup> (a) or 
 
 #### (2) Utility rights-of-way
 
-&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unlessthe Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
+&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
 
 #### (3) Forest Service rights-of-way
 

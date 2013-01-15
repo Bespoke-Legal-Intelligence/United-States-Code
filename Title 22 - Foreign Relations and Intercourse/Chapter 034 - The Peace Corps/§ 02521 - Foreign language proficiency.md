@@ -1,6 +1,6 @@
 ### §2521. Foreign language proficiency
 
-No person shall be assigned to duty as a volunteer under this chapter in any foreign country or area unless at the time of such assignment he possesses such reasonable proficiency as his assignment requires in speaking the language of the country or area to which he is assigned.
+No person shall be assigned to duty as a volunteer under this chapter in any foreign countryor area unless at the time of such assignment he possesses such reasonable proficiency as his assignment requires in speaking the language of the country or area to which he is assigned.
 
 (Pub. L. 87–293, title I, §24, Sept. 22, 1961, 75 Stat. 624.)
 

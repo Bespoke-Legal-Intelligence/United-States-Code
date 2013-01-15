@@ -56,7 +56,7 @@ In subsection (b)(1), the words “District of Columbia government” are substi
 
 #### Effective Date of 1990 Amendment; Transitional Provisions
 
-Section 1405(b) of Pub. L. 101–510, as amended by Pub. L. 102–484, div. A, title X, §1004, Oct. 23, 1992, 106 Stat. 2481, provided that:
+Pub. L. 101–510, div. A, title XIV, §1405(b), Nov. 5, 1990, 104 Stat. 1679, as amended by Pub. L. 102–484, div. A, title X, §1004, Oct. 23, 1992, 106 Stat. 2481, provided that:
 
 “(1)
 

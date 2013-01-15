@@ -2,7 +2,7 @@
 
 #### (a) Federal implementation study
 
-The Comptroller General of the United States shall assess the effectiveness of Federal enforcement and compliance with lead safety laws and regulations, including any changes needed in annual inspection procedures to identify lead-based paint hazards in units receiving assistance under subsections (b) and (<i>o</i>) of section 1437f of this title.
+The Comptroller General of the United States shall assess the effectiveness of Federal enforcement and compliance with lead safety laws and regulations, including any changes needed in annual inspection procedures to identify lead-based paint hazards in units receiving assistance under subsections (b) and (o) of section 1437f of this title.
 
 #### (b) Insurance study
 

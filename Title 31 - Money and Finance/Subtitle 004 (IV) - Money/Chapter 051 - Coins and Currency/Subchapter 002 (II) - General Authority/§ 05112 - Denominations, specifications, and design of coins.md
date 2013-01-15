@@ -90,7 +90,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (4)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of the Treasury may change the diameter, weight, or design of any coin minted under this subsection or the fineness of the gold in the alloy of any such coin if the Secretary determines that the specific diameter, weight, design, or fineness of gold which differs from that otherwise required by law is appropriate for such coin.
 
-(B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) beforethe end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
+(B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) before the end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
 
 (C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof gold coins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
@@ -108,7 +108,7 @@ Equal employment opportunity.—Paragraph (1) shall not relieve any person enter
 
 (k) The Secretary may mint and issue platinum bullion coins and proof platinum coins in accordance with such specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
-(<i>l</i>)
+(l)
 
 Redesign and Issuance of Quarter Dollar in Commemoration of Each of the 50
 
@@ -130,7 +130,7 @@ Transition provision.—Notwithstanding subparagraph (A), the Secretary may cont
 
 Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during the 10-year period referred to in subparagraph (A) in which—
 
-&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollars; and
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appearson the reverse side of any such quarter dollars; and
 
 &emsp;&emsp;&emsp;(ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
 
@@ -192,7 +192,7 @@ Issuance.—
 
 &emsp;&emsp;(A)
 
-Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph\(4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
 &emsp;&emsp;(B)
 
@@ -352,7 +352,7 @@ Termination of program.—The issuance of coins under this subsection shall term
 
 Reversion to preceding design.—Upon the termination of the issuance of coins under this subsection, the design of all $1 coins shall revert to the so-called “Sacagawea-design” $1 coins.
 
-(<i>o</i>)
+(o)
 
 First Spouse Bullion Coin Program.—
 
@@ -480,7 +480,7 @@ Coin.—
 
 &emsp;(1)
 
-Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
+Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities thatoperate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
 
 &emsp;&emsp;(A) any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of—
 
@@ -532,13 +532,13 @@ Coordination.—The Board of Governors of the Federal Reserve System and the Sec
 
 &emsp;&emsp;(D) ensuring that—
 
-&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies of each newly-issued design of $1 coins minted under subsections (n) and (<i>o</i>) are able to obtain such unmixed supplies; and
+&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies of each newly-issued design of $1 coins minted under subsections (n) and (o) are able to obtain such unmixed supplies; and
 
 &emsp;&emsp;&emsp;(ii) circulating coins will be available for ordinary commerce in packaging of sizes and types appropriate for and useful to ordinary commerce, including rolled coins;
 
 &emsp;&emsp;(E) working closely with any agency, instrumentality, system, or entity referred to in paragraph (1) to facilitate compliance with the requirements of such paragraph; and
 
-&emsp;&emsp;(F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coins minted under subsections (n) and (<i>o</i>), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
+&emsp;&emsp;(F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coins minted under subsections (n) and (o), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
 
 &emsp;(4)
 
@@ -562,7 +562,7 @@ Initial design.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided under subparagraph (B), the obverse and reverse of the gold bullion coins struck under this subsection during the first year of issuance shall bear the original designs by James Earle Fraser, which appear on the 5-cent coin commonly referred to as the “Buffalo nickel” or the “1913 Type 1”.
+In general.—Except as provided under subparagraph (B), the obverse and reverse of the gold bullion coins struck under this subsection during the first year of issuance shall bear the original designs by James Earle Fraser, which appear on the 5-centcoin commonly referred to as the “Buffalo nickel” or the “1913 Type 1”.
 
 &emsp;&emsp;(B)
 
@@ -632,7 +632,7 @@ Redesign beginning in 2008.—
 
 &emsp;&emsp;(A)
 
-In general.—Effective beginning January 1, 2008, notwithstanding subsection (d),in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
+In general.—Effective beginning January 1, 2008, notwithstanding subsection (d), in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
 
 &emsp;&emsp;&emsp;(i) have as the designs on the obverse the so-called “Sacagawea design”; and
 
@@ -816,7 +816,7 @@ Other provisions.—
 
 &emsp;&emsp;(A)
 
-Application in event of admission as a state.—If the District of Columbia or any territory becomes a State before the end of the 10-year period referred to in subsection (<i>l</i>)(1), subsection (<i>l</i>)(7) shall apply, and this subsection shall not apply, with respect to such State.
+Application in event of admission as a state.—If the District of Columbia or any territory becomes a State before the end of the 10-year period referred to in subsection (l)(1), subsection (l)(7) shall apply, and this subsection shall not apply, with respect to such State.
 
 &emsp;&emsp;(B)
 
@@ -896,7 +896,7 @@ Standards.—Because it is important that the Nation's coinage and currency bear
 
 &emsp;&emsp;(F)
 
-Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, no portrait of a living person, and no outline or map of a State may be included in the design on the reverse of any quarter dollar under this subsection.
+Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, no portrait of a living person, and no outline or map of a State may be included in the designon the reverse of any quarter dollar under this subsection.
 
 &emsp;(4)
 
@@ -952,7 +952,7 @@ Notice and report.—Within 30 days after making a determination under clause (i
 
 &emsp;&emsp;&emsp;(iii)
 
-Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to suchdetermination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
+Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -1064,7 +1064,7 @@ Mint facility.—Any United States mint, other than the United States Mint at We
 
 Marketing study defined.—The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L.109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, §616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, §2, Dec. 14, 2010, 124 Stat. 3275.)
 
 Historical and Revision Notes<br>1982
 
@@ -1180,7 +1180,7 @@ In subsection (e)(2), the words “80 percent” are substituted for “eight hu
 
 In subsection (f)(1), before clause (A), the words “Notwithstanding this section and section 5111(a)(1) of this title are substituted for “Notwithstanding any other provision of law” in 31:399 for clarity. In clause (B), the words “are an alloy of 90 percent silver and 10 percent copper” are substituted for “be minted in accordance with the standard established in section 3514 of the Revised Statutes (31 U.S.C. 321)” and 31:321 to eliminate unnecessary words and for clarity. In clause (C), the word “symbolizing” is substituted for “emblematic” for clarity.
 
-In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word “Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
+In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word“Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
 
 The text of 31:399(b)(3) is omitted as unnecessary because of section 5103 of the revised title.
 
@@ -1192,9 +1192,9 @@ This amends 31:5112(f)(1) to make technical and conforming changes.
 
 The date of enactment of the United States $1 Coin Act of 1997, referred to in subsec. (b), is the date of enactment of Pub. L. 105–124, which was approved Dec. 1, 1997.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<i>l</i>)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (l)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-This Act, referred to in subsec. (<i>o</i>)(6), probably means Pub. L. 109–145, Dec. 22, 2005, 119 Stat. 2664, known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
+This Act, referred to in subsec. (o)(6), probably means Pub. L. 109–145, Dec. 22, 2005, 119 Stat. 2664, known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
 
 The date of enactment of the Presidential $1 Coin Act of 2005, referred to in subsec. (q)(1), is the date of enactment of Pub. L. 109–145, which was approved Dec. 22, 2005.
 
@@ -1226,7 +1226,7 @@ Subsec. (v). Pub. L. 111–303, §2(2), added subsec. (v).
 
 Subsec. (u). Pub. L. 110–456, §201, added subsec. (u).
 
-<b>2007</b>—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B),which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
+<b>2007</b>—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
 
 Subsec. (n)(2)(C)(i). Pub. L. 110–161, §623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
 
@@ -1244,7 +1244,7 @@ Subsec. (r)(2). Pub. L. 110–161, §623(b), substituted “and the inscription�
 
 Subsec. (n). Pub. L. 109–145, §102, added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 109–145, §103, added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 109–145, §103, added subsec. (o).
 
 Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
 
@@ -1254,11 +1254,11 @@ Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
 Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
 
-Subsec. (<i>l</i>)(4)(A)(ii). Pub. L. 108–15, §103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
+Subsec. (l)(4)(A)(ii). Pub. L. 108–15, §103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–445 substituted “platinum bullion coins” for “bullion”.
 
-<b>1998</b>—Subsec. (<i>l</i>)(1)(C). Pub. L. 105–176 added subpar. (C).
+<b>1998</b>—Subsec. (l)(1)(C). Pub. L. 105–176 added subpar. (C).
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–124, §4(b), struck out “and weighs 8.1 grams” after “diameter”.
 
@@ -1266,7 +1266,7 @@ Subsec. (b). Pub. L. 105–124, §4(c), struck out “dollar,” before “half 
 
 Subsec. (d)(1). Pub. L. 105–124, §4(d), substituted “The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin.” for “The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony.”
 
-Subsec. (<i>l</i>). Pub. L. 105–124, §3, added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–124, §3, added subsec. (l).
 
 <b>1996</b>—Subsec. (i)(4)(C). Pub. L. 104–208, §101(f) \[title V, §523\], added subpar. (C).
 
@@ -1306,19 +1306,19 @@ Pub. L. 110–161, div. D, title VI, §623(c), Dec. 26, 2007, 121 Stat. 2018, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title V, §529(e)\] of Pub. L. 104–208, provided that: “This section \[amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353, provided that: “This section \[amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1985 Amendments
 
-Section 3 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986.”
+Pub. L. 99–185, §3, Dec. 17, 1985, 99 Stat. 1179, provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986.”
 
-Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act \[set out as a note below\] have been sold, whichever is earlier.”
+Pub. L. 99–61, title II, §205, July 9, 1985, 99 Stat. 117, provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act \[set out as a note below\] have been sold, whichever is earlier.”
 
 #### Short Title of 1985 Amendments
 
-Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
+Pub. L. 99–185, §1, Dec. 17, 1985, 99 Stat. 1177, provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
-Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+Pub. L. 99–61, title II, §201, July 9, 1985, 99 Stat. 115, provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
 
 #### Savings Provision
 
@@ -1350,7 +1350,7 @@ Factors to Be Considered.—In the conduct of research, development, and the sol
 
 &emsp;“(2) Factors relevant to the ease of use and ability to co-circulate of new coinage materials, including the effect on vending machines and commercial coin processing equipment and making certain, to the greatest extent practicable, that any new coins work without interruption in existing coin acceptance equipment without modification.
 
-&emsp;“(3) Such other factors that the Secretary of the Treasury, in consultation with merchants who would be affected by any change in the composition of circulating coins, vending machine and other coin acceptor manufacturers, vending machine owners and operators, transit officials, municipal parking officials, depository institutions, coin and currency handlers, armored-car operators, car wash operators, and American-owned manufacturers of commercial coin processing equipment, considers to be appropriate and in the public interest, after notice and opportunity for comment.”
+&emsp;“(3) Such other factors that the Secretary of the Treasury, in consultation with merchants who would be affected by any change in the composition of circulating coins, vending machine and other coin acceptor manufacturers, vending machine owners and operators, transit officials, municipal parking officials, depository institutions, coin and currency handlers, armored-car operators, car wash operators, and American-owned manufacturers of commercial coinprocessing equipment, considers to be appropriate and in the public interest, after notice and opportunity for comment.”
 
 #### Biennial Report to the Congress on the Current Status of Coin Production Costs and Analysis of Alternative Content
 
@@ -1444,7 +1444,7 @@ Pub. L. 109–145, title I, §101, Dec. 22, 2005, 119 Stat. 2664, provided that:
 
 &emsp;“(2) For a variety of reasons, the new $1 coin introduced in 2000 has not been widely sought-after by the public, leading to higher costs for merchants and thus higher prices for consumers.
 
-&emsp;“(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(<i>l</i>)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in such Program radically increases demand for the coin, rapidly pulling it through the economy.
+&emsp;“(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(l)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in such Program radically increases demand for the coin, rapidly pulling it through the economy.
 
 &emsp;“(4) The 50 States Commemorative Coin Program also has been an educational tool, teaching both Americans and visitors something about each State for which a quarter has been issued.
 
@@ -1604,7 +1604,7 @@ Pub. L. 105–124, §2, Dec. 1, 1997, 111 Stat. 2534, provided that: “The Cong
 
 &emsp;“(2) the circulating coinage of the United States has not been modernized during the 25-year period preceding the date of enactment of this Act \[Dec. 1, 1997\];
 
-&emsp;“(3) a circulating commemorative 25-cent coin program could produce earnings of $110,000,000 from thesale of silver proof coins and sets over the 10-year period of issuance, and would produce indirect earnings of an estimated $2,600,000,000 to $5,100,000,000 to the United States Treasury, money that will replace borrowing to fund the national debt to at least that extent; and
+&emsp;“(3) a circulating commemorative 25-cent coin program could produce earnings of $110,000,000 from the sale of silver proof coins and sets over the 10-year period of issuance, and would produce indirect earnings of an estimated $2,600,000,000 to $5,100,000,000 to the United States Treasury, money that will replace borrowing to fund the national debt to at least that extent; and
 
 &emsp;“(4) it is appropriate to launch a commemorative circulating coin program that encourages young people and their families to collect memorable tokens of all of the States for the face value of the coins.”
 
@@ -1650,7 +1650,7 @@ Pub. L. 104–329, title III, §302, Oct. 20, 1996, 110 Stat. 4012, provided tha
 
 “(a)
 
-Study.—The Secretary of the Treasury shall by June 1, 1997 complete a study of the feasibility of a circulating commemorative coin program to commemorate each of the 50 States. The study shall assess likely public acceptance of and consumer demand for different coins that might be issued in connection with such a program (taking into consideration the pace of issuance of coins and the length of such a program), a comparison of the costs of producing coins issued under the program and the revenue that the program would generate, the impact on coin distribution systems, the advantages and disadvantages of different approaches to selecting designs for coins in such a program, and such other factors as the Secretary considers appropriate in deciding upon the feasibility of such a program. No steps taken in order to gather information for this study shall be considered a collection of information within the meaning of section 3502 of title 44, United States Code.
+Study.—The Secretary of the Treasury shall by June 1, 1997 complete a study of the feasibility of a circulating commemorative coin program to commemorate each of the 50 States. The study shall assess likely public acceptance of and consumer demand for different coins that might be issued in connection with such a program (taking into consideration the pace of issuance of coins and the length of such a program), a comparison of the costs of producing coins issued under the program and the revenue that the program would generate, the impact on coin distribution systems, the advantages and disadvantages of different approaches to selecting designs for coins in such a program, and suchother factors as the Secretary considers appropriate in deciding upon the feasibility of such a program. No steps taken in order to gather information for this study shall be considered a collection of information within the meaning of section 3502 of title 44, United States Code.
 
 “(b)
 
@@ -1706,11 +1706,11 @@ Funding.—Funds used to complete this study shall be offset from funds from the
 
 #### Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program
 
-Section 101(f) \[title V, §523\] of Pub. L. 104–208 provided in part: “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §523\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
 
 #### Use of Government Platinum Reserves Stockpiled at Mint
 
-Section 101(f) \[title V, §524\] of Pub. L. 104–208 provided in part: “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–348, provided in part: “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
 
 #### Reform of Commemorative Coin Programs
 
@@ -1750,7 +1750,7 @@ Information to be included.—The report under paragraph (1) shall include infor
 
 &emsp;“(3)
 
-Due dates.—Quarterly reports under this subsection shall be due at the end of the 30-day period beginning on the last day of any calendar quarter during which any surcharge derived from the sale of commemorative coins is received by any person.
+Due dates.—Quarterly reports under this subsection shall be due at the end of the 30-day periodbeginning on the last day of any calendar quarter during which any surcharge derived from the sale of commemorative coins is received by any person.
 
 “(b)
 
@@ -1758,15 +1758,25 @@ Final Report.—Each person who receives, after the date of the enactment of thi
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 
-Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
+Pub. L. 99–185, §2(f), Dec. 17, 1985, 99 Stat. 1178, provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
 
 #### Issuance of Gold Coins To Result in No Net Cost to United States
 
-Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
+Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
 
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 112–209, Dec. 18, 2012, 126 Stat. 1510.—March of Dimes.
+
+Pub. L. 112–201, Dec. 4, 2012, 126 Stat. 1479.—Mark Twain.
+
+Pub. L. 112–181, Oct. 5, 2012, 126 Stat. 1416.—Lions Clubs International century of service.
+
+Pub. L. 112–152, Aug. 3, 2012, 126 Stat. 1155.—National Baseball Hall of Fame.
+
+Pub. L. 112–104, Apr. 2, 2012, 126 Stat. 286.—United States Marshals Service 225th anniversary.
 
 Pub. L. 111–262, Oct. 8, 2010, 124 Stat. 2780.—5-Star Generals.
 
@@ -1782,7 +1792,7 @@ Pub. L. 110–450, Dec. 1, 2008, 122 Stat. 5017.—United States Army.
 
 Pub. L. 110–363, Oct. 8, 2008, 122 Stat. 4015.—Boy Scouts of America centennial.
 
-Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998.—National Infantry Museum and Soldier Center.
+Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998; Pub. L. 112–169, §1, Aug. 10, 2012, 126 Stat. 1302.—National Infantry Museum and Soldier Center.
 
 Pub. L. 110–277, July 17, 2008, 122 Stat. 2599.—American veterans disabled for life.
 

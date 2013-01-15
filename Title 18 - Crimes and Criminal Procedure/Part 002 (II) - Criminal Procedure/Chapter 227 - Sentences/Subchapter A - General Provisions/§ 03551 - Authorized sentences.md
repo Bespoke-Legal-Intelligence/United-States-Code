@@ -40,9 +40,9 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Effective Date; Savings Provision
 
-Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056, provided that:
+Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056, provided that:
 
-“(a)(1) This chapter \[see Tables for classification\] shall take effect on the first day of the first calendar month beginning 36 months after the date of enactment \[Oct. 12, 1984\] and shall apply only to offenses committed after the taking effect of this chapter, except that—
+“(a)(1) This chapter \[chapter II (§§211–239) of title II of Pub. L. 98–473, see Tables for classification\] shall take effect on the first day of the first calendar month beginning 36 months after the date of enactment \[Oct. 12, 1984\] and shall apply only to offenses committed after the taking effect of this chapter, except that—
 
 &emsp;“(A) the repeal of chapter 402 of title 18, United States Code, shall take effect on the date of enactment \[Oct. 12, 1984\];
 
@@ -116,7 +116,7 @@ Pub. L. 109–76, §1, Sept. 29, 2005, 119 Stat. 2035, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, andsection 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
+Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
 
 #### Short Title of 1987 Amendment
 
@@ -128,7 +128,7 @@ Pub. L. 99–217, §1, Dec. 26, 1985, 99 Stat. 1728, provided that: “This Act 
 
 #### Short Title
 
-Section 211 of chapter II (§§211–239) of title II of Pub. L. 98–473 provided that: “This chapter \[see Tables for classification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
+Pub. L. 98–473, title II, §211, Oct. 12, 1984, 98 Stat. 1987, provided that: “This chapter \[chapter II (§§211–239) of title II of Pub. L. 98–473, see Tables for classification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
 
 #### Mandatory Victim Restitution; Promulgation of Regulations by Attorney General
 
@@ -140,7 +140,7 @@ Pub. L. 104–132, title II, §209, Apr. 24, 1996, 110 Stat. 1240, provided that
 
 #### Sentencing of Nonviolent and Nonserious Offenders; Sense of Congress
 
-Section 239 of Pub. L. 98–473 provided that:
+Pub. L. 98–473, title II, §239, Oct. 12, 1984, 98 Stat. 2039, provided that:
 
 “Since, due to an impending crisis in prison overcrowding, available Federal prison space must be treated as a scarce resource in the sentencing of criminal defendants;
 

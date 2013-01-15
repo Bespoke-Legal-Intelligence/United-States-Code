@@ -38,7 +38,7 @@ Pub. L. 99–238, title II, §202, Jan. 13, 1986, 99 Stat. 1768, as amended by P
 
 “(a)
 
-In General.—In carrying out section 3116(b) \[formerly 1516(b)\] of title 38, United States Code, the Secretary of Veterans Affairs shall take all feasible stepsto establish and encourage, for veterans who are eligible to have payments made on their behalf under such section, the development of training opportunities through programs of job training consistent with the provisions of the Veterans’ Job Training Act (as redesignated by section 201(a)(1) of this Act) \[29 U.S.C. 1721 note\] so as to utilize programs of job training established by employers pursuant to such Act.
+In General.—In carrying out section 3116(b) \[formerly 1516(b)\] of title 38, United States Code, the Secretary of Veterans Affairs shall take all feasible steps to establish and encourage, for veterans who are eligible to have payments made on their behalf under such section, the development of training opportunities through programs of job training consistent with the provisions of the Veterans’ Job Training Act (as redesignated by section 201(a)(1) of this Act) \[29 U.S.C. 1721 note\] so as to utilize programs of job training established by employers pursuant to such Act.
 
 “(b)
 

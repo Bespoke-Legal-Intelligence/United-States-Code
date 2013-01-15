@@ -16,7 +16,7 @@ For purposes of this section, “clean coal technology” means any technology, 
 
 #### (3) Permanent projects
 
-&emsp;For permanent clean coal technology demonstration projects that constitute repowering as defined in section 7651a(<i>l</i>) <sup>1</sup> of this title, any qualifying project shall not be subject to standards of performance under section 7411 of this title or to the review and permitting requirements of part C <sup>2</sup> for any pollutant the potential emissions of which will not increase as a result of the demonstration project.
+&emsp;For permanent clean coal technology demonstration projects that constitute repowering as defined in section 7651a(l) <sup>1</sup> of this title, any qualifying project shall not be subject to standards of performance under section 7411 of this title or to the review and permitting requirements of part C <sup>2</sup> for any pollutant the potential emissions of which will not increase as a result of the demonstration project.
 
 #### (4) EPA regulations
 

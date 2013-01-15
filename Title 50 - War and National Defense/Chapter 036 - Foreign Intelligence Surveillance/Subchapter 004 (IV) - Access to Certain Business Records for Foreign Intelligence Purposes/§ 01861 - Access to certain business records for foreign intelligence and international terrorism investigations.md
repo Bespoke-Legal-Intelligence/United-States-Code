@@ -46,13 +46,13 @@ Each application under this section—
 
 &emsp;(C) shall provide clear and conspicuous notice of the principles and procedures described in subsection (d);
 
-&emsp;(D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
+&emsp;(D) may only require the production of a tangible thing if such thing can be obtainedwith a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
 
 &emsp;(E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a).
 
 #### (d) Nondisclosure
 
-(1) No person shall disclose to any other person that the Federal Bureau of Investigation hassought or obtained tangible things pursuant to an order under this section, other than to—
+(1) No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section, other than to—
 
 &emsp;(A) those persons to whom disclosure is necessary to comply with such order;
 
@@ -96,7 +96,7 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of this title, which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
-(4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
+(4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitionsfiled, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
 
 (5) All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 
@@ -160,7 +160,7 @@ Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). Se
 
 <b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to access to certain business records for foreign intelligence and international terrorism investigations.
+<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L.112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to access to certain business records for foreign intelligence and international terrorism investigations.
 
 Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
 

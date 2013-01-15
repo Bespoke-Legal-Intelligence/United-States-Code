@@ -2,11 +2,11 @@
 
 #### (a) Short title
 
-Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title may be cited as the “Richmond National Battlefield Park Act of 2000”.
+Sections 423l–1 to 423l–6 of this title may be cited as the “Richmond National Battlefield Park Act of 2000”.
 
 #### (b) Definitions
 
-In sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title:
+In sections 423l–1 to 423l–6 of this title:
 
 #### (1) Battlefield park
 
@@ -20,5 +20,5 @@ In sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title:
 
 #### References in Text
 
-Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and repealed sections 423j to 423<i>l</i> of this title. For complete classification of title V to the Code, see Tables.
+Sections 423l–1 to 423l–6 of this title, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423l–1 to 423l–6 of this title and repealed sections 423j to 423l of this title. For complete classification of title V to the Code, see Tables.
 

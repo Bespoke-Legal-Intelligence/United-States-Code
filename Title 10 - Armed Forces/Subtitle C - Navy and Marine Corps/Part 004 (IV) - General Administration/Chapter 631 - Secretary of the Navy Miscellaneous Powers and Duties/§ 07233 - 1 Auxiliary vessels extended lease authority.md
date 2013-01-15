@@ -48,7 +48,7 @@ Contingent Waiver of Other Provisions of Law.—(1) The Secretary may waive the 
 
 &emsp;(A) The need for the vessels or services to be provided under the contract is expected to remain substantially unchanged during the contemplated contract or option period.
 
-&emsp;(B) There is a reasonable expectation that throughout the contemplated contract or option period the Secretary of the Navy (or, if the contract is for services to be provided to, and funded by, another military department,the Secretary of that military department) will request funding for the contract at the level required to avoid contract cancellation.
+&emsp;(B) There is a reasonable expectation that throughout the contemplated contract or option period the Secretary of the Navy (or, if the contract is for services to be provided to, and funded by, another military department, the Secretary of that military department) will request funding for the contract at the level required to avoid contract cancellation.
 
 &emsp;(C) The timeliness of consideration of the contract by Congress is such that such a waiver is in the interest of the United States.
 
@@ -68,7 +68,7 @@ Source of Funds for Termination Liability.—If a contract entered into under th
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, UnitedStates Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
 <i><sup>1</sup></i><i> So in original. No section 7232 has been enacted.</i>
 

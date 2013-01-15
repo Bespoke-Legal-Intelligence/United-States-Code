@@ -18,7 +18,7 @@
 
 &emsp;(F) a comprehensive review of the adequacy of Indian forest land management plans, including their compatibility with applicable tribal integrated resource management plans and their ability to meet tribal needs and priorities,
 
-&emsp;(G) an evaluation of the feasibility and desirability of establishing minimum standards against which the adequacy of the forestry programs of the Bureau of Indian Affairs in fulfilling its trust responsibility to Indian tribes can be measured, and
+&emsp;(G) an evaluation of the feasibility and desirability of establishing minimum standards against which the adequacy of the forestry programs of the Bureau of Indian Affairs infulfilling its trust responsibility to Indian tribes can be measured, and
 
 &emsp;(H) a recommendation of any reforms and increased funding levels necessary to bring Indian forest land management programs to a state-of-the-art condition.
 

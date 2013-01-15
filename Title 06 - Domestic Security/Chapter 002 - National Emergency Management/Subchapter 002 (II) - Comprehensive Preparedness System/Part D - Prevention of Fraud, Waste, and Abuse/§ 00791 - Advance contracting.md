@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) recurring disaster response requirements, including specific goods and services, for which the Agency is capable of contracting for in advance of a natural disaster or act of terrorism or other man-made disaster in a cost effective manner;
 
-&emsp;&emsp;(B) recurring disaster response requirements, including specific goods and services, for which the Agency can not contract in advance of a natural disaster or act of terrorism or other man-made disaster in a cost effective manner; and
+&emsp;&emsp;(B) recurring disaster response requirements, including specific goods and services,for which the Agency can not contract in advance of a natural disaster or act of terrorism or other man-made disaster in a cost effective manner; and
 
 &emsp;&emsp;(C) a contracting strategy that maximizes the use of advance contracts to the extent practical and cost-effective.
 

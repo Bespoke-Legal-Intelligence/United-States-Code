@@ -12,7 +12,7 @@
 
 &emsp;(3) that issuing the order would promote the purposes of this chapter and international comity with respect to the protection of mask works.
 
-(b) While an order under subsection (a) is in effect with respect to a foreign nation, no application for registration of a claim for protection in a mask work under this chapter may be denied solely because the owner of the mask work is a national, domiciliary, or sovereign authority of that foreign nation, or solely because the mask work was first commercially exploited in that foreign nation.
+(b) While an order under subsection (a) is in effect with respect to a foreign nation, no application for registration of a claim for protection in a mask work under this chapter may be deniedsolely because the owner of the mask work is a national, domiciliary, or sovereign authority of that foreign nation, or solely because the mask work was first commercially exploited in that foreign nation.
 
 (c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the case of an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition.
 
@@ -50,7 +50,7 @@ Subsec. (f)(2). Pub. L. 100–159, §4, which directed the amendment of subsec. 
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 102–64 provided that:
+Pub. L. 102–64, §2, June 28, 1991, 105 Stat. 320, provided that:
 
 “(a)
 
@@ -72,13 +72,13 @@ Purposes.—The purposes of this Act \[amending this section and enacting provis
 
 &emsp;“(2) to clarify the Secretary's authority to issue such interim protection orders.”
 
-Section 1 of Pub. L. 100–159, as amended by Pub. L. 105–80, §12(b)(1), Nov. 13, 1997, 111 Stat. 1536, provided that:
+Pub. L. 100–159, §1, Nov. 9, 1987, 101 Stat. 899, as amended by Pub. L. 105–80, §12(b)(1), Nov. 13, 1997, 111 Stat. 1536, provided that:
 
 “(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issue orders extending interim protection under chapter 9 of title 17, United States Code, to mask works fixed in semiconductor chip products and originating in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
+&emsp;“(1) section 914 of title 17, United States Code, which authorizes the Secretary of Commerce to issue orders extending interim protection under chapter 9of title 17, United States Code, to mask works fixed in semiconductor chip products and originating in foreign countries that are making good faith efforts and reasonable progress toward providing protection, by treaty or legislation, to mask works of United States nationals, has resulted in substantial and positive legislative developments in foreign countries regarding protection of mask works;
 
 &emsp;“(2) the Secretary of Commerce has determined that most of the industrialized countries of the world are eligible for orders affording interim protection under section 914 of title 17, United States Code;
 
@@ -86,7 +86,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(4) these bilateral and multilateral developments are encouraging steps toward improving international protection of mask works in a consistent and harmonious manner; and
 
-&emsp;“(5) it is inherent in section 902 of title 17, United States Code, that the President has the authority torevise, suspend, or revoke, as well as issue, proclamations extending mask work protection to nationals, domiciliaries, and sovereign authorities of other countries, if conditions warrant.
+&emsp;“(5) it is inherent in section 902 of title 17, United States Code, that the President has the authority to revise, suspend, or revoke, as well as issue, proclamations extending mask work protection to nationals, domiciliaries, and sovereign authorities of other countries, if conditions warrant.
 
 “(b)
 

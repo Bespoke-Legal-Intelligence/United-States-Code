@@ -28,7 +28,7 @@ Pub. L. 103–322, title IV, §40141, Sept. 13, 1994, 108 Stat. 1918, provided t
 
 “(a)
 
-Modification of Proposed Amendment.—The proposed amendments to the Federal Rules of Evidence that are embraced by an order entered by the Supreme Court of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the amendment made by subsection (b).
+Modification of Proposed Amendment.—The proposed amendments to the Federal Rules of Evidence that are embraced by an order entered by the SupremeCourt of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the amendment made by subsection (b).
 
 “(b)
 
@@ -60,7 +60,7 @@ Pub. L. 102–198, §11, Dec. 9, 1991, 105 Stat. 1626, provided that:
 
 “(a)
 
-Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for the United StatesCourts, as transmitted to the Congress by the Supreme Court pursuant to section 2074 of title 28, United States Code, to become effective on December 1, 1991, is amended by striking ‘Rule 4(m)’ and inserting ‘Rule 4(j)’.
+Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for the United States Courts, as transmitted to the Congress by the Supreme Court pursuant to section 2074 of title 28, United States Code, to become effective on December 1, 1991, is amended by striking ‘Rule 4(m)’ and inserting ‘Rule 4(j)’.
 
 “(b)
 
@@ -104,7 +104,7 @@ Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rule
 
 #### Amendments to Criminal Rules Under Supreme Court Order of April 26, 1976; Postponement of Effective Date
 
-Pub. L. 94–349, §1, July 8, 1976, 90 Stat. 822, provided: “That, notwithstanding the provisions of sections 3771 and 3772 of title 18 of the United States Code the amendments to rules 6(e), 23, 24, 40.1 and 41(c)(2) of the Rules of Criminal Procedure for the United States district courts which are embraced by the order entered by the United States Supreme Court on April 26, 1976, and which were transmitted to the Congress on or about April 26, 1976, shall not take effect until August 1, 1977, or until and to the extent approved by Act of Congress, whichever is earlier. The remainder of the proposed amendments to the Federal Rules of Criminal Procedure \[rules 6(f), 41(a), (c)(1), and 50(b)\] shall become effective August 1, 1976, pursuant to law.”
+Pub. L. 94–349, §1, July 8, 1976, 90 Stat. 822, provided: “That, notwithstanding the provisions of sections 3771 and 3772 of title 18 of the United States Code the amendments to rules 6(e), 23, 24, 40.1 and 41(c)(2) of the Rules of Criminal Procedure for the United States district courts which are embraced by the order enteredby the United States Supreme Court on April 26, 1976, and which were transmitted to the Congress on or about April 26, 1976, shall not take effect until August 1, 1977, or until and to the extent approved by Act of Congress, whichever is earlier. The remainder of the proposed amendments to the Federal Rules of Criminal Procedure \[rules 6(f), 41(a), (c)(1), and 50(b)\] shall become effective August 1, 1976, pursuant to law.”
 
 #### Postponement of Effective Date of Proposed Rules and Forms Governing Proceedings Under Sections 2254 and 2255 of this Title
 
@@ -112,7 +112,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: “That, notwithsta
 
 #### Approval and Effective Date of Amendments Proposed April 22, 1974
 
-Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: “The amendments proposed by the United StatesSupreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975.”
+Pub. L. 94–64, §2, July 31, 1975, 89 Stat. 370, provided that: “The amendments proposed by the United States Supreme Court to the Federal Rules of Criminal Procedure \[adding rules 12.1, 12.2, and 29.1 and amending rules 4, 9(a), 11, 12, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] which are embraced in the order of that Court on April 22, 1974, are approved except as otherwise provided in this Act \[making further amendments to rules 4, 9(a), 11, 12, 12.1, 12.2, 15, 16, 17(f), 20, 32(a), (c), and (e), and 43\] and shall take effect on December 1, 1975. Except with respect to the amendment to Rule 11, insofar as it adds Rule 11(e)(6), which shall take effect on August 1, 1975, the amendments made by section 3 of this Act shall also take effect on December 1, 1975.”
 
 #### Approval and Effective Date of Amendments Proposed November 20, 1972 and December 18, 1972
 

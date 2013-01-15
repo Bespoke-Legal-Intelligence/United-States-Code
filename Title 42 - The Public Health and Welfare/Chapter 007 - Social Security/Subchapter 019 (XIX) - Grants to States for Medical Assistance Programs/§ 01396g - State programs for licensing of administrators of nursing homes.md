@@ -40,7 +40,7 @@ As used in this section, the term—
 
 #### Repeal of Section
 
-<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
+<i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective</i><i>on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
 
 #### Codification
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to items an
 
 #### Effective Date of 1996 Amendment
 
-Section 913 of Pub. L. 104–193 provided that the amendment made by that section is effective Jan. 1, 1997.
+Pub. L. 104–193, title IX, §913, Aug. 22, 1996, 110 Stat. 2354, provided that the amendment made by that section is effective Jan. 1, 1997.
 
 #### Effective Date of 1972 Amendment
 
@@ -82,7 +82,7 @@ Amendment by section 268(b) of Pub. L. 92–603 effective Oct. 30, 1972, see sec
 
 #### Effective Date
 
-Section 236(c) of Pub. L. 90–248 provided that: “Except as otherwise specified in the text thereof, the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall take effect on July 1, 1970.”
+Pub. L. 90–248, title II, §236(c), Jan. 2, 1968, 81 Stat. 910, provided that: “Except as otherwise specified in the text thereof, the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall take effect on July 1, 1970.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

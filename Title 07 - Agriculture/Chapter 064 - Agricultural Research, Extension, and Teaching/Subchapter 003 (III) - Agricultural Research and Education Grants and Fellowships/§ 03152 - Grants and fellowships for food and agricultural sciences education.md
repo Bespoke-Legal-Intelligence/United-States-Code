@@ -72,7 +72,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (B) Minimum requirement
 
-&emsp;&emsp;The Secretary shall make at least 1 cash award in each fiscal year to a nominee selected by the Secretary for excellence in each of the areas of teaching, extension, and research of food and agricultural science at a college or university.
+&emsp;&emsp;The Secretary shall make at least 1 cash award in each fiscal year to a nominee selected by the Secretary for excellence ineach of the areas of teaching, extension, and research of food and agricultural science at a college or university.
 
 #### (2) Funding
 
@@ -98,7 +98,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(A) promote and strengthen secondary education and 2-year postsecondary education in agriscience and agribusiness in order to help ensure the existence in the United States of a qualified workforce to serve the food and agricultural sciences system; and
 
-&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate orhigher degree in the food and agricultural sciences.
+&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
 
 #### (3) Grants
 
@@ -122,7 +122,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 
-#### (<i>l</i>) Report
+#### (l) Report
 
 The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
@@ -138,7 +138,7 @@ The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
@@ -162,9 +162,9 @@ Subsec. (j)(3). Pub. L. 110–246, §7109(a)(2)(A), substituted “secondary sch
 
 Subsec. (j)(3)(G). Pub. L. 110–246, §7109(a)(2)(B)–(D), added subpar. (G).
 
-Subsec. (<i>l</i>). Pub. L. 110–246, §7109(b)(2), added subsec. (<i>l</i>). Former subsec. (<i>l</i>) redesignated (m).
+Subsec. (l). Pub. L. 110–246, §7109(b)(2), added subsec. (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 110–246, §7109(b)(1), (c), redesignated subsec. (<i>l</i>) as (m) and substituted “2012” for “2007”.
+Subsec. (m). Pub. L. 110–246, §7109(b)(1), (c), redesignated subsec. (l) as (m) and substituted “2012” for “2007”.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–171, §7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
 
@@ -182,7 +182,7 @@ Subsec. (d)(2). Pub. L. 107–171, §7102(3)(B), inserted “, or in the rural 
 
 Subsec. (j)(1)(B). Pub. L. 107–110 substituted “7801” for “8801(25)”.
 
-Subsec. (<i>l</i>). Pub. L. 107–171, §7102(4), substituted “2007” for “2002”.
+Subsec. (l). Pub. L. 107–171, §7102(4), substituted “2007” for “2002”.
 
 <b>1998</b>—Subsecs. (c), (d). Pub. L. 105–185, §223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
@@ -190,15 +190,15 @@ Subsec. (e). Pub. L. 105–185, §223(3), added subsec. (e). Former subsec. (e) 
 
 Subsecs. (f) to (i). Pub. L. 105–185, §223(1), redesignated subsecs. (d) to (g) as (f) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-Subsec. (j). Pub. L. 105–185, §223(1), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (<i>l</i>).
+Subsec. (j). Pub. L. 105–185, §223(1), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (l).
 
 Subsec. (j)(1)(A). Pub. L. 105–244 substituted “section 1001 of title 20” for “section 1141(a) of title 20”.
 
 Subsec. (k). Pub. L. 105–185, §223(1), redesignated subsec. (i) as (k).
 
-Subsec. (<i>l</i>). Pub. L. 105–185, §301(a)(1), substituted “2002” for “1997”.
+Subsec. (l). Pub. L. 105–185, §301(a)(1), substituted “2002” for “1997”.
 
-Pub. L. 105–185, §223(1), redesignated subsec. (j) as (<i>l</i>).
+Pub. L. 105–185, §223(1), redesignated subsec. (j) as (l).
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–127, §805(a), added par. (4) and struck out former par. (4) which read as follows: “to design and implement innovative food and agricultural educational programs;”.
 
@@ -224,7 +224,7 @@ Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior t
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specifiedpurposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
 
 Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programs for which funds are made available under section 329 of this title.
 

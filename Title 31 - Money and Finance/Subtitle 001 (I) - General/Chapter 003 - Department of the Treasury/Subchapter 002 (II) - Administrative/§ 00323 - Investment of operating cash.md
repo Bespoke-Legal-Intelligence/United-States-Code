@@ -40,7 +40,7 @@ Oct. 28, 1977, Pub. L. 95–147, §1, 91 Stat. 1227.
 
 31:1038(last sentence).
 
-In subsection (a), before clause (1), the words “To manage United States cash” are substituted for “for cash management purposes” for clarity. In clause (1), the words “as security for tax and loan accounts” are omitted as unnecessary. In clause (2), the words “agencies of the United States” are omitted as being included in “the Government”.
+In subsection (a), before clause (1), the words “To manage United States cash” are substituted for “forcash management purposes” for clarity. In clause (1), the words “as security for tax and loan accounts” are omitted as unnecessary. In clause (2), the words “agencies of the United States” are omitted as being included in “the Government”.
 
 In subsection (c), the words “Investments in obligations of depositaries maintaining such accounts” and “rates of interest” (the 2d time they appear) are omitted as unnecessary because of the restatement.
 

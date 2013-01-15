@@ -6,7 +6,7 @@ In order to preserve and interpret the Battle of Glorieta for the benefit and en
 
 #### (b) Administration
 
-The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle ofGlorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (c) Acquisition
 
@@ -36,7 +36,7 @@ Section was enacted as part of the Pecos National Historical Park Expansion Act 
 
 #### Findings and Purpose
 
-Section 2 of Pub. L. 101–536 provided that:
+Pub. L. 101–536, §2, Nov. 8, 1990, 104 Stat. 2368, provided that:
 
 “(a)
 
@@ -46,7 +46,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(2) the battle was significant because the Confederate defeat at Glorieta Pass resulted in the collapse of the Confederacy's plan to capture the riches and support of the West, thus largely ending the Civil War in the West; and
 
-&emsp;“(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currently within the boundary of Pecos National Historical Park.
+&emsp;“(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currentlywithin the boundary of Pecos National Historical Park.
 
 “(b)
 

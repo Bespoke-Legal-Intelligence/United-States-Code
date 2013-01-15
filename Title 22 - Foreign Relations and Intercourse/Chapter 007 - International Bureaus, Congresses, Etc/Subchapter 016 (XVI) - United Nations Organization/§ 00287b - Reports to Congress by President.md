@@ -168,7 +168,7 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7)
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
 
-Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
+Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively,and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
 
 Subsec. (e). Pub. L. 107–228, §405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -200,7 +200,7 @@ Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed Pr
 
 #### Designated Congressional Committees
 
-Section 415 of Pub. L. 103–236 provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.”
+Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.”
 
 #### Report on Policies Pursued by Other Countries in International Organizations
 

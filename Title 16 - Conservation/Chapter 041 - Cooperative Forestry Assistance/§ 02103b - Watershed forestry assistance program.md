@@ -24,7 +24,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 &emsp;&emsp;(A) to build and strengthen watershed partnerships that focus on forested landscapes at the State, regional, and local levels;
 
-&emsp;&emsp;(B) to provide State forestry best-management practices and water quality technical assistance directly to owners of nonindustrial private forest land;
+&emsp;&emsp;(B) to provide State forestry best-management practices and water quality technicalassistance directly to owners of nonindustrial private forest land;
 
 &emsp;&emsp;(C) to provide technical guidance to land managers and policymakers for water quality protection through forest management;
 
@@ -80,7 +80,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (ii) Other Federal funds
 
-&emsp;&emsp;&emsp;The percentage of the cost of a project described in clause (i) that is not coveredby funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
+&emsp;&emsp;&emsp;The percentage of the cost of a project described in clause (i) that is not covered by funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
 
 #### (B) Form
 
@@ -126,7 +126,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (1) In general
 
-&emsp;Participation of an owner of nonindustrial private forest land in the watershed forestry assistance program under this section is voluntary.
+&emsp;Participation of an owner of nonindustrial private forest land in the watershed forestryassistance program under this section is voluntary.
 
 #### (2) Written consent
 

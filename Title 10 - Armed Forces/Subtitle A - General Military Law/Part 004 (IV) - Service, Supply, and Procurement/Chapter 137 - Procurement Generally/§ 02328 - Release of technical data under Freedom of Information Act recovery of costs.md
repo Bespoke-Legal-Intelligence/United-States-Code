@@ -50,9 +50,9 @@ Subsec. (c)(3). Pub. L. 100–26, §7(a)(7)(A)(iii), substituted “section 552(
 
 #### Effective Date of 1987 Amendment
 
-Section 12(d)(2) of Pub. L. 100–26 provided that: “The amendment to section 2328 of such title made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b)of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\].”
+Pub. L. 100–26, §12(d)(2), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendment to section 2328 of such title made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\].”
 
 #### Effective Date
 
-Section 101(c) \[title X, §954(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 954(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Pub. L. 99–500, §101(c) \[title X, §954(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, Pub. L. 99–591, §101(c) \[title X, §954(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173, and Pub. L. 99–661, div. A, title IX, formerly title IV, §954(b), Nov. 14, 1986, 100 Stat. 3953, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 

@@ -2,7 +2,7 @@
 
 #### (a) Considerations for determining establishment of trails
 
-In order to provide for the ever-increasing outdoor recreation needs of an expanding population and in order to promote the preservation of, public access to, travel within, and enjoyment and appreciation of the open-air, outdoor areas and historic resources of the Nation, trails should be established (i) primarily, near the urban areas of the Nation, and (ii) secondarily,within scenic areas and along historic travel routes of the Nation, which are often more remotely located.
+In order to provide for the ever-increasing outdoor recreation needs of an expanding population and in order to promote the preservation of, public access to, travel within, and enjoyment and appreciation of the open-air, outdoor areas and historic resources of the Nation, trails should be established (i) primarily, near the urban areas of the Nation, and (ii) secondarily, within scenic areas and along historic travel routes of the Nation, which are often more remotely located.
 
 #### (b) Initial components
 
@@ -78,17 +78,17 @@ Pub. L. 100–187, §1, Dec. 11, 1987, 101 Stat. 1287, provided that: “This Ac
 
 #### Short Title of 1983 Amendment
 
-Section 201 of title II of Pub. L. 98–11 provided that: “This title \[enacting sections 1250 and 1251 of this title and amending this section and sections 1242 to 1247 and 1249 of this title\] may be cited as the ‘National Trails System Act Amendments of 1983’.”
+Pub. L. 98–11, title II, §201, Mar. 28, 1983, 97 Stat. 42, provided that: “This title \[enacting sections 1250 and 1251 of this title and amending this section and sections 1242 to 1247 and 1249 of this title\] may be cited as the ‘National Trails System Act Amendments of 1983’.”
 
 #### Short Title
 
-Section 1 of Pub. L. 90–543 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Trails System Act’.”
+Pub. L. 90–543, §1, Oct. 2, 1968, 82 Stat. 919, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Trails System Act’.”
 
 #### Ex. Ord. No. 13195. Trails for America in the 21st Century
 
 Ex. Ord. No. 13195, Jan. 18, 2001, 66 F.R. 7391, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendments note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operating America's national system of trails, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendment note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operating America's national system of trails, it is hereby ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent permitted by law and where practicable—and in cooperation with Tribes, States, local governments, and interested citizen groups—protect, connect, promote, and assist trails of all types throughout the United States. This will be accomplished by:
 
@@ -114,7 +114,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent pe
 
 (k) Providing historical interpretation of trails and trail sites and enhancing cultural and heritage tourism through special events, artworks, and programs; and
 
-(<i>l</i>) Providing training and information services to provide high-quality information and training opportunities to Federal employees, Tribal, State, and local government agencies, and the other trail partners.
+(l) Providing training and information services to provide high-quality information and training opportunities to Federal employees, Tribal, State, and local government agencies, and the other trail partners.
 
 Sec. 2. <i>The Federal Interagency Council on Trails</i>. The Federal Interagency Council on Trails (Council), first established by agreement between the Secretaries of Agriculture and the Interior in 1969, is hereby recognized as a long-standing interagency working group. Its core members represent the Department of the Interior's Bureau of Land of \[sic\] Management and National Park Service, the Department of Agriculture's Forest Service, and the Department of Transportation's Federal Highway Administration. Other Federal agencies, such as those representing cultural and heritage interests, are welcome to join this council. Leadership of the Council may rotate among its members as decided among themselves at the start of each fiscal year. The Council's mission is to coordinate information and program decisions, as well as policy recommendations, among all appropriate Federal agencies (in consultation with appropriate nonprofit organizations) to foster the development of America's trails through the following means:
 

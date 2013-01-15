@@ -26,5 +26,5 @@ Subsection (a) of this section shall apply to contracts entered into, amended, a
 
 #### Codification
 
-Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
+Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act,and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
 

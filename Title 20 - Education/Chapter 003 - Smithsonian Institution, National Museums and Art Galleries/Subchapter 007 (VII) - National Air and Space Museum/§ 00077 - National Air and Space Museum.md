@@ -14,11 +14,11 @@ The Secretary of the Smithsonian Institution, with the advice of the board, may 
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–509, §2, changed the name of the museum from the National Air Museum to the National Air and Space Museum, expanded the advisory board to include additional members including the Chief of Staff of the Army, the Commandant of the Marine Corps, the Commandant of the Coast Guard, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Federal Aviation Agency, and an additional member appointed from civilian life to serve at the pleasure of the President, and provided for reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
-Subsec. (b). Pub. L. 89–509, §3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of themuseum shall not be subject to the Classification Act of 1923, as amended.
+Subsec. (b). Pub. L. 89–509, §3, substituted “national air and space museum” for “national air museum” and struck out provision that the salary of the head of the museum shall not be subject to the Classification Act of 1923, as amended.
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–509 provided: “That this Act \[amending this section, sections 77a, 77c, and 77d of this title, and provisions set out as notes under this section and sections 77b and 77d of this title, and repealing section 77b of this title\] may be cited as ‘the National Air Museum Amendments Act of 1965’.”
+Pub. L. 89–509, §1, July 19, 1966, 80 Stat. 310, provided: “That this Act \[amending this section, sections 77a, 77c, and 77d of this title, and provisions set out as notes under this section and sections 77b and 77d of this title, and repealing section 77b of this title\] may be cited as ‘the National Air Museum Amendments Act of 1965’.”
 
 #### Transfer of Functions
 
@@ -30,7 +30,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Appropriations
 
-Section 6 of act Aug. 12, 1946, as amended by section 10 of Pub. L. 89–509, provided that: “There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act \[this subchapter\] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses.”
+Act Aug. 12, 1946, ch. 955, §6, 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, §10, July 19, 1966, 80 Stat. 311, provided that: “There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act \[this subchapter\] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses.”
 
 #### Construction of Museum Center
 
@@ -58,5 +58,5 @@ Pub. L. 103–57, Aug. 2, 1993, 107 Stat. 279, provided that:
 
 #### Ratification of Compensation Paid Head of Museum
 
-Section 11 of Pub. L. 89–509 provided that: “Payments of compensation heretofore made to the head of the National Air Museum at rates fixed by the Secretary of the Smithsonian Institution without regard to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] are hereby ratified and affirmed.”
+Pub. L. 89–509, pt. I, §11, July 19, 1966, 80 Stat. 311, provided that: “Payments of compensation heretofore made to the head of the National Air Museum at rates fixed by the Secretary of the Smithsonian Institution without regard to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] are hereby ratified and affirmed.”
 

@@ -6,5 +6,5 @@ In all suits and proceedings other than criminal arising under any of the revenu
 
 #### Constitutionality
 
-This section held unconstitutional as applied to a suit to enforce a forfeiture decided to be criminal in its nature in <i>Boyd v. U.S</i>. ((1886), 116 U.S. 616, 6 S. Ct. 524, 29 U.S. (L. Ed.) 746.)
+For constitutionality of section 5 of act June 22, 1874, ch. 391, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 

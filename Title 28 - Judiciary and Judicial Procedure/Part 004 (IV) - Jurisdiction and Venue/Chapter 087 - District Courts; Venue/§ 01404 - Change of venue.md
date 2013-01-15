@@ -40,7 +40,7 @@ Amendment by Pub. L. 112–63 effective upon the expiration of the 30-day period
 
 #### Effective Date of 1996 Amendment
 
-Section 610(c) of Pub. L. 104–317 provided that: “The amendments made by this section \[amending this section and section 1406 of this title\] apply to cases pending on the date of the enactment of this Act \[Oct. 19, 1996\] and to cases commenced on or after such date.”
+Pub. L. 104–317, title VI, §610(c), Oct. 19, 1996, 110 Stat. 3861, provided that: “The amendments made by this section \[amending this section and section 1406 of this title\] apply to cases pending on the date of the enactment of this Act \[Oct. 19, 1996\] and to cases commenced on or after such date.”
 
 #### Effective Date of 1962 Amendment
 

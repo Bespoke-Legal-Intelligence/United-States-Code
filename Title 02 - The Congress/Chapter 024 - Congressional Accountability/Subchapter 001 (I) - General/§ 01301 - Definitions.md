@@ -100,7 +100,7 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
 #### Short Title
 
-Section 1(a) of Pub. L. 104–1 provided that: “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
+Pub. L. 104–1, §1(a), Jan. 23, 1995, 109 Stat. 3, provided that: “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
 
 #### Construction of 2010 Amendment
 

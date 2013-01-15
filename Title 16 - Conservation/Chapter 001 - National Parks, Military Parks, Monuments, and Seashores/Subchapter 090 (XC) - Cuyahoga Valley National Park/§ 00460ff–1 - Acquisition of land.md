@@ -40,7 +40,7 @@ In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearing and “The park” for “The recreation area” in subsec. (a).
+<b>2000</b>—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearingand “The park” for “The recreation area” in subsec. (a).
 
 Subsec. (a). Pub. L. 106–291, §149(b), substituted “The park shall” for “The recreational area shall” and “National Park” for “National Recreation Area”.
 

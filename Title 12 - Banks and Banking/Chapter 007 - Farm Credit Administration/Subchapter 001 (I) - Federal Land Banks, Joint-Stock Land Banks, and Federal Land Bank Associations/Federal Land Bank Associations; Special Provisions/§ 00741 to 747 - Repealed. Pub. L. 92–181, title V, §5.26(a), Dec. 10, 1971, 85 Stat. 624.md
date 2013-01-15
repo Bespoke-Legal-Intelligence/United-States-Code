@@ -14,5 +14,5 @@ Section 745, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; June 3, 19
 
 Section 746, act July 17, 1916, ch. 245, title I, §9 (par.) as added Aug. 19, 1937, ch. 704, §25(a), 50 Stat. 710; amended Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for a common board of directors for two or more associations. See section 2032 of this title.
 
-Section 747 act July 17, 1916, ch. 245, title I, §9 (par.), as added Aug. 19, 1937, ch. 704, §25(a), 50 Stat. 711; amended Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for transfer of powers to a loan committee. See section 2033 of this title.
+Section 747, act July 17, 1916, ch. 245, title I, §9 (par.), as added Aug. 19, 1937, ch. 704, §25(a), 50 Stat. 711; amended Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for transfer of powers to a loan committee. See section 2033 of this title.
 

@@ -72,11 +72,11 @@ Subsec. (b)(5). Pub. L. 101–280 added par. (5).
 
 Pub. L. 109–432, div. A, title IV, §418(c), Dec. 20, 2006, 120 Stat. 2967, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after the date of enactment of this Act \[Dec. 20, 2006\].”
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
-Section 11703(a)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales after November 30, 1989.”
+Pub. L. 101–508, title XI, §11703(a)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales after November 30, 1989.”
 
-Section 6(a)(3) of Pub. L. 101–280 provided that: “The amendment made by paragraph (1) \[amending this section\] and the provisions of paragraph (2) \[set out below\] shall apply to sales after November 30, 1989.”
+Pub. L. 101–280, §6(a)(3), May 4, 1990, 104 Stat. 160, provided that: “The amendment made by paragraph (1) \[amending this section\] and the provisions of paragraph (2) \[set out below\] shall apply to sales after November 30, 1989.”
 
 #### Effective Date
 
@@ -84,13 +84,13 @@ Section applicable to sales after Nov. 30, 1989, see section 502(c) of Pub. L. 1
 
 #### Property Sold Before June 19, 1990
 
-Section 6(a)(2) of Pub. L. 101–280 provided that:
+Pub. L. 101–280, §6(a)(2), May 4, 1990, 104 Stat. 160, provided that:
 
 “(A) For purposes of section 1043 of such Code—
 
 &emsp;“(i) any property sold before June 19, 1990, shall be treated as sold pursuant to a certificate of divestiture (as defined in subsection (b)(2) thereof) if such a certificate is issued with respect to such sale before such date, and
 
-&emsp;“(ii) in any such case, the 60-day period referred to in subsection (a) thereof shall not expire before theend of the 60-day period beginning on the date on which the certificate of divestiture was issued.
+&emsp;“(ii) in any such case, the 60-day period referred to in subsection (a) thereof shall not expire before the end of the 60-day period beginning on the date on which the certificate of divestiture was issued.
 
 “(B) Notwithstanding subparagraph (A), section 1043 of such Code shall not apply to any sale before April 19, 1990, unless—
 

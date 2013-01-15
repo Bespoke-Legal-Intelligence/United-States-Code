@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize,as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -34,7 +34,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 #### (d) Federal and State cooperation
 
-(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission, could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
+(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission,could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
 
 (2) It is the declared policy of this subsection that there should be greater Federal and State cooperation in securities matters, including—
 
@@ -62,7 +62,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(A) any association referred to in paragraph (1) or (3) or any conference or meeting referred to in paragraph (4), while such association, conference, or meeting is carrying out activities in furtherance of the provisions of this subsection; or
 
-&emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, orgroup is carrying out activities in furtherance of the provisions of such section 80c–1.
+&emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
 
 > As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
@@ -84,7 +84,7 @@ For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action
 
 #### (1) In general
 
-&emsp;The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>–4), require a national securities association registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to establish—
+&emsp;The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4), require a national securities association registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to establish—
 
 &emsp;&emsp;(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the “GASB”); and
 
@@ -96,7 +96,7 @@ For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action
 
 #### (3) Use of funds
 
-&emsp;Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicable to State and local governments of the United States.
+&emsp;Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicableto State and local governments of the United States.
 
 #### (4) Limitation on fee
 
@@ -148,7 +148,7 @@ Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1980 Amendment
 

@@ -36,7 +36,7 @@ This section shall not make unlawful the use of the word “national” as part 
 
 A violation of this section may be enjoined at the suit of the United States Attorney, upon complaint by any duly authorized representative of any department or agency of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 21, 1950, ch. 967, §3(a), 64 Stat. 894; Oct. 31, 1951, ch. 655, §22, 65 Stat. 719; July 3, 1952, ch. 547, 66 Stat. 321; Aug. 2, 1954, ch. 649, title I, §131, 68 Stat. 609; Aug. 27, 1954, ch. 1008, 68 Stat. 867; Pub. L. 90–19, §24(b), May 25, 1967, 81 Stat. 27; Pub. L. 90–448, title VIII, §807(i), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–468, §5, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 95–630, title XVIII, §1804, Nov. 10, 1978, 92 Stat. 3723; Pub. L. 99–204, §16, Dec. 23, 1985, 99 Stat. 1676; Pub. L. 100–690, title VII, §7079(a), Nov. 18, 1988, 102 Stat. 4406; Pub. L. 102–390, title II, §223, Oct. 6, 1992, 106 Stat. 1629; Pub. L. 103–322, title XXXII, §320911(a), title XXXIII, §§330004(3), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2127, 2141, 2148; Pub. L. 104–294, title VI, §§602(a), 604(b)(19), (41), Oct. 11, 1996, 110 Stat. 3503, 3507, 3509; Pub. L. 105–184, §7, June 23, 1998, 112 Stat. 522; Pub. L.107–273, div. B, title IV, §4002(a)(10), Nov. 2, 2002, 116 Stat. 1807.)
+(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 21, 1950, ch. 967, §3(a), 64 Stat. 894; Oct. 31, 1951, ch. 655, §22, 65 Stat. 719; July 3, 1952, ch. 547, 66 Stat. 321; Aug. 2, 1954, ch. 649, title I, §131, 68 Stat. 609; Aug. 27, 1954, ch. 1008, 68 Stat. 867; Pub. L. 90–19, §24(b), May 25, 1967, 81 Stat. 27; Pub. L. 90–448, title VIII, §807(i), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–468, §5, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 95–630, title XVIII, §1804, Nov. 10, 1978, 92 Stat. 3723; Pub. L. 99–204, §16, Dec. 23, 1985, 99 Stat. 1676; Pub. L. 100–690, title VII, §7079(a), Nov. 18, 1988, 102 Stat. 4406; Pub. L. 102–390, title II, §223, Oct. 6, 1992, 106 Stat. 1629; Pub. L. 103–322, title XXXII, §320911(a), title XXXIII, §§330004(3), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2127, 2141, 2148; Pub. L. 104–294, title VI, §§602(a), 604(b)(19), (41), Oct. 11, 1996, 110 Stat. 3503, 3507, 3509; Pub. L. 105–184, §7, June 23, 1998, 112 Stat. 522; Pub. L. 107–273, div. B, title IV, §4002(a)(10), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Pub. L. 104–294, §602(a), which directed amendment of this section by strikin
 
 Pub. L. 103–322, §330004(3), struck out seventh par. which read as follows: “Whoever uses the words ‘National Agricultural Credit Corporation’ as part of the business or firm name of a person, corporation, partnership, business trust, association or other business entity not organized under the laws of the United States as a National Agricultural Credit Corporation; or”.
 
-Pub. L. 103–322, §330004(3), as amended by Pub. L. 104–294, §604(b)(41), struck out fourteenth par. which read as follows: “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”.
+Pub. L. 103–322, §330004(3), as amended by Pub. L. 104–294, §604(b)(41), struck out fourteenth par. whichread as follows: “Whoever uses as a firm or business name the words ‘Reconstruction Finance Corporation’ or any combination or variation of these words—”.
 
 Pub. L. 103–322, §320911(a)(2), as amended by Pub. L. 104–294, §604(b)(19), which directed the insertion of a new par. relating to use of the words “Drug Enforcement Administration” or the initials “DEA” after the fourteenth unnumbered par. was executed by inserting such par. after the twelfth par. relating to the Overseas Private Investment Corporation, to reflect the probable intent of Congress and amendments by Pub. L. 103–322, §330004(3). See above.
 
@@ -94,7 +94,7 @@ Pub. L. 103–322, §320911(a)(1), as amended by Pub. L. 104–294, §604(b)(19)
 
 <b>1985</b>—Pub. L. 99–204 extended prohibitions of this section to use of “Overseas Private Investment”, “Overseas Private Investment Corporation” and “OPIC”.
 
-<b>1978</b>—Pub. L. 95–630 in fourth par., inserted provisions expanding the scope of the prohibition to include anyone, other than a bona fide organization or association of Federal or State credit unions or except as permittedby the laws of the United States, who misuses a firm or business name or transacts business using “National Credit Union”, “National Credit Union Administration”, “National Credit Union Board”, “National Credit Union Share Insurance Fund”, “Share Insurance”, or “Central Liquidity Facility”, or “NCUA”, “NCUSIF”, or “CLF”, or any other combination or variation of those words or letters reasonably calculated to convey the false impression that such name or business has some connection with or authorization from the National Credit Union Administration, the Government of the United States, or any agency thereof or represents by any device whatsoever that his business, product, or service is in any way endorsed, authorized, or approved or that he is in any way insured by the National Credit Union Administration, the Government of the United States, or any agency thereof.
+<b>1978</b>—Pub. L. 95–630 in fourth par., inserted provisions expanding the scope of the prohibition to include anyone, other than a bona fide organization or association of Federal or State credit unions or except as permitted by the laws of the United States, who misuses a firm or business name or transacts business using “National Credit Union”, “National Credit Union Administration”, “National Credit Union Board”, “National Credit Union Share Insurance Fund”, “Share Insurance”, or “Central Liquidity Facility”, or “NCUA”, “NCUSIF”, or “CLF”, or any other combination or variation of those words or letters reasonably calculated to convey the false impression that such name or business has some connection with or authorization from the National Credit Union Administration, the Government of the United States, or any agency thereof or represents by any device whatsoever that his business, product, or service is in any way endorsed, authorized, or approved or that he is in any way insured by the National Credit Union Administration, the Government of the United States, or any agency thereof.
 
 <b>1970</b>—Pub. L. 91–468 extended prohibition of this section to include practices which would falsely represent that assets are insured by the Federal Credit Union Act.
 
@@ -118,11 +118,11 @@ Amendment by section 604(b)(19), (41) of Pub. L. 104–294 effective Sept. 13, 1
 
 #### Effective Date of 1994 Amendment
 
-Section 320911(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date that is 90 days after the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title XXXII, §320911(b), Sept. 13, 1994, 108 Stat. 2128, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date that is 90 days after the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 7079(b) of Pub. L. 100–690 provided that: “This section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7079(b), Nov. 18, 1988, 102 Stat. 4406, provided that: “This section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 
 #### Effective Date of 1950 Amendment
 
-Section 3(b) of act Sept. 21, 1950, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall become effective on January 1, 1951.”
+Act Sept. 21, 1950, ch. 967, §3(b), 64 Stat. 894, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall become effective on January 1, 1951.”
 
 #### Transfer of Functions
 

@@ -81,7 +81,7 @@
 
 <b>2010</b>—Pub. L. 111–275, title II, §202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
 
-<b>2008</b>—Pub. L. 110–387, title VI, §§602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
+<b>2008</b>—Pub. L. 110–387, title VI, §§602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral andcounseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
 
 
 ---

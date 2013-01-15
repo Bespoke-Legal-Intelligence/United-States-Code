@@ -4,7 +4,7 @@
 
 (b)(1) In the case of an individual entitled to basic educational assistance who is pursuing education or training described in subsection (a) or (c) of section 2007 of title 10, the Secretary shall, at the election of the individual, pay the individual a basic educational assistance allowance to meet all or a portion of the charges of the educational institution for the education or training that are not paid by the Secretary of the military department concerned under such subsection.
 
-(2)(A) The amount of the basic educational assistance allowance payable to an individualunder this subsection for a month shall be the amount of the basic educational assistance allowance to which the individual would be entitled for the month under section 3015 of this title.
+(2)(A) The amount of the basic educational assistance allowance payable to an individual under this subsection for a month shall be the amount of the basic educational assistance allowance to which the individual would be entitled for the month under section 3015 of this title.
 
 (B) The maximum number of months for which an individual may be paid a basic educational assistance allowance under paragraph (1) is 36.
 

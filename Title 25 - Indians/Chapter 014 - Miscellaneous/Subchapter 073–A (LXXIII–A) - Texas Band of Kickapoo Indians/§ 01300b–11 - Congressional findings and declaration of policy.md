@@ -12,7 +12,7 @@ Congress therefore declares that the Band should be recognized by the United Sta
 
 #### Short Title
 
-Section 1 of Pub. L. 97–429 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Texas Band of Kickapoo Act’.”
+Pub. L. 97–429, §1, Jan. 8, 1983, 96 Stat. 2269, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Texas Band of Kickapoo Act’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

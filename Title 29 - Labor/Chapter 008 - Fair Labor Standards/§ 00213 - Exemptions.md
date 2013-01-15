@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under acontract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -66,7 +66,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city ortown of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -110,7 +110,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
 
-&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in anational park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(30) a criminal investigator who is paid availability pay under section 5545a of title 5.
 
@@ -254,7 +254,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (d) Delivery of newspapers and wreathmaking
 
-The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens orother forest products used in making such wreaths).
+The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
 
 #### (e) Maximum hour requirements and minimum wage employees
 
@@ -304,7 +304,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 &emsp;&emsp;(B) in excess of forty-eight hours in any workweek,
 
-> &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
+> &emsp;compensation at a rate not less than one and one-half times the regular rate at which he isemployed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
 #### (j) Processing of sugar beets, sugar beet molasses, or sugar cane
 
@@ -426,7 +426,7 @@ Subsec. (b)(24). Pub. L. 93–259, §17, added par. (24).
 
 Subsec. (b)(25). Pub. L. 93–259, §20(b)(1), added par. (25) effective May 1, 1974. Pub. L. 93–259, §20(b)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two” in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not more than two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(b)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
 
-Subsec. (b)(26). Pub. L. 93–259, §20(c)(1), added par. (26) effective May 1, 1974. Pub. L. 93–259, §20(c)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two” in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not more than two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(c)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
+Subsec. (b)(26). Pub. L. 93–259, §20(c)(1), added par. (26) effective May 1, 1974. Pub. L. 93–259, §20(c)(2), effective Jan. 1, 1975, substituted “sixty-six” for “seventy-two”in subpar. (A), “sixty” for “sixty-four” in subpar. (B), and “forty-six hours in any workweek for not more than two workweeks in that year, and” for “forty-eight hours in any other workweek in that year,” in subpar. (D), and added subpar. (E). Pub. L. 93–259, §20(c)(3), effective Jan. 1, 1976, substituted “sixty” for “sixty-six”, “fifty-six” for “sixty”, “forty-eight” for “fifty”, “forty-four” for “forty-six”, and “forty” for “forty-four”.
 
 Subsec. (b)(27). Pub. L. 93–259, §23(a)(2), added par. (27).
 
@@ -490,7 +490,7 @@ Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which 
 
 Subsec. (b)(12) to (19). Pub. L. 89–601, §§203(c)(B), 204(b), 206(b)(2), 210(b), added pars. (12) to (19).
 
-Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
+Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 of this title relating to child labor applicable to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularlyhazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.
 
 Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwajalein Atoll, and Johnston Island.
 
@@ -498,7 +498,7 @@ Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwaj
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packingsuch marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof”. See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof”. See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted “Secretary” for “Administrator”.
 
@@ -586,7 +586,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Section 14(a), (b) of Pub. L. 95–151 provided that the amendments by that section are effective Jan. 1, 1978, and Jan. 1, 1979, respectively.
+Pub. L. 95–151, §14(a), (b), Nov. 1, 1977, 91 Stat. 1252, provided that the amendments made by subsecs. (a) and (b) of section 14 are effective Jan. 1, 1978, and Jan. 1, 1979, respectively.
 
 Amendment by sections 4 to 7 of Pub. L. 95–151 effective Jan. 1, 1978, see section 15(a) of Pub. L. 95–151, set out as a note under section 203 of this title.
 
@@ -594,27 +594,27 @@ Amendment by sections 8, 9(d), and 11 of Pub. L. 95–151 effective on Nov. 1, 1
 
 #### Effective Date of 1974 Amendment
 
-Section 6(c)(2)(A), (B) of Pub. L. 93–259 provided that the amendments made by that section are effective May 1, 1974, and Jan. 1, 1975, respectively.
+Pub. L. 93–259, §6(c)(2)(B), Apr. 8, 1974, 88 Stat. 61, provided that the amendment made by section 6(c)(2)(B) is effective Jan. 1, 1975.
 
-Section 8(a)–(c) of Pub. L. 93–259 provided that the amendments made by that section are effective Jan. 1, 1975, 1976, and 1977, respectively.
+Pub. L. 93–259, §8(a)–(c), Apr. 8, 1974, 88 Stat. 62, provided that the amendments made by subsecs. (a), (b), and (c) of section 8 are effective Jan. 1, 1975, 1976, and 1977, respectively.
 
-Section 10(b)(2), (3) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
+Pub. L. 93–259, §10(b)(2), (3), Apr. 8, 1974, 88 Stat. 63, 64, provided that the amendment and repeal made by pars. (2) and (3) of section 10(b) are effective one year and two years after May 1, 1974, respectively.
 
-Section 11(b), (c) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
+Pub. L. 93–259, §11(b), (c), Apr. 8, 1974, 88 Stat. 64, provided that the amendment and repeal made by subsecs. (b) and (c) of section 11 are effective one year and two years after May 1, 1974, respectively.
 
-Section 13(b)–(d) of Pub. L. 93–259 provided that the amendments made by that section are effective one year, two years, and three years after May 1, 1974, respectively.
+Pub. L. 93–259, §13(b)–(d), Apr. 8, 1974, 88 Stat. 64, provided that the amendments made by subsecs. (b), (c), and (d) of section 13 are effective one year, two years, and three years after May 1, 1974, respectively.
 
-Section 15(b), (c) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
+Pub. L. 93–259, §15(b), (c), Apr. 8, 1974, 88 Stat. 65, provided that the amendment and repeal made by subsecs. (b) and (c) of section 15 are effective one year and two years after May 1, 1974, respectively.
 
-Section 16(a), (b) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
+Pub. L. 93–259, §16(a), (b), Apr. 8, 1974, 88 Stat. 65, provided that the amendment and repeal made by subsecs. (a) and (b) of section 16 are effective one year and two years after May 1, 1974, respectively.
 
-Section 20(b)(2), (3) of Pub. L. 93–259 provided that the amendments made by that section are effective Jan. 1, 1975, and 1976, respectively.
+Pub. L. 93–259, §20(b)(2), (3), Apr. 8, 1974, 88 Stat. 67, provided that the amendments made by pars. (2) and (3) of section 20(b) are effective Jan. 1, 1975, and 1976, respectively.
 
-Section 20(c)(2), (3) of Pub. L. 93–259 provided that the amendments made by that section are effective Jan. 1, 1975, and 1976, respectively.
+Pub. L. 93–259, §20(c)(2), (3), Apr. 8, 1974, 88 Stat. 67, 68, provided that the amendments made by pars. (2) and (3) of section 20(c) are effective Jan. 1, 1975, and 1976, respectively.
 
-Section 21(b)(2), (3) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
+Pub. L. 93–259, §21(b)(2), (3), Apr. 8, 1974, 88 Stat. 68, provided that the amendment and repeal made by pars. (2) and (3) of section 21(b) are effective one year and two years after May 1, 1974, respectively.
 
-Amendment by sections 7(b)(3), (4), 9(b), 10(a), (b)(1), 11(a), 12(a), 13(a), 14, 15(a), 17, 18, 20(a), (b)(1), (c)(1), 21(b)(1), 22, 23, and 25(b) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
+Amendment by sections 6(c)(2)(A), 7(b)(3), (4), 9(b), 10(a), (b)(1), 11(a), 12(a), 13(a), 14, 15(a), 17, 18, 20(a), (b)(1), (c)(1), 21(b)(1), 22, 23, and 25(b) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
 
 #### Effective Date of 1966 Amendments
 
@@ -628,7 +628,7 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 
 #### Effective Date of 1957 Amendment
 
-Pub. L. 85–231, §2, provided that: “The amendments made by this Act \[amending this section and sections 216 and 217 of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Aug. 30, 1957\].”
+Pub. L. 85–231, §2, Aug. 30, 1957, 71 Stat. 514, provided that: “The amendments made by this Act \[amending this section and sections 216 and 217 of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Aug. 30, 1957\].”
 
 #### Effective Date of 1949 Amendment
 
@@ -642,7 +642,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Exemptions for Apprentices and Student Learners
 
-Section 3 of Pub. L. 104–174 provided that: “Section 1 \[amending this section\] shall not be construed as affecting the exemption for apprentices and student learners published in section 570.63 of title 29, Code of Federal Regulations.”
+Pub. L. 104–174, §3, Aug. 6, 1996, 110 Stat. 1555, provided that: “Section 1 \[amending this section\] shall not be construed as affecting the exemption for apprentices and student learners published in section 570.63 of title 29, Code of Federal Regulations.”
 
 #### Regulations Concerning Computer, Software, and Other Similarly Skilled Professionals
 
@@ -650,11 +650,11 @@ Pub. L. 101–583, §2, Nov. 15, 1990, 104 Stat. 2871, provided that: “Not lat
 
 #### Public Agency Employees in Fire Protection and Law Enforcement Activities; Studies in 1976 of 1975 Tours of Duty
 
-Section 6(c)(3) of Pub. L. 93–259 authorized Secretary of Labor to conduct a study in 1976 of average number of hours in tours of duty in work periods in 1975 of certain employees of public agencies employed in fire protection and law enforcement activities, and publish results of such studies in Federal Register.
+Pub. L. 93–259, §6(c)(3), Apr. 8, 1974, 88 Stat. 61, authorized Secretary of Labor to conduct a study in 1976 of average number of hours in tours of duty in work periods in 1975 of certain employees of public agencies employed in fire protection and law enforcement activities, and publish results of such studies in Federal Register.
 
 #### Pipeline Employees Under Subsec. (b)(2)
 
-Section 23(c) of Pub. L. 93–259 provided in part for amendment of subsec. (b)(2) of this section “insofar as it relates to pipeline employees”.
+Pub. L. 93–259, §23(c), Apr. 8, 1974, 88 Stat. 69, provided in part for amendment of subsec. (b)(2) of this section “insofar as it relates to pipeline employees”.
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
@@ -662,11 +662,11 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 
-Section 13 of Pub. L. 87–30 directed Secretary of Labor to study complicated system of exemptions available for handling and processing agricultural products under this chapter and complex problems involving rates of pay of certain employees exempted from provisions of this chapter, and submit results of his studies along with his recommendations for proposed legislation to second session of Eighty-seventh Congress.
+Pub. L. 87–30, §13, May 5, 1961, 75 Stat. 75, directed Secretary of Labor to study complicated system of exemptions available for handling and processing agricultural products under this chapter and complex problems involving rates of pay of certain employees exempted from provisions of this chapter, and submit results of his studies along with his recommendations for proposed legislation to second session of Eighty-seventh Congress.
 
 #### Transportation of Migrant Farm Workers
 
-Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\].”
+Act Aug. 3, 1956, ch. 905, §3, 70 Stat. 958, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall notapply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

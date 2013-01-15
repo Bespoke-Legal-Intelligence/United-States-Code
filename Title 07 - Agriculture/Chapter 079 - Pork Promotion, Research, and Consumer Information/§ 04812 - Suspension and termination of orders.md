@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-If after the initial referendum provided for in section 4811(a) of this title the Secretary determines that an order, or a provision of the order,obstructs or does not tend to effectuate the declared policy of this chapter, the Secretary shall terminate or suspend the operation of such order or provision.
+If after the initial referendum provided for in section 4811(a) of this title the Secretary determines that an order, or a provision of the order, obstructs or does not tend to effectuate the declared policy of this chapter, the Secretary shall terminate or suspend the operation of such order or provision.
 
 #### (b) Referendum to terminate or suspend; eligible voters; requirements for approval; termination or suspension date; one referendum within 2-year period
 

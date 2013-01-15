@@ -8,7 +8,7 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 This heading, referred to in text, refers to the headings “
 
-Cooperative State Research, Education, and Extension Service” and “
+Cooperative State Research, Education, andExtension Service” and “
 
 research and education activities” of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
 

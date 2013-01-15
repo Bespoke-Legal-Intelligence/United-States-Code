@@ -18,7 +18,7 @@ Except as provided in section 2297h–10a of this title, for purposes of this su
 
 &emsp;(8) The term “privatization” means the transfer of ownership of the Corporation to private investors.
 
-&emsp;(9) The term “privatization date” means the date on which 100 percent of the ownership of the Corporation has been transferred to private investors.
+&emsp;(9) The term “privatization date” means the date on which 100 percent of the ownership ofthe Corporation has been transferred to private investors.
 
 &emsp;(10) The term “public offering” means an underwritten offering to the public of the common stock of the private corporation pursuant to section 2297h–2 of this title.
 
@@ -64,7 +64,7 @@ Sec. 2. <i>Objectives</i>. The EOC shall monitor and coordinate United States Go
 
 Sec. 3. <i>Organization</i>. (a) The EOC shall be Chaired by a senior official from the National Security Council (NSC). The Chair shall coordinate the carrying out of the purposes and policy objectives of this order. The EOC shall meet as often as appropriate, but at least quarterly, and shall submit reports to the Assistant to the President for National Security Affairs semiannually, or more frequently as appropriate. The EOC shall prepare annually the report for the President's transmittal to the Congress pursuant to section 3112 of the USEC Privatization Act, Public Law 104–134, title III, 3112(b)(10), 110 Stat. 1321–344, 1321–346 (1996) \[42 U.S.C. 2297h–10(b)(10)\].
 
-(b) The EOC shall consist of representatives from the Departments of State, the Treasury, Defense, Justice, Commerce, Energy, and the Office of Management andBudget, the NSC, the National Economic Council, the Council of Economic Advisers, and the Intelligence Community. The EOC shall formulate internal guidelines for its operations, including guidelines for convening meetings.
+(b) The EOC shall consist of representatives from the Departments of State, the Treasury, Defense, Justice, Commerce, Energy, and the Office of Management and Budget, the NSC, the National Economic Council, the Council of Economic Advisers, and the Intelligence Community. The EOC shall formulate internal guidelines for its operations, including guidelines for convening meetings.
 
 (c) The EOC shall coordinate sharing of information and provide direction, while operational responsibilities resulting from the EOC's oversight activities will rest with EOC member agencies.
 

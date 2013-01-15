@@ -40,9 +40,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 #### Deadline for Prescribing Procedures
 
-Section 551(b) of Pub. L. 103–160 provided that: “The Secretary of Defense shall prescribe procedures to carry out section 1058 of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title V, §551(b), Nov. 30, 1993, 107 Stat. 1662, provided that: “The Secretary of Defense shall prescribe procedures to carry out section 1058 of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\].”
 

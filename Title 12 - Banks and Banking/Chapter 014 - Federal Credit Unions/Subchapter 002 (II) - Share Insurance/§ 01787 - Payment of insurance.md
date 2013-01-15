@@ -2,7 +2,7 @@
 
 #### (a) Liquidation by Board; bond; appointment of agent; fees to be fixed by Board
 
-(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
+(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankruptor insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
 (B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
@@ -18,7 +18,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;(ii) the credit union is critically undercapitalized, as defined in section 1790d of this title; and
 
-&emsp;(B) in the case of a State-chartered insured credit union, the Board has complied with section 1790d(<i>l</i>) of this title.
+&emsp;(B) in the case of a State-chartered insured credit union, the Board has complied with section 1790d(l) of this title.
 
 #### (b) Powers and duties of Board as conservator or liquidating agent
 
@@ -62,7 +62,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (E) Additional powers as liquidating agent
 
-&emsp;&emsp;The Board may, as liquidating agent, place the credit union in liquidation and proceedto realize upon the assets of the credit union, having due regard to the conditions of credit in the locality.
+&emsp;&emsp;The Board may, as liquidating agent, place the credit union in liquidation and proceed to realize upon the assets of the credit union, having due regard to the conditions of credit in the locality.
 
 #### (F) Payment of valid obligations
 
@@ -76,7 +76,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) Showing
 
-&emsp;&emsp;&emsp;Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (G) without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
+&emsp;&emsp;&emsp;Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (G) withoutregard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
 #### (ii) State proceeding
 
@@ -142,7 +142,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against acredit union is filed with the Board as liquidating agent, the Board shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against a credit union is filed with the Board as liquidating agent, the Board shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
 
 #### (ii) Extension of time
 
@@ -310,7 +310,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Payment of dividends on claims
 
-&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends on proved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure topay dividends to a claimant whose claim is not proved at the time of any such payment.
+&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends on proved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
 
 #### (11) Distribution of assets
 
@@ -402,7 +402,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Annual accounting or report
 
-&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, available to the Comptroller General of the United States or, in the case of a State-charteredcredit union, the authority which appointed the Board as conservator or liquidating agent.
+&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, available to the Comptroller General of the United States or, in the case of a State-chartered credit union, the authority which appointed the Board as conservator or liquidating agent.
 
 #### (C) Availability of reports
 
@@ -416,7 +416,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Old records
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i) the Board may destroy records of an insured credit union which are at least 10 years old as of the date on which the Board is appointed as liquidating agent of such credit union in accordance with clause (i) at any time after such appointment is final, without regard to the 6-year period of limitation contained in clause (i).
+&emsp;&emsp;&emsp;Notwithstanding clause (i) the Board may destroy records of an insured credit union which are at least 10 years old as ofthe date on which the Board is appointed as liquidating agent of such credit union in accordance with clause (i) at any time after such appointment is final, without regard to the 6-year period of limitation contained in clause (i).
 
 #### (16) Fraudulent transfers
 
@@ -572,7 +572,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) No liability after assignment and sale
 
-&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservatoror liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
+&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservator or liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
 
 #### (7) Provisions applicable to service contracts
 
@@ -720,13 +720,13 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
 
-&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement ortransaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 &emsp;&emsp;&emsp;&emsp;(III) any combination of agreements or transactions referred to in this clause;
 
 &emsp;&emsp;&emsp;&emsp;(IV) any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is nota swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in subclause (I), (II), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -766,7 +766,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Limited suspension of certain obligations
 
-&emsp;&emsp;&emsp;In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due froma party pursuant to the qualified financial contract shall be suspended from the time the liquidating agent is appointed until the earlier of—
+&emsp;&emsp;&emsp;In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due from a party pursuant to the qualified financial contract shall be suspended from the time the liquidating agent is appointed until the earlier of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the time such party receives notice that such contract has been transferred pursuant to subparagraph (A); or
 
@@ -824,7 +824,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(ii) the transfer includes any qualified financial contract,
 
-> &emsp;&emsp;the conservator or liquidating agent shall notify any person who is a party to any such contract of such transfer by 5:00 p.m. (eastern time) on the business day following the date of the appointment of the liquidatingagent in the case of a liquidation, or the business day following such transfer in the case of a conservatorship.
+> &emsp;&emsp;the conservator or liquidating agent shall notify any person who is a party to any such contract of such transfer by 5:00 p.m. (eastern time) on the business day following the date of the appointment of the liquidating agent in the case of a liquidation, or the business day following such transfer in the case of a conservatorship.
 
 #### (B) Certain rights not enforceable
 
@@ -838,7 +838,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Conservatorship
 
-&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidentalto the appointment of a conservator for the credit union or <sup>3</sup> the insolvency or financial condition of the credit union for which the conservator has been appointed).
 
 #### (iii) Notice
 
@@ -954,7 +954,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having madeany such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category of claimants.
+&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having made any such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category of claimants.
 
 #### (B) Manner of payment
 
@@ -990,27 +990,11 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (A) In general
 
-#### (i) Net amount of insurance payable
-
-&emsp;&emsp;&emsp;Subject to clause (ii) and the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under section 1821(a) of this title.
-
-#### (ii) Insurance for noninterest-bearing transaction accounts
-
-&emsp;&emsp;&emsp;Notwithstanding clause (i), the Board shall fully insure the net amount that any member or depositor at an insured credit union maintains in a noninterest-bearing transaction account. Such amount shall not be taken into account when computing the net amount due to such member or depositor under clause (i).
-
-#### (iii) Noninterest-bearing transaction account defined
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “noninterest-bearing transaction account” means an account or deposit maintained at an insured credit union—
-
-&emsp;&emsp;&emsp;&emsp;(I) with respect to which interest is neither accrued nor paid;
-
-&emsp;&emsp;&emsp;&emsp;(II) on which the account holder or depositor is permitted to make withdrawals by negotiable or transferable instrument, payment orders of withdrawal, telephone or other electronic media transfers, or other similar items for the purpose of making payments or transfers to third parties or others; and
-
-&emsp;&emsp;&emsp;&emsp;(III) on which the insured credit union does not reserve the right to require advance notice of an intended withdrawal.
+&emsp;&emsp;Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under section 1821(a) of this title.
 
 #### (B) Aggregation
 
-&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A)(i), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, thereshall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
+&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
 
 #### (C) Authority to define the extent of coverage
 
@@ -1076,13 +1060,13 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (D) Rule of construction
 
-&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than suchcredit union is authorized to accept under any other provision of Federal or State law.
+&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
 #### (5) Standard maximum share insurance amount defined
 
 &emsp;For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under section 1821(a)(1)(F) of this title.
 
-#### (<i>l</i>) Payment; discharge of liability
+#### (l) Payment; discharge of liability
 
 Payment of an insured account to any person by the Board shall discharge the Board to the same extent that payment to such person by the closed insured credit union would have discharged it from liability for the insured account.
 
@@ -1094,13 +1078,13 @@ Except as otherwise prescribed by the Board, the Board shall not be required to 
 
 The Board may withhold payment of such portion of the insured account of any member of a closed credit union as may be required to provide for the payment of any direct or indirect liability of such member to the closed credit union or its liquidating agent, which is not offset against a claim due from such credit union, pending the determination and payment of such liability by such member or any other person liable therefor.
 
-#### (<i>o</i>) Unclaimed insured accounts; limitations
+#### (o) Unclaimed insured accounts; limitations
 
 If, after the Board shall have given at least four months’ notice to the member by mailing a copy thereof to his last-known address appearing on the records of the closed credit union, any member of the closed credit union shall fail to claim his insured account from the Board within 18 months after the appointment of the liquidating agent for the closed credit union, all rights of the member against the Board with respect to the insured accounts shall be barred, and all rights of the member against the closed credit union, or the estate to which the Board may have become subrogated, shall thereupon revert to the member.
 
 #### (p) Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it
 
-(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permission from the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
+(1) Liquidating agents of insured credit unions closed for liquidation on account of bankruptcy or insolvency may offer the assets of such credit unions for sale to the Board or as security for loans from the Board, upon receiving permissionfrom the commission, board, or authority having supervision of such credit union, in the case of an insured State-chartered credit union, in accordance with express provisions of State law. The proceeds of every such sale or loan shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such credit unions. The Board, in its discretion, may make loans on the security of or may purchase and liquidate or sell any part of the assets of an insured credit union closed for liquidation on account of bankruptcy or insolvency, but in any case in which the Board is acting as liquidating agent of a closed insured credit union, no such loan or purchase shall be made without the approval of a court of competent jurisdiction.
 
 (2) No agreement which tends to diminish or defeat the right, title, or interest of the Board in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
 
@@ -1136,25 +1120,11 @@ If, after the Board shall have given at least four months’ notice to the membe
 
 The Board, as conservator or liquidating agent of any insured credit union and for purposes of carrying out any power, authority, or duty with respect to an insured credit union—
 
-&emsp;(1) may request the assistance of any foreign banking authority and provide assistance toany foreign banking authority in accordance with section 1786(u) of this title; and
+&emsp;(1) may request the assistance of any foreign banking authority and provide assistance to any foreign banking authority in accordance with section 1786(u) of this title; and
 
 &emsp;(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
 (June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, §301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, §2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, §1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545.)
-
-#### Amendment of Subsection (k)(1)
-
-<i>Pub. L. 111–203, title III, §343(b)(3), July 21, 2010, 124 Stat. 1545, provided that, effective January 1, 2013, subsection (k)(1) of this section is amended:</i>
-
-<i>(1) in subparagraph (A)—</i>
-
-<i>(A) by substituting “Subject to the provisions of paragraph (2), the net amount” for “(i)</i>
-
-<i>net amount of insurance payable.—” and all that follows through “paragraph (2), the net amount”; and</i>
-
-<i>(B) by striking out clauses (ii) and (iii); and</i>
-
-<i>(2) in subparagraph (B), by substituting “subparagraph (A)” for “subparagraph (A)(i)”.</i>
 
 #### References in Text
 
@@ -1172,9 +1142,13 @@ For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see section 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
+<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(3)(A), struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
 
-Subsec. (k)(1)(B). Pub. L. 111–203, §343(b)(1)(B), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+Pub. L. 111–203, §343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
+
+Subsec. (k)(1)(B). Pub. L. 111–203, §343(b)(3)(B), substituted “subparagraph (A)” for “subparagraph (A)(i)”.
+
+Pub. L. 111–203, §343(b)(1)(B), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
 
 Subsec. (k)(5). Pub. L. 111–203, §335(b), substituted “$250,000” for “$100,000”.
 
@@ -1318,7 +1292,7 @@ Subsec. (c). Pub. L. 101–73, §1217(a)(3), (4), added subsec. (c) and redesign
 
 Subsec. (d). Pub. L. 101–73, §1217(a)(2), (4), added subsec. (d) and struck out former subsec. (d) which provided for subrogation by the Board to all rights of a member against a closed credit union to the extent of the Board's payment to the member.
 
-Subsecs. (e) to (i). Pub. L. 101–73, §1217(a)(3), (4), added subsecs. (e) to (i) and redesignated former subsecs. (e) to (i) as (<i>l</i>) to (p), respectively.
+Subsecs. (e) to (i). Pub. L. 101–73, §1217(a)(3), (4), added subsecs. (e) to (i) and redesignated former subsecs. (e) to (i) as (l) to (p), respectively.
 
 Subsec. (j). Pub. L. 101–73, §1217(a)(2), (3), redesignated former subsec. (b) as (j) and struck out former subsec. (j) which provided that the power of the Board respecting liquidations was subject to the Board's own regulations or to regulations of other public authorities.
 
@@ -1326,11 +1300,11 @@ Subsec. (k). Pub. L. 101–73, §1217(a)(3), (5), redesignated former subsec. (c
 
 Subsec. (k)(1). Pub. L. 101–73, §915(c), inserted “may investigate said claims under section 1786(p) of this title,” after “before paying the insured accounts,” in last sentence.
 
-Subsecs. (<i>l</i>) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former subsecs. (e) to (i) as (<i>l</i>) to (p), respectively.
+Subsecs. (l) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former subsecs. (e) to (i) as (l) to (p), respectively.
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–86, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of thissection and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
 
 <b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -1376,7 +1350,7 @@ Amendment by Pub. L. 96–221 effective on Mar. 31, 1980, see section 308(e) of 
 
 #### Applicability of 1980 Amendment
 
-Section 308(c)(2) of Pub. L. 96–221 provided that: “The amendment made by this subsection \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title\].”
+Pub. L. 96–221, title III, §308(c)(2), Mar. 31, 1980, 94 Stat. 148, provided that: “The amendment made by this subsection \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -1386,13 +1360,13 @@ Amendment by Pub. L. 96–153 applicable only to claims arising after Dec. 21, 1
 
 Amendment by section 502(b) of Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-Section 1402 of title XIV of Pub. L. 95–630 provided that: “This title \[amending this section and sections 1728 and 1821 of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title XIV, §1402, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title \[amending this section and sections 1728 and 1821 of this title\] shall take effect upon enactment \[Nov. 10, 1978\].”
 
 #### Effective Date of 1974 Amendment
 
 For effective date of amendment by section 101(c)(1), (2) of Pub. L. 93–495 see section 101(g) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
-Section 104(b), (c) of Pub. L. 93–495 provided that:
+Pub. L. 93–495, title I, §104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provided that:
 
 “(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
 

@@ -114,7 +114,7 @@ Par. (2). Pub. L. 103–465, §351(e)(2), amended heading and text of par. (2) g
 
 Par. (4). Pub. L. 103–465, §351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
 
-Par. (6)(A). Pub. L. 103–465, §351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
+Par. (6)(A). Pub. L. 103–465, §351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
 
 &emsp;“(i) all Parties to the Agreement, or
 

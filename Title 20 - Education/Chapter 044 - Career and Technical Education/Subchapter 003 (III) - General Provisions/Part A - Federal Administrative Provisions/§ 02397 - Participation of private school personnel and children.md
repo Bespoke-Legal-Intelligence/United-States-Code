@@ -24,7 +24,7 @@ Another prior section 2397 and prior sections 2397a to 2397h were omitted in the
 
 Section 2397, Pub. L. 88–210, title III, §382, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, stated purpose of program to assist tribally controlled postsecondary vocational institutions.
 
-Section 2397a, Pub. L. 88–210, title III, §383, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, authorized grants to tribally controlled postsecondary vocational institutions.
+Section 2397a, Pub. L. 88–210, title III, §383, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat.800, authorized grants to tribally controlled postsecondary vocational institutions.
 
 Section 2397b, Pub. L. 88–210, title III, §384, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 800, related to eligible grant recipients.
 

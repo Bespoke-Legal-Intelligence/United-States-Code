@@ -8,7 +8,7 @@ It is declared that the business of transmitting and selling electric energy for
 
 (1) The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce, but except as provided in paragraph (2) shall not apply to any other sale of electric energy or deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmitted across a State line. The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy, but shall not have jurisdiction, except as specifically provided in this subchapter and subchapter III of this chapter, over facilities used for the generation of electric energy or over facilities used in local distribution or only for the transmission of electric energy in intrastate commerce, or over facilities for the transmission of electric energy consumed wholly by the transmitter.
 
-(2) Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
+(2) Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
 
 #### (c) Electric energy in interstate commerce
 
@@ -20,7 +20,7 @@ The term “sale of electric energy at wholesale” when used in this subchapter
 
 #### (e) “Public utility” defined
 
-The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f),<sup>1</sup> 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
+The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f),<sup>1</sup> 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
@@ -36,7 +36,7 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 &emsp;(C) any electric utility company, or holding company thereof, which is an associate company or affiliate of an exempt wholesale generator which sells electric energy to an electric utility company referred to in subparagraph (A),
 
-> wherever located, if such examination is required for the effective discharge of the Statecommission's regulatory responsibilities affecting the provision of electric service.
+> wherever located, if such examination is required for the effective discharge of the State commission's regulatory responsibilities affecting the provision of electric service.
 
 (2) Where a State commission issues an order pursuant to paragraph (1), the State commission shall not publicly disclose trade secrets or sensitive commercial information.
 
@@ -60,9 +60,9 @@ The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), i
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(2). Pub. L. 109–58, §1295(a)(1), substituted “Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–58, §1295(a)(1), substituted “Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
-Subsec. (e). Pub. L. 109–58, §1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
+Subsec. (e). Pub. L. 109–58, §1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
 
 Subsec. (f). Pub. L. 109–58, §1291(c), which directed amendment of subsec. (f) by substituting “political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year,” for “political subdivision of a state,”, was executed by making the substitution for “political subdivision of a State,” to reflect the probable intent of Congress.
 
@@ -84,7 +84,7 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 
 #### Prior Actions; Effect On Other Authorities
 
-Section 214 of Pub. L. 95–617 provided that:
+Pub. L. 95–617, title II, §214, Nov. 9, 1978, 92 Stat. 3149, provided that:
 
 “(a)
 

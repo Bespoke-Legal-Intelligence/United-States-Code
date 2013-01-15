@@ -33,7 +33,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(4) the term ‘pay rate’, as used in clauses (iii) through (v) of subsection (c)(2)(B), is used in the same way as such term is used under section 5335(a) of title 5, United States Code; and
 
-&emsp;“(5) the term ‘FEPCA’ means the Federal Employees Pay Comparability Act of 1990 \[section 529 \[§§1–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note set out under section 5301 of this title\] (contained in the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509; 104 Stat. 1427)).
+&emsp;“(5) the term ‘FEPCA’ means the Federal Employees Pay Comparability Act of 1990 \[section 529 \[§§1–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note set outunder section 5301 of this title\] (contained in the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509; 104 Stat. 1427)).
 
 “(b)
 

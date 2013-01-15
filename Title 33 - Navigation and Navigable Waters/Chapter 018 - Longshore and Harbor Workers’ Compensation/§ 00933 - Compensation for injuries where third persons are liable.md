@@ -6,7 +6,7 @@ If on account of a disability or death for which compensation is payable under t
 
 #### (b) Acceptance of compensation operating as assignment
 
-Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance. If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term “award” with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.
+Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within sixmonths after such acceptance. If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term “award” with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.
 
 #### (c) Payment into section 944 fund operating as assignment
 
@@ -34,7 +34,7 @@ Any amount recovered by such employer on account of such assignment, whether or 
 
 #### (f) Institution of proceedings by person entitled to compensation
 
-If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over thenet amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
+If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over the net amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
 
 #### (g) Compromise obtained by person entitled to compensation
 
@@ -54,7 +54,7 @@ Where the employer is insured and the insurance carrier has assumed the payment 
 
 The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: <i>Provided</i>, That this provision shall not affect the liability of a person other than an officer or employee of the employer.
 
-(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
+(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171,Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Subsec. (g). Pub. L. 98–426, §21(d), designated existing provisions as par. (
 
 <b>1972</b>—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, §15(f), (g), inserted “or Board” after “deputy commissioner”.
 
-Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury ordeath within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
+Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
 

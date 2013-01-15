@@ -2,7 +2,7 @@
 
 A pipeline carrier providing transportation or service for the United States Government may transport property for the United States Government without charge or at a rate reduced from the applicable commercial rate. Section 6101(b) to (d) of title 41 does not apply when transportation for the United States Government can be obtained from a carrier lawfully operating in the area where the transportation would be provided.
 
-(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 924; amended Pub. L. 111–350, §5(<i>o</i>)(6), Jan. 4, 2011, 124 Stat. 3853.)
+(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 924; amended Pub. L. 111–350, §5(o)(6), Jan. 4, 2011, 124 Stat. 3853.)
 
 #### Prior Provisions
 

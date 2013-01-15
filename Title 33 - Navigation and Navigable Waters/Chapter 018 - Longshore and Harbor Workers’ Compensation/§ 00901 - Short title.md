@@ -10,7 +10,7 @@ This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act
 
 #### Effective Date of 1984 Amendment
 
-Section 28(a)–(g) of Pub. L. 98–426 provided that:
+Pub. L. 98–426, §28(a)–(g), Sept. 28, 1984, 98 Stat. 1655, provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] shall be effective on the date of enactment of this Act \[Sept. 28, 1984\] and shall apply both with respect to claims filed after such date and to claims pending on such date.
 
@@ -24,7 +24,7 @@ Section 28(a)–(g) of Pub. L. 98–426 provided that:
 
 “(2) The amendments made by sections 7(b), 7(c), 7(d), and 8(h) \[amending sections 907 and 908 of this title\] shall be effective 90 days after the date of enactment of this Act \[Sept. 28, 1984\].
 
-“(f) The amendments made by section 6(b) \[amending section 906 of this title\] shall apply with respect to any injury, disability, or death after the date of enactment of this Act \[Sept. 28, 1984\].
+“(f) The amendments made by section 6(b) \[amending section 906 of this title\] shall apply with respect to anyinjury, disability, or death after the date of enactment of this Act \[Sept. 28, 1984\].
 
 “(g) For the purpose of this section—
 
@@ -38,7 +38,7 @@ Section 52, formerly §51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, Pub. L
 
 #### Short Title of 1984 Amendment
 
-Section 1(a) of Pub. L. 98–426 provided that: “this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] may be cited as the ‘Longshore and Harbor Workers’ Compensation Act Amendments of 1984’.”
+Pub. L. 98–426, §1(a), Sept. 28, 1984, 98 Stat. 1639, provided that: “this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] may be cited as the ‘Longshore and Harbor Workers’ Compensation Act Amendments of 1984’.”
 
 #### Short Title of 1972 Amendment
 
@@ -46,5 +46,5 @@ Pub. L. 92–576, §1, Oct. 27, 1972, 86 Stat. 1251, provided: “That this Act 
 
 #### References to Longshoremen's and Harbor Workers’ Compensation Act
 
-Section 27(d)(2) of Pub. L. 98–426 provided that: “Reference in any other statute, regulation, order, or other document to the Longshoremen's and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
+Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654, provided that: “Reference in any other statute, regulation, order, or other document to the Longshoremen's and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
 

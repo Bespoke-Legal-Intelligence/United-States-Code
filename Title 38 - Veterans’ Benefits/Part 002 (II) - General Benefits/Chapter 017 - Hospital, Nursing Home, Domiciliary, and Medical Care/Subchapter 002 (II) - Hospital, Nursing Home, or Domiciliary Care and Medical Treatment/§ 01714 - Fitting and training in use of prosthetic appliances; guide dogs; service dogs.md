@@ -6,7 +6,7 @@
 
 (c) The Secretary may, in accordance with the priority specified in section 1705 of this title, provide—
 
-&emsp;(1) service dogs trained for the aid of the hearing impaired to veterans who are hearing impaired and are enrolled under section 1705 of this title;
+&emsp;(1) service dogs trained for the aid of the hearing impaired to veterans who are hearingimpaired and are enrolled under section 1705 of this title;
 
 &emsp;(2) service dogs trained for the aid of persons with spinal cord injury or dysfunction or other chronic impairment that substantially limits mobility to veterans with such injury, dysfunction, or impairment who are enrolled under section 1705 of this title; and
 

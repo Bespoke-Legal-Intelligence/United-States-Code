@@ -48,7 +48,7 @@ In this section, the term “facility” means—
 
 &emsp;&emsp;(D) The organization must have taken steps to communicate effectively its standards and procedures to all employees and other agents, such as by requiring participation in training programs or by disseminating publications that explain in a practical manner what is required.
 
-&emsp;&emsp;(E) The organization must have taken reasonable steps to achieve compliance with its standards, such as by utilizing monitoring and auditing systems reasonably designed to detect criminal, civil, and administrative violations under this chapter by its employees and other agents and by having in place and publicizing a reporting system whereby employees and other agents could report violations by others within the organization without fear of retribution.
+&emsp;&emsp;(E) The organization must have taken reasonable steps to achieve compliance with its standards, such as by utilizing monitoring and auditing systems reasonably designed to detect criminal, civil, and administrative violations under this chapter by its employees and other agents and by having in place and publicizing a reporting system wherebyemployees and other agents could report violations by others within the organization without fear of retribution.
 
 &emsp;&emsp;(F) The standards must have been consistently enforced through appropriate disciplinary mechanisms, including, as appropriate, discipline of individuals responsible for the failure to detect an offense.
 
@@ -84,7 +84,7 @@ In this section, the term “facility” means—
 
 #### (B) Complaint resolution process
 
-&emsp;&emsp;The State must establish a complaint resolution process in order to ensure that the legal representative of a resident of a facility or other responsible party is not denied access to such resident or otherwise retaliated against if they have complained aboutthe quality of care provided by the facility or other issues relating to the facility. Such complaint resolution process shall include—
+&emsp;&emsp;The State must establish a complaint resolution process in order to ensure that the legal representative of a resident of a facility or other responsible party is not denied access to such resident or otherwise retaliated against if they have complained about the quality of care provided by the facility or other issues relating to the facility. Such complaint resolution process shall include—
 
 &emsp;&emsp;&emsp;(i) procedures to assure accurate tracking of complaints received, including notification to the complainant that a complaint has been received;
 
@@ -204,7 +204,7 @@ Responsibilities.—An independent monitor that enters into a contract with the 
 
 &emsp;“(3) analyze the management structure, distribution of expenditures, and nurse staffing levels of facilities of the chain in relation to resident census, staff turnover rates, and tenure;
 
-&emsp;“(4) report findings and recommendations with respect to such reviews, analyses, and oversight to the chain and facilities of the chain, to the Secretary, and to relevant States; and
+&emsp;“(4) report findings and recommendations with respect to such reviews, analyses, and oversight to thechain and facilities of the chain, to the Secretary, and to relevant States; and
 
 &emsp;“(5) publish the results of such reviews, analyses, and oversight.
 

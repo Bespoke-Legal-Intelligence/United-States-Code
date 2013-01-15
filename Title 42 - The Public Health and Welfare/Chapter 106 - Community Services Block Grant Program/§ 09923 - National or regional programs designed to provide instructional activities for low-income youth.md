@@ -54,7 +54,7 @@ The Secretary shall promulgate regulations or program guidelines to ensure funds
 
 There are authorized to be appropriated $15,000,000 for each of fiscal years 1999 through 2003 for grants to carry out this section.
 
-(Pub. L. 97–35, title VI, §682, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2753;amended Pub. L. 107–110, title X, §1076(ee), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 97–35, title VI, §682, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2753; amended Pub. L. 107–110, title X, §1076(ee), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 

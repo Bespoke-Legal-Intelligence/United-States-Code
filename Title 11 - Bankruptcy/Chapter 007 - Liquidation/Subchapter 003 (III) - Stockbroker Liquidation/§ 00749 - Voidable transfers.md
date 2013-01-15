@@ -14,7 +14,7 @@
 
 #### senate report no. 95–989
 
-Section 749 indicates that if the trustee avoids a transfer, property recovered is customer property to any extent it would have been customer property but for the transfer. The section clarifies that a customerwho receives a transfer of property of the debtor is a creditor and that property in a customer's account is property of a creditor for purposes of the avoiding powers.
+Section 749 indicates that if the trustee avoids a transfer, property recovered is customer property to any extent it would have been customer property but for the transfer. The section clarifies that a customer who receives a transfer of property of the debtor is a creditor and that property in a customer's account is property of a creditor for purposes of the avoiding powers.
 
 #### Amendments
 

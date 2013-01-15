@@ -50,11 +50,11 @@ The following provisions of section 5421 of this title shall apply with respect 
 
 &emsp;(4) Subsection (k), relating to support from Executive agencies.
 
-&emsp;(5) Subsection (<i>l</i>), relating to limitation on payments to Fund personnel.
+&emsp;(5) Subsection (l), relating to limitation on payments to Fund personnel.
 
 &emsp;(6) Subsections (m) and (n), relating to audits.
 
-&emsp;(7) Subsection (<i>o</i>), relating to record keeping requirements.
+&emsp;(7) Subsection (o), relating to record keeping requirements.
 
 &emsp;(8) Subsection (p), relating to annual reports.
 
@@ -70,7 +70,7 @@ In the implementation of this section, the Secretary of State and the Administra
 
 #### (i) Initial implementation
 
-The Board of Directors of the Demilitarization Enterprise Fund shall publish the first annualreport of the Fund not later than January 31, 1995.
+The Board of Directors of the Demilitarization Enterprise Fund shall publish the first annual report of the Fund not later than January 31, 1995.
 
 #### (j) Termination of designation
 

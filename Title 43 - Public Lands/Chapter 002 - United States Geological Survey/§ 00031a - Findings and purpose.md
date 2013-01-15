@@ -82,7 +82,7 @@ Pub. L. 105–36, §1, Aug. 5, 1997, 111 Stat. 1107, provided that: “This Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 102–285 provided that: “This Act \[enacting this section and sections 31b to 31h of this title, amending sections 1457, 1457a, and 1782 of this title, sections 450ii–3, 665, 1133, and 3151 of Title 16, Conservation, section 262k of Title 22, Foreign Relations and Intercourse, section 1677 of Title 25, Indians, sections 1, 1a, 2, 3, 4, 4c, 4d, 5, 6, 7, 8, 411, 412, 804, 812, 871, 878, 1224, 1229, 1232, 1311, 1315, and 1604 of Title 30, Mineral Lands and Mining, and sections 5814 and 6505 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 31 of this title and section 1 of Title 30, and amending provisions set out as a note under section 1231 of Title 30\] may be cited as the ‘National Geologic Mapping Act of 1992’.”
+Pub. L. 102–285, §1, May 18, 1992, 106 Stat. 166, provided that: “This Act \[enacting this section and sections 31b to 31h of this title, amending sections 1457, 1457a, and 1782 of this title, sections 450ii–3, 665, 1133, and 3151 of Title 16, Conservation, section 262k of Title 22, Foreign Relations and Intercourse, section 1677 of Title 25, Indians, sections 1, 1a, 2, 3, 4, 4c, 4d, 5, 6, 7, 8, 411, 412, 804, 812, 871, 878, 1224, 1229, 1232, 1311, 1315, and 1604 of Title 30, Mineral Lands and Mining, and sections 5814 and 6505 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 31 of this title and section 1 of Title 30, and amending provisions set out as a note under section 1231 of Title 30\] may be cited as the ‘National Geologic Mapping Act of 1992’.”
 
 #### Findings
 

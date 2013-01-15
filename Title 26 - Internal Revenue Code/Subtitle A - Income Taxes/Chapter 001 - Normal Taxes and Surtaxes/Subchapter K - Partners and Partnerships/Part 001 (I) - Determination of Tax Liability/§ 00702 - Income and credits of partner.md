@@ -34,13 +34,9 @@ In any case where it is necessary to determine the gross income of a partner for
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 239; Pub. L. 88–272, title II, §201(d)(7), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–455, title XIV, §1402(b)(1)(L), (2), title XIX, §§1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834; Pub. L. 96–223, title IV, §404(b)(5), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §301(b)(5), (6)(C), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title IV, §402(c)(1), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–448, title I, §103(a)(4), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(9), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(5), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 108–27, title III, §302(e)(8), May 28, 2003, 117 Stat. 764.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
-
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(5). Pub. L. 108–27, §§302(e)(8), 303, temporarily amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–27 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”.
 
 <b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
 
@@ -66,11 +62,9 @@ Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1
 
 <b>1964</b>—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
 
-#### Effective and Termination Dates of 2003 Amendment
+#### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
-
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -98,9 +92,9 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 #### Effective Date of 1976 Amendment
 
-Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(b)(1)(I)(i), (ii) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

@@ -6,7 +6,7 @@ It is declared to be the policy of Congress to continue the Soil Conservation an
 
 #### References in Text
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch.85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Functions of Soil Conservation Service in Department of Agriculture with respect
 
 #### Congressional Declaration of Policy Under Agricultural Act of 1961
 
-Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
+Pub. L. 87–128, §2, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
 &emsp;“(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation's economy;
 
@@ -52,17 +52,15 @@ Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In 
 
 #### Congressional Declaration of Policy for Year 1949
 
-Section 1(d) of act July 3, 1948, ch. 827, title I, 62 Stat. 1248, provided that: “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
+Act July 3, 1948, ch. 827, title I, §1(d), 62 Stat. 1248, provided that: “It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support.”
 
 #### Study of Parity Income Position of Farmers; Report to Congress by June 30, 1966
 
-Section 705 of Pub. L. 89–321, title VII, Nov. 3, 1965, 79 Stat. 1210, directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
+Pub. L. 89–321, title VII, §705, Nov. 3, 1965, 79 Stat. 1210, directed the Secretary of Agriculture to make a study of the parity income position of farmers, and report the results of such study to the Congress not later than June 30, 1966.
 
 #### Price Stabilization During Year 1950
 
-Section 1(a), (b) of act July 3, 1948, ch. 827, title I, 62 Stat. 1247, as amended June 10, 1949, ch. 191, 63 Stat. 169, authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (September 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
+Act July 3, 1948, ch. 827, title I, §1(a), (b), 62 Stat. 1247, 1248, as amended June 10, 1949, ch. 191, 63 Stat. 169, authorized the Secretary of Agriculture through any instrumentality or agency within or under the direction of the Department of Agriculture, by loans, purchases, or other operations to support prices received by producers of cotton, wheat, corn, tobacco, rice, and peanuts marketed before June 30, 1950 (Sept. 30, 1950, in the case of Maryland and the cigar-leaf types of tobacco), if producers had not disapproved marketing quotas for such commodity for the marketing year beginning in the calendar year in which the crop is harvested.
 
-Section 2 of act July 3, 1948, ch. 827, title I, 62 Stat. 1248, authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act.
-
-Section 6 of act July 3, 1948, ch. 827, title I, 62 Stat. 1250, provided in part that sections 1 and 2 of the act were to become effective Jan. 1, 1949.
+Act July 3, 1948, ch. 827, title I, §2, 62 Stat. 1248, authorized the Secretary, from any funds available to the Department of Agriculture or any agency operating under its direction for price support operations or for the disposal of agricultural commodities, to use such sums as may be necessary to carry out the provisions of section 1 of the Act (enacting provisions set out as notes under this section and amending provisions set out as a note under section 713a–8 of this title).
 

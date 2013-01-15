@@ -14,7 +14,7 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 
 #### (1) In general
 
-&emsp;Any individual who is an employee of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred to the Office under subsection (a) shall be subject to the authority of the Architect of the Capitol under section 2242(b) of this title, except that the individual's grade, compensation, rate of leave, or other benefits that apply with respect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office, other than for cause.
+&emsp;Any individual who is an employee of the Capitol Guide Service on a non-temporary basis on the transfer date who is transferred to the Office under subsection (a) shall be subject to the authority of the Architect of the Capitol under section 2242(b) of this title, except that the individual's grade, compensation, rate of leave, or other benefits that apply withrespect to the individual at the time of transfer shall not be reduced while such individual remains continuously so employed in the same position within the Office, other than for cause.
 
 #### (2) Eligibility for immediate retirement on basis of involuntary separation
 

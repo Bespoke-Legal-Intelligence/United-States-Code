@@ -16,7 +16,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Effective Date of 1984 Amendment
 
-Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment made by that section is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, §235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by section 227 of Pub. L. 98–473 is effective Oct. 12, 1984.
 
 #### Effective Date
 

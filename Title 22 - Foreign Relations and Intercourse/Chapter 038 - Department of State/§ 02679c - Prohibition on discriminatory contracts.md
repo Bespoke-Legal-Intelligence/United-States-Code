@@ -68,7 +68,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Short Title
 
-Section 561 of Pub. L. 103–236 provided that: “This part \[part C (§§561–565) of title V of Pub. L. 103–236, enacting this section and provisions set out as a note under section 2751 of this title\] may be cited as the ‘Anti-Economic Discrimination Act of 1994’.”
+Pub. L. 103–236, title V, §561, Apr. 30, 1994, 108 Stat. 483, provided that: “This part \[part C (§§561–565) of title V of Pub. L. 103–236, enacting this section and provisions set out as a note under section 2751 of this title\] may be cited as the ‘Anti-Economic Discrimination Act of 1994’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “41)—”.</i>
 

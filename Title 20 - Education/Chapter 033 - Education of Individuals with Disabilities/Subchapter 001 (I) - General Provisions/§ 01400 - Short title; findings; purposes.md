@@ -24,7 +24,7 @@ Congress finds the following:
 
 &emsp;(3) Since the enactment and implementation of the Education for All Handicapped Children Act of 1975, this chapter has been successful in ensuring children with disabilities and the families of such children access to a free appropriate public education and in improving educational results for children with disabilities.
 
-&emsp;(4) However, the implementation of this chapter has been impeded by low expectations, and an insufficient focus on applying replicable research on proven methods of teaching and learning for children with disabilities.
+&emsp;(4) However, the implementation of this chapter has been impeded by low expectations, and an insufficient focus on applying replicable research on proven methods ofteaching and learning for children with disabilities.
 
 &emsp;(5) Almost 30 years of research and experience has demonstrated that the education of children with disabilities can be made more effective by—
 
@@ -82,7 +82,7 @@ Congress finds the following:
 
 &emsp;(13)(A) As the number of minority students in special education increases, the number of minority teachers and related services personnel produced in colleges and universities continues to decrease.
 
-&emsp;(B) The opportunity for full participation by minority individuals, minority organizations, and Historically Black Colleges and Universities in awards for grants and contracts, boards of organizations receiving assistance under this chapter, peer review panels, and training of professionals in the area of special education is essential to obtain greater success in the education of minority children with disabilities.
+&emsp;(B) The opportunity for full participation by minority individuals, minority organizations,and Historically Black Colleges and Universities in awards for grants and contracts, boards of organizations receiving assistance under this chapter, peer review panels, and training of professionals in the area of special education is essential to obtain greater success in the education of minority children with disabilities.
 
 &emsp;(14) As the graduation rates for children with disabilities continue to climb, providing effective transition services to promote successful post-school employment or education is an important measure of accountability for children with disabilities.
 
@@ -118,7 +118,7 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 
 A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the generalamendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
+Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Pub. L. 108–446, §1, Dec. 3, 2004, 118 Stat. 2647, provided that: “This Act
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–17, §1, June 4, 1997, 111 Stat. 37, provided that: “This Act \[enacting subchapters I to IV of this chapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title\] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1997’.”
+Pub. L. 105–17, §1, June 4, 1997, 111 Stat. 37, provided that: “This Act \[enacting subchapters I to IV of thischapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title\] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1997’.”
 
 #### Short Title of 1991 Amendment
 
@@ -172,7 +172,7 @@ Pub. L. 101–476, §1(a), Oct. 30, 1990, 104 Stat. 1103, provided that: “This
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–630, §1, Nov. 7, 1988, 102 Stat. 3289, provided that: “This Act \[amending sections 101, 1401, 1404, 1406, 1407, 1411 to 1419, 1421 to 1425, 1431 to 1433, 1441, 1443, 1451, 1452, 1461, 1471, 1472, and 1475 to 1482 of this title, sections 702, 705, 706, 709, 711, 713, 717, 720 to 723, 731, 732, 740, 741, 750, 752, 761 to 762, 770, 772, 774 to 776, 777 to 777b, 777d, 777f, 780, 781 to 783, 791 to 794, 794b, 794d, 795a, 795g to 795i, 795<i>l</i> to 795n, 795q, 796a to 796g, 796i, and 1904 of Title 29, Labor, and section 155 of Title 36, Patriotic Societies and Observances, enacting provisions set out as notes under sections 101, 1419, and 1432 of this title and sections 731 and 777c of Title 29, and repealing provisions set out as a note under section 795m of Title 29\] may be cited as the ‘Handicapped Programs Technical Amendments Act of 1988’.”
+Pub. L. 100–630, §1, Nov. 7, 1988, 102 Stat. 3289, provided that: “This Act \[amending sections 101, 1401, 1404, 1406, 1407, 1411 to 1419, 1421 to 1425, 1431 to 1433, 1441, 1443, 1451, 1452, 1461, 1471, 1472, and 1475 to 1482 of this title, sections 702, 705, 706, 709, 711, 713, 717, 720 to 723, 731, 732, 740, 741, 750, 752, 761 to 762, 770, 772, 774 to 776, 777 to 777b, 777d, 777f, 780, 781 to 783, 791 to 794, 794b, 794d, 795a, 795g to 795i, 795l to 795n, 795q, 796a to 796g, 796i, and 1904 of Title 29, Labor, and section 155 of Title 36, Patriotic Societies and Observances, enacting provisions set out as notes under sections 101, 1419, and 1432 of this title and sections 731 and 777c of Title 29, and repealing provisions set out as a note under section 795m of Title 29\] may be cited as the ‘Handicapped Programs Technical Amendments Act of 1988’.”
 
 #### Short Title of 1986 Amendments
 
@@ -242,7 +242,7 @@ Multi-year Awards.—Notwithstanding any other provision of law, the Secretary m
 
 “(c)
 
-Research.—Notwithstanding section 302(b) \[set out as a note above\] or any other provision of law, the Secretary may award funds that are appropriated under the Department of Education Appropriations Act, 2005 \[Pub. L. 108–447, div. F, title III, 118 Stat. 3142, see Tables for classification\] for special education research under either of the headings ‘
+Research.—Notwithstanding section 302(b) \[set out as a note above\] or any other provision of law, theSecretary may award funds that are appropriated under the Department of Education Appropriations Act, 2005 \[Pub. L. 108–447, div. F, title III, 118 Stat. 3142, see Tables for classification\] for special education research under either of the headings ‘
 
 Special Education’ or ‘
 

@@ -24,7 +24,7 @@ The Secretary shall notify the appropriate congressional committees of the desig
 
 #### (d) Negotiations
 
-The Secretary, in cooperation with the Secretary of State and in consultation with the United States Trade Representative, may enter into negotiations with the government of each foreign nation in which a seaport is designatedunder the Container Security Initiative to ensure full compliance with the requirements under the Container Security Initiative.
+The Secretary, in cooperation with the Secretary of State and in consultation with the United States Trade Representative, may enter into negotiations with the government of each foreign nation in which a seaport is designated under the Container Security Initiative to ensure full compliance with the requirements under the Container Security Initiative.
 
 #### (e) Overseas inspections
 
@@ -90,7 +90,7 @@ The Secretary, acting through the Commissioner, may treat cargo loaded in a fore
 
 &emsp;Nothing in this subsection shall be construed to interfere with the ability of the Secretary to deny entry of any cargo into the United States.
 
-#### (<i>l</i>) Report
+#### (l) Report
 
 #### (1) In general
 
@@ -100,7 +100,7 @@ The Secretary, acting through the Commissioner, may treat cargo loaded in a fore
 
 &emsp;&emsp;(B) a description of the human capital management plan at each designated seaport;
 
-&emsp;&emsp;(C) a summary of the requests made by the United States to foreign governments to conduct physical or nonintrusive inspectionsof cargo at designated seaports, and whether each such request was granted or denied by the foreign government;
+&emsp;&emsp;(C) a summary of the requests made by the United States to foreign governments to conduct physical or nonintrusive inspections of cargo at designated seaports, and whether each such request was granted or denied by the foreign government;
 
 &emsp;&emsp;(D) an assessment of the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports and the effect on the flow of commerce at such seaports, as well as any recommendations for improving the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports;
 

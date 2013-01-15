@@ -4,7 +4,7 @@
 
 &emsp;(1) that a State or local officer or employee has not been removed from his office or employment within 30 days after notice of a determination by the Board that he has violated section 1502 of this title and that the violation warrants removal; or
 
-&emsp;(2) that the State or local officer or employee has been removed and has been appointed within 18 months after his removal to an office or employment in the same State in a State or local agency which does not receive loans or grants from a Federal agency;
+&emsp;(2) that the State or local officer or employee has been removed and has been appointed within 18 months after his removal to an office or employment in the same State (orin the case of the District of Columbia, in the District of Columbia) in a State or local agency which does not receive loans or grants from a Federal agency;
 
 > the Board shall make and certify to the appropriate Federal agency an order requiring that agency to withhold from its loans or grants to the State or local agency to which notice was given an amount equal to 2 years’ pay at the rate the officer or employee was receiving at the time of the violation. When the State or local agency to which appointment within 18 months after removal has been made is one that receives loans or grants from a Federal agency, the Board order shall direct that the withholding be made from that State or local agency.
 
@@ -12,7 +12,7 @@
 
 (c) The Board may not require an amount to be withheld from a loan or grant pledged by a State or local agency as security for its bonds or notes if the withholding of that amount would jeopardize the payment of the principal or interest on the bonds or notes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 112–230, §3(d), Dec. 28, 2012, 126 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -34,9 +34,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–230 inserted “(or in the case of the District of Columbia, in the District of Columbia)” after “the same State”.
+
 <b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” for “Civil Service Commission” and “Board” for “Commission”, respectively, wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission”.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as a note under section 1501 of this title.
 
 #### Effective Date of 1978 Amendment
 

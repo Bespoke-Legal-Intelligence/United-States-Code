@@ -14,7 +14,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 &emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
-&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A)will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
+&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
 &emsp;(3) is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
 
@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
 #### Effective Date of 1993 Amendment
 
-Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
+Pub. L. 103–182, title III, §381(e), Dec. 8, 1993, 107 Stat. 2129, provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 100–418, title VII, §7005(f), Aug. 23, 1988, 102 Stat. 1553, provided
 
 #### Effective Date
 
-Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
+Pub. L. 96–39, title III, §309, July 26, 1979, 93 Stat. 241, provided that: “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
 
 &emsp;“(1) the authority of the President to grant waivers under section 303 \[section 2513 of this title\] shall be effective on January 1, 1980; and
 
@@ -86,7 +86,7 @@ Responsibilities
 
 1–104. The Trade Representative shall determine, from time to time, the dollar equivalent of 150,000 Special Drawing Right units and shall publish that determination in the Federal Register. Procurement of less than 150,000 Special Drawing Right units is not subject to the Agreement or this Order (Article I:1(b) of the Agreement).
 
-1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with theTrade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
+1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
 
 #### 1–2.
 
@@ -234,7 +234,7 @@ Sec. 3. This order shall apply only to solicitations, issued by agencies listed 
 
 Sec. 4. This order shall apply to solicitations outstanding on the date of this order, except for those for which the initial deadline for receipt of bids or proposals has passed, and to all solicitations issued after the date of this order.
 
-Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
+Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C.1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
 
 Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 

@@ -8,10 +8,13 @@
 | [24\.](%C2%A7%2000024%20-%20Subpoenas%2C%20witnesses.md) | Subpoenas, witnesses. |
 | [25\.](%C2%A7%2000025%20-%20Declaration%20in%20lieu%20of%20oath.md) | Declaration in lieu of oath. |
 | [26\.](%C2%A7%2000026%20-%20Effect%20of%20defective%20execution.md) | Effect of defective execution. |
+| [27\.](%C2%A7%2000027%20-%20Revival%20of%20applications%3B%20reinstatement%20of%20reexamination%20proceedings.md) | Revival of applications; reinstatement of reexamination proceedings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2012</b>—Pub. L. 112–211, title II, §201(b)(2), Dec. 18, 2012, 126 Stat. 1534, added item 27.
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(5), Nov. 2, 2002, 116 Stat. 1904, substituted “Filing date and day for taking action” for “Day for taking action falling on Saturday, Sunday, or holiday” in item 21.
 
@@ -30,3 +33,4 @@
 - [&sect; 00024 - Subpoenas, witnesses](%C2%A7%2000024%20-%20Subpoenas%2C%20witnesses.md)
 - [&sect; 00025 - Declaration in lieu of oath](%C2%A7%2000025%20-%20Declaration%20in%20lieu%20of%20oath.md)
 - [&sect; 00026 - Effect of defective execution](%C2%A7%2000026%20-%20Effect%20of%20defective%20execution.md)
+- [&sect; 00027 - Revival of applications; reinstatement of reexamination proceedings](%C2%A7%2000027%20-%20Revival%20of%20applications%3B%20reinstatement%20of%20reexamination%20proceedings.md)

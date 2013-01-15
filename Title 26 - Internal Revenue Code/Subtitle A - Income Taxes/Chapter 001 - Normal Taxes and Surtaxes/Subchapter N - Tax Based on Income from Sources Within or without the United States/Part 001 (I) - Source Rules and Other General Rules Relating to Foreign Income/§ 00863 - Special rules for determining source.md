@@ -154,7 +154,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1211(b)(1)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
-Section 1212(f) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XII, §1212(f), Oct. 22, 1986, 100 Stat. 2539, provided that:
 
 “(1)
 
@@ -192,11 +192,11 @@ Property to which paragraph applies.—Property described in this subparagraph c
 
 &nbsp;&nbsp;175,300,000.”
 
-Section 1213(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, §1213(b), Oct. 22, 1986, 100 Stat. 2541, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
-Section 124(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transportation beginning after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §124(b), July 18, 1984, 98 Stat. 647, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transportation beginning after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
 #### Effective Date of 1976 Amendment
 

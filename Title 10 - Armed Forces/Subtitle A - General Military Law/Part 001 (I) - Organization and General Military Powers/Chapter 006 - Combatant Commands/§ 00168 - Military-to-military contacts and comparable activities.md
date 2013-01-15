@@ -74,7 +74,7 @@ Military-to-Military Contacts Defined.—In this section, the term “military-t
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to theCode, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
 
@@ -148,7 +148,7 @@ Comptroller General Report.—Not later than December 30, 2013, the Comptroller 
 
 #### Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries
 
-Pub. L. 111–84, div. A, title XII, §1207, Oct. 28, 2009, 123 Stat. 2514, provided that:
+Pub. L. 111–84, div. A, title XII, §1207, Oct. 28, 2009, 123 Stat. 2514, as amended by Pub. L. 112–239, div. A, title XII, §1202, Jan. 2, 2013, 126 Stat. 1980, provided that:
 
 “(a)
 
@@ -218,11 +218,11 @@ Appropriate congressional committees defined.—In this subsection, the term ‘
 
 “(f)
 
-Duration of Authority.—The authority under this section shall expire on September 30, 2012.”
+Duration of Authority.—The authority under this section shall expire on September 30, 2016.”
 
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 
-Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, §1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, §1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that:
+Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII,§1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, §1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that:
 
 “(a)
 

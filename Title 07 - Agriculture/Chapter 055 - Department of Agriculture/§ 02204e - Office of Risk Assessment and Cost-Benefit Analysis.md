@@ -12,11 +12,11 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 &emsp;Effective six months after October 13, 1994, the Secretary of Agriculture shall publish in the Federal Register, for each proposed major regulation the primary purpose of which is to regulate issues of human health, human safety, or the environment that is promulgated by the Department after October 13, 1994, an analysis with as much specificity as practicable, of—
 
-&emsp;&emsp;(A) the risk, including the effect of the risk, to human health, human safety, or the environment, and any combination thereof, addressed by the regulation, including, where applicable and practicable, the healthand safety risks to persons who are disproportionately exposed or particularly sensitive;
+&emsp;&emsp;(A) the risk, including the effect of the risk, to human health, human safety, or the environment, and any combination thereof, addressed by the regulation, including, where applicable and practicable, the health and safety risks to persons who are disproportionately exposed or particularly sensitive;
 
 &emsp;&emsp;(B) the costs associated with the implementation of, and compliance with, the regulation;
 
-&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to other similar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
+&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to othersimilar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
 
 &emsp;&emsp;(D) the quantitative and qualitative benefits of the regulation, including the reduction or prevention of risk expected from the regulation.
 

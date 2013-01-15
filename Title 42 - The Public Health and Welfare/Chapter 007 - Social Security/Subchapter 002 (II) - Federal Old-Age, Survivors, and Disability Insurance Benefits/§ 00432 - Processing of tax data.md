@@ -20,5 +20,5 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 #### Effective Date
 
-Section 8(c) of Pub. L. 94–202 provided that: “Section 232 of the Social Security Act \[this section\], as addedby subsection (b) of this section, shall be effective with respect to statements reporting income received after 1977.”
+Pub. L. 94–202, §8(c), Jan. 2, 1976, 89 Stat. 1137, provided that: “Section 232 of the Social Security Act \[this section\], as added by subsection (b) of this section, shall be effective with respect to statements reporting income received after 1977.”
 

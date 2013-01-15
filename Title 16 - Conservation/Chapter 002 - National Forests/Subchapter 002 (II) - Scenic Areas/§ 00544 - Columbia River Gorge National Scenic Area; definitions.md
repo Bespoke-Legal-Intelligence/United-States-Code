@@ -40,7 +40,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(k) “management plan” means the scenic area management plan adopted pursuant to section 544d of this title;
 
-&emsp;(<i>l</i>) “open spaces” means unimproved lands not designated as agricultural lands or forest lands pursuant to section 544d of this title and designated as open space pursuant to section 544d of this title. Open spaces include—
+&emsp;(l) “open spaces” means unimproved lands not designated as agricultural lands or forest lands pursuant to section 544d of this title and designated as open space pursuant to section 544d of this title. Open spaces include—
 
 &emsp;&emsp;(1) scenic, cultural, and historic areas;
 
@@ -64,7 +64,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(n) “residential development” means the permitting for siting or construction of any residence or other related major structure;
 
-&emsp;(<i>o</i>) “scenic area” means the Columbia River Gorge National Scenic Area established pursuant to section 544b of this title;
+&emsp;(o) “scenic area” means the Columbia River Gorge National Scenic Area established pursuant to section 544b of this title;
 
 &emsp;(p) “Secretary” means the Secretary of Agriculture;
 
@@ -78,7 +78,7 @@ As used in sections 544 to 544p of this title, the term—
 
 #### References in Text
 
-Federal Endangered Species Acts, referred to in subsec. (<i>l</i>)(3), are classified principally to chapter 35 (§1531 et seq.) of this title.
+Federal Endangered Species Acts, referred to in subsec. (l)(3), are classified principally to chapter 35 (§1531 et seq.) of this title.
 
 #### Amendments
 
@@ -86,5 +86,5 @@ Federal Endangered Species Acts, referred to in subsec. (<i>l</i>)(3), are class
 
 #### Short Title
 
-Section 1 of Pub. L. 99–663 provided that: “This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
+Pub. L. 99–663, §1, Nov. 17, 1986, 100 Stat. 4274, provided that: “This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
 

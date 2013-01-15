@@ -34,7 +34,7 @@ Permits issued pursuant to the Federal program shall be valid under any supersed
 
 #### (g) Preemption of State statutes or regulations
 
-Whenever a Federal program is promulgated for a State pursuant to this chapter, any statutes or regulations of such State which are in effect to regulate surface mining and reclamation operations subject to this chapter shall, insofar as they interfere with the achievement of the purposes and the requirements of this chapter and the Federal program, be preempted and superseded by the Federal program. The Secretary shall set forth any State law or regulation which is preempted and superseded by the Federal program.
+Whenever a Federal program is promulgated for a State pursuant to this chapter, any statutes or regulations of such State which are in effect to regulate surface mining and reclamation operations subject to this chapter shall, insofar as they interfere with the achievement ofthe purposes and the requirements of this chapter and the Federal program, be preempted and superseded by the Federal program. The Secretary shall set forth any State law or regulation which is preempted and superseded by the Federal program.
 
 #### (h) Coordination of issuance and review of Federal program permits with any other Federal or State permit process
 

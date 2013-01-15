@@ -46,7 +46,7 @@ Subsec. (b)(3)(A). Pub. L. 103–199, §302(6)(B), (C), substituted “independe
 
 Subsec. (b)(3)(B). Pub. L. 103–199, §302(6)(B), which directed the substitution of “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies”, was executed by making the substitution for “fields of Soviet and East European studies and related studies”, to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 103–199, §302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “thosestates and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
+Subsec. (b)(4). Pub. L. 103–199, §302(6)(D), substituted “independent states of the former Soviet Union” for “Union of Soviet Socialist Republics” and “those states and countries” for “the Union of Soviet Socialist Republics and Eastern European countries”.
 
 Subsec. (b)(5). Pub. L. 103–199, §302(6)(E), substituted “training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe” for “language training in Russian and Eastern European languages” and inserted before period at end “and, as appropriate, studies of other languages of the independent states of the former Soviet Union”.
 

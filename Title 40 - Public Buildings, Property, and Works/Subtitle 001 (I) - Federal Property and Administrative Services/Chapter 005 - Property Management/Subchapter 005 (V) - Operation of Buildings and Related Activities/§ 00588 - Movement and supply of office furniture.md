@@ -14,7 +14,7 @@ Moving Existing Furniture.—The furniture and furnishings used by an agency (or
 
 (d)
 
-Providing Replacement Furniture.—In the absence of a determination under subsection (c), suitable furniture and furnishings for the new controlled space shall be provided from stocks under the control of the moving agency or from stocks available to the Administrator, whichever the Administrator determines to be more economical and efficient. However, the same or similar items may not be provided from both sources.
+Providing Replacement Furniture.—In the absence of a determination under subsection (c), suitable furniture and furnishings for the new controlled space shall be provided from stocks under the control of the moving agency or from stocks available to the Administrator,whichever the Administrator determines to be more economical and efficient. However, the same or similar items may not be provided from both sources.
 
 (e)
 
@@ -26,7 +26,7 @@ Control of Furniture Not Moved.—
 
 &emsp;(1)
 
-In general.—If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the furniture and furnishings that were previously used by the moving agency (or unit of theagency) pass to the control of the Administrator.
+In general.—If furniture and furnishings for a new controlled space are provided from stocks available to the Administrator, the furniture and furnishings that were previously used by the moving agency (or unit of the agency) pass to the control of the Administrator.
 
 &emsp;(2)
 

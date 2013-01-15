@@ -16,7 +16,7 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 (g) The term “creditor” refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term “creditor” shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term “creditor” includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
 
-(h) The term “credit sale” refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
+(h) The term “credit sale” refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of theproperty and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
 
 (i) The adjective “consumer”, used with reference to a credit transaction, characterizes the transaction as one in which the party to whom credit is offered or extended is a natural person, and the money, property, or services which are the subject of the transaction are primarily for personal, family, or household purposes.
 
@@ -24,13 +24,13 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 (k) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
 
-(<i>l</i>) The term “credit card” means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
+(l) The term “credit card” means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
 
 (m) The term “accepted credit card” means any credit card which the cardholder has requested and received or has signed or has used, or authorized another to use, for the purpose of obtaining money, property, labor, or services on credit.
 
 (n) The term “cardholder” means any person to whom a credit card is issued or any person who has agreed with the card issuer to pay obligations arising from the issuance of a credit card to another person.
 
-(<i>o</i>) The term “card issuer” means any person who issues a credit card, or the agent of such person with respect to such card.
+(o) The term “card issuer” means any person who issues a credit card, or the agent of such person with respect to such card.
 
 (p) The term “unauthorized use,” as used in section 1643 of this title, means a use of a credit card by a person other than the cardholder who does not have actual, implied, or apparent authority for such use and from which the cardholder receives no benefit.
 
@@ -56,27 +56,63 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 (aa) The disclosure of an amount or percentage which is greater than the amount or percentage required to be disclosed under this subchapter does not in itself constitute a violation of this subchapter.
 
-(bb)(1) A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
+(bb)
 
-&emsp;(A) the annual percentage rate at consummation of the transaction will exceed by more than 10 percentage points the yield on Treasury securities having comparable periods of maturity on the fifteenth day of the month immediately preceding the month in which the application for the extension of credit is received by the creditor; or
+High-cost Mortgage.—
 
-&emsp;(B) the total points and fees payable by the consumer at or before closing will exceed the greater of—
+&emsp;(1)
 
-&emsp;&emsp;(i) 8 percent of the total loan amount; or
+Definition.—
 
-&emsp;&emsp;(ii) $400.
+&emsp;&emsp;(A)
 
-(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than bienniallyafter the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+In general.—The term “high-cost mortgage”, and a mortgage referred to in this subsection, means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a reverse mortgage transaction, if—
+
+&emsp;&emsp;&emsp;(i) in the case of a credit transaction secured—
+
+&emsp;&emsp;&emsp;&emsp;(I) by a first mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 6.5 percentage points (8.5 percentage points, if the dwelling is personal property and the transaction is for less than $50,000) the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction; or
+
+&emsp;&emsp;&emsp;&emsp;(II) by a subordinate or junior mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 8.5 percentage points the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction;
+
+&emsp;&emsp;&emsp;(ii) the total points and fees payable in connection with the transaction, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator, exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a transaction for $20,000 or more, 5 percent of the total transaction amount; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a transaction for less than $20,000, the lesser of 8 percent of the total transaction amount or $1,000 (or such other dollar amount as the Board shall prescribe by regulation); or
+
+&emsp;&emsp;&emsp;(iii) the credit transaction documents permit the creditor to charge or collect prepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
+
+&emsp;&emsp;(B)
+
+Introductory rates taken into account.—For purposes of subparagraph (A)(i), the annual percentage rate of interest shall be determined based on the following interest rate:
+
+&emsp;&emsp;&emsp;(i) In the case of a fixed-rate transaction in which the annual percentage rate will not vary during the term of the loan, the interest rate in effect on the date of consummation of the transaction.
+
+&emsp;&emsp;&emsp;(ii) In the case of a transaction in which the rate of interest varies solely in accordance with an index, the interest rate determined by adding the index rate in effect on the date of consummation of the transaction to the maximum margin permitted at any time during the loan agreement.
+
+&emsp;&emsp;&emsp;(iii) In the case of any other transaction in which the rate may vary at any time during the term of the loan for any reason, the interest charged on the transaction at the maximum rate that may be charged during the term of the loan.
+
+&emsp;&emsp;(C)
+
+Mortgage insurance.—For the purposes of computing the total points and fees under paragraph (4), the total points and fees shall exclude—
+
+&emsp;&emsp;&emsp;(i) any premium provided by an agency of the Federal Government or an agency of a State;
+
+&emsp;&emsp;&emsp;(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
+
+&emsp;&emsp;&emsp;(iii) any premium paid by the consumer after closing.
+
+(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
 &emsp;(i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 
 &emsp;(ii) warranted by the need for credit.
 
-(B) An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+(B) An increase or decrease under subparagraph (A)—
 
-&emsp;(i) less that 8 percentage points; or
+&emsp;(i) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(I) being less than 6 percentage points or greater than 10 percentage points; and
 
-&emsp;(ii) greater than 12 percentage points.
+&emsp;(ii) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(II) being less than 8 percentage points or greater than 12 percentage points.
 
 (C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
@@ -86,7 +122,7 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 &emsp;(A) all items included in the finance charge, except interest or the time-price differential;
 
-&emsp;(B) all compensation paid to mortgage brokers;
+&emsp;(B) all compensation paid directly or indirectly by a consumer or creditor to a mortgage originator from any source, including a mortgage originator that is also the creditor in a table-funded transaction;
 
 &emsp;(C) each of the charges listed in section 1605(e) of this title (except an escrow for future payment of taxes), unless—
 
@@ -96,11 +132,21 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 &emsp;&emsp;(iii) the charge is paid to a third party unaffiliated with the creditor; and
 
-&emsp;(D) such other charges as the Bureau determines to be appropriate.
+&emsp;(D) premiums or other charges payable at or before closing for any credit life, credit disability, credit unemployment, or credit property insurance, or any other accident, loss-of-income, life or health insurance, or any payments directly or indirectly for any debt cancellation or suspension agreement or contract, except that insurance premiums or debt cancellation or suspension fees calculated and paid in full on a monthly basis shall not be considered financed by the creditor;
 
-(5) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
+&emsp;(E) the maximum prepayment fees and penalties which may be charged or collected under the terms of the credit transaction;
 
-(cc) The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
+&emsp;(F) all prepayment fees or penalties that are incurred by the consumer if the loan refinances a previous loan made or currently held by the same creditor or an affiliate of the creditor; and
+
+&emsp;(G) such other charges as the Bureau determines to be appropriate.
+
+(5)
+
+Calculation of points and fees for open-end consumer credit plans.—In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and section 1639 of this title, by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
+
+(6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
+
+(cc) <sup>1</sup> The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
 
 &emsp;(1) securing one or more advances; and
 
@@ -112,181 +158,133 @@ Bureau.—The term “Bureau” means the Bureau of Consumer Financial Protectio
 
 &emsp;&emsp;(C) the death of the consumer.
 
+(cc) <sup>1</sup>
+
+Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—
+
+&emsp;(1)
+
+Commission.—Unless otherwise specified, the term “Commission” means the Federal Trade Commission.
+
+&emsp;(2)
+
+Mortgage originator.—The term “mortgage originator”—
+
+&emsp;&emsp;(A) means any person who, for direct or indirect compensation or gain, or in the expectation of direct or indirect compensation or gain—
+
+&emsp;&emsp;&emsp;(i) takes a residential mortgage loan application;
+
+&emsp;&emsp;&emsp;(ii) assists a consumer in obtaining or applying to obtain a residential mortgage loan; or
+
+&emsp;&emsp;&emsp;(iii) offers or negotiates terms of a residential mortgage loan;
+
+&emsp;&emsp;(B) includes any person who represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such person can or will provide any of the services or perform any of the activities described in subparagraph (A);
+
+&emsp;&emsp;(C) does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);
+
+&emsp;&emsp;(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;
+
+&emsp;&emsp;(E) does not include, with respect to a residential mortgage loan, a person, estate, or trust that provides mortgage financing for the sale of 3 properties in any 12-month period to purchasers of such properties, each of which is owned by such person, estate, or trust and serves as security for the loan, provided that such loan—
+
+&emsp;&emsp;&emsp;(i) is not made by a person, estate, or trust that has constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of such person, estate, or trust;
+
+&emsp;&emsp;&emsp;(ii) is fully amortizing;
+
+&emsp;&emsp;&emsp;(iii) is with respect to a sale for which the seller determines in good faith and documents that the buyer has a reasonable ability to repay the loan;
+
+&emsp;&emsp;&emsp;(iv) has a fixed rate or an adjustable rate that is adjustable after 5 or more years, subject to reasonable annual and lifetime limitations on interest rate increases; and
+
+&emsp;&emsp;&emsp;(v) meets any other criteria the Board may prescribe;
+
+&emsp;&emsp;(F) does not include the creditor (except the creditor in a table-funded transaction) under paragraph (1), (2), or (4) of section 1639b(c) of this title; and
+
+&emsp;&emsp;(G) does not include a servicer or servicer employees, agents and contractors, including but not limited to those who offer or negotiate terms of a residential mortgage loanfor purposes of renegotiating, modifying, replacing and subordinating principal of existing mortgages where borrowers are behind in their payments, in default or have a reasonable likelihood of being in default or falling behind.
+
+&emsp;(3)
+
+Nationwide mortgage licensing system and registry.—The term “Nationwide Mortgage Licensing System and Registry” has the same meaning as in the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 \[12 U.S.C. 5101 et seq.\].
+
+&emsp;(4)
+
+Other definitions relating to mortgage originator.—For purposes of this subsection, a person “assists a consumer in obtaining or applying to obtain a residential mortgage loan” by, among other things, advising on residential mortgage loan terms (including rates, fees, and other costs), preparing residential mortgage loan packages, or collecting information on behalf of the consumer with regard to a residential mortgage loan.
+
+&emsp;(5)
+
+Residential mortgage loan.—The term “residential mortgage loan” means any consumer credit transaction that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling or on residential real property that includes a dwelling, other than a consumer credit transaction under an open end credit plan or, for purposes of sections 1639b and 1639c of this title and section 1638(a) (16), (17), (18), and (19) of this title, and sections 1638(f) and 1640(k) of this title, and any regulations promulgated thereunder, an extension of credit relating to a plan described in section 101(53D) of title 11.
+
+&emsp;(6)
+
+Secretary.—The term “Secretary”, when used in connection with any transaction or person involved with a residential mortgage loan, means the Secretary of Housing and Urban Development.
+
+&emsp;(7)
+
+Servicer.—The term “servicer” has the same meaning as in section 2605(i)(2) of title 12.
+
+(dd)
+
+Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
+
+&emsp;(1) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—
+
+&emsp;&emsp;(A) the average prime offer rate, as defined in section 1639c of this title; or
+
+&emsp;&emsp;(B) if secured by a personal property loan, the average rate on a loan in connection with which insurance is provided under title I of the National Housing Act (12 U.S.C. 1702 et seq.).
+
+&emsp;(2) Unless 2 bona fide discount points have been excluded under paragraph (1), up to and including 1 bona fide discount point payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 2 percentage points—
+
+&emsp;&emsp;(A) the average prime offer rate, as defined in section 1639c of this title; or
+
+&emsp;&emsp;(B) if secured by a personal property loan, the average rate on a loan in connection with which insurance is provided under title I of the National Housing Act (12 U.S.C. 1702 et seq.).
+
+&emsp;(3) For purposes of paragraph (1), the term “bona fide discount points” means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
+
+&emsp;(4) Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.
+
 (Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, §108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, §1100A(1), (2), title XIV, §§1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157.)
-
-#### Amendment of Section
-
-<i>Pub. L. 111–203, title XIV, §§1400(c), 1401, 1431, July 21, 2010, 124 Stat. 2136, 2137, 2157, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended—</i>
-
-<i>(1) in subsec. (aa), by striking all that precedes paragraph (2) and inserting the following:</i>
-
-<i>“(aa)</i>
-
-<i>High-cost Mortgage.—</i>
-
-&emsp;<i>“(1)</i>
-
-<i>Definition.—</i>
-
-&emsp;&emsp;<i>“(A)</i>
-
-<i>In general</i>.—<i>The term ‘high-cost mortgage’, and a mortgage referred to in this subsection, means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a reverse mortgage transaction, if—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) in the case of a credit transaction secured—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) by a first mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 6.5 percentage points (8.5 percentage points, if the dwelling is personal property and the transaction is for less than $50,000) the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) by a subordinate or junior mortgage on the consumer's principal dwelling, the annual percentage rate at consummation of the transaction will exceed by more than 8.5 percentage points the average prime offer rate, as defined in section 1639c(b)(2)(B) of this title, for a comparable transaction;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) the total points and fees payable in connection with the transaction, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator, exceed—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) in the case of a transaction for $20,000 or more, 5 percent of the total transaction amount; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) in the case of a transaction for less than $20,000, the lesser of 8 percent of the total transaction amount or $1,000 (or such other dollar amount as the Board shall prescribe by regulation); or</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) the credit transaction documents permit the creditor to charge or collect prepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.</i>
-
-&emsp;&emsp;<i>“(B)</i>
-
-<i>Introductory rates taken into account</i>.—<i>For purposes of subparagraph (A)(i), the an</i><i>nual percentage rate of interest shall be determined based on the following interest rate:</i>
-
-&emsp;&emsp;&emsp;<i>“(i) In the case of a fixed-rate transaction in which the annual percentage rate will not vary during the term of the loan, the interest rate in effect on the date of consummation of the transaction.</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) In the case of a transaction in which the rate of interest varies solely in accordance with an index, the interest rate determined by adding the index rate in effect on the date of consummation of the transaction to the maximum margin permitted at any time during the loan agreement.</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) In the case of any other transaction in which the rate may vary at any time during the term of the loan for any reason, the interest charged on the transaction at the maximum rate that may be charged during the term of the loan.</i>
-
-&emsp;&emsp;<i>“(C)</i>
-
-<i>Mortgage insurance</i>.—<i>For the purposes of computing the total points and fees under paragraph (4), the total points and fees shall exclude—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) any premium provided by an agency of the Federal Government or an agency of a State;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) any premium paid by the consumer after closing.”;</i>
-
-<i>(2) in subsec. (aa)(2), by striking subparagraph (B) and inserting the following new subparagraph:</i>
-
-&emsp;<i>“(B) An increase or decrease under subparagraph (A)—</i>
-
-&emsp;&emsp;<i>“(i) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(I) being less than 6 percentage points or greater than 10 percentage points; and</i>
-
-&emsp;&emsp;<i>“(ii) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(II) being less than 8 percentage points or greater than 12 percentage points.”;</i>
-
-<i>(3) in subsec. (aa)(4), by striking subparagraph (B) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(B) all compensation paid directly or indirectly by a consumer or creditor to a mortgage originator from any source, including a mortgage originator that is also the creditor in a table-funded transaction;”;</i>
-
-<i>(4) in subsec. (aa)(4), by redesignating subparagraph (D) as subparagraph (G) and by inserting after subparagraph (C) the following new subparagraphs:</i>
-
-&emsp;&emsp;<i>“(D) premiums or other charges payable at or before closing for any credit life, credit disability, credit unemployment, or credit property insurance, or any other accident, loss-of-income, life or health insurance, or any payments directly or indirectly for any debt cancellation or suspension agreement or contract, except that insurance premiums or debt cancellation or suspension fees calculated and paid in full on a monthly basis shall not be considered financed by the creditor;</i>
-
-&emsp;&emsp;<i>“(E) the maximum prepayment fees and penalties which may be charged or collected under the terms of the credit transaction;</i>
-
-&emsp;&emsp;<i>“(F) all prepayment fees or penalties that are incurred by the consumer if the loan refinances a previous loan made or currently held by the same creditor or an affiliate of the creditor; and”;</i>
-
-<i>(5) in subsec. (aa), by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph:</i>
-
-&emsp;<i>“(5)</i>
-
-<i>Calculation of points and fees for open-end consumer credit plans</i>.—<i>In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and section 1639 of this title, by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.”; and</i>
-
-<i>(6) by adding at the end the following new subsections:</i>
-
-<i>“(cc)</i>
-
-<i>Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—</i>
-
-&emsp;<i>“(1)</i>
-
-<i>Commission</i>.—<i>Unless otherwise specified, the term ‘Commission’ means the Federal Trade Commission.</i>
-
-&emsp;<i>“(2)</i>
-
-<i>Mortgage originator</i>.—<i>The term ‘mortgage originator’—</i>
-
-&emsp;&emsp;<i>“(A) means any person who, for direct or indirect compensation or gain, or in the expectation of direct or indirect compensation or gain—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) takes a residential mortgage loan application;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) assists a consumer in obtaining or applying to obtain a residential mortgage loan; or</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) offers or negotiates terms of a residential mortgage loan;</i>
-
-&emsp;&emsp;<i>“(B) includes any person who represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such person can or will provide any of the services or perform any of the activities described in subparagraph (A);</i>
-
-&emsp;&emsp;<i>“(C) does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);</i>
-
-&emsp;&emsp;<i>“(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any</i><i>agent of such lender, mortgage broker, or other mortgage originator;</i>
-
-&emsp;&emsp;<i>“(E) does not include, with respect to a residential mortgage loan, a person, estate, or trust that provides mortgage financing for the sale of 3 properties in any 12-month period to purchasers of such properties, each of which is owned by such person, estate, or trust and serves as security for the loan, provided that such loan—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) is not made by a person, estate, or trust that has constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of such person, estate, or trust;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) is fully amortizing;</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) is with respect to a sale for which the seller determines in good faith and documents that the buyer has a reasonable ability to repay the loan;</i>
-
-&emsp;&emsp;&emsp;<i>“(iv) has a fixed rate or an adjustable rate that is adjustable after 5 or more years, subject to reasonable annual and lifetime limitations on interest rate increases; and</i>
-
-&emsp;&emsp;&emsp;<i>“(v) meets any other criteria the Board may prescribe;</i>
-
-&emsp;&emsp;<i>“(F) does not include the creditor (except the creditor in a table-funded transaction) under paragraph (1), (2), or (4) of section 1639b(c) of this title; and</i>
-
-&emsp;&emsp;<i>“(G) does not include a servicer or servicer employees, agents and contractors, including but not limited to those who offer or negotiate terms of a residential mortgage loan for purposes of renegotiating, modifying, replacing and subordinating principal of existing mortgages where borrowers are behind in their payments, in default or have a reasonable likelihood of being in default or falling behind.</i>
-
-&emsp;<i>“(3)</i>
-
-<i>Nationwide mortgage licensing system and registry</i>.—<i>The term ‘Nationwide Mortgage Licensing System and Registry’ has the same meaning as in the Secure and Fair Enforcement for Mortgage Licensing Act of 2008.</i>
-
-&emsp;<i>“(4)</i>
-
-<i>Other definitions relating to mortgage originator</i>.—<i>For purposes of this subsection, a person ‘assists a consumer in obtaining or applying to obtain a residential mortgage loan’ by, among other things, advising on residential mortgage loan terms (including rates, fees, and other costs), preparing residential mortgage loan packages, or collecting information on behalf of the consumer with regard to a residential mortgage loan.</i>
-
-&emsp;<i>“(5)</i>
-
-<i>Residential mortgage loan</i>.—<i>The term ‘residential mortgage loan’ means any consumer credit transaction that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling or on residential real property that includes a dwelling, other than a consumer credit transaction under an open end credit plan or, for purposes of sections 1639b and 1639c of this title and section 1638(a) (16), (17), (18), and (19) of this title, and sections 1638(f) and 1640(k) of this title, and any regulations promulgated thereunder, an extension of credit relating to a plan described in section 101(53D) of title 11.</i>
-
-&emsp;<i>“(6)</i>
-
-<i>Secretary</i>.—<i>The term ‘Secretary’, when used in connection with any transaction or person involved with a residential mortgage loan, means the Secretary of Housing and Urban Development.</i>
-
-&emsp;<i>“(7)</i>
-
-<i>Servicer</i>.—<i>The term ‘servicer’ has the same meaning as in section 2605(i)(2) of title 12.</i>
-
-<i>“(dd)</i>
-
-<i>Bona Fide Discount Points and Prepayment Penalties</i>.—<i>For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:</i>
-
-&emsp;<i>“(1) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—</i>
-
-&emsp;&emsp;<i>“(A) the average prime offer rate, as defined in section 1639c of this title; or</i>
-
-&emsp;&emsp;<i>“(B) if secured by a personal property loan, the average rate on a loan in connection with which insurance is provided under title I of the National Housing Act (12 U.S.C. 1702 et seq.).</i>
-
-&emsp;<i>“(2) Unless 2 bona fide discount points have been excluded under paragraph (1), up to and including 1 bona fide discount point payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 2 percentage points—</i>
-
-&emsp;&emsp;<i>“(A) the average prime offer rate, as defined in section 1639c of this title; or</i>
-
-&emsp;&emsp;<i>“(B) if secured by a personal property loan, the average rate on a loan in connection with which insurance is provided under title I of the National Housing Act (12 U.S.C. 1702 et seq.).</i>
-
-&emsp;<i>“(3) For purposes of paragraph (1), the term ‘bona fide discount points’ means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.</i>
-
-&emsp;<i>“(4) Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.”</i>
-
-<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### References in Text
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (cc)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
+
+The National Housing Act, referred to in subsec. (dd)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter II (§1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
-Subsecs. (b) to (cc). Pub. L. 111–203, §1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (bb) as (c) to (cc), respectively.
+Subsecs. (b) to (z). Pub. L. 111–203, §1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
+
+Subsec. (bb). Pub. L. 111–203, §1431(a), which directed amendment of subsec. (aa) by inserting subsec. heading, adding par. (1), and striking out former par. (1), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See below. Text of former par. (1) read as follows: “A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer's principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
+
+&emsp;“(A) the annual percentage rate at consummation of the transaction will exceed by more than 10 percentage points the yield on Treasury securities having comparable periods of maturity on the fifteenth day of the month immediately preceding the month in which the application for the extension of credit is received by the creditor; or
+
+&emsp;“(B) the total points and fees payable by the consumer at or before closing will exceed the greater of—
+
+&emsp;&emsp;“(i) 8 percent of the total loan amount; or
+
+&emsp;&emsp;“(ii) $400.”
+
+Pub. L. 111–203, §1100(A)(1), redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
+
+Subsec. (bb)(2)(B). Pub. L. 111–203, §1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+
+&emsp;“(i) less that 8 percentage points; or
+
+&emsp;“(ii) greater than 12 percentage points.”
+
+Subsec. (bb)(4)(B). Pub. L. 111–203, §1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above. Text of former subpar. (B) read as follows: “all compensation paid to mortgage brokers;”.
+
+Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+
+Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+
+Subsec. (cc). Pub. L. 111–203, §1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
+
+Pub. L. 111–203, §1100(A)(1), redesignated subsec. (bb) as (cc) defining the term “reverse mortgage transaction”.
+
+Subsec. (dd). Pub. L. 111–203, §1431(d), added subsec. (dd).
 
 <b>2009</b>—Subsec. (i). Pub. L. 111–24 substituted “terms ‘open end credit plan’ and ‘open end consumer credit plan’ mean” for “term ‘open end credit plan’ means” in first sentence and inserted “or open end consumer credit plan” after “credit plan” wherever appearing in second sentence.
 
@@ -324,7 +322,7 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 <b>1974</b>—Subsec. (f). Pub. L. 93–495 inserted provision requiring the credit to be payable by agreement in more than four installments and defining term “creditor” for the purposes of the requirements imposed under the enumerated sections of this chapter.
 
-<b>1970</b>—Subsecs. (j) to (r). Pub. L. 91–508 added subsecs. (j) to (<i>o</i>) and redesignated former subsecs. (j) to (<i>l</i>) as (p) to (r), respectively.
+<b>1970</b>—Subsecs. (j) to (r). Pub. L. 91–508 added subsecs. (j) to (o) and redesignated former subsecs. (j) to (l) as (p) to (r), respectively.
 
 #### Effective Date of 2010 Amendment
 
@@ -334,11 +332,11 @@ Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date o
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–24, §3, May 22, 2009, 123 Stat. 1735, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693<i>l</i>–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693<i>l</i>–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
+Pub. L. 111–24, §3, May 22, 2009, 123 Stat. 1735, provided that: “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693l–1 of this title and section 1a–7b of Title 16, Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693l–1 of this title and section 5311 of Title 31, Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
 
 #### Effective Date of 1982 Amendment
 
-Section 702(b) of Pub. L. 97–320 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 \[two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below\].”
+Pub. L. 97–320, title VII, §702(b), Oct. 15, 1982, 96 Stat. 1538, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 \[two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -346,7 +344,7 @@ Section 102(b) of Pub. L. 97–25 provided that the amendment made by that secti
 
 #### Effective Date of 1980 Amendment
 
-Section 625 of title VI of Pub. L. 96–221, as amended by Pub. L. 97–25, title III, §301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, §301, Dec. 26, 1981, 95 Stat. 1515, provided that:
+Pub. L. 96–221, title VI, §625, Mar. 31, 1980, 94 Stat. 185, as amended by Pub. L. 97–25, title III, §301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, §301, Dec. 26, 1981, 95 Stat. 1515, provided that:
 
 “(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under section 1607 of this title\], the amendments made by this title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title\] shall take effect upon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
 
@@ -362,9 +360,11 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: “The Board of Governors of the Federal Reserve System (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the ‘Board’) may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act.”
 
-Section 155 of title I of Pub. L. 103–325 provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\].”
+Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that: “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\].”
 
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 
-Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[15 U.S.C. 1602(aa)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective.”
+Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective.”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (cc) have been enacted.</i>
 

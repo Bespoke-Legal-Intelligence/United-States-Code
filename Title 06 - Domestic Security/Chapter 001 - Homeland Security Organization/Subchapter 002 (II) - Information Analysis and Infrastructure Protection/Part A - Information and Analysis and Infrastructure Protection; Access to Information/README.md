@@ -10,6 +10,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00121 - Information and Analysis and Infrastructure Protection](%C2%A7%2000121%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection.md)
+- [&sect; 00121a - Homeland Security Intelligence Program](%C2%A7%2000121a%20-%20Homeland%20Security%20Intelligence%20Program.md)
 - [&sect; 00122 - Access to information](%C2%A7%2000122%20-%20Access%20to%20information.md)
 - [&sect; 00123 - Terrorist travel program](%C2%A7%2000123%20-%20Terrorist%20travel%20program.md)
 - [&sect; 00124 - Homeland Security Advisory System](%C2%A7%2000124%20-%20Homeland%20Security%20Advisory%20System.md)

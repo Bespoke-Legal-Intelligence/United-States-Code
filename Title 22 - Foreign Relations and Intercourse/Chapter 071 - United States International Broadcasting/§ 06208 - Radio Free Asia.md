@@ -68,7 +68,7 @@ Nothing in this chapter may be construed to make Radio Free Asia a Federal agenc
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–202, §3(1), struck out “, and shall further specify that funds to carry out theactivities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–202, §3(1), struck out “, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
 
 Subsecs. (f) to (h). Pub. L. 111–202, §3(2)–(4), redesignated subsecs. (g) and (h) as (f) and (g), respectively, designated first sentence of subsec. (f) as par. (1), inserted heading, inserted subpar. (A) designation before “entering into any agreements for the utilization of Voice of America”, added subpar. (B), designated second sentence of subsec. (f) as par. (2), inserted heading, inserted “or Radio Free Asia broadcasting activities” before period at end, and struck out former subsec. (f) which related to sunset provisions.
 
@@ -78,7 +78,7 @@ Subsecs. (f) to (h). Pub. L. 111–202, §3(2)–(4), redesignated subsecs. (g) 
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
 
-Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out “(A)” after “(1)” and struck out subpar. (B) which read as follows: “Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.”
+Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out “(A)” after “(1)” and struck out subpar. (B) which read as follows: “Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technicalstaff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.”
 
 Subsec. (c)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(B)\], substituted “September 30, 2009” for “September 30, 1999”.
 

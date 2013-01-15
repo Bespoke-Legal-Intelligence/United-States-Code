@@ -20,7 +20,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (2) Gross investment income
 
-&emsp;For purposes of paragraph (1), the term “gross investment income” means the gross amount of income from interest, dividends,rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
+&emsp;For purposes of paragraph (1), the term “gross investment income” means the gross amount of income from interest, dividends, rents, payments with respect to securities loans (as defined in section 512(a)(5)), and royalties, but not including any such income to the extent included in computing the tax imposed by section 511. Such term shall also include income from sources similar to those in the preceding sentence.
 
 #### (3) Deductions
 
@@ -216,7 +216,7 @@ Subsec. (e). Pub. L. 98–369, §303(a), added subsec. (e).
 
 Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “capital gain net income” for “net capital gain” in par. (1) after“investment income and the”, and in par. (4) after “par. (1) in determining”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “capital gain net income” for “net capital gain” in par. (1) after “investment income and the”, and in par. (4) after “par. (1) in determining”.
 
 #### Effective Date of 2007 Amendment
 
@@ -234,23 +234,23 @@ Amendment by section 1832 of Pub. L. 99–514 effective, except as otherwise pro
 
 #### Effective Date of 1984 Amendment
 
-Section 302(c)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, §302(c)(1), July 18, 1984, 98 Stat. 780, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
-Section 303(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, §303(b), July 18, 1984, 98 Stat. 782, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
 #### Effective Date of 1978 Amendments
 
-Section 520(b) of Pub. L. 95–600 provided that: “The amendment made by the first section of this Act \[probably meaning section 520(a), which amended this section\] shall apply to taxable years beginning after September 30, 1977.”
+Pub. L. 95–600, title V, §520(b), Nov. 6, 1978, 92 Stat. 2884, provided that: “The amendment made by the first section of this Act \[probably meaning section 520(a), which amended this section\] shall apply to taxable years beginning after September 30, 1977.”
 
 Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 #### Effective Date
 
-Section 101(k) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
+Pub. L. 91–172, title I, §101(k), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection and subsection (<i>l</i>) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing section 504 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect on January 1, 1970.
+In general.—Except as otherwise provided in this subsection and subsection (l) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing section 504 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect on January 1, 1970.
 
 “(2)
 
@@ -268,7 +268,7 @@ and (c).—Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (a
 
 #### Savings Provision
 
-Section 101(<i>l</i>) of Pub. L. 91–172, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title I, §101(l), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -318,7 +318,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;&emsp;“(iii) by defining the distributable amount as the sum of the amount determined under section 4942(d) (after the application of clauses (i) and (ii)), and the amount of the dividend income from such stock.
 
-> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or any other instrument does not permit compliance with such provisions.
+> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or anyother instrument does not permit compliance with such provisions.
 
 “(4)
 
@@ -356,13 +356,13 @@ Section 509(a).—In the case of any trust created under the terms of a will or 
 
 Certain redemptions.—For purposes of applying section 302(b)(1) to the determination of the amount of gross investment income under sections 4940 and 4948(a), any distribution made to a private foundation in redemption of stock held by such private foundation in a business enterprise shall be treated as not essentially equivalent to a dividend, if such redemption is described in paragraph (2)(B) of this subsection.”
 
-\[Section 314(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above\] shall apply as if included in section 101(<i>l</i>)(4) of the Tax Reform Act of 1969 \[Pub. L. 91–172\].”\]
+\[Pub. L. 98–369, div. A, title III, §314(b)(2), July 18, 1984, 98 Stat. 787, provided that: “The amendment made by paragraph (1) \[amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above\] shall apply as if included in section 101(l)(4) of the Tax Reform Act of 1969 \[Pub. L. 91–172\].”\]
 
-\[Section 1301(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
+\[Pub. L. 94–455, title XIII, §1301(b), Oct. 4, 1976, 90 Stat. 1713, provided that: “The amendments made by subsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
 
-\[Section 1309(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending section 101(2)(B) of Pub. L. 91–172, set out above\] shall apply to dispositions made after the date of enactment of this Act \[Oct. 4, 1976\].”\]
+\[Pub. L. 94–455, title XIII, §1309(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendment made by this section \[amending section 101(2)(B) of Pub. L. 91–172, set out above\] shall apply to dispositions made after the date of enactment of this Act \[Oct. 4, 1976\].”\]
 
-\[Section 4(b) of Pub. L. 93–490 provided that: “The amendment made by this section \[enacting subpar. (F) of section 101(3) of Pub. L. 91–172, set out above\] shall apply to taxable years beginning after December 31, 1971.”\]
+\[Pub. L. 93–490, §4(b), Oct. 26, 1974, 88 Stat. 1467, provided that: “The amendment made by this section \[enacting subpar. (F) of section 101(3) of Pub. L. 91–172, set out above\] shall apply to taxable years beginning after December 31, 1971.”\]
 
 #### Determination of Operating Foundation Status for Certain Purposes
 
@@ -374,5 +374,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Public Support Requirement Not Applicable to Certain Existing Foundations
 
-Section 302(c)(3) of Pub. L. 98–369 provided that: “A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a)).”
+Pub. L. 98–369, div. A, title III, §302(c)(3), July 18, 1984, 98 Stat. 781, provided that: “A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a)).”
 

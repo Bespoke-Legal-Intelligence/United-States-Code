@@ -16,7 +16,7 @@ In addition to the acquisition of instrumentation and equipment, funds made avai
 
 #### (2) Exceptions
 
-&emsp;Institutions of higher education that are not Ph.D.-granting institutions are exempt fromthe cost sharing requirement in paragraph (1), and the Director may reduce or waive the cost sharing requirement for—
+&emsp;Institutions of higher education that are not Ph.D.-granting institutions are exempt from the cost sharing requirement in paragraph (1), and the Director may reduce or waive the cost sharing requirement for—
 
 &emsp;&emsp;(A) institutions—
 
@@ -34,5 +34,5 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Definitions
 
-For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862<i>o</i> of this title.
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.
 

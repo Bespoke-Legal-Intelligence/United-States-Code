@@ -16,7 +16,7 @@ Authorized Terms of Supervised Release.—Except as otherwise provided, the auth
 
 (c)
 
-Factors To Be Considered in Including a Term of Supervised Release.—The court, in determining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
+Factors To Be Considered in Including a Term of Supervised Release.—The court, indetermining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
 
 (d)
 
@@ -36,9 +36,9 @@ Modification of Conditions or Revocation.—The court may, after considering the
 
 &emsp;(1) terminate a term of supervised release and discharge the defendant released at any time after the expiration of one year of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation, if it is satisfied that such action is warranted by the conduct of the defendant released and the interest of justice;
 
-&emsp;(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, atany time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
+&emsp;(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, at any time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
 
-&emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release, finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
+&emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release,finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
 
 &emsp;(4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under this paragraph may be imposed only as an alternative to incarceration.
 
@@ -78,7 +78,7 @@ Supervised Release Terms for Terrorism Predicates.—Notwithstanding subsection 
 
 #### References in Text
 
-The Sex Offender Registration and Notification Act, referred to in subsecs. (d) and (k), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see ShortTitle note set out under section 16901 of Title 42 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (d) and (k), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
 Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (d), is classified to section 14135a of Title 42, The Public Health and Welfare.
 
@@ -122,7 +122,7 @@ Pub. L. 103–322, §110505(1), substituted “unlawfully possess a controlled s
 
 Subsec. (e)(1). Pub. L. 103–322, §110505(2)(A), substituted “defendant” for “person” in two places.
 
-Subsec. (e)(3). Pub. L. 103–322, §110505(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “revoke a term of supervised release, and require the person to serve in prison all or part of the term of supervised release without credit for time previously served on postrelease supervision, if it finds by a preponderance of the evidence that the person violated a condition of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to the provisions of applicable policy statements issued by the Sentencing Commission, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class Bfelony, or more than 2 years in prison if the offense was a Class C or D felony; or”.
+Subsec. (e)(3). Pub. L. 103–322, §110505(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “revoke a term of supervised release, and require the person to serve in prison all or part of the term of supervised release without credit for time previously served on postrelease supervision, if it finds by a preponderance of the evidence that the person violated a condition of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to the provisions of applicable policy statements issued by the Sentencing Commission, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony; or”.
 
 Subsec. (e)(4). Pub. L. 103–322, §110505(2)(A), substituted “defendant” for “person”.
 
@@ -198,9 +198,9 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Section 14(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
 
-Section 1006(a)(4) of Pub. L. 99–570 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–570, title I, §1006(a)(4), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
 
 #### Effective Date
 

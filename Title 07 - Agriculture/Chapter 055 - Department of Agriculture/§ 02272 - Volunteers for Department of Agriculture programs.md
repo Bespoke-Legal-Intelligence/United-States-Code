@@ -24,5 +24,5 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Authorization of Appropriations
 
-Section 1527 of Pub. L. 97–98 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle \[enacting this section\], such sums to remain available until expended.”
+Pub. L. 97–98, title XV, §1527, Dec. 22, 1981, 95 Stat. 1337, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle \[subtitle G (§§1526, 1527) of title XV of Pub. L. 97–98, enacting this section and this note\], such sums to remain available until expended.”
 

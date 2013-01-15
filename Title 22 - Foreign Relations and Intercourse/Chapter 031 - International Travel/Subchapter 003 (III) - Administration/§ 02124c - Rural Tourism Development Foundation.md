@@ -24,7 +24,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;&emsp;(ii) thereafter shall consist of those nine members plus up to six additional voting members as determined in accordance with the bylaws of the Foundation.
 
-&emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of theBoard and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
+&emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of the Board and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
@@ -70,7 +70,7 @@ Except as otherwise required by the instrument of transfer, the Foundation may s
 
 #### (g) Perpetual succession; liability of Board members
 
-The Foundation shall have perpetual succession, with all the usual powers and obligations of a corporation acting as a trustee, including the power to sue and to be sued in its own name, but the members of the Board shall not be personally liable, except for malfeasance.
+The Foundation shall have perpetual succession, with all the usual powers and obligationsof a corporation acting as a trustee, including the power to sue and to be sued in its own name, but the members of the Board shall not be personally liable, except for malfeasance.
 
 #### (h) Contractual power
 
@@ -98,7 +98,7 @@ The Foundation and any income or property received or owned by it, and all trans
 
 The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation.
 
-#### (<i>l</i>) Annual report
+#### (l) Annual report
 
 The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives an annual report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments.
 

@@ -36,7 +36,7 @@ The purpose of this chapter is to promote the interests of social service progra
 
 #### Effective Date
 
-Section 7 of Pub. L. 105–19 provided that:
+Pub. L. 105–19, §7, June 18, 1997, 111 Stat. 223, provided that:
 
 “(a)
 
@@ -48,5 +48,5 @@ Application.—This Act applies to any claim for harm caused by an act or omissi
 
 #### Short Title
 
-Section 1 of Pub. L. 105–19 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Volunteer Protection Act of 1997’.”
+Pub. L. 105–19, §1, June 18, 1997, 111 Stat. 218, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Volunteer Protection Act of 1997’.”
 

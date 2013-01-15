@@ -58,7 +58,7 @@ Research activities supported under this subpart—
 
 #### (e) Limitation
 
-Nothing in this subpart shall be construed as prohibiting men and boys from participating inany programs or activities assisted with funds under this subpart.
+Nothing in this subpart shall be construed as prohibiting men and boys from participating in any programs or activities assisted with funds under this subpart.
 
 (Pub. L. 89–10, title V, §5615, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1871; amended Pub. L. 107–279, title IV, §404(d)(5)(D), (8), Nov. 5, 2002, 116 Stat. 1986.)
 

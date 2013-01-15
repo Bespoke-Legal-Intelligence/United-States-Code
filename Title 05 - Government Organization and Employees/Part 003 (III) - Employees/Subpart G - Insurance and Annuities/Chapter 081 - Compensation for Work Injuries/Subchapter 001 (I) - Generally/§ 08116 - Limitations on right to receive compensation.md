@@ -1,6 +1,6 @@
 ### §8116. Limitations on right to receive compensation
 
-(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installmentpayments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
+(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installment payments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
 
 &emsp;(1) in return for service actually performed;
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Pub. L. 93–416, §9(b), Sept. 7, 1974, 88 Stat. 1145, provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
 #### Personnel Not Affected by 1967 Increase
 

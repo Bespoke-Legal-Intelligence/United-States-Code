@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense may provide for the families of members of
 
 (b)
 
-Primary Purpose of Assistance.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
+Primary Purpose of Assistance.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members ofthe armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
 (Added Pub. L. 107–314, div. A, title VI, §652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, §1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
 

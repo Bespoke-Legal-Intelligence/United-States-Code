@@ -10,5 +10,5 @@ Any farmer who is dissatisfied with his farm marketing quota may, within fifteen
 
 #### Review of 1950 Cotton Farm Acreage Allotment
 
-Section 2 of act Mar. 31, 1950, ch. 81, 64 Stat. 41, provided that any farmer dissatisfied with his farm acreage allotment for the 1950 cotton crop could have such allotment reviewed in accordance with the provisions of this chapter.
+Act Mar. 31, 1950, ch. 81, §2, 64 Stat. 41, provided that any farmer dissatisfied with his farm acreage allotment for the 1950 cotton crop could have such allotment reviewed in accordance with the provisions of this chapter.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any criminal penalty provided by law, any person required to file a return under section <sup>1</sup> 6046 and 6046A who fails to file such return at the time provided in such section, or who files a return which does not showthe information required pursuant to such section, shall pay a penalty of $10,000, unless it is shown that such failure is due to reasonable cause.
+&emsp;In addition to any criminal penalty provided by law, any person required to file a returnunder section <sup>1</sup> 6046 and 6046A who fails to file such return at the time provided in such section, or who files a return which does not show the information required pursuant to such section, shall pay a penalty of $10,000, unless it is shown that such failure is due to reasonable cause.
 
 #### (2) Increase in penalty where failure continues after notification
 

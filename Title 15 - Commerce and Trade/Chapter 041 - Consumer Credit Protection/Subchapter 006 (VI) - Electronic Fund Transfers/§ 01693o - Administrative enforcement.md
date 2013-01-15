@@ -8,7 +8,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;&emsp;(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks),branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
 &emsp;&emsp;(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;
 
@@ -18,7 +18,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(4) the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act and <sup>1</sup>
 
-&emsp;(5) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693<i>o</i>–2 of this title or any regulations prescribed by the Board under section 1693<i>o</i>–2 of this title.
+&emsp;(5) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693o–2 of this title or any regulations prescribed by the Board under section 1693o–2 of this title.
 
 > The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
@@ -30,7 +30,7 @@ For the purpose of the exercise by any agency referred to in any of paragraphs (
 
 Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
 
-(Pub. L. 90–321, title IX, §918, formerly §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered §918, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, §1084(5), July 21, 2010, 124 Stat. 2082.)
+(Pub. L. 90–321, title IX, §918, formerly §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(o), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered §918, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, §1084(5), July 21, 2010, 124 Stat. 2082.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1084(5)(A)(ii), added par. (1) and struck o
 
 &emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+Subsec. (a)(2) to (5). Pub. L. 111–203, §1084(5)(A)(ii)–(vii), added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck outformer par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
 
 Subsec. (b). Pub. L. 111–203, §1084(5)(B), inserted “any of paragraphs (1) through (4) of” before “subsection (a)” in two places.
 

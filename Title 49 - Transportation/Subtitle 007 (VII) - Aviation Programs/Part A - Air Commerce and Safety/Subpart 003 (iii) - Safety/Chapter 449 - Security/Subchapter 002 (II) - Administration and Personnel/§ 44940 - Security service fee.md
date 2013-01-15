@@ -34,7 +34,7 @@ Air carrier fees.—
 
 &emsp;&emsp;(A)
 
-Authority.—In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
+Authority.—In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limitedonly to additional amounts collected by the Secretary before October 1, 2007.
 
 &emsp;&emsp;(B)
 
@@ -132,7 +132,7 @@ Refunds.—The Under Secretary may refund any fee paid by mistake or any amount 
 
 (h)
 
-Exemptions.—The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
+Exemptions.—The Under Secretary may exempt from the passenger fee imposed undersubsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
 (i)
 

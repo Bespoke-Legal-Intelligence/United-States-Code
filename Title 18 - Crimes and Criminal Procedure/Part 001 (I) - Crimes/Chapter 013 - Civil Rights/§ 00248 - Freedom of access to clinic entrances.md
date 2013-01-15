@@ -116,21 +116,21 @@ Subsec. (b). Pub. L. 103–322, §330023(a)(3), in concluding provisions, insert
 
 #### Effective Date of 1994 Amendment
 
-Section 330023(b) of Pub. L. 103–322 provided that: “The amendments made by this subsection (a) \[amending this section\] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 \[May 26, 1994\].”
+Pub. L. 103–322, title XXXIII, §330023(b), Sept. 13, 1994, 108 Stat. 2150, provided that: “The amendments made by this subsection (a) \[amending this section\] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 \[May 26, 1994\].”
 
 #### Effective Date
 
-Section 6 of Pub. L. 103–259 provided that: “This Act \[see Short Title note below\] takes effect on the date of the enactment of this Act \[May 26, 1994\], and shall apply only with respect to conduct occurring on or after such date.”
+Pub. L. 103–259, §6, May 26, 1994, 108 Stat. 697, provided that: “This Act \[see Short Title note below\] takes effect on the date of the enactment of this Act \[May 26, 1994\], and shall apply only with respect to conduct occurring on or after such date.”
 
 #### Short Title
 
-Section 1 of Pub. L. 103–259 provided that: “This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
+Pub. L. 103–259, §1, May 26, 1994, 108 Stat. 694, provided that: “This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
 
 #### Severability of Provisions
 
-Section 5 of Pub. L. 103–259 provided that: “If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
+Pub. L. 103–259, §5, May 26, 1994, 108 Stat. 697, provided that: “If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to anyother person or circumstance shall not be affected thereby.”
 
 #### Congressional Statement of Purpose
 
-Section 2 of Pub. L. 103–259 provided that: “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act \[see Short Title note above\] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
+Pub. L. 103–259, §2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act \[see Short Title note above\] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
 

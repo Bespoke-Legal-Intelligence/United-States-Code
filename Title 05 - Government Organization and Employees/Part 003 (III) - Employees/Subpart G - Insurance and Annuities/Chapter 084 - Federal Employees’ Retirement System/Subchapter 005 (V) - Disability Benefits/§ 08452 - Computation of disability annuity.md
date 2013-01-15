@@ -12,7 +12,7 @@
 
 &emsp;(ii) shall, after the end of any period referred to in subparagraph (A)(i), be adjusted to reflect all adjustments made under section 8462(b) after the end of the period referred to in subparagraph (A)(i), whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
+(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223 of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
 
 &emsp;(i) if such month occurs during a period referred to in paragraph (1)(A)(i), be reduced by 100 percent of the annuitant's assumed disability insurance benefit for such month; or
 
@@ -30,7 +30,7 @@
 
 (3) Section 8462 shall apply with respect to amounts under this subsection only as provided in paragraphs (1) and (2).
 
-(b)(1) Except as provided in subsection (d), if an annuitant is entitled to an annuity under this subchapter as of the day before the date of the sixty-second anniversary of the annuitant's birth (hereinafter in this section referred to as the annuitant's “redetermination date”), such annuity shall be redetermined by the Office in accordance with paragraph (2). Effective as of the annuitant's redetermination date, the annuity (as so redetermined) shall be in lieu of any annuity to which such annuitant would otherwise be entitled under this subchapter.
+(b)(1) Except as provided in subsection (d), if an annuitant is entitled to an annuity under this subchapter as of the day before the date of the sixty-second anniversary of the annuitant's birth (hereinafter in this section referred to asthe annuitant's “redetermination date”), such annuity shall be redetermined by the Office in accordance with paragraph (2). Effective as of the annuitant's redetermination date, the annuity (as so redetermined) shall be in lieu of any annuity to which such annuitant would otherwise be entitled under this subchapter.
 
 (2)(A) An annuity redetermined under this subsection shall be equal to the amount of the annuity to which the annuitant would be entitled under section 8415, taking into account the provisions of subparagraph (B).
 
@@ -46,7 +46,7 @@
 
 &emsp;(2) as of the day on which such annuity commences, or is restored, the annuitant satisfies the age and service requirements for entitlement to an annuity under section 8412 (other than subsection (g) of such section).
 
-(d)(1) The annuity to which an annuitant is entitled under this section (after the reduction under subsection (a)(2), if applicable, has been made) shall not be less than the amount of an annuity computed under section 8415 (excluding subsection (g) of such section).
+(d)(1) The annuity to which an annuitant is entitled under this section (after the reduction under subsection (a)(2), if applicable, has been made) shall not be less than the amount of an annuity computed under section 8415 (excluding subsection (h) of such section).
 
 (2) In applying this subsection with respect to any annuitant, the amount of an annuity so computed under section 8415 shall be adjusted under section 8462 (including subsection (c) thereof)—
 
@@ -58,13 +58,15 @@
 
 &emsp;(B) whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, §226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, §226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 112–96, title V, §5001(c)(2)(B), Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 
 Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), are classified to sections 423 and 424a, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–96 substituted “subsection (h)” for “subsection (g)”.
 
 <b>2003</b>—Subsec. (d)(1). Pub. L. 108–176 substituted “subsection (g)” for “subsection (f)”.
 

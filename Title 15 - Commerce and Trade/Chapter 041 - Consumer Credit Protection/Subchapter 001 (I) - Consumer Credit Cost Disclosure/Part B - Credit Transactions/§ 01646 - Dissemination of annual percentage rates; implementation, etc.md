@@ -24,7 +24,7 @@ The Bureau shall collect, publish, and disseminate to the public, on a demonstra
 
 #### (3) Report of information from sample
 
-&emsp;Each financial institution in the broad sample established pursuant to paragraph (2) shallreport the information to the Bureau in accordance with such regulations or orders as the Bureau may prescribe.
+&emsp;Each financial institution in the broad sample established pursuant to paragraph (2) shall report the information to the Bureau in accordance with such regulations or orders as the Bureau may prescribe.
 
 #### (4) Public availability of collected information; report to Congress
 

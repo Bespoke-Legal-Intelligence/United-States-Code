@@ -12,5 +12,5 @@
 
 #### Effective Date
 
-Section 113(b) of Pub. L. 95–105 provided that: “Subsection (a) \[enacting this section\] shall become effective on October 1, 1977.”
+Pub. L. 95–105, title I, §113(b), Aug. 17, 1977, 91 Stat. 849, provided that: “Subsection (a) \[enacting this section\] shall become effective on October 1, 1977.”
 

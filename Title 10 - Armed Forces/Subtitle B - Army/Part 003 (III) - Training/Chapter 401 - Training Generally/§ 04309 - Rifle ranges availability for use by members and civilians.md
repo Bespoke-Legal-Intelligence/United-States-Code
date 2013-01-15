@@ -58,7 +58,7 @@ Military Ranges.—(1) In the case of a rifle range referred to in subsection (a
 
 Regulations.—Regulations to carry out this section shall be prescribed by the authorities controlling the rifle range, subject to the approval of the Secretary of the Army.”
 
-<b>1990</b>—Pub. L. 101–510 substituted “Rifle ranges: available for use by members and civilians” for “Rifle ranges: recommendations to Congress; regulations” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Pub. L. 101–510 substituted “Rifle ranges: available for use by members and civilians” for “Rifleranges: recommendations to Congress; regulations” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
 
@@ -68,7 +68,7 @@ Regulations.—Regulations to carry out this section shall be prescribed by the 
 
 #### Effective Date of 1992 Amendment
 
-Section 380(e) of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title III, §380(e), Oct. 23, 1992, 106 Stat. 2391, provided that:
 
 “(1) This section \[enacting section 4316 of this title and amending this section and sections 4308 and 4313 of this title\] and the amendments made by this section shall take effect on the earlier of—
 
@@ -82,5 +82,5 @@ Section 380(e) of Pub. L. 102–484 provided that:
 
 #### Effective Date of 1990 Amendment
 
-Section 328(h) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and sections 4308, 4311, and 4313 of this title\] shall take effect on October 1, 1992.”
+Pub. L. 101–510, div. A, title III, §328(h), Nov. 5, 1990, 104 Stat. 1534, provided that: “The amendments made by this section \[amending this section and sections 4308, 4311, and 4313 of this title\] shall take effect on October 1, 1992.”
 

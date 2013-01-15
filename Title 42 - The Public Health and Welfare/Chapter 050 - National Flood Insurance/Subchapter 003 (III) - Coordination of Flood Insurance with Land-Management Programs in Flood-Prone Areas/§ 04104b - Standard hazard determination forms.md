@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-The Director, in consultation with representatives of the mortgage and lending industry, the Federal entities for lending regulation, the Federal agency lenders, and any other appropriate individuals, shall develop a standard form for determining, in the case of a loan secured by improved real estate or a mobile home, whether the building or mobile home is located in an area identified by the Director as an area having special flood hazards and in which flood insurance under this chapter is available. The form shall be established by regulations issued not later than 270 days after September 23, 1994.
+The Administrator, in consultation with representatives of the mortgage and lending industry, the Federal entities for lending regulation, the Federal agency lenders, and any other appropriate individuals, shall develop a standard form for determining, in the case of a loan secured by improved real estate or a mobile home, whether the building or mobile home is located in an area identified by the Administrator as an area having special flood hazards and in which flood insurance under this chapter is available. The form shall be established by regulations issued not later than 270 days after September 23, 1994.
 
 #### (b) Design and contents
 
@@ -12,7 +12,7 @@ The Director, in consultation with representatives of the mortgage and lending i
 
 #### (2) Contents
 
-&emsp;The form shall require identification of the type of flood-risk zone in which the building or mobile home is located, the complete map and panel numbers for the improved real estate or property on which the mobile home is located, the community identification number and community participation status (for purposes of the national flood insurance program) of the community in which the improved real estate or such property is located, and the date of the map used for the determination, with respect to flood hazard information on file with the Director. If the building or mobile home is not located in an area having special flood hazards the form shall require a statement to such effect and shall indicate the complete map and panel numbers of the improved real estate or property on which the mobile home is located. If the complete map and panel numbers are not available because the building or mobile home is not located in a community that is participating in the national flood insurance program or because no map exists for the relevant area, the form shall require a statement to such effect. The form shall provide for inclusion or attachment of any relevant documents indicating revisions or amendments to maps.
+&emsp;The form shall require identification of the type of flood-risk zone in which the building or mobile home is located, the complete map and panel numbers for the improved real estate or property on which the mobile home is located, the community identification number and community participation status (for purposes of the national flood insurance program) of the community in which the improved real estate or such property is located, and the date of the map used for the determination, with respect to flood hazard information on file with the Administrator. If the building or mobile home is not located in an area having special flood hazards the form shall require a statement to such effect and shall indicate the complete map and panel numbers of the improved real estate or property on which the mobile home is located. If the complete map and panel numbers are not available because the building or mobile home is not located in a community that is participating in the national flood insurance program or because no map exists for the relevant area, the form shall require a statement to such effect. The form shall provide for inclusion or attachment of any relevant documents indicating revisions or amendments to maps.
 
 #### (c) Required use
 
@@ -20,25 +20,29 @@ The Federal entities for lending regulation shall by regulation require the use 
 
 #### (d) Guarantees regarding information
 
-In providing information regarding special flood hazards on the form developed under thissection, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
+In providing information regarding special flood hazards on the form developed under this section, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
 
 #### (e) Reliance on previous determination
 
-Any person increasing, extending, renewing, or purchasing a loan secured by improved real estate or a mobile home may rely on a previous determination of whether the building or mobile home is located in an area having special flood hazards (and shall not be liable for any error in such previous determination), if the previous determination was made not more than 7 years before the date of the transaction and the basis for the previous determination has been set forth on a form under this section, unless—
+Any person increasing, extending, renewing, or purchasing a loan secured by improved real estate or a mobile home may rely on a previous determination of whether the building or mobile home is located in an area having special flood hazards (and shall not be liable for any error in such previous determination), if the previous determination was made not more than 7 years before the date of the transaction and the basis forthe previous determination has been set forth on a form under this section, unless—
 
 &emsp;(1) map revisions or updates pursuant to section 4101(f) of this title after such previous determination have resulted in the building or mobile home being located in an area having special flood hazards; or
 
-&emsp;(2) the person contacts the Director to determine when the most recent map revisions or updates affecting such property occurred and such revisions and updates have occurred after such previous determination.
+&emsp;(2) the person contacts the Administrator to determine when the most recent map revisions or updates affecting such property occurred and such revisions and updates have occurred after such previous determination.
 
 #### (f) Effective date
 
 The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) of this section and shall take effect upon the expiration of the 180-day period beginning on such issuance.
 
-(Pub. L. 90–448, title XIII, §1365, as added Pub. L. 103–325, title V, §528, Sept. 23, 1994, 108 Stat. 2264.)
+(Pub. L. 90–448, title XIII, §1365, as added Pub. L. 103–325, title V, §528, Sept. 23, 1994, 108 Stat. 2264; amended Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(1), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
+#### Amendments
+
+<b>2012</b>—Subsecs. (a), (b)(2), (e)(2). Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
 
 #### Transfer of Functions
 

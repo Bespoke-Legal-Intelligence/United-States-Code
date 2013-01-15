@@ -70,7 +70,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (A) Organizations
 
-&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Boardfrom among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
 
 #### (B) Nominations
 

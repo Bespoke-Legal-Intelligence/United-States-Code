@@ -100,7 +100,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if a United States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
+&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if aUnited States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
 
 #### (B) Tax must be imposed
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,
 
-&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regard to this section), would be sourced outside the United States, and
+&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regardto this section), would be sourced outside the United States, and
 
 &emsp;&emsp;&emsp;(iii) with respect to which the taxpayer chooses the benefits of this subsection.
 
@@ -304,11 +304,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1996 Amendment
 
-Section 1704(f)(4)(B) of Pub. L. 104–188 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+Pub. L. 104–188, title I, §1704(f)(4)(B), Aug. 20, 1996, 110 Stat. 1880, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 13239(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13239(e), Aug. 10, 1993, 107 Stat. 509, provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -316,13 +316,13 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(d)(5) of Pub. L. 100–647 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1987.
+Pub. L. 100–647, title I, §1012(d)(5), Nov. 10, 1988, 102 Stat. 3497, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1987.
 
 Amendment by section 1012(d)(1)–(4), (6), (8), (9), (11), (12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Section 1211(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title XII, §1211(c), Oct. 22, 1986, 100 Stat. 2536, provided that:
 
 “(1)
 
@@ -342,5 +342,5 @@ For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting
 
 #### Study of Source Rules for Sales of Inventory Property
 
-Section 1211(d) of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
+Pub. L. 99–514, title XII, §1211(d), Oct. 22, 1986, 100 Stat. 2536, directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
 

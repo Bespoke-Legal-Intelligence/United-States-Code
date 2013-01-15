@@ -2,7 +2,7 @@
 
 #### (a) Submission of membership roll
 
-Within six months after September 8, 1988, the Band shall submit to the Secretary, for approval, its base membership roll which shall include only individuals who are not members of any other federally recognized Indian tribe orwho have relinquished membership in such tribe and who are eligible for membership under subsection (b) of this section.
+Within six months after September 8, 1988, the Band shall submit to the Secretary, for approval, its base membership roll which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and who are eligible for membership under subsection (b) of this section.
 
 #### (b) Eligibility
 
@@ -10,7 +10,7 @@ An individual is eligible for inclusion on the base membership roll in the Band 
 
 &emsp;(1) is on the tribal membership roll as maintained by the Band prior to September 8, 1988, and is on file with the Bureau of Indian Affairs as of September 8, 1988; or
 
-&emsp;(2) is at least one-quarter Chippewa Indian blood and is a person or a descendant of a person who was listed, or could have been listed, on any of the census of the Lac Vieux Desert Band prepared by the Superintendent of the MacKinaw Agency prior to 1928 or by the Superintendent of the Great Lakes agency on or prior to 1940.
+&emsp;(2) is at least one-quarter Chippewa Indian blood and is a person or a descendant of a person who was listed, or could have been listed,on any of the census of the Lac Vieux Desert Band prepared by the Superintendent of the MacKinaw Agency prior to 1928 or by the Superintendent of the Great Lakes agency on or prior to 1940.
 
 #### (c) Maintenance of roll
 

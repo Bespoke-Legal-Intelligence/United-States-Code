@@ -10,7 +10,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 #### (b) Fees
 
-(1) The Administrator may, by rule, require the payment of a reasonable fee from any person required to submit data under section 2603 or 2604 of this title to defray the cost of administering this chapter. Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100. In setting a fee under this paragraph, the Administrator shall take into account the ability to pay of the person required to submit the data and the cost to the Administrator of reviewing such data. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
+(1) The Administrator may, by rule, require the payment of a reasonable fee from any person required to submit data under section 2603 or2604 of this title to defray the cost of administering this chapter. Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100. In setting a fee under this paragraph, the Administrator shall take into account the ability to pay of the person required to submit the data and the cost to the Administrator of reviewing such data. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
 
 (2) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the persons which qualify as small business concerns for purposes of paragraph (1).
 
@@ -60,7 +60,7 @@ Any final order issued under this chapter shall be accompanied by a statement of
 
 #### (g) Assistant Administrator
 
-(1) The President, by and with the advice and consent of the Senate, shall appoint an Assistant Administrator for Toxic Substances of the Environmental Protection Agency. Such Assistant Administrator shall be a qualified individual who is, by reason of background and experience, especially qualified to direct a program concerning the effects of chemicals on human health and the environment. Such Assistant Administrator shall be responsible for (A) the collection of data, (B) the preparation of studies, (C) the making of recommendations to the Administrator for regulatory and other actions to carry out the purposes and to facilitate the administration of this chapter, and (D) such other functions as the Administrator may assign or delegate.
+(1) The President, by and with the advice and consent of the Senate, shall appoint an Assistant Administrator for Toxic Substances of the Environmental Protection Agency. Such Assistant Administrator shall be a qualified individual who is, by reason of background and experience, especially qualified to direct a program concerning the effects of chemicals on human health and the environment. Such Assistant Administrator shall be responsible for (A) the collectionof data, (B) the preparation of studies, (C) the making of recommendations to the Administrator for regulatory and other actions to carry out the purposes and to facilitate the administration of this chapter, and (D) such other functions as the Administrator may assign or delegate.
 
 (2) The Assistant Administrator to be appointed under paragraph (1) shall be in addition to the Assistant Administrators of the Environmental Protection Agency authorized by section 1(d) of Reorganization Plan No. 3 of 1970.
 

@@ -16,5 +16,5 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 #### Effective Date
 
-Section 6(a) of Pub. L. 90–631 provided that: “The amendments made by the first section and sections 2, 3, and 5 of this Act \[see Tables for classification\] shall take effect on the first day of the second calendar month which begins after the date of the enactment of this Act \[Oct. 23, 1968\].”
+Pub. L. 90–631, §6(a), Oct. 23, 1968, 82 Stat. 1335, provided that: “The amendments made by the first section and sections 2, 3, and 5 of this Act \[see Tables for classification\] shall take effect on the first day of the second calendar month which begins after the date of the enactment of this Act \[Oct. 23, 1968\].”
 

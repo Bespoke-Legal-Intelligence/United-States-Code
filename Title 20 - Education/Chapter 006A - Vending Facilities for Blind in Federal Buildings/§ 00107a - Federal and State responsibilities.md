@@ -4,7 +4,7 @@
 
 The Secretary of Education shall—
 
-&emsp;(1) Insure that the Rehabilitation Services Administration is the principal agency for carrying out this chapter; and the Commissionershall, within one hundred and eighty days after enactment of the Randolph-Sheppard Act Amendments of 1974, establish requirements for the uniform application of this chapter by each State agency designated under paragraph (5) of this subsection, including appropriate accounting procedures, policies on the selection and establishment of new vending facilities, distribution of income to blind vendors, and the use and control of set-aside funds under section 107b(3) of this title;
+&emsp;(1) Insure that the Rehabilitation Services Administration is the principal agency for carrying out this chapter; and the Commissioner shall, within one hundred and eighty days after enactment of the Randolph-Sheppard Act Amendments of 1974, establish requirements for the uniform application of this chapter by each State agency designated under paragraph (5) of this subsection, including appropriate accounting procedures, policies on the selection and establishment of new vending facilities, distribution of income to blind vendors, and the use and control of set-aside funds under section 107b(3) of this title;
 
 &emsp;(2) Through the Commissioner, make annual surveys of concession vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, the Department of Defense, and the United States Postal Service;
 
@@ -12,7 +12,7 @@ The Secretary of Education shall—
 
 &emsp;(4) Make available to the public, and especially to persons and organizations engaged in work for the blind, information obtained as a result of such surveys;
 
-&emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
+&emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizensof the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
 
 &emsp;(6) Through the Commission,<sup>1</sup> (A) conduct periodic evaluations of the program authorized by this chapter, including upward mobility and other training required by section 107d–4 of this title, and (B) take such other steps, including the issuance of such rules and regulations, as may be necessary or desirable in carrying out the provisions of this chapter.
 
@@ -34,7 +34,7 @@ The State licensing agency designated by the Secretary is authorized, with the a
 
 #### (e) State licensing agency in States having vocational rehabilitation plans
 
-In any State having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act or the Rehabilitation Act of1973 \[29 U.S.C. 701 et seq.\], the State licensing agency designated under paragraph (5) of subsection (a) of this section shall be the State agency designated under section 101(a)(2)(A) of such Rehabilitation Act of 1973 \[29 U.S.C. 721(a)(2)(A)\].
+In any State having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act or the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the State licensing agency designated under paragraph (5) of subsection (a) of this section shall be the State agency designated under section 101(a)(2)(A) of such Rehabilitation Act of 1973 \[29 U.S.C. 721(a)(2)(A)\].
 
 (June 20, 1936, ch. 638, §2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, §203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, §1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, §414(a), Aug. 7, 1998, 112 Stat. 1241.)
 
@@ -42,7 +42,7 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
 
-The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in partthat references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
 
 The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -76,11 +76,11 @@ Subsec. (c). Pub. L. 93–516, §203(c), substituted “facility” for “stand
 
 Subsecs. (d), (e). Pub. L. 93–516, §203(d), added subsecs. (d) and (e). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-<b>1954</b>—Act Aug. 3, 1954, added to the list of articles which may be vended, articles dispensed automatically or in containers or wrappings received by the stand and to provide that after four years the agency designated under section 35(a)(1) of title 29 shall be the sole State agency for vocational rehabilitation of the blind and torequire, prior to that time, certification by agencies as a condition for issuing licenses.
+<b>1954</b>—Act Aug. 3, 1954, added to the list of articles which may be vended, articles dispensed automatically or in containers or wrappings received by the stand and to provide that after four years the agency designated under section 35(a)(1) of title 29 shall be the sole State agency for vocational rehabilitation of the blind and to require, prior to that time, certification by agencies as a condition for issuing licenses.
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954.
+Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under section 49b of Title 29, Labor.
 
 #### Transfer of Functions
 
@@ -93,6 +93,26 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 “Federal Security Administrator” substituted for “Office of Education under the Federal Security Agency, subject to the direction of the Commissioner of Education and such rules and regulations as he may, with the approval of the Federal Security Administrator, prescribe” in subsec. (a) and for “Office of Education” in subsec. (c) by Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5, which transferred functions of Office of Education and Commissioner of Education under sections 107 to 107f of this title to Federal Security Administrator. Federal Security Agency Order 62, July 16, 1946, 11 F.R. 7943, provided that these functions shall be performed under supervision and direction of Commissioner for Special Services by Director of Vocational Rehabilitation and such officers and employees of Office of Vocational Rehabilitation as Director shall designate.
 
 Office of Education originally established in Department of the Interior from which it was transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §201, which is set out in the Appendix to Title 5.
+
+#### Federal Support for the Randolph-Sheppard Vending Facility Program
+
+Memorandum of President of the United States, Jan. 20, 2012, 77 F.R. 3917, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Thousands of Americans who are blind have embraced the entrepreneurial spirit that helps define our Nation as a land of opportunity. Through the Federal Randolph-Sheppard Vending Facility Program administered by the Department of Education, talented and creative individuals who are blind have acquired the management training and business skills necessary to realize the American dream—a lifetime of economic opportunity, independence, and self-sufficiency for themselves and their families.
+
+For 75 years, blind business managers have successfully operated food services and commercial ventures at Federal, State, and private buildings and locations nationwide. We honor and celebrate this program's historic achievements. We also trust that the Randolph-Sheppard Program will continue to be a leading model for providing high-quality entrepreneurial opportunities for blind individuals. From a simple snack shop, to tourist services at the Hoover Dam, to full food-services operations at military installations, blind entrepreneurs have provided exceptional customer service to Federal and State employees, the Armed Forces, and the general public. With proven ability, they have challenged preconceived notions about disability.
+
+The Randolph-Sheppard Act (20 U.S.C. 107 <i>et seq</i>.) created the Vending Facility Program requiring qualified blind individuals be given a priority to operate vending facilities on Federal properties. This program is responsible today for providing entrepreneurial opportunities for over 2,500 individuals who are blind. In turn, these business managers have hired thousands of workers, many of whom are individuals with disabilities. Every American, including persons with disabilities, deserves the opportunity to succeed without limits, earn equal pay for equal jobs, and aspire to full-time, career-oriented employment.
+
+Continued support and cooperation are needed from executive departments, agencies, and offices (agencies) to extend the Randolph-Sheppard priority to qualified blind managers through the State licensing agencies that implement the program. Therefore, I direct all agencies that have property management responsibilities to ensure that agency officials, when pursuing the establishment and operation of vending facilities (including cafeterias and military dining facilities) as defined in 20 U.S.C. 107e, issue permits and contracts in compliance with the Randolph-Sheppard Program and consistent with existing regulations and law. I further direct the Secretary of Education, through the Commissioner of the Rehabilitation Services Administration, to submit a report to the President on agencies’ implementation of the Randolph-Sheppard Program not later than 1 year from the date of this memorandum.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commissioner,”.</i>
 

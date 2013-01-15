@@ -22,5 +22,5 @@ The word “commissioned” is inserted, since the retirement of warrant officer
 
 #### Delegation of Functions
 
-Functions of the President under this section to approve the request of a regular commissioned officer ofthe Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of the President under this section to approve the request of a regular commissioned officer of the Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 

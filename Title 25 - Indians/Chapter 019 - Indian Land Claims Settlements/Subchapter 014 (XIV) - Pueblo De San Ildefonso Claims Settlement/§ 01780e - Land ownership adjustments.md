@@ -30,7 +30,7 @@ The consideration to be paid for the Federal land authorized for sale in subsect
 
 #### (3) Acquisitions of land
 
-&emsp;In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County's acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 1708j(b)(2)(A) of this title, <sup>1</sup> the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
+&emsp;In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County's acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 1780j(b)(2)(A) of this title, <sup>1</sup> the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
 
 #### (d) Valid existing rights and reservations
 
@@ -78,7 +78,7 @@ The consideration to be paid for the Federal land authorized for sale in subsect
 
 #### (1) United States right to use
 
-&emsp;Subject to any right-of-way to use, cross, and recross a road, the United States shall reserve and have free and unrestricted rights to use, operate, maintain, and reconstruct (at thesame level of development, as in existence on the date of the Settlement Agreement), those sections of Forest Development Roads 57, 442, 416, 416v, 445 and 445ca referenced in Appendix B of the Settlement Agreement for any and all public and administrative access and other Federal governmental purposes, including access by Federal employees, their agents, contractors, and assigns (including those holding Forest Service permits).
+&emsp;Subject to any right-of-way to use, cross, and recross a road, the United States shall reserve and have free and unrestricted rights to use, operate, maintain, and reconstruct (at the same level of development, as in existence on the date of the Settlement Agreement), those sections of Forest Development Roads 57, 442, 416, 416v, 445 and 445ca referenced in Appendix B of the Settlement Agreement for any and all public and administrative access and other Federal governmental purposes, including access by Federal employees, their agents, contractors, and assigns (including those holding Forest Service permits).
 
 #### (2) Certain roads
 

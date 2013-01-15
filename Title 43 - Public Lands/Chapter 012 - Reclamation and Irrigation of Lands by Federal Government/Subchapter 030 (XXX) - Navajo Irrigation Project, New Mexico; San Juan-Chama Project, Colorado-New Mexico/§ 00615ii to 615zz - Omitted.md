@@ -10,13 +10,13 @@ A prior section 615jj, Pub. L. 87–483, §2, June 13, 1962, 76 Stat. 96, author
 
 Section 615kk, Pub. L. 87–483, §3, June 13, 1962, 76 Stat. 96; Pub. L. 91–416, §1(a), (c), Sept. 25, 1970, 84 Stat. 867, related to lands to be used as part of Navajo Indian irrigation project.
 
-Section 615<i>ll</i>, Pub. L. 87–483, §4, June 13, 1962, 76 Stat. 97, related to contractual assurance of repayment of costs and interest for construction of additional capacity in developing Navajo Indian irrigation project.
+Section 615ll, Pub. L. 87–483, §4, June 13, 1962, 76 Stat. 97, related to contractual assurance of repayment of costs and interest for construction of additional capacity in developing Navajo Indian irrigation project.
 
 Section 615mm, Pub. L. 87–483, §5, June 13, 1962, 76 Stat. 97, related to payment of operation and maintenance charges of Navajo Indian irrigation project and to transfers of project works and title to property.
 
 Section 615nn, Pub. L. 87–483, §6, June 13, 1962, 76 Stat. 97, related to restriction on delivery of water from Navajo Indian irrigation project for production of excessive basic commodities.
 
-Section 615<i>oo</i>, Pub. L. 87–483, §7, June 13, 1962, 76 Stat. 97; Pub. L. 91–416, §1(b), Sept. 25, 1970, 84 Stat. 867, authorized appropriations for Navajo Indian irrigation project.
+Section 615oo, Pub. L. 87–483, §7, June 13, 1962, 76 Stat. 97; Pub. L. 91–416, §1(b), Sept. 25, 1970, 84 Stat. 867, authorized appropriations for Navajo Indian irrigation project.
 
 Section 615pp, Pub. L. 87–483, §8, June 13, 1962, 76 Stat. 97, authorized construction, operation, and maintenance of initial stage of San Juan-Chama Project, Colorado-New Mexico.
 

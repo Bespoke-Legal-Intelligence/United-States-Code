@@ -20,7 +20,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (4) Participation
 
-&emsp;The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies and tribes to ensure the coordination of local flood damage reduction or riverine and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains.
+&emsp;The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies andtribes to ensure the coordination of local flood damage reduction or riverine and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains.
 
 #### (c) Cost-sharing requirements
 

@@ -22,7 +22,7 @@ For the purpose of imposing civil penalties and criminal fines under this sectio
 
 #### (d) Injunctive relief
 
-The Attorney General or his delegate may bring actions for equitable relief to enjoin an imminent or continuing violation of this subchapter, of regulations promulgated under this subchapter, or of permits issued under this subchapter, and the district courts of the United States shall have jurisdiction to grant such relief as the equities of the case may require.
+The Attorney General or his delegate may bring actions for equitable relief to enjoin an imminent or continuing violation of this subchapter, of regulations promulgated under this subchapter, or of permits issued under this subchapter, and the district courts of the UnitedStates shall have jurisdiction to grant such relief as the equities of the case may require.
 
 #### (e) Liability of vessels in rem
 
@@ -84,7 +84,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 &emsp;“(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 
-&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any propertyconstituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
+&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
 
 Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 

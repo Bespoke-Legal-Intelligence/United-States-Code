@@ -10,7 +10,7 @@ The purposes of this chapter are to provide for all services and assistance nece
 
 #### Effective Date
 
-Section 802(a)(1)–(5) of Pub. L. 96–466 provided that:
+Pub. L. 96–466, title VIII, §802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217, provided that:
 
 “(a)(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) of section 101 \[enacting this chapter\] shall become effective on April 1, 1981.
 

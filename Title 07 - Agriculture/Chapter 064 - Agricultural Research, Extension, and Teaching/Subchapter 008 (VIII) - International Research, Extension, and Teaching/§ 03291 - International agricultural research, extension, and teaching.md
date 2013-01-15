@@ -138,7 +138,7 @@ Subsec. (a). Pub. L. 101–624, §1613(a), amended subsec. (a) generally. Prior 
 
 &emsp;“(3) work with developed and transitional countries on food, agricultural and related research and extension, including providing technical assistance, training, and advice to persons from such countries engaged in such activities and the stationing of scientists at national and international institutions in such countries;
 
-&emsp;“(4) assist United States colleges and universities in strengthening their capabilities for food, agricultural, and related research and extension relevant to agricultural development activities in other countries through the development of highly qualified scientists with specialization in international development; and
+&emsp;“(4) assist United States colleges and universities in strengthening their capabilities for food, agricultural, and related research and extension relevant toagricultural development activities in other countries through the development of highly qualified scientists with specialization in international development; and
 
 &emsp;“(5) further develop within the Department of Agriculture highly qualified and experienced scientists who specialize in international programs, to be available for the activities described in this section.”
 

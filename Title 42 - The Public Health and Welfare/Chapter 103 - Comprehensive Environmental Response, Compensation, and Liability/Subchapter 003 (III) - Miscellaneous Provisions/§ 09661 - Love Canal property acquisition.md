@@ -60,7 +60,7 @@ Section 9631 of this title, referred to in subsec. (f), was repealed by Pub. L. 
 
 #### Love Canal Property Acquisition; Congressional Findings
 
-Section 213(a) of Pub. L. 99–499 provided that:
+Pub. L. 99–499, title II, §213(a), Oct. 17, 1986, 100 Stat. 1726, provided that:
 
 “(1) The area known as Love Canal located in the city of Niagara Falls and the town of Wheatfield, New York, was the first toxic waste site to receive national attention. As a result of that attention Congress investigated the problems associated with toxic waste sites and enacted CERCLA \[Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.)\] to deal with these problems.
 

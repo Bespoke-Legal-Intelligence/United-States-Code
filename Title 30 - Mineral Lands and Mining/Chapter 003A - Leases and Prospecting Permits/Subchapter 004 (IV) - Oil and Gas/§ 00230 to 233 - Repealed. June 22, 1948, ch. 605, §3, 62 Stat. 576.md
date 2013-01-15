@@ -10,5 +10,5 @@ Section 233, act Mar. 4, 1923, ch. 249, §4, 42 Stat. 1448, provided for payment
 
 #### Savings Provision
 
-Section 3 of act June 22, 1948, provided that the repeal of these sections is subject to existing valid rights.
+Act June 22, 1948, ch. 605, §3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.
 

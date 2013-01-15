@@ -6,7 +6,7 @@ An insured depository institution or depository institution holding company shal
 
 &emsp;(1) the insured depository institution or depository institution holding company is not in compliance with the minimum capital requirement applicable to such institution or is otherwise in a troubled condition, as determined by such agency on the basis of such institution's or holding company's most recent report of condition or report of examination or inspection; or
 
-&emsp;(2) the agency determines, in connection with the review by the agency of the plan required under section 1831<i>o</i> of this title or otherwise, that such prior notice is appropriate.
+&emsp;(2) the agency determines, in connection with the review by the agency of the plan required under section 1831o of this title or otherwise, that such prior notice is appropriate.
 
 #### (b) Disapproval by agency
 
@@ -32,7 +32,7 @@ Any notice submitted to an appropriate Federal banking agency with respect to an
 
 #### (e) Standard for disapproval
 
-The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
+The appropriate Federal banking agency shall issue a notice of disapproval with respect to anotice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
 
 #### (f) Definition regulations
 

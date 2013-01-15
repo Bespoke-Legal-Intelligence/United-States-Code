@@ -16,7 +16,7 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 
 &emsp;(A) A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
 
-&emsp;(B) A description of the necessary naval vessel force structure to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+&emsp;(B) A description of the necessary naval vessel force structure to meet the requirementsof the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
 &emsp;(C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
@@ -30,6 +30,12 @@ CBO Evaluation.—Not later than 60 days after the date on which the congression
 
 (e)
 
+Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—(1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
+
+(2) The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
+
+(f)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
@@ -38,9 +44,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7,2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558.)
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908.)
 
 #### Amendments
+
+<b>2013</b>—Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
 

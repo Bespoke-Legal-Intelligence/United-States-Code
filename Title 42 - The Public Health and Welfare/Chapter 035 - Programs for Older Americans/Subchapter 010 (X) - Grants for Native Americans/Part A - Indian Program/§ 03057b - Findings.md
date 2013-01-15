@@ -38,7 +38,7 @@ Subsec. (a)(9). Pub. L. 102–375, §904(a)(21)(B), substituted “population of
 
 #### Task Force
 
-Section 134(d) of Pub. L. 100–175 provided that:
+Pub. L. 100–175, title I, §134(d), Nov. 29, 1987, 101 Stat. 941, provided that:
 
 “(1) The Commissioner on Aging \[now Assistant Secretary for Aging\] shall establish a permanent interagency task force that is representative of departments and agencies of the Federal Government with an interest in older Indians and their welfare, and is designed to make recommendations with respect to facilitating the coordination of services and the improvement of services to older Indians.
 
@@ -46,7 +46,7 @@ Section 134(d) of Pub. L. 100–175 provided that:
 
 #### Special Report on Services for Older Indians
 
-Section 134(e) of Pub. L. 100–175 directed Commissioner on Aging to enter into a contract with a public agency or nonprofit private organization to conduct a thorough study of availability and quality of services under the Older Americans Act of 1965, 42 U.S.C. 3001 et seq., to older Indians and, not later than Dec. 31, 1988, submit to Congress a report and recommendations based on the study.
+Pub. L. 100–175, title I, §134(e), Nov. 29, 1987, 101 Stat. 942, directed Commissioner on Aging to enter into a contract with a public agency or nonprofit private organization to conduct a thorough study of availability and quality of services under the Older Americans Act of 1965, 42 U.S.C. 3001 et seq., to older Indians and, not later than Dec. 31, 1988, submit to Congress a report and recommendations based on the study.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

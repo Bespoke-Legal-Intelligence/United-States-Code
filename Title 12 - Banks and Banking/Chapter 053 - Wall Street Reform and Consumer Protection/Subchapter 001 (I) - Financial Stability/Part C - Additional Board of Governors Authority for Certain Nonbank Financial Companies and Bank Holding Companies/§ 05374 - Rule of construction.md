@@ -1,6 +1,6 @@
 ### §5374. Rule of construction
 
-No regulation or standard imposed under this subchapter may be construed in a manner that would lessen the stringency of the requirementsof any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This subchapter, and the rules and regulations or orders prescribed pursuant to this subchapter, do not divest any such agency of any authority derived from any other applicable law.
+No regulation or standard imposed under this subchapter may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This subchapter, and the rules and regulations or orders prescribed pursuant to this subchapter, do not divest any such agency of any authority derived from any other applicable law.
 
 (Pub. L. 111–203, title I, §176, July 21, 2010, 124 Stat. 1442.)
 

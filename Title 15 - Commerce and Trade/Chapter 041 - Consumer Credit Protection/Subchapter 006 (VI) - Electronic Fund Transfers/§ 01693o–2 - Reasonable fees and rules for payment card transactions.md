@@ -108,7 +108,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
+&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or anelectronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
 
 &emsp;&emsp;&emsp;(i) A fee for an overdraft, including a shortage of funds or a transaction processed for an amount exceeding the account balance.
 
@@ -228,7 +228,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) means any card, or other payment code or device, issued or approved for use through a payment card network to debit an asset account (regardless of the purpose for which the account is established), whether authorization is based on signature, PIN, or other means;
 
-&emsp;&emsp;(B) includes a general-use prepaid card, as that term is defined in section 1693<i>l</i>–1(a)(2)(A) of this title; and
+&emsp;&emsp;(B) includes a general-use prepaid card, as that term is defined in section 1693l–1(a)(2)(A) of this title; and
 
 &emsp;&emsp;(C) does not include paper checks.
 
@@ -280,7 +280,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;Compliance with the requirements imposed under this section shall be enforced under section 1693<i>o</i> of this title.
+&emsp;Compliance with the requirements imposed under this section shall be enforced under section 1693o of this title.
 
 #### (2) Exception
 

@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 103–43, §2010(b)(3), substituted “Section 238” for �
 
 Pub. L. 100–607 substituted “300aaa” for “300cc”.
 
-<b>1987</b>—Pub. L. 100–202, which directed the amendment of “Section 465(B) of 42 U.S.C. 286” by inserting “between (5) and (6) an additional charge to the Secretary to ‘publicize the availability of the above products and services of the National Library of Medicine’ ”, was repealed by Pub. L. 103–43, §1401(c)(1).
+<b>1987</b>—Pub. L. 100–202, which directed the amendment of “Section 465(B) of 42 U.S.C. 286” by inserting “between (5) and (6) an additional charge to the Secretary to ‘publicize the availability of the above products andservices of the National Library of Medicine’ ”, was repealed by Pub. L. 103–43, §1401(c)(1).
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–660 substituted “section 300cc of this title” for “section 300aa of this title”.
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L
 
 #### Applicability of Certain New Authority
 
-Section 1401(c)(2) of Pub. L. 103–43 provided that: “With respect to the authority established for the National Library of Medicine in section 465(b)(6) of the Public Health Service Act, as added by subsection (a) of this section \[subsec. (b)(6) of this section\], such authority shall be effective as if the authority had been established on December 22, 1987.”
+Pub. L. 103–43, title XIV, §1401(c)(2), June 10, 1993, 107 Stat. 170, provided that: “With respect to the authority established for the National Library of Medicine in section 465(b)(6) of the Public Health Service Act, as added by subsection (a) of this section \[subsec. (b)(6) of this section\], such authority shall be effective as if the authority had been established on December 22, 1987.”
 

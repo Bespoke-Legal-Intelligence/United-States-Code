@@ -26,7 +26,7 @@
 
 &emsp;(6) monitor and review the live fire testing activities of the Department of Defense provided for under section 2366 of this title.
 
-(c) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Director shall consult closely with, but the Director and the Director's staff are independent of, the Under Secretary of Defense for Acquisition, Technology, and Logistics and all other officers and entities of the Department of Defense responsible for acquisition.
+(c) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Directorshall consult closely with, but the Director and the Director's staff are independent of, the Under Secretary of Defense for Acquisition, Technology, and Logistics and all other officers and entities of the Department of Defense responsible for acquisition.
 
 (d) The Director may not be assigned any responsibility for developmental test and evaluation, other than the provision of advice to officials responsible for such testing.
 
@@ -34,7 +34,7 @@
 
 (2) The Director may require that such observers as he designates be present during the preparation for and the conduct of the test part of any operational test and evaluation conducted in the Department of Defense.
 
-(3) The Director shall have access to all records and data in the Department of Defense\(including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
+(3) The Director shall have access to all records and data in the Department of Defense (including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
 
 (f)(1) The Director of the Missile Defense Agency shall make available to the Director of Operational Test and Evaluation the results of all tests and evaluations conducted by the Missile Defense Agency and of all studies conducted by the Missile Defense Agency in connection with tests and evaluations in the Missile Defense Agency.
 
@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 101–189, §802(b)(6), (8), redesignated former par. (2) o
 
 <b>1987</b>—Subsec. (a)(2)(B). Pub. L. 100–26, §7(c)(2), substituted “section 2430” for “section 2432(a)(1)”.
 
-Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted “to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.” for “to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report.”
+Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted “to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied bysuch comments as the Secretary may wish to make on the report.” for “to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report.”
 
 Subsec. (d). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
@@ -162,7 +162,7 @@ Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§903(c)(7)\], an
 
 #### Effective Date
 
-Section 1211(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall take effect on November 1, 1983.”
+Pub. L. 98–94, title XII, §1211(c), Sept. 24, 1983, 97 Stat. 686, provided that: “The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall take effect on November 1, 1983.”
 
 #### Review and Revision of Policies and Practices on Test and Evaluation; Inclusion in Strategic Plan; Report
 

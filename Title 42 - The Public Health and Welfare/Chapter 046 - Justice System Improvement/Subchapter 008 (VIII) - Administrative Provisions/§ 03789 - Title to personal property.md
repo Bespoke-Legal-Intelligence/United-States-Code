@@ -1,6 +1,6 @@
 ### §3789. Title to personal property
 
-Notwithstanding any other provision of law, title to all expendable and nonexpendable personal property purchased with funds made available under this chapter, including such property purchased with funds made available under this chapter as in effect before October 12, 1984, shall vest in the criminal justice agency or nonprofit organization that purchased the property if it certifies to the State office responsible for the trust fund required by section 3757 of this title, or the State office described in section 3796aa–7 <sup>1</sup> of this title,,<sup>2</sup> as the case may be, that it will use the property for criminal justice purposes. If such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.
+Notwithstanding any other provision of law, title to all expendable and nonexpendable personal property purchased with funds made available under this chapter, including such property purchased with funds made available under this chapter as in effect before October 12, 1984, shall vest in the criminal justice agency or nonprofit organization that purchased the property if it certifies to the State office responsible for the trust fund required by section 3757 of this title,or the State office described in section 3796aa–7 <sup>1</sup> of this title,,<sup>2</sup> as the case may be, that it will use the property for criminal justice purposes. If such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.
 
 (Pub. L. 90–351, title I, §808, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2095; amended Pub. L. 99–570, title I, §1552(b)(4), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(4), Nov. 29, 1990, 104 Stat. 4813; Pub. L. 103–322, title XXXIII, §330001(h)(10), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1111(c)(2)(E), Jan. 5, 2006, 119 Stat. 3102.)
 
@@ -18,11 +18,11 @@ A prior section 808 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 
 <b>2006</b>—Pub. L. 109–162 substituted “the State office responsible for the trust fund required by section 3757 of this title, or the State office described in section 3796aa–7 of this title,” for “the State office described in section 3757 or 3796aa–7 of this title”.
 
-<b>1994</b>—Pub. L. 103–322 substituted “3757” for “3748, 3796<i>o</i>,”.
+<b>1994</b>—Pub. L. 103–322 substituted “3757” for “3748, 3796o,”.
 
-<b>1990</b>—Pub. L. 101–647 substituted “, 3796<i>o</i>, or 3796aa–7 of this title” for “or 3796<i>o</i> of this title”.
+<b>1990</b>—Pub. L. 101–647 substituted “, 3796o, or 3796aa–7 of this title” for “or 3796o of this title”.
 
-<b>1986</b>—Pub. L. 99–570 inserted reference to section 3796<i>o</i> of this title and “, as the case may be,”.
+<b>1986</b>—Pub. L. 99–570 inserted reference to section 3796o of this title and “, as the case may be,”.
 
 #### Effective Date of 2006 Amendment
 

@@ -1,6 +1,6 @@
 ### §532. Qualifications for original appointment as a commissioned officer
 
-(a) Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
+(a) Under regulations prescribed by the Secretary of Defense, an original appointment as acommissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
 
 &emsp;(1) is a citizen of the United States;
 
@@ -44,7 +44,7 @@
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §501(a)(2), substituted “sixty-second birthday” for “fifty-fifth birthday”.
 
-Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: “After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service onactive duty as a commissioned officer (other than a warrant officer) of a reserve component.”
+Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: “After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component.”
 
 Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 
@@ -62,5 +62,5 @@ Amendment by section 501(a)(1) of Pub. L. 108–375 effective on May 1, 2005, an
 
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 
-Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers’ Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
+Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers’ Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant inthe Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 

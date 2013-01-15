@@ -2,7 +2,7 @@
 
 #### (a) Aid, counsel, assistance, etc., to small business concerns
 
-The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunities for the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns inorder to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
+The essence of the American economic system of private enterprise is free competition. Only through full and free competition can free markets, free entry into business, and opportunitiesfor the expression and growth of personal initiative and individual judgment be assured. The preservation and expansion of such competition is basic not only to the economic well-being but to the security of this Nation. Such security and well-being cannot be realized unless the actual and potential capacity of small business is encouraged and developed. It is the declared policy of the Congress that the Government should aid, counsel, assist, and protect, insofar as is possible, the interests of small-business concerns in order to preserve free competitive enterprise, to insure that a fair proportion of the total purchases and contracts or subcontracts for property and services for the Government (including but not limited to contracts or subcontracts for maintenance, repair, and construction) be placed with small-business enterprises, to insure that a fair proportion of the total sales of Government property be made to such enterprises, and to maintain and strengthen the overall economy of the Nation.
 
 #### (b) Assistance to compete in international markets
 
@@ -58,7 +58,7 @@ Further, it is the declared policy of the Congress that the Government should ai
 
 (1) with <sup>2</sup> respect to the Administration's business development programs the Congress finds—
 
-&emsp;(A) that the opportunity for full participation in our free enterprise system by sociallyand economically disadvantaged persons is essential if we are to obtain social and economic equality for such persons and improve the functioning of our national economy;
+&emsp;(A) that the opportunity for full participation in our free enterprise system by socially and economically disadvantaged persons is essential if we are to obtain social and economic equality for such persons and improve the functioning of our national economy;
 
 &emsp;(B) that many such persons are socially disadvantaged because of their identification as members of certain groups that have suffered the effects of discriminatory practices or similar invidious circumstances over which they have no control;
 
@@ -118,7 +118,7 @@ None of the funds made available pursuant to this chapter may be used to provide
 
 #### (j) Contract bundling
 
-In complying with the statement of congressional policy expressed in subsection (a) of this section, relating to fostering the participationof small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
+In complying with the statement of congressional policy expressed in subsection (a) of this section, relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
 
 &emsp;(1) comply with congressional intent to foster the participation of small business concerns as prime contractors, subcontractors, and suppliers;
 
@@ -188,13 +188,13 @@ Subsec. (b). Pub. L. 87–70 included small-business concerns which are displace
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: “This Act \[see Short Title of 1997 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1997.”
+Pub. L. 105–135, §3, Dec. 2, 1997, 111 Stat. 2593, provided that: “This Act \[see Short Title of 1997 Amendmentnote below\] and the amendments made by this Act shall take effect on October 1, 1997.”
 
 #### Effective Date of 1989 Amendment
 
 Pub. L. 101–37, §32, June 15, 1989, 103 Stat. 77, provided that: “The amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall apply as if included in the Business Opportunity Development Reform Act of 1988 \[Pub. L. 100–656\].”
 
-#### Effective Date of 1988 Amendments
+#### Effective Date of 1988 Amendment
 
 Pub. L. 100–656, title VIII, §803, Nov. 15, 1988, 102 Stat. 3899, as amended by Pub. L. 101–37, §31, June 15, 1989, 103 Stat. 76, provided that:
 
@@ -266,15 +266,15 @@ Pub. L. 112–17, §1, June 1, 2011, 125 Stat. 221, provided that: “This Act \
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–240, §1, Sept. 27, 2010, 124 Stat. 2504, provided that: “This Act \[enacting sections 634g, 648b, and 657q of this title, chapter 54 and section 4713a of Title 12, Banks and Banking, and section 1320a–7m of Title 42, The Public Health and Welfare, amending this section, sections 278k, 632 to 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, section 604 of Title 5, Government Organization and Employees, section 2382 of Title 10, Armed Forces, and sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of Title 26, Internal Revenue Code, repealing former section 634g of this title, enacting provisions set out as notes under this section, sections 271, 278n, 632, 636, 637, 644, 649, 649b, and 696 of this title, sections 4741 and 5701 of Title 12, sections 1, 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of Title 26, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under this section, and repealing provisions set out as notes under section 644 of this title\] may be cited as the ‘Small Business Jobs Act of 2010’.”
+Pub. L. 111–240, §1, Sept. 27, 2010, 124 Stat. 2504, provided that: “This Act \[enacting sections 634g, 648b, and 657q of this title, chapter 54 and section 4713a of Title 12, Banks and Banking, and section 1320a–7m of Title 42, The Public Health and Welfare, amending this section, sections 278k, 632 to 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, section 604 of Title 5, Government Organization and Employees, section 2382 of Title 10, Armed Forces, and sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 ofTitle 26, Internal Revenue Code, repealing former section 634g of this title, enacting provisions set out as notes under this section, sections 271, 278n, 632, 636, 637, 644, 649, 649b, and 696 of this title, sections 4741 and 5701 of Title 12, sections 1, 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of Title 26, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under this section, and repealing provisions set out as notes under section 644 of this title\] may be cited as the ‘Small Business Jobs Act of 2010’.”
 
-Pub. L. 111–240, title I, §1101, Sept. 27, 2010, 124 Stat. 2507, provided that: “This subtitle \[subtitle A (§§1101–1136) of title I of Pub. L. 111–240, enacting section 4713a of Title 12, Banks and Banking, amendingsections 632, 634, 636, 689d, 695, and 696 of this title, and enacting provisions set out as notes under sections 632, 636, and 696 of this title\] may be cited as the ‘Small Business Job Creation and Access to Capital Act of 2010’.”
+Pub. L. 111–240, title I, §1101, Sept. 27, 2010, 124 Stat. 2507, provided that: “This subtitle \[subtitle A (§§1101–1136) of title I of Pub. L. 111–240, enacting section 4713a of Title 12, Banks and Banking, amending sections 632, 634, 636, 689d, 695, and 696 of this title, and enacting provisions set out as notes under sections 632, 636, and 696 of this title\] may be cited as the ‘Small Business Job Creation and Access to Capital Act of 2010’.”
 
 Pub. L. 111–240, title I, §1201, Sept. 27, 2010, 124 Stat. 2520, provided that: “This subtitle \[subtitle B (§§1201–1209) of title I of Pub. L. 111–240, amending this section and sections 632, 633, 636, 648, and 649 of this title and enacting provisions set out as notes under sections 636, 649, and 649b of this title\] may be cited as the ‘Small Business Export Enhancement and International Trade Act of 2010’.”
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–234, title XII, §12051, May 22, 2008, 122 Stat. 1406, and Pub. L. 110–246, §4(a), title XII, §12051, June 18, 2008, 122 Stat. 1664, 2168, provided that: “This subtitle \[subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, enacting sections 636e to 636k and 657i to 657<i>o</i> of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
+Pub. L. 110–234, title XII, §12051, May 22, 2008, 122 Stat. 1406, and Pub. L. 110–246, §4(a), title XII, §12051, June 18, 2008, 122 Stat. 1664, 2168, provided that: “This subtitle \[subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, enacting sections 636e to 636k and 657i to 657o of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -304,7 +304,7 @@ Pub. L. 106–554, §1(a)(9) \[title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 
 
 Pub. L. 106–554, §1(a)(9) \[title VI, subtitle A, §601\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697, provided that: “This subtitle \[amending section 632 of this title\] may be cited as the ‘HUBZones in Native America Act of 2000’.”
 
-#### Short Title of 1999 Amendments
+#### Short Title of 1999 Amendment
 
 Pub. L. 106–165, §1, Dec. 9, 1999, 113 Stat. 1795, provided that: “This Act \[amending section 656 of this title and enacting provisions set out as notes under section 656 of this title\] may be cited as the ‘Women's Business Centers Sustainability Act of 1999’.”
 
@@ -322,7 +322,7 @@ Pub. L. 105–277, div. C, title IX, §901, Oct. 21, 1998, 112 Stat. 2681–707,
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–135, §1(a), Dec. 2, 1997, 111 Stat. 2592, provided that: “This Act \[enacting sections 657a and 7109 of this title and former section 7109 of this title, amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, 697e, 7103, 7104, 7106, 7107, and 7110 of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notesunder this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and section 405 of Title 41, and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
+Pub. L. 105–135, §1(a), Dec. 2, 1997, 111 Stat. 2592, provided that: “This Act \[enacting sections 657a and 7109 of this title and former section 7109 of this title, amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, 697e, 7103, 7104, 7106, 7107, and 7110 of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and section 405 of Title 41, and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
 
 Pub. L. 105–135, title VI, §601, Dec. 2, 1997, 111 Stat. 2627, provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
 
@@ -342,7 +342,7 @@ Pub. L. 103–403, §1(a), Oct. 22, 1994, 108 Stat. 4175, provided that: “This
 
 Pub. L. 103–81, §1(a), Aug. 13, 1993, 107 Stat. 780, provided that: “This Act \[amending sections 634, 636, 648, 652, and 7107 of this title, enacting provisions set out as notes under sections 634 and 636 of this title, amending provisions set out as notes under this section and section 648 of this title, and repealing provisions set out as notes under sections 634 and 636 of this title\] may be cited as the ‘Small Business Guaranteed Credit Enhancement Act of 1993’.”
 
-#### Short Title of 1992 Amendments
+#### Short Title of 1992 Amendment
 
 Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
 
@@ -350,7 +350,7 @@ Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that:
 
 Pub. L. 102–564, title II, §201, Oct. 28, 1992, 106 Stat. 4256, provided that: “This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Technology Transfer Act of 1992’.”
 
-Pub. L. 102–366, §1(a), Sept. 4, 1992, 106 Stat. 986, provided that: “This Act \[amending sections 632, 636, 637, 644, 648, 661, 662, 682, 683, 685, 686, 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 632, 634, 636, 644, 648, 661, 681, 687b, and 694b of this title, and amending provisions set out as notes under this section and sections 633, 636, and 644 of this title\] may be cited as the ‘Small Business Credit and Business Opportunity Enhancement Act of 1992’.”
+Pub. L. 102–366, §1(a), Sept. 4, 1992, 106 Stat. 986, provided that: “This Act \[amending sections 632, 636, 637, 644, 648, 661, 662, 682, 683, 685, 686, 687, 687b, and 687l of this title, enacting provisions set out as notes under this section and sections 632, 634, 636, 644, 648, 661, 681, 687b, and 694b of this title, and amending provisions set out as notes under this section and sections 633, 636, and 644 of this title\] may be cited as the ‘Small Business Credit and Business Opportunity Enhancement Act of 1992’.”
 
 Pub. L. 102–366, title I, §101, Sept. 4, 1992, 106 Stat. 987, provided that: “This subtitle \[subtitle A (§§101–104) of title I of Pub. L. 102–366, amending section 636 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Small Business Credit Crunch Relief Act of 1992’.”
 
@@ -364,13 +364,13 @@ Pub. L. 102–191, §1, Dec. 5, 1991, 105 Stat. 1589, provided that: “This Act
 
 Pub. L. 101–574, §1, Nov. 15, 1990, 104 Stat. 2814, provided that: “This Act \[enacting sections 653 and 654 of this title, amending sections 633, 636, 637, 639, 644, 648, 683, 695, and 696 of this title, enacting provisions set out as notes under this section and sections 633, 637, 648, 648a, 653, and 683 of this title and section 601 of Title 5, Government Organization and Employees, amending provisions set out as notes under this section and sections 633, 636, 637, 644, and 694b of this title and section 502 of Title 44, Public Printing and Documents, and repealing provisions set out as a note under section 648 of this title\] may be cited as the ‘Small Business Administration Reauthorization and Amendments Act of 1990’.”
 
-Pub. L. 101–574, title III, §301, Nov. 15, 1990, 104 Stat. 2827, provided that: “This title \[enacting sections 653 and 654 of this title, amending sections 631b, 636, and 648 of this title, and enacting provisions set out as notes under section 653 of this title and section 601 of Title 5, Government Organization and Employees\] may be cited as the ‘Rural Small Business Enhancement Act of 1990’.”
+Pub. L. 101–574, title III, §301, Nov. 15, 1990, 104 Stat. 2827, provided that: “This title \[enacting sections 653 and 654 of this title, amending sections 631b, 636, and 648 of this title, and enacting provisions set out as notes under section 653 of this title and section 601 of Title 5,Government Organization and Employees\] may be cited as the ‘Rural Small Business Enhancement Act of 1990’.”
 
 #### Short Title of 1989 Amendment
 
 Pub. L. 101–37, §1, June 15, 1989, 103 Stat. 70, provided that: “This Act \[amending this section and sections 633, 636, 637, 639, and 644 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 633, 636, 637, and 644 of this title\] may be cited as the ‘Business Opportunity Development Reform Act Technical Corrections Act’.”
 
-#### Short Title of 1988 Amendments
+#### Short Title of 1988 Amendment
 
 Pub. L. 100–656, §1(a), Nov. 15, 1988, 102 Stat. 3853, provided that: “This Act \[amending this section, sections 632, 633, 636, 637, 639, 644, and 645 of this title, and section 541 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section and sections 632, 633, 636, and 637 of this title, and amending provisions set out as a note under section 644 of this title\] may be cited as the ‘Business Opportunity Development Reform Act of 1988’.”
 
@@ -380,7 +380,7 @@ Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub
 
 Pub. L. 100–418, title VIII, §8001, Aug. 23, 1988, 102 Stat. 1553, provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
-#### Short Title of 1984 Amendments
+#### Short Title of 1984 Amendment
 
 Pub. L. 98–395, §1, Aug. 21, 1984, 98 Stat. 1366, provided that: “This Act \[amending sections 636 and 648 of this title and provisions set out as notes under this section and section 648 of this title\] may be cited as the ‘Small Business Development Center Improvement Act of 1984’.”
 
@@ -396,7 +396,7 @@ Pub. L. 97–219, §1, July 22, 1982, 96 Stat. 217, provided that: “This Act \
 
 Pub. L. 97–35, title XIX, §1901, Aug. 13, 1981, 95 Stat. 767, provided that: “This title \[amending sections 632, 633, 636, 639, and 696 of this title, repealing section 636a of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as notes under this section\] may be cited as the ‘Small Business Budget Reconciliation and Loan Consolidation/Improvement Act of 1981’.”
 
-#### Short Title of 1980 Amendments
+#### Short Title of 1980 Amendment
 
 Pub. L. 96–481, title I, §110, Oct. 21, 1980, 94 Stat. 2323, provided that: “This part \[part B (§§110–113) of title I of Pub. L. 96–481 enacting section 649 of this title, amending section 636 of this title and enacting provisions set out as notes under section 649 of this title\] may be cited as the ‘Small Business Export Expansion Act of 1980’.”
 
@@ -428,7 +428,7 @@ Pub. L. 85–536, §2\[1\], July 18, 1958, 72 Stat. 384, provided that this chap
 
 #### Repeal of Inconsistent Laws
 
-Pub. L. 85–536, §2\[45\], formerly §2\[21\], July 18, 1958, 72 Stat. 396, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999, 113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; renumbered §2\[44\] by Pub. L. 110–234, title XII, §12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, §4(a), title XII, §12062(1), June 18, 2008, 122 Stat. 1664, 2169; renumbered §2\[45\] by Pub. L. 111–240, title I, §1313(a)(1), Sept. 27, 2010, 124 Stat. 2538, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
+Pub. L. 85–536, §2\[47\], formerly §2\[21\], July 18, 1958, 72 Stat. 396, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999,113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; renumbered §2\[44\] by Pub. L. 110–234, title XII, §12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, §4(a), title XII, §12062(1), June 18, 2008, 122 Stat. 1664, 2169; renumbered §2\[45\] by Pub. L. 111–240, title I, §1313(a)(1), Sept. 27, 2010, 124 Stat. 2538; renumbered §2\[47\] by Pub. L. 112–239, div. A, title XVI, §1641(1), Jan. 2, 2013, 126 Stat. 2076, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
 
 #### Regulations
 
@@ -478,7 +478,7 @@ Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 
 
 &emsp;“(B) shall be available for a national program, except that the Administration may use not more than an amount equal to 10 percent of the amount authorized each year for any special or pilot program directed to identified sectors of the small business community or to specific geographic regions of the United States.
 
-“(b) There are authorized to be appropriated to the Administration for fiscal year 1991 such sums as may be necessary to carry out the provisions of this Act \[this chapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\]. There also are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes, including administrative expenses, of sections 7(b)(1) and 7(b)(2) of this Act \[section 636(b)(1), (2) of this title\]; and there are authorized to be transferred from the disaster loan revolving fund such sums as may be necessary and appropriate for such administrative expenses.
+“(b) There are authorized to be appropriated to the Administration for fiscal year 1991 such sums as may be necessary to carry out the provisions of this Act \[thischapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\]. There also are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes, including administrative expenses, of sections 7(b)(1) and 7(b)(2) of this Act \[section 636(b)(1), (2) of this title\]; and there are authorized to be transferred from the disaster loan revolving fund such sums as may be necessary and appropriate for such administrative expenses.
 
 “(c)
 
@@ -591,6 +591,36 @@ Purchase and Guarantee Authority Under Title III of Small Business Investment Ac
 &emsp;“(1) $4,000,000,000 in purchases of participating securities; and
 
 &emsp;“(2) $3,000,000,000 in guarantees of debentures.”
+
+#### Small Business Act Contracting Requirements Training
+
+Pub. L. 112–239, div. A, title XVI, §1622(a), (b), Jan. 2, 2013, 126 Stat. 2069, provided that:
+
+“(a)
+
+Establishment.—Not later than 1 year after the date of enactment of this part \[Jan. 2, 2013\], the Defense Acquisition University and the Federal Acquisition Institute shall each provide a course on contracting requirements under the Small Business Act \[15 U.S.C. 631 et seq.\], including the requirements for small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+“(b)
+
+Course Required.—To have a Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification an individual shall be required to complete the course established under subsection (a).”
+
+#### Agency Achievement of Small Business Goals
+
+Pub. L. 112–239, div. A, title XVI, §1633(b), (c), Jan. 2, 2013, 126 Stat. 2076, provided that:
+
+“(b)
+
+Responsibility for Achieving Small Business Goals.—The head of an agency shall take steps to ensure that members of the senior executive service, as defined under section 3396(a) of title 5, United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for of the agency's success in achieving small business contracting goals and percentages by—
+
+&emsp;“(1) promoting a climate or environment that is responsive to small business concerns;
+
+&emsp;“(2) communicating the importance of achieving the agency's small business contracting goals; and
+
+&emsp;“(3) encouraging small business awareness, outreach, and support.
+
+“(c)
+
+Definitions.—In this section \[enacting this note and provisions set out as a note under section 3396 of Title 5, Government Organization and Employees\] the term ‘responsible for acquisition’, with respect to a member of the senior executive service or other senior official, means such a member or official who acquires services or supplies, directs agency organizations to acquire services or supplies, oversees acquisition officials, including program managers, contracting officers, and other acquisition workforce personnel responsible for formulating and approving acquisition strategies and plans.”
 
 #### Loan Application Processing
 
@@ -792,7 +822,7 @@ Sec. 5. <i>Policies and Standards</i>. The Secretary may establish such policies
 
 Sec. 6. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 
-(a) “Minority business enterprise” means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to,Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
+(a) “Minority business enterprise” means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to, Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
 
 (b) “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -802,13 +832,13 @@ Sec. 8. <i>Prior Executive Order</i>. Executive Order No. 11458 of March 5, 1969
 
 #### Advisory Council for Minority Enterprise
 
-For provisions relating to termination of, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out as a note under section 14 of the Federal Advisory Committee Act, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 1978, see Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, set out as a note under section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, Title 5, Appendix, Government Organization and Employees.
+Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 1978, see Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, Title 5, Appendix, Government Organization and Employees.
 
 #### Executive Order No. 12061
 
-Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12269
 
@@ -826,7 +856,7 @@ Section 1. <i>Minority Business Development Plans</i>. (a) Minority business ent
 
 (c) The Secretary of Commerce and the Administrator of the Small Business Administration, in consultation with the Cabinet Council on Commerce and Trade, shall establish uniform guidelines for all Federal agencies to be utilized in establishing the minority business programs set forth in Section 2 of this Order.
 
-(d) The participating agencies shall furnish an annual report regarding the implementation of their programs in such form as the Cabinet Council on Commerce and Trade may request, and at such time as the Secretary of Commerce shall designate.
+(d) The participating agencies shall furnish an annual report regarding the implementation of their programsin such form as the Cabinet Council on Commerce and Trade may request, and at such time as the Secretary of Commerce shall designate.
 
 (e) The Secretary of Commerce shall provide an annual report to the President, through the Cabinet Council on Commerce and Trade, on activities under this Order and agency implementation of minority business development programs.
 
@@ -876,7 +906,7 @@ Sec. 4. <i>Office of Small and Disadvantaged Business Utilization (“OSDBU”).
 
 Sec. 5. <i>Anti-fraud Enforcement</i>. All department and agency heads shall ensure that in enforcing the laws and requirements mentioned in this order, Federal benefits or contracts intended for SDBs, HBCUs, and MIs are not awarded to entities that are not legitimate SDBs, HBCUs, and MIs. Department and agency anti-fraud enforcement, however, shall not diminish agency vigor in achieving the aforementioned participation goals, which exist to promote the development of legitimate SDBs, HBCUs, and MIs. Nothing herein is intended to change self-certification requirements.
 
-Sec. 6. <i>Periodic Reports to the President</i>. The Administrator of the Small Business Administration and the Administrator of the Office of Federal Procurement Policy shall report to the President periodically on the progress of all departments and agencies in complying with the laws and requirements mentioned in this order.
+Sec. 6. <i>Periodic Reports to the President</i>. The Administrator of the Small Business Administration and the Administrator of the Office of Federal ProcurementPolicy shall report to the President periodically on the progress of all departments and agencies in complying with the laws and requirements mentioned in this order.
 
 Sec. 7. <i>Independent Agencies</i>. Independent agencies are requested to comply with the provisions of this order.
 
@@ -1000,7 +1030,7 @@ The Congress has established a number of statutory goals designed to help small 
 
 In recent years, the Federal Government has not consistently reached its small business contracting goals. Although we have made some progress—particularly with respect to Recovery Act contracts—more work can and should be done. I am committed to ensuring that small businesses, including firms owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans, have fair access to Federal Government contracting. Indeed, where small businesses have the capacity to do more, we should strive to exceed the statutory goals. While Chief Acquisition Officers and Senior Procurement Executives have many priorities, small business contracting should always be a high priority in the procurement process.
 
-Obtaining tangible results will require an honest and accurate accounting of our progress so that we can have transparency and accountability through Federal small business procurement data. Additionally, we must expand outreach strategies to alert small firms to Federal contracting opportunities.
+Obtaining tangible results will require an honest and accurate accounting of our progress so that we can have transparency and accountability through Federal small business procurement data. Additionally, wemust expand outreach strategies to alert small firms to Federal contracting opportunities.
 
 In order to coordinate executive departments’ and agencies’ efforts towards ensuring that all small businesses have a fair chance to participate in Federal contracting opportunities, it is hereby ordered as follows:
 
@@ -1044,13 +1074,13 @@ A member of the Task Force may designate, to perform the Task Force functions of
 
 Sec. 3. <i>Functions</i>. The Task Force shall provide to the President, not later than 120 days after the date of this memorandum, proposals and recommendations for:
 
-(i) using innovative strategies, such as teaming, to increase opportunities for small business contractors and utilizing and expanding mentorship programs, such as the mentor-prote�AE1ge�AE1 program;
+(i) using innovative strategies, such as teaming, to increase opportunities for small business contractors and utilizing and expanding mentorship programs, such as the mentor-protégé program;
 
 (ii) removing barriers to participation by small businesses in the Federal marketplace by unbundling large projects, improving training of Federal acquisition officials with respect to strategies for increasing small business contracting opportunities, and utilizing new technologies to enhance the effectiveness and efficiency of Federal program managers, acquisition officials, and the Directors of Offices of Small Business Programs and Offices of Small and Disadvantaged Business Utilization, their managers, and procurement center representatives in identifying and providing access to these opportunities;
 
 (iii) expanding outreach strategies to match small businesses, including firms located in Historically Underutilized Business Zones and firms owned and controlled by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans of our Armed Forces, with contracting and subcontracting opportunities; and
 
-(iv) establishing policies, including revision or clarification of existing legislation, regulations, or policies,that are necessary or appropriate to effectuate the objectives of this memorandum.
+(iv) establishing policies, including revision or clarification of existing legislation, regulations, or policies, that are necessary or appropriate to effectuate the objectives of this memorandum.
 
 Sec. 4. <i>Using Technology to Improve Transparency and Accountability</i>. Within 90 days of the date of this memorandum, the Assistant to the President and Chief Technology Officer and the Federal Chief Information Officer, in coordination with the Task Force, shall develop a website that illustrates the participation of small businesses, including those owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans of our Armed Forces, in Federal contracting. To foster greater accountability and transparency in, and allow oversight of, the Federal Government's progress, this website shall be designed to encourage improved collection, verification, and availability of Federal procurement data and provide accurate data on the Federal Government's progress in ensuring that all small businesses have a fair chance to participate in Federal contracting opportunities.
 

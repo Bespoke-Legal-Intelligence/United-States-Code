@@ -12,7 +12,7 @@ The Bureau shall provide staff and data processing resources to the Council to e
 
 The data and tables required pursuant to subsection (a) of this section shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
 
-(Pub. L. 94–200, title III, §310, as added Pub. L. 96–399, title III, §340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, §1094(1), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, §310, as added Pub. L. 96–399, title III, §340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, §1094(1), July 21, 2010, 124 Stat. 2097.)
 
 #### Prior Provisions
 

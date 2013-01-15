@@ -22,7 +22,7 @@
 
 &emsp;(8) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a scanning receiver;
 
-&emsp;(9) knowingly uses, produces, traffics in, has control or custody of, or possesses hardware orsoftware, knowing it has been configured to insert or modify telecommunication identifying information associated with or contained in a telecommunications instrument so that such instrument may be used to obtain telecommunications service without authorization; or
+&emsp;(9) knowingly uses, produces, traffics in, has control or custody of, or possesses hardware or software, knowing it has been configured to insert or modify telecommunication identifying information associated with or contained in a telecommunications instrument so that such instrument may be used to obtain telecommunications service without authorization; or
 
 &emsp;(10) without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
 
@@ -80,25 +80,25 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(11) the term “telecommunication identifying information” means electronic serial number or any other number or signal that identifies a specific telecommunications instrument or account, or a specific communication transmitted from a telecommunications instrument.
 
-(f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title. For purposes ofthis subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title. For purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (g)(1) It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection for the purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
 
 (2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 
-(h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
+(h) Any person who, outside the jurisdiction of the United States, engages in any act that, ifcommitted within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
 
 &emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
 
 &emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is classified to section 853 of Title 21, Food and Drugs.
 
-The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
 
@@ -130,25 +130,25 @@ Subsec. (e)(9) to (11). Pub. L. 105–172, §2(d)(2), added pars. (9) to (11).
 
 Subsec. (g). Pub. L. 105–172, §2(d)(1), added subsec. (g).
 
-<b>1996</b>—Subsec. (a)(5). Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–294, §601(l)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
 
-Subsec. (a)(6). Pub. L. 104–294, §601(<i>l</i>)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
+Subsec. (a)(6). Pub. L. 104–294, §601(l)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
 
-Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
+Pub. L. 104–294, §601(l)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
 
-Subsec. (a)(7). Pub. L. 104–294, §601(<i>l</i>)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
+Subsec. (a)(7). Pub. L. 104–294, §601(l)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
 
-Pub. L. 104–294, §601(<i>l</i>)(1)(B), redesignated par. (7) as (9).
+Pub. L. 104–294, §601(l)(1)(B), redesignated par. (7) as (9).
 
-Subsec. (a)(8). Pub. L. 104–294, §601(<i>l</i>)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
+Subsec. (a)(8). Pub. L. 104–294, §601(l)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
 
-Subsec. (a)(9). Pub. L. 104–294, §601(<i>l</i>)(1)(B), redesignated par. (7) as (9).
+Subsec. (a)(9). Pub. L. 104–294, §601(l)(1)(B), redesignated par. (7) as (9).
 
-Subsec. (c)(1). Pub. L. 104–294, §601(<i>l</i>)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
+Subsec. (c)(1). Pub. L. 104–294, §601(l)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
 
-Subsec. (c)(2). Pub. L. 104–294, §601(<i>l</i>)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
+Subsec. (c)(2). Pub. L. 104–294, §601(l)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
 
-Subsec. (e)(7), (8). Pub. L. 104–294, §601(<i>l</i>)(2), redesignated par. (7), defining “scanning receiver”, as (8).
+Subsec. (e)(7), (8). Pub. L. 104–294, §601(l)(2), redesignated par. (7), defining “scanning receiver”, as (8).
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §250007(1)(A), and Pub. L. 103–414, §206(a)(1), amended par. (3) identically, striking “or” at end.
 
@@ -190,5 +190,5 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 #### Report to Congress
 
-Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+Pub. L. 98–473, title II, §1603, Oct. 12, 1984, 98 Stat. 2184, directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 

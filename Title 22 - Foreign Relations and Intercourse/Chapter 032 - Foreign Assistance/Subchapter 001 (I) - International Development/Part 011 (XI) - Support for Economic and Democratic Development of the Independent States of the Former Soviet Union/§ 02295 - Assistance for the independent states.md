@@ -178,7 +178,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(6) Because the capability of Russian democratic forces and the civil society to organize and defend democratic gains without international support is uncertain, and because the gradual integration of the Russian Federation into the global order of free-market, democratic nations would enhance Russian cooperation with the United States on a wide range of political, economic, and security issues, the success of democracy in Russia is in the national security interest of the United States, and the United States Government should develop a far-reaching and flexible strategy aimed at strengthening Russian society's support for democracy and a market economy, particularly by enhancing Russian democratic institutions and education, promoting the rule of law, and supporting Russia's independent media.
 
-&emsp;“(7) Since the tragic events of September 11, 2001, the Russian Federation has stood with the United States and the rest of the civilized world in the struggle against terrorism and has cooperated in the war in Afghanistan by sharing intelligence and through other means.
+&emsp;“(7) Since the tragic events of September 11, 2001, the Russian Federation has stood with the UnitedStates and the rest of the civilized world in the struggle against terrorism and has cooperated in the war in Afghanistan by sharing intelligence and through other means.
 
 &emsp;“(8) United States-Russia relations have improved, leading to a successful summit between President Bush and President Putin in May 2002, resulting in a ‘Foundation for Cooperation’.
 
@@ -236,7 +236,7 @@ Assistance Programs.—In providing assistance to the Russian Federation under c
 
 &emsp;“(2) establish civic education programs relating to democracy, public policy, the rule of law, and the importance of independent media, including the establishment of ‘American Centers’ and public policy schools at Russian universities and encourage cooperative programs with universities in the United States to offer courses through Internet-based off-site learning centers at Russian universities; and
 
-&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions ofthe Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
+&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
 
 “(b)
 

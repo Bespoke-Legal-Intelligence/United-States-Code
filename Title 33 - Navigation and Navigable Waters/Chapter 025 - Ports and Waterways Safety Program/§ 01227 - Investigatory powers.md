@@ -6,7 +6,7 @@ The Secretary may investigate any incident, accident, or act involving the loss 
 
 #### (b) Powers
 
-In an investigation under this section, the Secretary may issue subpenas to require the attendance of witnesses and the production of documents or other evidence relating to such incident, accident, or act. If any person refuses to obey a subpena, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States tocompel compliance with the subpena. Any district court of the United States may, in the case of refusal to obey a subpena, issue an order requiring compliance with the subpena, and failure to obey the order may be punished by the court as contempt. Witnesses may be paid fees for travel and attendance at rates not exceeding those allowed in a district court of the United States.
+In an investigation under this section, the Secretary may issue subpenas to require the attendance of witnesses and the production of documents or other evidence relating to such incident, accident, or act. If any person refuses to obey a subpena, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance with the subpena. Any district court of the United States may, in the case of refusal to obey a subpena, issue an order requiring compliance with the subpena, and failure to obey the order may be punished by the court as contempt. Witnesses may be paid fees for travel and attendance at rates not exceeding those allowed in a district court of the United States.
 
 (Pub. L. 92–340, §8, formerly title I, §107, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1476.)
 

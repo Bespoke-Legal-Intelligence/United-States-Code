@@ -34,7 +34,7 @@ A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classi
 
 #### Employment Assistance Referral System for Certain Members of Foreign Service
 
-Section 179 of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(g), Oct. 25, 1994, 108 Stat. 4300, provided that:
+Pub. L. 103–236, title I, §179, Apr. 30, 1994, 108 Stat. 415, as amended by Pub. L. 103–415, §1(g), Oct. 25, 1994, 108 Stat. 4300, provided that:
 
 “(a)
 
@@ -46,5 +46,5 @@ Certain Members of the Foreign Service.—For purposes of this section, the term
 
 #### Consultation With Director of Office of Personnel Management Prior to Prescribing Regulations for Reductions in Force
 
-Section 181(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(i), Oct. 25, 1994, 108 Stat. 4301, provided that: “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] (as added by subsection (a) of this section), and shall publish such regulations.”
+Pub. L. 103–236, title I, §181(c), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–415, §1(i), Oct. 25, 1994, 108 Stat. 4301, provided that: “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] (as added by subsection (a) of this section), and shall publish such regulations.”
 

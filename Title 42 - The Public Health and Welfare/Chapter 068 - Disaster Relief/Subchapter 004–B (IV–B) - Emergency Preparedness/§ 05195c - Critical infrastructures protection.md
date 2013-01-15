@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 It is the policy of the United States—
 
-&emsp;(1) that any physical or virtual disruption of the operation of the critical infrastructures of the United States be rare, brief, geographically limited in effect, manageable, and minimally detrimental to the economy, human and government services, and national security of the United States;
+&emsp;(1) that any physical or virtual disruption of the operation of the critical infrastructures of the United States be rare, brief, geographically limited in effect, manageable, and minimally detrimental to the economy, human andgovernment services, and national security of the United States;
 
 &emsp;(2) that actions necessary to achieve the policy stated in paragraph (1) be carried out in a public-private partnership involving corporate and non-governmental organizations; and
 

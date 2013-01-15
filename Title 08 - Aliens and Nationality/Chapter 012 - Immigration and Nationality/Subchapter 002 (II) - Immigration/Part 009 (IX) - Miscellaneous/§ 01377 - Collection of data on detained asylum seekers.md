@@ -26,7 +26,7 @@ The Attorney General shall regularly collect data on a nation-wide <sup>1</sup>
 
 #### (b) Annual reports
 
-Beginning October 1, 1999, and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) of this section for the fiscal year ending September 30 of that year.
+Beginning October 1, 1999, and not later than October 1 of each year thereafter, the AttorneyGeneral shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) of this section for the fiscal year ending September 30 of that year.
 
 #### (c) Availability to public
 

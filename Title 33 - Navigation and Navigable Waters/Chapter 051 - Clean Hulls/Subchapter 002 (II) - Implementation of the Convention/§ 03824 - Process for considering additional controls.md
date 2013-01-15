@@ -8,7 +8,7 @@ The Administrator may—
 
 &emsp;(2) evaluate any risks of adverse effects on nontarget organisms or human health presented by a given antifouling system such that the amendment of annex 1 of the Convention may be warranted;
 
-&emsp;(3) undertake an assessment of relevant environmental, technical, and economic considerations necessary to evaluate any proposals for new or additional controls of antifouling systems under the Convention, including benefits in the United States and elsewhere associated with the production and use in the United States and elsewhere, of the subject antifouling system; and
+&emsp;(3) undertake an assessment of relevant environmental, technical, and economic considerations necessary to evaluate any proposalsfor new or additional controls of antifouling systems under the Convention, including benefits in the United States and elsewhere associated with the production and use in the United States and elsewhere, of the subject antifouling system; and
 
 &emsp;(4) develop recommendations based on that assessment.
 

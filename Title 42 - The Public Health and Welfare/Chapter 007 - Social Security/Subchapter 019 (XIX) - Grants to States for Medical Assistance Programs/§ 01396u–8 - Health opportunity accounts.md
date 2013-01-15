@@ -128,7 +128,7 @@
 
 #### (C) Computation
 
-&emsp;&emsp;The payment rates described in subparagraphs (A) and (B) shall be computed without regard to any cost sharing that would be otherwise applicable under sections 1396<i>o</i> and 1396<i>o</i>–1 of this title.
+&emsp;&emsp;The payment rates described in subparagraphs (A) and (B) shall be computed without regard to any cost sharing that would be otherwise applicable under sections 1396o and 1396o–1 of this title.
 
 #### (D) Definitions
 
@@ -148,7 +148,7 @@
 
 #### (5) Overriding cost sharing and comparability requirements for alternative benefits
 
-&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396<i>o</i> and 1396<i>o</i>–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. The provisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
+&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396o and 1396o–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. The provisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
 
 #### (6) Treatment as medical assistance
 
@@ -268,7 +268,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be available for the purchase of health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
+&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of theState) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
 
 #### (iii) Exception from 25 percent savings to Government for private contributions
 
@@ -310,7 +310,7 @@ A prior section 1938 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Prohibiting Initiation of New Health Opportunity Account Demonstration Programs
 
-Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and HumanServices may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8).”
+Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8).”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

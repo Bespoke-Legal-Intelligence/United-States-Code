@@ -10,7 +10,7 @@ As originally enacted, section provided for creation of an office of the legisla
 
 #### Appropriations
 
-Section 204 of act Aug. 2, 1946, ch. 753, 60 Stat. 837, provided: “There is hereby authorized to be appropriated for the work of the Office of the Legislative Counsel the following sums:
+Act Aug. 2, 1946, ch. 753, §204, 60 Stat. 837, provided: “There is hereby authorized to be appropriated for the work of the Office of the Legislative Counsel the following sums:
 
 “(1) For the fiscal year ending June 30, 1947, $150,000;
 

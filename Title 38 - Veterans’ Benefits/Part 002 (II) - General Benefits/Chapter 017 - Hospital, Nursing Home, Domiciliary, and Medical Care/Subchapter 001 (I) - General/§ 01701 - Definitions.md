@@ -120,7 +120,7 @@ Par. (6)(B)(i)(II). Pub. L. 104–262, §101(d)(1)(B), substituted “paragraph 
 
 <b>1994</b>—Par. (3). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–83, §4(a)(2)(E). See 1991 Amendment note below.
 
-<b>1992</b>—Par. (6)(A)(i). Pub. L. 102–585, §513(b), substituted “preventive health services,” for “preventive health-care services as defined in section 1762 of this title,”.
+<b>1992</b>—Par. (6)(A)(i). Pub. L. 102–585, §513(b), substituted “preventive health services,” for “preventivehealth-care services as defined in section 1762 of this title,”.
 
 Par. (9). Pub. L. 102–585, §513(a), transferred the text of section 1762 of this title to the end of this section and redesignated it as par. (9), substituted “The term ‘preventive health service’ means” for “For the purposes of this subchapter, the term ‘preventive health-care services’ means”, and redesignated pars. (1) to (11) as subpars. (A) to (K), respectively. See Codification note above.
 
@@ -228,17 +228,17 @@ Pub. L. 86–598 inserted “optometrists’ services” after “medical examin
 
 #### Effective Date of 1994 Amendment
 
-Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Pub. L. 103–446, title XII, §1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 19011(d)(2) of Pub. L. 99–272 applicable to hospital care, nursing home care, and medical services furnished on or after July 1, 1986, see section 19011(f) of Pub. L. 99–272, set out as a note under section 1710 of this title.
 
-#### Effective Date of 1979 Amendments
+#### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–151 effective Jan. 1, 1980, see section 206 of Pub. L. 96–151, set out as a note under section 111 of this title.
 
-Section 107 of Pub. L. 96–22 provided that: “The amendments made to title 38, United States Code, by sections 102, 103, 104, 105, and 106 of this Act \[see Tables for classification\] shall be effective on October 1, 1979.”
+Pub. L. 96–22, title I, §107, June 13, 1979, 93 Stat. 53, provided that: “The amendments made to title 38, United States Code, by sections 102, 103, 104, 105, and 106 of this Act \[see Tables for classification\] shall be effective on October 1, 1979.”
 
 #### Effective Date of 1976 Amendment
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Effective Date of 1973 Amendment
 
-Section 501 of Pub. L. 93–82 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section 1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
+Pub. L. 93–82, title V, §501, Aug. 2, 1973, 87 Stat. 196, provided that: “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section 1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
 
 #### Location of Services
 
@@ -254,25 +254,25 @@ Pub. L. 110–387, title III, §301(b), Oct. 10, 2008, 122 Stat. 4120, provided 
 
 #### Guidelines Relating to Furnishing of Sensori-Neural Aids
 
-Section 103(b) of Pub. L. 104–262 provided that: “Not later than 30 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Veterans Affairs shall prescribe the guidelines required by the amendments made by subsection (a) \[amending this section\] and shall furnish a copy of those guidelines to the Committees on Veterans’ Affairs of the Senate and House of Representatives.”
+Pub. L. 104–262, title I, §103(b), Oct. 9, 1996, 110 Stat. 3182, provided that: “Not later than 30 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Veterans Affairs shall prescribe the guidelines required by the amendments made by subsection (a) \[amending this section\] and shall furnish a copy of those guidelines to the Committees on Veterans’ Affairs of the Senate and House of Representatives.”
 
-#### Study of Feasibility and Advisibility of Alternative Organizational Structures for Effective Provision of Health Care Services to Veterans
+#### Study of Feasibility and Advisability of Alternative Organizational Structures for Effective Provision of Health Care Services to Veterans
 
-Section 1104 of Pub. L. 103–446 directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
+Pub. L. 103–446, title XI, §1104, Nov. 2, 1994, 108 Stat. 4682, directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
 
 #### Contract Health Care; Ratification of Action of Administrator of Veterans’ Affairs
 
-Section 103(b) of Pub. L. 98–528 ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
+Pub. L. 98–528, title I, §103(b), Oct. 19, 1984, 98 Stat. 2688, ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
 
 #### Administration Capability To Provide Appropriate Care for Gender-Specific Disabilities of Women Veterans
 
-Section 302 of Pub. L. 98–160, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§5(c)(2), 6(f), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “The Secretary of Veterans Affairs shall ensure that each health-care facility under the direct jurisdiction of the Secretary is able, through services made available either by individuals appointed to positions in the Veterans Health Administration or under contracts or other agreements made under section 4117 \[see 7409\], 8111, or 8153 of title 38, United States Code, to provide appropriate care, in a timely fashion, for any gender-specific disability (as defined in section 1701(1) of such title) of a woman veteran eligible for such care under chapter 17 or chapter 31 of such title.”
+Pub. L. 98–160, title III, §302, Nov. 21, 1983, 97 Stat. 1004, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§5(c)(2), 6(f), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “The Secretary of Veterans Affairs shall ensure that each health-care facility under the direct jurisdiction of the Secretary is able, through services made available either by individuals appointed to positions in the Veterans Health Administration or under contracts or other agreements made under section 4117 \[see 7409\], 8111, or 8153 of title 38, United States Code, to provide appropriate care, in a timely fashion, for any gender-specific disability (as defined in section 1701(1) of such title) of a woman veteran eligible for such care under chapter 17 or chapter 31 of such title.”
 
 #### Annual Report to Congress Covering Contract-Care Programs
 
-Section 201(b) of Pub. L. 96–22, which directed Chief Medical Director of the Veterans’ Administration to report to appropriate committees of Congress, not later than Feb. 1, 1980, and annually thereafter, on implementation of former par. (4)(C)(v) of this section and amendments made to this section by section 201 of Pub. L. 96–22, and on numbers of veterans provided contract treatment (and average cost and duration thereof) in each State in certain enumerated categories, was repealed by Pub. L. 100–322, title I, §112(b), May 20, 1988, 102 Stat. 499.
+Pub. L. 96–22, title II, §201(b), June 13, 1979, 93 Stat. 54, which directed Chief Medical Director of the Veterans’ Administration to report to appropriate committees of Congress, not later than Feb. 1, 1980, and annually thereafter, on implementation of former par. (4)(C)(v) of this section and amendments made to this section by section 201 of Pub. L. 96–22, and on numbers of veterans provided contract treatment (and average cost and duration thereof) in each State in certain enumerated categories, was repealed by Pub. L. 100–322, title I, §112(b), May 20, 1988, 102 Stat. 499.
 
 #### Hospital Care and Medical Services Furnished by Veterans’ Administration in Puerto Rico and Virgin Islands; Report to President and Congress
 
-Section 8 of Pub. L. 95–520, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
+Pub. L. 95–520, §8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
 

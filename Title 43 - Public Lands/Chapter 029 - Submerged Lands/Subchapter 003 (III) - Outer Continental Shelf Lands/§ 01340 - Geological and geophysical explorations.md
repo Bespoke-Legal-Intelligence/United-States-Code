@@ -30,7 +30,7 @@ Except as provided in subsection (f) of this section, beginning ninety days afte
 
 #### (d) Drilling permit
 
-The Secretary may, by regulation, require any lessee operating under an approved exploration plan to obtain a permit prior to drilling any well in accordance with such plan.
+The Secretary may, by regulation, require any lessee operating under an approved explorationplan to obtain a permit prior to drilling any well in accordance with such plan.
 
 #### (e) Plan revisions; conduct of exploration activities
 
@@ -48,7 +48,7 @@ The Secretary may, by regulation, require any lessee operating under an approved
 
 #### (g) Determinations requisite to issuance of permits
 
-Any permit for geological explorations authorized by this section shall be issued only if theSecretary determines, in accordance with regulations issued by the Secretary, that—
+Any permit for geological explorations authorized by this section shall be issued only if the Secretary determines, in accordance with regulations issued by the Secretary, that—
 
 &emsp;(1) the applicant for such permit is qualified;
 

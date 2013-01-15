@@ -24,13 +24,13 @@ As used in this chapter—
 
 (k) The term “consumer education” means any action to advance the image or desirability of eggs, egg products, spent fowl, or products of spent fowl.
 
-(<i>l</i>) The term “marketing” means the sale or other disposition of commercial eggs, egg products, spent fowl, or products of spent fowl, in any channel of commerce.
+(l) The term “marketing” means the sale or other disposition of commercial eggs, egg products, spent fowl, or products of spent fowl, in any channel of commerce.
 
 (m) The term “commerce” means interstate, foreign, or intrastate commerce.
 
 (n) The term “egg products” means products produced, in whole or in part, from eggs.
 
-(<i>o</i>) The term “spent fowl” means hens which have been in production of commercial eggs andhave been removed from such production for slaughter.
+(o) The term “spent fowl” means hens which have been in production of commercial eggs and have been removed from such production for slaughter.
 
 (p) The term “products of spent fowl” means commercial products produced from spent fowl.
 

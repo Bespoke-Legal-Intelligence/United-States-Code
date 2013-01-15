@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) Demonstrating the use of systems to provide parents and teachers with information and training concerning early diagnosis of, intervention for, and effective teaching strategies for, young children with reading disabilities.
 
-&emsp;&emsp;(D) Supporting the use of Internet-based communications for students with cognitivedisabilities in order to maximize their academic and functional skills.
+&emsp;&emsp;(D) Supporting the use of Internet-based communications for students with cognitive disabilities in order to maximize their academic and functional skills.
 
 #### (c) Educational media services
 
@@ -74,7 +74,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and support, through the American Printing House for the Blind, a center to be known as the “National Instructional Materials Access Center” not later than 1 year after December 3, 2004.
+&emsp;The Secretary shall establish and support, through the American Printing House for theBlind, a center to be known as the “National Instructional Materials Access Center” not later than 1 year after December 3, 2004.
 
 #### (2) Duties
 

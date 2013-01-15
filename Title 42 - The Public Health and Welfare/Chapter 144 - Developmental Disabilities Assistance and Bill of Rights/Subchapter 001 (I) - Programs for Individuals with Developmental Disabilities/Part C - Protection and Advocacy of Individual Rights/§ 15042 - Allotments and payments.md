@@ -24,7 +24,7 @@
 
 #### (3) Reduction of allotment
 
-&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted tothe States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
+&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted to the States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
 
 #### (4) Increase in allotments
 
@@ -38,7 +38,7 @@
 
 #### (5) Monitoring the administration of the system
 
-&emsp;In a State in which the system is housed in a State agency, the State may use not more than 5 percent of any allotment under this subsection for the costs of monitoring the administration of the system required under section 15043(a) of this title.
+&emsp;In a State in which the system is housed in a State agency, the State may use not more than 5 percent of any allotment under thissubsection for the costs of monitoring the administration of the system required under section 15043(a) of this title.
 
 #### (6) Technical assistance and American Indian consortium
 

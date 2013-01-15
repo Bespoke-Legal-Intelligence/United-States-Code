@@ -12,9 +12,9 @@
 
 (4) He is not related by blood or marriage to a judge of the appointing court or courts at the time of his initial appointment; and
 
-(5) He is selected pursuant to standards and procedures promulgated by the Judicial Conference of the United States. Such standards and procedures shall contain provision for public notice of all vacancies in magistrate judge positions and for the establishment by the district courts of merit selection panels, composed of residents of the individual judicial districts, to assist the courts in identifying and recommending persons who are best qualified to fill such positions.
+(5) He is selected pursuant to standards and procedures promulgated by the Judicial Conference of the United States. Such standards and procedures shall contain provision for public notice of all vacancies in magistrate judge positions and for the establishment by the district courts of merit selection panels, composed ofresidents of the individual judicial districts, to assist the courts in identifying and recommending persons who are best qualified to fill such positions.
 
-(c) A magistrate judge may hold no other civil or military office or employment under the United States: <i>Provided, however</i>, That, with the approval of the conference, a part-time referee in bankruptcy or a clerk or deputy clerk of a court of the United States may be appointed and serve as a part-time United States magistrate judge, but the conference shall fix the aggregate amount of compensation to be received for performing the duties of part-time magistrate judge and part-time referee in bankruptcy, clerk or deputy clerk: <i>And provided further</i>, That retired officers and retired enlisted personnel of the Regular and Reserve components of the Army, Navy, Air Force, Marine Corps, and Coast Guard, members of the Reserve components ofthe Army, Navy, Air Force, Marine Corps, and Coast Guard, and members of the Army National Guard of the United States, the Air National Guard of the United States, and the Naval Militia and of the National Guard of a State, territory, or the District of Columbia, except the National Guard disbursing officers who are on a full-time salary basis, may be appointed and serve as United States magistrate judges.
+(c) A magistrate judge may hold no other civil or military office or employment under the United States: <i>Provided, however</i>, That, with the approval of the conference, a part-time referee in bankruptcy or a clerk or deputy clerk of a court of the United States may be appointed and serve as a part-time United States magistrate judge, but the conference shall fix the aggregate amount of compensation to be received for performing the duties of part-time magistrate judge and part-time referee in bankruptcy, clerk or deputy clerk: <i>And provided further</i>, That retired officers and retired enlisted personnel of the Regular and Reserve components of the Army, Navy, Air Force, Marine Corps, and Coast Guard, members of the Reserve components of the Army, Navy, Air Force, Marine Corps, and Coast Guard, and members of the Army National Guard of the United States, the Air National Guard of the United States, and the Naval Militia and of the National Guard of a State, territory, or the District of Columbia, except the National Guard disbursing officers who are on a full-time salary basis, may be appointed and serve as United States magistrate judges.
 
 (d) Except as otherwise provided in sections 375 and 636(h) of this title, no individual may serve under this chapter after having attained the age of seventy years: <i>Provided, however</i>, That upon a majority vote of all the judges of the appointing court or courts, which is taken upon the magistrate judge's attaining age seventy and upon each subsequent anniversary thereof, a magistrate judge who has attained the age of seventy years may continue to serve and may be reappointed under this chapter.
 
@@ -44,13 +44,13 @@
 
 (k) A United States magistrate judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1, 66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14, 1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X, §1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412; Pub. L. 110–177, title V, §504, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–174, §2, May 27, 2010, 124 Stat. 1216.)
+(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1, 66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14, 1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X,§1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412; Pub. L. 110–177, title V, §504, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–174, §2, May 27, 2010, 124 Stat. 1216.)
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914,ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
+Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
 
 Section consolidates section 526 and a portion of 527, both of title 28, U.S.C., 1940 ed., with provisions of sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., and provisions of section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to appointment of United States commissioners. For other provisions of said sections see Distribution Table.
 
@@ -102,7 +102,7 @@ Subsections (j) and (k) of this section, referred to in subsec. (e), probably me
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–174 struck out “(including any judge in regular active service and any judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which such judge was appointed)” after “Northern Mariana Islands” in the first sentence.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted “Northern Mariana Islands (including any judge in regular active service and any judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which such judge was appointed) shall appoint” for “Northern Mariana Islands shall appoint”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted “Northern Mariana Islands (including any judge in regular active service and any judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which suchjudge was appointed) shall appoint” for “Northern Mariana Islands shall appoint”.
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–518, §201(1), substituted “The judges of each United States district court and the district courts of the Virgin Islands, Guam, and the Northern Mariana Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial districts as the Judicial Conference may determine under this chapter. In the case of a magistrate judge appointed by the district court of the Virgin Islands, Guam, or the Northern Mariana Islands, this chapter shall apply as though the court appointing such a magistrate judge were a United States district court.” for “The judges of each United States district court and the district court of the Virgin Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial district as the conference may determine under this chapter. In the case of a magistrate appointed by the district court of the Virgin Islands, this chapter shall apply as though the court appointing such magistrate judge were a United States district court.”
 
@@ -110,7 +110,7 @@ Subsec. (b)(1). Pub. L. 106–518, §201(2), inserted “the Territory of Guam, 
 
 <b>1994</b>—Subsec. (j). Pub. L. 103–353, §2(c), redesignated subsec. (k) as (j), substituted “chapter 43 of title 38” for “the terms of subsection (i) of this section”, and struck out former subsec. (j) which related to uncompensated leave of absence for magistrate inducted into the Armed Forces and reinstatement as magistrate in regular service.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 103–353, §2(c)(2), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively.
+Subsecs. (k), (l). Pub. L. 103–353, §2(c)(2), redesignated subsecs. (k) and (l) as (j) and (k), respectively.
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–650 substituted “180” for “60”.
 
@@ -122,7 +122,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 103–353, §2(c)(2), redesignated subsecs. (k
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–659 substituted “(k)” for “(j)” in introductory text, “(j)” for “(i)” in par. (3), and “(i)” for “(h)” in par. (5).
 
-Subsec. (<i>l</i>). Pub. L. 100–702 added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 100–702 added subsec. (l).
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–651 substituted “Except as otherwise provided in sections 375 and 636(h) of this title, no” for “No”, and “a majority” for “the unanimous”, and inserted “which is taken upon the magistrate's attaining age seventy and upon each subsequent anniversary thereof,” after “courts,”.
 
@@ -172,7 +172,7 @@ Subsecs. (h) to (j). Pub. L. 90–578 added subsecs. (h) to (j).
 
 “United States magistrate judges”, “magistrate judge”, and “magistrate judge's” substituted for “United States magistrates”, “magistrate”, and “magistrate's”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note below.
 
-Section 321 of Pub. L. 101–650 provided that: “After the enactment of this Act \[Dec. 1, 1990\], each United States magistrate appointed under section 631 of title 28, United States Code, shall be known as a United States magistrate judge, and any reference to any United States magistrate or magistrate that is contained in title 28, United States Code, in any other Federal statute, or in any regulation of any department or agency of the United States in the executive branch that was issued before the enactment of this Act, shall be deemed to refer to a United States magistrate judge appointed under section 631 of title 28, United States Code.”
+Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that: “After the enactment of this Act \[Dec. 1, 1990\], each United States magistrate appointed under section 631 of title 28, United States Code, shall be known as a United States magistrate judge, and any reference to any United States magistrate or magistrate that is contained in title 28, United States Code, in any other Federal statute, or in any regulation of any department or agency of the United States in the executive branch that was issued before the enactment of this Act, shall be deemed to refer to a United States magistrate judge appointed under section 631 of title 28, United States Code.”
 
 #### Effective Date of 1994 Amendment
 
@@ -188,15 +188,15 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 #### Effective Date of 1979 Amendment
 
-Section 3(g) of Pub. L. 96–82 provided that: “The amendment made by subsection (c) of this section \[amending this section\] shall not take effect until 30 days after the meeting of the Judicial Conference of the United States next following the effective date of this Act \[Oct. 10, 1979\].” \[The meeting of the Judicial Conference took place on Mar. 5 and 6, 1980.\]
+Pub. L. 96–82, §3(g), Oct. 10, 1979, 93 Stat. 645, provided that: “The amendment made by subsection (c) of this section \[amending this section\] shall not take effect until 30 days after the meeting of the Judicial Conference of the United States next following the effective date of this Act \[Oct. 10, 1979\].” \[The meeting of the Judicial Conference took place on Mar. 5 and 6, 1980.\]
 
 #### Effective Date of 1968 Amendment
 
-Section 403 of Pub. L. 90–578 provided that: “Except as otherwise provided by sections 401 and 402 of this title \[set out as Appointment of Magistrates and Applicable Law notes below\], this Act \[amending this chapter and sections 202, 3006A, 3041, 3043, 3045, 3060, 3102, 3116, 3184, 3191, 3195, 3401, 3402, 3569, and 3771 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Oct. 17, 1968\].”
+Pub. L. 90–578, title IV, §403, Oct. 17, 1968, 82 Stat. 1119, provided that: “Except as otherwise provided by sections 401 and 402 of this title \[set out as Appointment of Magistrates and Applicable Law notes below\], this Act \[amending this chapter and sections 202, 3006A, 3041, 3043, 3045, 3060, 3102, 3116, 3184, 3191, 3195, 3401, 3402, 3569, and 3771 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Oct. 17, 1968\].”
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–82 provided: “That this Act \[amending this section, sections 604, 633, 634, 635, 636, and 1915 of this title, and section 3401 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] may be cited as the ‘Federal Magistrate Act of 1979’.”
+Pub. L. 96–82, §1, Oct. 10, 1979, 93 Stat. 643, provided: “That this Act \[amending this section, sections 604, 633, 634, 635, 636, and 1915 of this title, and section 3401 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] may be cited as the ‘Federal Magistrate Act of 1979’.”
 
 #### Short Title of 1968 Amendment
 
@@ -208,7 +208,7 @@ This chapter is popularly known as the “Federal Magistrates Act”.
 
 #### Separability
 
-Section 501 of Pub. L. 90–578 provided that: “If any provision of this Act \[amending this chapter and sections 202, 3006A, 3041, 3043, 3045, 3060, 3102, 3116, 3184, 3191, 3195, 3401, 3402, 3569, and 3771 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of its application to other persons and circumstances shall not be affected.”
+Pub. L. 90–578, title V, §501, Oct. 17, 1968, 82 Stat. 1119, provided that: “If any provision of this Act \[amending this chapter and sections 202, 3006A, 3041, 3043, 3045, 3060, 3102, 3116, 3184, 3191, 3195, 3401, 3402, 3569, and 3771 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of its application to other persons and circumstances shall not be affected.”
 
 #### Transfer of Functions
 
@@ -216,23 +216,23 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Due Consideration by Merit Selection Panels of Women, Blacks, Hispanics, and Other Minorities
 
-Section 3(e) of Pub. L. 96–82 provided that: “The merit selection panels established under section 631(b)(5) of title 28, United States Code, in recommending persons to the district court, shall give due consideration to all qualified individuals, especially such groups as women, blacks, Hispanics, and other minorities.”
+Pub. L. 96–82, §3(e), Oct. 10, 1979, 93 Stat. 645, provided that: “The merit selection panels established undersection 631(b)(5) of title 28, United States Code, in recommending persons to the district court, shall give due consideration to all qualified individuals, especially such groups as women, blacks, Hispanics, and other minorities.”
 
 #### Magistrates Serving Prior to Promulgation of Magistrate Selection Standards and Procedures by Judicial Conference; Reappointment; Certification as Qualified
 
-Section 3(f) of Pub. L. 96–82 provided that magistrates serving prior to the promulgation of magistrate selection standards and procedures by the Judicial Conference of the United States could only exercise the jurisdiction conferred under section 636(c) of this title after having been reappointed under such standards and procedures or after having been certified as qualified to exercise such jurisdiction by the judicial council of the circuit in which the magistrate served.
+Pub. L. 96–82, §3(f), Oct. 10, 1979, 93 Stat. 645, provided that magistrates serving prior to the promulgation of magistrate selection standards and procedures by the Judicial Conference of the United States could only exercise the jurisdiction conferred under section 636(c) of this title after having been reappointed under such standards and procedures or after having been certified as qualified to exercise such jurisdiction by the judicial council of the circuit in which the magistrate served.
 
 #### Judicial Conference Study of the Future of the Magistrate System
 
-Section 9 of Pub. L. 96–82 provided for a study by the Judicial Conference of the United States to begin within 90 days after the effective date of Pub. L. 96–82, which was approved Oct. 10, 1979, and to be completed and made available to Congress within 24 months thereafter respecting the future of the magistrate system.
+Pub. L. 96–82, §9, Oct. 10, 1979, 93 Stat. 647, provided for a study by the Judicial Conference of the United States to begin within 90 days after the effective date of Pub. L. 96–82, which was approved Oct. 10, 1979, and to be completed and made available to Congress within 24 months thereafter respecting the future of the magistrate system.
 
 #### Authorization of Appropriations
 
-Section 10 of Pub. L. 96–82 provided that: “Such sums as may be necessary to carry out the purposes of this Act \[see Short Title of 1979 Amendment note above\] are hereby authorized to be appropriated for expenditure on or after October 1, 1979.”
+Pub. L. 96–82, §10, Oct. 10, 1979, 93 Stat. 647, provided that: “Such sums as may be necessary to carry out the purposes of this Act \[see Short Title of 1979 Amendment note above\] are hereby authorized to be appropriated for expenditure on or after October 1, 1979.”
 
 #### Appointment of Magistrates
 
-Section 401 of Pub. L. 90–578 provided that:
+Pub. L. 90–578, title IV, §401, Oct. 17, 1968, 82 Stat. 1118, provided that:
 
 “(a) No individual may serve as a United States commissioner within any judicial district after the date on which a United States magistrate \[now United States magistrate judge\] assumes office in such judicial district.
 
@@ -258,7 +258,7 @@ Pub. L. 86–258, Sept. 14, 1959, 73 Stat. 546, required the United States Distr
 
 #### Jurisdictional Limitation of Commissioner Holding Office on July 9, 1952
 
-Section 2 of act July 9, 1952, provided that the jurisdiction of the United States commissioner for the Great Smoky Mountains National Park on July 9, 1952, would be limited to the portion of the park situated in North Carolina.
+Act July 9, 1952, ch. 609, §2, 66 Stat. 509, provided that the jurisdiction of the United States commissioner for the Great Smoky Mountains National Park on July 9, 1952, would be limited to the portion of the park situated in North Carolina.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

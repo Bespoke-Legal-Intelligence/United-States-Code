@@ -12,7 +12,7 @@ Whenever a bond is required or authorized by a law, regulation, or instruction w
 
 &emsp;(2) Provide for the approval of the sureties on such bond, without regard to any general provision of law.
 
-&emsp;(3) Authorize the execution of a term bond the conditions of which shall extend to and cover similar cases of importations over such period of time, not to exceed one year, or such longer period as he may fix when in his opinion special circumstances existing in a particular instance require such longer period.
+&emsp;(3) Authorize the execution of a term bond the conditions of which shall extend to andcover similar cases of importations over such period of time, not to exceed one year, or such longer period as he may fix when in his opinion special circumstances existing in a particular instance require such longer period.
 
 &emsp;(4) Authorize, to the extent that he may deem necessary, the taking of a consolidated bond (single entry or term), in lieu of separate bonds to assure compliance with two or more provisions of law, regulations, or instructions which the Secretary of the Treasury or the Customs Service is authorized to enforce. A consolidated bond taken pursuant to the authority contained in this subsection shall have the same force and effect in respect of every provision of law, regulation, or instruction for the purposes for which it is required as though separate bonds had been taken to assure compliance with each such provision.
 

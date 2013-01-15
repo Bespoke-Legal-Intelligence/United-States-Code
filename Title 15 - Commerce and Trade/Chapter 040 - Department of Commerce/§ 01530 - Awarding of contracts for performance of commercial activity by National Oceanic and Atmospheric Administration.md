@@ -1,6 +1,6 @@
 ### §1530. Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration
 
-The Administration may not award any contract for the performance of any “commercial activity”, as defined by paragraph 6.a. of the Office of Management and Budget Circular Memorandum A–76, which is performed by Administration employees until at least 30 calendar days after the Administrator of the Administration has presented, in writing, to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Merchant Marine and Fisheries and the Committee on Science, Space, and Technology of the House of Representatives, a full and complete description of such proposed contract, together with supporting documentation. Such documentation shall include—
+The Administration may not award any contract for the performance of any “commercial activity”, as defined by paragraph 6.a. of the Office of Management and Budget Circular Memorandum A–76, which is performed by Administration employees until at least 30 calendar days after the Administrator of the Administration has presented, in writing, to the President of theSenate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Merchant Marine and Fisheries and the Committee on Science, Space, and Technology of the House of Representatives, a full and complete description of such proposed contract, together with supporting documentation. Such documentation shall include—
 
 &emsp;(1) a comparison of the cost of such activity as performed by employees of the Administration and the cost of such activity as performed under the proposed contract;
 
@@ -16,5 +16,5 @@ The Administration may not award any contract for the performance of any “comm
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

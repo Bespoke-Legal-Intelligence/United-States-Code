@@ -24,5 +24,5 @@ The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347,
 
 #### Short Title
 
-Section 1 of Pub. L. 86–257 provided that: “This Act \[enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title\] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
+Pub. L. 86–257, §1, Sept. 14, 1959, 73 Stat. 519, provided that: “This Act \[enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title\] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
 

@@ -22,5 +22,5 @@ Pub. L. 111–275, title IV, §401(b), Oct. 13, 2010, 124 Stat. 2879, provided t
 
 #### Effective Date
 
-Section 205 of title II of Pub. L. 102–568 provided that: “The amendments made by this title \[enacting this section and amending sections 1967, 1977, and 2106 of this title\] shall take effect on December 1, 1992.”
+Pub. L. 102–568, title II, §205, Oct. 29, 1992, 106 Stat. 4325, provided that: “The amendments made by this title \[enacting this section and amending sections 1967, 1977, and 2106 of this title\] shall take effect on December 1, 1992.”
 

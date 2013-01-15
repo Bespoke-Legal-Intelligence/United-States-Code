@@ -54,11 +54,11 @@ Paragraph (2) of subsection (a) shall not apply with respect to any diesel fuel 
 
 &emsp;&emsp;(A) is registered under section 4101 with respect to the tax imposed by section 4081 on kerosene, and
 
-&emsp;&emsp;(B) sells kerosene exclusively to ultimate vendors described in section 6427(<i>l</i>)(5)(B) with respect to kerosene.
+&emsp;&emsp;(B) sells kerosene exclusively to ultimate vendors described in section 6427(l)(5)(B) with respect to kerosene.
 
 #### (e) Kerosene removed into an aircraft
 
-In the case of kerosene which is exempt from the tax imposed by section 4041(c) (other than by reason of a prior imposition of tax) and which is removed from any refinery or terminal directly into the fuel tank of an aircraft—
+In the case of kerosene (other than kerosene with respect to which tax is imposed under section 4043) which is exempt from the tax imposed by section 4041(c) (other than by reason of a prior imposition of tax) and which is removed from any refinery or terminal directly into the fuel tank of an aircraft—
 
 &emsp;(1) the rate of tax under section 4081(a)(2)(A)(iii) shall be zero, and
 
@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;<b>For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487; Pub. L. 112–95, title XI, §1103(a)(2), Feb. 14, 2012, 126 Stat. 150.)
 
 #### References in Text
 
@@ -93,6 +93,8 @@ Subsection (i) of section 211 of the Clean Air Act, referred to in subsec. (c)(1
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 inserted “(other than kerosene with respect to which tax is imposed under section 4043)” after “In the case of kerosene” in introductory provisions.
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–172, §6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
@@ -112,15 +114,15 @@ Pub. L. 110–172, §6(d)(2)(C)(i), substituted “an aircraft—” and pars. (
 
 Subsecs. (f) to (h). Pub. L. 110–172, §6(d)(2)(B)(ii), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-<b>2006</b>—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(<i>l</i>)(5)(B)” for “6427(<i>l</i>)(6)(B)”.
+<b>2006</b>—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(l)(5)(B)” for “6427(l)(6)(B)”.
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58 inserted “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–59, §11161(a)(4)(A), struck out “aviation-grade” before “kerosene” in concluding provisions.
 
-Subsec. (d)(2)(B). Pub. L. 109–59, §11161(b)(3)(C), substituted “section 6427(<i>l</i>)(6)(B)” for “section 6427(<i>l</i>)(5)(B)”.
+Subsec. (d)(2)(B). Pub. L. 109–59, §11161(b)(3)(C), substituted “section 6427(l)(6)(B)” for “section 6427(l)(5)(B)”.
 
-Subsec. (e). Pub. L. 109–59, §11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection,any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
+Subsec. (e). Pub. L. 109–59, §11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §854(a), inserted “by mechanical injection” after “indelibly dyed”.
 
@@ -192,6 +194,10 @@ Subsec. (d)(2). Pub. L. 89–44, §802(b)(1), struck out “and give a bond” a
 
 Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–95 applicable to fuel used after Mar. 31, 2012, see section 1103(d)(1) of Pub. L.112–95, set out as an Effective Date note under section 4043 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendments by section 6(d)(2)(B), (C)(i) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendments relate, and amendment by section 6(d)(2)(C)(ii) of Pub. L. 110–172 effective as if included in section 11161 of the SAFETEA–LU, Pub. L. 109–59, see section 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
@@ -228,7 +234,7 @@ Amendment by Pub. L. 105–34 effective July 1, 1998, see section 1032(f)(1) of 
 
 #### Effective Date of 1996 Amendment
 
-Section 1801(b) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fuel removed, entered, or sold on or after the first day of the first calendar quarter beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1801(b), Aug. 20, 1996, 110 Stat. 1892, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fuel removed, entered, or sold on or after the first day of the first calendar quarter beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -240,9 +246,9 @@ Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in sect
 
 #### Effective Date of 1984 Amendment
 
-Section 733(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title VII, §733(b), July 18, 1984, 98 Stat. 977, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 734(c)(3) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section and section 6427 of this title\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title VII, §734(c)(3), July 18, 1984, 98 Stat. 979, provided that: “The amendments made by this subsection \[amending this section and section 6427 of this title\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
 #### Effective Date of 1970 Amendment
 
@@ -250,11 +256,11 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub.
 
 #### Effective Date of 1965 Amendment
 
-Section 802(d)(1) of Pub. L. 89–44 provided that: “The amendments made by subsections (a)(1), (b), and (c) \[amending this section and sections 4101, 4222, 7103, and 7232 of this title\] shall apply with respect to articles sold on or after July 1, 1965.”
+Pub. L. 89–44, title VIII, §802(d)(1), June 21, 1965, 79 Stat. 159, provided that: “The amendments made by subsections (a)(1), (b), and (c) \[amending this section and sections 4101, 4222, 7103, and 7232 of this title\] shall apply with respect to articles sold on or after July 1, 1965.”
 
 #### Effective Date of 1959 Amendment
 
-Section 201(e)(3) of Pub. L. 86–342 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall take effect on January 1, 1960.”
+Pub. L. 86–342, title II, §201(e)(3), Sept. 21, 1959, 73 Stat. 615, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall take effect on January 1, 1960.”
 
 #### Regulations
 

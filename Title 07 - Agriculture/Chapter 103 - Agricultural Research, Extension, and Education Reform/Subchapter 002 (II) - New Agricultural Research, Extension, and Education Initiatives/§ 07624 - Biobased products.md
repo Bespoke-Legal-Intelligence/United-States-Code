@@ -70,7 +70,7 @@ The Secretary, acting through the Agricultural Research Service, may establish a
 
 #### (g) Sale of developed products
 
-For the purpose of determining the market potential for new biobased products produced at a pilot plant or other large-scale preparation facility under a cooperative agreement under this section, the Secretary shall authorize the private partner or partners to the agreement to sell the products.
+For the purpose of determining the market potential for new biobased products produced at apilot plant or other large-scale preparation facility under a cooperative agreement under this section, the Secretary shall authorize the private partner or partners to the agreement to sell the products.
 
 #### (h) Authorization of appropriations
 

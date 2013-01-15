@@ -4,25 +4,29 @@
 
 (b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-&emsp;(1) For the Army, 547,400.
+&emsp;(1) For the Army, 542,700.
 
-&emsp;(2) For the Navy, 325,700.
+&emsp;(2) For the Navy, 322,700.
 
-&emsp;(3) For the Marine Corps, 202,100.
+&emsp;(3) For the Marine Corps, 193,500.
 
-&emsp;(4) For the Air Force, 332,800.
+&emsp;(4) For the Air Force, 329,460.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 (d) No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-\[(e) Repealed. Pub. L. 107–314, div. A, title IV, §402(b), Dec. 2, 2002, 116 Stat. 2525.\]
+(e) The Secretary of Defense may reduce a number specified in subsection (b) by not more than 0.5 percent.
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, §402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, §402, Nov. 24, 2003, 117 Stat. 1450; Pub. L. 108–375, div. A, title IV, §402, Oct. 28, 2004, 118 Stat. 1862; Pub. L. 109–163, div. A, title IV, §402, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, §402, Oct. 17, 2006, 120 Stat. 2169; Pub. L. 110–181, div. A, title IV, §402, Jan. 28, 2008, 122 Stat. 86; Pub. L. 110–417, \[div. A\], title IV, §402, Oct. 14, 2008, 122 Stat. 4428; Pub. L. 111–84, div. A, title IV, §402, Oct. 28, 2009, 123 Stat. 2265; Pub. L. 111–383, div. A, title IV, §402, Jan. 7, 2011, 124 Stat. 4202; Pub. L. 112–81, div. A, title IV, §402, Dec. 31, 2011, 125 Stat. 1382.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, §402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, §402, Nov. 24, 2003, 117 Stat. 1450; Pub. L. 108–375, div. A, title IV, §402, Oct. 28, 2004, 118 Stat. 1862; Pub. L. 109–163, div. A, title IV, §402, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, §402, Oct. 17, 2006, 120 Stat. 2169; Pub. L. 110–181, div. A, title IV, §402, Jan. 28, 2008, 122 Stat. 86; Pub. L. 110–417, \[div. A\], title IV, §402, Oct. 14, 2008, 122 Stat. 4428; Pub. L. 111–84, div. A, title IV, §402, Oct. 28, 2009, 123 Stat. 2265; Pub. L. 111–383, div. A, title IV, §402, Jan. 7, 2011, 124 Stat. 4202; Pub. L. 112–81, div. A, title IV, §402, Dec. 31, 2011, 125 Stat. 1382; Pub. L. 112–239, div. A, title IV, §402, Jan. 2, 2013, 126 Stat. 1708.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 112–239, §402(a), substituted “542,700” for “547,400” in par. (1), “322,700” for “325,700” in par. (2), “193,500” for “202,100” in par. (3), and “329,460” for “332,800” in par. (4).
+
+Subsec. (e). Pub. L. 112–239, §402(b), added subsec. (e).
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81 substituted “325,700” for “324,300” in par. (2) and “332,800” for “332,200” in par. (4).
 

@@ -32,7 +32,7 @@
 
 &emsp;(D) any other low-level radioactive waste with concentrations of radionuclides that exceed the limits established by the Commission for class C radioactive waste, as defined by section 61.55 of title 10, Code of Federal Regulations, as in effect on January 26, 1983.
 
-(2) All radioactive waste designated a Federal responsibility pursuant to subparagraph (b)(1)(D) that results from activities licensed by the Nuclear Regulatory Commission under this chapter, shall be disposed of in a facility licensed by the Nuclear Regulatory Commission that the Commission determines is adequate to protect the public health and safety.
+(2) All radioactive waste designated a Federal responsibility pursuant to subparagraph (b)(1)(D) that results from activities licensed by the Nuclear Regulatory Commission under the Atomic Energy Act of 1954, as amended, shall be disposed of in a facility licensed by the Nuclear Regulatory Commission that the Commission determines is adequate to protect the public health and safety.
 
 (3) Not later than 12 months after January 15, 1986, the Secretary shall submit to the Congress a comprehensive report setting forth the recommendations of the Secretary for ensuring the safe disposal of all radioactive waste designated a Federal responsibility pursuant to subparagraph (b)(1)(D). Such report shall include—
 
@@ -54,7 +54,9 @@
 
 #### References in Text
 
-January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” andwas translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
 
 #### Codification
 

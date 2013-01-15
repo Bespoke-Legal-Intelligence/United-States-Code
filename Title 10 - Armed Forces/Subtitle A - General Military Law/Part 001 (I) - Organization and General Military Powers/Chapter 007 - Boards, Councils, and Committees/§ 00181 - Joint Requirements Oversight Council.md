@@ -14,11 +14,11 @@ Mission.—In addition to other matters assigned to it by the President or Secre
 
 &emsp;&emsp;(B) in identifying the core mission area associated with each such requirement; and
 
-&emsp;&emsp;(C) in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements in consultation with the advisors specified in subsection (d);
+&emsp;&emsp;(C) in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements in consultation with the advisors specified in subsection (d);
 
 &emsp;(2) assist the Chairman in establishing and assigning priority levels for joint military requirements;
 
-&emsp;(3) assist the Chairman, in consultation with the advisors to the Council under subsection (d), in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that such resource level is consistent with the level of priority assigned to such requirement;
+&emsp;(3) assist the Chairman, in consultation with the advisors to the Council under subsection (d), in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that the total cost of such resources is consistent with the level of priority assigned to such requirement;
 
 &emsp;(4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and section 2433(e)(2) of this title; and
 
@@ -66,7 +66,7 @@ Organization.—The Joint Requirements Oversight Council shall conduct periodic 
 
 (f)
 
-Availability of Oversight Information to Congressional Defense Committees.—(1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
+Availability of Oversight Information to Congressional Defense Committees.—(1) TheSecretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
 (2) In this subsection, the term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
@@ -78,13 +78,17 @@ Definitions.—In this section:
 
 &emsp;(2) The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891.)
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b)(1)(C). Pub. L. 112–239, §951(b)(1), substituted “in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements” for “in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements”.
+
+Subsec. (b)(3). Pub. L. 112–239, §951(b)(2), substituted “the total cost of such resources” for “such resource level”.
+
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §841(d), substituted “There is” for “The Secretary of Defense shall establish”.
 
-Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed becauseof the amendment by Pub. L. 111–383, §841(c)(2). See below.
+Subsec. (b)(3). Pub. L. 111–383, §1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed because of the amendment by Pub. L. 111–383, §841(c)(2). See below.
 
 Pub. L. 111–383, §841(c)(2), substituted “advisors to the Council under subsection (d)” for “Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation”.
 
@@ -132,7 +136,7 @@ Subsec. (g). Pub. L. 110–181, §942(d), added subsec. (g).
 
 #### Effective Date
 
-Section 905(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 31, 1997.”
+Pub. L. 104–106, div. A, title IX, §905(b), Feb. 10, 1996, 110 Stat. 404, provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 31, 1997.”
 
 #### Input From Commanders of Combatant Commands
 

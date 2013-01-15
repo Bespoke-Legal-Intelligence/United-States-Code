@@ -24,7 +24,7 @@ For the purpose of this subchapter, the term “law enforcement officer” means
 
 #### Effective Date
 
-Section 529 \[title IV, §408(d)\] of Pub. L. 101–509 provided that: “The amendments made by this section \[enacting this subchapter and amending provisions set out as a note under section 5541 of this title\] shall be effective on January 1, 1992.”
+Pub. L. 101–509, title V, §529 \[title IV, §408(d)\], Nov. 5, 1990, 104 Stat. 1427, 1468, provided that: “The amendments made by this section \[enacting this subchapter and amending provisions set out as a note under section 5541 of this title\] shall be effective on January 1, 1992.”
 
 #### Transfer of Functions
 

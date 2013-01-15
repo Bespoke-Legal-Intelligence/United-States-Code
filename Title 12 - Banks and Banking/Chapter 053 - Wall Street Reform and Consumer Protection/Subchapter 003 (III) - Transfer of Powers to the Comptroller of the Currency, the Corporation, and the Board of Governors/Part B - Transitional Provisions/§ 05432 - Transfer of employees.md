@@ -76,7 +76,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (2), each affected employee shall not, during the 30-month period beginning on the transfer date, be involuntarily separated, or involuntarily reassigned outside his or her locality pay area.
+&emsp;&emsp;Except as provided in paragraph (2), each affected employee shall not, during the 30-month period beginning on the transfer date, be involuntarily separated, or involuntarilyreassigned outside his or her locality pay area.
 
 #### (B) Affected employees
 
@@ -146,7 +146,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (ii) Employer's contribution
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate,shall pay any employer cost required to extend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required to extend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
 
 #### (B) Dental, vision, or life insurance after first year
 
@@ -208,7 +208,7 @@ Not later than 30 months after the transfer date, the Comptroller of the Currenc
 
 In administering the provisions of this section, the Comptroller of the Currency and the Chairperson of the Corporation—
 
-&emsp;(1) may not take any action that would unfairly disadvantage a transferred employee relative to any other employee of the Office of the Comptroller of the Currency or the Corporation on the basis of prior employment by the Office of Thrift Supervision;
+&emsp;(1) may not take any action that would unfairly disadvantage a transferred employeerelative to any other employee of the Office of the Comptroller of the Currency or the Corporation on the basis of prior employment by the Office of Thrift Supervision;
 
 &emsp;(2) may take such action as is appropriate in an individual case to ensure that a transferred employee receives equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time for prior periods of service with any Federal agency of the transferred employee;
 
@@ -216,7 +216,7 @@ In administering the provisions of this section, the Comptroller of the Currency
 
 &emsp;(4) shall conduct a study detailing the position assignments of all employees transferred pursuant to subsection (a), describing the procedures and safeguards adopted pursuant to paragraph (3), and demonstrating that the requirements of this subsection have been met; and shall, not later than 365 days after the transfer date, submit a copy of such study to Congress.
 
-#### (<i>l</i>) Reorganization
+#### (l) Reorganization
 
 #### (1) In general
 
@@ -230,7 +230,7 @@ In administering the provisions of this section, the Comptroller of the Currency
 
 #### References in Text
 
-This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78<i>l</i>, 78<i>o</i>–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
+This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

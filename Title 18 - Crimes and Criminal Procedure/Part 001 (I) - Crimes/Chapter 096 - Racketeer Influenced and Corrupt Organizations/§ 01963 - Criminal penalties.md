@@ -26,7 +26,7 @@
 
 &emsp;(2) tangible and intangible personal property, including rights, privileges, interests, claims, and securities.
 
-(c) All right, title, and interest in property described in subsection (a) vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (<i>l</i>) that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+(c) All right, title, and interest in property described in subsection (a) vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (l) that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
 (d)(1) Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) for forfeiture under this section—
 
@@ -40,7 +40,7 @@
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates thatthere is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than fourteen days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time, and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -76,7 +76,7 @@
 
 > Pending the promulgation of such regulations, all provisions of law relating to the disposition of property, or the proceeds from the sale thereof, or the remission or mitigation of forfeitures for violation of the customs laws, and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. Such duties as are imposed upon the Customs Service or any person with respect to the disposition of property under the customs law shall be performed under this chapter by the Attorney General.
 
-(i) Except as provided in subsection (<i>l</i>), no party claiming an interest in property subject to forfeiture under this section may—
+(i) Except as provided in subsection (l), no party claiming an interest in property subject to forfeiture under this section may—
 
 &emsp;(1) intervene in a trial or appeal of a criminal case involving the forfeiture of such property under this section; or
 
@@ -86,11 +86,11 @@
 
 (k) In order to facilitate the identification or location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
 
-(<i>l</i>)(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
+(l)(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
 (2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
-(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
+(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner'sright, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
 (4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
@@ -136,7 +136,7 @@ The Federal Rules of Evidence, referred to in subsec. (d)(3), are set out in the
 
 Subsecs. (m), (n). Pub. L. 100–690, §7034, redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
 
-<b>1986</b>—Subsecs. (c) to (m). Pub. L. 99–646 substituted “(<i>l</i>)” for “(m)” in subsec. (c), redesignated subsecs. (e)to (m) as (d) to (<i>l</i>), respectively, and substituted “(<i>l</i>)” for “(m)” in subsec. (i) as redesignated.
+<b>1986</b>—Subsecs. (c) to (m). Pub. L. 99–646 substituted “(l)” for “(m)” in subsec. (c), redesignated subsecs. (e) to (m) as (d) to (l), respectively, and substituted “(l)” for “(m)” in subsec. (i) as redesignated.
 
 Subsec. (n). Pub. L. 99–570 added subsec. (n).
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

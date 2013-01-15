@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 96–53, §122, struck out subsec. (c) which authorized ava
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–424 substituted “$109,036,000 for the fiscal year 1979, which amount is” for “$101,800,000 for the fiscal year 1977 and $84,900,000 for the fiscal year 1978, which amounts are”.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–88, §104(a), struck out provisions authorizing appropriations of $90,000,000 for fiscal year 1974, $92,000,000 for fiscal year 1975, and $89,200,000 for fiscal year 1976, and inserted provisions authorizing an appropriation of $84,900,000 for fiscal year 1978.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §104(a), struck out provisions authorizing appropriations of $90,000,000 forfiscal year 1974, $92,000,000 for fiscal year 1975, and $89,200,000 for fiscal year 1976, and inserted provisions authorizing an appropriation of $84,900,000 for fiscal year 1978.
 
 Subsec. (c). Pub. L. 95–88, §104(b), inserted “for the fiscal year 1977, and not less than $1,647,000 shall be available for the fiscal year 1978,” after “shall be available”.
 
@@ -46,7 +46,7 @@ Subsecs. (b), (c), Pub. L. 94–161, §305(a)(3), added subsecs. (b) and (c).
 
 #### Effective Date of 1986 Amendment
 
-Section 1(c) of Pub. L. 99–631 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of this title\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
+Pub. L. 99–631, §1(c), Nov. 7, 1986, 100 Stat. 3519, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of this title\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
 
 #### Effective Date of 1985 Amendment
 

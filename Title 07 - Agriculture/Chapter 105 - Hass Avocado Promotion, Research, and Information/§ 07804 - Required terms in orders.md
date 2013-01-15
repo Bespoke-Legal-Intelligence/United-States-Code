@@ -94,13 +94,13 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(4) employ such persons as the Board determines are necessary, and set the compensation and define the duties of the persons;
 
-&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets tothe Secretary for approval under subsection (d) of this section; and
+&emsp;(5)(A) develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
 
 &emsp;(B) propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
 
 &emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d) of this section; or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) ofthis section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
@@ -166,13 +166,13 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (A) In general
 
-&emsp;&emsp;To ensure the efficient use of funds, the order shall provide that the Board, with the approval of the Secretary, shall enter into a contract or an agreement with an avocadoorganization established by State statute in a State with the majority of Hass avocado production in the United States, for the implementation of a plan or project for promotion, industry information, consumer information, or related research with respect to Hass avocados, and for the payment of the cost of the contract or agreement with funds received by the Board under the order.
+&emsp;&emsp;To ensure the efficient use of funds, the order shall provide that the Board, with the approval of the Secretary, shall enter into a contract or an agreement with an avocado organization established by State statute in a State with the majority of Hass avocado production in the United States, for the implementation of a plan or project for promotion, industry information, consumer information, or related research with respect to Hass avocados, and for the payment of the cost of the contract or agreement with funds received by the Board under the order.
 
 #### (B) Requirements
 
 &emsp;&emsp;The order shall provide that any contract or agreement entered into under this paragraph shall provide that—
 
-&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board a plan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
+&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board aplan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;&emsp;(ii) the plan or project shall become effective on the approval of the Secretary; and
 
@@ -328,7 +328,7 @@ The order shall provide for reimbursing the Secretary—
 
 &emsp;(1) for expenses not to exceed $25,000 incurred by the Secretary in connection with any referendum conducted under section 7805 of this title;
 
-&emsp;(2) for administrative costs incurred by the Secretary for supervisory work of up to twoemployee years annually after an order or amendment to any order has been issued and made effective; and
+&emsp;(2) for administrative costs incurred by the Secretary for supervisory work of up to two employee years annually after an order or amendment to any order has been issued and made effective; and
 
 &emsp;(3) for costs incurred by the Secretary in implementation of the order issued under section 7803 of this title, for enforcement of the chapter and the order, for subsequent referenda conducted under section 7805 of this title, and in defending the Board in litigation arising out of action taken by the Board.
 
@@ -358,7 +358,7 @@ The order shall provide for reimbursing the Secretary—
 
 &emsp;Paragraph (1) shall not apply to the development or recommendation of amendments to the order.
 
-#### (<i>l</i>) Prohibition of conflict of interest
+#### (l) Prohibition of conflict of interest
 
 The Board may not engage in, and shall prohibit the employees and agents of the Board from engaging in, any action that would be a conflict of interest.
 
@@ -416,7 +416,7 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 &emsp;&emsp;A committee appointed under subparagraph (A) shall consult directly with the Board.
 
-#### (<i>o</i>) Other terms of the order
+#### (o) Other terms of the order
 
 The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section).
 
@@ -424,7 +424,7 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### References in Text
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitleB of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Transfer of Functions
 

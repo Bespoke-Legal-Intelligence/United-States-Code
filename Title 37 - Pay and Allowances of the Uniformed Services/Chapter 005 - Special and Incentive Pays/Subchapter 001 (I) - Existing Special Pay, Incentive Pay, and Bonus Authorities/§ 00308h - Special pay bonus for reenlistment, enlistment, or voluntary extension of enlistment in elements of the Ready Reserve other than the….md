@@ -2,7 +2,7 @@
 
 (a)
 
-Authority and Eligibility Requirements.—(1) The Secretary concerned may pay a bonus as provided in subsection (b) to an eligible person who reenlists, enlists, or voluntarily extends an enlistment in a reserve component of an armed force for assignment to an element (other than the Selected Reserve) of the Ready Reserve of that armed force if the reenlistment, enlistment, or extension is for a period of three years, or for a period of six years, beyond any other period the person is obligated to serve.
+Authority and Eligibility Requirements.—(1) The Secretary concerned may pay abonus as provided in subsection (b) to an eligible person who reenlists, enlists, or voluntarily extends an enlistment in a reserve component of an armed force for assignment to an element (other than the Selected Reserve) of the Ready Reserve of that armed force if the reenlistment, enlistment, or extension is for a period of three years, or for a period of six years, beyond any other period the person is obligated to serve.
 
 (2) A person is eligible for a bonus under this section if the person—
 
@@ -54,11 +54,13 @@ Regulations.—(1) This section shall be administered under regulations to be pr
 
 (e)
 
-Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2012.
+Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2013.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(5), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(5), Dec. 31, 2011, 125 Stat. 1449.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(5), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(5), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(5), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -170,7 +172,7 @@ Amendment by Pub. L. 103–160 effective as of Sept. 30, 1993, and applicable wi
 
 #### Effective Date of 1985 Amendment
 
-Section 646(d) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 308g of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §646(d), Nov. 8, 1985, 99 Stat. 654, provided that: “The amendments made by this section \[amending this section and section 308g of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date
 
@@ -190,7 +192,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 #### Individual Ready Reserve Reenlistment Bonuses
 
-Section 552(f)(1) of Pub. L. 98–525 provided that: “In order to encourage members of the Armed Forces whose military service obligation is expiring and who do not choose to reenlist or otherwise extend their service on active duty or in active elements of reserve components to remain in the Armed Forces as members of the Individual Ready Reserve, the Secretary of Defense shall consider making greater use of the authority provided under section 308h of title 37, United States Code, to pay bonuses to persons reenlisting for periods of not less than three years in the Individual Ready Reserve.”
+Pub. L. 98–525, title V, §552(f)(1), Oct. 19, 1984, 98 Stat. 2531, provided that: “In order to encourage members of the Armed Forces whose military service obligation is expiring and who do not choose to reenlist or otherwise extend their service on active duty or in active elements of reserve components to remain in the Armed Forces as members of the Individual Ready Reserve, the Secretary of Defense shall consider making greater use of the authority provided under section 308h of title 37, United States Code, to pay bonuses to persons reenlisting for periods of not less than three years in the Individual Ready Reserve.”
 
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 

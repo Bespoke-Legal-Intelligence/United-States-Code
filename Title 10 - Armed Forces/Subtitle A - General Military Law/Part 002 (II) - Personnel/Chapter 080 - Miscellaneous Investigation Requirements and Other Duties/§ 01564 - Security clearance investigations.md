@@ -18,9 +18,9 @@ Expedited Process.—The Secretary of Defense may prescribe a process for expedi
 
 &emsp;&emsp;&emsp;(i) a member of the armed forces who was retired or separated, or is expected to be retired or separated, for physical disability pursuant to chapter 61 of this title;
 
-&emsp;&emsp;&emsp;(ii) the spouse of a member of the armed forces who retires or is separated, after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, for a physical disability as a result of a wound, injuries or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned); or
+&emsp;&emsp;&emsp;(ii) the spouse of a member of the armed forces who retires or is separated, after January 7, 2011, for a physical disability as a result of a wound, injuries or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned); or
 
-&emsp;&emsp;&emsp;(iii) the spouse of a member of the armed forces who dies, after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, as a result of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
+&emsp;&emsp;&emsp;(iii) the spouse of a member of the armed forces who dies, after January 7, 2011, as aresult of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
 
 (b)
 
@@ -48,13 +48,11 @@ Sensitive Duties.—For the purposes of this section, it is not necessary for th
 
 Use of Appropriated Funds.—The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192.)
-
-#### References in Text
-
-The date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (a)(2)(B)(ii), (iii), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(2)(B)(ii), (iii). Pub. L. 112–239 substituted “January 7, 2011” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
 

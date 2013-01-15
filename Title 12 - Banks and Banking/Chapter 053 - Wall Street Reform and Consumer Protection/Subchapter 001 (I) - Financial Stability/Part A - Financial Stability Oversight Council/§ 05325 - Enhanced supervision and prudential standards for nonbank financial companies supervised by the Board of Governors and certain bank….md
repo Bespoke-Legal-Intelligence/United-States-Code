@@ -44,7 +44,7 @@
 
 #### (2) Prudential standards for foreign financial companies
 
-&emsp;In making recommendations concerning the standards set forth in paragraph (1) that wouldapply to foreign nonbank financial companies supervised by the Board of Governors or foreign-based bank holding companies, the Council shall—
+&emsp;In making recommendations concerning the standards set forth in paragraph (1) that would apply to foreign nonbank financial companies supervised by the Board of Governors or foreign-based bank holding companies, the Council shall—
 
 &emsp;&emsp;(A) give due regard to the principle of national treatment and equality of competitive opportunity; and
 
@@ -134,7 +134,7 @@ The Council may make recommendations to the Board of Governors to require period
 
 #### (g) Short-term debt limits
 
-The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
+The Council may make recommendations to the Board of Governors to require short-termdebt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
 (Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403.)
 

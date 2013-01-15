@@ -6,5 +6,5 @@ For the purpose of determining eligibility for retirement or transfer to the Fle
 
 #### Effective Date
 
-Section 2 of Pub. L. 87–165 provided that: “Section 1 \[enacting this section\] applies to service performed, and retirements or transfers to the Fleet Reserve or the Fleet Marine Corps Reserve effected, before and after this Act takes effect \[Aug. 25, 1961\].”
+Pub. L. 87–165, §2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1 \[enacting this section\] applies to service performed, and retirements or transfers to the Fleet Reserve or the Fleet Marine Corps Reserve effected, before and after this Act takes effect \[Aug. 25, 1961\].”
 

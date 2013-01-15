@@ -22,7 +22,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) In general
 
-&emsp;The Secretary may not make any grant under this section to any applicant unless theapplicant certifies to the Secretary that the applicant will—
+&emsp;The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
 
 &emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -86,7 +86,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(C) the extent to which the applicant could undertake such activities without a grant under this section;
 
-&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private serviceproviders, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
+&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private service providers, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
 
 &emsp;&emsp;(E) the need for affordable housing in the community;
 
@@ -158,13 +158,13 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestment by public and private entities in the surrounding neighborhood;
 
-&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income familieswith children, are unemployed, and dependent on various forms of public assistance;
+&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income families with children, are unemployed, and dependent on various forms of public assistance;
 
 &emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area; or
 
 &emsp;&emsp;&emsp;(III) is lacking in sufficient appropriate transportation, supportive services, economic opportunity, schools, civic and religious institutions, and public services, resulting in severe social distress in the project;
 
-&emsp;&emsp;&emsp;(iv) cannot be revitalized through assistance under other programs, such as the program for capital and operating assistance for public housing under this chapter, or the programs under sections 1437g and 1437<i>l</i> of this title (as in effect before the effective date under under <sup>2</sup> section 503(a) <sup>2</sup> the Quality Housing and Work Responsibility Act of 1998), because of cost constraints and inadequacy of available amounts; and
+&emsp;&emsp;&emsp;(iv) cannot be revitalized through assistance under other programs, such as the program for capital and operating assistance for public housing under this chapter, or the programs under sections 1437g and 1437l of this title (as in effect before the effective date under under <sup>2</sup> section 503(a) <sup>2</sup> the Quality Housing and Work Responsibility Act of 1998), because of cost constraints and inadequacy of available amounts; and
 
 &emsp;&emsp;&emsp;(v) in the case of individual buildings, is, in the Secretary's determination, sufficiently separable from the remainder of the project of which the building is part to make use of the building feasible for purposes of this section; or
 
@@ -178,7 +178,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Secretary shall require grantees of assistance under this section to report the sources and uses of all amounts expended for revitalization plans.
 
-#### (<i>l</i>) Annual report
+#### (l) Annual report
 
 The Secretary shall submit to the Congress an annual report setting forth—
 
@@ -296,7 +296,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 &emsp;&emsp;&emsp;(II) is served by a single public housing agency, which agency administers 100 or fewer public housing dwelling units.
 
-#### (<i>o</i>) Sunset
+#### (o) Sunset
 
 No assistance may be provided under this section after September 30, 2012.
 
@@ -304,7 +304,7 @@ No assistance may be provided under this section after September 30, 2012.
 
 #### References in Text
 
-Section 1437<i>l</i> of this title, referred to in subsec. (j)(2)(A)(iv), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+Section 1437l of this title, referred to in subsec. (j)(2)(A)(iv), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
@@ -312,13 +312,13 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 <b>2011</b>—Subsec. (m)(1). Pub. L. 112–55, §222(1), substituted “fiscal year 2012.” for “fiscal year 2010.”
 
-Subsec. (<i>o</i>). Pub. L. 112–55, §222(2), substituted “September 30, 2012.” for “September 30, 2010.”
+Subsec. (o). Pub. L. 112–55, §222(2), substituted “September 30, 2012.” for “September 30, 2010.”
 
 <b>2009</b>—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted “fiscal year 2010.” for “fiscal year 2009.”
 
 Pub. L. 111–8, §223(1), which directed the substitution of “2009” for “2003”, was executed by making the substitution for “2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(1). See 2007 Amendment note below.
 
-Subsec. (<i>o</i>). Pub. L. 111–117, §222(2), substituted “September 30, 2010.” for “September 30, 2009.”
+Subsec. (o). Pub. L. 111–117, §222(2), substituted “September 30, 2010.” for “September 30, 2009.”
 
 Pub. L. 111–8, §223(2), which directed substitution of “September 30, 2009” for “September 30, 2007”, was executed by making the substitution for “September 30, 2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(2). See 2007 Amendment note below.
 
@@ -326,7 +326,7 @@ Pub. L. 111–8, §223(2), which directed substitution of “September 30, 2009�
 
 Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5, substituted “2007” for “2003”.
 
-Subsec. (<i>o</i>). Pub. L. 110–161, §224(2), substituted “September 30, 2008” for “September 30, 2007”.
+Subsec. (o). Pub. L. 110–161, §224(2), substituted “September 30, 2008” for “September 30, 2007”.
 
 Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted “September 30, 2007” for “September 30, 2006”.
 
@@ -342,9 +342,9 @@ Subsec. (e)(2)(I) to (L). Pub. L. 108–186, §402(a)(4)–(6), added subpars. (
 
 Subsec. (j)(2)(A)(iii)(III). Pub. L. 108–186, §402(b), added subcl. (III).
 
-Subsec. (<i>l</i>)(3). Pub. L. 108–186, §403(c)(1), substituted “, including a specification of the amount and type of assistance provided under subsection (n) of this section;” for “; and”.
+Subsec. (l)(3). Pub. L. 108–186, §403(c)(1), substituted “, including a specification of the amount and type of assistance provided under subsection (n) of this section;” for “; and”.
 
-Subsec. (<i>l</i>)(4), (5). Pub. L. 108–186, §403(c)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (l)(4), (5). Pub. L. 108–186, §403(c)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (m)(1). Pub. L. 108–186, §402(d), which directed substitution of “through 2006” for “, 2001, and 2002” could not be executed because the words “, 2001, and 2002” did not appear subsequent to amendment by Pub. L. 108–7, §215(a). See below.
 
@@ -352,13 +352,13 @@ Pub. L. 108–7, §215(a), substituted “$574,000,000 for fiscal year 2003” f
 
 Subsec. (m)(3). Pub. L. 108–186, §403(d), added par. (3).
 
-Subsec. (n). Pub. L. 108–186, §403(b)(2), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
+Subsec. (n). Pub. L. 108–186, §403(b)(2), added subsec. (n). Former subsec. (n) redesignated (o).
 
 Pub. L. 108–186, §402(e), substituted “September 30, 2006” for “September 30, 2004”.
 
 Pub. L. 108–7, §215(b), substituted “September 30, 2004” for “September 30, 2002”.
 
-Subsec. (<i>o</i>) Pub. L. 108–186, §403(b)(1), redesignated subsec. (n) as (<i>o</i>).
+Subsec. (o) Pub. L. 108–186, §403(b)(1), redesignated subsec. (n) as (o).
 
 <b>2000</b>—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
 
@@ -388,11 +388,11 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (l) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Study of Elderly and Disabled Public Housing Needs
 
-Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housingthrough the HOPE VI program or other means, taking into account the special needs of the residents.”
+Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housing through the HOPE VI program or other means, taking into account the special needs of the residents.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

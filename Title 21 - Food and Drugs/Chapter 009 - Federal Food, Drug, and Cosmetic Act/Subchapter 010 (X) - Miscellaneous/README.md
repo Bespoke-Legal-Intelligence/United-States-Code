@@ -23,3 +23,5 @@ Former subchapter IX of this chapter was redesignated as this subchapter.
 - [&sect; 00399b - Office of Women's Health](%C2%A7%2000399b%20-%20Office%20of%20Women%27s%20Health.md)
 - [&sect; 00399c - Improving the training of State, local, territorial, and tribal food safety officials](%C2%A7%2000399c%20-%20Improving%20the%20training%20of%20State%2C%20local%2C%20territorial%2C%20and%20tribal%20food%20safety%20officials.md)
 - [&sect; 00399d - Employee protections](%C2%A7%2000399d%20-%20Employee%20protections.md)
+- [&sect; 00399e - Nanotechnology](%C2%A7%2000399e%20-%20Nanotechnology.md)
+- [&sect; 00399f - Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including&#8230;](%C2%A7%2000399f%20-%20Ensuring%20adequate%20information%20regarding%20pharmaceuticals%20for%20all%20populations%2C%20particularly%20underrepresented%20subpopulations%2C%20including%E2%80%A6.md)

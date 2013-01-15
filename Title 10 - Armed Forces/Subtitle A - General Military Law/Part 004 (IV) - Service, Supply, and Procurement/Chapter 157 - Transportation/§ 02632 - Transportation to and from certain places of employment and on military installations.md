@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(C) private persons under contract; and
 
-&emsp;(3) lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer of the department designated by the Secretary, and that may provide for the pooling of Government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
+&emsp;(3) lease or charter the equipment to private or public carriers for operation under termsthat are considered necessary by the Secretary or by an officer of the department designated by the Secretary, and that may provide for the pooling of Government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
 
 (d) Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
@@ -150,7 +150,7 @@ Subsec. (c)(2)(A). Pub. L. 95–362, §1(3), inserted reference to the Coast Gua
 
 #### Regulations
 
-Section 318(d) of Pub. L. 100–180 required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
+Pub. L. 100–180, div. A, title III, §318(d), Dec. 4, 1987, 101 Stat. 1077, required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
 
 #### Transfer of Functions
 

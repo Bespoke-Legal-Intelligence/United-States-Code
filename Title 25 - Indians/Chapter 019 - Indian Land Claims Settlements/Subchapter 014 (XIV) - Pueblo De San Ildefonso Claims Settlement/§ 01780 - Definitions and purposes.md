@@ -14,7 +14,7 @@ In this subchapter:
 
 #### (3) Los Alamos Agreement
 
-&emsp;The term “Los Alamos Agreement” means the agreement among the County, the Pueblo, the Department of Agriculture Forest Service, and the Bureau of Indian Affairs dated January 22, 2004.
+&emsp;The term “Los Alamos Agreement” means the agreement among the County, the Pueblo, the Department of Agriculture Forest Service,and the Bureau of Indian Affairs dated January 22, 2004.
 
 #### (4) Los Alamos Townsite Land
 

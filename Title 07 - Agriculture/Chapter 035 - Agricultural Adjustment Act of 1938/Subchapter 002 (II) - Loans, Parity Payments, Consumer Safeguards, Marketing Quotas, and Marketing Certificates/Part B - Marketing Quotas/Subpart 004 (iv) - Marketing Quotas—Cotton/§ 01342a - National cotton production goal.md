@@ -10,7 +10,7 @@ The Secretary shall, not later than November 15, of the calendar years 1970 thro
 
 #### Effective Date
 
-Section 601 of Pub. L. 91–524 provided that this section is effective beginning with the 1971 crop of upland cotton.
+Pub. L. 91–524, title VI, §601, Nov. 30, 1970, 84 Stat. 1371, provided that this section is effective beginning with the 1971 crop of upland cotton.
 
 #### Inapplicability of Section
 

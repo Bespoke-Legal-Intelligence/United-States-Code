@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 &emsp;(C) any debt due for any State or Federal tax.
 
-(2) The maximum part of the aggregate disposable earnings of an individual for any workweek which is subject to garnishment to enforce anyorder for the support of any person shall not exceed—
+(2) The maximum part of the aggregate disposable earnings of an individual for any workweekwhich is subject to garnishment to enforce any order for the support of any person shall not exceed—
 
 &emsp;(A) where such individual is supporting his spouse or dependent child (other than a spouse or child with respect to whose support such order is used), 50 per centum of such individual's disposable earnings for that week; and
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Section 501(e)(5) of Pub. L. 95–30 provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
+Pub. L. 95–30, title V, §501(e)(5), May 23, 1977, 91 Stat. 162, provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
 

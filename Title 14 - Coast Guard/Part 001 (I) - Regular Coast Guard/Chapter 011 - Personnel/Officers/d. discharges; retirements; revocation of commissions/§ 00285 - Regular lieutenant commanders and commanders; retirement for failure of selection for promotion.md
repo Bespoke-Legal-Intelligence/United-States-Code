@@ -24,7 +24,7 @@
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 
-Section 3 of Pub. L. 88–130 authorized the Secretary, until July 1, 1966, to convene boards to recommend for continuation on active duty officers of the Coast Guard on the active duty promotion list in specified categories.
+Pub. L. 88–130, §3, Sept. 24, 1963, 77 Stat. 191, authorized the Secretary, until July 1, 1966, to convene boards to recommend for continuation on active duty officers of the Coast Guard on the active duty promotion list in specified categories.
 
 #### Retired Pay on or Prior to September 24, 1963
 

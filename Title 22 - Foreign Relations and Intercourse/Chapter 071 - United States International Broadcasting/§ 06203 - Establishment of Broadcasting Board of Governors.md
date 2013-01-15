@@ -50,7 +50,7 @@ Decisions of the Board shall be made by majority vote, a quorum being present. A
 
 #### (g) Immunity from civil liability
 
-Notwithstanding any other provision of law, any and all limitations on liability that apply to the members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
+Notwithstanding any other provision of law, any and all limitations on liability that apply tothe members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
 
 (Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §§502, 504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451.)
 

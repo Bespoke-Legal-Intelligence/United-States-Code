@@ -30,7 +30,7 @@ The Commission may conduct periodic studies regarding the state of financial lit
 
 #### (d) Multilingual
 
-The Commission may take any action to develop and promote financial literacy and education materials in languages other than English, as the Commission deems appropriate, including for the website established under section 9703(b) of this title, at the toll-free numberestablished under section 9703(c) of this title, and in the materials developed and disseminated under section 9703(d) of this title.
+The Commission may take any action to develop and promote financial literacy and education materials in languages other than English, as the Commission deems appropriate, including for the website established under section 9703(b) of this title, at the toll-free number established under section 9703(c) of this title, and in the materials developed and disseminated under section 9703(d) of this title.
 
 (Pub. L. 108–159, title V, §515, Dec. 4, 2003, 117 Stat. 2007.)
 

@@ -50,7 +50,7 @@ Notwithstanding the provisions of section 1535 of title 31, the head of a Federa
 
 #### (e) Authority of Federal agency head to enter into agreement with Indian tribe
 
-The head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with an Indian tribe relating to—
+The head of a Federal agency with law enforcement personnel or facilities may enter intoan agreement (with or without reimbursement) with an Indian tribe relating to—
 
 &emsp;(1) the law enforcement authority of the Indian tribe, or
 

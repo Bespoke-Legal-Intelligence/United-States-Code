@@ -12,7 +12,7 @@
 
 <sup>2</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
-> However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired payrecomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
+> However, an officer who was ordered to active duty (other than for training) in the grade thathe holds on the retired list under former section 6150 of this title, or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
 
 (b) A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
@@ -50,7 +50,7 @@
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 110–181, div. A, title VI, §646(b), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–383, div. A, title VI, §631(b), Jan. 7, 2011, 124 Stat. 4239.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(l)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 110–181, div. A, title VI, §646(b), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–383, div. A, title VI, §631(b), Jan. 7, 2011, 124 Stat. 4239.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,7 @@ In subsection (a), columns 1 and 2 of the table are based on 37:316 (1st proviso
 
 In subsections (a) and (d), the words “and disregard a part of a year that is less than six months” are added to footnote 1 to conform to footnote 3 of section 1401 of this title.
 
-In subsection (b), the words “for which he would otherwise be eligible for retired pay under chapter 61 ofthis title” are substituted for the words “in accordance with the standard schedule of rating disabilities in current use by the Veterans’ Administration” and “if qualified”.
+In subsection (b), the words “for which he would otherwise be eligible for retired pay under chapter 61 of this title” are substituted for the words “in accordance with the standard schedule of rating disabilities in current use by the Veterans’ Administration” and “if qualified”.
 
 In subsection (c), the requirement that the physical disability incurred be 30 percent or more is omitted as surplusage, since it is also required that the member be qualified for physical disability retirement under section 1201 or 1204 of this title.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 111–383 applicable to persons who first become entitled t
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
+Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1,2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
 #### Effective Date of 1983 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note undersection 203 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1963 Amendment
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Accrual of Benefits; Prospective Applicability
 
-Section 642(c) of Pub. L. 102–484 provided that: “No benefits shall accrue for months beginning before the date of the enactment of this Act \[Oct. 23, 1992\] by reason of the amendments made by this section \[amending this section and section 1402a of this title\].”
+Pub. L. 102–484, div. A, title VI, §642(c), Oct. 23, 1992, 106 Stat. 2425, provided that: “No benefits shall accrue for months beginning before the date of the enactment of this Act \[Oct. 23, 1992\] by reason of the amendments made by this section \[amending this section and section 1402a of this title\].”
 
 #### Recomputation of Retired Pay of Certain Recalled Retirees
 
@@ -176,7 +176,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 
-Section 5(a)–(f) of Pub. L. 88–132 provided that:
+Pub. L. 88–132, §5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that:
 
 “(a) Except as provided in section 1402 of title 10, United States Code, the changes made by this Act \[see Short Title note under section 201 of Title 37\] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of this Act \[Oct. 1, 1963\]. However, except for a member covered by section 6331 of title 10, United States Code who became entitled to retainer pay before April 1, 1963, and subject to subsection (j) of this section \[set out as a note below\], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after March 31, 1963, but before the effective date of this Act \[Oct. 1, 1963\], is entitled—
 
@@ -228,9 +228,9 @@ Section 5(a)–(f) of Pub. L. 88–132 provided that:
 
 #### Retired Pay and Retainer Pay; Retroactive Effect
 
-Section 5(j) of Pub. L. 88–132 provided that: “A member or former member of a uniformed service is not entitled to an increase in his retired pay or retainer pay because of the enactment of this Act \[see Short Title note set out under section 201 of Title 37\] for any period before the effective date of this Act \[Oct. 1, 1963\].”
+Pub. L. 88–132, §5(j), Oct. 2, 1963, 77 Stat. 214, provided that: “A member or former member of a uniformed service is not entitled to an increase in his retired pay or retainer pay because of the enactment of this Act \[see Short Title note set out under section 201 of Title 37\] for any period before the effective date of this Act \[Oct. 1, 1963\].”
 
 #### Savings Provision
 
-Section 5(<i>l</i>)(2) of Pub. L. 88–132 provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code \[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
+Pub. L. 88–132, §5(l)(2), Oct. 2, 1963, 77 Stat. 215, provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code \[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
 

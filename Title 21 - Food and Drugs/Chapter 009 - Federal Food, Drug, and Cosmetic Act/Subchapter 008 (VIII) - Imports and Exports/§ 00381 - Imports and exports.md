@@ -2,11 +2,11 @@
 
 #### (a) Imports; list of registered foreign establishments; samples from unregistered foreign establishments; examination and refusal of admission
 
-The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or section 387e(h) of this title and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of section 360j(f) of this title, or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of section 355 of this title, or prohibited from introduction or delivery for introduction into interstate commerce under section 331(<i>ll</i>) of this title, or (4) the recordkeeping requirements under section 2223 of this title (other than the requirements under subsection (f) of such section) have not been complied with regarding such article, then such article shall be refused admission, except as provided in subsection (b) of this section. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations. Clause (2) of the third sentence of this paragraph <sup>1</sup> shall not be construed to prohibit the admission of narcotic drugs the importation of which is permitted under the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
+The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or section 387e(h) of this title and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of section 360j(f) of this title, or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of section 355 of this title or the importer (as defined in section 384a of this title) is in violation of such section 384a of this title, or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title, or (4) the recordkeeping requirements under section 2223 of this title (other than the requirements under subsection (f) of such section) have not been complied with regarding such article, then such article shall be refused admission, except as provided in subsection (b) of this section. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 1498(a)(1) of title 19) and was not brought into compliance as described under subsection (b)..<sup>1</sup> The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee. Clause (2) of the third sentence of this paragraph <sup>2</sup> shall not be construed to prohibit the admission of narcotic drugs the importation of which is permitted under the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
 
 #### (b) Disposition of refused articles
 
-Pending decision as to the admission of an article being imported or offered for import, the Secretary of the Treasury may authorize delivery of such article to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Secretary of Health and Human Services that (1) an article included within the provisions of clause (3) of subsection (a) of this section can, by relabeling or other action, be brought into compliance with this chapter or rendered other than a food, drug, device, or cosmetic, or (2) with respect to an article described in subsection (a) relating to the requirements of sections <sup>2</sup> 379aa or 379aa–1 of this title,,<sup>3</sup> the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be, final determination as to admission of such article may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant, or, with respect to clause (2), the responsible person, to perform such relabeling or other action specified in such authorization (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary's authorization). All such relabeling or other action pursuant to such authorization shall in accordance with regulations be under the supervision of an officer or employee of the Department of Health and Human Services designated by the Secretary, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
+Pending decision as to the admission of an article being imported or offered for import, the Secretary of the Treasury may authorize delivery of such article to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Secretary of Health and Human Services that (1) an article included within the provisions of clause (3) of subsection (a) of this section can,by relabeling or other action, be brought into compliance with this chapter or rendered other than a food, drug, device, or cosmetic, or (2) with respect to an article described in subsection (a) relating to the requirements of sections <sup>3</sup> 379aa or 379aa–1 of this title,,<sup>1</sup> the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be, final determination as to admission of such article may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant, or, with respect to clause (2), the responsible person, to perform such relabeling or other action specified in such authorization (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary's authorization). All such relabeling or other action pursuant to such authorization shall in accordance with regulations be under the supervision of an officer or employee of the Department of Health and Human Services designated by the Secretary, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
 
 #### (c) Charges concerning refused articles
 
@@ -22,7 +22,7 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 &emsp;(i) The importer of such article of a drug or device or importer of such article of a food additive, color additive, or dietary supplement submits to the Secretary, at the time of initial importation, a statement in accordance with the following:
 
-&emsp;&emsp;(I) Such statement provides that such article is intended to be further processed by the initial owner or consignee, or incorporatedby the initial owner or consignee, into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by the initial owner or consignee from the United States in accordance with subsection (e) of this section or section 382 of this title, or with section 262(h) of title 42.
+&emsp;&emsp;(I) Such statement provides that such article is intended to be further processed by the initial owner or consignee, or incorporated by the initial owner or consignee, into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by the initial owner or consignee from the United States in accordance with subsection (e) of this section or section 382 of this title, or with section 351(h) of the Public Health Service Act \[42 U.S.C. 262(h)\].
 
 &emsp;&emsp;(II) The statement identifies the manufacturer of such article and each processor, packer, distributor, or other entity that had possession of the article in the chain of possession of the article from the manufacturer to such importer of the article.
 
@@ -36,11 +36,11 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 &emsp;(v) Upon request of the Secretary, the initial owner or consignee submits a report that provides an accounting of the exportation or destruction of such article or portions thereof, and the manner in which such owner or consignee complied with the requirements of this subparagraph.
 
-(B) Notwithstanding subparagraph (A), the Secretary may refuse admission to an article that otherwise would be imported into the United States under such subparagraph if the Secretary determines that there is credible evidence or information indicating that such article is not intended to be further processed by the initial owner or consignee, or incorporated by the initial owner or consignee, into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by the initial owner or consignee from the United States in accordance with subsection (e) of this section or section 382 of this title, or with section 262(h) of title 42.
+(B) Notwithstanding subparagraph (A), the Secretary may refuse admission to an article that otherwise would be imported into the United States under such subparagraph if the Secretary determines that there is credible evidence or information indicating that such article is not intended to be further processed by the initial owner or consignee, or incorporated by the initial owner or consignee, into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by the initial owner or consignee from the United States in accordance with subsection (e) of this section or section 382 of this title, or with section 351(h) of the Public Health Service Act \[42 U.S.C. 262(h)\].
 
 (C) This section may not be construed as affecting the responsibility of the Secretary to ensure that articles imported into the United States under authority of subparagraph (A) meet each of the conditions established in such subparagraph for importation.
 
-(4) The importation into the United States of blood, blood components, source plasma, or source leukocytes or of a component, accessory, or part thereof is not permitted pursuant to paragraph (3) unless the importation complies with section 262(a) of title 42 or the Secretary permits the importation under appropriate circumstances and conditions, as determined by the Secretary. The importation of tissue or a component or part of tissue is not permitted pursuant to paragraph (3) unless the importation complies with section 264 of title 42.
+(4) The importation into the United States of blood, blood components, source plasma, or source leukocytes or of a component, accessory, or part thereof is not permitted pursuant to paragraph (3) unless the importation complies with section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] or the Secretary permits the importation under appropriate circumstances and conditions, as determined by the Secretary. The importation of tissue or a component or part of tissue is not permitted pursuant to paragraph (3) unless the importation complies with section 361 of the Public Health Service Act \[42 U.S.C. 264\].
 
 #### (e) Exports
 
@@ -74,7 +74,7 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 > The Secretary shall issue such a certification within 20 days of the receipt of a request for such certification.
 
-(B) If the Secretary issues a written export certification within the 20 days prescribed by subparagraph (A), a fee for such certification may be charged but shall not exceed $175 for each certification. Fees collected for a fiscal year pursuant to this subparagraph shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriations Acts until expended withoutfiscal year limitation. Such fees shall be collected in each fiscal year in an amount equal to the amount specified in appropriations Acts for such fiscal year and shall only be collected and available for the costs of the Food and Drug Administration.
+(B) If the Secretary issues a written export certification within the 20 days prescribed by subparagraph (A), a fee for such certification may be charged but shall not exceed $175 for each certification. Fees collected for a fiscal year pursuant to this subparagraph shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriations Acts until expended without fiscal year limitation. Such fees shall be collected in each fiscal year in an amount equal to the amount specified in appropriations Acts for such fiscal year and shall only be collected and available for the costs of the Food and Drug Administration.
 
 (C) For purposes of this paragraph, a certification by the Secretary shall be made on such basis, and in such form (including a publicly available listing) as the Secretary determines appropriate.
 
@@ -144,11 +144,11 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 #### (k) Importation by debarred persons
 
-(1) If an article of food is being imported or offered for import into the United States, and the importer, owner, or consignee of the article is a person who has been debarred under section 335a(b)(3) of this title, such article shall be held at the port of entry for the article, and may not be delivered to such person. Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
+(1) If an article of food is being imported or offered for import into the United States, and the importer, owner, or consignee of the article is a person who has been debarred under section 335a(b)(3) of this title, such article shall be held at the port of entry for the article, and may not be delivered to such person. Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by anyperson from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
 
 (2) An article of food held under paragraph (1) may be delivered to a person who is not a debarred person under section 335a(b)(3) of this title if such person affirmatively establishes, at the expense of the person, that the article complies with the requirements of this chapter, as determined by the Secretary.
 
-#### (<i>l</i>) Failure to register
+#### (l) Failure to register
 
 (1) <sup>4</sup> If an article of food is being imported or offered for import into the United States, and such article is from a foreign facility for which a registration has not been submitted to the Secretary under section 350d of this title (or for which a registration has been suspended under such section), such article shall be held at the port of entry for the article, and may not be delivered to the importer, owner, or consignee of the article, until the foreign facility is so registered. Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
 
@@ -158,7 +158,7 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 (2)(A) Regulations under paragraph (1) shall require that a notice under such paragraph be provided by a specified period of time in advance of the time of the importation of the article of food involved or the offering of the food for import, which period shall be no less than the minimum amount of time necessary for the Secretary to receive, review, and appropriately respond to such notification, but may not exceed five days. In determining the specified period of time required under this subparagraph, the Secretary may consider, but is not limited to consideration of, the effect on commerce of such period of time, the locations of the various ports of entry into the United States, the various modes of transportation, the types of food imported into the United States, and any other such consideration. Nothing in the preceding sentence may be construed as a limitation on the obligation of the Secretary to receive, review, and appropriately respond to any notice under paragraph (1).
 
-(B)(i) If an article of food is being imported or offered for import into the United States and anotice under paragraph (1) is not provided in advance in accordance with the requirements under paragraph (1), such article shall be held at the port of entry for the article, and may not be delivered to the importer, owner, or consignee of the article, until such notice is submitted to the Secretary, and the Secretary examines the notice and determines that the notice is in accordance with the requirements under paragraph (1). Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
+(B)(i) If an article of food is being imported or offered for import into the United States and a notice under paragraph (1) is not provided in advance in accordance with the requirements under paragraph (1), such article shall be held at the port of entry for the article, and may not be delivered to the importer, owner, or consignee of the article, until such notice is submitted to the Secretary, and the Secretary examines the notice and determines that the notice is in accordance with the requirements under paragraph (1). Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
 
 (ii) In carrying out clause (i) with respect to an article of food, the Secretary shall determine whether there is in the possession of the Secretary any credible evidence or information indicating that such article presents a threat of serious adverse health consequences or death to humans or animals.
 
@@ -174,9 +174,9 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 (3) A requirement under paragraph (1) remains in effect until the Secretary determines that the food involved has been brought into compliance with this chapter.
 
-#### (<i>o</i>) Registration statement
+#### (o) Registration statement
 
-If an article that is a drug or device is being imported or offered for import into the United States, and the importer, owner, or consignee of such article does not, at the time of offering the article for import, submit to the Secretary a statement that identifies the registration under section 360(i) of this title of each establishment that with respect to such article is required under such section to register with the Secretary, the article may be refused admission. If the article is refused admission for failure to submit such a statement, the article shall be held at the port of entry for the article, and may not be delivered to the importer, owner, or consignee of the article, until such a statement is submitted to the Secretary. Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
+If an article that is a device is being imported or offered for import into the United States, and the importer, owner, or consignee of such article does not, at the time of offering the article for import, submit to the Secretary a statement that identifies the registration under section 360(i) of this title of each establishment that with respect to such article is required under such section to register with the Secretary, the article may be refused admission. If the article is refused admission for failure to submit such a statement, the article shall be held at the port of entry for the article, and may not be delivered to the importer, owner, or consignee of the article, until such a statement is submitted to the Secretary. Subsection (b) of this section does not authorize the delivery of the article pursuant to the execution of a bond while the article is so held. The article shall be removed to a secure facility, as appropriate. During the period of time that such article is so held, the article shall not be transferred by any person from the port of entry into the United States for the article, or from the secure facility to which the article has been removed, as the case may be.
 
 #### (p) Report
 
@@ -206,7 +206,7 @@ If an article that is a drug or device is being imported or offered for import i
 
 &emsp;&emsp;(C) a finding by the Secretary, supported by scientific, risk-based evidence, that—
 
-&emsp;&emsp;&emsp;(i) the food safety programs, systems, and standards in the country, territory, or region of origin of the food are inadequate to ensure that the article of food is as safeas a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter; and
+&emsp;&emsp;&emsp;(i) the food safety programs, systems, and standards in the country, territory, or region of origin of the food are inadequate to ensure that the article of food is as safe as a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter; and
 
 &emsp;&emsp;&emsp;(ii) the certification would assist the Secretary in determining whether to refuse or admit the article of food under subsection (a); and
 
@@ -238,13 +238,89 @@ If an article that is a drug or device is being imported or offered for import i
 
 #### (7) Assessment of food safety programs, systems, and standards
 
-&emsp;If the Secretary determines that the food safety programs, systems, and standards in a foreign region, country, or territory are inadequate to ensure that an article of food is as safe as a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter, the Secretary shall, to the extent practicable, identify such inadequacies and establish a process by which the foreign region, country, or territory may inform the Secretary of improvements made to such food safety program, system, or standard and demonstrate that those controls are adequate to ensure that an article of food is as safe as a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter.
+&emsp;If the Secretary determines that the food safety programs, systems, and standards in a foreign region, country, or territory are inadequate to ensure that an article of food is as safe as a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter, the Secretary shall, to the extent practicable, identify such inadequacies and establish a process by which the foreign region, country, or territory may inform the Secretary of improvements made to suchfood safety program, system, or standard and demonstrate that those controls are adequate to ensure that an article of food is as safe as a similar article of food that is manufactured, processed, packed, or held in the United States in accordance with the requirements of this chapter.
 
-(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Pub. L. 87–781, title III, §306, Oct. 10, 1962, 76 Stat. 796; Pub. L. 90–399, §106, July 13, 1968, 82 Stat. 353; Pub. L. 91–513, title II, §701(h), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 94–295, §§3(f), 4(b)(3), May 28, 1976, 90 Stat. 578, 580; Pub. L. 100–293, §3, Apr. 22, 1988, 102 Stat. 96; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §5, Aug. 26, 1992, 106 Stat. 943; Pub. L. 103–80, §3(cc), (dd)(1), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 104–134, title II, §2102(a)–(c), Apr. 26, 1996, 110 Stat. 1321–313, 1321–314; Pub. L. 104–180, title VI, §603(a), (b), Aug. 6, 1996, 110 Stat. 1594, 1595; Pub. L. 105–115, title I, §125(a)(2)(D), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 106–387, §1(a) \[title VII, §§745(c)(1), 746(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, 1549A–40; Pub. L. 107–188, title III, §§302(a)–(d), 303(c), 304(e), 305(c), 307(a), 308(a), 321(b)(1), 322(a), June 12, 2002, 116 Stat. 662, 663, 665, 667, 668, 670, 672, 676; Pub. L. 109–462, §5(a), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 110–85, title IX, §912(b)(2), Sept. 27, 2007, 121 Stat. 952; Pub. L. 111–31, div. A, title I, §103(<i>l</i>), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §§102(b)(3), 107(b), title II, §204(j)(2), title III, §§301(c), 303(a)–(c), 304(a), Jan. 4, 2011, 124 Stat. 3889, 3910, 3937, 3955–3957.)
+#### (r) Standards for admission of imported drugs
 
-#### Amendment of Subsection (a)
+(1) The Secretary may require, pursuant to the regulations promulgated under paragraph (4)(A), as a condition of granting admission to a drug imported or offered for import into the United States, that the importer electronically submit information demonstrating that the drug complies with applicable requirements of this chapter.
 
-<i>Pub. L. 111–353, title III, §301(c), (d), Jan. 4, 2011, 124 Stat. 3955, provided that, effective 2 years after Jan. 4, 2011, subsection (a) of this section is amended by inserting “or the importer (as defined in section 384a of this title) is in violation of such section 384a of this title” after “or in violation of section 355 of this title”.</i>
+(2) The information described under paragraph (1) may include—
+
+&emsp;(A) information demonstrating the regulatory status of the drug, such as the new drug application, abbreviated new drug application, or investigational new drug or drug master file number;
+
+&emsp;(B) facility information, such as proof of registration and the unique facility identifier;
+
+&emsp;(C) indication of compliance with current good manufacturing practice, testing results, certifications relating to satisfactory inspections, and compliance with the country of export regulations; and
+
+&emsp;(D) any other information deemed necessary and appropriate by the Secretary to assess compliance of the article being offered for import.
+
+(3) Information requirements referred to in paragraph (2)(C) may, at the discretion of the Secretary, be satisfied—
+
+&emsp;(A) through representation by a foreign government, if an inspection is conducted by a foreign government using standards and practices as determined appropriate by the Secretary;
+
+&emsp;(B) through representation by a foreign government or an agency of a foreign government recognized under section 384e of this title; or
+
+&emsp;(C) other appropriate documentation or evidence as described by the Secretary.
+
+(4)(A) Not later than 18 months after July 9, 2012, the Secretary shall adopt final regulations implementing this subsection. Such requirements shall be appropriate for the type of import, such as whether the drug is for import into the United States for use in preclinical research or in a clinical investigation under an investigational new drug exemption under 355(i) <sup>5</sup> of this title.
+
+(B) In promulgating the regulations under subparagraph (A), the Secretary—
+
+&emsp;(i) may, as appropriate, take into account differences among importers and types of imports, and, based on the level of risk posed by the imported drug, provide for expedited clearance for those importers that volunteer to participate in partnership programs for highly compliant companies and pass a review of internal controls, including sourcing of foreign manufacturing inputs, and plant inspections; and
+
+&emsp;(ii) shall—
+
+&emsp;&emsp;(I) issue a notice of proposed rulemaking that includes the proposed regulation;
+
+&emsp;&emsp;(II) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+&emsp;&emsp;(III) publish the final regulation not less than 30 days before the effective date of the regulation.
+
+(C) Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing this subsection only as described in subparagraph (B).
+
+#### (s) Registration of commercial importers
+
+#### (1) Registration
+
+&emsp;The Secretary shall require a commercial importer of drugs—
+
+&emsp;&emsp;(A) to be registered with the Secretary in a form and manner specified by the Secretary; and
+
+&emsp;&emsp;(B) subject to paragraph (4), to submit, at the time of registration, a unique identifier for the principal place of business for which the importer is required to register under this subsection.
+
+#### (2) Regulations
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, shall promulgate regulations to establish good importer practices that specify the measures an importer shall take to ensure imported drugs are in compliance with the requirements of this chapter and the Public Health Service Act \[42 U.S.C. 201 et seq.\].
+
+#### (B) Procedure
+
+&emsp;&emsp;In promulgating a regulation under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) issue a notice of proposed rulemaking that includes the proposed regulation;
+
+&emsp;&emsp;&emsp;(ii) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+&emsp;&emsp;&emsp;(iii) publish the final regulation not less than 30 days before the regulation's effective date.
+
+#### (C) Restrictions
+
+&emsp;&emsp;Notwithstanding any other provision of Federal law, in implementing this subsection, the Secretary shall only promulgate regulations as described in subparagraph (B).
+
+#### (3) Discontinuance of registration
+
+&emsp;The Secretary shall discontinue the registration of any commercial importer of drugs that fails to comply with the regulations promulgated under this subsection.
+
+#### (4) Unique facility identifier
+
+&emsp;The Secretary shall specify the unique facility identifier system that shall be used by registrants under paragraph (1). The requirement to include a unique facility identifier in a registration under paragraph (1) shall not apply until the date that the identifier system is specified by the Secretary under the preceding sentence.
+
+#### (5) Exemptions
+
+&emsp;The Secretary, by notice in the Federal Register, may establish exemptions from the requirements of this subsection.
+
+(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Pub. L. 87–781, title III, §306, Oct. 10, 1962, 76 Stat. 796; Pub. L. 90–399, §106, July 13, 1968, 82 Stat. 353; Pub. L. 91–513, title II, §701(h), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 94–295, §§3(f), 4(b)(3), May 28, 1976, 90 Stat. 578, 580; Pub. L. 100–293, §3, Apr. 22, 1988, 102 Stat. 96; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §5, Aug. 26, 1992, 106 Stat. 943; Pub. L. 103–80, §3(cc), (dd)(1), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 104–134, title II, §2102(a)–(c), Apr. 26, 1996, 110 Stat. 1321–313, 1321–314; Pub. L. 104–180, title VI, §603(a), (b), Aug. 6, 1996, 110 Stat. 1594, 1595; Pub. L. 105–115, title I, §125(a)(2)(D), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 106–387, §1(a) \[title VII, §§745(c)(1), 746(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, 1549A–40; Pub. L. 107–188, title III, §§302(a)–(d), 303(c), 304(e), 305(c), 307(a), 308(a), 321(b)(1), 322(a), June 12, 2002, 116 Stat. 662, 663, 665, 667, 668, 670, 672, 676; Pub. L. 109–462, §5(a), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 110–85, title IX, §912(b)(2), Sept. 27, 2007, 121 Stat. 952; Pub. L. 111–31, div. A, title I, §103(l), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §§102(b)(3), 107(b), title II, §204(j)(2), title III, §§301(c), 303(a)–(c), 304(a), Jan. 4, 2011, 124 Stat. 3889, 3910, 3937, 3955–3957; Pub. L. 112–144, title VII, §§708(a), (b), 713, 714(b), July 9, 2012, 126 Stat. 1068, 1072, 1073.)
 
 #### References in Text
 
@@ -256,9 +332,23 @@ The Poultry Products Inspection Act, referred to in subsec. (m)(3)(B), is Pub. L
 
 The Egg Products Inspection Act, referred to in subsec. (m)(3)(B), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
+The Public Health Service Act, referred to in subsec. (s)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–353, §§204(j)(2), 303(a), inserted “or (4) the recordkeeping requirements under section 2223 of this title (other than the requirements under subsection (f) of such section) have not been complied with regarding such article,” in the third sentence before “then such article shall be refused admission” and inserted after the third sentence “With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission.”
+<b>2012</b>—Subsec. (a). Pub. L. 112–144, §708(b), inserted “The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee.” after “described under subsection (b)..”
+
+Pub. L. 112–144, §708(a), inserted “, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 1498(a)(1) of title 19 and was not brought into compliance as described under subsection (b).” after “pursuant to such regulations”.
+
+Subsec. (o). Pub. L. 112–144, §713(1), struck out “drug or” after “If an article that is a”.
+
+Subsec. (r). Pub. L. 112–144, §713(2), added subsec. (r).
+
+Subsec. (s). Pub. L. 112–144, §714(b), added subsec. (s).
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–353, §301(c), inserted “or the importer (as defined in section 384a of this title) is in violation of such section 384a of this title” after “or in violation of section 355 of this title”.
+
+Pub. L. 111–353, §§204(j)(2), 303(a), inserted “or (4) the recordkeeping requirements under section 2223 of this title (other than the requirements under subsection (f) of such section) have not been complied with regarding such article,” in the third sentence before “then such article shall be refused admission” and inserted after the third sentence “With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission.”
 
 Subsec. (b). Pub. L. 111–353, §303(c), substituted “with respect to an article described in subsection (a) relating to the requirements of sections 379aa or 379aa–1 of this title,” for “with respect to an article included within the provision of the fourth sentence of subsection (a)” in second sentence.
 
@@ -272,21 +362,21 @@ Subsec. (e)(4)(C). Pub. L. 111–353, §107(b)(2), added subpar. (C).
 
 Subsec. (e)(4)(D). Pub. L. 111–353, §107(b)(3), added subpar. (D).
 
-Subsec. (<i>l</i>). Pub. L. 111–353, §102(b)(3), inserted “(or for which a registration has been suspended under such section)” after “section 350d of this title”.
+Subsec. (l). Pub. L. 111–353, §102(b)(3), inserted “(or for which a registration has been suspended under such section)” after “section 350d of this title”.
 
 Subsec. (m)(1). Pub. L. 111–353, §304(a), inserted “any country to which the article has been refused entry;” after “the country from which the article is shipped;”.
 
 Subsec. (q). Pub. L. 111–353, §303(b), added subsec. (q).
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–31, §103(<i>l</i>)(1)(C), which directed substitution of “drugs, devices, or tobacco products” for “drugs or devices” wherever appearing, was executed by making the substitution for “drugs and devices” in two places in second sentence, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (a). Pub. L. 111–31, §103(l)(1)(C), which directed substitution of “drugs, devices, or tobacco products” for “drugs or devices” wherever appearing, was executed by making the substitution for “drugs and devices” in two places in second sentence, to reflect the probable intent of Congress.
 
-Pub. L. 111–31, §103(<i>l</i>)(1)(A), (B), inserted “tobacco products,” after “devices,” in first sentence and “or section 387e(h)” after “section 360” in second sentence.
+Pub. L. 111–31, §103(l)(1)(A), (B), inserted “tobacco products,” after “devices,” in first sentence and “or section 387e(h)” after “section 360” in second sentence.
 
-Subsec. (e)(1). Pub. L. 111–31, §103(<i>l</i>)(2), in introductory provisions, inserted “tobacco product” after “drug, device,” and “, and a tobacco product intended for export shall not be deemed to be in violation of section 387f(e), 387g, 387k, or 387t(a) of this title,” after “chapter”.
+Subsec. (e)(1). Pub. L. 111–31, §103(l)(2), in introductory provisions, inserted “tobacco product” after “drug, device,” and “, and a tobacco product intended for export shall not be deemed to be in violation of section 387f(e), 387g, 387k, or 387t(a) of this title,” after “chapter”.
 
-Subsec. (p). Pub. L. 111–31, §103(<i>l</i>)(3), added subsec. (p).
+Subsec. (p). Pub. L. 111–31, §103(l)(3), added subsec. (p).
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–85 substituted “is adulterated, misbranded, or in violation of section 355 of this title, or prohibited from introduction or delivery for introduction into interstate commerce under section 331(<i>ll</i>) of this title,” for “is adulterated, misbranded, or in violation of section 355 of this title,”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–85 substituted “is adulterated, misbranded, or in violation of section 355 of this title, or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title,” for “is adulterated, misbranded, or in violation of section 355 of this title,”.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–462, §5(a)(1), inserted after third sentence “If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section.”
 
@@ -308,13 +398,13 @@ Subsec. (j). Pub. L. 107–188, §303(c), added subsec. (j).
 
 Subsec. (k). Pub. L. 107–188, §304(e), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 107–188, §305(c), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 107–188, §305(c), added subsec. (l).
 
 Subsec. (m). Pub. L. 107–188, §307(a), added subsec. (m).
 
 Subsec. (n). Pub. L. 107–188, §308(a), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 107–188, §321(b)(1), added subsec. (<i>o</i>).
+Subsec. (o). Pub. L. 107–188, §321(b)(1), added subsec. (o).
 
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–387, §1(a) \[title VII, §745(c)(1)\], inserted “and section 384 of this title” after “paragraph (2)”.
 
@@ -340,7 +430,7 @@ Pub. L. 104–134, §2102(c), added subsec. (f).
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture” after “Secretary of” in two places in first sentence.
 
-Subsec. (b). Pub. L. 103–80, §3(cc), substituted “Secretary of Health and Human Services” for “Administrator” after “If it appears to the”, “Secretary” for“Administrator” after “provisions of this subsection, the”, “Secretary's” for “Administrator's” after “as may be specified in the”, “Department of Health and Human Services” for “Federal Security Agency”, and “Secretary” for “Administrator” after “designated by the”.
+Subsec. (b). Pub. L. 103–80, §3(cc), substituted “Secretary of Health and Human Services” for “Administrator” after “If it appears to the”, “Secretary” for “Administrator” after “provisions of this subsection, the”, “Secretary's” for “Administrator's” after “as may be specified in the”, “Department of Health and Human Services” for “Federal Security Agency”, and “Secretary” for “Administrator” after “designated by the”.
 
 <b>1992</b>—Subsecs. (a), (b). Pub. L. 102–300, which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, was executed in second sentence of subsec. (a), but could not be executed in first sentence of subsec. (a) or in subsec. (b) because such words did not appear. See 1993 Amendment note above and Transfer of Functions note below.
 
@@ -363,6 +453,10 @@ Subsec. (d). Pub. L. 94–295, §3(f)(1), designated existing provisions as par.
 Subsec. (b). Act Oct. 18, 1949, §2, provided for express statutory authority for the long-standing administrative practice of releasing imported articles that do not comply with the requirements of the law so that they may be relabeled or given appropriate treatment to bring them into compliance.
 
 Subsec. (c). Act Oct. 18, 1949, §3, charged all costs, including salaries and travel and subsistence expenses of officers and employees, against importers.
+
+#### Effective Date of 2012 Amendment; Applicability
+
+Pub. L. 112–144, title VII, §708(c), July 9, 2012, 126 Stat. 1069, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply beginning on the effective date of the regulations promulgated pursuant to the amendment made by subsection (b) \[amending this section\].”
 
 #### Effective Date of 2011 Amendment
 
@@ -394,13 +488,61 @@ Amendment of subsec. (d) by Pub. L. 90–399 effective on first day of thirteent
 
 #### Regulations
 
+Pub. L. 112–144, title VII, §708(d), July 9, 2012, 126 Stat. 1069, provided that:
+
+“(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall adopt final regulations implementing the amendments made this section \[amending this section\].
+
+“(2)
+
+Procedure.—In promulgating a regulation implementing the amendments made by this section, the Secretary of Health and Human Services shall—
+
+&emsp;“(A) issue a notice of proposed rulemaking that includes a copy of the proposed regulation;
+
+&emsp;“(B) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+&emsp;“(C) publish the final regulation not less than 30 days before the effective date of the regulation.
+
+“(3)
+
+Restrictions.—Notwithstanding any other provision of law, the Secretary of Health and Human Services shall promulgate regulations implementing the amendments made by this section only as described in paragraph (2).”
+
+Pub. L. 112–144, title VII, §714(d), July 9, 2012, 126 Stat. 1074, provided that:
+
+“(1)
+
+In general.—Not later than 36 months after the date of the enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, shall promulgate the regulations required to carry out section 801(s) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 381(s)\], as added by subsection (b).
+
+“(2)
+
+Procedures for promulgating regulations.—
+
+&emsp;“(A)
+
+In general.—In promulgating a regulation under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;“(i) issue a notice of proposed rulemaking that includes the proposed regulation;
+
+&emsp;&emsp;“(ii) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+&emsp;&emsp;“(iii) publish the final regulation not less than 30 days before the regulation's effective date.
+
+&emsp;“(B)
+
+Restrictions.—Notwithstanding any other provision of Federal law, in implementing section 801(s) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 381(s)\], as added by subsection (b), the Secretary shall promulgate regulations only as described in subparagraph (A).
+
+“(3)
+
+Effective date.—In establishing the effective date of the regulations under paragraph (1), the Secretary of Health and Human Services shall, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, as determined appropriate by the Secretary of Health and Human Services, provide a reasonable period of time for an importer of a drug to comply with good importer practices, taking into account differences among importers and types of imports, including based on the level of risk posed by the imported product.”
+
 Pub. L. 111–353, title III, §304(b), Jan. 4, 2011, 124 Stat. 3958, provided that: “Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart I of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\].”
 
 Pub. L. 107–188, title III, §307(c), June 12, 2002, 116 Stat. 672, provided that:
 
 “(1)
 
-In general.—Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of providing notice in accordance with section 801(m) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 381(m)\] (as added by subsection (a) of this section). Such requirement of notification takes effect—
+In general.—Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], theSecretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of providing notice in accordance with section 801(m) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 381(m)\] (as added by subsection (a) of this section). Such requirement of notification takes effect—
 
 &emsp;“(A) upon the effective date of such final regulations; or
 
@@ -412,7 +554,7 @@ Default; minimum period of advance notice.—If under paragraph (1) the requirem
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizure or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment,and all administrative proceedings pending before the Bureau of Narcotic and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizure or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotic and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Construction of 2011 Amendment
 
@@ -458,11 +600,13 @@ Pub. L. 106–387, §1(a) \[title VII, §746(b)\], Oct. 28, 2000, 114 Stat. 1549
 
 &emsp;“(3) FDA should not send a warning notice regarding the importation of a drug without providing to the individual involved a statement of the underlying reasons for the notice.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “section”.</i>
 
 <i><sup>4</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

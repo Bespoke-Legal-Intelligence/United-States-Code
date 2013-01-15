@@ -66,7 +66,7 @@
 
 #### (3) Farmhouses and certain other structures taken into account
 
-&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closely held business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
+&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closelyheld business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
 
 #### (4) Value
 
@@ -230,7 +230,7 @@ Any election under subsection (a) shall be made not later than the time prescrib
 
 #### (e) Proration of deficiency to installments
 
-If an election is made under subsection (a) to pay any part of the tax imposed by section 2001 in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a) to pay any part of the tax imposed by section 2001in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (f) Time for payment of interest
 
@@ -384,13 +384,9 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 #### (5) Transfers within 3 years of death
 
-&emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred</b><b>within 3 years of decedent's death, see section 2035(c)(2).</b>
+&emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(c)(2).</b>
 
 (Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -398,13 +394,13 @@ A prior section 6166 was renumbered section 6166A of this title and later repeal
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §571(a), substituted “45” for “15”.
 
-Subsec. (b)(8)(B). Pub. L. 107–16, §§573(a), 901, temporarily reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(8)(B). Pub. L. 107–16, §573(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).”
 
-Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §571(a), substituted “45” for “15”.
 
-Subsec. (b)(10). Pub. L. 107–16, §§572(a), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (b)(10). Pub. L. 107–16, §572(a), added par. (10).
 
 <b>2000</b>—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
 
@@ -454,15 +450,13 @@ Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading “Failure 
 
 Subsec. (b)(7). Pub. L. 95–600, §512(b), added par. (7).
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title V, §571(b), June 7, 2001, 115 Stat. 92, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
 Pub. L. 107–16, title V, §572(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
 
 Pub. L. 107–16, title V, §573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
-
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -480,7 +474,7 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required to file returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
 
-Section 1021(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, §1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -510,7 +504,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 422(f) of Pub. L. 97–34 provided that:
+Pub. L. 97–34, title IV, §422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
 “(1)
 
@@ -522,11 +516,11 @@ Acceleration by reason of subsequent death.—The amendment made by subsection (
 
 #### Effective Date of 1978 Amendment
 
-Section 512(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §512(c), Nov. 6, 1978, 92 Stat. 2883, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 #### Effective Date
 
-Section 2004(g) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, §2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: “The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 

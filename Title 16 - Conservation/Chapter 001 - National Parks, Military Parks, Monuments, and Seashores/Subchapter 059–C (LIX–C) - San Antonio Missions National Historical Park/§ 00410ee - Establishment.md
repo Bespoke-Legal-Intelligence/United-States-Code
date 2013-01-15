@@ -26,7 +26,7 @@ For the purposes of this section, the Secretary is authorized—
 
 &emsp;&emsp;(H) such lands and interests therein which the Secretary determines are necessary or desirable to provide for public access to, and interpretation and protection of, the foregoing; and
 
-&emsp;(2) to enter cooperative agreements with the owners of any historic properties, includingproperties referred to in paragraph (1), in furtherance of the purposes of this section.
+&emsp;(2) to enter cooperative agreements with the owners of any historic properties, including properties referred to in paragraph (1), in furtherance of the purposes of this section.
 
 > Each agreement under paragraph (2) shall provide among other things that the owner will hold and preserve the historic property in perpetuity and will not undertake or permit the alteration or removal of historic features or the erection of markers, structures, or buildings without the prior concurrence of the Secretary, and that the public shall have reasonable access to those portions of the property to which access is necessary in the judgment of the Secretary for the proper appreciation and interpretation of its historical and architectural value. Pursuant to such cooperative agreements and notwithstanding any other provision of law to the contrary the Secretary may, directly or by contract, construct, reconstruct, rehabilitate, or develop such buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property not in Federal ownership and may maintain and operate programs in connection therewith as he deems appropriate. Any lands or interest therein owned by the Catholic Archdiocese of San Antonio, the State of Texas, or any political subdivision of such State, including the San Antonio River Authority, may be acquired by donation only: <i>Provided</i>, That the Secretary shall submit all proposed cooperative agreements to the Department of Justice for a determination that the proposed agreements do not violate the constitutional provisions regarding the separation of church and state.
 
@@ -36,7 +36,7 @@ For the purposes of this section, the Secretary is authorized—
 
 (2) A right of use and occupancy retained or enjoyed pursuant to this subsection may be terminated with respect to the entire property by the Secretary upon his determination that the property or any portion thereof had ceased to be used for noncommercial residential purposes and upon tender to the holder of a right an amount equal to the fair market value, as of the date of tender, of that portion of the right which remains unexpired on the date of termination.
 
-(3) The term “improved property”, as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+(3) The term “improved property”, as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in thesame ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 #### (d) Protection and preservation of historical and architectural values; administration
 
@@ -62,7 +62,7 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 (2) Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred by the Commission and may reimburse members for reasonable expenses incurred in carrying out their responsibilities under this section on vouchers signed by the Chairman.
 
-(3) All appointments to the Commission shall be made by the Secretary within six months after November 10, 1978, and the Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with theAdvisory Commission in matters relating to the park and with respect to carrying out the provisions of this section.
+(3) All appointments to the Commission shall be made by the Secretary within six months after November 10, 1978, and the Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Advisory Commission in matters relating to the park and with respect to carrying out the provisions of this section.
 
 (4) Unless extended by Act of Congress, this Commission shall terminate ten years after the date of its first meeting with the Secretary or his designee.
 

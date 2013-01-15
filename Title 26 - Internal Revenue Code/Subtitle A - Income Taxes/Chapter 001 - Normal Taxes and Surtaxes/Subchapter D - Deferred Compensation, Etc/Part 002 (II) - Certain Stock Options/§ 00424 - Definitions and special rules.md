@@ -12,7 +12,7 @@ For purposes of this part, the term “issuing or assuming a stock option in a t
 
 #### (b) Acquisition of new stock
 
-For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect tostock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
+For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect to stock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
 
 #### (c) Disposition
 
@@ -108,7 +108,7 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 &emsp;&emsp;<b>For provisions requiring the reporting of certain acts with respect to a qualified stock option, an incentive stock option, options granted under employer stock purchase plans, or a restricted stock option, see section 6039.</b>
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(<i>l</i>)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
 
 #### Prior Provisions
 
@@ -128,17 +128,17 @@ Subsec. (d). Pub. L. 101–508, §11801(c)(9)(F)(iii), substituted “422(b)(6) 
 
 Subsec. (g). Pub. L. 101–508, §11801(c)(9)(F)(iv), substituted “422(a)(2) and 423(a)(2)” for “422(a)(2), 422A(a)(2), 423(a)(2), and 424(a)(2)” and “424(a)” for “425(a)”.
 
-Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 options and to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
+Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 optionsand to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
 
 Subsec. (h)(3). Pub. L. 101–508, §11801(c)(9)(F)(v)(III), struck out at end “If a restricted stock option is exercisable after the expiration of 10 years from the date such option is granted, subparagraph (B) shall not apply unless the terms of the option are also changed to make it not exercisable after the expiration of such period.”
 
 Subsec. (h)(3)(B). Pub. L. 101–508, §11801(c)(9)(F)(v)(II), substituted “section 423(b)(9)” for “sections 422(b)(6), 423(b)(9), and 424(b)(2)”.
 
-<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239 made technical correction to Pub. L. 100–647, §1018(<i>l</i>)(2), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239 made technical correction to Pub. L. 100–647, §1018(l)(2), see 1988 Amendment note below.
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1018(<i>l</i>)(2), as amended by Pub. L. 101–239, substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1018(l)(2), as amended by Pub. L. 101–239, substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-Subsec. (c)(4). Pub. L. 100–647, §1018(<i>l</i>)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 100–647, §1018(l)(1), added par. (4).
 
 <b>1984</b>—Subsec. (h)(3)(B). Pub. L. 98–369 struck out reference to section 422A(b)(5).
 
@@ -168,17 +168,17 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Section 555(c)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984.”
+Pub. L. 98–369, div. A, title V, §555(c)(3), July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984.”
 
 #### Effective Date of 1983 Amendment
 
-Section 102(j)(6) of Pub. L. 97–448 provided that the amendment made by that section is effective only with respect to transfers after March 15, 1982.
+Pub. L. 97–448, title I, §102(j)(6), Jan. 12, 1983, 96 Stat. 2373, provided that the amendment made by that section is effective only with respect to transfers after March 15, 1982.
 
 Amendment by section 102(j)(5) of title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercisedon or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
 
 #### Effective Date
 

@@ -66,7 +66,7 @@ For purposes of this section:
 
 #### (B) Application of other Act
 
-&emsp;&emsp;Any violation of this subsection by a grandfathered unitary savings and loan holding company that controls an intermediate holding company may also be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] for purposes of subparagraph (A).
+&emsp;&emsp;Any violation of this subsection by a grandfathered unitary savings and loan holding company that controls an intermediateholding company may also be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] for purposes of subparagraph (A).
 
 #### (C) No effect on other authority
 

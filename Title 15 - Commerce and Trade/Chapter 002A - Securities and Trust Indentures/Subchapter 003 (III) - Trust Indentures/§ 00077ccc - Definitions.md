@@ -4,7 +4,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(1) Any term defined in section 2 of the Securities Act of 1933 \[15 U.S.C. 77b\], and not otherwise defined in this section shall have the meaning assigned to such term in such section 2 \[15 U.S.C. 77b\].
 
-&emsp;(2) The terms “sale”, “sell”, “offer to sell”, “offer for sale”, and “offer” shall include all transactions included in such terms as provided in paragraph (3) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that an offer or sale of a certificate of interest or participation shall be deemed an offer or sale of the security or securities in which such certificate evidences an interest or participation if and only if such certificate gives the holder thereof the right to convert the same into such security or securities.
+&emsp;(2) The terms “sale”, “sell”, “offer to sell”, “offer for sale”, and “offer” shall include all transactions included in such terms as provided in paragraph (3) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that an offer or sale of a certificate of interestor participation shall be deemed an offer or sale of the security or securities in which such certificate evidences an interest or participation if and only if such certificate gives the holder thereof the right to convert the same into such security or securities.
 
 &emsp;(3) The term “prospectus” shall have the meaning assigned to such term in paragraph (10) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that in the case of securities which are not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], such term shall not include any communication (A) if it is proved that prior to or at the same time with such communication a written statement if any required by section 77fff of this title was sent or given to the persons to whom the communication was made, or (B) if such communication states from whom such statement may be obtained (if such statement is required by rules or regulations under paragraphs (1) or (2) of subsection (b) of section 77fff of this title) and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
 
@@ -18,7 +18,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(8) The term “application” or “application for qualification” means the application provided for in section 77eee of this title or section 77ggg of this title, and includes any amendment thereto and any report, document, or memorandum accompanying such application or incorporated therein by reference.
 
-&emsp;(9) The term “indenture to be qualified” means (A) the indenture under which there has been or is to be issued a security in respect of which a particular registration statement hasbeen filed, or (B) the indenture in respect of which a particular application has been filed.
+&emsp;(9) The term “indenture to be qualified” means (A) the indenture under which there has been or is to be issued a security in respect of which a particular registration statement has been filed, or (B) the indenture in respect of which a particular application has been filed.
 
 &emsp;(10) The term “indenture trustee” means each trustee under the indenture to be qualified, and each successor trustee.
 
@@ -38,7 +38,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(18) The term “Bankruptcy Act” means the Bankruptcy Act or title 11.
 
-(May 27, 1933, ch. 38, title III, §303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, §301, 68 Stat. 686; Pub. L. 95–598, title III, §307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§501, 502, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title IV, §402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, §301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §986(b)(1), July 21, 2010, 124 Stat. 1935.)
+(May 27, 1933, ch. 38, title III, §303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, §301, 68 Stat. 686; Pub. L. 95–598, title III, §307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§501, 502, Dec. 4, 1987, 101Stat. 1260; Pub. L. 101–550, title IV, §402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, §301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §986(b)(1), July 21, 2010, 124 Stat. 1935.)
 
 #### References in Text
 

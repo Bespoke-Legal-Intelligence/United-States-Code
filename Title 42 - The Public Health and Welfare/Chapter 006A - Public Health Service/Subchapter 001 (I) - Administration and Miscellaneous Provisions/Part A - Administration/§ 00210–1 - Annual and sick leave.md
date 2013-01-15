@@ -10,7 +10,7 @@ In accordance with regulations of the President, commissioned officers of the Re
 
 #### (d) Definitions
 
-For purposes of this section the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
+For purposes of this section the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term“accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
 (July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586.)
 
@@ -48,7 +48,7 @@ Section 3(b), (c) of act Aug. 9, 1950, provided that any officer credited with m
 
 #### Availability of Funds
 
-Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prioraccumulated and accrued leave for any officer under section 3 of this Act.
+Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
 
 #### Leave Regulations
 

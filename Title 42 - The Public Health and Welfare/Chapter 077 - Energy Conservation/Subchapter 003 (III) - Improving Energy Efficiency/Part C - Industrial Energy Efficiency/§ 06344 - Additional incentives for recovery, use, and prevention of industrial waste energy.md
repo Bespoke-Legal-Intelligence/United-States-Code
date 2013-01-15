@@ -16,7 +16,7 @@
 
 #### (3) Nonadoption of standard
 
-&emsp;Nothing in this part prohibits any State regulatory authority or nonregulated electricutility from making any determination that it is not appropriate to adopt any standard described in paragraph (1), pursuant to authority under otherwise applicable State law.
+&emsp;Nothing in this part prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any standard described in paragraph (1), pursuant to authority under otherwise applicable State law.
 
 #### (b) Standard for sales of excess power
 
@@ -36,7 +36,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (3) Transport over private transmission lines
 
-&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
+&emsp;The State and the electric utility shall permit, and shall waive or modify such laws aswould otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
 
 &emsp;&emsp;(A) there shall be no grant of any power of eminent domain to take or cross private property for the wires; and
 
@@ -194,7 +194,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (D) New petition
 
-&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
+&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is 2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
 
 (Pub. L. 94–163, title III, §374, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1628.)
 

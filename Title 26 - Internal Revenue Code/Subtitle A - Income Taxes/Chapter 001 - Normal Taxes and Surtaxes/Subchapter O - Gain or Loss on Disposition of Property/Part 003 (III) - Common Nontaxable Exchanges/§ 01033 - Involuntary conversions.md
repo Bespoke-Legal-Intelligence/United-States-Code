@@ -38,7 +38,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (D) Time for assessment of other deficiencies attributable to election
 
-&emsp;&emsp;If the election provided in subparagraph (A) is made by the taxpayer and such other property or such stock was purchased before the beginning of the last taxable year in which any part of the gain upon such conversion is realized, any deficiency, to the extent resulting from such election, for any taxable year ending before such last taxable year may be assessed (notwithstanding the provisions of section 6212(c) or 6501 or the provisions of any other law or rule of law which would otherwise prevent such assessment) at any time before the expiration of the period within which a deficiency for such last taxable year may be assessed.
+&emsp;&emsp;If the election provided in subparagraph (A) is made by the taxpayer and such other property or such stock was purchased before the beginning of the last taxable year inwhich any part of the gain upon such conversion is realized, any deficiency, to the extent resulting from such election, for any taxable year ending before such last taxable year may be assessed (notwithstanding the provisions of section 6212(c) or 6501 or the provisions of any other law or rule of law which would otherwise prevent such assessment) at any time before the expiration of the period within which a deficiency for such last taxable year may be assessed.
 
 #### (E) Definitions
 
@@ -94,7 +94,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (ii) Allocation of reduction among properties
 
-&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reductionunder this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
+&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reduction under this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
 
 #### (c) Property sold pursuant to reclamation laws
 
@@ -160,7 +160,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (1) Principal residences
 
-&emsp;If the taxpayer's principal residence or any of its contents is located in a disaster area andis compulsorily or involuntarily converted as a result of a federally declared disaster—
+&emsp;If the taxpayer's principal residence or any of its contents is located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster—
 
 #### (A) Treatment of insurance proceeds
 
@@ -228,7 +228,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 For purposes of this subtitle, if property is sold or otherwise transferred to the Federal Government, a State or local government, or an Indian tribal government to implement hazard mitigation under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date), such sale or transfer shall be treated as an involuntary conversion to which this section applies.
 
-#### (<i>l</i>) Cross references
+#### (l) Cross references
 
 &emsp;&emsp;<b>(1) For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.</b>
 
@@ -240,7 +240,7 @@ For purposes of this subtitle, if property is sold or otherwise transferred to t
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k), is Pub.L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
@@ -256,7 +256,7 @@ Subsec. (h)(2). Pub. L. 110–343, §706(a)(2)(D)(ii), substituted “investment
 
 Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) generally. Prior to amendment, par. (3) defined “Presidentially declared disaster” for purposes of subsec. (h).
 
-<b>2005</b>—Subsecs. (k), (<i>l</i>). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+<b>2005</b>—Subsecs. (k), (l). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -358,23 +358,23 @@ Amendment by section 312(d)(1), (7) of Pub. L. 105–34 applicable to sales and 
 
 Amendment by section 913(b) of Pub. L. 105–34 applicable to sales and exchanges after Dec. 31, 1996, see section 913(c) of Pub. L. 105–34, set out as a note under section 451 of this title.
 
-Section 1087(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to involuntary conversions occurring after June 8, 1997.”
+Pub. L. 105–34, title X, §1087(b), Aug. 5, 1997, 111 Stat. 959, provided that: “The amendment made by this section \[amending this section\] shall apply to involuntary conversions occurring after June 8, 1997.”
 
 #### Effective Date of 1996 Amendment
 
-Section 1119(d)(1) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to disasters declared after December 31, 1994, in taxable years ending after such date.”
+Pub. L. 104–188, title I, §1119(d)(1), Aug. 20, 1996, 110 Stat. 1765, provided that: “The amendments made by this section \[amending this section\] shall apply to disasters declared after December 31, 1994, in taxable years ending after such date.”
 
-Section 1610(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to involuntary conversions occurring after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1610(b), Aug. 20, 1996, 110 Stat. 1845, provided that: “The amendment made by this section \[amending this section\] shall apply to involuntary conversions occurring after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1995 Amendment
 
-Section 3(a)(2) of Pub. L. 104–7 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to involuntary conversions occurring on or after February 6, 1995.”
+Pub. L. 104–7, §3(a)(2), Apr. 11, 1995, 109 Stat. 95, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to involuntary conversions occurring on or after February 6, 1995.”
 
-Section 3(b)(2) of Pub. L. 104–7 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales or exchanges after March 14, 1995.”
+Pub. L. 104–7, §3(b)(2), Apr. 11, 1995, 109 Stat. 95, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales or exchanges after March 14, 1995.”
 
 #### Effective Date of 1993 Amendment
 
-Section 13431(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property compulsorily or involuntarily converted as a result of disasters for which the determination referred to in section 1033(h)(2) of the Internal Revenue Code of 1986 (as added by this section) is made on or after September 1, 1991, and to taxable years ending on or after such date.”
+Pub. L. 103–66, title XIII, §13431(b), Aug. 10, 1993, 107 Stat. 567, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property compulsorily or involuntarily converted as a result of disasters for which the determination referred to in section 1033(h)(2) of the Internal Revenue Code of 1986 (as added by this section) is made on or after September 1, 1991, and to taxable years ending on or after such date.”
 
 #### Effective Date of 1990 Amendment
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 Amendment by section 404(c)(4) of Pub. L. 95–600 applicable to sales or exchanges after July 26, 1978, in taxable years ending after such date, see section 404(d)(1) of Pub. L. 95–600, set out as a note under section 121 of this title.
 
-Section 542(b) of Pub. L. 95–600 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1974.”
+Pub. L. 95–600, title V, §542(b), Nov. 6, 1978, 92 Stat. 2888, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1974.”
 
 Amendment by section 703(j)(5) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -400,13 +400,13 @@ Amendment by section 703(j)(5) of Pub. L. 95–600 effective on Oct. 4, 1976, se
 
 Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2127(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
+Pub. L. 94–455, title XXI, §2127(b), Oct. 4, 1976, 90 Stat. 1921, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 
-Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any disposition of converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after December 31, 1974, unless a condemnation proceeding with respect to such property began before the date of the enactment of this Act \[Oct. 4, 1976\].”
+Pub. L. 94–455, title XXI, §2140(b), Oct. 4, 1976, 90 Stat. 1932, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any disposition of converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after December 31, 1974, unless a condemnation proceeding with respect to such property began before the date of the enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1969 Amendment
 
-Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Pub. L. 91–172, title IX, §915(b), Dec. 30, 1969, 83 Stat. 723, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1964 Amendment
 
@@ -418,7 +418,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1956 Amendment
 
-Section 5(b) of act June 29, 1956, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1955, but only in the case of sales and exchanges of livestock after December 31, 1955.”
+Act June 29, 1956, ch. 464, §5(b), 70 Stat. 407, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to taxable years ending after December 31, 1955, but only in the case of sales and exchanges of livestock after December 31, 1955.”
 
 #### Savings Provision
 

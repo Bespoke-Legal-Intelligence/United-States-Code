@@ -2,7 +2,7 @@
 
 #### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decidedon the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or groupthereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -54,7 +54,7 @@ The activities of the Centers shall include—
 
 (4) The Secretary shall subject each such application to merit review. In making a decision whether to approve such application and provide financial support under this subsection, the Secretary shall consider at a minimum (A) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors, (B) the quality of service to be provided, (C) geographical diversity and extent of service area, and (D) the percentage of funding and amount of in-kind commitment from other sources.
 
-(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretaryshall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
+(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Eachsuch evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
 
 (6) The provisions of chapter 18 of title 35 shall (to the extent not inconsistent with this section) apply to the promotion of technology from research by Centers under this section except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director.
 
@@ -138,7 +138,7 @@ The activities of the Centers shall include—
 
 #### (1) Establishment
 
-&emsp;The Director shall establish, within the Centers program under this section and section 278<i>l</i> of this title, a program of competitive awards among participants described in paragraph (2) for the purposes described in paragraph (3).
+&emsp;The Director shall establish, within the Centers program under this section and section 278l of this title, a program of competitive awards among participants described in paragraph (2) for the purposes described in paragraph (3).
 
 #### (2) Participants
 
@@ -190,7 +190,7 @@ The activities of the Centers shall include—
 
 &emsp;&emsp;(A) take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace; and
 
-&emsp;&emsp;(B) give a preference to applications for such projects to the extent the Director deems appropriate, taking into account the broader purposes of this subsection.
+&emsp;&emsp;(B) give a preference to applications for such projects to the extent the Directordeems appropriate, taking into account the broader purposes of this subsection.
 
 #### (7) <sup>3</sup> Duration
 
@@ -274,7 +274,7 @@ Subsec. (f)(3). Pub. L. 111–358, §703(a), substituted “to add capabilities 
 
 Pub. L. 111–358, §404(i), substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
 
-Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows:“Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
 
 &emsp;“(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
 
@@ -346,7 +346,7 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 774.
 
 #### Additional Renewal of Federal Financial Assistance for Centers
 
-Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which provided that Federalfinancial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center's total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center's total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2476.
 

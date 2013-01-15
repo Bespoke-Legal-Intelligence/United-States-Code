@@ -1,6 +1,6 @@
 ### §5728. Travel and transportation expenses; vacation leave
 
-(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States,Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
+(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
 
 (b) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the Government appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the post of duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1982 Amendment
 
-Section 351(c), (d) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(m), Oct. 15, 1982, 96 Stat. 1649, provided that:
+Pub. L. 97–253, title III, §351(c), (d), Sept. 8, 1982, 96 Stat. 800, as amended by Pub. L. 97–346, §3(m), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
 “(c)(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect with respect to expenses incurred after the date of enactment of this Act \[Sept. 8, 1982\] for round-trip travel (commenced after such date) of an employee or transportation of his immediate family from his post of duty to the place of his actual residence at the time of appointment or transfer to the post of duty.
 

@@ -124,13 +124,13 @@ Subsec. (b)(4), (5). Pub. L. 89–713, §1(a)(2), (3), added par. (4), redesigna
 
 #### Effective Date of 1987 Amendment
 
-Section 10713(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 6852 and 7409 of this title and amending this section and sections 6211 to 6213, 6863, 7429, and 7611 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title X, §10713(c), Dec. 22, 1987, 101 Stat. 1330–470, provided that: “The amendments made by this section \[enacting sections 6852 and 7409 of this title and amending this section and sections 6211 to 6213, 6863, 7429, and 7611 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1272(d)(10) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Section 1879(r)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1879(r)(2), Oct. 22, 1986, 100 Stat. 2912, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -146,7 +146,7 @@ Amendment by section 1051(h)(4) of Pub. L. 94–455 applicable with respect to t
 
 Amendment by section 1052(c)(6) of Pub. L. 94–455, applicable with respect to taxable years beginning after Dec. 31, 1979, see section 1052(d) of Pub. L. 94–455, set out as a note under section 170 of this title.
 
-Amendment by section 1053(d)(4) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1977, see section 1053(e) of Pub. L. 94–455, set out as a note under section 1504 of this title.
+Amendment by section 1053(d)(4) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1977, see section 1053(e) of Pub. L. 94–455, set out as a note under section 1504 of this title.
 
 Amendment by section 1204(c)(3) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
@@ -156,11 +156,11 @@ Amendment by Pub. L. 91–614 applicable with respect to decedents dying after D
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–713 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, sections 6103, 6107, and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\].”
+Pub. L. 89–713, §6, Nov. 2, 1966, 80 Stat. 1111, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, sections 6103, 6107, and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Word “and” probably is superfluous.</i>
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

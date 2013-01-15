@@ -60,5 +60,5 @@ Applicability of section 31105 of title 49.—For purposes of section 31105 of t
 
 “(e)
 
-Funding.—From amounts set aside under section 104(a)(1)(B) of title 23, United States Code, the Secretary may use not more than $250,000 for fiscal year 1999 and $375,000 for each of fiscal years 2000 through 2003 to carry out this section.”
+Funding.—From amounts set aside under \[former\] section 104(a)(1)(B) of title 23, United States Code, the Secretary may use not more than $250,000 for fiscal year 1999 and $375,000 for each of fiscal years 2000 through 2003 to carry out this section.”
 

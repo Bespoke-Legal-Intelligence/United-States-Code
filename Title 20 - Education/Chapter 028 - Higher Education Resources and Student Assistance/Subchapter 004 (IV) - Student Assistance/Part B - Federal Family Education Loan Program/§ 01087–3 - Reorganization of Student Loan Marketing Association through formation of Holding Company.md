@@ -36,7 +36,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association from transferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
+&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit the Association fromtransferring remaining property from time to time to the Holding Company or any subsidiary of the Holding Company, subject to the provisions of paragraph (4).
 
 #### (3) Transfer of personnel
 
@@ -84,7 +84,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Summary reports
 
-&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
+&emsp;&emsp;The Secretary of the Treasury may require summary reports of the information described in subparagraph (A) to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and subparagraph (A), require the Association to make reports concerning the activities of any associated person whose business activities are reasonably likely tohave a material impact on the financial or operational condition of the Association.
 
 #### (C) Separate operation of corporations
 
@@ -168,7 +168,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (3) Obligations not transferred to the trust
 
-&emsp;The Association shall make proper provision for all other obligations of the Association nottransferred to the trust, including the repurchase or redemption, or the making of proper provision for the repurchase or redemption, of any preferred stock of the Association outstanding. Any obligations of the Association which cannot be fully satisfied shall become liabilities of the Holding Company as of the date of dissolution.
+&emsp;The Association shall make proper provision for all other obligations of the Association not transferred to the trust, including the repurchase or redemption, or the making of proper provision for the repurchase or redemption, of any preferred stock of the Association outstanding. Any obligations of the Association which cannot be fully satisfied shall become liabilities of the Holding Company as of the date of dissolution.
 
 #### (4) Transfer of remaining assets
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, anydebt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reor</i><i>ganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### References in Text
 

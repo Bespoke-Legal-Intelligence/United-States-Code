@@ -74,13 +74,13 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “tribal organization” has the meaning given it in section 450b(<i>l</i>) of title 25.
+&emsp;&emsp;The term “tribal organization” has the meaning given it in section 450b(l) of title 25.
 
 #### (B) Other organizations
 
 &emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
-(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
+(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
 
 #### References in Text
 
@@ -114,9 +114,9 @@ Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, whic
 
 Pub. L. 102–401, §3(b)(1), substituted “section 450b(e) of title 25” for “section 450b(b) of title 25”.
 
-Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 450b(<i>l</i>) of title 25” for “section 450b(c) of title 25”, could not be executed because the words “section 450b(c) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
+Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 450b(l) of title 25” for “section 450b(c) of title 25”, could not be executed because the words “section 450b(c) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
 
-Pub. L. 102–401, §3(b)(2), substituted “section 450b(<i>l</i>) of title 25” for “section 450b(c) of title 25”.
+Pub. L. 102–401, §3(b)(2), substituted “section 450b(l) of title 25” for “section 450b(c) of title 25”.
 
 #### Effective Date of 1997 Amendment
 

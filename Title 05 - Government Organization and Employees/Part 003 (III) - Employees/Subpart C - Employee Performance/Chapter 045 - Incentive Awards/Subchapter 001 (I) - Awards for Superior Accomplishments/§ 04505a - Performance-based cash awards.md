@@ -24,7 +24,7 @@
 
 Subsec. (c). Pub. L. 102–378, §2(19)(B), inserted “of Personnel Management” after “Office”.
 
-Subsecs. (d), (e). Pub. L. 102–378, §2(19)(C), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
+Subsecs. (d), (e). Pub. L. 102–378, §2(19)(C), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within suchagency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
 
 #### Effective Date of 2004 Amendment
 

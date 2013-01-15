@@ -16,7 +16,7 @@ The Board shall terminate October 1, 2013.
 
 <b>1992</b>—Pub. L. 102–457 substituted “1995” for “1992”.
 
-<b>1990</b>—Pub. L. 101–525 amended section generally, substituting present provision for provisions which had: in subsec. (a) directed that the Board terminate on Nov. 15, 1989; in subsec. (b) provided for alternative termination dates; in subsec. (c) required reports to Congress; in subsecs. (d) and (e) required certification of compliance and verification of information, respectively; and in subsec. (f) mandated dissolution of corporations established by the Board prior to its termination.
+<b>1990</b>—Pub. L. 101–525 amended section generally, substituting present provision for provisions which had: insubsec. (a) directed that the Board terminate on Nov. 15, 1989; in subsec. (b) provided for alternative termination dates; in subsec. (c) required reports to Congress; in subsecs. (d) and (e) required certification of compliance and verification of information, respectively; and in subsec. (f) mandated dissolution of corporations established by the Board prior to its termination.
 
 <b>1988</b>—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under section 806(g) of this title. The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
 
@@ -30,7 +30,7 @@ Pub. L. 111–200, §2(h)(2), July 7, 2010, 124 Stat. 1370, provided that: “Th
 
 Pub. L. 109–143, §1(b)(2), Dec. 22, 2005, 119 Stat. 2659, provided that: “During the period of October 1, 2004, through the date of the enactment of this section \[Dec. 22, 2005\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 
-Section 5401(c) of div. A of Pub. L. 104–208 provided that: “During the period of October 1, 1995, through the date of the enactment of this section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
+Pub. L. 104–208, div. A, title V, §5401(c), Sept. 30, 1996, 110 Stat. 3009–511, provided that: “During the period of October 1, 1995, through the date of the enactment of this section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
 
-Section 2(b) of Pub. L. 101–525 provided that: “During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
+Pub. L. 101–525, §2(b), Nov. 6, 1990, 104 Stat. 2305, provided that: “During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 

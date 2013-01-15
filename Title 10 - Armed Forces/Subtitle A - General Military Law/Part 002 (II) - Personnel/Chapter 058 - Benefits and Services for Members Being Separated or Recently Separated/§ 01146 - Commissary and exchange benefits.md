@@ -2,11 +2,11 @@
 
 (a)
 
-Members Involuntarily Separated From Active Duty.—The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2012, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the same period.
+Members Involuntarily Separated From Active Duty.—The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
 
 (b)
 
-Members Involuntarily Separated From Selected Reserve.—The Secretary of Defense shall prescribe regulations to allow a member of the Selected Reserve of the Ready Reserve who is involuntarily separated from the Selected Reserve as a result of the exercise of the force shaping authority of the Secretary concerned under section 647 of this title or other force shaping authority during the period beginning on October 1, 2007, and ending on December 31, 2012, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Homeland Security shall implement this provision for Coast Guard members involuntarily separated during the same period.
+Members Involuntarily Separated From Selected Reserve.—The Secretary of Defense shall prescribe regulations to allow a member of the Selected Reserve of the Ready Reserve who is involuntarily separated from the Selected Reserve as a result of the exercise of the force shaping authority of the Secretary concerned under section 647 of this title or other force shaping authority during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period when the Coast Guard is not operating as a service in the Navy.
 
 (c)
 
@@ -16,9 +16,15 @@ Members Receiving Sole Survivorship Discharge.—A member of the armed forces wh
 
 &emsp;(2) The date on which the member is first notified of the member's entitlement to benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, §651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, §5, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 111–383, div. A, title X, §1075(b)(16), Jan. 7, 2011, 124 Stat. 4369.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V,§542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, §651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, §5, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 111–383, div. A, title X, §1075(b)(16), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–239, div. A, title VI, §631, title X, §1076(f)(16), Jan. 2, 2013, 126 Stat. 1781, 1952.)
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §631(a)(1), (b)(1), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Transportation”.
+
+Subsec. (b). Pub. L. 112–239, §1076(f)(16), inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
+
+Pub. L. 112–239, §631(a)(2), (b)(2), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Homeland Security”.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §1075(b)(16)(A), struck out “(a)
 
@@ -30,7 +36,7 @@ Subsec. (c). Pub. L. 111–383, §1075(b)(16)(B), (C), redesignated subsec. (b) 
 
 <b>2008</b>—Pub. L. 110–317 substituted “(a)
 
-Benefits for Members Involuntarily Separated.—The Secretaryof Defense” for “The Secretary of Defense” and added subsec. (b) relating to benefits for members receiving sole survivorship discharge.
+Benefits for Members Involuntarily Separated.—The Secretary of Defense” for “The Secretary of Defense” and added subsec. (b) relating to benefits for members receiving sole survivorship discharge.
 
 Pub. L. 110–181 inserted “(a)
 

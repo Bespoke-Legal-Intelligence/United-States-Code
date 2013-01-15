@@ -92,7 +92,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (5) Stipulated judicial order of removal
 
-&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
+&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuantto Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
 
@@ -260,33 +260,33 @@ Subsec. (e). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as par.
 
 #### Effective Date of 1996 Amendments
 
-Section 304(c)(2) of div. C of Pub. L. 104–208 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of section 442(a) of Public Law 104–132.”
+Pub. L. 104–208, div. C, title III, §304(c)(2), Sept. 30, 1996, 110 Stat. 3009–597, provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of section 442(a) of Public Law 104–132.”
 
 Amendment by section 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 306(d) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
+Pub. L. 104–208, div. C, title III, §306(d), Sept. 30, 1996, 110 Stat. 3009–612, provided that the amendment made by section 306(d) is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
 
-Section 374(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall be effective as if included in the enactment of section 224(a) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\].”
+Pub. L. 104–208, div. C, title III, §374(c), Sept. 30, 1996, 110 Stat. 3009–648, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall be effective as if included in the enactment of section 224(a) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\].”
 
 Amendment by section 671(b)(13) of Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 671(c)(5), (6) of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 671(c)(7) of Pub. L. 104–208, set out as a note under section 1189 of this title.
 
-Section 442(d) of Pub. L. 104–132 provided that: “The amendments made by this section \[amending this section and section 1105a of this title\] shall become effective no later than 60 days after the publication by the Attorney General of implementing regulations that shall be published on or before January 1, 1997.”
+Pub. L. 104–132, title IV, §442(d), Apr. 24, 1996, 110 Stat. 1280, provided that: “The amendments made by this section \[amending this section and section 1105a of this title\] shall become effective no later than 60 days after the publication by the Attorney General of implementing regulations that shall be published on or before January 1, 1997.”
 
 #### Effective Date of 1994 Amendments
 
 Amendment by section 224(a) of Pub. L. 103–416 applicable to all aliens whose adjudication of guilt or guilty plea is entered in the record after Oct. 25, 1994, see section 224(c) of Pub. L. 103–416, set out as a note under section 1252 of this title.
 
-Section 130004(d) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and section 1105a of this title\] shall apply to all aliens against whom deportation proceedings are initiated after the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title XIII, §130004(d), Sept. 13, 1994, 108 Stat. 2028, provided that: “The amendments made bythis section \[amending this section and section 1105a of this title\] shall apply to all aliens against whom deportation proceedings are initiated after the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 506(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–649, title V, §506(b), Nov. 29, 1990, 104 Stat. 5050, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date
 
-Section 7347(c) of Pub. L. 100–690 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 1105a of this title\] shall apply in the case of any alien convicted of an aggravated felony on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7347(c), Nov. 18, 1988, 102 Stat. 4472, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 1105a of this title\] shall apply in the case of any alien convicted of an aggravated felony on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -298,7 +298,7 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 
 #### Expanded Special Removal Proceedings
 
-Section 130007 of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(F), (10)(F), title VI, §671(a)(6), Sept. 30, 1996, 110 Stat. 3009–623, 3009–625, 3009–721, provided that:
+Pub. L. 103–322, title XIII, §130007, Sept. 13, 1994, 108 Stat. 2029, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(F), (10)(F), title VI, §671(a)(6), Sept. 30, 1996, 110 Stat. 3009–623, 3009–625, 3009–721, provided that:
 
 “(a)
 

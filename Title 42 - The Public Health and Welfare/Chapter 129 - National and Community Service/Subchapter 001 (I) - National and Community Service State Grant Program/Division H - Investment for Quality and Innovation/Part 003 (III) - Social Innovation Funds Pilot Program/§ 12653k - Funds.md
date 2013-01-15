@@ -54,7 +54,7 @@ In this section:
 
 #### (d) Program
 
-From the amounts appropriated to carry out this section that are not reserved under subsections (<i>l</i>) and (m), the Corporation shall establish a Social Innovation Funds grant program to make grants on a competitive basis to eligible entities for Social Innovation Funds.
+From the amounts appropriated to carry out this section that are not reserved under subsections (l) and (m), the Corporation shall establish a Social Innovation Funds grant program to make grants on a competitive basis to eligible entities for Social Innovation Funds.
 
 #### (e) Periods; amounts
 
@@ -158,7 +158,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;&emsp;(I) will meet the requirements for providing matching funds specified in subsection (k);
 
-&emsp;(6) information about the eligible entity, including its experience managing collaborativeinitiatives, or assessing applicants for grants and evaluating the performance of grant recipients for outcome-focused initiatives, and any other relevant information;
+&emsp;(6) information about the eligible entity, including its experience managing collaborative initiatives, or assessing applicants for grants and evaluating the performance of grant recipients for outcome-focused initiatives, and any other relevant information;
 
 &emsp;(7) a commitment to meet the requirements of subsection (i) and a plan for meeting the requirements, including information on any funding that the eligible entity has secured to provide the matching funds required under that subsection;
 
@@ -232,7 +232,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in suchmanner, and containing such information as the eligible entity may require, including—
+&emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in such manner, and containing such information as the eligible entity may require, including—
 
 &emsp;&emsp;(A) a description of the initiative the community organization carries out and plans to replicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
 
@@ -244,7 +244,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;&emsp;(i) use of evidence produced by prior rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlled trials; or
 
-&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization to conduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
+&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization toconduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
 
 &emsp;&emsp;(E) a description of how the community organization uses data to analyze and improve its initiatives;
 
@@ -264,7 +264,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;The community organization shall provide the matching funds in cash. The community organization shall provide the matching funds from State, local, or private sources, which may include funds from State or local agencies or private sector funding.
 
-#### (<i>l</i>) Direct support
+#### (l) Direct support
 
 #### (1) Program authorized
 
@@ -282,7 +282,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (1) In general
 
-&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for this section for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (<i>l</i>) and the initiatives supported by the grants.
+&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for this section for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
 
 #### (2) Research and evaluation activities
 
@@ -290,11 +290,11 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (<i>l</i>), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
+&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the success of the program in increasing philanthropic investments inphilanthropically underserved communities.
+&emsp;&emsp;&emsp;&emsp;(II) the success of the program in increasing philanthropic investments in philanthropically underserved communities.
 
 #### (ii) Reports
 
@@ -312,7 +312,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (B) Technical assistance
 
-&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to the eligible entities and community organizations that receive grants under subsections (d) and (<i>l</i>).
+&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to the eligible entities and community organizations that receive grants under subsections (d) and (l).
 
 #### (C) Knowledge management
 
@@ -328,9 +328,9 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments’ responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
 
-Prior sections 12653<i>l</i> to 12653n were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
+Prior sections 12653l to 12653n were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 
-Section 12653<i>l</i>, Pub. L. 101–610, title I, §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which related to Advisory Board for the Corps, was renumbered section 163 of Pub. L. 101–610 and transferred to section 12623 of this title.
+Section 12653l, Pub. L. 101–610, title I, §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which related to Advisory Board for the Corps, was renumbered section 163 of Pub. L. 101–610 and transferred to section 12623 of this title.
 
 Section 12653m, Pub. L. 101–610, title I, §195M, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which provided for annual evaluations of Corps programs, was renumbered section 164 of Pub. L. 101–610 and transferred to section 12624 of this title.
 

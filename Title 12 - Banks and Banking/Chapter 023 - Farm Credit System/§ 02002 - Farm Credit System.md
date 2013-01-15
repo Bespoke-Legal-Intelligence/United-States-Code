@@ -28,13 +28,13 @@ Pub. L. 100–233, §805(v), substituted “section 2252(a)(2) of this title” 
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–205, §205(c), substituted “regulation by” for “supervision of”.
 
-Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2)of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (b). Pub. L. 99–205, §205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2) of this title to reflect the renumbering of the corresponding section of the original act.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–592 inserted provisions relating to Virgin Islands of the United States.
 
 #### Effective Date of 1988 Amendments
 
-Section 1001 of Pub. L. 100–399 provided that:
+Pub. L. 100–399, title X, §1001, Aug. 17, 1988, 102 Stat. 1008, provided that:
 
 “(a)
 
@@ -44,7 +44,7 @@ General Rule.—Except as provided in subsection (b), the amendments made by thi
 
 Exceptions.—The amendments made by sections 102(b), 102(f), 102(g), 102(h), 201(q), 302(c), 302(d), 302(e), 401, 402(b), 409(d), 411, 414, and 901 (other than by subsections (a), (b), (c), (e), (f), and (g) thereof) of this Act \[see Tables for classification\] shall take effect immediately after the amendment made by section 401 of the 1987 Act takes effect \[section 401 of Pub. L. 100–233, effective 6 months after Jan. 6, 1988\].”
 
-Section 434 of Pub. L. 100–233 provided in part that the amendment of this section by section 434 of Pub. L. 100–233 is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, §434, Jan. 6, 1988, 101 Stat. 1662, provided in part that the amendment of this section by section 434 of Pub. L. 100–233 is effective 6 months after Jan. 6, 1988.
 
 #### Effective Date of 1985 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Consolidation of District Farm Credit Banks
 
-Section 412 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §404, Aug. 17, 1988, 102 Stat. 999, provided that:
+Pub. L. 100–233, title IV, §412, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, §404, Aug. 17, 1988, 102 Stat. 999, provided that:
 
 “(a)
 

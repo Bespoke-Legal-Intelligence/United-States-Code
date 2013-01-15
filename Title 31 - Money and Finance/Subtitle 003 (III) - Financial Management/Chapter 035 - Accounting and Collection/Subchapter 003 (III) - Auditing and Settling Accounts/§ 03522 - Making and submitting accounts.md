@@ -8,7 +8,7 @@
 
 (2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
 
-(3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received. However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
+(3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received.However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
 
 (4) Notwithstanding paragraphs (1) and (2) of this subsection, an account of a disbursing official of the Department of Justice shall be submitted to the Comptroller General by the 80th day after the account is received.
 
@@ -152,7 +152,7 @@ In subsection (b)(4), the words “Notwithstanding paragraphs (1) and (2) of thi
 
 In subsection (c), the words “whose accounts are in default”, “be required to”, “satisfactory”, “at the General Accounting Office or proper bureau”, and “proper” are omitted as surplus. The words “after the time required by subsection (b) of this section” are substituted for “thereafter” for clarity.
 
-In subsection (d), the word “agency” is substituted for “departments” because of the definition of “agency” in section 102 of the revised title. The word “may” is substituted for “Nothing contained in this section shall, however, be construed to restrain . . . from” to eliminate unnecessary words. The words “about the agency” are substituted for “from the officer or agent, subject to the control of such heads of departments” for clarity.
+In subsection (d), the word “agency” is substituted for “departments” because of the definition of “agency” in section 102 of the revised title. The word “may” is substituted for “Nothing contained in this section shall, however, be construed to restrain . . . from” toeliminate unnecessary words. The words “about the agency” are substituted for “from the officer or agent, subject to the control of such heads of departments” for clarity.
 
 In subsection (e)(1), the words “if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section” are substituted for “Should there by any delinquency in this regard” for clarity.
 

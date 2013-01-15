@@ -70,7 +70,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(ii) programs authorized under section 2015(d)(4) of title 7;
 
-&emsp;&emsp;&emsp;(iii) work programs authorized under section 2015(<i>o</i>) of title 7;
+&emsp;&emsp;&emsp;(iii) work programs authorized under section 2015(o) of title 7;
 
 &emsp;&emsp;&emsp;(iv) programs authorized under the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.); and
 
@@ -134,7 +134,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 #### (e) Established one-stop delivery system
 
-If a one-stop delivery system has been established in a local area prior to August 7, 1998, the local board, the chief elected official, and the Governor involved may agree to certify an entity carrying out activities through the system as a one-stop operator for purposes of subsection\(d) of this section, consistent with the requirements of subsection (b) of this section, of the memorandum of understanding, and of section 2864(c) of this title.
+If a one-stop delivery system has been established in a local area prior to August 7, 1998, the local board, the chief elected official, and the Governor involved may agree to certify an entity carrying out activities through the system as a one-stop operator for purposes of subsection (d) of this section, consistent with the requirements of subsection (b) of this section, of the memorandum of understanding, and of section 2864(c) of this title.
 
 #### (f) Application to certain vocational rehabilitation programs
 
@@ -160,7 +160,7 @@ The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii) and (d)(2)(B)(ii), 
 
 Title II, referred to in subsec. (b)(1)(B)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the Older American Community Service Employment Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
@@ -192,7 +192,7 @@ Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

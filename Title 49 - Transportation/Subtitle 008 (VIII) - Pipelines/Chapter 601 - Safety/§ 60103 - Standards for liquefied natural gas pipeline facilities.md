@@ -122,7 +122,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §6; added Nov. 30, 1979, Pub. L.
 
 In subsections (a), (b), and (d), the words “general safety” are omitted as surplus. The text of 49 App.:1674a(e) is omitted for consistency in the revised title and with other titles of the United States Code.
 
-In subsections (a) and (b), before each clause (1), the words “Not later than 180 days after November 30, 1979”are omitted as executed. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code.
+In subsections (a) and (b), before each clause (1), the words “Not later than 180 days after November 30, 1979” are omitted as executed. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code.
 
 In subsection (a), before clause (1), the words “with respect to standards relating to the location of any new LNG facility” are omitted because of the restatement. In clause (2), the word “involved” is omitted as surplus. In clause (4), the words “meteorological, geological, topographical, seismic, and other” are omitted as surplus. In clause (5), the word “existing” is omitted as surplus.
 

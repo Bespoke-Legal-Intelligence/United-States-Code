@@ -50,7 +50,7 @@ Protection of Existing Authority.—The regulations shall provide that, to the e
 
 (f)
 
-Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contractmade under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
+Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -118,7 +118,7 @@ Defense Contract Options for Varying Quantities.—The Secretary of Defense may 
 
 Multiyear Contract Defined.—For the purposes of this section, a multiyear contract is a contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
-(<i>l</i>)
+(l)
 
 Various Additional Requirements With Respect to Multiyear Defense Contracts.—(1)(A) The head of an agency may not initiate a contract described in subparagraph (B) unless the congressional defense committees are notified of the proposed contract at least 30 days in advance of the award of the proposed contract.
 
@@ -160,7 +160,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
-(6) The head of an agency may not terminate a multiyear procurement contract until 10 daysafter the date on which notice of the proposed termination is provided to the congressional defense committees.
+(6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
 (7) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
@@ -196,7 +196,7 @@ Subsec. (g)(1). Pub. L. 108–375, §§814(a)(2), 1084(b)(2), amended par. (1) i
 
 Subsec. (g)(2). Pub. L. 108–375, §814(a)(3), added par. (2).
 
-<b>2003</b>—Subsec. (<i>l</i>)(9), (10). Pub. L. 108–136 redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “In this subsection, the term ‘congressional defense committees’ means the following:
+<b>2003</b>—Subsec. (l)(9), (10). Pub. L. 108–136 redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “In this subsection, the term ‘congressional defense committees’ means the following:
 
 &emsp;“(A) The Committee on Armed Services of the Senate and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
@@ -208,21 +208,21 @@ Subsec. (i)(4). Pub. L. 107–314 added par. (4).
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(c)\], struck out “or services” after “purchase of property”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
+Subsec. (l)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing thefollowing information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
 
-Subsec. (<i>l</i>)(4)(B). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
+Subsec. (l)(4)(B). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
 
-Subsec. (<i>l</i>)(5) to (10). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(2), (3)\], added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
+Subsec. (l)(5) to (10). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(2), (3)\], added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
 <b>1999</b>—Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Subsec. (<i>l</i>)(4) to (7). Pub. L. 106–65, §809(1), (2), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
+Subsec. (l)(4) to (7). Pub. L. 106–65, §809(1), (2), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (<i>l</i>)(8). Pub. L. 106–65, §809(1), redesignated par. (7) as (8).
+Subsec. (l)(8). Pub. L. 106–65, §809(1), redesignated par. (7) as (8).
 
-Subsec. (<i>l</i>)(8)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (l)(8)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-Subsec. (<i>l</i>)(9). Pub. L. 106–65, §809(3), added par. (9).
+Subsec. (l)(9). Pub. L. 106–65, §809(3), added par. (9).
 
 <b>1997</b>—Pub. L. 105–85, §1073(a)(48)(A), inserted “: acquisition of property” in section catchline.
 
@@ -236,11 +236,11 @@ Subsec. (i)(3). Pub. L. 105–85, §806(a)(1), added par. (3).
 
 Subsec. (k). Pub. L. 105–85, §1073(a)(47), substituted “this section” for “this subsection”.
 
-Subsec. (<i>l</i>). Pub. L. 105–85, §806(b)(1), added subsec. (<i>l</i>).
+Subsec. (l). Pub. L. 105–85, §806(b)(1), added subsec. (l).
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–106, §1502(a)(10), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “
+Subsecs. (k), (l). Pub. L. 104–106, §5601(b), redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
 
@@ -260,9 +260,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Section 806(a)(2) of Pub. L. 105–85 provided that: “Paragraph (3) of section 2306b(i) of title 10, United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title VIII, §806(a)(2), Nov. 18, 1997, 111 Stat. 1834, provided that: “Paragraph (3) of section 2306b(i) of title 10, United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\].”
 
-Section 806(b)(2) of Pub. L. 105–85 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–85, div. A, title VIII, §806(b)(2), Nov. 18, 1997, 111 Stat. 1835, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998.”
 
 #### Effective Date of 1996 Amendment
 

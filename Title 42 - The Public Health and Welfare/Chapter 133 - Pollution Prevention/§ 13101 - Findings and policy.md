@@ -26,5 +26,5 @@ This chapter, referred to in subsec. (a)(5), was in the original “this subtitl
 
 #### Short Title
 
-Section 6601 of Pub. L. 101–508 provided that: “This subtitle \[subtitle F (§§6501, 6601–6610) of title VI of Pub. L. 101–508, enacting this chapter and section 4370c of this title\] may be cited as the ‘Pollution Prevention Act of 1990’.”
+Pub. L. 101–508, title VI, §6601, Nov. 5, 1990, 104 Stat. 1388–321, provided that: “This subtitle \[subtitle F (§§6501, 6601–6610) of title VI of Pub. L. 101–508, enacting this chapter and section 4370c of this title\] may be cited as the ‘Pollution Prevention Act of 1990’.”
 

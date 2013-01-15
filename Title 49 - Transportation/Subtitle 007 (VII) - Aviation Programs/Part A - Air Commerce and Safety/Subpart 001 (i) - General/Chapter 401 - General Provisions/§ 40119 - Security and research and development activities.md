@@ -16,7 +16,7 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 (2) Paragraph (1) of this subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-(3) Nothing in paragraph (1) shall be construed to authorize the designation of information assensitive security information (as defined in section 15.5 of title 49, Code of Federal Regulations)—
+(3) Nothing in paragraph (1) shall be construed to authorize the designation of information as sensitive security information (as defined in section 15.5 of title 49, Code of Federal Regulations)—
 
 &emsp;(A) to conceal a violation of law, inefficiency, or administrative error;
 
@@ -26,11 +26,13 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 &emsp;(D) to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
 
+(4) Section 552a of title 5 shall not apply to disclosures that the Administrator may make from the systems of records of the Administration to any Federal law enforcement, intelligence, protective service, immigration, or national security official in order to assist the official receiving the information in the performance of official duties.
+
 (c)
 
 Transfers of Duties and Powers Prohibited.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this section to another department, agency, or instrumentality of the United States Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115 Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312; Pub. L. 111–83, title V, §561(c)(2), Oct. 28, 2009, 123 Stat. 2182.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1117; Pub. L. 107–71, title I, §101(e), Nov. 19, 2001, 115 Stat. 603; Pub. L. 107–296, title XVI, §1601(a), Nov. 25, 2002, 116 Stat. 2312; Pub. L. 111–83, title V, §561(c)(2), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 112–95, title VIII, §801, Feb. 14, 2012, 126 Stat. 118.)
 
 Historical and Revision Notes
 
@@ -67,6 +69,8 @@ In subsection (b)(1), before clause (A), the words “relating to freedom of inf
 In subsection (b)(2), the word “duly” is omitted as surplus. The words “to have the information” are added for clarity.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(4). Pub. L. 112–95 added par. (4).
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–83 added par. (3).
 

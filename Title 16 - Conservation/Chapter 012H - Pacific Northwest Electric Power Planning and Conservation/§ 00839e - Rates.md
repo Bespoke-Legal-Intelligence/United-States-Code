@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) located within or adjacent to the geographic service boundaries of such public bodies and cooperatives;
 
-&emsp;(B) public body, cooperative, and Federal agency customers were served, during such five-year period, with Federal base system resources not obligated to other entities undercontracts existing as of December 5, 1980, (during the remaining term of such contracts) excluding obligations to direct service industrial customer loads included in subparagraph (A) of this paragraph;
+&emsp;(B) public body, cooperative, and Federal agency customers were served, during such five-year period, with Federal base system resources not obligated to other entities under contracts existing as of December 5, 1980, (during the remaining term of such contracts) excluding obligations to direct service industrial customer loads included in subparagraph (A) of this paragraph;
 
 &emsp;(C) no purchases or sales by the Administrator as provided in section 839c(c) of this title were made during such five-year period;
 
@@ -78,7 +78,7 @@
 
 (1) In order to avoid adverse impacts on retail rates of the Administrator's customers with low system densities, the Administrator shall, to the extent appropriate, apply discounts to the rate or rates for such customers.
 
-(2) In order to avoid adverse impacts of increased rates pursuant to this chapter on any direct service industrial customer using raw minerals indigenous to the region as its primary resource, the Administrator, upon request of such customer showing such impacts and after considering the effect of such request on his other obligations under this chapter, is authorized, if the Administrator determines that such impacts will be significant, to establish a special rate applicable to such customer if all power sold tosuch customer may be interrupted, curtailed, or withdrawn to meet firm loads in the region. Such rate shall be established in accordance with this section and shall include such terms and conditions as the Administrator deems appropriate.
+(2) In order to avoid adverse impacts of increased rates pursuant to this chapter on any direct service industrial customer using raw minerals indigenous to the region as its primary resource, the Administrator, upon request of such customer showing such impacts and after considering the effect of such request on his other obligations under this chapter, is authorized, if the Administrator determines that such impacts will be significant, to establish a special rate applicable to such customer if all power sold to such customer may be interrupted, curtailed, or withdrawn to meet firm loads in the region. Such rate shall be established in accordance with this section and shall include such terms and conditions as the Administrator deems appropriate.
 
 #### (e) Uniform rates; rates for sale of peaking capacity; time-of-day, seasonal, and other rates
 
@@ -94,7 +94,7 @@ Except to the extent that the allocation of costs and benefits is governed by pr
 
 #### (h) Surcharges
 
-Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
+Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in suchmanner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
 
 #### (i) Procedures
 
@@ -128,13 +128,13 @@ All rate schedules adopted, and all power billings rendered, by the Administrato
 
 Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such review shall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) of this section shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
 
-#### (<i>l</i>) Rates for sales outside United States; negotiations
+#### (l) Rates for sales outside United States; negotiations
 
 In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
 
 #### (m) Impact aid payments; formula
 
-(1) Beginning the first fiscal year after the plan and program required by section 839b(d) and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
+(1) Beginning the first fiscal year after the plan and program required by section 839b(d)and (h) of this title are finally adopted, the Administrator may, subject to the provisions of this section, make annual impact aid payments to the appropriate local governments within the region with respect to major transmission facilities of the Administrator, as defined in section 3(c) of the Federal Columbia River Transmission Act \[16 U.S.C. 838a(c)\]—
 
 &emsp;(A) which are located within the jurisdictional boundaries of such governments,
 

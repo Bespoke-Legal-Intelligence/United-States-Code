@@ -55,7 +55,7 @@ Part C—General Administrative Provisions
 - [&sect; 07274k - Transferred](%C2%A7%2007274k%20-%20Transferred.md)
 - [&sect; 07274l - Authority to transfer certain Department of Energy property](%C2%A7%2007274l%20-%20Authority%20to%20transfer%20certain%20Department%20of%20Energy%20property.md)
 - [&sect; 07274m to 7274o - Transferred](%C2%A7%2007274m%20to%207274o%20-%20Transferred.md)
-- [&sect; 07274p - Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile](%C2%A7%2007274p%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md)
+- [&sect; 07274p - Transferred](%C2%A7%2007274p%20-%20Transferred.md)
 - [&sect; 07274q - Transferred](%C2%A7%2007274q%20-%20Transferred.md)
 - [&sect; 07274r - Transferred](%C2%A7%2007274r%20-%20Transferred.md)
 - [&sect; 07274s - Transferred](%C2%A7%2007274s%20-%20Transferred.md)

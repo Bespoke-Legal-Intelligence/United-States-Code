@@ -32,7 +32,7 @@ Amendment by section 1812(c)(4)(B) of Pub. L. 99–514 effective, except as othe
 
 #### Effective Date
 
-Section 15(c) of Pub. L. 85–866 provided that: “The amendments made by this section \[enacting this section and amending analysis preceding section 161 of this title\] shall apply with respect to costs of acquiring a lease incurred, and improvements begun, after July 28, 1958 (other than improvements which, on July 28, 1958, and at all times thereafter, the lessee was under a binding legal obligation to make).”
+Pub. L. 85–866, title I, §15(c), Sept. 2, 1958, 72 Stat. 1613, provided that: “The amendments made by this section \[enacting this section and amending analysis preceding section 161 of this title\] shall apply with respect to costs of acquiring a lease incurred, and improvements begun, after July 28, 1958 (other than improvements which, on July 28, 1958, and at all times thereafter, the lessee was under a binding legal obligation to make).”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

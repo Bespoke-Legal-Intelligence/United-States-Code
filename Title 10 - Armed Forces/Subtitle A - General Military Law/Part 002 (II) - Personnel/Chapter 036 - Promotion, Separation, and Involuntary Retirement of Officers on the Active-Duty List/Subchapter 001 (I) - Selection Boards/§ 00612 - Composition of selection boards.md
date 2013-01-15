@@ -1,6 +1,6 @@
 ### §612. Composition of selection boards
 
-(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officersunder consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
+(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers of the same armed force as the officers under consideration by the board. Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
 
 (2)(A) Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
 
@@ -48,7 +48,7 @@ Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore adm
 
 Pub. L. 97–22, §4(a)(2), inserted “, with the exact number of reserve officers to be determined by the Secretary of the military department concerned in his discretion” after “at least one reserve officer of that armed force” and inserted “who are eligible to serve on the board” after “the next higher grade”.
 
-Subsec. (a)(4). Pub. L. 97–22, §4(a)(3), substituted “Except as provided in paragraphs (2) and (3)” for “Except as provided in paragraph (3)” and “officers who are members of the same armed force and hold a grade higher than the grade of the officers under consideration by the board and who are retired officers, reserveofficers serving on active duty but not on the active-duty list, or members of the Ready Reserve” for “retired officers of the same armed force who hold a retired grade higher than the grade of the officers under consideration by the board” and designated as par. (5) provisions that retired general or flag officers on active duty for the purpose of serving on a selection board not be counted against any limitation on the number of general and flag officers who may be on active duty.
+Subsec. (a)(4). Pub. L. 97–22, §4(a)(3), substituted “Except as provided in paragraphs (2) and (3)” for “Except as provided in paragraph (3)” and “officers who are members of the same armed force and hold a grade higher than the grade of the officers under consideration by the board and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve” for “retired officers of the same armed force who hold a retired grade higher than the grade of the officers under consideration by the board” and designated as par. (5) provisions that retired general or flag officers on active duty for the purpose of serving on a selection board not be counted against any limitation on the number of general and flag officers who may be on active duty.
 
 Subsec. (a)(5). Pub. L. 97–22, §4(a)(3), added par. (5) consisting of provisions, formerly contained in par. (4).
 
@@ -60,7 +60,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §504(b)\], Oct. 30, 2000, 114 Sta
 
 #### Effective Date of 1986 Amendment
 
-Section 406(f) of Pub. L. 99–433 provided that: “The amendments made by section 402 \[amending this section and sections 615 and 618 of this title\] shall take effect with respect to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\].”
+Pub. L. 99–433, title IV, §406(f), Oct. 1, 1986, 100 Stat. 1034, provided that: “The amendments made by section 402 \[amending this section and sections 615 and 618 of this title\] shall take effect with respect to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\].”
 
 #### Effective Date of 1981 Amendment
 

@@ -32,9 +32,9 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1984 Amendment
 
-Section 151(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
+Pub. L. 98–369, div. A, title I, §151(b), July 18, 1984, 98 Stat. 691, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
 
 #### Effective Date
 
-Section 313(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
+Pub. L. 97–248, title III, §313(c), Sept. 3, 1982, 96 Stat. 603, provided that: “The amendments made by this section \[enacting this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
 

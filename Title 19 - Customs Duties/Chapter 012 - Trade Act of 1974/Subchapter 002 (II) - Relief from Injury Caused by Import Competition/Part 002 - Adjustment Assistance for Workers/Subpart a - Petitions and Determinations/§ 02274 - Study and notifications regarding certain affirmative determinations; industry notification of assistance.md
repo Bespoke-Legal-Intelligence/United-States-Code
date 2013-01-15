@@ -86,7 +86,7 @@ For purposes of subsection (f), the term “representatives of the domestic indu
 
 &emsp;(3) any safeguard investigation described in subsection (d)(2) or (d)(3).
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub.L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403.)
 
 #### Reversion to Provisions in Effect on February 13, 2011
 

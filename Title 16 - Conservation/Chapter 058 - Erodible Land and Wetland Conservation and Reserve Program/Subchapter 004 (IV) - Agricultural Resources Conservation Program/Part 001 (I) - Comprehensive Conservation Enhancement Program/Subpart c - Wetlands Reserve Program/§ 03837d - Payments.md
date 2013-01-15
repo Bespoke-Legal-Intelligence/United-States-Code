@@ -10,7 +10,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (b) Payments to others
 
-If an owner who is entitled to a payment under this subpart dies, becomes incompetent, isotherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
+If an owner who is entitled to a payment under this subpart dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
 
 #### (c) Payment limitation
 

@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation's fluid milk processors and milk producers, as well as to the general economy of the United States;
 
-&emsp;(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor's share of those markets and that the chapter does not prohibit or restrict individual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
+&emsp;(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor's share of those markets and that the chapter does not prohibit or restrictindividual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
 
 &emsp;(7) the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
 
@@ -40,7 +40,7 @@ Pub. L. 103–72, §1, Aug. 11, 1993, 107 Stat. 717, provided that: “This Act 
 
 #### Short Title
 
-Section 1999A of Pub. L. 101–624 provided that: “This subtitle \[subtitle H (§§1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
+Pub. L. 101–624, title XIX, §1999A, Nov. 28, 1990, 104 Stat. 3914, provided that: “This subtitle \[subtitle H (§§1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

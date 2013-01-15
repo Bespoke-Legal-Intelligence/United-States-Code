@@ -24,7 +24,7 @@ The Clerk of the House of Representatives shall post on the public Internet site
 
 #### (3) Omission of personally identifiable information
 
-&emsp;Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information notrequired to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
+&emsp;Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information not required to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
 
 #### (4) Assistance in protecting personal information
 
@@ -32,17 +32,25 @@ The Clerk of the House of Representatives shall post on the public Internet site
 
 #### (c) Retention
 
-The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information.
+The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
 
-(Pub. L. 110–81, title III, §304, Sept. 14, 2007, 121 Stat. 752.)
+(Pub. L. 110–81, title III, §304, Sept. 14, 2007, 121 Stat. 752; Pub. L. 112–105, §19(b)(1), Apr. 4, 2012, 126 Stat. 304.)
 
 #### References in Text
 
-Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsecs. (a)(2) and (c), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2012</b>—Subsec. (c). Pub. L. 112–105 substituted “, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.” for period at end.
 
 #### Change of Name
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–105, §19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) \[of Pub. L. 112–105, set out as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees\] first take effect.”
 
 #### Exercise of Rulemaking Authority
 

@@ -30,7 +30,7 @@
 
 (4) The Secretary may prescribe regulations to carry out this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–60, title II, §207(b), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(a), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), Oct. 19, 1984, 98 Stat. 2536, 2537, 2625; Pub. L. 99–145, title VI, §606(a), Nov. 8, 1985, 99 Stat. 638; Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–190, div. A, title VI, §607(a), (b), Dec. 5, 1991, 105 Stat. 1375; Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 112–81, div. A, title VI, §602(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1447, 1448.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–60, title II, §207(b), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(a), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), Oct. 19, 1984, 98 Stat. 2536, 2537, 2625; Pub. L. 99–145, title VI, §606(a), Nov. 8, 1985, 99 Stat. 638; Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–190, div. A, title VI, §607(a), (b), Dec. 5, 1991, 105 Stat. 1375; Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 112–81, div. A, title VI, §602(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1447, 1448; Pub. L. 112–239, div. A, title X, §1076(a)(5), Jan. 2, 2013, 126 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -72,9 +72,11 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, §602(a)(2). See 2011 Amendment note below.
+
 <b>2011</b>—Pub. L. 112–81, §602(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Quarters: accommodations in place of for members on sea duty”.
 
-Subsec. (a). Pub. L. 112–81, §602(a)(2), which directed amendment by inserting “, because the ship is under construction and is not yet habitable,” after “because of repairs,”, was executed by making the insertion after “because of repairs” in concluding provisions, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 112–81, §602(a)(2), as amended by Pub. L. 112–239, §1076(a)(5), inserted “, because the ship is under construction and is not yet habitable,” after “because of repairs” in concluding provisions.
 
 Pub. L. 112–81, §602(a)(1), inserted “or assigned to duty in connection with commissioning or fitting out of a ship” after “sea duty” in concluding provisions.
 
@@ -86,7 +88,7 @@ Subsec. (d)(3). Pub. L. 112–81, §602(b)(3), substituted “a member” for �
 
 Subsec. (e). Pub. L. 112–81, §602(c), added subsec. (e).
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–261 struck out subsec. (b) which authorized reimbursements to members of auniformed service on sea duty who are deprived of quarters on board because of repairs or because of other conditions, and provided that such authority expire on Sept. 30, 1992.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 struck out subsec. (b) which authorized reimbursements to members of a uniformed service on sea duty who are deprived of quarters on board because of repairs or because of other conditions, and provided that such authority expire on Sept. 30, 1992.
 
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(D)(i), substituted “the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.” for “the total of—
 
@@ -120,21 +122,25 @@ Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when condition
 
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(5) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1991 Amendment
 
-Section 607(c) of Pub. L. 102–190 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to members of the uniformed services who perform sea duty on or after October 1, 1991.”
+Pub. L. 102–190, div. A, title VI, §607(c), Dec. 5, 1991, 105 Stat. 1375, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to members of the uniformed services who perform sea duty on or after October 1, 1991.”
 
 #### Effective Date of 1986 Amendment
 
-Section 603(a) of Pub. L. 99–661 provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874, provided that the amendment made by that section is effective Oct. 1, 1986.
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: “The amendments made to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October 1, 1985, by a member of a uniformed service on sea duty.”
+Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: “The amendments made to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October1, 1985, by a member of a uniformed service on sea duty.”
 
 #### Effective Date of 1984 Amendment
 
@@ -142,7 +148,7 @@ Amendment by section 602(d)(3) of Pub. L. 98–525 effective Jan. 1, 1985, with 
 
 #### Effective Date of 1981 Amendment
 
-Section 207(c) of Pub. L. 97–60 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
+Pub. L. 97–60, title II, §207(c), Oct. 14, 1981, 95 Stat. 1008, provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1981.”
 
 #### Effective Date of 1980 Amendment
 
@@ -150,7 +156,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective and Termination Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–357, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991.
+Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991.
 
 Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, provided that authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) is extended through Sept. 30, 1987, at an amount not to exceed $1,657,000.
 

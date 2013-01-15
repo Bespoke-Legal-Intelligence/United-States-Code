@@ -138,5 +138,9 @@ The date of enactment of the Clean Railroads Act of 2008, referred to in subsec.
 
 The Solid Waste Disposal Act, referred to in subsec. (e)(1)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
+#### Prior Provisions
+
+For prior section 10908, see note set out under section 10907 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -46,7 +46,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under this part (other than subparts C, I, and J, section 1400N(<i>l</i>), and this section).
+&emsp;(2) the sum of the credits allowable under this part (other than subparts C, I, and J, section 1400N(l), and this section).
 
 #### (d) Clean renewable energy bond
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Maximum term
 
-&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (l)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (f) Limitation on amount of bonds designated
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (g) Credit included in gross income
 
-Gross income includes the amount of the credit allowed to the taxpayer under this section\(determined without regard to subsection (c)) and the amount so included shall be treated as interest income.
+Gross income includes the amount of the credit allowed to the taxpayer under this section (determined without regard to subsection (c)) and the amount so included shall be treated as interest income.
 
 #### (h) Special rules relating to expenditures
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 No portion of a pooled financing bond may be allocable to any loan unless the borrower has entered into a written loan commitment for such portion prior to the issue date of such issue.
 
-#### (<i>l</i>) Other definitions and special rules
+#### (l) Other definitions and special rules
 
 For purposes of this section—
 
@@ -190,11 +190,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
+&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rulessimilar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
 
 #### (B) No basis adjustment
 
-&emsp;&emsp;In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E(<i>l</i>) shall apply.
+&emsp;&emsp;In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E(l) shall apply.
 
 #### (4) Ratable principal amortization required
 
@@ -224,7 +224,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2009</b>—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
 
-Subsec. (<i>l</i>)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: “If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.”
+Subsec. (l)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: “If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.”
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
 
@@ -234,15 +234,15 @@ Subsec. (m). Pub. L. 110–343 substituted “December 31, 2009” for “Decemb
 
 Subsec. (f)(2). Pub. L. 109–432, §202(a)(2), substituted “$750,000,000” for “$500,000,000”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 109–222 substituted “section 149(f)(6)(A)” for “section 149(f)(4)(A)”.
+Subsec. (l)(2). Pub. L. 109–222 substituted “section 149(f)(6)(A)” for “section 149(f)(4)(A)”.
 
-Subsec. (<i>l</i>)(3)(B). Pub. L. 109–432, §107(b)(2), substituted “1397E(<i>l</i>)” for “1397E(i)”.
+Subsec. (l)(3)(B). Pub. L. 109–432, §107(b)(2), substituted “1397E(l)” for “1397E(i)”.
 
 Subsec. (m). Pub. L. 109–432, §202(a)(3), substituted “2008” for “2007”.
 
-<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(<i>l</i>),” after “subpart C”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(l),” after “subpart C”.
 
-Subsec. (<i>l</i>)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date.”
+Subsec. (l)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date.”
 
 #### Effective Date of 2009 Amendment
 
@@ -288,7 +288,7 @@ Pub. L. 109–58, title XIII, §1303(e), Aug. 8, 2005, 119 Stat. 997, as amended
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 1397E, 6049, and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 1397E, 6049, and 6401 of this title\] shall apply to bonds issued after December 31, 2005.
 
 “(2)
 

@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
 
-&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means the terms, conditions, or privileges of employment, including any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplementalunemployment benefits, vacations, and the opportunity to select work hours or location of employment.
+&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means the terms, conditions, or privileges of employment, including any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
 &emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
@@ -58,7 +58,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
+&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment forthe purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
 &emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -66,7 +66,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) the nature and cost of the action needed under this chapter;
 
-&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of personsemployed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
+&emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
 
 &emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
 

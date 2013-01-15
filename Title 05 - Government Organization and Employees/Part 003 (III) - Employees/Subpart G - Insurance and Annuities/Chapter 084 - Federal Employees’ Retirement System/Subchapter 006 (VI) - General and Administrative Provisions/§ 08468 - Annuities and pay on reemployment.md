@@ -2,7 +2,7 @@
 
 (a) If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
 
-(b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (h) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
+(b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (i) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
 
 (B)(i) If the annuitant is receiving a reduced annuity as provided in section 8419, the increase in annuity payable under subparagraph (A) is reduced by 10 percent and the survivor annuity or combination of survivor annuities payable under section 8442 or 8445 (or both) is increased by 50 percent of the increase in annuity payable under subparagraph (A), unless, at the time of claiming the increase payable under subparagraph (A), the annuitant notifies the Office in writing that the annuitant does not desire the survivor annuity to be increased.
 
@@ -84,9 +84,9 @@
 
 &emsp;(C) for more than a total of 3120 hours of service performed by that annuitant.
 
-(4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(<i>l</i>) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
+(4)(A) The total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies may not exceed 2.5 percent of the total number of full-time employees of that agency.
 
-(B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(<i>l</i>) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
+(B) If the total number of annuitants to whom a waiver by the head of an agency under this subsection or section 8344(l) applies exceeds 1 percent of the total number of full-time employees of that agency, the head of that agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Office of Personnel Management—
 
 &emsp;(i) a report with an explanation that justifies the need for the waivers in excess of that percentage; and
 
@@ -116,17 +116,19 @@
 
 (2) An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, §5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200.)
 
 #### References in Text
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classificationof this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (i)(7), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(1)(A). Pub. L. 112–96 substituted “section 8415(a) through (i)” for “section 8415(a) through (h)”.
 
 <b>2009</b>—Subsec. (i). Pub. L. 111–84, §1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -178,7 +180,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1988 Amendment
 
-Section 134(d) of Pub. L. 100–238 provided that:
+Pub. L. 100–238, title I, §134(d), Jan. 8, 1988, 101 Stat. 1765, provided that:
 
 “(1)
 

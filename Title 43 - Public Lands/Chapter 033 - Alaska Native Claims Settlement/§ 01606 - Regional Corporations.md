@@ -54,7 +54,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 #### (1) Settlement Common Stock
 
-&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled inthe region pursuant to section 1604 of this title.
+&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.
 
 &emsp;(B)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock to—
 
@@ -320,7 +320,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;(III) otherwise in accordance with this paragraph.
 
-&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors ofCook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
+&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors of Cook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
 
 &emsp;(L) Sale of Settlement Common Stock in accordance with this paragraph shall not diminish a shareholder's status as an Alaska Native or descendant of a Native for the purpose of qualifying for those programs, benefits and services or other rights or privileges set out for the benefit of Alaska Natives and Native Americans. Proceeds from the sale of Settlement Common Stock shall not be excluded in determining eligibility for any needs-based programs that may be provided by Federal, State or local agencies.
 
@@ -340,9 +340,9 @@ During the five years following December 18, 1971, not less than 10% of all corp
 
 Funds distributed among the Village Corporations shall be divided among them according to the ratio that the number of shares of stock registered on the books of the Regional Corporation in the names of residents of each village bears to the number of shares of stock registered in the names of residents in all villages.
 
-#### (<i>l</i>) Distributions to Village Corporations; village plan: withholding funds until submission of plan for use of money; joint ventures and joint financing of projects; disagreements, arbitration of issues as provided in articles of Regional Corporation
+#### (l) Distributions to Village Corporations; village plan: withholding funds until submission of plan for use of money; joint ventures and joint financing of projects; disagreements, arbitration of issues as provided in articles of Regional Corporation
 
-Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, and for joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreement over the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
+Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, and for joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreementover the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
@@ -352,7 +352,7 @@ When funds are distributed among Village Corporations in a region, an amount com
 
 The Regional Corporation may undertake on behalf of one or more of the Village Corporations in the region any project authorized and financed by them.
 
-#### (<i>o</i>) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
+#### (o) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
 The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
@@ -396,7 +396,7 @@ Subsec. (h)(1), (2). Pub. L. 100–241, §5, amended pars. (1) and (2) generally
 
 Subsec. (h)(3). Pub. L. 100–241, §5, amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions of former subpars. (A) to (C).
 
-Subsec. (<i>o</i>). Pub. L. 100–241, §12(a), struck out “, to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives” after “to each stockholder” in last sentence.
+Subsec. (o). Pub. L. 100–241, §12(a), struck out “, to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives” after “to each stockholder” in last sentence.
 
 <b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted “or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter” after “divorce or child support”. Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
 
@@ -404,7 +404,7 @@ Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provide
 
 #### Effective Date of 1995 Amendment
 
-Section 109(b) of Pub. L. 104–42 provided that: “This amendment \[amending this section\] shall be effective as of the date of enactment of the Alaska Native Claims Settlement Act, Public Law 92–203 (43 U.S.C. 1601, et seq.) \[Dec. 18, 1971\].”
+Pub. L. 104–42, title I, §109(b), Nov. 2, 1995, 109 Stat. 357, provided that: “This amendment \[amending this section\] shall be effective as of the date of enactment of the Alaska Native Claims Settlement Act, Public Law 92–203 (43 U.S.C. 1601, et seq.) \[Dec. 18, 1971\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

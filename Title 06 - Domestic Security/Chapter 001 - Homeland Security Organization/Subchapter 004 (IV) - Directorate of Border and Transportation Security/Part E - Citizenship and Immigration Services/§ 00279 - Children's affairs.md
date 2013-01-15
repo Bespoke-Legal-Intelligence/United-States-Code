@@ -60,7 +60,7 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 #### (3) Duties with respect to foster care
 
-&emsp;In carrying out the duties described in paragraph (1), the Director of the Office of Refugee Resettlement is encouraged to use the refugeechildren foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
+&emsp;In carrying out the duties described in paragraph (1), the Director of the Office of Refugee Resettlement is encouraged to use the refugee children foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
 
 #### (4) Rule of construction
 

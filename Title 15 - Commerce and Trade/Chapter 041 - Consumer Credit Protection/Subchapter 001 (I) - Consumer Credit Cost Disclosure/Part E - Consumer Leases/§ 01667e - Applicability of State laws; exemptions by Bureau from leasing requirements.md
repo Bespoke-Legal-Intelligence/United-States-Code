@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for ‘The Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

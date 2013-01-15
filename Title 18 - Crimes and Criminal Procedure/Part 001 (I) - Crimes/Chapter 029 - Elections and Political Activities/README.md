@@ -55,7 +55,7 @@ Pub. L. 94–283 title II, §201(b), May 11, 1976, 90 Stat. 496, struck out item
 
 #### State Laws Affected; Definitions
 
-Section 104 of Pub. L. 93–443 provided that:
+Pub. L. 93–443, title I, §104, Oct. 15, 1974, 88 Stat. 1272, provided that:
 
 “(a) The provisions of chapter 29 of title 18, United States Code, relating to elections and political activities, supersede and preempt any provision of State law with respect to election to Federal office.
 

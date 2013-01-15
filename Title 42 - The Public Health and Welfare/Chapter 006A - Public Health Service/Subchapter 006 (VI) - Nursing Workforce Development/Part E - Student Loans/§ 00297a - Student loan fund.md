@@ -22,7 +22,7 @@ Each agreement entered into under this section shall—
 
 (1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this part shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
 
-(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
+(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaultedprincipal amount outstanding of such school bears to the matured loans of such school.
 
 (3) For purposes of this subsection—
 
@@ -86,11 +86,11 @@ Subsec. (b)(4). Pub. L. 90–490, §222(a)(2), substituted “1971” for “196
 
 #### Effective Date of 1985 Amendments
 
-Amendment by Pub. L. 99–129 effective June 30, 1984, see section 228(b)(5) of Pub. L. 99–129, set out as a note under section 254<i>l</i> of this title.
+Amendment by Pub. L. 99–129 effective June 30, 1984, see section 228(b)(5) of Pub. L. 99–129, set out as a note under section 254l of this title.
 
-Section 10 of Pub. L. 99–92 provided that:
+Pub. L. 99–92, §10, Aug. 16, 1985, 99 Stat. 402, provided that:
 
-“(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296<i>l</i>, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
+“(a) Except as provided in subsection (b), this Act \[enacting section 297i of this title, transferring section 296c to section 298b–5 of this title, amending this section, sections 296k, 296l, 296m, 297, 297–1, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and section 6103 of Title 26, Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 201 and 298b–5 of this title and section 1333 of Title 15\] and the amendments and repeals made by this Act shall take effect on October 1, 1985.
 
 “(b)(1) The provisions of section 9(c) of this Act \[transferring section 296c of this title to section 298b–5 of this title, amending section 298b–5 of this title, and enacting provisions set out as notes under section 298b–5 of this title\] and the amendment made by paragraph (1) of such section shall take effect on the date of enactment of this Act \[Aug. 16, 1985\].
 
@@ -104,5 +104,5 @@ Pub. L. 94–63, title IX, §942, July 29, 1975, 89 Stat. 367, provided that: �
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969,see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
+Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969, see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
 

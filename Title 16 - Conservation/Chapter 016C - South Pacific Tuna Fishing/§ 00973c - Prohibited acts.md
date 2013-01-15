@@ -22,7 +22,7 @@
 
 &emsp;(10) to forcibly assault, resist, oppose, impede, intimidate, or interfere with—
 
-&emsp;&emsp;(A) any Authorized Officer or Authorized Party Officer in the conduct of a search orinspection in connection with the enforcement of this chapter or the Treaty; or
+&emsp;&emsp;(A) any Authorized Officer or Authorized Party Officer in the conduct of a search or inspection in connection with the enforcement of this chapter or the Treaty; or
 
 &emsp;&emsp;(B) an observer in the conduct of observer duties under the Treaty;
 
@@ -42,7 +42,7 @@
 
 &emsp;(4) to use any vessel to engage in fishing after the revocation of its license, or during the period of suspension of an applicable license;
 
-&emsp;(5) to operate a vessel in such a way as to disrupt or in any other way adversely affect the activities of traditional and locally based fishermen and fishing vessels;
+&emsp;(5) to operate a vessel in such a way as to disrupt or in any other way adversely affectthe activities of traditional and locally based fishermen and fishing vessels;
 
 &emsp;(6) to use a vessel to fish in a manner inconsistent with an order issued by the Secretary under section 973i of this title; or
 

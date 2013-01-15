@@ -42,5 +42,5 @@ Pub. L. 106–522, §153, Nov. 22, 2000, 114 Stat. 2474, provided that:
 
 “(b) Subsection (a) shall apply with respect to fiscal year 2001 and each succeeding fiscal year.”
 
-Similar provisions were contained in Pub. L. 106–553, §1(a)(1) \[§153\], Dec. 21, 2000, 114 Stat. 2762, 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189, effective as if included in Pub. L. 106–553 on the date of its enactment. See section 1(a)(4) \[div. A, §406\] of Pub. L. 106–554, set out as an Effective Date and Construction of 2000 Amendment, under section 1155 of Title 20, Education.
+Similar provisions were contained in Pub. L. 106–553, §1(a)(1) \[§153\], Dec. 21, 2000, 114 Stat. 2762, 2762A–37, which was repealed, and deemed for all purposes to have never been enacted, by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189, effective as if included in Pub. L. 106–553 on the date of its enactment. See section 1(a)(4) \[div. A, §406\] of Pub. L. 106–554, set out as an Effective Date and Construction of 2000 Amendment note under section 1155 of Title 20, Education.
 

@@ -16,17 +16,17 @@ Section 776f, acts July 29, 1947, ch. 345, §8, 61 Stat. 514; Oct. 18, 1972, Pub
 
 #### Effective Date of Repeal
 
-Section 13 of Pub. L. 99–5 provided that the repeal of this chapter is effective Dec. 31, 1985.
+Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15, provided that the repeal of this chapter is effective Dec. 31, 1985.
 
 #### Effective Date
 
-Section 10 of act July 29, 1947, which provided that this Act \[this chapter\] shall be effective thirty days from the date of its approval \[July 29, 1947\], was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Act July 29, 1947, ch. 345, §10, 61 Stat. 514, which provided that this Act \[this chapter\] shall be effective thirty days from the date of its approval \[July 29, 1947\], was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 
 #### Short Title
 
-Section 1 of act July 29, 1947, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Act July 29, 1947, ch. 345, §1, 61 Stat. 511, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 
 #### Savings Provision
 
-Section 9 of act July 29, 1947, which provided that if any provision of this Act \[this chapter\] is held invalid for any cause, such invalidity shall not affect the other provisions hereof, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Act July 29, 1947, ch. 345, §9, 61 Stat. 514, which provided that if any provision of this Act \[this chapter\] is held invalid for any cause, such invalidity shall not affect the other provisions hereof, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 

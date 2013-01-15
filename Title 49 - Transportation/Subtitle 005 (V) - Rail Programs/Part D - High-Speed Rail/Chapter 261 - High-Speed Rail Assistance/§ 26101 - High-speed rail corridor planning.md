@@ -28,7 +28,7 @@ Eligible Activities.—(1) A corridor planning activity is eligible for financia
 
 &emsp;(I) preliminary engineering and design;
 
-&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means ofpassenger access, track, signal, station, and other capital work, and use of intermodal terminals;
+&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means of passenger access, track, signal, station, and other capital work, and use of intermodal terminals;
 
 &emsp;(K) preparation of financing plans and prospectuses;
 
@@ -110,7 +110,7 @@ Subsec. (c)(2). Pub. L. 109–59, §9001(a)(1)(E), substituted “development”
 
 #### Congressional Findings; Purpose
 
-Section 102 of title I of Pub. L. 103–440 provided that:
+Pub. L. 103–440, title I, §102, Nov. 2, 1994, 108 Stat. 4615, provided that:
 
 “(a)
 

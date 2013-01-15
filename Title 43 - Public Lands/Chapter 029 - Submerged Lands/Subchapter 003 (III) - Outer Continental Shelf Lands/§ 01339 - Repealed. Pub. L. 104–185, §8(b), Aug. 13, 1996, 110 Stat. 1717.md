@@ -4,7 +4,7 @@ Section, act Aug. 7, 1953, ch. 345, §10, 67 Stat. 469, related to requirements 
 
 #### Effective Date of Repeal
 
-Section 8(b) of Pub. L. 104–185 provided in part that the repeal of this section is effective Aug. 13, 1996.
+Pub. L. 104–185, §8(b), Aug. 13, 1996, 110 Stat. 1717, provided in part that the repeal of this section is effective Aug. 13, 1996.
 
 #### Applicability of Repeal
 

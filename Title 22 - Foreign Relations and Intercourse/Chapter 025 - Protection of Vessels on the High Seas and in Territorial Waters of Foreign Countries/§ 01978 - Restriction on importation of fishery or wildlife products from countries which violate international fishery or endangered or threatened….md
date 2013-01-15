@@ -18,7 +18,7 @@
 
 #### (b) Notification to Congress
 
-Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country,the President shall inform the Congress of the reasons therefor.
+Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish productsor wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
 
 #### (c) Importation of fish products from offending country prohibited
 

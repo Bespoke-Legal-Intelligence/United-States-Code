@@ -128,9 +128,9 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (d) <sup>5</sup> Authority
 
-The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
+The Comptroller of the Currency may act in the Comptroller's own name and through theComptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469;Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice af
 
 #### Effective Date of 1989 Amendment
 
-Section 907(<i>l</i>) of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
+Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that: “The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
 &emsp;“(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(q)\]) or the National Credit Union Administration Board; and
 
@@ -172,7 +172,7 @@ Section 907(<i>l</i>) of Pub. L. 101–73 provided that: “The amendments made 
 
 #### Effective Date of 1978 Amendment
 
-Section 109 of title I of Pub. L. 95–630 provided that: “Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\].”
+Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: “Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\].”
 
 #### Exception as to Transfer of Functions
 

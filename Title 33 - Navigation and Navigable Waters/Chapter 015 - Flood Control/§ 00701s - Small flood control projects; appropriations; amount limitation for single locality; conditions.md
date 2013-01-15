@@ -32,7 +32,7 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 
 #### Effective Date of 1981 Amendment
 
-Section 2(b) of Pub. L. 97–140 provided that: “The amendment made by this section \[amending this section\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 29, 1981\].”
+Pub. L. 97–140, §2(b), Dec. 29, 1981, 95 Stat. 1717, provided that: “The amendment made by this section \[amending this section\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 29, 1981\].”
 
 #### Effective Date of 1976 Amendment
 

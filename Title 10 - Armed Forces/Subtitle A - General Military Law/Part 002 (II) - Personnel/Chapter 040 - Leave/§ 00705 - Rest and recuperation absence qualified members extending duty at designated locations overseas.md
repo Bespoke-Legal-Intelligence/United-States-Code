@@ -36,5 +36,5 @@ Subsec. (b). Pub. L. 107–314 substituted “recuperation” for “recuperativ
 
 #### Effective Date
 
-Section 5(c)(2) of Pub. L. 96–579 provided: “Section 705 of title 10, United States Code, as added by subsection (b), shall take effect upon the date of the enactment of this section \[Dec. 23, 1980\] and shall apply only with respect to periods of extended duty overseas beginning on or after such date of enactment.”
+Pub. L. 96–579, §5(c)(2), Dec. 23, 1980, 94 Stat. 3367, provided: “Section 705 of title 10, United States Code, as added by subsection (b), shall take effect upon the date of the enactment of this section \[Dec. 23, 1980\] and shall apply only with respect to periods of extended duty overseas beginning on or after such date of enactment.”
 

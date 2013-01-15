@@ -34,7 +34,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(i) assisting educational agencies and institutions to implement policies and practices to comply with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\];
 
-&emsp;&emsp;&emsp;(ii) training for teachers, counselors, administrators, and other school personnel,especially preschool and elementary school personnel, in gender equitable teaching and learning practices;
+&emsp;&emsp;&emsp;(ii) training for teachers, counselors, administrators, and other school personnel, especially preschool and elementary school personnel, in gender equitable teaching and learning practices;
 
 &emsp;&emsp;&emsp;(iii) leadership training for women and girls to develop professional and marketable skills to compete in the global marketplace, improve self-esteem, and benefit from exposure to positive role models;
 
@@ -90,7 +90,7 @@ The Secretary is authorized—
 
 The Education Amendments of 1972, referred to in subsec. (b)(2)(A)(i), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Healthand Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

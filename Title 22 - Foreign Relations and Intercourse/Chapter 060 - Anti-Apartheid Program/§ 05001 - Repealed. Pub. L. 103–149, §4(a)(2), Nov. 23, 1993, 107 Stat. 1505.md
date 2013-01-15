@@ -8,7 +8,7 @@ Repeal effective June 8, 1994, date on which President certified to Congress tha
 
 #### Short Title
 
-Section 1 of Pub. L. 99–440 provided that Pub. L. 99–440, which enacted this chapter and sections 2151<i>o</i> and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
+Pub. L. 99–440, §1, Oct. 2, 1986, 100 Stat. 1086, provided that Pub. L. 99–440, which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
 
 #### Repeal of Chapter; South African Democratic Transition Support
 
@@ -88,7 +88,7 @@ Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a
 
 Conforming amendments.—(A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
 
-&emsp;“(B) The following provisions of the Foreign Assistance Act of 1961 that were enacted by the Comprehensive Anti-Apartheid Act of 1986 are repealed: subsections (e)(2), (f), and (g) of section 116 (22 U.S.C. 2151n); section 117 (22 U.S.C. 2151<i>o</i>), relating to assistance for disadvantaged South Africans; and section 535 (22 U.S.C. 2346d). Section 116(e)(1) of the Foreign Assistance Act of 1961 is amended by striking ‘(1)’.
+&emsp;“(B) The following provisions of the Foreign Assistance Act of 1961 that were enacted by the Comprehensive Anti-Apartheid Act of 1986 are repealed: subsections (e)(2), (f), and (g) of section 116 (22 U.S.C. 2151n); section 117 (22 U.S.C. 2151o), relating to assistance for disadvantaged South Africans; and section 535 (22 U.S.C. 2346d). Section 116(e)(1) of the Foreign Assistance Act of 1961 is amended by striking ‘(1)’.
 
 “(b)
 
@@ -106,7 +106,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;“(6) Section 43 of the Bretton Woods Agreements Act (22 U.S.C. 286aa) is amended by repealing subsection (b) and by striking ‘(a)’.
 
-&emsp;“(7) Section 330 of H.R. 5205 of the 99th Congress (Department of Transportation and Related Agencies Appropriations Act, 1987) (22 U.S.C. 5056a) as incorporated by reference in section 101(<i>l</i>) of Public Law 99–500 and Public Law 99–591, and made effective as if enacted into law by section 106 of Public Law 100–202, is repealed.
+&emsp;“(7) Section 330 of H.R. 5205 of the 99th Congress (Department of Transportation and Related Agencies Appropriations Act, 1987) (22 U.S.C. 5056a) as incorporated by reference in section 101(l) of Public Law 99–500 and Public Law 99–591, and made effective as if enacted into law by section 106 of Public Law 100–202, is repealed.
 
 &emsp;“(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 
@@ -220,7 +220,7 @@ Investment and trade programs.—Each of the agencies referred to in subsections
 
 &emsp;“(2)
 
-United states government procurement.—To the extent not inconsistent with the obligations ofthe United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
+United states government procurement.—To the extent not inconsistent with the obligations of the United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
 
 #### “SEC. 7. INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS.
 

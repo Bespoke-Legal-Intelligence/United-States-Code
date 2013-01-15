@@ -34,11 +34,11 @@
 
 #### (B) Apportionment of unobligated amounts
 
-&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
+&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscalyear, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
 
 #### (b) Apportionment to States
 
-The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, andamounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
+The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
 
 #### (c) <sup>2</sup> Apportionment of certain taxes
 
@@ -86,11 +86,11 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 &emsp;&emsp;(ii) identifies the extent and condition of wildlife habitats and community types essential to conservation of species identified under paragraph (1);
 
-&emsp;&emsp;(iii) identifies the problems which may adversely affect the species identified under paragraph (1) or their habitats, and provides for priority research and surveys to identify factors which may assist in restoration and more effective conservation of such species and their habitats;
+&emsp;&emsp;(iii) identifies the problems which may adversely affect the species identified underparagraph (1) or their habitats, and provides for priority research and surveys to identify factors which may assist in restoration and more effective conservation of such species and their habitats;
 
 &emsp;&emsp;(iv) determines those actions which should be taken to conserve the species identified under paragraph (1) and their habitats and establishes priorities for implementing such conservation actions;
 
-&emsp;&emsp;(v) provides for periodic monitoring of species identified under paragraph (1) and theirhabitats and the effectiveness of the conservation actions determined under paragraph (4), and for adapting conservation actions as appropriate to respond to new information or changing conditions;
+&emsp;&emsp;(v) provides for periodic monitoring of species identified under paragraph (1) and their habitats and the effectiveness of the conservation actions determined under paragraph (4), and for adapting conservation actions as appropriate to respond to new information or changing conditions;
 
 &emsp;&emsp;(vi) provides for the review of the State wildlife conservation strategy and, if appropriate, revision at intervals of not more than ten years;
 

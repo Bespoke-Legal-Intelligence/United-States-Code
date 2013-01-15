@@ -14,15 +14,17 @@
 
 &emsp;(2) if removed from an active status under subsection (a)(2) of this section, on June 30 next following the date on which the officer completes thirty years of total commissioned service as computed under this section.
 
-(d) For the purpose of this section, the total commissioned service of an officer who has served continuously in the Reserve following appointment in the grade of ensign shall be computed from the date on which that appointment was accepted. A Reserve officer initially appointed in a grade above ensign is considered to have the actual total commissioned service performed in a grade above commissioned warrant officer or the same total commissioned service as an officer of the Regular Coast Guard who has served continuously from an original appointment as ensign, who has not lost numbers or precedence, and who is, or was, junior to the Reserve officer, whichever is greater.
+(d) For the purpose of this section, the total commissioned service of an officer who has served continuously in the Reserve following appointment in the grade of ensign shall be computed from the date on which that appointment to the Reserve was accepted. A Reserve officer initially appointed in a grade above ensign is considered to have the actual total commissioned service performed in a grade above commissioned warrant officer or the same total commissioned service as an officer of the Regular Coast Guard who has served continuously from an original appointment as ensign, who has not lost numbers or precedence, and who is, or was, junior to the Reserve officer, whichever is greater.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013; amended Pub. L. 97–417, §2(15), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013; amended Pub. L. 97–417, §2(15), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 112–213, title II, §217(14), Dec. 20, 2012, 126 Stat. 1558.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 787 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (d). Pub. L. 112–213 substituted “that appointment to the Reserve” for “that appointment”.
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “section 12646 of title 10” for “section 1006 of title 10”.
 

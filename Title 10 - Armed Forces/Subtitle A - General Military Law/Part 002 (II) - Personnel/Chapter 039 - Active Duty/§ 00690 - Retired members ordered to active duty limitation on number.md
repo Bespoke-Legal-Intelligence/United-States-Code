@@ -18,7 +18,7 @@ Limitation by Service.—(1) Not more than 25 officers of any one armed force ma
 
 &emsp;(D) Any member of the Retiree Council of the Army, Navy, or Air Force for the period on active duty to attend the annual meeting of the Retiree Council.
 
-&emsp;(E) An officer who is assigned to duty as a defense attache�AE1 or service attache�AE1 for the period of active duty to which ordered.
+&emsp;(E) An officer who is assigned to duty as a defense attaché or service attaché for the period of active duty to which ordered.
 
 (c)
 
@@ -40,7 +40,7 @@ Provisions similar to those in subsecs. (a) and (c) of this section were contain
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 applicable with respect to officers serving on active duty as a defense attache�AE1 or service attache�AE1 on or after Dec. 28, 2001, see section 509(c) of Pub. L. 107–107, set out as a note under section 688 of this title.
+Amendment by Pub. L. 107–107 applicable with respect to officers serving on active duty as a defense attaché or service attaché on or after Dec. 28, 2001, see section 509(c) of Pub. L. 107–107, set out as a note under section 688 of this title.
 
 #### Effective Date
 

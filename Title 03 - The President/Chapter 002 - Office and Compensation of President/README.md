@@ -230,7 +230,7 @@ Much of the work done by the Office of Telecommunications Policy (OTP) can be mo
 
 I propose that the Economic Opportunity Council be discontinued; it is dormant and its only active function (preparation of the Catalogue of Federal Domestic Assistance) is being performed by OMB. Three other units are also inactive and should be discontinued: Council on International Economic Policy, the Federal Property Council, and the Energy Resources Council.
 
-The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinates the making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
+The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinatesthe making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
 
 The ten EOP units which will continue with some modification are:
 
@@ -342,7 +342,7 @@ The White House, July 15, 1977.
 
 #### Abolition of Office of Telecommunications Policy
 
-For effective date of the abolition of the Office of Telecommunications Policy and its transfer of functions, implementing Reorg. Plan No. 1 of 1977, set out above, see Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+For effective date of the abolition of the Office of Telecommunications Policy and its transfer of functions, implementing Reorg. Plan No. 1 of 1977, set out above, see Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of Title 47, Telecommunications.
 
 #### Ex. Ord. No. 12028. Office of Administration in Executive Office of President
 
@@ -386,7 +386,7 @@ Sec. 6. The records, property, personnel, and unexpended balances of appropriati
 
 Sec. 7. (a) The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
-(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director of the Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
+(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director ofthe Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -478,13 +478,13 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (k) Secretary of Transportation;
 
-(<i>l</i>) Secretary of Commerce;
+(l) Secretary of Commerce;
 
 (m) Secretary of Energy;
 
 (n) Secretary of the Treasury;
 
-(<i>o</i>) Secretary of Homeland Security;
+(o) Secretary of Homeland Security;
 
 (p) Administrator of the Environmental Protection Agency;
 
@@ -556,13 +556,13 @@ Sec. 3. <i>Functions</i>. The principal functions of the Office are, to the exte
 
 (k) to develop and implement strategic initiatives under the President's agenda to strengthen the institutions of civil society and America's families and communities;
 
-(<i>l</i>) to showcase and herald innovative grassroots nonprofit organizations and civic initiatives;
+(l) to showcase and herald innovative grassroots nonprofit organizations and civic initiatives;
 
 (m) to eliminate unnecessary legislative, regulatory, and other bureaucratic barriers that impede effective faith-based and other community efforts to solve social problems;
 
 (n) to monitor implementation of the President's agenda affecting faith-based and other community organizations; and
 
-(<i>o</i>) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
+(o) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
 
 Sec. 4. <i>Administration</i>. (a) The Office may function through established or ad hoc committees, task forces, or interagency groups.
 
@@ -634,7 +634,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
 
@@ -724,9 +724,9 @@ Memorandum of President of the United States, Jan. 30, 2009, 74 F.R. 5979, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one in which they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
+For many years, middle-class Americans have been working harder, yet not enjoying their fair share of the fruits of a growing economy. While the productivity of the American workforce grew during the decade ending in 2007, middle-income workers saw their real incomes fall. The current economic situation has exacerbated the challenges facing middle-class Americans, with health care coverage, safe and steady employment opportunities, effective and affordable education, owning a home, and saving for retirement slipping out of reach. It is a high priority of my Administration to achieve a secure future for middle-class working families, one inwhich they share in prosperous times and are cushioned during hard times. To these ends, I hereby direct the following:
 
-Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force onMiddle-Class Working Families (Task Force) to focus on raising the living standards of middle-class working families in the United States of America. The Vice President shall serve as Chair of the Task Force.
+Section 1. <i>White House Task Force on Middle-Class Working Families</i>. There is established within the Office of the Vice President, a White House Task Force on Middle-Class Working Families (Task Force) to focus on raising the living standards of middle-class working families in the United States of America. The Vice President shall serve as Chair of the Task Force.
 
 (a)
 

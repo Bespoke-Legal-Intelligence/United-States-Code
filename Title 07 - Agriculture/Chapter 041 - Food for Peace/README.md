@@ -97,7 +97,7 @@
 | 1736<i>l.</i> | Consultation on grain marketing. |
 | 1736m, 1736n. | Repealed. |
 | 1736<i>o.</i> | Food for progress. |
-| §1736<i>o</i>–1. | McGovern-Dole International Food for Education and Child Nutrition Program. |
+| §1736o–1. | McGovern-Dole International Food for Education and Child Nutrition Program. |
 | [1736p.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736p%20-%20Trade%20policy%20declaration.md) | Trade policy declaration. |
 | [1736q.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736q%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7268%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20975.md) | Repealed. |
 | [1736r.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736r%20-%20Trade%20negotiations%20policy.md) | Trade negotiations policy. |

@@ -16,7 +16,7 @@ In addition to any other funds authorized to be appropriated to the Commission, 
 
 #### Codification
 
-Pub. L. 94–29, which directed amendment of the Securities Exchange Act of 1934 by adding this section atthe end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
+Pub. L. 94–29, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78o of this title.
 
 #### Effective Date
 

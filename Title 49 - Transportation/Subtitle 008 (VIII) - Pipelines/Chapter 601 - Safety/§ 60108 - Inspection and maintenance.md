@@ -18,7 +18,7 @@ Plans.—(1) Each person owning or operating a gas pipeline facility or hazardou
 
 (b)
 
-Inspection and Testing.—(1) The Secretary shall inspect and require appropriate testing of a pipeline facility subject to this chapter that is not covered by a certification under section 60105 of this title or an agreement under section 60106 of this title. The Secretary shall decide on the frequency and type of inspection and testing under this subsection on a case-by-case basis after considering the following:
+Inspection and Testing.—(1) The Secretary shall inspect and require appropriate testing of a pipeline facility subject to this chapter that is not covered by a certificationunder section 60105 of this title or an agreement under section 60106 of this title. The Secretary shall decide on the frequency and type of inspection and testing under this subsection on a case-by-case basis after considering the following:
 
 &emsp;(A) the location of the pipeline facility.
 
@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
@@ -52,7 +52,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 &emsp;(C) if a pipeline facility has no operator, the most recent operator of the facility is deemed to be the operator of the facility.
 
-(2)(A) Not later than May 16, 1993, on the basis of experience with the inspections under section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, and any other information available to the Secretary, the Secretary shall establish a mandatory, systematic, and, where appropriate, periodic inspection program of—
+(2)(A) Not later than May 16, 1993, on the basis of experience with the inspections under section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, and any other information available to the Secretary, the Secretary shall establish a mandatory, systematic, and, where appropriate, periodic inspection program of—
 
 &emsp;(i) all offshore pipeline facilities; and
 
@@ -74,11 +74,11 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
-(B) Not later than 6 months after the Secretary establishes standards under subparagraph (A) of this paragraph, or October 24, 1995, whichever occurs first, the operator of each offshore pipeline facility not described in section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, shall inspect the facility and report to the Secretary on any part of the facility that is exposed or is a hazard to navigation. This subparagraph applies only to a facility that is between the high water mark and the point at which the subsurface is under 15 feet of water, as measured from mean low water. An inspection that occurred after October 3, 1989, may be used for compliance with this subparagraph if the inspection conforms to the requirements of this subparagraph.
+(B) Not later than 6 months after the Secretary establishes standards under subparagraph (A) of this paragraph, or October 24, 1995, whichever occurs first, the operator of each offshore pipeline facility not described in section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, shall inspect the facility and report to the Secretary on any part of the facility that is exposed or is a hazard to navigation. This subparagraph applies only to a facility that is between the high water mark and the point at which the subsurface is under 15 feet of water, as measured from mean low water. An inspection that occurred after October 3, 1989, may be used for compliance with this subparagraph if the inspection conforms to the requirements of this subparagraph.
 
 (C) The Secretary may extend the time period specified in subparagraph (B) of this paragraph for not more than 6 months if the operator of a facility satisfies the Secretary that the operator has made a good faith effort, with reasonable diligence, but has been unable to comply by the end of that period.
 
-(6)(A) The operator of a pipeline facility abandoned after October 24, 1992, shall report the abandonment to the Secretary in a way that specifies whether the facility has been abandoned properly according to applicable United States Government and State requirements.
+(6)(A) The operator of a pipeline facility abandoned after October 24, 1992, shall report theabandonment to the Secretary in a way that specifies whether the facility has been abandoned properly according to applicable United States Government and State requirements.
 
 (B) Not later than October 24, 1995, the operator of a pipeline facility abandoned before October 24, 1992, shall report to the Secretary reasonably available information related to the facility, including information that a third party possesses. The information shall include the location, size, date, and method of abandonment, whether the facility has been abandoned properly under applicable law, and other relevant information the Secretary may require. Not later than April 24, 1994, the Secretary shall specify how the information shall be reported. The Secretary shall ensure that the Government maintains the information in a way accessible to appropriate Government agencies and State authorities.
 
@@ -264,7 +264,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub. L. 102–508, §107, 106 Stat. 3293.
 
-In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency”in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
+In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
 In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
@@ -278,11 +278,11 @@ In subsection (c)(1)(B), the words “except with respect to the initial inspect
 
 In subsection (c)(1)(C), the word “current” is omitted as surplus.
 
-In subsection (c)(2)(B), before clause (i), the words “to carry out” are substituted for “under” because the Secretary does not prescribe regulations under 49 App.:1672(h)(3) or 2002(<i>l</i>)(3).
+In subsection (c)(2)(B), before clause (i), the words “to carry out” are substituted for “under” because the Secretary does not prescribe regulations under 49 App.:1672(h)(3) or 2002(l)(3).
 
-In subsection (c)(3), the text of 49 App.:1672(h)(1) and 2002(<i>l</i>)(1) is omitted as executed.
+In subsection (c)(3), the text of 49 App.:1672(h)(1) and 2002(l)(1) is omitted as executed.
 
-In subsection (c)(4)(A), the text of 49 App.:1672(h)(4)(A) and 2002(<i>l</i>)(4)(A) is omitted as obsolete.
+In subsection (c)(4)(A), the text of 49 App.:1672(h)(4)(A) and 2002(l)(4)(A) is omitted as obsolete.
 
 In subsection (c)(5)(A), the words “for the purposes of this paragraph” are omitted as surplus.
 
@@ -298,7 +298,7 @@ In subsection (d)(2), the words “(relating to coordination of Federal informat
 
 Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
-Section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(<i>l</i>)(1)(A) of Pub. L. 96–129, which was classified to section 2002(<i>l</i>)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
+Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of Pub. L. 96–129, which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 #### Amendments
 
@@ -348,7 +348,7 @@ Contents.—The report shall include—
 
 &emsp;&emsp;“(A) an analysis of the technical limitations of current leak detection systems, including the ability of the systems to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
 
-&emsp;&emsp;“(B) an analysis of the practicability of establishing technically, operationally, and economically feasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
+&emsp;&emsp;“(B) an analysis of the practicability of establishing technically, operationally, and economicallyfeasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
 
 “(b)
 

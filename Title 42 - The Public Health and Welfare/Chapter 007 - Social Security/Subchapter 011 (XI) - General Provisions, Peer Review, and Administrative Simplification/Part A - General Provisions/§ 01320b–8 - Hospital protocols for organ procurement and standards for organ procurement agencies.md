@@ -64,7 +64,7 @@
 
 (2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 
-(Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
+(Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153;Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furni
 
 #### Effective Date of 1994 Amendment
 
-Section 155(a)(3) of Pub. L. 103–432 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to hospitals and rural primary care hospitals participating in the programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\] beginning January 1, 1996.”
+Pub. L. 103–432, title I, §155(a)(3), Oct. 31, 1994, 108 Stat. 4439, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to hospitals and rural primary care hospitals participating in the programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\] beginning January 1, 1996.”
 
 #### Effective Date of 1988 Amendment
 
@@ -106,7 +106,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date
 
-Section 9318(b) of Pub. L. 99–509, as amended by Pub. L. 100–119, title I, §107(c), Sept. 29, 1987, 101 Stat. 784; Pub. L. 100–203, title IV, §4009(g)(1), Dec. 22, 1987, 101 Stat. 1330–58, provided that:
+Pub. L. 99–509, title IX, §9318(b), Oct. 21, 1986, 100 Stat. 2010, as amended by Pub. L. 100–119, title I, §107(c), Sept. 29, 1987, 101 Stat. 784; Pub. L. 100–203, title IV, §4009(g)(1), Dec. 22, 1987, 101 Stat. 1330–58, provided that:
 
 “(1) Section 1138(a) of the Social Security Act \[subsec. (a) of this section\] shall apply to hospitals participating in the programs under titles XVIII and XIX of such Act \[subchapters XVIII and XIX of this chapter\] as of November 21, 1987.”
 
@@ -116,7 +116,7 @@ Section 9318(b) of Pub. L. 99–509, as amended by Pub. L. 100–119, title I, �
 
 #### Existing Agreements With Organ Procurement Agencies
 
-Section 155(a)(2) of Pub. L. 103–432 provided that: “Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[subsec. (a)(3)(A) of this section\]) with an organ procurement agency other than such hospital's designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary's determination with respect to such application.”
+Pub. L. 103–432, title I, §155(a)(2), Oct. 31, 1994, 108 Stat. 4439, provided that: “Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[subsec. (a)(3)(A) of this section\]) with an organ procurement agency other than such hospital's designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary's determination with respect to such application.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

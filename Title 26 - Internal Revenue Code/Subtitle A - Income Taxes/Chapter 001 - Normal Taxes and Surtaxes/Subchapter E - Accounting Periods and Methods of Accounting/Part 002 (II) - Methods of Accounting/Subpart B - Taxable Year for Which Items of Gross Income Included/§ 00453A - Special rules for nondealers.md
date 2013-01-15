@@ -34,7 +34,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (4) Special rule for timeshares and residential lots
 
-&emsp;An installment obligation shall not be treated as described in paragraph (1) if it arises from a disposition described in section 453(<i>l</i>)(2)(B), but the provisions of section 453(<i>l</i>)(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
+&emsp;An installment obligation shall not be treated as described in paragraph (1) if it arises from a disposition described in section 453(l)(2)(B), but the provisions of section 453(l)(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
 
 #### (5) Sales price
 
@@ -44,7 +44,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (1) In general
 
-&emsp;If an obligation to which this section applies is outstanding as of the close of any taxable year, the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined in the manner provided under paragraph (2).
+&emsp;If an obligation to which this section applies is outstanding as of the close of any taxableyear, the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined in the manner provided under paragraph (2).
 
 #### (2) Computation of interest
 
@@ -180,7 +180,7 @@ Amendment by section 1008(g)(2) of Pub. L. 100–647 effective, except as otherw
 
 Amendment by section 2004(d)(2), (7), (8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Section 5076(c) of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title V, §5076(c), Nov. 10, 1988, 102 Stat. 3683, provided that:
 
 “(1)
 
@@ -206,11 +206,11 @@ For effective date, see section 6(a)(4) of Pub. L. 96–471, set out as a note u
 
 #### Certain Repledges Permitted
 
-Section 6031 of Pub. L. 100–647 provided that:
+Pub. L. 100–647, title VI, §6031, Nov. 10, 1988, 102 Stat. 3695, provided that:
 
 “(a)
 
-General Rule.—Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtedness if such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
+General Rule.—Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtednessif such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
 
 “(b)
 

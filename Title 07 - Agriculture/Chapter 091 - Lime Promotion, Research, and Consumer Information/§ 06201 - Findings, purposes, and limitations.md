@@ -42,7 +42,7 @@ Pub. L. 103–194, §1, Dec. 14, 1993, 107 Stat. 2294, provided that: “This Ac
 
 #### Short Title
 
-Section 1951 of Pub. L. 101–624 provided that: “This subtitle \[subtitle D (§§1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
+Pub. L. 101–624, title XIX, §1951, Nov. 28, 1990, 104 Stat. 3870, provided that: “This subtitle \[subtitle D (§§1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
 
 #### Legislative Findings and Purpose of Pub. L. 103–194
 

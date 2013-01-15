@@ -20,5 +20,5 @@ Pub. L. 108–83, title I, §5(b), Sept. 30, 2003, 117 Stat. 1013, provided that
 
 #### Effective Date of 1983 Amendment
 
-Title I of Pub. L. 98–63 provided that the amendment made by Pub. L. 98–63 is effective for fiscal years beginning on or after Oct. 1, 1982.
+Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 334, provided in part that the amendment made by Pub. L. 98–63 is effective for fiscal years beginning on or after Oct. 1, 1982.
 

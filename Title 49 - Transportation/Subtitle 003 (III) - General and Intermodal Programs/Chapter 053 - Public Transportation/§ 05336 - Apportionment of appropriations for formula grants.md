@@ -2,111 +2,115 @@
 
 (a)
 
-Based on Urbanized Area Population.—Of the amount apportioned under subsection (i)(2) to carry out section 5307—
+Based on Urbanized Area Population.—Of the amount apportioned under subsection (h)(4) to carry out section 5307—
 
 &emsp;(1) 9.32 percent shall be apportioned each fiscal year only in urbanized areas with a population of less than 200,000 so that each of those areas is entitled to receive an amount equal to—
 
-&emsp;&emsp;(A) 50 percent of the total amount apportioned multiplied by a ratio equal to the population of the area divided by the total population of all urbanized areas with populations of less than 200,000 as shown in the latest United States Government census; and
+&emsp;&emsp;(A) 50 percent of the total amount apportioned multiplied by a ratio equal to the population of the area divided by the total population of all urbanized areas with populations of less than 200,000 as shown in the most recent decennial census; and
 
-&emsp;&emsp;(B) 50 percent of the total amount apportioned multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile; and
+&emsp;&emsp;(B) 50 percent of the total amount apportioned multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile; and
 
-&emsp;(2) 90.68 percent shall be apportioned each fiscal year only in urbanized areas with populations of at least 200,000 as provided in subsections (b) and (c) of this section, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations.
+&emsp;(2) 90.68 percent shall be apportioned each fiscal year only in urbanized areas with populations of at least 200,000 as provided in subsections (b) and (c) of this section.
 
 (b)
 
-Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.—(1) In this subsection, “fixed guideway revenue vehicle-miles” and “fixed guideway route-miles” include ferry boat operations directly or under contract by the designated recipient and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations.
+Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Passenger Miles.—(1) In this subsection, “fixed guideway vehicle revenue miles” and “fixed guideway directional route miles” include passenger ferry operations directly or under contract by the designated recipient.
 
 (2) Of the amount apportioned under subsection (a)(2) of this section, 33.29 percent shall be apportioned as follows:
 
 &emsp;(A) 95.61 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;(i) 60 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway revenue vehicle-miles attributable to the area, as established by the Secretary of Transportation, divided by the total number of all fixed guideway revenue vehicle-miles attributable to all areas; and
+&emsp;&emsp;(i) 60 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all areas; and
 
-&emsp;&emsp;(ii) 40 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway route-miles attributable to the area, established by the Secretary, divided by the total number of all fixed guideway route-miles attributable to all areas.
+&emsp;&emsp;(ii) 40 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway directional route miles attributable to the area, established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all areas.
 
 > &emsp;An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
 
 &emsp;(B) 4.39 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;(i) the number of fixed guideway vehicle passenger-miles traveled multiplied by the number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in an area; divided by
+&emsp;&emsp;(i) the number of fixed guideway vehicle passenger miles traveled multiplied by the number of fixed guideway vehicle passenger miles traveled for each dollar of operating cost in an area; divided by
 
-&emsp;&emsp;(ii) the total number of fixed guideway vehicle passenger-miles traveled multiplied by the total number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in all areas.
+&emsp;&emsp;(ii) the total number of fixed guideway vehicle passenger miles traveled multiplied by the total number of fixed guideway vehicle passenger miles traveled for each dollar of operating cost in all areas.
 
 > &emsp;An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
 
-&emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
+&emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway vehicle revenue or directional route miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not bereduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
+
+&emsp;(E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 22.27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
 
 (c)
 
-Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
+Based on Bus Vehicle Revenue Miles and Passenger Miles.—Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
 
 &emsp;(1) 90.8 percent of the total amount apportioned under this subsection shall be apportioned as follows:
 
 &emsp;&emsp;(A) 73.39 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 1,000,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
+&emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the total bus vehicle revenue miles attributable to all areas;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown in the most recent decennial census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
 
 &emsp;&emsp;(B) 26.61 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 200,000 but not more than 999,999 is entitled to receive an amount equal to—
 
-&emsp;&emsp;&emsp;(i) 50 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
+&emsp;&emsp;&emsp;(i) 50 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the total bus vehicle revenue miles attributable to all areas;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the most recent decennial census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
 
 &emsp;(2) 9.2 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;(A) the number of bus passenger-miles traveled multiplied by the number of bus passenger-miles traveled for each dollar of operating cost in an area; divided by
+&emsp;&emsp;(A) the number of bus passenger miles traveled multiplied by the number of bus passenger miles traveled for each dollar of operating cost in an area; divided by
 
-&emsp;&emsp;(B) the total number of bus passenger-miles traveled multiplied by the total number of bus passenger-miles traveled for each dollar of operating cost in all areas.
+&emsp;&emsp;(B) the total number of bus passenger miles traveled multiplied by the total number of bus passenger miles traveled for each dollar of operating cost in all areas.
 
 (d)
 
-Date of Apportionment.—The Secretary of Transportation shall—
+Date of Apportionment.—The Secretary shall—
 
-&emsp;(1) apportion amounts appropriated under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338 of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
+&emsp;(1) apportion amounts appropriated under section 5338(a)(2)(C) of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
 
 &emsp;(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
 
 (e)
 
-Amounts Not Apportioned to Designated Recipients.—The chief executive officer of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient as defined in section 5307(a) of this title.
+Amounts Not Apportioned to Designated Recipients.—The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient, as defined in section 5302(4).
 
 (f)
 
-Transfers of Apportionments.—(1) The chief executive officer of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c) of this title or amounts apportioned to urbanized areas under this subsection. The chief executive officer may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
+Transfers of Apportionments.—(1) The Governor of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The chief executive officer of a State may transfer any part of the State's apportionment under section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The Governor of a State may transfer any part of the State's apportionment under section 5311(c)(3) to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
-(3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
+(3) The Governor of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
-(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
+(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the Governor of a State. The Governor shall distribute the transferred amounts to urbanized areas under this section.
 
 (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
 (g)
 
-Period of Availability to Recipients.—An amount apportioned under this section may be obligated by the recipient for 3 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 3-year period, an amount that is not obligated at the end of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
+Period of Availability to Recipients.—An amount apportioned under this section may be obligated by the recipient for 5 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 5-year period, an amount that is not obligated at the end of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
 
 (h)
 
-Application of Other Sections.—Sections 5302, 5318, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made with funds apportioned under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made with funds apportioned under this section.
+Apportionments.—Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
+
+&emsp;(1) $30,000,000 shall be set aside to carry out section 5307(h);
+
+&emsp;(2) 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
+
+&emsp;(3) of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
+
+&emsp;(4) 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
+
+&emsp;(5) any amount not apportioned under paragraphs (1), (2), (3), and (4) shall be apportioned to urbanized areas in accordance with subsections (a) through (c).
 
 (i)
-
-Apportionments.—Of the amounts made available for each fiscal year under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338—
-
-&emsp;(1) one percent shall be apportioned, in fiscal year 2006 and each fiscal year thereafter, to certain urbanized areas with populations of less than 200,000 in accordance with subsection (j); and
-
-&emsp;(2) any amount not apportioned under paragraph (1) shall be apportioned to urbanized areas in accordance with subsections (a) through (c).
-
-(j)
 
 Small Transit Intensive Cities Formula.—
 
@@ -140,7 +144,7 @@ Apportionment.—
 
 &emsp;&emsp;(A)
 
-Apportionment formula.—The amount to be apportioned under subsection (i)(1) shall be apportioned among eligible areas in the ratio that—
+Apportionment formula.—The amount to be apportioned under subsection (h)(3) shall be apportioned among eligible areas in the ratio that—
 
 &emsp;&emsp;&emsp;(i) the number of performance categories for which each eligible area meets or exceeds the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999; bears to
 
@@ -150,37 +154,23 @@ Apportionment formula.—The amount to be apportioned under subsection (i)(1) sh
 
 Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
-(k)
+(j)
 
-Study on Incentives in Formula Programs.—
+Apportionment Formula.—The amounts apportioned under subsection (h)(2) shall be apportioned among urbanized areas as follows:
 
-&emsp;(1)
+&emsp;(1) 75 percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of 200,000 or more in the ratio that—
 
-Study.—The Secretary shall conduct a study to assess the feasibility and appropriateness of developing and implementing an incentive funding system under sections 5307 and 5311 for operators of public transportation.
+&emsp;&emsp;(A) the number of eligible low-income individuals in each such urbanized area; bears to
 
-&emsp;(2)
+&emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-Report.—
+&emsp;(2) 25 percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of less than 200,000 in the ratio that—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) the number of eligible low-income individuals in each such urbanized area; bears to
 
-In general.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit a report on the results of the study conducted under paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-&emsp;&emsp;(B)
-
-Contents.—The report submitted under subparagraph (A) shall include—
-
-&emsp;&emsp;&emsp;(i) an analysis of the availability of appropriate measures to be used as a basis for the distribution of incentive payments;
-
-&emsp;&emsp;&emsp;(ii) the optimal number and size of any incentive programs;
-
-&emsp;&emsp;&emsp;(iii) what types of systems should compete for various incentives;
-
-&emsp;&emsp;&emsp;(iv) how incentives should be distributed; and
-
-&emsp;&emsp;&emsp;(v) the likely effects of the incentive funding system.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(<i>l</i>), June 6, 2008, 122 Stat. 1611.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719.)
 
 Historical and Revision Notes
 
@@ -332,27 +322,25 @@ In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
 
 This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 840).
 
-#### References in Text
-
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (k)(2)(A), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–244, §201(<i>l</i>)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to apportionment of appropriations for formula grants and consisted of subsecs. (a) to (k).
 
-Subsec. (a)(2). Pub. L. 110–244, §201(<i>l</i>)(2), amended Pub. L. 109–59, §3034(d)(2). See 2005 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–244, §201(l)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
 
-Subsec. (c). Pub. L. 110–244, §201(<i>l</i>)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+Subsec. (a)(2). Pub. L. 110–244, §201(l)(2), amended Pub. L. 109–59, §3034(d)(2). See 2005 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 110–244, §201(<i>l</i>)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
+Subsec. (c). Pub. L. 110–244, §201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
 
-Subsec. (k). Pub. L. 110–244, §201(<i>l</i>)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+Subsec. (d)(1). Pub. L. 110–244, §201(l)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
+
+Subsec. (k). Pub. L. 110–244, §201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by Pub. L. 109–59, §3034(a)(4). See below.
 
 Pub. L. 109–59, §3034(a)(4), substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under section 5338(a) of this title” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–59, §3034(d)(2), as amended by Pub. L. 110–244, §201(<i>l</i>)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
+Subsec. (a)(2). Pub. L. 109–59, §3034(d)(2), as amended by Pub. L. 110–244, §201(l)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
 
 Subsec. (b)(1). Pub. L. 109–59, §3034(d)(3), inserted “and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations” before period at end.
 
@@ -390,9 +378,13 @@ Subsec. (e)(1). Pub. L. 105–178, §3029(b)(11), substituted “subsections (a)
 
 Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
 #### Effective Date of 2008 Amendment
 
-Amendment by section 201(<i>l</i>)(2) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+Amendment by section 201(l)(2) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 
@@ -400,13 +392,5 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Urbanized Area Formula Study
 
-Pub. L. 105–178, title III, §3033, June 9, 1998, 112 Stat. 386, provided that:
-
-“(a)
-
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine whether the formula for apportioning funds to urbanized areas under section 5336 of title 49, United States Code, accurately reflects the transit needs of the urbanized areas and, if not, whether any changes should be made either to the formula or through some other mechanism to reflect the fact that some urbanized areas with a population between 50,000 and 200,000 have transit systems that carry more passengers per mile or hour than the average of those transit systems in urbanized areas with a population over 200,000.
-
-“(b)
-
-Report.—Not later than December 31, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the results of the study conducted under this section, together with any proposed changes to the method for apportioning funds to urbanized areas with a population over 50,000.”
+Pub. L. 105–178, title III, §3033, June 9, 1998, 112 Stat. 386, required the Secretary of Transportation to conduct a study on the success of the formula used to apportion funds to urbanized areas and to submit a report no later than Dec. 31, 1999.
 

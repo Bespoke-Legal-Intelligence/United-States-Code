@@ -158,7 +158,7 @@ Adjustment Assistance for Firms.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] duringthe qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
+In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
 
 &emsp;“(2)
 

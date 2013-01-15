@@ -20,7 +20,7 @@ In carrying out this section, the Secretary may ensure that any data on patients
 
 #### (1) Annual report
 
-&emsp;Not later than 18 months after October 8, 2008, and annually thereafter, the Director ofthe Centers for Disease Control and Prevention shall submit to the appropriate committees of the Congress a report—
+&emsp;Not later than 18 months after October 8, 2008, and annually thereafter, the Director of the Centers for Disease Control and Prevention shall submit to the appropriate committees of the Congress a report—
 
 &emsp;&emsp;(A) concerning the activities carried out by MD STARnet site <sup>1</sup> funded under this section during the year for which the report is prepared;
 
@@ -36,7 +36,7 @@ In carrying out this section, the Secretary may ensure that any data on patients
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
+(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828;amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
 
 #### Amendments
 

@@ -38,7 +38,7 @@ The notice requirements of this chapter and sections 3410 and 3412 of this title
 
 (2) When financial records are sought pursuant to this subsection, the Government authority shall submit to the financial institution the certificate required by section 3403(b) of this title. For access pursuant to paragraph (1)(B), no further certification shall be required for subsequent access by the certifying Government authority during the term of the loan, loan guaranty, or loan insurance agreement.
 
-(3) After the effective date of this chapter, whenever a customer applies for participation in a Government loan, loan guaranty, or loan insurance program, the Government authority administering such program shall give the customer written notice of the authority's access rights under this subsection. No further notification shall be required for subsequent access by that authority during the term of the loan, loan guaranty, or loan insurance agreement.
+(3) After the effective date of this chapter, whenever a customer applies for participation in a Government loan, loan guaranty, or loan insurance program, the Government authority administering such program shall give the customer written notice of the authority's access rights under this subsection. No further notification shall be required for subsequent access bythat authority during the term of the loan, loan guaranty, or loan insurance agreement.
 
 (4) Financial records obtained pursuant to this subsection may be used only for the purpose for which they were originally obtained, and may be transferred to another agency or department only when the transfer is to facilitate a lawful proceeding, investigation, examination, or inspection directed at a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer), or at a legal entity which is not a customer, except that—
 
@@ -70,7 +70,7 @@ This chapter shall not apply when financial records are sought by the Government
 
 (3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing information contained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
 
-#### (<i>l</i>) Crimes against financial institutions by insiders
+#### (l) Crimes against financial institutions by insiders
 
 Nothing in this chapter shall apply when any financial institution or supervisory agency provides any financial record of any officer, director, employee, or controlling shareholder (within the meaning of subparagraph (A) or (B) of section 1841(a)(2) of this title or subparagraph (A) or (B) of section 1730a(a)(2) of this title) of such institution, or of any major borrower from such institution who there is reason to believe may be acting in concert with any such officer, director, employee, or controlling shareholder, to the Attorney General of the United States, to a State law enforcement agency, or, in the case of a possible violation of subchapter II of chapter 53 of title 31, to the Secretary of the Treasury if there is reason to believe that such record is relevant to a possible violation by such person of—
 
@@ -78,7 +78,7 @@ Nothing in this chapter shall apply when any financial institution or supervisor
 
 &emsp;(2) any provision of subchapter II of chapter 53 of title 31 or of section 1956 or 1957 of title 18.
 
-> No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.
+> No supervisory agency which transfers any such record under this subsection shall be deemed tohave waived any privilege applicable to that record under law.
 
 #### (m) Disclosure to, or examination by, employees or agents of Board of Governors of Federal Reserve System or Federal Reserve Bank
 
@@ -88,7 +88,7 @@ This chapter shall not apply to the examination by or disclosure to employees or
 
 This chapter shall not apply to the examination by or disclosure to the Resolution Trust Corporation or its employees or agents of financial records or information in the exercise of its conservatorship, receivership, or liquidation functions with respect to a financial institution.
 
-#### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Agency or Federal home loan banks
+#### (o) Disclosure to, or examination by, Federal Housing Finance Agency or Federal home loan banks
 
 This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
 
@@ -106,7 +106,7 @@ Nothing in this chapter shall apply to the disclosure of any financial record or
 
 Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (k). Pub. L. 110–246, §14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
 
-Subsec. (<i>o</i>). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency's” for “Federal Housing Finance Board's”.
+Subsec. (o). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency's” for “Federal Housing Finance Board's”.
 
 <b>2004</b>—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -142,15 +142,15 @@ Subsec. (<i>o</i>). Pub. L. 110–289 substituted “Federal Housing Finance Age
 
 <b>1991</b>—Subsec. (h)(1)(A), (4). Pub. L. 102–242, §411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
 
-Subsec. (<i>l</i>). Pub. L. 102–242, §411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
+Subsec. (l). Pub. L. 102–242, §411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
 
-<b>1990</b>—Subsec. (<i>l</i>)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
+<b>1990</b>—Subsec. (l)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–73, §942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 101–73, §942(2), added subsecs. (m) to (<i>o</i>).
+Subsecs. (m) to (o). Pub. L. 101–73, §942(2), added subsecs. (m) to (o).
 
-<b>1988</b>—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l</i>).
+<b>1988</b>—Subsec. (l). Pub. L. 100–690 added subsec. (l).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

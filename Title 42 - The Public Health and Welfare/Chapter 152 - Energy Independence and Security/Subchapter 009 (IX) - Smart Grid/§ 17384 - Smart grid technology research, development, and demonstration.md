@@ -62,7 +62,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (E) Availability of data
 
-&emsp;&emsp;The Secretary shall establish and maintain a smart grid information clearinghouse in a timely manner which will make data from smart grid demonstration projects and other sources available to the public. As a condition of receiving financial assistance under this subsection, a utility or other participant in a smart grid demonstration project shall provide such information as the Secretary may require to become available through the smart grid information clearinghouse in the form and within the timeframes as directed by the Secretary. The Secretary shall assure that business proprietary information and individual customer information is not included in the information made available through the clearinghouse.
+&emsp;&emsp;The Secretary shall establish and maintain a smart grid information clearinghouse in a timely manner which will make data from smart grid demonstration projects and other sources available to the public. As a condition of receiving financial assistanceunder this subsection, a utility or other participant in a smart grid demonstration project shall provide such information as the Secretary may require to become available through the smart grid information clearinghouse in the form and within the timeframes as directed by the Secretary. The Secretary shall assure that business proprietary information and individual customer information is not included in the information made available through the clearinghouse.
 
 #### (F) Open protocols and standards
 

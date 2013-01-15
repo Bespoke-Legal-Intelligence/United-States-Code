@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions
 
-The Secretary shall include in any grant made or contract entered into under this chapter suchterms and conditions as the Secretary considers necessary or appropriate to ensure that the objectives of such grant or contract are achieved.
+The Secretary shall include in any grant made or contract entered into under this chapter such terms and conditions as the Secretary considers necessary or appropriate to ensure that the objectives of such grant or contract are achieved.
 
 #### (b) Periodic review
 
@@ -80,7 +80,7 @@ In subsec. (d)(3), “sections 3131 and 3133 of title 40” substituted for “t
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
+Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 1 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

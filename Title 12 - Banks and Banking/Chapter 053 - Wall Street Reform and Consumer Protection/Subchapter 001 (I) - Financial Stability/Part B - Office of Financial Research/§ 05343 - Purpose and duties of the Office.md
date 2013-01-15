@@ -46,7 +46,7 @@ The Office may—
 
 #### (1) In general
 
-&emsp;The Director of the Office shall report to and testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives annually on the activities of the Office, including the work of theData Center and the Research and Analysis Center, and the assessment of the Office of significant financial market developments and potential emerging threats to the financial stability of the United States.
+&emsp;The Director of the Office shall report to and testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives annually on the activities of the Office, including the work of the Data Center and the Research and Analysis Center, and the assessment of the Office of significant financial market developments and potential emerging threats to the financial stability of the United States.
 
 #### (2) No prior review
 

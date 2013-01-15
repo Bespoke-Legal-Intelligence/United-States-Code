@@ -62,7 +62,7 @@ For purposes of this section, the term “appropriate consultation” means, wit
 
 (2) Such training shall include country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country between the nature of and treatment of various religious practices and believers.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–13, div. B, title I, §101(g)(2), May 11, 2005, 119 Stat. 305.)
+(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(l)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–13, div. B, title I, §101(g)(2), May 11, 2005, 119 Stat. 305.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Sta
 
 <b>1990</b>—Subsec. (a)(4). Pub. L. 101–649, §104(b), added par. (4).
 
-Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and\(32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
+Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and (32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–525 substituted “otherwise” for “otherwide”.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322 of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Pub. L. 102–232, title III, §307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322 of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
@@ -122,7 +122,7 @@ For delegation of Congressional reporting functions of President under subsec. (
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1,June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 #### “SEC. 1241. SHORT TITLE.
 
@@ -330,7 +330,7 @@ Designation of Additional Senior Coordinators.—The Secretary of State shall de
 
 “(a)
 
-Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
+Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of thisAct \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
 
 &emsp;“(1) expediting the processing of Iraqi refugees for resettlement, including through temporary expansion of the Refugee Corps of United States Citizenship and Immigration Services;
 
@@ -628,7 +628,7 @@ Establishment of Categories.—
 
 &emsp;“(1) For purposes of subsection (a), the Attorney General, in consultation with the Secretary of State and the Coordinator for Refugee Affairs, shall establish—
 
-&emsp;&emsp;“(A) one or more categories of aliens who are or were nationals and residents of an independentstate of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,\[;\]
+&emsp;&emsp;“(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,\[;\]
 
 &emsp;&emsp;“(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
 
@@ -648,7 +648,7 @@ Written Reasons for Denials of Refugee Status.—Each decision to deny an applic
 
 “(d)
 
-Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of the enactment of this Act \[Nov. 21, 1989\]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section.
+Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of theenactment of this Act \[Nov. 21, 1989\]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section.
 
 “(e)
 
@@ -676,11 +676,13 @@ Pub. L. 97–113, title VII, §731, Dec. 29, 1981, 95 Stat. 1557, provided that:
 
 #### Time for Determinations by President for Fiscal Year 1980
 
-Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 207(a) of the Immigration and Nationality Act (as added by section 201(b) of this title \[subsec. (a) of this section\], the President may make the determination described in the first sentence of such section not later than forty-five days after the date of the enactment of this Act \[Mar. 17, 1980\] for fiscal year 1980.”
+Pub. L. 96–212, title II, §204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided that: “Notwithstanding section 207(a) of the Immigration and Nationality Act (as added by section 201(b) of this title \[subsec. (a) of this section\], the President may make the determination described in the first sentence of such section not later than forty-five days after the date of the enactment of this Act \[Mar. 17, 1980\] for fiscal year 1980.”
 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.
 
 Presidential Determination No. 2011–17, Sept. 30, 2011, 76 F.R. 62597.
 
@@ -752,7 +754,7 @@ Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 126
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, thefunctions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 
 1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
 

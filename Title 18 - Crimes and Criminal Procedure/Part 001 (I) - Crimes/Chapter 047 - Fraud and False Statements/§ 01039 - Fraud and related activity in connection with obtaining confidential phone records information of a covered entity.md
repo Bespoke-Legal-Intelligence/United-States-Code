@@ -26,13 +26,13 @@ Prohibition on Sale or Transfer of Confidential Phone Records Information.—
 
 Prohibition on Purchase or Receipt of Confidential Phone Records Information.—
 
-&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreigncommerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, or knowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
+&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreign commerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, or knowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 &emsp;(2) For purposes of this subsection, the exceptions specified in section 222(d) of the Communications Act of 1934 shall apply for the use of confidential phone records information by any covered entity, as defined in subsection (h).
 
 (d)
 
-Enhanced Penalties for Aggravated Cases.—Whoever violates, or attempts to violate, subsection (a), (b), or (c) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000, or more than 50 customers of a covered entity, in a 12-month period shall, in addition to the penalties provided for in such subsection, be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of this title, imprisoned for not more than 5 years, or both.
+Enhanced Penalties for Aggravated Cases.—Whoever violates, or attempts to violate, subsection (a), (b), or (c) while violating another law of the United States or as part of apattern of any illegal activity involving more than $100,000, or more than 50 customers of a covered entity, in a 12-month period shall, in addition to the penalties provided for in such subsection, be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of this title, imprisoned for not more than 5 years, or both.
 
 (e)
 
@@ -84,7 +84,7 @@ enabled voice service.—The term “IP-enabled voice service” means the provi
 
 #### References in Text
 
-Section 222(d) of the Communications Act of 1934, referred to in subsecs. (b)(2) and (c)(2), is classified to section 222(d) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 222(d) of the Communications Act of 1934, referred to in subsecs. (b)(2) and (c)(2), is classified to section 222(d) of Title 47, Telecommunications.
 
 #### Findings
 

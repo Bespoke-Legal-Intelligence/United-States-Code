@@ -48,11 +48,11 @@ Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 #### Report and Study Requirements
 
-Section 1092(b) of Pub. L. 102–484, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning the desirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
+Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning the desirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
 
 #### Coordination of Programs
 
-Section 1093 of Pub. L. 102–484, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), title IV, §402(a)(2), Sept. 21, 1993, 107 Stat. 846, 918, provided that:
+Pub. L. 102–484, div. A, title X, §1093, Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), title IV, §402(a)(2), Sept. 21, 1993, 107 Stat. 846, 918, provided that:
 
 “(a)
 
@@ -64,7 +64,7 @@ Objectives.—The officials referred to in subsection (a) shall ensure that—
 
 &emsp;“(1) the programs referred to in subsection (a) are conducted in such a manner in relationship to each other that the public benefit of those programs is maximized;
 
-&emsp;“(2) to the maximum extent appropriate to meet the needs of program participants, persons who complete participation in the National Guard Youth Opportunities Program and are eligible and apply to participate in the Civilian Community Corps under the Civilian Community Corps Demonstration Program are accepted for participation in that Program; and
+&emsp;“(2) to the maximum extent appropriate to meet the needs of program participants, persons who complete participation in the National Guard Youth Opportunities Program and are eligible and apply to participate in the Civilian Community Corps underthe Civilian Community Corps Demonstration Program are accepted for participation in that Program; and
 
 &emsp;“(3) the programs referred to in subsection (a) are conducted simultaneously in competition with each other in the same immediate area of the United States only when the population of eligible participants in that area is sufficient to justify the simultaneous conduct of such programs in that area.”
 

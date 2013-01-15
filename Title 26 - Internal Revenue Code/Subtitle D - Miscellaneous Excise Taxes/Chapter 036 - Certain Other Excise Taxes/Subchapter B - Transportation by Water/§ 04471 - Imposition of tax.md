@@ -20,7 +20,7 @@ A prior section 4471 was contained in subchapter C of this chapter prior to repe
 
 #### Effective Date
 
-Section 7504(c) of Pub. L. 101–239 provided that:
+Pub. L. 101–239, title VII, §7504(c), Dec. 19, 1989, 103 Stat. 2363, provided that:
 
 “(1)
 

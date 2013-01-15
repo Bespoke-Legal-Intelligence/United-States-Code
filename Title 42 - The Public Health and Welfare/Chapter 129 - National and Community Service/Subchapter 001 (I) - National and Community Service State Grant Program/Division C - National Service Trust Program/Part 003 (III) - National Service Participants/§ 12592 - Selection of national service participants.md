@@ -38,7 +38,7 @@ The Corporation and each State Commission shall establish a system to recruit in
 
 #### (3) Assignment
 
-&emsp;At the request of a program that receives assistance under the national service laws, theCorporation may assign an individual who receives leadership training under paragraph (1) to work with the program in a leadership position and carry out assignments not otherwise performed by regular participants. An individual assigned to a program shall be considered to be a participant of the program.
+&emsp;At the request of a program that receives assistance under the national service laws, the Corporation may assign an individual who receives leadership training under paragraph (1) to work with the program in a leadership position and carry out assignments not otherwise performed by regular participants. An individual assigned to a program shall be considered to be a participant of the program.
 
 #### (f) Evaluation of service
 

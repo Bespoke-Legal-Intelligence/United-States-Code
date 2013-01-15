@@ -54,7 +54,7 @@ For purposes of this section, the term “adolescent health”, with respect to 
 
 #### Prior Provisions
 
-A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, §1708, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended July 10, 1979, Pub. L. 96–32, §6(<i>l</i>), 93 Stat. 84, related to project grants for physical fitness improvement and research projects,prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, §1708, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended July 10, 1979, Pub. L. 96–32, §6(l), 93 Stat. 84, related to project grants for physical fitness improvement and research projects, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Change of Name
 

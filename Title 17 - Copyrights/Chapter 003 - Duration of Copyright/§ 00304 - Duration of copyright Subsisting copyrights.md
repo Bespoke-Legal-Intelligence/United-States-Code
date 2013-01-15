@@ -140,7 +140,7 @@ Section 304(c)(6)(E) provides that, unless and until termination is effected und
 
 #### References in Text
 
-The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d), is title I of Pub. L. 105–298, Oct. 27, 1998, 112 Stat. 2827. The effective date of the Act is the date of enactment of Pub. L. 105–298, which was approved Oct. 27, 1998. For complete classification of this Act to the Code, see Short Title of 1998 Amendments note set out under section 101 of this title and Tables.
+The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d), is title I of Pub. L. 105–298, Oct. 27, 1998, 112 Stat. 2827. The effective date of the Act is the date of enactment of Pub. L. 105–298, which was approved Oct. 27, 1998. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
 
@@ -180,11 +180,11 @@ Subsec. (b) of this section effective Oct. 19, 1976, see section 102 of Pub. L. 
 
 #### Legal Effect of Renewal of Copyright Unchanged
 
-Section 102(c) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, §102(d)(2)(A), Oct. 27, 1998, 112 Stat. 2828, provided that: “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code\[,\] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act \[Oct. 27, 1998\], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
+Pub. L. 102–307, title I, §102(c), June 26, 1992, 106 Stat. 266, as amended by Pub. L. 105–298, title I, §102(d)(2)(A), Oct. 27, 1998, 112 Stat. 2828, provided that: “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code\[,\] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act \[Oct. 27, 1998\], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
 
 #### Ad Interim Copyrights Subsisting or Capable of Being Secured Under Predecessor Provisions
 
-Section 107 of Pub. L. 94–553 provided that: “In the case of any work in which an ad interim copyright issubsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by section 304 of title 17 as amended by the first section of this Act \[this section\].”
+Pub. L. 94–553, title I, §107, Oct. 19, 1976, 90 Stat. 2600, provided that: “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by section 304 of title 17 as amended by the first section of this Act \[this section\].”
 
 #### Copyright Granted to “Science and Health with Key to the Scriptures” for Term of 75 Years
 

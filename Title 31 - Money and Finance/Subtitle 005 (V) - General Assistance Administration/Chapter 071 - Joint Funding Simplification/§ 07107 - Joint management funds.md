@@ -10,7 +10,7 @@
 
 &emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount to participating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
 
-(c) For each project financed through an account in a joint management fund, a recipient ofan amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
+(c) For each project financed through an account in a joint management fund, a recipient of an amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
 
 &emsp;(1) the amount and disposition by the recipient of assistance received under each program and appropriation;
 

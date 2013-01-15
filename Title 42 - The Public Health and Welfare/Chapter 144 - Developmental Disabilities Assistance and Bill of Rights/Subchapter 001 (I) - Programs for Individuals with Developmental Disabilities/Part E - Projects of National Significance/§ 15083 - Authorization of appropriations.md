@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (1) Grants, contracts, and agreements
 
-&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) of this section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
+&emsp;Except as provided in paragraph (2), the amount appropriated under subsection (a) ofthis section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under section 15082 of this title.
 
 #### (2) Administrative costs
 

@@ -114,7 +114,7 @@
 
 #### (ii) Policies
 
-&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. Thepolicies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
+&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
 
 #### (iii) Confidentiality and disclosure
 
@@ -210,7 +210,7 @@ The State agency shall—
 
 &emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility; and
 
-&emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), andto identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
+&emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), and to identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
 
 &emsp;&emsp;(A) the methods by which the State agency will examine individuals, and immediate family members, to identify the conflicts; and
 
@@ -226,7 +226,7 @@ The State agency shall ensure that—
 
 &emsp;&emsp;(ii) assist the Ombudsman and representatives of the Office in the performance of the official duties of the Ombudsman and representatives; and
 
-&emsp;(B) legal representation is provided to any representative of the Office against whom suit or other legal action is brought or threatened to be brought in connection with the performance of the official duties of the Ombudsman or such a representative; and
+&emsp;(B) legal representation is provided to any representative of the Office against whom suitor other legal action is brought or threatened to be brought in connection with the performance of the official duties of the Ombudsman or such a representative; and
 
 &emsp;(2) the Office pursues administrative, legal, and other appropriate remedies on behalf of residents.
 
@@ -310,7 +310,7 @@ The State shall—
 
 &emsp;(3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
-(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293.)
+(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat.1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293.)
 
 #### References in Text
 

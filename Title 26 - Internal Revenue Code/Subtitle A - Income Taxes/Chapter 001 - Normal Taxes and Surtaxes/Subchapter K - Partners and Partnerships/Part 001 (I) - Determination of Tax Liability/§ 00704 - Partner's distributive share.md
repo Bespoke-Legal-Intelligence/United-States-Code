@@ -56,13 +56,13 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (d) Limitation on allowance of losses
 
-A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of suchpartner's interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+A partner's distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner's interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
 
 #### (e) Family partnerships
 
 #### (1) Recognition of interest created by purchase or gift
 
-&emsp;A person shall be recognized as a partner for purposes of this subtitle if he owns a capital interest in a partnership in which capital is a material income-producing factor, whether or not such interest was derived by purchase or gift from any other person.
+&emsp;A person shall be recognized as a partner for purposes of this subtitle if he owns a capital interest in a partnership in which capital is a material income-producing factor, whether ornot such interest was derived by purchase or gift from any other person.
 
 #### (2) Distributive share of donee includible in gross income
 
@@ -108,7 +108,7 @@ Pub. L. 108–357, title VIII, §833(d)(1), Oct. 22, 2004, 118 Stat. 1592, provi
 
 #### Effective Date of 1997 Amendment
 
-Section 1063(b) of Pub. L. 105–34 provided that:
+Pub. L. 105–34, title X, §1063(b), Aug. 5, 1997, 111 Stat. 947, provided that:
 
 “(1)
 
@@ -120,15 +120,15 @@ Binding contracts.—The amendment made by subsection (a) shall not apply to any
 
 #### Effective Date of 1992 Amendment
 
-Section 1937(c) of Pub. L. 102–486 provided that: “The amendments made by this section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992.”
+Pub. L. 102–486, title XIX, §1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: “The amendments made by this section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992.”
 
 #### Effective Date of 1989 Amendment
 
-Section 7642(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date.”
+Pub. L. 101–239, title VII, §7642(b), Dec. 19, 1989, 103 Stat. 2381, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date.”
 
 #### Effective Date of 1984 Amendment
 
-Section 71(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 613A and 743 of this title\] shall apply with respect to property contributed to the partnership after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §71(c), July 18, 1984, 98 Stat. 589, provided that: “The amendments made by this section \[amending this section and sections 613A and 743 of this title\] shall apply with respect to property contributed to the partnership after March 31, 1984, in taxable years ending after such date.”
 
 #### Effective Date of 1978 Amendment
 
@@ -142,5 +142,5 @@ Amendment by section 213(e) of Pub. L. 94–455 applicable to liabilities incurr
 
 #### Transitional Rule for Limitation on Allowance of Losses
 
-Section 201(b)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Nov. 6, 1978\]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 \[set out as a note under section 709 of this title\].”
+Pub. L. 95–600, title II, §201(b)(2), Nov. 6, 1978, 92 Stat. 2816, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Nov. 6, 1978\]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 \[set out as a note under section 709 of this title\].”
 

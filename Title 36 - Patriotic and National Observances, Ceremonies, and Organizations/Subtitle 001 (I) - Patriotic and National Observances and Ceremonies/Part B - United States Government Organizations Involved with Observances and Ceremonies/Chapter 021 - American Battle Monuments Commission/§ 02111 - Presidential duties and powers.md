@@ -62,7 +62,7 @@ By virtue of the authority vested in me by section 12 of the act of March 4, 192
 
 #### Ex. Ord. No. 10057. Transfer of Certain Functions Pertaining to United States Military Cemeteries
 
-Ex. Ord. No. 10057, May 14, 1949, 14 F.R. 2585, as amended Ex. Ord. 10087, Dec. 3, 1949, 14 F.R. 7287, provided:
+Ex. Ord. No. 10057, May 14, 1949, 14 F.R. 2585, as amended by Ex. Ord. No. 10087, Dec. 3, 1949, 14 F.R. 7287, provided:
 
 By virtue of the authority vested in me by section 12 of the act of March 4, 1923, 42 Stat. 1509, as amended by the act of June 26, 1946, 60 Stat. 318 \[now subsec. (b) of this section\], and as President of the United States, it is hereby ordered as follows:
 
@@ -78,7 +78,7 @@ Ex. Ord. No. 12115, Jan. 19, 1979, 44 F.R. 4645, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 10 of the Act of March 4, 1923 (42 Stat. 1509), as amended (36 U.S.C. 132) \[now subsec. (b) of this section\], and to implement the intent of the United States Senate (124 Cong. Rec. S3857 of March 16, 1978) as set forth by Reservations (1) and (3) to the Resolution of Ratification of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal, it is hereby ordered as follows:
 
-1–101. The Secretary of State shall take all appropriate steps to complete, prior to the date of entry intoforce of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal, hereinafter referred to as the Neutrality Treaty, the negotiations which have begun with the Republic of Panama for an agreement under which the United States of America would, upon the date of entry into force of such agreement and thereafter, administer as a permanent American cemetery such part of Corozal Cemetery as encompasses the remains of citizens of the United States of America.
+1–101. The Secretary of State shall take all appropriate steps to complete, prior to the date of entry into force of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal, hereinafter referred to as the Neutrality Treaty, the negotiations which have begun with the Republic of Panama for an agreement under which the United States of America would, upon the date of entry into force of such agreement and thereafter, administer as a permanent American cemetery such part of Corozal Cemetery as encompasses the remains of citizens of the United States of America.
 
 1–102. Subject to the conclusion of the agreement referred to in Section 1–101 of this Order, the American Battle Monuments Commission shall administer that part of Corozal Cemetery which encompasses the remains of citizens of the United States of America, in accordance with the terms of the agreement with the Republic of Panama.
 

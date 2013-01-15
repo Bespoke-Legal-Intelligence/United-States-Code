@@ -34,7 +34,7 @@ In this chapter:
 
 #### (5) Consumer product
 
-&emsp;The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary householdor residence, a school, in recreation, or otherwise; but such term does not include—
+&emsp;The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 
@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;&emsp;(D) pesticides (as defined by the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]),
 
-&emsp;&emsp;(E) any article which, if sold by the manufacturer, producer, or importer, would be subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221, or any other provision of such Code), or any component of any such article,
+&emsp;&emsp;(E) any article which, if sold by the manufacturer, producer, or importer, would be subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section4182 or 4221, or any other provision of such Code), or any component of any such article,
 
 &emsp;&emsp;(F) aircraft, aircraft engines, propellers, or appliances (as defined in section 40102(a) of title 49),
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 110–314, §235(b)(5), (c)(1), inserted heading and insert
 
 #### Effective Date of 1981 Amendment
 
-Section 1215 of Pub. L. 97–35 provided that:
+Pub. L. 97–35, title XII, §1215, Aug. 13, 1981, 95 Stat. 724, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under section 2051 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 

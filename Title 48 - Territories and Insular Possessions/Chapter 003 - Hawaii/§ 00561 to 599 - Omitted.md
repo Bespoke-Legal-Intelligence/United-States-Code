@@ -36,13 +36,13 @@ Section 562j, act July 10, 1937, ch. 483, §3, 50 Stat. 507, ratified and confir
 
 Section 562k, act July 18, 1947, ch. 265, 61 Stat. 381, permitted legislature to authorize issue of additional general obligation bonds by city and county of Honolulu for construction of a sewer system and ratified actions taken in 1947 session of legislature pertaining to issuance of sewer system bonds.
 
-Section 562<i>l</i>, act July 15, 1947, ch. 250, 61 Stat. 326, authorized and empowered Territory to issue public improvement bonds during 1947–1951 and provided for maturity of such bonds and their issuance without presidential approval.
+Section 562l, act July 15, 1947, ch. 250, 61 Stat. 326, authorized and empowered Territory to issue public improvement bonds during 1947–1951 and provided for maturity of such bonds and their issuance without presidential approval.
 
 Section 562m, act Oct. 26, 1949, ch. 754, §§1–3, 63 Stat. 926, authorized and empowered Territory to issue public improvement bonds during 1949–1955, and provided for their maturity and issuance without presidential approval.
 
 Section 562n, acts Aug. 24, 1954, ch. 889, §§1–3, 68 Stat. 782; July 14, 1956, ch. 606, §1, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §1, 72 Stat. 685, empowered legislature to authorize issuance of general obligation bonds for veterans’ mortgages and provided for their limitation, maturity, and ratification.
 
-Section 562<i>o</i>, acts Aug. 24, 1954, ch. 892, §§1, 3, 4, 68 Stat. 785; July 14, 1956, ch. 606, §2, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §2, 72 Stat. 685, ratified and confirmed issuance of public improvement bonds issued during 1954 to 1959 and limited maturity date of such bonds.
+Section 562o, acts Aug. 24, 1954, ch. 892, §§1, 3, 4, 68 Stat. 785; July 14, 1956, ch. 606, §2, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §2, 72 Stat. 685, ratified and confirmed issuance of public improvement bonds issued during 1954 to 1959 and limited maturity date of such bonds.
 
 Section 562p, act Aug. 24, 1954, ch. 896, §§1–3, 68 Stat. 787, empowered legislature to authorize city and county of Honolulu to issue public improvement bonds for construction of sewerage systems in Honolulu.
 

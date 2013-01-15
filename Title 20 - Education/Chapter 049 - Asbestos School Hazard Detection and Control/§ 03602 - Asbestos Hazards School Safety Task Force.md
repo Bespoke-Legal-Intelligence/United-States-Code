@@ -22,7 +22,7 @@
 
 (2) The Secretary shall designate a chairman of the Task Force from among its members.
 
-(3) Members shall be appointed for the life of the Task Force. Any vacancy in the Task Force shall be filled in the same manner in which the original appointment was made.
+(3) Members shall be appointed for the life of the Task Force. Any vacancy in the Task Forceshall be filled in the same manner in which the original appointment was made.
 
 #### (b) Meetings; quorum; hearings
 

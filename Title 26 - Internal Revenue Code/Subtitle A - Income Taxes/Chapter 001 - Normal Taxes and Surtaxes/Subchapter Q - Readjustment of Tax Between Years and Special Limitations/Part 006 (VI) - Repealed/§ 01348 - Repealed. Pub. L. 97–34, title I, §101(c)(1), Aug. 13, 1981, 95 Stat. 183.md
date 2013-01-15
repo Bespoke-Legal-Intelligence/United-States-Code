@@ -8,5 +8,5 @@ Repeal effective for taxable years beginning after Dec. 31, 1981, see section 10
 
 #### Transitional Rule in Case of Taxable Year Beginning Before Nov. 1, 1978, and Ending After Oct. 31, 1978
 
-Section 441(b)(2) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §104(a)(5)(A), Apr. 1, 1980, 94 Stat. 218, provided that in the case of a taxable year which began before Nov. 1, 1978, and ended after Oct. 31, 1978, the amount taken into account under subsec. (b)(2)(B) of section 1348 of this title by reason of section 57(a)(9) of this title be 50 percent of the lesser of the net capital gain for the taxable year or the net capital gain taking into account only gain or loss properly taken into account for the portion of the taxable year before Nov. 1, 1978.
+Pub. L. 95–600, title IV, §441(b)(2), Nov. 6, 1978, 92 Stat. 2878, as amended by Pub. L. 96–222, title I, §104(a)(5)(A), Apr. 1, 1980, 94 Stat. 218, provided that in the case of a taxable year which began before Nov. 1, 1978, and ended after Oct. 31, 1978, the amount taken into account under subsec. (b)(2)(B) of section 1348 of this title by reason of section 57(a)(9) of this title be 50 percent of the lesser of the net capital gain for the taxable year or the net capital gain taking into account only gain or loss properly taken into account for the portion of the taxable year before Nov. 1, 1978.
 

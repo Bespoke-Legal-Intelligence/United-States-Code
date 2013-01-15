@@ -24,7 +24,7 @@ Use of Fees.—A fee collected under this section—
 
 (e)
 
-Limitations.—Fees prescribed under subsection (a) of this section shall be sufficient to pay for the costs of activities described in subsection (d) of this section. However, the total amount collected for a fiscal year may not be more than 105 percent of the total amount of the appropriations made for the fiscal year for activities to be financed by the fees.
+Limitations.—Fees prescribed under subsection (a) of this section shall be sufficient to pay for the costs of activities described in subsection (d) of this section. However, the total amount collected for a fiscal year may not be more than 105 percent of the total amount of theappropriations made for the fiscal year for activities to be financed by the fees.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1328.)
 

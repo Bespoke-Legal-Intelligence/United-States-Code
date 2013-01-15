@@ -2,7 +2,7 @@
 
 #### (a) Federal responsibility; optional State priority
 
-The Secretary shall, as expeditiously as possible, provide the commodities made available under this chapter in such quantities as can be used without waste to State agencies designated by the Governor or other appropriate State official for distribution to eligible recipient agencies, except that the Secretary may provide such commodities directly to eligible recipient agencies and to private companies that process such commodities for eligible recipient agencies under sections <sup>1</sup> 7504 of this title. Notwithstanding any other provision of this chapter, in the distribution of commodities under this chapter, each State agency shall have the option to give priority to existing food bank networks and other organizations whose ongoing primary function is to facilitate the distribution of foodto low-income households, including food from sources other than the Department of Agriculture.
+The Secretary shall, as expeditiously as possible, provide the commodities made available under this chapter in such quantities as can be used without waste to State agencies designated by the Governor or other appropriate State official for distribution to eligible recipient agencies, except that the Secretary may provide such commodities directly to eligible recipient agencies and to private companies that process such commodities for eligible recipient agencies under sections <sup>1</sup> 7504 of this title. Notwithstanding any other provision of this chapter, in the distribution of commodities under this chapter, each State agency shall have the option to give priority to existing food bank networks and other organizations whose ongoing primary function is to facilitate the distribution of food to low-income households, including food from sources other than the Department of Agriculture.
 
 #### (b) Distribution by State agencies; priority; rural areas
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, 
 
 #### Effective Date
 
-Section 2 of Pub. L. 98–92 provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

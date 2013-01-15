@@ -38,7 +38,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (2) Eligibility
 
-&emsp;To be eligible for an award under this section, an institution of higher education shallsubmit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
+&emsp;To be eligible for an award under this section, an institution of higher education shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
 &emsp;&emsp;(A) the number of graduate students anticipated to participate in the research project and the level of support to be provided to each;
 
@@ -110,9 +110,9 @@ In this section:
 
 #### References in Text
 
-Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, no longer contains a subsec. (d) defining “computer system” or a subsec. (f).
+Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L.107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, no longer contains a subsec. (d) defining “computer system” or a subsec. (f).
 
-The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5,1971, 84 Stat. 1909, as amended, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, as amended, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 
 #### Prior Provisions
 

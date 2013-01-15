@@ -4,7 +4,7 @@
 
 The National Institute of Justice may conduct research on juvenile and adult offender reentry, including—
 
-&emsp;(1) a study identifying the number and characteristics of minor children who have had a parent incarcerated, and the likelihood of suchminor children becoming adversely involved in the criminal justice system some time in their lifetime;
+&emsp;(1) a study identifying the number and characteristics of minor children who have had a parent incarcerated, and the likelihood of such minor children becoming adversely involved in the criminal justice system some time in their lifetime;
 
 &emsp;(2) a study identifying a mechanism to compare rates of recidivism (including rearrest, violations of parole, probation, post-incarceration supervision, and reincarceration) among States; and
 

@@ -62,7 +62,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 &emsp;&emsp;(F) review the plan and budget not less than annually, and revise the plan and budget as appropriate;
 
-&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agenciesfor the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
+&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
 
 &emsp;&emsp;(H) promote coordination and collaboration among the agencies conducting or supporting minority health or other health disparities research.
 
@@ -130,7 +130,7 @@ In carrying out subsection (a) of this section, the Director of the Institute—
 
 The Director of the Institute, as the primary Federal officials <sup>5</sup> with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review and evaluate research and other activities conducted or supported by the Institutes and Centers of the National Institutes of Health.
 
-(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L.109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090.)
+(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090.)
 
 #### Codification
 
@@ -174,7 +174,7 @@ Subsecs. (i), (j). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Inst
 
 &emsp;“(4) contain such recommendations as the Director considers appropriate.”
 
-Subsec. (<i>l</i>). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (<i>l</i>). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
+Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
 
 #### Effective Date of 2007 Amendment
 
@@ -204,7 +204,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 &emsp;“(10) Federal agencies should work in concert with the private nonprofit sector to emphasize the recruitment and retention of qualified individuals from ethnic and gender groups that are currently underrepresented in the scientific, technological, and engineering workforce.
 
-&emsp;“(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness.These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities.”
+&emsp;“(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness. These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities.”
 
 #### Public Awareness and Dissemination of Information on Health Disparities
 
@@ -220,7 +220,7 @@ Public Awareness on Health Disparities.—The Secretary of Health and Human Serv
 
 “(b)
 
-Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act \[see Tables for classification\]. The plan shall—
+Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II,III, and IV of this Act \[see Tables for classification\]. The plan shall—
 
 &emsp;“(1) include the participation of all agencies of the Department of Health and Human Services that are responsible for serving populations included in the health disparities research; and
 

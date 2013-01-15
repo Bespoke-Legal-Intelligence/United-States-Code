@@ -6,7 +6,7 @@ In carrying out a water resources project that involves wetlands mitigation and 
 
 #### (2) Service area
 
-To the maximum extent practicable, the service area of the mitigation bank under paragraph\(1) shall be in the same watershed as the affected habitat.
+To the maximum extent practicable, the service area of the mitigation bank under paragraph (1) shall be in the same watershed as the affected habitat.
 
 #### (3) Responsibility for monitoring
 
@@ -22,7 +22,7 @@ To the maximum extent practicable, the service area of the mitigation bank under
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 

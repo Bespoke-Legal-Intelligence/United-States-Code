@@ -26,7 +26,7 @@
 
 &emsp;(B) the amount equal to 50 percent of such cost, if such higher amount is determined to be necessary by the Secretary (upon the recommendation of the Under Secretary for Health) to provide adequate care.
 
-(3) Nursing home care may not be furnished under this subsection at the expense of theUnited States for more than six months in the aggregate in connection with any one transfer except—
+(3) Nursing home care may not be furnished under this subsection at the expense of the United States for more than six months in the aggregate in connection with any one transfer except—
 
 &emsp;(A) in the case of a veteran—
 
@@ -44,9 +44,11 @@
 
 (c)(1)(A) In furnishing nursing home care, adult day health care, or other extended care services under this section, the Secretary may enter into agreements for furnishing such care or services with—
 
-&emsp;(i) in the case of the medicare program, a provider of services that has entered into a provider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)); and
+&emsp;(i) in the case of the medicare program, a provider of services that has entered into a provider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a));
 
-&emsp;(ii) in the case of the medicaid program, a provider participating under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.).
+&emsp;(ii) in the case of the medicaid program, a provider participating under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.); and
+
+&emsp;(iii) a provider of services eligible to enter into a contract pursuant to section 1745(a) of this title that is not otherwise described in clause (i) or (ii).
 
 (B) In entering into an agreement under subparagraph (A) with a provider of services described in clause (i) of that subparagraph or a provider described in clause (ii) of that subparagraph, the Secretary may use the procedures available for entering into provider agreements under section 1866(a) of the Social Security Act.
 
@@ -74,9 +76,9 @@
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
-(g) The Secretary may contract with appropriate entities to provide specialized residential care and rehabilitation services to a veteran ofOperation Enduring Freedom or Operation Iraqi Freedom who the Secretary determines suffers from a traumatic brain injury, has an accumulation of deficits in activities of daily living and instrumental activities of daily living, and because of these deficits, would otherwise require admission to a nursing home even though such care would generally exceed the veteran's nursing needs.
+(g) The Secretary may contract with appropriate entities to provide specialized residential care and rehabilitation services to a veteran of Operation Enduring Freedom or Operation Iraqi Freedom who the Secretary determines suffers from a traumatic brain injury, has an accumulation of deficits in activities of daily living and instrumental activities of daily living, and because of these deficits, would otherwise require admission to a nursing home even though such care would generally exceed the veteran's nursing needs.
 
-(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, §105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, §507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, §5(j)(1), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, §105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, §507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, §5(j)(1), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title I, §105(b), Aug. 6, 2012, 126 Stat. 1170.)
 
 #### References in Text
 
@@ -87,6 +89,8 @@ The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1
 Prior section 1720 was renumbered section 3520 of this title.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (c)(1)(A)(iii). Pub. L. 112–154 added cl. (iii).
 
 <b>2011</b>—Subsec. (c)(2). Pub. L. 111–350 substituted “section 6704(a) of title 41” for “section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1))”.
 
@@ -100,7 +104,7 @@ Subsec. (f)(1)(B). Pub. L. 108–170, §105(b), inserted “or agreement” afte
 
 &emsp;“(i) references to ‘nursing home care’ in subsections (a) through (d) of this section shall be deemed to be references to ‘adult day health care’; and
 
-&emsp;“(ii) a veteran who is eligible for medical services under paragraph (1), (2), or (3) of section 1710(a) of this title shall be deemed to be a veteran described in subsection (a)(1) of this section.”
+&emsp;“(ii) a veteran who is eligible for medical services under paragraph (1), (2), or (3) of section 1710(a) ofthis title shall be deemed to be a veteran described in subsection (a)(1) of this section.”
 
 <b>1997</b>—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
@@ -196,6 +200,18 @@ Subsec. (a)(2). Pub. L. 90–429 substituted “40 per centum” for “one-thir
 
 Subsec. (c). Pub. L. 90–612, §3, added subsec. (c).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–154, title I, §105(c), Aug. 6, 2012, 126 Stat. 1170, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 1745 of this title\] shall apply to care provided on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\].
+
+“(2)
+
+Maintenance of prior methodology of reimbursement for certain state homes.—In the case of a State home that provided nursing home care on the day before the date of the enactment of this Act for which the State home was eligible for pay under section 1745(a)(1) of title 38, United States Code, at the request of any State home, the Secretary shall offer to enter into a contract (or agreement described in such section) with such State home under such section, as amended by subsection (a), for payment for nursing home care provided by such State home under such section that reflects the overall methodology of reimbursement for such care that was in effect for such State home on the day before the date of the enactment of this Act.”
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 applicable to hospital care, nursing home care, and medical services furnished on or after July 1, 1986, see section 19011(f) of Pub. L. 99–272, set out as a note under section 1710 of this title.
@@ -210,7 +226,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Comparison Study Between Adult Day Health Care and Nursing Home Care
 
-Section 111(b), (c) of Pub. L. 100–322 directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
+Pub. L. 100–322, title I, §111(b), (c), May 20, 1988, 102 Stat. 499, directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
 
-Section 103(b), (c) of Pub. L. 98–160, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, §111(d), May 20, 1988, 102 Stat. 499.
+Pub. L. 98–160, title I, §103(b), (c), Nov. 21, 1983, 97 Stat. 996, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, §111(d), May 20, 1988, 102 Stat. 499.
 

@@ -96,7 +96,7 @@ Programming accountability.—USAID shall take all necessary steps to ensure tha
 
 &emsp;“(4)
 
-Termination of assistance programs.—Upon termination of assistance to a country under chapter1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
+Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
 &emsp;“(5)
 
@@ -106,7 +106,7 @@ Reporting requirement.—The USAID Administrator shall report on an annual basis
 
 Separate Accounts for Cash Transfers.—
 
-&emsp;“(1) If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
+&emsp;“(1) If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
 
 &emsp;“(2)
 

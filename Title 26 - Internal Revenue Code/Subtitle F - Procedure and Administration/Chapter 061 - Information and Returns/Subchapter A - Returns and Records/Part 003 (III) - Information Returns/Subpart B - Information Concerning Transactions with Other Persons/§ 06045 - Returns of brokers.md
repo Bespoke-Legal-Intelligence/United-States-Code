@@ -62,7 +62,7 @@ If any broker—
 
 #### (1) In general
 
-&emsp;In the case of a real estate transaction, the real estate reporting person shall file a return under subsection (a) and a statement undersubsection (b) with respect to such transaction.
+&emsp;In the case of a real estate transaction, the real estate reporting person shall file a return under subsection (a) and a statement under subsection (b) with respect to such transaction.
 
 #### (2) Real estate reporting person
 
@@ -114,7 +114,7 @@ If any broker—
 
 #### (1) In general
 
-&emsp;Any person engaged in a trade or business and making a payment (in the course of such trade or business) to which this subsection applies shall file a return under subsection (a) and a statement under subsection (b) with respect to such payment.
+&emsp;Any person engaged in a trade or business and making a payment (in the course of suchtrade or business) to which this subsection applies shall file a return under subsection (a) and a statement under subsection (b) with respect to such payment.
 
 #### (2) Application of subsection
 
@@ -148,7 +148,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of any security (other than any stock for which an average basis method is permissible under section 1012), in accordance with the first-in first-out method unless the customer notifies the broker by means of making an adequate identification of the stock sold or transferred, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any stock for which an average basis method is permissibleunder section 1012, in accordance with the broker's default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any stock for which an average basis method is permissible under section 1012, in accordance with the broker's default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
 
 #### (ii) Exception for wash sales
 
@@ -204,7 +204,7 @@ If any broker—
 
 #### (2) Lapse or closing transaction
 
-&emsp;In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
+&emsp;In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g)with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
 
 #### (3) Prospective application
 
@@ -214,7 +214,7 @@ If any broker—
 
 &emsp;For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(o)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
 
 #### Amendments
 
@@ -270,17 +270,17 @@ Amendment by Pub. L. 110–343 effective Jan. 1, 2011, except that amendment by 
 
 Amendment by section 312(c) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Section 1021(c) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 1997.”
+Pub. L. 105–34, title X, §1021(c), Aug. 5, 1997, 111 Stat. 923, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 1997.”
 
 #### Effective Date of 1996 Amendments
 
-Section 1704(<i>o</i>)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 1015(e)(2)(A) of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
+Pub. L. 104–188, title XVII, §1704(o)(2), Aug. 20, 1996, 110 Stat. 1886, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 1015(e)(2)(A) of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
 
 Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 1939(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transactions after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1939(b), Oct. 24, 1992, 106 Stat. 3034, provided that: “The amendment made bysubsection (a) \[amending this section\] shall apply to transactions after December 31, 1992.”
 
 #### Effective Date of 1989 Amendment
 
@@ -288,9 +288,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(e)(1)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 311(a)(1) of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 100–647, title I, §1015(e)(1)(B), Nov. 10, 1988, 102 Stat. 3570, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 311(a)(1) of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
 
-Section 1015(e)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1015(e)(2)(B), Nov. 10, 1988, 102 Stat. 3570, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 1015(e)(3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -300,17 +300,17 @@ Amendment by section 4005(g)(3) of Pub. L. 100–647 applicable to financing pro
 
 Amendment by section 1501(c)(4) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Section 1521(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 3406 of this title\] shall apply to real estate transactions closing after December 31, 1986.”
+Pub. L. 99–514, title XV, §1521(c), Oct. 22, 1986, 100 Stat. 2747, provided that: “The amendments made by this section \[amending this section and section 3406 of this title\] shall apply to real estate transactions closing after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 
-Section 150(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to payments received after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §150(b), July 18, 1984, 98 Stat. 690, provided that: “The amendment made by this section \[amending this section\] shall apply to payments received after December 31, 1984.”
 
 Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendment
 
-Section 311(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsection (a) \[amending this section and section 6678 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that—
+Pub. L. 97–248, title III, §311(c)(1), Sept. 3, 1982, 96 Stat. 601, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section and section 6678 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that—
 
 &emsp;“(A) regulations relating to reporting by commodities and securities brokers shall be issued under section 6045 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act) within 6 months after the date of the enactment of this Act \[Sept. 3, 1982\], and
 
@@ -318,5 +318,5 @@ Section 311(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct.
 
 #### No Penalty for Payments Before January 1, 1985
 
-Section 714(e)(2) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No penalty shall be imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985.”
+Pub. L. 98–369, div. A, title VII, §714(e)(2), July 18, 1984, 98 Stat. 961, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No penalty shall be imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985.”
 

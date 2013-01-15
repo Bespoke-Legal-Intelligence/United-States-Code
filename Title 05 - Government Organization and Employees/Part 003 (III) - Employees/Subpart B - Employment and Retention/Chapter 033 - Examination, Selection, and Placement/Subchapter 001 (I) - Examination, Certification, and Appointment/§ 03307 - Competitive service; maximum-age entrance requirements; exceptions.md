@@ -106,11 +106,11 @@ Minimum annuity amount.—The annuity of an individual serving as a customs and 
 
 &emsp;&emsp;“(i) to the extent that such service is subject to the Civil Service Retirement System, by applying section 8339(d) of title 5, United States Code, with respect to such service; and
 
-&emsp;&emsp;“(ii) to the extent such service is subject to the Federal Employees’ Retirement System, by applying section 8415(d) of title 5, United States Code, with respect to such service.
+&emsp;&emsp;“(ii) to the extent such service is subject to the Federal Employees’ Retirement System, by applying section 8415(d) \[now 8415(e)\] of title 5, United States Code, with respect to such service.
 
 &emsp;“(D)
 
-Rule of construction.—Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect toany appointment made before the effective date under paragraph (1).
+Rule of construction.—Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect to any appointment made before the effective date under paragraph (1).
 
 “(3)
 
@@ -156,7 +156,7 @@ Exclusion.—Nothing in this section or any amendment made by this section shall
 
 #### Effective Date of 1988 Amendment
 
-Section 103(f) of Pub. L. 100–238 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under section 8334 of this title\], shall be effective as of January 1, 1987.”
+Pub. L. 100–238, title I, §103(f), Jan. 8, 1988, 101 Stat. 1745, provided that: “This section, and the amendments made by this section \[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under section 8334 of this title\], shall be effective as of January 1, 1987.”
 
 #### Effective Date of 1980 Amendment
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date of 1974 Amendment
 
-Section 7 of Pub. L. 93–350 provided that: “The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made by section 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978.”
+Pub. L. 93–350, §7, July 12, 1974, 88 Stat. 356, provided that: “The amendments made by the first section \[amending this section\], and sections 2(b), 5, and 6 \[amending sections 8331, 8336, and 8339 of this title\], of this Act shall become effective on the date of enactment of this Act \[July 12, 1974\]. The amendments made by sections 2(a) and 3 \[amending sections 8331 and 8334 of this title\] of this Act shall become effective at the beginning of the first applicable pay period which begins after December 31, 1974. The amendment made bysection 4 of this Act \[amending section 8335 of this title\] shall become effective on January 1, 1978.”
 
 #### Effective Date of 1972 Amendment
 

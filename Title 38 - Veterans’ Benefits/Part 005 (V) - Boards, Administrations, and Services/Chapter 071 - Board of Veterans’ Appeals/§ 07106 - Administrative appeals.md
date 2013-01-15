@@ -1,6 +1,6 @@
 ### §7106. Administrative appeals
 
-Application for review on appeal may be made within the one-year period prescribed in section 7105 of this title by such officials of the Department as may be designated by the Secretary. An application entered under this paragraph shall not operate to deprive the claimant of the right of review on appeal as provided in this chapter.
+Application for review on appeal may be made within the one-year period prescribed in section7105 of this title by such officials of the Department as may be designated by the Secretary. An application entered under this paragraph shall not operate to deprive the claimant of the right of review on appeal as provided in this chapter.
 
 (Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 554, §4006; renumbered §7106 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

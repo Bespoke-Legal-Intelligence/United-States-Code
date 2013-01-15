@@ -48,11 +48,11 @@
 
 (i)(1) Notwithstanding paragraphs (2) and (3) of section 545, the trustee may not avoid a warehouseman's lien for storage, transportation, or other costs incidental to the storage and handling of goods.
 
-(2) The prohibition under paragraph (1) shall be applied in a manner consistent with anyState statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
+(2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
 
 (j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (<i>o</i>)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, §5(b), Dec. 12, 2006, 120 Stat. 2697.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(l), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (o)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, §5(b), Dec. 12, 2006, 120 Stat. 2697.)
 
 #### Historical and Revision Notes
 
@@ -76,7 +76,7 @@ The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7),commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
 
 Subsec. (f). Pub. L. 109–390, §5(b)(2), struck out “that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title,” after “avoid a transfer” and inserted “(or for the benefit of)” before “a repo participant”.
 
@@ -86,9 +86,9 @@ Subsec. (j). Pub. L. 109–390, §5(b)(4), inserted “(or for the benefit of)�
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–8, §1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
 
-Subsec. (e). Pub. L. 109–8, §907(<i>o</i>)(3), inserted “financial participant,” after “financial institution,”.
+Subsec. (e). Pub. L. 109–8, §907(o)(3), inserted “financial participant,” after “financial institution,”.
 
-Subsec. (f). Pub. L. 109–8, §907(<i>o</i>)(2), inserted “or financial participant” after “repo participant”.
+Subsec. (f). Pub. L. 109–8, §907(o)(2), inserted “or financial participant” after “repo participant”.
 
 Subsec. (g). Pub. L. 109–8, §907(e)(1), struck out “under a swap agreement” after “avoid a transfer”, substituted “under or in connection with any swap agreement” for “in connection with a swap agreement”, and inserted “or financial participant” after “swap participant”.
 
@@ -122,7 +122,7 @@ Subsec. (g). Pub. L. 101–311, §103, added subsec. (g) relating to trustee's a
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–554, §257(d), inserted reference to section 1202 of this title.
 
-Subsec. (e). Pub. L. 99–554, §283(<i>l</i>), inserted a comma after “stockbroker”.
+Subsec. (e). Pub. L. 99–554, §283(l), inserted a comma after “stockbroker”.
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §461(a), substituted “; or” for “; and”.
 

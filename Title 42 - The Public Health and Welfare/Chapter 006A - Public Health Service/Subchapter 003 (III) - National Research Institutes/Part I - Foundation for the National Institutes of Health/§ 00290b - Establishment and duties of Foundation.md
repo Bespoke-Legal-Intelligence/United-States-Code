@@ -18,7 +18,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
-&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21.
+&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies.
 
 &emsp;&emsp;(D) Supplementary programs to provide for—
 
@@ -82,7 +82,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(F) No employee of the National Institutes of Health shall be appointed as a member of the Board.
 
-&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of appointed members of the Boardshall be greater than the number specified in subparagraph (C).
+&emsp;(G) The Board may, through amendments to the bylaws of the Foundation, provide that the number of appointed members of the Board shall be greater than the number specified in subparagraph (C).
 
 #### (2) Chair
 
@@ -202,7 +202,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (4) Reports
 
-&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
+&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (l).
 
 &emsp;(B) With respect to the financial condition of the Foundation, each report under subparagraph (A) shall include the source, and a description of, all gifts or grants to the Foundation of real or personal property, and the source and amount of all gifts or grants to the Foundation of money. Each such report shall include a specification of any restrictions on the purposes for which gifts or grants to the Foundation may be used.
 
@@ -276,11 +276,11 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
 
-#### (<i>l</i>) Funding
+#### (l) Funding
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050.)
 
 #### References in Text
 
@@ -296,13 +296,15 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments
 
+<b>2012</b>—Subsec. (c)(1)(C). Pub. L. 112–144 struck out “for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” before period at end.
+
 <b>2011</b>—Subsec. (c)(1)(E). Pub. L. 112–74 substituted “section 287a” for “section 282d”.
 
 <b>2010</b>—Subsec. (c)(1)(E). Pub. L. 111–148 added subpar. (E).
 
-<b>2007</b>—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant tosection 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+<b>2007</b>—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment, which directed striking out language ending with “section 505A(d)(4)(C) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(a)(d)(4)(C)’ ” in the original, was executed by striking out language ending with “section 505A(d)(4)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(d)(4)(C))” in the original to reflect the probable intent of Congress. That language had been translated as “section 355a(d)(4)(C) of title 21” for purposes of codification.
 
-Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
+Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
 Subsec. (d)(1)(G). Pub. L. 109–482, §107(1)(A)(ii), inserted “appointed” after “that the number of”.
 
@@ -312,13 +314,13 @@ Subsec. (d)(5). Pub. L. 109–482, §107(1)(C), inserted “appointed” after �
 
 Subsec. (j)(2). Pub. L. 109–482, §107(2)(A), substituted “subsection (d)(6)” for “subsection (d)(2)(B)(i)(II)”.
 
-Subsec. (j)(4)(A). Pub. L. 109–482, §107(2)(B)(i), inserted “, including an accounting of the use of amounts transferred under subsection (<i>l</i>)” before period at end.
+Subsec. (j)(4)(A). Pub. L. 109–482, §107(2)(B)(i), inserted “, including an accounting of the use of amounts transferred under subsection (l)” before period at end.
 
 Subsec. (j)(4)(C). Pub. L. 109–482, §107(2)(B)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.”
 
 Subsec. (j)(10). Pub. L. 109–482, §107(2)(C), substituted “of Health and the National Institutes of Health may accept transfers of funds from the Foundation” for “of Health”.
 
-Subsec. (<i>l</i>). Pub. L. 109–482, §107(3), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to authorization of appropriations and limitation regarding other funds.
+Subsec. (l). Pub. L. 109–482, §107(3), added subsec. (l) and struck out former subsec. (l) which related to authorization of appropriations and limitation regarding other funds.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–109, §13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
 
@@ -348,11 +350,11 @@ Subsec. (j)(1). Pub. L. 107–109, §13(7), struck out “(including those devel
 
 Subsec. (j)(2). Pub. L. 107–109, §13(7), which directed striking out “(including those developed under subsection (d)(2)(B)(i)(II))” in par. (2), could not be executed because those words do not appear in par. (2).
 
-Subsec. (k). Pub. L. 107–109, §13(5), redesignated subsec. (<i>l</i>) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 107–109, §13(5), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
 Subsec. (k)(9). Pub. L. 107–109, §13(4), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
 
-Subsecs. (<i>l</i>), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (k).
+Subsecs. (l), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
@@ -398,7 +400,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanismfor the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
@@ -412,7 +414,7 @@ Subsec. (i)(15). Pub. L. 103–43, §1701(5)(I), substituted “part” for “s
 
 Subsec. (j). Pub. L. 103–43, §1701(2), redesignated subsec. (h) as (j).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 103–43, §1701(6), added subsecs. (k) and (<i>l</i>).
+Subsecs. (k), (l). Pub. L. 103–43, §1701(6), added subsecs. (k) and (l).
 
 Subsec. (m). Pub. L. 103–43, §1701(7), amended heading and text of subsec. (m) generally. Prior to amendment, text read as follows:
 

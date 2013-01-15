@@ -2,7 +2,7 @@
 
 #### Revolving Fund
 
-Establishment of revolving fund under which to account for assets and liabilities in connection with community facilities or defense housing under sections 1592 to 1592<i>o</i> of this title, see section 1701g–5 of Title 12, Banks and Banking.
+Establishment of revolving fund under which to account for assets and liabilities in connection with community facilities or defense housing under sections 1592 to 1592o of this title, see section 1701g–5 of Title 12, Banks and Banking.
 
 #### Expiration Date
 

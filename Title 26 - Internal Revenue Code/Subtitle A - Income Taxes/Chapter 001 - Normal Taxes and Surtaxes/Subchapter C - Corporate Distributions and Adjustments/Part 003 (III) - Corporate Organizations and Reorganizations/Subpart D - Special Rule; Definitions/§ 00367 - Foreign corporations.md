@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, paragraph (1) shallnot apply to any property transferred to a foreign corporation for use by such foreign corporation in the active conduct of a trade or business outside of the United States.
+&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, paragraph (1) shall not apply to any property transferred to a foreign corporation for use by such foreign corporation in the active conduct of a trade or business outside of the United States.
 
 #### (B) Paragraph not to apply to certain property
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) any taxable income of such branch for a taxable year after the taxable year in which the loss was incurred and through the close of the taxable year of the transfer, and
+&emsp;&emsp;&emsp;&emsp;(I) any taxable income of such branch for a taxable year after the taxable yearin which the loss was incurred and through the close of the taxable year of the transfer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which is recognized under section 904(f)(3) on account of the transfer.
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 105–34, §1131(b)(2), added subsec. (f).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1810(g)(4)(A), struck out “355,” after “354,”.
 
-Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end “The amounts taken into account under clause\(ii) shall be commensurate with the income attributable to the intangible.”
+Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end “The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible.”
 
 Subsec. (e). Pub. L. 99–514, §631(d)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e), treatment of distributions described in section 336 or 355, read as follows: “In the case of any distribution described in section 336 or 355 (or so much of section 356 as relates to section 355) by a domestic corporation which is made to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section.”
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1997 Amendment
 
-Section 1131(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 684 of this title, amending this section and sections 721, 814, 1035, and 6422 of this title, and repealing sections 1057, 1491, 1492, and 1494 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XI, §1131(d), Aug. 5, 1997, 111 Stat. 980, provided that: “The amendments made by this section \[enacting section 684 of this title, amending this section and sections 721, 814, 1035, and 6422 of this title, and repealing sections 1057, 1491, 1492, and 1494 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(e)(13)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988.”
+Pub. L. 100–647, title I, §1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988.”
 
 #### Effective Date of 1986 Amendment
 
@@ -224,7 +224,7 @@ Amendment by section 1810(g)(1), (4) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Section 131(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §131(g), July 18, 1984, 98 Stat. 665, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -248,11 +248,11 @@ Ruling request before march 1, 1984.—The amendments made by this section (and 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) ofPub. L. 97–248, set out as a note under section 936 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) of Pub. L. 97–248, set out as a note under section 936 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Section 1042(e) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title X, §1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) The amendments made by this section (other than by subsection (d)) \[amending this section and sections 751 and 1248 of this title\] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date. The amendments made by subsection (d) \[enacting section 7477 of this title and amending sections 7476 and 7482 of this title\] shall apply with respect to pleadings filed with the Tax Court after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to transfers beginning after October 9, 1975.
 
@@ -260,11 +260,11 @@ Section 1042(e) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1971 Amendment
 
-Section 1(c) of Pub. L. 91–681, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 1492 of this title\] shall apply to transfers made after December 31, 1967; except that sections 367(d) and 1492 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) shall apply only with respect to transfers made after December 31, 1970.”
+Pub. L. 91–681, §1(c), Jan. 12, 1971, 84 Stat. 2066, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 1492 of this title\] shall apply to transfers made after December 31, 1967; except that sections 367(d) and 1492 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) shall apply only with respect to transfers made after December 31, 1970.”
 
 #### Applicability of Subsection (e)(2)
 
-Section 1006(e)(13)(C) of Pub. L. 100–647 provided that: “Section 367(e)(2) of the 1986 Code (as amended by the Reform Act \[Pub. L. 99–514\]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
+Pub. L. 100–647, title I, §1006(e)(13)(C), Nov. 10, 1988, 102 Stat. 3402, provided that: “Section 367(e)(2) of the 1986 Code (as amended by the Reform Act \[Pub. L. 99–514\]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

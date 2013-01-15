@@ -100,7 +100,7 @@ If a covered individual believes that that individual has been discharged, demot
 
 (B) In any action brought under subparagraph (A), the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
-#### (<i>l</i>) Relationship to other laws
+#### (l) Relationship to other laws
 
 The protections provided by this section are independent of, and not subject to any limitations that may be provided in, the Whistleblower Protection Act of 1989 (Public Law 101–512) <sup>1</sup> or any other law that may provide protection for disclosures of information by employees of the Department of Energy or of a contractor of the Department.
 
@@ -118,7 +118,7 @@ Not later than December 5, 1999, the Secretary shall submit to the Committee on 
 
 #### References in Text
 
-The Whistleblower Protection Act of 1989, referred to in subsec. (<i>l</i>), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II (§1211 et seq.) and III (§1221 et seq.) of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
+The Whistleblower Protection Act of 1989, referred to in subsec. (l), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II (§1211 et seq.) and III (§1221 et seq.) of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
 
 #### Codification
 

@@ -68,9 +68,9 @@ Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1877.
 
 Pub. L. 97–276, §101(a), Oct. 2, 1982, 96 Stat. 1186.
 
-Pub. L. 97–92, §101(h) \[incorporating Pub. L. 96–536, §101(<i>o</i>); H.R. 7584, title I\], Dec. 15, 1981, 95 Stat. 1190.
+Pub. L. 97–92, §101(h) \[incorporating Pub. L. 96–536, §101(o); H.R. 7584, title I\], Dec. 15, 1981, 95 Stat. 1190.
 
-Pub. L. 96–536, §101(<i>o</i>) \[H.R. 7584, title I\], Dec. 16, 1980, 94 Stat. 3169.
+Pub. L. 96–536, §101(o) \[H.R. 7584, title I\], Dec. 16, 1980, 94 Stat. 3169.
 
 Pub. L. 96–369, §101(a), Oct. 1, 1980, 94 Stat. 1351.
 

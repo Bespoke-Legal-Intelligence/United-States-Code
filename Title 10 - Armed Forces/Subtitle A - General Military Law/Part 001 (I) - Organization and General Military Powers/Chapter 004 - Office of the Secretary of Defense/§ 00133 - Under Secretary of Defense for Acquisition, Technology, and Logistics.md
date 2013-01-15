@@ -86,6 +86,44 @@ Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, pr
 
 Pub. L. 103–160, div. A, title IX, §904(a), (f), Nov. 30, 1993, 107 Stat. 1728, 1729, provided that the office of Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Under Secretary of Defense for Acquisition and Technology, the office of Deputy Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Deputy Under Secretary of Defense for Acquisition and Technology, and any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than this title, or in any rule, regulation, or other paper of the United States was to be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.
 
+#### Reports to Congress on Failure To Comply With Recommendations
+
+Pub. L. 112–239, div. A, title IX, §904(h), Jan. 2, 2013, 126 Stat. 1868, provided that:
+
+“(1)
+
+Report required.—Not later than 60 days after the end of each fiscal year, from fiscal year 2013 through fiscal year 2018, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on each case in which a major defense acquisition program, in the preceding fiscal year—
+
+&emsp;“(A) proceeded to implement a test and evaluation master plan notwithstanding a decision of the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation to disapprove the developmental test and evaluation plan within that plan in accordance with section 139b(a)(5)(B) of title 10, United States Code; or
+
+&emsp;“(B) proceeded to initial operational testing and evaluation notwithstanding a determination by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation on the basis of an assessment of operational test readiness that the program is not ready for operational testing.
+
+“(2)
+
+Matters covered.—
+
+&emsp;“(A) For each program covered by paragraph (1)(A), the report shall include the following:
+
+&emsp;&emsp;“(i) A description of the specific aspects of the developmental test and evaluation plan that the Deputy Assistant Secretary determined to be inadequate.
+
+&emsp;&emsp;“(ii) An explanation of the reasons why the program disregarded the Deputy Assistant Secretary's recommendations with regard to those aspects of the developmental test and evaluation plan.
+
+&emsp;&emsp;“(iii) The steps taken to address those aspects of the developmental test and evaluation plan and address the concerns of the Deputy Assistant Secretary.
+
+&emsp;“(B) For each program covered by paragraph (1)(B), the report shall include the following:
+
+&emsp;&emsp;“(i) An explanation of the reasons why the program proceeded to initial operational testing and evaluation notwithstanding the findings of the assessment of operational test readiness.
+
+&emsp;&emsp;“(ii) A description of the aspects of the approved testing and evaluation master plan that had to be set aside to enable the program to proceed to initial operational testing and evaluation.
+
+&emsp;&emsp;“(iii) A description of how the program addressed the specific areas of concern raised in the assessment of operational test readiness.
+
+&emsp;&emsp;“(iv) A statement of whether initial operational testing and evaluation identified any significant shortcomings in the program.
+
+“(3)
+
+Additional congressional notification.—Not later than 30 days after any decision to conduct developmental testing on a major defense acquisition program without an approved test and evaluation master plan in place, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall provide to the congressional defense committees a written explanation of the basis for the decision and a timeline for getting an approved plan in place.”
+
 #### Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies
 
 Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275, provided that:
@@ -124,5 +162,5 @@ Deadline for Designation.—The Secretary of Defense shall make the designation 
 
 #### Improvement in Defense Research and Procurement Liaison With Israel
 
-Section 1006 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
+Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
 

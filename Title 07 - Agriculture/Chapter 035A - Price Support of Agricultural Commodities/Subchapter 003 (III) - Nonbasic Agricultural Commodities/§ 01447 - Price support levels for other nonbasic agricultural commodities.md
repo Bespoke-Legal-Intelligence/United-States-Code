@@ -14,7 +14,7 @@ Section 1446d of this title, referred to in text, was omitted from the Code.
 
 #### Effective and Termination Dates of 1977 Amendment
 
-Section 1003(a) of Pub. L. 95–113 provided that the amendment made by that section is effective only with respect to 1978 through 1981 crops.
+Pub. L. 95–113, title X, §1003(a), Sept. 29, 1977, 91 Stat. 950, provided that the amendment made by section 1003(a) is effective only with respect to the 1978 through 1981 crops.
 
 #### Inapplicability of Section
 
@@ -28,7 +28,7 @@ Pub. L. 103–130, §3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effec
 
 #### Other Price Support Programs in Effect on September 29, 1977
 
-Section 1003(b) of Pub. L. 95–113 provided that: “The amendment made by this section \[amending this section\] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act \[Sept. 29, 1977\].”
+Pub. L. 95–113, title X, §1003(b), Sept. 29, 1977, 91 Stat. 950, provided that: “The amendment made by this section \[amending this section\] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act \[Sept. 29, 1977\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

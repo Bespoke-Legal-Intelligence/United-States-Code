@@ -52,7 +52,7 @@
 
 #### (5) Training program
 
-&emsp;Not later than 9 months after October 24, 1992, the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
+&emsp;Not later than 9 months after October 24, 1992, the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel atrelevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
 
 #### (6) Report
 

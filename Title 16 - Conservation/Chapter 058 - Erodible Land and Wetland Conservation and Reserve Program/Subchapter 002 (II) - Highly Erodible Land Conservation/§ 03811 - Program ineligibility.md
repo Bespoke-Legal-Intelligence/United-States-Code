@@ -14,7 +14,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
 
-&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such cropyear for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
+&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
 
 &emsp;(3) during the crop year—
 
@@ -54,11 +54,11 @@ Par. (1)(D). Pub. L. 104–127, §311(2)(E), redesignated subpar. (E) as (D). Fo
 
 Pub. L. 104–127, §311(2)(C), struck out before semicolon “made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989”.
 
-Par. (1)(E). Pub. L. 104–127, §311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “Farmers Home Administration” and redesignated subpar. (E) as (D).
+Par. (1)(E). Pub. L. 104–127, §311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “FarmersHome Administration” and redesignated subpar. (E) as (D).
 
 Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
 
-&emsp;“(A) a payment made under section 590h, section 590<i>l</i> or section 590p(b) of this title;
+&emsp;“(A) a payment made under section 590h, section 590l or section 590p(b) of this title;
 
 &emsp;“(B) a payment made under section 2201 or section 2202 of this title;
 
@@ -82,11 +82,11 @@ Par. (3). Pub. L. 101–624, §1411(3)–(5), added par. (3).
 
 #### Effective Date of 1996 Amendment
 
-Section 311 of Pub. L. 104–127 provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
+Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982, provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
 
 #### Wind Erosion Estimation Pilot Project
 
-Section 317 of Pub. L. 104–127 provided that:
+Pub. L. 104–127, title III, §317, Apr. 4, 1996, 110 Stat. 986, provided that:
 
 “(a)
 

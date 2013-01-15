@@ -1,12 +1,12 @@
 ### §1963. Registration of judgments for enforcement in other districts
 
-A judgment in an action for the recovery of money or property entered in any court of appeals, district court, bankruptcy court, or in the Court of International Trade may be registered by filing a certified copy of the judgment in any other district or, with respect to the Court of International Trade, in any judicial district, when the judgment has become final by appeal or expiration of the time for appeal or when ordered by the court that entered the judgment for good cause shown. Such a judgment entered in favor of the United States may be so registered any time after judgment is entered. A judgment so registered shall have the same effect as a judgment of the district court of the district where registered and may be enforced in like manner.
+A judgment in an action for the recovery of money or property entered in any court of appeals, district court, bankruptcy court, or in the Court of International Trade may be registered by filing a certified copy of the judgment in anyother district or, with respect to the Court of International Trade, in any judicial district, when the judgment has become final by appeal or expiration of the time for appeal or when ordered by the court that entered the judgment for good cause shown. Such a judgment entered in favor of the United States may be so registered any time after judgment is entered. A judgment so registered shall have the same effect as a judgment of the district court of the district where registered and may be enforced in like manner.
 
 A certified copy of the satisfaction of any judgment in whole or in part may be registered in like manner in any district in which the judgment is a lien.
 
 The procedure prescribed under this section is in addition to other procedures provided by law for the enforcement of judgments.
 
-(June 25, 1948, ch. 646, 62 Stat. 958; Aug. 23, 1954, ch. 837, 68 Stat. 772; Pub. L. 85–508, §12(<i>o</i>), July 7, 1958, 72 Stat. 349; Pub. L. 100–702, title X, §1002(a), (b)(1), Nov. 19, 1988, 102 Stat. 4664; Pub. L. 101–647, title XXXVI, §3628, Nov. 29, 1990, 104 Stat. 4965; Pub. L. 104–317, title II, §203(a), Oct. 19, 1996, 110 Stat. 3849.)
+(June 25, 1948, ch. 646, 62 Stat. 958; Aug. 23, 1954, ch. 837, 68 Stat. 772; Pub. L. 85–508, §12(o), July 7, 1958, 72 Stat. 349; Pub. L. 100–702, title X, §1002(a), (b)(1), Nov. 19, 1988, 102 Stat. 4664; Pub. L. 101–647, title XXXVI, §3628, Nov. 29, 1990, 104 Stat. 4965; Pub. L. 104–317, title II, §203(a), Oct. 19, 1996, 110 Stat. 3849.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see secti
 
 #### Effective Date of 1988 Amendment
 
-Section 1002(c) of title X of Pub. L. 100–702 provided that: “The amendments made by this section \[amending this section and repealing section 1963A of this title\] take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title X, §1002(c), Nov. 19, 1988, 102 Stat. 4665, provided that: “The amendments made by this section \[amending this section and repealing section 1963A of this title\] take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1958 Amendment
 

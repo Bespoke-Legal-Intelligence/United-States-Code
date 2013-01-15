@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) there is a lapse of any voting or liquidation right in a corporation or partnership, and
 
-&emsp;&emsp;(B) the individual holding such right immediately before the lapse and members ofsuch individual's family hold, both before and after the lapse, control of the entity,
+&emsp;&emsp;(B) the individual holding such right immediately before the lapse and members of such individual's family hold, both before and after the lapse, control of the entity,
 
 > &emsp;such lapse shall be treated as a transfer by such individual by gift, or a transfer which is includible in the gross estate of the decedent, whichever is applicable, in the amount determined under paragraph (2).
 

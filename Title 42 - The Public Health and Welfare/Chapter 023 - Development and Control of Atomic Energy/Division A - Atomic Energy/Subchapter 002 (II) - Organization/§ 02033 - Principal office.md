@@ -6,7 +6,7 @@ The principal office of the Commission shall be in or near the District of Colum
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1802(a)(3) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1802(a)(3) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Expenses for Move to New Principal Office
 

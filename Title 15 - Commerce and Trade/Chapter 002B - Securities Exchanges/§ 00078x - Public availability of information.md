@@ -14,7 +14,7 @@ The Commission may, in its discretion and upon a showing that such information i
 
 #### (d) Records obtained from foreign securities authorities
 
-Except as provided in subsection (g) of this section, the Commission shall not be compelledto disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Except as provided in subsection (g) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Freedom of Information Act
 
@@ -96,7 +96,7 @@ In general.—Except as provided in subsection (g), the Commission shall not be 
 
 “(2)
 
-Treatment of information.—For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to section 78q of this title shall be an administrative action involving an agency against specific individuals or agencies pursuant to section 3518(c)(1) of title 44.”
+Treatment of information.—For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to section78q of this title shall be an administrative action involving an agency against specific individuals or agencies pursuant to section 3518(c)(1) of title 44.”
 
 Pub. L. 111–203, §929K(2), substituted “subsection (g)” for “subsection (f)” in par. (1).
 

@@ -10,7 +10,7 @@ The Secretary of the Treasury and the Secretary of Health and Human Services sha
 
 #### (c) Conduct of hearings
 
-Hearings authorized or required by this chapter shall be conducted by the Secretary or such officer or employee as he may designate for the purpose.
+Hearings authorized or required by this chapter shall be conducted by the Secretary or suchofficer or employee as he may designate for the purpose.
 
 #### (d) Effectiveness of definitions and standards of identity
 
@@ -40,7 +40,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (g) Copies of records of hearings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment ofthe costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
 
 #### (h) Guidance documents
 
@@ -48,7 +48,9 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 (B) Although guidance documents shall not be binding on the Secretary, the Secretary shall ensure that employees of the Food and Drug Administration do not deviate from such guidances without appropriate justification and supervisory concurrence. The Secretary shall provide training to employees in how to develop and use guidance documents and shall monitor the development and issuance of such documents.
 
-(C) For guidance documents that set forth initial interpretations of a statute or regulation, changes in interpretation or policy that are of more than a minor nature, complex scientific issues, or highly controversial issues, the Secretary shall ensure public participation prior to implementation of guidance documents, unless the Secretary determines that such prior public participation is not feasible or appropriate. In such cases, the Secretary shall provide for public comment upon implementation and take such comment into account.
+(C)(i) For guidance documents that set forth initial interpretations of a statute or regulation, changes in interpretation or policy that are of more than a minor nature, complex scientific issues, or highly controversial issues, the Secretary shall ensure public participation prior to implementation of guidance documents, unless the Secretary determines that such prior public participation is not feasible or appropriate. In such cases, the Secretary shall provide for public comment upon implementation and take such comment into account.
+
+(ii) With respect to devices, if a notice to industry guidance letter, a notice to industry advisory letter, or any similar notice sets forth initial interpretations of a regulation or policy or sets forth changes in interpretation or policy, such notice shall be treated as a guidance document for purposes of this subparagraph.
 
 (D) For guidance documents that set forth existing practices or minor changes in policy, the Secretary shall provide for public comment upon implementation.
 
@@ -60,9 +62,11 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 (5) Not later than July 1, 2000, the Secretary after evaluating the effectiveness of the Good Guidance Practices document, published in the Federal Register at 62 Fed. Reg. 8961, shall promulgate a regulation consistent with this subsection specifying the policies and procedures of the Food and Drug Administration for the development, issuance, and use of guidance documents.
 
-(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72 Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368.)
+(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72 Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368; Pub. L. 112–144, title VI, §619, July 9, 2012, 126 Stat. 1063.)
 
 #### Amendments
+
+<b>2012</b>—Subsec. (h)(1)(C). Pub. L. 112–144 designated existing provisions as cl. (i) and added cl. (ii).
 
 <b>1997</b>—Subsec. (h). Pub. L. 105–115 added subsec. (h).
 
@@ -116,9 +120,25 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
+#### Notification of FDA Intent To Regulate Laboratory-Developed Tests
+
+Pub. L. 112–144, title XI, §1143, July 9, 2012, 126 Stat. 1130, provided that:
+
+“(a)
+
+In General.—The Food and Drug Administration may not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) without, at least 60 days prior to such issuance—
+
+&emsp;“(1) notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration's intent to take such action; and
+
+&emsp;“(2) including in such notification the anticipated details of such action.
+
+“(b)
+
+Sunset.—Subsection (a) shall cease to have force or effect on the date that is 5 years after the date of enactment of this Act \[July 9, 2012\].”
+
 #### Approval of Supplemental Applications for Approved Products
 
-Section 403 of Pub. L. 105–115 provided that:
+Pub. L. 105–115, title IV, §403, Nov. 21, 1997, 111 Stat. 2367, provided that:
 
 “(a)
 

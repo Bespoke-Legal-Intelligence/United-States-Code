@@ -12,7 +12,7 @@ Sections 2 and 30 of the Farm Credit Act of 1933, as amended, referred to in tex
 
 <b>1988</b>—Pub. L. 100–399, §901(c), substituted “merged with another bank” for “merged with one or more other such banks under section 2181 of this title”.
 
-Pub. L. 100–233, §802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, asmay be necessary or expedient to implement this chapter”.
+Pub. L. 100–233, §802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
 
 Pub. L. 100–233, §414(b), which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by section 406(b) of Pub. L. 100–399. See Construction of 1988 Amendment note below.
 
@@ -22,11 +22,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Construction of 1988 Amendment
 
-Section 406(b) of Pub. L. 100–399 provided that section 414(b) of Pub. L. 100–233, cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 (Pub. L. 100–233) and this chapter shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title IV, §406(b), Aug. 17, 1988, 102 Stat. 1000, provided that section 414(b) of Pub. L. 100–233, cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 (Pub. L. 100–233) and this chapter shall be applied and administered as if such section had not been enacted.
 
 #### Voluntary Merger of Banks for Cooperatives
 
-Section 413 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §405, Aug. 17, 1988, 102 Stat. 1000, provided that:
+Pub. L. 100–233, title IV, §413, Jan. 6, 1988, 101 Stat. 1639, as amended by Pub. L. 100–399, title IV, §405, Aug. 17, 1988, 102 Stat. 1000, provided that:
 
 “(a)
 
@@ -66,7 +66,7 @@ Expedited review.—Not later than 30 days after the Farm Credit Administration 
 
 &emsp;“(3)
 
-Submission to stockholders.—On approval of the plan by the Farm Credit Administration, the special committee shall, under such procedures as may be established by the committee, submit the plan and recommendations to all voting stockholders of the district banks for cooperatives and the Central Bank for Cooperatives.
+Submission to stockholders.—On approval of the plan by the Farm Credit Administration, the special committee shall, under such procedures as may be established by the committee, submit the plan andrecommendations to all voting stockholders of the district banks for cooperatives and the Central Bank for Cooperatives.
 
 “(b)
 
@@ -138,7 +138,7 @@ United bank for cooperatives.—Any of the district banks whose stockholders did
 
 &emsp;&emsp;“(B)
 
-Nondiscrimination.—Any district bank whose stockholders did not approve the plan of merger shall be entitled to the availability, from the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, of thesame credit and related services now provided by the Central Bank for Cooperatives as of the date of the enactment of this section \[Jan. 6, 1988\], regardless of the decision not to merge.
+Nondiscrimination.—Any district bank whose stockholders did not approve the plan of merger shall be entitled to the availability, from the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, of the same credit and related services now provided by the Central Bank for Cooperatives as of the date of the enactment of this section \[Jan. 6, 1988\], regardless of the decision not to merge.
 
 &emsp;&emsp;“(C)
 
@@ -150,5 +150,5 @@ References.—References in this section to voting stockholders shall include su
 
 #### Bank for Cooperatives Initial Board of Directors
 
-Section 414(a) of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §406(a), Aug. 17, 1988, 102 Stat. 1000, provided that: “Notwithstanding section 3.2 \[probably means section 3.2 of Pub. L. 92–181, 12 U.S.C. 2123\], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 \[12 U.S.C. 2121\].”
+Pub. L. 100–233, title IV, §414(a), Jan. 6, 1988, 101 Stat. 1641, as amended by Pub. L. 100–399, title IV, §406(a), Aug. 17, 1988, 102 Stat. 1000, provided that: “Notwithstanding section 3.2 \[probably means section 3.2 of Pub. L. 92–181, 12 U.S.C. 2123\], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 \[12 U.S.C. 2121\].”
 

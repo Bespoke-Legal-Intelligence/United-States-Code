@@ -42,7 +42,7 @@ Act
 
 Aug. 28, 1958, Pub. L. 85–848, §3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
-In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, AirForce, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
+In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
 
 In subsection (b), the words “with respect to weeks of unemployment ending after the sixtieth day after August 28, 1958” are omitted as obsolete because the law is here stated with prospective effect.
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as f
 
 “(1) An individual shall not be entitled to compensation under this subchapter for any week before the fifth week beginning after the week in which the individual was discharged or released.
 
-“(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual's weekly benefit amount for total unemployment.”
+“(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit yearshall not exceed 13 times the individual's weekly benefit amount for total unemployment.”
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–362, §201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
 
@@ -86,11 +86,11 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 1991 Amendment
 
-Section 301(c) of Pub. L. 102–164 provided that: “The amendments made by this section \[amending this section\] shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act \[Nov. 15, 1991\].”
+Pub. L. 102–164, title III, §301(c), Nov. 15, 1991, 105 Stat. 1059, provided that: “The amendments made by this section \[amending this section\] shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act \[Nov. 15, 1991\].”
 
 #### Effective Date of 1982 Amendment; Transitional Rule
 
-Section 201(c) of Pub. L. 97–362 provided that:
+Pub. L. 97–362, title II, §201(c), Oct. 25, 1982, 96 Stat. 1732, provided that:
 
 “(1)
 
@@ -102,11 +102,11 @@ Transitional rule.—The amendments made by this section shall not apply to the 
 
 #### Effective Date of 1981 Amendment
 
-Section 2405(b) of Pub. L. 97–35 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to terminations of service on or after July 1, 1981, but only in the case of weeks of unemployment beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
+Pub. L. 97–35, title XXIV, §2405(b), Aug. 13, 1981, 95 Stat. 876, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to terminations of service on or after July 1, 1981, but only in the case of weeks of unemployment beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendments
 
-Section 415(b) of Pub. L. 96–364 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of Federal service in the case of individuals filing claims for unemployment compensation on or after October 1, 1980.”
+Pub. L. 96–364, title IV, §415(b), Sept. 26, 1980, 94 Stat. 1310, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of Federal service in the case of individuals filing claims for unemployment compensation on or after October 1, 1980.”
 
 Amendment by Pub. L. 96–215 applicable with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after Mar. 25, 1980, see section 4(c) of Pub. L. 96–215, set out as a note under section 8501 of this title.
 

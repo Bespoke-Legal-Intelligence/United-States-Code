@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 94–258 substituted provisions which made funds in the nav
 
 Subsecs. (c), (d). Pub. L. 94–258 added subsecs. (c) and (d).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted “with respect to the naval petroleum and oil shale reserves shall be paid from appropriations made available for the purposes specified in this chapter” for “in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted “with respect to the naval petroleum and oil shale reservesshall be paid from appropriations made available for the purposes specified in this chapter” for “in exploring, prospecting, conserving, developing, using and operating lands owned or controlled by the United States in the naval petroleum reserves, and in producing petroleum, and the share of the United States of expenses incurred under any contract entered into under this chapter, shall be paid from appropriations made available for those purposes”.
 
 #### Effective Date of 1980 Amendment
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Abolition of Naval Petroleum Reserves Special Account
 
-Section 3(c) of Pub. L. 96–137 provided that: “The naval petroleum reserves special account established by section 7432 of title 10, United States Code, as in existence on the day before the date of the enactment of this Act \[Dec. 12, 1979\], is abolished. Unappropriated balances of funds in the naval petroleum reserves special account on the date of the enactment of this Act shall be transferred on the books of the Treasury into miscellaneous receipts, and all moneys accruing to the United States after such date under chapter 641 of title 10, United States Code, shall be covered into the Treasury as miscellaneous receipts.”
+Pub. L. 96–137, §3(c), Dec. 12, 1979, 93 Stat. 1062, provided that: “The naval petroleum reserves special account established by section 7432 of title 10, United States Code, as in existence on the day before the date of the enactment of this Act \[Dec. 12, 1979\], is abolished. Unappropriated balances of funds in the naval petroleum reserves special account on the date of the enactment of this Act shall be transferred on the books of the Treasury into miscellaneous receipts, and all moneys accruing to the United States after such date under chapter 641 of title 10, United States Code, shall be covered into the Treasury as miscellaneous receipts.”
 

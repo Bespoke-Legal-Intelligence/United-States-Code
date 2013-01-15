@@ -18,9 +18,9 @@ A prior section 8252, act Aug. 10, 1956, ch. 1041, 70A Stat. 503, provided that 
 
 #### Effective Date
 
-Section 522(c) of Pub. L. 100–456 provided that: “Such section \[10 U.S.C. 8252\] shall apply with respect to persons accepted for original enlistment in the Regular Air Force after September 30, 1989.”
+Pub. L. 100–456, div. A, title V, §522(c), Sept. 29, 1988, 102 Stat. 1974, provided that: “Such section \[10 U.S.C. 8252\] shall apply with respect to persons accepted for original enlistment in the Regular Air Force after September 30, 1989.”
 
 #### Implementation
 
-Section 522(b) of Pub. L. 100–456 provided that: “The Secretary of the Air Force shall develop a methodology for implementing section 8252 of title 10, United States Code, as added by subsection (a), not later than October 1, 1989.”
+Pub. L. 100–456, div. A, title V, §522(b), Sept. 29, 1988, 102 Stat. 1973, provided that: “The Secretary of the Air Force shall develop a methodology for implementing section 8252 of title 10, United States Code, as added by subsection (a), not later than October 1, 1989.”
 

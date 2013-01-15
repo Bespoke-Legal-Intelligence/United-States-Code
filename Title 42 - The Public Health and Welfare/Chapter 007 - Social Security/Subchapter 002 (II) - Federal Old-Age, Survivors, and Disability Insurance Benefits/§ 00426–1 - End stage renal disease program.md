@@ -6,7 +6,7 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 &emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term “employment” for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter;
 
-&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter; or
+&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit underthis subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter; or
 
 &emsp;(C) is the spouse or dependent child (as defined in regulations) of an individual described in subparagraph (A) or (B);
 
@@ -42,7 +42,7 @@ Notwithstanding the provisions of subsection (b) of this section—
 
 #### (c) <sup>1</sup> Continuing eligibility of certain terminated individuals
 
-For purposes of this section, each person whose monthly insurance benefit for any monthis terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
+For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
 (Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497.)
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1983 Amendment
 
-Section 309(c)(2) of Pub. L. 97–448 provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396<i>o</i>, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
+Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
 
 #### Effective Date of 1982 Amendment
 

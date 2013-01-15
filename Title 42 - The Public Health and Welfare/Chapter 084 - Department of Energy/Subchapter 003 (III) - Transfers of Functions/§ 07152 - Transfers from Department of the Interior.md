@@ -14,7 +14,7 @@
 
 &emsp;(E) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
 
-(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
+(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shallmaintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
 (3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
@@ -150,7 +150,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 “(e)
 
-Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and PublicLand Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
+Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
 
 “(f)
 
@@ -184,7 +184,7 @@ DOE Organization Act.—As of the later of the two dates determined in paragraph
 
 “(i)
 
-Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
+Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federalsurplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
 
 #### “SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 

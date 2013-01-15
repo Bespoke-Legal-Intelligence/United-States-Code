@@ -146,7 +146,7 @@ Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1958 Amendment
 
-Section 30(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–866, title I, §30(c), Sept. 2, 1958, 72 Stat. 1631, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

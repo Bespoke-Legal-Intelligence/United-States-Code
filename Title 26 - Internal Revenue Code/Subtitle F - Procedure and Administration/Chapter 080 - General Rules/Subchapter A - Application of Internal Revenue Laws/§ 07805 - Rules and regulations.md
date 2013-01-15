@@ -102,15 +102,15 @@ Except to the extent otherwise provided by this title, any election under this t
 
 #### Effective Date of 1996 Amendment
 
-Section 1101(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\].”
+Pub. L. 104–168, title XI, §1101(b), July 30, 1996, 110 Stat. 1469, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
-Section 11621(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to regulations issued after the date which is 30 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title XI, §11621(b), Nov. 5, 1990, 104 Stat. 1388–504, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to regulations issued after the date which is 30 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1988 Amendment
 
-Section 6232(b) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section\] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6232(b), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section \[amending this section\] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1984 Amendment
 

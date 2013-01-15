@@ -70,7 +70,7 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 #### (d) Industry participation and review
 
-The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
+The Secretary shall arrange for participation and review by representatives of each affectedindustry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
 
 (Pub. L. 100–680, §4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, §2106(a)(1), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, §602(b), May 8, 2008, 122 Stat. 853.)
 

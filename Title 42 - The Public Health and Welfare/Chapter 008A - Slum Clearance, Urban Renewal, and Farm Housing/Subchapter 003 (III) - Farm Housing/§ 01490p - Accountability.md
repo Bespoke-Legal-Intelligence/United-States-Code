@@ -36,7 +36,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (1) Other government assistance
 
-&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance under this subchapter. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
+&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance under this subchapter. Such related assistance shall includebut not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
 
 #### (2) Interested parties
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 #### Effective Date
 
-Section 401(b) of Pub. L. 101–235 provided that: “Section 536 of the Housing Act of 1949 \[this section\], as added by subsection (a), shall take effect on the effective date of regulations implementing such section.”
+Pub. L. 101–235, title IV, §401(b), Dec. 15, 1989, 103 Stat. 2048, provided that: “Section 536 of the Housing Act of 1949 \[this section\], as added by subsection (a), shall take effect on the effective date of regulations implementing such section.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of this”.</i>
 

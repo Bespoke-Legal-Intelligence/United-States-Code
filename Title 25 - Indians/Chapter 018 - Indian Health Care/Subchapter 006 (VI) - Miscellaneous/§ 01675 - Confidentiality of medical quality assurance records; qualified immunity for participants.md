@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Health care provider
 
-&emsp;The term “health care provider” means any health care professional, including community health aides and practitioners certified under section 1616<i>l</i> of this title, who is—
+&emsp;The term “health care provider” means any health care professional, including community health aides and practitioners certified under section 1616l of this title, who is—
 
 &emsp;&emsp;(A) granted clinical practice privileges or employed to provide health care services at—
 
@@ -46,7 +46,7 @@ Medical quality assurance records created by or for any Indian health program or
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a medical quality assurance record described in subsection (b)may be disclosed, and an individual referred to in subsection (c) may give testimony in connection with such a record, only as follows:
+&emsp;Subject to paragraph (2), a medical quality assurance record described in subsection (b) may be disclosed, and an individual referred to in subsection (c) may give testimony in connection with such a record, only as follows:
 
 &emsp;&emsp;(A) To a Federal agency or private organization, if such medical quality assurance record or testimony is needed by such agency or organization to perform licensing or accreditation functions related to any Indian health program or to a health program of an urban Indian organization to perform monitoring, required by law, of such program or organization.
 
@@ -100,9 +100,9 @@ The Secretary, acting through the Service, shall promulgate regulations pursuant
 
 Disclosure under subsection (d) does not permit redisclosure except to the extent such further disclosure is authorized under subsection (d) or is otherwise authorized to be disclosed under this section.
 
-#### (<i>l</i>) Inconsistencies
+#### (l) Inconsistencies
 
-To the extent that the protections under part C of title IX of the Public Health Service Act (42U.S.C. 229b–21 et seq.) \[42 U.S.C. 299b–21 et seq.\] (as amended by the Patient Safety and Quality Improvement Act of 2005 (Public Law 109–41; 119 Stat. 424)) and this section are inconsistent, the provisions of whichever is more protective shall control.
+To the extent that the protections under part C of title IX of the Public Health Service Act (42 U.S.C. 229b–21 et seq.) \[42 U.S.C. 299b–21 et seq.\] (as amended by the Patient Safety and Quality Improvement Act of 2005 (Public Law 109–41; 119 Stat. 424)) and this section are inconsistent, the provisions of whichever is more protective shall control.
 
 #### (m) Relationship to other law
 
@@ -112,7 +112,7 @@ This section shall continue in force and effect, except as otherwise specificall
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (<i>l</i>), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§299b–21 et seq.) of subchapter VII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (l), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§299b–21 et seq.) of subchapter VII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Codification
 

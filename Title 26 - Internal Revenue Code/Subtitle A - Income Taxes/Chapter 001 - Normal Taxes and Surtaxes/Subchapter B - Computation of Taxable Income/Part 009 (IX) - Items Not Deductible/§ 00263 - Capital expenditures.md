@@ -36,7 +36,7 @@ No deduction shall be allowed for—
 
 #### (c) Intangible drilling and development costs in the case of oil and gas wells and geothermal wells
 
-Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2))to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
+Notwithstanding subsection (a), and except as provided in subsection (i), regulations shall be prescribed by the Secretary under this subtitle corresponding to the regulations which granted the option to deduct as expenses intangible drilling and development costs in the case of oil and gas wells and which were recognized and approved by the Congress in House Concurrent Resolution 50, Seventy-ninth Congress. Such regulations shall also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(2)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells. This subsection shall not apply with respect to any costs to which any deduction is allowed under section 59(e) or 291.
 
 #### (d) Expenditures in connection with certain railroad rolling stock
 
@@ -214,7 +214,7 @@ Subsec. (e). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), 1906(b)(13)(A), redesig
 
 Subsec. (f). Pub. L. 94–455, §§1701(a), 1904(b)(10)(A)(i)(I), added subsec. (f). Former subsec. (f) redesignated (e).
 
-<b>1971</b>—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which an election under subsec. (f) applies to railroad rolling stock (other than locomotives).
+<b>1971</b>—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which anelection under subsec. (f) applies to railroad rolling stock (other than locomotives).
 
 Subsec. (f). Pub. L. 92–178, §109(b), added subsec. (f).
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec
 
 #### Effective Date of 1997 Amendment
 
-Section 1604(a)(4) of Pub. L. 105–34 provided that: “The amendments made by this subsection \[amending this section and sections 312 and 1245 of this title\] shall take effect as if included in the amendments made by section 1913 of the Energy Policy Act of 1992 \[Pub. L. 102–486\].”
+Pub. L. 105–34, title XVI, §1604(a)(4), Aug. 5, 1997, 111 Stat. 1097, provided that: “The amendments made by this subsection \[amending this section and sections 312 and 1245 of this title\] shall take effect as if included in the amendments made by section 1913 of the Energy Policy Act of 1992 \[Pub. L. 102–486\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 402(b)(1) of Pub. L. 99–514 applicable to amounts paid or incurred after Dec. 31, 1985, in taxable years ending after such date, see section 402(c) of Pub. L. 99–514 set out as an Effective Date of Repeal note under former section 182 of this title.
 
-Section 411(c) of Pub. L. 99–514 provided that:
+Pub. L. 99–514, title IV, §411(c), Oct. 22, 1986, 100 Stat. 2227, provided that:
 
 “(1)
 
@@ -278,7 +278,7 @@ Amendment by section 102(e)(7), (8) of Pub. L. 98–369 applicable to positions 
 
 #### Effective Date of 1983 Amendment
 
-Section 105(b)(2) of Pub. L. 97–448 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to property acquired, and positions established, by the taxpayer after September 22, 1982, in taxable years ending after such date.”
+Pub. L. 97–448, title I, §105(b)(2), Jan. 12, 1983, 96 Stat. 2385, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to property acquired, and positions established, by the taxpayer after September 22, 1982, in taxable years ending after such date.”
 
 Amendment by section 306 of Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Section 402(e) of Pub. L. 95–618, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–618, title IV, §402(e), Nov. 9, 1978, 92 Stat. 3203, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -306,17 +306,17 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
+Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for whichhe pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
 
 #### Effective Date of 1976 Amendment
 
-Section 1904(b)(10)(A)(vii) of Pub. L. 94–455 provided that: “The amendments made by this subparagraph \[amending this section and sections 6011, 6611, and 6651 of this title and repealing sections 6076 and 6680 of this title\] shall apply with respect to acquisitions of stock or debt obligations made after June 30, 1974, except that the repeal of paragraph (2) of section 6011(d) under clause (ii) shall apply with respect to loans and commitments made after such date.”
+Pub. L. 94–455, title XIX, §1904(b)(10)(A)(vii), Oct. 4, 1976, 90 Stat. 1817, provided that: “The amendments made by this subparagraph \[amending this section and sections 6011, 6611, and 6651 of this title and repealing sections 6076 and 6680 of this title\] shall apply with respect to acquisitions of stock or debt obligations made after June 30, 1974, except that the repeal of paragraph (2) of section 6011(d) under clause (ii) shall apply with respect to loans and commitments made after such date.”
 
 Amendment by section 2122(b)(2) of Pub. L. 94–455, as amended by Pub. L. 96–167, §9(c), Dec. 29, 1979, 93 Stat. 1278, applicable to taxable years beginning after Dec. 31, 1976, see section 2122(c) of Pub. L. 94–455, as amended, set out as an Effective Date note under section 190 of this title.
 
 #### Effective Date of 1971 Amendment
 
-Section 109(d)(2), (3) of Pub. L. 92–178 provided that:
+Pub. L. 92–178, title I, §109(d)(2), (3), Dec. 10, 1971, 85 Stat. 509, provided that:
 
 “(2) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years ending after December 31, 1970.
 
@@ -324,17 +324,17 @@ Section 109(d)(2), (3) of Pub. L. 92–178 provided that:
 
 #### Effective Date of 1969 Amendment
 
-Section 706(b) of Pub. L. 91–172 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title VII, §706(b), Dec. 30, 1969, 83 Stat. 674, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1969.”
 
 #### Effective Date of 1965 Amendment
 
-Section 4(p)(3) of Pub. L. 89–243 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after September 2, 1964.”
+Pub. L. 89–243, §4(p)(3), Oct. 9, 1965, 79 Stat. 965, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after September 2, 1964.”
 
-Section 4(q) of Pub. L. 89–243 provided in part that: “Except as otherwise specifically provided in this section and in the amendments made by this section \[amending this section and sections 4912, 4914, 4916, 4917, 4919, 4920, and 4931 of this title\], such amendments shall apply with respect to acquisitions of stock and debt obligations made after February 10, 1965.”
+Pub. L. 89–243, §4(q), Oct. 9, 1965, 79 Stat. 965, provided in part that: “Except as otherwise specifically provided in this section and in the amendments made by this section \[amending this section and sections 4912, 4914, 4916, 4917, 4919, 4920, and 4931 of this title\], such amendments shall apply with respect to acquisitions of stock and debt obligations made after February 10, 1965.”
 
 #### Effective Date of 1962 Amendment
 
-Section 21(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 182 of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
+Pub. L. 87–834, §21(d), Oct. 16, 1962, 76 Stat. 1064, provided that: “The amendments made by this section \[enacting section 182 of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
 
 #### Effective Date of 1960 Amendment
 
@@ -342,11 +342,11 @@ Amendment by Pub. L. 86–779 applicable to taxable years beginning after Dec. 3
 
 #### Short Title of 1965 Amendment
 
-Section 1(a) of Pub. L. 89–243 provided that: “This Act \[amending this section and sections 4912, 4914, 4916, 4917, 4919, 4920, and 4931 of this title, and enacting provisions set out as notes under sections 6011 and 6076 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1965’.”
+Pub. L. 89–243, §1(a), Oct. 9, 1965, 79 Stat. 954, provided that: “This Act \[amending this section and sections 4912, 4914, 4916, 4917, 4919, 4920, and 4931 of this title, and enacting provisions set out as notes under sections 6011 and 6076 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1965’.”
 
 #### Short Title of 1964 Amendment
 
-Section 1(a) of Pub. L. 88–563 provided that: “This Act \[enacting sections 4911 to 4920, 4931, 6076, 6680, 6681, and 7241 of this title, amending this section and sections 1232, 6011, and 6103 of this title, and enacting provisions set out as notes under section 6011 of this title\] may be cited as the ‘Interest Equalization Tax Act’.”
+Pub. L. 88–563, §1(a), Sept. 2, 1964, 78 Stat. 809, provided that: “This Act \[enacting sections 4911 to 4920, 4931, 6076, 6680, 6681, and 7241 of this title, amending this section and sections 1232, 6011, and 6103 of this title, and enacting provisions set out as notes under section 6011 of this title\] may be cited as the ‘Interest Equalization Tax Act’.”
 
 #### Savings Provision
 

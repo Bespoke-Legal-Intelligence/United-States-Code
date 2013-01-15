@@ -8,7 +8,7 @@
 
 &emsp;(3) an alien (other than an alien described in paragraph (2)) classified as a nonimmigrant under subparagraph (J) of section 1101(a)(15) of this title who is subject to the two-year foreign residence requirement of section 1182(e) of this title and has not received a waiver thereof, unless such alien applies to have the alien's classification changed from classification under subparagraph (J) of section 1101(a)(15) of this title to a classification under subparagraph (A) or (G) of such section, and
 
-&emsp;(4) an alien admitted as a nonimmigrant visitor without a visa under section 1182(<i>l</i>) of this title or section 1187 of this title.
+&emsp;(4) an alien admitted as a nonimmigrant visitor without a visa under section 1182(l) of this title or section 1187 of this title.
 
 (b) The exceptions specified in paragraphs (1) through (4) of subsection (a) of this section shall not apply to a change of nonimmigrant classification to that of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title.
 

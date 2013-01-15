@@ -32,7 +32,7 @@ Each community parent resource center assisted under this section shall—
 
 &emsp;(3) establish cooperative partnerships with the parent training and information centers funded under section 1471 of this title; and
 
-&emsp;(4) be designed to meet the specific needs of families who experience significant isolationfrom available sources of information and support.
+&emsp;(4) be designed to meet the specific needs of families who experience significant isolation from available sources of information and support.
 
 (Pub. L. 91–230, title VI, §672, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2791.)
 

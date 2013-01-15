@@ -48,7 +48,7 @@ Subsecs. (c), (d). Pub. L. 97–214, §8(c), struck out subsec. (c) which provid
 
 Subsec. (d)(2). Pub. L. 97–99, §604(2), substituted “22,000” for “17,000”.
 
-<b>1980</b>—Subsec. (d)(1). Pub. L. 96–418 substituted “Expenditures for the rental of family housing in foreign countries (including the cost of utilities and maintenance and operation) may not exceed $1,115 per month for any unit” for “The average unit rental for Department of Defense family housing acquired by lease in foreign countries may not exceed $550 per month for the Department, and in no event shall the rental for any one unit exceed $970 per month, including the costs of operation, maintenance, and utilities”.
+<b>1980</b>—Subsec. (d)(1). Pub. L. 96–418 substituted “Expenditures for the rental of family housing in foreign countries (including the cost of utilities and maintenance and operation) may not exceed $1,115 per monthfor any unit” for “The average unit rental for Department of Defense family housing acquired by lease in foreign countries may not exceed $550 per month for the Department, and in no event shall the rental for any one unit exceed $970 per month, including the costs of operation, maintenance, and utilities”.
 
 <b>1979</b>—Subsec. (d)(1). Pub. L. 96–125, §502(b)(1), substituted “$550” for “$485” and “$970” for “$850”.
 
@@ -74,9 +74,9 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 #### Effective Date of 1980 Amendment
 
-Section 608 of Pub. L. 96–418 provided that: “Titles I, II, III, IV, and V \[enacting section 2775 of this title and section 1594h–3 of Title 42, The Public Health and Welfare, amending this section, section 2686 of this title, and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under section 4593 of this title\] shall take effect on October 1, 1980.”
+Pub. L. 96–418, title VI, §608, Oct. 10, 1980, 94 Stat. 1774, provided that: “Titles I, II, III, IV, and V \[enacting section 2775 of this title and section 1594h–3 of Title 42, The Public Health and Welfare, amending this section, section 2686 of this title, and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under section 4593 of this title\] shall take effect on October 1, 1980.”
 
 #### Effective Date of 1977 Amendment
 
-Section 505(c) of Pub. L. 95–82 provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code\] shall take effect October 1, 1977.”
+Pub. L. 95–82, title V, §505(c), Aug. 1, 1977, 91 Stat. 372, provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code\] shall take effect October 1, 1977.”
 

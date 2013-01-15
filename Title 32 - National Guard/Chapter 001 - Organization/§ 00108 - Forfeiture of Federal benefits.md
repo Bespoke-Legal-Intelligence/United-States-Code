@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §116, 39 Stat. 212.
 
-The words “does not comply” are substituted for the words “shall \* \* \* have failed or refused to comply”. The words “a requirement of, or regulation prescribed under, this title” are substituted for the words “any requirement of this title, or any regulation promulgated thereunder and in aid thereof by the President or the Secretary of the Army”. The words “money or any other aid” are substituted for the words “pecuniary or other aid”. The words “or provided by this title or any other” are omitted as surplusage.
+The words “does not comply” are substituted for the words “shall \* \* \* have failed or refused to comply”. The words “a requirement of, or regulation prescribed under, this title” are substituted for the words “any requirement of this title, or any regulation promulgatedthereunder and in aid thereof by the President or the Secretary of the Army”. The words “money or any other aid” are substituted for the words “pecuniary or other aid”. The words “or provided by this title or any other” are omitted as surplusage.
 
 #### Amendments
 

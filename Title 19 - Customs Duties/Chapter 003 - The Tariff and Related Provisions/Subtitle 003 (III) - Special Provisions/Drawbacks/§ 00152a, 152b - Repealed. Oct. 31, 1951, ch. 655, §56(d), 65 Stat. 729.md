@@ -4,5 +4,5 @@ Sections, act Mar. 8, 1902, ch. 140, §§6, 7, 32 Stat. 55, related to drawbacks
 
 #### Savings Provision
 
-Subsec. (<i>l</i>) of section 56 of act Oct. 31, 1951, provided that the repeal of these sections shall not affect any rights or liabilities existing hereunder on the effective date of such repeal (Oct. 31, 1951).
+Subsec. (l) of section 56 of act Oct. 31, 1951, provided that the repeal of these sections shall not affect any rights or liabilities existing hereunder on the effective date of such repeal (Oct. 31, 1951).
 

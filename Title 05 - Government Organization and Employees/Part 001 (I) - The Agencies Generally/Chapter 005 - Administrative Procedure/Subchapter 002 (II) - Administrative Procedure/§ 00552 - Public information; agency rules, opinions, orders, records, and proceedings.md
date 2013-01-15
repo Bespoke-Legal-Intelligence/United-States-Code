@@ -58,7 +58,7 @@
 
 &emsp;(III) for any request not described in (I) or (II), fees shall be limited to reasonable standard charges for document search and duplication.
 
-> In this clause, the term “a representative of the news media” means any person or entity thatgathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
+> In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
 
 (iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
@@ -70,7 +70,7 @@
 
 (v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
-(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records.
+(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specificallyproviding for setting the level of fees for particular types of records.
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
@@ -90,7 +90,7 @@
 
 &emsp;(II) a voluntary or unilateral change in position by the agency, if the complainant's claim is not insubstantial.
 
-(F)(i) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies ofthe findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
+(F)(i) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies of the findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
 
 (ii) The Attorney General shall—
 
@@ -130,7 +130,7 @@
 
 (iv) Each agency may promulgate regulations, pursuant to notice and receipt of public comment, providing for the aggregation of certain requests by the same requestor, or by a group of requestors acting in concert, if the agency reasonably believes that such requests actually constitute a single request, which would otherwise satisfy the unusual circumstances specified in this subparagraph, and the requests involve clearly related matters. Multiple requests involving unrelated matters shall not be aggregated.
 
-(C)(i) Any person making a request to any agency for records under paragraph (1), (2), or (3) of this subsection shall be deemed to have exhausted his administrative remedies with respect to such request if the agency fails to comply with the applicable time limit provisions of this paragraph. If the Government can show exceptional circumstances exist and that the agency is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records. Upon any determination by an agency to comply with a request for records, the records shall be made promptly available to such person making such request. Any notification of denial of any request forrecords under this subsection shall set forth the names and titles or positions of each person responsible for the denial of such request.
+(C)(i) Any person making a request to any agency for records under paragraph (1), (2), or (3) of this subsection shall be deemed to have exhausted his administrative remedies with respect to such request if the agency fails to comply with the applicable time limit provisions of this paragraph. If the Government can show exceptional circumstances exist and that the agency is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records. Upon any determination by an agency to comply with a request for records, the records shall be made promptly available to such person making such request. Any notification of denial of any request for records under this subsection shall set forth the names and titles or positions of each person responsible for the denial of such request.
 
 (ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
 
@@ -156,7 +156,7 @@
 
 (iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
-(iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
+(iv) A district court of the United States shall not have jurisdiction to review an agency denialof expedited processing of a request for records after the agency has provided a complete response to the request.
 
 (v) For purposes of this subparagraph, the term “compelling need” means—
 
@@ -266,7 +266,7 @@
 
 (3) Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.
 
-(4) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
+(4) The Attorney General of the United States shall make each report which has been madeavailable by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
 
 (5) The Attorney General of the United States, in consultation with the Director of the Office of Management and Budget, shall develop reporting and performance guidelines in connection with reports required by this subsection by October 1, 1997, and may establish additional requirements for such reports as the Attorney General determines may be useful.
 
@@ -320,9 +320,9 @@
 
 &emsp;(6) designate one or more FOIA Public Liaisons.
 
-(<i>l</i>) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
+(l) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L.94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184.)
 
 Historical and Revision Notes<br>1966
 
@@ -408,7 +408,7 @@ Subsec. (e)(4) to (6). Pub. L. 110–175, §8(b)(1), redesignated pars. (3) to (
 
 Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 110–175, §10(a), added subsecs. (h) to (<i>l</i>).
+Subsecs. (h) to (l). Pub. L. 110–175, §10(a), added subsecs. (h) to (l).
 
 <b>2002</b>—Subsec. (a)(3)(A). Pub. L. 107–306, §312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
 
@@ -498,7 +498,7 @@ Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
@@ -514,7 +514,7 @@ Pub. L. 110–175, §10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: “The
 
 #### Effective Date of 1996 Amendment
 
-Section 12 of Pub. L. 104–231 provided that:
+Pub. L. 104–231, §12, Oct. 2, 1996, 110 Stat. 3054, provided that:
 
 “(a)
 
@@ -526,7 +526,7 @@ Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this se
 
 #### Effective Date of 1986 Amendment
 
-Section 1804 of Pub. L. 99–570 provided that:
+Pub. L. 99–570, title I, §1804, Oct. 27, 1986, 100 Stat. 3207–50, provided that:
 
 “(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
@@ -536,7 +536,7 @@ Section 1804 of Pub. L. 99–570 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1978 Amendment
 
@@ -548,19 +548,19 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Effective Date of 1974 Amendment
 
-Section 4 of Pub. L. 93–502 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the ninetieth day beginning after the date of enactment of this Act \[Nov. 21, 1974\].”
+Pub. L. 93–502, §4, Nov. 21, 1974, 88 Stat. 1564, provided that: “The amendments made by this Act \[amending this section\] shall take effect on the ninetieth day beginning after the date of enactment of this Act \[Nov. 21, 1974\].”
 
 #### Effective Date of 1967 Amendment
 
-Section 4 of Pub. L. 90–23 provided that: “This Act \[amending this section\] shall be effective July 4, 1967, or on the date of enactment \[June 5, 1967\], whichever is later.”
+Pub. L. 90–23, §4, June 5, 1967, 81 Stat. 56, provided that: “This Act \[amending this section\] shall be effective July 4, 1967, or on the date of enactment \[June 5, 1967\], whichever is later.”
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–231 provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
+Pub. L. 104–231, §1, Oct. 2, 1996, 110 Stat. 3048, provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
 
 #### Short Title of 1986 Amendment
 
-Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (§§1801–1804) of title I of Pub. L. 99–570, amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
+Pub. L. 99–570, title I, §1801, Oct. 27, 1986, 100 Stat. 3207–48, provided that: “This subtitle \[subtitle N (§§1801–1804) of title I of Pub. L. 99–570, amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
 
 #### Short Title
 
@@ -606,7 +606,7 @@ In general.—For any photograph described under subsection (c)(1), the Secretar
 
 &emsp;“(2)
 
-Certification expiration.—A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date onwhich the certification or renewal, \[sic\] is issued by the Secretary of Defense.
+Certification expiration.—A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date on which the certification or renewal, \[sic\] is issued by the Secretary of Defense.
 
 &emsp;“(3)
 
@@ -652,7 +652,7 @@ Pub. L. 110–175, §2, Dec. 31, 2007, 121 Stat. 2524, provided that: “Congres
 
 #### Limitation on Amounts Obligated or Expended From Claims and Judgment Fund
 
-Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
+Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of theUnited States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
 
 #### Nondisclosure of Certain Products of Commercial Satellite Operations
 
@@ -762,7 +762,7 @@ Funding.—There is authorized to be appropriated such sums as may be necessary 
 
 “(a)
 
-Release of Records.—Subject to subsections (b), (c), and (d), the Japanese Imperial Government Records Interagency Working Group shall release in their entirety Japanese Imperial Government records.
+Release of Records.—Subject to subsections (b), (c), and (d), the Japanese Imperial GovernmentRecords Interagency Working Group shall release in their entirety Japanese Imperial Government records.
 
 “(b)
 
@@ -928,7 +928,7 @@ Application of exemptions.—
 
 &emsp;&emsp;“(A)
 
-In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head mayexempt records otherwise subject to release under paragraph (1).
+In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -1038,7 +1038,7 @@ Section 1. The head of each Executive department and agency subject to the Freed
 
 Sec. 2. For purposes of this Order, the following definitions apply:
 
-(a) “Confidential commercial information” means records provided to the government by a submitter that arguably contain material exempt from releaseunder Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+(a) “Confidential commercial information” means records provided to the government by a submitter that arguably contain material exempt from release under Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
 
 (b) “Submitter” means any person or entity who provides confidential commercial information to the government. The term “submitter” includes, but is not limited to, corporations, state governments, and foreign governments.
 
@@ -1110,7 +1110,7 @@ Sec. 3. <i>Membership</i>. (a) The Working Group shall be composed of the follow
 
 (8) Three other persons appointed by the President.
 
-(b) The Senior Director for Records and Access Management of the National Security Council will serve asthe liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
+(b) The Senior Director for Records and Access Management of the National Security Council will serve as the liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
 
 Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the National Archives and Records Administration shall provide the Working Group with funding, administrative services, facilities, staff, and other support services necessary for the performance of the functions of the Working Group.
 
@@ -1136,7 +1136,7 @@ Section 1. <i>Policy.</i>
 
 Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
-(a) <i>Designation</i>. The head of each agency shall designate within 30 days of the date of this order a senior official of such agency (at the Assistant Secretary or equivalent level), to serve as the Chief FOIA Officer of that agency. The head of the agency shall promptly notify the Director of the Office of Management and Budget (OMB Director) and the Attorney General of such designation and of any changes thereafter in such designation.
+(a) <i>Designation</i>. The head of each agency shall designate within 30 days of the date of this order a senior official of such agency (at the Assistant Secretary or equivalent level), to serve as the Chief FOIA Officer ofthat agency. The head of the agency shall promptly notify the Director of the Office of Management and Budget (OMB Director) and the Attorney General of such designation and of any changes thereafter in such designation.
 
 (b) <i>General Duties</i>. The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency:
 
@@ -1162,7 +1162,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (v) As determined by the agency Chief FOIA Officer, in consultation with the FOIA Public Liaisons, each agency shall post appropriate information about its Center or Centers on the agency's website, including contact information for its FOIA Public Liaisons. In the case of an agency without a website, the agency shall publish the information on the Firstgov.gov website or, in the case of any agency with neither a website nor the capability to post on the Firstgov.gov website, in the Federal Register; and
 
-(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whetherthe agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
+(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
 
 Sec. 3. <i>Review, Plan, and Report.</i>
 

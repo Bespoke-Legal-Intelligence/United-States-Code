@@ -44,7 +44,7 @@ For purposes of this subpart:
 
 &emsp;(9) The term “costs of resources allocated for the process for the review of animal drug applications” means the expenses incurred in connection with the process for the review of animal drug applications for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific animal drug applications, supplemental animal drug applications, or investigational animal drug submissions,and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities,
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific animal drug applications, supplemental animal drug applications, or investigational animal drug submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities,
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources,
 
@@ -118,7 +118,7 @@ Pub. L. 108–130, §2, Nov. 18, 2003, 117 Stat. 1361, provided that: “Congres
 
 &emsp;“(1) Prompt approval of safe and effective new animal drugs is critical to the improvement of animal health and the public health.
 
-&emsp;“(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food andDrug Administration that are devoted to the process for review of new animal drug applications.
+&emsp;“(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of new animal drug applications.
 
 &emsp;“(3) The fees authorized by this Act \[enacting this subpart and provisions set out as notes under this section and section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 

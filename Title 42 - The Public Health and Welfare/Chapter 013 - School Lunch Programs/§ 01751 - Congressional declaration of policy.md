@@ -14,7 +14,7 @@ Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 2010 Amendment
 
@@ -34,7 +34,7 @@ Pub. L. 104–149, §1, May 29, 1996, 110 Stat. 1379, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–448, §1(a), Nov. 2, 1994, 108 Stat. 4699, provided that: “This Act \[enacting sections 1766b and 1769f to 1769h of this title, amending sections 280c–6, 1396a, 1755, 1756, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769a, 1769b–1, 1769c, 1773, 1776, 1779, 1786, and 1788 of this title, section 2018 of Title 7, Agriculture, section 1484a of Title 20, Education, and section 3803 of Title 31, Money and Finance, enacting provisions set out as notes under this section and sections 1755, 1758, 1760, 1761, 1762a, 1769f, and 1786 of this title, amending provisions set out as notes under section 1786 of this title and section 612c of Title 7, and repealing provisions set out as a note under section 1786 of this title\] may be cited as the ‘Healthy Meals for Healthy Americans Act of 1994’.”
+Pub. L. 103–448, §1(a), Nov. 2, 1994, 108 Stat. 4699, provided that: “This Act \[enacting sections 1766b and 1769f to 1769h of this title, amending sections 280c–6, 1396a,1755, 1756, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769a, 1769b–1, 1769c, 1773, 1776, 1779, 1786, and 1788 of this title, section 2018 of Title 7, Agriculture, section 1484a of Title 20, Education, and section 3803 of Title 31, Money and Finance, enacting provisions set out as notes under this section and sections 1755, 1758, 1760, 1761, 1762a, 1769f, and 1786 of this title, amending provisions set out as notes under section 1786 of this title and section 612c of Title 7, and repealing provisions set out as a note under section 1786 of this title\] may be cited as the ‘Healthy Meals for Healthy Americans Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 102–342, §1, Aug. 14, 1992, 106 Stat. 911, provided that: “This Act
 
 #### Short Title of 1989 Amendment
 
-Section 1(a) of Pub. L. 101–147 provided that: “This Act \[enacting sections 1766a, 1769b–1, 1769c, 1769d, and 1769e of this title, amending this section and sections 1753, 1755–1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769–1769b, 1772, 1773, 1776, 1779, 1783, 1784, 1786, and 1788 of this title, repealing sections 1762 and 1763 of this title, enacting provisions set out as notes under this section and sections 1755, 1758, 1761, 1762a, 1766, 1766a, 1769, 1769c, 1773, 1776, and 1786 of this title, and amending provisions set out as a note under section 1766 of this title\] may be cited as the ‘Child Nutrition and WIC Reauthorization Act of 1989’.”
+Pub. L. 101–147, §1(a), Nov. 10, 1989, 103 Stat. 877, provided that: “This Act \[enacting sections 1766a, 1769b–1, 1769c, 1769d, and 1769e of this title, amending this section and sections 1753, 1755–1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769–1769b, 1772, 1773, 1776, 1779, 1783, 1784, 1786, and 1788 of this title, repealing sections 1762 and 1763 of this title, enacting provisions set out as notes under this section and sections 1755, 1758, 1761, 1762a, 1766, 1766a, 1769, 1769c, 1773, 1776, and 1786 of this title, and amending provisions set out as a note under section 1766 of this title\] may be cited as the ‘Child Nutrition and WIC Reauthorization Act of 1989’.”
 
 #### Short Title of 1986 Amendments
 
@@ -72,7 +72,7 @@ Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[
 
 #### Short Title
 
-Section 1 of act June 4, 1946, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Richard B. Russell National School Lunch Act’.”
+Act June 4, 1946, ch. 281, §1, 60 Stat. 230, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Richard B. Russell National School Lunch Act’.”
 
 #### Indirect Costs
 
@@ -110,7 +110,7 @@ Regulations.—After conducting the study under subsection (b)(1) and identifyin
 
 “(d)
 
-Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education andLabor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
+Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
 
 “(e)
 
@@ -180,7 +180,7 @@ Requirements.—In establishing the comprehensive meal program under subsection 
 
 &emsp;“(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;“(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(<i>l</i>)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(<i>l</i>)(4)).
+&emsp;“(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(4)).
 
 “(c)
 
@@ -196,7 +196,7 @@ Recommendations with respect to change in payment amounts.—If the Secretary pr
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 
-Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schoolsthat participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
 
 #### School Lunch Studies
 

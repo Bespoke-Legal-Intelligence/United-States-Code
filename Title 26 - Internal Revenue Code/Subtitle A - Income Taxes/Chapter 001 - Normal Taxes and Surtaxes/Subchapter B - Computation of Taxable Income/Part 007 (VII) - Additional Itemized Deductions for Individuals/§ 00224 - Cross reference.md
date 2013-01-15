@@ -4,15 +4,11 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 72, §217; renumbered §218, Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; renumbered §219, Pub. L. 92–178, title VII, §702(a), Dec. 10, 1971, 85 Stat. 561; renumbered §220, Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; renumbered §221, Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; renumbered §222, renumbered §223, Pub. L. 97–34, title I, §§103(a), 125(a), Aug. 13, 1981, 95 Stat. 187, 201; renumbered §220 and amended Pub. L. 99–514, title I, §135(b)(1), title III, §301(b)(5)(A), Oct. 22, 1986, 100 Stat. 2116, 2217; renumbered §221, Pub. L. 100–647, title VI, §6007(a), Nov. 10, 1988, 102 Stat. 3687; renumbered §220, Pub. L. 101–508, title XI, §11802(e)(2), Nov. 5, 1990, 104 Stat. 1388–530; renumbered §221, Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; renumbered §222, Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; renumbered §223, Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; renumbered §224, Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–173 renumbered section 223 of this title as this section.
 
-<b>2001</b>—Pub. L. 107–16, §§431(a), 901, temporarily renumbered section 222 as this section. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16 renumbered section 222 of this title as this section.
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 221 of this title as this section.
 
@@ -38,11 +34,9 @@ Pub. L. 99–514, §301(b)(5)(A), amended section generally, substituting “ref
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
-
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, seesection 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 #### Effective Date of 1986 Amendment
 

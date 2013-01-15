@@ -28,7 +28,7 @@ With respect to the development of each water resources project, the Secretary s
 
 #### (f) State authority
 
-If the coordinated review process is being implemented under this section by the Secretary with respect to the development of a water resources project described in subsection (b) within the boundaries of a State, the State, consistent with State law, may choose to participate in the process and to make subject to the process all State agencies that—
+If the coordinated review process is being implemented under this section by the Secretarywith respect to the development of a water resources project described in subsection (b) within the boundaries of a State, the State, consistent with State law, may choose to participate in the process and to make subject to the process all State agencies that—
 
 &emsp;(1) have jurisdiction over the project;
 

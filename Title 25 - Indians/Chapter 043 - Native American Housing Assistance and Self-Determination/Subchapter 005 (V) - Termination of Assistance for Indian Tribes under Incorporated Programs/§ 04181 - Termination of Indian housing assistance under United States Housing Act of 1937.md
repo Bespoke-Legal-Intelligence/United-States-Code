@@ -22,5 +22,5 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date
 
-Section 508 of Pub. L. 104–330 provided that: “Sections 502, 503, and 507 \[25 U.S.C. 4181, 4182, 4183\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
+Pub. L. 104–330, title V, §508, Oct. 26, 1996, 110 Stat. 4045, provided that: “Sections 502, 503, and 507 \[25 U.S.C. 4181, 4182, 4183\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
 

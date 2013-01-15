@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) The Secretary of Transportation by regulation shall prescribe a vehicletheft prevention standard that conforms to the requirements of this chapter. The standard shall apply to—
+General.—(1) The Secretary of Transportation by regulation shall prescribe a vehicle theft prevention standard that conforms to the requirements of this chapter. The standard shall apply to—
 
 &emsp;(A) covered major parts that manufacturers install in passenger motor vehicles in lines designated under section 33104 of this title as high theft lines; and
 
@@ -30,7 +30,7 @@ Limitations on Major Part and Replacement Part Standards.—(1) For a major part
 
 (d)
 
-Records and Reports.—This chapter does not authorize the Secretary to require a person to keep records or make reports, except as provided in sections 33104(c), 33106(c), 33108(a), and 33112 of this title.
+Records and Reports.—This chapter does not authorize the Secretary to require a person to keep records or make reports, except as provided in sections 33104(c), 33106(c), 33108(a), and 33112 <sup>1</sup> of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1077.)
 
@@ -73,4 +73,10 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §602(e); added Oct. 25, 1984, Pu
 In subsection (a)(1), before clause (A), the words “in accordance with this section” are omitted as surplus.
 
 In subsection (a)(2), the text of 15:2022(c)(1)–(3) is omitted as obsolete because the standard has already been prescribed. See 49 C.F.R. part 541.
+
+#### References in Text
+
+Section 33112 of this title, referred to in subsec. (d), was repealed by Pub. L. 112–141, div. C, title I, §31313(2), July 6, 2012, 126 Stat. 772.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

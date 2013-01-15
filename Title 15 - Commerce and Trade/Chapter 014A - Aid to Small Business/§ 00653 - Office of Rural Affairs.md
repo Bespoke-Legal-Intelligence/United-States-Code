@@ -46,7 +46,7 @@ Pub. L. 101–574, title III, §306, Nov. 15, 1990, 104 Stat. 2829, provided tha
 
 “(a)
 
-In General.—The Chief Counsel for Advocacy of the Small Business Administration shall, as soon as practicable after the catalog (described in section 305 \[probably means section 304, set out above\] and hereinafter referred to as the ‘catalog’) is issued, but not later than 90 days after the date such catalog is issued, convene regional rural conferences in 5 cities or towns in the United States.
+In General.—The Chief Counsel for Advocacy of the Small Business Administration shall, as soon as practicable after the catalog (described in section 305 \[probably means section 304, set out above\] and hereinafter referred to as the ‘catalog’) is issued, but not later than 90 days after the date such catalog is issued,convene regional rural conferences in 5 cities or towns in the United States.
 
 “(b)
 

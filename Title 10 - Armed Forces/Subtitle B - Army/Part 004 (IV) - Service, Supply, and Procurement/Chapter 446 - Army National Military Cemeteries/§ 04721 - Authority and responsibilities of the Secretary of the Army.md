@@ -32,7 +32,7 @@ Pub. L. 112–81, div. A, title V, §591(b), Dec. 31, 2011, 125 Stat. 1441, prov
 
 “(1)
 
-Deadline for conversion and use.—Not later than June 1, 2012, all records related to interments and inurnments at Arlington National Cemetery shall be converted to a digitized format. Thereafter, use of thedigitized format shall be the method by which all subsequent records related to interments and inurnments at Arlington National Cemetery are preserved and utilized.
+Deadline for conversion and use.—Not later than June 1, 2012, all records related to interments and inurnments at Arlington National Cemetery shall be converted to a digitized format. Thereafter, use of the digitized format shall be the method by which all subsequent records related to interments and inurnments at Arlington National Cemetery are preserved and utilized.
 
 “(2)
 

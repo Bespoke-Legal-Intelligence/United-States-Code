@@ -2,7 +2,7 @@
 
 #### (a) Authority of Chief Administrative Officer
 
-At the request of any Member, officer, or committee of the House of Representatives, or theResident Commissioner from Puerto Rico, and with the approval of the Committee on House Oversight, but subject to the limitations prescribed by this Act, the Chief Administrative Officer of the House of Representatives shall furnish office equipment for use in the office of that Member, Resident Commissioner, officer, or committee. Office equipment so furnished is limited to equipment of those types and categories which the Committee on House Oversight shall prescribe.
+At the request of any Member, officer, or committee of the House of Representatives, or the Resident Commissioner from Puerto Rico, and with the approval of the Committee on House Oversight, but subject to the limitations prescribed by this Act, the Chief Administrative Officer of the House of Representatives shall furnish office equipment for use in the office of that Member, Resident Commissioner, officer, or committee. Office equipment so furnished is limited to equipment of those types and categories which the Committee on House Oversight shall prescribe.
 
 #### (b) Registration and ownership
 
@@ -38,5 +38,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section 3 of Pub. L. 91–139 provided that: “This Act \[enacting this section and provisions set out as notes under this section and sections 112a to 112d of this title, and repealing sections 112a to 112d of this title\] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act \[Dec. 5, 1969\].”
+Pub. L. 91–139, §3, Dec. 5, 1969, 83 Stat. 292, provided that: “This Act \[enacting this section and provisions set out as notes under this section and sections 112a to 112d of this title, and repealing sections 112a to 112d of this title\] shall become effective at the beginning of the first calendar month which commences on or after the date of enactment of this Act \[Dec. 5, 1969\].”
 

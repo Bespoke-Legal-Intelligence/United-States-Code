@@ -12,7 +12,7 @@
 
 &emsp;(i) greater than the sum of—
 
-&emsp;&emsp;(I) an amount that does not exceed one-half of the current average market yield on outstanding marketable obligations of the United States with maturities of 5 years; and
+&emsp;&emsp;(I) an amount that does not exceed one-half of the current average market yield onoutstanding marketable obligations of the United States with maturities of 5 years; and
 
 &emsp;&emsp;(II) an amount not exceeding 1 percent per year, as the Secretary determines is appropriate; or
 
@@ -40,7 +40,7 @@ In general.—Except as provided in clause (ii) and notwithstanding subparagraph
 
 Exception.—Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
-(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1)and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
+(4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
 (5)(A) Except as provided in subparagraph (B), the interest rate on any loan made under this subchapter as a guaranteed loan shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
 
@@ -78,7 +78,7 @@ The Secretary may not—
 
 &emsp;(2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a),title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
+(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1994 Amendment
 
-Section 113(b) of Pub. L. 103–328 provided that:
+Pub. L. 103–328, title I, §113(b), Sept. 29, 1994, 108 Stat. 2366, provided that:
 
 “(1)
 
@@ -162,15 +162,15 @@ State option.—Except as provided in paragraph (3), the amendments made by subs
 
 “(3)
 
-Transitional period.—In any case in which a State takes an action described in paragraph (2), theamendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.”
+Transitional period.—In any case in which a State takes an action described in paragraph (2), the amendments made by subsection (a) shall continue to apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act in the State after the date the action was taken pursuant to a commitment for the loan that was entered into during the period beginning on the date of enactment of this Act, and ending on the date on which the State takes the action.”
 
 #### Effective Date of 1992 Amendment
 
-Section 516(c)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) \[amending section 1924 of this title\] took effect.
+Pub. L. 102–552, title V, §516(c)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendments made by paragraph (1) of this subsection \[amending this section\] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) \[amending section 1924 of this title\] took effect.
 
 #### Effective Date of 1981 Amendment
 
-Section 160(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and section 1946 of this title\] shall apply to loans approved after September 30, 1981.”
+Pub. L. 97–35, title I, §160(c), Aug. 13, 1981, 95 Stat. 378, provided that: “The amendments made by this section \[amending this section and section 1946 of this title\] shall apply to loans approved after September 30, 1981.”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

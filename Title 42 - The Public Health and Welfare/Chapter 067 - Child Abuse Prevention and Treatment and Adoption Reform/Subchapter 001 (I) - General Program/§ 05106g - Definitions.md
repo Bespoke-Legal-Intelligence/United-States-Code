@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(iii) otherwise be futile in terms of the survival of the infant; or
 
-&emsp;&emsp;(C) the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane; <sup>1</sup>
+&emsp;&emsp;(C) the provision of such treatment would be virtually futile in terms of the survival ofthe infant and the treatment itself under such circumstances would be inhumane; <sup>1</sup>
 
 (Pub. L. 93–247, title I, §111, formerly §14, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §113, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(7), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §111 and amended Pub. L. 104–235, title I, §§110, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 111–320, title I, §§119, 142(b), Dec. 20, 2010, 124 Stat. 3477, 3483.)
 

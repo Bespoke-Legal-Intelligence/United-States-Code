@@ -146,7 +146,7 @@ With respect to home health services furnished on or after October 1, 1998, no c
 
 #### (d) Limitation on review
 
-There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of—
+There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise of—
 
 &emsp;(1) the establishment of a transition period under subsection (b)(1) of this section;
 
@@ -270,7 +270,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(19)\] of Pub. L. 106–113
 
 #### Effective Date
 
-Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
+Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395l, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
 
 #### Study and Report on the Development of Home Health Payment Revisions in Order To Ensure Access to Care and Payment for Severity of Illness
 
@@ -432,7 +432,7 @@ Definitions.—In this section:
 
 &emsp;“(1)
 
-Home health agency.—The term ‘home health agency’ has the meaning given such term in section 1861(<i>o</i>) of the Social Security Act (42 U.S.C. 1395x(<i>o</i>)).
+Home health agency.—The term ‘home health agency’ has the meaning given such term in section 1861(o) of the Social Security Act (42 U.S.C. 1395x(o)).
 
 &emsp;“(2)
 
@@ -612,7 +612,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Home health agency.—The term ‘home health agency’ has the meaning given that termunder section 1861(<i>o</i>) of the Social Security Act (42 U.S.C. 1395x(<i>o</i>)).
+Home health agency.—The term ‘home health agency’ has the meaning given that termunder section 1861(o) of the Social Security Act (42 U.S.C. 1395x(o)).
 
 &emsp;&emsp;“(B)
 
@@ -676,11 +676,11 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[N
 
 #### Case Mix System Development
 
-Section 4602(d) of Pub. L. 105–33 provided that: “The Secretary of Health and Human Services shall expand research on a prospective payment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs.”
+Pub. L. 105–33, title IV, §4602(d), Aug. 5, 1997, 111 Stat. 467, provided that: “The Secretary of Health and Human Services shall expand research on a prospective payment system for home health agencies under the medicare program that ties prospective payments to a unit of service, including an intensive effort to develop a reliable case mix adjuster that explains a significant amount of the variances in costs.”
 
 #### Case Mix System; Submission of Data
 
-Section 4602(e) of Pub. L. 105–33 provided that: “Effective for cost reporting periods beginning on or after October 1, 1997, the Secretary of Health and Human Services may require all home health agencies to submit additional information that the Secretary considers necessary for the development of a reliable case mix system.”
+Pub. L. 105–33, title IV, §4602(e), Aug. 5, 1997, 111 Stat. 467, provided that: “Effective for cost reporting periods beginning on or after October 1, 1997, the Secretary of Health and Human Services may require all home health agencies to submit additional information that the Secretary considers necessary for the development of a reliable case mix system.”
 
 #### Prospective Payment System Contingency
 
@@ -688,7 +688,7 @@ Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended b
 
 #### Reports to Congress Regarding Home Health Cost Containment
 
-Section 4616 of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §4616, Aug. 5, 1997, 111 Stat. 475, provided that:
 
 “(a)
 
@@ -696,7 +696,7 @@ Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Se
 
 “(b)
 
-Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program.”
+Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such othermethods as will reduce the growth in outlays for home health services under the medicare program.”
 
 <i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
 

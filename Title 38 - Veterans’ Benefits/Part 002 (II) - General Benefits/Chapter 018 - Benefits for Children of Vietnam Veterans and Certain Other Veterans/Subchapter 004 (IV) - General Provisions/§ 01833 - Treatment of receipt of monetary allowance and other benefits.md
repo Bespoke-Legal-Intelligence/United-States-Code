@@ -2,7 +2,7 @@
 
 (a)
 
-Coordination With Other Benefits Paid to the Recipient.—Notwithstanding any other provision of law, receipt by an individual of a monetary allowance under this chapter shall not impair, infringe, or otherwise affect the right of the individual to receive any other benefit to which the individual is otherwise entitled under any law administered by the Secretary.
+Coordination With Other Benefits Paid to the Recipient.—Notwithstanding any other provision of law, receipt by an individual of a monetary allowance under this chapter shall not impair, infringe, or otherwise affect the right ofthe individual to receive any other benefit to which the individual is otherwise entitled under any law administered by the Secretary.
 
 (b)
 

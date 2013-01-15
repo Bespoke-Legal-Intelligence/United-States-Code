@@ -4,13 +4,13 @@
 
 (b)(1) Each State shall submit to the Secretary such information as the Secretary shall, by regulation, require as necessary, in his opinion, to verify the certification of such State under subsection (b) of this section.
 
-(2) If a State fails to certify as required by subsection (b) of this section or if the Secretary determines that a State is not adequately enforcing all State laws respecting such maximum vehicle size and weights, notwithstanding such a certification, then Federal-aid highway funds apportioned to such State for such fiscal year shall be reduced by amounts equal to 10 per centum of the amount which would otherwise be apportioned to such State under section 104 of this title.
+(2) If a State fails to certify as required by subsection (b) of this section or if the Secretary determines that a State is not adequately enforcing all State laws respecting such maximum vehicle size and weights, notwithstanding such a certification, then Federal-aid highway funds apportioned to such State for such fiscal year shall be reduced by amounts equal to 7 percent of the amount which would otherwise be apportioned to such State under paragraphs (1) through (5) of section 104(b).
 
 (3) If within one year from the date that the apportionment for any State is reduced in accordance with paragraph (2) of this subsection the Secretary determines that such State is enforcing all State laws respecting maximum size and weights, the apportionment of such State shall be increased by an amount equal to such reduction. If the Secretary does not make such a determination within such one-year period, the amounts so withheld shall be reapportioned to all other eligible States.
 
-(c) The Secretary shall reduce the State's apportionment of Federal-aid highway funds under section 104(b)(4) in an amount up to 25 per centum of the amount to be apportioned in any fiscal year beginning after September 30, 1984, during which heavy vehicles, subject to the use tax imposed by section 4481 of the Internal Revenue Code of 1986, may be lawfully registered in the State without having presented proof of payment, in such form as may be prescribed by theSecretary of the Treasury, of the use tax imposed by section 4481 of such Code. Amounts withheld from apportionment to a State under this subsection shall be apportioned to the other States pursuant to the formulas of section 104(b)(4) and shall be available in the same manner and to the same extent as other Interstate funds apportioned at the same time to other States.
+(c) The Secretary shall reduce the State's apportionment of Federal-aid highway funds under section 104(b)(1) in an amount up to 8 percent of the amount to be apportioned in any fiscal year beginning after September 30, 1984, during which heavy vehicles, subject to the use tax imposed by section 4481 of the Internal Revenue Code of 1986, may be lawfully registered in the State without having presented proof of payment, in such form as may be prescribed by the Secretary of the Treasury, of the use tax imposed by section 4481 of such Code. Amounts withheld from apportionment to a State under this subsection shall be apportioned to the other States pursuant to the formulas of section 104(b)(1) and shall be available in the same manner and to the same extent as other Interstate funds apportioned at the same time to other States.
 
-(Added Pub. L. 93–643, §107(a), Jan. 4, 1975, 88 Stat. 2284; amended Pub. L. 95–599, title I, §123(d), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 97–424, title I, §143, Jan. 6, 1983, 96 Stat. 2129; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–240, title I, §1023(c), Dec. 18, 1991, 105 Stat. 1954; Pub. L. 103–429, §3(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(d)(1)(A), Nov. 28, 1995, 109 Stat. 577; Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(C), June 9, 1998, 112 Stat. 126.)
+(Added Pub. L. 93–643, §107(a), Jan. 4, 1975, 88 Stat. 2284; amended Pub. L. 95–599, title I, §123(d), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 97–424, title I, §143, Jan. 6, 1983, 96 Stat. 2129; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–240, title I, §1023(c), Dec. 18, 1991, 105 Stat. 1954; Pub. L. 103–429, §3(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(d)(1)(A), Nov. 28, 1995, 109 Stat. 577; Pub. L. 105–178, title I, §1103(l)(3)(C), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §1404(c), (d), July 6, 2012, 126 Stat. 558.)
 
 #### References in Text
 
@@ -21,6 +21,10 @@ Section 4481 of the Internal Revenue Code of 1986, referred to in subsec. (c), i
 A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, related to real property acquisition policies, prior to repeal by Pub. L. 91–646, title III, §306, Jan. 2, 1971, 84 Stat. 1907, such repeal becoming effective as to all States after July 1, 1972, the date on which sections 4630 and 4655 of Title 42, The Public Health and Welfare, covering similar subject matter, became applicable to all States.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1404(c), substituted “7 percent” for “10 per centum” and “paragraphs (1) through (5) of section 104(b)” for “section 104 of this title”.
+
+Subsec. (c). Pub. L. 112–141, §1404(d), substituted “section 104(b)(1)” for “section 104(b)(4)” in two places and substituted “8 percent” for “25 per centum”.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
 
@@ -36,9 +40,13 @@ A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, rel
 
 <b>1978</b>—Pub. L. 95–599 designated existing provisions as subsecs. (a) and (b) and added subsec. (c).
 
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
 #### Effective Date of 1995 Amendment
 
-Section 205(d)(3) of Pub. L. 104–59 provided that: “The amendments made by paragraph (1) \[amending this section and repealing section 154 of this title\] shall be applicable to a State on the 10th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that if the legislature of a State is not in session on such date of enactment and the chief executive officer of the State declares, before such 10th day, that the legislature is not in session and that the State prefers an applicability date for such amendments that is after the date on which the legislature will convene, such amendments shall be applicable to the State on the 60th day following the date on which the legislature next convenes.”
+Pub. L. 104–59, title II, §205(d)(3), Nov. 28, 1995, 109 Stat. 577, provided that: “The amendments made by paragraph (1) \[amending this section and repealing section 154 of this title\] shall be applicable to a State on the 10th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that if the legislature of a State is not in session on such date of enactment and the chief executive officer of the State declares, before such 10th day, that the legislature is not in session and that the State prefers an applicability date for such amendments that is after the date on which the legislature will convene, such amendments shall be applicable to the State on the 60th day following the date on which the legislature next convenes.”
 
 #### Effective Date of 1991 Amendment
 
@@ -46,11 +54,11 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1978 Amendment
 
-Section 123(e) of Pub. L. 95–599 provided that subsec. (c)(2) and (3) of this section be applicable to certifications required by this section to be filed on or after Jan. 1, 1980, prior to repeal by Pub. L. 96–106, §12, Nov. 9, 1979, 93 Stat. 798.
+Pub. L. 95–599, title I, §123(e), Nov. 6, 1978, 92 Stat. 2702, provided that subsec. (c)(2) and (3) of this sectionbe applicable to certifications required by this section to be filed on or after Jan. 1, 1980, prior to repeal by Pub. L. 96–106, §12, Nov. 9, 1979, 93 Stat. 798.
 
 #### Enforcement of Vehicle Weight Limitations
 
-Section 123(a)–(c) of Pub. L. 95–599, as amended by Pub. L. 100–17, title I, §133(c)(4), Apr. 2, 1987, 101 Stat. 173, provided that:
+Pub. L. 95–599, title I, §123(a)–(c), Nov. 6, 1978, 92 Stat. 2701, as amended by Pub. L. 100–17, title I, §133(c)(4), Apr. 2, 1987, 101 Stat. 173, provided that:
 
 “(a) Not later than the one-hundred-eightieth day after the date of enactment of this section \[Nov. 6, 1978\], the Secretary of Transportation, hereunder referred to as the ‘Secretary’, in consultation with each State shall inventory the existing system of penalties for violations of vehicle weight laws, rules, and regulations on any portion of any Federal-aid system in such State. Each State shall annually thereafter report to the Secretary its current inventory.
 
